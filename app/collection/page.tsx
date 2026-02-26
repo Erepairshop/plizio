@@ -22,7 +22,22 @@ const GAME_COLORS: Record<string, string> = {
   skyclimb: "#00FF88",
 };
 
+const GAME_NAMES: Record<string, string> = {
+  quickpick: "Quick Pick",
+  reflexgrid: "Reflex Grid",
+  memoryflash: "Memory Flash",
+  daily: "Daily",
+  skyclimb: "Sky Climb",
+};
+
 const RARITY_ORDER: CardRarity[] = ["legendary", "gold", "silver", "bronze"];
+const RARITY_RANK: Record<CardRarity, number> = { legendary: 0, gold: 1, silver: 2, bronze: 3 };
+
+interface GameBest {
+  game: string;
+  bestCard: GameCard;
+  count: number;
+}
 
 export default function CollectionPage() {
   const router = useRouter();
@@ -32,12 +47,24 @@ export default function CollectionPage() {
     setCards(getCards());
   }, []);
 
-  const sortedCards = [...cards].sort((a, b) => {
-    const aIdx = RARITY_ORDER.indexOf(a.rarity);
-    const bIdx = RARITY_ORDER.indexOf(b.rarity);
-    if (aIdx !== bIdx) return aIdx - bIdx;
-    return new Date(b.date).getTime() - new Date(a.date).getTime();
-  });
+  // Group by game, find best card per game
+  const gameBests: GameBest[] = (() => {
+    const grouped: Record<string, GameCard[]> = {};
+    for (const card of cards) {
+      if (!grouped[card.game]) grouped[card.game] = [];
+      grouped[card.game].push(card);
+    }
+    return Object.entries(grouped)
+      .map(([game, gameCards]) => {
+        const best = gameCards.reduce((a, b) =>
+          RARITY_RANK[a.rarity] < RARITY_RANK[b.rarity] ? a :
+          RARITY_RANK[a.rarity] > RARITY_RANK[b.rarity] ? b :
+          a.score / a.total >= b.score / b.total ? a : b
+        );
+        return { game, bestCard: best, count: gameCards.length };
+      })
+      .sort((a, b) => RARITY_RANK[a.bestCard.rarity] - RARITY_RANK[b.bestCard.rarity]);
+  })();
 
   const rarityCounts = {
     legendary: cards.filter((c) => c.rarity === "legendary").length,
@@ -82,7 +109,7 @@ export default function CollectionPage() {
         })}
       </motion.div>
 
-      {/* Cards grid */}
+      {/* Game cards - one per game, showing best */}
       {cards.length === 0 ? (
         <motion.div
           className="flex flex-col items-center justify-center gap-4 mt-20"
@@ -90,56 +117,65 @@ export default function CollectionPage() {
           animate={{ opacity: 1 }}
         >
           <Layers size={48} className="text-white/10" />
-          <p className="text-white/20 text-sm">
-            <Crosshair size={14} className="inline mr-1" />
-            →
-            <Layers size={14} className="inline ml-1" />
-          </p>
+          <p className="text-white/20 text-sm">Play games to earn cards</p>
         </motion.div>
       ) : (
-        <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 max-w-lg mx-auto">
-          {sortedCards.map((card, i) => {
-            const config = getRarityConfig(card.rarity);
-            const GameIcon = GAME_ICONS[card.game] || Trophy;
-            const gameColor = GAME_COLORS[card.game] || "#FFD700";
+        <div className="flex flex-col gap-3 max-w-lg mx-auto">
+          {gameBests.map((gb, i) => {
+            const config = getRarityConfig(gb.bestCard.rarity);
+            const GameIcon = GAME_ICONS[gb.game] || Trophy;
+            const gameColor = GAME_COLORS[gb.game] || "#FFD700";
+            const gameName = GAME_NAMES[gb.game] || gb.game;
 
             return (
               <motion.div
-                key={card.id}
-                className="rounded-xl p-4 flex flex-col items-center gap-2.5 border"
+                key={gb.game}
+                className="rounded-2xl p-4 flex items-center gap-4 border"
                 style={{
-                  background: `linear-gradient(135deg, ${config.color}08, ${config.color}03)`,
-                  borderColor: `${config.color}30`,
-                  boxShadow: card.rarity === "legendary" || card.rarity === "gold"
-                    ? `0 0 15px ${config.color}15`
+                  background: `linear-gradient(135deg, ${gameColor}08, ${config.color}05)`,
+                  borderColor: `${config.color}25`,
+                  boxShadow: gb.bestCard.rarity === "legendary" || gb.bestCard.rarity === "gold"
+                    ? `0 0 20px ${config.color}10`
                     : undefined,
                 }}
-                initial={{ opacity: 0, scale: 0.8 }}
-                animate={{ opacity: 1, scale: 1 }}
-                transition={{ delay: i * 0.05 }}
+                initial={{ opacity: 0, x: -20 }}
+                animate={{ opacity: 1, x: 0 }}
+                transition={{ delay: i * 0.1 }}
               >
-                {/* Rarity label */}
-                <span className="text-[10px] font-black tracking-widest uppercase" style={{ color: config.color }}>
-                  {config.label}
-                </span>
-
                 {/* Game icon */}
                 <div
-                  className="p-2.5 rounded-lg"
+                  className="p-3 rounded-xl shrink-0"
                   style={{ background: `${gameColor}12` }}
                 >
-                  <GameIcon size={28} style={{ color: gameColor, filter: `drop-shadow(0 0 6px ${gameColor}40)` }} />
+                  <GameIcon size={24} style={{ color: gameColor, filter: `drop-shadow(0 0 6px ${gameColor}40)` }} />
                 </div>
 
-                {/* Score */}
-                <span className="text-lg font-black text-white/80">
-                  {card.score}/{card.total}
-                </span>
+                {/* Info */}
+                <div className="flex-1 min-w-0">
+                  <div className="flex items-center gap-2 mb-1">
+                    <span className="text-white/70 text-sm font-bold">{gameName}</span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <span className="text-[10px] font-black tracking-widest uppercase" style={{ color: config.color }}>
+                      {config.label}
+                    </span>
+                    <span className="text-white/20 text-[10px]">•</span>
+                    <span className="text-white/30 text-xs font-bold">
+                      {gb.bestCard.score}/{gb.bestCard.total}
+                    </span>
+                  </div>
+                </div>
 
-                {/* Date */}
-                <span className="text-[10px] text-white/20 font-mono">
-                  {new Date(card.date).toLocaleDateString()}
-                </span>
+                {/* Count badge */}
+                <div
+                  className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg shrink-0"
+                  style={{ background: `${gameColor}10` }}
+                >
+                  <Layers size={12} style={{ color: gameColor }} />
+                  <span className="font-bold text-sm" style={{ color: gameColor }}>
+                    {gb.count}
+                  </span>
+                </div>
               </motion.div>
             );
           })}

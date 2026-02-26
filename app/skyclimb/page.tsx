@@ -9,6 +9,7 @@ import Link from "next/link";
 import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, type CardRarity } from "@/lib/cards";
 import { getSkinDef, getActiveSkin } from "@/lib/skins";
+import { getHatDef, getActiveHat, getTrailDef, getActiveTrail } from "@/lib/accessories";
 import { incrementTotalGames, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
 
@@ -363,15 +364,21 @@ function createGameData(): GameData {
 }
 
 // ─── CHARACTER (BOX-MAN) ────────────────────────────
-function Character({ gameRef, skinId }: { gameRef: React.RefObject<GameData>; skinId: string }) {
+function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObject<GameData>; skinId: string; hatId: string | null; trailId: string | null }) {
   const groupRef = useRef<THREE.Group>(null);
   const bodyGroupRef = useRef<THREE.Group>(null);
   const leftLegRef = useRef<THREE.Group>(null);
   const rightLegRef = useRef<THREE.Group>(null);
   const leftArmRef = useRef<THREE.Group>(null);
   const rightArmRef = useRef<THREE.Group>(null);
+  const trailRef = useRef<THREE.Group>(null);
 
   const skin = useMemo(() => getSkinDef(skinId), [skinId]);
+  const hat = useMemo(() => hatId ? getHatDef(hatId) : null, [hatId]);
+  const trail = useMemo(() => trailId ? getTrailDef(trailId) : null, [trailId]);
+
+  // Trail particle positions
+  const trailParticles = useRef<{ x: number; y: number; z: number; life: number }[]>([]);
 
   const bodyMat = useMemo(() => new THREE.MeshStandardMaterial({
     color: skin.bodyColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity,
@@ -446,6 +453,31 @@ function Character({ gameRef, skinId }: { gameRef: React.RefObject<GameData>; sk
       if (leftArmRef.current) leftArmRef.current.rotation.x = armSwing;
       if (rightArmRef.current) rightArmRef.current.rotation.x = -armSwing;
     }
+
+    // Trail particles
+    if (trail && isMoving) {
+      trailParticles.current.push({ x: g.px, y: g.py + 0.3, z: g.pz, life: 30 });
+      if (trailParticles.current.length > 20) trailParticles.current.shift();
+    }
+    trailParticles.current = trailParticles.current
+      .map(p => ({ ...p, life: p.life - 1 }))
+      .filter(p => p.life > 0);
+
+    // Update trail mesh positions
+    if (trailRef.current && trail) {
+      const children = trailRef.current.children;
+      for (let i = 0; i < children.length; i++) {
+        const p = trailParticles.current[i];
+        if (p) {
+          children[i].position.set(p.x, p.y + (30 - p.life) * 0.02, p.z);
+          children[i].visible = true;
+          const scale = p.life / 30 * 0.6;
+          children[i].scale.set(scale, scale, scale);
+        } else {
+          children[i].visible = false;
+        }
+      }
+    }
   });
 
   return (
@@ -498,8 +530,8 @@ function Character({ gameRef, skinId }: { gameRef: React.RefObject<GameData>; sk
             distance={3}
           />
         )}
-        {/* Crown for legendary skin */}
-        {skin.id === "legendary" && (
+        {/* Crown for legendary skin (default if no hat equipped) */}
+        {skin.id === "legendary" && !hat && (
           <group position={[0, 1.05, 0]}>
             <mesh>
               <cylinderGeometry args={[0.18, 0.22, 0.1, 5]} />
@@ -517,7 +549,123 @@ function Character({ gameRef, skinId }: { gameRef: React.RefObject<GameData>; sk
             ))}
           </group>
         )}
+
+        {/* Equipped hat */}
+        {hat && hat.type === "crown" && (
+          <group position={[0, 1.05, 0]}>
+            <mesh>
+              <cylinderGeometry args={[0.18, 0.22, 0.1, 5]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            {[0, 1, 2, 3, 4].map((i) => (
+              <mesh key={i} position={[Math.sin((i / 5) * Math.PI * 2) * 0.17, 0.1, Math.cos((i / 5) * Math.PI * 2) * 0.17]}>
+                <boxGeometry args={[0.04, 0.08, 0.04]} />
+                <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity * 0.8} />
+              </mesh>
+            ))}
+          </group>
+        )}
+        {hat && hat.type === "cap" && (
+          <group position={[0, 1.02, 0]}>
+            <mesh>
+              <cylinderGeometry args={[0.22, 0.22, 0.08, 8]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            <mesh position={[0, 0.06, 0]}>
+              <sphereGeometry args={[0.2, 8, 4, 0, Math.PI * 2, 0, Math.PI / 2]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            <mesh position={[0, 0, 0.22]} rotation={[-0.3, 0, 0]}>
+              <boxGeometry args={[0.3, 0.02, 0.15]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity * 0.5} />
+            </mesh>
+          </group>
+        )}
+        {hat && hat.type === "halo" && (
+          <group position={[0, 1.15, 0]}>
+            <mesh rotation={[Math.PI / 2, 0, 0]}>
+              <torusGeometry args={[0.22, 0.03, 8, 16]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            <pointLight color={hat.emissive} intensity={1.5} distance={3} />
+          </group>
+        )}
+        {hat && hat.type === "horns" && (
+          <group position={[0, 1.0, 0]}>
+            <mesh position={[0.14, 0.08, 0]} rotation={[0, 0, 0.4]}>
+              <coneGeometry args={[0.06, 0.22, 5]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            <mesh position={[-0.14, 0.08, 0]} rotation={[0, 0, -0.4]}>
+              <coneGeometry args={[0.06, 0.22, 5]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+          </group>
+        )}
+        {hat && hat.type === "tophat" && (
+          <group position={[0, 1.02, 0]}>
+            <mesh>
+              <cylinderGeometry args={[0.22, 0.22, 0.04, 12]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            <mesh position={[0, 0.18, 0]}>
+              <cylinderGeometry args={[0.15, 0.15, 0.3, 12]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+          </group>
+        )}
+        {hat && hat.type === "helmet" && (
+          <group position={[0, 0.95, 0]}>
+            <mesh>
+              <sphereGeometry args={[0.22, 8, 6, 0, Math.PI * 2, 0, Math.PI / 2]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+          </group>
+        )}
+        {hat && hat.type === "antenna" && (
+          <group position={[0, 1.02, 0]}>
+            <mesh position={[0, 0.15, 0]}>
+              <cylinderGeometry args={[0.015, 0.015, 0.3, 4]} />
+              <meshStandardMaterial color="#888888" emissive="#444444" emissiveIntensity={0.2} />
+            </mesh>
+            <mesh position={[0, 0.33, 0]}>
+              <sphereGeometry args={[0.06, 8, 8]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            <pointLight position={[0, 0.33, 0]} color={hat.emissive} intensity={2} distance={3} />
+          </group>
+        )}
+        {hat && hat.type === "wizard" && (
+          <group position={[0, 1.0, 0]}>
+            <mesh>
+              <coneGeometry args={[0.22, 0.45, 6]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            <mesh position={[0, 0.0, 0]}>
+              <cylinderGeometry args={[0.25, 0.25, 0.04, 12]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity * 0.5} />
+            </mesh>
+          </group>
+        )}
       </group>
+
+      {/* Trail particles */}
+      {trail && (
+        <group ref={trailRef}>
+          {Array.from({ length: 20 }, (_, i) => (
+            <mesh key={i} visible={false}>
+              <sphereGeometry args={[0.15, 6, 6]} />
+              <meshStandardMaterial
+                color={trail.color}
+                emissive={trail.emissive}
+                emissiveIntensity={0.8}
+                transparent
+                opacity={0.6}
+              />
+            </mesh>
+          ))}
+        </group>
+      )}
     </group>
   );
 }
@@ -558,17 +706,17 @@ function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: Re
   const glowRef = useRef<THREE.PointLight>(null);
 
   const colors = useMemo(() => {
-    if (isGoal) return { c: "#4a9d38", e: "#FFD700", i: 0.25 };
+    if (isGoal) return { c: "#3aad38", e: "#FFD700", i: 0.35 };
     switch (plat.type) {
-      case "ground": return { c: "#3a7d28", e: "#1a3d10", i: 0.05 };
-      case "rock": return { c: "#7a7a7a", e: "#333333", i: 0.03 };
-      case "step": return { c: "#8a8278", e: "#444038", i: 0.03 };
-      case "bridge": return { c: "#8B6914", e: "#443208", i: 0.05 };
-      case "moving": return { c: "#00FF88", e: "#00FF88", i: 0.3 };
-      case "crumble": return { c: "#FF4466", e: "#FF4466", i: 0.3 };
-      case "ice": return { c: "#A0D8EF", e: "#00CED1", i: 0.4 };
-      case "bounce": return { c: "#FF8C00", e: "#FFD700", i: 0.5 };
-      default: return { c: "#3a7d28", e: "#1a3d10", i: 0.05 };
+      case "ground": return { c: "#4a9a38", e: "#2a6a18", i: 0.08 };
+      case "rock": return { c: "#8a8a90", e: "#505058", i: 0.05 };
+      case "step": return { c: "#9a9288", e: "#5a5248", i: 0.05 };
+      case "bridge": return { c: "#a07818", e: "#604010", i: 0.08 };
+      case "moving": return { c: "#00FF88", e: "#00FF88", i: 0.4 };
+      case "crumble": return { c: "#FF4466", e: "#FF4466", i: 0.4 };
+      case "ice": return { c: "#b0e8ff", e: "#00D4FF", i: 0.5 };
+      case "bounce": return { c: "#FFa020", e: "#FFD700", i: 0.6 };
+      default: return { c: "#4a9a38", e: "#2a6a18", i: 0.08 };
     }
   }, [plat.type, isGoal]);
 
@@ -769,23 +917,30 @@ function PowerUpMesh({ powerUp, gameRef }: { powerUp: PowerUpItem; gameRef: Reac
 // ─── CLOUDS ─────────────────────────────────────────
 function Clouds() {
   const clouds = useMemo(() => {
-    return Array.from({ length: 25 }, () => ({
-      x: (Math.random() - 0.5) * 120,
-      y: 12 + Math.random() * 25,
-      z: (Math.random() - 0.5) * 120,
-      sx: 2 + Math.random() * 4,
-      sy: 0.5 + Math.random() * 1,
-      sz: 1.5 + Math.random() * 3,
+    return Array.from({ length: 30 }, () => ({
+      x: (Math.random() - 0.5) * 140,
+      y: 14 + Math.random() * 30,
+      z: (Math.random() - 0.5) * 140,
+      blobs: Array.from({ length: 2 + Math.floor(Math.random() * 3) }, () => ({
+        ox: (Math.random() - 0.5) * 2.5,
+        oy: (Math.random() - 0.5) * 0.4,
+        oz: (Math.random() - 0.5) * 1.5,
+        r: 0.8 + Math.random() * 1.2,
+      })),
     }));
   }, []);
 
   return (
     <>
       {clouds.map((c, i) => (
-        <mesh key={i} position={[c.x, c.y, c.z]}>
-          <boxGeometry args={[c.sx, c.sy, c.sz]} />
-          <meshStandardMaterial color="#ffffff" transparent opacity={0.25} roughness={1} />
-        </mesh>
+        <group key={i} position={[c.x, c.y, c.z]}>
+          {c.blobs.map((b, j) => (
+            <mesh key={j} position={[b.ox, b.oy, b.oz]}>
+              <sphereGeometry args={[b.r, 6, 5]} />
+              <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.05} transparent opacity={0.2} roughness={1} />
+            </mesh>
+          ))}
+        </group>
       ))}
     </>
   );
@@ -795,14 +950,15 @@ function Clouds() {
 function DistantMountains() {
   const mountains = useMemo(() => {
     const arr = [];
-    for (let i = 0; i < 10; i++) {
-      const angle = (i / 10) * Math.PI * 2;
-      const r = 130 + Math.random() * 40;
+    for (let i = 0; i < 14; i++) {
+      const angle = (i / 14) * Math.PI * 2 + (Math.random() - 0.5) * 0.3;
+      const r = 100 + Math.random() * 50;
       arr.push({
         x: Math.cos(angle) * r,
         z: Math.sin(angle) * r,
-        height: 8 + Math.random() * 12,
-        width: 10 + Math.random() * 8,
+        height: 10 + Math.random() * 18,
+        width: 12 + Math.random() * 10,
+        color: i % 3 === 0 ? "#5a7a98" : i % 3 === 1 ? "#6a8ab0" : "#8a9ab0",
       });
     }
     return arr;
@@ -811,9 +967,9 @@ function DistantMountains() {
   return (
     <>
       {mountains.map((m, i) => (
-        <mesh key={i} position={[m.x, m.height / 2 - 5, m.z]}>
-          <coneGeometry args={[m.width, m.height, 4]} />
-          <meshStandardMaterial color="#7a9ab8" roughness={0.95} transparent opacity={0.5} />
+        <mesh key={i} position={[m.x, m.height / 2 - 6, m.z]}>
+          <coneGeometry args={[m.width, m.height, 5]} />
+          <meshStandardMaterial color={m.color} emissive={m.color} emissiveIntensity={0.05} roughness={0.95} transparent opacity={0.45} />
         </mesh>
       ))}
     </>
@@ -1127,7 +1283,45 @@ function GameLoop({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed 
 }
 
 // ─── SCENE ──────────────────────────────────────────
-function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, skinId }: {
+// ─── FLOATING PARTICLES (atmosphere) ────────────────
+function FloatingParticles() {
+  const particles = useMemo(() => {
+    return Array.from({ length: 40 }, () => ({
+      x: (Math.random() - 0.5) * 60,
+      y: 2 + Math.random() * 30,
+      z: (Math.random() - 0.5) * 60,
+      speed: 0.002 + Math.random() * 0.004,
+      phase: Math.random() * Math.PI * 2,
+      size: 0.04 + Math.random() * 0.06,
+    }));
+  }, []);
+
+  const refs = useRef<(THREE.Mesh | null)[]>([]);
+
+  useFrame((state) => {
+    const t = state.clock.elapsedTime;
+    for (let i = 0; i < particles.length; i++) {
+      const mesh = refs.current[i];
+      if (!mesh) continue;
+      const p = particles[i];
+      mesh.position.y = p.y + Math.sin(t * p.speed * 60 + p.phase) * 2;
+      mesh.position.x = p.x + Math.sin(t * 0.1 + p.phase) * 0.5;
+    }
+  });
+
+  return (
+    <>
+      {particles.map((p, i) => (
+        <mesh key={i} ref={(el) => { refs.current[i] = el; }} position={[p.x, p.y, p.z]}>
+          <sphereGeometry args={[p.size, 4, 4]} />
+          <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.8} transparent opacity={0.3} />
+        </mesh>
+      ))}
+    </>
+  );
+}
+
+function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, skinId, hatId, trailId }: {
   gameRef: React.RefObject<GameData>;
   onDie: () => void;
   onGoal: () => void;
@@ -1135,18 +1329,24 @@ function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, 
   onPowerUp: (type: PowerUpType) => void;
   onShieldUsed: () => void;
   skinId: string;
+  hatId: string | null;
+  trailId: string | null;
 }) {
   const g = gameRef.current;
   if (!g) return null;
 
   return (
     <>
-      <ambientLight intensity={0.45} color="#c8d8e8" />
-      <directionalLight position={[15, 25, 10]} intensity={1.1} color="#fff5e0" castShadow />
-      <hemisphereLight args={["#87CEEB", "#3a5c28", 0.35]} />
+      {/* Modernized lighting - warmer, more atmospheric */}
+      <ambientLight intensity={0.35} color="#e0d0f0" />
+      <directionalLight position={[15, 30, 10]} intensity={1.3} color="#fff0d0" castShadow />
+      <directionalLight position={[-10, 15, -5]} intensity={0.3} color="#a0c0ff" />
+      <hemisphereLight args={["#6db3f2", "#2a4c28", 0.4]} />
 
-      <fog attach="fog" args={["#b8d0e0", 35, 110]} />
+      {/* Atmospheric fog - deeper, more mysterious */}
+      <fog attach="fog" args={["#c0d4e8", 30, 100]} />
 
+      <FloatingParticles />
       <Clouds />
       <DistantMountains />
 
@@ -1158,7 +1358,7 @@ function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, 
         <PowerUpMesh key={`pu${i}`} powerUp={pu} gameRef={gameRef} />
       ))}
 
-      <Character gameRef={gameRef} skinId={skinId} />
+      <Character gameRef={gameRef} skinId={skinId} hatId={hatId} trailId={trailId} />
 
       <GameLoop gameRef={gameRef} onDie={onDie} onGoal={onGoal} onWinStart={onWinStart} onPowerUp={onPowerUp} onShieldUsed={onShieldUsed} />
     </>
@@ -1278,6 +1478,8 @@ export default function SkyClimbPage() {
   const [notification, setNotification] = useState<string | null>(null);
   const [shieldActive, setShieldActive] = useState(false);
   const [activeSkinId, setActiveSkinId] = useState("default");
+  const [activeHatId, setActiveHatId] = useState<string | null>(null);
+  const [activeTrailId, setActiveTrailId] = useState<string | null>(null);
   const [isTouchDevice, setIsTouchDevice] = useState(false);
   const gameRef = useRef<GameData>(createGameData());
 
@@ -1287,6 +1489,8 @@ export default function SkyClimbPage() {
     const saved = localStorage.getItem("plizio_skyclimb_highest");
     if (saved) setHighestLevel(parseInt(saved));
     setActiveSkinId(getActiveSkin());
+    setActiveHatId(getActiveHat());
+    setActiveTrailId(getActiveTrail());
 
     // Check if already in standalone/fullscreen
     setIsFullscreen(isStandalone());
@@ -1554,14 +1758,14 @@ export default function SkyClimbPage() {
               initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.4 }}
               whileTap={{ scale: 0.95 }}
             >
-              <Maximize size={16} /> Teljes kepernyo
+              <Maximize size={16} /> Fullscreen
             </motion.button>
           )}
 
           {isFullscreen && (
             <motion.div className="sm:hidden text-neon-green/40 text-xs flex items-center gap-1"
               initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-              <Maximize size={12} /> Fullscreen aktiv
+              <Maximize size={12} /> Fullscreen active
             </motion.div>
           )}
         </motion.div>
@@ -1580,14 +1784,14 @@ export default function SkyClimbPage() {
               initial={{ scale: 0.9, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}
               onClick={(e) => e.stopPropagation()}
             >
-              <div className="text-white font-bold text-lg text-center">Teljes kepernyo</div>
+              <div className="text-white font-bold text-lg text-center">Fullscreen</div>
               <div className="text-white/60 text-sm text-center leading-relaxed">
-                iOS-on a teljes kepernyo csak appkent mukodik. Add hozza a kezdokepernyohoz:
+                On iOS, fullscreen only works as an app. Add it to your home screen:
               </div>
               <div className="flex flex-col gap-3 text-white/80 text-sm">
                 <div className="flex items-center gap-3 bg-white/5 rounded-xl p-3">
                   <Share size={20} className="text-neon-blue shrink-0" />
-                  <span>1. Nyomd meg a <strong>Share</strong> gombot (alul)</span>
+                  <span>1. Tap the <strong>Share</strong> button (bottom)</span>
                 </div>
                 <div className="flex items-center gap-3 bg-white/5 rounded-xl p-3">
                   <span className="text-neon-blue text-xl shrink-0">+</span>
@@ -1595,7 +1799,7 @@ export default function SkyClimbPage() {
                 </div>
                 <div className="flex items-center gap-3 bg-white/5 rounded-xl p-3">
                   <Maximize size={20} className="text-neon-green shrink-0" />
-                  <span>3. Inditsd onnan - <strong>teljes kepernyo!</strong></span>
+                  <span>3. Launch from there - <strong>fullscreen!</strong></span>
                 </div>
               </div>
               <motion.button
@@ -1603,7 +1807,7 @@ export default function SkyClimbPage() {
                 className="mt-2 bg-neon-green/10 border border-neon-green/30 text-neon-green py-2 rounded-xl font-bold text-sm"
                 whileTap={{ scale: 0.95 }}
               >
-                Ertem
+                Got it
               </motion.button>
             </motion.div>
           </motion.div>
@@ -1614,8 +1818,8 @@ export default function SkyClimbPage() {
       {gameState === "playing" && (
         <div className="fixed inset-0 touch-none" style={{ height: "100dvh", width: "100vw" }}>
           <Canvas camera={{ fov: 60 }} gl={{ antialias: true }}
-            style={{ background: "linear-gradient(180deg, #4a8fca 0%, #87CEEB 40%, #b8d0e0 100%)", height: "100%", width: "100%" }}>
-            <Scene3D gameRef={gameRef} onDie={handleDie} onGoal={handleGoal} onWinStart={handleWinStart} onPowerUp={handlePowerUp} onShieldUsed={handleShieldUsed} skinId={activeSkinId} />
+            style={{ background: "linear-gradient(180deg, #2a5298 0%, #5b86c7 25%, #87CEEB 50%, #e8d5b7 85%, #f0c27f 100%)", height: "100%", width: "100%" }}>
+            <Scene3D gameRef={gameRef} onDie={handleDie} onGoal={handleGoal} onWinStart={handleWinStart} onPowerUp={handlePowerUp} onShieldUsed={handleShieldUsed} skinId={activeSkinId} hatId={activeHatId} trailId={activeTrailId} />
           </Canvas>
 
           {/* HUD */}

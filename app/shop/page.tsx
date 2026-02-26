@@ -2,10 +2,15 @@
 
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Star, ArrowLeft, Zap, Shield, Clock, Eye, Mountain, Crosshair, Brain, Check } from "lucide-react";
+import { Star, ArrowLeft, Zap, Shield, Clock, Eye, Mountain, Crosshair, Brain, Check, X } from "lucide-react";
 import Link from "next/link";
 import { getSpecialCardCount, spendSpecialCards } from "@/lib/specialCards";
 import { SKINS, getOwnedSkins, getActiveSkin, setActiveSkin, buySkin, type SkinDef } from "@/lib/skins";
+import {
+  HATS, TRAILS,
+  getOwnedHats, getActiveHat, setActiveHat, buyHat, type HatDef,
+  getOwnedTrails, getActiveTrail, setActiveTrail, buyTrail, type TrailDef,
+} from "@/lib/accessories";
 
 // ─── POWER-UP DEFINITIONS ────────────────────────────
 interface PowerUpDef {
@@ -39,13 +44,17 @@ const ABILITIES: AbilityDef[] = [
   { id: "shield_plus", icon: "🛡️", color: "#FFD700", price: 3 },
 ];
 
-type Tab = "powerups" | "skins" | "abilities";
+type Tab = "powerups" | "skins" | "hats" | "trails" | "abilities";
 
 export default function ShopPage() {
   const [balance, setBalance] = useState(0);
   const [ownedSkins, setOwnedSkins] = useState<string[]>(["default"]);
   const [activeSkin, setActiveSkinState] = useState("default");
-  const [tab, setTab] = useState<Tab>("powerups");
+  const [ownedHats, setOwnedHats] = useState<string[]>([]);
+  const [activeHat, setActiveHatState] = useState<string | null>(null);
+  const [ownedTrails, setOwnedTrails] = useState<string[]>([]);
+  const [activeTrail, setActiveTrailState] = useState<string | null>(null);
+  const [tab, setTab] = useState<Tab>("skins");
   const [notification, setNotification] = useState<string | null>(null);
   const [boughtPowerUps, setBoughtPowerUps] = useState<Record<string, number>>({});
 
@@ -53,7 +62,10 @@ export default function ShopPage() {
     setBalance(getSpecialCardCount());
     setOwnedSkins(getOwnedSkins());
     setActiveSkinState(getActiveSkin());
-    // Load bought power-ups from localStorage
+    setOwnedHats(getOwnedHats());
+    setActiveHatState(getActiveHat());
+    setOwnedTrails(getOwnedTrails());
+    setActiveTrailState(getActiveTrail());
     const saved = localStorage.getItem("plizio_powerups");
     if (saved) setBoughtPowerUps(JSON.parse(saved));
   }, []);
@@ -90,6 +102,53 @@ export default function ShopPage() {
     showNotif("Skin purchased!");
   };
 
+  const handleBuyHat = (hat: HatDef) => {
+    if (ownedHats.includes(hat.id)) {
+      // Toggle: if already active, remove it
+      if (activeHat === hat.id) {
+        setActiveHat(null);
+        setActiveHatState(null);
+        showNotif("Hat removed");
+      } else {
+        setActiveHat(hat.id);
+        setActiveHatState(hat.id);
+        showNotif("Hat equipped!");
+      }
+      return;
+    }
+    if (balance < hat.price) { showNotif("Not enough ⭐"); return; }
+    spendSpecialCards(hat.price);
+    buyHat(hat.id);
+    setOwnedHats(getOwnedHats());
+    setActiveHat(hat.id);
+    setActiveHatState(hat.id);
+    setBalance(getSpecialCardCount());
+    showNotif("Hat purchased!");
+  };
+
+  const handleBuyTrail = (trail: TrailDef) => {
+    if (ownedTrails.includes(trail.id)) {
+      if (activeTrail === trail.id) {
+        setActiveTrail(null);
+        setActiveTrailState(null);
+        showNotif("Trail removed");
+      } else {
+        setActiveTrail(trail.id);
+        setActiveTrailState(trail.id);
+        showNotif("Trail equipped!");
+      }
+      return;
+    }
+    if (balance < trail.price) { showNotif("Not enough ⭐"); return; }
+    spendSpecialCards(trail.price);
+    buyTrail(trail.id);
+    setOwnedTrails(getOwnedTrails());
+    setActiveTrail(trail.id);
+    setActiveTrailState(trail.id);
+    setBalance(getSpecialCardCount());
+    showNotif("Trail purchased!");
+  };
+
   const handleBuyAbility = (ab: AbilityDef) => {
     if (balance < ab.price) { showNotif("Not enough ⭐"); return; }
     spendSpecialCards(ab.price);
@@ -100,10 +159,12 @@ export default function ShopPage() {
     showNotif("+1 ability!");
   };
 
-  const TABS: { id: Tab; label: string; icon: string }[] = [
-    { id: "powerups", label: "⚡", icon: "⚡" },
-    { id: "skins", label: "🎨", icon: "🎨" },
-    { id: "abilities", label: "🏔️", icon: "🏔️" },
+  const TABS: { id: Tab; label: string }[] = [
+    { id: "skins", label: "🎨" },
+    { id: "hats", label: "🎩" },
+    { id: "trails", label: "✨" },
+    { id: "powerups", label: "⚡" },
+    { id: "abilities", label: "🏔️" },
   ];
 
   return (
@@ -127,19 +188,19 @@ export default function ShopPage() {
       </div>
 
       {/* Tabs */}
-      <div className="flex gap-2">
+      <div className="flex gap-1.5 overflow-x-auto max-w-md w-full justify-center">
         {TABS.map((t) => (
           <motion.button
             key={t.id}
             onClick={() => setTab(t.id)}
-            className={`px-5 py-2.5 rounded-xl font-bold text-sm border transition-all ${
+            className={`px-4 py-2 rounded-xl font-bold text-sm border transition-all shrink-0 ${
               tab === t.id
                 ? "bg-[#E040FB]/15 border-[#E040FB]/40 text-[#E040FB]"
                 : "bg-card border-white/5 text-white/30"
             }`}
             whileTap={{ scale: 0.95 }}
           >
-            {t.icon}
+            {t.label}
           </motion.button>
         ))}
       </div>
@@ -214,7 +275,6 @@ export default function ShopPage() {
                 whileHover={{ scale: 1.03 }}
                 whileTap={{ scale: 0.97 }}
               >
-                {/* Skin preview circle */}
                 <div
                   className="w-14 h-14 rounded-full flex items-center justify-center text-2xl"
                   style={{
@@ -225,8 +285,6 @@ export default function ShopPage() {
                 >
                   {skin.icon}
                 </div>
-
-                {/* Status */}
                 {active ? (
                   <div className="flex items-center gap-1">
                     <Check size={12} className="text-[#E040FB]" />
@@ -238,6 +296,100 @@ export default function ShopPage() {
                   <div className="flex items-center gap-1">
                     <Star size={10} className="text-[#E040FB]" />
                     <span className="text-[#E040FB] text-xs font-bold">{skin.price}</span>
+                  </div>
+                )}
+              </motion.button>
+            );
+          })}
+        </motion.div>
+      )}
+
+      {/* Hats tab */}
+      {tab === "hats" && (
+        <motion.div className="w-full max-w-md grid grid-cols-2 gap-3"
+          initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}>
+          {HATS.map((hat) => {
+            const owned = ownedHats.includes(hat.id);
+            const active = activeHat === hat.id;
+            return (
+              <motion.button
+                key={hat.id}
+                onClick={() => handleBuyHat(hat)}
+                className={`bg-card border rounded-2xl p-4 flex flex-col items-center gap-2 ${
+                  active ? "border-[#E040FB]/50" : owned ? "border-white/10" : "border-white/5"
+                }`}
+                style={active ? { boxShadow: `0 0 15px ${hat.color}30` } : undefined}
+                whileHover={{ scale: 1.03 }}
+                whileTap={{ scale: 0.97 }}
+              >
+                <div
+                  className="w-12 h-12 rounded-xl flex items-center justify-center text-2xl"
+                  style={{
+                    background: `${hat.color}15`,
+                    boxShadow: active ? `0 0 12px ${hat.color}30` : undefined,
+                  }}
+                >
+                  {hat.icon}
+                </div>
+                <span className="text-white/50 text-[10px] font-bold">{hat.name}</span>
+                {active ? (
+                  <div className="flex items-center gap-1">
+                    <Check size={12} className="text-[#E040FB]" />
+                    <span className="text-[#E040FB] text-xs font-bold">EQUIPPED</span>
+                  </div>
+                ) : owned ? (
+                  <span className="text-white/30 text-xs font-bold">EQUIP</span>
+                ) : (
+                  <div className="flex items-center gap-1">
+                    <Star size={10} className="text-[#E040FB]" />
+                    <span className="text-[#E040FB] text-xs font-bold">{hat.price}</span>
+                  </div>
+                )}
+              </motion.button>
+            );
+          })}
+        </motion.div>
+      )}
+
+      {/* Trails tab */}
+      {tab === "trails" && (
+        <motion.div className="w-full max-w-md grid grid-cols-2 gap-3"
+          initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}>
+          {TRAILS.map((trail) => {
+            const owned = ownedTrails.includes(trail.id);
+            const active = activeTrail === trail.id;
+            return (
+              <motion.button
+                key={trail.id}
+                onClick={() => handleBuyTrail(trail)}
+                className={`bg-card border rounded-2xl p-4 flex flex-col items-center gap-2 ${
+                  active ? "border-[#E040FB]/50" : owned ? "border-white/10" : "border-white/5"
+                }`}
+                style={active ? { boxShadow: `0 0 15px ${trail.color}30` } : undefined}
+                whileHover={{ scale: 1.03 }}
+                whileTap={{ scale: 0.97 }}
+              >
+                <div
+                  className="w-12 h-12 rounded-xl flex items-center justify-center text-2xl"
+                  style={{
+                    background: `${trail.color}15`,
+                    boxShadow: active ? `0 0 12px ${trail.color}30` : undefined,
+                  }}
+                >
+                  {trail.icon}
+                </div>
+                <span className="text-white/50 text-[10px] font-bold">{trail.name}</span>
+                {active ? (
+                  <div className="flex items-center gap-1">
+                    <Check size={12} className="text-[#E040FB]" />
+                    <span className="text-[#E040FB] text-xs font-bold">EQUIPPED</span>
+                  </div>
+                ) : owned ? (
+                  <span className="text-white/30 text-xs font-bold">EQUIP</span>
+                ) : (
+                  <div className="flex items-center gap-1">
+                    <Star size={10} className="text-[#E040FB]" />
+                    <span className="text-[#E040FB] text-xs font-bold">{trail.price}</span>
                   </div>
                 )}
               </motion.button>
