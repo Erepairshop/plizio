@@ -4,7 +4,7 @@ import { useState, useEffect, useRef, useCallback, useMemo } from "react";
 import { Canvas, useFrame, useThree } from "@react-three/fiber";
 import * as THREE from "three";
 import { motion, AnimatePresence } from "framer-motion";
-import { Mountain, Trophy, ArrowUp, RotateCcw, Home } from "lucide-react";
+import { Mountain, Trophy, ArrowUp, RotateCcw, Home, Maximize } from "lucide-react";
 import Link from "next/link";
 import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, type CardRarity } from "@/lib/cards";
@@ -807,6 +807,23 @@ function VirtualJoystick({ gameRef }: { gameRef: React.RefObject<GameData> }) {
   );
 }
 
+// ─── FULLSCREEN HELPER ───────────────────────────────
+function requestFullscreen() {
+  const el = document.documentElement as HTMLElement & {
+    webkitRequestFullscreen?: () => Promise<void>;
+    msRequestFullscreen?: () => Promise<void>;
+  };
+  try {
+    if (el.requestFullscreen) {
+      el.requestFullscreen().catch(() => {});
+    } else if (el.webkitRequestFullscreen) {
+      el.webkitRequestFullscreen();
+    } else if (el.msRequestFullscreen) {
+      el.msRequestFullscreen();
+    }
+  } catch {}
+}
+
 // ─── MAIN COMPONENT ─────────────────────────────────
 export default function SkyClimbPage() {
   const [gameState, setGameState] = useState<GameState>("menu");
@@ -819,6 +836,33 @@ export default function SkyClimbPage() {
     const saved = localStorage.getItem("plizio_skyclimb_highest");
     if (saved) setHighestLevel(parseInt(saved));
   }, []);
+
+  // ─── FULLSCREEN + MOBILE APP MODE ─────────────────
+  useEffect(() => {
+    // Prevent pull-to-refresh and overscroll bounce
+    const preventOverscroll = (e: TouchEvent) => {
+      if (gameState === "playing") {
+        e.preventDefault();
+      }
+    };
+    document.addEventListener("touchmove", preventOverscroll, { passive: false });
+
+    // Lock body scroll when playing
+    if (gameState === "playing") {
+      document.body.style.overflow = "hidden";
+      document.body.style.position = "fixed";
+      document.body.style.width = "100%";
+      document.body.style.height = "100%";
+    }
+
+    return () => {
+      document.removeEventListener("touchmove", preventOverscroll);
+      document.body.style.overflow = "";
+      document.body.style.position = "";
+      document.body.style.width = "";
+      document.body.style.height = "";
+    };
+  }, [gameState]);
 
   // Keyboard + mouse controls
   useEffect(() => {
@@ -924,6 +968,13 @@ export default function SkyClimbPage() {
   }, [gameState]);
 
   const startGame = useCallback((lvl: number) => {
+    // Request fullscreen on mobile when game starts
+    requestFullscreen();
+    // Try to lock orientation to portrait
+    try {
+      (screen.orientation as { lock?: (o: string) => Promise<void> })?.lock?.("portrait").catch(() => {});
+    } catch {}
+
     const { platforms, goalIdx } = generateLevel(lvl);
     const g = gameRef.current;
     Object.assign(g, createGameData());
@@ -957,7 +1008,7 @@ export default function SkyClimbPage() {
   }, []);
 
   return (
-    <main className="min-h-screen flex flex-col items-center justify-center bg-bg relative overflow-hidden">
+    <main className="flex flex-col items-center justify-center bg-bg relative overflow-hidden" style={{ minHeight: "100dvh", height: "100dvh", width: "100vw", overscrollBehavior: "none" }}>
       {/* Menu */}
       {gameState === "menu" && (
         <motion.div className="flex flex-col items-center gap-8" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
@@ -992,14 +1043,23 @@ export default function SkyClimbPage() {
               <Trophy size={14} /> LVL {highestLevel}
             </motion.div>
           )}
+          {/* Fullscreen button for mobile */}
+          <motion.button
+            onClick={requestFullscreen}
+            className="sm:hidden bg-white/5 border border-white/10 text-white/40 px-4 py-2 rounded-xl flex items-center gap-2 text-xs"
+            initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.5 }}
+            whileTap={{ scale: 0.95 }}
+          >
+            <Maximize size={14} /> Fullscreen
+          </motion.button>
         </motion.div>
       )}
 
       {/* 3D Game */}
       {gameState === "playing" && (
-        <div className="fixed inset-0 touch-none">
+        <div className="fixed inset-0 touch-none" style={{ height: "100dvh", width: "100vw" }}>
           <Canvas camera={{ fov: 60 }} gl={{ antialias: true }}
-            style={{ background: "linear-gradient(180deg, #4a8fca 0%, #87CEEB 40%, #b8d0e0 100%)" }}>
+            style={{ background: "linear-gradient(180deg, #4a8fca 0%, #87CEEB 40%, #b8d0e0 100%)", height: "100%", width: "100%" }}>
             <Scene3D gameRef={gameRef} onDie={handleDie} onGoal={handleGoal} />
           </Canvas>
 
