@@ -1,0 +1,112 @@
+[
+  {
+    "scene": ["🧑", "👩", "🧒", "👶", "🐕"],
+    "showTime": 3000,
+    "question": "👥❓",
+    "answers": [
+      { "label": "3️⃣", "correct": false },
+      { "label": "4️⃣", "correct": true },
+      { "label": "5️⃣", "correct": false },
+      { "label": "2️⃣", "correct": false }
+    ]
+  },
+  {
+    "scene": ["🚗", "🚙", "🚕", "🚌", "🏍️", "🚲"],
+    "showTime": 2500,
+    "question": "🚗❓",
+    "answers": [
+      { "label": "4️⃣", "correct": false },
+      { "label": "5️⃣", "correct": false },
+      { "label": "6️⃣", "correct": true },
+      { "label": "3️⃣", "correct": false }
+    ]
+  },
+  {
+    "scene": ["🍎", "🍊", "🍋", "🍇", "🍓", "🫐", "🍌"],
+    "showTime": 2500,
+    "question": "🍎🟡❓",
+    "answers": [
+      { "label": "1️⃣", "correct": false },
+      { "label": "2️⃣", "correct": true },
+      { "label": "3️⃣", "correct": false },
+      { "label": "0️⃣", "correct": false }
+    ]
+  },
+  {
+    "scene": ["⭐", "⭐", "⭐", "🌙", "🌙", "☀️"],
+    "showTime": 2000,
+    "question": "⭐❓",
+    "answers": [
+      { "label": "2️⃣", "correct": false },
+      { "label": "3️⃣", "correct": true },
+      { "label": "4️⃣", "correct": false },
+      { "label": "5️⃣", "correct": false }
+    ]
+  },
+  {
+    "scene": ["🏠", "🌳", "🌳", "🌳", "🚗", "🐕", "🐈", "🐈"],
+    "showTime": 2000,
+    "question": "🐈❓",
+    "answers": [
+      { "label": "1️⃣", "correct": false },
+      { "label": "3️⃣", "correct": false },
+      { "label": "2️⃣", "correct": true },
+      { "label": "0️⃣", "correct": false }
+    ]
+  },
+  {
+    "scene": ["🔴", "🔵", "🟢", "🟡", "🔴", "🔵", "🟣"],
+    "showTime": 1800,
+    "question": "🔴❓",
+    "answers": [
+      { "label": "1️⃣", "correct": false },
+      { "label": "2️⃣", "correct": true },
+      { "label": "3️⃣", "correct": false },
+      { "label": "4️⃣", "correct": false }
+    ]
+  },
+  {
+    "scene": ["🎄", "🎁", "🎁", "🎁", "⛄", "⛄", "🌟"],
+    "showTime": 1800,
+    "question": "🎁❓",
+    "answers": [
+      { "label": "2️⃣", "correct": false },
+      { "label": "4️⃣", "correct": false },
+      { "label": "3️⃣", "correct": true },
+      { "label": "5️⃣", "correct": false }
+    ]
+  },
+  {
+    "scene": ["🐟", "🐠", "🐡", "🦀", "🐙", "🦑", "🐚", "🐟"],
+    "showTime": 1500,
+    "question": "🐟❓",
+    "answers": [
+      { "label": "1️⃣", "correct": false },
+      { "label": "2️⃣", "correct": true },
+      { "label": "3️⃣", "correct": false },
+      { "label": "4️⃣", "correct": false }
+    ]
+  },
+  {
+    "scene": ["🏀", "⚽", "⚾", "🎾", "🏐", "🏈", "🎱"],
+    "showTime": 1500,
+    "question": "⚽❓ 1️⃣➡️7️⃣",
+    "answers": [
+      { "label": "1️⃣", "correct": false },
+      { "label": "2️⃣", "correct": true },
+      { "label": "3️⃣", "correct": false },
+      { "label": "4️⃣", "correct": false }
+    ]
+  },
+  {
+    "scene": ["👑", "💎", "💎", "💎", "🗡️", "🗡️", "🛡️", "🏰"],
+    "showTime": 1200,
+    "question": "💎❓",
+    "answers": [
+      { "label": "2️⃣", "correct": false },
+      { "label": "3️⃣", "correct": true },
+      { "label": "4️⃣", "correct": false },
+      { "label": "1️⃣", "correct": false }
+    ]
+  }
+]

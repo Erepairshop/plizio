@@ -1,0 +1,212 @@
+[
+  {
+    "itemA": "🇨🇳 China",
+    "valueA": 1425000000,
+    "itemB": "🇺🇸 USA",
+    "valueB": 335000000,
+    "unit": "👥"
+  },
+  {
+    "itemA": "🇯🇵 Japan",
+    "valueA": 125000000,
+    "itemB": "🇩🇪 Germany",
+    "valueB": 84000000,
+    "unit": "👥"
+  },
+  {
+    "itemA": "🗼 Eiffel Tower",
+    "valueA": 330,
+    "itemB": "🗽 Statue of Liberty",
+    "valueB": 93,
+    "unit": "📏"
+  },
+  {
+    "itemA": "🌊 Pacific Ocean",
+    "valueA": 165250000,
+    "itemB": "🌊 Atlantic Ocean",
+    "valueB": 106460000,
+    "unit": "📐"
+  },
+  {
+    "itemA": "☀️ Sun",
+    "valueA": 5500,
+    "itemB": "🌋 Lava",
+    "valueB": 1200,
+    "unit": "🌡️"
+  },
+  {
+    "itemA": "🐆 Cheetah",
+    "valueA": 120,
+    "itemB": "🐎 Horse",
+    "valueB": 88,
+    "unit": "💨"
+  },
+  {
+    "itemA": "🏔️ Everest",
+    "valueA": 8849,
+    "itemB": "🏔️ K2",
+    "valueB": 8611,
+    "unit": "📏"
+  },
+  {
+    "itemA": "🇮🇳 India",
+    "valueA": 1428000000,
+    "itemB": "🇧🇷 Brazil",
+    "valueB": 216000000,
+    "unit": "👥"
+  },
+  {
+    "itemA": "🌍 Earth",
+    "valueA": 12742,
+    "itemB": "🌕 Moon",
+    "valueB": 3474,
+    "unit": "📏"
+  },
+  {
+    "itemA": "🐘 Elephant",
+    "valueA": 6000,
+    "itemB": "🦛 Hippo",
+    "valueB": 1800,
+    "unit": "⚖️"
+  },
+  {
+    "itemA": "🐋 Blue Whale",
+    "valueA": 150000,
+    "itemB": "🐘 Elephant",
+    "valueB": 6000,
+    "unit": "⚖️"
+  },
+  {
+    "itemA": "🇷🇺 Russia",
+    "valueA": 17098242,
+    "itemB": "🇨🇦 Canada",
+    "valueB": 9984670,
+    "unit": "📐"
+  },
+  {
+    "itemA": "🏙️ Tokyo",
+    "valueA": 37400000,
+    "itemB": "🏙️ New York",
+    "valueB": 18800000,
+    "unit": "👥"
+  },
+  {
+    "itemA": "🦅 Eagle",
+    "valueA": 160,
+    "itemB": "🐧 Penguin",
+    "valueB": 0,
+    "unit": "💨"
+  },
+  {
+    "itemA": "🌞 Mercury",
+    "valueA": 430,
+    "itemB": "❄️ Pluto",
+    "valueB": -230,
+    "unit": "🌡️"
+  },
+  {
+    "itemA": "🇦🇺 Australia",
+    "valueA": 7692024,
+    "itemB": "🇮🇳 India",
+    "valueB": 3287263,
+    "unit": "📐"
+  },
+  {
+    "itemA": "⚡ Light",
+    "valueA": 300000,
+    "itemB": "🔊 Sound",
+    "valueB": 343,
+    "unit": "💨"
+  },
+  {
+    "itemA": "🏙️ London",
+    "valueA": 9500000,
+    "itemB": "🏙️ Paris",
+    "valueB": 2100000,
+    "unit": "👥"
+  },
+  {
+    "itemA": "🦒 Giraffe",
+    "valueA": 550,
+    "itemB": "🐻 Bear",
+    "valueB": 450,
+    "unit": "📏"
+  },
+  {
+    "itemA": "🌊 Nile",
+    "valueA": 6650,
+    "itemB": "🌊 Amazon",
+    "valueB": 6400,
+    "unit": "📏"
+  },
+  {
+    "itemA": "🇫🇷 France",
+    "valueA": 67750000,
+    "itemB": "🇬🇧 UK",
+    "valueB": 67330000,
+    "unit": "👥"
+  },
+  {
+    "itemA": "🏔️ Kilimanjaro",
+    "valueA": 5895,
+    "itemB": "🏔️ Mont Blanc",
+    "valueB": 4808,
+    "unit": "📏"
+  },
+  {
+    "itemA": "🐌 Snail",
+    "valueA": 0.05,
+    "itemB": "🐢 Turtle",
+    "valueB": 0.4,
+    "unit": "💨"
+  },
+  {
+    "itemA": "♃ Jupiter",
+    "valueA": 139820,
+    "itemB": "♄ Saturn",
+    "valueB": 116460,
+    "unit": "📏"
+  },
+  {
+    "itemA": "🇪🇬 Egypt",
+    "valueA": 5000,
+    "itemB": "🇬🇷 Greece",
+    "valueB": 3500,
+    "unit": "📜"
+  },
+  {
+    "itemA": "🏙️ São Paulo",
+    "valueA": 22400000,
+    "itemB": "🏙️ Moscow",
+    "valueB": 12600000,
+    "unit": "👥"
+  },
+  {
+    "itemA": "🦈 Great White Shark",
+    "valueA": 56,
+    "itemB": "🐬 Dolphin",
+    "valueB": 60,
+    "unit": "💨"
+  },
+  {
+    "itemA": "🌋 Mauna Kea",
+    "valueA": 10211,
+    "itemB": "🏔️ Everest",
+    "valueB": 8849,
+    "unit": "📏"
+  },
+  {
+    "itemA": "🇲🇽 Mexico",
+    "valueA": 130000000,
+    "itemB": "🇪🇹 Ethiopia",
+    "valueB": 126000000,
+    "unit": "👥"
+  },
+  {
+    "itemA": "🐜 Ant",
+    "valueA": 50,
+    "itemB": "🐝 Bee",
+    "valueB": 3,
+    "unit": "⚖️"
+  }
+]

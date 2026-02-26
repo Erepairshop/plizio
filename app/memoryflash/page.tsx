@@ -1,0 +1,293 @@
+"use client";
+
+import { useState, useEffect, useRef } from "react";
+import { motion, AnimatePresence } from "framer-motion";
+import ResultCard from "@/components/ResultCard";
+import generalData from "@/data/memoryflash/general.json";
+
+interface Answer {
+  label: string;
+  correct: boolean;
+}
+
+interface MemoryQuestion {
+  scene: string[];
+  showTime: number;
+  question: string;
+  answers: Answer[];
+}
+
+type GameState = "countdown" | "showing" | "asking" | "feedback" | "result";
+
+const TOTAL_ROUNDS = 5;
+
+function shuffleArray<T>(arr: T[]): T[] {
+  const shuffled = [...arr];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
+}
+
+export default function MemoryFlashPage() {
+  const [gameState, setGameState] = useState<GameState>("countdown");
+  const [countdown, setCountdown] = useState(3);
+  const [round, setRound] = useState(0);
+  const [score, setScore] = useState(0);
+  const [questions, setQuestions] = useState<MemoryQuestion[]>([]);
+  const [selectedAnswer, setSelectedAnswer] = useState<number | null>(null);
+  const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
+  const [totalTime, setTotalTime] = useState(0);
+  const startTimeRef = useRef<number>(0);
+
+  // Load questions
+  useEffect(() => {
+    const data = generalData as MemoryQuestion[];
+    const shuffled = shuffleArray(data).slice(0, TOTAL_ROUNDS);
+    setQuestions(shuffled);
+  }, []);
+
+  // Countdown
+  useEffect(() => {
+    if (gameState !== "countdown") return;
+    if (countdown <= 0) {
+      setGameState("showing");
+      startTimeRef.current = Date.now();
+      return;
+    }
+    const timer = setTimeout(() => setCountdown((c) => c - 1), 1000);
+    return () => clearTimeout(timer);
+  }, [gameState, countdown]);
+
+  // Show scene then ask
+  useEffect(() => {
+    if (gameState !== "showing") return;
+    if (!questions[round]) return;
+
+    const timer = setTimeout(() => {
+      setGameState("asking");
+    }, questions[round].showTime);
+
+    return () => clearTimeout(timer);
+  }, [gameState, round, questions]);
+
+  const handleAnswer = (answerIndex: number) => {
+    if (gameState !== "asking" || selectedAnswer !== null) return;
+
+    const q = questions[round];
+    const correct = q.answers[answerIndex].correct;
+
+    setSelectedAnswer(answerIndex);
+    setIsCorrect(correct);
+    if (correct) {
+      // Later rounds worth more
+      setScore((s) => s + (round + 1));
+    }
+    setGameState("feedback");
+
+    setTimeout(() => {
+      if (round + 1 >= TOTAL_ROUNDS) {
+        const elapsed = Math.round((Date.now() - startTimeRef.current) / 1000);
+        setTotalTime(elapsed);
+        setGameState("result");
+      } else {
+        setRound((r) => r + 1);
+        setSelectedAnswer(null);
+        setIsCorrect(null);
+        setGameState("showing");
+      }
+    }, 1200);
+  };
+
+  const handlePlayAgain = () => {
+    const data = generalData as MemoryQuestion[];
+    const shuffled = shuffleArray(data).slice(0, TOTAL_ROUNDS);
+    setQuestions(shuffled);
+    setRound(0);
+    setScore(0);
+    setSelectedAnswer(null);
+    setIsCorrect(null);
+    setCountdown(3);
+    setGameState("countdown");
+  };
+
+  const maxScore = TOTAL_ROUNDS * (TOTAL_ROUNDS + 1) / 2; // 1+2+3+4+5 = 15
+  const currentQ = questions[round];
+
+  if (!currentQ && gameState !== "result") {
+    return (
+      <div className="min-h-screen flex items-center justify-center">
+        <motion.div
+          className="text-4xl"
+          animate={{ rotate: 360 }}
+          transition={{ repeat: Infinity, duration: 1, ease: "linear" }}
+        >
+          🧠
+        </motion.div>
+      </div>
+    );
+  }
+
+  return (
+    <main className="min-h-screen flex flex-col items-center justify-center px-4 relative">
+      {/* Countdown */}
+      <AnimatePresence>
+        {gameState === "countdown" && (
+          <motion.div
+            className="fixed inset-0 z-50 flex items-center justify-center bg-bg"
+            exit={{ opacity: 0 }}
+          >
+            <motion.span
+              key={countdown}
+              className="text-8xl font-black text-neon-purple"
+              style={{ textShadow: "0 0 20px rgba(180,77,255,0.8)" }}
+              initial={{ scale: 2, opacity: 0 }}
+              animate={{ scale: 1, opacity: 1 }}
+              exit={{ scale: 0.5, opacity: 0 }}
+              transition={{ duration: 0.3 }}
+            >
+              {countdown > 0 ? countdown : "🧠"}
+            </motion.span>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      {/* Progress */}
+      {gameState !== "countdown" && gameState !== "result" && (
+        <div className="fixed top-0 left-0 right-0 z-40 p-4">
+          <div className="flex items-center justify-between max-w-md mx-auto">
+            <div className="flex gap-2">
+              {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (
+                <motion.div
+                  key={i}
+                  className={`w-3 h-3 rounded-full ${
+                    i < round
+                      ? "bg-neon-green"
+                      : i === round
+                      ? "bg-neon-purple"
+                      : "bg-white/20"
+                  }`}
+                  animate={i === round ? { scale: [1, 1.4, 1] } : {}}
+                  transition={{ repeat: Infinity, duration: 1 }}
+                />
+              ))}
+            </div>
+            <div className="text-gold font-bold text-lg">
+              {score} 🏆
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Scene display */}
+      {gameState === "showing" && currentQ && (
+        <motion.div
+          className="bg-card rounded-3xl p-8 sm:p-12 flex flex-wrap items-center justify-center gap-4 max-w-sm"
+          initial={{ opacity: 0, scale: 0.8 }}
+          animate={{ opacity: 1, scale: 1 }}
+          exit={{ opacity: 0, filter: "blur(20px)" }}
+        >
+          {currentQ.scene.map((emoji, i) => (
+            <motion.span
+              key={i}
+              className="text-4xl sm:text-5xl"
+              initial={{ opacity: 0, y: 10 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: i * 0.08 }}
+            >
+              {emoji}
+            </motion.span>
+          ))}
+
+          {/* Timer bar */}
+          <motion.div
+            className="w-full h-1.5 bg-white/10 rounded-full mt-4 overflow-hidden"
+          >
+            <motion.div
+              className="h-full bg-neon-purple rounded-full"
+              initial={{ width: "100%" }}
+              animate={{ width: "0%" }}
+              transition={{ duration: currentQ.showTime / 1000, ease: "linear" }}
+            />
+          </motion.div>
+        </motion.div>
+      )}
+
+      {/* Question */}
+      {(gameState === "asking" || gameState === "feedback") && currentQ && (
+        <motion.div
+          className="flex flex-col items-center gap-6 max-w-sm w-full"
+          initial={{ opacity: 0, x: 50 }}
+          animate={{ opacity: 1, x: 0 }}
+        >
+          {/* Question emoji */}
+          <motion.div
+            className="text-5xl bg-card rounded-2xl p-6 w-full text-center"
+            animate={{ scale: [1, 1.02, 1] }}
+            transition={{ repeat: Infinity, duration: 2 }}
+          >
+            {currentQ.question}
+          </motion.div>
+
+          {/* Answer options */}
+          <div className="grid grid-cols-2 gap-3 w-full">
+            {currentQ.answers.map((answer, i) => (
+              <motion.button
+                key={i}
+                className={`bg-card rounded-xl p-4 text-3xl border-2 ${
+                  gameState === "feedback" && selectedAnswer === i
+                    ? isCorrect
+                      ? "border-neon-green glow-green"
+                      : "border-neon-pink glow-pink"
+                    : gameState === "feedback" && answer.correct
+                    ? "border-neon-green/50"
+                    : "border-white/10 hover:border-neon-purple/50"
+                }`}
+                onClick={() => handleAnswer(i)}
+                whileHover={gameState === "asking" ? { scale: 1.05 } : {}}
+                whileTap={gameState === "asking" ? { scale: 0.95 } : {}}
+                animate={
+                  gameState === "feedback" &&
+                  selectedAnswer === i &&
+                  !isCorrect
+                    ? { x: [-3, 3, -3, 3, 0] }
+                    : {}
+                }
+                disabled={gameState !== "asking"}
+              >
+                {answer.label}
+              </motion.button>
+            ))}
+          </div>
+        </motion.div>
+      )}
+
+      {/* Feedback flash */}
+      <AnimatePresence>
+        {gameState === "feedback" && isCorrect !== null && (
+          <motion.div
+            className="fixed bottom-10 left-0 right-0 flex justify-center z-40"
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0 }}
+          >
+            <span className="text-5xl">{isCorrect ? "✅" : "❌"}</span>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      {/* Result */}
+      {gameState === "result" && (
+        <ResultCard
+          score={score}
+          total={maxScore}
+          time={totalTime}
+          gameName="Memory Flash"
+          gameIcon="🧠"
+          onPlayAgain={handlePlayAgain}
+        />
+      )}
+    </main>
+  );
+}
