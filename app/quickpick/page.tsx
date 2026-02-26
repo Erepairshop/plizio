@@ -31,7 +31,18 @@ interface Question {
   itemB: string;
   valueB: number;
   unit: string;
+  emojiA?: string;
+  emojiB?: string;
+  unitIcon?: string;
 }
+
+// Theme background gradients
+const THEME_GRADIENTS: Record<string, string> = {
+  general: "from-blue-950/30 to-cyan-950/20",
+  kpop: "from-pink-950/30 to-purple-950/20",
+  football: "from-green-950/30 to-emerald-950/20",
+  anime: "from-amber-950/30 to-yellow-950/20",
+};
 
 type GameState = "theme-select" | "countdown" | "playing" | "reveal" | "result" | "reward";
 
@@ -210,8 +221,10 @@ export default function QuickPickPage() {
     );
   }
 
+  const themeGradient = THEME_GRADIENTS[selectedTheme] || THEME_GRADIENTS.general;
+
   return (
-    <main className="min-h-screen flex flex-col items-center justify-center px-4 relative">
+    <main className={`min-h-screen flex flex-col items-center justify-center px-4 relative bg-gradient-to-b ${gameState !== "theme-select" ? themeGradient : ""}`}>
       {/* Theme Select */}
       {gameState === "theme-select" && (
         <motion.div
@@ -332,12 +345,26 @@ export default function QuickPickPage() {
         </div>
       )}
 
+      {/* Unit indicator */}
+      {(gameState === "playing" || gameState === "reveal") && currentQ && (
+        <motion.div
+          className="fixed top-16 left-0 right-0 z-30 flex justify-center"
+          initial={{ opacity: 0, y: -10 }}
+          animate={{ opacity: 1, y: 0 }}
+        >
+          <div className="bg-card/60 backdrop-blur-sm border border-white/10 rounded-xl px-4 py-1.5 flex items-center gap-2">
+            {currentQ.unitIcon && <span className="text-lg">{currentQ.unitIcon}</span>}
+            <span className="text-white/40 text-xs font-bold tracking-wider uppercase">{currentQ.unit}</span>
+          </div>
+        </motion.div>
+      )}
+
       {/* Game area */}
       {(gameState === "playing" || gameState === "reveal") && currentQ && (
-        <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 w-full max-w-lg">
+        <div className="flex flex-col sm:flex-row gap-4 sm:gap-6 w-full max-w-lg" style={{ perspective: "1000px" }}>
           {/* Item A */}
           <motion.button
-            className={`flex-1 bg-card rounded-2xl p-6 sm:p-8 flex flex-col items-center gap-4 border-2 transition-colors ${
+            className={`flex-1 bg-card rounded-2xl p-6 sm:p-8 flex flex-col items-center gap-3 border-2 transition-colors ${
               gameState === "reveal" && picked === "A"
                 ? isCorrect
                   ? "border-neon-green glow-green"
@@ -350,28 +377,46 @@ export default function QuickPickPage() {
             animate={
               gameState === "reveal" && picked === "A" && !isCorrect
                 ? { x: [-5, 5, -5, 5, 0] }
+                : gameState === "reveal"
+                ? { rotateY: [0, 5, 0] }
                 : {}
             }
-            transition={{ duration: 0.3 }}
+            transition={{ duration: 0.4 }}
             disabled={gameState !== "playing"}
+            style={{ transformStyle: "preserve-3d" }}
           >
-            {/* Arrow indicator on hover */}
-            {gameState === "playing" && (
+            {/* Emoji - large and prominent */}
+            {currentQ.emojiA ? (
+              <span className="text-5xl sm:text-6xl leading-none">{currentQ.emojiA}</span>
+            ) : (
               <ArrowUp size={16} className="text-white/20" />
             )}
 
-            <span className="text-xl sm:text-2xl text-center leading-tight font-medium">
+            {/* Name - smaller, secondary */}
+            <span className="text-sm sm:text-base text-center leading-tight font-medium text-white/70">
               {currentQ.itemA}
             </span>
 
-            {/* Value reveal */}
+            {/* Tap indicator */}
+            {gameState === "playing" && (
+              <motion.div
+                className="text-[10px] font-bold tracking-widest text-white/15 uppercase"
+                animate={{ opacity: [0.15, 0.3, 0.15] }}
+                transition={{ repeat: Infinity, duration: 2 }}
+              >
+                TAP
+              </motion.div>
+            )}
+
+            {/* Value reveal with flip */}
             <AnimatePresence>
               {gameState === "reveal" && (
                 <motion.div
-                  className="text-2xl font-black text-gold"
-                  style={{ textShadow: "0 0 10px rgba(255,215,0,0.4)" }}
-                  initial={{ opacity: 0, y: 10 }}
-                  animate={{ opacity: 1, y: 0 }}
+                  className="text-3xl sm:text-4xl font-black text-gold"
+                  style={{ textShadow: "0 0 15px rgba(255,215,0,0.5)" }}
+                  initial={{ opacity: 0, scale: 0.5, rotateX: -90 }}
+                  animate={{ opacity: 1, scale: 1, rotateX: 0 }}
+                  transition={{ duration: 0.4, type: "spring" }}
                 >
                   {formatNumber(animatedValueA)}
                 </motion.div>
@@ -392,7 +437,7 @@ export default function QuickPickPage() {
 
           {/* Item B */}
           <motion.button
-            className={`flex-1 bg-card rounded-2xl p-6 sm:p-8 flex flex-col items-center gap-4 border-2 transition-colors ${
+            className={`flex-1 bg-card rounded-2xl p-6 sm:p-8 flex flex-col items-center gap-3 border-2 transition-colors ${
               gameState === "reveal" && picked === "B"
                 ? isCorrect
                   ? "border-neon-green glow-green"
@@ -405,26 +450,42 @@ export default function QuickPickPage() {
             animate={
               gameState === "reveal" && picked === "B" && !isCorrect
                 ? { x: [-5, 5, -5, 5, 0] }
+                : gameState === "reveal"
+                ? { rotateY: [0, -5, 0] }
                 : {}
             }
-            transition={{ duration: 0.3 }}
+            transition={{ duration: 0.4 }}
             disabled={gameState !== "playing"}
+            style={{ transformStyle: "preserve-3d" }}
           >
-            {gameState === "playing" && (
+            {currentQ.emojiB ? (
+              <span className="text-5xl sm:text-6xl leading-none">{currentQ.emojiB}</span>
+            ) : (
               <ArrowUp size={16} className="text-white/20" />
             )}
 
-            <span className="text-xl sm:text-2xl text-center leading-tight font-medium">
+            <span className="text-sm sm:text-base text-center leading-tight font-medium text-white/70">
               {currentQ.itemB}
             </span>
+
+            {gameState === "playing" && (
+              <motion.div
+                className="text-[10px] font-bold tracking-widest text-white/15 uppercase"
+                animate={{ opacity: [0.15, 0.3, 0.15] }}
+                transition={{ repeat: Infinity, duration: 2 }}
+              >
+                TAP
+              </motion.div>
+            )}
 
             <AnimatePresence>
               {gameState === "reveal" && (
                 <motion.div
-                  className="text-2xl font-black text-gold"
-                  style={{ textShadow: "0 0 10px rgba(255,215,0,0.4)" }}
-                  initial={{ opacity: 0, y: 10 }}
-                  animate={{ opacity: 1, y: 0 }}
+                  className="text-3xl sm:text-4xl font-black text-gold"
+                  style={{ textShadow: "0 0 15px rgba(255,215,0,0.5)" }}
+                  initial={{ opacity: 0, scale: 0.5, rotateX: -90 }}
+                  animate={{ opacity: 1, scale: 1, rotateX: 0 }}
+                  transition={{ duration: 0.4, type: "spring" }}
                 >
                   {formatNumber(animatedValueB)}
                 </motion.div>
