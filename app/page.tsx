@@ -3,11 +3,15 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Calendar, Layers, Star, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Calendar, Layers, Star, User, type LucideIcon } from "lucide-react";
 import Logo from "@/components/Logo";
 import GameCard from "@/components/GameCard";
 import { getCards } from "@/lib/cards";
 import { getSpecialCardCount, markAsReferred, isReferred, claimReferralReward } from "@/lib/specialCards";
+import { getStats } from "@/lib/milestones";
+import { getUser, onAuthChange } from "@/lib/auth";
+import { syncToSupabase } from "@/lib/sync";
+import AuthModal from "@/components/AuthModal";
 
 interface GameDef {
   id: string;
@@ -93,6 +97,8 @@ export default function Home() {
   const [cardCount, setCardCount] = useState(0);
   const [specialCount, setSpecialCount] = useState(0);
   const [dailyPlayed, setDailyPlayed] = useState(false);
+  const [showAuth, setShowAuth] = useState(false);
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
 
   useEffect(() => {
     setStreak(getStreak());
@@ -107,6 +113,30 @@ export default function Home() {
       claimReferralReward();
       setSpecialCount(getSpecialCardCount());
     }
+
+    // Check auth and show registration popup after 5 games
+    const checkAuth = async () => {
+      const user = await getUser();
+      setIsLoggedIn(!!user);
+      if (user) {
+        // Background sync
+        syncToSupabase(user.id).catch(() => {});
+      } else {
+        const stats = getStats();
+        const dismissed = localStorage.getItem("plizio_auth_dismissed");
+        if (stats.totalGames >= 5 && !dismissed) {
+          setShowAuth(true);
+        }
+      }
+    };
+    checkAuth();
+
+    const { data: { subscription } } = onAuthChange((user) => {
+      setIsLoggedIn(!!user);
+      if (user) syncToSupabase(user.id).catch(() => {});
+    });
+
+    return () => subscription.unsubscribe();
   }, []);
 
   return (
@@ -219,8 +249,23 @@ export default function Home() {
         })}
       </div>
 
-      {/* Bottom buttons: Shop + Collection */}
+      {/* Bottom buttons: Profile + Shop + Collection */}
       <div className="fixed bottom-6 right-6 flex flex-col gap-3">
+        <motion.div
+          initial={{ opacity: 0, scale: 0 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ delay: 0.8, type: "spring" }}
+        >
+          <motion.button
+            onClick={() => router.push("/profile")}
+            className={`bg-card border p-3.5 rounded-full ${isLoggedIn ? "border-neon-green/20" : "border-white/10"}`}
+            style={isLoggedIn ? { boxShadow: "0 0 20px rgba(0,255,136,0.15)" } : undefined}
+            whileHover={{ scale: 1.15 }}
+            whileTap={{ scale: 0.9 }}
+          >
+            <User size={24} className={isLoggedIn ? "text-neon-green" : "text-white/40"} />
+          </motion.button>
+        </motion.div>
         <motion.div
           initial={{ opacity: 0, scale: 0 }}
           animate={{ opacity: 1, scale: 1 }}
@@ -252,6 +297,21 @@ export default function Home() {
           </motion.button>
         </motion.div>
       </div>
+
+      {/* Auth Modal */}
+      {showAuth && (
+        <AuthModal
+          onClose={() => {
+            setShowAuth(false);
+            localStorage.setItem("plizio_auth_dismissed", "1");
+          }}
+          onSuccess={() => {
+            setShowAuth(false);
+            setIsLoggedIn(true);
+            setSpecialCount(getSpecialCardCount());
+          }}
+        />
+      )}
     </main>
   );
 }
