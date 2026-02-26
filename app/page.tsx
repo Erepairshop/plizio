@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Trophy, Flame, Calendar, Layers } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Calendar, Layers } from "lucide-react";
 import Logo from "@/components/Logo";
 import GameCard from "@/components/GameCard";
 import { getCards } from "@/lib/cards";
@@ -29,6 +29,13 @@ const GAMES = [
     name: "Memory Flash",
     color: "#B44DFF",
     gradient: "bg-gradient-to-br from-purple-500/20 to-violet-500/20",
+  },
+  {
+    id: "skyclimb",
+    icon: Mountain,
+    name: "Sky Climb",
+    color: "#00FF88",
+    gradient: "bg-gradient-to-br from-green-500/20 to-emerald-500/20",
   },
 ];
 

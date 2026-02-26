@@ -1,4 +1,4 @@
-const CACHE_NAME = "plizio-v1";
+const CACHE_NAME = "plizio-v2";
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
@@ -9,6 +9,7 @@ self.addEventListener("install", (event) => {
         "/reflexgrid/",
         "/memoryflash/",
         "/daily/",
+        "/skyclimb/",
         "/collection/",
       ]);
     })

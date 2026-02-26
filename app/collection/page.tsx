@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
-import { Trophy, Layers, ArrowLeft, Crosshair, Zap, Brain, Calendar, type LucideIcon } from "lucide-react";
+import { Trophy, Layers, ArrowLeft, Crosshair, Zap, Brain, Calendar, Mountain, type LucideIcon } from "lucide-react";
 import { getCards, getRarityConfig, type GameCard, type CardRarity } from "@/lib/cards";
 
 const GAME_ICONS: Record<string, LucideIcon> = {
@@ -11,6 +11,7 @@ const GAME_ICONS: Record<string, LucideIcon> = {
   reflexgrid: Zap,
   memoryflash: Brain,
   daily: Calendar,
+  skyclimb: Mountain,
 };
 
 const GAME_COLORS: Record<string, string> = {
@@ -18,6 +19,7 @@ const GAME_COLORS: Record<string, string> = {
   reflexgrid: "#00D4FF",
   memoryflash: "#B44DFF",
   daily: "#FFD700",
+  skyclimb: "#00FF88",
 };
 
 const RARITY_ORDER: CardRarity[] = ["legendary", "gold", "silver", "bronze"];
