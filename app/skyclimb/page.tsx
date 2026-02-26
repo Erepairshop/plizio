@@ -242,13 +242,12 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
   if (level >= 3) availableTypes.push("magnet");
   if (level >= 5) availableTypes.push("rocket");
 
-  const numPowerUps = Math.min(Math.floor(level / 2) + 1, 6);
+  // Max 1 power-up per level
   const candidates = platforms.slice(2, -1).filter(p => p.type !== "crumble" && p.type !== "moving");
 
-  for (let i = 0; i < numPowerUps && candidates.length > 0; i++) {
+  if (candidates.length > 0) {
     const idx = Math.floor(Math.random() * candidates.length);
     const plat = candidates[idx];
-    candidates.splice(idx, 1);
     powerUps.push({
       x: plat.x + (Math.random() - 0.5) * Math.max(plat.w - 2, 0.5),
       y: plat.y + plat.h / 2 + 1.2,
