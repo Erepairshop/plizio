@@ -163,6 +163,9 @@ export default function CityDrivePage() {
   const lastTimeRef = useRef(0);
   const rafRef = useRef(0);
   const camRef = useRef({ x: 0, y: 0 });
+  const camModeRef = useRef(0); // 0=bird, 1=follow, 2=chase
+  const camAngleRef = useRef(0); // smooth camera angle
+  const camZoomRef = useRef(1);
   const missionIdRef = useRef(0);
   const messageRef = useRef<{ text: string; time: number } | null>(null);
   const touchRef = useRef<{ active: boolean; sx: number; sy: number; cx: number; cy: number }>({ active: false, sx: 0, sy: 0, cx: 0, cy: 0 });
@@ -299,9 +302,22 @@ export default function CityDrivePage() {
       }
     }
 
-    // Camera
+    // Camera update
     const canvas = canvasRef.current;
     if (canvas) {
+      const mode = camModeRef.current;
+      // Target zoom per mode
+      const targetZoom = mode === 0 ? 1 : mode === 1 ? 1.8 : 2.5;
+      camZoomRef.current += (targetZoom - camZoomRef.current) * 0.08;
+      // Target angle (follow/chase rotate with car, bird stays 0)
+      const targetAngle = (mode > 0 && p.inCar >= 0) ? carsRef.current[p.inCar].angle : 0;
+      // Smooth angle interpolation
+      let da = targetAngle - camAngleRef.current;
+      while (da > Math.PI) da -= Math.PI * 2;
+      while (da < -Math.PI) da += Math.PI * 2;
+      const angleSpeed = mode === 2 ? 0.1 : 0.06;
+      camAngleRef.current += da * angleSpeed;
+      // Camera position (used for non-rotated HUD elements)
       camRef.current.x = p.x - canvas.width / 2;
       camRef.current.y = p.y - canvas.height / 2;
     }
@@ -391,17 +407,32 @@ export default function CityDrivePage() {
     ctx.fillStyle = "#0A0A1A";
     ctx.fillRect(0, 0, W, H);
 
-    // Visible tile range
-    const sc = Math.floor(cam.x / TILE) - 1;
-    const sr = Math.floor(cam.y / TILE) - 1;
-    const ec = Math.ceil((cam.x + W) / TILE) + 1;
-    const er = Math.ceil((cam.y + H) / TILE) + 1;
+    const p = playerRef.current;
+    const zoom = camZoomRef.current;
+    const cAngle = camAngleRef.current;
+    const mode = camModeRef.current;
+
+    // Apply camera transform (rotate + zoom around player)
+    ctx.save();
+    ctx.translate(W / 2, H / 2);
+    if (mode > 0) ctx.rotate(-cAngle);
+    ctx.scale(zoom, zoom);
+    ctx.translate(-p.x, -p.y);
+
+    // Visible tile range (expanded for rotation)
+    const viewR = Math.max(W, H) / zoom / TILE + 4;
+    const pcol = p.x / TILE;
+    const prow = p.y / TILE;
+    const sc = Math.floor(pcol - viewR);
+    const sr = Math.floor(prow - viewR);
+    const ec = Math.ceil(pcol + viewR);
+    const er = Math.ceil(prow + viewR);
 
     // ── City tiles ──
     for (let r = Math.max(0, sr); r < Math.min(ROWS, er); r++) {
       for (let c = Math.max(0, sc); c < Math.min(COLS, ec); c++) {
-        const sx = c * TILE - cam.x;
-        const sy = r * TILE - cam.y;
+        const sx = c * TILE;
+        const sy = r * TILE;
         const tile = map[r][c];
 
         if (tile === T_ROAD) {
@@ -485,16 +516,16 @@ export default function CityDrivePage() {
 
       if (m.type === "delivery") {
         if (!m.pickedUp) {
-          drawMarker(ctx, m.px - cam.x, m.py - cam.y, "#FFD700", "📦", t);
+          drawMarker(ctx, m.px, m.py, "#FFD700", "📦", t);
         } else {
-          drawMarker(ctx, m.dx - cam.x, m.dy - cam.y, "#00FF88", "🏠", t);
+          drawMarker(ctx, m.dx, m.dy, "#00FF88", "🏠", t);
         }
       } else if (m.type === "parking") {
-        drawMarker(ctx, m.px - cam.x, m.py - cam.y, "#00D4FF", "🅿️", t);
+        drawMarker(ctx, m.px, m.py, "#00D4FF", "🅿️", t);
       } else if (m.type === "coins" && m.coins) {
         for (const coin of m.coins) {
-          const cx = coin.x - cam.x;
-          const cy = coin.y - cam.y;
+          const cx = coin.x;
+          const cy = coin.y;
           ctx.fillStyle = "#FFD700";
           ctx.beginPath();
           ctx.arc(cx, cy, 6 + Math.sin(t * 4) * 2, 0, Math.PI * 2);
@@ -521,8 +552,8 @@ export default function CityDrivePage() {
 
     // ── Player (on foot) ──
     if (playerRef.current.inCar < 0) {
-      const px = playerRef.current.x - cam.x;
-      const py = playerRef.current.y - cam.y;
+      const px = playerRef.current.x;
+      const py = playerRef.current.y;
       ctx.save();
       ctx.translate(px, py);
       ctx.rotate(playerRef.current.angle);
@@ -551,15 +582,30 @@ export default function CityDrivePage() {
           ctx.fillStyle = "#ffffff";
           ctx.font = "bold 11px monospace";
           ctx.textAlign = "center";
-          ctx.fillText("SPACE", car.x - cam.x, car.y - cam.y - car.h / 2 - 12);
+          ctx.fillText("SPACE", car.x, car.y - car.h / 2 - 12);
           ctx.fillStyle = "#ffffff60";
           ctx.font = "9px monospace";
-          ctx.fillText(car.name, car.x - cam.x, car.y - cam.y - car.h / 2 - 2);
+          ctx.fillText(car.name, car.x, car.y - car.h / 2 - 2);
         }
       }
     }
 
-    // ── HUD ──
+    // ── End world transform ──
+    ctx.restore();
+
+    // ── HUD (screen space, no rotation/zoom) ──
+    // Camera mode indicator
+    const modeNames = ["BIRD'S EYE", "FOLLOW", "CHASE"];
+    ctx.fillStyle = "#00000060";
+    ctx.fillRect(W / 2 - 50, 8, 100, 22);
+    ctx.strokeStyle = "#FF6B0040";
+    ctx.lineWidth = 1;
+    ctx.strokeRect(W / 2 - 50, 8, 100, 22);
+    ctx.fillStyle = "#FF6B00";
+    ctx.font = "bold 10px monospace";
+    ctx.textAlign = "center";
+    ctx.fillText(`📷 ${modeNames[mode]} (C)`, W / 2, 23);
+
     // Score
     ctx.fillStyle = "#00000080";
     ctx.fillRect(8, 8, 140, 50);
@@ -677,8 +723,8 @@ export default function CityDrivePage() {
   }
 
   function drawCar(ctx: CanvasRenderingContext2D, car: CarEntity, cam: { x: number; y: number }, active: boolean) {
-    const cx = car.x - cam.x;
-    const cy = car.y - cam.y;
+    const cx = car.x;
+    const cy = car.y;
     ctx.save();
     ctx.translate(cx, cy);
     ctx.rotate(car.angle);
@@ -750,7 +796,11 @@ export default function CityDrivePage() {
 
   // ─── KEYBOARD ──────────────────────────────
   useEffect(() => {
-    const down = (e: KeyboardEvent) => { keysRef.current.add(e.key); if (e.key === " ") e.preventDefault(); };
+    const down = (e: KeyboardEvent) => {
+      keysRef.current.add(e.key);
+      if (e.key === " ") e.preventDefault();
+      if (e.key === "c" || e.key === "C") { camModeRef.current = (camModeRef.current + 1) % 3; }
+    };
     const up = (e: KeyboardEvent) => keysRef.current.delete(e.key);
     window.addEventListener("keydown", down);
     window.addEventListener("keyup", up);
@@ -827,7 +877,7 @@ export default function CityDrivePage() {
 
               <div className="text-center space-y-3 px-4">
                 <div className="text-[10px] text-white/30 mb-2">
-                  WASD / arrows: move • SPACE: enter/exit car
+                  WASD / arrows: move • SPACE: enter/exit car • C: camera
                 </div>
                 <button onClick={startGame}
                   className="w-full max-w-xs py-3 rounded-xl font-black text-lg text-white bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-400 hover:to-red-400 transition-all shadow-lg shadow-orange-500/30 active:scale-95">
@@ -881,6 +931,11 @@ export default function CityDrivePage() {
             onTouchStart={() => keysRef.current.add("Shift")}
             onTouchEnd={() => keysRef.current.delete("Shift")}>
             🛑
+          </button>
+          {/* Camera toggle */}
+          <button className="absolute right-4 bottom-24 w-12 h-12 rounded-full bg-white/10 border-2 border-white/20 z-10 flex items-center justify-center text-white text-lg active:bg-white/20"
+            onTouchStart={(e) => { e.preventDefault(); camModeRef.current = (camModeRef.current + 1) % 3; }}>
+            📷
           </button>
         </>
       )}
