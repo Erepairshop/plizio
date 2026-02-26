@@ -46,15 +46,16 @@ const TOTAL_MISSIONS = 6;
 const T_ROAD = 0, T_SIDEWALK = 1, T_BUILDING = 2;
 
 // ─── MAP GENERATION ────────────────────────────
+// Roads every 7 tiles (2 wide), smaller blocks, more streets
 function genMap(): number[][] {
   const m: number[][] = [];
   for (let r = 0; r < ROWS; r++) {
     m[r] = [];
     for (let c = 0; c < COLS; c++) {
-      const hr = r % 12 < 2;
-      const vr = c % 12 < 2;
+      const hr = r % 7 < 2;
+      const vr = c % 7 < 2;
       if (hr || vr) m[r][c] = T_ROAD;
-      else if (r % 12 === 2 || r % 12 === 11 || c % 12 === 2 || c % 12 === 11) m[r][c] = T_SIDEWALK;
+      else if (r % 7 === 2 || r % 7 === 6 || c % 7 === 2 || c % 7 === 6) m[r][c] = T_SIDEWALK;
       else m[r][c] = T_BUILDING;
     }
   }
@@ -77,22 +78,40 @@ function isSolid(map: number[][], px: number, py: number, hw: number, hh: number
 
 // ─── BUILDING COLORS (seeded) ──────────────────
 function buildingColor(r: number, c: number): string {
-  const h = ((r * 7 + c * 13) % 360);
-  return `hsl(${h}, 40%, 15%)`;
+  // Darker, muted building colors - city at night
+  const palette = ["#0f0f25", "#10102a", "#0d0d20", "#121230", "#0e0e22", "#111128"];
+  return palette[(r * 3 + c * 5) % palette.length];
 }
 function buildingGlow(r: number, c: number): string {
   const colors = ["#FF2D78", "#00D4FF", "#B44DFF", "#00FF88", "#FFD700", "#FF6B00"];
   return colors[(r * 3 + c * 7) % colors.length];
 }
+// Roof accent color for buildings
+function roofColor(r: number, c: number): string {
+  const palette = ["#1a1a3a", "#151535", "#181840", "#1c1c38"];
+  return palette[(r * 2 + c * 4) % palette.length];
+}
+
+// ─── ROAD POSITION HELPERS ─────────────────────
+// Get a pixel position that's guaranteed to be on a road tile
+function roadPos(roadIdx: number, crossIdx: number): { x: number; y: number } {
+  // roadIdx and crossIdx are road-line indices (0,1,2...)
+  // Each road line starts at tile = idx * 7, and is 2 tiles wide
+  return {
+    x: (crossIdx * 7 + 1) * TILE,
+    y: (roadIdx * 7 + 1) * TILE,
+  };
+}
 
 // ─── INIT CARS ─────────────────────────────────
 function initCars(): CarEntity[] {
+  // All cars placed on road tiles (using road grid intersections and straights)
   return [
-    { x: 3 * TILE, y: 3 * TILE, angle: 0, speed: 0, maxSpeed: 260, accel: 200, handling: 2.8, color: "#FF2D55", name: "Sport", w: 20, h: 34 },
-    { x: 15 * TILE, y: 1 * TILE, angle: Math.PI / 2, speed: 0, maxSpeed: 200, accel: 160, handling: 3.2, color: "#00D4FF", name: "Sedan", w: 18, h: 32 },
-    { x: 1 * TILE, y: 15 * TILE, angle: 0, speed: 0, maxSpeed: 150, accel: 130, handling: 3.8, color: "#00FF88", name: "Truck", w: 22, h: 38 },
-    { x: 27 * TILE, y: 13 * TILE, angle: Math.PI, speed: 0, maxSpeed: 220, accel: 180, handling: 3.0, color: "#FFD700", name: "Taxi", w: 18, h: 32 },
-    { x: 13 * TILE, y: 25 * TILE, angle: -Math.PI / 2, speed: 0, maxSpeed: 300, accel: 240, handling: 2.5, color: "#B44DFF", name: "Racer", w: 18, h: 34 },
+    { x: roadPos(0, 1).x, y: roadPos(0, 1).y + 3 * TILE, angle: 0, speed: 0, maxSpeed: 260, accel: 200, handling: 2.8, color: "#FF2D55", name: "Sport", w: 20, h: 34 },
+    { x: roadPos(1, 2).x + 3 * TILE, y: roadPos(1, 2).y, angle: Math.PI / 2, speed: 0, maxSpeed: 200, accel: 160, handling: 3.2, color: "#00D4FF", name: "Sedan", w: 18, h: 32 },
+    { x: roadPos(2, 0).x, y: roadPos(2, 0).y + 4 * TILE, angle: 0, speed: 0, maxSpeed: 150, accel: 130, handling: 3.8, color: "#00FF88", name: "Truck", w: 22, h: 38 },
+    { x: roadPos(3, 3).x + 4 * TILE, y: roadPos(3, 3).y, angle: Math.PI, speed: 0, maxSpeed: 220, accel: 180, handling: 3.0, color: "#FFD700", name: "Taxi", w: 18, h: 32 },
+    { x: roadPos(1, 4).x, y: roadPos(1, 4).y + 2 * TILE, angle: -Math.PI / 2, speed: 0, maxSpeed: 300, accel: 240, handling: 2.5, color: "#B44DFF", name: "Racer", w: 18, h: 34 },
   ];
 }
 
@@ -102,7 +121,7 @@ function roadTile(): Vec2 {
   do {
     r = Math.floor(Math.random() * ROWS);
     c = Math.floor(Math.random() * COLS);
-  } while (r % 12 >= 2 && c % 12 >= 2); // must be on road
+  } while (r % 7 >= 2 && c % 7 >= 2); // must be on road
   return { x: c * TILE + TILE / 2, y: r * TILE + TILE / 2 };
 }
 
@@ -135,7 +154,7 @@ export default function CityDrivePage() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const mapRef = useRef<number[][]>(genMap());
   const carsRef = useRef<CarEntity[]>(initCars());
-  const playerRef = useRef({ x: 5 * TILE, y: 5 * TILE, angle: 0, speed: 0, inCar: -1 });
+  const playerRef = useRef({ x: 1 * TILE, y: 1 * TILE, angle: 0, speed: 0, inCar: -1 });
   const missionsRef = useRef<Mission[]>([]);
   const keysRef = useRef<Set<string>>(new Set());
   const scoreRef = useRef(0);
@@ -158,7 +177,7 @@ export default function CityDrivePage() {
     if (countdown <= 0) {
       // Init game
       carsRef.current = initCars();
-      playerRef.current = { x: 5 * TILE, y: 5 * TILE, angle: 0, speed: 0, inCar: -1 };
+      playerRef.current = { x: 1 * TILE, y: 1 * TILE, angle: 0, speed: 0, inCar: -1 };
       scoreRef.current = 0;
       missionsCompletedRef.current = 0;
       timeRef.current = GAME_TIME;
@@ -254,7 +273,7 @@ export default function CityDrivePage() {
         p.inCar = -1;
         p.speed = 0;
         car.speed = 0;
-        showMsg("Kiszálltál!");
+        showMsg("Exited!");
       }
     } else {
       // ─── WALKING ───
@@ -306,10 +325,10 @@ export default function CityDrivePage() {
       if (m.type === "delivery") {
         if (!m.pickedUp) {
           const dist = Math.sqrt((p.x - m.px) ** 2 + (p.y - m.py) ** 2);
-          if (dist < 30) { m.pickedUp = true; showMsg("📦 Csomag felvéve!"); changed = true; }
+          if (dist < 30) { m.pickedUp = true; showMsg("📦 Package picked up!"); changed = true; }
         } else {
           const dist = Math.sqrt((p.x - m.dx) ** 2 + (p.y - m.dy) ** 2);
-          if (dist < 30) { m.completed = true; scoreRef.current += m.points; missionsCompletedRef.current++; showMsg(`+${m.points} pont!`); changed = true; }
+          if (dist < 30) { m.completed = true; scoreRef.current += m.points; missionsCompletedRef.current++; showMsg(`+${m.points} pts!`); changed = true; }
         }
       } else if (m.type === "parking") {
         if (p.inCar >= 0) {
@@ -317,7 +336,7 @@ export default function CityDrivePage() {
           const dist = Math.sqrt((car.x - m.px) ** 2 + (car.y - m.py) ** 2);
           if (dist < 25 && Math.abs(car.speed) < 5) {
             m.completed = true; scoreRef.current += m.points; missionsCompletedRef.current++;
-            showMsg(`🅿️ Parkolás +${m.points}!`); changed = true;
+            showMsg(`🅿️ Parked +${m.points}!`); changed = true;
           }
         }
       } else if (m.type === "coins" && m.coins) {
@@ -328,13 +347,13 @@ export default function CityDrivePage() {
             m.coins.splice(i, 1);
             m.coinsLeft = m.coins.length;
             scoreRef.current += 10;
-            showMsg(`🪙 Érme! (${m.coins.length} maradt)`);
+            showMsg(`🪙 Coin! (${m.coins.length} left)`);
             changed = true;
           }
         }
         if (m.coins.length === 0) {
           m.completed = true; missionsCompletedRef.current++;
-          showMsg(`🪙 Összegyűjtve +${m.points}!`);
+          showMsg(`🪙 All collected +${m.points}!`);
         }
       }
     }
@@ -386,37 +405,74 @@ export default function CityDrivePage() {
         const tile = map[r][c];
 
         if (tile === T_ROAD) {
-          ctx.fillStyle = "#1a1a2e";
+          // Asphalt
+          ctx.fillStyle = "#181828";
           ctx.fillRect(sx, sy, TILE, TILE);
-          // Lane markings
-          ctx.fillStyle = "#ffffff15";
-          if (r % 12 === 0 && c % 4 === 0) { ctx.fillRect(sx + 4, sy + TILE / 2 - 1, TILE - 8, 2); }
-          if (c % 12 === 0 && r % 4 === 0) { ctx.fillRect(sx + TILE / 2 - 1, sy + 4, 2, TILE - 8); }
+          // Subtle road texture
+          ctx.fillStyle = "#1c1c30";
+          if ((r + c) % 2 === 0) ctx.fillRect(sx, sy, TILE, TILE);
+          // Lane markings (dashed center lines)
+          ctx.fillStyle = "#ffffff18";
+          if (r % 7 === 0 && c % 3 === 0) { ctx.fillRect(sx + 6, sy + TILE / 2 - 1, TILE - 12, 2); }
+          if (c % 7 === 0 && r % 3 === 0) { ctx.fillRect(sx + TILE / 2 - 1, sy + 6, 2, TILE - 12); }
+          // Intersection markings
+          if (r % 7 < 2 && c % 7 < 2) {
+            ctx.fillStyle = "#ffffff08";
+            ctx.fillRect(sx + 2, sy + 2, TILE - 4, TILE - 4);
+          }
         } else if (tile === T_SIDEWALK) {
-          ctx.fillStyle = "#222238";
+          ctx.fillStyle = "#1e1e35";
           ctx.fillRect(sx, sy, TILE, TILE);
-          ctx.strokeStyle = "#2a2a4a";
-          ctx.strokeRect(sx, sy, TILE, TILE);
+          // Sidewalk pattern
+          ctx.strokeStyle = "#252545";
+          ctx.lineWidth = 0.5;
+          ctx.strokeRect(sx + 1, sy + 1, TILE - 2, TILE - 2);
+          // Street lights at corners
+          if (r % 7 === 2 && c % 7 === 2) {
+            ctx.fillStyle = "#FFD70030";
+            ctx.beginPath();
+            ctx.arc(sx + TILE / 2, sy + TILE / 2, 8, 0, Math.PI * 2);
+            ctx.fill();
+            ctx.fillStyle = "#FFD70060";
+            ctx.beginPath();
+            ctx.arc(sx + TILE / 2, sy + TILE / 2, 3, 0, Math.PI * 2);
+            ctx.fill();
+          }
         } else {
+          // Building base
           ctx.fillStyle = buildingColor(r, c);
           ctx.fillRect(sx, sy, TILE, TILE);
-          // Neon glow border on edges
+          // Roof accent
+          ctx.fillStyle = roofColor(r, c);
+          ctx.fillRect(sx + 1, sy + 1, TILE - 2, TILE - 2);
+          // Neon glow border on edges facing roads
           const aboveRoad = r > 0 && map[r - 1]?.[c] !== T_BUILDING;
           const belowRoad = r < ROWS - 1 && map[r + 1]?.[c] !== T_BUILDING;
           const leftRoad = c > 0 && map[r]?.[c - 1] !== T_BUILDING;
           const rightRoad = c < COLS - 1 && map[r]?.[c + 1] !== T_BUILDING;
           const glow = buildingGlow(r, c);
-          ctx.strokeStyle = glow + "40";
-          ctx.lineWidth = 1;
-          if (aboveRoad) { ctx.beginPath(); ctx.moveTo(sx, sy); ctx.lineTo(sx + TILE, sy); ctx.stroke(); }
-          if (belowRoad) { ctx.beginPath(); ctx.moveTo(sx, sy + TILE); ctx.lineTo(sx + TILE, sy + TILE); ctx.stroke(); }
-          if (leftRoad) { ctx.beginPath(); ctx.moveTo(sx, sy); ctx.lineTo(sx, sy + TILE); ctx.stroke(); }
-          if (rightRoad) { ctx.beginPath(); ctx.moveTo(sx + TILE, sy); ctx.lineTo(sx + TILE, sy + TILE); ctx.stroke(); }
-          // Window lights
-          if ((r + c) % 3 === 0) {
-            ctx.fillStyle = "#FFD70020";
-            ctx.fillRect(sx + 8, sy + 8, 5, 5);
-            ctx.fillRect(sx + TILE - 13, sy + TILE - 13, 5, 5);
+          ctx.lineWidth = 1.5;
+          ctx.strokeStyle = glow + "50";
+          if (aboveRoad) { ctx.beginPath(); ctx.moveTo(sx, sy + 0.5); ctx.lineTo(sx + TILE, sy + 0.5); ctx.stroke(); }
+          if (belowRoad) { ctx.beginPath(); ctx.moveTo(sx, sy + TILE - 0.5); ctx.lineTo(sx + TILE, sy + TILE - 0.5); ctx.stroke(); }
+          if (leftRoad) { ctx.beginPath(); ctx.moveTo(sx + 0.5, sy); ctx.lineTo(sx + 0.5, sy + TILE); ctx.stroke(); }
+          if (rightRoad) { ctx.beginPath(); ctx.moveTo(sx + TILE - 0.5, sy); ctx.lineTo(sx + TILE - 0.5, sy + TILE); ctx.stroke(); }
+          // Window lights (varied)
+          const windowSeed = (r * 17 + c * 31) % 10;
+          if (windowSeed < 6) {
+            const wColor = windowSeed < 3 ? "#FFD70018" : "#00D4FF15";
+            ctx.fillStyle = wColor;
+            ctx.fillRect(sx + 5, sy + 4, 4, 4);
+            ctx.fillRect(sx + TILE - 9, sy + 4, 4, 4);
+            if (windowSeed < 4) {
+              ctx.fillRect(sx + 5, sy + TILE - 8, 4, 4);
+              ctx.fillRect(sx + TILE - 9, sy + TILE - 8, 4, 4);
+            }
+          }
+          // Rooftop AC units / details on some buildings
+          if ((r * 5 + c * 3) % 11 === 0) {
+            ctx.fillStyle = "#0a0a18";
+            ctx.fillRect(sx + TILE / 2 - 3, sy + TILE / 2 - 3, 6, 6);
           }
         }
       }
@@ -513,10 +569,10 @@ export default function CityDrivePage() {
     ctx.fillStyle = "#FF6B00";
     ctx.font = "bold 18px monospace";
     ctx.textAlign = "left";
-    ctx.fillText(`${scoreRef.current} pont`, 16, 32);
+    ctx.fillText(`${scoreRef.current} pts`, 16, 32);
     ctx.fillStyle = "#ffffff80";
     ctx.font = "12px monospace";
-    ctx.fillText(`${missionsCompletedRef.current}/${TOTAL_MISSIONS} küldetés`, 16, 48);
+    ctx.fillText(`${missionsCompletedRef.current}/${TOTAL_MISSIONS} missions`, 16, 48);
 
     // Timer
     const tl = Math.ceil(timeRef.current);
@@ -750,35 +806,35 @@ export default function CityDrivePage() {
                   CITY DRIVE
                 </h1>
                 <p className="text-white/50 text-sm mt-2 max-w-xs mx-auto">
-                  Szállj be az autókba, teljesíts küldetéseket a neon városban!
+                  Get in cars, complete missions in the neon city!
                 </p>
               </div>
 
               <div className="space-y-3 mb-8 px-4 max-w-sm mx-auto">
                 <div className="flex items-center gap-3 bg-white/5 rounded-lg px-4 py-2">
                   <span className="text-lg">🚗</span>
-                  <div className="text-xs text-white/70"><b className="text-white">5 autó</b> — különböző sebességek</div>
+                  <div className="text-xs text-white/70"><b className="text-white">5 cars</b> — different speeds</div>
                 </div>
                 <div className="flex items-center gap-3 bg-white/5 rounded-lg px-4 py-2">
                   <span className="text-lg">📦</span>
-                  <div className="text-xs text-white/70"><b className="text-white">Küldetések</b> — szállítás, parkolás, gyűjtés</div>
+                  <div className="text-xs text-white/70"><b className="text-white">Missions</b> — delivery, parking, collect</div>
                 </div>
                 <div className="flex items-center gap-3 bg-white/5 rounded-lg px-4 py-2">
                   <span className="text-lg">⏱️</span>
-                  <div className="text-xs text-white/70"><b className="text-white">90 mp</b> — gyűjts minél több pontot!</div>
+                  <div className="text-xs text-white/70"><b className="text-white">90 sec</b> — score as many points as you can!</div>
                 </div>
               </div>
 
               <div className="text-center space-y-3 px-4">
                 <div className="text-[10px] text-white/30 mb-2">
-                  WASD / nyilak: mozgás • SPACE: be/kiszállás
+                  WASD / arrows: move • SPACE: enter/exit car
                 </div>
                 <button onClick={startGame}
                   className="w-full max-w-xs py-3 rounded-xl font-black text-lg text-white bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-400 hover:to-red-400 transition-all shadow-lg shadow-orange-500/30 active:scale-95">
-                  INDÍTÁS
+                  START
                 </button>
                 <Link href="/" className="block text-white/40 text-sm hover:text-white/60 transition-colors mt-4">
-                  ← Vissza
+                  ← Back
                 </Link>
               </div>
             </motion.div>
@@ -843,11 +899,11 @@ export default function CityDrivePage() {
                 onPlayAgain={handlePlayAgain}
               />
               <div className="text-center mt-3 text-white/40 text-xs">
-                {finalMissions}/{TOTAL_MISSIONS} küldetés teljesítve
+                {finalMissions}/{TOTAL_MISSIONS} missions completed
               </div>
               <button onClick={() => setGameState("reward")}
                 className="mt-3 w-full py-2 rounded-lg bg-orange-500/20 border border-orange-400/40 text-orange-300 text-sm font-bold hover:bg-orange-500/30 transition-all">
-                Kártya megtekintése →
+                View Card →
               </button>
             </div>
           </motion.div>
