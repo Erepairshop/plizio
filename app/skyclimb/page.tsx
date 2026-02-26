@@ -42,11 +42,17 @@ const CAM_HEIGHT = 4.5;
 const FRICTION = 0.82;
 const ACCEL = 0.05;
 
-// ─── LEVEL GENERATION (PATH-BASED) ─────────────────
+// ─── LEVEL GENERATION (CONNECTED PATH) ─────────────
 function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: number } {
   const platforms: Platform3D[] = [];
   const difficulty = Math.min(level, 10);
-  let cx = 0, cy = 0, cz = 0;
+
+  // edgeZ = far edge (Z) of the last placed platform
+  // surfY = current walking surface height (= platTop)
+  // cx = current center X
+  let edgeZ = 4;   // start platform: center=0, depth=8, far edge=4
+  let surfY = 0;   // start platform top = y(-0.5) + h(1)/2 = 0
+  let cx = 0;
 
   function addTrees(p: Platform3D, count: number) {
     p.trees = [];
@@ -70,8 +76,9 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
     }
   }
 
-  // Start platform
-  const start: Platform3D = { x: 0, y: -0.5, z: 0, w: 8, d: 8, h: 1, type: "ground" };
+  // Start platform (top at surfY=0)
+  const startH = 1;
+  const start: Platform3D = { x: 0, y: -startH / 2, z: 0, w: 8, d: 8, h: startH, type: "ground" };
   addTrees(start, 3);
   addRocks(start, 2);
   platforms.push(start);
@@ -80,100 +87,112 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
 
   for (let s = 0; s < segCount; s++) {
     const roll = Math.random();
-    const lat = (Math.random() - 0.5) * 2;
 
-    if (s < 2 || roll < 0.30) {
-      // Ground path — wide walkable terrain
-      const depth = 6 + Math.random() * 8;
-      const w = 5 + Math.random() * 4;
-      cz += depth / 2 + 0.5;
-      cx += lat;
-      cy += 0.3 + Math.random() * 0.5;
+    if (s < 3 || roll < 0.35) {
+      // ── GROUND PATH — connects directly, no gap ──
+      const depth = 8 + Math.random() * 6;
+      const w = 6 + Math.random() * 3;
+      const h = 1 + Math.random() * 0.5;
+      surfY += 0.15 + Math.random() * 0.25;
+      cx += (Math.random() - 0.5) * 0.6;
+
+      const centerZ = edgeZ + depth / 2;
       const p: Platform3D = {
-        x: cx, y: cy - 0.5, z: cz,
-        w, d: depth, h: 1 + Math.random() * 0.5,
-        type: "ground",
+        x: cx, y: surfY - h / 2, z: centerZ,
+        w, d: depth, h, type: "ground",
       };
       addTrees(p, 1 + Math.floor(Math.random() * 3));
       addRocks(p, Math.floor(Math.random() * 3));
       platforms.push(p);
-      cz += depth / 2;
-    } else if (roll < 0.50) {
-      // Gap jump — small gap, clear height rise
-      const gap = 1.0 + difficulty * 0.06;
-      const d = 4 + Math.random() * 3;
-      cz += gap + d / 2;
-      cy += 0.4 + Math.random() * 0.4;
-      cx += lat * 0.3;
+      edgeZ = centerZ + depth / 2;
+    } else if (roll < 0.52) {
+      // ── GAP JUMP — intentional gap to jump across ──
+      const gap = 1.2 + difficulty * 0.06;
+      const d = 5 + Math.random() * 3;
+      const w = 5 + Math.random() * 3;
+      const h = 0.8 + Math.random() * 0.4;
+      surfY += 0.2 + Math.random() * 0.3;
+      cx += (Math.random() - 0.5) * 0.8;
+
+      const centerZ = edgeZ + gap + d / 2;
       const p: Platform3D = {
-        x: cx, y: cy - 0.4, z: cz,
-        w: 4 + Math.random() * 3, d, h: 0.8 + Math.random() * 0.5,
-        type: "rock",
+        x: cx, y: surfY - h / 2, z: centerZ,
+        w, d, h, type: "rock",
       };
       addRocks(p, 1 + Math.floor(Math.random() * 2));
       platforms.push(p);
-      cz += d / 2;
+      edgeZ = centerZ + d / 2;
     } else if (roll < 0.68) {
-      // Staircase — gentle rock steps going up
+      // ── STAIRCASE — connected steps going up ──
       const steps = 3 + Math.floor(Math.random() * 2);
       for (let i = 0; i < steps; i++) {
-        cz += 2.2;
-        cy += 0.4 + Math.random() * 0.2;
-        cx += (Math.random() - 0.5) * 0.8;
+        const stepD = 3 + Math.random();
+        const stepW = 3.5 + Math.random() * 1.5;
+        const stepH = 0.5 + Math.random() * 0.3;
+        surfY += 0.35 + Math.random() * 0.2;
+        cx += (Math.random() - 0.5) * 0.5;
+
+        const tinyGap = 0.15;
+        const centerZ = edgeZ + tinyGap + stepD / 2;
         platforms.push({
-          x: cx, y: cy - 0.25, z: cz,
-          w: 3.0 + Math.random() * 1.5, d: 3.0 + Math.random(),
-          h: 0.5 + Math.random() * 0.3,
-          type: "step",
+          x: cx, y: surfY - stepH / 2, z: centerZ,
+          w: stepW, d: stepD, h: stepH, type: "step",
         });
+        edgeZ = centerZ + stepD / 2;
       }
     } else if (roll < 0.80) {
-      // Narrow bridge — same height
-      const bLen = 5 + Math.random() * 5;
-      cz += bLen / 2 + 0.5;
-      cx += lat * 0.3;
+      // ── BRIDGE — connects directly, same height ──
+      const bLen = 6 + Math.random() * 5;
+      const bH = 0.3;
+      cx += (Math.random() - 0.5) * 0.4;
+
+      const centerZ = edgeZ + bLen / 2;
       platforms.push({
-        x: cx, y: cy - 0.1, z: cz,
-        w: 2.0 + Math.random() * 0.5, d: bLen, h: 0.3,
-        type: "bridge",
+        x: cx, y: surfY - bH / 2, z: centerZ,
+        w: 2.0 + Math.random() * 0.5, d: bLen, h: bH, type: "bridge",
       });
-      cz += bLen / 2;
+      edgeZ = centerZ + bLen / 2;
     } else if (difficulty >= 3 && roll < 0.90) {
-      // Moving platform
-      cz += 3.0;
-      cy += 0.3;
+      // ── MOVING PLATFORM — gap before it ──
+      const gap = 1.5;
+      surfY += 0.2;
+
+      const centerZ = edgeZ + gap + 1.75;
       platforms.push({
-        x: cx, y: cy, z: cz, w: 3.5, d: 3.5, h: 0.4,
+        x: cx, y: surfY - 0.2, z: centerZ, w: 3.5, d: 3.5, h: 0.4,
         type: "moving",
-        origX: cx, origZ: cz,
+        origX: cx, origZ: centerZ,
         moveAxis: Math.random() > 0.5 ? "x" : "z",
         moveRange: 1.5 + Math.random() * 2,
         moveSpeed: 0.4 + difficulty * 0.1,
       });
-      cz += 3.5;
+      edgeZ = centerZ + 1.75;
     } else if (difficulty >= 4) {
-      // Crumble platforms
+      // ── CRUMBLE PLATFORMS — small gaps ──
       const count = 2 + Math.floor(Math.random() * 2);
       for (let i = 0; i < count; i++) {
-        cz += 2.2;
-        cy += 0.2;
-        cx += (Math.random() - 0.5) * 1.0;
+        surfY += 0.15;
+        cx += (Math.random() - 0.5) * 0.6;
+        const pD = 3.2;
+
+        const centerZ = edgeZ + 0.6 + pD / 2;
         platforms.push({
-          x: cx, y: cy, z: cz, w: 3.2, d: 3.2, h: 0.3,
+          x: cx, y: surfY - 0.15, z: centerZ, w: 3.2, d: pD, h: 0.3,
           type: "crumble",
           crumbleTimer: 0, touched: false,
         });
+        edgeZ = centerZ + pD / 2;
       }
     }
   }
 
-  // Goal platform
-  cz += 4;
-  cy += 0.3;
+  // ── GOAL PLATFORM ──
+  surfY += 0.2;
+  const goalD = 7, goalH = 1;
+  const goalZ = edgeZ + goalD / 2;
   const goal: Platform3D = {
-    x: cx, y: cy - 0.5, z: cz + 3,
-    w: 7, d: 7, h: 1,
-    type: "ground",
+    x: cx, y: surfY - goalH / 2, z: goalZ,
+    w: 7, d: goalD, h: goalH, type: "ground",
   };
   addTrees(goal, 2);
   platforms.push(goal);
