@@ -17,7 +17,7 @@ interface Platform3D {
   w: number;
   d: number;
   h: number;
-  type: "ground" | "rock" | "step" | "bridge" | "moving" | "crumble";
+  type: "ground" | "rock" | "step" | "bridge" | "moving" | "crumble" | "ice" | "bounce";
   moveAxis?: "x" | "z";
   moveRange?: number;
   moveSpeed?: number;
@@ -206,7 +206,7 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
         });
         edgeZ = centerZ + pD / 2;
       }
-    } else if (difficulty >= 5) {
+    } else if (difficulty >= 5 && roll < 0.93) {
       // ── FLOATING SPHERES / SMALL ISLANDS — high level challenge ──
       const count = 2 + Math.floor(Math.random() * 3);
       for (let i = 0; i < count; i++) {
@@ -219,6 +219,37 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
           x: cx, y: surfY - 0.15, z: centerZ,
           w: size, d: size, h: 0.3,
           type: "rock",
+        });
+        edgeZ = centerZ + size / 2;
+      }
+    } else if (level >= 10 && roll < 0.96) {
+      // ── ICE PLATFORMS (level 10+) — slippery, low friction ──
+      const count = 2 + Math.floor(Math.random() * 3);
+      for (let i = 0; i < count; i++) {
+        surfY += 0.3 + Math.random() * 0.4;
+        cx += (Math.random() - 0.5) * 2.5;
+        const d = 3 + Math.random() * 2;
+        const w = 3 + Math.random() * 2;
+        const centerZ = edgeZ + 0.6 + d / 2;
+        platforms.push({
+          x: cx, y: surfY - 0.15, z: centerZ,
+          w, d, h: 0.3,
+          type: "ice",
+        });
+        edgeZ = centerZ + d / 2;
+      }
+    } else if (level >= 15) {
+      // ── BOUNCE PLATFORMS (level 15+) — bounce you up high ──
+      const count = 2 + Math.floor(Math.random() * 2);
+      for (let i = 0; i < count; i++) {
+        surfY += 0.8 + Math.random() * 0.6;
+        cx += ((i % 2 === 0 ? 1 : -1) * (1.2 + Math.random() * 1.5));
+        const size = 2.2 + Math.random() * 1.0;
+        const centerZ = edgeZ + 1.2 + size / 2;
+        platforms.push({
+          x: cx, y: surfY - 0.15, z: centerZ,
+          w: size, d: size, h: 0.3,
+          type: "bounce",
         });
         edgeZ = centerZ + size / 2;
       }
@@ -288,6 +319,8 @@ interface GameData {
   hasShield: boolean;
   magnetTimer: number;
   rocketTimer: number;
+  // Platform state
+  onIce: boolean;
   // Win animation
   winAnim: boolean;
   winAnimTimer: number;
@@ -320,6 +353,7 @@ function createGameData(): GameData {
     hasShield: false,
     magnetTimer: 0,
     rocketTimer: 0,
+    onIce: false,
     winAnim: false,
     winAnimTimer: 0,
   };
@@ -492,6 +526,8 @@ function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: Re
       case "bridge": return { c: "#8B6914", e: "#443208", i: 0.05 };
       case "moving": return { c: "#00FF88", e: "#00FF88", i: 0.3 };
       case "crumble": return { c: "#FF4466", e: "#FF4466", i: 0.3 };
+      case "ice": return { c: "#A0D8EF", e: "#00CED1", i: 0.4 };
+      case "bounce": return { c: "#FF8C00", e: "#FFD700", i: 0.5 };
       default: return { c: "#3a7d28", e: "#1a3d10", i: 0.05 };
     }
   }, [plat.type, isGoal]);
@@ -500,9 +536,9 @@ function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: Re
     color: colors.c,
     emissive: colors.e,
     emissiveIntensity: colors.i,
-    roughness: plat.type === "bridge" ? 0.7 : 0.85,
-    transparent: plat.type === "crumble",
-    opacity: 1,
+    roughness: plat.type === "bridge" ? 0.7 : plat.type === "ice" ? 0.1 : 0.85,
+    transparent: plat.type === "crumble" || plat.type === "ice",
+    opacity: plat.type === "ice" ? 0.7 : 1,
   }), [colors, plat.type]);
 
   const sideMat = useMemo(() => {
@@ -822,7 +858,14 @@ function GameLoop({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed 
     }
 
     // ─── POWER-UP TIMERS ─────
-    if (g.rocketTimer > 0) g.rocketTimer -= dt;
+    if (g.rocketTimer > 0) {
+      g.rocketTimer -= dt;
+      // Continuous forward boost during rocket
+      const rFwdX = Math.sin(g.facingAngle);
+      const rFwdZ = Math.cos(g.facingAngle);
+      g.vx += rFwdX * 0.008 * dt;
+      g.vz += rFwdZ * 0.008 * dt;
+    }
     if (g.magnetTimer > 0) g.magnetTimer -= dt;
 
     // ─── MOVEMENT (relative to camera) ─────
@@ -847,8 +890,10 @@ function GameLoop({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed 
 
       g.facingAngle = Math.atan2(worldDirX, worldDirZ);
     } else {
-      g.vx *= FRICTION;
-      g.vz *= FRICTION;
+      // Ice platforms are much more slippery (less friction = slide more)
+      const currentFriction = g.onIce ? 0.98 : FRICTION;
+      g.vx *= currentFriction;
+      g.vz *= currentFriction;
     }
 
     // ─── COYOTE TIME + JUMP BUFFER ─────
@@ -881,25 +926,27 @@ function GameLoop({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed 
     const gravMult = g.rocketTimer > 0 ? 0.4 : 1.0;
     g.vy -= GRAVITY * dt * gravMult;
 
-    // ─── MAGNET EFFECT ─────
-    if (g.magnetTimer > 0 && !g.onGround && g.vy < 0) {
+    // ─── MAGNET EFFECT — pulls toward nearest NEXT platform (ahead of player) ─────
+    if (g.magnetTimer > 0) {
       let nearestDist = Infinity;
       let nearestPlat: Platform3D | null = null;
       for (const plat of g.platforms) {
         if (plat.type === "crumble" && plat.touched && (plat.crumbleTimer || 0) > 50) continue;
-        const platTop = plat.y + plat.h / 2;
-        if (platTop > g.py + 0.5) continue;
+        // Only attract to platforms that are ahead or nearby (not far behind)
+        if (plat.z < g.pz - 3) continue;
         const dx = plat.x - g.px;
         const dz = plat.z - g.pz;
         const dist = Math.sqrt(dx * dx + dz * dz);
-        if (dist < nearestDist && dist < 6) {
+        // Prefer platforms ahead and within range
+        if (dist < nearestDist && dist > 0.5 && dist < 10) {
           nearestDist = dist;
           nearestPlat = plat;
         }
       }
       if (nearestPlat) {
-        g.vx += (nearestPlat.x - g.px) * MAGNET_PULL;
-        g.vz += (nearestPlat.z - g.pz) * MAGNET_PULL;
+        const pull = g.onGround ? MAGNET_PULL * 1.5 : MAGNET_PULL * 3;
+        g.vx += (nearestPlat.x - g.px) * pull;
+        g.vz += (nearestPlat.z - g.pz) * pull;
       }
     }
 
@@ -911,6 +958,7 @@ function GameLoop({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed 
     // ─── PLATFORM COLLISION (FIXED - generous edge tolerance) ─────
     const wasOnGround = g.onGround;
     g.onGround = false;
+    g.onIce = false;
 
     for (const plat of g.platforms) {
       if (plat.type === "crumble" && plat.touched) {
@@ -940,11 +988,19 @@ function GameLoop({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed 
         g.lastGroundY = platTop;
 
         if (plat.type === "crumble") plat.touched = true;
+        if (plat.type === "ice") g.onIce = true;
 
         // FIXED: Moving platform carries player
         if (plat.type === "moving") {
           g.px += plat.deltaX || 0;
           g.pz += plat.deltaZ || 0;
+        }
+
+        // BOUNCE: spring the player up high
+        if (plat.type === "bounce") {
+          g.vy = JUMP_FORCE * 2.2;
+          g.onGround = false;
+          break;
         }
         break;
       }
@@ -971,6 +1027,11 @@ function GameLoop({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed 
         onPowerUp(pu.type);
         if (pu.type === "rocket") {
           g.vy = ROCKET_FORCE;
+          // Also boost forward based on facing direction
+          const fwdX = Math.sin(g.facingAngle);
+          const fwdZ = Math.cos(g.facingAngle);
+          g.vx += fwdX * 0.15;
+          g.vz += fwdZ * 0.15;
           g.rocketTimer = 60;
           g.onGround = false;
         } else if (pu.type === "shield") {
