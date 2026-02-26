@@ -4,7 +4,7 @@ import { useState, useEffect, useRef, useCallback, useMemo } from "react";
 import { Canvas, useFrame, useThree } from "@react-three/fiber";
 import * as THREE from "three";
 import { motion, AnimatePresence } from "framer-motion";
-import { Mountain, Trophy, ArrowUp, RotateCcw, Home, Maximize, Share } from "lucide-react";
+import { Mountain, Trophy, ArrowUp, RotateCcw, Home, Maximize, Share, Rocket, Shield, Zap, X } from "lucide-react";
 import Link from "next/link";
 import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, type CardRarity } from "@/lib/cards";
@@ -27,6 +27,18 @@ interface Platform3D {
   touched?: boolean;
   trees?: { ox: number; oz: number; s: number }[];
   rocks?: { ox: number; oz: number; s: number }[];
+  deltaX?: number;
+  deltaZ?: number;
+}
+
+type PowerUpType = "rocket" | "shield" | "magnet";
+
+interface PowerUpItem {
+  x: number;
+  y: number;
+  z: number;
+  type: PowerUpType;
+  collected: boolean;
 }
 
 type GameState = "menu" | "playing" | "dead" | "level-complete" | "reward";
@@ -43,13 +55,17 @@ const FRICTION = 0.85;
 const ACCEL = 0.06;
 const COYOTE_FRAMES = 6;
 const JUMP_BUFFER = 8;
+const ROCKET_FORCE = 1.6;
+const MAGNET_DURATION = 300;
+const MAGNET_PULL = 0.012;
+const WIN_ANIM_FRAMES = 90;
 
 // ─── LEVEL GENERATION (CONNECTED PATH) ─────────────
-function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: number } {
+function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: number; powerUps: PowerUpItem[] } {
   const platforms: Platform3D[] = [];
   const difficulty = Math.min(level, 10);
 
-  let edgeZ = 4;
+  let edgeZ = 5;
   let surfY = 0;
   let cx = 0;
 
@@ -87,15 +103,19 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
   for (let s = 0; s < segCount; s++) {
     const roll = Math.random();
 
-    if (s < 2 || (s % 4 === 0 && roll < 0.4)) {
+    // Lateral shift increases with difficulty for zigzag paths
+    const lateralShift = difficulty >= 3 ? (Math.random() - 0.5) * (1.5 + difficulty * 0.3) : (Math.random() - 0.5) * 0.4;
+
+    if (s < 2 || (s % 4 === 0 && roll < 0.35)) {
       // ── GROUND REST AREA ──
       const depth = 5 + Math.random() * 3;
       const w = 6 + Math.random() * 3;
       const h = 1 + Math.random() * 0.5;
       surfY += 0.6 + Math.random() * 0.4;
-      cx += (Math.random() - 0.5) * 0.4;
+      cx += lateralShift;
 
-      const centerZ = edgeZ + depth / 2;
+      const gap = 0.5 + Math.random() * 0.3;
+      const centerZ = edgeZ + gap + depth / 2;
       const p: Platform3D = {
         x: cx, y: surfY - h / 2, z: centerZ,
         w, d: depth, h, type: "ground",
@@ -104,14 +124,14 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
       addRocks(p, Math.floor(Math.random() * 2));
       platforms.push(p);
       edgeZ = centerZ + depth / 2;
-    } else if (roll < 0.45) {
+    } else if (roll < 0.40) {
       // ── GAP JUMP — wider platforms, manageable gaps ──
       const gap = 0.8 + difficulty * 0.06;
       const d = 4 + Math.random() * 2;
       const w = 4 + Math.random() * 2;
       const h = 0.6 + Math.random() * 0.4;
       surfY += 0.3 + Math.random() * 0.5;
-      cx += (Math.random() - 0.5) * 1.0;
+      cx += lateralShift * 1.5;
 
       const centerZ = edgeZ + gap + d / 2;
       const p: Platform3D = {
@@ -121,15 +141,16 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
       addRocks(p, Math.floor(Math.random() * 2));
       platforms.push(p);
       edgeZ = centerZ + d / 2;
-    } else if (roll < 0.70) {
-      // ── STAIRCASE — wider steps, smaller gaps ──
+    } else if (roll < 0.58) {
+      // ── STAIRCASE — zigzag steps at higher levels ──
       const steps = 3 + Math.floor(Math.random() * 3);
+      const zigzag = difficulty >= 4;
       for (let i = 0; i < steps; i++) {
         const stepD = 2.5 + Math.random() * 1.0;
         const stepW = 3.5 + Math.random() * 1.5;
         const stepH = 0.4 + Math.random() * 0.3;
         surfY += 0.5 + Math.random() * 0.3;
-        cx += (Math.random() - 0.5) * 0.7;
+        cx += zigzag ? ((i % 2 === 0 ? 1 : -1) * (1.0 + Math.random() * 0.8)) : (Math.random() - 0.5) * 0.7;
 
         const gap = 0.3 + Math.random() * 0.2;
         const centerZ = edgeZ + gap + stepD / 2;
@@ -139,12 +160,12 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
         });
         edgeZ = centerZ + stepD / 2;
       }
-    } else if (roll < 0.82) {
+    } else if (roll < 0.68) {
       // ── BRIDGE — slightly wider ──
       const bLen = 4 + Math.random() * 4;
       const bH = 0.3;
       surfY += 0.2 + Math.random() * 0.2;
-      cx += (Math.random() - 0.5) * 0.3;
+      cx += lateralShift * 0.5;
 
       const centerZ = edgeZ + bLen / 2;
       platforms.push({
@@ -152,10 +173,11 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
         w: 2.2 + Math.random() * 0.6, d: bLen, h: bH, type: "bridge",
       });
       edgeZ = centerZ + bLen / 2;
-    } else if (difficulty >= 3 && roll < 0.92) {
-      // ── MOVING PLATFORM — bigger ──
+    } else if (difficulty >= 3 && roll < 0.78) {
+      // ── MOVING PLATFORM ──
       const gap = 1.0;
       surfY += 0.5;
+      cx += lateralShift;
 
       const centerZ = edgeZ + gap + 2;
       platforms.push({
@@ -165,14 +187,15 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
         moveAxis: Math.random() > 0.5 ? "x" : "z",
         moveRange: 1.2 + Math.random() * 1.2,
         moveSpeed: 0.35 + difficulty * 0.08,
+        deltaX: 0, deltaZ: 0,
       });
       edgeZ = centerZ + 1.75;
-    } else if (difficulty >= 4) {
-      // ── CRUMBLE PLATFORMS — bigger ──
+    } else if (difficulty >= 4 && roll < 0.88) {
+      // ── CRUMBLE PLATFORMS ──
       const count = 2 + Math.floor(Math.random() * 2);
       for (let i = 0; i < count; i++) {
         surfY += 0.3 + Math.random() * 0.3;
-        cx += (Math.random() - 0.5) * 1.0;
+        cx += (Math.random() - 0.5) * 1.5;
         const pD = 3;
 
         const centerZ = edgeZ + 0.6 + pD / 2;
@@ -182,6 +205,22 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
           crumbleTimer: 0, touched: false,
         });
         edgeZ = centerZ + pD / 2;
+      }
+    } else if (difficulty >= 5) {
+      // ── FLOATING SPHERES / SMALL ISLANDS — high level challenge ──
+      const count = 2 + Math.floor(Math.random() * 3);
+      for (let i = 0; i < count; i++) {
+        surfY += 0.4 + Math.random() * 0.5;
+        cx += ((i % 2 === 0 ? 1 : -1) * (1.5 + Math.random() * 1.5));
+        const size = 1.8 + Math.random() * 1.2;
+
+        const centerZ = edgeZ + 1.0 + size / 2;
+        platforms.push({
+          x: cx, y: surfY - 0.15, z: centerZ,
+          w: size, d: size, h: 0.3,
+          type: "rock",
+        });
+        edgeZ = centerZ + size / 2;
       }
     }
   }
@@ -197,7 +236,29 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
   addTrees(goal, 2);
   platforms.push(goal);
 
-  return { platforms, goalIdx: platforms.length - 1 };
+  // ── POWER-UPS ──
+  const powerUps: PowerUpItem[] = [];
+  const availableTypes: PowerUpType[] = ["shield"];
+  if (level >= 3) availableTypes.push("magnet");
+  if (level >= 5) availableTypes.push("rocket");
+
+  const numPowerUps = Math.min(Math.floor(level / 2) + 1, 6);
+  const candidates = platforms.slice(2, -1).filter(p => p.type !== "crumble" && p.type !== "moving");
+
+  for (let i = 0; i < numPowerUps && candidates.length > 0; i++) {
+    const idx = Math.floor(Math.random() * candidates.length);
+    const plat = candidates[idx];
+    candidates.splice(idx, 1);
+    powerUps.push({
+      x: plat.x + (Math.random() - 0.5) * Math.max(plat.w - 2, 0.5),
+      y: plat.y + plat.h / 2 + 1.2,
+      z: plat.z + (Math.random() - 0.5) * Math.max(plat.d - 2, 0.5),
+      type: availableTypes[Math.floor(Math.random() * availableTypes.length)],
+      collected: false,
+    });
+  }
+
+  return { platforms, goalIdx: platforms.length - 1, powerUps };
 }
 
 // ─── GAME DATA ──────────────────────────────────────
@@ -223,6 +284,14 @@ interface GameData {
   coyoteTimer: number;
   jumpBufferTimer: number;
   lastGroundY: number;
+  // Power-ups
+  powerUps: PowerUpItem[];
+  hasShield: boolean;
+  magnetTimer: number;
+  rocketTimer: number;
+  // Win animation
+  winAnim: boolean;
+  winAnimTimer: number;
 }
 
 function createGameData(): GameData {
@@ -248,6 +317,12 @@ function createGameData(): GameData {
     coyoteTimer: 0,
     jumpBufferTimer: 0,
     lastGroundY: 0,
+    powerUps: [],
+    hasShield: false,
+    magnetTimer: 0,
+    rocketTimer: 0,
+    winAnim: false,
+    winAnimTimer: 0,
   };
 }
 
@@ -314,10 +389,18 @@ function Character({ gameRef }: { gameRef: React.RefObject<GameData> }) {
       groupRef.current.scale.set(scaleXZ, scaleY, scaleXZ);
     }
 
-    if (leftLegRef.current) leftLegRef.current.rotation.x = legSwing;
-    if (rightLegRef.current) rightLegRef.current.rotation.x = -legSwing;
-    if (leftArmRef.current) leftArmRef.current.rotation.x = armSwing;
-    if (rightArmRef.current) rightArmRef.current.rotation.x = -armSwing;
+    // Win animation: arms up celebration
+    if (g.winAnim && g.winAnimTimer > 30) {
+      if (leftArmRef.current) leftArmRef.current.rotation.x = -2.5;
+      if (rightArmRef.current) rightArmRef.current.rotation.x = -2.5;
+      if (leftLegRef.current) leftLegRef.current.rotation.x = 0;
+      if (rightLegRef.current) rightLegRef.current.rotation.x = 0;
+    } else {
+      if (leftLegRef.current) leftLegRef.current.rotation.x = legSwing;
+      if (rightLegRef.current) rightLegRef.current.rotation.x = -legSwing;
+      if (leftArmRef.current) leftArmRef.current.rotation.x = armSwing;
+      if (rightArmRef.current) rightArmRef.current.rotation.x = -armSwing;
+    }
   });
 
   return (
@@ -443,11 +526,15 @@ function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: Re
     const g = gameRef.current;
 
     if (plat.type === "moving") {
+      const prevX = plat.x;
+      const prevZ = plat.z;
       if (plat.moveAxis === "x" && plat.origX !== undefined) {
         plat.x = plat.origX + Math.sin(g.time * 0.03 * (plat.moveSpeed || 1)) * (plat.moveRange || 1);
       } else if (plat.moveAxis === "z" && plat.origZ !== undefined) {
         plat.z = plat.origZ + Math.sin(g.time * 0.03 * (plat.moveSpeed || 1)) * (plat.moveRange || 1);
       }
+      plat.deltaX = plat.x - prevX;
+      plat.deltaZ = plat.z - prevZ;
     }
 
     if (plat.type === "crumble" && plat.touched) {
@@ -516,16 +603,91 @@ function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: Re
 
 function GoalTrophy({ pos, gameRef }: { pos: number[]; gameRef: React.RefObject<GameData> }) {
   const ref = useRef<THREE.Mesh>(null);
+  const glowRef = useRef<THREE.PointLight>(null);
+
   useFrame(() => {
     if (!ref.current || !gameRef.current) return;
-    ref.current.rotation.y = gameRef.current.time * 0.02;
-    ref.current.position.y = pos[1] + Math.sin(gameRef.current.time * 0.03) * 0.2;
+    const g = gameRef.current;
+
+    if (g.winAnim) {
+      // Float down toward player during win animation
+      const targetY = g.py + 1.0;
+      ref.current.position.x += (g.px - ref.current.position.x) * 0.04;
+      ref.current.position.y += (targetY - ref.current.position.y) * 0.04;
+      ref.current.position.z += (g.pz - ref.current.position.z) * 0.04;
+      ref.current.rotation.y += 0.1;
+      const pulse = 1 + Math.sin(g.winAnimTimer * 0.15) * 0.3;
+      ref.current.scale.set(pulse, pulse, pulse);
+      if (glowRef.current) {
+        glowRef.current.position.copy(ref.current.position);
+        glowRef.current.intensity = 5 + Math.sin(g.winAnimTimer * 0.1) * 3;
+      }
+    } else {
+      ref.current.rotation.y = g.time * 0.02;
+      ref.current.position.y = pos[1] + Math.sin(g.time * 0.03) * 0.2;
+      ref.current.scale.set(1, 1, 1);
+    }
   });
+
   return (
-    <mesh ref={ref} position={[pos[0], pos[1], pos[2]]}>
-      <boxGeometry args={[0.5, 0.7, 0.08]} />
-      <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={0.8} />
-    </mesh>
+    <>
+      <mesh ref={ref} position={[pos[0], pos[1], pos[2]]}>
+        <boxGeometry args={[0.5, 0.7, 0.08]} />
+        <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={0.8} />
+      </mesh>
+      <pointLight ref={glowRef} color="#FFD700" intensity={0} distance={8} />
+    </>
+  );
+}
+
+// ─── POWER-UP MESH ──────────────────────────────────
+function PowerUpMesh({ powerUp, gameRef }: { powerUp: PowerUpItem; gameRef: React.RefObject<GameData> }) {
+  const ref = useRef<THREE.Group>(null);
+
+  const colors = useMemo(() => {
+    switch (powerUp.type) {
+      case "rocket": return { main: "#FF4500", glow: "#FF6347" };
+      case "shield": return { main: "#4169E1", glow: "#6495ED" };
+      case "magnet": return { main: "#9932CC", glow: "#BA55D3" };
+    }
+  }, [powerUp.type]);
+
+  useFrame(() => {
+    if (!ref.current || !gameRef.current) return;
+    if (powerUp.collected) { ref.current.visible = false; return; }
+    ref.current.visible = true;
+    ref.current.rotation.y = gameRef.current.time * 0.03;
+    ref.current.position.y = powerUp.y + Math.sin(gameRef.current.time * 0.04 + powerUp.x) * 0.25;
+  });
+
+  return (
+    <group ref={ref} position={[powerUp.x, powerUp.y, powerUp.z]}>
+      {powerUp.type === "rocket" && (
+        <>
+          <mesh rotation={[0, 0, 0]}>
+            <coneGeometry args={[0.2, 0.6, 6]} />
+            <meshStandardMaterial color={colors.main} emissive={colors.glow} emissiveIntensity={0.6} />
+          </mesh>
+          <mesh position={[0, -0.4, 0]}>
+            <cylinderGeometry args={[0.15, 0.2, 0.25, 6]} />
+            <meshStandardMaterial color="#FF6347" emissive="#FF4500" emissiveIntensity={0.3} />
+          </mesh>
+        </>
+      )}
+      {powerUp.type === "shield" && (
+        <mesh>
+          <dodecahedronGeometry args={[0.35, 0]} />
+          <meshStandardMaterial color={colors.main} emissive={colors.glow} emissiveIntensity={0.6} transparent opacity={0.85} />
+        </mesh>
+      )}
+      {powerUp.type === "magnet" && (
+        <mesh>
+          <torusGeometry args={[0.25, 0.1, 8, 12]} />
+          <meshStandardMaterial color={colors.main} emissive={colors.glow} emissiveIntensity={0.6} />
+        </mesh>
+      )}
+      <pointLight color={colors.glow} intensity={2} distance={5} />
+    </group>
   );
 }
 
@@ -584,10 +746,13 @@ function DistantMountains() {
 }
 
 // ─── GAME LOOP (IMPROVED PHYSICS) ───────────────────
-function GameLoop({ gameRef, onDie, onGoal }: {
+function GameLoop({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed }: {
   gameRef: React.RefObject<GameData>;
   onDie: () => void;
   onGoal: () => void;
+  onWinStart: () => void;
+  onPowerUp: (type: PowerUpType) => void;
+  onShieldUsed: () => void;
 }) {
   const { camera } = useThree();
   const vec = useMemo(() => new THREE.Vector3(), []);
@@ -599,6 +764,67 @@ function GameLoop({ gameRef, onDie, onGoal }: {
 
     const dt = Math.min(delta * 60, 3);
     g.time += dt;
+
+    // ─── WIN ANIMATION ─────
+    if (g.winAnim) {
+      g.winAnimTimer += dt;
+
+      // Auto-move toward goal center
+      const goal = g.platforms[g.goalIdx];
+      if (goal) {
+        const dx = goal.x - g.px;
+        const dz = goal.z - g.pz;
+        const dist = Math.sqrt(dx * dx + dz * dz);
+        if (dist > 0.3) {
+          g.vx = (dx / dist) * 0.025;
+          g.vz = (dz / dist) * 0.025;
+          g.facingAngle = Math.atan2(dx, dz);
+        } else {
+          g.vx = 0;
+          g.vz = 0;
+        }
+      }
+
+      // Gravity + apply
+      g.vy -= GRAVITY * dt;
+      g.px += g.vx;
+      g.py += g.vy * dt;
+      g.pz += g.vz;
+
+      // Collision (keep on platform)
+      for (const plat of g.platforms) {
+        if (g.vy > 0.1) continue;
+        const halfW = plat.w / 2;
+        const halfD = plat.d / 2;
+        const platTop = plat.y + plat.h / 2;
+        if (g.px > plat.x - halfW && g.px < plat.x + halfW &&
+            g.pz > plat.z - halfD && g.pz < plat.z + halfD &&
+            g.py >= platTop - 1.0 && g.py <= platTop + 0.6) {
+          g.py = platTop + 0.01;
+          g.vy = 0;
+          break;
+        }
+      }
+
+      // Camera zoom in during win animation
+      const winCamDist = Math.max(CAM_DISTANCE - g.winAnimTimer * 0.05, 4);
+      const camX = g.px - Math.sin(g.camTheta) * winCamDist;
+      const camZ = g.pz - Math.cos(g.camTheta) * winCamDist;
+      const camY = g.py + 3 + Math.sin(g.camPhi) * 1;
+      vec.set(camX, camY, camZ);
+      camera.position.lerp(vec, 0.08 * dt);
+      camera.lookAt(g.px, g.py + 1.2, g.pz);
+
+      if (g.winAnimTimer > WIN_ANIM_FRAMES) {
+        g.levelComplete = true;
+        onGoal();
+      }
+      return;
+    }
+
+    // ─── POWER-UP TIMERS ─────
+    if (g.rocketTimer > 0) g.rocketTimer -= dt;
+    if (g.magnetTimer > 0) g.magnetTimer -= dt;
 
     // ─── MOVEMENT (relative to camera) ─────
     const camAngle = g.camTheta;
@@ -647,20 +873,43 @@ function GameLoop({ gameRef, onDie, onGoal }: {
       g.jumpUsed = false;
     }
 
-    // Variable jump height - release early for shorter jump
+    // Variable jump height
     if (!g.jumpPressed && g.vy > 0.15) {
       g.vy *= 0.85;
     }
 
-    // Gravity
-    g.vy -= GRAVITY * dt;
+    // Gravity (reduced during rocket boost)
+    const gravMult = g.rocketTimer > 0 ? 0.4 : 1.0;
+    g.vy -= GRAVITY * dt * gravMult;
+
+    // ─── MAGNET EFFECT ─────
+    if (g.magnetTimer > 0 && !g.onGround && g.vy < 0) {
+      let nearestDist = Infinity;
+      let nearestPlat: Platform3D | null = null;
+      for (const plat of g.platforms) {
+        if (plat.type === "crumble" && plat.touched && (plat.crumbleTimer || 0) > 50) continue;
+        const platTop = plat.y + plat.h / 2;
+        if (platTop > g.py + 0.5) continue;
+        const dx = plat.x - g.px;
+        const dz = plat.z - g.pz;
+        const dist = Math.sqrt(dx * dx + dz * dz);
+        if (dist < nearestDist && dist < 6) {
+          nearestDist = dist;
+          nearestPlat = plat;
+        }
+      }
+      if (nearestPlat) {
+        g.vx += (nearestPlat.x - g.px) * MAGNET_PULL;
+        g.vz += (nearestPlat.z - g.pz) * MAGNET_PULL;
+      }
+    }
 
     // Apply velocity
     g.px += g.vx;
     g.py += g.vy * dt;
     g.pz += g.vz;
 
-    // ─── PLATFORM COLLISION (IMPROVED - more forgiving) ─────
+    // ─── PLATFORM COLLISION (FIXED - generous edge tolerance) ─────
     const wasOnGround = g.onGround;
     g.onGround = false;
 
@@ -670,20 +919,20 @@ function GameLoop({ gameRef, onDie, onGoal }: {
         if ((plat.crumbleTimer || 0) > 50) continue;
       }
 
-      // Only check landing when falling
-      if (g.vy > 0.05) continue;
+      // Only check landing when falling or nearly level
+      if (g.vy > 0.1) continue;
 
       const halfW = plat.w / 2;
       const halfD = plat.d / 2;
       const platTop = plat.y + plat.h / 2;
 
-      // Use PLAYER_RADIUS for edge tolerance (more forgiving)
-      const edgeTolerance = PLAYER_RADIUS * 0.5;
+      // FIXED: negative edge tolerance = expanded collision area (more forgiving edges)
+      const edgeTolerance = -PLAYER_RADIUS * 0.25;
       const withinX = g.px > plat.x - halfW + edgeTolerance && g.px < plat.x + halfW - edgeTolerance;
       const withinZ = g.pz > plat.z - halfD + edgeTolerance && g.pz < plat.z + halfD - edgeTolerance;
 
       // More generous vertical range for landing
-      const withinY = g.py >= platTop - 0.8 && g.py <= platTop + 0.5;
+      const withinY = g.py >= platTop - 1.0 && g.py <= platTop + 0.6;
 
       if (withinX && withinZ && withinY) {
         g.py = platTop + 0.01;
@@ -693,15 +942,16 @@ function GameLoop({ gameRef, onDie, onGoal }: {
 
         if (plat.type === "crumble") plat.touched = true;
 
-        // Snap to moving platform
+        // FIXED: Moving platform carries player
         if (plat.type === "moving") {
-          // Player stays on the moving platform
+          g.px += plat.deltaX || 0;
+          g.pz += plat.deltaZ || 0;
         }
         break;
       }
     }
 
-    // Coyote time: just left ground
+    // Coyote time
     if (wasOnGround && !g.onGround && g.vy <= 0) {
       g.coyoteTimer = COYOTE_FRAMES;
     } else if (g.onGround) {
@@ -710,22 +960,55 @@ function GameLoop({ gameRef, onDie, onGoal }: {
       if (g.coyoteTimer > 0) g.coyoteTimer -= dt;
     }
 
-    // ─── DEATH ────────
-    if (g.py < -10) {
-      g.dead = true;
-      onDie();
-      return;
+    // ─── POWER-UP COLLECTION ─────
+    for (const pu of g.powerUps) {
+      if (pu.collected) continue;
+      const dx = g.px - pu.x;
+      const dy = g.py - pu.y;
+      const dz = g.pz - pu.z;
+      const dist = Math.sqrt(dx * dx + dy * dy + dz * dz);
+      if (dist < 1.5) {
+        pu.collected = true;
+        onPowerUp(pu.type);
+        if (pu.type === "rocket") {
+          g.vy = ROCKET_FORCE;
+          g.rocketTimer = 60;
+          g.onGround = false;
+        } else if (pu.type === "shield") {
+          g.hasShield = true;
+        } else if (pu.type === "magnet") {
+          g.magnetTimer = MAGNET_DURATION;
+        }
+      }
     }
 
-    // ─── GOAL CHECK ──────────────────
+    // ─── DEATH (with shield protection) ────────
+    if (g.py < -10) {
+      if (g.hasShield) {
+        // Shield saves! Teleport back to last safe position
+        g.hasShield = false;
+        g.py = g.lastGroundY + 2;
+        g.vy = 0.15;
+        g.vx = 0;
+        g.vz = 0;
+        onShieldUsed();
+      } else {
+        g.dead = true;
+        onDie();
+        return;
+      }
+    }
+
+    // ─── GOAL CHECK (triggers win animation) ──────────────────
     const goal = g.platforms[g.goalIdx];
     if (goal) {
       const dx = g.px - goal.x;
       const dz = g.pz - goal.z;
       const dist = Math.sqrt(dx * dx + dz * dz);
       if (dist < 3 && g.py > goal.y - 0.5 && g.py < goal.y + 3) {
-        g.levelComplete = true;
-        onGoal();
+        g.winAnim = true;
+        g.winAnimTimer = 0;
+        onWinStart();
         return;
       }
     }
@@ -744,10 +1027,13 @@ function GameLoop({ gameRef, onDie, onGoal }: {
 }
 
 // ─── SCENE ──────────────────────────────────────────
-function Scene3D({ gameRef, onDie, onGoal }: {
+function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed }: {
   gameRef: React.RefObject<GameData>;
   onDie: () => void;
   onGoal: () => void;
+  onWinStart: () => void;
+  onPowerUp: (type: PowerUpType) => void;
+  onShieldUsed: () => void;
 }) {
   const g = gameRef.current;
   if (!g) return null;
@@ -767,9 +1053,13 @@ function Scene3D({ gameRef, onDie, onGoal }: {
         <PlatformMesh key={i} plat={plat} gameRef={gameRef} isGoal={i === g.goalIdx} />
       ))}
 
+      {g.powerUps.map((pu, i) => (
+        <PowerUpMesh key={`pu${i}`} powerUp={pu} gameRef={gameRef} />
+      ))}
+
       <Character gameRef={gameRef} />
 
-      <GameLoop gameRef={gameRef} onDie={onDie} onGoal={onGoal} />
+      <GameLoop gameRef={gameRef} onDie={onDie} onGoal={onGoal} onWinStart={onWinStart} onPowerUp={onPowerUp} onShieldUsed={onShieldUsed} />
     </>
   );
 }
@@ -883,6 +1173,9 @@ export default function SkyClimbPage() {
   const [rewardRarity, setRewardRarity] = useState<CardRarity>("bronze");
   const [showPwaHint, setShowPwaHint] = useState(false);
   const [isFullscreen, setIsFullscreen] = useState(false);
+  const [winAnimActive, setWinAnimActive] = useState(false);
+  const [notification, setNotification] = useState<string | null>(null);
+  const [shieldActive, setShieldActive] = useState(false);
   const gameRef = useRef<GameData>(createGameData());
 
   useEffect(() => {
@@ -1039,20 +1332,49 @@ export default function SkyClimbPage() {
       (screen.orientation as { lock?: (o: string) => Promise<void> })?.lock?.("portrait").catch(() => {});
     } catch {}
 
-    const { platforms, goalIdx } = generateLevel(lvl);
+    const { platforms, goalIdx, powerUps } = generateLevel(lvl);
     const g = gameRef.current;
     Object.assign(g, createGameData());
     g.platforms = platforms;
     g.goalIdx = goalIdx;
+    g.powerUps = powerUps;
     g.level = lvl;
     g.py = 1;
     setLevel(lvl);
+    setWinAnimActive(false);
+    setNotification(null);
+    setShieldActive(false);
     setGameState("playing");
   }, []);
 
-  const handleDie = useCallback(() => setGameState("dead"), []);
+  const handleDie = useCallback(() => {
+    setWinAnimActive(false);
+    setGameState("dead");
+  }, []);
+
+  const handleWinStart = useCallback(() => {
+    setWinAnimActive(true);
+  }, []);
+
+  const handlePowerUp = useCallback((type: PowerUpType) => {
+    if (type === "shield") setShieldActive(true);
+    const names: Record<PowerUpType, string> = {
+      rocket: "RAKETA!",
+      shield: "PAJZS!",
+      magnet: "MAGNES!",
+    };
+    setNotification(names[type]);
+    setTimeout(() => setNotification(null), 2000);
+  }, []);
+
+  const handleShieldUsed = useCallback(() => {
+    setShieldActive(false);
+    setNotification("PAJZS HASZNALVA!");
+    setTimeout(() => setNotification(null), 2000);
+  }, []);
 
   const handleGoal = useCallback(() => {
+    setWinAnimActive(false);
     const g = gameRef.current;
     const rarity = getLevelRarity(g.level);
     setRewardRarity(rarity);
@@ -1185,16 +1507,78 @@ export default function SkyClimbPage() {
         <div className="fixed inset-0 touch-none" style={{ height: "100dvh", width: "100vw" }}>
           <Canvas camera={{ fov: 60 }} gl={{ antialias: true }}
             style={{ background: "linear-gradient(180deg, #4a8fca 0%, #87CEEB 40%, #b8d0e0 100%)", height: "100%", width: "100%" }}>
-            <Scene3D gameRef={gameRef} onDie={handleDie} onGoal={handleGoal} />
+            <Scene3D gameRef={gameRef} onDie={handleDie} onGoal={handleGoal} onWinStart={handleWinStart} onPowerUp={handlePowerUp} onShieldUsed={handleShieldUsed} />
           </Canvas>
 
           {/* HUD */}
-          <div className="fixed top-2 left-0 right-0 z-10 flex justify-center pointer-events-none" style={{ paddingTop: "env(safe-area-inset-top, 8px)" }}>
+          <div className="fixed top-2 left-0 right-0 z-10 flex items-start justify-between px-3 pointer-events-none" style={{ paddingTop: "env(safe-area-inset-top, 8px)" }}>
+            {/* Home button */}
+            <Link href="/">
+              <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2.5 pointer-events-auto cursor-pointer hover:bg-black/60 transition-colors">
+                <X size={16} className="text-white/60" />
+              </div>
+            </Link>
+
+            {/* Level display */}
             <div className="bg-black/40 backdrop-blur-sm rounded-xl px-4 py-2 flex items-center gap-3">
               <Mountain size={14} className="text-neon-green" />
               <span className="text-white/80 font-mono text-sm font-bold">LVL {level}</span>
             </div>
+
+            {/* Power-up indicators */}
+            <div className="flex items-center gap-1.5">
+              {shieldActive && (
+                <div className="bg-blue-500/30 backdrop-blur-sm rounded-xl p-2 border border-blue-400/40">
+                  <Shield size={14} className="text-blue-400" />
+                </div>
+              )}
+            </div>
           </div>
+
+          {/* Power-up notification */}
+          <AnimatePresence>
+            {notification && (
+              <motion.div
+                className="fixed top-16 left-0 right-0 z-20 flex justify-center pointer-events-none"
+                initial={{ opacity: 0, y: -20, scale: 0.8 }}
+                animate={{ opacity: 1, y: 0, scale: 1 }}
+                exit={{ opacity: 0, y: -10, scale: 0.9 }}
+              >
+                <div className="bg-black/60 backdrop-blur-md rounded-xl px-5 py-2.5 border border-white/20">
+                  <span className="text-white font-black text-sm tracking-wider">{notification}</span>
+                </div>
+              </motion.div>
+            )}
+          </AnimatePresence>
+
+          {/* Win animation celebration overlay */}
+          {winAnimActive && (
+            <motion.div
+              className="fixed inset-0 z-15 pointer-events-none"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+            >
+              <div className="absolute inset-0" style={{ background: "radial-gradient(circle, transparent 30%, rgba(255,215,0,0.15) 100%)" }} />
+              {Array.from({ length: 12 }).map((_, i) => (
+                <motion.div
+                  key={i}
+                  className="absolute w-2 h-2 rounded-full"
+                  style={{
+                    left: `${15 + Math.random() * 70}%`,
+                    top: `${15 + Math.random() * 70}%`,
+                    backgroundColor: i % 3 === 0 ? "#FFD700" : i % 3 === 1 ? "#FFA500" : "#FFFFFF",
+                  }}
+                  initial={{ opacity: 0, scale: 0 }}
+                  animate={{
+                    opacity: [0, 1, 0],
+                    scale: [0, 1.5, 0],
+                    y: [0, -60 - Math.random() * 40],
+                  }}
+                  transition={{ duration: 1.2, delay: i * 0.08, repeat: Infinity }}
+                />
+              ))}
+            </motion.div>
+          )}
 
           {/* Mobile controls */}
           <div className="fixed inset-0 z-10 pointer-events-none sm:hidden" style={{ paddingBottom: "env(safe-area-inset-bottom, 0px)" }}>
