@@ -45,7 +45,7 @@ export default function AuthModal({ onClose, onSuccess, mode: initialMode = "reg
         }
       }
     } catch (err: unknown) {
-      const msg = err instanceof Error ? err.message : "Hiba tortent";
+      const msg = err instanceof Error ? err.message : "Something went wrong";
       setError(msg);
     } finally {
       setLoading(false);
@@ -58,7 +58,7 @@ export default function AuthModal({ onClose, onSuccess, mode: initialMode = "reg
     try {
       await signInWithGoogle();
     } catch (err: unknown) {
-      const msg = err instanceof Error ? err.message : "Hiba tortent";
+      const msg = err instanceof Error ? err.message : "Something went wrong";
       setError(msg);
       setLoading(false);
     }
@@ -84,12 +84,12 @@ export default function AuthModal({ onClose, onSuccess, mode: initialMode = "reg
           <div className="flex flex-col items-center gap-2">
             <span className="text-2xl">{mode === "register" ? "🔒" : "👋"}</span>
             <h2 className="text-white font-bold text-lg">
-              {mode === "register" ? "Ne veszitsd el az adataid!" : "Bejelentkezes"}
+              {mode === "register" ? "Don't lose your progress!" : "Sign In"}
             </h2>
             {mode === "register" && (
               <div className="flex items-center gap-2 bg-[#E040FB]/10 border border-[#E040FB]/30 px-3 py-1.5 rounded-lg">
                 <Star size={14} className="text-[#E040FB]" />
-                <span className="text-[#E040FB] text-xs font-bold">+3 kulonleges kartya</span>
+                <span className="text-[#E040FB] text-xs font-bold">+3 special cards</span>
               </div>
             )}
           </div>
@@ -118,7 +118,7 @@ export default function AuthModal({ onClose, onSuccess, mode: initialMode = "reg
               <Lock size={16} className="absolute left-3 top-1/2 -translate-y-1/2 text-white/30" />
               <input
                 type="password"
-                placeholder="Jelszo"
+                placeholder="Password"
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
                 required
@@ -134,14 +134,14 @@ export default function AuthModal({ onClose, onSuccess, mode: initialMode = "reg
               whileTap={{ scale: 0.98 }}
             >
               <Mail size={16} />
-              {loading ? "..." : mode === "register" ? "Regisztracio" : "Bejelentkezes"}
+              {loading ? "..." : mode === "register" ? "Register" : "Sign In"}
             </motion.button>
           </form>
 
           {/* Divider */}
           <div className="flex items-center gap-3">
             <div className="h-px flex-1 bg-white/10" />
-            <span className="text-white/20 text-xs">VAGY</span>
+            <span className="text-white/20 text-xs">OR</span>
             <div className="h-px flex-1 bg-white/10" />
           </div>
 
@@ -162,7 +162,7 @@ export default function AuthModal({ onClose, onSuccess, mode: initialMode = "reg
             onClick={() => setMode(mode === "register" ? "login" : "register")}
             className="text-white/30 text-xs hover:text-white/50 transition-colors"
           >
-            {mode === "register" ? "Mar van fiokod? Jelentkezz be" : "Nincs fiokod? Regisztralj"}
+            {mode === "register" ? "Already have an account? Sign in" : "Don't have an account? Register"}
           </button>
         </motion.div>
       </motion.div>

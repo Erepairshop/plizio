@@ -66,7 +66,7 @@ export default function ProfilePage() {
             <ArrowLeft size={18} className="text-white/60" />
           </motion.div>
         </Link>
-        <span className="text-white/40 text-xs font-bold tracking-widest">PROFIL</span>
+        <span className="text-white/40 text-xs font-bold tracking-widest">PROFILE</span>
         <div className="w-10" />
       </div>
 
@@ -80,13 +80,13 @@ export default function ProfilePage() {
           {getUsername() && (
             <span className="text-white font-bold text-lg">{getUsername()}</span>
           )}
-          <span className="text-white/30 text-sm">Nincs bejelentkezve</span>
+          <span className="text-white/30 text-sm">Not signed in</span>
           <motion.button
             onClick={() => setShowAuth(true)}
             className="bg-[#E040FB]/15 border border-[#E040FB]/40 text-[#E040FB] font-bold text-sm px-8 py-3 rounded-xl"
             whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}
           >
-            Bejelentkezes / Regisztracio
+            Sign In / Register
           </motion.button>
         </motion.div>
       ) : (
@@ -105,8 +105,8 @@ export default function ProfilePage() {
 
           {/* Stats grid */}
           <div className="grid grid-cols-2 gap-3 w-full">
-            <StatBox icon={<Trophy size={18} className="text-gold" />} label="Kartyak" value={cardCount.toString()} />
-            <StatBox icon={<Star size={18} className="text-[#E040FB]" />} label="Kulonleges" value={specialCards.toString()} />
+            <StatBox icon={<Trophy size={18} className="text-gold" />} label="Cards" value={cardCount.toString()} />
+            <StatBox icon={<Star size={18} className="text-[#E040FB]" />} label="Special" value={specialCards.toString()} />
             <StatBox icon={<Flame size={18} className="text-neon-pink" />} label="Streak" value={stats.highestStreak.toString()} />
             <StatBox icon={<Mountain size={18} className="text-neon-green" />} label="Sky Max" value={`LVL ${stats.skyHighestLevel}`} />
           </div>
@@ -114,7 +114,7 @@ export default function ProfilePage() {
           {/* Progress */}
           <div className="bg-card border border-white/5 rounded-2xl p-4 w-full">
             <div className="flex items-center justify-between mb-3">
-              <span className="text-white/40 text-xs font-bold tracking-wider">JATEKOK</span>
+              <span className="text-white/40 text-xs font-bold tracking-wider">GAMES</span>
               <span className="text-white/60 text-sm font-bold">{stats.totalGames}</span>
             </div>
             <div className="flex items-center justify-between mb-3">
@@ -122,7 +122,7 @@ export default function ProfilePage() {
               <span className="text-white/60 text-sm font-bold">{stats.perfectScores}</span>
             </div>
             <div className="flex items-center justify-between">
-              <span className="text-white/40 text-xs font-bold tracking-wider">MILESTONEOK</span>
+              <span className="text-white/40 text-xs font-bold tracking-wider">MILESTONES</span>
               <span className="text-white/60 text-sm font-bold">{claimedCount}/{MILESTONES.length}</span>
             </div>
           </div>
@@ -134,14 +134,14 @@ export default function ProfilePage() {
               className="flex-1 bg-neon-blue/10 border border-neon-blue/30 text-neon-blue font-bold text-sm py-3 rounded-xl flex items-center justify-center gap-2"
               whileHover={{ scale: 1.03 }} whileTap={{ scale: 0.97 }}
             >
-              <Shield size={16} /> Szinkron
+              <Shield size={16} /> Sync
             </motion.button>
             <motion.button
               onClick={handleLogout}
               className="flex-1 bg-neon-pink/10 border border-neon-pink/30 text-neon-pink font-bold text-sm py-3 rounded-xl flex items-center justify-center gap-2"
               whileHover={{ scale: 1.03 }} whileTap={{ scale: 0.97 }}
             >
-              <LogOut size={16} /> Kijelentkezes
+              <LogOut size={16} /> Sign Out
             </motion.button>
           </div>
         </motion.div>

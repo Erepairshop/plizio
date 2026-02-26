@@ -17,11 +17,11 @@ export default function UsernameModal({ onDone }: UsernameModalProps) {
     e.preventDefault();
     const trimmed = name.trim();
     if (trimmed.length < 2) {
-      setError("Min. 2 karakter");
+      setError("Min. 2 characters");
       return;
     }
     if (trimmed.length > 16) {
-      setError("Max. 16 karakter");
+      setError("Max. 16 characters");
       return;
     }
     setUsername(trimmed);
@@ -46,8 +46,8 @@ export default function UsernameModal({ onDone }: UsernameModalProps) {
         </motion.div>
 
         <div className="flex flex-col items-center gap-1">
-          <h2 className="text-white font-bold text-lg">Udvozlunk!</h2>
-          <p className="text-white/30 text-xs text-center">Add meg a jatekosneved</p>
+          <h2 className="text-white font-bold text-lg">Welcome!</h2>
+          <p className="text-white/30 text-xs text-center">Enter your player name</p>
         </div>
 
         <form onSubmit={handleSubmit} className="w-full flex flex-col gap-3">
@@ -55,7 +55,7 @@ export default function UsernameModal({ onDone }: UsernameModalProps) {
             type="text"
             value={name}
             onChange={(e) => { setName(e.target.value); setError(""); }}
-            placeholder="Jatekosnev..."
+            placeholder="Player name..."
             maxLength={16}
             autoFocus
             className="w-full bg-white/5 border border-white/10 rounded-xl px-4 py-3 text-white text-center text-lg font-bold placeholder:text-white/20 focus:outline-none focus:border-neon-blue/40"
@@ -72,7 +72,7 @@ export default function UsernameModal({ onDone }: UsernameModalProps) {
             whileHover={{ scale: 1.03 }}
             whileTap={{ scale: 0.97 }}
           >
-            Menjunk!
+            Let's go!
           </motion.button>
         </form>
       </motion.div>

@@ -64,7 +64,7 @@ export default function ShopPage() {
   };
 
   const handleBuyPowerUp = (pu: PowerUpDef) => {
-    if (balance < pu.price) { showNotif("Nincs eleg ⭐"); return; }
+    if (balance < pu.price) { showNotif("Not enough ⭐"); return; }
     spendSpecialCards(pu.price);
     const updated = { ...boughtPowerUps, [pu.id]: (boughtPowerUps[pu.id] || 0) + 1 };
     setBoughtPowerUps(updated);
@@ -77,27 +77,27 @@ export default function ShopPage() {
     if (ownedSkins.includes(skin.id)) {
       setActiveSkin(skin.id);
       setActiveSkinState(skin.id);
-      showNotif("Skin kivalasztva!");
+      showNotif("Skin selected!");
       return;
     }
-    if (balance < skin.price) { showNotif("Nincs eleg ⭐"); return; }
+    if (balance < skin.price) { showNotif("Not enough ⭐"); return; }
     spendSpecialCards(skin.price);
     buySkin(skin.id);
     setOwnedSkins(getOwnedSkins());
     setActiveSkin(skin.id);
     setActiveSkinState(skin.id);
     setBalance(getSpecialCardCount());
-    showNotif("Skin megvasarolva!");
+    showNotif("Skin purchased!");
   };
 
   const handleBuyAbility = (ab: AbilityDef) => {
-    if (balance < ab.price) { showNotif("Nincs eleg ⭐"); return; }
+    if (balance < ab.price) { showNotif("Not enough ⭐"); return; }
     spendSpecialCards(ab.price);
     const key = `plizio_ability_${ab.id}`;
     const current = parseInt(localStorage.getItem(key) || "0");
     localStorage.setItem(key, (current + 1).toString());
     setBalance(getSpecialCardCount());
-    showNotif("+1 kepesseg!");
+    showNotif("+1 ability!");
   };
 
   const TABS: { id: Tab; label: string; icon: string }[] = [
@@ -230,10 +230,10 @@ export default function ShopPage() {
                 {active ? (
                   <div className="flex items-center gap-1">
                     <Check size={12} className="text-[#E040FB]" />
-                    <span className="text-[#E040FB] text-xs font-bold">AKTIV</span>
+                    <span className="text-[#E040FB] text-xs font-bold">ACTIVE</span>
                   </div>
                 ) : owned ? (
-                  <span className="text-white/30 text-xs font-bold">KIVALASZT</span>
+                  <span className="text-white/30 text-xs font-bold">SELECT</span>
                 ) : (
                   <div className="flex items-center gap-1">
                     <Star size={10} className="text-[#E040FB]" />

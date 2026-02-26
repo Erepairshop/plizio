@@ -67,7 +67,7 @@ export default function MilestonePopup() {
             disabled={claimed}
           >
             <span className="text-[#E040FB] font-bold text-sm">
-              {claimed ? "Megszerezve!" : "Begyujtes"}
+              {claimed ? "Claimed!" : "Claim"}
             </span>
           </motion.button>
 

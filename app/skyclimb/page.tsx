@@ -1278,9 +1278,12 @@ export default function SkyClimbPage() {
   const [notification, setNotification] = useState<string | null>(null);
   const [shieldActive, setShieldActive] = useState(false);
   const [activeSkinId, setActiveSkinId] = useState("default");
+  const [isTouchDevice, setIsTouchDevice] = useState(false);
   const gameRef = useRef<GameData>(createGameData());
 
   useEffect(() => {
+    // Detect touch capability (works for landscape phones too)
+    setIsTouchDevice("ontouchstart" in window || navigator.maxTouchPoints > 0);
     const saved = localStorage.getItem("plizio_skyclimb_highest");
     if (saved) setHighestLevel(parseInt(saved));
     setActiveSkinId(getActiveSkin());
@@ -1685,8 +1688,8 @@ export default function SkyClimbPage() {
             </motion.div>
           )}
 
-          {/* Mobile controls */}
-          <div className="fixed inset-0 z-10 pointer-events-none sm:hidden" style={{ paddingBottom: "env(safe-area-inset-bottom, 0px)" }}>
+          {/* Mobile controls - shown on touch devices regardless of screen size */}
+          {isTouchDevice && <div className="fixed inset-0 z-10 pointer-events-none" style={{ paddingBottom: "env(safe-area-inset-bottom, 0px)" }}>
             <div className="pointer-events-auto">
               <VirtualJoystick gameRef={gameRef} />
             </div>
@@ -1697,12 +1700,12 @@ export default function SkyClimbPage() {
             >
               <ArrowUp size={28} className="text-white" />
             </button>
-          </div>
+          </div>}
 
           {/* Fullscreen button in-game (top-right, small) */}
-          {!isFullscreen && (
+          {!isFullscreen && isTouchDevice && (
             <button
-              className="fixed top-2 right-2 z-20 sm:hidden bg-black/30 backdrop-blur-sm rounded-lg p-2"
+              className="fixed top-2 right-2 z-20 bg-black/30 backdrop-blur-sm rounded-lg p-2"
               style={{ paddingTop: "env(safe-area-inset-top, 8px)" }}
               onClick={() => {
                 if (isIOS()) setShowPwaHint(true);
@@ -1713,14 +1716,16 @@ export default function SkyClimbPage() {
             </button>
           )}
 
-          {/* PC controls hint */}
-          <div className="fixed bottom-4 left-0 right-0 z-10 hidden sm:flex justify-center pointer-events-none">
-            <div className="bg-black/30 backdrop-blur-sm rounded-lg px-3 py-1.5 flex items-center gap-4 text-white/40 text-xs font-mono">
-              <span>WASD</span>
-              <span>SPACE jump</span>
-              <span>MOUSE camera</span>
+          {/* PC controls hint - only on non-touch devices */}
+          {!isTouchDevice && (
+            <div className="fixed bottom-4 left-0 right-0 z-10 flex justify-center pointer-events-none">
+              <div className="bg-black/30 backdrop-blur-sm rounded-lg px-3 py-1.5 flex items-center gap-4 text-white/40 text-xs font-mono">
+                <span>WASD</span>
+                <span>SPACE jump</span>
+                <span>MOUSE camera</span>
+              </div>
             </div>
-          </div>
+          )}
         </div>
       )}
 
