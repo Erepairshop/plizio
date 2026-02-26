@@ -6,6 +6,8 @@ import { Brain, Trophy, CheckCircle, XCircle, Eye } from "lucide-react";
 import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
+import { incrementTotalGames, incrementPerfectScores } from "@/lib/milestones";
+import MilestonePopup from "@/components/MilestonePopup";
 import generalData from "@/data/memoryflash/general.json";
 
 interface Answer {
@@ -102,6 +104,8 @@ export default function MemoryFlashPage() {
           total: ms,
           date: new Date().toISOString(),
         });
+        incrementTotalGames();
+        if (finalScore === ms) incrementPerfectScores();
         setGameState("reward");
       } else {
         setRound((r) => r + 1);
@@ -202,28 +206,47 @@ export default function MemoryFlashPage() {
       {/* Scene display */}
       {gameState === "showing" && currentQ && (
         <motion.div
-          className="bg-card rounded-3xl p-8 sm:p-12 flex flex-col items-center gap-5 max-w-sm border border-white/5"
-          style={{ boxShadow: "0 0 30px rgba(180,77,255,0.1)" }}
+          className="bg-card rounded-3xl p-8 sm:p-12 flex flex-col items-center gap-6 max-w-sm border border-neon-purple/10"
+          style={{ boxShadow: "0 0 40px rgba(180,77,255,0.15)" }}
           initial={{ opacity: 0, scale: 0.8 }}
           animate={{ opacity: 1, scale: 1 }}
           exit={{ opacity: 0, filter: "blur(20px)" }}
         >
-          {/* Eye icon - memorize indicator */}
-          <motion.div
-            animate={{ opacity: [0.5, 1, 0.5] }}
-            transition={{ repeat: Infinity, duration: 1.5 }}
-          >
-            <Eye size={24} className="text-neon-purple" style={{ filter: "drop-shadow(0 0 8px rgba(180,77,255,0.5))" }} />
-          </motion.div>
+          {/* Circular timer */}
+          <div className="relative w-16 h-16 flex items-center justify-center">
+            <svg className="absolute inset-0 -rotate-90" viewBox="0 0 64 64">
+              <circle cx="32" cy="32" r="28" fill="none" stroke="rgba(180,77,255,0.15)" strokeWidth="4" />
+              <motion.circle
+                cx="32" cy="32" r="28" fill="none" stroke="url(#timerGrad)" strokeWidth="4"
+                strokeLinecap="round"
+                strokeDasharray={2 * Math.PI * 28}
+                initial={{ strokeDashoffset: 0 }}
+                animate={{ strokeDashoffset: 2 * Math.PI * 28 }}
+                transition={{ duration: currentQ.showTime / 1000, ease: "linear" }}
+              />
+              <defs>
+                <linearGradient id="timerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+                  <stop offset="0%" stopColor="#B44DFF" />
+                  <stop offset="100%" stopColor="#FF2D78" />
+                </linearGradient>
+              </defs>
+            </svg>
+            <motion.div
+              animate={{ opacity: [0.5, 1, 0.5] }}
+              transition={{ repeat: Infinity, duration: 1.5 }}
+            >
+              <Eye size={22} className="text-neon-purple" style={{ filter: "drop-shadow(0 0 8px rgba(180,77,255,0.5))" }} />
+            </motion.div>
+          </div>
 
-          <div className="flex flex-wrap items-center justify-center gap-3">
+          <div className="flex flex-wrap items-center justify-center gap-4">
             {currentQ.scene.map((emoji, i) => (
               <motion.span
                 key={i}
-                className="text-4xl sm:text-5xl"
-                initial={{ opacity: 0, y: 10 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: i * 0.08 }}
+                className="text-5xl sm:text-6xl"
+                initial={{ opacity: 0, scale: 0.5, y: 15 }}
+                animate={{ opacity: 1, scale: 1, y: 0 }}
+                transition={{ delay: i * 0.1, type: "spring", stiffness: 200 }}
               >
                 {emoji}
               </motion.span>
@@ -239,6 +262,8 @@ export default function MemoryFlashPage() {
               transition={{ duration: currentQ.showTime / 1000, ease: "linear" }}
             />
           </div>
+
+          <span className="text-white/20 text-xs font-bold tracking-widest">MEMORIZE</span>
         </motion.div>
       )}
 
@@ -249,8 +274,10 @@ export default function MemoryFlashPage() {
           initial={{ opacity: 0, x: 50 }}
           animate={{ opacity: 1, x: 0 }}
         >
+          <span className="text-white/20 text-xs font-bold tracking-widest">ROUND {round + 1}/{TOTAL_ROUNDS}</span>
           <motion.div
-            className="text-4xl bg-card rounded-2xl p-6 w-full text-center border border-white/5"
+            className="text-4xl sm:text-5xl bg-card rounded-2xl p-6 w-full text-center border border-neon-purple/10"
+            style={{ boxShadow: "0 0 20px rgba(180,77,255,0.08)" }}
             animate={{ scale: [1, 1.01, 1] }}
             transition={{ repeat: Infinity, duration: 2 }}
           >
@@ -327,14 +354,17 @@ export default function MemoryFlashPage() {
 
       {/* Result - shows AFTER reward */}
       {gameState === "result" && (
-        <ResultCard
-          score={score}
-          total={maxScore}
-          time={totalTime}
-          gameName="Memory Flash"
-          gameIcon={<Brain size={24} className="text-neon-purple" />}
-          onPlayAgain={handlePlayAgain}
-        />
+        <>
+          <ResultCard
+            score={score}
+            total={maxScore}
+            time={totalTime}
+            gameName="Memory Flash"
+            gameIcon={<Brain size={24} className="text-neon-purple" />}
+            onPlayAgain={handlePlayAgain}
+          />
+          <MilestonePopup />
+        </>
       )}
     </main>
   );

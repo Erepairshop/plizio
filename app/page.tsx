@@ -7,7 +7,7 @@ import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Calendar, Layers, Star,
 import Logo from "@/components/Logo";
 import GameCard from "@/components/GameCard";
 import { getCards } from "@/lib/cards";
-import { getSpecialCardCount } from "@/lib/specialCards";
+import { getSpecialCardCount, markAsReferred, isReferred, claimReferralReward } from "@/lib/specialCards";
 
 interface GameDef {
   id: string;
@@ -99,6 +99,14 @@ export default function Home() {
     setCardCount(getCards().length);
     setSpecialCount(getSpecialCardCount());
     setDailyPlayed(hasPlayedDailyToday());
+
+    // Handle referral link ?ref=1
+    const params = new URLSearchParams(window.location.search);
+    if (params.get("ref") && !isReferred()) {
+      markAsReferred();
+      claimReferralReward();
+      setSpecialCount(getSpecialCardCount());
+    }
   }, []);
 
   return (

@@ -6,6 +6,8 @@ import { Crosshair, Trophy, CheckCircle, XCircle, ArrowUp, Flame, Globe, Music, 
 import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
+import { incrementTotalGames, incrementPerfectScores, updateStats } from "@/lib/milestones";
+import MilestonePopup from "@/components/MilestonePopup";
 import generalData from "@/data/quickpick/general.json";
 import kpopData from "@/data/quickpick/kpop.json";
 import footballData from "@/data/quickpick/football.json";
@@ -187,6 +189,10 @@ export default function QuickPickPage() {
           total: TOTAL_ROUNDS,
           date: new Date().toISOString(),
         });
+        const finalScore = score + (correct ? 1 : 0);
+        incrementTotalGames();
+        if (finalScore === TOTAL_ROUNDS) incrementPerfectScores();
+        updateStats({ highestStreak: newStreak });
         setGameState("reward");
       } else {
         setRound((r) => r + 1);
@@ -526,14 +532,17 @@ export default function QuickPickPage() {
 
       {/* Result - shows AFTER reward */}
       {gameState === "result" && (
-        <ResultCard
-          score={score}
-          total={TOTAL_ROUNDS}
-          time={totalTime}
-          gameName="Quick Pick"
-          gameIcon={<Crosshair size={24} className="text-neon-pink" />}
-          onPlayAgain={handlePlayAgain}
-        />
+        <>
+          <ResultCard
+            score={score}
+            total={TOTAL_ROUNDS}
+            time={totalTime}
+            gameName="Quick Pick"
+            gameIcon={<Crosshair size={24} className="text-neon-pink" />}
+            onPlayAgain={handlePlayAgain}
+          />
+          <MilestonePopup />
+        </>
       )}
     </main>
   );

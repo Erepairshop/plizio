@@ -8,6 +8,9 @@ import { Mountain, Trophy, ArrowUp, RotateCcw, Home, Maximize, Share, Rocket, Sh
 import Link from "next/link";
 import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, type CardRarity } from "@/lib/cards";
+import { getSkinDef, getActiveSkin } from "@/lib/skins";
+import { incrementTotalGames, updateStats } from "@/lib/milestones";
+import MilestonePopup from "@/components/MilestonePopup";
 
 // ─── TYPES ──────────────────────────────────────
 interface Platform3D {
@@ -360,7 +363,7 @@ function createGameData(): GameData {
 }
 
 // ─── CHARACTER (BOX-MAN) ────────────────────────────
-function Character({ gameRef }: { gameRef: React.RefObject<GameData> }) {
+function Character({ gameRef, skinId }: { gameRef: React.RefObject<GameData>; skinId: string }) {
   const groupRef = useRef<THREE.Group>(null);
   const bodyGroupRef = useRef<THREE.Group>(null);
   const leftLegRef = useRef<THREE.Group>(null);
@@ -368,19 +371,28 @@ function Character({ gameRef }: { gameRef: React.RefObject<GameData> }) {
   const leftArmRef = useRef<THREE.Group>(null);
   const rightArmRef = useRef<THREE.Group>(null);
 
+  const skin = useMemo(() => getSkinDef(skinId), [skinId]);
+
   const bodyMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: "#ffffff", emissive: "#00D4FF", emissiveIntensity: 0.3,
-  }), []);
+    color: skin.bodyColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity,
+    transparent: skin.id === "ghost", opacity: skin.id === "ghost" ? 0.6 : 1,
+  }), [skin]);
   const headMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: "#ffffff", emissive: "#00D4FF", emissiveIntensity: 0.4,
-  }), []);
+    color: skin.headColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity + 0.1,
+    transparent: skin.id === "ghost", opacity: skin.id === "ghost" ? 0.5 : 1,
+  }), [skin]);
   const limbMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: "#cccccc", emissive: "#0088AA", emissiveIntensity: 0.2,
-  }), []);
-  const eyeMat = useMemo(() => new THREE.MeshStandardMaterial({ color: "#0A0A1A" }), []);
+    color: skin.limbColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity * 0.6,
+    transparent: skin.id === "ghost", opacity: skin.id === "ghost" ? 0.4 : 1,
+  }), [skin]);
+  const eyeMat = useMemo(() => new THREE.MeshStandardMaterial({
+    color: skin.id === "robot" ? "#00FF00" : "#0A0A1A",
+    emissive: skin.id === "robot" ? "#00FF00" : "#000000",
+    emissiveIntensity: skin.id === "robot" ? 0.8 : 0,
+  }), [skin]);
   const shoeMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: "#222222", emissive: "#00D4FF", emissiveIntensity: 0.15,
-  }), []);
+    color: skin.shoeColor, emissive: skin.emissive, emissiveIntensity: 0.15,
+  }), [skin]);
 
   useFrame((_, delta) => {
     if (!groupRef.current || !gameRef.current) return;
@@ -477,6 +489,34 @@ function Character({ gameRef }: { gameRef: React.RefObject<GameData> }) {
             <boxGeometry args={[0.15, 0.08, 0.2]} />
           </mesh>
         </group>
+        {/* Skin particle glow aura */}
+        {skin.particle && (
+          <pointLight
+            position={[0, 0.5, 0]}
+            color={skin.particle}
+            intensity={skin.emissiveIntensity * 2}
+            distance={3}
+          />
+        )}
+        {/* Crown for legendary skin */}
+        {skin.id === "legendary" && (
+          <group position={[0, 1.05, 0]}>
+            <mesh>
+              <cylinderGeometry args={[0.18, 0.22, 0.1, 5]} />
+              <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={0.8} />
+            </mesh>
+            {[0, 1, 2, 3, 4].map((i) => (
+              <mesh key={i} position={[
+                Math.sin((i / 5) * Math.PI * 2) * 0.17,
+                0.1,
+                Math.cos((i / 5) * Math.PI * 2) * 0.17
+              ]}>
+                <boxGeometry args={[0.04, 0.08, 0.04]} />
+                <meshStandardMaterial color="#FFD700" emissive="#FF1493" emissiveIntensity={0.6} />
+              </mesh>
+            ))}
+          </group>
+        )}
       </group>
     </group>
   );
@@ -1087,13 +1127,14 @@ function GameLoop({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed 
 }
 
 // ─── SCENE ──────────────────────────────────────────
-function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed }: {
+function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, skinId }: {
   gameRef: React.RefObject<GameData>;
   onDie: () => void;
   onGoal: () => void;
   onWinStart: () => void;
   onPowerUp: (type: PowerUpType) => void;
   onShieldUsed: () => void;
+  skinId: string;
 }) {
   const g = gameRef.current;
   if (!g) return null;
@@ -1117,7 +1158,7 @@ function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed }
         <PowerUpMesh key={`pu${i}`} powerUp={pu} gameRef={gameRef} />
       ))}
 
-      <Character gameRef={gameRef} />
+      <Character gameRef={gameRef} skinId={skinId} />
 
       <GameLoop gameRef={gameRef} onDie={onDie} onGoal={onGoal} onWinStart={onWinStart} onPowerUp={onPowerUp} onShieldUsed={onShieldUsed} />
     </>
@@ -1236,11 +1277,13 @@ export default function SkyClimbPage() {
   const [winAnimActive, setWinAnimActive] = useState(false);
   const [notification, setNotification] = useState<string | null>(null);
   const [shieldActive, setShieldActive] = useState(false);
+  const [activeSkinId, setActiveSkinId] = useState("default");
   const gameRef = useRef<GameData>(createGameData());
 
   useEffect(() => {
     const saved = localStorage.getItem("plizio_skyclimb_highest");
     if (saved) setHighestLevel(parseInt(saved));
+    setActiveSkinId(getActiveSkin());
 
     // Check if already in standalone/fullscreen
     setIsFullscreen(isStandalone());
@@ -1450,6 +1493,8 @@ export default function SkyClimbPage() {
     const newHighest = Math.max(g.level, parseInt(localStorage.getItem("plizio_skyclimb_highest") || "1"));
     localStorage.setItem("plizio_skyclimb_highest", newHighest.toString());
     setHighestLevel(newHighest);
+    incrementTotalGames();
+    updateStats({ skyHighestLevel: newHighest });
     setGameState("reward");
   }, []);
 
@@ -1567,7 +1612,7 @@ export default function SkyClimbPage() {
         <div className="fixed inset-0 touch-none" style={{ height: "100dvh", width: "100vw" }}>
           <Canvas camera={{ fov: 60 }} gl={{ antialias: true }}
             style={{ background: "linear-gradient(180deg, #4a8fca 0%, #87CEEB 40%, #b8d0e0 100%)", height: "100%", width: "100%" }}>
-            <Scene3D gameRef={gameRef} onDie={handleDie} onGoal={handleGoal} onWinStart={handleWinStart} onPowerUp={handlePowerUp} onShieldUsed={handleShieldUsed} />
+            <Scene3D gameRef={gameRef} onDie={handleDie} onGoal={handleGoal} onWinStart={handleWinStart} onPowerUp={handlePowerUp} onShieldUsed={handleShieldUsed} skinId={activeSkinId} />
           </Canvas>
 
           {/* HUD */}
@@ -1742,6 +1787,7 @@ export default function SkyClimbPage() {
                 </motion.div>
               </Link>
             </motion.div>
+            <MilestonePopup />
           </motion.div>
         )}
       </AnimatePresence>
