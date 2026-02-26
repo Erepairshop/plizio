@@ -313,6 +313,7 @@ interface GameData {
   jumpUsed: boolean;
   camTheta: number;
   camPhi: number;
+  camDist: number;
   walkCycle: number;
   isRunning: boolean;
   coyoteTimer: number;
@@ -348,6 +349,7 @@ function createGameData(): GameData {
     jumpUsed: false,
     camTheta: 0,
     camPhi: 0.3,
+    camDist: CAM_DISTANCE,
     walkCycle: 0,
     isRunning: false,
     coyoteTimer: 0,
@@ -1038,7 +1040,7 @@ function GameLoop({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed 
       }
 
       // Camera zoom in during win animation
-      const winCamDist = Math.max(CAM_DISTANCE - g.winAnimTimer * 0.05, 4);
+      const winCamDist = Math.max(g.camDist - g.winAnimTimer * 0.05, 4);
       const camX = g.px - Math.sin(g.camTheta) * winCamDist;
       const camZ = g.pz - Math.cos(g.camTheta) * winCamDist;
       const camY = g.py + 3 + Math.sin(g.camPhi) * 1;
@@ -1270,8 +1272,8 @@ function GameLoop({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed 
     }
 
     // ─── CAMERA ──────────────────────
-    const camX = g.px - Math.sin(g.camTheta) * CAM_DISTANCE;
-    const camZ = g.pz - Math.cos(g.camTheta) * CAM_DISTANCE;
+    const camX = g.px - Math.sin(g.camTheta) * g.camDist;
+    const camZ = g.pz - Math.cos(g.camTheta) * g.camDist;
     const camY = g.py + CAM_HEIGHT + Math.sin(g.camPhi) * 2;
 
     vec.set(camX, camY, camZ);
@@ -1575,10 +1577,28 @@ export default function SkyClimbPage() {
 
     const handleMouseUp = () => { isMouseDown = false; };
 
+    const handleWheel = (e: WheelEvent) => {
+      e.preventDefault();
+      g.camDist = Math.max(4, Math.min(18, g.camDist + e.deltaY * 0.01));
+    };
+
     let camTouchId: number | null = null;
     let camLastX = 0;
+    // Pinch-to-zoom state
+    let pinchActive = false;
+    let pinchLastDist = 0;
 
     const handleTouchStart = (e: TouchEvent) => {
+      // Pinch-to-zoom: 2 fingers detected
+      if (e.touches.length === 2) {
+        pinchActive = true;
+        const dx = e.touches[0].clientX - e.touches[1].clientX;
+        const dy = e.touches[0].clientY - e.touches[1].clientY;
+        pinchLastDist = Math.sqrt(dx * dx + dy * dy);
+        camTouchId = null; // Cancel camera rotation during pinch
+        return;
+      }
+
       for (let i = 0; i < e.changedTouches.length; i++) {
         const t = e.changedTouches[i];
         const rightSide = t.clientX > window.innerWidth * 0.5;
@@ -1591,6 +1611,18 @@ export default function SkyClimbPage() {
     };
 
     const handleTouchMove = (e: TouchEvent) => {
+      // Pinch-to-zoom handling
+      if (e.touches.length === 2 && pinchActive) {
+        const dx = e.touches[0].clientX - e.touches[1].clientX;
+        const dy = e.touches[0].clientY - e.touches[1].clientY;
+        const dist = Math.sqrt(dx * dx + dy * dy);
+        const delta = pinchLastDist - dist;
+        pinchLastDist = dist;
+        // Zoom: pinch in = zoom out (increase distance), pinch out = zoom in
+        g.camDist = Math.max(4, Math.min(18, g.camDist + delta * 0.03));
+        return;
+      }
+
       for (let i = 0; i < e.touches.length; i++) {
         const t = e.touches[i];
         if (t.identifier === camTouchId) {
@@ -1602,6 +1634,10 @@ export default function SkyClimbPage() {
     };
 
     const handleTouchEnd = (e: TouchEvent) => {
+      // Reset pinch when finger lifted
+      if (e.touches.length < 2) {
+        pinchActive = false;
+      }
       for (let i = 0; i < e.changedTouches.length; i++) {
         if (e.changedTouches[i].identifier === camTouchId) {
           camTouchId = null;
@@ -1614,6 +1650,7 @@ export default function SkyClimbPage() {
     window.addEventListener("mousedown", handleMouseDown);
     window.addEventListener("mousemove", handleMouseMove);
     window.addEventListener("mouseup", handleMouseUp);
+    window.addEventListener("wheel", handleWheel, { passive: false });
     window.addEventListener("touchstart", handleTouchStart, { passive: true });
     window.addEventListener("touchmove", handleTouchMove, { passive: true });
     window.addEventListener("touchend", handleTouchEnd, { passive: true });
@@ -1624,6 +1661,7 @@ export default function SkyClimbPage() {
       window.removeEventListener("mousedown", handleMouseDown);
       window.removeEventListener("mousemove", handleMouseMove);
       window.removeEventListener("mouseup", handleMouseUp);
+      window.removeEventListener("wheel", handleWheel);
       window.removeEventListener("touchstart", handleTouchStart);
       window.removeEventListener("touchmove", handleTouchMove);
       window.removeEventListener("touchend", handleTouchEnd);
