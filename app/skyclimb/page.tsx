@@ -5,6 +5,7 @@ import { Canvas, useFrame, useThree } from "@react-three/fiber";
 import * as THREE from "three";
 import { motion, AnimatePresence } from "framer-motion";
 import { Mountain, Trophy, ArrowUp, RotateCcw, Home } from "lucide-react";
+import Link from "next/link";
 import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, type CardRarity } from "@/lib/cards";
 
@@ -85,9 +86,9 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
       // Ground path — wide walkable terrain
       const depth = 6 + Math.random() * 8;
       const w = 5 + Math.random() * 4;
-      cz += depth / 2 + 1.5;
+      cz += depth / 2 + 0.5;
       cx += lat;
-      cy += 0.1 + Math.random() * 0.3;
+      cy += 0.3 + Math.random() * 0.5;
       const p: Platform3D = {
         x: cx, y: cy - 0.5, z: cz,
         w, d: depth, h: 1 + Math.random() * 0.5,
@@ -98,12 +99,12 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
       platforms.push(p);
       cz += depth / 2;
     } else if (roll < 0.50) {
-      // Gap jump
-      const gap = 1.2 + difficulty * 0.08;
+      // Gap jump — small gap, clear height rise
+      const gap = 1.0 + difficulty * 0.06;
       const d = 4 + Math.random() * 3;
       cz += gap + d / 2;
-      cy += 0.1 + Math.random() * 0.3;
-      cx += lat * 0.4;
+      cy += 0.4 + Math.random() * 0.4;
+      cx += lat * 0.3;
       const p: Platform3D = {
         x: cx, y: cy - 0.4, z: cz,
         w: 4 + Math.random() * 3, d, h: 0.8 + Math.random() * 0.5,
@@ -113,33 +114,33 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
       platforms.push(p);
       cz += d / 2;
     } else if (roll < 0.68) {
-      // Staircase — rock steps going up
-      const steps = 3 + Math.floor(Math.random() * 3);
+      // Staircase — gentle rock steps going up
+      const steps = 3 + Math.floor(Math.random() * 2);
       for (let i = 0; i < steps; i++) {
-        cz += 3.0;
-        cy += 0.6 + Math.random() * 0.4;
-        cx += (Math.random() - 0.5) * 1.0;
+        cz += 2.2;
+        cy += 0.4 + Math.random() * 0.2;
+        cx += (Math.random() - 0.5) * 0.8;
         platforms.push({
           x: cx, y: cy - 0.25, z: cz,
-          w: 2.5 + Math.random() * 1.5, d: 2.5 + Math.random(),
+          w: 3.0 + Math.random() * 1.5, d: 3.0 + Math.random(),
           h: 0.5 + Math.random() * 0.3,
           type: "step",
         });
       }
     } else if (roll < 0.80) {
-      // Narrow bridge
+      // Narrow bridge — same height
       const bLen = 5 + Math.random() * 5;
-      cz += bLen / 2 + 1.5;
+      cz += bLen / 2 + 0.5;
       cx += lat * 0.3;
       platforms.push({
         x: cx, y: cy - 0.1, z: cz,
-        w: 1.5 + Math.random() * 0.5, d: bLen, h: 0.25,
+        w: 2.0 + Math.random() * 0.5, d: bLen, h: 0.3,
         type: "bridge",
       });
       cz += bLen / 2;
     } else if (difficulty >= 3 && roll < 0.90) {
       // Moving platform
-      cz += 3.5;
+      cz += 3.0;
       cy += 0.3;
       platforms.push({
         x: cx, y: cy, z: cz, w: 3.5, d: 3.5, h: 0.4,
@@ -149,16 +150,16 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
         moveRange: 1.5 + Math.random() * 2,
         moveSpeed: 0.4 + difficulty * 0.1,
       });
-      cz += 4;
+      cz += 3.5;
     } else if (difficulty >= 4) {
       // Crumble platforms
       const count = 2 + Math.floor(Math.random() * 2);
       for (let i = 0; i < count; i++) {
-        cz += 2.5;
+        cz += 2.2;
         cy += 0.2;
-        cx += (Math.random() - 0.5) * 1.5;
+        cx += (Math.random() - 0.5) * 1.0;
         platforms.push({
-          x: cx, y: cy, z: cz, w: 3, d: 3, h: 0.3,
+          x: cx, y: cy, z: cz, w: 3.2, d: 3.2, h: 0.3,
           type: "crumble",
           crumbleTimer: 0, touched: false,
         });
@@ -410,8 +411,11 @@ function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: Re
     return null;
   }, [plat.type]);
 
+  const groupRef = useRef<THREE.Group>(null);
+
   useFrame(() => {
-    if (!meshRef.current || !gameRef.current) return;
+    const ref = plat.type === "ground" ? groupRef.current : meshRef.current;
+    if (!ref || !gameRef.current) return;
     const g = gameRef.current;
 
     if (plat.type === "moving") {
@@ -425,10 +429,10 @@ function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: Re
     if (plat.type === "crumble" && plat.touched) {
       const t = plat.crumbleTimer || 0;
       mat.opacity = Math.max(0, 1 - t / 40);
-      if (t > 40) { meshRef.current.visible = false; return; }
+      if (t > 40) { ref.visible = false; return; }
     }
 
-    meshRef.current.position.set(plat.x, plat.y, plat.z);
+    ref.position.set(plat.x, plat.y, plat.z);
 
     if (isGoal && glowRef.current) {
       glowRef.current.position.set(plat.x, plat.y + plat.h / 2 + 1, plat.z);
@@ -442,14 +446,12 @@ function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: Re
     <>
       {/* Main platform body */}
       {plat.type === "ground" && sideMat ? (
-        // Ground: green top, brown sides
-        <group ref={meshRef as unknown as React.RefObject<THREE.Group>}>
-          {/* Top face (thin green layer) */}
-          <mesh position={[plat.x, plat.y + plat.h / 2 - 0.05, plat.z]} material={mat} receiveShadow castShadow>
+        // Ground: green top + brown earth — children use RELATIVE positions
+        <group ref={groupRef} position={[plat.x, plat.y, plat.z]}>
+          <mesh position={[0, plat.h / 2 - 0.05, 0]} material={mat} receiveShadow castShadow>
             <boxGeometry args={[plat.w, 0.1, plat.d]} />
           </mesh>
-          {/* Earth body below */}
-          <mesh position={[plat.x, plat.y - 0.05, plat.z]} material={sideMat} receiveShadow castShadow>
+          <mesh position={[0, -0.05, 0]} material={sideMat} receiveShadow castShadow>
             <boxGeometry args={[plat.w, plat.h - 0.1, plat.d]} />
           </mesh>
         </group>
@@ -639,9 +641,9 @@ function GameLoop({ gameRef, onDie, onGoal }: {
       const halfD = plat.d / 2;
       const platTop = plat.y + plat.h / 2;
 
-      const withinX = g.px > plat.x - halfW + 0.1 && g.px < plat.x + halfW - 0.1;
-      const withinZ = g.pz > plat.z - halfD + 0.1 && g.pz < plat.z + halfD - 0.1;
-      const withinY = g.py >= platTop - 0.3 && g.py <= platTop + 0.15;
+      const withinX = g.px > plat.x - halfW + 0.05 && g.px < plat.x + halfW - 0.05;
+      const withinZ = g.pz > plat.z - halfD + 0.05 && g.pz < plat.z + halfD - 0.05;
+      const withinY = g.py >= platTop - 0.5 && g.py <= platTop + 0.2;
 
       if (withinX && withinZ && withinY) {
         g.py = platTop + 0.01;
@@ -1031,11 +1033,13 @@ export default function SkyClimbPage() {
                 whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
                 <RotateCcw size={18} />
               </motion.button>
-              <motion.button onClick={() => setGameState("menu")}
-                className="bg-neon-purple/10 border border-neon-purple/30 text-neon-purple px-6 py-3 rounded-xl flex items-center gap-2"
-                whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-                <Home size={18} />
-              </motion.button>
+              <Link href="/">
+                <motion.div
+                  className="bg-neon-purple/10 border border-neon-purple/30 text-neon-purple px-6 py-3 rounded-xl flex items-center gap-2 cursor-pointer"
+                  whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
+                  <Home size={18} />
+                </motion.div>
+              </Link>
             </motion.div>
           </motion.div>
         )}
@@ -1067,11 +1071,13 @@ export default function SkyClimbPage() {
                   <ArrowUp size={18} /> {level + 1}
                 </motion.button>
               )}
-              <motion.button onClick={() => setGameState("menu")}
-                className="bg-neon-purple/10 border border-neon-purple/30 text-neon-purple px-6 py-3 rounded-xl flex items-center gap-2"
-                whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
-                <Home size={18} />
-              </motion.button>
+              <Link href="/">
+                <motion.div
+                  className="bg-neon-purple/10 border border-neon-purple/30 text-neon-purple px-6 py-3 rounded-xl flex items-center gap-2 cursor-pointer"
+                  whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
+                  <Home size={18} />
+                </motion.div>
+              </Link>
             </motion.div>
           </motion.div>
         )}
