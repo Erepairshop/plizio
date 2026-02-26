@@ -4,12 +4,12 @@ import { useState, useEffect, useRef, useCallback, useMemo } from "react";
 import { Canvas, useFrame, useThree } from "@react-three/fiber";
 import * as THREE from "three";
 import { motion, AnimatePresence } from "framer-motion";
-import { Mountain, Trophy, ArrowUp, RotateCcw, Home, Maximize } from "lucide-react";
+import { Mountain, Trophy, ArrowUp, RotateCcw, Home, Maximize, Share } from "lucide-react";
 import Link from "next/link";
 import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, type CardRarity } from "@/lib/cards";
 
-// ─── TYPES ──────────────────────────────────────────
+// ─── TYPES ──────────────────────────────────────
 interface Platform3D {
   x: number;
   y: number;
@@ -31,27 +31,26 @@ interface Platform3D {
 
 type GameState = "menu" | "playing" | "dead" | "level-complete" | "reward";
 
-// ─── CONSTANTS ──────────────────────────────────────
-const GRAVITY = 0.025;
-const JUMP_FORCE = 0.38;
-const MOVE_SPEED = 0.04;
-const RUN_SPEED = 0.07;
+// ─── CONSTANTS (TUNED) ──────────────────────────
+const GRAVITY = 0.022;
+const JUMP_FORCE = 0.42;
+const MOVE_SPEED = 0.045;
+const RUN_SPEED = 0.075;
 const PLAYER_RADIUS = 0.3;
 const CAM_DISTANCE = 9;
 const CAM_HEIGHT = 4.5;
-const FRICTION = 0.82;
-const ACCEL = 0.05;
+const FRICTION = 0.85;
+const ACCEL = 0.06;
+const COYOTE_FRAMES = 6;
+const JUMP_BUFFER = 8;
 
 // ─── LEVEL GENERATION (CONNECTED PATH) ─────────────
 function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: number } {
   const platforms: Platform3D[] = [];
   const difficulty = Math.min(level, 10);
 
-  // edgeZ = far edge (Z) of the last placed platform
-  // surfY = current walking surface height (= platTop)
-  // cx = current center X
-  let edgeZ = 4;   // start platform: center=0, depth=8, far edge=4
-  let surfY = 0;   // start platform top = y(-0.5) + h(1)/2 = 0
+  let edgeZ = 4;
+  let surfY = 0;
   let cx = 0;
 
   function addTrees(p: Platform3D, count: number) {
@@ -76,9 +75,9 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
     }
   }
 
-  // Start platform (top at surfY=0)
+  // Start platform
   const startH = 1;
-  const start: Platform3D = { x: 0, y: -startH / 2, z: 0, w: 8, d: 8, h: startH, type: "ground" };
+  const start: Platform3D = { x: 0, y: -startH / 2, z: 0, w: 9, d: 9, h: startH, type: "ground" };
   addTrees(start, 3);
   addRocks(start, 2);
   platforms.push(start);
@@ -89,12 +88,12 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
     const roll = Math.random();
 
     if (s < 2 || (s % 4 === 0 && roll < 0.4)) {
-      // ── GROUND REST AREA — short, flat, then a step up ──
-      const depth = 4 + Math.random() * 3;
-      const w = 5 + Math.random() * 3;
+      // ── GROUND REST AREA ──
+      const depth = 5 + Math.random() * 3;
+      const w = 6 + Math.random() * 3;
       const h = 1 + Math.random() * 0.5;
-      surfY += 0.8 + Math.random() * 0.5;
-      cx += (Math.random() - 0.5) * 0.5;
+      surfY += 0.6 + Math.random() * 0.4;
+      cx += (Math.random() - 0.5) * 0.4;
 
       const centerZ = edgeZ + depth / 2;
       const p: Platform3D = {
@@ -106,13 +105,13 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
       platforms.push(p);
       edgeZ = centerZ + depth / 2;
     } else if (roll < 0.45) {
-      // ── GAP JUMP — jump across to higher platform ──
-      const gap = 1.0 + difficulty * 0.08;
-      const d = 3 + Math.random() * 2;
-      const w = 3 + Math.random() * 2;
+      // ── GAP JUMP — wider platforms, manageable gaps ──
+      const gap = 0.8 + difficulty * 0.06;
+      const d = 4 + Math.random() * 2;
+      const w = 4 + Math.random() * 2;
       const h = 0.6 + Math.random() * 0.4;
-      surfY += 0.5 + Math.random() * 0.8;
-      cx += (Math.random() - 0.5) * 1.5;
+      surfY += 0.3 + Math.random() * 0.5;
+      cx += (Math.random() - 0.5) * 1.0;
 
       const centerZ = edgeZ + gap + d / 2;
       const p: Platform3D = {
@@ -123,16 +122,16 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
       platforms.push(p);
       edgeZ = centerZ + d / 2;
     } else if (roll < 0.70) {
-      // ── STAIRCASE — jump up each step ──
+      // ── STAIRCASE — wider steps, smaller gaps ──
       const steps = 3 + Math.floor(Math.random() * 3);
       for (let i = 0; i < steps; i++) {
-        const stepD = 2 + Math.random() * 0.8;
-        const stepW = 2.5 + Math.random() * 1.5;
+        const stepD = 2.5 + Math.random() * 1.0;
+        const stepW = 3.5 + Math.random() * 1.5;
         const stepH = 0.4 + Math.random() * 0.3;
-        surfY += 0.6 + Math.random() * 0.4;
-        cx += (Math.random() - 0.5) * 1.0;
+        surfY += 0.5 + Math.random() * 0.3;
+        cx += (Math.random() - 0.5) * 0.7;
 
-        const gap = 0.4 + Math.random() * 0.3;
+        const gap = 0.3 + Math.random() * 0.2;
         const centerZ = edgeZ + gap + stepD / 2;
         platforms.push({
           x: cx, y: surfY - stepH / 2, z: centerZ,
@@ -141,44 +140,44 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
         edgeZ = centerZ + stepD / 2;
       }
     } else if (roll < 0.82) {
-      // ── BRIDGE — narrow path, slight rise ──
+      // ── BRIDGE — slightly wider ──
       const bLen = 4 + Math.random() * 4;
       const bH = 0.3;
-      surfY += 0.3 + Math.random() * 0.3;
+      surfY += 0.2 + Math.random() * 0.2;
       cx += (Math.random() - 0.5) * 0.3;
 
       const centerZ = edgeZ + bLen / 2;
       platforms.push({
         x: cx, y: surfY - bH / 2, z: centerZ,
-        w: 1.8 + Math.random() * 0.4, d: bLen, h: bH, type: "bridge",
+        w: 2.2 + Math.random() * 0.6, d: bLen, h: bH, type: "bridge",
       });
       edgeZ = centerZ + bLen / 2;
     } else if (difficulty >= 3 && roll < 0.92) {
-      // ── MOVING PLATFORM — jump to it ──
-      const gap = 1.2;
-      surfY += 0.6;
+      // ── MOVING PLATFORM — bigger ──
+      const gap = 1.0;
+      surfY += 0.5;
 
-      const centerZ = edgeZ + gap + 1.75;
+      const centerZ = edgeZ + gap + 2;
       platforms.push({
-        x: cx, y: surfY - 0.2, z: centerZ, w: 3, d: 3, h: 0.4,
+        x: cx, y: surfY - 0.2, z: centerZ, w: 3.5, d: 3.5, h: 0.4,
         type: "moving",
         origX: cx, origZ: centerZ,
         moveAxis: Math.random() > 0.5 ? "x" : "z",
-        moveRange: 1.5 + Math.random() * 1.5,
-        moveSpeed: 0.4 + difficulty * 0.1,
+        moveRange: 1.2 + Math.random() * 1.2,
+        moveSpeed: 0.35 + difficulty * 0.08,
       });
-      edgeZ = centerZ + 1.5;
+      edgeZ = centerZ + 1.75;
     } else if (difficulty >= 4) {
-      // ── CRUMBLE PLATFORMS — jump between them ──
+      // ── CRUMBLE PLATFORMS — bigger ──
       const count = 2 + Math.floor(Math.random() * 2);
       for (let i = 0; i < count; i++) {
-        surfY += 0.4 + Math.random() * 0.3;
-        cx += (Math.random() - 0.5) * 1.2;
-        const pD = 2.5;
+        surfY += 0.3 + Math.random() * 0.3;
+        cx += (Math.random() - 0.5) * 1.0;
+        const pD = 3;
 
-        const centerZ = edgeZ + 0.8 + pD / 2;
+        const centerZ = edgeZ + 0.6 + pD / 2;
         platforms.push({
-          x: cx, y: surfY - 0.15, z: centerZ, w: 2.5, d: pD, h: 0.3,
+          x: cx, y: surfY - 0.15, z: centerZ, w: 3, d: pD, h: 0.3,
           type: "crumble",
           crumbleTimer: 0, touched: false,
         });
@@ -189,11 +188,11 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
 
   // ── GOAL PLATFORM ──
   surfY += 0.2;
-  const goalD = 7, goalH = 1;
+  const goalD = 8, goalH = 1;
   const goalZ = edgeZ + goalD / 2;
   const goal: Platform3D = {
     x: cx, y: surfY - goalH / 2, z: goalZ,
-    w: 7, d: goalD, h: goalH, type: "ground",
+    w: 8, d: goalD, h: goalH, type: "ground",
   };
   addTrees(goal, 2);
   platforms.push(goal);
@@ -221,6 +220,9 @@ interface GameData {
   camPhi: number;
   walkCycle: number;
   isRunning: boolean;
+  coyoteTimer: number;
+  jumpBufferTimer: number;
+  lastGroundY: number;
 }
 
 function createGameData(): GameData {
@@ -243,6 +245,9 @@ function createGameData(): GameData {
     camPhi: 0.3,
     walkCycle: 0,
     isRunning: false,
+    coyoteTimer: 0,
+    jumpBufferTimer: 0,
+    lastGroundY: 0,
   };
 }
 
@@ -418,7 +423,6 @@ function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: Re
     opacity: 1,
   }), [colors, plat.type]);
 
-  // Side material for ground platforms (brown earth)
   const sideMat = useMemo(() => {
     if (plat.type === "ground") {
       return new THREE.MeshStandardMaterial({
@@ -448,8 +452,8 @@ function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: Re
 
     if (plat.type === "crumble" && plat.touched) {
       const t = plat.crumbleTimer || 0;
-      mat.opacity = Math.max(0, 1 - t / 40);
-      if (t > 40) { ref.visible = false; return; }
+      mat.opacity = Math.max(0, 1 - t / 50);
+      if (t > 50) { ref.visible = false; return; }
     }
 
     ref.position.set(plat.x, plat.y, plat.z);
@@ -464,9 +468,7 @@ function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: Re
 
   return (
     <>
-      {/* Main platform body */}
       {plat.type === "ground" && sideMat ? (
-        // Ground: green top + brown earth — children use RELATIVE positions
         <group ref={groupRef} position={[plat.x, plat.y, plat.z]}>
           <mesh position={[0, plat.h / 2 - 0.05, 0]} material={mat} receiveShadow castShadow>
             <boxGeometry args={[plat.w, 0.1, plat.d]} />
@@ -481,7 +483,6 @@ function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: Re
         </mesh>
       )}
 
-      {/* Tree decorations */}
       {plat.trees?.map((t, i) => (
         <TreeDeco
           key={`t${i}`}
@@ -492,7 +493,6 @@ function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: Re
         />
       ))}
 
-      {/* Rock decorations */}
       {plat.rocks?.map((r, i) => (
         <RockDeco
           key={`r${i}`}
@@ -503,7 +503,6 @@ function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: Re
         />
       ))}
 
-      {/* Goal effects */}
       {isGoal && (
         <>
           <pointLight ref={glowRef} color="#FFD700" intensity={3} distance={10}
@@ -584,7 +583,7 @@ function DistantMountains() {
   );
 }
 
-// ─── GAME LOOP ──────────────────────────────────────
+// ─── GAME LOOP (IMPROVED PHYSICS) ───────────────────
 function GameLoop({ gameRef, onDie, onGoal }: {
   gameRef: React.RefObject<GameData>;
   onDie: () => void;
@@ -608,10 +607,8 @@ function GameLoop({ gameRef, onDie, onGoal }: {
     g.isRunning = inputLen > 0.7;
 
     if (inputLen > 0.05) {
-      // Camera forward (from camera toward player)
       const fwdX = Math.sin(camAngle);
       const fwdZ = Math.cos(camAngle);
-      // Camera right (Three.js right-hand: facing +Z, right is -X)
       const rightX = -Math.cos(camAngle);
       const rightZ = Math.sin(camAngle);
 
@@ -629,14 +626,30 @@ function GameLoop({ gameRef, onDie, onGoal }: {
       g.vz *= FRICTION;
     }
 
-    // Jump
-    if (g.jumpPressed && g.onGround && !g.jumpUsed) {
+    // ─── COYOTE TIME + JUMP BUFFER ─────
+    if (g.jumpPressed) {
+      g.jumpBufferTimer = JUMP_BUFFER;
+    } else {
+      if (g.jumpBufferTimer > 0) g.jumpBufferTimer -= dt;
+    }
+
+    const canJump = g.onGround || g.coyoteTimer > 0;
+
+    if (g.jumpBufferTimer > 0 && canJump && !g.jumpUsed) {
       g.vy = JUMP_FORCE;
       g.onGround = false;
       g.jumpUsed = true;
+      g.coyoteTimer = 0;
+      g.jumpBufferTimer = 0;
     }
+
     if (!g.jumpPressed) {
       g.jumpUsed = false;
+    }
+
+    // Variable jump height - release early for shorter jump
+    if (!g.jumpPressed && g.vy > 0.15) {
+      g.vy *= 0.85;
     }
 
     // Gravity
@@ -647,31 +660,54 @@ function GameLoop({ gameRef, onDie, onGoal }: {
     g.py += g.vy * dt;
     g.pz += g.vz;
 
-    // ─── PLATFORM COLLISION (variable height) ─────
+    // ─── PLATFORM COLLISION (IMPROVED - more forgiving) ─────
+    const wasOnGround = g.onGround;
     g.onGround = false;
+
     for (const plat of g.platforms) {
       if (plat.type === "crumble" && plat.touched) {
         plat.crumbleTimer = (plat.crumbleTimer || 0) + dt;
-        if ((plat.crumbleTimer || 0) > 40) continue;
+        if ((plat.crumbleTimer || 0) > 50) continue;
       }
 
-      if (g.vy > 0) continue;
+      // Only check landing when falling
+      if (g.vy > 0.05) continue;
 
       const halfW = plat.w / 2;
       const halfD = plat.d / 2;
       const platTop = plat.y + plat.h / 2;
 
-      const withinX = g.px > plat.x - halfW + 0.05 && g.px < plat.x + halfW - 0.05;
-      const withinZ = g.pz > plat.z - halfD + 0.05 && g.pz < plat.z + halfD - 0.05;
-      const withinY = g.py >= platTop - 0.5 && g.py <= platTop + 0.2;
+      // Use PLAYER_RADIUS for edge tolerance (more forgiving)
+      const edgeTolerance = PLAYER_RADIUS * 0.5;
+      const withinX = g.px > plat.x - halfW + edgeTolerance && g.px < plat.x + halfW - edgeTolerance;
+      const withinZ = g.pz > plat.z - halfD + edgeTolerance && g.pz < plat.z + halfD - edgeTolerance;
+
+      // More generous vertical range for landing
+      const withinY = g.py >= platTop - 0.8 && g.py <= platTop + 0.5;
 
       if (withinX && withinZ && withinY) {
         g.py = platTop + 0.01;
         g.vy = 0;
         g.onGround = true;
+        g.lastGroundY = platTop;
 
         if (plat.type === "crumble") plat.touched = true;
+
+        // Snap to moving platform
+        if (plat.type === "moving") {
+          // Player stays on the moving platform
+        }
+        break;
       }
+    }
+
+    // Coyote time: just left ground
+    if (wasOnGround && !g.onGround && g.vy <= 0) {
+      g.coyoteTimer = COYOTE_FRAMES;
+    } else if (g.onGround) {
+      g.coyoteTimer = 0;
+    } else {
+      if (g.coyoteTimer > 0) g.coyoteTimer -= dt;
     }
 
     // ─── DEATH ────────
@@ -687,7 +723,7 @@ function GameLoop({ gameRef, onDie, onGoal }: {
       const dx = g.px - goal.x;
       const dz = g.pz - goal.z;
       const dist = Math.sqrt(dx * dx + dz * dz);
-      if (dist < 2.5 && g.py > goal.y - 0.5 && g.py < goal.y + 3) {
+      if (dist < 3 && g.py > goal.y - 0.5 && g.py < goal.y + 3) {
         g.levelComplete = true;
         onGoal();
         return;
@@ -807,7 +843,7 @@ function VirtualJoystick({ gameRef }: { gameRef: React.RefObject<GameData> }) {
   );
 }
 
-// ─── FULLSCREEN HELPER ───────────────────────────────
+// ─── FULLSCREEN HELPERS ─────────────────────────────
 function requestFullscreen() {
   const el = document.documentElement as HTMLElement & {
     webkitRequestFullscreen?: () => Promise<void>;
@@ -824,22 +860,47 @@ function requestFullscreen() {
   } catch {}
 }
 
+function isStandalone(): boolean {
+  if (typeof window === "undefined") return false;
+  const nav = window.navigator as Navigator & { standalone?: boolean };
+  return !!(
+    nav.standalone ||
+    window.matchMedia("(display-mode: standalone)").matches ||
+    window.matchMedia("(display-mode: fullscreen)").matches
+  );
+}
+
+function isIOS(): boolean {
+  if (typeof navigator === "undefined") return false;
+  return /iPhone|iPad|iPod/.test(navigator.userAgent);
+}
+
 // ─── MAIN COMPONENT ─────────────────────────────────
 export default function SkyClimbPage() {
   const [gameState, setGameState] = useState<GameState>("menu");
   const [level, setLevel] = useState(1);
   const [highestLevel, setHighestLevel] = useState(1);
   const [rewardRarity, setRewardRarity] = useState<CardRarity>("bronze");
+  const [showPwaHint, setShowPwaHint] = useState(false);
+  const [isFullscreen, setIsFullscreen] = useState(false);
   const gameRef = useRef<GameData>(createGameData());
 
   useEffect(() => {
     const saved = localStorage.getItem("plizio_skyclimb_highest");
     if (saved) setHighestLevel(parseInt(saved));
+
+    // Check if already in standalone/fullscreen
+    setIsFullscreen(isStandalone());
+
+    const handleFsChange = () => {
+      setIsFullscreen(!!document.fullscreenElement || isStandalone());
+    };
+    document.addEventListener("fullscreenchange", handleFsChange);
+    return () => document.removeEventListener("fullscreenchange", handleFsChange);
   }, []);
 
   // ─── FULLSCREEN + MOBILE APP MODE ─────────────────
   useEffect(() => {
-    // Prevent pull-to-refresh and overscroll bounce
     const preventOverscroll = (e: TouchEvent) => {
       if (gameState === "playing") {
         e.preventDefault();
@@ -847,12 +908,14 @@ export default function SkyClimbPage() {
     };
     document.addEventListener("touchmove", preventOverscroll, { passive: false });
 
-    // Lock body scroll when playing
     if (gameState === "playing") {
       document.body.style.overflow = "hidden";
       document.body.style.position = "fixed";
       document.body.style.width = "100%";
       document.body.style.height = "100%";
+
+      // Scroll down to hide address bar on mobile browsers
+      window.scrollTo(0, 1);
     }
 
     return () => {
@@ -864,7 +927,7 @@ export default function SkyClimbPage() {
     };
   }, [gameState]);
 
-  // Keyboard + mouse controls
+  // Keyboard + mouse + touch controls
   useEffect(() => {
     if (gameState !== "playing") return;
     const g = gameRef.current;
@@ -968,9 +1031,10 @@ export default function SkyClimbPage() {
   }, [gameState]);
 
   const startGame = useCallback((lvl: number) => {
-    // Request fullscreen on mobile when game starts
-    requestFullscreen();
-    // Try to lock orientation to portrait
+    // Try fullscreen on Android
+    if (!isStandalone()) {
+      requestFullscreen();
+    }
     try {
       (screen.orientation as { lock?: (o: string) => Promise<void> })?.lock?.("portrait").catch(() => {});
     } catch {}
@@ -1007,11 +1071,19 @@ export default function SkyClimbPage() {
     setGameState("reward");
   }, []);
 
+  const handleFullscreenBtn = useCallback(() => {
+    if (isIOS()) {
+      setShowPwaHint(true);
+    } else {
+      requestFullscreen();
+    }
+  }, []);
+
   return (
     <main className="flex flex-col items-center justify-center bg-bg relative overflow-hidden" style={{ minHeight: "100dvh", height: "100dvh", width: "100vw", overscrollBehavior: "none" }}>
       {/* Menu */}
       {gameState === "menu" && (
-        <motion.div className="flex flex-col items-center gap-8" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+        <motion.div className="flex flex-col items-center gap-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
           <Mountain size={48} className="text-neon-green" style={{ filter: "drop-shadow(0 0 15px rgba(0,255,136,0.5))" }} />
           <div className="flex flex-wrap items-center justify-center gap-2 max-w-xs">
             {Array.from({ length: Math.min(highestLevel + 1, 20) }, (_, i) => i + 1).map((lvl) => {
@@ -1043,17 +1115,70 @@ export default function SkyClimbPage() {
               <Trophy size={14} /> LVL {highestLevel}
             </motion.div>
           )}
-          {/* Fullscreen button for mobile */}
-          <motion.button
-            onClick={requestFullscreen}
-            className="sm:hidden bg-white/5 border border-white/10 text-white/40 px-4 py-2 rounded-xl flex items-center gap-2 text-xs"
-            initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.5 }}
-            whileTap={{ scale: 0.95 }}
-          >
-            <Maximize size={14} /> Fullscreen
-          </motion.button>
+
+          {/* Fullscreen button - visible on mobile, works differently per platform */}
+          {!isFullscreen && (
+            <motion.button
+              onClick={handleFullscreenBtn}
+              className="sm:hidden bg-neon-green/10 border border-neon-green/30 text-neon-green px-5 py-3 rounded-xl flex items-center gap-2 text-sm font-bold"
+              initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.4 }}
+              whileTap={{ scale: 0.95 }}
+            >
+              <Maximize size={16} /> Teljes kepernyo
+            </motion.button>
+          )}
+
+          {isFullscreen && (
+            <motion.div className="sm:hidden text-neon-green/40 text-xs flex items-center gap-1"
+              initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+              <Maximize size={12} /> Fullscreen aktiv
+            </motion.div>
+          )}
         </motion.div>
       )}
+
+      {/* iOS PWA hint overlay */}
+      <AnimatePresence>
+        {showPwaHint && (
+          <motion.div
+            className="fixed inset-0 z-[100] flex flex-col items-center justify-center bg-black/90 backdrop-blur-md px-6 gap-6"
+            initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
+            onClick={() => setShowPwaHint(false)}
+          >
+            <motion.div
+              className="bg-card border border-white/10 rounded-2xl p-6 max-w-sm w-full flex flex-col gap-4"
+              initial={{ scale: 0.9, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}
+              onClick={(e) => e.stopPropagation()}
+            >
+              <div className="text-white font-bold text-lg text-center">Teljes kepernyo</div>
+              <div className="text-white/60 text-sm text-center leading-relaxed">
+                iOS-on a teljes kepernyo csak appkent mukodik. Add hozza a kezdokepernyohoz:
+              </div>
+              <div className="flex flex-col gap-3 text-white/80 text-sm">
+                <div className="flex items-center gap-3 bg-white/5 rounded-xl p-3">
+                  <Share size={20} className="text-neon-blue shrink-0" />
+                  <span>1. Nyomd meg a <strong>Share</strong> gombot (alul)</span>
+                </div>
+                <div className="flex items-center gap-3 bg-white/5 rounded-xl p-3">
+                  <span className="text-neon-blue text-xl shrink-0">+</span>
+                  <span>2. <strong>&quot;Add to Home Screen&quot;</strong></span>
+                </div>
+                <div className="flex items-center gap-3 bg-white/5 rounded-xl p-3">
+                  <Maximize size={20} className="text-neon-green shrink-0" />
+                  <span>3. Inditsd onnan - <strong>teljes kepernyo!</strong></span>
+                </div>
+              </div>
+              <motion.button
+                onClick={() => setShowPwaHint(false)}
+                className="mt-2 bg-neon-green/10 border border-neon-green/30 text-neon-green py-2 rounded-xl font-bold text-sm"
+                whileTap={{ scale: 0.95 }}
+              >
+                Ertem
+              </motion.button>
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
 
       {/* 3D Game */}
       {gameState === "playing" && (
@@ -1064,7 +1189,7 @@ export default function SkyClimbPage() {
           </Canvas>
 
           {/* HUD */}
-          <div className="fixed top-4 left-0 right-0 z-10 flex justify-center pointer-events-none">
+          <div className="fixed top-2 left-0 right-0 z-10 flex justify-center pointer-events-none" style={{ paddingTop: "env(safe-area-inset-top, 8px)" }}>
             <div className="bg-black/40 backdrop-blur-sm rounded-xl px-4 py-2 flex items-center gap-3">
               <Mountain size={14} className="text-neon-green" />
               <span className="text-white/80 font-mono text-sm font-bold">LVL {level}</span>
@@ -1072,7 +1197,7 @@ export default function SkyClimbPage() {
           </div>
 
           {/* Mobile controls */}
-          <div className="fixed inset-0 z-10 pointer-events-none sm:hidden">
+          <div className="fixed inset-0 z-10 pointer-events-none sm:hidden" style={{ paddingBottom: "env(safe-area-inset-bottom, 0px)" }}>
             <div className="pointer-events-auto">
               <VirtualJoystick gameRef={gameRef} />
             </div>
@@ -1085,12 +1210,26 @@ export default function SkyClimbPage() {
             </button>
           </div>
 
+          {/* Fullscreen button in-game (top-right, small) */}
+          {!isFullscreen && (
+            <button
+              className="fixed top-2 right-2 z-20 sm:hidden bg-black/30 backdrop-blur-sm rounded-lg p-2"
+              style={{ paddingTop: "env(safe-area-inset-top, 8px)" }}
+              onClick={() => {
+                if (isIOS()) setShowPwaHint(true);
+                else requestFullscreen();
+              }}
+            >
+              <Maximize size={16} className="text-white/50" />
+            </button>
+          )}
+
           {/* PC controls hint */}
           <div className="fixed bottom-4 left-0 right-0 z-10 hidden sm:flex justify-center pointer-events-none">
             <div className="bg-black/30 backdrop-blur-sm rounded-lg px-3 py-1.5 flex items-center gap-4 text-white/40 text-xs font-mono">
               <span>WASD</span>
-              <span>SPACE ↑</span>
-              <span>MOUSE ↻</span>
+              <span>SPACE jump</span>
+              <span>MOUSE camera</span>
             </div>
           </div>
         </div>
