@@ -1,0 +1,92 @@
+[
+  {
+    "scene": ["🐕", "🐈", "🐇", "🐟", "🦜"],
+    "showTime": 4000,
+    "question": "🐇❓",
+    "answers": [
+      { "label": "✅", "correct": true },
+      { "label": "❌", "correct": false }
+    ]
+  },
+  {
+    "scene": ["🦁", "🐘", "🦒", "🦓"],
+    "showTime": 3500,
+    "question": "🐻❓",
+    "answers": [
+      { "label": "✅", "correct": false },
+      { "label": "❌", "correct": true }
+    ]
+  },
+  {
+    "scene": ["🐧", "🦭", "🐋", "🦈", "🐙"],
+    "showTime": 4000,
+    "question": "🦭❓",
+    "answers": [
+      { "label": "✅", "correct": true },
+      { "label": "❌", "correct": false }
+    ]
+  },
+  {
+    "scene": ["🦋", "🐝", "🐞", "🐛"],
+    "showTime": 3000,
+    "question": "🐝❓",
+    "answers": [
+      { "label": "✅", "correct": true },
+      { "label": "❌", "correct": false }
+    ]
+  },
+  {
+    "scene": ["🐊", "🦎", "🐍", "🐢"],
+    "showTime": 3500,
+    "question": "🦎❓",
+    "answers": [
+      { "label": "✅", "correct": true },
+      { "label": "❌", "correct": false }
+    ]
+  },
+  {
+    "scene": ["🐺", "🦊", "🐻", "🦝"],
+    "showTime": 3000,
+    "question": "🐻‍❄️❓",
+    "answers": [
+      { "label": "✅", "correct": false },
+      { "label": "❌", "correct": true }
+    ]
+  },
+  {
+    "scene": ["🦩", "🦜", "🐦", "🦅", "🦉"],
+    "showTime": 4000,
+    "question": "🦉❓",
+    "answers": [
+      { "label": "✅", "correct": true },
+      { "label": "❌", "correct": false }
+    ]
+  },
+  {
+    "scene": ["🐄", "🐖", "🐑", "🐔"],
+    "showTime": 3000,
+    "question": "🐴❓",
+    "answers": [
+      { "label": "✅", "correct": false },
+      { "label": "❌", "correct": true }
+    ]
+  },
+  {
+    "scene": ["🦀", "🦞", "🐙", "🦑", "🐠"],
+    "showTime": 4000,
+    "question": "🦞❓",
+    "answers": [
+      { "label": "✅", "correct": true },
+      { "label": "❌", "correct": false }
+    ]
+  },
+  {
+    "scene": ["🐒", "🦧", "🐆", "🦛", "🐃"],
+    "showTime": 4500,
+    "question": "🦧❓",
+    "answers": [
+      { "label": "✅", "correct": true },
+      { "label": "❌", "correct": false }
+    ]
+  }
+]

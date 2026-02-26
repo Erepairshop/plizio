@@ -2,24 +2,27 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Crosshair, Trophy, CheckCircle, XCircle, ArrowUp, Flame, Globe, Music, CircleDot } from "lucide-react";
+import { Crosshair, Trophy, CheckCircle, XCircle, ArrowUp, Flame, Globe, Music, CircleDot, Sparkles } from "lucide-react";
 import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import generalData from "@/data/quickpick/general.json";
 import kpopData from "@/data/quickpick/kpop.json";
 import footballData from "@/data/quickpick/football.json";
+import animeData from "@/data/quickpick/anime.json";
 
 const THEME_DATA: Record<string, Question[]> = {
   general: generalData as Question[],
   kpop: kpopData as Question[],
   football: footballData as Question[],
+  anime: animeData as Question[],
 };
 
 const THEMES = [
   { id: "general", icon: Globe, label: "GEN", color: "#00D4FF" },
   { id: "kpop", icon: Music, label: "K-POP", color: "#FF2D78" },
   { id: "football", icon: CircleDot, label: "GOAL", color: "#00FF88" },
+  { id: "anime", icon: Sparkles, label: "ANIME", color: "#FFD700" },
 ];
 
 interface Question {

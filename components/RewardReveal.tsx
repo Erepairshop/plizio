@@ -2,8 +2,9 @@
 
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Sparkles, Trophy, Crosshair, Zap, Brain, type LucideIcon } from "lucide-react";
+import { Sparkles, Trophy, Crosshair, Zap, Brain, Calendar, type LucideIcon } from "lucide-react";
 import { type CardRarity, getRarityConfig } from "@/lib/cards";
+import Confetti from "@/components/Confetti";
 
 interface RewardRevealProps {
   rarity: CardRarity;
@@ -17,12 +18,14 @@ const GAME_ICONS: Record<string, LucideIcon> = {
   quickpick: Crosshair,
   reflexgrid: Zap,
   memoryflash: Brain,
+  daily: Calendar,
 };
 
 const GAME_COLORS: Record<string, string> = {
   quickpick: "#FF2D78",
   reflexgrid: "#00D4FF",
   memoryflash: "#B44DFF",
+  daily: "#FFD700",
 };
 
 export default function RewardReveal({ rarity, game, score, total, onDone }: RewardRevealProps) {
@@ -42,6 +45,11 @@ export default function RewardReveal({ rarity, game, score, total, onDone }: Rew
       animate={{ opacity: 1 }}
       onClick={handleReveal}
     >
+      {/* Confetti for gold/legendary */}
+      {revealed && (rarity === "gold" || rarity === "legendary") && (
+        <Confetti count={rarity === "legendary" ? 60 : 35} />
+      )}
+
       {/* Card */}
       <div className="perspective-1000" style={{ perspective: "1000px" }}>
         <motion.div
