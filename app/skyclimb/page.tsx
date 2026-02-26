@@ -9,15 +9,18 @@ import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, type CardRarity } from "@/lib/cards";
 
 // ─── TYPES ──────────────────────────────────────────
-interface Platform {
+interface Platform3D {
   x: number;
   y: number;
+  z: number;
   w: number;
+  d: number;
   type: "normal" | "moving" | "crumble" | "small";
-  moveDir?: number;
+  moveAxis?: "x" | "z";
   moveRange?: number;
   moveSpeed?: number;
   origX?: number;
+  origZ?: number;
   crumbleTimer?: number;
   touched?: boolean;
 }
@@ -25,59 +28,61 @@ interface Platform {
 type GameState = "menu" | "playing" | "dead" | "level-complete" | "reward";
 
 // ─── CONSTANTS ──────────────────────────────────────
-const WORLD_W = 10; // world units width
-const PLAYER_SIZE = 0.35;
-const GRAVITY = 0.018;
-const JUMP_FORCE = 0.38;
-const MOVE_SPEED = 0.18;
-const PLAT_H = 0.15;
-const LEVEL_HEIGHT = 120;
-
-const ZONE_COLORS = [
-  { plat: "#00D4FF", bg: [0.04, 0.04, 0.1], accent: "#00D4FF" },
-  { plat: "#00FF88", bg: [0.04, 0.06, 0.15], accent: "#00FF88" },
-  { plat: "#B44DFF", bg: [0.02, 0.02, 0.08], accent: "#B44DFF" },
-  { plat: "#FF2D78", bg: [0.0, 0.0, 0.03], accent: "#FF2D78" },
-  { plat: "#FFD700", bg: [0.0, 0.0, 0.0], accent: "#FFD700" },
-];
+const GRAVITY = 0.025;
+const JUMP_FORCE = 0.42;
+const MOVE_SPEED = 0.12;
+const RUN_SPEED = 0.18;
+const PLAYER_RADIUS = 0.3;
+const CAM_DISTANCE = 6;
+const CAM_HEIGHT = 3;
 
 // ─── LEVEL GENERATION ───────────────────────────────
-function generateLevel(level: number): { platforms: Platform[]; goalY: number } {
-  const platforms: Platform[] = [];
+function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: number } {
+  const platforms: Platform3D[] = [];
   const difficulty = Math.min(level, 10);
+  const count = 25 + level * 4;
 
-  // Starting platform (wide)
-  platforms.push({ x: WORLD_W / 2, y: 0, w: 3, type: "normal" });
+  // Start platform (large)
+  platforms.push({ x: 0, y: 0, z: 0, w: 4, d: 4, type: "normal" });
 
-  const platformCount = 35 + level * 5;
-  const verticalSpacing = LEVEL_HEIGHT / platformCount;
+  let cx = 0, cy = 0, cz = 0;
 
-  for (let i = 1; i <= platformCount; i++) {
-    const y = i * verticalSpacing;
-    const x = 0.8 + Math.random() * (WORLD_W - 1.6);
+  for (let i = 1; i <= count; i++) {
+    // Pick direction for next platform
+    const angle = Math.random() * Math.PI * 2;
+    const dist = 1.8 + Math.random() * 1.5;
+    const heightGain = 1.0 + Math.random() * 1.5;
+
+    cx += Math.cos(angle) * dist;
+    cz += Math.sin(angle) * dist;
+    cy += heightGain;
 
     const roll = Math.random();
-    let type: Platform["type"] = "normal";
-    let w = 2.2 - difficulty * 0.08;
+    let type: Platform3D["type"] = "normal";
+    let w = 2.0 - difficulty * 0.06;
+    let d = 2.0 - difficulty * 0.06;
 
-    if (difficulty >= 2 && roll < 0.1 * difficulty) {
+    if (difficulty >= 2 && roll < 0.08 * difficulty) {
       type = "moving";
-    } else if (difficulty >= 4 && roll < 0.05 * difficulty) {
+    } else if (difficulty >= 4 && roll < 0.04 * difficulty) {
       type = "crumble";
-    } else if (difficulty >= 3 && roll < 0.08 * difficulty) {
+    } else if (difficulty >= 3 && roll < 0.06 * difficulty) {
       type = "small";
       w = 1.0;
+      d = 1.0;
     }
 
-    w = Math.max(w, 0.9);
+    w = Math.max(w, 1.0);
+    d = Math.max(d, 1.0);
 
-    const plat: Platform = { x, y, w, type };
+    const plat: Platform3D = { x: cx, y: cy, z: cz, w, d, type };
 
     if (type === "moving") {
-      plat.origX = x;
-      plat.moveDir = Math.random() > 0.5 ? 1 : -1;
+      plat.origX = cx;
+      plat.origZ = cz;
+      plat.moveAxis = Math.random() > 0.5 ? "x" : "z";
       plat.moveRange = 1.0 + Math.random() * 1.5;
-      plat.moveSpeed = 0.8 + difficulty * 0.2;
+      plat.moveSpeed = 0.5 + difficulty * 0.15;
     }
 
     if (type === "crumble") {
@@ -88,85 +93,85 @@ function generateLevel(level: number): { platforms: Platform[]; goalY: number } 
     platforms.push(plat);
   }
 
-  // Goal platform
-  const goalY = (platformCount + 1) * verticalSpacing;
-  platforms.push({ x: WORLD_W / 2, y: goalY, w: 2.5, type: "normal" });
+  // Goal platform (large, golden)
+  const goalAngle = Math.random() * Math.PI * 2;
+  cx += Math.cos(goalAngle) * 2;
+  cz += Math.sin(goalAngle) * 2;
+  cy += 1.5;
+  platforms.push({ x: cx, y: cy, z: cz, w: 3, d: 3, type: "normal" });
 
-  return { platforms, goalY };
+  return { platforms, goalIdx: platforms.length - 1 };
 }
 
-// ─── GAME STATE REF ─────────────────────────────────
+// ─── GAME DATA ──────────────────────────────────────
 interface GameData {
-  playerX: number;
-  playerY: number;
-  velX: number;
-  velY: number;
+  px: number; py: number; pz: number;
+  vx: number; vy: number; vz: number;
   onGround: boolean;
-  platforms: Platform[];
-  goalY: number;
-  cameraY: number;
-  moveLeft: boolean;
-  moveRight: boolean;
+  platforms: Platform3D[];
+  goalIdx: number;
   dead: boolean;
   levelComplete: boolean;
   level: number;
   time: number;
-  facingRight: boolean;
+  facingAngle: number;
+  // Input
+  moveX: number;
+  moveZ: number;
+  jumpPressed: boolean;
+  jumpUsed: boolean;
+  // Camera
+  camTheta: number;
+  camPhi: number;
+  // Animation
   walkCycle: number;
+  isRunning: boolean;
 }
 
 function createGameData(): GameData {
   return {
-    playerX: WORLD_W / 2,
-    playerY: 0.8,
-    velX: 0,
-    velY: 0,
+    px: 0, py: 1, pz: 0,
+    vx: 0, vy: 0, vz: 0,
     onGround: false,
     platforms: [],
-    goalY: 0,
-    cameraY: 0,
-    moveLeft: false,
-    moveRight: false,
+    goalIdx: 0,
     dead: false,
     levelComplete: false,
     level: 1,
     time: 0,
-    facingRight: true,
+    facingAngle: 0,
+    moveX: 0,
+    moveZ: 0,
+    jumpPressed: false,
+    jumpUsed: false,
+    camTheta: 0,
+    camPhi: 0.3,
     walkCycle: 0,
+    isRunning: false,
   };
 }
 
-// ─── 3D CHARACTER ───────────────────────────────────
+// ─── CHARACTER (BOX-MAN) ────────────────────────────
 function Character({ gameRef }: { gameRef: React.RefObject<GameData> }) {
   const groupRef = useRef<THREE.Group>(null);
-  const leftLegRef = useRef<THREE.Mesh>(null);
-  const rightLegRef = useRef<THREE.Mesh>(null);
-  const leftArmRef = useRef<THREE.Mesh>(null);
-  const rightArmRef = useRef<THREE.Mesh>(null);
-  const bodyRef = useRef<THREE.Group>(null);
+  const bodyGroupRef = useRef<THREE.Group>(null);
+  const leftLegRef = useRef<THREE.Group>(null);
+  const rightLegRef = useRef<THREE.Group>(null);
+  const leftArmRef = useRef<THREE.Group>(null);
+  const rightArmRef = useRef<THREE.Group>(null);
 
   const bodyMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: "#ffffff",
-    emissive: "#00D4FF",
-    emissiveIntensity: 0.3,
+    color: "#ffffff", emissive: "#00D4FF", emissiveIntensity: 0.3,
   }), []);
-
   const headMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: "#ffffff",
-    emissive: "#00D4FF",
-    emissiveIntensity: 0.4,
+    color: "#ffffff", emissive: "#00D4FF", emissiveIntensity: 0.4,
   }), []);
-
   const limbMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: "#cccccc",
-    emissive: "#0088AA",
-    emissiveIntensity: 0.2,
+    color: "#cccccc", emissive: "#0088AA", emissiveIntensity: 0.2,
   }), []);
-
-  const eyeMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: "#0A0A1A",
-    emissive: "#000000",
-    emissiveIntensity: 0,
+  const eyeMat = useMemo(() => new THREE.MeshStandardMaterial({ color: "#0A0A1A" }), []);
+  const shoeMat = useMemo(() => new THREE.MeshStandardMaterial({
+    color: "#222222", emissive: "#00D4FF", emissiveIntensity: 0.15,
   }), []);
 
   useFrame((_, delta) => {
@@ -174,188 +179,194 @@ function Character({ gameRef }: { gameRef: React.RefObject<GameData> }) {
     const g = gameRef.current;
 
     // Position
-    groupRef.current.position.set(g.playerX, g.playerY + PLAYER_SIZE, 0);
+    groupRef.current.position.set(g.px, g.py, g.pz);
 
-    // Facing direction
-    if (bodyRef.current) {
-      const targetRotY = g.facingRight ? 0 : Math.PI;
-      bodyRef.current.rotation.y += (targetRotY - bodyRef.current.rotation.y) * 0.15;
+    // Facing direction (smooth rotation)
+    if (bodyGroupRef.current) {
+      const targetRot = g.facingAngle;
+      let diff = targetRot - bodyGroupRef.current.rotation.y;
+      // Normalize to -PI..PI
+      while (diff > Math.PI) diff -= Math.PI * 2;
+      while (diff < -Math.PI) diff += Math.PI * 2;
+      bodyGroupRef.current.rotation.y += diff * 0.15;
     }
 
     // Walk animation
-    const isMoving = Math.abs(g.velX) > 0.01;
+    const isMoving = Math.abs(g.vx) > 0.01 || Math.abs(g.vz) > 0.01;
     const isAirborne = !g.onGround;
 
     if (isMoving && !isAirborne) {
-      g.walkCycle += delta * 12;
+      g.walkCycle += delta * (g.isRunning ? 14 : 10);
+    } else if (!isMoving) {
+      g.walkCycle *= 0.9;
     }
 
-    const legSwing = isAirborne ? 0.3 : (isMoving ? Math.sin(g.walkCycle) * 0.6 : 0);
-    const armSwing = isAirborne ? -0.5 : (isMoving ? Math.sin(g.walkCycle + Math.PI) * 0.4 : 0);
+    const legSwing = isAirborne
+      ? (g.vy > 0 ? 0.4 : -0.2) // legs forward when jumping, back when falling
+      : (isMoving ? Math.sin(g.walkCycle) * 0.7 : 0);
+    const armSwing = isAirborne
+      ? (g.vy > 0 ? -0.8 : -0.3) // arms up when jumping
+      : (isMoving ? Math.sin(g.walkCycle + Math.PI) * 0.5 : 0);
 
-    // Jump squash/stretch
-    let scaleY = 1;
-    let scaleXZ = 1;
+    // Squash/stretch
+    let scaleY = 1, scaleXZ = 1;
     if (isAirborne) {
-      if (g.velY > 0.1) {
-        // Going up - stretch
-        scaleY = 1.15;
-        scaleXZ = 0.9;
-      } else if (g.velY < -0.05) {
-        // Falling - squash slightly
-        scaleY = 0.9;
-        scaleXZ = 1.1;
-      }
+      if (g.vy > 0.15) { scaleY = 1.12; scaleXZ = 0.92; }
+      else if (g.vy < -0.1) { scaleY = 0.92; scaleXZ = 1.08; }
     }
 
     if (groupRef.current) {
       groupRef.current.scale.set(scaleXZ, scaleY, scaleXZ);
     }
 
-    // Animate limbs
     if (leftLegRef.current) leftLegRef.current.rotation.x = legSwing;
     if (rightLegRef.current) rightLegRef.current.rotation.x = -legSwing;
     if (leftArmRef.current) leftArmRef.current.rotation.x = armSwing;
     if (rightArmRef.current) rightArmRef.current.rotation.x = -armSwing;
-
-    // Update emissive color based on zone
-    const zoneIdx = Math.min(Math.floor(g.playerY / (LEVEL_HEIGHT / 5)), 4);
-    const zoneColor = ZONE_COLORS[Math.max(0, zoneIdx)].accent;
-    const c = new THREE.Color(zoneColor);
-    bodyMat.emissive = c;
-    headMat.emissive = c;
-    limbMat.emissive = c.clone().multiplyScalar(0.6);
   });
 
   return (
     <group ref={groupRef}>
-      <group ref={bodyRef}>
+      <group ref={bodyGroupRef}>
         {/* Head */}
-        <mesh position={[0, 0.42, 0]} material={headMat}>
-          <boxGeometry args={[0.28, 0.28, 0.28]} />
+        <mesh position={[0, 0.82, 0]} material={headMat}>
+          <boxGeometry args={[0.36, 0.36, 0.36]} />
         </mesh>
-
         {/* Eyes */}
-        <mesh position={[0.06, 0.44, 0.14]} material={eyeMat}>
-          <boxGeometry args={[0.06, 0.06, 0.02]} />
+        <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}>
+          <boxGeometry args={[0.07, 0.07, 0.02]} />
         </mesh>
-        <mesh position={[-0.06, 0.44, 0.14]} material={eyeMat}>
-          <boxGeometry args={[0.06, 0.06, 0.02]} />
+        <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}>
+          <boxGeometry args={[0.07, 0.07, 0.02]} />
         </mesh>
-
         {/* Body */}
-        <mesh position={[0, 0.15, 0]} material={bodyMat}>
-          <boxGeometry args={[0.3, 0.35, 0.2]} />
+        <mesh position={[0, 0.42, 0]} material={bodyMat}>
+          <boxGeometry args={[0.38, 0.42, 0.24]} />
         </mesh>
-
         {/* Left Arm */}
-        <mesh ref={leftArmRef} position={[0.22, 0.2, 0]} material={limbMat}>
-          <boxGeometry args={[0.1, 0.32, 0.1]} />
-        </mesh>
-
+        <group ref={leftArmRef} position={[0.28, 0.55, 0]}>
+          <mesh position={[0, -0.17, 0]} material={limbMat}>
+            <boxGeometry args={[0.12, 0.36, 0.12]} />
+          </mesh>
+        </group>
         {/* Right Arm */}
-        <mesh ref={rightArmRef} position={[-0.22, 0.2, 0]} material={limbMat}>
-          <boxGeometry args={[0.1, 0.32, 0.1]} />
-        </mesh>
-
+        <group ref={rightArmRef} position={[-0.28, 0.55, 0]}>
+          <mesh position={[0, -0.17, 0]} material={limbMat}>
+            <boxGeometry args={[0.12, 0.36, 0.12]} />
+          </mesh>
+        </group>
         {/* Left Leg */}
-        <mesh ref={leftLegRef} position={[0.08, -0.12, 0]} material={limbMat}>
-          <boxGeometry args={[0.12, 0.3, 0.12]} />
-        </mesh>
-
+        <group ref={leftLegRef} position={[0.1, 0.2, 0]}>
+          <mesh position={[0, -0.17, 0]} material={limbMat}>
+            <boxGeometry args={[0.14, 0.28, 0.14]} />
+          </mesh>
+          <mesh position={[0, -0.33, 0.02]} material={shoeMat}>
+            <boxGeometry args={[0.15, 0.08, 0.2]} />
+          </mesh>
+        </group>
         {/* Right Leg */}
-        <mesh ref={rightLegRef} position={[-0.08, -0.12, 0]} material={limbMat}>
-          <boxGeometry args={[0.12, 0.3, 0.12]} />
-        </mesh>
+        <group ref={rightLegRef} position={[-0.1, 0.2, 0]}>
+          <mesh position={[0, -0.17, 0]} material={limbMat}>
+            <boxGeometry args={[0.14, 0.28, 0.14]} />
+          </mesh>
+          <mesh position={[0, -0.33, 0.02]} material={shoeMat}>
+            <boxGeometry args={[0.15, 0.08, 0.2]} />
+          </mesh>
+        </group>
       </group>
     </group>
   );
 }
 
-// ─── 3D PLATFORM ────────────────────────────────────
-function PlatformMesh({ plat, gameRef }: { plat: Platform; gameRef: React.RefObject<GameData> }) {
+// ─── PLATFORM MESH ──────────────────────────────────
+function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: React.RefObject<GameData>; isGoal: boolean }) {
   const meshRef = useRef<THREE.Mesh>(null);
+  const glowRef = useRef<THREE.PointLight>(null);
 
   const color = useMemo(() => {
+    if (isGoal) return "#FFD700";
     if (plat.type === "moving") return "#00FF88";
     if (plat.type === "crumble") return "#FF2D78";
     if (plat.type === "small") return "#FFD700";
     return "#00D4FF";
-  }, [plat.type]);
+  }, [plat.type, isGoal]);
 
   const mat = useMemo(() => new THREE.MeshStandardMaterial({
     color,
     emissive: color,
-    emissiveIntensity: 0.4,
+    emissiveIntensity: isGoal ? 0.6 : 0.35,
     transparent: true,
     opacity: 1,
-  }), [color]);
+  }), [color, isGoal]);
 
   useFrame(() => {
     if (!meshRef.current || !gameRef.current) return;
     const g = gameRef.current;
 
-    // Moving platform
-    if (plat.type === "moving" && plat.origX !== undefined) {
-      plat.x = plat.origX + Math.sin(g.time * 0.03 * (plat.moveSpeed || 1)) * (plat.moveRange || 1);
-    }
-
-    // Crumble
-    if (plat.type === "crumble" && plat.touched) {
-      const t = plat.crumbleTimer || 0;
-      mat.opacity = Math.max(0, 1 - t / 30);
-      if (t > 30) {
-        meshRef.current.visible = false;
-        return;
+    if (plat.type === "moving") {
+      if (plat.moveAxis === "x" && plat.origX !== undefined) {
+        plat.x = plat.origX + Math.sin(g.time * 0.03 * (plat.moveSpeed || 1)) * (plat.moveRange || 1);
+      } else if (plat.moveAxis === "z" && plat.origZ !== undefined) {
+        plat.z = plat.origZ + Math.sin(g.time * 0.03 * (plat.moveSpeed || 1)) * (plat.moveRange || 1);
       }
     }
 
-    meshRef.current.position.set(plat.x, plat.y, 0);
-    meshRef.current.visible = true;
-  });
+    if (plat.type === "crumble" && plat.touched) {
+      const t = plat.crumbleTimer || 0;
+      mat.opacity = Math.max(0, 1 - t / 40);
+      if (t > 40) { meshRef.current.visible = false; return; }
+    }
 
-  return (
-    <mesh ref={meshRef} position={[plat.x, plat.y, 0]} material={mat}>
-      <boxGeometry args={[plat.w, PLAT_H, 0.8]} />
-    </mesh>
-  );
-}
+    meshRef.current.position.set(plat.x, plat.y, plat.z);
 
-// ─── GOAL CARD (3D) ─────────────────────────────────
-function GoalCard({ goalY, gameRef }: { goalY: number; gameRef: React.RefObject<GameData> }) {
-  const meshRef = useRef<THREE.Mesh>(null);
-  const glowRef = useRef<THREE.PointLight>(null);
-
-  useFrame(() => {
-    if (!meshRef.current || !gameRef.current) return;
-    const t = gameRef.current.time;
-    meshRef.current.rotation.y = t * 0.02;
-    meshRef.current.position.y = goalY + 1.2 + Math.sin(t * 0.04) * 0.15;
-    if (glowRef.current) {
-      glowRef.current.intensity = 2 + Math.sin(t * 0.05) * 0.8;
-      glowRef.current.position.copy(meshRef.current.position);
+    if (isGoal && glowRef.current) {
+      glowRef.current.position.set(plat.x, plat.y + 1, plat.z);
+      glowRef.current.intensity = 3 + Math.sin(g.time * 0.04) * 1;
     }
   });
 
   return (
     <>
-      <mesh ref={meshRef} position={[WORLD_W / 2, goalY + 1.2, 0]}>
-        <boxGeometry args={[0.6, 0.8, 0.05]} />
-        <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={0.8} />
+      <mesh ref={meshRef} position={[plat.x, plat.y, plat.z]} material={mat} receiveShadow>
+        <boxGeometry args={[plat.w, 0.25, plat.d]} />
       </mesh>
-      <pointLight ref={glowRef} color="#FFD700" intensity={2} distance={5} position={[WORLD_W / 2, goalY + 1.2, 0]} />
+      {isGoal && (
+        <>
+          <pointLight ref={glowRef} color="#FFD700" intensity={3} distance={8} position={[plat.x, plat.y + 1, plat.z]} />
+          {/* Trophy floating above goal */}
+          <GoalTrophy pos={[plat.x, plat.y + 1.5, plat.z]} gameRef={gameRef} />
+        </>
+      )}
     </>
+  );
+}
+
+function GoalTrophy({ pos, gameRef }: { pos: number[]; gameRef: React.RefObject<GameData> }) {
+  const ref = useRef<THREE.Mesh>(null);
+  useFrame(() => {
+    if (!ref.current || !gameRef.current) return;
+    ref.current.rotation.y = gameRef.current.time * 0.02;
+    ref.current.position.y = pos[1] + Math.sin(gameRef.current.time * 0.03) * 0.2;
+  });
+  return (
+    <mesh ref={ref} position={[pos[0], pos[1], pos[2]]}>
+      <boxGeometry args={[0.5, 0.7, 0.08]} />
+      <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={0.8} />
+    </mesh>
   );
 }
 
 // ─── STARS ──────────────────────────────────────────
 function Stars() {
   const positions = useMemo(() => {
-    const arr = new Float32Array(300 * 3);
-    for (let i = 0; i < 300; i++) {
-      arr[i * 3] = (Math.random() - 0.5) * 30;
-      arr[i * 3 + 1] = Math.random() * LEVEL_HEIGHT * 1.5;
-      arr[i * 3 + 2] = -5 - Math.random() * 15;
+    const arr = new Float32Array(500 * 3);
+    for (let i = 0; i < 500; i++) {
+      const theta = Math.random() * Math.PI * 2;
+      const phi = Math.random() * Math.PI;
+      const r = 50 + Math.random() * 50;
+      arr[i * 3] = r * Math.sin(phi) * Math.cos(theta);
+      arr[i * 3 + 1] = Math.random() * 150;
+      arr[i * 3 + 2] = r * Math.sin(phi) * Math.sin(theta);
     }
     return arr;
   }, []);
@@ -365,22 +376,19 @@ function Stars() {
       <bufferGeometry>
         <bufferAttribute attach="attributes-position" args={[positions, 3]} />
       </bufferGeometry>
-      <pointsMaterial color="#ffffff" size={0.08} transparent opacity={0.5} sizeAttenuation />
+      <pointsMaterial color="#ffffff" size={0.15} transparent opacity={0.5} sizeAttenuation />
     </points>
   );
 }
 
-// ─── GAME LOOP + CAMERA ─────────────────────────────
-function GameLoop({
-  gameRef,
-  onDie,
-  onGoal,
-}: {
+// ─── GAME LOOP ──────────────────────────────────────
+function GameLoop({ gameRef, onDie, onGoal }: {
   gameRef: React.RefObject<GameData>;
   onDie: () => void;
   onGoal: () => void;
 }) {
   const { camera } = useThree();
+  const vec = useMemo(() => new THREE.Vector3(), []);
 
   useFrame((_, delta) => {
     if (!gameRef.current) return;
@@ -390,89 +398,107 @@ function GameLoop({
     const dt = Math.min(delta * 60, 3);
     g.time += dt;
 
-    // Input
-    if (g.moveLeft) {
-      g.velX = -MOVE_SPEED;
-      g.facingRight = false;
-    } else if (g.moveRight) {
-      g.velX = MOVE_SPEED;
-      g.facingRight = true;
+    // ─── MOVEMENT (relative to camera) ─────
+    const camAngle = g.camTheta;
+    const inputLen = Math.sqrt(g.moveX * g.moveX + g.moveZ * g.moveZ);
+    const speed = inputLen > 0.7 ? RUN_SPEED : MOVE_SPEED;
+    g.isRunning = inputLen > 0.7;
+
+    if (inputLen > 0.05) {
+      const inputAngle = Math.atan2(g.moveX, g.moveZ);
+      const worldAngle = camAngle + inputAngle;
+
+      g.vx = Math.sin(worldAngle) * speed * Math.min(inputLen, 1) * dt;
+      g.vz = Math.cos(worldAngle) * speed * Math.min(inputLen, 1) * dt;
+
+      // Face movement direction
+      g.facingAngle = worldAngle;
     } else {
-      g.velX *= 0.85;
+      g.vx *= 0.8;
+      g.vz *= 0.8;
     }
 
-    // Physics
-    g.velY -= GRAVITY * dt;
-    g.playerX += g.velX * dt;
-    g.playerY += g.velY * dt;
+    // Jump
+    if (g.jumpPressed && g.onGround && !g.jumpUsed) {
+      g.vy = JUMP_FORCE;
+      g.onGround = false;
+      g.jumpUsed = true;
+    }
+    if (!g.jumpPressed) {
+      g.jumpUsed = false;
+    }
 
-    // Wrap horizontal
-    if (g.playerX < -0.5) g.playerX = WORLD_W + 0.5;
-    if (g.playerX > WORLD_W + 0.5) g.playerX = -0.5;
+    // Gravity
+    g.vy -= GRAVITY * dt;
 
-    // Platform collision (only when falling)
+    // Apply velocity
+    g.px += g.vx;
+    g.py += g.vy * dt;
+    g.pz += g.vz;
+
+    // ─── PLATFORM COLLISION ─────
     g.onGround = false;
     for (const plat of g.platforms) {
-      // Update moving
-      if (plat.type === "moving" && plat.origX !== undefined) {
-        plat.x = plat.origX + Math.sin(g.time * 0.03 * (plat.moveSpeed || 1)) * (plat.moveRange || 1);
-      }
-
-      // Update crumble
       if (plat.type === "crumble" && plat.touched) {
         plat.crumbleTimer = (plat.crumbleTimer || 0) + dt;
-        if ((plat.crumbleTimer || 0) > 30) continue;
+        if ((plat.crumbleTimer || 0) > 40) continue;
       }
 
-      // Collision check (when falling)
-      if (g.velY <= 0) {
-        const halfW = plat.w / 2;
-        const withinX = g.playerX > plat.x - halfW && g.playerX < plat.x + halfW;
-        const feetY = g.playerY;
-        const platTop = plat.y + PLAT_H / 2;
-        const withinY = feetY >= platTop - 0.15 && feetY <= platTop + 0.1;
+      // Only check when falling
+      if (g.vy > 0) continue;
 
-        if (withinX && withinY) {
-          g.playerY = platTop + 0.01;
-          g.velY = JUMP_FORCE;
-          g.onGround = true;
+      const halfW = plat.w / 2;
+      const halfD = plat.d / 2;
+      const platTop = plat.y + 0.125;
 
-          if (plat.type === "crumble") {
-            plat.touched = true;
-          }
-        }
+      const withinX = g.px > plat.x - halfW + 0.1 && g.px < plat.x + halfW - 0.1;
+      const withinZ = g.pz > plat.z - halfD + 0.1 && g.pz < plat.z + halfD - 0.1;
+      const withinY = g.py >= platTop - 0.3 && g.py <= platTop + 0.15;
+
+      if (withinX && withinZ && withinY) {
+        g.py = platTop + 0.01;
+        g.vy = 0;
+        g.onGround = true;
+
+        if (plat.type === "crumble") plat.touched = true;
       }
     }
 
-    // Camera follow (smooth)
-    const targetCamY = g.playerY + 2;
-    g.cameraY += (targetCamY - g.cameraY) * 0.05 * dt;
-    camera.position.set(WORLD_W / 2, g.cameraY, 12);
-    camera.lookAt(WORLD_W / 2, g.cameraY - 1, 0);
-
-    // Death check (fell too far below camera)
-    if (g.playerY < g.cameraY - 8) {
+    // ─── DEATH (fell too far) ────────
+    if (g.py < -10) {
       g.dead = true;
       onDie();
       return;
     }
 
-    // Goal check
-    if (g.playerY >= g.goalY - 0.5) {
-      g.levelComplete = true;
-      onGoal();
+    // ─── GOAL CHECK ──────────────────
+    const goal = g.platforms[g.goalIdx];
+    if (goal) {
+      const dx = g.px - goal.x;
+      const dz = g.pz - goal.z;
+      const dist = Math.sqrt(dx * dx + dz * dz);
+      if (dist < 1.5 && g.py > goal.y - 0.5 && g.py < goal.y + 2) {
+        g.levelComplete = true;
+        onGoal();
+        return;
+      }
     }
+
+    // ─── CAMERA ──────────────────────
+    const camX = g.px - Math.sin(g.camTheta) * CAM_DISTANCE;
+    const camZ = g.pz - Math.cos(g.camTheta) * CAM_DISTANCE;
+    const camY = g.py + CAM_HEIGHT + Math.sin(g.camPhi) * 2;
+
+    vec.set(camX, camY, camZ);
+    camera.position.lerp(vec, 0.08 * dt);
+    camera.lookAt(g.px, g.py + 0.8, g.pz);
   });
 
   return null;
 }
 
-// ─── 3D SCENE ───────────────────────────────────────
-function Scene3D({
-  gameRef,
-  onDie,
-  onGoal,
-}: {
+// ─── SCENE ──────────────────────────────────────────
+function Scene3D({ gameRef, onDie, onGoal }: {
   gameRef: React.RefObject<GameData>;
   onDie: () => void;
   onGoal: () => void;
@@ -482,34 +508,89 @@ function Scene3D({
 
   return (
     <>
-      <ambientLight intensity={0.3} />
-      <directionalLight position={[5, 10, 5]} intensity={0.6} />
+      <ambientLight intensity={0.25} />
+      <directionalLight position={[10, 20, 10]} intensity={0.7} castShadow />
+      <hemisphereLight args={["#0044AA", "#000022", 0.3]} />
+
+      <fog attach="fog" args={["#050510", 20, 80]} />
 
       <Stars />
 
-      {/* Platforms */}
       {g.platforms.map((plat, i) => (
-        <PlatformMesh key={i} plat={plat} gameRef={gameRef} />
+        <PlatformMesh key={i} plat={plat} gameRef={gameRef} isGoal={i === g.goalIdx} />
       ))}
 
-      {/* Goal card */}
-      <GoalCard goalY={g.goalY} gameRef={gameRef} />
-
-      {/* Character */}
       <Character gameRef={gameRef} />
-
-      {/* Side walls (visual guide) */}
-      <mesh position={[-0.1, LEVEL_HEIGHT / 2, 0]}>
-        <boxGeometry args={[0.02, LEVEL_HEIGHT * 2, 1]} />
-        <meshStandardMaterial color="#ffffff" transparent opacity={0.03} />
-      </mesh>
-      <mesh position={[WORLD_W + 0.1, LEVEL_HEIGHT / 2, 0]}>
-        <boxGeometry args={[0.02, LEVEL_HEIGHT * 2, 1]} />
-        <meshStandardMaterial color="#ffffff" transparent opacity={0.03} />
-      </mesh>
 
       <GameLoop gameRef={gameRef} onDie={onDie} onGoal={onGoal} />
     </>
+  );
+}
+
+// ─── VIRTUAL JOYSTICK ───────────────────────────────
+function VirtualJoystick({ gameRef }: { gameRef: React.RefObject<GameData> }) {
+  const stickRef = useRef<HTMLDivElement>(null);
+  const knobRef = useRef<HTMLDivElement>(null);
+  const touchIdRef = useRef<number | null>(null);
+  const originRef = useRef({ x: 0, y: 0 });
+
+  const handleStart = useCallback((e: React.TouchEvent) => {
+    const touch = e.changedTouches[0];
+    if (!touch || !stickRef.current) return;
+    touchIdRef.current = touch.identifier;
+    const rect = stickRef.current.getBoundingClientRect();
+    originRef.current = { x: rect.left + rect.width / 2, y: rect.top + rect.height / 2 };
+  }, []);
+
+  const handleMove = useCallback((e: React.TouchEvent) => {
+    if (touchIdRef.current === null || !gameRef.current) return;
+    for (let i = 0; i < e.touches.length; i++) {
+      const t = e.touches[i];
+      if (t.identifier === touchIdRef.current) {
+        const dx = t.clientX - originRef.current.x;
+        const dy = t.clientY - originRef.current.y;
+        const maxDist = 40;
+        const dist = Math.min(Math.sqrt(dx * dx + dy * dy), maxDist);
+        const angle = Math.atan2(dx, dy);
+
+        const nx = (dist / maxDist) * Math.sin(angle);
+        const nz = (dist / maxDist) * Math.cos(angle);
+
+        gameRef.current.moveX = nx;
+        gameRef.current.moveZ = nz;
+
+        if (knobRef.current) {
+          const kx = Math.sin(angle) * Math.min(dist, maxDist);
+          const ky = -Math.cos(angle) * Math.min(dist, maxDist);
+          knobRef.current.style.transform = `translate(${kx}px, ${-ky}px)`;
+        }
+        break;
+      }
+    }
+  }, [gameRef]);
+
+  const handleEnd = useCallback(() => {
+    touchIdRef.current = null;
+    if (gameRef.current) {
+      gameRef.current.moveX = 0;
+      gameRef.current.moveZ = 0;
+    }
+    if (knobRef.current) {
+      knobRef.current.style.transform = "translate(0px, 0px)";
+    }
+  }, [gameRef]);
+
+  return (
+    <div
+      ref={stickRef}
+      className="absolute bottom-8 left-8 w-28 h-28 rounded-full bg-white/5 border border-white/10 flex items-center justify-center"
+      onTouchStart={handleStart}
+      onTouchMove={handleMove}
+      onTouchEnd={handleEnd}
+      onTouchCancel={handleEnd}
+    >
+      <div ref={knobRef} className="w-12 h-12 rounded-full bg-white/15 border border-white/20" />
+    </div>
   );
 }
 
@@ -521,87 +602,130 @@ export default function SkyClimbPage() {
   const [rewardRarity, setRewardRarity] = useState<CardRarity>("bronze");
   const gameRef = useRef<GameData>(createGameData());
 
-  // Load highest level
   useEffect(() => {
     const saved = localStorage.getItem("plizio_skyclimb_highest");
     if (saved) setHighestLevel(parseInt(saved));
   }, []);
 
-  // Controls
+  // Keyboard + mouse controls
   useEffect(() => {
     if (gameState !== "playing") return;
     const g = gameRef.current;
-
-    const handleTouchStart = (e: TouchEvent) => {
-      e.preventDefault();
-      const x = e.touches[0].clientX;
-      const mid = window.innerWidth / 2;
-      g.moveLeft = x < mid;
-      g.moveRight = x >= mid;
-    };
-
-    const handleTouchEnd = (e: TouchEvent) => {
-      e.preventDefault();
-      if (e.touches.length === 0) {
-        g.moveLeft = false;
-        g.moveRight = false;
-      }
-    };
+    const keys = new Set<string>();
 
     const handleKeyDown = (e: KeyboardEvent) => {
-      if (e.key === "ArrowLeft" || e.key === "a") g.moveLeft = true;
-      if (e.key === "ArrowRight" || e.key === "d") g.moveRight = true;
+      keys.add(e.key.toLowerCase());
+      if (e.key === " ") { e.preventDefault(); g.jumpPressed = true; }
+      updateMovement();
     };
 
     const handleKeyUp = (e: KeyboardEvent) => {
-      if (e.key === "ArrowLeft" || e.key === "a") g.moveLeft = false;
-      if (e.key === "ArrowRight" || e.key === "d") g.moveRight = false;
+      keys.delete(e.key.toLowerCase());
+      if (e.key === " ") g.jumpPressed = false;
+      updateMovement();
     };
 
-    window.addEventListener("touchstart", handleTouchStart, { passive: false });
-    window.addEventListener("touchend", handleTouchEnd, { passive: false });
-    window.addEventListener("touchcancel", handleTouchEnd, { passive: false });
+    function updateMovement() {
+      let mx = 0, mz = 0;
+      if (keys.has("w") || keys.has("arrowup")) mz = 1;
+      if (keys.has("s") || keys.has("arrowdown")) mz = -1;
+      if (keys.has("a") || keys.has("arrowleft")) mx = -1;
+      if (keys.has("d") || keys.has("arrowright")) mx = 1;
+      g.moveX = mx;
+      g.moveZ = mz;
+    }
+
+    // Mouse for camera orbit
+    let isMouseDown = false;
+    let lastMouseX = 0;
+
+    const handleMouseDown = (e: MouseEvent) => {
+      isMouseDown = true;
+      lastMouseX = e.clientX;
+    };
+
+    const handleMouseMove = (e: MouseEvent) => {
+      if (!isMouseDown) return;
+      const dx = e.clientX - lastMouseX;
+      lastMouseX = e.clientX;
+      g.camTheta += dx * 0.005;
+    };
+
+    const handleMouseUp = () => { isMouseDown = false; };
+
+    // Touch camera orbit (two-finger or right side drag)
+    let camTouchId: number | null = null;
+    let camLastX = 0;
+
+    const handleTouchStart = (e: TouchEvent) => {
+      // Check if touch is on right side (for camera), excluding jump button area
+      for (let i = 0; i < e.changedTouches.length; i++) {
+        const t = e.changedTouches[i];
+        const rightSide = t.clientX > window.innerWidth * 0.5;
+        const notJumpBtn = t.clientY < window.innerHeight - 200;
+        if (rightSide && notJumpBtn && camTouchId === null) {
+          camTouchId = t.identifier;
+          camLastX = t.clientX;
+        }
+      }
+    };
+
+    const handleTouchMove = (e: TouchEvent) => {
+      for (let i = 0; i < e.touches.length; i++) {
+        const t = e.touches[i];
+        if (t.identifier === camTouchId) {
+          const dx = t.clientX - camLastX;
+          camLastX = t.clientX;
+          g.camTheta += dx * 0.008;
+        }
+      }
+    };
+
+    const handleTouchEnd = (e: TouchEvent) => {
+      for (let i = 0; i < e.changedTouches.length; i++) {
+        if (e.changedTouches[i].identifier === camTouchId) {
+          camTouchId = null;
+        }
+      }
+    };
+
     window.addEventListener("keydown", handleKeyDown);
     window.addEventListener("keyup", handleKeyUp);
+    window.addEventListener("mousedown", handleMouseDown);
+    window.addEventListener("mousemove", handleMouseMove);
+    window.addEventListener("mouseup", handleMouseUp);
+    window.addEventListener("touchstart", handleTouchStart, { passive: true });
+    window.addEventListener("touchmove", handleTouchMove, { passive: true });
+    window.addEventListener("touchend", handleTouchEnd, { passive: true });
 
     return () => {
-      window.removeEventListener("touchstart", handleTouchStart);
-      window.removeEventListener("touchend", handleTouchEnd);
-      window.removeEventListener("touchcancel", handleTouchEnd);
       window.removeEventListener("keydown", handleKeyDown);
       window.removeEventListener("keyup", handleKeyUp);
-      g.moveLeft = false;
-      g.moveRight = false;
+      window.removeEventListener("mousedown", handleMouseDown);
+      window.removeEventListener("mousemove", handleMouseMove);
+      window.removeEventListener("mouseup", handleMouseUp);
+      window.removeEventListener("touchstart", handleTouchStart);
+      window.removeEventListener("touchmove", handleTouchMove);
+      window.removeEventListener("touchend", handleTouchEnd);
+      g.moveX = 0;
+      g.moveZ = 0;
+      g.jumpPressed = false;
     };
   }, [gameState]);
 
   const startGame = useCallback((lvl: number) => {
-    const { platforms, goalY } = generateLevel(lvl);
+    const { platforms, goalIdx } = generateLevel(lvl);
     const g = gameRef.current;
-    g.playerX = WORLD_W / 2;
-    g.playerY = 0.8;
-    g.velX = 0;
-    g.velY = 0;
-    g.onGround = false;
+    Object.assign(g, createGameData());
     g.platforms = platforms;
-    g.goalY = goalY;
-    g.cameraY = 2;
-    g.moveLeft = false;
-    g.moveRight = false;
-    g.dead = false;
-    g.levelComplete = false;
+    g.goalIdx = goalIdx;
     g.level = lvl;
-    g.time = 0;
-    g.facingRight = true;
-    g.walkCycle = 0;
-
+    g.py = 1;
     setLevel(lvl);
     setGameState("playing");
   }, []);
 
-  const handleDie = useCallback(() => {
-    setGameState("dead");
-  }, []);
+  const handleDie = useCallback(() => setGameState("dead"), []);
 
   const handleGoal = useCallback(() => {
     const g = gameRef.current;
@@ -623,20 +747,11 @@ export default function SkyClimbPage() {
   }, []);
 
   return (
-    <main className="min-h-screen flex flex-col items-center justify-center bg-bg relative">
+    <main className="min-h-screen flex flex-col items-center justify-center bg-bg relative overflow-hidden">
       {/* Menu */}
       {gameState === "menu" && (
-        <motion.div
-          className="flex flex-col items-center gap-8"
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-        >
-          <Mountain
-            size={48}
-            className="text-neon-green"
-            style={{ filter: "drop-shadow(0 0 15px rgba(0,255,136,0.5))" }}
-          />
-
+        <motion.div className="flex flex-col items-center gap-8" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+          <Mountain size={48} className="text-neon-green" style={{ filter: "drop-shadow(0 0 15px rgba(0,255,136,0.5))" }} />
           <div className="flex flex-wrap items-center justify-center gap-2 max-w-xs">
             {Array.from({ length: Math.min(highestLevel + 1, 20) }, (_, i) => i + 1).map((lvl) => {
               const unlocked = lvl <= highestLevel;
@@ -646,19 +761,12 @@ export default function SkyClimbPage() {
                   key={lvl}
                   onClick={() => (unlocked || isNext) ? startGame(lvl) : null}
                   className={`w-12 h-12 rounded-xl flex items-center justify-center text-sm font-bold border-2 ${
-                    unlocked
-                      ? "bg-card border-neon-green/30 text-neon-green"
-                      : isNext
-                      ? "bg-card border-gold/30 text-gold"
-                      : "bg-card/50 border-white/5 text-white/10"
+                    unlocked ? "bg-card border-neon-green/30 text-neon-green"
+                    : isNext ? "bg-card border-gold/30 text-gold"
+                    : "bg-card/50 border-white/5 text-white/10"
                   }`}
-                  style={
-                    unlocked
-                      ? { boxShadow: "0 0 10px rgba(0,255,136,0.15)" }
-                      : isNext
-                      ? { boxShadow: "0 0 10px rgba(255,215,0,0.15)" }
-                      : undefined
-                  }
+                  style={unlocked ? { boxShadow: "0 0 10px rgba(0,255,136,0.15)" }
+                    : isNext ? { boxShadow: "0 0 10px rgba(255,215,0,0.15)" } : undefined}
                   whileHover={(unlocked || isNext) ? { scale: 1.1 } : {}}
                   whileTap={(unlocked || isNext) ? { scale: 0.95 } : {}}
                   disabled={!unlocked && !isNext}
@@ -668,16 +776,10 @@ export default function SkyClimbPage() {
               );
             })}
           </div>
-
           {highestLevel > 1 && (
-            <motion.div
-              className="flex items-center gap-2 text-neon-green/50 text-sm font-bold"
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              transition={{ delay: 0.3 }}
-            >
-              <Trophy size={14} />
-              LVL {highestLevel}
+            <motion.div className="flex items-center gap-2 text-neon-green/50 text-sm font-bold"
+              initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.3 }}>
+              <Trophy size={14} /> LVL {highestLevel}
             </motion.div>
           )}
         </motion.div>
@@ -685,28 +787,40 @@ export default function SkyClimbPage() {
 
       {/* 3D Game */}
       {gameState === "playing" && (
-        <div className="w-full h-screen touch-none">
-          <Canvas
-            camera={{ position: [WORLD_W / 2, 4, 12], fov: 55 }}
-            gl={{ antialias: true }}
-            style={{ background: "#050510" }}
-          >
+        <div className="fixed inset-0 touch-none">
+          <Canvas camera={{ fov: 60 }} gl={{ antialias: true }} style={{ background: "#050510" }}>
             <Scene3D gameRef={gameRef} onDie={handleDie} onGoal={handleGoal} />
           </Canvas>
 
-          {/* HUD overlay */}
+          {/* HUD */}
           <div className="fixed top-4 left-0 right-0 z-10 flex justify-center pointer-events-none">
-            <div className="bg-black/30 backdrop-blur-sm rounded-xl px-4 py-2 flex items-center gap-3">
+            <div className="bg-black/40 backdrop-blur-sm rounded-xl px-4 py-2 flex items-center gap-3">
               <Mountain size={14} className="text-neon-green" />
-              <span className="text-white/40 font-mono text-sm font-bold">LVL {level}</span>
+              <span className="text-white/50 font-mono text-sm font-bold">LVL {level}</span>
             </div>
           </div>
 
-          {/* Touch hint */}
-          <div className="fixed bottom-8 left-0 right-0 z-10 flex justify-center pointer-events-none">
-            <div className="flex gap-12 text-white/10 text-xs font-bold">
-              <span>◀ TAP</span>
-              <span>TAP ▶</span>
+          {/* Mobile controls */}
+          <div className="fixed inset-0 z-10 pointer-events-none sm:hidden">
+            <div className="pointer-events-auto">
+              <VirtualJoystick gameRef={gameRef} />
+            </div>
+            {/* Jump button */}
+            <button
+              className="pointer-events-auto absolute bottom-8 right-8 w-20 h-20 rounded-full bg-neon-green/15 border-2 border-neon-green/30 flex items-center justify-center active:bg-neon-green/30 active:scale-95 transition-transform"
+              onTouchStart={(e) => { e.preventDefault(); if (gameRef.current) gameRef.current.jumpPressed = true; }}
+              onTouchEnd={(e) => { e.preventDefault(); if (gameRef.current) gameRef.current.jumpPressed = false; }}
+            >
+              <ArrowUp size={28} className="text-neon-green" />
+            </button>
+          </div>
+
+          {/* PC controls hint */}
+          <div className="fixed bottom-4 left-0 right-0 z-10 hidden sm:flex justify-center pointer-events-none">
+            <div className="bg-black/30 backdrop-blur-sm rounded-lg px-3 py-1.5 flex items-center gap-4 text-white/20 text-xs font-mono">
+              <span>WASD</span>
+              <span>SPACE ↑</span>
+              <span>MOUSE ↻</span>
             </div>
           </div>
         </div>
@@ -715,38 +829,23 @@ export default function SkyClimbPage() {
       {/* Death */}
       <AnimatePresence>
         {gameState === "dead" && (
-          <motion.div
-            className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/70 backdrop-blur-sm px-4 gap-6"
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-          >
-            <motion.div
-              initial={{ scale: 2, opacity: 0 }}
-              animate={{ scale: 1, opacity: 1 }}
-              transition={{ type: "spring" }}
-            >
+          <motion.div className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/70 backdrop-blur-sm px-4 gap-6"
+            initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            <motion.div initial={{ scale: 2, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ type: "spring" }}>
               <Mountain size={56} className="text-neon-pink" style={{ filter: "drop-shadow(0 0 15px rgba(255,45,120,0.5))" }} />
             </motion.div>
-
             <motion.div className="text-white/30 text-sm font-bold" initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.3 }}>
               LVL {level}
             </motion.div>
-
             <motion.div className="flex gap-3" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.5 }}>
-              <motion.button
-                onClick={() => startGame(level)}
+              <motion.button onClick={() => startGame(level)}
                 className="bg-neon-green/10 border border-neon-green/30 text-neon-green px-6 py-3 rounded-xl flex items-center gap-2"
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-              >
+                whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
                 <RotateCcw size={18} />
               </motion.button>
-              <motion.button
-                onClick={() => setGameState("menu")}
+              <motion.button onClick={() => setGameState("menu")}
                 className="bg-neon-purple/10 border border-neon-purple/30 text-neon-purple px-6 py-3 rounded-xl flex items-center gap-2"
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-              >
+                whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
                 <Home size={18} />
               </motion.button>
             </motion.div>
@@ -756,53 +855,33 @@ export default function SkyClimbPage() {
 
       {/* Reward */}
       {gameState === "reward" && (
-        <RewardReveal
-          rarity={rewardRarity}
-          game="skyclimb"
-          score={level}
-          total={level}
-          onDone={() => setGameState("level-complete")}
-        />
+        <RewardReveal rarity={rewardRarity} game="skyclimb" score={level} total={level}
+          onDone={() => setGameState("level-complete")} />
       )}
 
       {/* Level complete */}
       <AnimatePresence>
         {gameState === "level-complete" && (
-          <motion.div
-            className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/70 backdrop-blur-sm px-4 gap-6"
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-          >
+          <motion.div className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/70 backdrop-blur-sm px-4 gap-6"
+            initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
             <motion.div initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ type: "spring" }}>
               <ArrowUp size={56} className="text-neon-green" style={{ filter: "drop-shadow(0 0 15px rgba(0,255,136,0.5))" }} />
             </motion.div>
-            <motion.div
-              className="text-neon-green text-2xl font-black"
-              style={{ textShadow: "0 0 15px rgba(0,255,136,0.4)" }}
-              initial={{ opacity: 0, y: 10 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: 0.3 }}
-            >
+            <motion.div className="text-neon-green text-2xl font-black" style={{ textShadow: "0 0 15px rgba(0,255,136,0.4)" }}
+              initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.3 }}>
               LVL {level}
             </motion.div>
             <motion.div className="flex gap-3" initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.5 }}>
               {level < 20 && (
-                <motion.button
-                  onClick={() => startGame(level + 1)}
+                <motion.button onClick={() => startGame(level + 1)}
                   className="bg-neon-green/10 border border-neon-green/30 text-neon-green px-6 py-3 rounded-xl flex items-center gap-2 font-bold text-sm"
-                  whileHover={{ scale: 1.05 }}
-                  whileTap={{ scale: 0.95 }}
-                >
-                  <ArrowUp size={18} />
-                  {level + 1}
+                  whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
+                  <ArrowUp size={18} /> {level + 1}
                 </motion.button>
               )}
-              <motion.button
-                onClick={() => setGameState("menu")}
+              <motion.button onClick={() => setGameState("menu")}
                 className="bg-neon-purple/10 border border-neon-purple/30 text-neon-purple px-6 py-3 rounded-xl flex items-center gap-2"
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-              >
+                whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
                 <Home size={18} />
               </motion.button>
             </motion.div>
@@ -813,7 +892,6 @@ export default function SkyClimbPage() {
   );
 }
 
-// ─── HELPERS ────────────────────────────────────────
 function getLevelRarity(level: number): CardRarity {
   if (level >= 15) return "legendary";
   if (level >= 8) return "gold";
