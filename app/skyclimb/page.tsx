@@ -407,17 +407,24 @@ function GameLoop({ gameRef, onDie, onGoal }: {
     g.isRunning = inputLen > 0.7;
 
     if (inputLen > 0.05) {
-      const inputAngle = Math.atan2(-g.moveX, -g.moveZ);
-      const worldAngle = camAngle + inputAngle;
+      // Camera forward direction (from camera toward player)
+      const fwdX = Math.sin(camAngle);
+      const fwdZ = Math.cos(camAngle);
+      // Camera right direction
+      const rightX = Math.cos(camAngle);
+      const rightZ = -Math.sin(camAngle);
 
-      // Smooth acceleration toward target velocity
-      const targetVx = Math.sin(worldAngle) * speed * Math.min(inputLen, 1) * dt;
-      const targetVz = Math.cos(worldAngle) * speed * Math.min(inputLen, 1) * dt;
+      // World movement = forward * moveZ + right * moveX
+      const worldDirX = fwdX * g.moveZ + rightX * g.moveX;
+      const worldDirZ = fwdZ * g.moveZ + rightZ * g.moveX;
+
+      const targetVx = worldDirX * speed * Math.min(inputLen, 1) * dt;
+      const targetVz = worldDirZ * speed * Math.min(inputLen, 1) * dt;
       g.vx += (targetVx - g.vx) * ACCEL;
       g.vz += (targetVz - g.vz) * ACCEL;
 
       // Face movement direction
-      g.facingAngle = worldAngle;
+      g.facingAngle = Math.atan2(worldDirX, worldDirZ);
     } else {
       g.vx *= FRICTION;
       g.vz *= FRICTION;
@@ -552,22 +559,26 @@ function VirtualJoystick({ gameRef }: { gameRef: React.RefObject<GameData> }) {
     for (let i = 0; i < e.touches.length; i++) {
       const t = e.touches[i];
       if (t.identifier === touchIdRef.current) {
-        const dx = t.clientX - originRef.current.x;
-        const dy = -(t.clientY - originRef.current.y); // Negate: screen Y down = game forward
+        const rawDx = t.clientX - originRef.current.x;
+        const rawDy = t.clientY - originRef.current.y;
         const maxDist = 40;
-        const dist = Math.min(Math.sqrt(dx * dx + dy * dy), maxDist);
-        const angle = Math.atan2(dx, dy);
+        const rawLen = Math.sqrt(rawDx * rawDx + rawDy * rawDy);
+        const dist = Math.min(rawLen, maxDist);
+        const norm = dist / maxDist;
 
-        const nx = (dist / maxDist) * Math.sin(angle);
-        const nz = (dist / maxDist) * Math.cos(angle);
+        if (rawLen > 2) {
+          // Right on screen = +moveX, Up on screen = +moveZ (forward)
+          gameRef.current.moveX = (rawDx / rawLen) * norm;
+          gameRef.current.moveZ = (-rawDy / rawLen) * norm;
+        } else {
+          gameRef.current.moveX = 0;
+          gameRef.current.moveZ = 0;
+        }
 
-        gameRef.current.moveX = nx;
-        gameRef.current.moveZ = nz;
-
-        if (knobRef.current) {
-          const kx = Math.sin(angle) * Math.min(dist, maxDist);
-          const ky = -Math.cos(angle) * Math.min(dist, maxDist);
-          knobRef.current.style.transform = `translate(${kx}px, ${-ky}px)`;
+        // Knob follows finger in screen coordinates
+        if (knobRef.current && rawLen > 0) {
+          const clamp = Math.min(rawLen, maxDist);
+          knobRef.current.style.transform = `translate(${(rawDx / rawLen) * clamp}px, ${(rawDy / rawLen) * clamp}px)`;
         }
         break;
       }
