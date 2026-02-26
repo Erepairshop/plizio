@@ -1,0 +1,22 @@
+[
+  { "itemA": "One Piece (episodes)", "valueA": 1100, "itemB": "Naruto (episodes)", "valueB": 720, "unit": "episodes" },
+  { "itemA": "Dragon Ball Z (episodes)", "valueA": 291, "itemB": "Bleach (episodes)", "valueB": 366, "unit": "episodes" },
+  { "itemA": "Attack on Titan (MAL score)", "valueA": 9.1, "itemB": "Death Note (MAL score)", "valueB": 8.6, "unit": "score" },
+  { "itemA": "Demon Slayer movie (box office)", "valueA": 504000000, "itemB": "Your Name movie (box office)", "valueB": 380000000, "unit": "USD" },
+  { "itemA": "Goku (power level Namek)", "valueA": 3000000, "itemB": "Frieza (power level final)", "valueB": 120000000, "unit": "power" },
+  { "itemA": "Naruto (MAL members)", "valueA": 2800000, "itemB": "One Piece (MAL members)", "valueB": 2200000, "unit": "members" },
+  { "itemA": "Jujutsu Kaisen S1 (episodes)", "valueA": 24, "itemB": "Chainsaw Man S1 (episodes)", "valueB": 12, "unit": "episodes" },
+  { "itemA": "Studio Ghibli films", "valueA": 23, "itemB": "Makoto Shinkai films", "valueB": 9, "unit": "films" },
+  { "itemA": "Pokémon (species total)", "valueA": 1025, "itemB": "Digimon (species total)", "valueB": 1400, "unit": "creatures" },
+  { "itemA": "My Hero Academia (chapters)", "valueA": 430, "itemB": "Black Clover (chapters)", "valueB": 370, "unit": "chapters" },
+  { "itemA": "One Punch Man (MAL score)", "valueA": 8.5, "itemB": "Mob Psycho 100 (MAL score)", "valueB": 8.5, "unit": "score" },
+  { "itemA": "Spirited Away (box office)", "valueA": 395000000, "itemB": "Princess Mononoke (box office)", "valueB": 170000000, "unit": "USD" },
+  { "itemA": "Luffy bounty (final)", "valueA": 3000000000, "itemB": "Gol D Roger bounty", "valueB": 5564800000, "unit": "berries" },
+  { "itemA": "Hunter x Hunter (chapters)", "valueA": 400, "itemB": "Berserk (chapters)", "valueB": 375, "unit": "chapters" },
+  { "itemA": "Anime fans worldwide", "valueA": 800000000, "itemB": "K-pop fans worldwide", "valueB": 200000000, "unit": "fans" },
+  { "itemA": "Fullmetal Alchemist (MAL score)", "valueA": 9.1, "itemB": "Steins;Gate (MAL score)", "valueB": 9.1, "unit": "score" },
+  { "itemA": "Demon Slayer (Twitter)", "valueA": 8000000, "itemB": "Jujutsu Kaisen (Twitter)", "valueB": 6000000, "unit": "followers" },
+  { "itemA": "Crunchyroll subscribers", "valueA": 13000000, "itemB": "Funimation peak subs", "valueB": 5000000, "unit": "users" },
+  { "itemA": "Naruto run speed (stated)", "valueA": 50, "itemB": "Goku flying speed", "valueB": 300000, "unit": "km/h" },
+  { "itemA": "Tokyo Ghoul (seasons)", "valueA": 4, "itemB": "Vinland Saga (seasons)", "valueB": 2, "unit": "seasons" }
+]
