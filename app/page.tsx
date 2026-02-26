@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Calendar, Layers, Star, User, ChevronDown, BookOpen, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Calendar, Layers, Star, User, ChevronDown, BookOpen, Car, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import Logo from "@/components/Logo";
 import GameCard from "@/components/GameCard";
@@ -71,6 +71,13 @@ const CATEGORIES: CategoryDef[] = [
         name: "Sky Climb",
         color: "#00FF88",
         gradient: "bg-gradient-to-br from-green-500/20 to-emerald-500/20",
+      },
+      {
+        id: "citydrive",
+        icon: Car,
+        name: "City Drive",
+        color: "#FF6B00",
+        gradient: "bg-gradient-to-br from-orange-500/20 to-red-500/20",
       },
     ],
   },
