@@ -162,7 +162,18 @@ export default function QuickPickPage() {
         setTotalTime(elapsed);
         const newStreak = updateStreak();
         setStreak(newStreak);
-        setGameState("result");
+        // Save card and show reward first
+        const rarity = calculateRarity(score + (correct ? 1 : 0), TOTAL_ROUNDS, newStreak);
+        saveCard({
+          id: generateCardId(),
+          game: "quickpick",
+          theme: selectedTheme,
+          rarity,
+          score: score + (correct ? 1 : 0),
+          total: TOTAL_ROUNDS,
+          date: new Date().toISOString(),
+        });
+        setGameState("reward");
       } else {
         setRound((r) => r + 1);
         setPicked(null);
@@ -438,7 +449,18 @@ export default function QuickPickPage() {
         )}
       </AnimatePresence>
 
-      {/* Result */}
+      {/* Reward Reveal - shows FIRST after game ends */}
+      {gameState === "reward" && (
+        <RewardReveal
+          rarity={calculateRarity(score, TOTAL_ROUNDS, streak)}
+          game="quickpick"
+          score={score}
+          total={TOTAL_ROUNDS}
+          onDone={() => setGameState("result")}
+        />
+      )}
+
+      {/* Result - shows AFTER reward */}
       {gameState === "result" && (
         <ResultCard
           score={score}
@@ -446,30 +468,7 @@ export default function QuickPickPage() {
           time={totalTime}
           gameName="Quick Pick"
           gameIcon={<Crosshair size={24} className="text-neon-pink" />}
-          onPlayAgain={() => {
-            const rarity = calculateRarity(score, TOTAL_ROUNDS, streak);
-            saveCard({
-              id: generateCardId(),
-              game: "quickpick",
-              theme: selectedTheme,
-              rarity,
-              score,
-              total: TOTAL_ROUNDS,
-              date: new Date().toISOString(),
-            });
-            setGameState("reward");
-          }}
-        />
-      )}
-
-      {/* Reward Reveal */}
-      {gameState === "reward" && (
-        <RewardReveal
-          rarity={calculateRarity(score, TOTAL_ROUNDS, streak)}
-          game="quickpick"
-          score={score}
-          total={TOTAL_ROUNDS}
-          onDone={handlePlayAgain}
+          onPlayAgain={handlePlayAgain}
         />
       )}
     </main>

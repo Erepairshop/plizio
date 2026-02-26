@@ -19,6 +19,7 @@ export default function ReflexGridPage() {
   const [countdown, setCountdown] = useState(3);
   const [grid, setGrid] = useState<CellState[]>(Array(TOTAL_CELLS).fill("idle"));
   const [score, setScore] = useState(0);
+  const [cardSaved, setCardSaved] = useState(false);
   const [timeLeft, setTimeLeft] = useState(GAME_DURATION);
   const [tappedCells, setTappedCells] = useState<Set<number>>(new Set());
   const [rippleCell, setRippleCell] = useState<number | null>(null);
@@ -43,7 +44,7 @@ export default function ReflexGridPage() {
     intervalRef.current = setInterval(() => {
       setTimeLeft((t) => {
         if (t <= 1) {
-          setGameState("result");
+          setGameState("reward");
           return 0;
         }
         return t - 1;
@@ -53,6 +54,24 @@ export default function ReflexGridPage() {
       if (intervalRef.current) clearInterval(intervalRef.current);
     };
   }, [gameState]);
+
+  // Save card when entering reward state
+  useEffect(() => {
+    if (gameState === "reward" && !cardSaved) {
+      const total = score + 10;
+      const rarity = calculateRarity(score, total, 0);
+      saveCard({
+        id: generateCardId(),
+        game: "reflexgrid",
+        theme: "general",
+        rarity,
+        score,
+        total,
+        date: new Date().toISOString(),
+      });
+      setCardSaved(true);
+    }
+  }, [gameState, score, cardSaved]);
 
   // Difficulty
   const getDifficulty = useCallback(() => {
@@ -144,6 +163,7 @@ export default function ReflexGridPage() {
     setScore(0);
     setTimeLeft(GAME_DURATION);
     setTappedCells(new Set());
+    setCardSaved(false);
     setCountdown(3);
     setGameState("countdown");
   };
@@ -265,7 +285,18 @@ export default function ReflexGridPage() {
         </div>
       )}
 
-      {/* Result */}
+      {/* Reward - shows FIRST */}
+      {gameState === "reward" && (
+        <RewardReveal
+          rarity={calculateRarity(score, score + 10, 0)}
+          game="reflexgrid"
+          score={score}
+          total={score + 10}
+          onDone={() => setGameState("result")}
+        />
+      )}
+
+      {/* Result - shows AFTER reward */}
       {gameState === "result" && (
         <ResultCard
           score={score}
@@ -273,31 +304,7 @@ export default function ReflexGridPage() {
           time={GAME_DURATION}
           gameName="Reflex Grid"
           gameIcon={<Zap size={24} className="text-neon-blue" />}
-          onPlayAgain={() => {
-            const total = score + 10;
-            const rarity = calculateRarity(score, total, 0);
-            saveCard({
-              id: generateCardId(),
-              game: "reflexgrid",
-              theme: "general",
-              rarity,
-              score,
-              total,
-              date: new Date().toISOString(),
-            });
-            setGameState("reward");
-          }}
-        />
-      )}
-
-      {/* Reward */}
-      {gameState === "reward" && (
-        <RewardReveal
-          rarity={calculateRarity(score, score + 10, 0)}
-          game="reflexgrid"
-          score={score}
-          total={score + 10}
-          onDone={handlePlayAgain}
+          onPlayAgain={handlePlayAgain}
         />
       )}
     </main>

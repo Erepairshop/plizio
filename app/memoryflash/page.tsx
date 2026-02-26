@@ -89,7 +89,20 @@ export default function MemoryFlashPage() {
       if (round + 1 >= TOTAL_ROUNDS) {
         const elapsed = Math.round((Date.now() - startTimeRef.current) / 1000);
         setTotalTime(elapsed);
-        setGameState("result");
+        // Save card and show reward first
+        const finalScore = score + (correct ? (round + 1) : 0);
+        const ms = TOTAL_ROUNDS * (TOTAL_ROUNDS + 1) / 2;
+        const rarity = calculateRarity(finalScore, ms, 0);
+        saveCard({
+          id: generateCardId(),
+          game: "memoryflash",
+          theme: "general",
+          rarity,
+          score: finalScore,
+          total: ms,
+          date: new Date().toISOString(),
+        });
+        setGameState("reward");
       } else {
         setRound((r) => r + 1);
         setSelectedAnswer(null);
@@ -301,7 +314,18 @@ export default function MemoryFlashPage() {
         )}
       </AnimatePresence>
 
-      {/* Result */}
+      {/* Reward - shows FIRST */}
+      {gameState === "reward" && (
+        <RewardReveal
+          rarity={calculateRarity(score, maxScore, 0)}
+          game="memoryflash"
+          score={score}
+          total={maxScore}
+          onDone={() => setGameState("result")}
+        />
+      )}
+
+      {/* Result - shows AFTER reward */}
       {gameState === "result" && (
         <ResultCard
           score={score}
@@ -309,30 +333,7 @@ export default function MemoryFlashPage() {
           time={totalTime}
           gameName="Memory Flash"
           gameIcon={<Brain size={24} className="text-neon-purple" />}
-          onPlayAgain={() => {
-            const rarity = calculateRarity(score, maxScore, 0);
-            saveCard({
-              id: generateCardId(),
-              game: "memoryflash",
-              theme: "general",
-              rarity,
-              score,
-              total: maxScore,
-              date: new Date().toISOString(),
-            });
-            setGameState("reward");
-          }}
-        />
-      )}
-
-      {/* Reward */}
-      {gameState === "reward" && (
-        <RewardReveal
-          rarity={calculateRarity(score, maxScore, 0)}
-          game="memoryflash"
-          score={score}
-          total={maxScore}
-          onDone={handlePlayAgain}
+          onPlayAgain={handlePlayAgain}
         />
       )}
     </main>
