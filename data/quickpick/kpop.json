@@ -1,0 +1,22 @@
+[
+  { "itemA": "Dynamite - BTS", "valueA": 1900000000, "itemB": "How You Like That - BLACKPINK", "valueB": 1100000000, "unit": "views" },
+  { "itemA": "Gangnam Style - PSY", "valueA": 5000000000, "itemB": "Boy With Luv - BTS", "valueB": 1700000000, "unit": "views" },
+  { "itemA": "BTS (Instagram)", "valueA": 73000000, "itemB": "BLACKPINK (Instagram)", "valueB": 65000000, "unit": "followers" },
+  { "itemA": "Butter - BTS", "valueA": 900000000, "itemB": "Kill This Love - BLACKPINK", "valueB": 1800000000, "unit": "views" },
+  { "itemA": "BLACKPINK (Spotify)", "valueA": 35000000, "itemB": "BTS (Spotify)", "valueB": 45000000, "unit": "monthly" },
+  { "itemA": "Jungkook (Solo)", "valueA": 60000000, "itemB": "Lisa (Solo)", "valueB": 45000000, "unit": "followers" },
+  { "itemA": "Pink Venom - BLACKPINK", "valueA": 800000000, "itemB": "Fake Love - BTS", "valueB": 1200000000, "unit": "views" },
+  { "itemA": "TWICE (Spotify)", "valueA": 20000000, "itemB": "Stray Kids (Spotify)", "valueB": 25000000, "unit": "monthly" },
+  { "itemA": "DNA - BTS", "valueA": 1800000000, "itemB": "DDU-DU DDU-DU - BLACKPINK", "valueB": 2200000000, "unit": "views" },
+  { "itemA": "SEVENTEEN members", "valueA": 13, "itemB": "EXO members", "valueB": 9, "unit": "members" },
+  { "itemA": "BTS debut year", "valueA": 2013, "itemB": "BLACKPINK debut year", "valueB": 2016, "unit": "year" },
+  { "itemA": "Idol - BTS", "valueA": 1100000000, "itemB": "Lovesick Girls - BLACKPINK", "valueB": 700000000, "unit": "views" },
+  { "itemA": "Stray Kids (Instagram)", "valueA": 30000000, "itemB": "TWICE (Instagram)", "valueB": 25000000, "unit": "followers" },
+  { "itemA": "MIC Drop - BTS", "valueA": 1500000000, "itemB": "Boombayah - BLACKPINK", "valueB": 1600000000, "unit": "views" },
+  { "itemA": "Super Shy - NewJeans", "valueA": 400000000, "itemB": "Cupid - FIFTY FIFTY", "valueB": 500000000, "unit": "streams" },
+  { "itemA": "aespa (Spotify)", "valueA": 15000000, "itemB": "NewJeans (Spotify)", "valueB": 22000000, "unit": "monthly" },
+  { "itemA": "V (BTS) Instagram", "valueA": 65000000, "itemB": "Jennie (BLACKPINK) Instagram", "valueB": 85000000, "unit": "followers" },
+  { "itemA": "Spring Day - BTS", "valueA": 600000000, "itemB": "As If It's Your Last - BLACKPINK", "valueB": 1200000000, "unit": "views" },
+  { "itemA": "HYBE artists total", "valueA": 100, "itemB": "YG artists total", "valueB": 30, "unit": "artists" },
+  { "itemA": "BTS Grammy noms", "valueA": 7, "itemB": "BLACKPINK Grammy noms", "valueB": 1, "unit": "nominations" }
+]

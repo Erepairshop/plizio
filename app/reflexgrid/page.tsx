@@ -4,9 +4,11 @@ import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Zap, Trophy, Timer, AlertTriangle } from "lucide-react";
 import ResultCard from "@/components/ResultCard";
+import RewardReveal from "@/components/RewardReveal";
+import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 
 type CellState = "idle" | "green" | "red";
-type GameState = "countdown" | "playing" | "result";
+type GameState = "countdown" | "playing" | "result" | "reward";
 
 const GRID_SIZE = 4;
 const GAME_DURATION = 60;
@@ -271,7 +273,31 @@ export default function ReflexGridPage() {
           time={GAME_DURATION}
           gameName="Reflex Grid"
           gameIcon={<Zap size={24} className="text-neon-blue" />}
-          onPlayAgain={handlePlayAgain}
+          onPlayAgain={() => {
+            const total = score + 10;
+            const rarity = calculateRarity(score, total, 0);
+            saveCard({
+              id: generateCardId(),
+              game: "reflexgrid",
+              theme: "general",
+              rarity,
+              score,
+              total,
+              date: new Date().toISOString(),
+            });
+            setGameState("reward");
+          }}
+        />
+      )}
+
+      {/* Reward */}
+      {gameState === "reward" && (
+        <RewardReveal
+          rarity={calculateRarity(score, score + 10, 0)}
+          game="reflexgrid"
+          score={score}
+          total={score + 10}
+          onDone={handlePlayAgain}
         />
       )}
     </main>

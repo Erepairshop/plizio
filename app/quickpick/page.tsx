@@ -2,9 +2,25 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Crosshair, Trophy, CheckCircle, XCircle, ArrowUp, Flame } from "lucide-react";
+import { Crosshair, Trophy, CheckCircle, XCircle, ArrowUp, Flame, Globe, Music, CircleDot } from "lucide-react";
 import ResultCard from "@/components/ResultCard";
+import RewardReveal from "@/components/RewardReveal";
+import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import generalData from "@/data/quickpick/general.json";
+import kpopData from "@/data/quickpick/kpop.json";
+import footballData from "@/data/quickpick/football.json";
+
+const THEME_DATA: Record<string, Question[]> = {
+  general: generalData as Question[],
+  kpop: kpopData as Question[],
+  football: footballData as Question[],
+};
+
+const THEMES = [
+  { id: "general", icon: Globe, label: "GEN", color: "#00D4FF" },
+  { id: "kpop", icon: Music, label: "K-POP", color: "#FF2D78" },
+  { id: "football", icon: CircleDot, label: "GOAL", color: "#00FF88" },
+];
 
 interface Question {
   itemA: string;
@@ -14,7 +30,7 @@ interface Question {
   unit: string;
 }
 
-type GameState = "countdown" | "playing" | "reveal" | "result";
+type GameState = "theme-select" | "countdown" | "playing" | "reveal" | "result" | "reward";
 
 function formatNumber(n: number): string {
   if (n >= 1_000_000_000) return `${(n / 1_000_000_000).toFixed(1)}B`;
@@ -64,7 +80,8 @@ function updateStreak(): number {
 const TOTAL_ROUNDS = 10;
 
 export default function QuickPickPage() {
-  const [gameState, setGameState] = useState<GameState>("countdown");
+  const [gameState, setGameState] = useState<GameState>("theme-select");
+  const [selectedTheme, setSelectedTheme] = useState("general");
   const [countdown, setCountdown] = useState(3);
   const [round, setRound] = useState(0);
   const [score, setScore] = useState(0);
@@ -81,12 +98,13 @@ export default function QuickPickPage() {
     setStreak(getStreak());
   }, []);
 
-  // Load questions
-  useEffect(() => {
-    const data = generalData as Question[];
+  const startGame = (themeId: string) => {
+    setSelectedTheme(themeId);
+    const data = THEME_DATA[themeId] || THEME_DATA.general;
     const shuffled = shuffleArray(data).slice(0, TOTAL_ROUNDS);
     setQuestions(shuffled);
-  }, []);
+    setGameState("countdown");
+  };
 
   // Countdown
   useEffect(() => {
@@ -155,20 +173,17 @@ export default function QuickPickPage() {
   };
 
   const handlePlayAgain = () => {
-    const data = generalData as Question[];
-    const shuffled = shuffleArray(data).slice(0, TOTAL_ROUNDS);
-    setQuestions(shuffled);
     setRound(0);
     setScore(0);
     setPicked(null);
     setIsCorrect(null);
     setCountdown(3);
-    setGameState("countdown");
+    setGameState("theme-select");
   };
 
   const currentQ = questions[round];
 
-  if (!currentQ && gameState !== "result") {
+  if (!currentQ && gameState !== "result" && gameState !== "theme-select" && gameState !== "reward") {
     return (
       <div className="min-h-screen flex items-center justify-center">
         <motion.div
@@ -183,6 +198,54 @@ export default function QuickPickPage() {
 
   return (
     <main className="min-h-screen flex flex-col items-center justify-center px-4 relative">
+      {/* Theme Select */}
+      {gameState === "theme-select" && (
+        <motion.div
+          className="flex flex-col items-center gap-8"
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+        >
+          <Crosshair size={40} className="text-neon-pink" style={{ filter: "drop-shadow(0 0 15px rgba(255,45,120,0.5))" }} />
+
+          <div className="flex gap-3">
+            {THEMES.map((theme) => {
+              const Icon = theme.icon;
+              return (
+                <motion.button
+                  key={theme.id}
+                  onClick={() => startGame(theme.id)}
+                  className="bg-card border border-white/5 rounded-2xl p-5 flex flex-col items-center gap-2.5 w-24"
+                  style={{ boxShadow: `0 0 0 0px ${theme.color}` }}
+                  whileHover={{
+                    scale: 1.08,
+                    borderColor: `${theme.color}60`,
+                    boxShadow: `0 0 20px ${theme.color}20`,
+                  }}
+                  whileTap={{ scale: 0.95 }}
+                >
+                  <Icon size={28} style={{ color: theme.color, filter: `drop-shadow(0 0 6px ${theme.color}40)` }} />
+                  <span className="text-[10px] font-bold tracking-widest" style={{ color: theme.color }}>
+                    {theme.label}
+                  </span>
+                </motion.button>
+              );
+            })}
+          </div>
+
+          {streak > 0 && (
+            <motion.div
+              className="flex items-center gap-1.5 text-gold/50 text-sm font-bold"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ delay: 0.3 }}
+            >
+              <Flame size={14} />
+              {streak}
+            </motion.div>
+          )}
+        </motion.div>
+      )}
+
       {/* Countdown */}
       <AnimatePresence>
         {gameState === "countdown" && (
@@ -383,7 +446,30 @@ export default function QuickPickPage() {
           time={totalTime}
           gameName="Quick Pick"
           gameIcon={<Crosshair size={24} className="text-neon-pink" />}
-          onPlayAgain={handlePlayAgain}
+          onPlayAgain={() => {
+            const rarity = calculateRarity(score, TOTAL_ROUNDS, streak);
+            saveCard({
+              id: generateCardId(),
+              game: "quickpick",
+              theme: selectedTheme,
+              rarity,
+              score,
+              total: TOTAL_ROUNDS,
+              date: new Date().toISOString(),
+            });
+            setGameState("reward");
+          }}
+        />
+      )}
+
+      {/* Reward Reveal */}
+      {gameState === "reward" && (
+        <RewardReveal
+          rarity={calculateRarity(score, TOTAL_ROUNDS, streak)}
+          game="quickpick"
+          score={score}
+          total={TOTAL_ROUNDS}
+          onDone={handlePlayAgain}
         />
       )}
     </main>

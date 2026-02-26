@@ -1,0 +1,67 @@
+export type CardRarity = "bronze" | "silver" | "gold" | "legendary";
+
+export interface GameCard {
+  id: string;
+  game: string;
+  theme: string;
+  rarity: CardRarity;
+  score: number;
+  total: number;
+  date: string;
+}
+
+const RARITY_CONFIG: Record<CardRarity, { color: string; border: string; glow: string; label: string }> = {
+  bronze: {
+    color: "#CD7F32",
+    border: "border-amber-700",
+    glow: "0 0 20px rgba(205,127,50,0.4)",
+    label: "BRONZE",
+  },
+  silver: {
+    color: "#C0C0C0",
+    border: "border-gray-400",
+    glow: "0 0 20px rgba(192,192,192,0.4)",
+    label: "SILVER",
+  },
+  gold: {
+    color: "#FFD700",
+    border: "border-yellow-400",
+    glow: "0 0 25px rgba(255,215,0,0.5)",
+    label: "GOLD",
+  },
+  legendary: {
+    color: "#B44DFF",
+    border: "border-purple-400",
+    glow: "0 0 30px rgba(180,77,255,0.5), 0 0 60px rgba(180,77,255,0.2)",
+    label: "LEGENDARY",
+  },
+};
+
+export function getRarityConfig(rarity: CardRarity) {
+  return RARITY_CONFIG[rarity];
+}
+
+export function calculateRarity(score: number, total: number, streak: number): CardRarity {
+  const pct = (score / total) * 100;
+  if (streak >= 50 || pct === 100) return "legendary";
+  if (streak >= 20 || pct >= 90) return "gold";
+  if (streak >= 5 || pct >= 70) return "silver";
+  return "bronze";
+}
+
+export function getCards(): GameCard[] {
+  if (typeof window === "undefined") return [];
+  const data = localStorage.getItem("plizio_cards");
+  return data ? JSON.parse(data) : [];
+}
+
+export function saveCard(card: GameCard): void {
+  if (typeof window === "undefined") return;
+  const cards = getCards();
+  cards.push(card);
+  localStorage.setItem("plizio_cards", JSON.stringify(cards));
+}
+
+export function generateCardId(): string {
+  return `card_${Date.now()}_${Math.random().toString(36).slice(2, 8)}`;
+}

@@ -1,0 +1,22 @@
+[
+  { "itemA": "Ronaldo (career goals)", "valueA": 900, "itemB": "Messi (career goals)", "valueB": 850, "unit": "goals" },
+  { "itemA": "Ronaldo (Instagram)", "valueA": 650000000, "itemB": "Messi (Instagram)", "valueB": 500000000, "unit": "followers" },
+  { "itemA": "Brazil (World Cups)", "valueA": 5, "itemB": "Germany (World Cups)", "valueB": 4, "unit": "titles" },
+  { "itemA": "Premier League clubs", "valueA": 20, "itemB": "La Liga clubs", "valueB": 20, "unit": "teams" },
+  { "itemA": "Mbappé (speed)", "valueA": 36, "itemB": "Haaland (speed)", "valueB": 34, "unit": "km/h" },
+  { "itemA": "Real Madrid (CL titles)", "valueA": 15, "itemB": "AC Milan (CL titles)", "valueB": 7, "unit": "titles" },
+  { "itemA": "Messi (Ballon d'Or)", "valueA": 8, "itemB": "Ronaldo (Ballon d'Or)", "valueB": 5, "unit": "awards" },
+  { "itemA": "Barcelona (La Liga)", "valueA": 27, "itemB": "Real Madrid (La Liga)", "valueB": 36, "unit": "titles" },
+  { "itemA": "World Cup 2022 viewers", "valueA": 1500000000, "itemB": "Super Bowl 2024 viewers", "valueB": 120000000, "unit": "viewers" },
+  { "itemA": "Camp Nou capacity", "valueA": 99354, "itemB": "Wembley capacity", "valueB": 90000, "unit": "seats" },
+  { "itemA": "Neymar transfer fee", "valueA": 222000000, "itemB": "Mbappé transfer fee", "valueB": 180000000, "unit": "EUR" },
+  { "itemA": "Man Utd (PL titles)", "valueA": 13, "itemB": "Liverpool (PL titles)", "valueB": 1, "unit": "titles" },
+  { "itemA": "Haaland (goals 22/23)", "valueA": 52, "itemB": "Mbappé (goals 22/23)", "valueB": 41, "unit": "goals" },
+  { "itemA": "FIFA registered players", "valueA": 270000000, "itemB": "NBA registered players", "valueB": 450000, "unit": "players" },
+  { "itemA": "Argentina (Copa América)", "valueA": 16, "itemB": "Uruguay (Copa América)", "valueB": 15, "unit": "titles" },
+  { "itemA": "Salah (PL goals)", "valueA": 160, "itemB": "Kane (PL goals)", "valueB": 213, "unit": "goals" },
+  { "itemA": "Bernabéu renovation", "valueA": 1700000000, "itemB": "Tottenham Stadium", "valueB": 1200000000, "unit": "EUR" },
+  { "itemA": "Man City squad value", "valueA": 1200000000, "itemB": "PSG squad value", "valueB": 900000000, "unit": "EUR" },
+  { "itemA": "Pelé (career goals)", "valueA": 1283, "itemB": "Ronaldo (career goals)", "valueB": 900, "unit": "goals" },
+  { "itemA": "Germany (Euro titles)", "valueA": 3, "itemB": "Spain (Euro titles)", "valueB": 4, "unit": "titles" }
+]

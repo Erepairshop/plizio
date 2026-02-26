@@ -4,6 +4,8 @@ import { useState, useEffect, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Brain, Trophy, CheckCircle, XCircle, Eye } from "lucide-react";
 import ResultCard from "@/components/ResultCard";
+import RewardReveal from "@/components/RewardReveal";
+import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import generalData from "@/data/memoryflash/general.json";
 
 interface Answer {
@@ -18,7 +20,7 @@ interface MemoryQuestion {
   answers: Answer[];
 }
 
-type GameState = "countdown" | "showing" | "asking" | "feedback" | "result";
+type GameState = "countdown" | "showing" | "asking" | "feedback" | "result" | "reward";
 
 const TOTAL_ROUNDS = 5;
 
@@ -307,7 +309,30 @@ export default function MemoryFlashPage() {
           time={totalTime}
           gameName="Memory Flash"
           gameIcon={<Brain size={24} className="text-neon-purple" />}
-          onPlayAgain={handlePlayAgain}
+          onPlayAgain={() => {
+            const rarity = calculateRarity(score, maxScore, 0);
+            saveCard({
+              id: generateCardId(),
+              game: "memoryflash",
+              theme: "general",
+              rarity,
+              score,
+              total: maxScore,
+              date: new Date().toISOString(),
+            });
+            setGameState("reward");
+          }}
+        />
+      )}
+
+      {/* Reward */}
+      {gameState === "reward" && (
+        <RewardReveal
+          rarity={calculateRarity(score, maxScore, 0)}
+          game="memoryflash"
+          score={score}
+          total={maxScore}
+          onDone={handlePlayAgain}
         />
       )}
     </main>
