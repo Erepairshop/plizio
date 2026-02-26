@@ -88,96 +88,97 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
   for (let s = 0; s < segCount; s++) {
     const roll = Math.random();
 
-    if (s < 3 || roll < 0.35) {
-      // ── GROUND PATH — connects directly, no gap ──
-      const depth = 8 + Math.random() * 6;
-      const w = 6 + Math.random() * 3;
+    if (s < 2 || (s % 4 === 0 && roll < 0.4)) {
+      // ── GROUND REST AREA — short, flat, then a step up ──
+      const depth = 4 + Math.random() * 3;
+      const w = 5 + Math.random() * 3;
       const h = 1 + Math.random() * 0.5;
-      surfY += 0.15 + Math.random() * 0.25;
-      cx += (Math.random() - 0.5) * 0.6;
+      surfY += 0.8 + Math.random() * 0.5;
+      cx += (Math.random() - 0.5) * 0.5;
 
       const centerZ = edgeZ + depth / 2;
       const p: Platform3D = {
         x: cx, y: surfY - h / 2, z: centerZ,
         w, d: depth, h, type: "ground",
       };
-      addTrees(p, 1 + Math.floor(Math.random() * 3));
-      addRocks(p, Math.floor(Math.random() * 3));
+      addTrees(p, 1 + Math.floor(Math.random() * 2));
+      addRocks(p, Math.floor(Math.random() * 2));
       platforms.push(p);
       edgeZ = centerZ + depth / 2;
-    } else if (roll < 0.52) {
-      // ── GAP JUMP — intentional gap to jump across ──
-      const gap = 1.2 + difficulty * 0.06;
-      const d = 5 + Math.random() * 3;
-      const w = 5 + Math.random() * 3;
-      const h = 0.8 + Math.random() * 0.4;
-      surfY += 0.2 + Math.random() * 0.3;
-      cx += (Math.random() - 0.5) * 0.8;
+    } else if (roll < 0.45) {
+      // ── GAP JUMP — jump across to higher platform ──
+      const gap = 1.0 + difficulty * 0.08;
+      const d = 3 + Math.random() * 2;
+      const w = 3 + Math.random() * 2;
+      const h = 0.6 + Math.random() * 0.4;
+      surfY += 0.5 + Math.random() * 0.8;
+      cx += (Math.random() - 0.5) * 1.5;
 
       const centerZ = edgeZ + gap + d / 2;
       const p: Platform3D = {
         x: cx, y: surfY - h / 2, z: centerZ,
         w, d, h, type: "rock",
       };
-      addRocks(p, 1 + Math.floor(Math.random() * 2));
+      addRocks(p, Math.floor(Math.random() * 2));
       platforms.push(p);
       edgeZ = centerZ + d / 2;
-    } else if (roll < 0.68) {
-      // ── STAIRCASE — connected steps going up ──
-      const steps = 3 + Math.floor(Math.random() * 2);
+    } else if (roll < 0.70) {
+      // ── STAIRCASE — jump up each step ──
+      const steps = 3 + Math.floor(Math.random() * 3);
       for (let i = 0; i < steps; i++) {
-        const stepD = 3 + Math.random();
-        const stepW = 3.5 + Math.random() * 1.5;
-        const stepH = 0.5 + Math.random() * 0.3;
-        surfY += 0.35 + Math.random() * 0.2;
-        cx += (Math.random() - 0.5) * 0.5;
+        const stepD = 2 + Math.random() * 0.8;
+        const stepW = 2.5 + Math.random() * 1.5;
+        const stepH = 0.4 + Math.random() * 0.3;
+        surfY += 0.6 + Math.random() * 0.4;
+        cx += (Math.random() - 0.5) * 1.0;
 
-        const tinyGap = 0.15;
-        const centerZ = edgeZ + tinyGap + stepD / 2;
+        const gap = 0.4 + Math.random() * 0.3;
+        const centerZ = edgeZ + gap + stepD / 2;
         platforms.push({
           x: cx, y: surfY - stepH / 2, z: centerZ,
           w: stepW, d: stepD, h: stepH, type: "step",
         });
         edgeZ = centerZ + stepD / 2;
       }
-    } else if (roll < 0.80) {
-      // ── BRIDGE — connects directly, same height ──
-      const bLen = 6 + Math.random() * 5;
+    } else if (roll < 0.82) {
+      // ── BRIDGE — narrow path, slight rise ──
+      const bLen = 4 + Math.random() * 4;
       const bH = 0.3;
-      cx += (Math.random() - 0.5) * 0.4;
+      surfY += 0.3 + Math.random() * 0.3;
+      cx += (Math.random() - 0.5) * 0.3;
 
       const centerZ = edgeZ + bLen / 2;
       platforms.push({
         x: cx, y: surfY - bH / 2, z: centerZ,
-        w: 2.0 + Math.random() * 0.5, d: bLen, h: bH, type: "bridge",
+        w: 1.8 + Math.random() * 0.4, d: bLen, h: bH, type: "bridge",
       });
       edgeZ = centerZ + bLen / 2;
-    } else if (difficulty >= 3 && roll < 0.90) {
-      // ── MOVING PLATFORM — gap before it ──
-      const gap = 1.5;
-      surfY += 0.2;
+    } else if (difficulty >= 3 && roll < 0.92) {
+      // ── MOVING PLATFORM — jump to it ──
+      const gap = 1.2;
+      surfY += 0.6;
 
       const centerZ = edgeZ + gap + 1.75;
       platforms.push({
-        x: cx, y: surfY - 0.2, z: centerZ, w: 3.5, d: 3.5, h: 0.4,
+        x: cx, y: surfY - 0.2, z: centerZ, w: 3, d: 3, h: 0.4,
         type: "moving",
         origX: cx, origZ: centerZ,
         moveAxis: Math.random() > 0.5 ? "x" : "z",
-        moveRange: 1.5 + Math.random() * 2,
+        moveRange: 1.5 + Math.random() * 1.5,
         moveSpeed: 0.4 + difficulty * 0.1,
       });
-      edgeZ = centerZ + 1.75;
+      edgeZ = centerZ + 1.5;
     } else if (difficulty >= 4) {
-      // ── CRUMBLE PLATFORMS — small gaps ──
+      // ── CRUMBLE PLATFORMS — jump between them ──
       const count = 2 + Math.floor(Math.random() * 2);
       for (let i = 0; i < count; i++) {
-        surfY += 0.15;
-        cx += (Math.random() - 0.5) * 0.6;
-        const pD = 3.2;
+        surfY += 0.4 + Math.random() * 0.3;
+        cx += (Math.random() - 0.5) * 1.2;
+        const pD = 2.5;
 
-        const centerZ = edgeZ + 0.6 + pD / 2;
+        const centerZ = edgeZ + 0.8 + pD / 2;
         platforms.push({
-          x: cx, y: surfY - 0.15, z: centerZ, w: 3.2, d: pD, h: 0.3,
+          x: cx, y: surfY - 0.15, z: centerZ, w: 2.5, d: pD, h: 0.3,
           type: "crumble",
           crumbleTimer: 0, touched: false,
         });
@@ -558,14 +559,14 @@ function Clouds() {
 function DistantMountains() {
   const mountains = useMemo(() => {
     const arr = [];
-    for (let i = 0; i < 16; i++) {
-      const angle = (i / 16) * Math.PI * 2;
-      const r = 55 + Math.random() * 25;
+    for (let i = 0; i < 10; i++) {
+      const angle = (i / 10) * Math.PI * 2;
+      const r = 130 + Math.random() * 40;
       arr.push({
         x: Math.cos(angle) * r,
         z: Math.sin(angle) * r,
-        height: 12 + Math.random() * 22,
-        width: 6 + Math.random() * 10,
+        height: 8 + Math.random() * 12,
+        width: 10 + Math.random() * 8,
       });
     }
     return arr;
@@ -574,9 +575,9 @@ function DistantMountains() {
   return (
     <>
       {mountains.map((m, i) => (
-        <mesh key={i} position={[m.x, m.height / 2 - 8, m.z]}>
+        <mesh key={i} position={[m.x, m.height / 2 - 5, m.z]}>
           <coneGeometry args={[m.width, m.height, 4]} />
-          <meshStandardMaterial color="#4a6a88" roughness={0.95} />
+          <meshStandardMaterial color="#7a9ab8" roughness={0.95} transparent opacity={0.5} />
         </mesh>
       ))}
     </>
