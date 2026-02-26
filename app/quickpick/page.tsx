@@ -119,7 +119,21 @@ export default function QuickPickPage() {
   const startGame = (themeId: string) => {
     setSelectedTheme(themeId);
     const data = THEME_DATA[themeId] || THEME_DATA.general;
-    const shuffled = shuffleArray(data).slice(0, TOTAL_ROUNDS);
+    const shuffled = shuffleArray(data).slice(0, TOTAL_ROUNDS).map((q) => {
+      // Randomly swap A and B sides so the correct answer isn't always on the left
+      if (Math.random() < 0.5) {
+        return {
+          ...q,
+          itemA: q.itemB,
+          valueA: q.valueB,
+          emojiA: q.emojiB,
+          itemB: q.itemA,
+          valueB: q.valueA,
+          emojiB: q.emojiA,
+        };
+      }
+      return q;
+    });
     setQuestions(shuffled);
     setGameState("countdown");
   };

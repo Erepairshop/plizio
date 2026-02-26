@@ -111,9 +111,9 @@ export default function Home() {
   const [username, setUsernameState] = useState<string | null>(null);
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [openCategories, setOpenCategories] = useState<Record<string, boolean>>({
-    "QUIZ & REFLEX": true,
-    "ADVENTURE": true,
-    "LEARNING": true,
+    "QUIZ & REFLEX": false,
+    "ADVENTURE": false,
+    "LEARNING": false,
   });
 
   useEffect(() => {
