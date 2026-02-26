@@ -436,74 +436,95 @@ export default function CityDrivePage() {
         const tile = map[r][c];
 
         if (tile === T_ROAD) {
-          // Asphalt
-          ctx.fillStyle = "#181828";
+          // Smooth dark asphalt
+          ctx.fillStyle = "#14141f";
           ctx.fillRect(sx, sy, TILE, TILE);
-          // Subtle road texture
-          ctx.fillStyle = "#1c1c30";
-          if ((r + c) % 2 === 0) ctx.fillRect(sx, sy, TILE, TILE);
-          // Lane markings (dashed center lines)
-          ctx.fillStyle = "#ffffff18";
-          if (r % 7 === 0 && c % 3 === 0) { ctx.fillRect(sx + 6, sy + TILE / 2 - 1, TILE - 12, 2); }
-          if (c % 7 === 0 && r % 3 === 0) { ctx.fillRect(sx + TILE / 2 - 1, sy + 6, 2, TILE - 12); }
-          // Intersection markings
-          if (r % 7 < 2 && c % 7 < 2) {
-            ctx.fillStyle = "#ffffff08";
-            ctx.fillRect(sx + 2, sy + 2, TILE - 4, TILE - 4);
+          // White dashed center lines (horizontal roads)
+          if (r % 7 === 0 && c % 7 >= 2) {
+            ctx.fillStyle = "#ffffff22";
+            if (c % 2 === 0) ctx.fillRect(sx + 4, sy + TILE / 2 - 0.5, TILE - 8, 1);
+          }
+          // White dashed center lines (vertical roads)
+          if (c % 7 === 0 && r % 7 >= 2) {
+            ctx.fillStyle = "#ffffff22";
+            if (r % 2 === 0) ctx.fillRect(sx + TILE / 2 - 0.5, sy + 4, 1, TILE - 8);
+          }
+          // Yellow edge lines on road borders
+          const nextToSidewalk = (r % 7 === 1 && r + 1 < ROWS && map[r + 1]?.[c] === T_SIDEWALK) ||
+                                  (c % 7 === 1 && c + 1 < COLS && map[r]?.[c + 1] === T_SIDEWALK);
+          if (nextToSidewalk) {
+            ctx.fillStyle = "#FFD70015";
+            ctx.fillRect(sx, sy, TILE, TILE);
           }
         } else if (tile === T_SIDEWALK) {
-          ctx.fillStyle = "#1e1e35";
+          ctx.fillStyle = "#1a1a2c";
           ctx.fillRect(sx, sy, TILE, TILE);
-          // Sidewalk pattern
-          ctx.strokeStyle = "#252545";
-          ctx.lineWidth = 0.5;
-          ctx.strokeRect(sx + 1, sy + 1, TILE - 2, TILE - 2);
-          // Street lights at corners
+          // Curb line next to road
+          if (r > 0 && map[r - 1]?.[c] === T_ROAD) { ctx.fillStyle = "#2a2a40"; ctx.fillRect(sx, sy, TILE, 2); }
+          if (r < ROWS - 1 && map[r + 1]?.[c] === T_ROAD) { ctx.fillStyle = "#2a2a40"; ctx.fillRect(sx, sy + TILE - 2, TILE, 2); }
+          if (c > 0 && map[r]?.[c - 1] === T_ROAD) { ctx.fillStyle = "#2a2a40"; ctx.fillRect(sx, sy, 2, TILE); }
+          if (c < COLS - 1 && map[r]?.[c + 1] === T_ROAD) { ctx.fillStyle = "#2a2a40"; ctx.fillRect(sx + TILE - 2, sy, 2, TILE); }
+          // Street lights with warm glow at corners
           if (r % 7 === 2 && c % 7 === 2) {
-            ctx.fillStyle = "#FFD70030";
+            const grad = ctx.createRadialGradient(sx + TILE / 2, sy + TILE / 2, 0, sx + TILE / 2, sy + TILE / 2, TILE * 1.5);
+            grad.addColorStop(0, "#FFE08820");
+            grad.addColorStop(1, "#FFE08800");
+            ctx.fillStyle = grad;
+            ctx.fillRect(sx - TILE, sy - TILE, TILE * 3, TILE * 3);
+            // Light pole
+            ctx.fillStyle = "#FFE088";
             ctx.beginPath();
-            ctx.arc(sx + TILE / 2, sy + TILE / 2, 8, 0, Math.PI * 2);
-            ctx.fill();
-            ctx.fillStyle = "#FFD70060";
-            ctx.beginPath();
-            ctx.arc(sx + TILE / 2, sy + TILE / 2, 3, 0, Math.PI * 2);
+            ctx.arc(sx + TILE / 2, sy + TILE / 2, 2.5, 0, Math.PI * 2);
             ctx.fill();
           }
         } else {
-          // Building base
-          ctx.fillStyle = buildingColor(r, c);
+          // ── BUILDING ──
+          // Unified dark block
+          ctx.fillStyle = "#080812";
           ctx.fillRect(sx, sy, TILE, TILE);
-          // Roof accent
-          ctx.fillStyle = roofColor(r, c);
+          // Roof shade
+          ctx.fillStyle = "#0c0c1a";
           ctx.fillRect(sx + 1, sy + 1, TILE - 2, TILE - 2);
-          // Neon glow border on edges facing roads
-          const aboveRoad = r > 0 && map[r - 1]?.[c] !== T_BUILDING;
-          const belowRoad = r < ROWS - 1 && map[r + 1]?.[c] !== T_BUILDING;
-          const leftRoad = c > 0 && map[r]?.[c - 1] !== T_BUILDING;
-          const rightRoad = c < COLS - 1 && map[r]?.[c + 1] !== T_BUILDING;
-          const glow = buildingGlow(r, c);
-          ctx.lineWidth = 1.5;
-          ctx.strokeStyle = glow + "50";
-          if (aboveRoad) { ctx.beginPath(); ctx.moveTo(sx, sy + 0.5); ctx.lineTo(sx + TILE, sy + 0.5); ctx.stroke(); }
-          if (belowRoad) { ctx.beginPath(); ctx.moveTo(sx, sy + TILE - 0.5); ctx.lineTo(sx + TILE, sy + TILE - 0.5); ctx.stroke(); }
-          if (leftRoad) { ctx.beginPath(); ctx.moveTo(sx + 0.5, sy); ctx.lineTo(sx + 0.5, sy + TILE); ctx.stroke(); }
-          if (rightRoad) { ctx.beginPath(); ctx.moveTo(sx + TILE - 0.5, sy); ctx.lineTo(sx + TILE - 0.5, sy + TILE); ctx.stroke(); }
-          // Window lights (varied)
-          const windowSeed = (r * 17 + c * 31) % 10;
-          if (windowSeed < 6) {
-            const wColor = windowSeed < 3 ? "#FFD70018" : "#00D4FF15";
-            ctx.fillStyle = wColor;
-            ctx.fillRect(sx + 5, sy + 4, 4, 4);
-            ctx.fillRect(sx + TILE - 9, sy + 4, 4, 4);
-            if (windowSeed < 4) {
-              ctx.fillRect(sx + 5, sy + TILE - 8, 4, 4);
-              ctx.fillRect(sx + TILE - 9, sy + TILE - 8, 4, 4);
-            }
+
+          // Neon glow on edges facing streets
+          const aboveNotBldg = r > 0 && map[r - 1]?.[c] !== T_BUILDING;
+          const belowNotBldg = r < ROWS - 1 && map[r + 1]?.[c] !== T_BUILDING;
+          const leftNotBldg = c > 0 && map[r]?.[c - 1] !== T_BUILDING;
+          const rightNotBldg = c < COLS - 1 && map[r]?.[c + 1] !== T_BUILDING;
+          // Each building block gets consistent glow color
+          const blockR = Math.floor(r / 7);
+          const blockC = Math.floor(c / 7);
+          const glowColors = ["#FF2D78", "#00D4FF", "#B44DFF", "#00FF88", "#FFD700", "#FF6B00"];
+          const glow = glowColors[(blockR * 3 + blockC * 5) % glowColors.length];
+
+          ctx.lineWidth = 2;
+          ctx.strokeStyle = glow + "60";
+          if (aboveNotBldg) { ctx.beginPath(); ctx.moveTo(sx, sy); ctx.lineTo(sx + TILE, sy); ctx.stroke(); }
+          if (belowNotBldg) { ctx.beginPath(); ctx.moveTo(sx, sy + TILE); ctx.lineTo(sx + TILE, sy + TILE); ctx.stroke(); }
+          if (leftNotBldg) { ctx.beginPath(); ctx.moveTo(sx, sy); ctx.lineTo(sx, sy + TILE); ctx.stroke(); }
+          if (rightNotBldg) { ctx.beginPath(); ctx.moveTo(sx + TILE, sy); ctx.lineTo(sx + TILE, sy + TILE); ctx.stroke(); }
+
+          // Neon glow bleed onto road
+          if (aboveNotBldg) {
+            const grad = ctx.createLinearGradient(sx, sy, sx, sy - TILE);
+            grad.addColorStop(0, glow + "18");
+            grad.addColorStop(1, glow + "00");
+            ctx.fillStyle = grad;
+            ctx.fillRect(sx, sy - TILE, TILE, TILE);
           }
-          // Rooftop AC units / details on some buildings
-          if ((r * 5 + c * 3) % 11 === 0) {
-            ctx.fillStyle = "#0a0a18";
-            ctx.fillRect(sx + TILE / 2 - 3, sy + TILE / 2 - 3, 6, 6);
+
+          // Window lights (only on edge-facing tiles)
+          const isEdge = aboveNotBldg || belowNotBldg || leftNotBldg || rightNotBldg;
+          if (isEdge) {
+            const ws = (r * 17 + c * 31) % 7;
+            if (ws < 5) {
+              const wc = ws < 2 ? "#FFE08830" : ws < 4 ? "#00D4FF20" : "#FF2D7818";
+              ctx.fillStyle = wc;
+              ctx.fillRect(sx + 6, sy + 6, 3, 3);
+              ctx.fillRect(sx + TILE - 9, sy + 6, 3, 3);
+              ctx.fillRect(sx + 6, sy + TILE - 9, 3, 3);
+              ctx.fillRect(sx + TILE - 9, sy + TILE - 9, 3, 3);
+            }
           }
         }
       }
@@ -513,26 +534,32 @@ export default function CityDrivePage() {
     const t = performance.now() / 1000;
     for (const m of missionsRef.current) {
       if (m.completed) continue;
-
       if (m.type === "delivery") {
-        if (!m.pickedUp) {
-          drawMarker(ctx, m.px, m.py, "#FFD700", "📦", t);
-        } else {
-          drawMarker(ctx, m.dx, m.dy, "#00FF88", "🏠", t);
-        }
+        if (!m.pickedUp) drawMarker(ctx, m.px, m.py, "#FFD700", "📦", t);
+        else drawMarker(ctx, m.dx, m.dy, "#00FF88", "🏠", t);
       } else if (m.type === "parking") {
+        // Parking spot rectangle
+        ctx.strokeStyle = "#00D4FF80";
+        ctx.lineWidth = 1.5;
+        ctx.setLineDash([4, 4]);
+        ctx.strokeRect(m.px - 16, m.py - 22, 32, 44);
+        ctx.setLineDash([]);
         drawMarker(ctx, m.px, m.py, "#00D4FF", "🅿️", t);
       } else if (m.type === "coins" && m.coins) {
         for (const coin of m.coins) {
-          const cx = coin.x;
-          const cy = coin.y;
+          // Coin glow
+          ctx.fillStyle = "#FFD70025";
+          ctx.beginPath();
+          ctx.arc(coin.x, coin.y, 10 + Math.sin(t * 3) * 2, 0, Math.PI * 2);
+          ctx.fill();
+          // Coin body
           ctx.fillStyle = "#FFD700";
           ctx.beginPath();
-          ctx.arc(cx, cy, 6 + Math.sin(t * 4) * 2, 0, Math.PI * 2);
+          ctx.arc(coin.x, coin.y, 5, 0, Math.PI * 2);
           ctx.fill();
-          ctx.fillStyle = "#FFD70040";
+          ctx.fillStyle = "#FFA500";
           ctx.beginPath();
-          ctx.arc(cx, cy, 12 + Math.sin(t * 3) * 3, 0, Math.PI * 2);
+          ctx.arc(coin.x, coin.y, 3, 0, Math.PI * 2);
           ctx.fill();
         }
       }
@@ -540,52 +567,69 @@ export default function CityDrivePage() {
 
     // ── Cars ──
     for (let i = 0; i < carsRef.current.length; i++) {
-      const car = carsRef.current[i];
-      if (playerRef.current.inCar === i) continue; // draw active car separately
-      drawCar(ctx, car, cam, false);
+      if (playerRef.current.inCar === i) continue;
+      drawCar(ctx, carsRef.current[i], false);
     }
-
-    // ── Active car (on top) ──
     if (playerRef.current.inCar >= 0) {
-      drawCar(ctx, carsRef.current[playerRef.current.inCar], cam, true);
+      drawCar(ctx, carsRef.current[playerRef.current.inCar], true);
     }
 
     // ── Player (on foot) ──
     if (playerRef.current.inCar < 0) {
-      const px = playerRef.current.x;
-      const py = playerRef.current.y;
+      const ppx = playerRef.current.x;
+      const ppy = playerRef.current.y;
       ctx.save();
-      ctx.translate(px, py);
+      ctx.translate(ppx, ppy);
       ctx.rotate(playerRef.current.angle);
+      // Ground glow
+      ctx.fillStyle = skin.emissive + "20";
+      ctx.beginPath();
+      ctx.arc(0, 0, 12, 0, Math.PI * 2);
+      ctx.fill();
+      // Shadow
+      ctx.fillStyle = "#00000040";
+      ctx.beginPath();
+      ctx.ellipse(1, 2, 6, 4, 0, 0, Math.PI * 2);
+      ctx.fill();
+      // Legs
+      ctx.fillStyle = skin.limbColor;
+      ctx.fillRect(-4, 2, 3, 6);
+      ctx.fillRect(1, 2, 3, 6);
       // Body
       ctx.fillStyle = skin.bodyColor;
-      ctx.fillRect(-5, -4, 10, 12);
+      ctx.fillRect(-5, -5, 10, 10);
       // Head
       ctx.fillStyle = skin.headColor;
       ctx.beginPath();
-      ctx.arc(0, -6, 5, 0, Math.PI * 2);
+      ctx.arc(0, -7, 5, 0, Math.PI * 2);
       ctx.fill();
-      // Glow
-      ctx.shadowColor = skin.emissive;
-      ctx.shadowBlur = 8;
-      ctx.fillStyle = skin.emissive + "40";
-      ctx.beginPath();
-      ctx.arc(0, 0, 10, 0, Math.PI * 2);
-      ctx.fill();
-      ctx.shadowBlur = 0;
+      // Eyes (facing forward)
+      ctx.fillStyle = "#000";
+      ctx.fillRect(-2, -9, 1.5, 1.5);
+      ctx.fillRect(1, -9, 1.5, 1.5);
       ctx.restore();
 
       // Enter car hint
       for (const car of carsRef.current) {
         const dist = Math.sqrt((playerRef.current.x - car.x) ** 2 + (playerRef.current.y - car.y) ** 2);
         if (dist < ENTER_DIST) {
-          ctx.fillStyle = "#ffffff";
-          ctx.font = "bold 11px monospace";
+          // Pulsing ring
+          ctx.strokeStyle = car.color + "80";
+          ctx.lineWidth = 2;
+          ctx.beginPath();
+          ctx.arc(car.x, car.y, 24 + Math.sin(t * 4) * 3, 0, Math.PI * 2);
+          ctx.stroke();
+          // Label bg
+          const lx = car.x;
+          const ly = car.y - car.h / 2 - 18;
+          ctx.fillStyle = "#000000AA";
+          ctx.beginPath();
+          ctx.roundRect(lx - 30, ly - 8, 60, 16, 4);
+          ctx.fill();
+          ctx.fillStyle = "#fff";
+          ctx.font = "bold 9px monospace";
           ctx.textAlign = "center";
-          ctx.fillText("SPACE", car.x, car.y - car.h / 2 - 12);
-          ctx.fillStyle = "#ffffff60";
-          ctx.font = "9px monospace";
-          ctx.fillText(car.name, car.x, car.y - car.h / 2 - 2);
+          ctx.fillText("SPACE", lx, ly + 4);
         }
       }
     }
@@ -593,171 +637,299 @@ export default function CityDrivePage() {
     // ── End world transform ──
     ctx.restore();
 
-    // ── HUD (screen space, no rotation/zoom) ──
-    // Camera mode indicator
+    // ═══════════════════════════════════════════════
+    //  HUD (screen space, no rotation/zoom)
+    // ═══════════════════════════════════════════════
+
+    // Camera mode pill
     const modeNames = ["BIRD'S EYE", "FOLLOW", "CHASE"];
-    ctx.fillStyle = "#00000060";
-    ctx.fillRect(W / 2 - 50, 8, 100, 22);
-    ctx.strokeStyle = "#FF6B0040";
-    ctx.lineWidth = 1;
-    ctx.strokeRect(W / 2 - 50, 8, 100, 22);
+    ctx.fillStyle = "#000000AA";
+    ctx.beginPath();
+    ctx.roundRect(W / 2 - 55, 10, 110, 24, 12);
+    ctx.fill();
     ctx.fillStyle = "#FF6B00";
     ctx.font = "bold 10px monospace";
     ctx.textAlign = "center";
-    ctx.fillText(`📷 ${modeNames[mode]} (C)`, W / 2, 23);
+    ctx.fillText(`📷 ${modeNames[mode]}`, W / 2, 26);
 
-    // Score
-    ctx.fillStyle = "#00000080";
-    ctx.fillRect(8, 8, 140, 50);
-    ctx.strokeStyle = "#FF6B0060";
+    // Score panel
+    ctx.fillStyle = "#000000CC";
+    ctx.beginPath();
+    ctx.roundRect(8, 8, 148, 52, 8);
+    ctx.fill();
+    ctx.strokeStyle = "#FF6B0040";
     ctx.lineWidth = 1;
-    ctx.strokeRect(8, 8, 140, 50);
+    ctx.beginPath();
+    ctx.roundRect(8, 8, 148, 52, 8);
+    ctx.stroke();
     ctx.fillStyle = "#FF6B00";
-    ctx.font = "bold 18px monospace";
+    ctx.font = "bold 20px monospace";
     ctx.textAlign = "left";
-    ctx.fillText(`${scoreRef.current} pts`, 16, 32);
-    ctx.fillStyle = "#ffffff80";
-    ctx.font = "12px monospace";
-    ctx.fillText(`${missionsCompletedRef.current}/${TOTAL_MISSIONS} missions`, 16, 48);
+    ctx.fillText(`${scoreRef.current}`, 18, 36);
+    ctx.fillStyle = "#ffffff50";
+    ctx.font = "10px monospace";
+    ctx.fillText("PTS", 18 + ctx.measureText(`${scoreRef.current}`).width + 6, 36);
+    ctx.fillStyle = "#ffffff60";
+    ctx.font = "11px monospace";
+    ctx.fillText(`${missionsCompletedRef.current}/${TOTAL_MISSIONS} missions`, 18, 52);
 
     // Timer
     const tl = Math.ceil(timeRef.current);
-    ctx.fillStyle = "#00000080";
-    ctx.fillRect(W - 80, 8, 72, 32);
-    ctx.strokeStyle = tl < 15 ? "#FF2D7860" : "#ffffff30";
-    ctx.strokeRect(W - 80, 8, 72, 32);
-    ctx.fillStyle = tl < 15 ? "#FF2D78" : "#ffffff";
-    ctx.font = "bold 16px monospace";
+    ctx.fillStyle = "#000000CC";
+    ctx.beginPath();
+    ctx.roundRect(W - 82, 8, 74, 34, 8);
+    ctx.fill();
+    const timerColor = tl < 10 ? "#FF2D78" : tl < 20 ? "#FFD700" : "#ffffff";
+    ctx.strokeStyle = timerColor + "40";
+    ctx.lineWidth = 1;
+    ctx.beginPath();
+    ctx.roundRect(W - 82, 8, 74, 34, 8);
+    ctx.stroke();
+    ctx.fillStyle = timerColor;
+    ctx.font = "bold 18px monospace";
     ctx.textAlign = "center";
-    ctx.fillText(`${tl}s`, W - 44, 30);
+    ctx.fillText(`${tl}s`, W - 45, 31);
 
-    // Speed (when in car)
+    // Speed gauge (when in car)
     if (playerRef.current.inCar >= 0) {
       const car = carsRef.current[playerRef.current.inCar];
       const kmh = Math.abs(Math.round(car.speed));
-      ctx.fillStyle = "#00000080";
-      ctx.fillRect(W / 2 - 40, H - 44, 80, 30);
-      ctx.strokeStyle = car.color + "60";
-      ctx.strokeRect(W / 2 - 40, H - 44, 80, 30);
+      const pct = kmh / car.maxSpeed;
+      const gaugeW = 90;
+      ctx.fillStyle = "#000000CC";
+      ctx.beginPath();
+      ctx.roundRect(W / 2 - gaugeW / 2, H - 50, gaugeW, 38, 8);
+      ctx.fill();
+      // Speed bar
+      ctx.fillStyle = car.color + "30";
+      ctx.beginPath();
+      ctx.roundRect(W / 2 - gaugeW / 2 + 6, H - 26, gaugeW - 12, 6, 3);
+      ctx.fill();
       ctx.fillStyle = car.color;
-      ctx.font = "bold 14px monospace";
+      ctx.beginPath();
+      ctx.roundRect(W / 2 - gaugeW / 2 + 6, H - 26, (gaugeW - 12) * Math.min(1, pct), 6, 3);
+      ctx.fill();
+      // Speed text
+      ctx.fillStyle = "#fff";
+      ctx.font = "bold 13px monospace";
       ctx.textAlign = "center";
-      ctx.fillText(`${kmh} km/h`, W / 2, H - 24);
+      ctx.fillText(`${kmh} km/h`, W / 2, H - 32);
     }
 
     // Minimap
-    const mmS = 4;
+    const mmS = 3;
     const mmW = COLS * mmS;
     const mmH = ROWS * mmS;
-    const mmX = W - mmW - 10;
-    const mmY = H - mmH - 10;
-    ctx.fillStyle = "#00000090";
-    ctx.fillRect(mmX - 2, mmY - 2, mmW + 4, mmH + 4);
-    ctx.strokeStyle = "#FF6B0040";
-    ctx.strokeRect(mmX - 2, mmY - 2, mmW + 4, mmH + 4);
-
-    for (let r = 0; r < ROWS; r += 2) {
-      for (let c = 0; c < COLS; c += 2) {
-        const tile = map[r][c];
-        ctx.fillStyle = tile === T_ROAD ? "#333" : tile === T_SIDEWALK ? "#444" : "#111";
-        ctx.fillRect(mmX + c * mmS, mmY + r * mmS, mmS * 2, mmS * 2);
+    const mmX = W - mmW - 12;
+    const mmY = H - mmH - 12;
+    ctx.fillStyle = "#000000CC";
+    ctx.beginPath();
+    ctx.roundRect(mmX - 4, mmY - 4, mmW + 8, mmH + 8, 6);
+    ctx.fill();
+    for (let mr = 0; mr < ROWS; mr++) {
+      for (let mc = 0; mc < COLS; mc++) {
+        const mt = map[mr]?.[mc];
+        if (mt === T_BUILDING) { ctx.fillStyle = "#1a1a30"; }
+        else if (mt === T_SIDEWALK) { ctx.fillStyle = "#252540"; }
+        else { ctx.fillStyle = "#303050"; }
+        ctx.fillRect(mmX + mc * mmS, mmY + mr * mmS, mmS, mmS);
       }
     }
-    // Player dot on minimap
+    // Player on minimap
     ctx.fillStyle = "#FF6B00";
     ctx.beginPath();
-    ctx.arc(mmX + (playerRef.current.x / TILE) * mmS, mmY + (playerRef.current.y / TILE) * mmS, 3, 0, Math.PI * 2);
+    ctx.arc(mmX + (playerRef.current.x / TILE) * mmS, mmY + (playerRef.current.y / TILE) * mmS, 2.5, 0, Math.PI * 2);
     ctx.fill();
-    // Mission dots on minimap
+    // Mission pings on minimap
     for (const m of missionsRef.current) {
       if (m.completed) continue;
-      let mx: number, my: number;
-      if (m.type === "delivery" && m.pickedUp) { mx = m.dx; my = m.dy; }
-      else { mx = m.px; my = m.py; }
+      const mx = m.type === "delivery" && m.pickedUp ? m.dx : m.px;
+      const my2 = m.type === "delivery" && m.pickedUp ? m.dy : m.py;
       ctx.fillStyle = m.type === "delivery" ? "#FFD700" : m.type === "parking" ? "#00D4FF" : "#FFD700";
+      const pulse = 1.5 + Math.sin(t * 4) * 0.5;
       ctx.beginPath();
-      ctx.arc(mmX + (mx / TILE) * mmS, mmY + (my / TILE) * mmS, 2, 0, Math.PI * 2);
+      ctx.arc(mmX + (mx / TILE) * mmS, mmY + (my2 / TILE) * mmS, pulse, 0, Math.PI * 2);
       ctx.fill();
     }
 
-    // Message
+    // Message toast
     if (messageRef.current && messageRef.current.time > 0) {
       messageRef.current.time -= 1 / 60;
-      ctx.fillStyle = `rgba(0,0,0,${Math.min(0.7, messageRef.current.time)})`;
-      const tw = ctx.measureText(messageRef.current.text).width + 30;
-      ctx.fillRect(W / 2 - tw / 2, H / 2 - 50, tw, 36);
-      ctx.fillStyle = `rgba(255,255,255,${Math.min(1, messageRef.current.time)})`;
-      ctx.font = "bold 16px monospace";
+      const alpha = Math.min(1, messageRef.current.time);
+      ctx.globalAlpha = alpha;
+      const msgText = messageRef.current.text;
+      ctx.font = "bold 15px monospace";
+      const tw = ctx.measureText(msgText).width + 36;
+      ctx.fillStyle = "#000000DD";
+      ctx.beginPath();
+      ctx.roundRect(W / 2 - tw / 2, 46, tw, 30, 8);
+      ctx.fill();
+      ctx.fillStyle = "#fff";
       ctx.textAlign = "center";
-      ctx.fillText(messageRef.current.text, W / 2, H / 2 - 28);
+      ctx.fillText(msgText, W / 2, 66);
+      ctx.globalAlpha = 1;
     }
 
-    // Mission list
+    // Mission list (left panel)
     ctx.textAlign = "left";
-    let my = 70;
+    let mly = 70;
     for (const m of missionsRef.current) {
       if (m.completed) continue;
-      ctx.fillStyle = "#00000060";
-      ctx.fillRect(8, my, 170, 22);
-      ctx.fillStyle = m.type === "delivery" ? "#FFD700" : m.type === "parking" ? "#00D4FF" : "#FFD700";
-      ctx.font = "11px monospace";
-      ctx.fillText(m.label + (m.coinsLeft !== undefined ? ` (${m.coinsLeft})` : ""), 14, my + 15);
-      my += 26;
+      ctx.fillStyle = "#000000AA";
+      ctx.beginPath();
+      ctx.roundRect(8, mly, 175, 24, 6);
+      ctx.fill();
+      const mColor = m.type === "delivery" ? "#FFD700" : m.type === "parking" ? "#00D4FF" : "#FFD700";
+      ctx.fillStyle = mColor;
+      ctx.font = "bold 10px monospace";
+      const icon = m.type === "delivery" ? "📦" : m.type === "parking" ? "🅿️" : "🪙";
+      ctx.fillText(`${icon} ${m.label}${m.coinsLeft !== undefined ? ` (${m.coinsLeft})` : ""}`, 14, mly + 16);
+      mly += 28;
     }
+
+    // Vignette effect
+    const vigGrad = ctx.createRadialGradient(W / 2, H / 2, W * 0.3, W / 2, H / 2, W * 0.8);
+    vigGrad.addColorStop(0, "rgba(0,0,0,0)");
+    vigGrad.addColorStop(1, "rgba(0,0,0,0.4)");
+    ctx.fillStyle = vigGrad;
+    ctx.fillRect(0, 0, W, H);
   }, []);
 
   function drawMarker(ctx: CanvasRenderingContext2D, x: number, y: number, color: string, emoji: string, t: number) {
-    const pulse = Math.sin(t * 3) * 4;
-    ctx.fillStyle = color + "30";
+    const pulse = Math.sin(t * 3) * 3;
+    // Outer glow
+    const grad = ctx.createRadialGradient(x, y, 0, x, y, 22 + pulse);
+    grad.addColorStop(0, color + "40");
+    grad.addColorStop(1, color + "00");
+    ctx.fillStyle = grad;
     ctx.beginPath();
-    ctx.arc(x, y, 18 + pulse, 0, Math.PI * 2);
+    ctx.arc(x, y, 22 + pulse, 0, Math.PI * 2);
     ctx.fill();
-    ctx.strokeStyle = color;
+    // Ring
+    ctx.strokeStyle = color + "CC";
     ctx.lineWidth = 2;
     ctx.beginPath();
-    ctx.arc(x, y, 14, 0, Math.PI * 2);
+    ctx.arc(x, y, 12, 0, Math.PI * 2);
     ctx.stroke();
-    ctx.font = "16px serif";
+    // Inner
+    ctx.fillStyle = color + "40";
+    ctx.beginPath();
+    ctx.arc(x, y, 10, 0, Math.PI * 2);
+    ctx.fill();
+    // Emoji
+    ctx.font = "14px serif";
     ctx.textAlign = "center";
-    ctx.fillText(emoji, x, y + 6);
+    ctx.fillText(emoji, x, y + 5);
+    // Bouncing arrow
+    const ay = -20 - Math.abs(Math.sin(t * 4)) * 6;
+    ctx.fillStyle = color;
+    ctx.beginPath();
+    ctx.moveTo(x, y + ay + 6);
+    ctx.lineTo(x - 4, y + ay);
+    ctx.lineTo(x + 4, y + ay);
+    ctx.closePath();
+    ctx.fill();
   }
 
-  function drawCar(ctx: CanvasRenderingContext2D, car: CarEntity, cam: { x: number; y: number }, active: boolean) {
-    const cx = car.x;
-    const cy = car.y;
+  function drawCar(ctx: CanvasRenderingContext2D, car: CarEntity, active: boolean) {
     ctx.save();
-    ctx.translate(cx, cy);
+    ctx.translate(car.x, car.y);
     ctx.rotate(car.angle);
 
+    const hw = car.w / 2;
+    const hh = car.h / 2;
+
+    // Underglow
+    if (active) {
+      const ugGrad = ctx.createRadialGradient(0, 0, 0, 0, 0, hw + 10);
+      ugGrad.addColorStop(0, car.color + "30");
+      ugGrad.addColorStop(1, car.color + "00");
+      ctx.fillStyle = ugGrad;
+      ctx.beginPath();
+      ctx.ellipse(0, 0, hw + 10, hh + 6, 0, 0, Math.PI * 2);
+      ctx.fill();
+    }
+
     // Shadow
-    ctx.fillStyle = "#00000040";
-    ctx.fillRect(-car.w / 2 + 2, -car.h / 2 + 2, car.w, car.h);
+    ctx.fillStyle = "#00000050";
+    ctx.beginPath();
+    ctx.roundRect(-hw + 2, -hh + 2, car.w, car.h, 4);
+    ctx.fill();
 
     // Body
     ctx.fillStyle = car.color;
-    ctx.fillRect(-car.w / 2, -car.h / 2, car.w, car.h);
+    ctx.beginPath();
+    ctx.roundRect(-hw, -hh, car.w, car.h, 4);
+    ctx.fill();
+
+    // Darker top half
+    ctx.fillStyle = "#00000020";
+    ctx.beginPath();
+    ctx.roundRect(-hw, -hh, car.w, car.h * 0.4, [4, 4, 0, 0]);
+    ctx.fill();
 
     // Windshield
-    ctx.fillStyle = "#00000060";
-    ctx.fillRect(-car.w / 2 + 3, -car.h / 2 + 4, car.w - 6, 8);
+    ctx.fillStyle = "#ffffff15";
+    ctx.beginPath();
+    ctx.roundRect(-hw + 3, -hh + 5, car.w - 6, 7, 2);
+    ctx.fill();
 
-    // Rear
-    ctx.fillStyle = "#FF000080";
-    ctx.fillRect(-car.w / 2 + 2, car.h / 2 - 5, 4, 3);
-    ctx.fillRect(car.w / 2 - 6, car.h / 2 - 5, 4, 3);
+    // Rear window
+    ctx.fillStyle = "#ffffff10";
+    ctx.beginPath();
+    ctx.roundRect(-hw + 4, hh - 10, car.w - 8, 5, 2);
+    ctx.fill();
+
+    // Door line
+    ctx.strokeStyle = "#00000030";
+    ctx.lineWidth = 0.5;
+    ctx.beginPath();
+    ctx.moveTo(0, -hh + 12);
+    ctx.lineTo(0, hh - 6);
+    ctx.stroke();
 
     // Headlights
-    ctx.fillStyle = "#FFFFCC";
-    ctx.fillRect(-car.w / 2 + 2, -car.h / 2, 4, 3);
-    ctx.fillRect(car.w / 2 - 6, -car.h / 2, 4, 3);
+    ctx.fillStyle = "#FFFF99";
+    ctx.beginPath();
+    ctx.roundRect(-hw + 2, -hh - 1, 4, 3, 1);
+    ctx.fill();
+    ctx.beginPath();
+    ctx.roundRect(hw - 6, -hh - 1, 4, 3, 1);
+    ctx.fill();
+    // Headlight beam
+    if (active) {
+      ctx.fillStyle = "#FFFF9910";
+      ctx.beginPath();
+      ctx.moveTo(-hw + 2, -hh);
+      ctx.lineTo(-hw - 6, -hh - 30);
+      ctx.lineTo(hw + 6, -hh - 30);
+      ctx.lineTo(hw - 2, -hh);
+      ctx.closePath();
+      ctx.fill();
+    }
+
+    // Tail lights
+    ctx.fillStyle = "#FF0000CC";
+    ctx.beginPath();
+    ctx.roundRect(-hw + 2, hh - 3, 4, 2, 1);
+    ctx.fill();
+    ctx.beginPath();
+    ctx.roundRect(hw - 6, hh - 3, 4, 2, 1);
+    ctx.fill();
+
+    // Wheels
+    ctx.fillStyle = "#111";
+    ctx.fillRect(-hw - 2, -hh + 4, 3, 6);
+    ctx.fillRect(hw - 1, -hh + 4, 3, 6);
+    ctx.fillRect(-hw - 2, hh - 10, 3, 6);
+    ctx.fillRect(hw - 1, hh - 10, 3, 6);
 
     if (active) {
-      ctx.shadowColor = car.color;
-      ctx.shadowBlur = 12;
-      ctx.strokeStyle = car.color;
-      ctx.lineWidth = 1;
-      ctx.strokeRect(-car.w / 2, -car.h / 2, car.w, car.h);
-      ctx.shadowBlur = 0;
+      ctx.strokeStyle = car.color + "80";
+      ctx.lineWidth = 1.5;
+      ctx.beginPath();
+      ctx.roundRect(-hw - 1, -hh - 1, car.w + 2, car.h + 2, 5);
+      ctx.stroke();
     }
 
     ctx.restore();
