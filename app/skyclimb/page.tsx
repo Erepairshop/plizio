@@ -15,7 +15,8 @@ interface Platform3D {
   z: number;
   w: number;
   d: number;
-  type: "normal" | "moving" | "crumble" | "small";
+  h: number;
+  type: "ground" | "rock" | "step" | "bridge" | "moving" | "crumble";
   moveAxis?: "x" | "z";
   moveRange?: number;
   moveSpeed?: number;
@@ -23,6 +24,8 @@ interface Platform3D {
   origZ?: number;
   crumbleTimer?: number;
   touched?: boolean;
+  trees?: { ox: number; oz: number; s: number }[];
+  rocks?: { ox: number; oz: number; s: number }[];
 }
 
 type GameState = "menu" | "playing" | "dead" | "level-complete" | "reward";
@@ -30,77 +33,149 @@ type GameState = "menu" | "playing" | "dead" | "level-complete" | "reward";
 // ─── CONSTANTS ──────────────────────────────────────
 const GRAVITY = 0.025;
 const JUMP_FORCE = 0.38;
-const MOVE_SPEED = 0.055;
-const RUN_SPEED = 0.09;
+const MOVE_SPEED = 0.04;
+const RUN_SPEED = 0.07;
 const PLAYER_RADIUS = 0.3;
-const CAM_DISTANCE = 7;
-const CAM_HEIGHT = 3.5;
-const FRICTION = 0.7;
-const ACCEL = 0.12;
+const CAM_DISTANCE = 9;
+const CAM_HEIGHT = 4.5;
+const FRICTION = 0.82;
+const ACCEL = 0.05;
 
-// ─── LEVEL GENERATION ───────────────────────────────
+// ─── LEVEL GENERATION (PATH-BASED) ─────────────────
 function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: number } {
   const platforms: Platform3D[] = [];
   const difficulty = Math.min(level, 10);
-  const count = 25 + level * 4;
-
-  // Start platform (large)
-  platforms.push({ x: 0, y: 0, z: 0, w: 4, d: 4, type: "normal" });
-
   let cx = 0, cy = 0, cz = 0;
 
-  for (let i = 1; i <= count; i++) {
-    // Pick direction for next platform
-    const angle = Math.random() * Math.PI * 2;
-    const dist = 1.8 + Math.random() * 1.5;
-    const heightGain = 1.0 + Math.random() * 1.5;
-
-    cx += Math.cos(angle) * dist;
-    cz += Math.sin(angle) * dist;
-    cy += heightGain;
-
-    const roll = Math.random();
-    let type: Platform3D["type"] = "normal";
-    let w = 2.0 - difficulty * 0.06;
-    let d = 2.0 - difficulty * 0.06;
-
-    if (difficulty >= 2 && roll < 0.08 * difficulty) {
-      type = "moving";
-    } else if (difficulty >= 4 && roll < 0.04 * difficulty) {
-      type = "crumble";
-    } else if (difficulty >= 3 && roll < 0.06 * difficulty) {
-      type = "small";
-      w = 1.0;
-      d = 1.0;
+  function addTrees(p: Platform3D, count: number) {
+    p.trees = [];
+    for (let i = 0; i < count; i++) {
+      p.trees.push({
+        ox: (Math.random() - 0.5) * Math.max(p.w - 2, 1),
+        oz: (Math.random() - 0.5) * Math.max(p.d - 2, 1),
+        s: 0.6 + Math.random() * 0.6,
+      });
     }
-
-    w = Math.max(w, 1.0);
-    d = Math.max(d, 1.0);
-
-    const plat: Platform3D = { x: cx, y: cy, z: cz, w, d, type };
-
-    if (type === "moving") {
-      plat.origX = cx;
-      plat.origZ = cz;
-      plat.moveAxis = Math.random() > 0.5 ? "x" : "z";
-      plat.moveRange = 1.0 + Math.random() * 1.5;
-      plat.moveSpeed = 0.5 + difficulty * 0.15;
-    }
-
-    if (type === "crumble") {
-      plat.crumbleTimer = 0;
-      plat.touched = false;
-    }
-
-    platforms.push(plat);
   }
 
-  // Goal platform (large, golden)
-  const goalAngle = Math.random() * Math.PI * 2;
-  cx += Math.cos(goalAngle) * 2;
-  cz += Math.sin(goalAngle) * 2;
-  cy += 1.5;
-  platforms.push({ x: cx, y: cy, z: cz, w: 3, d: 3, type: "normal" });
+  function addRocks(p: Platform3D, count: number) {
+    p.rocks = [];
+    for (let i = 0; i < count; i++) {
+      p.rocks.push({
+        ox: (Math.random() - 0.5) * Math.max(p.w - 1, 0.5),
+        oz: (Math.random() - 0.5) * Math.max(p.d - 1, 0.5),
+        s: 0.2 + Math.random() * 0.4,
+      });
+    }
+  }
+
+  // Start platform
+  const start: Platform3D = { x: 0, y: -0.5, z: 0, w: 8, d: 8, h: 1, type: "ground" };
+  addTrees(start, 3);
+  addRocks(start, 2);
+  platforms.push(start);
+
+  const segCount = 8 + level * 2;
+
+  for (let s = 0; s < segCount; s++) {
+    const roll = Math.random();
+    const lat = (Math.random() - 0.5) * 2;
+
+    if (s < 2 || roll < 0.30) {
+      // Ground path — wide walkable terrain
+      const depth = 6 + Math.random() * 8;
+      const w = 5 + Math.random() * 4;
+      cz += depth / 2 + 1.5;
+      cx += lat;
+      cy += 0.1 + Math.random() * 0.3;
+      const p: Platform3D = {
+        x: cx, y: cy - 0.5, z: cz,
+        w, d: depth, h: 1 + Math.random() * 0.5,
+        type: "ground",
+      };
+      addTrees(p, 1 + Math.floor(Math.random() * 3));
+      addRocks(p, Math.floor(Math.random() * 3));
+      platforms.push(p);
+      cz += depth / 2;
+    } else if (roll < 0.50) {
+      // Gap jump
+      const gap = 1.2 + difficulty * 0.08;
+      const d = 4 + Math.random() * 3;
+      cz += gap + d / 2;
+      cy += 0.1 + Math.random() * 0.3;
+      cx += lat * 0.4;
+      const p: Platform3D = {
+        x: cx, y: cy - 0.4, z: cz,
+        w: 4 + Math.random() * 3, d, h: 0.8 + Math.random() * 0.5,
+        type: "rock",
+      };
+      addRocks(p, 1 + Math.floor(Math.random() * 2));
+      platforms.push(p);
+      cz += d / 2;
+    } else if (roll < 0.68) {
+      // Staircase — rock steps going up
+      const steps = 3 + Math.floor(Math.random() * 3);
+      for (let i = 0; i < steps; i++) {
+        cz += 3.0;
+        cy += 0.6 + Math.random() * 0.4;
+        cx += (Math.random() - 0.5) * 1.0;
+        platforms.push({
+          x: cx, y: cy - 0.25, z: cz,
+          w: 2.5 + Math.random() * 1.5, d: 2.5 + Math.random(),
+          h: 0.5 + Math.random() * 0.3,
+          type: "step",
+        });
+      }
+    } else if (roll < 0.80) {
+      // Narrow bridge
+      const bLen = 5 + Math.random() * 5;
+      cz += bLen / 2 + 1.5;
+      cx += lat * 0.3;
+      platforms.push({
+        x: cx, y: cy - 0.1, z: cz,
+        w: 1.5 + Math.random() * 0.5, d: bLen, h: 0.25,
+        type: "bridge",
+      });
+      cz += bLen / 2;
+    } else if (difficulty >= 3 && roll < 0.90) {
+      // Moving platform
+      cz += 3.5;
+      cy += 0.3;
+      platforms.push({
+        x: cx, y: cy, z: cz, w: 3.5, d: 3.5, h: 0.4,
+        type: "moving",
+        origX: cx, origZ: cz,
+        moveAxis: Math.random() > 0.5 ? "x" : "z",
+        moveRange: 1.5 + Math.random() * 2,
+        moveSpeed: 0.4 + difficulty * 0.1,
+      });
+      cz += 4;
+    } else if (difficulty >= 4) {
+      // Crumble platforms
+      const count = 2 + Math.floor(Math.random() * 2);
+      for (let i = 0; i < count; i++) {
+        cz += 2.5;
+        cy += 0.2;
+        cx += (Math.random() - 0.5) * 1.5;
+        platforms.push({
+          x: cx, y: cy, z: cz, w: 3, d: 3, h: 0.3,
+          type: "crumble",
+          crumbleTimer: 0, touched: false,
+        });
+      }
+    }
+  }
+
+  // Goal platform
+  cz += 4;
+  cy += 0.3;
+  const goal: Platform3D = {
+    x: cx, y: cy - 0.5, z: cz + 3,
+    w: 7, d: 7, h: 1,
+    type: "ground",
+  };
+  addTrees(goal, 2);
+  platforms.push(goal);
 
   return { platforms, goalIdx: platforms.length - 1 };
 }
@@ -117,15 +192,12 @@ interface GameData {
   level: number;
   time: number;
   facingAngle: number;
-  // Input
   moveX: number;
   moveZ: number;
   jumpPressed: boolean;
   jumpUsed: boolean;
-  // Camera
   camTheta: number;
   camPhi: number;
-  // Animation
   walkCycle: number;
   isRunning: boolean;
 }
@@ -180,20 +252,16 @@ function Character({ gameRef }: { gameRef: React.RefObject<GameData> }) {
     if (!groupRef.current || !gameRef.current) return;
     const g = gameRef.current;
 
-    // Position
     groupRef.current.position.set(g.px, g.py, g.pz);
 
-    // Facing direction (smooth rotation)
     if (bodyGroupRef.current) {
       const targetRot = g.facingAngle;
       let diff = targetRot - bodyGroupRef.current.rotation.y;
-      // Normalize to -PI..PI
       while (diff > Math.PI) diff -= Math.PI * 2;
       while (diff < -Math.PI) diff += Math.PI * 2;
       bodyGroupRef.current.rotation.y += diff * 0.15;
     }
 
-    // Walk animation
     const isMoving = Math.abs(g.vx) > 0.01 || Math.abs(g.vz) > 0.01;
     const isAirborne = !g.onGround;
 
@@ -204,13 +272,12 @@ function Character({ gameRef }: { gameRef: React.RefObject<GameData> }) {
     }
 
     const legSwing = isAirborne
-      ? (g.vy > 0 ? 0.4 : -0.2) // legs forward when jumping, back when falling
+      ? (g.vy > 0 ? 0.4 : -0.2)
       : (isMoving ? Math.sin(g.walkCycle) * 0.7 : 0);
     const armSwing = isAirborne
-      ? (g.vy > 0 ? -0.8 : -0.3) // arms up when jumping
+      ? (g.vy > 0 ? -0.8 : -0.3)
       : (isMoving ? Math.sin(g.walkCycle + Math.PI) * 0.5 : 0);
 
-    // Squash/stretch
     let scaleY = 1, scaleXZ = 1;
     if (isAirborne) {
       if (g.vy > 0.15) { scaleY = 1.12; scaleXZ = 0.92; }
@@ -230,34 +297,28 @@ function Character({ gameRef }: { gameRef: React.RefObject<GameData> }) {
   return (
     <group ref={groupRef}>
       <group ref={bodyGroupRef}>
-        {/* Head */}
         <mesh position={[0, 0.82, 0]} material={headMat}>
           <boxGeometry args={[0.36, 0.36, 0.36]} />
         </mesh>
-        {/* Eyes */}
         <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}>
           <boxGeometry args={[0.07, 0.07, 0.02]} />
         </mesh>
         <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}>
           <boxGeometry args={[0.07, 0.07, 0.02]} />
         </mesh>
-        {/* Body */}
         <mesh position={[0, 0.42, 0]} material={bodyMat}>
           <boxGeometry args={[0.38, 0.42, 0.24]} />
         </mesh>
-        {/* Left Arm */}
         <group ref={leftArmRef} position={[0.28, 0.55, 0]}>
           <mesh position={[0, -0.17, 0]} material={limbMat}>
             <boxGeometry args={[0.12, 0.36, 0.12]} />
           </mesh>
         </group>
-        {/* Right Arm */}
         <group ref={rightArmRef} position={[-0.28, 0.55, 0]}>
           <mesh position={[0, -0.17, 0]} material={limbMat}>
             <boxGeometry args={[0.12, 0.36, 0.12]} />
           </mesh>
         </group>
-        {/* Left Leg */}
         <group ref={leftLegRef} position={[0.1, 0.2, 0]}>
           <mesh position={[0, -0.17, 0]} material={limbMat}>
             <boxGeometry args={[0.14, 0.28, 0.14]} />
@@ -266,7 +327,6 @@ function Character({ gameRef }: { gameRef: React.RefObject<GameData> }) {
             <boxGeometry args={[0.15, 0.08, 0.2]} />
           </mesh>
         </group>
-        {/* Right Leg */}
         <group ref={rightLegRef} position={[-0.1, 0.2, 0]}>
           <mesh position={[0, -0.17, 0]} material={limbMat}>
             <boxGeometry args={[0.14, 0.28, 0.14]} />
@@ -280,26 +340,75 @@ function Character({ gameRef }: { gameRef: React.RefObject<GameData> }) {
   );
 }
 
+// ─── TREE DECORATION ────────────────────────────────
+function TreeDeco({ px, py, pz, s }: { px: number; py: number; pz: number; s: number }) {
+  return (
+    <group position={[px, py, pz]}>
+      <mesh position={[0, 0.4 * s, 0]}>
+        <cylinderGeometry args={[0.05 * s, 0.09 * s, 0.8 * s, 5]} />
+        <meshStandardMaterial color="#5c3a1e" roughness={0.9} />
+      </mesh>
+      <mesh position={[0, 0.85 * s, 0]}>
+        <coneGeometry args={[0.35 * s, 0.6 * s, 5]} />
+        <meshStandardMaterial color="#1a5c0a" roughness={0.85} />
+      </mesh>
+      <mesh position={[0, 1.2 * s, 0]}>
+        <coneGeometry args={[0.25 * s, 0.45 * s, 5]} />
+        <meshStandardMaterial color="#1f6b10" roughness={0.85} />
+      </mesh>
+    </group>
+  );
+}
+
+// ─── ROCK DECORATION ────────────────────────────────
+function RockDeco({ px, py, pz, s }: { px: number; py: number; pz: number; s: number }) {
+  return (
+    <mesh position={[px, py + s * 0.15, pz]}>
+      <dodecahedronGeometry args={[s * 0.3, 0]} />
+      <meshStandardMaterial color="#7a7a6a" roughness={0.95} />
+    </mesh>
+  );
+}
+
 // ─── PLATFORM MESH ──────────────────────────────────
 function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: React.RefObject<GameData>; isGoal: boolean }) {
   const meshRef = useRef<THREE.Mesh>(null);
   const glowRef = useRef<THREE.PointLight>(null);
 
-  const color = useMemo(() => {
-    if (isGoal) return "#FFD700";
-    if (plat.type === "moving") return "#00FF88";
-    if (plat.type === "crumble") return "#FF2D78";
-    if (plat.type === "small") return "#FFD700";
-    return "#00D4FF";
+  const colors = useMemo(() => {
+    if (isGoal) return { c: "#4a9d38", e: "#FFD700", i: 0.25 };
+    switch (plat.type) {
+      case "ground": return { c: "#3a7d28", e: "#1a3d10", i: 0.05 };
+      case "rock": return { c: "#7a7a7a", e: "#333333", i: 0.03 };
+      case "step": return { c: "#8a8278", e: "#444038", i: 0.03 };
+      case "bridge": return { c: "#8B6914", e: "#443208", i: 0.05 };
+      case "moving": return { c: "#00FF88", e: "#00FF88", i: 0.3 };
+      case "crumble": return { c: "#FF4466", e: "#FF4466", i: 0.3 };
+      default: return { c: "#3a7d28", e: "#1a3d10", i: 0.05 };
+    }
   }, [plat.type, isGoal]);
 
   const mat = useMemo(() => new THREE.MeshStandardMaterial({
-    color,
-    emissive: color,
-    emissiveIntensity: isGoal ? 0.6 : 0.35,
-    transparent: true,
+    color: colors.c,
+    emissive: colors.e,
+    emissiveIntensity: colors.i,
+    roughness: plat.type === "bridge" ? 0.7 : 0.85,
+    transparent: plat.type === "crumble",
     opacity: 1,
-  }), [color, isGoal]);
+  }), [colors, plat.type]);
+
+  // Side material for ground platforms (brown earth)
+  const sideMat = useMemo(() => {
+    if (plat.type === "ground") {
+      return new THREE.MeshStandardMaterial({
+        color: "#5c3a1e",
+        emissive: "#2a1808",
+        emissiveIntensity: 0.03,
+        roughness: 0.9,
+      });
+    }
+    return null;
+  }, [plat.type]);
 
   useFrame(() => {
     if (!meshRef.current || !gameRef.current) return;
@@ -322,21 +431,62 @@ function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: Re
     meshRef.current.position.set(plat.x, plat.y, plat.z);
 
     if (isGoal && glowRef.current) {
-      glowRef.current.position.set(plat.x, plat.y + 1, plat.z);
+      glowRef.current.position.set(plat.x, plat.y + plat.h / 2 + 1, plat.z);
       glowRef.current.intensity = 3 + Math.sin(g.time * 0.04) * 1;
     }
   });
 
+  const platTop = plat.y + plat.h / 2;
+
   return (
     <>
-      <mesh ref={meshRef} position={[plat.x, plat.y, plat.z]} material={mat} receiveShadow>
-        <boxGeometry args={[plat.w, 0.25, plat.d]} />
-      </mesh>
+      {/* Main platform body */}
+      {plat.type === "ground" && sideMat ? (
+        // Ground: green top, brown sides
+        <group ref={meshRef as unknown as React.RefObject<THREE.Group>}>
+          {/* Top face (thin green layer) */}
+          <mesh position={[plat.x, plat.y + plat.h / 2 - 0.05, plat.z]} material={mat} receiveShadow castShadow>
+            <boxGeometry args={[plat.w, 0.1, plat.d]} />
+          </mesh>
+          {/* Earth body below */}
+          <mesh position={[plat.x, plat.y - 0.05, plat.z]} material={sideMat} receiveShadow castShadow>
+            <boxGeometry args={[plat.w, plat.h - 0.1, plat.d]} />
+          </mesh>
+        </group>
+      ) : (
+        <mesh ref={meshRef} position={[plat.x, plat.y, plat.z]} material={mat} receiveShadow castShadow>
+          <boxGeometry args={[plat.w, plat.h, plat.d]} />
+        </mesh>
+      )}
+
+      {/* Tree decorations */}
+      {plat.trees?.map((t, i) => (
+        <TreeDeco
+          key={`t${i}`}
+          px={plat.x + t.ox}
+          py={platTop}
+          pz={plat.z + t.oz}
+          s={t.s}
+        />
+      ))}
+
+      {/* Rock decorations */}
+      {plat.rocks?.map((r, i) => (
+        <RockDeco
+          key={`r${i}`}
+          px={plat.x + r.ox}
+          py={platTop}
+          pz={plat.z + r.oz}
+          s={r.s}
+        />
+      ))}
+
+      {/* Goal effects */}
       {isGoal && (
         <>
-          <pointLight ref={glowRef} color="#FFD700" intensity={3} distance={8} position={[plat.x, plat.y + 1, plat.z]} />
-          {/* Trophy floating above goal */}
-          <GoalTrophy pos={[plat.x, plat.y + 1.5, plat.z]} gameRef={gameRef} />
+          <pointLight ref={glowRef} color="#FFD700" intensity={3} distance={10}
+            position={[plat.x, platTop + 1, plat.z]} />
+          <GoalTrophy pos={[plat.x, platTop + 1.5, plat.z]} gameRef={gameRef} />
         </>
       )}
     </>
@@ -358,28 +508,57 @@ function GoalTrophy({ pos, gameRef }: { pos: number[]; gameRef: React.RefObject<
   );
 }
 
-// ─── STARS ──────────────────────────────────────────
-function Stars() {
-  const positions = useMemo(() => {
-    const arr = new Float32Array(500 * 3);
-    for (let i = 0; i < 500; i++) {
-      const theta = Math.random() * Math.PI * 2;
-      const phi = Math.random() * Math.PI;
-      const r = 50 + Math.random() * 50;
-      arr[i * 3] = r * Math.sin(phi) * Math.cos(theta);
-      arr[i * 3 + 1] = Math.random() * 150;
-      arr[i * 3 + 2] = r * Math.sin(phi) * Math.sin(theta);
+// ─── CLOUDS ─────────────────────────────────────────
+function Clouds() {
+  const clouds = useMemo(() => {
+    return Array.from({ length: 25 }, () => ({
+      x: (Math.random() - 0.5) * 120,
+      y: 12 + Math.random() * 25,
+      z: (Math.random() - 0.5) * 120,
+      sx: 2 + Math.random() * 4,
+      sy: 0.5 + Math.random() * 1,
+      sz: 1.5 + Math.random() * 3,
+    }));
+  }, []);
+
+  return (
+    <>
+      {clouds.map((c, i) => (
+        <mesh key={i} position={[c.x, c.y, c.z]}>
+          <boxGeometry args={[c.sx, c.sy, c.sz]} />
+          <meshStandardMaterial color="#ffffff" transparent opacity={0.25} roughness={1} />
+        </mesh>
+      ))}
+    </>
+  );
+}
+
+// ─── DISTANT MOUNTAINS ──────────────────────────────
+function DistantMountains() {
+  const mountains = useMemo(() => {
+    const arr = [];
+    for (let i = 0; i < 16; i++) {
+      const angle = (i / 16) * Math.PI * 2;
+      const r = 55 + Math.random() * 25;
+      arr.push({
+        x: Math.cos(angle) * r,
+        z: Math.sin(angle) * r,
+        height: 12 + Math.random() * 22,
+        width: 6 + Math.random() * 10,
+      });
     }
     return arr;
   }, []);
 
   return (
-    <points>
-      <bufferGeometry>
-        <bufferAttribute attach="attributes-position" args={[positions, 3]} />
-      </bufferGeometry>
-      <pointsMaterial color="#ffffff" size={0.15} transparent opacity={0.5} sizeAttenuation />
-    </points>
+    <>
+      {mountains.map((m, i) => (
+        <mesh key={i} position={[m.x, m.height / 2 - 8, m.z]}>
+          <coneGeometry args={[m.width, m.height, 4]} />
+          <meshStandardMaterial color="#4a6a88" roughness={0.95} />
+        </mesh>
+      ))}
+    </>
   );
 }
 
@@ -407,14 +586,13 @@ function GameLoop({ gameRef, onDie, onGoal }: {
     g.isRunning = inputLen > 0.7;
 
     if (inputLen > 0.05) {
-      // Camera forward direction (from camera toward player)
+      // Camera forward (from camera toward player)
       const fwdX = Math.sin(camAngle);
       const fwdZ = Math.cos(camAngle);
-      // Camera right direction
-      const rightX = Math.cos(camAngle);
-      const rightZ = -Math.sin(camAngle);
+      // Camera right (Three.js right-hand: facing +Z, right is -X)
+      const rightX = -Math.cos(camAngle);
+      const rightZ = Math.sin(camAngle);
 
-      // World movement = forward * moveZ + right * moveX
       const worldDirX = fwdX * g.moveZ + rightX * g.moveX;
       const worldDirZ = fwdZ * g.moveZ + rightZ * g.moveX;
 
@@ -423,7 +601,6 @@ function GameLoop({ gameRef, onDie, onGoal }: {
       g.vx += (targetVx - g.vx) * ACCEL;
       g.vz += (targetVz - g.vz) * ACCEL;
 
-      // Face movement direction
       g.facingAngle = Math.atan2(worldDirX, worldDirZ);
     } else {
       g.vx *= FRICTION;
@@ -448,7 +625,7 @@ function GameLoop({ gameRef, onDie, onGoal }: {
     g.py += g.vy * dt;
     g.pz += g.vz;
 
-    // ─── PLATFORM COLLISION ─────
+    // ─── PLATFORM COLLISION (variable height) ─────
     g.onGround = false;
     for (const plat of g.platforms) {
       if (plat.type === "crumble" && plat.touched) {
@@ -456,12 +633,11 @@ function GameLoop({ gameRef, onDie, onGoal }: {
         if ((plat.crumbleTimer || 0) > 40) continue;
       }
 
-      // Only check when falling
       if (g.vy > 0) continue;
 
       const halfW = plat.w / 2;
       const halfD = plat.d / 2;
-      const platTop = plat.y + 0.125;
+      const platTop = plat.y + plat.h / 2;
 
       const withinX = g.px > plat.x - halfW + 0.1 && g.px < plat.x + halfW - 0.1;
       const withinZ = g.pz > plat.z - halfD + 0.1 && g.pz < plat.z + halfD - 0.1;
@@ -476,7 +652,7 @@ function GameLoop({ gameRef, onDie, onGoal }: {
       }
     }
 
-    // ─── DEATH (fell too far) ────────
+    // ─── DEATH ────────
     if (g.py < -10) {
       g.dead = true;
       onDie();
@@ -489,7 +665,7 @@ function GameLoop({ gameRef, onDie, onGoal }: {
       const dx = g.px - goal.x;
       const dz = g.pz - goal.z;
       const dist = Math.sqrt(dx * dx + dz * dz);
-      if (dist < 1.5 && g.py > goal.y - 0.5 && g.py < goal.y + 2) {
+      if (dist < 2.5 && g.py > goal.y - 0.5 && g.py < goal.y + 3) {
         g.levelComplete = true;
         onGoal();
         return;
@@ -502,7 +678,7 @@ function GameLoop({ gameRef, onDie, onGoal }: {
     const camY = g.py + CAM_HEIGHT + Math.sin(g.camPhi) * 2;
 
     vec.set(camX, camY, camZ);
-    camera.position.lerp(vec, 0.08 * dt);
+    camera.position.lerp(vec, 0.06 * dt);
     camera.lookAt(g.px, g.py + 0.8, g.pz);
   });
 
@@ -520,13 +696,14 @@ function Scene3D({ gameRef, onDie, onGoal }: {
 
   return (
     <>
-      <ambientLight intensity={0.25} />
-      <directionalLight position={[10, 20, 10]} intensity={0.7} castShadow />
-      <hemisphereLight args={["#0044AA", "#000022", 0.3]} />
+      <ambientLight intensity={0.45} color="#c8d8e8" />
+      <directionalLight position={[15, 25, 10]} intensity={1.1} color="#fff5e0" castShadow />
+      <hemisphereLight args={["#87CEEB", "#3a5c28", 0.35]} />
 
-      <fog attach="fog" args={["#050510", 20, 80]} />
+      <fog attach="fog" args={["#b8d0e0", 35, 110]} />
 
-      <Stars />
+      <Clouds />
+      <DistantMountains />
 
       {g.platforms.map((plat, i) => (
         <PlatformMesh key={i} plat={plat} gameRef={gameRef} isGoal={i === g.goalIdx} />
@@ -567,7 +744,6 @@ function VirtualJoystick({ gameRef }: { gameRef: React.RefObject<GameData> }) {
         const norm = dist / maxDist;
 
         if (rawLen > 2) {
-          // Right on screen = +moveX, Up on screen = +moveZ (forward)
           gameRef.current.moveX = (rawDx / rawLen) * norm;
           gameRef.current.moveZ = (-rawDy / rawLen) * norm;
         } else {
@@ -575,7 +751,6 @@ function VirtualJoystick({ gameRef }: { gameRef: React.RefObject<GameData> }) {
           gameRef.current.moveZ = 0;
         }
 
-        // Knob follows finger in screen coordinates
         if (knobRef.current && rawLen > 0) {
           const clamp = Math.min(rawLen, maxDist);
           knobRef.current.style.transform = `translate(${(rawDx / rawLen) * clamp}px, ${(rawDy / rawLen) * clamp}px)`;
@@ -599,13 +774,13 @@ function VirtualJoystick({ gameRef }: { gameRef: React.RefObject<GameData> }) {
   return (
     <div
       ref={stickRef}
-      className="absolute bottom-8 left-8 w-28 h-28 rounded-full bg-white/5 border border-white/10 flex items-center justify-center"
+      className="absolute bottom-8 left-8 w-28 h-28 rounded-full bg-black/20 border border-white/15 flex items-center justify-center backdrop-blur-sm"
       onTouchStart={handleStart}
       onTouchMove={handleMove}
       onTouchEnd={handleEnd}
       onTouchCancel={handleEnd}
     >
-      <div ref={knobRef} className="w-12 h-12 rounded-full bg-white/15 border border-white/20" />
+      <div ref={knobRef} className="w-12 h-12 rounded-full bg-white/20 border border-white/30" />
     </div>
   );
 }
@@ -651,7 +826,6 @@ export default function SkyClimbPage() {
       g.moveZ = mz;
     }
 
-    // Mouse for camera orbit
     let isMouseDown = false;
     let lastMouseX = 0;
 
@@ -669,12 +843,10 @@ export default function SkyClimbPage() {
 
     const handleMouseUp = () => { isMouseDown = false; };
 
-    // Touch camera orbit (two-finger or right side drag)
     let camTouchId: number | null = null;
     let camLastX = 0;
 
     const handleTouchStart = (e: TouchEvent) => {
-      // Check if touch is on right side (for camera), excluding jump button area
       for (let i = 0; i < e.changedTouches.length; i++) {
         const t = e.changedTouches[i];
         const rightSide = t.clientX > window.innerWidth * 0.5;
@@ -804,7 +976,8 @@ export default function SkyClimbPage() {
       {/* 3D Game */}
       {gameState === "playing" && (
         <div className="fixed inset-0 touch-none">
-          <Canvas camera={{ fov: 60 }} gl={{ antialias: true }} style={{ background: "#050510" }}>
+          <Canvas camera={{ fov: 60 }} gl={{ antialias: true }}
+            style={{ background: "linear-gradient(180deg, #4a8fca 0%, #87CEEB 40%, #b8d0e0 100%)" }}>
             <Scene3D gameRef={gameRef} onDie={handleDie} onGoal={handleGoal} />
           </Canvas>
 
@@ -812,7 +985,7 @@ export default function SkyClimbPage() {
           <div className="fixed top-4 left-0 right-0 z-10 flex justify-center pointer-events-none">
             <div className="bg-black/40 backdrop-blur-sm rounded-xl px-4 py-2 flex items-center gap-3">
               <Mountain size={14} className="text-neon-green" />
-              <span className="text-white/50 font-mono text-sm font-bold">LVL {level}</span>
+              <span className="text-white/80 font-mono text-sm font-bold">LVL {level}</span>
             </div>
           </div>
 
@@ -821,19 +994,18 @@ export default function SkyClimbPage() {
             <div className="pointer-events-auto">
               <VirtualJoystick gameRef={gameRef} />
             </div>
-            {/* Jump button */}
             <button
-              className="pointer-events-auto absolute bottom-8 right-8 w-20 h-20 rounded-full bg-neon-green/15 border-2 border-neon-green/30 flex items-center justify-center active:bg-neon-green/30 active:scale-95 transition-transform"
+              className="pointer-events-auto absolute bottom-8 right-8 w-20 h-20 rounded-full bg-white/15 border-2 border-white/25 flex items-center justify-center active:bg-white/30 active:scale-95 transition-transform backdrop-blur-sm"
               onTouchStart={(e) => { e.preventDefault(); if (gameRef.current) gameRef.current.jumpPressed = true; }}
               onTouchEnd={(e) => { e.preventDefault(); if (gameRef.current) gameRef.current.jumpPressed = false; }}
             >
-              <ArrowUp size={28} className="text-neon-green" />
+              <ArrowUp size={28} className="text-white" />
             </button>
           </div>
 
           {/* PC controls hint */}
           <div className="fixed bottom-4 left-0 right-0 z-10 hidden sm:flex justify-center pointer-events-none">
-            <div className="bg-black/30 backdrop-blur-sm rounded-lg px-3 py-1.5 flex items-center gap-4 text-white/20 text-xs font-mono">
+            <div className="bg-black/30 backdrop-blur-sm rounded-lg px-3 py-1.5 flex items-center gap-4 text-white/40 text-xs font-mono">
               <span>WASD</span>
               <span>SPACE ↑</span>
               <span>MOUSE ↻</span>
