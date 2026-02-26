@@ -7,7 +7,6 @@ import Link from "next/link";
 import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
-import { addSpecialCards } from "@/lib/specialCards";
 import generalData from "@/data/quickpick/general.json";
 import kpopData from "@/data/quickpick/kpop.json";
 import footballData from "@/data/quickpick/football.json";
@@ -178,7 +177,6 @@ export default function DailyChallengePage() {
           total: TOTAL_ROUNDS,
           date: new Date().toISOString(),
         });
-        addSpecialCards(1);
         setGameState("reward");
       } else {
         setRound((r) => r + 1);

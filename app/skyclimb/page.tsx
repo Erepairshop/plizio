@@ -8,7 +8,6 @@ import { Mountain, Trophy, ArrowUp, RotateCcw, Home, Maximize, Share, Rocket, Sh
 import Link from "next/link";
 import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, type CardRarity } from "@/lib/cards";
-import { addSpecialCards } from "@/lib/specialCards";
 import { getSkinDef, getActiveSkin } from "@/lib/skins";
 import { getHatDef, getActiveHat, getTrailDef, getActiveTrail } from "@/lib/accessories";
 import { incrementTotalGames, updateStats } from "@/lib/milestones";
@@ -1776,7 +1775,6 @@ export default function SkyClimbPage() {
     setHighestLevel(newHighest);
     incrementTotalGames();
     updateStats({ skyHighestLevel: newHighest });
-    addSpecialCards(1);
     setGameState("reward");
   }, []);
 

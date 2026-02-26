@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Sparkles, Trophy, Crosshair, Zap, Brain, Calendar, Mountain, Star, type LucideIcon } from "lucide-react";
+import { Sparkles, Trophy, Crosshair, Zap, Brain, Calendar, Mountain, type LucideIcon } from "lucide-react";
 import { type CardRarity, getRarityConfig } from "@/lib/cards";
 import Confetti from "@/components/Confetti";
 
@@ -125,17 +125,6 @@ export default function RewardReveal({ rarity, game, score, total, onDone }: Rew
               transition={{ delay: 1 }}
             >
               {score}/{total}
-            </motion.div>
-
-            {/* Star reward */}
-            <motion.div
-              className="flex items-center gap-1.5 bg-[#E040FB]/15 border border-[#E040FB]/30 rounded-full px-3 py-1"
-              initial={{ opacity: 0, scale: 0.5 }}
-              animate={revealed ? { opacity: 1, scale: 1 } : {}}
-              transition={{ delay: 1.05, type: "spring" }}
-            >
-              <Star size={14} className="text-[#E040FB]" fill="#E040FB" />
-              <span className="text-[#E040FB] text-xs font-black">+1</span>
             </motion.div>
 
             {/* Date */}

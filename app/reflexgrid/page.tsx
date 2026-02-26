@@ -8,7 +8,6 @@ import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames } from "@/lib/milestones";
-import { addSpecialCards } from "@/lib/specialCards";
 import MilestonePopup from "@/components/MilestonePopup";
 
 type CellState = "idle" | "green" | "red" | "gold";
@@ -77,7 +76,6 @@ export default function ReflexGridPage() {
         date: new Date().toISOString(),
       });
       incrementTotalGames();
-      addSpecialCards(1);
       setCardSaved(true);
     }
   }, [gameState, score, cardSaved]);

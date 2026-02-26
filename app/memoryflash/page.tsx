@@ -8,7 +8,6 @@ import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, incrementPerfectScores } from "@/lib/milestones";
-import { addSpecialCards } from "@/lib/specialCards";
 import MilestonePopup from "@/components/MilestonePopup";
 import generalData from "@/data/memoryflash/general.json";
 
@@ -107,7 +106,6 @@ export default function MemoryFlashPage() {
           date: new Date().toISOString(),
         });
         incrementTotalGames();
-        addSpecialCards(1);
         if (finalScore === ms) incrementPerfectScores();
         setGameState("reward");
       } else {

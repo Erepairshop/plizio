@@ -8,7 +8,6 @@ import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, incrementPerfectScores, updateStats } from "@/lib/milestones";
-import { addSpecialCards } from "@/lib/specialCards";
 import MilestonePopup from "@/components/MilestonePopup";
 import generalData from "@/data/quickpick/general.json";
 import kpopData from "@/data/quickpick/kpop.json";
@@ -207,7 +206,6 @@ export default function QuickPickPage() {
         });
         const finalScore = score + (correct ? 1 : 0);
         incrementTotalGames();
-        addSpecialCards(1);
         if (finalScore === TOTAL_ROUNDS) incrementPerfectScores();
         updateStats({ highestStreak: newStreak });
         setGameState("reward");
