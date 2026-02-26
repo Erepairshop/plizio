@@ -2,10 +2,12 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Calendar, Trophy, CheckCircle, XCircle, ArrowUp, Flame, Lock } from "lucide-react";
+import { Calendar, Trophy, CheckCircle, XCircle, ArrowUp, Flame, Lock, X } from "lucide-react";
+import Link from "next/link";
 import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
+import { addSpecialCards } from "@/lib/specialCards";
 import generalData from "@/data/quickpick/general.json";
 import kpopData from "@/data/quickpick/kpop.json";
 import footballData from "@/data/quickpick/football.json";
@@ -176,6 +178,7 @@ export default function DailyChallengePage() {
           total: TOTAL_ROUNDS,
           date: new Date().toISOString(),
         });
+        addSpecialCards(1);
         setGameState("reward");
       } else {
         setRound((r) => r + 1);
@@ -303,6 +306,13 @@ export default function DailyChallengePage() {
       {(gameState === "playing" || gameState === "reveal") && (
         <div className="fixed top-0 left-0 right-0 z-40 p-4">
           <div className="flex items-center justify-between max-w-md mx-auto">
+            {/* Close button */}
+            <Link href="/">
+              <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2 cursor-pointer hover:bg-black/60 transition-colors">
+                <X size={16} className="text-white/60" />
+              </div>
+            </Link>
+
             <div className="flex gap-1.5">
               {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (
                 <motion.div

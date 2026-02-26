@@ -2,11 +2,13 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Zap, Trophy, Timer, AlertTriangle } from "lucide-react";
+import { Zap, Trophy, Timer, AlertTriangle, X } from "lucide-react";
+import Link from "next/link";
 import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames } from "@/lib/milestones";
+import { addSpecialCards } from "@/lib/specialCards";
 import MilestonePopup from "@/components/MilestonePopup";
 
 type CellState = "idle" | "green" | "red" | "gold";
@@ -75,6 +77,7 @@ export default function ReflexGridPage() {
         date: new Date().toISOString(),
       });
       incrementTotalGames();
+      addSpecialCards(1);
       setCardSaved(true);
     }
   }, [gameState, score, cardSaved]);
@@ -223,6 +226,13 @@ export default function ReflexGridPage() {
       {gameState === "playing" && (
         <div className="fixed top-0 left-0 right-0 z-40 p-4">
           <div className="flex items-center justify-between max-w-md mx-auto">
+            {/* Close button */}
+            <Link href="/">
+              <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2 cursor-pointer hover:bg-black/60 transition-colors">
+                <X size={16} className="text-white/60" />
+              </div>
+            </Link>
+
             {/* Timer */}
             <motion.div
               className={`flex items-center gap-1.5 text-xl font-black font-mono ${

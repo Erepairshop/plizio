@@ -172,9 +172,34 @@ Minden kerdeshez hozzárendelünk emojit/ikont:
 
 ---
 
-## KERDESEK A FELHASZNALOHOZ
+## 7. JOVO TERVEK (BACKLOG)
 
-1. A kategoriak elnevezese jo? ("Quiz & Reflex" + "Adventure") vagy mas?
-2. Quick Pick-nel zaszlo emojik jok az orszagokhoz? (🇨🇳🇺🇸🇯🇵 stb.)
-3. Adat bovitesnel melyik tema a legfontosabb eloszor?
-4. Kell-e uj tema (pl. Gaming, Movies)?
+| # | Feladat | Prioritas | Allapot |
+|---|---------|-----------|---------|
+| 1 | +50 Quick Pick kerdes (400+ cel) | Kozepes | Kesz: 356, cel 400+ |
+| 2 | Uj Quick Pick temak (gaming, movies) | Alacsony | Tervezes |
+| 3 | Hangeffektek (ugras, gyujtes, halal) | Kozepes | Tervezes |
+| 4 | Online Leaderboard (ranglista) | Magas | Tervezes |
+| 5 | Tobb Memory Flash tema (geography, science) | Alacsony | Tervezes |
+| 6 | Avatar ikon a 2D jatekokban | Alacsony | Tervezes |
+| 7 | Animalt atmenetek oldalak kozott | Alacsony | Tervezes |
+| 8 | VIP vasarlasok Legendary kartyaval | Magas | Tervezes |
+| 9 | LEARNING kategoria jatekok (matek, nyelvi feladatok, tesztek) | Magas | Kategoria letrehozva, ures |
+
+---
+
+## KESZ FELADATOK (2026-02-26)
+
+- ✅ Fooldal kategoriak (osszecsukhatoak, uj LEARNING kategoria)
+- ✅ Quick Pick emoji/vizualis fejlesztes
+- ✅ Adat bovites (356 QP + 70 MF kerdes)
+- ✅ 3D kartya effektek
+- ✅ Memory Flash bovites
+- ✅ Reflex Grid polish
+- ✅ Magnes power-up javitas (gentle guide, nem eros huzas)
+- ✅ Raketa power-up javitas (5 blokk ugras, level 5+ utan)
+- ✅ Shop power-up aktivalas (sky_extralife mukodik)
+- ✅ Csillag jutalom minden jatekban (+1 ⭐)
+- ✅ X bezaro gomb minden jatekban
+- ✅ Magyar szoveg eltavolitva (angol)
+- ✅ Kartya ritk. szamitas javitva

@@ -3,7 +3,8 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Calendar, Layers, Star, User, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Calendar, Layers, Star, User, ChevronDown, BookOpen, type LucideIcon } from "lucide-react";
+import { AnimatePresence } from "framer-motion";
 import Logo from "@/components/Logo";
 import GameCard from "@/components/GameCard";
 import { getCards } from "@/lib/cards";
@@ -73,6 +74,12 @@ const CATEGORIES: CategoryDef[] = [
       },
     ],
   },
+  {
+    label: "LEARNING",
+    icon: BookOpen,
+    color: "#FFD700",
+    games: [],
+  },
 ];
 
 function getStreak(): number {
@@ -103,6 +110,11 @@ export default function Home() {
   const [showUsernameModal, setShowUsernameModal] = useState(false);
   const [username, setUsernameState] = useState<string | null>(null);
   const [isLoggedIn, setIsLoggedIn] = useState(false);
+  const [openCategories, setOpenCategories] = useState<Record<string, boolean>>({
+    "QUIZ & REFLEX": true,
+    "ADVENTURE": true,
+    "LEARNING": true,
+  });
 
   useEffect(() => {
     setStreak(getStreak());
@@ -229,43 +241,72 @@ export default function Home() {
       </motion.div>
 
       {/* Categories */}
-      <div className="flex flex-col items-center gap-8 w-full max-w-md px-2">
+      <div className="flex flex-col items-center gap-6 w-full max-w-md px-2">
         {CATEGORIES.map((cat, ci) => {
           const CatIcon = cat.icon;
+          const isOpen = openCategories[cat.label] ?? true;
+          const isEmpty = cat.games.length === 0;
           return (
             <motion.div
               key={cat.label}
-              className="w-full flex flex-col items-center gap-4"
+              className="w-full flex flex-col items-center gap-3"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.3 + ci * 0.2 }}
             >
-              {/* Category header */}
-              <div className="flex items-center gap-3 w-full">
+              {/* Category header - clickable to toggle */}
+              <button
+                onClick={() => setOpenCategories(prev => ({ ...prev, [cat.label]: !prev[cat.label] }))}
+                className="flex items-center gap-3 w-full group cursor-pointer"
+              >
                 <div className="h-px flex-1 opacity-20" style={{ background: `linear-gradient(to right, transparent, ${cat.color})` }} />
                 <div className="flex items-center gap-2">
                   <CatIcon size={14} style={{ color: cat.color, filter: `drop-shadow(0 0 6px ${cat.color}60)` }} />
                   <span className="text-[10px] font-bold tracking-[0.2em] uppercase" style={{ color: `${cat.color}90` }}>
                     {cat.label}
                   </span>
+                  <motion.div animate={{ rotate: isOpen ? 180 : 0 }} transition={{ duration: 0.2 }}>
+                    <ChevronDown size={12} style={{ color: `${cat.color}60` }} />
+                  </motion.div>
                 </div>
                 <div className="h-px flex-1 opacity-20" style={{ background: `linear-gradient(to left, transparent, ${cat.color})` }} />
-              </div>
+              </button>
 
               {/* Games in this category */}
-              <div className="flex flex-wrap items-center justify-center gap-4 sm:gap-6">
-                {cat.games.map((game, gi) => (
-                  <GameCard
-                    key={game.id}
-                    icon={game.icon}
-                    name={game.name}
-                    color={game.color}
-                    gradient={game.gradient}
-                    href={`/${game.id}`}
-                    delay={0.4 + ci * 0.2 + gi * 0.1}
-                  />
-                ))}
-              </div>
+              <AnimatePresence initial={false}>
+                {isOpen && (
+                  <motion.div
+                    initial={{ height: 0, opacity: 0 }}
+                    animate={{ height: "auto", opacity: 1 }}
+                    exit={{ height: 0, opacity: 0 }}
+                    transition={{ duration: 0.25, ease: "easeInOut" }}
+                    className="overflow-hidden w-full"
+                  >
+                    {isEmpty ? (
+                      <div className="flex flex-col items-center gap-2 py-4">
+                        <CatIcon size={24} style={{ color: `${cat.color}30` }} />
+                        <span className="text-[10px] font-bold tracking-wider" style={{ color: `${cat.color}40` }}>
+                          COMING SOON
+                        </span>
+                      </div>
+                    ) : (
+                      <div className="flex flex-wrap items-center justify-center gap-4 sm:gap-6">
+                        {cat.games.map((game, gi) => (
+                          <GameCard
+                            key={game.id}
+                            icon={game.icon}
+                            name={game.name}
+                            color={game.color}
+                            gradient={game.gradient}
+                            href={`/${game.id}`}
+                            delay={0.4 + ci * 0.2 + gi * 0.1}
+                          />
+                        ))}
+                      </div>
+                    )}
+                  </motion.div>
+                )}
+              </AnimatePresence>
             </motion.div>
           );
         })}

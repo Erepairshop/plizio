@@ -2,11 +2,13 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Crosshair, Trophy, CheckCircle, XCircle, ArrowUp, Flame, Globe, Music, CircleDot, Sparkles } from "lucide-react";
+import { Crosshair, Trophy, CheckCircle, XCircle, ArrowUp, Flame, Globe, Music, CircleDot, Sparkles, X } from "lucide-react";
+import Link from "next/link";
 import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, incrementPerfectScores, updateStats } from "@/lib/milestones";
+import { addSpecialCards } from "@/lib/specialCards";
 import MilestonePopup from "@/components/MilestonePopup";
 import generalData from "@/data/quickpick/general.json";
 import kpopData from "@/data/quickpick/kpop.json";
@@ -191,6 +193,7 @@ export default function QuickPickPage() {
         });
         const finalScore = score + (correct ? 1 : 0);
         incrementTotalGames();
+        addSpecialCards(1);
         if (finalScore === TOTAL_ROUNDS) incrementPerfectScores();
         updateStats({ highestStreak: newStreak });
         setGameState("reward");
@@ -319,6 +322,13 @@ export default function QuickPickPage() {
       {(gameState === "playing" || gameState === "reveal") && (
         <div className="fixed top-0 left-0 right-0 z-40 p-4">
           <div className="flex items-center justify-between max-w-md mx-auto">
+            {/* Close button */}
+            <Link href="/">
+              <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2 cursor-pointer hover:bg-black/60 transition-colors">
+                <X size={16} className="text-white/60" />
+              </div>
+            </Link>
+
             {/* Progress dots */}
             <div className="flex gap-1.5">
               {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (

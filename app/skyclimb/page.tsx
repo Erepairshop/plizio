@@ -8,6 +8,7 @@ import { Mountain, Trophy, ArrowUp, RotateCcw, Home, Maximize, Share, Rocket, Sh
 import Link from "next/link";
 import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, type CardRarity } from "@/lib/cards";
+import { addSpecialCards } from "@/lib/specialCards";
 import { getSkinDef, getActiveSkin } from "@/lib/skins";
 import { getHatDef, getActiveHat, getTrailDef, getActiveTrail } from "@/lib/accessories";
 import { incrementTotalGames, updateStats } from "@/lib/milestones";
@@ -60,8 +61,9 @@ const ACCEL = 0.06;
 const COYOTE_FRAMES = 6;
 const JUMP_BUFFER = 8;
 const ROCKET_FORCE = 1.6;
+const ROCKET_SKIP_PLATFORMS = 5;
 const MAGNET_DURATION = 300;
-const MAGNET_PULL = 0.012;
+const MAGNET_PULL = 0.006;
 const WIN_ANIM_FRAMES = 90;
 
 // ─── LEVEL GENERATION (CONNECTED PATH) ─────────────
@@ -1124,27 +1126,29 @@ function GameLoop({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed 
     const gravMult = g.rocketTimer > 0 ? 0.4 : 1.0;
     g.vy -= GRAVITY * dt * gravMult;
 
-    // ─── MAGNET EFFECT — pulls toward nearest NEXT platform (ahead of player) ─────
-    if (g.magnetTimer > 0) {
+    // ─── MAGNET EFFECT — gentle guide toward nearest NEXT platform (only when airborne) ─────
+    if (g.magnetTimer > 0 && !g.onGround) {
       let nearestDist = Infinity;
       let nearestPlat: Platform3D | null = null;
       for (const plat of g.platforms) {
         if (plat.type === "crumble" && plat.touched && (plat.crumbleTimer || 0) > 50) continue;
-        // Only attract to platforms that are ahead or nearby (not far behind)
-        if (plat.z < g.pz - 3) continue;
+        // Only attract to platforms ahead
+        if (plat.z < g.pz + 1) continue;
         const dx = plat.x - g.px;
         const dz = plat.z - g.pz;
         const dist = Math.sqrt(dx * dx + dz * dz);
-        // Prefer platforms ahead and within range
-        if (dist < nearestDist && dist > 0.5 && dist < 10) {
+        if (dist < nearestDist && dist > 0.5 && dist < 12) {
           nearestDist = dist;
           nearestPlat = plat;
         }
       }
-      if (nearestPlat) {
-        const pull = g.onGround ? MAGNET_PULL * 1.5 : MAGNET_PULL * 3;
-        g.vx += (nearestPlat.x - g.px) * pull;
-        g.vz += (nearestPlat.z - g.pz) * pull;
+      if (nearestPlat && nearestDist > 1) {
+        const dx = nearestPlat.x - g.px;
+        const dz = nearestPlat.z - g.pz;
+        const len = Math.sqrt(dx * dx + dz * dz);
+        // Gentle directional nudge (not proportional to distance - constant gentle force)
+        g.vx += (dx / len) * MAGNET_PULL;
+        g.vz += (dz / len) * MAGNET_PULL;
       }
     }
 
@@ -1224,13 +1228,29 @@ function GameLoop({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed 
         pu.collected = true;
         onPowerUp(pu.type);
         if (pu.type === "rocket") {
-          g.vy = ROCKET_FORCE;
-          // Also boost forward based on facing direction
-          const fwdX = Math.sin(g.facingAngle);
-          const fwdZ = Math.cos(g.facingAngle);
-          g.vx += fwdX * 0.15;
-          g.vz += fwdZ * 0.15;
-          g.rocketTimer = 60;
+          // Find platform ~5 ahead of current position
+          const aheadPlats = g.platforms
+            .filter(p => p.z > g.pz + 2)
+            .sort((a, b) => a.z - b.z);
+          const targetIdx = Math.min(ROCKET_SKIP_PLATFORMS - 1, aheadPlats.length - 1);
+          const target = aheadPlats[targetIdx];
+          if (target) {
+            // Calculate velocity needed to reach target platform
+            const dz = target.z - g.pz;
+            const dx = target.x - g.px;
+            const totalFrames = 90; // ~1.5 sec flight
+            g.vx = dx / totalFrames * 0.7;
+            g.vz = dz / totalFrames * 0.7;
+            g.vy = ROCKET_FORCE;
+            g.rocketTimer = totalFrames;
+          } else {
+            g.vy = ROCKET_FORCE;
+            const fwdX = Math.sin(g.facingAngle);
+            const fwdZ = Math.cos(g.facingAngle);
+            g.vx += fwdX * 0.2;
+            g.vz += fwdZ * 0.2;
+            g.rocketTimer = 90;
+          }
           g.onGround = false;
         } else if (pu.type === "shield") {
           g.hasShield = true;
@@ -1688,10 +1708,26 @@ export default function SkyClimbPage() {
     g.powerUps = powerUps;
     g.level = lvl;
     g.py = 1;
+
+    // Activate shop power-up: sky_extralife gives shield at start
+    try {
+      const saved = localStorage.getItem("plizio_powerups");
+      if (saved) {
+        const pups = JSON.parse(saved) as Record<string, number>;
+        if (pups["sky_extralife"] && pups["sky_extralife"] > 0) {
+          g.hasShield = true;
+          pups["sky_extralife"] -= 1;
+          if (pups["sky_extralife"] <= 0) delete pups["sky_extralife"];
+          localStorage.setItem("plizio_powerups", JSON.stringify(pups));
+          setShieldActive(true);
+          setNotification("SHIELD READY!");
+          setTimeout(() => setNotification(null), 2000);
+        }
+      }
+    } catch {}
+
     setLevel(lvl);
     setWinAnimActive(false);
-    setNotification(null);
-    setShieldActive(false);
     setGameState("playing");
   }, []);
 
@@ -1707,9 +1743,9 @@ export default function SkyClimbPage() {
   const handlePowerUp = useCallback((type: PowerUpType) => {
     if (type === "shield") setShieldActive(true);
     const names: Record<PowerUpType, string> = {
-      rocket: "RAKETA!",
-      shield: "PAJZS!",
-      magnet: "MAGNES!",
+      rocket: "ROCKET!",
+      shield: "SHIELD!",
+      magnet: "MAGNET!",
     };
     setNotification(names[type]);
     setTimeout(() => setNotification(null), 2000);
@@ -1717,7 +1753,7 @@ export default function SkyClimbPage() {
 
   const handleShieldUsed = useCallback(() => {
     setShieldActive(false);
-    setNotification("PAJZS HASZNALVA!");
+    setNotification("SHIELD USED!");
     setTimeout(() => setNotification(null), 2000);
   }, []);
 
@@ -1740,6 +1776,7 @@ export default function SkyClimbPage() {
     setHighestLevel(newHighest);
     incrementTotalGames();
     updateStats({ skyHighestLevel: newHighest });
+    addSpecialCards(1);
     setGameState("reward");
   }, []);
 

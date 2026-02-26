@@ -2,11 +2,13 @@
 
 import { useState, useEffect, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Brain, Trophy, CheckCircle, XCircle, Eye } from "lucide-react";
+import { Brain, Trophy, CheckCircle, XCircle, Eye, X } from "lucide-react";
+import Link from "next/link";
 import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, incrementPerfectScores } from "@/lib/milestones";
+import { addSpecialCards } from "@/lib/specialCards";
 import MilestonePopup from "@/components/MilestonePopup";
 import generalData from "@/data/memoryflash/general.json";
 
@@ -105,6 +107,7 @@ export default function MemoryFlashPage() {
           date: new Date().toISOString(),
         });
         incrementTotalGames();
+        addSpecialCards(1);
         if (finalScore === ms) incrementPerfectScores();
         setGameState("reward");
       } else {
@@ -174,6 +177,13 @@ export default function MemoryFlashPage() {
       {gameState !== "countdown" && gameState !== "result" && (
         <div className="fixed top-0 left-0 right-0 z-40 p-4">
           <div className="flex items-center justify-between max-w-md mx-auto">
+            {/* Close button */}
+            <Link href="/">
+              <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2 cursor-pointer hover:bg-black/60 transition-colors">
+                <X size={16} className="text-white/60" />
+              </div>
+            </Link>
+
             <div className="flex gap-2">
               {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (
                 <motion.div
