@@ -29,12 +29,14 @@ type GameState = "menu" | "playing" | "dead" | "level-complete" | "reward";
 
 // ─── CONSTANTS ──────────────────────────────────────
 const GRAVITY = 0.025;
-const JUMP_FORCE = 0.42;
-const MOVE_SPEED = 0.12;
-const RUN_SPEED = 0.18;
+const JUMP_FORCE = 0.38;
+const MOVE_SPEED = 0.055;
+const RUN_SPEED = 0.09;
 const PLAYER_RADIUS = 0.3;
-const CAM_DISTANCE = 6;
-const CAM_HEIGHT = 3;
+const CAM_DISTANCE = 7;
+const CAM_HEIGHT = 3.5;
+const FRICTION = 0.7;
+const ACCEL = 0.12;
 
 // ─── LEVEL GENERATION ───────────────────────────────
 function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: number } {
@@ -405,17 +407,20 @@ function GameLoop({ gameRef, onDie, onGoal }: {
     g.isRunning = inputLen > 0.7;
 
     if (inputLen > 0.05) {
-      const inputAngle = Math.atan2(g.moveX, g.moveZ);
+      const inputAngle = Math.atan2(-g.moveX, -g.moveZ);
       const worldAngle = camAngle + inputAngle;
 
-      g.vx = Math.sin(worldAngle) * speed * Math.min(inputLen, 1) * dt;
-      g.vz = Math.cos(worldAngle) * speed * Math.min(inputLen, 1) * dt;
+      // Smooth acceleration toward target velocity
+      const targetVx = Math.sin(worldAngle) * speed * Math.min(inputLen, 1) * dt;
+      const targetVz = Math.cos(worldAngle) * speed * Math.min(inputLen, 1) * dt;
+      g.vx += (targetVx - g.vx) * ACCEL;
+      g.vz += (targetVz - g.vz) * ACCEL;
 
       // Face movement direction
       g.facingAngle = worldAngle;
     } else {
-      g.vx *= 0.8;
-      g.vz *= 0.8;
+      g.vx *= FRICTION;
+      g.vz *= FRICTION;
     }
 
     // Jump
@@ -548,7 +553,7 @@ function VirtualJoystick({ gameRef }: { gameRef: React.RefObject<GameData> }) {
       const t = e.touches[i];
       if (t.identifier === touchIdRef.current) {
         const dx = t.clientX - originRef.current.x;
-        const dy = t.clientY - originRef.current.y;
+        const dy = -(t.clientY - originRef.current.y); // Negate: screen Y down = game forward
         const maxDist = 40;
         const dist = Math.min(Math.sqrt(dx * dx + dy * dy), maxDist);
         const angle = Math.atan2(dx, dy);
