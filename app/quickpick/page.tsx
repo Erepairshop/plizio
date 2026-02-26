@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { Crosshair, Trophy, CheckCircle, XCircle, ArrowUp, Flame } from "lucide-react";
 import ResultCard from "@/components/ResultCard";
 import generalData from "@/data/quickpick/general.json";
 
@@ -31,6 +32,35 @@ function shuffleArray<T>(arr: T[]): T[] {
   return shuffled;
 }
 
+// Streak management
+function getStreak(): number {
+  if (typeof window === "undefined") return 0;
+  const data = localStorage.getItem("plizio_streak");
+  if (!data) return 0;
+  const { count, lastDate } = JSON.parse(data);
+  const today = new Date().toDateString();
+  const yesterday = new Date(Date.now() - 86400000).toDateString();
+  if (lastDate === today) return count;
+  if (lastDate === yesterday) return count;
+  return 0;
+}
+
+function updateStreak(): number {
+  if (typeof window === "undefined") return 0;
+  const data = localStorage.getItem("plizio_streak");
+  const today = new Date().toDateString();
+  if (data) {
+    const { count, lastDate } = JSON.parse(data);
+    if (lastDate === today) return count;
+    const yesterday = new Date(Date.now() - 86400000).toDateString();
+    const newCount = lastDate === yesterday ? count + 1 : 1;
+    localStorage.setItem("plizio_streak", JSON.stringify({ count: newCount, lastDate: today }));
+    return newCount;
+  }
+  localStorage.setItem("plizio_streak", JSON.stringify({ count: 1, lastDate: today }));
+  return 1;
+}
+
 const TOTAL_ROUNDS = 10;
 
 export default function QuickPickPage() {
@@ -42,9 +72,14 @@ export default function QuickPickPage() {
   const [picked, setPicked] = useState<"A" | "B" | null>(null);
   const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
   const [totalTime, setTotalTime] = useState(0);
+  const [streak, setStreak] = useState(0);
   const startTimeRef = useRef<number>(0);
   const [animatedValueA, setAnimatedValueA] = useState(0);
   const [animatedValueB, setAnimatedValueB] = useState(0);
+
+  useEffect(() => {
+    setStreak(getStreak());
+  }, []);
 
   // Load questions
   useEffect(() => {
@@ -97,18 +132,18 @@ export default function QuickPickPage() {
     setIsCorrect(correct);
     if (correct) setScore((s) => s + 1);
 
-    // Animate reveal
     setGameState("reveal");
     setAnimatedValueA(0);
     setAnimatedValueB(0);
     animateValue(q.valueA, setAnimatedValueA);
     animateValue(q.valueB, setAnimatedValueB);
 
-    // Next round after delay
     setTimeout(() => {
       if (round + 1 >= TOTAL_ROUNDS) {
         const elapsed = Math.round((Date.now() - startTimeRef.current) / 1000);
         setTotalTime(elapsed);
+        const newStreak = updateStreak();
+        setStreak(newStreak);
         setGameState("result");
       } else {
         setRound((r) => r + 1);
@@ -137,11 +172,10 @@ export default function QuickPickPage() {
     return (
       <div className="min-h-screen flex items-center justify-center">
         <motion.div
-          className="text-4xl"
           animate={{ rotate: 360 }}
           transition={{ repeat: Infinity, duration: 1, ease: "linear" }}
         >
-          🎯
+          <Crosshair size={40} className="text-neon-pink" />
         </motion.div>
       </div>
     );
@@ -153,48 +187,70 @@ export default function QuickPickPage() {
       <AnimatePresence>
         {gameState === "countdown" && (
           <motion.div
-            className="fixed inset-0 z-50 flex items-center justify-center bg-bg"
+            className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-bg gap-6"
             exit={{ opacity: 0 }}
           >
-            <motion.span
+            <motion.div
               key={countdown}
-              className="text-8xl font-black text-neon-blue text-glow-blue"
+              className="text-8xl font-black text-neon-blue"
+              style={{ textShadow: "0 0 30px rgba(0,212,255,0.6)" }}
               initial={{ scale: 2, opacity: 0 }}
               animate={{ scale: 1, opacity: 1 }}
               exit={{ scale: 0.5, opacity: 0 }}
               transition={{ duration: 0.3 }}
             >
-              {countdown > 0 ? countdown : "🎯"}
-            </motion.span>
+              {countdown > 0 ? countdown : (
+                <Crosshair size={80} className="text-neon-pink" style={{ filter: "drop-shadow(0 0 20px rgba(255,45,120,0.6))" }} />
+              )}
+            </motion.div>
+
+            {/* Streak display */}
+            {streak > 0 && countdown === 3 && (
+              <motion.div
+                className="flex items-center gap-2 text-gold/60 text-sm font-bold"
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+              >
+                <Flame size={16} />
+                {streak}
+              </motion.div>
+            )}
           </motion.div>
         )}
       </AnimatePresence>
 
-      {/* Progress bar */}
+      {/* HUD */}
       {(gameState === "playing" || gameState === "reveal") && (
         <div className="fixed top-0 left-0 right-0 z-40 p-4">
           <div className="flex items-center justify-between max-w-md mx-auto">
+            {/* Progress dots */}
             <div className="flex gap-1.5">
               {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (
                 <motion.div
                   key={i}
-                  className={`w-2.5 h-2.5 rounded-full ${
+                  className={`w-2 h-2 rounded-full ${
                     i < round
                       ? "bg-neon-green"
                       : i === round
                       ? "bg-neon-blue"
-                      : "bg-white/20"
+                      : "bg-white/15"
                   }`}
-                  animate={
-                    i === round ? { scale: [1, 1.3, 1] } : {}
-                  }
+                  animate={i === round ? { scale: [1, 1.4, 1] } : {}}
                   transition={{ repeat: Infinity, duration: 1 }}
                 />
               ))}
             </div>
-            <div className="text-gold font-bold text-lg">
-              {score} 🏆
-            </div>
+
+            {/* Score */}
+            <motion.div
+              className="flex items-center gap-1.5 text-gold font-bold text-lg"
+              key={score}
+              animate={{ scale: [1, 1.15, 1] }}
+              transition={{ duration: 0.2 }}
+            >
+              <Trophy size={16} className="text-gold" />
+              {score}
+            </motion.div>
           </div>
         </div>
       )}
@@ -209,7 +265,7 @@ export default function QuickPickPage() {
                 ? isCorrect
                   ? "border-neon-green glow-green"
                   : "border-neon-pink glow-pink"
-                : "border-transparent hover:border-neon-blue/30"
+                : "border-white/5 hover:border-neon-blue/30"
             }`}
             onClick={() => handlePick("A")}
             whileHover={gameState === "playing" ? { scale: 1.03 } : {}}
@@ -222,16 +278,21 @@ export default function QuickPickPage() {
             transition={{ duration: 0.3 }}
             disabled={gameState !== "playing"}
           >
-            <span className="text-2xl sm:text-3xl text-center leading-tight">
+            {/* Arrow indicator on hover */}
+            {gameState === "playing" && (
+              <ArrowUp size={16} className="text-white/20" />
+            )}
+
+            <span className="text-xl sm:text-2xl text-center leading-tight font-medium">
               {currentQ.itemA}
             </span>
-            <span className="text-lg opacity-60">{currentQ.unit}</span>
 
             {/* Value reveal */}
             <AnimatePresence>
               {gameState === "reveal" && (
                 <motion.div
                   className="text-2xl font-black text-gold"
+                  style={{ textShadow: "0 0 10px rgba(255,215,0,0.4)" }}
                   initial={{ opacity: 0, y: 10 }}
                   animate={{ opacity: 1, y: 0 }}
                 >
@@ -241,15 +302,15 @@ export default function QuickPickPage() {
             </AnimatePresence>
           </motion.button>
 
-          {/* VS */}
+          {/* VS divider */}
           <div className="flex items-center justify-center">
-            <motion.span
-              className="text-2xl font-black text-white/30"
-              animate={{ scale: [1, 1.1, 1] }}
+            <motion.div
+              className="w-10 h-10 rounded-full bg-white/5 border border-white/10 flex items-center justify-center"
+              animate={{ scale: [1, 1.05, 1] }}
               transition={{ repeat: Infinity, duration: 2 }}
             >
-              VS
-            </motion.span>
+              <span className="text-xs font-black text-white/30">VS</span>
+            </motion.div>
           </div>
 
           {/* Item B */}
@@ -259,7 +320,7 @@ export default function QuickPickPage() {
                 ? isCorrect
                   ? "border-neon-green glow-green"
                   : "border-neon-pink glow-pink"
-                : "border-transparent hover:border-neon-blue/30"
+                : "border-white/5 hover:border-neon-blue/30"
             }`}
             onClick={() => handlePick("B")}
             whileHover={gameState === "playing" ? { scale: 1.03 } : {}}
@@ -272,16 +333,19 @@ export default function QuickPickPage() {
             transition={{ duration: 0.3 }}
             disabled={gameState !== "playing"}
           >
-            <span className="text-2xl sm:text-3xl text-center leading-tight">
+            {gameState === "playing" && (
+              <ArrowUp size={16} className="text-white/20" />
+            )}
+
+            <span className="text-xl sm:text-2xl text-center leading-tight font-medium">
               {currentQ.itemB}
             </span>
-            <span className="text-lg opacity-60">{currentQ.unit}</span>
 
-            {/* Value reveal */}
             <AnimatePresence>
               {gameState === "reveal" && (
                 <motion.div
                   className="text-2xl font-black text-gold"
+                  style={{ textShadow: "0 0 10px rgba(255,215,0,0.4)" }}
                   initial={{ opacity: 0, y: 10 }}
                   animate={{ opacity: 1, y: 0 }}
                 >
@@ -293,7 +357,7 @@ export default function QuickPickPage() {
         </div>
       )}
 
-      {/* Correct / Incorrect flash */}
+      {/* Correct / Incorrect feedback */}
       <AnimatePresence>
         {gameState === "reveal" && isCorrect !== null && (
           <motion.div
@@ -302,9 +366,11 @@ export default function QuickPickPage() {
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0 }}
           >
-            <span className="text-5xl">
-              {isCorrect ? "✅" : "❌"}
-            </span>
+            {isCorrect ? (
+              <CheckCircle size={48} className="text-neon-green" style={{ filter: "drop-shadow(0 0 15px rgba(0,255,136,0.6))" }} />
+            ) : (
+              <XCircle size={48} className="text-neon-pink" style={{ filter: "drop-shadow(0 0 15px rgba(255,45,120,0.6))" }} />
+            )}
           </motion.div>
         )}
       </AnimatePresence>
@@ -316,10 +382,11 @@ export default function QuickPickPage() {
           total={TOTAL_ROUNDS}
           time={totalTime}
           gameName="Quick Pick"
-          gameIcon="🎯"
+          gameIcon={<Crosshair size={24} className="text-neon-pink" />}
           onPlayAgain={handlePlayAgain}
         />
       )}
     </main>
   );
 }
+

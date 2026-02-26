@@ -1,212 +1,52 @@
 [
-  {
-    "itemA": "🇨🇳 China",
-    "valueA": 1425000000,
-    "itemB": "🇺🇸 USA",
-    "valueB": 335000000,
-    "unit": "👥"
-  },
-  {
-    "itemA": "🇯🇵 Japan",
-    "valueA": 125000000,
-    "itemB": "🇩🇪 Germany",
-    "valueB": 84000000,
-    "unit": "👥"
-  },
-  {
-    "itemA": "🗼 Eiffel Tower",
-    "valueA": 330,
-    "itemB": "🗽 Statue of Liberty",
-    "valueB": 93,
-    "unit": "📏"
-  },
-  {
-    "itemA": "🌊 Pacific Ocean",
-    "valueA": 165250000,
-    "itemB": "🌊 Atlantic Ocean",
-    "valueB": 106460000,
-    "unit": "📐"
-  },
-  {
-    "itemA": "☀️ Sun",
-    "valueA": 5500,
-    "itemB": "🌋 Lava",
-    "valueB": 1200,
-    "unit": "🌡️"
-  },
-  {
-    "itemA": "🐆 Cheetah",
-    "valueA": 120,
-    "itemB": "🐎 Horse",
-    "valueB": 88,
-    "unit": "💨"
-  },
-  {
-    "itemA": "🏔️ Everest",
-    "valueA": 8849,
-    "itemB": "🏔️ K2",
-    "valueB": 8611,
-    "unit": "📏"
-  },
-  {
-    "itemA": "🇮🇳 India",
-    "valueA": 1428000000,
-    "itemB": "🇧🇷 Brazil",
-    "valueB": 216000000,
-    "unit": "👥"
-  },
-  {
-    "itemA": "🌍 Earth",
-    "valueA": 12742,
-    "itemB": "🌕 Moon",
-    "valueB": 3474,
-    "unit": "📏"
-  },
-  {
-    "itemA": "🐘 Elephant",
-    "valueA": 6000,
-    "itemB": "🦛 Hippo",
-    "valueB": 1800,
-    "unit": "⚖️"
-  },
-  {
-    "itemA": "🐋 Blue Whale",
-    "valueA": 150000,
-    "itemB": "🐘 Elephant",
-    "valueB": 6000,
-    "unit": "⚖️"
-  },
-  {
-    "itemA": "🇷🇺 Russia",
-    "valueA": 17098242,
-    "itemB": "🇨🇦 Canada",
-    "valueB": 9984670,
-    "unit": "📐"
-  },
-  {
-    "itemA": "🏙️ Tokyo",
-    "valueA": 37400000,
-    "itemB": "🏙️ New York",
-    "valueB": 18800000,
-    "unit": "👥"
-  },
-  {
-    "itemA": "🦅 Eagle",
-    "valueA": 160,
-    "itemB": "🐧 Penguin",
-    "valueB": 0,
-    "unit": "💨"
-  },
-  {
-    "itemA": "🌞 Mercury",
-    "valueA": 430,
-    "itemB": "❄️ Pluto",
-    "valueB": -230,
-    "unit": "🌡️"
-  },
-  {
-    "itemA": "🇦🇺 Australia",
-    "valueA": 7692024,
-    "itemB": "🇮🇳 India",
-    "valueB": 3287263,
-    "unit": "📐"
-  },
-  {
-    "itemA": "⚡ Light",
-    "valueA": 300000,
-    "itemB": "🔊 Sound",
-    "valueB": 343,
-    "unit": "💨"
-  },
-  {
-    "itemA": "🏙️ London",
-    "valueA": 9500000,
-    "itemB": "🏙️ Paris",
-    "valueB": 2100000,
-    "unit": "👥"
-  },
-  {
-    "itemA": "🦒 Giraffe",
-    "valueA": 550,
-    "itemB": "🐻 Bear",
-    "valueB": 450,
-    "unit": "📏"
-  },
-  {
-    "itemA": "🌊 Nile",
-    "valueA": 6650,
-    "itemB": "🌊 Amazon",
-    "valueB": 6400,
-    "unit": "📏"
-  },
-  {
-    "itemA": "🇫🇷 France",
-    "valueA": 67750000,
-    "itemB": "🇬🇧 UK",
-    "valueB": 67330000,
-    "unit": "👥"
-  },
-  {
-    "itemA": "🏔️ Kilimanjaro",
-    "valueA": 5895,
-    "itemB": "🏔️ Mont Blanc",
-    "valueB": 4808,
-    "unit": "📏"
-  },
-  {
-    "itemA": "🐌 Snail",
-    "valueA": 0.05,
-    "itemB": "🐢 Turtle",
-    "valueB": 0.4,
-    "unit": "💨"
-  },
-  {
-    "itemA": "♃ Jupiter",
-    "valueA": 139820,
-    "itemB": "♄ Saturn",
-    "valueB": 116460,
-    "unit": "📏"
-  },
-  {
-    "itemA": "🇪🇬 Egypt",
-    "valueA": 5000,
-    "itemB": "🇬🇷 Greece",
-    "valueB": 3500,
-    "unit": "📜"
-  },
-  {
-    "itemA": "🏙️ São Paulo",
-    "valueA": 22400000,
-    "itemB": "🏙️ Moscow",
-    "valueB": 12600000,
-    "unit": "👥"
-  },
-  {
-    "itemA": "🦈 Great White Shark",
-    "valueA": 56,
-    "itemB": "🐬 Dolphin",
-    "valueB": 60,
-    "unit": "💨"
-  },
-  {
-    "itemA": "🌋 Mauna Kea",
-    "valueA": 10211,
-    "itemB": "🏔️ Everest",
-    "valueB": 8849,
-    "unit": "📏"
-  },
-  {
-    "itemA": "🇲🇽 Mexico",
-    "valueA": 130000000,
-    "itemB": "🇪🇹 Ethiopia",
-    "valueB": 126000000,
-    "unit": "👥"
-  },
-  {
-    "itemA": "🐜 Ant",
-    "valueA": 50,
-    "itemB": "🐝 Bee",
-    "valueB": 3,
-    "unit": "⚖️"
-  }
+  { "itemA": "China", "valueA": 1425000000, "itemB": "USA", "valueB": 335000000, "unit": "population" },
+  { "itemA": "Japan", "valueA": 125000000, "itemB": "Germany", "valueB": 84000000, "unit": "population" },
+  { "itemA": "Eiffel Tower", "valueA": 330, "itemB": "Statue of Liberty", "valueB": 93, "unit": "meters" },
+  { "itemA": "Pacific Ocean", "valueA": 165250000, "itemB": "Atlantic Ocean", "valueB": 106460000, "unit": "km²" },
+  { "itemA": "Sun surface", "valueA": 5500, "itemB": "Lava", "valueB": 1200, "unit": "°C" },
+  { "itemA": "Cheetah", "valueA": 120, "itemB": "Horse", "valueB": 88, "unit": "km/h" },
+  { "itemA": "Mt. Everest", "valueA": 8849, "itemB": "K2", "valueB": 8611, "unit": "meters" },
+  { "itemA": "India", "valueA": 1428000000, "itemB": "Brazil", "valueB": 216000000, "unit": "population" },
+  { "itemA": "Earth", "valueA": 12742, "itemB": "Moon", "valueB": 3474, "unit": "km" },
+  { "itemA": "Elephant", "valueA": 6000, "itemB": "Hippo", "valueB": 1800, "unit": "kg" },
+  { "itemA": "Blue Whale", "valueA": 150000, "itemB": "Elephant", "valueB": 6000, "unit": "kg" },
+  { "itemA": "Russia", "valueA": 17098242, "itemB": "Canada", "valueB": 9984670, "unit": "km²" },
+  { "itemA": "Tokyo", "valueA": 37400000, "itemB": "New York", "valueB": 18800000, "unit": "population" },
+  { "itemA": "Eagle", "valueA": 160, "itemB": "Penguin", "valueB": 0, "unit": "km/h" },
+  { "itemA": "Mercury", "valueA": 430, "itemB": "Pluto", "valueB": -230, "unit": "°C" },
+  { "itemA": "Australia", "valueA": 7692024, "itemB": "India", "valueB": 3287263, "unit": "km²" },
+  { "itemA": "Light", "valueA": 300000, "itemB": "Sound", "valueB": 343, "unit": "km/s" },
+  { "itemA": "London", "valueA": 9500000, "itemB": "Paris", "valueB": 2100000, "unit": "population" },
+  { "itemA": "Giraffe", "valueA": 550, "itemB": "Bear", "valueB": 450, "unit": "cm" },
+  { "itemA": "Nile", "valueA": 6650, "itemB": "Amazon", "valueB": 6400, "unit": "km" },
+  { "itemA": "France", "valueA": 67750000, "itemB": "UK", "valueB": 67330000, "unit": "population" },
+  { "itemA": "Kilimanjaro", "valueA": 5895, "itemB": "Mont Blanc", "valueB": 4808, "unit": "meters" },
+  { "itemA": "Snail", "valueA": 0.05, "itemB": "Turtle", "valueB": 0.4, "unit": "km/h" },
+  { "itemA": "Jupiter", "valueA": 139820, "itemB": "Saturn", "valueB": 116460, "unit": "km" },
+  { "itemA": "Egypt", "valueA": 5000, "itemB": "Greece", "valueB": 3500, "unit": "years" },
+  { "itemA": "São Paulo", "valueA": 22400000, "itemB": "Moscow", "valueB": 12600000, "unit": "population" },
+  { "itemA": "Great White Shark", "valueA": 56, "itemB": "Dolphin", "valueB": 60, "unit": "km/h" },
+  { "itemA": "Mauna Kea", "valueA": 10211, "itemB": "Mt. Everest", "valueB": 8849, "unit": "meters" },
+  { "itemA": "Mexico", "valueA": 130000000, "itemB": "Ethiopia", "valueB": 126000000, "unit": "population" },
+  { "itemA": "Ant", "valueA": 50, "itemB": "Bee", "valueB": 3, "unit": "mg" },
+  { "itemA": "Mars", "valueA": 687, "itemB": "Venus", "valueB": 225, "unit": "days/orbit" },
+  { "itemA": "Sahara Desert", "valueA": 9200000, "itemB": "Amazon Rainforest", "valueB": 5500000, "unit": "km²" },
+  { "itemA": "Ferrari SF90", "valueA": 340, "itemB": "Bugatti Chiron", "valueB": 420, "unit": "km/h" },
+  { "itemA": "Burj Khalifa", "valueA": 828, "itemB": "Empire State", "valueB": 443, "unit": "meters" },
+  { "itemA": "Antarctica", "valueA": -89, "itemB": "Death Valley", "valueB": 57, "unit": "°C record" },
+  { "itemA": "Instagram", "valueA": 2000000000, "itemB": "TikTok", "valueB": 1500000000, "unit": "users" },
+  { "itemA": "YouTube", "valueA": 2700000000, "itemB": "Instagram", "valueB": 2000000000, "unit": "users" },
+  { "itemA": "Minecraft", "valueA": 300000000, "itemB": "Fortnite", "valueB": 400000000, "unit": "players" },
+  { "itemA": "T-Rex", "valueA": 9000, "itemB": "Brachiosaurus", "valueB": 56000, "unit": "kg" },
+  { "itemA": "Gold", "valueA": 1064, "itemB": "Iron", "valueB": 1538, "unit": "°C melt" },
+  { "itemA": "Boeing 747", "valueA": 920, "itemB": "Concorde", "valueB": 2180, "unit": "km/h" },
+  { "itemA": "WiFi signal", "valueA": 100, "itemB": "5G signal", "valueB": 10000, "unit": "Mbps" },
+  { "itemA": "Human heart", "valueA": 100000, "itemB": "Hummingbird heart", "valueB": 1200, "unit": "beats/day" },
+  { "itemA": "Bitcoin ATH", "valueA": 109000, "itemB": "Gold per kg", "valueB": 75000, "unit": "USD" },
+  { "itemA": "GTA V", "valueA": 200000000, "itemB": "Tetris", "valueB": 520000000, "unit": "copies sold" },
+  { "itemA": "Spotify songs", "valueA": 100000000, "itemB": "Apple Music", "valueB": 100000000, "unit": "tracks" },
+  { "itemA": "PS5", "valueA": 60000000, "itemB": "Nintendo Switch", "valueB": 140000000, "unit": "units sold" },
+  { "itemA": "iPhone 1 (2007)", "valueA": 499, "itemB": "iPhone 15 Pro", "valueB": 1199, "unit": "USD" },
+  { "itemA": "Tesla Model S", "valueA": 322, "itemB": "Porsche Taycan", "valueB": 260, "unit": "km/h" },
+  { "itemA": "Mariana Trench", "valueA": 11034, "itemB": "Mt. Everest", "valueB": 8849, "unit": "meters" }
 ]

@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { Brain, Trophy, CheckCircle, XCircle, Eye } from "lucide-react";
 import ResultCard from "@/components/ResultCard";
 import generalData from "@/data/memoryflash/general.json";
 
@@ -41,7 +42,6 @@ export default function MemoryFlashPage() {
   const [totalTime, setTotalTime] = useState(0);
   const startTimeRef = useRef<number>(0);
 
-  // Load questions
   useEffect(() => {
     const data = generalData as MemoryQuestion[];
     const shuffled = shuffleArray(data).slice(0, TOTAL_ROUNDS);
@@ -80,10 +80,7 @@ export default function MemoryFlashPage() {
 
     setSelectedAnswer(answerIndex);
     setIsCorrect(correct);
-    if (correct) {
-      // Later rounds worth more
-      setScore((s) => s + (round + 1));
-    }
+    if (correct) setScore((s) => s + (round + 1));
     setGameState("feedback");
 
     setTimeout(() => {
@@ -112,18 +109,17 @@ export default function MemoryFlashPage() {
     setGameState("countdown");
   };
 
-  const maxScore = TOTAL_ROUNDS * (TOTAL_ROUNDS + 1) / 2; // 1+2+3+4+5 = 15
+  const maxScore = TOTAL_ROUNDS * (TOTAL_ROUNDS + 1) / 2;
   const currentQ = questions[round];
 
   if (!currentQ && gameState !== "result") {
     return (
       <div className="min-h-screen flex items-center justify-center">
         <motion.div
-          className="text-4xl"
           animate={{ rotate: 360 }}
           transition={{ repeat: Infinity, duration: 1, ease: "linear" }}
         >
-          🧠
+          <Brain size={40} className="text-neon-purple" />
         </motion.div>
       </div>
     );
@@ -138,22 +134,24 @@ export default function MemoryFlashPage() {
             className="fixed inset-0 z-50 flex items-center justify-center bg-bg"
             exit={{ opacity: 0 }}
           >
-            <motion.span
+            <motion.div
               key={countdown}
               className="text-8xl font-black text-neon-purple"
-              style={{ textShadow: "0 0 20px rgba(180,77,255,0.8)" }}
+              style={{ textShadow: "0 0 30px rgba(180,77,255,0.6)" }}
               initial={{ scale: 2, opacity: 0 }}
               animate={{ scale: 1, opacity: 1 }}
               exit={{ scale: 0.5, opacity: 0 }}
               transition={{ duration: 0.3 }}
             >
-              {countdown > 0 ? countdown : "🧠"}
-            </motion.span>
+              {countdown > 0 ? countdown : (
+                <Brain size={80} className="text-neon-purple" style={{ filter: "drop-shadow(0 0 20px rgba(180,77,255,0.6))" }} />
+              )}
+            </motion.div>
           </motion.div>
         )}
       </AnimatePresence>
 
-      {/* Progress */}
+      {/* HUD */}
       {gameState !== "countdown" && gameState !== "result" && (
         <div className="fixed top-0 left-0 right-0 z-40 p-4">
           <div className="flex items-center justify-between max-w-md mx-auto">
@@ -161,21 +159,27 @@ export default function MemoryFlashPage() {
               {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (
                 <motion.div
                   key={i}
-                  className={`w-3 h-3 rounded-full ${
+                  className={`w-2.5 h-2.5 rounded-full ${
                     i < round
                       ? "bg-neon-green"
                       : i === round
                       ? "bg-neon-purple"
-                      : "bg-white/20"
+                      : "bg-white/15"
                   }`}
                   animate={i === round ? { scale: [1, 1.4, 1] } : {}}
                   transition={{ repeat: Infinity, duration: 1 }}
                 />
               ))}
             </div>
-            <div className="text-gold font-bold text-lg">
-              {score} 🏆
-            </div>
+            <motion.div
+              className="flex items-center gap-1.5 text-gold font-bold text-lg"
+              key={score}
+              animate={{ scale: [1, 1.15, 1] }}
+              transition={{ duration: 0.2 }}
+            >
+              <Trophy size={16} className="text-gold" />
+              {score}
+            </motion.div>
           </div>
         </div>
       )}
@@ -183,34 +187,43 @@ export default function MemoryFlashPage() {
       {/* Scene display */}
       {gameState === "showing" && currentQ && (
         <motion.div
-          className="bg-card rounded-3xl p-8 sm:p-12 flex flex-wrap items-center justify-center gap-4 max-w-sm"
+          className="bg-card rounded-3xl p-8 sm:p-12 flex flex-col items-center gap-5 max-w-sm border border-white/5"
+          style={{ boxShadow: "0 0 30px rgba(180,77,255,0.1)" }}
           initial={{ opacity: 0, scale: 0.8 }}
           animate={{ opacity: 1, scale: 1 }}
           exit={{ opacity: 0, filter: "blur(20px)" }}
         >
-          {currentQ.scene.map((emoji, i) => (
-            <motion.span
-              key={i}
-              className="text-4xl sm:text-5xl"
-              initial={{ opacity: 0, y: 10 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: i * 0.08 }}
-            >
-              {emoji}
-            </motion.span>
-          ))}
+          {/* Eye icon - memorize indicator */}
+          <motion.div
+            animate={{ opacity: [0.5, 1, 0.5] }}
+            transition={{ repeat: Infinity, duration: 1.5 }}
+          >
+            <Eye size={24} className="text-neon-purple" style={{ filter: "drop-shadow(0 0 8px rgba(180,77,255,0.5))" }} />
+          </motion.div>
+
+          <div className="flex flex-wrap items-center justify-center gap-3">
+            {currentQ.scene.map((emoji, i) => (
+              <motion.span
+                key={i}
+                className="text-4xl sm:text-5xl"
+                initial={{ opacity: 0, y: 10 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: i * 0.08 }}
+              >
+                {emoji}
+              </motion.span>
+            ))}
+          </div>
 
           {/* Timer bar */}
-          <motion.div
-            className="w-full h-1.5 bg-white/10 rounded-full mt-4 overflow-hidden"
-          >
+          <div className="w-full h-1.5 bg-white/10 rounded-full overflow-hidden">
             <motion.div
-              className="h-full bg-neon-purple rounded-full"
+              className="h-full bg-gradient-to-r from-neon-purple to-neon-pink rounded-full"
               initial={{ width: "100%" }}
               animate={{ width: "0%" }}
               transition={{ duration: currentQ.showTime / 1000, ease: "linear" }}
             />
-          </motion.div>
+          </div>
         </motion.div>
       )}
 
@@ -221,36 +234,41 @@ export default function MemoryFlashPage() {
           initial={{ opacity: 0, x: 50 }}
           animate={{ opacity: 1, x: 0 }}
         >
-          {/* Question emoji */}
           <motion.div
-            className="text-5xl bg-card rounded-2xl p-6 w-full text-center"
-            animate={{ scale: [1, 1.02, 1] }}
+            className="text-4xl bg-card rounded-2xl p-6 w-full text-center border border-white/5"
+            animate={{ scale: [1, 1.01, 1] }}
             transition={{ repeat: Infinity, duration: 2 }}
           >
             {currentQ.question}
           </motion.div>
 
-          {/* Answer options */}
           <div className="grid grid-cols-2 gap-3 w-full">
             {currentQ.answers.map((answer, i) => (
               <motion.button
                 key={i}
-                className={`bg-card rounded-xl p-4 text-3xl border-2 ${
+                className={`bg-card rounded-xl p-4 text-2xl border-2 transition-all ${
                   gameState === "feedback" && selectedAnswer === i
                     ? isCorrect
-                      ? "border-neon-green glow-green"
-                      : "border-neon-pink glow-pink"
+                      ? "border-neon-green"
+                      : "border-neon-pink"
                     : gameState === "feedback" && answer.correct
-                    ? "border-neon-green/50"
-                    : "border-white/10 hover:border-neon-purple/50"
+                    ? "border-neon-green/40"
+                    : "border-white/5 hover:border-neon-purple/30"
                 }`}
+                style={
+                  gameState === "feedback" && selectedAnswer === i
+                    ? {
+                        boxShadow: isCorrect
+                          ? "0 0 15px rgba(0,255,136,0.3)"
+                          : "0 0 15px rgba(255,45,120,0.3)",
+                      }
+                    : undefined
+                }
                 onClick={() => handleAnswer(i)}
                 whileHover={gameState === "asking" ? { scale: 1.05 } : {}}
                 whileTap={gameState === "asking" ? { scale: 0.95 } : {}}
                 animate={
-                  gameState === "feedback" &&
-                  selectedAnswer === i &&
-                  !isCorrect
+                  gameState === "feedback" && selectedAnswer === i && !isCorrect
                     ? { x: [-3, 3, -3, 3, 0] }
                     : {}
                 }
@@ -263,7 +281,7 @@ export default function MemoryFlashPage() {
         </motion.div>
       )}
 
-      {/* Feedback flash */}
+      {/* Feedback */}
       <AnimatePresence>
         {gameState === "feedback" && isCorrect !== null && (
           <motion.div
@@ -272,7 +290,11 @@ export default function MemoryFlashPage() {
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0 }}
           >
-            <span className="text-5xl">{isCorrect ? "✅" : "❌"}</span>
+            {isCorrect ? (
+              <CheckCircle size={48} className="text-neon-green" style={{ filter: "drop-shadow(0 0 15px rgba(0,255,136,0.6))" }} />
+            ) : (
+              <XCircle size={48} className="text-neon-pink" style={{ filter: "drop-shadow(0 0 15px rgba(255,45,120,0.6))" }} />
+            )}
           </motion.div>
         )}
       </AnimatePresence>
@@ -284,7 +306,7 @@ export default function MemoryFlashPage() {
           total={maxScore}
           time={totalTime}
           gameName="Memory Flash"
-          gameIcon="🧠"
+          gameIcon={<Brain size={24} className="text-neon-purple" />}
           onPlayAgain={handlePlayAgain}
         />
       )}
