@@ -5,6 +5,7 @@ import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { Share2, RotateCcw, Home, Flame, Star, ThumbsUp, Dumbbell } from "lucide-react";
 import { canEarnShareReward, claimShareReward } from "@/lib/specialCards";
+import { getUsername } from "@/lib/username";
 
 interface ResultCardProps {
   score: number;
@@ -45,7 +46,9 @@ export default function ResultCard({
     const checks = Array.from({ length: Math.min(total, 10) }, (_, i) => (i < score ? "✅" : "❌")).join("");
     const timeStr = time ? ` (${time}s)` : "";
     const host = typeof window !== "undefined" ? window.location.origin : "https://plizio.com";
-    return `${gameName} ${score}/${total}${timeStr}\n${checks}\n${host}?ref=1`;
+    const name = getUsername();
+    const nameStr = name ? `${name} | ` : "";
+    return `${nameStr}${gameName} ${score}/${total}${timeStr}\n${checks}\n${host}?ref=1`;
   };
 
   const handleShare = async () => {

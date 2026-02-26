@@ -10,6 +10,7 @@ import { getSpecialCardCount } from "@/lib/specialCards";
 import { getCards } from "@/lib/cards";
 import { syncToSupabase } from "@/lib/sync";
 import AuthModal from "@/components/AuthModal";
+import { getUsername } from "@/lib/username";
 
 export default function ProfilePage() {
   const [user, setUser] = useState<{ id: string; email?: string } | null>(null);
@@ -76,6 +77,9 @@ export default function ProfilePage() {
           <div className="w-20 h-20 rounded-full bg-white/5 border border-white/10 flex items-center justify-center">
             <User size={36} className="text-white/20" />
           </div>
+          {getUsername() && (
+            <span className="text-white font-bold text-lg">{getUsername()}</span>
+          )}
           <span className="text-white/30 text-sm">Nincs bejelentkezve</span>
           <motion.button
             onClick={() => setShowAuth(true)}
@@ -94,7 +98,10 @@ export default function ProfilePage() {
             style={{ boxShadow: "0 0 20px rgba(224,64,251,0.15)" }}>
             <User size={36} className="text-[#E040FB]" />
           </div>
-          <span className="text-white/50 text-sm">{user.email}</span>
+          {getUsername() && (
+            <span className="text-white font-bold text-lg">{getUsername()}</span>
+          )}
+          <span className="text-white/30 text-xs">{user.email}</span>
 
           {/* Stats grid */}
           <div className="grid grid-cols-2 gap-3 w-full">

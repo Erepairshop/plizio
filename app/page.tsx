@@ -12,6 +12,8 @@ import { getStats } from "@/lib/milestones";
 import { getUser, onAuthChange } from "@/lib/auth";
 import { syncToSupabase } from "@/lib/sync";
 import AuthModal from "@/components/AuthModal";
+import UsernameModal from "@/components/UsernameModal";
+import { getUsername, hasUsername } from "@/lib/username";
 
 interface GameDef {
   id: string;
@@ -98,6 +100,8 @@ export default function Home() {
   const [specialCount, setSpecialCount] = useState(0);
   const [dailyPlayed, setDailyPlayed] = useState(false);
   const [showAuth, setShowAuth] = useState(false);
+  const [showUsernameModal, setShowUsernameModal] = useState(false);
+  const [username, setUsernameState] = useState<string | null>(null);
   const [isLoggedIn, setIsLoggedIn] = useState(false);
 
   useEffect(() => {
@@ -105,6 +109,13 @@ export default function Home() {
     setCardCount(getCards().length);
     setSpecialCount(getSpecialCardCount());
     setDailyPlayed(hasPlayedDailyToday());
+
+    // Check username
+    if (!hasUsername()) {
+      setShowUsernameModal(true);
+    } else {
+      setUsernameState(getUsername());
+    }
 
     // Handle referral link ?ref=1
     const params = new URLSearchParams(window.location.search);
@@ -143,6 +154,17 @@ export default function Home() {
     <main className="min-h-screen flex flex-col items-center justify-center px-4 py-8 gap-10">
       {/* Logo */}
       <Logo />
+
+      {/* Username greeting */}
+      {username && (
+        <motion.div
+          className="text-white/30 text-sm font-bold tracking-wider"
+          initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+          transition={{ delay: 0.6 }}
+        >
+          {username}
+        </motion.div>
+      )}
 
       {/* Stats bar */}
       {(streak > 0 || cardCount > 0 || specialCount > 0) && (
@@ -297,6 +319,16 @@ export default function Home() {
           </motion.button>
         </motion.div>
       </div>
+
+      {/* Username Modal */}
+      {showUsernameModal && (
+        <UsernameModal
+          onDone={(name) => {
+            setShowUsernameModal(false);
+            setUsernameState(name);
+          }}
+        />
+      )}
 
       {/* Auth Modal */}
       {showAuth && (
