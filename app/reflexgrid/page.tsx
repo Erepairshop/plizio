@@ -18,8 +18,8 @@ const GAME_DURATION = 60;
 const TOTAL_CELLS = GRID_SIZE * GRID_SIZE;
 
 export default function ReflexGridPage() {
-  const [gameState, setGameState] = useState<GameState>("countdown");
-  const [countdown, setCountdown] = useState(3);
+  const [gameState, setGameState] = useState<GameState>("playing");
+  const [countdown, setCountdown] = useState(0);
   const [grid, setGrid] = useState<CellState[]>(Array(TOTAL_CELLS).fill("idle"));
   const [score, setScore] = useState(0);
   const [cardSaved, setCardSaved] = useState(false);
@@ -190,8 +190,7 @@ export default function ReflexGridPage() {
     setCardSaved(false);
     setCombo(0);
     setComboDisplay(0);
-    setCountdown(3);
-    setGameState("countdown");
+    setGameState("playing");
   };
 
   return (

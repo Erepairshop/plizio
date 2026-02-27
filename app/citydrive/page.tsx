@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect, useRef, useMemo } from "react";
+import React, { useState, useEffect, useRef, useMemo, useCallback } from "react";
 import { Canvas, useFrame, useThree } from "@react-three/fiber";
 import * as THREE from "three";
 import { motion, AnimatePresence } from "framer-motion";
@@ -115,7 +115,7 @@ interface SceneProps {
   onEnd: () => void;
 }
 
-function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef, onEnd }: SceneProps) {
+const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef, onEnd }: SceneProps) {
   const { camera } = useThree();
   const buildings = useMemo(genBuildings, []);
   const skin = useMemo(() => getSkinDef(getActiveSkin()), []);
@@ -191,11 +191,13 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
         hud.msg = "Exited!"; hud.msgT = 2;
       }
     } else {
-      // ── Walking (camera-relative) ──
+      // ── Walking (camera-relative: movement always matches screen directions) ──
       const len = Math.sqrt(mx * mx + mz * mz);
       if (len > 0.1) {
-        const fwX = Math.sin(p.angle), fwZ = Math.cos(p.angle);
-        const rtX = Math.cos(p.angle), rtZ = -Math.sin(p.angle);
+        // Use CAMERA angle for forward/right so movement matches what user sees on screen
+        const ca = camAngle.current;
+        const fwX = Math.sin(ca), fwZ = Math.cos(ca);
+        const rtX = Math.cos(ca), rtZ = -Math.sin(ca);
         const wmx = mx * rtX + mz * fwX, wmz = mx * rtZ + mz * fwZ;
         const nx = p.x + (wmx / len) * WALK_SPD * dt, nz = p.z + (wmz / len) * WALK_SPD * dt;
         if (!solidBox(nx, nz, 0.3, 0.3)) { p.x = nx; p.z = nz; }
@@ -243,7 +245,6 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
     if (hud.missions >= TOTAL_M) { onEnd(); return; }
 
     // ── Update 3D objects ──
-    const t = performance.now() / 1000;
     for (let i = 0; i < carsRef.current.length; i++) {
       const c = carsRef.current[i], g = carMeshes.current[i];
       if (g) { g.position.set(c.x, 0, c.z); g.rotation.y = c.angle; }
@@ -254,27 +255,26 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
       plMesh.current.rotation.y = p.angle;
     }
 
-    // ── Camera (SkyClimb-style, dt-based smooth follow) ──
-    const cd = p.inCar >= 0 ? 18 : 12;
-    const ch = p.inCar >= 0 ? 10 : 8;
-    // Smooth camera angle separately so it doesn't jump on fast turns
+    // ── Camera (tight follow, stays behind car/player) ──
+    const cd = p.inCar >= 0 ? 16 : 10;
+    const ch = p.inCar >= 0 ? 9 : 7;
+    // Fast angle tracking - camera stays behind, not floaty sideways
     let angleDiff = p.angle - camAngle.current;
     while (angleDiff > Math.PI) angleDiff -= Math.PI * 2;
     while (angleDiff < -Math.PI) angleDiff += Math.PI * 2;
-    camAngle.current += angleDiff * Math.min(0.04 * dt * 60, 1);
+    const angleSpeed = p.inCar >= 0 ? 0.15 : 0.2;
+    camAngle.current += angleDiff * Math.min(angleSpeed * dt * 60, 1);
     const sa = camAngle.current;
     camTarget.current.set(p.x - Math.sin(sa) * cd, ch, p.z - Math.cos(sa) * cd);
-    // Smooth look-at target
-    camLookSmooth.current.lerp(camLook.current.set(p.x, p.inCar >= 0 ? 1.5 : 1.2, p.z), Math.min(0.06 * dt * 60, 1));
-    // Framerate-independent position follow
-    camera.position.lerp(camTarget.current, Math.min(0.06 * dt * 60, 1));
+    // Tight position + look-at follow
+    const followSpeed = p.inCar >= 0 ? 0.18 : 0.22;
+    camLookSmooth.current.lerp(camLook.current.set(p.x, p.inCar >= 0 ? 1.5 : 1.2, p.z), Math.min(followSpeed * dt * 60, 1));
+    camera.position.lerp(camTarget.current, Math.min(followSpeed * dt * 60, 1));
     camera.lookAt(camLookSmooth.current);
 
     // Message timer
     if (hud.msgT > 0) hud.msgT -= dt;
   });
-
-  const t = performance.now() / 1000;
 
   return (
     <>
@@ -323,20 +323,15 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
             <boxGeometry args={[b.w, b.h, b.d]} />
             <meshStandardMaterial color="#1e1e32" roughness={0.7} />
           </mesh>
-          {/* Neon base band */}
+          {/* Neon base band - opaque for performance */}
           <mesh position={[0, 0.6, 0]}>
             <boxGeometry args={[b.w + 0.15, 1.5, b.d + 0.15]} />
-            <meshStandardMaterial color={b.glow} emissive={b.glow} emissiveIntensity={0.8} transparent opacity={0.8} />
+            <meshStandardMaterial color={b.glow} emissive={b.glow} emissiveIntensity={0.8} />
           </mesh>
           {/* Neon top edge */}
           <mesh position={[0, b.h + 0.1, 0]}>
             <boxGeometry args={[b.w + 0.25, 0.3, b.d + 0.25]} />
             <meshStandardMaterial color={b.glow} emissive={b.glow} emissiveIntensity={0.6} />
-          </mesh>
-          {/* Window glow band at mid-height - single mesh instead of 20 per building */}
-          <mesh position={[0, b.h * 0.45, 0]}>
-            <boxGeometry args={[b.w + 0.1, b.h * 0.3, b.d + 0.1]} />
-            <meshStandardMaterial color="#FFE088" emissive="#FFE088" emissiveIntensity={0.3} transparent opacity={0.25} />
           </mesh>
         </group>
       ))}
@@ -411,38 +406,36 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
         </mesh>
       </group>
 
-      {/* Mission markers */}
+      {/* Mission markers - no PointLights for performance */}
       {missionsRef.current?.filter(m => !m.completed).map(m => {
         const mks: React.ReactElement[] = [];
         if (m.type === "delivery") {
           const tx = m.pickedUp ? m.dx : m.px, tz = m.pickedUp ? m.dz : m.pz;
           const col = m.pickedUp ? "#00FF88" : "#FFD700";
           mks.push(
-            <group key={`m-${m.id}`} position={[tx, 2 + Math.sin(t * 3) * 0.5, tz]}>
-              <mesh rotation-y={t * 2}>
+            <group key={`m-${m.id}`} position={[tx, 2.5, tz]}>
+              <mesh>
                 <boxGeometry args={[1.2, 1.2, 1.2]} />
-                <meshStandardMaterial color={col} emissive={col} emissiveIntensity={0.6} />
+                <meshStandardMaterial color={col} emissive={col} emissiveIntensity={1.2} />
               </mesh>
-              <pointLight color={col} intensity={3} distance={12} />
             </group>
           );
         } else if (m.type === "parking") {
           mks.push(
             <group key={`m-${m.id}`} position={[m.px, 0.1, m.pz]}>
               <mesh rotation-x={-Math.PI / 2}>
-                <ringGeometry args={[2, 2.5, 16]} />
-                <meshStandardMaterial color="#00D4FF" emissive="#00D4FF" emissiveIntensity={0.8} side={THREE.DoubleSide} />
+                <ringGeometry args={[2, 2.5, 12]} />
+                <meshStandardMaterial color="#00D4FF" emissive="#00D4FF" emissiveIntensity={1.2} side={THREE.DoubleSide} />
               </mesh>
-              <pointLight position={[0, 3, 0]} color="#00D4FF" intensity={3} distance={12} />
             </group>
           );
         } else if (m.type === "coins" && m.coins) {
           m.coins.forEach((c, ci) => {
             mks.push(
-              <group key={`c-${m.id}-${ci}`} position={[c.x, 1.5 + Math.sin(t * 4 + ci) * 0.3, c.z]}>
-                <mesh rotation-y={t * 3}>
-                  <cylinderGeometry args={[0.4, 0.4, 0.15, 12]} />
-                  <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={0.8} metalness={0.8} />
+              <group key={`c-${m.id}-${ci}`} position={[c.x, 1.5, c.z]}>
+                <mesh>
+                  <cylinderGeometry args={[0.4, 0.4, 0.15, 8]} />
+                  <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={1.2} metalness={0.8} />
                 </mesh>
               </group>
             );
@@ -452,7 +445,7 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
       })}
     </>
   );
-}
+});
 
 // ═══════════════════════════════════════════════
 //  MAIN COMPONENT
@@ -465,7 +458,7 @@ export default function CityDrivePage() {
   const [cardSaved, setCardSaved] = useState(false);
   const [showMilestone, setShowMilestone] = useState(false);
   const [hudTick, setHudTick] = useState(0);
-  const [joystick, setJoystick] = useState({ x: 0, y: 0 });
+  const joystickKnobRef = useRef<HTMLDivElement>(null);
 
   const keysRef = useRef(new Set<string>());
   const touchRef = useRef({ active: false, sx: 0, sy: 0, cx: 0, cy: 0 });
@@ -484,7 +477,7 @@ export default function CityDrivePage() {
   // HUD refresh
   useEffect(() => {
     if (gameState !== "playing") return;
-    const i = setInterval(() => setHudTick(t => t + 1), 200);
+    const i = setInterval(() => setHudTick(t => t + 1), 500);
     return () => clearInterval(i);
   }, [gameState]);
 
@@ -509,13 +502,13 @@ export default function CityDrivePage() {
     setCardSaved(true);
   }, [gameState, cardSaved]);
 
-  const endGame = () => {
+  const endGame = useCallback(() => {
     setFinalScore(hudRef.current.score);
     setFinalMissions(hudRef.current.missions);
     setGameState("result");
-  };
-  const startGame = () => { setCountdown(3); setGameState("countdown"); };
-  const playAgain = () => { setCardSaved(false); setCountdown(3); setGameState("countdown"); };
+  }, []);
+  const startGame = () => { setGameState("playing"); };
+  const playAgain = () => { setCardSaved(false); setGameState("playing"); };
 
   const totalForRarity = TOTAL_M * 100;
   const rarity = calculateRarity(Math.min(finalScore, totalForRarity), totalForRarity, 1);
@@ -566,9 +559,9 @@ export default function CityDrivePage() {
             ))}
           </div>
 
-          {/* Controls hint */}
+          {/* Controls hint + version */}
           <div className="absolute bottom-3 left-3 text-[9px] text-white/20">
-            WASD: move • SPACE: enter/exit
+            WASD: move • SPACE: enter/exit • v2
           </div>
         </div>
       )}
@@ -578,15 +571,15 @@ export default function CityDrivePage() {
         <>
           {/* Joystick area */}
           <div className="absolute left-4 bottom-4 z-20" style={{ width: 140, height: 140 }}
-            onTouchStart={e => { e.preventDefault(); const t = e.touches[0]; const rect = e.currentTarget.getBoundingClientRect(); const cx = rect.left + 70, cy = rect.top + 70; touchRef.current = { active: true, sx: cx, sy: cy, cx: t.clientX, cy: t.clientY }; setJoystick({ x: t.clientX - cx, y: t.clientY - cy }); }}
-            onTouchMove={e => { e.preventDefault(); const t = e.touches[0]; touchRef.current.cx = t.clientX; touchRef.current.cy = t.clientY; const dx = t.clientX - touchRef.current.sx, dy = t.clientY - touchRef.current.sy; const d = Math.sqrt(dx*dx+dy*dy); const max = 50; const clamp = d > max ? max / d : 1; setJoystick({ x: dx * clamp, y: dy * clamp }); }}
-            onTouchEnd={() => { touchRef.current.active = false; setJoystick({ x: 0, y: 0 }); }}
+            onTouchStart={e => { e.preventDefault(); const t = e.touches[0]; const rect = e.currentTarget.getBoundingClientRect(); const cx = rect.left + 70, cy = rect.top + 70; touchRef.current = { active: true, sx: cx, sy: cy, cx: t.clientX, cy: t.clientY }; const knob = joystickKnobRef.current; if (knob) { knob.style.transition = 'none'; knob.style.left = `${42 + (t.clientX - cx)}px`; knob.style.top = `${42 + (t.clientY - cy)}px`; } }}
+            onTouchMove={e => { e.preventDefault(); const t = e.touches[0]; touchRef.current.cx = t.clientX; touchRef.current.cy = t.clientY; const dx = t.clientX - touchRef.current.sx, dy = t.clientY - touchRef.current.sy; const d = Math.sqrt(dx*dx+dy*dy); const max = 50; const clamp = d > max ? max / d : 1; const knob = joystickKnobRef.current; if (knob) { knob.style.left = `${42 + dx * clamp}px`; knob.style.top = `${42 + dy * clamp}px`; } }}
+            onTouchEnd={() => { touchRef.current.active = false; const knob = joystickKnobRef.current; if (knob) { knob.style.transition = 'all 0.15s'; knob.style.left = '42px'; knob.style.top = '42px'; } }}
           >
             {/* Joystick base */}
             <div className="absolute inset-0 rounded-full border-2 border-white/20 bg-white/5" />
-            {/* Joystick knob */}
-            <div className="absolute w-14 h-14 rounded-full bg-white/30 border-2 border-white/50 shadow-lg shadow-white/10"
-              style={{ left: 70 - 28 + joystick.x, top: 70 - 28 + joystick.y, transition: joystick.x === 0 && joystick.y === 0 ? 'all 0.15s' : 'none' }} />
+            {/* Joystick knob - positioned via ref for zero re-renders */}
+            <div ref={joystickKnobRef} className="absolute w-14 h-14 rounded-full bg-white/30 border-2 border-white/50 shadow-lg shadow-white/10"
+              style={{ left: 42, top: 42 }} />
             {/* Direction arrows */}
             <div className="absolute top-1 left-1/2 -translate-x-1/2 text-white/20 text-xs">▲</div>
             <div className="absolute bottom-1 left-1/2 -translate-x-1/2 text-white/20 text-xs">▼</div>

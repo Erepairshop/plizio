@@ -10,7 +10,15 @@
 
 # next.js
 /.next/
-/out/
+
+# build output at root level (prevent accidental root pollution)
+/index.html
+/404.html
+/sw.js
+/manifest.json
+/_next/
+/_not-found/
+/__next.*.txt
 
 # production
 /build
