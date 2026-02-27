@@ -2,12 +2,15 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Zap, Trophy, Timer, AlertTriangle } from "lucide-react";
+import { Zap, Trophy, Timer, AlertTriangle, X } from "lucide-react";
+import Link from "next/link";
 import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
+import { incrementTotalGames } from "@/lib/milestones";
+import MilestonePopup from "@/components/MilestonePopup";
 
-type CellState = "idle" | "green" | "red";
+type CellState = "idle" | "green" | "red" | "gold";
 type GameState = "countdown" | "playing" | "result" | "reward";
 
 const GRID_SIZE = 4;
@@ -24,8 +27,11 @@ export default function ReflexGridPage() {
   const [tappedCells, setTappedCells] = useState<Set<number>>(new Set());
   const [rippleCell, setRippleCell] = useState<number | null>(null);
   const [shakeCell, setShakeCell] = useState<number | null>(null);
+  const [combo, setCombo] = useState(0);
+  const [comboDisplay, setComboDisplay] = useState(0);
   const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
   const spawnRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const comboTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   // Countdown
   useEffect(() => {
@@ -69,6 +75,7 @@ export default function ReflexGridPage() {
         total,
         date: new Date().toISOString(),
       });
+      incrementTotalGames();
       setCardSaved(true);
     }
   }, [gameState, score, cardSaved]);
@@ -100,7 +107,12 @@ export default function ReflexGridPage() {
 
           if (idleCells.length > 0) {
             const cellIndex = idleCells[Math.floor(Math.random() * idleCells.length)];
-            newGrid[cellIndex] = Math.random() < diff.greenChance ? "green" : "red";
+            const roll = Math.random();
+            if (roll < 0.05) {
+              newGrid[cellIndex] = "gold"; // 5% chance gold cell (+5 points)
+            } else {
+              newGrid[cellIndex] = roll < (0.05 + diff.greenChance * 0.95) ? "green" : "red";
+            }
 
             setTimeout(() => {
               setGrid((g) => {
@@ -141,12 +153,24 @@ export default function ReflexGridPage() {
 
     setTappedCells((prev) => new Set(prev).add(index));
 
-    if (cellState === "green") {
-      setScore((s) => s + 1);
+    if (cellState === "green" || cellState === "gold") {
+      const points = cellState === "gold" ? 5 : 1;
+      const comboBonus = combo >= 5 ? 2 : combo >= 3 ? 1 : 0;
+      setScore((s) => s + points + comboBonus);
+      setCombo((c) => c + 1);
+      setComboDisplay((c) => c + 1);
+      // Reset combo timer
+      if (comboTimerRef.current) clearTimeout(comboTimerRef.current);
+      comboTimerRef.current = setTimeout(() => {
+        setCombo(0);
+        setComboDisplay(0);
+      }, 2000);
       setRippleCell(index);
       setTimeout(() => setRippleCell(null), 400);
     } else if (cellState === "red") {
       setScore((s) => Math.max(0, s - 3));
+      setCombo(0);
+      setComboDisplay(0);
       setShakeCell(index);
       setTimeout(() => setShakeCell(null), 400);
     }
@@ -164,6 +188,8 @@ export default function ReflexGridPage() {
     setTimeLeft(GAME_DURATION);
     setTappedCells(new Set());
     setCardSaved(false);
+    setCombo(0);
+    setComboDisplay(0);
     setCountdown(3);
     setGameState("countdown");
   };
@@ -198,6 +224,13 @@ export default function ReflexGridPage() {
       {gameState === "playing" && (
         <div className="fixed top-0 left-0 right-0 z-40 p-4">
           <div className="flex items-center justify-between max-w-md mx-auto">
+            {/* Close button */}
+            <Link href="/">
+              <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2 cursor-pointer hover:bg-black/60 transition-colors">
+                <X size={16} className="text-white/60" />
+              </div>
+            </Link>
+
             {/* Timer */}
             <motion.div
               className={`flex items-center gap-1.5 text-xl font-black font-mono ${
@@ -211,6 +244,18 @@ export default function ReflexGridPage() {
               )}
               {timeLeft}s
             </motion.div>
+
+            {/* Combo */}
+            {comboDisplay >= 3 && (
+              <motion.div
+                className="flex items-center gap-1 text-neon-pink font-black text-sm"
+                key={comboDisplay}
+                initial={{ scale: 1.5, opacity: 0 }}
+                animate={{ scale: 1, opacity: 1 }}
+              >
+                x{comboDisplay}
+              </motion.div>
+            )}
 
             {/* Score */}
             <motion.div
@@ -250,9 +295,11 @@ export default function ReflexGridPage() {
           {grid.map((cellState, i) => (
             <motion.button
               key={i}
-              className={`aspect-square rounded-xl border transition-all ${
+              className={`aspect-square rounded-xl border transition-all flex items-center justify-center ${
                 cellState === "green"
                   ? "bg-neon-green/15 border-neon-green/60"
+                  : cellState === "gold"
+                  ? "bg-gold/15 border-gold/60"
                   : cellState === "red"
                   ? "bg-neon-pink/15 border-neon-pink/60"
                   : "bg-card border-white/5"
@@ -260,6 +307,8 @@ export default function ReflexGridPage() {
               style={
                 cellState === "green"
                   ? { boxShadow: "0 0 15px rgba(0,255,136,0.3), inset 0 0 15px rgba(0,255,136,0.1)" }
+                  : cellState === "gold"
+                  ? { boxShadow: "0 0 20px rgba(255,215,0,0.4), inset 0 0 20px rgba(255,215,0,0.15)" }
                   : cellState === "red"
                   ? { boxShadow: "0 0 15px rgba(255,45,120,0.3), inset 0 0 15px rgba(255,45,120,0.1)" }
                   : undefined
@@ -280,7 +329,11 @@ export default function ReflexGridPage() {
                   : { duration: 0.2 }
               }
               whileTap={{ scale: 0.9 }}
-            />
+            >
+              {cellState === "gold" && (
+                <span className="text-gold text-lg font-black" style={{ textShadow: "0 0 8px rgba(255,215,0,0.6)" }}>+5</span>
+              )}
+            </motion.button>
           ))}
         </div>
       )}
@@ -298,14 +351,17 @@ export default function ReflexGridPage() {
 
       {/* Result - shows AFTER reward */}
       {gameState === "result" && (
-        <ResultCard
-          score={score}
-          total={score + 10}
-          time={GAME_DURATION}
-          gameName="Reflex Grid"
-          gameIcon={<Zap size={24} className="text-neon-blue" />}
-          onPlayAgain={handlePlayAgain}
-        />
+        <>
+          <ResultCard
+            score={score}
+            total={score + 10}
+            time={GAME_DURATION}
+            gameName="Reflex Grid"
+            gameIcon={<Zap size={24} className="text-neon-blue" />}
+            onPlayAgain={handlePlayAgain}
+          />
+          <MilestonePopup />
+        </>
       )}
     </main>
   );

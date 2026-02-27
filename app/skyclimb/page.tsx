@@ -4,10 +4,14 @@ import { useState, useEffect, useRef, useCallback, useMemo } from "react";
 import { Canvas, useFrame, useThree } from "@react-three/fiber";
 import * as THREE from "three";
 import { motion, AnimatePresence } from "framer-motion";
-import { Mountain, Trophy, ArrowUp, RotateCcw, Home, Maximize, Share } from "lucide-react";
+import { Mountain, Trophy, ArrowUp, RotateCcw, Home, Maximize, Share, Rocket, Shield, Zap, X } from "lucide-react";
 import Link from "next/link";
 import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, type CardRarity } from "@/lib/cards";
+import { getSkinDef, getActiveSkin } from "@/lib/skins";
+import { getHatDef, getActiveHat, getTrailDef, getActiveTrail } from "@/lib/accessories";
+import { incrementTotalGames, updateStats } from "@/lib/milestones";
+import MilestonePopup from "@/components/MilestonePopup";
 
 // ─── TYPES ──────────────────────────────────────
 interface Platform3D {
@@ -17,7 +21,7 @@ interface Platform3D {
   w: number;
   d: number;
   h: number;
-  type: "ground" | "rock" | "step" | "bridge" | "moving" | "crumble";
+  type: "ground" | "rock" | "step" | "bridge" | "moving" | "crumble" | "ice" | "bounce";
   moveAxis?: "x" | "z";
   moveRange?: number;
   moveSpeed?: number;
@@ -27,6 +31,18 @@ interface Platform3D {
   touched?: boolean;
   trees?: { ox: number; oz: number; s: number }[];
   rocks?: { ox: number; oz: number; s: number }[];
+  deltaX?: number;
+  deltaZ?: number;
+}
+
+type PowerUpType = "rocket" | "shield" | "magnet";
+
+interface PowerUpItem {
+  x: number;
+  y: number;
+  z: number;
+  type: PowerUpType;
+  collected: boolean;
 }
 
 type GameState = "menu" | "playing" | "dead" | "level-complete" | "reward";
@@ -43,13 +59,18 @@ const FRICTION = 0.85;
 const ACCEL = 0.06;
 const COYOTE_FRAMES = 6;
 const JUMP_BUFFER = 8;
+const ROCKET_FORCE = 1.6;
+const ROCKET_SKIP_PLATFORMS = 5;
+const MAGNET_DURATION = 300;
+const MAGNET_PULL = 0.006;
+const WIN_ANIM_FRAMES = 90;
 
 // ─── LEVEL GENERATION (CONNECTED PATH) ─────────────
-function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: number } {
+function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: number; powerUps: PowerUpItem[] } {
   const platforms: Platform3D[] = [];
   const difficulty = Math.min(level, 10);
 
-  let edgeZ = 4;
+  let edgeZ = 5;
   let surfY = 0;
   let cx = 0;
 
@@ -87,15 +108,19 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
   for (let s = 0; s < segCount; s++) {
     const roll = Math.random();
 
-    if (s < 2 || (s % 4 === 0 && roll < 0.4)) {
+    // Lateral shift increases with difficulty for zigzag paths
+    const lateralShift = difficulty >= 3 ? (Math.random() - 0.5) * (1.5 + difficulty * 0.3) : (Math.random() - 0.5) * 0.4;
+
+    if (s < 2 || (s % 4 === 0 && roll < 0.35)) {
       // ── GROUND REST AREA ──
       const depth = 5 + Math.random() * 3;
       const w = 6 + Math.random() * 3;
       const h = 1 + Math.random() * 0.5;
       surfY += 0.6 + Math.random() * 0.4;
-      cx += (Math.random() - 0.5) * 0.4;
+      cx += lateralShift;
 
-      const centerZ = edgeZ + depth / 2;
+      const gap = 0.5 + Math.random() * 0.3;
+      const centerZ = edgeZ + gap + depth / 2;
       const p: Platform3D = {
         x: cx, y: surfY - h / 2, z: centerZ,
         w, d: depth, h, type: "ground",
@@ -104,14 +129,14 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
       addRocks(p, Math.floor(Math.random() * 2));
       platforms.push(p);
       edgeZ = centerZ + depth / 2;
-    } else if (roll < 0.45) {
+    } else if (roll < 0.40) {
       // ── GAP JUMP — wider platforms, manageable gaps ──
       const gap = 0.8 + difficulty * 0.06;
       const d = 4 + Math.random() * 2;
       const w = 4 + Math.random() * 2;
       const h = 0.6 + Math.random() * 0.4;
       surfY += 0.3 + Math.random() * 0.5;
-      cx += (Math.random() - 0.5) * 1.0;
+      cx += lateralShift * 1.5;
 
       const centerZ = edgeZ + gap + d / 2;
       const p: Platform3D = {
@@ -121,15 +146,16 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
       addRocks(p, Math.floor(Math.random() * 2));
       platforms.push(p);
       edgeZ = centerZ + d / 2;
-    } else if (roll < 0.70) {
-      // ── STAIRCASE — wider steps, smaller gaps ──
+    } else if (roll < 0.58) {
+      // ── STAIRCASE — zigzag steps at higher levels ──
       const steps = 3 + Math.floor(Math.random() * 3);
+      const zigzag = difficulty >= 4;
       for (let i = 0; i < steps; i++) {
         const stepD = 2.5 + Math.random() * 1.0;
         const stepW = 3.5 + Math.random() * 1.5;
         const stepH = 0.4 + Math.random() * 0.3;
         surfY += 0.5 + Math.random() * 0.3;
-        cx += (Math.random() - 0.5) * 0.7;
+        cx += zigzag ? ((i % 2 === 0 ? 1 : -1) * (1.0 + Math.random() * 0.8)) : (Math.random() - 0.5) * 0.7;
 
         const gap = 0.3 + Math.random() * 0.2;
         const centerZ = edgeZ + gap + stepD / 2;
@@ -139,12 +165,12 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
         });
         edgeZ = centerZ + stepD / 2;
       }
-    } else if (roll < 0.82) {
+    } else if (roll < 0.68) {
       // ── BRIDGE — slightly wider ──
       const bLen = 4 + Math.random() * 4;
       const bH = 0.3;
       surfY += 0.2 + Math.random() * 0.2;
-      cx += (Math.random() - 0.5) * 0.3;
+      cx += lateralShift * 0.5;
 
       const centerZ = edgeZ + bLen / 2;
       platforms.push({
@@ -152,10 +178,11 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
         w: 2.2 + Math.random() * 0.6, d: bLen, h: bH, type: "bridge",
       });
       edgeZ = centerZ + bLen / 2;
-    } else if (difficulty >= 3 && roll < 0.92) {
-      // ── MOVING PLATFORM — bigger ──
+    } else if (difficulty >= 3 && roll < 0.78) {
+      // ── MOVING PLATFORM ──
       const gap = 1.0;
       surfY += 0.5;
+      cx += lateralShift;
 
       const centerZ = edgeZ + gap + 2;
       platforms.push({
@@ -165,14 +192,15 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
         moveAxis: Math.random() > 0.5 ? "x" : "z",
         moveRange: 1.2 + Math.random() * 1.2,
         moveSpeed: 0.35 + difficulty * 0.08,
+        deltaX: 0, deltaZ: 0,
       });
       edgeZ = centerZ + 1.75;
-    } else if (difficulty >= 4) {
-      // ── CRUMBLE PLATFORMS — bigger ──
+    } else if (difficulty >= 4 && roll < 0.88) {
+      // ── CRUMBLE PLATFORMS ──
       const count = 2 + Math.floor(Math.random() * 2);
       for (let i = 0; i < count; i++) {
         surfY += 0.3 + Math.random() * 0.3;
-        cx += (Math.random() - 0.5) * 1.0;
+        cx += (Math.random() - 0.5) * 1.5;
         const pD = 3;
 
         const centerZ = edgeZ + 0.6 + pD / 2;
@@ -182,6 +210,53 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
           crumbleTimer: 0, touched: false,
         });
         edgeZ = centerZ + pD / 2;
+      }
+    } else if (difficulty >= 5 && roll < 0.93) {
+      // ── FLOATING SPHERES / SMALL ISLANDS — high level challenge ──
+      const count = 2 + Math.floor(Math.random() * 3);
+      for (let i = 0; i < count; i++) {
+        surfY += 0.4 + Math.random() * 0.5;
+        cx += ((i % 2 === 0 ? 1 : -1) * (1.5 + Math.random() * 1.5));
+        const size = 1.8 + Math.random() * 1.2;
+
+        const centerZ = edgeZ + 1.0 + size / 2;
+        platforms.push({
+          x: cx, y: surfY - 0.15, z: centerZ,
+          w: size, d: size, h: 0.3,
+          type: "rock",
+        });
+        edgeZ = centerZ + size / 2;
+      }
+    } else if (level >= 10 && roll < 0.96) {
+      // ── ICE PLATFORMS (level 10+) — slippery, low friction ──
+      const count = 2 + Math.floor(Math.random() * 3);
+      for (let i = 0; i < count; i++) {
+        surfY += 0.3 + Math.random() * 0.4;
+        cx += (Math.random() - 0.5) * 2.5;
+        const d = 3 + Math.random() * 2;
+        const w = 3 + Math.random() * 2;
+        const centerZ = edgeZ + 0.6 + d / 2;
+        platforms.push({
+          x: cx, y: surfY - 0.15, z: centerZ,
+          w, d, h: 0.3,
+          type: "ice",
+        });
+        edgeZ = centerZ + d / 2;
+      }
+    } else if (level >= 15) {
+      // ── BOUNCE PLATFORMS (level 15+) — bounce you up high ──
+      const count = 2 + Math.floor(Math.random() * 2);
+      for (let i = 0; i < count; i++) {
+        surfY += 0.8 + Math.random() * 0.6;
+        cx += ((i % 2 === 0 ? 1 : -1) * (1.2 + Math.random() * 1.5));
+        const size = 2.2 + Math.random() * 1.0;
+        const centerZ = edgeZ + 1.2 + size / 2;
+        platforms.push({
+          x: cx, y: surfY - 0.15, z: centerZ,
+          w: size, d: size, h: 0.3,
+          type: "bounce",
+        });
+        edgeZ = centerZ + size / 2;
       }
     }
   }
@@ -197,7 +272,28 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
   addTrees(goal, 2);
   platforms.push(goal);
 
-  return { platforms, goalIdx: platforms.length - 1 };
+  // ── POWER-UPS ──
+  const powerUps: PowerUpItem[] = [];
+  const availableTypes: PowerUpType[] = ["shield"];
+  if (level >= 3) availableTypes.push("magnet");
+  if (level >= 5) availableTypes.push("rocket");
+
+  // Max 1 power-up per level
+  const candidates = platforms.slice(2, -1).filter(p => p.type !== "crumble" && p.type !== "moving");
+
+  if (candidates.length > 0) {
+    const idx = Math.floor(Math.random() * candidates.length);
+    const plat = candidates[idx];
+    powerUps.push({
+      x: plat.x + (Math.random() - 0.5) * Math.max(plat.w - 2, 0.5),
+      y: plat.y + plat.h / 2 + 1.2,
+      z: plat.z + (Math.random() - 0.5) * Math.max(plat.d - 2, 0.5),
+      type: availableTypes[Math.floor(Math.random() * availableTypes.length)],
+      collected: false,
+    });
+  }
+
+  return { platforms, goalIdx: platforms.length - 1, powerUps };
 }
 
 // ─── GAME DATA ──────────────────────────────────────
@@ -218,11 +314,22 @@ interface GameData {
   jumpUsed: boolean;
   camTheta: number;
   camPhi: number;
+  camDist: number;
   walkCycle: number;
   isRunning: boolean;
   coyoteTimer: number;
   jumpBufferTimer: number;
   lastGroundY: number;
+  // Power-ups
+  powerUps: PowerUpItem[];
+  hasShield: boolean;
+  magnetTimer: number;
+  rocketTimer: number;
+  // Platform state
+  onIce: boolean;
+  // Win animation
+  winAnim: boolean;
+  winAnimTimer: number;
 }
 
 function createGameData(): GameData {
@@ -243,36 +350,59 @@ function createGameData(): GameData {
     jumpUsed: false,
     camTheta: 0,
     camPhi: 0.3,
+    camDist: CAM_DISTANCE,
     walkCycle: 0,
     isRunning: false,
     coyoteTimer: 0,
     jumpBufferTimer: 0,
     lastGroundY: 0,
+    powerUps: [],
+    hasShield: false,
+    magnetTimer: 0,
+    rocketTimer: 0,
+    onIce: false,
+    winAnim: false,
+    winAnimTimer: 0,
   };
 }
 
 // ─── CHARACTER (BOX-MAN) ────────────────────────────
-function Character({ gameRef }: { gameRef: React.RefObject<GameData> }) {
+function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObject<GameData>; skinId: string; hatId: string | null; trailId: string | null }) {
   const groupRef = useRef<THREE.Group>(null);
   const bodyGroupRef = useRef<THREE.Group>(null);
   const leftLegRef = useRef<THREE.Group>(null);
   const rightLegRef = useRef<THREE.Group>(null);
   const leftArmRef = useRef<THREE.Group>(null);
   const rightArmRef = useRef<THREE.Group>(null);
+  const trailRef = useRef<THREE.Group>(null);
+
+  const skin = useMemo(() => getSkinDef(skinId), [skinId]);
+  const hat = useMemo(() => hatId ? getHatDef(hatId) : null, [hatId]);
+  const trail = useMemo(() => trailId ? getTrailDef(trailId) : null, [trailId]);
+
+  // Trail particle positions
+  const trailParticles = useRef<{ x: number; y: number; z: number; life: number }[]>([]);
 
   const bodyMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: "#ffffff", emissive: "#00D4FF", emissiveIntensity: 0.3,
-  }), []);
+    color: skin.bodyColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity,
+    transparent: skin.id === "ghost", opacity: skin.id === "ghost" ? 0.6 : 1,
+  }), [skin]);
   const headMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: "#ffffff", emissive: "#00D4FF", emissiveIntensity: 0.4,
-  }), []);
+    color: skin.headColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity + 0.1,
+    transparent: skin.id === "ghost", opacity: skin.id === "ghost" ? 0.5 : 1,
+  }), [skin]);
   const limbMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: "#cccccc", emissive: "#0088AA", emissiveIntensity: 0.2,
-  }), []);
-  const eyeMat = useMemo(() => new THREE.MeshStandardMaterial({ color: "#0A0A1A" }), []);
+    color: skin.limbColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity * 0.6,
+    transparent: skin.id === "ghost", opacity: skin.id === "ghost" ? 0.4 : 1,
+  }), [skin]);
+  const eyeMat = useMemo(() => new THREE.MeshStandardMaterial({
+    color: skin.id === "robot" ? "#00FF00" : "#0A0A1A",
+    emissive: skin.id === "robot" ? "#00FF00" : "#000000",
+    emissiveIntensity: skin.id === "robot" ? 0.8 : 0,
+  }), [skin]);
   const shoeMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: "#222222", emissive: "#00D4FF", emissiveIntensity: 0.15,
-  }), []);
+    color: skin.shoeColor, emissive: skin.emissive, emissiveIntensity: 0.15,
+  }), [skin]);
 
   useFrame((_, delta) => {
     if (!groupRef.current || !gameRef.current) return;
@@ -314,10 +444,43 @@ function Character({ gameRef }: { gameRef: React.RefObject<GameData> }) {
       groupRef.current.scale.set(scaleXZ, scaleY, scaleXZ);
     }
 
-    if (leftLegRef.current) leftLegRef.current.rotation.x = legSwing;
-    if (rightLegRef.current) rightLegRef.current.rotation.x = -legSwing;
-    if (leftArmRef.current) leftArmRef.current.rotation.x = armSwing;
-    if (rightArmRef.current) rightArmRef.current.rotation.x = -armSwing;
+    // Win animation: arms up celebration
+    if (g.winAnim && g.winAnimTimer > 30) {
+      if (leftArmRef.current) leftArmRef.current.rotation.x = -2.5;
+      if (rightArmRef.current) rightArmRef.current.rotation.x = -2.5;
+      if (leftLegRef.current) leftLegRef.current.rotation.x = 0;
+      if (rightLegRef.current) rightLegRef.current.rotation.x = 0;
+    } else {
+      if (leftLegRef.current) leftLegRef.current.rotation.x = legSwing;
+      if (rightLegRef.current) rightLegRef.current.rotation.x = -legSwing;
+      if (leftArmRef.current) leftArmRef.current.rotation.x = armSwing;
+      if (rightArmRef.current) rightArmRef.current.rotation.x = -armSwing;
+    }
+
+    // Trail particles
+    if (trail && isMoving) {
+      trailParticles.current.push({ x: g.px, y: g.py + 0.3, z: g.pz, life: 30 });
+      if (trailParticles.current.length > 20) trailParticles.current.shift();
+    }
+    trailParticles.current = trailParticles.current
+      .map(p => ({ ...p, life: p.life - 1 }))
+      .filter(p => p.life > 0);
+
+    // Update trail mesh positions
+    if (trailRef.current && trail) {
+      const children = trailRef.current.children;
+      for (let i = 0; i < children.length; i++) {
+        const p = trailParticles.current[i];
+        if (p) {
+          children[i].position.set(p.x, p.y + (30 - p.life) * 0.02, p.z);
+          children[i].visible = true;
+          const scale = p.life / 30 * 0.6;
+          children[i].scale.set(scale, scale, scale);
+        } else {
+          children[i].visible = false;
+        }
+      }
+    }
   });
 
   return (
@@ -361,7 +524,151 @@ function Character({ gameRef }: { gameRef: React.RefObject<GameData> }) {
             <boxGeometry args={[0.15, 0.08, 0.2]} />
           </mesh>
         </group>
+        {/* Skin particle glow aura */}
+        {skin.particle && (
+          <pointLight
+            position={[0, 0.5, 0]}
+            color={skin.particle}
+            intensity={skin.emissiveIntensity * 2}
+            distance={3}
+          />
+        )}
+        {/* Crown for legendary skin (default if no hat equipped) */}
+        {skin.id === "legendary" && !hat && (
+          <group position={[0, 1.05, 0]}>
+            <mesh>
+              <cylinderGeometry args={[0.18, 0.22, 0.1, 5]} />
+              <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={0.8} />
+            </mesh>
+            {[0, 1, 2, 3, 4].map((i) => (
+              <mesh key={i} position={[
+                Math.sin((i / 5) * Math.PI * 2) * 0.17,
+                0.1,
+                Math.cos((i / 5) * Math.PI * 2) * 0.17
+              ]}>
+                <boxGeometry args={[0.04, 0.08, 0.04]} />
+                <meshStandardMaterial color="#FFD700" emissive="#FF1493" emissiveIntensity={0.6} />
+              </mesh>
+            ))}
+          </group>
+        )}
+
+        {/* Equipped hat */}
+        {hat && hat.type === "crown" && (
+          <group position={[0, 1.05, 0]}>
+            <mesh>
+              <cylinderGeometry args={[0.18, 0.22, 0.1, 5]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            {[0, 1, 2, 3, 4].map((i) => (
+              <mesh key={i} position={[Math.sin((i / 5) * Math.PI * 2) * 0.17, 0.1, Math.cos((i / 5) * Math.PI * 2) * 0.17]}>
+                <boxGeometry args={[0.04, 0.08, 0.04]} />
+                <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity * 0.8} />
+              </mesh>
+            ))}
+          </group>
+        )}
+        {hat && hat.type === "cap" && (
+          <group position={[0, 1.02, 0]}>
+            <mesh>
+              <cylinderGeometry args={[0.22, 0.22, 0.08, 8]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            <mesh position={[0, 0.06, 0]}>
+              <sphereGeometry args={[0.2, 8, 4, 0, Math.PI * 2, 0, Math.PI / 2]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            <mesh position={[0, 0, 0.22]} rotation={[-0.3, 0, 0]}>
+              <boxGeometry args={[0.3, 0.02, 0.15]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity * 0.5} />
+            </mesh>
+          </group>
+        )}
+        {hat && hat.type === "halo" && (
+          <group position={[0, 1.15, 0]}>
+            <mesh rotation={[Math.PI / 2, 0, 0]}>
+              <torusGeometry args={[0.22, 0.03, 8, 16]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            <pointLight color={hat.emissive} intensity={1.5} distance={3} />
+          </group>
+        )}
+        {hat && hat.type === "horns" && (
+          <group position={[0, 1.0, 0]}>
+            <mesh position={[0.14, 0.08, 0]} rotation={[0, 0, 0.4]}>
+              <coneGeometry args={[0.06, 0.22, 5]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            <mesh position={[-0.14, 0.08, 0]} rotation={[0, 0, -0.4]}>
+              <coneGeometry args={[0.06, 0.22, 5]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+          </group>
+        )}
+        {hat && hat.type === "tophat" && (
+          <group position={[0, 1.02, 0]}>
+            <mesh>
+              <cylinderGeometry args={[0.22, 0.22, 0.04, 12]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            <mesh position={[0, 0.18, 0]}>
+              <cylinderGeometry args={[0.15, 0.15, 0.3, 12]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+          </group>
+        )}
+        {hat && hat.type === "helmet" && (
+          <group position={[0, 0.95, 0]}>
+            <mesh>
+              <sphereGeometry args={[0.22, 8, 6, 0, Math.PI * 2, 0, Math.PI / 2]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+          </group>
+        )}
+        {hat && hat.type === "antenna" && (
+          <group position={[0, 1.02, 0]}>
+            <mesh position={[0, 0.15, 0]}>
+              <cylinderGeometry args={[0.015, 0.015, 0.3, 4]} />
+              <meshStandardMaterial color="#888888" emissive="#444444" emissiveIntensity={0.2} />
+            </mesh>
+            <mesh position={[0, 0.33, 0]}>
+              <sphereGeometry args={[0.06, 8, 8]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            <pointLight position={[0, 0.33, 0]} color={hat.emissive} intensity={2} distance={3} />
+          </group>
+        )}
+        {hat && hat.type === "wizard" && (
+          <group position={[0, 1.0, 0]}>
+            <mesh>
+              <coneGeometry args={[0.22, 0.45, 6]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
+            </mesh>
+            <mesh position={[0, 0.0, 0]}>
+              <cylinderGeometry args={[0.25, 0.25, 0.04, 12]} />
+              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity * 0.5} />
+            </mesh>
+          </group>
+        )}
       </group>
+
+      {/* Trail particles */}
+      {trail && (
+        <group ref={trailRef}>
+          {Array.from({ length: 20 }, (_, i) => (
+            <mesh key={i} visible={false}>
+              <sphereGeometry args={[0.15, 6, 6]} />
+              <meshStandardMaterial
+                color={trail.color}
+                emissive={trail.emissive}
+                emissiveIntensity={0.8}
+                transparent
+                opacity={0.6}
+              />
+            </mesh>
+          ))}
+        </group>
+      )}
     </group>
   );
 }
@@ -402,15 +709,17 @@ function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: Re
   const glowRef = useRef<THREE.PointLight>(null);
 
   const colors = useMemo(() => {
-    if (isGoal) return { c: "#4a9d38", e: "#FFD700", i: 0.25 };
+    if (isGoal) return { c: "#3aad38", e: "#FFD700", i: 0.35 };
     switch (plat.type) {
-      case "ground": return { c: "#3a7d28", e: "#1a3d10", i: 0.05 };
-      case "rock": return { c: "#7a7a7a", e: "#333333", i: 0.03 };
-      case "step": return { c: "#8a8278", e: "#444038", i: 0.03 };
-      case "bridge": return { c: "#8B6914", e: "#443208", i: 0.05 };
-      case "moving": return { c: "#00FF88", e: "#00FF88", i: 0.3 };
-      case "crumble": return { c: "#FF4466", e: "#FF4466", i: 0.3 };
-      default: return { c: "#3a7d28", e: "#1a3d10", i: 0.05 };
+      case "ground": return { c: "#4a9a38", e: "#2a6a18", i: 0.08 };
+      case "rock": return { c: "#8a8a90", e: "#505058", i: 0.05 };
+      case "step": return { c: "#9a9288", e: "#5a5248", i: 0.05 };
+      case "bridge": return { c: "#a07818", e: "#604010", i: 0.08 };
+      case "moving": return { c: "#00FF88", e: "#00FF88", i: 0.4 };
+      case "crumble": return { c: "#FF4466", e: "#FF4466", i: 0.4 };
+      case "ice": return { c: "#b0e8ff", e: "#00D4FF", i: 0.5 };
+      case "bounce": return { c: "#FFa020", e: "#FFD700", i: 0.6 };
+      default: return { c: "#4a9a38", e: "#2a6a18", i: 0.08 };
     }
   }, [plat.type, isGoal]);
 
@@ -418,9 +727,9 @@ function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: Re
     color: colors.c,
     emissive: colors.e,
     emissiveIntensity: colors.i,
-    roughness: plat.type === "bridge" ? 0.7 : 0.85,
-    transparent: plat.type === "crumble",
-    opacity: 1,
+    roughness: plat.type === "bridge" ? 0.7 : plat.type === "ice" ? 0.1 : 0.85,
+    transparent: plat.type === "crumble" || plat.type === "ice",
+    opacity: plat.type === "ice" ? 0.7 : 1,
   }), [colors, plat.type]);
 
   const sideMat = useMemo(() => {
@@ -443,11 +752,15 @@ function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: Re
     const g = gameRef.current;
 
     if (plat.type === "moving") {
+      const prevX = plat.x;
+      const prevZ = plat.z;
       if (plat.moveAxis === "x" && plat.origX !== undefined) {
         plat.x = plat.origX + Math.sin(g.time * 0.03 * (plat.moveSpeed || 1)) * (plat.moveRange || 1);
       } else if (plat.moveAxis === "z" && plat.origZ !== undefined) {
         plat.z = plat.origZ + Math.sin(g.time * 0.03 * (plat.moveSpeed || 1)) * (plat.moveRange || 1);
       }
+      plat.deltaX = plat.x - prevX;
+      plat.deltaZ = plat.z - prevZ;
     }
 
     if (plat.type === "crumble" && plat.touched) {
@@ -516,39 +829,121 @@ function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: Re
 
 function GoalTrophy({ pos, gameRef }: { pos: number[]; gameRef: React.RefObject<GameData> }) {
   const ref = useRef<THREE.Mesh>(null);
+  const glowRef = useRef<THREE.PointLight>(null);
+
   useFrame(() => {
     if (!ref.current || !gameRef.current) return;
-    ref.current.rotation.y = gameRef.current.time * 0.02;
-    ref.current.position.y = pos[1] + Math.sin(gameRef.current.time * 0.03) * 0.2;
+    const g = gameRef.current;
+
+    if (g.winAnim) {
+      // Float down toward player during win animation
+      const targetY = g.py + 1.0;
+      ref.current.position.x += (g.px - ref.current.position.x) * 0.04;
+      ref.current.position.y += (targetY - ref.current.position.y) * 0.04;
+      ref.current.position.z += (g.pz - ref.current.position.z) * 0.04;
+      ref.current.rotation.y += 0.1;
+      const pulse = 1 + Math.sin(g.winAnimTimer * 0.15) * 0.3;
+      ref.current.scale.set(pulse, pulse, pulse);
+      if (glowRef.current) {
+        glowRef.current.position.copy(ref.current.position);
+        glowRef.current.intensity = 5 + Math.sin(g.winAnimTimer * 0.1) * 3;
+      }
+    } else {
+      ref.current.rotation.y = g.time * 0.02;
+      ref.current.position.y = pos[1] + Math.sin(g.time * 0.03) * 0.2;
+      ref.current.scale.set(1, 1, 1);
+    }
   });
+
   return (
-    <mesh ref={ref} position={[pos[0], pos[1], pos[2]]}>
-      <boxGeometry args={[0.5, 0.7, 0.08]} />
-      <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={0.8} />
-    </mesh>
+    <>
+      <mesh ref={ref} position={[pos[0], pos[1], pos[2]]}>
+        <boxGeometry args={[0.5, 0.7, 0.08]} />
+        <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={0.8} />
+      </mesh>
+      <pointLight ref={glowRef} color="#FFD700" intensity={0} distance={8} />
+    </>
+  );
+}
+
+// ─── POWER-UP MESH ──────────────────────────────────
+function PowerUpMesh({ powerUp, gameRef }: { powerUp: PowerUpItem; gameRef: React.RefObject<GameData> }) {
+  const ref = useRef<THREE.Group>(null);
+
+  const colors = useMemo(() => {
+    switch (powerUp.type) {
+      case "rocket": return { main: "#FF4500", glow: "#FF6347" };
+      case "shield": return { main: "#4169E1", glow: "#6495ED" };
+      case "magnet": return { main: "#9932CC", glow: "#BA55D3" };
+    }
+  }, [powerUp.type]);
+
+  useFrame(() => {
+    if (!ref.current || !gameRef.current) return;
+    if (powerUp.collected) { ref.current.visible = false; return; }
+    ref.current.visible = true;
+    ref.current.rotation.y = gameRef.current.time * 0.03;
+    ref.current.position.y = powerUp.y + Math.sin(gameRef.current.time * 0.04 + powerUp.x) * 0.25;
+  });
+
+  return (
+    <group ref={ref} position={[powerUp.x, powerUp.y, powerUp.z]}>
+      {powerUp.type === "rocket" && (
+        <>
+          <mesh rotation={[0, 0, 0]}>
+            <coneGeometry args={[0.2, 0.6, 6]} />
+            <meshStandardMaterial color={colors.main} emissive={colors.glow} emissiveIntensity={0.6} />
+          </mesh>
+          <mesh position={[0, -0.4, 0]}>
+            <cylinderGeometry args={[0.15, 0.2, 0.25, 6]} />
+            <meshStandardMaterial color="#FF6347" emissive="#FF4500" emissiveIntensity={0.3} />
+          </mesh>
+        </>
+      )}
+      {powerUp.type === "shield" && (
+        <mesh>
+          <dodecahedronGeometry args={[0.35, 0]} />
+          <meshStandardMaterial color={colors.main} emissive={colors.glow} emissiveIntensity={0.6} transparent opacity={0.85} />
+        </mesh>
+      )}
+      {powerUp.type === "magnet" && (
+        <mesh>
+          <torusGeometry args={[0.25, 0.1, 8, 12]} />
+          <meshStandardMaterial color={colors.main} emissive={colors.glow} emissiveIntensity={0.6} />
+        </mesh>
+      )}
+      <pointLight color={colors.glow} intensity={2} distance={5} />
+    </group>
   );
 }
 
 // ─── CLOUDS ─────────────────────────────────────────
 function Clouds() {
   const clouds = useMemo(() => {
-    return Array.from({ length: 25 }, () => ({
-      x: (Math.random() - 0.5) * 120,
-      y: 12 + Math.random() * 25,
-      z: (Math.random() - 0.5) * 120,
-      sx: 2 + Math.random() * 4,
-      sy: 0.5 + Math.random() * 1,
-      sz: 1.5 + Math.random() * 3,
+    return Array.from({ length: 30 }, () => ({
+      x: (Math.random() - 0.5) * 140,
+      y: 14 + Math.random() * 30,
+      z: (Math.random() - 0.5) * 140,
+      blobs: Array.from({ length: 2 + Math.floor(Math.random() * 3) }, () => ({
+        ox: (Math.random() - 0.5) * 2.5,
+        oy: (Math.random() - 0.5) * 0.4,
+        oz: (Math.random() - 0.5) * 1.5,
+        r: 0.8 + Math.random() * 1.2,
+      })),
     }));
   }, []);
 
   return (
     <>
       {clouds.map((c, i) => (
-        <mesh key={i} position={[c.x, c.y, c.z]}>
-          <boxGeometry args={[c.sx, c.sy, c.sz]} />
-          <meshStandardMaterial color="#ffffff" transparent opacity={0.25} roughness={1} />
-        </mesh>
+        <group key={i} position={[c.x, c.y, c.z]}>
+          {c.blobs.map((b, j) => (
+            <mesh key={j} position={[b.ox, b.oy, b.oz]}>
+              <sphereGeometry args={[b.r, 6, 5]} />
+              <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.05} transparent opacity={0.2} roughness={1} />
+            </mesh>
+          ))}
+        </group>
       ))}
     </>
   );
@@ -558,14 +953,15 @@ function Clouds() {
 function DistantMountains() {
   const mountains = useMemo(() => {
     const arr = [];
-    for (let i = 0; i < 10; i++) {
-      const angle = (i / 10) * Math.PI * 2;
-      const r = 130 + Math.random() * 40;
+    for (let i = 0; i < 14; i++) {
+      const angle = (i / 14) * Math.PI * 2 + (Math.random() - 0.5) * 0.3;
+      const r = 100 + Math.random() * 50;
       arr.push({
         x: Math.cos(angle) * r,
         z: Math.sin(angle) * r,
-        height: 8 + Math.random() * 12,
-        width: 10 + Math.random() * 8,
+        height: 10 + Math.random() * 18,
+        width: 12 + Math.random() * 10,
+        color: i % 3 === 0 ? "#5a7a98" : i % 3 === 1 ? "#6a8ab0" : "#8a9ab0",
       });
     }
     return arr;
@@ -574,9 +970,9 @@ function DistantMountains() {
   return (
     <>
       {mountains.map((m, i) => (
-        <mesh key={i} position={[m.x, m.height / 2 - 5, m.z]}>
-          <coneGeometry args={[m.width, m.height, 4]} />
-          <meshStandardMaterial color="#7a9ab8" roughness={0.95} transparent opacity={0.5} />
+        <mesh key={i} position={[m.x, m.height / 2 - 6, m.z]}>
+          <coneGeometry args={[m.width, m.height, 5]} />
+          <meshStandardMaterial color={m.color} emissive={m.color} emissiveIntensity={0.05} roughness={0.95} transparent opacity={0.45} />
         </mesh>
       ))}
     </>
@@ -584,10 +980,13 @@ function DistantMountains() {
 }
 
 // ─── GAME LOOP (IMPROVED PHYSICS) ───────────────────
-function GameLoop({ gameRef, onDie, onGoal }: {
+function GameLoop({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed }: {
   gameRef: React.RefObject<GameData>;
   onDie: () => void;
   onGoal: () => void;
+  onWinStart: () => void;
+  onPowerUp: (type: PowerUpType) => void;
+  onShieldUsed: () => void;
 }) {
   const { camera } = useThree();
   const vec = useMemo(() => new THREE.Vector3(), []);
@@ -599,6 +998,74 @@ function GameLoop({ gameRef, onDie, onGoal }: {
 
     const dt = Math.min(delta * 60, 3);
     g.time += dt;
+
+    // ─── WIN ANIMATION ─────
+    if (g.winAnim) {
+      g.winAnimTimer += dt;
+
+      // Auto-move toward goal center
+      const goal = g.platforms[g.goalIdx];
+      if (goal) {
+        const dx = goal.x - g.px;
+        const dz = goal.z - g.pz;
+        const dist = Math.sqrt(dx * dx + dz * dz);
+        if (dist > 0.3) {
+          g.vx = (dx / dist) * 0.025;
+          g.vz = (dz / dist) * 0.025;
+          g.facingAngle = Math.atan2(dx, dz);
+        } else {
+          g.vx = 0;
+          g.vz = 0;
+        }
+      }
+
+      // Gravity + apply
+      g.vy -= GRAVITY * dt;
+      g.px += g.vx;
+      g.py += g.vy * dt;
+      g.pz += g.vz;
+
+      // Collision (keep on platform)
+      for (const plat of g.platforms) {
+        if (g.vy > 0.1) continue;
+        const halfW = plat.w / 2;
+        const halfD = plat.d / 2;
+        const platTop = plat.y + plat.h / 2;
+        if (g.px > plat.x - halfW && g.px < plat.x + halfW &&
+            g.pz > plat.z - halfD && g.pz < plat.z + halfD &&
+            g.py >= platTop - 1.0 && g.py <= platTop + 0.6) {
+          g.py = platTop + 0.01;
+          g.vy = 0;
+          break;
+        }
+      }
+
+      // Camera zoom in during win animation
+      const winCamDist = Math.max(g.camDist - g.winAnimTimer * 0.05, 4);
+      const camX = g.px - Math.sin(g.camTheta) * winCamDist;
+      const camZ = g.pz - Math.cos(g.camTheta) * winCamDist;
+      const camY = g.py + 3 + Math.sin(g.camPhi) * 1;
+      vec.set(camX, camY, camZ);
+      camera.position.lerp(vec, 0.08 * dt);
+      camera.lookAt(g.px, g.py + 1.2, g.pz);
+
+      if (g.winAnimTimer > WIN_ANIM_FRAMES) {
+        g.levelComplete = true;
+        onGoal();
+      }
+      return;
+    }
+
+    // ─── POWER-UP TIMERS ─────
+    if (g.rocketTimer > 0) {
+      g.rocketTimer -= dt;
+      // Continuous forward boost during rocket
+      const rFwdX = Math.sin(g.facingAngle);
+      const rFwdZ = Math.cos(g.facingAngle);
+      g.vx += rFwdX * 0.008 * dt;
+      g.vz += rFwdZ * 0.008 * dt;
+    }
+    if (g.magnetTimer > 0) g.magnetTimer -= dt;
 
     // ─── MOVEMENT (relative to camera) ─────
     const camAngle = g.camTheta;
@@ -622,8 +1089,10 @@ function GameLoop({ gameRef, onDie, onGoal }: {
 
       g.facingAngle = Math.atan2(worldDirX, worldDirZ);
     } else {
-      g.vx *= FRICTION;
-      g.vz *= FRICTION;
+      // Ice platforms are much more slippery (less friction = slide more)
+      const currentFriction = g.onIce ? 0.98 : FRICTION;
+      g.vx *= currentFriction;
+      g.vz *= currentFriction;
     }
 
     // ─── COYOTE TIME + JUMP BUFFER ─────
@@ -647,22 +1116,50 @@ function GameLoop({ gameRef, onDie, onGoal }: {
       g.jumpUsed = false;
     }
 
-    // Variable jump height - release early for shorter jump
+    // Variable jump height
     if (!g.jumpPressed && g.vy > 0.15) {
       g.vy *= 0.85;
     }
 
-    // Gravity
-    g.vy -= GRAVITY * dt;
+    // Gravity (reduced during rocket boost)
+    const gravMult = g.rocketTimer > 0 ? 0.4 : 1.0;
+    g.vy -= GRAVITY * dt * gravMult;
+
+    // ─── MAGNET EFFECT — gentle guide toward nearest NEXT platform (only when airborne) ─────
+    if (g.magnetTimer > 0 && !g.onGround) {
+      let nearestDist = Infinity;
+      let nearestPlat: Platform3D | null = null;
+      for (const plat of g.platforms) {
+        if (plat.type === "crumble" && plat.touched && (plat.crumbleTimer || 0) > 50) continue;
+        // Only attract to platforms ahead
+        if (plat.z < g.pz + 1) continue;
+        const dx = plat.x - g.px;
+        const dz = plat.z - g.pz;
+        const dist = Math.sqrt(dx * dx + dz * dz);
+        if (dist < nearestDist && dist > 0.5 && dist < 12) {
+          nearestDist = dist;
+          nearestPlat = plat;
+        }
+      }
+      if (nearestPlat && nearestDist > 1) {
+        const dx = nearestPlat.x - g.px;
+        const dz = nearestPlat.z - g.pz;
+        const len = Math.sqrt(dx * dx + dz * dz);
+        // Gentle directional nudge (not proportional to distance - constant gentle force)
+        g.vx += (dx / len) * MAGNET_PULL;
+        g.vz += (dz / len) * MAGNET_PULL;
+      }
+    }
 
     // Apply velocity
     g.px += g.vx;
     g.py += g.vy * dt;
     g.pz += g.vz;
 
-    // ─── PLATFORM COLLISION (IMPROVED - more forgiving) ─────
+    // ─── PLATFORM COLLISION (FIXED - generous edge tolerance) ─────
     const wasOnGround = g.onGround;
     g.onGround = false;
+    g.onIce = false;
 
     for (const plat of g.platforms) {
       if (plat.type === "crumble" && plat.touched) {
@@ -670,20 +1167,20 @@ function GameLoop({ gameRef, onDie, onGoal }: {
         if ((plat.crumbleTimer || 0) > 50) continue;
       }
 
-      // Only check landing when falling
-      if (g.vy > 0.05) continue;
+      // Only check landing when falling or nearly level
+      if (g.vy > 0.1) continue;
 
       const halfW = plat.w / 2;
       const halfD = plat.d / 2;
       const platTop = plat.y + plat.h / 2;
 
-      // Use PLAYER_RADIUS for edge tolerance (more forgiving)
-      const edgeTolerance = PLAYER_RADIUS * 0.5;
+      // FIXED: negative edge tolerance = expanded collision area (more forgiving edges)
+      const edgeTolerance = -PLAYER_RADIUS * 0.25;
       const withinX = g.px > plat.x - halfW + edgeTolerance && g.px < plat.x + halfW - edgeTolerance;
       const withinZ = g.pz > plat.z - halfD + edgeTolerance && g.pz < plat.z + halfD - edgeTolerance;
 
       // More generous vertical range for landing
-      const withinY = g.py >= platTop - 0.8 && g.py <= platTop + 0.5;
+      const withinY = g.py >= platTop - 1.0 && g.py <= platTop + 0.6;
 
       if (withinX && withinZ && withinY) {
         g.py = platTop + 0.01;
@@ -692,16 +1189,25 @@ function GameLoop({ gameRef, onDie, onGoal }: {
         g.lastGroundY = platTop;
 
         if (plat.type === "crumble") plat.touched = true;
+        if (plat.type === "ice") g.onIce = true;
 
-        // Snap to moving platform
+        // FIXED: Moving platform carries player
         if (plat.type === "moving") {
-          // Player stays on the moving platform
+          g.px += plat.deltaX || 0;
+          g.pz += plat.deltaZ || 0;
+        }
+
+        // BOUNCE: spring the player up high
+        if (plat.type === "bounce") {
+          g.vy = JUMP_FORCE * 2.2;
+          g.onGround = false;
+          break;
         }
         break;
       }
     }
 
-    // Coyote time: just left ground
+    // Coyote time
     if (wasOnGround && !g.onGround && g.vy <= 0) {
       g.coyoteTimer = COYOTE_FRAMES;
     } else if (g.onGround) {
@@ -710,29 +1216,83 @@ function GameLoop({ gameRef, onDie, onGoal }: {
       if (g.coyoteTimer > 0) g.coyoteTimer -= dt;
     }
 
-    // ─── DEATH ────────
-    if (g.py < -10) {
-      g.dead = true;
-      onDie();
-      return;
+    // ─── POWER-UP COLLECTION ─────
+    for (const pu of g.powerUps) {
+      if (pu.collected) continue;
+      const dx = g.px - pu.x;
+      const dy = g.py - pu.y;
+      const dz = g.pz - pu.z;
+      const dist = Math.sqrt(dx * dx + dy * dy + dz * dz);
+      if (dist < 1.5) {
+        pu.collected = true;
+        onPowerUp(pu.type);
+        if (pu.type === "rocket") {
+          // Find platform ~5 ahead of current position
+          const aheadPlats = g.platforms
+            .filter(p => p.z > g.pz + 2)
+            .sort((a, b) => a.z - b.z);
+          const targetIdx = Math.min(ROCKET_SKIP_PLATFORMS - 1, aheadPlats.length - 1);
+          const target = aheadPlats[targetIdx];
+          if (target) {
+            // Calculate velocity needed to reach target platform
+            const dz = target.z - g.pz;
+            const dx = target.x - g.px;
+            const totalFrames = 90; // ~1.5 sec flight
+            g.vx = dx / totalFrames * 0.7;
+            g.vz = dz / totalFrames * 0.7;
+            g.vy = ROCKET_FORCE;
+            g.rocketTimer = totalFrames;
+          } else {
+            g.vy = ROCKET_FORCE;
+            const fwdX = Math.sin(g.facingAngle);
+            const fwdZ = Math.cos(g.facingAngle);
+            g.vx += fwdX * 0.2;
+            g.vz += fwdZ * 0.2;
+            g.rocketTimer = 90;
+          }
+          g.onGround = false;
+        } else if (pu.type === "shield") {
+          g.hasShield = true;
+        } else if (pu.type === "magnet") {
+          g.magnetTimer = MAGNET_DURATION;
+        }
+      }
     }
 
-    // ─── GOAL CHECK ──────────────────
+    // ─── DEATH (with shield protection) ────────
+    if (g.py < -10) {
+      if (g.hasShield) {
+        // Shield saves! Teleport back to last safe position
+        g.hasShield = false;
+        g.py = g.lastGroundY + 2;
+        g.vy = 0.15;
+        g.vx = 0;
+        g.vz = 0;
+        onShieldUsed();
+      } else {
+        g.dead = true;
+        onDie();
+        return;
+      }
+    }
+
+    // ─── GOAL CHECK (triggers win animation) ──────────────────
     const goal = g.platforms[g.goalIdx];
     if (goal) {
       const dx = g.px - goal.x;
       const dz = g.pz - goal.z;
       const dist = Math.sqrt(dx * dx + dz * dz);
       if (dist < 3 && g.py > goal.y - 0.5 && g.py < goal.y + 3) {
-        g.levelComplete = true;
-        onGoal();
+        g.winAnim = true;
+        g.winAnimTimer = 0;
+        onWinStart();
         return;
       }
     }
 
     // ─── CAMERA ──────────────────────
-    const camX = g.px - Math.sin(g.camTheta) * CAM_DISTANCE;
-    const camZ = g.pz - Math.cos(g.camTheta) * CAM_DISTANCE;
+    const camX = g.px - Math.sin(g.camTheta) * g.camDist;
+    const camZ = g.pz - Math.cos(g.camTheta) * g.camDist;
     const camY = g.py + CAM_HEIGHT + Math.sin(g.camPhi) * 2;
 
     vec.set(camX, camY, camZ);
@@ -744,22 +1304,70 @@ function GameLoop({ gameRef, onDie, onGoal }: {
 }
 
 // ─── SCENE ──────────────────────────────────────────
-function Scene3D({ gameRef, onDie, onGoal }: {
+// ─── FLOATING PARTICLES (atmosphere) ────────────────
+function FloatingParticles() {
+  const particles = useMemo(() => {
+    return Array.from({ length: 40 }, () => ({
+      x: (Math.random() - 0.5) * 60,
+      y: 2 + Math.random() * 30,
+      z: (Math.random() - 0.5) * 60,
+      speed: 0.002 + Math.random() * 0.004,
+      phase: Math.random() * Math.PI * 2,
+      size: 0.04 + Math.random() * 0.06,
+    }));
+  }, []);
+
+  const refs = useRef<(THREE.Mesh | null)[]>([]);
+
+  useFrame((state) => {
+    const t = state.clock.elapsedTime;
+    for (let i = 0; i < particles.length; i++) {
+      const mesh = refs.current[i];
+      if (!mesh) continue;
+      const p = particles[i];
+      mesh.position.y = p.y + Math.sin(t * p.speed * 60 + p.phase) * 2;
+      mesh.position.x = p.x + Math.sin(t * 0.1 + p.phase) * 0.5;
+    }
+  });
+
+  return (
+    <>
+      {particles.map((p, i) => (
+        <mesh key={i} ref={(el) => { refs.current[i] = el; }} position={[p.x, p.y, p.z]}>
+          <sphereGeometry args={[p.size, 4, 4]} />
+          <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.8} transparent opacity={0.3} />
+        </mesh>
+      ))}
+    </>
+  );
+}
+
+function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, skinId, hatId, trailId }: {
   gameRef: React.RefObject<GameData>;
   onDie: () => void;
   onGoal: () => void;
+  onWinStart: () => void;
+  onPowerUp: (type: PowerUpType) => void;
+  onShieldUsed: () => void;
+  skinId: string;
+  hatId: string | null;
+  trailId: string | null;
 }) {
   const g = gameRef.current;
   if (!g) return null;
 
   return (
     <>
-      <ambientLight intensity={0.45} color="#c8d8e8" />
-      <directionalLight position={[15, 25, 10]} intensity={1.1} color="#fff5e0" castShadow />
-      <hemisphereLight args={["#87CEEB", "#3a5c28", 0.35]} />
+      {/* Modernized lighting - warmer, more atmospheric */}
+      <ambientLight intensity={0.35} color="#e0d0f0" />
+      <directionalLight position={[15, 30, 10]} intensity={1.3} color="#fff0d0" castShadow />
+      <directionalLight position={[-10, 15, -5]} intensity={0.3} color="#a0c0ff" />
+      <hemisphereLight args={["#6db3f2", "#2a4c28", 0.4]} />
 
-      <fog attach="fog" args={["#b8d0e0", 35, 110]} />
+      {/* Atmospheric fog - deeper, more mysterious */}
+      <fog attach="fog" args={["#c0d4e8", 30, 100]} />
 
+      <FloatingParticles />
       <Clouds />
       <DistantMountains />
 
@@ -767,9 +1375,13 @@ function Scene3D({ gameRef, onDie, onGoal }: {
         <PlatformMesh key={i} plat={plat} gameRef={gameRef} isGoal={i === g.goalIdx} />
       ))}
 
-      <Character gameRef={gameRef} />
+      {g.powerUps.map((pu, i) => (
+        <PowerUpMesh key={`pu${i}`} powerUp={pu} gameRef={gameRef} />
+      ))}
 
-      <GameLoop gameRef={gameRef} onDie={onDie} onGoal={onGoal} />
+      <Character gameRef={gameRef} skinId={skinId} hatId={hatId} trailId={trailId} />
+
+      <GameLoop gameRef={gameRef} onDie={onDie} onGoal={onGoal} onWinStart={onWinStart} onPowerUp={onPowerUp} onShieldUsed={onShieldUsed} />
     </>
   );
 }
@@ -883,11 +1495,23 @@ export default function SkyClimbPage() {
   const [rewardRarity, setRewardRarity] = useState<CardRarity>("bronze");
   const [showPwaHint, setShowPwaHint] = useState(false);
   const [isFullscreen, setIsFullscreen] = useState(false);
+  const [winAnimActive, setWinAnimActive] = useState(false);
+  const [notification, setNotification] = useState<string | null>(null);
+  const [shieldActive, setShieldActive] = useState(false);
+  const [activeSkinId, setActiveSkinId] = useState("default");
+  const [activeHatId, setActiveHatId] = useState<string | null>(null);
+  const [activeTrailId, setActiveTrailId] = useState<string | null>(null);
+  const [isTouchDevice, setIsTouchDevice] = useState(false);
   const gameRef = useRef<GameData>(createGameData());
 
   useEffect(() => {
+    // Detect touch capability (works for landscape phones too)
+    setIsTouchDevice("ontouchstart" in window || navigator.maxTouchPoints > 0);
     const saved = localStorage.getItem("plizio_skyclimb_highest");
     if (saved) setHighestLevel(parseInt(saved));
+    setActiveSkinId(getActiveSkin());
+    setActiveHatId(getActiveHat());
+    setActiveTrailId(getActiveTrail());
 
     // Check if already in standalone/fullscreen
     setIsFullscreen(isStandalone());
@@ -972,10 +1596,28 @@ export default function SkyClimbPage() {
 
     const handleMouseUp = () => { isMouseDown = false; };
 
+    const handleWheel = (e: WheelEvent) => {
+      e.preventDefault();
+      g.camDist = Math.max(4, Math.min(18, g.camDist + e.deltaY * 0.01));
+    };
+
     let camTouchId: number | null = null;
     let camLastX = 0;
+    // Pinch-to-zoom state
+    let pinchActive = false;
+    let pinchLastDist = 0;
 
     const handleTouchStart = (e: TouchEvent) => {
+      // Pinch-to-zoom: 2 fingers detected
+      if (e.touches.length === 2) {
+        pinchActive = true;
+        const dx = e.touches[0].clientX - e.touches[1].clientX;
+        const dy = e.touches[0].clientY - e.touches[1].clientY;
+        pinchLastDist = Math.sqrt(dx * dx + dy * dy);
+        camTouchId = null; // Cancel camera rotation during pinch
+        return;
+      }
+
       for (let i = 0; i < e.changedTouches.length; i++) {
         const t = e.changedTouches[i];
         const rightSide = t.clientX > window.innerWidth * 0.5;
@@ -988,6 +1630,18 @@ export default function SkyClimbPage() {
     };
 
     const handleTouchMove = (e: TouchEvent) => {
+      // Pinch-to-zoom handling
+      if (e.touches.length === 2 && pinchActive) {
+        const dx = e.touches[0].clientX - e.touches[1].clientX;
+        const dy = e.touches[0].clientY - e.touches[1].clientY;
+        const dist = Math.sqrt(dx * dx + dy * dy);
+        const delta = pinchLastDist - dist;
+        pinchLastDist = dist;
+        // Zoom: pinch in = zoom out (increase distance), pinch out = zoom in
+        g.camDist = Math.max(4, Math.min(18, g.camDist + delta * 0.03));
+        return;
+      }
+
       for (let i = 0; i < e.touches.length; i++) {
         const t = e.touches[i];
         if (t.identifier === camTouchId) {
@@ -999,6 +1653,10 @@ export default function SkyClimbPage() {
     };
 
     const handleTouchEnd = (e: TouchEvent) => {
+      // Reset pinch when finger lifted
+      if (e.touches.length < 2) {
+        pinchActive = false;
+      }
       for (let i = 0; i < e.changedTouches.length; i++) {
         if (e.changedTouches[i].identifier === camTouchId) {
           camTouchId = null;
@@ -1011,6 +1669,7 @@ export default function SkyClimbPage() {
     window.addEventListener("mousedown", handleMouseDown);
     window.addEventListener("mousemove", handleMouseMove);
     window.addEventListener("mouseup", handleMouseUp);
+    window.addEventListener("wheel", handleWheel, { passive: false });
     window.addEventListener("touchstart", handleTouchStart, { passive: true });
     window.addEventListener("touchmove", handleTouchMove, { passive: true });
     window.addEventListener("touchend", handleTouchEnd, { passive: true });
@@ -1021,6 +1680,7 @@ export default function SkyClimbPage() {
       window.removeEventListener("mousedown", handleMouseDown);
       window.removeEventListener("mousemove", handleMouseMove);
       window.removeEventListener("mouseup", handleMouseUp);
+      window.removeEventListener("wheel", handleWheel);
       window.removeEventListener("touchstart", handleTouchStart);
       window.removeEventListener("touchmove", handleTouchMove);
       window.removeEventListener("touchend", handleTouchEnd);
@@ -1039,20 +1699,65 @@ export default function SkyClimbPage() {
       (screen.orientation as { lock?: (o: string) => Promise<void> })?.lock?.("portrait").catch(() => {});
     } catch {}
 
-    const { platforms, goalIdx } = generateLevel(lvl);
+    const { platforms, goalIdx, powerUps } = generateLevel(lvl);
     const g = gameRef.current;
     Object.assign(g, createGameData());
     g.platforms = platforms;
     g.goalIdx = goalIdx;
+    g.powerUps = powerUps;
     g.level = lvl;
     g.py = 1;
+
+    // Activate shop power-up: sky_extralife gives shield at start
+    try {
+      const saved = localStorage.getItem("plizio_powerups");
+      if (saved) {
+        const pups = JSON.parse(saved) as Record<string, number>;
+        if (pups["sky_extralife"] && pups["sky_extralife"] > 0) {
+          g.hasShield = true;
+          pups["sky_extralife"] -= 1;
+          if (pups["sky_extralife"] <= 0) delete pups["sky_extralife"];
+          localStorage.setItem("plizio_powerups", JSON.stringify(pups));
+          setShieldActive(true);
+          setNotification("SHIELD READY!");
+          setTimeout(() => setNotification(null), 2000);
+        }
+      }
+    } catch {}
+
     setLevel(lvl);
+    setWinAnimActive(false);
     setGameState("playing");
   }, []);
 
-  const handleDie = useCallback(() => setGameState("dead"), []);
+  const handleDie = useCallback(() => {
+    setWinAnimActive(false);
+    setGameState("dead");
+  }, []);
+
+  const handleWinStart = useCallback(() => {
+    setWinAnimActive(true);
+  }, []);
+
+  const handlePowerUp = useCallback((type: PowerUpType) => {
+    if (type === "shield") setShieldActive(true);
+    const names: Record<PowerUpType, string> = {
+      rocket: "ROCKET!",
+      shield: "SHIELD!",
+      magnet: "MAGNET!",
+    };
+    setNotification(names[type]);
+    setTimeout(() => setNotification(null), 2000);
+  }, []);
+
+  const handleShieldUsed = useCallback(() => {
+    setShieldActive(false);
+    setNotification("SHIELD USED!");
+    setTimeout(() => setNotification(null), 2000);
+  }, []);
 
   const handleGoal = useCallback(() => {
+    setWinAnimActive(false);
     const g = gameRef.current;
     const rarity = getLevelRarity(g.level);
     setRewardRarity(rarity);
@@ -1068,6 +1773,8 @@ export default function SkyClimbPage() {
     const newHighest = Math.max(g.level, parseInt(localStorage.getItem("plizio_skyclimb_highest") || "1"));
     localStorage.setItem("plizio_skyclimb_highest", newHighest.toString());
     setHighestLevel(newHighest);
+    incrementTotalGames();
+    updateStats({ skyHighestLevel: newHighest });
     setGameState("reward");
   }, []);
 
@@ -1124,14 +1831,14 @@ export default function SkyClimbPage() {
               initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.4 }}
               whileTap={{ scale: 0.95 }}
             >
-              <Maximize size={16} /> Teljes kepernyo
+              <Maximize size={16} /> Fullscreen
             </motion.button>
           )}
 
           {isFullscreen && (
             <motion.div className="sm:hidden text-neon-green/40 text-xs flex items-center gap-1"
               initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-              <Maximize size={12} /> Fullscreen aktiv
+              <Maximize size={12} /> Fullscreen active
             </motion.div>
           )}
         </motion.div>
@@ -1150,14 +1857,14 @@ export default function SkyClimbPage() {
               initial={{ scale: 0.9, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}
               onClick={(e) => e.stopPropagation()}
             >
-              <div className="text-white font-bold text-lg text-center">Teljes kepernyo</div>
+              <div className="text-white font-bold text-lg text-center">Fullscreen</div>
               <div className="text-white/60 text-sm text-center leading-relaxed">
-                iOS-on a teljes kepernyo csak appkent mukodik. Add hozza a kezdokepernyohoz:
+                On iOS, fullscreen only works as an app. Add it to your home screen:
               </div>
               <div className="flex flex-col gap-3 text-white/80 text-sm">
                 <div className="flex items-center gap-3 bg-white/5 rounded-xl p-3">
                   <Share size={20} className="text-neon-blue shrink-0" />
-                  <span>1. Nyomd meg a <strong>Share</strong> gombot (alul)</span>
+                  <span>1. Tap the <strong>Share</strong> button (bottom)</span>
                 </div>
                 <div className="flex items-center gap-3 bg-white/5 rounded-xl p-3">
                   <span className="text-neon-blue text-xl shrink-0">+</span>
@@ -1165,7 +1872,7 @@ export default function SkyClimbPage() {
                 </div>
                 <div className="flex items-center gap-3 bg-white/5 rounded-xl p-3">
                   <Maximize size={20} className="text-neon-green shrink-0" />
-                  <span>3. Inditsd onnan - <strong>teljes kepernyo!</strong></span>
+                  <span>3. Launch from there - <strong>fullscreen!</strong></span>
                 </div>
               </div>
               <motion.button
@@ -1173,7 +1880,7 @@ export default function SkyClimbPage() {
                 className="mt-2 bg-neon-green/10 border border-neon-green/30 text-neon-green py-2 rounded-xl font-bold text-sm"
                 whileTap={{ scale: 0.95 }}
               >
-                Ertem
+                Got it
               </motion.button>
             </motion.div>
           </motion.div>
@@ -1184,20 +1891,82 @@ export default function SkyClimbPage() {
       {gameState === "playing" && (
         <div className="fixed inset-0 touch-none" style={{ height: "100dvh", width: "100vw" }}>
           <Canvas camera={{ fov: 60 }} gl={{ antialias: true }}
-            style={{ background: "linear-gradient(180deg, #4a8fca 0%, #87CEEB 40%, #b8d0e0 100%)", height: "100%", width: "100%" }}>
-            <Scene3D gameRef={gameRef} onDie={handleDie} onGoal={handleGoal} />
+            style={{ background: "linear-gradient(180deg, #2a5298 0%, #5b86c7 25%, #87CEEB 50%, #e8d5b7 85%, #f0c27f 100%)", height: "100%", width: "100%" }}>
+            <Scene3D gameRef={gameRef} onDie={handleDie} onGoal={handleGoal} onWinStart={handleWinStart} onPowerUp={handlePowerUp} onShieldUsed={handleShieldUsed} skinId={activeSkinId} hatId={activeHatId} trailId={activeTrailId} />
           </Canvas>
 
           {/* HUD */}
-          <div className="fixed top-2 left-0 right-0 z-10 flex justify-center pointer-events-none" style={{ paddingTop: "env(safe-area-inset-top, 8px)" }}>
+          <div className="fixed top-2 left-0 right-0 z-10 flex items-start justify-between px-3 pointer-events-none" style={{ paddingTop: "env(safe-area-inset-top, 8px)" }}>
+            {/* Home button */}
+            <Link href="/">
+              <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2.5 pointer-events-auto cursor-pointer hover:bg-black/60 transition-colors">
+                <X size={16} className="text-white/60" />
+              </div>
+            </Link>
+
+            {/* Level display */}
             <div className="bg-black/40 backdrop-blur-sm rounded-xl px-4 py-2 flex items-center gap-3">
               <Mountain size={14} className="text-neon-green" />
               <span className="text-white/80 font-mono text-sm font-bold">LVL {level}</span>
             </div>
+
+            {/* Power-up indicators */}
+            <div className="flex items-center gap-1.5">
+              {shieldActive && (
+                <div className="bg-blue-500/30 backdrop-blur-sm rounded-xl p-2 border border-blue-400/40">
+                  <Shield size={14} className="text-blue-400" />
+                </div>
+              )}
+            </div>
           </div>
 
-          {/* Mobile controls */}
-          <div className="fixed inset-0 z-10 pointer-events-none sm:hidden" style={{ paddingBottom: "env(safe-area-inset-bottom, 0px)" }}>
+          {/* Power-up notification */}
+          <AnimatePresence>
+            {notification && (
+              <motion.div
+                className="fixed top-16 left-0 right-0 z-20 flex justify-center pointer-events-none"
+                initial={{ opacity: 0, y: -20, scale: 0.8 }}
+                animate={{ opacity: 1, y: 0, scale: 1 }}
+                exit={{ opacity: 0, y: -10, scale: 0.9 }}
+              >
+                <div className="bg-black/60 backdrop-blur-md rounded-xl px-5 py-2.5 border border-white/20">
+                  <span className="text-white font-black text-sm tracking-wider">{notification}</span>
+                </div>
+              </motion.div>
+            )}
+          </AnimatePresence>
+
+          {/* Win animation celebration overlay */}
+          {winAnimActive && (
+            <motion.div
+              className="fixed inset-0 z-15 pointer-events-none"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+            >
+              <div className="absolute inset-0" style={{ background: "radial-gradient(circle, transparent 30%, rgba(255,215,0,0.15) 100%)" }} />
+              {Array.from({ length: 12 }).map((_, i) => (
+                <motion.div
+                  key={i}
+                  className="absolute w-2 h-2 rounded-full"
+                  style={{
+                    left: `${15 + Math.random() * 70}%`,
+                    top: `${15 + Math.random() * 70}%`,
+                    backgroundColor: i % 3 === 0 ? "#FFD700" : i % 3 === 1 ? "#FFA500" : "#FFFFFF",
+                  }}
+                  initial={{ opacity: 0, scale: 0 }}
+                  animate={{
+                    opacity: [0, 1, 0],
+                    scale: [0, 1.5, 0],
+                    y: [0, -60 - Math.random() * 40],
+                  }}
+                  transition={{ duration: 1.2, delay: i * 0.08, repeat: Infinity }}
+                />
+              ))}
+            </motion.div>
+          )}
+
+          {/* Mobile controls - shown on touch devices regardless of screen size */}
+          {isTouchDevice && <div className="fixed inset-0 z-10 pointer-events-none" style={{ paddingBottom: "env(safe-area-inset-bottom, 0px)" }}>
             <div className="pointer-events-auto">
               <VirtualJoystick gameRef={gameRef} />
             </div>
@@ -1208,12 +1977,12 @@ export default function SkyClimbPage() {
             >
               <ArrowUp size={28} className="text-white" />
             </button>
-          </div>
+          </div>}
 
           {/* Fullscreen button in-game (top-right, small) */}
-          {!isFullscreen && (
+          {!isFullscreen && isTouchDevice && (
             <button
-              className="fixed top-2 right-2 z-20 sm:hidden bg-black/30 backdrop-blur-sm rounded-lg p-2"
+              className="fixed top-2 right-2 z-20 bg-black/30 backdrop-blur-sm rounded-lg p-2"
               style={{ paddingTop: "env(safe-area-inset-top, 8px)" }}
               onClick={() => {
                 if (isIOS()) setShowPwaHint(true);
@@ -1224,14 +1993,16 @@ export default function SkyClimbPage() {
             </button>
           )}
 
-          {/* PC controls hint */}
-          <div className="fixed bottom-4 left-0 right-0 z-10 hidden sm:flex justify-center pointer-events-none">
-            <div className="bg-black/30 backdrop-blur-sm rounded-lg px-3 py-1.5 flex items-center gap-4 text-white/40 text-xs font-mono">
-              <span>WASD</span>
-              <span>SPACE jump</span>
-              <span>MOUSE camera</span>
+          {/* PC controls hint - only on non-touch devices */}
+          {!isTouchDevice && (
+            <div className="fixed bottom-4 left-0 right-0 z-10 flex justify-center pointer-events-none">
+              <div className="bg-black/30 backdrop-blur-sm rounded-lg px-3 py-1.5 flex items-center gap-4 text-white/40 text-xs font-mono">
+                <span>WASD</span>
+                <span>SPACE jump</span>
+                <span>MOUSE camera</span>
+              </div>
             </div>
-          </div>
+          )}
         </div>
       )}
 
@@ -1298,6 +2069,7 @@ export default function SkyClimbPage() {
                 </motion.div>
               </Link>
             </motion.div>
+            <MilestonePopup />
           </motion.div>
         )}
       </AnimatePresence>

@@ -1,8 +1,11 @@
 "use client";
 
+import { useState } from "react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { Share2, RotateCcw, Home, Flame, Star, ThumbsUp, Dumbbell } from "lucide-react";
+import { canEarnShareReward, claimShareReward } from "@/lib/specialCards";
+import { getUsername } from "@/lib/username";
 
 interface ResultCardProps {
   score: number;
@@ -23,6 +26,7 @@ export default function ResultCard({
 }: ResultCardProps) {
   const router = useRouter();
   const percentage = Math.round((score / total) * 100);
+  const [shareNotif, setShareNotif] = useState<string | null>(null);
 
   const getResultIcon = () => {
     if (percentage >= 90) return <Flame size={56} className="text-gold" style={{ filter: "drop-shadow(0 0 12px rgba(255,215,0,0.6))" }} />;
@@ -39,21 +43,32 @@ export default function ResultCard({
   };
 
   const generateShareText = () => {
-    const checks = Array.from({ length: total }, (_, i) => (i < score ? "✅" : "❌")).join("");
+    const checks = Array.from({ length: Math.min(total, 10) }, (_, i) => (i < score ? "✅" : "❌")).join("");
     const timeStr = time ? ` (${time}s)` : "";
-    return `${gameName} ${score}/${total}${timeStr} | ${checks} | plizio.com`;
+    const host = typeof window !== "undefined" ? window.location.origin : "https://plizio.com";
+    const name = getUsername();
+    const nameStr = name ? `${name} | ` : "";
+    return `${nameStr}${gameName} ${score}/${total}${timeStr}\n${checks}\n${host}?ref=1`;
   };
 
   const handleShare = async () => {
     const text = generateShareText();
+    let shared = false;
     if (navigator.share) {
       try {
         await navigator.share({ text });
+        shared = true;
       } catch {
         // User cancelled
       }
     } else {
       await navigator.clipboard.writeText(text);
+      shared = true;
+    }
+    if (shared && canEarnShareReward()) {
+      claimShareReward();
+      setShareNotif("+1 ⭐");
+      setTimeout(() => setShareNotif(null), 2000);
     }
   };
 
@@ -101,6 +116,16 @@ export default function ResultCard({
             transition={{ delay: 0.4 }}
           >
             <span className="text-sm">⏱</span> {time}s
+          </motion.div>
+        )}
+
+        {/* Share reward notification */}
+        {shareNotif && (
+          <motion.div
+            className="bg-[#E040FB]/20 border border-[#E040FB]/40 rounded-xl px-4 py-1.5"
+            initial={{ opacity: 0, scale: 0.8 }} animate={{ opacity: 1, scale: 1 }}
+          >
+            <span className="text-[#E040FB] font-bold text-sm">{shareNotif}</span>
           </motion.div>
         )}
 

@@ -3,39 +3,89 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Calendar, Layers } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Calendar, Layers, Star, User, ChevronDown, BookOpen, Car, type LucideIcon } from "lucide-react";
+import { AnimatePresence } from "framer-motion";
 import Logo from "@/components/Logo";
 import GameCard from "@/components/GameCard";
 import { getCards } from "@/lib/cards";
+import { getSpecialCardCount, markAsReferred, isReferred, claimReferralReward } from "@/lib/specialCards";
+import { getStats } from "@/lib/milestones";
+import { getUser, onAuthChange } from "@/lib/auth";
+import { syncToSupabase } from "@/lib/sync";
+import AuthModal from "@/components/AuthModal";
+import UsernameModal from "@/components/UsernameModal";
+import { getUsername, hasUsername } from "@/lib/username";
 
-const GAMES = [
+interface GameDef {
+  id: string;
+  icon: LucideIcon;
+  name: string;
+  color: string;
+  gradient: string;
+}
+
+interface CategoryDef {
+  label: string;
+  icon: LucideIcon;
+  color: string;
+  games: GameDef[];
+}
+
+const CATEGORIES: CategoryDef[] = [
   {
-    id: "quickpick",
-    icon: Crosshair,
-    name: "Quick Pick",
-    color: "#FF2D78",
-    gradient: "bg-gradient-to-br from-pink-500/20 to-rose-500/20",
-  },
-  {
-    id: "reflexgrid",
+    label: "QUIZ & REFLEX",
     icon: Zap,
-    name: "Reflex Grid",
     color: "#00D4FF",
-    gradient: "bg-gradient-to-br from-cyan-500/20 to-blue-500/20",
+    games: [
+      {
+        id: "quickpick",
+        icon: Crosshair,
+        name: "Quick Pick",
+        color: "#FF2D78",
+        gradient: "bg-gradient-to-br from-pink-500/20 to-rose-500/20",
+      },
+      {
+        id: "reflexgrid",
+        icon: Zap,
+        name: "Reflex Grid",
+        color: "#00D4FF",
+        gradient: "bg-gradient-to-br from-cyan-500/20 to-blue-500/20",
+      },
+      {
+        id: "memoryflash",
+        icon: Brain,
+        name: "Memory Flash",
+        color: "#B44DFF",
+        gradient: "bg-gradient-to-br from-purple-500/20 to-violet-500/20",
+      },
+    ],
   },
   {
-    id: "memoryflash",
-    icon: Brain,
-    name: "Memory Flash",
-    color: "#B44DFF",
-    gradient: "bg-gradient-to-br from-purple-500/20 to-violet-500/20",
-  },
-  {
-    id: "skyclimb",
+    label: "ADVENTURE",
     icon: Mountain,
-    name: "Sky Climb",
     color: "#00FF88",
-    gradient: "bg-gradient-to-br from-green-500/20 to-emerald-500/20",
+    games: [
+      {
+        id: "skyclimb",
+        icon: Mountain,
+        name: "Sky Climb",
+        color: "#00FF88",
+        gradient: "bg-gradient-to-br from-green-500/20 to-emerald-500/20",
+      },
+      {
+        id: "citydrive",
+        icon: Car,
+        name: "City Drive",
+        color: "#FF6B00",
+        gradient: "bg-gradient-to-br from-orange-500/20 to-red-500/20",
+      },
+    ],
+  },
+  {
+    label: "LEARNING",
+    icon: BookOpen,
+    color: "#FFD700",
+    games: [],
   },
 ];
 
@@ -61,12 +111,62 @@ export default function Home() {
   const router = useRouter();
   const [streak, setStreak] = useState(0);
   const [cardCount, setCardCount] = useState(0);
+  const [specialCount, setSpecialCount] = useState(0);
   const [dailyPlayed, setDailyPlayed] = useState(false);
+  const [showAuth, setShowAuth] = useState(false);
+  const [showUsernameModal, setShowUsernameModal] = useState(false);
+  const [username, setUsernameState] = useState<string | null>(null);
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
+  const [openCategories, setOpenCategories] = useState<Record<string, boolean>>({
+    "QUIZ & REFLEX": false,
+    "ADVENTURE": false,
+    "LEARNING": false,
+  });
 
   useEffect(() => {
     setStreak(getStreak());
     setCardCount(getCards().length);
+    setSpecialCount(getSpecialCardCount());
     setDailyPlayed(hasPlayedDailyToday());
+
+    // Check username
+    if (!hasUsername()) {
+      setShowUsernameModal(true);
+    } else {
+      setUsernameState(getUsername());
+    }
+
+    // Handle referral link ?ref=1
+    const params = new URLSearchParams(window.location.search);
+    if (params.get("ref") && !isReferred()) {
+      markAsReferred();
+      claimReferralReward();
+      setSpecialCount(getSpecialCardCount());
+    }
+
+    // Check auth and show registration popup after 5 games
+    const checkAuth = async () => {
+      const user = await getUser();
+      setIsLoggedIn(!!user);
+      if (user) {
+        // Background sync
+        syncToSupabase(user.id).catch(() => {});
+      } else {
+        const stats = getStats();
+        const dismissed = localStorage.getItem("plizio_auth_dismissed");
+        if (stats.totalGames >= 5 && !dismissed) {
+          setShowAuth(true);
+        }
+      }
+    };
+    checkAuth();
+
+    const { data: { subscription } } = onAuthChange((user) => {
+      setIsLoggedIn(!!user);
+      if (user) syncToSupabase(user.id).catch(() => {});
+    });
+
+    return () => subscription.unsubscribe();
   }, []);
 
   return (
@@ -74,8 +174,19 @@ export default function Home() {
       {/* Logo */}
       <Logo />
 
+      {/* Username greeting */}
+      {username && (
+        <motion.div
+          className="text-white/30 text-sm font-bold tracking-wider"
+          initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+          transition={{ delay: 0.6 }}
+        >
+          {username}
+        </motion.div>
+      )}
+
       {/* Stats bar */}
-      {(streak > 0 || cardCount > 0) && (
+      {(streak > 0 || cardCount > 0 || specialCount > 0) && (
         <motion.div
           className="flex items-center gap-5"
           initial={{ opacity: 0, y: 10 }}
@@ -86,6 +197,12 @@ export default function Home() {
             <div className="flex items-center gap-1.5">
               <Flame size={16} className="text-gold" style={{ filter: "drop-shadow(0 0 4px rgba(255,215,0,0.4))" }} />
               <span className="text-gold/70 font-bold text-sm">{streak}</span>
+            </div>
+          )}
+          {specialCount > 0 && (
+            <div className="flex items-center gap-1.5">
+              <Star size={14} className="text-[#E040FB]" style={{ filter: "drop-shadow(0 0 4px rgba(224,64,251,0.4))" }} />
+              <span className="text-[#E040FB]/70 font-bold text-sm">{specialCount}</span>
             </div>
           )}
           {cardCount > 0 && (
@@ -130,38 +247,151 @@ export default function Home() {
         </motion.button>
       </motion.div>
 
-      {/* Game Cards */}
-      <div className="flex flex-wrap items-center justify-center gap-4 sm:gap-6">
-        {GAMES.map((game, i) => (
-          <GameCard
-            key={game.id}
-            icon={game.icon}
-            name={game.name}
-            color={game.color}
-            gradient={game.gradient}
-            href={`/${game.id}`}
-            delay={0.2 + i * 0.15}
-          />
-        ))}
+      {/* Categories */}
+      <div className="flex flex-col items-center gap-6 w-full max-w-md px-2">
+        {CATEGORIES.map((cat, ci) => {
+          const CatIcon = cat.icon;
+          const isOpen = openCategories[cat.label] ?? true;
+          const isEmpty = cat.games.length === 0;
+          return (
+            <motion.div
+              key={cat.label}
+              className="w-full flex flex-col items-center gap-3"
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.3 + ci * 0.2 }}
+            >
+              {/* Category header - clickable to toggle */}
+              <button
+                onClick={() => setOpenCategories(prev => ({ ...prev, [cat.label]: !prev[cat.label] }))}
+                className="flex items-center gap-3 w-full group cursor-pointer"
+              >
+                <div className="h-px flex-1 opacity-20" style={{ background: `linear-gradient(to right, transparent, ${cat.color})` }} />
+                <div className="flex items-center gap-2">
+                  <CatIcon size={14} style={{ color: cat.color, filter: `drop-shadow(0 0 6px ${cat.color}60)` }} />
+                  <span className="text-[10px] font-bold tracking-[0.2em] uppercase" style={{ color: `${cat.color}90` }}>
+                    {cat.label}
+                  </span>
+                  <motion.div animate={{ rotate: isOpen ? 180 : 0 }} transition={{ duration: 0.2 }}>
+                    <ChevronDown size={12} style={{ color: `${cat.color}60` }} />
+                  </motion.div>
+                </div>
+                <div className="h-px flex-1 opacity-20" style={{ background: `linear-gradient(to left, transparent, ${cat.color})` }} />
+              </button>
+
+              {/* Games in this category */}
+              <AnimatePresence initial={false}>
+                {isOpen && (
+                  <motion.div
+                    initial={{ height: 0, opacity: 0 }}
+                    animate={{ height: "auto", opacity: 1 }}
+                    exit={{ height: 0, opacity: 0 }}
+                    transition={{ duration: 0.25, ease: "easeInOut" }}
+                    className="overflow-hidden w-full"
+                  >
+                    {isEmpty ? (
+                      <div className="flex flex-col items-center gap-2 py-4">
+                        <CatIcon size={24} style={{ color: `${cat.color}30` }} />
+                        <span className="text-[10px] font-bold tracking-wider" style={{ color: `${cat.color}40` }}>
+                          COMING SOON
+                        </span>
+                      </div>
+                    ) : (
+                      <div className="flex flex-wrap items-center justify-center gap-4 sm:gap-6">
+                        {cat.games.map((game, gi) => (
+                          <GameCard
+                            key={game.id}
+                            icon={game.icon}
+                            name={game.name}
+                            color={game.color}
+                            gradient={game.gradient}
+                            href={`/${game.id}`}
+                            delay={0.4 + ci * 0.2 + gi * 0.1}
+                          />
+                        ))}
+                      </div>
+                    )}
+                  </motion.div>
+                )}
+              </AnimatePresence>
+            </motion.div>
+          );
+        })}
       </div>
 
-      {/* Collection */}
-      <motion.div
-        className="fixed bottom-6 right-6"
-        initial={{ opacity: 0, scale: 0 }}
-        animate={{ opacity: 1, scale: 1 }}
-        transition={{ delay: 1, type: "spring" }}
-      >
-        <motion.button
-          onClick={() => router.push("/collection")}
-          className="bg-card border border-gold/20 p-3.5 rounded-full"
-          style={{ boxShadow: "0 0 20px rgba(255,215,0,0.2)" }}
-          whileHover={{ scale: 1.15, rotate: 10 }}
-          whileTap={{ scale: 0.9 }}
+      {/* Bottom buttons: Profile + Shop + Collection */}
+      <div className="fixed bottom-6 right-6 flex flex-col gap-3">
+        <motion.div
+          initial={{ opacity: 0, scale: 0 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ delay: 0.8, type: "spring" }}
         >
-          <Trophy size={24} className="text-gold" style={{ filter: "drop-shadow(0 0 6px rgba(255,215,0,0.5))" }} />
-        </motion.button>
-      </motion.div>
+          <motion.button
+            onClick={() => router.push("/profile")}
+            className={`bg-card border p-3.5 rounded-full ${isLoggedIn ? "border-neon-green/20" : "border-white/10"}`}
+            style={isLoggedIn ? { boxShadow: "0 0 20px rgba(0,255,136,0.15)" } : undefined}
+            whileHover={{ scale: 1.15 }}
+            whileTap={{ scale: 0.9 }}
+          >
+            <User size={24} className={isLoggedIn ? "text-neon-green" : "text-white/40"} />
+          </motion.button>
+        </motion.div>
+        <motion.div
+          initial={{ opacity: 0, scale: 0 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ delay: 0.9, type: "spring" }}
+        >
+          <motion.button
+            onClick={() => router.push("/shop")}
+            className="bg-card border border-[#E040FB]/20 p-3.5 rounded-full"
+            style={{ boxShadow: "0 0 20px rgba(224,64,251,0.2)" }}
+            whileHover={{ scale: 1.15, rotate: -10 }}
+            whileTap={{ scale: 0.9 }}
+          >
+            <Star size={24} className="text-[#E040FB]" style={{ filter: "drop-shadow(0 0 6px rgba(224,64,251,0.5))" }} />
+          </motion.button>
+        </motion.div>
+        <motion.div
+          initial={{ opacity: 0, scale: 0 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ delay: 1, type: "spring" }}
+        >
+          <motion.button
+            onClick={() => router.push("/collection")}
+            className="bg-card border border-gold/20 p-3.5 rounded-full"
+            style={{ boxShadow: "0 0 20px rgba(255,215,0,0.2)" }}
+            whileHover={{ scale: 1.15, rotate: 10 }}
+            whileTap={{ scale: 0.9 }}
+          >
+            <Trophy size={24} className="text-gold" style={{ filter: "drop-shadow(0 0 6px rgba(255,215,0,0.5))" }} />
+          </motion.button>
+        </motion.div>
+      </div>
+
+      {/* Username Modal */}
+      {showUsernameModal && (
+        <UsernameModal
+          onDone={(name) => {
+            setShowUsernameModal(false);
+            setUsernameState(name);
+          }}
+        />
+      )}
+
+      {/* Auth Modal */}
+      {showAuth && (
+        <AuthModal
+          onClose={() => {
+            setShowAuth(false);
+            localStorage.setItem("plizio_auth_dismissed", "1");
+          }}
+          onSuccess={() => {
+            setShowAuth(false);
+            setIsLoggedIn(true);
+            setSpecialCount(getSpecialCardCount());
+          }}
+        />
+      )}
     </main>
   );
 }
