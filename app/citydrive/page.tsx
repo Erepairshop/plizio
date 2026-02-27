@@ -488,13 +488,14 @@ interface SceneProps {
   keysRef: React.RefObject<Set<string>>;
   touchRef: React.RefObject<{ active: boolean; sx: number; sy: number; cx: number; cy: number }>;
   actionRef: React.RefObject<boolean>;
+  brakeRef: React.RefObject<boolean>;
   hudRef: React.RefObject<HudData>;
   missionsRef: React.RefObject<MissionData[]>;
   gameDataRef: React.RefObject<SaveData | null>;
   onEnd: () => void;
 }
 
-const GameScene = React.memo(function GameScene({ running, resuming, keysRef, touchRef, actionRef, hudRef, missionsRef, gameDataRef, onEnd }: SceneProps) {
+const GameScene = React.memo(function GameScene({ running, resuming, keysRef, touchRef, actionRef, brakeRef, hudRef, missionsRef, gameDataRef, onEnd }: SceneProps) {
   const { camera } = useThree();
   const buildings = useMemo(genBuildings, []);
   const trees = useMemo(genTrees, []);
@@ -509,6 +510,7 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
   const camAngle = useRef(0);
   const camLookSmooth = useRef(new THREE.Vector3(1 * T, 1, 1 * T));
   const saveTickRef = useRef(0);
+  const prevSpaceRef = useRef(false);
 
   useEffect(() => {
     if (!running) return;
@@ -548,8 +550,18 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
     if (keys.has("ArrowDown") || keys.has("s") || keys.has("S")) mz = -1;
     if (keys.has("ArrowLeft") || keys.has("a") || keys.has("A")) mx = -1;
     if (keys.has("ArrowRight") || keys.has("d") || keys.has("D")) mx = 1;
-    if (keys.has("Shift")) brake = true;
-    if (keys.has(" ")) { act = true; keys.delete(" "); }
+    // Space: brake when in car (held), enter/exit on first press
+    const spaceHeld = keys.has(" ");
+    const spaceJustPressed = spaceHeld && !prevSpaceRef.current;
+    prevSpaceRef.current = spaceHeld;
+    if (p.inCar >= 0) {
+      if (spaceHeld) brake = true;
+      if (spaceJustPressed && Math.abs(carsRef.current[p.inCar].speed) < 2) act = true;
+    } else {
+      if (spaceJustPressed) act = true;
+    }
+    // Touch/mobile brake
+    if (brakeRef.current) brake = true;
     if (actionRef.current) { act = true; actionRef.current = false; }
     if (touch.active) {
       const dx = touch.cx - touch.sx, dy = touch.cy - touch.sy;
@@ -560,8 +572,16 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
     // ── Driving ──
     if (p.inCar >= 0) {
       const car = carsRef.current[p.inCar];
-      if (mz !== 0) car.speed += mz * car.accel * dt;
-      else car.speed *= brake ? 0.90 : FRIC;
+      if (mz !== 0 && !brake) car.speed += mz * car.accel * dt;
+      else if (brake) {
+        // Realistic braking: high speed = longer stop, low speed = almost instant
+        const speedRatio = Math.min(1, Math.abs(car.speed) / car.maxSpeed);
+        const brakeFactor = 0.75 + speedRatio * 0.20; // 0.75 at low, 0.95 at max
+        car.speed *= brakeFactor;
+        if (Math.abs(car.speed) < 0.5) car.speed = 0;
+      } else {
+        car.speed *= FRIC;
+      }
       car.speed = Math.max(-car.maxSpeed * 0.4, Math.min(car.maxSpeed, car.speed));
       if (Math.abs(car.speed) < 0.15) car.speed = 0;
       // Speed-dependent steering: faster = less sensitive
@@ -1090,6 +1110,7 @@ export default function CityDrivePage() {
   const keysRef = useRef(new Set<string>());
   const touchRef = useRef({ active: false, sx: 0, sy: 0, cx: 0, cy: 0 });
   const actionRef = useRef(false);
+  const brakeRef = useRef(false);
   const hudRef = useRef<HudData>({ score: 0, missions: 0, inCar: -1, speed: 0, carColor: "#fff", msg: "", msgT: 0, px: 4, pz: 4, angle: 0 });
   const missionsRef = useRef<MissionData[]>([]);
   const gameDataRef = useRef<SaveData | null>(null);
@@ -1150,7 +1171,7 @@ export default function CityDrivePage() {
   return (
     <div className="fixed inset-0 bg-[#0a0e1a] overflow-hidden select-none" style={{ touchAction: "none" }}>
       <Canvas camera={{ fov: 65, near: 0.1, far: 350, position: [4, 8, -8] }} dpr={[1, 1.5]} gl={{ powerPreference: "high-performance", antialias: false }}>
-        <GameScene running={gameState === "playing"} resuming={resuming} keysRef={keysRef} touchRef={touchRef} actionRef={actionRef} hudRef={hudRef} missionsRef={missionsRef} gameDataRef={gameDataRef} onEnd={endGame} />
+        <GameScene running={gameState === "playing"} resuming={resuming} keysRef={keysRef} touchRef={touchRef} actionRef={actionRef} brakeRef={brakeRef} hudRef={hudRef} missionsRef={missionsRef} gameDataRef={gameDataRef} onEnd={endGame} />
       </Canvas>
 
       {/* HUD overlay */}
@@ -1226,9 +1247,9 @@ export default function CityDrivePage() {
             onTouchStart={e => { e.preventDefault(); actionRef.current = true; }}>
             <span className="text-2xl">🚗</span>
           </button>
-          <button className="absolute right-4 bottom-24 w-14 h-14 rounded-full bg-red-500/30 border-2 border-red-400/50 z-20 flex items-center justify-center text-white text-sm active:bg-red-500/60 active:scale-95 transition-all"
-            onTouchStart={() => keysRef.current.add("Shift")} onTouchEnd={() => keysRef.current.delete("Shift")}>
-            <span className="text-xl">🛑</span>
+          <button className="absolute right-4 bottom-24 w-14 h-14 rounded-full bg-red-500/30 border-2 border-red-400/50 z-20 flex items-center justify-center text-white text-xs font-black active:bg-red-500/60 active:scale-95 transition-all"
+            onTouchStart={() => brakeRef.current = true} onTouchEnd={() => brakeRef.current = false}>
+            <span className="text-white/90">BRAKE</span>
           </button>
         </>
       )}
