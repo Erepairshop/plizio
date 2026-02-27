@@ -37,6 +37,9 @@ interface HudData {
   score: number; missions: number; inCar: number; speed: number;
   carColor: string; msg: string; msgT: number;
   px: number; pz: number; angle: number;
+  nitro: number; nitroActive: boolean;
+  drifting: boolean; driftScore: number;
+  shake: number; weather: number;
 }
 
 // ═══════════════════════════════════════════════
@@ -54,6 +57,19 @@ const WALK_SPD = 8;
 const ENTER_DIST = 6;
 const FRIC = 0.97;
 const TOTAL_M = 15;
+const NITRO_MAX = 100;
+const NITRO_DRAIN = 30; // per sec
+const NITRO_CHARGE = 6; // per sec
+const NITRO_BOOST = 1.8;
+const DRIFT_MIN_SPEED = 10;
+const TIRE_MARK_MAX = 400;
+const WEATHER_CYCLE = 90; // seconds
+const WEATHERS = [
+  { fog: "#141828", amb: 1.8, ambC: "#aabbee", sun: 2.2 },  // night
+  { fog: "#1a2838", amb: 1.4, ambC: "#8899bb", sun: 1.5 },  // rain
+  { fog: "#1a1a30", amb: 1.0, ambC: "#667799", sun: 1.0 },  // fog
+  { fog: "#2a1828", amb: 2.0, ambC: "#ffaa77", sun: 2.5 },  // sunset
+];
 
 const GLOWS = ["#FF2D78", "#00D4FF", "#B44DFF", "#00FF88", "#FFD700", "#FF6B00", "#FF4488", "#44FFCC"];
 
@@ -164,6 +180,95 @@ function genMission(id: number): MissionData {
 // ═══════════════════════════════════════════════
 //  ANIMATED 3D COMPONENTS
 // ═══════════════════════════════════════════════
+// ── Tire Marks (instanced) ──
+function TireMarks({ marks }: { marks: React.RefObject<{ x: number; z: number; a: number }[]> }) {
+  const meshRef = useRef<THREE.InstancedMesh>(null);
+  const dummy = useMemo(() => new THREE.Object3D(), []);
+  useFrame(() => {
+    if (!meshRef.current) return;
+    const arr = marks.current;
+    for (let i = 0; i < TIRE_MARK_MAX; i++) {
+      if (i < arr.length) {
+        const m = arr[i];
+        dummy.position.set(m.x, 0.02, m.z);
+        dummy.rotation.set(-Math.PI / 2, 0, m.a);
+        dummy.scale.setScalar(1);
+      } else {
+        dummy.scale.setScalar(0);
+      }
+      dummy.updateMatrix();
+      meshRef.current.setMatrixAt(i, dummy.matrix);
+    }
+    meshRef.current.instanceMatrix.needsUpdate = true;
+  });
+  return (
+    <instancedMesh ref={meshRef} args={[undefined, undefined, TIRE_MARK_MAX]} frustumCulled={false}>
+      <planeGeometry args={[0.3, 1.2]} />
+      <meshStandardMaterial color="#111" transparent opacity={0.5} />
+    </instancedMesh>
+  );
+}
+
+// ── Nitro Flame Effect ──
+function NitroFlame({ carsRef, plRef }: { carsRef: React.RefObject<CarData[]>; plRef: React.RefObject<{ inCar: number }> }) {
+  const ref = useRef<THREE.Group>(null);
+  useFrame((state) => {
+    if (!ref.current) return;
+    const idx = plRef.current.inCar;
+    if (idx < 0) { ref.current.visible = false; return; }
+    const car = carsRef.current[idx];
+    ref.current.visible = true;
+    ref.current.position.set(car.x - Math.sin(car.angle) * 2.5, 0.35, car.z - Math.cos(car.angle) * 2.5);
+    ref.current.rotation.y = car.angle;
+    const t = state.clock.elapsedTime;
+    const flicker = 0.7 + Math.sin(t * 30) * 0.3;
+    ref.current.scale.set(flicker, 0.5 + Math.sin(t * 25) * 0.3, 1 + Math.sin(t * 20) * 0.4);
+  });
+  return (
+    <group ref={ref}>
+      <mesh>
+        <coneGeometry args={[0.35, 1.5, 6]} />
+        <meshStandardMaterial color="#FF6600" emissive="#FF4400" emissiveIntensity={4} transparent opacity={0.8} />
+      </mesh>
+      <mesh position={[0, 0, -0.2]}>
+        <coneGeometry args={[0.2, 1.0, 6]} />
+        <meshStandardMaterial color="#FFCC00" emissive="#FFAA00" emissiveIntensity={5} transparent opacity={0.6} />
+      </mesh>
+    </group>
+  );
+}
+
+// ── Rain Particles ──
+const RAIN_COUNT = 300;
+function RainParticles({ active }: { active: boolean }) {
+  const meshRef = useRef<THREE.InstancedMesh>(null);
+  const dummy = useMemo(() => new THREE.Object3D(), []);
+  const offsets = useMemo(() => Array.from({ length: RAIN_COUNT }, () => ({
+    x: Math.random() * 80 - 40, y: Math.random() * 30, z: Math.random() * 80 - 40, speed: 15 + Math.random() * 15,
+  })), []);
+  useFrame((state, dt) => {
+    if (!meshRef.current || !active) { if (meshRef.current) meshRef.current.visible = false; return; }
+    meshRef.current.visible = true;
+    const cam = state.camera.position;
+    for (let i = 0; i < RAIN_COUNT; i++) {
+      const r = offsets[i];
+      r.y -= r.speed * dt;
+      if (r.y < 0) { r.y = 25 + Math.random() * 10; r.x = (Math.random() - 0.5) * 80; r.z = (Math.random() - 0.5) * 80; }
+      dummy.position.set(cam.x + r.x, r.y, cam.z + r.z);
+      dummy.scale.set(0.03, 0.6, 0.03);
+      dummy.updateMatrix();
+      meshRef.current.setMatrixAt(i, dummy.matrix);
+    }
+    meshRef.current.instanceMatrix.needsUpdate = true;
+  });
+  return (
+    <instancedMesh ref={meshRef} args={[undefined, undefined, RAIN_COUNT]} frustumCulled={false}>
+      <boxGeometry args={[1, 1, 1]} />
+      <meshStandardMaterial color="#aaccff" transparent opacity={0.3} />
+    </instancedMesh>
+  );
+}
+
 function AnimatedCoin({ x, z }: { x: number; z: number }) {
   const ref = useRef<THREE.Group>(null);
   useFrame((state) => {
@@ -489,13 +594,14 @@ interface SceneProps {
   touchRef: React.RefObject<{ active: boolean; sx: number; sy: number; cx: number; cy: number }>;
   actionRef: React.RefObject<boolean>;
   brakeRef: React.RefObject<boolean>;
+  nitroActiveRef: React.RefObject<boolean>;
   hudRef: React.RefObject<HudData>;
   missionsRef: React.RefObject<MissionData[]>;
   gameDataRef: React.RefObject<SaveData | null>;
   onEnd: () => void;
 }
 
-const GameScene = React.memo(function GameScene({ running, resuming, keysRef, touchRef, actionRef, brakeRef, hudRef, missionsRef, gameDataRef, onEnd }: SceneProps) {
+const GameScene = React.memo(function GameScene({ running, resuming, keysRef, touchRef, actionRef, brakeRef, nitroActiveRef, hudRef, missionsRef, gameDataRef, onEnd }: SceneProps) {
   const { camera } = useThree();
   const buildings = useMemo(genBuildings, []);
   const trees = useMemo(genTrees, []);
@@ -511,6 +617,13 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
   const camLookSmooth = useRef(new THREE.Vector3(1 * T, 1, 1 * T));
   const saveTickRef = useRef(0);
   const prevSpaceRef = useRef(false);
+  const nitroFuel = useRef(NITRO_MAX);
+  const driftState = useRef({ active: false, score: 0, timer: 0, totalScore: 0 });
+  const tireMarks = useRef<{ x: number; z: number; a: number }[]>([]);
+  const shakeRef = useRef(0);
+  const weatherState = useRef({ type: 0, timer: 0 });
+  const ambLightRef = useRef<THREE.AmbientLight>(null);
+  const fogRef = useRef<THREE.Fog>(null);
 
   useEffect(() => {
     if (!running) return;
@@ -560,8 +673,9 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
     } else {
       if (spaceJustPressed) act = true;
     }
-    // Touch/mobile brake
+    // Touch/mobile brake & nitro
     if (brakeRef.current) brake = true;
+    const wantNitro = keys.has("e") || keys.has("E") || nitroActiveRef.current;
     if (actionRef.current) { act = true; actionRef.current = false; }
     if (touch.active) {
       const dx = touch.cx - touch.sx, dy = touch.cy - touch.sy;
@@ -572,27 +686,63 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
     // ── Driving ──
     if (p.inCar >= 0) {
       const car = carsRef.current[p.inCar];
-      if (mz !== 0 && !brake) car.speed += mz * car.accel * dt;
+      // Nitro
+      const nitroOn = wantNitro && nitroFuel.current > 0 && Math.abs(car.speed) > 2;
+      if (nitroOn) { nitroFuel.current = Math.max(0, nitroFuel.current - NITRO_DRAIN * dt); }
+      else { nitroFuel.current = Math.min(NITRO_MAX, nitroFuel.current + NITRO_CHARGE * dt); }
+      hud.nitro = nitroFuel.current; hud.nitroActive = nitroOn;
+      const effectiveMax = nitroOn ? car.maxSpeed * NITRO_BOOST : car.maxSpeed;
+      const effectiveAccel = nitroOn ? car.accel * 1.6 : car.accel;
+
+      if (mz !== 0 && !brake) car.speed += mz * effectiveAccel * dt;
       else if (brake) {
-        // Realistic braking: high speed = longer stop, low speed = almost instant
         const speedRatio = Math.min(1, Math.abs(car.speed) / car.maxSpeed);
-        const brakeFactor = 0.75 + speedRatio * 0.20; // 0.75 at low, 0.95 at max
+        const brakeFactor = 0.75 + speedRatio * 0.20;
         car.speed *= brakeFactor;
         if (Math.abs(car.speed) < 0.5) car.speed = 0;
       } else {
         car.speed *= FRIC;
       }
-      car.speed = Math.max(-car.maxSpeed * 0.4, Math.min(car.maxSpeed, car.speed));
+      car.speed = Math.max(-car.maxSpeed * 0.4, Math.min(effectiveMax, car.speed));
       if (Math.abs(car.speed) < 0.15) car.speed = 0;
-      // Speed-dependent steering: faster = less sensitive
+
+      // Steering
       const speedFactor = Math.max(0.5, 1.0 - (Math.abs(car.speed) / car.maxSpeed) * 0.4);
       if (Math.abs(car.speed) > 0.5) car.angle -= mx * car.handling * speedFactor * dt * (car.speed > 0 ? 1 : -1);
+
+      // Drift detection: brake + steering + speed
+      const isDrifting = brake && Math.abs(mx) > 0.3 && Math.abs(car.speed) > DRIFT_MIN_SPEED;
+      const ds = driftState.current;
+      if (isDrifting) {
+        if (!ds.active) { ds.active = true; ds.score = 0; }
+        ds.score += Math.abs(car.speed) * dt * 2;
+        ds.timer = 1.5;
+        // Tire marks
+        const tm = tireMarks.current;
+        tm.push({ x: car.x - Math.cos(car.angle) * 0.8, z: car.z + Math.sin(car.angle) * 0.8, a: car.angle });
+        tm.push({ x: car.x + Math.cos(car.angle) * 0.8, z: car.z - Math.sin(car.angle) * 0.8, a: car.angle });
+        if (tm.length > TIRE_MARK_MAX) tm.splice(0, tm.length - TIRE_MARK_MAX);
+      } else if (ds.active) {
+        // Drift ended — award points
+        const bonus = Math.round(ds.score);
+        if (bonus > 5) { hud.score += bonus; hud.msg = `DRIFT +${bonus}!`; hud.msgT = 2; }
+        ds.totalScore += bonus; ds.active = false;
+      }
+      if (ds.timer > 0) ds.timer -= dt;
+      hud.drifting = ds.active; hud.driftScore = Math.round(ds.score);
+
+      // Movement
       const fx = Math.sin(car.angle), fz = Math.cos(car.angle);
       const nx = car.x + fx * car.speed * dt, nz = car.z + fz * car.speed * dt;
+      const prevSpeed = car.speed;
       if (!solidBox(nx, nz, 0.8, 1.4)) { car.x = nx; car.z = nz; }
       else if (!solidBox(nx, car.z, 0.8, 1.4)) { car.x = nx; car.speed *= 0.8; }
       else if (!solidBox(car.x, nz, 0.8, 1.4)) { car.z = nz; car.speed *= 0.8; }
       else car.speed *= -0.15;
+      // Collision shake
+      if (Math.abs(prevSpeed) > 5 && Math.abs(car.speed) < Math.abs(prevSpeed) * 0.5) {
+        shakeRef.current = Math.min(1, Math.abs(prevSpeed) / 30);
+      }
       car.x = Math.max(2, Math.min(WW - 2, car.x));
       car.z = Math.max(2, Math.min(WD - 2, car.z));
       p.x = car.x; p.z = car.z; p.angle = car.angle;
@@ -696,7 +846,27 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
     const followSpeed = p.inCar >= 0 ? 0.15 : 0.22;
     camLookSmooth.current.lerp(camLook.current.set(p.x, p.inCar >= 0 ? 1.5 : 1.2, p.z), Math.min(followSpeed * dt * 60, 1));
     camera.position.lerp(camTarget.current, Math.min(followSpeed * dt * 60, 1));
+    // Camera shake
+    if (shakeRef.current > 0.01) {
+      const s = shakeRef.current;
+      camera.position.x += (Math.random() - 0.5) * s * 2;
+      camera.position.y += (Math.random() - 0.5) * s * 1;
+      shakeRef.current *= 0.88;
+    }
+    hud.shake = shakeRef.current;
     camera.lookAt(camLookSmooth.current);
+
+    // ── Weather cycle ──
+    const ws = weatherState.current;
+    ws.timer += dt;
+    if (ws.timer > WEATHER_CYCLE) { ws.timer = 0; ws.type = (ws.type + 1) % WEATHERS.length; }
+    hud.weather = ws.type;
+    const w = WEATHERS[ws.type];
+    if (fogRef.current) { fogRef.current.color.lerp(new THREE.Color(w.fog), dt * 0.5); }
+    if (ambLightRef.current) {
+      ambLightRef.current.intensity += (w.amb - ambLightRef.current.intensity) * dt * 0.5;
+      ambLightRef.current.color.lerp(new THREE.Color(w.ambC), dt * 0.5);
+    }
 
     if (hud.msgT > 0) hud.msgT -= dt;
   });
@@ -704,8 +874,8 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
   return (
     <>
       <color attach="background" args={["#141828"]} />
-      <fog attach="fog" args={["#141828", 120, 320]} />
-      <ambientLight intensity={1.8} color="#aabbee" />
+      <fog ref={fogRef} attach="fog" args={["#141828", 120, 320]} />
+      <ambientLight ref={ambLightRef} intensity={1.8} color="#aabbee" />
       <hemisphereLight args={["#6688cc", "#334466", 0.9]} />
       <directionalLight position={[80, 120, 60]} intensity={2.2} color="#eef0ff" />
       <directionalLight position={[-60, 80, -40]} intensity={0.7} color="#8899cc" />
@@ -1086,6 +1256,15 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
         }
         return null;
       })}
+
+      {/* Tire marks */}
+      <TireMarks marks={tireMarks} />
+
+      {/* Nitro flame (only visible when nitro active) */}
+      {hudRef.current.nitroActive && <NitroFlame carsRef={carsRef} plRef={plRef} />}
+
+      {/* Rain (weather type 1) */}
+      <RainParticles active={weatherState.current.type === 1} />
     </>
   );
 });
@@ -1111,7 +1290,8 @@ export default function CityDrivePage() {
   const touchRef = useRef({ active: false, sx: 0, sy: 0, cx: 0, cy: 0 });
   const actionRef = useRef(false);
   const brakeRef = useRef(false);
-  const hudRef = useRef<HudData>({ score: 0, missions: 0, inCar: -1, speed: 0, carColor: "#fff", msg: "", msgT: 0, px: 4, pz: 4, angle: 0 });
+  const nitroActiveRef = useRef(false);
+  const hudRef = useRef<HudData>({ score: 0, missions: 0, inCar: -1, speed: 0, carColor: "#fff", msg: "", msgT: 0, px: 4, pz: 4, angle: 0, nitro: NITRO_MAX, nitroActive: false, drifting: false, driftScore: 0, shake: 0, weather: 0 });
   const missionsRef = useRef<MissionData[]>([]);
   const gameDataRef = useRef<SaveData | null>(null);
 
@@ -1171,7 +1351,7 @@ export default function CityDrivePage() {
   return (
     <div className="fixed inset-0 bg-[#0a0e1a] overflow-hidden select-none" style={{ touchAction: "none" }}>
       <Canvas camera={{ fov: 65, near: 0.1, far: 350, position: [4, 8, -8] }} dpr={[1, 1.5]} gl={{ powerPreference: "high-performance", antialias: false }}>
-        <GameScene running={gameState === "playing"} resuming={resuming} keysRef={keysRef} touchRef={touchRef} actionRef={actionRef} brakeRef={brakeRef} hudRef={hudRef} missionsRef={missionsRef} gameDataRef={gameDataRef} onEnd={endGame} />
+        <GameScene running={gameState === "playing"} resuming={resuming} keysRef={keysRef} touchRef={touchRef} actionRef={actionRef} brakeRef={brakeRef} nitroActiveRef={nitroActiveRef} hudRef={hudRef} missionsRef={missionsRef} gameDataRef={gameDataRef} onEnd={endGame} />
       </Canvas>
 
       {/* HUD overlay */}
@@ -1191,15 +1371,43 @@ export default function CityDrivePage() {
           {/* Mini-map */}
           <MiniMap hudRef={hudRef} missionsRef={missionsRef} />
 
-          {/* Speed gauge */}
+          {/* Speed gauge + Nitro bar */}
           {hud.inCar >= 0 && (
             <div className="absolute bottom-14 left-1/2 -translate-x-1/2 bg-black/70 backdrop-blur-sm rounded-xl px-5 py-2 border border-white/10">
               <div className="text-white font-black text-lg text-center">{Math.round(hud.speed * 3.6)} <span className="text-xs text-white/40">km/h</span></div>
               <div className="w-24 h-1.5 bg-white/10 rounded-full mt-1">
                 <div className="h-full rounded-full transition-all" style={{ width: `${Math.min(100, (hud.speed / 50) * 100)}%`, backgroundColor: hud.carColor }} />
               </div>
+              <div className="flex items-center gap-1.5 mt-1.5">
+                <span className="text-[9px] text-orange-300/70">NOS</span>
+                <div className="w-20 h-1.5 bg-white/10 rounded-full">
+                  <div className="h-full rounded-full transition-all" style={{ width: `${hud.nitro}%`, backgroundColor: hud.nitroActive ? "#FF6600" : "#00CCFF" }} />
+                </div>
+              </div>
             </div>
           )}
+
+          {/* Drift score popup */}
+          {hud.drifting && hud.driftScore > 5 && (
+            <div className="absolute top-1/3 left-1/2 -translate-x-1/2">
+              <div className="text-orange-400 font-black text-3xl text-center animate-pulse drop-shadow-lg">
+                DRIFT
+              </div>
+              <div className="text-white font-black text-xl text-center">+{hud.driftScore}</div>
+            </div>
+          )}
+
+          {/* Speed lines overlay at high speed */}
+          {hud.inCar >= 0 && hud.speed > 25 && (
+            <div className="absolute inset-0 pointer-events-none" style={{
+              background: `radial-gradient(ellipse at center, transparent 40%, rgba(255,255,255,${Math.min(0.12, (hud.speed - 25) / 200)}) 100%)`,
+            }} />
+          )}
+
+          {/* Weather indicator */}
+          <div className="absolute top-14 left-3 text-[10px] text-white/30">
+            {["NIGHT", "RAIN", "FOG", "SUNSET"][hud.weather]}
+          </div>
 
           {/* Message toast */}
           {hud.msgT > 0 && (
@@ -1221,7 +1429,7 @@ export default function CityDrivePage() {
           </div>
 
           <div className="absolute bottom-3 left-3 text-[9px] text-white/20">
-            WASD: move • SPACE: enter/exit • v3
+            WASD: move • SPACE: brake/enter • E: nitro
           </div>
         </div>
       )}
@@ -1250,6 +1458,11 @@ export default function CityDrivePage() {
           <button className="absolute right-4 bottom-24 w-14 h-14 rounded-full bg-red-500/30 border-2 border-red-400/50 z-20 flex items-center justify-center text-white text-xs font-black active:bg-red-500/60 active:scale-95 transition-all"
             onTouchStart={() => brakeRef.current = true} onTouchEnd={() => brakeRef.current = false}>
             <span className="text-white/90">BRAKE</span>
+          </button>
+          <button className="absolute right-24 bottom-4 w-14 h-14 rounded-full bg-cyan-500/30 border-2 border-cyan-400/50 z-20 flex items-center justify-center text-white text-xs font-black active:bg-orange-500/60 active:scale-95 transition-all"
+            style={{ width: 56, height: 56 }}
+            onTouchStart={() => nitroActiveRef.current = true} onTouchEnd={() => nitroActiveRef.current = false}>
+            <span className="text-cyan-300/90">NOS</span>
           </button>
         </>
       )}
