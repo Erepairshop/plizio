@@ -545,15 +545,20 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       if (d < bestDist) { bestDist = d; bestIdx = j; }
     }
 
-    // AI speeds: competitive with wide spread
-    const speedFactors = [0.72, 0.78, 0.84, 0.89, 0.93, 0.97];
+    // AI speeds: balanced so good driving wins
+    const speedFactors = [0.65, 0.70, 0.76, 0.81, 0.86, 0.91];
     const aggressionLevels = [0.15, 0.25, 0.35, 0.45, 0.60, 0.75];
     const laneOffsets = [-0.4, 0.4, -0.2, 0.3, -0.45, 0.2];
+
+    // Calculate initial totalProgress relative to start line so grid position is accounted for
+    const gridProgress = bestIdx / trackPoints.length;
+    // If gridProgress is very high (close to 1.0), the AI is just behind the start line → negative offset
+    const initialTotal = gridProgress > 0.5 ? gridProgress - 1 : gridProgress;
 
     return {
       x: gx, z: gz,
       angle: fwdAngle,
-      speed: 0, trackProgress: bestIdx / trackPoints.length, totalProgress: 0, lap: 0, tilt: 0,
+      speed: 0, trackProgress: gridProgress, totalProgress: initialTotal, lap: 0, tilt: 0,
       maxSpeed: carType.maxSpeed * speedFactors[i],
       accel: carType.accel * (0.80 + i * 0.04),
       handling: 3.0 + i * 0.3,
@@ -574,17 +579,37 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
   const onOilRef = useRef(false);
   const oilTimerRef = useRef(0);
 
-  // Find closest track point for a position
+  // Find closest track point for a position - with sub-segment interpolation for precision
   const getTrackProgress = useCallback((x: number, z: number) => {
     let bestDist = Infinity;
     let bestIdx = 0;
-    for (let i = 0; i < trackPoints.length; i++) {
+    const len = trackPoints.length;
+    for (let i = 0; i < len; i++) {
       const dx = x - trackPoints[i].x;
       const dz = z - trackPoints[i].z;
       const d = dx * dx + dz * dz;
       if (d < bestDist) { bestDist = d; bestIdx = i; }
     }
-    return bestIdx / trackPoints.length;
+    // Sub-segment interpolation: project position onto the segment between bestIdx-1 and bestIdx+1
+    const prevIdx = (bestIdx - 1 + len) % len;
+    const nextIdx = (bestIdx + 1) % len;
+    const prev = trackPoints[prevIdx];
+    const next = trackPoints[nextIdx];
+    // Vector from prev to next (the local track direction)
+    const segDx = next.x - prev.x;
+    const segDz = next.z - prev.z;
+    const segLen2 = segDx * segDx + segDz * segDz;
+    if (segLen2 > 0.001) {
+      // Project point onto the prev->next segment
+      const px = x - prev.x;
+      const pz = z - prev.z;
+      const t = Math.max(0, Math.min(1, (px * segDx + pz * segDz) / segLen2));
+      // t=0 means at prev, t=1 means at next, t=0.5 means at bestIdx
+      // Convert to fractional index offset: t maps [0,1] to [prevIdx, nextIdx]
+      const fractionalIdx = prevIdx + t * ((nextIdx - prevIdx + len) % len || len);
+      return (fractionalIdx % len) / len;
+    }
+    return bestIdx / len;
   }, [trackPoints]);
 
   // Check if position is on track - returns { onTrack, nearestX, nearestZ, dist }
@@ -610,12 +635,15 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
     return false;
   }, [track.oilSlicks]);
 
-  // Calculate race position using totalProgress (cumulative distance)
+  // Calculate race position using totalProgress with hysteresis to prevent flickering
+  const lastPosRef = useRef(1);
+  const posHoldTimer = useRef(0);
   const getPosition = useCallback((allRacers: RacerState[]): number => {
     const playerTotal = allRacers[0].totalProgress;
     let pos = 1;
     for (let i = 1; i < allRacers.length; i++) {
-      if (allRacers[i].totalProgress > playerTotal) pos++;
+      // Use a small threshold: only count AI as ahead if clearly ahead
+      if (allRacers[i].totalProgress > playerTotal + 0.002) pos++;
     }
     return pos;
   }, []);
@@ -927,7 +955,18 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
     hud.speed = Math.abs(player.speed);
     hud.lap = player.lap + 1;
     hud.totalLaps = track.laps;
-    hud.position = getPosition(allCars);
+    // Stabilize position display - only update if new position holds for a brief moment
+    const rawPos = getPosition(allCars);
+    if (rawPos !== lastPosRef.current) {
+      posHoldTimer.current += dt;
+      if (posHoldTimer.current > 0.3) { // position must be consistent for 0.3s before updating display
+        lastPosRef.current = rawPos;
+        posHoldTimer.current = 0;
+      }
+    } else {
+      posHoldTimer.current = 0;
+    }
+    hud.position = lastPosRef.current;
     hud.totalRacers = allCars.length;
     hud.time = timerRef.current;
     hud.playerTilt = player.tilt;
