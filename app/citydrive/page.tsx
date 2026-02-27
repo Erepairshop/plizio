@@ -183,12 +183,19 @@ function roadPos3D() {
 function genMission(id: number): MissionData {
   const types: MissionData["type"][] = ["delivery", "parking", "coins"];
   const type = types[id % 3];
-  const p = roadPos3D(), d = roadPos3D();
+  const p = roadPos3D();
   if (type === "coins") {
     const coins = Array.from({ length: 5 }, () => roadPos3D());
     return { id, type, px: coins[0].x, pz: coins[0].z, dx: 0, dz: 0, pickedUp: false, completed: false, points: 50, label: "Collect 5 coins", coins, coinsLeft: 5 };
   }
   if (type === "parking") return { id, type, px: p.x, pz: p.z, dx: 0, dz: 0, pickedUp: false, completed: false, points: 80, label: "Park at marker" };
+  // Delivery: ensure pickup and dropoff are far apart (min 80 units)
+  let d = roadPos3D();
+  for (let tries = 0; tries < 20; tries++) {
+    const dist = Math.sqrt((d.x - p.x) ** 2 + (d.z - p.z) ** 2);
+    if (dist > 80) break;
+    d = roadPos3D();
+  }
   return { id, type, px: p.x, pz: p.z, dx: d.x, dz: d.z, pickedUp: false, completed: false, points: 100, label: "Deliver package" };
 }
 
@@ -313,34 +320,66 @@ function AnimatedCoin({ x, z }: { x: number; z: number }) {
 
 function AnimatedDelivery({ x, z, pickedUp }: { x: number; z: number; pickedUp: boolean }) {
   const ref = useRef<THREE.Group>(null);
+  const personRef = useRef<THREE.Group>(null);
   useFrame((state) => {
-    if (!ref.current) return;
     const t = state.clock.elapsedTime;
-    ref.current.position.y = 2.5 + Math.sin(t * 2) * 0.5;
-    ref.current.rotation.y = t * 0.8;
+    if (ref.current) {
+      ref.current.position.y = 2.5 + Math.sin(t * 2) * 0.5;
+      ref.current.rotation.y = t * 0.8;
+    }
+    if (personRef.current) {
+      // Waiting person pulse
+      const pulse = 1.0 + Math.sin(t * 3) * 0.05;
+      personRef.current.scale.setScalar(pulse);
+    }
   });
   const col = pickedUp ? "#00FF88" : "#FFD700";
   return (
-    <group ref={ref} position={[x, 2.5, z]}>
-      {/* Package */}
-      <mesh>
-        <boxGeometry args={[1.0, 1.0, 1.0]} />
-        <meshStandardMaterial color={col} emissive={col} emissiveIntensity={1.5} />
-      </mesh>
-      {/* Ribbon */}
-      <mesh>
-        <boxGeometry args={[1.05, 0.12, 0.12]} />
-        <meshStandardMaterial color="#fff" emissive="#fff" emissiveIntensity={0.8} />
-      </mesh>
-      <mesh>
-        <boxGeometry args={[0.12, 0.12, 1.05]} />
-        <meshStandardMaterial color="#fff" emissive="#fff" emissiveIntensity={0.8} />
-      </mesh>
-      {/* Light beam below */}
-      <mesh position={[0, -2, 0]}>
-        <cylinderGeometry args={[0.02, 0.5, 3.5, 6]} />
-        <meshStandardMaterial color={col} emissive={col} emissiveIntensity={0.6} />
-      </mesh>
+    <group position={[x, 0, z]}>
+      {/* Floating package marker */}
+      <group ref={ref} position={[0, 2.5, 0]}>
+        <mesh>
+          <boxGeometry args={[1.0, 1.0, 1.0]} />
+          <meshStandardMaterial color={col} emissive={col} emissiveIntensity={1.5} />
+        </mesh>
+        <mesh>
+          <boxGeometry args={[1.05, 0.12, 0.12]} />
+          <meshStandardMaterial color="#fff" emissive="#fff" emissiveIntensity={0.8} />
+        </mesh>
+        <mesh position={[0, -2, 0]}>
+          <cylinderGeometry args={[0.02, 0.5, 3.5, 6]} />
+          <meshStandardMaterial color={col} emissive={col} emissiveIntensity={0.6} />
+        </mesh>
+      </group>
+      {/* Waiting person at delivery point */}
+      {pickedUp && (
+        <group ref={personRef} position={[1.5, 0, 0]}>
+          {/* Body */}
+          <mesh position={[0, 0.5, 0]}>
+            <boxGeometry args={[0.4, 0.5, 0.25]} />
+            <meshStandardMaterial color="#00CC66" emissive="#00CC66" emissiveIntensity={0.3} />
+          </mesh>
+          {/* Head */}
+          <mesh position={[0, 0.9, 0]}>
+            <boxGeometry args={[0.3, 0.3, 0.3]} />
+            <meshStandardMaterial color="#FFCC88" emissive="#FFCC88" emissiveIntensity={0.2} />
+          </mesh>
+          {/* Legs */}
+          <mesh position={[-0.1, 0.15, 0]}>
+            <boxGeometry args={[0.12, 0.3, 0.12]} />
+            <meshStandardMaterial color="#336" />
+          </mesh>
+          <mesh position={[0.1, 0.15, 0]}>
+            <boxGeometry args={[0.12, 0.3, 0.12]} />
+            <meshStandardMaterial color="#336" />
+          </mesh>
+          {/* Glow ring under person */}
+          <mesh rotation-x={-Math.PI / 2} position={[0, 0.02, 0]}>
+            <ringGeometry args={[1.0, 1.4, 12]} />
+            <meshStandardMaterial color="#00FF88" emissive="#00FF88" emissiveIntensity={1.0} side={THREE.DoubleSide} />
+          </mesh>
+        </group>
+      )}
     </group>
   );
 }
@@ -538,8 +577,10 @@ function MiniMap({ hudRef, missionsRef, carsRef }: { hudRef: React.RefObject<Hud
             const tz = (m.pickedUp ? m.dz : m.pz) * sc;
             ctx.fillStyle = m.pickedUp ? "#00FF88" : "#FFD700";
             ctx.shadowColor = ctx.fillStyle;
-            ctx.shadowBlur = 6;
-            ctx.beginPath(); ctx.arc(tx, tz, 3.5, 0, Math.PI * 2); ctx.fill();
+            ctx.shadowBlur = m.pickedUp ? 12 : 6;
+            // Pulsing radius when package is picked up
+            const rad = m.pickedUp ? 3.5 + Math.sin(Date.now() / 200) * 1.5 : 3.5;
+            ctx.beginPath(); ctx.arc(tx, tz, rad, 0, Math.PI * 2); ctx.fill();
             ctx.shadowBlur = 0;
           } else if (m.type === "parking") {
             ctx.fillStyle = "#00D4FF";
@@ -1383,7 +1424,10 @@ export default function CityDrivePage() {
           {/* Score */}
           <div className="absolute top-3 left-3 bg-black/70 backdrop-blur-sm rounded-xl px-4 py-2 border border-orange-500/30">
             <div className="text-orange-400 font-black text-xl">{hud.score} <span className="text-xs text-white/40">PTS</span></div>
-            <div className="text-white/50 text-[10px]">{hud.missions}/{TOTAL_M} missions</div>
+            <div className="text-white/50 text-[10px]">{hud.missions}/{TOTAL_M} completed</div>
+            <div className="w-full h-1 bg-white/10 rounded-full mt-1">
+              <div className="h-full rounded-full bg-orange-500/70 transition-all" style={{ width: `${(hud.missions / TOTAL_M) * 100}%` }} />
+            </div>
           </div>
 
           {/* Mini-map */}
