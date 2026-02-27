@@ -134,7 +134,8 @@ export default function QuickPickPage() {
       return q;
     });
     setQuestions(shuffled);
-    setGameState("countdown");
+    setGameState("playing");
+    startTimeRef.current = Date.now();
   };
 
   // Countdown

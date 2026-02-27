@@ -507,8 +507,8 @@ export default function CityDrivePage() {
     setFinalMissions(hudRef.current.missions);
     setGameState("result");
   }, []);
-  const startGame = () => { setCountdown(3); setGameState("countdown"); };
-  const playAgain = () => { setCardSaved(false); setCountdown(3); setGameState("countdown"); };
+  const startGame = () => { setGameState("playing"); };
+  const playAgain = () => { setCardSaved(false); setGameState("playing"); };
 
   const totalForRarity = TOTAL_M * 100;
   const rarity = calculateRarity(Math.min(finalScore, totalForRarity), totalForRarity, 1);

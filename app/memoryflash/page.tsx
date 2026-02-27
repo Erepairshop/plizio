@@ -37,8 +37,8 @@ function shuffleArray<T>(arr: T[]): T[] {
 }
 
 export default function MemoryFlashPage() {
-  const [gameState, setGameState] = useState<GameState>("countdown");
-  const [countdown, setCountdown] = useState(3);
+  const [gameState, setGameState] = useState<GameState>("showing");
+  const [countdown, setCountdown] = useState(0);
   const [round, setRound] = useState(0);
   const [score, setScore] = useState(0);
   const [questions, setQuestions] = useState<MemoryQuestion[]>([]);
@@ -69,6 +69,7 @@ export default function MemoryFlashPage() {
   useEffect(() => {
     if (gameState !== "showing") return;
     if (!questions[round]) return;
+    if (!startTimeRef.current) startTimeRef.current = Date.now();
 
     const timer = setTimeout(() => {
       setGameState("asking");
@@ -125,8 +126,8 @@ export default function MemoryFlashPage() {
     setScore(0);
     setSelectedAnswer(null);
     setIsCorrect(null);
-    setCountdown(3);
-    setGameState("countdown");
+    setGameState("showing");
+    startTimeRef.current = Date.now();
   };
 
   const maxScore = TOTAL_ROUNDS * (TOTAL_ROUNDS + 1) / 2;
