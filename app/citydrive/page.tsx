@@ -129,6 +129,8 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
   const coinMeshes = useRef<THREE.Mesh[]>([]);
   const camTarget = useRef(new THREE.Vector3(1 * T, 6, 1 * T - 10));
   const camLook = useRef(new THREE.Vector3(1 * T, 1, 1 * T));
+  const camAngle = useRef(0);
+  const camLookSmooth = useRef(new THREE.Vector3(1 * T, 1, 1 * T));
 
   // Init on start
   useEffect(() => {
@@ -252,13 +254,21 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
       plMesh.current.rotation.y = p.angle;
     }
 
-    // ── Camera ──
+    // ── Camera (SkyClimb-style, dt-based smooth follow) ──
     const cd = p.inCar >= 0 ? 18 : 12;
     const ch = p.inCar >= 0 ? 10 : 8;
-    camTarget.current.set(p.x - Math.sin(p.angle) * cd, ch, p.z - Math.cos(p.angle) * cd);
-    camLook.current.set(p.x, p.inCar >= 0 ? 1.5 : 1.2, p.z);
-    camera.position.lerp(camTarget.current, 0.045);
-    camera.lookAt(camLook.current);
+    // Smooth camera angle separately so it doesn't jump on fast turns
+    let angleDiff = p.angle - camAngle.current;
+    while (angleDiff > Math.PI) angleDiff -= Math.PI * 2;
+    while (angleDiff < -Math.PI) angleDiff += Math.PI * 2;
+    camAngle.current += angleDiff * Math.min(0.04 * dt * 60, 1);
+    const sa = camAngle.current;
+    camTarget.current.set(p.x - Math.sin(sa) * cd, ch, p.z - Math.cos(sa) * cd);
+    // Smooth look-at target
+    camLookSmooth.current.lerp(camLook.current.set(p.x, p.inCar >= 0 ? 1.5 : 1.2, p.z), Math.min(0.06 * dt * 60, 1));
+    // Framerate-independent position follow
+    camera.position.lerp(camTarget.current, Math.min(0.06 * dt * 60, 1));
+    camera.lookAt(camLookSmooth.current);
 
     // Message timer
     if (hud.msgT > 0) hud.msgT -= dt;
