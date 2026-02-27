@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Layers, Star, User, ChevronDown, BookOpen, Car, Search, Hash, Shuffle, Crown, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Layers, Star, User, ChevronDown, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import Logo from "@/components/Logo";
 import GameCard from "@/components/GameCard";
@@ -113,7 +113,15 @@ const CATEGORIES: CategoryDef[] = [
     label: "LEARNING",
     icon: BookOpen,
     color: "#FFD700",
-    games: [],
+    games: [
+      {
+        id: "mathtest",
+        icon: Calculator,
+        name: "Math Test",
+        color: "#FFD700",
+        gradient: "bg-gradient-to-br from-yellow-500/20 to-amber-500/20",
+      },
+    ],
   },
 ];
 
