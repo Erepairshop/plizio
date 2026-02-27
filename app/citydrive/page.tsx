@@ -843,8 +843,8 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
         nitroFuel.current = Math.min(NITRO_MAX, nitroFuel.current + NITRO_CHARGE * dt);
       }
       hud.nitro = nitroFuel.current;
-      // Show toggle state in HUD (even if not boosting yet due to low speed)
-      hud.nitroActive = wantNitro && hasFuel;
+      // Show toggle state in HUD (only for cars that support nitro)
+      hud.nitroActive = carCanNitro && wantNitro && hasFuel;
       const effectiveMax = nitroOn ? car.maxSpeed * NITRO_BOOST : car.maxSpeed;
       const effectiveAccel = nitroOn ? car.accel * 1.6 : car.accel;
 
@@ -1030,6 +1030,8 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
           else if (lOk) npc.angle = la;
           else if (rOk) npc.angle = ra;
           else npc.angle += Math.PI;
+          // Unstuck: give minimum speed after turning so NPC doesn't freeze
+          npc.speed = Math.max(npc.speed, npc.maxSpeed * 0.3);
         }
       } else if (npcAhead) {
         // Slow down gently when another NPC is ahead
@@ -1431,12 +1433,12 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
           <group key={`tt-${i}`} position={[cp.x, 0, cp.z]}>
             <mesh rotation-x={-Math.PI / 2} position={[0, 0.15, 0]}>
               <ringGeometry args={[isCurrent ? 3 : 2, isCurrent ? 4 : 2.8, 16]} />
-              <meshStandardMaterial color={isCurrent ? "#FFD700" : "#FFD700"} emissive="#FFD700" emissiveIntensity={isCurrent ? 3 : 0.8} side={THREE.DoubleSide} transparent opacity={isCurrent ? 1 : 0.4} />
+              <meshStandardMaterial color={isCurrent ? "#00FFAA" : "#00FFAA"} emissive="#00FFAA" emissiveIntensity={isCurrent ? 3 : 0.8} side={THREE.DoubleSide} transparent opacity={isCurrent ? 1 : 0.4} />
             </mesh>
             {isCurrent && (
               <mesh position={[0, 4, 0]}>
                 <coneGeometry args={[0.6, 1.5, 4]} />
-                <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={3} />
+                <meshStandardMaterial color="#00FFAA" emissive="#00FFAA" emissiveIntensity={3} />
               </mesh>
             )}
           </group>
@@ -1593,6 +1595,7 @@ export default function CityDrivePage() {
               <div className="w-24 h-1.5 bg-white/10 rounded-full mt-1">
                 <div className="h-full rounded-full transition-all" style={{ width: `${Math.min(100, (hud.speed / 50) * 100)}%`, backgroundColor: hud.carColor }} />
               </div>
+              {getCarType(getActiveCar()).canNitro && (
               <div className="flex items-center gap-1.5 mt-1.5">
                 <button onClick={() => { nitroActiveRef.current = !nitroActiveRef.current; }} className="text-[10px] font-black px-2 py-1 rounded-md pointer-events-auto transition-all cursor-pointer border" style={{ color: hud.nitroActive ? "#FF6600" : "#00CCFF", backgroundColor: hud.nitroActive ? "rgba(255,102,0,0.3)" : "rgba(0,200,255,0.1)", borderColor: hud.nitroActive ? "rgba(255,102,0,0.5)" : "rgba(0,200,255,0.3)" }}>NOS</button>
                 <div className="w-20 h-2 bg-white/10 rounded-full relative">
@@ -1600,6 +1603,7 @@ export default function CityDrivePage() {
                 </div>
                 <span className="text-[8px] text-white/30 w-8">{hud.nitro < 100 && !hud.nitroActive ? `${Math.ceil((NITRO_MAX - hud.nitro) / NITRO_CHARGE)}s` : ""}</span>
               </div>
+              )}
             </div>
           )}
 
@@ -1644,7 +1648,7 @@ export default function CityDrivePage() {
           </div>
 
           <div className="absolute bottom-3 left-3 text-[9px] text-white/20">
-            WASD: move • SPACE: brake/enter • E/SHIFT: nitro
+            WASD: move • SPACE: brake/enter{getCarType(getActiveCar()).canNitro ? " • E/SHIFT: nitro" : ""}
           </div>
         </div>
       )}
@@ -1674,11 +1678,13 @@ export default function CityDrivePage() {
             onTouchStart={() => brakeRef.current = true} onTouchEnd={() => brakeRef.current = false}>
             <span className="text-white/90">BRAKE</span>
           </button>
+          {getCarType(getActiveCar()).canNitro && (
           <button className="absolute right-24 bottom-4 rounded-full z-20 flex items-center justify-center text-xs font-black active:scale-95 transition-all"
             style={{ width: 56, height: 56, backgroundColor: nitroActiveRef.current ? "rgba(255,102,0,0.5)" : "rgba(0,200,255,0.3)", borderWidth: 2, borderColor: nitroActiveRef.current ? "rgba(255,102,0,0.7)" : "rgba(0,200,255,0.5)" }}
             onTouchStart={e => { e.preventDefault(); nitroActiveRef.current = !nitroActiveRef.current; }}>
             <span style={{ color: nitroActiveRef.current ? "#FF8800" : "#66DDFF" }}>NOS</span>
           </button>
+          )}
         </>
       )}
 
