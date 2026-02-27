@@ -545,18 +545,18 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       if (d < bestDist) { bestDist = d; bestIdx = j; }
     }
 
-    // AI speeds: +10%, wider spread so they don't bunch up
-    const speedFactors = [0.68, 0.76, 0.83, 0.89, 0.95, 0.99];
-    const aggressionLevels = [0.1, 0.15, 0.25, 0.35, 0.50, 0.60];
-    const laneOffsets = [-0.3, 0.3, -0.15, 0.25, -0.35, 0.15];
+    // AI speeds: fast with wide spread
+    const speedFactors = [0.78, 0.84, 0.90, 0.95, 1.0, 1.05];
+    const aggressionLevels = [0.15, 0.25, 0.35, 0.45, 0.60, 0.75];
+    const laneOffsets = [-0.4, 0.4, -0.2, 0.3, -0.45, 0.2];
 
     return {
       x: gx, z: gz,
       angle: fwdAngle,
       speed: 0, trackProgress: bestIdx / trackPoints.length, totalProgress: 0, lap: 0, tilt: 0,
       maxSpeed: carType.maxSpeed * speedFactors[i],
-      accel: carType.accel * (0.70 + i * 0.05),
-      handling: 2.5 + i * 0.2,
+      accel: carType.accel * (0.80 + i * 0.04),
+      handling: 3.0 + i * 0.3,
       color: AI_COLORS[i], name,
       aggressive: aggressionLevels[i],
       pushVx: 0, pushVz: 0,
@@ -772,52 +772,40 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       const dzT = offZ - ai.z;
       let angleToTarget = Math.atan2(dxT, dzT);
 
-      // ── Overtake logic: detect slower cars/player ahead and steer around ──
-      let overtakeShift = 0;
-      const overtakeScanDist = 8 + ai.speed * 0.3; // how far ahead to scan
-      // Check other AI cars
-      for (let j = 0; j < ais.length; j++) {
-        if (j === i) continue;
-        const other = ais[j];
-        const ddx = other.x - ai.x;
-        const ddz = other.z - ai.z;
+      // ── Overtake logic: detect cars ahead and actively steer around them ──
+      const aiFwdX = Math.sin(ai.angle);
+      const aiFwdZ = Math.cos(ai.angle);
+      const scanDist = 12 + ai.speed * 0.5; // long scan range
+      let overtakeLaneShift = 0;
+
+      // Helper: check one car and accumulate lane shift
+      const checkOvertake = (ox: number, oz: number, oSpeed: number) => {
+        const ddx = ox - ai.x;
+        const ddz = oz - ai.z;
         const dist = Math.sqrt(ddx * ddx + ddz * ddz);
-        if (dist < overtakeScanDist && dist > 0.5) {
-          // Is this car ahead of us? (dot product with our forward direction)
-          const fwdX = Math.sin(ai.angle);
-          const fwdZ = Math.cos(ai.angle);
-          const dot = ddx * fwdX + ddz * fwdZ;
-          if (dot > 0 && dot < overtakeScanDist) {
-            // It's ahead - check if slower or similar speed
-            if (other.speed < ai.speed * 1.05) {
-              // Cross product to determine which side they're on
-              const cross = fwdX * ddz - fwdZ * ddx;
-              // Steer to the opposite side, stronger when closer
-              const avoidStrength = (1 - dist / overtakeScanDist) * 2.5;
-              overtakeShift += (cross > 0 ? -avoidStrength : avoidStrength);
-            }
+        if (dist > 0.5 && dist < scanDist) {
+          const dot = ddx * aiFwdX + ddz * aiFwdZ; // positive = ahead
+          if (dot > 0) {
+            const cross = aiFwdX * ddz - aiFwdZ * ddx; // side detection
+            const closeness = 1 - dist / scanDist; // 0..1, stronger when near
+            // Always avoid any car ahead, not just slower ones
+            const urgency = closeness * closeness * 4; // quadratic ramp for strong close avoidance
+            overtakeLaneShift += (cross > 0 ? -urgency : urgency);
           }
         }
+      };
+
+      // Check all other AI cars
+      for (let j = 0; j < ais.length; j++) {
+        if (j !== i) checkOvertake(ais[j].x, ais[j].z, ais[j].speed);
       }
-      // Also check player
-      const pdx = player.x - ai.x;
-      const pdz = player.z - ai.z;
-      const pDist = Math.sqrt(pdx * pdx + pdz * pdz);
-      if (pDist < overtakeScanDist && pDist > 0.5) {
-        const fwdX = Math.sin(ai.angle);
-        const fwdZ = Math.cos(ai.angle);
-        const dot = pdx * fwdX + pdz * fwdZ;
-        if (dot > 0 && dot < overtakeScanDist) {
-          if (player.speed < ai.speed * 1.05) {
-            const cross = fwdX * pdz - fwdZ * pdx;
-            const avoidStrength = (1 - pDist / overtakeScanDist) * 2.5;
-            overtakeShift += (cross > 0 ? -avoidStrength : avoidStrength);
-          }
-        }
-      }
-      // Apply overtake angle shift
-      if (overtakeShift !== 0) {
-        angleToTarget += Math.max(-0.4, Math.min(0.4, overtakeShift * 0.15));
+      // Check player
+      checkOvertake(player.x, player.z, player.speed);
+
+      // Apply strong lane offset for overtaking
+      if (overtakeLaneShift !== 0) {
+        const clampedShift = Math.max(-1.0, Math.min(1.0, overtakeLaneShift * 0.3));
+        angleToTarget += clampedShift;
       }
 
       // Steer toward target
@@ -826,21 +814,16 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       while (angleDiff < -Math.PI) angleDiff += Math.PI * 2;
       ai.angle += angleDiff * ai.handling * dt;
 
-      // Accelerate - with slight imperfection
-      const accelBoost = 1 + ai.aggressive * 0.15;
-      const accelWobble = 0.88 + Math.random() * 0.12; // 88-100% throttle
+      // Accelerate - nearly full power with minor variation
+      const accelBoost = 1 + ai.aggressive * 0.2;
+      const accelWobble = 0.92 + Math.random() * 0.08; // 92-100% throttle
       ai.speed += ai.accel * accelBoost * accelWobble * dt;
-      ai.speed *= 0.978; // slightly more drag than player (0.98)
+      ai.speed *= 0.982; // close to player drag (0.98)
 
-      // Random micro-hesitation ~3% of frames
-      if (Math.random() < 0.03) {
-        ai.speed *= 0.98;
-      }
-
-      // Slow down for sharp turns - AI brakes a bit more than perfect
+      // Slow down for sharp turns
       const aiTurnSharp = getTurnSharpness(ai.trackProgress);
-      if (aiTurnSharp > 0.25) {
-        ai.speed *= (1 - aiTurnSharp * 0.4 * dt * 10);
+      if (aiTurnSharp > 0.3) {
+        ai.speed *= (1 - aiTurnSharp * 0.3 * dt * 10);
       }
       ai.speed = Math.max(0, Math.min(ai.maxSpeed, ai.speed));
 
