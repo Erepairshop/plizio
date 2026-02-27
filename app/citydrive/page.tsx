@@ -61,8 +61,8 @@ const ENTER_DIST = 6;
 const FRIC = 0.97;
 const TOTAL_M = 15;
 const NITRO_MAX = 100;
-const NITRO_DRAIN = 30; // per sec
-const NITRO_CHARGE = 6; // per sec
+const NITRO_DRAIN = 30; // per sec (~3.3 sec burst)
+const NITRO_CHARGE = 0.85; // per sec (~2 min recharge)
 const NITRO_BOOST = 1.8;
 const DRIFT_MIN_SPEED = 10;
 const TIRE_MARK_MAX = 400;
@@ -648,6 +648,8 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
   const camLookSmooth = useRef(new THREE.Vector3(1 * T, 1, 1 * T));
   const saveTickRef = useRef(0);
   const prevSpaceRef = useRef(false);
+  const prevERef = useRef(false);
+  const nitroToggle = useRef(false);
   const nitroFuel = useRef(NITRO_MAX);
   const driftState = useRef({ active: false, score: 0, timer: 0, totalScore: 0 });
   const tireMarks = useRef<{ x: number; z: number; a: number }[]>([]);
@@ -709,7 +711,13 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
     }
     // Touch/mobile brake & nitro
     if (brakeRef.current) brake = true;
-    const wantNitro = keys.has("e") || keys.has("E") || nitroActiveRef.current;
+    // E key toggle nitro (press once = on, press again = off)
+    const eHeld = keys.has("e") || keys.has("E");
+    const eJustPressed = eHeld && !prevERef.current;
+    prevERef.current = eHeld;
+    if (eJustPressed) nitroToggle.current = !nitroToggle.current;
+    // nitroActiveRef is toggled by UI button (onClick)
+    const wantNitro = nitroToggle.current || nitroActiveRef.current;
     if (actionRef.current) { act = true; actionRef.current = false; }
     if (touch.active) {
       const dx = touch.cx - touch.sx, dy = touch.cy - touch.sy;
@@ -720,44 +728,66 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
     // ── Driving ──
     if (p.inCar >= 0) {
       const car = carsRef.current[p.inCar];
-      // Nitro
-      const nitroOn = wantNitro && nitroFuel.current > 0 && Math.abs(car.speed) > 2;
-      if (nitroOn) { nitroFuel.current = Math.max(0, nitroFuel.current - NITRO_DRAIN * dt); }
-      else { nitroFuel.current = Math.min(NITRO_MAX, nitroFuel.current + NITRO_CHARGE * dt); }
+      // Nitro (toggle mode — auto-off when empty)
+      const canNitro = nitroFuel.current > 0 && Math.abs(car.speed) > 2;
+      const nitroOn = wantNitro && canNitro;
+      if (nitroOn) {
+        nitroFuel.current = Math.max(0, nitroFuel.current - NITRO_DRAIN * dt);
+        if (nitroFuel.current <= 0) {
+          // Auto-off: reset both toggles
+          nitroToggle.current = false;
+          nitroActiveRef.current = false;
+        }
+      } else {
+        nitroFuel.current = Math.min(NITRO_MAX, nitroFuel.current + NITRO_CHARGE * dt);
+      }
       hud.nitro = nitroFuel.current; hud.nitroActive = nitroOn;
       const effectiveMax = nitroOn ? car.maxSpeed * NITRO_BOOST : car.maxSpeed;
       const effectiveAccel = nitroOn ? car.accel * 1.6 : car.accel;
 
-      if (mz !== 0 && !brake) car.speed += mz * effectiveAccel * dt;
-      else if (brake) {
-        const speedRatio = Math.min(1, Math.abs(car.speed) / car.maxSpeed);
-        const brakeFactor = 0.75 + speedRatio * 0.20;
-        car.speed *= brakeFactor;
-        if (Math.abs(car.speed) < 0.5) car.speed = 0;
-      } else {
-        car.speed *= FRIC;
-      }
-      car.speed = Math.max(-car.maxSpeed * 0.4, Math.min(effectiveMax, car.speed));
-      if (Math.abs(car.speed) < 0.15) car.speed = 0;
-
-      // Steering
+      // Steering (before brake so drift detection works)
       const speedFactor = Math.max(0.5, 1.0 - (Math.abs(car.speed) / car.maxSpeed) * 0.4);
       if (Math.abs(car.speed) > 0.5) car.angle -= mx * car.handling * speedFactor * dt * (car.speed > 0 ? 1 : -1);
 
       // Drift detection: brake + steering + speed
       const isDrifting = brake && Math.abs(mx) > 0.3 && Math.abs(car.speed) > DRIFT_MIN_SPEED;
       const ds = driftState.current;
+
+      // Acceleration / Braking / Drift
       if (isDrifting) {
+        // Drift: very light braking — keep momentum while sliding
+        car.speed *= 0.993;
         if (!ds.active) { ds.active = true; ds.score = 0; }
-        ds.score += Math.abs(car.speed) * dt * 2;
+        ds.score += Math.abs(car.speed) * dt * 3;
         ds.timer = 1.5;
-        // Tire marks
+        // Tire marks during drift
         const tm = tireMarks.current;
         tm.push({ x: car.x - Math.cos(car.angle) * 0.8, z: car.z + Math.sin(car.angle) * 0.8, a: car.angle });
         tm.push({ x: car.x + Math.cos(car.angle) * 0.8, z: car.z - Math.sin(car.angle) * 0.8, a: car.angle });
         if (tm.length > TIRE_MARK_MAX) tm.splice(0, tm.length - TIRE_MARK_MAX);
-      } else if (ds.active) {
-        // Drift ended — award points
+      } else if (mz !== 0 && !brake) {
+        car.speed += mz * effectiveAccel * dt;
+      } else if (brake) {
+        // Braking: gentle at high speed, firm at low speed
+        const speedRatio = Math.min(1, Math.abs(car.speed) / car.maxSpeed);
+        const brakeFactor = 0.82 + speedRatio * 0.15; // 0.82 at 0 → 0.97 at max
+        car.speed *= brakeFactor;
+        if (Math.abs(car.speed) < 0.5) car.speed = 0;
+        // Brake skid marks at high speed
+        if (Math.abs(car.speed) > 15) {
+          const tm = tireMarks.current;
+          tm.push({ x: car.x - Math.cos(car.angle) * 0.8, z: car.z + Math.sin(car.angle) * 0.8, a: car.angle });
+          tm.push({ x: car.x + Math.cos(car.angle) * 0.8, z: car.z - Math.sin(car.angle) * 0.8, a: car.angle });
+          if (tm.length > TIRE_MARK_MAX) tm.splice(0, tm.length - TIRE_MARK_MAX);
+        }
+      } else {
+        car.speed *= FRIC;
+      }
+      car.speed = Math.max(-car.maxSpeed * 0.4, Math.min(effectiveMax, car.speed));
+      if (Math.abs(car.speed) < 0.15) car.speed = 0;
+
+      // Drift end — award points
+      if (!isDrifting && ds.active) {
         const bonus = Math.round(ds.score);
         if (bonus > 5) { hud.score += bonus; hud.msg = `DRIFT +${bonus}!`; hud.msgT = 2; }
         ds.totalScore += bonus; ds.active = false;
@@ -1352,10 +1382,11 @@ export default function CityDrivePage() {
                 <div className="h-full rounded-full transition-all" style={{ width: `${Math.min(100, (hud.speed / 50) * 100)}%`, backgroundColor: hud.carColor }} />
               </div>
               <div className="flex items-center gap-1.5 mt-1.5">
-                <span className="text-[9px] text-orange-300/70">NOS</span>
-                <div className="w-20 h-1.5 bg-white/10 rounded-full">
-                  <div className="h-full rounded-full transition-all" style={{ width: `${hud.nitro}%`, backgroundColor: hud.nitroActive ? "#FF6600" : "#00CCFF" }} />
+                <button onClick={() => { nitroActiveRef.current = !nitroActiveRef.current; }} className="text-[9px] font-black px-1.5 py-0.5 rounded pointer-events-auto transition-all" style={{ color: hud.nitroActive ? "#FF6600" : "#00CCFF", backgroundColor: hud.nitroActive ? "rgba(255,102,0,0.2)" : "transparent" }}>NOS</button>
+                <div className="w-20 h-1.5 bg-white/10 rounded-full relative">
+                  <div className="h-full rounded-full transition-all" style={{ width: `${hud.nitro}%`, backgroundColor: hud.nitroActive ? "#FF6600" : hud.nitro < 100 ? "#555" : "#00CCFF" }} />
                 </div>
+                <span className="text-[8px] text-white/30 w-8">{hud.nitro < 100 && !hud.nitroActive ? `${Math.ceil((NITRO_MAX - hud.nitro) / NITRO_CHARGE)}s` : ""}</span>
               </div>
             </div>
           )}
@@ -1402,7 +1433,7 @@ export default function CityDrivePage() {
           </div>
 
           <div className="absolute bottom-3 left-3 text-[9px] text-white/20">
-            WASD: move • SPACE: brake/enter • E: nitro
+            WASD: move • SPACE: brake/enter • E: nitro on/off
           </div>
         </div>
       )}
@@ -1432,10 +1463,10 @@ export default function CityDrivePage() {
             onTouchStart={() => brakeRef.current = true} onTouchEnd={() => brakeRef.current = false}>
             <span className="text-white/90">BRAKE</span>
           </button>
-          <button className="absolute right-24 bottom-4 w-14 h-14 rounded-full bg-cyan-500/30 border-2 border-cyan-400/50 z-20 flex items-center justify-center text-white text-xs font-black active:bg-orange-500/60 active:scale-95 transition-all"
-            style={{ width: 56, height: 56 }}
-            onTouchStart={() => nitroActiveRef.current = true} onTouchEnd={() => nitroActiveRef.current = false}>
-            <span className="text-cyan-300/90">NOS</span>
+          <button className="absolute right-24 bottom-4 rounded-full z-20 flex items-center justify-center text-xs font-black active:scale-95 transition-all"
+            style={{ width: 56, height: 56, backgroundColor: nitroActiveRef.current ? "rgba(255,102,0,0.5)" : "rgba(0,200,255,0.3)", borderWidth: 2, borderColor: nitroActiveRef.current ? "rgba(255,102,0,0.7)" : "rgba(0,200,255,0.5)" }}
+            onTouchStart={e => { e.preventDefault(); nitroActiveRef.current = !nitroActiveRef.current; }}>
+            <span style={{ color: nitroActiveRef.current ? "#FF8800" : "#66DDFF" }}>NOS</span>
           </button>
         </>
       )}
