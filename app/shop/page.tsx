@@ -75,7 +75,7 @@ const ABILITIES: AbilityDef[] = [
   { id: "shield_plus", name: "Shield+", icon: "🛡️", color: "#FFD700", price: 3 },
 ];
 
-type Tab = "cars" | "powerups" | "skins" | "hats" | "trails" | "abilities";
+type Tab = "cars" | "powerups" | "skins" | "abilities";
 
 // ─── CAR SVG ICON ─────────────────────────────────
 function CarIcon({ color, size = 80 }: { color: string; size?: number }) {
@@ -136,6 +136,116 @@ function SkinPreview({ skin, size = 48 }: { skin: SkinDef; size?: number }) {
   );
 }
 
+// ─── HAT PREVIEW (SVG) ─────────────────────────────
+function HatPreview({ type, color, emissive, size = 48 }: { type: string; color: string; emissive: string; size?: number }) {
+  const s = size;
+  const cx = s / 2;
+  return (
+    <svg width={s} height={s} viewBox={`0 0 ${s} ${s}`}>
+      {/* Glow */}
+      <circle cx={cx} cy={cx} r={s * 0.4} fill={emissive} opacity={0.1} />
+      {type === "crown" && (<>
+        <rect x={cx - 12} y={s * 0.45} width={24} height={10} rx={2} fill={color} />
+        {[-8, 0, 8].map((dx, i) => <polygon key={i} points={`${cx + dx - 3},${s * 0.45} ${cx + dx},${s * 0.25} ${cx + dx + 3},${s * 0.45}`} fill={color} />)}
+        {[-8, 0, 8].map((dx, i) => <circle key={`g${i}`} cx={cx + dx} cy={s * 0.27} r={2} fill={emissive} opacity={0.8} />)}
+      </>)}
+      {type === "cap" && (<>
+        <ellipse cx={cx} cy={s * 0.5} rx={14} ry={8} fill={color} />
+        <rect x={cx - 2} y={s * 0.3} width={16} height={5} rx={2} fill={color} opacity={0.7} />
+        <ellipse cx={cx} cy={s * 0.38} rx={12} ry={10} fill={color} />
+      </>)}
+      {type === "halo" && (<>
+        <ellipse cx={cx} cy={s * 0.4} rx={14} ry={5} fill="none" stroke={color} strokeWidth={3} />
+        <ellipse cx={cx} cy={s * 0.4} rx={14} ry={5} fill="none" stroke={emissive} strokeWidth={1.5} opacity={0.6} />
+      </>)}
+      {type === "horns" && (<>
+        <path d={`M${cx - 8},${s * 0.55} Q${cx - 12},${s * 0.2} ${cx - 4},${s * 0.25}`} fill={color} />
+        <path d={`M${cx + 8},${s * 0.55} Q${cx + 12},${s * 0.2} ${cx + 4},${s * 0.25}`} fill={color} />
+      </>)}
+      {type === "tophat" && (<>
+        <rect x={cx - 10} y={s * 0.3} width={20} height={20} rx={2} fill={color} />
+        <rect x={cx - 14} y={s * 0.52} width={28} height={4} rx={2} fill={color} />
+        <rect x={cx - 9} y={s * 0.34} width={18} height={2} rx={1} fill={emissive} opacity={0.3} />
+      </>)}
+      {type === "helmet" && (<>
+        <ellipse cx={cx} cy={s * 0.45} rx={15} ry={12} fill={color} />
+        <rect x={cx - 13} y={s * 0.5} width={26} height={3} rx={1.5} fill={emissive} opacity={0.4} />
+      </>)}
+      {type === "antenna" && (<>
+        <rect x={cx - 1} y={s * 0.3} width={2} height={16} fill="#888" />
+        <circle cx={cx} cy={s * 0.28} r={4} fill={color} />
+        <circle cx={cx} cy={s * 0.28} r={2} fill={emissive} opacity={0.8} />
+      </>)}
+      {type === "wizard" && (<>
+        <polygon points={`${cx},${s * 0.15} ${cx - 14},${s * 0.6} ${cx + 14},${s * 0.6}`} fill={color} />
+        <rect x={cx - 16} y={s * 0.56} width={32} height={4} rx={2} fill={color} />
+        <circle cx={cx + 4} cy={s * 0.38} r={2.5} fill={emissive} opacity={0.7} />
+        <circle cx={cx - 3} cy={s * 0.48} r={1.5} fill={emissive} opacity={0.5} />
+      </>)}
+    </svg>
+  );
+}
+
+// ─── TRAIL PREVIEW (SVG) ────────────────────────────
+function TrailPreview({ type, color, emissive, size = 48 }: { type: string; color: string; emissive: string; size?: number }) {
+  const s = size;
+  const cx = s / 2;
+  return (
+    <svg width={s} height={s} viewBox={`0 0 ${s} ${s}`}>
+      {/* Glow */}
+      <circle cx={cx} cy={cx} r={s * 0.38} fill={emissive} opacity={0.08} />
+      {type === "fire" && (<>
+        <ellipse cx={cx} cy={s * 0.6} rx={6} ry={10} fill={color} opacity={0.9} />
+        <ellipse cx={cx - 5} cy={s * 0.55} rx={4} ry={7} fill={emissive} opacity={0.7} />
+        <ellipse cx={cx + 5} cy={s * 0.55} rx={4} ry={7} fill={emissive} opacity={0.7} />
+        <ellipse cx={cx} cy={s * 0.5} rx={3} ry={5} fill="#FFD700" opacity={0.8} />
+      </>)}
+      {type === "ice" && (<>
+        {[0, 60, 120, 180, 240, 300].map((deg, i) => {
+          const rad = (deg * Math.PI) / 180;
+          return <line key={i} x1={cx} y1={cx} x2={cx + Math.cos(rad) * 14} y2={cx + Math.sin(rad) * 14} stroke={color} strokeWidth={2} opacity={0.7} />;
+        })}
+        <circle cx={cx} cy={cx} r={4} fill={emissive} opacity={0.6} />
+        {[30, 90, 150, 210, 270, 330].map((deg, i) => {
+          const rad = (deg * Math.PI) / 180;
+          return <circle key={i} cx={cx + Math.cos(rad) * 10} cy={cx + Math.sin(rad) * 10} r={1.5} fill={color} opacity={0.5} />;
+        })}
+      </>)}
+      {type === "rainbow" && (<>
+        {["#FF0000", "#FF8800", "#FFFF00", "#00FF00", "#0088FF", "#8800FF"].map((c, i) => (
+          <rect key={i} x={cx - 12} y={s * 0.28 + i * 3} width={24} height={3} rx={1.5} fill={c} opacity={0.7} />
+        ))}
+      </>)}
+      {type === "stars" && (<>
+        {[{ x: cx, y: s * 0.3, r: 4 }, { x: cx - 8, y: s * 0.5, r: 3 }, { x: cx + 8, y: s * 0.5, r: 3 }, { x: cx - 4, y: s * 0.7, r: 2 }, { x: cx + 4, y: s * 0.7, r: 2 }].map((st, i) => (
+          <polygon key={i} points={starPoints(st.x, st.y, st.r)} fill={color} opacity={0.8 - i * 0.1} />
+        ))}
+      </>)}
+      {type === "smoke" && (<>
+        {[{ x: cx - 6, y: s * 0.4, r: 6 }, { x: cx + 4, y: s * 0.35, r: 7 }, { x: cx, y: s * 0.5, r: 8 }, { x: cx - 3, y: s * 0.6, r: 5 }].map((c, i) => (
+          <circle key={i} cx={c.x} cy={c.y} r={c.r} fill={color} opacity={0.3 - i * 0.05} />
+        ))}
+      </>)}
+      {type === "electric" && (<>
+        <polyline points={`${cx - 6},${s * 0.2} ${cx + 2},${s * 0.4} ${cx - 4},${s * 0.45} ${cx + 6},${s * 0.7}`} fill="none" stroke={color} strokeWidth={2.5} strokeLinejoin="round" />
+        <polyline points={`${cx + 4},${s * 0.25} ${cx - 2},${s * 0.5} ${cx + 3},${s * 0.55} ${cx - 5},${s * 0.75}`} fill="none" stroke={emissive} strokeWidth={1.5} strokeLinejoin="round" opacity={0.6} />
+        <circle cx={cx + 6} cy={s * 0.7} r={2} fill={emissive} opacity={0.8} />
+      </>)}
+    </svg>
+  );
+}
+
+// Star polygon points helper
+function starPoints(cx: number, cy: number, r: number): string {
+  const pts: string[] = [];
+  for (let i = 0; i < 10; i++) {
+    const angle = (i * Math.PI) / 5 - Math.PI / 2;
+    const rad = i % 2 === 0 ? r : r * 0.4;
+    pts.push(`${cx + Math.cos(angle) * rad},${cy + Math.sin(angle) * rad}`);
+  }
+  return pts.join(" ");
+}
+
 export default function ShopPage() {
   const [balance, setBalance] = useState(0);
   const [ownedSkins, setOwnedSkins] = useState<string[]>(["default"]);
@@ -152,7 +262,7 @@ export default function ShopPage() {
   const [selectedCar, setSelectedCar] = useState<CarDef | null>(null);
   const [selectedSkin, setSelectedSkin] = useState<SkinDef | null>(null);
   // Clothing & Face state
-  type SkinSub = "skin" | "face" | "top" | "bottom" | "shoe" | "cape" | "glasses" | "gloves";
+  type SkinSub = "skin" | "face" | "top" | "bottom" | "shoe" | "cape" | "glasses" | "gloves" | "hat" | "trail";
   const [skinSub, setSkinSub] = useState<SkinSub>("skin");
   const [ownedFaces, setOwnedFaces] = useState<string[]>(["default"]);
   const [activeFaceId, setActiveFaceId] = useState("default");
@@ -363,16 +473,16 @@ export default function ShopPage() {
     { id: "top", label: "Top", icon: "👕" },
     { id: "bottom", label: "Pants", icon: "👖" },
     { id: "shoe", label: "Shoes", icon: "👟" },
+    { id: "hat", label: "Hats", icon: "🎩" },
     { id: "cape", label: "Cape", icon: "🦸" },
     { id: "glasses", label: "Glasses", icon: "🕶️" },
     { id: "gloves", label: "Gloves", icon: "🧤" },
+    { id: "trail", label: "Trails", icon: "✨" },
   ];
 
   const TABS: { id: Tab; label: string; icon: string }[] = [
     { id: "cars", label: "Cars", icon: "🏎️" },
     { id: "skins", label: "Skins", icon: "🎨" },
-    { id: "hats", label: "Hats", icon: "🎩" },
-    { id: "trails", label: "Trails", icon: "✨" },
     { id: "powerups", label: "Boost", icon: "⚡" },
     { id: "abilities", label: "Skills", icon: "🏔️" },
   ];
@@ -811,6 +921,56 @@ export default function ShopPage() {
             })}
           </motion.div>
         )}
+
+        {/* ── Hat sub ── */}
+        {skinSub === "hat" && (
+          <motion.div className="w-full max-w-md grid grid-cols-2 gap-2.5" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {HATS.map((hat, idx) => {
+              const owned = ownedHats.includes(hat.id);
+              const active = activeHat === hat.id;
+              return (
+                <motion.button key={hat.id} onClick={() => handleBuyHat(hat)}
+                  className={`bg-gradient-to-b from-white/[0.04] to-transparent border rounded-2xl p-3 flex flex-col items-center gap-2 ${active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"}`}
+                  style={active ? { boxShadow: `0 0 15px ${hat.color}25` } : undefined}
+                  whileTap={{ scale: 0.96 }} initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: idx * 0.03 }}>
+                  {/* SVG Hat Preview */}
+                  <div className="w-14 h-14 rounded-xl flex items-center justify-center" style={{ background: `radial-gradient(circle, ${hat.color}20, transparent)` }}>
+                    <HatPreview type={hat.type} color={hat.color} emissive={hat.emissive} size={48} />
+                  </div>
+                  <span className="text-white/50 text-[9px] font-bold">{hat.name}</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />EQUIPPED</span>
+                    : owned ? <span className="text-white/20 text-[8px] font-bold">EQUIP</span>
+                    : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{hat.price}</span>}
+                </motion.button>
+              );
+            })}
+          </motion.div>
+        )}
+
+        {/* ── Trail sub ── */}
+        {skinSub === "trail" && (
+          <motion.div className="w-full max-w-md grid grid-cols-2 gap-2.5" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {TRAILS.map((trail, idx) => {
+              const owned = ownedTrails.includes(trail.id);
+              const active = activeTrail === trail.id;
+              return (
+                <motion.button key={trail.id} onClick={() => handleBuyTrail(trail)}
+                  className={`bg-gradient-to-b from-white/[0.04] to-transparent border rounded-2xl p-3 flex flex-col items-center gap-2 ${active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"}`}
+                  style={active ? { boxShadow: `0 0 15px ${trail.color}25` } : undefined}
+                  whileTap={{ scale: 0.96 }} initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: idx * 0.03 }}>
+                  {/* SVG Trail Preview */}
+                  <div className="w-14 h-14 rounded-xl flex items-center justify-center" style={{ background: `radial-gradient(circle, ${trail.color}20, transparent)` }}>
+                    <TrailPreview type={trail.type} color={trail.color} emissive={trail.emissive} size={48} />
+                  </div>
+                  <span className="text-white/50 text-[9px] font-bold">{trail.name}</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />EQUIPPED</span>
+                    : owned ? <span className="text-white/20 text-[8px] font-bold">EQUIP</span>
+                    : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{trail.price}</span>}
+                </motion.button>
+              );
+            })}
+          </motion.div>
+        )}
       </>)}
 
       {/* ═══════ SKIN DETAIL MODAL ═══════ */}
@@ -910,95 +1070,6 @@ export default function ShopPage() {
         </motion.div>
       )}
 
-      {/* ═══════ HATS TAB ═══════ */}
-      {tab === "hats" && (
-        <motion.div className="w-full max-w-md grid grid-cols-2 gap-2.5"
-          initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}>
-          {HATS.map((hat, idx) => {
-            const owned = ownedHats.includes(hat.id);
-            const active = activeHat === hat.id;
-            return (
-              <motion.button
-                key={hat.id}
-                onClick={() => handleBuyHat(hat)}
-                className={`bg-gradient-to-b from-white/[0.04] to-transparent border rounded-2xl p-4 flex flex-col items-center gap-2 ${
-                  active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"
-                }`}
-                style={active ? { boxShadow: `0 0 15px ${hat.color}25` } : undefined}
-                whileHover={{ scale: 1.03 }}
-                whileTap={{ scale: 0.97 }}
-                initial={{ opacity: 0, scale: 0.9 }}
-                animate={{ opacity: 1, scale: 1 }}
-                transition={{ delay: idx * 0.04 }}
-              >
-                <div className="w-12 h-12 rounded-xl flex items-center justify-center text-2xl"
-                  style={{ background: `${hat.color}10`, boxShadow: active ? `0 0 12px ${hat.color}30` : undefined }}>
-                  {hat.icon}
-                </div>
-                <span className="text-white/40 text-[10px] font-bold">{hat.name}</span>
-                {active ? (
-                  <div className="flex items-center gap-1">
-                    <Check size={10} className="text-[#E040FB]" />
-                    <span className="text-[#E040FB] text-[9px] font-black">EQUIPPED</span>
-                  </div>
-                ) : owned ? (
-                  <span className="text-white/20 text-[9px] font-bold">EQUIP</span>
-                ) : (
-                  <div className="flex items-center gap-0.5">
-                    <Star size={9} className="text-[#E040FB]" fill="#E040FB" />
-                    <span className="text-[#E040FB] text-[10px] font-black">{hat.price}</span>
-                  </div>
-                )}
-              </motion.button>
-            );
-          })}
-        </motion.div>
-      )}
-
-      {/* ═══════ TRAILS TAB ═══════ */}
-      {tab === "trails" && (
-        <motion.div className="w-full max-w-md grid grid-cols-2 gap-2.5"
-          initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}>
-          {TRAILS.map((trail, idx) => {
-            const owned = ownedTrails.includes(trail.id);
-            const active = activeTrail === trail.id;
-            return (
-              <motion.button
-                key={trail.id}
-                onClick={() => handleBuyTrail(trail)}
-                className={`bg-gradient-to-b from-white/[0.04] to-transparent border rounded-2xl p-4 flex flex-col items-center gap-2 ${
-                  active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"
-                }`}
-                style={active ? { boxShadow: `0 0 15px ${trail.color}25` } : undefined}
-                whileHover={{ scale: 1.03 }}
-                whileTap={{ scale: 0.97 }}
-                initial={{ opacity: 0, scale: 0.9 }}
-                animate={{ opacity: 1, scale: 1 }}
-                transition={{ delay: idx * 0.04 }}
-              >
-                <div className="w-12 h-12 rounded-xl flex items-center justify-center text-2xl"
-                  style={{ background: `${trail.color}10`, boxShadow: active ? `0 0 12px ${trail.color}30` : undefined }}>
-                  {trail.icon}
-                </div>
-                <span className="text-white/40 text-[10px] font-bold">{trail.name}</span>
-                {active ? (
-                  <div className="flex items-center gap-1">
-                    <Check size={10} className="text-[#E040FB]" />
-                    <span className="text-[#E040FB] text-[9px] font-black">EQUIPPED</span>
-                  </div>
-                ) : owned ? (
-                  <span className="text-white/20 text-[9px] font-bold">EQUIP</span>
-                ) : (
-                  <div className="flex items-center gap-0.5">
-                    <Star size={9} className="text-[#E040FB]" fill="#E040FB" />
-                    <span className="text-[#E040FB] text-[10px] font-black">{trail.price}</span>
-                  </div>
-                )}
-              </motion.button>
-            );
-          })}
-        </motion.div>
-      )}
 
       {/* ═══════ ABILITIES TAB ═══════ */}
       {tab === "abilities" && (

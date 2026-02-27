@@ -15,6 +15,7 @@ import MilestonePopup from "@/components/MilestonePopup";
 import { getSkinDef, getActiveSkin } from "@/lib/skins";
 import { getActive as getClothingActive, getTopDef, getBottomDef, getShoeDef as getShoeItemDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
 import { getFaceDef, getActiveFace } from "@/lib/faces";
+import { getHatDef, getActiveHat, getTrailDef, getActiveTrail } from "@/lib/accessories";
 
 // ═══════════════════════════════════════════════
 //  TYPES
@@ -499,6 +500,11 @@ function PlayerCharacter({ plRef, prevPos }: PlayerCharProps) {
   const glassesDef = useMemo(() => { const id = getClothingActive("glasses"); return id ? getGlassesDef(id) : null; }, []);
   const gloveDef = useMemo(() => { const id = getClothingActive("gloves"); return id ? getGloveDef(id) : null; }, []);
   const face = useMemo(() => getFaceDef(getActiveFace()), []);
+  const hat = useMemo(() => { const id = getActiveHat(); return id ? getHatDef(id) : null; }, []);
+  const trail = useMemo(() => { const id = getActiveTrail(); return id ? getTrailDef(id) : null; }, []);
+
+  const trailParticles = useRef<{ x: number; y: number; z: number; life: number }[]>([]);
+  const trailRef = useRef<THREE.Group>(null);
 
   const bodyColor = topDef ? topDef.color : skin.bodyColor;
   const legColor = bottomDef ? bottomDef.color : skin.limbColor;
@@ -541,6 +547,29 @@ function PlayerCharacter({ plRef, prevPos }: PlayerCharProps) {
     if (rightLegRef.current) rightLegRef.current.rotation.x = -legSwing;
     if (leftArmRef.current) leftArmRef.current.rotation.x = armSwing;
     if (rightArmRef.current) rightArmRef.current.rotation.x = -armSwing;
+
+    // Trail particles
+    if (trail && isMoving && p.inCar < 0) {
+      trailParticles.current.push({ x: p.x, y: 0.3, z: p.z, life: 30 });
+      if (trailParticles.current.length > 20) trailParticles.current.shift();
+    }
+    trailParticles.current = trailParticles.current
+      .map(pt => ({ ...pt, life: pt.life - 1 }))
+      .filter(pt => pt.life > 0);
+    if (trailRef.current && trail) {
+      const children = trailRef.current.children;
+      for (let i = 0; i < children.length; i++) {
+        const pt = trailParticles.current[i];
+        if (pt) {
+          children[i].position.set(pt.x, pt.y + (30 - pt.life) * 0.02, pt.z);
+          children[i].visible = true;
+          const sc = pt.life / 30 * 0.6;
+          children[i].scale.set(sc, sc, sc);
+        } else {
+          children[i].visible = false;
+        }
+      }
+    }
   });
 
   return (
@@ -683,7 +712,70 @@ function PlayerCharacter({ plRef, prevPos }: PlayerCharProps) {
         {skin.particle && (
           <pointLight position={[0, 0.5, 0]} color={skin.particle} intensity={skin.emissiveIntensity * 2} distance={3} />
         )}
+
+        {/* ── HATS ── */}
+        {hat && hat.type === "crown" && (
+          <group position={[0, 1.05, 0]}>
+            <mesh><cylinderGeometry args={[0.18, 0.22, 0.1, 5]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} /></mesh>
+            {[0, 1, 2, 3, 4].map(i => <mesh key={i} position={[Math.sin((i / 5) * Math.PI * 2) * 0.17, 0.1, Math.cos((i / 5) * Math.PI * 2) * 0.17]}><boxGeometry args={[0.04, 0.08, 0.04]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity * 0.8} /></mesh>)}
+          </group>
+        )}
+        {hat && hat.type === "cap" && (
+          <group position={[0, 1.02, 0]}>
+            <mesh><cylinderGeometry args={[0.22, 0.22, 0.08, 8]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} /></mesh>
+            <mesh position={[0, 0.06, 0]}><sphereGeometry args={[0.2, 8, 4, 0, Math.PI * 2, 0, Math.PI / 2]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} /></mesh>
+            <mesh position={[0, 0, 0.22]} rotation={[-0.3, 0, 0]}><boxGeometry args={[0.3, 0.02, 0.15]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity * 0.5} /></mesh>
+          </group>
+        )}
+        {hat && hat.type === "halo" && (
+          <group position={[0, 1.15, 0]}>
+            <mesh rotation={[Math.PI / 2, 0, 0]}><torusGeometry args={[0.22, 0.03, 8, 16]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} /></mesh>
+            <pointLight color={hat.emissive} intensity={1.5} distance={3} />
+          </group>
+        )}
+        {hat && hat.type === "horns" && (
+          <group position={[0, 1.0, 0]}>
+            <mesh position={[0.14, 0.08, 0]} rotation={[0, 0, 0.4]}><coneGeometry args={[0.06, 0.22, 5]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} /></mesh>
+            <mesh position={[-0.14, 0.08, 0]} rotation={[0, 0, -0.4]}><coneGeometry args={[0.06, 0.22, 5]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} /></mesh>
+          </group>
+        )}
+        {hat && hat.type === "tophat" && (
+          <group position={[0, 1.02, 0]}>
+            <mesh><cylinderGeometry args={[0.22, 0.22, 0.04, 12]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} /></mesh>
+            <mesh position={[0, 0.18, 0]}><cylinderGeometry args={[0.15, 0.15, 0.3, 12]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} /></mesh>
+          </group>
+        )}
+        {hat && hat.type === "helmet" && (
+          <group position={[0, 0.95, 0]}>
+            <mesh><sphereGeometry args={[0.22, 8, 6, 0, Math.PI * 2, 0, Math.PI / 2]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} /></mesh>
+          </group>
+        )}
+        {hat && hat.type === "antenna" && (
+          <group position={[0, 1.02, 0]}>
+            <mesh position={[0, 0.15, 0]}><cylinderGeometry args={[0.015, 0.015, 0.3, 4]} /><meshStandardMaterial color="#888888" emissive="#444444" emissiveIntensity={0.2} /></mesh>
+            <mesh position={[0, 0.33, 0]}><sphereGeometry args={[0.06, 8, 8]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} /></mesh>
+            <pointLight position={[0, 0.33, 0]} color={hat.emissive} intensity={2} distance={3} />
+          </group>
+        )}
+        {hat && hat.type === "wizard" && (
+          <group position={[0, 1.0, 0]}>
+            <mesh><coneGeometry args={[0.22, 0.45, 6]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} /></mesh>
+            <mesh position={[0, 0.0, 0]}><cylinderGeometry args={[0.25, 0.25, 0.04, 12]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity * 0.5} /></mesh>
+          </group>
+        )}
       </group>
+
+      {/* Trail particles */}
+      {trail && (
+        <group ref={trailRef}>
+          {Array.from({ length: 20 }, (_, i) => (
+            <mesh key={i} visible={false}>
+              <sphereGeometry args={[0.15, 6, 6]} />
+              <meshStandardMaterial color={trail.color} emissive={trail.emissive} emissiveIntensity={0.8} transparent opacity={0.6} />
+            </mesh>
+          ))}
+        </group>
+      )}
     </group>
   );
 }
@@ -844,7 +936,7 @@ function MiniMap({ hudRef, missionsRef, carsRef, timeTrialRef }: { hudRef: React
 
   return (
     <canvas ref={canvasRef} width={140} height={140}
-      className="absolute top-3 right-3 z-10 rounded-xl border border-white/20 backdrop-blur-sm"
+      className="absolute top-14 right-3 z-10 rounded-xl border border-white/20 backdrop-blur-sm"
       style={{ width: 140, height: 140, background: "rgba(0,0,0,0.5)" }} />
   );
 }
@@ -1330,11 +1422,14 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
 
     // ── Time Trial logic ──
     const tt = timeTrialRef.current;
-    if (tt && tt.active && p.inCar >= 0) {
+    if (tt && tt.active) {
+      // Use car position if in car, otherwise player position
+      const ttx = p.inCar >= 0 ? carsRef.current[p.inCar].x : p.x;
+      const ttz = p.inCar >= 0 ? carsRef.current[p.inCar].z : p.z;
       if (!tt.started) {
-        // Player must drive to start marker to activate
-        const dStart = Math.sqrt((p.x - tt.startX) ** 2 + (p.z - tt.startZ) ** 2);
-        if (dStart < 6) {
+        // Player must drive/walk to start marker to activate
+        const dStart = Math.sqrt((ttx - tt.startX) ** 2 + (ttz - tt.startZ) ** 2);
+        if (dStart < 10) {
           tt.started = true;
           tt.timeLeft = TIME_TRIAL_DURATION;
           hud.msg = "TIME TRIAL STARTED! Go!"; hud.msgT = 2;
@@ -1348,7 +1443,7 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
           hud.msg = "TIME TRIAL FAILED!"; hud.msgT = 3;
         } else {
           const cp = tt.checkpoints[tt.currentCP];
-          if (cp && Math.sqrt((p.x - cp.x) ** 2 + (p.z - cp.z) ** 2) < 6) {
+          if (cp && Math.sqrt((ttx - cp.x) ** 2 + (ttz - cp.z) ** 2) < 10) {
             tt.currentCP++;
             if (tt.currentCP >= tt.checkpoints.length) {
               tt.active = false; tt.completed = true;
@@ -1648,8 +1743,7 @@ export default function CityDrivePage() {
   const [hasSave, setHasSave] = useState(initSave);
   const joystickKnobRef = useRef<HTMLDivElement>(null);
   const timeTrialRef = useRef<TimeTrial | null>(null);
-  const timeTrialCooldown = useRef(180); // seconds until first trial spawns (3 min)
-  const timeTrialUsed = useRef(0); // count of time trials used this game (max 2)
+  const timeTrialUsed = useRef(0); // max 2 per game
 
   const keysRef = useRef(new Set<string>());
   const touchRef = useRef({ active: false, sx: 0, sy: 0, cx: 0, cy: 0 });
@@ -1674,22 +1768,18 @@ export default function CityDrivePage() {
       setHudTick(t => t + 1);
       // Sync car data
 
-      // Time trial spawn logic (max 2 per game, 3 min cooldown)
+      // Time trial spawn logic (max 2 per game, no cooldown - always available)
       // Spawns a start marker on the map; player must drive there to activate
       if (!timeTrialRef.current && timeTrialUsed.current < 2) {
-        timeTrialCooldown.current -= 0.25;
-        if (timeTrialCooldown.current <= 0) {
-          const startPos = roadPos3D();
-          const cps: { x: number; z: number }[] = [];
-          for (let j = 0; j < TIME_TRIAL_CPS; j++) cps.push(roadPos3D());
-          timeTrialRef.current = {
-            checkpoints: cps, currentCP: 0, timeLeft: TIME_TRIAL_DURATION,
-            active: true, reward: TIME_TRIAL_REWARD, completed: false,
-            startX: startPos.x, startZ: startPos.z, started: false,
-          };
-          timeTrialUsed.current++;
-          timeTrialCooldown.current = 180;
-        }
+        const startPos = roadPos3D();
+        const cps: { x: number; z: number }[] = [];
+        for (let j = 0; j < TIME_TRIAL_CPS; j++) cps.push(roadPos3D());
+        timeTrialRef.current = {
+          checkpoints: cps, currentCP: 0, timeLeft: TIME_TRIAL_DURATION,
+          active: true, reward: TIME_TRIAL_REWARD, completed: false,
+          startX: startPos.x, startZ: startPos.z, started: false,
+        };
+        timeTrialUsed.current++;
       }
     }, 250);
     return () => clearInterval(i);
@@ -1832,7 +1922,7 @@ export default function CityDrivePage() {
           )}
 
           {/* Mission list */}
-          <div className="absolute top-[155px] right-3 space-y-1.5 max-w-[150px]">
+          <div className="absolute top-[210px] right-3 space-y-1.5 max-w-[150px]">
             {missionsRef.current?.filter(m => !m.completed).map(m => (
               <div key={m.id} className="bg-black/60 backdrop-blur-sm rounded-lg px-2 py-1 border border-white/10 text-[10px]">
                 <span className="text-white/80">
