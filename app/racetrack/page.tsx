@@ -4,23 +4,18 @@ import React, { useState, useEffect, useRef, useMemo, useCallback } from "react"
 import { Canvas, useFrame, useThree } from "@react-three/fiber";
 import * as THREE from "three";
 import { motion, AnimatePresence } from "framer-motion";
-import { ArrowLeft, Trophy, Lock, Star, Check } from "lucide-react";
+import { ArrowLeft, Trophy, Lock, Check } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import RewardReveal from "@/components/RewardReveal";
 import MilestonePopup from "@/components/MilestonePopup";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, updateStats } from "@/lib/milestones";
-import { getSkinDef, getActiveSkin } from "@/lib/skins";
-import { getActive as getClothingActive, getTopDef, getBottomDef, getShoeDef as getShoeItemDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
-import { getFaceDef, getActiveFace } from "@/lib/faces";
-import { getHatDef, getActiveHat, getTrailDef, getActiveTrail } from "@/lib/accessories";
-import { getSpecialCardCount } from "@/lib/specialCards";
 
 // ═══════════════════════════════════════════════
 //  TYPES & CONSTANTS
 // ═══════════════════════════════════════════════
-type GameState = "menu" | "countdown" | "playing" | "complete" | "failed" | "reward";
+type GameState = "menu" | "countdown" | "playing" | "complete" | "failed" | "flipped" | "reward";
 
 interface CarType {
   id: string; name: string; price: number; color: string;
@@ -44,215 +39,613 @@ function getCompletedLevels(): number[] {
   try { return JSON.parse(localStorage.getItem(LEVEL_KEY) || "[]"); } catch { return []; }
 }
 function markLevelComplete(level: number) {
-  const completed = getCompletedLevels();
-  if (!completed.includes(level)) {
-    completed.push(level);
-    localStorage.setItem(LEVEL_KEY, JSON.stringify(completed));
-  }
+  const c = getCompletedLevels();
+  if (!c.includes(level)) { c.push(level); localStorage.setItem(LEVEL_KEY, JSON.stringify(c)); }
 }
+
+const STREAK_KEY = "racetrack_winstreak";
+function getWinStreak(): number { try { return parseInt(localStorage.getItem(STREAK_KEY) || "0"); } catch { return 0; } }
+function setWinStreak(n: number) { localStorage.setItem(STREAK_KEY, String(n)); }
 
 const NITRO_MAX = 100;
 const NITRO_DRAIN = 35;
 const NITRO_BOOST = 1.6;
 
 // ═══════════════════════════════════════════════
-//  LEVEL DEFINITIONS (20 levels)
+//  AI RACER DEFINITIONS
 // ═══════════════════════════════════════════════
-interface Obstacle {
-  x: number; z: number; w: number; d: number; h: number;
-  color: string;
-  moving?: { axis: "x" | "z"; range: number; speed: number };
+const AI_NAMES = ["Blaze", "Shadow", "Viper", "Storm", "Ghost", "Fury"];
+const AI_COLORS = ["#FF4444", "#333366", "#22CC44", "#FF8800", "#AAAAAA", "#CC00CC"];
+
+// ═══════════════════════════════════════════════
+//  TRACK DEFINITIONS (20 levels - circuit tracks)
+// ═══════════════════════════════════════════════
+interface OilSlick { x: number; z: number; r: number }
+interface TrackDef {
+  id: number; name: string;
+  waypoints: { x: number; z: number }[];
+  width: number; laps: number;
+  oilSlicks: OilSlick[];
 }
 
-interface Checkpoint {
-  x: number; z: number;
-}
+function generateTrack(id: number): TrackDef {
+  const w = 12 + id * 0.5; // road width grows slightly
+  const laps = id <= 5 ? 2 : id <= 12 ? 3 : id <= 18 ? 3 : 4;
+  const scale = 40 + id * 8; // tracks get bigger
+  const oilSlicks: OilSlick[] = [];
 
-interface LevelDef {
-  id: number;
-  name: string;
-  trackWidth: number;
-  trackLength: number;
-  timeLimit: number; // seconds
-  obstacles: Obstacle[];
-  checkpoints: Checkpoint[];
-  startX: number;
-  startZ: number;
-  finishX: number;
-  finishZ: number;
-}
+  // Different track shapes for each level
+  let pts: { x: number; z: number }[] = [];
 
-function generateLevel(id: number): LevelDef {
-  const difficulty = id; // 1-20
-  const trackW = 20 + difficulty * 2; // wider tracks at higher levels
-  const trackL = 150 + difficulty * 40; // longer tracks at higher levels
-  const timeLimit = 30 + difficulty * 5; // more time for longer tracks
-  const obstacleCount = 3 + difficulty * 2; // more obstacles
-
-  const obstacles: Obstacle[] = [];
-  const checkpoints: Checkpoint[] = [];
-
-  // Generate checkpoints evenly along the track
-  const cpCount = 3 + Math.floor(difficulty / 4);
-  for (let i = 1; i <= cpCount; i++) {
-    checkpoints.push({ x: 0, z: -(trackL / (cpCount + 1)) * i });
+  switch (id) {
+    case 1: // Simple Oval
+      pts = ellipse(scale * 1.3, scale * 0.7, 16);
+      break;
+    case 2: // Rectangle
+      pts = [
+        { x: -scale, z: -scale * 0.6 }, { x: -scale, z: scale * 0.6 },
+        { x: scale, z: scale * 0.6 }, { x: scale, z: -scale * 0.6 },
+      ];
+      break;
+    case 3: // Kidney Bean
+      pts = kidney(scale, 20);
+      break;
+    case 4: // Triangle
+      pts = [
+        { x: 0, z: -scale * 1.2 },
+        { x: -scale, z: scale * 0.6 },
+        { x: scale, z: scale * 0.6 },
+      ];
+      break;
+    case 5: // S-Curve circuit
+      pts = sCurve(scale, 20);
+      break;
+    case 6: // Long Oval with chicane
+      pts = ovalChicane(scale, 24);
+      break;
+    case 7: // Diamond
+      pts = [
+        { x: 0, z: -scale * 1.2 }, { x: -scale, z: 0 },
+        { x: 0, z: scale * 1.2 }, { x: scale, z: 0 },
+      ];
+      break;
+    case 8: // Teardrop
+      pts = teardrop(scale, 20);
+      break;
+    case 9: // Zigzag circuit
+      pts = zigzag(scale, 10);
+      break;
+    case 10: // Figure-8
+      pts = figure8(scale, 24);
+      break;
+    case 11: // Snake course
+      pts = snake(scale, 16);
+      break;
+    case 12: // Hairpin Alley
+      pts = hairpinAlley(scale, 14);
+      break;
+    case 13: // Stadium oval + inner chicane
+      pts = stadium(scale, 20);
+      break;
+    case 14: // Monaco tight
+      pts = monaco(scale, 18);
+      break;
+    case 15: // Speed Ring
+      pts = ellipse(scale * 1.6, scale * 1.2, 24);
+      break;
+    case 16: // Mountain hairpins
+      pts = mountain(scale, 16);
+      break;
+    case 17: // Double Loop
+      pts = doubleLoop(scale, 28);
+      break;
+    case 18: // Star
+      pts = star(scale, 5);
+      break;
+    case 19: // Technical circuit
+      pts = technical(scale, 22);
+      break;
+    case 20: // Championship Ring
+      pts = championship(scale, 30);
+      break;
+    default:
+      pts = ellipse(scale, scale * 0.7, 16);
   }
 
-  // Generate obstacles based on difficulty
-  for (let i = 0; i < obstacleCount; i++) {
-    const zPos = -(trackL / (obstacleCount + 1)) * (i + 1);
-    const obstType = (i + difficulty) % 5;
-
-    if (obstType === 0) {
-      // Wall from left side
-      const wallW = trackW * 0.4 + Math.random() * trackW * 0.2;
-      obstacles.push({
-        x: -trackW / 2 + wallW / 2, z: zPos, w: wallW, d: 1.5, h: 3,
-        color: "#FF3333",
-      });
-    } else if (obstType === 1) {
-      // Wall from right side
-      const wallW = trackW * 0.4 + Math.random() * trackW * 0.2;
-      obstacles.push({
-        x: trackW / 2 - wallW / 2, z: zPos, w: wallW, d: 1.5, h: 3,
-        color: "#FF3333",
-      });
-    } else if (obstType === 2) {
-      // Center pillar
-      obstacles.push({
-        x: (Math.random() - 0.5) * trackW * 0.5, z: zPos, w: 3, d: 3, h: 4,
-        color: "#FF6600",
-      });
-    } else if (obstType === 3 && difficulty >= 5) {
-      // Moving wall (from level 5+)
-      obstacles.push({
-        x: 0, z: zPos, w: trackW * 0.35, d: 1.5, h: 3,
-        color: "#FFD700",
-        moving: { axis: "x", range: trackW * 0.25, speed: 2 + difficulty * 0.3 },
-      });
-    } else if (obstType === 4 && difficulty >= 8) {
-      // Double moving walls (from level 8+)
-      obstacles.push({
-        x: -trackW * 0.2, z: zPos, w: trackW * 0.25, d: 1.5, h: 3,
-        color: "#FF00FF",
-        moving: { axis: "x", range: trackW * 0.15, speed: 3 + difficulty * 0.2 },
-      });
-      obstacles.push({
-        x: trackW * 0.2, z: zPos - 8, w: trackW * 0.25, d: 1.5, h: 3,
-        color: "#FF00FF",
-        moving: { axis: "x", range: trackW * 0.15, speed: -(3 + difficulty * 0.2) },
-      });
-    } else {
-      // Chicane (narrow gap)
-      const gapSize = Math.max(5, trackW * 0.3 - difficulty * 0.3);
-      const gapPos = (Math.random() - 0.5) * (trackW - gapSize) * 0.5;
-      // Left wall
-      const leftW = (trackW / 2 + gapPos - gapSize / 2);
-      if (leftW > 1) {
-        obstacles.push({
-          x: -trackW / 2 + leftW / 2, z: zPos, w: leftW, d: 1.5, h: 3,
-          color: "#00AAFF",
-        });
-      }
-      // Right wall
-      const rightW = (trackW / 2 - gapPos - gapSize / 2);
-      if (rightW > 1) {
-        obstacles.push({
-          x: trackW / 2 - rightW / 2, z: zPos, w: rightW, d: 1.5, h: 3,
-          color: "#00AAFF",
-        });
-      }
-    }
-
-    // Extra random pillars at higher difficulties
-    if (difficulty >= 10 && i % 3 === 0) {
-      obstacles.push({
-        x: (Math.random() - 0.5) * trackW * 0.6, z: zPos + 15, w: 2, d: 2, h: 5,
-        color: "#CC0000",
-      });
-    }
-
-    // Ramps at higher levels
-    if (difficulty >= 12 && i % 4 === 0) {
-      obstacles.push({
-        x: (Math.random() - 0.5) * trackW * 0.3, z: zPos + 25, w: 6, d: 8, h: 1.5,
-        color: "#00FF88",
-      });
-    }
+  // Generate oil slicks on track segments
+  const slickCount = Math.floor(id / 2) + 1;
+  for (let i = 0; i < slickCount && i < pts.length; i++) {
+    const idx = Math.floor((i + 1) * pts.length / (slickCount + 1)) % pts.length;
+    const p = pts[idx];
+    const next = pts[(idx + 1) % pts.length];
+    const mx = (p.x + next.x) / 2 + (Math.random() - 0.5) * w * 0.3;
+    const mz = (p.z + next.z) / 2 + (Math.random() - 0.5) * w * 0.3;
+    oilSlicks.push({ x: mx, z: mz, r: 2 + Math.random() * 2 });
   }
 
-  return {
-    id,
-    name: `Level ${id}`,
-    trackWidth: trackW,
-    trackLength: trackL,
-    timeLimit,
-    obstacles,
-    checkpoints,
-    startX: 0,
-    startZ: 5,
-    finishX: 0,
-    finishZ: -trackL,
-  };
+  const names = [
+    "", "Green Valley", "City Block", "Kidney Run", "Sharp Triangle", "Snake Pass",
+    "Chicane Circuit", "Diamond Cut", "Teardrop Loop", "Zigzag Zone", "Figure Eight",
+    "Serpentine", "Hairpin Hell", "Stadium Sprint", "Monaco Mini", "Speed Ring",
+    "Mountain Pass", "Double Loop", "Star Circuit", "Technical Pro", "Championship"
+  ];
+
+  return { id, name: names[id] || `Track ${id}`, waypoints: pts, width: w, laps, oilSlicks };
+}
+
+// Track shape generators
+function ellipse(rx: number, rz: number, n: number): { x: number; z: number }[] {
+  return Array.from({ length: n }, (_, i) => {
+    const a = (i / n) * Math.PI * 2;
+    return { x: Math.cos(a) * rx, z: Math.sin(a) * rz };
+  });
+}
+
+function kidney(s: number, n: number): { x: number; z: number }[] {
+  return Array.from({ length: n }, (_, i) => {
+    const a = (i / n) * Math.PI * 2;
+    const r = s * (1 + 0.4 * Math.cos(a));
+    return { x: Math.cos(a) * r, z: Math.sin(a) * s * 0.7 };
+  });
+}
+
+function sCurve(s: number, n: number): { x: number; z: number }[] {
+  return Array.from({ length: n }, (_, i) => {
+    const t = (i / n) * Math.PI * 2;
+    return { x: Math.sin(t) * s + Math.sin(2 * t) * s * 0.3, z: Math.cos(t) * s * 1.2 };
+  });
+}
+
+function ovalChicane(s: number, n: number): { x: number; z: number }[] {
+  return Array.from({ length: n }, (_, i) => {
+    const t = (i / n) * Math.PI * 2;
+    const rx = s * 1.5;
+    const rz = s * 0.7;
+    let x = Math.cos(t) * rx;
+    let z = Math.sin(t) * rz;
+    // Add chicane bump in the middle
+    if (t > Math.PI * 0.4 && t < Math.PI * 0.6) {
+      x += Math.sin((t - Math.PI * 0.4) / 0.2 * Math.PI) * s * 0.3;
+    }
+    return { x, z };
+  });
+}
+
+function teardrop(s: number, n: number): { x: number; z: number }[] {
+  return Array.from({ length: n }, (_, i) => {
+    const t = (i / n) * Math.PI * 2;
+    const r = s * (1 - 0.5 * Math.sin(t));
+    return { x: Math.cos(t) * r, z: Math.sin(t) * r * 0.8 };
+  });
+}
+
+function zigzag(s: number, n: number): { x: number; z: number }[] {
+  const pts: { x: number; z: number }[] = [];
+  const segs = 5;
+  const segH = s * 2 / segs;
+  for (let i = 0; i < segs; i++) {
+    const xOff = (i % 2 === 0 ? -1 : 1) * s * 0.6;
+    pts.push({ x: xOff, z: -s + i * segH });
+  }
+  // Close the loop
+  pts.push({ x: s * 0.6, z: s });
+  pts.push({ x: s * 0.8, z: s * 0.5 });
+  pts.push({ x: s * 0.8, z: -s * 0.5 });
+  pts.push({ x: -s * 0.6, z: -s });
+  pts.push({ x: -s * 0.8, z: -s * 0.5 });
+  return pts;
+}
+
+function figure8(s: number, n: number): { x: number; z: number }[] {
+  return Array.from({ length: n }, (_, i) => {
+    const t = (i / n) * Math.PI * 2;
+    return { x: Math.sin(t) * s, z: Math.sin(2 * t) * s * 0.6 };
+  });
+}
+
+function snake(s: number, n: number): { x: number; z: number }[] {
+  return Array.from({ length: n }, (_, i) => {
+    const t = (i / n) * Math.PI * 2;
+    return { x: Math.sin(t) * s + Math.sin(3 * t) * s * 0.25, z: Math.cos(t) * s * 1.1 };
+  });
+}
+
+function hairpinAlley(s: number, n: number): { x: number; z: number }[] {
+  const pts: { x: number; z: number }[] = [];
+  const rows = 4;
+  for (let r = 0; r < rows; r++) {
+    const z = -s + r * (2 * s / rows);
+    const dir = r % 2 === 0 ? 1 : -1;
+    pts.push({ x: dir * s * 0.7, z });
+    pts.push({ x: -dir * s * 0.7, z: z + s / rows });
+  }
+  // Close
+  pts.push({ x: s * 0.7, z: s });
+  pts.push({ x: s * 0.9, z: 0 });
+  return pts;
+}
+
+function stadium(s: number, n: number): { x: number; z: number }[] {
+  return Array.from({ length: n }, (_, i) => {
+    const t = (i / n) * Math.PI * 2;
+    let x = Math.cos(t) * s * 1.3;
+    let z = Math.sin(t) * s * 0.8;
+    if (t > Math.PI * 0.8 && t < Math.PI * 1.2) {
+      x += Math.sin((t - Math.PI * 0.8) / 0.4 * Math.PI) * s * 0.4;
+      z += Math.cos((t - Math.PI * 0.8) / 0.4 * Math.PI) * s * 0.2;
+    }
+    return { x, z };
+  });
+}
+
+function monaco(s: number, n: number): { x: number; z: number }[] {
+  return Array.from({ length: n }, (_, i) => {
+    const t = (i / n) * Math.PI * 2;
+    const r = s * (0.8 + 0.3 * Math.cos(3 * t) + 0.15 * Math.sin(5 * t));
+    return { x: Math.cos(t) * r, z: Math.sin(t) * r };
+  });
+}
+
+function mountain(s: number, n: number): { x: number; z: number }[] {
+  const pts: { x: number; z: number }[] = [];
+  const switchbacks = 5;
+  for (let i = 0; i < switchbacks; i++) {
+    const z = -s + i * (2 * s / switchbacks);
+    pts.push({ x: (i % 2 === 0 ? -1 : 1) * s * 0.8, z });
+    pts.push({ x: (i % 2 === 0 ? 1 : -1) * s * 0.8, z: z + s / switchbacks * 0.5 });
+  }
+  pts.push({ x: -s * 0.5, z: s });
+  pts.push({ x: -s * 0.9, z: 0 });
+  return pts;
+}
+
+function doubleLoop(s: number, n: number): { x: number; z: number }[] {
+  return Array.from({ length: n }, (_, i) => {
+    const t = (i / n) * Math.PI * 2;
+    const x = Math.cos(t) * s * 0.7 + Math.cos(2 * t) * s * 0.5;
+    const z = Math.sin(t) * s * 0.7 + Math.sin(2 * t) * s * 0.5;
+    return { x, z };
+  });
+}
+
+function star(s: number, points: number): { x: number; z: number }[] {
+  const pts: { x: number; z: number }[] = [];
+  for (let i = 0; i < points * 2; i++) {
+    const a = (i / (points * 2)) * Math.PI * 2;
+    const r = i % 2 === 0 ? s * 1.2 : s * 0.5;
+    pts.push({ x: Math.cos(a) * r, z: Math.sin(a) * r });
+  }
+  return pts;
+}
+
+function technical(s: number, n: number): { x: number; z: number }[] {
+  return Array.from({ length: n }, (_, i) => {
+    const t = (i / n) * Math.PI * 2;
+    const r = s * (1 + 0.3 * Math.cos(4 * t) + 0.15 * Math.sin(7 * t));
+    return { x: Math.cos(t) * r, z: Math.sin(t) * r * 0.9 };
+  });
+}
+
+function championship(s: number, n: number): { x: number; z: number }[] {
+  return Array.from({ length: n }, (_, i) => {
+    const t = (i / n) * Math.PI * 2;
+    const r = s * (1.2 + 0.25 * Math.cos(3 * t) + 0.2 * Math.sin(5 * t) + 0.1 * Math.cos(7 * t));
+    return { x: Math.cos(t) * r, z: Math.sin(t) * r };
+  });
 }
 
 // ═══════════════════════════════════════════════
-//  3D RACE SCENE
+//  SPLINE UTILITIES
 // ═══════════════════════════════════════════════
+function createTrackCurve(waypoints: { x: number; z: number }[]): THREE.CatmullRomCurve3 {
+  const pts3 = waypoints.map(p => new THREE.Vector3(p.x, 0, p.z));
+  return new THREE.CatmullRomCurve3(pts3, true, "catmullrom", 0.5);
+}
+
+function sampleTrack(curve: THREE.CatmullRomCurve3, segments: number): THREE.Vector3[] {
+  return curve.getSpacedPoints(segments);
+}
+
+// ═══════════════════════════════════════════════
+//  TRACK ROAD MESH
+// ═══════════════════════════════════════════════
+function TrackRoad({ curve, width, segments }: { curve: THREE.CatmullRomCurve3; width: number; segments: number }) {
+  const geometry = useMemo(() => {
+    const pts = curve.getSpacedPoints(segments);
+    const verts: number[] = [];
+    const indices: number[] = [];
+    const uvs: number[] = [];
+
+    for (let i = 0; i <= segments; i++) {
+      const p = pts[i % pts.length];
+      const tangent = curve.getTangentAt((i % segments) / segments);
+      const normal = new THREE.Vector3(-tangent.z, 0, tangent.x).normalize();
+
+      verts.push(p.x + normal.x * width / 2, 0.02, p.z + normal.z * width / 2);
+      verts.push(p.x - normal.x * width / 2, 0.02, p.z - normal.z * width / 2);
+      uvs.push(0, i / segments * 10);
+      uvs.push(1, i / segments * 10);
+
+      if (i > 0) {
+        const idx = i * 2;
+        indices.push(idx - 2, idx, idx - 1);
+        indices.push(idx - 1, idx, idx + 1);
+      }
+    }
+
+    const geo = new THREE.BufferGeometry();
+    geo.setAttribute("position", new THREE.Float32BufferAttribute(verts, 3));
+    geo.setAttribute("uv", new THREE.Float32BufferAttribute(uvs, 2));
+    geo.setIndex(indices);
+    geo.computeVertexNormals();
+    return geo;
+  }, [curve, width, segments]);
+
+  return <mesh geometry={geometry}><meshStandardMaterial color="#3a3a55" roughness={0.8} /></mesh>;
+}
+
+// Track edge barriers
+function TrackBarriers({ curve, width, segments }: { curve: THREE.CatmullRomCurve3; width: number; segments: number }) {
+  const pts = useMemo(() => curve.getSpacedPoints(segments), [curve, segments]);
+
+  return (
+    <>
+      {pts.map((p, i) => {
+        if (i % 3 !== 0) return null;
+        const tangent = curve.getTangentAt((i % segments) / segments);
+        const normal = new THREE.Vector3(-tangent.z, 0, tangent.x).normalize();
+        const angle = Math.atan2(tangent.x, tangent.z);
+        return (
+          <React.Fragment key={i}>
+            <mesh position={[p.x + normal.x * (width / 2 + 0.3), 0.4, p.z + normal.z * (width / 2 + 0.3)]} rotation={[0, angle, 0]}>
+              <boxGeometry args={[0.4, 0.8, 2]} />
+              <meshStandardMaterial color="#FF2244" emissive="#FF2244" emissiveIntensity={0.3} />
+            </mesh>
+            <mesh position={[p.x - normal.x * (width / 2 + 0.3), 0.4, p.z - normal.z * (width / 2 + 0.3)]} rotation={[0, angle, 0]}>
+              <boxGeometry args={[0.4, 0.8, 2]} />
+              <meshStandardMaterial color="#2244FF" emissive="#2244FF" emissiveIntensity={0.3} />
+            </mesh>
+          </React.Fragment>
+        );
+      })}
+    </>
+  );
+}
+
+// Oil slick meshes
+function OilSlicks({ slicks }: { slicks: OilSlick[] }) {
+  return (
+    <>
+      {slicks.map((s, i) => (
+        <mesh key={i} rotation-x={-Math.PI / 2} position={[s.x, 0.04, s.z]}>
+          <circleGeometry args={[s.r, 16]} />
+          <meshStandardMaterial color="#1a1a0a" emissive="#332200" emissiveIntensity={0.2} transparent opacity={0.7} />
+        </mesh>
+      ))}
+    </>
+  );
+}
+
+// Start/Finish line
+function StartFinishLine({ curve, width }: { curve: THREE.CatmullRomCurve3; width: number }) {
+  const p = curve.getPointAt(0);
+  const t = curve.getTangentAt(0);
+  const angle = Math.atan2(t.x, t.z);
+  return (
+    <group position={[p.x, 0, p.z]} rotation={[0, angle, 0]}>
+      <mesh rotation-x={-Math.PI / 2} position={[0, 0.05, 0]}>
+        <planeGeometry args={[width, 2]} />
+        <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={1.5} />
+      </mesh>
+      {/* Checkered pattern pillars */}
+      <mesh position={[-width / 2 - 1, 4, 0]}><boxGeometry args={[0.5, 8, 0.5]} /><meshStandardMaterial color="#FFFFFF" /></mesh>
+      <mesh position={[width / 2 + 1, 4, 0]}><boxGeometry args={[0.5, 8, 0.5]} /><meshStandardMaterial color="#FFFFFF" /></mesh>
+      <mesh position={[0, 8.2, 0]}><boxGeometry args={[width + 2.5, 0.5, 0.5]} /><meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={1} /></mesh>
+      <pointLight position={[0, 5, 0]} color="#FFD700" intensity={3} distance={20} />
+    </group>
+  );
+}
+
+// ═══════════════════════════════════════════════
+//  CAR 3D MODEL
+// ═══════════════════════════════════════════════
+function CarMesh({ color, tilt }: { color: string; tilt?: number }) {
+  return (
+    <group rotation={[0, 0, tilt || 0]}>
+      <mesh position={[0, 0.3, 0]}><boxGeometry args={[1.8, 0.6, 3.5]} /><meshStandardMaterial color={color} emissive={color} emissiveIntensity={0.2} /></mesh>
+      <mesh position={[0, 0.7, -0.3]}><boxGeometry args={[1.5, 0.4, 1.8]} /><meshStandardMaterial color={color} emissive={color} emissiveIntensity={0.15} /></mesh>
+      <mesh position={[0, 0.6, 0.8]}><boxGeometry args={[1.4, 0.35, 0.05]} /><meshStandardMaterial color="#1a1a2e" transparent opacity={0.7} /></mesh>
+      <mesh position={[0.6, 0.3, 1.75]}><boxGeometry args={[0.3, 0.15, 0.05]} /><meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={2} /></mesh>
+      <mesh position={[-0.6, 0.3, 1.75]}><boxGeometry args={[0.3, 0.15, 0.05]} /><meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={2} /></mesh>
+      <mesh position={[0.6, 0.3, -1.75]}><boxGeometry args={[0.3, 0.15, 0.05]} /><meshStandardMaterial color="#FF0000" emissive="#FF0000" emissiveIntensity={1} /></mesh>
+      <mesh position={[-0.6, 0.3, -1.75]}><boxGeometry args={[0.3, 0.15, 0.05]} /><meshStandardMaterial color="#FF0000" emissive="#FF0000" emissiveIntensity={1} /></mesh>
+      {[[-0.95, 0, 1], [0.95, 0, 1], [-0.95, 0, -1], [0.95, 0, -1]].map(([wx, wy, wz], wi) => (
+        <mesh key={wi} position={[wx, wy, wz]} rotation={[0, 0, Math.PI / 2]}>
+          <cylinderGeometry args={[0.3, 0.3, 0.2, 8]} />
+          <meshStandardMaterial color="#1a1a1a" />
+        </mesh>
+      ))}
+    </group>
+  );
+}
+
+// ═══════════════════════════════════════════════
+//  RACE SCENE
+// ═══════════════════════════════════════════════
+interface RacerState {
+  x: number; z: number; angle: number; speed: number;
+  trackProgress: number; // 0..1 along curve per lap
+  lap: number;
+  tilt: number; // for flip visual
+  maxSpeed: number; accel: number; handling: number;
+  color: string; name: string;
+  aggressive: number; // 0..1
+  pushVx: number; pushVz: number;
+}
+
+interface RaceHud {
+  speed: number; lap: number; totalLaps: number;
+  position: number; totalRacers: number;
+  nitro: number; nitroActive: boolean;
+  time: number; onOil: boolean;
+  playerTilt: number;
+}
+
 interface RaceSceneProps {
-  level: LevelDef;
+  track: TrackDef;
   carType: CarType;
   running: boolean;
-  onFinish: (time: number, cps: number) => void;
-  onFail: () => void;
-  hudRef: React.RefObject<{ speed: number; time: number; cp: number; totalCp: number; nitro: number; nitroActive: boolean }>;
+  onFinish: (position: number, time: number) => void;
+  onFlipped: () => void;
+  hudRef: React.RefObject<RaceHud>;
   nitroActiveRef: React.RefObject<boolean>;
   keysRef: React.RefObject<Set<string>>;
   touchRef: React.RefObject<{ active: boolean; sx: number; sy: number; cx: number; cy: number }>;
 }
 
-const RaceScene = React.memo(function RaceScene({ level, carType, running, onFinish, onFail, hudRef, nitroActiveRef, keysRef, touchRef }: RaceSceneProps) {
+const RaceScene = React.memo(function RaceScene({ track, carType, running, onFinish, onFlipped, hudRef, nitroActiveRef, keysRef, touchRef }: RaceSceneProps) {
   const { camera } = useThree();
-  const carRef = useRef({ x: level.startX, z: level.startZ, angle: Math.PI, speed: 0 });
-  const carMeshRef = useRef<THREE.Group>(null);
-  const timerRef = useRef(level.timeLimit);
-  const cpRef = useRef(0);
+  const curve = useMemo(() => createTrackCurve(track.waypoints), [track]);
+  const trackPoints = useMemo(() => sampleTrack(curve, 200), [curve]);
+  const SEGS = 200;
+
+  // Player state
+  const playerRef = useRef<RacerState>({
+    x: trackPoints[0].x, z: trackPoints[0].z,
+    angle: Math.atan2(trackPoints[1].x - trackPoints[0].x, trackPoints[1].z - trackPoints[0].z),
+    speed: 0, trackProgress: 0, lap: 0, tilt: 0,
+    maxSpeed: carType.maxSpeed, accel: carType.accel, handling: carType.handling,
+    color: carType.color, name: "You", aggressive: 0, pushVx: 0, pushVz: 0,
+  });
+
+  // AI racers
+  const aiRef = useRef<RacerState[]>(AI_NAMES.map((name, i) => {
+    // Stagger start positions behind player
+    const startIdx = Math.max(0, SEGS - (i + 1) * 3);
+    const sp = trackPoints[startIdx % trackPoints.length];
+    const spNext = trackPoints[(startIdx + 1) % trackPoints.length];
+    // Scale AI speed: racer 0 is weakest, racer 5 is strongest (2-3 km/h slower than player)
+    const strengthFactor = 0.78 + i * 0.035; // 0.78, 0.815, 0.85, 0.885, 0.92, 0.955
+    const topAiSpeed = carType.maxSpeed - 0.7; // strongest AI is ~2.5 km/h slower in display
+    const aiMaxSpeed = i === 5 ? topAiSpeed : carType.maxSpeed * strengthFactor;
+    return {
+      x: sp.x + (Math.random() - 0.5) * 4, z: sp.z + (Math.random() - 0.5) * 4,
+      angle: Math.atan2(spNext.x - sp.x, spNext.z - sp.z),
+      speed: 0, trackProgress: startIdx / SEGS, lap: 0, tilt: 0,
+      maxSpeed: aiMaxSpeed,
+      accel: carType.accel * (0.8 + i * 0.03),
+      handling: 2.5 + i * 0.15,
+      color: AI_COLORS[i], name,
+      aggressive: i === 5 ? 0.9 : i === 4 ? 0.5 : 0.2 + i * 0.05,
+      pushVx: 0, pushVz: 0,
+    };
+  }));
+
+  const playerMeshRef = useRef<THREE.Group>(null);
+  const aiMeshRefs = useRef<(THREE.Group | null)[]>(new Array(6).fill(null));
   const finishedRef = useRef(false);
-  const obstacleTimerRef = useRef(0);
+  const timerRef = useRef(0);
+  const prevLapRef = useRef(0);
+
+  // Oil slick effect
+  const onOilRef = useRef(false);
+  const oilTimerRef = useRef(0);
+
+  // Find closest track point for a position
+  const getTrackProgress = useCallback((x: number, z: number) => {
+    let bestDist = Infinity;
+    let bestIdx = 0;
+    for (let i = 0; i < trackPoints.length; i++) {
+      const dx = x - trackPoints[i].x;
+      const dz = z - trackPoints[i].z;
+      const d = dx * dx + dz * dz;
+      if (d < bestDist) { bestDist = d; bestIdx = i; }
+    }
+    return bestIdx / trackPoints.length;
+  }, [trackPoints]);
+
+  // Check if position is on track
+  const isOnTrack = useCallback((x: number, z: number): boolean => {
+    let minDist = Infinity;
+    for (let i = 0; i < trackPoints.length; i++) {
+      const dx = x - trackPoints[i].x;
+      const dz = z - trackPoints[i].z;
+      const d = Math.sqrt(dx * dx + dz * dz);
+      if (d < minDist) minDist = d;
+    }
+    return minDist < track.width / 2 + 2;
+  }, [trackPoints, track.width]);
+
+  // Check oil slick
+  const checkOil = useCallback((x: number, z: number): boolean => {
+    for (const s of track.oilSlicks) {
+      const dx = x - s.x;
+      const dz = z - s.z;
+      if (Math.sqrt(dx * dx + dz * dz) < s.r) return true;
+    }
+    return false;
+  }, [track.oilSlicks]);
+
+  // Calculate race position
+  const getPosition = useCallback((allRacers: RacerState[]): number => {
+    const player = allRacers[0];
+    const playerScore = player.lap + player.trackProgress;
+    let pos = 1;
+    for (let i = 1; i < allRacers.length; i++) {
+      const aiScore = allRacers[i].lap + allRacers[i].trackProgress;
+      if (aiScore > playerScore) pos++;
+    }
+    return pos;
+  }, []);
+
+  // Get turn sharpness at current position
+  const getTurnSharpness = useCallback((progress: number): number => {
+    const idx = Math.floor(progress * trackPoints.length) % trackPoints.length;
+    const prev = trackPoints[(idx - 1 + trackPoints.length) % trackPoints.length];
+    const curr = trackPoints[idx];
+    const next = trackPoints[(idx + 1) % trackPoints.length];
+    const v1x = curr.x - prev.x, v1z = curr.z - prev.z;
+    const v2x = next.x - curr.x, v2z = next.z - curr.z;
+    const cross = Math.abs(v1x * v2z - v1z * v2x);
+    const dot = v1x * v2x + v1z * v2z;
+    const len1 = Math.sqrt(v1x * v1x + v1z * v1z);
+    const len2 = Math.sqrt(v2x * v2x + v2z * v2z);
+    if (len1 < 0.01 || len2 < 0.01) return 0;
+    return cross / (len1 * len2);
+  }, [trackPoints]);
 
   useFrame((_, delta) => {
     if (!running || finishedRef.current) return;
     const dt = Math.min(delta, 0.05);
-    const car = carRef.current;
+    timerRef.current += dt;
+    const player = playerRef.current;
+    const ais = aiRef.current;
     const keys = keysRef.current;
     const touch = touchRef.current;
     const hud = hudRef.current;
 
-    // Timer
-    timerRef.current -= dt;
-    if (timerRef.current <= 0) {
-      finishedRef.current = true;
-      onFail();
-      return;
-    }
-    hud.time = timerRef.current;
-
-    // Input
+    // ── Player input ──
     let accelInput = 0, steerInput = 0;
     if (keys.has("w") || keys.has("ArrowUp") || keys.has("W")) accelInput = 1;
     if (keys.has("s") || keys.has("ArrowDown") || keys.has("S")) accelInput = -0.5;
     if (keys.has("a") || keys.has("ArrowLeft") || keys.has("A")) steerInput = 1;
     if (keys.has("d") || keys.has("ArrowRight") || keys.has("D")) steerInput = -1;
 
-    // Touch joystick
     if (touch.active) {
       const dx = touch.cx - touch.sx, dy = touch.cy - touch.sy;
-      const d = Math.sqrt(dx * dx + dy * dy);
-      if (d > 10) {
+      if (Math.sqrt(dx * dx + dy * dy) > 10) {
         accelInput = Math.max(-0.5, Math.min(1, -dy / 50));
         steerInput = Math.max(-1, Math.min(1, -dx / 50));
       }
     }
+
+    // Oil slick effect
+    const playerOnOil = checkOil(player.x, player.z);
+    if (playerOnOil) { onOilRef.current = true; oilTimerRef.current = 1.5; }
+    if (oilTimerRef.current > 0) oilTimerRef.current -= dt;
+    else onOilRef.current = false;
+    const handlingMult = onOilRef.current ? 0.3 : 1;
+    hud.onOil = onOilRef.current;
 
     // Nitro
     let speedMult = 1;
@@ -260,232 +653,249 @@ const RaceScene = React.memo(function RaceScene({ level, carType, running, onFin
       speedMult = NITRO_BOOST;
       hud.nitro = Math.max(0, hud.nitro - NITRO_DRAIN * dt);
     }
-
-    // Physics
-    const maxSpd = carType.maxSpeed * speedMult;
-    car.speed += accelInput * carType.accel * dt;
-    car.speed *= 0.98; // friction
-    car.speed = Math.max(-maxSpd * 0.3, Math.min(maxSpd, car.speed));
-
-    if (Math.abs(car.speed) > 1) {
-      car.angle += steerInput * carType.handling * dt * (car.speed > 0 ? 1 : -1);
-    }
-
-    const nx = car.x + Math.sin(car.angle) * car.speed * dt;
-    const nz = car.z + Math.cos(car.angle) * car.speed * dt;
-
-    // Track boundary collision
-    const halfW = level.trackWidth / 2;
-    let blocked = false;
-    if (nx < -halfW + 1.5 || nx > halfW - 1.5) {
-      blocked = true;
-      car.speed *= -0.3;
-    }
-
-    // Obstacle collision
-    obstacleTimerRef.current += dt;
-    for (const obs of level.obstacles) {
-      let ox = obs.x;
-      if (obs.moving) {
-        const t = obstacleTimerRef.current;
-        if (obs.moving.axis === "x") ox += Math.sin(t * obs.moving.speed) * obs.moving.range;
-      }
-      const hw = obs.w / 2 + 1.2, hd = obs.d / 2 + 1.2;
-      if (Math.abs(nx - ox) < hw && Math.abs(nz - obs.z) < hd) {
-        blocked = true;
-        car.speed *= -0.3;
-        break;
-      }
-    }
-
-    if (!blocked) {
-      car.x = Math.max(-halfW + 1.5, Math.min(halfW - 1.5, nx));
-      car.z = nz;
-    }
-
-    hud.speed = Math.abs(car.speed);
     hud.nitroActive = carType.canNitro && nitroActiveRef.current && hud.nitro > 0;
 
-    // Checkpoints
-    const cp = level.checkpoints[cpRef.current];
-    if (cp && Math.abs(car.x - cp.x) < halfW && Math.abs(car.z - cp.z) < 8) {
-      cpRef.current++;
-      hud.cp = cpRef.current;
-    }
-    hud.totalCp = level.checkpoints.length;
+    // ── Player physics ──
+    const pMaxSpd = player.maxSpeed * speedMult;
+    player.speed += accelInput * player.accel * dt;
+    player.speed *= 0.98;
+    player.speed = Math.max(-pMaxSpd * 0.3, Math.min(pMaxSpd, player.speed));
 
-    // Finish line
-    if (car.z <= level.finishZ + 5) {
-      finishedRef.current = true;
-      const elapsed = level.timeLimit - timerRef.current;
-      onFinish(elapsed, cpRef.current);
-      return;
+    if (Math.abs(player.speed) > 1) {
+      player.angle += steerInput * player.handling * handlingMult * dt * (player.speed > 0 ? 1 : -1);
     }
 
-    // Update car mesh
-    if (carMeshRef.current) {
-      carMeshRef.current.position.set(car.x, 0.4, car.z);
-      carMeshRef.current.rotation.y = car.angle;
+    // Apply push forces
+    player.x += player.pushVx * dt;
+    player.z += player.pushVz * dt;
+    player.pushVx *= 0.9;
+    player.pushVz *= 0.9;
+
+    let nx = player.x + Math.sin(player.angle) * player.speed * dt;
+    let nz = player.z + Math.cos(player.angle) * player.speed * dt;
+
+    // Track boundary check
+    if (!isOnTrack(nx, nz)) {
+      player.speed *= 0.5;
+      nx = player.x;
+      nz = player.z;
     }
 
-    // Camera follow
-    const camDist = 12;
-    const camH = 6;
-    const targetX = car.x - Math.sin(car.angle) * camDist;
-    const targetZ = car.z - Math.cos(car.angle) * camDist;
-    camera.position.lerp(new THREE.Vector3(targetX, camH, targetZ), 0.1);
-    camera.lookAt(car.x, 1, car.z);
+    player.x = nx;
+    player.z = nz;
+
+    // Track progress & laps
+    const newProg = getTrackProgress(player.x, player.z);
+    const prevProg = player.trackProgress;
+    // Detect lap completion (crossing from ~1.0 to ~0.0)
+    if (prevProg > 0.85 && newProg < 0.15) {
+      player.lap++;
+      if (player.lap >= track.laps) {
+        finishedRef.current = true;
+        const allRacers = [player, ...ais];
+        const pos = getPosition(allRacers);
+        onFinish(pos, timerRef.current);
+        return;
+      }
+    }
+    player.trackProgress = newProg;
+
+    // Tilt based on turn sharpness and speed
+    const turnSharp = getTurnSharpness(newProg);
+    const targetTilt = steerInput * Math.min(0.15, turnSharp * Math.abs(player.speed) * 0.01);
+    player.tilt += (targetTilt - player.tilt) * dt * 5;
+
+    // ── AI Logic ──
+    for (let i = 0; i < ais.length; i++) {
+      const ai = ais[i];
+      // Find target point on track ahead
+      const targetIdx = Math.floor(ai.trackProgress * SEGS + 5) % SEGS;
+      const target = trackPoints[targetIdx];
+      const dxT = target.x - ai.x;
+      const dzT = target.z - ai.z;
+      const angleToTarget = Math.atan2(dxT, dzT);
+
+      // Steer toward target
+      let angleDiff = angleToTarget - ai.angle;
+      while (angleDiff > Math.PI) angleDiff -= Math.PI * 2;
+      while (angleDiff < -Math.PI) angleDiff += Math.PI * 2;
+      ai.angle += angleDiff * ai.handling * dt;
+
+      // Accelerate
+      ai.speed += ai.accel * dt;
+      ai.speed *= 0.98;
+      // Slow down for sharp turns
+      const aiTurnSharp = getTurnSharpness(ai.trackProgress);
+      if (aiTurnSharp > 0.3) {
+        ai.speed *= (1 - aiTurnSharp * 0.3 * dt * 10);
+      }
+      ai.speed = Math.max(0, Math.min(ai.maxSpeed, ai.speed));
+
+      // Apply push forces
+      ai.x += ai.pushVx * dt;
+      ai.z += ai.pushVz * dt;
+      ai.pushVx *= 0.9;
+      ai.pushVz *= 0.9;
+
+      // Move
+      let ax = ai.x + Math.sin(ai.angle) * ai.speed * dt;
+      let az = ai.z + Math.cos(ai.angle) * ai.speed * dt;
+      if (!isOnTrack(ax, az)) {
+        ai.speed *= 0.5;
+      } else {
+        ai.x = ax;
+        ai.z = az;
+      }
+
+      // Track progress & laps
+      const aiNewProg = getTrackProgress(ai.x, ai.z);
+      if (ai.trackProgress > 0.85 && aiNewProg < 0.15) {
+        ai.lap++;
+        if (ai.lap >= track.laps && !finishedRef.current) {
+          // AI finished before player - race continues but they're done
+        }
+      }
+      ai.trackProgress = aiNewProg;
+
+      // AI tilt
+      const aiTargetTilt = angleDiff * Math.min(0.15, aiTurnSharp * ai.speed * 0.01);
+      ai.tilt += (aiTargetTilt - ai.tilt) * dt * 5;
+
+      // Update mesh
+      const aiMesh = aiMeshRefs.current[i];
+      if (aiMesh) {
+        aiMesh.position.set(ai.x, 0.4, ai.z);
+        aiMesh.rotation.y = ai.angle;
+      }
+    }
+
+    // ── Car-to-car collisions ──
+    const allCars = [player, ...ais];
+    for (let a = 0; a < allCars.length; a++) {
+      for (let b = a + 1; b < allCars.length; b++) {
+        const ca = allCars[a];
+        const cb = allCars[b];
+        const dx = ca.x - cb.x;
+        const dz = ca.z - cb.z;
+        const dist = Math.sqrt(dx * dx + dz * dz);
+        if (dist < 3 && dist > 0.01) {
+          // Push apart
+          const pushForce = (3 - dist) * 15;
+          const nx2 = dx / dist;
+          const nz2 = dz / dist;
+          ca.pushVx += nx2 * pushForce;
+          ca.pushVz += nz2 * pushForce;
+          cb.pushVx -= nx2 * pushForce;
+          cb.pushVz -= nz2 * pushForce;
+
+          // Aggressive AI bumps harder
+          if (b > 0 && allCars[b].aggressive > 0.5) {
+            ca.pushVx += nx2 * pushForce * allCars[b].aggressive;
+            ca.pushVz += nz2 * pushForce * allCars[b].aggressive;
+          }
+          if (a > 0 && allCars[a].aggressive > 0.5) {
+            cb.pushVx -= nx2 * pushForce * allCars[a].aggressive;
+            cb.pushVz -= nz2 * pushForce * allCars[a].aggressive;
+          }
+
+          // Flip check for player (a===0 means player)
+          if (a === 0 || b === 0) {
+            const playerCar = a === 0 ? ca : cb;
+            const otherCar = a === 0 ? cb : ca;
+            const impactSpeed = Math.abs(ca.speed) + Math.abs(cb.speed);
+            const turnSharpHere = getTurnSharpness(playerCar.trackProgress);
+            // Flip if: in a sharp turn AND strong impact
+            if (turnSharpHere > 0.25 && impactSpeed > playerCar.maxSpeed * 0.6 && pushForce > 20) {
+              playerCar.tilt = Math.PI * 0.5; // flip!
+              finishedRef.current = true;
+              onFlipped();
+              return;
+            }
+          }
+        }
+      }
+    }
+
+    // ── Update HUD ──
+    hud.speed = Math.abs(player.speed);
+    hud.lap = player.lap + 1;
+    hud.totalLaps = track.laps;
+    hud.position = getPosition(allCars);
+    hud.totalRacers = allCars.length;
+    hud.time = timerRef.current;
+    hud.playerTilt = player.tilt;
+
+    // ── Update player mesh ──
+    if (playerMeshRef.current) {
+      playerMeshRef.current.position.set(player.x, 0.4, player.z);
+      playerMeshRef.current.rotation.y = player.angle;
+    }
+
+    // ── Camera ──
+    const camDist = 14;
+    const camH = 7;
+    const tx = player.x - Math.sin(player.angle) * camDist;
+    const tz = player.z - Math.cos(player.angle) * camDist;
+    camera.position.lerp(new THREE.Vector3(tx, camH, tz), 0.08);
+    camera.lookAt(player.x, 1, player.z);
   });
 
   return (
     <>
       <color attach="background" args={["#0a0e1a"]} />
-      <fog attach="fog" args={["#0a0e1a", 80, 250]} />
+      <fog attach="fog" args={["#0a0e1a", 100, 350]} />
       <ambientLight intensity={1.2} color="#8899cc" />
       <directionalLight position={[30, 50, 20]} intensity={2} color="#eef0ff" />
       <hemisphereLight args={["#6688cc", "#334466", 0.8]} />
 
-      {/* Track ground */}
-      <mesh rotation-x={-Math.PI / 2} position={[0, -0.01, -level.trackLength / 2]}>
-        <planeGeometry args={[level.trackWidth, level.trackLength + 40]} />
-        <meshStandardMaterial color="#3a3a55" />
+      {/* Track road surface */}
+      <TrackRoad curve={curve} width={track.width} segments={SEGS} />
+
+      {/* Track barriers */}
+      <TrackBarriers curve={curve} width={track.width} segments={SEGS} />
+
+      {/* Oil slicks */}
+      <OilSlicks slicks={track.oilSlicks} />
+
+      {/* Start/Finish line */}
+      <StartFinishLine curve={curve} width={track.width} />
+
+      {/* Ground */}
+      <mesh rotation-x={-Math.PI / 2} position={[0, -0.05, 0]}>
+        <planeGeometry args={[800, 800]} />
+        <meshStandardMaterial color="#1a1a30" />
       </mesh>
 
-      {/* Track walls (transparent guide lines) */}
-      <mesh position={[-level.trackWidth / 2, 0.5, -level.trackLength / 2]}>
-        <boxGeometry args={[0.3, 1, level.trackLength + 40]} />
-        <meshStandardMaterial color="#4444FF" emissive="#4444FF" emissiveIntensity={0.5} transparent opacity={0.6} />
-      </mesh>
-      <mesh position={[level.trackWidth / 2, 0.5, -level.trackLength / 2]}>
-        <boxGeometry args={[0.3, 1, level.trackLength + 40]} />
-        <meshStandardMaterial color="#4444FF" emissive="#4444FF" emissiveIntensity={0.5} transparent opacity={0.6} />
-      </mesh>
-
-      {/* Track center line (dashed) */}
-      {Array.from({ length: Math.floor(level.trackLength / 10) }, (_, i) => (
-        <mesh key={`cl-${i}`} rotation-x={-Math.PI / 2} position={[0, 0.02, -i * 10 - 5]}>
-          <planeGeometry args={[0.15, 4]} />
-          <meshStandardMaterial color="#666688" emissive="#666688" emissiveIntensity={0.3} />
-        </mesh>
-      ))}
-
-      {/* Start line */}
-      <mesh rotation-x={-Math.PI / 2} position={[0, 0.03, level.startZ]}>
-        <planeGeometry args={[level.trackWidth - 1, 1]} />
-        <meshStandardMaterial color="#00FF88" emissive="#00FF88" emissiveIntensity={1} />
-      </mesh>
-
-      {/* Finish line */}
-      <mesh rotation-x={-Math.PI / 2} position={[0, 0.03, level.finishZ]}>
-        <planeGeometry args={[level.trackWidth - 1, 1.5]} />
-        <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={2} />
-      </mesh>
-      <pointLight position={[0, 3, level.finishZ]} color="#FFD700" intensity={3} distance={15} />
-
-      {/* Checkpoints */}
-      {level.checkpoints.map((cp, i) => {
-        const passed = i < cpRef.current;
-        return (
-          <group key={`cp-${i}`}>
-            <mesh rotation-x={-Math.PI / 2} position={[0, 0.02, cp.z]}>
-              <planeGeometry args={[level.trackWidth - 1, 0.5]} />
-              <meshStandardMaterial color={passed ? "#333344" : "#00FFAA"} emissive={passed ? "#000" : "#00FFAA"} emissiveIntensity={passed ? 0 : 0.8} />
-            </mesh>
-          </group>
-        );
-      })}
-
-      {/* Obstacles */}
-      {level.obstacles.map((obs, i) => (
-        <ObstacleMesh key={`obs-${i}`} obs={obs} timer={obstacleTimerRef} />
-      ))}
-
-      {/* Car */}
-      <group ref={carMeshRef} position={[level.startX, 0.4, level.startZ]}>
-        {/* Body */}
-        <mesh position={[0, 0.3, 0]}>
-          <boxGeometry args={[1.8, 0.6, 3.5]} />
-          <meshStandardMaterial color={carType.color} emissive={carType.color} emissiveIntensity={0.2} />
-        </mesh>
-        {/* Roof */}
-        <mesh position={[0, 0.7, -0.3]}>
-          <boxGeometry args={[1.5, 0.4, 1.8]} />
-          <meshStandardMaterial color={carType.color} emissive={carType.color} emissiveIntensity={0.15} />
-        </mesh>
-        {/* Windshield */}
-        <mesh position={[0, 0.6, 0.8]}>
-          <boxGeometry args={[1.4, 0.35, 0.05]} />
-          <meshStandardMaterial color="#1a1a2e" transparent opacity={0.7} />
-        </mesh>
-        {/* Headlights */}
-        <mesh position={[0.6, 0.3, 1.75]}><boxGeometry args={[0.3, 0.15, 0.05]} /><meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={2} /></mesh>
-        <mesh position={[-0.6, 0.3, 1.75]}><boxGeometry args={[0.3, 0.15, 0.05]} /><meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={2} /></mesh>
-        {/* Taillights */}
-        <mesh position={[0.6, 0.3, -1.75]}><boxGeometry args={[0.3, 0.15, 0.05]} /><meshStandardMaterial color="#FF0000" emissive="#FF0000" emissiveIntensity={1} /></mesh>
-        <mesh position={[-0.6, 0.3, -1.75]}><boxGeometry args={[0.3, 0.15, 0.05]} /><meshStandardMaterial color="#FF0000" emissive="#FF0000" emissiveIntensity={1} /></mesh>
-        {/* Wheels */}
-        {[[-0.95, 0, 1], [0.95, 0, 1], [-0.95, 0, -1], [0.95, 0, -1]].map(([wx, wy, wz], wi) => (
-          <mesh key={wi} position={[wx, wy, wz]} rotation={[0, 0, Math.PI / 2]}>
-            <cylinderGeometry args={[0.3, 0.3, 0.2, 8]} />
-            <meshStandardMaterial color="#1a1a1a" />
-          </mesh>
-        ))}
-        {/* Headlight beams */}
+      {/* Player car */}
+      <group ref={playerMeshRef} position={[trackPoints[0].x, 0.4, trackPoints[0].z]}>
+        <CarMesh color={carType.color} tilt={playerRef.current.tilt} />
         <spotLight position={[0, 0.5, 2]} target-position={[0, 0, 10]} angle={0.5} intensity={2} distance={20} color="#FFE4B5" />
       </group>
 
-      {/* Side scenery - barriers and lights */}
-      {Array.from({ length: Math.floor(level.trackLength / 20) }, (_, i) => (
-        <group key={`scenery-${i}`}>
-          {/* Left light post */}
-          <mesh position={[-level.trackWidth / 2 - 2, 2.5, -i * 20 - 10]}>
-            <cylinderGeometry args={[0.1, 0.1, 5, 4]} />
-            <meshStandardMaterial color="#333344" />
-          </mesh>
-          <pointLight position={[-level.trackWidth / 2 - 2, 5, -i * 20 - 10]} color="#8888FF" intensity={1} distance={15} />
-          {/* Right light post */}
-          <mesh position={[level.trackWidth / 2 + 2, 2.5, -i * 20 - 10]}>
-            <cylinderGeometry args={[0.1, 0.1, 5, 4]} />
-            <meshStandardMaterial color="#333344" />
-          </mesh>
-          <pointLight position={[level.trackWidth / 2 + 2, 5, -i * 20 - 10]} color="#8888FF" intensity={1} distance={15} />
+      {/* AI cars */}
+      {aiRef.current.map((ai, i) => (
+        <group key={i} ref={(el: THREE.Group | null) => { aiMeshRefs.current[i] = el; }}>
+          <CarMesh color={ai.color} tilt={ai.tilt} />
         </group>
       ))}
 
-      {/* Ground outside track */}
-      <mesh rotation-x={-Math.PI / 2} position={[0, -0.05, -level.trackLength / 2]}>
-        <planeGeometry args={[200, level.trackLength + 100]} />
-        <meshStandardMaterial color="#1a1a30" />
-      </mesh>
+      {/* Track-side lights */}
+      {trackPoints.filter((_, i) => i % 15 === 0).map((p, i) => {
+        const tangent = curve.getTangentAt(((i * 15) % SEGS) / SEGS);
+        const normal = new THREE.Vector3(-tangent.z, 0, tangent.x).normalize();
+        return (
+          <group key={`light-${i}`}>
+            <mesh position={[p.x + normal.x * (track.width / 2 + 3), 3, p.z + normal.z * (track.width / 2 + 3)]}>
+              <cylinderGeometry args={[0.08, 0.08, 6, 4]} />
+              <meshStandardMaterial color="#333344" />
+            </mesh>
+            <pointLight position={[p.x + normal.x * (track.width / 2 + 3), 6, p.z + normal.z * (track.width / 2 + 3)]} color="#8888FF" intensity={0.8} distance={18} />
+          </group>
+        );
+      })}
     </>
   );
 });
-
-// Obstacle mesh with optional movement
-function ObstacleMesh({ obs, timer }: { obs: Obstacle; timer: React.RefObject<number> }) {
-  const meshRef = useRef<THREE.Mesh>(null);
-
-  useFrame(() => {
-    if (!meshRef.current || !obs.moving) return;
-    const t = timer.current;
-    if (obs.moving.axis === "x") {
-      meshRef.current.position.x = obs.x + Math.sin(t * obs.moving.speed) * obs.moving.range;
-    }
-  });
-
-  return (
-    <mesh ref={meshRef} position={[obs.x, obs.h / 2, obs.z]}>
-      <boxGeometry args={[obs.w, obs.h, obs.d]} />
-      <meshStandardMaterial
-        color={obs.color}
-        emissive={obs.color}
-        emissiveIntensity={obs.moving ? 0.5 : 0.2}
-        transparent={!!obs.moving}
-        opacity={obs.moving ? 0.85 : 1}
-      />
-    </mesh>
-  );
-}
 
 // ═══════════════════════════════════════════════
 //  MAIN COMPONENT
@@ -495,8 +905,8 @@ export default function RacetrackPage() {
   const [gameState, setGameState] = useState<GameState>("menu");
   const [selectedLevel, setSelectedLevel] = useState(1);
   const [countdown, setCountdown] = useState(3);
+  const [finishPosition, setFinishPosition] = useState(1);
   const [finishTime, setFinishTime] = useState(0);
-  const [finishCPs, setFinishCPs] = useState(0);
   const [cardSaved, setCardSaved] = useState(false);
   const [showMilestone, setShowMilestone] = useState(false);
   const [hudTick, setHudTick] = useState(0);
@@ -505,10 +915,13 @@ export default function RacetrackPage() {
   const keysRef = useRef(new Set<string>());
   const touchRef = useRef({ active: false, sx: 0, sy: 0, cx: 0, cy: 0 });
   const nitroActiveRef = useRef(false);
-  const hudRef = useRef({ speed: 0, time: 0, cp: 0, totalCp: 0, nitro: NITRO_MAX, nitroActive: false });
+  const hudRef = useRef<RaceHud>({
+    speed: 0, lap: 1, totalLaps: 2, position: 7, totalRacers: 7,
+    nitro: NITRO_MAX, nitroActive: false, time: 0, onOil: false, playerTilt: 0,
+  });
 
   const carType = useMemo(() => getCarType(getActiveCar()), []);
-  const level = useMemo(() => generateLevel(selectedLevel), [selectedLevel]);
+  const track = useMemo(() => generateTrack(selectedLevel), [selectedLevel]);
   const completedLevels = typeof window !== "undefined" ? getCompletedLevels() : [];
 
   // HUD refresh
@@ -544,57 +957,60 @@ export default function RacetrackPage() {
   // Card save
   useEffect(() => {
     if (gameState !== "reward" || cardSaved) return;
-    const totalTime = level.timeLimit;
-    const timeScore = Math.max(0, totalTime - finishTime);
-    const cpBonus = finishCPs * 20;
-    const score = Math.round(timeScore * 10 + cpBonus + selectedLevel * 50);
-    const total = Math.round(totalTime * 10 + level.checkpoints.length * 20 + selectedLevel * 50);
-    const rarity = calculateRarity(Math.min(score, total), total, 1);
+    // Position-based rarity: 1st = gold (guaranteed high), 2nd = silver, 3rd+ = lower
+    const posScore = finishPosition === 1 ? 95 : finishPosition === 2 ? 75 : finishPosition === 3 ? 55 : Math.max(10, 50 - finishPosition * 5);
+    const rarity = calculateRarity(posScore, 100, 1);
+
     saveCard({
       id: generateCardId(),
       game: "racetrack",
-      theme: `level-${selectedLevel}`,
+      theme: `race-${selectedLevel}-p${finishPosition}`,
       rarity,
-      score,
-      total,
+      score: posScore,
+      total: 100,
       date: new Date().toISOString(),
     });
     incrementTotalGames();
     updateStats({});
-    markLevelComplete(selectedLevel);
+
+    // Win streak for legendary
+    if (finishPosition === 1) {
+      markLevelComplete(selectedLevel);
+      const streak = getWinStreak() + 1;
+      setWinStreak(streak);
+    } else {
+      setWinStreak(0);
+    }
+
     setCardSaved(true);
-  }, [gameState, cardSaved, finishTime, finishCPs, selectedLevel, level]);
+  }, [gameState, cardSaved, finishPosition, selectedLevel]);
 
   const startLevel = (lvl: number) => {
     setSelectedLevel(lvl);
     setCountdown(3);
     setCardSaved(false);
-    hudRef.current = { speed: 0, time: level.timeLimit, cp: 0, totalCp: 0, nitro: NITRO_MAX, nitroActive: false };
+    hudRef.current = { speed: 0, lap: 1, totalLaps: track.laps, position: 7, totalRacers: 7, nitro: NITRO_MAX, nitroActive: false, time: 0, onOil: false, playerTilt: 0 };
     nitroActiveRef.current = false;
     setGameState("countdown");
   };
 
-  const handleFinish = useCallback((time: number, cps: number) => {
+  const handleFinish = useCallback((position: number, time: number) => {
+    setFinishPosition(position);
     setFinishTime(time);
-    setFinishCPs(cps);
     setGameState("complete");
   }, []);
 
-  const handleFail = useCallback(() => {
-    setGameState("failed");
+  const handleFlipped = useCallback(() => {
+    setGameState("flipped");
   }, []);
 
-  const totalScore = useMemo(() => {
-    const totalTime = level.timeLimit;
-    const timeScore = Math.max(0, totalTime - finishTime);
-    return Math.round(timeScore * 10 + finishCPs * 20 + selectedLevel * 50);
-  }, [finishTime, finishCPs, selectedLevel, level]);
+  const posLabel = finishPosition === 1 ? "1st" : finishPosition === 2 ? "2nd" : finishPosition === 3 ? "3rd" : `${finishPosition}th`;
+  const posColor = finishPosition === 1 ? "#FFD700" : finishPosition === 2 ? "#C0C0C0" : finishPosition === 3 ? "#CD7F32" : "#888";
+  const cardType = finishPosition === 1 ? "GOLD" : finishPosition === 2 ? "SILVER" : finishPosition === 3 ? "BRONZE" : "COMMON";
 
-  const totalForRarity = useMemo(() => {
-    return Math.round(level.timeLimit * 10 + level.checkpoints.length * 20 + selectedLevel * 50);
-  }, [level, selectedLevel]);
-
-  const rarity = useMemo(() => calculateRarity(Math.min(totalScore, totalForRarity), totalForRarity, 1), [totalScore, totalForRarity]);
+  const posScore = finishPosition === 1 ? 95 : finishPosition === 2 ? 75 : finishPosition === 3 ? 55 : Math.max(10, 50 - finishPosition * 5);
+  const rarity = useMemo(() => calculateRarity(posScore, 100, 1), [posScore]);
+  const winStreak = typeof window !== "undefined" ? getWinStreak() : 0;
 
   const hud = hudRef.current;
 
@@ -605,20 +1021,16 @@ export default function RacetrackPage() {
       {gameState === "menu" && (
         <div className="absolute inset-0 z-20 flex flex-col items-center overflow-y-auto pb-8">
           <div className="w-full max-w-md px-4 pt-6">
-            {/* Header */}
             <div className="flex items-center justify-between mb-6">
               <Link href="/citydrive">
-                <motion.div className="bg-white/5 border border-white/8 p-2.5 rounded-xl cursor-pointer"
-                  whileTap={{ scale: 0.9 }}>
+                <motion.div className="bg-white/5 border border-white/8 p-2.5 rounded-xl cursor-pointer" whileTap={{ scale: 0.9 }}>
                   <ArrowLeft size={18} className="text-white/60" />
                 </motion.div>
               </Link>
               <h1 className="text-white font-black text-xl tracking-wide flex items-center gap-2">
                 <Trophy size={20} className="text-[#BB44FF]" /> RACE TRACK
               </h1>
-              <div className="text-white/30 text-xs font-bold">
-                {carType.name}
-              </div>
+              <div className="text-white/30 text-xs font-bold">{carType.name}</div>
             </div>
 
             {/* Car info */}
@@ -627,7 +1039,7 @@ export default function RacetrackPage() {
                 <div className="w-10 h-10 rounded-xl flex items-center justify-center" style={{ background: `${carType.color}20` }}>
                   <div className="text-lg">🏎️</div>
                 </div>
-                <div>
+                <div className="flex-1">
                   <div className="text-white font-bold text-sm">{carType.name}</div>
                   <div className="text-white/30 text-[10px]">
                     {Math.round(carType.maxSpeed * 3.6)} km/h
@@ -635,6 +1047,11 @@ export default function RacetrackPage() {
                     {carType.canNitro ? " | Nitro" : ""}
                   </div>
                 </div>
+                {winStreak >= 1 && (
+                  <div className="bg-yellow-500/10 border border-yellow-500/30 rounded-lg px-2 py-1">
+                    <div className="text-yellow-400 text-[10px] font-black">🔥 {winStreak} STREAK</div>
+                  </div>
+                )}
               </div>
             </div>
 
@@ -644,11 +1061,10 @@ export default function RacetrackPage() {
                 const lvl = i + 1;
                 const completed = completedLevels.includes(lvl);
                 const unlocked = lvl === 1 || completedLevels.includes(lvl - 1);
+                const trackDef = generateTrack(lvl);
                 return (
-                  <motion.button
-                    key={lvl}
-                    onClick={() => unlocked && startLevel(lvl)}
-                    className={`relative aspect-square rounded-2xl border flex flex-col items-center justify-center gap-1 transition-all ${
+                  <motion.button key={lvl} onClick={() => unlocked && startLevel(lvl)}
+                    className={`relative aspect-square rounded-2xl border flex flex-col items-center justify-center gap-0.5 transition-all ${
                       completed ? "bg-[#BB44FF]/10 border-[#BB44FF]/30" :
                       unlocked ? "bg-white/[0.04] border-white/10" :
                       "bg-white/[0.02] border-white/5 opacity-40"
@@ -656,12 +1072,12 @@ export default function RacetrackPage() {
                     whileTap={unlocked ? { scale: 0.95 } : undefined}
                     initial={{ opacity: 0, scale: 0.8 }}
                     animate={{ opacity: unlocked ? 1 : 0.4, scale: 1 }}
-                    transition={{ delay: i * 0.02 }}
-                  >
+                    transition={{ delay: i * 0.02 }}>
                     {unlocked ? (
                       <>
                         <span className="text-white font-black text-lg">{lvl}</span>
-                        {completed && <Check size={12} className="text-[#BB44FF]" />}
+                        <span className="text-white/20 text-[7px] leading-tight">{trackDef.laps}L</span>
+                        {completed && <Check size={10} className="text-[#BB44FF]" />}
                       </>
                     ) : (
                       <Lock size={16} className="text-white/20" />
@@ -688,26 +1104,47 @@ export default function RacetrackPage() {
       {/* ═══ GAME CANVAS ═══ */}
       {(gameState === "playing" || gameState === "countdown") && (
         <>
-          <Canvas camera={{ fov: 65, near: 0.1, far: 300, position: [0, 6, 15] }} dpr={[1, 1.5]} gl={{ powerPreference: "high-performance", antialias: false }}>
-            <RaceScene level={level} carType={carType} running={gameState === "playing"} onFinish={handleFinish} onFail={handleFail} hudRef={hudRef} nitroActiveRef={nitroActiveRef} keysRef={keysRef} touchRef={touchRef} />
+          <Canvas camera={{ fov: 65, near: 0.1, far: 400, position: [0, 8, 20] }} dpr={[1, 1.5]} gl={{ powerPreference: "high-performance", antialias: false }}>
+            <RaceScene track={track} carType={carType} running={gameState === "playing"} onFinish={handleFinish} onFlipped={handleFlipped} hudRef={hudRef} nitroActiveRef={nitroActiveRef} keysRef={keysRef} touchRef={touchRef} />
           </Canvas>
 
           {/* HUD overlay */}
           {gameState === "playing" && (
             <div className="absolute inset-0 z-10 pointer-events-none">
-              {/* Timer + Level */}
+              {/* Position + Lap */}
               <div className="absolute top-3 left-1/2 -translate-x-1/2 bg-black/80 backdrop-blur-sm rounded-xl px-5 py-2 border border-[#BB44FF]/30">
-                <div className="text-[#BB44FF] font-black text-[10px] text-center">LEVEL {selectedLevel}</div>
-                <div className="text-white font-black text-2xl text-center">{Math.ceil(hud.time)}s</div>
-                <div className="text-white/40 text-[10px] text-center">CP {hud.cp}/{hud.totalCp}</div>
+                <div className="flex items-center gap-4">
+                  <div>
+                    <div className="text-[#BB44FF] font-black text-[10px]">POSITION</div>
+                    <div className="text-white font-black text-2xl text-center">{hud.position}<span className="text-sm text-white/40">/{hud.totalRacers}</span></div>
+                  </div>
+                  <div className="w-px h-8 bg-white/10" />
+                  <div>
+                    <div className="text-[#BB44FF] font-black text-[10px]">LAP</div>
+                    <div className="text-white font-black text-2xl text-center">{hud.lap}<span className="text-sm text-white/40">/{hud.totalLaps}</span></div>
+                  </div>
+                  <div className="w-px h-8 bg-white/10" />
+                  <div>
+                    <div className="text-white/40 font-bold text-[10px]">TIME</div>
+                    <div className="text-white/60 font-black text-lg">{hud.time.toFixed(1)}s</div>
+                  </div>
+                </div>
               </div>
+
+              {/* Oil slick warning */}
+              {hud.onOil && (
+                <div className="absolute top-20 left-1/2 -translate-x-1/2 bg-yellow-900/80 rounded-lg px-3 py-1 border border-yellow-500/40">
+                  <div className="text-yellow-400 font-black text-xs animate-pulse">OIL SLICK!</div>
+                </div>
+              )}
 
               {/* Speed */}
               <div className="absolute bottom-14 left-1/2 -translate-x-1/2 bg-black/70 backdrop-blur-sm rounded-xl px-5 py-2 border border-white/10">
                 <div className="text-white font-black text-lg text-center">{Math.round(hud.speed * 3.6)} <span className="text-xs text-white/40">km/h</span></div>
                 {carType.canNitro && (
                   <div className="flex items-center gap-1.5 mt-1">
-                    <button onClick={() => { nitroActiveRef.current = !nitroActiveRef.current; }} className="text-[10px] font-black px-2 py-1 rounded-md pointer-events-auto transition-all cursor-pointer border"
+                    <button onClick={() => { nitroActiveRef.current = !nitroActiveRef.current; }}
+                      className="text-[10px] font-black px-2 py-1 rounded-md pointer-events-auto transition-all cursor-pointer border"
                       style={{ color: hud.nitroActive ? "#FF6600" : "#00CCFF", backgroundColor: hud.nitroActive ? "rgba(255,102,0,0.3)" : "rgba(0,200,255,0.1)", borderColor: hud.nitroActive ? "rgba(255,102,0,0.5)" : "rgba(0,200,255,0.3)" }}>NOS</button>
                     <div className="w-20 h-2 bg-white/10 rounded-full">
                       <div className="h-full rounded-full transition-all" style={{ width: `${hud.nitro}%`, backgroundColor: hud.nitroActive ? "#FF6600" : "#00CCFF" }} />
@@ -716,13 +1153,20 @@ export default function RacetrackPage() {
                 )}
               </div>
 
-              {/* Back button */}
-              <button onClick={() => setGameState("menu")} className="absolute top-3 right-3 w-9 h-9 rounded-full bg-black/70 border border-white/20 flex items-center justify-center pointer-events-auto z-30">
+              {/* Back to City button */}
+              <button onClick={() => router.push("/citydrive")}
+                className="absolute top-3 left-3 bg-black/70 border border-white/20 rounded-xl px-3 py-2 pointer-events-auto active:scale-95 transition-all z-30">
+                <span className="text-white/60 font-bold text-xs">Back to City</span>
+              </button>
+
+              {/* Close/menu button */}
+              <button onClick={() => setGameState("menu")}
+                className="absolute top-3 right-3 w-9 h-9 rounded-full bg-black/70 border border-white/20 flex items-center justify-center pointer-events-auto z-30">
                 <span className="text-white/70 font-bold text-lg">✕</span>
               </button>
 
               <div className="absolute bottom-3 left-3 text-[9px] text-white/20">
-                WASD: drive{carType.canNitro ? " | E: nitro" : ""}
+                WASD: drive{carType.canNitro ? " | E: nitro" : ""} | 6 racers | Level {selectedLevel}
               </div>
             </div>
           )}
@@ -733,8 +1177,7 @@ export default function RacetrackPage() {
               <div className="absolute left-4 bottom-4 z-20" style={{ width: 140, height: 140 }}
                 onTouchStart={e => { e.preventDefault(); const t = e.touches[0]; const rect = e.currentTarget.getBoundingClientRect(); const cx = rect.left + 70, cy = rect.top + 70; touchRef.current = { active: true, sx: cx, sy: cy, cx: t.clientX, cy: t.clientY }; const knob = joystickKnobRef.current; if (knob) { knob.style.transition = 'none'; knob.style.left = `${42 + (t.clientX - cx)}px`; knob.style.top = `${42 + (t.clientY - cy)}px`; } }}
                 onTouchMove={e => { e.preventDefault(); const t = e.touches[0]; touchRef.current.cx = t.clientX; touchRef.current.cy = t.clientY; const dx = t.clientX - touchRef.current.sx, dy = t.clientY - touchRef.current.sy; const d = Math.sqrt(dx*dx+dy*dy); const max = 50; const clamp = d > max ? max / d : 1; const knob = joystickKnobRef.current; if (knob) { knob.style.left = `${42 + dx * clamp}px`; knob.style.top = `${42 + dy * clamp}px`; } }}
-                onTouchEnd={() => { touchRef.current.active = false; const knob = joystickKnobRef.current; if (knob) { knob.style.transition = 'all 0.15s'; knob.style.left = '42px'; knob.style.top = '42px'; } }}
-              >
+                onTouchEnd={() => { touchRef.current.active = false; const knob = joystickKnobRef.current; if (knob) { knob.style.transition = 'all 0.15s'; knob.style.left = '42px'; knob.style.top = '42px'; } }}>
                 <div className="absolute inset-0 rounded-full border-2 border-white/20 bg-white/5" />
                 <div ref={joystickKnobRef} className="absolute w-14 h-14 rounded-full bg-white/30 border-2 border-white/50" style={{ left: 42, top: 42 }} />
               </div>
@@ -761,20 +1204,29 @@ export default function RacetrackPage() {
         )}
       </AnimatePresence>
 
-      {/* ═══ LEVEL COMPLETE ═══ */}
+      {/* ═══ RACE COMPLETE ═══ */}
       <AnimatePresence>
         {gameState === "complete" && (
           <motion.div className="absolute inset-0 z-30 flex items-center justify-center bg-[#0a0e1a]/90 p-4"
             initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-            <motion.div className="w-full max-w-sm bg-[#0d1117] border border-[#BB44FF]/20 rounded-3xl p-6 text-center"
+            <motion.div className="w-full max-w-sm bg-[#0d1117] border rounded-3xl p-6 text-center"
+              style={{ borderColor: `${posColor}33` }}
               initial={{ scale: 0.8, y: 20 }} animate={{ scale: 1, y: 0 }} transition={{ type: "spring" }}>
-              <div className="text-4xl mb-2">🏁</div>
-              <h2 className="text-white font-black text-2xl">Level {selectedLevel} Complete!</h2>
-              <div className="mt-3 space-y-1">
-                <div className="text-white/50 text-sm">Time: <span className="text-white font-bold">{finishTime.toFixed(1)}s</span></div>
-                <div className="text-white/50 text-sm">Checkpoints: <span className="text-white font-bold">{finishCPs}/{level.checkpoints.length}</span></div>
-                <div className="text-[#BB44FF] font-black text-xl mt-2">{totalScore} pts</div>
+              <div className="text-5xl mb-2">🏁</div>
+              <h2 className="text-white font-black text-2xl">Race Complete!</h2>
+              <div className="mt-4 mb-2">
+                <div className="text-6xl font-black" style={{ color: posColor }}>{posLabel}</div>
+                <div className="text-white/30 text-sm mt-1">of 7 racers</div>
               </div>
+              <div className="space-y-1">
+                <div className="text-white/50 text-sm">Time: <span className="text-white font-bold">{finishTime.toFixed(1)}s</span></div>
+                <div className="text-sm font-bold" style={{ color: posColor }}>{cardType} CARD</div>
+              </div>
+              {winStreak >= 3 && finishPosition === 1 && (
+                <div className="mt-3 bg-purple-500/10 border border-purple-500/30 rounded-xl px-3 py-2">
+                  <div className="text-purple-400 font-black text-sm">LEGENDARY! {winStreak} wins in a row!</div>
+                </div>
+              )}
               <div className="flex gap-3 mt-5">
                 <button onClick={() => setGameState("reward")}
                   className="flex-1 py-3 rounded-xl font-bold text-sm text-white bg-gradient-to-r from-[#BB44FF] to-[#8800FF] hover:opacity-90 transition-all">
@@ -790,24 +1242,24 @@ export default function RacetrackPage() {
         )}
       </AnimatePresence>
 
-      {/* ═══ LEVEL FAILED ═══ */}
+      {/* ═══ FLIPPED (CRASHED) ═══ */}
       <AnimatePresence>
-        {gameState === "failed" && (
+        {gameState === "flipped" && (
           <motion.div className="absolute inset-0 z-30 flex items-center justify-center bg-[#0a0e1a]/90 p-4"
             initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
             <motion.div className="w-full max-w-sm bg-[#0d1117] border border-red-500/20 rounded-3xl p-6 text-center"
               initial={{ scale: 0.8, y: 20 }} animate={{ scale: 1, y: 0 }} transition={{ type: "spring" }}>
-              <div className="text-4xl mb-2">💥</div>
-              <h2 className="text-red-400 font-black text-2xl">Time&apos;s Up!</h2>
-              <p className="text-white/40 text-sm mt-2">You ran out of time on Level {selectedLevel}</p>
+              <div className="text-4xl mb-2">🔥</div>
+              <h2 className="text-red-400 font-black text-2xl">Car Flipped!</h2>
+              <p className="text-white/40 text-sm mt-2">You got knocked over in a sharp turn!</p>
               <div className="flex gap-3 mt-5">
                 <button onClick={() => startLevel(selectedLevel)}
-                  className="flex-1 py-3 rounded-xl font-bold text-sm text-white bg-gradient-to-r from-red-500 to-orange-500">
+                  className="flex-1 py-3 rounded-xl font-bold text-sm text-white bg-gradient-to-r from-red-500 to-orange-500 active:scale-95">
                   Retry
                 </button>
-                <button onClick={() => setGameState("menu")}
-                  className="flex-1 py-3 rounded-xl font-bold text-sm text-white/60 bg-white/5 border border-white/10">
-                  Back
+                <button onClick={() => router.push("/citydrive")}
+                  className="flex-1 py-3 rounded-xl font-bold text-sm text-white/60 bg-white/5 border border-white/10 active:scale-95">
+                  Back to City
                 </button>
               </div>
             </motion.div>
@@ -818,7 +1270,7 @@ export default function RacetrackPage() {
       {/* ═══ REWARD REVEAL ═══ */}
       {gameState === "reward" && (
         <div className="absolute inset-0 z-30 flex items-center justify-center bg-[#0a0e1a]/95 p-4">
-          <RewardReveal rarity={rarity} game="racetrack" score={totalScore} total={totalForRarity}
+          <RewardReveal rarity={rarity} game="racetrack" score={posScore} total={100}
             onDone={() => { setGameState("menu"); setShowMilestone(true); }} />
         </div>
       )}
