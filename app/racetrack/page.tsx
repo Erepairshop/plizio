@@ -546,7 +546,7 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
     }
 
     // AI speeds: balanced so good driving wins
-    const speedFactors = [0.65, 0.70, 0.76, 0.81, 0.86, 0.91];
+    const speedFactors = [0.63, 0.68, 0.73, 0.78, 0.83, 0.88];
     const aggressionLevels = [0.15, 0.25, 0.35, 0.45, 0.60, 0.75];
     const laneOffsets = [-0.4, 0.4, -0.2, 0.3, -0.45, 0.2];
 
