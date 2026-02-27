@@ -73,3 +73,17 @@ export function claimReferralReward(): boolean {
   addSpecialCards(1);
   return true;
 }
+
+// ─── CONSOLE CHEAT COMMANDS ─────────────────────────
+// Usage: open browser console and type:
+//   plizio.addStars(10)   → adds 10 purple stars
+//   plizio.getStars()     → shows current count
+//   plizio.setStars(50)   → sets exact amount
+if (typeof window !== "undefined") {
+  (window as any).plizio = {
+    ...(window as any).plizio,
+    addStars: (n: number) => { const t = addSpecialCards(n); console.log(`Added ${n} ⭐ → Total: ${t}`); return t; },
+    getStars: () => { const c = getSpecialCardCount(); console.log(`⭐ Stars: ${c}`); return c; },
+    setStars: (n: number) => { localStorage.setItem(STORAGE_KEY, n.toString()); console.log(`⭐ Stars set to: ${n}`); return n; },
+  };
+}

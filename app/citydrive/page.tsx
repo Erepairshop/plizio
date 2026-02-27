@@ -16,6 +16,7 @@ import { getSkinDef, getActiveSkin } from "@/lib/skins";
 import { getActive as getClothingActive, getTopDef, getBottomDef, getShoeDef as getShoeItemDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
 import { getFaceDef, getActiveFace } from "@/lib/faces";
 import { getHatDef, getActiveHat, getTrailDef, getActiveTrail } from "@/lib/accessories";
+import { addSpecialCards } from "@/lib/specialCards";
 
 // ═══════════════════════════════════════════════
 //  TYPES
@@ -107,6 +108,16 @@ function setActiveCar(id: string) { try { localStorage.setItem(ACTIVE_CAR_KEY, i
 function getCarType(id: string): CarType { return CAR_TYPES.find(c => c.id === id) || CAR_TYPES[0]; }
 
 // ═══════════════════════════════════════════════
+//  RACE PORTAL (teleports to race track)
+// ═══════════════════════════════════════════════
+// Placed at downtown intersection (block 14, 14)
+const PORTAL_X = (14 * BLOCK + 1.5) * T; // road center
+const PORTAL_Z = (14 * BLOCK + 1.5) * T;
+const PORTAL_RADIUS = 8;
+// Only sedan (2nd car) or better can enter
+const PORTAL_MIN_CAR_INDEX = 1; // index in CAR_TYPES (0=starter, 1=sedan, ...)
+
+// ═══════════════════════════════════════════════
 //  TIME TRIAL DEFINITIONS
 // ═══════════════════════════════════════════════
 interface TimeTrial {
@@ -114,16 +125,13 @@ interface TimeTrial {
   currentCP: number;
   timeLeft: number;
   active: boolean;
-  reward: number;
   completed: boolean;
-  // Start marker position (where player drives to start the trial)
   startX: number;
   startZ: number;
   started: boolean;
 }
 const TIME_TRIAL_DURATION = 45; // seconds
 const TIME_TRIAL_CPS = 5; // checkpoints per trial
-const TIME_TRIAL_REWARD = 3; // stars per completion
 
 // ═══════════════════════════════════════════════
 //  PARK BLOCKS (deterministic ~20%)
@@ -822,6 +830,18 @@ function MiniMap({ hudRef, missionsRef, carsRef, timeTrialRef }: { hudRef: React
           }
         }
 
+      // Race Portal on minimap
+      const ppx = PORTAL_X * sc, ppz = PORTAL_Z * sc;
+      ctx.fillStyle = "#BB44FF";
+      ctx.shadowColor = "#BB44FF";
+      ctx.shadowBlur = 8;
+      const portalPulse = 4 + Math.sin(Date.now() / 300) * 1.5;
+      ctx.beginPath(); ctx.arc(ppx, ppz, portalPulse, 0, Math.PI * 2); ctx.fill();
+      ctx.font = "bold 6px sans-serif";
+      ctx.textAlign = "center";
+      ctx.fillText("RACE", ppx, ppz - 7);
+      ctx.shadowBlur = 0;
+
       // Missions
       const ms = missionsRef.current;
       if (ms) {
@@ -968,10 +988,12 @@ interface SceneProps {
   gameDataRef: React.RefObject<SaveData | null>;
   carsDataRef: React.RefObject<CarData[]>;
   timeTrialRef: React.RefObject<TimeTrial | null>;
+  timeTrialWonRef: React.RefObject<boolean>;
   onEnd: () => void;
+  onPortal: () => void;
 }
 
-const GameScene = React.memo(function GameScene({ running, resuming, keysRef, touchRef, actionRef, brakeRef, nitroActiveRef, hudRef, missionsRef, gameDataRef, carsDataRef, timeTrialRef, onEnd }: SceneProps) {
+const GameScene = React.memo(function GameScene({ running, resuming, keysRef, touchRef, actionRef, brakeRef, nitroActiveRef, hudRef, missionsRef, gameDataRef, carsDataRef, timeTrialRef, timeTrialWonRef, onEnd, onPortal }: SceneProps) {
   const { camera } = useThree();
   const buildings = useMemo(genBuildings, []);
   const trees = useMemo(genTrees, []);
@@ -1420,6 +1442,22 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
       ambLightRef.current.color.lerp(new THREE.Color(w.ambC), dt * 0.5);
     }
 
+    // ── Race Portal detection ──
+    if (p.inCar >= 0) {
+      const car = carsRef.current[p.inCar];
+      const portalDist = Math.sqrt((car.x - PORTAL_X) ** 2 + (car.z - PORTAL_Z) ** 2);
+      if (portalDist < PORTAL_RADIUS) {
+        const carIdx = CAR_TYPES.findIndex(c => c.id === getActiveCar());
+        if (carIdx >= PORTAL_MIN_CAR_INDEX) {
+          onPortal();
+        } else {
+          if (hud.msgT <= 0) {
+            hud.msg = "Need Sedan or better to enter!"; hud.msgT = 2;
+          }
+        }
+      }
+    }
+
     // ── Time Trial logic ──
     const tt = timeTrialRef.current;
     if (tt && tt.active) {
@@ -1447,9 +1485,10 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
             tt.currentCP++;
             if (tt.currentCP >= tt.checkpoints.length) {
               tt.active = false; tt.completed = true;
-              hud.score += 150;
-              hud.msg = `TIME TRIAL COMPLETE! +150 pts`; hud.msgT = 3;
+              addSpecialCards(1);
+              hud.msg = `TIME TRIAL COMPLETE! +1 ⭐`; hud.msgT = 3;
               timeTrialRef.current = null;
+              timeTrialWonRef.current = true;
             } else {
               hud.msg = `CP ${tt.currentCP}/${tt.checkpoints.length}`; hud.msgT = 1.5;
             }
@@ -1681,6 +1720,48 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
       {/* Rain (weather type 1) */}
       <RainParticles active={weatherState.current.type === 1} />
 
+      {/* ═══ RACE PORTAL ═══ */}
+      <group position={[PORTAL_X, 0, PORTAL_Z]}>
+        {/* Base platform */}
+        <mesh rotation-x={-Math.PI / 2} position={[0, 0.05, 0]}>
+          <ringGeometry args={[4, 6, 24]} />
+          <meshStandardMaterial color="#8800FF" emissive="#8800FF" emissiveIntensity={1.5} side={THREE.DoubleSide} />
+        </mesh>
+        {/* Left pillar */}
+        <mesh position={[-4, 5, 0]}>
+          <boxGeometry args={[0.6, 10, 0.6]} />
+          <meshStandardMaterial color="#6600CC" emissive="#9933FF" emissiveIntensity={0.8} />
+        </mesh>
+        {/* Right pillar */}
+        <mesh position={[4, 5, 0]}>
+          <boxGeometry args={[0.6, 10, 0.6]} />
+          <meshStandardMaterial color="#6600CC" emissive="#9933FF" emissiveIntensity={0.8} />
+        </mesh>
+        {/* Top arch */}
+        <mesh position={[0, 10.2, 0]}>
+          <boxGeometry args={[8.6, 0.6, 0.6]} />
+          <meshStandardMaterial color="#6600CC" emissive="#9933FF" emissiveIntensity={0.8} />
+        </mesh>
+        {/* Portal energy field */}
+        <mesh position={[0, 5.5, 0]}>
+          <planeGeometry args={[7.4, 9.4]} />
+          <meshStandardMaterial color="#BB44FF" emissive="#DD66FF" emissiveIntensity={2} transparent opacity={0.3} side={THREE.DoubleSide} />
+        </mesh>
+        {/* Inner glow ring */}
+        <mesh position={[0, 5.5, 0]}>
+          <ringGeometry args={[3, 3.6, 20]} />
+          <meshStandardMaterial color="#DD66FF" emissive="#FF88FF" emissiveIntensity={3} transparent opacity={0.5} side={THREE.DoubleSide} />
+        </mesh>
+        {/* Floating text marker */}
+        <mesh position={[0, 11.5, 0]}>
+          <boxGeometry args={[3, 0.8, 0.1]} />
+          <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={2} />
+        </mesh>
+        {/* Light */}
+        <pointLight position={[0, 6, 0]} color="#BB44FF" intensity={5} distance={25} />
+        <pointLight position={[0, 1, 0]} color="#8800FF" intensity={3} distance={15} />
+      </group>
+
       {/* Time Trial START marker (before player activates it) */}
       {timeTrialRef.current?.active && !timeTrialRef.current.started && (
         <group position={[timeTrialRef.current.startX, 0, timeTrialRef.current.startZ]}>
@@ -1744,6 +1825,7 @@ export default function CityDrivePage() {
   const joystickKnobRef = useRef<HTMLDivElement>(null);
   const timeTrialRef = useRef<TimeTrial | null>(null);
   const timeTrialUsed = useRef(0); // max 2 per game
+  const timeTrialWon = useRef(false); // once won, don't show again
 
   const keysRef = useRef(new Set<string>());
   const touchRef = useRef({ active: false, sx: 0, sy: 0, cx: 0, cy: 0 });
@@ -1770,13 +1852,13 @@ export default function CityDrivePage() {
 
       // Time trial spawn logic (max 2 per game, no cooldown - always available)
       // Difficulty scales with car speed: faster car = farther checkpoints
-      if (!timeTrialRef.current && timeTrialUsed.current < 2) {
+      if (!timeTrialRef.current && timeTrialUsed.current < 2 && !timeTrialWon.current) {
         const carType = getCarType(getActiveCar());
         // Calculate target distance per CP based on car speed
         // avgSpeed ~55% of maxSpeed (realistic city driving with turns)
         // Use 80% of theoretical max distance = tight but doable
         const avgSpeed = carType.maxSpeed * 0.55;
-        const distPerCP = (avgSpeed * TIME_TRIAL_DURATION / TIME_TRIAL_CPS) * 0.80;
+        const distPerCP = (avgSpeed * TIME_TRIAL_DURATION / TIME_TRIAL_CPS) * 0.60;
         const minDist = distPerCP * 0.7;
         const maxDist = distPerCP * 1.3;
 
@@ -1804,7 +1886,7 @@ export default function CityDrivePage() {
 
         timeTrialRef.current = {
           checkpoints: cps, currentCP: 0, timeLeft: TIME_TRIAL_DURATION,
-          active: true, reward: TIME_TRIAL_REWARD, completed: false,
+          active: true, completed: false,
           startX: startPos.x, startZ: startPos.z, started: false,
         };
         timeTrialUsed.current++;
@@ -1860,7 +1942,7 @@ export default function CityDrivePage() {
   return (
     <div className="fixed inset-0 bg-[#0a0e1a] overflow-hidden select-none" style={{ touchAction: "none" }}>
       <Canvas camera={{ fov: 65, near: 0.1, far: 550, position: [4, 8, -8] }} dpr={[1, 1.5]} gl={{ powerPreference: "high-performance", antialias: false }}>
-        <GameScene running={gameState === "playing"} resuming={resuming} keysRef={keysRef} touchRef={touchRef} actionRef={actionRef} brakeRef={brakeRef} nitroActiveRef={nitroActiveRef} hudRef={hudRef} missionsRef={missionsRef} gameDataRef={gameDataRef} carsDataRef={carsDataRef} timeTrialRef={timeTrialRef} onEnd={endGame} />
+        <GameScene running={gameState === "playing"} resuming={resuming} keysRef={keysRef} touchRef={touchRef} actionRef={actionRef} brakeRef={brakeRef} nitroActiveRef={nitroActiveRef} hudRef={hudRef} missionsRef={missionsRef} gameDataRef={gameDataRef} carsDataRef={carsDataRef} timeTrialRef={timeTrialRef} timeTrialWonRef={timeTrialWon} onEnd={endGame} onPortal={() => { if (gameDataRef.current) saveToStorage(gameDataRef.current); router.push("/racetrack"); }} />
       </Canvas>
 
       {/* HUD overlay */}
@@ -1884,12 +1966,6 @@ export default function CityDrivePage() {
 
 
           {/* Time Trial HUD */}
-          {timeTrialRef.current?.active && !timeTrialRef.current.started && (
-            <div className="absolute top-3 left-1/2 -translate-x-1/2 bg-black/80 backdrop-blur-sm rounded-xl px-4 py-2 border border-orange-500/40">
-              <div className="text-orange-400 font-black text-sm text-center">TIME TRIAL</div>
-              <div className="text-white font-bold text-xs text-center mt-0.5">Drive to 🏁 to start!</div>
-            </div>
-          )}
           {timeTrialRef.current?.active && timeTrialRef.current.started && (
             <div className="absolute top-3 left-1/2 -translate-x-1/2 bg-black/80 backdrop-blur-sm rounded-xl px-4 py-2 border border-yellow-500/40">
               <div className="text-yellow-400 font-black text-sm text-center">TIME TRIAL</div>
