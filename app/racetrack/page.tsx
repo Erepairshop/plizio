@@ -545,9 +545,9 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       if (d < bestDist) { bestDist = d; bestIdx = j; }
     }
 
-    // AI speeds: beatable - top AI ~75% of player max, with imperfect driving
-    const speedFactors = [0.55, 0.60, 0.64, 0.68, 0.72, 0.75];
-    const aggressionLevels = [0.1, 0.12, 0.15, 0.25, 0.30, 0.40];
+    // AI speeds: competitive but beatable thanks to driving imperfections
+    const speedFactors = [0.72, 0.76, 0.80, 0.84, 0.87, 0.90];
+    const aggressionLevels = [0.1, 0.15, 0.2, 0.30, 0.40, 0.50];
     const laneOffsets = [-0.3, 0.3, -0.15, 0.25, -0.35, 0.15];
 
     return {
@@ -555,7 +555,7 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       angle: fwdAngle,
       speed: 0, trackProgress: bestIdx / trackPoints.length, totalProgress: 0, lap: 0, tilt: 0,
       maxSpeed: carType.maxSpeed * speedFactors[i],
-      accel: carType.accel * (0.65 + i * 0.02),
+      accel: carType.accel * (0.75 + i * 0.025),
       handling: 2.5 + i * 0.2,
       color: AI_COLORS[i], name,
       aggressive: aggressionLevels[i],
@@ -778,21 +778,21 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       while (angleDiff < -Math.PI) angleDiff += Math.PI * 2;
       ai.angle += angleDiff * ai.handling * dt;
 
-      // Accelerate - with random imperfection (AI doesn't always push perfectly)
+      // Accelerate - with slight imperfection
       const accelBoost = 1 + ai.aggressive * 0.1;
-      const accelWobble = 0.7 + Math.random() * 0.3; // 70-100% throttle randomly
+      const accelWobble = 0.85 + Math.random() * 0.15; // 85-100% throttle
       ai.speed += ai.accel * accelBoost * accelWobble * dt;
-      ai.speed *= 0.965; // more drag than player (0.98) - AI loses more speed
+      ai.speed *= 0.975; // slightly more drag than player (0.98)
 
-      // Random micro-hesitation ~5% of frames AI lifts off throttle
-      if (Math.random() < 0.05) {
-        ai.speed *= 0.97;
+      // Random micro-hesitation ~3% of frames
+      if (Math.random() < 0.03) {
+        ai.speed *= 0.98;
       }
 
-      // Slow down for sharp turns - AI brakes harder than a perfect driver
+      // Slow down for sharp turns - AI brakes a bit more than perfect
       const aiTurnSharp = getTurnSharpness(ai.trackProgress);
-      if (aiTurnSharp > 0.2) {
-        ai.speed *= (1 - aiTurnSharp * 0.5 * dt * 10);
+      if (aiTurnSharp > 0.25) {
+        ai.speed *= (1 - aiTurnSharp * 0.4 * dt * 10);
       }
       ai.speed = Math.max(0, Math.min(ai.maxSpeed, ai.speed));
 
