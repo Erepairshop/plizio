@@ -173,7 +173,7 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
       else car.speed *= brake ? 0.90 : FRIC;
       car.speed = Math.max(-car.maxSpeed * 0.4, Math.min(car.maxSpeed, car.speed));
       if (Math.abs(car.speed) < 0.15) car.speed = 0;
-      if (Math.abs(car.speed) > 0.5) car.angle -= mx * car.handling * dt * (car.speed > 0 ? 1 : -1);
+      if (Math.abs(car.speed) > 0.5) car.angle += mx * car.handling * dt * (car.speed > 0 ? 1 : -1);
       const fx = Math.sin(car.angle), fz = Math.cos(car.angle);
       const nx = car.x + fx * car.speed * dt, nz = car.z + fz * car.speed * dt;
       if (!solidBox(nx, nz, 1.2, 2.2)) { car.x = nx; car.z = nz; } else car.speed *= -0.3;
@@ -189,12 +189,15 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
         hud.msg = "Exited!"; hud.msgT = 2;
       }
     } else {
-      // ── Walking ──
+      // ── Walking (camera-relative) ──
       const len = Math.sqrt(mx * mx + mz * mz);
       if (len > 0.1) {
-        const nx = p.x + (mx / len) * WALK_SPD * dt, nz = p.z + (mz / len) * WALK_SPD * dt;
+        const fwX = Math.sin(p.angle), fwZ = Math.cos(p.angle);
+        const rtX = Math.cos(p.angle), rtZ = -Math.sin(p.angle);
+        const wmx = mx * rtX + mz * fwX, wmz = mx * rtZ + mz * fwZ;
+        const nx = p.x + (wmx / len) * WALK_SPD * dt, nz = p.z + (wmz / len) * WALK_SPD * dt;
         if (!solidBox(nx, nz, 0.3, 0.3)) { p.x = nx; p.z = nz; }
-        p.angle = Math.atan2(mx, mz);
+        p.angle = Math.atan2(wmx, wmz);
       }
       hud.inCar = -1;
       if (act) {
@@ -255,9 +258,7 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
     camTarget.current.set(p.x - Math.sin(p.angle) * cd, ch, p.z - Math.cos(p.angle) * cd);
     camLook.current.set(p.x, p.inCar >= 0 ? 1.5 : 1.2, p.z);
     camera.position.lerp(camTarget.current, 0.045);
-    const lookV = new THREE.Vector3();
-    lookV.copy(camLook.current);
-    camera.lookAt(lookV);
+    camera.lookAt(camLook.current);
 
     // Message timer
     if (hud.msgT > 0) hud.msgT -= dt;
@@ -269,9 +270,9 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
     <>
       <color attach="background" args={["#0a0e1a"]} />
       <fog attach="fog" args={["#0a0e1a", 80, 220]} />
-      <ambientLight intensity={0.6} color="#8899cc" />
+      <ambientLight intensity={0.9} color="#8899cc" />
       <hemisphereLight args={["#334488", "#1a1a2e", 0.5]} />
-      <directionalLight position={[60, 100, 40]} intensity={1.2} color="#ccd4ee" castShadow />
+      <directionalLight position={[60, 100, 40]} intensity={1.2} color="#ccd4ee" />
       <directionalLight position={[-40, 60, -30]} intensity={0.4} color="#6677aa" />
 
       {/* Ground (dark area outside roads) */}
@@ -327,8 +328,7 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
             <boxGeometry args={[b.w + 0.25, 0.3, b.d + 0.25]} />
             <meshStandardMaterial color={b.glow} emissive={b.glow} emissiveIntensity={0.6} />
           </mesh>
-          {/* Neon glow light */}
-          <pointLight position={[0, 1.5, 0]} color={b.glow} intensity={5} distance={22} />
+          {/* Neon glow - emissive only, no pointLight for performance */}
           {/* Windows on all 4 sides */}
           {[2, 5, 8, 11, 14].filter(wh => wh < b.h - 1).map(wh => (
             <group key={wh}>
@@ -371,7 +371,7 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
                 <sphereGeometry args={[0.3, 8, 8]} />
                 <meshStandardMaterial color="#FFE088" emissive="#FFE088" emissiveIntensity={2} />
               </mesh>
-              <pointLight position={[0, 5, 0]} color="#FFE088" intensity={8} distance={30} decay={2} />
+              {/* Removed pointLight for performance - emissive sphere provides visual glow */}
             </group>
           );
         })
@@ -526,7 +526,7 @@ export default function CityDrivePage() {
   // HUD refresh
   useEffect(() => {
     if (gameState !== "playing") return;
-    const i = setInterval(() => setHudTick(t => t + 1), 100);
+    const i = setInterval(() => setHudTick(t => t + 1), 200);
     return () => clearInterval(i);
   }, [gameState]);
 
