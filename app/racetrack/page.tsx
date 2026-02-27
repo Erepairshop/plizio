@@ -545,9 +545,9 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       if (d < bestDist) { bestDist = d; bestIdx = j; }
     }
 
-    // AI speeds: top 3 close together, Fury only ~4% faster than Storm
-    const speedFactors = [0.65, 0.70, 0.74, 0.78, 0.80, 0.81];
-    const aggressionLevels = [0.1, 0.12, 0.2, 0.35, 0.45, 0.55];
+    // AI speeds: beatable - top AI ~75% of player max, with imperfect driving
+    const speedFactors = [0.55, 0.60, 0.64, 0.68, 0.72, 0.75];
+    const aggressionLevels = [0.1, 0.12, 0.15, 0.25, 0.30, 0.40];
     const laneOffsets = [-0.3, 0.3, -0.15, 0.25, -0.35, 0.15];
 
     return {
@@ -555,7 +555,7 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       angle: fwdAngle,
       speed: 0, trackProgress: bestIdx / trackPoints.length, totalProgress: 0, lap: 0, tilt: 0,
       maxSpeed: carType.maxSpeed * speedFactors[i],
-      accel: carType.accel * (0.75 + i * 0.025),
+      accel: carType.accel * (0.65 + i * 0.02),
       handling: 2.5 + i * 0.2,
       color: AI_COLORS[i], name,
       aggressive: aggressionLevels[i],
@@ -778,26 +778,23 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       while (angleDiff < -Math.PI) angleDiff += Math.PI * 2;
       ai.angle += angleDiff * ai.handling * dt;
 
-      // Accelerate - aggressive AIs push slightly harder
-      const accelBoost = 1 + ai.aggressive * 0.15;
-      ai.speed += ai.accel * accelBoost * dt;
-      ai.speed *= 0.98;
+      // Accelerate - with random imperfection (AI doesn't always push perfectly)
+      const accelBoost = 1 + ai.aggressive * 0.1;
+      const accelWobble = 0.7 + Math.random() * 0.3; // 70-100% throttle randomly
+      ai.speed += ai.accel * accelBoost * accelWobble * dt;
+      ai.speed *= 0.965; // more drag than player (0.98) - AI loses more speed
 
-      // Slow down for sharp turns - aggressive AIs brake slightly less
+      // Random micro-hesitation ~5% of frames AI lifts off throttle
+      if (Math.random() < 0.05) {
+        ai.speed *= 0.97;
+      }
+
+      // Slow down for sharp turns - AI brakes harder than a perfect driver
       const aiTurnSharp = getTurnSharpness(ai.trackProgress);
-      const brakeReduction = 1 - ai.aggressive * 0.25;
-      if (aiTurnSharp > 0.3) {
-        ai.speed *= (1 - aiTurnSharp * 0.3 * brakeReduction * dt * 10);
+      if (aiTurnSharp > 0.2) {
+        ai.speed *= (1 - aiTurnSharp * 0.5 * dt * 10);
       }
       ai.speed = Math.max(0, Math.min(ai.maxSpeed, ai.speed));
-
-      // Slipstream: aggressive AIs close behind player get small draft boost
-      const dxP = player.x - ai.x;
-      const dzP = player.z - ai.z;
-      const distToPlayer = Math.sqrt(dxP * dxP + dzP * dzP);
-      if (distToPlayer < 12 && distToPlayer > 4 && ai.aggressive > 0.5) {
-        ai.speed = Math.min(ai.maxSpeed * 1.01, ai.speed * 1.005);
-      }
 
       // Apply push forces
       ai.x += ai.pushVx * dt;
