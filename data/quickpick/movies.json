@@ -34,5 +34,36 @@
   { "itemA": "Wonka (2023)", "valueA": 634000000, "emojiA": "🍫", "itemB": "Wish (2023)", "valueB": 256000000, "emojiB": "⭐", "unit": "USD", "unitIcon": "💰" },
   { "itemA": "Moana 2 (2024)", "valueA": 1000000000, "emojiA": "🌊", "itemB": "Elemental (2023)", "valueB": 496000000, "emojiB": "🔥", "unit": "USD", "unitIcon": "💰" },
   { "itemA": "Breaking Bad (IMDb)", "valueA": 96, "emojiA": "🧪", "itemB": "Game of Thrones (IMDb)", "valueB": 93, "emojiB": "🐉", "unit": "rating ×10", "unitIcon": "⭐" },
-  { "itemA": "Oscar-díj (legtöbb film)", "valueA": 11, "emojiA": "🏆", "itemB": "Oppenheimer (Oscar)", "valueB": 7, "emojiB": "💣", "unit": "díj", "unitIcon": "🏆" }
+  { "itemA": "Oscar-díj (legtöbb film)", "valueA": 11, "emojiA": "🏆", "itemB": "Oppenheimer (Oscar)", "valueB": 7, "emojiB": "💣", "unit": "díj", "unitIcon": "🏆" },
+
+  { "itemA": "Toy Story (1995)", "valueA": 373000000, "emojiA": "🤠", "itemB": "Toy Story 4 (2019)", "valueB": 1073000000, "emojiB": "🤠", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "Shrek franchise", "valueA": 3500000000, "emojiA": "🟢", "itemB": "Ice Age franchise", "valueB": 3200000000, "emojiB": "🧊", "unit": "total USD", "unitIcon": "💰" },
+  { "itemA": "Despicable Me 4 (2024)", "valueA": 960000000, "emojiA": "🍌", "itemB": "Kung Fu Panda 4", "valueB": 548000000, "emojiB": "🐼", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "Inception budget", "valueA": 160000000, "emojiA": "💭", "itemB": "Interstellar budget", "valueB": 165000000, "emojiB": "🌌", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "Parasite (2019)", "valueA": 263000000, "emojiA": "🏠", "itemB": "Everything Everywhere", "valueB": 141000000, "emojiB": "🥯", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "Gladiator II (2024)", "valueA": 451000000, "emojiA": "⚔️", "itemB": "Gladiator (2000)", "valueB": 465000000, "emojiB": "🏟️", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "Wicked (2024)", "valueA": 700000000, "emojiA": "🧙", "itemB": "Les Misérables (2012)", "valueB": 441000000, "emojiB": "🎭", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "A Quiet Place (2018)", "valueA": 341000000, "emojiA": "🤫", "itemB": "Get Out (2017)", "valueB": 255000000, "emojiB": "🧠", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "The Meg (2018)", "valueA": 530000000, "emojiA": "🦈", "itemB": "Jaws (1975)", "valueB": 470000000, "emojiB": "🦈", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "Godzilla x Kong (2024)", "valueA": 570000000, "emojiA": "🦎", "itemB": "Pacific Rim (2013)", "valueB": 411000000, "emojiB": "🤖", "unit": "USD", "unitIcon": "💰" },
+
+  { "itemA": "Reacher (Amazon, hours)", "valueA": 200000000, "emojiA": "💪", "itemB": "The Boys (Amazon)", "valueB": 150000000, "emojiB": "🦸", "unit": "viewing hours", "unitIcon": "📺" },
+  { "itemA": "Emily in Paris (Netflix)", "valueA": 108000000, "emojiA": "🇫🇷", "itemB": "The Crown (Netflix)", "valueB": 90000000, "emojiB": "👑", "unit": "viewing hours", "unitIcon": "📺" },
+  { "itemA": "Dark (IMDb)", "valueA": 86, "emojiA": "🌀", "itemB": "Black Mirror (IMDb)", "valueB": 84, "emojiB": "📱", "unit": "rating ×10", "unitIcon": "⭐" },
+  { "itemA": "The Office US (IMDb)", "valueA": 90, "emojiA": "📎", "itemB": "Friends (IMDb)", "valueB": 89, "emojiB": "☕", "unit": "rating ×10", "unitIcon": "⭐" },
+  { "itemA": "Better Call Saul (IMDb)", "valueA": 90, "emojiA": "⚖️", "itemB": "Ozark (IMDb)", "valueB": 85, "emojiB": "💰", "unit": "rating ×10", "unitIcon": "⭐" },
+  { "itemA": "Chernobyl mini (IMDb)", "valueA": 96, "emojiA": "☢️", "itemB": "Band of Brothers (IMDb)", "valueB": 95, "emojiB": "🪖", "unit": "rating ×10", "unitIcon": "⭐" },
+
+  { "itemA": "Steven Spielberg filmek", "valueA": 34, "emojiA": "🎬", "itemB": "Martin Scorsese filmek", "valueB": 27, "emojiB": "🎬", "unit": "rendezett film", "unitIcon": "🔢" },
+  { "itemA": "Meryl Streep (Oscar jelölés)", "valueA": 21, "emojiA": "🎭", "itemB": "Jack Nicholson (jelölés)", "valueB": 12, "emojiB": "🎭", "unit": "nominations", "unitIcon": "🏆" },
+  { "itemA": "Walt Disney (Oscars)", "valueA": 22, "emojiA": "🏰", "itemB": "Steven Spielberg (Oscars)", "valueB": 3, "emojiB": "🎬", "unit": "díj", "unitIcon": "🏆" },
+  { "itemA": "Pixar filmek összesen", "valueA": 28, "emojiA": "🎬", "itemB": "Studio Ghibli filmek", "valueB": 24, "emojiB": "🎬", "unit": "filmek", "unitIcon": "🔢" },
+  { "itemA": "DC Extended Universe", "valueA": 6600000000, "emojiA": "🦇", "itemB": "X-Men franchise", "valueB": 6000000000, "emojiB": "🧬", "unit": "total box office", "unitIcon": "💰" },
+  { "itemA": "Transformers franchise", "valueA": 4800000000, "emojiA": "🤖", "itemB": "Mission Impossible", "valueB": 3500000000, "emojiB": "💥", "unit": "total box office", "unitIcon": "💰" },
+  { "itemA": "Indiana Jones franchise", "valueA": 2400000000, "emojiA": "🤠", "itemB": "Pirates franchise", "valueB": 4500000000, "emojiB": "🏴‍☠️", "unit": "total box office", "unitIcon": "💰" },
+  { "itemA": "Lord of the Rings trilogy", "valueA": 2991000000, "emojiA": "💍", "itemB": "Hobbit trilogy", "valueB": 2932000000, "emojiB": "🧙", "unit": "total USD", "unitIcon": "💰" },
+  { "itemA": "Netflix movies per year", "valueA": 300, "emojiA": "📺", "itemB": "Disney movies per year", "valueB": 15, "emojiB": "🏰", "unit": "released", "unitIcon": "🔢" },
+  { "itemA": "IMAX screens worldwide", "valueA": 1700, "emojiA": "🎬", "itemB": "Dolby Cinema screens", "valueB": 300, "emojiB": "🔊", "unit": "count", "unitIcon": "🔢" },
+  { "itemA": "Movie ticket avg (US)", "valueA": 11, "emojiA": "🎟️", "itemB": "Movie ticket avg (Japan)", "valueB": 14, "emojiB": "🇯🇵", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "Longest movie (Logistics)", "valueA": 51420, "emojiA": "🎬", "itemB": "Longest mainstream film", "valueB": 238, "emojiB": "🎬", "unit": "minutes", "unitIcon": "⏱️" }
 ]

@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Calendar, Layers, Star, User, ChevronDown, BookOpen, Car, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Layers, Star, User, ChevronDown, BookOpen, Car, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import Logo from "@/components/Logo";
 import GameCard from "@/components/GameCard";
@@ -101,18 +101,11 @@ function getStreak(): number {
   return 0;
 }
 
-function hasPlayedDailyToday(): boolean {
-  if (typeof window === "undefined") return false;
-  const key = `plizio_daily_${Math.floor(Date.now() / 86400000)}`;
-  return localStorage.getItem(key) !== null;
-}
-
 export default function Home() {
   const router = useRouter();
   const [streak, setStreak] = useState(0);
   const [cardCount, setCardCount] = useState(0);
   const [specialCount, setSpecialCount] = useState(0);
-  const [dailyPlayed, setDailyPlayed] = useState(false);
   const [showAuth, setShowAuth] = useState(false);
   const [showUsernameModal, setShowUsernameModal] = useState(false);
   const [username, setUsernameState] = useState<string | null>(null);
@@ -127,8 +120,6 @@ export default function Home() {
     setStreak(getStreak());
     setCardCount(getCards().length);
     setSpecialCount(getSpecialCardCount());
-    setDailyPlayed(hasPlayedDailyToday());
-
     // Check username
     if (!hasUsername()) {
       setShowUsernameModal(true);
@@ -213,39 +204,6 @@ export default function Home() {
           )}
         </motion.div>
       )}
-
-      {/* Daily Challenge */}
-      <motion.div
-        initial={{ opacity: 0, scale: 0.9 }}
-        animate={{ opacity: 1, scale: 1 }}
-        transition={{ delay: 0.5 }}
-      >
-        <motion.button
-          onClick={() => router.push("/daily")}
-          className={`bg-card border-2 rounded-2xl px-6 py-3.5 flex items-center gap-3 ${
-            dailyPlayed ? "border-white/5 opacity-40" : "border-gold/30"
-          }`}
-          style={!dailyPlayed ? { boxShadow: "0 0 20px rgba(255,215,0,0.12)" } : undefined}
-          whileHover={{ scale: 1.05 }}
-          whileTap={{ scale: 0.95 }}
-        >
-          <Calendar
-            size={22}
-            className={dailyPlayed ? "text-white/30" : "text-gold"}
-            style={!dailyPlayed ? { filter: "drop-shadow(0 0 6px rgba(255,215,0,0.4))" } : undefined}
-          />
-          <span className={`text-xs font-bold tracking-widest ${dailyPlayed ? "text-white/30" : "text-gold/80"}`}>
-            DAILY
-          </span>
-          {!dailyPlayed && (
-            <motion.div
-              className="w-2 h-2 rounded-full bg-gold"
-              animate={{ scale: [1, 1.3, 1], opacity: [0.6, 1, 0.6] }}
-              transition={{ repeat: Infinity, duration: 1.5 }}
-            />
-          )}
-        </motion.button>
-      </motion.div>
 
       {/* Categories */}
       <div className="flex flex-col items-center gap-6 w-full max-w-md px-2">
