@@ -47,11 +47,11 @@ interface HudData {
 //  CONSTANTS
 // ═══════════════════════════════════════════════
 const T = 4;
-const BLOCK = 7;
+const BLOCK = 10;
 const COLS = 91;
 const ROWS = 91;
-const NPC_COUNT = 15;
-const DOWNTOWN_START = 10; // blocks >= this are downtown
+const NPC_COUNT = 12;
+const DOWNTOWN_START = 6; // blocks >= this are downtown
 const WW = COLS * T;
 const WD = ROWS * T;
 const BLOCKS_X = Math.floor(COLS / BLOCK);
@@ -90,7 +90,7 @@ for (let bz = 0; bz < BLOCKS_Z; bz++)
 //  WORLD GENERATION
 // ═══════════════════════════════════════════════
 function isRoadTile(col: number, row: number) {
-  return col % BLOCK < 2 || row % BLOCK < 2;
+  return col % BLOCK < 3 || row % BLOCK < 3;
 }
 function isParkBlock(col: number, row: number) {
   const bx = Math.floor(col / BLOCK), bz = Math.floor(row / BLOCK);
@@ -100,7 +100,8 @@ function isSolid(x: number, z: number): boolean {
   const c = Math.floor(x / T), r = Math.floor(z / T);
   if (c < 0 || c >= COLS || r < 0 || r >= ROWS) return true;
   if (isRoadTile(c, r)) return false;
-  if (c % BLOCK === 2 || c % BLOCK === 6 || r % BLOCK === 2 || r % BLOCK === 6) return false;
+  // Sidewalk tiles adjacent to roads
+  if (c % BLOCK === 3 || c % BLOCK === BLOCK - 1 || r % BLOCK === 3 || r % BLOCK === BLOCK - 1) return false;
   if (isParkBlock(c, r)) return false;
   return true;
 }
@@ -118,9 +119,9 @@ function genBuildings(): BuildingDef[] {
       const h = isDT ? 15 + ((bx * 7 + bz * 13) % 30) : 6 + ((bx * 7 + bz * 13) % 22);
       const style = isDT ? 2 + ((bx + bz) % 2) : (bx + bz * 3) % 4;
       bs.push({
-        x: (bx * BLOCK + 4.5) * T,
-        z: (bz * BLOCK + 4.5) * T,
-        w: 2.6 * T, d: 2.6 * T, h,
+        x: (bx * BLOCK + 6.5) * T,
+        z: (bz * BLOCK + 6.5) * T,
+        w: 4 * T, d: 4 * T, h,
         glow: isDT ? DOWNTOWN_GLOWS[(bx * 3 + bz * 5) % DOWNTOWN_GLOWS.length] : GLOWS[(bx * 3 + bz * 5) % GLOWS.length],
         style,
       });
@@ -132,38 +133,39 @@ function genTrees(): TreeDef[] {
   const trees: TreeDef[] = [];
   PARK_SET.forEach(key => {
     const [bx, bz] = key.split("-").map(Number);
-    const cx = (bx * BLOCK + 4.5) * T, cz = (bz * BLOCK + 4.5) * T;
+    const cx = (bx * BLOCK + 6.5) * T, cz = (bz * BLOCK + 6.5) * T;
     const count = 4 + ((bx * 3 + bz * 7) % 4);
     for (let i = 0; i < count; i++) {
       const seed = bx * 100 + bz * 10 + i;
-      const ax = Math.sin(seed * 1.7) * 4.5;
-      const az = Math.cos(seed * 2.3) * 4.5;
+      const ax = Math.sin(seed * 1.7) * 6;
+      const az = Math.cos(seed * 2.3) * 6;
       trees.push({ x: cx + ax, z: cz + az, s: 0.7 + (seed % 5) * 0.15 });
     }
   });
-  // Sidewalk trees
+  // Sidewalk trees (every 4th block)
   for (let bz = 0; bz < BLOCKS_Z; bz++)
     for (let bx = 0; bx < BLOCKS_X; bx++) {
-      if ((bx + bz) % 3 !== 0) continue;
-      const tx = (bx * BLOCK + 2.5) * T;
-      const tz = (bz * BLOCK + 2.5) * T;
+      if ((bx + bz) % 4 !== 0) continue;
+      const tx = (bx * BLOCK + 3.5) * T;
+      const tz = (bz * BLOCK + 3.5) * T;
       trees.push({ x: tx, z: tz, s: 0.6 });
     }
   return trees;
 }
 
-const NPC_COLORS = ["#00D4FF","#FFD700","#00FF88","#B44DFF","#FF6B00","#44FFCC","#FF8888","#88CCFF","#DDAA44","#77DD77","#DD77DD","#77DDDD","#AA7744","#AABB55","#5588CC"];
-const NPC_NAMES = ["Sedan","Sedan","Truck","Taxi","Sedan","Sedan","Truck","Sedan","Taxi","Sedan","Sedan","Truck","Sedan","Taxi","Sedan"];
+const NPC_COLORS = ["#00D4FF","#FFD700","#00FF88","#B44DFF","#FF6B00","#44FFCC","#FF8888","#88CCFF","#DDAA44","#77DD77","#DD77DD","#77DDDD"];
+const NPC_NAMES = ["Sedan","Sedan","Truck","Taxi","Sedan","Sedan","Truck","Sedan","Taxi","Sedan","Sedan","Truck"];
 function initCars(): CarData[] {
   const base = { pushVx: 0, pushVz: 0, aiTimer: 0 };
-  const playerCar: CarData = { x: 1 * T, z: 5 * T, angle: 0, speed: 0, maxSpeed: 40, accel: 25, handling: 3.0, color: "#FF2D55", name: "Sport", isNPC: false, ...base };
+  const playerCar: CarData = { x: 1 * T, z: 1 * T, angle: 0, speed: 0, maxSpeed: 40, accel: 25, handling: 3.0, color: "#FF2D55", name: "Sport", isNPC: false, ...base };
   const dirs = [0, Math.PI / 2, Math.PI, Math.PI * 1.5];
   const npcs: CarData[] = [];
   for (let i = 0; i < NPC_COUNT; i++) {
-    const bx = (i * 3 + 1) % BLOCKS_X, bz = (i * 2 + 2) % BLOCKS_Z;
+    const bx = (i * 2 + 1) % BLOCKS_X, bz = (i * 3 + 1) % BLOCKS_Z;
+    // Spawn NPC on road: tile 1 of the block (center of 3-tile road)
     npcs.push({
       x: (bx * BLOCK + 1) * T, z: (bz * BLOCK + 1) * T, angle: dirs[i % 4],
-      speed: 0, maxSpeed: 12 + (i % 6) * 3, accel: 15, handling: 2.0,
+      speed: 0, maxSpeed: 10 + (i % 5) * 3, accel: 12, handling: 2.0,
       color: NPC_COLORS[i], name: NPC_NAMES[i], isNPC: true, ...base,
     });
   }
@@ -501,20 +503,20 @@ function MiniMap({ hudRef, missionsRef, carsRef }: { hudRef: React.RefObject<Hud
       ctx.fillStyle = "#0d1020";
       ctx.fillRect(0, 0, S, S);
 
-      // Roads
+      // Roads (3 tiles wide)
       ctx.fillStyle = "#2a2a40";
       for (let i = 0; i < BLOCKS_X; i++) {
-        const p = (i * BLOCK + 0.5) * T * sc;
-        ctx.fillRect(p, 0, T * 2 * sc, S);
-        ctx.fillRect(0, p, S, T * 2 * sc);
+        const p = i * BLOCK * T * sc;
+        ctx.fillRect(p, 0, T * 3 * sc, S);
+        ctx.fillRect(0, p, S, T * 3 * sc);
       }
 
       // Buildings & Parks
       for (let bz = 0; bz < BLOCKS_Z; bz++)
         for (let bx = 0; bx < BLOCKS_X; bx++) {
-          const cx = (bx * BLOCK + 4.5) * T * sc;
-          const cz = (bz * BLOCK + 4.5) * T * sc;
-          const w = 2.6 * T * sc;
+          const cx = (bx * BLOCK + 6.5) * T * sc;
+          const cz = (bz * BLOCK + 6.5) * T * sc;
+          const w = 4 * T * sc;
           if (PARK_SET.has(`${bx}-${bz}`)) {
             ctx.fillStyle = "#1a3a22";
             ctx.fillRect(cx - w / 2, cz - w / 2, w, w);
@@ -671,7 +673,7 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
       carsRef.current = initCars();
       carsDataRef.current = carsRef.current;
       // Spawn player next to their car
-      plRef.current = { x: 1 * T + 3, z: 5 * T, angle: 0, inCar: -1 };
+      plRef.current = { x: 1 * T + 3, z: 1 * T, angle: 0, inCar: -1 };
       hudRef.current.score = 0;
       hudRef.current.missions = 0;
       midRef.current = 0;
@@ -829,7 +831,7 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
       }
     }
 
-    // ── NPC AI ──
+    // ── NPC AI — lane-keeping + NPC-NPC avoidance ──
     for (let i = 0; i < carsRef.current.length; i++) {
       const npc = carsRef.current[i];
       if (!npc.isNPC || i === p.inCar) continue;
@@ -844,32 +846,63 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
       const dp = Math.sqrt((npc.x - p.x) ** 2 + (npc.z - p.z) ** 2);
       const dotP = dp > 0 ? ((p.x - npc.x) * nfx + (p.z - npc.z) * nfz) / dp : 0;
       const playerAhead = p.inCar < 0 && dp < 8 && dotP > 0.6;
+      // Check for other NPCs ahead (avoid rear-end collisions)
+      let npcAhead = false;
+      for (let j = 0; j < carsRef.current.length; j++) {
+        if (j === i || j === p.inCar) continue;
+        const other = carsRef.current[j];
+        const ddx = other.x - npc.x, ddz = other.z - npc.z;
+        const dist = Math.sqrt(ddx * ddx + ddz * ddz);
+        if (dist < 10 && dist > 0) {
+          const dot = (ddx * nfx + ddz * nfz) / dist;
+          if (dot > 0.7) { npcAhead = true; break; }
+        }
+      }
       // Check road ahead
-      const ax = npc.x + nfx * 4, az = npc.z + nfz * 4;
+      const ax = npc.x + nfx * 5, az = npc.z + nfz * 5;
       const blocked = solidBox(ax, az, 0.8, 1.4);
       if (playerAhead || blocked) {
         npc.speed *= 0.88;
         if (blocked && npc.speed < 1) {
-          // Turn to find road
           const la = npc.angle + Math.PI / 2, ra = npc.angle - Math.PI / 2;
-          const lOk = !solidBox(npc.x + Math.sin(la) * 4, npc.z + Math.cos(la) * 4, 0.8, 1.4);
-          const rOk = !solidBox(npc.x + Math.sin(ra) * 4, npc.z + Math.cos(ra) * 4, 0.8, 1.4);
+          const lOk = !solidBox(npc.x + Math.sin(la) * 5, npc.z + Math.cos(la) * 5, 0.8, 1.4);
+          const rOk = !solidBox(npc.x + Math.sin(ra) * 5, npc.z + Math.cos(ra) * 5, 0.8, 1.4);
           if (lOk && rOk) npc.angle += (Math.random() > 0.5 ? 1 : -1) * Math.PI / 2;
           else if (lOk) npc.angle = la;
           else if (rOk) npc.angle = ra;
           else npc.angle += Math.PI;
         }
+      } else if (npcAhead) {
+        // Slow down gently when another NPC is ahead
+        npc.speed *= 0.95;
       } else {
-        npc.speed += (npc.maxSpeed - npc.speed) * dt * 2;
-        // Random turn at intersections
+        npc.speed += (npc.maxSpeed - npc.speed) * dt * 1.5;
+        // Random turn at intersections (wider roads: col%BLOCK < 3)
         npc.aiTimer -= dt;
         if (npc.aiTimer <= 0) {
           const nc = Math.floor(npc.x / T), nr = Math.floor(npc.z / T);
-          if (nc % BLOCK < 2 && nr % BLOCK < 2 && Math.random() < 0.25) {
+          if (nc % BLOCK < 3 && nr % BLOCK < 3 && Math.random() < 0.2) {
             npc.angle += (Math.random() > 0.5 ? 1 : -1) * Math.PI / 2;
-            npc.aiTimer = 3;
+            npc.aiTimer = 4;
           }
         }
+      }
+      // Lane-keeping: gently steer NPC toward road center lane
+      const nc = Math.floor(npc.x / T), nr = Math.floor(npc.z / T);
+      const isOnXRoad = nc % BLOCK < 3;
+      const isOnZRoad = nr % BLOCK < 3;
+      if (isOnXRoad && !isOnZRoad) {
+        // On vertical road — keep X position near lane center
+        const roadCenterX = (Math.floor(nc / BLOCK) * BLOCK + 1.5) * T;
+        const laneOffset = Math.abs(nfz) > 0.5 ? (nfz > 0 ? T * 0.7 : -T * 0.7) : 0;
+        const targetX = roadCenterX + laneOffset;
+        npc.x += (targetX - npc.x) * dt * 1.2;
+      } else if (isOnZRoad && !isOnXRoad) {
+        // On horizontal road — keep Z position near lane center
+        const roadCenterZ = (Math.floor(nr / BLOCK) * BLOCK + 1.5) * T;
+        const laneOffset = Math.abs(nfx) > 0.5 ? (nfx > 0 ? T * 0.7 : -T * 0.7) : 0;
+        const targetZ = roadCenterZ + laneOffset;
+        npc.z += (targetZ - npc.z) * dt * 1.2;
       }
       // Move NPC
       if (Math.abs(npc.speed) > 0.1) {
@@ -999,66 +1032,65 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
         <meshStandardMaterial color="#1e1e36" />
       </mesh>
 
-      {/* Road surfaces */}
+      {/* Road surfaces — 3-tile wide (2 lanes) */}
       {Array.from({ length: BLOCKS_X }, (_, i) => {
-        const pos = (i * BLOCK + 0.5) * T;
+        const cx = (i * BLOCK + 1.5) * T;
         return (
           <group key={`road-${i}`}>
-            <mesh rotation-x={-Math.PI / 2} position={[pos + T / 2, 0.01, WD / 2]}>
-              <planeGeometry args={[T * 2, WD]} />
+            {/* Vertical road strip */}
+            <mesh rotation-x={-Math.PI / 2} position={[cx, 0.01, WD / 2]}>
+              <planeGeometry args={[T * 3, WD]} />
               <meshStandardMaterial color="#3a3a55" />
             </mesh>
-            <mesh rotation-x={-Math.PI / 2} position={[WW / 2, 0.01, pos + T / 2]}>
-              <planeGeometry args={[WW, T * 2]} />
+            {/* Horizontal road strip */}
+            <mesh rotation-x={-Math.PI / 2} position={[WW / 2, 0.01, cx]}>
+              <planeGeometry args={[WW, T * 3]} />
               <meshStandardMaterial color="#3a3a55" />
             </mesh>
-            <mesh rotation-x={-Math.PI / 2} position={[pos + T / 2, 0.02, WD / 2]}>
-              <planeGeometry args={[0.12, WD]} />
+            {/* Center lane divider (yellow dashed) */}
+            <mesh rotation-x={-Math.PI / 2} position={[cx, 0.02, WD / 2]}>
+              <planeGeometry args={[0.15, WD]} />
               <meshStandardMaterial color="#aa9933" />
+            </mesh>
+            <mesh rotation-x={-Math.PI / 2} position={[WW / 2, 0.02, cx]}>
+              <planeGeometry args={[WW, 0.15]} />
+              <meshStandardMaterial color="#aa9933" />
+            </mesh>
+            {/* White edge lines */}
+            <mesh rotation-x={-Math.PI / 2} position={[cx - T * 1.4, 0.02, WD / 2]}>
+              <planeGeometry args={[0.08, WD]} />
+              <meshStandardMaterial color="#666" />
+            </mesh>
+            <mesh rotation-x={-Math.PI / 2} position={[cx + T * 1.4, 0.02, WD / 2]}>
+              <planeGeometry args={[0.08, WD]} />
+              <meshStandardMaterial color="#666" />
             </mesh>
           </group>
         );
       })}
 
-      {/* Buildings */}
+      {/* Buildings — simplified for performance (2 meshes each) */}
       {buildings.map((b, i) => (
         <group key={`b-${i}`} position={[b.x, 0, b.z]}>
           <mesh position={[0, b.h / 2, 0]}>
             <boxGeometry args={[b.w, b.h, b.d]} />
             <meshStandardMaterial color="#2a2a48" roughness={0.6} />
           </mesh>
-          {/* Subtle color accent line at base (no emissive = no mobile vibration) */}
-          <mesh position={[0, 0.08, b.d / 2 + 0.05]}>
-            <boxGeometry args={[b.w - 0.5, 0.15, 0.06]} />
-            <meshStandardMaterial color={b.glow} />
-          </mesh>
-          <mesh position={[0, 0.08, -b.d / 2 - 0.05]}>
-            <boxGeometry args={[b.w - 0.5, 0.15, 0.06]} />
-            <meshStandardMaterial color={b.glow} />
-          </mesh>
-          {/* Neon top edge */}
           <mesh position={[0, b.h + 0.05, 0]}>
             <boxGeometry args={[b.w, 0.15, b.d]} />
             <meshStandardMaterial color={b.glow} emissive={b.glow} emissiveIntensity={0.4} />
           </mesh>
-          {/* Window rows */}
-          {b.style < 2 && Array.from({ length: Math.min(Math.floor(b.h / 3), 6) }, (_, wi) => (
-            <mesh key={`win-${wi}`} position={[0, 2.5 + wi * 3, b.d / 2 + 0.05]}>
-              <planeGeometry args={[b.w * 0.7, 1.2]} />
-              <meshStandardMaterial color={b.glow} emissive={b.glow} emissiveIntensity={0.3} />
-            </mesh>
-          ))}
         </group>
       ))}
 
       {/* Park areas */}
       {Array.from(PARK_SET).map(key => {
         const [bx, bz] = key.split("-").map(Number);
-        const cx = (bx * BLOCK + 4.5) * T, cz = (bz * BLOCK + 4.5) * T;
+        const cx = (bx * BLOCK + 6.5) * T, cz = (bz * BLOCK + 6.5) * T;
         return (
           <group key={`park-${key}`}>
             <mesh rotation-x={-Math.PI / 2} position={[cx, 0.02, cz]}>
-              <planeGeometry args={[3 * T, 3 * T]} />
+              <planeGeometry args={[5 * T, 5 * T]} />
               <meshStandardMaterial color="#1a3a20" />
             </mesh>
           </group>
@@ -1079,10 +1111,10 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
         </group>
       ))}
 
-      {/* Street lights */}
+      {/* Street lights (no pointLights for performance — emissive only) */}
       {Array.from({ length: Math.ceil(BLOCKS_X / 2) }, (_, iz) =>
         Array.from({ length: Math.ceil(BLOCKS_Z / 2) }, (_, ix) => {
-          const lx = (ix * 14 + 2) * T, lz = (iz * 14 + 2) * T;
+          const lx = (ix * BLOCK * 2 + 3) * T, lz = (iz * BLOCK * 2 + 3) * T;
           if (lx >= WW || lz >= WD) return null;
           return (
             <group key={`sl-${ix}-${iz}`} position={[lx, 0, lz]}>
@@ -1091,25 +1123,23 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
                 <meshStandardMaterial color="#444" />
               </mesh>
               <mesh position={[0, 5, 0]}>
-                <sphereGeometry args={[0.35, 6, 6]} />
-                <meshStandardMaterial color="#FFE8AA" emissive="#FFE8AA" emissiveIntensity={3} />
+                <sphereGeometry args={[0.35, 4, 4]} />
+                <meshStandardMaterial color="#FFE8AA" emissive="#FFE8AA" emissiveIntensity={4} />
               </mesh>
-              <pointLight position={[0, 5, 0]} color="#FFE088" intensity={8} distance={28} />
             </group>
           );
         })
       ).flat()}
 
-      {/* Cars */}
+      {/* Cars — player Sport detailed, NPC traffic simplified */}
       {carsRef.current.map((car, i) => {
-        const isSport = car.name === "Sport" || car.name === "Racer" || car.name === "Muscle";
-        const isTruck = car.name === "Truck";
+        const isPlayer = !car.isNPC;
         const darkColor = new THREE.Color(car.color).multiplyScalar(0.4).getStyle();
         return (
         <group key={i} ref={el => { carMeshes.current[i] = el; }}>
-          {isSport ? (
+          {isPlayer ? (
             <>
-              {/* ═══ SPORT / RACER / MUSCLE — detailed supercar ═══ */}
+              {/* ═══ PLAYER SPORT CAR — detailed ═══ */}
               <mesh position={[0, 0.38, 0]}>
                 <boxGeometry args={[2.2, 0.55, 4.6]} />
                 <meshStandardMaterial color={car.color} metalness={0.7} roughness={0.25} />
@@ -1117,22 +1147,6 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
               <mesh position={[0, 0.48, 1.6]} rotation={[0.18, 0, 0]}>
                 <boxGeometry args={[2.05, 0.18, 1.6]} />
                 <meshStandardMaterial color={car.color} metalness={0.7} roughness={0.25} />
-              </mesh>
-              <mesh position={[0, 0.12, 2.35]}>
-                <boxGeometry args={[2.3, 0.08, 0.35]} />
-                <meshStandardMaterial color="#111" metalness={0.3} roughness={0.8} />
-              </mesh>
-              <mesh position={[0, 0.22, 2.32]}>
-                <boxGeometry args={[1.0, 0.18, 0.12]} />
-                <meshStandardMaterial color="#080808" roughness={0.9} />
-              </mesh>
-              <mesh position={[-0.72, 0.22, 2.32]}>
-                <boxGeometry args={[0.35, 0.16, 0.12]} />
-                <meshStandardMaterial color="#080808" roughness={0.9} />
-              </mesh>
-              <mesh position={[0.72, 0.22, 2.32]}>
-                <boxGeometry args={[0.35, 0.16, 0.12]} />
-                <meshStandardMaterial color="#080808" roughness={0.9} />
               </mesh>
               <mesh position={[0, 0.88, -0.2]}>
                 <boxGeometry args={[1.6, 0.52, 1.9]} />
@@ -1150,66 +1164,6 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
                 <boxGeometry args={[2.1, 0.3, 1.2]} />
                 <meshStandardMaterial color={car.color} metalness={0.7} roughness={0.25} />
               </mesh>
-              {[-0.35, 0, 0.35].map((ox, vi) => (
-                <mesh key={`vent-${vi}`} position={[ox, 0.72, -1.5]}>
-                  <boxGeometry args={[0.2, 0.04, 0.8]} />
-                  <meshStandardMaterial color="#111" roughness={0.9} />
-                </mesh>
-              ))}
-              <mesh position={[-1.13, 0.42, -0.15]}>
-                <boxGeometry args={[0.08, 0.22, 0.8]} />
-                <meshStandardMaterial color="#111" roughness={0.9} />
-              </mesh>
-              <mesh position={[1.13, 0.42, -0.15]}>
-                <boxGeometry args={[0.08, 0.22, 0.8]} />
-                <meshStandardMaterial color="#111" roughness={0.9} />
-              </mesh>
-              <mesh position={[-1.08, 0.15, 0]}>
-                <boxGeometry args={[0.12, 0.18, 3.8]} />
-                <meshStandardMaterial color="#111" metalness={0.3} roughness={0.7} />
-              </mesh>
-              <mesh position={[1.08, 0.15, 0]}>
-                <boxGeometry args={[0.12, 0.18, 3.8]} />
-                <meshStandardMaterial color="#111" metalness={0.3} roughness={0.7} />
-              </mesh>
-              <mesh position={[0, 1.05, -2.15]}>
-                <boxGeometry args={[2.3, 0.06, 0.4]} />
-                <meshStandardMaterial color={car.color} metalness={0.7} roughness={0.25} />
-              </mesh>
-              <mesh position={[-1.1, 0.95, -2.15]}>
-                <boxGeometry args={[0.06, 0.25, 0.4]} />
-                <meshStandardMaterial color={car.color} metalness={0.7} roughness={0.3} />
-              </mesh>
-              <mesh position={[1.1, 0.95, -2.15]}>
-                <boxGeometry args={[0.06, 0.25, 0.4]} />
-                <meshStandardMaterial color={car.color} metalness={0.7} roughness={0.3} />
-              </mesh>
-              <mesh position={[-0.6, 0.85, -2.15]}>
-                <boxGeometry args={[0.08, 0.35, 0.08]} />
-                <meshStandardMaterial color="#222" metalness={0.5} roughness={0.5} />
-              </mesh>
-              <mesh position={[0.6, 0.85, -2.15]}>
-                <boxGeometry args={[0.08, 0.35, 0.08]} />
-                <meshStandardMaterial color="#222" metalness={0.5} roughness={0.5} />
-              </mesh>
-              <mesh position={[0, 0.1, -2.32]}>
-                <boxGeometry args={[1.8, 0.15, 0.25]} />
-                <meshStandardMaterial color="#111" roughness={0.9} />
-              </mesh>
-              {[-0.5, -0.17, 0.17, 0.5].map((ox, fi) => (
-                <mesh key={`fin-${fi}`} position={[ox, 0.1, -2.32]}>
-                  <boxGeometry args={[0.03, 0.12, 0.24]} />
-                  <meshStandardMaterial color="#222" roughness={0.8} />
-                </mesh>
-              ))}
-              <mesh position={[-0.4, 0.18, -2.38]}>
-                <cylinderGeometry args={[0.08, 0.08, 0.12, 8]} />
-                <meshStandardMaterial color="#444" metalness={0.9} roughness={0.2} />
-              </mesh>
-              <mesh position={[0.4, 0.18, -2.38]}>
-                <cylinderGeometry args={[0.08, 0.08, 0.12, 8]} />
-                <meshStandardMaterial color="#444" metalness={0.9} roughness={0.2} />
-              </mesh>
               <mesh position={[-0.65, 0.42, 2.31]}>
                 <boxGeometry args={[0.6, 0.08, 0.06]} />
                 <meshStandardMaterial color="#FFFFFF" emissive="#FFFFFF" emissiveIntensity={2.5} />
@@ -1218,135 +1172,39 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
                 <boxGeometry args={[0.6, 0.08, 0.06]} />
                 <meshStandardMaterial color="#FFFFFF" emissive="#FFFFFF" emissiveIntensity={2.5} />
               </mesh>
-              <mesh position={[-0.65, 0.32, 2.31]}>
-                <boxGeometry args={[0.45, 0.03, 0.06]} />
-                <meshStandardMaterial color={car.color} emissive={car.color} emissiveIntensity={1.5} />
-              </mesh>
-              <mesh position={[0.65, 0.32, 2.31]}>
-                <boxGeometry args={[0.45, 0.03, 0.06]} />
-                <meshStandardMaterial color={car.color} emissive={car.color} emissiveIntensity={1.5} />
-              </mesh>
               <mesh position={[0, 0.48, -2.33]}>
                 <boxGeometry args={[2.0, 0.06, 0.06]} />
                 <meshStandardMaterial color="#FF0000" emissive="#FF0000" emissiveIntensity={1.8} />
               </mesh>
-              <mesh position={[-0.85, 0.42, -2.33]}>
-                <boxGeometry args={[0.25, 0.12, 0.06]} />
-                <meshStandardMaterial color="#FF0000" emissive="#FF2200" emissiveIntensity={1.2} />
-              </mesh>
-              <mesh position={[0.85, 0.42, -2.33]}>
-                <boxGeometry args={[0.25, 0.12, 0.06]} />
-                <meshStandardMaterial color="#FF0000" emissive="#FF2200" emissiveIntensity={1.2} />
-              </mesh>
-              <mesh position={[-1.15, 0.78, 0.4]}>
-                <boxGeometry args={[0.18, 0.1, 0.2]} />
-                <meshStandardMaterial color={car.color} metalness={0.7} roughness={0.3} />
-              </mesh>
-              <mesh position={[1.15, 0.78, 0.4]}>
-                <boxGeometry args={[0.18, 0.1, 0.2]} />
-                <meshStandardMaterial color={car.color} metalness={0.7} roughness={0.3} />
-              </mesh>
               {[[-0.95, 1.3], [0.95, 1.3], [-0.95, -1.3], [0.95, -1.3]].map(([wx, wz], wi) => (
                 <group key={`w-${wi}`} position={[wx, 0.28, wz]}>
                   <mesh rotation={[0, 0, Math.PI / 2]}>
-                    <cylinderGeometry args={[0.32, 0.32, 0.28, 12]} />
+                    <cylinderGeometry args={[0.32, 0.32, 0.28, 8]} />
                     <meshStandardMaterial color="#1a1a1a" roughness={0.9} />
                   </mesh>
                   <mesh rotation={[0, 0, Math.PI / 2]}>
-                    <cylinderGeometry args={[0.2, 0.2, 0.3, 8]} />
+                    <cylinderGeometry args={[0.18, 0.18, 0.3, 6]} />
                     <meshStandardMaterial color="#888" metalness={0.9} roughness={0.15} />
-                  </mesh>
-                  <mesh rotation={[0, 0, Math.PI / 2]} position={[wx > 0 ? 0.01 : -0.01, 0, 0]}>
-                    <cylinderGeometry args={[0.08, 0.08, 0.32, 6]} />
-                    <meshStandardMaterial color="#aaa" metalness={0.9} roughness={0.1} />
-                  </mesh>
-                  <mesh rotation={[0, 0, Math.PI / 2]}>
-                    <cylinderGeometry args={[0.18, 0.18, 0.05, 8]} />
-                    <meshStandardMaterial color="#553322" metalness={0.6} roughness={0.4} />
-                  </mesh>
-                </group>
-              ))}
-              <mesh position={[0, 0.02, 0]}>
-                <boxGeometry args={[1.8, 0.02, 3.6]} />
-                <meshStandardMaterial color={car.color} emissive={car.color} emissiveIntensity={0.6} />
-              </mesh>
-            </>
-          ) : isTruck ? (
-            <>
-              <mesh position={[0, 0.7, 0]}>
-                <boxGeometry args={[2.4, 1.4, 4.8]} />
-                <meshStandardMaterial color={car.color} metalness={0.2} roughness={0.6} />
-              </mesh>
-              <mesh position={[0, 1.7, -0.5]}>
-                <boxGeometry args={[2.2, 0.9, 2.4]} />
-                <meshStandardMaterial color={car.color} metalness={0.2} roughness={0.6} />
-              </mesh>
-              <mesh position={[0, 1.55, 0.55]} rotation={[-0.4, 0, 0]}>
-                <boxGeometry args={[2.0, 0.04, 1.0]} />
-                <meshStandardMaterial color="#1a2a44" metalness={0.8} roughness={0.1} />
-              </mesh>
-              <mesh position={[0, 0.7, 2.45]}>
-                <boxGeometry args={[1.8, 0.3, 0.1]} />
-                <meshStandardMaterial color="#FFFF99" emissive="#FFFF99" emissiveIntensity={1.5} />
-              </mesh>
-              <mesh position={[0, 0.7, -2.45]}>
-                <boxGeometry args={[2.0, 0.25, 0.1]} />
-                <meshStandardMaterial color="#FF0000" emissive="#FF0000" emissiveIntensity={1.0} />
-              </mesh>
-              {[[-1.1, 1.5], [1.1, 1.5], [-1.1, -1.5], [1.1, -1.5]].map(([wx, wz], wi) => (
-                <group key={`w-${wi}`} position={[wx, 0.35, wz]}>
-                  <mesh rotation={[0, 0, Math.PI / 2]}>
-                    <cylinderGeometry args={[0.38, 0.38, 0.32, 10]} />
-                    <meshStandardMaterial color="#1a1a1a" roughness={0.9} />
-                  </mesh>
-                  <mesh rotation={[0, 0, Math.PI / 2]}>
-                    <cylinderGeometry args={[0.22, 0.22, 0.34, 6]} />
-                    <meshStandardMaterial color="#666" metalness={0.8} roughness={0.2} />
                   </mesh>
                 </group>
               ))}
             </>
           ) : (
             <>
+              {/* ═══ NPC TRAFFIC — simple box + wheels (5 meshes) ═══ */}
               <mesh position={[0, 0.5, 0]}>
-                <boxGeometry args={[2.0, 0.85, 4.4]} />
-                <meshStandardMaterial color={car.color} metalness={0.4} roughness={0.4} />
+                <boxGeometry args={[2.0, 0.8, 4.2]} />
+                <meshStandardMaterial color={car.color} metalness={0.3} roughness={0.5} />
               </mesh>
-              <mesh position={[0, 0.45, 1.5]} rotation={[0.1, 0, 0]}>
-                <boxGeometry args={[1.9, 0.2, 1.0]} />
-                <meshStandardMaterial color={car.color} metalness={0.4} roughness={0.4} />
-              </mesh>
-              <mesh position={[0, 1.15, -0.3]}>
-                <boxGeometry args={[1.75, 0.6, 2.2]} />
-                <meshStandardMaterial color={car.color} metalness={0.4} roughness={0.4} />
-              </mesh>
-              <mesh position={[0, 1.1, 0.7]} rotation={[-0.4, 0, 0]}>
-                <boxGeometry args={[1.65, 0.04, 1.0]} />
-                <meshStandardMaterial color="#1a2a44" metalness={0.85} roughness={0.1} />
-              </mesh>
-              <mesh position={[0, 1.1, -1.25]} rotation={[0.35, 0, 0]}>
-                <boxGeometry args={[1.5, 0.04, 0.65]} />
-                <meshStandardMaterial color="#1a2a44" metalness={0.85} roughness={0.1} />
-              </mesh>
-              <mesh position={[0, 0.5, 2.22]}>
-                <boxGeometry args={[1.6, 0.2, 0.08]} />
-                <meshStandardMaterial color="#FFFF99" emissive="#FFFF99" emissiveIntensity={1.8} />
-              </mesh>
-              <mesh position={[0, 0.5, -2.22]}>
-                <boxGeometry args={[1.7, 0.18, 0.08]} />
-                <meshStandardMaterial color="#FF0000" emissive="#FF0000" emissiveIntensity={1.0} />
+              <mesh position={[0, 1.1, -0.3]}>
+                <boxGeometry args={[1.7, 0.5, 1.8]} />
+                <meshStandardMaterial color={car.color} metalness={0.3} roughness={0.5} />
               </mesh>
               {[[-0.9, 1.3], [0.9, 1.3], [-0.9, -1.3], [0.9, -1.3]].map(([wx, wz], wi) => (
-                <group key={`w-${wi}`} position={[wx, 0.25, wz]}>
-                  <mesh rotation={[0, 0, Math.PI / 2]}>
-                    <cylinderGeometry args={[0.3, 0.3, 0.26, 10]} />
-                    <meshStandardMaterial color="#1a1a1a" roughness={0.9} />
-                  </mesh>
-                  <mesh rotation={[0, 0, Math.PI / 2]}>
-                    <cylinderGeometry args={[0.18, 0.18, 0.28, 6]} />
-                    <meshStandardMaterial color="#777" metalness={0.8} roughness={0.2} />
-                  </mesh>
-                </group>
+                <mesh key={`w-${wi}`} position={[wx, 0.25, wz]} rotation={[0, 0, Math.PI / 2]}>
+                  <cylinderGeometry args={[0.28, 0.28, 0.22, 6]} />
+                  <meshStandardMaterial color="#1a1a1a" roughness={0.9} />
+                </mesh>
               ))}
             </>
           )}
