@@ -6,6 +6,7 @@ import * as THREE from "three";
 import { motion, AnimatePresence } from "framer-motion";
 import { Car } from "lucide-react";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import RewardReveal from "@/components/RewardReveal";
 import ResultCard from "@/components/ResultCard";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
@@ -1073,7 +1074,9 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
 //  MAIN COMPONENT
 // ═══════════════════════════════════════════════
 export default function CityDrivePage() {
-  const [gameState, setGameState] = useState<GameState>("menu");
+  const router = useRouter();
+  const initSave = typeof window !== "undefined" ? !!loadFromStorage() : false;
+  const [gameState, setGameState] = useState<GameState>(initSave ? "menu" : "playing");
   const [countdown, setCountdown] = useState(3);
   const [finalScore, setFinalScore] = useState(0);
   const [finalMissions, setFinalMissions] = useState(0);
@@ -1081,7 +1084,7 @@ export default function CityDrivePage() {
   const [showMilestone, setShowMilestone] = useState(false);
   const [hudTick, setHudTick] = useState(0);
   const [resuming, setResuming] = useState(false);
-  const [hasSave, setHasSave] = useState(false);
+  const [hasSave, setHasSave] = useState(initSave);
   const joystickKnobRef = useRef<HTMLDivElement>(null);
 
   const keysRef = useRef(new Set<string>());
@@ -1090,8 +1093,6 @@ export default function CityDrivePage() {
   const hudRef = useRef<HudData>({ score: 0, missions: 0, inCar: -1, speed: 0, carColor: "#fff", msg: "", msgT: 0, px: 4, pz: 4, angle: 0 });
   const missionsRef = useRef<MissionData[]>([]);
   const gameDataRef = useRef<SaveData | null>(null);
-
-  useEffect(() => { setHasSave(!!loadFromStorage()); }, []);
 
   useEffect(() => {
     if (gameState !== "countdown") return;
@@ -1135,10 +1136,9 @@ export default function CityDrivePage() {
   const saveAndExit = useCallback(() => {
     if (gameDataRef.current) {
       saveToStorage(gameDataRef.current);
-      setHasSave(true);
     }
-    setGameState("menu");
-  }, []);
+    router.push("/");
+  }, [router]);
   const startGame = () => { setResuming(false); clearSave(); setHasSave(false); setGameState("playing"); };
   const continueGame = () => { setResuming(true); setGameState("playing"); };
   const playAgain = () => { setCardSaved(false); setResuming(false); clearSave(); setHasSave(false); setGameState("playing"); };
@@ -1236,35 +1236,16 @@ export default function CityDrivePage() {
       {/* MENU */}
       <AnimatePresence>
         {gameState === "menu" && (
-          <motion.div className="absolute inset-0 z-30 flex flex-col items-center justify-center bg-[#0a0e1a]/95"
+          <motion.div className="absolute inset-0 z-30 flex items-center justify-center bg-[#0a0e1a]/90"
             initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
-            <motion.div initial={{ scale: 0.8, y: 20 }} animate={{ scale: 1, y: 0 }} transition={{ type: "spring" }}>
-              <div className="text-center mb-8">
-                <div className="text-6xl mb-4">🏎️</div>
-                <h1 className="text-4xl font-black text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-red-500">CITY DRIVE</h1>
-                <p className="text-white/50 text-sm mt-2 max-w-xs mx-auto">Explore the mega neon city, drive 7 cars, complete missions!</p>
-              </div>
-              <div className="space-y-3 mb-8 px-4 max-w-sm mx-auto">
-                <div className="flex items-center gap-3 bg-white/5 rounded-lg px-4 py-2">
-                  <span className="text-lg">🚗</span>
-                  <div className="text-xs text-white/70"><b className="text-white">7 cars</b> — Sport, Racer, Muscle, Electric & more</div>
-                </div>
-                <div className="flex items-center gap-3 bg-white/5 rounded-lg px-4 py-2">
-                  <span className="text-lg">🌃</span>
-                  <div className="text-xs text-white/70"><b className="text-white">Huge 3D city</b> — parks, neon buildings, free roam</div>
-                </div>
-                <div className="flex items-center gap-3 bg-white/5 rounded-lg px-4 py-2">
-                  <span className="text-lg">📦</span>
-                  <div className="text-xs text-white/70"><b className="text-white">{TOTAL_M} missions</b> — deliver, park, collect coins</div>
-                </div>
-              </div>
-              <div className="text-center space-y-3 px-4">
-                <div className="text-[10px] text-white/30 mb-2">WASD / arrows: move • SPACE: enter/exit car</div>
-                {hasSave && (
-                  <button onClick={continueGame} className="w-full max-w-xs py-3 rounded-xl font-black text-lg text-white bg-gradient-to-r from-green-500 to-emerald-500 hover:from-green-400 hover:to-emerald-400 transition-all shadow-lg shadow-green-500/30 active:scale-95 mb-2">CONTINUE</button>
-                )}
-                <button onClick={startGame} className="w-full max-w-xs py-3 rounded-xl font-black text-lg text-white bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-400 hover:to-red-400 transition-all shadow-lg shadow-orange-500/30 active:scale-95">{hasSave ? "NEW GAME" : "START"}</button>
-                <Link href="/" className="block text-white/40 text-sm hover:text-white/60 mt-4">← Back</Link>
+            <motion.div initial={{ scale: 0.9, y: 10 }} animate={{ scale: 1, y: 0 }} transition={{ type: "spring" }}
+              className="text-center space-y-4 px-6">
+              <div className="text-5xl mb-2">🏎️</div>
+              <h2 className="text-2xl font-black text-white">Saved game found</h2>
+              <p className="text-white/50 text-sm">Continue from where you left off?</p>
+              <div className="space-y-3 pt-2">
+                <button onClick={continueGame} className="w-full max-w-xs py-3 rounded-xl font-black text-lg text-white bg-gradient-to-r from-green-500 to-emerald-500 hover:from-green-400 hover:to-emerald-400 transition-all shadow-lg shadow-green-500/30 active:scale-95">CONTINUE</button>
+                <button onClick={startGame} className="w-full max-w-xs py-3 rounded-xl font-black text-lg text-white bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-400 hover:to-red-400 transition-all shadow-lg shadow-orange-500/30 active:scale-95">NEW GAME</button>
               </div>
             </motion.div>
           </motion.div>
