@@ -475,12 +475,14 @@ function CarMesh({ color, tilt }: { color: string; tilt?: number }) {
 interface RacerState {
   x: number; z: number; angle: number; speed: number;
   trackProgress: number; // 0..1 along curve per lap
+  totalProgress: number; // cumulative distance for position ranking
   lap: number;
   tilt: number; // for flip visual
   maxSpeed: number; accel: number; handling: number;
   color: string; name: string;
   aggressive: number; // 0..1
   pushVx: number; pushVz: number;
+  laneOffset: number; // lateral offset for route diversity
 }
 
 interface RaceHud {
@@ -513,31 +515,52 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
   const playerRef = useRef<RacerState>({
     x: trackPoints[0].x, z: trackPoints[0].z,
     angle: Math.atan2(trackPoints[1].x - trackPoints[0].x, trackPoints[1].z - trackPoints[0].z),
-    speed: 0, trackProgress: 0, lap: 0, tilt: 0,
+    speed: 0, trackProgress: 0, totalProgress: 0, lap: 0, tilt: 0,
     maxSpeed: carType.maxSpeed, accel: carType.accel, handling: carType.handling,
-    color: carType.color, name: "You", aggressive: 0, pushVx: 0, pushVz: 0,
+    color: carType.color, name: "You", aggressive: 0, pushVx: 0, pushVz: 0, laneOffset: 0,
   });
 
-  // AI racers
+  // AI racers - starting grid formation
   const aiRef = useRef<RacerState[]>(AI_NAMES.map((name, i) => {
-    // Stagger start positions behind player
-    const startIdx = Math.max(0, SEGS - (i + 1) * 3);
-    const sp = trackPoints[startIdx % trackPoints.length];
-    const spNext = trackPoints[(startIdx + 1) % trackPoints.length];
-    // Scale AI speed: racer 0 is weakest, racer 5 is strongest (2-3 km/h slower than player)
-    const strengthFactor = 0.78 + i * 0.035; // 0.78, 0.815, 0.85, 0.885, 0.92, 0.955
-    const topAiSpeed = carType.maxSpeed - 0.7; // strongest AI is ~2.5 km/h slower in display
-    const aiMaxSpeed = i === 5 ? topAiSpeed : carType.maxSpeed * strengthFactor;
+    // Calculate grid positions: 2 columns, 3 rows behind the start line
+    const startPt = trackPoints[0];
+    const nextPt = trackPoints[1];
+    const fwdAngle = Math.atan2(nextPt.x - startPt.x, nextPt.z - startPt.z);
+    const behindX = -Math.sin(fwdAngle);
+    const behindZ = -Math.cos(fwdAngle);
+    const latX = Math.cos(fwdAngle);
+    const latZ = -Math.sin(fwdAngle);
+
+    const row = Math.floor(i / 2) + 1; // rows 1,1,2,2,3,3
+    const col = (i % 2 === 0) ? -1 : 1; // left, right
+    const gx = startPt.x + behindX * row * 6 + latX * col * 2.5;
+    const gz = startPt.z + behindZ * row * 6 + latZ * col * 2.5;
+
+    // Find initial track progress for grid position
+    let bestIdx = 0, bestDist = Infinity;
+    for (let j = 0; j < trackPoints.length; j++) {
+      const ddx = gx - trackPoints[j].x;
+      const ddz = gz - trackPoints[j].z;
+      const d = ddx * ddx + ddz * ddz;
+      if (d < bestDist) { bestDist = d; bestIdx = j; }
+    }
+
+    // Top 3 (Storm, Ghost, Fury) are serious competition
+    const speedFactors = [0.75, 0.80, 0.86, 0.94, 0.97, 0.99];
+    const aggressionLevels = [0.15, 0.2, 0.3, 0.7, 0.85, 0.95];
+    const laneOffsets = [-0.3, 0.3, -0.15, 0.25, -0.35, 0.15];
+
     return {
-      x: sp.x + (Math.random() - 0.5) * 4, z: sp.z + (Math.random() - 0.5) * 4,
-      angle: Math.atan2(spNext.x - sp.x, spNext.z - sp.z),
-      speed: 0, trackProgress: startIdx / SEGS, lap: 0, tilt: 0,
-      maxSpeed: aiMaxSpeed,
-      accel: carType.accel * (0.8 + i * 0.03),
-      handling: 2.5 + i * 0.15,
+      x: gx, z: gz,
+      angle: fwdAngle,
+      speed: 0, trackProgress: bestIdx / trackPoints.length, totalProgress: 0, lap: 0, tilt: 0,
+      maxSpeed: carType.maxSpeed * speedFactors[i],
+      accel: carType.accel * (0.8 + i * 0.04),
+      handling: 2.5 + i * 0.2,
       color: AI_COLORS[i], name,
-      aggressive: i === 5 ? 0.9 : i === 4 ? 0.5 : 0.2 + i * 0.05,
+      aggressive: aggressionLevels[i],
       pushVx: 0, pushVz: 0,
+      laneOffset: laneOffsets[i],
     };
   }));
 
@@ -586,14 +609,12 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
     return false;
   }, [track.oilSlicks]);
 
-  // Calculate race position
+  // Calculate race position using totalProgress (cumulative distance)
   const getPosition = useCallback((allRacers: RacerState[]): number => {
-    const player = allRacers[0];
-    const playerScore = player.lap + player.trackProgress;
+    const playerTotal = allRacers[0].totalProgress;
     let pos = 1;
     for (let i = 1; i < allRacers.length; i++) {
-      const aiScore = allRacers[i].lap + allRacers[i].trackProgress;
-      if (aiScore > playerScore) pos++;
+      if (allRacers[i].totalProgress > playerTotal) pos++;
     }
     return pos;
   }, []);
@@ -615,10 +636,20 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
   }, [trackPoints]);
 
   useFrame((_, delta) => {
-    if (!running || finishedRef.current) return;
+    if (finishedRef.current) return;
+    const player = playerRef.current;
+
+    // Camera follows player even during countdown (so starting grid is visible)
+    const camDist = 14;
+    const camH = 7;
+    const camTx = player.x - Math.sin(player.angle) * camDist;
+    const camTz = player.z - Math.cos(player.angle) * camDist;
+    camera.position.lerp(new THREE.Vector3(camTx, camH, camTz), 0.08);
+    camera.lookAt(player.x, 1, player.z);
+
+    if (!running) return; // Don't run game logic during countdown
     const dt = Math.min(delta, 0.05);
     timerRef.current += dt;
-    const player = playerRef.current;
     const ais = aiRef.current;
     const keys = keysRef.current;
     const touch = touchRef.current;
@@ -684,12 +715,19 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
     player.x = nx;
     player.z = nz;
 
-    // Track progress & laps
+    // Track progress & laps using totalProgress
     const newProg = getTrackProgress(player.x, player.z);
     const prevProg = player.trackProgress;
-    // Detect lap completion (crossing from ~1.0 to ~0.0)
-    if (prevProg > 0.85 && newProg < 0.15) {
-      player.lap++;
+    let pDelta = newProg - prevProg;
+    if (pDelta < -0.5) pDelta += 1; // crossed start line forward
+    if (pDelta > 0.5) pDelta -= 1;  // went backward past start
+    player.totalProgress += pDelta;
+    player.trackProgress = newProg;
+
+    // Lap detection from totalProgress
+    const newLap = Math.floor(player.totalProgress);
+    if (newLap > player.lap) {
+      player.lap = newLap;
       if (player.lap >= track.laps) {
         finishedRef.current = true;
         const allRacers = [player, ...ais];
@@ -698,7 +736,6 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
         return;
       }
     }
-    player.trackProgress = newProg;
 
     // Tilt based on turn sharpness and speed
     const turnSharp = getTurnSharpness(newProg);
@@ -708,11 +745,20 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
     // ── AI Logic ──
     for (let i = 0; i < ais.length; i++) {
       const ai = ais[i];
-      // Find target point on track ahead
-      const targetIdx = Math.floor(ai.trackProgress * SEGS + 5) % SEGS;
+
+      // Find target point with varying look-ahead and lane offset
+      const lookAhead = 4 + ai.aggressive * 4 + ai.speed * 0.15;
+      const targetIdx = Math.floor(ai.trackProgress * SEGS + lookAhead) % SEGS;
       const target = trackPoints[targetIdx];
-      const dxT = target.x - ai.x;
-      const dzT = target.z - ai.z;
+
+      // Apply lane offset for route diversity
+      const tgtT = curve.getTangentAt(targetIdx / SEGS);
+      const tgtNorm = new THREE.Vector3(-tgtT.z, 0, tgtT.x).normalize();
+      const offX = target.x + tgtNorm.x * ai.laneOffset * track.width * 0.35;
+      const offZ = target.z + tgtNorm.z * ai.laneOffset * track.width * 0.35;
+
+      const dxT = offX - ai.x;
+      const dzT = offZ - ai.z;
       const angleToTarget = Math.atan2(dxT, dzT);
 
       // Steer toward target
@@ -721,15 +767,26 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       while (angleDiff < -Math.PI) angleDiff += Math.PI * 2;
       ai.angle += angleDiff * ai.handling * dt;
 
-      // Accelerate
-      ai.speed += ai.accel * dt;
+      // Accelerate - aggressive AIs push harder
+      const accelBoost = 1 + ai.aggressive * 0.3;
+      ai.speed += ai.accel * accelBoost * dt;
       ai.speed *= 0.98;
-      // Slow down for sharp turns
+
+      // Slow down for sharp turns - aggressive AIs brake less
       const aiTurnSharp = getTurnSharpness(ai.trackProgress);
+      const brakeReduction = 1 - ai.aggressive * 0.4;
       if (aiTurnSharp > 0.3) {
-        ai.speed *= (1 - aiTurnSharp * 0.3 * dt * 10);
+        ai.speed *= (1 - aiTurnSharp * 0.3 * brakeReduction * dt * 10);
       }
       ai.speed = Math.max(0, Math.min(ai.maxSpeed, ai.speed));
+
+      // Slipstream: aggressive AIs close behind player get draft boost
+      const dxP = player.x - ai.x;
+      const dzP = player.z - ai.z;
+      const distToPlayer = Math.sqrt(dxP * dxP + dzP * dzP);
+      if (distToPlayer < 15 && distToPlayer > 3 && ai.aggressive > 0.5) {
+        ai.speed = Math.min(ai.maxSpeed * 1.03, ai.speed * 1.015);
+      }
 
       // Apply push forces
       ai.x += ai.pushVx * dt;
@@ -747,15 +804,18 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
         ai.z = az;
       }
 
-      // Track progress & laps
+      // Track progress & laps using totalProgress
       const aiNewProg = getTrackProgress(ai.x, ai.z);
-      if (ai.trackProgress > 0.85 && aiNewProg < 0.15) {
-        ai.lap++;
-        if (ai.lap >= track.laps && !finishedRef.current) {
-          // AI finished before player - race continues but they're done
-        }
-      }
+      let aiDelta = aiNewProg - ai.trackProgress;
+      if (aiDelta < -0.5) aiDelta += 1;
+      if (aiDelta > 0.5) aiDelta -= 1;
+      ai.totalProgress += aiDelta;
       ai.trackProgress = aiNewProg;
+
+      const aiNewLap = Math.floor(ai.totalProgress);
+      if (aiNewLap > ai.lap) {
+        ai.lap = aiNewLap;
+      }
 
       // AI tilt
       const aiTargetTilt = angleDiff * Math.min(0.15, aiTurnSharp * ai.speed * 0.01);
@@ -830,14 +890,6 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       playerMeshRef.current.position.set(player.x, 0.4, player.z);
       playerMeshRef.current.rotation.y = player.angle;
     }
-
-    // ── Camera ──
-    const camDist = 14;
-    const camH = 7;
-    const tx = player.x - Math.sin(player.angle) * camDist;
-    const tz = player.z - Math.cos(player.angle) * camDist;
-    camera.position.lerp(new THREE.Vector3(tx, camH, tz), 0.08);
-    camera.lookAt(player.x, 1, player.z);
   });
 
   return (
@@ -872,9 +924,10 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
         <spotLight position={[0, 0.5, 2]} target-position={[0, 0, 10]} angle={0.5} intensity={2} distance={20} color="#FFE4B5" />
       </group>
 
-      {/* AI cars */}
+      {/* AI cars - positioned on starting grid */}
       {aiRef.current.map((ai, i) => (
-        <group key={i} ref={(el: THREE.Group | null) => { aiMeshRefs.current[i] = el; }}>
+        <group key={i} ref={(el: THREE.Group | null) => { aiMeshRefs.current[i] = el; }}
+          position={[ai.x, 0.4, ai.z]} rotation={[0, ai.angle, 0]}>
           <CarMesh color={ai.color} tilt={ai.tilt} />
         </group>
       ))}
@@ -916,7 +969,7 @@ export default function RacetrackPage() {
   const touchRef = useRef({ active: false, sx: 0, sy: 0, cx: 0, cy: 0 });
   const nitroActiveRef = useRef(false);
   const hudRef = useRef<RaceHud>({
-    speed: 0, lap: 1, totalLaps: 2, position: 7, totalRacers: 7,
+    speed: 0, lap: 1, totalLaps: 2, position: 1, totalRacers: 7,
     nitro: NITRO_MAX, nitroActive: false, time: 0, onOil: false, playerTilt: 0,
   });
 
@@ -1193,13 +1246,36 @@ export default function RacetrackPage() {
         </>
       )}
 
-      {/* ═══ COUNTDOWN ═══ */}
+      {/* ═══ COUNTDOWN - TRAFFIC LIGHT ═══ */}
       <AnimatePresence>
         {gameState === "countdown" && (
-          <motion.div className="absolute inset-0 z-30 flex items-center justify-center bg-[#0a0e1a]/80"
+          <motion.div className="absolute inset-0 z-30 flex items-center justify-center"
             initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
-            <motion.div key={countdown} initial={{ scale: 3, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} exit={{ scale: 0.5, opacity: 0 }}
-              className="text-7xl font-black text-[#BB44FF]">{countdown > 0 ? countdown : "GO!"}</motion.div>
+            <div className="flex flex-col items-center gap-3">
+              {/* Traffic light housing */}
+              <motion.div className="bg-[#1a1a2e]/95 border-2 border-white/15 rounded-3xl p-5 flex flex-col items-center gap-3 shadow-2xl backdrop-blur-sm"
+                initial={{ scale: 0.5, y: -30 }} animate={{ scale: 1, y: 0 }} transition={{ type: "spring", damping: 12 }}>
+                {/* Red light */}
+                <div className={`w-16 h-16 rounded-full border-2 transition-all duration-300 ${
+                  countdown >= 3 ? "bg-red-500 border-red-400" : "bg-red-500/10 border-white/10"
+                }`} style={countdown >= 3 ? { boxShadow: "0 0 30px rgba(239,68,68,0.8), 0 0 60px rgba(239,68,68,0.4)" } : {}} />
+                {/* Yellow light */}
+                <div className={`w-16 h-16 rounded-full border-2 transition-all duration-300 ${
+                  countdown === 2 ? "bg-yellow-400 border-yellow-300" : "bg-yellow-500/10 border-white/10"
+                }`} style={countdown === 2 ? { boxShadow: "0 0 30px rgba(250,204,21,0.8), 0 0 60px rgba(250,204,21,0.4)" } : {}} />
+                {/* Green light */}
+                <div className={`w-16 h-16 rounded-full border-2 transition-all duration-300 ${
+                  countdown <= 1 ? "bg-green-500 border-green-400" : "bg-green-500/10 border-white/10"
+                }`} style={countdown <= 1 ? { boxShadow: "0 0 30px rgba(34,197,94,0.8), 0 0 60px rgba(34,197,94,0.4)" } : {}} />
+              </motion.div>
+              {/* Text labels */}
+              <motion.div key={countdown} initial={{ scale: 1.5, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}
+                className={`font-black text-3xl mt-1 ${
+                  countdown >= 3 ? "text-red-400" : countdown === 2 ? "text-yellow-400" : "text-green-400"
+                }`}>
+                {countdown >= 3 ? "READY" : countdown === 2 ? "SET" : "GO!"}
+              </motion.div>
+            </div>
           </motion.div>
         )}
       </AnimatePresence>
