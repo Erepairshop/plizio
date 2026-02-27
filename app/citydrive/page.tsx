@@ -269,7 +269,7 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
   return (
     <>
       <color attach="background" args={["#0a0e1a"]} />
-      <fog attach="fog" args={["#0a0e1a", 80, 220]} />
+      <fog attach="fog" args={["#0a0e1a", 50, 150]} />
       <ambientLight intensity={0.9} color="#8899cc" />
       <hemisphereLight args={["#334488", "#1a1a2e", 0.5]} />
       <directionalLight position={[60, 100, 40]} intensity={1.2} color="#ccd4ee" />
@@ -296,15 +296,10 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
               <planeGeometry args={[WW, T * 2]} />
               <meshStandardMaterial color="#2a2a3e" />
             </mesh>
-            {/* Center lane markings - vertical */}
+            {/* Center lane marking - vertical (non-transparent for perf) */}
             <mesh rotation-x={-Math.PI / 2} position={[pos + T / 2, 0.02, WD / 2]}>
-              <planeGeometry args={[0.15, WD]} />
-              <meshStandardMaterial color="#FFD700" opacity={0.3} transparent />
-            </mesh>
-            {/* Center lane markings - horizontal */}
-            <mesh rotation-x={-Math.PI / 2} position={[WW / 2, 0.02, pos + T / 2]}>
-              <planeGeometry args={[WW, 0.15]} />
-              <meshStandardMaterial color="#FFD700" opacity={0.3} transparent />
+              <planeGeometry args={[0.12, WD]} />
+              <meshStandardMaterial color="#665500" />
             </mesh>
           </group>
         );
@@ -328,56 +323,34 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
             <boxGeometry args={[b.w + 0.25, 0.3, b.d + 0.25]} />
             <meshStandardMaterial color={b.glow} emissive={b.glow} emissiveIntensity={0.6} />
           </mesh>
-          {/* Neon glow - emissive only, no pointLight for performance */}
-          {/* Windows on all 4 sides */}
-          {[2, 5, 8, 11, 14].filter(wh => wh < b.h - 1).map(wh => (
-            <group key={wh}>
-              {/* Front */}
-              <mesh position={[0, wh, b.d / 2 + 0.05]}>
-                <planeGeometry args={[b.w * 0.75, 1]} />
-                <meshStandardMaterial color="#FFE088" emissive="#FFE088" emissiveIntensity={0.4} transparent opacity={0.5} />
-              </mesh>
-              {/* Back */}
-              <mesh position={[0, wh, -b.d / 2 - 0.05]} rotation-y={Math.PI}>
-                <planeGeometry args={[b.w * 0.75, 1]} />
-                <meshStandardMaterial color="#FFE088" emissive="#FFE088" emissiveIntensity={0.4} transparent opacity={0.5} />
-              </mesh>
-              {/* Left */}
-              <mesh position={[-b.w / 2 - 0.05, wh, 0]} rotation-y={-Math.PI / 2}>
-                <planeGeometry args={[b.d * 0.75, 1]} />
-                <meshStandardMaterial color="#FFE088" emissive="#FFE088" emissiveIntensity={0.3} transparent opacity={0.4} />
-              </mesh>
-              {/* Right */}
-              <mesh position={[b.w / 2 + 0.05, wh, 0]} rotation-y={Math.PI / 2}>
-                <planeGeometry args={[b.d * 0.75, 1]} />
-                <meshStandardMaterial color="#FFE088" emissive="#FFE088" emissiveIntensity={0.3} transparent opacity={0.4} />
-              </mesh>
-            </group>
-          ))}
+          {/* Window glow band at mid-height - single mesh instead of 20 per building */}
+          <mesh position={[0, b.h * 0.45, 0]}>
+            <boxGeometry args={[b.w + 0.1, b.h * 0.3, b.d + 0.1]} />
+            <meshStandardMaterial color="#FFE088" emissive="#FFE088" emissiveIntensity={0.3} transparent opacity={0.25} />
+          </mesh>
         </group>
       ))}
 
-      {/* Street lights at intersections */}
-      {Array.from({ length: 5 }, (_, iz) =>
-        Array.from({ length: 5 }, (_, ix) => {
-          const lx = (ix * 7 + 2) * T, lz = (iz * 7 + 2) * T;
+      {/* Street lights - reduced to every other intersection for performance */}
+      {Array.from({ length: 3 }, (_, iz) =>
+        Array.from({ length: 3 }, (_, ix) => {
+          const lx = (ix * 14 + 2) * T, lz = (iz * 14 + 2) * T;
           return (
             <group key={`sl-${ix}-${iz}`} position={[lx, 0, lz]}>
               <mesh position={[0, 2.5, 0]}>
-                <cylinderGeometry args={[0.08, 0.08, 5, 6]} />
+                <cylinderGeometry args={[0.08, 0.08, 5, 4]} />
                 <meshStandardMaterial color="#333" />
               </mesh>
               <mesh position={[0, 5, 0]}>
-                <sphereGeometry args={[0.3, 8, 8]} />
+                <sphereGeometry args={[0.3, 6, 6]} />
                 <meshStandardMaterial color="#FFE088" emissive="#FFE088" emissiveIntensity={2} />
               </mesh>
-              {/* Removed pointLight for performance - emissive sphere provides visual glow */}
             </group>
           );
         })
       ).flat()}
 
-      {/* Cars */}
+      {/* Cars - simplified geometry for performance */}
       {carsRef.current.map((car, i) => (
         <group key={i} ref={el => { carMeshes.current[i] = el; }}>
           {/* Body */}
@@ -390,67 +363,42 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
             <boxGeometry args={[1.7, 0.7, 2.2]} />
             <meshStandardMaterial color={car.color} metalness={0.3} roughness={0.5} />
           </mesh>
-          {/* Windshield */}
-          <mesh position={[0, 1.1, 0.9]}>
-            <boxGeometry args={[1.5, 0.55, 0.1]} />
-            <meshStandardMaterial color="#334466" transparent opacity={0.4} />
-          </mesh>
-          {/* Wheels */}
-          {[[-1.1, 0.25, 1.3], [1.1, 0.25, 1.3], [-1.1, 0.25, -1.3], [1.1, 0.25, -1.3]].map(([wx, wy, wz], wi) => (
-            <mesh key={wi} position={[wx, wy, wz]} rotation={[0, 0, Math.PI / 2]}>
-              <cylinderGeometry args={[0.3, 0.3, 0.25, 8]} />
-              <meshStandardMaterial color="#1a1a1a" />
-            </mesh>
-          ))}
-          {/* Headlights */}
-          <mesh position={[-0.65, 0.55, 2.15]}>
-            <sphereGeometry args={[0.13, 8, 8]} />
+          {/* Headlight bar */}
+          <mesh position={[0, 0.55, 2.15]}>
+            <boxGeometry args={[1.5, 0.25, 0.1]} />
             <meshStandardMaterial color="#FFFF99" emissive="#FFFF99" emissiveIntensity={1.5} />
           </mesh>
-          <mesh position={[0.65, 0.55, 2.15]}>
-            <sphereGeometry args={[0.13, 8, 8]} />
-            <meshStandardMaterial color="#FFFF99" emissive="#FFFF99" emissiveIntensity={1.5} />
-          </mesh>
-          {/* Tail lights */}
-          <mesh position={[-0.75, 0.55, -2.15]}>
-            <sphereGeometry args={[0.1, 8, 8]} />
+          {/* Tail light bar */}
+          <mesh position={[0, 0.55, -2.15]}>
+            <boxGeometry args={[1.6, 0.2, 0.1]} />
             <meshStandardMaterial color="#FF0000" emissive="#FF0000" emissiveIntensity={0.8} />
           </mesh>
-          <mesh position={[0.75, 0.55, -2.15]}>
-            <sphereGeometry args={[0.1, 8, 8]} />
-            <meshStandardMaterial color="#FF0000" emissive="#FF0000" emissiveIntensity={0.8} />
+          {/* Wheel axles as boxes instead of 4 cylinders */}
+          <mesh position={[0, 0.25, 1.3]}>
+            <boxGeometry args={[2.4, 0.5, 0.4]} />
+            <meshStandardMaterial color="#1a1a1a" />
           </mesh>
-          <pointLight position={[0, 0.3, 2.5]} color="#FFFF99" intensity={5} distance={20} />
+          <mesh position={[0, 0.25, -1.3]}>
+            <boxGeometry args={[2.4, 0.5, 0.4]} />
+            <meshStandardMaterial color="#1a1a1a" />
+          </mesh>
         </group>
       ))}
 
-      {/* Player */}
+      {/* Player - simplified */}
       <group ref={plMesh}>
         <mesh position={[0, 0.75, 0]}>
-          <boxGeometry args={[0.6, 0.8, 0.4]} />
-          <meshStandardMaterial color={skin.bodyColor} />
+          <boxGeometry args={[0.7, 1.0, 0.5]} />
+          <meshStandardMaterial color={skin.bodyColor} emissive={skin.emissive} emissiveIntensity={0.3} />
         </mesh>
-        <mesh position={[0, 1.4, 0]}>
-          <sphereGeometry args={[0.26, 12, 12]} />
-          <meshStandardMaterial color={skin.headColor} />
+        <mesh position={[0, 1.5, 0]}>
+          <sphereGeometry args={[0.28, 8, 8]} />
+          <meshStandardMaterial color={skin.headColor} emissive={skin.emissive} emissiveIntensity={0.3} />
         </mesh>
-        <mesh position={[-0.15, 0.2, 0]}>
-          <boxGeometry args={[0.22, 0.4, 0.25]} />
+        <mesh position={[0, 0.15, 0]}>
+          <boxGeometry args={[0.6, 0.3, 0.45]} />
           <meshStandardMaterial color={skin.limbColor} />
         </mesh>
-        <mesh position={[0.15, 0.2, 0]}>
-          <boxGeometry args={[0.22, 0.4, 0.25]} />
-          <meshStandardMaterial color={skin.limbColor} />
-        </mesh>
-        <mesh position={[-0.45, 0.75, 0]}>
-          <boxGeometry args={[0.18, 0.55, 0.18]} />
-          <meshStandardMaterial color={skin.limbColor} />
-        </mesh>
-        <mesh position={[0.45, 0.75, 0]}>
-          <boxGeometry args={[0.18, 0.55, 0.18]} />
-          <meshStandardMaterial color={skin.limbColor} />
-        </mesh>
-        <pointLight position={[0, 0.5, 0]} color={skin.emissive} intensity={1.5} distance={5} />
       </group>
 
       {/* Mission markers */}
@@ -566,7 +514,7 @@ export default function CityDrivePage() {
   return (
     <div className="fixed inset-0 bg-[#0a0e1a] overflow-hidden select-none" style={{ touchAction: "none" }}>
       {/* 3D Canvas (always mounted) */}
-      <Canvas camera={{ fov: 65, near: 0.1, far: 300, position: [4, 8, -8] }}>
+      <Canvas camera={{ fov: 65, near: 0.1, far: 160, position: [4, 8, -8] }} dpr={[1, 1.5]} gl={{ powerPreference: "high-performance", antialias: false }}>
         <GameScene running={gameState === "playing"} keysRef={keysRef} touchRef={touchRef} actionRef={actionRef} hudRef={hudRef} missionsRef={missionsRef} onEnd={endGame} />
       </Canvas>
 
