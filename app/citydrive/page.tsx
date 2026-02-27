@@ -754,13 +754,15 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
     }
     // Touch/mobile brake & nitro
     if (brakeRef.current) brake = true;
-    // E key toggle nitro (press once = on, press again = off)
-    const eHeld = keys.has("e") || keys.has("E");
+    // E or Shift key toggle nitro (press once = on, press again = off)
+    const eHeld = keys.has("e") || keys.has("E") || keys.has("Shift");
     const eJustPressed = eHeld && !prevERef.current;
     prevERef.current = eHeld;
-    if (eJustPressed) nitroToggle.current = !nitroToggle.current;
-    // nitroActiveRef is toggled by UI button (onClick)
-    const wantNitro = nitroToggle.current || nitroActiveRef.current;
+    if (eJustPressed) { nitroToggle.current = !nitroToggle.current; nitroActiveRef.current = nitroToggle.current; }
+    // nitroActiveRef is toggled by UI button (onClick) — sync back to nitroToggle
+    if (nitroActiveRef.current && !nitroToggle.current) nitroToggle.current = true;
+    if (!nitroActiveRef.current && nitroToggle.current) nitroToggle.current = false;
+    const wantNitro = nitroToggle.current;
     if (actionRef.current) { act = true; actionRef.current = false; }
     if (touch.active) {
       const dx = touch.cx - touch.sx, dy = touch.cy - touch.sy;
@@ -772,8 +774,8 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
     if (p.inCar >= 0) {
       const car = carsRef.current[p.inCar];
       // Nitro (toggle mode — auto-off when empty)
-      const canNitro = nitroFuel.current > 0 && Math.abs(car.speed) > 2;
-      const nitroOn = wantNitro && canNitro;
+      const hasFuel = nitroFuel.current > 0;
+      const nitroOn = wantNitro && hasFuel && Math.abs(car.speed) > 1;
       if (nitroOn) {
         nitroFuel.current = Math.max(0, nitroFuel.current - NITRO_DRAIN * dt);
         if (nitroFuel.current <= 0) {
@@ -781,10 +783,13 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
           nitroToggle.current = false;
           nitroActiveRef.current = false;
         }
-      } else {
+      } else if (!wantNitro) {
+        // Only recharge when user turned nitro OFF
         nitroFuel.current = Math.min(NITRO_MAX, nitroFuel.current + NITRO_CHARGE * dt);
       }
-      hud.nitro = nitroFuel.current; hud.nitroActive = nitroOn;
+      hud.nitro = nitroFuel.current;
+      // Show toggle state in HUD (even if not boosting yet due to low speed)
+      hud.nitroActive = wantNitro && hasFuel;
       const effectiveMax = nitroOn ? car.maxSpeed * NITRO_BOOST : car.maxSpeed;
       const effectiveAccel = nitroOn ? car.accel * 1.6 : car.accel;
 
@@ -1441,8 +1446,8 @@ export default function CityDrivePage() {
                 <div className="h-full rounded-full transition-all" style={{ width: `${Math.min(100, (hud.speed / 50) * 100)}%`, backgroundColor: hud.carColor }} />
               </div>
               <div className="flex items-center gap-1.5 mt-1.5">
-                <button onClick={() => { nitroActiveRef.current = !nitroActiveRef.current; }} className="text-[9px] font-black px-1.5 py-0.5 rounded pointer-events-auto transition-all" style={{ color: hud.nitroActive ? "#FF6600" : "#00CCFF", backgroundColor: hud.nitroActive ? "rgba(255,102,0,0.2)" : "transparent" }}>NOS</button>
-                <div className="w-20 h-1.5 bg-white/10 rounded-full relative">
+                <button onClick={() => { nitroActiveRef.current = !nitroActiveRef.current; }} className="text-[10px] font-black px-2 py-1 rounded-md pointer-events-auto transition-all cursor-pointer border" style={{ color: hud.nitroActive ? "#FF6600" : "#00CCFF", backgroundColor: hud.nitroActive ? "rgba(255,102,0,0.3)" : "rgba(0,200,255,0.1)", borderColor: hud.nitroActive ? "rgba(255,102,0,0.5)" : "rgba(0,200,255,0.3)" }}>NOS</button>
+                <div className="w-20 h-2 bg-white/10 rounded-full relative">
                   <div className="h-full rounded-full transition-all" style={{ width: `${hud.nitro}%`, backgroundColor: hud.nitroActive ? "#FF6600" : hud.nitro < 100 ? "#555" : "#00CCFF" }} />
                 </div>
                 <span className="text-[8px] text-white/30 w-8">{hud.nitro < 100 && !hud.nitroActive ? `${Math.ceil((NITRO_MAX - hud.nitro) / NITRO_CHARGE)}s` : ""}</span>
@@ -1491,7 +1496,7 @@ export default function CityDrivePage() {
           </div>
 
           <div className="absolute bottom-3 left-3 text-[9px] text-white/20">
-            WASD: move • SPACE: brake/enter • E: nitro on/off
+            WASD: move • SPACE: brake/enter • E/SHIFT: nitro on/off
           </div>
         </div>
       )}
