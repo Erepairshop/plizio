@@ -545,8 +545,8 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       if (d < bestDist) { bestDist = d; bestIdx = j; }
     }
 
-    // AI speeds: fast with wide spread
-    const speedFactors = [0.78, 0.84, 0.90, 0.95, 1.0, 1.05];
+    // AI speeds: competitive with wide spread
+    const speedFactors = [0.72, 0.78, 0.84, 0.89, 0.93, 0.97];
     const aggressionLevels = [0.15, 0.25, 0.35, 0.45, 0.60, 0.75];
     const laneOffsets = [-0.4, 0.4, -0.2, 0.3, -0.45, 0.2];
 
@@ -765,48 +765,47 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       // Apply lane offset for route diversity
       const tgtT = curve.getTangentAt(targetIdx / SEGS);
       const tgtNorm = new THREE.Vector3(-tgtT.z, 0, tgtT.x).normalize();
-      const offX = target.x + tgtNorm.x * ai.laneOffset * track.width * 0.35;
-      const offZ = target.z + tgtNorm.z * ai.laneOffset * track.width * 0.35;
+      let laneShift = ai.laneOffset; // base lane position
 
-      const dxT = offX - ai.x;
-      const dzT = offZ - ai.z;
-      let angleToTarget = Math.atan2(dxT, dzT);
-
-      // ── Overtake logic: detect cars ahead and actively steer around them ──
+      // ── Overtake logic: shift target position laterally when cars are ahead ──
       const aiFwdX = Math.sin(ai.angle);
       const aiFwdZ = Math.cos(ai.angle);
-      const scanDist = 12 + ai.speed * 0.5; // long scan range
-      let overtakeLaneShift = 0;
+      const scanDist = 14 + ai.speed * 0.4;
 
-      // Helper: check one car and accumulate lane shift
-      const checkOvertake = (ox: number, oz: number, oSpeed: number) => {
+      const checkCarAhead = (ox: number, oz: number) => {
         const ddx = ox - ai.x;
         const ddz = oz - ai.z;
         const dist = Math.sqrt(ddx * ddx + ddz * ddz);
-        if (dist > 0.5 && dist < scanDist) {
-          const dot = ddx * aiFwdX + ddz * aiFwdZ; // positive = ahead
-          if (dot > 0) {
-            const cross = aiFwdX * ddz - aiFwdZ * ddx; // side detection
-            const closeness = 1 - dist / scanDist; // 0..1, stronger when near
-            // Always avoid any car ahead, not just slower ones
-            const urgency = closeness * closeness * 4; // quadratic ramp for strong close avoidance
-            overtakeLaneShift += (cross > 0 ? -urgency : urgency);
+        if (dist > 0.8 && dist < scanDist) {
+          const dot = ddx * aiFwdX + ddz * aiFwdZ;
+          if (dot > 0) { // car is ahead
+            const cross = aiFwdX * ddz - aiFwdZ * ddx; // which side
+            const closeness = Math.pow(1 - dist / scanDist, 1.5);
+            // Shift lane to the opposite side of the blocking car
+            // Stronger shift when closer, and proportional to track width
+            const shiftAmount = closeness * 1.8;
+            laneShift += (cross > 0 ? -shiftAmount : shiftAmount);
           }
         }
       };
 
       // Check all other AI cars
       for (let j = 0; j < ais.length; j++) {
-        if (j !== i) checkOvertake(ais[j].x, ais[j].z, ais[j].speed);
+        if (j !== i) checkCarAhead(ais[j].x, ais[j].z);
       }
       // Check player
-      checkOvertake(player.x, player.z, player.speed);
+      checkCarAhead(player.x, player.z);
 
-      // Apply strong lane offset for overtaking
-      if (overtakeLaneShift !== 0) {
-        const clampedShift = Math.max(-1.0, Math.min(1.0, overtakeLaneShift * 0.3));
-        angleToTarget += clampedShift;
-      }
+      // Clamp lane shift so AI stays on track
+      laneShift = Math.max(-1.2, Math.min(1.2, laneShift));
+
+      // Build actual target position using shifted lane
+      const offX = target.x + tgtNorm.x * laneShift * track.width * 0.35;
+      const offZ = target.z + tgtNorm.z * laneShift * track.width * 0.35;
+
+      const dxT = offX - ai.x;
+      const dzT = offZ - ai.z;
+      const angleToTarget = Math.atan2(dxT, dzT);
 
       // Steer toward target
       let angleDiff = angleToTarget - ai.angle;
