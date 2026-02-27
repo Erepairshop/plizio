@@ -191,11 +191,13 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
         hud.msg = "Exited!"; hud.msgT = 2;
       }
     } else {
-      // ── Walking (camera-relative) ──
+      // ── Walking (camera-relative: movement always matches screen directions) ──
       const len = Math.sqrt(mx * mx + mz * mz);
       if (len > 0.1) {
-        const fwX = Math.sin(p.angle), fwZ = Math.cos(p.angle);
-        const rtX = Math.cos(p.angle), rtZ = -Math.sin(p.angle);
+        // Use CAMERA angle for forward/right so movement matches what user sees on screen
+        const ca = camAngle.current;
+        const fwX = Math.sin(ca), fwZ = Math.cos(ca);
+        const rtX = Math.cos(ca), rtZ = -Math.sin(ca);
         const wmx = mx * rtX + mz * fwX, wmz = mx * rtZ + mz * fwZ;
         const nx = p.x + (wmx / len) * WALK_SPD * dt, nz = p.z + (wmz / len) * WALK_SPD * dt;
         if (!solidBox(nx, nz, 0.3, 0.3)) { p.x = nx; p.z = nz; }
@@ -245,12 +247,12 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
     // ── Update 3D objects ──
     for (let i = 0; i < carsRef.current.length; i++) {
       const c = carsRef.current[i], g = carMeshes.current[i];
-      if (g) { g.position.set(c.x, 0, c.z); g.rotation.y = -c.angle; }
+      if (g) { g.position.set(c.x, 0, c.z); g.rotation.y = c.angle; }
     }
     if (plMesh.current) {
       plMesh.current.visible = p.inCar < 0;
       plMesh.current.position.set(p.x, 0, p.z);
-      plMesh.current.rotation.y = -p.angle;
+      plMesh.current.rotation.y = p.angle;
     }
 
     // ── Camera (tight follow, stays behind car/player) ──
@@ -557,9 +559,9 @@ export default function CityDrivePage() {
             ))}
           </div>
 
-          {/* Controls hint */}
+          {/* Controls hint + version */}
           <div className="absolute bottom-3 left-3 text-[9px] text-white/20">
-            WASD: move • SPACE: enter/exit
+            WASD: move • SPACE: enter/exit • v2
           </div>
         </div>
       )}
