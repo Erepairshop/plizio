@@ -132,13 +132,13 @@ function genTrees(): TreeDef[] {
 
 function initCars(): CarData[] {
   return [
-    { x: 1 * T, z: 5 * T, angle: 0, speed: 0, maxSpeed: 40, accel: 25, handling: 1.6, color: "#FF2D55", name: "Sport" },
-    { x: 15 * T, z: 8 * T, angle: Math.PI / 2, speed: 0, maxSpeed: 30, accel: 20, handling: 1.8, color: "#00D4FF", name: "Sedan" },
-    { x: 22 * T, z: 1 * T, angle: 0, speed: 0, maxSpeed: 22, accel: 16, handling: 2.2, color: "#00FF88", name: "Truck" },
-    { x: 35 * T, z: 30 * T, angle: Math.PI, speed: 0, maxSpeed: 35, accel: 22, handling: 1.7, color: "#FFD700", name: "Taxi" },
-    { x: 50 * T, z: 50 * T, angle: -Math.PI / 2, speed: 0, maxSpeed: 50, accel: 32, handling: 1.4, color: "#B44DFF", name: "Racer" },
-    { x: 8 * T, z: 45 * T, angle: 0, speed: 0, maxSpeed: 45, accel: 28, handling: 1.5, color: "#FF6B00", name: "Muscle" },
-    { x: 60 * T, z: 15 * T, angle: Math.PI, speed: 0, maxSpeed: 38, accel: 24, handling: 1.9, color: "#44FFCC", name: "Electric" },
+    { x: 1 * T, z: 5 * T, angle: 0, speed: 0, maxSpeed: 40, accel: 25, handling: 0.9, color: "#FF2D55", name: "Sport" },
+    { x: 15 * T, z: 8 * T, angle: Math.PI / 2, speed: 0, maxSpeed: 30, accel: 20, handling: 1.0, color: "#00D4FF", name: "Sedan" },
+    { x: 22 * T, z: 1 * T, angle: 0, speed: 0, maxSpeed: 22, accel: 16, handling: 1.2, color: "#00FF88", name: "Truck" },
+    { x: 35 * T, z: 30 * T, angle: Math.PI, speed: 0, maxSpeed: 35, accel: 22, handling: 1.0, color: "#FFD700", name: "Taxi" },
+    { x: 50 * T, z: 50 * T, angle: -Math.PI / 2, speed: 0, maxSpeed: 50, accel: 32, handling: 0.8, color: "#B44DFF", name: "Racer" },
+    { x: 8 * T, z: 45 * T, angle: 0, speed: 0, maxSpeed: 45, accel: 28, handling: 0.85, color: "#FF6B00", name: "Muscle" },
+    { x: 60 * T, z: 15 * T, angle: Math.PI, speed: 0, maxSpeed: 38, accel: 24, handling: 1.1, color: "#44FFCC", name: "Electric" },
   ];
 }
 
@@ -252,6 +252,115 @@ function AnimatedParking({ x, z }: { x: number; z: number }) {
         <cylinderGeometry args={[0.06, 0.06, 2, 4]} />
         <meshStandardMaterial color="#00D4FF" emissive="#00D4FF" emissiveIntensity={0.6} />
       </mesh>
+    </group>
+  );
+}
+
+// ═══════════════════════════════════════════════
+//  ANIMATED PLAYER CHARACTER (matches skyclimb)
+// ═══════════════════════════════════════════════
+interface PlayerCharProps {
+  plRef: React.RefObject<{ x: number; z: number; angle: number; inCar: number }>;
+  prevPos: React.RefObject<{ x: number; z: number }>;
+}
+function PlayerCharacter({ plRef, prevPos }: PlayerCharProps) {
+  const groupRef = useRef<THREE.Group>(null);
+  const bodyGroupRef = useRef<THREE.Group>(null);
+  const leftLegRef = useRef<THREE.Group>(null);
+  const rightLegRef = useRef<THREE.Group>(null);
+  const leftArmRef = useRef<THREE.Group>(null);
+  const rightArmRef = useRef<THREE.Group>(null);
+  const walkCycleRef = useRef(0);
+
+  const skin = useMemo(() => getSkinDef(getActiveSkin()), []);
+  const bodyMat = useMemo(() => new THREE.MeshStandardMaterial({ color: skin.bodyColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity }), [skin]);
+  const headMat = useMemo(() => new THREE.MeshStandardMaterial({ color: skin.headColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity + 0.1 }), [skin]);
+  const limbMat = useMemo(() => new THREE.MeshStandardMaterial({ color: skin.limbColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity * 0.6 }), [skin]);
+  const eyeMat = useMemo(() => new THREE.MeshStandardMaterial({ color: skin.id === "robot" ? "#00FF00" : "#0A0A1A", emissive: skin.id === "robot" ? "#00FF00" : "#000000", emissiveIntensity: skin.id === "robot" ? 0.8 : 0 }), [skin]);
+  const shoeMat = useMemo(() => new THREE.MeshStandardMaterial({ color: skin.shoeColor, emissive: skin.emissive, emissiveIntensity: 0.15 }), [skin]);
+
+  useFrame((_, delta) => {
+    const p = plRef.current;
+    if (!groupRef.current || !p) return;
+    groupRef.current.visible = p.inCar < 0;
+    groupRef.current.position.set(p.x, 0, p.z);
+
+    if (bodyGroupRef.current) {
+      let diff = p.angle - bodyGroupRef.current.rotation.y;
+      while (diff > Math.PI) diff -= Math.PI * 2;
+      while (diff < -Math.PI) diff += Math.PI * 2;
+      bodyGroupRef.current.rotation.y += diff * 0.15;
+    }
+
+    const dx = p.x - prevPos.current.x, dz = p.z - prevPos.current.z;
+    const isMoving = Math.abs(dx) > 0.01 || Math.abs(dz) > 0.01;
+    prevPos.current.x = p.x; prevPos.current.z = p.z;
+
+    if (isMoving) walkCycleRef.current += delta * 12;
+    else walkCycleRef.current *= 0.9;
+
+    const legSwing = isMoving ? Math.sin(walkCycleRef.current) * 0.7 : 0;
+    const armSwing = isMoving ? Math.sin(walkCycleRef.current + Math.PI) * 0.5 : 0;
+
+    if (leftLegRef.current) leftLegRef.current.rotation.x = legSwing;
+    if (rightLegRef.current) rightLegRef.current.rotation.x = -legSwing;
+    if (leftArmRef.current) leftArmRef.current.rotation.x = armSwing;
+    if (rightArmRef.current) rightArmRef.current.rotation.x = -armSwing;
+  });
+
+  return (
+    <group ref={groupRef}>
+      <group ref={bodyGroupRef}>
+        {/* Head */}
+        <mesh position={[0, 0.82, 0]} material={headMat}>
+          <boxGeometry args={[0.36, 0.36, 0.36]} />
+        </mesh>
+        {/* Eyes */}
+        <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}>
+          <boxGeometry args={[0.07, 0.07, 0.02]} />
+        </mesh>
+        <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}>
+          <boxGeometry args={[0.07, 0.07, 0.02]} />
+        </mesh>
+        {/* Body */}
+        <mesh position={[0, 0.42, 0]} material={bodyMat}>
+          <boxGeometry args={[0.38, 0.42, 0.24]} />
+        </mesh>
+        {/* Left arm */}
+        <group ref={leftArmRef} position={[0.28, 0.55, 0]}>
+          <mesh position={[0, -0.17, 0]} material={limbMat}>
+            <boxGeometry args={[0.12, 0.36, 0.12]} />
+          </mesh>
+        </group>
+        {/* Right arm */}
+        <group ref={rightArmRef} position={[-0.28, 0.55, 0]}>
+          <mesh position={[0, -0.17, 0]} material={limbMat}>
+            <boxGeometry args={[0.12, 0.36, 0.12]} />
+          </mesh>
+        </group>
+        {/* Left leg */}
+        <group ref={leftLegRef} position={[0.1, 0.2, 0]}>
+          <mesh position={[0, -0.17, 0]} material={limbMat}>
+            <boxGeometry args={[0.14, 0.28, 0.14]} />
+          </mesh>
+          <mesh position={[0, -0.33, 0.02]} material={shoeMat}>
+            <boxGeometry args={[0.15, 0.08, 0.2]} />
+          </mesh>
+        </group>
+        {/* Right leg */}
+        <group ref={rightLegRef} position={[-0.1, 0.2, 0]}>
+          <mesh position={[0, -0.17, 0]} material={limbMat}>
+            <boxGeometry args={[0.14, 0.28, 0.14]} />
+          </mesh>
+          <mesh position={[0, -0.33, 0.02]} material={shoeMat}>
+            <boxGeometry args={[0.15, 0.08, 0.2]} />
+          </mesh>
+        </group>
+        {/* Skin glow */}
+        {skin.particle && (
+          <pointLight position={[0, 0.5, 0]} color={skin.particle} intensity={skin.emissiveIntensity * 2} distance={3} />
+        )}
+      </group>
     </group>
   );
 }
@@ -375,13 +484,12 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
   const { camera } = useThree();
   const buildings = useMemo(genBuildings, []);
   const trees = useMemo(genTrees, []);
-  const skin = useMemo(() => getSkinDef(getActiveSkin()), []);
 
   const carsRef = useRef(initCars());
   const plRef = useRef({ x: 1 * T, z: 1 * T, angle: 0, inCar: -1 });
   const midRef = useRef(0);
   const carMeshes = useRef<(THREE.Group | null)[]>([]);
-  const plMesh = useRef<THREE.Group>(null);
+  const prevPosRef = useRef({ x: 1 * T, z: 1 * T });
   const camTarget = useRef(new THREE.Vector3(1 * T, 6, 1 * T - 10));
   const camLook = useRef(new THREE.Vector3(1 * T, 1, 1 * T));
   const camAngle = useRef(0);
@@ -434,7 +542,10 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
       if (Math.abs(car.speed) > 0.5) car.angle -= mx * car.handling * speedFactor * dt * (car.speed > 0 ? 1 : -1);
       const fx = Math.sin(car.angle), fz = Math.cos(car.angle);
       const nx = car.x + fx * car.speed * dt, nz = car.z + fz * car.speed * dt;
-      if (!solidBox(nx, nz, 1.2, 2.2)) { car.x = nx; car.z = nz; } else car.speed *= -0.3;
+      if (!solidBox(nx, nz, 1.2, 2.2)) { car.x = nx; car.z = nz; }
+      else if (!solidBox(nx, car.z, 1.2, 2.2)) { car.x = nx; car.speed *= 0.7; }
+      else if (!solidBox(car.x, nz, 1.2, 2.2)) { car.z = nz; car.speed *= 0.7; }
+      else car.speed *= -0.2;
       car.x = Math.max(2, Math.min(WW - 2, car.x));
       car.z = Math.max(2, Math.min(WD - 2, car.z));
       p.x = car.x; p.z = car.z; p.angle = car.angle;
@@ -456,7 +567,13 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
         const wmx = mx * rtX + mz * fwX, wmz = mx * rtZ + mz * fwZ;
         const nx = p.x + (wmx / len) * WALK_SPD * dt, nz = p.z + (wmz / len) * WALK_SPD * dt;
         if (!solidBox(nx, nz, 0.3, 0.3)) { p.x = nx; p.z = nz; }
-        p.angle = Math.atan2(wmx, wmz);
+        else if (!solidBox(nx, p.z, 0.3, 0.3)) { p.x = nx; }
+        else if (!solidBox(p.x, nz, 0.3, 0.3)) { p.z = nz; }
+        const targetAngle = Math.atan2(wmx, wmz);
+        let aDiff = targetAngle - p.angle;
+        while (aDiff > Math.PI) aDiff -= Math.PI * 2;
+        while (aDiff < -Math.PI) aDiff += Math.PI * 2;
+        p.angle += aDiff * Math.min(0.12 * dt * 60, 1);
       }
       hud.inCar = -1;
       if (act) {
@@ -506,11 +623,7 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
       const c = carsRef.current[i], g = carMeshes.current[i];
       if (g) { g.position.set(c.x, 0, c.z); g.rotation.y = c.angle; }
     }
-    if (plMesh.current) {
-      plMesh.current.visible = p.inCar < 0;
-      plMesh.current.position.set(p.x, 0, p.z);
-      plMesh.current.rotation.y = p.angle;
-    }
+    // Player character updated by PlayerCharacter component via plRef
 
     // ── Camera ──
     const cd = p.inCar >= 0 ? 18 : 10;
@@ -518,7 +631,7 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
     let angleDiff = p.angle - camAngle.current;
     while (angleDiff > Math.PI) angleDiff -= Math.PI * 2;
     while (angleDiff < -Math.PI) angleDiff += Math.PI * 2;
-    const angleSpeed = p.inCar >= 0 ? 0.12 : 0.2;
+    const angleSpeed = p.inCar >= 0 ? 0.12 : 0.08;
     camAngle.current += angleDiff * Math.min(angleSpeed * dt * 60, 1);
     const sa = camAngle.current;
     camTarget.current.set(p.x - Math.sin(sa) * cd, ch, p.z - Math.cos(sa) * cd);
@@ -573,15 +686,19 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
             <boxGeometry args={[b.w, b.h, b.d]} />
             <meshStandardMaterial color="#2a2a48" roughness={0.6} />
           </mesh>
-          {/* Neon base band — same width as building, no overlap */}
-          <mesh position={[0, 0.5, 0]}>
-            <boxGeometry args={[b.w, 1.0, b.d]} />
-            <meshStandardMaterial color={b.glow} emissive={b.glow} emissiveIntensity={0.8} />
+          {/* Subtle color accent line at base (no emissive = no mobile vibration) */}
+          <mesh position={[0, 0.08, b.d / 2 + 0.05]}>
+            <boxGeometry args={[b.w - 0.5, 0.15, 0.06]} />
+            <meshStandardMaterial color={b.glow} />
+          </mesh>
+          <mesh position={[0, 0.08, -b.d / 2 - 0.05]}>
+            <boxGeometry args={[b.w - 0.5, 0.15, 0.06]} />
+            <meshStandardMaterial color={b.glow} />
           </mesh>
           {/* Neon top edge */}
           <mesh position={[0, b.h + 0.05, 0]}>
-            <boxGeometry args={[b.w, 0.2, b.d]} />
-            <meshStandardMaterial color={b.glow} emissive={b.glow} emissiveIntensity={0.6} />
+            <boxGeometry args={[b.w, 0.15, b.d]} />
+            <meshStandardMaterial color={b.glow} emissive={b.glow} emissiveIntensity={0.4} />
           </mesh>
           {/* Window rows */}
           {b.style < 2 && Array.from({ length: Math.min(Math.floor(b.h / 3), 6) }, (_, wi) => (
@@ -896,21 +1013,8 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
         );
       })}
 
-      {/* Player */}
-      <group ref={plMesh}>
-        <mesh position={[0, 0.75, 0]}>
-          <boxGeometry args={[0.7, 1.0, 0.5]} />
-          <meshStandardMaterial color={skin.bodyColor} emissive={skin.emissive} emissiveIntensity={0.3} />
-        </mesh>
-        <mesh position={[0, 1.5, 0]}>
-          <sphereGeometry args={[0.28, 8, 8]} />
-          <meshStandardMaterial color={skin.headColor} emissive={skin.emissive} emissiveIntensity={0.3} />
-        </mesh>
-        <mesh position={[0, 0.15, 0]}>
-          <boxGeometry args={[0.6, 0.3, 0.45]} />
-          <meshStandardMaterial color={skin.limbColor} />
-        </mesh>
-      </group>
+      {/* Player character (same as skyclimb) */}
+      <PlayerCharacter plRef={plRef} prevPos={prevPosRef} />
 
       {/* Animated Mission markers */}
       {missionsRef.current?.filter(m => !m.completed).map(m => {
