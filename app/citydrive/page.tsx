@@ -132,13 +132,13 @@ function genTrees(): TreeDef[] {
 
 function initCars(): CarData[] {
   return [
-    { x: 1 * T, z: 5 * T, angle: 0, speed: 0, maxSpeed: 40, accel: 25, handling: 0.9, color: "#FF2D55", name: "Sport" },
-    { x: 15 * T, z: 8 * T, angle: Math.PI / 2, speed: 0, maxSpeed: 30, accel: 20, handling: 1.0, color: "#00D4FF", name: "Sedan" },
-    { x: 22 * T, z: 1 * T, angle: 0, speed: 0, maxSpeed: 22, accel: 16, handling: 1.2, color: "#00FF88", name: "Truck" },
-    { x: 35 * T, z: 30 * T, angle: Math.PI, speed: 0, maxSpeed: 35, accel: 22, handling: 1.0, color: "#FFD700", name: "Taxi" },
-    { x: 50 * T, z: 50 * T, angle: -Math.PI / 2, speed: 0, maxSpeed: 50, accel: 32, handling: 0.8, color: "#B44DFF", name: "Racer" },
-    { x: 8 * T, z: 45 * T, angle: 0, speed: 0, maxSpeed: 45, accel: 28, handling: 0.85, color: "#FF6B00", name: "Muscle" },
-    { x: 60 * T, z: 15 * T, angle: Math.PI, speed: 0, maxSpeed: 38, accel: 24, handling: 1.1, color: "#44FFCC", name: "Electric" },
+    { x: 1 * T, z: 5 * T, angle: 0, speed: 0, maxSpeed: 40, accel: 25, handling: 3.0, color: "#FF2D55", name: "Sport" },
+    { x: 15 * T, z: 8 * T, angle: Math.PI / 2, speed: 0, maxSpeed: 30, accel: 20, handling: 3.2, color: "#00D4FF", name: "Sedan" },
+    { x: 22 * T, z: 1 * T, angle: 0, speed: 0, maxSpeed: 22, accel: 16, handling: 3.8, color: "#00FF88", name: "Truck" },
+    { x: 35 * T, z: 30 * T, angle: Math.PI, speed: 0, maxSpeed: 35, accel: 22, handling: 3.2, color: "#FFD700", name: "Taxi" },
+    { x: 50 * T, z: 50 * T, angle: -Math.PI / 2, speed: 0, maxSpeed: 50, accel: 32, handling: 2.8, color: "#B44DFF", name: "Racer" },
+    { x: 8 * T, z: 45 * T, angle: 0, speed: 0, maxSpeed: 45, accel: 28, handling: 2.9, color: "#FF6B00", name: "Muscle" },
+    { x: 60 * T, z: 15 * T, angle: Math.PI, speed: 0, maxSpeed: 38, accel: 24, handling: 3.5, color: "#44FFCC", name: "Electric" },
   ];
 }
 
@@ -538,14 +538,14 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
       car.speed = Math.max(-car.maxSpeed * 0.4, Math.min(car.maxSpeed, car.speed));
       if (Math.abs(car.speed) < 0.15) car.speed = 0;
       // Speed-dependent steering: faster = less sensitive
-      const speedFactor = Math.max(0.3, 1.0 - (Math.abs(car.speed) / car.maxSpeed) * 0.6);
+      const speedFactor = Math.max(0.5, 1.0 - (Math.abs(car.speed) / car.maxSpeed) * 0.4);
       if (Math.abs(car.speed) > 0.5) car.angle -= mx * car.handling * speedFactor * dt * (car.speed > 0 ? 1 : -1);
       const fx = Math.sin(car.angle), fz = Math.cos(car.angle);
       const nx = car.x + fx * car.speed * dt, nz = car.z + fz * car.speed * dt;
-      if (!solidBox(nx, nz, 1.2, 2.2)) { car.x = nx; car.z = nz; }
-      else if (!solidBox(nx, car.z, 1.2, 2.2)) { car.x = nx; car.speed *= 0.7; }
-      else if (!solidBox(car.x, nz, 1.2, 2.2)) { car.z = nz; car.speed *= 0.7; }
-      else car.speed *= -0.2;
+      if (!solidBox(nx, nz, 0.8, 1.4)) { car.x = nx; car.z = nz; }
+      else if (!solidBox(nx, car.z, 0.8, 1.4)) { car.x = nx; car.speed *= 0.8; }
+      else if (!solidBox(car.x, nz, 0.8, 1.4)) { car.z = nz; car.speed *= 0.8; }
+      else car.speed *= -0.15;
       car.x = Math.max(2, Math.min(WW - 2, car.x));
       car.z = Math.max(2, Math.min(WD - 2, car.z));
       p.x = car.x; p.z = car.z; p.angle = car.angle;
@@ -573,7 +573,7 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
         let aDiff = targetAngle - p.angle;
         while (aDiff > Math.PI) aDiff -= Math.PI * 2;
         while (aDiff < -Math.PI) aDiff += Math.PI * 2;
-        p.angle += aDiff * Math.min(0.12 * dt * 60, 1);
+        p.angle += aDiff * Math.min(0.04 * dt * 60, 1);
       }
       hud.inCar = -1;
       if (act) {
@@ -1104,6 +1104,11 @@ export default function CityDrivePage() {
       {/* HUD overlay */}
       {gameState === "playing" && (
         <div className="absolute inset-0 z-10 pointer-events-none">
+          {/* Exit button */}
+          <button onClick={() => setGameState("menu")} className="absolute top-3 right-3 w-9 h-9 rounded-full bg-black/70 backdrop-blur-sm border border-white/20 flex items-center justify-center pointer-events-auto active:bg-white/20 transition-all z-30">
+            <span className="text-white/70 font-bold text-lg leading-none">✕</span>
+          </button>
+
           {/* Score */}
           <div className="absolute top-3 left-3 bg-black/70 backdrop-blur-sm rounded-xl px-4 py-2 border border-orange-500/30">
             <div className="text-orange-400 font-black text-xl">{hud.score} <span className="text-xs text-white/40">PTS</span></div>
