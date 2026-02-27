@@ -470,17 +470,30 @@ function MiniMap({ hudRef, missionsRef }: { hudRef: React.RefObject<HudData>; mi
 // ═══════════════════════════════════════════════
 //  3D GAME SCENE
 // ═══════════════════════════════════════════════
+interface SaveData {
+  player: { x: number; z: number; angle: number; inCar: number };
+  score: number; missions: number; missionId: number;
+  cars: { x: number; z: number; angle: number; speed: number }[];
+  missionData: MissionData[];
+}
+const SAVE_KEY = "citydrive_save";
+function saveToStorage(data: SaveData) { try { localStorage.setItem(SAVE_KEY, JSON.stringify(data)); } catch {} }
+function loadFromStorage(): SaveData | null { try { const s = localStorage.getItem(SAVE_KEY); return s ? JSON.parse(s) : null; } catch { return null; } }
+function clearSave() { try { localStorage.removeItem(SAVE_KEY); } catch {} }
+
 interface SceneProps {
   running: boolean;
+  resuming: boolean;
   keysRef: React.RefObject<Set<string>>;
   touchRef: React.RefObject<{ active: boolean; sx: number; sy: number; cx: number; cy: number }>;
   actionRef: React.RefObject<boolean>;
   hudRef: React.RefObject<HudData>;
   missionsRef: React.RefObject<MissionData[]>;
+  gameDataRef: React.RefObject<SaveData | null>;
   onEnd: () => void;
 }
 
-const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef, onEnd }: SceneProps) {
+const GameScene = React.memo(function GameScene({ running, resuming, keysRef, touchRef, actionRef, hudRef, missionsRef, gameDataRef, onEnd }: SceneProps) {
   const { camera } = useThree();
   const buildings = useMemo(genBuildings, []);
   const trees = useMemo(genTrees, []);
@@ -494,17 +507,30 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
   const camLook = useRef(new THREE.Vector3(1 * T, 1, 1 * T));
   const camAngle = useRef(0);
   const camLookSmooth = useRef(new THREE.Vector3(1 * T, 1, 1 * T));
+  const saveTickRef = useRef(0);
 
   useEffect(() => {
     if (!running) return;
-    carsRef.current = initCars();
-    plRef.current = { x: 1 * T, z: 1 * T, angle: 0, inCar: -1 };
-    hudRef.current.score = 0;
-    hudRef.current.missions = 0;
-    midRef.current = 0;
-    const ms: MissionData[] = [];
-    for (let i = 0; i < 4; i++) ms.push(genMission(midRef.current++));
-    missionsRef.current = ms;
+    const saved = resuming ? loadFromStorage() : null;
+    if (saved) {
+      plRef.current = { ...saved.player };
+      hudRef.current.score = saved.score;
+      hudRef.current.missions = saved.missions;
+      midRef.current = saved.missionId;
+      const cars = initCars();
+      saved.cars.forEach((sc, i) => { if (cars[i]) { cars[i].x = sc.x; cars[i].z = sc.z; cars[i].angle = sc.angle; cars[i].speed = sc.speed; } });
+      carsRef.current = cars;
+      missionsRef.current = saved.missionData;
+    } else {
+      carsRef.current = initCars();
+      plRef.current = { x: 1 * T, z: 1 * T, angle: 0, inCar: -1 };
+      hudRef.current.score = 0;
+      hudRef.current.missions = 0;
+      midRef.current = 0;
+      const ms: MissionData[] = [];
+      for (let i = 0; i < 4; i++) ms.push(genMission(midRef.current++));
+      missionsRef.current = ms;
+    }
   }, [running]);
 
   useFrame((_, rawDt) => {
@@ -588,6 +614,17 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
 
     // ── Update HUD position data (for mini-map) ──
     hud.px = p.x; hud.pz = p.z; hud.angle = p.angle;
+
+    // ── Save game data periodically (every ~60 frames) ──
+    saveTickRef.current++;
+    if (saveTickRef.current % 60 === 0) {
+      gameDataRef.current = {
+        player: { x: p.x, z: p.z, angle: p.angle, inCar: p.inCar },
+        score: hud.score, missions: hud.missions, missionId: midRef.current,
+        cars: carsRef.current.map(c => ({ x: c.x, z: c.z, angle: c.angle, speed: c.speed })),
+        missionData: missionsRef.current,
+      };
+    }
 
     // ── Missions ──
     const ms = missionsRef.current;
@@ -1043,6 +1080,8 @@ export default function CityDrivePage() {
   const [cardSaved, setCardSaved] = useState(false);
   const [showMilestone, setShowMilestone] = useState(false);
   const [hudTick, setHudTick] = useState(0);
+  const [resuming, setResuming] = useState(false);
+  const [hasSave, setHasSave] = useState(false);
   const joystickKnobRef = useRef<HTMLDivElement>(null);
 
   const keysRef = useRef(new Set<string>());
@@ -1050,6 +1089,9 @@ export default function CityDrivePage() {
   const actionRef = useRef(false);
   const hudRef = useRef<HudData>({ score: 0, missions: 0, inCar: -1, speed: 0, carColor: "#fff", msg: "", msgT: 0, px: 4, pz: 4, angle: 0 });
   const missionsRef = useRef<MissionData[]>([]);
+  const gameDataRef = useRef<SaveData | null>(null);
+
+  useEffect(() => { setHasSave(!!loadFromStorage()); }, []);
 
   useEffect(() => {
     if (gameState !== "countdown") return;
@@ -1084,12 +1126,22 @@ export default function CityDrivePage() {
   }, [gameState, cardSaved]);
 
   const endGame = useCallback(() => {
+    clearSave();
+    setHasSave(false);
     setFinalScore(hudRef.current.score);
     setFinalMissions(hudRef.current.missions);
     setGameState("result");
   }, []);
-  const startGame = () => { setGameState("playing"); };
-  const playAgain = () => { setCardSaved(false); setGameState("playing"); };
+  const saveAndExit = useCallback(() => {
+    if (gameDataRef.current) {
+      saveToStorage(gameDataRef.current);
+      setHasSave(true);
+    }
+    setGameState("menu");
+  }, []);
+  const startGame = () => { setResuming(false); clearSave(); setHasSave(false); setGameState("playing"); };
+  const continueGame = () => { setResuming(true); setGameState("playing"); };
+  const playAgain = () => { setCardSaved(false); setResuming(false); clearSave(); setHasSave(false); setGameState("playing"); };
 
   const totalForRarity = TOTAL_M * 100;
   const rarity = calculateRarity(Math.min(finalScore, totalForRarity), totalForRarity, 1);
@@ -1098,14 +1150,14 @@ export default function CityDrivePage() {
   return (
     <div className="fixed inset-0 bg-[#0a0e1a] overflow-hidden select-none" style={{ touchAction: "none" }}>
       <Canvas camera={{ fov: 65, near: 0.1, far: 350, position: [4, 8, -8] }} dpr={[1, 1.5]} gl={{ powerPreference: "high-performance", antialias: false }}>
-        <GameScene running={gameState === "playing"} keysRef={keysRef} touchRef={touchRef} actionRef={actionRef} hudRef={hudRef} missionsRef={missionsRef} onEnd={endGame} />
+        <GameScene running={gameState === "playing"} resuming={resuming} keysRef={keysRef} touchRef={touchRef} actionRef={actionRef} hudRef={hudRef} missionsRef={missionsRef} gameDataRef={gameDataRef} onEnd={endGame} />
       </Canvas>
 
       {/* HUD overlay */}
       {gameState === "playing" && (
         <div className="absolute inset-0 z-10 pointer-events-none">
           {/* Exit button */}
-          <button onClick={() => setGameState("menu")} className="absolute top-3 right-3 w-9 h-9 rounded-full bg-black/70 backdrop-blur-sm border border-white/20 flex items-center justify-center pointer-events-auto active:bg-white/20 transition-all z-30">
+          <button onClick={saveAndExit} className="absolute top-3 right-3 w-9 h-9 rounded-full bg-black/70 backdrop-blur-sm border border-white/20 flex items-center justify-center pointer-events-auto active:bg-white/20 transition-all z-30">
             <span className="text-white/70 font-bold text-lg leading-none">✕</span>
           </button>
 
@@ -1208,7 +1260,10 @@ export default function CityDrivePage() {
               </div>
               <div className="text-center space-y-3 px-4">
                 <div className="text-[10px] text-white/30 mb-2">WASD / arrows: move • SPACE: enter/exit car</div>
-                <button onClick={startGame} className="w-full max-w-xs py-3 rounded-xl font-black text-lg text-white bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-400 hover:to-red-400 transition-all shadow-lg shadow-orange-500/30 active:scale-95">START</button>
+                {hasSave && (
+                  <button onClick={continueGame} className="w-full max-w-xs py-3 rounded-xl font-black text-lg text-white bg-gradient-to-r from-green-500 to-emerald-500 hover:from-green-400 hover:to-emerald-400 transition-all shadow-lg shadow-green-500/30 active:scale-95 mb-2">CONTINUE</button>
+                )}
+                <button onClick={startGame} className="w-full max-w-xs py-3 rounded-xl font-black text-lg text-white bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-400 hover:to-red-400 transition-all shadow-lg shadow-orange-500/30 active:scale-95">{hasSave ? "NEW GAME" : "START"}</button>
                 <Link href="/" className="block text-white/40 text-sm hover:text-white/60 mt-4">← Back</Link>
               </div>
             </motion.div>
