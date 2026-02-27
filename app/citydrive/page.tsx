@@ -83,24 +83,20 @@ const GLOWS = ["#FF2D78", "#00D4FF", "#B44DFF", "#00FF88", "#FFD700", "#FF6B00",
 interface CarType {
   id: string; name: string; price: number; color: string;
   maxSpeed: number; accel: number; handling: number;
-  driftMult: number; nitroEff: number;
+  canDrift: boolean; canNitro: boolean;
   desc: string;
 }
 const CAR_TYPES: CarType[] = [
-  { id: "starter", name: "Starter", price: 0, color: "#FF2D55", maxSpeed: 35, accel: 20, handling: 2.5, driftMult: 0.8, nitroEff: 0.8, desc: "Reliable beginner car" },
-  { id: "sedan", name: "Sedan", price: 2, color: "#00AAFF", maxSpeed: 40, accel: 25, handling: 3.0, driftMult: 1.0, nitroEff: 0.9, desc: "Balanced all-rounder" },
-  { id: "muscle", name: "Muscle", price: 5, color: "#FF6600", maxSpeed: 50, accel: 30, handling: 2.0, driftMult: 1.5, nitroEff: 1.0, desc: "Raw power, drift king" },
-  { id: "racer", name: "Racer", price: 10, color: "#00FF88", maxSpeed: 60, accel: 32, handling: 3.5, driftMult: 1.2, nitroEff: 1.2, desc: "Speed + handling" },
-  { id: "supercar", name: "Supercar", price: 20, color: "#B44DFF", maxSpeed: 72, accel: 38, handling: 4.0, driftMult: 1.0, nitroEff: 1.5, desc: "Ultimate machine" },
+  { id: "starter", name: "Starter", price: 0, color: "#999999", maxSpeed: 19, accel: 15, handling: 2.5, canDrift: false, canNitro: false, desc: "Reliable beginner car" },
+  { id: "sedan", name: "Sedan", price: 2, color: "#0066FF", maxSpeed: 25, accel: 18, handling: 2.8, canDrift: false, canNitro: false, desc: "Balanced all-rounder" },
+  { id: "muscle", name: "Muscle", price: 5, color: "#FF6600", maxSpeed: 32, accel: 22, handling: 2.5, canDrift: true, canNitro: false, desc: "Raw power, drift king" },
+  { id: "racer", name: "Racer", price: 10, color: "#FF2222", maxSpeed: 38, accel: 26, handling: 3.2, canDrift: true, canNitro: false, desc: "Speed + handling" },
+  { id: "supercar", name: "Supercar", price: 20, color: "#9933FF", maxSpeed: 45, accel: 30, handling: 3.5, canDrift: true, canNitro: true, desc: "Ultimate machine" },
 ];
 
-const STARS_KEY = "citydrive_stars";
 const OWNED_CARS_KEY = "citydrive_owned_cars";
 const ACTIVE_CAR_KEY = "citydrive_active_car";
 
-function getStars(): number { try { return parseInt(localStorage.getItem(STARS_KEY) || "0", 10); } catch { return 0; } }
-function setStars(n: number) { try { localStorage.setItem(STARS_KEY, String(n)); } catch {} }
-function addStars(n: number) { setStars(getStars() + n); }
 function getOwnedCars(): string[] { try { return JSON.parse(localStorage.getItem(OWNED_CARS_KEY) || '["starter"]'); } catch { return ["starter"]; } }
 function setOwnedCars(ids: string[]) { try { localStorage.setItem(OWNED_CARS_KEY, JSON.stringify(ids)); } catch {} }
 function getActiveCar(): string { try { return localStorage.getItem(ACTIVE_CAR_KEY) || "starter"; } catch { return "starter"; } }
@@ -207,12 +203,23 @@ function initCars(carTypeId?: string): CarData[] {
   const playerCar: CarData = { x: 1 * T, z: 1 * T, angle: 0, speed: 0, maxSpeed: ct.maxSpeed, accel: ct.accel, handling: ct.handling, color: ct.color, name: ct.name, isNPC: false, ...base, origMaxSpeed: ct.maxSpeed };
   const dirs = [0, Math.PI / 2, Math.PI, Math.PI * 1.5];
   const npcs: CarData[] = [];
+  // Spread NPCs evenly across the map using a grid pattern to prevent clustering
+  const gridSize = Math.ceil(Math.sqrt(NPC_COUNT));
+  const stepX = Math.floor(BLOCKS_X / gridSize);
+  const stepZ = Math.floor(BLOCKS_Z / gridSize);
   for (let i = 0; i < NPC_COUNT; i++) {
-    const bx = (i * 2 + 1) % BLOCKS_X, bz = (i * 3 + 1) % BLOCKS_Z;
-    // Spawn NPC on road: tile 1 of the block (center of 3-tile road)
+    const gx = i % gridSize;
+    const gz = Math.floor(i / gridSize);
+    // Place each NPC in a unique grid cell, offset to road tiles
+    const bx = Math.min((gx * stepX + 1 + (i * 3) % stepX) % BLOCKS_X, BLOCKS_X - 1);
+    const bz = Math.min((gz * stepZ + 1 + (i * 5) % stepZ) % BLOCKS_Z, BLOCKS_Z - 1);
     const ms = 10 + (i % 5) * 3;
+    // Use alternating road orientations for variety
+    const useXRoad = i % 2 === 0;
+    const roadTile = useXRoad ? 1 : 1; // center of 3-tile road
     npcs.push({
-      x: (bx * BLOCK + 1) * T, z: (bz * BLOCK + 1) * T, angle: dirs[i % 4],
+      x: (bx * BLOCK + roadTile) * T + (i % 3) * T, z: (bz * BLOCK + roadTile) * T + ((i + 1) % 3) * T,
+      angle: dirs[i % 4],
       speed: 0, maxSpeed: ms, accel: 12, handling: 2.0,
       color: NPC_COLORS[i], name: NPC_NAMES[i], isNPC: true, ...base, origMaxSpeed: ms,
     });
@@ -820,9 +827,10 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
     // ── Driving ──
     if (p.inCar >= 0) {
       const car = carsRef.current[p.inCar];
-      // Nitro (toggle mode — auto-off when empty)
+      // Nitro (toggle mode — auto-off when empty, only for cars that support it)
+      const carCanNitro = getCarType(getActiveCar()).canNitro;
       const hasFuel = nitroFuel.current > 0;
-      const nitroOn = wantNitro && hasFuel && Math.abs(car.speed) > 1;
+      const nitroOn = carCanNitro && wantNitro && hasFuel && Math.abs(car.speed) > 1;
       if (nitroOn) {
         nitroFuel.current = Math.max(0, nitroFuel.current - NITRO_DRAIN * dt);
         if (nitroFuel.current <= 0) {
@@ -844,8 +852,9 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
       const speedFactor = Math.max(0.5, 1.0 - (Math.abs(car.speed) / car.maxSpeed) * 0.4);
       if (Math.abs(car.speed) > 0.5) car.angle -= mx * car.handling * speedFactor * dt * (car.speed > 0 ? 1 : -1);
 
-      // Drift detection: brake + steering + speed
-      const isDrifting = brake && Math.abs(mx) > 0.3 && Math.abs(car.speed) > DRIFT_MIN_SPEED;
+      // Drift detection: brake + steering + speed + car must support drift
+      const activeCt = getCarType(getActiveCar());
+      const isDrifting = activeCt.canDrift && brake && Math.abs(mx) > 0.3 && Math.abs(car.speed) > DRIFT_MIN_SPEED;
       const ds = driftState.current;
 
       // Acceleration / Braking / Drift
@@ -853,8 +862,7 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
         // Drift: very light braking — keep momentum while sliding
         car.speed *= 0.993;
         if (!ds.active) { ds.active = true; ds.score = 0; }
-        const dMult = getCarType(getActiveCar()).driftMult;
-        ds.score = Math.min(50, ds.score + Math.abs(car.speed) * dt * 0.5 * dMult);
+        ds.score = Math.min(10, ds.score + Math.abs(car.speed) * dt * 0.5);
         ds.timer = 1.5;
         // Tire marks during drift
         const tm = tireMarks.current;
@@ -882,17 +890,17 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
       car.speed = Math.max(-car.maxSpeed * 0.4, Math.min(effectiveMax, car.speed));
       if (Math.abs(car.speed) < 0.15) car.speed = 0;
 
-      // Drift end — award points + stars for big drifts
+      // Drift end — award points (max 10 per drift, max 50 total)
       if (!isDrifting && ds.active) {
         const bonus = Math.round(ds.score);
-        if (bonus > 5) {
-          hud.score += bonus;
-          // Award 1 star for drifts >= 25 pts, 2 stars for >= 40 pts
-          const starBonus = bonus >= 40 ? 2 : bonus >= 25 ? 1 : 0;
-          if (starBonus > 0) { addStars(starBonus); hud.msg = `DRIFT +${bonus}! ★+${starBonus}`; } else { hud.msg = `DRIFT +${bonus}!`; }
+        if (bonus > 2 && ds.totalScore < 50) {
+          const awarded = Math.min(bonus, 50 - ds.totalScore);
+          hud.score += awarded;
+          hud.msg = `DRIFT +${awarded}!`;
           hud.msgT = 2;
+          ds.totalScore += awarded;
         }
-        ds.totalScore += bonus; ds.active = false;
+        ds.active = false;
       }
       if (ds.timer > 0) ds.timer -= dt;
       hud.drifting = ds.active; hud.driftScore = Math.round(ds.score);
@@ -991,16 +999,22 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
       const dp = Math.sqrt((npc.x - p.x) ** 2 + (npc.z - p.z) ** 2);
       const dotP = dp > 0 ? ((p.x - npc.x) * nfx + (p.z - npc.z) * nfz) / dp : 0;
       const playerAhead = p.inCar < 0 && dp < 8 && dotP > 0.6;
-      // Check for other NPCs ahead (avoid rear-end collisions)
+      // Check for other NPCs — avoid clustering and rear-end collisions
       let npcAhead = false;
       for (let j = 0; j < carsRef.current.length; j++) {
         if (j === i || j === p.inCar) continue;
         const other = carsRef.current[j];
         const ddx = other.x - npc.x, ddz = other.z - npc.z;
         const dist = Math.sqrt(ddx * ddx + ddz * ddz);
-        if (dist < 10 && dist > 0) {
+        // Push apart if too close (anti-clustering)
+        if (dist < 6 && dist > 0.1) {
+          const pushStrength = (6 - dist) * 0.3 * dt;
+          npc.x -= (ddx / dist) * pushStrength;
+          npc.z -= (ddz / dist) * pushStrength;
+        }
+        if (dist < 12 && dist > 0) {
           const dot = (ddx * nfx + ddz * nfz) / dist;
-          if (dot > 0.7) { npcAhead = true; break; }
+          if (dot > 0.6) { npcAhead = true; break; }
         }
       }
       // Check road ahead
@@ -1086,14 +1100,14 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
         } else {
           if (Math.sqrt((p.x - m.dx) ** 2 + (p.z - m.dz) ** 2) < 4) {
             m.completed = true; hud.score += m.points; hud.missions++;
-            addStars(1); hud.msg = `📦 +${m.points} pts! ★+1`; hud.msgT = 2; missionCompleted = true;
+            hud.msg = `📦 +${m.points} pts!`; hud.msgT = 2; missionCompleted = true;
           }
         }
       } else if (m.type === "parking" && p.inCar >= 0) {
         const c = carsRef.current[p.inCar];
         if (Math.sqrt((c.x - m.px) ** 2 + (c.z - m.pz) ** 2) < 3.5 && Math.abs(c.speed) < 1) {
           m.completed = true; hud.score += m.points; hud.missions++;
-          addStars(1); hud.msg = `🅿️ +${m.points} pts! ★+1`; hud.msgT = 2; missionCompleted = true;
+          hud.msg = `🅿️ +${m.points} pts!`; hud.msgT = 2; missionCompleted = true;
         }
       } else if (m.type === "coins" && m.coins) {
         for (let i = m.coins.length - 1; i >= 0; i--) {
@@ -1104,7 +1118,7 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
         }
         if (m.coins.length === 0 && !m.completed) {
           m.completed = true; hud.score += m.points; hud.missions++;
-          addStars(1); hud.msg = `🪙 +${m.points} bonus! ★+1`; hud.msgT = 2; missionCompleted = true;
+          hud.msg = `🪙 +${m.points} bonus!`; hud.msgT = 2; missionCompleted = true;
         }
       }
     }
@@ -1176,9 +1190,8 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
           if (tt.currentCP >= tt.checkpoints.length) {
             // Completed!
             tt.active = false; tt.completed = true;
-            addStars(TIME_TRIAL_REWARD);
             hud.score += 150;
-            hud.msg = `TIME TRIAL COMPLETE! ★+${TIME_TRIAL_REWARD}`; hud.msgT = 3;
+            hud.msg = `TIME TRIAL COMPLETE! +150 pts`; hud.msgT = 3;
             timeTrialRef.current = null;
           } else {
             hud.msg = `CP ${tt.currentCP}/${tt.checkpoints.length}`; hud.msgT = 1.5;
@@ -1448,13 +1461,10 @@ export default function CityDrivePage() {
   const [hudTick, setHudTick] = useState(0);
   const [resuming, setResuming] = useState(false);
   const [hasSave, setHasSave] = useState(initSave);
-  const [showGarage, setShowGarage] = useState(false);
-  const [stars, setStarsState] = useState(() => typeof window !== "undefined" ? getStars() : 0);
-  const [ownedCars, setOwnedCarsState] = useState(() => typeof window !== "undefined" ? getOwnedCars() : ["starter"]);
-  const [activeCar, setActiveCarState] = useState(() => typeof window !== "undefined" ? getActiveCar() : "starter");
   const joystickKnobRef = useRef<HTMLDivElement>(null);
   const timeTrialRef = useRef<TimeTrial | null>(null);
-  const timeTrialCooldown = useRef(30); // seconds until first trial spawns
+  const timeTrialCooldown = useRef(180); // seconds until first trial spawns (3 min)
+  const timeTrialUsed = useRef(0); // count of time trials used this game (max 2)
 
   const keysRef = useRef(new Set<string>());
   const touchRef = useRef({ active: false, sx: 0, sy: 0, cx: 0, cy: 0 });
@@ -1477,16 +1487,17 @@ export default function CityDrivePage() {
     if (gameState !== "playing") return;
     const i = setInterval(() => {
       setHudTick(t => t + 1);
-      // Sync stars display
-      setStarsState(getStars());
-      // Time trial spawn logic
-      if (!timeTrialRef.current) {
+      // Sync car data
+
+      // Time trial spawn logic (max 2 per game, 3 min cooldown)
+      if (!timeTrialRef.current && timeTrialUsed.current < 2) {
         timeTrialCooldown.current -= 0.25;
         if (timeTrialCooldown.current <= 0) {
           const cps: { x: number; z: number }[] = [];
           for (let j = 0; j < TIME_TRIAL_CPS; j++) cps.push(roadPos3D());
           timeTrialRef.current = { checkpoints: cps, currentCP: 0, timeLeft: TIME_TRIAL_DURATION, active: true, reward: TIME_TRIAL_REWARD, completed: false };
-          timeTrialCooldown.current = 60; // next trial in 60s after this one ends
+          timeTrialUsed.current++;
+          timeTrialCooldown.current = 180; // 3 min until next
         }
       }
     }, 250);
@@ -1497,7 +1508,6 @@ export default function CityDrivePage() {
     const dn = (e: KeyboardEvent) => {
       keysRef.current.add(e.key);
       if (e.key === " ") e.preventDefault();
-      if ((e.key === "g" || e.key === "G") && gameState === "playing") setShowGarage(prev => !prev);
     };
     const up = (e: KeyboardEvent) => keysRef.current.delete(e.key);
     window.addEventListener("keydown", dn);
@@ -1532,21 +1542,6 @@ export default function CityDrivePage() {
   const startGame = () => { setResuming(false); clearSave(); setHasSave(false); setGameState("playing"); };
   const continueGame = () => { setResuming(true); setGameState("playing"); };
   const playAgain = () => { setCardSaved(false); setResuming(false); clearSave(); setHasSave(false); setGameState("playing"); };
-  const buyCar = (id: string) => {
-    const ct = getCarType(id);
-    const s = getStars();
-    if (s < ct.price || ownedCars.includes(id)) return;
-    setStars(s - ct.price);
-    const newOwned = [...ownedCars, id];
-    setOwnedCars(newOwned);
-    setOwnedCarsState(newOwned);
-    setStarsState(s - ct.price);
-  };
-  const selectCar = (id: string) => {
-    if (!ownedCars.includes(id)) return;
-    setActiveCar(id);
-    setActiveCarState(id);
-  };
 
   // Actual max: 5 delivery(100) + 5 parking(80) + 5 coins(50+50bonus) = 500+400+500 = 1400
   const totalForRarity = 1400;
@@ -1571,7 +1566,6 @@ export default function CityDrivePage() {
           <div className="absolute top-3 left-3 bg-black/70 backdrop-blur-sm rounded-xl px-4 py-2 border border-orange-500/30">
             <div className="flex items-center justify-between gap-3">
               <div className="text-orange-400 font-black text-xl">{hud.score} <span className="text-xs text-white/40">PTS</span></div>
-              <div className="text-purple-400 font-black text-sm">★{stars}</div>
             </div>
             <div className="text-white/50 text-[10px]">{hud.missions}/{TOTAL_M} completed</div>
             <div className="w-full h-1 bg-white/10 rounded-full mt-1">
@@ -1579,17 +1573,13 @@ export default function CityDrivePage() {
             </div>
           </div>
 
-          {/* Garage button */}
-          <button onClick={() => setShowGarage(true)} className="absolute top-3 left-[180px] w-9 h-9 rounded-full bg-black/70 backdrop-blur-sm border border-purple-400/40 flex items-center justify-center pointer-events-auto active:bg-purple-500/30 transition-all z-30">
-            <span className="text-lg">🏎️</span>
-          </button>
 
           {/* Time Trial HUD */}
           {timeTrialRef.current?.active && (
             <div className="absolute top-3 left-1/2 -translate-x-1/2 bg-black/80 backdrop-blur-sm rounded-xl px-4 py-2 border border-yellow-500/40">
               <div className="text-yellow-400 font-black text-sm text-center">TIME TRIAL</div>
               <div className="text-white font-black text-xl text-center">{Math.ceil(timeTrialRef.current.timeLeft)}s</div>
-              <div className="text-white/50 text-[10px] text-center">CP {timeTrialRef.current.currentCP}/{timeTrialRef.current.checkpoints.length} • ★{timeTrialRef.current.reward}</div>
+              <div className="text-white/50 text-[10px] text-center">CP {timeTrialRef.current.currentCP}/{timeTrialRef.current.checkpoints.length}</div>
             </div>
           )}
 
@@ -1654,7 +1644,7 @@ export default function CityDrivePage() {
           </div>
 
           <div className="absolute bottom-3 left-3 text-[9px] text-white/20">
-            WASD: move • SPACE: brake/enter • E/SHIFT: nitro • G: garage
+            WASD: move • SPACE: brake/enter • E/SHIFT: nitro
           </div>
         </div>
       )}
@@ -1692,85 +1682,6 @@ export default function CityDrivePage() {
         </>
       )}
 
-      {/* GARAGE / SHOP OVERLAY */}
-      <AnimatePresence>
-        {showGarage && gameState === "playing" && (
-          <motion.div className="absolute inset-0 z-40 flex items-center justify-center bg-black/85 backdrop-blur-sm"
-            initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
-            <motion.div initial={{ scale: 0.92, y: 15 }} animate={{ scale: 1, y: 0 }} transition={{ type: "spring", damping: 20 }}
-              className="w-full max-w-md mx-4 bg-[#12152a] rounded-2xl border border-purple-500/30 overflow-hidden max-h-[85vh] flex flex-col">
-              {/* Header */}
-              <div className="flex items-center justify-between px-5 py-3 border-b border-white/10">
-                <div className="flex items-center gap-2">
-                  <span className="text-xl">🏎️</span>
-                  <h2 className="text-white font-black text-lg">GARAGE</h2>
-                </div>
-                <div className="flex items-center gap-3">
-                  <div className="text-purple-400 font-black text-lg">★{stars}</div>
-                  <button onClick={() => setShowGarage(false)} className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:bg-white/20 transition-all">✕</button>
-                </div>
-              </div>
-              {/* Car list */}
-              <div className="overflow-y-auto flex-1 p-4 space-y-3">
-                {CAR_TYPES.map(ct => {
-                  const owned = ownedCars.includes(ct.id);
-                  const isActive = activeCar === ct.id;
-                  const canBuy = !owned && stars >= ct.price;
-                  return (
-                    <div key={ct.id} className={`rounded-xl p-4 border transition-all ${isActive ? "border-purple-500/60 bg-purple-500/10" : owned ? "border-white/15 bg-white/5" : "border-white/8 bg-white/[0.02]"}`}>
-                      <div className="flex items-start gap-3">
-                        {/* Car color swatch */}
-                        <div className="w-12 h-12 rounded-lg flex-shrink-0 flex items-center justify-center" style={{ backgroundColor: ct.color + "33", borderColor: ct.color + "66", borderWidth: 2 }}>
-                          <div className="w-6 h-4 rounded-sm" style={{ backgroundColor: ct.color }} />
-                        </div>
-                        <div className="flex-1 min-w-0">
-                          <div className="flex items-center gap-2">
-                            <span className="text-white font-bold text-sm">{ct.name}</span>
-                            {isActive && <span className="text-[9px] bg-purple-500/30 text-purple-300 px-1.5 py-0.5 rounded-full font-bold">ACTIVE</span>}
-                            {!owned && <span className="text-yellow-400 text-xs font-bold">★{ct.price}</span>}
-                          </div>
-                          <p className="text-white/40 text-[10px] mt-0.5">{ct.desc}</p>
-                          {/* Stats bars */}
-                          <div className="grid grid-cols-2 gap-x-3 gap-y-1 mt-2">
-                            {[
-                              { label: "SPD", val: ct.maxSpeed / 72, color: "#00FF88" },
-                              { label: "HDL", val: ct.handling / 4, color: "#00AAFF" },
-                              { label: "DFT", val: ct.driftMult / 1.5, color: "#FF6600" },
-                              { label: "NOS", val: ct.nitroEff / 1.5, color: "#B44DFF" },
-                            ].map(s => (
-                              <div key={s.label} className="flex items-center gap-1.5">
-                                <span className="text-[9px] text-white/30 w-6">{s.label}</span>
-                                <div className="flex-1 h-1.5 bg-white/10 rounded-full">
-                                  <div className="h-full rounded-full transition-all" style={{ width: `${Math.min(100, s.val * 100)}%`, backgroundColor: s.color }} />
-                                </div>
-                              </div>
-                            ))}
-                          </div>
-                        </div>
-                      </div>
-                      {/* Action button */}
-                      <div className="mt-3">
-                        {isActive ? (
-                          <div className="text-center text-purple-400/60 text-xs font-bold">SELECTED</div>
-                        ) : owned ? (
-                          <button onClick={() => selectCar(ct.id)} className="w-full py-2 rounded-lg bg-purple-500/20 border border-purple-400/30 text-purple-300 text-xs font-bold hover:bg-purple-500/30 active:scale-[0.98] transition-all pointer-events-auto">SELECT</button>
-                        ) : canBuy ? (
-                          <button onClick={() => buyCar(ct.id)} className="w-full py-2 rounded-lg bg-yellow-500/20 border border-yellow-400/30 text-yellow-300 text-xs font-bold hover:bg-yellow-500/30 active:scale-[0.98] transition-all pointer-events-auto">BUY ★{ct.price}</button>
-                        ) : (
-                          <div className="text-center text-white/20 text-xs font-bold">★{ct.price} NEEDED</div>
-                        )}
-                      </div>
-                    </div>
-                  );
-                })}
-              </div>
-              <div className="px-5 py-3 border-t border-white/10 text-center text-white/30 text-[10px]">
-                Earn ★ from missions, drifts & time trials
-              </div>
-            </motion.div>
-          </motion.div>
-        )}
-      </AnimatePresence>
 
       {/* MENU */}
       <AnimatePresence>
