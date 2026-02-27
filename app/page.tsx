@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Layers, Star, User, ChevronDown, BookOpen, Car, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Layers, Star, User, ChevronDown, BookOpen, Car, Search, Hash, Shuffle, Crown, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import Logo from "@/components/Logo";
 import GameCard from "@/components/GameCard";
@@ -58,6 +58,20 @@ const CATEGORIES: CategoryDef[] = [
         color: "#B44DFF",
         gradient: "bg-gradient-to-br from-purple-500/20 to-violet-500/20",
       },
+      {
+        id: "spotdiff",
+        icon: Search,
+        name: "Spot Diff",
+        color: "#F59E0B",
+        gradient: "bg-gradient-to-br from-amber-500/20 to-yellow-500/20",
+      },
+      {
+        id: "numberrush",
+        icon: Hash,
+        name: "Number Rush",
+        color: "#22D3EE",
+        gradient: "bg-gradient-to-br from-cyan-500/20 to-sky-500/20",
+      },
     ],
   },
   {
@@ -85,7 +99,22 @@ const CATEGORIES: CategoryDef[] = [
     label: "LEARNING",
     icon: BookOpen,
     color: "#FFD700",
-    games: [],
+    games: [
+      {
+        id: "wordscramble",
+        icon: Shuffle,
+        name: "Word Scramble",
+        color: "#34D399",
+        gradient: "bg-gradient-to-br from-emerald-500/20 to-teal-500/20",
+      },
+      {
+        id: "milliomos",
+        icon: Crown,
+        name: "Milliomos",
+        color: "#FFD700",
+        gradient: "bg-gradient-to-br from-yellow-500/20 to-amber-500/20",
+      },
+    ],
   },
 ];
 

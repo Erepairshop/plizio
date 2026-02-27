@@ -36,6 +36,26 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://plizio.com/spotdiff</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://plizio.com/numberrush</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://plizio.com/wordscramble</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://plizio.com/milliomos</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://plizio.com/collection</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

@@ -1,0 +1,242 @@
+[
+  {
+    "question": "What color is the sky on a clear day?",
+    "answers": ["Blue", "Green", "Red", "Yellow"],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "answers": ["6", "8", "10", "4"],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answers": ["Venus", "Jupiter", "Mars", "Saturn"],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "What is the capital of France?",
+    "answers": ["London", "Berlin", "Madrid", "Paris"],
+    "correct": 3,
+    "difficulty": 1
+  },
+  {
+    "question": "How many continents are there?",
+    "answers": ["5", "6", "7", "8"],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Which animal is the tallest in the world?",
+    "answers": ["Elephant", "Giraffe", "Horse", "Camel"],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "What is H2O commonly known as?",
+    "answers": ["Salt", "Sugar", "Water", "Oil"],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Which fruit is known for keeping doctors away?",
+    "answers": ["Banana", "Orange", "Grape", "Apple"],
+    "correct": 3,
+    "difficulty": 1
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "answers": ["Atlantic", "Indian", "Pacific", "Arctic"],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answers": ["Picasso", "Da Vinci", "Van Gogh", "Michelangelo"],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "What is the hardest natural substance?",
+    "answers": ["Gold", "Iron", "Diamond", "Platinum"],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Which country has the most people?",
+    "answers": ["USA", "India", "Russia", "Brazil"],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "What gas do plants absorb from the atmosphere?",
+    "answers": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "How many bones are in the adult human body?",
+    "answers": ["186", "206", "226", "256"],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "What year did the Titanic sink?",
+    "answers": ["1905", "1912", "1920", "1898"],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Which element has the chemical symbol 'Au'?",
+    "answers": ["Silver", "Gold", "Aluminum", "Argon"],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "What is the speed of light approximately?",
+    "answers": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "100,000 km/s"],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "answers": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "answers": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "answers": ["Dickens", "Shakespeare", "Hemingway", "Twain"],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "answers": ["Amazon", "Nile", "Mississippi", "Yangtze"],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "In what year did World War II end?",
+    "answers": ["1943", "1944", "1945", "1946"],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "answers": ["NaOH", "NaCl", "KCl", "CaCl2"],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Which organ produces insulin in the human body?",
+    "answers": ["Liver", "Kidney", "Pancreas", "Stomach"],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "What is the square root of 144?",
+    "answers": ["10", "11", "12", "14"],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Which language has the most native speakers?",
+    "answers": ["English", "Spanish", "Mandarin", "Hindi"],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "answers": ["Nucleus", "Ribosome", "Mitochondria", "Golgi Body"],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "answers": ["Pasteur", "Fleming", "Curie", "Jenner"],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answers": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Which planet rotates on its side?",
+    "answers": ["Venus", "Neptune", "Uranus", "Mercury"],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "What is the main ingredient in glass?",
+    "answers": ["Calcium", "Sand (Silica)", "Clay", "Limestone"],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "What year was the first iPhone released?",
+    "answers": ["2005", "2006", "2007", "2008"],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "What is the Fibonacci sequence's 7th number?",
+    "answers": ["8", "13", "21", "34"],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Which country gifted the Statue of Liberty to the USA?",
+    "answers": ["England", "Spain", "France", "Italy"],
+    "correct": 2,
+    "difficulty": 5
+  },
+  {
+    "question": "What is the rarest blood type?",
+    "answers": ["O-", "A-", "B-", "AB-"],
+    "correct": 3,
+    "difficulty": 5
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "answers": ["Newton", "Einstein", "Hawking", "Bohr"],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "What is the deepest point in the ocean?",
+    "answers": ["Tonga Trench", "Puerto Rico Trench", "Mariana Trench", "Java Trench"],
+    "correct": 2,
+    "difficulty": 5
+  },
+  {
+    "question": "Which element is the most abundant in Earth's crust?",
+    "answers": ["Silicon", "Oxygen", "Iron", "Aluminum"],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "In computing, how many bits are in a byte?",
+    "answers": ["4", "8", "16", "32"],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "What is the only mammal that can truly fly?",
+    "answers": ["Flying Squirrel", "Sugar Glider", "Bat", "Colugo"],
+    "correct": 2,
+    "difficulty": 5
+  }
+]
