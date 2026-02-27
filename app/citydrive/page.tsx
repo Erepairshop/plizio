@@ -267,29 +267,43 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
 
   return (
     <>
-      <color attach="background" args={["#060610"]} />
-      <fog attach="fog" args={["#060610", 50, 180]} />
-      <ambientLight intensity={0.15} color="#4466aa" />
-      <directionalLight position={[60, 100, 40]} intensity={0.3} color="#8899cc" />
+      <color attach="background" args={["#0a0e1a"]} />
+      <fog attach="fog" args={["#0a0e1a", 80, 220]} />
+      <ambientLight intensity={0.6} color="#8899cc" />
+      <hemisphereLight args={["#334488", "#1a1a2e", 0.5]} />
+      <directionalLight position={[60, 100, 40]} intensity={1.2} color="#ccd4ee" castShadow />
+      <directionalLight position={[-40, 60, -30]} intensity={0.4} color="#6677aa" />
 
-      {/* Ground */}
+      {/* Ground (dark area outside roads) */}
       <mesh rotation-x={-Math.PI / 2} position={[WW / 2, -0.05, WD / 2]}>
         <planeGeometry args={[WW + 40, WD + 40]} />
-        <meshStandardMaterial color="#12121e" />
+        <meshStandardMaterial color="#1a1a2e" />
       </mesh>
 
-      {/* Road markings (center lines) */}
+      {/* Road surfaces - lighter asphalt */}
       {Array.from({ length: 5 }, (_, i) => {
         const pos = (i * 7 + 0.5) * T;
         return (
           <group key={`road-${i}`}>
+            {/* Vertical road strip */}
             <mesh rotation-x={-Math.PI / 2} position={[pos + T / 2, 0.01, WD / 2]}>
-              <planeGeometry args={[0.1, WD]} />
-              <meshStandardMaterial color="#ffffff" opacity={0.08} transparent />
+              <planeGeometry args={[T * 2, WD]} />
+              <meshStandardMaterial color="#2a2a3e" />
             </mesh>
+            {/* Horizontal road strip */}
             <mesh rotation-x={-Math.PI / 2} position={[WW / 2, 0.01, pos + T / 2]}>
-              <planeGeometry args={[WW, 0.1]} />
-              <meshStandardMaterial color="#ffffff" opacity={0.08} transparent />
+              <planeGeometry args={[WW, T * 2]} />
+              <meshStandardMaterial color="#2a2a3e" />
+            </mesh>
+            {/* Center lane markings - vertical */}
+            <mesh rotation-x={-Math.PI / 2} position={[pos + T / 2, 0.02, WD / 2]}>
+              <planeGeometry args={[0.15, WD]} />
+              <meshStandardMaterial color="#FFD700" opacity={0.3} transparent />
+            </mesh>
+            {/* Center lane markings - horizontal */}
+            <mesh rotation-x={-Math.PI / 2} position={[WW / 2, 0.02, pos + T / 2]}>
+              <planeGeometry args={[WW, 0.15]} />
+              <meshStandardMaterial color="#FFD700" opacity={0.3} transparent />
             </mesh>
           </group>
         );
@@ -298,28 +312,47 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
       {/* Buildings */}
       {buildings.map((b, i) => (
         <group key={i} position={[b.x, 0, b.z]}>
+          {/* Main building body */}
           <mesh position={[0, b.h / 2, 0]}>
             <boxGeometry args={[b.w, b.h, b.d]} />
-            <meshStandardMaterial color="#0a0a16" roughness={0.9} />
+            <meshStandardMaterial color="#1e1e32" roughness={0.7} />
           </mesh>
           {/* Neon base band */}
           <mesh position={[0, 0.6, 0]}>
-            <boxGeometry args={[b.w + 0.1, 1.2, b.d + 0.1]} />
-            <meshStandardMaterial color={b.glow} emissive={b.glow} emissiveIntensity={0.4} transparent opacity={0.7} />
+            <boxGeometry args={[b.w + 0.15, 1.5, b.d + 0.15]} />
+            <meshStandardMaterial color={b.glow} emissive={b.glow} emissiveIntensity={0.8} transparent opacity={0.8} />
           </mesh>
           {/* Neon top edge */}
           <mesh position={[0, b.h + 0.1, 0]}>
-            <boxGeometry args={[b.w + 0.2, 0.2, b.d + 0.2]} />
-            <meshStandardMaterial color={b.glow} emissive={b.glow} emissiveIntensity={0.3} />
+            <boxGeometry args={[b.w + 0.25, 0.3, b.d + 0.25]} />
+            <meshStandardMaterial color={b.glow} emissive={b.glow} emissiveIntensity={0.6} />
           </mesh>
-          {/* Point light for neon glow */}
-          <pointLight position={[0, 1, 0]} color={b.glow} intensity={3} distance={16} />
-          {/* Windows (front face) */}
+          {/* Neon glow light */}
+          <pointLight position={[0, 1.5, 0]} color={b.glow} intensity={5} distance={22} />
+          {/* Windows on all 4 sides */}
           {[2, 5, 8, 11, 14].filter(wh => wh < b.h - 1).map(wh => (
-            <mesh key={wh} position={[0, wh, b.d / 2 + 0.05]}>
-              <planeGeometry args={[b.w * 0.7, 0.8]} />
-              <meshStandardMaterial color="#FFE088" emissive="#FFE088" emissiveIntensity={0.15} transparent opacity={0.3} />
-            </mesh>
+            <group key={wh}>
+              {/* Front */}
+              <mesh position={[0, wh, b.d / 2 + 0.05]}>
+                <planeGeometry args={[b.w * 0.75, 1]} />
+                <meshStandardMaterial color="#FFE088" emissive="#FFE088" emissiveIntensity={0.4} transparent opacity={0.5} />
+              </mesh>
+              {/* Back */}
+              <mesh position={[0, wh, -b.d / 2 - 0.05]} rotation-y={Math.PI}>
+                <planeGeometry args={[b.w * 0.75, 1]} />
+                <meshStandardMaterial color="#FFE088" emissive="#FFE088" emissiveIntensity={0.4} transparent opacity={0.5} />
+              </mesh>
+              {/* Left */}
+              <mesh position={[-b.w / 2 - 0.05, wh, 0]} rotation-y={-Math.PI / 2}>
+                <planeGeometry args={[b.d * 0.75, 1]} />
+                <meshStandardMaterial color="#FFE088" emissive="#FFE088" emissiveIntensity={0.3} transparent opacity={0.4} />
+              </mesh>
+              {/* Right */}
+              <mesh position={[b.w / 2 + 0.05, wh, 0]} rotation-y={Math.PI / 2}>
+                <planeGeometry args={[b.d * 0.75, 1]} />
+                <meshStandardMaterial color="#FFE088" emissive="#FFE088" emissiveIntensity={0.3} transparent opacity={0.4} />
+              </mesh>
+            </group>
           ))}
         </group>
       ))}
@@ -338,7 +371,7 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
                 <sphereGeometry args={[0.3, 8, 8]} />
                 <meshStandardMaterial color="#FFE088" emissive="#FFE088" emissiveIntensity={2} />
               </mesh>
-              <pointLight position={[0, 5, 0]} color="#FFE088" intensity={4} distance={20} decay={2} />
+              <pointLight position={[0, 5, 0]} color="#FFE088" intensity={8} distance={30} decay={2} />
             </group>
           );
         })
@@ -387,7 +420,7 @@ function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef,
             <sphereGeometry args={[0.1, 8, 8]} />
             <meshStandardMaterial color="#FF0000" emissive="#FF0000" emissiveIntensity={0.8} />
           </mesh>
-          <pointLight position={[0, 0.3, 2.5]} color="#FFFF99" intensity={2} distance={12} />
+          <pointLight position={[0, 0.3, 2.5]} color="#FFFF99" intensity={5} distance={20} />
         </group>
       ))}
 
@@ -474,6 +507,7 @@ export default function CityDrivePage() {
   const [cardSaved, setCardSaved] = useState(false);
   const [showMilestone, setShowMilestone] = useState(false);
   const [hudTick, setHudTick] = useState(0);
+  const [joystick, setJoystick] = useState({ x: 0, y: 0 });
 
   const keysRef = useRef(new Set<string>());
   const touchRef = useRef({ active: false, sx: 0, sy: 0, cx: 0, cy: 0 });
@@ -530,7 +564,7 @@ export default function CityDrivePage() {
   const hud = hudRef.current;
 
   return (
-    <div className="fixed inset-0 bg-[#060610] overflow-hidden select-none" style={{ touchAction: "none" }}>
+    <div className="fixed inset-0 bg-[#0a0e1a] overflow-hidden select-none" style={{ touchAction: "none" }}>
       {/* 3D Canvas (always mounted) */}
       <Canvas camera={{ fov: 65, near: 0.1, far: 300, position: [4, 8, -8] }}>
         <GameScene running={gameState === "playing"} keysRef={keysRef} touchRef={touchRef} actionRef={actionRef} hudRef={hudRef} missionsRef={missionsRef} onEnd={endGame} />
@@ -581,25 +615,44 @@ export default function CityDrivePage() {
         </div>
       )}
 
-      {/* Touch controls */}
+      {/* Touch controls - visible joystick */}
       {gameState === "playing" && (
         <>
-          <div className="absolute left-0 bottom-0 w-[45%] h-[45%] z-20"
-            onTouchStart={e => { const t = e.touches[0]; touchRef.current = { active: true, sx: t.clientX, sy: t.clientY, cx: t.clientX, cy: t.clientY }; }}
-            onTouchMove={e => { const t = e.touches[0]; touchRef.current.cx = t.clientX; touchRef.current.cy = t.clientY; }}
-            onTouchEnd={() => { touchRef.current.active = false; }}
-          />
-          <button className="absolute right-4 bottom-4 w-16 h-16 rounded-full bg-orange-500/30 border-2 border-orange-400/60 z-20 flex items-center justify-center text-white font-bold text-lg active:bg-orange-500/60"
-            onTouchStart={e => { e.preventDefault(); actionRef.current = true; }}>⏎</button>
-          <button className="absolute right-24 bottom-4 w-14 h-14 rounded-full bg-red-500/20 border-2 border-red-400/40 z-20 flex items-center justify-center text-white text-sm active:bg-red-500/50"
-            onTouchStart={() => keysRef.current.add("Shift")} onTouchEnd={() => keysRef.current.delete("Shift")}>🛑</button>
+          {/* Joystick area */}
+          <div className="absolute left-4 bottom-4 z-20" style={{ width: 140, height: 140 }}
+            onTouchStart={e => { e.preventDefault(); const t = e.touches[0]; const rect = e.currentTarget.getBoundingClientRect(); const cx = rect.left + 70, cy = rect.top + 70; touchRef.current = { active: true, sx: cx, sy: cy, cx: t.clientX, cy: t.clientY }; setJoystick({ x: t.clientX - cx, y: t.clientY - cy }); }}
+            onTouchMove={e => { e.preventDefault(); const t = e.touches[0]; touchRef.current.cx = t.clientX; touchRef.current.cy = t.clientY; const dx = t.clientX - touchRef.current.sx, dy = t.clientY - touchRef.current.sy; const d = Math.sqrt(dx*dx+dy*dy); const max = 50; const clamp = d > max ? max / d : 1; setJoystick({ x: dx * clamp, y: dy * clamp }); }}
+            onTouchEnd={() => { touchRef.current.active = false; setJoystick({ x: 0, y: 0 }); }}
+          >
+            {/* Joystick base */}
+            <div className="absolute inset-0 rounded-full border-2 border-white/20 bg-white/5" />
+            {/* Joystick knob */}
+            <div className="absolute w-14 h-14 rounded-full bg-white/30 border-2 border-white/50 shadow-lg shadow-white/10"
+              style={{ left: 70 - 28 + joystick.x, top: 70 - 28 + joystick.y, transition: joystick.x === 0 && joystick.y === 0 ? 'all 0.15s' : 'none' }} />
+            {/* Direction arrows */}
+            <div className="absolute top-1 left-1/2 -translate-x-1/2 text-white/20 text-xs">▲</div>
+            <div className="absolute bottom-1 left-1/2 -translate-x-1/2 text-white/20 text-xs">▼</div>
+            <div className="absolute left-1 top-1/2 -translate-y-1/2 text-white/20 text-xs">◀</div>
+            <div className="absolute right-1 top-1/2 -translate-y-1/2 text-white/20 text-xs">▶</div>
+          </div>
+          {/* Action button (enter/exit car) */}
+          <button className="absolute right-4 bottom-4 w-18 h-18 rounded-full bg-orange-500/40 border-2 border-orange-400/70 z-20 flex items-center justify-center text-white font-bold text-base active:bg-orange-500/70 active:scale-95 transition-all"
+            style={{ width: 72, height: 72 }}
+            onTouchStart={e => { e.preventDefault(); actionRef.current = true; }}>
+            <span className="text-2xl">🚗</span>
+          </button>
+          {/* Brake button */}
+          <button className="absolute right-4 bottom-24 w-14 h-14 rounded-full bg-red-500/30 border-2 border-red-400/50 z-20 flex items-center justify-center text-white text-sm active:bg-red-500/60 active:scale-95 transition-all"
+            onTouchStart={() => keysRef.current.add("Shift")} onTouchEnd={() => keysRef.current.delete("Shift")}>
+            <span className="text-xl">🛑</span>
+          </button>
         </>
       )}
 
       {/* MENU */}
       <AnimatePresence>
         {gameState === "menu" && (
-          <motion.div className="absolute inset-0 z-30 flex flex-col items-center justify-center bg-[#060610]/95"
+          <motion.div className="absolute inset-0 z-30 flex flex-col items-center justify-center bg-[#0a0e1a]/95"
             initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
             <motion.div initial={{ scale: 0.8, y: 20 }} animate={{ scale: 1, y: 0 }} transition={{ type: "spring" }}>
               <div className="text-center mb-8">
@@ -634,7 +687,7 @@ export default function CityDrivePage() {
       {/* COUNTDOWN */}
       <AnimatePresence>
         {gameState === "countdown" && (
-          <motion.div className="absolute inset-0 z-30 flex items-center justify-center bg-[#060610]/80"
+          <motion.div className="absolute inset-0 z-30 flex items-center justify-center bg-[#0a0e1a]/80"
             initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
             <motion.div key={countdown} initial={{ scale: 3, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} exit={{ scale: 0.5, opacity: 0 }}
               className="text-7xl font-black text-orange-400">{countdown > 0 ? countdown : "GO!"}</motion.div>
@@ -645,7 +698,7 @@ export default function CityDrivePage() {
       {/* RESULT */}
       <AnimatePresence>
         {gameState === "result" && (
-          <motion.div className="absolute inset-0 z-30 flex items-center justify-center bg-[#060610]/90 p-4"
+          <motion.div className="absolute inset-0 z-30 flex items-center justify-center bg-[#0a0e1a]/90 p-4"
             initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
             <div className="w-full max-w-sm">
               <ResultCard score={finalScore} total={totalForRarity} gameName="City Drive" gameIcon={<Car size={18} />} onPlayAgain={playAgain} />
@@ -658,7 +711,7 @@ export default function CityDrivePage() {
 
       {/* REWARD */}
       {gameState === "reward" && (
-        <div className="absolute inset-0 z-30 flex items-center justify-center bg-[#060610]/95 p-4">
+        <div className="absolute inset-0 z-30 flex items-center justify-center bg-[#0a0e1a]/95 p-4">
           <RewardReveal rarity={rarity} game="citydrive" score={finalScore} total={totalForRarity}
             onDone={() => { setGameState("menu"); setShowMilestone(true); }} />
         </div>
