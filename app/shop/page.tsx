@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Star, ArrowLeft, Zap, Shield, Clock, Eye, Mountain, Crosshair, Brain, Check, Car, X, Gauge, Flame, Cog, Wind } from "lucide-react";
+import { Star, ArrowLeft, Zap, Shield, Clock, Eye, Mountain, Crosshair, Brain, Check, Car, X, Gauge, Flame, Cog, Wind, Crown, Shuffle, Scissors } from "lucide-react";
 import Link from "next/link";
 import { getSpecialCardCount, spendSpecialCards } from "@/lib/specialCards";
 import { SKINS, getOwnedSkins, getActiveSkin, setActiveSkin, buySkin, type SkinDef } from "@/lib/skins";
@@ -57,6 +57,10 @@ const POWER_UPS: PowerUpDef[] = [
   { id: "qp_hint", name: "Hint", icon: Eye, game: "Quick Pick", gameIcon: Crosshair, color: "#FF2D78", price: 1 },
   { id: "rg_extratime", name: "Extra Time", icon: Clock, game: "Reflex Grid", gameIcon: Zap, color: "#00D4FF", price: 1 },
   { id: "mf_longerview", name: "Longer View", icon: Eye, game: "Memory Flash", gameIcon: Brain, color: "#B44DFF", price: 1 },
+  { id: "mm_extra5050", name: "Extra 50:50", icon: Scissors, game: "Milliomos", gameIcon: Crown, color: "#FFD700", price: 1 },
+  { id: "mm_doubledip", name: "Double Dip", icon: Shield, game: "Milliomos", gameIcon: Crown, color: "#FFD700", price: 2 },
+  { id: "ws_reveal", name: "Reveal Letter", icon: Eye, game: "Word Scramble", gameIcon: Shuffle, color: "#34D399", price: 1 },
+  { id: "ws_extratime", name: "Extra Time", icon: Clock, game: "Word Scramble", gameIcon: Shuffle, color: "#34D399", price: 1 },
 ];
 
 // ─── ABILITY DEFINITIONS ─────────────────────────────

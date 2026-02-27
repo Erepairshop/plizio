@@ -72,6 +72,20 @@ const CATEGORIES: CategoryDef[] = [
         color: "#22D3EE",
         gradient: "bg-gradient-to-br from-cyan-500/20 to-sky-500/20",
       },
+      {
+        id: "wordscramble",
+        icon: Shuffle,
+        name: "Word Scramble",
+        color: "#34D399",
+        gradient: "bg-gradient-to-br from-emerald-500/20 to-teal-500/20",
+      },
+      {
+        id: "milliomos",
+        icon: Crown,
+        name: "Milliomos",
+        color: "#FFD700",
+        gradient: "bg-gradient-to-br from-yellow-500/20 to-amber-500/20",
+      },
     ],
   },
   {
@@ -99,22 +113,7 @@ const CATEGORIES: CategoryDef[] = [
     label: "LEARNING",
     icon: BookOpen,
     color: "#FFD700",
-    games: [
-      {
-        id: "wordscramble",
-        icon: Shuffle,
-        name: "Word Scramble",
-        color: "#34D399",
-        gradient: "bg-gradient-to-br from-emerald-500/20 to-teal-500/20",
-      },
-      {
-        id: "milliomos",
-        icon: Crown,
-        name: "Milliomos",
-        color: "#FFD700",
-        gradient: "bg-gradient-to-br from-yellow-500/20 to-amber-500/20",
-      },
-    ],
+    games: [],
   },
 ];
 
@@ -140,7 +139,7 @@ export default function Home() {
   const [username, setUsernameState] = useState<string | null>(null);
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [openCategories, setOpenCategories] = useState<Record<string, boolean>>({
-    "QUIZ & REFLEX": false,
+    "QUIZ & REFLEX": true,
     "ADVENTURE": false,
     "LEARNING": false,
   });

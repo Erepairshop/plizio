@@ -18,8 +18,8 @@ Formátum:
 # 1. Fájlok lehúzása gitből:
 git fetch origin <branch-neve> && git checkout FETCH_HEAD -- out/
 
-# 2. Deploy a public_html-be:
-rm -rf ~/public_html/_next && cp -r out/* ~/public_html/
+# 2. Deploy a public_html-be (public_html mappából futtatva):
+cd ~/public_html && rm -rf _next && cp -r out/* . && rm -rf out
 ```
 
 Szabályok:

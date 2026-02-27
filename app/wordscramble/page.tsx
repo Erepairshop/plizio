@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Shuffle, Trophy, CheckCircle, XCircle, Timer, X, Delete } from "lucide-react";
+import { Shuffle, Trophy, CheckCircle, XCircle, Timer, X, Delete, Eye, Clock } from "lucide-react";
 import Link from "next/link";
 import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
@@ -66,6 +66,10 @@ export default function WordScramblePage() {
   const [streak, setStreak] = useState(0);
   const [usedWords, setUsedWords] = useState<string[]>([]);
   const startTimeRef = useRef(0);
+  // Shop power-ups
+  const [hasReveal, setHasReveal] = useState(false);
+  const [hasExtraTime, setHasExtraTime] = useState(false);
+  const [shopNotification, setShopNotification] = useState<string | null>(null);
 
   useEffect(() => { setStreak(getStreak()); }, []);
 
@@ -87,6 +91,38 @@ export default function WordScramblePage() {
     setScore(0);
     setUsedWords([]);
     startTimeRef.current = Date.now();
+
+    // Load shop power-ups
+    let gotReveal = false;
+    let gotExtraTime = false;
+    try {
+      const saved = localStorage.getItem("plizio_powerups");
+      if (saved) {
+        const pups = JSON.parse(saved) as Record<string, number>;
+        if (pups["ws_reveal"] && pups["ws_reveal"] > 0) {
+          gotReveal = true;
+          pups["ws_reveal"] -= 1;
+          if (pups["ws_reveal"] <= 0) delete pups["ws_reveal"];
+        }
+        if (pups["ws_extratime"] && pups["ws_extratime"] > 0) {
+          gotExtraTime = true;
+          pups["ws_extratime"] -= 1;
+          if (pups["ws_extratime"] <= 0) delete pups["ws_extratime"];
+        }
+        localStorage.setItem("plizio_powerups", JSON.stringify(pups));
+      }
+    } catch {}
+    setHasReveal(gotReveal);
+    setHasExtraTime(gotExtraTime);
+
+    const msgs: string[] = [];
+    if (gotReveal) msgs.push("Reveal Letter");
+    if (gotExtraTime) msgs.push("Extra Time");
+    if (msgs.length > 0) {
+      setShopNotification(msgs.join(" + ") + " activated!");
+      setTimeout(() => setShopNotification(null), 2500);
+    }
+
     startNewRound(0, []);
   };
 
@@ -148,6 +184,46 @@ export default function WordScramblePage() {
     setAvailableLetters(newAvailable);
   };
 
+  // Shop power-up: Reveal one correct letter at its position
+  const useReveal = () => {
+    if (!hasReveal || gameState !== "playing") return;
+    setHasReveal(false);
+    const nextPos = guess.length;
+    if (nextPos >= currentWord.length) return;
+    const correctLetter = currentWord[nextPos];
+    // Find an available letter matching and use it
+    const newAvailable = [...availableLetters];
+    for (let i = 0; i < newAvailable.length; i++) {
+      if (!newAvailable[i].used && newAvailable[i].letter === correctLetter) {
+        newAvailable[i] = { ...newAvailable[i], used: true };
+        break;
+      }
+    }
+    setAvailableLetters(newAvailable);
+    const newGuess = [...guess, correctLetter];
+    setGuess(newGuess);
+
+    // Check if word complete after reveal
+    if (newGuess.length === currentWord.length) {
+      const guessWord = newGuess.join("");
+      if (guessWord === currentWord) {
+        setScore((s) => s + 1);
+        setGameState("correct");
+        setTimeout(() => {
+          if (round + 1 >= TOTAL_ROUNDS) endGame(score + 1);
+          else { setRound((r) => r + 1); startNewRound(round + 1, usedWords); }
+        }, 1200);
+      }
+    }
+  };
+
+  // Shop power-up: Extra Time (+10 seconds)
+  const useExtraTime = () => {
+    if (!hasExtraTime || gameState !== "playing") return;
+    setHasExtraTime(false);
+    setTimeLeft((t) => t + 10);
+  };
+
   const endGame = (finalScore: number) => {
     const elapsed = Math.round((Date.now() - startTimeRef.current) / 1000);
     setTotalTime(elapsed);
@@ -171,6 +247,20 @@ export default function WordScramblePage() {
 
   return (
     <main className="min-h-screen flex flex-col items-center justify-center px-4 relative">
+      {/* Shop notification */}
+      <AnimatePresence>
+        {shopNotification && (
+          <motion.div
+            className="fixed top-4 left-0 right-0 z-50 flex justify-center pointer-events-none"
+            initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -10 }}
+          >
+            <div className="bg-[#E040FB]/15 border border-[#E040FB]/30 backdrop-blur-xl rounded-xl px-5 py-2.5">
+              <span className="text-[#E040FB] font-bold text-sm">{shopNotification}</span>
+            </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
       {/* Ready screen */}
       {gameState === "ready" && (
         <motion.div className="flex flex-col items-center gap-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
@@ -277,16 +367,48 @@ export default function WordScramblePage() {
             ))}
           </div>
 
-          {/* Delete button */}
-          {gameState === "playing" && guess.length > 0 && (
-            <motion.button
-              onClick={removeLast}
-              className="flex items-center gap-2 text-white/40 text-sm font-bold hover:text-white/60 transition-colors"
-              whileTap={{ scale: 0.95 }}
-            >
-              <Delete size={16} />
-              DELETE
-            </motion.button>
+          {/* Controls: Delete + Shop power-ups */}
+          {gameState === "playing" && (
+            <div className="flex items-center gap-3">
+              {guess.length > 0 && (
+                <motion.button
+                  onClick={removeLast}
+                  className="flex items-center gap-2 text-white/40 text-sm font-bold hover:text-white/60 transition-colors"
+                  whileTap={{ scale: 0.95 }}
+                >
+                  <Delete size={16} />
+                  DELETE
+                </motion.button>
+              )}
+              {hasReveal && (
+                <motion.button
+                  onClick={useReveal}
+                  className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl border text-xs font-bold bg-emerald-500/10 border-emerald-500/30 text-emerald-400"
+                  whileHover={{ scale: 1.05 }}
+                  whileTap={{ scale: 0.95 }}
+                  initial={{ opacity: 0, scale: 0.8 }}
+                  animate={{ opacity: 1, scale: 1 }}
+                >
+                  <Eye size={14} />
+                  REVEAL
+                  <span className="text-[8px] bg-[#E040FB]/20 text-[#E040FB] px-1 rounded">SHOP</span>
+                </motion.button>
+              )}
+              {hasExtraTime && (
+                <motion.button
+                  onClick={useExtraTime}
+                  className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl border text-xs font-bold bg-cyan-500/10 border-cyan-500/30 text-cyan-400"
+                  whileHover={{ scale: 1.05 }}
+                  whileTap={{ scale: 0.95 }}
+                  initial={{ opacity: 0, scale: 0.8 }}
+                  animate={{ opacity: 1, scale: 1 }}
+                >
+                  <Clock size={14} />
+                  +10s
+                  <span className="text-[8px] bg-[#E040FB]/20 text-[#E040FB] px-1 rounded">SHOP</span>
+                </motion.button>
+              )}
+            </div>
           )}
 
           {/* Feedback icons */}

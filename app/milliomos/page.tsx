@@ -106,9 +106,13 @@ export default function MilliomosPage() {
 
   // Lifelines
   const [hasFiftyFifty, setHasFiftyFifty] = useState(true);
+  const [hasSecondFiftyFifty, setHasSecondFiftyFifty] = useState(false);
   const [hasSkip, setHasSkip] = useState(true);
   const [hasShield, setHasShield] = useState(true);
   const [shieldActive, setShieldActive] = useState(false);
+  const [hasDoubleDip, setHasDoubleDip] = useState(false);
+  const [doubleDipActive, setDoubleDipActive] = useState(false);
+  const [shopNotification, setShopNotification] = useState<string | null>(null);
 
   useEffect(() => {
     setStreak(getStreak());
@@ -127,6 +131,39 @@ export default function MilliomosPage() {
     setHasShield(true);
     setShieldActive(false);
     setShowLadder(false);
+    setDoubleDipActive(false);
+
+    // Load shop power-ups
+    let gotExtra5050 = false;
+    let gotDoubleDip = false;
+    try {
+      const saved = localStorage.getItem("plizio_powerups");
+      if (saved) {
+        const pups = JSON.parse(saved) as Record<string, number>;
+        if (pups["mm_extra5050"] && pups["mm_extra5050"] > 0) {
+          gotExtra5050 = true;
+          pups["mm_extra5050"] -= 1;
+          if (pups["mm_extra5050"] <= 0) delete pups["mm_extra5050"];
+        }
+        if (pups["mm_doubledip"] && pups["mm_doubledip"] > 0) {
+          gotDoubleDip = true;
+          pups["mm_doubledip"] -= 1;
+          if (pups["mm_doubledip"] <= 0) delete pups["mm_doubledip"];
+        }
+        localStorage.setItem("plizio_powerups", JSON.stringify(pups));
+      }
+    } catch {}
+    setHasSecondFiftyFifty(gotExtra5050);
+    setHasDoubleDip(gotDoubleDip);
+
+    const msgs: string[] = [];
+    if (gotExtra5050) msgs.push("Extra 50:50");
+    if (gotDoubleDip) msgs.push("Double Dip");
+    if (msgs.length > 0) {
+      setShopNotification(msgs.join(" + ") + " activated!");
+      setTimeout(() => setShopNotification(null), 2500);
+    }
+
     setGameState("playing");
   };
 
@@ -161,6 +198,14 @@ export default function MilliomosPage() {
         setEliminated(newElim);
         setSelectedAnswer(null);
         setGameState("playing");
+      } else if (doubleDipActive) {
+        // Double Dip saves you - eliminate wrong answer, get another try
+        setDoubleDipActive(false);
+        const newElim = new Set(eliminated);
+        newElim.add(selectedAnswer);
+        setEliminated(newElim);
+        setSelectedAnswer(null);
+        setGameState("playing");
       } else {
         setGameState("wrong");
         setTimeout(() => {
@@ -186,19 +231,25 @@ export default function MilliomosPage() {
     }
     const newStreak = updateStreak();
     setStreak(newStreak);
-    const score = finalLevel;
-    const rarity = calculateRarity(score, 15, newStreak);
-    saveCard({
-      id: generateCardId(),
-      game: "milliomos",
-      rarity,
-      score,
-      total: 15,
-      date: new Date().toISOString(),
-    });
     incrementTotalGames();
     updateStats({ highestStreak: newStreak });
-    setGameState("reward");
+
+    // Only give a card if at least 3 correct answers
+    if (finalLevel >= 3) {
+      const score = finalLevel;
+      const rarity = calculateRarity(score, 15, newStreak);
+      saveCard({
+        id: generateCardId(),
+        game: "milliomos",
+        rarity,
+        score,
+        total: 15,
+        date: new Date().toISOString(),
+      });
+      setGameState("reward");
+    } else {
+      setGameState("result");
+    }
   }, [bestLevel]);
 
   // Lifeline: 50:50
@@ -237,6 +288,25 @@ export default function MilliomosPage() {
     if (!hasShield || gameState !== "playing") return;
     setHasShield(false);
     setShieldActive(true);
+  };
+
+  // Lifeline: Second 50:50 (from shop)
+  const useSecondFiftyFifty = () => {
+    if (!hasSecondFiftyFifty || gameState !== "playing") return;
+    setHasSecondFiftyFifty(false);
+    const q = questions[level];
+    const wrongAnswers = [0, 1, 2, 3].filter((i) => i !== q.correct && !eliminated.has(i));
+    const toEliminate = shuffleArray(wrongAnswers).slice(0, 2);
+    const newElim = new Set(eliminated);
+    toEliminate.forEach((i) => newElim.add(i));
+    setEliminated(newElim);
+  };
+
+  // Lifeline: Double Dip (from shop) - activate for current question
+  const useDoubleDip = () => {
+    if (!hasDoubleDip || gameState !== "playing") return;
+    setHasDoubleDip(false);
+    setDoubleDipActive(true);
   };
 
   const currentQ = questions[level];
@@ -353,19 +423,41 @@ export default function MilliomosPage() {
         )}
       </AnimatePresence>
 
-      {/* Shield active indicator */}
-      {shieldActive && (gameState === "playing" || gameState === "confirming") && (
+      {/* Shield / Double Dip active indicator */}
+      {(shieldActive || doubleDipActive) && (gameState === "playing" || gameState === "confirming") && (
         <motion.div
-          className="fixed top-16 left-0 right-0 z-30 flex justify-center"
+          className="fixed top-16 left-0 right-0 z-30 flex justify-center gap-2"
           initial={{ opacity: 0, y: -10 }}
           animate={{ opacity: 1, y: 0 }}
         >
-          <div className="bg-emerald-500/10 border border-emerald-500/30 rounded-xl px-3 py-1 flex items-center gap-1.5">
-            <Shield size={12} className="text-emerald-400" />
-            <span className="text-emerald-400 text-xs font-bold">SHIELD ACTIVE</span>
-          </div>
+          {shieldActive && (
+            <div className="bg-emerald-500/10 border border-emerald-500/30 rounded-xl px-3 py-1 flex items-center gap-1.5">
+              <Shield size={12} className="text-emerald-400" />
+              <span className="text-emerald-400 text-xs font-bold">SHIELD</span>
+            </div>
+          )}
+          {doubleDipActive && (
+            <div className="bg-[#E040FB]/10 border border-[#E040FB]/30 rounded-xl px-3 py-1 flex items-center gap-1.5">
+              <Gem size={12} className="text-[#E040FB]" />
+              <span className="text-[#E040FB] text-xs font-bold">DOUBLE DIP</span>
+            </div>
+          )}
         </motion.div>
       )}
+
+      {/* Shop notification */}
+      <AnimatePresence>
+        {shopNotification && (
+          <motion.div
+            className="fixed top-4 left-0 right-0 z-50 flex justify-center pointer-events-none"
+            initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -10 }}
+          >
+            <div className="bg-[#E040FB]/15 border border-[#E040FB]/30 backdrop-blur-xl rounded-xl px-5 py-2.5">
+              <span className="text-[#E040FB] font-bold text-sm">{shopNotification}</span>
+            </div>
+          </motion.div>
+        )}
+      </AnimatePresence>
 
       {/* Game area */}
       {(gameState === "playing" || gameState === "confirming" || gameState === "correct" || gameState === "wrong") && currentQ && (
@@ -501,6 +593,41 @@ export default function MilliomosPage() {
                 <Shield size={14} />
                 SHIELD
               </motion.button>
+
+              {/* Shop power-ups */}
+              {hasSecondFiftyFifty && (
+                <motion.button
+                  onClick={useSecondFiftyFifty}
+                  className="flex items-center gap-1.5 px-4 py-2.5 rounded-xl border text-xs font-bold bg-gold/10 border-gold/30 text-gold"
+                  whileHover={{ scale: 1.05 }}
+                  whileTap={{ scale: 0.95 }}
+                  initial={{ opacity: 0, scale: 0.8 }}
+                  animate={{ opacity: 1, scale: 1 }}
+                >
+                  <Scissors size={14} />
+                  50:50
+                  <span className="text-[8px] bg-[#E040FB]/20 text-[#E040FB] px-1 rounded">SHOP</span>
+                </motion.button>
+              )}
+              {hasDoubleDip && (
+                <motion.button
+                  onClick={useDoubleDip}
+                  disabled={doubleDipActive}
+                  className={`flex items-center gap-1.5 px-4 py-2.5 rounded-xl border text-xs font-bold ${
+                    doubleDipActive
+                      ? "bg-[#E040FB]/20 border-[#E040FB]/40 text-[#E040FB]"
+                      : "bg-[#E040FB]/10 border-[#E040FB]/30 text-[#E040FB]"
+                  }`}
+                  whileHover={!doubleDipActive ? { scale: 1.05 } : {}}
+                  whileTap={!doubleDipActive ? { scale: 0.95 } : {}}
+                  initial={{ opacity: 0, scale: 0.8 }}
+                  animate={{ opacity: 1, scale: 1 }}
+                >
+                  <Gem size={14} />
+                  2x DIP
+                  {doubleDipActive && <span className="text-[8px] bg-[#E040FB]/30 px-1 rounded">ON</span>}
+                </motion.button>
+              )}
             </motion.div>
           )}
 
