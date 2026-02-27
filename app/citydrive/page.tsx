@@ -49,10 +49,10 @@ interface HudData {
 // ═══════════════════════════════════════════════
 const T = 4;
 const BLOCK = 10;
-const COLS = 91;
-const ROWS = 91;
-const NPC_COUNT = 12;
-const DOWNTOWN_START = 6; // blocks >= this are downtown
+const COLS = 181;
+const ROWS = 181;
+const NPC_COUNT = 20;
+const DOWNTOWN_START = 12; // blocks >= this are downtown
 const WW = COLS * T;
 const WD = ROWS * T;
 const BLOCKS_X = Math.floor(COLS / BLOCK);
@@ -154,8 +154,8 @@ function genTrees(): TreeDef[] {
   return trees;
 }
 
-const NPC_COLORS = ["#00D4FF","#FFD700","#00FF88","#B44DFF","#FF6B00","#44FFCC","#FF8888","#88CCFF","#DDAA44","#77DD77","#DD77DD","#77DDDD"];
-const NPC_NAMES = ["Sedan","Sedan","Truck","Taxi","Sedan","Sedan","Truck","Sedan","Taxi","Sedan","Sedan","Truck"];
+const NPC_COLORS = ["#00D4FF","#FFD700","#00FF88","#B44DFF","#FF6B00","#44FFCC","#FF8888","#88CCFF","#DDAA44","#77DD77","#DD77DD","#77DDDD","#AA7744","#AABB55","#5588CC","#CC5588","#88FF88","#FF88CC","#CCFF44","#44AAFF"];
+const NPC_NAMES = ["Sedan","Sedan","Truck","Taxi","Sedan","Sedan","Truck","Sedan","Taxi","Sedan","Sedan","Truck","Sedan","Taxi","Sedan","Truck","Sedan","Taxi","Sedan","Truck"];
 function initCars(): CarData[] {
   const base = { pushVx: 0, pushVz: 0, aiTimer: 0, slowTimer: 0, origMaxSpeed: 0 };
   const playerCar: CarData = { x: 1 * T, z: 1 * T, angle: 0, speed: 0, maxSpeed: 40, accel: 25, handling: 3.0, color: "#FF2D55", name: "Sport", isNPC: false, ...base, origMaxSpeed: 40 };
@@ -1065,7 +1065,7 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
   return (
     <>
       <color attach="background" args={["#141828"]} />
-      <fog ref={fogRef} attach="fog" args={["#141828", 150, 400]} />
+      <fog ref={fogRef} attach="fog" args={["#141828", 180, 500]} />
       <ambientLight ref={ambLightRef} intensity={1.8} color="#aabbee" />
       <hemisphereLight args={["#6688cc", "#334466", 0.9]} />
       <directionalLight position={[80, 120, 60]} intensity={2.2} color="#eef0ff" />
@@ -1368,7 +1368,7 @@ export default function CityDrivePage() {
 
   return (
     <div className="fixed inset-0 bg-[#0a0e1a] overflow-hidden select-none" style={{ touchAction: "none" }}>
-      <Canvas camera={{ fov: 65, near: 0.1, far: 450, position: [4, 8, -8] }} dpr={[1, 1.5]} gl={{ powerPreference: "high-performance", antialias: false }}>
+      <Canvas camera={{ fov: 65, near: 0.1, far: 550, position: [4, 8, -8] }} dpr={[1, 1.5]} gl={{ powerPreference: "high-performance", antialias: false }}>
         <GameScene running={gameState === "playing"} resuming={resuming} keysRef={keysRef} touchRef={touchRef} actionRef={actionRef} brakeRef={brakeRef} nitroActiveRef={nitroActiveRef} hudRef={hudRef} missionsRef={missionsRef} gameDataRef={gameDataRef} carsDataRef={carsDataRef} onEnd={endGame} />
       </Canvas>
 
