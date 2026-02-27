@@ -115,6 +115,10 @@ interface TimeTrial {
   active: boolean;
   reward: number;
   completed: boolean;
+  // Start marker position (where player drives to start the trial)
+  startX: number;
+  startZ: number;
+  started: boolean;
 }
 const TIME_TRIAL_DURATION = 45; // seconds
 const TIME_TRIAL_CPS = 5; // checkpoints per trial
@@ -687,7 +691,7 @@ function PlayerCharacter({ plRef, prevPos }: PlayerCharProps) {
 // ═══════════════════════════════════════════════
 //  MINIMAP COMPONENT
 // ═══════════════════════════════════════════════
-function MiniMap({ hudRef, missionsRef, carsRef }: { hudRef: React.RefObject<HudData>; missionsRef: React.RefObject<MissionData[]>; carsRef?: React.RefObject<CarData[]> }) {
+function MiniMap({ hudRef, missionsRef, carsRef, timeTrialRef }: { hudRef: React.RefObject<HudData>; missionsRef: React.RefObject<MissionData[]>; carsRef?: React.RefObject<CarData[]>; timeTrialRef?: React.RefObject<TimeTrial | null> }) {
   const canvasRef = useRef<HTMLCanvasElement>(null);
 
   useEffect(() => {
@@ -753,6 +757,46 @@ function MiniMap({ hudRef, missionsRef, carsRef }: { hudRef: React.RefObject<Hud
             ctx.shadowBlur = 4;
             for (const c of m.coins) {
               ctx.beginPath(); ctx.arc(c.x * sc, c.z * sc, 2, 0, Math.PI * 2); ctx.fill();
+            }
+            ctx.shadowBlur = 0;
+          }
+        }
+      }
+
+      // Time Trial markers
+      const tt = timeTrialRef?.current;
+      if (tt && tt.active) {
+        if (!tt.started) {
+          // Start marker - pulsing orange dot
+          const sx = tt.startX * sc, sz = tt.startZ * sc;
+          const pulse = 3 + Math.sin(Date.now() / 200) * 1.5;
+          ctx.fillStyle = "#FF6600";
+          ctx.shadowColor = "#FF6600";
+          ctx.shadowBlur = 10;
+          ctx.beginPath(); ctx.arc(sx, sz, pulse, 0, Math.PI * 2); ctx.fill();
+          // TT label
+          ctx.font = "bold 7px sans-serif";
+          ctx.fillStyle = "#FF6600";
+          ctx.textAlign = "center";
+          ctx.fillText("TT", sx, sz - 6);
+          ctx.shadowBlur = 0;
+        } else {
+          // Checkpoints - cyan-green dots
+          for (let i = tt.currentCP; i < tt.checkpoints.length; i++) {
+            const cp = tt.checkpoints[i];
+            const cx = cp.x * sc, cz = cp.z * sc;
+            const isCurrent = i === tt.currentCP;
+            ctx.fillStyle = "#00FFAA";
+            ctx.shadowColor = "#00FFAA";
+            ctx.shadowBlur = isCurrent ? 10 : 4;
+            const r = isCurrent ? 3.5 + Math.sin(Date.now() / 200) * 1.5 : 2.5;
+            ctx.beginPath(); ctx.arc(cx, cz, r, 0, Math.PI * 2); ctx.fill();
+            if (isCurrent) {
+              // Arrow label for current CP
+              ctx.font = "bold 7px sans-serif";
+              ctx.fillStyle = "#00FFAA";
+              ctx.textAlign = "center";
+              ctx.fillText("▼", cx, cz - 5);
             }
             ctx.shadowBlur = 0;
           }
@@ -1287,25 +1331,33 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
     // ── Time Trial logic ──
     const tt = timeTrialRef.current;
     if (tt && tt.active && p.inCar >= 0) {
-      tt.timeLeft -= dt;
-      if (tt.timeLeft <= 0) {
-        // Failed
-        tt.active = false; tt.completed = false;
-        timeTrialRef.current = null;
-        hud.msg = "TIME TRIAL FAILED!"; hud.msgT = 3;
+      if (!tt.started) {
+        // Player must drive to start marker to activate
+        const dStart = Math.sqrt((p.x - tt.startX) ** 2 + (p.z - tt.startZ) ** 2);
+        if (dStart < 6) {
+          tt.started = true;
+          tt.timeLeft = TIME_TRIAL_DURATION;
+          hud.msg = "TIME TRIAL STARTED! Go!"; hud.msgT = 2;
+        }
       } else {
-        // Check checkpoint proximity
-        const cp = tt.checkpoints[tt.currentCP];
-        if (cp && Math.sqrt((p.x - cp.x) ** 2 + (p.z - cp.z) ** 2) < 6) {
-          tt.currentCP++;
-          if (tt.currentCP >= tt.checkpoints.length) {
-            // Completed!
-            tt.active = false; tt.completed = true;
-            hud.score += 150;
-            hud.msg = `TIME TRIAL COMPLETE! +150 pts`; hud.msgT = 3;
-            timeTrialRef.current = null;
-          } else {
-            hud.msg = `CP ${tt.currentCP}/${tt.checkpoints.length}`; hud.msgT = 1.5;
+        // Timer running
+        tt.timeLeft -= dt;
+        if (tt.timeLeft <= 0) {
+          tt.active = false; tt.completed = false;
+          timeTrialRef.current = null;
+          hud.msg = "TIME TRIAL FAILED!"; hud.msgT = 3;
+        } else {
+          const cp = tt.checkpoints[tt.currentCP];
+          if (cp && Math.sqrt((p.x - cp.x) ** 2 + (p.z - cp.z) ** 2) < 6) {
+            tt.currentCP++;
+            if (tt.currentCP >= tt.checkpoints.length) {
+              tt.active = false; tt.completed = true;
+              hud.score += 150;
+              hud.msg = `TIME TRIAL COMPLETE! +150 pts`; hud.msgT = 3;
+              timeTrialRef.current = null;
+            } else {
+              hud.msg = `CP ${tt.currentCP}/${tt.checkpoints.length}`; hud.msgT = 1.5;
+            }
           }
         }
       }
@@ -1534,15 +1586,37 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
       {/* Rain (weather type 1) */}
       <RainParticles active={weatherState.current.type === 1} />
 
-      {/* Time Trial checkpoints */}
-      {timeTrialRef.current?.active && timeTrialRef.current.checkpoints.map((cp, i) => {
+      {/* Time Trial START marker (before player activates it) */}
+      {timeTrialRef.current?.active && !timeTrialRef.current.started && (
+        <group position={[timeTrialRef.current.startX, 0, timeTrialRef.current.startZ]}>
+          {/* Pulsing ring on ground */}
+          <mesh rotation-x={-Math.PI / 2} position={[0, 0.15, 0]}>
+            <ringGeometry args={[3.5, 5, 16]} />
+            <meshStandardMaterial color="#FF6600" emissive="#FF6600" emissiveIntensity={2} side={THREE.DoubleSide} transparent opacity={0.8} />
+          </mesh>
+          {/* Floating flag/marker */}
+          <mesh position={[0, 5, 0]}>
+            <boxGeometry args={[0.15, 4, 0.15]} />
+            <meshStandardMaterial color="#FF6600" emissive="#FF6600" emissiveIntensity={0.5} />
+          </mesh>
+          <mesh position={[0.5, 6.2, 0]}>
+            <boxGeometry args={[1, 0.7, 0.05]} />
+            <meshStandardMaterial color="#FF6600" emissive="#FF6600" emissiveIntensity={2} />
+          </mesh>
+          {/* Light beacon */}
+          <pointLight position={[0, 4, 0]} color="#FF6600" intensity={3} distance={15} />
+        </group>
+      )}
+
+      {/* Time Trial checkpoints (only shown after started) */}
+      {timeTrialRef.current?.active && timeTrialRef.current.started && timeTrialRef.current.checkpoints.map((cp, i) => {
         if (i < timeTrialRef.current!.currentCP) return null;
         const isCurrent = i === timeTrialRef.current!.currentCP;
         return (
           <group key={`tt-${i}`} position={[cp.x, 0, cp.z]}>
             <mesh rotation-x={-Math.PI / 2} position={[0, 0.15, 0]}>
               <ringGeometry args={[isCurrent ? 3 : 2, isCurrent ? 4 : 2.8, 16]} />
-              <meshStandardMaterial color={isCurrent ? "#00FFAA" : "#00FFAA"} emissive="#00FFAA" emissiveIntensity={isCurrent ? 3 : 0.8} side={THREE.DoubleSide} transparent opacity={isCurrent ? 1 : 0.4} />
+              <meshStandardMaterial color="#00FFAA" emissive="#00FFAA" emissiveIntensity={isCurrent ? 3 : 0.8} side={THREE.DoubleSide} transparent opacity={isCurrent ? 1 : 0.4} />
             </mesh>
             {isCurrent && (
               <mesh position={[0, 4, 0]}>
@@ -1601,14 +1675,20 @@ export default function CityDrivePage() {
       // Sync car data
 
       // Time trial spawn logic (max 2 per game, 3 min cooldown)
+      // Spawns a start marker on the map; player must drive there to activate
       if (!timeTrialRef.current && timeTrialUsed.current < 2) {
         timeTrialCooldown.current -= 0.25;
         if (timeTrialCooldown.current <= 0) {
+          const startPos = roadPos3D();
           const cps: { x: number; z: number }[] = [];
           for (let j = 0; j < TIME_TRIAL_CPS; j++) cps.push(roadPos3D());
-          timeTrialRef.current = { checkpoints: cps, currentCP: 0, timeLeft: TIME_TRIAL_DURATION, active: true, reward: TIME_TRIAL_REWARD, completed: false };
+          timeTrialRef.current = {
+            checkpoints: cps, currentCP: 0, timeLeft: TIME_TRIAL_DURATION,
+            active: true, reward: TIME_TRIAL_REWARD, completed: false,
+            startX: startPos.x, startZ: startPos.z, started: false,
+          };
           timeTrialUsed.current++;
-          timeTrialCooldown.current = 180; // 3 min until next
+          timeTrialCooldown.current = 180;
         }
       }
     }, 250);
@@ -1686,7 +1766,13 @@ export default function CityDrivePage() {
 
 
           {/* Time Trial HUD */}
-          {timeTrialRef.current?.active && (
+          {timeTrialRef.current?.active && !timeTrialRef.current.started && (
+            <div className="absolute top-3 left-1/2 -translate-x-1/2 bg-black/80 backdrop-blur-sm rounded-xl px-4 py-2 border border-orange-500/40 animate-pulse">
+              <div className="text-orange-400 font-black text-sm text-center">TIME TRIAL</div>
+              <div className="text-white font-bold text-xs text-center mt-0.5">Drive to 🏁 to start!</div>
+            </div>
+          )}
+          {timeTrialRef.current?.active && timeTrialRef.current.started && (
             <div className="absolute top-3 left-1/2 -translate-x-1/2 bg-black/80 backdrop-blur-sm rounded-xl px-4 py-2 border border-yellow-500/40">
               <div className="text-yellow-400 font-black text-sm text-center">TIME TRIAL</div>
               <div className="text-white font-black text-xl text-center">{Math.ceil(timeTrialRef.current.timeLeft)}s</div>
@@ -1695,7 +1781,7 @@ export default function CityDrivePage() {
           )}
 
           {/* Mini-map */}
-          <MiniMap hudRef={hudRef} missionsRef={missionsRef} carsRef={carsDataRef} />
+          <MiniMap hudRef={hudRef} missionsRef={missionsRef} carsRef={carsDataRef} timeTrialRef={timeTrialRef} />
 
           {/* Speed gauge + Nitro bar */}
           {hud.inCar >= 0 && (
