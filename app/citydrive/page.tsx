@@ -30,35 +30,59 @@ interface MissionData {
   points: number; label: string;
   coins?: { x: number; z: number }[]; coinsLeft?: number;
 }
-interface BuildingDef { x: number; z: number; w: number; d: number; h: number; glow: string }
+interface BuildingDef { x: number; z: number; w: number; d: number; h: number; glow: string; style: number }
+interface TreeDef { x: number; z: number; s: number }
+interface HudData {
+  score: number; missions: number; inCar: number; speed: number;
+  carColor: string; msg: string; msgT: number;
+  px: number; pz: number; angle: number;
+}
 
 // ═══════════════════════════════════════════════
 //  CONSTANTS
 // ═══════════════════════════════════════════════
-const T = 4; // tile size in 3D units
-const COLS = 36;
-const ROWS = 36;
+const T = 4;
+const BLOCK = 7;
+const COLS = 70;
+const ROWS = 70;
 const WW = COLS * T;
 const WD = ROWS * T;
+const BLOCKS_X = Math.floor(COLS / BLOCK);
+const BLOCKS_Z = Math.floor(ROWS / BLOCK);
 const WALK_SPD = 8;
 const ENTER_DIST = 6;
 const FRIC = 0.97;
-const TOTAL_M = 8; // total missions (free play, no timer)
+const TOTAL_M = 15;
 
-const GLOWS = ["#FF2D78", "#00D4FF", "#B44DFF", "#00FF88", "#FFD700", "#FF6B00"];
+const GLOWS = ["#FF2D78", "#00D4FF", "#B44DFF", "#00FF88", "#FFD700", "#FF6B00", "#FF4488", "#44FFCC"];
+
+// ═══════════════════════════════════════════════
+//  PARK BLOCKS (deterministic ~20%)
+// ═══════════════════════════════════════════════
+const PARK_SET = new Set<string>();
+for (let bz = 0; bz < BLOCKS_Z; bz++)
+  for (let bx = 0; bx < BLOCKS_X; bx++) {
+    const hash = (bx * 7 + bz * 13 + bx * bz * 3) % 10;
+    if (hash < 2 && bx > 0 && bz > 0 && bx < BLOCKS_X - 1 && bz < BLOCKS_Z - 1) PARK_SET.add(`${bx}-${bz}`);
+  }
 
 // ═══════════════════════════════════════════════
 //  WORLD GENERATION
 // ═══════════════════════════════════════════════
 function isRoadTile(col: number, row: number) {
-  return col % 7 < 2 || row % 7 < 2;
+  return col % BLOCK < 2 || row % BLOCK < 2;
+}
+function isParkBlock(col: number, row: number) {
+  const bx = Math.floor(col / BLOCK), bz = Math.floor(row / BLOCK);
+  return PARK_SET.has(`${bx}-${bz}`);
 }
 function isSolid(x: number, z: number): boolean {
   const c = Math.floor(x / T), r = Math.floor(z / T);
   if (c < 0 || c >= COLS || r < 0 || r >= ROWS) return true;
   if (isRoadTile(c, r)) return false;
-  if (c % 7 === 2 || c % 7 === 6 || r % 7 === 2 || r % 7 === 6) return false;
-  return true; // building
+  if (c % BLOCK === 2 || c % BLOCK === 6 || r % BLOCK === 2 || r % BLOCK === 6) return false;
+  if (isParkBlock(c, r)) return false;
+  return true;
 }
 function solidBox(x: number, z: number, hw: number, hd: number) {
   return isSolid(x - hw, z - hd) || isSolid(x + hw, z - hd) || isSolid(x - hw, z + hd) || isSolid(x + hw, z + hd);
@@ -66,21 +90,55 @@ function solidBox(x: number, z: number, hw: number, hd: number) {
 
 function genBuildings(): BuildingDef[] {
   const bs: BuildingDef[] = [];
-  for (let bz = 0; bz < 5; bz++)
-    for (let bx = 0; bx < 5; bx++) {
-      const h = 8 + ((bx * 7 + bz * 13) % 17);
-      bs.push({ x: (bx * 7 + 4) * T, z: (bz * 7 + 4) * T, w: 3 * T - 0.5, d: 3 * T - 0.5, h, glow: GLOWS[(bx * 3 + bz * 5) % 6] });
+  for (let bz = 0; bz < BLOCKS_Z; bz++)
+    for (let bx = 0; bx < BLOCKS_X; bx++) {
+      if (PARK_SET.has(`${bx}-${bz}`)) continue;
+      const h = 6 + ((bx * 7 + bz * 13) % 22);
+      const style = (bx + bz * 3) % 4;
+      bs.push({
+        x: (bx * BLOCK + 4.5) * T,
+        z: (bz * BLOCK + 4.5) * T,
+        w: 2.6 * T, d: 2.6 * T, h,
+        glow: GLOWS[(bx * 3 + bz * 5) % GLOWS.length],
+        style,
+      });
     }
   return bs;
 }
 
+function genTrees(): TreeDef[] {
+  const trees: TreeDef[] = [];
+  PARK_SET.forEach(key => {
+    const [bx, bz] = key.split("-").map(Number);
+    const cx = (bx * BLOCK + 4.5) * T, cz = (bz * BLOCK + 4.5) * T;
+    const count = 4 + ((bx * 3 + bz * 7) % 4);
+    for (let i = 0; i < count; i++) {
+      const seed = bx * 100 + bz * 10 + i;
+      const ax = Math.sin(seed * 1.7) * 4.5;
+      const az = Math.cos(seed * 2.3) * 4.5;
+      trees.push({ x: cx + ax, z: cz + az, s: 0.7 + (seed % 5) * 0.15 });
+    }
+  });
+  // Sidewalk trees
+  for (let bz = 0; bz < BLOCKS_Z; bz++)
+    for (let bx = 0; bx < BLOCKS_X; bx++) {
+      if ((bx + bz) % 3 !== 0) continue;
+      const tx = (bx * BLOCK + 2.5) * T;
+      const tz = (bz * BLOCK + 2.5) * T;
+      trees.push({ x: tx, z: tz, s: 0.6 });
+    }
+  return trees;
+}
+
 function initCars(): CarData[] {
   return [
-    { x: 1 * T, z: 5 * T, angle: 0, speed: 0, maxSpeed: 40, accel: 25, handling: 2.8, color: "#FF2D55", name: "Sport" },
-    { x: 11 * T, z: 8 * T, angle: Math.PI / 2, speed: 0, maxSpeed: 30, accel: 20, handling: 3.2, color: "#00D4FF", name: "Sedan" },
-    { x: 15 * T, z: 1 * T, angle: 0, speed: 0, maxSpeed: 22, accel: 16, handling: 3.8, color: "#00FF88", name: "Truck" },
-    { x: 25 * T, z: 22 * T, angle: Math.PI, speed: 0, maxSpeed: 35, accel: 22, handling: 3.0, color: "#FFD700", name: "Taxi" },
-    { x: 8 * T, z: 29 * T, angle: -Math.PI / 2, speed: 0, maxSpeed: 50, accel: 32, handling: 2.5, color: "#B44DFF", name: "Racer" },
+    { x: 1 * T, z: 5 * T, angle: 0, speed: 0, maxSpeed: 40, accel: 25, handling: 1.6, color: "#FF2D55", name: "Sport" },
+    { x: 15 * T, z: 8 * T, angle: Math.PI / 2, speed: 0, maxSpeed: 30, accel: 20, handling: 1.8, color: "#00D4FF", name: "Sedan" },
+    { x: 22 * T, z: 1 * T, angle: 0, speed: 0, maxSpeed: 22, accel: 16, handling: 2.2, color: "#00FF88", name: "Truck" },
+    { x: 35 * T, z: 30 * T, angle: Math.PI, speed: 0, maxSpeed: 35, accel: 22, handling: 1.7, color: "#FFD700", name: "Taxi" },
+    { x: 50 * T, z: 50 * T, angle: -Math.PI / 2, speed: 0, maxSpeed: 50, accel: 32, handling: 1.4, color: "#B44DFF", name: "Racer" },
+    { x: 8 * T, z: 45 * T, angle: 0, speed: 0, maxSpeed: 45, accel: 28, handling: 1.5, color: "#FF6B00", name: "Muscle" },
+    { x: 60 * T, z: 15 * T, angle: Math.PI, speed: 0, maxSpeed: 38, accel: 24, handling: 1.9, color: "#44FFCC", name: "Electric" },
   ];
 }
 
@@ -103,6 +161,204 @@ function genMission(id: number): MissionData {
 }
 
 // ═══════════════════════════════════════════════
+//  ANIMATED 3D COMPONENTS
+// ═══════════════════════════════════════════════
+function AnimatedCoin({ x, z }: { x: number; z: number }) {
+  const ref = useRef<THREE.Group>(null);
+  useFrame((state) => {
+    if (!ref.current) return;
+    const t = state.clock.elapsedTime;
+    ref.current.rotation.y = t * 3;
+    ref.current.position.y = 1.5 + Math.sin(t * 2.5 + x) * 0.3;
+  });
+  return (
+    <group ref={ref} position={[x, 1.5, z]}>
+      <mesh>
+        <cylinderGeometry args={[0.5, 0.5, 0.12, 12]} />
+        <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={1.5} metalness={0.9} roughness={0.1} />
+      </mesh>
+      <mesh position={[0, 0.08, 0]}>
+        <cylinderGeometry args={[0.3, 0.3, 0.05, 8]} />
+        <meshStandardMaterial color="#FFA500" emissive="#FFA500" emissiveIntensity={0.8} />
+      </mesh>
+      {/* Glow ring */}
+      <mesh rotation-x={-Math.PI / 2} position={[0, -0.5, 0]}>
+        <ringGeometry args={[0.0, 0.7, 16]} />
+        <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={0.4} side={THREE.DoubleSide} />
+      </mesh>
+    </group>
+  );
+}
+
+function AnimatedDelivery({ x, z, pickedUp }: { x: number; z: number; pickedUp: boolean }) {
+  const ref = useRef<THREE.Group>(null);
+  useFrame((state) => {
+    if (!ref.current) return;
+    const t = state.clock.elapsedTime;
+    ref.current.position.y = 2.5 + Math.sin(t * 2) * 0.5;
+    ref.current.rotation.y = t * 0.8;
+  });
+  const col = pickedUp ? "#00FF88" : "#FFD700";
+  return (
+    <group ref={ref} position={[x, 2.5, z]}>
+      {/* Package */}
+      <mesh>
+        <boxGeometry args={[1.0, 1.0, 1.0]} />
+        <meshStandardMaterial color={col} emissive={col} emissiveIntensity={1.5} />
+      </mesh>
+      {/* Ribbon */}
+      <mesh>
+        <boxGeometry args={[1.05, 0.12, 0.12]} />
+        <meshStandardMaterial color="#fff" emissive="#fff" emissiveIntensity={0.8} />
+      </mesh>
+      <mesh>
+        <boxGeometry args={[0.12, 0.12, 1.05]} />
+        <meshStandardMaterial color="#fff" emissive="#fff" emissiveIntensity={0.8} />
+      </mesh>
+      {/* Light beam below */}
+      <mesh position={[0, -2, 0]}>
+        <cylinderGeometry args={[0.02, 0.5, 3.5, 6]} />
+        <meshStandardMaterial color={col} emissive={col} emissiveIntensity={0.6} />
+      </mesh>
+    </group>
+  );
+}
+
+function AnimatedParking({ x, z }: { x: number; z: number }) {
+  const ref = useRef<THREE.Group>(null);
+  useFrame((state) => {
+    if (!ref.current) return;
+    const t = state.clock.elapsedTime;
+    const pulse = 1.0 + Math.sin(t * 3) * 0.15;
+    ref.current.scale.set(pulse, 1, pulse);
+    ref.current.rotation.y = t * 0.3;
+  });
+  return (
+    <group ref={ref} position={[x, 0.1, z]}>
+      <mesh rotation-x={-Math.PI / 2}>
+        <ringGeometry args={[2, 2.5, 16]} />
+        <meshStandardMaterial color="#00D4FF" emissive="#00D4FF" emissiveIntensity={1.5} side={THREE.DoubleSide} />
+      </mesh>
+      <mesh rotation-x={-Math.PI / 2}>
+        <ringGeometry args={[1.0, 1.3, 16]} />
+        <meshStandardMaterial color="#00D4FF" emissive="#00D4FF" emissiveIntensity={0.8} side={THREE.DoubleSide} />
+      </mesh>
+      {/* P letter pillar */}
+      <mesh position={[0, 2, 0]}>
+        <boxGeometry args={[0.8, 0.8, 0.1]} />
+        <meshStandardMaterial color="#00D4FF" emissive="#00D4FF" emissiveIntensity={2} />
+      </mesh>
+      <mesh position={[0, 1, 0]}>
+        <cylinderGeometry args={[0.06, 0.06, 2, 4]} />
+        <meshStandardMaterial color="#00D4FF" emissive="#00D4FF" emissiveIntensity={0.6} />
+      </mesh>
+    </group>
+  );
+}
+
+// ═══════════════════════════════════════════════
+//  MINIMAP COMPONENT
+// ═══════════════════════════════════════════════
+function MiniMap({ hudRef, missionsRef }: { hudRef: React.RefObject<HudData>; missionsRef: React.RefObject<MissionData[]> }) {
+  const canvasRef = useRef<HTMLCanvasElement>(null);
+
+  useEffect(() => {
+    const draw = () => {
+      const canvas = canvasRef.current;
+      if (!canvas) return;
+      const ctx = canvas.getContext("2d");
+      if (!ctx) return;
+      const S = 140;
+      const sc = S / Math.max(WW, WD);
+
+      // Background
+      ctx.fillStyle = "#0d1020";
+      ctx.fillRect(0, 0, S, S);
+
+      // Roads
+      ctx.fillStyle = "#2a2a40";
+      for (let i = 0; i < BLOCKS_X; i++) {
+        const p = (i * BLOCK + 0.5) * T * sc;
+        ctx.fillRect(p, 0, T * 2 * sc, S);
+        ctx.fillRect(0, p, S, T * 2 * sc);
+      }
+
+      // Buildings & Parks
+      for (let bz = 0; bz < BLOCKS_Z; bz++)
+        for (let bx = 0; bx < BLOCKS_X; bx++) {
+          const cx = (bx * BLOCK + 4.5) * T * sc;
+          const cz = (bz * BLOCK + 4.5) * T * sc;
+          const w = 2.6 * T * sc;
+          if (PARK_SET.has(`${bx}-${bz}`)) {
+            ctx.fillStyle = "#1a3a22";
+            ctx.fillRect(cx - w / 2, cz - w / 2, w, w);
+          } else {
+            ctx.fillStyle = "#252540";
+            ctx.fillRect(cx - w / 2, cz - w / 2, w, w);
+          }
+        }
+
+      // Missions
+      const ms = missionsRef.current;
+      if (ms) {
+        for (const m of ms) {
+          if (m.completed) continue;
+          if (m.type === "delivery") {
+            const tx = (m.pickedUp ? m.dx : m.px) * sc;
+            const tz = (m.pickedUp ? m.dz : m.pz) * sc;
+            ctx.fillStyle = m.pickedUp ? "#00FF88" : "#FFD700";
+            ctx.shadowColor = ctx.fillStyle;
+            ctx.shadowBlur = 6;
+            ctx.beginPath(); ctx.arc(tx, tz, 3.5, 0, Math.PI * 2); ctx.fill();
+            ctx.shadowBlur = 0;
+          } else if (m.type === "parking") {
+            ctx.fillStyle = "#00D4FF";
+            ctx.shadowColor = "#00D4FF";
+            ctx.shadowBlur = 6;
+            ctx.beginPath(); ctx.arc(m.px * sc, m.pz * sc, 3.5, 0, Math.PI * 2); ctx.fill();
+            ctx.shadowBlur = 0;
+          } else if (m.type === "coins" && m.coins) {
+            ctx.fillStyle = "#FFD700";
+            ctx.shadowColor = "#FFD700";
+            ctx.shadowBlur = 4;
+            for (const c of m.coins) {
+              ctx.beginPath(); ctx.arc(c.x * sc, c.z * sc, 2, 0, Math.PI * 2); ctx.fill();
+            }
+            ctx.shadowBlur = 0;
+          }
+        }
+      }
+
+      // Player
+      const hud = hudRef.current;
+      const px = hud.px * sc, pz = hud.pz * sc;
+      const a = hud.angle;
+
+      // Direction triangle
+      ctx.fillStyle = hud.inCar >= 0 ? hud.carColor : "#FFFFFF";
+      ctx.shadowColor = ctx.fillStyle;
+      ctx.shadowBlur = 8;
+      ctx.beginPath();
+      ctx.moveTo(px + Math.sin(a) * 6, pz + Math.cos(a) * 6);
+      ctx.lineTo(px + Math.sin(a + 2.5) * 3.5, pz + Math.cos(a + 2.5) * 3.5);
+      ctx.lineTo(px + Math.sin(a - 2.5) * 3.5, pz + Math.cos(a - 2.5) * 3.5);
+      ctx.closePath();
+      ctx.fill();
+      ctx.shadowBlur = 0;
+    };
+
+    const interval = setInterval(draw, 150);
+    return () => clearInterval(interval);
+  }, [hudRef, missionsRef]);
+
+  return (
+    <canvas ref={canvasRef} width={140} height={140}
+      className="absolute top-3 right-3 z-10 rounded-xl border border-white/20 backdrop-blur-sm"
+      style={{ width: 140, height: 140, background: "rgba(0,0,0,0.5)" }} />
+  );
+}
+
+// ═══════════════════════════════════════════════
 //  3D GAME SCENE
 // ═══════════════════════════════════════════════
 interface SceneProps {
@@ -110,7 +366,7 @@ interface SceneProps {
   keysRef: React.RefObject<Set<string>>;
   touchRef: React.RefObject<{ active: boolean; sx: number; sy: number; cx: number; cy: number }>;
   actionRef: React.RefObject<boolean>;
-  hudRef: React.RefObject<{ score: number; missions: number; inCar: number; speed: number; carColor: string; msg: string; msgT: number }>;
+  hudRef: React.RefObject<HudData>;
   missionsRef: React.RefObject<MissionData[]>;
   onEnd: () => void;
 }
@@ -118,6 +374,7 @@ interface SceneProps {
 const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, actionRef, hudRef, missionsRef, onEnd }: SceneProps) {
   const { camera } = useThree();
   const buildings = useMemo(genBuildings, []);
+  const trees = useMemo(genTrees, []);
   const skin = useMemo(() => getSkinDef(getActiveSkin()), []);
 
   const carsRef = useRef(initCars());
@@ -125,14 +382,11 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
   const midRef = useRef(0);
   const carMeshes = useRef<(THREE.Group | null)[]>([]);
   const plMesh = useRef<THREE.Group>(null);
-  const markerMeshes = useRef<(THREE.Mesh | null)[]>([]);
-  const coinMeshes = useRef<THREE.Mesh[]>([]);
   const camTarget = useRef(new THREE.Vector3(1 * T, 6, 1 * T - 10));
   const camLook = useRef(new THREE.Vector3(1 * T, 1, 1 * T));
   const camAngle = useRef(0);
   const camLookSmooth = useRef(new THREE.Vector3(1 * T, 1, 1 * T));
 
-  // Init on start
   useEffect(() => {
     if (!running) return;
     carsRef.current = initCars();
@@ -141,7 +395,7 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
     hudRef.current.missions = 0;
     midRef.current = 0;
     const ms: MissionData[] = [];
-    for (let i = 0; i < 3; i++) ms.push(genMission(midRef.current++));
+    for (let i = 0; i < 4; i++) ms.push(genMission(midRef.current++));
     missionsRef.current = ms;
   }, [running]);
 
@@ -175,7 +429,9 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
       else car.speed *= brake ? 0.90 : FRIC;
       car.speed = Math.max(-car.maxSpeed * 0.4, Math.min(car.maxSpeed, car.speed));
       if (Math.abs(car.speed) < 0.15) car.speed = 0;
-      if (Math.abs(car.speed) > 0.5) car.angle -= mx * car.handling * dt * (car.speed > 0 ? 1 : -1);
+      // Speed-dependent steering: faster = less sensitive
+      const speedFactor = Math.max(0.3, 1.0 - (Math.abs(car.speed) / car.maxSpeed) * 0.6);
+      if (Math.abs(car.speed) > 0.5) car.angle -= mx * car.handling * speedFactor * dt * (car.speed > 0 ? 1 : -1);
       const fx = Math.sin(car.angle), fz = Math.cos(car.angle);
       const nx = car.x + fx * car.speed * dt, nz = car.z + fz * car.speed * dt;
       if (!solidBox(nx, nz, 1.2, 2.2)) { car.x = nx; car.z = nz; } else car.speed *= -0.3;
@@ -191,10 +447,9 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
         hud.msg = "Exited!"; hud.msgT = 2;
       }
     } else {
-      // ── Walking (camera-relative: movement always matches screen directions) ──
+      // ── Walking (camera-relative) ──
       const len = Math.sqrt(mx * mx + mz * mz);
       if (len > 0.1) {
-        // Use CAMERA angle for forward/right so movement matches what user sees on screen
         const ca = camAngle.current;
         const fwX = Math.sin(ca), fwZ = Math.cos(ca);
         const rtX = -Math.cos(ca), rtZ = Math.sin(ca);
@@ -213,6 +468,9 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
         }
       }
     }
+
+    // ── Update HUD position data (for mini-map) ──
+    hud.px = p.x; hud.pz = p.z; hud.angle = p.angle;
 
     // ── Missions ──
     const ms = missionsRef.current;
@@ -239,9 +497,8 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
     }
     if (changed) {
       const active = ms.filter(m => !m.completed).length;
-      if (active < 2 && midRef.current < TOTAL_M) ms.push(genMission(midRef.current++));
+      if (active < 3 && midRef.current < TOTAL_M) ms.push(genMission(midRef.current++));
     }
-    // End condition: all missions done
     if (hud.missions >= TOTAL_M) { onEnd(); return; }
 
     // ── Update 3D objects ──
@@ -255,61 +512,55 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
       plMesh.current.rotation.y = p.angle;
     }
 
-    // ── Camera (tight follow, stays behind car/player) ──
-    const cd = p.inCar >= 0 ? 16 : 10;
-    const ch = p.inCar >= 0 ? 9 : 7;
-    // Fast angle tracking - camera stays behind, not floaty sideways
+    // ── Camera ──
+    const cd = p.inCar >= 0 ? 18 : 10;
+    const ch = p.inCar >= 0 ? 10 : 7;
     let angleDiff = p.angle - camAngle.current;
     while (angleDiff > Math.PI) angleDiff -= Math.PI * 2;
     while (angleDiff < -Math.PI) angleDiff += Math.PI * 2;
-    const angleSpeed = p.inCar >= 0 ? 0.15 : 0.2;
+    const angleSpeed = p.inCar >= 0 ? 0.12 : 0.2;
     camAngle.current += angleDiff * Math.min(angleSpeed * dt * 60, 1);
     const sa = camAngle.current;
     camTarget.current.set(p.x - Math.sin(sa) * cd, ch, p.z - Math.cos(sa) * cd);
-    // Tight position + look-at follow
-    const followSpeed = p.inCar >= 0 ? 0.18 : 0.22;
+    const followSpeed = p.inCar >= 0 ? 0.15 : 0.22;
     camLookSmooth.current.lerp(camLook.current.set(p.x, p.inCar >= 0 ? 1.5 : 1.2, p.z), Math.min(followSpeed * dt * 60, 1));
     camera.position.lerp(camTarget.current, Math.min(followSpeed * dt * 60, 1));
     camera.lookAt(camLookSmooth.current);
 
-    // Message timer
     if (hud.msgT > 0) hud.msgT -= dt;
   });
 
   return (
     <>
-      <color attach="background" args={["#1a2040"]} />
-      <fog attach="fog" args={["#1a2040", 80, 200]} />
-      <ambientLight intensity={1.6} color="#aabbee" />
-      <hemisphereLight args={["#6688cc", "#334466", 0.8]} />
-      <directionalLight position={[60, 100, 40]} intensity={2.0} color="#eef0ff" />
-      <directionalLight position={[-40, 60, -30]} intensity={0.8} color="#8899cc" />
+      <color attach="background" args={["#141828"]} />
+      <fog attach="fog" args={["#141828", 120, 320]} />
+      <ambientLight intensity={1.8} color="#aabbee" />
+      <hemisphereLight args={["#6688cc", "#334466", 0.9]} />
+      <directionalLight position={[80, 120, 60]} intensity={2.2} color="#eef0ff" />
+      <directionalLight position={[-60, 80, -40]} intensity={0.7} color="#8899cc" />
 
       {/* Ground */}
       <mesh rotation-x={-Math.PI / 2} position={[WW / 2, -0.05, WD / 2]}>
-        <planeGeometry args={[WW + 40, WD + 40]} />
-        <meshStandardMaterial color="#2a2a44" />
+        <planeGeometry args={[WW + 60, WD + 60]} />
+        <meshStandardMaterial color="#1e1e36" />
       </mesh>
 
-      {/* Road surfaces - lighter asphalt */}
-      {Array.from({ length: 5 }, (_, i) => {
-        const pos = (i * 7 + 0.5) * T;
+      {/* Road surfaces */}
+      {Array.from({ length: BLOCKS_X }, (_, i) => {
+        const pos = (i * BLOCK + 0.5) * T;
         return (
           <group key={`road-${i}`}>
-            {/* Vertical road strip */}
             <mesh rotation-x={-Math.PI / 2} position={[pos + T / 2, 0.01, WD / 2]}>
               <planeGeometry args={[T * 2, WD]} />
-              <meshStandardMaterial color="#3d3d5a" />
+              <meshStandardMaterial color="#3a3a55" />
             </mesh>
-            {/* Horizontal road strip */}
             <mesh rotation-x={-Math.PI / 2} position={[WW / 2, 0.01, pos + T / 2]}>
               <planeGeometry args={[WW, T * 2]} />
-              <meshStandardMaterial color="#3d3d5a" />
+              <meshStandardMaterial color="#3a3a55" />
             </mesh>
-            {/* Center lane marking - vertical (non-transparent for perf) */}
             <mesh rotation-x={-Math.PI / 2} position={[pos + T / 2, 0.02, WD / 2]}>
               <planeGeometry args={[0.12, WD]} />
-              <meshStandardMaterial color="#998833" />
+              <meshStandardMaterial color="#aa9933" />
             </mesh>
           </group>
         );
@@ -317,40 +568,75 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
 
       {/* Buildings */}
       {buildings.map((b, i) => (
-        <group key={i} position={[b.x, 0, b.z]}>
-          {/* Main building body */}
+        <group key={`b-${i}`} position={[b.x, 0, b.z]}>
           <mesh position={[0, b.h / 2, 0]}>
             <boxGeometry args={[b.w, b.h, b.d]} />
-            <meshStandardMaterial color="#2e2e4e" roughness={0.6} />
+            <meshStandardMaterial color="#2a2a48" roughness={0.6} />
           </mesh>
-          {/* Neon base band - opaque for performance */}
-          <mesh position={[0, 0.6, 0]}>
-            <boxGeometry args={[b.w + 0.15, 1.5, b.d + 0.15]} />
+          {/* Neon base band — same width as building, no overlap */}
+          <mesh position={[0, 0.5, 0]}>
+            <boxGeometry args={[b.w, 1.0, b.d]} />
             <meshStandardMaterial color={b.glow} emissive={b.glow} emissiveIntensity={0.8} />
           </mesh>
           {/* Neon top edge */}
-          <mesh position={[0, b.h + 0.1, 0]}>
-            <boxGeometry args={[b.w + 0.25, 0.3, b.d + 0.25]} />
+          <mesh position={[0, b.h + 0.05, 0]}>
+            <boxGeometry args={[b.w, 0.2, b.d]} />
             <meshStandardMaterial color={b.glow} emissive={b.glow} emissiveIntensity={0.6} />
+          </mesh>
+          {/* Window rows */}
+          {b.style < 2 && Array.from({ length: Math.min(Math.floor(b.h / 3), 6) }, (_, wi) => (
+            <mesh key={`win-${wi}`} position={[0, 2.5 + wi * 3, b.d / 2 + 0.05]}>
+              <planeGeometry args={[b.w * 0.7, 1.2]} />
+              <meshStandardMaterial color={b.glow} emissive={b.glow} emissiveIntensity={0.3} />
+            </mesh>
+          ))}
+        </group>
+      ))}
+
+      {/* Park areas */}
+      {Array.from(PARK_SET).map(key => {
+        const [bx, bz] = key.split("-").map(Number);
+        const cx = (bx * BLOCK + 4.5) * T, cz = (bz * BLOCK + 4.5) * T;
+        return (
+          <group key={`park-${key}`}>
+            <mesh rotation-x={-Math.PI / 2} position={[cx, 0.02, cz]}>
+              <planeGeometry args={[3 * T, 3 * T]} />
+              <meshStandardMaterial color="#1a3a20" />
+            </mesh>
+          </group>
+        );
+      })}
+
+      {/* Trees */}
+      {trees.map((t, i) => (
+        <group key={`tree-${i}`} position={[t.x, 0, t.z]}>
+          <mesh position={[0, t.s * 1.5, 0]}>
+            <cylinderGeometry args={[0.1 * t.s, 0.15 * t.s, t.s * 3, 5]} />
+            <meshStandardMaterial color="#5a3a1a" />
+          </mesh>
+          <mesh position={[0, t.s * 3.5, 0]}>
+            <coneGeometry args={[t.s * 1.2, t.s * 2.5, 6]} />
+            <meshStandardMaterial color="#2a6a2a" />
           </mesh>
         </group>
       ))}
 
-      {/* Street lights - reduced to every other intersection for performance */}
-      {Array.from({ length: 3 }, (_, iz) =>
-        Array.from({ length: 3 }, (_, ix) => {
+      {/* Street lights */}
+      {Array.from({ length: Math.ceil(BLOCKS_X / 2) }, (_, iz) =>
+        Array.from({ length: Math.ceil(BLOCKS_Z / 2) }, (_, ix) => {
           const lx = (ix * 14 + 2) * T, lz = (iz * 14 + 2) * T;
+          if (lx >= WW || lz >= WD) return null;
           return (
             <group key={`sl-${ix}-${iz}`} position={[lx, 0, lz]}>
               <mesh position={[0, 2.5, 0]}>
                 <cylinderGeometry args={[0.08, 0.08, 5, 4]} />
-                <meshStandardMaterial color="#333" />
+                <meshStandardMaterial color="#444" />
               </mesh>
               <mesh position={[0, 5, 0]}>
                 <sphereGeometry args={[0.35, 6, 6]} />
                 <meshStandardMaterial color="#FFE8AA" emissive="#FFE8AA" emissiveIntensity={3} />
               </mesh>
-              <pointLight position={[0, 5, 0]} color="#FFE088" intensity={8} distance={25} />
+              <pointLight position={[0, 5, 0]} color="#FFE088" intensity={8} distance={28} />
             </group>
           );
         })
@@ -358,97 +644,80 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
 
       {/* Cars */}
       {carsRef.current.map((car, i) => {
-        const isSport = car.name === "Sport" || car.name === "Racer";
+        const isSport = car.name === "Sport" || car.name === "Racer" || car.name === "Muscle";
         const isTruck = car.name === "Truck";
         const darkColor = new THREE.Color(car.color).multiplyScalar(0.4).getStyle();
         return (
         <group key={i} ref={el => { carMeshes.current[i] = el; }}>
           {isSport ? (
             <>
-              {/* ═══ SPORT / RACER — detailed supercar ═══ */}
-              {/* Main body — low & wide wedge shape */}
+              {/* ═══ SPORT / RACER / MUSCLE — detailed supercar ═══ */}
               <mesh position={[0, 0.38, 0]}>
                 <boxGeometry args={[2.2, 0.55, 4.6]} />
                 <meshStandardMaterial color={car.color} metalness={0.7} roughness={0.25} />
               </mesh>
-              {/* Front hood — angled down, sleek */}
               <mesh position={[0, 0.48, 1.6]} rotation={[0.18, 0, 0]}>
                 <boxGeometry args={[2.05, 0.18, 1.6]} />
                 <meshStandardMaterial color={car.color} metalness={0.7} roughness={0.25} />
               </mesh>
-              {/* Front lip / splitter */}
               <mesh position={[0, 0.12, 2.35]}>
                 <boxGeometry args={[2.3, 0.08, 0.35]} />
                 <meshStandardMaterial color="#111" metalness={0.3} roughness={0.8} />
               </mesh>
-              {/* Front air intakes (center) */}
               <mesh position={[0, 0.22, 2.32]}>
                 <boxGeometry args={[1.0, 0.18, 0.12]} />
                 <meshStandardMaterial color="#080808" roughness={0.9} />
               </mesh>
-              {/* Front air intakes (left) */}
               <mesh position={[-0.72, 0.22, 2.32]}>
                 <boxGeometry args={[0.35, 0.16, 0.12]} />
                 <meshStandardMaterial color="#080808" roughness={0.9} />
               </mesh>
-              {/* Front air intakes (right) */}
               <mesh position={[0.72, 0.22, 2.32]}>
                 <boxGeometry args={[0.35, 0.16, 0.12]} />
                 <meshStandardMaterial color="#080808" roughness={0.9} />
               </mesh>
-              {/* Cabin / cockpit — set back, fighter-jet style */}
               <mesh position={[0, 0.88, -0.2]}>
                 <boxGeometry args={[1.6, 0.52, 1.9]} />
                 <meshStandardMaterial color={darkColor} metalness={0.6} roughness={0.3} />
               </mesh>
-              {/* Windshield — angled glass */}
               <mesh position={[0, 0.82, 0.85]} rotation={[-0.55, 0, 0]}>
                 <boxGeometry args={[1.55, 0.04, 1.1]} />
                 <meshStandardMaterial color="#1a2a44" metalness={0.9} roughness={0.1} />
               </mesh>
-              {/* Rear window */}
               <mesh position={[0, 0.82, -1.1]} rotation={[0.45, 0, 0]}>
                 <boxGeometry args={[1.4, 0.04, 0.7]} />
                 <meshStandardMaterial color="#1a2a44" metalness={0.9} roughness={0.1} />
               </mesh>
-              {/* Engine cover behind cabin */}
               <mesh position={[0, 0.55, -1.5]}>
                 <boxGeometry args={[2.1, 0.3, 1.2]} />
                 <meshStandardMaterial color={car.color} metalness={0.7} roughness={0.25} />
               </mesh>
-              {/* Engine cover vents */}
               {[-0.35, 0, 0.35].map((ox, vi) => (
                 <mesh key={`vent-${vi}`} position={[ox, 0.72, -1.5]}>
                   <boxGeometry args={[0.2, 0.04, 0.8]} />
                   <meshStandardMaterial color="#111" roughness={0.9} />
                 </mesh>
               ))}
-              {/* Side air intakes (left) */}
               <mesh position={[-1.13, 0.42, -0.15]}>
                 <boxGeometry args={[0.08, 0.22, 0.8]} />
                 <meshStandardMaterial color="#111" roughness={0.9} />
               </mesh>
-              {/* Side air intakes (right) */}
               <mesh position={[1.13, 0.42, -0.15]}>
                 <boxGeometry args={[0.08, 0.22, 0.8]} />
                 <meshStandardMaterial color="#111" roughness={0.9} />
               </mesh>
-              {/* Side skirts (left) */}
               <mesh position={[-1.08, 0.15, 0]}>
                 <boxGeometry args={[0.12, 0.18, 3.8]} />
                 <meshStandardMaterial color="#111" metalness={0.3} roughness={0.7} />
               </mesh>
-              {/* Side skirts (right) */}
               <mesh position={[1.08, 0.15, 0]}>
                 <boxGeometry args={[0.12, 0.18, 3.8]} />
                 <meshStandardMaterial color="#111" metalness={0.3} roughness={0.7} />
               </mesh>
-              {/* Rear spoiler — wing with supports */}
               <mesh position={[0, 1.05, -2.15]}>
                 <boxGeometry args={[2.3, 0.06, 0.4]} />
                 <meshStandardMaterial color={car.color} metalness={0.7} roughness={0.25} />
               </mesh>
-              {/* Spoiler endplates */}
               <mesh position={[-1.1, 0.95, -2.15]}>
                 <boxGeometry args={[0.06, 0.25, 0.4]} />
                 <meshStandardMaterial color={car.color} metalness={0.7} roughness={0.3} />
@@ -457,7 +726,6 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
                 <boxGeometry args={[0.06, 0.25, 0.4]} />
                 <meshStandardMaterial color={car.color} metalness={0.7} roughness={0.3} />
               </mesh>
-              {/* Spoiler supports */}
               <mesh position={[-0.6, 0.85, -2.15]}>
                 <boxGeometry args={[0.08, 0.35, 0.08]} />
                 <meshStandardMaterial color="#222" metalness={0.5} roughness={0.5} />
@@ -466,19 +734,16 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
                 <boxGeometry args={[0.08, 0.35, 0.08]} />
                 <meshStandardMaterial color="#222" metalness={0.5} roughness={0.5} />
               </mesh>
-              {/* Rear diffuser */}
               <mesh position={[0, 0.1, -2.32]}>
                 <boxGeometry args={[1.8, 0.15, 0.25]} />
                 <meshStandardMaterial color="#111" roughness={0.9} />
               </mesh>
-              {/* Diffuser fins */}
               {[-0.5, -0.17, 0.17, 0.5].map((ox, fi) => (
                 <mesh key={`fin-${fi}`} position={[ox, 0.1, -2.32]}>
                   <boxGeometry args={[0.03, 0.12, 0.24]} />
                   <meshStandardMaterial color="#222" roughness={0.8} />
                 </mesh>
               ))}
-              {/* Exhaust tips (dual) */}
               <mesh position={[-0.4, 0.18, -2.38]}>
                 <cylinderGeometry args={[0.08, 0.08, 0.12, 8]} />
                 <meshStandardMaterial color="#444" metalness={0.9} roughness={0.2} />
@@ -487,7 +752,6 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
                 <cylinderGeometry args={[0.08, 0.08, 0.12, 8]} />
                 <meshStandardMaterial color="#444" metalness={0.9} roughness={0.2} />
               </mesh>
-              {/* LED headlights — thin strip */}
               <mesh position={[-0.65, 0.42, 2.31]}>
                 <boxGeometry args={[0.6, 0.08, 0.06]} />
                 <meshStandardMaterial color="#FFFFFF" emissive="#FFFFFF" emissiveIntensity={2.5} />
@@ -496,7 +760,6 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
                 <boxGeometry args={[0.6, 0.08, 0.06]} />
                 <meshStandardMaterial color="#FFFFFF" emissive="#FFFFFF" emissiveIntensity={2.5} />
               </mesh>
-              {/* DRL accent under headlights */}
               <mesh position={[-0.65, 0.32, 2.31]}>
                 <boxGeometry args={[0.45, 0.03, 0.06]} />
                 <meshStandardMaterial color={car.color} emissive={car.color} emissiveIntensity={1.5} />
@@ -505,12 +768,10 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
                 <boxGeometry args={[0.45, 0.03, 0.06]} />
                 <meshStandardMaterial color={car.color} emissive={car.color} emissiveIntensity={1.5} />
               </mesh>
-              {/* LED taillights — full-width strip */}
               <mesh position={[0, 0.48, -2.33]}>
                 <boxGeometry args={[2.0, 0.06, 0.06]} />
                 <meshStandardMaterial color="#FF0000" emissive="#FF0000" emissiveIntensity={1.8} />
               </mesh>
-              {/* Tail light accent */}
               <mesh position={[-0.85, 0.42, -2.33]}>
                 <boxGeometry args={[0.25, 0.12, 0.06]} />
                 <meshStandardMaterial color="#FF0000" emissive="#FF2200" emissiveIntensity={1.2} />
@@ -519,7 +780,6 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
                 <boxGeometry args={[0.25, 0.12, 0.06]} />
                 <meshStandardMaterial color="#FF0000" emissive="#FF2200" emissiveIntensity={1.2} />
               </mesh>
-              {/* Side mirrors */}
               <mesh position={[-1.15, 0.78, 0.4]}>
                 <boxGeometry args={[0.18, 0.1, 0.2]} />
                 <meshStandardMaterial color={car.color} metalness={0.7} roughness={0.3} />
@@ -528,32 +788,26 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
                 <boxGeometry args={[0.18, 0.1, 0.2]} />
                 <meshStandardMaterial color={car.color} metalness={0.7} roughness={0.3} />
               </mesh>
-              {/* Wheels — 4 cylinders with rims */}
               {[[-0.95, 1.3], [0.95, 1.3], [-0.95, -1.3], [0.95, -1.3]].map(([wx, wz], wi) => (
                 <group key={`w-${wi}`} position={[wx, 0.28, wz]}>
-                  {/* Tire */}
                   <mesh rotation={[0, 0, Math.PI / 2]}>
                     <cylinderGeometry args={[0.32, 0.32, 0.28, 12]} />
                     <meshStandardMaterial color="#1a1a1a" roughness={0.9} />
                   </mesh>
-                  {/* Rim */}
                   <mesh rotation={[0, 0, Math.PI / 2]}>
                     <cylinderGeometry args={[0.2, 0.2, 0.3, 8]} />
                     <meshStandardMaterial color="#888" metalness={0.9} roughness={0.15} />
                   </mesh>
-                  {/* Rim center cap */}
                   <mesh rotation={[0, 0, Math.PI / 2]} position={[wx > 0 ? 0.01 : -0.01, 0, 0]}>
                     <cylinderGeometry args={[0.08, 0.08, 0.32, 6]} />
                     <meshStandardMaterial color="#aaa" metalness={0.9} roughness={0.1} />
                   </mesh>
-                  {/* Brake disc glow */}
                   <mesh rotation={[0, 0, Math.PI / 2]}>
                     <cylinderGeometry args={[0.18, 0.18, 0.05, 8]} />
                     <meshStandardMaterial color="#553322" metalness={0.6} roughness={0.4} />
                   </mesh>
                 </group>
               ))}
-              {/* Underbody glow (neon accent) */}
               <mesh position={[0, 0.02, 0]}>
                 <boxGeometry args={[1.8, 0.02, 3.6]} />
                 <meshStandardMaterial color={car.color} emissive={car.color} emissiveIntensity={0.6} />
@@ -561,7 +815,6 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
             </>
           ) : isTruck ? (
             <>
-              {/* ═══ TRUCK — boxy, tall ═══ */}
               <mesh position={[0, 0.7, 0]}>
                 <boxGeometry args={[2.4, 1.4, 4.8]} />
                 <meshStandardMaterial color={car.color} metalness={0.2} roughness={0.6} />
@@ -597,7 +850,6 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
             </>
           ) : (
             <>
-              {/* ═══ SEDAN / TAXI — refined default ═══ */}
               <mesh position={[0, 0.5, 0]}>
                 <boxGeometry args={[2.0, 0.85, 4.4]} />
                 <meshStandardMaterial color={car.color} metalness={0.4} roughness={0.4} />
@@ -644,7 +896,7 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
         );
       })}
 
-      {/* Player - simplified */}
+      {/* Player */}
       <group ref={plMesh}>
         <mesh position={[0, 0.75, 0]}>
           <boxGeometry args={[0.7, 1.0, 0.5]} />
@@ -660,42 +912,17 @@ const GameScene = React.memo(function GameScene({ running, keysRef, touchRef, ac
         </mesh>
       </group>
 
-      {/* Mission markers - no PointLights for performance */}
+      {/* Animated Mission markers */}
       {missionsRef.current?.filter(m => !m.completed).map(m => {
-        const mks: React.ReactElement[] = [];
         if (m.type === "delivery") {
           const tx = m.pickedUp ? m.dx : m.px, tz = m.pickedUp ? m.dz : m.pz;
-          const col = m.pickedUp ? "#00FF88" : "#FFD700";
-          mks.push(
-            <group key={`m-${m.id}`} position={[tx, 2.5, tz]}>
-              <mesh>
-                <boxGeometry args={[1.2, 1.2, 1.2]} />
-                <meshStandardMaterial color={col} emissive={col} emissiveIntensity={1.2} />
-              </mesh>
-            </group>
-          );
+          return <AnimatedDelivery key={`m-${m.id}`} x={tx} z={tz} pickedUp={m.pickedUp} />;
         } else if (m.type === "parking") {
-          mks.push(
-            <group key={`m-${m.id}`} position={[m.px, 0.1, m.pz]}>
-              <mesh rotation-x={-Math.PI / 2}>
-                <ringGeometry args={[2, 2.5, 12]} />
-                <meshStandardMaterial color="#00D4FF" emissive="#00D4FF" emissiveIntensity={1.2} side={THREE.DoubleSide} />
-              </mesh>
-            </group>
-          );
+          return <AnimatedParking key={`m-${m.id}`} x={m.px} z={m.pz} />;
         } else if (m.type === "coins" && m.coins) {
-          m.coins.forEach((c, ci) => {
-            mks.push(
-              <group key={`c-${m.id}-${ci}`} position={[c.x, 1.5, c.z]}>
-                <mesh>
-                  <cylinderGeometry args={[0.4, 0.4, 0.15, 8]} />
-                  <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={1.2} metalness={0.8} />
-                </mesh>
-              </group>
-            );
-          });
+          return m.coins.map((c, ci) => <AnimatedCoin key={`c-${m.id}-${ci}`} x={c.x} z={c.z} />);
         }
-        return mks;
+        return null;
       })}
     </>
   );
@@ -717,10 +944,9 @@ export default function CityDrivePage() {
   const keysRef = useRef(new Set<string>());
   const touchRef = useRef({ active: false, sx: 0, sy: 0, cx: 0, cy: 0 });
   const actionRef = useRef(false);
-  const hudRef = useRef({ score: 0, missions: 0, inCar: -1, speed: 0, carColor: "#fff", msg: "", msgT: 0 });
+  const hudRef = useRef<HudData>({ score: 0, missions: 0, inCar: -1, speed: 0, carColor: "#fff", msg: "", msgT: 0, px: 4, pz: 4, angle: 0 });
   const missionsRef = useRef<MissionData[]>([]);
 
-  // Countdown
   useEffect(() => {
     if (gameState !== "countdown") return;
     if (countdown <= 0) { setGameState("playing"); return; }
@@ -728,14 +954,12 @@ export default function CityDrivePage() {
     return () => clearTimeout(t);
   }, [gameState, countdown]);
 
-  // HUD refresh
   useEffect(() => {
     if (gameState !== "playing") return;
     const i = setInterval(() => setHudTick(t => t + 1), 500);
     return () => clearInterval(i);
   }, [gameState]);
 
-  // Keyboard
   useEffect(() => {
     const dn = (e: KeyboardEvent) => { keysRef.current.add(e.key); if (e.key === " ") e.preventDefault(); };
     const up = (e: KeyboardEvent) => keysRef.current.delete(e.key);
@@ -744,7 +968,6 @@ export default function CityDrivePage() {
     return () => { window.removeEventListener("keydown", dn); window.removeEventListener("keyup", up); };
   }, []);
 
-  // Save card
   useEffect(() => {
     if (gameState !== "result" || cardSaved) return;
     const total = TOTAL_M * 100;
@@ -770,8 +993,7 @@ export default function CityDrivePage() {
 
   return (
     <div className="fixed inset-0 bg-[#0a0e1a] overflow-hidden select-none" style={{ touchAction: "none" }}>
-      {/* 3D Canvas (always mounted) */}
-      <Canvas camera={{ fov: 65, near: 0.1, far: 160, position: [4, 8, -8] }} dpr={[1, 1.5]} gl={{ powerPreference: "high-performance", antialias: false }}>
+      <Canvas camera={{ fov: 65, near: 0.1, far: 350, position: [4, 8, -8] }} dpr={[1, 1.5]} gl={{ powerPreference: "high-performance", antialias: false }}>
         <GameScene running={gameState === "playing"} keysRef={keysRef} touchRef={touchRef} actionRef={actionRef} hudRef={hudRef} missionsRef={missionsRef} onEnd={endGame} />
       </Canvas>
 
@@ -783,6 +1005,9 @@ export default function CityDrivePage() {
             <div className="text-orange-400 font-black text-xl">{hud.score} <span className="text-xs text-white/40">PTS</span></div>
             <div className="text-white/50 text-[10px]">{hud.missions}/{TOTAL_M} missions</div>
           </div>
+
+          {/* Mini-map */}
+          <MiniMap hudRef={hudRef} missionsRef={missionsRef} />
 
           {/* Speed gauge */}
           {hud.inCar >= 0 && (
@@ -802,9 +1027,9 @@ export default function CityDrivePage() {
           )}
 
           {/* Mission list */}
-          <div className="absolute top-16 left-3 space-y-1.5">
+          <div className="absolute top-[155px] right-3 space-y-1.5 max-w-[150px]">
             {missionsRef.current?.filter(m => !m.completed).map(m => (
-              <div key={m.id} className="bg-black/60 backdrop-blur-sm rounded-lg px-3 py-1 border border-white/10 text-[10px]">
+              <div key={m.id} className="bg-black/60 backdrop-blur-sm rounded-lg px-2 py-1 border border-white/10 text-[10px]">
                 <span className="text-white/80">
                   {m.type === "delivery" ? "📦" : m.type === "parking" ? "🅿️" : "🪙"} {m.label}
                   {m.coinsLeft !== undefined ? ` (${m.coinsLeft})` : ""}
@@ -813,40 +1038,33 @@ export default function CityDrivePage() {
             ))}
           </div>
 
-          {/* Controls hint + version */}
           <div className="absolute bottom-3 left-3 text-[9px] text-white/20">
-            WASD: move • SPACE: enter/exit • v2
+            WASD: move • SPACE: enter/exit • v3
           </div>
         </div>
       )}
 
-      {/* Touch controls - visible joystick */}
+      {/* Touch controls */}
       {gameState === "playing" && (
         <>
-          {/* Joystick area */}
           <div className="absolute left-4 bottom-4 z-20" style={{ width: 140, height: 140 }}
             onTouchStart={e => { e.preventDefault(); const t = e.touches[0]; const rect = e.currentTarget.getBoundingClientRect(); const cx = rect.left + 70, cy = rect.top + 70; touchRef.current = { active: true, sx: cx, sy: cy, cx: t.clientX, cy: t.clientY }; const knob = joystickKnobRef.current; if (knob) { knob.style.transition = 'none'; knob.style.left = `${42 + (t.clientX - cx)}px`; knob.style.top = `${42 + (t.clientY - cy)}px`; } }}
             onTouchMove={e => { e.preventDefault(); const t = e.touches[0]; touchRef.current.cx = t.clientX; touchRef.current.cy = t.clientY; const dx = t.clientX - touchRef.current.sx, dy = t.clientY - touchRef.current.sy; const d = Math.sqrt(dx*dx+dy*dy); const max = 50; const clamp = d > max ? max / d : 1; const knob = joystickKnobRef.current; if (knob) { knob.style.left = `${42 + dx * clamp}px`; knob.style.top = `${42 + dy * clamp}px`; } }}
             onTouchEnd={() => { touchRef.current.active = false; const knob = joystickKnobRef.current; if (knob) { knob.style.transition = 'all 0.15s'; knob.style.left = '42px'; knob.style.top = '42px'; } }}
           >
-            {/* Joystick base */}
             <div className="absolute inset-0 rounded-full border-2 border-white/20 bg-white/5" />
-            {/* Joystick knob - positioned via ref for zero re-renders */}
             <div ref={joystickKnobRef} className="absolute w-14 h-14 rounded-full bg-white/30 border-2 border-white/50 shadow-lg shadow-white/10"
               style={{ left: 42, top: 42 }} />
-            {/* Direction arrows */}
             <div className="absolute top-1 left-1/2 -translate-x-1/2 text-white/20 text-xs">▲</div>
             <div className="absolute bottom-1 left-1/2 -translate-x-1/2 text-white/20 text-xs">▼</div>
             <div className="absolute left-1 top-1/2 -translate-y-1/2 text-white/20 text-xs">◀</div>
             <div className="absolute right-1 top-1/2 -translate-y-1/2 text-white/20 text-xs">▶</div>
           </div>
-          {/* Action button (enter/exit car) */}
           <button className="absolute right-4 bottom-4 w-18 h-18 rounded-full bg-orange-500/40 border-2 border-orange-400/70 z-20 flex items-center justify-center text-white font-bold text-base active:bg-orange-500/70 active:scale-95 transition-all"
             style={{ width: 72, height: 72 }}
             onTouchStart={e => { e.preventDefault(); actionRef.current = true; }}>
             <span className="text-2xl">🚗</span>
           </button>
-          {/* Brake button */}
           <button className="absolute right-4 bottom-24 w-14 h-14 rounded-full bg-red-500/30 border-2 border-red-400/50 z-20 flex items-center justify-center text-white text-sm active:bg-red-500/60 active:scale-95 transition-all"
             onTouchStart={() => keysRef.current.add("Shift")} onTouchEnd={() => keysRef.current.delete("Shift")}>
             <span className="text-xl">🛑</span>
@@ -863,20 +1081,20 @@ export default function CityDrivePage() {
               <div className="text-center mb-8">
                 <div className="text-6xl mb-4">🏎️</div>
                 <h1 className="text-4xl font-black text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-red-500">CITY DRIVE</h1>
-                <p className="text-white/50 text-sm mt-2 max-w-xs mx-auto">Explore the neon city, drive cars, complete missions!</p>
+                <p className="text-white/50 text-sm mt-2 max-w-xs mx-auto">Explore the mega neon city, drive 7 cars, complete missions!</p>
               </div>
               <div className="space-y-3 mb-8 px-4 max-w-sm mx-auto">
                 <div className="flex items-center gap-3 bg-white/5 rounded-lg px-4 py-2">
                   <span className="text-lg">🚗</span>
-                  <div className="text-xs text-white/70"><b className="text-white">5 cars</b> — different speeds & handling</div>
+                  <div className="text-xs text-white/70"><b className="text-white">7 cars</b> — Sport, Racer, Muscle, Electric & more</div>
                 </div>
                 <div className="flex items-center gap-3 bg-white/5 rounded-lg px-4 py-2">
                   <span className="text-lg">🌃</span>
-                  <div className="text-xs text-white/70"><b className="text-white">3D city</b> — free roam, no time limit</div>
+                  <div className="text-xs text-white/70"><b className="text-white">Huge 3D city</b> — parks, neon buildings, free roam</div>
                 </div>
                 <div className="flex items-center gap-3 bg-white/5 rounded-lg px-4 py-2">
                   <span className="text-lg">📦</span>
-                  <div className="text-xs text-white/70"><b className="text-white">8 missions</b> — deliver, park, collect</div>
+                  <div className="text-xs text-white/70"><b className="text-white">{TOTAL_M} missions</b> — deliver, park, collect coins</div>
                 </div>
               </div>
               <div className="text-center space-y-3 px-4">
@@ -889,7 +1107,6 @@ export default function CityDrivePage() {
         )}
       </AnimatePresence>
 
-      {/* COUNTDOWN */}
       <AnimatePresence>
         {gameState === "countdown" && (
           <motion.div className="absolute inset-0 z-30 flex items-center justify-center bg-[#0a0e1a]/80"
@@ -900,7 +1117,6 @@ export default function CityDrivePage() {
         )}
       </AnimatePresence>
 
-      {/* RESULT */}
       <AnimatePresence>
         {gameState === "result" && (
           <motion.div className="absolute inset-0 z-30 flex items-center justify-center bg-[#0a0e1a]/90 p-4"
@@ -914,7 +1130,6 @@ export default function CityDrivePage() {
         )}
       </AnimatePresence>
 
-      {/* REWARD */}
       {gameState === "reward" && (
         <div className="absolute inset-0 z-30 flex items-center justify-center bg-[#0a0e1a]/95 p-4">
           <RewardReveal rarity={rarity} game="citydrive" score={finalScore} total={totalForRarity}
