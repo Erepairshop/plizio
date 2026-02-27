@@ -110,9 +110,9 @@ function getCarType(id: string): CarType { return CAR_TYPES.find(c => c.id === i
 // ═══════════════════════════════════════════════
 //  RACE PORTAL (teleports to race track)
 // ═══════════════════════════════════════════════
-// Placed at downtown intersection (block 14, 14)
-const PORTAL_X = (14 * BLOCK + 1.5) * T; // road center
-const PORTAL_Z = (14 * BLOCK + 1.5) * T;
+// Placed at far corner (block 1, 1) — out of the way
+const PORTAL_X = (1 * BLOCK + 1.5) * T; // road center
+const PORTAL_Z = (1 * BLOCK + 1.5) * T;
 const PORTAL_RADIUS = 8;
 // Only sedan (2nd car) or better can enter
 const PORTAL_MIN_CAR_INDEX = 1; // index in CAR_TYPES (0=starter, 1=sedan, ...)
@@ -991,9 +991,10 @@ interface SceneProps {
   timeTrialWonRef: React.RefObject<boolean>;
   onEnd: () => void;
   onPortal: () => void;
+  portalCooldownRef: React.RefObject<number>;
 }
 
-const GameScene = React.memo(function GameScene({ running, resuming, keysRef, touchRef, actionRef, brakeRef, nitroActiveRef, hudRef, missionsRef, gameDataRef, carsDataRef, timeTrialRef, timeTrialWonRef, onEnd, onPortal }: SceneProps) {
+const GameScene = React.memo(function GameScene({ running, resuming, keysRef, touchRef, actionRef, brakeRef, nitroActiveRef, hudRef, missionsRef, gameDataRef, carsDataRef, timeTrialRef, timeTrialWonRef, onEnd, onPortal, portalCooldownRef }: SceneProps) {
   const { camera } = useThree();
   const buildings = useMemo(genBuildings, []);
   const trees = useMemo(genTrees, []);
@@ -1442,13 +1443,15 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
       ambLightRef.current.color.lerp(new THREE.Color(w.ambC), dt * 0.5);
     }
 
-    // ── Race Portal detection ──
-    if (p.inCar >= 0) {
+    // ── Race Portal detection (with cooldown) ──
+    if (portalCooldownRef.current > 0) portalCooldownRef.current -= dt;
+    if (p.inCar >= 0 && portalCooldownRef.current <= 0) {
       const car = carsRef.current[p.inCar];
       const portalDist = Math.sqrt((car.x - PORTAL_X) ** 2 + (car.z - PORTAL_Z) ** 2);
       if (portalDist < PORTAL_RADIUS) {
         const carIdx = CAR_TYPES.findIndex(c => c.id === getActiveCar());
         if (carIdx >= PORTAL_MIN_CAR_INDEX) {
+          portalCooldownRef.current = 3; // 3 sec cooldown so it doesn't trigger again immediately
           onPortal();
         } else {
           if (hud.msgT <= 0) {
@@ -1822,7 +1825,9 @@ export default function CityDrivePage() {
   const [hudTick, setHudTick] = useState(0);
   const [resuming, setResuming] = useState(false);
   const [hasSave, setHasSave] = useState(initSave);
+  const [showPortalConfirm, setShowPortalConfirm] = useState(false);
   const joystickKnobRef = useRef<HTMLDivElement>(null);
+  const portalCooldownRef = useRef(0);
   const timeTrialRef = useRef<TimeTrial | null>(null);
   const timeTrialUsed = useRef(0); // max 2 per game
   const timeTrialWon = useRef(false); // once won, don't show again
@@ -1942,7 +1947,7 @@ export default function CityDrivePage() {
   return (
     <div className="fixed inset-0 bg-[#0a0e1a] overflow-hidden select-none" style={{ touchAction: "none" }}>
       <Canvas camera={{ fov: 65, near: 0.1, far: 550, position: [4, 8, -8] }} dpr={[1, 1.5]} gl={{ powerPreference: "high-performance", antialias: false }}>
-        <GameScene running={gameState === "playing"} resuming={resuming} keysRef={keysRef} touchRef={touchRef} actionRef={actionRef} brakeRef={brakeRef} nitroActiveRef={nitroActiveRef} hudRef={hudRef} missionsRef={missionsRef} gameDataRef={gameDataRef} carsDataRef={carsDataRef} timeTrialRef={timeTrialRef} timeTrialWonRef={timeTrialWon} onEnd={endGame} onPortal={() => { if (gameDataRef.current) saveToStorage(gameDataRef.current); router.push("/racetrack"); }} />
+        <GameScene running={gameState === "playing"} resuming={resuming} keysRef={keysRef} touchRef={touchRef} actionRef={actionRef} brakeRef={brakeRef} nitroActiveRef={nitroActiveRef} hudRef={hudRef} missionsRef={missionsRef} gameDataRef={gameDataRef} carsDataRef={carsDataRef} timeTrialRef={timeTrialRef} timeTrialWonRef={timeTrialWon} onEnd={endGame} portalCooldownRef={portalCooldownRef} onPortal={() => setShowPortalConfirm(true)} />
       </Canvas>
 
       {/* HUD overlay */}
@@ -2126,6 +2131,31 @@ export default function CityDrivePage() {
             onDone={() => { setGameState("menu"); setShowMilestone(true); }} />
         </div>
       )}
+
+      {/* ═══ RACE PORTAL CONFIRMATION ═══ */}
+      <AnimatePresence>
+        {showPortalConfirm && (
+          <motion.div className="absolute inset-0 z-40 flex items-center justify-center bg-black/70 backdrop-blur-sm"
+            initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
+            <motion.div className="bg-[#0d1117] border border-[#BB44FF]/30 rounded-3xl p-6 text-center max-w-xs mx-4"
+              initial={{ scale: 0.8, y: 20 }} animate={{ scale: 1, y: 0 }} transition={{ type: "spring" }}>
+              <div className="text-4xl mb-3">🏁</div>
+              <h2 className="text-white font-black text-xl">Enter Race?</h2>
+              <p className="text-white/40 text-sm mt-2">Race against 6 opponents on the track!</p>
+              <div className="flex gap-3 mt-5">
+                <button onClick={() => { setShowPortalConfirm(false); if (gameDataRef.current) saveToStorage(gameDataRef.current); router.push("/racetrack"); }}
+                  className="flex-1 py-3 rounded-xl font-bold text-sm text-white bg-gradient-to-r from-[#BB44FF] to-[#8800FF] active:scale-95 transition-all">
+                  Race!
+                </button>
+                <button onClick={() => { setShowPortalConfirm(false); portalCooldownRef.current = 3; }}
+                  className="flex-1 py-3 rounded-xl font-bold text-sm text-white/60 bg-white/5 border border-white/10 active:scale-95 transition-all">
+                  Cancel
+                </button>
+              </div>
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
 
       {showMilestone && <MilestonePopup />}
     </div>
