@@ -545,9 +545,9 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       if (d < bestDist) { bestDist = d; bestIdx = j; }
     }
 
-    // AI speeds: competitive but beatable thanks to driving imperfections
-    const speedFactors = [0.72, 0.76, 0.80, 0.84, 0.87, 0.90];
-    const aggressionLevels = [0.1, 0.15, 0.2, 0.30, 0.40, 0.50];
+    // AI speeds: +10%, wider spread so they don't bunch up
+    const speedFactors = [0.68, 0.76, 0.83, 0.89, 0.95, 0.99];
+    const aggressionLevels = [0.1, 0.15, 0.25, 0.35, 0.50, 0.60];
     const laneOffsets = [-0.3, 0.3, -0.15, 0.25, -0.35, 0.15];
 
     return {
@@ -555,7 +555,7 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       angle: fwdAngle,
       speed: 0, trackProgress: bestIdx / trackPoints.length, totalProgress: 0, lap: 0, tilt: 0,
       maxSpeed: carType.maxSpeed * speedFactors[i],
-      accel: carType.accel * (0.75 + i * 0.025),
+      accel: carType.accel * (0.70 + i * 0.05),
       handling: 2.5 + i * 0.2,
       color: AI_COLORS[i], name,
       aggressive: aggressionLevels[i],
@@ -770,7 +770,55 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
 
       const dxT = offX - ai.x;
       const dzT = offZ - ai.z;
-      const angleToTarget = Math.atan2(dxT, dzT);
+      let angleToTarget = Math.atan2(dxT, dzT);
+
+      // ── Overtake logic: detect slower cars/player ahead and steer around ──
+      let overtakeShift = 0;
+      const overtakeScanDist = 8 + ai.speed * 0.3; // how far ahead to scan
+      // Check other AI cars
+      for (let j = 0; j < ais.length; j++) {
+        if (j === i) continue;
+        const other = ais[j];
+        const ddx = other.x - ai.x;
+        const ddz = other.z - ai.z;
+        const dist = Math.sqrt(ddx * ddx + ddz * ddz);
+        if (dist < overtakeScanDist && dist > 0.5) {
+          // Is this car ahead of us? (dot product with our forward direction)
+          const fwdX = Math.sin(ai.angle);
+          const fwdZ = Math.cos(ai.angle);
+          const dot = ddx * fwdX + ddz * fwdZ;
+          if (dot > 0 && dot < overtakeScanDist) {
+            // It's ahead - check if slower or similar speed
+            if (other.speed < ai.speed * 1.05) {
+              // Cross product to determine which side they're on
+              const cross = fwdX * ddz - fwdZ * ddx;
+              // Steer to the opposite side, stronger when closer
+              const avoidStrength = (1 - dist / overtakeScanDist) * 2.5;
+              overtakeShift += (cross > 0 ? -avoidStrength : avoidStrength);
+            }
+          }
+        }
+      }
+      // Also check player
+      const pdx = player.x - ai.x;
+      const pdz = player.z - ai.z;
+      const pDist = Math.sqrt(pdx * pdx + pdz * pdz);
+      if (pDist < overtakeScanDist && pDist > 0.5) {
+        const fwdX = Math.sin(ai.angle);
+        const fwdZ = Math.cos(ai.angle);
+        const dot = pdx * fwdX + pdz * fwdZ;
+        if (dot > 0 && dot < overtakeScanDist) {
+          if (player.speed < ai.speed * 1.05) {
+            const cross = fwdX * pdz - fwdZ * pdx;
+            const avoidStrength = (1 - pDist / overtakeScanDist) * 2.5;
+            overtakeShift += (cross > 0 ? -avoidStrength : avoidStrength);
+          }
+        }
+      }
+      // Apply overtake angle shift
+      if (overtakeShift !== 0) {
+        angleToTarget += Math.max(-0.4, Math.min(0.4, overtakeShift * 0.15));
+      }
 
       // Steer toward target
       let angleDiff = angleToTarget - ai.angle;
@@ -779,10 +827,10 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       ai.angle += angleDiff * ai.handling * dt;
 
       // Accelerate - with slight imperfection
-      const accelBoost = 1 + ai.aggressive * 0.1;
-      const accelWobble = 0.85 + Math.random() * 0.15; // 85-100% throttle
+      const accelBoost = 1 + ai.aggressive * 0.15;
+      const accelWobble = 0.88 + Math.random() * 0.12; // 88-100% throttle
       ai.speed += ai.accel * accelBoost * accelWobble * dt;
-      ai.speed *= 0.975; // slightly more drag than player (0.98)
+      ai.speed *= 0.978; // slightly more drag than player (0.98)
 
       // Random micro-hesitation ~3% of frames
       if (Math.random() < 0.03) {
