@@ -1769,11 +1769,39 @@ export default function CityDrivePage() {
       // Sync car data
 
       // Time trial spawn logic (max 2 per game, no cooldown - always available)
-      // Spawns a start marker on the map; player must drive there to activate
+      // Difficulty scales with car speed: faster car = farther checkpoints
       if (!timeTrialRef.current && timeTrialUsed.current < 2) {
+        const carType = getCarType(getActiveCar());
+        // Calculate target distance per CP based on car speed
+        // avgSpeed ~55% of maxSpeed (realistic city driving with turns)
+        // Use 80% of theoretical max distance = tight but doable
+        const avgSpeed = carType.maxSpeed * 0.55;
+        const distPerCP = (avgSpeed * TIME_TRIAL_DURATION / TIME_TRIAL_CPS) * 0.80;
+        const minDist = distPerCP * 0.7;
+        const maxDist = distPerCP * 1.3;
+
         const startPos = roadPos3D();
         const cps: { x: number; z: number }[] = [];
-        for (let j = 0; j < TIME_TRIAL_CPS; j++) cps.push(roadPos3D());
+        let prevX = startPos.x, prevZ = startPos.z;
+
+        for (let j = 0; j < TIME_TRIAL_CPS; j++) {
+          // Try to find a road position within target distance range
+          let best = roadPos3D();
+          let bestDist = Math.abs(Math.sqrt((best.x - prevX) ** 2 + (best.z - prevZ) ** 2) - distPerCP);
+          for (let attempt = 0; attempt < 40; attempt++) {
+            const candidate = roadPos3D();
+            const d = Math.sqrt((candidate.x - prevX) ** 2 + (candidate.z - prevZ) ** 2);
+            if (d >= minDist && d <= maxDist) {
+              best = candidate;
+              break;
+            }
+            const diff = Math.abs(d - distPerCP);
+            if (diff < bestDist) { best = candidate; bestDist = diff; }
+          }
+          cps.push(best);
+          prevX = best.x; prevZ = best.z;
+        }
+
         timeTrialRef.current = {
           checkpoints: cps, currentCP: 0, timeLeft: TIME_TRIAL_DURATION,
           active: true, reward: TIME_TRIAL_REWARD, completed: false,
@@ -1857,7 +1885,7 @@ export default function CityDrivePage() {
 
           {/* Time Trial HUD */}
           {timeTrialRef.current?.active && !timeTrialRef.current.started && (
-            <div className="absolute top-3 left-1/2 -translate-x-1/2 bg-black/80 backdrop-blur-sm rounded-xl px-4 py-2 border border-orange-500/40 animate-pulse">
+            <div className="absolute top-3 left-1/2 -translate-x-1/2 bg-black/80 backdrop-blur-sm rounded-xl px-4 py-2 border border-orange-500/40">
               <div className="text-orange-400 font-black text-sm text-center">TIME TRIAL</div>
               <div className="text-white font-bold text-xs text-center mt-0.5">Drive to 🏁 to start!</div>
             </div>
