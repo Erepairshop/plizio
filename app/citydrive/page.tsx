@@ -23,6 +23,7 @@ interface CarData {
   x: number; z: number; angle: number; speed: number;
   maxSpeed: number; accel: number; handling: number;
   color: string; name: string;
+  isNPC: boolean; pushVx: number; pushVz: number; aiTimer: number;
 }
 interface MissionData {
   id: number; type: "delivery" | "parking" | "coins";
@@ -47,8 +48,10 @@ interface HudData {
 // ═══════════════════════════════════════════════
 const T = 4;
 const BLOCK = 7;
-const COLS = 70;
-const ROWS = 70;
+const COLS = 91;
+const ROWS = 91;
+const NPC_COUNT = 15;
+const DOWNTOWN_START = 10; // blocks >= this are downtown
 const WW = COLS * T;
 const WD = ROWS * T;
 const BLOCKS_X = Math.floor(COLS / BLOCK);
@@ -105,18 +108,20 @@ function solidBox(x: number, z: number, hw: number, hd: number) {
   return isSolid(x - hw, z - hd) || isSolid(x + hw, z - hd) || isSolid(x - hw, z + hd) || isSolid(x + hw, z + hd);
 }
 
+const DOWNTOWN_GLOWS = ["#00CCFF", "#0088FF", "#44BBFF", "#66DDFF", "#00AADD", "#3399FF"];
 function genBuildings(): BuildingDef[] {
   const bs: BuildingDef[] = [];
   for (let bz = 0; bz < BLOCKS_Z; bz++)
     for (let bx = 0; bx < BLOCKS_X; bx++) {
       if (PARK_SET.has(`${bx}-${bz}`)) continue;
-      const h = 6 + ((bx * 7 + bz * 13) % 22);
-      const style = (bx + bz * 3) % 4;
+      const isDT = bx >= DOWNTOWN_START || bz >= DOWNTOWN_START;
+      const h = isDT ? 15 + ((bx * 7 + bz * 13) % 30) : 6 + ((bx * 7 + bz * 13) % 22);
+      const style = isDT ? 2 + ((bx + bz) % 2) : (bx + bz * 3) % 4;
       bs.push({
         x: (bx * BLOCK + 4.5) * T,
         z: (bz * BLOCK + 4.5) * T,
         w: 2.6 * T, d: 2.6 * T, h,
-        glow: GLOWS[(bx * 3 + bz * 5) % GLOWS.length],
+        glow: isDT ? DOWNTOWN_GLOWS[(bx * 3 + bz * 5) % DOWNTOWN_GLOWS.length] : GLOWS[(bx * 3 + bz * 5) % GLOWS.length],
         style,
       });
     }
@@ -147,16 +152,22 @@ function genTrees(): TreeDef[] {
   return trees;
 }
 
+const NPC_COLORS = ["#00D4FF","#FFD700","#00FF88","#B44DFF","#FF6B00","#44FFCC","#FF8888","#88CCFF","#DDAA44","#77DD77","#DD77DD","#77DDDD","#AA7744","#AABB55","#5588CC"];
+const NPC_NAMES = ["Sedan","Sedan","Truck","Taxi","Sedan","Sedan","Truck","Sedan","Taxi","Sedan","Sedan","Truck","Sedan","Taxi","Sedan"];
 function initCars(): CarData[] {
-  return [
-    { x: 1 * T, z: 5 * T, angle: 0, speed: 0, maxSpeed: 40, accel: 25, handling: 3.0, color: "#FF2D55", name: "Sport" },
-    { x: 15 * T, z: 8 * T, angle: Math.PI / 2, speed: 0, maxSpeed: 30, accel: 20, handling: 3.2, color: "#00D4FF", name: "Sedan" },
-    { x: 22 * T, z: 1 * T, angle: 0, speed: 0, maxSpeed: 22, accel: 16, handling: 3.8, color: "#00FF88", name: "Truck" },
-    { x: 35 * T, z: 30 * T, angle: Math.PI, speed: 0, maxSpeed: 35, accel: 22, handling: 3.2, color: "#FFD700", name: "Taxi" },
-    { x: 50 * T, z: 50 * T, angle: -Math.PI / 2, speed: 0, maxSpeed: 50, accel: 32, handling: 2.8, color: "#B44DFF", name: "Racer" },
-    { x: 8 * T, z: 45 * T, angle: 0, speed: 0, maxSpeed: 45, accel: 28, handling: 2.9, color: "#FF6B00", name: "Muscle" },
-    { x: 60 * T, z: 15 * T, angle: Math.PI, speed: 0, maxSpeed: 38, accel: 24, handling: 3.5, color: "#44FFCC", name: "Electric" },
-  ];
+  const base = { pushVx: 0, pushVz: 0, aiTimer: 0 };
+  const playerCar: CarData = { x: 1 * T, z: 5 * T, angle: 0, speed: 0, maxSpeed: 40, accel: 25, handling: 3.0, color: "#FF2D55", name: "Sport", isNPC: false, ...base };
+  const dirs = [0, Math.PI / 2, Math.PI, Math.PI * 1.5];
+  const npcs: CarData[] = [];
+  for (let i = 0; i < NPC_COUNT; i++) {
+    const bx = (i * 3 + 1) % BLOCKS_X, bz = (i * 2 + 2) % BLOCKS_Z;
+    npcs.push({
+      x: (bx * BLOCK + 1) * T, z: (bz * BLOCK + 1) * T, angle: dirs[i % 4],
+      speed: 0, maxSpeed: 12 + (i % 6) * 3, accel: 15, handling: 2.0,
+      color: NPC_COLORS[i], name: NPC_NAMES[i], isNPC: true, ...base,
+    });
+  }
+  return [playerCar, ...npcs];
 }
 
 function roadPos3D() {
@@ -474,7 +485,7 @@ function PlayerCharacter({ plRef, prevPos }: PlayerCharProps) {
 // ═══════════════════════════════════════════════
 //  MINIMAP COMPONENT
 // ═══════════════════════════════════════════════
-function MiniMap({ hudRef, missionsRef }: { hudRef: React.RefObject<HudData>; missionsRef: React.RefObject<MissionData[]> }) {
+function MiniMap({ hudRef, missionsRef, carsRef }: { hudRef: React.RefObject<HudData>; missionsRef: React.RefObject<MissionData[]>; carsRef?: React.RefObject<CarData[]> }) {
   const canvasRef = useRef<HTMLCanvasElement>(null);
 
   useEffect(() => {
@@ -544,6 +555,23 @@ function MiniMap({ hudRef, missionsRef }: { hudRef: React.RefObject<HudData>; mi
         }
       }
 
+      // NPC cars as small dots
+      if (carsRef?.current) {
+        for (let i = 1; i < carsRef.current.length; i++) {
+          const c = carsRef.current[i];
+          if (!c.isNPC) continue;
+          ctx.fillStyle = "#666";
+          ctx.beginPath(); ctx.arc(c.x * sc, c.z * sc, 1.5, 0, Math.PI * 2); ctx.fill();
+        }
+        // Player's own car (index 0) - always shown
+        const pc = carsRef.current[0];
+        ctx.fillStyle = "#FF2D55";
+        ctx.shadowColor = "#FF2D55";
+        ctx.shadowBlur = 6;
+        ctx.beginPath(); ctx.arc(pc.x * sc, pc.z * sc, 3, 0, Math.PI * 2); ctx.fill();
+        ctx.shadowBlur = 0;
+      }
+
       // Player
       const hud = hudRef.current;
       const px = hud.px * sc, pz = hud.pz * sc;
@@ -598,10 +626,11 @@ interface SceneProps {
   hudRef: React.RefObject<HudData>;
   missionsRef: React.RefObject<MissionData[]>;
   gameDataRef: React.RefObject<SaveData | null>;
+  carsDataRef: React.RefObject<CarData[]>;
   onEnd: () => void;
 }
 
-const GameScene = React.memo(function GameScene({ running, resuming, keysRef, touchRef, actionRef, brakeRef, nitroActiveRef, hudRef, missionsRef, gameDataRef, onEnd }: SceneProps) {
+const GameScene = React.memo(function GameScene({ running, resuming, keysRef, touchRef, actionRef, brakeRef, nitroActiveRef, hudRef, missionsRef, gameDataRef, carsDataRef, onEnd }: SceneProps) {
   const { camera } = useThree();
   const buildings = useMemo(genBuildings, []);
   const trees = useMemo(genTrees, []);
@@ -636,10 +665,13 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
       const cars = initCars();
       saved.cars.forEach((sc, i) => { if (cars[i]) { cars[i].x = sc.x; cars[i].z = sc.z; cars[i].angle = sc.angle; cars[i].speed = sc.speed; } });
       carsRef.current = cars;
+      carsDataRef.current = cars;
       missionsRef.current = saved.missionData;
     } else {
       carsRef.current = initCars();
-      plRef.current = { x: 1 * T, z: 1 * T, angle: 0, inCar: -1 };
+      carsDataRef.current = carsRef.current;
+      // Spawn player next to their car
+      plRef.current = { x: 1 * T + 3, z: 5 * T, angle: 0, inCar: -1 };
       hudRef.current.score = 0;
       hudRef.current.missions = 0;
       midRef.current = 0;
@@ -754,6 +786,20 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
         p.inCar = -1; car.speed = 0; hud.inCar = -1;
         hud.msg = "Exited!"; hud.msgT = 2;
       }
+      // Player car → NPC collision (push)
+      for (let i = 0; i < carsRef.current.length; i++) {
+        if (i === p.inCar) continue;
+        const npc = carsRef.current[i];
+        const ddx = npc.x - car.x, ddz = npc.z - car.z;
+        const dist = Math.sqrt(ddx * ddx + ddz * ddz);
+        if (dist < 3.5 && dist > 0) {
+          const push = Math.abs(car.speed) * 0.7;
+          npc.pushVx += (ddx / dist) * push;
+          npc.pushVz += (ddz / dist) * push;
+          car.speed *= 0.85;
+          shakeRef.current = Math.max(shakeRef.current, 0.4);
+        }
+      }
     } else {
       // ── Walking (camera-relative) ──
       const len = Math.sqrt(mx * mx + mz * mz);
@@ -781,6 +827,58 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
           }
         }
       }
+    }
+
+    // ── NPC AI ──
+    for (let i = 0; i < carsRef.current.length; i++) {
+      const npc = carsRef.current[i];
+      if (!npc.isNPC || i === p.inCar) continue;
+      // Apply push momentum
+      if (Math.abs(npc.pushVx) > 0.1 || Math.abs(npc.pushVz) > 0.1) {
+        const pnx = npc.x + npc.pushVx * dt, pnz = npc.z + npc.pushVz * dt;
+        if (!solidBox(pnx, pnz, 0.8, 1.4)) { npc.x = pnx; npc.z = pnz; }
+        npc.pushVx *= 0.90; npc.pushVz *= 0.90;
+      }
+      const nfx = Math.sin(npc.angle), nfz = Math.cos(npc.angle);
+      // Check for player ahead (stop for pedestrian)
+      const dp = Math.sqrt((npc.x - p.x) ** 2 + (npc.z - p.z) ** 2);
+      const dotP = dp > 0 ? ((p.x - npc.x) * nfx + (p.z - npc.z) * nfz) / dp : 0;
+      const playerAhead = p.inCar < 0 && dp < 8 && dotP > 0.6;
+      // Check road ahead
+      const ax = npc.x + nfx * 4, az = npc.z + nfz * 4;
+      const blocked = solidBox(ax, az, 0.8, 1.4);
+      if (playerAhead || blocked) {
+        npc.speed *= 0.88;
+        if (blocked && npc.speed < 1) {
+          // Turn to find road
+          const la = npc.angle + Math.PI / 2, ra = npc.angle - Math.PI / 2;
+          const lOk = !solidBox(npc.x + Math.sin(la) * 4, npc.z + Math.cos(la) * 4, 0.8, 1.4);
+          const rOk = !solidBox(npc.x + Math.sin(ra) * 4, npc.z + Math.cos(ra) * 4, 0.8, 1.4);
+          if (lOk && rOk) npc.angle += (Math.random() > 0.5 ? 1 : -1) * Math.PI / 2;
+          else if (lOk) npc.angle = la;
+          else if (rOk) npc.angle = ra;
+          else npc.angle += Math.PI;
+        }
+      } else {
+        npc.speed += (npc.maxSpeed - npc.speed) * dt * 2;
+        // Random turn at intersections
+        npc.aiTimer -= dt;
+        if (npc.aiTimer <= 0) {
+          const nc = Math.floor(npc.x / T), nr = Math.floor(npc.z / T);
+          if (nc % BLOCK < 2 && nr % BLOCK < 2 && Math.random() < 0.25) {
+            npc.angle += (Math.random() > 0.5 ? 1 : -1) * Math.PI / 2;
+            npc.aiTimer = 3;
+          }
+        }
+      }
+      // Move NPC
+      if (Math.abs(npc.speed) > 0.1) {
+        const nnx = npc.x + nfx * npc.speed * dt, nnz = npc.z + nfz * npc.speed * dt;
+        if (!solidBox(nnx, nnz, 0.8, 1.4)) { npc.x = nnx; npc.z = nnz; }
+        else npc.speed *= 0.3;
+      }
+      npc.x = Math.max(2, Math.min(WW - 2, npc.x));
+      npc.z = Math.max(2, Math.min(WD - 2, npc.z));
     }
 
     // ── Update HUD position data (for mini-map) ──
@@ -889,7 +987,7 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
   return (
     <>
       <color attach="background" args={["#141828"]} />
-      <fog ref={fogRef} attach="fog" args={["#141828", 120, 320]} />
+      <fog ref={fogRef} attach="fog" args={["#141828", 150, 400]} />
       <ambientLight ref={ambLightRef} intensity={1.8} color="#aabbee" />
       <hemisphereLight args={["#6688cc", "#334466", 0.9]} />
       <directionalLight position={[80, 120, 60]} intensity={2.2} color="#eef0ff" />
@@ -1308,6 +1406,7 @@ export default function CityDrivePage() {
   const nitroActiveRef = useRef(false);
   const hudRef = useRef<HudData>({ score: 0, missions: 0, inCar: -1, speed: 0, carColor: "#fff", msg: "", msgT: 0, px: 4, pz: 4, angle: 0, nitro: NITRO_MAX, nitroActive: false, drifting: false, driftScore: 0, shake: 0, weather: 0 });
   const missionsRef = useRef<MissionData[]>([]);
+  const carsDataRef = useRef<CarData[]>([]);
   const gameDataRef = useRef<SaveData | null>(null);
 
   useEffect(() => {
@@ -1366,8 +1465,8 @@ export default function CityDrivePage() {
 
   return (
     <div className="fixed inset-0 bg-[#0a0e1a] overflow-hidden select-none" style={{ touchAction: "none" }}>
-      <Canvas camera={{ fov: 65, near: 0.1, far: 350, position: [4, 8, -8] }} dpr={[1, 1.5]} gl={{ powerPreference: "high-performance", antialias: false }}>
-        <GameScene running={gameState === "playing"} resuming={resuming} keysRef={keysRef} touchRef={touchRef} actionRef={actionRef} brakeRef={brakeRef} nitroActiveRef={nitroActiveRef} hudRef={hudRef} missionsRef={missionsRef} gameDataRef={gameDataRef} onEnd={endGame} />
+      <Canvas camera={{ fov: 65, near: 0.1, far: 450, position: [4, 8, -8] }} dpr={[1, 1.5]} gl={{ powerPreference: "high-performance", antialias: false }}>
+        <GameScene running={gameState === "playing"} resuming={resuming} keysRef={keysRef} touchRef={touchRef} actionRef={actionRef} brakeRef={brakeRef} nitroActiveRef={nitroActiveRef} hudRef={hudRef} missionsRef={missionsRef} gameDataRef={gameDataRef} carsDataRef={carsDataRef} onEnd={endGame} />
       </Canvas>
 
       {/* HUD overlay */}
@@ -1385,7 +1484,7 @@ export default function CityDrivePage() {
           </div>
 
           {/* Mini-map */}
-          <MiniMap hudRef={hudRef} missionsRef={missionsRef} />
+          <MiniMap hudRef={hudRef} missionsRef={missionsRef} carsRef={carsDataRef} />
 
           {/* Speed gauge + Nitro bar */}
           {hud.inCar >= 0 && (
