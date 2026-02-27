@@ -24,6 +24,7 @@ interface CarData {
   maxSpeed: number; accel: number; handling: number;
   color: string; name: string;
   isNPC: boolean; pushVx: number; pushVz: number; aiTimer: number;
+  slowTimer: number; origMaxSpeed: number;
 }
 interface MissionData {
   id: number; type: "delivery" | "parking" | "coins";
@@ -156,17 +157,18 @@ function genTrees(): TreeDef[] {
 const NPC_COLORS = ["#00D4FF","#FFD700","#00FF88","#B44DFF","#FF6B00","#44FFCC","#FF8888","#88CCFF","#DDAA44","#77DD77","#DD77DD","#77DDDD"];
 const NPC_NAMES = ["Sedan","Sedan","Truck","Taxi","Sedan","Sedan","Truck","Sedan","Taxi","Sedan","Sedan","Truck"];
 function initCars(): CarData[] {
-  const base = { pushVx: 0, pushVz: 0, aiTimer: 0 };
-  const playerCar: CarData = { x: 1 * T, z: 1 * T, angle: 0, speed: 0, maxSpeed: 40, accel: 25, handling: 3.0, color: "#FF2D55", name: "Sport", isNPC: false, ...base };
+  const base = { pushVx: 0, pushVz: 0, aiTimer: 0, slowTimer: 0, origMaxSpeed: 0 };
+  const playerCar: CarData = { x: 1 * T, z: 1 * T, angle: 0, speed: 0, maxSpeed: 40, accel: 25, handling: 3.0, color: "#FF2D55", name: "Sport", isNPC: false, ...base, origMaxSpeed: 40 };
   const dirs = [0, Math.PI / 2, Math.PI, Math.PI * 1.5];
   const npcs: CarData[] = [];
   for (let i = 0; i < NPC_COUNT; i++) {
     const bx = (i * 2 + 1) % BLOCKS_X, bz = (i * 3 + 1) % BLOCKS_Z;
     // Spawn NPC on road: tile 1 of the block (center of 3-tile road)
+    const ms = 10 + (i % 5) * 3;
     npcs.push({
       x: (bx * BLOCK + 1) * T, z: (bz * BLOCK + 1) * T, angle: dirs[i % 4],
-      speed: 0, maxSpeed: 10 + (i % 5) * 3, accel: 12, handling: 2.0,
-      color: NPC_COLORS[i], name: NPC_NAMES[i], isNPC: true, ...base,
+      speed: 0, maxSpeed: ms, accel: 12, handling: 2.0,
+      color: NPC_COLORS[i], name: NPC_NAMES[i], isNPC: true, ...base, origMaxSpeed: ms,
     });
   }
   return [playerCar, ...npcs];
@@ -758,7 +760,7 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
         // Drift: very light braking — keep momentum while sliding
         car.speed *= 0.993;
         if (!ds.active) { ds.active = true; ds.score = 0; }
-        ds.score += Math.abs(car.speed) * dt * 3;
+        ds.score = Math.min(10, ds.score + Math.abs(car.speed) * dt * 0.5);
         ds.timer = 1.5;
         // Tire marks during drift
         const tm = tireMarks.current;
@@ -818,7 +820,7 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
         p.inCar = -1; car.speed = 0; hud.inCar = -1;
         hud.msg = "Exited!"; hud.msgT = 2;
       }
-      // Player car → NPC collision (push)
+      // Player car → NPC collision (push + slow NPC for ~60s)
       for (let i = 0; i < carsRef.current.length; i++) {
         if (i === p.inCar) continue;
         const npc = carsRef.current[i];
@@ -830,6 +832,11 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
           npc.pushVz += (ddz / dist) * push;
           car.speed *= 0.85;
           shakeRef.current = Math.max(shakeRef.current, 0.4);
+          // Slow NPC to walkable speed for 60 seconds
+          if (Math.abs(car.speed) > 5) {
+            npc.slowTimer = 60;
+            npc.maxSpeed = 4; // ~walking speed so player can catch up on foot
+          }
         }
       }
     } else {
@@ -870,6 +877,14 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
         const pnx = npc.x + npc.pushVx * dt, pnz = npc.z + npc.pushVz * dt;
         if (!solidBox(pnx, pnz, 0.8, 1.4)) { npc.x = pnx; npc.z = pnz; }
         npc.pushVx *= 0.90; npc.pushVz *= 0.90;
+      }
+      // Slow timer countdown — restore speed after collision cooldown
+      if (npc.slowTimer > 0) {
+        npc.slowTimer -= dt;
+        if (npc.slowTimer <= 0) {
+          npc.maxSpeed = npc.origMaxSpeed;
+          npc.slowTimer = 0;
+        }
       }
       const nfx = Math.sin(npc.angle), nfz = Math.cos(npc.angle);
       // Check for player ahead (stop for pedestrian)
@@ -984,7 +999,7 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
         for (let i = m.coins.length - 1; i >= 0; i--) {
           if (Math.sqrt((p.x - m.coins[i].x) ** 2 + (p.z - m.coins[i].z) ** 2) < 3) {
             m.coins.splice(i, 1); m.coinsLeft = m.coins.length; hud.score += 10;
-            hud.msg = `🪙 ${m.coins.length} left`; hud.msgT = 2;
+            hud.msg = `🪙 ${5 - m.coins.length}/5 coins (+10)`; hud.msgT = 2;
           }
         }
         if (m.coins.length === 0 && !m.completed) {
@@ -1425,8 +1440,7 @@ export default function CityDrivePage() {
             {missionsRef.current?.filter(m => !m.completed).map(m => (
               <div key={m.id} className="bg-black/60 backdrop-blur-sm rounded-lg px-2 py-1 border border-white/10 text-[10px]">
                 <span className="text-white/80">
-                  {m.type === "delivery" ? "📦" : m.type === "parking" ? "🅿️" : "🪙"} {m.label}
-                  {m.coinsLeft !== undefined ? ` (${m.coinsLeft})` : ""}
+                  {m.type === "delivery" ? (m.pickedUp ? "📦 Deliver!" : "📦 Pick up") : m.type === "parking" ? "🅿️ Park here" : `🪙 ${5 - (m.coinsLeft ?? 5)}/5 coins`}
                 </span>
               </div>
             ))}
