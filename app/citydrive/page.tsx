@@ -13,6 +13,8 @@ import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
 import { getSkinDef, getActiveSkin } from "@/lib/skins";
+import { getActive as getClothingActive, getTopDef, getBottomDef, getShoeDef as getShoeItemDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
+import { getFaceDef, getActiveFace } from "@/lib/faces";
 
 // ═══════════════════════════════════════════════
 //  TYPES
@@ -486,11 +488,27 @@ function PlayerCharacter({ plRef, prevPos }: PlayerCharProps) {
   const walkCycleRef = useRef(0);
 
   const skin = useMemo(() => getSkinDef(getActiveSkin()), []);
-  const bodyMat = useMemo(() => new THREE.MeshStandardMaterial({ color: skin.bodyColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity }), [skin]);
+  const topDef = useMemo(() => { const id = getClothingActive("top"); return id ? getTopDef(id) : null; }, []);
+  const bottomDef = useMemo(() => { const id = getClothingActive("bottom"); return id ? getBottomDef(id) : null; }, []);
+  const shoeItemDef = useMemo(() => { const id = getClothingActive("shoe"); return id ? getShoeItemDef(id) : null; }, []);
+  const capeDef = useMemo(() => { const id = getClothingActive("cape"); return id ? getCapeDef(id) : null; }, []);
+  const glassesDef = useMemo(() => { const id = getClothingActive("glasses"); return id ? getGlassesDef(id) : null; }, []);
+  const gloveDef = useMemo(() => { const id = getClothingActive("gloves"); return id ? getGloveDef(id) : null; }, []);
+  const face = useMemo(() => getFaceDef(getActiveFace()), []);
+
+  const bodyColor = topDef ? topDef.color : skin.bodyColor;
+  const legColor = bottomDef ? bottomDef.color : skin.limbColor;
+  const shoeColor = shoeItemDef ? shoeItemDef.color : skin.shoeColor;
+
+  const bodyMat = useMemo(() => new THREE.MeshStandardMaterial({ color: bodyColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity }), [skin, bodyColor]);
   const headMat = useMemo(() => new THREE.MeshStandardMaterial({ color: skin.headColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity + 0.1 }), [skin]);
-  const limbMat = useMemo(() => new THREE.MeshStandardMaterial({ color: skin.limbColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity * 0.6 }), [skin]);
-  const eyeMat = useMemo(() => new THREE.MeshStandardMaterial({ color: skin.id === "robot" ? "#00FF00" : "#0A0A1A", emissive: skin.id === "robot" ? "#00FF00" : "#000000", emissiveIntensity: skin.id === "robot" ? 0.8 : 0 }), [skin]);
-  const shoeMat = useMemo(() => new THREE.MeshStandardMaterial({ color: skin.shoeColor, emissive: skin.emissive, emissiveIntensity: 0.15 }), [skin]);
+  const limbMat = useMemo(() => new THREE.MeshStandardMaterial({ color: legColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity * 0.6 }), [skin, legColor]);
+  const armMat = useMemo(() => new THREE.MeshStandardMaterial({ color: topDef ? topDef.color : skin.limbColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity * 0.6 }), [skin, topDef]);
+  const eyeMat = useMemo(() => new THREE.MeshStandardMaterial({ color: face.eyeColor || (skin.id === "robot" ? "#00FF00" : "#0A0A1A"), emissive: face.eyeColor || (skin.id === "robot" ? "#00FF00" : "#000000"), emissiveIntensity: face.eyeType === "star" || face.eyeType === "heart" || skin.id === "robot" ? 0.8 : 0 }), [skin, face]);
+  const mouthMat = useMemo(() => new THREE.MeshStandardMaterial({ color: face.mouthColor || "#0A0A1A" }), [face]);
+  const shoeMat = useMemo(() => new THREE.MeshStandardMaterial({ color: shoeColor, emissive: skin.emissive, emissiveIntensity: 0.15 }), [skin, shoeColor]);
+  const gloveMat = useMemo(() => gloveDef ? new THREE.MeshStandardMaterial({ color: gloveDef.color, emissive: skin.emissive, emissiveIntensity: 0.2 }) : null, [skin, gloveDef]);
+  const capeMat = useMemo(() => capeDef ? new THREE.MeshStandardMaterial({ color: capeDef.color, emissive: capeDef.emissive, emissiveIntensity: capeDef.emissiveIntensity, side: THREE.DoubleSide }) : null, [capeDef]);
 
   useFrame((_, delta) => {
     const p = plRef.current;
@@ -528,46 +546,134 @@ function PlayerCharacter({ plRef, prevPos }: PlayerCharProps) {
         <mesh position={[0, 0.82, 0]} material={headMat}>
           <boxGeometry args={[0.36, 0.36, 0.36]} />
         </mesh>
-        {/* Eyes */}
-        <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}>
-          <boxGeometry args={[0.07, 0.07, 0.02]} />
-        </mesh>
-        <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}>
-          <boxGeometry args={[0.07, 0.07, 0.02]} />
-        </mesh>
+        {/* Face: Eyes */}
+        {face.eyeType === "dot" && (<>
+          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.07, 0.07, 0.02]} /></mesh>
+          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.07, 0.07, 0.02]} /></mesh>
+        </>)}
+        {face.eyeType === "round" && (<>
+          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}><sphereGeometry args={[0.045, 8, 8]} /></mesh>
+          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}><sphereGeometry args={[0.045, 8, 8]} /></mesh>
+        </>)}
+        {face.eyeType === "happy" && (<>
+          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.08, 0.03, 0.02]} /></mesh>
+          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.08, 0.03, 0.02]} /></mesh>
+        </>)}
+        {face.eyeType === "angry" && (<>
+          <mesh position={[0.08, 0.86, 0.18]} material={eyeMat} rotation={[0, 0, -0.3]}><boxGeometry args={[0.09, 0.04, 0.02]} /></mesh>
+          <mesh position={[-0.08, 0.86, 0.18]} material={eyeMat} rotation={[0, 0, 0.3]}><boxGeometry args={[0.09, 0.04, 0.02]} /></mesh>
+        </>)}
+        {face.eyeType === "sad" && (<>
+          <mesh position={[0.08, 0.86, 0.18]} material={eyeMat} rotation={[0, 0, 0.2]}><boxGeometry args={[0.08, 0.04, 0.02]} /></mesh>
+          <mesh position={[-0.08, 0.86, 0.18]} material={eyeMat} rotation={[0, 0, -0.2]}><boxGeometry args={[0.08, 0.04, 0.02]} /></mesh>
+        </>)}
+        {face.eyeType === "star" && (<>
+          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.06, 0.06, 0.02]} /></mesh>
+          <mesh position={[0.08, 0.85, 0.185]} material={eyeMat} rotation={[0, 0, Math.PI / 4]}><boxGeometry args={[0.06, 0.06, 0.02]} /></mesh>
+          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.06, 0.06, 0.02]} /></mesh>
+          <mesh position={[-0.08, 0.85, 0.185]} material={eyeMat} rotation={[0, 0, Math.PI / 4]}><boxGeometry args={[0.06, 0.06, 0.02]} /></mesh>
+        </>)}
+        {face.eyeType === "heart" && (<>
+          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}><sphereGeometry args={[0.04, 6, 6]} /></mesh>
+          <mesh position={[0.06, 0.87, 0.18]} material={eyeMat}><sphereGeometry args={[0.025, 6, 6]} /></mesh>
+          <mesh position={[0.10, 0.87, 0.18]} material={eyeMat}><sphereGeometry args={[0.025, 6, 6]} /></mesh>
+          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}><sphereGeometry args={[0.04, 6, 6]} /></mesh>
+          <mesh position={[-0.06, 0.87, 0.18]} material={eyeMat}><sphereGeometry args={[0.025, 6, 6]} /></mesh>
+          <mesh position={[-0.10, 0.87, 0.18]} material={eyeMat}><sphereGeometry args={[0.025, 6, 6]} /></mesh>
+        </>)}
+        {face.eyeType === "x" && (<>
+          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat} rotation={[0, 0, Math.PI / 4]}><boxGeometry args={[0.08, 0.02, 0.02]} /></mesh>
+          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat} rotation={[0, 0, -Math.PI / 4]}><boxGeometry args={[0.08, 0.02, 0.02]} /></mesh>
+          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat} rotation={[0, 0, Math.PI / 4]}><boxGeometry args={[0.08, 0.02, 0.02]} /></mesh>
+          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat} rotation={[0, 0, -Math.PI / 4]}><boxGeometry args={[0.08, 0.02, 0.02]} /></mesh>
+        </>)}
+        {face.eyeType === "wink" && (<>
+          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.08, 0.03, 0.02]} /></mesh>
+          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.07, 0.07, 0.02]} /></mesh>
+        </>)}
+        {/* Face: Mouth */}
+        {face.mouthType === "smile" && <mesh position={[0, 0.74, 0.18]} material={mouthMat}><boxGeometry args={[0.12, 0.02, 0.02]} /></mesh>}
+        {face.mouthType === "grin" && <mesh position={[0, 0.74, 0.18]} material={mouthMat}><boxGeometry args={[0.16, 0.04, 0.02]} /></mesh>}
+        {face.mouthType === "sad" && <mesh position={[0, 0.73, 0.18]} material={mouthMat}><boxGeometry args={[0.10, 0.02, 0.02]} /></mesh>}
+        {face.mouthType === "neutral" && <mesh position={[0, 0.74, 0.18]} material={mouthMat}><boxGeometry args={[0.08, 0.02, 0.02]} /></mesh>}
+        {face.mouthType === "open" && <mesh position={[0, 0.73, 0.18]} material={mouthMat}><boxGeometry args={[0.08, 0.06, 0.02]} /></mesh>}
+        {face.mouthType === "tongue" && (<>
+          <mesh position={[0, 0.74, 0.18]} material={mouthMat}><boxGeometry args={[0.12, 0.02, 0.02]} /></mesh>
+          <mesh position={[0, 0.72, 0.19]}><boxGeometry args={[0.06, 0.04, 0.02]} /><meshStandardMaterial color={face.mouthColor} /></mesh>
+        </>)}
+        {face.mouthType === "cat" && (<>
+          <mesh position={[0.04, 0.74, 0.18]} material={mouthMat} rotation={[0, 0, 0.3]}><boxGeometry args={[0.06, 0.015, 0.02]} /></mesh>
+          <mesh position={[-0.04, 0.74, 0.18]} material={mouthMat} rotation={[0, 0, -0.3]}><boxGeometry args={[0.06, 0.015, 0.02]} /></mesh>
+        </>)}
+        {face.mouthType === "fangs" && (<>
+          <mesh position={[0, 0.74, 0.18]} material={mouthMat}><boxGeometry args={[0.14, 0.03, 0.02]} /></mesh>
+          <mesh position={[0.04, 0.72, 0.18]}><boxGeometry args={[0.02, 0.04, 0.02]} /><meshStandardMaterial color="#FFFFFF" /></mesh>
+          <mesh position={[-0.04, 0.72, 0.18]}><boxGeometry args={[0.02, 0.04, 0.02]} /><meshStandardMaterial color="#FFFFFF" /></mesh>
+        </>)}
+        {/* Face: Blush */}
+        {face.blush && (<>
+          <mesh position={[0.14, 0.8, 0.16]}><boxGeometry args={[0.06, 0.04, 0.02]} /><meshStandardMaterial color={face.blushColor || "#FF9999"} transparent opacity={0.5} /></mesh>
+          <mesh position={[-0.14, 0.8, 0.16]}><boxGeometry args={[0.06, 0.04, 0.02]} /><meshStandardMaterial color={face.blushColor || "#FF9999"} transparent opacity={0.5} /></mesh>
+        </>)}
+        {/* Glasses */}
+        {glassesDef && glassesDef.type === "sunglasses" && (
+          <group position={[0, 0.85, 0.19]}>
+            <mesh position={[0.08, 0, 0]}><boxGeometry args={[0.09, 0.06, 0.02]} /><meshStandardMaterial color={glassesDef.lensColor} /></mesh>
+            <mesh position={[-0.08, 0, 0]}><boxGeometry args={[0.09, 0.06, 0.02]} /><meshStandardMaterial color={glassesDef.lensColor} /></mesh>
+            <mesh><boxGeometry args={[0.04, 0.015, 0.01]} /><meshStandardMaterial color={glassesDef.color} /></mesh>
+          </group>
+        )}
+        {glassesDef && glassesDef.type === "round" && (
+          <group position={[0, 0.85, 0.19]}>
+            <mesh position={[0.08, 0, 0]}><sphereGeometry args={[0.04, 8, 8]} /><meshStandardMaterial color={glassesDef.lensColor} transparent opacity={0.4} /></mesh>
+            <mesh position={[-0.08, 0, 0]}><sphereGeometry args={[0.04, 8, 8]} /><meshStandardMaterial color={glassesDef.lensColor} transparent opacity={0.4} /></mesh>
+            <mesh><boxGeometry args={[0.03, 0.01, 0.01]} /><meshStandardMaterial color={glassesDef.color} /></mesh>
+          </group>
+        )}
+        {glassesDef && glassesDef.type === "visor" && (
+          <mesh position={[0, 0.85, 0.19]}><boxGeometry args={[0.3, 0.08, 0.02]} /><meshStandardMaterial color={glassesDef.lensColor} emissive={glassesDef.color} emissiveIntensity={0.5} transparent opacity={0.7} /></mesh>
+        )}
+        {glassesDef && glassesDef.type === "monocle" && (
+          <group position={[0.08, 0.85, 0.19]}>
+            <mesh><sphereGeometry args={[0.04, 8, 8]} /><meshStandardMaterial color={glassesDef.lensColor} transparent opacity={0.3} /></mesh>
+            <mesh rotation={[Math.PI / 2, 0, 0]}><torusGeometry args={[0.04, 0.005, 8, 12]} /><meshStandardMaterial color={glassesDef.color} /></mesh>
+          </group>
+        )}
+        {glassesDef && glassesDef.type === "thug" && (
+          <group position={[0, 0.86, 0.19]}>
+            <mesh position={[0.08, 0, 0]}><boxGeometry args={[0.10, 0.05, 0.02]} /><meshStandardMaterial color="#000000" /></mesh>
+            <mesh position={[-0.08, 0, 0]}><boxGeometry args={[0.10, 0.05, 0.02]} /><meshStandardMaterial color="#000000" /></mesh>
+            <mesh><boxGeometry args={[0.04, 0.02, 0.01]} /><meshStandardMaterial color="#000000" /></mesh>
+          </group>
+        )}
         {/* Body */}
         <mesh position={[0, 0.42, 0]} material={bodyMat}>
           <boxGeometry args={[0.38, 0.42, 0.24]} />
         </mesh>
-        {/* Left arm */}
+        {topDef && topDef.accent && (
+          <mesh position={[0, 0.6, 0.12]}><boxGeometry args={[0.2, 0.03, 0.02]} /><meshStandardMaterial color={topDef.accent} /></mesh>
+        )}
+        {/* Cape */}
+        {capeDef && capeMat && (
+          <group position={[0, 0.5, -0.14]}><mesh material={capeMat}><boxGeometry args={[0.34, 0.5, 0.03]} /></mesh></group>
+        )}
+        {/* Arms */}
         <group ref={leftArmRef} position={[0.28, 0.55, 0]}>
-          <mesh position={[0, -0.17, 0]} material={limbMat}>
-            <boxGeometry args={[0.12, 0.36, 0.12]} />
-          </mesh>
+          <mesh position={[0, -0.17, 0]} material={armMat}><boxGeometry args={[0.12, 0.36, 0.12]} /></mesh>
+          {gloveMat && <mesh position={[0, -0.33, 0]} material={gloveMat}><boxGeometry args={[0.13, 0.1, 0.13]} /></mesh>}
         </group>
-        {/* Right arm */}
         <group ref={rightArmRef} position={[-0.28, 0.55, 0]}>
-          <mesh position={[0, -0.17, 0]} material={limbMat}>
-            <boxGeometry args={[0.12, 0.36, 0.12]} />
-          </mesh>
+          <mesh position={[0, -0.17, 0]} material={armMat}><boxGeometry args={[0.12, 0.36, 0.12]} /></mesh>
+          {gloveMat && <mesh position={[0, -0.33, 0]} material={gloveMat}><boxGeometry args={[0.13, 0.1, 0.13]} /></mesh>}
         </group>
-        {/* Left leg */}
+        {/* Legs */}
         <group ref={leftLegRef} position={[0.1, 0.2, 0]}>
-          <mesh position={[0, -0.17, 0]} material={limbMat}>
-            <boxGeometry args={[0.14, 0.28, 0.14]} />
-          </mesh>
-          <mesh position={[0, -0.33, 0.02]} material={shoeMat}>
-            <boxGeometry args={[0.15, 0.08, 0.2]} />
-          </mesh>
+          <mesh position={[0, -0.17, 0]} material={limbMat}><boxGeometry args={[0.14, 0.28, 0.14]} /></mesh>
+          <mesh position={[0, -0.33, 0.02]} material={shoeMat}><boxGeometry args={[0.15, 0.08, 0.2]} /></mesh>
         </group>
-        {/* Right leg */}
         <group ref={rightLegRef} position={[-0.1, 0.2, 0]}>
-          <mesh position={[0, -0.17, 0]} material={limbMat}>
-            <boxGeometry args={[0.14, 0.28, 0.14]} />
-          </mesh>
-          <mesh position={[0, -0.33, 0.02]} material={shoeMat}>
-            <boxGeometry args={[0.15, 0.08, 0.2]} />
-          </mesh>
+          <mesh position={[0, -0.17, 0]} material={limbMat}><boxGeometry args={[0.14, 0.28, 0.14]} /></mesh>
+          <mesh position={[0, -0.33, 0.02]} material={shoeMat}><boxGeometry args={[0.15, 0.08, 0.2]} /></mesh>
         </group>
         {/* Skin glow */}
         {skin.particle && (
@@ -1022,7 +1128,7 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
       const blocked = solidBox(ax, az, 0.8, 1.4);
       if (playerAhead || blocked) {
         npc.speed *= 0.88;
-        if (blocked && npc.speed < 1) {
+        if (blocked && npc.speed < 3) {
           const la = npc.angle + Math.PI / 2, ra = npc.angle - Math.PI / 2;
           const lOk = !solidBox(npc.x + Math.sin(la) * 5, npc.z + Math.cos(la) * 5, 0.8, 1.4);
           const rOk = !solidBox(npc.x + Math.sin(ra) * 5, npc.z + Math.cos(ra) * 5, 0.8, 1.4);
@@ -1030,8 +1136,11 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
           else if (lOk) npc.angle = la;
           else if (rOk) npc.angle = ra;
           else npc.angle += Math.PI;
-          // Unstuck: give minimum speed after turning so NPC doesn't freeze
-          npc.speed = Math.max(npc.speed, npc.maxSpeed * 0.3);
+          // Only boost speed if new direction is clear
+          const newFx = Math.sin(npc.angle), newFz = Math.cos(npc.angle);
+          if (!solidBox(npc.x + newFx * 5, npc.z + newFz * 5, 0.8, 1.4)) {
+            npc.speed = Math.max(npc.speed, npc.maxSpeed * 0.4);
+          }
         }
       } else if (npcAhead) {
         // Slow down gently when another NPC is ahead

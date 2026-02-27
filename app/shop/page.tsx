@@ -11,6 +11,12 @@ import {
   getOwnedHats, getActiveHat, setActiveHat, buyHat, type HatDef,
   getOwnedTrails, getActiveTrail, setActiveTrail, buyTrail, type TrailDef,
 } from "@/lib/accessories";
+import {
+  TOPS, BOTTOMS, SHOES, CAPES, GLASSES, GLOVES,
+  getOwned, getActive, setActive, buyItem,
+  type TopDef, type BottomDef, type ShoeDef, type CapeDef, type GlassesDef, type GloveDef,
+} from "@/lib/clothing";
+import { FACES, getOwnedFaces, getActiveFace, setActiveFace, buyFace, type FaceDef } from "@/lib/faces";
 
 // ─── CAR DEFINITIONS (shared with citydrive) ────────────
 interface CarDef {
@@ -145,6 +151,22 @@ export default function ShopPage() {
   const [boughtPowerUps, setBoughtPowerUps] = useState<Record<string, number>>({});
   const [selectedCar, setSelectedCar] = useState<CarDef | null>(null);
   const [selectedSkin, setSelectedSkin] = useState<SkinDef | null>(null);
+  // Clothing & Face state
+  type SkinSub = "skin" | "face" | "top" | "bottom" | "shoe" | "cape" | "glasses" | "gloves";
+  const [skinSub, setSkinSub] = useState<SkinSub>("skin");
+  const [ownedFaces, setOwnedFaces] = useState<string[]>(["default"]);
+  const [activeFaceId, setActiveFaceId] = useState("default");
+  const [clothingOwned, setClothingOwned] = useState<Record<string, string[]>>({});
+  const [clothingActive, setClothingActive] = useState<Record<string, string | null>>({});
+
+  const refreshClothing = () => {
+    const slots = ["top", "bottom", "shoe", "cape", "glasses", "gloves"] as const;
+    const owned: Record<string, string[]> = {};
+    const active: Record<string, string | null> = {};
+    slots.forEach(s => { owned[s] = getOwned(s); active[s] = getActive(s); });
+    setClothingOwned(owned);
+    setClothingActive(active);
+  };
 
   useEffect(() => {
     setBalance(getSpecialCardCount());
@@ -156,6 +178,9 @@ export default function ShopPage() {
     setActiveTrailState(getActiveTrail());
     setOwnedCars(getOwnedCarsLS());
     setActiveCar(getActiveCarLS());
+    setOwnedFaces(getOwnedFaces());
+    setActiveFaceId(getActiveFace());
+    refreshClothing();
     const saved = localStorage.getItem("plizio_powerups");
     if (saved) setBoughtPowerUps(JSON.parse(saved));
   }, []);
@@ -280,6 +305,68 @@ export default function ShopPage() {
     setBalance(getSpecialCardCount());
     showNotif("+1 ability!");
   };
+
+  // ─── Face handler ─────────────────
+  const handleFaceAction = (face: FaceDef) => {
+    if (ownedFaces.includes(face.id)) {
+      setActiveFace(face.id);
+      setActiveFaceId(face.id);
+      showNotif("Face selected!");
+      return;
+    }
+    if (balance < face.price) { showNotif("Not enough ⭐"); return; }
+    spendSpecialCards(face.price);
+    buyFace(face.id);
+    setOwnedFaces(getOwnedFaces());
+    setActiveFace(face.id);
+    setActiveFaceId(face.id);
+    setBalance(getSpecialCardCount());
+    showNotif("Face purchased!");
+  };
+
+  // ─── Clothing handler (generic) ─────────────────
+  type ClothingSlot = "top" | "bottom" | "shoe" | "cape" | "glasses" | "gloves";
+  const handleClothingAction = (slot: ClothingSlot, itemId: string, price: number) => {
+    const owned = clothingOwned[slot] || [];
+    if (owned.includes(itemId)) {
+      // Toggle: if already active, unequip
+      if (clothingActive[slot] === itemId) {
+        setActive(slot, null);
+        refreshClothing();
+        showNotif("Unequipped!");
+      } else {
+        setActive(slot, itemId);
+        refreshClothing();
+        showNotif("Equipped!");
+      }
+      return;
+    }
+    if (price === 0) {
+      buyItem(slot, itemId);
+      setActive(slot, itemId);
+      refreshClothing();
+      showNotif("Unlocked!");
+      return;
+    }
+    if (balance < price) { showNotif("Not enough ⭐"); return; }
+    spendSpecialCards(price);
+    buyItem(slot, itemId);
+    setActive(slot, itemId);
+    refreshClothing();
+    setBalance(getSpecialCardCount());
+    showNotif("Purchased!");
+  };
+
+  const SKIN_SUBS: { id: SkinSub; label: string; icon: string }[] = [
+    { id: "skin", label: "Skin", icon: "🎨" },
+    { id: "face", label: "Face", icon: "😊" },
+    { id: "top", label: "Top", icon: "👕" },
+    { id: "bottom", label: "Pants", icon: "👖" },
+    { id: "shoe", label: "Shoes", icon: "👟" },
+    { id: "cape", label: "Cape", icon: "🦸" },
+    { id: "glasses", label: "Glasses", icon: "🕶️" },
+    { id: "gloves", label: "Gloves", icon: "🧤" },
+  ];
 
   const TABS: { id: Tab; label: string; icon: string }[] = [
     { id: "cars", label: "Cars", icon: "🏎️" },
@@ -512,50 +599,219 @@ export default function ShopPage() {
         )}
       </AnimatePresence>
 
-      {/* ═══════ SKINS TAB ═══════ */}
-      {tab === "skins" && (
-        <motion.div className="w-full max-w-md grid grid-cols-3 gap-2.5"
-          initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}>
-          {SKINS.map((skin, idx) => {
-            const owned = ownedSkins.includes(skin.id);
-            const active = activeSkin === skin.id;
-            return (
-              <motion.button
-                key={skin.id}
-                onClick={() => setSelectedSkin(skin)}
-                className={`relative bg-gradient-to-b from-white/[0.04] to-transparent border rounded-2xl p-3 flex flex-col items-center gap-2 overflow-hidden ${
-                  active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"
-                }`}
-                style={active ? { boxShadow: `0 0 20px ${skin.emissive}20` } : undefined}
-                whileHover={{ scale: 1.04 }}
-                whileTap={{ scale: 0.96 }}
-                initial={{ opacity: 0, scale: 0.9 }}
-                animate={{ opacity: 1, scale: 1 }}
-                transition={{ delay: idx * 0.03 }}
-              >
-                {/* Skin figure */}
-                <SkinPreview skin={skin} size={52} />
-                {/* Name */}
-                <span className="text-white/50 text-[9px] font-bold capitalize">{skin.id === "default" ? "Classic" : skin.id}</span>
-                {/* Status */}
-                {active ? (
-                  <div className="flex items-center gap-0.5">
-                    <Check size={10} className="text-[#E040FB]" />
-                    <span className="text-[#E040FB] text-[8px] font-black">ACTIVE</span>
+      {/* ═══════ SKINS TAB (with sub-categories) ═══════ */}
+      {tab === "skins" && (<>
+        {/* Sub-tabs */}
+        <div className="flex gap-1 overflow-x-auto max-w-md w-full pb-1 scrollbar-hide">
+          {SKIN_SUBS.map(s => (
+            <button key={s.id} onClick={() => setSkinSub(s.id)}
+              className={`px-2.5 py-1.5 rounded-lg text-[10px] font-bold border shrink-0 transition-all flex items-center gap-1 ${
+                skinSub === s.id ? "bg-[#E040FB]/10 border-[#E040FB]/25 text-[#E040FB]" : "bg-white/3 border-white/5 text-white/20"
+              }`}>
+              <span>{s.icon}</span><span>{s.label}</span>
+            </button>
+          ))}
+        </div>
+
+        {/* ── Skin sub ── */}
+        {skinSub === "skin" && (
+          <motion.div className="w-full max-w-md grid grid-cols-3 gap-2.5" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {SKINS.map((skin, idx) => {
+              const owned = ownedSkins.includes(skin.id);
+              const active = activeSkin === skin.id;
+              return (
+                <motion.button key={skin.id} onClick={() => setSelectedSkin(skin)}
+                  className={`bg-gradient-to-b from-white/[0.04] to-transparent border rounded-2xl p-3 flex flex-col items-center gap-2 ${active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"}`}
+                  style={active ? { boxShadow: `0 0 20px ${skin.emissive}20` } : undefined}
+                  whileTap={{ scale: 0.96 }} initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: idx * 0.02 }}>
+                  <SkinPreview skin={skin} size={52} />
+                  <span className="text-white/50 text-[9px] font-bold capitalize">{skin.id === "default" ? "Classic" : skin.id}</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />ACTIVE</span>
+                    : owned ? <span className="text-white/20 text-[8px] font-bold">TAP</span>
+                    : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{skin.price}</span>}
+                </motion.button>
+              );
+            })}
+          </motion.div>
+        )}
+
+        {/* ── Face sub ── */}
+        {skinSub === "face" && (
+          <motion.div className="w-full max-w-md grid grid-cols-3 gap-2.5" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {FACES.map((face, idx) => {
+              const owned = ownedFaces.includes(face.id);
+              const active = activeFaceId === face.id;
+              return (
+                <motion.button key={face.id} onClick={() => handleFaceAction(face)}
+                  className={`bg-gradient-to-b from-white/[0.04] to-transparent border rounded-2xl p-3 flex flex-col items-center gap-2 ${active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"}`}
+                  style={active ? { boxShadow: "0 0 15px rgba(224,64,251,0.15)" } : undefined}
+                  whileTap={{ scale: 0.96 }} initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: idx * 0.02 }}>
+                  <div className="text-3xl">{face.icon}</div>
+                  <span className="text-white/50 text-[9px] font-bold">{face.name}</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />ACTIVE</span>
+                    : owned ? <span className="text-white/20 text-[8px] font-bold">TAP</span>
+                    : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{face.price}</span>}
+                </motion.button>
+              );
+            })}
+          </motion.div>
+        )}
+
+        {/* ── Top sub ── */}
+        {skinSub === "top" && (
+          <motion.div className="w-full max-w-md grid grid-cols-2 gap-2.5" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {TOPS.map((item, idx) => {
+              const owned = (clothingOwned["top"] || []).includes(item.id);
+              const active = clothingActive["top"] === item.id;
+              return (
+                <motion.button key={item.id} onClick={() => handleClothingAction("top", item.id, item.price)}
+                  className={`bg-gradient-to-r from-white/[0.04] to-transparent border rounded-2xl p-3 flex items-center gap-3 ${active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"}`}
+                  whileTap={{ scale: 0.97 }} initial={{ opacity: 0, x: -10 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: idx * 0.02 }}>
+                  <div className="w-10 h-10 rounded-xl flex items-center justify-center" style={{ background: `${item.color}20`, border: `2px solid ${item.color}40` }}>
+                    <div className="w-6 h-5 rounded-sm" style={{ backgroundColor: item.color }} />
                   </div>
-                ) : owned ? (
-                  <span className="text-white/20 text-[8px] font-bold">TAP</span>
-                ) : (
-                  <div className="flex items-center gap-0.5">
-                    <Star size={8} className="text-[#E040FB]" fill="#E040FB" />
-                    <span className="text-[#E040FB] text-[9px] font-black">{skin.price}</span>
+                  <div className="flex-1 min-w-0 text-left">
+                    <span className="text-white/70 text-xs font-bold block">{item.name}</span>
+                    <span className="text-white/20 text-[9px] capitalize">{item.type}</span>
                   </div>
-                )}
-              </motion.button>
-            );
-          })}
-        </motion.div>
-      )}
+                  {active ? <Check size={14} className="text-[#E040FB]" />
+                    : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
+                    : item.price === 0 ? <span className="text-green-400/60 text-[9px] font-bold">FREE</span>
+                    : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
+                </motion.button>
+              );
+            })}
+          </motion.div>
+        )}
+
+        {/* ── Bottom sub ── */}
+        {skinSub === "bottom" && (
+          <motion.div className="w-full max-w-md grid grid-cols-2 gap-2.5" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {BOTTOMS.map((item, idx) => {
+              const owned = (clothingOwned["bottom"] || []).includes(item.id);
+              const active = clothingActive["bottom"] === item.id;
+              return (
+                <motion.button key={item.id} onClick={() => handleClothingAction("bottom", item.id, item.price)}
+                  className={`bg-gradient-to-r from-white/[0.04] to-transparent border rounded-2xl p-3 flex items-center gap-3 ${active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"}`}
+                  whileTap={{ scale: 0.97 }} initial={{ opacity: 0, x: -10 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: idx * 0.02 }}>
+                  <div className="w-10 h-10 rounded-xl flex items-center justify-center" style={{ background: `${item.color}20`, border: `2px solid ${item.color}40` }}>
+                    <div className="w-6 h-5 rounded-sm" style={{ backgroundColor: item.color }} />
+                  </div>
+                  <div className="flex-1 min-w-0 text-left">
+                    <span className="text-white/70 text-xs font-bold block">{item.name}</span>
+                    <span className="text-white/20 text-[9px] capitalize">{item.type}</span>
+                  </div>
+                  {active ? <Check size={14} className="text-[#E040FB]" />
+                    : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
+                    : item.price === 0 ? <span className="text-green-400/60 text-[9px] font-bold">FREE</span>
+                    : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
+                </motion.button>
+              );
+            })}
+          </motion.div>
+        )}
+
+        {/* ── Shoe sub ── */}
+        {skinSub === "shoe" && (
+          <motion.div className="w-full max-w-md grid grid-cols-2 gap-2.5" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {SHOES.map((item, idx) => {
+              const owned = (clothingOwned["shoe"] || []).includes(item.id);
+              const active = clothingActive["shoe"] === item.id;
+              return (
+                <motion.button key={item.id} onClick={() => handleClothingAction("shoe", item.id, item.price)}
+                  className={`bg-gradient-to-r from-white/[0.04] to-transparent border rounded-2xl p-3 flex items-center gap-3 ${active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"}`}
+                  whileTap={{ scale: 0.97 }} initial={{ opacity: 0, x: -10 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: idx * 0.02 }}>
+                  <div className="w-10 h-10 rounded-xl flex items-center justify-center text-xl" style={{ background: `${item.color}15` }}>
+                    {item.icon}
+                  </div>
+                  <div className="flex-1 min-w-0 text-left">
+                    <span className="text-white/70 text-xs font-bold block">{item.name}</span>
+                    <span className="text-white/20 text-[9px] capitalize">{item.type}</span>
+                  </div>
+                  {active ? <Check size={14} className="text-[#E040FB]" />
+                    : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
+                    : item.price === 0 ? <span className="text-green-400/60 text-[9px] font-bold">FREE</span>
+                    : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
+                </motion.button>
+              );
+            })}
+          </motion.div>
+        )}
+
+        {/* ── Cape sub ── */}
+        {skinSub === "cape" && (
+          <motion.div className="w-full max-w-md grid grid-cols-2 gap-2.5" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {CAPES.map((item, idx) => {
+              const owned = (clothingOwned["cape"] || []).includes(item.id);
+              const active = clothingActive["cape"] === item.id;
+              return (
+                <motion.button key={item.id} onClick={() => handleClothingAction("cape", item.id, item.price)}
+                  className={`bg-gradient-to-b from-white/[0.04] to-transparent border rounded-2xl p-3 flex flex-col items-center gap-2 ${active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"}`}
+                  style={active ? { boxShadow: `0 0 12px ${item.emissive}25` } : undefined}
+                  whileTap={{ scale: 0.96 }} initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: idx * 0.03 }}>
+                  <div className="text-2xl">{item.icon}</div>
+                  <span className="text-white/50 text-[9px] font-bold">{item.name}</span>
+                  <div className="w-8 h-12 rounded-md" style={{ background: `linear-gradient(180deg, ${item.color}, ${item.color}80)`, boxShadow: `0 0 8px ${item.emissive}30` }} />
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />EQUIPPED</span>
+                    : owned ? <span className="text-white/20 text-[8px] font-bold">EQUIP</span>
+                    : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
+                </motion.button>
+              );
+            })}
+          </motion.div>
+        )}
+
+        {/* ── Glasses sub ── */}
+        {skinSub === "glasses" && (
+          <motion.div className="w-full max-w-md grid grid-cols-2 gap-2.5" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {GLASSES.map((item, idx) => {
+              const owned = (clothingOwned["glasses"] || []).includes(item.id);
+              const active = clothingActive["glasses"] === item.id;
+              return (
+                <motion.button key={item.id} onClick={() => handleClothingAction("glasses", item.id, item.price)}
+                  className={`bg-gradient-to-r from-white/[0.04] to-transparent border rounded-2xl p-3 flex items-center gap-3 ${active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"}`}
+                  whileTap={{ scale: 0.97 }} initial={{ opacity: 0, x: -10 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: idx * 0.02 }}>
+                  <div className="w-10 h-10 rounded-xl flex items-center justify-center text-xl" style={{ background: `${item.color}15` }}>
+                    {item.icon}
+                  </div>
+                  <div className="flex-1 min-w-0 text-left">
+                    <span className="text-white/70 text-xs font-bold block">{item.name}</span>
+                    <span className="text-white/20 text-[9px] capitalize">{item.type}</span>
+                  </div>
+                  {active ? <Check size={14} className="text-[#E040FB]" />
+                    : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
+                    : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
+                </motion.button>
+              );
+            })}
+          </motion.div>
+        )}
+
+        {/* ── Gloves sub ── */}
+        {skinSub === "gloves" && (
+          <motion.div className="w-full max-w-md grid grid-cols-2 gap-2.5" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {GLOVES.map((item, idx) => {
+              const owned = (clothingOwned["gloves"] || []).includes(item.id);
+              const active = clothingActive["gloves"] === item.id;
+              return (
+                <motion.button key={item.id} onClick={() => handleClothingAction("gloves", item.id, item.price)}
+                  className={`bg-gradient-to-r from-white/[0.04] to-transparent border rounded-2xl p-3 flex items-center gap-3 ${active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"}`}
+                  whileTap={{ scale: 0.97 }} initial={{ opacity: 0, x: -10 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: idx * 0.02 }}>
+                  <div className="w-10 h-10 rounded-xl flex items-center justify-center text-xl" style={{ background: `${item.color}15` }}>
+                    {item.icon}
+                  </div>
+                  <div className="flex-1 min-w-0 text-left">
+                    <span className="text-white/70 text-xs font-bold block">{item.name}</span>
+                  </div>
+                  {active ? <Check size={14} className="text-[#E040FB]" />
+                    : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
+                    : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
+                </motion.button>
+              );
+            })}
+          </motion.div>
+        )}
+      </>)}
 
       {/* ═══════ SKIN DETAIL MODAL ═══════ */}
       <AnimatePresence>
@@ -569,7 +825,6 @@ export default function ShopPage() {
               <button onClick={() => setSelectedSkin(null)} className="absolute top-3 right-3 z-10 w-8 h-8 rounded-full bg-white/5 flex items-center justify-center">
                 <X size={14} className="text-white/40" />
               </button>
-              {/* Skin visual */}
               <div className="relative h-40 flex items-center justify-center"
                 style={{ background: `radial-gradient(circle at 50% 60%, ${selectedSkin.emissive}15, transparent 70%)` }}>
                 <SkinPreview skin={selectedSkin} size={120} />
@@ -577,7 +832,6 @@ export default function ShopPage() {
               <div className="px-5 pb-5 -mt-2 text-center">
                 <div className="text-3xl mb-1">{selectedSkin.icon}</div>
                 <h2 className="text-white font-black text-lg capitalize">{selectedSkin.id === "default" ? "Classic" : selectedSkin.id}</h2>
-                {/* Color palette */}
                 <div className="flex items-center justify-center gap-2 mt-3 mb-4">
                   {[selectedSkin.bodyColor, selectedSkin.headColor, selectedSkin.limbColor, selectedSkin.emissive].map((c, i) => (
                     <div key={i} className="w-6 h-6 rounded-full border border-white/10" style={{ backgroundColor: c, boxShadow: i === 3 ? `0 0 8px ${c}60` : undefined }} />
@@ -589,30 +843,21 @@ export default function ShopPage() {
                     <span className="text-white/30 text-[10px]">Particle effects</span>
                   </div>
                 )}
-                {/* Action */}
                 {(() => {
                   const owned = ownedSkins.includes(selectedSkin.id);
                   const active = activeSkin === selectedSkin.id;
                   if (active) return (
                     <div className="w-full py-3 rounded-xl bg-[#E040FB]/10 border border-[#E040FB]/20 text-center">
-                      <span className="text-[#E040FB] font-bold text-sm flex items-center justify-center gap-2">
-                        <Check size={16} /> Active
-                      </span>
+                      <span className="text-[#E040FB] font-bold text-sm flex items-center justify-center gap-2"><Check size={16} /> Active</span>
                     </div>
                   );
                   return (
                     <motion.button onClick={() => handleBuySkin(selectedSkin)}
                       className="w-full py-3 rounded-xl font-bold text-sm border transition-all"
-                      style={{
-                        background: owned ? `${selectedSkin.emissive}15` : `linear-gradient(135deg, ${selectedSkin.emissive}30, ${selectedSkin.emissive}10)`,
-                        borderColor: `${selectedSkin.emissive}30`,
-                        color: owned ? selectedSkin.emissive : "#fff",
-                      }}
+                      style={{ background: owned ? `${selectedSkin.emissive}15` : `linear-gradient(135deg, ${selectedSkin.emissive}30, ${selectedSkin.emissive}10)`, borderColor: `${selectedSkin.emissive}30`, color: owned ? selectedSkin.emissive : "#fff" }}
                       whileTap={{ scale: 0.97 }}>
                       {owned ? "Select" : selectedSkin.price === 0 ? "Free" : (
-                        <span className="flex items-center justify-center gap-1.5">
-                          Buy for <Star size={12} className="text-[#E040FB]" fill="#E040FB" /> {selectedSkin.price}
-                        </span>
+                        <span className="flex items-center justify-center gap-1.5">Buy for <Star size={12} className="text-[#E040FB]" fill="#E040FB" /> {selectedSkin.price}</span>
                       )}
                     </motion.button>
                   );
