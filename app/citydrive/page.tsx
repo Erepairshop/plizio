@@ -799,30 +799,45 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
 
     // ── Missions ──
     const ms = missionsRef.current;
-    let changed = false;
+    let missionCompleted = false;
     for (const m of ms) {
       if (m.completed) continue;
       if (m.type === "delivery") {
-        if (!m.pickedUp) { if (Math.sqrt((p.x - m.px) ** 2 + (p.z - m.pz) ** 2) < 4) { m.pickedUp = true; hud.msg = "📦 Picked up!"; hud.msgT = 2; changed = true; } }
-        else { if (Math.sqrt((p.x - m.dx) ** 2 + (p.z - m.dz) ** 2) < 4) { m.completed = true; hud.score += m.points; hud.missions++; hud.msg = `+${m.points} pts!`; hud.msgT = 2; changed = true; } }
+        if (!m.pickedUp) {
+          if (Math.sqrt((p.x - m.px) ** 2 + (p.z - m.pz) ** 2) < 4) {
+            m.pickedUp = true; hud.msg = "📦 Picked up!"; hud.msgT = 2;
+          }
+        } else {
+          if (Math.sqrt((p.x - m.dx) ** 2 + (p.z - m.dz) ** 2) < 4) {
+            m.completed = true; hud.score += m.points; hud.missions++;
+            hud.msg = `📦 +${m.points} pts!`; hud.msgT = 2; missionCompleted = true;
+          }
+        }
       } else if (m.type === "parking" && p.inCar >= 0) {
         const c = carsRef.current[p.inCar];
         if (Math.sqrt((c.x - m.px) ** 2 + (c.z - m.pz) ** 2) < 3.5 && Math.abs(c.speed) < 1) {
-          m.completed = true; hud.score += m.points; hud.missions++; hud.msg = `🅿️ +${m.points}!`; hud.msgT = 2; changed = true;
+          m.completed = true; hud.score += m.points; hud.missions++;
+          hud.msg = `🅿️ +${m.points} pts!`; hud.msgT = 2; missionCompleted = true;
         }
       } else if (m.type === "coins" && m.coins) {
         for (let i = m.coins.length - 1; i >= 0; i--) {
           if (Math.sqrt((p.x - m.coins[i].x) ** 2 + (p.z - m.coins[i].z) ** 2) < 3) {
             m.coins.splice(i, 1); m.coinsLeft = m.coins.length; hud.score += 10;
-            hud.msg = `🪙 ${m.coins.length} left`; hud.msgT = 2; changed = true;
+            hud.msg = `🪙 ${m.coins.length} left`; hud.msgT = 2;
           }
         }
-        if (m.coins.length === 0) { m.completed = true; hud.missions++; hud.msg = `🪙 +${m.points}!`; hud.msgT = 2; }
+        if (m.coins.length === 0 && !m.completed) {
+          m.completed = true; hud.score += m.points; hud.missions++;
+          hud.msg = `🪙 +${m.points} bonus!`; hud.msgT = 2; missionCompleted = true;
+        }
       }
     }
-    if (changed) {
-      const active = ms.filter(m => !m.completed).length;
-      if (active < 3 && midRef.current < TOTAL_M) ms.push(genMission(midRef.current++));
+    // Spawn new missions to keep at least 3 active
+    const active = ms.filter(m => !m.completed).length;
+    if (active < 3 && midRef.current < TOTAL_M) {
+      while (ms.filter(m => !m.completed).length < 3 && midRef.current < TOTAL_M) {
+        ms.push(genMission(midRef.current++));
+      }
     }
     if (hud.missions >= TOTAL_M) { onEnd(); return; }
 
@@ -1304,7 +1319,7 @@ export default function CityDrivePage() {
 
   useEffect(() => {
     if (gameState !== "playing") return;
-    const i = setInterval(() => setHudTick(t => t + 1), 500);
+    const i = setInterval(() => setHudTick(t => t + 1), 250);
     return () => clearInterval(i);
   }, [gameState]);
 
@@ -1318,7 +1333,7 @@ export default function CityDrivePage() {
 
   useEffect(() => {
     if (gameState !== "result" || cardSaved) return;
-    const total = TOTAL_M * 100;
+    const total = 1400;
     const s = hudRef.current.score;
     const rarity = calculateRarity(Math.min(s, total), total, 1);
     saveCard({ id: generateCardId(), game: "citydrive", theme: "city", rarity, score: s, total, date: new Date().toISOString() });
@@ -1344,7 +1359,8 @@ export default function CityDrivePage() {
   const continueGame = () => { setResuming(true); setGameState("playing"); };
   const playAgain = () => { setCardSaved(false); setResuming(false); clearSave(); setHasSave(false); setGameState("playing"); };
 
-  const totalForRarity = TOTAL_M * 100;
+  // Actual max: 5 delivery(100) + 5 parking(80) + 5 coins(50+50bonus) = 500+400+500 = 1400
+  const totalForRarity = 1400;
   const rarity = calculateRarity(Math.min(finalScore, totalForRarity), totalForRarity, 1);
   const hud = hudRef.current;
 
