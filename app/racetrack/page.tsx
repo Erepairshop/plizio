@@ -545,9 +545,9 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       if (d < bestDist) { bestDist = d; bestIdx = j; }
     }
 
-    // Top 3 (Storm, Ghost, Fury) are serious competition
-    const speedFactors = [0.75, 0.80, 0.86, 0.94, 0.97, 0.99];
-    const aggressionLevels = [0.15, 0.2, 0.3, 0.7, 0.85, 0.95];
+    // Top 3 (Storm, Ghost, Fury) are competitive but beatable
+    const speedFactors = [0.72, 0.77, 0.82, 0.87, 0.91, 0.94];
+    const aggressionLevels = [0.1, 0.15, 0.25, 0.5, 0.65, 0.8];
     const laneOffsets = [-0.3, 0.3, -0.15, 0.25, -0.35, 0.15];
 
     return {
@@ -587,16 +587,17 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
     return bestIdx / trackPoints.length;
   }, [trackPoints]);
 
-  // Check if position is on track
-  const isOnTrack = useCallback((x: number, z: number): boolean => {
+  // Check if position is on track - returns { onTrack, nearestX, nearestZ, dist }
+  const checkTrack = useCallback((x: number, z: number): { onTrack: boolean; nearestX: number; nearestZ: number; dist: number } => {
     let minDist = Infinity;
+    let nearIdx = 0;
     for (let i = 0; i < trackPoints.length; i++) {
       const dx = x - trackPoints[i].x;
       const dz = z - trackPoints[i].z;
       const d = Math.sqrt(dx * dx + dz * dz);
-      if (d < minDist) minDist = d;
+      if (d < minDist) { minDist = d; nearIdx = i; }
     }
-    return minDist < track.width / 2 + 2;
+    return { onTrack: minDist < track.width / 2 + 2, nearestX: trackPoints[nearIdx].x, nearestZ: trackPoints[nearIdx].z, dist: minDist };
   }, [trackPoints, track.width]);
 
   // Check oil slick
@@ -705,9 +706,19 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
     let nx = player.x + Math.sin(player.angle) * player.speed * dt;
     let nz = player.z + Math.cos(player.angle) * player.speed * dt;
 
-    // Track boundary check
-    if (!isOnTrack(nx, nz)) {
-      player.speed *= 0.5;
+    // Track boundary check - barriers bounce player back
+    const trackCheck = checkTrack(nx, nz);
+    if (!trackCheck.onTrack) {
+      // Calculate bounce direction: push toward track center
+      const toTrackX = trackCheck.nearestX - nx;
+      const toTrackZ = trackCheck.nearestZ - nz;
+      const toTrackDist = Math.sqrt(toTrackX * toTrackX + toTrackZ * toTrackZ);
+      if (toTrackDist > 0.01) {
+        const bounceForce = Math.abs(player.speed) * 0.8 + 5;
+        player.pushVx += (toTrackX / toTrackDist) * bounceForce;
+        player.pushVz += (toTrackZ / toTrackDist) * bounceForce;
+      }
+      player.speed *= -0.3; // reverse with speed loss
       nx = player.x;
       nz = player.z;
     }
@@ -767,25 +778,25 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       while (angleDiff < -Math.PI) angleDiff += Math.PI * 2;
       ai.angle += angleDiff * ai.handling * dt;
 
-      // Accelerate - aggressive AIs push harder
-      const accelBoost = 1 + ai.aggressive * 0.3;
+      // Accelerate - aggressive AIs push slightly harder
+      const accelBoost = 1 + ai.aggressive * 0.15;
       ai.speed += ai.accel * accelBoost * dt;
       ai.speed *= 0.98;
 
-      // Slow down for sharp turns - aggressive AIs brake less
+      // Slow down for sharp turns - aggressive AIs brake slightly less
       const aiTurnSharp = getTurnSharpness(ai.trackProgress);
-      const brakeReduction = 1 - ai.aggressive * 0.4;
+      const brakeReduction = 1 - ai.aggressive * 0.25;
       if (aiTurnSharp > 0.3) {
         ai.speed *= (1 - aiTurnSharp * 0.3 * brakeReduction * dt * 10);
       }
       ai.speed = Math.max(0, Math.min(ai.maxSpeed, ai.speed));
 
-      // Slipstream: aggressive AIs close behind player get draft boost
+      // Slipstream: aggressive AIs close behind player get small draft boost
       const dxP = player.x - ai.x;
       const dzP = player.z - ai.z;
       const distToPlayer = Math.sqrt(dxP * dxP + dzP * dzP);
-      if (distToPlayer < 15 && distToPlayer > 3 && ai.aggressive > 0.5) {
-        ai.speed = Math.min(ai.maxSpeed * 1.03, ai.speed * 1.015);
+      if (distToPlayer < 12 && distToPlayer > 4 && ai.aggressive > 0.5) {
+        ai.speed = Math.min(ai.maxSpeed * 1.01, ai.speed * 1.005);
       }
 
       // Apply push forces
@@ -794,11 +805,20 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       ai.pushVx *= 0.9;
       ai.pushVz *= 0.9;
 
-      // Move
+      // Move - with barrier bounce
       let ax = ai.x + Math.sin(ai.angle) * ai.speed * dt;
       let az = ai.z + Math.cos(ai.angle) * ai.speed * dt;
-      if (!isOnTrack(ax, az)) {
-        ai.speed *= 0.5;
+      const aiTrackCheck = checkTrack(ax, az);
+      if (!aiTrackCheck.onTrack) {
+        const toX = aiTrackCheck.nearestX - ax;
+        const toZ = aiTrackCheck.nearestZ - az;
+        const toDist = Math.sqrt(toX * toX + toZ * toZ);
+        if (toDist > 0.01) {
+          const bForce = Math.abs(ai.speed) * 0.5 + 3;
+          ai.pushVx += (toX / toDist) * bForce;
+          ai.pushVz += (toZ / toDist) * bForce;
+        }
+        ai.speed *= 0.4;
       } else {
         ai.x = ax;
         ai.z = az;
@@ -1042,7 +1062,7 @@ export default function RacetrackPage() {
     setSelectedLevel(lvl);
     setCountdown(3);
     setCardSaved(false);
-    hudRef.current = { speed: 0, lap: 1, totalLaps: track.laps, position: 7, totalRacers: 7, nitro: NITRO_MAX, nitroActive: false, time: 0, onOil: false, playerTilt: 0 };
+    hudRef.current = { speed: 0, lap: 1, totalLaps: track.laps, position: 1, totalRacers: 7, nitro: NITRO_MAX, nitroActive: false, time: 0, onOil: false, playerTilt: 0 };
     nitroActiveRef.current = false;
     setGameState("countdown");
   };
