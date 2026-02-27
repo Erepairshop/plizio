@@ -3,14 +3,17 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Quick Pick - Free Online Quiz Game",
   description:
-    "Test your knowledge with Quick Pick! Free online quiz game with General, K-Pop, Football and Anime themes. Play instantly in your browser - no download needed.",
+    "Test your knowledge with Quick Pick! Free online quiz game with 8 themes: General, Music, Football, Anime, Gaming, Geography, Social Media and Movies. Play instantly!",
   keywords: [
     "online quiz game",
     "free quiz",
     "trivia game",
-    "k-pop quiz",
+    "music quiz",
     "football quiz",
     "anime quiz",
+    "gaming quiz",
+    "geography quiz",
+    "movie quiz",
     "browser quiz game",
   ],
   openGraph: {

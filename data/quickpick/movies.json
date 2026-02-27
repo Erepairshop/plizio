@@ -1,0 +1,38 @@
+[
+  { "itemA": "Avatar (2009 bevétel)", "valueA": 2923000000, "emojiA": "🔵", "itemB": "Avengers: Endgame", "valueB": 2799000000, "emojiB": "🦸", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "Titanic (1997)", "valueA": 2264000000, "emojiA": "🚢", "itemB": "Star Wars: TFA (2015)", "valueB": 2071000000, "emojiB": "⭐", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "Spider-Man: No Way Home", "valueA": 1921000000, "emojiA": "🕷️", "itemB": "Top Gun: Maverick", "valueB": 1496000000, "emojiB": "✈️", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "The Super Mario Bros Movie", "valueA": 1362000000, "emojiA": "🍄", "itemB": "Barbie (2023)", "valueB": 1442000000, "emojiB": "💖", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "Oppenheimer (2023)", "valueA": 952000000, "emojiA": "💣", "itemB": "Dune: Part Two (2024)", "valueB": 714000000, "emojiB": "🏜️", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "Inside Out 2 (2024)", "valueA": 1699000000, "emojiA": "😊", "itemB": "Frozen II (2019)", "valueB": 1453000000, "emojiB": "❄️", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "Joker (2019)", "valueA": 1079000000, "emojiA": "🤡", "itemB": "The Batman (2022)", "valueB": 772000000, "emojiB": "🦇", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "Avatar: Way of Water", "valueA": 2320000000, "emojiA": "🌊", "itemB": "Black Panther: Wakanda", "valueB": 859000000, "emojiB": "🐾", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "John Wick 4 (2023)", "valueA": 440000000, "emojiA": "🔫", "itemB": "Mission Impossible 7", "valueB": 567000000, "emojiB": "💥", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "The Lion King (2019)", "valueA": 1663000000, "emojiA": "🦁", "itemB": "Aladdin (2019)", "valueB": 1054000000, "emojiB": "🧞", "unit": "USD", "unitIcon": "💰" },
+
+  { "itemA": "Squid Game (nézettség)", "valueA": 265000000, "emojiA": "🦑", "itemB": "Wednesday (nézettség)", "valueB": 252000000, "emojiB": "🖤", "unit": "households", "unitIcon": "📺" },
+  { "itemA": "Stranger Things S4", "valueA": 335000000, "emojiA": "👾", "itemB": "Bridgerton S2", "valueB": 251000000, "emojiB": "💕", "unit": "viewing hours", "unitIcon": "📺" },
+  { "itemA": "The Last of Us S1", "valueA": 32000000, "emojiA": "🍄", "itemB": "House of the Dragon S1", "valueB": 29000000, "emojiB": "🐉", "unit": "viewers/ep", "unitIcon": "📺" },
+  { "itemA": "Money Heist (Netflix)", "valueA": 187000000, "emojiA": "🔴", "itemB": "All of Us Are Dead", "valueB": 124000000, "emojiB": "🧟", "unit": "viewing hours", "unitIcon": "📺" },
+  { "itemA": "One Piece live-action", "valueA": 72000000, "emojiA": "🏴‍☠️", "itemB": "Avatar: The Last Airbender", "valueB": 42000000, "emojiB": "🌪️", "unit": "viewing hours", "unitIcon": "📺" },
+
+  { "itemA": "The Shawshank Redemption", "valueA": 93, "emojiA": "⛓️", "itemB": "The Godfather", "valueB": 92, "emojiB": "🎩", "unit": "IMDb rating ×10", "unitIcon": "⭐" },
+  { "itemA": "The Dark Knight (IMDb)", "valueA": 90, "emojiA": "🦇", "itemB": "Inception (IMDb)", "valueB": 88, "emojiB": "💭", "unit": "rating ×10", "unitIcon": "⭐" },
+  { "itemA": "Interstellar (IMDb)", "valueA": 87, "emojiA": "🌌", "itemB": "The Matrix (IMDb)", "valueB": 87, "emojiB": "💊", "unit": "rating ×10", "unitIcon": "⭐" },
+  { "itemA": "Parasite (IMDb)", "valueA": 86, "emojiA": "🏠", "itemB": "Whiplash (IMDb)", "valueB": 85, "emojiB": "🥁", "unit": "rating ×10", "unitIcon": "⭐" },
+
+  { "itemA": "Marvel Cinematic Universe", "valueA": 30000000000, "emojiA": "🦸", "itemB": "Star Wars franchise", "valueB": 10300000000, "emojiB": "⭐", "unit": "total box office $", "unitIcon": "💰" },
+  { "itemA": "Harry Potter franchise", "valueA": 9600000000, "emojiA": "🧙", "itemB": "James Bond franchise", "valueB": 7800000000, "emojiB": "🔫", "unit": "total box office $", "unitIcon": "💰" },
+  { "itemA": "Fast & Furious franchise", "valueA": 7300000000, "emojiA": "🚗", "itemB": "Jurassic Park franchise", "valueB": 6200000000, "emojiB": "🦖", "unit": "total box office $", "unitIcon": "💰" },
+  { "itemA": "Disney+ (előfizetők)", "valueA": 150000000, "emojiA": "🏰", "itemB": "Netflix (előfizetők)", "valueB": 280000000, "emojiB": "📺", "unit": "subscribers", "unitIcon": "👥" },
+  { "itemA": "HBO Max (előfizetők)", "valueA": 96000000, "emojiA": "📺", "itemB": "Amazon Prime Video", "valueB": 200000000, "emojiB": "📦", "unit": "subscribers", "unitIcon": "👥" },
+
+  { "itemA": "Robert Downey Jr (fizetés)", "valueA": 75000000, "emojiA": "🦸", "itemB": "Dwayne Johnson (fizetés)", "valueB": 50000000, "emojiB": "💪", "unit": "$/film", "unitIcon": "💰" },
+  { "itemA": "Tom Cruise (fizetés)", "valueA": 100000000, "emojiA": "✈️", "itemB": "Leonardo DiCaprio", "valueB": 30000000, "emojiB": "🎬", "unit": "$/film", "unitIcon": "💰" },
+
+  { "itemA": "Deadpool & Wolverine (2024)", "valueA": 1338000000, "emojiA": "🔴", "itemB": "Guardians Vol. 3", "valueB": 845000000, "emojiB": "🌌", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "Wonka (2023)", "valueA": 634000000, "emojiA": "🍫", "itemB": "Wish (2023)", "valueB": 256000000, "emojiB": "⭐", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "Moana 2 (2024)", "valueA": 1000000000, "emojiA": "🌊", "itemB": "Elemental (2023)", "valueB": 496000000, "emojiB": "🔥", "unit": "USD", "unitIcon": "💰" },
+  { "itemA": "Breaking Bad (IMDb)", "valueA": 96, "emojiA": "🧪", "itemB": "Game of Thrones (IMDb)", "valueB": 93, "emojiB": "🐉", "unit": "rating ×10", "unitIcon": "⭐" },
+  { "itemA": "Oscar-díj (legtöbb film)", "valueA": 11, "emojiA": "🏆", "itemB": "Oppenheimer (Oscar)", "valueB": 7, "emojiB": "💣", "unit": "díj", "unitIcon": "🏆" }
+]

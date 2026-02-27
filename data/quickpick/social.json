@@ -1,0 +1,35 @@
+[
+  { "itemA": "MrBeast (YouTube)", "valueA": 340000000, "emojiA": "🎬", "itemB": "PewDiePie (YouTube)", "valueB": 111000000, "emojiB": "🎮", "unit": "subscribers", "unitIcon": "👥" },
+  { "itemA": "Cristiano Ronaldo (IG)", "valueA": 640000000, "emojiA": "⚽", "itemB": "Lionel Messi (IG)", "valueB": 500000000, "emojiB": "⚽", "unit": "followers", "unitIcon": "👥" },
+  { "itemA": "Kylie Jenner (IG)", "valueA": 400000000, "emojiA": "💄", "itemB": "Selena Gomez (IG)", "valueB": 430000000, "emojiB": "🎤", "unit": "followers", "unitIcon": "👥" },
+  { "itemA": "T-Series (YouTube)", "valueA": 275000000, "emojiA": "🇮🇳", "itemB": "MrBeast (YouTube)", "valueB": 340000000, "emojiB": "🎬", "unit": "subscribers", "unitIcon": "👥" },
+  { "itemA": "Khaby Lame (TikTok)", "valueA": 162000000, "emojiA": "🤷", "itemB": "Charli D'Amelio (TikTok)", "valueB": 155000000, "emojiB": "💃", "unit": "followers", "unitIcon": "👥" },
+  { "itemA": "Dude Perfect (YouTube)", "valueA": 60000000, "emojiA": "🏀", "itemB": "Mark Rober (YouTube)", "valueB": 50000000, "emojiB": "🔬", "unit": "subscribers", "unitIcon": "👥" },
+  { "itemA": "Instagram (monthly users)", "valueA": 2000000000, "emojiA": "📸", "itemB": "TikTok (monthly users)", "valueB": 1500000000, "emojiB": "🎵", "unit": "users", "unitIcon": "👥" },
+  { "itemA": "YouTube (daily views)", "valueA": 5000000000, "emojiA": "▶️", "itemB": "TikTok (daily views)", "valueB": 4000000000, "emojiB": "🎵", "unit": "views/day", "unitIcon": "👀" },
+  { "itemA": "Elon Musk (X/Twitter)", "valueA": 200000000, "emojiA": "🚀", "itemB": "Barack Obama (X/Twitter)", "valueB": 132000000, "emojiB": "🇺🇸", "unit": "followers", "unitIcon": "👥" },
+  { "itemA": "The Rock (IG)", "valueA": 395000000, "emojiA": "💪", "itemB": "Kim Kardashian (IG)", "valueB": 365000000, "emojiB": "📱", "unit": "followers", "unitIcon": "👥" },
+  { "itemA": "Ninja (Twitch peak)", "valueA": 18000000, "emojiA": "🎮", "itemB": "xQc (Twitch)", "valueB": 12000000, "emojiB": "🎮", "unit": "followers", "unitIcon": "👥" },
+  { "itemA": "Cocomelon (YouTube)", "valueA": 175000000, "emojiA": "🍉", "itemB": "SET India (YouTube)", "valueB": 170000000, "emojiB": "🇮🇳", "unit": "subscribers", "unitIcon": "👥" },
+  { "itemA": "WhatsApp (monthly)", "valueA": 2800000000, "emojiA": "💬", "itemB": "Facebook Messenger", "valueB": 1000000000, "emojiB": "💬", "unit": "users", "unitIcon": "👥" },
+  { "itemA": "Neymar (IG)", "valueA": 230000000, "emojiA": "⚽", "itemB": "Virat Kohli (IG)", "valueB": 270000000, "emojiB": "🏏", "unit": "followers", "unitIcon": "👥" },
+  { "itemA": "MrBeast (TikTok)", "valueA": 100000000, "emojiA": "🎬", "itemB": "Bella Poarch (TikTok)", "valueB": 93000000, "emojiB": "🎤", "unit": "followers", "unitIcon": "👥" },
+  { "itemA": "Reddit (monthly users)", "valueA": 800000000, "emojiA": "🤖", "itemB": "Pinterest (monthly)", "valueB": 500000000, "emojiB": "📌", "unit": "users", "unitIcon": "👥" },
+  { "itemA": "Facebook (monthly users)", "valueA": 3000000000, "emojiA": "📘", "itemB": "YouTube (monthly users)", "valueB": 2500000000, "emojiB": "▶️", "unit": "users", "unitIcon": "👥" },
+  { "itemA": "Taylor Swift (IG)", "valueA": 283000000, "emojiA": "🎤", "itemB": "Ariana Grande (IG)", "valueB": 380000000, "emojiB": "🎤", "unit": "followers", "unitIcon": "👥" },
+  { "itemA": "Snapchat (daily users)", "valueA": 400000000, "emojiA": "👻", "itemB": "X/Twitter (daily users)", "valueB": 250000000, "emojiB": "🐦", "unit": "users", "unitIcon": "👥" },
+  { "itemA": "IShowSpeed (YouTube)", "valueA": 30000000, "emojiA": "⚡", "itemB": "KSI (YouTube)", "valueB": 24000000, "emojiB": "🥊", "unit": "subscribers", "unitIcon": "👥" },
+
+  { "itemA": "Baby Shark (YouTube)", "valueA": 14000000000, "emojiA": "🦈", "itemB": "Despacito (YouTube)", "valueB": 8400000000, "emojiB": "🎵", "unit": "views", "unitIcon": "👀" },
+  { "itemA": "MrBeast - Squid Game vid", "valueA": 600000000, "emojiA": "🎬", "itemB": "PewDiePie legtöbb (vid)", "valueB": 250000000, "emojiB": "🎮", "unit": "views", "unitIcon": "👀" },
+
+  { "itemA": "Cristiano (YouTube)", "valueA": 65000000, "emojiA": "⚽", "itemB": "Messi (YouTube)", "valueB": 5000000, "emojiB": "⚽", "unit": "subscribers", "unitIcon": "👥" },
+  { "itemA": "LinkedIn (users)", "valueA": 1000000000, "emojiA": "💼", "itemB": "Discord (users)", "valueB": 200000000, "emojiB": "🎮", "unit": "registered", "unitIcon": "👥" },
+  { "itemA": "Spotify (monthly users)", "valueA": 600000000, "emojiA": "🎵", "itemB": "Apple Music (users)", "valueB": 100000000, "emojiB": "🎵", "unit": "users", "unitIcon": "👥" },
+
+  { "itemA": "Billie Eilish (IG)", "valueA": 120000000, "emojiA": "🎤", "itemB": "Dua Lipa (IG)", "valueB": 88000000, "emojiB": "🎤", "unit": "followers", "unitIcon": "👥" },
+  { "itemA": "Twitch (daily viewers)", "valueA": 30000000, "emojiA": "🎮", "itemB": "YouTube Gaming (daily)", "valueB": 50000000, "emojiB": "▶️", "unit": "viewers", "unitIcon": "👀" },
+  { "itemA": "LeBron James (IG)", "valueA": 160000000, "emojiA": "🏀", "itemB": "Neymar (IG)", "valueB": 230000000, "emojiB": "⚽", "unit": "followers", "unitIcon": "👥" },
+  { "itemA": "Telegram (monthly)", "valueA": 900000000, "emojiA": "💬", "itemB": "Signal (monthly)", "valueB": 40000000, "emojiB": "🔒", "unit": "users", "unitIcon": "👥" },
+  { "itemA": "Addison Rae (TikTok)", "valueA": 89000000, "emojiA": "💃", "itemB": "Zach King (TikTok)", "valueB": 81000000, "emojiB": "🎩", "unit": "followers", "unitIcon": "👥" }
+]

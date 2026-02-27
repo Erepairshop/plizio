@@ -1,0 +1,39 @@
+[
+  { "itemA": "Drake (Spotify monthly)", "valueA": 95000000, "emojiA": "🎤", "itemB": "The Weeknd (Spotify)", "valueB": 115000000, "emojiB": "🎤", "unit": "monthly listeners", "unitIcon": "🎧" },
+  { "itemA": "Taylor Swift (Spotify)", "valueA": 100000000, "emojiA": "🎵", "itemB": "Ed Sheeran (Spotify)", "valueB": 85000000, "emojiB": "🎸", "unit": "monthly listeners", "unitIcon": "🎧" },
+  { "itemA": "Bad Bunny (Spotify)", "valueA": 80000000, "emojiA": "🐰", "itemB": "Billie Eilish (Spotify)", "valueB": 70000000, "emojiB": "🖤", "unit": "monthly listeners", "unitIcon": "🎧" },
+  { "itemA": "Rihanna (Spotify)", "valueA": 60000000, "emojiA": "💎", "itemB": "Ariana Grande (Spotify)", "valueB": 75000000, "emojiB": "🌙", "unit": "monthly listeners", "unitIcon": "🎧" },
+  { "itemA": "Eminem (Spotify)", "valueA": 55000000, "emojiA": "🎤", "itemB": "Kanye West (Spotify)", "valueB": 60000000, "emojiB": "🐻", "unit": "monthly listeners", "unitIcon": "🎧" },
+  { "itemA": "Dua Lipa (Spotify)", "valueA": 65000000, "emojiA": "🎵", "itemB": "SZA (Spotify)", "valueB": 55000000, "emojiB": "🎶", "unit": "monthly listeners", "unitIcon": "🎧" },
+  { "itemA": "Post Malone (Spotify)", "valueA": 50000000, "emojiA": "🎸", "itemB": "Travis Scott (Spotify)", "valueB": 45000000, "emojiB": "🌵", "unit": "monthly listeners", "unitIcon": "🎧" },
+  { "itemA": "BTS (Spotify)", "valueA": 45000000, "emojiA": "💜", "itemB": "BLACKPINK (Spotify)", "valueB": 35000000, "emojiB": "💖", "unit": "monthly listeners", "unitIcon": "🎧" },
+
+  { "itemA": "Despacito (YouTube)", "valueA": 8400000000, "emojiA": "🎵", "itemB": "Shape of You (YouTube)", "valueB": 6200000000, "emojiB": "🎸", "unit": "views", "unitIcon": "👀" },
+  { "itemA": "See You Again (YouTube)", "valueA": 6100000000, "emojiA": "🎶", "itemB": "Uptown Funk (YouTube)", "valueB": 5000000000, "emojiB": "🕺", "unit": "views", "unitIcon": "👀" },
+  { "itemA": "Gangnam Style (YouTube)", "valueA": 5000000000, "emojiA": "🕶️", "itemB": "Sorry (Bieber, YT)", "valueB": 3600000000, "emojiB": "🎤", "unit": "views", "unitIcon": "👀" },
+  { "itemA": "Blinding Lights (Spotify)", "valueA": 4500000000, "emojiA": "✨", "itemB": "Shape of You (Spotify)", "valueB": 4000000000, "emojiB": "🎸", "unit": "streams", "unitIcon": "🎧" },
+  { "itemA": "Someone Like You (Adele)", "valueA": 3400000000, "emojiA": "🎤", "itemB": "Hello (Adele, YT)", "valueB": 3100000000, "emojiB": "🎤", "unit": "views", "unitIcon": "👀" },
+  { "itemA": "Old Town Road (Spotify)", "valueA": 2500000000, "emojiA": "🤠", "itemB": "Rockstar (Post Malone)", "valueB": 2800000000, "emojiB": "🎸", "unit": "streams", "unitIcon": "🎧" },
+
+  { "itemA": "Taylor Swift - Eras Tour", "valueA": 2200000000, "emojiA": "🎵", "itemB": "Elton John Farewell Tour", "valueB": 939000000, "emojiB": "🎹", "unit": "revenue $", "unitIcon": "💰" },
+  { "itemA": "Beyoncé - Renaissance Tour", "valueA": 579000000, "emojiA": "👑", "itemB": "Coldplay - Music of Spheres", "valueB": 1000000000, "emojiB": "🌌", "unit": "revenue $", "unitIcon": "💰" },
+  { "itemA": "Ed Sheeran - Mathematics", "valueA": 890000000, "emojiA": "🎸", "itemB": "Harry Styles - Love on Tour", "valueB": 617000000, "emojiB": "🎤", "unit": "revenue $", "unitIcon": "💰" },
+
+  { "itemA": "Thriller (Michael Jackson)", "valueA": 70000000, "emojiA": "🧟", "itemB": "Back in Black (AC/DC)", "valueB": 50000000, "emojiB": "⚡", "unit": "album sales", "unitIcon": "💿" },
+  { "itemA": "The Dark Side of the Moon", "valueA": 45000000, "emojiA": "🌑", "itemB": "Rumours (Fleetwood Mac)", "valueB": 40000000, "emojiB": "🎵", "unit": "album sales", "unitIcon": "💿" },
+  { "itemA": "21 (Adele)", "valueA": 31000000, "emojiA": "🎤", "itemB": "1989 (Taylor Swift)", "valueB": 14000000, "emojiB": "🎵", "unit": "album sales", "unitIcon": "💿" },
+  { "itemA": "Abbey Road (Beatles)", "valueA": 35000000, "emojiA": "🎸", "itemB": "Led Zeppelin IV", "valueB": 37000000, "emojiB": "🎸", "unit": "album sales", "unitIcon": "💿" },
+
+  { "itemA": "Grammy-díjak (Beyoncé)", "valueA": 32, "emojiA": "👑", "itemB": "Grammy-díjak (Taylor Swift)", "valueB": 14, "emojiB": "🎵", "unit": "díj", "unitIcon": "🏆" },
+  { "itemA": "Grammy-díjak (Adele)", "valueA": 16, "emojiA": "🎤", "itemB": "Grammy-díjak (Billie Eilish)", "valueB": 9, "emojiB": "🖤", "unit": "díj", "unitIcon": "🏆" },
+  { "itemA": "Beatles UK #1 singles", "valueA": 17, "emojiA": "🎸", "itemB": "Elvis UK #1 singles", "valueB": 21, "emojiB": "🕺", "unit": "#1 slágerlista", "unitIcon": "📊" },
+
+  { "itemA": "Spotify (total songs)", "valueA": 100000000, "emojiA": "🎵", "itemB": "Apple Music (songs)", "valueB": 100000000, "emojiB": "🎵", "unit": "songs", "unitIcon": "🎶" },
+  { "itemA": "Vinyl eladás 2023 (US)", "valueA": 43000000, "emojiA": "🎵", "itemB": "CD eladás 2023 (US)", "valueB": 37000000, "emojiB": "💿", "unit": "units sold", "unitIcon": "📦" },
+
+  { "itemA": "Drake (IG followers)", "valueA": 145000000, "emojiA": "🎤", "itemB": "Justin Bieber (IG)", "valueB": 295000000, "emojiB": "🎤", "unit": "followers", "unitIcon": "👥" },
+  { "itemA": "Shakira (IG)", "valueA": 90000000, "emojiA": "💃", "itemB": "Jennifer Lopez (IG)", "valueB": 250000000, "emojiB": "💃", "unit": "followers", "unitIcon": "👥" },
+  { "itemA": "Karol G (Spotify)", "valueA": 55000000, "emojiA": "🎤", "itemB": "Peso Pluma (Spotify)", "valueB": 40000000, "emojiB": "🎵", "unit": "monthly listeners", "unitIcon": "🎧" },
+  { "itemA": "Morgan Wallen (Spotify)", "valueA": 45000000, "emojiA": "🤠", "itemB": "Luke Combs (Spotify)", "valueB": 30000000, "emojiB": "🎸", "unit": "monthly listeners", "unitIcon": "🎧" },
+  { "itemA": "Doja Cat (Spotify)", "valueA": 50000000, "emojiA": "🐱", "itemB": "Olivia Rodrigo (Spotify)", "valueB": 45000000, "emojiB": "💜", "unit": "monthly listeners", "unitIcon": "🎧" }
+]
