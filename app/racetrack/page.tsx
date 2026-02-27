@@ -545,9 +545,9 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       if (d < bestDist) { bestDist = d; bestIdx = j; }
     }
 
-    // Top 3 (Storm, Ghost, Fury) are competitive but beatable
-    const speedFactors = [0.72, 0.77, 0.82, 0.87, 0.91, 0.94];
-    const aggressionLevels = [0.1, 0.15, 0.25, 0.5, 0.65, 0.8];
+    // AI speeds: top 3 close together, Fury only ~4% faster than Storm
+    const speedFactors = [0.65, 0.70, 0.74, 0.78, 0.80, 0.81];
+    const aggressionLevels = [0.1, 0.12, 0.2, 0.35, 0.45, 0.55];
     const laneOffsets = [-0.3, 0.3, -0.15, 0.25, -0.35, 0.15];
 
     return {
@@ -555,7 +555,7 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       angle: fwdAngle,
       speed: 0, trackProgress: bestIdx / trackPoints.length, totalProgress: 0, lap: 0, tilt: 0,
       maxSpeed: carType.maxSpeed * speedFactors[i],
-      accel: carType.accel * (0.8 + i * 0.04),
+      accel: carType.accel * (0.75 + i * 0.025),
       handling: 2.5 + i * 0.2,
       color: AI_COLORS[i], name,
       aggressive: aggressionLevels[i],
