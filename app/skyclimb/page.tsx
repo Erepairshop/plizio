@@ -11,6 +11,7 @@ import { saveCard, generateCardId, type CardRarity } from "@/lib/cards";
 import { getSkinDef, getActiveSkin } from "@/lib/skins";
 import { getHatDef, getActiveHat, getTrailDef, getActiveTrail } from "@/lib/accessories";
 import { incrementTotalGames, updateStats } from "@/lib/milestones";
+import { addSpecialCards } from "@/lib/specialCards";
 import MilestonePopup from "@/components/MilestonePopup";
 
 // ─── TYPES ──────────────────────────────────────
@@ -45,7 +46,15 @@ interface PowerUpItem {
   collected: boolean;
 }
 
+interface BonusStar {
+  x: number; y: number; z: number;
+  collected: boolean;
+  level: number;
+}
+
 type GameState = "menu" | "playing" | "dead" | "level-complete" | "reward";
+
+const BONUS_STAR_KEY = "plizio_skyclimb_bonus_stars";
 
 // ─── CONSTANTS (TUNED) ──────────────────────────
 const GRAVITY = 0.022;
@@ -65,8 +74,16 @@ const MAGNET_DURATION = 300;
 const MAGNET_PULL = 0.006;
 const WIN_ANIM_FRAMES = 90;
 
+function getBonusStarsClaimed(): number[] {
+  try { return JSON.parse(localStorage.getItem(BONUS_STAR_KEY) || "[]"); } catch { return []; }
+}
+function claimBonusStar(level: number) {
+  const claimed = getBonusStarsClaimed();
+  if (!claimed.includes(level)) { claimed.push(level); localStorage.setItem(BONUS_STAR_KEY, JSON.stringify(claimed)); }
+}
+
 // ─── LEVEL GENERATION (CONNECTED PATH) ─────────────
-function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: number; powerUps: PowerUpItem[] } {
+function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: number; powerUps: PowerUpItem[]; bonusStar: BonusStar | null } {
   const platforms: Platform3D[] = [];
   const difficulty = Math.min(level, 10);
 
@@ -293,7 +310,26 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
     });
   }
 
-  return { platforms, goalIdx: platforms.length - 1, powerUps };
+  // Bonus star: one-time collectible on levels 11-19 (placed mid-level)
+  let bonusStar: BonusStar | null = null;
+  if (level >= 11 && level <= 19) {
+    const claimed = typeof window !== "undefined" ? getBonusStarsClaimed() : [];
+    if (!claimed.includes(level)) {
+      const midIdx = Math.floor(platforms.length * 0.5);
+      const midPlat = platforms[midIdx] || platforms[Math.floor(platforms.length / 2)];
+      if (midPlat) {
+        bonusStar = {
+          x: midPlat.x,
+          y: midPlat.y + midPlat.h / 2 + 1.5,
+          z: midPlat.z,
+          collected: false,
+          level,
+        };
+      }
+    }
+  }
+
+  return { platforms, goalIdx: platforms.length - 1, powerUps, bonusStar };
 }
 
 // ─── GAME DATA ──────────────────────────────────────
@@ -322,6 +358,7 @@ interface GameData {
   lastGroundY: number;
   // Power-ups
   powerUps: PowerUpItem[];
+  bonusStar: BonusStar | null;
   hasShield: boolean;
   magnetTimer: number;
   rocketTimer: number;
@@ -357,6 +394,7 @@ function createGameData(): GameData {
     jumpBufferTimer: 0,
     lastGroundY: 0,
     powerUps: [],
+    bonusStar: null,
     hasShield: false,
     magnetTimer: 0,
     rocketTimer: 0,
@@ -917,6 +955,47 @@ function PowerUpMesh({ powerUp, gameRef }: { powerUp: PowerUpItem; gameRef: Reac
   );
 }
 
+// ─── BONUS STAR MESH (PURPLE) ───────────────────────
+function BonusStarMesh({ gameRef }: { gameRef: React.RefObject<GameData> }) {
+  const ref = useRef<THREE.Group>(null);
+
+  useFrame(() => {
+    if (!ref.current || !gameRef.current) return;
+    const bs = gameRef.current.bonusStar;
+    if (!bs || bs.collected) { ref.current.visible = false; return; }
+    ref.current.visible = true;
+    ref.current.position.set(bs.x, bs.y + Math.sin(gameRef.current.time * 0.035) * 0.4, bs.z);
+    ref.current.rotation.y = gameRef.current.time * 0.04;
+    const pulse = 1.0 + Math.sin(gameRef.current.time * 0.06) * 0.15;
+    ref.current.scale.setScalar(pulse);
+  });
+
+  return (
+    <group ref={ref}>
+      {/* Star shape: two crossed flat boxes */}
+      <mesh rotation={[0, 0, 0]}>
+        <boxGeometry args={[0.8, 0.15, 0.8]} />
+        <meshStandardMaterial color="#B44DFF" emissive="#9932CC" emissiveIntensity={2.5} metalness={0.8} roughness={0.1} />
+      </mesh>
+      <mesh rotation={[0, Math.PI / 4, 0]}>
+        <boxGeometry args={[0.8, 0.15, 0.8]} />
+        <meshStandardMaterial color="#B44DFF" emissive="#9932CC" emissiveIntensity={2.5} metalness={0.8} roughness={0.1} />
+      </mesh>
+      {/* Center gem */}
+      <mesh>
+        <octahedronGeometry args={[0.25, 0]} />
+        <meshStandardMaterial color="#E040FB" emissive="#E040FB" emissiveIntensity={3} />
+      </mesh>
+      {/* Glow ring */}
+      <mesh rotation={[-Math.PI / 2, 0, 0]} position={[0, -0.8, 0]}>
+        <ringGeometry args={[0.6, 1.0, 16]} />
+        <meshStandardMaterial color="#B44DFF" emissive="#B44DFF" emissiveIntensity={1.5} side={THREE.DoubleSide} transparent opacity={0.4} />
+      </mesh>
+      <pointLight color="#B44DFF" intensity={4} distance={8} />
+    </group>
+  );
+}
+
 // ─── CLOUDS ─────────────────────────────────────────
 function Clouds() {
   const clouds = useMemo(() => {
@@ -980,13 +1059,14 @@ function DistantMountains() {
 }
 
 // ─── GAME LOOP (IMPROVED PHYSICS) ───────────────────
-function GameLoop({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed }: {
+function GameLoop({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, onBonusStar }: {
   gameRef: React.RefObject<GameData>;
   onDie: () => void;
   onGoal: () => void;
   onWinStart: () => void;
   onPowerUp: (type: PowerUpType) => void;
   onShieldUsed: () => void;
+  onBonusStar: () => void;
 }) {
   const { camera } = useThree();
   const vec = useMemo(() => new THREE.Vector3(), []);
@@ -1259,6 +1339,18 @@ function GameLoop({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed 
       }
     }
 
+    // ─── BONUS STAR COLLECTION ─────
+    if (g.bonusStar && !g.bonusStar.collected) {
+      const dx = g.px - g.bonusStar.x;
+      const dy = g.py - g.bonusStar.y;
+      const dz = g.pz - g.bonusStar.z;
+      const dist = Math.sqrt(dx * dx + dy * dy + dz * dz);
+      if (dist < 2.0) {
+        g.bonusStar.collected = true;
+        onBonusStar();
+      }
+    }
+
     // ─── DEATH (with shield protection) ────────
     if (g.py < -10) {
       if (g.hasShield) {
@@ -1342,13 +1434,14 @@ function FloatingParticles() {
   );
 }
 
-function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, skinId, hatId, trailId }: {
+function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, onBonusStar, skinId, hatId, trailId }: {
   gameRef: React.RefObject<GameData>;
   onDie: () => void;
   onGoal: () => void;
   onWinStart: () => void;
   onPowerUp: (type: PowerUpType) => void;
   onShieldUsed: () => void;
+  onBonusStar: () => void;
   skinId: string;
   hatId: string | null;
   trailId: string | null;
@@ -1379,9 +1472,11 @@ function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, 
         <PowerUpMesh key={`pu${i}`} powerUp={pu} gameRef={gameRef} />
       ))}
 
+      {g.bonusStar && !g.bonusStar.collected && <BonusStarMesh gameRef={gameRef} />}
+
       <Character gameRef={gameRef} skinId={skinId} hatId={hatId} trailId={trailId} />
 
-      <GameLoop gameRef={gameRef} onDie={onDie} onGoal={onGoal} onWinStart={onWinStart} onPowerUp={onPowerUp} onShieldUsed={onShieldUsed} />
+      <GameLoop gameRef={gameRef} onDie={onDie} onGoal={onGoal} onWinStart={onWinStart} onPowerUp={onPowerUp} onShieldUsed={onShieldUsed} onBonusStar={onBonusStar} />
     </>
   );
 }
@@ -1699,12 +1794,13 @@ export default function SkyClimbPage() {
       (screen.orientation as { lock?: (o: string) => Promise<void> })?.lock?.("portrait").catch(() => {});
     } catch {}
 
-    const { platforms, goalIdx, powerUps } = generateLevel(lvl);
+    const { platforms, goalIdx, powerUps, bonusStar } = generateLevel(lvl);
     const g = gameRef.current;
     Object.assign(g, createGameData());
     g.platforms = platforms;
     g.goalIdx = goalIdx;
     g.powerUps = powerUps;
+    g.bonusStar = bonusStar;
     g.level = lvl;
     g.py = 1;
 
@@ -1754,6 +1850,16 @@ export default function SkyClimbPage() {
     setShieldActive(false);
     setNotification("SHIELD USED!");
     setTimeout(() => setNotification(null), 2000);
+  }, []);
+
+  const handleBonusStar = useCallback(() => {
+    const g = gameRef.current;
+    if (g.bonusStar) {
+      claimBonusStar(g.bonusStar.level);
+      addSpecialCards(1);
+    }
+    setNotification("★ BONUS STAR! +1");
+    setTimeout(() => setNotification(null), 2500);
   }, []);
 
   const handleGoal = useCallback(() => {
@@ -1892,7 +1998,7 @@ export default function SkyClimbPage() {
         <div className="fixed inset-0 touch-none" style={{ height: "100dvh", width: "100vw" }}>
           <Canvas camera={{ fov: 60 }} gl={{ antialias: true }}
             style={{ background: "linear-gradient(180deg, #2a5298 0%, #5b86c7 25%, #87CEEB 50%, #e8d5b7 85%, #f0c27f 100%)", height: "100%", width: "100%" }}>
-            <Scene3D gameRef={gameRef} onDie={handleDie} onGoal={handleGoal} onWinStart={handleWinStart} onPowerUp={handlePowerUp} onShieldUsed={handleShieldUsed} skinId={activeSkinId} hatId={activeHatId} trailId={activeTrailId} />
+            <Scene3D gameRef={gameRef} onDie={handleDie} onGoal={handleGoal} onWinStart={handleWinStart} onPowerUp={handlePowerUp} onShieldUsed={handleShieldUsed} onBonusStar={handleBonusStar} skinId={activeSkinId} hatId={activeHatId} trailId={activeTrailId} />
           </Canvas>
 
           {/* HUD */}

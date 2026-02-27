@@ -78,6 +78,51 @@ const WEATHERS = [
 const GLOWS = ["#FF2D78", "#00D4FF", "#B44DFF", "#00FF88", "#FFD700", "#FF6B00", "#FF4488", "#44FFCC"];
 
 // ═══════════════════════════════════════════════
+//  CAR TYPES & STARS CURRENCY
+// ═══════════════════════════════════════════════
+interface CarType {
+  id: string; name: string; price: number; color: string;
+  maxSpeed: number; accel: number; handling: number;
+  driftMult: number; nitroEff: number;
+  desc: string;
+}
+const CAR_TYPES: CarType[] = [
+  { id: "starter", name: "Starter", price: 0, color: "#FF2D55", maxSpeed: 35, accel: 20, handling: 2.5, driftMult: 0.8, nitroEff: 0.8, desc: "Reliable beginner car" },
+  { id: "sedan", name: "Sedan", price: 2, color: "#00AAFF", maxSpeed: 40, accel: 25, handling: 3.0, driftMult: 1.0, nitroEff: 0.9, desc: "Balanced all-rounder" },
+  { id: "muscle", name: "Muscle", price: 5, color: "#FF6600", maxSpeed: 50, accel: 30, handling: 2.0, driftMult: 1.5, nitroEff: 1.0, desc: "Raw power, drift king" },
+  { id: "racer", name: "Racer", price: 10, color: "#00FF88", maxSpeed: 60, accel: 32, handling: 3.5, driftMult: 1.2, nitroEff: 1.2, desc: "Speed + handling" },
+  { id: "supercar", name: "Supercar", price: 20, color: "#B44DFF", maxSpeed: 72, accel: 38, handling: 4.0, driftMult: 1.0, nitroEff: 1.5, desc: "Ultimate machine" },
+];
+
+const STARS_KEY = "citydrive_stars";
+const OWNED_CARS_KEY = "citydrive_owned_cars";
+const ACTIVE_CAR_KEY = "citydrive_active_car";
+
+function getStars(): number { try { return parseInt(localStorage.getItem(STARS_KEY) || "0", 10); } catch { return 0; } }
+function setStars(n: number) { try { localStorage.setItem(STARS_KEY, String(n)); } catch {} }
+function addStars(n: number) { setStars(getStars() + n); }
+function getOwnedCars(): string[] { try { return JSON.parse(localStorage.getItem(OWNED_CARS_KEY) || '["starter"]'); } catch { return ["starter"]; } }
+function setOwnedCars(ids: string[]) { try { localStorage.setItem(OWNED_CARS_KEY, JSON.stringify(ids)); } catch {} }
+function getActiveCar(): string { try { return localStorage.getItem(ACTIVE_CAR_KEY) || "starter"; } catch { return "starter"; } }
+function setActiveCar(id: string) { try { localStorage.setItem(ACTIVE_CAR_KEY, id); } catch {} }
+function getCarType(id: string): CarType { return CAR_TYPES.find(c => c.id === id) || CAR_TYPES[0]; }
+
+// ═══════════════════════════════════════════════
+//  TIME TRIAL DEFINITIONS
+// ═══════════════════════════════════════════════
+interface TimeTrial {
+  checkpoints: { x: number; z: number }[];
+  currentCP: number;
+  timeLeft: number;
+  active: boolean;
+  reward: number;
+  completed: boolean;
+}
+const TIME_TRIAL_DURATION = 45; // seconds
+const TIME_TRIAL_CPS = 5; // checkpoints per trial
+const TIME_TRIAL_REWARD = 3; // stars per completion
+
+// ═══════════════════════════════════════════════
 //  PARK BLOCKS (deterministic ~20%)
 // ═══════════════════════════════════════════════
 const PARK_SET = new Set<string>();
@@ -156,9 +201,10 @@ function genTrees(): TreeDef[] {
 
 const NPC_COLORS = ["#00D4FF","#FFD700","#00FF88","#B44DFF","#FF6B00","#44FFCC","#FF8888","#88CCFF","#DDAA44","#77DD77","#DD77DD","#77DDDD","#AA7744","#AABB55","#5588CC","#CC5588","#88FF88","#FF88CC","#CCFF44","#44AAFF"];
 const NPC_NAMES = ["Sedan","Sedan","Truck","Taxi","Sedan","Sedan","Truck","Sedan","Taxi","Sedan","Sedan","Truck","Sedan","Taxi","Sedan","Truck","Sedan","Taxi","Sedan","Truck"];
-function initCars(): CarData[] {
+function initCars(carTypeId?: string): CarData[] {
   const base = { pushVx: 0, pushVz: 0, aiTimer: 0, slowTimer: 0, origMaxSpeed: 0 };
-  const playerCar: CarData = { x: 1 * T, z: 1 * T, angle: 0, speed: 0, maxSpeed: 40, accel: 25, handling: 3.0, color: "#FF2D55", name: "Sport", isNPC: false, ...base, origMaxSpeed: 40 };
+  const ct = getCarType(carTypeId || getActiveCar());
+  const playerCar: CarData = { x: 1 * T, z: 1 * T, angle: 0, speed: 0, maxSpeed: ct.maxSpeed, accel: ct.accel, handling: ct.handling, color: ct.color, name: ct.name, isNPC: false, ...base, origMaxSpeed: ct.maxSpeed };
   const dirs = [0, Math.PI / 2, Math.PI, Math.PI * 1.5];
   const npcs: CarData[] = [];
   for (let i = 0; i < NPC_COUNT; i++) {
@@ -672,10 +718,11 @@ interface SceneProps {
   missionsRef: React.RefObject<MissionData[]>;
   gameDataRef: React.RefObject<SaveData | null>;
   carsDataRef: React.RefObject<CarData[]>;
+  timeTrialRef: React.RefObject<TimeTrial | null>;
   onEnd: () => void;
 }
 
-const GameScene = React.memo(function GameScene({ running, resuming, keysRef, touchRef, actionRef, brakeRef, nitroActiveRef, hudRef, missionsRef, gameDataRef, carsDataRef, onEnd }: SceneProps) {
+const GameScene = React.memo(function GameScene({ running, resuming, keysRef, touchRef, actionRef, brakeRef, nitroActiveRef, hudRef, missionsRef, gameDataRef, carsDataRef, timeTrialRef, onEnd }: SceneProps) {
   const { camera } = useThree();
   const buildings = useMemo(genBuildings, []);
   const trees = useMemo(genTrees, []);
@@ -806,7 +853,8 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
         // Drift: very light braking — keep momentum while sliding
         car.speed *= 0.993;
         if (!ds.active) { ds.active = true; ds.score = 0; }
-        ds.score = Math.min(10, ds.score + Math.abs(car.speed) * dt * 0.5);
+        const dMult = getCarType(getActiveCar()).driftMult;
+        ds.score = Math.min(50, ds.score + Math.abs(car.speed) * dt * 0.5 * dMult);
         ds.timer = 1.5;
         // Tire marks during drift
         const tm = tireMarks.current;
@@ -834,10 +882,16 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
       car.speed = Math.max(-car.maxSpeed * 0.4, Math.min(effectiveMax, car.speed));
       if (Math.abs(car.speed) < 0.15) car.speed = 0;
 
-      // Drift end — award points
+      // Drift end — award points + stars for big drifts
       if (!isDrifting && ds.active) {
         const bonus = Math.round(ds.score);
-        if (bonus > 5) { hud.score += bonus; hud.msg = `DRIFT +${bonus}!`; hud.msgT = 2; }
+        if (bonus > 5) {
+          hud.score += bonus;
+          // Award 1 star for drifts >= 25 pts, 2 stars for >= 40 pts
+          const starBonus = bonus >= 40 ? 2 : bonus >= 25 ? 1 : 0;
+          if (starBonus > 0) { addStars(starBonus); hud.msg = `DRIFT +${bonus}! ★+${starBonus}`; } else { hud.msg = `DRIFT +${bonus}!`; }
+          hud.msgT = 2;
+        }
         ds.totalScore += bonus; ds.active = false;
       }
       if (ds.timer > 0) ds.timer -= dt;
@@ -1032,14 +1086,14 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
         } else {
           if (Math.sqrt((p.x - m.dx) ** 2 + (p.z - m.dz) ** 2) < 4) {
             m.completed = true; hud.score += m.points; hud.missions++;
-            hud.msg = `📦 +${m.points} pts!`; hud.msgT = 2; missionCompleted = true;
+            addStars(1); hud.msg = `📦 +${m.points} pts! ★+1`; hud.msgT = 2; missionCompleted = true;
           }
         }
       } else if (m.type === "parking" && p.inCar >= 0) {
         const c = carsRef.current[p.inCar];
         if (Math.sqrt((c.x - m.px) ** 2 + (c.z - m.pz) ** 2) < 3.5 && Math.abs(c.speed) < 1) {
           m.completed = true; hud.score += m.points; hud.missions++;
-          hud.msg = `🅿️ +${m.points} pts!`; hud.msgT = 2; missionCompleted = true;
+          addStars(1); hud.msg = `🅿️ +${m.points} pts! ★+1`; hud.msgT = 2; missionCompleted = true;
         }
       } else if (m.type === "coins" && m.coins) {
         for (let i = m.coins.length - 1; i >= 0; i--) {
@@ -1050,7 +1104,7 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
         }
         if (m.coins.length === 0 && !m.completed) {
           m.completed = true; hud.score += m.points; hud.missions++;
-          hud.msg = `🪙 +${m.points} bonus!`; hud.msgT = 2; missionCompleted = true;
+          addStars(1); hud.msg = `🪙 +${m.points} bonus! ★+1`; hud.msgT = 2; missionCompleted = true;
         }
       }
     }
@@ -1103,6 +1157,34 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
     if (ambLightRef.current) {
       ambLightRef.current.intensity += (w.amb - ambLightRef.current.intensity) * dt * 0.5;
       ambLightRef.current.color.lerp(new THREE.Color(w.ambC), dt * 0.5);
+    }
+
+    // ── Time Trial logic ──
+    const tt = timeTrialRef.current;
+    if (tt && tt.active && p.inCar >= 0) {
+      tt.timeLeft -= dt;
+      if (tt.timeLeft <= 0) {
+        // Failed
+        tt.active = false; tt.completed = false;
+        timeTrialRef.current = null;
+        hud.msg = "TIME TRIAL FAILED!"; hud.msgT = 3;
+      } else {
+        // Check checkpoint proximity
+        const cp = tt.checkpoints[tt.currentCP];
+        if (cp && Math.sqrt((p.x - cp.x) ** 2 + (p.z - cp.z) ** 2) < 6) {
+          tt.currentCP++;
+          if (tt.currentCP >= tt.checkpoints.length) {
+            // Completed!
+            tt.active = false; tt.completed = true;
+            addStars(TIME_TRIAL_REWARD);
+            hud.score += 150;
+            hud.msg = `TIME TRIAL COMPLETE! ★+${TIME_TRIAL_REWARD}`; hud.msgT = 3;
+            timeTrialRef.current = null;
+          } else {
+            hud.msg = `CP ${tt.currentCP}/${tt.checkpoints.length}`; hud.msgT = 1.5;
+          }
+        }
+      }
     }
 
     if (hud.msgT > 0) hud.msgT -= dt;
@@ -1327,6 +1409,26 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
 
       {/* Rain (weather type 1) */}
       <RainParticles active={weatherState.current.type === 1} />
+
+      {/* Time Trial checkpoints */}
+      {timeTrialRef.current?.active && timeTrialRef.current.checkpoints.map((cp, i) => {
+        if (i < timeTrialRef.current!.currentCP) return null;
+        const isCurrent = i === timeTrialRef.current!.currentCP;
+        return (
+          <group key={`tt-${i}`} position={[cp.x, 0, cp.z]}>
+            <mesh rotation-x={-Math.PI / 2} position={[0, 0.15, 0]}>
+              <ringGeometry args={[isCurrent ? 3 : 2, isCurrent ? 4 : 2.8, 16]} />
+              <meshStandardMaterial color={isCurrent ? "#FFD700" : "#FFD700"} emissive="#FFD700" emissiveIntensity={isCurrent ? 3 : 0.8} side={THREE.DoubleSide} transparent opacity={isCurrent ? 1 : 0.4} />
+            </mesh>
+            {isCurrent && (
+              <mesh position={[0, 4, 0]}>
+                <coneGeometry args={[0.6, 1.5, 4]} />
+                <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={3} />
+              </mesh>
+            )}
+          </group>
+        );
+      })}
     </>
   );
 });
@@ -1346,7 +1448,13 @@ export default function CityDrivePage() {
   const [hudTick, setHudTick] = useState(0);
   const [resuming, setResuming] = useState(false);
   const [hasSave, setHasSave] = useState(initSave);
+  const [showGarage, setShowGarage] = useState(false);
+  const [stars, setStarsState] = useState(() => typeof window !== "undefined" ? getStars() : 0);
+  const [ownedCars, setOwnedCarsState] = useState(() => typeof window !== "undefined" ? getOwnedCars() : ["starter"]);
+  const [activeCar, setActiveCarState] = useState(() => typeof window !== "undefined" ? getActiveCar() : "starter");
   const joystickKnobRef = useRef<HTMLDivElement>(null);
+  const timeTrialRef = useRef<TimeTrial | null>(null);
+  const timeTrialCooldown = useRef(30); // seconds until first trial spawns
 
   const keysRef = useRef(new Set<string>());
   const touchRef = useRef({ active: false, sx: 0, sy: 0, cx: 0, cy: 0 });
@@ -1367,17 +1475,35 @@ export default function CityDrivePage() {
 
   useEffect(() => {
     if (gameState !== "playing") return;
-    const i = setInterval(() => setHudTick(t => t + 1), 250);
+    const i = setInterval(() => {
+      setHudTick(t => t + 1);
+      // Sync stars display
+      setStarsState(getStars());
+      // Time trial spawn logic
+      if (!timeTrialRef.current) {
+        timeTrialCooldown.current -= 0.25;
+        if (timeTrialCooldown.current <= 0) {
+          const cps: { x: number; z: number }[] = [];
+          for (let j = 0; j < TIME_TRIAL_CPS; j++) cps.push(roadPos3D());
+          timeTrialRef.current = { checkpoints: cps, currentCP: 0, timeLeft: TIME_TRIAL_DURATION, active: true, reward: TIME_TRIAL_REWARD, completed: false };
+          timeTrialCooldown.current = 60; // next trial in 60s after this one ends
+        }
+      }
+    }, 250);
     return () => clearInterval(i);
   }, [gameState]);
 
   useEffect(() => {
-    const dn = (e: KeyboardEvent) => { keysRef.current.add(e.key); if (e.key === " ") e.preventDefault(); };
+    const dn = (e: KeyboardEvent) => {
+      keysRef.current.add(e.key);
+      if (e.key === " ") e.preventDefault();
+      if ((e.key === "g" || e.key === "G") && gameState === "playing") setShowGarage(prev => !prev);
+    };
     const up = (e: KeyboardEvent) => keysRef.current.delete(e.key);
     window.addEventListener("keydown", dn);
     window.addEventListener("keyup", up);
     return () => { window.removeEventListener("keydown", dn); window.removeEventListener("keyup", up); };
-  }, []);
+  }, [gameState]);
 
   useEffect(() => {
     if (gameState !== "result" || cardSaved) return;
@@ -1406,6 +1532,21 @@ export default function CityDrivePage() {
   const startGame = () => { setResuming(false); clearSave(); setHasSave(false); setGameState("playing"); };
   const continueGame = () => { setResuming(true); setGameState("playing"); };
   const playAgain = () => { setCardSaved(false); setResuming(false); clearSave(); setHasSave(false); setGameState("playing"); };
+  const buyCar = (id: string) => {
+    const ct = getCarType(id);
+    const s = getStars();
+    if (s < ct.price || ownedCars.includes(id)) return;
+    setStars(s - ct.price);
+    const newOwned = [...ownedCars, id];
+    setOwnedCars(newOwned);
+    setOwnedCarsState(newOwned);
+    setStarsState(s - ct.price);
+  };
+  const selectCar = (id: string) => {
+    if (!ownedCars.includes(id)) return;
+    setActiveCar(id);
+    setActiveCarState(id);
+  };
 
   // Actual max: 5 delivery(100) + 5 parking(80) + 5 coins(50+50bonus) = 500+400+500 = 1400
   const totalForRarity = 1400;
@@ -1415,7 +1556,7 @@ export default function CityDrivePage() {
   return (
     <div className="fixed inset-0 bg-[#0a0e1a] overflow-hidden select-none" style={{ touchAction: "none" }}>
       <Canvas camera={{ fov: 65, near: 0.1, far: 550, position: [4, 8, -8] }} dpr={[1, 1.5]} gl={{ powerPreference: "high-performance", antialias: false }}>
-        <GameScene running={gameState === "playing"} resuming={resuming} keysRef={keysRef} touchRef={touchRef} actionRef={actionRef} brakeRef={brakeRef} nitroActiveRef={nitroActiveRef} hudRef={hudRef} missionsRef={missionsRef} gameDataRef={gameDataRef} carsDataRef={carsDataRef} onEnd={endGame} />
+        <GameScene running={gameState === "playing"} resuming={resuming} keysRef={keysRef} touchRef={touchRef} actionRef={actionRef} brakeRef={brakeRef} nitroActiveRef={nitroActiveRef} hudRef={hudRef} missionsRef={missionsRef} gameDataRef={gameDataRef} carsDataRef={carsDataRef} timeTrialRef={timeTrialRef} onEnd={endGame} />
       </Canvas>
 
       {/* HUD overlay */}
@@ -1426,14 +1567,31 @@ export default function CityDrivePage() {
             <span className="text-white/70 font-bold text-lg leading-none">✕</span>
           </button>
 
-          {/* Score */}
+          {/* Score + Stars */}
           <div className="absolute top-3 left-3 bg-black/70 backdrop-blur-sm rounded-xl px-4 py-2 border border-orange-500/30">
-            <div className="text-orange-400 font-black text-xl">{hud.score} <span className="text-xs text-white/40">PTS</span></div>
+            <div className="flex items-center justify-between gap-3">
+              <div className="text-orange-400 font-black text-xl">{hud.score} <span className="text-xs text-white/40">PTS</span></div>
+              <div className="text-purple-400 font-black text-sm">★{stars}</div>
+            </div>
             <div className="text-white/50 text-[10px]">{hud.missions}/{TOTAL_M} completed</div>
             <div className="w-full h-1 bg-white/10 rounded-full mt-1">
               <div className="h-full rounded-full bg-orange-500/70 transition-all" style={{ width: `${(hud.missions / TOTAL_M) * 100}%` }} />
             </div>
           </div>
+
+          {/* Garage button */}
+          <button onClick={() => setShowGarage(true)} className="absolute top-3 left-[180px] w-9 h-9 rounded-full bg-black/70 backdrop-blur-sm border border-purple-400/40 flex items-center justify-center pointer-events-auto active:bg-purple-500/30 transition-all z-30">
+            <span className="text-lg">🏎️</span>
+          </button>
+
+          {/* Time Trial HUD */}
+          {timeTrialRef.current?.active && (
+            <div className="absolute top-3 left-1/2 -translate-x-1/2 bg-black/80 backdrop-blur-sm rounded-xl px-4 py-2 border border-yellow-500/40">
+              <div className="text-yellow-400 font-black text-sm text-center">TIME TRIAL</div>
+              <div className="text-white font-black text-xl text-center">{Math.ceil(timeTrialRef.current.timeLeft)}s</div>
+              <div className="text-white/50 text-[10px] text-center">CP {timeTrialRef.current.currentCP}/{timeTrialRef.current.checkpoints.length} • ★{timeTrialRef.current.reward}</div>
+            </div>
+          )}
 
           {/* Mini-map */}
           <MiniMap hudRef={hudRef} missionsRef={missionsRef} carsRef={carsDataRef} />
@@ -1456,7 +1614,7 @@ export default function CityDrivePage() {
           )}
 
           {/* Drift score popup */}
-          {hud.drifting && hud.driftScore > 5 && (
+          {hud.drifting && hud.driftScore > 3 && (
             <div className="absolute top-1/3 left-1/2 -translate-x-1/2">
               <div className="text-orange-400 font-black text-3xl text-center animate-pulse drop-shadow-lg">
                 DRIFT
@@ -1496,7 +1654,7 @@ export default function CityDrivePage() {
           </div>
 
           <div className="absolute bottom-3 left-3 text-[9px] text-white/20">
-            WASD: move • SPACE: brake/enter • E/SHIFT: nitro on/off
+            WASD: move • SPACE: brake/enter • E/SHIFT: nitro • G: garage
           </div>
         </div>
       )}
@@ -1533,6 +1691,86 @@ export default function CityDrivePage() {
           </button>
         </>
       )}
+
+      {/* GARAGE / SHOP OVERLAY */}
+      <AnimatePresence>
+        {showGarage && gameState === "playing" && (
+          <motion.div className="absolute inset-0 z-40 flex items-center justify-center bg-black/85 backdrop-blur-sm"
+            initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
+            <motion.div initial={{ scale: 0.92, y: 15 }} animate={{ scale: 1, y: 0 }} transition={{ type: "spring", damping: 20 }}
+              className="w-full max-w-md mx-4 bg-[#12152a] rounded-2xl border border-purple-500/30 overflow-hidden max-h-[85vh] flex flex-col">
+              {/* Header */}
+              <div className="flex items-center justify-between px-5 py-3 border-b border-white/10">
+                <div className="flex items-center gap-2">
+                  <span className="text-xl">🏎️</span>
+                  <h2 className="text-white font-black text-lg">GARAGE</h2>
+                </div>
+                <div className="flex items-center gap-3">
+                  <div className="text-purple-400 font-black text-lg">★{stars}</div>
+                  <button onClick={() => setShowGarage(false)} className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center text-white/60 hover:bg-white/20 transition-all">✕</button>
+                </div>
+              </div>
+              {/* Car list */}
+              <div className="overflow-y-auto flex-1 p-4 space-y-3">
+                {CAR_TYPES.map(ct => {
+                  const owned = ownedCars.includes(ct.id);
+                  const isActive = activeCar === ct.id;
+                  const canBuy = !owned && stars >= ct.price;
+                  return (
+                    <div key={ct.id} className={`rounded-xl p-4 border transition-all ${isActive ? "border-purple-500/60 bg-purple-500/10" : owned ? "border-white/15 bg-white/5" : "border-white/8 bg-white/[0.02]"}`}>
+                      <div className="flex items-start gap-3">
+                        {/* Car color swatch */}
+                        <div className="w-12 h-12 rounded-lg flex-shrink-0 flex items-center justify-center" style={{ backgroundColor: ct.color + "33", borderColor: ct.color + "66", borderWidth: 2 }}>
+                          <div className="w-6 h-4 rounded-sm" style={{ backgroundColor: ct.color }} />
+                        </div>
+                        <div className="flex-1 min-w-0">
+                          <div className="flex items-center gap-2">
+                            <span className="text-white font-bold text-sm">{ct.name}</span>
+                            {isActive && <span className="text-[9px] bg-purple-500/30 text-purple-300 px-1.5 py-0.5 rounded-full font-bold">ACTIVE</span>}
+                            {!owned && <span className="text-yellow-400 text-xs font-bold">★{ct.price}</span>}
+                          </div>
+                          <p className="text-white/40 text-[10px] mt-0.5">{ct.desc}</p>
+                          {/* Stats bars */}
+                          <div className="grid grid-cols-2 gap-x-3 gap-y-1 mt-2">
+                            {[
+                              { label: "SPD", val: ct.maxSpeed / 72, color: "#00FF88" },
+                              { label: "HDL", val: ct.handling / 4, color: "#00AAFF" },
+                              { label: "DFT", val: ct.driftMult / 1.5, color: "#FF6600" },
+                              { label: "NOS", val: ct.nitroEff / 1.5, color: "#B44DFF" },
+                            ].map(s => (
+                              <div key={s.label} className="flex items-center gap-1.5">
+                                <span className="text-[9px] text-white/30 w-6">{s.label}</span>
+                                <div className="flex-1 h-1.5 bg-white/10 rounded-full">
+                                  <div className="h-full rounded-full transition-all" style={{ width: `${Math.min(100, s.val * 100)}%`, backgroundColor: s.color }} />
+                                </div>
+                              </div>
+                            ))}
+                          </div>
+                        </div>
+                      </div>
+                      {/* Action button */}
+                      <div className="mt-3">
+                        {isActive ? (
+                          <div className="text-center text-purple-400/60 text-xs font-bold">SELECTED</div>
+                        ) : owned ? (
+                          <button onClick={() => selectCar(ct.id)} className="w-full py-2 rounded-lg bg-purple-500/20 border border-purple-400/30 text-purple-300 text-xs font-bold hover:bg-purple-500/30 active:scale-[0.98] transition-all pointer-events-auto">SELECT</button>
+                        ) : canBuy ? (
+                          <button onClick={() => buyCar(ct.id)} className="w-full py-2 rounded-lg bg-yellow-500/20 border border-yellow-400/30 text-yellow-300 text-xs font-bold hover:bg-yellow-500/30 active:scale-[0.98] transition-all pointer-events-auto">BUY ★{ct.price}</button>
+                        ) : (
+                          <div className="text-center text-white/20 text-xs font-bold">★{ct.price} NEEDED</div>
+                        )}
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+              <div className="px-5 py-3 border-t border-white/10 text-center text-white/30 text-[10px]">
+                Earn ★ from missions, drifts & time trials
+              </div>
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
 
       {/* MENU */}
       <AnimatePresence>
