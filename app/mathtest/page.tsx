@@ -570,10 +570,10 @@ export default function MathTestPage() {
   const handleGradeSelect = (grade: number) => {
     setSelectedGrade(grade);
     saveMathGrade(grade);
-    setTestType("practice"); // Skip test-type-select, go directly to practice
+    setTestType(null);
     setGradeResult(null);
     setKlassenarbeitResult(null);
-    // Will trigger handleTestTypeSelect via effect
+    setGameState("test-type-select");
   };
 
   // Direct Practice Test Generator (skips theme selection)
