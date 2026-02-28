@@ -34,6 +34,11 @@ import {
   type RealisticKlassenarbeit,
 } from "@/lib/mathCurriculum";
 import {
+  generateTest as generateThemeBasedTest,
+  getAvailableThemes,
+  type Test as ThemeBasedTest,
+} from "@/lib/mathTestGenerator";
+import {
   COUNTRIES,
   getCountryByCode,
   getSavedCountry,
@@ -286,7 +291,7 @@ function updateStreak(): number {
 
 // ─── MAIN COMPONENT ─────────────────────────────
 
-type GameState = "country-select" | "grade-select" | "test-type-select" | "countdown" | "playing" | "grading" | "result" | "reward";
+type GameState = "country-select" | "grade-select" | "test-type-select" | "theme-select" | "countdown" | "playing" | "grading" | "result" | "reward";
 type TestType = "practice" | "klassenarbeit" | null;
 
 export default function MathTestPage() {
@@ -296,6 +301,7 @@ export default function MathTestPage() {
   const [selectedGrade, setSelectedGrade] = useState<number | null>(null);
   const [previousGrade, setPreviousGrade] = useState<number | null>(null);
   const [testType, setTestType] = useState<TestType>(null);
+  const [selectedTheme, setSelectedTheme] = useState<string | null>(null);
   const [countdown, setCountdown] = useState(3);
   const [questions, setQuestions] = useState<MathQuestion[]>([]);
   const [answers, setAnswers] = useState<(number | null)[]>([]);
@@ -560,6 +566,14 @@ export default function MathTestPage() {
     if (!type || !selectedGrade) return;
 
     setTestType(type);
+    setSelectedTheme(null);
+    setGameState("theme-select");
+  };
+
+  const handleThemeSelect = async (theme: string) => {
+    if (!selectedGrade || !testType) return;
+
+    setSelectedTheme(theme);
     setCountdown(3);
     setElapsedTime(0);
     setGradingIndex(-1);
@@ -572,80 +586,39 @@ export default function MathTestPage() {
     answerTimesRef.current = [];
     lastAnswerTimeRef.current = 0;
 
-    // ─── Initialize Klassenarbeit timer ─────────────────────
-    if (type === "klassenarbeit") {
-      const now = Date.now();
-      setKlassenarbeitStartTime(now);
-      setKlassenarbeitTimeLeft(1800); // 30 minutes
-      localStorage.setItem("klassenarbeitStartTime", now.toString());
-    } else {
-      setKlassenarbeitStartTime(null);
-      setKlassenarbeitTimeLeft(1800);
-      localStorage.removeItem("klassenarbeitStartTime");
-    }
+    // ─── Initialize Klassenarbeit timer (40 minutes for theme-based tests) ─────────────────────
+    const now = Date.now();
+    setKlassenarbeitStartTime(now);
+    setKlassenarbeitTimeLeft(40 * 60); // 40 minutes = 2400 seconds
+    localStorage.setItem("klassenarbeitStartTime", now.toString());
 
-    if (useSupabase && type === "practice") {
-      try {
-        const cc = country?.code || "HU";
-        const bpId = await findBlueprint(cc, selectedGrade, "practice");
-        const session = await createSupabaseTest(selectedGrade, cc, bpId);
-        setTestSession(session);
-        setQuestions(session.questions);
-        setAnswers(new Array(session.questions.length).fill(null));
-        answerTimesRef.current = new Array(session.questions.length).fill(0);
-        setAvatarMood("idle");
-        setGameState("playing");
-      } catch (err) {
-        console.error("[Supabase] createTest failed:", err);
-        // Fallback to local generation if Supabase fails
-        const test = generateTest(selectedGrade, undefined, country?.code);
-        setQuestions(test);
-        setAnswers(new Array(test.length).fill(null));
-        setAvatarMood("idle");
-        setGameState("playing");
+    try {
+      // Generate theme-based test (15 questions: 5 easy, 7 medium, 3 hard)
+      const themeBasedTest = generateThemeBasedTest(selectedGrade, theme);
+      console.log(`[Theme Test] Generated ${themeBasedTest.tasks.length} questions for theme "${theme}"`);
+
+      if (themeBasedTest.tasks.length === 0) {
+        throw new Error("No questions generated");
       }
-    } else {
-      // Generate locally (Klassenarbeit or Practice without Supabase)
-      if (type === "klassenarbeit") {
-        // Use new realistic Klassenarbeit format with grouped tasks
-        try {
-          const realistic = generateRealisticKlassenarbeit(selectedGrade, undefined, country?.code);
-          console.log(`[Realistic Klassenarbeit] Generated ${realistic.tasks.length} grouped tasks`);
 
-          if (realistic.tasks.length === 0) {
-            throw new Error("No tasks generated");
-          }
+      // Convert Theme-based test to MathQuestion format
+      const mathQuestions: MathQuestion[] = themeBasedTest.tasks.map((task, index) => ({
+        question: task.question,
+        correctAnswer: task.correct, // Store the index, not the value
+        options: task.options.map(opt => typeof opt === 'number' ? opt : parseInt(opt as string, 10)),
+        topic: task.id,
+        isWordProblem: false,
+      }));
 
-          setRealisticKlassenarbeit(realistic);
-          setGroupedTaskAnswers({});
-          setAvatarMood("idle");
-          setGameState("playing");
-        } catch (err) {
-          console.error("[Realistic Klassenarbeit] Failed:", err);
-          // Fallback to old format
-          console.log("[Fallback] Using old individual question format...");
-          const test = generateKlassenarbeit(selectedGrade, undefined, country?.code);
-          setQuestions(test);
-          setAnswers(new Array(test.length).fill(null));
-          setRealisticKlassenarbeit(null);
-          setAvatarMood("idle");
-          setGameState("playing");
-        }
-      } else {
-        // Practice test - use existing format
-        const test = generateTest(selectedGrade, undefined, country?.code);
-        console.log(`[Test] Generated ${test.length} questions for ${type}`);
-
-        if (test.length === 0) {
-          throw new Error("No questions generated");
-        }
-
-        setQuestions(test);
-        setAnswers(new Array(test.length).fill(null));
-        setRealisticKlassenarbeit(null);
-        setAvatarMood("idle");
-        setGameState("playing");
-      }
+      setQuestions(mathQuestions);
+      setAnswers(new Array(mathQuestions.length).fill(null));
+      setRealisticKlassenarbeit(null);
+      setAvatarMood("idle");
+      setGameState("countdown");
+    } catch (err) {
+      console.error("[Theme Test] Failed:", err);
+      alert("Error generating test. Please try again.");
+      setGameState("theme-select");
     }
   };
 
@@ -833,6 +806,83 @@ export default function MathTestPage() {
   }
 
   // ─── GRADE SELECT SCREEN ─────────────────────────────
+
+  // ─── THEME SELECT SCREEN ─────────────────────────────
+
+  if (gameState === "theme-select" && country && selectedGrade && testType) {
+    const availableThemes = getAvailableThemes(selectedGrade);
+
+    return (
+      <>
+        <main className="min-h-screen relative overflow-hidden bg-bg">
+          <Scene3D />
+          <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4 py-8 gap-8">
+            {/* Back */}
+            <motion.div className="absolute top-6 left-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+              <motion.button
+                onClick={() => setGameState("test-type-select")}
+                className="p-2 rounded-full hover:bg-white/10 transition-colors"
+                whileHover={{ scale: 1.1 }}
+                whileTap={{ scale: 0.95 }}
+              >
+                <ArrowLeft size={24} className="text-white" />
+              </motion.button>
+            </motion.div>
+
+            {/* Header */}
+            <motion.div
+              className="flex flex-col items-center gap-4"
+              initial={{ opacity: 0, y: -20 }}
+              animate={{ opacity: 1, y: 0 }}
+            >
+              <motion.div
+                animate={{ rotate: 360 }}
+                transition={{ duration: 20, repeat: Infinity, ease: "linear" }}
+              >
+                <BookOpen
+                  size={40}
+                  className="text-blue-400"
+                  style={{ filter: "drop-shadow(0 0 10px rgba(96,165,250,0.5))" }}
+                />
+              </motion.div>
+              <h1
+                className="text-3xl font-black text-white tracking-wider"
+                style={{ textShadow: "0 0 20px rgba(96,165,250,0.3)" }}
+              >
+                Válassz témakört!
+              </h1>
+              <p className="text-white/40 text-sm font-medium">15 kérdés, 40 percig</p>
+            </motion.div>
+
+            {/* Theme buttons */}
+            <motion.div
+              className="grid grid-cols-1 md:grid-cols-2 gap-4 w-full max-w-2xl"
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.2 }}
+            >
+              {availableThemes.map((theme, idx) => (
+                <motion.button
+                  key={theme.name}
+                  onClick={() => handleThemeSelect(theme.name)}
+                  className="flex flex-col gap-2 px-6 py-6 rounded-2xl border-2 border-white/20 bg-white/5 transition-all hover:bg-white/10 hover:border-blue-400/50"
+                  initial={{ opacity: 0, scale: 0.9 }}
+                  animate={{ opacity: 1, scale: 1 }}
+                  transition={{ delay: 0.3 + idx * 0.1 }}
+                  whileHover={{ scale: 1.03, borderColor: "rgba(96,165,250,0.8)" }}
+                  whileTap={{ scale: 0.97 }}
+                >
+                  <h3 className="text-white font-black text-lg">{theme.name}</h3>
+                  <p className="text-white/50 text-sm text-left">{theme.description}</p>
+                </motion.button>
+              ))}
+            </motion.div>
+          </div>
+        </main>
+        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
+      </>
+    );
+  }
 
   if (gameState === "test-type-select" && country && selectedGrade) {
     return (
