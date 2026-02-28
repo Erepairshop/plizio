@@ -296,8 +296,8 @@ function updateStreak(): number {
 
 // ─── MAIN COMPONENT ─────────────────────────────
 
-type GameState = "country-select" | "grade-select" | "test-type-select" | "theme-select" | "countdown" | "playing" | "grading" | "result" | "reward";
-type TestType = "practice" | "klassenarbeit" | null;
+type GameState = "country-select" | "grade-select" | "theme-select" | "countdown" | "playing" | "grading" | "result" | "reward";
+type TestType = "klassenarbeit" | null;
 
 export default function MathTestPage() {
   const router = useRouter();
@@ -364,12 +364,6 @@ export default function MathTestPage() {
     if (prev) setPreviousGrade(prev);
   }, []);
 
-  // Auto-start practice test when grade is selected
-  useEffect(() => {
-    if (testType === "practice" && selectedGrade && country) {
-      handleStartPracticeTest();
-    }
-  }, [testType, selectedGrade, country]);
 
   const handleCountrySelect = (c: CountryConfig) => {
     setCountry(c);
@@ -570,77 +564,13 @@ export default function MathTestPage() {
   const handleGradeSelect = (grade: number) => {
     setSelectedGrade(grade);
     saveMathGrade(grade);
-    setTestType(null);
-    setGradeResult(null);
-    setKlassenarbeitResult(null);
-    setGameState("test-type-select");
-  };
-
-  // Direct Practice Test Generator (skips theme selection)
-  const handleStartPracticeTest = async () => {
-    if (!selectedGrade) return;
-
-    setCountdown(3);
-    setElapsedTime(0);
-    setGradingIndex(-1);
-    setGradeResult(null);
-    setKlassenarbeitResult(null);
-    setServerResult(null);
-    setSaved(false);
-    setCardRarity(null);
-    setTestSession(null);
-    answerTimesRef.current = [];
-    lastAnswerTimeRef.current = 0;
-
-    try {
-      // Get available themes and use the first one (Zahlen und Operationen)
-      const availableThemes = getAvailableThemes(selectedGrade);
-      if (!availableThemes || availableThemes.length === 0) {
-        throw new Error("No themes available");
-      }
-
-      const firstTheme = availableThemes[0].name;
-      console.log(`[Practice Test] Using theme: ${firstTheme}`);
-
-      // Generate 10-question practice test using the first theme
-      const practiceTest = generateThemeBasedTest(selectedGrade, firstTheme);
-
-      if (!practiceTest || practiceTest.tasks.length === 0) {
-        throw new Error("Failed to generate practice test");
-      }
-
-      // Convert to MathQuestion format
-      const mathQuestions: MathQuestion[] = practiceTest.tasks.slice(0, 10).map((task) => ({
-        question: task.question,
-        correctAnswer: task.correct,
-        options: task.options.map(opt => typeof opt === 'number' ? opt : parseInt(opt as string, 10)),
-        topic: task.id,
-        isWordProblem: false,
-      }));
-
-      setQuestions(mathQuestions);
-      setAnswers(new Array(mathQuestions.length).fill(null));
-      setRealisticKlassenarbeit(null);
-      setAvatarMood("idle");
-      // Skip countdown, go straight to playing
-      lastAnswerTimeRef.current = 0;
-      setGameState("playing");
-    } catch (err) {
-      console.error("[Practice Test] Failed to generate:", err);
-      alert("Hiba történt a teszt generálása során. Kérlek próbáld újra!");
-      setGameState("grade-select");
-    }
-  };
-
-  const handleTestTypeSelect = async (type: TestType) => {
-    if (!type || !selectedGrade) return;
-
-    setTestType(type);
-    setSelectedTheme(null);
+    setTestType("klassenarbeit");
     setSelectedSubtopics([]);
-    setGeneratingTest(false);
+    setGradeResult(null);
+    setKlassenarbeitResult(null);
     setGameState("theme-select");
   };
+
 
   const handleSubtopicToggle = (subtopicId: string) => {
     setSelectedSubtopics((prev) => {
@@ -915,8 +845,8 @@ export default function MathTestPage() {
 
   const handlePlayAgain = () => {
     if (selectedGrade) {
-      setGameState("test-type-select");
-      setTestType(null);
+      setSelectedSubtopics([]);
+      setGameState("theme-select");
     }
   };
 
@@ -1027,7 +957,7 @@ export default function MathTestPage() {
             {/* Back Button */}
             <motion.div className="absolute top-6 left-6 md:top-8 md:left-8" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
               <motion.button
-                onClick={() => setGameState("test-type-select")}
+                onClick={() => setGameState("grade-select")}
                 className="p-2 rounded-full hover:bg-white/10 transition-colors"
                 whileHover={{ scale: 1.1 }}
                 whileTap={{ scale: 0.95 }}
@@ -1053,113 +983,6 @@ export default function MathTestPage() {
     );
   }
 
-  if (gameState === "test-type-select" && country && selectedGrade) {
-    return (
-      <>
-        <main className="min-h-screen relative overflow-hidden bg-bg">
-          <Scene3D />
-        <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4 py-8 gap-8">
-          {/* Back */}
-          <motion.div className="absolute top-6 left-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-            <motion.button
-              onClick={() => setGameState("grade-select")}
-              className="p-2 rounded-xl bg-white/5 border border-white/10"
-              whileHover={{ scale: 1.1, backgroundColor: "rgba(255,255,255,0.1)" }}
-              whileTap={{ scale: 0.9 }}
-            >
-              <ArrowLeft size={20} className="text-white/60" />
-            </motion.button>
-          </motion.div>
-
-          {/* Country flag */}
-          <motion.button
-            className="absolute top-6 right-6 text-2xl p-2 rounded-xl bg-white/5 border border-white/10"
-            onClick={() => setGameState("country-select")}
-            whileHover={{ scale: 1.1 }}
-            whileTap={{ scale: 0.9 }}
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-          >
-            {country.flag}
-          </motion.button>
-
-          {/* Title */}
-          <motion.div
-            className="flex flex-col items-center gap-3"
-            initial={{ opacity: 0, y: -20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6 }}
-          >
-            <motion.div
-              className="p-4 rounded-2xl"
-              style={{ background: "rgba(255,215,0,0.1)", boxShadow: "0 0 30px rgba(255,215,0,0.15)" }}
-            >
-              <BookOpen
-                size={40}
-                className="text-gold"
-                style={{ filter: "drop-shadow(0 0 10px rgba(255,215,0,0.5))" }}
-              />
-            </motion.div>
-            <h1
-              className="text-3xl font-black text-white tracking-wider"
-              style={{ textShadow: "0 0 20px rgba(255,215,0,0.3)" }}
-            >
-              {country.gradeLabel(selectedGrade)}
-            </h1>
-            <p className="text-white/40 text-sm font-medium">Mi a teszt típusa?</p>
-          </motion.div>
-
-          {/* Test type buttons */}
-          <motion.div
-            className="flex flex-col gap-4 w-full max-w-sm"
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.4 }}
-          >
-            {/* Practice */}
-            <motion.button
-              onClick={() => handleTestTypeSelect("practice")}
-              className="flex flex-col gap-2 px-6 py-6 rounded-2xl border-2 border-white/20 bg-white/5 transition-all hover:bg-white/10 hover:border-white/30"
-              initial={{ opacity: 0, x: -20 }}
-              animate={{ opacity: 1, x: 0 }}
-              transition={{ delay: 0.5 }}
-              whileHover={{ scale: 1.03 }}
-              whileTap={{ scale: 0.97 }}
-            >
-              <div className="flex items-center gap-3">
-                <span className="text-3xl">📝</span>
-                <div className="text-left">
-                  <h3 className="text-white font-black text-lg">Practice mód</h3>
-                  <p className="text-white/50 text-sm">10 kérdés, gyakorláshoz</p>
-                </div>
-              </div>
-            </motion.button>
-
-            {/* Klassenarbeit */}
-            <motion.button
-              onClick={() => handleTestTypeSelect("klassenarbeit")}
-              className="flex flex-col gap-2 px-6 py-6 rounded-2xl border-2 border-gold/20 bg-gold/5 transition-all hover:bg-gold/10 hover:border-gold/30"
-              initial={{ opacity: 0, x: -20 }}
-              animate={{ opacity: 1, x: 0 }}
-              transition={{ delay: 0.6 }}
-              whileHover={{ scale: 1.03 }}
-              whileTap={{ scale: 0.97 }}
-            >
-              <div className="flex items-center gap-3">
-                <span className="text-3xl">📋</span>
-                <div className="text-left">
-                  <h3 className="text-gold font-black text-lg">Klassenarbeit</h3>
-                  <p className="text-gold/50 text-sm">Iskolai dolgozat, szekciók, pontok</p>
-                </div>
-              </div>
-            </motion.button>
-          </motion.div>
-        </div>
-        </main>
-        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
-      </>
-    );
-  }
 
   // ─── GRADE SELECT SCREEN ─────────────────────────────
 

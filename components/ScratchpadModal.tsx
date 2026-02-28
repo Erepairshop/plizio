@@ -25,13 +25,21 @@ export default function ScratchpadModal({
   // Extract math expression from question
   const steps = useMemo(() => {
     const expressionMatch = questionText.match(/\d+(?:\s*[-+*/]\s*\d+)+/);
-    if (!expressionMatch) return [];
+    if (!expressionMatch) {
+      console.log('[ScratchpadModal] No math expression found in:', questionText);
+      return [];
+    }
 
     const expression = expressionMatch[0];
+    console.log('[ScratchpadModal] Found expression:', expression);
     const needsHelp = needsStepByStepHelp(expression);
+    console.log('[ScratchpadModal] Needs help:', needsHelp);
+
     if (!needsHelp) return [];
 
-    return createStepsFromExpression(expression);
+    const calculatedSteps = createStepsFromExpression(expression);
+    console.log('[ScratchpadModal] Created steps:', calculatedSteps.length);
+    return calculatedSteps;
   }, [questionText]);
 
   if (steps.length === 0) return null;
