@@ -181,15 +181,16 @@ function Character({ mood, skinColor = '#e8c9a0', outfitColor = '#6b8fad' }: Ava
       }
 
       case 'focused': {
-        // Minimal movement, stable posture
+        // Minimal movement, stable posture (no head tilt down)
         const fBreath = Math.sin(t * 1.8) * 0.012;
         bodyRef.current.position.y = fBreath;
 
-        // Head slightly forward (focused lean)
-        headRef.current.rotation.x = lerp(headRef.current.rotation.x, 0.12, 0.08);
+        // Head stays neutral - just subtle micro-movements
+        headRef.current.rotation.y = Math.sin(t * 0.3) * 0.01;
+        headRef.current.rotation.z = Math.sin(t * 0.25 + 0.5) * 0.01;
 
         // Very subtle body sway
-        groupRef.current.rotation.z = Math.sin(t * 1.2) * 0.015;
+        groupRef.current.rotation.z = Math.sin(t * 1.2) * 0.012;
 
         // Straight mouth
         if (mouthRef.current) {
