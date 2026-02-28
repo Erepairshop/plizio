@@ -156,9 +156,8 @@ export default function MathQuestionDisplay({
 }: MathQuestionDisplayProps) {
   const [scratchpadOpen, setScratchpadOpen] = useState(false);
 
-  // Check if question has math expression that needs scratchpad
-  const hasMathExpression = /\d+\s*[-+*/]\s*\d+/.test(question.question);
-  const needsScratchpad = hasMathExpression && needsStepByStepHelp(question.question);
+  // Always show scratchpad button for all questions
+  const needsScratchpad = true;
 
   return (
     <>

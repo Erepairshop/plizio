@@ -22,11 +22,12 @@ export default function ScratchpadModal({
   onClose,
   questionText,
 }: ScratchpadModalProps) {
-  // Extract math expression from question
+  // Extract math expression from question (if any)
   const steps = useMemo(() => {
     const expressionMatch = questionText.match(/\d+(?:\s*[-+*/]\s*\d+)+/);
     if (!expressionMatch) {
       console.log('[ScratchpadModal] No math expression found in:', questionText);
+      // Return empty steps for free scratchpad mode
       return [];
     }
 
@@ -35,14 +36,15 @@ export default function ScratchpadModal({
     const needsHelp = needsStepByStepHelp(expression);
     console.log('[ScratchpadModal] Needs help:', needsHelp);
 
-    if (!needsHelp) return [];
+    if (!needsHelp) {
+      // Return empty steps if expression doesn't need help (e.g., too simple)
+      return [];
+    }
 
     const calculatedSteps = createStepsFromExpression(expression);
     console.log('[ScratchpadModal] Created steps:', calculatedSteps.length);
     return calculatedSteps;
   }, [questionText]);
-
-  if (steps.length === 0) return null;
 
   return (
     <AnimatePresence>
@@ -78,13 +80,37 @@ export default function ScratchpadModal({
 
               {/* Content */}
               <div className="flex justify-center">
-                <DigitalScratchpad
-                  steps={steps}
-                  title="Szám kalkulátor"
-                  showHints={true}
-                  mobile={true}
-                  onComplete={onClose}
-                />
+                {steps.length > 0 ? (
+                  <DigitalScratchpad
+                    steps={steps}
+                    title="Szám kalkulátor"
+                    showHints={true}
+                    mobile={true}
+                    onComplete={onClose}
+                  />
+                ) : (
+                  // Free scratchpad - empty paper for notes
+                  <motion.div
+                    className="w-full max-w-sm bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl shadow-lg border-2 border-blue-200 overflow-hidden"
+                    initial={{ opacity: 0, y: 20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                  >
+                    <div className="bg-gradient-to-r from-blue-600 to-indigo-600 text-white p-4 sm:p-6">
+                      <h2 className="text-lg sm:text-xl font-black flex items-center gap-2">
+                        📝 Szabad Piszkozat
+                      </h2>
+                    </div>
+                    <div className="p-4 sm:p-6">
+                      <div className="bg-white rounded-xl p-8 min-h-96 border-2 border-dashed border-blue-300 flex items-center justify-center">
+                        <div className="text-center space-y-4">
+                          <div className="text-5xl">✏️</div>
+                          <p className="text-slate-600 font-semibold">Rajzolj és jegyzetelj szabadon!</p>
+                          <p className="text-sm text-slate-500">Ez az oldal a saját gondolataidhoz</p>
+                        </div>
+                      </div>
+                    </div>
+                  </motion.div>
+                )}
               </div>
             </div>
           </motion.div>
