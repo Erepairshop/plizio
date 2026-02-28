@@ -349,7 +349,7 @@ export default function MathTestPage() {
     saveCard({
       id: generateCardId(),
       game: "mathtest",
-      theme: `${selectedGrade}. osztály`,
+      theme: country?.gradeLabel(selectedGrade) || `${selectedGrade}. osztály`,
       rarity,
       score: gradeResult.score,
       total: gradeResult.total,
@@ -369,7 +369,7 @@ export default function MathTestPage() {
   const handleGradeSelect = (grade: number) => {
     setSelectedGrade(grade);
     saveMathGrade(grade);
-    const test = generateTest(grade);
+    const test = generateTest(grade, undefined, country?.code);
     setQuestions(test);
     setAnswers(new Array(test.length).fill(null));
     setCountdown(3);
@@ -396,7 +396,7 @@ export default function MathTestPage() {
 
   const handlePlayAgain = () => {
     if (selectedGrade) {
-      const test = generateTest(selectedGrade);
+      const test = generateTest(selectedGrade, undefined, country?.code);
       setQuestions(test);
       setAnswers(new Array(test.length).fill(null));
       setCountdown(3);
@@ -551,7 +551,7 @@ export default function MathTestPage() {
             >
               {ui?.title || "MATEK DOLGOZAT"}
             </h1>
-            <p className="text-white/40 text-sm font-medium">{getPeriodLabel(getPeriod())}</p>
+            <p className="text-white/40 text-sm font-medium">{getPeriodLabel(getPeriod(), country?.code)}</p>
           </motion.div>
 
           {/* Question */}
@@ -656,7 +656,7 @@ export default function MathTestPage() {
                 </h1>
                 <div className="flex justify-between text-xs text-gray-500 font-mono">
                   <span>{ui?.classLabel || "Osztály"}: {selectedGrade}.</span>
-                  <span>{new Date().toLocaleDateString("hu-HU")}</span>
+                  <span>{new Date().toLocaleDateString(country?.code === "DE" ? "de-DE" : country?.code === "US" ? "en-US" : country?.code === "GB" ? "en-GB" : country?.code === "RO" ? "ro-RO" : "hu-HU")}</span>
                 </div>
                 {!isGrading && (
                   <div className="flex items-center gap-1 mt-2 text-xs text-gray-400">
