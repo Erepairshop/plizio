@@ -38,6 +38,8 @@ import {
   getAvailableThemes,
   type Test as ThemeBasedTest,
 } from "@/lib/mathTestGenerator";
+import HierarchicalThemeSelector from "@/components/HierarchicalThemeSelector";
+import curriculum from "@/data/mathematics/class-4/curriculum.json";
 import {
   COUNTRIES,
   getCountryByCode,
@@ -302,6 +304,8 @@ export default function MathTestPage() {
   const [previousGrade, setPreviousGrade] = useState<number | null>(null);
   const [testType, setTestType] = useState<TestType>(null);
   const [selectedTheme, setSelectedTheme] = useState<string | null>(null);
+  const [selectedSubtopics, setSelectedSubtopics] = useState<string[]>([]);
+  const [generatingTest, setGeneratingTest] = useState(false);
   const [countdown, setCountdown] = useState(3);
   const [questions, setQuestions] = useState<MathQuestion[]>([]);
   const [answers, setAnswers] = useState<(number | null)[]>([]);
@@ -567,7 +571,146 @@ export default function MathTestPage() {
 
     setTestType(type);
     setSelectedTheme(null);
+    setSelectedSubtopics([]);
+    setGeneratingTest(false);
     setGameState("theme-select");
+  };
+
+  const handleSubtopicToggle = (subtopicId: string) => {
+    setSelectedSubtopics((prev) => {
+      if (prev.includes(subtopicId)) {
+        return prev.filter(id => id !== subtopicId);
+      } else {
+        return [...prev, subtopicId];
+      }
+    });
+  };
+
+  const handlePreviewSubtopic = (subtopicId: string) => {
+    console.log(`Preview subtopic: ${subtopicId}`);
+    // Todo: Show preview modal with sample questions
+  };
+
+  const handleStartMultiThemeTest = async () => {
+    if (!selectedGrade || !testType || selectedSubtopics.length === 0) return;
+
+    setGeneratingTest(true);
+    setElapsedTime(0);
+    setGradingIndex(-1);
+    setGradeResult(null);
+    setKlassenarbeitResult(null);
+    setServerResult(null);
+    setSaved(false);
+    setCardRarity(null);
+    setTestSession(null);
+    answerTimesRef.current = [];
+    lastAnswerTimeRef.current = 0;
+
+    // ─── Initialize 40-minute timer ─────────────────────
+    const now = Date.now();
+    setKlassenarbeitStartTime(now);
+    setKlassenarbeitTimeLeft(40 * 60); // 40 minutes = 2400 seconds
+    localStorage.setItem("klassenarbeitStartTime", now.toString());
+
+    try {
+      // Collect all task IDs from selected subtopics
+      const allTaskIds: string[] = [];
+
+      for (const theme of curriculum.themes) {
+        for (const subtopic of theme.subtopics) {
+          if (selectedSubtopics.includes(subtopic.id)) {
+            allTaskIds.push(...subtopic.taskIds);
+          }
+        }
+      }
+
+      if (allTaskIds.length === 0) {
+        throw new Error("No tasks found for selected subtopics");
+      }
+
+      console.log(`[Multi-Theme Test] Collected ${allTaskIds.length} tasks from ${selectedSubtopics.length} subtopics`);
+
+      // Load all relevant task files
+      const allTasks: any[] = [];
+
+      // Get unique task files needed
+      const taskFilesNeeded = new Set<string>();
+      for (const theme of curriculum.themes) {
+        for (const subtopic of theme.subtopics) {
+          if (selectedSubtopics.includes(subtopic.id)) {
+            taskFilesNeeded.add(subtopic.taskFile);
+          }
+        }
+      }
+
+      // Load and parse JSON files
+      for (const fileName of taskFilesNeeded) {
+        try {
+          // Dynamically import the task file
+          const module = await import(`@/data/mathematics/class-4/${fileName.replace('.json', '')}`);
+          const fileData = module.default;
+
+          // Filter tasks by selected task IDs
+          if (fileData.tasks) {
+            const relevantTasks = fileData.tasks.filter((task: any) => allTaskIds.includes(task.id));
+            allTasks.push(...relevantTasks);
+          }
+        } catch (err) {
+          console.error(`Failed to load ${fileName}:`, err);
+        }
+      }
+
+      if (allTasks.length === 0) {
+        throw new Error("Failed to load tasks");
+      }
+
+      // Shuffle and select 15 questions with balanced difficulty
+      const easyTasks = allTasks.filter(t => t.difficulty === 'easy');
+      const mediumTasks = allTasks.filter(t => t.difficulty === 'medium');
+      const hardTasks = allTasks.filter(t => t.difficulty === 'hard');
+
+      const shuffleArray = <T,>(arr: T[]): T[] => {
+        const shuffled = [...arr];
+        for (let i = shuffled.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+        }
+        return shuffled;
+      };
+
+      const selectedTasks = [
+        ...shuffleArray(easyTasks).slice(0, 5),      // 5 easy
+        ...shuffleArray(mediumTasks).slice(0, 7),    // 7 medium
+        ...shuffleArray(hardTasks).slice(0, 3),      // 3 hard
+      ];
+
+      const testTasks = shuffleArray(selectedTasks);
+
+      // Convert to MathQuestion format
+      const mathQuestions: MathQuestion[] = testTasks.map((task) => ({
+        question: task.question,
+        correctAnswer: task.correct,
+        options: task.options.map((opt: any) => typeof opt === 'number' ? opt : parseInt(opt as string, 10)),
+        topic: task.id,
+        isWordProblem: false,
+      }));
+
+      console.log(`[Multi-Theme Test] Generated ${mathQuestions.length} balanced questions`);
+
+      setQuestions(mathQuestions);
+      setAnswers(new Array(mathQuestions.length).fill(null));
+      setRealisticKlassenarbeit(null);
+      setAvatarMood("idle");
+
+      // Start test directly without countdown
+      lastAnswerTimeRef.current = 0;
+      setGameState("playing");
+    } catch (err) {
+      console.error("[Multi-Theme Test] Failed:", err);
+      alert("Error generating test. Please try again.");
+    } finally {
+      setGeneratingTest(false);
+    }
   };
 
   const handleThemeSelect = async (theme: string) => {
@@ -807,18 +950,16 @@ export default function MathTestPage() {
 
   // ─── GRADE SELECT SCREEN ─────────────────────────────
 
-  // ─── THEME SELECT SCREEN ─────────────────────────────
+  // ─── THEME SELECT SCREEN (Hierarchical) ─────────────────────────────
 
   if (gameState === "theme-select" && country && selectedGrade && testType) {
-    const availableThemes = getAvailableThemes(selectedGrade);
-
     return (
       <>
         <main className="min-h-screen relative overflow-hidden bg-bg">
           <Scene3D />
           <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4 py-8 gap-8">
-            {/* Back */}
-            <motion.div className="absolute top-6 left-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {/* Back Button */}
+            <motion.div className="absolute top-6 left-6 md:top-8 md:left-8" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
               <motion.button
                 onClick={() => setGameState("test-type-select")}
                 className="p-2 rounded-full hover:bg-white/10 transition-colors"
@@ -829,54 +970,16 @@ export default function MathTestPage() {
               </motion.button>
             </motion.div>
 
-            {/* Header */}
-            <motion.div
-              className="flex flex-col items-center gap-4"
-              initial={{ opacity: 0, y: -20 }}
-              animate={{ opacity: 1, y: 0 }}
-            >
-              <motion.div
-                animate={{ rotate: 360 }}
-                transition={{ duration: 20, repeat: Infinity, ease: "linear" }}
-              >
-                <BookOpen
-                  size={40}
-                  className="text-blue-400"
-                  style={{ filter: "drop-shadow(0 0 10px rgba(96,165,250,0.5))" }}
-                />
-              </motion.div>
-              <h1
-                className="text-3xl font-black text-white tracking-wider"
-                style={{ textShadow: "0 0 20px rgba(96,165,250,0.3)" }}
-              >
-                Válassz témakört!
-              </h1>
-              <p className="text-white/40 text-sm font-medium">15 kérdés, 40 percig</p>
-            </motion.div>
-
-            {/* Theme buttons */}
-            <motion.div
-              className="grid grid-cols-1 md:grid-cols-2 gap-4 w-full max-w-2xl"
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: 0.2 }}
-            >
-              {availableThemes.map((theme, idx) => (
-                <motion.button
-                  key={theme.name}
-                  onClick={() => handleThemeSelect(theme.name)}
-                  className="flex flex-col gap-2 px-6 py-6 rounded-2xl border-2 border-white/20 bg-white/5 transition-all hover:bg-white/10 hover:border-blue-400/50"
-                  initial={{ opacity: 0, scale: 0.9 }}
-                  animate={{ opacity: 1, scale: 1 }}
-                  transition={{ delay: 0.3 + idx * 0.1 }}
-                  whileHover={{ scale: 1.03, borderColor: "rgba(96,165,250,0.8)" }}
-                  whileTap={{ scale: 0.97 }}
-                >
-                  <h3 className="text-white font-black text-lg">{theme.name}</h3>
-                  <p className="text-white/50 text-sm text-left">{theme.description}</p>
-                </motion.button>
-              ))}
-            </motion.div>
+            {/* Hierarchical Theme Selector */}
+            <HierarchicalThemeSelector
+              themes={curriculum.themes}
+              selectedSubtopics={selectedSubtopics}
+              onSubtopicToggle={handleSubtopicToggle}
+              onPreview={handlePreviewSubtopic}
+              onStartTest={handleStartMultiThemeTest}
+              onClearSelection={() => setSelectedSubtopics([])}
+              loading={generatingTest}
+            />
           </div>
         </main>
         <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
