@@ -130,7 +130,7 @@ function generateSyntheticQuestionsForSection(
 ): MathQuestion[] {
   const synthetic: MathQuestion[] = [];
 
-  const templates: Record<string, { template: string; answerFn: (i: number) => number }[]> = {
+  const templates: Record<string, { template: (i: number) => string; answerFn: (i: number) => number }[]> = {
     "Kopfrechnen": [
       { template: (i) => `${10 + i} + ${5 + (i % 3)} = ?`, answerFn: (i) => 10 + i + 5 + (i % 3) },
       { template: (i) => `${20 + i} - ${8 + (i % 5)} = ?`, answerFn: (i) => 20 + i - 8 - (i % 5) },

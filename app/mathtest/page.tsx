@@ -296,6 +296,12 @@ export default function MathTestPage() {
   const [saved, setSaved] = useState(false);
   const [elapsedTime, setElapsedTime] = useState(0);
   const [klassenarbeitResult, setKlassenarbeitResult] = useState<KlassenarbeitResult | null>(null);
+
+  // ─── Klassenarbeit timer (30 minutes) ───────────────────────
+  const [klassenarbeitStartTime, setKlassenarbeitStartTime] = useState<number | null>(null);
+  const [klassenarbeitTimeLeft, setKlassenarbeitTimeLeft] = useState(1800); // 30 * 60 = 1800 seconds
+  const klassenarbeitTimerRef = useRef<ReturnType<typeof setInterval> | null>(null);
+
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
   // ─── Supabase integration state ───────────────────────
@@ -351,6 +357,58 @@ export default function MathTestPage() {
       if (timerRef.current) clearInterval(timerRef.current);
     };
   }, [gameState]);
+
+  // ─── Klassenarbeit Timer (30 minutes) ─────────────────────
+  useEffect(() => {
+    if (gameState !== "playing" || testType !== "klassenarbeit") {
+      if (klassenarbeitTimerRef.current) clearInterval(klassenarbeitTimerRef.current);
+      return;
+    }
+
+    // Load start time from localStorage if available (page refresh recovery)
+    let startTime = klassenarbeitStartTime;
+    if (!startTime) {
+      const stored = localStorage.getItem("klassenarbeitStartTime");
+      if (stored) {
+        startTime = parseInt(stored, 10);
+        setKlassenarbeitStartTime(startTime);
+      }
+    }
+
+    if (!startTime) {
+      startTime = Date.now();
+      setKlassenarbeitStartTime(startTime);
+      localStorage.setItem("klassenarbeitStartTime", startTime.toString());
+    }
+
+    // Calculate remaining time based on elapsed time since start
+    const calculateTimeLeft = () => {
+      const elapsed = Math.floor((Date.now() - startTime) / 1000);
+      const remaining = Math.max(0, 1800 - elapsed); // 30 * 60 = 1800 seconds
+      return remaining;
+    };
+
+    // Update time left
+    const updateTimeLeft = () => {
+      const remaining = calculateTimeLeft();
+      setKlassenarbeitTimeLeft(remaining);
+
+      // Auto-submit when time runs out
+      if (remaining <= 0) {
+        if (klassenarbeitTimerRef.current) clearInterval(klassenarbeitTimerRef.current);
+        // Trigger grading flow which will auto-submit
+        setGameState("grading");
+        setSubmitting(true);
+      }
+    };
+
+    klassenarbeitTimerRef.current = setInterval(updateTimeLeft, 1000);
+    updateTimeLeft(); // Initial call to update immediately
+
+    return () => {
+      if (klassenarbeitTimerRef.current) clearInterval(klassenarbeitTimerRef.current);
+    };
+  }, [gameState, testType, klassenarbeitStartTime]);
 
   // Grading animation
   useEffect(() => {
@@ -435,6 +493,18 @@ export default function MathTestPage() {
     setTestSession(null);
     answerTimesRef.current = [];
     lastAnswerTimeRef.current = 0;
+
+    // ─── Initialize Klassenarbeit timer ─────────────────────
+    if (type === "klassenarbeit") {
+      const now = Date.now();
+      setKlassenarbeitStartTime(now);
+      setKlassenarbeitTimeLeft(1800); // 30 minutes
+      localStorage.setItem("klassenarbeitStartTime", now.toString());
+    } else {
+      setKlassenarbeitStartTime(null);
+      setKlassenarbeitTimeLeft(1800);
+      localStorage.removeItem("klassenarbeitStartTime");
+    }
 
     if (useSupabase && type === "practice") {
       try {
@@ -907,14 +977,27 @@ export default function MathTestPage() {
                   <span>{new Date().toLocaleDateString(country?.code === "DE" ? "de-DE" : country?.code === "US" ? "en-US" : country?.code === "GB" ? "en-GB" : country?.code === "RO" ? "ro-RO" : "hu-HU")}</span>
                 </div>
                 {!isGrading && (
-                  <div className="flex items-center gap-1 mt-2 text-xs text-gray-400">
+                  <div className="flex items-center gap-1 mt-2 text-xs font-mono">
                     <Clock size={12} />
-                    <span className="font-mono">
-                      {Math.floor(elapsedTime / 60)}:{(elapsedTime % 60).toString().padStart(2, "0")}
-                    </span>
-                    <span className="ml-4">
-                      {answers.filter((a) => a !== null).length}/{questions.length} {ui?.solved || "megoldva"}
-                    </span>
+                    {testType === "klassenarbeit" ? (
+                      <>
+                        <span className={klassenarbeitTimeLeft <= 300 ? "text-red-500 font-bold" : "text-gray-400"}>
+                          {Math.floor(klassenarbeitTimeLeft / 60)}:{(klassenarbeitTimeLeft % 60).toString().padStart(2, "0")}
+                        </span>
+                        <span className="text-gray-400 ml-4">
+                          {answers.filter((a) => a !== null).length}/{questions.length} {ui?.solved || "megoldva"}
+                        </span>
+                      </>
+                    ) : (
+                      <>
+                        <span className="text-gray-400">
+                          {Math.floor(elapsedTime / 60)}:{(elapsedTime % 60).toString().padStart(2, "0")}
+                        </span>
+                        <span className="text-gray-400 ml-4">
+                          {answers.filter((a) => a !== null).length}/{questions.length} {ui?.solved || "megoldva"}
+                        </span>
+                      </>
+                    )}
                   </div>
                 )}
                 {isGrading && (
@@ -997,13 +1080,15 @@ export default function MathTestPage() {
                           bg = "bg-blue-50"; border = "border-blue-400"; text = "text-blue-700"; extra = "ring-2 ring-blue-300";
                         }
 
+                        const isDisabled = isGrading || (testType === "klassenarbeit" && klassenarbeitTimeLeft <= 0);
+
                         return (
                           <motion.button
                             key={oi}
-                            onClick={() => !isGrading && handleAnswer(qi, opt)}
-                            disabled={isGrading}
+                            onClick={() => !isDisabled && handleAnswer(qi, opt)}
+                            disabled={isDisabled}
                             className={`px-3 py-2.5 rounded-xl border-2 text-sm font-bold transition-all ${bg} ${border} ${text} ${extra}`}
-                            whileHover={!isGrading ? { scale: 1.03 } : undefined}
+                            whileHover={!isDisabled ? { scale: 1.03 } : undefined}
                             whileTap={!isGrading ? { scale: 0.97 } : undefined}
                           >
                             {opt}
@@ -1049,14 +1134,14 @@ export default function MathTestPage() {
               >
                 <motion.button
                   onClick={handleSubmit}
-                  disabled={!allAnswered || submitting}
+                  disabled={!allAnswered || submitting || (testType === "klassenarbeit" && klassenarbeitTimeLeft <= 0)}
                   className={`w-full max-w-lg mx-auto block py-4 rounded-2xl font-black text-lg tracking-wider transition-all ${
-                    allAnswered && !submitting
+                    allAnswered && !submitting && !(testType === "klassenarbeit" && klassenarbeitTimeLeft <= 0)
                       ? "bg-gray-800 text-white shadow-lg"
                       : "bg-gray-300 text-gray-500 cursor-not-allowed"
                   }`}
-                  whileHover={allAnswered && !submitting ? { scale: 1.02 } : undefined}
-                  whileTap={allAnswered && !submitting ? { scale: 0.98 } : undefined}
+                  whileHover={allAnswered && !submitting && !(testType === "klassenarbeit" && klassenarbeitTimeLeft <= 0) ? { scale: 1.02 } : undefined}
+                  whileTap={allAnswered && !submitting && !(testType === "klassenarbeit" && klassenarbeitTimeLeft <= 0) ? { scale: 0.98 } : undefined}
                 >
                   <div className="flex items-center justify-center gap-2">
                     <Send size={20} />
