@@ -587,16 +587,26 @@ export default function MathTestPage() {
         const test = type === "klassenarbeit"
           ? await generateKlassenarbeitFromBank(selectedGrade)
           : generateTest(selectedGrade, undefined, country?.code);
+
+        console.log(`[Test] Loaded ${test.length} questions for ${type}`);
+
+        if (test.length === 0) {
+          throw new Error("No questions generated");
+        }
+
         setQuestions(test);
         setAnswers(new Array(test.length).fill(null));
         setAvatarMood("idle");
         setGameState("playing");
       } catch (err) {
-        console.error("[Question Bank] Failed to generate Klassenarbeit:", err);
+        console.error("[Test Generation] Failed:", err);
         // Fallback to local generation if Question Bank fails
+        console.log("[Fallback] Using local generator...");
         const test = type === "klassenarbeit"
           ? generateKlassenarbeit(selectedGrade, undefined, country?.code)
           : generateTest(selectedGrade, undefined, country?.code);
+
+        console.log(`[Fallback] Generated ${test.length} questions`);
         setQuestions(test);
         setAnswers(new Array(test.length).fill(null));
         setAvatarMood("idle");
