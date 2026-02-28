@@ -36,6 +36,36 @@ export interface MathQuestion {
   maxPoints?: number;    // Max pont az adott kérdésre
 }
 
+// ─── REALISTIC KLASSENARBEIT FORMAT (Grouped Tasks) ─────────────────────────────
+// New format for realistic German Klassenarbeit with grouped tasks, images, and partial scoring
+
+export interface SubQuestion {
+  id: string; // "a", "b", "c", etc.
+  text: string;
+  correctAnswer: number | string;
+  points: number; // Partial point value (e.g., 1, 2, 0.5)
+  type: "multiple-choice" | "free-text" | "calculation"; // Answer type
+  options?: number[] | string[]; // For multiple choice
+  workSpaceLines?: number; // Number of lines for writing space
+}
+
+export interface GroupedTask {
+  taskNumber: number;
+  title: string;
+  description?: string;
+  imageUrl?: string; // URL to task image/diagram
+  totalPoints: number; // Total points for all sub-questions
+  subQuestions: SubQuestion[];
+  section: string; // Section name (Kopfrechnen, Sachaufgaben, Geometrie, etc.)
+}
+
+export interface RealisticKlassenarbeit {
+  grade: number;
+  period: number;
+  totalPoints: number;
+  tasks: GroupedTask[];
+}
+
 // ─── HELPERS ─────────────────────────────
 
 function randInt(min: number, max: number): number {
@@ -1016,6 +1046,254 @@ export async function generateKlassenarbeitFromBank(
   }
 }
 
+// ─── REALISTIC KLASSENARBEIT GENERATION (Grouped Tasks) ─────────────────────────────
+// Generates grouped tasks with images, sub-questions (a, b, c...), and partial scoring
+
+function createGroupedTask(
+  taskNumber: number,
+  title: string,
+  description: string | undefined,
+  imageUrl: string | undefined,
+  subQuestions: SubQuestion[],
+  section: string,
+): GroupedTask {
+  const totalPoints = subQuestions.reduce((sum, sq) => sum + sq.points, 0);
+  return {
+    taskNumber,
+    title,
+    description,
+    imageUrl,
+    totalPoints,
+    subQuestions,
+    section,
+  };
+}
+
+export function generateRealisticKlassenarbeit(grade: number, period?: number, countryCode?: string): RealisticKlassenarbeit {
+  const p = period ?? getPeriod();
+  const cc = countryCode || "HU";
+  const tasks: GroupedTask[] = [];
+  let taskNumber = 1;
+
+  // Grade-specific task generators
+  switch (grade) {
+    case 1:
+      // Simple addition and subtraction tasks
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          "Addition up to 10",
+          "Calculate the following additions",
+          undefined,
+          [
+            { id: "a", text: "3 + 2 = ?", correctAnswer: 5, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "b", text: "4 + 5 = ?", correctAnswer: 9, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "c", text: "2 + 6 = ?", correctAnswer: 8, points: 1, type: "free-text", workSpaceLines: 2 },
+          ],
+          "Kopfrechnen",
+        ),
+      );
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          "Subtraction up to 10",
+          "Calculate the following subtractions",
+          undefined,
+          [
+            { id: "a", text: "7 - 2 = ?", correctAnswer: 5, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "b", text: "9 - 4 = ?", correctAnswer: 5, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "c", text: "6 - 1 = ?", correctAnswer: 5, points: 1, type: "free-text", workSpaceLines: 2 },
+          ],
+          "Kopfrechnen",
+        ),
+      );
+      break;
+
+    case 2:
+      // Addition/subtraction up to 100, multiplication
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          "Written Addition",
+          "Solve these addition problems",
+          undefined,
+          [
+            { id: "a", text: "25 + 13 = ?", correctAnswer: 38, points: 1, type: "free-text", workSpaceLines: 3 },
+            { id: "b", text: "34 + 22 = ?", correctAnswer: 56, points: 1, type: "free-text", workSpaceLines: 3 },
+          ],
+          "Schriftlich",
+        ),
+      );
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          "Multiplication Tables",
+          "Complete the multiplication facts",
+          undefined,
+          [
+            { id: "a", text: "2 × 5 = ?", correctAnswer: 10, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "b", text: "5 × 3 = ?", correctAnswer: 15, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "c", text: "10 × 4 = ?", correctAnswer: 40, points: 1, type: "free-text", workSpaceLines: 2 },
+          ],
+          "Kopfrechnen",
+        ),
+      );
+      break;
+
+    case 3:
+      // Larger numbers, written operations
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          "Written Addition (up to 1000)",
+          "Add these three-digit numbers",
+          undefined,
+          [
+            { id: "a", text: "234 + 156 = ?", correctAnswer: 390, points: 2, type: "free-text", workSpaceLines: 4 },
+            { id: "b", text: "345 + 287 = ?", correctAnswer: 632, points: 2, type: "free-text", workSpaceLines: 4 },
+          ],
+          "Schriftlich",
+        ),
+      );
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          "Multiplication and Division",
+          "Solve these multiplication and division problems",
+          undefined,
+          [
+            { id: "a", text: "6 × 7 = ?", correctAnswer: 42, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "b", text: "48 ÷ 6 = ?", correctAnswer: 8, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "c", text: "7 × 8 = ?", correctAnswer: 56, points: 1, type: "free-text", workSpaceLines: 2 },
+          ],
+          "Kopfrechnen",
+        ),
+      );
+      break;
+
+    case 4:
+      // Place value, fractions, geometry
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          "Place Value",
+          "Write the digit in the specified place value",
+          undefined,
+          [
+            { id: "a", text: "In 4,372, what is the digit in the hundreds place?", correctAnswer: 3, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "b", text: "In 5,681, what is the digit in the thousands place?", correctAnswer: 5, points: 1, type: "free-text", workSpaceLines: 2 },
+          ],
+          "Schriftlich",
+        ),
+      );
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          "Fractions",
+          "Work with fractions",
+          undefined,
+          [
+            { id: "a", text: "How many quarters make a whole?", correctAnswer: 4, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "b", text: "How many halves in 3 wholes?", correctAnswer: 6, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "c", text: "What fraction is shaded? (3/4 shaded out of 4)", correctAnswer: "3/4", points: 1, type: "free-text", workSpaceLines: 2 },
+          ],
+          "Bruchrechnung",
+        ),
+      );
+      break;
+
+    case 5:
+      // More complex operations, word problems
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          "Order of Operations",
+          "Calculate using order of operations",
+          undefined,
+          [
+            { id: "a", text: "2 + 3 × 4 = ?", correctAnswer: 14, points: 1, type: "free-text", workSpaceLines: 3 },
+            { id: "b", text: "(5 + 3) × 2 = ?", correctAnswer: 16, points: 1, type: "free-text", workSpaceLines: 3 },
+          ],
+          "Kopfrechnen",
+        ),
+      );
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          "Word Problem: Shopping",
+          "A book costs €12 and a pen costs €3. Maria buys 2 books and 3 pens.",
+          undefined,
+          [
+            { id: "a", text: "How much does 1 book and 1 pen cost together?", correctAnswer: 15, points: 1, type: "free-text", workSpaceLines: 3 },
+            { id: "b", text: "How much does Maria spend in total?", correctAnswer: 33, points: 2, type: "free-text", workSpaceLines: 4 },
+          ],
+          "Sachaufgaben",
+        ),
+      );
+      break;
+
+    case 6:
+      // Negative numbers, fractions, ratios
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          "Negative Numbers",
+          "Work with negative numbers and integers",
+          undefined,
+          [
+            { id: "a", text: "5 + (-3) = ?", correctAnswer: 2, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "b", text: "(-4) - (-2) = ?", correctAnswer: -2, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "c", text: "What is the opposite of 7?", correctAnswer: -7, points: 1, type: "free-text", workSpaceLines: 2 },
+          ],
+          "Arithmetics",
+        ),
+      );
+      break;
+
+    case 7:
+      // Algebra, equations, geometry
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          "Linear Equations",
+          "Solve for x",
+          undefined,
+          [
+            { id: "a", text: "x + 5 = 12. What is x?", correctAnswer: 7, points: 2, type: "free-text", workSpaceLines: 3 },
+            { id: "b", text: "3x = 15. What is x?", correctAnswer: 5, points: 2, type: "free-text", workSpaceLines: 3 },
+            { id: "c", text: "2x + 3 = 11. What is x?", correctAnswer: 4, points: 2, type: "free-text", workSpaceLines: 3 },
+          ],
+          "Algebra",
+        ),
+      );
+      break;
+
+    case 8:
+      // Functions, probability, complex equations
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          "Quadratic Equations",
+          "Solve the quadratic equation",
+          undefined,
+          [
+            { id: "a", text: "x² = 25. What are the solutions?", correctAnswer: "±5", points: 2, type: "free-text", workSpaceLines: 3 },
+            { id: "b", text: "x² - 4 = 0. What are the solutions?", correctAnswer: "±2", points: 2, type: "free-text", workSpaceLines: 3 },
+            { id: "c", text: "What is √36?", correctAnswer: 6, points: 1, type: "free-text", workSpaceLines: 2 },
+          ],
+          "Algebra",
+        ),
+      );
+      break;
+
+    default:
+      return { grade, period: p, totalPoints: 0, tasks: [] };
+  }
+
+  const totalPoints = tasks.reduce((sum, task) => sum + task.totalPoints, 0);
+  return { grade, period: p, totalPoints, tasks };
+}
+
 // ─── TEST GENERATION WITH METADATA (for Supabase integration) ─────
 
 export interface TestWithMeta {
@@ -1195,6 +1473,60 @@ export function calculateKlassenarbeitResult(
       section.correct += 1;
       section.earnedPoints += points;
     }
+  });
+
+  const sectionResults = Array.from(sectionMap.values());
+  const totalPoints = sectionResults.reduce((acc, s) => acc + s.earnedPoints, 0);
+  const maxTotalPoints = sectionResults.reduce((acc, s) => acc + s.maxPoints, 0);
+  const percentage = maxTotalPoints > 0 ? Math.round((totalPoints / maxTotalPoints) * 100) : 0;
+  const note = calculateNote(percentage);
+  const starsEarned = getStarsForNote(note);
+
+  return {
+    sectionResults,
+    totalPoints,
+    maxTotalPoints,
+    percentage,
+    note,
+    starsEarned,
+  };
+}
+
+export function calculateRealisticKlassenarbeitResult(
+  tasks: GroupedTask[],
+  answers: Record<string, Record<string, string | number>>
+): KlassenarbeitResult {
+  const sectionMap = new Map<string, SectionResult>();
+
+  // Initialize section results from tasks
+  for (const task of tasks) {
+    if (!sectionMap.has(task.section)) {
+      sectionMap.set(task.section, {
+        name: task.section,
+        correct: 0,
+        total: 0,
+        maxPoints: 0,
+        earnedPoints: 0,
+      });
+    }
+  }
+
+  // Calculate scores from sub-questions
+  tasks.forEach((task) => {
+    const section = sectionMap.get(task.section)!;
+
+    task.subQuestions.forEach((subQuestion) => {
+      const answerKey = `task_${task.taskNumber - 1}_${subQuestion.id}`;
+      const userAnswer = answers[answerKey];
+      const isCorrect = String(userAnswer).trim().toLowerCase() === String(subQuestion.correctAnswer).trim().toLowerCase();
+
+      section.total += 1;
+      section.maxPoints += subQuestion.points;
+      if (isCorrect) {
+        section.correct += 1;
+        section.earnedPoints += subQuestion.points;
+      }
+    });
   });
 
   const sectionResults = Array.from(sectionMap.values());
