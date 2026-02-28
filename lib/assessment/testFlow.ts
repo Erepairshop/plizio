@@ -259,6 +259,35 @@ export async function getDashboard(): Promise<DashboardData> {
   return data as DashboardData;
 }
 
+// ─── GET KLASSENARBEIT HISTORY ─────────────────────────────
+
+export interface KlassenarbeitHistoryItem {
+  test_id: string;
+  created_at: string;
+  percentage: number;
+  note_value: number;
+  note_label: string;
+  total_points: number;
+  max_total_points: number;
+  section_results: Array<{
+    name: string;
+    correct: number;
+    total: number;
+    maxPoints: number;
+    earnedPoints: number;
+  }>;
+}
+
+export async function getKlassenarbeitHistory(): Promise<KlassenarbeitHistoryItem[]> {
+  const { data, error } = await supabase.rpc("get_klassenarbeit_history");
+
+  if (error) {
+    throw new Error(`Failed to get Klassenarbeit history: ${error.message}`);
+  }
+
+  return data as KlassenarbeitHistoryItem[];
+}
+
 // ─── CHECK IF SUPABASE IS CONFIGURED ─────────────────────────────
 // Returns false if env vars are missing (guest/local mode)
 
