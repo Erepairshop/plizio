@@ -74,6 +74,14 @@ function Character({ mood, skinColor = '#e8c9a0', outfitColor = '#6b8fad' }: Ava
       rightArmRef.current.rotation.x = lerp(rightArmRef.current.rotation.x, 0.12, 0.1);
     }
 
+    // Shoulders reset to neutral
+    if (leftShoulderRef.current && rightShoulderRef.current) {
+      leftShoulderRef.current.rotation.z = lerp(leftShoulderRef.current.rotation.z, 0, 0.1);
+      leftShoulderRef.current.rotation.x = lerp(leftShoulderRef.current.rotation.x, 0, 0.1);
+      rightShoulderRef.current.rotation.z = lerp(rightShoulderRef.current.rotation.z, 0, 0.1);
+      rightShoulderRef.current.rotation.x = lerp(rightShoulderRef.current.rotation.x, 0, 0.1);
+    }
+
     // ════════════════════════════════════════════════════════
     // BLINK: Real eyelid geometry (scale Y of lid mesh)
     // 3–7 sec random interval, 0.12s close + 0.12s open
@@ -230,33 +238,38 @@ function Character({ mood, skinColor = '#e8c9a0', outfitColor = '#6b8fad' }: Ava
       }
 
       case 'disappointed': {
-        if (t < 1.8) {
-          const p = Math.min(1, t / 1.8);
-          const eased = 1 - Math.pow(1 - p, 3);
+        if (t < 2.0) {
+          const p = Math.min(1, t / 2.0);
+          // Ease-out: slow start, fast end (better for disappointment)
+          const eased = p < 0.5 ? 2 * p * p : -1 + (4 - 2 * p) * p;
 
-          // Slow head tilt down
-          headRef.current.rotation.x = eased * 0.5;
+          // Head tilt down: 10–15° (0.175–0.26 radians)
+          headRef.current.rotation.x = lerp(headRef.current.rotation.x, eased * 0.24, 0.08);
 
-          // Shoulders forward (body rotation)
-          groupRef.current.rotation.x = lerp(groupRef.current.rotation.x, eased * 0.06, 0.08);
+          // Shoulders tilt forward: 3–5° (0.05–0.087 radians)
+          if (leftShoulderRef.current && rightShoulderRef.current) {
+            const shoulderTilt = eased * 0.08;
+            leftShoulderRef.current.rotation.z = shoulderTilt;
+            rightShoulderRef.current.rotation.z = shoulderTilt;
+          }
         }
 
-        // Body droop
-        bodyRef.current.position.y = -0.02;
+        // Minimal body droop (stays connected)
+        bodyRef.current.position.y = lerp(bodyRef.current.position.y, -0.008, 0.12);
 
-        // Arms hang limp
+        // Arms stay mostly resting, minimal inward rotation
         if (leftArmRef.current && rightArmRef.current) {
-          leftArmRef.current.rotation.z = -0.06;
-          rightArmRef.current.rotation.z = 0.06;
-          leftArmRef.current.rotation.x = 0.05;
-          rightArmRef.current.rotation.x = 0.05;
+          leftArmRef.current.rotation.z = lerp(leftArmRef.current.rotation.z, -0.1, 0.12);
+          rightArmRef.current.rotation.z = lerp(rightArmRef.current.rotation.z, 0.1, 0.12);
+          leftArmRef.current.rotation.x = lerp(leftArmRef.current.rotation.x, 0.08, 0.12);
+          rightArmRef.current.rotation.x = lerp(rightArmRef.current.rotation.x, 0.08, 0.12);
         }
 
-        // Sad mouth (lower position, narrow)
+        // Sad mouth (narrow)
         if (mouthRef.current) {
           mouthRef.current.scale.x = 0.75;
           mouthRef.current.scale.y = 0.3;
-          mouthRef.current.position.y = -0.12;
+          mouthRef.current.position.y = -0.1;
         }
         break;
       }
