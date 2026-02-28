@@ -49,6 +49,7 @@ import {
 } from "@/lib/assessment/testFlow";
 import { useAuth } from "@/lib/supabase/useAuth";
 import AvatarCompanion from "@/components/AvatarCompanion";
+import { getActiveSkin, SKINS } from "@/lib/skins";
 
 // ─── 3D FLOATING BACKGROUND ─────────────────────────────
 
@@ -316,7 +317,17 @@ export default function MathTestPage() {
 
   // ─── Avatar Companion State ───────────────────────────────────
   const [avatarMood, setAvatarMood] = useState<'idle' | 'focused' | 'happy' | 'disappointed' | 'victory'>('idle');
+  const [avatarSkinColor, setAvatarSkinColor] = useState('#ffd4a3');
+  const [avatarOutfitColor, setAvatarOutfitColor] = useState('#4a90e2');
   const avatarMoodTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  // Load avatar colors from active skin on mount
+  useEffect(() => {
+    const skinId = getActiveSkin();
+    const skin = SKINS.find(s => s.id === skinId) || SKINS[0];
+    setAvatarSkinColor(skin.headColor);
+    setAvatarOutfitColor(skin.bodyColor);
+  }, []);
 
   // Load saved country + grade on mount
   useEffect(() => {
@@ -749,7 +760,7 @@ export default function MathTestPage() {
           </motion.div>
         </div>
         </main>
-        <AvatarCompanion mood={avatarMood} />
+        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
       </>
     );
   }
@@ -859,7 +870,7 @@ export default function MathTestPage() {
           </motion.div>
         </div>
         </main>
-        <AvatarCompanion mood={avatarMood} />
+        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
       </>
     );
   }
@@ -968,7 +979,7 @@ export default function MathTestPage() {
           </motion.div>
         </div>
         </main>
-        <AvatarCompanion mood={avatarMood} />
+        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
       </>
     );
   }
@@ -993,7 +1004,7 @@ export default function MathTestPage() {
             </motion.div>
           </AnimatePresence>
         </main>
-        <AvatarCompanion mood={avatarMood} />
+        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
       </>
     );
   }
@@ -1210,7 +1221,7 @@ export default function MathTestPage() {
           </div>
         </div>
         </main>
-        <AvatarCompanion mood={avatarMood} />
+        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
       </>
     );
   }
@@ -1432,7 +1443,7 @@ export default function MathTestPage() {
         {/* Milestone popup */}
         <MilestonePopup />
         </main>
-        <AvatarCompanion mood={avatarMood} />
+        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
       </>
     );
   }
@@ -1449,7 +1460,7 @@ export default function MathTestPage() {
           total={gradeResult.total}
           onDone={() => router.push("/")}
         />
-        <AvatarCompanion mood={avatarMood} />
+        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
       </>
     );
   }
