@@ -1,7 +1,10 @@
 'use client';
 
-import React from 'react';
+import React, { useState } from 'react';
 import { motion } from 'framer-motion';
+import { Pencil } from 'lucide-react';
+import ScratchpadModal from './ScratchpadModal';
+import { needsStepByStepHelp } from '@/lib/calculationHelper';
 
 interface ExtendedMathQuestion {
   question: string;
@@ -151,16 +154,42 @@ export default function MathQuestionDisplay({
   showResult = false,
   isCorrect = false,
 }: MathQuestionDisplayProps) {
+  const [scratchpadOpen, setScratchpadOpen] = useState(false);
+
+  // Check if question has math expression that needs scratchpad
+  const hasMathExpression = /\d+\s*[-+*/]\s*\d+/.test(question.question);
+  const needsScratchpad = hasMathExpression && needsStepByStepHelp(question.question);
+
   return (
-    <motion.div
-      className="bg-gradient-to-br from-slate-900 to-slate-800 rounded-2xl p-6 md:p-8 border-2 border-white/10 shadow-2xl"
-      initial={{ opacity: 0, y: 20 }}
-      animate={{ opacity: 1, y: 0 }}
-    >
-      {/* Question Header */}
-      <div className="mb-6 pb-4 border-b-2 border-white/20">
-        <h3 className="text-lg md:text-xl font-black text-white">{question.question}</h3>
-      </div>
+    <>
+      <ScratchpadModal
+        isOpen={scratchpadOpen}
+        onClose={() => setScratchpadOpen(false)}
+        questionText={question.question}
+      />
+
+      <motion.div
+        className="bg-gradient-to-br from-slate-900 to-slate-800 rounded-2xl p-6 md:p-8 border-2 border-white/10 shadow-2xl"
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+      >
+        {/* Question Header */}
+        <div className="mb-6 pb-4 border-b-2 border-white/20 flex items-start justify-between gap-4">
+          <h3 className="text-lg md:text-xl font-black text-white flex-1">{question.question}</h3>
+
+          {/* Scratchpad Button */}
+          {needsScratchpad && (
+            <motion.button
+              onClick={() => setScratchpadOpen(true)}
+              className="flex-shrink-0 p-2.5 rounded-lg bg-amber-500/20 hover:bg-amber-500/30 border border-amber-500/50 text-amber-300 transition-all"
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              title="Piszkozat megnyitása"
+            >
+              <Pencil size={20} />
+            </motion.button>
+          )}
+        </div>
 
       {/* Geometry Diagram */}
       {question.type === 'geometry' && question.imageData && (
@@ -221,18 +250,19 @@ export default function MathQuestionDisplay({
         ))}
       </div>
 
-      {/* Result Feedback */}
-      {showResult && (
-        <motion.div
-          className={`mt-6 p-4 rounded-lg border-2 text-white font-bold text-center ${
-            isCorrect ? 'bg-green-500/20 border-green-500' : 'bg-red-500/20 border-red-500'
-          }`}
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-        >
-          {isCorrect ? '✅ Richtig!' : '❌ Falsch - Die richtige Antwort ist: ' + question.correctAnswer}
-        </motion.div>
-      )}
-    </motion.div>
+        {/* Result Feedback */}
+        {showResult && (
+          <motion.div
+            className={`mt-6 p-4 rounded-lg border-2 text-white font-bold text-center ${
+              isCorrect ? 'bg-green-500/20 border-green-500' : 'bg-red-500/20 border-red-500'
+            }`}
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+          >
+            {isCorrect ? '✅ Richtig!' : '❌ Falsch - Die richtige Antwort ist: ' + question.correctAnswer}
+          </motion.div>
+        )}
+      </motion.div>
+    </>
   );
 }

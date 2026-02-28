@@ -364,6 +364,13 @@ export default function MathTestPage() {
     if (prev) setPreviousGrade(prev);
   }, []);
 
+  // Auto-start practice test when grade is selected
+  useEffect(() => {
+    if (testType === "practice" && selectedGrade && country) {
+      handleTestTypeSelect("practice");
+    }
+  }, [testType, selectedGrade, country]);
+
   const handleCountrySelect = (c: CountryConfig) => {
     setCountry(c);
     saveCountry(c.code);
@@ -563,10 +570,10 @@ export default function MathTestPage() {
   const handleGradeSelect = (grade: number) => {
     setSelectedGrade(grade);
     saveMathGrade(grade);
-    setTestType(null);
+    setTestType("practice"); // Skip test-type-select, go directly to practice
     setGradeResult(null);
     setKlassenarbeitResult(null);
-    setGameState("test-type-select");
+    // Will trigger handleTestTypeSelect via effect
   };
 
   const handleTestTypeSelect = async (type: TestType) => {
