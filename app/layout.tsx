@@ -64,6 +64,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://plizio.com",
   },
+  verification: {
+    google: "E_x8SJQIW36HgaFQdPWSFCT7kPZi3GSdXbfOFgebiKE",
+  },
 };
 
 export const viewport: Viewport = {
