@@ -44,10 +44,11 @@ export async function signUp(email: string, password: string) {
 
   // Initialize user profile after signup
   if (data.user) {
-    await supabase.rpc("initialize_user", {
+    const { error: initError } = await supabase.rpc("initialize_user", {
       p_country: "HU",
       p_grade: 5,
     });
+    if (initError) console.error("[Supabase] initialize_user failed:", initError);
   }
 
   return data;
@@ -61,10 +62,11 @@ export async function signIn(email: string, password: string) {
   if (error) throw error;
 
   // Ensure profile exists
-  await supabase.rpc("initialize_user", {
+  const { error: initError } = await supabase.rpc("initialize_user", {
     p_country: "HU",
     p_grade: 5,
   });
+  if (initError) console.error("[Supabase] initialize_user failed:", initError);
 
   return data;
 }

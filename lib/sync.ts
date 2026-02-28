@@ -1,4 +1,4 @@
-import { supabase } from "./supabase";
+import { supabase } from "./supabase/client";
 import { getSpecialCardCount } from "./specialCards";
 import { getStats, type PlayerStats } from "./milestones";
 import { getOwnedSkins, getActiveSkin } from "./skins";

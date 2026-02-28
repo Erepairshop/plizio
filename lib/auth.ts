@@ -1,4 +1,4 @@
-import { supabase } from "./supabase";
+import { supabase } from "./supabase/client";
 import type { User } from "@supabase/supabase-js";
 
 // ─── AUTH FUNCTIONS ────────────────────────────────

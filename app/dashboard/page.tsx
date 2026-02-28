@@ -69,12 +69,12 @@ export default function DashboardPage() {
         <div className="grid grid-cols-3 gap-3 mb-6">
           <div className="bg-white/5 border border-white/10 rounded-xl p-4 text-center">
             <Star className="mx-auto mb-1 text-yellow-400" size={24} />
-            <p className="text-2xl font-bold text-white">{data.profile.stars}</p>
+            <p className="text-2xl font-bold text-white">{data.profile.stars ?? 0}</p>
             <p className="text-white/40 text-xs">Stars</p>
           </div>
           <div className="bg-white/5 border border-white/10 rounded-xl p-4 text-center">
             <Zap className="mx-auto mb-1 text-purple-400" size={24} />
-            <p className="text-2xl font-bold text-white">{data.profile.xp}</p>
+            <p className="text-2xl font-bold text-white">{data.profile.xp ?? 0}</p>
             <p className="text-white/40 text-xs">XP</p>
           </div>
           <div className="bg-white/5 border border-white/10 rounded-xl p-4 text-center">
