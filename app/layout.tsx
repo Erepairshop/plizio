@@ -65,7 +65,7 @@ export const metadata: Metadata = {
     canonical: "https://plizio.com",
   },
   verification: {
-    google: "E_x8SJQIW36HgaFQdPWSFCT7kPZi3GSdXbfOFgebiKE",
+    google: "355ioFFi82RnTG_QoH-vBz7QMNb_yxejYmB1ay6Dw4k",
   },
 };
 
