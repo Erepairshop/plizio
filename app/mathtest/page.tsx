@@ -48,6 +48,7 @@ import {
   type KlassenarbeitMetadata,
 } from "@/lib/assessment/testFlow";
 import { useAuth } from "@/lib/supabase/useAuth";
+import AvatarCompanion from "@/components/AvatarCompanion";
 
 // ─── 3D FLOATING BACKGROUND ─────────────────────────────
 
@@ -313,6 +314,10 @@ export default function MathTestPage() {
   const answerTimesRef = useRef<number[]>([]); // per-question time tracking
   const lastAnswerTimeRef = useRef<number>(0);
 
+  // ─── Avatar Companion State ───────────────────────────────────
+  const [avatarMood, setAvatarMood] = useState<'idle' | 'focused' | 'happy' | 'disappointed' | 'victory'>('idle');
+  const avatarMoodTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
   // Load saved country + grade on mount
   useEffect(() => {
     const savedCode = getSavedCountry();
@@ -437,6 +442,45 @@ export default function MathTestPage() {
       setTimeout(() => setGameState("result"), 600);
     }
   }, [gameState, gradingIndex, questions, answers, testType]);
+
+  // ─── Avatar Mood Control ───────────────────────────────────
+  useEffect(() => {
+    // During playing with Klassenarbeit → focused
+    if (gameState === "playing" && testType === "klassenarbeit") {
+      setAvatarMood("focused");
+      return;
+    }
+
+    // During grading → show reaction to answer
+    if (gameState === "grading" && gradingIndex >= 0 && gradingIndex < questions.length) {
+      const isCorrect = answers[gradingIndex] === questions[gradingIndex].correctAnswer;
+      const newMood = isCorrect ? "happy" : "disappointed";
+      setAvatarMood(newMood);
+
+      // Reset to idle after 800ms
+      if (avatarMoodTimeoutRef.current) clearTimeout(avatarMoodTimeoutRef.current);
+      avatarMoodTimeoutRef.current = setTimeout(() => {
+        setAvatarMood("idle");
+      }, 800);
+
+      return () => {
+        if (avatarMoodTimeoutRef.current) clearTimeout(avatarMoodTimeoutRef.current);
+      };
+    }
+
+    // After grading complete: check for victory (Note 1-2 on Klassenarbeit)
+    if (gameState === "result" && testType === "klassenarbeit" && klassenarbeitResult) {
+      if (klassenarbeitResult.note.value <= 2) {
+        setAvatarMood("victory");
+      } else {
+        setAvatarMood("idle");
+      }
+      return;
+    }
+
+    // Default: idle
+    setAvatarMood("idle");
+  }, [gameState, gradingIndex, questions, answers, testType, klassenarbeitResult]);
 
   // Save card & stats on result
   useEffect(() => {
@@ -628,8 +672,9 @@ export default function MathTestPage() {
 
   if (gameState === "country-select") {
     return (
-      <main className="min-h-screen relative overflow-hidden bg-bg">
-        <Scene3D />
+      <>
+        <main className="min-h-screen relative overflow-hidden bg-bg">
+          <Scene3D />
         <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4 py-8 gap-8">
           {/* Back */}
           <motion.div className="absolute top-6 left-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
@@ -703,7 +748,9 @@ export default function MathTestPage() {
             ))}
           </motion.div>
         </div>
-      </main>
+        </main>
+        <AvatarCompanion mood={avatarMood} />
+      </>
     );
   }
 
@@ -711,8 +758,9 @@ export default function MathTestPage() {
 
   if (gameState === "test-type-select" && country && selectedGrade) {
     return (
-      <main className="min-h-screen relative overflow-hidden bg-bg">
-        <Scene3D />
+      <>
+        <main className="min-h-screen relative overflow-hidden bg-bg">
+          <Scene3D />
         <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4 py-8 gap-8">
           {/* Back */}
           <motion.div className="absolute top-6 left-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
@@ -810,7 +858,9 @@ export default function MathTestPage() {
             </motion.button>
           </motion.div>
         </div>
-      </main>
+        </main>
+        <AvatarCompanion mood={avatarMood} />
+      </>
     );
   }
 
@@ -818,8 +868,9 @@ export default function MathTestPage() {
 
   if (gameState === "grade-select" && country) {
     return (
-      <main className="min-h-screen relative overflow-hidden bg-bg">
-        <Scene3D />
+      <>
+        <main className="min-h-screen relative overflow-hidden bg-bg">
+          <Scene3D />
         <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4 py-8 gap-8">
           {/* Back */}
           <motion.div className="absolute top-6 left-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
@@ -916,7 +967,9 @@ export default function MathTestPage() {
             ))}
           </motion.div>
         </div>
-      </main>
+        </main>
+        <AvatarCompanion mood={avatarMood} />
+      </>
     );
   }
 
@@ -924,21 +977,24 @@ export default function MathTestPage() {
 
   if (gameState === "countdown") {
     return (
-      <main className="min-h-screen bg-bg flex items-center justify-center">
-        <AnimatePresence mode="wait">
-          <motion.div
-            key={countdown}
-            className="text-8xl font-black text-gold"
-            style={{ textShadow: "0 0 40px rgba(255,215,0,0.5)" }}
-            initial={{ scale: 0.5, opacity: 0 }}
-            animate={{ scale: 1, opacity: 1 }}
-            exit={{ scale: 2, opacity: 0 }}
-            transition={{ duration: 0.4 }}
-          >
-            {countdown > 0 ? countdown : "✏️"}
-          </motion.div>
-        </AnimatePresence>
-      </main>
+      <>
+        <main className="min-h-screen bg-bg flex items-center justify-center">
+          <AnimatePresence mode="wait">
+            <motion.div
+              key={countdown}
+              className="text-8xl font-black text-gold"
+              style={{ textShadow: "0 0 40px rgba(255,215,0,0.5)" }}
+              initial={{ scale: 0.5, opacity: 0 }}
+              animate={{ scale: 1, opacity: 1 }}
+              exit={{ scale: 2, opacity: 0 }}
+              transition={{ duration: 0.4 }}
+            >
+              {countdown > 0 ? countdown : "✏️"}
+            </motion.div>
+          </AnimatePresence>
+        </main>
+        <AvatarCompanion mood={avatarMood} />
+      </>
     );
   }
 
@@ -948,7 +1004,8 @@ export default function MathTestPage() {
     const isGrading = gameState === "grading";
 
     return (
-      <main className="min-h-screen bg-bg">
+      <>
+        <main className="min-h-screen bg-bg">
         <div
           className="min-h-screen"
           style={{
@@ -1152,7 +1209,9 @@ export default function MathTestPage() {
             )}
           </div>
         </div>
-      </main>
+        </main>
+        <AvatarCompanion mood={avatarMood} />
+      </>
     );
   }
 
@@ -1163,7 +1222,8 @@ export default function MathTestPage() {
     const isKlassenarbeit = testType === "klassenarbeit" && klassenarbeitResult;
 
     return (
-      <main className="min-h-screen bg-bg flex items-center justify-center px-4">
+      <>
+        <main className="min-h-screen bg-bg flex items-center justify-center px-4">
         {isKlassenarbeit && klassenarbeitResult ? (
           // ─── KLASSENARBEIT RESULT ─────────────────────────────
           <motion.div
@@ -1371,7 +1431,9 @@ export default function MathTestPage() {
 
         {/* Milestone popup */}
         <MilestonePopup />
-      </main>
+        </main>
+        <AvatarCompanion mood={avatarMood} />
+      </>
     );
   }
 
@@ -1379,13 +1441,16 @@ export default function MathTestPage() {
 
   if (gameState === "reward" && cardRarity && gradeResult) {
     return (
-      <RewardReveal
-        rarity={cardRarity}
-        game="mathtest"
-        score={gradeResult.score}
-        total={gradeResult.total}
-        onDone={() => router.push("/")}
-      />
+      <>
+        <RewardReveal
+          rarity={cardRarity}
+          game="mathtest"
+          score={gradeResult.score}
+          total={gradeResult.total}
+          onDone={() => router.push("/")}
+        />
+        <AvatarCompanion mood={avatarMood} />
+      </>
     );
   }
 
