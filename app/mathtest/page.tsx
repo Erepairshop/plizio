@@ -54,6 +54,8 @@ import {
 import { useAuth } from "@/lib/supabase/useAuth";
 import AvatarCompanion from "@/components/AvatarCompanion";
 import RealisticKlassenarbeitDisplay from "@/components/RealisticKlassenarbeitDisplay";
+import KlassenarbeitHeader from "@/components/KlassenarbeitHeader";
+import ExamResultsDisplay from "@/components/ExamResultsDisplay";
 import { getActiveSkin, SKINS } from "@/lib/skins";
 
 // ─── 3D FLOATING BACKGROUND ─────────────────────────────
@@ -1096,52 +1098,60 @@ export default function MathTestPage() {
           <div className="relative max-w-lg mx-auto" style={{ borderLeft: "2px solid rgba(220, 100, 100, 0.4)" }}>
             <div className="px-4 sm:px-6 py-4 pb-32">
               {/* Header */}
-              <motion.div
-                className="mb-6 pb-4"
-                style={{ borderBottom: "1px solid rgba(0,0,0,0.1)" }}
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-              >
-                <h1 className="text-lg font-black text-gray-800 tracking-wide mb-2">
-                  📐 {ui?.title || "MATEMATIKA DOLGOZAT"}
-                </h1>
-                <div className="flex justify-between text-xs text-gray-500 font-mono">
-                  <span>{ui?.classLabel || "Osztály"}: {selectedGrade}.</span>
-                  <span>{new Date().toLocaleDateString(country?.code === "DE" ? "de-DE" : country?.code === "US" ? "en-US" : country?.code === "GB" ? "en-GB" : country?.code === "RO" ? "ro-RO" : "hu-HU")}</span>
-                </div>
-                {!isGrading && (
-                  <div className="flex items-center gap-1 mt-2 text-xs font-mono">
-                    <Clock size={12} />
-                    {testType === "klassenarbeit" ? (
-                      <>
-                        <span className={klassenarbeitTimeLeft <= 300 ? "text-red-500 font-bold" : "text-gray-400"}>
-                          {Math.floor(klassenarbeitTimeLeft / 60)}:{(klassenarbeitTimeLeft % 60).toString().padStart(2, "0")}
-                        </span>
-                        <span className="text-gray-400 ml-4">
-                          {answers.filter((a) => a !== null).length}/{questions.length} {ui?.solved || "megoldva"}
-                        </span>
-                      </>
-                    ) : (
-                      <>
-                        <span className="text-gray-400">
-                          {Math.floor(elapsedTime / 60)}:{(elapsedTime % 60).toString().padStart(2, "0")}
-                        </span>
-                        <span className="text-gray-400 ml-4">
-                          {answers.filter((a) => a !== null).length}/{questions.length} {ui?.solved || "megoldva"}
-                        </span>
-                      </>
-                    )}
+              {realisticKlassenarbeit && testType === "klassenarbeit" && selectedGrade ? (
+                <KlassenarbeitHeader
+                  grade={selectedGrade}
+                  subject={country?.name === "Hungary" ? "Matematika" : country?.name === "Germany" ? "Mathematik" : country?.name === "Romania" ? "Matematică" : "Mathematics"}
+                  startTime={Date.now()}
+                />
+              ) : (
+                <motion.div
+                  className="mb-6 pb-4"
+                  style={{ borderBottom: "1px solid rgba(0,0,0,0.1)" }}
+                  initial={{ opacity: 0 }}
+                  animate={{ opacity: 1 }}
+                >
+                  <h1 className="text-lg font-black text-gray-800 tracking-wide mb-2">
+                    📐 {ui?.title || "MATEMATIKA DOLGOZAT"}
+                  </h1>
+                  <div className="flex justify-between text-xs text-gray-500 font-mono">
+                    <span>{ui?.classLabel || "Osztály"}: {selectedGrade}.</span>
+                    <span>{new Date().toLocaleDateString(country?.code === "DE" ? "de-DE" : country?.code === "US" ? "en-US" : country?.code === "GB" ? "en-GB" : country?.code === "RO" ? "ro-RO" : "hu-HU")}</span>
                   </div>
-                )}
-                {isGrading && (
-                  <div className="flex items-center gap-2 mt-2">
-                    <span className="text-xs text-red-500 font-bold font-mono">✏️ {ui?.grading || "Javítás..."}</span>
-                    <span className="text-xs text-gray-400">
-                      {Math.min(gradingIndex, questions.length)}/{questions.length}
-                    </span>
-                  </div>
-                )}
-              </motion.div>
+                  {!isGrading && (
+                    <div className="flex items-center gap-1 mt-2 text-xs font-mono">
+                      <Clock size={12} />
+                      {testType === "klassenarbeit" ? (
+                        <>
+                          <span className={klassenarbeitTimeLeft <= 300 ? "text-red-500 font-bold" : "text-gray-400"}>
+                            {Math.floor(klassenarbeitTimeLeft / 60)}:{(klassenarbeitTimeLeft % 60).toString().padStart(2, "0")}
+                          </span>
+                          <span className="text-gray-400 ml-4">
+                            {answers.filter((a) => a !== null).length}/{questions.length} {ui?.solved || "megoldva"}
+                          </span>
+                        </>
+                      ) : (
+                        <>
+                          <span className="text-gray-400">
+                            {Math.floor(elapsedTime / 60)}:{(elapsedTime % 60).toString().padStart(2, "0")}
+                          </span>
+                          <span className="text-gray-400 ml-4">
+                            {answers.filter((a) => a !== null).length}/{questions.length} {ui?.solved || "megoldva"}
+                          </span>
+                        </>
+                      )}
+                    </div>
+                  )}
+                  {isGrading && (
+                    <div className="flex items-center gap-2 mt-2">
+                      <span className="text-xs text-red-500 font-bold font-mono">✏️ {ui?.grading || "Javítás..."}</span>
+                      <span className="text-xs text-gray-400">
+                        {Math.min(gradingIndex, questions.length)}/{questions.length}
+                      </span>
+                    </div>
+                  )}
+                </motion.div>
+              )}
 
               {/* Realistic Klassenarbeit (Grouped Tasks) */}
               {realisticKlassenarbeit && (
@@ -1312,88 +1322,63 @@ export default function MathTestPage() {
       <>
         <main className="min-h-screen bg-bg flex items-center justify-center px-4">
         {isKlassenarbeit && klassenarbeitResult ? (
-          // ─── KLASSENARBEIT RESULT ─────────────────────────────
+          // ─── KLASSENARBEIT RESULT (New Exam Display) ─────────────────────────────
           <motion.div
-            className="flex flex-col items-center gap-6 max-w-2xl w-full"
-            initial={{ opacity: 0, scale: 0.9 }}
-            animate={{ opacity: 1, scale: 1 }}
+            className="w-full max-w-5xl px-4"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
             transition={{ type: "spring" }}
           >
-            {/* Note display */}
-            <motion.div
-              className="text-center"
-              initial={{ opacity: 0, y: -20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: 0.3 }}
-            >
-              <div
-                className="text-8xl font-black mb-3"
-                style={{ color: klassenarbeitResult.note.color }}
-              >
-                {klassenarbeitResult.note.emoji} {klassenarbeitResult.note.value}
-              </div>
-              <p
-                className="text-3xl font-black"
-                style={{ color: klassenarbeitResult.note.color }}
-              >
-                {klassenarbeitResult.note.label}
-              </p>
-              <p className="text-white/60 text-sm mt-2">
-                {klassenarbeitResult.totalPoints}/{klassenarbeitResult.maxTotalPoints} Punkt ({klassenarbeitResult.percentage}%)
-              </p>
-            </motion.div>
-
-            {/* Section breakdown */}
-            <motion.div
-              className="w-full bg-white/5 border border-white/10 rounded-2xl p-6"
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: 0.5 }}
-            >
-              <h3 className="text-white font-black text-lg mb-4">Szekciók</h3>
-              <div className="space-y-3">
-                {klassenarbeitResult.sectionResults.map((section, i) => (
-                  <motion.div
-                    key={i}
-                    className="flex items-center justify-between p-4 bg-white/5 rounded-xl border border-white/10"
-                    initial={{ opacity: 0, x: -20 }}
-                    animate={{ opacity: 1, x: 0 }}
-                    transition={{ delay: 0.6 + i * 0.1 }}
-                  >
-                    <div>
-                      <p className="text-white font-bold">{section.name}</p>
-                      <p className="text-white/50 text-sm">
-                        {section.correct}/{section.total} helyes
-                      </p>
-                    </div>
-                    <div className="text-right">
-                      <p className="text-white font-black text-lg">
-                        {section.earnedPoints}/{section.maxPoints}
-                      </p>
-                      <p className="text-white/50 text-xs">pont</p>
-                    </div>
-                  </motion.div>
-                ))}
-              </div>
-            </motion.div>
-
-            {/* Stars earned */}
-            {klassenarbeitResult.starsEarned > 0 && (
-              <motion.p
-                className="text-yellow-400 text-lg font-bold"
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                transition={{ delay: 0.9 }}
-              >
-                {klassenarbeitResult.note.emoji} +{klassenarbeitResult.starsEarned} star
-              </motion.p>
+            {realisticKlassenarbeit && (
+              <ExamResultsDisplay
+                tasks={realisticKlassenarbeit.tasks}
+                answers={groupedTaskAnswers}
+                grade={Math.round(klassenarbeitResult.note.value)}
+                totalPoints={klassenarbeitResult.maxTotalPoints}
+                earnedPoints={klassenarbeitResult.totalPoints}
+                sections={klassenarbeitResult.sectionResults.map((section) => ({
+                  section: section.name,
+                  earned: section.earnedPoints,
+                  total: section.maxPoints,
+                  percentage: Math.round((section.earnedPoints / section.maxPoints) * 100),
+                }))}
+              />
             )}
 
-            {/* Time */}
-            <p className="text-white/30 text-xs font-mono">
-              {country?.gradeLabel(selectedGrade!) || `${selectedGrade}. osztály`} &bull;{" "}
-              {Math.floor(elapsedTime / 60)}:{(elapsedTime % 60).toString().padStart(2, "0")}
-            </p>
+            {/* Fallback for old format */}
+            {!realisticKlassenarbeit && (
+              <motion.div
+                className="flex flex-col items-center gap-6 max-w-2xl w-full mx-auto"
+                initial={{ opacity: 0, scale: 0.9 }}
+                animate={{ opacity: 1, scale: 1 }}
+              >
+                {/* Note display */}
+                <div className="text-center">
+                  <div
+                    className="text-8xl font-black mb-3"
+                    style={{ color: klassenarbeitResult.note.color }}
+                  >
+                    {klassenarbeitResult.note.emoji} {klassenarbeitResult.note.value}
+                  </div>
+                  <p
+                    className="text-3xl font-black"
+                    style={{ color: klassenarbeitResult.note.color }}
+                  >
+                    {klassenarbeitResult.note.label}
+                  </p>
+                  <p className="text-white/60 text-sm mt-2">
+                    {klassenarbeitResult.totalPoints}/{klassenarbeitResult.maxTotalPoints} Pont ({klassenarbeitResult.percentage}%)
+                  </p>
+                </div>
+
+                {/* Stars earned */}
+                {klassenarbeitResult.starsEarned > 0 && (
+                  <p className="text-yellow-400 text-lg font-bold">
+                    {klassenarbeitResult.note.emoji} +{klassenarbeitResult.starsEarned} csillag
+                  </p>
+                )}
+              </motion.div>
+            )}
           </motion.div>
         ) : (
           // ─── PRACTICE RESULT (Original) ─────────────────────────────
