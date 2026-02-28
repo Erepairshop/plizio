@@ -367,7 +367,7 @@ export default function MathTestPage() {
   // Auto-start practice test when grade is selected
   useEffect(() => {
     if (testType === "practice" && selectedGrade && country) {
-      handleTestTypeSelect("practice");
+      handleStartPracticeTest();
     }
   }, [testType, selectedGrade, country]);
 
@@ -574,6 +574,51 @@ export default function MathTestPage() {
     setGradeResult(null);
     setKlassenarbeitResult(null);
     // Will trigger handleTestTypeSelect via effect
+  };
+
+  // Direct Practice Test Generator (skips theme selection)
+  const handleStartPracticeTest = async () => {
+    if (!selectedGrade) return;
+
+    setCountdown(3);
+    setElapsedTime(0);
+    setGradingIndex(-1);
+    setGradeResult(null);
+    setKlassenarbeitResult(null);
+    setServerResult(null);
+    setSaved(false);
+    setCardRarity(null);
+    setTestSession(null);
+    answerTimesRef.current = [];
+    lastAnswerTimeRef.current = 0;
+
+    try {
+      // Generate 10-question practice test using theme-based generator
+      const practiceTest = generateThemeBasedTest(selectedGrade, 'Összes');
+
+      if (!practiceTest || practiceTest.tasks.length === 0) {
+        throw new Error("Failed to generate practice test");
+      }
+
+      // Convert to MathQuestion format
+      const mathQuestions: MathQuestion[] = practiceTest.tasks.slice(0, 10).map((task) => ({
+        question: task.question,
+        correctAnswer: task.correct,
+        options: task.options.map(opt => typeof opt === 'number' ? opt : parseInt(opt as string, 10)),
+        topic: task.id,
+        isWordProblem: false,
+      }));
+
+      setQuestions(mathQuestions);
+      setAnswers(new Array(mathQuestions.length).fill(null));
+      setRealisticKlassenarbeit(null);
+      setAvatarMood("idle");
+      setGameState("countdown");
+    } catch (err) {
+      console.error("[Practice Test] Failed to generate:", err);
+      alert("Hiba történt a teszt generálása során. Kérlek próbáld újra!");
+      setGameState("grade-select");
+    }
   };
 
   const handleTestTypeSelect = async (type: TestType) => {
