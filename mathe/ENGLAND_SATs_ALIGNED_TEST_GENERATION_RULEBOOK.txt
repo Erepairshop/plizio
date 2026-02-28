@@ -1,0 +1,84 @@
+ENGLAND – SATs ALIGNED TEST GENERATION RULEBOOK
+Aligned with English National Curriculum
+Covers: Year 2 (KS1) and Year 6 (KS2)
+Purpose: AI-based realistic SAT-style test generation
+
+1. YEAR 2 – KS1 SAT STRUCTURE
+Paper Structure
+Paper 1: Arithmetic (20–25 minutes)
+- 25 questions
+- Focus: addition, subtraction, simple multiplication/division, fractions (1/2, 1/4, 1/3)
+- Number bonds to 20
+- Place value to 100
+
+Paper 2: Reasoning (30 minutes)
+- Word problems
+- Measurement (cm, kg, l, time)
+- Basic geometry (2D/3D shapes)
+- Simple bar charts
+Difficulty Distribution
+30% easy (single-step arithmetic)
+40% medium (place value + word problems)
+30% reasoning (multi-step within Year 2 scope)
+Allowed Content
+- Numbers to 100
+- Simple fractions (1/2, 1/3, 1/4)
+- Multiplication as repeated addition
+- Division as grouping/sharing
+- Telling time to 5 minutes
+Forbidden Content
+- Long multiplication
+- Decimals beyond simple notation
+- Algebra
+- Negative numbers
+2. YEAR 6 – KS2 SAT STRUCTURE
+Paper Structure
+Paper 1: Arithmetic (30 minutes)
+- 36 questions
+- Written addition, subtraction, multiplication, division
+- Fractions, decimals, percentages
+- Order of operations
+- Negative numbers
+
+Paper 2: Reasoning (40 minutes)
+- Multi-step word problems
+- Ratio and proportion
+- Algebra (simple equations, missing numbers)
+- Geometry (angles, area, perimeter)
+- Data interpretation
+
+Paper 3: Reasoning (40 minutes)
+- Complex reasoning
+- Multi-step contextual problems
+- Mixed operations
+Difficulty Distribution
+25% easy (basic arithmetic fluency)
+45% medium (multi-step problems)
+30% challenging (deep reasoning within KS2 limits)
+Allowed Content
+- Place value to 10,000,000
+- Long multiplication and long division
+- Fractions operations
+- Percentages and ratio
+- Algebraic expressions (simple linear)
+- Area and volume
+- Angles in triangles and quadrilaterals
+Forbidden Content
+- Quadratic equations
+- Trigonometry
+- Advanced algebra
+- Graph transformations beyond linear
+3. TEST GENERATION RULES FOR AI
+- Questions must only include content already covered in curriculum progression.
+- Arithmetic paper must contain short answer numeric format.
+- Reasoning papers must include multi-step logic.
+- Increasing difficulty toward end of paper.
+- Partial scoring allowed for reasoning.
+- No calculator unless explicitly specified.
+- Clear marking scheme per question.
+4. SCORING MODEL
+Raw Score → Scaled Score Model (school simulation):
+85–100% → Greater Depth
+70–84% → Expected Standard
+50–69% → Working Towards
+Below 50% → Below Expected

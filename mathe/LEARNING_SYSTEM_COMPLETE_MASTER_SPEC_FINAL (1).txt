@@ -1,0 +1,136 @@
+PLATFORM LEARNING SYSTEM – COMPLETE MASTER SPECIFICATION
+Game Integrated Learning Category – Mathematics Grade 1–8
+Architecture Target: React Frontend | Optional NestJS Backend | LocalStorage Primary
+Complete curriculum, test design, economy integration, avatar system and progression logic.
+
+1. SYSTEM POSITION INSIDE GAME PLATFORM
+Learning is a category inside the game platform.
+Path:
+/learning → /math → Grade Select → Month → Practice → Mini-Test → Klassenarbeit → Result
+Learning uses global star currency and integrates with avatar and shop systems.
+2. CURRICULUM STRUCTURE (GRADE 1–8)
+Hierarchy:
+Country (DE) → Grade (1–8) → School Year → Month (Sep–Jul) → Week (1–4) → Modules → Tests
+
+Each month:
+- Core Topic (60%)
+- Review (15%)
+- Geometry/Measurement (10%)
+- Word Problems (15%)
+- Mini-Test (Week 4)
+- Klassenarbeit (Week 4 End)
+Grade 1
+Annual Topics: Numbers to 100, Addition/Subtraction to 20, Tens crossing, Clock, Length cm
+Monthly Flow:
+Week 1: Core Introduction
+Week 2: Core Deepening + Word Problems
+Week 3: Geometry/Measurement + Review
+Week 4: Mixed Practice + Mini-Test + Klassenarbeit
+Grade 2
+Annual Topics: Numbers to 1000, Written +/-, Multiplication intro, Division basics, Units
+Monthly Flow:
+Week 1: Core Introduction
+Week 2: Core Deepening + Word Problems
+Week 3: Geometry/Measurement + Review
+Week 4: Mixed Practice + Mini-Test + Klassenarbeit
+Grade 3
+Annual Topics: Written +,-,×,÷, Full table, Division remainder, Fractions intro, Perimeter
+Monthly Flow:
+Week 1: Core Introduction
+Week 2: Core Deepening + Word Problems
+Week 3: Geometry/Measurement + Review
+Week 4: Mixed Practice + Mini-Test + Klassenarbeit
+Grade 4
+Annual Topics: Numbers to 1,000,000, Written ×/÷, Fractions & decimals, Area, Diagrams
+Monthly Flow:
+Week 1: Core Introduction
+Week 2: Core Deepening + Word Problems
+Week 3: Geometry/Measurement + Review
+Week 4: Mixed Practice + Mini-Test + Klassenarbeit
+Grade 5
+Annual Topics: Negative numbers, Fraction operations, Percent intro, Simple equations, Volume
+Monthly Flow:
+Week 1: Core Introduction
+Week 2: Core Deepening + Word Problems
+Week 3: Geometry/Measurement + Review
+Week 4: Mixed Practice + Mini-Test + Klassenarbeit
+Grade 6
+Annual Topics: Ratio, Full percent, Algebra basics, Angles, Probability intro
+Monthly Flow:
+Week 1: Core Introduction
+Week 2: Core Deepening + Word Problems
+Week 3: Geometry/Measurement + Review
+Week 4: Mixed Practice + Mini-Test + Klassenarbeit
+Grade 7
+Annual Topics: Linear equations, Linear functions, Advanced percent, Pythagoras, Statistics
+Monthly Flow:
+Week 1: Core Introduction
+Week 2: Core Deepening + Word Problems
+Week 3: Geometry/Measurement + Review
+Week 4: Mixed Practice + Mini-Test + Klassenarbeit
+Grade 8
+Annual Topics: Quadratic expressions, Functions, Intercept theorem, Interest, Solid geometry
+Monthly Flow:
+Week 1: Core Introduction
+Week 2: Core Deepening + Word Problems
+Week 3: Geometry/Measurement + Review
+Week 4: Mixed Practice + Mini-Test + Klassenarbeit
+3. TEST ENGINE – REALISTIC EXAM DESIGN
+Mini-Test: 10–15 minutes
+Klassenarbeit: 30–45 minutes
+
+Sections:
+1. Kopfrechnen (4–6 points)
+2. Schriftlich rechnen (6–8 points)
+3. Maßeinheiten (4 points)
+4. Sachaufgaben (8–10 points)
+5. Geometrie (4–6 points)
+6. Bonus Task
+Total: 25–40 points
+Partial scoring allowed.
+4. GRADING SYSTEM
+90–100% → Grade 1
+80–89% → Grade 2
+65–79% → Grade 3
+50–64% → Grade 4
+30–49% → Grade 5
+0–29% → Grade 6
+5. STAR ECONOMY (Skin Price = 25 Stars)
+Monthly Max ≈ 22 Stars
+Mini-Test → 4 Stars
+Grade 1 → 12
+Grade 2 → 10
+Grade 3 → 8
+Grade 4 → 5
+Perfect Bonus → +3
+Month Completion → +3
+First attempt full reward.
+Second attempt 50%.
+Daily cap 30 Stars.
+6. XP SYSTEM
+XP for correct answers, streaks, practice completion.
+XP affects rank level.
+Stars are shop currency.
+7. AVATAR 3D INTEGRATION
+Desk Companion bottom-right.
+Modes: Practice (idle) / Exam (focused).
+States: idle, focused, happy, disappointed, streak, victory.
+Victory animation only after submission.
+Skins cosmetic only.
+Stored in localStorage.
+8. LOCAL STORAGE STRUCTURE
+All progress stored locally.
+Includes grade, months, stars, XP, avatar state.
+No mandatory registration required.
+9. UI REQUIREMENTS
+Exam layout must include name, date, timer, section headers, points display.
+Auto-save answers.
+Printable PDF mode.
+Serious look during exam.
+Reward animation after submission only.
+10. FINAL GOAL
+Hybrid realistic school exam system integrated into game economy.
+Balanced rewards.
+Structured curriculum.
+Avatar emotional engagement.
+Expandable architecture.
