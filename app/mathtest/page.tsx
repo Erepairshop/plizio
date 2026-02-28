@@ -1501,16 +1501,17 @@ export default function MathTestPage() {
           </div>
         </div>
         </ModernPaperTest>
+        {/* Avatar - Always visible, outside test UI */}
         <div
-          className="fixed bottom-0 right-0 z-10 pointer-events-none"
+          className="fixed bottom-0 right-0 z-50 pointer-events-none"
           style={{
-            paddingBottom: "max(160px, calc(160px + env(safe-area-inset-bottom)))",
+            width: '200px',
+            height: '200px',
+            paddingBottom: "max(80px, calc(80px + env(safe-area-inset-bottom)))",
             paddingRight: "max(20px, env(safe-area-inset-right))",
           }}
         >
-          <div className="w-48 h-48">
-            <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
-          </div>
+          <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
         </div>
       </>
     );
