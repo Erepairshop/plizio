@@ -66,17 +66,23 @@ export default function RealisticKlassenarbeitDisplay({
     switch (subQuestion.type) {
       case "short_input":
         return (
-          <ShortInputLayout
+          <motion.div
             key={subQuestion.id}
-            questionId={subQuestion.id}
-            text={subQuestion.text}
-            points={subQuestion.points}
-            value={userAnswer || ""}
-            onChange={(value) => onAnswerChange(taskIndex, subQuestion.id, value)}
-            correctAnswer={typeof subQuestion.correctAnswer === "object" ? undefined : subQuestion.correctAnswer}
-            isGrading={isGrading && isGraded}
-            disabled={isGrading}
-          />
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ duration: 0.15 }}
+          >
+            <ShortInputLayout
+              questionId={subQuestion.id}
+              text={subQuestion.text}
+              points={subQuestion.points}
+              value={userAnswer || ""}
+              onChange={(value) => onAnswerChange(taskIndex, subQuestion.id, value)}
+              correctAnswer={typeof subQuestion.correctAnswer === "object" ? undefined : subQuestion.correctAnswer}
+              isGrading={isGrading && isGraded}
+              disabled={isGrading}
+            />
+          </motion.div>
         );
 
       case "multi_input":
@@ -236,7 +242,7 @@ export default function RealisticKlassenarbeitDisplay({
   };
 
   return (
-    <div className="space-y-4">
+    <div className="space-y-2">
       {tasks.map((task, taskIndex) => {
         const isExpanded = expandedTask === taskIndex;
         const taskAnswered = Object.keys(answers).some(
@@ -246,29 +252,30 @@ export default function RealisticKlassenarbeitDisplay({
         return (
           <motion.div
             key={taskIndex}
-            className="border-2 border-gray-300 rounded-xl overflow-hidden bg-white"
-            initial={{ opacity: 0, y: 10 }}
+            className="border border-gray-300 rounded-lg overflow-hidden bg-white"
+            initial={{ opacity: 0, y: 5 }}
             animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.2 }}
           >
-            {/* Task Header */}
+            {/* Task Header - Kompaktabb */}
             <button
               onClick={() => setExpandedTask(isExpanded ? null : taskIndex)}
-              className="w-full px-6 py-4 flex justify-between items-center bg-gray-100 hover:bg-gray-200 transition-colors"
+              className="w-full px-4 py-2.5 flex justify-between items-center bg-gray-50 hover:bg-gray-100 transition-colors"
               disabled={isGrading}
             >
               <div className="text-left flex-1">
-                <h3 className="text-lg font-black text-gray-800">
+                <h3 className="text-sm font-black text-gray-800">
                   Aufgabe {task.taskNumber}: {task.title}
                 </h3>
-                <p className="text-sm text-gray-600 mt-1">
-                  Punkte: {task.totalPoints} | Sektion: {task.section}
+                <p className="text-xs text-gray-500 mt-0.5">
+                  {task.totalPoints}P · {task.section}
                 </p>
               </div>
               <motion.div
                 animate={{ rotate: isExpanded ? 180 : 0 }}
-                transition={{ duration: 0.2 }}
+                transition={{ duration: 0.15 }}
               >
-                <ChevronDown size={24} className="text-gray-600" />
+                <ChevronDown size={20} className="text-gray-500" />
               </motion.div>
             </button>
 
@@ -279,26 +286,27 @@ export default function RealisticKlassenarbeitDisplay({
                   initial={{ opacity: 0, height: 0 }}
                   animate={{ opacity: 1, height: "auto" }}
                   exit={{ opacity: 0, height: 0 }}
-                  className="px-6 py-6 space-y-4 bg-white"
+                  transition={{ duration: 0.2 }}
+                  className="px-4 py-3 space-y-3 bg-white border-t border-gray-200"
                 >
                   {/* Task description */}
                   {task.description && (
-                    <p className="text-sm text-gray-700 font-medium mb-4">{task.description}</p>
+                    <p className="text-xs text-gray-700 font-medium">{task.description}</p>
                   )}
 
                   {/* Task image */}
                   {task.imageUrl && (
-                    <div className="mb-4 rounded-lg overflow-hidden">
+                    <div className="rounded-lg overflow-hidden">
                       <img
                         src={task.imageUrl}
                         alt={task.title}
-                        className="w-full max-h-96 object-cover"
+                        className="w-full max-h-64 object-cover"
                       />
                     </div>
                   )}
 
                   {/* Sub-questions */}
-                  <div className="space-y-4">
+                  <div className="space-y-3">
                     {task.subQuestions.map((subQuestion) => {
                       const answerKey = `task_${taskIndex}_${subQuestion.id}`;
                       const isGraded = isGrading && gradeIndex >= taskIndex;

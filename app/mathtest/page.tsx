@@ -1089,8 +1089,8 @@ export default function MathTestPage() {
           style={{
             background: "#f5f0e8",
             backgroundImage: `
-              linear-gradient(rgba(180, 210, 240, 0.3) 1px, transparent 1px),
-              linear-gradient(90deg, rgba(180, 210, 240, 0.3) 1px, transparent 1px)
+              linear-gradient(rgba(180, 210, 240, 0.12) 1px, transparent 1px),
+              linear-gradient(90deg, rgba(180, 210, 240, 0.12) 1px, transparent 1px)
             `,
             backgroundSize: "20px 20px",
           }}
@@ -1280,11 +1280,14 @@ export default function MathTestPage() {
               })}
             </div>
 
-            {/* Submit button */}
+            {/* Submit button - Safe area friendly */}
             {!isGrading && (
               <div
-                className="fixed bottom-0 left-0 right-0 p-4 z-20"
-                style={{ background: "linear-gradient(transparent, #f5f0e8 30%)" }}
+                className="fixed bottom-0 left-0 right-0 p-4 z-20 pr-20"
+                style={{
+                  background: "linear-gradient(transparent, #f5f0e8 30%)",
+                  paddingBottom: "max(1rem, env(safe-area-inset-bottom))"
+                }}
               >
                 <motion.button
                   onClick={handleSubmit}
@@ -1307,7 +1310,9 @@ export default function MathTestPage() {
           </div>
         </div>
         </main>
-        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
+        <div className="fixed bottom-6 right-4 z-10 pointer-events-auto" style={{ paddingBottom: "env(safe-area-inset-bottom)" }}>
+          <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
+        </div>
       </>
     );
   }
