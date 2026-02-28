@@ -639,8 +639,8 @@ interface SectionConfig {
 }
 
 export function generateKlassenarbeit(grade: number, period?: number, countryCode?: string): MathQuestion[] {
-  // Jelenleg csak Grade 5
-  if (grade !== 5) return [];
+  // Grade 4 és 5 támogatott
+  if (grade !== 4 && grade !== 5) return [];
 
   const cc = countryCode || "HU";
   const p = period ?? getPeriod();
@@ -650,39 +650,77 @@ export function generateKlassenarbeit(grade: number, period?: number, countryCod
   const questions: MathQuestion[] = [];
   const usedQuestions = new Set<string>();
 
-  // Szekciók definiálása
-  const sections: Record<string, SectionConfig> = {
-    kopfrechnen: {
-      name: "Kopfrechnen",
-      questionCount: 2,
-      pointsPerQuestion: 1,
-      generators: [G5.orderOfOps, G5.orderOfOpsB, G5.percent10],
-    },
-    schriftlich: {
-      name: "Schriftlich",
-      questionCount: 3,
-      pointsPerQuestion: 2,
-      generators: [G5.largeNumbers, G5.roundHundreds, G5.fractionAdd, G5.fractionSub],
-    },
-    sachaufgaben: {
-      name: "Sachaufgaben",
-      questionCount: 2,
-      pointsPerQuestion: 3,
-      generators: [G5.wordDiscount, G5.wordOps],
-    },
-    geometrie: {
-      name: "Geometrie",
-      questionCount: 2,
-      pointsPerQuestion: 2,
-      generators: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter],
-    },
-    bonus: {
-      name: "Bonus",
-      questionCount: 1,
-      pointsPerQuestion: 1,
-      generators: [G5.percent25, G5.percent50],
-    },
-  };
+  // Szekciók definiálása - Grade függő
+  let sections: Record<string, SectionConfig>;
+
+  if (grade === 4) {
+    sections = {
+      kopfrechnen: {
+        name: "Kopfrechnen",
+        questionCount: 2,
+        pointsPerQuestion: 1,
+        generators: [G4.writtenMul, G4.writtenMulB, G4.writtenDiv],
+      },
+      schriftlich: {
+        name: "Schriftlich",
+        questionCount: 3,
+        pointsPerQuestion: 2,
+        generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit, G4.placeValue],
+      },
+      bruchrechnung: {
+        name: "Bruchrechnung",
+        questionCount: 2,
+        pointsPerQuestion: 2,
+        generators: [G4.fractions],
+      },
+      geometrie: {
+        name: "Geometrie",
+        questionCount: 2,
+        pointsPerQuestion: 2,
+        generators: [G4.units],
+      },
+      bonus: {
+        name: "Bonus",
+        questionCount: 1,
+        pointsPerQuestion: 1,
+        generators: [G4.decimals, G4.sequence],
+      },
+    };
+  } else {
+    // Grade 5
+    sections = {
+      kopfrechnen: {
+        name: "Kopfrechnen",
+        questionCount: 2,
+        pointsPerQuestion: 1,
+        generators: [G5.orderOfOps, G5.orderOfOpsB, G5.percent10],
+      },
+      schriftlich: {
+        name: "Schriftlich",
+        questionCount: 3,
+        pointsPerQuestion: 2,
+        generators: [G5.largeNumbers, G5.roundHundreds, G5.fractionAdd, G5.fractionSub],
+      },
+      sachaufgaben: {
+        name: "Sachaufgaben",
+        questionCount: 2,
+        pointsPerQuestion: 3,
+        generators: [G5.wordDiscount, G5.wordOps],
+      },
+      geometrie: {
+        name: "Geometrie",
+        questionCount: 2,
+        pointsPerQuestion: 2,
+        generators: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter],
+      },
+      bonus: {
+        name: "Bonus",
+        questionCount: 1,
+        pointsPerQuestion: 1,
+        generators: [G5.percent25, G5.percent50],
+      },
+    };
+  }
 
   function addUnique(gen: Generator, section: string, points: number, maxAttempts = 15): boolean {
     for (let attempt = 0; attempt < maxAttempts; attempt++) {
