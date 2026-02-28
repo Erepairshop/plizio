@@ -1089,8 +1089,8 @@ export default function MathTestPage() {
           style={{
             background: "#f5f0e8",
             backgroundImage: `
-              linear-gradient(rgba(180, 210, 240, 0.12) 1px, transparent 1px),
-              linear-gradient(90deg, rgba(180, 210, 240, 0.12) 1px, transparent 1px)
+              linear-gradient(rgba(180, 210, 240, 0.05) 1px, transparent 1px),
+              linear-gradient(90deg, rgba(180, 210, 240, 0.05) 1px, transparent 1px)
             `,
             backgroundSize: "20px 20px",
           }}
@@ -1280,13 +1280,26 @@ export default function MathTestPage() {
               })}
             </div>
 
+            {/* Exit button - Top left */}
+            <motion.button
+              onClick={() => setGameState("grade-select")}
+              className="fixed top-6 left-6 p-2.5 rounded-lg bg-white/5 border border-white/10 text-white/60 hover:text-white hover:bg-white/10 transition-all z-30"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              whileHover={{ scale: 1.1 }}
+              whileTap={{ scale: 0.95 }}
+            >
+              <XIcon size={20} />
+            </motion.button>
+
             {/* Submit button - Safe area friendly */}
             {!isGrading && (
               <div
-                className="fixed bottom-0 left-0 right-0 p-4 z-20 pr-20"
+                className="fixed bottom-0 left-0 right-0 p-4 z-20"
                 style={{
                   background: "linear-gradient(transparent, #f5f0e8 30%)",
-                  paddingBottom: "max(1rem, env(safe-area-inset-bottom))"
+                  paddingBottom: "max(1rem, env(safe-area-inset-bottom))",
+                  paddingRight: "calc(160px + 1rem)"
                 }}
               >
                 <motion.button

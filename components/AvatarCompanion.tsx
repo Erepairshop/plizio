@@ -439,8 +439,11 @@ export default function AvatarCompanion({
 
   return (
     <div
-      className={`${positionClass} ${pointerClass} w-48 h-48`}
-      style={fixed ? { bottom: '14px', right: '14px' } : {}}
+      className={`${positionClass} ${pointerClass} w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48`}
+      style={fixed ? {
+        bottom: 'max(20px, calc(env(safe-area-inset-bottom) + 20px))',
+        right: '20px'
+      } : {}}
     >
       <Canvas
         camera={{ position: [0, 0.1, 2.2], fov: 38 }}

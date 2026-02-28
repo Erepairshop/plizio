@@ -66,7 +66,7 @@ export default function KlassenarbeitHeader({
           {/* Timer - Smaller */}
           <div className={`flex flex-col items-center ${isExpired ? "opacity-50" : ""}`}>
             <div
-              className={`relative w-16 h-16 rounded-full flex items-center justify-center font-mono text-lg font-black transition-all ${
+              className={`relative w-14 h-14 rounded-full flex items-center justify-center font-mono text-sm font-black transition-all ${
                 isExpired
                   ? "bg-red-900/40 border-2 border-red-500 text-red-300"
                   : isWarning
