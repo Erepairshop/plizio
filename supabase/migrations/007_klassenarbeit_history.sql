@@ -5,16 +5,33 @@
 -- Solution: Add klassenarbeit_data JSONB column + RPC for retrieval
 -- ============================================================================
 
--- ─── Add klassenarbeit_data column to test_instances ────────────────────
-ALTER TABLE test_instances
-ADD COLUMN klassenarbeit_data JSONB DEFAULT NULL;
+-- ─── Add klassenarbeit_data column to test_instances (if not exists) ────────────────────
+DO $$
+BEGIN
+  IF NOT EXISTS(
+    SELECT 1 FROM information_schema.columns
+    WHERE table_name='test_instances' AND column_name='klassenarbeit_data'
+  ) THEN
+    ALTER TABLE test_instances
+    ADD COLUMN klassenarbeit_data JSONB DEFAULT NULL;
+  END IF;
+END $$;
 
--- Create index for efficient klassenarbeit queries
-CREATE INDEX idx_test_instances_klassenarbeit
-  ON test_instances(user_id, created_at DESC)
-  WHERE klassenarbeit_data IS NOT NULL;
+-- Create index for efficient klassenarbeit queries (if not exists)
+DO $$
+BEGIN
+  IF NOT EXISTS(
+    SELECT 1 FROM pg_indexes
+    WHERE tablename='test_instances' AND indexname='idx_test_instances_klassenarbeit'
+  ) THEN
+    CREATE INDEX idx_test_instances_klassenarbeit
+      ON test_instances(user_id, created_at DESC)
+      WHERE klassenarbeit_data IS NOT NULL;
+  END IF;
+END $$;
 
--- ─── Drop old submit_test function and recreate with klassenarbeit_data storage ─
+-- ─── Drop all old submit_test function versions and recreate ─
+DROP FUNCTION IF EXISTS submit_test(UUID, JSONB) CASCADE;
 DROP FUNCTION IF EXISTS submit_test(UUID, JSONB, JSONB) CASCADE;
 
 -- ─── Update submit_test RPC to store klassenarbeit_data ─────────────────
