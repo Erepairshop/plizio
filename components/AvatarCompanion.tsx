@@ -8,6 +8,7 @@ interface AvatarCompanionProps {
   mood: 'idle' | 'focused' | 'happy' | 'disappointed' | 'victory';
   skinColor?: string;
   outfitColor?: string;
+  fixed?: boolean; // default true, false for relative positioning
 }
 
 function Character({ mood, skinColor = '#ffd4a3', outfitColor = '#4a90e2' }: AvatarCompanionProps) {
@@ -163,9 +164,13 @@ export default function AvatarCompanion({
   mood = 'idle',
   skinColor = '#ffd4a3',
   outfitColor = '#4a90e2',
+  fixed = true,
 }: AvatarCompanionProps) {
+  const positionClass = fixed ? 'fixed bottom-4 right-4 z-40' : 'relative w-full h-full';
+  const pointerClass = fixed ? 'pointer-events-none' : 'pointer-events-auto';
+
   return (
-    <div className="fixed bottom-4 right-4 w-52 h-52 pointer-events-none z-40">
+    <div className={`${positionClass} ${pointerClass} w-52 h-52`}>
       <Canvas
         camera={{ position: [0, 0.2, 2.2], fov: 45 }}
         frameloop="always"

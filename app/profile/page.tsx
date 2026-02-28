@@ -11,6 +11,8 @@ import { getCards } from "@/lib/cards";
 import { syncToSupabase } from "@/lib/sync";
 import AuthModal from "@/components/AuthModal";
 import { getUsername } from "@/lib/username";
+import AvatarCompanion from "@/components/AvatarCompanion";
+import { getActiveSkin, SKINS } from "@/lib/skins";
 
 export default function ProfilePage() {
   const [user, setUser] = useState<{ id: string; email?: string } | null>(null);
@@ -45,6 +47,17 @@ export default function ProfilePage() {
       await syncToSupabase(user.id);
     } catch {}
   };
+
+  // Get avatar colors from active skin
+  const [avatarSkinColor, setAvatarSkinColor] = useState('#ffd4a3');
+  const [avatarOutfitColor, setAvatarOutfitColor] = useState('#4a90e2');
+
+  useEffect(() => {
+    const skinId = getActiveSkin();
+    const skin = SKINS.find(s => s.id === skinId) || SKINS[0];
+    setAvatarSkinColor(skin.headColor);
+    setAvatarOutfitColor(skin.bodyColor);
+  }, []);
 
   if (loading) {
     return (
@@ -157,6 +170,13 @@ export default function ProfilePage() {
           }}
         />
       )}
+
+      {/* Avatar Companion */}
+      <AvatarCompanion
+        mood={user ? 'idle' : 'idle'}
+        skinColor={avatarSkinColor}
+        outfitColor={avatarOutfitColor}
+      />
     </main>
   );
 }
