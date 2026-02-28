@@ -6,7 +6,7 @@ import { Canvas, useFrame } from "@react-three/fiber";
 import * as THREE from "three";
 import {
   Calculator, ArrowLeft, Check, X as XIcon,
-  RotateCcw, Home, Send, BookOpen, Sparkles, Clock,
+  RotateCcw, Home, Send, BookOpen, Sparkles, Clock, Pencil,
 } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
@@ -64,6 +64,7 @@ import RealisticKlassenarbeitDisplay from "@/components/RealisticKlassenarbeitDi
 import KlassenarbeitHeader from "@/components/KlassenarbeitHeader";
 import ExamResultsDisplay from "@/components/ExamResultsDisplay";
 import MathQuestionDisplay from "@/components/MathQuestionDisplay";
+import ScratchpadModal from "@/components/ScratchpadModal";
 import { convertToExtendedQuestion, isVisualQuestion } from "@/lib/mathQuestionUtils";
 import ModernPaperTest from "@/components/ModernPaperTest";
 import { getActiveSkin, SKINS } from "@/lib/skins";
@@ -1205,7 +1206,7 @@ export default function MathTestPage() {
                 />
               )}
 
-              {/* Individual Questions (Old Format) */}
+              {/* Individual Questions - All using MathQuestionDisplay */}
               {questions.map((question, qi) => {
                 const isGraded = isGrading && qi < gradingIndex;
                 const isCorrect = answers[qi] === question.correctAnswer;
@@ -1216,14 +1217,19 @@ export default function MathTestPage() {
                 const showSectionHeader = currentSection && currentSection !== prevSection;
 
                 return (
-                  <div key={qi}>
+                  <motion.div
+                    key={qi}
+                    initial={{ opacity: 0, y: 10 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ delay: isGrading ? 0 : qi * 0.05 }}
+                    className="mb-6"
+                  >
                     {/* Section header (Klassenarbeit only) */}
                     {showSectionHeader && (
                       <motion.div
                         className="mt-6 mb-4 pb-2 border-b-2 border-gray-400/30"
                         initial={{ opacity: 0 }}
                         animate={{ opacity: 1 }}
-                        transition={{ delay: isGrading ? 0 : (qi - 0.5) * 0.05 }}
                       >
                         <h3 className="text-sm font-black text-gray-700 uppercase tracking-wider">
                           {currentSection}
@@ -1232,114 +1238,39 @@ export default function MathTestPage() {
                       </motion.div>
                     )}
 
-                    {/* Check if question has visual elements */}
-                    {(question as any).imageData || (question as any).diagramData ? (
+                    {/* Use MathQuestionDisplay for all questions - includes scratchpad */}
+                    <MathQuestionDisplay
+                      question={convertToExtendedQuestion(question)}
+                      selectedAnswer={answers[qi]}
+                      onSelectAnswer={(optIdx) => !isGrading && handleAnswer(qi, question.options[optIdx])}
+                      showResult={isGrading && isGraded}
+                      isCorrect={isCorrect}
+                    />
+
+                    {/* Grading mark */}
+                    {isGrading && isGraded && (
                       <motion.div
-                        className="mb-6"
-                        initial={{ opacity: 0, y: 10 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        transition={{ delay: isGrading ? 0 : qi * 0.05 }}
+                        className="absolute -right-8 top-6"
+                        initial={{ scale: 0, rotate: -20 }}
+                        animate={{ scale: 1, rotate: 0 }}
+                        transition={{ type: "spring", stiffness: 300 }}
                       >
-                        <div className="flex gap-2 mb-4">
-                          <span className="flex-shrink-0 w-7 h-7 rounded-full bg-gray-800 text-white text-xs font-bold flex items-center justify-center">
-                            {qi + 1}
-                          </span>
-                        </div>
-                        <MathQuestionDisplay
-                          question={convertToExtendedQuestion(question)}
-                          selectedAnswer={answers[qi]}
-                          onSelectAnswer={(optIdx) => !isGrading && handleAnswer(qi, question.options[optIdx])}
-                          showResult={isGrading && isGraded}
-                          isCorrect={isCorrect}
-                        />
-                      </motion.div>
-                    ) : (
-                      <motion.div
-                        className="mb-6 relative"
-                        initial={{ opacity: 0, y: 10 }}
-                        animate={{ opacity: 1, y: 0 }}
-                        transition={{ delay: isGrading ? 0 : qi * 0.05 }}
-                      >
-                        {/* Question */}
-                        <div className="flex gap-2 mb-3">
-                        <span className="flex-shrink-0 w-7 h-7 rounded-full bg-gray-800 text-white text-xs font-bold flex items-center justify-center">
-                          {qi + 1}
-                        </span>
-                        <p
-                          className={`text-sm font-medium leading-relaxed ${
-                            question.isWordProblem ? "text-gray-700 italic" : "text-gray-800"
-                          }`}
-                        >
-                          {question.question}
-                        </p>
-                      </div>
-
-                      {/* Options */}
-                      <div className="grid grid-cols-2 gap-2 ml-9">
-                      {question.options.map((opt, oi) => {
-                        const isSelected = answers[qi] === opt;
-                        const isCorrectOpt = opt === question.correctAnswer;
-
-                        let bg = "bg-white";
-                        let border = "border-gray-200";
-                        let text = "text-gray-700";
-                        let extra = "";
-
-                        if (isGrading && isGraded) {
-                          if (isCorrectOpt) {
-                            bg = "bg-green-50"; border = "border-green-400"; text = "text-green-700";
-                          } else if (isSelected && !isCorrectOpt) {
-                            bg = "bg-red-50"; border = "border-red-400"; text = "text-red-600"; extra = "line-through";
-                          } else {
-                            bg = "bg-white"; border = "border-gray-200"; text = "text-gray-400";
-                          }
-                        } else if (isSelected) {
-                          bg = "bg-blue-50"; border = "border-blue-400"; text = "text-blue-700"; extra = "ring-2 ring-blue-300";
-                        }
-
-                        const isDisabled = isGrading || (testType === "klassenarbeit" && klassenarbeitTimeLeft <= 0);
-
-                        return (
-                          <motion.button
-                            key={oi}
-                            onClick={() => !isDisabled && handleAnswer(qi, opt)}
-                            disabled={isDisabled}
-                            className={`px-3 py-2.5 rounded-xl border-2 text-sm font-bold transition-all ${bg} ${border} ${text} ${extra}`}
-                            whileHover={!isDisabled ? { scale: 1.03 } : undefined}
-                            whileTap={!isGrading ? { scale: 0.97 } : undefined}
-                          >
-                            {opt}
-                          </motion.button>
-                        );
-                      })}
-                    </div>
-
-                      {/* Grading mark */}
-                      {isGrading && isGraded && (
-                        <motion.div
-                          className="absolute -right-1 top-0"
-                          initial={{ scale: 0, rotate: -20 }}
-                          animate={{ scale: 1, rotate: 0 }}
-                          transition={{ type: "spring", stiffness: 300 }}
-                        >
-                          {isCorrect ? (
-                            <Check
-                              size={28}
-                              className="text-green-500"
-                              style={{ filter: "drop-shadow(0 0 4px rgba(34,197,94,0.5))" }}
-                            />
-                          ) : (
-                            <XIcon
-                              size={28}
-                              className="text-red-500"
-                              style={{ filter: "drop-shadow(0 0 4px rgba(239,68,68,0.5))" }}
-                            />
-                          )}
-                        </motion.div>
-                      )}
+                        {isCorrect ? (
+                          <Check
+                            size={28}
+                            className="text-green-500"
+                            style={{ filter: "drop-shadow(0 0 4px rgba(34,197,94,0.5))" }}
+                          />
+                        ) : (
+                          <XIcon
+                            size={28}
+                            className="text-red-500"
+                            style={{ filter: "drop-shadow(0 0 4px rgba(239,68,68,0.5))" }}
+                          />
+                        )}
                       </motion.div>
                     )}
-                  </div>
+                  </motion.div>
                 );
               })}
             </div>
