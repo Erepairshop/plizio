@@ -60,6 +60,7 @@ function Character({ mood, skinColor = '#e8c9a0', outfitColor = '#6b8fad' }: Ava
     headRef.current.rotation.x = lerp(headRef.current.rotation.x, 0, 0.1);
     headRef.current.rotation.y = lerp(headRef.current.rotation.y, 0, 0.1);
     headRef.current.rotation.z = lerp(headRef.current.rotation.z, 0, 0.1);
+    headRef.current.position.y = lerp(headRef.current.position.y, 0, 0.12);
     bodyRef.current.scale.x = lerp(bodyRef.current.scale.x, 1, 0.12);
     bodyRef.current.scale.y = lerp(bodyRef.current.scale.y, 1, 0.12);
     bodyRef.current.position.y = lerp(bodyRef.current.position.y, 0, 0.1);
