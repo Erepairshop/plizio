@@ -63,6 +63,8 @@ import AvatarCompanion from "@/components/AvatarCompanion";
 import RealisticKlassenarbeitDisplay from "@/components/RealisticKlassenarbeitDisplay";
 import KlassenarbeitHeader from "@/components/KlassenarbeitHeader";
 import ExamResultsDisplay from "@/components/ExamResultsDisplay";
+import MathQuestionDisplay from "@/components/MathQuestionDisplay";
+import { convertToExtendedQuestion, isVisualQuestion } from "@/lib/mathQuestionUtils";
 import { getActiveSkin, SKINS } from "@/lib/skins";
 
 // ─── 3D FLOATING BACKGROUND ─────────────────────────────
@@ -1344,28 +1346,50 @@ export default function MathTestPage() {
                       </motion.div>
                     )}
 
-                    <motion.div
-                      className="mb-6 relative"
-                      initial={{ opacity: 0, y: 10 }}
-                      animate={{ opacity: 1, y: 0 }}
-                      transition={{ delay: isGrading ? 0 : qi * 0.05 }}
-                    >
-                      {/* Question */}
-                      <div className="flex gap-2 mb-3">
-                      <span className="flex-shrink-0 w-7 h-7 rounded-full bg-gray-800 text-white text-xs font-bold flex items-center justify-center">
-                        {qi + 1}
-                      </span>
-                      <p
-                        className={`text-sm font-medium leading-relaxed ${
-                          question.isWordProblem ? "text-gray-700 italic" : "text-gray-800"
-                        }`}
+                    {/* Check if question has visual elements */}
+                    {(question as any).imageData || (question as any).diagramData ? (
+                      <motion.div
+                        className="mb-6"
+                        initial={{ opacity: 0, y: 10 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        transition={{ delay: isGrading ? 0 : qi * 0.05 }}
                       >
-                        {question.question}
-                      </p>
-                    </div>
+                        <div className="flex gap-2 mb-4">
+                          <span className="flex-shrink-0 w-7 h-7 rounded-full bg-gray-800 text-white text-xs font-bold flex items-center justify-center">
+                            {qi + 1}
+                          </span>
+                        </div>
+                        <MathQuestionDisplay
+                          question={convertToExtendedQuestion(question)}
+                          selectedAnswer={answers[qi]}
+                          onSelectAnswer={(optIdx) => !isGrading && handleAnswer(qi, question.options[optIdx])}
+                          showResult={isGrading && isGraded}
+                          isCorrect={isCorrect}
+                        />
+                      </motion.div>
+                    ) : (
+                      <motion.div
+                        className="mb-6 relative"
+                        initial={{ opacity: 0, y: 10 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        transition={{ delay: isGrading ? 0 : qi * 0.05 }}
+                      >
+                        {/* Question */}
+                        <div className="flex gap-2 mb-3">
+                        <span className="flex-shrink-0 w-7 h-7 rounded-full bg-gray-800 text-white text-xs font-bold flex items-center justify-center">
+                          {qi + 1}
+                        </span>
+                        <p
+                          className={`text-sm font-medium leading-relaxed ${
+                            question.isWordProblem ? "text-gray-700 italic" : "text-gray-800"
+                          }`}
+                        >
+                          {question.question}
+                        </p>
+                      </div>
 
-                    {/* Options */}
-                    <div className="grid grid-cols-2 gap-2 ml-9">
+                      {/* Options */}
+                      <div className="grid grid-cols-2 gap-2 ml-9">
                       {question.options.map((opt, oi) => {
                         const isSelected = answers[qi] === opt;
                         const isCorrectOpt = opt === question.correctAnswer;
@@ -1404,30 +1428,31 @@ export default function MathTestPage() {
                       })}
                     </div>
 
-                    {/* Grading mark */}
-                    {isGrading && isGraded && (
-                      <motion.div
-                        className="absolute -right-1 top-0"
-                        initial={{ scale: 0, rotate: -20 }}
-                        animate={{ scale: 1, rotate: 0 }}
-                        transition={{ type: "spring", stiffness: 300 }}
-                      >
-                        {isCorrect ? (
-                          <Check
-                            size={28}
-                            className="text-green-500"
-                            style={{ filter: "drop-shadow(0 0 4px rgba(34,197,94,0.5))" }}
-                          />
-                        ) : (
-                          <XIcon
-                            size={28}
-                            className="text-red-500"
-                            style={{ filter: "drop-shadow(0 0 4px rgba(239,68,68,0.5))" }}
-                          />
-                        )}
+                      {/* Grading mark */}
+                      {isGrading && isGraded && (
+                        <motion.div
+                          className="absolute -right-1 top-0"
+                          initial={{ scale: 0, rotate: -20 }}
+                          animate={{ scale: 1, rotate: 0 }}
+                          transition={{ type: "spring", stiffness: 300 }}
+                        >
+                          {isCorrect ? (
+                            <Check
+                              size={28}
+                              className="text-green-500"
+                              style={{ filter: "drop-shadow(0 0 4px rgba(34,197,94,0.5))" }}
+                            />
+                          ) : (
+                            <XIcon
+                              size={28}
+                              className="text-red-500"
+                              style={{ filter: "drop-shadow(0 0 4px rgba(239,68,68,0.5))" }}
+                            />
+                          )}
+                        </motion.div>
+                      )}
                       </motion.div>
                     )}
-                    </motion.div>
                   </div>
                 );
               })}
