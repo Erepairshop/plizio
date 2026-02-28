@@ -18,8 +18,10 @@ import {
   generateTest,
   generateKlassenarbeit,
   generateKlassenarbeitFromBank,
+  generateRealisticKlassenarbeit,
   calculateGradeResult,
   calculateKlassenarbeitResult,
+  calculateRealisticKlassenarbeitResult,
   getMathGrade,
   saveMathGrade,
   updateMathStats,
@@ -28,6 +30,8 @@ import {
   type MathQuestion,
   type GradeResult,
   type KlassenarbeitResult,
+  type GroupedTask,
+  type RealisticKlassenarbeit,
 } from "@/lib/mathCurriculum";
 import {
   COUNTRIES,
@@ -48,6 +52,9 @@ import {
   type KlassenarbeitMetadata,
 } from "@/lib/assessment/testFlow";
 import { useAuth } from "@/lib/supabase/useAuth";
+import AvatarCompanion from "@/components/AvatarCompanion";
+import RealisticKlassenarbeitDisplay from "@/components/RealisticKlassenarbeitDisplay";
+import { getActiveSkin, SKINS } from "@/lib/skins";
 
 // ─── 3D FLOATING BACKGROUND ─────────────────────────────
 
@@ -297,6 +304,10 @@ export default function MathTestPage() {
   const [elapsedTime, setElapsedTime] = useState(0);
   const [klassenarbeitResult, setKlassenarbeitResult] = useState<KlassenarbeitResult | null>(null);
 
+  // ─── Realistic Klassenarbeit (Grouped Tasks) ───────────────────
+  const [realisticKlassenarbeit, setRealisticKlassenarbeit] = useState<RealisticKlassenarbeit | null>(null);
+  const [groupedTaskAnswers, setGroupedTaskAnswers] = useState<Record<string, string | number>>({});
+
   // ─── Klassenarbeit timer (30 minutes) ───────────────────────
   const [klassenarbeitStartTime, setKlassenarbeitStartTime] = useState<number | null>(null);
   const [klassenarbeitTimeLeft, setKlassenarbeitTimeLeft] = useState(1800); // 30 * 60 = 1800 seconds
@@ -312,6 +323,20 @@ export default function MathTestPage() {
   const [submitting, setSubmitting] = useState(false);
   const answerTimesRef = useRef<number[]>([]); // per-question time tracking
   const lastAnswerTimeRef = useRef<number>(0);
+
+  // ─── Avatar Companion State ───────────────────────────────────
+  const [avatarMood, setAvatarMood] = useState<'idle' | 'focused' | 'happy' | 'disappointed' | 'victory'>('idle');
+  const [avatarSkinColor, setAvatarSkinColor] = useState('#ffd4a3');
+  const [avatarOutfitColor, setAvatarOutfitColor] = useState('#4a90e2');
+  const avatarMoodTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  // Load avatar colors from active skin on mount
+  useEffect(() => {
+    const skinId = getActiveSkin();
+    const skin = SKINS.find(s => s.id === skinId) || SKINS[0];
+    setAvatarSkinColor(skin.headColor);
+    setAvatarOutfitColor(skin.bodyColor);
+  }, []);
 
   // Load saved country + grade on mount
   useEffect(() => {
@@ -413,6 +438,18 @@ export default function MathTestPage() {
   // Grading animation
   useEffect(() => {
     if (gameState !== "grading") return;
+
+    // Handle grouped tasks grading
+    if (realisticKlassenarbeit) {
+      // All graded for realistic Klassenarbeit
+      const kaResult = calculateRealisticKlassenarbeitResult(realisticKlassenarbeit.tasks, groupedTaskAnswers);
+      setKlassenarbeitResult(kaResult);
+      const gradeResult = calculateGradeResult(kaResult.totalPoints, kaResult.maxTotalPoints);
+      setGradeResult(gradeResult);
+      setTimeout(() => setGameState("result"), 600);
+      return;
+    }
+
     if (gradingIndex < questions.length) {
       const t = setTimeout(() => setGradingIndex((i) => i + 1), 400);
       return () => clearTimeout(t);
@@ -436,7 +473,46 @@ export default function MathTestPage() {
       }
       setTimeout(() => setGameState("result"), 600);
     }
-  }, [gameState, gradingIndex, questions, answers, testType]);
+  }, [gameState, gradingIndex, questions, answers, testType, realisticKlassenarbeit, groupedTaskAnswers]);
+
+  // ─── Avatar Mood Control ───────────────────────────────────
+  useEffect(() => {
+    // During playing with Klassenarbeit → focused
+    if (gameState === "playing" && testType === "klassenarbeit") {
+      setAvatarMood("focused");
+      return;
+    }
+
+    // During grading → show reaction to answer
+    if (gameState === "grading" && gradingIndex >= 0 && gradingIndex < questions.length) {
+      const isCorrect = answers[gradingIndex] === questions[gradingIndex].correctAnswer;
+      const newMood = isCorrect ? "happy" : "disappointed";
+      setAvatarMood(newMood);
+
+      // Reset to idle after 800ms
+      if (avatarMoodTimeoutRef.current) clearTimeout(avatarMoodTimeoutRef.current);
+      avatarMoodTimeoutRef.current = setTimeout(() => {
+        setAvatarMood("idle");
+      }, 800);
+
+      return () => {
+        if (avatarMoodTimeoutRef.current) clearTimeout(avatarMoodTimeoutRef.current);
+      };
+    }
+
+    // After grading complete: check for victory (Note 1-2 on Klassenarbeit)
+    if (gameState === "result" && testType === "klassenarbeit" && klassenarbeitResult) {
+      if (klassenarbeitResult.note.value <= 2) {
+        setAvatarMood("victory");
+      } else {
+        setAvatarMood("idle");
+      }
+      return;
+    }
+
+    // Default: idle
+    setAvatarMood("idle");
+  }, [gameState, gradingIndex, questions, answers, testType, klassenarbeitResult]);
 
   // Save card & stats on result
   useEffect(() => {
@@ -515,33 +591,58 @@ export default function MathTestPage() {
         setQuestions(session.questions);
         setAnswers(new Array(session.questions.length).fill(null));
         answerTimesRef.current = new Array(session.questions.length).fill(0);
-        setGameState("countdown");
+        setAvatarMood("idle");
+        setGameState("playing");
       } catch (err) {
         console.error("[Supabase] createTest failed:", err);
         // Fallback to local generation if Supabase fails
         const test = generateTest(selectedGrade, undefined, country?.code);
         setQuestions(test);
         setAnswers(new Array(test.length).fill(null));
-        setGameState("countdown");
+        setAvatarMood("idle");
+        setGameState("playing");
       }
     } else {
       // Generate locally (Klassenarbeit or Practice without Supabase)
-      try {
-        const test = type === "klassenarbeit"
-          ? await generateKlassenarbeitFromBank(selectedGrade)
-          : generateTest(selectedGrade, undefined, country?.code);
+      if (type === "klassenarbeit") {
+        // Use new realistic Klassenarbeit format with grouped tasks
+        try {
+          const realistic = generateRealisticKlassenarbeit(selectedGrade, undefined, country?.code);
+          console.log(`[Realistic Klassenarbeit] Generated ${realistic.tasks.length} grouped tasks`);
+
+          if (realistic.tasks.length === 0) {
+            throw new Error("No tasks generated");
+          }
+
+          setRealisticKlassenarbeit(realistic);
+          setGroupedTaskAnswers({});
+          setAvatarMood("idle");
+          setGameState("playing");
+        } catch (err) {
+          console.error("[Realistic Klassenarbeit] Failed:", err);
+          // Fallback to old format
+          console.log("[Fallback] Using old individual question format...");
+          const test = generateKlassenarbeit(selectedGrade, undefined, country?.code);
+          setQuestions(test);
+          setAnswers(new Array(test.length).fill(null));
+          setRealisticKlassenarbeit(null);
+          setAvatarMood("idle");
+          setGameState("playing");
+        }
+      } else {
+        // Practice test - use existing format
+        const test = generateTest(selectedGrade, undefined, country?.code);
+        console.log(`[Test] Generated ${test.length} questions for ${type}`);
+
+        if (test.length === 0) {
+          throw new Error("No questions generated");
+        }
+
         setQuestions(test);
         setAnswers(new Array(test.length).fill(null));
-        setGameState("countdown");
-      } catch (err) {
-        console.error("[Question Bank] Failed to generate Klassenarbeit:", err);
-        // Fallback to local generation if Question Bank fails
-        const test = type === "klassenarbeit"
-          ? generateKlassenarbeit(selectedGrade, undefined, country?.code)
-          : generateTest(selectedGrade, undefined, country?.code);
-        setQuestions(test);
-        setAnswers(new Array(test.length).fill(null));
-        setGameState("countdown");
+        setRealisticKlassenarbeit(null);
+        setAvatarMood("idle");
+        setGameState("playing");
       }
     }
   };
@@ -559,6 +660,21 @@ export default function MathTestPage() {
       next[questionIndex] = answer;
       return next;
     });
+  };
+
+  const handleGroupedTaskAnswer = (taskIndex: number, subQuestionId: string, answer: string | number, fieldId?: string) => {
+    let key: string;
+    if (fieldId) {
+      // For multi_input and table_fill types with field IDs
+      key = `task_${taskIndex}_${subQuestionId}_${fieldId}`;
+    } else {
+      // For simple types
+      key = `task_${taskIndex}_${subQuestionId}`;
+    }
+    setGroupedTaskAnswers((prev) => ({
+      ...prev,
+      [key]: answer,
+    }));
   };
 
   const handleSubmit = async () => {
@@ -620,7 +736,11 @@ export default function MathTestPage() {
     }
   };
 
-  const allAnswered = answers.every((a) => a !== null);
+  const allAnswered = realisticKlassenarbeit
+    ? realisticKlassenarbeit.tasks.every((task) =>
+        task.subQuestions.every((sq) => `task_${task.taskNumber - 1}_${sq.id}` in groupedTaskAnswers)
+      )
+    : answers.every((a) => a !== null);
 
   const ui = country?.ui;
 
@@ -628,8 +748,9 @@ export default function MathTestPage() {
 
   if (gameState === "country-select") {
     return (
-      <main className="min-h-screen relative overflow-hidden bg-bg">
-        <Scene3D />
+      <>
+        <main className="min-h-screen relative overflow-hidden bg-bg">
+          <Scene3D />
         <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4 py-8 gap-8">
           {/* Back */}
           <motion.div className="absolute top-6 left-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
@@ -703,7 +824,9 @@ export default function MathTestPage() {
             ))}
           </motion.div>
         </div>
-      </main>
+        </main>
+        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
+      </>
     );
   }
 
@@ -711,8 +834,9 @@ export default function MathTestPage() {
 
   if (gameState === "test-type-select" && country && selectedGrade) {
     return (
-      <main className="min-h-screen relative overflow-hidden bg-bg">
-        <Scene3D />
+      <>
+        <main className="min-h-screen relative overflow-hidden bg-bg">
+          <Scene3D />
         <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4 py-8 gap-8">
           {/* Back */}
           <motion.div className="absolute top-6 left-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
@@ -810,7 +934,9 @@ export default function MathTestPage() {
             </motion.button>
           </motion.div>
         </div>
-      </main>
+        </main>
+        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
+      </>
     );
   }
 
@@ -818,8 +944,9 @@ export default function MathTestPage() {
 
   if (gameState === "grade-select" && country) {
     return (
-      <main className="min-h-screen relative overflow-hidden bg-bg">
-        <Scene3D />
+      <>
+        <main className="min-h-screen relative overflow-hidden bg-bg">
+          <Scene3D />
         <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4 py-8 gap-8">
           {/* Back */}
           <motion.div className="absolute top-6 left-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
@@ -916,7 +1043,9 @@ export default function MathTestPage() {
             ))}
           </motion.div>
         </div>
-      </main>
+        </main>
+        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
+      </>
     );
   }
 
@@ -924,21 +1053,24 @@ export default function MathTestPage() {
 
   if (gameState === "countdown") {
     return (
-      <main className="min-h-screen bg-bg flex items-center justify-center">
-        <AnimatePresence mode="wait">
-          <motion.div
-            key={countdown}
-            className="text-8xl font-black text-gold"
-            style={{ textShadow: "0 0 40px rgba(255,215,0,0.5)" }}
-            initial={{ scale: 0.5, opacity: 0 }}
-            animate={{ scale: 1, opacity: 1 }}
-            exit={{ scale: 2, opacity: 0 }}
-            transition={{ duration: 0.4 }}
-          >
-            {countdown > 0 ? countdown : "✏️"}
-          </motion.div>
-        </AnimatePresence>
-      </main>
+      <>
+        <main className="min-h-screen bg-bg flex items-center justify-center">
+          <AnimatePresence mode="wait">
+            <motion.div
+              key={countdown}
+              className="text-8xl font-black text-gold"
+              style={{ textShadow: "0 0 40px rgba(255,215,0,0.5)" }}
+              initial={{ scale: 0.5, opacity: 0 }}
+              animate={{ scale: 1, opacity: 1 }}
+              exit={{ scale: 2, opacity: 0 }}
+              transition={{ duration: 0.4 }}
+            >
+              {countdown > 0 ? countdown : "✏️"}
+            </motion.div>
+          </AnimatePresence>
+        </main>
+        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
+      </>
     );
   }
 
@@ -948,7 +1080,8 @@ export default function MathTestPage() {
     const isGrading = gameState === "grading";
 
     return (
-      <main className="min-h-screen bg-bg">
+      <>
+        <main className="min-h-screen bg-bg">
         <div
           className="min-h-screen"
           style={{
@@ -1010,7 +1143,18 @@ export default function MathTestPage() {
                 )}
               </motion.div>
 
-              {/* Questions */}
+              {/* Realistic Klassenarbeit (Grouped Tasks) */}
+              {realisticKlassenarbeit && (
+                <RealisticKlassenarbeitDisplay
+                  tasks={realisticKlassenarbeit.tasks}
+                  answers={groupedTaskAnswers}
+                  onAnswerChange={handleGroupedTaskAnswer}
+                  isGrading={isGrading}
+                  gradeIndex={gradingIndex}
+                />
+              )}
+
+              {/* Individual Questions (Old Format) */}
               {questions.map((question, qi) => {
                 const isGraded = isGrading && qi < gradingIndex;
                 const isCorrect = answers[qi] === question.correctAnswer;
@@ -1152,7 +1296,9 @@ export default function MathTestPage() {
             )}
           </div>
         </div>
-      </main>
+        </main>
+        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
+      </>
     );
   }
 
@@ -1163,7 +1309,8 @@ export default function MathTestPage() {
     const isKlassenarbeit = testType === "klassenarbeit" && klassenarbeitResult;
 
     return (
-      <main className="min-h-screen bg-bg flex items-center justify-center px-4">
+      <>
+        <main className="min-h-screen bg-bg flex items-center justify-center px-4">
         {isKlassenarbeit && klassenarbeitResult ? (
           // ─── KLASSENARBEIT RESULT ─────────────────────────────
           <motion.div
@@ -1371,7 +1518,9 @@ export default function MathTestPage() {
 
         {/* Milestone popup */}
         <MilestonePopup />
-      </main>
+        </main>
+        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
+      </>
     );
   }
 
@@ -1379,13 +1528,16 @@ export default function MathTestPage() {
 
   if (gameState === "reward" && cardRarity && gradeResult) {
     return (
-      <RewardReveal
-        rarity={cardRarity}
-        game="mathtest"
-        score={gradeResult.score}
-        total={gradeResult.total}
-        onDone={() => router.push("/")}
-      />
+      <>
+        <RewardReveal
+          rarity={cardRarity}
+          game="mathtest"
+          score={gradeResult.score}
+          total={gradeResult.total}
+          onDone={() => router.push("/")}
+        />
+        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
+      </>
     );
   }
 

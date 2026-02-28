@@ -13,7 +13,7 @@ interface AuthModalProps {
   mode?: "register" | "login";
 }
 
-export default function AuthModal({ onClose, onSuccess, mode: initialMode = "register" }: AuthModalProps) {
+export default function AuthModal({ onClose, onSuccess, mode: initialMode = "login" }: AuthModalProps) {
   const [mode, setMode] = useState<"register" | "login">(initialMode);
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -158,12 +158,13 @@ export default function AuthModal({ onClose, onSuccess, mode: initialMode = "reg
           </motion.button>
 
           {/* Toggle mode */}
-          <button
+          <motion.button
             onClick={() => setMode(mode === "register" ? "login" : "register")}
-            className="text-white/30 text-xs hover:text-white/50 transition-colors"
+            className="text-white/50 text-sm hover:text-white transition-colors font-medium py-2 border-t border-white/5 mt-2"
+            whileHover={{ scale: 1.02 }}
           >
-            {mode === "register" ? "Already have an account? Sign in" : "Don't have an account? Register"}
-          </button>
+            {mode === "register" ? "👤 Already have an account? Sign in here" : "✨ Don't have an account? Register here"}
+          </motion.button>
         </motion.div>
       </motion.div>
     </AnimatePresence>

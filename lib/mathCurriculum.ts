@@ -36,6 +36,77 @@ export interface MathQuestion {
   maxPoints?: number;    // Max pont az adott kérdésre
 }
 
+// ─── REALISTIC KLASSENARBEIT FORMAT (Grouped Tasks) ─────────────────────────────
+// New format for realistic German Klassenarbeit with grouped tasks, images, and partial scoring
+
+// ─── EXTENDED LAYOUT TYPES ─────────────────────────────
+export type SubQuestionType =
+  | "multiple-choice"   // Válaszlehetőségek közül választás
+  | "free-text"         // Szabadszöveges válasz
+  | "calculation"       // Szám bevitele
+  | "short_input"       // Rövid szöveges válasz
+  | "multi_input"       // Több input mező (pl. szám, szám)
+  | "schriftlich_layout" // Oszlopos számolás
+  | "table_fill";       // Táblázat kitöltése
+
+export interface SubQuestion {
+  id: string; // "a", "b", "c", etc.
+  text: string;
+  correctAnswer: number | string | Record<string, number | string>; // Single or multiple answers for multi_input/table
+  points: number; // Partial point value (e.g., 1, 2, 0.5)
+  type: SubQuestionType;
+
+  // Multiple choice
+  options?: number[] | string[];
+
+  // Multi-input specific
+  fields?: {
+    id: string;           // Field identifier (e.g., "number1", "number2")
+    label: string;        // Field label
+    type: "number" | "text";
+    placeholder?: string;
+    correctAnswer: number | string; // Individual field answer
+    points: number;       // Partial points for this field
+  }[];
+
+  // Table fill specific
+  rows?: {
+    label: string;        // Row label (e.g., "Sora 1")
+    cells: {
+      label?: string;     // Cell label if needed
+      correctAnswer: number | string;
+      points: number;
+    }[];
+  }[];
+
+  // Schriftlich layout specific (column calculation)
+  layout?: {
+    type: "vertical" | "horizontal";
+    columns?: number;     // For multiplication/division layouts
+  };
+
+  // General
+  workSpaceLines?: number; // Number of lines for writing space
+  hint?: string; // Optional hint for students
+}
+
+export interface GroupedTask {
+  taskNumber: number;
+  title: string;
+  description?: string;
+  imageUrl?: string; // URL to task image/diagram
+  totalPoints: number; // Total points for all sub-questions
+  subQuestions: SubQuestion[];
+  section: string; // Section name (Kopfrechnen, Sachaufgaben, Geometrie, etc.)
+}
+
+export interface RealisticKlassenarbeit {
+  grade: number;
+  period: number;
+  totalPoints: number;
+  tasks: GroupedTask[];
+}
+
 // ─── HELPERS ─────────────────────────────
 
 function randInt(min: number, max: number): number {
@@ -639,8 +710,8 @@ interface SectionConfig {
 }
 
 export function generateKlassenarbeit(grade: number, period?: number, countryCode?: string): MathQuestion[] {
-  // Jelenleg csak Grade 5
-  if (grade !== 5) return [];
+  // Grade 1-8 támogatott
+  if (grade < 1 || grade > 8) return [];
 
   const cc = countryCode || "HU";
   const p = period ?? getPeriod();
@@ -650,39 +721,293 @@ export function generateKlassenarbeit(grade: number, period?: number, countryCod
   const questions: MathQuestion[] = [];
   const usedQuestions = new Set<string>();
 
-  // Szekciók definiálása
-  const sections: Record<string, SectionConfig> = {
-    kopfrechnen: {
-      name: "Kopfrechnen",
-      questionCount: 2,
-      pointsPerQuestion: 1,
-      generators: [G5.orderOfOps, G5.orderOfOpsB, G5.percent10],
-    },
-    schriftlich: {
-      name: "Schriftlich",
-      questionCount: 3,
-      pointsPerQuestion: 2,
-      generators: [G5.largeNumbers, G5.roundHundreds, G5.fractionAdd, G5.fractionSub],
-    },
-    sachaufgaben: {
-      name: "Sachaufgaben",
-      questionCount: 2,
-      pointsPerQuestion: 3,
-      generators: [G5.wordDiscount, G5.wordOps],
-    },
-    geometrie: {
-      name: "Geometrie",
-      questionCount: 2,
-      pointsPerQuestion: 2,
-      generators: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter],
-    },
-    bonus: {
-      name: "Bonus",
-      questionCount: 1,
-      pointsPerQuestion: 1,
-      generators: [G5.percent25, G5.percent50],
-    },
-  };
+  // Szekciók definiálása - Grade függő
+  let sections: Record<string, SectionConfig>;
+
+  switch (grade) {
+    case 1:
+      sections = {
+        addition: {
+          name: "Addition",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G1.add10, G1.add10b, G1.add20],
+        },
+        subtraction: {
+          name: "Subtraction",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G1.sub10, G1.sub10b, G1.sub20],
+        },
+        wordproblems: {
+          name: "Word Problems",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G1.word1, G1.word2, G1.word3],
+        },
+        comparison: {
+          name: "Comparison",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G1.compare, G1.missing10],
+        },
+        bonus: {
+          name: "Bonus",
+          questionCount: 1,
+          pointsPerQuestion: 1,
+          generators: [G1.missing10sub],
+        },
+      };
+      break;
+
+    case 2:
+      sections = {
+        addition: {
+          name: "Addition",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G2.add100, G2.add100b, G2.add100tens],
+        },
+        subtraction: {
+          name: "Subtraction",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G2.sub100, G2.sub100b, G2.sub100tens],
+        },
+        multiplication: {
+          name: "Multiplication",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G2.mul2510, G2.mul2510b, G2.div2510],
+        },
+        wordproblems: {
+          name: "Word Problems",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G2.word1, G2.word2, G2.word3],
+        },
+        bonus: {
+          name: "Bonus",
+          questionCount: 1,
+          pointsPerQuestion: 1,
+          generators: [G2.sequence, G2.missing100],
+        },
+      };
+      break;
+
+    case 3:
+      sections = {
+        arithmetics: {
+          name: "Arithmetics",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G3.add1000, G3.add1000b, G3.sub1000, G3.writtenAdd],
+        },
+        multiplication: {
+          name: "Multiplication",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G3.mul, G3.mulB, G3.div, G3.divB],
+        },
+        wordproblems: {
+          name: "Word Problems",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G3.word1, G3.word2, G3.word3],
+        },
+        geometry: {
+          name: "Geometry",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G3.units],
+        },
+        bonus: {
+          name: "Bonus",
+          questionCount: 1,
+          pointsPerQuestion: 1,
+          generators: [G3.sequence, G3.missingMul],
+        },
+      };
+      break;
+
+    case 4:
+      sections = {
+        kopfrechnen: {
+          name: "Kopfrechnen",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G4.writtenMul, G4.writtenMulB, G4.writtenDiv],
+        },
+        schriftlich: {
+          name: "Schriftlich",
+          questionCount: 3,
+          pointsPerQuestion: 2,
+          generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit, G4.placeValue],
+        },
+        bruchrechnung: {
+          name: "Bruchrechnung",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G4.fractions],
+        },
+        geometrie: {
+          name: "Geometrie",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G4.units],
+        },
+        bonus: {
+          name: "Bonus",
+          questionCount: 1,
+          pointsPerQuestion: 1,
+          generators: [G4.decimals, G4.sequence],
+        },
+      };
+      break;
+
+    case 5:
+      sections = {
+        kopfrechnen: {
+          name: "Kopfrechnen",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G5.orderOfOps, G5.orderOfOpsB, G5.percent10],
+        },
+        schriftlich: {
+          name: "Schriftlich",
+          questionCount: 3,
+          pointsPerQuestion: 2,
+          generators: [G5.largeNumbers, G5.roundHundreds, G5.fractionAdd, G5.fractionSub],
+        },
+        sachaufgaben: {
+          name: "Sachaufgaben",
+          questionCount: 2,
+          pointsPerQuestion: 3,
+          generators: [G5.wordDiscount, G5.wordOps],
+        },
+        geometrie: {
+          name: "Geometrie",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter],
+        },
+        bonus: {
+          name: "Bonus",
+          questionCount: 1,
+          pointsPerQuestion: 1,
+          generators: [G5.percent25, G5.percent50],
+        },
+      };
+      break;
+
+    case 6:
+      sections = {
+        arithmetics: {
+          name: "Arithmetics",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G6.negative, G6.negativeB, G6.negativeC],
+        },
+        fractions: {
+          name: "Fractions",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G6.fractionMul, G6.fractionDiv],
+        },
+        ratios: {
+          name: "Ratios & Speed",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G6.ratio, G6.speed, G6.percentCalc],
+        },
+        geometry: {
+          name: "Geometry",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G6.areaTriangle, G6.areaSquare],
+        },
+        bonus: {
+          name: "Bonus",
+          questionCount: 1,
+          pointsPerQuestion: 1,
+          generators: [G6.percentDiscount, G6.wordTrain],
+        },
+      };
+      break;
+
+    case 7:
+      sections = {
+        algebra: {
+          name: "Algebra",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G7.power2, G7.power3, G7.algebraSub],
+        },
+        equations: {
+          name: "Equations",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G7.equation, G7.equationB],
+        },
+        geometry: {
+          name: "Geometry",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G7.triangleAngle, G7.isosceles, G7.pythag34],
+        },
+        pythagoras: {
+          name: "Pythagoras",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G7.pythag68, G7.pythagLeg13, G7.pythagLeg10],
+        },
+        bonus: {
+          name: "Bonus",
+          questionCount: 1,
+          pointsPerQuestion: 1,
+          generators: [G7.wordThink, G7.wordSquare],
+        },
+      };
+      break;
+
+    case 8:
+      sections = {
+        algebra: {
+          name: "Algebra",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G8.sqrt, G8.sqrtExpr],
+        },
+        equations: {
+          name: "Equations",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G8.eqTwoSide, G8.eqSimple],
+        },
+        functions: {
+          name: "Functions",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G8.funcValue, G8.funcIntercept],
+        },
+        probability: {
+          name: "Probability",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G8.probBall, G8.probDice, G8.probCoin],
+        },
+        bonus: {
+          name: "Bonus",
+          questionCount: 1,
+          pointsPerQuestion: 1,
+          generators: [G8.complexPow, G8.complexExpr],
+        },
+      };
+      break;
+
+    default:
+      return [];
+  }
 
   function addUnique(gen: Generator, section: string, points: number, maxAttempts = 15): boolean {
     for (let attempt = 0; attempt < maxAttempts; attempt++) {
@@ -722,6 +1047,15 @@ export async function generateKlassenarbeitFromBank(
   grade: number,
 ): Promise<MathQuestion[]> {
   try {
+    // Check if user is authenticated
+    const { getUser } = await import("./auth");
+    const user = await getUser();
+
+    if (!user) {
+      console.log("[Klassenarbeit] Not authenticated, using local generators");
+      return generateKlassenarbeit(grade);
+    }
+
     // Import dinamikus, hogy elkerüljük a circular dependency-t
     const { fetchQuestionsBySections } = await import("./assessment/questionBank");
 
@@ -751,6 +1085,258 @@ export async function generateKlassenarbeitFromBank(
     // Fallback: lokális generátor-alapú verzió
     return generateKlassenarbeit(grade);
   }
+}
+
+// ─── REALISTIC KLASSENARBEIT GENERATION (Grouped Tasks) ─────────────────────────────
+// Generates grouped tasks with images, sub-questions (a, b, c...), and partial scoring
+
+function createGroupedTask(
+  taskNumber: number,
+  title: string,
+  description: string | undefined,
+  imageUrl: string | undefined,
+  subQuestions: SubQuestion[],
+  section: string,
+): GroupedTask {
+  const totalPoints = subQuestions.reduce((sum, sq) => sum + sq.points, 0);
+  return {
+    taskNumber,
+    title,
+    description,
+    imageUrl,
+    totalPoints,
+    subQuestions,
+    section,
+  };
+}
+
+export function generateRealisticKlassenarbeit(grade: number, period?: number, countryCode?: string): RealisticKlassenarbeit {
+  const p = period ?? getPeriod();
+  const cc = countryCode || "HU";
+  const tasks: GroupedTask[] = [];
+  let taskNumber = 1;
+
+  // Language helper - use translations
+  const isDE = cc === "DE";
+  const t = (de: string, hu: string) => isDE ? de : hu;
+
+  // Grade-specific task generators
+  switch (grade) {
+    case 1:
+      // Simple addition and subtraction tasks
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          t("Addition bis 10", "Összeadás 10-ig"),
+          t("Berechne folgende Additionen:", "Számítsd ki a következő összeadásokat:"),
+          undefined,
+          [
+            { id: "a", text: "3 + 2 = ?", correctAnswer: 5, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "b", text: "4 + 5 = ?", correctAnswer: 9, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "c", text: "2 + 6 = ?", correctAnswer: 8, points: 1, type: "free-text", workSpaceLines: 2 },
+          ],
+          "Kopfrechnen",
+        ),
+      );
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          t("Subtraktion bis 10", "Kivonás 10-ig"),
+          t("Berechne folgende Subtraktionen:", "Számítsd ki a következő kivonásokat:"),
+          undefined,
+          [
+            { id: "a", text: "7 - 2 = ?", correctAnswer: 5, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "b", text: "9 - 4 = ?", correctAnswer: 5, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "c", text: "6 - 1 = ?", correctAnswer: 5, points: 1, type: "free-text", workSpaceLines: 2 },
+          ],
+          "Kopfrechnen",
+        ),
+      );
+      break;
+
+    case 2:
+      // Addition/subtraction up to 100, multiplication
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          t("Schriftliche Addition", "Írásbeli összeadás"),
+          t("Löse diese Additionsaufgaben:", "Oldd meg ezeket az összeadás feladatokat:"),
+          undefined,
+          [
+            { id: "a", text: "25 + 13 = ?", correctAnswer: 38, points: 1, type: "free-text", workSpaceLines: 3 },
+            { id: "b", text: "34 + 22 = ?", correctAnswer: 56, points: 1, type: "free-text", workSpaceLines: 3 },
+          ],
+          "Schriftlich",
+        ),
+      );
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          t("Einmaleins", "Szorzótábla"),
+          t("Ergänze die Multiplikationen:", "Egészítsd ki a szorzásokat:"),
+          undefined,
+          [
+            { id: "a", text: "2 × 5 = ?", correctAnswer: 10, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "b", text: "5 × 3 = ?", correctAnswer: 15, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "c", text: "10 × 4 = ?", correctAnswer: 40, points: 1, type: "free-text", workSpaceLines: 2 },
+          ],
+          "Kopfrechnen",
+        ),
+      );
+      break;
+
+    case 3:
+      // Larger numbers, written operations
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          t("Schriftliche Addition (bis 1000)", "Írásbeli összeadás (1000-ig)"),
+          t("Addiere diese dreistelligen Zahlen:", "Add össze ezeket a háromjegyű számokat:"),
+          undefined,
+          [
+            { id: "a", text: "234 + 156 = ?", correctAnswer: 390, points: 2, type: "free-text", workSpaceLines: 4 },
+            { id: "b", text: "345 + 287 = ?", correctAnswer: 632, points: 2, type: "free-text", workSpaceLines: 4 },
+          ],
+          "Schriftlich",
+        ),
+      );
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          t("Multiplikation und Division", "Szorzás és osztás"),
+          t("Löse diese Multiplikations- und Divisionsaufgaben:", "Oldd meg ezeket a szorzás- és osztásfeladatokat:"),
+          undefined,
+          [
+            { id: "a", text: "6 × 7 = ?", correctAnswer: 42, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "b", text: "48 ÷ 6 = ?", correctAnswer: 8, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "c", text: "7 × 8 = ?", correctAnswer: 56, points: 1, type: "free-text", workSpaceLines: 2 },
+          ],
+          "Kopfrechnen",
+        ),
+      );
+      break;
+
+    case 4:
+      // Place value, fractions, geometry
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          t("Stellenwert", "Helyiérték"),
+          t("Schreibe die Ziffer an der angegebenen Stelle:", "Írd le az adott helyen lévő számjegyet:"),
+          undefined,
+          [
+            { id: "a", text: t("In 4.372, welche Ziffer steht auf der Hunderterstelle?", "A 4372-ben melyik szám áll a százas helyen?"), correctAnswer: 3, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "b", text: t("In 5.681, welche Ziffer steht auf der Tausenderstelle?", "Az 5681-ben melyik szám áll az ezres helyen?"), correctAnswer: 5, points: 1, type: "free-text", workSpaceLines: 2 },
+          ],
+          "Schriftlich",
+        ),
+      );
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          t("Bruchrechnung", "Törtszámolás"),
+          t("Arbeite mit Brüchen:", "Dolgozz törtekkel:"),
+          undefined,
+          [
+            { id: "a", text: t("Wie viele Viertel machen ein Ganzes?", "Hány negyed tesz ki egy egészet?"), correctAnswer: 4, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "b", text: t("Wie viele Hälften sind in 3 Ganzen?", "Hány fél van 3 egészben?"), correctAnswer: 6, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "c", text: t("Welcher Bruch ist schraffiert? (3/4 von 4)", "Melyik tört van besatírozva? (3/4 a 4-ből)"), correctAnswer: "3/4", points: 1, type: "free-text", workSpaceLines: 2 },
+          ],
+          "Bruchrechnung",
+        ),
+      );
+      break;
+
+    case 5:
+      // More complex operations, word problems
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          t("Rechenreihenfolge", "Műveleti sorrend"),
+          t("Berechne mit der richtigen Rechenreihenfolge:", "Számítsd ki a helyes műveleti sorrenddel:"),
+          undefined,
+          [
+            { id: "a", text: "2 + 3 × 4 = ?", correctAnswer: 14, points: 1, type: "free-text", workSpaceLines: 3 },
+            { id: "b", text: "(5 + 3) × 2 = ?", correctAnswer: 16, points: 1, type: "free-text", workSpaceLines: 3 },
+          ],
+          "Kopfrechnen",
+        ),
+      );
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          t("Sachaufgabe: Einkaufen", "Szöveges feladat: Bevásárlás"),
+          t("Ein Buch kostet 12€ und ein Stift kostet 3€. Maria kauft 2 Bücher und 3 Stifte.", "Egy könyv 12€-ba kerül, egy toll 3€-ba. Márta vásárol 2 könyvet és 3 tollat."),
+          undefined,
+          [
+            { id: "a", text: t("Wie viel kosten 1 Buch und 1 Stift zusammen?", "Mennyibe kerül 1 könyv és 1 toll együtt?"), correctAnswer: 15, points: 1, type: "free-text", workSpaceLines: 3 },
+            { id: "b", text: t("Wie viel gibt Maria insgesamt aus?", "Márta összesen mennyit költekezik?"), correctAnswer: 33, points: 2, type: "free-text", workSpaceLines: 4 },
+          ],
+          "Sachaufgaben",
+        ),
+      );
+      break;
+
+    case 6:
+      // Negative numbers, fractions, ratios
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          t("Negative Zahlen", "Negatív számok"),
+          t("Arbeite mit negativen Zahlen und Ganzzahlen:", "Dolgozz negatív számokkal és egész számokkal:"),
+          undefined,
+          [
+            { id: "a", text: "5 + (-3) = ?", correctAnswer: 2, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "b", text: "(-4) - (-2) = ?", correctAnswer: -2, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "c", text: t("Was ist das Gegenteil von 7?", "Mi a 7 ellentéte?"), correctAnswer: -7, points: 1, type: "free-text", workSpaceLines: 2 },
+          ],
+          "Arithmetics",
+        ),
+      );
+      break;
+
+    case 7:
+      // Algebra, equations, geometry
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          t("Lineare Gleichungen", "Lineáris egyenletek"),
+          t("Löse für x auf:", "Oldd meg az x-et:"),
+          undefined,
+          [
+            { id: "a", text: t("x + 5 = 12. Was ist x?", "x + 5 = 12. Mi az x?"), correctAnswer: 7, points: 2, type: "free-text", workSpaceLines: 3 },
+            { id: "b", text: t("3x = 15. Was ist x?", "3x = 15. Mi az x?"), correctAnswer: 5, points: 2, type: "free-text", workSpaceLines: 3 },
+            { id: "c", text: t("2x + 3 = 11. Was ist x?", "2x + 3 = 11. Mi az x?"), correctAnswer: 4, points: 2, type: "free-text", workSpaceLines: 3 },
+          ],
+          "Algebra",
+        ),
+      );
+      break;
+
+    case 8:
+      // Functions, probability, complex equations
+      tasks.push(
+        createGroupedTask(
+          taskNumber++,
+          t("Quadratische Gleichungen", "Másodfokú egyenletek"),
+          t("Löse die quadratische Gleichung:", "Oldd meg a másodfokú egyenletet:"),
+          undefined,
+          [
+            { id: "a", text: t("x² = 25. Welche Lösungen gibt es?", "x² = 25. Mely megoldások vannak?"), correctAnswer: "±5", points: 2, type: "free-text", workSpaceLines: 3 },
+            { id: "b", text: t("x² - 4 = 0. Welche Lösungen gibt es?", "x² - 4 = 0. Mely megoldások vannak?"), correctAnswer: "±2", points: 2, type: "free-text", workSpaceLines: 3 },
+            { id: "c", text: t("Was ist √36?", "Mi az √36?"), correctAnswer: 6, points: 1, type: "free-text", workSpaceLines: 2 },
+          ],
+          "Algebra",
+        ),
+      );
+      break;
+
+    default:
+      return { grade, period: p, totalPoints: 0, tasks: [] };
+  }
+
+  const totalPoints = tasks.reduce((sum, task) => sum + task.totalPoints, 0);
+  return { grade, period: p, totalPoints, tasks };
 }
 
 // ─── TEST GENERATION WITH METADATA (for Supabase integration) ─────
@@ -932,6 +1518,60 @@ export function calculateKlassenarbeitResult(
       section.correct += 1;
       section.earnedPoints += points;
     }
+  });
+
+  const sectionResults = Array.from(sectionMap.values());
+  const totalPoints = sectionResults.reduce((acc, s) => acc + s.earnedPoints, 0);
+  const maxTotalPoints = sectionResults.reduce((acc, s) => acc + s.maxPoints, 0);
+  const percentage = maxTotalPoints > 0 ? Math.round((totalPoints / maxTotalPoints) * 100) : 0;
+  const note = calculateNote(percentage);
+  const starsEarned = getStarsForNote(note);
+
+  return {
+    sectionResults,
+    totalPoints,
+    maxTotalPoints,
+    percentage,
+    note,
+    starsEarned,
+  };
+}
+
+export function calculateRealisticKlassenarbeitResult(
+  tasks: GroupedTask[],
+  answers: Record<string, string | number>
+): KlassenarbeitResult {
+  const sectionMap = new Map<string, SectionResult>();
+
+  // Initialize section results from tasks
+  for (const task of tasks) {
+    if (!sectionMap.has(task.section)) {
+      sectionMap.set(task.section, {
+        name: task.section,
+        correct: 0,
+        total: 0,
+        maxPoints: 0,
+        earnedPoints: 0,
+      });
+    }
+  }
+
+  // Calculate scores from sub-questions
+  tasks.forEach((task) => {
+    const section = sectionMap.get(task.section)!;
+
+    task.subQuestions.forEach((subQuestion) => {
+      const answerKey = `task_${task.taskNumber - 1}_${subQuestion.id}`;
+      const userAnswer = answers[answerKey];
+      const isCorrect = String(userAnswer).trim().toLowerCase() === String(subQuestion.correctAnswer).trim().toLowerCase();
+
+      section.total += 1;
+      section.maxPoints += subQuestion.points;
+      if (isCorrect) {
+        section.correct += 1;
+        section.earnedPoints += subQuestion.points;
+      }
+    });
   });
 
   const sectionResults = Array.from(sectionMap.values());
