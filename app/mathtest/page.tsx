@@ -17,6 +17,7 @@ import MilestonePopup from "@/components/MilestonePopup";
 import {
   generateTest,
   generateKlassenarbeit,
+  generateKlassenarbeitFromBank,
   calculateGradeResult,
   calculateKlassenarbeitResult,
   getMathGrade,
@@ -455,12 +456,23 @@ export default function MathTestPage() {
       }
     } else {
       // Generate locally (Klassenarbeit or Practice without Supabase)
-      const test = type === "klassenarbeit"
-        ? generateKlassenarbeit(selectedGrade, undefined, country?.code)
-        : generateTest(selectedGrade, undefined, country?.code);
-      setQuestions(test);
-      setAnswers(new Array(test.length).fill(null));
-      setGameState("countdown");
+      try {
+        const test = type === "klassenarbeit"
+          ? await generateKlassenarbeitFromBank(selectedGrade)
+          : generateTest(selectedGrade, undefined, country?.code);
+        setQuestions(test);
+        setAnswers(new Array(test.length).fill(null));
+        setGameState("countdown");
+      } catch (err) {
+        console.error("[Question Bank] Failed to generate Klassenarbeit:", err);
+        // Fallback to local generation if Question Bank fails
+        const test = type === "klassenarbeit"
+          ? generateKlassenarbeit(selectedGrade, undefined, country?.code)
+          : generateTest(selectedGrade, undefined, country?.code);
+        setQuestions(test);
+        setAnswers(new Array(test.length).fill(null));
+        setGameState("countdown");
+      }
     }
   };
 

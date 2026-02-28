@@ -714,6 +714,45 @@ export function generateKlassenarbeit(grade: number, period?: number, countryCod
   return shuffleArray(questions);
 }
 
+// ─── KLASSENARBEIT FROM QUESTION BANK ─────────────────────────────
+// Asynchrón verzió, amely Supabase-ből tölti a kérdéseket
+// Fallback: Ha nincs adat a Question Bank-ben, a lokális generátor-alapú verzióra esik vissza
+
+export async function generateKlassenarbeitFromBank(
+  grade: number,
+): Promise<MathQuestion[]> {
+  try {
+    // Import dinamikus, hogy elkerüljük a circular dependency-t
+    const { fetchQuestionsBySections } = await import("./assessment/questionBank");
+
+    // Szekciók és mennyiségek
+    const sections: Record<string, number> = {
+      Kopfrechnen: 2,
+      Schriftlich: 3,
+      Sachaufgaben: 2,
+      Geometrie: 2,
+      Bonus: 1,
+    };
+
+    const questions = await fetchQuestionsBySections(grade, sections);
+
+    // Ha nem sikerült betölteni (nincs adat), fallback
+    if (questions.length === 0) {
+      console.warn(
+        "[Klassenarbeit] No questions in Question Bank, falling back to generators",
+      );
+      return generateKlassenarbeit(grade);
+    }
+
+    // Shuffle az eredményt a véletlenszerűség érdekében
+    return shuffleArray(questions);
+  } catch (error) {
+    console.error("[Klassenarbeit] Failed to fetch from Question Bank:", error);
+    // Fallback: lokális generátor-alapú verzió
+    return generateKlassenarbeit(grade);
+  }
+}
+
 // ─── TEST GENERATION WITH METADATA (for Supabase integration) ─────
 
 export interface TestWithMeta {
