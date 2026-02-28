@@ -73,7 +73,7 @@ export default function RealisticKlassenarbeitDisplay({
             points={subQuestion.points}
             value={userAnswer || ""}
             onChange={(value) => onAnswerChange(taskIndex, subQuestion.id, value)}
-            correctAnswer={subQuestion.correctAnswer}
+            correctAnswer={typeof subQuestion.correctAnswer === "object" ? undefined : subQuestion.correctAnswer}
             isGrading={isGrading && isGraded}
             disabled={isGrading}
           />
@@ -117,7 +117,8 @@ export default function RealisticKlassenarbeitDisplay({
           />
         );
 
-      case "schriftlich_layout":
+      case "schriftlich_layout": {
+        const correctNum = typeof subQuestion.correctAnswer === "number" ? subQuestion.correctAnswer : undefined;
         return (
           <SchriftlichLayout
             key={subQuestion.id}
@@ -128,12 +129,13 @@ export default function RealisticKlassenarbeitDisplay({
             numbers={[]} // TODO: Extract from text or add to SubQuestion
             value={userAnswer || ""}
             onChange={(value) => onAnswerChange(taskIndex, subQuestion.id, value)}
-            correctAnswer={typeof subQuestion.correctAnswer === "number" ? subQuestion.correctAnswer : undefined}
+            correctAnswer={correctNum}
             isGrading={isGrading && isGraded}
             disabled={isGrading}
             workSpaceLines={subQuestion.workSpaceLines}
           />
         );
+      }
 
       // Default: multiple-choice and free-text (original implementation)
       default:
@@ -219,7 +221,7 @@ export default function RealisticKlassenarbeitDisplay({
             )}
 
             {/* Grading indicator */}
-            {isGrading && isGraded && (
+            {isGrading && isGraded && typeof subQuestion.correctAnswer !== "object" && (
               <div className="mt-3 text-xs font-bold">
                 {userAnswer === subQuestion.correctAnswer ? (
                   <span className="text-green-600">✓ Helyes!</span>
