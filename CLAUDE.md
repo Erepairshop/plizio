@@ -9,26 +9,24 @@ A repo tisztán van szervezve:
 
 ## SSH Pull + Deploy parancs minden feladat végén
 
-**FONTOS:** Minden feladat befejezésekor küldj a felhasználónak egy copy-paste kész parancsot, amivel:
-1. Lehúzza a friss fájlokat gitből
-2. Deployolja a `public_html/` mappába
+**FONTOS:** Minden feladat befejezésekor küldj a felhasználónak 2 copy-paste kész parancsot.
+A user a `~/public_html` mappában van SSH-n, ami egyben a git repo is (`.git` ott van).
 
-Formátum (a user MINDIG a ~/public_html mappában van SSH-n):
+**1. parancs - Git pull (out mappa lehúzása):**
 ```bash
-# 1. Fájlok lehúzása gitből (public_html-ből futtatva):
 git fetch origin <branch-neve> && git checkout FETCH_HEAD -- out/
+```
 
-# 2. Deploy (public_html mappában vagyunk):
+**2. parancs - Deploy (out tartalmának kimásolása):**
+```bash
 rm -rf _next && cp -r out/* . && rm -rf out
 ```
 
 Szabályok:
 - A branch neve mindig az aktuális fejlesztési branch legyen
-- Az `out/` mappát MINDIG egészben húzd le (ne fájlonként)
-- A deploy parancs MINDIG feltételezi, hogy a user a `~/public_html` mappában van
-- NE használj `cd ~/public_html`-t - a user már ott van!
-- Ha forráskód fájlok is változtak, azokat is sorold fel külön
-- Minden push után küldd el a teljes pull+deploy parancsot
+- MINDIG ezt a 2 parancsot küldd, semmi mást
+- NE használj `cd`-t - a user már a `public_html`-ben van
+- Minden push után küldd el mindkét parancsot
 
 ## Out mappa szinkron (public_html deploy)
 
