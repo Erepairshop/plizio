@@ -570,14 +570,16 @@ export default function MathTestPage() {
         setQuestions(session.questions);
         setAnswers(new Array(session.questions.length).fill(null));
         answerTimesRef.current = new Array(session.questions.length).fill(0);
-        setGameState("countdown");
+        setAvatarMood("idle");
+        setGameState("playing");
       } catch (err) {
         console.error("[Supabase] createTest failed:", err);
         // Fallback to local generation if Supabase fails
         const test = generateTest(selectedGrade, undefined, country?.code);
         setQuestions(test);
         setAnswers(new Array(test.length).fill(null));
-        setGameState("countdown");
+        setAvatarMood("idle");
+        setGameState("playing");
       }
     } else {
       // Generate locally (Klassenarbeit or Practice without Supabase)
@@ -587,7 +589,8 @@ export default function MathTestPage() {
           : generateTest(selectedGrade, undefined, country?.code);
         setQuestions(test);
         setAnswers(new Array(test.length).fill(null));
-        setGameState("countdown");
+        setAvatarMood("idle");
+        setGameState("playing");
       } catch (err) {
         console.error("[Question Bank] Failed to generate Klassenarbeit:", err);
         // Fallback to local generation if Question Bank fails
@@ -596,7 +599,8 @@ export default function MathTestPage() {
           : generateTest(selectedGrade, undefined, country?.code);
         setQuestions(test);
         setAnswers(new Array(test.length).fill(null));
-        setGameState("countdown");
+        setAvatarMood("idle");
+        setGameState("playing");
       }
     }
   };
