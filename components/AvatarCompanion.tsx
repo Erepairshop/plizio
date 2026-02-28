@@ -11,323 +11,406 @@ interface AvatarCompanionProps {
   fixed?: boolean;
 }
 
-// Randomized blink interval (4–6 seconds)
-function nextBlinkInterval() {
-  return 4 + Math.random() * 2;
+// Random blink interval between 3–7 seconds
+function nextBlink() {
+  return 3 + Math.random() * 4;
 }
 
 function Character({ mood, skinColor = '#e8c9a0', outfitColor = '#6b8fad' }: AvatarCompanionProps) {
   const groupRef = useRef<THREE.Group>(null);
   const headRef = useRef<THREE.Group>(null);
   const bodyRef = useRef<THREE.Mesh>(null);
-  const leftEyeRef = useRef<THREE.Mesh>(null);
-  const rightEyeRef = useRef<THREE.Mesh>(null);
-  const leftPupilRef = useRef<THREE.Mesh>(null);
-  const rightPupilRef = useRef<THREE.Mesh>(null);
+  const leftLidRef = useRef<THREE.Mesh>(null);
+  const rightLidRef = useRef<THREE.Mesh>(null);
+  const leftIrisRef = useRef<THREE.Mesh>(null);
+  const rightIrisRef = useRef<THREE.Mesh>(null);
   const mouthRef = useRef<THREE.Mesh>(null);
   const leftArmRef = useRef<THREE.Group>(null);
   const rightArmRef = useRef<THREE.Group>(null);
+  const leftShoulderRef = useRef<THREE.Mesh>(null);
+  const rightShoulderRef = useRef<THREE.Mesh>(null);
   const leftLegRef = useRef<THREE.Mesh>(null);
   const rightLegRef = useRef<THREE.Mesh>(null);
   const moodRef = useRef(mood);
-  const animTimeRef = useRef(0);
-  const blinkTimeRef = useRef(0);
-  const blinkIntervalRef = useRef(nextBlinkInterval());
+  const tRef = useRef(0);
+  const blinkTimer = useRef(0);
+  const blinkNext = useRef(nextBlink());
+  const blinkPhase = useRef(-1); // -1 = not blinking, 0..1 = blink progress
 
   useEffect(() => {
     moodRef.current = mood;
-    animTimeRef.current = 0;
+    tRef.current = 0;
   }, [mood]);
 
-  useFrame((state, delta) => {
+  useFrame((_state, delta) => {
     if (!groupRef.current || !headRef.current || !bodyRef.current) return;
 
-    animTimeRef.current += delta;
-    blinkTimeRef.current += delta;
-    const t = animTimeRef.current;
-    const currentMood = moodRef.current;
+    tRef.current += delta;
+    blinkTimer.current += delta;
+    const t = tRef.current;
+    const m = moodRef.current;
+    const lerp = THREE.MathUtils.lerp;
 
-    // ── Smooth lerp to neutral ────────────────────────────
-    groupRef.current.position.y = THREE.MathUtils.lerp(groupRef.current.position.y, 0, 0.12);
-    groupRef.current.rotation.z = THREE.MathUtils.lerp(groupRef.current.rotation.z, 0, 0.12);
-    groupRef.current.rotation.y = THREE.MathUtils.lerp(groupRef.current.rotation.y, 0, 0.12);
-    headRef.current.rotation.x = THREE.MathUtils.lerp(headRef.current.rotation.x, 0, 0.12);
-    headRef.current.rotation.z = THREE.MathUtils.lerp(headRef.current.rotation.z, 0, 0.12);
+    // ════════════════════════════════════════════════════════
+    // BASE: Smooth lerp everything toward neutral
+    // ════════════════════════════════════════════════════════
+    groupRef.current.position.y = lerp(groupRef.current.position.y, 0, 0.1);
+    groupRef.current.rotation.y = lerp(groupRef.current.rotation.y, 0, 0.1);
+    groupRef.current.rotation.z = lerp(groupRef.current.rotation.z, 0, 0.1);
+    headRef.current.rotation.x = lerp(headRef.current.rotation.x, 0, 0.1);
+    headRef.current.rotation.y = lerp(headRef.current.rotation.y, 0, 0.1);
+    headRef.current.rotation.z = lerp(headRef.current.rotation.z, 0, 0.1);
+    bodyRef.current.scale.x = lerp(bodyRef.current.scale.x, 1, 0.12);
+    bodyRef.current.scale.y = lerp(bodyRef.current.scale.y, 1, 0.12);
+    bodyRef.current.position.y = lerp(bodyRef.current.position.y, 0, 0.1);
 
-    // Reset body scale
-    bodyRef.current.scale.x = THREE.MathUtils.lerp(bodyRef.current.scale.x, 1, 0.15);
-    bodyRef.current.scale.y = THREE.MathUtils.lerp(bodyRef.current.scale.y, 1, 0.15);
-
-    // Arms lerp to resting angle (slight outward)
+    // Arms rest at slight outward + slight elbow bend (forward rotation)
     if (leftArmRef.current) {
-      leftArmRef.current.rotation.z = THREE.MathUtils.lerp(leftArmRef.current.rotation.z, -0.12, 0.12);
+      leftArmRef.current.rotation.z = lerp(leftArmRef.current.rotation.z, -0.15, 0.1);
+      leftArmRef.current.rotation.x = lerp(leftArmRef.current.rotation.x, 0.12, 0.1);
     }
     if (rightArmRef.current) {
-      rightArmRef.current.rotation.z = THREE.MathUtils.lerp(rightArmRef.current.rotation.z, 0.12, 0.12);
+      rightArmRef.current.rotation.z = lerp(rightArmRef.current.rotation.z, 0.15, 0.1);
+      rightArmRef.current.rotation.x = lerp(rightArmRef.current.rotation.x, 0.12, 0.1);
     }
 
-    // ── Randomized blink (4–6 sec) ───────────────────────
-    if (leftEyeRef.current && rightEyeRef.current) {
-      const sinceBlink = blinkTimeRef.current;
-      let blinkScale = 1;
-      if (sinceBlink >= blinkIntervalRef.current) {
-        const blinkPhase = sinceBlink - blinkIntervalRef.current;
-        if (blinkPhase < 0.15) {
-          // Close
-          blinkScale = 1 - Math.sin((blinkPhase / 0.15) * Math.PI) * 0.95;
-        } else {
-          // Reset, schedule next blink
-          blinkTimeRef.current = 0;
-          blinkIntervalRef.current = nextBlinkInterval();
-        }
+    // ════════════════════════════════════════════════════════
+    // BLINK: Real eyelid geometry (scale Y of lid mesh)
+    // 3–7 sec random interval, 0.12s close + 0.12s open
+    // ════════════════════════════════════════════════════════
+    if (blinkPhase.current < 0) {
+      // Not blinking – check timer
+      if (blinkTimer.current >= blinkNext.current) {
+        blinkPhase.current = 0;
+        blinkTimer.current = 0;
       }
-      leftEyeRef.current.scale.y = blinkScale;
-      rightEyeRef.current.scale.y = blinkScale;
+    }
+    if (blinkPhase.current >= 0) {
+      blinkPhase.current += delta / 0.12; // 0.12s half-cycle
+      if (blinkPhase.current > 2) {
+        // Blink done
+        blinkPhase.current = -1;
+        blinkTimer.current = 0;
+        blinkNext.current = nextBlink();
+      }
+    }
+    const lidClose = blinkPhase.current >= 0
+      ? (blinkPhase.current <= 1
+        ? blinkPhase.current           // closing 0→1
+        : 2 - blinkPhase.current)      // opening 1→0
+      : 0;
+
+    if (leftLidRef.current) leftLidRef.current.scale.y = 0.01 + lidClose * 1.2;
+    if (rightLidRef.current) rightLidRef.current.scale.y = 0.01 + lidClose * 1.2;
+
+    // ════════════════════════════════════════════════════════
+    // EYES: Slow gaze drift toward screen center
+    // ════════════════════════════════════════════════════════
+    if (leftIrisRef.current && rightIrisRef.current) {
+      // Very slow, smooth drift – not cursor tracking
+      const gazeX = Math.sin(t * 0.4) * 0.008;
+      const gazeY = Math.sin(t * 0.3 + 0.7) * 0.005;
+      leftIrisRef.current.position.x = -0.08 + gazeX;
+      leftIrisRef.current.position.y = 0.04 + gazeY;
+      rightIrisRef.current.position.x = 0.08 + gazeX;
+      rightIrisRef.current.position.y = 0.04 + gazeY;
     }
 
-    // ── Subtle pupil drift (idle life) ───────────────────
-    if (leftPupilRef.current && rightPupilRef.current) {
-      const px = Math.sin(t * 0.7) * 0.006;
-      const py = Math.cos(t * 0.5) * 0.004;
-      leftPupilRef.current.position.x = -0.08 + px;
-      leftPupilRef.current.position.y = 0.55 + py;
-      rightPupilRef.current.position.x = 0.08 + px;
-      rightPupilRef.current.position.y = 0.55 + py;
-    }
-
-    // ── Mouth default reset ──────────────────────────────
+    // ════════════════════════════════════════════════════════
+    // MOUTH: Default reset
+    // ════════════════════════════════════════════════════════
     if (mouthRef.current) {
-      mouthRef.current.scale.x = THREE.MathUtils.lerp(mouthRef.current.scale.x, 1, 0.15);
-      mouthRef.current.scale.y = THREE.MathUtils.lerp(mouthRef.current.scale.y, 1, 0.15);
-      mouthRef.current.position.y = THREE.MathUtils.lerp(mouthRef.current.position.y, 0.42, 0.15);
+      mouthRef.current.scale.x = lerp(mouthRef.current.scale.x, 1, 0.12);
+      mouthRef.current.scale.y = lerp(mouthRef.current.scale.y, 1, 0.12);
+      mouthRef.current.position.y = lerp(mouthRef.current.position.y, -0.1, 0.12);
     }
 
-    // ── Mood-specific animations ─────────────────────────
-    switch (currentMood) {
+    // ════════════════════════════════════════════════════════
+    // MOOD ANIMATIONS (layered, multi-frequency)
+    // ════════════════════════════════════════════════════════
+    switch (m) {
       case 'idle': {
-        // Smooth breathing
-        const breath = Math.sin(t * 1.4) * 0.025;
-        bodyRef.current.position.y = breath;
+        // ── Layer 1: Breathing (torso + head synced) ──────
+        const breathA = Math.sin(t * 1.3) * 0.02;
+        const breathB = Math.sin(t * 1.3 + 0.15) * 0.015; // head slightly delayed
+        bodyRef.current.position.y = breathA;
+        headRef.current.position.y = breathB * 0.5; // relative to head group
 
-        // Subtle torso tilt oscillation (2-3 degrees)
-        groupRef.current.rotation.z = Math.sin(t * 0.8) * 0.035;
+        // ── Layer 2: Torso tilt (slow sway ±2°) ──────────
+        groupRef.current.rotation.z = Math.sin(t * 0.65) * 0.035;
 
-        // Subtle arm swing
+        // ── Layer 3: Head micro-sway (offset from torso) ─
+        headRef.current.rotation.z = Math.sin(t * 0.55 + 1.2) * 0.025;
+        headRef.current.rotation.y = Math.sin(t * 0.4 + 0.5) * 0.02;
+
+        // ── Layer 4: Arm swing (offset timing each arm) ──
         if (leftArmRef.current && rightArmRef.current) {
-          leftArmRef.current.rotation.z = -0.12 + Math.sin(t * 0.9) * 0.04;
-          rightArmRef.current.rotation.z = 0.12 - Math.sin(t * 0.9) * 0.04;
+          leftArmRef.current.rotation.z = -0.15 + Math.sin(t * 0.75) * 0.04;
+          rightArmRef.current.rotation.z = 0.15 - Math.sin(t * 0.75 + 0.8) * 0.04;
         }
 
-        // Leg weight transfer
+        // ── Layer 5: Shoulder breathing ──────────────────
+        if (leftShoulderRef.current && rightShoulderRef.current) {
+          const sBreath = Math.sin(t * 1.3) * 0.006;
+          leftShoulderRef.current.position.y = 0.2 + sBreath;
+          rightShoulderRef.current.position.y = 0.2 + sBreath;
+        }
+
+        // ── Layer 6: Leg weight shift ────────────────────
         if (leftLegRef.current && rightLegRef.current) {
-          const shift = Math.sin(t * 0.6) * 0.008;
-          leftLegRef.current.position.y = -0.45 + shift;
-          rightLegRef.current.position.y = -0.45 - shift;
+          const wShift = Math.sin(t * 0.5) * 0.007;
+          leftLegRef.current.position.y = -0.44 + wShift;
+          rightLegRef.current.position.y = -0.44 - wShift;
         }
 
-        // Micro mouth movement + small smile curve
+        // ── Mouth: small smile + micro movement ─────────
         if (mouthRef.current) {
-          mouthRef.current.scale.x = 1.1 + Math.sin(t * 1.2) * 0.05;
+          mouthRef.current.scale.x = 1.1 + Math.sin(t * 1.0) * 0.04;
           mouthRef.current.scale.y = 0.7;
-          mouthRef.current.position.y = 0.42;
+          mouthRef.current.position.y = -0.1;
         }
-
-        // Subtle head micro-movement
-        headRef.current.rotation.z = Math.sin(t * 0.6) * 0.02;
         break;
       }
 
       case 'focused': {
-        // Slight lean with subtle sway
-        const lean = Math.sin(t * 1.5) * 0.035;
-        groupRef.current.rotation.z = lean;
-        bodyRef.current.position.y = Math.sin(t * 2) * 0.015;
+        // Minimal movement, stable posture
+        const fBreath = Math.sin(t * 1.8) * 0.012;
+        bodyRef.current.position.y = fBreath;
 
-        // Focused → straight line mouth
+        // Head slightly forward (focused lean)
+        headRef.current.rotation.x = lerp(headRef.current.rotation.x, 0.12, 0.08);
+
+        // Very subtle body sway
+        groupRef.current.rotation.z = Math.sin(t * 1.2) * 0.015;
+
+        // Straight mouth
         if (mouthRef.current) {
-          mouthRef.current.scale.x = 0.9;
-          mouthRef.current.scale.y = 0.5;
-          mouthRef.current.position.y = 0.42;
+          mouthRef.current.scale.x = 0.85;
+          mouthRef.current.scale.y = 0.45;
+          mouthRef.current.position.y = -0.1;
         }
         break;
       }
 
       case 'happy': {
-        // Jump with squash & stretch
-        if (t < 1.2) {
-          const p = t / 1.2;
-          const jumpH = Math.sin(p * Math.PI) * 0.35;
+        if (t < 1.4) {
+          const p = t / 1.4;
+          const jumpH = Math.sin(p * Math.PI) * 0.38;
 
-          // Squash at start/end, stretch at peak
+          // Squash & stretch
           const ss = Math.sin(p * Math.PI);
-          bodyRef.current.scale.y = 1 + ss * 0.08;
-          bodyRef.current.scale.x = 1 - ss * 0.05;
+          bodyRef.current.scale.y = 1 + ss * 0.1;
+          bodyRef.current.scale.x = 1 - ss * 0.06;
 
           groupRef.current.position.y = Math.max(0, jumpH);
-          groupRef.current.rotation.y = p * Math.PI * 0.25;
+          groupRef.current.rotation.y = p * Math.PI * 0.3;
 
           // Arms up
           if (leftArmRef.current && rightArmRef.current) {
-            leftArmRef.current.rotation.z = -0.12 - p * 0.7;
-            rightArmRef.current.rotation.z = 0.12 + p * 0.7;
+            const armUp = Math.min(1, p * 1.8);
+            leftArmRef.current.rotation.z = -0.15 - armUp * 0.8;
+            rightArmRef.current.rotation.z = 0.15 + armUp * 0.8;
+            leftArmRef.current.rotation.x = 0;
+            rightArmRef.current.rotation.x = 0;
+          }
+
+          // Shoulder lift
+          if (leftShoulderRef.current && rightShoulderRef.current) {
+            leftShoulderRef.current.position.y = 0.2 + p * 0.02;
+            rightShoulderRef.current.position.y = 0.2 + p * 0.02;
           }
         }
         // Wide smile
         if (mouthRef.current) {
-          mouthRef.current.scale.x = 1.4;
-          mouthRef.current.scale.y = 1.1;
-          mouthRef.current.position.y = 0.41;
+          mouthRef.current.scale.x = 1.5;
+          mouthRef.current.scale.y = 1.2;
+          mouthRef.current.position.y = -0.11;
         }
         break;
       }
 
       case 'disappointed': {
-        // Slow ease-out head tilt
-        if (t < 1.5) {
-          const p = Math.min(1, t / 1.5);
+        if (t < 1.8) {
+          const p = Math.min(1, t / 1.8);
           const eased = 1 - Math.pow(1 - p, 3);
-          headRef.current.rotation.x = eased * 0.45;
+
+          // Slow head tilt down
+          headRef.current.rotation.x = eased * 0.5;
+
+          // Shoulders forward (body rotation)
+          groupRef.current.rotation.x = lerp(groupRef.current.rotation.x, eased * 0.06, 0.08);
         }
-        // Slight body droop
+
+        // Body droop
         bodyRef.current.position.y = -0.02;
 
-        // Arms hang lower
+        // Arms hang limp
         if (leftArmRef.current && rightArmRef.current) {
-          leftArmRef.current.rotation.z = -0.05;
-          rightArmRef.current.rotation.z = 0.05;
+          leftArmRef.current.rotation.z = -0.06;
+          rightArmRef.current.rotation.z = 0.06;
+          leftArmRef.current.rotation.x = 0.05;
+          rightArmRef.current.rotation.x = 0.05;
         }
 
-        // Sad mouth
+        // Sad mouth (lower position, narrow)
         if (mouthRef.current) {
-          mouthRef.current.scale.x = 0.8;
-          mouthRef.current.scale.y = 0.35;
-          mouthRef.current.position.y = 0.4;
+          mouthRef.current.scale.x = 0.75;
+          mouthRef.current.scale.y = 0.3;
+          mouthRef.current.position.y = -0.12;
         }
         break;
       }
 
       case 'victory': {
-        // Big jump + spin + arms up
-        if (t < 2.5) {
-          const p = t / 2.5;
-          const jumpH = Math.sin(p * Math.PI) * 0.55;
+        if (t < 2.8) {
+          const p = t / 2.8;
+          const jumpH = Math.sin(p * Math.PI) * 0.6;
           groupRef.current.position.y = Math.max(0, jumpH);
-          groupRef.current.rotation.y += 0.07;
+          groupRef.current.rotation.y += 0.065;
 
-          // Arms raised
+          // Arms raised high
           if (leftArmRef.current && rightArmRef.current) {
             const arm = Math.min(1, p * 2.5);
-            leftArmRef.current.rotation.z = -0.12 - arm * 1.0;
-            rightArmRef.current.rotation.z = 0.12 + arm * 1.0;
+            leftArmRef.current.rotation.z = -0.15 - arm * 1.1;
+            rightArmRef.current.rotation.z = 0.15 + arm * 1.1;
+            leftArmRef.current.rotation.x = -arm * 0.3;
+            rightArmRef.current.rotation.x = -arm * 0.3;
+          }
+
+          // Shoulders up
+          if (leftShoulderRef.current && rightShoulderRef.current) {
+            leftShoulderRef.current.position.y = 0.2 + p * 0.03;
+            rightShoulderRef.current.position.y = 0.2 + p * 0.03;
           }
         }
-        // Open smile
+        // Big open smile
         if (mouthRef.current) {
-          mouthRef.current.scale.x = 1.5;
-          mouthRef.current.scale.y = 1.4;
-          mouthRef.current.position.y = 0.41;
+          mouthRef.current.scale.x = 1.6;
+          mouthRef.current.scale.y = 1.5;
+          mouthRef.current.position.y = -0.11;
         }
         break;
       }
     }
+
+    // Reset groupRef.rotation.x for non-disappointed moods
+    if (m !== 'disappointed') {
+      groupRef.current.rotation.x = lerp(groupRef.current.rotation.x, 0, 0.1);
+    }
   });
 
-  // Slightly darker skin for underside shading
-  const skinDark = new THREE.Color(skinColor).multiplyScalar(0.85).getStyle();
+  const skinDark = new THREE.Color(skinColor).multiplyScalar(0.82).getStyle();
 
   return (
-    <group ref={groupRef} position={[0, -0.1, 0]} scale={0.9}>
+    <group ref={groupRef} position={[0, -0.08, 0]} scale={0.88}>
 
-      {/* ── Body ─────────────────────────────────────── */}
+      {/* ══ BODY ═══════════════════════════════════════ */}
       <mesh ref={bodyRef} position={[0, 0, 0]}>
-        <boxGeometry args={[0.48, 0.52, 0.28]} />
-        <meshStandardMaterial color={outfitColor} roughness={0.7} metalness={0.05} />
+        <boxGeometry args={[0.5, 0.5, 0.28]} />
+        <meshStandardMaterial color={outfitColor} roughness={0.72} metalness={0.04} />
       </mesh>
-      {/* Shoulder rounding (two small spheres) */}
-      <mesh position={[-0.24, 0.2, 0]}>
-        <sphereGeometry args={[0.09, 8, 8]} />
-        <meshStandardMaterial color={outfitColor} roughness={0.7} metalness={0.05} />
-      </mesh>
-      <mesh position={[0.24, 0.2, 0]}>
-        <sphereGeometry args={[0.09, 8, 8]} />
-        <meshStandardMaterial color={outfitColor} roughness={0.7} metalness={0.05} />
+      {/* Rounded top (chest rounding) */}
+      <mesh position={[0, 0.22, 0]} scale={[1.05, 0.4, 0.95]}>
+        <sphereGeometry args={[0.25, 10, 6]} />
+        <meshStandardMaterial color={outfitColor} roughness={0.72} metalness={0.04} />
       </mesh>
 
-      {/* ── Head group (for tilt/rotation) ───────────── */}
+      {/* ══ SHOULDERS ══════════════════════════════════ */}
+      <mesh ref={leftShoulderRef} position={[-0.26, 0.2, 0]}>
+        <sphereGeometry args={[0.1, 8, 6]} />
+        <meshStandardMaterial color={outfitColor} roughness={0.72} metalness={0.04} />
+      </mesh>
+      <mesh ref={rightShoulderRef} position={[0.26, 0.2, 0]}>
+        <sphereGeometry args={[0.1, 8, 6]} />
+        <meshStandardMaterial color={outfitColor} roughness={0.72} metalness={0.04} />
+      </mesh>
+
+      {/* ══ HEAD GROUP ═════════════════════════════════ */}
       <group ref={headRef} position={[0, 0.5, 0]}>
-        {/* Main head sphere */}
+        {/* Main head */}
         <mesh>
-          <sphereGeometry args={[0.23, 16, 12]} />
-          <meshStandardMaterial color={skinColor} roughness={0.6} metalness={0.02} />
+          <sphereGeometry args={[0.22, 16, 12]} />
+          <meshStandardMaterial color={skinColor} roughness={0.55} metalness={0.02} />
         </mesh>
-        {/* Bottom chin shading sphere (darker) */}
-        <mesh position={[0, -0.06, 0.02]} scale={[1, 0.5, 0.9]}>
-          <sphereGeometry args={[0.18, 10, 6]} />
+        {/* Chin underside shading */}
+        <mesh position={[0, -0.07, 0.02]} scale={[1, 0.45, 0.85]}>
+          <sphereGeometry args={[0.17, 10, 6]} />
           <meshStandardMaterial color={skinDark} roughness={0.7} metalness={0} />
         </mesh>
 
-        {/* ── Left Eye ───────────────────────────────── */}
-        <mesh position={[-0.08, 0.06, 0.2]}>
-          <sphereGeometry args={[0.045, 8, 8]} />
-          <meshStandardMaterial color="#f0f0f0" roughness={0.3} />
+        {/* ── LEFT EYE ─────────────────────────────── */}
+        {/* White */}
+        <mesh position={[-0.08, 0.04, 0.19]}>
+          <sphereGeometry args={[0.042, 8, 8]} />
+          <meshStandardMaterial color="#f2f2f2" roughness={0.25} />
         </mesh>
-        <mesh ref={leftEyeRef} position={[-0.08, 0.06, 0.22]}>
-          <sphereGeometry args={[0.025, 8, 8]} />
-          <meshStandardMaterial color="#222222" roughness={0.4} />
+        {/* Iris (gaze-tracking) */}
+        <mesh ref={leftIrisRef} position={[-0.08, 0.04, 0.215]}>
+          <sphereGeometry args={[0.023, 8, 8]} />
+          <meshStandardMaterial color="#2a2a2a" roughness={0.35} />
         </mesh>
-        {/* Pupil (tiny highlight dot) */}
-        <mesh ref={leftPupilRef} position={[-0.08, 0.055, 0.235]}>
-          <sphereGeometry args={[0.008, 6, 6]} />
-          <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.5} />
+        {/* Specular dot */}
+        <mesh position={[-0.075, 0.048, 0.23]}>
+          <sphereGeometry args={[0.007, 6, 6]} />
+          <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.6} />
         </mesh>
-
-        {/* ── Right Eye ──────────────────────────────── */}
-        <mesh position={[0.08, 0.06, 0.2]}>
-          <sphereGeometry args={[0.045, 8, 8]} />
-          <meshStandardMaterial color="#f0f0f0" roughness={0.3} />
-        </mesh>
-        <mesh ref={rightEyeRef} position={[0.08, 0.06, 0.22]}>
-          <sphereGeometry args={[0.025, 8, 8]} />
-          <meshStandardMaterial color="#222222" roughness={0.4} />
-        </mesh>
-        <mesh ref={rightPupilRef} position={[0.08, 0.055, 0.235]}>
-          <sphereGeometry args={[0.008, 6, 6]} />
-          <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.5} />
+        {/* Eyelid (real geometry, scales Y to close) */}
+        <mesh ref={leftLidRef} position={[-0.08, 0.065, 0.2]} scale={[1, 0.01, 1]}>
+          <sphereGeometry args={[0.047, 8, 4, 0, Math.PI * 2, 0, Math.PI * 0.5]} />
+          <meshStandardMaterial color={skinColor} roughness={0.6} side={THREE.DoubleSide} />
         </mesh>
 
-        {/* ── Mouth ──────────────────────────────────── */}
-        <mesh ref={mouthRef} position={[0, -0.08, 0.21]}>
-          <boxGeometry args={[0.09, 0.03, 0.015]} />
-          <meshStandardMaterial color="#b86b6b" roughness={0.5} />
+        {/* ── RIGHT EYE ────────────────────────────── */}
+        <mesh position={[0.08, 0.04, 0.19]}>
+          <sphereGeometry args={[0.042, 8, 8]} />
+          <meshStandardMaterial color="#f2f2f2" roughness={0.25} />
+        </mesh>
+        <mesh ref={rightIrisRef} position={[0.08, 0.04, 0.215]}>
+          <sphereGeometry args={[0.023, 8, 8]} />
+          <meshStandardMaterial color="#2a2a2a" roughness={0.35} />
+        </mesh>
+        <mesh position={[0.085, 0.048, 0.23]}>
+          <sphereGeometry args={[0.007, 6, 6]} />
+          <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.6} />
+        </mesh>
+        <mesh ref={rightLidRef} position={[0.08, 0.065, 0.2]} scale={[1, 0.01, 1]}>
+          <sphereGeometry args={[0.047, 8, 4, 0, Math.PI * 2, 0, Math.PI * 0.5]} />
+          <meshStandardMaterial color={skinColor} roughness={0.6} side={THREE.DoubleSide} />
+        </mesh>
+
+        {/* ── MOUTH ────────────────────────────────── */}
+        <mesh ref={mouthRef} position={[0, -0.1, 0.2]}>
+          <boxGeometry args={[0.085, 0.028, 0.012]} />
+          <meshStandardMaterial color="#b06060" roughness={0.5} />
         </mesh>
       </group>
 
-      {/* ── Left Arm (pivot from shoulder) ───────────── */}
-      <group ref={leftArmRef} position={[-0.3, 0.15, 0]} rotation={[0, 0, -0.12]}>
-        <mesh position={[0, -0.17, 0]}>
-          <cylinderGeometry args={[0.065, 0.075, 0.34, 6]} />
-          <meshStandardMaterial color={skinColor} roughness={0.65} metalness={0.02} />
+      {/* ══ LEFT ARM (pivot at shoulder) ═══════════════ */}
+      <group ref={leftArmRef} position={[-0.31, 0.16, 0]} rotation={[0.12, 0, -0.15]}>
+        <mesh position={[0, -0.16, 0]}>
+          <cylinderGeometry args={[0.06, 0.07, 0.32, 6]} />
+          <meshStandardMaterial color={skinColor} roughness={0.62} metalness={0.02} />
         </mesh>
       </group>
 
-      {/* ── Right Arm (pivot from shoulder) ──────────── */}
-      <group ref={rightArmRef} position={[0.3, 0.15, 0]} rotation={[0, 0, 0.12]}>
-        <mesh position={[0, -0.17, 0]}>
-          <cylinderGeometry args={[0.065, 0.075, 0.34, 6]} />
-          <meshStandardMaterial color={skinColor} roughness={0.65} metalness={0.02} />
+      {/* ══ RIGHT ARM (pivot at shoulder) ══════════════ */}
+      <group ref={rightArmRef} position={[0.31, 0.16, 0]} rotation={[0.12, 0, 0.15]}>
+        <mesh position={[0, -0.16, 0]}>
+          <cylinderGeometry args={[0.06, 0.07, 0.32, 6]} />
+          <meshStandardMaterial color={skinColor} roughness={0.62} metalness={0.02} />
         </mesh>
       </group>
 
-      {/* ── Left Leg ─────────────────────────────────── */}
-      <mesh ref={leftLegRef} position={[-0.12, -0.45, 0.02]}>
-        <cylinderGeometry args={[0.09, 0.1, 0.42, 6]} />
-        <meshStandardMaterial color="#3d3d3d" roughness={0.8} />
+      {/* ══ LEFT LEG ══════════════════════════════════ */}
+      <mesh ref={leftLegRef} position={[-0.13, -0.44, 0.015]}>
+        <cylinderGeometry args={[0.095, 0.105, 0.42, 6]} />
+        <meshStandardMaterial color="#3c3c3c" roughness={0.82} />
       </mesh>
 
-      {/* ── Right Leg ────────────────────────────────── */}
-      <mesh ref={rightLegRef} position={[0.12, -0.45, -0.02]}>
-        <cylinderGeometry args={[0.09, 0.1, 0.42, 6]} />
-        <meshStandardMaterial color="#3d3d3d" roughness={0.8} />
+      {/* ══ RIGHT LEG ═════════════════════════════════ */}
+      <mesh ref={rightLegRef} position={[0.13, -0.44, -0.015]}>
+        <cylinderGeometry args={[0.095, 0.105, 0.42, 6]} />
+        <meshStandardMaterial color="#3c3c3c" roughness={0.82} />
       </mesh>
     </group>
   );
@@ -358,14 +441,14 @@ export default function AvatarCompanion({
         }}
         style={{ background: 'transparent' }}
       >
-        {/* Hemisphere light for soft sky/ground gradient */}
-        <hemisphereLight color="#e8e0d8" groundColor="#8a7a6a" intensity={0.45} />
+        {/* Warm hemisphere light */}
+        <hemisphereLight color="#f0e8dd" groundColor="#8a7a6a" intensity={0.5} />
         {/* Soft ambient fill */}
-        <ambientLight intensity={0.35} />
-        {/* Main key light from top-left */}
-        <directionalLight position={[-3, 5, 3]} intensity={0.55} color="#fff5e8" />
-        {/* Rim light from back-right for depth */}
-        <directionalLight position={[2, 1, -2]} intensity={0.15} color="#d0e0ff" />
+        <ambientLight intensity={0.3} />
+        {/* Warm key light from top-left */}
+        <directionalLight position={[-3, 5, 3]} intensity={0.5} color="#fff0e0" />
+        {/* Cool rim light for depth */}
+        <directionalLight position={[2, 1, -2]} intensity={0.12} color="#d0e0ff" />
         <Character mood={mood} skinColor={skinColor} outfitColor={outfitColor} />
       </Canvas>
     </div>
