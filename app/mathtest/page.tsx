@@ -44,6 +44,7 @@ import {
   type TestSession,
   type TestResultFromServer,
   type SubmitAnswer,
+  type KlassenarbeitMetadata,
 } from "@/lib/assessment/testFlow";
 import { useAuth } from "@/lib/supabase/useAuth";
 
@@ -490,7 +491,23 @@ export default function MathTestPage() {
           time_spent_sec: answerTimesRef.current[i] || Math.ceil(elapsedTime / questions.length),
         }));
 
-        const result = await submitSupabaseTest(testSession.testId, submitAnswers);
+        // Prepare Klassenarbeit metadata if applicable
+        let klassenarbeitMeta: KlassenarbeitMetadata | undefined;
+        if (testType === "klassenarbeit" && klassenarbeitResult) {
+          klassenarbeitMeta = {
+            sectionResults: klassenarbeitResult.sectionResults,
+            totalPoints: klassenarbeitResult.totalPoints,
+            maxTotalPoints: klassenarbeitResult.maxTotalPoints,
+            percentage: klassenarbeitResult.percentage,
+            note: {
+              value: klassenarbeitResult.note.value,
+              label: klassenarbeitResult.note.label,
+            },
+            starsEarned: klassenarbeitResult.starsEarned,
+          };
+        }
+
+        const result = await submitSupabaseTest(testSession.testId, submitAnswers, klassenarbeitMeta);
         setServerResult(result);
 
         // Convert server result to local GradeResult format for UI compatibility
