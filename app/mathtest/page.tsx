@@ -18,6 +18,7 @@ import {
   generateTest,
   generateKlassenarbeit,
   calculateGradeResult,
+  calculateKlassenarbeitResult,
   getMathGrade,
   saveMathGrade,
   updateMathStats,
@@ -25,6 +26,7 @@ import {
   getPeriodLabel,
   type MathQuestion,
   type GradeResult,
+  type KlassenarbeitResult,
 } from "@/lib/mathCurriculum";
 import {
   COUNTRIES,
@@ -291,6 +293,7 @@ export default function MathTestPage() {
   const [cardRarity, setCardRarity] = useState<CardRarity | null>(null);
   const [saved, setSaved] = useState(false);
   const [elapsedTime, setElapsedTime] = useState(0);
+  const [klassenarbeitResult, setKlassenarbeitResult] = useState<KlassenarbeitResult | null>(null);
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
   // ─── Supabase integration state ───────────────────────
@@ -355,15 +358,25 @@ export default function MathTestPage() {
       return () => clearTimeout(t);
     } else {
       // All graded
-      const score = answers.reduce<number>(
-        (acc, a, i) => acc + (a === questions[i].correctAnswer ? 1 : 0),
-        0,
-      );
-      const result = calculateGradeResult(score, questions.length);
-      setGradeResult(result);
+      if (testType === "klassenarbeit") {
+        // Klassenarbeit: szekciós pontozás
+        const kaResult = calculateKlassenarbeitResult(questions, answers);
+        setKlassenarbeitResult(kaResult);
+        // GradeResult is set for compatibility, but kaResult is primary
+        const gradeResult = calculateGradeResult(kaResult.totalPoints, kaResult.maxTotalPoints);
+        setGradeResult(gradeResult);
+      } else {
+        // Practice: egyszerű pontozás
+        const score = answers.reduce<number>(
+          (acc, a, i) => acc + (a === questions[i].correctAnswer ? 1 : 0),
+          0,
+        );
+        const result = calculateGradeResult(score, questions.length);
+        setGradeResult(result);
+      }
       setTimeout(() => setGameState("result"), 600);
     }
-  }, [gameState, gradingIndex, questions, answers]);
+  }, [gameState, gradingIndex, questions, answers, testType]);
 
   // Save card & stats on result
   useEffect(() => {
@@ -400,6 +413,8 @@ export default function MathTestPage() {
     setSelectedGrade(grade);
     saveMathGrade(grade);
     setTestType(null);
+    setGradeResult(null);
+    setKlassenarbeitResult(null);
     setGameState("test-type-select");
   };
 
@@ -411,6 +426,7 @@ export default function MathTestPage() {
     setElapsedTime(0);
     setGradingIndex(-1);
     setGradeResult(null);
+    setKlassenarbeitResult(null);
     setServerResult(null);
     setSaved(false);
     setCardRarity(null);
@@ -1029,72 +1045,169 @@ export default function MathTestPage() {
   // ─── RESULT SCREEN ─────────────────────────────
 
   if (gameState === "result" && gradeResult) {
-    const gc = gradeResult.mark.color;
-    // Map percentage to 3D grade shape (1-5 for visual)
-    const visualGrade = gradeResult.percentage >= 90 ? 5 : gradeResult.percentage >= 75 ? 4 : gradeResult.percentage >= 60 ? 3 : gradeResult.percentage >= 40 ? 2 : 1;
+    // Klassenarbeit vs Practice display
+    const isKlassenarbeit = testType === "klassenarbeit" && klassenarbeitResult;
 
     return (
       <main className="min-h-screen bg-bg flex items-center justify-center px-4">
-        <motion.div
-          className="flex flex-col items-center gap-6 max-w-sm w-full"
-          initial={{ opacity: 0, scale: 0.9 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ type: "spring" }}
-        >
-          {/* 3D Grade */}
-          <div className="relative">
-            <GradeScene grade={visualGrade} />
-            <motion.div
-              className="absolute inset-0 flex items-center justify-center"
-              initial={{ scale: 0 }}
-              animate={{ scale: 1 }}
-              transition={{ delay: 0.3, type: "spring", stiffness: 100 }}
-            >
-              <span
-                className="text-7xl font-black"
-                style={{ color: gc, textShadow: `0 0 30px ${gc}60, 0 0 60px ${gc}30` }}
-              >
-                {gradeResult.mark.display}
-              </span>
-            </motion.div>
-          </div>
-
-          {/* Grade label */}
+        {isKlassenarbeit && klassenarbeitResult ? (
+          // ─── KLASSENARBEIT RESULT ─────────────────────────────
           <motion.div
-            className="text-center"
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.5 }}
+            className="flex flex-col items-center gap-6 max-w-2xl w-full"
+            initial={{ opacity: 0, scale: 0.9 }}
+            animate={{ opacity: 1, scale: 1 }}
+            transition={{ type: "spring" }}
           >
-            <p className="text-3xl font-black" style={{ color: gc }}>
-              {gradeResult.mark.label}
-            </p>
-            <p className="text-white/40 text-sm mt-1">
-              {gradeResult.score}/{gradeResult.total} ({gradeResult.percentage}%)
-            </p>
-            <p className="text-white/30 text-xs mt-1 font-mono">
+            {/* Note display */}
+            <motion.div
+              className="text-center"
+              initial={{ opacity: 0, y: -20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.3 }}
+            >
+              <div
+                className="text-8xl font-black mb-3"
+                style={{ color: klassenarbeitResult.note.color }}
+              >
+                {klassenarbeitResult.note.emoji} {klassenarbeitResult.note.value}
+              </div>
+              <p
+                className="text-3xl font-black"
+                style={{ color: klassenarbeitResult.note.color }}
+              >
+                {klassenarbeitResult.note.label}
+              </p>
+              <p className="text-white/60 text-sm mt-2">
+                {klassenarbeitResult.totalPoints}/{klassenarbeitResult.maxTotalPoints} Punkt ({klassenarbeitResult.percentage}%)
+              </p>
+            </motion.div>
+
+            {/* Section breakdown */}
+            <motion.div
+              className="w-full bg-white/5 border border-white/10 rounded-2xl p-6"
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.5 }}
+            >
+              <h3 className="text-white font-black text-lg mb-4">Szekciók</h3>
+              <div className="space-y-3">
+                {klassenarbeitResult.sectionResults.map((section, i) => (
+                  <motion.div
+                    key={i}
+                    className="flex items-center justify-between p-4 bg-white/5 rounded-xl border border-white/10"
+                    initial={{ opacity: 0, x: -20 }}
+                    animate={{ opacity: 1, x: 0 }}
+                    transition={{ delay: 0.6 + i * 0.1 }}
+                  >
+                    <div>
+                      <p className="text-white font-bold">{section.name}</p>
+                      <p className="text-white/50 text-sm">
+                        {section.correct}/{section.total} helyes
+                      </p>
+                    </div>
+                    <div className="text-right">
+                      <p className="text-white font-black text-lg">
+                        {section.earnedPoints}/{section.maxPoints}
+                      </p>
+                      <p className="text-white/50 text-xs">pont</p>
+                    </div>
+                  </motion.div>
+                ))}
+              </div>
+            </motion.div>
+
+            {/* Stars earned */}
+            {klassenarbeitResult.starsEarned > 0 && (
+              <motion.p
+                className="text-yellow-400 text-lg font-bold"
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                transition={{ delay: 0.9 }}
+              >
+                {klassenarbeitResult.note.emoji} +{klassenarbeitResult.starsEarned} star
+              </motion.p>
+            )}
+
+            {/* Time */}
+            <p className="text-white/30 text-xs font-mono">
               {country?.gradeLabel(selectedGrade!) || `${selectedGrade}. osztály`} &bull;{" "}
               {Math.floor(elapsedTime / 60)}:{(elapsedTime % 60).toString().padStart(2, "0")}
             </p>
-            {serverResult && serverResult.stars_earned > 0 && (
-              <p className="text-yellow-400 text-sm mt-2 font-bold">
-                +{serverResult.stars_earned} star &bull; +{serverResult.xp_earned} XP
-              </p>
-            )}
           </motion.div>
-
-          {/* Buttons */}
+        ) : (
+          // ─── PRACTICE RESULT (Original) ─────────────────────────────
           <motion.div
-            className="flex gap-3 w-full mt-4"
+            className="flex flex-col items-center gap-6 max-w-sm w-full"
+            initial={{ opacity: 0, scale: 0.9 }}
+            animate={{ opacity: 1, scale: 1 }}
+            transition={{ type: "spring" }}
+          >
+            {/* 3D Grade */}
+            <div className="relative">
+              <GradeScene grade={gradeResult.percentage >= 90 ? 5 : gradeResult.percentage >= 75 ? 4 : gradeResult.percentage >= 60 ? 3 : gradeResult.percentage >= 40 ? 2 : 1} />
+              <motion.div
+                className="absolute inset-0 flex items-center justify-center"
+                initial={{ scale: 0 }}
+                animate={{ scale: 1 }}
+                transition={{ delay: 0.3, type: "spring", stiffness: 100 }}
+              >
+                <span
+                  className="text-7xl font-black"
+                  style={{ color: gradeResult.mark.color, textShadow: `0 0 30px ${gradeResult.mark.color}60, 0 0 60px ${gradeResult.mark.color}30` }}
+                >
+                  {gradeResult.mark.display}
+                </span>
+              </motion.div>
+            </div>
+
+            {/* Grade label */}
+            <motion.div
+              className="text-center"
+              initial={{ opacity: 0, y: 10 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.5 }}
+            >
+              <p className="text-3xl font-black" style={{ color: gradeResult.mark.color }}>
+                {gradeResult.mark.label}
+              </p>
+              <p className="text-white/40 text-sm mt-1">
+                {gradeResult.score}/{gradeResult.total} ({gradeResult.percentage}%)
+              </p>
+              <p className="text-white/30 text-xs mt-1 font-mono">
+                {country?.gradeLabel(selectedGrade!) || `${selectedGrade}. osztály`} &bull;{" "}
+                {Math.floor(elapsedTime / 60)}:{(elapsedTime % 60).toString().padStart(2, "0")}
+              </p>
+              {serverResult && serverResult.stars_earned > 0 && (
+                <p className="text-yellow-400 text-sm mt-2 font-bold">
+                  +{serverResult.stars_earned} star &bull; +{serverResult.xp_earned} XP
+                </p>
+              )}
+            </motion.div>
+          </motion.div>
+        )}
+
+        {/* Buttons - shared */}
+        <motion.div
+          className="absolute bottom-8 left-0 right-0 flex flex-col items-center gap-4 px-4"
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: isKlassenarbeit ? 1.0 : 0.7 }}
+        >
+          <motion.div
+            className="flex gap-3 w-full max-w-sm"
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.7 }}
+            transition={{ delay: isKlassenarbeit ? 1.1 : 0.7 }}
           >
             {/* Retry */}
             <motion.button
               onClick={handlePlayAgain}
               className="flex-1 py-3 rounded-xl border-2 font-bold text-sm flex items-center justify-center gap-2"
-              style={{ borderColor: `${gc}40`, color: gc, background: `${gc}10` }}
+              style={{
+                borderColor: isKlassenarbeit ? `${klassenarbeitResult?.note.color}40` : `${gradeResult.mark.color}40`,
+                color: isKlassenarbeit ? klassenarbeitResult?.note.color : gradeResult.mark.color,
+                background: isKlassenarbeit ? `${klassenarbeitResult?.note.color}10` : `${gradeResult.mark.color}10`
+              }}
               whileHover={{ scale: 1.03 }}
               whileTap={{ scale: 0.97 }}
             >
@@ -1133,7 +1246,7 @@ export default function MathTestPage() {
             className="py-2.5 px-6 rounded-xl bg-white/5 border border-white/10 text-white/40 text-sm font-bold flex items-center gap-2"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
-            transition={{ delay: 0.9 }}
+            transition={{ delay: isKlassenarbeit ? 1.2 : 0.9 }}
             whileHover={{ scale: 1.05, backgroundColor: "rgba(255,255,255,0.1)" }}
             whileTap={{ scale: 0.95 }}
           >

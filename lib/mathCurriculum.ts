@@ -813,6 +813,105 @@ export function calculateGradeResult(score: number, total: number): GradeResult 
   return { score, total, percentage, mark };
 }
 
+// ─── KLASSENARBEIT GRADING ─────────────────────────────
+
+export interface Note {
+  value: number;      // 1-6
+  label: string;      // Sehr gut, Gut, stb.
+  color: string;      // Tailwind color
+  emoji: string;      // Visual emoji
+}
+
+export interface SectionResult {
+  name: string;
+  correct: number;
+  total: number;
+  maxPoints: number;
+  earnedPoints: number;
+}
+
+export interface KlassenarbeitResult {
+  sectionResults: SectionResult[];
+  totalPoints: number;
+  maxTotalPoints: number;
+  percentage: number;
+  note: Note;
+  starsEarned: number;
+}
+
+export function calculateNote(percentage: number): Note {
+  if (percentage >= 90) return { value: 1, label: "Sehr gut", color: "#22C55E", emoji: "🌟" };
+  if (percentage >= 80) return { value: 2, label: "Gut", color: "#3B82F6", emoji: "✨" };
+  if (percentage >= 65) return { value: 3, label: "Befriedigend", color: "#F59E0B", emoji: "👍" };
+  if (percentage >= 50) return { value: 4, label: "Ausreichend", color: "#F97316", emoji: "✓" };
+  if (percentage >= 30) return { value: 5, label: "Mangelhaft", color: "#EF4444", emoji: "⚠️" };
+  return { value: 6, label: "Ungenügend", color: "#7C3AED", emoji: "❌" };
+}
+
+export function getStarsForNote(note: Note): number {
+  switch (note.value) {
+    case 1: return 12;
+    case 2: return 10;
+    case 3: return 8;
+    case 4: return 5;
+    case 5:
+    case 6:
+    default: return 0;
+  }
+}
+
+export function calculateKlassenarbeitResult(
+  questions: MathQuestion[],
+  answers: (number | null)[]
+): KlassenarbeitResult {
+  const sectionMap = new Map<string, SectionResult>();
+
+  // Initialize section results
+  for (const q of questions) {
+    if (!q.section) continue;
+    if (!sectionMap.has(q.section)) {
+      sectionMap.set(q.section, {
+        name: q.section,
+        correct: 0,
+        total: 0,
+        maxPoints: 0,
+        earnedPoints: 0,
+      });
+    }
+  }
+
+  // Calculate scores
+  questions.forEach((q, i) => {
+    if (!q.section) return;
+    const section = sectionMap.get(q.section)!;
+    const isCorrect = answers[i] === q.correctAnswer;
+    const points = q.maxPoints || 0;
+
+    section.total += 1;
+    section.maxPoints += points;
+    if (isCorrect) {
+      section.correct += 1;
+      section.earnedPoints += points;
+    }
+  });
+
+  const sectionResults = Array.from(sectionMap.values());
+  const totalPoints = sectionResults.reduce((acc, s) => acc + s.earnedPoints, 0);
+  const maxTotalPoints = sectionResults.reduce((acc, s) => acc + s.maxPoints, 0);
+  const percentage = maxTotalPoints > 0 ? Math.round((totalPoints / maxTotalPoints) * 100) : 0;
+  const note = calculateNote(percentage);
+  const starsEarned = getStarsForNote(note);
+
+  return {
+    sectionResults,
+    totalPoints,
+    maxTotalPoints,
+    percentage,
+    note,
+    starsEarned,
+  };
+}
+
 // ─── STATS ─────────────────────────────
 
 const MATH_STATS_KEY = "plizio_math_stats";
