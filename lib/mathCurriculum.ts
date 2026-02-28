@@ -32,6 +32,8 @@ export interface MathQuestion {
   options: number[];
   topic: string;
   isWordProblem: boolean;
+  section?: string;      // Klassenarbeit szekció (Kopfrechnen, Schriftlich, Sachaufgaben, Geometrie, Bonus)
+  maxPoints?: number;    // Max pont az adott kérdésre
 }
 
 // ─── HELPERS ─────────────────────────────
@@ -620,6 +622,93 @@ export function generateTest(grade: number, period?: number, countryCode?: strin
   for (let i = 0; i < reviewCount; i++) {
     const gen = reviewGens[i % reviewGens.length];
     addUnique(gen);
+  }
+
+  return shuffleArray(questions);
+}
+
+// ─── KLASSENARBEIT GENERATION (School Exam Format) ─────────────────────────────
+// Struktura: Kopfrechnen, Schriftlich, Sachaufgaben, Geometrie, Bonus
+// Csak Grade 5 támogatott jelenleg
+
+interface SectionConfig {
+  name: string;
+  questionCount: number;
+  pointsPerQuestion: number;
+  generators: Generator[];
+}
+
+export function generateKlassenarbeit(grade: number, period?: number, countryCode?: string): MathQuestion[] {
+  // Jelenleg csak Grade 5
+  if (grade !== 5) return [];
+
+  const cc = countryCode || "HU";
+  const p = period ?? getPeriod();
+  const topics = CURRICULUM[grade]?.[p];
+  if (!topics) return [];
+
+  const questions: MathQuestion[] = [];
+  const usedQuestions = new Set<string>();
+
+  // Szekciók definiálása
+  const sections: Record<string, SectionConfig> = {
+    kopfrechnen: {
+      name: "Kopfrechnen",
+      questionCount: 2,
+      pointsPerQuestion: 1,
+      generators: [G5.orderOfOps, G5.orderOfOpsB, G5.percent10],
+    },
+    schriftlich: {
+      name: "Schriftlich",
+      questionCount: 3,
+      pointsPerQuestion: 2,
+      generators: [G5.largeNumbers, G5.roundHundreds, G5.fractionAdd, G5.fractionSub],
+    },
+    sachaufgaben: {
+      name: "Sachaufgaben",
+      questionCount: 2,
+      pointsPerQuestion: 3,
+      generators: [G5.wordDiscount, G5.wordOps],
+    },
+    geometrie: {
+      name: "Geometrie",
+      questionCount: 2,
+      pointsPerQuestion: 2,
+      generators: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter],
+    },
+    bonus: {
+      name: "Bonus",
+      questionCount: 1,
+      pointsPerQuestion: 1,
+      generators: [G5.percent25, G5.percent50],
+    },
+  };
+
+  function addUnique(gen: Generator, section: string, points: number, maxAttempts = 15): boolean {
+    for (let attempt = 0; attempt < maxAttempts; attempt++) {
+      const question = gen(cc);
+      const key = question.question;
+      if (!usedQuestions.has(key)) {
+        usedQuestions.add(key);
+        // Kibővítjük a question-t section és maxPoints-tal
+        const extendedQuestion: MathQuestion = {
+          ...question,
+          section,
+          maxPoints: points,
+        };
+        questions.push(extendedQuestion);
+        return true;
+      }
+    }
+    return false;
+  }
+
+  // Generálunk a szekciók szerint
+  for (const [sectionKey, config] of Object.entries(sections)) {
+    for (let i = 0; i < config.questionCount; i++) {
+      const gen = config.generators[i % config.generators.length];
+      addUnique(gen, config.name, config.pointsPerQuestion);
+    }
   }
 
   return shuffleArray(questions);
