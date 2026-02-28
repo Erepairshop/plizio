@@ -20,7 +20,8 @@ export interface QuestionBankRecord {
   created_at: string;
 }
 
-// ─── FETCH QUESTIONS BY SECTION ─────────────────────────────
+// ─── FETCH QUESTIONS BY SECTION WITH FALLBACK ─────────────────────────────
+// Returns questions with graceful degradation: same section → other grades → synthetic
 
 export async function fetchQuestionsBySection(
   grade: number,
@@ -46,7 +47,57 @@ export async function fetchQuestionsBySection(
   }
 
   // Convert QuestionBankRecord to MathQuestion format
-  return data.map((record: QuestionBankRecord) => {
+  return convertQuestionBankToMathQuestions(data);
+}
+
+// ─── ROBUST FETCH WITH FALLBACK CHAIN ─────────────────────────────
+// Level 1: Exact match → Level 2: Different difficulty → Level 3: Other grades → Level 4: Synthetic
+
+export async function fetchQuestionsBySectionRobust(
+  grade: number,
+  section: string,
+  limit: number = 5,
+): Promise<MathQuestion[]> {
+  // Level 1: Try exact match
+  const questions = await fetchQuestionsBySection(grade, section, limit);
+  if (questions.length > 0) {
+    return questions;
+  }
+
+  console.warn(`Level 1 failed: no questions for grade ${grade}, section ${section}`);
+
+  // Level 2: Try adjacent grades (up/down)
+  for (const gradeDelta of [1, -1, 2, -2]) {
+    const adjacentGrade = grade + gradeDelta;
+    if (adjacentGrade >= 1 && adjacentGrade <= 8) {
+      const { data, error } = await supabase
+        .from("question_bank")
+        .select("*")
+        .eq("grade", adjacentGrade)
+        .eq("section", section)
+        .eq("is_active", true)
+        .limit(limit);
+
+      if (!error && data && data.length > 0) {
+        console.warn(`Level 2 fallback: using grade ${adjacentGrade} questions for section ${section}`);
+        return convertQuestionBankToMathQuestions(data);
+      }
+    }
+  }
+
+  console.warn(`Level 2 failed: no questions in other grades for section ${section}`);
+
+  // Level 3: Return synthetic questions as last resort
+  console.warn(`Level 3: generating synthetic questions for grade ${grade}, section ${section}`);
+  return generateSyntheticQuestionsForSection(grade, section, limit);
+}
+
+// ─── HELPER: Convert DB records to MathQuestion format ─────────────────────────────
+
+function convertQuestionBankToMathQuestions(
+  records: QuestionBankRecord[]
+): MathQuestion[] {
+  return records.map((record: QuestionBankRecord) => {
     // Parse options from JSONB if available
     const parsedOptions = Array.isArray(record.options)
       ? record.options.map(opt => {
@@ -59,14 +110,69 @@ export async function fetchQuestionsBySection(
 
     return {
       question: record.question,
-      options: parsedOptions.length > 0 ? parsedOptions : [], // Use parsed options or empty
-      correctAnswer: parseInt(record.solution, 10) || 0, // Parse solution as correct answer
+      options: parsedOptions.length > 0 ? parsedOptions : [],
+      correctAnswer: parseInt(record.solution, 10) || 0,
       topic: record.topic,
       isWordProblem: record.type === "word_problem",
       section: record.section,
       maxPoints: record.max_points,
     };
   });
+}
+
+// ─── SYNTHETIC QUESTION GENERATOR (fallback) ─────────────────────────────
+// Generates deterministic, reproducible questions based on grade/section
+
+function generateSyntheticQuestionsForSection(
+  grade: number,
+  section: string,
+  limit: number
+): MathQuestion[] {
+  const synthetic: MathQuestion[] = [];
+
+  const templates: Record<string, { template: string; answerFn: (i: number) => number }[]> = {
+    "Kopfrechnen": [
+      { template: (i) => `${10 + i} + ${5 + (i % 3)} = ?`, answerFn: (i) => 10 + i + 5 + (i % 3) },
+      { template: (i) => `${20 + i} - ${8 + (i % 5)} = ?`, answerFn: (i) => 20 + i - 8 - (i % 5) },
+      { template: (i) => `${(i % 5) + 2} × ${(i % 6) + 2} = ?`, answerFn: (i) => ((i % 5) + 2) * ((i % 6) + 2) },
+    ],
+    "Schriftlich": [
+      { template: (i) => `${100 + i * 10} + ${50 + i * 5} = ?`, answerFn: (i) => 100 + i * 10 + 50 + i * 5 },
+      { template: (i) => `${200 + i * 15} - ${75 + i * 10} = ?`, answerFn: (i) => 200 + i * 15 - 75 - i * 10 },
+    ],
+    "Sachaufgaben": [
+      { template: (i) => `Ein Apfel kostet ${2 + i}€. Wie viel kosten ${3 + (i % 4)}?`, answerFn: (i) => (2 + i) * (3 + (i % 4)) },
+    ],
+    "Geometrie": [
+      { template: (i) => `Umfang eines Quadrats mit Seite ${5 + i} cm = ?`, answerFn: (i) => (5 + i) * 4 },
+    ],
+    "Bonus": [
+      { template: (i) => `${10 + i} - ${3 + (i % 5)} × 2 = ?`, answerFn: (i) => 10 + i - (3 + (i % 5)) * 2 },
+    ],
+  };
+
+  const templateList = templates[section] || templates["Kopfrechnen"];
+
+  for (let i = 0; i < limit; i++) {
+    const template = templateList[i % templateList.length];
+    const questionText = typeof template.template === "string"
+      ? template.template
+      : template.template(i);
+
+    synthetic.push({
+      question: questionText,
+      correctAnswer: typeof template.answerFn === "function"
+        ? template.answerFn(i)
+        : 0,
+      options: [],
+      topic: section,
+      isWordProblem: section === "Sachaufgaben",
+      section,
+      maxPoints: 1,
+    });
+  }
+
+  return synthetic;
 }
 
 // ─── FETCH WITH DIFFICULTY BALANCE ─────────────────────────────
@@ -168,7 +274,7 @@ export async function fetchQuestionsBySections(
 }
 
 // ─── REPEAT PREVENTION ─────────────────────────────
-// Track and prevent reuse of questions within 7 days
+// Track and prevent reuse of questions within 7 days with fallback
 
 export async function logQuestionUsage(
   userId: string,
@@ -208,6 +314,41 @@ export async function getUsedQuestionIds(
   }
 
   return new Set((data || []).map(row => row.question_id));
+}
+
+// ─── REPEAT PREVENTION WITH INTELLIGENT FALLBACK ─────────────────────────────
+// If repeat prevention excludes too many questions, relax the time window
+
+export async function getAvailableQuestionsForRepeatPrevention(
+  userId: string,
+  totalQuestionsInBank: number,
+  minAvailableRatio: number = 0.4 // At least 40% must be available
+): Promise<{ usedIds: Set<string>; windowDays: number }> {
+  let daysBack = 7; // Start with 7-day window
+
+  while (daysBack >= 0) {
+    const usedIds = await getUsedQuestionIds(userId, daysBack);
+    const availableCount = totalQuestionsInBank - usedIds.size;
+    const availableRatio = totalQuestionsInBank > 0 ? availableCount / totalQuestionsInBank : 1;
+
+    if (availableRatio >= minAvailableRatio || daysBack === 0) {
+      // Either we have enough questions, or we've hit the final window (allow all)
+      console.log(
+        `Repeat prevention window: ${daysBack} days, available: ${availableRatio.toFixed(1)}%`
+      );
+      return { usedIds, windowDays: daysBack };
+    }
+
+    // Relax the window
+    daysBack = Math.max(0, daysBack - 2);
+  }
+
+  // Final fallback: return empty set (allow all questions)
+  console.warn(
+    `Repeat prevention would exclude too many questions. ` +
+    `Relaxing to unlimited window (allow recent questions).`
+  );
+  return { usedIds: new Set(), windowDays: 0 };
 }
 
 // ─── SEED QUESTION BANK (for development) ─────────────────────────────
