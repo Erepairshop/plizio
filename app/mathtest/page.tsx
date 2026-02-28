@@ -593,8 +593,17 @@ export default function MathTestPage() {
     lastAnswerTimeRef.current = 0;
 
     try {
-      // Generate 10-question practice test using theme-based generator
-      const practiceTest = generateThemeBasedTest(selectedGrade, 'Összes');
+      // Get available themes and use the first one (Zahlen und Operationen)
+      const availableThemes = getAvailableThemes(selectedGrade);
+      if (!availableThemes || availableThemes.length === 0) {
+        throw new Error("No themes available");
+      }
+
+      const firstTheme = availableThemes[0].name;
+      console.log(`[Practice Test] Using theme: ${firstTheme}`);
+
+      // Generate 10-question practice test using the first theme
+      const practiceTest = generateThemeBasedTest(selectedGrade, firstTheme);
 
       if (!practiceTest || practiceTest.tasks.length === 0) {
         throw new Error("Failed to generate practice test");
@@ -613,7 +622,9 @@ export default function MathTestPage() {
       setAnswers(new Array(mathQuestions.length).fill(null));
       setRealisticKlassenarbeit(null);
       setAvatarMood("idle");
-      setGameState("countdown");
+      // Skip countdown, go straight to playing
+      lastAnswerTimeRef.current = 0;
+      setGameState("playing");
     } catch (err) {
       console.error("[Practice Test] Failed to generate:", err);
       alert("Hiba történt a teszt generálása során. Kérlek próbáld újra!");
