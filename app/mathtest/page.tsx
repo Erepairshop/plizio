@@ -32,6 +32,17 @@ import {
   saveCountry,
   type CountryConfig,
 } from "@/lib/mathLocale";
+import {
+  createTest as createSupabaseTest,
+  startTest as startSupabaseTest,
+  submitTest as submitSupabaseTest,
+  findBlueprint,
+  isSupabaseConfigured,
+  type TestSession,
+  type TestResultFromServer,
+  type SubmitAnswer,
+} from "@/lib/assessment/testFlow";
+import { useAuth } from "@/lib/supabase/useAuth";
 
 // ─── 3D FLOATING BACKGROUND ─────────────────────────────
 
@@ -279,6 +290,15 @@ export default function MathTestPage() {
   const [elapsedTime, setElapsedTime] = useState(0);
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
+  // ─── Supabase integration state ───────────────────────
+  const { user } = useAuth();
+  const useSupabase = isSupabaseConfigured() && !!user;
+  const [testSession, setTestSession] = useState<TestSession | null>(null);
+  const [serverResult, setServerResult] = useState<TestResultFromServer | null>(null);
+  const [submitting, setSubmitting] = useState(false);
+  const answerTimesRef = useRef<number[]>([]); // per-question time tracking
+  const lastAnswerTimeRef = useRef<number>(0);
+
   // Load saved country + grade on mount
   useEffect(() => {
     const savedCode = getSavedCountry();
@@ -300,12 +320,17 @@ export default function MathTestPage() {
   useEffect(() => {
     if (gameState !== "countdown") return;
     if (countdown <= 0) {
+      // Mark test as started in Supabase
+      if (useSupabase && testSession) {
+        startSupabaseTest(testSession.testId).catch(() => {});
+      }
+      lastAnswerTimeRef.current = 0;
       setGameState("playing");
       return;
     }
     const t = setTimeout(() => setCountdown((c) => c - 1), 800);
     return () => clearTimeout(t);
-  }, [gameState, countdown]);
+  }, [gameState, countdown, useSupabase, testSession]);
 
   // Timer during playing
   useEffect(() => {
@@ -356,6 +381,8 @@ export default function MathTestPage() {
       date: new Date().toISOString(),
     });
 
+    // In Supabase mode, stats are tracked server-side.
+    // Still update local stats as fallback / offline cache.
     const topicResults = questions.map((q, i) => ({
       topic: q.topic,
       correct: answers[i] === q.correctAnswer,
@@ -366,22 +393,53 @@ export default function MathTestPage() {
     if (gradeResult.percentage === 100) incrementPerfectScores();
   }, [gameState, saved, gradeResult, selectedGrade, questions, answers]);
 
-  const handleGradeSelect = (grade: number) => {
+  const handleGradeSelect = async (grade: number) => {
     setSelectedGrade(grade);
     saveMathGrade(grade);
-    const test = generateTest(grade, undefined, country?.code);
-    setQuestions(test);
-    setAnswers(new Array(test.length).fill(null));
     setCountdown(3);
     setElapsedTime(0);
     setGradingIndex(-1);
     setGradeResult(null);
+    setServerResult(null);
     setSaved(false);
     setCardRarity(null);
-    setGameState("countdown");
+    setTestSession(null);
+    answerTimesRef.current = [];
+    lastAnswerTimeRef.current = 0;
+
+    if (useSupabase) {
+      try {
+        const cc = country?.code || "HU";
+        const bpId = await findBlueprint(cc, grade, "practice");
+        const session = await createSupabaseTest(grade, cc, bpId);
+        setTestSession(session);
+        setQuestions(session.questions);
+        setAnswers(new Array(session.questions.length).fill(null));
+        answerTimesRef.current = new Array(session.questions.length).fill(0);
+        setGameState("countdown");
+      } catch {
+        // Fallback to local generation if Supabase fails
+        const test = generateTest(grade, undefined, country?.code);
+        setQuestions(test);
+        setAnswers(new Array(test.length).fill(null));
+        setGameState("countdown");
+      }
+    } else {
+      const test = generateTest(grade, undefined, country?.code);
+      setQuestions(test);
+      setAnswers(new Array(test.length).fill(null));
+      setGameState("countdown");
+    }
   };
 
   const handleAnswer = (questionIndex: number, answer: number) => {
+    // Track time per question for Supabase submission
+    if (useSupabase && answerTimesRef.current.length > 0) {
+      const now = elapsedTime;
+      answerTimesRef.current[questionIndex] = Math.max(1, now - lastAnswerTimeRef.current);
+      lastAnswerTimeRef.current = now;
+    }
+
     setAnswers((prev) => {
       const next = [...prev];
       next[questionIndex] = answer;
@@ -389,23 +447,45 @@ export default function MathTestPage() {
     });
   };
 
-  const handleSubmit = () => {
-    setGradingIndex(0);
-    setGameState("grading");
+  const handleSubmit = async () => {
+    if (useSupabase && testSession) {
+      // ─── Server-side grading flow ─────────────────
+      setSubmitting(true);
+      try {
+        // Build answer payload
+        const submitAnswers: SubmitAnswer[] = answers.map((a, i) => ({
+          question_index: i,
+          answer: a ?? 0,
+          time_spent_sec: answerTimesRef.current[i] || Math.ceil(elapsedTime / questions.length),
+        }));
+
+        const result = await submitSupabaseTest(testSession.testId, submitAnswers);
+        setServerResult(result);
+
+        // Convert server result to local GradeResult format for UI compatibility
+        const gradeRes = calculateGradeResult(result.score, result.max_score);
+        setGradeResult(gradeRes);
+        setSubmitting(false);
+
+        // Skip grading animation, go straight to result
+        setGameState("result");
+      } catch {
+        // Fallback: grade locally if server fails
+        setSubmitting(false);
+        setGradingIndex(0);
+        setGameState("grading");
+      }
+    } else {
+      // ─── Local grading flow (guest mode) ──────────
+      setGradingIndex(0);
+      setGameState("grading");
+    }
   };
 
-  const handlePlayAgain = () => {
+  const handlePlayAgain = async () => {
     if (selectedGrade) {
-      const test = generateTest(selectedGrade, undefined, country?.code);
-      setQuestions(test);
-      setAnswers(new Array(test.length).fill(null));
-      setCountdown(3);
-      setElapsedTime(0);
-      setGradingIndex(-1);
-      setGradeResult(null);
-      setSaved(false);
-      setCardRarity(null);
-      setGameState("countdown");
+      // Re-use handleGradeSelect for consistency
+      await handleGradeSelect(selectedGrade);
     }
   };
 
@@ -780,18 +860,18 @@ export default function MathTestPage() {
               >
                 <motion.button
                   onClick={handleSubmit}
-                  disabled={!allAnswered}
+                  disabled={!allAnswered || submitting}
                   className={`w-full max-w-lg mx-auto block py-4 rounded-2xl font-black text-lg tracking-wider transition-all ${
-                    allAnswered
+                    allAnswered && !submitting
                       ? "bg-gray-800 text-white shadow-lg"
                       : "bg-gray-300 text-gray-500 cursor-not-allowed"
                   }`}
-                  whileHover={allAnswered ? { scale: 1.02 } : undefined}
-                  whileTap={allAnswered ? { scale: 0.98 } : undefined}
+                  whileHover={allAnswered && !submitting ? { scale: 1.02 } : undefined}
+                  whileTap={allAnswered && !submitting ? { scale: 0.98 } : undefined}
                 >
                   <div className="flex items-center justify-center gap-2">
                     <Send size={20} />
-                    {ui?.submit || "BEADOM!"}
+                    {submitting ? "Értékelés..." : (ui?.submit || "BEADOM!")}
                   </div>
                 </motion.button>
               </div>
@@ -852,6 +932,11 @@ export default function MathTestPage() {
               {country?.gradeLabel(selectedGrade!) || `${selectedGrade}. osztály`} &bull;{" "}
               {Math.floor(elapsedTime / 60)}:{(elapsedTime % 60).toString().padStart(2, "0")}
             </p>
+            {serverResult && serverResult.stars_earned > 0 && (
+              <p className="text-yellow-400 text-sm mt-2 font-bold">
+                +{serverResult.stars_earned} star &bull; +{serverResult.xp_earned} XP
+              </p>
+            )}
           </motion.div>
 
           {/* Buttons */}

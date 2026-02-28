@@ -625,6 +625,86 @@ export function generateTest(grade: number, period?: number, countryCode?: strin
   return shuffleArray(questions);
 }
 
+// ─── TEST GENERATION WITH METADATA (for Supabase integration) ─────
+
+export interface TestWithMeta {
+  questions: MathQuestion[];
+  generatorKeys: string[];
+}
+
+// Generator name lookup maps
+const GEN_MAPS: Record<number, Record<string, Generator>> = {
+  1: G1, 2: G2, 3: G3, 4: G4, 5: G5, 6: G6, 7: G7, 8: G8,
+};
+
+function findGenKey(gen: Generator, grade: number): string {
+  const genMap = GEN_MAPS[grade];
+  if (genMap) {
+    for (const [key, fn] of Object.entries(genMap)) {
+      if (fn === gen) return key;
+    }
+  }
+  // Check adjacent grades (for review generators from previous grade)
+  for (let g = grade - 1; g >= 1; g--) {
+    const map = GEN_MAPS[g];
+    if (map) {
+      for (const [key, fn] of Object.entries(map)) {
+        if (fn === gen) return key;
+      }
+    }
+  }
+  return "unknown";
+}
+
+export function generateTestWithMeta(grade: number, period?: number, countryCode?: string): TestWithMeta {
+  const cc = countryCode || "HU";
+  const p = period ?? getPeriod();
+  const topics = CURRICULUM[grade]?.[p];
+  if (!topics) return { questions: [], generatorKeys: [] };
+
+  const questions: MathQuestion[] = [];
+  const genKeys: string[] = [];
+  const usedQuestions = new Set<string>();
+  const currentCount = Math.ceil(TOTAL_QUESTIONS * 0.7);
+  const reviewCount = TOTAL_QUESTIONS - currentCount;
+
+  function addUnique(gen: Generator, maxAttempts = 15): boolean {
+    for (let attempt = 0; attempt < maxAttempts; attempt++) {
+      const question = gen(cc);
+      const key = question.question;
+      if (!usedQuestions.has(key)) {
+        usedQuestions.add(key);
+        questions.push(question);
+        genKeys.push(findGenKey(gen, grade));
+        return true;
+      }
+    }
+    return false;
+  }
+
+  const currentGens = topics.current;
+  for (let i = 0; i < currentCount; i++) {
+    addUnique(currentGens[i % currentGens.length]);
+  }
+
+  const reviewGens = topics.review.length > 0 ? topics.review : currentGens;
+  for (let i = 0; i < reviewCount; i++) {
+    addUnique(reviewGens[i % reviewGens.length]);
+  }
+
+  // Shuffle both arrays in the same order
+  const indices = Array.from({ length: questions.length }, (_, i) => i);
+  for (let i = indices.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [indices[i], indices[j]] = [indices[j], indices[i]];
+  }
+
+  return {
+    questions: indices.map(i => questions[i]),
+    generatorKeys: indices.map(i => genKeys[i]),
+  };
+}
+
 // ─── GRADING (uses locale system) ─────────────────────────────
 
 import { getCountryByCode, getSavedCountry, type MarkResult } from "./mathLocale";
