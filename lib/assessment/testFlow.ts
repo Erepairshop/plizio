@@ -155,6 +155,53 @@ export async function startTest(testId: string): Promise<void> {
   }
 }
 
+// ─── VALIDATE KLASSENARBEIT DATA ─────────────────────────────
+// Ensures Klassenarbeit metadata is valid before sending to server
+
+function validateKlassenarbeitMetadata(data: KlassenarbeitMetadata): void {
+  if (!data) return; // null is allowed
+
+  // Validate required fields
+  if (!Array.isArray(data.sectionResults)) {
+    throw new Error("Invalid klassenarbeit_data: sectionResults must be array");
+  }
+
+  if (typeof data.totalPoints !== "number" || data.totalPoints < 0) {
+    throw new Error("Invalid klassenarbeit_data: totalPoints must be non-negative number");
+  }
+
+  if (typeof data.maxTotalPoints !== "number" || data.maxTotalPoints <= 0) {
+    throw new Error("Invalid klassenarbeit_data: maxTotalPoints must be positive number");
+  }
+
+  if (typeof data.percentage !== "number" || data.percentage < 0 || data.percentage > 100) {
+    throw new Error("Invalid klassenarbeit_data: percentage must be 0-100");
+  }
+
+  if (!data.note || typeof data.note.value !== "number" || typeof data.note.label !== "string") {
+    throw new Error("Invalid klassenarbeit_data: note must have value and label");
+  }
+
+  if (data.note.value < 1 || data.note.value > 6) {
+    throw new Error("Invalid klassenarbeit_data: note.value must be 1-6");
+  }
+
+  if (typeof data.starsEarned !== "number" || data.starsEarned < 0) {
+    throw new Error("Invalid klassenarbeit_data: starsEarned must be non-negative number");
+  }
+
+  // Validate consistency
+  if (data.maxTotalPoints > 0) {
+    const expectedPercentage = (data.totalPoints / data.maxTotalPoints) * 100;
+    const diff = Math.abs(expectedPercentage - data.percentage);
+    if (diff > 1) {
+      console.warn(
+        `Klassenarbeit percentage mismatch: expected ${expectedPercentage.toFixed(1)}%, got ${data.percentage}%`
+      );
+    }
+  }
+}
+
 // ─── SUBMIT TEST ─────────────────────────────
 // Sends answers to server for grading. Server reads solutions from DB.
 // For Klassenarbeit: includes section breakdown and Note data.
@@ -165,6 +212,11 @@ export async function submitTest(
   answers: SubmitAnswer[],
   klassenarbeitData?: KlassenarbeitMetadata,
 ): Promise<TestResultFromServer> {
+  // Validate data before sending
+  if (klassenarbeitData) {
+    validateKlassenarbeitMetadata(klassenarbeitData);
+  }
+
   const { data, error } = await supabase.rpc("submit_test", {
     p_test_id: testId,
     p_answers: answers,
@@ -173,6 +225,23 @@ export async function submitTest(
 
   if (error) {
     throw new Error(`Failed to submit test: ${error.message}`);
+  }
+
+  // Validate response before returning
+  if (!data || typeof data !== "object") {
+    throw new Error("Invalid response from server: expected object");
+  }
+
+  if (typeof data.score !== "number" || data.score < 0) {
+    throw new Error("Invalid server response: score must be non-negative number");
+  }
+
+  if (typeof data.max_score !== "number" || data.max_score <= 0) {
+    throw new Error("Invalid server response: max_score must be positive number");
+  }
+
+  if (typeof data.stars_earned !== "number" || data.stars_earned < 0) {
+    throw new Error("Invalid server response: stars_earned must be non-negative number");
   }
 
   return data as TestResultFromServer;
