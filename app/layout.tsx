@@ -85,6 +85,12 @@ export default function RootLayout({
   return (
     <html lang="hu">
       <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-BR2WCCRFG0" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-BR2WCCRFG0');`,
+          }}
+        />
         <link rel="apple-touch-icon" href="/icon-192.png" />
         <meta name="mobile-web-app-capable" content="yes" />
       </head>
