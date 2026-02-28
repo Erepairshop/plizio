@@ -65,6 +65,7 @@ import KlassenarbeitHeader from "@/components/KlassenarbeitHeader";
 import ExamResultsDisplay from "@/components/ExamResultsDisplay";
 import MathQuestionDisplay from "@/components/MathQuestionDisplay";
 import { convertToExtendedQuestion, isVisualQuestion } from "@/lib/mathQuestionUtils";
+import ModernPaperTest from "@/components/ModernPaperTest";
 import { getActiveSkin, SKINS } from "@/lib/skins";
 
 // ─── 3D FLOATING BACKGROUND ─────────────────────────────
@@ -1238,18 +1239,17 @@ export default function MathTestPage() {
 
     return (
       <>
-        <main className="min-h-screen bg-bg">
-        <div
-          className="min-h-screen"
-          style={{
-            background: "#f5f0e8",
-            backgroundImage: `
-              linear-gradient(rgba(180, 210, 240, 0.05) 1px, transparent 1px),
-              linear-gradient(90deg, rgba(180, 210, 240, 0.05) 1px, transparent 1px)
-            `,
-            backgroundSize: "20px 20px",
-          }}
+        <ModernPaperTest
+          title={ui?.title || "MATEMATIKA DOLGOZAT"}
+          gradeLabel={`${selectedGrade}. ${ui?.classLabel || "Osztály"}`}
+          date={new Date().toISOString()}
+          timeLeft={testType === "klassenarbeit" ? klassenarbeitTimeLeft : elapsedTime}
+          solved={answers.filter((a) => a !== null).length}
+          total={questions.length}
+          isGrading={isGrading}
+          onExit={() => setGameState("grade-select")}
         >
+          <div>
           <div className="relative max-w-lg mx-auto" style={{ borderLeft: "2px solid rgba(220, 100, 100, 0.4)" }}>
             <div className="px-4 sm:px-6 py-4 pb-32">
               {/* Header */}
@@ -1500,9 +1500,17 @@ export default function MathTestPage() {
             )}
           </div>
         </div>
-        </main>
-        <div className="fixed bottom-6 right-4 z-10 pointer-events-auto" style={{ paddingBottom: "env(safe-area-inset-bottom)" }}>
-          <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
+        </ModernPaperTest>
+        <div
+          className="fixed bottom-0 right-0 z-10 pointer-events-none"
+          style={{
+            paddingBottom: "max(160px, calc(160px + env(safe-area-inset-bottom)))",
+            paddingRight: "max(20px, env(safe-area-inset-right))",
+          }}
+        >
+          <div className="w-48 h-48">
+            <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
+          </div>
         </div>
       </>
     );
