@@ -32,6 +32,8 @@ export interface MathQuestion {
   options: number[];
   topic: string;
   isWordProblem: boolean;
+  section?: string;
+  maxPoints?: number;
 }
 
 // ─── HELPERS ─────────────────────────────
@@ -703,6 +705,136 @@ export function generateTestWithMeta(grade: number, period?: number, countryCode
     questions: indices.map(i => questions[i]),
     generatorKeys: indices.map(i => genKeys[i]),
   };
+}
+
+// ─── KLASSENARBEIT GENERATION ─────────────────────────────
+// Structured exam with sections: Kopfrechnen, Schriftlich, Sachaufgaben, Geometrie, Bonus
+
+interface KlassenarbeitSection {
+  name: string;
+  generators: Generator[];
+  questionCount: number;
+  pointsPerQuestion: number;
+}
+
+const KLASSENARBEIT_SECTIONS: Record<number, KlassenarbeitSection[]> = {
+  5: [
+    {
+      name: "Kopfrechnen",
+      generators: [G5.orderOfOps, G5.orderOfOpsB, G5.orderOfOpsC, G5.percent10, G5.percent50],
+      questionCount: 5,
+      pointsPerQuestion: 1,
+    },
+    {
+      name: "Schriftlich rechnen",
+      generators: [G5.fractionAdd, G5.fractionSub, G5.percent25, G5.orderOfOpsD],
+      questionCount: 4,
+      pointsPerQuestion: 2,
+    },
+    {
+      name: "Sachaufgaben",
+      generators: [G5.wordDiscount, G5.wordOps, G5.roundHundreds],
+      questionCount: 3,
+      pointsPerQuestion: 3,
+    },
+    {
+      name: "Geometrie",
+      generators: [G5.geoRectArea, G5.geoRectPerimeter, G5.geoSquarePerimeter],
+      questionCount: 2,
+      pointsPerQuestion: 2,
+    },
+    {
+      name: "Bonus",
+      generators: [G5.orderOfOpsD, G5.largeNumbers],
+      questionCount: 1,
+      pointsPerQuestion: 3,
+    },
+  ],
+};
+
+export interface KlassenarbeitWithMeta {
+  questions: MathQuestion[];
+  generatorKeys: string[];
+  sections: { name: string; startIndex: number; count: number; maxPoints: number }[];
+}
+
+export function generateKlassenarbeit(
+  grade: number,
+  period?: number,
+  countryCode?: string,
+): KlassenarbeitWithMeta {
+  const cc = countryCode || "HU";
+  const sections = KLASSENARBEIT_SECTIONS[grade];
+  if (!sections) {
+    // Fallback to practice test for unsupported grades
+    const { questions, generatorKeys } = generateTestWithMeta(grade, period, cc);
+    return {
+      questions,
+      generatorKeys,
+      sections: [{ name: "Aufgaben", startIndex: 0, count: questions.length, maxPoints: questions.length }],
+    };
+  }
+
+  const allQuestions: MathQuestion[] = [];
+  const allGenKeys: string[] = [];
+  const sectionMeta: KlassenarbeitWithMeta["sections"] = [];
+  const usedQuestions = new Set<string>();
+
+  for (const section of sections) {
+    const startIndex = allQuestions.length;
+    let generated = 0;
+
+    for (let i = 0; i < section.questionCount; i++) {
+      const gen = section.generators[i % section.generators.length];
+      let added = false;
+
+      for (let attempt = 0; attempt < 15; attempt++) {
+        const question = gen(cc);
+        const key = question.question;
+        if (!usedQuestions.has(key)) {
+          usedQuestions.add(key);
+          question.section = section.name;
+          question.maxPoints = section.pointsPerQuestion;
+          allQuestions.push(question);
+          allGenKeys.push(findGenKey(gen, grade));
+          generated++;
+          added = true;
+          break;
+        }
+      }
+
+      // If we couldn't generate a unique question, try another generator from the section
+      if (!added) {
+        for (const altGen of section.generators) {
+          if (altGen === gen) continue;
+          for (let attempt = 0; attempt < 10; attempt++) {
+            const question = altGen(cc);
+            const key = question.question;
+            if (!usedQuestions.has(key)) {
+              usedQuestions.add(key);
+              question.section = section.name;
+              question.maxPoints = section.pointsPerQuestion;
+              allQuestions.push(question);
+              allGenKeys.push(findGenKey(altGen, grade));
+              generated++;
+              added = true;
+              break;
+            }
+          }
+          if (added) break;
+        }
+      }
+    }
+
+    sectionMeta.push({
+      name: section.name,
+      startIndex,
+      count: generated,
+      maxPoints: generated * section.pointsPerQuestion,
+    });
+  }
+
+  return { questions: allQuestions, generatorKeys: allGenKeys, sections: sectionMeta };
 }
 
 // ─── GRADING (uses locale system) ─────────────────────────────

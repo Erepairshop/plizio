@@ -3,7 +3,7 @@
 // Frontend generates questions → sends to DB → server grades.
 
 import { supabase } from "../supabase/client";
-import { generateTestWithMeta, type MathQuestion } from "../mathCurriculum";
+import { generateTestWithMeta, generateKlassenarbeit, type MathQuestion } from "../mathCurriculum";
 import { mapTestToItemInserts, type ItemInsert } from "./itemAdapter";
 
 // ─── TYPES ─────────────────────────────

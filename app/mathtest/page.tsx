@@ -7,6 +7,7 @@ import * as THREE from "three";
 import {
   Calculator, ArrowLeft, Check, X as XIcon,
   RotateCcw, Home, Send, BookOpen, Sparkles, Clock,
+  FileEdit, ClipboardList,
 } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
@@ -16,6 +17,7 @@ import { incrementTotalGames, incrementPerfectScores } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
 import {
   generateTest,
+  generateKlassenarbeit,
   calculateGradeResult,
   getMathGrade,
   saveMathGrade,
@@ -24,6 +26,7 @@ import {
   getPeriodLabel,
   type MathQuestion,
   type GradeResult,
+  type KlassenarbeitWithMeta,
 } from "@/lib/mathCurriculum";
 import {
   COUNTRIES,
@@ -272,7 +275,8 @@ function updateStreak(): number {
 
 // ─── MAIN COMPONENT ─────────────────────────────
 
-type GameState = "country-select" | "grade-select" | "countdown" | "playing" | "grading" | "result" | "reward";
+type GameState = "country-select" | "grade-select" | "test-type-select" | "countdown" | "playing" | "grading" | "result" | "reward";
+type TestType = "practice" | "klassenarbeit";
 
 export default function MathTestPage() {
   const router = useRouter();
@@ -280,6 +284,8 @@ export default function MathTestPage() {
   const [country, setCountry] = useState<CountryConfig | null>(null);
   const [selectedGrade, setSelectedGrade] = useState<number | null>(null);
   const [previousGrade, setPreviousGrade] = useState<number | null>(null);
+  const [testType, setTestType] = useState<TestType>("practice");
+  const [klassenarbeitSections, setKlassenarbeitSections] = useState<KlassenarbeitWithMeta["sections"]>([]);
   const [countdown, setCountdown] = useState(3);
   const [questions, setQuestions] = useState<MathQuestion[]>([]);
   const [answers, setAnswers] = useState<(number | null)[]>([]);
@@ -351,12 +357,23 @@ export default function MathTestPage() {
       const t = setTimeout(() => setGradingIndex((i) => i + 1), 400);
       return () => clearTimeout(t);
     } else {
-      // All graded
-      const score = answers.reduce<number>(
-        (acc, a, i) => acc + (a === questions[i].correctAnswer ? 1 : 0),
-        0,
-      );
-      const result = calculateGradeResult(score, questions.length);
+      // All graded - calculate score based on test type
+      let score: number;
+      let total: number;
+      if (testType === "klassenarbeit") {
+        score = answers.reduce<number>(
+          (acc, a, i) => acc + (a === questions[i].correctAnswer ? (questions[i].maxPoints || 1) : 0),
+          0,
+        );
+        total = questions.reduce<number>((acc, q) => acc + (q.maxPoints || 1), 0);
+      } else {
+        score = answers.reduce<number>(
+          (acc, a, i) => acc + (a === questions[i].correctAnswer ? 1 : 0),
+          0,
+        );
+        total = questions.length;
+      }
+      const result = calculateGradeResult(score, total);
       setGradeResult(result);
       setTimeout(() => setGameState("result"), 600);
     }
@@ -393,9 +410,14 @@ export default function MathTestPage() {
     if (gradeResult.percentage === 100) incrementPerfectScores();
   }, [gameState, saved, gradeResult, selectedGrade, questions, answers]);
 
-  const handleGradeSelect = async (grade: number) => {
+  const handleGradeSelect = (grade: number) => {
     setSelectedGrade(grade);
     saveMathGrade(grade);
+    setGameState("test-type-select");
+  };
+
+  const startTest = async (grade: number, type: TestType) => {
+    setTestType(type);
     setCountdown(3);
     setElapsedTime(0);
     setGradingIndex(-1);
@@ -404,12 +426,26 @@ export default function MathTestPage() {
     setSaved(false);
     setCardRarity(null);
     setTestSession(null);
+    setKlassenarbeitSections([]);
     answerTimesRef.current = [];
     lastAnswerTimeRef.current = 0;
 
+    const cc = country?.code || "HU";
+
+    if (type === "klassenarbeit") {
+      // Generate structured exam with sections
+      const result = generateKlassenarbeit(grade, undefined, cc);
+      setQuestions(result.questions);
+      setAnswers(new Array(result.questions.length).fill(null));
+      setKlassenarbeitSections(result.sections);
+      answerTimesRef.current = new Array(result.questions.length).fill(0);
+      setGameState("countdown");
+      return;
+    }
+
+    // Practice mode
     if (useSupabase) {
       try {
-        const cc = country?.code || "HU";
         const bpId = await findBlueprint(cc, grade, "practice");
         const session = await createSupabaseTest(grade, cc, bpId);
         setTestSession(session);
@@ -420,13 +456,13 @@ export default function MathTestPage() {
       } catch (err) {
         console.error("[Supabase] createTest failed:", err);
         // Fallback to local generation if Supabase fails
-        const test = generateTest(grade, undefined, country?.code);
+        const test = generateTest(grade, undefined, cc);
         setQuestions(test);
         setAnswers(new Array(test.length).fill(null));
         setGameState("countdown");
       }
     } else {
-      const test = generateTest(grade, undefined, country?.code);
+      const test = generateTest(grade, undefined, cc);
       setQuestions(test);
       setAnswers(new Array(test.length).fill(null));
       setGameState("countdown");
@@ -486,8 +522,7 @@ export default function MathTestPage() {
 
   const handlePlayAgain = async () => {
     if (selectedGrade) {
-      // Re-use handleGradeSelect for consistency
-      await handleGradeSelect(selectedGrade);
+      await startTest(selectedGrade, testType);
     }
   };
 
@@ -684,6 +719,85 @@ export default function MathTestPage() {
     );
   }
 
+  // ─── TEST TYPE SELECT SCREEN ─────────────────────────────
+
+  if (gameState === "test-type-select" && country && selectedGrade) {
+    return (
+      <main className="min-h-screen relative overflow-hidden bg-bg">
+        <Scene3D />
+        <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4 py-8 gap-8">
+          {/* Back to grade select */}
+          <motion.div className="absolute top-6 left-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            <motion.button
+              onClick={() => setGameState("grade-select")}
+              className="p-2 rounded-xl bg-white/5 border border-white/10"
+              whileHover={{ scale: 1.1, backgroundColor: "rgba(255,255,255,0.1)" }}
+              whileTap={{ scale: 0.9 }}
+            >
+              <ArrowLeft size={20} className="text-white/60" />
+            </motion.button>
+          </motion.div>
+
+          {/* Title */}
+          <motion.div
+            className="flex flex-col items-center gap-3"
+            initial={{ opacity: 0, y: -20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6 }}
+          >
+            <h1
+              className="text-2xl font-black text-white tracking-wider"
+              style={{ textShadow: "0 0 20px rgba(255,215,0,0.3)" }}
+            >
+              {country.gradeLabel(selectedGrade)}
+            </h1>
+            <p className="text-white/40 text-sm font-medium">{getPeriodLabel(getPeriod(), country.code)}</p>
+          </motion.div>
+
+          {/* Test type options */}
+          <motion.div
+            className="flex flex-col gap-4 w-full max-w-xs"
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.3 }}
+          >
+            {/* Practice */}
+            <motion.button
+              onClick={() => startTest(selectedGrade, "practice")}
+              className="flex items-center gap-4 px-5 py-5 rounded-2xl border border-white/10 bg-white/5 text-left"
+              whileHover={{ scale: 1.03, backgroundColor: "rgba(0,212,255,0.08)", borderColor: "rgba(0,212,255,0.3)" }}
+              whileTap={{ scale: 0.97 }}
+            >
+              <div className="p-3 rounded-xl" style={{ background: "rgba(0,212,255,0.15)" }}>
+                <FileEdit size={24} className="text-cyan-400" />
+              </div>
+              <div>
+                <p className="text-white font-bold text-base">Practice</p>
+                <p className="text-white/40 text-xs mt-0.5">10 kérdés &bull; ~5 perc</p>
+              </div>
+            </motion.button>
+
+            {/* Klassenarbeit */}
+            <motion.button
+              onClick={() => startTest(selectedGrade, "klassenarbeit")}
+              className="flex items-center gap-4 px-5 py-5 rounded-2xl border border-white/10 bg-white/5 text-left"
+              whileHover={{ scale: 1.03, backgroundColor: "rgba(255,215,0,0.08)", borderColor: "rgba(255,215,0,0.3)" }}
+              whileTap={{ scale: 0.97 }}
+            >
+              <div className="p-3 rounded-xl" style={{ background: "rgba(255,215,0,0.15)" }}>
+                <ClipboardList size={24} className="text-gold" />
+              </div>
+              <div>
+                <p className="text-white font-bold text-base">Klassenarbeit</p>
+                <p className="text-white/40 text-xs mt-0.5">15 kérdés &bull; 5 szekció &bull; ~20 perc</p>
+              </div>
+            </motion.button>
+          </motion.div>
+        </div>
+      </main>
+    );
+  }
+
   // ─── COUNTDOWN ─────────────────────────────
 
   if (gameState === "countdown") {
@@ -734,12 +848,17 @@ export default function MathTestPage() {
                 animate={{ opacity: 1 }}
               >
                 <h1 className="text-lg font-black text-gray-800 tracking-wide mb-2">
-                  📐 {ui?.title || "MATEMATIKA DOLGOZAT"}
+                  {testType === "klassenarbeit" ? "📝 KLASSENARBEIT" : `📐 ${ui?.title || "MATEMATIKA DOLGOZAT"}`}
                 </h1>
                 <div className="flex justify-between text-xs text-gray-500 font-mono">
                   <span>{ui?.classLabel || "Osztály"}: {selectedGrade}.</span>
                   <span>{new Date().toLocaleDateString(country?.code === "DE" ? "de-DE" : country?.code === "US" ? "en-US" : country?.code === "GB" ? "en-GB" : country?.code === "RO" ? "ro-RO" : "hu-HU")}</span>
                 </div>
+                {testType === "klassenarbeit" && klassenarbeitSections.length > 0 && (
+                  <div className="text-xs text-gray-400 mt-1 font-mono">
+                    Max: {klassenarbeitSections.reduce((s, sec) => s + sec.maxPoints, 0)} pont
+                  </div>
+                )}
                 {!isGrading && (
                   <div className="flex items-center gap-1 mt-2 text-xs text-gray-400">
                     <Clock size={12} />
@@ -766,6 +885,11 @@ export default function MathTestPage() {
                 const isGraded = isGrading && qi < gradingIndex;
                 const isCorrect = answers[qi] === question.correctAnswer;
 
+                // Section header for Klassenarbeit
+                const sectionHeader = testType === "klassenarbeit"
+                  ? klassenarbeitSections.find((s) => s.startIndex === qi)
+                  : null;
+
                 return (
                   <motion.div
                     key={qi}
@@ -774,6 +898,26 @@ export default function MathTestPage() {
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: isGrading ? 0 : qi * 0.05 }}
                   >
+                    {/* Section header */}
+                    {sectionHeader && (
+                      <div
+                        className="mb-4 -mx-4 sm:-mx-6 px-4 sm:px-6 py-2"
+                        style={{
+                          background: "rgba(0,0,0,0.04)",
+                          borderTop: qi > 0 ? "2px solid rgba(0,0,0,0.08)" : undefined,
+                          borderBottom: "1px solid rgba(0,0,0,0.06)",
+                        }}
+                      >
+                        <div className="flex justify-between items-center">
+                          <span className="text-sm font-black text-gray-700 tracking-wide">
+                            {sectionHeader.name}
+                          </span>
+                          <span className="text-xs text-gray-400 font-mono">
+                            {sectionHeader.maxPoints} P.
+                          </span>
+                        </div>
+                      </div>
+                    )}
                     {/* Question */}
                     <div className="flex gap-2 mb-3">
                       <span className="flex-shrink-0 w-7 h-7 rounded-full bg-gray-800 text-white text-xs font-bold flex items-center justify-center">
@@ -940,6 +1084,45 @@ export default function MathTestPage() {
               </p>
             )}
           </motion.div>
+
+          {/* Klassenarbeit section breakdown */}
+          {testType === "klassenarbeit" && klassenarbeitSections.length > 0 && (
+            <motion.div
+              className="w-full rounded-xl border border-white/10 bg-white/5 overflow-hidden"
+              initial={{ opacity: 0, y: 10 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.6 }}
+            >
+              {klassenarbeitSections.map((sec) => {
+                const sectionScore = questions
+                  .slice(sec.startIndex, sec.startIndex + sec.count)
+                  .reduce((acc, q, i) => {
+                    const qi = sec.startIndex + i;
+                    return acc + (answers[qi] === q.correctAnswer ? (q.maxPoints || 1) : 0);
+                  }, 0);
+                const pct = sec.maxPoints > 0 ? Math.round((sectionScore / sec.maxPoints) * 100) : 0;
+                const barColor = pct >= 80 ? "#22c55e" : pct >= 50 ? "#eab308" : "#ef4444";
+
+                return (
+                  <div key={sec.name} className="px-4 py-2.5 border-b border-white/5 last:border-b-0">
+                    <div className="flex justify-between items-center mb-1">
+                      <span className="text-xs font-bold text-white/60">{sec.name}</span>
+                      <span className="text-xs font-mono text-white/40">{sectionScore}/{sec.maxPoints}</span>
+                    </div>
+                    <div className="h-1.5 rounded-full bg-white/10 overflow-hidden">
+                      <motion.div
+                        className="h-full rounded-full"
+                        style={{ background: barColor }}
+                        initial={{ width: 0 }}
+                        animate={{ width: `${pct}%` }}
+                        transition={{ delay: 0.8, duration: 0.6 }}
+                      />
+                    </div>
+                  </div>
+                );
+              })}
+            </motion.div>
+          )}
 
           {/* Buttons */}
           <motion.div
