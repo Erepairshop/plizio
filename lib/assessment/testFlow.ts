@@ -21,6 +21,24 @@ export interface SubmitAnswer {
   time_spent_sec: number;
 }
 
+export interface KlassenarbeitMetadata {
+  sectionResults: Array<{
+    name: string;
+    correct: number;
+    total: number;
+    maxPoints: number;
+    earnedPoints: number;
+  }>;
+  totalPoints: number;
+  maxTotalPoints: number;
+  percentage: number;
+  note: {
+    value: number;
+    label: string;
+  };
+  starsEarned: number;
+}
+
 export interface TestResultFromServer {
   test_id: string;
   score: number;
@@ -139,15 +157,18 @@ export async function startTest(testId: string): Promise<void> {
 
 // ─── SUBMIT TEST ─────────────────────────────
 // Sends answers to server for grading. Server reads solutions from DB.
+// For Klassenarbeit: includes section breakdown and Note data.
 // Returns graded results.
 
 export async function submitTest(
   testId: string,
   answers: SubmitAnswer[],
+  klassenarbeitData?: KlassenarbeitMetadata,
 ): Promise<TestResultFromServer> {
   const { data, error } = await supabase.rpc("submit_test", {
     p_test_id: testId,
     p_answers: answers,
+    p_klassenarbeit_data: klassenarbeitData || null,
   });
 
   if (error) {

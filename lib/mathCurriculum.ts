@@ -32,6 +32,8 @@ export interface MathQuestion {
   options: number[];
   topic: string;
   isWordProblem: boolean;
+  section?: string;      // Klassenarbeit szekció (Kopfrechnen, Schriftlich, Sachaufgaben, Geometrie, Bonus)
+  maxPoints?: number;    // Max pont az adott kérdésre
 }
 
 // ─── HELPERS ─────────────────────────────
@@ -625,6 +627,132 @@ export function generateTest(grade: number, period?: number, countryCode?: strin
   return shuffleArray(questions);
 }
 
+// ─── KLASSENARBEIT GENERATION (School Exam Format) ─────────────────────────────
+// Struktura: Kopfrechnen, Schriftlich, Sachaufgaben, Geometrie, Bonus
+// Csak Grade 5 támogatott jelenleg
+
+interface SectionConfig {
+  name: string;
+  questionCount: number;
+  pointsPerQuestion: number;
+  generators: Generator[];
+}
+
+export function generateKlassenarbeit(grade: number, period?: number, countryCode?: string): MathQuestion[] {
+  // Jelenleg csak Grade 5
+  if (grade !== 5) return [];
+
+  const cc = countryCode || "HU";
+  const p = period ?? getPeriod();
+  const topics = CURRICULUM[grade]?.[p];
+  if (!topics) return [];
+
+  const questions: MathQuestion[] = [];
+  const usedQuestions = new Set<string>();
+
+  // Szekciók definiálása
+  const sections: Record<string, SectionConfig> = {
+    kopfrechnen: {
+      name: "Kopfrechnen",
+      questionCount: 2,
+      pointsPerQuestion: 1,
+      generators: [G5.orderOfOps, G5.orderOfOpsB, G5.percent10],
+    },
+    schriftlich: {
+      name: "Schriftlich",
+      questionCount: 3,
+      pointsPerQuestion: 2,
+      generators: [G5.largeNumbers, G5.roundHundreds, G5.fractionAdd, G5.fractionSub],
+    },
+    sachaufgaben: {
+      name: "Sachaufgaben",
+      questionCount: 2,
+      pointsPerQuestion: 3,
+      generators: [G5.wordDiscount, G5.wordOps],
+    },
+    geometrie: {
+      name: "Geometrie",
+      questionCount: 2,
+      pointsPerQuestion: 2,
+      generators: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter],
+    },
+    bonus: {
+      name: "Bonus",
+      questionCount: 1,
+      pointsPerQuestion: 1,
+      generators: [G5.percent25, G5.percent50],
+    },
+  };
+
+  function addUnique(gen: Generator, section: string, points: number, maxAttempts = 15): boolean {
+    for (let attempt = 0; attempt < maxAttempts; attempt++) {
+      const question = gen(cc);
+      const key = question.question;
+      if (!usedQuestions.has(key)) {
+        usedQuestions.add(key);
+        // Kibővítjük a question-t section és maxPoints-tal
+        const extendedQuestion: MathQuestion = {
+          ...question,
+          section,
+          maxPoints: points,
+        };
+        questions.push(extendedQuestion);
+        return true;
+      }
+    }
+    return false;
+  }
+
+  // Generálunk a szekciók szerint
+  for (const [sectionKey, config] of Object.entries(sections)) {
+    for (let i = 0; i < config.questionCount; i++) {
+      const gen = config.generators[i % config.generators.length];
+      addUnique(gen, config.name, config.pointsPerQuestion);
+    }
+  }
+
+  return shuffleArray(questions);
+}
+
+// ─── KLASSENARBEIT FROM QUESTION BANK ─────────────────────────────
+// Asynchrón verzió, amely Supabase-ből tölti a kérdéseket
+// Fallback: Ha nincs adat a Question Bank-ben, a lokális generátor-alapú verzióra esik vissza
+
+export async function generateKlassenarbeitFromBank(
+  grade: number,
+): Promise<MathQuestion[]> {
+  try {
+    // Import dinamikus, hogy elkerüljük a circular dependency-t
+    const { fetchQuestionsBySections } = await import("./assessment/questionBank");
+
+    // Szekciók és mennyiségek
+    const sections: Record<string, number> = {
+      Kopfrechnen: 2,
+      Schriftlich: 3,
+      Sachaufgaben: 2,
+      Geometrie: 2,
+      Bonus: 1,
+    };
+
+    const questions = await fetchQuestionsBySections(grade, sections);
+
+    // Ha nem sikerült betölteni (nincs adat), fallback
+    if (questions.length === 0) {
+      console.warn(
+        "[Klassenarbeit] No questions in Question Bank, falling back to generators",
+      );
+      return generateKlassenarbeit(grade);
+    }
+
+    // Shuffle az eredményt a véletlenszerűség érdekében
+    return shuffleArray(questions);
+  } catch (error) {
+    console.error("[Klassenarbeit] Failed to fetch from Question Bank:", error);
+    // Fallback: lokális generátor-alapú verzió
+    return generateKlassenarbeit(grade);
+  }
+}
+
 // ─── TEST GENERATION WITH METADATA (for Supabase integration) ─────
 
 export interface TestWithMeta {
@@ -722,6 +850,105 @@ export function calculateGradeResult(score: number, total: number): GradeResult 
   const country = getCountryByCode(countryCode);
   const mark = country.calculateMark(percentage);
   return { score, total, percentage, mark };
+}
+
+// ─── KLASSENARBEIT GRADING ─────────────────────────────
+
+export interface Note {
+  value: number;      // 1-6
+  label: string;      // Sehr gut, Gut, stb.
+  color: string;      // Tailwind color
+  emoji: string;      // Visual emoji
+}
+
+export interface SectionResult {
+  name: string;
+  correct: number;
+  total: number;
+  maxPoints: number;
+  earnedPoints: number;
+}
+
+export interface KlassenarbeitResult {
+  sectionResults: SectionResult[];
+  totalPoints: number;
+  maxTotalPoints: number;
+  percentage: number;
+  note: Note;
+  starsEarned: number;
+}
+
+export function calculateNote(percentage: number): Note {
+  if (percentage >= 90) return { value: 1, label: "Sehr gut", color: "#22C55E", emoji: "🌟" };
+  if (percentage >= 80) return { value: 2, label: "Gut", color: "#3B82F6", emoji: "✨" };
+  if (percentage >= 65) return { value: 3, label: "Befriedigend", color: "#F59E0B", emoji: "👍" };
+  if (percentage >= 50) return { value: 4, label: "Ausreichend", color: "#F97316", emoji: "✓" };
+  if (percentage >= 30) return { value: 5, label: "Mangelhaft", color: "#EF4444", emoji: "⚠️" };
+  return { value: 6, label: "Ungenügend", color: "#7C3AED", emoji: "❌" };
+}
+
+export function getStarsForNote(note: Note): number {
+  switch (note.value) {
+    case 1: return 12;
+    case 2: return 10;
+    case 3: return 8;
+    case 4: return 5;
+    case 5:
+    case 6:
+    default: return 0;
+  }
+}
+
+export function calculateKlassenarbeitResult(
+  questions: MathQuestion[],
+  answers: (number | null)[]
+): KlassenarbeitResult {
+  const sectionMap = new Map<string, SectionResult>();
+
+  // Initialize section results
+  for (const q of questions) {
+    if (!q.section) continue;
+    if (!sectionMap.has(q.section)) {
+      sectionMap.set(q.section, {
+        name: q.section,
+        correct: 0,
+        total: 0,
+        maxPoints: 0,
+        earnedPoints: 0,
+      });
+    }
+  }
+
+  // Calculate scores
+  questions.forEach((q, i) => {
+    if (!q.section) return;
+    const section = sectionMap.get(q.section)!;
+    const isCorrect = answers[i] === q.correctAnswer;
+    const points = q.maxPoints || 0;
+
+    section.total += 1;
+    section.maxPoints += points;
+    if (isCorrect) {
+      section.correct += 1;
+      section.earnedPoints += points;
+    }
+  });
+
+  const sectionResults = Array.from(sectionMap.values());
+  const totalPoints = sectionResults.reduce((acc, s) => acc + s.earnedPoints, 0);
+  const maxTotalPoints = sectionResults.reduce((acc, s) => acc + s.maxPoints, 0);
+  const percentage = maxTotalPoints > 0 ? Math.round((totalPoints / maxTotalPoints) * 100) : 0;
+  const note = calculateNote(percentage);
+  const starsEarned = getStarsForNote(note);
+
+  return {
+    sectionResults,
+    totalPoints,
+    maxTotalPoints,
+    percentage,
+    note,
+    starsEarned,
+  };
 }
 
 // ─── STATS ─────────────────────────────
