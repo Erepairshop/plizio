@@ -322,7 +322,7 @@ export default function MathTestPage() {
     if (countdown <= 0) {
       // Mark test as started in Supabase
       if (useSupabase && testSession) {
-        startSupabaseTest(testSession.testId).catch(() => {});
+        startSupabaseTest(testSession.testId).catch((err) => console.error("[Supabase] startTest failed:", err));
       }
       lastAnswerTimeRef.current = 0;
       setGameState("playing");
@@ -417,7 +417,8 @@ export default function MathTestPage() {
         setAnswers(new Array(session.questions.length).fill(null));
         answerTimesRef.current = new Array(session.questions.length).fill(0);
         setGameState("countdown");
-      } catch {
+      } catch (err) {
+        console.error("[Supabase] createTest failed:", err);
         // Fallback to local generation if Supabase fails
         const test = generateTest(grade, undefined, country?.code);
         setQuestions(test);
@@ -469,7 +470,8 @@ export default function MathTestPage() {
 
         // Skip grading animation, go straight to result
         setGameState("result");
-      } catch {
+      } catch (err) {
+        console.error("[Supabase] submitTest failed:", err);
         // Fallback: grade locally if server fails
         setSubmitting(false);
         setGradingIndex(0);
