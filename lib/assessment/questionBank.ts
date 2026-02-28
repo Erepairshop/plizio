@@ -14,6 +14,9 @@ export interface QuestionBankRecord {
   solution: string;
   max_points: number;
   type: string;
+  options?: Array<{ text: string; isCorrect: boolean }> | null;
+  explanation?: string | null;
+  is_active: boolean;
   created_at: string;
 }
 
@@ -29,6 +32,7 @@ export async function fetchQuestionsBySection(
     .select("*")
     .eq("grade", grade)
     .eq("section", section)
+    .eq("is_active", true)
     .limit(limit);
 
   if (error) {
@@ -42,15 +46,27 @@ export async function fetchQuestionsBySection(
   }
 
   // Convert QuestionBankRecord to MathQuestion format
-  return data.map((record: QuestionBankRecord) => ({
-    question: record.question,
-    options: [], // Question bank stores solution, not options
-    correctAnswer: parseInt(record.solution, 10) || 0, // Parse solution as correct answer
-    topic: record.topic,
-    isWordProblem: record.type === "word_problem",
-    section: record.section,
-    maxPoints: record.max_points,
-  }));
+  return data.map((record: QuestionBankRecord) => {
+    // Parse options from JSONB if available
+    const parsedOptions = Array.isArray(record.options)
+      ? record.options.map(opt => {
+          if (typeof opt === 'object' && 'text' in opt) {
+            return parseFloat(opt.text) || 0;
+          }
+          return parseFloat(String(opt)) || 0;
+        })
+      : [];
+
+    return {
+      question: record.question,
+      options: parsedOptions.length > 0 ? parsedOptions : [], // Use parsed options or empty
+      correctAnswer: parseInt(record.solution, 10) || 0, // Parse solution as correct answer
+      topic: record.topic,
+      isWordProblem: record.type === "word_problem",
+      section: record.section,
+      maxPoints: record.max_points,
+    };
+  });
 }
 
 // ─── FETCH MIXED QUESTIONS BY SECTIONS ─────────────────────────────
