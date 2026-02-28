@@ -60,7 +60,6 @@ function Character({ mood, skinColor = '#e8c9a0', outfitColor = '#6b8fad' }: Ava
     headRef.current.rotation.x = lerp(headRef.current.rotation.x, 0, 0.1);
     headRef.current.rotation.y = lerp(headRef.current.rotation.y, 0, 0.1);
     headRef.current.rotation.z = lerp(headRef.current.rotation.z, 0, 0.1);
-    headRef.current.position.y = lerp(headRef.current.position.y, 0, 0.12);
     bodyRef.current.scale.x = lerp(bodyRef.current.scale.x, 1, 0.12);
     bodyRef.current.scale.y = lerp(bodyRef.current.scale.y, 1, 0.12);
     bodyRef.current.position.y = lerp(bodyRef.current.position.y, 0, 0.1);
@@ -139,16 +138,14 @@ function Character({ mood, skinColor = '#e8c9a0', outfitColor = '#6b8fad' }: Ava
     // ════════════════════════════════════════════════════════
     switch (m) {
       case 'idle': {
-        // ── Layer 1: Breathing (torso + head synced) ──────
+        // ── Layer 1: Breathing (body only, NOT head) ──────
         const breathA = Math.sin(t * 1.3) * 0.02;
-        const breathB = Math.sin(t * 1.3 + 0.15) * 0.015; // head slightly delayed
         bodyRef.current.position.y = breathA;
-        headRef.current.position.y = breathB * 0.5; // relative to head group
 
         // ── Layer 2: Torso tilt (slow sway ±2°) ──────────
         groupRef.current.rotation.z = Math.sin(t * 0.65) * 0.035;
 
-        // ── Layer 3: Head micro-sway (offset from torso) ─
+        // ── Layer 3: Head micro-sway (rotation only) ─────
         headRef.current.rotation.z = Math.sin(t * 0.55 + 1.2) * 0.025;
         headRef.current.rotation.y = Math.sin(t * 0.4 + 0.5) * 0.02;
 
