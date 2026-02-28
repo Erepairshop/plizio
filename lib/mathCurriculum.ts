@@ -639,8 +639,8 @@ interface SectionConfig {
 }
 
 export function generateKlassenarbeit(grade: number, period?: number, countryCode?: string): MathQuestion[] {
-  // Grade 4 és 5 támogatott
-  if (grade !== 4 && grade !== 5) return [];
+  // Grade 1-8 támogatott
+  if (grade < 1 || grade > 8) return [];
 
   const cc = countryCode || "HU";
   const p = period ?? getPeriod();
@@ -653,73 +653,289 @@ export function generateKlassenarbeit(grade: number, period?: number, countryCod
   // Szekciók definiálása - Grade függő
   let sections: Record<string, SectionConfig>;
 
-  if (grade === 4) {
-    sections = {
-      kopfrechnen: {
-        name: "Kopfrechnen",
-        questionCount: 2,
-        pointsPerQuestion: 1,
-        generators: [G4.writtenMul, G4.writtenMulB, G4.writtenDiv],
-      },
-      schriftlich: {
-        name: "Schriftlich",
-        questionCount: 3,
-        pointsPerQuestion: 2,
-        generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit, G4.placeValue],
-      },
-      bruchrechnung: {
-        name: "Bruchrechnung",
-        questionCount: 2,
-        pointsPerQuestion: 2,
-        generators: [G4.fractions],
-      },
-      geometrie: {
-        name: "Geometrie",
-        questionCount: 2,
-        pointsPerQuestion: 2,
-        generators: [G4.units],
-      },
-      bonus: {
-        name: "Bonus",
-        questionCount: 1,
-        pointsPerQuestion: 1,
-        generators: [G4.decimals, G4.sequence],
-      },
-    };
-  } else {
-    // Grade 5
-    sections = {
-      kopfrechnen: {
-        name: "Kopfrechnen",
-        questionCount: 2,
-        pointsPerQuestion: 1,
-        generators: [G5.orderOfOps, G5.orderOfOpsB, G5.percent10],
-      },
-      schriftlich: {
-        name: "Schriftlich",
-        questionCount: 3,
-        pointsPerQuestion: 2,
-        generators: [G5.largeNumbers, G5.roundHundreds, G5.fractionAdd, G5.fractionSub],
-      },
-      sachaufgaben: {
-        name: "Sachaufgaben",
-        questionCount: 2,
-        pointsPerQuestion: 3,
-        generators: [G5.wordDiscount, G5.wordOps],
-      },
-      geometrie: {
-        name: "Geometrie",
-        questionCount: 2,
-        pointsPerQuestion: 2,
-        generators: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter],
-      },
-      bonus: {
-        name: "Bonus",
-        questionCount: 1,
-        pointsPerQuestion: 1,
-        generators: [G5.percent25, G5.percent50],
-      },
-    };
+  switch (grade) {
+    case 1:
+      sections = {
+        addition: {
+          name: "Addition",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G1.add10, G1.add10b, G1.add20],
+        },
+        subtraction: {
+          name: "Subtraction",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G1.sub10, G1.sub10b, G1.sub20],
+        },
+        wordproblems: {
+          name: "Word Problems",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G1.word1, G1.word2, G1.word3],
+        },
+        comparison: {
+          name: "Comparison",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G1.compare, G1.missing10],
+        },
+        bonus: {
+          name: "Bonus",
+          questionCount: 1,
+          pointsPerQuestion: 1,
+          generators: [G1.missing10sub],
+        },
+      };
+      break;
+
+    case 2:
+      sections = {
+        addition: {
+          name: "Addition",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G2.add100, G2.add100b, G2.add100tens],
+        },
+        subtraction: {
+          name: "Subtraction",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G2.sub100, G2.sub100b, G2.sub100tens],
+        },
+        multiplication: {
+          name: "Multiplication",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G2.mul2510, G2.mul2510b, G2.div2510],
+        },
+        wordproblems: {
+          name: "Word Problems",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G2.word1, G2.word2, G2.word3],
+        },
+        bonus: {
+          name: "Bonus",
+          questionCount: 1,
+          pointsPerQuestion: 1,
+          generators: [G2.sequence, G2.missing100],
+        },
+      };
+      break;
+
+    case 3:
+      sections = {
+        arithmetics: {
+          name: "Arithmetics",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G3.add1000, G3.add1000b, G3.sub1000, G3.writtenAdd],
+        },
+        multiplication: {
+          name: "Multiplication",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G3.mul, G3.mulB, G3.div, G3.divB],
+        },
+        wordproblems: {
+          name: "Word Problems",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G3.word1, G3.word2, G3.word3],
+        },
+        geometry: {
+          name: "Geometry",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G3.units],
+        },
+        bonus: {
+          name: "Bonus",
+          questionCount: 1,
+          pointsPerQuestion: 1,
+          generators: [G3.sequence, G3.missingMul],
+        },
+      };
+      break;
+
+    case 4:
+      sections = {
+        kopfrechnen: {
+          name: "Kopfrechnen",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G4.writtenMul, G4.writtenMulB, G4.writtenDiv],
+        },
+        schriftlich: {
+          name: "Schriftlich",
+          questionCount: 3,
+          pointsPerQuestion: 2,
+          generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit, G4.placeValue],
+        },
+        bruchrechnung: {
+          name: "Bruchrechnung",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G4.fractions],
+        },
+        geometrie: {
+          name: "Geometrie",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G4.units],
+        },
+        bonus: {
+          name: "Bonus",
+          questionCount: 1,
+          pointsPerQuestion: 1,
+          generators: [G4.decimals, G4.sequence],
+        },
+      };
+      break;
+
+    case 5:
+      sections = {
+        kopfrechnen: {
+          name: "Kopfrechnen",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G5.orderOfOps, G5.orderOfOpsB, G5.percent10],
+        },
+        schriftlich: {
+          name: "Schriftlich",
+          questionCount: 3,
+          pointsPerQuestion: 2,
+          generators: [G5.largeNumbers, G5.roundHundreds, G5.fractionAdd, G5.fractionSub],
+        },
+        sachaufgaben: {
+          name: "Sachaufgaben",
+          questionCount: 2,
+          pointsPerQuestion: 3,
+          generators: [G5.wordDiscount, G5.wordOps],
+        },
+        geometrie: {
+          name: "Geometrie",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter],
+        },
+        bonus: {
+          name: "Bonus",
+          questionCount: 1,
+          pointsPerQuestion: 1,
+          generators: [G5.percent25, G5.percent50],
+        },
+      };
+      break;
+
+    case 6:
+      sections = {
+        arithmetics: {
+          name: "Arithmetics",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G6.negative, G6.negativeB, G6.negativeC],
+        },
+        fractions: {
+          name: "Fractions",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G6.fractionMul, G6.fractionDiv],
+        },
+        ratios: {
+          name: "Ratios & Speed",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G6.ratio, G6.speed, G6.percentCalc],
+        },
+        geometry: {
+          name: "Geometry",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G6.areaTriangle, G6.areaSquare],
+        },
+        bonus: {
+          name: "Bonus",
+          questionCount: 1,
+          pointsPerQuestion: 1,
+          generators: [G6.percentDiscount, G6.wordTrain],
+        },
+      };
+      break;
+
+    case 7:
+      sections = {
+        algebra: {
+          name: "Algebra",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G7.power2, G7.power3, G7.algebraSub],
+        },
+        equations: {
+          name: "Equations",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G7.equation, G7.equationB],
+        },
+        geometry: {
+          name: "Geometry",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G7.triangleAngle, G7.isosceles, G7.pythag34],
+        },
+        pythagoras: {
+          name: "Pythagoras",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G7.pythag68, G7.pythagLeg13, G7.pythagLeg10],
+        },
+        bonus: {
+          name: "Bonus",
+          questionCount: 1,
+          pointsPerQuestion: 1,
+          generators: [G7.wordThink, G7.wordSquare],
+        },
+      };
+      break;
+
+    case 8:
+      sections = {
+        algebra: {
+          name: "Algebra",
+          questionCount: 2,
+          pointsPerQuestion: 1,
+          generators: [G8.sqrt, G8.sqrtExpr],
+        },
+        equations: {
+          name: "Equations",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G8.eqTwoSide, G8.eqSimple],
+        },
+        functions: {
+          name: "Functions",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G8.funcValue, G8.funcIntercept],
+        },
+        probability: {
+          name: "Probability",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G8.probBall, G8.probDice, G8.probCoin],
+        },
+        bonus: {
+          name: "Bonus",
+          questionCount: 1,
+          pointsPerQuestion: 1,
+          generators: [G8.complexPow, G8.complexExpr],
+        },
+      };
+      break;
+
+    default:
+      return [];
   }
 
   function addUnique(gen: Generator, section: string, points: number, maxAttempts = 15): boolean {
