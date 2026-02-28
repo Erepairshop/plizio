@@ -14,17 +14,23 @@ export interface CalculationStep {
 
 /**
  * Detect if a problem needs step-by-step help
- * Problems with 2+ operations or numbers > 100 should have steps
+ * Problems with 2+ operations or numbers > 50 should have steps
  */
 export function needsStepByStepHelp(problem: string): boolean {
-  // Count operations (-, +, *, /)
-  const operationCount = (problem.match(/[-+*/]/g) || []).length;
+  // Remove all whitespace for cleaner matching
+  const cleanProblem = problem.replace(/\s+/g, '');
 
-  // Check for large numbers
+  // Count operations: look for operators between numbers more carefully
+  // Match pattern: digit operator digit
+  const operationMatches = cleanProblem.match(/\d[+\-*/]\d/g) || [];
+  const operationCount = operationMatches.length;
+
+  // Check for large numbers (> 50 is enough for 4th graders)
   const numbers = problem.match(/\d+/g) || [];
-  const hasLargeNumbers = numbers.some((n) => parseInt(n) > 100);
+  const hasLargeNumbers = numbers.some((n) => parseInt(n) > 50);
 
-  return operationCount >= 2 || hasLargeNumbers;
+  // Show scratchpad if: 2+ operations OR any number > 50
+  return operationCount >= 1 || hasLargeNumbers;
 }
 
 /**

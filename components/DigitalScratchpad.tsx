@@ -97,7 +97,7 @@ export default function DigitalScratchpad({
       <div className="bg-gradient-to-r from-blue-600 to-indigo-600 text-white p-4 sm:p-6">
         <div className="flex items-center justify-between mb-3">
           <h2 className="text-lg sm:text-xl font-black flex items-center gap-2">
-            📝 {title}
+            🧮 {title}
           </h2>
           {isCompleted && (
             <motion.div
@@ -120,7 +120,7 @@ export default function DigitalScratchpad({
           />
         </div>
         <p className="text-xs sm:text-sm text-white/80 mt-2 font-mono">
-          Lépés {currentStepIndex + 1} / {steps.length}
+          Lépés: {currentStepIndex + 1} / {steps.length}
         </p>
       </div>
 
@@ -138,7 +138,7 @@ export default function DigitalScratchpad({
               {/* Operation display */}
               <div className="bg-white rounded-xl p-4 sm:p-6 border-2 border-blue-200 shadow-sm">
                 <p className="text-xs sm:text-sm text-slate-600 font-semibold uppercase tracking-wide mb-3">
-                  Számítás:
+                  📐 Számítás:
                 </p>
 
                 {/* Visual calculation */}

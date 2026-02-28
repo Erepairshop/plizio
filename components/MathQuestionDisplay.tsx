@@ -197,7 +197,7 @@ export default function MathQuestionDisplay({
           {question.imageData.type === 'svg' && question.imageData.content.includes('svg') ? (
             <div dangerouslySetInnerHTML={{ __html: question.imageData.content }} className="mx-auto" />
           ) : (
-            <GeometryRect width={12} height={5} label="Berechne die Fläche" />
+            <GeometryRect width={12} height={5} label="Számítsd ki a területet!" />
           )}
         </div>
       )}
@@ -259,7 +259,7 @@ export default function MathQuestionDisplay({
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
           >
-            {isCorrect ? '✅ Richtig!' : '❌ Falsch - Die richtige Antwort ist: ' + question.correctAnswer}
+            {isCorrect ? '✅ Helyes!' : '❌ Hibás - A helyes válasz: ' + question.correctAnswer}
           </motion.div>
         )}
       </motion.div>
