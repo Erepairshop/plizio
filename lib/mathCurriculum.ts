@@ -722,6 +722,15 @@ export async function generateKlassenarbeitFromBank(
   grade: number,
 ): Promise<MathQuestion[]> {
   try {
+    // Check if user is authenticated
+    const { getUser } = await import("./auth");
+    const user = await getUser();
+
+    if (!user) {
+      console.log("[Klassenarbeit] Not authenticated, using local generators");
+      return generateKlassenarbeit(grade);
+    }
+
     // Import dinamikus, hogy elkerüljük a circular dependency-t
     const { fetchQuestionsBySections } = await import("./assessment/questionBank");
 
