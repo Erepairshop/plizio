@@ -1075,6 +1075,10 @@ export function generateRealisticKlassenarbeit(grade: number, period?: number, c
   const tasks: GroupedTask[] = [];
   let taskNumber = 1;
 
+  // Language helper - use translations
+  const isDE = cc === "DE";
+  const t = (de: string, hu: string) => isDE ? de : hu;
+
   // Grade-specific task generators
   switch (grade) {
     case 1:
@@ -1082,8 +1086,8 @@ export function generateRealisticKlassenarbeit(grade: number, period?: number, c
       tasks.push(
         createGroupedTask(
           taskNumber++,
-          "Addition up to 10",
-          "Calculate the following additions",
+          t("Addition bis 10", "Összeadás 10-ig"),
+          t("Berechne folgende Additionen:", "Számítsd ki a következő összeadásokat:"),
           undefined,
           [
             { id: "a", text: "3 + 2 = ?", correctAnswer: 5, points: 1, type: "free-text", workSpaceLines: 2 },
@@ -1096,8 +1100,8 @@ export function generateRealisticKlassenarbeit(grade: number, period?: number, c
       tasks.push(
         createGroupedTask(
           taskNumber++,
-          "Subtraction up to 10",
-          "Calculate the following subtractions",
+          t("Subtraktion bis 10", "Kivonás 10-ig"),
+          t("Berechne folgende Subtraktionen:", "Számítsd ki a következő kivonásokat:"),
           undefined,
           [
             { id: "a", text: "7 - 2 = ?", correctAnswer: 5, points: 1, type: "free-text", workSpaceLines: 2 },
@@ -1114,8 +1118,8 @@ export function generateRealisticKlassenarbeit(grade: number, period?: number, c
       tasks.push(
         createGroupedTask(
           taskNumber++,
-          "Written Addition",
-          "Solve these addition problems",
+          t("Schriftliche Addition", "Írásbeli összeadás"),
+          t("Löse diese Additionsaufgaben:", "Oldd meg ezeket az összeadás feladatokat:"),
           undefined,
           [
             { id: "a", text: "25 + 13 = ?", correctAnswer: 38, points: 1, type: "free-text", workSpaceLines: 3 },
@@ -1127,8 +1131,8 @@ export function generateRealisticKlassenarbeit(grade: number, period?: number, c
       tasks.push(
         createGroupedTask(
           taskNumber++,
-          "Multiplication Tables",
-          "Complete the multiplication facts",
+          t("Einmaleins", "Szorzótábla"),
+          t("Ergänze die Multiplikationen:", "Egészítsd ki a szorzásokat:"),
           undefined,
           [
             { id: "a", text: "2 × 5 = ?", correctAnswer: 10, points: 1, type: "free-text", workSpaceLines: 2 },
@@ -1145,8 +1149,8 @@ export function generateRealisticKlassenarbeit(grade: number, period?: number, c
       tasks.push(
         createGroupedTask(
           taskNumber++,
-          "Written Addition (up to 1000)",
-          "Add these three-digit numbers",
+          t("Schriftliche Addition (bis 1000)", "Írásbeli összeadás (1000-ig)"),
+          t("Addiere diese dreistelligen Zahlen:", "Add össze ezeket a háromjegyű számokat:"),
           undefined,
           [
             { id: "a", text: "234 + 156 = ?", correctAnswer: 390, points: 2, type: "free-text", workSpaceLines: 4 },
@@ -1158,8 +1162,8 @@ export function generateRealisticKlassenarbeit(grade: number, period?: number, c
       tasks.push(
         createGroupedTask(
           taskNumber++,
-          "Multiplication and Division",
-          "Solve these multiplication and division problems",
+          t("Multiplikation und Division", "Szorzás és osztás"),
+          t("Löse diese Multiplikations- und Divisionsaufgaben:", "Oldd meg ezeket a szorzás- és osztásfeladatokat:"),
           undefined,
           [
             { id: "a", text: "6 × 7 = ?", correctAnswer: 42, points: 1, type: "free-text", workSpaceLines: 2 },
@@ -1176,12 +1180,12 @@ export function generateRealisticKlassenarbeit(grade: number, period?: number, c
       tasks.push(
         createGroupedTask(
           taskNumber++,
-          "Place Value",
-          "Write the digit in the specified place value",
+          t("Stellenwert", "Helyiérték"),
+          t("Schreibe die Ziffer an der angegebenen Stelle:", "Írd le az adott helyen lévő számjegyet:"),
           undefined,
           [
-            { id: "a", text: "In 4,372, what is the digit in the hundreds place?", correctAnswer: 3, points: 1, type: "free-text", workSpaceLines: 2 },
-            { id: "b", text: "In 5,681, what is the digit in the thousands place?", correctAnswer: 5, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "a", text: t("In 4.372, welche Ziffer steht auf der Hunderterstelle?", "A 4372-ben melyik szám áll a százas helyen?"), correctAnswer: 3, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "b", text: t("In 5.681, welche Ziffer steht auf der Tausenderstelle?", "Az 5681-ben melyik szám áll az ezres helyen?"), correctAnswer: 5, points: 1, type: "free-text", workSpaceLines: 2 },
           ],
           "Schriftlich",
         ),
@@ -1189,13 +1193,13 @@ export function generateRealisticKlassenarbeit(grade: number, period?: number, c
       tasks.push(
         createGroupedTask(
           taskNumber++,
-          "Fractions",
-          "Work with fractions",
+          t("Bruchrechnung", "Törtszámolás"),
+          t("Arbeite mit Brüchen:", "Dolgozz törtekkel:"),
           undefined,
           [
-            { id: "a", text: "How many quarters make a whole?", correctAnswer: 4, points: 1, type: "free-text", workSpaceLines: 2 },
-            { id: "b", text: "How many halves in 3 wholes?", correctAnswer: 6, points: 1, type: "free-text", workSpaceLines: 2 },
-            { id: "c", text: "What fraction is shaded? (3/4 shaded out of 4)", correctAnswer: "3/4", points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "a", text: t("Wie viele Viertel machen ein Ganzes?", "Hány negyed tesz ki egy egészet?"), correctAnswer: 4, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "b", text: t("Wie viele Hälften sind in 3 Ganzen?", "Hány fél van 3 egészben?"), correctAnswer: 6, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "c", text: t("Welcher Bruch ist schraffiert? (3/4 von 4)", "Melyik tört van besatírozva? (3/4 a 4-ből)"), correctAnswer: "3/4", points: 1, type: "free-text", workSpaceLines: 2 },
           ],
           "Bruchrechnung",
         ),
@@ -1207,8 +1211,8 @@ export function generateRealisticKlassenarbeit(grade: number, period?: number, c
       tasks.push(
         createGroupedTask(
           taskNumber++,
-          "Order of Operations",
-          "Calculate using order of operations",
+          t("Rechenreihenfolge", "Műveleti sorrend"),
+          t("Berechne mit der richtigen Rechenreihenfolge:", "Számítsd ki a helyes műveleti sorrenddel:"),
           undefined,
           [
             { id: "a", text: "2 + 3 × 4 = ?", correctAnswer: 14, points: 1, type: "free-text", workSpaceLines: 3 },
@@ -1220,12 +1224,12 @@ export function generateRealisticKlassenarbeit(grade: number, period?: number, c
       tasks.push(
         createGroupedTask(
           taskNumber++,
-          "Word Problem: Shopping",
-          "A book costs €12 and a pen costs €3. Maria buys 2 books and 3 pens.",
+          t("Sachaufgabe: Einkaufen", "Szöveges feladat: Bevásárlás"),
+          t("Ein Buch kostet 12€ und ein Stift kostet 3€. Maria kauft 2 Bücher und 3 Stifte.", "Egy könyv 12€-ba kerül, egy toll 3€-ba. Márta vásárol 2 könyvet és 3 tollat."),
           undefined,
           [
-            { id: "a", text: "How much does 1 book and 1 pen cost together?", correctAnswer: 15, points: 1, type: "free-text", workSpaceLines: 3 },
-            { id: "b", text: "How much does Maria spend in total?", correctAnswer: 33, points: 2, type: "free-text", workSpaceLines: 4 },
+            { id: "a", text: t("Wie viel kosten 1 Buch und 1 Stift zusammen?", "Mennyibe kerül 1 könyv és 1 toll együtt?"), correctAnswer: 15, points: 1, type: "free-text", workSpaceLines: 3 },
+            { id: "b", text: t("Wie viel gibt Maria insgesamt aus?", "Márta összesen mennyit költekezik?"), correctAnswer: 33, points: 2, type: "free-text", workSpaceLines: 4 },
           ],
           "Sachaufgaben",
         ),
@@ -1237,13 +1241,13 @@ export function generateRealisticKlassenarbeit(grade: number, period?: number, c
       tasks.push(
         createGroupedTask(
           taskNumber++,
-          "Negative Numbers",
-          "Work with negative numbers and integers",
+          t("Negative Zahlen", "Negatív számok"),
+          t("Arbeite mit negativen Zahlen und Ganzzahlen:", "Dolgozz negatív számokkal és egész számokkal:"),
           undefined,
           [
             { id: "a", text: "5 + (-3) = ?", correctAnswer: 2, points: 1, type: "free-text", workSpaceLines: 2 },
             { id: "b", text: "(-4) - (-2) = ?", correctAnswer: -2, points: 1, type: "free-text", workSpaceLines: 2 },
-            { id: "c", text: "What is the opposite of 7?", correctAnswer: -7, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "c", text: t("Was ist das Gegenteil von 7?", "Mi a 7 ellentéte?"), correctAnswer: -7, points: 1, type: "free-text", workSpaceLines: 2 },
           ],
           "Arithmetics",
         ),
@@ -1255,13 +1259,13 @@ export function generateRealisticKlassenarbeit(grade: number, period?: number, c
       tasks.push(
         createGroupedTask(
           taskNumber++,
-          "Linear Equations",
-          "Solve for x",
+          t("Lineare Gleichungen", "Lineáris egyenletek"),
+          t("Löse für x auf:", "Oldd meg az x-et:"),
           undefined,
           [
-            { id: "a", text: "x + 5 = 12. What is x?", correctAnswer: 7, points: 2, type: "free-text", workSpaceLines: 3 },
-            { id: "b", text: "3x = 15. What is x?", correctAnswer: 5, points: 2, type: "free-text", workSpaceLines: 3 },
-            { id: "c", text: "2x + 3 = 11. What is x?", correctAnswer: 4, points: 2, type: "free-text", workSpaceLines: 3 },
+            { id: "a", text: t("x + 5 = 12. Was ist x?", "x + 5 = 12. Mi az x?"), correctAnswer: 7, points: 2, type: "free-text", workSpaceLines: 3 },
+            { id: "b", text: t("3x = 15. Was ist x?", "3x = 15. Mi az x?"), correctAnswer: 5, points: 2, type: "free-text", workSpaceLines: 3 },
+            { id: "c", text: t("2x + 3 = 11. Was ist x?", "2x + 3 = 11. Mi az x?"), correctAnswer: 4, points: 2, type: "free-text", workSpaceLines: 3 },
           ],
           "Algebra",
         ),
@@ -1273,13 +1277,13 @@ export function generateRealisticKlassenarbeit(grade: number, period?: number, c
       tasks.push(
         createGroupedTask(
           taskNumber++,
-          "Quadratic Equations",
-          "Solve the quadratic equation",
+          t("Quadratische Gleichungen", "Másodfokú egyenletek"),
+          t("Löse die quadratische Gleichung:", "Oldd meg a másodfokú egyenletet:"),
           undefined,
           [
-            { id: "a", text: "x² = 25. What are the solutions?", correctAnswer: "±5", points: 2, type: "free-text", workSpaceLines: 3 },
-            { id: "b", text: "x² - 4 = 0. What are the solutions?", correctAnswer: "±2", points: 2, type: "free-text", workSpaceLines: 3 },
-            { id: "c", text: "What is √36?", correctAnswer: 6, points: 1, type: "free-text", workSpaceLines: 2 },
+            { id: "a", text: t("x² = 25. Welche Lösungen gibt es?", "x² = 25. Mely megoldások vannak?"), correctAnswer: "±5", points: 2, type: "free-text", workSpaceLines: 3 },
+            { id: "b", text: t("x² - 4 = 0. Welche Lösungen gibt es?", "x² - 4 = 0. Mely megoldások vannak?"), correctAnswer: "±2", points: 2, type: "free-text", workSpaceLines: 3 },
+            { id: "c", text: t("Was ist √36?", "Mi az √36?"), correctAnswer: 6, points: 1, type: "free-text", workSpaceLines: 2 },
           ],
           "Algebra",
         ),
@@ -1494,7 +1498,7 @@ export function calculateKlassenarbeitResult(
 
 export function calculateRealisticKlassenarbeitResult(
   tasks: GroupedTask[],
-  answers: Record<string, Record<string, string | number>>
+  answers: Record<string, string | number>
 ): KlassenarbeitResult {
   const sectionMap = new Map<string, SectionResult>();
 

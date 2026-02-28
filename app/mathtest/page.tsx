@@ -18,8 +18,10 @@ import {
   generateTest,
   generateKlassenarbeit,
   generateKlassenarbeitFromBank,
+  generateRealisticKlassenarbeit,
   calculateGradeResult,
   calculateKlassenarbeitResult,
+  calculateRealisticKlassenarbeitResult,
   getMathGrade,
   saveMathGrade,
   updateMathStats,
@@ -28,6 +30,8 @@ import {
   type MathQuestion,
   type GradeResult,
   type KlassenarbeitResult,
+  type GroupedTask,
+  type RealisticKlassenarbeit,
 } from "@/lib/mathCurriculum";
 import {
   COUNTRIES,
@@ -49,6 +53,7 @@ import {
 } from "@/lib/assessment/testFlow";
 import { useAuth } from "@/lib/supabase/useAuth";
 import AvatarCompanion from "@/components/AvatarCompanion";
+import RealisticKlassenarbeitDisplay from "@/components/RealisticKlassenarbeitDisplay";
 import { getActiveSkin, SKINS } from "@/lib/skins";
 
 // ─── 3D FLOATING BACKGROUND ─────────────────────────────
@@ -299,6 +304,10 @@ export default function MathTestPage() {
   const [elapsedTime, setElapsedTime] = useState(0);
   const [klassenarbeitResult, setKlassenarbeitResult] = useState<KlassenarbeitResult | null>(null);
 
+  // ─── Realistic Klassenarbeit (Grouped Tasks) ───────────────────
+  const [realisticKlassenarbeit, setRealisticKlassenarbeit] = useState<RealisticKlassenarbeit | null>(null);
+  const [groupedTaskAnswers, setGroupedTaskAnswers] = useState<Record<string, string | number>>({});
+
   // ─── Klassenarbeit timer (30 minutes) ───────────────────────
   const [klassenarbeitStartTime, setKlassenarbeitStartTime] = useState<number | null>(null);
   const [klassenarbeitTimeLeft, setKlassenarbeitTimeLeft] = useState(1800); // 30 * 60 = 1800 seconds
@@ -429,6 +438,18 @@ export default function MathTestPage() {
   // Grading animation
   useEffect(() => {
     if (gameState !== "grading") return;
+
+    // Handle grouped tasks grading
+    if (realisticKlassenarbeit) {
+      // All graded for realistic Klassenarbeit
+      const kaResult = calculateRealisticKlassenarbeitResult(realisticKlassenarbeit.tasks, groupedTaskAnswers);
+      setKlassenarbeitResult(kaResult);
+      const gradeResult = calculateGradeResult(kaResult.totalPoints, kaResult.maxTotalPoints);
+      setGradeResult(gradeResult);
+      setTimeout(() => setGameState("result"), 600);
+      return;
+    }
+
     if (gradingIndex < questions.length) {
       const t = setTimeout(() => setGradingIndex((i) => i + 1), 400);
       return () => clearTimeout(t);
@@ -452,7 +473,7 @@ export default function MathTestPage() {
       }
       setTimeout(() => setGameState("result"), 600);
     }
-  }, [gameState, gradingIndex, questions, answers, testType]);
+  }, [gameState, gradingIndex, questions, answers, testType, realisticKlassenarbeit, groupedTaskAnswers]);
 
   // ─── Avatar Mood Control ───────────────────────────────────
   useEffect(() => {
@@ -583,12 +604,35 @@ export default function MathTestPage() {
       }
     } else {
       // Generate locally (Klassenarbeit or Practice without Supabase)
-      try {
-        const test = type === "klassenarbeit"
-          ? await generateKlassenarbeitFromBank(selectedGrade)
-          : generateTest(selectedGrade, undefined, country?.code);
+      if (type === "klassenarbeit") {
+        // Use new realistic Klassenarbeit format with grouped tasks
+        try {
+          const realistic = generateRealisticKlassenarbeit(selectedGrade, undefined, country?.code);
+          console.log(`[Realistic Klassenarbeit] Generated ${realistic.tasks.length} grouped tasks`);
 
-        console.log(`[Test] Loaded ${test.length} questions for ${type}`);
+          if (realistic.tasks.length === 0) {
+            throw new Error("No tasks generated");
+          }
+
+          setRealisticKlassenarbeit(realistic);
+          setGroupedTaskAnswers({});
+          setAvatarMood("idle");
+          setGameState("playing");
+        } catch (err) {
+          console.error("[Realistic Klassenarbeit] Failed:", err);
+          // Fallback to old format
+          console.log("[Fallback] Using old individual question format...");
+          const test = generateKlassenarbeit(selectedGrade, undefined, country?.code);
+          setQuestions(test);
+          setAnswers(new Array(test.length).fill(null));
+          setRealisticKlassenarbeit(null);
+          setAvatarMood("idle");
+          setGameState("playing");
+        }
+      } else {
+        // Practice test - use existing format
+        const test = generateTest(selectedGrade, undefined, country?.code);
+        console.log(`[Test] Generated ${test.length} questions for ${type}`);
 
         if (test.length === 0) {
           throw new Error("No questions generated");
@@ -596,19 +640,7 @@ export default function MathTestPage() {
 
         setQuestions(test);
         setAnswers(new Array(test.length).fill(null));
-        setAvatarMood("idle");
-        setGameState("playing");
-      } catch (err) {
-        console.error("[Test Generation] Failed:", err);
-        // Fallback to local generation if Question Bank fails
-        console.log("[Fallback] Using local generator...");
-        const test = type === "klassenarbeit"
-          ? generateKlassenarbeit(selectedGrade, undefined, country?.code)
-          : generateTest(selectedGrade, undefined, country?.code);
-
-        console.log(`[Fallback] Generated ${test.length} questions`);
-        setQuestions(test);
-        setAnswers(new Array(test.length).fill(null));
+        setRealisticKlassenarbeit(null);
         setAvatarMood("idle");
         setGameState("playing");
       }
@@ -628,6 +660,14 @@ export default function MathTestPage() {
       next[questionIndex] = answer;
       return next;
     });
+  };
+
+  const handleGroupedTaskAnswer = (taskIndex: number, subQuestionId: string, answer: string | number) => {
+    const key = `task_${taskIndex}_${subQuestionId}`;
+    setGroupedTaskAnswers((prev) => ({
+      ...prev,
+      [key]: answer,
+    }));
   };
 
   const handleSubmit = async () => {
@@ -689,7 +729,11 @@ export default function MathTestPage() {
     }
   };
 
-  const allAnswered = answers.every((a) => a !== null);
+  const allAnswered = realisticKlassenarbeit
+    ? realisticKlassenarbeit.tasks.every((task) =>
+        task.subQuestions.every((sq) => `task_${task.taskNumber - 1}_${sq.id}` in groupedTaskAnswers)
+      )
+    : answers.every((a) => a !== null);
 
   const ui = country?.ui;
 
@@ -1092,7 +1136,18 @@ export default function MathTestPage() {
                 )}
               </motion.div>
 
-              {/* Questions */}
+              {/* Realistic Klassenarbeit (Grouped Tasks) */}
+              {realisticKlassenarbeit && (
+                <RealisticKlassenarbeitDisplay
+                  tasks={realisticKlassenarbeit.tasks}
+                  answers={groupedTaskAnswers}
+                  onAnswerChange={handleGroupedTaskAnswer}
+                  isGrading={isGrading}
+                  gradeIndex={gradingIndex}
+                />
+              )}
+
+              {/* Individual Questions (Old Format) */}
               {questions.map((question, qi) => {
                 const isGraded = isGrading && qi < gradingIndex;
                 const isCorrect = answers[qi] === question.correctAnswer;
