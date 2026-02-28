@@ -662,8 +662,15 @@ export default function MathTestPage() {
     });
   };
 
-  const handleGroupedTaskAnswer = (taskIndex: number, subQuestionId: string, answer: string | number) => {
-    const key = `task_${taskIndex}_${subQuestionId}`;
+  const handleGroupedTaskAnswer = (taskIndex: number, subQuestionId: string, answer: string | number, fieldId?: string) => {
+    let key: string;
+    if (fieldId) {
+      // For multi_input and table_fill types with field IDs
+      key = `task_${taskIndex}_${subQuestionId}_${fieldId}`;
+    } else {
+      // For simple types
+      key = `task_${taskIndex}_${subQuestionId}`;
+    }
     setGroupedTaskAnswers((prev) => ({
       ...prev,
       [key]: answer,

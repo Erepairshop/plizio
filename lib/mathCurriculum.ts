@@ -39,14 +39,55 @@ export interface MathQuestion {
 // ─── REALISTIC KLASSENARBEIT FORMAT (Grouped Tasks) ─────────────────────────────
 // New format for realistic German Klassenarbeit with grouped tasks, images, and partial scoring
 
+// ─── EXTENDED LAYOUT TYPES ─────────────────────────────
+export type SubQuestionType =
+  | "multiple-choice"   // Válaszlehetőségek közül választás
+  | "free-text"         // Szabadszöveges válasz
+  | "calculation"       // Szám bevitele
+  | "short_input"       // Rövid szöveges válasz
+  | "multi_input"       // Több input mező (pl. szám, szám)
+  | "schriftlich_layout" // Oszlopos számolás
+  | "table_fill";       // Táblázat kitöltése
+
 export interface SubQuestion {
   id: string; // "a", "b", "c", etc.
   text: string;
-  correctAnswer: number | string;
+  correctAnswer: number | string | Record<string, number | string>; // Single or multiple answers for multi_input/table
   points: number; // Partial point value (e.g., 1, 2, 0.5)
-  type: "multiple-choice" | "free-text" | "calculation"; // Answer type
-  options?: number[] | string[]; // For multiple choice
+  type: SubQuestionType;
+
+  // Multiple choice
+  options?: number[] | string[];
+
+  // Multi-input specific
+  fields?: {
+    id: string;           // Field identifier (e.g., "number1", "number2")
+    label: string;        // Field label
+    type: "number" | "text";
+    placeholder?: string;
+    correctAnswer: number | string; // Individual field answer
+    points: number;       // Partial points for this field
+  }[];
+
+  // Table fill specific
+  rows?: {
+    label: string;        // Row label (e.g., "Sora 1")
+    cells: {
+      label?: string;     // Cell label if needed
+      correctAnswer: number | string;
+      points: number;
+    }[];
+  }[];
+
+  // Schriftlich layout specific (column calculation)
+  layout?: {
+    type: "vertical" | "horizontal";
+    columns?: number;     // For multiplication/division layouts
+  };
+
+  // General
   workSpaceLines?: number; // Number of lines for writing space
+  hint?: string; // Optional hint for students
 }
 
 export interface GroupedTask {
