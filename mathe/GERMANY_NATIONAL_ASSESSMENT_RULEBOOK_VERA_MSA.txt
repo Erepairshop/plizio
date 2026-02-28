@@ -1,0 +1,121 @@
+GERMANY – NATIONAL ASSESSMENT ALIGNED TEST GENERATION RULEBOOK
+Aligned with KMK Educational Standards (Bildungsstandards)
+Covers: VERA 3, VERA 8, Zentrale Klassenarbeit, MSA (Sek I)
+Purpose: AI-driven realistic German standardized test generation
+
+1. OVERVIEW OF GERMAN ASSESSMENT STRUCTURE
+Primary Assessment:
+- VERA 3 (Grade 3 comparative assessment)
+
+Lower Secondary Assessment:
+- VERA 8 (Grade 8 comparative assessment)
+- Zentrale Klassenarbeiten (state-wide written exams)
+- MSA – Mittlerer Schulabschluss (Grade 10 final level, structure relevant from Grade 8)
+
+Assessments focus on competencies, not only procedural calculation.
+2. COMPETENCY DOMAINS (KMK STRUCTURE)
+Inhaltsbezogene Kompetenzen:
+- Zahlen und Operationen
+- Größen und Messen
+- Raum und Form
+- Funktionaler Zusammenhang
+- Daten und Zufall
+
+Prozessbezogene Kompetenzen:
+- Problemlösen
+- Argumentieren
+- Modellieren
+- Darstellen
+- Kommunizieren
+3. VERA 3 STRUCTURE (GRADE 3)
+Duration: 45–60 minutes
+Focus Areas:
+- Multiplication tables
+- Written addition/subtraction
+- Basic division
+- Simple geometry
+- Data interpretation
+
+Question Types:
+- Short answer
+- Multiple choice
+- Structured reasoning
+- Word problems
+
+Difficulty Distribution:
+40% basic
+40% medium
+20% advanced reasoning
+4. VERA 8 STRUCTURE (GRADE 8)
+Duration: 90 minutes
+Focus Areas:
+- Percent calculations
+- Linear equations
+- Proportional reasoning
+- Geometry (area, volume)
+- Data analysis
+
+Question Types:
+- Multi-step word problems
+- Justification tasks (begründe)
+- Modeling tasks
+- Diagram interpretation
+
+Anforderungsbereiche:
+I – Reproduktion
+II – Zusammenhänge herstellen
+III – Verallgemeinern und Reflektieren
+5. ZENTRALE KLASSENARBEIT STRUCTURE
+Typical Sections:
+Teil A – Grundaufgaben (Reproduktion)
+Teil B – Anwendung
+Teil C – Komplexe Problemlösung
+
+Points: 30–50
+Partial scoring mandatory.
+Real-life context tasks included.
+6. MSA-STYLE STRUCTURE (Sekundarstufe I Level)
+Duration: 120 minutes
+Sections:
+- Non-calculator part
+- Calculator part
+- Modeling tasks
+- Extended reasoning tasks
+
+Content Includes:
+- Linear functions
+- Systems of equations
+- Geometry (Pythagoras)
+- Percent and interest
+- Probability
+
+Operatoren Examples:
+berechne
+bestimme
+begründe
+erläutere
+interpretiere
+7. DIFFICULTY DISTRIBUTION MODEL
+30% Anforderungsbereich I
+45% Anforderungsbereich II
+25% Anforderungsbereich III
+
+Tasks increase in complexity toward the end of the test.
+8. SCORING MODEL
+Raw Score → Grade (Germany 1–6 scale):
+90–100% → Note 1
+80–89% → Note 2
+65–79% → Note 3
+50–64% → Note 4
+30–49% → Note 5
+0–29% → Note 6
+
+Rubric-based scoring required for reasoning tasks.
+Partial credit allowed.
+9. AI TEST GENERATION RULES
+- Only generate tasks from curriculum progression already covered.
+- Include both inhaltsbezogene and prozessbezogene competencies.
+- Include real-life modeling tasks.
+- Ensure presence of justification questions (Begründung erforderlich).
+- Separate calculator / non-calculator sections for Sek I level.
+- Provide marking scheme and expected solution path.

@@ -85,6 +85,16 @@ const topicNames: Record<Lang, Record<string, string>> = {
     symmetry: "szimmetria",
     perimeter: "kerület",
     divisibility: "oszthatóság",
+    numberWall: "számpiramis",
+    chainCalc: "műveleti lánc",
+    placeValueNotation: "helyi érték jelölés",
+    timeDuration: "időtartam",
+    expandedForm: "szám felbontás",
+    moneyChange: "pénzvisszaadás",
+    doubling: "duplázás",
+    missingDigit: "hiányzó számjegy",
+    multComparison: "szorzatos összehasonlítás",
+    neighborNumber: "szomszédos szám",
   },
   DE: {
     addition: "Addition",
@@ -139,6 +149,16 @@ const topicNames: Record<Lang, Record<string, string>> = {
     symmetry: "Symmetrie",
     perimeter: "Umfang",
     divisibility: "Teilbarkeit",
+    numberWall: "Zahlenmauer",
+    chainCalc: "Kettenaufgabe",
+    placeValueNotation: "Stellenwertschreibweise",
+    timeDuration: "Zeitspanne",
+    expandedForm: "Zahlenzerlegung",
+    moneyChange: "Wechselgeld",
+    doubling: "Verdoppeln",
+    missingDigit: "Fehlende Ziffer",
+    multComparison: "Multiplikativer Vergleich",
+    neighborNumber: "Nachbarzahlen",
   },
   EN: {
     addition: "addition",
@@ -193,6 +213,16 @@ const topicNames: Record<Lang, Record<string, string>> = {
     symmetry: "symmetry",
     perimeter: "perimeter",
     divisibility: "divisibility",
+    numberWall: "number wall",
+    chainCalc: "chain calculation",
+    placeValueNotation: "place value notation",
+    timeDuration: "time duration",
+    expandedForm: "expanded form",
+    moneyChange: "making change",
+    doubling: "doubling",
+    missingDigit: "missing digit",
+    multComparison: "multiplicative comparison",
+    neighborNumber: "neighbor number",
   },
   RO: {
     addition: "adunare",
@@ -247,6 +277,16 @@ const topicNames: Record<Lang, Record<string, string>> = {
     symmetry: "simetrie",
     perimeter: "perimetru",
     divisibility: "divizibilitate",
+    numberWall: "piramida numerelor",
+    chainCalc: "lanț de calcul",
+    placeValueNotation: "scrierea valorii poziționale",
+    timeDuration: "durată",
+    expandedForm: "descompunere",
+    moneyChange: "rest la plată",
+    doubling: "dublare",
+    missingDigit: "cifră lipsă",
+    multComparison: "comparație multiplicativă",
+    neighborNumber: "numere vecine",
   },
 };
 
@@ -1080,4 +1120,228 @@ export function wpDrinksPerWeek(cups: number, mlPerCup: number, countryCode: str
     case "RO": return `${getNames(countryCode).boys[0]} bea ${cups} căni de lapte pe zi (1 cană = ${mlPerCup} ml). Câți litri bea într-o săptămână?`;
     default: return `${getNames(countryCode).boys[0]} naponta ${cups} csésze tejet iszik (1 csésze = ${mlPerCup} ml). Hány litert iszik egy héten?`;
   }
+}
+
+// ─── NUMBER WALL / ZAHLENMAUER / SZÁMPIRAMIS ─────────────────────────────
+// Pyramid: each brick = sum of two below. Bottom row given, ask for top.
+
+export function qNumberWall3(a: number, b: number, c: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Zahlenmauer: Unterste Reihe [${a}, ${b}, ${c}]. Jeder Stein = Summe der zwei darunter. Was steht oben?`;
+    case "EN": return `Number Wall: Bottom row [${a}, ${b}, ${c}]. Each brick = sum of two below. What is the top number?`;
+    case "RO": return `Piramida: rândul de jos [${a}, ${b}, ${c}]. Fiecare cărămidă = suma celor două de dedesubt. Ce număr e în vârf?`;
+    default: return `Számpiramis: alul [${a}, ${b}, ${c}]. Minden kő = alatta lévő kettő összege. Mi a csúcsszám?`;
+  }
+}
+
+export function qNumberWall4(a: number, b: number, c: number, d: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Zahlenmauer: Unterste Reihe [${a}, ${b}, ${c}, ${d}]. Jeder Stein = Summe der zwei darunter. Was steht oben?`;
+    case "EN": return `Number Wall: Bottom row [${a}, ${b}, ${c}, ${d}]. Each brick = sum of two below. What is the top number?`;
+    case "RO": return `Piramida: rândul de jos [${a}, ${b}, ${c}, ${d}]. Fiecare cărămidă = suma celor două de dedesubt. Ce număr e în vârf?`;
+    default: return `Számpiramis: alul [${a}, ${b}, ${c}, ${d}]. Minden kő = alatta lévő kettő összege. Mi a csúcsszám?`;
+  }
+}
+
+// ─── CHAIN CALCULATION / KETTENAUFGABE ─────────────────────────────
+
+export function qChainCalc(expression: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Rechne aus: ${expression} = ?`;
+    case "EN": return `Calculate: ${expression} = ?`;
+    case "RO": return `Calculează: ${expression} = ?`;
+    default: return `Számold ki: ${expression} = ?`;
+  }
+}
+
+// ─── PLACE VALUE NOTATION / STELLENWERT ─────────────────────────────
+// DE: T=Tausender, H=Hunderter, Z=Zehner, E=Einer
+// HU: E=Ezres, Sz=Százas, T=Tízes, e=egyes
+// EN: Th=Thousands, H=Hundreds, T=Tens, O=Ones
+// RO: M=Mii, S=Sute, Z=Zeci, U=Unități
+
+const pvAbbrev: Record<Lang, { th: string; h: string; t: string; o: string }> = {
+  DE: { th: "T", h: "H", t: "Z", o: "E" },
+  HU: { th: "E", h: "Sz", t: "T", o: "e" },
+  EN: { th: "Th", h: "H", t: "T", o: "O" },
+  RO: { th: "M", h: "S", t: "Z", o: "U" },
+};
+
+export function qPlaceValueNotation(thousands: number, hundreds: number, tens: number, ones: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const a = pvAbbrev[lang];
+  const parts: string[] = [];
+  if (thousands) parts.push(`${thousands}${a.th}`);
+  if (hundreds) parts.push(`${hundreds}${a.h}`);
+  if (tens) parts.push(`${tens}${a.t}`);
+  if (ones) parts.push(`${ones}${a.o}`);
+  const notation = parts.join(" ");
+  switch (lang) {
+    case "DE": return `Schreibe als Zahl: ${notation} = ?`;
+    case "EN": return `Write as a number: ${notation} = ?`;
+    case "RO": return `Scrie ca număr: ${notation} = ?`;
+    default: return `Írd le számmal: ${notation} = ?`;
+  }
+}
+
+// ─── TIME DURATION / ZEITSPANNE ─────────────────────────────
+
+export function qTimeDuration(startH: number, startM: number, endH: number, endM: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const pad = (n: number) => String(n).padStart(2, "0");
+  const start = `${startH}:${pad(startM)}`;
+  const end = `${endH}:${pad(endM)}`;
+  switch (lang) {
+    case "DE": return `Der Unterricht beginnt um ${start} Uhr und endet um ${end} Uhr. Wie viele Minuten dauert er?`;
+    case "EN": return `A lesson starts at ${start} and ends at ${end}. How many minutes does it last?`;
+    case "RO": return `O lecție începe la ${start} și se termină la ${end}. Câte minute durează?`;
+    default: return `A foglalkozás ${start}-kor kezdődik és ${end}-kor ér véget. Hány percig tart?`;
+  }
+}
+
+// ─── EXPANDED FORM / NUMBER DECOMPOSITION ─────────────────────────────
+
+export function qExpandedForm(num: number, expression: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${num} = ${expression}. Welche Zahl fehlt?`;
+    case "EN": return `${num} = ${expression}. What is the missing number?`;
+    case "RO": return `${num} = ${expression}. Care este numărul lipsă?`;
+    default: return `${num} = ${expression}. Mi a hiányzó szám?`;
+  }
+}
+
+// ─── MONEY CHANGE / WECHSELGELD ─────────────────────────────
+
+export function wpMoneyChange(name: string, price: number, paid: number, cur: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${name} kauft etwas für ${price} ${cur} und bezahlt mit ${paid} ${cur}. Wie viel Wechselgeld bekommt ${name}?`;
+    case "EN": return `${name} buys something for ${price} ${cur} and pays with ${paid} ${cur}. How much change does ${name} get?`;
+    case "RO": return `${name} cumpără ceva cu ${price} ${cur} și plătește cu ${paid} ${cur}. Cât primește rest?`;
+    default: return `${name} vásárol ${price} ${cur}-ért és ${paid} ${cur}-tal fizet. Mennyi visszajárót kap?`;
+  }
+}
+
+export function wpMoneyMultiBuy(name: string, items: string[], prices: number[], paid: number, cur: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const list = items.map((it, i) => `${it} (${prices[i]} ${cur})`).join(", ");
+  switch (lang) {
+    case "DE": return `${name} kauft: ${list}. ${name} bezahlt mit ${paid} ${cur}. Wie viel Wechselgeld?`;
+    case "EN": return `${name} buys: ${list}. ${name} pays with ${paid} ${cur}. How much change?`;
+    case "RO": return `${name} cumpără: ${list}. Plătește cu ${paid} ${cur}. Cât primește rest?`;
+    default: return `${name} vesz: ${list}. ${paid} ${cur}-tal fizet. Mennyi a visszajáró?`;
+  }
+}
+
+// ─── ROUNDING / NACHBARZAHLEN ─────────────────────────────
+
+export function qNearestRound(n: number, roundTo: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const roundLabels: Record<Lang, Record<number, string>> = {
+    HU: { 10: "tízesre", 100: "százasra", 1000: "ezresre", 10000: "tízezresre" },
+    DE: { 10: "auf Zehner", 100: "auf Hunderter", 1000: "auf Tausender", 10000: "auf Zehntausender" },
+    EN: { 10: "to the nearest ten", 100: "to the nearest hundred", 1000: "to the nearest thousand", 10000: "to the nearest ten thousand" },
+    RO: { 10: "la zeci", 100: "la sute", 1000: "la mii", 10000: "la zeci de mii" },
+  };
+  const label = roundLabels[lang][roundTo] || `${roundTo}`;
+  switch (lang) {
+    case "DE": return `Runde ${n} ${label}.`;
+    case "EN": return `Round ${n} ${label}.`;
+    case "RO": return `Rotunjește ${n} ${label}.`;
+    default: return `Kerekítsd ${n}-t ${label}!`;
+  }
+}
+
+export function qNeighborNumber(n: number, direction: "before" | "after", step: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const stepLabels: Record<Lang, Record<number, string>> = {
+    HU: { 10: "tízes", 100: "százas", 1000: "ezres" },
+    DE: { 10: "Zehner", 100: "Hunderter", 1000: "Tausender" },
+    EN: { 10: "ten", 100: "hundred", 1000: "thousand" },
+    RO: { 10: "zece", 100: "sută", 1000: "mie" },
+  };
+  const s = stepLabels[lang][step] || `${step}`;
+  if (direction === "before") {
+    switch (lang) {
+      case "DE": return `Welcher ${s} kommt vor ${n}?`;
+      case "EN": return `What ${s} comes before ${n}?`;
+      case "RO": return `Ce ${s} vine înainte de ${n}?`;
+      default: return `Melyik ${s} van ${n} előtt?`;
+    }
+  }
+  switch (lang) {
+    case "DE": return `Welcher ${s} kommt nach ${n}?`;
+    case "EN": return `What ${s} comes after ${n}?`;
+    case "RO": return `Ce ${s} vine după ${n}?`;
+    default: return `Melyik ${s} van ${n} után?`;
+  }
+}
+
+// ─── DOUBLING ─────────────────────────────
+
+export function qDouble(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Was ist das Doppelte von ${n}?`;
+    case "EN": return `What is double ${n}?`;
+    case "RO": return `Care este dublul lui ${n}?`;
+    default: return `Mennyi ${n} duplája?`;
+  }
+}
+
+// ─── MISSING DIGIT / KLECKSAUFGABE ─────────────────────────────
+
+export function qMissingDigit(expression: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Welche Ziffer fehlt? ${expression}`;
+    case "EN": return `What is the missing digit? ${expression}`;
+    case "RO": return `Care este cifra lipsă? ${expression}`;
+    default: return `Mi a hiányzó számjegy? ${expression}`;
+  }
+}
+
+// ─── MULTIPLICATIVE COMPARISON ─────────────────────────────
+
+export function qTimesAsMany(smallLabel: string, small: number, bigLabel: string, big: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${smallLabel}: ${small}. ${bigLabel}: ${big}. Wie viel mal so viel ist das?`;
+    case "EN": return `${smallLabel}: ${small}. ${bigLabel}: ${big}. How many times as many is that?`;
+    case "RO": return `${smallLabel}: ${small}. ${bigLabel}: ${big}. De câte ori mai mult este?`;
+    default: return `${smallLabel}: ${small}. ${bigLabel}: ${big}. Hányszor annyi?`;
+  }
+}
+
+// ─── MULTIPLICATIVE COMPARISON CONTEXT ─────────────────────────────
+
+const multCompContexts: Record<Lang, Array<{ small: string; big: string; sf: number; bf: number }>> = {
+  HU: [
+    { small: "Egy hétben", big: "Egy hónapban (28 nap)", sf: 7, bf: 28 },
+    { small: "Egy óra", big: "Egy nap", sf: 1, bf: 24 },
+    { small: "Egy tucatban", big: "Egy dobozban", sf: 12, bf: 60 },
+  ],
+  DE: [
+    { small: "Eine Woche hat", big: "Der Februar hat", sf: 7, bf: 28 },
+    { small: "Eine Stunde hat", big: "Ein Tag hat", sf: 1, bf: 24 },
+    { small: "Ein Dutzend hat", big: "Eine Kiste hat", sf: 12, bf: 60 },
+  ],
+  EN: [
+    { small: "A week has", big: "February has", sf: 7, bf: 28 },
+    { small: "An hour has", big: "A day has", sf: 1, bf: 24 },
+    { small: "A dozen is", big: "A box has", sf: 12, bf: 60 },
+  ],
+  RO: [
+    { small: "O săptămână are", big: "Februarie are", sf: 7, bf: 28 },
+    { small: "O oră are", big: "O zi are", sf: 1, bf: 24 },
+    { small: "Un duzină are", big: "O cutie are", sf: 12, bf: 60 },
+  ],
+};
+
+export function getMultCompContexts(countryCode: string) {
+  return multCompContexts[getLang(countryCode)];
 }

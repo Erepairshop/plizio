@@ -1,0 +1,78 @@
+HUNGARY – NATIONAL ASSESSMENT ALIGNED TEST GENERATION RULEBOOK
+Aligned with Hungarian National Core Curriculum (NAT)
+Covers: OKM (6. & 8. grade) + 8th Grade Central Entrance Exam
+Purpose: AI-driven realistic Hungarian standardized test generation
+
+1. OVERVIEW OF HUNGARIAN ASSESSMENT STRUCTURE
+National Assessments:
+- OKM – Országos Kompetenciamérés (Grade 6 and Grade 8)
+- Központi írásbeli felvételi vizsga (Grade 8)
+
+Focus: Competency-based problem solving, reading comprehension in mathematical context, real-life applications.
+2. COMPETENCY DOMAINS
+- Számok és műveletek
+- Algebra és összefüggések
+- Geometria
+- Mérés és mértékegységek
+- Adatok, statisztika, valószínűség
+- Szövegértéshez kapcsolódó matematikai modellezés
+
+Process Skills:
+- Problémamegoldás
+- Érvelés
+- Modellalkotás
+- Következtetés
+- Értelmezés
+3. OKM STRUCTURE (Grade 6 & 8)
+Duration: 90 minutes
+Format: Booklet-based or computer-based
+
+Task Types:
+- Short answer
+- Multiple choice
+- Open-ended response
+- Multi-step reasoning tasks
+- Real-life contextual problems
+
+Focus: Applying mathematical knowledge in real-life contexts.
+Difficulty Distribution:
+30% alap (rutinfeladat)
+45% közepes (összetett problémák)
+25% haladó (magasabb szintű érvelés)
+4. CENTRAL ENTRANCE EXAM (8th Grade)
+Duration: 45 minutes
+Total Points: 50
+
+Content Areas:
+- Szöveges feladatok
+- Arányosság
+- Százalékszámítás
+- Algebrai kifejezések
+- Geometria (kerület, terület, Pitagorasz alap)
+- Logikai feladatok
+
+Task Characteristics:
+- Többlépéses problémák
+- Pontos számolási eljárás
+- Részpontozás engedélyezett
+5. DIFFICULTY STRUCTURE
+Tasks increase in complexity throughout the test.
+Last section typically contains extended reasoning problem.
+At least 40% of tasks must require interpretation of text or real-life scenario.
+6. SCORING MODEL
+Percentage → Hungarian Grade:
+90–100% → 5 (Jeles)
+80–89% → 4 (Jó)
+65–79% → 3 (Közepes)
+50–64% → 2 (Elégséges)
+0–49% → 1 (Elégtelen)
+
+Central Entrance raw score: 50 points max.
+Partial credit mandatory for multi-step tasks.
+7. AI TEST GENERATION RULES
+- Only generate content already covered in curriculum progression.
+- Include contextual word problems in every assessment.
+- Include at least one extended reasoning problem.
+- Provide full solution path for open-ended tasks.
+- Allow partial scoring for intermediate correct steps.
+- Avoid introducing secondary-level algebra beyond Grade 8 scope.

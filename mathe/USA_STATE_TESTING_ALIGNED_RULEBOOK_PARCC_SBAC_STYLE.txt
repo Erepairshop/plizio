@@ -1,0 +1,66 @@
+USA – STATE TESTING ALIGNED TEST GENERATION RULEBOOK
+Aligned with Common Core State Standards (CCSS)
+Modeled after PARCC / SBAC assessment structures
+Designed for AI-driven standardized test generation (Grades 3–8)
+
+1. TEST STRUCTURE OVERVIEW
+Computer-based assessment model.
+Two main components:
+1) Performance-Based Assessment (PBA)
+2) End-of-Year Assessment (EOY)
+
+Total Duration: 90–150 minutes depending on grade level.
+2. QUESTION TYPES
+1) Multiple Choice (Single Answer)
+2) Multiple Select (Multiple Correct Answers)
+3) Short Constructed Response
+4) Extended Response (multi-step reasoning)
+5) Drag-and-Drop / Interactive
+6) Equation Builder
+7) Graph Plotting
+3. GRADE-BAND CONTENT FOCUS
+Grades 3–5 (Upper Elementary)
+- Multi-digit arithmetic
+- Fractions as numbers
+- Fraction operations (Grade 4–5)
+- Measurement and data
+- Area and volume
+- Multi-step word problems
+- Basic coordinate plane (Grade 5)
+Grades 6–8 (Middle School)
+- Ratios and proportional reasoning
+- Rational numbers (positive & negative)
+- Expressions and equations
+- Linear functions
+- Systems of equations (Grade 8)
+- Geometry (angles, area, surface area, volume)
+- Pythagorean theorem (Grade 8)
+- Statistics and probability
+4. DIFFICULTY DISTRIBUTION MODEL
+30% Basic (procedural fluency)
+45% Medium (multi-step reasoning)
+25% Advanced (deep conceptual reasoning)
+
+Questions increase in difficulty toward the end of each section.
+5. SCORING MODEL
+Raw Score → Performance Levels:
+
+Level 4 – Advanced
+Level 3 – Proficient
+Level 2 – Basic
+Level 1 – Below Basic
+
+Extended responses allow partial credit.
+Rubric-based scoring required for multi-step tasks.
+6. TEST GENERATION RULES FOR AI
+- Only generate standards covered in prior weekly curriculum progression.
+- Include a balanced mix of computational and reasoning items.
+- At least 40% of questions must involve real-world application.
+- Include multi-step problems in every section.
+- Interactive question types must simulate digital testing.
+- No calculator sections must be clearly defined (Grades 6–8).
+- Provide answer key and rubric for extended response items.
+7. CALCULATOR POLICY SIMULATION
+Grades 3–5: No calculator.
+Grades 6–8: Mixed sections (Calculator / No Calculator).
+Calculator allowed only in designated section.
