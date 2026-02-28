@@ -14,6 +14,9 @@ CREATE INDEX idx_test_instances_klassenarbeit
   ON test_instances(user_id, created_at DESC)
   WHERE klassenarbeit_data IS NOT NULL;
 
+-- ─── Drop old submit_test function and recreate with klassenarbeit_data storage ─
+DROP FUNCTION IF EXISTS submit_test(UUID, JSONB, JSONB) CASCADE;
+
 -- ─── Update submit_test RPC to store klassenarbeit_data ─────────────────
 CREATE OR REPLACE FUNCTION submit_test(
   p_test_id UUID,
@@ -399,7 +402,7 @@ BEGIN
     ti.created_at,
     ti.percentage,
     (ti.klassenarbeit_data->'note'->>'value')::INTEGER,
-    ti.klassenarbeit_data->>'note'->>'label',
+    (ti.klassenarbeit_data->'note'->>'label'),
     (ti.klassenarbeit_data->>'totalPoints')::NUMERIC,
     (ti.klassenarbeit_data->>'maxTotalPoints')::NUMERIC,
     ti.klassenarbeit_data->'sectionResults'
