@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Crosshair, Trophy, CheckCircle, XCircle, ArrowUp, Flame, Globe, Music, CircleDot, Sparkles, X } from "lucide-react";
+import { Crosshair, Trophy, CheckCircle, XCircle, ArrowUp, Flame, Globe, Music, CircleDot, Sparkles, Gamepad2, MapPin, Share2, Film, X } from "lucide-react";
 import Link from "next/link";
 import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
@@ -10,22 +10,34 @@ import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, incrementPerfectScores, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
 import generalData from "@/data/quickpick/general.json";
-import kpopData from "@/data/quickpick/kpop.json";
+import musicData from "@/data/quickpick/music.json";
 import footballData from "@/data/quickpick/football.json";
 import animeData from "@/data/quickpick/anime.json";
+import gamingData from "@/data/quickpick/gaming.json";
+import geographyData from "@/data/quickpick/geography.json";
+import socialData from "@/data/quickpick/social.json";
+import moviesData from "@/data/quickpick/movies.json";
 
 const THEME_DATA: Record<string, Question[]> = {
   general: generalData as Question[],
-  kpop: kpopData as Question[],
+  music: musicData as Question[],
   football: footballData as Question[],
   anime: animeData as Question[],
+  gaming: gamingData as Question[],
+  geography: geographyData as Question[],
+  social: socialData as Question[],
+  movies: moviesData as Question[],
 };
 
 const THEMES = [
   { id: "general", icon: Globe, label: "GEN", color: "#00D4FF" },
-  { id: "kpop", icon: Music, label: "K-POP", color: "#FF2D78" },
+  { id: "music", icon: Music, label: "MUSIC", color: "#FF2D78" },
   { id: "football", icon: CircleDot, label: "GOAL", color: "#00FF88" },
   { id: "anime", icon: Sparkles, label: "ANIME", color: "#FFD700" },
+  { id: "gaming", icon: Gamepad2, label: "GAME", color: "#8B5CF6" },
+  { id: "geography", icon: MapPin, label: "GEO", color: "#06B6D4" },
+  { id: "social", icon: Share2, label: "SOCIAL", color: "#F97316" },
+  { id: "movies", icon: Film, label: "FILM", color: "#EF4444" },
 ];
 
 interface Question {
@@ -42,9 +54,13 @@ interface Question {
 // Theme background gradients
 const THEME_GRADIENTS: Record<string, string> = {
   general: "from-blue-950/30 to-cyan-950/20",
-  kpop: "from-pink-950/30 to-purple-950/20",
+  music: "from-pink-950/30 to-purple-950/20",
   football: "from-green-950/30 to-emerald-950/20",
   anime: "from-amber-950/30 to-yellow-950/20",
+  gaming: "from-violet-950/30 to-purple-950/20",
+  geography: "from-cyan-950/30 to-teal-950/20",
+  social: "from-orange-950/30 to-amber-950/20",
+  movies: "from-red-950/30 to-rose-950/20",
 };
 
 type GameState = "theme-select" | "countdown" | "playing" | "reveal" | "result" | "reward";
@@ -256,14 +272,14 @@ export default function QuickPickPage() {
         >
           <Crosshair size={40} className="text-neon-pink" style={{ filter: "drop-shadow(0 0 15px rgba(255,45,120,0.5))" }} />
 
-          <div className="flex gap-3">
+          <div className="grid grid-cols-4 gap-2.5 w-full max-w-sm px-2">
             {THEMES.map((theme) => {
               const Icon = theme.icon;
               return (
                 <motion.button
                   key={theme.id}
                   onClick={() => startGame(theme.id)}
-                  className="bg-card border border-white/5 rounded-2xl p-5 flex flex-col items-center gap-2.5 w-24"
+                  className="bg-card border border-white/5 rounded-2xl p-4 flex flex-col items-center gap-2"
                   style={{ boxShadow: `0 0 0 0px ${theme.color}` }}
                   whileHover={{
                     scale: 1.08,
@@ -272,8 +288,8 @@ export default function QuickPickPage() {
                   }}
                   whileTap={{ scale: 0.95 }}
                 >
-                  <Icon size={28} style={{ color: theme.color, filter: `drop-shadow(0 0 6px ${theme.color}40)` }} />
-                  <span className="text-[10px] font-bold tracking-widest" style={{ color: theme.color }}>
+                  <Icon size={24} style={{ color: theme.color, filter: `drop-shadow(0 0 6px ${theme.color}40)` }} />
+                  <span className="text-[9px] font-bold tracking-wider" style={{ color: theme.color }}>
                     {theme.label}
                   </span>
                 </motion.button>

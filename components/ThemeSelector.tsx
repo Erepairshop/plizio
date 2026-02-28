@@ -10,9 +10,13 @@ export interface Theme {
 
 export const THEMES: Theme[] = [
   { id: "general", icon: "🌍", color: "#00D4FF" },
-  { id: "kpop", icon: "🎤", color: "#FF2D78" },
+  { id: "music", icon: "🎵", color: "#FF2D78" },
   { id: "football", icon: "⚽", color: "#00FF88" },
   { id: "anime", icon: "🌟", color: "#FFD700" },
+  { id: "gaming", icon: "🎮", color: "#8B5CF6" },
+  { id: "geography", icon: "📍", color: "#06B6D4" },
+  { id: "social", icon: "📱", color: "#F97316" },
+  { id: "movies", icon: "🎬", color: "#EF4444" },
 ];
 
 interface ThemeSelectorProps {

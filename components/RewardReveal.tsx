@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Sparkles, Trophy, Crosshair, Zap, Brain, Calendar, Mountain, Car, type LucideIcon } from "lucide-react";
+import { Sparkles, Trophy, Crosshair, Zap, Brain, Calendar, Mountain, Car, Search, Hash, Shuffle, Crown, Calculator, type LucideIcon } from "lucide-react";
 import { type CardRarity, getRarityConfig } from "@/lib/cards";
 import Confetti from "@/components/Confetti";
 
@@ -21,6 +21,11 @@ const GAME_ICONS: Record<string, LucideIcon> = {
   daily: Calendar,
   skyclimb: Mountain,
   citydrive: Car,
+  spotdiff: Search,
+  numberrush: Hash,
+  wordscramble: Shuffle,
+  milliomos: Crown,
+  mathtest: Calculator,
 };
 
 const GAME_COLORS: Record<string, string> = {
@@ -30,6 +35,11 @@ const GAME_COLORS: Record<string, string> = {
   daily: "#FFD700",
   skyclimb: "#00FF88",
   citydrive: "#FF6B00",
+  spotdiff: "#F59E0B",
+  numberrush: "#22D3EE",
+  wordscramble: "#34D399",
+  milliomos: "#FFD700",
+  mathtest: "#FFD700",
 };
 
 export default function RewardReveal({ rarity, game, score, total, onDone }: RewardRevealProps) {

@@ -1,0 +1,937 @@
+"use client";
+
+import { useState, useEffect, useMemo, useRef } from "react";
+import { motion, AnimatePresence } from "framer-motion";
+import { Canvas, useFrame } from "@react-three/fiber";
+import * as THREE from "three";
+import {
+  Calculator, ArrowLeft, Check, X as XIcon,
+  RotateCcw, Home, Send, BookOpen, Sparkles, Clock,
+} from "lucide-react";
+import Link from "next/link";
+import { useRouter } from "next/navigation";
+import RewardReveal from "@/components/RewardReveal";
+import { calculateRarity, saveCard, generateCardId, type CardRarity } from "@/lib/cards";
+import { incrementTotalGames, incrementPerfectScores } from "@/lib/milestones";
+import MilestonePopup from "@/components/MilestonePopup";
+import {
+  generateTest,
+  calculateGradeResult,
+  getMathGrade,
+  saveMathGrade,
+  updateMathStats,
+  getPeriod,
+  getPeriodLabel,
+  type MathQuestion,
+  type GradeResult,
+} from "@/lib/mathCurriculum";
+import {
+  COUNTRIES,
+  getCountryByCode,
+  getSavedCountry,
+  saveCountry,
+  type CountryConfig,
+} from "@/lib/mathLocale";
+
+// ─── 3D FLOATING BACKGROUND ─────────────────────────────
+
+const NEON_COLORS = ["#FF2D78", "#00D4FF", "#00FF88", "#FFD700", "#B44DFF"];
+
+function FloatingShape({
+  position, scale, speed, rotSpeed, color, shapeType,
+}: {
+  position: [number, number, number];
+  scale: number;
+  speed: number;
+  rotSpeed: number;
+  color: string;
+  shapeType: number;
+}) {
+  const ref = useRef<THREE.Mesh>(null);
+  const startY = position[1];
+  const startX = position[0];
+
+  useFrame((state) => {
+    if (!ref.current) return;
+    ref.current.rotation.x += 0.003 * rotSpeed;
+    ref.current.rotation.y += 0.005 * rotSpeed;
+    ref.current.rotation.z += 0.002 * rotSpeed;
+    ref.current.position.y = startY + Math.sin(state.clock.elapsedTime * speed) * 0.8;
+    ref.current.position.x = startX + Math.sin(state.clock.elapsedTime * speed * 0.7 + 1) * 0.3;
+  });
+
+  return (
+    <mesh ref={ref} position={position} scale={scale}>
+      {shapeType === 0 && <boxGeometry args={[1, 1, 1]} />}
+      {shapeType === 1 && <octahedronGeometry args={[0.7]} />}
+      {shapeType === 2 && <dodecahedronGeometry args={[0.6]} />}
+      {shapeType === 3 && <icosahedronGeometry args={[0.6]} />}
+      {shapeType === 4 && <tetrahedronGeometry args={[0.7]} />}
+      <meshStandardMaterial
+        color={color}
+        emissive={color}
+        emissiveIntensity={0.4}
+        transparent
+        opacity={0.5}
+        wireframe={shapeType % 2 === 0}
+      />
+    </mesh>
+  );
+}
+
+function MathBackground() {
+  const groupRef = useRef<THREE.Group>(null);
+  const shapes = useMemo(
+    () =>
+      Array.from({ length: 30 }, () => ({
+        position: [
+          (Math.random() - 0.5) * 20,
+          (Math.random() - 0.5) * 14,
+          (Math.random() - 0.5) * 10 - 3,
+        ] as [number, number, number],
+        scale: 0.2 + Math.random() * 0.5,
+        speed: 0.2 + Math.random() * 0.6,
+        rotSpeed: 0.5 + Math.random() * 1.5,
+        color: NEON_COLORS[Math.floor(Math.random() * NEON_COLORS.length)],
+        shapeType: Math.floor(Math.random() * 5),
+      })),
+    [],
+  );
+
+  useFrame((state) => {
+    if (groupRef.current) {
+      groupRef.current.rotation.y = Math.sin(state.clock.elapsedTime * 0.1) * 0.15;
+    }
+  });
+
+  return (
+    <group ref={groupRef}>
+      {shapes.map((s, i) => (
+        <FloatingShape key={i} {...s} />
+      ))}
+    </group>
+  );
+}
+
+function Scene3D() {
+  return (
+    <Canvas
+      camera={{ position: [0, 0, 10], fov: 60 }}
+      style={{ position: "absolute", inset: 0, zIndex: 0 }}
+      gl={{ antialias: true, alpha: true }}
+    >
+      <ambientLight intensity={0.2} />
+      <pointLight position={[10, 10, 10]} intensity={0.4} color="#FFD700" />
+      <pointLight position={[-10, -5, 5]} intensity={0.3} color="#00D4FF" />
+      <pointLight position={[0, 8, -5]} intensity={0.2} color="#FF2D78" />
+      <fog attach="fog" args={["#0A0A1A", 8, 25]} />
+      <MathBackground />
+    </Canvas>
+  );
+}
+
+// ─── 3D GRADE REVEAL ─────────────────────────────
+
+function ParticleDot({
+  pos, scale, speed, color,
+}: {
+  pos: [number, number, number];
+  scale: number;
+  speed: number;
+  color: string;
+}) {
+  const ref = useRef<THREE.Mesh>(null);
+
+  useFrame((state) => {
+    if (!ref.current) return;
+    ref.current.position.x = pos[0] + Math.sin(state.clock.elapsedTime * speed) * 0.5;
+    ref.current.position.y = pos[1] + Math.cos(state.clock.elapsedTime * speed * 0.8) * 0.5;
+    ref.current.position.z = pos[2] + Math.sin(state.clock.elapsedTime * speed * 0.6 + 1) * 0.3;
+  });
+
+  return (
+    <mesh ref={ref} position={pos} scale={scale}>
+      <sphereGeometry args={[1, 8, 8]} />
+      <meshStandardMaterial color={color} emissive={color} emissiveIntensity={1} />
+    </mesh>
+  );
+}
+
+function GradeShape({ grade }: { grade: number }) {
+  const ref = useRef<THREE.Group>(null);
+  const gradeColor = grade >= 4 ? "#FFD700" : grade === 3 ? "#00D4FF" : grade === 2 ? "#FF6B00" : "#FF2D78";
+
+  useFrame((state) => {
+    if (!ref.current) return;
+    ref.current.rotation.y = Math.sin(state.clock.elapsedTime * 0.8) * 0.4;
+    ref.current.position.y = Math.sin(state.clock.elapsedTime * 0.5) * 0.3;
+  });
+
+  const particles = useMemo(
+    () =>
+      Array.from({ length: grade >= 4 ? 40 : 20 }, () => ({
+        pos: [
+          (Math.random() - 0.5) * 6,
+          (Math.random() - 0.5) * 6,
+          (Math.random() - 0.5) * 4,
+        ] as [number, number, number],
+        scale: 0.03 + Math.random() * 0.08,
+        speed: 0.5 + Math.random() * 2,
+      })),
+    [grade],
+  );
+
+  return (
+    <group ref={ref}>
+      {grade === 5 && (
+        <mesh>
+          <dodecahedronGeometry args={[1.5]} />
+          <meshStandardMaterial color={gradeColor} emissive={gradeColor} emissiveIntensity={0.8} wireframe />
+        </mesh>
+      )}
+      {grade === 4 && (
+        <mesh>
+          <octahedronGeometry args={[1.3]} />
+          <meshStandardMaterial color={gradeColor} emissive={gradeColor} emissiveIntensity={0.6} wireframe />
+        </mesh>
+      )}
+      {grade === 3 && (
+        <mesh>
+          <icosahedronGeometry args={[1.2]} />
+          <meshStandardMaterial color={gradeColor} emissive={gradeColor} emissiveIntensity={0.4} wireframe />
+        </mesh>
+      )}
+      {grade <= 2 && (
+        <mesh>
+          <boxGeometry args={[1.5, 1.5, 1.5]} />
+          <meshStandardMaterial color={gradeColor} emissive={gradeColor} emissiveIntensity={0.3} wireframe />
+        </mesh>
+      )}
+      {particles.map((p, i) => (
+        <ParticleDot key={i} {...p} color={gradeColor} />
+      ))}
+    </group>
+  );
+}
+
+function GradeScene({ grade }: { grade: number }) {
+  const gradeColor = grade >= 4 ? "#FFD700" : grade === 3 ? "#00D4FF" : grade === 2 ? "#FF6B00" : "#FF2D78";
+  return (
+    <Canvas
+      camera={{ position: [0, 0, 5], fov: 50 }}
+      style={{ width: "200px", height: "200px" }}
+      gl={{ antialias: true, alpha: true }}
+    >
+      <ambientLight intensity={0.3} />
+      <pointLight position={[5, 5, 5]} intensity={0.5} color={gradeColor} />
+      <pointLight position={[-5, -3, 3]} intensity={0.3} color="#fff" />
+      <GradeShape grade={grade} />
+    </Canvas>
+  );
+}
+
+// ─── STREAK ─────────────────────────────
+
+function getStreak(): number {
+  if (typeof window === "undefined") return 0;
+  const data = localStorage.getItem("plizio_streak");
+  if (!data) return 0;
+  const { count, lastDate } = JSON.parse(data);
+  const today = new Date().toDateString();
+  const yesterday = new Date(Date.now() - 86400000).toDateString();
+  if (lastDate === today || lastDate === yesterday) return count;
+  return 0;
+}
+
+function updateStreak(): number {
+  if (typeof window === "undefined") return 0;
+  const data = localStorage.getItem("plizio_streak");
+  const today = new Date().toDateString();
+  if (data) {
+    const { count, lastDate } = JSON.parse(data);
+    if (lastDate === today) return count;
+    const yesterday = new Date(Date.now() - 86400000).toDateString();
+    const newCount = lastDate === yesterday ? count + 1 : 1;
+    localStorage.setItem("plizio_streak", JSON.stringify({ count: newCount, lastDate: today }));
+    return newCount;
+  }
+  localStorage.setItem("plizio_streak", JSON.stringify({ count: 1, lastDate: today }));
+  return 1;
+}
+
+// ─── MAIN COMPONENT ─────────────────────────────
+
+type GameState = "country-select" | "grade-select" | "countdown" | "playing" | "grading" | "result" | "reward";
+
+export default function MathTestPage() {
+  const router = useRouter();
+  const [gameState, setGameState] = useState<GameState>("country-select");
+  const [country, setCountry] = useState<CountryConfig | null>(null);
+  const [selectedGrade, setSelectedGrade] = useState<number | null>(null);
+  const [previousGrade, setPreviousGrade] = useState<number | null>(null);
+  const [countdown, setCountdown] = useState(3);
+  const [questions, setQuestions] = useState<MathQuestion[]>([]);
+  const [answers, setAnswers] = useState<(number | null)[]>([]);
+  const [gradingIndex, setGradingIndex] = useState(-1);
+  const [gradeResult, setGradeResult] = useState<GradeResult | null>(null);
+  const [cardRarity, setCardRarity] = useState<CardRarity | null>(null);
+  const [saved, setSaved] = useState(false);
+  const [elapsedTime, setElapsedTime] = useState(0);
+  const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
+
+  // Load saved country + grade on mount
+  useEffect(() => {
+    const savedCode = getSavedCountry();
+    if (savedCode) {
+      setCountry(getCountryByCode(savedCode));
+      setGameState("grade-select");
+    }
+    const prev = getMathGrade();
+    if (prev) setPreviousGrade(prev);
+  }, []);
+
+  const handleCountrySelect = (c: CountryConfig) => {
+    setCountry(c);
+    saveCountry(c.code);
+    setGameState("grade-select");
+  };
+
+  // Countdown
+  useEffect(() => {
+    if (gameState !== "countdown") return;
+    if (countdown <= 0) {
+      setGameState("playing");
+      return;
+    }
+    const t = setTimeout(() => setCountdown((c) => c - 1), 800);
+    return () => clearTimeout(t);
+  }, [gameState, countdown]);
+
+  // Timer during playing
+  useEffect(() => {
+    if (gameState === "playing") {
+      timerRef.current = setInterval(() => setElapsedTime((t) => t + 1), 1000);
+    } else {
+      if (timerRef.current) clearInterval(timerRef.current);
+    }
+    return () => {
+      if (timerRef.current) clearInterval(timerRef.current);
+    };
+  }, [gameState]);
+
+  // Grading animation
+  useEffect(() => {
+    if (gameState !== "grading") return;
+    if (gradingIndex < questions.length) {
+      const t = setTimeout(() => setGradingIndex((i) => i + 1), 400);
+      return () => clearTimeout(t);
+    } else {
+      // All graded
+      const score = answers.reduce<number>(
+        (acc, a, i) => acc + (a === questions[i].correctAnswer ? 1 : 0),
+        0,
+      );
+      const result = calculateGradeResult(score, questions.length);
+      setGradeResult(result);
+      setTimeout(() => setGameState("result"), 600);
+    }
+  }, [gameState, gradingIndex, questions, answers]);
+
+  // Save card & stats on result
+  useEffect(() => {
+    if (gameState !== "result" || saved || !gradeResult || !selectedGrade) return;
+    setSaved(true);
+
+    const streak = updateStreak();
+    const rarity = calculateRarity(gradeResult.score, gradeResult.total, streak);
+    setCardRarity(rarity);
+
+    saveCard({
+      id: generateCardId(),
+      game: "mathtest",
+      theme: `${selectedGrade}. osztály`,
+      rarity,
+      score: gradeResult.score,
+      total: gradeResult.total,
+      date: new Date().toISOString(),
+    });
+
+    const topicResults = questions.map((q, i) => ({
+      topic: q.topic,
+      correct: answers[i] === q.correctAnswer,
+    }));
+    updateMathStats(selectedGrade, gradeResult.percentage, topicResults);
+
+    incrementTotalGames();
+    if (gradeResult.percentage === 100) incrementPerfectScores();
+  }, [gameState, saved, gradeResult, selectedGrade, questions, answers]);
+
+  const handleGradeSelect = (grade: number) => {
+    setSelectedGrade(grade);
+    saveMathGrade(grade);
+    const test = generateTest(grade);
+    setQuestions(test);
+    setAnswers(new Array(test.length).fill(null));
+    setCountdown(3);
+    setElapsedTime(0);
+    setGradingIndex(-1);
+    setGradeResult(null);
+    setSaved(false);
+    setCardRarity(null);
+    setGameState("countdown");
+  };
+
+  const handleAnswer = (questionIndex: number, answer: number) => {
+    setAnswers((prev) => {
+      const next = [...prev];
+      next[questionIndex] = answer;
+      return next;
+    });
+  };
+
+  const handleSubmit = () => {
+    setGradingIndex(0);
+    setGameState("grading");
+  };
+
+  const handlePlayAgain = () => {
+    if (selectedGrade) {
+      const test = generateTest(selectedGrade);
+      setQuestions(test);
+      setAnswers(new Array(test.length).fill(null));
+      setCountdown(3);
+      setElapsedTime(0);
+      setGradingIndex(-1);
+      setGradeResult(null);
+      setSaved(false);
+      setCardRarity(null);
+      setGameState("countdown");
+    }
+  };
+
+  const allAnswered = answers.every((a) => a !== null);
+
+  const ui = country?.ui;
+
+  // ─── COUNTRY SELECT SCREEN ─────────────────────────────
+
+  if (gameState === "country-select") {
+    return (
+      <main className="min-h-screen relative overflow-hidden bg-bg">
+        <Scene3D />
+        <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4 py-8 gap-8">
+          {/* Back */}
+          <motion.div className="absolute top-6 left-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            <Link href="/">
+              <motion.div
+                className="p-2 rounded-xl bg-white/5 border border-white/10"
+                whileHover={{ scale: 1.1, backgroundColor: "rgba(255,255,255,0.1)" }}
+                whileTap={{ scale: 0.9 }}
+              >
+                <ArrowLeft size={20} className="text-white/60" />
+              </motion.div>
+            </Link>
+          </motion.div>
+
+          {/* Title */}
+          <motion.div
+            className="flex flex-col items-center gap-3"
+            initial={{ opacity: 0, y: -20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6 }}
+          >
+            <motion.div
+              className="p-4 rounded-2xl"
+              style={{ background: "rgba(255,215,0,0.1)", boxShadow: "0 0 30px rgba(255,215,0,0.15)" }}
+            >
+              <Calculator
+                size={40}
+                className="text-gold"
+                style={{ filter: "drop-shadow(0 0 10px rgba(255,215,0,0.5))" }}
+              />
+            </motion.div>
+            <h1
+              className="text-3xl font-black text-white tracking-wider"
+              style={{ textShadow: "0 0 20px rgba(255,215,0,0.3)" }}
+            >
+              MATH TEST
+            </h1>
+          </motion.div>
+
+          {/* Country question */}
+          <motion.p
+            className="text-white/60 text-lg font-bold text-center"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ delay: 0.3 }}
+          >
+            Melyik országban jársz iskolába?
+          </motion.p>
+
+          {/* Country buttons */}
+          <motion.div
+            className="flex flex-col gap-3 w-full max-w-xs"
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.4 }}
+          >
+            {COUNTRIES.map((c, i) => (
+              <motion.button
+                key={c.code}
+                onClick={() => handleCountrySelect(c)}
+                className="flex items-center gap-4 px-5 py-4 rounded-2xl border border-white/10 bg-white/5 transition-all"
+                initial={{ opacity: 0, x: -20 }}
+                animate={{ opacity: 1, x: 0 }}
+                transition={{ delay: 0.5 + i * 0.08 }}
+                whileHover={{ scale: 1.03, backgroundColor: "rgba(255,215,0,0.08)", borderColor: "rgba(255,215,0,0.3)" }}
+                whileTap={{ scale: 0.97 }}
+              >
+                <span className="text-3xl">{c.flag}</span>
+                <span className="text-white/70 font-bold text-sm">{c.name}</span>
+              </motion.button>
+            ))}
+          </motion.div>
+        </div>
+      </main>
+    );
+  }
+
+  // ─── GRADE SELECT SCREEN ─────────────────────────────
+
+  if (gameState === "grade-select" && country) {
+    return (
+      <main className="min-h-screen relative overflow-hidden bg-bg">
+        <Scene3D />
+        <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4 py-8 gap-8">
+          {/* Back */}
+          <motion.div className="absolute top-6 left-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            <Link href="/">
+              <motion.div
+                className="p-2 rounded-xl bg-white/5 border border-white/10"
+                whileHover={{ scale: 1.1, backgroundColor: "rgba(255,255,255,0.1)" }}
+                whileTap={{ scale: 0.9 }}
+              >
+                <ArrowLeft size={20} className="text-white/60" />
+              </motion.div>
+            </Link>
+          </motion.div>
+
+          {/* Country flag - tap to change */}
+          <motion.button
+            className="absolute top-6 right-6 text-2xl p-2 rounded-xl bg-white/5 border border-white/10"
+            onClick={() => setGameState("country-select")}
+            whileHover={{ scale: 1.1 }}
+            whileTap={{ scale: 0.9 }}
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+          >
+            {country.flag}
+          </motion.button>
+
+          {/* Title */}
+          <motion.div
+            className="flex flex-col items-center gap-3"
+            initial={{ opacity: 0, y: -20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6 }}
+          >
+            <motion.div
+              className="p-4 rounded-2xl"
+              style={{ background: "rgba(255,215,0,0.1)", boxShadow: "0 0 30px rgba(255,215,0,0.15)" }}
+            >
+              <Calculator
+                size={40}
+                className="text-gold"
+                style={{ filter: "drop-shadow(0 0 10px rgba(255,215,0,0.5))" }}
+              />
+            </motion.div>
+            <h1
+              className="text-3xl font-black text-white tracking-wider"
+              style={{ textShadow: "0 0 20px rgba(255,215,0,0.3)" }}
+            >
+              {ui?.title || "MATEK DOLGOZAT"}
+            </h1>
+            <p className="text-white/40 text-sm font-medium">{getPeriodLabel(getPeriod())}</p>
+          </motion.div>
+
+          {/* Question */}
+          <motion.p
+            className="text-white/60 text-lg font-bold text-center"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ delay: 0.3 }}
+          >
+            {ui?.gradeQuestion || "Hanyadik osztályba jársz?"}
+          </motion.p>
+
+          {/* Grade buttons */}
+          <motion.div
+            className="grid grid-cols-4 gap-3 max-w-xs"
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.4 }}
+          >
+            {country.grades.map((grade, i) => (
+              <motion.button
+                key={grade}
+                onClick={() => handleGradeSelect(grade)}
+                className="relative w-16 h-16 rounded-2xl font-black text-2xl border transition-all"
+                style={{
+                  background: previousGrade === grade ? "rgba(255,215,0,0.15)" : "rgba(255,255,255,0.05)",
+                  borderColor: previousGrade === grade ? "rgba(255,215,0,0.4)" : "rgba(255,255,255,0.1)",
+                  color: previousGrade === grade ? "#FFD700" : "rgba(255,255,255,0.7)",
+                  boxShadow: previousGrade === grade ? "0 0 20px rgba(255,215,0,0.2)" : undefined,
+                }}
+                initial={{ opacity: 0, scale: 0 }}
+                animate={{ opacity: 1, scale: 1 }}
+                transition={{ delay: 0.5 + i * 0.05, type: "spring" }}
+                whileHover={{ scale: 1.1, backgroundColor: "rgba(255,215,0,0.1)" }}
+                whileTap={{ scale: 0.9 }}
+              >
+                {grade}.
+                {previousGrade === grade && (
+                  <span className="absolute -bottom-1 left-1/2 -translate-x-1/2 text-[8px] text-gold/50 font-bold whitespace-nowrap">
+                    {ui?.lastUsed || "LEGUTÓBB"}
+                  </span>
+                )}
+              </motion.button>
+            ))}
+          </motion.div>
+        </div>
+      </main>
+    );
+  }
+
+  // ─── COUNTDOWN ─────────────────────────────
+
+  if (gameState === "countdown") {
+    return (
+      <main className="min-h-screen bg-bg flex items-center justify-center">
+        <AnimatePresence mode="wait">
+          <motion.div
+            key={countdown}
+            className="text-8xl font-black text-gold"
+            style={{ textShadow: "0 0 40px rgba(255,215,0,0.5)" }}
+            initial={{ scale: 0.5, opacity: 0 }}
+            animate={{ scale: 1, opacity: 1 }}
+            exit={{ scale: 2, opacity: 0 }}
+            transition={{ duration: 0.4 }}
+          >
+            {countdown > 0 ? countdown : "✏️"}
+          </motion.div>
+        </AnimatePresence>
+      </main>
+    );
+  }
+
+  // ─── TEST PAPER (PLAYING & GRADING) ─────────────────────────────
+
+  if (gameState === "playing" || gameState === "grading") {
+    const isGrading = gameState === "grading";
+
+    return (
+      <main className="min-h-screen bg-bg">
+        <div
+          className="min-h-screen"
+          style={{
+            background: "#f5f0e8",
+            backgroundImage: `
+              linear-gradient(rgba(180, 210, 240, 0.3) 1px, transparent 1px),
+              linear-gradient(90deg, rgba(180, 210, 240, 0.3) 1px, transparent 1px)
+            `,
+            backgroundSize: "20px 20px",
+          }}
+        >
+          <div className="relative max-w-lg mx-auto" style={{ borderLeft: "2px solid rgba(220, 100, 100, 0.4)" }}>
+            <div className="px-4 sm:px-6 py-4 pb-32">
+              {/* Header */}
+              <motion.div
+                className="mb-6 pb-4"
+                style={{ borderBottom: "1px solid rgba(0,0,0,0.1)" }}
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+              >
+                <h1 className="text-lg font-black text-gray-800 tracking-wide mb-2">
+                  📐 {ui?.title || "MATEMATIKA DOLGOZAT"}
+                </h1>
+                <div className="flex justify-between text-xs text-gray-500 font-mono">
+                  <span>{ui?.classLabel || "Osztály"}: {selectedGrade}.</span>
+                  <span>{new Date().toLocaleDateString("hu-HU")}</span>
+                </div>
+                {!isGrading && (
+                  <div className="flex items-center gap-1 mt-2 text-xs text-gray-400">
+                    <Clock size={12} />
+                    <span className="font-mono">
+                      {Math.floor(elapsedTime / 60)}:{(elapsedTime % 60).toString().padStart(2, "0")}
+                    </span>
+                    <span className="ml-4">
+                      {answers.filter((a) => a !== null).length}/{questions.length} {ui?.solved || "megoldva"}
+                    </span>
+                  </div>
+                )}
+                {isGrading && (
+                  <div className="flex items-center gap-2 mt-2">
+                    <span className="text-xs text-red-500 font-bold font-mono">✏️ {ui?.grading || "Javítás..."}</span>
+                    <span className="text-xs text-gray-400">
+                      {Math.min(gradingIndex, questions.length)}/{questions.length}
+                    </span>
+                  </div>
+                )}
+              </motion.div>
+
+              {/* Questions */}
+              {questions.map((question, qi) => {
+                const isGraded = isGrading && qi < gradingIndex;
+                const isCorrect = answers[qi] === question.correctAnswer;
+
+                return (
+                  <motion.div
+                    key={qi}
+                    className="mb-6 relative"
+                    initial={{ opacity: 0, y: 10 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ delay: isGrading ? 0 : qi * 0.05 }}
+                  >
+                    {/* Question */}
+                    <div className="flex gap-2 mb-3">
+                      <span className="flex-shrink-0 w-7 h-7 rounded-full bg-gray-800 text-white text-xs font-bold flex items-center justify-center">
+                        {qi + 1}
+                      </span>
+                      <p
+                        className={`text-sm font-medium leading-relaxed ${
+                          question.isWordProblem ? "text-gray-700 italic" : "text-gray-800"
+                        }`}
+                      >
+                        {question.question}
+                      </p>
+                    </div>
+
+                    {/* Options */}
+                    <div className="grid grid-cols-2 gap-2 ml-9">
+                      {question.options.map((opt, oi) => {
+                        const isSelected = answers[qi] === opt;
+                        const isCorrectOpt = opt === question.correctAnswer;
+
+                        let bg = "bg-white";
+                        let border = "border-gray-200";
+                        let text = "text-gray-700";
+                        let extra = "";
+
+                        if (isGrading && isGraded) {
+                          if (isCorrectOpt) {
+                            bg = "bg-green-50"; border = "border-green-400"; text = "text-green-700";
+                          } else if (isSelected && !isCorrectOpt) {
+                            bg = "bg-red-50"; border = "border-red-400"; text = "text-red-600"; extra = "line-through";
+                          } else {
+                            bg = "bg-white"; border = "border-gray-200"; text = "text-gray-400";
+                          }
+                        } else if (isSelected) {
+                          bg = "bg-blue-50"; border = "border-blue-400"; text = "text-blue-700"; extra = "ring-2 ring-blue-300";
+                        }
+
+                        return (
+                          <motion.button
+                            key={oi}
+                            onClick={() => !isGrading && handleAnswer(qi, opt)}
+                            disabled={isGrading}
+                            className={`px-3 py-2.5 rounded-xl border-2 text-sm font-bold transition-all ${bg} ${border} ${text} ${extra}`}
+                            whileHover={!isGrading ? { scale: 1.03 } : undefined}
+                            whileTap={!isGrading ? { scale: 0.97 } : undefined}
+                          >
+                            {opt}
+                          </motion.button>
+                        );
+                      })}
+                    </div>
+
+                    {/* Grading mark */}
+                    {isGrading && isGraded && (
+                      <motion.div
+                        className="absolute -right-1 top-0"
+                        initial={{ scale: 0, rotate: -20 }}
+                        animate={{ scale: 1, rotate: 0 }}
+                        transition={{ type: "spring", stiffness: 300 }}
+                      >
+                        {isCorrect ? (
+                          <Check
+                            size={28}
+                            className="text-green-500"
+                            style={{ filter: "drop-shadow(0 0 4px rgba(34,197,94,0.5))" }}
+                          />
+                        ) : (
+                          <XIcon
+                            size={28}
+                            className="text-red-500"
+                            style={{ filter: "drop-shadow(0 0 4px rgba(239,68,68,0.5))" }}
+                          />
+                        )}
+                      </motion.div>
+                    )}
+                  </motion.div>
+                );
+              })}
+            </div>
+
+            {/* Submit button */}
+            {!isGrading && (
+              <div
+                className="fixed bottom-0 left-0 right-0 p-4 z-20"
+                style={{ background: "linear-gradient(transparent, #f5f0e8 30%)" }}
+              >
+                <motion.button
+                  onClick={handleSubmit}
+                  disabled={!allAnswered}
+                  className={`w-full max-w-lg mx-auto block py-4 rounded-2xl font-black text-lg tracking-wider transition-all ${
+                    allAnswered
+                      ? "bg-gray-800 text-white shadow-lg"
+                      : "bg-gray-300 text-gray-500 cursor-not-allowed"
+                  }`}
+                  whileHover={allAnswered ? { scale: 1.02 } : undefined}
+                  whileTap={allAnswered ? { scale: 0.98 } : undefined}
+                >
+                  <div className="flex items-center justify-center gap-2">
+                    <Send size={20} />
+                    {ui?.submit || "BEADOM!"}
+                  </div>
+                </motion.button>
+              </div>
+            )}
+          </div>
+        </div>
+      </main>
+    );
+  }
+
+  // ─── RESULT SCREEN ─────────────────────────────
+
+  if (gameState === "result" && gradeResult) {
+    const gc = gradeResult.mark.color;
+    // Map percentage to 3D grade shape (1-5 for visual)
+    const visualGrade = gradeResult.percentage >= 90 ? 5 : gradeResult.percentage >= 75 ? 4 : gradeResult.percentage >= 60 ? 3 : gradeResult.percentage >= 40 ? 2 : 1;
+
+    return (
+      <main className="min-h-screen bg-bg flex items-center justify-center px-4">
+        <motion.div
+          className="flex flex-col items-center gap-6 max-w-sm w-full"
+          initial={{ opacity: 0, scale: 0.9 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ type: "spring" }}
+        >
+          {/* 3D Grade */}
+          <div className="relative">
+            <GradeScene grade={visualGrade} />
+            <motion.div
+              className="absolute inset-0 flex items-center justify-center"
+              initial={{ scale: 0 }}
+              animate={{ scale: 1 }}
+              transition={{ delay: 0.3, type: "spring", stiffness: 100 }}
+            >
+              <span
+                className="text-7xl font-black"
+                style={{ color: gc, textShadow: `0 0 30px ${gc}60, 0 0 60px ${gc}30` }}
+              >
+                {gradeResult.mark.display}
+              </span>
+            </motion.div>
+          </div>
+
+          {/* Grade label */}
+          <motion.div
+            className="text-center"
+            initial={{ opacity: 0, y: 10 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.5 }}
+          >
+            <p className="text-3xl font-black" style={{ color: gc }}>
+              {gradeResult.mark.label}
+            </p>
+            <p className="text-white/40 text-sm mt-1">
+              {gradeResult.score}/{gradeResult.total} ({gradeResult.percentage}%)
+            </p>
+            <p className="text-white/30 text-xs mt-1 font-mono">
+              {country?.gradeLabel(selectedGrade!) || `${selectedGrade}. osztály`} &bull;{" "}
+              {Math.floor(elapsedTime / 60)}:{(elapsedTime % 60).toString().padStart(2, "0")}
+            </p>
+          </motion.div>
+
+          {/* Buttons */}
+          <motion.div
+            className="flex gap-3 w-full mt-4"
+            initial={{ opacity: 0, y: 10 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.7 }}
+          >
+            {/* Retry */}
+            <motion.button
+              onClick={handlePlayAgain}
+              className="flex-1 py-3 rounded-xl border-2 font-bold text-sm flex items-center justify-center gap-2"
+              style={{ borderColor: `${gc}40`, color: gc, background: `${gc}10` }}
+              whileHover={{ scale: 1.03 }}
+              whileTap={{ scale: 0.97 }}
+            >
+              <RotateCcw size={18} />
+              {ui?.retry || "Újraírom"}
+            </motion.button>
+
+            {/* Card */}
+            <motion.button
+              onClick={() => setGameState("reward")}
+              className="flex-1 py-3 rounded-xl border-2 border-gold/40 text-gold font-bold text-sm flex items-center justify-center gap-2"
+              style={{ background: "rgba(255,215,0,0.1)" }}
+              whileHover={{ scale: 1.03 }}
+              whileTap={{ scale: 0.97 }}
+            >
+              <Sparkles size={18} />
+              {ui?.card || "Kártya"}
+            </motion.button>
+
+            {/* Different grade */}
+            <motion.button
+              onClick={() => setGameState("grade-select")}
+              className="flex-1 py-3 rounded-xl border-2 border-white/10 text-white/50 font-bold text-sm flex items-center justify-center gap-2"
+              style={{ background: "rgba(255,255,255,0.05)" }}
+              whileHover={{ scale: 1.03 }}
+              whileTap={{ scale: 0.97 }}
+            >
+              <BookOpen size={18} />
+              {ui?.other || "Másik"}
+            </motion.button>
+          </motion.div>
+
+          {/* Home */}
+          <motion.button
+            onClick={() => router.push("/")}
+            className="py-2.5 px-6 rounded-xl bg-white/5 border border-white/10 text-white/40 text-sm font-bold flex items-center gap-2"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ delay: 0.9 }}
+            whileHover={{ scale: 1.05, backgroundColor: "rgba(255,255,255,0.1)" }}
+            whileTap={{ scale: 0.95 }}
+          >
+            <Home size={16} />
+            {ui?.home || "Főmenü"}
+          </motion.button>
+        </motion.div>
+
+        {/* Milestone popup */}
+        <MilestonePopup />
+      </main>
+    );
+  }
+
+  // ─── REWARD SCREEN ─────────────────────────────
+
+  if (gameState === "reward" && cardRarity && gradeResult) {
+    return (
+      <RewardReveal
+        rarity={cardRarity}
+        game="mathtest"
+        score={gradeResult.score}
+        total={gradeResult.total}
+        onDone={() => router.push("/")}
+      />
+    );
+  }
+
+  return null;
+}

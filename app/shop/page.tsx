@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Star, ArrowLeft, Zap, Shield, Clock, Eye, Mountain, Crosshair, Brain, Check, X } from "lucide-react";
+import { Star, ArrowLeft, Zap, Shield, Clock, Eye, Mountain, Crosshair, Brain, Check, Car, X, Gauge, Flame, Cog, Wind, Crown, Shuffle, Scissors } from "lucide-react";
 import Link from "next/link";
 import { getSpecialCardCount, spendSpecialCards } from "@/lib/specialCards";
 import { SKINS, getOwnedSkins, getActiveSkin, setActiveSkin, buySkin, type SkinDef } from "@/lib/skins";
@@ -11,10 +11,40 @@ import {
   getOwnedHats, getActiveHat, setActiveHat, buyHat, type HatDef,
   getOwnedTrails, getActiveTrail, setActiveTrail, buyTrail, type TrailDef,
 } from "@/lib/accessories";
+import {
+  TOPS, BOTTOMS, SHOES, CAPES, GLASSES, GLOVES,
+  getOwned, getActive, setActive, buyItem,
+  type TopDef, type BottomDef, type ShoeDef, type CapeDef, type GlassesDef, type GloveDef,
+} from "@/lib/clothing";
+import { FACES, getOwnedFaces, getActiveFace, setActiveFace, buyFace, type FaceDef } from "@/lib/faces";
+
+// ─── CAR DEFINITIONS (shared with citydrive) ────────────
+interface CarDef {
+  id: string; name: string; price: number; color: string;
+  maxSpeed: number; accel: number; handling: number;
+  canDrift: boolean; canNitro: boolean;
+  desc: string;
+}
+
+const CARS: CarDef[] = [
+  { id: "starter", name: "Starter", price: 0, color: "#999999", maxSpeed: 19, accel: 15, handling: 2.5, canDrift: false, canNitro: false, desc: "Megbízható kezdő autó. Lassú de könnyen kezelhető." },
+  { id: "sedan", name: "Sedan", price: 2, color: "#0066FF", maxSpeed: 25, accel: 18, handling: 2.8, canDrift: false, canNitro: false, desc: "Kiegyensúlyozott családi szedán. Jó gyorsulás és kezelhetőség." },
+  { id: "muscle", name: "Muscle", price: 5, color: "#FF6600", maxSpeed: 32, accel: 22, handling: 2.5, canDrift: true, canNitro: false, desc: "Erős izomautó drift képességgel. Nehezebb a kormányzás." },
+  { id: "racer", name: "Racer", price: 10, color: "#FF2222", maxSpeed: 38, accel: 26, handling: 3.2, canDrift: true, canNitro: false, desc: "Versenyautó. Kiváló sebesség és kezelhetőség drifttel." },
+  { id: "supercar", name: "Supercar", price: 20, color: "#9933FF", maxSpeed: 45, accel: 30, handling: 3.5, canDrift: true, canNitro: true, desc: "A legjobb. Nitro boost, drift, maximális sebesség és gyorsulás." },
+];
+
+const OWNED_CARS_KEY = "citydrive_owned_cars";
+const ACTIVE_CAR_KEY = "citydrive_active_car";
+function getOwnedCarsLS(): string[] { try { return JSON.parse(localStorage.getItem(OWNED_CARS_KEY) || '["starter"]'); } catch { return ["starter"]; } }
+function setOwnedCarsLS(ids: string[]) { try { localStorage.setItem(OWNED_CARS_KEY, JSON.stringify(ids)); } catch {} }
+function getActiveCarLS(): string { try { return localStorage.getItem(ACTIVE_CAR_KEY) || "starter"; } catch { return "starter"; } }
+function setActiveCarLS(id: string) { try { localStorage.setItem(ACTIVE_CAR_KEY, id); } catch {} }
 
 // ─── POWER-UP DEFINITIONS ────────────────────────────
 interface PowerUpDef {
   id: string;
+  name: string;
   icon: typeof Zap;
   game: string;
   gameIcon: typeof Mountain;
@@ -23,28 +53,202 @@ interface PowerUpDef {
 }
 
 const POWER_UPS: PowerUpDef[] = [
-  { id: "sky_extralife", icon: Shield, game: "Sky Climb", gameIcon: Mountain, color: "#00FF88", price: 1 },
-  { id: "qp_hint", icon: Eye, game: "Quick Pick", gameIcon: Crosshair, color: "#FF2D78", price: 1 },
-  { id: "rg_extratime", icon: Clock, game: "Reflex Grid", gameIcon: Zap, color: "#00D4FF", price: 1 },
-  { id: "mf_longerview", icon: Eye, game: "Memory Flash", gameIcon: Brain, color: "#B44DFF", price: 1 },
+  { id: "sky_extralife", name: "Extra Life", icon: Shield, game: "Sky Climb", gameIcon: Mountain, color: "#00FF88", price: 1 },
+  { id: "qp_hint", name: "Hint", icon: Eye, game: "Quick Pick", gameIcon: Crosshair, color: "#FF2D78", price: 1 },
+  { id: "rg_extratime", name: "Extra Time", icon: Clock, game: "Reflex Grid", gameIcon: Zap, color: "#00D4FF", price: 1 },
+  { id: "mf_longerview", name: "Longer View", icon: Eye, game: "Memory Flash", gameIcon: Brain, color: "#B44DFF", price: 1 },
+  { id: "mm_extra5050", name: "Extra 50:50", icon: Scissors, game: "Milliomos", gameIcon: Crown, color: "#FFD700", price: 1 },
+  { id: "mm_doubledip", name: "Double Dip", icon: Shield, game: "Milliomos", gameIcon: Crown, color: "#FFD700", price: 2 },
+  { id: "ws_reveal", name: "Reveal Letter", icon: Eye, game: "Word Scramble", gameIcon: Shuffle, color: "#34D399", price: 1 },
+  { id: "ws_extratime", name: "Extra Time", icon: Clock, game: "Word Scramble", gameIcon: Shuffle, color: "#34D399", price: 1 },
 ];
 
 // ─── ABILITY DEFINITIONS ─────────────────────────────
 interface AbilityDef {
   id: string;
+  name: string;
   icon: string;
   color: string;
   price: number;
 }
 
 const ABILITIES: AbilityDef[] = [
-  { id: "double_jump", icon: "⬆️", color: "#00FF88", price: 3 },
-  { id: "slow_mo", icon: "⏳", color: "#00D4FF", price: 3 },
-  { id: "teleport", icon: "🌀", color: "#B44DFF", price: 5 },
-  { id: "shield_plus", icon: "🛡️", color: "#FFD700", price: 3 },
+  { id: "double_jump", name: "Double Jump", icon: "⬆️", color: "#00FF88", price: 3 },
+  { id: "slow_mo", name: "Slow Motion", icon: "⏳", color: "#00D4FF", price: 3 },
+  { id: "teleport", name: "Teleport", icon: "🌀", color: "#B44DFF", price: 5 },
+  { id: "shield_plus", name: "Shield+", icon: "🛡️", color: "#FFD700", price: 3 },
 ];
 
-type Tab = "powerups" | "skins" | "hats" | "trails" | "abilities";
+type Tab = "cars" | "powerups" | "skins" | "abilities";
+
+// ─── CAR SVG ICON ─────────────────────────────────
+function CarIcon({ color, size = 80 }: { color: string; size?: number }) {
+  return (
+    <svg width={size} height={size * 0.5} viewBox="0 0 120 60" fill="none">
+      {/* Body */}
+      <rect x="10" y="25" width="100" height="22" rx="8" fill={color} />
+      {/* Roof */}
+      <path d="M35 25 L45 10 L85 10 L95 25" fill={color} opacity={0.85} />
+      {/* Windows */}
+      <path d="M48 12 L42 23 L65 23 L65 12Z" fill="#1a1a2e" opacity={0.7} />
+      <path d="M68 12 L68 23 L90 23 L82 12Z" fill="#1a1a2e" opacity={0.7} />
+      {/* Front light */}
+      <rect x="103" y="29" width="6" height="5" rx="2" fill="#FFD700" opacity={0.9} />
+      {/* Rear light */}
+      <rect x="11" y="29" width="5" height="5" rx="2" fill="#FF2222" opacity={0.8} />
+      {/* Wheels */}
+      <circle cx="32" cy="48" r="8" fill="#1a1a2e" />
+      <circle cx="32" cy="48" r="5" fill="#333" />
+      <circle cx="32" cy="48" r="2" fill="#666" />
+      <circle cx="88" cy="48" r="8" fill="#1a1a2e" />
+      <circle cx="88" cy="48" r="5" fill="#333" />
+      <circle cx="88" cy="48" r="2" fill="#666" />
+      {/* Shine */}
+      <rect x="45" y="10" width="38" height="2" rx="1" fill="white" opacity={0.25} />
+    </svg>
+  );
+}
+
+// ─── SKIN PREVIEW (mini figure) ─────────────────────
+function SkinPreview({ skin, size = 48 }: { skin: SkinDef; size?: number }) {
+  const s = size;
+  const headR = s * 0.22;
+  const bodyW = s * 0.28;
+  const bodyH = s * 0.3;
+  const cx = s / 2;
+  return (
+    <svg width={s} height={s} viewBox={`0 0 ${s} ${s}`}>
+      {/* Glow */}
+      <circle cx={cx} cy={s * 0.35} r={s * 0.4} fill={skin.emissive} opacity={0.08} />
+      {/* Head */}
+      <circle cx={cx} cy={s * 0.22} r={headR} fill={skin.headColor} />
+      {/* Eyes */}
+      <circle cx={cx - headR * 0.3} cy={s * 0.2} r={1.5} fill={skin.emissive} />
+      <circle cx={cx + headR * 0.3} cy={s * 0.2} r={1.5} fill={skin.emissive} />
+      {/* Body */}
+      <rect x={cx - bodyW / 2} y={s * 0.35} width={bodyW} height={bodyH} rx={3} fill={skin.bodyColor} />
+      {/* Arms */}
+      <rect x={cx - bodyW / 2 - 4} y={s * 0.37} width={4} height={bodyH * 0.6} rx={2} fill={skin.limbColor} />
+      <rect x={cx + bodyW / 2} y={s * 0.37} width={4} height={bodyH * 0.6} rx={2} fill={skin.limbColor} />
+      {/* Legs */}
+      <rect x={cx - bodyW * 0.3} y={s * 0.65} width={4} height={s * 0.2} rx={2} fill={skin.limbColor} />
+      <rect x={cx + bodyW * 0.3 - 4} y={s * 0.65} width={4} height={s * 0.2} rx={2} fill={skin.limbColor} />
+      {/* Shoes */}
+      <rect x={cx - bodyW * 0.3 - 1} y={s * 0.84} width={6} height={3} rx={1.5} fill={skin.shoeColor} />
+      <rect x={cx + bodyW * 0.3 - 5} y={s * 0.84} width={6} height={3} rx={1.5} fill={skin.shoeColor} />
+    </svg>
+  );
+}
+
+// ─── HAT PREVIEW (SVG) ─────────────────────────────
+function HatPreview({ type, color, emissive, size = 48 }: { type: string; color: string; emissive: string; size?: number }) {
+  const s = size;
+  const cx = s / 2;
+  return (
+    <svg width={s} height={s} viewBox={`0 0 ${s} ${s}`}>
+      {/* Glow */}
+      <circle cx={cx} cy={cx} r={s * 0.4} fill={emissive} opacity={0.1} />
+      {type === "crown" && (<>
+        <rect x={cx - 12} y={s * 0.45} width={24} height={10} rx={2} fill={color} />
+        {[-8, 0, 8].map((dx, i) => <polygon key={i} points={`${cx + dx - 3},${s * 0.45} ${cx + dx},${s * 0.25} ${cx + dx + 3},${s * 0.45}`} fill={color} />)}
+        {[-8, 0, 8].map((dx, i) => <circle key={`g${i}`} cx={cx + dx} cy={s * 0.27} r={2} fill={emissive} opacity={0.8} />)}
+      </>)}
+      {type === "cap" && (<>
+        <ellipse cx={cx} cy={s * 0.5} rx={14} ry={8} fill={color} />
+        <rect x={cx - 2} y={s * 0.3} width={16} height={5} rx={2} fill={color} opacity={0.7} />
+        <ellipse cx={cx} cy={s * 0.38} rx={12} ry={10} fill={color} />
+      </>)}
+      {type === "halo" && (<>
+        <ellipse cx={cx} cy={s * 0.4} rx={14} ry={5} fill="none" stroke={color} strokeWidth={3} />
+        <ellipse cx={cx} cy={s * 0.4} rx={14} ry={5} fill="none" stroke={emissive} strokeWidth={1.5} opacity={0.6} />
+      </>)}
+      {type === "horns" && (<>
+        <path d={`M${cx - 8},${s * 0.55} Q${cx - 12},${s * 0.2} ${cx - 4},${s * 0.25}`} fill={color} />
+        <path d={`M${cx + 8},${s * 0.55} Q${cx + 12},${s * 0.2} ${cx + 4},${s * 0.25}`} fill={color} />
+      </>)}
+      {type === "tophat" && (<>
+        <rect x={cx - 10} y={s * 0.3} width={20} height={20} rx={2} fill={color} />
+        <rect x={cx - 14} y={s * 0.52} width={28} height={4} rx={2} fill={color} />
+        <rect x={cx - 9} y={s * 0.34} width={18} height={2} rx={1} fill={emissive} opacity={0.3} />
+      </>)}
+      {type === "helmet" && (<>
+        <ellipse cx={cx} cy={s * 0.45} rx={15} ry={12} fill={color} />
+        <rect x={cx - 13} y={s * 0.5} width={26} height={3} rx={1.5} fill={emissive} opacity={0.4} />
+      </>)}
+      {type === "antenna" && (<>
+        <rect x={cx - 1} y={s * 0.3} width={2} height={16} fill="#888" />
+        <circle cx={cx} cy={s * 0.28} r={4} fill={color} />
+        <circle cx={cx} cy={s * 0.28} r={2} fill={emissive} opacity={0.8} />
+      </>)}
+      {type === "wizard" && (<>
+        <polygon points={`${cx},${s * 0.15} ${cx - 14},${s * 0.6} ${cx + 14},${s * 0.6}`} fill={color} />
+        <rect x={cx - 16} y={s * 0.56} width={32} height={4} rx={2} fill={color} />
+        <circle cx={cx + 4} cy={s * 0.38} r={2.5} fill={emissive} opacity={0.7} />
+        <circle cx={cx - 3} cy={s * 0.48} r={1.5} fill={emissive} opacity={0.5} />
+      </>)}
+    </svg>
+  );
+}
+
+// ─── TRAIL PREVIEW (SVG) ────────────────────────────
+function TrailPreview({ type, color, emissive, size = 48 }: { type: string; color: string; emissive: string; size?: number }) {
+  const s = size;
+  const cx = s / 2;
+  return (
+    <svg width={s} height={s} viewBox={`0 0 ${s} ${s}`}>
+      {/* Glow */}
+      <circle cx={cx} cy={cx} r={s * 0.38} fill={emissive} opacity={0.08} />
+      {type === "fire" && (<>
+        <ellipse cx={cx} cy={s * 0.6} rx={6} ry={10} fill={color} opacity={0.9} />
+        <ellipse cx={cx - 5} cy={s * 0.55} rx={4} ry={7} fill={emissive} opacity={0.7} />
+        <ellipse cx={cx + 5} cy={s * 0.55} rx={4} ry={7} fill={emissive} opacity={0.7} />
+        <ellipse cx={cx} cy={s * 0.5} rx={3} ry={5} fill="#FFD700" opacity={0.8} />
+      </>)}
+      {type === "ice" && (<>
+        {[0, 60, 120, 180, 240, 300].map((deg, i) => {
+          const rad = (deg * Math.PI) / 180;
+          return <line key={i} x1={cx} y1={cx} x2={cx + Math.cos(rad) * 14} y2={cx + Math.sin(rad) * 14} stroke={color} strokeWidth={2} opacity={0.7} />;
+        })}
+        <circle cx={cx} cy={cx} r={4} fill={emissive} opacity={0.6} />
+        {[30, 90, 150, 210, 270, 330].map((deg, i) => {
+          const rad = (deg * Math.PI) / 180;
+          return <circle key={i} cx={cx + Math.cos(rad) * 10} cy={cx + Math.sin(rad) * 10} r={1.5} fill={color} opacity={0.5} />;
+        })}
+      </>)}
+      {type === "rainbow" && (<>
+        {["#FF0000", "#FF8800", "#FFFF00", "#00FF00", "#0088FF", "#8800FF"].map((c, i) => (
+          <rect key={i} x={cx - 12} y={s * 0.28 + i * 3} width={24} height={3} rx={1.5} fill={c} opacity={0.7} />
+        ))}
+      </>)}
+      {type === "stars" && (<>
+        {[{ x: cx, y: s * 0.3, r: 4 }, { x: cx - 8, y: s * 0.5, r: 3 }, { x: cx + 8, y: s * 0.5, r: 3 }, { x: cx - 4, y: s * 0.7, r: 2 }, { x: cx + 4, y: s * 0.7, r: 2 }].map((st, i) => (
+          <polygon key={i} points={starPoints(st.x, st.y, st.r)} fill={color} opacity={0.8 - i * 0.1} />
+        ))}
+      </>)}
+      {type === "smoke" && (<>
+        {[{ x: cx - 6, y: s * 0.4, r: 6 }, { x: cx + 4, y: s * 0.35, r: 7 }, { x: cx, y: s * 0.5, r: 8 }, { x: cx - 3, y: s * 0.6, r: 5 }].map((c, i) => (
+          <circle key={i} cx={c.x} cy={c.y} r={c.r} fill={color} opacity={0.3 - i * 0.05} />
+        ))}
+      </>)}
+      {type === "electric" && (<>
+        <polyline points={`${cx - 6},${s * 0.2} ${cx + 2},${s * 0.4} ${cx - 4},${s * 0.45} ${cx + 6},${s * 0.7}`} fill="none" stroke={color} strokeWidth={2.5} strokeLinejoin="round" />
+        <polyline points={`${cx + 4},${s * 0.25} ${cx - 2},${s * 0.5} ${cx + 3},${s * 0.55} ${cx - 5},${s * 0.75}`} fill="none" stroke={emissive} strokeWidth={1.5} strokeLinejoin="round" opacity={0.6} />
+        <circle cx={cx + 6} cy={s * 0.7} r={2} fill={emissive} opacity={0.8} />
+      </>)}
+    </svg>
+  );
+}
+
+// Star polygon points helper
+function starPoints(cx: number, cy: number, r: number): string {
+  const pts: string[] = [];
+  for (let i = 0; i < 10; i++) {
+    const angle = (i * Math.PI) / 5 - Math.PI / 2;
+    const rad = i % 2 === 0 ? r : r * 0.4;
+    pts.push(`${cx + Math.cos(angle) * rad},${cy + Math.sin(angle) * rad}`);
+  }
+  return pts.join(" ");
+}
 
 export default function ShopPage() {
   const [balance, setBalance] = useState(0);
@@ -54,9 +258,29 @@ export default function ShopPage() {
   const [activeHat, setActiveHatState] = useState<string | null>(null);
   const [ownedTrails, setOwnedTrails] = useState<string[]>([]);
   const [activeTrail, setActiveTrailState] = useState<string | null>(null);
-  const [tab, setTab] = useState<Tab>("skins");
+  const [ownedCars, setOwnedCars] = useState<string[]>(["starter"]);
+  const [activeCar, setActiveCar] = useState("starter");
+  const [tab, setTab] = useState<Tab>("cars");
   const [notification, setNotification] = useState<string | null>(null);
   const [boughtPowerUps, setBoughtPowerUps] = useState<Record<string, number>>({});
+  const [selectedCar, setSelectedCar] = useState<CarDef | null>(null);
+  const [selectedSkin, setSelectedSkin] = useState<SkinDef | null>(null);
+  // Clothing & Face state
+  type SkinSub = "skin" | "face" | "top" | "bottom" | "shoe" | "cape" | "glasses" | "gloves" | "hat" | "trail";
+  const [skinSub, setSkinSub] = useState<SkinSub>("skin");
+  const [ownedFaces, setOwnedFaces] = useState<string[]>(["default"]);
+  const [activeFaceId, setActiveFaceId] = useState("default");
+  const [clothingOwned, setClothingOwned] = useState<Record<string, string[]>>({});
+  const [clothingActive, setClothingActive] = useState<Record<string, string | null>>({});
+
+  const refreshClothing = () => {
+    const slots = ["top", "bottom", "shoe", "cape", "glasses", "gloves"] as const;
+    const owned: Record<string, string[]> = {};
+    const active: Record<string, string | null> = {};
+    slots.forEach(s => { owned[s] = getOwned(s); active[s] = getActive(s); });
+    setClothingOwned(owned);
+    setClothingActive(active);
+  };
 
   useEffect(() => {
     setBalance(getSpecialCardCount());
@@ -66,6 +290,11 @@ export default function ShopPage() {
     setActiveHatState(getActiveHat());
     setOwnedTrails(getOwnedTrails());
     setActiveTrailState(getActiveTrail());
+    setOwnedCars(getOwnedCarsLS());
+    setActiveCar(getActiveCarLS());
+    setOwnedFaces(getOwnedFaces());
+    setActiveFaceId(getActiveFace());
+    refreshClothing();
     const saved = localStorage.getItem("plizio_powerups");
     if (saved) setBoughtPowerUps(JSON.parse(saved));
   }, []);
@@ -73,6 +302,37 @@ export default function ShopPage() {
   const showNotif = (msg: string) => {
     setNotification(msg);
     setTimeout(() => setNotification(null), 2000);
+  };
+
+  // ─── Car handlers ─────────────────
+  const handleCarAction = (car: CarDef) => {
+    if (ownedCars.includes(car.id)) {
+      setActiveCarLS(car.id);
+      setActiveCar(car.id);
+      showNotif(`${car.name} selected!`);
+      setSelectedCar(null);
+      return;
+    }
+    if (car.price === 0) {
+      const newOwned = [...ownedCars, car.id];
+      setOwnedCarsLS(newOwned);
+      setOwnedCars(newOwned);
+      setActiveCarLS(car.id);
+      setActiveCar(car.id);
+      showNotif(`${car.name} unlocked!`);
+      setSelectedCar(null);
+      return;
+    }
+    if (balance < car.price) { showNotif("Not enough ⭐"); return; }
+    spendSpecialCards(car.price);
+    const newOwned = [...ownedCars, car.id];
+    setOwnedCarsLS(newOwned);
+    setOwnedCars(newOwned);
+    setActiveCarLS(car.id);
+    setActiveCar(car.id);
+    setBalance(getSpecialCardCount());
+    showNotif(`${car.name} purchased!`);
+    setSelectedCar(null);
   };
 
   const handleBuyPowerUp = (pu: PowerUpDef) => {
@@ -90,6 +350,7 @@ export default function ShopPage() {
       setActiveSkin(skin.id);
       setActiveSkinState(skin.id);
       showNotif("Skin selected!");
+      setSelectedSkin(null);
       return;
     }
     if (balance < skin.price) { showNotif("Not enough ⭐"); return; }
@@ -100,11 +361,11 @@ export default function ShopPage() {
     setActiveSkinState(skin.id);
     setBalance(getSpecialCardCount());
     showNotif("Skin purchased!");
+    setSelectedSkin(null);
   };
 
   const handleBuyHat = (hat: HatDef) => {
     if (ownedHats.includes(hat.id)) {
-      // Toggle: if already active, remove it
       if (activeHat === hat.id) {
         setActiveHat(null);
         setActiveHatState(null);
@@ -159,48 +420,127 @@ export default function ShopPage() {
     showNotif("+1 ability!");
   };
 
-  const TABS: { id: Tab; label: string }[] = [
-    { id: "skins", label: "🎨" },
-    { id: "hats", label: "🎩" },
-    { id: "trails", label: "✨" },
-    { id: "powerups", label: "⚡" },
-    { id: "abilities", label: "🏔️" },
+  // ─── Face handler ─────────────────
+  const handleFaceAction = (face: FaceDef) => {
+    if (ownedFaces.includes(face.id)) {
+      setActiveFace(face.id);
+      setActiveFaceId(face.id);
+      showNotif("Face selected!");
+      return;
+    }
+    if (balance < face.price) { showNotif("Not enough ⭐"); return; }
+    spendSpecialCards(face.price);
+    buyFace(face.id);
+    setOwnedFaces(getOwnedFaces());
+    setActiveFace(face.id);
+    setActiveFaceId(face.id);
+    setBalance(getSpecialCardCount());
+    showNotif("Face purchased!");
+  };
+
+  // ─── Clothing handler (generic) ─────────────────
+  type ClothingSlot = "top" | "bottom" | "shoe" | "cape" | "glasses" | "gloves";
+  const handleClothingAction = (slot: ClothingSlot, itemId: string, price: number) => {
+    const owned = clothingOwned[slot] || [];
+    if (owned.includes(itemId)) {
+      // Toggle: if already active, unequip
+      if (clothingActive[slot] === itemId) {
+        setActive(slot, null);
+        refreshClothing();
+        showNotif("Unequipped!");
+      } else {
+        setActive(slot, itemId);
+        refreshClothing();
+        showNotif("Equipped!");
+      }
+      return;
+    }
+    if (price === 0) {
+      buyItem(slot, itemId);
+      setActive(slot, itemId);
+      refreshClothing();
+      showNotif("Unlocked!");
+      return;
+    }
+    if (balance < price) { showNotif("Not enough ⭐"); return; }
+    spendSpecialCards(price);
+    buyItem(slot, itemId);
+    setActive(slot, itemId);
+    refreshClothing();
+    setBalance(getSpecialCardCount());
+    showNotif("Purchased!");
+  };
+
+  const SKIN_SUBS: { id: SkinSub; label: string; icon: string }[] = [
+    { id: "skin", label: "Skin", icon: "🎨" },
+    { id: "face", label: "Face", icon: "😊" },
+    { id: "top", label: "Top", icon: "👕" },
+    { id: "bottom", label: "Pants", icon: "👖" },
+    { id: "shoe", label: "Shoes", icon: "👟" },
+    { id: "hat", label: "Hats", icon: "🎩" },
+    { id: "cape", label: "Cape", icon: "🦸" },
+    { id: "glasses", label: "Glasses", icon: "🕶️" },
+    { id: "gloves", label: "Gloves", icon: "🧤" },
+    { id: "trail", label: "Trails", icon: "✨" },
   ];
 
+  const TABS: { id: Tab; label: string; icon: string }[] = [
+    { id: "cars", label: "Cars", icon: "🏎️" },
+    { id: "skins", label: "Skins", icon: "🎨" },
+    { id: "powerups", label: "Boost", icon: "⚡" },
+    { id: "abilities", label: "Skills", icon: "🏔️" },
+  ];
+
+  const statBar = (val: number, max: number, color: string, label: string, icon: React.ReactNode) => (
+    <div className="flex items-center gap-2">
+      <div className="text-white/40">{icon}</div>
+      <span className="text-[10px] text-white/40 w-8 font-bold">{label}</span>
+      <div className="flex-1 h-2 bg-white/5 rounded-full overflow-hidden">
+        <motion.div className="h-full rounded-full" style={{ backgroundColor: color }}
+          initial={{ width: 0 }} animate={{ width: `${(val / max) * 100}%` }}
+          transition={{ duration: 0.5, ease: "easeOut" }} />
+      </div>
+      <span className="text-[10px] text-white/30 w-6 text-right">{Math.round(val * 3.6)}</span>
+    </div>
+  );
+
   return (
-    <main className="min-h-screen flex flex-col items-center px-4 py-8 gap-6">
+    <main className="min-h-screen flex flex-col items-center px-4 py-6 gap-4">
       {/* Header */}
       <div className="w-full max-w-md flex items-center justify-between">
         <Link href="/">
-          <motion.div className="bg-card border border-white/10 p-2.5 rounded-xl cursor-pointer"
+          <motion.div className="bg-white/5 border border-white/8 p-2.5 rounded-xl cursor-pointer backdrop-blur-sm"
             whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }}>
             <ArrowLeft size={18} className="text-white/60" />
           </motion.div>
         </Link>
 
+        <h1 className="text-white font-black text-lg tracking-wide">SHOP</h1>
+
         {/* Balance */}
-        <motion.div className="flex items-center gap-2 bg-card border border-[#E040FB]/20 px-4 py-2 rounded-xl"
-          style={{ boxShadow: "0 0 15px rgba(224,64,251,0.15)" }}
+        <motion.div className="flex items-center gap-2 bg-gradient-to-r from-[#E040FB]/10 to-[#E040FB]/5 border border-[#E040FB]/20 px-4 py-2 rounded-xl backdrop-blur-sm"
+          style={{ boxShadow: "0 0 20px rgba(224,64,251,0.1)" }}
           initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}>
-          <Star size={16} className="text-[#E040FB]" style={{ filter: "drop-shadow(0 0 4px rgba(224,64,251,0.5))" }} />
-          <span className="text-[#E040FB] font-bold text-sm">{balance}</span>
+          <Star size={14} className="text-[#E040FB]" fill="#E040FB" />
+          <span className="text-[#E040FB] font-black text-sm">{balance}</span>
         </motion.div>
       </div>
 
-      {/* Tabs */}
-      <div className="flex gap-1.5 overflow-x-auto max-w-md w-full justify-center">
+      {/* Tabs - scrollable with text */}
+      <div className="flex gap-1 overflow-x-auto max-w-md w-full pb-1 scrollbar-hide">
         {TABS.map((t) => (
           <motion.button
             key={t.id}
             onClick={() => setTab(t.id)}
-            className={`px-4 py-2 rounded-xl font-bold text-sm border transition-all shrink-0 ${
+            className={`px-3 py-2 rounded-xl font-bold text-xs border transition-all shrink-0 flex items-center gap-1.5 ${
               tab === t.id
-                ? "bg-[#E040FB]/15 border-[#E040FB]/40 text-[#E040FB]"
-                : "bg-card border-white/5 text-white/30"
+                ? "bg-[#E040FB]/12 border-[#E040FB]/30 text-[#E040FB]"
+                : "bg-white/3 border-white/5 text-white/25 hover:text-white/40"
             }`}
             whileTap={{ scale: 0.95 }}
           >
-            {t.label}
+            <span>{t.icon}</span>
+            <span>{t.label}</span>
           </motion.button>
         ))}
       </div>
@@ -212,18 +552,491 @@ export default function ShopPage() {
             className="fixed top-4 left-0 right-0 z-50 flex justify-center pointer-events-none"
             initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -10 }}
           >
-            <div className="bg-[#E040FB]/20 border border-[#E040FB]/40 backdrop-blur-md rounded-xl px-5 py-2.5">
+            <div className="bg-[#E040FB]/15 border border-[#E040FB]/30 backdrop-blur-xl rounded-xl px-5 py-2.5">
               <span className="text-[#E040FB] font-bold text-sm">{notification}</span>
             </div>
           </motion.div>
         )}
       </AnimatePresence>
 
-      {/* Power-ups tab */}
-      {tab === "powerups" && (
-        <motion.div className="w-full max-w-md flex flex-col gap-3"
+      {/* ═══════ CARS TAB ═══════ */}
+      {tab === "cars" && (
+        <motion.div className="w-full max-w-md flex flex-col gap-2.5"
           initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}>
-          {POWER_UPS.map((pu) => {
+          {CARS.map((car, idx) => {
+            const owned = ownedCars.includes(car.id);
+            const isActive = activeCar === car.id;
+            return (
+              <motion.button
+                key={car.id}
+                onClick={() => setSelectedCar(car)}
+                className={`relative bg-gradient-to-r from-white/[0.04] to-transparent border rounded-2xl p-3.5 flex items-center gap-3.5 w-full text-left transition-all overflow-hidden ${
+                  isActive ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"
+                }`}
+                style={isActive ? { boxShadow: `0 0 25px ${car.color}15, 0 0 10px rgba(224,64,251,0.1)` } : undefined}
+                whileHover={{ scale: 1.01, borderColor: `${car.color}40` }}
+                whileTap={{ scale: 0.98 }}
+                initial={{ opacity: 0, x: -20 }}
+                animate={{ opacity: 1, x: 0 }}
+                transition={{ delay: idx * 0.05 }}
+              >
+                {/* Car preview */}
+                <div className="w-16 h-10 flex items-center justify-center flex-shrink-0 rounded-xl"
+                  style={{ background: `linear-gradient(135deg, ${car.color}15, transparent)` }}>
+                  <CarIcon color={car.color} size={64} />
+                </div>
+
+                {/* Info */}
+                <div className="flex-1 min-w-0">
+                  <div className="flex items-center gap-2">
+                    <span className="text-white font-bold text-sm">{car.name}</span>
+                    {isActive && (
+                      <span className="text-[8px] bg-[#E040FB]/20 text-[#E040FB] px-1.5 py-0.5 rounded-full font-black">ACTIVE</span>
+                    )}
+                  </div>
+                  {/* Mini stat bars */}
+                  <div className="flex gap-1 mt-1.5">
+                    {[
+                      { val: car.maxSpeed / 45, color: "#00FF88" },
+                      { val: car.accel / 30, color: "#00D4FF" },
+                      { val: car.handling / 3.5, color: "#FFD700" },
+                    ].map((s, i) => (
+                      <div key={i} className="flex-1 h-1 bg-white/5 rounded-full overflow-hidden">
+                        <div className="h-full rounded-full" style={{ width: `${s.val * 100}%`, backgroundColor: s.color }} />
+                      </div>
+                    ))}
+                  </div>
+                  {/* Tags */}
+                  <div className="flex gap-1 mt-1.5">
+                    {car.canDrift && <span className="text-[7px] bg-orange-500/15 text-orange-400/80 px-1.5 py-0.5 rounded font-black">DRIFT</span>}
+                    {car.canNitro && <span className="text-[7px] bg-purple-500/15 text-purple-400/80 px-1.5 py-0.5 rounded font-black">NITRO</span>}
+                    <span className="text-[7px] text-white/15 font-bold">~{Math.round(car.maxSpeed * 3.6)} km/h</span>
+                  </div>
+                </div>
+
+                {/* Price / Status */}
+                <div className="flex-shrink-0">
+                  {isActive ? (
+                    <div className="w-8 h-8 rounded-full bg-[#E040FB]/15 flex items-center justify-center">
+                      <Check size={14} className="text-[#E040FB]" />
+                    </div>
+                  ) : owned ? (
+                    <span className="text-white/20 text-[10px] font-bold">TAP</span>
+                  ) : car.price === 0 ? (
+                    <span className="text-green-400/70 text-[10px] font-bold">FREE</span>
+                  ) : (
+                    <div className="flex items-center gap-1 bg-[#E040FB]/8 px-2.5 py-1.5 rounded-lg border border-[#E040FB]/15">
+                      <Star size={10} className="text-[#E040FB]" fill="#E040FB" />
+                      <span className="text-[#E040FB] font-black text-xs">{car.price}</span>
+                    </div>
+                  )}
+                </div>
+              </motion.button>
+            );
+          })}
+        </motion.div>
+      )}
+
+      {/* ═══════ CAR DETAIL MODAL ═══════ */}
+      <AnimatePresence>
+        {selectedCar && (
+          <motion.div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center"
+            initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
+            {/* Backdrop */}
+            <div className="absolute inset-0 bg-black/70 backdrop-blur-sm" onClick={() => setSelectedCar(null)} />
+            {/* Modal */}
+            <motion.div className="relative w-full max-w-sm mx-4 mb-4 sm:mb-0 bg-[#0d1117] border border-white/10 rounded-3xl overflow-hidden"
+              initial={{ y: 100, opacity: 0 }} animate={{ y: 0, opacity: 1 }} exit={{ y: 100, opacity: 0 }}
+              transition={{ type: "spring", damping: 25 }}>
+
+              {/* Close */}
+              <button onClick={() => setSelectedCar(null)} className="absolute top-3 right-3 z-10 w-8 h-8 rounded-full bg-white/5 flex items-center justify-center">
+                <X size={14} className="text-white/40" />
+              </button>
+
+              {/* Car visual */}
+              <div className="relative h-36 flex items-center justify-center overflow-hidden"
+                style={{ background: `radial-gradient(ellipse at 50% 80%, ${selectedCar.color}20, transparent 70%)` }}>
+                <div className="absolute inset-0" style={{ background: `linear-gradient(180deg, transparent 60%, #0d1117)` }} />
+                <CarIcon color={selectedCar.color} size={180} />
+              </div>
+
+              {/* Content */}
+              <div className="px-5 pb-5 -mt-2">
+                <div className="flex items-center gap-3 mb-1">
+                  <h2 className="text-white font-black text-xl">{selectedCar.name}</h2>
+                  <div className="flex gap-1">
+                    {selectedCar.canDrift && <span className="text-[8px] bg-orange-500/20 text-orange-400 px-2 py-0.5 rounded-full font-black">DRIFT</span>}
+                    {selectedCar.canNitro && <span className="text-[8px] bg-purple-500/20 text-purple-400 px-2 py-0.5 rounded-full font-black">NITRO</span>}
+                  </div>
+                </div>
+                <p className="text-white/30 text-xs leading-relaxed mb-4">{selectedCar.desc}</p>
+
+                {/* Stats */}
+                <div className="flex flex-col gap-2.5 mb-5">
+                  {statBar(selectedCar.maxSpeed, 45, "#00FF88", "SPD", <Gauge size={12} />)}
+                  {statBar(selectedCar.accel, 30, "#00D4FF", "ACC", <Flame size={12} />)}
+                  {statBar(selectedCar.handling, 3.5, "#FFD700", "HDL", <Cog size={12} />)}
+                </div>
+
+                {/* Action button */}
+                {(() => {
+                  const owned = ownedCars.includes(selectedCar.id);
+                  const isActive = activeCar === selectedCar.id;
+                  if (isActive) return (
+                    <div className="w-full py-3 rounded-xl bg-[#E040FB]/10 border border-[#E040FB]/20 text-center">
+                      <span className="text-[#E040FB] font-bold text-sm flex items-center justify-center gap-2">
+                        <Check size={16} /> Active
+                      </span>
+                    </div>
+                  );
+                  return (
+                    <motion.button onClick={() => handleCarAction(selectedCar)}
+                      className="w-full py-3 rounded-xl font-bold text-sm transition-all"
+                      style={{
+                        background: owned ? `${selectedCar.color}20` : `linear-gradient(135deg, ${selectedCar.color}40, ${selectedCar.color}20)`,
+                        border: `1px solid ${owned ? selectedCar.color + "30" : selectedCar.color + "50"}`,
+                        color: owned ? selectedCar.color : "#fff",
+                      }}
+                      whileTap={{ scale: 0.97 }}>
+                      {owned ? "Select" : selectedCar.price === 0 ? "Unlock Free" : (
+                        <span className="flex items-center justify-center gap-1.5">
+                          Buy for <Star size={12} className="text-[#E040FB]" fill="#E040FB" /> {selectedCar.price}
+                        </span>
+                      )}
+                    </motion.button>
+                  );
+                })()}
+              </div>
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      {/* ═══════ SKINS TAB (with sub-categories) ═══════ */}
+      {tab === "skins" && (<>
+        {/* Sub-tabs */}
+        <div className="flex gap-1 overflow-x-auto max-w-md w-full pb-1 scrollbar-hide">
+          {SKIN_SUBS.map(s => (
+            <button key={s.id} onClick={() => setSkinSub(s.id)}
+              className={`px-2.5 py-1.5 rounded-lg text-[10px] font-bold border shrink-0 transition-all flex items-center gap-1 ${
+                skinSub === s.id ? "bg-[#E040FB]/10 border-[#E040FB]/25 text-[#E040FB]" : "bg-white/3 border-white/5 text-white/20"
+              }`}>
+              <span>{s.icon}</span><span>{s.label}</span>
+            </button>
+          ))}
+        </div>
+
+        {/* ── Skin sub ── */}
+        {skinSub === "skin" && (
+          <motion.div className="w-full max-w-md grid grid-cols-3 gap-2.5" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {SKINS.map((skin, idx) => {
+              const owned = ownedSkins.includes(skin.id);
+              const active = activeSkin === skin.id;
+              return (
+                <motion.button key={skin.id} onClick={() => setSelectedSkin(skin)}
+                  className={`bg-gradient-to-b from-white/[0.04] to-transparent border rounded-2xl p-3 flex flex-col items-center gap-2 ${active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"}`}
+                  style={active ? { boxShadow: `0 0 20px ${skin.emissive}20` } : undefined}
+                  whileTap={{ scale: 0.96 }} initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: idx * 0.02 }}>
+                  <SkinPreview skin={skin} size={52} />
+                  <span className="text-white/50 text-[9px] font-bold capitalize">{skin.id === "default" ? "Classic" : skin.id}</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />ACTIVE</span>
+                    : owned ? <span className="text-white/20 text-[8px] font-bold">TAP</span>
+                    : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{skin.price}</span>}
+                </motion.button>
+              );
+            })}
+          </motion.div>
+        )}
+
+        {/* ── Face sub ── */}
+        {skinSub === "face" && (
+          <motion.div className="w-full max-w-md grid grid-cols-3 gap-2.5" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {FACES.map((face, idx) => {
+              const owned = ownedFaces.includes(face.id);
+              const active = activeFaceId === face.id;
+              return (
+                <motion.button key={face.id} onClick={() => handleFaceAction(face)}
+                  className={`bg-gradient-to-b from-white/[0.04] to-transparent border rounded-2xl p-3 flex flex-col items-center gap-2 ${active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"}`}
+                  style={active ? { boxShadow: "0 0 15px rgba(224,64,251,0.15)" } : undefined}
+                  whileTap={{ scale: 0.96 }} initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: idx * 0.02 }}>
+                  <div className="text-3xl">{face.icon}</div>
+                  <span className="text-white/50 text-[9px] font-bold">{face.name}</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />ACTIVE</span>
+                    : owned ? <span className="text-white/20 text-[8px] font-bold">TAP</span>
+                    : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{face.price}</span>}
+                </motion.button>
+              );
+            })}
+          </motion.div>
+        )}
+
+        {/* ── Top sub ── */}
+        {skinSub === "top" && (
+          <motion.div className="w-full max-w-md grid grid-cols-2 gap-2.5" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {TOPS.map((item, idx) => {
+              const owned = (clothingOwned["top"] || []).includes(item.id);
+              const active = clothingActive["top"] === item.id;
+              return (
+                <motion.button key={item.id} onClick={() => handleClothingAction("top", item.id, item.price)}
+                  className={`bg-gradient-to-r from-white/[0.04] to-transparent border rounded-2xl p-3 flex items-center gap-3 ${active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"}`}
+                  whileTap={{ scale: 0.97 }} initial={{ opacity: 0, x: -10 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: idx * 0.02 }}>
+                  <div className="w-10 h-10 rounded-xl flex items-center justify-center" style={{ background: `${item.color}20`, border: `2px solid ${item.color}40` }}>
+                    <div className="w-6 h-5 rounded-sm" style={{ backgroundColor: item.color }} />
+                  </div>
+                  <div className="flex-1 min-w-0 text-left">
+                    <span className="text-white/70 text-xs font-bold block">{item.name}</span>
+                    <span className="text-white/20 text-[9px] capitalize">{item.type}</span>
+                  </div>
+                  {active ? <Check size={14} className="text-[#E040FB]" />
+                    : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
+                    : item.price === 0 ? <span className="text-green-400/60 text-[9px] font-bold">FREE</span>
+                    : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
+                </motion.button>
+              );
+            })}
+          </motion.div>
+        )}
+
+        {/* ── Bottom sub ── */}
+        {skinSub === "bottom" && (
+          <motion.div className="w-full max-w-md grid grid-cols-2 gap-2.5" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {BOTTOMS.map((item, idx) => {
+              const owned = (clothingOwned["bottom"] || []).includes(item.id);
+              const active = clothingActive["bottom"] === item.id;
+              return (
+                <motion.button key={item.id} onClick={() => handleClothingAction("bottom", item.id, item.price)}
+                  className={`bg-gradient-to-r from-white/[0.04] to-transparent border rounded-2xl p-3 flex items-center gap-3 ${active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"}`}
+                  whileTap={{ scale: 0.97 }} initial={{ opacity: 0, x: -10 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: idx * 0.02 }}>
+                  <div className="w-10 h-10 rounded-xl flex items-center justify-center" style={{ background: `${item.color}20`, border: `2px solid ${item.color}40` }}>
+                    <div className="w-6 h-5 rounded-sm" style={{ backgroundColor: item.color }} />
+                  </div>
+                  <div className="flex-1 min-w-0 text-left">
+                    <span className="text-white/70 text-xs font-bold block">{item.name}</span>
+                    <span className="text-white/20 text-[9px] capitalize">{item.type}</span>
+                  </div>
+                  {active ? <Check size={14} className="text-[#E040FB]" />
+                    : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
+                    : item.price === 0 ? <span className="text-green-400/60 text-[9px] font-bold">FREE</span>
+                    : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
+                </motion.button>
+              );
+            })}
+          </motion.div>
+        )}
+
+        {/* ── Shoe sub ── */}
+        {skinSub === "shoe" && (
+          <motion.div className="w-full max-w-md grid grid-cols-2 gap-2.5" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {SHOES.map((item, idx) => {
+              const owned = (clothingOwned["shoe"] || []).includes(item.id);
+              const active = clothingActive["shoe"] === item.id;
+              return (
+                <motion.button key={item.id} onClick={() => handleClothingAction("shoe", item.id, item.price)}
+                  className={`bg-gradient-to-r from-white/[0.04] to-transparent border rounded-2xl p-3 flex items-center gap-3 ${active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"}`}
+                  whileTap={{ scale: 0.97 }} initial={{ opacity: 0, x: -10 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: idx * 0.02 }}>
+                  <div className="w-10 h-10 rounded-xl flex items-center justify-center text-xl" style={{ background: `${item.color}15` }}>
+                    {item.icon}
+                  </div>
+                  <div className="flex-1 min-w-0 text-left">
+                    <span className="text-white/70 text-xs font-bold block">{item.name}</span>
+                    <span className="text-white/20 text-[9px] capitalize">{item.type}</span>
+                  </div>
+                  {active ? <Check size={14} className="text-[#E040FB]" />
+                    : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
+                    : item.price === 0 ? <span className="text-green-400/60 text-[9px] font-bold">FREE</span>
+                    : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
+                </motion.button>
+              );
+            })}
+          </motion.div>
+        )}
+
+        {/* ── Cape sub ── */}
+        {skinSub === "cape" && (
+          <motion.div className="w-full max-w-md grid grid-cols-2 gap-2.5" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {CAPES.map((item, idx) => {
+              const owned = (clothingOwned["cape"] || []).includes(item.id);
+              const active = clothingActive["cape"] === item.id;
+              return (
+                <motion.button key={item.id} onClick={() => handleClothingAction("cape", item.id, item.price)}
+                  className={`bg-gradient-to-b from-white/[0.04] to-transparent border rounded-2xl p-3 flex flex-col items-center gap-2 ${active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"}`}
+                  style={active ? { boxShadow: `0 0 12px ${item.emissive}25` } : undefined}
+                  whileTap={{ scale: 0.96 }} initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: idx * 0.03 }}>
+                  <div className="text-2xl">{item.icon}</div>
+                  <span className="text-white/50 text-[9px] font-bold">{item.name}</span>
+                  <div className="w-8 h-12 rounded-md" style={{ background: `linear-gradient(180deg, ${item.color}, ${item.color}80)`, boxShadow: `0 0 8px ${item.emissive}30` }} />
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />EQUIPPED</span>
+                    : owned ? <span className="text-white/20 text-[8px] font-bold">EQUIP</span>
+                    : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
+                </motion.button>
+              );
+            })}
+          </motion.div>
+        )}
+
+        {/* ── Glasses sub ── */}
+        {skinSub === "glasses" && (
+          <motion.div className="w-full max-w-md grid grid-cols-2 gap-2.5" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {GLASSES.map((item, idx) => {
+              const owned = (clothingOwned["glasses"] || []).includes(item.id);
+              const active = clothingActive["glasses"] === item.id;
+              return (
+                <motion.button key={item.id} onClick={() => handleClothingAction("glasses", item.id, item.price)}
+                  className={`bg-gradient-to-r from-white/[0.04] to-transparent border rounded-2xl p-3 flex items-center gap-3 ${active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"}`}
+                  whileTap={{ scale: 0.97 }} initial={{ opacity: 0, x: -10 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: idx * 0.02 }}>
+                  <div className="w-10 h-10 rounded-xl flex items-center justify-center text-xl" style={{ background: `${item.color}15` }}>
+                    {item.icon}
+                  </div>
+                  <div className="flex-1 min-w-0 text-left">
+                    <span className="text-white/70 text-xs font-bold block">{item.name}</span>
+                    <span className="text-white/20 text-[9px] capitalize">{item.type}</span>
+                  </div>
+                  {active ? <Check size={14} className="text-[#E040FB]" />
+                    : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
+                    : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
+                </motion.button>
+              );
+            })}
+          </motion.div>
+        )}
+
+        {/* ── Gloves sub ── */}
+        {skinSub === "gloves" && (
+          <motion.div className="w-full max-w-md grid grid-cols-2 gap-2.5" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {GLOVES.map((item, idx) => {
+              const owned = (clothingOwned["gloves"] || []).includes(item.id);
+              const active = clothingActive["gloves"] === item.id;
+              return (
+                <motion.button key={item.id} onClick={() => handleClothingAction("gloves", item.id, item.price)}
+                  className={`bg-gradient-to-r from-white/[0.04] to-transparent border rounded-2xl p-3 flex items-center gap-3 ${active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"}`}
+                  whileTap={{ scale: 0.97 }} initial={{ opacity: 0, x: -10 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: idx * 0.02 }}>
+                  <div className="w-10 h-10 rounded-xl flex items-center justify-center text-xl" style={{ background: `${item.color}15` }}>
+                    {item.icon}
+                  </div>
+                  <div className="flex-1 min-w-0 text-left">
+                    <span className="text-white/70 text-xs font-bold block">{item.name}</span>
+                  </div>
+                  {active ? <Check size={14} className="text-[#E040FB]" />
+                    : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
+                    : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
+                </motion.button>
+              );
+            })}
+          </motion.div>
+        )}
+
+        {/* ── Hat sub ── */}
+        {skinSub === "hat" && (
+          <motion.div className="w-full max-w-md grid grid-cols-2 gap-2.5" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {HATS.map((hat, idx) => {
+              const owned = ownedHats.includes(hat.id);
+              const active = activeHat === hat.id;
+              return (
+                <motion.button key={hat.id} onClick={() => handleBuyHat(hat)}
+                  className={`bg-gradient-to-b from-white/[0.04] to-transparent border rounded-2xl p-3 flex flex-col items-center gap-2 ${active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"}`}
+                  style={active ? { boxShadow: `0 0 15px ${hat.color}25` } : undefined}
+                  whileTap={{ scale: 0.96 }} initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: idx * 0.03 }}>
+                  {/* SVG Hat Preview */}
+                  <div className="w-14 h-14 rounded-xl flex items-center justify-center" style={{ background: `radial-gradient(circle, ${hat.color}20, transparent)` }}>
+                    <HatPreview type={hat.type} color={hat.color} emissive={hat.emissive} size={48} />
+                  </div>
+                  <span className="text-white/50 text-[9px] font-bold">{hat.name}</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />EQUIPPED</span>
+                    : owned ? <span className="text-white/20 text-[8px] font-bold">EQUIP</span>
+                    : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{hat.price}</span>}
+                </motion.button>
+              );
+            })}
+          </motion.div>
+        )}
+
+        {/* ── Trail sub ── */}
+        {skinSub === "trail" && (
+          <motion.div className="w-full max-w-md grid grid-cols-2 gap-2.5" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            {TRAILS.map((trail, idx) => {
+              const owned = ownedTrails.includes(trail.id);
+              const active = activeTrail === trail.id;
+              return (
+                <motion.button key={trail.id} onClick={() => handleBuyTrail(trail)}
+                  className={`bg-gradient-to-b from-white/[0.04] to-transparent border rounded-2xl p-3 flex flex-col items-center gap-2 ${active ? "border-[#E040FB]/40" : owned ? "border-white/10" : "border-white/5"}`}
+                  style={active ? { boxShadow: `0 0 15px ${trail.color}25` } : undefined}
+                  whileTap={{ scale: 0.96 }} initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: idx * 0.03 }}>
+                  {/* SVG Trail Preview */}
+                  <div className="w-14 h-14 rounded-xl flex items-center justify-center" style={{ background: `radial-gradient(circle, ${trail.color}20, transparent)` }}>
+                    <TrailPreview type={trail.type} color={trail.color} emissive={trail.emissive} size={48} />
+                  </div>
+                  <span className="text-white/50 text-[9px] font-bold">{trail.name}</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />EQUIPPED</span>
+                    : owned ? <span className="text-white/20 text-[8px] font-bold">EQUIP</span>
+                    : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{trail.price}</span>}
+                </motion.button>
+              );
+            })}
+          </motion.div>
+        )}
+      </>)}
+
+      {/* ═══════ SKIN DETAIL MODAL ═══════ */}
+      <AnimatePresence>
+        {selectedSkin && (
+          <motion.div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center"
+            initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
+            <div className="absolute inset-0 bg-black/70 backdrop-blur-sm" onClick={() => setSelectedSkin(null)} />
+            <motion.div className="relative w-full max-w-xs mx-4 mb-4 sm:mb-0 bg-[#0d1117] border border-white/10 rounded-3xl overflow-hidden"
+              initial={{ y: 100, opacity: 0 }} animate={{ y: 0, opacity: 1 }} exit={{ y: 100, opacity: 0 }}
+              transition={{ type: "spring", damping: 25 }}>
+              <button onClick={() => setSelectedSkin(null)} className="absolute top-3 right-3 z-10 w-8 h-8 rounded-full bg-white/5 flex items-center justify-center">
+                <X size={14} className="text-white/40" />
+              </button>
+              <div className="relative h-40 flex items-center justify-center"
+                style={{ background: `radial-gradient(circle at 50% 60%, ${selectedSkin.emissive}15, transparent 70%)` }}>
+                <SkinPreview skin={selectedSkin} size={120} />
+              </div>
+              <div className="px-5 pb-5 -mt-2 text-center">
+                <div className="text-3xl mb-1">{selectedSkin.icon}</div>
+                <h2 className="text-white font-black text-lg capitalize">{selectedSkin.id === "default" ? "Classic" : selectedSkin.id}</h2>
+                <div className="flex items-center justify-center gap-2 mt-3 mb-4">
+                  {[selectedSkin.bodyColor, selectedSkin.headColor, selectedSkin.limbColor, selectedSkin.emissive].map((c, i) => (
+                    <div key={i} className="w-6 h-6 rounded-full border border-white/10" style={{ backgroundColor: c, boxShadow: i === 3 ? `0 0 8px ${c}60` : undefined }} />
+                  ))}
+                </div>
+                {selectedSkin.particle && (
+                  <div className="flex items-center justify-center gap-1 mb-3">
+                    <Wind size={10} className="text-white/30" />
+                    <span className="text-white/30 text-[10px]">Particle effects</span>
+                  </div>
+                )}
+                {(() => {
+                  const owned = ownedSkins.includes(selectedSkin.id);
+                  const active = activeSkin === selectedSkin.id;
+                  if (active) return (
+                    <div className="w-full py-3 rounded-xl bg-[#E040FB]/10 border border-[#E040FB]/20 text-center">
+                      <span className="text-[#E040FB] font-bold text-sm flex items-center justify-center gap-2"><Check size={16} /> Active</span>
+                    </div>
+                  );
+                  return (
+                    <motion.button onClick={() => handleBuySkin(selectedSkin)}
+                      className="w-full py-3 rounded-xl font-bold text-sm border transition-all"
+                      style={{ background: owned ? `${selectedSkin.emissive}15` : `linear-gradient(135deg, ${selectedSkin.emissive}30, ${selectedSkin.emissive}10)`, borderColor: `${selectedSkin.emissive}30`, color: owned ? selectedSkin.emissive : "#fff" }}
+                      whileTap={{ scale: 0.97 }}>
+                      {owned ? "Select" : selectedSkin.price === 0 ? "Free" : (
+                        <span className="flex items-center justify-center gap-1.5">Buy for <Star size={12} className="text-[#E040FB]" fill="#E040FB" /> {selectedSkin.price}</span>
+                      )}
+                    </motion.button>
+                  );
+                })()}
+              </div>
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      {/* ═══════ POWER-UPS TAB ═══════ */}
+      {tab === "powerups" && (
+        <motion.div className="w-full max-w-md flex flex-col gap-2.5"
+          initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}>
+          {POWER_UPS.map((pu, idx) => {
             const Icon = pu.icon;
             const GameIcon = pu.gameIcon;
             const owned = boughtPowerUps[pu.id] || 0;
@@ -231,25 +1044,29 @@ export default function ShopPage() {
               <motion.button
                 key={pu.id}
                 onClick={() => handleBuyPowerUp(pu)}
-                className="bg-card border border-white/5 rounded-2xl p-4 flex items-center gap-4 w-full text-left"
-                whileHover={{ borderColor: `${pu.color}40` }}
+                className="bg-gradient-to-r from-white/[0.04] to-transparent border border-white/5 rounded-2xl p-3.5 flex items-center gap-3.5 w-full text-left"
+                whileHover={{ borderColor: `${pu.color}30` }}
                 whileTap={{ scale: 0.98 }}
+                initial={{ opacity: 0, x: -20 }}
+                animate={{ opacity: 1, x: 0 }}
+                transition={{ delay: idx * 0.05 }}
               >
-                <div className="p-2.5 rounded-xl" style={{ background: `${pu.color}15` }}>
-                  <Icon size={22} style={{ color: pu.color, filter: `drop-shadow(0 0 6px ${pu.color}60)` }} />
+                <div className="p-2.5 rounded-xl" style={{ background: `${pu.color}10`, border: `1px solid ${pu.color}20` }}>
+                  <Icon size={20} style={{ color: pu.color, filter: `drop-shadow(0 0 4px ${pu.color}40)` }} />
                 </div>
                 <div className="flex-1">
-                  <div className="flex items-center gap-2">
-                    <GameIcon size={12} style={{ color: pu.color }} />
-                    <span className="text-white/40 text-xs font-bold">{pu.game}</span>
+                  <span className="text-white/80 text-xs font-bold">{pu.name}</span>
+                  <div className="flex items-center gap-1.5 mt-0.5">
+                    <GameIcon size={10} style={{ color: pu.color, opacity: 0.5 }} />
+                    <span className="text-white/25 text-[10px] font-bold">{pu.game}</span>
                   </div>
                 </div>
                 {owned > 0 && (
-                  <span className="text-white/20 text-xs font-bold">x{owned}</span>
+                  <span className="text-white/15 text-xs font-bold bg-white/5 px-2 py-1 rounded-lg">x{owned}</span>
                 )}
-                <div className="flex items-center gap-1 bg-[#E040FB]/10 px-3 py-1.5 rounded-lg">
-                  <Star size={12} className="text-[#E040FB]" />
-                  <span className="text-[#E040FB] font-bold text-xs">{pu.price}</span>
+                <div className="flex items-center gap-1 bg-[#E040FB]/8 px-2.5 py-1.5 rounded-lg border border-[#E040FB]/15">
+                  <Star size={10} className="text-[#E040FB]" fill="#E040FB" />
+                  <span className="text-[#E040FB] font-black text-xs">{pu.price}</span>
                 </div>
               </motion.button>
             );
@@ -257,176 +1074,41 @@ export default function ShopPage() {
         </motion.div>
       )}
 
-      {/* Skins tab */}
-      {tab === "skins" && (
-        <motion.div className="w-full max-w-md grid grid-cols-2 gap-3"
-          initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}>
-          {SKINS.map((skin) => {
-            const owned = ownedSkins.includes(skin.id);
-            const active = activeSkin === skin.id;
-            return (
-              <motion.button
-                key={skin.id}
-                onClick={() => handleBuySkin(skin)}
-                className={`bg-card border rounded-2xl p-4 flex flex-col items-center gap-3 ${
-                  active ? "border-[#E040FB]/50" : owned ? "border-white/10" : "border-white/5"
-                }`}
-                style={active ? { boxShadow: "0 0 15px rgba(224,64,251,0.2)" } : undefined}
-                whileHover={{ scale: 1.03 }}
-                whileTap={{ scale: 0.97 }}
-              >
-                <div
-                  className="w-14 h-14 rounded-full flex items-center justify-center text-2xl"
-                  style={{
-                    background: `linear-gradient(135deg, ${skin.bodyColor}40, ${skin.headColor}20)`,
-                    border: `2px solid ${skin.emissive}40`,
-                    boxShadow: `0 0 10px ${skin.emissive}20`,
-                  }}
-                >
-                  {skin.icon}
-                </div>
-                {active ? (
-                  <div className="flex items-center gap-1">
-                    <Check size={12} className="text-[#E040FB]" />
-                    <span className="text-[#E040FB] text-xs font-bold">ACTIVE</span>
-                  </div>
-                ) : owned ? (
-                  <span className="text-white/30 text-xs font-bold">SELECT</span>
-                ) : (
-                  <div className="flex items-center gap-1">
-                    <Star size={10} className="text-[#E040FB]" />
-                    <span className="text-[#E040FB] text-xs font-bold">{skin.price}</span>
-                  </div>
-                )}
-              </motion.button>
-            );
-          })}
-        </motion.div>
-      )}
 
-      {/* Hats tab */}
-      {tab === "hats" && (
-        <motion.div className="w-full max-w-md grid grid-cols-2 gap-3"
-          initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}>
-          {HATS.map((hat) => {
-            const owned = ownedHats.includes(hat.id);
-            const active = activeHat === hat.id;
-            return (
-              <motion.button
-                key={hat.id}
-                onClick={() => handleBuyHat(hat)}
-                className={`bg-card border rounded-2xl p-4 flex flex-col items-center gap-2 ${
-                  active ? "border-[#E040FB]/50" : owned ? "border-white/10" : "border-white/5"
-                }`}
-                style={active ? { boxShadow: `0 0 15px ${hat.color}30` } : undefined}
-                whileHover={{ scale: 1.03 }}
-                whileTap={{ scale: 0.97 }}
-              >
-                <div
-                  className="w-12 h-12 rounded-xl flex items-center justify-center text-2xl"
-                  style={{
-                    background: `${hat.color}15`,
-                    boxShadow: active ? `0 0 12px ${hat.color}30` : undefined,
-                  }}
-                >
-                  {hat.icon}
-                </div>
-                <span className="text-white/50 text-[10px] font-bold">{hat.name}</span>
-                {active ? (
-                  <div className="flex items-center gap-1">
-                    <Check size={12} className="text-[#E040FB]" />
-                    <span className="text-[#E040FB] text-xs font-bold">EQUIPPED</span>
-                  </div>
-                ) : owned ? (
-                  <span className="text-white/30 text-xs font-bold">EQUIP</span>
-                ) : (
-                  <div className="flex items-center gap-1">
-                    <Star size={10} className="text-[#E040FB]" />
-                    <span className="text-[#E040FB] text-xs font-bold">{hat.price}</span>
-                  </div>
-                )}
-              </motion.button>
-            );
-          })}
-        </motion.div>
-      )}
-
-      {/* Trails tab */}
-      {tab === "trails" && (
-        <motion.div className="w-full max-w-md grid grid-cols-2 gap-3"
-          initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}>
-          {TRAILS.map((trail) => {
-            const owned = ownedTrails.includes(trail.id);
-            const active = activeTrail === trail.id;
-            return (
-              <motion.button
-                key={trail.id}
-                onClick={() => handleBuyTrail(trail)}
-                className={`bg-card border rounded-2xl p-4 flex flex-col items-center gap-2 ${
-                  active ? "border-[#E040FB]/50" : owned ? "border-white/10" : "border-white/5"
-                }`}
-                style={active ? { boxShadow: `0 0 15px ${trail.color}30` } : undefined}
-                whileHover={{ scale: 1.03 }}
-                whileTap={{ scale: 0.97 }}
-              >
-                <div
-                  className="w-12 h-12 rounded-xl flex items-center justify-center text-2xl"
-                  style={{
-                    background: `${trail.color}15`,
-                    boxShadow: active ? `0 0 12px ${trail.color}30` : undefined,
-                  }}
-                >
-                  {trail.icon}
-                </div>
-                <span className="text-white/50 text-[10px] font-bold">{trail.name}</span>
-                {active ? (
-                  <div className="flex items-center gap-1">
-                    <Check size={12} className="text-[#E040FB]" />
-                    <span className="text-[#E040FB] text-xs font-bold">EQUIPPED</span>
-                  </div>
-                ) : owned ? (
-                  <span className="text-white/30 text-xs font-bold">EQUIP</span>
-                ) : (
-                  <div className="flex items-center gap-1">
-                    <Star size={10} className="text-[#E040FB]" />
-                    <span className="text-[#E040FB] text-xs font-bold">{trail.price}</span>
-                  </div>
-                )}
-              </motion.button>
-            );
-          })}
-        </motion.div>
-      )}
-
-      {/* Abilities tab */}
+      {/* ═══════ ABILITIES TAB ═══════ */}
       {tab === "abilities" && (
-        <motion.div className="w-full max-w-md flex flex-col gap-3"
+        <motion.div className="w-full max-w-md flex flex-col gap-2.5"
           initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}>
-          <div className="flex items-center gap-2 mb-2">
-            <Mountain size={14} className="text-[#00FF88]" />
-            <span className="text-white/30 text-xs font-bold tracking-wider">SKY CLIMB</span>
+          <div className="flex items-center gap-2 mb-1">
+            <Mountain size={12} className="text-[#00FF88]/50" />
+            <span className="text-white/20 text-[10px] font-bold tracking-widest">SKY CLIMB ABILITIES</span>
           </div>
-          {ABILITIES.map((ab) => {
+          {ABILITIES.map((ab, idx) => {
             const owned = parseInt(typeof window !== "undefined" ? localStorage.getItem(`plizio_ability_${ab.id}`) || "0" : "0");
             return (
               <motion.button
                 key={ab.id}
                 onClick={() => handleBuyAbility(ab)}
-                className="bg-card border border-white/5 rounded-2xl p-4 flex items-center gap-4 w-full text-left"
-                whileHover={{ borderColor: `${ab.color}40` }}
+                className="bg-gradient-to-r from-white/[0.04] to-transparent border border-white/5 rounded-2xl p-3.5 flex items-center gap-3.5 w-full text-left"
+                whileHover={{ borderColor: `${ab.color}30` }}
                 whileTap={{ scale: 0.98 }}
+                initial={{ opacity: 0, x: -20 }}
+                animate={{ opacity: 1, x: 0 }}
+                transition={{ delay: idx * 0.05 }}
               >
                 <div className="w-10 h-10 rounded-xl flex items-center justify-center text-xl"
-                  style={{ background: `${ab.color}15` }}>
+                  style={{ background: `${ab.color}10`, border: `1px solid ${ab.color}15` }}>
                   {ab.icon}
                 </div>
-                <div className="flex-1" />
+                <div className="flex-1">
+                  <span className="text-white/80 text-xs font-bold">{ab.name}</span>
+                </div>
                 {owned > 0 && (
-                  <span className="text-white/20 text-xs font-bold">x{owned}</span>
+                  <span className="text-white/15 text-xs font-bold bg-white/5 px-2 py-1 rounded-lg">x{owned}</span>
                 )}
-                <div className="flex items-center gap-1 bg-[#E040FB]/10 px-3 py-1.5 rounded-lg">
-                  <Star size={12} className="text-[#E040FB]" />
-                  <span className="text-[#E040FB] font-bold text-xs">{ab.price}</span>
+                <div className="flex items-center gap-1 bg-[#E040FB]/8 px-2.5 py-1.5 rounded-lg border border-[#E040FB]/15">
+                  <Star size={10} className="text-[#E040FB]" fill="#E040FB" />
+                  <span className="text-[#E040FB] font-black text-xs">{ab.price}</span>
                 </div>
               </motion.button>
             );

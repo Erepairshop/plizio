@@ -8,7 +8,7 @@ import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import generalData from "@/data/quickpick/general.json";
-import kpopData from "@/data/quickpick/kpop.json";
+import musicData from "@/data/quickpick/music.json";
 import footballData from "@/data/quickpick/football.json";
 import animeData from "@/data/quickpick/anime.json";
 
@@ -41,7 +41,7 @@ function seededRandom(seed: number): () => number {
 function getDailyQuestions(): Question[] {
   const allQuestions = [
     ...(generalData as Question[]),
-    ...(kpopData as Question[]),
+    ...(musicData as Question[]),
     ...(footballData as Question[]),
     ...(animeData as Question[]),
   ];

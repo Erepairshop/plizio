@@ -3,7 +3,7 @@ export type CardRarity = "bronze" | "silver" | "gold" | "legendary";
 export interface GameCard {
   id: string;
   game: string;
-  theme: string;
+  theme?: string;
   rarity: CardRarity;
   score: number;
   total: number;

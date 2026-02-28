@@ -13,18 +13,20 @@ A repo tisztán van szervezve:
 1. Lehúzza a friss fájlokat gitből
 2. Deployolja a `public_html/` mappába
 
-Formátum:
+Formátum (a user MINDIG a ~/public_html mappában van SSH-n):
 ```bash
-# 1. Fájlok lehúzása gitből:
+# 1. Fájlok lehúzása gitből (public_html-ből futtatva):
 git fetch origin <branch-neve> && git checkout FETCH_HEAD -- out/
 
-# 2. Deploy a public_html-be:
-rm -rf ~/public_html/_next && cp -r out/* ~/public_html/
+# 2. Deploy (public_html mappában vagyunk):
+rm -rf _next && cp -r out/* . && rm -rf out
 ```
 
 Szabályok:
 - A branch neve mindig az aktuális fejlesztési branch legyen
 - Az `out/` mappát MINDIG egészben húzd le (ne fájlonként)
+- A deploy parancs MINDIG feltételezi, hogy a user a `~/public_html` mappában van
+- NE használj `cd ~/public_html`-t - a user már ott van!
 - Ha forráskód fájlok is változtak, azokat is sorold fel külön
 - Minden push után küldd el a teljes pull+deploy parancsot
 
