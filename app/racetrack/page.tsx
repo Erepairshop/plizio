@@ -4,7 +4,7 @@ import React, { useState, useEffect, useRef, useMemo, useCallback } from "react"
 import { Canvas, useFrame, useThree } from "@react-three/fiber";
 import * as THREE from "three";
 import { motion, AnimatePresence } from "framer-motion";
-import { ArrowLeft, Trophy, Lock, Check } from "lucide-react";
+import { ArrowLeft, Trophy, Lock, Check, Eye } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import RewardReveal from "@/components/RewardReveal";
@@ -470,6 +470,274 @@ function CarMesh({ color, tilt }: { color: string; tilt?: number }) {
 }
 
 // ═══════════════════════════════════════════════
+//  GRANDSTANDS
+// ═══════════════════════════════════════════════
+const STAND_COLORS = ["#CC3344", "#3344CC", "#22AA55", "#CC7733", "#AA33CC"];
+function Grandstands({ curve, width }: { curve: THREE.CatmullRomCurve3; width: number }) {
+  const startPt = curve.getPointAt(0);
+  const tangent = curve.getTangentAt(0);
+  const normal = new THREE.Vector3(-tangent.z, 0, tangent.x).normalize();
+  const rows = 3, cols = 10;
+  const seats = useMemo(() => {
+    const result: { x: number; y: number; z: number; color: string }[] = [];
+    for (let r = 0; r < rows; r++) {
+      for (let c = 0; c < cols; c++) {
+        result.push({
+          x: startPt.x + normal.x * (width / 2 + 6 + r * 2.5) + tangent.x * (c - cols / 2) * 3,
+          y: r * 1.6 + 0.8,
+          z: startPt.z + normal.z * (width / 2 + 6 + r * 2.5) + tangent.z * (c - cols / 2) * 3,
+          color: STAND_COLORS[(r * cols + c) % STAND_COLORS.length],
+        });
+      }
+    }
+    return result;
+  }, [startPt, normal, tangent, width]);
+
+  return (
+    <>
+      {/* Base concrete structure */}
+      <mesh position={[startPt.x + normal.x * (width / 2 + 10), 1, startPt.z + normal.z * (width / 2 + 10)]}>
+        <boxGeometry args={[cols * 3, 2, rows * 2.5 + 2]} />
+        <meshStandardMaterial color="#555566" />
+      </mesh>
+      {/* Seats */}
+      {seats.map((s, i) => (
+        <mesh key={i} position={[s.x, s.y, s.z]}>
+          <boxGeometry args={[2.4, 1.2, 1.8]} />
+          <meshStandardMaterial color={s.color} emissive={s.color} emissiveIntensity={0.1} />
+        </mesh>
+      ))}
+      {/* Roof */}
+      <mesh position={[startPt.x + normal.x * (width / 2 + 10), rows * 1.6 + 3, startPt.z + normal.z * (width / 2 + 10)]}>
+        <boxGeometry args={[cols * 3 + 2, 0.3, rows * 2.5 + 4]} />
+        <meshStandardMaterial color="#334455" />
+      </mesh>
+    </>
+  );
+}
+
+// ═══════════════════════════════════════════════
+//  DRIFT SMOKE (3D particle pool)
+// ═══════════════════════════════════════════════
+const SMOKE_COUNT = 12;
+interface SmokePart { x: number; z: number; y: number; opacity: number; scale: number; life: number; active: boolean; }
+
+function DriftSmoke3D({ hudRef, playerPosRef }: {
+  hudRef: React.RefObject<RaceHud>;
+  playerPosRef: React.RefObject<{ x: number; z: number; angle: number; speed: number }>;
+}) {
+  const meshRefs = useRef<(THREE.Mesh | null)[]>(new Array(SMOKE_COUNT).fill(null));
+  const particles = useRef<SmokePart[]>(Array.from({ length: SMOKE_COUNT }, () => ({ x: 0, z: 0, y: 0.3, opacity: 0, scale: 0.5, life: 0, active: false })));
+  const nextIdx = useRef(0);
+  const emitTimer = useRef(0);
+
+  useFrame((_, delta) => {
+    const isDrifting = hudRef.current.isDrifting;
+    const pos = playerPosRef.current;
+    emitTimer.current += delta;
+
+    if (isDrifting && pos.speed > 2 && emitTimer.current > 0.07) {
+      emitTimer.current = 0;
+      const idx = nextIdx.current % SMOKE_COUNT;
+      nextIdx.current++;
+      const spread = 1.5;
+      particles.current[idx] = {
+        x: pos.x - Math.sin(pos.angle) * 2 + (Math.random() - 0.5) * spread,
+        z: pos.z - Math.cos(pos.angle) * 2 + (Math.random() - 0.5) * spread,
+        y: 0.4, opacity: 0.55, scale: 0.8, life: 1, active: true,
+      };
+    }
+
+    for (let i = 0; i < SMOKE_COUNT; i++) {
+      const p = particles.current[i];
+      const mesh = meshRefs.current[i];
+      if (!mesh) continue;
+      if (p.active && p.life > 0) {
+        p.life -= delta * 1.3;
+        p.y += delta * 1.8;
+        p.scale += delta * 2.5;
+        p.opacity = Math.max(0, p.life * 0.5);
+        mesh.position.set(p.x, p.y, p.z);
+        mesh.scale.setScalar(p.scale);
+        (mesh.material as THREE.MeshBasicMaterial).opacity = p.opacity;
+        mesh.visible = true;
+      } else {
+        mesh.visible = false;
+        if (p.life <= 0) p.active = false;
+      }
+    }
+  });
+
+  return (
+    <>
+      {Array.from({ length: SMOKE_COUNT }, (_, i) => (
+        <mesh key={i} ref={(el: THREE.Mesh | null) => { meshRefs.current[i] = el; }} visible={false}>
+          <sphereGeometry args={[0.9, 5, 5]} />
+          <meshBasicMaterial color="#bbbbbb" transparent opacity={0.4} depthWrite={false} />
+        </mesh>
+      ))}
+    </>
+  );
+}
+
+// ═══════════════════════════════════════════════
+//  MINIMAP (canvas outside Three.js)
+// ═══════════════════════════════════════════════
+function MiniMap({ track, playerPosRef, aiPosRef }: {
+  track: TrackDef;
+  playerPosRef: React.RefObject<{ x: number; z: number; angle: number; speed: number }>;
+  aiPosRef: React.RefObject<{ x: number; z: number; color: string }[]>;
+}) {
+  const canvasRef = useRef<HTMLCanvasElement>(null);
+  const animRef = useRef<number>(0);
+
+  useEffect(() => {
+    const canvas = canvasRef.current;
+    if (!canvas) return;
+    const SIZE = 130;
+    canvas.width = SIZE; canvas.height = SIZE;
+
+    const wps = track.waypoints;
+    const allX = wps.map(p => p.x), allZ = wps.map(p => p.z);
+    const minX = Math.min(...allX), maxX = Math.max(...allX);
+    const minZ = Math.min(...allZ), maxZ = Math.max(...allZ);
+    const range = Math.max(maxX - minX, maxZ - minZ) * 1.2;
+    const cx = (minX + maxX) / 2, cz = (minZ + maxZ) / 2;
+    const toM = (x: number, z: number) => ({
+      mx: (x - cx) / range * SIZE + SIZE / 2,
+      mz: (z - cz) / range * SIZE + SIZE / 2,
+    });
+
+    const roadW = Math.max(3, track.width * SIZE / range * 0.9);
+
+    const draw = () => {
+      const ctx = canvas.getContext("2d");
+      if (!ctx) return;
+      ctx.clearRect(0, 0, SIZE, SIZE);
+
+      // Background
+      ctx.fillStyle = "rgba(8,10,22,0.85)";
+      ctx.beginPath();
+      ctx.roundRect(0, 0, SIZE, SIZE, 10);
+      ctx.fill();
+
+      // Track road
+      ctx.strokeStyle = "#3a3a55";
+      ctx.lineWidth = roadW;
+      ctx.lineCap = "round";
+      ctx.lineJoin = "round";
+      ctx.beginPath();
+      wps.forEach((p, i) => {
+        const { mx, mz } = toM(p.x, p.z);
+        if (i === 0) ctx.moveTo(mx, mz); else ctx.lineTo(mx, mz);
+      });
+      ctx.closePath();
+      ctx.stroke();
+
+      // Track center line
+      ctx.strokeStyle = "#555570";
+      ctx.lineWidth = 1;
+      ctx.setLineDash([4, 4]);
+      ctx.beginPath();
+      wps.forEach((p, i) => {
+        const { mx, mz } = toM(p.x, p.z);
+        if (i === 0) ctx.moveTo(mx, mz); else ctx.lineTo(mx, mz);
+      });
+      ctx.closePath();
+      ctx.stroke();
+      ctx.setLineDash([]);
+
+      // Start/finish line
+      const { mx: sx, mz: sz } = toM(wps[0].x, wps[0].z);
+      ctx.fillStyle = "#FFD700";
+      ctx.fillRect(sx - 2, sz - 5, 4, 10);
+
+      // AI dots
+      for (const ai of aiPosRef.current) {
+        const { mx, mz } = toM(ai.x, ai.z);
+        ctx.fillStyle = ai.color;
+        ctx.beginPath(); ctx.arc(mx, mz, 3, 0, Math.PI * 2); ctx.fill();
+      }
+
+      // Player dot + direction arrow
+      const pl = playerPosRef.current;
+      const { mx: px, mz: pz } = toM(pl.x, pl.z);
+      ctx.fillStyle = "#FFFFFF";
+      ctx.strokeStyle = "#FFFFFF";
+      ctx.lineWidth = 2;
+      ctx.beginPath(); ctx.arc(px, pz, 4.5, 0, Math.PI * 2); ctx.fill();
+      ctx.beginPath();
+      ctx.moveTo(px, pz);
+      ctx.lineTo(px + Math.sin(pl.angle) * 8, pz + Math.cos(pl.angle) * 8);
+      ctx.stroke();
+
+      animRef.current = requestAnimationFrame(draw);
+    };
+    draw();
+    return () => cancelAnimationFrame(animRef.current);
+  }, [track, playerPosRef, aiPosRef]);
+
+  return <canvas ref={canvasRef} style={{ width: 130, height: 130, borderRadius: 10, border: "1px solid rgba(255,255,255,0.12)" }} />;
+}
+
+// ═══════════════════════════════════════════════
+//  SPEED GAUGE (SVG)
+// ═══════════════════════════════════════════════
+function SpeedGauge({ speed, maxSpeed, nitroActive, nitro, canNitro, onNitroToggle }: {
+  speed: number; maxSpeed: number; nitroActive: boolean; nitro: number; canNitro: boolean; onNitroToggle: () => void;
+}) {
+  const pct = Math.min(1, speed / maxSpeed);
+  const cx = 50, cy = 50, R = 38;
+  const startDeg = 135, totalDeg = 270;
+  const sweepDeg = pct * totalDeg;
+  const toXY = (deg: number) => ({
+    x: cx + R * Math.cos((deg - 90) * Math.PI / 180),
+    y: cy + R * Math.sin((deg - 90) * Math.PI / 180),
+  });
+  const p1 = toXY(startDeg);
+  const p2 = toXY(startDeg + Math.max(0.01, sweepDeg));
+  const largeArc = sweepDeg > 180 ? 1 : 0;
+  const arcColor = nitroActive ? "#FF6600" : pct > 0.85 ? "#FF4444" : pct > 0.55 ? "#FFAA00" : "#44AAFF";
+  const kmh = Math.round(speed * 3.6);
+
+  // Background arc path (full 270°)
+  const pb2 = toXY(startDeg + 270);
+
+  return (
+    <div style={{ position: "relative", width: 100, height: 100 }}>
+      <svg width={100} height={100}>
+        {/* Background arc */}
+        <path d={`M ${toXY(startDeg).x} ${toXY(startDeg).y} A ${R} ${R} 0 1 1 ${pb2.x} ${pb2.y}`}
+          stroke="rgba(255,255,255,0.08)" strokeWidth={6} fill="none" strokeLinecap="round" />
+        {/* Speed arc */}
+        {pct > 0.01 && (
+          <path d={`M ${p1.x} ${p1.y} A ${R} ${R} 0 ${largeArc} 1 ${p2.x} ${p2.y}`}
+            stroke={arcColor} strokeWidth={6} fill="none" strokeLinecap="round"
+            style={{ filter: `drop-shadow(0 0 4px ${arcColor})` }} />
+        )}
+        {/* Speed text */}
+        <text x={cx} y={cy - 2} textAnchor="middle" dominantBaseline="middle"
+          fill="white" fontSize={16} fontWeight="bold" fontFamily="monospace">{kmh}</text>
+        <text x={cx} y={cy + 14} textAnchor="middle" fill="rgba(255,255,255,0.35)" fontSize={8}>km/h</text>
+      </svg>
+      {/* Nitro bar below gauge */}
+      {canNitro && (
+        <div style={{ position: "absolute", bottom: -18, left: 0, right: 0, display: "flex", flexDirection: "column", alignItems: "center", gap: 3 }}>
+          <button onClick={onNitroToggle}
+            style={{ fontSize: 9, fontWeight: "bold", padding: "2px 8px", borderRadius: 6, pointerEvents: "auto",
+              background: nitroActive ? "rgba(255,102,0,0.3)" : "rgba(0,180,255,0.15)",
+              border: `1px solid ${nitroActive ? "rgba(255,102,0,0.6)" : "rgba(0,180,255,0.4)"}`,
+              color: nitroActive ? "#FF8800" : "#44CCFF" }}>NOS</button>
+          <div style={{ width: 70, height: 4, background: "rgba(255,255,255,0.1)", borderRadius: 2 }}>
+            <div style={{ width: `${nitro}%`, height: "100%", borderRadius: 2, background: nitroActive ? "#FF6600" : "#00CCFF", transition: "width 0.1s" }} />
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+// ═══════════════════════════════════════════════
 //  RACE SCENE
 // ═══════════════════════════════════════════════
 interface RacerState {
@@ -490,7 +758,7 @@ interface RaceHud {
   position: number; totalRacers: number;
   nitro: number; nitroActive: boolean;
   time: number; onOil: boolean;
-  playerTilt: number;
+  playerTilt: number; isDrifting: boolean;
 }
 
 interface RaceSceneProps {
@@ -503,9 +771,12 @@ interface RaceSceneProps {
   nitroActiveRef: React.RefObject<boolean>;
   keysRef: React.RefObject<Set<string>>;
   touchRef: React.RefObject<{ active: boolean; sx: number; sy: number; cx: number; cy: number }>;
+  playerPosRef: React.RefObject<{ x: number; z: number; angle: number; speed: number }>;
+  aiPosRef: React.RefObject<{ x: number; z: number; color: string }[]>;
+  cameraModeRef: React.RefObject<"chase" | "overhead">;
 }
 
-const RaceScene = React.memo(function RaceScene({ track, carType, running, onFinish, onFlipped, hudRef, nitroActiveRef, keysRef, touchRef }: RaceSceneProps) {
+const RaceScene = React.memo(function RaceScene({ track, carType, running, onFinish, onFlipped, hudRef, nitroActiveRef, keysRef, touchRef, playerPosRef, aiPosRef, cameraModeRef }: RaceSceneProps) {
   const { camera } = useThree();
   const curve = useMemo(() => createTrackCurve(track.waypoints), [track]);
   const trackPoints = useMemo(() => sampleTrack(curve, 200), [curve]);
@@ -668,13 +939,18 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
     if (finishedRef.current) return;
     const player = playerRef.current;
 
-    // Camera follows player even during countdown (so starting grid is visible)
-    const camDist = 14;
-    const camH = 7;
-    const camTx = player.x - Math.sin(player.angle) * camDist;
-    const camTz = player.z - Math.cos(player.angle) * camDist;
-    camera.position.lerp(new THREE.Vector3(camTx, camH, camTz), 0.08);
-    camera.lookAt(player.x, 1, player.z);
+    // Camera follows player
+    if (cameraModeRef.current === "overhead") {
+      camera.position.lerp(new THREE.Vector3(player.x, 90, player.z), 0.06);
+      camera.lookAt(player.x, 0, player.z);
+    } else {
+      const camDist = 14;
+      const camH = 7;
+      const camTx = player.x - Math.sin(player.angle) * camDist;
+      const camTz = player.z - Math.cos(player.angle) * camDist;
+      camera.position.lerp(new THREE.Vector3(camTx, camH, camTz), 0.08);
+      camera.lookAt(player.x, 1, player.z);
+    }
 
     if (!running) return; // Don't run game logic during countdown
     const dt = Math.min(delta, 0.05);
@@ -951,10 +1227,26 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
       }
     }
 
+    // ── Update external position refs (for minimap) ──
+    playerPosRef.current.x = player.x;
+    playerPosRef.current.z = player.z;
+    playerPosRef.current.angle = player.angle;
+    playerPosRef.current.speed = player.speed;
+    const aisSnap = aiRef.current;
+    if (aiPosRef.current.length !== aisSnap.length) {
+      aiPosRef.current = aisSnap.map((a, i) => ({ x: a.x, z: a.z, color: AI_COLORS[i] }));
+    } else {
+      for (let i = 0; i < aisSnap.length; i++) {
+        aiPosRef.current[i].x = aisSnap[i].x;
+        aiPosRef.current[i].z = aisSnap[i].z;
+      }
+    }
+
     // ── Update HUD ──
     hud.speed = Math.abs(player.speed);
     hud.lap = player.lap + 1;
     hud.totalLaps = track.laps;
+    hud.isDrifting = Math.abs(steerInput) > 0.4 && player.speed > 3;
     // Stabilize position display - only update if new position holds for a brief moment
     const rawPos = getPosition(allCars);
     if (rawPos !== lastPosRef.current) {
@@ -1018,6 +1310,12 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
         </group>
       ))}
 
+      {/* Grandstands near start/finish */}
+      <Grandstands curve={curve} width={track.width} />
+
+      {/* Drift smoke */}
+      <DriftSmoke3D hudRef={hudRef} playerPosRef={playerPosRef} />
+
       {/* Track-side lights */}
       {trackPoints.filter((_, i) => i % 15 === 0).map((p, i) => {
         const tangent = curve.getTangentAt(((i * 15) % SEGS) / SEGS);
@@ -1054,9 +1352,13 @@ export default function RacetrackPage() {
   const keysRef = useRef(new Set<string>());
   const touchRef = useRef({ active: false, sx: 0, sy: 0, cx: 0, cy: 0 });
   const nitroActiveRef = useRef(false);
+  const playerPosRef = useRef<{ x: number; z: number; angle: number; speed: number }>({ x: 0, z: 0, angle: 0, speed: 0 });
+  const aiPosRef = useRef<{ x: number; z: number; color: string }[]>([]);
+  const cameraModeRef = useRef<"chase" | "overhead">("chase");
+  const [cameraMode, setCameraMode] = useState<"chase" | "overhead">("chase");
   const hudRef = useRef<RaceHud>({
     speed: 0, lap: 1, totalLaps: 2, position: 1, totalRacers: 7,
-    nitro: NITRO_MAX, nitroActive: false, time: 0, onOil: false, playerTilt: 0,
+    nitro: NITRO_MAX, nitroActive: false, time: 0, onOil: false, playerTilt: 0, isDrifting: false,
   });
 
   const carType = useMemo(() => getCarType(getActiveCar()), []);
@@ -1128,7 +1430,7 @@ export default function RacetrackPage() {
     setSelectedLevel(lvl);
     setCountdown(3);
     setCardSaved(false);
-    hudRef.current = { speed: 0, lap: 1, totalLaps: track.laps, position: 1, totalRacers: 7, nitro: NITRO_MAX, nitroActive: false, time: 0, onOil: false, playerTilt: 0 };
+    hudRef.current = { speed: 0, lap: 1, totalLaps: track.laps, position: 1, totalRacers: 7, nitro: NITRO_MAX, nitroActive: false, time: 0, onOil: false, playerTilt: 0, isDrifting: false };
     nitroActiveRef.current = false;
     setGameState("countdown");
   };
@@ -1161,7 +1463,7 @@ export default function RacetrackPage() {
         <div className="absolute inset-0 z-20 flex flex-col items-center overflow-y-auto pb-8">
           <div className="w-full max-w-md px-4 pt-6">
             <div className="flex items-center justify-between mb-6">
-              <Link href="/citydrive">
+              <Link href="/">
                 <motion.div className="bg-white/5 border border-white/8 p-2.5 rounded-xl cursor-pointer" whileTap={{ scale: 0.9 }}>
                   <ArrowLeft size={18} className="text-white/60" />
                 </motion.div>
@@ -1244,68 +1546,88 @@ export default function RacetrackPage() {
       {(gameState === "playing" || gameState === "countdown") && (
         <>
           <Canvas camera={{ fov: 65, near: 0.1, far: 400, position: [0, 8, 20] }} dpr={[1, 1.5]} gl={{ powerPreference: "high-performance", antialias: false }}>
-            <RaceScene track={track} carType={carType} running={gameState === "playing"} onFinish={handleFinish} onFlipped={handleFlipped} hudRef={hudRef} nitroActiveRef={nitroActiveRef} keysRef={keysRef} touchRef={touchRef} />
+            <RaceScene track={track} carType={carType} running={gameState === "playing"} onFinish={handleFinish} onFlipped={handleFlipped} hudRef={hudRef} nitroActiveRef={nitroActiveRef} keysRef={keysRef} touchRef={touchRef} playerPosRef={playerPosRef} aiPosRef={aiPosRef} cameraModeRef={cameraModeRef} />
           </Canvas>
 
           {/* HUD overlay */}
           {gameState === "playing" && (
             <div className="absolute inset-0 z-10 pointer-events-none">
-              {/* Position + Lap */}
-              <div className="absolute top-3 left-1/2 -translate-x-1/2 bg-black/80 backdrop-blur-sm rounded-xl px-5 py-2 border border-[#BB44FF]/30">
-                <div className="flex items-center gap-4">
-                  <div>
-                    <div className="text-[#BB44FF] font-black text-[10px]">POSITION</div>
-                    <div className="text-white font-black text-2xl text-center">{hud.position}<span className="text-sm text-white/40">/{hud.totalRacers}</span></div>
-                  </div>
-                  <div className="w-px h-8 bg-white/10" />
-                  <div>
-                    <div className="text-[#BB44FF] font-black text-[10px]">LAP</div>
-                    <div className="text-white font-black text-2xl text-center">{hud.lap}<span className="text-sm text-white/40">/{hud.totalLaps}</span></div>
-                  </div>
-                  <div className="w-px h-8 bg-white/10" />
-                  <div>
-                    <div className="text-white/40 font-bold text-[10px]">TIME</div>
-                    <div className="text-white/60 font-black text-lg">{hud.time.toFixed(1)}s</div>
-                  </div>
+
+              {/* Nitro glow screen edge */}
+              {hud.nitroActive && (
+                <div className="absolute inset-0 pointer-events-none" style={{ boxShadow: "inset 0 0 80px rgba(255,102,0,0.45)", borderRadius: 0 }} />
+              )}
+              {/* Drift smoke indicator */}
+              {hud.isDrifting && (
+                <div className="absolute inset-0 pointer-events-none" style={{ boxShadow: "inset 0 0 60px rgba(180,180,180,0.12)" }} />
+              )}
+
+              {/* TOP BAR – Lap + Time */}
+              <div className="absolute top-3 left-1/2 -translate-x-1/2 bg-black/80 backdrop-blur-sm rounded-2xl px-5 py-2 border border-[#BB44FF]/30 flex items-center gap-4">
+                <div className="text-center">
+                  <div className="text-[#BB44FF] font-black text-[9px] tracking-widest">LAP</div>
+                  <div className="text-white font-black text-xl leading-none">{hud.lap}<span className="text-xs text-white/30">/{hud.totalLaps}</span></div>
                 </div>
+                <div className="w-px h-7 bg-white/10" />
+                <div className="text-center">
+                  <div className="text-white/30 font-bold text-[9px] tracking-widest">TIME</div>
+                  <div className="text-white/70 font-black text-lg leading-none tabular-nums">{hud.time.toFixed(1)}s</div>
+                </div>
+              </div>
+
+              {/* POSITION – top left, big */}
+              <div className="absolute top-3 left-14 flex flex-col items-center">
+                <div className="text-[9px] font-black text-[#BB44FF]/70 tracking-widest">POS</div>
+                <div className="font-black text-4xl leading-none" style={{
+                  color: hud.position === 1 ? "#FFD700" : hud.position === 2 ? "#C0C0C0" : hud.position === 3 ? "#CD7F32" : "#888"
+                }}>P{hud.position}</div>
+              </div>
+
+              {/* Camera toggle – top right area */}
+              <button onClick={() => { const next = cameraMode === "chase" ? "overhead" : "chase"; setCameraMode(next); cameraModeRef.current = next; }}
+                className="absolute top-14 right-3 bg-black/70 border border-white/20 rounded-xl p-2 pointer-events-auto active:scale-95 transition-all flex items-center gap-1.5">
+                <Eye size={12} className="text-white/60" />
+                <span className="text-white/50 text-[10px] font-bold">{cameraMode === "chase" ? "CHASE" : "TOP"}</span>
+              </button>
+
+              {/* Mini-map – top right */}
+              <div className="absolute top-3 right-3 pointer-events-none">
+                <MiniMap track={track} playerPosRef={playerPosRef} aiPosRef={aiPosRef} />
               </div>
 
               {/* Oil slick warning */}
               {hud.onOil && (
                 <div className="absolute top-20 left-1/2 -translate-x-1/2 bg-yellow-900/80 rounded-lg px-3 py-1 border border-yellow-500/40">
-                  <div className="text-yellow-400 font-black text-xs animate-pulse">OIL SLICK!</div>
+                  <div className="text-yellow-400 font-black text-xs animate-pulse">⚠ OIL SLICK!</div>
                 </div>
               )}
 
-              {/* Speed */}
-              <div className="absolute bottom-14 left-1/2 -translate-x-1/2 bg-black/70 backdrop-blur-sm rounded-xl px-5 py-2 border border-white/10">
-                <div className="text-white font-black text-lg text-center">{Math.round(hud.speed * 3.6)} <span className="text-xs text-white/40">km/h</span></div>
-                {carType.canNitro && (
-                  <div className="flex items-center gap-1.5 mt-1">
-                    <button onClick={() => { nitroActiveRef.current = !nitroActiveRef.current; }}
-                      className="text-[10px] font-black px-2 py-1 rounded-md pointer-events-auto transition-all cursor-pointer border"
-                      style={{ color: hud.nitroActive ? "#FF6600" : "#00CCFF", backgroundColor: hud.nitroActive ? "rgba(255,102,0,0.3)" : "rgba(0,200,255,0.1)", borderColor: hud.nitroActive ? "rgba(255,102,0,0.5)" : "rgba(0,200,255,0.3)" }}>NOS</button>
-                    <div className="w-20 h-2 bg-white/10 rounded-full">
-                      <div className="h-full rounded-full transition-all" style={{ width: `${hud.nitro}%`, backgroundColor: hud.nitroActive ? "#FF6600" : "#00CCFF" }} />
-                    </div>
-                  </div>
-                )}
+              {/* Speed gauge – bottom center */}
+              <div className="absolute bottom-20 left-1/2 -translate-x-1/2 pointer-events-auto">
+                <SpeedGauge
+                  speed={hud.speed}
+                  maxSpeed={carType.maxSpeed}
+                  nitroActive={hud.nitroActive}
+                  nitro={hud.nitro}
+                  canNitro={carType.canNitro}
+                  onNitroToggle={() => { nitroActiveRef.current = !nitroActiveRef.current; }}
+                />
               </div>
 
-              {/* Back to City button */}
-              <button onClick={() => router.push("/citydrive")}
-                className="absolute top-3 left-3 bg-black/70 border border-white/20 rounded-xl px-3 py-2 pointer-events-auto active:scale-95 transition-all z-30">
-                <span className="text-white/60 font-bold text-xs">Back to City</span>
+              {/* Back button */}
+              <button onClick={() => router.push("/")}
+                className="absolute top-3 left-3 bg-black/70 border border-white/20 rounded-xl p-2.5 pointer-events-auto active:scale-95 transition-all z-30">
+                <ArrowLeft size={16} className="text-white/60" />
               </button>
 
-              {/* Close/menu button */}
+              {/* Menu button */}
               <button onClick={() => setGameState("menu")}
-                className="absolute top-3 right-3 w-9 h-9 rounded-full bg-black/70 border border-white/20 flex items-center justify-center pointer-events-auto z-30">
-                <span className="text-white/70 font-bold text-lg">✕</span>
+                className="absolute top-14 left-3 bg-black/70 border border-white/20 rounded-xl px-2.5 py-1.5 pointer-events-auto z-30">
+                <span className="text-white/50 font-bold text-[10px]">MENU</span>
               </button>
 
-              <div className="absolute bottom-3 left-3 text-[9px] text-white/20">
-                WASD: drive{carType.canNitro ? " | E: nitro" : ""} | 6 racers | Level {selectedLevel}
+              <div className="absolute bottom-3 left-3 text-[9px] text-white/15">
+                WASD{carType.canNitro ? " | E: NOS" : ""} | Lvl {selectedLevel}
               </div>
             </div>
           )}
@@ -1366,32 +1688,60 @@ export default function RacetrackPage() {
         )}
       </AnimatePresence>
 
-      {/* ═══ RACE COMPLETE ═══ */}
+      {/* ═══ RACE COMPLETE – PODIUM ═══ */}
       <AnimatePresence>
         {gameState === "complete" && (
-          <motion.div className="absolute inset-0 z-30 flex items-center justify-center bg-[#0a0e1a]/90 p-4"
+          <motion.div className="absolute inset-0 z-30 flex items-center justify-center bg-[#0a0e1a]/92 p-4"
             initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
             <motion.div className="w-full max-w-sm bg-[#0d1117] border rounded-3xl p-6 text-center"
               style={{ borderColor: `${posColor}33` }}
               initial={{ scale: 0.8, y: 20 }} animate={{ scale: 1, y: 0 }} transition={{ type: "spring" }}>
-              <div className="text-5xl mb-2">🏁</div>
-              <h2 className="text-white font-black text-2xl">Race Complete!</h2>
-              <div className="mt-4 mb-2">
-                <div className="text-6xl font-black" style={{ color: posColor }}>{posLabel}</div>
-                <div className="text-white/30 text-sm mt-1">of 7 racers</div>
+
+              <div className="text-3xl mb-1">🏁</div>
+              <h2 className="text-white font-black text-xl mb-4">Race Complete!</h2>
+
+              {/* Podium */}
+              <div className="flex items-end justify-center gap-2 mb-5">
+                {/* 2nd */}
+                <div className="flex flex-col items-center">
+                  <div className="text-2xl mb-1">🥈</div>
+                  <div className={`w-16 rounded-t-lg flex items-end justify-center pb-1 ${finishPosition === 2 ? "ring-2 ring-silver" : ""}`}
+                    style={{ height: 52, background: finishPosition === 2 ? "rgba(192,192,192,0.25)" : "rgba(255,255,255,0.06)", border: "1px solid rgba(255,255,255,0.1)" }}>
+                    <span className="text-white/60 font-black text-sm">2nd</span>
+                  </div>
+                </div>
+                {/* 1st */}
+                <div className="flex flex-col items-center">
+                  <div className="text-3xl mb-1">🥇</div>
+                  <div className={`w-20 rounded-t-lg flex items-end justify-center pb-1 ${finishPosition === 1 ? "ring-2 ring-yellow-400" : ""}`}
+                    style={{ height: 72, background: finishPosition === 1 ? "rgba(255,215,0,0.2)" : "rgba(255,255,255,0.06)", border: "1px solid rgba(255,255,255,0.1)" }}>
+                    <span className="text-white/60 font-black text-sm">1st</span>
+                  </div>
+                </div>
+                {/* 3rd */}
+                <div className="flex flex-col items-center">
+                  <div className="text-2xl mb-1">🥉</div>
+                  <div className={`w-16 rounded-t-lg flex items-end justify-center pb-1 ${finishPosition === 3 ? "ring-2 ring-orange-400" : ""}`}
+                    style={{ height: 36, background: finishPosition === 3 ? "rgba(205,127,50,0.25)" : "rgba(255,255,255,0.06)", border: "1px solid rgba(255,255,255,0.1)" }}>
+                    <span className="text-white/60 font-black text-sm">3rd</span>
+                  </div>
+                </div>
               </div>
-              <div className="space-y-1">
-                <div className="text-white/50 text-sm">Time: <span className="text-white font-bold">{finishTime.toFixed(1)}s</span></div>
-                <div className="text-sm font-bold" style={{ color: posColor }}>{cardType} CARD</div>
-              </div>
+
+              {/* Result */}
+              <div className="font-black text-5xl mb-1" style={{ color: posColor }}>{posLabel}</div>
+              <div className="text-white/30 text-xs mb-3">of 7 racers · {finishTime.toFixed(1)}s</div>
+              <div className="text-sm font-black mb-1" style={{ color: posColor }}>{cardType} CARD</div>
+
               {winStreak >= 3 && finishPosition === 1 && (
-                <div className="mt-3 bg-purple-500/10 border border-purple-500/30 rounded-xl px-3 py-2">
-                  <div className="text-purple-400 font-black text-sm">LEGENDARY! {winStreak} wins in a row!</div>
+                <div className="mt-2 mb-2 bg-purple-500/10 border border-purple-500/30 rounded-xl px-3 py-1.5">
+                  <div className="text-purple-400 font-black text-xs">⚡ LEGENDARY! {winStreak} wins in a row!</div>
                 </div>
               )}
-              <div className="flex gap-3 mt-5">
+
+              <div className="flex gap-3 mt-4">
                 <button onClick={() => setGameState("reward")}
-                  className="flex-1 py-3 rounded-xl font-bold text-sm text-white bg-gradient-to-r from-[#BB44FF] to-[#8800FF] hover:opacity-90 transition-all">
+                  className="flex-1 py-3 rounded-xl font-bold text-sm text-white bg-gradient-to-r from-[#BB44FF] to-[#8800FF]">
                   View Card
                 </button>
                 <button onClick={() => setGameState("menu")}
@@ -1419,7 +1769,7 @@ export default function RacetrackPage() {
                   className="flex-1 py-3 rounded-xl font-bold text-sm text-white bg-gradient-to-r from-red-500 to-orange-500 active:scale-95">
                   Retry
                 </button>
-                <button onClick={() => router.push("/citydrive")}
+                <button onClick={() => router.push("/")}
                   className="flex-1 py-3 rounded-xl font-bold text-sm text-white/60 bg-white/5 border border-white/10 active:scale-95">
                   Back to City
                 </button>
