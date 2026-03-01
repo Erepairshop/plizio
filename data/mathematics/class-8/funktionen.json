@@ -168,7 +168,7 @@
     },
     {
       "id": "8-funk-019",
-      "question": "Berechne f(3) für f(x) = x² + 3x.",",
+      "question": "Berechne f(3) für f(x) = x² + 3x.",
       "difficulty": "medium",
       "type": "multiple-choice",
       "options": [18, 12, 15, 20],
