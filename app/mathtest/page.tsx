@@ -419,7 +419,7 @@ export default function MathTestPage() {
         startSupabaseTest(testSession.testId).catch((err) => console.error("[Supabase] startTest failed:", err));
       }
       lastAnswerTimeRef.current = 0;
-      window.scrollTo({ top: 0, behavior: 'smooth' });
+      window.scrollTo(0, 0);
       setGameState("playing");
       return;
     }
@@ -797,8 +797,9 @@ export default function MathTestPage() {
 
       // Start test directly without countdown
       lastAnswerTimeRef.current = 0;
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-      setGameState("playing");
+      // Scroll to top immediately
+      window.scrollTo(0, 0);
+      setTimeout(() => setGameState("playing"), 50);
     } catch (err) {
       console.error("[Multi-Theme Test] Failed:", err);
       alert("Error generating test. Please try again.");
@@ -1353,8 +1354,8 @@ export default function MathTestPage() {
             {!isGrading && (
               <motion.div
                 className="fixed left-1/2 -translate-x-1/2 bottom-24 z-40"
-                initial={{ opacity: 0, scale: 0 }}
-                animate={{ opacity: 1, scale: 1 }}
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
                 transition={{ type: "spring", stiffness: 200 }}
               >
                 <motion.button
@@ -1364,15 +1365,15 @@ export default function MathTestPage() {
                     }
                   }}
                   disabled={!answers.some((a) => a !== null)}
-                  className={`w-16 h-16 rounded-full font-bold shadow-lg text-lg transition-all flex items-center justify-center ${
+                  className={`px-8 py-3 rounded-lg font-bold shadow-lg transition-all ${
                     answers.some((a) => a !== null)
                       ? 'bg-blue-600 hover:bg-blue-700 text-white cursor-pointer'
                       : 'bg-gray-300 text-gray-500 cursor-not-allowed opacity-60'
                   }`}
-                  whileHover={answers.some((a) => a !== null) ? { scale: 1.1, boxShadow: "0 0 30px rgba(37, 99, 235, 0.6)" } : {}}
+                  whileHover={answers.some((a) => a !== null) ? { scale: 1.05, boxShadow: "0 0 30px rgba(37, 99, 235, 0.6)" } : {}}
                   whileTap={answers.some((a) => a !== null) ? { scale: 0.95 } : {}}
                 >
-                  <span className="text-sm font-bold">A</span>
+                  Anfrage
                 </motion.button>
               </motion.div>
             )}
