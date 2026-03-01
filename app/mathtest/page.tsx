@@ -6,7 +6,7 @@ import { Canvas, useFrame } from "@react-three/fiber";
 import * as THREE from "three";
 import {
   Calculator, ArrowLeft, Check, X as XIcon,
-  RotateCcw, Home, BookOpen, Sparkles, Clock,
+  RotateCcw, Home, BookOpen, Sparkles, Clock, Download,
 } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
@@ -102,6 +102,7 @@ import { DraftProvider } from "@/components/draft";
 import { convertToExtendedQuestion, isVisualQuestion } from "@/lib/mathQuestionUtils";
 import ModernPaperTest from "@/components/ModernPaperTest";
 import GradingPencil, { InlineGradingPencil } from "@/components/GradingPencil";
+import { generateTestPdf } from "@/lib/generateTestPdf";
 import TeacherNote from "@/components/TeacherNote";
 import { getActiveSkin, SKINS } from "@/lib/skins";
 
@@ -1585,6 +1586,31 @@ export default function MathTestPage() {
               {ui?.other}
             </motion.button>
           </motion.div>
+
+          {/* PDF Download */}
+          <motion.button
+            onClick={() => {
+              const now = new Date();
+              const dateStr = `${now.getDate().toString().padStart(2, "0")}.${(now.getMonth() + 1).toString().padStart(2, "0")}.${now.getFullYear()}`;
+              generateTestPdf({
+                gradeLevel: country?.gradeLabel(selectedGrade!) || `${selectedGrade}. Klasse`,
+                testType: testType === "klassenarbeit" ? "klassenarbeit" : "practice",
+                date: dateStr,
+                elapsedTime,
+                questions,
+                answers,
+                gradeResult,
+                klassenarbeitResult: klassenarbeitResult || undefined,
+              });
+            }}
+            className="flex-1 py-3 rounded-xl border-2 border-sky-400/40 text-sky-400 font-bold text-sm flex items-center justify-center gap-2"
+            style={{ background: "rgba(56,189,248,0.1)" }}
+            whileHover={{ scale: 1.03 }}
+            whileTap={{ scale: 0.97 }}
+          >
+            <Download size={18} />
+            PDF
+          </motion.button>
 
           {/* Home */}
           <motion.button
