@@ -1337,7 +1337,7 @@ export default function MathTestPage() {
             </div>
 
             {/* Global Submit Button - Bottom */}
-            {!isGrading && answers.some((a) => a !== null) && (
+            {!isGrading && (
               <motion.div
                 className="fixed bottom-8 left-1/2 -translate-x-1/2 z-40"
                 initial={{ opacity: 0, y: 20 }}
@@ -1346,11 +1346,18 @@ export default function MathTestPage() {
               >
                 <motion.button
                   onClick={() => {
-                    setGameState("grading");
+                    if (answers.some((a) => a !== null)) {
+                      setGameState("grading");
+                    }
                   }}
-                  className="px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-lg shadow-lg text-lg transition-all"
-                  whileHover={{ scale: 1.05, boxShadow: "0 0 20px rgba(37, 99, 235, 0.5)" }}
-                  whileTap={{ scale: 0.95 }}
+                  disabled={!answers.some((a) => a !== null)}
+                  className={`px-8 py-3 font-bold rounded-lg shadow-lg text-lg transition-all ${
+                    answers.some((a) => a !== null)
+                      ? 'bg-blue-600 hover:bg-blue-700 text-white cursor-pointer'
+                      : 'bg-gray-300 text-gray-500 cursor-not-allowed opacity-60'
+                  }`}
+                  whileHover={answers.some((a) => a !== null) ? { scale: 1.05, boxShadow: "0 0 20px rgba(37, 99, 235, 0.5)" } : {}}
+                  whileTap={answers.some((a) => a !== null) ? { scale: 0.95 } : {}}
                 >
                   Beküldes
                 </motion.button>
