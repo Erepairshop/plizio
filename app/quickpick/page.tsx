@@ -9,6 +9,7 @@ import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, incrementPerfectScores, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
+import { useLang } from "@/components/LanguageProvider";
 import generalData from "@/data/quickpick/general.json";
 import musicData from "@/data/quickpick/music.json";
 import footballData from "@/data/quickpick/football.json";
@@ -110,6 +111,13 @@ function updateStreak(): number {
   return 1;
 }
 
+const QP_T = {
+  en: { tap: "TAP", versus: "VS" },
+  hu: { tap: "NYOMJ", versus: "VS" },
+  de: { tap: "TIPP", versus: "VS" },
+  ro: { tap: "APASĂ", versus: "VS" },
+};
+
 const TOTAL_ROUNDS = 10;
 
 export default function QuickPickPage() {
@@ -126,6 +134,8 @@ export default function QuickPickPage() {
   const startTimeRef = useRef<number>(0);
   const [animatedValueA, setAnimatedValueA] = useState(0);
   const [animatedValueB, setAnimatedValueB] = useState(0);
+  const { lang } = useLang();
+  const t = QP_T[lang as keyof typeof QP_T] ?? QP_T.en;
 
   useEffect(() => {
     setStreak(getStreak());
@@ -449,7 +459,7 @@ export default function QuickPickPage() {
                 animate={{ opacity: [0.15, 0.3, 0.15] }}
                 transition={{ repeat: Infinity, duration: 2 }}
               >
-                TAP
+                {t.tap}
               </motion.div>
             )}
 
@@ -519,7 +529,7 @@ export default function QuickPickPage() {
                 animate={{ opacity: [0.15, 0.3, 0.15] }}
                 transition={{ repeat: Infinity, duration: 2 }}
               >
-                TAP
+                {t.tap}
               </motion.div>
             )}
 

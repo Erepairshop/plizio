@@ -16,6 +16,34 @@ import { syncToSupabase } from "@/lib/sync";
 import AuthModal from "@/components/AuthModal";
 import UsernameModal from "@/components/UsernameModal";
 import { getUsername, hasUsername } from "@/lib/username";
+import { useLang } from "@/components/LanguageProvider";
+
+const PAGE_T = {
+  en: {
+    "QUIZ & REFLEX": "QUIZ & REFLEX",
+    "ADVENTURE": "ADVENTURE",
+    "LEARNING": "LEARNING",
+    comingSoon: "COMING SOON",
+  },
+  hu: {
+    "QUIZ & REFLEX": "KVÍZ & REFLEX",
+    "ADVENTURE": "KALAND",
+    "LEARNING": "TANULÁS",
+    comingSoon: "HAMAROSAN",
+  },
+  de: {
+    "QUIZ & REFLEX": "QUIZ & REFLEX",
+    "ADVENTURE": "ABENTEUER",
+    "LEARNING": "LERNEN",
+    comingSoon: "DEMNÄCHST",
+  },
+  ro: {
+    "QUIZ & REFLEX": "QUIZ & REFLEX",
+    "ADVENTURE": "AVENTURĂ",
+    "LEARNING": "ÎNVĂȚARE",
+    comingSoon: "ÎN CURÂND",
+  },
+} as const;
 
 interface GameDef {
   id: string;
@@ -140,6 +168,8 @@ function getStreak(): number {
 
 export default function Home() {
   const router = useRouter();
+  const { lang } = useLang();
+  const t = PAGE_T[lang as keyof typeof PAGE_T] ?? PAGE_T.en;
   const [streak, setStreak] = useState(0);
   const [cardCount, setCardCount] = useState(0);
   const [specialCount, setSpecialCount] = useState(0);
@@ -268,7 +298,7 @@ export default function Home() {
                 <div className="flex items-center gap-2">
                   <CatIcon size={14} style={{ color: cat.color, filter: `drop-shadow(0 0 6px ${cat.color}60)` }} />
                   <span className="text-[10px] font-bold tracking-[0.2em] uppercase" style={{ color: `${cat.color}90` }}>
-                    {cat.label}
+                    {t[cat.label as keyof typeof t] ?? cat.label}
                   </span>
                   <motion.div animate={{ rotate: isOpen ? 180 : 0 }} transition={{ duration: 0.2 }}>
                     <ChevronDown size={12} style={{ color: `${cat.color}60` }} />
@@ -291,7 +321,7 @@ export default function Home() {
                       <div className="flex flex-col items-center gap-2 py-4">
                         <CatIcon size={24} style={{ color: `${cat.color}30` }} />
                         <span className="text-[10px] font-bold tracking-wider" style={{ color: `${cat.color}40` }}>
-                          COMING SOON
+                          {t.comingSoon}
                         </span>
                       </div>
                     ) : (
