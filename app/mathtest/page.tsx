@@ -868,6 +868,7 @@ export default function MathTestPage() {
     setAnswers((prev) => {
       const next = [...prev];
       next[questionIndex] = answer;
+      console.log(`[Answer Q${questionIndex}] Set to ${answer}, Filled: ${next.filter(a => a !== null).length}/${next.length}`);
       return next;
     });
 
@@ -1332,7 +1333,9 @@ export default function MathTestPage() {
               >
                 <motion.button
                   onClick={() => {
-                    if (answers.every((a) => a !== null)) {
+                    const allFilled = answers.every((a) => a !== null);
+                    console.log(`[Submit] Answers: ${answers.map(a => a ?? 'null').join(', ')}, All filled: ${allFilled}`);
+                    if (allFilled) {
                       setGameState("grading");
                     }
                   }}
