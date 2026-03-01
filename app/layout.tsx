@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import ServiceWorkerRegister from "@/components/ServiceWorkerRegister";
+import { LanguageProvider } from "@/components/LanguageProvider";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://plizio.com"),
@@ -92,10 +93,15 @@ export default function RootLayout({
           }}
         />
         <link rel="apple-touch-icon" href="/icon-192.png" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&display=swap" rel="stylesheet" />
         <meta name="mobile-web-app-capable" content="yes" />
       </head>
       <body className="min-h-screen bg-bg antialiased">
-        {children}
+        <LanguageProvider>
+          {children}
+        </LanguageProvider>
         <ServiceWorkerRegister />
       </body>
     </html>

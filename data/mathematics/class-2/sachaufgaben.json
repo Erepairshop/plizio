@@ -93,6 +93,186 @@
       "options": [48, 36, 30, 42],
       "correct": 0,
       "explanation": "Jede Zahl wird verdoppelt: 3, 6, 12, 24, 48"
+    },
+    {
+      "id": "2-sach-011",
+      "question": "Auf dem Markt hat Mama 45 Euro. Sie gibt 18 Euro aus. Wie viel Geld hat sie noch?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [27, 26, 28, 25],
+      "correct": 0,
+      "explanation": "45 - 18 = 27 Euro"
+    },
+    {
+      "id": "2-sach-012",
+      "question": "In einem Karton sind 36 Orangen. In einem anderen sind 28 Orangen. Wie viele sind es insgesamt?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [64, 63, 65, 62],
+      "correct": 0,
+      "explanation": "36 + 28 = 64 Orangen"
+    },
+    {
+      "id": "2-sach-013",
+      "question": "Ein Zug hat 7 Wagons mit je 10 Sitzen. Wie viele Sitze gibt es insgesamt?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [70, 60, 80, 50],
+      "correct": 0,
+      "explanation": "7 × 10 = 70 Sitze"
+    },
+    {
+      "id": "2-sach-014",
+      "question": "Lukas hat 52 Karten. Er gibt 24 ab. Wie viele hat er noch?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [28, 27, 29, 26],
+      "correct": 0,
+      "explanation": "52 - 24 = 28 Karten"
+    },
+    {
+      "id": "2-sach-015",
+      "question": "In einer Obstschüssel sind 18 Äpfel und 13 Birnen. 7 Äpfel werden gegessen. Wie viele Früchte sind noch da?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [24, 23, 25, 22],
+      "correct": 0,
+      "explanation": "18 + 13 = 31, dann 31 - 7 = 24 Früchte"
+    },
+    {
+      "id": "2-sach-016",
+      "question": "Welche Zahl fehlt? 15, 20, 25, ___, 35",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [30, 28, 32, 27],
+      "correct": 0,
+      "explanation": "Die Reihe zählt plus 5: 15, 20, 25, 30, 35"
+    },
+    {
+      "id": "2-sach-017",
+      "question": "Welche Zahl fehlt? 50, 45, 40, ___, 30",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [35, 33, 37, 32],
+      "correct": 0,
+      "explanation": "Die Reihe zählt minus 5: 50, 45, 40, 35, 30"
+    },
+    {
+      "id": "2-sach-018",
+      "question": "Welche Zahl fehlt? 4, 8, 12, ___, 20",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [16, 14, 18, 15],
+      "correct": 0,
+      "explanation": "Die Reihe zählt plus 4: 4, 8, 12, 16, 20"
+    },
+    {
+      "id": "2-sach-019",
+      "question": "Anna spart jede Woche 5 Euro. Wie viel hat sie nach 6 Wochen gespart?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [30, 25, 35, 20],
+      "correct": 0,
+      "explanation": "6 × 5 = 30 Euro"
+    },
+    {
+      "id": "2-sach-020",
+      "question": "Im Supermarkt kauft Mama 3 Packungen Joghurt zu je 2 Euro. Wie viel zahlt sie?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [6, 5, 7, 8],
+      "correct": 0,
+      "explanation": "3 × 2 = 6 Euro"
+    },
+    {
+      "id": "2-sach-021",
+      "question": "Welche Zahl fehlt? 1, 2, 4, 8, ___",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [16, 12, 10, 14],
+      "correct": 0,
+      "explanation": "Jede Zahl wird verdoppelt: 1, 2, 4, 8, 16"
+    },
+    {
+      "id": "2-sach-022",
+      "question": "Felix hat 67 Aufkleber. Er kauft 18 neue. Wie viele hat er jetzt?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [85, 84, 86, 83],
+      "correct": 0,
+      "explanation": "67 + 18 = 85 Aufkleber"
+    },
+    {
+      "id": "2-sach-023",
+      "question": "In einem Aquarium sind 45 Fische. 12 Fische werden verkauft. Wie viele bleiben?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [33, 32, 34, 31],
+      "correct": 0,
+      "explanation": "45 - 12 = 33 Fische"
+    },
+    {
+      "id": "2-sach-024",
+      "question": "5 Kinder teilen sich 30 Bonbons gleichmäßig. Wie viele bekommt jedes Kind?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [6, 5, 7, 4],
+      "correct": 0,
+      "explanation": "30 ÷ 5 = 6 Bonbons pro Kind"
+    },
+    {
+      "id": "2-sach-025",
+      "question": "In der Bibliothek gibt es 38 Kinderbücher und 24 Sachbücher. Wie viele Bücher sind es zusammen?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [62, 61, 63, 60],
+      "correct": 0,
+      "explanation": "38 + 24 = 62 Bücher"
+    },
+    {
+      "id": "2-sach-026",
+      "question": "Welche Zahl fehlt? 100, 90, 80, ___, 60",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [70, 65, 75, 68],
+      "correct": 0,
+      "explanation": "Die Reihe zählt minus 10: 100, 90, 80, 70, 60"
+    },
+    {
+      "id": "2-sach-027",
+      "question": "Ein Bauer hat 56 Hühner. 19 Hühner laufen weg. Wie viele hat er noch?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [37, 36, 38, 35],
+      "correct": 0,
+      "explanation": "56 - 19 = 37 Hühner"
+    },
+    {
+      "id": "2-sach-028",
+      "question": "Jede Reihe hat 2 Schüler. Es gibt 9 Reihen. Wie viele Schüler sind es insgesamt?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [18, 16, 20, 11],
+      "correct": 0,
+      "explanation": "9 × 2 = 18 Schüler"
+    },
+    {
+      "id": "2-sach-029",
+      "question": "Sam hat 44 Euro. Er gibt 27 aus. Dann bekommt er 15 Euro geschenkt. Wie viel hat er?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [32, 30, 34, 28],
+      "correct": 0,
+      "explanation": "44 - 27 = 17, dann 17 + 15 = 32 Euro"
+    },
+    {
+      "id": "2-sach-030",
+      "question": "Welche Zahl fehlt? 3, 6, 9, 12, ___",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [15, 14, 16, 13],
+      "correct": 0,
+      "explanation": "Die Reihe zählt plus 3: 3, 6, 9, 12, 15"
     }
   ]
 }

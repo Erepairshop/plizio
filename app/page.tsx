@@ -6,6 +6,7 @@ import { motion } from "framer-motion";
 import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Layers, Star, User, ChevronDown, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import Logo from "@/components/Logo";
+import LanguageSwitcher from "@/components/LanguageSwitcher";
 import GameCard from "@/components/GameCard";
 import { getCards } from "@/lib/cards";
 import { getSpecialCardCount, markAsReferred, isReferred, claimReferralReward } from "@/lib/specialCards";
@@ -200,6 +201,9 @@ export default function Home() {
     <main className="min-h-screen flex flex-col items-center justify-center px-4 py-8 gap-10">
       {/* Logo */}
       <Logo />
+
+      {/* Language switcher */}
+      <LanguageSwitcher />
 
       {/* Username greeting */}
       {username && (

@@ -183,6 +183,96 @@
       "options": [240, 160, 320, 200],
       "correct": 0,
       "explanation": "80 × 3 = 240 Kilometer"
+    },
+    {
+      "id": "4-messen-021",
+      "question": "Wie viele Millimeter sind 3 Meter?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [3000, 300, 30000, 30],
+      "correct": 0,
+      "explanation": "3 m = 300 cm = 3000 mm"
+    },
+    {
+      "id": "4-messen-022",
+      "question": "Eine Tonne hat wie viele Kilogramm?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [1000, 100, 10000, 500],
+      "correct": 0,
+      "explanation": "1 Tonne = 1000 Kilogramm"
+    },
+    {
+      "id": "4-messen-023",
+      "question": "Ein Schwimmbecken fasst 2500 Liter. Wie viele Milliliter sind das?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [2500000, 250000, 25000, 2500],
+      "correct": 0,
+      "explanation": "2500 Liter × 1000 = 2.500.000 ml"
+    },
+    {
+      "id": "4-messen-024",
+      "question": "Max wiegt 42 kg. Er kauft ein 5 kg schweres Gepäckstück. Was ist das Gesamtgewicht?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [47, 45, 50, 37],
+      "correct": 0,
+      "explanation": "42 + 5 = 47 kg"
+    },
+    {
+      "id": "4-messen-025",
+      "question": "Ein Seil ist 7,5 m lang. Wie viele Zentimeter sind das?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [750, 75, 7500, 7],
+      "correct": 0,
+      "explanation": "7,5 m × 100 = 750 cm"
+    },
+    {
+      "id": "4-messen-026",
+      "question": "Wie viele Sekunden hat eine Stunde?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [3600, 360, 600, 1800],
+      "correct": 0,
+      "explanation": "1 Stunde = 60 Minuten = 60 × 60 = 3600 Sekunden"
+    },
+    {
+      "id": "4-messen-027",
+      "question": "Ein Paket wiegt 2 kg 750 g. Wie viel Gramm sind das?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [2750, 2075, 2705, 27500],
+      "correct": 0,
+      "explanation": "2 kg = 2000 g, plus 750 g = 2750 g"
+    },
+    {
+      "id": "4-messen-028",
+      "question": "Anna läuft täglich 3 km. Wie viele Meter läuft sie in einer Woche?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [21000, 2100, 210, 7000],
+      "correct": 0,
+      "explanation": "7 Tage × 3 km × 1000 m = 21000 m"
+    },
+    {
+      "id": "4-messen-029",
+      "question": "Ein Raum ist 5 m lang, 4 m breit und 3 m hoch. Wie groß ist der Fußboden?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [20, 60, 12, 15],
+      "correct": 0,
+      "explanation": "Fußbodenfläche = 5 × 4 = 20 m²"
+    },
+    {
+      "id": "4-messen-030",
+      "question": "Eine Strecke von 15 km wird mit dem Rad in 1 Stunde gefahren. Wie schnell fährt man in km/h?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [15, 30, 10, 20],
+      "correct": 0,
+      "explanation": "15 km in 1 Stunde = 15 km/h"
     }
   ]
 }

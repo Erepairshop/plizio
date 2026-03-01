@@ -38,7 +38,7 @@ interface MathQuestionDisplayProps {
   showResult?: boolean;
   isCorrect?: boolean;
   useTextInput?: boolean;
-  onTextAnswer?: (answer: string) => void;
+  onTextAnswer?: (answer: string, noScroll?: boolean) => void;
   /** Test ID for draft state persistence */
   testId?: string;
   /** Question ID for draft state persistence */
@@ -238,6 +238,11 @@ export default function MathQuestionDisplay({
                 setTextAnswer('');
               }
             }}
+            onBlur={() => {
+              if (textAnswer && onTextAnswer) {
+                onTextAnswer(textAnswer, true); // noScroll=true: save without scrolling
+              }
+            }}
             placeholder="Antwort eingeben"
             className="w-full px-3 py-2 bg-transparent border-b-2 border-gray-400 text-gray-800 placeholder-gray-500 focus:border-blue-600 focus:ring-0 outline-none transition-all font-mono text-base"
             style={{
@@ -249,19 +254,58 @@ export default function MathQuestionDisplay({
               fontFamily: 'monospace',
               padding: '8px 4px'
             }}
-            autoFocus
           />
 
-          {/* Result Feedback for text input */}
+          {/* Result Feedback for text input – teacher correction style */}
           {showResult && (
             <motion.div
-              className={`mt-2 p-3 rounded-lg border-2 font-bold text-center text-sm ${
-                isCorrect ? 'bg-green-50 border-green-500 text-green-700' : 'bg-red-50 border-red-500 text-red-700'
-              }`}
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
+              className="mt-3 pl-1"
+              initial={{ opacity: 0, y: 4 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.3 }}
             >
-              {isCorrect ? '✅ Richtig!' : '❌ Falsch - Richtige Antwort: ' + question.correctAnswer}
+              {isCorrect ? (
+                <span style={{
+                  fontFamily: "'Caveat', cursive",
+                  fontSize: 24,
+                  color: '#16a34a',
+                  fontWeight: 700,
+                }}>
+                  ✓ Richtig!
+                </span>
+              ) : (
+                <div style={{ display: 'flex', alignItems: 'center', gap: 10, flexWrap: 'wrap' }}>
+                  {/* User's wrong answer – struck through in red */}
+                  <span style={{
+                    fontFamily: 'monospace',
+                    fontSize: 18,
+                    color: '#dc2626',
+                    textDecoration: 'line-through',
+                    textDecorationColor: '#dc2626',
+                    textDecorationThickness: '2px',
+                    opacity: 0.85,
+                  }}>
+                    {selectedAnswer ?? '?'}
+                  </span>
+                  {/* Arrow */}
+                  <span style={{ color: '#dc2626', fontSize: 18, fontWeight: 700 }}>→</span>
+                  {/* Correct answer in handwriting */}
+                  <motion.span
+                    initial={{ opacity: 0, scale: 0.8 }}
+                    animate={{ opacity: 1, scale: 1 }}
+                    transition={{ delay: 0.25, type: 'spring', stiffness: 300 }}
+                    style={{
+                      fontFamily: "'Caveat', cursive",
+                      fontSize: 26,
+                      color: '#dc2626',
+                      fontWeight: 700,
+                      lineHeight: 1,
+                    }}
+                  >
+                    {question.correctAnswer}
+                  </motion.span>
+                </div>
+              )}
             </motion.div>
           )}
         </div>
