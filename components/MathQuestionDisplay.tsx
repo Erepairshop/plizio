@@ -229,18 +229,33 @@ export default function MathQuestionDisplay({
       {useTextInput ? (
         <div className="mt-4 space-y-3">
           <input
-            type="number"
+            type="text"
+            inputMode="numeric"
+            pattern="-?[0-9]*"
+            autoComplete="off"
             value={textAnswer}
-            onChange={(e) => setTextAnswer(e.target.value)}
+            onChange={(e) => {
+              const val = e.target.value;
+              // Allow empty, minus sign, or digits
+              if (val === '' || val === '-' || /^-?\d+$/.test(val)) {
+                setTextAnswer(val);
+              }
+            }}
             onKeyDown={(e) => {
               if (e.key === 'Enter' && textAnswer && onTextAnswer) {
-                onTextAnswer(textAnswer);
-                setTextAnswer('');
+                const num = parseInt(textAnswer, 10);
+                if (!isNaN(num)) {
+                  onTextAnswer(String(num));
+                  setTextAnswer('');
+                }
               }
             }}
             onBlur={() => {
-              if (textAnswer && onTextAnswer) {
-                onTextAnswer(textAnswer, true); // noScroll=true: save without scrolling
+              if (textAnswer && textAnswer !== '-' && onTextAnswer) {
+                const num = parseInt(textAnswer, 10);
+                if (!isNaN(num)) {
+                  onTextAnswer(String(num), true); // noScroll=true: save without scrolling
+                }
               }
             }}
             placeholder="Antwort eingeben"

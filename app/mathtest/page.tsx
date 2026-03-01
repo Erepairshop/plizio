@@ -924,18 +924,19 @@ export default function MathTestPage() {
   };
 
   const handleSubmit = async () => {
+    // Always show grading animation (pencil) first
+    setGradingIndex(0);
+    setGameState("grading");
+
+    // Submit to Supabase in background if applicable
     if (useSupabase && testSession) {
-      // ─── Server-side grading flow ─────────────────
-      setSubmitting(true);
       try {
-        // Build answer payload
         const submitAnswers: SubmitAnswer[] = answers.map((a, i) => ({
           question_index: i,
           answer: a ?? 0,
           time_spent_sec: answerTimesRef.current[i] || Math.ceil(elapsedTime / questions.length),
         }));
 
-        // Prepare Klassenarbeit metadata if applicable
         let klassenarbeitMeta: KlassenarbeitMetadata | undefined;
         if (testType === "klassenarbeit" && klassenarbeitResult) {
           klassenarbeitMeta = {
@@ -953,25 +954,9 @@ export default function MathTestPage() {
 
         const result = await submitSupabaseTest(testSession.testId, submitAnswers, klassenarbeitMeta);
         setServerResult(result);
-
-        // Convert server result to local GradeResult format for UI compatibility
-        const gradeRes = calculateGradeResult(result.score, result.max_score);
-        setGradeResult(gradeRes);
-        setSubmitting(false);
-
-        // Skip grading animation, go straight to result
-        setGameState("result");
       } catch (err) {
         console.error("[Supabase] submitTest failed:", err);
-        // Fallback: grade locally if server fails
-        setSubmitting(false);
-        setGradingIndex(0);
-        setGameState("grading");
       }
-    } else {
-      // ─── Local grading flow (guest mode) ──────────
-      setGradingIndex(0);
-      setGameState("grading");
     }
   };
 
@@ -1323,8 +1308,8 @@ export default function MathTestPage() {
                       isCorrect={isCorrect}
                       useTextInput={!question.hasStringOptions}
                       onTextAnswer={(textAnswer, noScroll) => {
-                        const numAnswer = parseInt(textAnswer);
-                        if (!isNaN(numAnswer)) {
+                        const numAnswer = Number(textAnswer);
+                        if (textAnswer !== '' && !isNaN(numAnswer)) {
                           handleAnswer(qi, numAnswer, !noScroll);
                         }
                       }}
