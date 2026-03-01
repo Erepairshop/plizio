@@ -1,0 +1,98 @@
+{
+  "class": 1,
+  "theme": "Sachaufgaben",
+  "language": "de",
+  "description": "Einfache Textaufgaben und Rechengeschichten für die 1. Klasse",
+  "tasks": [
+    {
+      "id": "1-sach-001",
+      "question": "Anna hat 3 Äpfel. Sie bekommt 4 Äpfel dazu. Wie viele Äpfel hat sie jetzt?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [7, 6, 8, 5],
+      "correct": 0,
+      "explanation": "3 + 4 = 7 Äpfel"
+    },
+    {
+      "id": "1-sach-002",
+      "question": "Tom hat 10 Bonbons. Er gibt 3 an seinen Freund. Wie viele Bonbons hat Tom noch?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [7, 8, 6, 5],
+      "correct": 0,
+      "explanation": "10 - 3 = 7 Bonbons"
+    },
+    {
+      "id": "1-sach-003",
+      "question": "Im Garten sind 5 rote und 6 gelbe Blumen. Wie viele Blumen sind es zusammen?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [11, 10, 12, 9],
+      "correct": 0,
+      "explanation": "5 + 6 = 11 Blumen"
+    },
+    {
+      "id": "1-sach-004",
+      "question": "Lena hat 12 Buntstifte. Sie verliert 4. Wie viele Buntstifte hat sie noch?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [8, 7, 9, 6],
+      "correct": 0,
+      "explanation": "12 - 4 = 8 Buntstifte"
+    },
+    {
+      "id": "1-sach-005",
+      "question": "Auf dem Spielplatz sind 9 Kinder. 5 Kinder gehen nach Hause. Dann kommen 3 neue Kinder. Wie viele Kinder sind jetzt da?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [7, 6, 8, 5],
+      "correct": 0,
+      "explanation": "9 - 5 = 4, dann 4 + 3 = 7 Kinder"
+    },
+    {
+      "id": "1-sach-006",
+      "question": "Max hat 6 Murmeln. Lisa hat 8 Murmeln. Wie viele Murmeln haben sie zusammen?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [14, 13, 15, 12],
+      "correct": 0,
+      "explanation": "6 + 8 = 14 Murmeln"
+    },
+    {
+      "id": "1-sach-007",
+      "question": "In einem Bus sitzen 15 Personen. An der Haltestelle steigen 6 Personen aus. Wie viele Personen sind noch im Bus?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [9, 8, 10, 7],
+      "correct": 0,
+      "explanation": "15 - 6 = 9 Personen"
+    },
+    {
+      "id": "1-sach-008",
+      "question": "Papa kauft 7 Brötchen am Morgen und 5 Brötchen am Abend. Wie viele Brötchen hat er insgesamt gekauft?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [12, 11, 13, 10],
+      "correct": 0,
+      "explanation": "7 + 5 = 12 Brötchen"
+    },
+    {
+      "id": "1-sach-009",
+      "question": "Marie hat 18 Sticker. Sie verschenkt 9 Sticker. Wie viele Sticker hat sie noch?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [9, 8, 10, 7],
+      "correct": 0,
+      "explanation": "18 - 9 = 9 Sticker"
+    },
+    {
+      "id": "1-sach-010",
+      "question": "Im Klassenzimmer sind 8 Mädchen und 7 Jungen. 3 Kinder gehen in die Pause. Wie viele Kinder sind noch im Klassenzimmer?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [12, 11, 13, 10],
+      "correct": 0,
+      "explanation": "8 + 7 = 15 Kinder insgesamt, 15 - 3 = 12 Kinder bleiben"
+    }
+  ]
+}

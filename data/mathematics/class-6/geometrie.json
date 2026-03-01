@@ -1,0 +1,98 @@
+{
+  "class": 6,
+  "theme": "Geometrie",
+  "language": "de",
+  "description": "Flächen berechnen und Geschwindigkeit/Weg-Aufgaben in der 6. Klasse",
+  "tasks": [
+    {
+      "id": "6-geo-001",
+      "question": "Wie groß ist die Fläche eines Dreiecks mit der Grundseite 8 cm und der Höhe 6 cm?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["24 cm²", "48 cm²", "14 cm²", "32 cm²"],
+      "correct": 0,
+      "explanation": "Fläche = (Grundseite × Höhe) ÷ 2 = (8 × 6) ÷ 2 = 24 cm²"
+    },
+    {
+      "id": "6-geo-002",
+      "question": "Wie groß ist die Fläche eines Dreiecks mit der Grundseite 10 cm und der Höhe 4 cm?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["20 cm²", "40 cm²", "14 cm²", "28 cm²"],
+      "correct": 0,
+      "explanation": "Fläche = (10 × 4) ÷ 2 = 40 ÷ 2 = 20 cm²"
+    },
+    {
+      "id": "6-geo-003",
+      "question": "Ein Parallelogramm hat eine Grundseite von 12 cm und eine Höhe von 5 cm. Wie groß ist die Fläche?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["60 cm²", "30 cm²", "17 cm²", "120 cm²"],
+      "correct": 0,
+      "explanation": "Fläche eines Parallelogramms = Grundseite × Höhe = 12 × 5 = 60 cm²"
+    },
+    {
+      "id": "6-geo-004",
+      "question": "Ein Trapez hat die parallelen Seiten a = 8 cm und c = 4 cm, die Höhe ist 6 cm. Wie groß ist die Fläche?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["36 cm²", "48 cm²", "24 cm²", "72 cm²"],
+      "correct": 0,
+      "explanation": "Fläche = (a + c) ÷ 2 × h = (8 + 4) ÷ 2 × 6 = 6 × 6 = 36 cm²"
+    },
+    {
+      "id": "6-geo-005",
+      "question": "Ein zusammengesetztes Grundstück besteht aus einem Rechteck (10 m × 8 m) und einem Dreieck (Grundseite 10 m, Höhe 4 m). Wie groß ist die Gesamtfläche?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["100 m²", "120 m²", "80 m²", "90 m²"],
+      "correct": 0,
+      "explanation": "Rechteck: 10 × 8 = 80 m². Dreieck: (10 × 4) ÷ 2 = 20 m². Gesamt: 80 + 20 = 100 m²"
+    },
+    {
+      "id": "6-geo-006",
+      "question": "Ein Auto fährt mit 60 km/h. Wie weit kommt es in 3 Stunden?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["180 km", "120 km", "200 km", "160 km"],
+      "correct": 0,
+      "explanation": "Weg = Geschwindigkeit × Zeit = 60 × 3 = 180 km"
+    },
+    {
+      "id": "6-geo-007",
+      "question": "Ein Radfahrer legt 45 km in 3 Stunden zurück. Wie schnell ist er gefahren?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["15 km/h", "12 km/h", "20 km/h", "18 km/h"],
+      "correct": 0,
+      "explanation": "Geschwindigkeit = Weg ÷ Zeit = 45 ÷ 3 = 15 km/h"
+    },
+    {
+      "id": "6-geo-008",
+      "question": "Ein Zug fährt mit 120 km/h. Wie lange braucht er für 360 km?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["3 Stunden", "2 Stunden", "4 Stunden", "2,5 Stunden"],
+      "correct": 0,
+      "explanation": "Zeit = Weg ÷ Geschwindigkeit = 360 ÷ 120 = 3 Stunden"
+    },
+    {
+      "id": "6-geo-009",
+      "question": "Ein Läufer rennt mit 12 km/h. Wie weit kommt er in 45 Minuten?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["9 km", "6 km", "12 km", "8 km"],
+      "correct": 0,
+      "explanation": "45 Minuten = 3/4 Stunde. Weg = 12 × 3/4 = 9 km"
+    },
+    {
+      "id": "6-geo-010",
+      "question": "Zwei Autos fahren aufeinander zu. Auto A fährt mit 80 km/h, Auto B mit 70 km/h. Sie sind 450 km voneinander entfernt. Nach wie vielen Stunden treffen sie sich?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["3 Stunden", "4 Stunden", "2,5 Stunden", "5 Stunden"],
+      "correct": 0,
+      "explanation": "Zusammen nähern sie sich mit 80 + 70 = 150 km/h. Zeit = 450 ÷ 150 = 3 Stunden"
+    }
+  ]
+}

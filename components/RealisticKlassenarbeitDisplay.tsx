@@ -1,20 +1,22 @@
 "use client";
 
 import { useState } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { ChevronDown } from "lucide-react";
+import { motion } from "framer-motion";
+import { ChevronDown, Pencil, ChevronUp } from "lucide-react";
 import { type GroupedTask, type SubQuestion } from "@/lib/mathCurriculum";
 import ShortInputLayout from "./layouts/ShortInputLayout";
 import MultiInputLayout from "./layouts/MultiInputLayout";
 import SchriftlichLayout from "./layouts/SchriftlichLayout";
 import TableFillLayout from "./layouts/TableFillLayout";
+import DraftPanel from "./draft/DraftPanel";
 
 interface RealisticKlassenarbeitDisplayProps {
   tasks: GroupedTask[];
-  answers: Record<string, string | number>; // { "task_0_a": answer, "task_0_b": answer, ... }
+  answers: Record<string, string | number>;
   onAnswerChange: (taskIndex: number, subQuestionId: string, answer: string | number, fieldId?: string) => void;
   isGrading: boolean;
   gradeIndex?: number;
+  testId?: string;
 }
 
 export default function RealisticKlassenarbeitDisplay({
@@ -23,8 +25,33 @@ export default function RealisticKlassenarbeitDisplay({
   onAnswerChange,
   isGrading,
   gradeIndex = -1,
+  testId = "klassenarbeit",
 }: RealisticKlassenarbeitDisplayProps) {
   const [expandedTask, setExpandedTask] = useState<number | null>(null);
+  // Track which tasks have been expanded at least once (for lazy mounting)
+  const [mountedTasks, setMountedTasks] = useState<Set<number>>(new Set());
+  // Track open drafts per sub-question
+  const [openDrafts, setOpenDrafts] = useState<Set<string>>(new Set());
+
+  const toggleDraft = (key: string) => {
+    setOpenDrafts((prev) => {
+      const next = new Set(prev);
+      if (next.has(key)) {
+        next.delete(key);
+      } else {
+        next.add(key);
+      }
+      return next;
+    });
+  };
+
+  const handleExpandTask = (taskIndex: number) => {
+    const isExpanded = expandedTask === taskIndex;
+    setExpandedTask(isExpanded ? null : taskIndex);
+    if (!isExpanded) {
+      setMountedTasks((prev) => new Set(prev).add(taskIndex));
+    }
+  };
 
   const renderSubQuestion = (
     taskIndex: number,
@@ -33,14 +60,14 @@ export default function RealisticKlassenarbeitDisplay({
   ) => {
     const answerKey = `task_${taskIndex}_${subQuestion.id}`;
     const userAnswer = answers[answerKey];
+    const draftKey = `task_${taskIndex}_${subQuestion.id}`;
+    const isDraftOpen = openDrafts.has(draftKey);
 
-    // Helper to build correct answers for multi-input
     const getMultiInputCorrectAnswers = () => {
       if (typeof subQuestion.correctAnswer !== "object") return {};
       return subQuestion.correctAnswer as Record<string, string | number>;
     };
 
-    // Helper to get multi-input field values
     const getMultiInputValues = () => {
       const vals: Record<string, string | number> = {};
       subQuestion.fields?.forEach((field) => {
@@ -50,7 +77,6 @@ export default function RealisticKlassenarbeitDisplay({
       return vals;
     };
 
-    // Helper to get table values
     const getTableValues = () => {
       const vals: Record<string, string | number> = {};
       subQuestion.rows?.forEach((row, rowIdx) => {
@@ -62,7 +88,31 @@ export default function RealisticKlassenarbeitDisplay({
       return vals;
     };
 
-    // Render based on type
+    // Draft button for each sub-question (only during playing, not grading)
+    const draftButton = !isGrading && (
+      <button
+        onClick={() => toggleDraft(draftKey)}
+        className={`p-1 rounded transition-colors ${
+          isDraftOpen
+            ? "bg-amber-100 text-amber-700"
+            : "bg-gray-100 text-gray-400 hover:bg-amber-50 hover:text-amber-600"
+        }`}
+        title={isDraftOpen ? "Piszkozat elrejtése" : "Piszkozat"}
+      >
+        {isDraftOpen ? <ChevronUp size={14} /> : <Pencil size={14} />}
+      </button>
+    );
+
+    // Inline draft panel (hidden, not unmounted, to preserve state)
+    const draftPanel = (
+      <div className={isDraftOpen ? "mt-2" : "hidden"}>
+        <DraftPanel
+          testId={testId}
+          questionId={`task_${taskIndex}_${subQuestion.id}`}
+        />
+      </div>
+    );
+
     switch (subQuestion.type) {
       case "short_input":
         return (
@@ -72,78 +122,104 @@ export default function RealisticKlassenarbeitDisplay({
             animate={{ opacity: 1 }}
             transition={{ duration: 0.15 }}
           >
-            <ShortInputLayout
-              questionId={subQuestion.id}
-              text={subQuestion.text}
-              points={subQuestion.points}
-              value={userAnswer || ""}
-              onChange={(value) => onAnswerChange(taskIndex, subQuestion.id, value)}
-              correctAnswer={typeof subQuestion.correctAnswer === "object" ? undefined : subQuestion.correctAnswer}
-              isGrading={isGrading && isGraded}
-              disabled={isGrading}
-            />
+            <div className="flex items-start justify-between gap-1">
+              <div className="flex-1">
+                <ShortInputLayout
+                  questionId={subQuestion.id}
+                  text={subQuestion.text}
+                  points={subQuestion.points}
+                  value={userAnswer || ""}
+                  onChange={(value) => onAnswerChange(taskIndex, subQuestion.id, value)}
+                  correctAnswer={typeof subQuestion.correctAnswer === "object" ? undefined : subQuestion.correctAnswer}
+                  isGrading={isGrading && isGraded}
+                  disabled={isGrading}
+                />
+              </div>
+              {draftButton}
+            </div>
+            {draftPanel}
           </motion.div>
         );
 
       case "multi_input":
         return (
-          <MultiInputLayout
-            key={subQuestion.id}
-            questionId={subQuestion.id}
-            text={subQuestion.text}
-            fields={subQuestion.fields}
-            values={getMultiInputValues()}
-            onChange={(fieldId, value) =>
-              onAnswerChange(taskIndex, subQuestion.id, value, fieldId)
-            }
-            correctAnswers={getMultiInputCorrectAnswers()}
-            isGrading={isGrading && isGraded}
-            disabled={isGrading}
-          />
+          <div key={subQuestion.id}>
+            <div className="flex items-start justify-between gap-1">
+              <div className="flex-1">
+                <MultiInputLayout
+                  questionId={subQuestion.id}
+                  text={subQuestion.text}
+                  fields={subQuestion.fields}
+                  values={getMultiInputValues()}
+                  onChange={(fieldId, value) =>
+                    onAnswerChange(taskIndex, subQuestion.id, value, fieldId)
+                  }
+                  correctAnswers={getMultiInputCorrectAnswers()}
+                  isGrading={isGrading && isGraded}
+                  disabled={isGrading}
+                />
+              </div>
+              {draftButton}
+            </div>
+            {draftPanel}
+          </div>
         );
 
       case "table_fill":
         return (
-          <TableFillLayout
-            key={subQuestion.id}
-            questionId={subQuestion.id}
-            text={subQuestion.text}
-            rows={subQuestion.rows}
-            values={getTableValues()}
-            onChange={(key, value) =>
-              onAnswerChange(taskIndex, subQuestion.id, value, key)
-            }
-            correctAnswers={
-              typeof subQuestion.correctAnswer === "object"
-                ? (subQuestion.correctAnswer as Record<string, string | number>)
-                : {}
-            }
-            isGrading={isGrading && isGraded}
-            disabled={isGrading}
-          />
+          <div key={subQuestion.id}>
+            <div className="flex items-start justify-between gap-1">
+              <div className="flex-1">
+                <TableFillLayout
+                  questionId={subQuestion.id}
+                  text={subQuestion.text}
+                  rows={subQuestion.rows}
+                  values={getTableValues()}
+                  onChange={(key, value) =>
+                    onAnswerChange(taskIndex, subQuestion.id, value, key)
+                  }
+                  correctAnswers={
+                    typeof subQuestion.correctAnswer === "object"
+                      ? (subQuestion.correctAnswer as Record<string, string | number>)
+                      : {}
+                  }
+                  isGrading={isGrading && isGraded}
+                  disabled={isGrading}
+                />
+              </div>
+              {draftButton}
+            </div>
+            {draftPanel}
+          </div>
         );
 
       case "schriftlich_layout": {
         const correctNum = typeof subQuestion.correctAnswer === "number" ? subQuestion.correctAnswer : undefined;
         return (
-          <SchriftlichLayout
-            key={subQuestion.id}
-            questionId={subQuestion.id}
-            text={subQuestion.text}
-            points={subQuestion.points}
-            operation={(subQuestion.layout?.type as "+" | "-" | "*" | "/" | undefined) || "+"}
-            numbers={[]} // TODO: Extract from text or add to SubQuestion
-            value={userAnswer || ""}
-            onChange={(value) => onAnswerChange(taskIndex, subQuestion.id, value)}
-            correctAnswer={correctNum}
-            isGrading={isGrading && isGraded}
-            disabled={isGrading}
-            workSpaceLines={subQuestion.workSpaceLines}
-          />
+          <div key={subQuestion.id}>
+            <div className="flex items-start justify-between gap-1">
+              <div className="flex-1">
+                <SchriftlichLayout
+                  questionId={subQuestion.id}
+                  text={subQuestion.text}
+                  points={subQuestion.points}
+                  operation={(subQuestion.layout?.type as "+" | "-" | "*" | "/" | undefined) || "+"}
+                  numbers={[]}
+                  value={userAnswer || ""}
+                  onChange={(value) => onAnswerChange(taskIndex, subQuestion.id, value)}
+                  correctAnswer={correctNum}
+                  isGrading={isGrading && isGraded}
+                  disabled={isGrading}
+                  workSpaceLines={subQuestion.workSpaceLines}
+                />
+              </div>
+              {draftButton}
+            </div>
+            {draftPanel}
+          </div>
         );
       }
 
-      // Default: multiple-choice and free-text (original implementation)
       default:
         return (
           <motion.div
@@ -152,14 +228,20 @@ export default function RealisticKlassenarbeitDisplay({
             initial={{ opacity: 0, x: -10 }}
             animate={{ opacity: 1, x: 0 }}
           >
-            {/* Sub-question label and points */}
+            {/* Sub-question label, points, and draft button */}
             <div className="flex justify-between items-start mb-2">
-              <div className="flex items-baseline gap-2">
+              <div className="flex items-baseline gap-2 flex-1">
                 <span className="text-sm font-black text-gray-700">{subQuestion.id})</span>
                 <p className="text-sm text-gray-700 font-medium">{subQuestion.text}</p>
               </div>
-              <span className="text-xs font-bold text-gray-500">({subQuestion.points}P)</span>
+              <div className="flex items-center gap-1">
+                <span className="text-xs font-bold text-gray-500">({subQuestion.points}P)</span>
+                {draftButton}
+              </div>
             </div>
+
+            {/* Draft panel */}
+            {draftPanel}
 
             {/* Input field based on type */}
             <div className="ml-6 mt-3">
@@ -199,7 +281,6 @@ export default function RealisticKlassenarbeitDisplay({
                   })}
                 </div>
               ) : (
-                // Free text input
                 <input
                   type={subQuestion.type === "calculation" ? "number" : "text"}
                   value={userAnswer || ""}
@@ -245,9 +326,7 @@ export default function RealisticKlassenarbeitDisplay({
     <div className="space-y-2">
       {tasks.map((task, taskIndex) => {
         const isExpanded = expandedTask === taskIndex;
-        const taskAnswered = Object.keys(answers).some(
-          (key) => key.startsWith(`task_${taskIndex}_`),
-        );
+        const isMounted = mountedTasks.has(taskIndex);
 
         return (
           <motion.div
@@ -257,9 +336,9 @@ export default function RealisticKlassenarbeitDisplay({
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.2 }}
           >
-            {/* Task Header - Kompaktabb */}
+            {/* Task Header */}
             <button
-              onClick={() => setExpandedTask(isExpanded ? null : taskIndex)}
+              onClick={() => handleExpandTask(taskIndex)}
               className="w-full px-4 py-2.5 flex justify-between items-center bg-gray-50 hover:bg-gray-100 transition-colors"
               disabled={isGrading}
             >
@@ -279,43 +358,35 @@ export default function RealisticKlassenarbeitDisplay({
               </motion.div>
             </button>
 
-            {/* Task Content */}
-            <AnimatePresence>
-              {isExpanded && (
-                <motion.div
-                  initial={{ opacity: 0, height: 0 }}
-                  animate={{ opacity: 1, height: "auto" }}
-                  exit={{ opacity: 0, height: 0 }}
-                  transition={{ duration: 0.2 }}
-                  className="px-4 py-3 space-y-3 bg-white border-t border-gray-200"
-                >
-                  {/* Task description */}
-                  {task.description && (
-                    <p className="text-xs text-gray-700 font-medium">{task.description}</p>
-                  )}
+            {/* Task Content - rendered once, then hidden/shown via CSS to preserve draft state */}
+            {isMounted && (
+              <div
+                className={`px-4 py-3 space-y-3 bg-white border-t border-gray-200 ${
+                  isExpanded ? "" : "hidden"
+                }`}
+              >
+                {task.description && (
+                  <p className="text-xs text-gray-700 font-medium">{task.description}</p>
+                )}
 
-                  {/* Task image */}
-                  {task.imageUrl && (
-                    <div className="rounded-lg overflow-hidden">
-                      <img
-                        src={task.imageUrl}
-                        alt={task.title}
-                        className="w-full max-h-64 object-cover"
-                      />
-                    </div>
-                  )}
-
-                  {/* Sub-questions */}
-                  <div className="space-y-3">
-                    {task.subQuestions.map((subQuestion) => {
-                      const answerKey = `task_${taskIndex}_${subQuestion.id}`;
-                      const isGraded = isGrading && gradeIndex >= taskIndex;
-                      return renderSubQuestion(taskIndex, subQuestion, isGraded);
-                    })}
+                {task.imageUrl && (
+                  <div className="rounded-lg overflow-hidden">
+                    <img
+                      src={task.imageUrl}
+                      alt={task.title}
+                      className="w-full max-h-64 object-cover"
+                    />
                   </div>
-                </motion.div>
-              )}
-            </AnimatePresence>
+                )}
+
+                <div className="space-y-3">
+                  {task.subQuestions.map((subQuestion) => {
+                    const isGraded = isGrading && gradeIndex >= taskIndex;
+                    return renderSubQuestion(taskIndex, subQuestion, isGraded);
+                  })}
+                </div>
+              </div>
+            )}
           </motion.div>
         );
       })}

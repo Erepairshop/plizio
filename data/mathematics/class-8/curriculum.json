@@ -1,0 +1,106 @@
+{
+  "class": 8,
+  "language": "de",
+  "themes": [
+    {
+      "id": "wurzeln-terme",
+      "name": "Wurzeln und Terme",
+      "color": "#3b82f6",
+      "icon": "√",
+      "description": "Quadratwurzeln berechnen und komplexe Terme vereinfachen",
+      "subtopics": [
+        {
+          "id": "quadratwurzeln",
+          "name": "Quadratwurzeln",
+          "color": "#3b82f6",
+          "icon": "√",
+          "taskFile": "wurzeln-terme.json",
+          "taskIds": ["8-wurz-001", "8-wurz-002", "8-wurz-003", "8-wurz-004", "8-wurz-005"]
+        },
+        {
+          "id": "komplexe-terme",
+          "name": "Komplexe Terme",
+          "color": "#2563eb",
+          "icon": "🔢",
+          "taskFile": "wurzeln-terme.json",
+          "taskIds": ["8-wurz-006", "8-wurz-007", "8-wurz-008", "8-wurz-009", "8-wurz-010"]
+        }
+      ]
+    },
+    {
+      "id": "gleichungen",
+      "name": "Gleichungen",
+      "color": "#8b5cf6",
+      "icon": "⚖️",
+      "description": "Gleichungen mit Variablen auf beiden Seiten lösen",
+      "subtopics": [
+        {
+          "id": "zwei-seiten",
+          "name": "Gleichungen mit zwei Seiten",
+          "color": "#8b5cf6",
+          "icon": "⚖️",
+          "taskFile": "gleichungen.json",
+          "taskIds": ["8-gleich-001", "8-gleich-002", "8-gleich-003", "8-gleich-004", "8-gleich-005"]
+        },
+        {
+          "id": "gleichungen-loesen",
+          "name": "Gleichungen lösen",
+          "color": "#7c3aed",
+          "icon": "📝",
+          "taskFile": "gleichungen.json",
+          "taskIds": ["8-gleich-006", "8-gleich-007", "8-gleich-008", "8-gleich-009", "8-gleich-010"]
+        }
+      ]
+    },
+    {
+      "id": "funktionen",
+      "name": "Funktionen",
+      "color": "#ec4899",
+      "icon": "📈",
+      "description": "Lineare Funktionen verstehen und Funktionswerte berechnen",
+      "subtopics": [
+        {
+          "id": "lineare-funktionen",
+          "name": "Lineare Funktionen",
+          "color": "#ec4899",
+          "icon": "📈",
+          "taskFile": "funktionen.json",
+          "taskIds": ["8-funk-001", "8-funk-002", "8-funk-003", "8-funk-004", "8-funk-005"]
+        },
+        {
+          "id": "funktionswerte",
+          "name": "Funktionswerte",
+          "color": "#db2777",
+          "icon": "🔢",
+          "taskFile": "funktionen.json",
+          "taskIds": ["8-funk-006", "8-funk-007", "8-funk-008", "8-funk-009", "8-funk-010"]
+        }
+      ]
+    },
+    {
+      "id": "wahrscheinlichkeit",
+      "name": "Wahrscheinlichkeit",
+      "color": "#10b981",
+      "icon": "🎲",
+      "description": "Grundlagen der Wahrscheinlichkeitsrechnung und Anwendungen",
+      "subtopics": [
+        {
+          "id": "grundlagen",
+          "name": "Grundlagen",
+          "color": "#10b981",
+          "icon": "🎲",
+          "taskFile": "wahrscheinlichkeit.json",
+          "taskIds": ["8-wahr-001", "8-wahr-002", "8-wahr-003", "8-wahr-004", "8-wahr-005"]
+        },
+        {
+          "id": "anwendungen",
+          "name": "Anwendungen",
+          "color": "#059669",
+          "icon": "📊",
+          "taskFile": "wahrscheinlichkeit.json",
+          "taskIds": ["8-wahr-006", "8-wahr-007", "8-wahr-008", "8-wahr-009", "8-wahr-010"]
+        }
+      ]
+    }
+  ]
+}

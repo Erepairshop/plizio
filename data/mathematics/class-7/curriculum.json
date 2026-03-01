@@ -1,0 +1,106 @@
+{
+  "class": 7,
+  "language": "de",
+  "themes": [
+    {
+      "id": "potenzen-algebra",
+      "name": "Potenzen und Algebra",
+      "color": "#3b82f6",
+      "icon": "🔢",
+      "description": "Potenzen berechnen und algebraische Ausdrücke vereinfachen",
+      "subtopics": [
+        {
+          "id": "potenzen",
+          "name": "Potenzen",
+          "color": "#3b82f6",
+          "icon": "²️",
+          "taskFile": "potenzen-algebra.json",
+          "taskIds": ["7-pot-001", "7-pot-002", "7-pot-003", "7-pot-004", "7-pot-005"]
+        },
+        {
+          "id": "algebra",
+          "name": "Algebraische Ausdrücke",
+          "color": "#2563eb",
+          "icon": "🔤",
+          "taskFile": "potenzen-algebra.json",
+          "taskIds": ["7-pot-006", "7-pot-007", "7-pot-008", "7-pot-009", "7-pot-010"]
+        }
+      ]
+    },
+    {
+      "id": "gleichungen",
+      "name": "Gleichungen",
+      "color": "#8b5cf6",
+      "icon": "⚖️",
+      "description": "Lineare Gleichungen lösen und aufstellen",
+      "subtopics": [
+        {
+          "id": "lineare-gleichungen",
+          "name": "Lineare Gleichungen",
+          "color": "#8b5cf6",
+          "icon": "⚖️",
+          "taskFile": "gleichungen.json",
+          "taskIds": ["7-gleich-001", "7-gleich-002", "7-gleich-003", "7-gleich-004", "7-gleich-005"]
+        },
+        {
+          "id": "gleichungen-aufstellen",
+          "name": "Gleichungen aufstellen",
+          "color": "#7c3aed",
+          "icon": "📝",
+          "taskFile": "gleichungen.json",
+          "taskIds": ["7-gleich-006", "7-gleich-007", "7-gleich-008", "7-gleich-009", "7-gleich-010"]
+        }
+      ]
+    },
+    {
+      "id": "dreiecke",
+      "name": "Dreiecke",
+      "color": "#ec4899",
+      "icon": "🔺",
+      "description": "Winkel im Dreieck und besondere Dreiecke",
+      "subtopics": [
+        {
+          "id": "winkel",
+          "name": "Winkel im Dreieck",
+          "color": "#ec4899",
+          "icon": "📐",
+          "taskFile": "dreiecke.json",
+          "taskIds": ["7-drei-001", "7-drei-002", "7-drei-003", "7-drei-004", "7-drei-005"]
+        },
+        {
+          "id": "besondere-dreiecke",
+          "name": "Besondere Dreiecke",
+          "color": "#db2777",
+          "icon": "🔺",
+          "taskFile": "dreiecke.json",
+          "taskIds": ["7-drei-006", "7-drei-007", "7-drei-008", "7-drei-009", "7-drei-010"]
+        }
+      ]
+    },
+    {
+      "id": "pythagoras",
+      "name": "Satz des Pythagoras",
+      "color": "#10b981",
+      "icon": "📏",
+      "description": "Hypotenuse und Kathete mit dem Satz des Pythagoras berechnen",
+      "subtopics": [
+        {
+          "id": "hypotenuse",
+          "name": "Hypotenuse berechnen",
+          "color": "#10b981",
+          "icon": "📏",
+          "taskFile": "pythagoras.json",
+          "taskIds": ["7-pyth-001", "7-pyth-002", "7-pyth-003", "7-pyth-004", "7-pyth-005"]
+        },
+        {
+          "id": "kathete",
+          "name": "Kathete berechnen",
+          "color": "#059669",
+          "icon": "📐",
+          "taskFile": "pythagoras.json",
+          "taskIds": ["7-pyth-006", "7-pyth-007", "7-pyth-008", "7-pyth-009", "7-pyth-010"]
+        }
+      ]
+    }
+  ]
+}

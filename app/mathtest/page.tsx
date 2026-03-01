@@ -6,7 +6,7 @@ import { Canvas, useFrame } from "@react-three/fiber";
 import * as THREE from "three";
 import {
   Calculator, ArrowLeft, Check, X as XIcon,
-  RotateCcw, Home, Send, BookOpen, Sparkles, Clock, Pencil,
+  RotateCcw, Home, Send, BookOpen, Sparkles, Clock,
 } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
@@ -38,8 +38,42 @@ import {
   getAvailableThemes,
   type Test as ThemeBasedTest,
 } from "@/lib/mathTestGenerator";
-import HierarchicalThemeSelector from "@/components/HierarchicalThemeSelector";
-import curriculum from "@/data/mathematics/class-4/curriculum.json";
+import HierarchicalThemeSelector, { type Theme as ThemeSelectorTheme } from "@/components/HierarchicalThemeSelector";
+import { fetchCurriculum, type CurriculumData } from "@/lib/curriculum/curriculumApi";
+import curriculum1 from "@/data/mathematics/class-1/curriculum.json";
+import curriculum2 from "@/data/mathematics/class-2/curriculum.json";
+import curriculum3 from "@/data/mathematics/class-3/curriculum.json";
+import curriculum4 from "@/data/mathematics/class-4/curriculum.json";
+import curriculum5 from "@/data/mathematics/class-5/curriculum.json";
+import curriculum6 from "@/data/mathematics/class-6/curriculum.json";
+import curriculum7 from "@/data/mathematics/class-7/curriculum.json";
+import curriculum8 from "@/data/mathematics/class-8/curriculum.json";
+
+const CURRICULA: Record<number, typeof curriculum4> = {
+  1: curriculum1, 2: curriculum2, 3: curriculum3, 4: curriculum4,
+  5: curriculum5, 6: curriculum6, 7: curriculum7, 8: curriculum8,
+};
+
+/**
+ * Convert Supabase CurriculumData themes to the ThemeSelectorTheme format
+ */
+function mapCurriculumToThemes(data: CurriculumData): ThemeSelectorTheme[] {
+  return data.themes.map((t) => ({
+    id: t.id,
+    name: t.name,
+    color: t.color,
+    icon: t.icon,
+    description: t.description,
+    slug: t.slug,
+    subtopics: t.subtopics.map((s) => ({
+      id: s.id,
+      name: s.name,
+      color: s.color,
+      icon: s.icon,
+      slug: s.slug,
+    })),
+  }));
+}
 import {
   COUNTRIES,
   getCountryByCode,
@@ -64,7 +98,7 @@ import RealisticKlassenarbeitDisplay from "@/components/RealisticKlassenarbeitDi
 import KlassenarbeitHeader from "@/components/KlassenarbeitHeader";
 import ExamResultsDisplay from "@/components/ExamResultsDisplay";
 import MathQuestionDisplay from "@/components/MathQuestionDisplay";
-import ScratchpadModal from "@/components/ScratchpadModal";
+import { DraftProvider } from "@/components/draft";
 import { convertToExtendedQuestion, isVisualQuestion } from "@/lib/mathQuestionUtils";
 import ModernPaperTest from "@/components/ModernPaperTest";
 import { getActiveSkin, SKINS } from "@/lib/skins";
@@ -337,6 +371,10 @@ export default function MathTestPage() {
   const [testSession, setTestSession] = useState<TestSession | null>(null);
   const [serverResult, setServerResult] = useState<TestResultFromServer | null>(null);
   const [submitting, setSubmitting] = useState(false);
+
+  // ─── Supabase Curriculum state ───────────────────────
+  const [supabaseCurriculum, setSupabaseCurriculum] = useState<CurriculumData | null>(null);
+  const [curriculumLoading, setCurriculumLoading] = useState(false);
   const answerTimesRef = useRef<number[]>([]); // per-question time tracking
   const lastAnswerTimeRef = useRef<number>(0);
 
@@ -562,6 +600,32 @@ export default function MathTestPage() {
     if (gradeResult.percentage === 100) incrementPerfectScores();
   }, [gameState, saved, gradeResult, selectedGrade, questions, answers]);
 
+  // ─── Fetch Supabase curriculum when country+grade are selected ───
+  useEffect(() => {
+    if (!country || !selectedGrade) return;
+    let cancelled = false;
+    setCurriculumLoading(true);
+    fetchCurriculum(country.code, selectedGrade).then((data) => {
+      if (!cancelled) {
+        setSupabaseCurriculum(data);
+        setCurriculumLoading(false);
+      }
+    }).catch(() => {
+      if (!cancelled) setCurriculumLoading(false);
+    });
+    return () => { cancelled = true; };
+  }, [country, selectedGrade]);
+
+  // Resolved themes: prefer Supabase, fall back to JSON
+  const resolvedThemes = useMemo((): ThemeSelectorTheme[] => {
+    if (supabaseCurriculum && supabaseCurriculum.themes.length > 0) {
+      return mapCurriculumToThemes(supabaseCurriculum);
+    }
+    const fallback = selectedGrade ? CURRICULA[selectedGrade] : null;
+    if (fallback) return fallback.themes as unknown as ThemeSelectorTheme[];
+    return [];
+  }, [supabaseCurriculum, selectedGrade]);
+
   const handleGradeSelect = (grade: number) => {
     setSelectedGrade(grade);
     saveMathGrade(grade);
@@ -569,6 +633,7 @@ export default function MathTestPage() {
     setSelectedSubtopics([]);
     setGradeResult(null);
     setKlassenarbeitResult(null);
+    setSupabaseCurriculum(null);
     setGameState("theme-select");
   };
 
@@ -610,13 +675,49 @@ export default function MathTestPage() {
     localStorage.setItem("klassenarbeitStartTime", now.toString());
 
     try {
-      // Collect all task IDs from selected subtopics
+      // ─── Collect task IDs from selected subtopics ─────────────
+      // Works with both JSON themes (slug-based) and Supabase themes (UUID-based)
       const allTaskIds: string[] = [];
+      const taskFilesNeeded = new Set<string>();
 
-      for (const theme of curriculum.themes) {
+      // Build a slug→subtopic lookup from JSON curriculum for fallback matching
+      const gradeCurriculum = CURRICULA[selectedGrade!];
+      const jsonSubtopicMap = new Map<string, { taskFile: string; taskIds: string[] }>();
+      if (gradeCurriculum) {
+        for (const theme of gradeCurriculum.themes) {
+          for (const sub of theme.subtopics) {
+            jsonSubtopicMap.set(sub.id, { taskFile: sub.taskFile, taskIds: sub.taskIds });
+          }
+        }
+      }
+
+      // Iterate through resolvedThemes to find selected subtopics
+      for (const theme of resolvedThemes) {
         for (const subtopic of theme.subtopics) {
-          if (selectedSubtopics.includes(subtopic.id)) {
+          if (!selectedSubtopics.includes(subtopic.id)) continue;
+
+          // Case 1: JSON theme (has taskFile + taskIds)
+          if (subtopic.taskFile && subtopic.taskIds) {
             allTaskIds.push(...subtopic.taskIds);
+            taskFilesNeeded.add(subtopic.taskFile);
+          }
+          // Case 2: Supabase theme (UUID-based) → match by slug to JSON
+          else if (subtopic.slug) {
+            const jsonMatch = jsonSubtopicMap.get(subtopic.slug);
+            if (jsonMatch) {
+              allTaskIds.push(...jsonMatch.taskIds);
+              taskFilesNeeded.add(jsonMatch.taskFile);
+            }
+          }
+        }
+      }
+
+      // If no tasks found via themes, try all JSON subtopics as last resort
+      if (allTaskIds.length === 0 && gradeCurriculum) {
+        for (const theme of gradeCurriculum.themes) {
+          for (const sub of theme.subtopics) {
+            allTaskIds.push(...sub.taskIds);
+            taskFilesNeeded.add(sub.taskFile);
           }
         }
       }
@@ -630,24 +731,12 @@ export default function MathTestPage() {
       // Load all relevant task files
       const allTasks: any[] = [];
 
-      // Get unique task files needed
-      const taskFilesNeeded = new Set<string>();
-      for (const theme of curriculum.themes) {
-        for (const subtopic of theme.subtopics) {
-          if (selectedSubtopics.includes(subtopic.id)) {
-            taskFilesNeeded.add(subtopic.taskFile);
-          }
-        }
-      }
-
       // Load and parse JSON files
       for (const fileName of taskFilesNeeded) {
         try {
-          // Dynamically import the task file
-          const module = await import(`@/data/mathematics/class-4/${fileName.replace('.json', '')}`);
+          const module = await import(`@/data/mathematics/class-${selectedGrade}/${fileName.replace('.json', '')}`);
           const fileData = module.default;
 
-          // Filter tasks by selected task IDs
           if (fileData.tasks) {
             const relevantTasks = fileData.tasks.filter((task: any) => allTaskIds.includes(task.id));
             allTasks.push(...relevantTasks);
@@ -969,13 +1058,13 @@ export default function MathTestPage() {
 
             {/* Hierarchical Theme Selector */}
             <HierarchicalThemeSelector
-              themes={curriculum.themes}
+              themes={resolvedThemes}
               selectedSubtopics={selectedSubtopics}
               onSubtopicToggle={handleSubtopicToggle}
               onPreview={handlePreviewSubtopic}
               onStartTest={handleStartMultiThemeTest}
               onClearSelection={() => setSelectedSubtopics([])}
-              loading={generatingTest}
+              loading={generatingTest || curriculumLoading}
             />
           </div>
         </main>
@@ -1125,6 +1214,7 @@ export default function MathTestPage() {
     const isGrading = gameState === "grading";
 
     return (
+      <DraftProvider>
       <>
         <ModernPaperTest
           title={ui?.title || "MATEMATIKA DOLGOZAT"}
@@ -1203,6 +1293,7 @@ export default function MathTestPage() {
                   onAnswerChange={handleGroupedTaskAnswer}
                   isGrading={isGrading}
                   gradeIndex={gradingIndex}
+                  testId={`ka_${selectedGrade}_${testType}`}
                 />
               )}
 
@@ -1238,7 +1329,7 @@ export default function MathTestPage() {
                       </motion.div>
                     )}
 
-                    {/* Use MathQuestionDisplay for all questions - includes scratchpad */}
+                    {/* Use MathQuestionDisplay for all questions - includes inline draft */}
                     <MathQuestionDisplay
                       question={convertToExtendedQuestion(question)}
                       selectedAnswer={answers[qi]}
@@ -1252,6 +1343,8 @@ export default function MathTestPage() {
                           handleAnswer(qi, numAnswer);
                         }
                       }}
+                      testId={`test_${selectedGrade}_${testType}`}
+                      questionId={`q_${qi}`}
                     />
 
                     {/* Grading mark */}
@@ -1338,6 +1431,7 @@ export default function MathTestPage() {
           <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
         </div>
       </>
+      </DraftProvider>
     );
   }
 

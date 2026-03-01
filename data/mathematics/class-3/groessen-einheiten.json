@@ -1,0 +1,98 @@
+{
+  "class": 3,
+  "theme": "Größen und Einheiten",
+  "language": "de",
+  "description": "Länge, Gewicht, Zeit und Umrechnen von Einheiten für die 3. Klasse",
+  "tasks": [
+    {
+      "id": "3-mass-001",
+      "question": "Wie viele Zentimeter sind 1 Meter?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [100, 10, 1000, 50],
+      "correct": 0,
+      "explanation": "1 Meter = 100 Zentimeter"
+    },
+    {
+      "id": "3-mass-002",
+      "question": "Wie viele Gramm sind 1 Kilogramm?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [1000, 100, 10000, 500],
+      "correct": 0,
+      "explanation": "1 Kilogramm = 1000 Gramm"
+    },
+    {
+      "id": "3-mass-003",
+      "question": "Wie viele Minuten hat eine Stunde?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [60, 30, 100, 45],
+      "correct": 0,
+      "explanation": "1 Stunde = 60 Minuten"
+    },
+    {
+      "id": "3-mass-004",
+      "question": "Wie viele Milliliter sind 1 Liter?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [1000, 100, 10000, 500],
+      "correct": 0,
+      "explanation": "1 Liter = 1000 Milliliter"
+    },
+    {
+      "id": "3-mass-005",
+      "question": "Wie viele Meter sind 1 Kilometer?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [1000, 100, 10000, 500],
+      "correct": 0,
+      "explanation": "1 Kilometer = 1000 Meter"
+    },
+    {
+      "id": "3-mass-006",
+      "question": "Rechne um: 3 m = _ cm",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [300, 30, 3000, 150],
+      "correct": 0,
+      "explanation": "3 Meter = 3 × 100 = 300 Zentimeter"
+    },
+    {
+      "id": "3-mass-007",
+      "question": "Rechne um: 2 kg = _ g",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [2000, 200, 20000, 20],
+      "correct": 0,
+      "explanation": "2 Kilogramm = 2 × 1000 = 2000 Gramm"
+    },
+    {
+      "id": "3-mass-008",
+      "question": "Rechne um: 2 Stunden = _ Minuten",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [120, 100, 90, 150],
+      "correct": 0,
+      "explanation": "2 Stunden = 2 × 60 = 120 Minuten"
+    },
+    {
+      "id": "3-mass-009",
+      "question": "Rechne um: 5000 g = _ kg",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [5, 50, 500, 0.5],
+      "correct": 0,
+      "explanation": "5000 Gramm ÷ 1000 = 5 Kilogramm"
+    },
+    {
+      "id": "3-mass-010",
+      "question": "Rechne um: 1 m 50 cm = _ cm",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [150, 105, 1050, 1500],
+      "correct": 0,
+      "explanation": "1 Meter = 100 cm, plus 50 cm = 150 cm"
+    }
+  ]
+}

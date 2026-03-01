@@ -1,0 +1,114 @@
+{
+  "class": 3,
+  "language": "de",
+  "themes": [
+    {
+      "id": "zahlen-und-rechnen",
+      "name": "Zahlen und Rechnen",
+      "color": "#3b82f6",
+      "icon": "🔢",
+      "description": "Addition und Subtraktion bis 1000, schriftliches Rechnen",
+      "subtopics": [
+        {
+          "id": "add-sub-1000",
+          "name": "Addition und Subtraktion bis 1000",
+          "color": "#60a5fa",
+          "icon": "➕",
+          "taskFile": "zahlen-und-rechnen.json",
+          "taskIds": ["3-zahl-001", "3-zahl-002", "3-zahl-003", "3-zahl-004", "3-zahl-005"]
+        },
+        {
+          "id": "schriftlich",
+          "name": "Schriftliches Rechnen",
+          "color": "#3b82f6",
+          "icon": "📝",
+          "taskFile": "zahlen-und-rechnen.json",
+          "taskIds": ["3-zahl-006", "3-zahl-007", "3-zahl-008", "3-zahl-009", "3-zahl-010"]
+        }
+      ]
+    },
+    {
+      "id": "einmaleins",
+      "name": "Einmaleins",
+      "color": "#8b5cf6",
+      "icon": "✖️",
+      "description": "Multiplikation, Division und fehlende Faktoren",
+      "subtopics": [
+        {
+          "id": "multiplikation",
+          "name": "Multiplikation",
+          "color": "#a78bfa",
+          "icon": "✖️",
+          "taskFile": "einmaleins.json",
+          "taskIds": ["3-mul-001", "3-mul-002", "3-mul-003", "3-mul-004", "3-mul-005"]
+        },
+        {
+          "id": "division",
+          "name": "Division",
+          "color": "#8b5cf6",
+          "icon": "➗",
+          "taskFile": "einmaleins.json",
+          "taskIds": ["3-mul-006", "3-mul-007", "3-mul-008", "3-mul-009", "3-mul-010"]
+        },
+        {
+          "id": "fehlende-faktoren",
+          "name": "Fehlende Faktoren",
+          "color": "#6d28d9",
+          "icon": "❓",
+          "taskFile": "einmaleins.json",
+          "taskIds": ["3-mul-011", "3-mul-012", "3-mul-013", "3-mul-014", "3-mul-015"]
+        }
+      ]
+    },
+    {
+      "id": "sachaufgaben",
+      "name": "Sachaufgaben",
+      "color": "#f59e0b",
+      "icon": "📖",
+      "description": "Textaufgaben und Zahlenfolgen",
+      "subtopics": [
+        {
+          "id": "textaufgaben",
+          "name": "Textaufgaben",
+          "color": "#fbbf24",
+          "icon": "📝",
+          "taskFile": "sachaufgaben.json",
+          "taskIds": ["3-sach-001", "3-sach-002", "3-sach-003", "3-sach-004", "3-sach-005"]
+        },
+        {
+          "id": "zahlenfolgen",
+          "name": "Zahlenfolgen",
+          "color": "#f59e0b",
+          "icon": "🔢",
+          "taskFile": "sachaufgaben.json",
+          "taskIds": ["3-sach-006", "3-sach-007", "3-sach-008", "3-sach-009", "3-sach-010"]
+        }
+      ]
+    },
+    {
+      "id": "groessen-einheiten",
+      "name": "Größen und Einheiten",
+      "color": "#10b981",
+      "icon": "⚖️",
+      "description": "Länge, Gewicht, Zeit und Umrechnen von Einheiten",
+      "subtopics": [
+        {
+          "id": "laenge-gewicht-zeit",
+          "name": "Länge, Gewicht, Zeit",
+          "color": "#6ee7b7",
+          "icon": "📏",
+          "taskFile": "groessen-einheiten.json",
+          "taskIds": ["3-mass-001", "3-mass-002", "3-mass-003", "3-mass-004", "3-mass-005"]
+        },
+        {
+          "id": "umrechnen",
+          "name": "Umrechnen",
+          "color": "#10b981",
+          "icon": "🔄",
+          "taskFile": "groessen-einheiten.json",
+          "taskIds": ["3-mass-006", "3-mass-007", "3-mass-008", "3-mass-009", "3-mass-010"]
+        }
+      ]
+    }
+  ]
+}
