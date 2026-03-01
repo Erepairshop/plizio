@@ -331,7 +331,7 @@ function updateStreak(): number {
 
 // ─── MAIN COMPONENT ─────────────────────────────
 
-type GameState = "country-select" | "grade-select" | "theme-select" | "countdown" | "playing" | "grading" | "result" | "reward";
+type GameState = "country-select" | "grade-select" | "theme-select" | "playing" | "grading" | "result" | "reward";
 type TestType = "klassenarbeit" | null;
 
 export default function MathTestPage() {
@@ -344,7 +344,6 @@ export default function MathTestPage() {
   const [selectedTheme, setSelectedTheme] = useState<string | null>(null);
   const [selectedSubtopics, setSelectedSubtopics] = useState<string[]>([]);
   const [generatingTest, setGeneratingTest] = useState(false);
-  const [countdown, setCountdown] = useState(3);
   const [questions, setQuestions] = useState<MathQuestion[]>([]);
   const [answers, setAnswers] = useState<(number | null)[]>([]);
   const [gradingIndex, setGradingIndex] = useState(-1);
@@ -410,22 +409,21 @@ export default function MathTestPage() {
     setGameState("grade-select");
   };
 
-  // Countdown
+  // Ensure scroll to top when entering playing state
   useEffect(() => {
-    if (gameState !== "countdown") return;
-    if (countdown <= 0) {
+    if (gameState === "playing") {
       // Mark test as started in Supabase
       if (useSupabase && testSession) {
         startSupabaseTest(testSession.testId).catch((err) => console.error("[Supabase] startTest failed:", err));
       }
-      lastAnswerTimeRef.current = 0;
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-      setGameState("playing");
-      return;
+      // Scroll to top when test starts
+      requestAnimationFrame(() => {
+        window.scrollTo({ top: 0, behavior: 'auto' });
+        document.documentElement.scrollTop = 0;
+        document.body.scrollTop = 0;
+      });
     }
-    const t = setTimeout(() => setCountdown((c) => c - 1), 800);
-    return () => clearTimeout(t);
-  }, [gameState, countdown, useSupabase, testSession]);
+  }, [gameState, useSupabase, testSession]);
 
   // Timer during playing
   useEffect(() => {
@@ -797,8 +795,9 @@ export default function MathTestPage() {
 
       // Start test directly without countdown
       lastAnswerTimeRef.current = 0;
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-      setGameState("playing");
+      // Scroll to top immediately
+      window.scrollTo(0, 0);
+      setTimeout(() => setGameState("playing"), 50);
     } catch (err) {
       console.error("[Multi-Theme Test] Failed:", err);
       alert("Error generating test. Please try again.");
@@ -811,7 +810,6 @@ export default function MathTestPage() {
     if (!selectedGrade || !testType) return;
 
     setSelectedTheme(theme);
-    setCountdown(3);
     setElapsedTime(0);
     setGradingIndex(-1);
     setGradeResult(null);
@@ -851,7 +849,7 @@ export default function MathTestPage() {
       setAnswers(new Array(mathQuestions.length).fill(null));
       setRealisticKlassenarbeit(null);
       setAvatarMood("idle");
-      setGameState("countdown");
+      setGameState("playing");
     } catch (err) {
       console.error("[Theme Test] Failed:", err);
       alert("Error generating test. Please try again.");
@@ -870,8 +868,20 @@ export default function MathTestPage() {
     setAnswers((prev) => {
       const next = [...prev];
       next[questionIndex] = answer;
+      console.log(`[Answer Q${questionIndex}] Set to ${answer}, Filled: ${next.filter(a => a !== null).length}/${next.length}`);
       return next;
     });
+
+    // Scroll to next question (forward)
+    setTimeout(() => {
+      const nextQuestionIndex = questionIndex + 1;
+      if (nextQuestionIndex < questions.length) {
+        const nextElement = document.querySelector(`[data-question-id="q_${nextQuestionIndex}"]`);
+        if (nextElement) {
+          nextElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      }
+    }, 100);
   };
 
   const handleGroupedTaskAnswer = (taskIndex: number, subQuestionId: string, answer: string | number, fieldId?: string) => {
@@ -1191,31 +1201,6 @@ export default function MathTestPage() {
     );
   }
 
-  // ─── COUNTDOWN ─────────────────────────────
-
-  if (gameState === "countdown") {
-    return (
-      <>
-        <main className="min-h-screen bg-bg flex items-center justify-center">
-          <AnimatePresence mode="wait">
-            <motion.div
-              key={countdown}
-              className="text-8xl font-black text-gold"
-              style={{ textShadow: "0 0 40px rgba(255,215,0,0.5)" }}
-              initial={{ scale: 0.5, opacity: 0 }}
-              animate={{ scale: 1, opacity: 1 }}
-              exit={{ scale: 2, opacity: 0 }}
-              transition={{ duration: 0.4 }}
-            >
-              {countdown > 0 ? countdown : "✏️"}
-            </motion.div>
-          </AnimatePresence>
-        </main>
-        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
-      </>
-    );
-  }
-
   // ─── TEST PAPER (PLAYING & GRADING) ─────────────────────────────
 
   if (gameState === "playing" || gameState === "grading") {
@@ -1233,10 +1218,11 @@ export default function MathTestPage() {
           total={questions.length}
           isGrading={isGrading}
           onExit={() => setGameState("grade-select")}
+          userName={user?.user_metadata?.full_name || user?.email || undefined}
         >
           <div>
           <div className="relative max-w-lg mx-auto" style={{ borderLeft: "2px solid rgba(220, 100, 100, 0.4)" }}>
-            <div className="px-4 sm:px-6 py-4 pb-32">
+            <div className="px-4 sm:px-6 py-4 pb-4" style={{ paddingTop: "0" }}>
               {/* Header */}
               {realisticKlassenarbeit && testType === "klassenarbeit" && selectedGrade ? (
                 <KlassenarbeitHeader
@@ -1271,6 +1257,7 @@ export default function MathTestPage() {
                 return (
                   <motion.div
                     key={qi}
+                    data-question-id={`q_${qi}`}
                     initial={{ opacity: 0, y: 10 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: isGrading ? 0 : qi * 0.05 }}
@@ -1336,45 +1323,36 @@ export default function MathTestPage() {
               })}
             </div>
 
-            {/* Global Submit Button - Bottom */}
+            {/* Floating Absence Button - Center bottom, above avatar */}
             {!isGrading && (
               <motion.div
-                className="fixed bottom-8 left-1/2 -translate-x-1/2 z-40"
+                className="fixed left-1/2 -translate-x-1/2 bottom-24 z-40"
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ type: "spring", stiffness: 200 }}
               >
                 <motion.button
                   onClick={() => {
-                    if (answers.some((a) => a !== null)) {
+                    const allFilled = answers.every((a) => a !== null);
+                    console.log(`[Submit] Answers: ${answers.map(a => a ?? 'null').join(', ')}, All filled: ${allFilled}`);
+                    if (allFilled) {
                       setGameState("grading");
                     }
                   }}
-                  disabled={!answers.some((a) => a !== null)}
-                  className={`px-8 py-3 font-bold rounded-lg shadow-lg text-lg transition-all ${
-                    answers.some((a) => a !== null)
+                  disabled={!answers.every((a) => a !== null)}
+                  className={`px-8 py-3 rounded-lg font-bold shadow-lg transition-all ${
+                    answers.every((a) => a !== null)
                       ? 'bg-blue-600 hover:bg-blue-700 text-white cursor-pointer'
                       : 'bg-gray-300 text-gray-500 cursor-not-allowed opacity-60'
                   }`}
-                  whileHover={answers.some((a) => a !== null) ? { scale: 1.05, boxShadow: "0 0 20px rgba(37, 99, 235, 0.5)" } : {}}
-                  whileTap={answers.some((a) => a !== null) ? { scale: 0.95 } : {}}
+                  whileHover={answers.every((a) => a !== null) ? { scale: 1.05, boxShadow: "0 0 30px rgba(37, 99, 235, 0.6)" } : {}}
+                  whileTap={answers.every((a) => a !== null) ? { scale: 0.95 } : {}}
                 >
                   Absenden
                 </motion.button>
               </motion.div>
             )}
 
-            {/* Exit button - Top left */}
-            <motion.button
-              onClick={() => setGameState("grade-select")}
-              className="fixed top-6 left-6 p-2.5 rounded-lg bg-white/5 border border-white/10 text-white/60 hover:text-white hover:bg-white/10 transition-all z-30"
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              whileHover={{ scale: 1.1 }}
-              whileTap={{ scale: 0.95 }}
-            >
-              <XIcon size={20} />
-            </motion.button>
 
           </div>
         </div>

@@ -117,8 +117,8 @@ function ColumnMathDraft({
 
     // Defer focus to after React commits the batched state update
     if (v.length === 1) {
-      const nextCol = ci - 1; // right-to-left for column math
-      if (nextCol >= 0) {
+      const nextCol = ci + 1; // Move forward
+      if (nextCol < cols) {
         setTimeout(() => {
           cellRefs.current[ri]?.[nextCol]?.focus();
         }, 0);
@@ -147,9 +147,9 @@ function ColumnMathDraft({
         break;
       case "Backspace":
         if (empty) {
-          // Move right (undo direction in right-to-left) and clear
-          const prev = ci + 1;
-          if (prev < cols) {
+          // Move left (backward) and clear the previous cell
+          const prev = ci - 1;
+          if (prev >= 0) {
             setState((p) => {
               const newRow = { ...p.rows[ri], cells: [...p.rows[ri].cells] };
               newRow.cells[prev] = { value: "" };

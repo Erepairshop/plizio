@@ -93,9 +93,12 @@ function MultiplicationDraft({ testId, questionId, cols = 8, initialRows = 6 }: 
       return s;
     });
     if (v.length === 1) {
-      setTimeout(() => {
-        cellRefs.current[ri]?.[ci - 1]?.focus();
-      }, 0);
+      const nextCol = ci + 1; // Move forward
+      if (nextCol < cols) {
+        setTimeout(() => {
+          cellRefs.current[ri]?.[nextCol]?.focus();
+        }, 0);
+      }
     }
   }, [syncToProvider]);
 
@@ -107,17 +110,17 @@ function MultiplicationDraft({ testId, questionId, cols = 8, initialRows = 6 }: 
       case "ArrowDown":  cellRefs.current[ri + 1]?.[ci]?.focus(); break;
       case "Enter":      cellRefs.current[ri + 1]?.[ci]?.focus(); break;
       case "Backspace":
-        if (empty && ci + 1 < cols) {
+        if (empty && ci - 1 >= 0) {
           setState((p) => {
             const newRow = { ...p.rows[ri], cells: [...p.rows[ri].cells] };
-            newRow.cells[ci + 1] = { value: "" };
+            newRow.cells[ci - 1] = { value: "" };
             const newRows = [...p.rows];
             newRows[ri] = newRow;
             const s = { ...p, rows: newRows };
             syncToProvider(s);
             return s;
           });
-          cellRefs.current[ri]?.[ci + 1]?.focus();
+          cellRefs.current[ri]?.[ci - 1]?.focus();
         }
         break;
     }
