@@ -106,7 +106,6 @@ function ColumnMathDraft({
   // ─── DIGIT INPUT → update cell + focus next ───
   const onDigit = useCallback((ri: number, ci: number, v: string) => {
     setState((prev) => {
-      // Mutate only the changed cell's row
       const newRow = { ...prev.rows[ri], cells: [...prev.rows[ri].cells] };
       newRow.cells[ci] = { value: v };
       const newRows = [...prev.rows];
@@ -116,11 +115,13 @@ function ColumnMathDraft({
       return s;
     });
 
-    // Direct focus – no rAF, no setTimeout. The sibling DOM element already exists.
+    // Defer focus to after React commits the batched state update
     if (v.length === 1) {
       const nextCol = ci - 1; // right-to-left for column math
       if (nextCol >= 0) {
-        cellRefs.current[ri]?.[nextCol]?.focus();
+        setTimeout(() => {
+          cellRefs.current[ri]?.[nextCol]?.focus();
+        }, 0);
       }
     }
   }, [syncToProvider]);
