@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useCallback, useRef } from "react";
+import { useState, useEffect, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Crosshair, Trophy, CheckCircle, XCircle, ArrowUp, Flame, Globe, Music, CircleDot, Sparkles, Gamepad2, MapPin, Share2, Film, X } from "lucide-react";
 import Link from "next/link";
@@ -10,24 +10,68 @@ import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, incrementPerfectScores, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
 import { useLang } from "@/components/LanguageProvider";
-import generalData from "@/data/quickpick/general.json";
-import musicData from "@/data/quickpick/music.json";
-import footballData from "@/data/quickpick/football.json";
-import animeData from "@/data/quickpick/anime.json";
-import gamingData from "@/data/quickpick/gaming.json";
-import geographyData from "@/data/quickpick/geography.json";
-import socialData from "@/data/quickpick/social.json";
-import moviesData from "@/data/quickpick/movies.json";
+import type { Language } from "@/lib/language";
 
-const THEME_DATA: Record<string, Question[]> = {
-  general: generalData as Question[],
-  music: musicData as Question[],
-  football: footballData as Question[],
-  anime: animeData as Question[],
-  gaming: gamingData as Question[],
-  geography: geographyData as Question[],
-  social: socialData as Question[],
-  movies: moviesData as Question[],
+// English versions (default/fallback)
+import generalDataEn from "@/data/quickpick/general.json";
+import musicDataEn from "@/data/quickpick/music.json";
+import footballDataEn from "@/data/quickpick/football.json";
+import animeDataEn from "@/data/quickpick/anime.json";
+import gamingDataEn from "@/data/quickpick/gaming.json";
+import geographyDataEn from "@/data/quickpick/geography.json";
+import socialDataEn from "@/data/quickpick/social.json";
+import moviesDataEn from "@/data/quickpick/movies.json";
+
+// Hungarian versions (general available, others fallback to English for now)
+import generalDataHu from "@/data/quickpick/general-hu.json";
+
+// Function to get theme data by language
+const getThemeDataByLanguage = (lang: Language): Record<string, Question[]> => {
+  const langMap: Record<Language, Record<string, Question[]>> = {
+    en: {
+      general: generalDataEn as Question[],
+      music: musicDataEn as Question[],
+      football: footballDataEn as Question[],
+      anime: animeDataEn as Question[],
+      gaming: gamingDataEn as Question[],
+      geography: geographyDataEn as Question[],
+      social: socialDataEn as Question[],
+      movies: moviesDataEn as Question[],
+    },
+    hu: {
+      general: generalDataHu as Question[],
+      // Other categories fall back to English while translations are being generated
+      music: musicDataEn as Question[],
+      football: footballDataEn as Question[],
+      anime: animeDataEn as Question[],
+      gaming: gamingDataEn as Question[],
+      geography: geographyDataEn as Question[],
+      social: socialDataEn as Question[],
+      movies: moviesDataEn as Question[],
+    },
+    de: {
+      general: generalDataEn as Question[],
+      music: musicDataEn as Question[],
+      football: footballDataEn as Question[],
+      anime: animeDataEn as Question[],
+      gaming: gamingDataEn as Question[],
+      geography: geographyDataEn as Question[],
+      social: socialDataEn as Question[],
+      movies: moviesDataEn as Question[],
+    },
+    ro: {
+      general: generalDataEn as Question[],
+      music: musicDataEn as Question[],
+      football: footballDataEn as Question[],
+      anime: animeDataEn as Question[],
+      gaming: gamingDataEn as Question[],
+      geography: geographyDataEn as Question[],
+      social: socialDataEn as Question[],
+      movies: moviesDataEn as Question[],
+    },
+  };
+
+  return langMap[lang] || langMap.en;
 };
 
 const TRANSLATIONS = {
@@ -179,6 +223,9 @@ const TOTAL_ROUNDS = 10;
 export default function QuickPickPage() {
   const { lang } = useLang();
   const t = TRANSLATIONS[lang] ?? TRANSLATIONS.en;
+
+  // Get language-specific theme data
+  const THEME_DATA = useMemo(() => getThemeDataByLanguage(lang), [lang]);
 
   const [gameState, setGameState] = useState<GameState>("theme-select");
   const [selectedTheme, setSelectedTheme] = useState("general");
