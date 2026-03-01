@@ -177,11 +177,12 @@ export async function downloadFromSupabase(userId: string): Promise<void> {
   }
 }
 
-// Bidirectional sync: download first (merge from server), then upload merged state
+// Bidirectional sync: upload first (removes redeemed cards from server),
+// then download (redeemed cards are gone from server, won't be restored)
 export async function syncToSupabase(userId: string): Promise<void> {
   try {
-    await downloadFromSupabase(userId);
     await uploadToSupabase(userId);
+    await downloadFromSupabase(userId);
   } catch (e) {
     console.error("Sync error:", e);
   }
