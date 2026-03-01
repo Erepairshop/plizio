@@ -418,6 +418,242 @@ function MountainSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGPro
   );
 }
 
+// ─── SCENE 11: JUNGLE ────────────────────────────────────────────────────────
+function JungleSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <rect width="320" height="200" fill="#1B5E20" />
+      {/* Sky */}
+      <rect width="320" height="80" fill="#87CEEB" />
+      {/* Sun */}
+      <circle cx="280" cy="30" r="20" fill="#FFD700" />
+      {!R && [0,45,90,135,180,225,270,315].map((a, i) => {
+        const rad = (a * Math.PI) / 180;
+        return <line key={i} x1={280+24*Math.cos(rad)} y1={30+24*Math.sin(rad)} x2={280+36*Math.cos(rad)} y2={30+36*Math.sin(rad)} stroke="#FFD700" strokeWidth="2" strokeLinecap="round" />;
+      })}
+      {/* Vines and trees background */}
+      <ellipse cx="50" cy="100" rx="35" ry="50" fill="#2E7D32" />
+      <ellipse cx="150" cy="110" rx="40" ry="60" fill="#1B5E20" />
+      <ellipse cx="270" cy="95" rx="38" ry="55" fill="#2E7D32" />
+      {/* Monkey: left=visible, right=different position */}
+      <ellipse cx={R ? "280" : "70"} cy={R ? "95" : "110"} rx="14" ry="16" fill="#8B6914" />
+      <ellipse cx={R ? "280" : "70"} cy={R ? "80" : "95"} rx="10" ry="12" fill="#8B6914" />
+      <circle cx={R ? "283" : "73"} cy={R ? "78" : "93"} r="2" fill="#333" /><circle cx={R ? "277" : "67"} cy={R ? "78" : "93"} r="2" fill="#333" />
+      {/* Tiger: missing on right */}
+      {!R && <>
+        <ellipse cx="200" cy="155" rx="35" ry="18" fill="#FF6B1A" stroke="#333" strokeWidth="1.5" />
+        <ellipse cx="230" cy="152" rx="10" ry="8" fill="#FF6B1A" stroke="#333" strokeWidth="1" />
+        <rect x="170" y="160" width="5" height="15" fill="#333" />
+        <polygon points="195,140 190,128 200,132" fill="#333" />
+      </>}
+      {/* Flowers: left=3, right=2 */}
+      <circle cx="40" cy="170" r="6" fill="#FF1493" /><rect x="38" y="176" width="4" height="12" fill="#4CAF50" />
+      <circle cx="100" cy="175" r="6" fill="#FF69B4" /><rect x="98" y="181" width="4" height="12" fill="#4CAF50" />
+      {!R && <>
+        <circle cx="160" cy="180" r="6" fill="#FF1493" /><rect x="158" y="186" width="4" height="12" fill="#4CAF50" />
+      </>}
+      {/* Bird: missing on right */}
+      {!R && <>
+        <path d="M240,45 Q250,38 260,45" fill="none" stroke="#333" strokeWidth="2.5" strokeLinecap="round" />
+        <ellipse cx="250" cy="48" rx="5" ry="3" fill="#333" />
+      </>}
+      {/* Mushrooms color */}
+      <ellipse cx="120" cy="162" rx="12" ry="8" fill={R ? "#DC143C" : "#E53935"} />
+      <rect x="116" y="170" width="8" height="8" fill={R ? "#DC143C" : "#E53935"} />
+      <circle cx="114" cy="159" r="2" fill="#fff" /><circle cx="126" cy="159" r="2" fill="#fff" />
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+
+// ─── SCENE 12: DINOSAUR ──────────────────────────────────────────────────────
+function DinosaurSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <rect width="320" height="150" fill="#87CEEB" />
+      <rect y="150" width="320" height="50" fill="#9CCC65" />
+      {/* Volcano: left=with smoke, right=without */}
+      <polygon points="200,100 140,180 260,180" fill="#8B4513" />
+      <polygon points="200,100 160,160 240,160" fill="#A0522D" />
+      {!R && <>
+        <circle cx="200" cy="88" r="8" fill="#DDD" opacity="0.8" />
+        <circle cx="200" cy="78" r="6" fill="#DDD" opacity="0.6" />
+      </>}
+      {/* Dinosaur (T-Rex) */}
+      <ellipse cx="80" cy="140" rx="40" ry="22" fill={R ? "#2E7D32" : "#4CAF50"} />
+      <ellipse cx="125" cy="135" rx="15" ry="12" fill={R ? "#2E7D32" : "#4CAF50"} />
+      <polygon points="130,125 135,110 125,120" fill={R ? "#2E7D32" : "#4CAF50"} />
+      <rect x="70" y="160" width="6" height="18" fill="#555" /><rect x="85" y="160" width="6" height="18" fill="#555" />
+      <circle cx="135" cy="133" r="2" fill="white" /><circle cx="137" cy="133" r="1" fill="#333" />
+      {/* Dino neck spots: left=present, right=missing */}
+      {!R && <>
+        <circle cx="115" cy="130" r="4" fill="#6CAF50" opacity="0.7" />
+        <circle cx="120" cy="125" r="4" fill="#6CAF50" opacity="0.7" />
+      </>}
+      {/* Palm tree: missing on right */}
+      {!R && <>
+        <rect x="265" y="145" width="6" height="25" fill="#8B5E3C" />
+        <path d="M268,145 L258,130 M268,145 L268,120 M268,145 L278,128" stroke="#2E7D32" strokeWidth="3" strokeLinecap="round" fill="none" />
+      </>}
+      {/* Pterodactyl: left=missing, right=visible */}
+      {R && <>
+        <path d="M260,50 Q275,40 290,50" fill="none" stroke="#555" strokeWidth="2.5" strokeLinecap="round" />
+        <ellipse cx="275" cy="52" rx="7" ry="4" fill="#555" />
+      </>}
+      {/* Rocks */}
+      <circle cx="45" cy="168" r="10" fill="#7B7B7B" />
+      <circle cx="65" cy="170" r="8" fill="#7B7B7B" />
+      {/* Lava color */}
+      <circle cx="200" cy="175" r="12" fill={R ? "#FFCC00" : "#FF6B1A"} opacity="0.9" />
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+
+// ─── SCENE 13: CASTLE ────────────────────────────────────────────────────────
+function CastleSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <rect width="320" height="200" fill="#B0BEC5" />
+      {/* Main castle wall */}
+      <rect x="50" y="80" width="220" height="110" fill="#8B7355" />
+      <polygon points="50,80 160,25 270,80" fill="#A0826D" />
+      {/* Towers: left=3, right=2 */}
+      <rect x="30" y="60" width="30" height="130" fill="#7B6A4F" />
+      <polygon points="30,60 45,30 60,60" fill="#6B5A3F" />
+      <rect x="260" y="60" width="30" height="130" fill="#7B6A4F" />
+      <polygon points="260,60 275,30 290,60" fill="#6B5A3F" />
+      {!R && <>
+        <rect x="155" y="45" width="30" height="145" fill="#7B6A4F" />
+        <polygon points="155,45 170,15 185,45" fill="#6B5A3F" />
+      </>}
+      {/* Windows: left=4, right=3 */}
+      <rect x="85" y="100" width="14" height="14" fill="#4A4A4A" />
+      <rect x="110" y="100" width="14" height="14" fill="#4A4A4A" />
+      <rect x="195" y="100" width="14" height="14" fill="#4A4A4A" />
+      {!R && <rect x="160" y="115" width="14" height="14" fill="#4A4A4A" />}
+      {/* Flag: left=red, right=blue */}
+      <rect x="158" y="20" width="4" height="50" fill="#333" />
+      <polygon points="162,25 162,40 180,32" fill={R ? "#0052CC" : "#DC143C"} />
+      {/* Door */}
+      <rect x="145" y="155" width="30" height="35" fill="#5C4A3A" />
+      <circle cx="172" cy="173" r="3" fill="#FFD700" />
+      {/* Gate: missing on right */}
+      {!R && <>
+        <rect x="155" y="180" width="50" height="4" fill="#555" />
+        <line x1="165" y1="180" x2="165" y2="190" stroke="#555" strokeWidth="2" />
+        <line x1="175" y1="180" x2="175" y2="190" stroke="#555" strokeWidth="2" />
+        <line x1="185" y1="180" x2="185" y2="190" stroke="#555" strokeWidth="2" />
+      </>}
+      {/* Stone blocks pattern */}
+      {[85,110,135,195].map(x => [130,150,170].map(y => <rect key={`${x}${y}`} x={x} y={y} width="2" height="2" fill="rgba(0,0,0,0.2)" />))}
+      {/* Guard color */}
+      <rect x="42" cy="55" width="8" height="15" fill={R ? "#FFD700" : "#DC143C"} />
+      <circle cx="46" cy="48" r="4" fill="#FDBCB4" />
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+
+// ─── SCENE 14: CLASSROOM ─────────────────────────────────────────────────────
+function ClassroomSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <rect width="320" height="200" fill="#E8D4C0" />
+      {/* Chalkboard */}
+      <rect x="20" y="15" width="100" height="70" fill="#1A1A1A" stroke="#8B5E3C" strokeWidth="3" rx="2" />
+      {/* Chalk writing: left=more text, right=less */}
+      <line x1="30" y1="35" x2="50" y2="35" stroke="#FFEB3B" strokeWidth="2" strokeLinecap="round" />
+      <line x1="30" y1="45" x2="60" y2="45" stroke="#FFEB3B" strokeWidth="2" strokeLinecap="round" />
+      {!R && <>
+        <line x1="30" y1="55" x2="55" y2="55" stroke="#FFEB3B" strokeWidth="2" strokeLinecap="round" />
+        <line x1="30" y1="65" x2="45" y2="65" stroke="#FFEB3B" strokeWidth="2" strokeLinecap="round" />
+      </>}
+      {/* Desk and chair */}
+      <rect x="150" y="130" width="70" height="50" fill="#A0826D" rx="3" />
+      <rect x="155" y="105" width="60" height="30" fill="#D4A574" rx="3" />
+      <circle cx="162" cy="160" r="12" fill="#666" /><circle cx="213" cy="160" r="12" fill="#666" />
+      {/* Teacher color */}
+      <ellipse cx="65" cy="100" rx="16" ry="20" fill="#FFB366" />
+      <rect x="53" y="105" width="24" height="30" fill={R ? "#4CAF50" : "#2196F3"} />
+      <circle cx="65" cy="88" r="9" fill="#FDBCB4" />
+      {/* Pointer: left=has, right=no */}
+      {!R && <line x1="75" y1="110" x2="105" y2="40" stroke="#333" strokeWidth="2" />}
+      {/* Globes: left=2, right=1 */}
+      <circle cx="280" cy="50" r="10" fill="#4FC3F7" stroke="#333" strokeWidth="1" />
+      <rect x="276" y="60" width="8" height="6" fill="#8B5E3C" rx="1" />
+      {!R && <>
+        <circle cx="240" cy="60" r="10" fill="#4FC3F7" stroke="#333" strokeWidth="1" />
+        <rect x="236" y="70" width="8" height="6" fill="#8B5E3C" rx="1" />
+      </>}
+      {/* Apple on desk: missing on right */}
+      {!R && <>
+        <circle cx="195" cy="103" r="6" fill="#E53935" />
+        <rect x="193" y="97" width="1" height="6" fill="#8B5E3C" />
+      </>}
+      {/* Clock color */}
+      <circle cx="270" cy="35" r="12" fill="white" stroke="#333" strokeWidth="1.5" />
+      <line x1="270" y1="35" x2="270" y2="27" stroke="#333" strokeWidth="1.5" /><line x1="270" y1="35" x2="277" y2="35" stroke="#333" strokeWidth="1" />
+      <circle cx="270" cy="35" r="2" fill="#333" />
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+
+// ─── SCENE 15: LIBRARY ───────────────────────────────────────────────────────
+function LibrarySVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <rect width="320" height="200" fill="#E8D4C0" />
+      {/* Wooden shelf */}
+      <rect x="10" y="40" width="300" height="20" fill="#8B5E3C" />
+      <rect x="10" y="80" width="300" height="20" fill="#8B5E3C" />
+      <rect x="10" y="120" width="300" height="20" fill="#8B5E3C" />
+      {/* Books shelf 1 */}
+      <rect x="15" y="30" width="10" height="30" fill="#E53935" />
+      <rect x="30" y="30" width="10" height="30" fill="#4CAF50" />
+      <rect x="45" y="30" width="10" height="30" fill="#2196F3" />
+      <rect x="60" y="30" width="10" height="30" fill={R ? "#FFEB3B" : "#FF9800"} />
+      <rect x="75" y="30" width="10" height="30" fill="#9C27B0" />
+      {!R && <rect x="90" y="30" width="10" height="30" fill="#FF69B4" />}
+      {/* Books shelf 2 */}
+      <rect x="130" y="70" width="10" height="30" fill="#4CAF50" />
+      <rect x="145" y="70" width="10" height="30" fill="#FF9800" />
+      <rect x="160" y="70" width="10" height="30" fill="#2196F3" />
+      <rect x="175" y="70" width="10" height="30" fill="#E53935" />
+      {!R && <>
+        <rect x="190" y="70" width="10" height="30" fill="#9C27B0" />
+        <rect x="205" y="70" width="10" height="30" fill="#FFEB3B" />
+      </>}
+      {/* Books shelf 3 */}
+      <rect x="60" y="110" width="10" height="30" fill="#2196F3" />
+      <rect x="75" y="110" width="10" height="30" fill="#FF9800" />
+      <rect x="90" y="110" width="10" height="30" fill={R ? "#E53935" : "#4CAF50"} />
+      <rect x="105" y="110" width="10" height="30" fill="#9C27B0" />
+      <rect x="120" y="110" width="10" height="30" fill="#FFEB3B" />
+      {/* Reading light: missing on right */}
+      {!R && <>
+        <rect x="270" y="15" width="8" height="45" fill="#333" />
+        <ellipse cx="274" cy="15" rx="15" ry="8" fill="#FFCC00" opacity="0.7" />
+      </>}
+      {/* Person reading: left=sitting, right=standing or different position */}
+      <circle cx="260" cy={R ? "110" : "145"} r="6" fill="#FDBCB4" />
+      <rect x="254" y={R ? "118" : "150"} width="12" height="20" fill={R ? "#2196F3" : "#4CAF50"} />
+      {/* Ladder: missing on right */}
+      {!R && <>
+        <line x1="230" y1="170" x2="230" y2="50" stroke="#8B5E3C" strokeWidth="3" />
+        <line x1="225" y1="140" x2="235" y2="140" stroke="#8B5E3C" strokeWidth="2" />
+        <line x1="225" y1="110" x2="235" y2="110" stroke="#8B5E3C" strokeWidth="2" />
+        <line x1="225" y1="80" x2="235" y2="80" stroke="#8B5E3C" strokeWidth="2" />
+      </>}
+      {/* Book stack on table color */}
+      <rect x="25" y="165" width="20" height="25" fill={R ? "#4CAF50" : "#E53935"} />
+      <rect x="25" y="160" width="20" height="5" fill={R ? "#2E7D32" : "#C62828"} />
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+
 // ─── SCENE DEFINITIONS ───────────────────────────────────────────────────────
 export const ALL_SCENES: SceneDef[] = [
   {
@@ -529,5 +765,60 @@ export const ALL_SCENES: SceneDef[] = [
       { id: 4, cx: 40,  cy: 162, r: 28 },
     ],
     SVG: MountainSVG,
+  },
+  {
+    id: "jungle", title: "Dzsungel",
+    hotspots: [
+      { id: 0, cx: 70,  cy: 110, r: 28 },
+      { id: 1, cx: 120, cy: 162, r: 18 },
+      { id: 2, cx: 260, cy: 68,  r: 28 },
+      { id: 3, cx: 40,  cy: 172, r: 18 },
+      { id: 4, cx: 280, cy: 30,  r: 28 },
+    ],
+    SVG: JungleSVG,
+  },
+  {
+    id: "dinosaur", title: "Dinoszaurusz",
+    hotspots: [
+      { id: 0, cx: 80,  cy: 140, r: 32 },
+      { id: 1, cx: 117, cy: 127, r: 20 },
+      { id: 2, cx: 268, cy: 145, r: 30 },
+      { id: 3, cx: 200, cy: 120, r: 35 },
+      { id: 4, cx: 200, cy: 175, r: 20 },
+    ],
+    SVG: DinosaurSVG,
+  },
+  {
+    id: "castle", title: "Kastély",
+    hotspots: [
+      { id: 0, cx: 160, cy: 52,  r: 28 },
+      { id: 1, cx: 45,  cy: 45,  r: 20 },
+      { id: 2, cx: 275, cy: 45,  r: 20 },
+      { id: 3, cx: 170, cy: 107, r: 25 },
+      { id: 4, cx: 160, cy: 185, r: 35 },
+    ],
+    SVG: CastleSVG,
+  },
+  {
+    id: "classroom", title: "Osztályterem",
+    hotspots: [
+      { id: 0, cx: 70,  cy: 50,  r: 28 },
+      { id: 1, cx: 65,  cy: 110, r: 22 },
+      { id: 2, cx: 195, cy: 103, r: 12 },
+      { id: 3, cx: 280, cy: 50,  r: 18 },
+      { id: 4, cx: 240, cy: 60,  r: 20 },
+    ],
+    SVG: ClassroomSVG,
+  },
+  {
+    id: "library", title: "Könyvtár",
+    hotspots: [
+      { id: 0, cx: 60,  cy: 50,  r: 25 },
+      { id: 1, cx: 160, cy: 50,  r: 30 },
+      { id: 2, cx: 90,  cy: 120, r: 25 },
+      { id: 3, cx: 260, cy: 95,  r: 25 },
+      { id: 4, cx: 25,  cy: 175, r: 30 },
+    ],
+    SVG: LibrarySVG,
   },
 ];
