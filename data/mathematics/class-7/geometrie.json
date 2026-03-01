@@ -810,7 +810,7 @@
       "question": "Ein Winkel und sein Supplementwinkel haben ein Verhältnis von 3:2. Wie groß ist der kleinere Winkel?",
       "difficulty": "hard",
       "type": "multiple-choice",
-      "options": ["72°", 60°", "108°", "45°"],
+      "options": ["72°", "60°", "108°", "45°"],
       "correct": 0,
       "explanation": "Verhältnis 3:2 bei Supplementwinkeln. 3x + 2x = 180°. 5x = 180°. x = 36°. Kleinerer = 2×36° = 72°"
     },
