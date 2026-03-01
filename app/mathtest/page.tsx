@@ -419,6 +419,7 @@ export default function MathTestPage() {
         startSupabaseTest(testSession.testId).catch((err) => console.error("[Supabase] startTest failed:", err));
       }
       lastAnswerTimeRef.current = 0;
+      window.scrollTo({ top: 0, behavior: 'smooth' });
       setGameState("playing");
       return;
     }
@@ -796,6 +797,7 @@ export default function MathTestPage() {
 
       // Start test directly without countdown
       lastAnswerTimeRef.current = 0;
+      window.scrollTo({ top: 0, behavior: 'smooth' });
       setGameState("playing");
     } catch (err) {
       console.error("[Multi-Theme Test] Failed:", err);
