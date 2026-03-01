@@ -517,7 +517,9 @@ export default function MathTestPage() {
     } else {
       // All graded
       let pct = 0;
-      if (testType === "klassenarbeit") {
+      // Only use klassenarbeit scoring if questions actually have sections
+      const hasSections = questions.some(q => q.section);
+      if (testType === "klassenarbeit" && hasSections) {
         // Klassenarbeit: szekciós pontozás
         const kaResult = calculateKlassenarbeitResult(questions, answers);
         setKlassenarbeitResult(kaResult);
@@ -525,7 +527,7 @@ export default function MathTestPage() {
         setGradeResult(gradeResult);
         pct = kaResult.maxTotalPoints > 0 ? Math.round((kaResult.totalPoints / kaResult.maxTotalPoints) * 100) : 0;
       } else {
-        // Practice: egyszerű pontozás
+        // Practice / theme test: egyszerű pontozás
         const score = answers.reduce<number>(
           (acc, a, i) => acc + (a === questions[i].correctAnswer ? 1 : 0),
           0,
