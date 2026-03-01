@@ -177,11 +177,11 @@ function getGradeText(grade: number): string {
   const gradeTexts: Record<number, string> = {
     1: "Kiváló",
     2: "Jó",
-    3: "Közepes",
+    3: "Befriedigend",
     4: "Elégtelen",
     5: "Nagyon gyenge",
   };
-  return gradeTexts[grade] || "Értékelés";
+  return gradeTexts[grade] || "Bewertung";
 }
 
 function getGradeColor(grade: number): string {
@@ -198,7 +198,7 @@ function getGradeColor(grade: number): string {
 function getFeedback(percentage: number): string {
   if (percentage >= 90) return "Kiváló teljesítmény! Folytasd így!";
   if (percentage >= 80) return "Jó munka! Még kis gyakorlásra van szükség néhány témában.";
-  if (percentage >= 70) return "Közepes teljesítmény. Összpontosíts az alapokra.";
+  if (percentage >= 70) return "Durchschnittliche Leistung. Konzentriere dich auf die Grundlagen.";
   if (percentage >= 60) return "A gyakorlást erősíteni kell ezeken a témákon.";
   return "Javasolt intenzívebb gyakorlás szükséges.";
 }

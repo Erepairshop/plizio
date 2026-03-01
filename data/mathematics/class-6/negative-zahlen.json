@@ -93,6 +93,186 @@
       "options": ["5°C", "-17°C", "17°C", "-5°C"],
       "correct": 0,
       "explanation": "-6 + 11 = 5. Die Temperatur war mittags 5°C."
+    },
+    {
+      "id": "6-neg-011",
+      "question": "Wie viel ist (-2) + 6?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [4, -4, 8, -8],
+      "correct": 0,
+      "explanation": "(-2) + 6 = 4. Man startet bei -2 und geht 6 Schritte nach rechts."
+    },
+    {
+      "id": "6-neg-012",
+      "question": "Wie viel ist 5 + (-3)?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [2, -2, 8, -8],
+      "correct": 0,
+      "explanation": "5 + (-3) = 5 - 3 = 2"
+    },
+    {
+      "id": "6-neg-013",
+      "question": "Wie viel ist (-5) + (-2)?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [-7, 7, -3, 3],
+      "correct": 0,
+      "explanation": "(-5) + (-2) = -7. Zwei negative Zahlen addiert ergeben eine größere negative Zahl."
+    },
+    {
+      "id": "6-neg-014",
+      "question": "Wie viel ist (-7) - (-2)?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [-5, -9, 5, 9],
+      "correct": 0,
+      "explanation": "(-7) - (-2) = (-7) + 2 = -5. Minus und Minus ergibt Plus."
+    },
+    {
+      "id": "6-neg-015",
+      "question": "Wie viel ist (-10) + 4 + (-2)?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [-8, -16, 8, 16],
+      "correct": 0,
+      "explanation": "(-10) + 4 = -6, dann (-6) + (-2) = -8"
+    },
+    {
+      "id": "6-neg-016",
+      "question": "Welche Zahl liegt auf dem Zahlenstrahl zwischen -5 und -3?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [-4, -2, -6, 0],
+      "correct": 0,
+      "explanation": "Zwischen -5 und -3 liegt -4 auf dem Zahlenstrahl."
+    },
+    {
+      "id": "6-neg-017",
+      "question": "Ordne die Zahlen: Welche ist die kleinste? -8, 2, -3, 0",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [-8, -3, 0, 2],
+      "correct": 0,
+      "explanation": "-8 ist die kleinste Zahl, da sie am weitesten links auf dem Zahlenstrahl liegt."
+    },
+    {
+      "id": "6-neg-018",
+      "question": "Wie weit ist -5 von 2 auf dem Zahlenstrahl entfernt?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [7, 3, -7, -3],
+      "correct": 0,
+      "explanation": "Der Abstand von -5 bis 2 beträgt |(-5) - 2| = |-7| = 7 Einheiten."
+    },
+    {
+      "id": "6-neg-019",
+      "question": "Welche Aussage ist richtig?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["-9 < -4", "-4 < -9", "-9 = -4", "-9 > -4"],
+      "correct": 0,
+      "explanation": "-9 ist kleiner als -4, weil -9 weiter links auf dem Zahlenstrahl liegt."
+    },
+    {
+      "id": "6-neg-020",
+      "question": "Die Temperatur war morgens -3°C und fiel bis abends um 5°C. Welche Temperatur war es abends?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["-8°C", "2°C", "-2°C", "8°C"],
+      "correct": 0,
+      "explanation": "-3 - 5 = -8. Die Temperatur war abends -8°C."
+    },
+    {
+      "id": "6-neg-021",
+      "question": "Wie viel ist (-1) + 7?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [6, -6, 8, -8],
+      "correct": 0,
+      "explanation": "(-1) + 7 = 6"
+    },
+    {
+      "id": "6-neg-022",
+      "question": "Wie viel ist 3 + (-5)?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [-2, 2, 8, -8],
+      "correct": 0,
+      "explanation": "3 + (-5) = 3 - 5 = -2"
+    },
+    {
+      "id": "6-neg-023",
+      "question": "Wie viel ist (-4) + (-6)?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [-10, 10, -2, 2],
+      "correct": 0,
+      "explanation": "(-4) + (-6) = -10"
+    },
+    {
+      "id": "6-neg-024",
+      "question": "Wie viel ist (-9) - (-4)?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [-5, -13, 5, 13],
+      "correct": 0,
+      "explanation": "(-9) - (-4) = (-9) + 4 = -5"
+    },
+    {
+      "id": "6-neg-025",
+      "question": "Wie viel ist (-15) + 6 + (-3)?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [-12, 12, -24, 24],
+      "correct": 0,
+      "explanation": "(-15) + 6 = -9, dann (-9) + (-3) = -12"
+    },
+    {
+      "id": "6-neg-026",
+      "question": "Ordne die Zahlen: Welche ist die größte? -6, 1, -2, 0",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [1, 0, -2, -6],
+      "correct": 0,
+      "explanation": "1 ist die größte Zahl, da sie am weitesten rechts auf dem Zahlenstrahl liegt."
+    },
+    {
+      "id": "6-neg-027",
+      "question": "Wie weit ist -2 von 4 auf dem Zahlenstrahl entfernt?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [6, 2, -6, -2],
+      "correct": 0,
+      "explanation": "Der Abstand von -2 bis 4 beträgt |(-2) - 4| = |-6| = 6 Einheiten."
+    },
+    {
+      "id": "6-neg-028",
+      "question": "Welche Aussage ist richtig?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["-6 < -1", "-1 < -6", "-6 = -1", "-6 > -1"],
+      "correct": 0,
+      "explanation": "-6 ist kleiner als -1, weil -6 weiter links auf dem Zahlenstrahl liegt."
+    },
+    {
+      "id": "6-neg-029",
+      "question": "Die Temperatur war morgens -4°C und stieg bis mittags um 9°C. Welche Temperatur war es mittags?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["5°C", "-13°C", "13°C", "-5°C"],
+      "correct": 0,
+      "explanation": "-4 + 9 = 5. Die Temperatur war mittags 5°C."
+    },
+    {
+      "id": "6-neg-030",
+      "question": "Wie viel ist (-11) - (-5)?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [-6, -16, 6, 16],
+      "correct": 0,
+      "explanation": "(-11) - (-5) = (-11) + 5 = -6"
     }
   ]
 }

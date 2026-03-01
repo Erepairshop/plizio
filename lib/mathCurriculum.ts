@@ -1432,7 +1432,7 @@ export interface GradeResult {
 
 export function calculateGradeResult(score: number, total: number): GradeResult {
   const percentage = Math.round((score / total) * 100);
-  const countryCode = getSavedCountry() || "HU";
+  const countryCode = getSavedCountry() || "DE";
   const country = getCountryByCode(countryCode);
   const mark = country.calculateMark(percentage);
   return { score, total, percentage, mark };

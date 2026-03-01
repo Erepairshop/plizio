@@ -6,7 +6,7 @@ import { Canvas, useFrame } from "@react-three/fiber";
 import * as THREE from "three";
 import {
   Calculator, ArrowLeft, Check, X as XIcon,
-  RotateCcw, Home, Send, BookOpen, Sparkles, Clock,
+  RotateCcw, Home, BookOpen, Sparkles, Clock,
 } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
@@ -394,9 +394,9 @@ export default function MathTestPage() {
 
   // Load saved country + grade on mount
   useEffect(() => {
-    const savedCode = getSavedCountry();
+    const savedCode = getSavedCountry() || "DE";
+    setCountry(getCountryByCode(savedCode));
     if (savedCode) {
-      setCountry(getCountryByCode(savedCode));
       setGameState("grade-select");
     }
     const prev = getMathGrade();
@@ -419,6 +419,7 @@ export default function MathTestPage() {
         startSupabaseTest(testSession.testId).catch((err) => console.error("[Supabase] startTest failed:", err));
       }
       lastAnswerTimeRef.current = 0;
+      window.scrollTo({ top: 0, behavior: 'smooth' });
       setGameState("playing");
       return;
     }
@@ -501,7 +502,10 @@ export default function MathTestPage() {
       setKlassenarbeitResult(kaResult);
       const gradeResult = calculateGradeResult(kaResult.totalPoints, kaResult.maxTotalPoints);
       setGradeResult(gradeResult);
-      setTimeout(() => setGameState("result"), 600);
+      setTimeout(() => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        setGameState("result");
+      }, 600);
       return;
     }
 
@@ -526,7 +530,10 @@ export default function MathTestPage() {
         const result = calculateGradeResult(score, questions.length);
         setGradeResult(result);
       }
-      setTimeout(() => setGameState("result"), 600);
+      setTimeout(() => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        setGameState("result");
+      }, 600);
     }
   }, [gameState, gradingIndex, questions, answers, testType, realisticKlassenarbeit, groupedTaskAnswers]);
 
@@ -790,6 +797,7 @@ export default function MathTestPage() {
 
       // Start test directly without countdown
       lastAnswerTimeRef.current = 0;
+      window.scrollTo({ top: 0, behavior: 'smooth' });
       setGameState("playing");
     } catch (err) {
       console.error("[Multi-Theme Test] Failed:", err);
@@ -1001,7 +1009,7 @@ export default function MathTestPage() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.3 }}
           >
-            Melyik országban jársz iskolába?
+            Welches Land besuchst du die Schule?
           </motion.p>
 
           {/* Country buttons */}
@@ -1128,7 +1136,7 @@ export default function MathTestPage() {
               className="text-3xl font-black text-white tracking-wider"
               style={{ textShadow: "0 0 20px rgba(255,215,0,0.3)" }}
             >
-              {ui?.title || "MATEK DOLGOZAT"}
+              {ui?.title}
             </h1>
             <p className="text-white/40 text-sm font-medium">{getPeriodLabel(getPeriod(), country?.code)}</p>
           </motion.div>
@@ -1140,7 +1148,7 @@ export default function MathTestPage() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.3 }}
           >
-            {ui?.gradeQuestion || "Hanyadik osztályba jársz?"}
+            {ui?.gradeQuestion}
           </motion.p>
 
           {/* Grade buttons */}
@@ -1236,54 +1244,7 @@ export default function MathTestPage() {
                   subject={country?.name === "Hungary" ? "Matematika" : country?.name === "Germany" ? "Mathematik" : country?.name === "Romania" ? "Matematică" : "Mathematics"}
                   startTime={Date.now()}
                 />
-              ) : (
-                <motion.div
-                  className="mb-6 pb-4"
-                  style={{ borderBottom: "1px solid rgba(0,0,0,0.1)" }}
-                  initial={{ opacity: 0 }}
-                  animate={{ opacity: 1 }}
-                >
-                  <h1 className="text-lg font-black text-gray-800 tracking-wide mb-2">
-                    📐 {ui?.title || "MATEMATIKA DOLGOZAT"}
-                  </h1>
-                  <div className="flex justify-between text-xs text-gray-500 font-mono">
-                    <span>{ui?.classLabel || "Osztály"}: {selectedGrade}.</span>
-                    <span>{new Date().toLocaleDateString(country?.code === "DE" ? "de-DE" : country?.code === "US" ? "en-US" : country?.code === "GB" ? "en-GB" : country?.code === "RO" ? "ro-RO" : "hu-HU")}</span>
-                  </div>
-                  {!isGrading && (
-                    <div className="flex items-center gap-1 mt-2 text-xs font-mono">
-                      <Clock size={12} />
-                      {testType === "klassenarbeit" ? (
-                        <>
-                          <span className={klassenarbeitTimeLeft <= 300 ? "text-red-500 font-bold" : "text-gray-400"}>
-                            {Math.floor(klassenarbeitTimeLeft / 60)}:{(klassenarbeitTimeLeft % 60).toString().padStart(2, "0")}
-                          </span>
-                          <span className="text-gray-400 ml-4">
-                            {answers.filter((a) => a !== null).length}/{questions.length} {ui?.solved || "megoldva"}
-                          </span>
-                        </>
-                      ) : (
-                        <>
-                          <span className="text-gray-400">
-                            {Math.floor(elapsedTime / 60)}:{(elapsedTime % 60).toString().padStart(2, "0")}
-                          </span>
-                          <span className="text-gray-400 ml-4">
-                            {answers.filter((a) => a !== null).length}/{questions.length} {ui?.solved || "megoldva"}
-                          </span>
-                        </>
-                      )}
-                    </div>
-                  )}
-                  {isGrading && (
-                    <div className="flex items-center gap-2 mt-2">
-                      <span className="text-xs text-red-500 font-bold font-mono">✏️ {ui?.grading || "Javítás..."}</span>
-                      <span className="text-xs text-gray-400">
-                        {Math.min(gradingIndex, questions.length)}/{questions.length}
-                      </span>
-                    </div>
-                  )}
-                </motion.div>
-              )}
+              ) : null}
 
               {/* Realistic Klassenarbeit (Grouped Tasks) */}
               {realisticKlassenarbeit && (
@@ -1375,6 +1336,27 @@ export default function MathTestPage() {
               })}
             </div>
 
+            {/* Global Submit Button - Bottom */}
+            {!isGrading && answers.some((a) => a !== null) && (
+              <motion.div
+                className="fixed bottom-8 left-1/2 -translate-x-1/2 z-40"
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ type: "spring", stiffness: 200 }}
+              >
+                <motion.button
+                  onClick={() => {
+                    setGameState("grading");
+                  }}
+                  className="px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-lg shadow-lg text-lg transition-all"
+                  whileHover={{ scale: 1.05, boxShadow: "0 0 20px rgba(37, 99, 235, 0.5)" }}
+                  whileTap={{ scale: 0.95 }}
+                >
+                  Beküldes
+                </motion.button>
+              </motion.div>
+            )}
+
             {/* Exit button - Top left */}
             <motion.button
               onClick={() => setGameState("grade-select")}
@@ -1387,34 +1369,6 @@ export default function MathTestPage() {
               <XIcon size={20} />
             </motion.button>
 
-            {/* Submit button - Safe area friendly */}
-            {!isGrading && (
-              <div
-                className="fixed bottom-0 left-0 right-0 p-4 z-20"
-                style={{
-                  background: "linear-gradient(transparent, #f5f0e8 30%)",
-                  paddingBottom: "max(1rem, env(safe-area-inset-bottom))",
-                  paddingRight: "calc(160px + 1rem)"
-                }}
-              >
-                <motion.button
-                  onClick={handleSubmit}
-                  disabled={!allAnswered || submitting || (testType === "klassenarbeit" && klassenarbeitTimeLeft <= 0)}
-                  className={`w-full max-w-lg mx-auto block py-4 rounded-2xl font-black text-lg tracking-wider transition-all ${
-                    allAnswered && !submitting && !(testType === "klassenarbeit" && klassenarbeitTimeLeft <= 0)
-                      ? "bg-gray-800 text-white shadow-lg"
-                      : "bg-gray-300 text-gray-500 cursor-not-allowed"
-                  }`}
-                  whileHover={allAnswered && !submitting && !(testType === "klassenarbeit" && klassenarbeitTimeLeft <= 0) ? { scale: 1.02 } : undefined}
-                  whileTap={allAnswered && !submitting && !(testType === "klassenarbeit" && klassenarbeitTimeLeft <= 0) ? { scale: 0.98 } : undefined}
-                >
-                  <div className="flex items-center justify-center gap-2">
-                    <Send size={20} />
-                    {submitting ? "Értékelés..." : (ui?.submit || "BEADOM!")}
-                  </div>
-                </motion.button>
-              </div>
-            )}
           </div>
         </div>
         </ModernPaperTest>
@@ -1581,7 +1535,7 @@ export default function MathTestPage() {
               whileTap={{ scale: 0.97 }}
             >
               <RotateCcw size={18} />
-              {ui?.retry || "Újraírom"}
+              {ui?.retry}
             </motion.button>
 
             {/* Card */}
@@ -1593,7 +1547,7 @@ export default function MathTestPage() {
               whileTap={{ scale: 0.97 }}
             >
               <Sparkles size={18} />
-              {ui?.card || "Kártya"}
+              {ui?.card}
             </motion.button>
 
             {/* Different grade */}
@@ -1605,7 +1559,7 @@ export default function MathTestPage() {
               whileTap={{ scale: 0.97 }}
             >
               <BookOpen size={18} />
-              {ui?.other || "Másik"}
+              {ui?.other}
             </motion.button>
           </motion.div>
 
@@ -1620,7 +1574,7 @@ export default function MathTestPage() {
             whileTap={{ scale: 0.95 }}
           >
             <Home size={16} />
-            {ui?.home || "Főmenü"}
+            {ui?.home}
           </motion.button>
         </motion.div>
 

@@ -32,7 +32,7 @@ export default function ModernPaperTest({
   onExit,
 }: ModernPaperTestProps) {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 relative overflow-hidden">
+    <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 relative">
       {/* Animated grid background */}
       <div className="fixed inset-0 pointer-events-none">
         <svg

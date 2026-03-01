@@ -93,6 +93,186 @@
       "options": ["a² - 9", "a² + 9", "a² - 6a + 9", "a² - 6"],
       "correct": 0,
       "explanation": "(a - 3)(a + 3) = a² - 3² = a² - 9 (Dritte Binomische Formel)"
+    },
+    {
+      "id": "8-wurz-011",
+      "question": "Wie viel ist √36?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [6, 18, 12, 36],
+      "correct": 0,
+      "explanation": "√36 = 6, denn 6 × 6 = 36"
+    },
+    {
+      "id": "8-wurz-012",
+      "question": "Wie viel ist √49?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [7, 24.5, 14, 49],
+      "correct": 0,
+      "explanation": "√49 = 7, denn 7 × 7 = 49"
+    },
+    {
+      "id": "8-wurz-013",
+      "question": "Wie viel ist √100?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [10, 50, 20, 100],
+      "correct": 0,
+      "explanation": "√100 = 10, denn 10 × 10 = 100"
+    },
+    {
+      "id": "8-wurz-014",
+      "question": "Wie viel ist √225?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [15, 112.5, 20, 25],
+      "correct": 0,
+      "explanation": "√225 = 15, denn 15 × 15 = 225"
+    },
+    {
+      "id": "8-wurz-015",
+      "question": "Wie viel ist √256?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [16, 128, 20, 18],
+      "correct": 0,
+      "explanation": "√256 = 16, denn 16 × 16 = 256"
+    },
+    {
+      "id": "8-wurz-016",
+      "question": "Vereinfache: 4(2x + 5) + 3(x - 2)",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["11x + 14", "11x + 20", "8x + 14", "7x + 20"],
+      "correct": 0,
+      "explanation": "4(2x + 5) + 3(x - 2) = 8x + 20 + 3x - 6 = 11x + 14"
+    },
+    {
+      "id": "8-wurz-017",
+      "question": "Vereinfache: (x + 5)(x + 2)",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["x² + 7x + 10", "x² + 10x + 7", "x² + 7x + 5", "2x + 7"],
+      "correct": 0,
+      "explanation": "(x + 5)(x + 2) = x² + 2x + 5x + 10 = x² + 7x + 10"
+    },
+    {
+      "id": "8-wurz-018",
+      "question": "Vereinfache: 7x² + 2x - 3x² + 5x",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["4x² + 7x", "10x² + 7x", "4x² + 3x", "10x² + 3x"],
+      "correct": 0,
+      "explanation": "7x² - 3x² + 2x + 5x = 4x² + 7x"
+    },
+    {
+      "id": "8-wurz-019",
+      "question": "Vereinfache: (x + 2)² (Hinweis: Binomische Formel)",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["x² + 4x + 4", "x² + 2x + 4", "x² + 4", "x² + 4x + 2"],
+      "correct": 0,
+      "explanation": "(x + 2)² = x² + 2 × 2 × x + 2² = x² + 4x + 4"
+    },
+    {
+      "id": "8-wurz-020",
+      "question": "Vereinfache: (b - 2)(b + 2) (Hinweis: 3. Binomische Formel)",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["b² - 4", "b² + 4", "b² - 4b + 4", "b² - 2"],
+      "correct": 0,
+      "explanation": "(b - 2)(b + 2) = b² - 2² = b² - 4"
+    },
+    {
+      "id": "8-wurz-021",
+      "question": "Wie viel ist √81?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [9, 40.5, 18, 81],
+      "correct": 0,
+      "explanation": "√81 = 9, denn 9 × 9 = 81"
+    },
+    {
+      "id": "8-wurz-022",
+      "question": "Wie viel ist √121?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [11, 60.5, 22, 121],
+      "correct": 0,
+      "explanation": "√121 = 11, denn 11 × 11 = 121"
+    },
+    {
+      "id": "8-wurz-023",
+      "question": "Wie viel ist √169?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [13, 84.5, 26, 169],
+      "correct": 0,
+      "explanation": "√169 = 13, denn 13 × 13 = 169"
+    },
+    {
+      "id": "8-wurz-024",
+      "question": "Vereinfache: 2(3x - 1) + 4(x + 2)",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["10x + 6", "10x + 8", "6x + 6", "8x + 8"],
+      "correct": 0,
+      "explanation": "2(3x - 1) + 4(x + 2) = 6x - 2 + 4x + 8 = 10x + 6"
+    },
+    {
+      "id": "8-wurz-025",
+      "question": "Vereinfache: (x - 3)(x + 4)",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["x² + x - 12", "x² - 12x + 4", "x² + 4x - 3", "2x + 1"],
+      "correct": 0,
+      "explanation": "(x - 3)(x + 4) = x² + 4x - 3x - 12 = x² + x - 12"
+    },
+    {
+      "id": "8-wurz-026",
+      "question": "Vereinfache: 8x² - 4x + 2x² - 6x",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["10x² - 10x", "6x² - 10x", "10x² - 2x", "6x² - 2x"],
+      "correct": 0,
+      "explanation": "8x² + 2x² - 4x - 6x = 10x² - 10x"
+    },
+    {
+      "id": "8-wurz-027",
+      "question": "Vereinfache: (x - 5)² (Hinweis: Binomische Formel)",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["x² - 10x + 25", "x² - 5x + 25", "x² - 10x + 5", "x² - 25"],
+      "correct": 0,
+      "explanation": "(x - 5)² = x² - 2 × 5 × x + 5² = x² - 10x + 25"
+    },
+    {
+      "id": "8-wurz-028",
+      "question": "Vereinfache: (c - 4)(c + 4)",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["c² - 16", "c² + 16", "c² - 8c + 16", "c² - 8"],
+      "correct": 0,
+      "explanation": "(c - 4)(c + 4) = c² - 16"
+    },
+    {
+      "id": "8-wurz-029",
+      "question": "Wie viel ist √289?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [17, 144.5, 34, 289],
+      "correct": 0,
+      "explanation": "√289 = 17, denn 17 × 17 = 289"
+    },
+    {
+      "id": "8-wurz-030",
+      "question": "Vereinfache: (2x + 3)² (Hinweis: Binomische Formel)",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["4x² + 12x + 9", "4x² + 6x + 9", "2x² + 12x + 9", "4x² + 12x + 3"],
+      "correct": 0,
+      "explanation": "(2x + 3)² = (2x)² + 2 × 2x × 3 + 3² = 4x² + 12x + 9"
     }
   ]
 }
