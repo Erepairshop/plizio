@@ -1,10 +1,9 @@
 'use client';
 
 import React, { useState } from 'react';
-import { motion } from 'framer-motion';
-import { Pencil } from 'lucide-react';
-import ScratchpadModal from './ScratchpadModal';
-import { needsStepByStepHelp } from '@/lib/calculationHelper';
+import { motion, AnimatePresence } from 'framer-motion';
+import { Pencil, ChevronUp } from 'lucide-react';
+import DraftPanel from './draft/DraftPanel';
 
 interface ExtendedMathQuestion {
   question: string;
@@ -40,6 +39,10 @@ interface MathQuestionDisplayProps {
   isCorrect?: boolean;
   useTextInput?: boolean;
   onTextAnswer?: (answer: string) => void;
+  /** Test ID for draft state persistence */
+  testId?: string;
+  /** Question ID for draft state persistence */
+  questionId?: string;
 }
 
 // SVG Geometry: Rect with dimensions
@@ -157,21 +160,13 @@ export default function MathQuestionDisplay({
   isCorrect = false,
   useTextInput = false,
   onTextAnswer,
+  testId = "test",
+  questionId = "q0",
 }: MathQuestionDisplayProps) {
-  const [scratchpadOpen, setScratchpadOpen] = useState(false);
+  const [draftOpen, setDraftOpen] = useState(false);
   const [textAnswer, setTextAnswer] = useState('');
 
-  // Always show scratchpad button for all questions
-  const needsScratchpad = true;
-
   return (
-    <>
-      <ScratchpadModal
-        isOpen={scratchpadOpen}
-        onClose={() => setScratchpadOpen(false)}
-        questionText={question.question}
-      />
-
       <motion.div
         className="bg-gradient-to-br from-slate-900 to-slate-800 rounded-2xl p-6 md:p-8 border-2 border-white/10 shadow-2xl"
         initial={{ opacity: 0, y: 20 }}
@@ -181,18 +176,25 @@ export default function MathQuestionDisplay({
         <div className="mb-6 pb-4 border-b-2 border-white/20 flex items-start justify-between gap-4">
           <h3 className="text-lg md:text-xl font-black text-white flex-1">{question.question}</h3>
 
-          {/* Scratchpad Button */}
-          {needsScratchpad && (
-            <motion.button
-              onClick={() => setScratchpadOpen(true)}
-              className="flex-shrink-0 p-2.5 rounded-lg bg-amber-500/20 hover:bg-amber-500/30 border border-amber-500/50 text-amber-300 transition-all"
-              whileHover={{ scale: 1.05 }}
-              whileTap={{ scale: 0.95 }}
-              title="Piszkozat megnyitása"
-            >
-              <Pencil size={20} />
-            </motion.button>
-          )}
+          {/* Draft toggle button */}
+          <motion.button
+            onClick={() => setDraftOpen((v) => !v)}
+            className={`flex-shrink-0 p-2.5 rounded-lg transition-all ${
+              draftOpen
+                ? "bg-amber-500/30 border border-amber-400 text-amber-200"
+                : "bg-amber-500/20 hover:bg-amber-500/30 border border-amber-500/50 text-amber-300"
+            }`}
+            whileHover={{ scale: 1.05 }}
+            whileTap={{ scale: 0.95 }}
+            title={draftOpen ? "Piszkozat elrejtése" : "Piszkozat megnyitása"}
+          >
+            {draftOpen ? <ChevronUp size={20} /> : <Pencil size={20} />}
+          </motion.button>
+        </div>
+
+        {/* Inline Draft Panel - uses CSS visibility to preserve state on hide */}
+        <div className={draftOpen ? "mb-6" : "hidden"}>
+          <DraftPanel testId={testId} questionId={questionId} />
         </div>
 
       {/* Geometry Diagram */}
@@ -311,6 +313,5 @@ export default function MathQuestionDisplay({
           </motion.div>
         )}
       </motion.div>
-    </>
   );
 }

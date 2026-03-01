@@ -6,7 +6,7 @@ import { Canvas, useFrame } from "@react-three/fiber";
 import * as THREE from "three";
 import {
   Calculator, ArrowLeft, Check, X as XIcon,
-  RotateCcw, Home, Send, BookOpen, Sparkles, Clock, Pencil,
+  RotateCcw, Home, Send, BookOpen, Sparkles, Clock,
 } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
@@ -64,7 +64,7 @@ import RealisticKlassenarbeitDisplay from "@/components/RealisticKlassenarbeitDi
 import KlassenarbeitHeader from "@/components/KlassenarbeitHeader";
 import ExamResultsDisplay from "@/components/ExamResultsDisplay";
 import MathQuestionDisplay from "@/components/MathQuestionDisplay";
-import ScratchpadModal from "@/components/ScratchpadModal";
+import { DraftProvider } from "@/components/draft";
 import { convertToExtendedQuestion, isVisualQuestion } from "@/lib/mathQuestionUtils";
 import ModernPaperTest from "@/components/ModernPaperTest";
 import { getActiveSkin, SKINS } from "@/lib/skins";
@@ -1125,6 +1125,7 @@ export default function MathTestPage() {
     const isGrading = gameState === "grading";
 
     return (
+      <DraftProvider>
       <>
         <ModernPaperTest
           title={ui?.title || "MATEMATIKA DOLGOZAT"}
@@ -1203,6 +1204,7 @@ export default function MathTestPage() {
                   onAnswerChange={handleGroupedTaskAnswer}
                   isGrading={isGrading}
                   gradeIndex={gradingIndex}
+                  testId={`ka_${selectedGrade}_${testType}`}
                 />
               )}
 
@@ -1238,7 +1240,7 @@ export default function MathTestPage() {
                       </motion.div>
                     )}
 
-                    {/* Use MathQuestionDisplay for all questions - includes scratchpad */}
+                    {/* Use MathQuestionDisplay for all questions - includes inline draft */}
                     <MathQuestionDisplay
                       question={convertToExtendedQuestion(question)}
                       selectedAnswer={answers[qi]}
@@ -1252,6 +1254,8 @@ export default function MathTestPage() {
                           handleAnswer(qi, numAnswer);
                         }
                       }}
+                      testId={`test_${selectedGrade}_${testType}`}
+                      questionId={`q_${qi}`}
                     />
 
                     {/* Grading mark */}
@@ -1338,6 +1342,7 @@ export default function MathTestPage() {
           <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
         </div>
       </>
+      </DraftProvider>
     );
   }
 
