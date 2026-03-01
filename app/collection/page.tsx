@@ -222,8 +222,18 @@ export default function CollectionPage() {
   const [exchanged, setExchanged] = useState(false);
 
   useEffect(() => {
-    setCards(getCards());
-    setStars(getSpecialCardCount());
+    const load = () => {
+      setCards(getCards());
+      setStars(getSpecialCardCount());
+      setExchanged(false);
+    };
+    load();
+    // Re-load when page is restored from bfcache (browser back button)
+    const handlePageShow = (e: PageTransitionEvent) => {
+      if (e.persisted) load();
+    };
+    window.addEventListener("pageshow", handlePageShow);
+    return () => window.removeEventListener("pageshow", handlePageShow);
   }, []);
 
   const gameBests: GameBest[] = (() => {
@@ -263,23 +273,38 @@ export default function CollectionPage() {
   const remainderMicro = totalMicro % MICRO_PER_STAR;
 
   const handleExchange = () => {
-    if (totalExchangeable === 0) return;
-    // Greedy removal: highest rarity first, covering exactly totalExchangeable * 60 micro
-    let toFill = totalExchangeable * MICRO_PER_STAR;
+    // Always read fresh from localStorage to avoid stale React state (bfcache, etc.)
+    const freshCards = getCards();
+    const freshCounts = {
+      legendary: freshCards.filter((c) => c.rarity === "legendary").length,
+      gold: freshCards.filter((c) => c.rarity === "gold").length,
+      silver: freshCards.filter((c) => c.rarity === "silver").length,
+      bronze: freshCards.filter((c) => c.rarity === "bronze").length,
+    };
+    const freshMicro =
+      freshCounts.legendary * MICRO_PER_CARD.legendary +
+      freshCounts.gold * MICRO_PER_CARD.gold +
+      freshCounts.silver * MICRO_PER_CARD.silver +
+      freshCounts.bronze * MICRO_PER_CARD.bronze;
+    const freshExchangeable = Math.floor(freshMicro / MICRO_PER_STAR);
+    if (freshExchangeable === 0) return;
+
+    // Greedy removal: highest rarity first, covering exactly freshExchangeable * 60 micro
+    let toFill = freshExchangeable * MICRO_PER_STAR;
     const toRemove: Record<CardRarity, number> = { legendary: 0, gold: 0, silver: 0, bronze: 0 };
     for (const rarity of ["legendary", "gold", "silver", "bronze"] as CardRarity[]) {
       const value = MICRO_PER_CARD[rarity];
-      const canRemove = Math.min(Math.floor(toFill / value), rarityCounts[rarity]);
+      const canRemove = Math.min(Math.floor(toFill / value), freshCounts[rarity]);
       toRemove[rarity] = canRemove;
       toFill -= canRemove * value;
     }
     // Edge case: 1pt remainder can't be covered by bronze (2pt min) — use 1 extra bronze
-    if (toFill === 1 && toRemove.bronze < rarityCounts.bronze) toRemove.bronze += 1;
+    if (toFill === 1 && toRemove.bronze < freshCounts.bronze) toRemove.bronze += 1;
     removeCardsByRarity("legendary", toRemove.legendary);
     removeCardsByRarity("gold", toRemove.gold);
     removeCardsByRarity("silver", toRemove.silver);
     removeCardsByRarity("bronze", toRemove.bronze);
-    const newTotal = addSpecialCards(totalExchangeable);
+    const newTotal = addSpecialCards(freshExchangeable);
     setStars(newTotal);
     setCards(getCards());
     setExchanged(true);
