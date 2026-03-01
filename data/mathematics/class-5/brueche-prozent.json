@@ -93,6 +93,186 @@
       "options": [30, 40, 20, 45],
       "correct": 0,
       "explanation": "50 % von 60 € = 30 €. Der Pullover kostet jetzt 60 - 30 = 30 €."
+    },
+    {
+      "id": "5-bruch-011",
+      "question": "Wie viel ist 2/3 + 1/3?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["1", "2/3", "1/3", "3/3"],
+      "correct": 0,
+      "explanation": "2/3 + 1/3 = 3/3 = 1. Bei gleichem Nenner addiert man die Zähler."
+    },
+    {
+      "id": "5-bruch-012",
+      "question": "Wie viel ist 9/10 - 4/10?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["5/10", "13/10", "1/2", "6/10"],
+      "correct": 0,
+      "explanation": "9/10 - 4/10 = 5/10 = 1/2."
+    },
+    {
+      "id": "5-bruch-013",
+      "question": "Welcher Bruch ist größer: 4/7 oder 5/7?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["5/7", "4/7", "Beide sind gleich", "Das kann man nicht sagen"],
+      "correct": 0,
+      "explanation": "5/7 > 4/7. Bei gleichem Nenner ist der Bruch mit dem größeren Zähler größer."
+    },
+    {
+      "id": "5-bruch-014",
+      "question": "Wie viel ist 1/2 + 1/4?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["3/4", "1/4", "2/6", "1/6"],
+      "correct": 0,
+      "explanation": "1/2 = 2/4. 2/4 + 1/4 = 3/4."
+    },
+    {
+      "id": "5-bruch-015",
+      "question": "Wie viel sind 75 % von 200?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [150, 100, 125, 175],
+      "correct": 0,
+      "explanation": "75 % von 200 = 200 × 0,75 = 150"
+    },
+    {
+      "id": "5-bruch-016",
+      "question": "Wie viel sind 20 % von 250?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [50, 40, 60, 45],
+      "correct": 0,
+      "explanation": "20 % von 250 = 250 × 0,2 = 50"
+    },
+    {
+      "id": "5-bruch-017",
+      "question": "Eine Jacke kostet 90 Euro. Sie kostet 20 % weniger. Wie viel kostet sie jetzt?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [72, 70, 80, 75],
+      "correct": 0,
+      "explanation": "20 % von 90 € = 18 €. Die Jacke kostet jetzt 90 - 18 = 72 €."
+    },
+    {
+      "id": "5-bruch-018",
+      "question": "Wie viel sind 40 % von 150?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [60, 50, 70, 55],
+      "correct": 0,
+      "explanation": "40 % von 150 = 150 × 0,4 = 60"
+    },
+    {
+      "id": "5-bruch-019",
+      "question": "Ein Buch kostet 25 Euro und wird um 40 % billiger. Wie viel kostet es noch?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [15, 20, 10, 12],
+      "correct": 0,
+      "explanation": "40 % von 25 € = 10 €. Das Buch kostet jetzt 25 - 10 = 15 €."
+    },
+    {
+      "id": "5-bruch-020",
+      "question": "Wie viel ist 3/8 + 2/8?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["5/8", "1/8", "6/8", "4/8"],
+      "correct": 0,
+      "explanation": "3/8 + 2/8 = 5/8. Bei gleichem Nenner addiert man die Zähler."
+    },
+    {
+      "id": "5-bruch-021",
+      "question": "Wie viel ist 8/9 - 3/9?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["5/9", "11/9", "3/9", "6/9"],
+      "correct": 0,
+      "explanation": "8/9 - 3/9 = 5/9. Bei gleichem Nenner subtrahiert man die Zähler."
+    },
+    {
+      "id": "5-bruch-022",
+      "question": "Ein Smartphone kostet 400 Euro. Es wird um 25 % reduziert. Wie viel kostet es nach dem Rabatt?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [300, 350, 250, 280],
+      "correct": 0,
+      "explanation": "25 % von 400 € = 100 €. Das Smartphone kostet jetzt 400 - 100 = 300 €."
+    },
+    {
+      "id": "5-bruch-023",
+      "question": "Wie viel sind 60 % von 100?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [60, 40, 70, 50],
+      "correct": 0,
+      "explanation": "60 % von 100 = 100 × 0,6 = 60"
+    },
+    {
+      "id": "5-bruch-024",
+      "question": "Ein Gürtel kostet 50 Euro. Er wird um 30 % teurer. Wie viel kostet er jetzt?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [65, 60, 70, 55],
+      "correct": 0,
+      "explanation": "30 % von 50 € = 15 €. Der Gürtel kostet jetzt 50 + 15 = 65 €."
+    },
+    {
+      "id": "5-bruch-025",
+      "question": "Wie viel ist 4/5 - 2/5?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["2/5", "6/5", "1/5", "3/5"],
+      "correct": 0,
+      "explanation": "4/5 - 2/5 = 2/5."
+    },
+    {
+      "id": "5-bruch-026",
+      "question": "Wie viel ist 1/3 + 2/3?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["1", "2/3", "1/3", "3/3"],
+      "correct": 0,
+      "explanation": "1/3 + 2/3 = 3/3 = 1."
+    },
+    {
+      "id": "5-bruch-027",
+      "question": "Wie viel sind 5 % von 80?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [4, 8, 6, 3],
+      "correct": 0,
+      "explanation": "5 % von 80 = 80 × 0,05 = 4"
+    },
+    {
+      "id": "5-bruch-028",
+      "question": "Ein Paar Schuhe kostet 120 Euro und wird um 50 % billiger. Wie viel kostet es jetzt?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [60, 50, 70, 80],
+      "correct": 0,
+      "explanation": "50 % von 120 € = 60 €. Die Schuhe kosten jetzt 120 - 60 = 60 €."
+    },
+    {
+      "id": "5-bruch-029",
+      "question": "Wie viel ist 6/7 - 2/7?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["4/7", "8/7", "2/7", "5/7"],
+      "correct": 0,
+      "explanation": "6/7 - 2/7 = 4/7."
+    },
+    {
+      "id": "5-bruch-030",
+      "question": "Ein T-Shirt kostet 35 Euro und wird um 20 % reduziert. Wie viel kostet es noch?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [28, 30, 25, 27],
+      "correct": 0,
+      "explanation": "20 % von 35 € = 7 €. Das T-Shirt kostet jetzt 35 - 7 = 28 €."
     }
   ]
 }

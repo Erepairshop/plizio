@@ -93,6 +93,186 @@
       "options": [20, 120, 60, 40],
       "correct": 0,
       "explanation": "Klammer zuerst: 25 + 15 = 40. Dann 40 × 2 = 80. Dann 100 - 80 = 20."
+    },
+    {
+      "id": "5-grund-011",
+      "question": "Runde 5.624 auf den nächsten Tausender.",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [6000, 5000, 5600, 5700],
+      "correct": 0,
+      "explanation": "5.624 wird auf 6.000 aufgerundet, weil die Hunderterstelle (6) größer als 5 ist."
+    },
+    {
+      "id": "5-grund-012",
+      "question": "Ordne der Größe nach (von klein nach groß): 15.432, 15.234, 15.342. Welche Zahl ist die kleinste?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [15234, 15432, 15342, 15423],
+      "correct": 0,
+      "explanation": "Sortiert: 15.234 < 15.342 < 15.432. Die kleinste ist 15.234."
+    },
+    {
+      "id": "5-grund-013",
+      "question": "Wie viel ist 6 + 5 × 2?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [16, 22, 18, 14],
+      "correct": 0,
+      "explanation": "Punkt vor Strich: Zuerst 5 × 2 = 10, dann 6 + 10 = 16."
+    },
+    {
+      "id": "5-grund-014",
+      "question": "Wie viel ist 30 - 2 × 8?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [14, 224, 22, 20],
+      "correct": 0,
+      "explanation": "Punkt vor Strich: Zuerst 2 × 8 = 16, dann 30 - 16 = 14."
+    },
+    {
+      "id": "5-grund-015",
+      "question": "Wie viel ist (10 + 5) × 4?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [60, 45, 50, 65],
+      "correct": 0,
+      "explanation": "Klammer zuerst: 10 + 5 = 15, dann 15 × 4 = 60."
+    },
+    {
+      "id": "5-grund-016",
+      "question": "Wie viel ist 8 × 7 + 3 × 5?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [71, 280, 56, 61],
+      "correct": 0,
+      "explanation": "Punkt vor Strich: 8 × 7 = 56 und 3 × 5 = 15. Dann 56 + 15 = 71."
+    },
+    {
+      "id": "5-grund-017",
+      "question": "Runde 7.349 auf den nächsten Hunderter.",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [7300, 7400, 7350, 7000],
+      "correct": 0,
+      "explanation": "7.349 wird auf 7.300 abgerundet, weil die Zehnerstelle (4) kleiner als 5 ist."
+    },
+    {
+      "id": "5-grund-018",
+      "question": "Wie viel ist 2 × 3 + 4 × 2?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [14, 28, 16, 12],
+      "correct": 0,
+      "explanation": "Punkt vor Strich: 2 × 3 = 6 und 4 × 2 = 8. Dann 6 + 8 = 14."
+    },
+    {
+      "id": "5-grund-019",
+      "question": "Wie viel ist 50 - (10 + 5) × 2?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [20, 100, 30, 40],
+      "correct": 0,
+      "explanation": "Klammer zuerst: 10 + 5 = 15. Dann 15 × 2 = 30. Dann 50 - 30 = 20."
+    },
+    {
+      "id": "5-grund-020",
+      "question": "Welche Zahl ist größer: 23.456 oder 23.546?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["23.546", "23.456", "Beide sind gleich", "Kann man nicht sagen"],
+      "correct": 0,
+      "explanation": "23.546 > 23.456, weil an der Hunderterstelle 5 > 4 ist."
+    },
+    {
+      "id": "5-grund-021",
+      "question": "Runde 8.975 auf den nächsten Tausender.",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [9000, 8000, 9100, 8900],
+      "correct": 0,
+      "explanation": "8.975 wird auf 9.000 aufgerundet, weil die Hunderterstelle (9) größer als 5 ist."
+    },
+    {
+      "id": "5-grund-022",
+      "question": "Wie viel ist 3 × 6 + 2 × 8?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [34, 160, 26, 30],
+      "correct": 0,
+      "explanation": "Punkt vor Strich: 3 × 6 = 18 und 2 × 8 = 16. Dann 18 + 16 = 34."
+    },
+    {
+      "id": "5-grund-023",
+      "question": "Wie viel ist 40 - 3 × 7?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [19, 259, 21, 25],
+      "correct": 0,
+      "explanation": "Punkt vor Strich: Zuerst 3 × 7 = 21, dann 40 - 21 = 19."
+    },
+    {
+      "id": "5-grund-024",
+      "question": "Wie viel ist (7 + 3) × 5?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [50, 35, 45, 55],
+      "correct": 0,
+      "explanation": "Klammer zuerst: 7 + 3 = 10, dann 10 × 5 = 50."
+    },
+    {
+      "id": "5-grund-025",
+      "question": "Ordne der Größe nach: 9.876, 9.768, 9.867. Welche ist in der Mitte?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [9867, 9876, 9768, 9786],
+      "correct": 0,
+      "explanation": "Sortiert: 9.768 < 9.867 < 9.876. In der Mitte steht 9.867."
+    },
+    {
+      "id": "5-grund-026",
+      "question": "Wie viel ist 75 ÷ 5 + 3?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [18, 15, 20, 16],
+      "correct": 0,
+      "explanation": "Punkt vor Strich: 75 ÷ 5 = 15, dann 15 + 3 = 18."
+    },
+    {
+      "id": "5-grund-027",
+      "question": "Wie viel ist 60 ÷ 3 + 5?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [25, 15, 22, 20],
+      "correct": 0,
+      "explanation": "Punkt vor Strich: 60 ÷ 3 = 20, dann 20 + 5 = 25."
+    },
+    {
+      "id": "5-grund-028",
+      "question": "Runde 2.145 auf den nächsten Hunderter.",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [2100, 2200, 2150, 2000],
+      "correct": 0,
+      "explanation": "2.145 wird auf 2.100 abgerundet, weil die Zehnerstelle (4) kleiner als 5 ist."
+    },
+    {
+      "id": "5-grund-029",
+      "question": "Wie viel ist 9 × 8 - 4 × 5?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [52, 72, 28, 40],
+      "correct": 0,
+      "explanation": "Punkt vor Strich: 9 × 8 = 72 und 4 × 5 = 20. Dann 72 - 20 = 52."
+    },
+    {
+      "id": "5-grund-030",
+      "question": "Wie viel ist 200 ÷ (4 × 5)?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [10, 40, 25, 50],
+      "correct": 0,
+      "explanation": "Klammer zuerst: 4 × 5 = 20. Dann 200 ÷ 20 = 10."
     }
   ]
 }
