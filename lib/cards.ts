@@ -73,12 +73,18 @@ export function removeCardsByRarity(rarity: CardRarity, count: number): void {
   if (typeof window === "undefined" || count <= 0) return;
   const cards = getCards();
   let removed = 0;
+  const removedIds: string[] = [];
   const remaining = cards.filter((c) => {
     if (c.rarity === rarity && removed < count) {
       removed++;
+      removedIds.push(c.id);
       return false;
     }
     return true;
   });
+  if (removedIds.length > 0) {
+    const existing: string[] = JSON.parse(localStorage.getItem("plizio_redeemed_ids") || "[]");
+    localStorage.setItem("plizio_redeemed_ids", JSON.stringify([...existing, ...removedIds]));
+  }
   localStorage.setItem("plizio_cards", JSON.stringify(remaining));
 }

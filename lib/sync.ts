@@ -53,8 +53,10 @@ export async function uploadToSupabase(userId: string): Promise<void> {
 
   if (error) throw error;
 
-  // Upload cards
+  // Upload cards – upsert current, then delete any server cards no longer local
   const cards = getCards();
+  const localIds = new Set(cards.map((c: GameCard) => c.id));
+
   if (cards.length > 0) {
     const cardRows = cards.map((c: GameCard) => ({
       id: c.id,
@@ -72,6 +74,35 @@ export async function uploadToSupabase(userId: string): Promise<void> {
       .upsert(cardRows, { onConflict: "id" });
 
     if (cardError) console.error("Card sync error:", cardError);
+  }
+
+  // Delete server cards that were redeemed (tracked in plizio_redeemed_ids)
+  // Only run if we actually have local cards OR have a recorded redeemed list,
+  // to avoid accidentally wiping the server when localStorage is empty.
+  const redeemedIds: string[] = typeof window !== "undefined"
+    ? JSON.parse(localStorage.getItem("plizio_redeemed_ids") || "[]")
+    : [];
+
+  if (cards.length > 0 || redeemedIds.length > 0) {
+    const { data: serverCards } = await supabase
+      .from("cards")
+      .select("id")
+      .eq("user_id", userId);
+
+    if (serverCards && serverCards.length > 0) {
+      const toDelete = serverCards
+        .map((c: { id: string }) => c.id)
+        .filter((id: string) => !localIds.has(id));
+
+      if (toDelete.length > 0) {
+        await supabase.from("cards").delete().in("id", toDelete);
+      }
+    }
+  }
+
+  // Clear redeemed IDs tracker – server is now in sync
+  if (typeof window !== "undefined") {
+    localStorage.removeItem("plizio_redeemed_ids");
   }
 }
 
@@ -143,8 +174,9 @@ export async function downloadFromSupabase(userId: string): Promise<void> {
   if (cards && cards.length > 0) {
     const currentCards = getCards();
     const currentIds = new Set(currentCards.map((c: GameCard) => c.id));
+    const redeemedIds = new Set<string>(JSON.parse(localStorage.getItem("plizio_redeemed_ids") || "[]"));
     const newCards = cards
-      .filter((c) => !currentIds.has(c.id))
+      .filter((c) => !currentIds.has(c.id) && !redeemedIds.has(c.id))
       .map((c) => ({
         id: c.id,
         game: c.game,
@@ -159,11 +191,12 @@ export async function downloadFromSupabase(userId: string): Promise<void> {
   }
 }
 
-// Background sync (call periodically when logged in)
+// Bidirectional sync: download first (merge higher stats from server),
+// then upload (push merged state + delete redeemed cards from server).
+// Redeemed card IDs are tracked in plizio_redeemed_ids so download
+// never restores them even when they still exist on the server.
+// Errors propagate to the caller so the UI can show the error state.
 export async function syncToSupabase(userId: string): Promise<void> {
-  try {
-    await uploadToSupabase(userId);
-  } catch (e) {
-    console.error("Sync error:", e);
-  }
+  await downloadFromSupabase(userId);
+  await uploadToSupabase(userId);
 }
