@@ -175,7 +175,7 @@ function DivisionDraft({ testId, questionId, cols = 8 }: DivisionDraftProps) {
   return (
     <div className="rounded-xl p-3 sm:p-4 border border-gray-200 bg-gray-50/50">
       <div className="flex items-center justify-between mb-3">
-        <span className="text-[10px] font-bold text-gray-400 uppercase tracking-wider">Osztás</span>
+        <span className="text-[10px] font-bold text-gray-400 uppercase tracking-wider">Division</span>
         <div className="flex items-center gap-1">
           <button onClick={handleAddWorkRow} className="p-1 rounded bg-blue-50 text-blue-600 hover:bg-blue-100" tabIndex={-1}><Plus size={12} /></button>
           <button onClick={handleRemoveWorkRow} className="p-1 rounded bg-gray-100 text-gray-500 hover:bg-gray-200" disabled={state.workRows.length <= 1} tabIndex={-1}><Minus size={12} /></button>

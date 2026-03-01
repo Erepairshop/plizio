@@ -97,7 +97,7 @@ export default function ScratchpadModal({
                   >
                     <div className="bg-gradient-to-r from-blue-600 to-indigo-600 text-white p-4 sm:p-6">
                       <h2 className="text-lg sm:text-xl font-black flex items-center gap-2">
-                        📝 Szabad Piszkozat
+                        📝 Freier Entwurf
                       </h2>
                     </div>
                     <div className="p-4 sm:p-6">
