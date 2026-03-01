@@ -101,6 +101,8 @@ import MathQuestionDisplay from "@/components/MathQuestionDisplay";
 import { DraftProvider } from "@/components/draft";
 import { convertToExtendedQuestion, isVisualQuestion } from "@/lib/mathQuestionUtils";
 import ModernPaperTest from "@/components/ModernPaperTest";
+import GradingPencil from "@/components/GradingPencil";
+import TeacherNote from "@/components/TeacherNote";
 import { getActiveSkin, SKINS } from "@/lib/skins";
 
 // ─── 3D FLOATING BACKGROUND ─────────────────────────────
@@ -347,6 +349,8 @@ export default function MathTestPage() {
   const [questions, setQuestions] = useState<MathQuestion[]>([]);
   const [answers, setAnswers] = useState<(number | null)[]>([]);
   const [gradingIndex, setGradingIndex] = useState(-1);
+  const [showTeacherNote, setShowTeacherNote] = useState(false);
+  const [teacherNoteScore, setTeacherNoteScore] = useState(0);
   const [gradeResult, setGradeResult] = useState<GradeResult | null>(null);
   const [cardRarity, setCardRarity] = useState<CardRarity | null>(null);
   const [saved, setSaved] = useState(false);
@@ -512,13 +516,14 @@ export default function MathTestPage() {
       return () => clearTimeout(t);
     } else {
       // All graded
+      let pct = 0;
       if (testType === "klassenarbeit") {
         // Klassenarbeit: szekciós pontozás
         const kaResult = calculateKlassenarbeitResult(questions, answers);
         setKlassenarbeitResult(kaResult);
-        // GradeResult is set for compatibility, but kaResult is primary
         const gradeResult = calculateGradeResult(kaResult.totalPoints, kaResult.maxTotalPoints);
         setGradeResult(gradeResult);
+        pct = kaResult.maxTotalPoints > 0 ? Math.round((kaResult.totalPoints / kaResult.maxTotalPoints) * 100) : 0;
       } else {
         // Practice: egyszerű pontozás
         const score = answers.reduce<number>(
@@ -527,11 +532,16 @@ export default function MathTestPage() {
         );
         const result = calculateGradeResult(score, questions.length);
         setGradeResult(result);
+        pct = questions.length > 0 ? Math.round((score / questions.length) * 100) : 0;
       }
+      // Show teacher note before going to result
+      setTeacherNoteScore(pct);
+      setShowTeacherNote(true);
       setTimeout(() => {
+        setShowTeacherNote(false);
         window.scrollTo({ top: 0, behavior: 'smooth' });
         setGameState("result");
-      }, 600);
+      }, 3800);
     }
   }, [gameState, gradingIndex, questions, answers, testType, realisticKlassenarbeit, groupedTaskAnswers]);
 
@@ -837,13 +847,16 @@ export default function MathTestPage() {
       }
 
       // Convert Theme-based test to MathQuestion format
-      const mathQuestions: MathQuestion[] = themeBasedTest.tasks.map((task, index) => ({
+      const mathQuestions: MathQuestion[] = themeBasedTest.tasks.map((task, index) => {
+        const numOptions = task.options.map(opt => typeof opt === 'number' ? opt : parseInt(opt as string, 10));
+        return {
         question: task.question,
-        correctAnswer: task.correct, // Store the index, not the value
-        options: task.options.map(opt => typeof opt === 'number' ? opt : parseInt(opt as string, 10)),
+        correctAnswer: numOptions[task.correct], // The actual value, not the index
+        options: numOptions,
         topic: task.id,
         isWordProblem: false,
-      }));
+        };
+      });
 
       setQuestions(mathQuestions);
       setAnswers(new Array(mathQuestions.length).fill(null));
@@ -857,7 +870,7 @@ export default function MathTestPage() {
     }
   };
 
-  const handleAnswer = (questionIndex: number, answer: number) => {
+  const handleAnswer = (questionIndex: number, answer: number, scroll = true) => {
     // Track time per question for Supabase submission
     if (useSupabase && answerTimesRef.current.length > 0) {
       const now = elapsedTime;
@@ -872,16 +885,18 @@ export default function MathTestPage() {
       return next;
     });
 
-    // Scroll to next question (forward)
-    setTimeout(() => {
-      const nextQuestionIndex = questionIndex + 1;
-      if (nextQuestionIndex < questions.length) {
-        const nextElement = document.querySelector(`[data-question-id="q_${nextQuestionIndex}"]`);
-        if (nextElement) {
-          nextElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    // Scroll to next question (forward) - only when explicitly requested
+    if (scroll) {
+      setTimeout(() => {
+        const nextQuestionIndex = questionIndex + 1;
+        if (nextQuestionIndex < questions.length) {
+          const nextElement = document.querySelector(`[data-question-id="q_${nextQuestionIndex}"]`);
+          if (nextElement) {
+            nextElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }
         }
-      }
-    }, 100);
+      }, 100);
+    }
   };
 
   const handleGroupedTaskAnswer = (taskIndex: number, subQuestionId: string, answer: string | number, fieldId?: string) => {
@@ -1227,6 +1242,7 @@ export default function MathTestPage() {
               {realisticKlassenarbeit && testType === "klassenarbeit" && selectedGrade ? (
                 <KlassenarbeitHeader
                   grade={selectedGrade}
+                  studentName={user?.user_metadata?.full_name || user?.email?.split('@')[0] || undefined}
                   subject={country?.name === "Hungary" ? "Matematika" : country?.name === "Germany" ? "Mathematik" : country?.name === "Romania" ? "Matematică" : "Mathematics"}
                   startTime={Date.now()}
                 />
@@ -1285,10 +1301,10 @@ export default function MathTestPage() {
                       showResult={isGrading && isGraded}
                       isCorrect={isCorrect}
                       useTextInput={true}
-                      onTextAnswer={(textAnswer) => {
+                      onTextAnswer={(textAnswer, noScroll) => {
                         const numAnswer = parseInt(textAnswer);
                         if (!isNaN(numAnswer)) {
-                          handleAnswer(qi, numAnswer);
+                          handleAnswer(qi, numAnswer, !noScroll);
                         }
                       }}
                       testId={`test_${selectedGrade}_${testType}`}
@@ -1357,6 +1373,24 @@ export default function MathTestPage() {
           </div>
         </div>
         </ModernPaperTest>
+        {/* Grading pencil cursor */}
+        {isGrading && (
+          <GradingPencil
+            gradingIndex={gradingIndex}
+            total={questions.length}
+            isCorrect={gradingIndex >= 0 && gradingIndex < questions.length
+              ? answers[gradingIndex] === questions[gradingIndex].correctAnswer
+              : false}
+          />
+        )}
+
+        {/* Teacher note after grading */}
+        <TeacherNote
+          visible={showTeacherNote}
+          playerName={user?.user_metadata?.full_name || user?.email?.split('@')[0] || 'Schüler'}
+          percentage={teacherNoteScore}
+        />
+
         {/* Avatar - Always visible, outside test UI */}
         <div
           className="fixed bottom-0 right-0 z-50 pointer-events-none"

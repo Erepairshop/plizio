@@ -38,7 +38,7 @@ interface MathQuestionDisplayProps {
   showResult?: boolean;
   isCorrect?: boolean;
   useTextInput?: boolean;
-  onTextAnswer?: (answer: string) => void;
+  onTextAnswer?: (answer: string, noScroll?: boolean) => void;
   /** Test ID for draft state persistence */
   testId?: string;
   /** Question ID for draft state persistence */
@@ -240,7 +240,7 @@ export default function MathQuestionDisplay({
             }}
             onBlur={() => {
               if (textAnswer && onTextAnswer) {
-                onTextAnswer(textAnswer);
+                onTextAnswer(textAnswer, true); // noScroll=true: save without scrolling
               }
             }}
             placeholder="Antwort eingeben"
@@ -254,7 +254,6 @@ export default function MathQuestionDisplay({
               fontFamily: 'monospace',
               padding: '8px 4px'
             }}
-            autoFocus
           />
 
           {/* Result Feedback for text input */}
