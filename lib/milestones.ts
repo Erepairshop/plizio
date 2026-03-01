@@ -100,25 +100,18 @@ export const MILESTONES: Milestone[] = [
     reward: 3,
   },
   {
-    id: "sky_5",
-    icon: "🏔️",
-    requirement: (s) => s.skyHighestLevel >= 5,
-    progress: (s) => ({ current: Math.min(s.skyHighestLevel, 5), target: 5 }),
-    reward: 1,
-  },
-  {
-    id: "sky_10",
+    id: "sky_10_v2",
     icon: "🏔️",
     requirement: (s) => s.skyHighestLevel >= 10,
     progress: (s) => ({ current: Math.min(s.skyHighestLevel, 10), target: 10 }),
-    reward: 3,
+    reward: 1,
   },
   {
-    id: "sky_15",
+    id: "sky_17",
     icon: "🏔️",
-    requirement: (s) => s.skyHighestLevel >= 15,
-    progress: (s) => ({ current: Math.min(s.skyHighestLevel, 15), target: 15 }),
-    reward: 5,
+    requirement: (s) => s.skyHighestLevel >= 17,
+    progress: (s) => ({ current: Math.min(s.skyHighestLevel, 17), target: 17 }),
+    reward: 2,
   },
 ];
 
