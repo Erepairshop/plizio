@@ -140,8 +140,23 @@ export default function WordScramblePage() {
   useEffect(() => { setStreak(getStreak()); }, []);
 
   const startNewRound = useCallback((roundNum: number, used: string[]) => {
-    const available = wordListRef.current.filter((w) => !used.includes(w));
-    const word = available[Math.floor(Math.random() * available.length)];
+    const allWords = wordListRef.current;
+    // Difficulty progression: early rounds prefer shorter words
+    // Round 0-2: only short words (≤6 letters)
+    // Round 3-5: medium words (≤8 letters)
+    // Round 6-7: any word
+    let pool: string[];
+    if (roundNum <= 2) {
+      pool = allWords.filter((w) => w.length <= 6);
+    } else if (roundNum <= 5) {
+      pool = allWords.filter((w) => w.length <= 8);
+    } else {
+      pool = allWords;
+    }
+    if (pool.length === 0) pool = allWords;
+    const available = pool.filter((w) => !used.includes(w));
+    const finalAvailable = available.length > 0 ? available : allWords.filter((w) => !used.includes(w));
+    const word = finalAvailable[Math.floor(Math.random() * finalAvailable.length)];
     setCurrentWord(word);
     const s = shuffleWord(word);
     setScrambled(s);
