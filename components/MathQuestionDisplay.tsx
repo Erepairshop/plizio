@@ -227,35 +227,26 @@ export default function MathQuestionDisplay({
 
       {/* Answer Input */}
       {useTextInput ? (
-        <div className="space-y-3 mt-8">
-          <div className="flex gap-2">
-            <input
-              type="number"
-              value={textAnswer}
-              onChange={(e) => setTextAnswer(e.target.value)}
-              placeholder="Gib die Antwort ein..."
-              className="flex-1 px-4 py-3 rounded-xl bg-gray-50 border-2 border-gray-300 text-gray-800 placeholder-gray-400 focus:border-blue-500 focus:bg-white outline-none transition-all font-bold text-lg"
-            />
-            <motion.button
-              onClick={() => {
-                if (textAnswer && onTextAnswer) {
-                  onTextAnswer(textAnswer);
-                  setTextAnswer('');
-                }
-              }}
-              className="px-6 py-3 rounded-xl bg-blue-500 hover:bg-blue-600 border-2 border-blue-400 text-white font-bold transition-all disabled:opacity-50"
-              disabled={!textAnswer}
-              whileHover={{ scale: textAnswer ? 1.05 : 1 }}
-              whileTap={{ scale: 0.95 }}
-            >
-              Senden
-            </motion.button>
-          </div>
+        <div className="mt-4">
+          <input
+            type="number"
+            value={textAnswer}
+            onChange={(e) => setTextAnswer(e.target.value)}
+            onKeyDown={(e) => {
+              if (e.key === 'Enter' && textAnswer && onTextAnswer) {
+                onTextAnswer(textAnswer);
+                setTextAnswer('');
+              }
+            }}
+            placeholder="Antwort eingeben (Enter zum Senden)..."
+            className="w-full px-4 py-2.5 rounded-lg bg-white border-2 border-blue-300 text-gray-800 placeholder-gray-400 focus:border-blue-600 focus:ring-2 focus:ring-blue-200 outline-none transition-all font-semibold text-base"
+            autoFocus
+          />
 
           {/* Result Feedback for text input */}
           {showResult && (
             <motion.div
-              className={`p-4 rounded-lg border-2 font-bold text-center ${
+              className={`mt-2 p-3 rounded-lg border-2 font-bold text-center text-sm ${
                 isCorrect ? 'bg-green-50 border-green-500 text-green-700' : 'bg-red-50 border-red-500 text-red-700'
               }`}
               initial={{ opacity: 0 }}

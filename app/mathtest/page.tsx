@@ -501,7 +501,10 @@ export default function MathTestPage() {
       setKlassenarbeitResult(kaResult);
       const gradeResult = calculateGradeResult(kaResult.totalPoints, kaResult.maxTotalPoints);
       setGradeResult(gradeResult);
-      setTimeout(() => setGameState("result"), 600);
+      setTimeout(() => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        setGameState("result");
+      }, 600);
       return;
     }
 
@@ -526,7 +529,10 @@ export default function MathTestPage() {
         const result = calculateGradeResult(score, questions.length);
         setGradeResult(result);
       }
-      setTimeout(() => setGameState("result"), 600);
+      setTimeout(() => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        setGameState("result");
+      }, 600);
     }
   }, [gameState, gradingIndex, questions, answers, testType, realisticKlassenarbeit, groupedTaskAnswers]);
 
