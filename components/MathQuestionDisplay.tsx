@@ -261,7 +261,7 @@ export default function MathQuestionDisplay({
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
             >
-              {isCorrect ? '✅ Helyes!' : '❌ Hibás - A helyes válasz: ' + question.correctAnswer}
+              {isCorrect ? '✅ Richtig!' : '❌ Falsch - Richtige Antwort: ' + question.correctAnswer}
             </motion.div>
           )}
         </div>
@@ -312,7 +312,7 @@ export default function MathQuestionDisplay({
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
           >
-            {isCorrect ? '✅ Helyes!' : '❌ Hibás - A helyes válasz: ' + question.correctAnswer}
+            {isCorrect ? '✅ Richtig!' : '❌ Falsch - Richtige Antwort: ' + question.correctAnswer}
           </motion.div>
         )}
       </motion.div>

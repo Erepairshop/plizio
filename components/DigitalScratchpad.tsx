@@ -272,7 +272,7 @@ export default function DigitalScratchpad({
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
               >
-                Másik feladat
+                Andere Aufgabe
               </motion.button>
             </motion.div>
           )}

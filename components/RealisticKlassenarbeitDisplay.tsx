@@ -311,9 +311,9 @@ export default function RealisticKlassenarbeitDisplay({
             {isGrading && isGraded && typeof subQuestion.correctAnswer !== "object" && (
               <div className="mt-3 text-xs font-bold">
                 {userAnswer === subQuestion.correctAnswer ? (
-                  <span className="text-green-600">✓ Helyes!</span>
+                  <span className="text-green-600">✓ Richtig!</span>
                 ) : (
-                  <span className="text-red-600">✗ Helytelen! Helyes válasz: {subQuestion.correctAnswer}</span>
+                  <span className="text-red-600">✗ Falsch! Richtige Antwort: {subQuestion.correctAnswer}</span>
                 )}
               </div>
             )}
