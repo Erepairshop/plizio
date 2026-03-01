@@ -228,49 +228,29 @@ export default function MathQuestionDisplay({
       {/* Answer Input */}
       {useTextInput ? (
         <div className="mt-4 space-y-3">
-          <div className="flex gap-2">
-            <input
-              type="number"
-              value={textAnswer}
-              onChange={(e) => setTextAnswer(e.target.value)}
-              onKeyDown={(e) => {
-                if (e.key === 'Enter' && textAnswer && onTextAnswer) {
-                  onTextAnswer(textAnswer);
-                  setTextAnswer('');
-                }
-              }}
-              placeholder="Antwort eingeben"
-              className="flex-1 px-3 py-2 bg-transparent border-b-2 border-gray-400 text-gray-800 placeholder-gray-500 focus:border-blue-600 focus:ring-0 outline-none transition-all font-mono text-base"
-              style={{
-                backgroundColor: 'transparent',
-                borderTop: 'none',
-                borderLeft: 'none',
-                borderRight: 'none',
-                borderBottom: '2px solid #a0aec0',
-                fontFamily: 'monospace',
-                padding: '8px 4px'
-              }}
-              autoFocus
-            />
-            <motion.button
-              onClick={() => {
-                if (textAnswer && onTextAnswer) {
-                  onTextAnswer(textAnswer);
-                  setTextAnswer('');
-                }
-              }}
-              disabled={!textAnswer}
-              className={`px-4 py-2 rounded-lg font-bold transition-all ${
-                textAnswer
-                  ? 'bg-blue-600 hover:bg-blue-700 text-white cursor-pointer'
-                  : 'bg-gray-300 text-gray-500 cursor-not-allowed opacity-60'
-              }`}
-              whileHover={textAnswer ? { scale: 1.05 } : {}}
-              whileTap={textAnswer ? { scale: 0.95 } : {}}
-            >
-              Absenden
-            </motion.button>
-          </div>
+          <input
+            type="number"
+            value={textAnswer}
+            onChange={(e) => setTextAnswer(e.target.value)}
+            onKeyDown={(e) => {
+              if (e.key === 'Enter' && textAnswer && onTextAnswer) {
+                onTextAnswer(textAnswer);
+                setTextAnswer('');
+              }
+            }}
+            placeholder="Antwort eingeben"
+            className="w-full px-3 py-2 bg-transparent border-b-2 border-gray-400 text-gray-800 placeholder-gray-500 focus:border-blue-600 focus:ring-0 outline-none transition-all font-mono text-base"
+            style={{
+              backgroundColor: 'transparent',
+              borderTop: 'none',
+              borderLeft: 'none',
+              borderRight: 'none',
+              borderBottom: '2px solid #a0aec0',
+              fontFamily: 'monospace',
+              padding: '8px 4px'
+            }}
+            autoFocus
+          />
 
           {/* Result Feedback for text input */}
           {showResult && (

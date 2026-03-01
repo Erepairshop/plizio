@@ -117,8 +117,8 @@ function ColumnMathDraft({
 
     // Defer focus to after React commits the batched state update
     if (v.length === 1) {
-      const nextCol = ci - 1; // right-to-left for column math
-      if (nextCol >= 0) {
+      const nextCol = ci + 1; // Move forward
+      if (nextCol < cols) {
         setTimeout(() => {
           cellRefs.current[ri]?.[nextCol]?.focus();
         }, 0);
