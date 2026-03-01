@@ -14,61 +14,48 @@ type DraftType = "column" | "division" | "multiplication" | "free";
 interface DraftPanelProps {
   testId: string;
   questionId: string;
-  /** Optional hint to pre-select a draft type based on the question */
   suggestedType?: DraftType;
 }
 
-// ─── TAB DEFINITIONS ─────────────────────────────────────────────
+// ─── TAB DEFINITIONS ─────────────────────────────────────────
 
 const TABS: { type: DraftType; label: string; shortLabel: string; icon: React.ReactNode }[] = [
-  {
-    type: "column",
-    label: "Oszlopos",
-    shortLabel: "+/-",
-    icon: <Grid3X3 size={14} />,
-  },
-  {
-    type: "multiplication",
-    label: "Szorzás",
-    shortLabel: "x",
-    icon: <Multiply size={14} />,
-  },
-  {
-    type: "division",
-    label: "Osztás",
-    shortLabel: "÷",
-    icon: <Divide size={14} />,
-  },
-  {
-    type: "free",
-    label: "Szabad",
-    shortLabel: "Raj.",
-    icon: <PenTool size={14} />,
-  },
+  { type: "column", label: "Oszlopos", shortLabel: "+/-", icon: <Grid3X3 size={14} /> },
+  { type: "multiplication", label: "Szorzás", shortLabel: "×", icon: <Multiply size={14} /> },
+  { type: "division", label: "Osztás", shortLabel: "÷", icon: <Divide size={14} /> },
+  { type: "free", label: "Szabad", shortLabel: "Raj.", icon: <PenTool size={14} /> },
 ];
 
-// ─── MAIN COMPONENT ─────────────────────────────────────────────
+// ─── MAIN COMPONENT ─────────────────────────────────────────
 
 function DraftPanel({ testId, questionId, suggestedType }: DraftPanelProps) {
   const [activeType, setActiveType] = useState<DraftType>(suggestedType || "column");
 
   return (
-    <div className="space-y-2">
-      {/* Tab bar */}
-      <div className="flex gap-1 bg-gray-100 rounded-lg p-1">
+    <div
+      className="relative space-y-2"
+      style={{
+        // No stacking context, no overlay, no z-index
+        position: "relative",
+        zIndex: "auto",
+      }}
+    >
+      {/* Tab bar - neutral colors that work in both dark and light contexts */}
+      <div className="flex gap-1 bg-gray-200/80 rounded-lg p-0.5">
         {TABS.map((tab) => (
           <button
             key={tab.type}
             onClick={() => setActiveType(tab.type)}
             className={`
               flex-1 flex items-center justify-center gap-1 px-2 py-1.5 rounded-md
-              text-xs font-bold transition-all
+              text-xs font-bold transition-colors
               ${
                 activeType === tab.type
                   ? "bg-white text-gray-800 shadow-sm"
-                  : "text-gray-500 hover:text-gray-700 hover:bg-gray-50"
+                  : "text-gray-600 hover:text-gray-800 hover:bg-white/50"
               }
             `}
+            tabIndex={-1}
           >
             {tab.icon}
             <span className="hidden sm:inline">{tab.label}</span>
@@ -77,8 +64,8 @@ function DraftPanel({ testId, questionId, suggestedType }: DraftPanelProps) {
         ))}
       </div>
 
-      {/* Active draft component */}
-      <div>
+      {/* Active draft - always rendered relative, never absolute/fixed */}
+      <div className="relative">
         {activeType === "column" && (
           <ColumnMathDraft testId={testId} questionId={questionId} />
         )}

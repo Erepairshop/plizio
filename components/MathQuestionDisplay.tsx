@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { motion } from 'framer-motion';
 import { Pencil, ChevronUp } from 'lucide-react';
 import DraftPanel from './draft/DraftPanel';
 
@@ -192,8 +192,11 @@ export default function MathQuestionDisplay({
           </motion.button>
         </div>
 
-        {/* Inline Draft Panel - uses CSS visibility to preserve state on hide */}
-        <div className={draftOpen ? "mb-6" : "hidden"}>
+        {/* Inline Draft Panel - relative position, no overlay, no z-index */}
+        <div
+          className={draftOpen ? "mb-6 relative" : "hidden"}
+          style={{ isolation: "auto" }}
+        >
           <DraftPanel testId={testId} questionId={questionId} />
         </div>
 

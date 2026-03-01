@@ -182,11 +182,11 @@ function FreeDraftCanvas({
   }, [syncToProvider]);
 
   return (
-    <div className="bg-white rounded-xl p-3 sm:p-4 border border-gray-200 shadow-sm">
+    <div className="rounded-xl p-3 sm:p-4 border border-gray-200 bg-gray-50/50">
       {/* Header */}
       <div className="flex items-center justify-between mb-2">
-        <span className="text-xs font-bold text-gray-500 uppercase tracking-wider">
-          Szabad piszkozat
+        <span className="text-[10px] font-bold text-gray-400 uppercase tracking-wider">
+          Szabad
         </span>
         <div className="flex items-center gap-1">
           <button
