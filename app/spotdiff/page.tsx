@@ -9,568 +9,23 @@ import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
+import { ALL_SCENES, type SceneDef } from "./scenes";
 
 type GameState = "ready" | "playing" | "result" | "reward";
 
 const TOTAL_SCENES = 4;
+
+function pickScenes(n: number): SceneDef[] {
+  return [...ALL_SCENES].sort(() => Math.random() - 0.5).slice(0, n);
+}
 const TIME_PER_SCENE = 45;
 const MAX_SCORE = TOTAL_SCENES * 5; // 20
-
-interface Hotspot {
-  id: number;
-  cx: number;
-  cy: number;
-  r: number;
-}
 
 interface WrongClick {
   id: number;
   x: number;
   y: number;
 }
-
-// ─── SCENE 1: NAPOS PARK ────────────────────────────────────────────────────
-function ParkLeft({ found }: { found: number[] }) {
-  return (
-    <svg viewBox="0 0 320 200" style={{ display: "block", width: "100%", height: "auto" }}>
-      {/* Sky */}
-      <rect x="0" y="0" width="320" height="130" fill="#4A90D9" />
-      {/* Ground */}
-      <rect x="0" y="130" width="320" height="70" fill="#5CAD4A" />
-      {/* Path */}
-      <rect x="135" y="130" width="50" height="70" fill="#D4B483" />
-
-      {/* D3 LEFT: Cloud with top bump */}
-      <ellipse cx="88" cy="28" rx="42" ry="20" fill="white" />
-      <ellipse cx="110" cy="16" rx="28" ry="17" fill="white" />
-
-      {/* D1 LEFT: Sun with rays */}
-      <circle cx="272" cy="30" r="20" fill="#FFDC00" />
-      {[0,45,90,135,180,225,270,315].map((angle, i) => {
-        const rad = (angle * Math.PI) / 180;
-        const x1 = 272 + 24 * Math.cos(rad);
-        const y1 = 30 + 24 * Math.sin(rad);
-        const x2 = 272 + 36 * Math.cos(rad);
-        const y2 = 30 + 36 * Math.sin(rad);
-        return <line key={i} x1={x1} y1={y1} x2={x2} y2={y2} stroke="#FFDC00" strokeWidth="2.5" strokeLinecap="round" />;
-      })}
-
-      {/* Tree trunk left */}
-      <rect x="55" y="105" width="14" height="40" fill="#7B5E3A" rx="2" />
-      {/* D2 LEFT: Left tree foliage – green */}
-      <circle cx="62" cy="84" r="34" fill="#2E8B57" />
-
-      {/* Tree trunk right */}
-      <rect x="238" y="108" width="12" height="37" fill="#7B5E3A" rx="2" />
-      {/* D4 LEFT: Right tree foliage – exists */}
-      <circle cx="244" cy="86" r="30" fill="#2E8B57" />
-
-      {/* Bench */}
-      <rect x="140" y="143" width="80" height="9" fill="#A0785A" rx="3" />
-      <rect x="148" y="152" width="6" height="22" fill="#7B5E3A" />
-      <rect x="207" y="152" width="6" height="22" fill="#7B5E3A" />
-
-      {/* Flowers */}
-      <rect x="223" y="155" width="3" height="18" fill="#4CAF50" />
-      <circle cx="224" cy="150" r="8" fill="#FF4081" />
-      <rect x="241" y="155" width="3" height="18" fill="#4CAF50" />
-      <circle cx="242" cy="150" r="8" fill="#FFDC00" />
-      <rect x="259" y="155" width="3" height="18" fill="#4CAF50" />
-      {/* D5 LEFT: 3rd flower – purple */}
-      <circle cx="260" cy="150" r="8" fill="#B44DFF" />
-
-      {/* Found overlays */}
-      {found.includes(0) && <circle cx="272" cy="30" r="32" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(1) && <circle cx="62" cy="84" r="36" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(2) && <ellipse cx="100" cy="22" rx="50" ry="28" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(3) && <circle cx="244" cy="86" r="32" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(4) && <circle cx="260" cy="150" r="22" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-    </svg>
-  );
-}
-
-function ParkRight({ found, onClickSvg }: { found: number[]; onClickSvg: (e: React.MouseEvent<SVGSVGElement>) => void }) {
-  return (
-    <svg viewBox="0 0 320 200" style={{ display: "block", width: "100%", height: "auto" }} onClick={onClickSvg} className="cursor-crosshair">
-      {/* Sky */}
-      <rect x="0" y="0" width="320" height="130" fill="#4A90D9" />
-      {/* Ground */}
-      <rect x="0" y="130" width="320" height="70" fill="#5CAD4A" />
-      {/* Path */}
-      <rect x="135" y="130" width="50" height="70" fill="#D4B483" />
-
-      {/* D3 RIGHT: Cloud WITHOUT top bump (flatter) */}
-      <ellipse cx="88" cy="28" rx="42" ry="20" fill="white" />
-
-      {/* D1 RIGHT: Sun WITHOUT rays */}
-      <circle cx="272" cy="30" r="20" fill="#FFDC00" />
-
-      {/* Tree trunk left */}
-      <rect x="55" y="105" width="14" height="40" fill="#7B5E3A" rx="2" />
-      {/* D2 RIGHT: Left tree foliage – dark red */}
-      <circle cx="62" cy="84" r="34" fill="#8B1A1A" />
-
-      {/* Tree trunk right */}
-      <rect x="238" y="108" width="12" height="37" fill="#7B5E3A" rx="2" />
-      {/* D4 RIGHT: Right tree foliage MISSING */}
-
-      {/* Bench */}
-      <rect x="140" y="143" width="80" height="9" fill="#A0785A" rx="3" />
-      <rect x="148" y="152" width="6" height="22" fill="#7B5E3A" />
-      <rect x="207" y="152" width="6" height="22" fill="#7B5E3A" />
-
-      {/* Flowers */}
-      <rect x="223" y="155" width="3" height="18" fill="#4CAF50" />
-      <circle cx="224" cy="150" r="8" fill="#FF4081" />
-      <rect x="241" y="155" width="3" height="18" fill="#4CAF50" />
-      <circle cx="242" cy="150" r="8" fill="#FFDC00" />
-      <rect x="259" y="155" width="3" height="18" fill="#4CAF50" />
-      {/* D5 RIGHT: 3rd flower – pink (same as first) */}
-      <circle cx="260" cy="150" r="8" fill="#FF4081" />
-
-      {/* Found overlays */}
-      {found.includes(0) && <circle cx="272" cy="30" r="32" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(1) && <circle cx="62" cy="84" r="36" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(2) && <ellipse cx="100" cy="22" rx="50" ry="28" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(3) && <circle cx="244" cy="86" r="32" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(4) && <circle cx="260" cy="150" r="22" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-    </svg>
-  );
-}
-
-// ─── SCENE 2: VÍZ ALATTI VILÁG ──────────────────────────────────────────────
-function FishLeft({ found }: { found: number[] }) {
-  return (
-    <svg viewBox="0 0 320 200" style={{ display: "block", width: "100%", height: "auto" }}>
-      {/* Water */}
-      <rect x="0" y="0" width="320" height="200" fill="#0D4F8C" />
-      {/* Light rays */}
-      <polygon points="80,0 110,0 60,200 30,200" fill="rgba(255,255,255,0.04)" />
-      <polygon points="170,0 200,0 150,200 120,200" fill="rgba(255,255,255,0.04)" />
-      <polygon points="260,0 290,0 240,200 210,200" fill="rgba(255,255,255,0.04)" />
-      {/* Seabed */}
-      <path d="M0,165 Q80,155 160,162 Q240,170 320,158 L320,200 L0,200Z" fill="#C8A86B" />
-      {/* Seaweed L */}
-      <path d="M45,165 Q40,145 45,125 Q50,105 45,85" stroke="#2E7D32" strokeWidth="5" fill="none" strokeLinecap="round" />
-      {/* Seaweed R */}
-      <path d="M285,158 Q280,138 285,118 Q290,98 285,78" stroke="#2E7D32" strokeWidth="5" fill="none" strokeLinecap="round" />
-
-      {/* D1 LEFT: Big fish – orange */}
-      <ellipse cx="95" cy="90" rx="38" ry="22" fill="#FF6B1A" />
-      <polygon points="133,90 152,74 152,106" fill="#FF6B1A" />
-      <circle cx="80" cy="84" r="4" fill="white" />
-      <circle cx="80" cy="84" r="2" fill="#111" />
-      <rect x="102" y="70" width="4" height="40" fill="rgba(0,0,0,0.2)" />
-
-      {/* D2 LEFT: Small blue fish – exists */}
-      <ellipse cx="240" cy="55" rx="20" ry="12" fill="#00D4FF" />
-      <polygon points="260,55 275,44 275,66" fill="#00D4FF" />
-      <circle cx="232" cy="51" r="3" fill="white" />
-      <circle cx="232" cy="51" r="1.5" fill="#111" />
-
-      {/* D3 LEFT: Pink coral – exists */}
-      <path d="M260,162 L260,135 M260,140 L275,120 M260,148 L245,128" stroke="#FF4081" strokeWidth="6" strokeLinecap="round" fill="none" />
-
-      {/* D4 LEFT: 5 bubbles */}
-      <circle cx="60" cy="60" r="5" fill="none" stroke="rgba(255,255,255,0.6)" strokeWidth="1.5" />
-      <circle cx="70" cy="40" r="3.5" fill="none" stroke="rgba(255,255,255,0.6)" strokeWidth="1.5" />
-      <circle cx="130" cy="45" r="6" fill="none" stroke="rgba(255,255,255,0.6)" strokeWidth="1.5" />
-      <circle cx="145" cy="30" r="4" fill="none" stroke="rgba(255,255,255,0.6)" strokeWidth="1.5" />
-      <circle cx="50" cy="45" r="3" fill="none" stroke="rgba(255,255,255,0.6)" strokeWidth="1.5" />
-
-      {/* D5 LEFT: Starfish – orange */}
-      {[0,72,144,216,288].map((angle, i) => {
-        const rad = (angle * Math.PI) / 180;
-        const ox = 185, oy = 168;
-        const x = ox + 14 * Math.cos(rad);
-        const y = oy + 14 * Math.sin(rad);
-        return <line key={i} x1={ox} y1={oy} x2={x} y2={y} stroke="#FF7043" strokeWidth="6" strokeLinecap="round" />;
-      })}
-      <circle cx="185" cy="168" r="5" fill="#FF7043" />
-
-      {/* Found overlays */}
-      {found.includes(0) && <ellipse cx="105" cy="90" rx="45" ry="28" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(1) && <circle cx="240" cy="55" r="28" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(2) && <circle cx="260" cy="140" r="28" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(3) && <ellipse cx="100" cy="45" rx="60" ry="30" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(4) && <circle cx="185" cy="168" r="22" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-    </svg>
-  );
-}
-
-function FishRight({ found, onClickSvg }: { found: number[]; onClickSvg: (e: React.MouseEvent<SVGSVGElement>) => void }) {
-  return (
-    <svg viewBox="0 0 320 200" style={{ display: "block", width: "100%", height: "auto" }} onClick={onClickSvg} className="cursor-crosshair">
-      {/* Water */}
-      <rect x="0" y="0" width="320" height="200" fill="#0D4F8C" />
-      {/* Light rays */}
-      <polygon points="80,0 110,0 60,200 30,200" fill="rgba(255,255,255,0.04)" />
-      <polygon points="170,0 200,0 150,200 120,200" fill="rgba(255,255,255,0.04)" />
-      <polygon points="260,0 290,0 240,200 210,200" fill="rgba(255,255,255,0.04)" />
-      {/* Seabed */}
-      <path d="M0,165 Q80,155 160,162 Q240,170 320,158 L320,200 L0,200Z" fill="#C8A86B" />
-      {/* Seaweed L */}
-      <path d="M45,165 Q40,145 45,125 Q50,105 45,85" stroke="#2E7D32" strokeWidth="5" fill="none" strokeLinecap="round" />
-      {/* Seaweed R */}
-      <path d="M285,158 Q280,138 285,118 Q290,98 285,78" stroke="#2E7D32" strokeWidth="5" fill="none" strokeLinecap="round" />
-
-      {/* D1 RIGHT: Big fish – yellow/gold */}
-      <ellipse cx="95" cy="90" rx="38" ry="22" fill="#FFD700" />
-      <polygon points="133,90 152,74 152,106" fill="#FFD700" />
-      <circle cx="80" cy="84" r="4" fill="white" />
-      <circle cx="80" cy="84" r="2" fill="#111" />
-      <rect x="102" y="70" width="4" height="40" fill="rgba(0,0,0,0.2)" />
-
-      {/* D2 RIGHT: Small blue fish MISSING */}
-
-      {/* D3 RIGHT: Pink coral MISSING */}
-
-      {/* D4 RIGHT: 3 bubbles (2 missing) */}
-      <circle cx="60" cy="60" r="5" fill="none" stroke="rgba(255,255,255,0.6)" strokeWidth="1.5" />
-      <circle cx="130" cy="45" r="6" fill="none" stroke="rgba(255,255,255,0.6)" strokeWidth="1.5" />
-      <circle cx="50" cy="45" r="3" fill="none" stroke="rgba(255,255,255,0.6)" strokeWidth="1.5" />
-
-      {/* D5 RIGHT: Starfish – purple */}
-      {[0,72,144,216,288].map((angle, i) => {
-        const rad = (angle * Math.PI) / 180;
-        const ox = 185, oy = 168;
-        const x = ox + 14 * Math.cos(rad);
-        const y = oy + 14 * Math.sin(rad);
-        return <line key={i} x1={ox} y1={oy} x2={x} y2={y} stroke="#9C27B0" strokeWidth="6" strokeLinecap="round" />;
-      })}
-      <circle cx="185" cy="168" r="5" fill="#9C27B0" />
-
-      {/* Found overlays */}
-      {found.includes(0) && <ellipse cx="105" cy="90" rx="45" ry="28" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(1) && <circle cx="240" cy="55" r="28" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(2) && <circle cx="260" cy="140" r="28" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(3) && <ellipse cx="100" cy="45" rx="60" ry="30" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(4) && <circle cx="185" cy="168" r="22" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-    </svg>
-  );
-}
-
-// ─── SCENE 3: ÉJSZAKAI VÁROS ────────────────────────────────────────────────
-function CityLeft({ found }: { found: number[] }) {
-  return (
-    <svg viewBox="0 0 320 200" style={{ display: "block", width: "100%", height: "auto" }}>
-      {/* Night sky */}
-      <rect x="0" y="0" width="320" height="155" fill="#0A0A2E" />
-      {/* Road */}
-      <rect x="0" y="163" width="320" height="37" fill="#2C2C2C" />
-      {/* Sidewalk */}
-      <rect x="0" y="150" width="320" height="13" fill="#4A4A4A" />
-      {/* Road stripes */}
-      <rect x="50" y="176" width="40" height="5" fill="white" opacity="0.6" />
-      <rect x="140" y="176" width="40" height="5" fill="white" opacity="0.6" />
-      <rect x="230" y="176" width="40" height="5" fill="white" opacity="0.6" />
-
-      {/* D2 LEFT: 5 stars */}
-      <circle cx="40" cy="20" r="2" fill="white" />
-      <circle cx="130" cy="15" r="2" fill="white" />
-      <circle cx="180" cy="30" r="2" fill="white" />
-      <circle cx="85" cy="10" r="2" fill="white" />
-      <circle cx="220" cy="12" r="2" fill="white" />
-
-      {/* D1 LEFT: Full moon */}
-      <circle cx="275" cy="25" r="18" fill="#FFFACD" />
-
-      {/* Tall building */}
-      <rect x="15" y="38" width="72" height="117" fill="#1A1A3E" rx="2" />
-      {/* Windows tall building – grid 3x4 */}
-      {[0,1,2].map(col => [0,1,2,3].map(row => {
-        const wx = 25 + col * 20;
-        const wy = 48 + row * 22;
-        const isLit = col === 1 && row === 1;
-        return <rect key={`${col}-${row}`} x={wx} y={wy} width="14" height="10" fill={isLit ? "#FFD700" : "#0F0F2A"} rx="1" />;
-      }))}
-
-      {/* Mid building */}
-      <rect x="110" y="62" width="58" height="93" fill="#1E2844" rx="2" />
-      {[0,1].map(col => [0,1,2].map(row => (
-        <rect key={`m${col}-${row}`} x={120 + col * 22} y={72 + row * 22} width="14" height="10" fill="#0F0F2A" rx="1" />
-      )))}
-
-      {/* Right building */}
-      <rect x="225" y="48" width="78" height="107" fill="#1A2840" rx="2" />
-      {[0,1,2].map(col => [0,1,2,3].map(row => (
-        <rect key={`r${col}-${row}`} x={235 + col * 22} y={58 + row * 20} width="14" height="10" fill="#0F0F2A" rx="1" />
-      )))}
-
-      {/* Street lamp */}
-      <rect x="169" y="90" width="5" height="65" fill="#555" />
-      <rect x="157" y="90" width="17" height="4" fill="#555" />
-      {/* D4 LEFT: Lamp light – yellow */}
-      <ellipse cx="163" cy="90" rx="10" ry="6" fill="#FFD700" />
-
-      {/* D5 LEFT: Car – pink/red */}
-      <rect x="55" y="162" width="70" height="18" fill="#FF2D78" rx="4" />
-      <rect x="65" y="153" width="50" height="13" fill="#CC2060" rx="3" />
-      <rect x="68" y="155" width="18" height="9" fill="#0D4F8C" rx="1" />
-      <rect x="91" y="155" width="18" height="9" fill="#0D4F8C" rx="1" />
-      <circle cx="72" cy="180" r="7" fill="#111" />
-      <circle cx="72" cy="180" r="4" fill="#333" />
-      <circle cx="113" cy="180" r="7" fill="#111" />
-      <circle cx="113" cy="180" r="4" fill="#333" />
-
-      {/* Found overlays */}
-      {found.includes(0) && <circle cx="275" cy="25" r="24" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(1) && <ellipse cx="140" cy="20" rx="55" ry="18" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(2) && <circle cx="46" cy="83" r="18" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(3) && <circle cx="163" cy="90" r="20" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(4) && <rect x="45" y="148" width="100" height="38" rx="6" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-    </svg>
-  );
-}
-
-function CityRight({ found, onClickSvg }: { found: number[]; onClickSvg: (e: React.MouseEvent<SVGSVGElement>) => void }) {
-  return (
-    <svg viewBox="0 0 320 200" style={{ display: "block", width: "100%", height: "auto" }} onClick={onClickSvg} className="cursor-crosshair">
-      {/* Night sky */}
-      <rect x="0" y="0" width="320" height="155" fill="#0A0A2E" />
-      {/* Road */}
-      <rect x="0" y="163" width="320" height="37" fill="#2C2C2C" />
-      {/* Sidewalk */}
-      <rect x="0" y="150" width="320" height="13" fill="#4A4A4A" />
-      {/* Road stripes */}
-      <rect x="50" y="176" width="40" height="5" fill="white" opacity="0.6" />
-      <rect x="140" y="176" width="40" height="5" fill="white" opacity="0.6" />
-      <rect x="230" y="176" width="40" height="5" fill="white" opacity="0.6" />
-
-      {/* D2 RIGHT: 3 stars (2 missing: cx=85,cy=10 and cx=180,cy=30) */}
-      <circle cx="40" cy="20" r="2" fill="white" />
-      <circle cx="130" cy="15" r="2" fill="white" />
-      <circle cx="220" cy="12" r="2" fill="white" />
-
-      {/* D1 RIGHT: Crescent moon */}
-      <circle cx="275" cy="25" r="18" fill="#FFFACD" />
-      <circle cx="283" cy="22" r="16" fill="#0A0A2E" />
-
-      {/* Tall building */}
-      <rect x="15" y="38" width="72" height="117" fill="#1A1A3E" rx="2" />
-      {/* D3 RIGHT: All windows dark */}
-      {[0,1,2].map(col => [0,1,2,3].map(row => (
-        <rect key={`${col}-${row}`} x={25 + col * 20} y={48 + row * 22} width="14" height="10" fill="#0F0F2A" rx="1" />
-      )))}
-
-      {/* Mid building */}
-      <rect x="110" y="62" width="58" height="93" fill="#1E2844" rx="2" />
-      {[0,1].map(col => [0,1,2].map(row => (
-        <rect key={`m${col}-${row}`} x={120 + col * 22} y={72 + row * 22} width="14" height="10" fill="#0F0F2A" rx="1" />
-      )))}
-
-      {/* Right building */}
-      <rect x="225" y="48" width="78" height="107" fill="#1A2840" rx="2" />
-      {[0,1,2].map(col => [0,1,2,3].map(row => (
-        <rect key={`r${col}-${row}`} x={235 + col * 22} y={58 + row * 20} width="14" height="10" fill="#0F0F2A" rx="1" />
-      )))}
-
-      {/* Street lamp */}
-      <rect x="169" y="90" width="5" height="65" fill="#555" />
-      <rect x="157" y="90" width="17" height="4" fill="#555" />
-      {/* D4 RIGHT: Lamp light – pink */}
-      <ellipse cx="163" cy="90" rx="10" ry="6" fill="#FF2D78" />
-
-      {/* D5 RIGHT: Car – cyan/blue */}
-      <rect x="55" y="162" width="70" height="18" fill="#00D4FF" rx="4" />
-      <rect x="65" y="153" width="50" height="13" fill="#009AB8" rx="3" />
-      <rect x="68" y="155" width="18" height="9" fill="#0D4F8C" rx="1" />
-      <rect x="91" y="155" width="18" height="9" fill="#0D4F8C" rx="1" />
-      <circle cx="72" cy="180" r="7" fill="#111" />
-      <circle cx="72" cy="180" r="4" fill="#333" />
-      <circle cx="113" cy="180" r="7" fill="#111" />
-      <circle cx="113" cy="180" r="4" fill="#333" />
-
-      {/* Found overlays */}
-      {found.includes(0) && <circle cx="275" cy="25" r="24" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(1) && <ellipse cx="140" cy="20" rx="55" ry="18" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(2) && <circle cx="46" cy="83" r="18" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(3) && <circle cx="163" cy="90" r="20" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(4) && <rect x="45" y="148" width="100" height="38" rx="6" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-    </svg>
-  );
-}
-
-// ─── SCENE 4: KONYHA ─────────────────────────────────────────────────────────
-function KitchenLeft({ found }: { found: number[] }) {
-  return (
-    <svg viewBox="0 0 320 200" style={{ display: "block", width: "100%", height: "auto" }}>
-      {/* Wall */}
-      <rect x="0" y="0" width="320" height="145" fill="#F0E6D3" />
-      {/* Floor */}
-      <rect x="0" y="145" width="320" height="55" fill="#C49A6C" />
-      {/* Counter */}
-      <rect x="0" y="118" width="320" height="28" fill="#8B6914" />
-      <rect x="0" y="115" width="320" height="5" fill="#A0785A" />
-
-      {/* Cabinet Left */}
-      <rect x="5" y="8" width="88" height="82" fill="#A0785A" rx="4" />
-      <rect x="10" y="13" width="38" height="72" fill="#8B6438" rx="3" />
-      <rect x="53" y="13" width="35" height="72" fill="#8B6438" rx="3" />
-      {/* D3 LEFT: Cabinet handles – exist */}
-      <ellipse cx="30" cy="50" rx="3" ry="5" fill="#6B4A2A" />
-      <ellipse cx="70" cy="50" rx="3" ry="5" fill="#6B4A2A" />
-
-      {/* Cabinet Right */}
-      <rect x="228" y="8" width="88" height="82" fill="#A0785A" rx="4" />
-      <rect x="233" y="13" width="38" height="72" fill="#8B6438" rx="3" />
-      <rect x="276" y="13" width="35" height="72" fill="#8B6438" rx="3" />
-      {/* D3 LEFT: Right cabinet handles */}
-      <ellipse cx="253" cy="50" rx="3" ry="5" fill="#6B4A2A" />
-      <ellipse cx="293" cy="50" rx="3" ry="5" fill="#6B4A2A" />
-
-      {/* Window */}
-      <rect x="112" y="9" width="96" height="81" fill="none" stroke="#8B6438" strokeWidth="5" rx="3" />
-      <rect x="115" y="12" width="90" height="75" fill="#87CEEB" rx="2" />
-      <rect x="112" y="48" width="96" height="4" fill="#8B6438" />
-      <rect x="158" y="9" width="4" height="81" fill="#8B6438" />
-      {/* D5 LEFT: Curtains – red */}
-      <rect x="114" y="11" width="14" height="79" fill="#FF6B6B" opacity="0.75" rx="2" />
-      <rect x="194" y="11" width="14" height="79" fill="#FF6B6B" opacity="0.75" rx="2" />
-
-      {/* D2 LEFT: Flower in window – exists */}
-      <rect x="128" y="50" width="4" height="26" fill="#4CAF50" />
-      <circle cx="130" cy="44" r="10" fill="#FF4081" />
-      <ellipse cx="124" cy="58" rx="6" ry="4" fill="#4CAF50" />
-      <ellipse cx="137" cy="60" rx="6" ry="4" fill="#4CAF50" />
-
-      {/* D4 LEFT: Clock – exists */}
-      <circle cx="195" cy="55" r="18" fill="white" stroke="#8B6438" strokeWidth="2" />
-      <line x1="195" y1="55" x2="195" y2="42" stroke="#333" strokeWidth="2" strokeLinecap="round" />
-      <line x1="195" y1="55" x2="205" y2="58" stroke="#333" strokeWidth="1.5" strokeLinecap="round" />
-      <circle cx="195" cy="55" r="2" fill="#333" />
-
-      {/* D1 LEFT: Pot on counter – red */}
-      <circle cx="68" cy="112" r="22" fill="#E53935" />
-      <rect x="88" y="108" width="18" height="6" fill="#C62828" rx="3" />
-      <rect x="42" y="108" width="4" height="8" fill="#C62828" rx="2" />
-      <ellipse cx="68" cy="92" rx="22" ry="5" fill="#EF5350" />
-
-      {/* Found overlays */}
-      {found.includes(0) && <circle cx="68" cy="112" r="28" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(1) && <circle cx="130" cy="52" r="22" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(2) && <rect x="5" y="8" width="88" height="82" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" rx="4" />}
-      {found.includes(3) && <circle cx="195" cy="55" r="22" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(4) && <circle cx="121" cy="78" r="22" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-    </svg>
-  );
-}
-
-function KitchenRight({ found, onClickSvg }: { found: number[]; onClickSvg: (e: React.MouseEvent<SVGSVGElement>) => void }) {
-  return (
-    <svg viewBox="0 0 320 200" style={{ display: "block", width: "100%", height: "auto" }} onClick={onClickSvg} className="cursor-crosshair">
-      {/* Wall */}
-      <rect x="0" y="0" width="320" height="145" fill="#F0E6D3" />
-      {/* Floor */}
-      <rect x="0" y="145" width="320" height="55" fill="#C49A6C" />
-      {/* Counter */}
-      <rect x="0" y="118" width="320" height="28" fill="#8B6914" />
-      <rect x="0" y="115" width="320" height="5" fill="#A0785A" />
-
-      {/* Cabinet Left */}
-      <rect x="5" y="8" width="88" height="82" fill="#A0785A" rx="4" />
-      <rect x="10" y="13" width="38" height="72" fill="#8B6438" rx="3" />
-      <rect x="53" y="13" width="35" height="72" fill="#8B6438" rx="3" />
-      {/* D3 RIGHT: Cabinet handles MISSING */}
-
-      {/* Cabinet Right */}
-      <rect x="228" y="8" width="88" height="82" fill="#A0785A" rx="4" />
-      <rect x="233" y="13" width="38" height="72" fill="#8B6438" rx="3" />
-      <rect x="276" y="13" width="35" height="72" fill="#8B6438" rx="3" />
-      {/* D3 RIGHT: Right cabinet handles MISSING */}
-
-      {/* Window */}
-      <rect x="112" y="9" width="96" height="81" fill="none" stroke="#8B6438" strokeWidth="5" rx="3" />
-      <rect x="115" y="12" width="90" height="75" fill="#87CEEB" rx="2" />
-      <rect x="112" y="48" width="96" height="4" fill="#8B6438" />
-      <rect x="158" y="9" width="4" height="81" fill="#8B6438" />
-      {/* D5 RIGHT: Curtains – blue */}
-      <rect x="114" y="11" width="14" height="79" fill="#6B9FFF" opacity="0.75" rx="2" />
-      <rect x="194" y="11" width="14" height="79" fill="#6B9FFF" opacity="0.75" rx="2" />
-
-      {/* D2 RIGHT: Flower in window MISSING */}
-
-      {/* D4 RIGHT: Clock MISSING */}
-
-      {/* D1 RIGHT: Pot on counter – blue */}
-      <circle cx="68" cy="112" r="22" fill="#1565C0" />
-      <rect x="88" y="108" width="18" height="6" fill="#0D47A1" rx="3" />
-      <rect x="42" y="108" width="4" height="8" fill="#0D47A1" rx="2" />
-      <ellipse cx="68" cy="92" rx="22" ry="5" fill="#1976D2" />
-
-      {/* Found overlays */}
-      {found.includes(0) && <circle cx="68" cy="112" r="28" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(1) && <circle cx="130" cy="52" r="22" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(2) && <rect x="5" y="8" width="88" height="82" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" rx="4" />}
-      {found.includes(3) && <circle cx="195" cy="55" r="22" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(4) && <circle cx="121" cy="78" r="22" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-    </svg>
-  );
-}
-
-// ─── SCENE DEFINITIONS ───────────────────────────────────────────────────────
-interface SceneDef {
-  id: string;
-  title: string;
-  hotspots: { id: number; cx: number; cy: number; r: number }[];
-  LeftSVG: React.FC<{ found: number[] }>;
-  RightSVG: React.FC<{ found: number[]; onClickSvg: (e: React.MouseEvent<SVGSVGElement>) => void }>;
-}
-
-const SCENES: SceneDef[] = [
-  {
-    id: "park",
-    title: "Napos Park",
-    hotspots: [
-      { id: 0, cx: 272, cy: 30, r: 32 },
-      { id: 1, cx: 62,  cy: 84, r: 36 },
-      { id: 2, cx: 100, cy: 22, r: 42 },
-      { id: 3, cx: 244, cy: 86, r: 32 },
-      { id: 4, cx: 260, cy: 150, r: 20 },
-    ],
-    LeftSVG: ParkLeft,
-    RightSVG: ParkRight,
-  },
-  {
-    id: "underwater",
-    title: "Víz Alatti Világ",
-    hotspots: [
-      { id: 0, cx: 105, cy: 90,  r: 45 },
-      { id: 1, cx: 240, cy: 55,  r: 28 },
-      { id: 2, cx: 260, cy: 140, r: 28 },
-      { id: 3, cx: 100, cy: 45,  r: 60 },
-      { id: 4, cx: 185, cy: 168, r: 22 },
-    ],
-    LeftSVG: FishLeft,
-    RightSVG: FishRight,
-  },
-  {
-    id: "city",
-    title: "Éjszakai Város",
-    hotspots: [
-      { id: 0, cx: 275, cy: 25,  r: 24 },
-      { id: 1, cx: 140, cy: 20,  r: 55 },
-      { id: 2, cx: 46,  cy: 83,  r: 18 },
-      { id: 3, cx: 163, cy: 90,  r: 20 },
-      { id: 4, cx: 90,  cy: 168, r: 42 },
-    ],
-    LeftSVG: CityLeft,
-    RightSVG: CityRight,
-  },
-  {
-    id: "kitchen",
-    title: "Konyha",
-    hotspots: [
-      { id: 0, cx: 68,  cy: 112, r: 28 },
-      { id: 1, cx: 130, cy: 52,  r: 22 },
-      { id: 2, cx: 50,  cy: 50,  r: 55 },
-      { id: 3, cx: 195, cy: 55,  r: 22 },
-      { id: 4, cx: 121, cy: 78,  r: 22 },
-    ],
-    LeftSVG: KitchenLeft,
-    RightSVG: KitchenRight,
-  },
-];
 
 // ─── STREAK HELPERS ───────────────────────────────────────────────────────────
 function getStreak(): number {
@@ -603,6 +58,7 @@ function updateStreak(): number {
 // ─── MAIN COMPONENT ───────────────────────────────────────────────────────────
 export default function SpotDiffPage() {
   const [gameState, setGameState] = useState<GameState>("ready");
+  const [pickedScenes, setPickedScenes] = useState<SceneDef[]>(() => pickScenes(TOTAL_SCENES));
   const [sceneIndex, setSceneIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [foundInScene, setFoundInScene] = useState<number[]>([]);
@@ -642,6 +98,7 @@ export default function SpotDiffPage() {
   }, []);
 
   const startGame = () => {
+    setPickedScenes(pickScenes(TOTAL_SCENES));
     setSceneIndex(0);
     setScore(0);
     setFoundInScene([]);
@@ -665,7 +122,7 @@ export default function SpotDiffPage() {
   // SVG click handler for right image
   const handleSvgClick = useCallback((e: React.MouseEvent<SVGSVGElement>) => {
     if (gameState !== "playing") return;
-    const scene = SCENES[sceneIndex];
+    const scene = pickedScenes[sceneIndex];
     const svg = e.currentTarget;
     const rect = svg.getBoundingClientRect();
     // Convert to SVG coordinate space (viewBox 320x200)
@@ -697,7 +154,7 @@ export default function SpotDiffPage() {
     setTimeout(() => setWrongClicks((prev) => prev.filter((w) => w.id !== id)), 600);
   }, [gameState, sceneIndex, foundInScene, score, goNextScene]);
 
-  const scene = SCENES[sceneIndex];
+  const scene = pickedScenes[sceneIndex];
   const timerColor = timeLeft <= 3 ? "text-neon-pink" : timeLeft <= 10 ? "text-gold" : "text-white/60";
 
   return (
@@ -774,7 +231,7 @@ export default function SpotDiffPage() {
           {/* ORIGINAL image */}
           <div className="text-white/25 text-xs font-bold tracking-widest self-start ml-1">EREDETI</div>
           <div className="w-full bg-card/50 border border-white/8 rounded-2xl overflow-hidden">
-            <scene.LeftSVG found={foundInScene} />
+            <scene.SVG isRight={false} found={foundInScene} hotspots={scene.hotspots} />
           </div>
 
           {/* Label */}
@@ -782,7 +239,7 @@ export default function SpotDiffPage() {
 
           {/* MODIFIED image – clickable */}
           <div className="w-full bg-card/50 border border-amber-500/25 rounded-2xl overflow-hidden relative">
-            <scene.RightSVG found={foundInScene} onClickSvg={handleSvgClick} />
+            <scene.SVG isRight={true} found={foundInScene} hotspots={scene.hotspots} onClick={handleSvgClick} />
             {/* Wrong click ripples (positioned over the SVG) */}
             {wrongClicks.map((wc) => (
               <motion.div
