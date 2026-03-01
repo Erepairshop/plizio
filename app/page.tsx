@@ -310,7 +310,7 @@ export default function Home() {
     // Initialize open/closed state for all categories
     const initialOpenState: Record<string, boolean> = {};
     translatedCategories.forEach((cat) => {
-      initialOpenState[cat.label] = true;
+      initialOpenState[cat.label] = false;
     });
     setOpenCategories(initialOpenState);
   }, [lang]);
