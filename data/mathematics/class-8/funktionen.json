@@ -1,0 +1,98 @@
+{
+  "class": 8,
+  "theme": "Funktionen",
+  "language": "de",
+  "description": "Lineare Funktionen verstehen und Funktionswerte berechnen in der 8. Klasse",
+  "tasks": [
+    {
+      "id": "8-funk-001",
+      "question": "Die Funktion lautet f(x) = 2x + 3. Was ist der y-Achsenabschnitt?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [3, 2, 5, 0],
+      "correct": 0,
+      "explanation": "Bei f(x) = mx + b ist b der y-Achsenabschnitt. Hier ist b = 3."
+    },
+    {
+      "id": "8-funk-002",
+      "question": "Die Funktion lautet f(x) = 2x + 3. Wie groß ist die Steigung?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [2, 3, 5, 1],
+      "correct": 0,
+      "explanation": "Bei f(x) = mx + b ist m die Steigung. Hier ist m = 2."
+    },
+    {
+      "id": "8-funk-003",
+      "question": "Welche Funktion hat die Steigung 3 und den y-Achsenabschnitt -1?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["f(x) = 3x - 1", "f(x) = -x + 3", "f(x) = x + 3", "f(x) = -3x + 1"],
+      "correct": 0,
+      "explanation": "Steigung m = 3 und y-Achsenabschnitt b = -1 ergibt f(x) = 3x - 1."
+    },
+    {
+      "id": "8-funk-004",
+      "question": "Die Gerade geht durch die Punkte (0, 2) und (1, 5). Wie lautet die Funktionsgleichung?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["f(x) = 3x + 2", "f(x) = 2x + 3", "f(x) = 5x + 2", "f(x) = 2x + 5"],
+      "correct": 0,
+      "explanation": "Steigung = (5 - 2) / (1 - 0) = 3. y-Achsenabschnitt = 2. Also f(x) = 3x + 2."
+    },
+    {
+      "id": "8-funk-005",
+      "question": "Die Funktion f(x) = -2x + 8 schneidet die x-Achse bei welchem Wert?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [4, -4, 8, -8],
+      "correct": 0,
+      "explanation": "Nullstelle: 0 = -2x + 8 → 2x = 8 → x = 4"
+    },
+    {
+      "id": "8-funk-006",
+      "question": "Berechne f(3) für f(x) = 4x - 5.",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [7, 12, 2, 17],
+      "correct": 0,
+      "explanation": "f(3) = 4 × 3 - 5 = 12 - 5 = 7"
+    },
+    {
+      "id": "8-funk-007",
+      "question": "Berechne f(-2) für f(x) = 3x + 10.",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [4, -4, 16, 10],
+      "correct": 0,
+      "explanation": "f(-2) = 3 × (-2) + 10 = -6 + 10 = 4"
+    },
+    {
+      "id": "8-funk-008",
+      "question": "Für welches x ist f(x) = 0, wenn f(x) = 5x - 15?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [3, -3, 15, 5],
+      "correct": 0,
+      "explanation": "0 = 5x - 15 → 5x = 15 → x = 3"
+    },
+    {
+      "id": "8-funk-009",
+      "question": "Berechne f(4) für f(x) = x² - 2x + 1.",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [9, 7, 11, 13],
+      "correct": 0,
+      "explanation": "f(4) = 4² - 2 × 4 + 1 = 16 - 8 + 1 = 9"
+    },
+    {
+      "id": "8-funk-010",
+      "question": "Zwei Funktionen: f(x) = 2x + 1 und g(x) = x + 4. Bei welchem x schneiden sie sich?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [3, 5, 1, -3],
+      "correct": 0,
+      "explanation": "2x + 1 = x + 4 → x = 3. Schnittpunkt bei x = 3."
+    }
+  ]
+}

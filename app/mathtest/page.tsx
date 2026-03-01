@@ -39,7 +39,19 @@ import {
   type Test as ThemeBasedTest,
 } from "@/lib/mathTestGenerator";
 import HierarchicalThemeSelector from "@/components/HierarchicalThemeSelector";
-import curriculum from "@/data/mathematics/class-4/curriculum.json";
+import curriculum1 from "@/data/mathematics/class-1/curriculum.json";
+import curriculum2 from "@/data/mathematics/class-2/curriculum.json";
+import curriculum3 from "@/data/mathematics/class-3/curriculum.json";
+import curriculum4 from "@/data/mathematics/class-4/curriculum.json";
+import curriculum5 from "@/data/mathematics/class-5/curriculum.json";
+import curriculum6 from "@/data/mathematics/class-6/curriculum.json";
+import curriculum7 from "@/data/mathematics/class-7/curriculum.json";
+import curriculum8 from "@/data/mathematics/class-8/curriculum.json";
+
+const CURRICULA: Record<number, typeof curriculum4> = {
+  1: curriculum1, 2: curriculum2, 3: curriculum3, 4: curriculum4,
+  5: curriculum5, 6: curriculum6, 7: curriculum7, 8: curriculum8,
+};
 import {
   COUNTRIES,
   getCountryByCode,
@@ -610,10 +622,13 @@ export default function MathTestPage() {
     localStorage.setItem("klassenarbeitStartTime", now.toString());
 
     try {
+      const gradeCurriculum = CURRICULA[selectedGrade!];
+      if (!gradeCurriculum) throw new Error(`No curriculum for grade ${selectedGrade}`);
+
       // Collect all task IDs from selected subtopics
       const allTaskIds: string[] = [];
 
-      for (const theme of curriculum.themes) {
+      for (const theme of gradeCurriculum.themes) {
         for (const subtopic of theme.subtopics) {
           if (selectedSubtopics.includes(subtopic.id)) {
             allTaskIds.push(...subtopic.taskIds);
@@ -632,7 +647,7 @@ export default function MathTestPage() {
 
       // Get unique task files needed
       const taskFilesNeeded = new Set<string>();
-      for (const theme of curriculum.themes) {
+      for (const theme of gradeCurriculum.themes) {
         for (const subtopic of theme.subtopics) {
           if (selectedSubtopics.includes(subtopic.id)) {
             taskFilesNeeded.add(subtopic.taskFile);
@@ -644,7 +659,7 @@ export default function MathTestPage() {
       for (const fileName of taskFilesNeeded) {
         try {
           // Dynamically import the task file
-          const module = await import(`@/data/mathematics/class-4/${fileName.replace('.json', '')}`);
+          const module = await import(`@/data/mathematics/class-${selectedGrade}/${fileName.replace('.json', '')}`);
           const fileData = module.default;
 
           // Filter tasks by selected task IDs
@@ -969,7 +984,7 @@ export default function MathTestPage() {
 
             {/* Hierarchical Theme Selector */}
             <HierarchicalThemeSelector
-              themes={curriculum.themes}
+              themes={(CURRICULA[selectedGrade!] || CURRICULA[4]).themes}
               selectedSubtopics={selectedSubtopics}
               onSubtopicToggle={handleSubtopicToggle}
               onPreview={handlePreviewSubtopic}

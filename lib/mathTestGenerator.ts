@@ -84,7 +84,16 @@ function shuffleArray<T>(array: T[]): T[] {
 export function generateTest(classLevel: number, themeName: string): Test {
   const themes = THEMES[classLevel];
   if (!themes) {
-    throw new Error(`Class ${classLevel} not supported`);
+    // Return empty test for classes without static theme data
+    return {
+      id: `test-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`,
+      class: classLevel,
+      theme: themeName,
+      testNumber: Math.floor(Math.random() * 1000) + 1,
+      totalTime: 30 * 60,
+      tasks: [],
+      createdAt: new Date(),
+    };
   }
 
   const selectedTheme = themes.find(t => t.theme === themeName);

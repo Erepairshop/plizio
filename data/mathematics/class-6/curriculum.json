@@ -1,0 +1,106 @@
+{
+  "class": 6,
+  "language": "de",
+  "themes": [
+    {
+      "id": "negative-zahlen",
+      "name": "Negative Zahlen",
+      "color": "#ef4444",
+      "icon": "➖",
+      "description": "Rechnen mit negativen Zahlen und Zahlenstrahl",
+      "subtopics": [
+        {
+          "id": "rechnen-negativ",
+          "name": "Rechnen mit negativen Zahlen",
+          "color": "#ef4444",
+          "icon": "➖",
+          "taskFile": "negative-zahlen.json",
+          "taskIds": ["6-neg-001", "6-neg-002", "6-neg-003", "6-neg-004", "6-neg-005"]
+        },
+        {
+          "id": "zahlenstrahl",
+          "name": "Zahlenstrahl",
+          "color": "#dc2626",
+          "icon": "📏",
+          "taskFile": "negative-zahlen.json",
+          "taskIds": ["6-neg-006", "6-neg-007", "6-neg-008", "6-neg-009", "6-neg-010"]
+        }
+      ]
+    },
+    {
+      "id": "bruchrechnung",
+      "name": "Bruchrechnung",
+      "color": "#8b5cf6",
+      "icon": "🥧",
+      "description": "Brüche multiplizieren und dividieren",
+      "subtopics": [
+        {
+          "id": "brueche-multiplizieren",
+          "name": "Brüche multiplizieren",
+          "color": "#8b5cf6",
+          "icon": "✖️",
+          "taskFile": "bruchrechnung.json",
+          "taskIds": ["6-bruch-001", "6-bruch-002", "6-bruch-003", "6-bruch-004", "6-bruch-005"]
+        },
+        {
+          "id": "brueche-dividieren",
+          "name": "Brüche dividieren",
+          "color": "#7c3aed",
+          "icon": "➗",
+          "taskFile": "bruchrechnung.json",
+          "taskIds": ["6-bruch-006", "6-bruch-007", "6-bruch-008", "6-bruch-009", "6-bruch-010"]
+        }
+      ]
+    },
+    {
+      "id": "verhaeltnisse-prozent",
+      "name": "Verhältnisse und Prozent",
+      "color": "#f59e0b",
+      "icon": "💯",
+      "description": "Verhältnisse verstehen und Prozentrechnung",
+      "subtopics": [
+        {
+          "id": "verhaeltnisse",
+          "name": "Verhältnisse",
+          "color": "#f59e0b",
+          "icon": "⚖️",
+          "taskFile": "verhaeltnisse-prozent.json",
+          "taskIds": ["6-verh-001", "6-verh-002", "6-verh-003", "6-verh-004", "6-verh-005"]
+        },
+        {
+          "id": "prozent",
+          "name": "Prozentrechnung",
+          "color": "#d97706",
+          "icon": "💯",
+          "taskFile": "verhaeltnisse-prozent.json",
+          "taskIds": ["6-verh-006", "6-verh-007", "6-verh-008", "6-verh-009", "6-verh-010"]
+        }
+      ]
+    },
+    {
+      "id": "geometrie",
+      "name": "Geometrie",
+      "color": "#ec4899",
+      "icon": "📐",
+      "description": "Flächen berechnen und Geschwindigkeit",
+      "subtopics": [
+        {
+          "id": "flaechen",
+          "name": "Flächen berechnen",
+          "color": "#ec4899",
+          "icon": "📐",
+          "taskFile": "geometrie.json",
+          "taskIds": ["6-geo-001", "6-geo-002", "6-geo-003", "6-geo-004", "6-geo-005"]
+        },
+        {
+          "id": "geschwindigkeit",
+          "name": "Geschwindigkeit und Weg",
+          "color": "#db2777",
+          "icon": "🚗",
+          "taskFile": "geometrie.json",
+          "taskIds": ["6-geo-006", "6-geo-007", "6-geo-008", "6-geo-009", "6-geo-010"]
+        }
+      ]
+    }
+  ]
+}

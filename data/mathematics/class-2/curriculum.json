@@ -1,0 +1,114 @@
+{
+  "class": 2,
+  "language": "de",
+  "themes": [
+    {
+      "id": "zahlen-und-rechnen",
+      "name": "Zahlen und Rechnen",
+      "color": "#3b82f6",
+      "icon": "🔢",
+      "description": "Addition und Subtraktion im Zahlenraum bis 100",
+      "subtopics": [
+        {
+          "id": "addition-bis-100",
+          "name": "Addition bis 100",
+          "color": "#60a5fa",
+          "icon": "➕",
+          "taskFile": "zahlen-und-rechnen.json",
+          "taskIds": ["2-zahl-001", "2-zahl-002", "2-zahl-003", "2-zahl-004", "2-zahl-005"]
+        },
+        {
+          "id": "subtraktion-bis-100",
+          "name": "Subtraktion bis 100",
+          "color": "#3b82f6",
+          "icon": "➖",
+          "taskFile": "zahlen-und-rechnen.json",
+          "taskIds": ["2-zahl-006", "2-zahl-007", "2-zahl-008", "2-zahl-009", "2-zahl-010"]
+        },
+        {
+          "id": "zehnerzahlen",
+          "name": "Zehnerzahlen",
+          "color": "#1e40af",
+          "icon": "🔟",
+          "taskFile": "zahlen-und-rechnen.json",
+          "taskIds": ["2-zahl-011", "2-zahl-012", "2-zahl-013", "2-zahl-014", "2-zahl-015"]
+        }
+      ]
+    },
+    {
+      "id": "multiplikation-division",
+      "name": "Multiplikation und Division",
+      "color": "#8b5cf6",
+      "icon": "✖️",
+      "description": "Einmaleins und einfache Division",
+      "subtopics": [
+        {
+          "id": "einmaleins-2-5-10",
+          "name": "Einmaleins (×2, ×5, ×10)",
+          "color": "#a78bfa",
+          "icon": "🔢",
+          "taskFile": "multiplikation-division.json",
+          "taskIds": ["2-mul-001", "2-mul-002", "2-mul-003", "2-mul-004", "2-mul-005"]
+        },
+        {
+          "id": "einfache-division",
+          "name": "Division",
+          "color": "#8b5cf6",
+          "icon": "➗",
+          "taskFile": "multiplikation-division.json",
+          "taskIds": ["2-mul-006", "2-mul-007", "2-mul-008", "2-mul-009", "2-mul-010"]
+        }
+      ]
+    },
+    {
+      "id": "sachaufgaben",
+      "name": "Sachaufgaben",
+      "color": "#f59e0b",
+      "icon": "📖",
+      "description": "Textaufgaben und Zahlenreihen",
+      "subtopics": [
+        {
+          "id": "textaufgaben",
+          "name": "Textaufgaben",
+          "color": "#fbbf24",
+          "icon": "📝",
+          "taskFile": "sachaufgaben.json",
+          "taskIds": ["2-sach-001", "2-sach-002", "2-sach-003", "2-sach-004", "2-sach-005"]
+        },
+        {
+          "id": "zahlenreihen",
+          "name": "Zahlenreihen",
+          "color": "#f59e0b",
+          "icon": "🔄",
+          "taskFile": "sachaufgaben.json",
+          "taskIds": ["2-sach-006", "2-sach-007", "2-sach-008", "2-sach-009", "2-sach-010"]
+        }
+      ]
+    },
+    {
+      "id": "groessen-messen",
+      "name": "Größen und Messen",
+      "color": "#10b981",
+      "icon": "📏",
+      "description": "Längen, Zeit und Geld",
+      "subtopics": [
+        {
+          "id": "laengen-zeit",
+          "name": "Längen und Zeit",
+          "color": "#6ee7b7",
+          "icon": "📏",
+          "taskFile": "groessen-messen.json",
+          "taskIds": ["2-mass-001", "2-mass-002", "2-mass-003", "2-mass-004", "2-mass-005"]
+        },
+        {
+          "id": "geld-rechnen",
+          "name": "Geld rechnen",
+          "color": "#10b981",
+          "icon": "💰",
+          "taskFile": "groessen-messen.json",
+          "taskIds": ["2-mass-006", "2-mass-007", "2-mass-008", "2-mass-009", "2-mass-010"]
+        }
+      ]
+    }
+  ]
+}

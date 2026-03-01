@@ -1,0 +1,98 @@
+{
+  "class": 2,
+  "theme": "Größen und Messen",
+  "language": "de",
+  "description": "Längen, Zeit und Geld für die 2. Klasse",
+  "tasks": [
+    {
+      "id": "2-mass-001",
+      "question": "Wie viele Zentimeter sind 1 Meter?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [100, 10, 50, 1000],
+      "correct": 0,
+      "explanation": "1 Meter = 100 Zentimeter"
+    },
+    {
+      "id": "2-mass-002",
+      "question": "Was ist länger: 50 cm oder 1 m?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["1 m", "50 cm", "Gleich lang", "Kann man nicht vergleichen"],
+      "correct": 0,
+      "explanation": "1 m = 100 cm, also ist 1 m länger als 50 cm"
+    },
+    {
+      "id": "2-mass-003",
+      "question": "Ein Lineal ist 30 cm lang. Wie lang sind 2 Lineale hintereinander?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [60, 50, 40, 90],
+      "correct": 0,
+      "explanation": "30 cm + 30 cm = 60 cm"
+    },
+    {
+      "id": "2-mass-004",
+      "question": "Wie viel Uhr ist es, wenn der große Zeiger auf 3 und der kleine Zeiger auf 6 steht?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Viertel nach 6", "Viertel vor 6", "6 Uhr", "Halb 6"],
+      "correct": 0,
+      "explanation": "Wenn der große Zeiger auf 3 steht, ist es Viertel nach. Der kleine Zeiger zeigt 6, also Viertel nach 6."
+    },
+    {
+      "id": "2-mass-005",
+      "question": "Wie viele Minuten hat eine halbe Stunde?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [30, 20, 45, 60],
+      "correct": 0,
+      "explanation": "Eine Stunde hat 60 Minuten. Die Hälfte davon sind 30 Minuten."
+    },
+    {
+      "id": "2-mass-006",
+      "question": "Ein Eis kostet 2 Euro. Du bezahlst mit einem 5-Euro-Schein. Wie viel Rückgeld bekommst du?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [3, 2, 4, 1],
+      "correct": 0,
+      "explanation": "5 - 2 = 3 Euro Rückgeld"
+    },
+    {
+      "id": "2-mass-007",
+      "question": "Ein Heft kostet 1 Euro und 50 Cent. Ein Bleistift kostet 50 Cent. Wie viel kosten beide zusammen?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["2 Euro", "1 Euro 50 Cent", "3 Euro", "2 Euro 50 Cent"],
+      "correct": 0,
+      "explanation": "1 Euro 50 Cent + 50 Cent = 2 Euro"
+    },
+    {
+      "id": "2-mass-008",
+      "question": "Du hast 10 Euro. Du kaufst ein Buch für 6 Euro und einen Stift für 2 Euro. Wie viel Geld bleibt übrig?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [2, 3, 1, 4],
+      "correct": 0,
+      "explanation": "10 - 6 - 2 = 2 Euro"
+    },
+    {
+      "id": "2-mass-009",
+      "question": "Wie viel Cent sind 3 Euro und 25 Cent?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [325, 300, 350, 225],
+      "correct": 0,
+      "explanation": "3 Euro = 300 Cent, plus 25 Cent = 325 Cent"
+    },
+    {
+      "id": "2-mass-010",
+      "question": "Anna hat drei 2-Euro-Münzen und fünf 1-Euro-Münzen. Wie viel Geld hat sie?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [11, 10, 12, 8],
+      "correct": 0,
+      "explanation": "3 × 2 Euro = 6 Euro, plus 5 × 1 Euro = 5 Euro. Zusammen: 6 + 5 = 11 Euro"
+    }
+  ]
+}

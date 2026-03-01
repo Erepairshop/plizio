@@ -1,0 +1,106 @@
+{
+  "class": 5,
+  "language": "de",
+  "themes": [
+    {
+      "id": "grundrechenarten",
+      "name": "Grundrechenarten",
+      "color": "#3b82f6",
+      "icon": "🔢",
+      "description": "Große Zahlen, Runden und Rechenregeln",
+      "subtopics": [
+        {
+          "id": "grosse-zahlen",
+          "name": "Große Zahlen und Runden",
+          "color": "#60a5fa",
+          "icon": "🔢",
+          "taskFile": "grundrechenarten.json",
+          "taskIds": ["5-grund-001", "5-grund-002", "5-grund-003", "5-grund-004", "5-grund-005"]
+        },
+        {
+          "id": "rechenregeln",
+          "name": "Rechenregeln (Punkt vor Strich)",
+          "color": "#3b82f6",
+          "icon": "⚙️",
+          "taskFile": "grundrechenarten.json",
+          "taskIds": ["5-grund-006", "5-grund-007", "5-grund-008", "5-grund-009", "5-grund-010"]
+        }
+      ]
+    },
+    {
+      "id": "brueche-prozent",
+      "name": "Brüche und Prozent",
+      "color": "#8b5cf6",
+      "icon": "🥧",
+      "description": "Bruchrechnung und Prozentrechnung",
+      "subtopics": [
+        {
+          "id": "bruchrechnung",
+          "name": "Bruchrechnung",
+          "color": "#a78bfa",
+          "icon": "🥧",
+          "taskFile": "brueche-prozent.json",
+          "taskIds": ["5-bruch-001", "5-bruch-002", "5-bruch-003", "5-bruch-004", "5-bruch-005"]
+        },
+        {
+          "id": "prozentrechnung",
+          "name": "Prozentrechnung",
+          "color": "#8b5cf6",
+          "icon": "💯",
+          "taskFile": "brueche-prozent.json",
+          "taskIds": ["5-bruch-006", "5-bruch-007", "5-bruch-008", "5-bruch-009", "5-bruch-010"]
+        }
+      ]
+    },
+    {
+      "id": "geometrie",
+      "name": "Geometrie",
+      "color": "#ec4899",
+      "icon": "📐",
+      "description": "Umfang, Fläche, Formen und Maße",
+      "subtopics": [
+        {
+          "id": "umfang-flaeche",
+          "name": "Umfang und Fläche",
+          "color": "#f472b6",
+          "icon": "📐",
+          "taskFile": "geometrie.json",
+          "taskIds": ["5-geo-001", "5-geo-002", "5-geo-003", "5-geo-004", "5-geo-005"]
+        },
+        {
+          "id": "formen-masse",
+          "name": "Formen und Maße",
+          "color": "#ec4899",
+          "icon": "🔷",
+          "taskFile": "geometrie.json",
+          "taskIds": ["5-geo-006", "5-geo-007", "5-geo-008", "5-geo-009", "5-geo-010"]
+        }
+      ]
+    },
+    {
+      "id": "sachaufgaben",
+      "name": "Sachaufgaben",
+      "color": "#f59e0b",
+      "icon": "📖",
+      "description": "Rabatt, Einkauf und Rechenregeln anwenden",
+      "subtopics": [
+        {
+          "id": "rabatt-einkauf",
+          "name": "Rabatt und Einkauf",
+          "color": "#fbbf24",
+          "icon": "🛒",
+          "taskFile": "sachaufgaben.json",
+          "taskIds": ["5-sach-001", "5-sach-002", "5-sach-003", "5-sach-004", "5-sach-005"]
+        },
+        {
+          "id": "rechenregeln-anwenden",
+          "name": "Rechenregeln anwenden",
+          "color": "#f59e0b",
+          "icon": "📝",
+          "taskFile": "sachaufgaben.json",
+          "taskIds": ["5-sach-006", "5-sach-007", "5-sach-008", "5-sach-009", "5-sach-010"]
+        }
+      ]
+    }
+  ]
+}

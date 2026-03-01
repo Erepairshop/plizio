@@ -1,0 +1,98 @@
+{
+  "class": 5,
+  "theme": "Grundrechenarten",
+  "language": "de",
+  "description": "Große Zahlen, Runden und Rechenregeln (Punkt vor Strich) für die 5. Klasse",
+  "tasks": [
+    {
+      "id": "5-grund-001",
+      "question": "Runde 4738 auf den nächsten Hunderter.",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [4700, 4800, 4740, 5000],
+      "correct": 0,
+      "explanation": "4738 wird auf 4700 abgerundet, weil die Zehnerstelle (3) kleiner als 5 ist."
+    },
+    {
+      "id": "5-grund-002",
+      "question": "Runde 6851 auf den nächsten Tausender.",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [7000, 6000, 6900, 6800],
+      "correct": 0,
+      "explanation": "6851 wird auf 7000 aufgerundet, weil die Hunderterstelle (8) größer als 5 ist."
+    },
+    {
+      "id": "5-grund-003",
+      "question": "Welche Zahl ist größer: 12.456 oder 12.465?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["12.465", "12.456", "Beide sind gleich", "Kann man nicht sagen"],
+      "correct": 0,
+      "explanation": "12.465 > 12.456, weil an der Zehnerstelle 6 > 5 ist."
+    },
+    {
+      "id": "5-grund-004",
+      "question": "Runde 34.567 auf den nächsten Tausender.",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [35000, 34000, 34600, 34500],
+      "correct": 0,
+      "explanation": "34.567 wird auf 35.000 aufgerundet, weil die Hunderterstelle (5) gleich 5 ist."
+    },
+    {
+      "id": "5-grund-005",
+      "question": "Ordne der Größe nach (kleinste zuerst): 8.203, 8.032, 8.302. Welche Zahl steht in der Mitte?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [8203, 8032, 8302, 8230],
+      "correct": 0,
+      "explanation": "Sortiert: 8.032 < 8.203 < 8.302. In der Mitte steht 8.203."
+    },
+    {
+      "id": "5-grund-006",
+      "question": "Wie viel ist 3 + 4 × 2?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [11, 14, 10, 12],
+      "correct": 0,
+      "explanation": "Punkt vor Strich: Zuerst 4 × 2 = 8, dann 3 + 8 = 11."
+    },
+    {
+      "id": "5-grund-007",
+      "question": "Wie viel ist 20 - 3 × 5?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [5, 85, 15, 10],
+      "correct": 0,
+      "explanation": "Punkt vor Strich: Zuerst 3 × 5 = 15, dann 20 - 15 = 5."
+    },
+    {
+      "id": "5-grund-008",
+      "question": "Wie viel ist (8 + 4) × 3?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [36, 20, 24, 30],
+      "correct": 0,
+      "explanation": "Klammer zuerst: 8 + 4 = 12, dann 12 × 3 = 36."
+    },
+    {
+      "id": "5-grund-009",
+      "question": "Wie viel ist 5 × 6 + 4 × 3?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [42, 102, 38, 48],
+      "correct": 0,
+      "explanation": "Punkt vor Strich: 5 × 6 = 30 und 4 × 3 = 12. Dann 30 + 12 = 42."
+    },
+    {
+      "id": "5-grund-010",
+      "question": "Wie viel ist 100 - (25 + 15) × 2?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [20, 120, 60, 40],
+      "correct": 0,
+      "explanation": "Klammer zuerst: 25 + 15 = 40. Dann 40 × 2 = 80. Dann 100 - 80 = 20."
+    }
+  ]
+}

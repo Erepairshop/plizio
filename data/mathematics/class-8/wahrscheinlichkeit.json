@@ -1,0 +1,98 @@
+{
+  "class": 8,
+  "theme": "Wahrscheinlichkeit",
+  "language": "de",
+  "description": "Grundlagen der Wahrscheinlichkeitsrechnung und praktische Anwendungen in der 8. Klasse",
+  "tasks": [
+    {
+      "id": "8-wahr-001",
+      "question": "Wie hoch ist die Wahrscheinlichkeit, mit einem normalen Würfel eine 6 zu würfeln?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["1/6", "1/3", "1/2", "1/4"],
+      "correct": 0,
+      "explanation": "Ein Würfel hat 6 Seiten, davon ist eine die 6. Wahrscheinlichkeit = 1/6."
+    },
+    {
+      "id": "8-wahr-002",
+      "question": "Wie hoch ist die Wahrscheinlichkeit, beim Münzwurf Kopf zu bekommen?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["1/2", "1/3", "1/4", "1/6"],
+      "correct": 0,
+      "explanation": "Eine Münze hat 2 Seiten. Wahrscheinlichkeit für Kopf = 1/2."
+    },
+    {
+      "id": "8-wahr-003",
+      "question": "Wie hoch ist die Wahrscheinlichkeit, mit einem Würfel eine gerade Zahl zu würfeln?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["1/2", "1/3", "1/6", "2/3"],
+      "correct": 0,
+      "explanation": "Gerade Zahlen: 2, 4, 6 = 3 von 6 Möglichkeiten = 3/6 = 1/2."
+    },
+    {
+      "id": "8-wahr-004",
+      "question": "In einem Beutel sind 3 rote, 5 blaue und 2 grüne Kugeln. Wie hoch ist die Wahrscheinlichkeit, eine rote Kugel zu ziehen?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["3/10", "1/3", "3/8", "3/5"],
+      "correct": 0,
+      "explanation": "Insgesamt 3 + 5 + 2 = 10 Kugeln. P(rot) = 3/10."
+    },
+    {
+      "id": "8-wahr-005",
+      "question": "Wie hoch ist die Wahrscheinlichkeit, mit einem Würfel eine Zahl größer als 4 zu würfeln?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["1/3", "1/2", "2/3", "1/6"],
+      "correct": 0,
+      "explanation": "Zahlen größer als 4: 5 und 6 = 2 von 6 Möglichkeiten = 2/6 = 1/3."
+    },
+    {
+      "id": "8-wahr-006",
+      "question": "In einer Schachtel sind 4 rote und 6 blaue Kugeln. Wie viel Prozent sind rot?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["40%", "60%", "30%", "50%"],
+      "correct": 0,
+      "explanation": "4 von 10 Kugeln sind rot. 4/10 = 0,4 = 40%."
+    },
+    {
+      "id": "8-wahr-007",
+      "question": "Du wirfst zwei Münzen gleichzeitig. Wie hoch ist die Wahrscheinlichkeit, dass beide Kopf zeigen?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["1/4", "1/2", "1/3", "3/4"],
+      "correct": 0,
+      "explanation": "Möglichkeiten: KK, KZ, ZK, ZZ = 4 gleich wahrscheinliche Ergebnisse. P(KK) = 1/4."
+    },
+    {
+      "id": "8-wahr-008",
+      "question": "In einer Klasse mit 30 Schülern spielen 12 Fußball. Wie hoch ist die Wahrscheinlichkeit, dass ein zufällig gewählter Schüler Fußball spielt?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["2/5", "1/3", "1/2", "12/30"],
+      "correct": 0,
+      "explanation": "12/30 = 2/5. Die Wahrscheinlichkeit beträgt 2/5."
+    },
+    {
+      "id": "8-wahr-009",
+      "question": "Ein Glücksrad hat 8 gleich große Felder: 3 rote, 3 blaue, 2 gelbe. Wie hoch ist die Wahrscheinlichkeit, NICHT rot zu treffen?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["5/8", "3/8", "1/2", "3/5"],
+      "correct": 0,
+      "explanation": "P(nicht rot) = 1 - P(rot) = 1 - 3/8 = 5/8"
+    },
+    {
+      "id": "8-wahr-010",
+      "question": "Du würfelst zweimal. Wie hoch ist die Wahrscheinlichkeit, dass die Summe 7 beträgt?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["1/6", "1/12", "1/3", "1/36"],
+      "correct": 0,
+      "explanation": "Es gibt 36 Möglichkeiten (6×6). Summe 7: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) = 6 Möglichkeiten. P = 6/36 = 1/6."
+    }
+  ]
+}
