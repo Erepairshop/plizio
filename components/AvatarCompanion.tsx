@@ -405,11 +405,6 @@ function Character({ mood, skinColor = '#e8c9a0', outfitColor = '#6b8fad', jumpT
         <boxGeometry args={[0.5, 0.5, 0.28]} />
         <meshStandardMaterial color={outfitColor} roughness={0.72} metalness={0.04} />
       </mesh>
-      {/* Rounded top (chest rounding) */}
-      <mesh position={[0, 0.22, 0]} scale={[1.05, 0.4, 0.95]}>
-        <sphereGeometry args={[0.25, 10, 6]} />
-        <meshStandardMaterial color={outfitColor} roughness={0.72} metalness={0.04} />
-      </mesh>
 
       {/* ══ SHOULDERS ══════════════════════════════════ */}
       <mesh ref={leftShoulderRef} position={[-0.26, 0.2, 0]}>
