@@ -93,6 +93,186 @@
       "options": [972, 962, 982, 952],
       "correct": 0,
       "explanation": "Schriftliche Addition mit mehrfachem Übertrag: 594 + 378 = 972"
+    },
+    {
+      "id": "3-zahl-011",
+      "question": "Wie viel ist 321 + 214?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [535, 525, 545, 515],
+      "correct": 0,
+      "explanation": "321 + 214 = 535"
+    },
+    {
+      "id": "3-zahl-012",
+      "question": "Wie viel ist 412 + 153?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [565, 575, 555, 585],
+      "correct": 0,
+      "explanation": "412 + 153 = 565"
+    },
+    {
+      "id": "3-zahl-013",
+      "question": "Wie viel ist 600 - 250?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [350, 360, 340, 370],
+      "correct": 0,
+      "explanation": "600 - 250 = 350"
+    },
+    {
+      "id": "3-zahl-014",
+      "question": "Wie viel ist 534 + 261?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [795, 785, 805, 775],
+      "correct": 0,
+      "explanation": "534 + 261 = 795"
+    },
+    {
+      "id": "3-zahl-015",
+      "question": "Wie viel ist 876 - 432?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [444, 454, 434, 464],
+      "correct": 0,
+      "explanation": "876 - 432 = 444"
+    },
+    {
+      "id": "3-zahl-016",
+      "question": "Wie viel ist 347 + 285?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [632, 622, 642, 612],
+      "correct": 0,
+      "explanation": "347 + 285 = 632 (mit Übertrag)"
+    },
+    {
+      "id": "3-zahl-017",
+      "question": "Wie viel ist 456 + 278?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [734, 724, 744, 714],
+      "correct": 0,
+      "explanation": "456 + 278 = 734 (mit Übertrag)"
+    },
+    {
+      "id": "3-zahl-018",
+      "question": "Wie viel ist 623 - 358?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [265, 275, 255, 285],
+      "correct": 0,
+      "explanation": "623 - 358 = 265 (mit Übertrag)"
+    },
+    {
+      "id": "3-zahl-019",
+      "question": "Wie viel ist 189 + 467?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [656, 646, 666, 636],
+      "correct": 0,
+      "explanation": "189 + 467 = 656 (mit Übertrag)"
+    },
+    {
+      "id": "3-zahl-020",
+      "question": "Wie viel ist 800 - 347?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [453, 463, 443, 473],
+      "correct": 0,
+      "explanation": "800 - 347 = 453 (mit Übertrag)"
+    },
+    {
+      "id": "3-zahl-021",
+      "question": "Wie viel ist 905 - 568?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [337, 347, 327, 357],
+      "correct": 0,
+      "explanation": "905 - 568 = 337 (Subtraktion mit mehrfachem Übertrag)"
+    },
+    {
+      "id": "3-zahl-022",
+      "question": "Wie viel ist 1000 - 473?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [527, 537, 517, 547],
+      "correct": 0,
+      "explanation": "1000 - 473 = 527 (Subtraktion mit mehrfachem Übertrag)"
+    },
+    {
+      "id": "3-zahl-023",
+      "question": "Wie viel ist 602 - 385?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [217, 227, 207, 237],
+      "correct": 0,
+      "explanation": "602 - 385 = 217 (Subtraktion mit Übertrag über Null)"
+    },
+    {
+      "id": "3-zahl-024",
+      "question": "Rechne schriftlich: 123 + 342 = ?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [465, 475, 455, 485],
+      "correct": 0,
+      "explanation": "Schriftliche Addition: 123 + 342 = 465"
+    },
+    {
+      "id": "3-zahl-025",
+      "question": "Rechne schriftlich: 698 - 253 = ?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [445, 455, 435, 465],
+      "correct": 0,
+      "explanation": "Schriftliche Subtraktion: 698 - 253 = 445"
+    },
+    {
+      "id": "3-zahl-026",
+      "question": "Rechne schriftlich: 357 + 486 = ?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [843, 833, 853, 823],
+      "correct": 0,
+      "explanation": "Schriftliche Addition mit Übertrag: 357 + 486 = 843"
+    },
+    {
+      "id": "3-zahl-027",
+      "question": "Rechne schriftlich: 514 - 279 = ?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [235, 245, 225, 255],
+      "correct": 0,
+      "explanation": "Schriftliche Subtraktion mit Übertrag: 514 - 279 = 235"
+    },
+    {
+      "id": "3-zahl-028",
+      "question": "Rechne schriftlich: 678 + 295 = ?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [973, 963, 983, 953],
+      "correct": 0,
+      "explanation": "Schriftliche Addition mit mehrfachem Übertrag: 678 + 295 = 973"
+    },
+    {
+      "id": "3-zahl-029",
+      "question": "Rechne schriftlich: 800 - 467 = ?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [333, 343, 323, 353],
+      "correct": 0,
+      "explanation": "Schriftliche Subtraktion mit Übertrag über Null: 800 - 467 = 333"
+    },
+    {
+      "id": "3-zahl-030",
+      "question": "Rechne schriftlich: 1000 - 586 = ?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [414, 424, 404, 434],
+      "correct": 0,
+      "explanation": "Schriftliche Subtraktion: 1000 - 586 = 414"
     }
   ]
 }

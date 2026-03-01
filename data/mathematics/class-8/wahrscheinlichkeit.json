@@ -93,6 +93,96 @@
       "options": ["1/6", "1/12", "1/3", "1/36"],
       "correct": 0,
       "explanation": "Es gibt 36 Möglichkeiten (6×6). Summe 7: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1) = 6 Möglichkeiten. P = 6/36 = 1/6."
+    },
+    {
+      "id": "8-wahr-011",
+      "question": "Wie hoch ist die Wahrscheinlichkeit, mit einem Würfel eine 1 oder eine 2 zu würfeln?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["1/3", "1/6", "1/2", "2/3"],
+      "correct": 0,
+      "explanation": "Günstige Ergebnisse: 1 und 2 = 2 von 6. P = 2/6 = 1/3."
+    },
+    {
+      "id": "8-wahr-012",
+      "question": "Aus einem Kartenspiel mit 32 Karten wird eine gezogen. Wie hoch ist die Wahrscheinlichkeit, ein Ass zu ziehen (4 Asse)?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["1/8", "1/4", "1/16", "1/32"],
+      "correct": 0,
+      "explanation": "4 Asse von 32 Karten. P = 4/32 = 1/8."
+    },
+    {
+      "id": "8-wahr-013",
+      "question": "Wie hoch ist die Wahrscheinlichkeit, mit einem Würfel eine ungerade Zahl zu würfeln?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["1/2", "1/3", "2/3", "1/6"],
+      "correct": 0,
+      "explanation": "Ungerade Zahlen: 1, 3, 5 = 3 von 6 Möglichkeiten = 3/6 = 1/2."
+    },
+    {
+      "id": "8-wahr-014",
+      "question": "In einem Beutel sind 6 rote, 4 blaue und 2 weiße Kugeln. Wie hoch ist die Wahrscheinlichkeit, eine blaue Kugel zu ziehen?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["1/3", "1/2", "1/4", "2/3"],
+      "correct": 0,
+      "explanation": "Insgesamt 6 + 4 + 2 = 12 Kugeln. P(blau) = 4/12 = 1/3."
+    },
+    {
+      "id": "8-wahr-015",
+      "question": "Wie hoch ist die Wahrscheinlichkeit, mit einem Würfel eine Zahl kleiner als 3 zu würfeln?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["1/3", "1/2", "1/6", "2/3"],
+      "correct": 0,
+      "explanation": "Zahlen kleiner als 3: 1 und 2 = 2 von 6 Möglichkeiten = 2/6 = 1/3."
+    },
+    {
+      "id": "8-wahr-016",
+      "question": "In einer Klasse mit 25 Schülern tragen 5 eine Brille. Wie viel Prozent der Schüler tragen eine Brille?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["20%", "25%", "15%", "5%"],
+      "correct": 0,
+      "explanation": "5 von 25 = 5/25 = 1/5 = 0,2 = 20%."
+    },
+    {
+      "id": "8-wahr-017",
+      "question": "Du wirfst zwei Münzen. Wie hoch ist die Wahrscheinlichkeit, mindestens einmal Kopf zu bekommen?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["3/4", "1/2", "1/4", "2/3"],
+      "correct": 0,
+      "explanation": "Möglichkeiten: KK, KZ, ZK, ZZ. Mindestens ein Kopf: KK, KZ, ZK = 3 von 4. P = 3/4."
+    },
+    {
+      "id": "8-wahr-018",
+      "question": "In einer Lostrommel sind 50 Lose, davon 10 Gewinne. Wie hoch ist die Wahrscheinlichkeit, beim ersten Zug zu gewinnen?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["1/5", "1/10", "1/50", "1/4"],
+      "correct": 0,
+      "explanation": "10 von 50 Losen sind Gewinne. P = 10/50 = 1/5."
+    },
+    {
+      "id": "8-wahr-019",
+      "question": "Ein Glücksrad hat 10 gleich große Felder, nummeriert 1 bis 10. Wie hoch ist die Wahrscheinlichkeit, eine Primzahl zu drehen? (Primzahlen: 2, 3, 5, 7)",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["2/5", "1/2", "3/10", "1/5"],
+      "correct": 0,
+      "explanation": "Primzahlen von 1 bis 10: 2, 3, 5, 7 = 4 von 10. P = 4/10 = 2/5."
+    },
+    {
+      "id": "8-wahr-020",
+      "question": "Du würfelst zweimal. Wie hoch ist die Wahrscheinlichkeit, dass beide Würfe die gleiche Zahl zeigen?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["1/6", "1/36", "1/3", "1/12"],
+      "correct": 0,
+      "explanation": "Es gibt 36 Möglichkeiten (6×6). Gleiche Zahl: (1,1),(2,2),(3,3),(4,4),(5,5),(6,6) = 6 Möglichkeiten. P = 6/36 = 1/6."
     }
   ]
 }

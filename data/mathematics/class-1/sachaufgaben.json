@@ -93,6 +93,96 @@
       "options": [12, 11, 13, 10],
       "correct": 0,
       "explanation": "8 + 7 = 15 Kinder insgesamt, 15 - 3 = 12 Kinder bleiben"
+    },
+    {
+      "id": "1-sach-011",
+      "question": "Emma hat 5 Teddybären. Zum Geburtstag bekommt sie 3 neue dazu. Wie viele Teddybären hat sie jetzt?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [8, 7, 9, 6],
+      "correct": 0,
+      "explanation": "5 + 3 = 8 Teddybären"
+    },
+    {
+      "id": "1-sach-012",
+      "question": "Im Teich schwimmen 9 Enten. 4 Enten fliegen weg. Wie viele Enten sind noch im Teich?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [5, 6, 4, 7],
+      "correct": 0,
+      "explanation": "9 - 4 = 5 Enten"
+    },
+    {
+      "id": "1-sach-013",
+      "question": "Paul hat 4 rote Autos und 6 blaue Autos. Wie viele Spielzeugautos hat er insgesamt?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [10, 9, 11, 8],
+      "correct": 0,
+      "explanation": "4 + 6 = 10 Spielzeugautos"
+    },
+    {
+      "id": "1-sach-014",
+      "question": "Oma backt 14 Kekse. Die Kinder essen 6 Kekse. Wie viele Kekse sind noch übrig?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [8, 7, 9, 6],
+      "correct": 0,
+      "explanation": "14 - 6 = 8 Kekse"
+    },
+    {
+      "id": "1-sach-015",
+      "question": "Im Regal stehen 8 Bücher. Mama stellt 7 neue Bücher dazu. Wie viele Bücher stehen jetzt im Regal?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [15, 14, 16, 13],
+      "correct": 0,
+      "explanation": "8 + 7 = 15 Bücher"
+    },
+    {
+      "id": "1-sach-016",
+      "question": "Tim hat 16 Bauklötze. Er gibt 8 an seine Schwester. Wie viele Bauklötze hat Tim noch?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [8, 7, 9, 6],
+      "correct": 0,
+      "explanation": "16 - 8 = 8 Bauklötze"
+    },
+    {
+      "id": "1-sach-017",
+      "question": "Auf dem Bauernhof sind 6 Kühe und 5 Schafe. 2 Kühe gehen in den Stall. Wie viele Tiere sind noch auf der Weide?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [9, 10, 8, 11],
+      "correct": 0,
+      "explanation": "6 + 5 = 11 Tiere, dann 11 - 2 = 9 Tiere auf der Weide"
+    },
+    {
+      "id": "1-sach-018",
+      "question": "Sara sammelt Kastanien. Am Montag findet sie 7, am Dienstag findet sie 6. Dann verschenkt sie 4. Wie viele hat sie noch?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [9, 10, 8, 11],
+      "correct": 0,
+      "explanation": "7 + 6 = 13, dann 13 - 4 = 9 Kastanien"
+    },
+    {
+      "id": "1-sach-019",
+      "question": "Im Aquarium sind 12 Fische. 5 Fische werden in ein anderes Becken gesetzt. Dann kommen 4 neue Fische dazu. Wie viele Fische sind jetzt im Aquarium?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [11, 10, 12, 9],
+      "correct": 0,
+      "explanation": "12 - 5 = 7, dann 7 + 4 = 11 Fische"
+    },
+    {
+      "id": "1-sach-020",
+      "question": "Lukas hat 8 Aufkleber. Er bekommt 5 neue und gibt dann 6 an seinen Freund. Wie viele Aufkleber hat Lukas jetzt?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [7, 8, 6, 9],
+      "correct": 0,
+      "explanation": "8 + 5 = 13, dann 13 - 6 = 7 Aufkleber"
     }
   ]
 }

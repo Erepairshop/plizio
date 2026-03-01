@@ -93,6 +93,96 @@
       "options": ["460 €", "415 €", "450 €", "440 €"],
       "correct": 0,
       "explanation": "15% von 400 = 60 €. Neuer Preis: 400 + 60 = 460 €"
+    },
+    {
+      "id": "6-verh-011",
+      "question": "Kürze das Verhältnis 10 : 15.",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["2 : 3", "1 : 5", "3 : 5", "5 : 3"],
+      "correct": 0,
+      "explanation": "10 : 15 → beide durch 5 teilen → 2 : 3"
+    },
+    {
+      "id": "6-verh-012",
+      "question": "Das Verhältnis von Wasser zu Sirup ist 4 : 1. Wie viel Wasser braucht man für 50 ml Sirup?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["200 ml", "100 ml", "150 ml", "250 ml"],
+      "correct": 0,
+      "explanation": "Verhältnis 4 : 1 → für 50 ml Sirup braucht man 4 × 50 = 200 ml Wasser."
+    },
+    {
+      "id": "6-verh-013",
+      "question": "In einem Garten stehen Apfelbäume und Birnbäume im Verhältnis 3 : 2. Es gibt 12 Apfelbäume. Wie viele Birnbäume gibt es?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [8, 6, 10, 18],
+      "correct": 0,
+      "explanation": "3 : 2 = 12 : x → x = 12 × 2 ÷ 3 = 8 Birnbäume"
+    },
+    {
+      "id": "6-verh-014",
+      "question": "Kürze das Verhältnis 45 : 30.",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["3 : 2", "9 : 6", "2 : 3", "5 : 3"],
+      "correct": 0,
+      "explanation": "45 : 30 → beide durch 15 teilen → 3 : 2"
+    },
+    {
+      "id": "6-verh-015",
+      "question": "Drei Freunde teilen 120 € im Verhältnis 1 : 2 : 3. Wie viel bekommt der mit dem größten Anteil?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["60 €", "40 €", "20 €", "50 €"],
+      "correct": 0,
+      "explanation": "1 + 2 + 3 = 6 Teile. Ein Teil = 120 ÷ 6 = 20 €. Größter Anteil: 3 × 20 = 60 €."
+    },
+    {
+      "id": "6-verh-016",
+      "question": "Wie viel sind 50% von 120?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [60, 50, 24, 70],
+      "correct": 0,
+      "explanation": "50% von 120 = 120 ÷ 2 = 60"
+    },
+    {
+      "id": "6-verh-017",
+      "question": "Wie viel sind 5% von 300?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [15, 30, 50, 10],
+      "correct": 0,
+      "explanation": "5% von 300 = 300 × 5 ÷ 100 = 15"
+    },
+    {
+      "id": "6-verh-018",
+      "question": "Ein Handy kostet 500 €. Es ist um 30% reduziert. Wie viel kostet es jetzt?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["350 €", "370 €", "300 €", "400 €"],
+      "correct": 0,
+      "explanation": "30% von 500 = 150 €. Neuer Preis: 500 - 150 = 350 €"
+    },
+    {
+      "id": "6-verh-019",
+      "question": "Wie viel Prozent sind 18 von 90?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["20%", "15%", "25%", "18%"],
+      "correct": 0,
+      "explanation": "18 ÷ 90 × 100 = 20%"
+    },
+    {
+      "id": "6-verh-020",
+      "question": "Ein Sparbuch hat 800 €. Nach einem Jahr mit 5% Zinsen hat man wie viel?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["840 €", "850 €", "805 €", "860 €"],
+      "correct": 0,
+      "explanation": "5% von 800 = 40 €. Nach einem Jahr: 800 + 40 = 840 €."
     }
   ]
 }

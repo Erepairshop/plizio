@@ -93,6 +93,96 @@
       "options": [11, 10, 12, 8],
       "correct": 0,
       "explanation": "3 × 2 Euro = 6 Euro, plus 5 × 1 Euro = 5 Euro. Zusammen: 6 + 5 = 11 Euro"
+    },
+    {
+      "id": "2-mass-011",
+      "question": "Wie viele Zentimeter sind 50 cm + 30 cm?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [80, 70, 90, 60],
+      "correct": 0,
+      "explanation": "50 cm + 30 cm = 80 cm"
+    },
+    {
+      "id": "2-mass-012",
+      "question": "Ein Stift ist 15 cm lang. Ein anderer ist 20 cm lang. Wie viel länger ist der zweite Stift?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [5, 3, 10, 7],
+      "correct": 0,
+      "explanation": "20 cm - 15 cm = 5 cm"
+    },
+    {
+      "id": "2-mass-013",
+      "question": "Wie viele Minuten hat eine Stunde?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [60, 30, 100, 45],
+      "correct": 0,
+      "explanation": "Eine Stunde hat 60 Minuten"
+    },
+    {
+      "id": "2-mass-014",
+      "question": "Wie viele Zentimeter sind 1 m und 25 cm zusammen?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [125, 150, 100, 115],
+      "correct": 0,
+      "explanation": "1 m = 100 cm, plus 25 cm = 125 cm"
+    },
+    {
+      "id": "2-mass-015",
+      "question": "Es ist 3 Uhr. In 2 Stunden ist Mamas Geburtstag. Wie viel Uhr ist es dann?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [5, 4, 6, 1],
+      "correct": 0,
+      "explanation": "3 Uhr + 2 Stunden = 5 Uhr"
+    },
+    {
+      "id": "2-mass-016",
+      "question": "Ein Kuchen kostet 4 Euro und 50 Cent. Du bezahlst mit 5 Euro. Wie viel Rückgeld bekommst du?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["50 Cent", "1 Euro", "1 Euro 50 Cent", "40 Cent"],
+      "correct": 0,
+      "explanation": "5 Euro - 4 Euro 50 Cent = 50 Cent"
+    },
+    {
+      "id": "2-mass-017",
+      "question": "Du kaufst 3 Äpfel. Jeder Apfel kostet 1 Euro. Wie viel bezahlst du?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [3, 2, 4, 5],
+      "correct": 0,
+      "explanation": "3 × 1 Euro = 3 Euro"
+    },
+    {
+      "id": "2-mass-018",
+      "question": "Ein Seil ist 1 m lang. Davon schneidest du 40 cm ab. Wie lang ist das Seil noch?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [60, 50, 70, 40],
+      "correct": 0,
+      "explanation": "1 m = 100 cm. 100 cm - 40 cm = 60 cm"
+    },
+    {
+      "id": "2-mass-019",
+      "question": "Es ist halb 4. Wie viel Uhr ist es in 30 Minuten?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["4 Uhr", "Halb 5", "Viertel nach 4", "Viertel vor 4"],
+      "correct": 0,
+      "explanation": "Halb 4 ist 3:30. Plus 30 Minuten = 4:00 Uhr"
+    },
+    {
+      "id": "2-mass-020",
+      "question": "Max kauft ein Heft für 2 Euro 50 Cent und einen Radiergummi für 1 Euro 50 Cent. Er bezahlt mit 5 Euro. Wie viel Rückgeld bekommt er?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["1 Euro", "50 Cent", "1 Euro 50 Cent", "2 Euro"],
+      "correct": 0,
+      "explanation": "2 Euro 50 Cent + 1 Euro 50 Cent = 4 Euro. 5 Euro - 4 Euro = 1 Euro Rückgeld"
     }
   ]
 }

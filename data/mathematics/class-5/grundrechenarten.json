@@ -93,6 +93,96 @@
       "options": [20, 120, 60, 40],
       "correct": 0,
       "explanation": "Klammer zuerst: 25 + 15 = 40. Dann 40 × 2 = 80. Dann 100 - 80 = 20."
+    },
+    {
+      "id": "5-grund-011",
+      "question": "Runde 3.472 auf den nächsten Zehner.",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [3470, 3480, 3500, 3400],
+      "correct": 0,
+      "explanation": "3.472 wird auf 3.470 abgerundet, weil die Einerstelle (2) kleiner als 5 ist."
+    },
+    {
+      "id": "5-grund-012",
+      "question": "Runde 8.956 auf den nächsten Hunderter.",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [9000, 8900, 8960, 9100],
+      "correct": 0,
+      "explanation": "8.956 wird auf 9.000 aufgerundet, weil die Zehnerstelle (5) gleich 5 ist."
+    },
+    {
+      "id": "5-grund-013",
+      "question": "Runde 54.389 auf den nächsten Zehntausender.",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [50000, 60000, 54000, 55000],
+      "correct": 0,
+      "explanation": "54.389 wird auf 50.000 abgerundet, weil die Tausenderstelle (4) kleiner als 5 ist."
+    },
+    {
+      "id": "5-grund-014",
+      "question": "Welche Zahl liegt genau in der Mitte zwischen 2.000 und 3.000?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [2500, 2400, 2600, 2550],
+      "correct": 0,
+      "explanation": "Die Mitte zwischen 2.000 und 3.000 ist (2.000 + 3.000) ÷ 2 = 2.500."
+    },
+    {
+      "id": "5-grund-015",
+      "question": "Ordne der Größe nach (größte zuerst): 45.312, 45.321, 45.213. Welche Zahl steht an letzter Stelle?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [45213, 45312, 45321, 45231],
+      "correct": 0,
+      "explanation": "Sortiert (größte zuerst): 45.321 > 45.312 > 45.213. An letzter Stelle steht 45.213."
+    },
+    {
+      "id": "5-grund-016",
+      "question": "Wie viel ist 10 + 6 × 3?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [28, 48, 24, 30],
+      "correct": 0,
+      "explanation": "Punkt vor Strich: Zuerst 6 × 3 = 18, dann 10 + 18 = 28."
+    },
+    {
+      "id": "5-grund-017",
+      "question": "Wie viel ist 36 ÷ 6 + 2 × 4?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [14, 32, 10, 16],
+      "correct": 0,
+      "explanation": "Punkt vor Strich: 36 ÷ 6 = 6 und 2 × 4 = 8. Dann 6 + 8 = 14."
+    },
+    {
+      "id": "5-grund-018",
+      "question": "Wie viel ist (15 - 7) × (3 + 2)?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [40, 35, 45, 30],
+      "correct": 0,
+      "explanation": "Klammern zuerst: 15 - 7 = 8 und 3 + 2 = 5. Dann 8 × 5 = 40."
+    },
+    {
+      "id": "5-grund-019",
+      "question": "Wie viel ist 2 × (30 - 4 × 5)?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [20, 10, 50, 30],
+      "correct": 0,
+      "explanation": "Klammer zuerst, darin Punkt vor Strich: 4 × 5 = 20, dann 30 - 20 = 10. Dann 2 × 10 = 20."
+    },
+    {
+      "id": "5-grund-020",
+      "question": "Wie viel ist (48 ÷ 6 + 4) × (20 - 3 × 5)?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [60, 40, 55, 45],
+      "correct": 0,
+      "explanation": "Erste Klammer: 48 ÷ 6 = 8, dann 8 + 4 = 12. Zweite Klammer: 3 × 5 = 15, dann 20 - 15 = 5. Ergebnis: 12 × 5 = 60."
     }
   ]
 }

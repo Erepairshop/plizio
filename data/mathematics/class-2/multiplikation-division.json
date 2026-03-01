@@ -93,6 +93,96 @@
       "options": [9, 8, 10, 7],
       "correct": 0,
       "explanation": "45 ÷ 5 = 9"
+    },
+    {
+      "id": "2-mul-011",
+      "question": "Wie viel ist 9 × 2?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [18, 16, 20, 14],
+      "correct": 0,
+      "explanation": "9 × 2 = 18"
+    },
+    {
+      "id": "2-mul-012",
+      "question": "Wie viel ist 8 × 5?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [40, 35, 45, 30],
+      "correct": 0,
+      "explanation": "8 × 5 = 40"
+    },
+    {
+      "id": "2-mul-013",
+      "question": "Wie viel ist 4 × 10?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [40, 30, 50, 20],
+      "correct": 0,
+      "explanation": "4 × 10 = 40"
+    },
+    {
+      "id": "2-mul-014",
+      "question": "Wie viel ist 6 × 3?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [18, 15, 21, 12],
+      "correct": 0,
+      "explanation": "6 × 3 = 18"
+    },
+    {
+      "id": "2-mul-015",
+      "question": "Wie viel ist 7 × 4?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [28, 24, 32, 21],
+      "correct": 0,
+      "explanation": "7 × 4 = 28"
+    },
+    {
+      "id": "2-mul-016",
+      "question": "Wie viel ist 18 ÷ 2?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [9, 8, 10, 7],
+      "correct": 0,
+      "explanation": "18 ÷ 2 = 9"
+    },
+    {
+      "id": "2-mul-017",
+      "question": "Wie viel ist 30 ÷ 5?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [6, 5, 7, 8],
+      "correct": 0,
+      "explanation": "30 ÷ 5 = 6"
+    },
+    {
+      "id": "2-mul-018",
+      "question": "Wie viel ist 80 ÷ 10?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [8, 7, 9, 6],
+      "correct": 0,
+      "explanation": "80 ÷ 10 = 8"
+    },
+    {
+      "id": "2-mul-019",
+      "question": "In einer Packung sind 5 Stifte. Papa kauft 4 Packungen. Wie viele Stifte hat er?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [20, 15, 25, 9],
+      "correct": 0,
+      "explanation": "4 × 5 = 20 Stifte"
+    },
+    {
+      "id": "2-mul-020",
+      "question": "12 Bonbons werden gleichmäßig auf 2 Kinder verteilt. Wie viele bekommt jedes Kind?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [6, 5, 7, 4],
+      "correct": 0,
+      "explanation": "12 ÷ 2 = 6 Bonbons pro Kind"
     }
   ]
 }

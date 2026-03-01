@@ -93,6 +93,96 @@
       "options": [150, 105, 1050, 1500],
       "correct": 0,
       "explanation": "1 Meter = 100 cm, plus 50 cm = 150 cm"
+    },
+    {
+      "id": "3-mass-011",
+      "question": "Wie viele Sekunden hat eine Minute?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [60, 30, 100, 45],
+      "correct": 0,
+      "explanation": "1 Minute = 60 Sekunden"
+    },
+    {
+      "id": "3-mass-012",
+      "question": "Wie viele Zentimeter sind ein halber Meter?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [50, 25, 100, 75],
+      "correct": 0,
+      "explanation": "Ein halber Meter = 100 ÷ 2 = 50 Zentimeter"
+    },
+    {
+      "id": "3-mass-013",
+      "question": "Rechne um: 4 m = _ cm",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [400, 40, 4000, 200],
+      "correct": 0,
+      "explanation": "4 Meter = 4 × 100 = 400 Zentimeter"
+    },
+    {
+      "id": "3-mass-014",
+      "question": "Rechne um: 3500 g = _ kg _ g",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [3, 35, 350, 30],
+      "correct": 0,
+      "explanation": "3500 g = 3 kg 500 g. Es sind 3 volle Kilogramm."
+    },
+    {
+      "id": "3-mass-015",
+      "question": "Rechne um: 250 cm = _ m _ cm",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [2, 25, 20, 3],
+      "correct": 0,
+      "explanation": "250 cm = 2 m 50 cm. Es sind 2 volle Meter."
+    },
+    {
+      "id": "3-mass-016",
+      "question": "Rechne um: 1 Stunde 30 Minuten = _ Minuten",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [90, 80, 100, 130],
+      "correct": 0,
+      "explanation": "1 Stunde = 60 Minuten. 60 + 30 = 90 Minuten"
+    },
+    {
+      "id": "3-mass-017",
+      "question": "Rechne um: 2 km 500 m = _ m",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [2500, 250, 25000, 2050],
+      "correct": 0,
+      "explanation": "2 km = 2000 m. 2000 + 500 = 2500 m"
+    },
+    {
+      "id": "3-mass-018",
+      "question": "Ein Film dauert 1 Stunde und 45 Minuten. Wie viele Minuten dauert der Film insgesamt?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [105, 95, 115, 145],
+      "correct": 0,
+      "explanation": "1 Stunde = 60 Minuten. 60 + 45 = 105 Minuten"
+    },
+    {
+      "id": "3-mass-019",
+      "question": "Marie wiegt 3 Pakete. Das erste wiegt 500 g, das zweite 750 g und das dritte 250 g. Wie viel wiegen alle zusammen in Kilogramm?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [1500, 1250, 1750, 2000],
+      "correct": 0,
+      "explanation": "500 + 750 + 250 = 1500 g = 1 kg 500 g. Zusammen sind es 1500 Gramm."
+    },
+    {
+      "id": "3-mass-020",
+      "question": "Tom läuft 400 m hin und 400 m zurück. Dann läuft er noch einmal 200 m. Wie viele Meter ist er insgesamt gelaufen? Rechne auch in km um.",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [1000, 800, 1200, 600],
+      "correct": 0,
+      "explanation": "400 + 400 + 200 = 1000 m = 1 km"
     }
   ]
 }

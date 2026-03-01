@@ -93,6 +93,96 @@
       "options": ["3 Stunden", "4 Stunden", "2,5 Stunden", "5 Stunden"],
       "correct": 0,
       "explanation": "Zusammen nähern sie sich mit 80 + 70 = 150 km/h. Zeit = 450 ÷ 150 = 3 Stunden"
+    },
+    {
+      "id": "6-geo-011",
+      "question": "Wie groß ist die Fläche eines Dreiecks mit der Grundseite 14 cm und der Höhe 8 cm?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["56 cm²", "112 cm²", "22 cm²", "64 cm²"],
+      "correct": 0,
+      "explanation": "Fläche = (14 × 8) ÷ 2 = 112 ÷ 2 = 56 cm²"
+    },
+    {
+      "id": "6-geo-012",
+      "question": "Wie groß ist die Fläche eines Dreiecks mit der Grundseite 6 cm und der Höhe 10 cm?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["30 cm²", "60 cm²", "16 cm²", "36 cm²"],
+      "correct": 0,
+      "explanation": "Fläche = (6 × 10) ÷ 2 = 60 ÷ 2 = 30 cm²"
+    },
+    {
+      "id": "6-geo-013",
+      "question": "Ein Parallelogramm hat eine Grundseite von 9 cm und eine Höhe von 7 cm. Wie groß ist die Fläche?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["63 cm²", "32 cm²", "16 cm²", "126 cm²"],
+      "correct": 0,
+      "explanation": "Fläche = Grundseite × Höhe = 9 × 7 = 63 cm²"
+    },
+    {
+      "id": "6-geo-014",
+      "question": "Ein Trapez hat die parallelen Seiten a = 10 cm und c = 6 cm, die Höhe ist 5 cm. Wie groß ist die Fläche?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["40 cm²", "80 cm²", "30 cm²", "50 cm²"],
+      "correct": 0,
+      "explanation": "Fläche = (a + c) ÷ 2 × h = (10 + 6) ÷ 2 × 5 = 8 × 5 = 40 cm²"
+    },
+    {
+      "id": "6-geo-015",
+      "question": "Ein Grundstück besteht aus einem Quadrat (Seitenlänge 6 m) und einem Dreieck (Grundseite 6 m, Höhe 4 m). Wie groß ist die Gesamtfläche?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["48 m²", "60 m²", "36 m²", "42 m²"],
+      "correct": 0,
+      "explanation": "Quadrat: 6 × 6 = 36 m². Dreieck: (6 × 4) ÷ 2 = 12 m². Gesamt: 36 + 12 = 48 m²"
+    },
+    {
+      "id": "6-geo-016",
+      "question": "Ein Bus fährt mit 50 km/h. Wie weit kommt er in 4 Stunden?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["200 km", "150 km", "250 km", "180 km"],
+      "correct": 0,
+      "explanation": "Weg = Geschwindigkeit × Zeit = 50 × 4 = 200 km"
+    },
+    {
+      "id": "6-geo-017",
+      "question": "Ein Wanderer legt 20 km in 5 Stunden zurück. Wie schnell ist er gegangen?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["4 km/h", "5 km/h", "3 km/h", "6 km/h"],
+      "correct": 0,
+      "explanation": "Geschwindigkeit = Weg ÷ Zeit = 20 ÷ 5 = 4 km/h"
+    },
+    {
+      "id": "6-geo-018",
+      "question": "Ein Auto fährt mit 90 km/h. Wie lange braucht es für 270 km?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["3 Stunden", "2 Stunden", "4 Stunden", "2,5 Stunden"],
+      "correct": 0,
+      "explanation": "Zeit = Weg ÷ Geschwindigkeit = 270 ÷ 90 = 3 Stunden"
+    },
+    {
+      "id": "6-geo-019",
+      "question": "Ein Radfahrer fährt mit 20 km/h. Wie weit kommt er in 30 Minuten?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["10 km", "15 km", "5 km", "20 km"],
+      "correct": 0,
+      "explanation": "30 Minuten = 1/2 Stunde. Weg = 20 × 1/2 = 10 km"
+    },
+    {
+      "id": "6-geo-020",
+      "question": "Ein Auto fährt 2 Stunden mit 80 km/h und dann 3 Stunden mit 60 km/h. Wie weit ist es insgesamt gefahren?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["340 km", "280 km", "300 km", "360 km"],
+      "correct": 0,
+      "explanation": "Erster Teil: 80 × 2 = 160 km. Zweiter Teil: 60 × 3 = 180 km. Gesamt: 160 + 180 = 340 km"
     }
   ]
 }

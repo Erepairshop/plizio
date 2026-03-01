@@ -93,6 +93,96 @@
       "options": [10, 8, 12, 15],
       "correct": 0,
       "explanation": "Sohn = x, Vater = 4x. In 20 Jahren: 4x + 20 = 2(x + 20) → 4x + 20 = 2x + 40 → 2x = 20 → x = 10"
+    },
+    {
+      "id": "7-gleich-011",
+      "question": "Löse: x - 8 = 3. Was ist x?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [11, 5, -5, -11],
+      "correct": 0,
+      "explanation": "x - 8 = 3 → x = 3 + 8 = 11"
+    },
+    {
+      "id": "7-gleich-012",
+      "question": "Löse: 5x = 45. Was ist x?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [9, 40, 50, 225],
+      "correct": 0,
+      "explanation": "5x = 45 → x = 45 ÷ 5 = 9"
+    },
+    {
+      "id": "7-gleich-013",
+      "question": "Löse: 3x + 7 = 22. Was ist x?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [5, 7, 10, 4],
+      "correct": 0,
+      "explanation": "3x + 7 = 22 → 3x = 15 → x = 5"
+    },
+    {
+      "id": "7-gleich-014",
+      "question": "Löse: 6x - 10 = 20. Was ist x?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [5, 2, 10, 6],
+      "correct": 0,
+      "explanation": "6x - 10 = 20 → 6x = 30 → x = 5"
+    },
+    {
+      "id": "7-gleich-015",
+      "question": "Löse: 7x - 3 = 4x + 12. Was ist x?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [5, 3, 7, 9],
+      "correct": 0,
+      "explanation": "7x - 3 = 4x + 12 → 3x = 15 → x = 5"
+    },
+    {
+      "id": "7-gleich-016",
+      "question": "Peter hat 5 mehr Stifte als Maria. Zusammen haben sie 19 Stifte. Welche Gleichung passt?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["x + (x + 5) = 19", "x + 5 = 19", "2x - 5 = 19", "x × 5 = 19"],
+      "correct": 0,
+      "explanation": "Maria = x, Peter = x + 5. Zusammen: x + (x + 5) = 19."
+    },
+    {
+      "id": "7-gleich-017",
+      "question": "Peter hat 5 mehr Stifte als Maria. Zusammen haben sie 19 Stifte. Wie viele hat Maria?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [7, 12, 9, 5],
+      "correct": 0,
+      "explanation": "x + (x + 5) = 19 → 2x + 5 = 19 → 2x = 14 → x = 7. Maria hat 7 Stifte."
+    },
+    {
+      "id": "7-gleich-018",
+      "question": "Ein Dreieck hat einen Umfang von 42 cm. Die zweite Seite ist doppelt so lang wie die erste, die dritte Seite ist 6 cm lang. Wie lang ist die erste Seite?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["12 cm", "18 cm", "6 cm", "14 cm"],
+      "correct": 0,
+      "explanation": "Erste Seite = x, zweite = 2x, dritte = 6. x + 2x + 6 = 42 → 3x = 36 → x = 12 cm"
+    },
+    {
+      "id": "7-gleich-019",
+      "question": "Sara hat doppelt so viel Geld wie Tim. Zusammen haben sie 45 €. Wie viel hat Tim?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["15 €", "30 €", "20 €", "22,50 €"],
+      "correct": 0,
+      "explanation": "Tim = x, Sara = 2x. x + 2x = 45 → 3x = 45 → x = 15 €"
+    },
+    {
+      "id": "7-gleich-020",
+      "question": "Eine Mutter ist 3-mal so alt wie ihre Tochter. In 12 Jahren wird sie nur noch doppelt so alt sein. Wie alt ist die Tochter?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [12, 8, 10, 15],
+      "correct": 0,
+      "explanation": "Tochter = x, Mutter = 3x. In 12 Jahren: 3x + 12 = 2(x + 12) → 3x + 12 = 2x + 24 → x = 12"
     }
   ]
 }

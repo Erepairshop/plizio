@@ -93,6 +93,96 @@
       "options": ["5°C", "-17°C", "17°C", "-5°C"],
       "correct": 0,
       "explanation": "-6 + 11 = 5. Die Temperatur war mittags 5°C."
+    },
+    {
+      "id": "6-neg-011",
+      "question": "Wie viel ist (-2) + 9?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [7, -7, 11, -11],
+      "correct": 0,
+      "explanation": "(-2) + 9 = 7. Man startet bei -2 und geht 9 Schritte nach rechts."
+    },
+    {
+      "id": "6-neg-012",
+      "question": "Wie viel ist 6 + (-6)?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [0, 12, -12, 6],
+      "correct": 0,
+      "explanation": "6 + (-6) = 0. Eine Zahl und ihr Gegenteil ergeben zusammen 0."
+    },
+    {
+      "id": "6-neg-013",
+      "question": "Wie viel ist (-5) + (-3)?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [-8, 8, -2, 2],
+      "correct": 0,
+      "explanation": "(-5) + (-3) = -8. Zwei negative Zahlen addiert: man addiert die Beträge und setzt ein Minus davor."
+    },
+    {
+      "id": "6-neg-014",
+      "question": "Wie viel ist (-9) - (-5)?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [-4, -14, 4, 14],
+      "correct": 0,
+      "explanation": "(-9) - (-5) = (-9) + 5 = -4. Minus mal Minus ergibt Plus."
+    },
+    {
+      "id": "6-neg-015",
+      "question": "Wie viel ist 3 - (-4)?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [7, -1, 1, -7],
+      "correct": 0,
+      "explanation": "3 - (-4) = 3 + 4 = 7. Minus und Minus ergibt Plus."
+    },
+    {
+      "id": "6-neg-016",
+      "question": "Wie viel ist (-7) + 4 + (-2) + 5?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [0, -10, 2, -2],
+      "correct": 0,
+      "explanation": "(-7) + 4 = -3, dann (-3) + (-2) = -5, dann (-5) + 5 = 0"
+    },
+    {
+      "id": "6-neg-017",
+      "question": "Welche Zahl liegt genau in der Mitte zwischen -6 und 2 auf dem Zahlenstrahl?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [-2, 0, -4, -1],
+      "correct": 0,
+      "explanation": "Mitte = (-6 + 2) ÷ 2 = -4 ÷ 2 = -2"
+    },
+    {
+      "id": "6-neg-018",
+      "question": "Wie weit ist -5 von -1 auf dem Zahlenstrahl entfernt?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [4, -4, 6, -6],
+      "correct": 0,
+      "explanation": "Der Abstand beträgt |-5 - (-1)| = |-5 + 1| = |-4| = 4 Einheiten."
+    },
+    {
+      "id": "6-neg-019",
+      "question": "Welche Zahl ist größer: -3 oder -8?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [-3, -8, "Beide gleich", 0],
+      "correct": 0,
+      "explanation": "-3 ist größer als -8, weil -3 weiter rechts auf dem Zahlenstrahl liegt."
+    },
+    {
+      "id": "6-neg-020",
+      "question": "Abends war es -3°C. Nachts sank die Temperatur um 8°C. Wie kalt war es nachts?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["-11°C", "-5°C", "5°C", "11°C"],
+      "correct": 0,
+      "explanation": "-3 - 8 = -11. Die Temperatur war nachts -11°C."
     }
   ]
 }

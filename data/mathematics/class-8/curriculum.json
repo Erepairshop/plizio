@@ -15,7 +15,7 @@
           "color": "#3b82f6",
           "icon": "√",
           "taskFile": "wurzeln-terme.json",
-          "taskIds": ["8-wurz-001", "8-wurz-002", "8-wurz-003", "8-wurz-004", "8-wurz-005"]
+          "taskIds": ["8-wurz-001", "8-wurz-002", "8-wurz-003", "8-wurz-004", "8-wurz-005", "8-wurz-011", "8-wurz-012", "8-wurz-013", "8-wurz-014", "8-wurz-015"]
         },
         {
           "id": "komplexe-terme",
@@ -23,7 +23,7 @@
           "color": "#2563eb",
           "icon": "🔢",
           "taskFile": "wurzeln-terme.json",
-          "taskIds": ["8-wurz-006", "8-wurz-007", "8-wurz-008", "8-wurz-009", "8-wurz-010"]
+          "taskIds": ["8-wurz-006", "8-wurz-007", "8-wurz-008", "8-wurz-009", "8-wurz-010", "8-wurz-016", "8-wurz-017", "8-wurz-018", "8-wurz-019", "8-wurz-020"]
         }
       ]
     },
@@ -40,7 +40,7 @@
           "color": "#8b5cf6",
           "icon": "⚖️",
           "taskFile": "gleichungen.json",
-          "taskIds": ["8-gleich-001", "8-gleich-002", "8-gleich-003", "8-gleich-004", "8-gleich-005"]
+          "taskIds": ["8-gleich-001", "8-gleich-002", "8-gleich-003", "8-gleich-004", "8-gleich-005", "8-gleich-011", "8-gleich-012", "8-gleich-013", "8-gleich-014", "8-gleich-015"]
         },
         {
           "id": "gleichungen-loesen",
@@ -48,7 +48,7 @@
           "color": "#7c3aed",
           "icon": "📝",
           "taskFile": "gleichungen.json",
-          "taskIds": ["8-gleich-006", "8-gleich-007", "8-gleich-008", "8-gleich-009", "8-gleich-010"]
+          "taskIds": ["8-gleich-006", "8-gleich-007", "8-gleich-008", "8-gleich-009", "8-gleich-010", "8-gleich-016", "8-gleich-017", "8-gleich-018", "8-gleich-019", "8-gleich-020"]
         }
       ]
     },
@@ -65,7 +65,7 @@
           "color": "#ec4899",
           "icon": "📈",
           "taskFile": "funktionen.json",
-          "taskIds": ["8-funk-001", "8-funk-002", "8-funk-003", "8-funk-004", "8-funk-005"]
+          "taskIds": ["8-funk-001", "8-funk-002", "8-funk-003", "8-funk-004", "8-funk-005", "8-funk-011", "8-funk-012", "8-funk-013", "8-funk-014", "8-funk-015"]
         },
         {
           "id": "funktionswerte",
@@ -73,7 +73,7 @@
           "color": "#db2777",
           "icon": "🔢",
           "taskFile": "funktionen.json",
-          "taskIds": ["8-funk-006", "8-funk-007", "8-funk-008", "8-funk-009", "8-funk-010"]
+          "taskIds": ["8-funk-006", "8-funk-007", "8-funk-008", "8-funk-009", "8-funk-010", "8-funk-016", "8-funk-017", "8-funk-018", "8-funk-019", "8-funk-020"]
         }
       ]
     },
@@ -90,7 +90,7 @@
           "color": "#10b981",
           "icon": "🎲",
           "taskFile": "wahrscheinlichkeit.json",
-          "taskIds": ["8-wahr-001", "8-wahr-002", "8-wahr-003", "8-wahr-004", "8-wahr-005"]
+          "taskIds": ["8-wahr-001", "8-wahr-002", "8-wahr-003", "8-wahr-004", "8-wahr-005", "8-wahr-011", "8-wahr-012", "8-wahr-013", "8-wahr-014", "8-wahr-015"]
         },
         {
           "id": "anwendungen",
@@ -98,7 +98,7 @@
           "color": "#059669",
           "icon": "📊",
           "taskFile": "wahrscheinlichkeit.json",
-          "taskIds": ["8-wahr-006", "8-wahr-007", "8-wahr-008", "8-wahr-009", "8-wahr-010"]
+          "taskIds": ["8-wahr-006", "8-wahr-007", "8-wahr-008", "8-wahr-009", "8-wahr-010", "8-wahr-016", "8-wahr-017", "8-wahr-018", "8-wahr-019", "8-wahr-020"]
         }
       ]
     }

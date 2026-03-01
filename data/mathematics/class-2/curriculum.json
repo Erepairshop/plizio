@@ -15,7 +15,7 @@
           "color": "#60a5fa",
           "icon": "➕",
           "taskFile": "zahlen-und-rechnen.json",
-          "taskIds": ["2-zahl-001", "2-zahl-002", "2-zahl-003", "2-zahl-004", "2-zahl-005"]
+          "taskIds": ["2-zahl-001", "2-zahl-002", "2-zahl-003", "2-zahl-004", "2-zahl-005", "2-zahl-016", "2-zahl-017", "2-zahl-018", "2-zahl-019", "2-zahl-020"]
         },
         {
           "id": "subtraktion-bis-100",
@@ -23,7 +23,7 @@
           "color": "#3b82f6",
           "icon": "➖",
           "taskFile": "zahlen-und-rechnen.json",
-          "taskIds": ["2-zahl-006", "2-zahl-007", "2-zahl-008", "2-zahl-009", "2-zahl-010"]
+          "taskIds": ["2-zahl-006", "2-zahl-007", "2-zahl-008", "2-zahl-009", "2-zahl-010", "2-zahl-021", "2-zahl-022", "2-zahl-023", "2-zahl-024", "2-zahl-029"]
         },
         {
           "id": "zehnerzahlen",
@@ -31,7 +31,7 @@
           "color": "#1e40af",
           "icon": "🔟",
           "taskFile": "zahlen-und-rechnen.json",
-          "taskIds": ["2-zahl-011", "2-zahl-012", "2-zahl-013", "2-zahl-014", "2-zahl-015"]
+          "taskIds": ["2-zahl-011", "2-zahl-012", "2-zahl-013", "2-zahl-014", "2-zahl-015", "2-zahl-025", "2-zahl-026", "2-zahl-027", "2-zahl-028", "2-zahl-030"]
         }
       ]
     },
@@ -48,7 +48,7 @@
           "color": "#a78bfa",
           "icon": "🔢",
           "taskFile": "multiplikation-division.json",
-          "taskIds": ["2-mul-001", "2-mul-002", "2-mul-003", "2-mul-004", "2-mul-005"]
+          "taskIds": ["2-mul-001", "2-mul-002", "2-mul-003", "2-mul-004", "2-mul-005", "2-mul-011", "2-mul-012", "2-mul-013", "2-mul-014", "2-mul-015"]
         },
         {
           "id": "einfache-division",
@@ -56,7 +56,7 @@
           "color": "#8b5cf6",
           "icon": "➗",
           "taskFile": "multiplikation-division.json",
-          "taskIds": ["2-mul-006", "2-mul-007", "2-mul-008", "2-mul-009", "2-mul-010"]
+          "taskIds": ["2-mul-006", "2-mul-007", "2-mul-008", "2-mul-009", "2-mul-010", "2-mul-016", "2-mul-017", "2-mul-018", "2-mul-019", "2-mul-020"]
         }
       ]
     },
@@ -73,7 +73,7 @@
           "color": "#fbbf24",
           "icon": "📝",
           "taskFile": "sachaufgaben.json",
-          "taskIds": ["2-sach-001", "2-sach-002", "2-sach-003", "2-sach-004", "2-sach-005"]
+          "taskIds": ["2-sach-001", "2-sach-002", "2-sach-003", "2-sach-004", "2-sach-005", "2-sach-011", "2-sach-012", "2-sach-013", "2-sach-014", "2-sach-015", "2-sach-020"]
         },
         {
           "id": "zahlenreihen",
@@ -81,7 +81,7 @@
           "color": "#f59e0b",
           "icon": "🔄",
           "taskFile": "sachaufgaben.json",
-          "taskIds": ["2-sach-006", "2-sach-007", "2-sach-008", "2-sach-009", "2-sach-010"]
+          "taskIds": ["2-sach-006", "2-sach-007", "2-sach-008", "2-sach-009", "2-sach-010", "2-sach-016", "2-sach-017", "2-sach-018", "2-sach-019"]
         }
       ]
     },
@@ -98,7 +98,7 @@
           "color": "#6ee7b7",
           "icon": "📏",
           "taskFile": "groessen-messen.json",
-          "taskIds": ["2-mass-001", "2-mass-002", "2-mass-003", "2-mass-004", "2-mass-005"]
+          "taskIds": ["2-mass-001", "2-mass-002", "2-mass-003", "2-mass-004", "2-mass-005", "2-mass-011", "2-mass-012", "2-mass-013", "2-mass-014", "2-mass-015"]
         },
         {
           "id": "geld-rechnen",
@@ -106,7 +106,7 @@
           "color": "#10b981",
           "icon": "💰",
           "taskFile": "groessen-messen.json",
-          "taskIds": ["2-mass-006", "2-mass-007", "2-mass-008", "2-mass-009", "2-mass-010"]
+          "taskIds": ["2-mass-006", "2-mass-007", "2-mass-008", "2-mass-009", "2-mass-010", "2-mass-016", "2-mass-017", "2-mass-018", "2-mass-019", "2-mass-020"]
         }
       ]
     }

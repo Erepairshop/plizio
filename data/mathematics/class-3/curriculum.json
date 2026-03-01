@@ -15,7 +15,12 @@
           "color": "#60a5fa",
           "icon": "➕",
           "taskFile": "zahlen-und-rechnen.json",
-          "taskIds": ["3-zahl-001", "3-zahl-002", "3-zahl-003", "3-zahl-004", "3-zahl-005"]
+          "taskIds": [
+            "3-zahl-001", "3-zahl-002", "3-zahl-003", "3-zahl-004", "3-zahl-005",
+            "3-zahl-011", "3-zahl-012", "3-zahl-013", "3-zahl-014", "3-zahl-015",
+            "3-zahl-016", "3-zahl-017", "3-zahl-018", "3-zahl-019", "3-zahl-020",
+            "3-zahl-021", "3-zahl-022", "3-zahl-023"
+          ]
         },
         {
           "id": "schriftlich",
@@ -23,7 +28,11 @@
           "color": "#3b82f6",
           "icon": "📝",
           "taskFile": "zahlen-und-rechnen.json",
-          "taskIds": ["3-zahl-006", "3-zahl-007", "3-zahl-008", "3-zahl-009", "3-zahl-010"]
+          "taskIds": [
+            "3-zahl-006", "3-zahl-007", "3-zahl-008", "3-zahl-009", "3-zahl-010",
+            "3-zahl-024", "3-zahl-025", "3-zahl-026", "3-zahl-027", "3-zahl-028",
+            "3-zahl-029", "3-zahl-030"
+          ]
         }
       ]
     },
@@ -40,7 +49,10 @@
           "color": "#a78bfa",
           "icon": "✖️",
           "taskFile": "einmaleins.json",
-          "taskIds": ["3-mul-001", "3-mul-002", "3-mul-003", "3-mul-004", "3-mul-005"]
+          "taskIds": [
+            "3-mul-001", "3-mul-002", "3-mul-003", "3-mul-004", "3-mul-005",
+            "3-mul-016", "3-mul-017", "3-mul-018", "3-mul-019", "3-mul-020"
+          ]
         },
         {
           "id": "division",
@@ -48,7 +60,10 @@
           "color": "#8b5cf6",
           "icon": "➗",
           "taskFile": "einmaleins.json",
-          "taskIds": ["3-mul-006", "3-mul-007", "3-mul-008", "3-mul-009", "3-mul-010"]
+          "taskIds": [
+            "3-mul-006", "3-mul-007", "3-mul-008", "3-mul-009", "3-mul-010",
+            "3-mul-021", "3-mul-022", "3-mul-023", "3-mul-024"
+          ]
         },
         {
           "id": "fehlende-faktoren",
@@ -56,7 +71,11 @@
           "color": "#6d28d9",
           "icon": "❓",
           "taskFile": "einmaleins.json",
-          "taskIds": ["3-mul-011", "3-mul-012", "3-mul-013", "3-mul-014", "3-mul-015"]
+          "taskIds": [
+            "3-mul-011", "3-mul-012", "3-mul-013", "3-mul-014", "3-mul-015",
+            "3-mul-025", "3-mul-026", "3-mul-027", "3-mul-028", "3-mul-029",
+            "3-mul-030"
+          ]
         }
       ]
     },
@@ -73,7 +92,11 @@
           "color": "#fbbf24",
           "icon": "📝",
           "taskFile": "sachaufgaben.json",
-          "taskIds": ["3-sach-001", "3-sach-002", "3-sach-003", "3-sach-004", "3-sach-005"]
+          "taskIds": [
+            "3-sach-001", "3-sach-002", "3-sach-003", "3-sach-004", "3-sach-005",
+            "3-sach-011", "3-sach-012", "3-sach-013", "3-sach-014", "3-sach-015",
+            "3-sach-016", "3-sach-019"
+          ]
         },
         {
           "id": "zahlenfolgen",
@@ -81,7 +104,10 @@
           "color": "#f59e0b",
           "icon": "🔢",
           "taskFile": "sachaufgaben.json",
-          "taskIds": ["3-sach-006", "3-sach-007", "3-sach-008", "3-sach-009", "3-sach-010"]
+          "taskIds": [
+            "3-sach-006", "3-sach-007", "3-sach-008", "3-sach-009", "3-sach-010",
+            "3-sach-017", "3-sach-018", "3-sach-020"
+          ]
         }
       ]
     },
@@ -98,7 +124,10 @@
           "color": "#6ee7b7",
           "icon": "📏",
           "taskFile": "groessen-einheiten.json",
-          "taskIds": ["3-mass-001", "3-mass-002", "3-mass-003", "3-mass-004", "3-mass-005"]
+          "taskIds": [
+            "3-mass-001", "3-mass-002", "3-mass-003", "3-mass-004", "3-mass-005",
+            "3-mass-011", "3-mass-012", "3-mass-013"
+          ]
         },
         {
           "id": "umrechnen",
@@ -106,7 +135,11 @@
           "color": "#10b981",
           "icon": "🔄",
           "taskFile": "groessen-einheiten.json",
-          "taskIds": ["3-mass-006", "3-mass-007", "3-mass-008", "3-mass-009", "3-mass-010"]
+          "taskIds": [
+            "3-mass-006", "3-mass-007", "3-mass-008", "3-mass-009", "3-mass-010",
+            "3-mass-014", "3-mass-015", "3-mass-016", "3-mass-017", "3-mass-018",
+            "3-mass-019", "3-mass-020"
+          ]
         }
       ]
     }

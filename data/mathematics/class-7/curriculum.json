@@ -15,7 +15,7 @@
           "color": "#3b82f6",
           "icon": "²️",
           "taskFile": "potenzen-algebra.json",
-          "taskIds": ["7-pot-001", "7-pot-002", "7-pot-003", "7-pot-004", "7-pot-005"]
+          "taskIds": ["7-pot-001", "7-pot-002", "7-pot-003", "7-pot-004", "7-pot-005", "7-pot-011", "7-pot-012", "7-pot-013", "7-pot-014", "7-pot-015"]
         },
         {
           "id": "algebra",
@@ -23,7 +23,7 @@
           "color": "#2563eb",
           "icon": "🔤",
           "taskFile": "potenzen-algebra.json",
-          "taskIds": ["7-pot-006", "7-pot-007", "7-pot-008", "7-pot-009", "7-pot-010"]
+          "taskIds": ["7-pot-006", "7-pot-007", "7-pot-008", "7-pot-009", "7-pot-010", "7-pot-016", "7-pot-017", "7-pot-018", "7-pot-019", "7-pot-020"]
         }
       ]
     },
@@ -40,7 +40,7 @@
           "color": "#8b5cf6",
           "icon": "⚖️",
           "taskFile": "gleichungen.json",
-          "taskIds": ["7-gleich-001", "7-gleich-002", "7-gleich-003", "7-gleich-004", "7-gleich-005"]
+          "taskIds": ["7-gleich-001", "7-gleich-002", "7-gleich-003", "7-gleich-004", "7-gleich-005", "7-gleich-011", "7-gleich-012", "7-gleich-013", "7-gleich-014", "7-gleich-015"]
         },
         {
           "id": "gleichungen-aufstellen",
@@ -48,7 +48,7 @@
           "color": "#7c3aed",
           "icon": "📝",
           "taskFile": "gleichungen.json",
-          "taskIds": ["7-gleich-006", "7-gleich-007", "7-gleich-008", "7-gleich-009", "7-gleich-010"]
+          "taskIds": ["7-gleich-006", "7-gleich-007", "7-gleich-008", "7-gleich-009", "7-gleich-010", "7-gleich-016", "7-gleich-017", "7-gleich-018", "7-gleich-019", "7-gleich-020"]
         }
       ]
     },
@@ -65,7 +65,7 @@
           "color": "#ec4899",
           "icon": "📐",
           "taskFile": "dreiecke.json",
-          "taskIds": ["7-drei-001", "7-drei-002", "7-drei-003", "7-drei-004", "7-drei-005"]
+          "taskIds": ["7-drei-001", "7-drei-002", "7-drei-003", "7-drei-004", "7-drei-005", "7-drei-011", "7-drei-012", "7-drei-013", "7-drei-014", "7-drei-015"]
         },
         {
           "id": "besondere-dreiecke",
@@ -73,7 +73,7 @@
           "color": "#db2777",
           "icon": "🔺",
           "taskFile": "dreiecke.json",
-          "taskIds": ["7-drei-006", "7-drei-007", "7-drei-008", "7-drei-009", "7-drei-010"]
+          "taskIds": ["7-drei-006", "7-drei-007", "7-drei-008", "7-drei-009", "7-drei-010", "7-drei-016", "7-drei-017", "7-drei-018", "7-drei-019", "7-drei-020"]
         }
       ]
     },
@@ -90,7 +90,7 @@
           "color": "#10b981",
           "icon": "📏",
           "taskFile": "pythagoras.json",
-          "taskIds": ["7-pyth-001", "7-pyth-002", "7-pyth-003", "7-pyth-004", "7-pyth-005"]
+          "taskIds": ["7-pyth-001", "7-pyth-002", "7-pyth-003", "7-pyth-004", "7-pyth-005", "7-pyth-011", "7-pyth-012", "7-pyth-013", "7-pyth-014", "7-pyth-015"]
         },
         {
           "id": "kathete",
@@ -98,7 +98,7 @@
           "color": "#059669",
           "icon": "📐",
           "taskFile": "pythagoras.json",
-          "taskIds": ["7-pyth-006", "7-pyth-007", "7-pyth-008", "7-pyth-009", "7-pyth-010"]
+          "taskIds": ["7-pyth-006", "7-pyth-007", "7-pyth-008", "7-pyth-009", "7-pyth-010", "7-pyth-016", "7-pyth-017", "7-pyth-018", "7-pyth-019", "7-pyth-020"]
         }
       ]
     }

@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Pencil, ChevronUp } from 'lucide-react';
 import DraftPanel from './draft/DraftPanel';
@@ -11,18 +11,17 @@ interface ExtendedMathQuestion {
   options: number[];
   topic: string;
   isWordProblem: boolean;
-  // New optional fields for rich content
   type?: 'text' | 'geometry' | 'table' | 'diagram' | 'calculation';
   imageData?: {
     type: 'svg' | 'url';
-    content: string; // SVG as string or URL
+    content: string;
     width?: number;
     height?: number;
   };
   tableData?: {
     headers: string[];
     rows: (string | number)[][];
-    fillableRows?: number[]; // Which rows are fillable
+    fillableRows?: number[];
   };
   diagramData?: {
     type: 'bar' | 'pie' | 'line';
@@ -33,40 +32,30 @@ interface ExtendedMathQuestion {
 
 interface MathQuestionDisplayProps {
   question: ExtendedMathQuestion;
+  questionNumber?: number;
   selectedAnswer: number | null;
   onSelectAnswer: (optionIndex: number) => void;
   showResult?: boolean;
   isCorrect?: boolean;
   useTextInput?: boolean;
   onTextAnswer?: (answer: string) => void;
-  /** Test ID for draft state persistence */
   testId?: string;
-  /** Question ID for draft state persistence */
   questionId?: string;
 }
 
 // SVG Geometry: Rect with dimensions
 function GeometryRect({ width, height, label }: { width: number; height: number; label?: string }) {
   return (
-    <svg viewBox="0 0 300 200" className="w-full max-w-md mx-auto my-4 border-2 border-gray-200 rounded-lg p-4 bg-gray-50">
-      {/* Rectangle */}
-      <rect x="50" y="40" width={width * 1.5} height={height * 1.5} fill="none" stroke="#3b82f6" strokeWidth="2" />
-
-      {/* Width label */}
-      <text x={50 + width * 0.75} y="170" textAnchor="middle" fill="#1e293b" fontSize="14" fontWeight="bold">
+    <svg viewBox="0 0 300 180" className="w-full max-w-xs mx-auto border border-gray-200 rounded-lg p-2 bg-gray-50">
+      <rect x="50" y="30" width={width * 1.5} height={height * 1.5} fill="none" stroke="#3b82f6" strokeWidth="2" />
+      <text x={50 + width * 0.75} y="155" textAnchor="middle" fill="#1e293b" fontSize="13" fontWeight="bold">
         {width} cm
       </text>
-
-      {/* Height label */}
-      <text x="25" y={40 + height * 0.75} textAnchor="middle" fill="#1e293b" fontSize="14" fontWeight="bold">
+      <text x="25" y={30 + height * 0.75} textAnchor="middle" fill="#1e293b" fontSize="13" fontWeight="bold">
         {height} cm
       </text>
-
-      {/* Question text */}
       {label && (
-        <text x="150" y="20" textAnchor="middle" fill="#64748b" fontSize="12">
-          {label}
-        </text>
+        <text x="150" y="16" textAnchor="middle" fill="#64748b" fontSize="11">{label}</text>
       )}
     </svg>
   );
@@ -78,43 +67,22 @@ function BarChart({ data, title }: { data: Array<{ label: string; value: number;
   const barWidth = 300 / (data.length + 1);
 
   return (
-    <svg viewBox="0 0 400 300" className="w-full max-w-md mx-auto my-4 border-2 border-gray-200 rounded-lg p-4 bg-gray-50">
-      {/* Title */}
+    <svg viewBox="0 0 400 250" className="w-full max-w-xs mx-auto border border-gray-200 rounded-lg p-2 bg-gray-50">
       {title && (
-        <text x="200" y="30" textAnchor="middle" fill="#1e293b" fontSize="16" fontWeight="bold">
-          {title}
-        </text>
+        <text x="200" y="22" textAnchor="middle" fill="#1e293b" fontSize="14" fontWeight="bold">{title}</text>
       )}
-
-      {/* Axes */}
-      <line x1="50" y1="250" x2="380" y2="250" stroke="#334155" strokeWidth="2" />
-      <line x1="50" y1="250" x2="50" y2="50" stroke="#334155" strokeWidth="2" />
-
-      {/* Bars */}
+      <line x1="50" y1="210" x2="380" y2="210" stroke="#334155" strokeWidth="2" />
+      <line x1="50" y1="210" x2="50" y2="40" stroke="#334155" strokeWidth="2" />
       {data.map((item, idx) => {
-        const barHeight = (item.value / maxValue) * 180;
+        const barHeight = (item.value / maxValue) * 150;
         const x = 70 + idx * barWidth;
-        const y = 250 - barHeight;
-
+        const y = 210 - barHeight;
         return (
           <g key={idx}>
-            {/* Bar */}
-            <rect
-              x={x}
-              y={y}
-              width={barWidth - 10}
-              height={barHeight}
-              fill={item.color || `hsl(${idx * 60}, 70%, 50%)`}
-              opacity="0.8"
-            />
-            {/* Label */}
-            <text x={x + (barWidth - 10) / 2} y="270" textAnchor="middle" fill="#334155" fontSize="12">
-              {item.label}
-            </text>
-            {/* Value */}
-            <text x={x + (barWidth - 10) / 2} y={y - 5} textAnchor="middle" fill="#1e293b" fontSize="12" fontWeight="bold">
-              {item.value}
-            </text>
+            <rect x={x} y={y} width={barWidth - 10} height={barHeight}
+              fill={item.color || `hsl(${idx * 60}, 70%, 50%)`} opacity="0.8" />
+            <text x={x + (barWidth - 10) / 2} y="228" textAnchor="middle" fill="#334155" fontSize="11">{item.label}</text>
+            <text x={x + (barWidth - 10) / 2} y={y - 4} textAnchor="middle" fill="#1e293b" fontSize="11" fontWeight="bold">{item.value}</text>
           </g>
         );
       })}
@@ -125,14 +93,12 @@ function BarChart({ data, title }: { data: Array<{ label: string; value: number;
 // Table Display
 function TableDisplay({ data }: { data: { headers: string[]; rows: (string | number)[][] } }) {
   return (
-    <div className="my-4 overflow-x-auto bg-gray-50 rounded-lg p-4 border-2 border-gray-200">
-      <table className="w-full text-gray-800 text-sm">
+    <div className="my-2 overflow-x-auto bg-gray-50 rounded-lg p-2 border border-gray-200">
+      <table className="w-full text-gray-800 text-xs">
         <thead>
           <tr className="border-b-2 border-gray-300">
             {data.headers.map((header, idx) => (
-              <th key={idx} className="px-4 py-2 text-left font-bold">
-                {header}
-              </th>
+              <th key={idx} className="px-3 py-1.5 text-left font-bold">{header}</th>
             ))}
           </tr>
         </thead>
@@ -140,9 +106,7 @@ function TableDisplay({ data }: { data: { headers: string[]; rows: (string | num
           {data.rows.map((row, rowIdx) => (
             <tr key={rowIdx} className={rowIdx % 2 === 0 ? 'bg-gray-100/50' : ''}>
               {row.map((cell, cellIdx) => (
-                <td key={cellIdx} className="px-4 py-2 border-r border-gray-200">
-                  {cell}
-                </td>
+                <td key={cellIdx} className="px-3 py-1.5 border-r border-gray-200">{cell}</td>
               ))}
             </tr>
           ))}
@@ -152,8 +116,12 @@ function TableDisplay({ data }: { data: { headers: string[]; rows: (string | num
   );
 }
 
+// ─── OPTION LETTERS ────────────────────────────────────
+const OPTION_LABELS = ['A', 'B', 'C', 'D'];
+
 export default function MathQuestionDisplay({
   question,
+  questionNumber,
   selectedAnswer,
   onSelectAnswer,
   showResult = false,
@@ -164,157 +132,180 @@ export default function MathQuestionDisplay({
   questionId = "q0",
 }: MathQuestionDisplayProps) {
   const [draftOpen, setDraftOpen] = useState(false);
-  const [textAnswer, setTextAnswer] = useState('');
+  const [textValue, setTextValue] = useState('');
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  // Sync textValue back when selectedAnswer changes (e.g., re-entering a question)
+  useEffect(() => {
+    if (useTextInput && selectedAnswer !== null) {
+      setTextValue(String(selectedAnswer));
+    }
+  }, [useTextInput, selectedAnswer]);
+
+  // Auto-submit text answer on blur or Enter
+  const commitTextAnswer = () => {
+    if (textValue && onTextAnswer) {
+      onTextAnswer(textValue);
+    }
+  };
+
+  const hasAnswer = useTextInput ? selectedAnswer !== null : selectedAnswer !== null;
 
   return (
-      <motion.div
-        className="bg-white rounded-2xl p-6 md:p-8 border border-gray-200 shadow-lg"
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
+    <div className="relative">
+      {/* ─── COMPACT QUESTION CARD ──────────────────────── */}
+      <div
+        className={`rounded-xl border transition-all ${
+          showResult
+            ? isCorrect
+              ? 'border-green-400 bg-green-50/40'
+              : 'border-red-400 bg-red-50/40'
+            : hasAnswer
+              ? 'border-blue-300 bg-blue-50/30'
+              : 'border-gray-200 bg-white'
+        }`}
       >
-        {/* Question Header */}
-        <div className="mb-6 pb-4 border-b-2 border-gray-200 flex items-start justify-between gap-4">
-          <h3 className="text-lg md:text-xl font-black text-gray-800 flex-1">{question.question}</h3>
-
-          {/* Draft toggle button */}
-          <motion.button
-            onClick={() => setDraftOpen((v) => !v)}
-            className={`flex-shrink-0 p-2.5 rounded-lg transition-all ${
-              draftOpen
-                ? "bg-amber-100 border border-amber-400 text-amber-700"
-                : "bg-amber-50 hover:bg-amber-100 border border-amber-300 text-amber-600"
-            }`}
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-            title={draftOpen ? "Piszkozat elrejtése" : "Piszkozat megnyitása"}
-          >
-            {draftOpen ? <ChevronUp size={20} /> : <Pencil size={20} />}
-          </motion.button>
-        </div>
-
-        {/* Inline Draft Panel - relative position, no overlay, no z-index */}
-        <div
-          className={draftOpen ? "mb-6 relative" : "hidden"}
-          style={{ isolation: "auto" }}
-        >
-          <DraftPanel testId={testId} questionId={questionId} />
-        </div>
-
-      {/* Geometry Diagram */}
-      {question.type === 'geometry' && question.imageData && (
-        <div className="my-6">
-          {question.imageData.type === 'svg' && question.imageData.content.includes('svg') ? (
-            <div dangerouslySetInnerHTML={{ __html: question.imageData.content }} className="mx-auto" />
-          ) : (
-            <GeometryRect width={12} height={5} label="Számítsd ki a területet!" />
+        {/* Question text + draft toggle — single tight row */}
+        <div className="flex items-start gap-2 px-3 py-2.5 sm:px-4 sm:py-3">
+          {/* Question number badge */}
+          {questionNumber !== undefined && (
+            <span className="flex-shrink-0 w-6 h-6 rounded-full bg-gray-800 text-white text-xs font-bold flex items-center justify-center mt-0.5">
+              {questionNumber}
+            </span>
           )}
-        </div>
-      )}
 
-      {/* Bar Chart Diagram */}
-      {question.type === 'diagram' && question.diagramData && question.diagramData.type === 'bar' && (
-        <div className="my-6">
-          <BarChart data={question.diagramData.data} title={question.diagramData.title} />
-        </div>
-      )}
+          <p className="flex-1 text-sm sm:text-base font-semibold text-gray-800 leading-snug">
+            {question.question}
+          </p>
 
-      {/* Table */}
-      {question.type === 'table' && question.tableData && (
-        <div className="my-6">
-          <TableDisplay data={question.tableData} />
+          {/* Draft toggle — small icon */}
+          <button
+            onClick={() => setDraftOpen((v) => !v)}
+            className={`flex-shrink-0 p-1.5 rounded-md transition-all ${
+              draftOpen
+                ? "bg-amber-100 text-amber-700"
+                : "text-gray-400 hover:text-amber-600 hover:bg-amber-50"
+            }`}
+            title={draftOpen ? "Piszkozat elrejtese" : "Piszkozat"}
+          >
+            {draftOpen ? <ChevronUp size={16} /> : <Pencil size={16} />}
+          </button>
         </div>
-      )}
 
-      {/* Answer Input */}
-      {useTextInput ? (
-        <div className="space-y-3 mt-8">
-          <div className="flex gap-2">
+        {/* Inline Draft Panel */}
+        {draftOpen && (
+          <div className="px-3 pb-2 sm:px-4">
+            <DraftPanel testId={testId} questionId={questionId} />
+          </div>
+        )}
+
+        {/* Visual content (geometry, chart, table) - compact */}
+        {question.type === 'geometry' && question.imageData && (
+          <div className="px-3 pb-2">
+            {question.imageData.type === 'svg' && question.imageData.content.includes('svg') ? (
+              <div dangerouslySetInnerHTML={{ __html: question.imageData.content }} className="mx-auto" />
+            ) : (
+              <GeometryRect width={12} height={5} label="Berechne die Flache!" />
+            )}
+          </div>
+        )}
+        {question.type === 'diagram' && question.diagramData && question.diagramData.type === 'bar' && (
+          <div className="px-3 pb-2">
+            <BarChart data={question.diagramData.data} title={question.diagramData.title} />
+          </div>
+        )}
+        {question.type === 'table' && question.tableData && (
+          <div className="px-3 pb-2">
+            <TableDisplay data={question.tableData} />
+          </div>
+        )}
+
+        {/* ─── ANSWER AREA ──────────────────────────────── */}
+        <div className="px-3 pb-3 sm:px-4">
+          {useTextInput ? (
+            /* ─── Text Input — compact, NO send button ─── */
             <input
+              ref={inputRef}
               type="number"
-              value={textAnswer}
-              onChange={(e) => setTextAnswer(e.target.value)}
-              placeholder="Add meg a választ..."
-              className="flex-1 px-4 py-3 rounded-xl bg-gray-50 border-2 border-gray-300 text-gray-800 placeholder-gray-400 focus:border-blue-500 focus:bg-white outline-none transition-all font-bold text-lg"
-            />
-            <motion.button
-              onClick={() => {
-                if (textAnswer && onTextAnswer) {
-                  onTextAnswer(textAnswer);
-                  setTextAnswer('');
+              inputMode="numeric"
+              value={textValue}
+              onChange={(e) => {
+                setTextValue(e.target.value);
+                // Immediately register the answer
+                if (e.target.value && onTextAnswer) {
+                  onTextAnswer(e.target.value);
                 }
               }}
-              className="px-6 py-3 rounded-xl bg-blue-500 hover:bg-blue-600 border-2 border-blue-400 text-white font-bold transition-all disabled:opacity-50"
-              disabled={!textAnswer}
-              whileHover={{ scale: textAnswer ? 1.05 : 1 }}
-              whileTap={{ scale: 0.95 }}
-            >
-              Küld
-            </motion.button>
-          </div>
-
-          {/* Result Feedback for text input */}
-          {showResult && (
-            <motion.div
-              className={`p-4 rounded-lg border-2 font-bold text-center ${
-                isCorrect ? 'bg-green-50 border-green-500 text-green-700' : 'bg-red-50 border-red-500 text-red-700'
+              onBlur={commitTextAnswer}
+              onKeyDown={(e) => {
+                if (e.key === 'Enter') {
+                  commitTextAnswer();
+                  inputRef.current?.blur();
+                }
+              }}
+              placeholder="= ?"
+              disabled={showResult}
+              className={`w-full px-3 py-2 rounded-lg text-sm font-bold transition-all outline-none ${
+                showResult
+                  ? isCorrect
+                    ? 'bg-green-100 border border-green-400 text-green-800'
+                    : 'bg-red-100 border border-red-400 text-red-800'
+                  : hasAnswer
+                    ? 'bg-blue-50 border border-blue-300 text-blue-800 focus:border-blue-500'
+                    : 'bg-gray-50 border border-gray-200 text-gray-800 focus:border-blue-400 focus:bg-white'
               }`}
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-            >
-              {isCorrect ? '✅ Helyes!' : '❌ Hibás - A helyes válasz: ' + question.correctAnswer}
-            </motion.div>
-          )}
-        </div>
-      ) : (
-        <>
-          {/* Multiple Choice Options */}
-          <div className="space-y-3 mt-8">
-            {question.options.map((option, idx) => (
-              <motion.button
-                key={idx}
-                onClick={() => onSelectAnswer(idx)}
-                className={`w-full p-4 rounded-xl border-2 transition-all text-left font-bold text-gray-800 ${
-                  selectedAnswer === idx
-                    ? isCorrect
-                      ? 'border-green-500 bg-green-50'
-                      : 'border-red-500 bg-red-50'
-                    : showResult && idx === question.correctAnswer
-                      ? 'border-green-500 bg-green-50/50'
-                      : 'border-gray-200 bg-gray-50 hover:bg-gray-100 hover:border-gray-300'
-                }`}
-                whileHover={{ scale: 1.02 }}
-                whileTap={{ scale: 0.98 }}
-              >
-                <div className="flex items-center gap-3">
-                  <div
-                    className={`w-6 h-6 rounded-full border-2 flex items-center justify-center ${
-                      selectedAnswer === idx
-                        ? 'border-blue-500 bg-blue-500'
-                        : 'border-gray-300'
+            />
+          ) : (
+            /* ─── Multiple Choice — compact 2x2 grid ─── */
+            <div className="grid grid-cols-2 gap-1.5">
+              {question.options.map((option, idx) => {
+                const isSelected = selectedAnswer === idx;
+                const isCorrectOption = showResult && idx === question.correctAnswer;
+                const isWrong = showResult && isSelected && !isCorrect;
+
+                return (
+                  <button
+                    key={idx}
+                    onClick={() => !showResult && onSelectAnswer(idx)}
+                    disabled={showResult}
+                    className={`flex items-center gap-2 px-3 py-2 rounded-lg border text-left text-sm font-semibold transition-all ${
+                      isCorrectOption
+                        ? 'border-green-500 bg-green-50 text-green-800'
+                        : isWrong
+                          ? 'border-red-500 bg-red-50 text-red-800'
+                          : isSelected
+                            ? 'border-blue-500 bg-blue-50 text-blue-800'
+                            : 'border-gray-200 bg-gray-50 text-gray-700 hover:bg-gray-100 hover:border-gray-300'
                     }`}
                   >
-                    {selectedAnswer === idx && <div className="w-3 h-3 bg-white rounded-full" />}
-                  </div>
-                  <span>{option}</span>
-                </div>
-              </motion.button>
-            ))}
-          </div>
-        </>
-      )}
+                    <span className={`flex-shrink-0 w-5 h-5 rounded text-xs font-bold flex items-center justify-center ${
+                      isCorrectOption
+                        ? 'bg-green-500 text-white'
+                        : isWrong
+                          ? 'bg-red-500 text-white'
+                          : isSelected
+                            ? 'bg-blue-500 text-white'
+                            : 'bg-gray-200 text-gray-600'
+                    }`}>
+                      {OPTION_LABELS[idx]}
+                    </span>
+                    <span>{option}</span>
+                  </button>
+                );
+              })}
+            </div>
+          )}
 
-        {/* Result Feedback */}
-        {showResult && !useTextInput && (
-          <motion.div
-            className={`mt-6 p-4 rounded-lg border-2 font-bold text-center ${
-              isCorrect ? 'bg-green-50 border-green-500 text-green-700' : 'bg-red-50 border-red-500 text-red-700'
-            }`}
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-          >
-            {isCorrect ? '✅ Helyes!' : '❌ Hibás - A helyes válasz: ' + question.correctAnswer}
-          </motion.div>
-        )}
-      </motion.div>
+          {/* Result feedback — inline, compact */}
+          {showResult && (
+            <div className={`mt-1.5 px-2 py-1 rounded text-xs font-bold text-center ${
+              isCorrect ? 'bg-green-100 text-green-700' : 'bg-red-100 text-red-700'
+            }`}>
+              {isCorrect ? 'Helyes!' : `Helyes valasz: ${question.correctAnswer}`}
+            </div>
+          )}
+        </div>
+      </div>
+    </div>
   );
 }

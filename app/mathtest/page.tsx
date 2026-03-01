@@ -1330,26 +1330,23 @@ export default function MathTestPage() {
                     key={qi}
                     initial={{ opacity: 0, y: 10 }}
                     animate={{ opacity: 1, y: 0 }}
-                    transition={{ delay: isGrading ? 0 : qi * 0.05 }}
-                    className="mb-6"
+                    transition={{ delay: isGrading ? 0 : qi * 0.03 }}
+                    className="mb-2.5"
                   >
                     {/* Section header (Klassenarbeit only) */}
                     {showSectionHeader && (
-                      <motion.div
-                        className="mt-6 mb-4 pb-2 border-b-2 border-gray-400/30"
-                        initial={{ opacity: 0 }}
-                        animate={{ opacity: 1 }}
-                      >
-                        <h3 className="text-sm font-black text-gray-700 uppercase tracking-wider">
+                      <div className="mt-4 mb-2 pb-1 border-b border-gray-300/50">
+                        <h3 className="text-xs font-black text-gray-600 uppercase tracking-wider">
                           {currentSection}
-                          {question.maxPoints && <span className="ml-2 text-gray-500 font-normal">({question.maxPoints} pont)</span>}
+                          {question.maxPoints && <span className="ml-2 text-gray-400 font-normal">({question.maxPoints} P)</span>}
                         </h3>
-                      </motion.div>
+                      </div>
                     )}
 
-                    {/* Use MathQuestionDisplay for all questions - includes inline draft */}
+                    {/* Compact question card */}
                     <MathQuestionDisplay
                       question={convertToExtendedQuestion(question)}
+                      questionNumber={qi + 1}
                       selectedAnswer={answers[qi]}
                       onSelectAnswer={(optIdx) => !isGrading && handleAnswer(qi, question.options[optIdx])}
                       showResult={isGrading && isGraded}

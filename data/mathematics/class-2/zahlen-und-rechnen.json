@@ -138,6 +138,141 @@
       "options": [50, 40, 45, 55],
       "correct": 0,
       "explanation": "47 liegt näher an 50 (Abstand 3) als an 40 (Abstand 7)"
+    },
+    {
+      "id": "2-zahl-016",
+      "question": "Wie viel ist 31 + 25?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [56, 55, 57, 54],
+      "correct": 0,
+      "explanation": "31 + 25 = 56"
+    },
+    {
+      "id": "2-zahl-017",
+      "question": "Wie viel ist 12 + 43?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [55, 54, 56, 53],
+      "correct": 0,
+      "explanation": "12 + 43 = 55"
+    },
+    {
+      "id": "2-zahl-018",
+      "question": "Wie viel ist 24 + 61?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [85, 84, 86, 83],
+      "correct": 0,
+      "explanation": "24 + 61 = 85"
+    },
+    {
+      "id": "2-zahl-019",
+      "question": "Wie viel ist 47 + 35?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [82, 81, 83, 80],
+      "correct": 0,
+      "explanation": "47 + 35 = 82 (7 + 5 = 12, Übertrag 1)"
+    },
+    {
+      "id": "2-zahl-020",
+      "question": "Wie viel ist 56 + 38?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [94, 93, 95, 92],
+      "correct": 0,
+      "explanation": "56 + 38 = 94 (6 + 8 = 14, Übertrag 1)"
+    },
+    {
+      "id": "2-zahl-021",
+      "question": "Wie viel ist 65 - 21?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [44, 43, 45, 42],
+      "correct": 0,
+      "explanation": "65 - 21 = 44"
+    },
+    {
+      "id": "2-zahl-022",
+      "question": "Wie viel ist 89 - 34?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [55, 54, 56, 53],
+      "correct": 0,
+      "explanation": "89 - 34 = 55"
+    },
+    {
+      "id": "2-zahl-023",
+      "question": "Wie viel ist 72 - 48?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [24, 23, 25, 22],
+      "correct": 0,
+      "explanation": "72 - 48 = 24 (Entbündeln nötig)"
+    },
+    {
+      "id": "2-zahl-024",
+      "question": "Wie viel ist 61 - 37?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [24, 23, 25, 22],
+      "correct": 0,
+      "explanation": "61 - 37 = 24 (Entbündeln nötig)"
+    },
+    {
+      "id": "2-zahl-025",
+      "question": "Wie viel ist 50 + 20?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [70, 60, 80, 65],
+      "correct": 0,
+      "explanation": "50 + 20 = 70"
+    },
+    {
+      "id": "2-zahl-026",
+      "question": "Wie viel ist 90 - 40?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [50, 40, 60, 45],
+      "correct": 0,
+      "explanation": "90 - 40 = 50"
+    },
+    {
+      "id": "2-zahl-027",
+      "question": "Wie viel ist 10 + 50 + 30?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [90, 80, 100, 70],
+      "correct": 0,
+      "explanation": "10 + 50 = 60, dann 60 + 30 = 90"
+    },
+    {
+      "id": "2-zahl-028",
+      "question": "___ + 27 = 63. Welche Zahl fehlt?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [36, 34, 38, 40],
+      "correct": 0,
+      "explanation": "63 - 27 = 36, also 36 + 27 = 63"
+    },
+    {
+      "id": "2-zahl-029",
+      "question": "Wie viel ist 34 + 29 - 18?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [45, 44, 46, 43],
+      "correct": 0,
+      "explanation": "34 + 29 = 63, dann 63 - 18 = 45"
+    },
+    {
+      "id": "2-zahl-030",
+      "question": "85 - ___ = 39. Welche Zahl fehlt?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [46, 44, 48, 42],
+      "correct": 0,
+      "explanation": "85 - 39 = 46, also 85 - 46 = 39"
     }
   ]
 }

@@ -93,6 +93,96 @@
       "options": ["20 m²", "18 m²", "9 m²", "25 m²"],
       "correct": 0,
       "explanation": "Fläche = 5 × 4 = 20 m²"
+    },
+    {
+      "id": "5-geo-011",
+      "question": "Ein Rechteck hat die Seiten 12 cm und 3 cm. Wie groß ist der Umfang?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["30 cm", "36 cm", "15 cm", "24 cm"],
+      "correct": 0,
+      "explanation": "Umfang = 2 × (12 + 3) = 2 × 15 = 30 cm"
+    },
+    {
+      "id": "5-geo-012",
+      "question": "Ein Quadrat hat eine Seitenlänge von 10 cm. Wie groß ist die Fläche?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["100 cm²", "40 cm²", "80 cm²", "50 cm²"],
+      "correct": 0,
+      "explanation": "Fläche = 10 × 10 = 100 cm²"
+    },
+    {
+      "id": "5-geo-013",
+      "question": "Ein Rechteck hat die Seiten 15 cm und 8 cm. Wie groß ist die Fläche?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["120 cm²", "46 cm²", "92 cm²", "150 cm²"],
+      "correct": 0,
+      "explanation": "Fläche = 15 × 8 = 120 cm²"
+    },
+    {
+      "id": "5-geo-014",
+      "question": "Ein Rechteck hat einen Umfang von 30 cm und eine Seite von 10 cm. Wie lang ist die andere Seite?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["5 cm", "10 cm", "15 cm", "20 cm"],
+      "correct": 0,
+      "explanation": "Umfang = 2 × (a + b). 30 = 2 × (10 + b), also 15 = 10 + b, also b = 5 cm."
+    },
+    {
+      "id": "5-geo-015",
+      "question": "Zwei Quadrate mit der Seitenlänge 4 cm werden nebeneinander gelegt. Wie groß ist der Umfang der entstandenen Form?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["24 cm", "32 cm", "16 cm", "20 cm"],
+      "correct": 0,
+      "explanation": "Es entsteht ein Rechteck mit 8 cm × 4 cm. Umfang = 2 × (8 + 4) = 2 × 12 = 24 cm."
+    },
+    {
+      "id": "5-geo-016",
+      "question": "Wie viele Seiten hat ein Dreieck?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [3, 4, 5, 2],
+      "correct": 0,
+      "explanation": "Ein Dreieck hat 3 Seiten."
+    },
+    {
+      "id": "5-geo-017",
+      "question": "Ein Dreieck hat die Seiten 5 cm, 7 cm und 8 cm. Wie groß ist der Umfang?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["20 cm", "15 cm", "25 cm", "18 cm"],
+      "correct": 0,
+      "explanation": "Umfang = 5 + 7 + 8 = 20 cm"
+    },
+    {
+      "id": "5-geo-018",
+      "question": "Wie viel Quadratzentimeter hat ein Quadratmeter?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [10000, 100, 1000, 100000],
+      "correct": 0,
+      "explanation": "1 m = 100 cm, also 1 m² = 100 × 100 = 10.000 cm²."
+    },
+    {
+      "id": "5-geo-019",
+      "question": "Ein L-förmiges Grundstück besteht aus zwei Rechtecken: 6 m × 3 m und 4 m × 3 m. Wie groß ist die Gesamtfläche?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["30 m²", "24 m²", "36 m²", "18 m²"],
+      "correct": 0,
+      "explanation": "Fläche 1 = 6 × 3 = 18 m². Fläche 2 = 4 × 3 = 12 m². Gesamt: 18 + 12 = 30 m²."
+    },
+    {
+      "id": "5-geo-020",
+      "question": "Ein quadratischer Spielplatz hat eine Fläche von 64 m². Wie lang ist eine Seite?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["8 m", "16 m", "32 m", "6 m"],
+      "correct": 0,
+      "explanation": "Fläche = Seite × Seite. 8 × 8 = 64 m². Also ist eine Seite 8 m lang."
     }
   ]
 }

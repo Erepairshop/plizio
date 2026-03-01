@@ -93,6 +93,96 @@
       "options": ["Je 45°", "Je 60°", "Je 30°", "30° und 60°"],
       "correct": 0,
       "explanation": "180° - 90° = 90°. Da gleichschenklig, teilen sich die restlichen 90° auf: 90° ÷ 2 = 45° je Winkel."
+    },
+    {
+      "id": "7-drei-011",
+      "question": "Ein Dreieck hat die Winkel 50° und 70°. Wie groß ist der dritte Winkel?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["60°", "50°", "70°", "80°"],
+      "correct": 0,
+      "explanation": "180° - 50° - 70° = 60°"
+    },
+    {
+      "id": "7-drei-012",
+      "question": "Ein Dreieck hat die Winkel 30° und 90°. Wie groß ist der dritte Winkel?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["60°", "30°", "90°", "45°"],
+      "correct": 0,
+      "explanation": "180° - 30° - 90° = 60°"
+    },
+    {
+      "id": "7-drei-013",
+      "question": "Kann ein Dreieck zwei rechte Winkel (je 90°) haben?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Nein, die Summe wäre schon 180°", "Ja, es ist dann ein Rechteck", "Ja, der dritte Winkel ist 0°", "Nein, die Summe wäre 270°"],
+      "correct": 0,
+      "explanation": "90° + 90° = 180°. Für den dritten Winkel blieben 0° übrig, also ist das unmöglich."
+    },
+    {
+      "id": "7-drei-014",
+      "question": "Ein gleichschenkliges Dreieck hat einen Basiswinkel von 55°. Wie groß ist der Winkel an der Spitze?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["70°", "55°", "60°", "80°"],
+      "correct": 0,
+      "explanation": "Beide Basiswinkel sind 55°. Spitzenwinkel = 180° - 55° - 55° = 70°"
+    },
+    {
+      "id": "7-drei-015",
+      "question": "Ein Dreieck hat einen Winkel von 110°. Wie nennt man dieses Dreieck?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Stumpfwinkliges Dreieck", "Rechtwinkliges Dreieck", "Spitzwinkliges Dreieck", "Gleichseitiges Dreieck"],
+      "correct": 0,
+      "explanation": "Ein Dreieck mit einem Winkel größer als 90° heißt stumpfwinkliges Dreieck."
+    },
+    {
+      "id": "7-drei-016",
+      "question": "Ein gleichschenkliges Dreieck hat einen Winkel von 100° an der Spitze. Wie groß sind die Basiswinkel?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["40°", "50°", "30°", "80°"],
+      "correct": 0,
+      "explanation": "(180° - 100°) ÷ 2 = 80° ÷ 2 = 40° je Basiswinkel"
+    },
+    {
+      "id": "7-drei-017",
+      "question": "Welches Dreieck hat alle Winkel kleiner als 90°?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Spitzwinkliges Dreieck", "Stumpfwinkliges Dreieck", "Rechtwinkliges Dreieck", "Gleichschenkliges Dreieck"],
+      "correct": 0,
+      "explanation": "Ein spitzwinkliges Dreieck hat alle drei Winkel kleiner als 90°."
+    },
+    {
+      "id": "7-drei-018",
+      "question": "Ein Dreieck hat die Winkel 35° und 55°. Wie groß ist der dritte Winkel?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["90°", "80°", "70°", "100°"],
+      "correct": 0,
+      "explanation": "180° - 35° - 55° = 90°. Der dritte Winkel ist 90°, es ist ein rechtwinkliges Dreieck."
+    },
+    {
+      "id": "7-drei-019",
+      "question": "In einem Dreieck ist ein Winkel dreimal so groß wie ein anderer. Der dritte Winkel beträgt 80°. Der kleinere Winkel ist 25°. Wie groß ist der größere?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["75°", "60°", "100°", "90°"],
+      "correct": 0,
+      "explanation": "Kleinerer Winkel = 25°, größerer = 3 × 25° = 75°. Probe: 25° + 75° + 80° = 180° ✓"
+    },
+    {
+      "id": "7-drei-020",
+      "question": "Ein Dreieck hat die Winkel α, 2α und 3α. Wie groß ist der kleinste Winkel α?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["30°", "20°", "45°", "60°"],
+      "correct": 0,
+      "explanation": "α + 2α + 3α = 180° → 6α = 180° → α = 30°"
     }
   ]
 }

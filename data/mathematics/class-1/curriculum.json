@@ -15,7 +15,7 @@
           "color": "#60a5fa",
           "icon": "➕",
           "taskFile": "zahlen-und-rechnen.json",
-          "taskIds": ["1-zahl-001", "1-zahl-002", "1-zahl-003", "1-zahl-004", "1-zahl-005"]
+          "taskIds": ["1-zahl-001", "1-zahl-002", "1-zahl-003", "1-zahl-004", "1-zahl-005", "1-zahl-021", "1-zahl-022", "1-zahl-023", "1-zahl-024", "1-zahl-025", "1-zahl-026", "1-zahl-027", "1-zahl-028", "1-zahl-029", "1-zahl-030"]
         },
         {
           "id": "subtraktion-bis-20",
@@ -23,7 +23,7 @@
           "color": "#3b82f6",
           "icon": "➖",
           "taskFile": "zahlen-und-rechnen.json",
-          "taskIds": ["1-zahl-006", "1-zahl-007", "1-zahl-008", "1-zahl-009", "1-zahl-010"]
+          "taskIds": ["1-zahl-006", "1-zahl-007", "1-zahl-008", "1-zahl-009", "1-zahl-010", "1-zahl-031", "1-zahl-032", "1-zahl-033", "1-zahl-034", "1-zahl-035", "1-zahl-036", "1-zahl-037", "1-zahl-038", "1-zahl-039", "1-zahl-040"]
         },
         {
           "id": "vergleichen-ordnen",
@@ -31,7 +31,7 @@
           "color": "#1e40af",
           "icon": "⚖️",
           "taskFile": "zahlen-und-rechnen.json",
-          "taskIds": ["1-zahl-011", "1-zahl-012", "1-zahl-013", "1-zahl-014", "1-zahl-015"]
+          "taskIds": ["1-zahl-011", "1-zahl-012", "1-zahl-013", "1-zahl-014", "1-zahl-015", "1-zahl-041", "1-zahl-042", "1-zahl-043", "1-zahl-044", "1-zahl-045", "1-zahl-046", "1-zahl-047", "1-zahl-048", "1-zahl-049", "1-zahl-050"]
         },
         {
           "id": "fehlende-zahlen",
@@ -39,7 +39,7 @@
           "color": "#1e3a8a",
           "icon": "❓",
           "taskFile": "zahlen-und-rechnen.json",
-          "taskIds": ["1-zahl-016", "1-zahl-017", "1-zahl-018", "1-zahl-019", "1-zahl-020"]
+          "taskIds": ["1-zahl-016", "1-zahl-017", "1-zahl-018", "1-zahl-019", "1-zahl-020", "1-zahl-051", "1-zahl-052", "1-zahl-053", "1-zahl-054", "1-zahl-055", "1-zahl-056", "1-zahl-057", "1-zahl-058", "1-zahl-059", "1-zahl-060"]
         }
       ]
     },
@@ -56,7 +56,7 @@
           "color": "#fbbf24",
           "icon": "📝",
           "taskFile": "sachaufgaben.json",
-          "taskIds": ["1-sach-001", "1-sach-002", "1-sach-003", "1-sach-004", "1-sach-005"]
+          "taskIds": ["1-sach-001", "1-sach-002", "1-sach-003", "1-sach-004", "1-sach-005", "1-sach-011", "1-sach-012", "1-sach-013", "1-sach-014", "1-sach-015"]
         },
         {
           "id": "rechengeschichten",
@@ -64,7 +64,7 @@
           "color": "#f59e0b",
           "icon": "📚",
           "taskFile": "sachaufgaben.json",
-          "taskIds": ["1-sach-006", "1-sach-007", "1-sach-008", "1-sach-009", "1-sach-010"]
+          "taskIds": ["1-sach-006", "1-sach-007", "1-sach-008", "1-sach-009", "1-sach-010", "1-sach-016", "1-sach-017", "1-sach-018", "1-sach-019", "1-sach-020"]
         }
       ]
     },
@@ -81,7 +81,7 @@
           "color": "#f472b6",
           "icon": "🔷",
           "taskFile": "geometrie-groessen.json",
-          "taskIds": ["1-geo-001", "1-geo-002", "1-geo-003", "1-geo-004", "1-geo-005"]
+          "taskIds": ["1-geo-001", "1-geo-002", "1-geo-003", "1-geo-004", "1-geo-005", "1-geo-011", "1-geo-012", "1-geo-013", "1-geo-014", "1-geo-015"]
         },
         {
           "id": "uhr-und-geld",
@@ -89,7 +89,7 @@
           "color": "#ec4899",
           "icon": "⏰",
           "taskFile": "geometrie-groessen.json",
-          "taskIds": ["1-geo-006", "1-geo-007", "1-geo-008", "1-geo-009", "1-geo-010"]
+          "taskIds": ["1-geo-006", "1-geo-007", "1-geo-008", "1-geo-009", "1-geo-010", "1-geo-016", "1-geo-017", "1-geo-018", "1-geo-019", "1-geo-020"]
         }
       ]
     }

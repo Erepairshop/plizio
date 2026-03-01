@@ -93,6 +93,96 @@
       "options": [25, 20, 24, 21],
       "correct": 0,
       "explanation": "Das sind Quadratzahlen: 1², 2², 3², 4², 5² = 25."
+    },
+    {
+      "id": "3-sach-011",
+      "question": "Lisa hat 120 Sticker. Sie verschenkt 45 Sticker an ihre Freundin. Wie viele Sticker hat Lisa noch?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [75, 85, 65, 95],
+      "correct": 0,
+      "explanation": "120 - 45 = 75 Sticker"
+    },
+    {
+      "id": "3-sach-012",
+      "question": "Im Zoo gibt es 234 Vögel und 152 Affen. Wie viele Tiere sind das zusammen?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [386, 376, 396, 366],
+      "correct": 0,
+      "explanation": "234 + 152 = 386 Tiere"
+    },
+    {
+      "id": "3-sach-013",
+      "question": "Paul sammelt Briefmarken. Er hat 185 Briefmarken und kauft noch 67 dazu. Dann verschenkt er 30. Wie viele hat er jetzt?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [222, 232, 212, 242],
+      "correct": 0,
+      "explanation": "185 + 67 = 252. Dann 252 - 30 = 222 Briefmarken"
+    },
+    {
+      "id": "3-sach-014",
+      "question": "In einem Parkhaus stehen morgens 340 Autos. Mittags fahren 125 weg und 80 kommen dazu. Wie viele Autos stehen jetzt im Parkhaus?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [295, 285, 305, 275],
+      "correct": 0,
+      "explanation": "340 - 125 = 215. Dann 215 + 80 = 295 Autos"
+    },
+    {
+      "id": "3-sach-015",
+      "question": "5 Kinder teilen 35 Bonbons gleichmäßig auf. Wie viele Bonbons bekommt jedes Kind?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [7, 6, 8, 5],
+      "correct": 0,
+      "explanation": "35 ÷ 5 = 7 Bonbons pro Kind"
+    },
+    {
+      "id": "3-sach-016",
+      "question": "Ein Zug hat 8 Waggons. In jedem Waggon sitzen 45 Fahrgäste. Bei einem Halt steigen 120 Fahrgäste aus. Wie viele sind noch im Zug?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [240, 250, 230, 260],
+      "correct": 0,
+      "explanation": "8 × 45 = 360 Fahrgäste. 360 - 120 = 240 Fahrgäste noch im Zug"
+    },
+    {
+      "id": "3-sach-017",
+      "question": "Welche Zahl kommt als Nächstes? 4, 8, 12, 16, _",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [20, 18, 22, 24],
+      "correct": 0,
+      "explanation": "Die Zahlen steigen immer um 4. Nach 16 kommt 20."
+    },
+    {
+      "id": "3-sach-018",
+      "question": "Welche Zahl kommt als Nächstes? 7, 14, 21, 28, _",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [35, 32, 36, 30],
+      "correct": 0,
+      "explanation": "Die Zahlen steigen immer um 7 (7er-Reihe). Nach 28 kommt 35."
+    },
+    {
+      "id": "3-sach-019",
+      "question": "Eine Schule bestellt 9 Kartons mit je 8 Heften und 6 Kartons mit je 5 Bleistiften. Wie viele Hefte und Bleistifte sind das insgesamt?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [102, 92, 112, 82],
+      "correct": 0,
+      "explanation": "9 × 8 = 72 Hefte. 6 × 5 = 30 Bleistifte. 72 + 30 = 102 insgesamt"
+    },
+    {
+      "id": "3-sach-020",
+      "question": "Welche Zahl kommt als Nächstes? 2, 6, 18, 54, _",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [162, 108, 72, 150],
+      "correct": 0,
+      "explanation": "Jede Zahl wird mit 3 multipliziert (× 3). 54 × 3 = 162."
     }
   ]
 }

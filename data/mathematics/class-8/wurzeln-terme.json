@@ -93,6 +93,96 @@
       "options": ["a² - 9", "a² + 9", "a² - 6a + 9", "a² - 6"],
       "correct": 0,
       "explanation": "(a - 3)(a + 3) = a² - 3² = a² - 9 (Dritte Binomische Formel)"
+    },
+    {
+      "id": "8-wurz-011",
+      "question": "Wie viel ist √49?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [7, 24, 14, 6],
+      "correct": 0,
+      "explanation": "√49 = 7, denn 7 × 7 = 49"
+    },
+    {
+      "id": "8-wurz-012",
+      "question": "Wie viel ist √100?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [10, 50, 20, 1000],
+      "correct": 0,
+      "explanation": "√100 = 10, denn 10 × 10 = 100"
+    },
+    {
+      "id": "8-wurz-013",
+      "question": "Wie viel ist √81?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [9, 8, 27, 41],
+      "correct": 0,
+      "explanation": "√81 = 9, denn 9 × 9 = 81"
+    },
+    {
+      "id": "8-wurz-014",
+      "question": "Wie viel ist √225?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [15, 25, 112, 16],
+      "correct": 0,
+      "explanation": "√225 = 15, denn 15 × 15 = 225"
+    },
+    {
+      "id": "8-wurz-015",
+      "question": "Wie viel ist √289?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [17, 15, 19, 144],
+      "correct": 0,
+      "explanation": "√289 = 17, denn 17 × 17 = 289"
+    },
+    {
+      "id": "8-wurz-016",
+      "question": "Vereinfache: 4(x + 2) - 3(x - 5)",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["x + 23", "x - 7", "7x + 23", "x + 3"],
+      "correct": 0,
+      "explanation": "4(x + 2) - 3(x - 5) = 4x + 8 - 3x + 15 = x + 23"
+    },
+    {
+      "id": "8-wurz-017",
+      "question": "Vereinfache: (x + 5)(x - 2)",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["x² + 3x - 10", "x² - 3x - 10", "x² + 7x - 10", "x² + 3x + 10"],
+      "correct": 0,
+      "explanation": "(x + 5)(x - 2) = x² - 2x + 5x - 10 = x² + 3x - 10"
+    },
+    {
+      "id": "8-wurz-018",
+      "question": "Vereinfache: 2x² + 4x - x² + 3x - 7",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["x² + 7x - 7", "3x² + 7x - 7", "x² + x - 7", "3x² + x - 7"],
+      "correct": 0,
+      "explanation": "2x² - x² + 4x + 3x - 7 = x² + 7x - 7"
+    },
+    {
+      "id": "8-wurz-019",
+      "question": "Vereinfache: (x - 5)² (Hinweis: 2. Binomische Formel)",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["x² - 10x + 25", "x² - 5x + 25", "x² - 25", "x² - 10x - 25"],
+      "correct": 0,
+      "explanation": "(x - 5)² = x² - 2 × 5 × x + 5² = x² - 10x + 25"
+    },
+    {
+      "id": "8-wurz-020",
+      "question": "Vereinfache: (2x + 1)(2x - 1)",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["4x² - 1", "4x² + 1", "2x² - 1", "4x² - 2x + 1"],
+      "correct": 0,
+      "explanation": "(2x + 1)(2x - 1) = (2x)² - 1² = 4x² - 1 (Dritte Binomische Formel)"
     }
   ]
 }

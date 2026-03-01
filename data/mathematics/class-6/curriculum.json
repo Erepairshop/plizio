@@ -15,7 +15,7 @@
           "color": "#ef4444",
           "icon": "➖",
           "taskFile": "negative-zahlen.json",
-          "taskIds": ["6-neg-001", "6-neg-002", "6-neg-003", "6-neg-004", "6-neg-005"]
+          "taskIds": ["6-neg-001", "6-neg-002", "6-neg-003", "6-neg-004", "6-neg-005", "6-neg-011", "6-neg-012", "6-neg-013", "6-neg-014", "6-neg-015", "6-neg-016", "6-neg-020"]
         },
         {
           "id": "zahlenstrahl",
@@ -23,7 +23,7 @@
           "color": "#dc2626",
           "icon": "📏",
           "taskFile": "negative-zahlen.json",
-          "taskIds": ["6-neg-006", "6-neg-007", "6-neg-008", "6-neg-009", "6-neg-010"]
+          "taskIds": ["6-neg-006", "6-neg-007", "6-neg-008", "6-neg-009", "6-neg-010", "6-neg-017", "6-neg-018", "6-neg-019"]
         }
       ]
     },
@@ -40,7 +40,7 @@
           "color": "#8b5cf6",
           "icon": "✖️",
           "taskFile": "bruchrechnung.json",
-          "taskIds": ["6-bruch-001", "6-bruch-002", "6-bruch-003", "6-bruch-004", "6-bruch-005"]
+          "taskIds": ["6-bruch-001", "6-bruch-002", "6-bruch-003", "6-bruch-004", "6-bruch-005", "6-bruch-011", "6-bruch-012", "6-bruch-013", "6-bruch-014", "6-bruch-015"]
         },
         {
           "id": "brueche-dividieren",
@@ -48,7 +48,7 @@
           "color": "#7c3aed",
           "icon": "➗",
           "taskFile": "bruchrechnung.json",
-          "taskIds": ["6-bruch-006", "6-bruch-007", "6-bruch-008", "6-bruch-009", "6-bruch-010"]
+          "taskIds": ["6-bruch-006", "6-bruch-007", "6-bruch-008", "6-bruch-009", "6-bruch-010", "6-bruch-016", "6-bruch-017", "6-bruch-018", "6-bruch-019", "6-bruch-020"]
         }
       ]
     },
@@ -65,7 +65,7 @@
           "color": "#f59e0b",
           "icon": "⚖️",
           "taskFile": "verhaeltnisse-prozent.json",
-          "taskIds": ["6-verh-001", "6-verh-002", "6-verh-003", "6-verh-004", "6-verh-005"]
+          "taskIds": ["6-verh-001", "6-verh-002", "6-verh-003", "6-verh-004", "6-verh-005", "6-verh-011", "6-verh-012", "6-verh-013", "6-verh-014", "6-verh-015"]
         },
         {
           "id": "prozent",
@@ -73,7 +73,7 @@
           "color": "#d97706",
           "icon": "💯",
           "taskFile": "verhaeltnisse-prozent.json",
-          "taskIds": ["6-verh-006", "6-verh-007", "6-verh-008", "6-verh-009", "6-verh-010"]
+          "taskIds": ["6-verh-006", "6-verh-007", "6-verh-008", "6-verh-009", "6-verh-010", "6-verh-016", "6-verh-017", "6-verh-018", "6-verh-019", "6-verh-020"]
         }
       ]
     },
@@ -90,7 +90,7 @@
           "color": "#ec4899",
           "icon": "📐",
           "taskFile": "geometrie.json",
-          "taskIds": ["6-geo-001", "6-geo-002", "6-geo-003", "6-geo-004", "6-geo-005"]
+          "taskIds": ["6-geo-001", "6-geo-002", "6-geo-003", "6-geo-004", "6-geo-005", "6-geo-011", "6-geo-012", "6-geo-013", "6-geo-014", "6-geo-015"]
         },
         {
           "id": "geschwindigkeit",
@@ -98,7 +98,7 @@
           "color": "#db2777",
           "icon": "🚗",
           "taskFile": "geometrie.json",
-          "taskIds": ["6-geo-006", "6-geo-007", "6-geo-008", "6-geo-009", "6-geo-010"]
+          "taskIds": ["6-geo-006", "6-geo-007", "6-geo-008", "6-geo-009", "6-geo-010", "6-geo-016", "6-geo-017", "6-geo-018", "6-geo-019", "6-geo-020"]
         }
       ]
     }
