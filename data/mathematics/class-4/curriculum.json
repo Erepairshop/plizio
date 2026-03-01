@@ -1,0 +1,154 @@
+{
+  "class": 4,
+  "language": "de",
+  "themes": [
+    {
+      "id": "zahlen-und-operationen",
+      "name": "Zahlen und Operationen",
+      "color": "#3b82f6",
+      "icon": "🔢",
+      "description": "Addition, Subtraktion, Multiplikation und Division",
+      "subtopics": [
+        {
+          "id": "zahlen-bis-1000",
+          "name": "Zahlen bis 1000",
+          "color": "#60a5fa",
+          "icon": "📝",
+          "taskFile": "zahlen-und-operationen.json",
+          "taskIds": ["4-zahl-001", "4-zahl-002", "4-zahl-003", "4-zahl-004", "4-zahl-005"]
+        },
+        {
+          "id": "addition-subtraktion",
+          "name": "Addition und Subtraktion",
+          "color": "#3b82f6",
+          "icon": "➕",
+          "taskFile": "zahlen-und-operationen.json",
+          "taskIds": ["4-zahl-006", "4-zahl-007", "4-zahl-008", "4-zahl-009", "4-zahl-010"]
+        },
+        {
+          "id": "multiplikation-division",
+          "name": "Multiplikation und Division",
+          "color": "#1e40af",
+          "icon": "✖️",
+          "taskFile": "zahlen-und-operationen.json",
+          "taskIds": ["4-zahl-011", "4-zahl-012", "4-zahl-013", "4-zahl-014", "4-zahl-015"]
+        },
+        {
+          "id": "sachaufgaben",
+          "name": "Sachaufgaben (Wortprobleme)",
+          "color": "#0f172a",
+          "icon": "📖",
+          "taskFile": "zahlen-und-operationen.json",
+          "taskIds": ["4-zahl-016", "4-zahl-017", "4-zahl-018", "4-zahl-019", "4-zahl-020"]
+        }
+      ]
+    },
+    {
+      "id": "geometrie",
+      "name": "Geometrie",
+      "color": "#ec4899",
+      "icon": "🔷",
+      "description": "Formen, Linien, Flächen und räumliches Denken",
+      "subtopics": [
+        {
+          "id": "umfang-flaeche",
+          "name": "Umfang und Fläche",
+          "color": "#f472b6",
+          "icon": "📐",
+          "taskFile": "geometrie.json",
+          "taskIds": ["4-geom-001", "4-geom-002", "4-geom-003", "4-geom-004", "4-geom-005"]
+        },
+        {
+          "id": "3d-koerper",
+          "name": "3D Körper",
+          "color": "#ec4899",
+          "icon": "🎲",
+          "taskFile": "geometrie.json",
+          "taskIds": ["4-geom-006", "4-geom-007", "4-geom-008", "4-geom-009", "4-geom-010"]
+        },
+        {
+          "id": "symmetrie-dreiecke",
+          "name": "Symmetrie und Dreiecke",
+          "color": "#be185d",
+          "icon": "🔻",
+          "taskFile": "geometrie.json",
+          "taskIds": ["4-geom-011", "4-geom-012", "4-geom-013", "4-geom-014", "4-geom-015"]
+        }
+      ]
+    },
+    {
+      "id": "groessen-messen",
+      "name": "Größen und Messen",
+      "color": "#8b5cf6",
+      "icon": "⚖️",
+      "description": "Längenmessungen, Gewichte, Zeit und Volumen",
+      "subtopics": [
+        {
+          "id": "laengen-kilometer",
+          "name": "Längenmessungen (m, cm, km)",
+          "color": "#a78bfa",
+          "icon": "📏",
+          "taskFile": "groessen-und-messen.json",
+          "taskIds": ["4-messen-001", "4-messen-002", "4-messen-003", "4-messen-004"]
+        },
+        {
+          "id": "gewicht-volumen",
+          "name": "Gewicht und Volumen",
+          "color": "#8b5cf6",
+          "icon": "🧪",
+          "taskFile": "groessen-und-messen.json",
+          "taskIds": ["4-messen-005", "4-messen-006", "4-messen-007", "4-messen-008"]
+        },
+        {
+          "id": "zeit",
+          "name": "Zeit messen",
+          "color": "#6d28d9",
+          "icon": "⏱️",
+          "taskFile": "groessen-und-messen.json",
+          "taskIds": ["4-messen-009", "4-messen-010", "4-messen-011", "4-messen-012"]
+        },
+        {
+          "id": "umrechnung",
+          "name": "Einheiten umrechnen",
+          "color": "#4c1d95",
+          "icon": "🔄",
+          "taskFile": "groessen-und-messen.json",
+          "taskIds": ["4-messen-013", "4-messen-014", "4-messen-015", "4-messen-016"]
+        }
+      ]
+    },
+    {
+      "id": "daten-wahrscheinlichkeit",
+      "name": "Daten und Wahrscheinlichkeit",
+      "color": "#10b981",
+      "icon": "📊",
+      "description": "Tabellen, Diagramme, Wahrscheinlichkeit und Datenanalyse",
+      "subtopics": [
+        {
+          "id": "tabellen-diagramme",
+          "name": "Tabellen und Diagramme",
+          "color": "#6ee7b7",
+          "icon": "📈",
+          "taskFile": "daten-und-wahrscheinlichkeit.json",
+          "taskIds": ["4-daten-001", "4-daten-002", "4-daten-003", "4-daten-004"]
+        },
+        {
+          "id": "wahrscheinlichkeit",
+          "name": "Wahrscheinlichkeit",
+          "color": "#10b981",
+          "icon": "🎲",
+          "taskFile": "daten-und-wahrscheinlichkeit.json",
+          "taskIds": ["4-daten-005", "4-daten-006", "4-daten-007", "4-daten-008"]
+        },
+        {
+          "id": "datenanalyse",
+          "name": "Datenanalyse und Durchschnitt",
+          "color": "#059669",
+          "icon": "📊",
+          "taskFile": "daten-und-wahrscheinlichkeit.json",
+          "taskIds": ["4-daten-009", "4-daten-010", "4-daten-011", "4-daten-012"]
+        }
+      ]
+    }
+  ]
+}

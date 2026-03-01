@@ -6,7 +6,7 @@ import { Canvas, useFrame } from "@react-three/fiber";
 import * as THREE from "three";
 import {
   Calculator, ArrowLeft, Check, X as XIcon,
-  RotateCcw, Home, Send, BookOpen, Sparkles, Clock,
+  RotateCcw, Home, Send, BookOpen, Sparkles, Clock, Pencil,
 } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
@@ -34,6 +34,13 @@ import {
   type RealisticKlassenarbeit,
 } from "@/lib/mathCurriculum";
 import {
+  generateTest as generateThemeBasedTest,
+  getAvailableThemes,
+  type Test as ThemeBasedTest,
+} from "@/lib/mathTestGenerator";
+import HierarchicalThemeSelector from "@/components/HierarchicalThemeSelector";
+import curriculum from "@/data/mathematics/class-4/curriculum.json";
+import {
   COUNTRIES,
   getCountryByCode,
   getSavedCountry,
@@ -54,6 +61,12 @@ import {
 import { useAuth } from "@/lib/supabase/useAuth";
 import AvatarCompanion from "@/components/AvatarCompanion";
 import RealisticKlassenarbeitDisplay from "@/components/RealisticKlassenarbeitDisplay";
+import KlassenarbeitHeader from "@/components/KlassenarbeitHeader";
+import ExamResultsDisplay from "@/components/ExamResultsDisplay";
+import MathQuestionDisplay from "@/components/MathQuestionDisplay";
+import ScratchpadModal from "@/components/ScratchpadModal";
+import { convertToExtendedQuestion, isVisualQuestion } from "@/lib/mathQuestionUtils";
+import ModernPaperTest from "@/components/ModernPaperTest";
 import { getActiveSkin, SKINS } from "@/lib/skins";
 
 // ─── 3D FLOATING BACKGROUND ─────────────────────────────
@@ -284,8 +297,8 @@ function updateStreak(): number {
 
 // ─── MAIN COMPONENT ─────────────────────────────
 
-type GameState = "country-select" | "grade-select" | "test-type-select" | "countdown" | "playing" | "grading" | "result" | "reward";
-type TestType = "practice" | "klassenarbeit" | null;
+type GameState = "country-select" | "grade-select" | "theme-select" | "countdown" | "playing" | "grading" | "result" | "reward";
+type TestType = "klassenarbeit" | null;
 
 export default function MathTestPage() {
   const router = useRouter();
@@ -294,6 +307,9 @@ export default function MathTestPage() {
   const [selectedGrade, setSelectedGrade] = useState<number | null>(null);
   const [previousGrade, setPreviousGrade] = useState<number | null>(null);
   const [testType, setTestType] = useState<TestType>(null);
+  const [selectedTheme, setSelectedTheme] = useState<string | null>(null);
+  const [selectedSubtopics, setSelectedSubtopics] = useState<string[]>([]);
+  const [generatingTest, setGeneratingTest] = useState(false);
   const [countdown, setCountdown] = useState(3);
   const [questions, setQuestions] = useState<MathQuestion[]>([]);
   const [answers, setAnswers] = useState<(number | null)[]>([]);
@@ -348,6 +364,7 @@ export default function MathTestPage() {
     const prev = getMathGrade();
     if (prev) setPreviousGrade(prev);
   }, []);
+
 
   const handleCountrySelect = (c: CountryConfig) => {
     setCountry(c);
@@ -548,16 +565,155 @@ export default function MathTestPage() {
   const handleGradeSelect = (grade: number) => {
     setSelectedGrade(grade);
     saveMathGrade(grade);
-    setTestType(null);
+    setTestType("klassenarbeit");
+    setSelectedSubtopics([]);
     setGradeResult(null);
     setKlassenarbeitResult(null);
-    setGameState("test-type-select");
+    setGameState("theme-select");
   };
 
-  const handleTestTypeSelect = async (type: TestType) => {
-    if (!type || !selectedGrade) return;
 
-    setTestType(type);
+  const handleSubtopicToggle = (subtopicId: string) => {
+    setSelectedSubtopics((prev) => {
+      if (prev.includes(subtopicId)) {
+        return prev.filter(id => id !== subtopicId);
+      } else {
+        return [...prev, subtopicId];
+      }
+    });
+  };
+
+  const handlePreviewSubtopic = (subtopicId: string) => {
+    console.log(`Preview subtopic: ${subtopicId}`);
+    // Todo: Show preview modal with sample questions
+  };
+
+  const handleStartMultiThemeTest = async () => {
+    if (!selectedGrade || !testType || selectedSubtopics.length === 0) return;
+
+    setGeneratingTest(true);
+    setElapsedTime(0);
+    setGradingIndex(-1);
+    setGradeResult(null);
+    setKlassenarbeitResult(null);
+    setServerResult(null);
+    setSaved(false);
+    setCardRarity(null);
+    setTestSession(null);
+    answerTimesRef.current = [];
+    lastAnswerTimeRef.current = 0;
+
+    // ─── Initialize 40-minute timer ─────────────────────
+    const now = Date.now();
+    setKlassenarbeitStartTime(now);
+    setKlassenarbeitTimeLeft(40 * 60); // 40 minutes = 2400 seconds
+    localStorage.setItem("klassenarbeitStartTime", now.toString());
+
+    try {
+      // Collect all task IDs from selected subtopics
+      const allTaskIds: string[] = [];
+
+      for (const theme of curriculum.themes) {
+        for (const subtopic of theme.subtopics) {
+          if (selectedSubtopics.includes(subtopic.id)) {
+            allTaskIds.push(...subtopic.taskIds);
+          }
+        }
+      }
+
+      if (allTaskIds.length === 0) {
+        throw new Error("No tasks found for selected subtopics");
+      }
+
+      console.log(`[Multi-Theme Test] Collected ${allTaskIds.length} tasks from ${selectedSubtopics.length} subtopics`);
+
+      // Load all relevant task files
+      const allTasks: any[] = [];
+
+      // Get unique task files needed
+      const taskFilesNeeded = new Set<string>();
+      for (const theme of curriculum.themes) {
+        for (const subtopic of theme.subtopics) {
+          if (selectedSubtopics.includes(subtopic.id)) {
+            taskFilesNeeded.add(subtopic.taskFile);
+          }
+        }
+      }
+
+      // Load and parse JSON files
+      for (const fileName of taskFilesNeeded) {
+        try {
+          // Dynamically import the task file
+          const module = await import(`@/data/mathematics/class-4/${fileName.replace('.json', '')}`);
+          const fileData = module.default;
+
+          // Filter tasks by selected task IDs
+          if (fileData.tasks) {
+            const relevantTasks = fileData.tasks.filter((task: any) => allTaskIds.includes(task.id));
+            allTasks.push(...relevantTasks);
+          }
+        } catch (err) {
+          console.error(`Failed to load ${fileName}:`, err);
+        }
+      }
+
+      if (allTasks.length === 0) {
+        throw new Error("Failed to load tasks");
+      }
+
+      // Shuffle and select 15 questions with balanced difficulty
+      const easyTasks = allTasks.filter(t => t.difficulty === 'easy');
+      const mediumTasks = allTasks.filter(t => t.difficulty === 'medium');
+      const hardTasks = allTasks.filter(t => t.difficulty === 'hard');
+
+      const shuffleArray = <T,>(arr: T[]): T[] => {
+        const shuffled = [...arr];
+        for (let i = shuffled.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+        }
+        return shuffled;
+      };
+
+      const selectedTasks = [
+        ...shuffleArray(easyTasks).slice(0, 5),      // 5 easy
+        ...shuffleArray(mediumTasks).slice(0, 7),    // 7 medium
+        ...shuffleArray(hardTasks).slice(0, 3),      // 3 hard
+      ];
+
+      const testTasks = shuffleArray(selectedTasks);
+
+      // Convert to MathQuestion format
+      const mathQuestions: MathQuestion[] = testTasks.map((task) => ({
+        question: task.question,
+        correctAnswer: task.correct,
+        options: task.options.map((opt: any) => typeof opt === 'number' ? opt : parseInt(opt as string, 10)),
+        topic: task.id,
+        isWordProblem: false,
+      }));
+
+      console.log(`[Multi-Theme Test] Generated ${mathQuestions.length} balanced questions`);
+
+      setQuestions(mathQuestions);
+      setAnswers(new Array(mathQuestions.length).fill(null));
+      setRealisticKlassenarbeit(null);
+      setAvatarMood("idle");
+
+      // Start test directly without countdown
+      lastAnswerTimeRef.current = 0;
+      setGameState("playing");
+    } catch (err) {
+      console.error("[Multi-Theme Test] Failed:", err);
+      alert("Error generating test. Please try again.");
+    } finally {
+      setGeneratingTest(false);
+    }
+  };
+
+  const handleThemeSelect = async (theme: string) => {
+    if (!selectedGrade || !testType) return;
+
+    setSelectedTheme(theme);
     setCountdown(3);
     setElapsedTime(0);
     setGradingIndex(-1);
@@ -570,80 +726,39 @@ export default function MathTestPage() {
     answerTimesRef.current = [];
     lastAnswerTimeRef.current = 0;
 
-    // ─── Initialize Klassenarbeit timer ─────────────────────
-    if (type === "klassenarbeit") {
-      const now = Date.now();
-      setKlassenarbeitStartTime(now);
-      setKlassenarbeitTimeLeft(1800); // 30 minutes
-      localStorage.setItem("klassenarbeitStartTime", now.toString());
-    } else {
-      setKlassenarbeitStartTime(null);
-      setKlassenarbeitTimeLeft(1800);
-      localStorage.removeItem("klassenarbeitStartTime");
-    }
+    // ─── Initialize Klassenarbeit timer (40 minutes for theme-based tests) ─────────────────────
+    const now = Date.now();
+    setKlassenarbeitStartTime(now);
+    setKlassenarbeitTimeLeft(40 * 60); // 40 minutes = 2400 seconds
+    localStorage.setItem("klassenarbeitStartTime", now.toString());
 
-    if (useSupabase && type === "practice") {
-      try {
-        const cc = country?.code || "HU";
-        const bpId = await findBlueprint(cc, selectedGrade, "practice");
-        const session = await createSupabaseTest(selectedGrade, cc, bpId);
-        setTestSession(session);
-        setQuestions(session.questions);
-        setAnswers(new Array(session.questions.length).fill(null));
-        answerTimesRef.current = new Array(session.questions.length).fill(0);
-        setAvatarMood("idle");
-        setGameState("playing");
-      } catch (err) {
-        console.error("[Supabase] createTest failed:", err);
-        // Fallback to local generation if Supabase fails
-        const test = generateTest(selectedGrade, undefined, country?.code);
-        setQuestions(test);
-        setAnswers(new Array(test.length).fill(null));
-        setAvatarMood("idle");
-        setGameState("playing");
+    try {
+      // Generate theme-based test (15 questions: 5 easy, 7 medium, 3 hard)
+      const themeBasedTest = generateThemeBasedTest(selectedGrade, theme);
+      console.log(`[Theme Test] Generated ${themeBasedTest.tasks.length} questions for theme "${theme}"`);
+
+      if (themeBasedTest.tasks.length === 0) {
+        throw new Error("No questions generated");
       }
-    } else {
-      // Generate locally (Klassenarbeit or Practice without Supabase)
-      if (type === "klassenarbeit") {
-        // Use new realistic Klassenarbeit format with grouped tasks
-        try {
-          const realistic = generateRealisticKlassenarbeit(selectedGrade, undefined, country?.code);
-          console.log(`[Realistic Klassenarbeit] Generated ${realistic.tasks.length} grouped tasks`);
 
-          if (realistic.tasks.length === 0) {
-            throw new Error("No tasks generated");
-          }
+      // Convert Theme-based test to MathQuestion format
+      const mathQuestions: MathQuestion[] = themeBasedTest.tasks.map((task, index) => ({
+        question: task.question,
+        correctAnswer: task.correct, // Store the index, not the value
+        options: task.options.map(opt => typeof opt === 'number' ? opt : parseInt(opt as string, 10)),
+        topic: task.id,
+        isWordProblem: false,
+      }));
 
-          setRealisticKlassenarbeit(realistic);
-          setGroupedTaskAnswers({});
-          setAvatarMood("idle");
-          setGameState("playing");
-        } catch (err) {
-          console.error("[Realistic Klassenarbeit] Failed:", err);
-          // Fallback to old format
-          console.log("[Fallback] Using old individual question format...");
-          const test = generateKlassenarbeit(selectedGrade, undefined, country?.code);
-          setQuestions(test);
-          setAnswers(new Array(test.length).fill(null));
-          setRealisticKlassenarbeit(null);
-          setAvatarMood("idle");
-          setGameState("playing");
-        }
-      } else {
-        // Practice test - use existing format
-        const test = generateTest(selectedGrade, undefined, country?.code);
-        console.log(`[Test] Generated ${test.length} questions for ${type}`);
-
-        if (test.length === 0) {
-          throw new Error("No questions generated");
-        }
-
-        setQuestions(test);
-        setAnswers(new Array(test.length).fill(null));
-        setRealisticKlassenarbeit(null);
-        setAvatarMood("idle");
-        setGameState("playing");
-      }
+      setQuestions(mathQuestions);
+      setAnswers(new Array(mathQuestions.length).fill(null));
+      setRealisticKlassenarbeit(null);
+      setAvatarMood("idle");
+      setGameState("countdown");
+    } catch (err) {
+      console.error("[Theme Test] Failed:", err);
+      alert("Error generating test. Please try again.");
+      setGameState("theme-select");
     }
   };
 
@@ -731,8 +846,8 @@ export default function MathTestPage() {
 
   const handlePlayAgain = () => {
     if (selectedGrade) {
-      setGameState("test-type-select");
-      setTestType(null);
+      setSelectedSubtopics([]);
+      setGameState("theme-select");
     }
   };
 
@@ -832,113 +947,43 @@ export default function MathTestPage() {
 
   // ─── GRADE SELECT SCREEN ─────────────────────────────
 
-  if (gameState === "test-type-select" && country && selectedGrade) {
+  // ─── THEME SELECT SCREEN (Hierarchical) ─────────────────────────────
+
+  if (gameState === "theme-select" && country && selectedGrade && testType) {
     return (
       <>
         <main className="min-h-screen relative overflow-hidden bg-bg">
           <Scene3D />
-        <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4 py-8 gap-8">
-          {/* Back */}
-          <motion.div className="absolute top-6 left-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-            <motion.button
-              onClick={() => setGameState("grade-select")}
-              className="p-2 rounded-xl bg-white/5 border border-white/10"
-              whileHover={{ scale: 1.1, backgroundColor: "rgba(255,255,255,0.1)" }}
-              whileTap={{ scale: 0.9 }}
-            >
-              <ArrowLeft size={20} className="text-white/60" />
-            </motion.button>
-          </motion.div>
-
-          {/* Country flag */}
-          <motion.button
-            className="absolute top-6 right-6 text-2xl p-2 rounded-xl bg-white/5 border border-white/10"
-            onClick={() => setGameState("country-select")}
-            whileHover={{ scale: 1.1 }}
-            whileTap={{ scale: 0.9 }}
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-          >
-            {country.flag}
-          </motion.button>
-
-          {/* Title */}
-          <motion.div
-            className="flex flex-col items-center gap-3"
-            initial={{ opacity: 0, y: -20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6 }}
-          >
-            <motion.div
-              className="p-4 rounded-2xl"
-              style={{ background: "rgba(255,215,0,0.1)", boxShadow: "0 0 30px rgba(255,215,0,0.15)" }}
-            >
-              <BookOpen
-                size={40}
-                className="text-gold"
-                style={{ filter: "drop-shadow(0 0 10px rgba(255,215,0,0.5))" }}
-              />
+          <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4 py-8 gap-8">
+            {/* Back Button */}
+            <motion.div className="absolute top-6 left-6 md:top-8 md:left-8" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+              <motion.button
+                onClick={() => setGameState("grade-select")}
+                className="p-2 rounded-full hover:bg-white/10 transition-colors"
+                whileHover={{ scale: 1.1 }}
+                whileTap={{ scale: 0.95 }}
+              >
+                <ArrowLeft size={24} className="text-white" />
+              </motion.button>
             </motion.div>
-            <h1
-              className="text-3xl font-black text-white tracking-wider"
-              style={{ textShadow: "0 0 20px rgba(255,215,0,0.3)" }}
-            >
-              {country.gradeLabel(selectedGrade)}
-            </h1>
-            <p className="text-white/40 text-sm font-medium">Mi a teszt típusa?</p>
-          </motion.div>
 
-          {/* Test type buttons */}
-          <motion.div
-            className="flex flex-col gap-4 w-full max-w-sm"
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.4 }}
-          >
-            {/* Practice */}
-            <motion.button
-              onClick={() => handleTestTypeSelect("practice")}
-              className="flex flex-col gap-2 px-6 py-6 rounded-2xl border-2 border-white/20 bg-white/5 transition-all hover:bg-white/10 hover:border-white/30"
-              initial={{ opacity: 0, x: -20 }}
-              animate={{ opacity: 1, x: 0 }}
-              transition={{ delay: 0.5 }}
-              whileHover={{ scale: 1.03 }}
-              whileTap={{ scale: 0.97 }}
-            >
-              <div className="flex items-center gap-3">
-                <span className="text-3xl">📝</span>
-                <div className="text-left">
-                  <h3 className="text-white font-black text-lg">Practice mód</h3>
-                  <p className="text-white/50 text-sm">10 kérdés, gyakorláshoz</p>
-                </div>
-              </div>
-            </motion.button>
-
-            {/* Klassenarbeit */}
-            <motion.button
-              onClick={() => handleTestTypeSelect("klassenarbeit")}
-              className="flex flex-col gap-2 px-6 py-6 rounded-2xl border-2 border-gold/20 bg-gold/5 transition-all hover:bg-gold/10 hover:border-gold/30"
-              initial={{ opacity: 0, x: -20 }}
-              animate={{ opacity: 1, x: 0 }}
-              transition={{ delay: 0.6 }}
-              whileHover={{ scale: 1.03 }}
-              whileTap={{ scale: 0.97 }}
-            >
-              <div className="flex items-center gap-3">
-                <span className="text-3xl">📋</span>
-                <div className="text-left">
-                  <h3 className="text-gold font-black text-lg">Klassenarbeit</h3>
-                  <p className="text-gold/50 text-sm">Iskolai dolgozat, szekciók, pontok</p>
-                </div>
-              </div>
-            </motion.button>
-          </motion.div>
-        </div>
+            {/* Hierarchical Theme Selector */}
+            <HierarchicalThemeSelector
+              themes={curriculum.themes}
+              selectedSubtopics={selectedSubtopics}
+              onSubtopicToggle={handleSubtopicToggle}
+              onPreview={handlePreviewSubtopic}
+              onStartTest={handleStartMultiThemeTest}
+              onClearSelection={() => setSelectedSubtopics([])}
+              loading={generatingTest}
+            />
+          </div>
         </main>
         <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
       </>
     );
   }
+
 
   // ─── GRADE SELECT SCREEN ─────────────────────────────
 
@@ -1081,67 +1126,74 @@ export default function MathTestPage() {
 
     return (
       <>
-        <main className="min-h-screen bg-bg">
-        <div
-          className="min-h-screen"
-          style={{
-            background: "#f5f0e8",
-            backgroundImage: `
-              linear-gradient(rgba(180, 210, 240, 0.3) 1px, transparent 1px),
-              linear-gradient(90deg, rgba(180, 210, 240, 0.3) 1px, transparent 1px)
-            `,
-            backgroundSize: "20px 20px",
-          }}
+        <ModernPaperTest
+          title={ui?.title || "MATEMATIKA DOLGOZAT"}
+          gradeLabel={`${selectedGrade}. ${ui?.classLabel || "Osztály"}`}
+          date={new Date().toISOString()}
+          timeLeft={testType === "klassenarbeit" ? klassenarbeitTimeLeft : elapsedTime}
+          solved={answers.filter((a) => a !== null).length}
+          total={questions.length}
+          isGrading={isGrading}
+          onExit={() => setGameState("grade-select")}
         >
+          <div>
           <div className="relative max-w-lg mx-auto" style={{ borderLeft: "2px solid rgba(220, 100, 100, 0.4)" }}>
             <div className="px-4 sm:px-6 py-4 pb-32">
               {/* Header */}
-              <motion.div
-                className="mb-6 pb-4"
-                style={{ borderBottom: "1px solid rgba(0,0,0,0.1)" }}
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-              >
-                <h1 className="text-lg font-black text-gray-800 tracking-wide mb-2">
-                  📐 {ui?.title || "MATEMATIKA DOLGOZAT"}
-                </h1>
-                <div className="flex justify-between text-xs text-gray-500 font-mono">
-                  <span>{ui?.classLabel || "Osztály"}: {selectedGrade}.</span>
-                  <span>{new Date().toLocaleDateString(country?.code === "DE" ? "de-DE" : country?.code === "US" ? "en-US" : country?.code === "GB" ? "en-GB" : country?.code === "RO" ? "ro-RO" : "hu-HU")}</span>
-                </div>
-                {!isGrading && (
-                  <div className="flex items-center gap-1 mt-2 text-xs font-mono">
-                    <Clock size={12} />
-                    {testType === "klassenarbeit" ? (
-                      <>
-                        <span className={klassenarbeitTimeLeft <= 300 ? "text-red-500 font-bold" : "text-gray-400"}>
-                          {Math.floor(klassenarbeitTimeLeft / 60)}:{(klassenarbeitTimeLeft % 60).toString().padStart(2, "0")}
-                        </span>
-                        <span className="text-gray-400 ml-4">
-                          {answers.filter((a) => a !== null).length}/{questions.length} {ui?.solved || "megoldva"}
-                        </span>
-                      </>
-                    ) : (
-                      <>
-                        <span className="text-gray-400">
-                          {Math.floor(elapsedTime / 60)}:{(elapsedTime % 60).toString().padStart(2, "0")}
-                        </span>
-                        <span className="text-gray-400 ml-4">
-                          {answers.filter((a) => a !== null).length}/{questions.length} {ui?.solved || "megoldva"}
-                        </span>
-                      </>
-                    )}
+              {realisticKlassenarbeit && testType === "klassenarbeit" && selectedGrade ? (
+                <KlassenarbeitHeader
+                  grade={selectedGrade}
+                  subject={country?.name === "Hungary" ? "Matematika" : country?.name === "Germany" ? "Mathematik" : country?.name === "Romania" ? "Matematică" : "Mathematics"}
+                  startTime={Date.now()}
+                />
+              ) : (
+                <motion.div
+                  className="mb-6 pb-4"
+                  style={{ borderBottom: "1px solid rgba(0,0,0,0.1)" }}
+                  initial={{ opacity: 0 }}
+                  animate={{ opacity: 1 }}
+                >
+                  <h1 className="text-lg font-black text-gray-800 tracking-wide mb-2">
+                    📐 {ui?.title || "MATEMATIKA DOLGOZAT"}
+                  </h1>
+                  <div className="flex justify-between text-xs text-gray-500 font-mono">
+                    <span>{ui?.classLabel || "Osztály"}: {selectedGrade}.</span>
+                    <span>{new Date().toLocaleDateString(country?.code === "DE" ? "de-DE" : country?.code === "US" ? "en-US" : country?.code === "GB" ? "en-GB" : country?.code === "RO" ? "ro-RO" : "hu-HU")}</span>
                   </div>
-                )}
-                {isGrading && (
-                  <div className="flex items-center gap-2 mt-2">
-                    <span className="text-xs text-red-500 font-bold font-mono">✏️ {ui?.grading || "Javítás..."}</span>
-                    <span className="text-xs text-gray-400">
-                      {Math.min(gradingIndex, questions.length)}/{questions.length}
-                    </span>
-                  </div>
-                )}
-              </motion.div>
+                  {!isGrading && (
+                    <div className="flex items-center gap-1 mt-2 text-xs font-mono">
+                      <Clock size={12} />
+                      {testType === "klassenarbeit" ? (
+                        <>
+                          <span className={klassenarbeitTimeLeft <= 300 ? "text-red-500 font-bold" : "text-gray-400"}>
+                            {Math.floor(klassenarbeitTimeLeft / 60)}:{(klassenarbeitTimeLeft % 60).toString().padStart(2, "0")}
+                          </span>
+                          <span className="text-gray-400 ml-4">
+                            {answers.filter((a) => a !== null).length}/{questions.length} {ui?.solved || "megoldva"}
+                          </span>
+                        </>
+                      ) : (
+                        <>
+                          <span className="text-gray-400">
+                            {Math.floor(elapsedTime / 60)}:{(elapsedTime % 60).toString().padStart(2, "0")}
+                          </span>
+                          <span className="text-gray-400 ml-4">
+                            {answers.filter((a) => a !== null).length}/{questions.length} {ui?.solved || "megoldva"}
+                          </span>
+                        </>
+                      )}
+                    </div>
+                  )}
+                  {isGrading && (
+                    <div className="flex items-center gap-2 mt-2">
+                      <span className="text-xs text-red-500 font-bold font-mono">✏️ {ui?.grading || "Javítás..."}</span>
+                      <span className="text-xs text-gray-400">
+                        {Math.min(gradingIndex, questions.length)}/{questions.length}
+                      </span>
+                    </div>
+                  )}
+                </motion.div>
+              )}
 
               {/* Realistic Klassenarbeit (Grouped Tasks) */}
               {realisticKlassenarbeit && (
@@ -1154,7 +1206,7 @@ export default function MathTestPage() {
                 />
               )}
 
-              {/* Individual Questions (Old Format) */}
+              {/* Individual Questions - All using MathQuestionDisplay */}
               {questions.map((question, qi) => {
                 const isGraded = isGrading && qi < gradingIndex;
                 const isCorrect = answers[qi] === question.correctAnswer;
@@ -1165,14 +1217,19 @@ export default function MathTestPage() {
                 const showSectionHeader = currentSection && currentSection !== prevSection;
 
                 return (
-                  <div key={qi}>
+                  <motion.div
+                    key={qi}
+                    initial={{ opacity: 0, y: 10 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{ delay: isGrading ? 0 : qi * 0.05 }}
+                    className="mb-6"
+                  >
                     {/* Section header (Klassenarbeit only) */}
                     {showSectionHeader && (
                       <motion.div
                         className="mt-6 mb-4 pb-2 border-b-2 border-gray-400/30"
                         initial={{ opacity: 0 }}
                         animate={{ opacity: 1 }}
-                        transition={{ delay: isGrading ? 0 : (qi - 0.5) * 0.05 }}
                       >
                         <h3 className="text-sm font-black text-gray-700 uppercase tracking-wider">
                           {currentSection}
@@ -1181,70 +1238,26 @@ export default function MathTestPage() {
                       </motion.div>
                     )}
 
-                    <motion.div
-                      className="mb-6 relative"
-                      initial={{ opacity: 0, y: 10 }}
-                      animate={{ opacity: 1, y: 0 }}
-                      transition={{ delay: isGrading ? 0 : qi * 0.05 }}
-                    >
-                      {/* Question */}
-                      <div className="flex gap-2 mb-3">
-                      <span className="flex-shrink-0 w-7 h-7 rounded-full bg-gray-800 text-white text-xs font-bold flex items-center justify-center">
-                        {qi + 1}
-                      </span>
-                      <p
-                        className={`text-sm font-medium leading-relaxed ${
-                          question.isWordProblem ? "text-gray-700 italic" : "text-gray-800"
-                        }`}
-                      >
-                        {question.question}
-                      </p>
-                    </div>
-
-                    {/* Options */}
-                    <div className="grid grid-cols-2 gap-2 ml-9">
-                      {question.options.map((opt, oi) => {
-                        const isSelected = answers[qi] === opt;
-                        const isCorrectOpt = opt === question.correctAnswer;
-
-                        let bg = "bg-white";
-                        let border = "border-gray-200";
-                        let text = "text-gray-700";
-                        let extra = "";
-
-                        if (isGrading && isGraded) {
-                          if (isCorrectOpt) {
-                            bg = "bg-green-50"; border = "border-green-400"; text = "text-green-700";
-                          } else if (isSelected && !isCorrectOpt) {
-                            bg = "bg-red-50"; border = "border-red-400"; text = "text-red-600"; extra = "line-through";
-                          } else {
-                            bg = "bg-white"; border = "border-gray-200"; text = "text-gray-400";
-                          }
-                        } else if (isSelected) {
-                          bg = "bg-blue-50"; border = "border-blue-400"; text = "text-blue-700"; extra = "ring-2 ring-blue-300";
+                    {/* Use MathQuestionDisplay for all questions - includes scratchpad */}
+                    <MathQuestionDisplay
+                      question={convertToExtendedQuestion(question)}
+                      selectedAnswer={answers[qi]}
+                      onSelectAnswer={(optIdx) => !isGrading && handleAnswer(qi, question.options[optIdx])}
+                      showResult={isGrading && isGraded}
+                      isCorrect={isCorrect}
+                      useTextInput={true}
+                      onTextAnswer={(textAnswer) => {
+                        const numAnswer = parseInt(textAnswer);
+                        if (!isNaN(numAnswer)) {
+                          handleAnswer(qi, numAnswer);
                         }
-
-                        const isDisabled = isGrading || (testType === "klassenarbeit" && klassenarbeitTimeLeft <= 0);
-
-                        return (
-                          <motion.button
-                            key={oi}
-                            onClick={() => !isDisabled && handleAnswer(qi, opt)}
-                            disabled={isDisabled}
-                            className={`px-3 py-2.5 rounded-xl border-2 text-sm font-bold transition-all ${bg} ${border} ${text} ${extra}`}
-                            whileHover={!isDisabled ? { scale: 1.03 } : undefined}
-                            whileTap={!isGrading ? { scale: 0.97 } : undefined}
-                          >
-                            {opt}
-                          </motion.button>
-                        );
-                      })}
-                    </div>
+                      }}
+                    />
 
                     {/* Grading mark */}
                     {isGrading && isGraded && (
                       <motion.div
-                        className="absolute -right-1 top-0"
+                        className="absolute -right-8 top-6"
                         initial={{ scale: 0, rotate: -20 }}
                         animate={{ scale: 1, rotate: 0 }}
                         transition={{ type: "spring", stiffness: 300 }}
@@ -1264,17 +1277,32 @@ export default function MathTestPage() {
                         )}
                       </motion.div>
                     )}
-                    </motion.div>
-                  </div>
+                  </motion.div>
                 );
               })}
             </div>
 
-            {/* Submit button */}
+            {/* Exit button - Top left */}
+            <motion.button
+              onClick={() => setGameState("grade-select")}
+              className="fixed top-6 left-6 p-2.5 rounded-lg bg-white/5 border border-white/10 text-white/60 hover:text-white hover:bg-white/10 transition-all z-30"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              whileHover={{ scale: 1.1 }}
+              whileTap={{ scale: 0.95 }}
+            >
+              <XIcon size={20} />
+            </motion.button>
+
+            {/* Submit button - Safe area friendly */}
             {!isGrading && (
               <div
                 className="fixed bottom-0 left-0 right-0 p-4 z-20"
-                style={{ background: "linear-gradient(transparent, #f5f0e8 30%)" }}
+                style={{
+                  background: "linear-gradient(transparent, #f5f0e8 30%)",
+                  paddingBottom: "max(1rem, env(safe-area-inset-bottom))",
+                  paddingRight: "calc(160px + 1rem)"
+                }}
               >
                 <motion.button
                   onClick={handleSubmit}
@@ -1296,8 +1324,19 @@ export default function MathTestPage() {
             )}
           </div>
         </div>
-        </main>
-        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
+        </ModernPaperTest>
+        {/* Avatar - Always visible, outside test UI */}
+        <div
+          className="fixed bottom-0 right-0 z-50 pointer-events-none"
+          style={{
+            width: '200px',
+            height: '200px',
+            paddingBottom: "max(80px, calc(80px + env(safe-area-inset-bottom)))",
+            paddingRight: "max(20px, env(safe-area-inset-right))",
+          }}
+        >
+          <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
+        </div>
       </>
     );
   }
@@ -1312,88 +1351,63 @@ export default function MathTestPage() {
       <>
         <main className="min-h-screen bg-bg flex items-center justify-center px-4">
         {isKlassenarbeit && klassenarbeitResult ? (
-          // ─── KLASSENARBEIT RESULT ─────────────────────────────
+          // ─── KLASSENARBEIT RESULT (New Exam Display) ─────────────────────────────
           <motion.div
-            className="flex flex-col items-center gap-6 max-w-2xl w-full"
-            initial={{ opacity: 0, scale: 0.9 }}
-            animate={{ opacity: 1, scale: 1 }}
+            className="w-full max-w-5xl px-4"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
             transition={{ type: "spring" }}
           >
-            {/* Note display */}
-            <motion.div
-              className="text-center"
-              initial={{ opacity: 0, y: -20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: 0.3 }}
-            >
-              <div
-                className="text-8xl font-black mb-3"
-                style={{ color: klassenarbeitResult.note.color }}
-              >
-                {klassenarbeitResult.note.emoji} {klassenarbeitResult.note.value}
-              </div>
-              <p
-                className="text-3xl font-black"
-                style={{ color: klassenarbeitResult.note.color }}
-              >
-                {klassenarbeitResult.note.label}
-              </p>
-              <p className="text-white/60 text-sm mt-2">
-                {klassenarbeitResult.totalPoints}/{klassenarbeitResult.maxTotalPoints} Punkt ({klassenarbeitResult.percentage}%)
-              </p>
-            </motion.div>
-
-            {/* Section breakdown */}
-            <motion.div
-              className="w-full bg-white/5 border border-white/10 rounded-2xl p-6"
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: 0.5 }}
-            >
-              <h3 className="text-white font-black text-lg mb-4">Szekciók</h3>
-              <div className="space-y-3">
-                {klassenarbeitResult.sectionResults.map((section, i) => (
-                  <motion.div
-                    key={i}
-                    className="flex items-center justify-between p-4 bg-white/5 rounded-xl border border-white/10"
-                    initial={{ opacity: 0, x: -20 }}
-                    animate={{ opacity: 1, x: 0 }}
-                    transition={{ delay: 0.6 + i * 0.1 }}
-                  >
-                    <div>
-                      <p className="text-white font-bold">{section.name}</p>
-                      <p className="text-white/50 text-sm">
-                        {section.correct}/{section.total} helyes
-                      </p>
-                    </div>
-                    <div className="text-right">
-                      <p className="text-white font-black text-lg">
-                        {section.earnedPoints}/{section.maxPoints}
-                      </p>
-                      <p className="text-white/50 text-xs">pont</p>
-                    </div>
-                  </motion.div>
-                ))}
-              </div>
-            </motion.div>
-
-            {/* Stars earned */}
-            {klassenarbeitResult.starsEarned > 0 && (
-              <motion.p
-                className="text-yellow-400 text-lg font-bold"
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                transition={{ delay: 0.9 }}
-              >
-                {klassenarbeitResult.note.emoji} +{klassenarbeitResult.starsEarned} star
-              </motion.p>
+            {realisticKlassenarbeit && (
+              <ExamResultsDisplay
+                tasks={realisticKlassenarbeit.tasks}
+                answers={groupedTaskAnswers}
+                grade={Math.round(klassenarbeitResult.note.value)}
+                totalPoints={klassenarbeitResult.maxTotalPoints}
+                earnedPoints={klassenarbeitResult.totalPoints}
+                sections={klassenarbeitResult.sectionResults.map((section) => ({
+                  section: section.name,
+                  earned: section.earnedPoints,
+                  total: section.maxPoints,
+                  percentage: Math.round((section.earnedPoints / section.maxPoints) * 100),
+                }))}
+              />
             )}
 
-            {/* Time */}
-            <p className="text-white/30 text-xs font-mono">
-              {country?.gradeLabel(selectedGrade!) || `${selectedGrade}. osztály`} &bull;{" "}
-              {Math.floor(elapsedTime / 60)}:{(elapsedTime % 60).toString().padStart(2, "0")}
-            </p>
+            {/* Fallback for old format */}
+            {!realisticKlassenarbeit && (
+              <motion.div
+                className="flex flex-col items-center gap-6 max-w-2xl w-full mx-auto"
+                initial={{ opacity: 0, scale: 0.9 }}
+                animate={{ opacity: 1, scale: 1 }}
+              >
+                {/* Note display */}
+                <div className="text-center">
+                  <div
+                    className="text-8xl font-black mb-3"
+                    style={{ color: klassenarbeitResult.note.color }}
+                  >
+                    {klassenarbeitResult.note.emoji} {klassenarbeitResult.note.value}
+                  </div>
+                  <p
+                    className="text-3xl font-black"
+                    style={{ color: klassenarbeitResult.note.color }}
+                  >
+                    {klassenarbeitResult.note.label}
+                  </p>
+                  <p className="text-white/60 text-sm mt-2">
+                    {klassenarbeitResult.totalPoints}/{klassenarbeitResult.maxTotalPoints} Pont ({klassenarbeitResult.percentage}%)
+                  </p>
+                </div>
+
+                {/* Stars earned */}
+                {klassenarbeitResult.starsEarned > 0 && (
+                  <p className="text-yellow-400 text-lg font-bold">
+                    {klassenarbeitResult.note.emoji} +{klassenarbeitResult.starsEarned} csillag
+                  </p>
+                )}
+              </motion.div>
+            )}
           </motion.div>
         ) : (
           // ─── PRACTICE RESULT (Original) ─────────────────────────────

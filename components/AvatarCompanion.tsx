@@ -1,14 +1,15 @@
 'use client';
 
-import { useRef, useEffect } from 'react';
+import { useRef, useEffect, useState } from 'react';
 import { Canvas, useFrame } from '@react-three/fiber';
 import * as THREE from 'three';
 
 interface AvatarCompanionProps {
-  mood: 'idle' | 'focused' | 'happy' | 'disappointed' | 'victory';
+  mood: 'idle' | 'focused' | 'happy' | 'disappointed' | 'victory' | 'surprised' | 'confused' | 'laughing';
   skinColor?: string;
   outfitColor?: string;
   fixed?: boolean;
+  jumpTrigger?: { reaction: 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | null; timestamp: number };
 }
 
 // Random blink interval between 3–7 seconds
@@ -16,7 +17,7 @@ function nextBlink() {
   return 3 + Math.random() * 4;
 }
 
-function Character({ mood, skinColor = '#e8c9a0', outfitColor = '#6b8fad' }: AvatarCompanionProps) {
+function Character({ mood, skinColor = '#e8c9a0', outfitColor = '#6b8fad', jumpTrigger }: AvatarCompanionProps) {
   const groupRef = useRef<THREE.Group>(null);
   const headRef = useRef<THREE.Group>(null);
   const bodyRef = useRef<THREE.Mesh>(null);
@@ -36,25 +37,59 @@ function Character({ mood, skinColor = '#e8c9a0', outfitColor = '#6b8fad' }: Ava
   const blinkTimer = useRef(0);
   const blinkNext = useRef(nextBlink());
   const blinkPhase = useRef(-1); // -1 = not blinking, 0..1 = blink progress
+  const jumpTimer = useRef(-1); // -1 = not jumping, 0..1 = jump progress
+  const reactionMoodRef = useRef<'idle' | 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing'>('idle');
 
   useEffect(() => {
     moodRef.current = mood;
     tRef.current = 0;
   }, [mood]);
 
+  useEffect(() => {
+    if (jumpTrigger?.reaction) {
+      jumpTimer.current = 0;
+      reactionMoodRef.current = jumpTrigger.reaction;
+    }
+  }, [jumpTrigger?.timestamp]);
+
   useFrame((_state, delta) => {
     if (!groupRef.current || !headRef.current || !bodyRef.current) return;
 
     tRef.current += delta;
     blinkTimer.current += delta;
+
+    // Jump animation
+    if (jumpTimer.current >= 0) {
+      jumpTimer.current += delta / 0.6; // 0.6s jump duration
+      if (jumpTimer.current > 1) {
+        jumpTimer.current = -1;
+      }
+    }
+
     const t = tRef.current;
-    const m = moodRef.current;
+    let m = moodRef.current;
+
+    // Override mood during jump reaction
+    if (jumpTimer.current >= 0) {
+      m = reactionMoodRef.current;
+    }
+
     const lerp = THREE.MathUtils.lerp;
+
+    // ════════════════════════════════════════════════════════
+    // JUMP PHYSICS: Arc up and down
+    // ════════════════════════════════════════════════════════
+    let jumpHeight = 0;
+    if (jumpTimer.current >= 0) {
+      // Parabolic jump arc
+      const jumpProgress = jumpTimer.current;
+      jumpHeight = Math.sin(jumpProgress * Math.PI) * 0.35; // Peak at 0.35 units
+    }
 
     // ════════════════════════════════════════════════════════
     // BASE: Smooth lerp everything toward neutral
     // ════════════════════════════════════════════════════════
-    groupRef.current.position.y = lerp(groupRef.current.position.y, 0, 0.1);
+    groupRef.current.position.y = lerp(groupRef.current.position.y, jumpHeight, 0.15);
     groupRef.current.rotation.y = lerp(groupRef.current.rotation.y, 0, 0.1);
     groupRef.current.rotation.z = lerp(groupRef.current.rotation.z, 0, 0.1);
     headRef.current.rotation.x = lerp(headRef.current.rotation.x, 0, 0.1);
@@ -63,6 +98,19 @@ function Character({ mood, skinColor = '#e8c9a0', outfitColor = '#6b8fad' }: Ava
     bodyRef.current.scale.x = lerp(bodyRef.current.scale.x, 1, 0.12);
     bodyRef.current.scale.y = lerp(bodyRef.current.scale.y, 1, 0.12);
     bodyRef.current.position.y = lerp(bodyRef.current.position.y, 0, 0.1);
+
+    // ════════════════════════════════════════════════════════
+    // LEGS: Pull up during jump
+    // ════════════════════════════════════════════════════════
+    if (leftLegRef.current && rightLegRef.current) {
+      let legScale = 1;
+      if (jumpTimer.current >= 0) {
+        // Compress legs during jump (0.7 at peak)
+        legScale = 0.7 + Math.cos(jumpTimer.current * Math.PI) * 0.3;
+      }
+      leftLegRef.current.scale.y = lerp(leftLegRef.current.scale.y, legScale, 0.15);
+      rightLegRef.current.scale.y = lerp(rightLegRef.current.scale.y, legScale, 0.15);
+    }
 
     // Arms rest at slight outward + slight elbow bend (forward rotation)
     if (leftArmRef.current) {
@@ -131,6 +179,42 @@ function Character({ mood, skinColor = '#e8c9a0', outfitColor = '#6b8fad' }: Ava
       mouthRef.current.scale.x = lerp(mouthRef.current.scale.x, 1, 0.12);
       mouthRef.current.scale.y = lerp(mouthRef.current.scale.y, 1, 0.12);
       mouthRef.current.position.y = lerp(mouthRef.current.position.y, -0.1, 0.12);
+    }
+
+    // ════════════════════════════════════════════════════════
+    // JUMP REACTIONS: Head movements during jump
+    // ════════════════════════════════════════════════════════
+    if (jumpTimer.current >= 0) {
+      const jp = jumpTimer.current;
+      switch (reactionMoodRef.current) {
+        case 'happy': {
+          // Head looks up excitedly
+          headRef.current.rotation.x = Math.sin(jp * Math.PI * 2) * 0.15;
+          break;
+        }
+        case 'surprised': {
+          // Head tilts back
+          headRef.current.rotation.x = -0.2;
+          break;
+        }
+        case 'victory': {
+          // Head looks up triumphantly
+          headRef.current.rotation.x = -0.25;
+          groupRef.current.rotation.z = Math.sin(jp * Math.PI * 1.5) * 0.1;
+          break;
+        }
+        case 'confused': {
+          // Head tilts forward confused
+          headRef.current.rotation.x = 0.2;
+          break;
+        }
+        case 'laughing': {
+          // Head bounces side to side while laughing
+          headRef.current.rotation.y = Math.sin(jp * Math.PI * 3) * 0.15;
+          headRef.current.rotation.z = Math.sin(jp * Math.PI * 3 + 0.5) * 0.1;
+          break;
+        }
+      }
     }
 
     // ════════════════════════════════════════════════════════
@@ -435,12 +519,34 @@ export default function AvatarCompanion({
   fixed = true,
 }: AvatarCompanionProps) {
   const positionClass = fixed ? 'fixed z-40' : 'relative w-full h-full';
-  const pointerClass = fixed ? 'pointer-events-none' : 'pointer-events-auto';
+  const pointerClass = fixed ? 'pointer-events-auto' : 'pointer-events-auto';
+  const [jumpTrigger, setJumpTrigger] = useState<{
+    reaction: 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | null;
+    timestamp: number;
+  }>({ reaction: null, timestamp: 0 });
+
+  // 5 different reactions on click
+  const reactions: Array<'happy' | 'surprised' | 'victory' | 'confused' | 'laughing'> = [
+    'happy',
+    'surprised',
+    'victory',
+    'confused',
+    'laughing',
+  ];
+
+  const handleAvatarClick = () => {
+    const randomReaction = reactions[Math.floor(Math.random() * reactions.length)];
+    setJumpTrigger({ reaction: randomReaction, timestamp: Date.now() });
+  };
 
   return (
     <div
-      className={`${positionClass} ${pointerClass} w-48 h-48`}
-      style={fixed ? { bottom: '14px', right: '14px' } : {}}
+      className={`${positionClass} ${pointerClass} w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48 cursor-pointer`}
+      style={fixed ? {
+        bottom: 'max(20px, calc(env(safe-area-inset-bottom) + 20px))',
+        right: '20px'
+      } : {}}
+      onClick={handleAvatarClick}
     >
       <Canvas
         camera={{ position: [0, 0.1, 2.2], fov: 38 }}
@@ -461,7 +567,7 @@ export default function AvatarCompanion({
         <directionalLight position={[-3, 5, 3]} intensity={0.5} color="#fff0e0" />
         {/* Cool rim light for depth */}
         <directionalLight position={[2, 1, -2]} intensity={0.12} color="#d0e0ff" />
-        <Character mood={mood} skinColor={skinColor} outfitColor={outfitColor} />
+        <Character mood={mood} skinColor={skinColor} outfitColor={outfitColor} jumpTrigger={jumpTrigger} />
       </Canvas>
     </div>
   );

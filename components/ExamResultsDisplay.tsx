@@ -36,20 +36,20 @@ export default function ExamResultsDisplay({
     <div className="space-y-8 max-w-4xl mx-auto">
       {/* Main Score Card */}
       <motion.div
-        className="bg-gradient-to-br from-slate-900 to-slate-800 text-white rounded-2xl p-8 shadow-2xl"
-        initial={{ opacity: 0, scale: 0.95 }}
-        animate={{ opacity: 1, scale: 1 }}
-        transition={{ duration: 0.5 }}
+        className="bg-gradient-to-br from-slate-900 to-slate-800 text-white rounded-xl p-6 shadow-lg"
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ duration: 0.3 }}
       >
-        <div className="flex flex-col items-center text-center mb-8">
+        <div className="flex flex-col items-center text-center mb-6">
           <motion.div
-            className={`w-32 h-32 rounded-full flex items-center justify-center mb-6 ${gradeColor}`}
-            animate={{ scale: [1, 1.05, 1] }}
-            transition={{ duration: 2, repeat: Infinity }}
+            className={`w-28 h-28 rounded-full flex items-center justify-center mb-4 ${gradeColor}`}
+            animate={{ scale: [1, 1.02, 1] }}
+            transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}
           >
             <div className="text-center">
               <div className="text-5xl font-black">{grade}</div>
-              <div className="text-xs font-bold mt-1">Jegy</div>
+              <div className="text-xs font-bold mt-0.5">Jegy</div>
             </div>
           </motion.div>
 
@@ -79,23 +79,23 @@ export default function ExamResultsDisplay({
 
       {/* Section Breakdown */}
       <motion.div
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.5, delay: 0.2 }}
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ duration: 0.3, delay: 0.15 }}
       >
-        <h3 className="text-2xl font-black text-gray-800 mb-6 flex items-center gap-2">
-          <BarChart3 size={24} />
+        <h3 className="text-lg font-black text-gray-800 mb-4 flex items-center gap-2">
+          <BarChart3 size={20} />
           Szekciós bontás
         </h3>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
           {sections.map((section, idx) => (
             <motion.div
               key={idx}
-              className="bg-white border-2 border-gray-200 rounded-lg p-5 hover:shadow-lg transition-shadow"
-              initial={{ opacity: 0, x: -20 }}
-              animate={{ opacity: 1, x: 0 }}
-              transition={{ duration: 0.4, delay: 0.3 + idx * 0.1 }}
+              className="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ duration: 0.2, delay: 0.2 + idx * 0.05 }}
             >
               <div className="flex justify-between items-start mb-3">
                 <h4 className="font-bold text-gray-800">{section.section}</h4>
@@ -125,12 +125,12 @@ export default function ExamResultsDisplay({
 
       {/* Performance Analysis */}
       <motion.div
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.5, delay: 0.4 }}
-        className="bg-blue-50 border-2 border-blue-200 rounded-lg p-6"
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ duration: 0.3, delay: 0.25 }}
+        className="bg-blue-50 border border-blue-200 rounded-lg p-4"
       >
-        <h3 className="text-lg font-bold text-gray-800 mb-4">Teljesítmény elemzés</h3>
+        <h3 className="text-sm font-bold text-gray-800 mb-3">Teljesítmény elemzés</h3>
         <div className="space-y-3">
           {/* Best section */}
           {getBestSection(sections) && (

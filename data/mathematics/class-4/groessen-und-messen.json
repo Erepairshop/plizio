@@ -1,0 +1,188 @@
+{
+  "class": 4,
+  "theme": "Größen und Messen",
+  "language": "de",
+  "description": "Längenmessungen, Gewichte, Zeit und Volumen für die 4. Klasse",
+  "tasks": [
+    {
+      "id": "4-messen-001",
+      "question": "Wie viel Zentimeter sind 2 Meter?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [200, 100, 300, 150],
+      "correct": 0,
+      "explanation": "1 Meter = 100 cm, also 2 Meter = 200 cm"
+    },
+    {
+      "id": "4-messen-002",
+      "question": "Wie viel Millimeter sind 5 Zentimeter?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [50, 5, 500, 25],
+      "correct": 0,
+      "explanation": "1 cm = 10 mm, also 5 cm = 50 mm"
+    },
+    {
+      "id": "4-messen-003",
+      "question": "Wie viel Kilogramm sind 5000 Gramm?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [5, 50, 500, 0.5],
+      "correct": 0,
+      "explanation": "1 kg = 1000 g, also 5000 g = 5 kg"
+    },
+    {
+      "id": "4-messen-004",
+      "question": "Wie viel Minuten sind 2 Stunden?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [120, 60, 180, 90],
+      "correct": 0,
+      "explanation": "1 Stunde = 60 Minuten, also 2 Stunden = 120 Minuten"
+    },
+    {
+      "id": "4-messen-005",
+      "question": "Wie viel Sekunden sind 3 Minuten?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [180, 60, 240, 120],
+      "correct": 0,
+      "explanation": "1 Minute = 60 Sekunden, also 3 Minuten = 180 Sekunden"
+    },
+    {
+      "id": "4-messen-006",
+      "question": "Wie viel Liter sind 5000 Milliliter?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [5, 50, 500, 0.5],
+      "correct": 0,
+      "explanation": "1 Liter = 1000 ml, also 5000 ml = 5 Liter"
+    },
+    {
+      "id": "4-messen-007",
+      "question": "Ein Stift ist 14 cm lang. Wie lang sind 8 Stifte hintereinander?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [112, 100, 120, 104],
+      "correct": 0,
+      "explanation": "14 × 8 = 112 cm"
+    },
+    {
+      "id": "4-messen-008",
+      "question": "Ein Apfel wiegt 150 Gramm. Wie viel wiegen 6 Äpfel?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [900, 800, 1000, 850],
+      "correct": 0,
+      "explanation": "150 × 6 = 900 Gramm = 0,9 kg"
+    },
+    {
+      "id": "4-messen-009",
+      "question": "Wie viel Meter sind 750 Zentimeter?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [7.5, 75, 0.75, 70],
+      "correct": 0,
+      "explanation": "750 cm ÷ 100 = 7,5 Meter"
+    },
+    {
+      "id": "4-messen-010",
+      "question": "Wie viel Stunden sind 480 Minuten?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [8, 4, 12, 6],
+      "correct": 0,
+      "explanation": "480 ÷ 60 = 8 Stunden"
+    },
+    {
+      "id": "4-messen-011",
+      "question": "Ein Schulweg ist 2 Kilometer lang. Wie viel Meter sind das?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [2000, 200, 20000, 200],
+      "correct": 0,
+      "explanation": "1 km = 1000 m, also 2 km = 2000 m"
+    },
+    {
+      "id": "4-messen-012",
+      "question": "Max wiegt 35 kg. Sein Bruder wiegt 28 kg. Wie viel wiegen die beiden zusammen?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [63, 53, 73, 58],
+      "correct": 0,
+      "explanation": "35 + 28 = 63 kg"
+    },
+    {
+      "id": "4-messen-013",
+      "question": "Ein Unterricht dauert 45 Minuten. Wie lange dauern 3 Unterrichtsstunden?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [135, 125, 145, 130],
+      "correct": 0,
+      "explanation": "45 × 3 = 135 Minuten = 2 Stunden 15 Minuten"
+    },
+    {
+      "id": "4-messen-014",
+      "question": "Wie viel Zentimeter sind 4 Meter und 32 Zentimeter?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [432, 442, 422, 452],
+      "correct": 0,
+      "explanation": "4 m = 400 cm, also 400 + 32 = 432 cm"
+    },
+    {
+      "id": "4-messen-015",
+      "question": "Ein Buch wiegt 600 Gramm. Wie viel wiegen 10 Bücher?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [6, 60, 600, 0.6],
+      "correct": 0,
+      "explanation": "600 × 10 = 6000 Gramm = 6 kg"
+    },
+    {
+      "id": "4-messen-016",
+      "question": "Wie viel Deziliter sind 3 Liter?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [30, 3, 300, 0.3],
+      "correct": 0,
+      "explanation": "1 Liter = 10 dl, also 3 Liter = 30 dl"
+    },
+    {
+      "id": "4-messen-017",
+      "question": "Ein Zimmer ist 6 Meter lang und 4 Meter breit. Wie groß ist der Umfang?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [20, 18, 24, 22],
+      "correct": 0,
+      "explanation": "Umfang = 2 × (6 + 4) = 2 × 10 = 20 Meter"
+    },
+    {
+      "id": "4-messen-018",
+      "question": "Wie viel Sekunden sind 5 Minuten und 30 Sekunden?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [330, 320, 340, 350],
+      "correct": 0,
+      "explanation": "5 Minuten = 300 Sekunden, plus 30 Sekunden = 330 Sekunden"
+    },
+    {
+      "id": "4-messen-019",
+      "question": "Eine Flasche enthält 750 Milliliter. Wie viel sind 4 Flaschen?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [3, 2, 4, 1],
+      "correct": 0,
+      "explanation": "750 × 4 = 3000 ml = 3 Liter"
+    },
+    {
+      "id": "4-messen-020",
+      "question": "Ein Auto fährt 80 Kilometer in einer Stunde. Wie weit fährt es in 3 Stunden?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [240, 160, 320, 200],
+      "correct": 0,
+      "explanation": "80 × 3 = 240 Kilometer"
+    }
+  ]
+}
