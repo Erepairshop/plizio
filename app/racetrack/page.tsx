@@ -470,6 +470,54 @@ function CarMesh({ color, tilt }: { color: string; tilt?: number }) {
 }
 
 // ═══════════════════════════════════════════════
+//  TIRE WALLS
+// ═══════════════════════════════════════════════
+function TireWalls({ curve, width, segments }: { curve: THREE.CatmullRomCurve3; width: number; segments: number }) {
+  const pts = useMemo(() => curve.getSpacedPoints(segments), [curve, segments]);
+  const walls = useMemo(() => {
+    const result: { x: number; y: number; z: number; angle: number; side: number }[] = [];
+    for (let i = 0; i < pts.length; i += 30) {
+      const p = pts[i];
+      const t = curve.getTangentAt((i % segments) / segments);
+      const n = new THREE.Vector3(-t.z, 0, t.x).normalize();
+      const ang = Math.atan2(t.x, t.z);
+      // outer barrier side (positive normal direction)
+      result.push({ x: p.x + n.x * (width / 2 + 1.2), y: 0, z: p.z + n.z * (width / 2 + 1.2), angle: ang, side: 1 });
+    }
+    return result;
+  }, [pts, curve, segments, width]);
+
+  return (
+    <>
+      {walls.map((w, i) => (
+        <group key={i} position={[w.x, w.y, w.z]} rotation={[0, w.angle, 0]}>
+          {/* Bottom tire */}
+          <mesh position={[0, 0.35, 0]} rotation={[Math.PI / 2, 0, 0]}>
+            <cylinderGeometry args={[0.6, 0.6, 0.5, 10]} />
+            <meshStandardMaterial color="#222222" roughness={0.9} />
+          </mesh>
+          {/* Inner ring bottom */}
+          <mesh position={[0, 0.35, 0]} rotation={[Math.PI / 2, 0, 0]}>
+            <torusGeometry args={[0.35, 0.1, 6, 10]} />
+            <meshStandardMaterial color="#444444" />
+          </mesh>
+          {/* Top tire */}
+          <mesh position={[0, 1.0, 0]} rotation={[Math.PI / 2, 0, 0]}>
+            <cylinderGeometry args={[0.6, 0.6, 0.5, 10]} />
+            <meshStandardMaterial color="#1a1a1a" roughness={0.9} />
+          </mesh>
+          {/* Inner ring top */}
+          <mesh position={[0, 1.0, 0]} rotation={[Math.PI / 2, 0, 0]}>
+            <torusGeometry args={[0.35, 0.1, 6, 10]} />
+            <meshStandardMaterial color="#333333" />
+          </mesh>
+        </group>
+      ))}
+    </>
+  );
+}
+
+// ═══════════════════════════════════════════════
 //  GRANDSTANDS
 // ═══════════════════════════════════════════════
 const STAND_COLORS = ["#CC3344", "#3344CC", "#22AA55", "#CC7733", "#AA33CC"];
@@ -844,7 +892,6 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
   const aiMeshRefs = useRef<(THREE.Group | null)[]>(new Array(6).fill(null));
   const finishedRef = useRef(false);
   const timerRef = useRef(0);
-  const prevLapRef = useRef(0);
 
   // Oil slick effect
   const onOilRef = useRef(false);
@@ -1212,7 +1259,6 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
           // Flip check for player (a===0 means player)
           if (a === 0 || b === 0) {
             const playerCar = a === 0 ? ca : cb;
-            const otherCar = a === 0 ? cb : ca;
             const impactSpeed = Math.abs(ca.speed) + Math.abs(cb.speed);
             const turnSharpHere = getTurnSharpness(playerCar.trackProgress);
             // Flip if: in a sharp turn AND strong impact
@@ -1310,6 +1356,9 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
         </group>
       ))}
 
+      {/* Tire walls on outer barriers */}
+      <TireWalls curve={curve} width={track.width} segments={SEGS} />
+
       {/* Grandstands near start/finish */}
       <Grandstands curve={curve} width={track.width} />
 
@@ -1346,7 +1395,7 @@ export default function RacetrackPage() {
   const [finishTime, setFinishTime] = useState(0);
   const [cardSaved, setCardSaved] = useState(false);
   const [showMilestone, setShowMilestone] = useState(false);
-  const [hudTick, setHudTick] = useState(0);
+  const [, setHudTick] = useState(0);
   const joystickKnobRef = useRef<HTMLDivElement>(null);
 
   const keysRef = useRef(new Set<string>());
@@ -1575,24 +1624,33 @@ export default function RacetrackPage() {
                 </div>
               </div>
 
-              {/* POSITION – top left, big */}
+              {/* POSITION – top left, big, animated pop on change */}
               <div className="absolute top-3 left-14 flex flex-col items-center">
                 <div className="text-[9px] font-black text-[#BB44FF]/70 tracking-widest">POS</div>
-                <div className="font-black text-4xl leading-none" style={{
-                  color: hud.position === 1 ? "#FFD700" : hud.position === 2 ? "#C0C0C0" : hud.position === 3 ? "#CD7F32" : "#888"
-                }}>P{hud.position}</div>
+                <motion.div
+                  key={hud.position}
+                  initial={{ scale: 1.6, opacity: 0.5 }}
+                  animate={{ scale: 1, opacity: 1 }}
+                  transition={{ type: "spring", stiffness: 400, damping: 18 }}
+                  className="font-black text-4xl leading-none"
+                  style={{ color: hud.position === 1 ? "#FFD700" : hud.position === 2 ? "#C0C0C0" : hud.position === 3 ? "#CD7F32" : "#aaaaaa" }}
+                >
+                  {hud.position === 1 ? "P1" : hud.position === 2 ? "P2" : hud.position === 3 ? "P3" : `P${hud.position}`}
+                </motion.div>
+                <div className="text-[9px] font-bold leading-none -mt-0.5" style={{ color: hud.position === 1 ? "#FFD700" : hud.position === 2 ? "#C0C0C0" : hud.position === 3 ? "#CD7F32" : "#666" }}>
+                  {hud.position === 1 ? "1st" : hud.position === 2 ? "2nd" : hud.position === 3 ? "3rd" : `${hud.position}th`}
+                </div>
               </div>
 
-              {/* Camera toggle – top right area */}
-              <button onClick={() => { const next = cameraMode === "chase" ? "overhead" : "chase"; setCameraMode(next); cameraModeRef.current = next; }}
-                className="absolute top-14 right-3 bg-black/70 border border-white/20 rounded-xl p-2 pointer-events-auto active:scale-95 transition-all flex items-center gap-1.5">
-                <Eye size={12} className="text-white/60" />
-                <span className="text-white/50 text-[10px] font-bold">{cameraMode === "chase" ? "CHASE" : "TOP"}</span>
-              </button>
-
-              {/* Mini-map – top right */}
-              <div className="absolute top-3 right-3 pointer-events-none">
+              {/* Mini-map – top right, below close button */}
+              <div className="absolute top-3 right-3 pointer-events-none flex flex-col items-end gap-1">
                 <MiniMap track={track} playerPosRef={playerPosRef} aiPosRef={aiPosRef} />
+                {/* Camera toggle – sits below mini-map */}
+                <button onClick={() => { const next = cameraMode === "chase" ? "overhead" : "chase"; setCameraMode(next); cameraModeRef.current = next; }}
+                  className="bg-black/70 border border-white/20 rounded-xl p-2 pointer-events-auto active:scale-95 transition-all flex items-center gap-1.5">
+                  <Eye size={12} className="text-white/60" />
+                  <span className="text-white/50 text-[10px] font-bold">{cameraMode === "chase" ? "CHASE" : "TOP"}</span>
+                </button>
               </div>
 
               {/* Oil slick warning */}
