@@ -238,6 +238,11 @@ export default function MathQuestionDisplay({
                 setTextAnswer('');
               }
             }}
+            onBlur={() => {
+              if (textAnswer && onTextAnswer) {
+                onTextAnswer(textAnswer);
+              }
+            }}
             placeholder="Antwort eingeben"
             className="w-full px-3 py-2 bg-transparent border-b-2 border-gray-400 text-gray-800 placeholder-gray-500 focus:border-blue-600 focus:ring-0 outline-none transition-all font-mono text-base"
             style={{

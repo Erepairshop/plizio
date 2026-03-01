@@ -105,8 +105,8 @@ function Character({ mood, skinColor = '#e8c9a0', outfitColor = '#6b8fad', jumpT
     if (leftLegRef.current && rightLegRef.current) {
       let legScale = 1;
       if (jumpTimer.current >= 0) {
-        // Compress legs during jump (0.7 at peak)
-        legScale = 0.7 + Math.cos(jumpTimer.current * Math.PI) * 0.3;
+        // Compress legs at peak, return to full at landing
+        legScale = 1 - 0.3 * Math.sin(jumpTimer.current * Math.PI);
       }
       leftLegRef.current.scale.y = lerp(leftLegRef.current.scale.y, legScale, 0.15);
       rightLegRef.current.scale.y = lerp(rightLegRef.current.scale.y, legScale, 0.15);
@@ -480,6 +480,27 @@ function Character({ mood, skinColor = '#e8c9a0', outfitColor = '#6b8fad', jumpT
           <boxGeometry args={[0.085, 0.028, 0.012]} />
           <meshStandardMaterial color="#b06060" roughness={0.5} />
         </mesh>
+
+        {/* ── HAIR ─────────────────────────────────── */}
+        {/* Main hair cap */}
+        <mesh position={[0, 0.1, 0]} scale={[1.05, 0.7, 1.05]}>
+          <sphereGeometry args={[0.22, 14, 8, 0, Math.PI * 2, 0, Math.PI * 0.55]} />
+          <meshStandardMaterial color="#3b2a1a" roughness={0.85} metalness={0.02} />
+        </mesh>
+        {/* Front hair tuft */}
+        <mesh position={[0, 0.19, 0.16]} rotation={[0.5, 0, 0]} scale={[0.9, 1, 0.7]}>
+          <sphereGeometry args={[0.1, 8, 6]} />
+          <meshStandardMaterial color="#3b2a1a" roughness={0.85} metalness={0.02} />
+        </mesh>
+        {/* Side tufts */}
+        <mesh position={[-0.16, 0.04, 0.02]} scale={[0.7, 0.85, 0.75]}>
+          <sphereGeometry args={[0.12, 8, 6]} />
+          <meshStandardMaterial color="#3b2a1a" roughness={0.85} metalness={0.02} />
+        </mesh>
+        <mesh position={[0.16, 0.04, 0.02]} scale={[0.7, 0.85, 0.75]}>
+          <sphereGeometry args={[0.12, 8, 6]} />
+          <meshStandardMaterial color="#3b2a1a" roughness={0.85} metalness={0.02} />
+        </mesh>
       </group>
 
       {/* ══ LEFT ARM (pivot at shoulder) ═══════════════ */}
@@ -487,6 +508,11 @@ function Character({ mood, skinColor = '#e8c9a0', outfitColor = '#6b8fad', jumpT
         <mesh position={[0, -0.16, 0]}>
           <cylinderGeometry args={[0.06, 0.07, 0.32, 6]} />
           <meshStandardMaterial color={skinColor} roughness={0.62} metalness={0.02} />
+        </mesh>
+        {/* Left hand */}
+        <mesh position={[0, -0.36, 0]}>
+          <sphereGeometry args={[0.072, 8, 6]} />
+          <meshStandardMaterial color={skinColor} roughness={0.55} metalness={0.02} />
         </mesh>
       </group>
 
@@ -496,6 +522,11 @@ function Character({ mood, skinColor = '#e8c9a0', outfitColor = '#6b8fad', jumpT
           <cylinderGeometry args={[0.06, 0.07, 0.32, 6]} />
           <meshStandardMaterial color={skinColor} roughness={0.62} metalness={0.02} />
         </mesh>
+        {/* Right hand */}
+        <mesh position={[0, -0.36, 0]}>
+          <sphereGeometry args={[0.072, 8, 6]} />
+          <meshStandardMaterial color={skinColor} roughness={0.55} metalness={0.02} />
+        </mesh>
       </group>
 
       {/* ══ LEFT LEG ══════════════════════════════════ */}
@@ -503,11 +534,21 @@ function Character({ mood, skinColor = '#e8c9a0', outfitColor = '#6b8fad', jumpT
         <cylinderGeometry args={[0.095, 0.105, 0.42, 6]} />
         <meshStandardMaterial color="#3c3c3c" roughness={0.82} />
       </mesh>
+      {/* Left foot */}
+      <mesh position={[-0.13, -0.665, 0.055]}>
+        <boxGeometry args={[0.14, 0.075, 0.22]} />
+        <meshStandardMaterial color="#2a2a2a" roughness={0.88} />
+      </mesh>
 
       {/* ══ RIGHT LEG ═════════════════════════════════ */}
       <mesh ref={rightLegRef} position={[0.13, -0.44, -0.015]}>
         <cylinderGeometry args={[0.095, 0.105, 0.42, 6]} />
         <meshStandardMaterial color="#3c3c3c" roughness={0.82} />
+      </mesh>
+      {/* Right foot */}
+      <mesh position={[0.13, -0.665, 0.055]}>
+        <boxGeometry args={[0.14, 0.075, 0.22]} />
+        <meshStandardMaterial color="#2a2a2a" roughness={0.88} />
       </mesh>
     </group>
   );
@@ -550,7 +591,7 @@ export default function AvatarCompanion({
       onClick={handleAvatarClick}
     >
       <Canvas
-        camera={{ position: [0, 0.1, 2.2], fov: 38 }}
+        camera={{ position: [0, 0.15, 2.6], fov: 44 }}
         frameloop="always"
         gl={{
           antialias: false,
