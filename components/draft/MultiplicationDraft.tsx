@@ -93,9 +93,12 @@ function MultiplicationDraft({ testId, questionId, cols = 8, initialRows = 6 }: 
       return s;
     });
     if (v.length === 1) {
-      setTimeout(() => {
-        cellRefs.current[ri]?.[ci - 1]?.focus();
-      }, 0);
+      const nextCol = ci + 1; // Move forward
+      if (nextCol < cols) {
+        setTimeout(() => {
+          cellRefs.current[ri]?.[nextCol]?.focus();
+        }, 0);
+      }
     }
   }, [syncToProvider]);
 

@@ -1349,10 +1349,10 @@ export default function MathTestPage() {
               })}
             </div>
 
-            {/* Floating Absence Button - Right side, floating */}
+            {/* Floating Absence Button - Center bottom, above avatar */}
             {!isGrading && (
               <motion.div
-                className="fixed right-6 bottom-8 z-40"
+                className="fixed left-1/2 -translate-x-1/2 bottom-24 z-40"
                 initial={{ opacity: 0, scale: 0 }}
                 animate={{ opacity: 1, scale: 1 }}
                 transition={{ type: "spring", stiffness: 200 }}
