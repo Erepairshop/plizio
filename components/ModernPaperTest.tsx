@@ -18,6 +18,7 @@ export interface ModernPaperTestProps {
   total?: number;
   isGrading?: boolean;
   onExit: () => void;
+  userName?: string;
 }
 
 export default function ModernPaperTest({
@@ -30,6 +31,7 @@ export default function ModernPaperTest({
   total,
   isGrading,
   onExit,
+  userName,
 }: ModernPaperTestProps) {
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 relative">
@@ -71,14 +73,21 @@ export default function ModernPaperTest({
                     {gradeLabel}
                   </span>
                 </motion.div>
-                <p className="text-xs sm:text-sm text-slate-600 font-mono mt-1">
-                  {new Date(date).toLocaleDateString('hu-HU', {
-                    weekday: 'long',
-                    year: 'numeric',
-                    month: 'long',
-                    day: 'numeric',
-                  })}
-                </p>
+                <div className="text-xs sm:text-sm text-slate-600 font-mono mt-1">
+                  {userName && (
+                    <p className="font-bold text-slate-800 mb-1">
+                      {userName}
+                    </p>
+                  )}
+                  <p>
+                    {new Date(date).toLocaleDateString('hu-HU', {
+                      weekday: 'long',
+                      year: 'numeric',
+                      month: 'long',
+                      day: 'numeric',
+                    })}
+                  </p>
+                </div>
               </div>
 
               {/* Right: Timer & Progress */}

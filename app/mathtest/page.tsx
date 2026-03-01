@@ -872,6 +872,17 @@ export default function MathTestPage() {
       next[questionIndex] = answer;
       return next;
     });
+
+    // Scroll to next question (forward)
+    setTimeout(() => {
+      const nextQuestionIndex = questionIndex + 1;
+      if (nextQuestionIndex < questions.length) {
+        const nextElement = document.querySelector(`[data-question-id="q_${nextQuestionIndex}"]`);
+        if (nextElement) {
+          nextElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      }
+    }, 100);
   };
 
   const handleGroupedTaskAnswer = (taskIndex: number, subQuestionId: string, answer: string | number, fieldId?: string) => {
@@ -1233,10 +1244,11 @@ export default function MathTestPage() {
           total={questions.length}
           isGrading={isGrading}
           onExit={() => setGameState("grade-select")}
+          userName={user?.user_metadata?.full_name || user?.email || undefined}
         >
           <div>
           <div className="relative max-w-lg mx-auto" style={{ borderLeft: "2px solid rgba(220, 100, 100, 0.4)" }}>
-            <div className="px-4 sm:px-6 py-4 pb-32">
+            <div className="px-4 sm:px-6 py-4 pb-4" style={{ paddingTop: "0" }}>
               {/* Header */}
               {realisticKlassenarbeit && testType === "klassenarbeit" && selectedGrade ? (
                 <KlassenarbeitHeader
@@ -1271,6 +1283,7 @@ export default function MathTestPage() {
                 return (
                   <motion.div
                     key={qi}
+                    data-question-id={`q_${qi}`}
                     initial={{ opacity: 0, y: 10 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ delay: isGrading ? 0 : qi * 0.05 }}
@@ -1336,12 +1349,12 @@ export default function MathTestPage() {
               })}
             </div>
 
-            {/* Global Submit Button - Bottom */}
+            {/* Floating Absence Button - Right side, floating */}
             {!isGrading && (
               <motion.div
-                className="fixed bottom-8 left-1/2 -translate-x-1/2 z-40"
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
+                className="fixed right-6 bottom-8 z-40"
+                initial={{ opacity: 0, scale: 0 }}
+                animate={{ opacity: 1, scale: 1 }}
                 transition={{ type: "spring", stiffness: 200 }}
               >
                 <motion.button
@@ -1351,30 +1364,19 @@ export default function MathTestPage() {
                     }
                   }}
                   disabled={!answers.some((a) => a !== null)}
-                  className={`px-8 py-3 font-bold rounded-lg shadow-lg text-lg transition-all ${
+                  className={`w-16 h-16 rounded-full font-bold shadow-lg text-lg transition-all flex items-center justify-center ${
                     answers.some((a) => a !== null)
                       ? 'bg-blue-600 hover:bg-blue-700 text-white cursor-pointer'
                       : 'bg-gray-300 text-gray-500 cursor-not-allowed opacity-60'
                   }`}
-                  whileHover={answers.some((a) => a !== null) ? { scale: 1.05, boxShadow: "0 0 20px rgba(37, 99, 235, 0.5)" } : {}}
+                  whileHover={answers.some((a) => a !== null) ? { scale: 1.1, boxShadow: "0 0 30px rgba(37, 99, 235, 0.6)" } : {}}
                   whileTap={answers.some((a) => a !== null) ? { scale: 0.95 } : {}}
                 >
-                  Absenden
+                  <span className="text-sm font-bold">A</span>
                 </motion.button>
               </motion.div>
             )}
 
-            {/* Exit button - Top left */}
-            <motion.button
-              onClick={() => setGameState("grade-select")}
-              className="fixed top-6 left-6 p-2.5 rounded-lg bg-white/5 border border-white/10 text-white/60 hover:text-white hover:bg-white/10 transition-all z-30"
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              whileHover={{ scale: 1.1 }}
-              whileTap={{ scale: 0.95 }}
-            >
-              <XIcon size={20} />
-            </motion.button>
 
           </div>
         </div>
