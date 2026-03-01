@@ -97,7 +97,7 @@ export default function SchriftlichLayout({
             value={value || ""}
             onChange={(e) => !disabled && onChange(e.target.value)}
             disabled={disabled}
-            placeholder="Írj számot..."
+            placeholder="Gib eine Zahl ein..."
             className={`w-24 px-3 py-2 border-2 rounded-lg text-sm font-medium transition-all ${
               isGrading
                 ? isCorrect

@@ -233,7 +233,7 @@ export default function MathQuestionDisplay({
               type="number"
               value={textAnswer}
               onChange={(e) => setTextAnswer(e.target.value)}
-              placeholder="Add meg a választ..."
+              placeholder="Gib die Antwort ein..."
               className="flex-1 px-4 py-3 rounded-xl bg-gray-50 border-2 border-gray-300 text-gray-800 placeholder-gray-400 focus:border-blue-500 focus:bg-white outline-none transition-all font-bold text-lg"
             />
             <motion.button
@@ -248,7 +248,7 @@ export default function MathQuestionDisplay({
               whileHover={{ scale: textAnswer ? 1.05 : 1 }}
               whileTap={{ scale: 0.95 }}
             >
-              Küld
+              Senden
             </motion.button>
           </div>
 

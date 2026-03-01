@@ -173,7 +173,7 @@ export default function DigitalScratchpad({
                     type="number"
                     value={userAnswers[currentStepIndex] ?? ''}
                     onChange={(e) => handleInputChange(e.target.value)}
-                    placeholder="Írj számot..."
+                    placeholder="Gib eine Zahl ein..."
                     className={`flex-1 px-4 py-3 text-lg sm:text-xl font-bold rounded-lg border-2 transition-all focus:outline-none ${
                       userAnswers[currentStepIndex] === null
                         ? 'border-slate-300 focus:border-blue-500 bg-white'
