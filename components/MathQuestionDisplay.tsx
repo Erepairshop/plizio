@@ -7,8 +7,8 @@ import DraftPanel from './draft/DraftPanel';
 
 interface ExtendedMathQuestion {
   question: string;
-  correctAnswer: number;
-  options: number[];
+  correctAnswer: number | string;
+  options: (number | string)[];
   topic: string;
   isWordProblem: boolean;
   // New optional fields for rich content
@@ -33,7 +33,7 @@ interface ExtendedMathQuestion {
 
 interface MathQuestionDisplayProps {
   question: ExtendedMathQuestion;
-  selectedAnswer: number | null;
+  selectedAnswer: number | string | null;
   onSelectAnswer: (optionIndex: number) => void;
   showResult?: boolean;
   isCorrect?: boolean;
@@ -313,16 +313,19 @@ export default function MathQuestionDisplay({
         <>
           {/* Multiple Choice Options */}
           <div className="space-y-3 mt-8">
-            {question.options.map((option, idx) => (
+            {question.options.map((option, idx) => {
+              const isSelected = selectedAnswer !== null && selectedAnswer === option;
+              const isCorrectOption = option === question.correctAnswer;
+              return (
               <motion.button
                 key={idx}
                 onClick={() => onSelectAnswer(idx)}
                 className={`w-full p-4 rounded-xl border-2 transition-all text-left font-bold text-gray-800 ${
-                  selectedAnswer === idx
+                  isSelected
                     ? isCorrect
                       ? 'border-green-500 bg-green-50'
                       : 'border-red-500 bg-red-50'
-                    : showResult && idx === question.correctAnswer
+                    : showResult && isCorrectOption
                       ? 'border-green-500 bg-green-50/50'
                       : 'border-gray-200 bg-gray-50 hover:bg-gray-100 hover:border-gray-300'
                 }`}
@@ -332,17 +335,18 @@ export default function MathQuestionDisplay({
                 <div className="flex items-center gap-3">
                   <div
                     className={`w-6 h-6 rounded-full border-2 flex items-center justify-center ${
-                      selectedAnswer === idx
+                      isSelected
                         ? 'border-blue-500 bg-blue-500'
                         : 'border-gray-300'
                     }`}
                   >
-                    {selectedAnswer === idx && <div className="w-3 h-3 bg-white rounded-full" />}
+                    {isSelected && <div className="w-3 h-3 bg-white rounded-full" />}
                   </div>
-                  <span>{option}</span>
+                  <span className={typeof option === 'string' ? 'text-2xl' : ''}>{option}</span>
                 </div>
               </motion.button>
-            ))}
+              );
+            })}
           </div>
         </>
       )}

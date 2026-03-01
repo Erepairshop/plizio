@@ -19,6 +19,8 @@ export interface ModernPaperTestProps {
   isGrading?: boolean;
   onExit: () => void;
   userName?: string;
+  dateLocale?: string;
+  exitLabel?: string;
 }
 
 export default function ModernPaperTest({
@@ -32,6 +34,8 @@ export default function ModernPaperTest({
   isGrading,
   onExit,
   userName,
+  dateLocale = 'hu-HU',
+  exitLabel = 'Kilépés',
 }: ModernPaperTestProps) {
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 relative">
@@ -80,7 +84,7 @@ export default function ModernPaperTest({
                     </p>
                   )}
                   <p>
-                    {new Date(date).toLocaleDateString('hu-HU', {
+                    {new Date(date).toLocaleDateString(dateLocale, {
                       weekday: 'long',
                       year: 'numeric',
                       month: 'long',
@@ -121,7 +125,7 @@ export default function ModernPaperTest({
                   className="p-2 rounded-lg hover:bg-slate-200/50 transition-colors text-slate-600 hover:text-slate-900"
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
-                  title="Kilépés"
+                  title={exitLabel}
                 >
                   <svg
                     className="w-5 h-5"

@@ -17,7 +17,7 @@ export interface TestSession {
 
 export interface SubmitAnswer {
   question_index: number;
-  answer: number;
+  answer: number | string;
   time_spent_sec: number;
 }
 

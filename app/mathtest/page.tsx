@@ -347,7 +347,7 @@ export default function MathTestPage() {
   const [selectedSubtopics, setSelectedSubtopics] = useState<string[]>([]);
   const [generatingTest, setGeneratingTest] = useState(false);
   const [questions, setQuestions] = useState<MathQuestion[]>([]);
-  const [answers, setAnswers] = useState<(number | null)[]>([]);
+  const [answers, setAnswers] = useState<(number | string | null)[]>([]);
   const [gradingIndex, setGradingIndex] = useState(-1);
   const [showTeacherNote, setShowTeacherNote] = useState(false);
   const [teacherNoteScore, setTeacherNoteScore] = useState(0);
@@ -791,13 +791,17 @@ export default function MathTestPage() {
 
       // Convert to MathQuestion format
       const mathQuestions: MathQuestion[] = testTasks.map((task) => {
-        const numOptions = task.options.map((opt: any) => typeof opt === 'number' ? opt : parseInt(opt as string, 10));
+        const hasStringOpts = task.options.some((opt: any) => typeof opt === 'string' && isNaN(Number(opt)));
+        const convertedOptions = hasStringOpts
+          ? task.options
+          : task.options.map((opt: any) => typeof opt === 'number' ? opt : parseInt(opt as string, 10));
         return {
         question: task.question,
-        correctAnswer: numOptions[task.correct], // actual value, not index
-        options: numOptions,
+        correctAnswer: convertedOptions[task.correct],
+        options: convertedOptions,
         topic: task.id,
         isWordProblem: false,
+        hasStringOptions: hasStringOpts,
         };
       });
 
@@ -875,7 +879,7 @@ export default function MathTestPage() {
     }
   };
 
-  const handleAnswer = (questionIndex: number, answer: number, scroll = true) => {
+  const handleAnswer = (questionIndex: number, answer: number | string, scroll = true) => {
     // Track time per question for Supabase submission
     if (useSupabase && answerTimesRef.current.length > 0) {
       const now = elapsedTime;
@@ -1103,6 +1107,16 @@ export default function MathTestPage() {
               onStartTest={handleStartMultiThemeTest}
               onClearSelection={() => setSelectedSubtopics([])}
               loading={generatingTest || curriculumLoading}
+              labels={ui ? {
+                selectTopics: ui.selectTopics,
+                selectTopicsSub: ui.selectTopicsSub,
+                preview: ui.preview,
+                topicsSelected: ui.topicsSelected,
+                clearSelection: ui.clearSelection,
+                startTest: ui.startTest,
+                generating: ui.generating,
+                topicAreas: ui.topicAreas,
+              } : undefined}
             />
           </div>
         </main>
@@ -1238,7 +1252,9 @@ export default function MathTestPage() {
           total={questions.length}
           isGrading={isGrading}
           onExit={() => setGameState("grade-select")}
-          userName={user?.user_metadata?.full_name || user?.email?.split('@')[0] || 'Vendég'}
+          userName={user?.user_metadata?.full_name || user?.email?.split('@')[0] || ui?.guest || 'Vendég'}
+          dateLocale={ui?.dateLocale || 'hu-HU'}
+          exitLabel={ui?.exit || 'Kilépés'}
         >
           <div>
           <div className="relative max-w-lg mx-auto" style={{ borderLeft: "2px solid rgba(220, 100, 100, 0.4)" }}>
@@ -1305,7 +1321,7 @@ export default function MathTestPage() {
                       onSelectAnswer={(optIdx) => !isGrading && handleAnswer(qi, question.options[optIdx])}
                       showResult={isGrading && isGraded}
                       isCorrect={isCorrect}
-                      useTextInput={true}
+                      useTextInput={!question.hasStringOptions}
                       onTextAnswer={(textAnswer, noScroll) => {
                         const numAnswer = parseInt(textAnswer);
                         if (!isNaN(numAnswer)) {
@@ -1355,9 +1371,8 @@ export default function MathTestPage() {
                 <motion.button
                   onClick={() => {
                     const allFilled = answers.every((a) => a !== null);
-                    console.log(`[Submit] Answers: ${answers.map(a => a ?? 'null').join(', ')}, All filled: ${allFilled}`);
                     if (allFilled) {
-                      setGameState("grading");
+                      handleSubmit();
                     }
                   }}
                   disabled={!answers.every((a) => a !== null)}
@@ -1369,7 +1384,7 @@ export default function MathTestPage() {
                   whileHover={answers.every((a) => a !== null) ? { scale: 1.05, boxShadow: "0 0 30px rgba(37, 99, 235, 0.6)" } : {}}
                   whileTap={answers.every((a) => a !== null) ? { scale: 0.95 } : {}}
                 >
-                  Absenden
+                  {ui?.submit || 'Absenden'}
                 </motion.button>
               </motion.div>
             )}

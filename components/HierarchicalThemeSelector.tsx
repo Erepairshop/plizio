@@ -24,6 +24,28 @@ export interface Theme {
   subtopics: Subtopic[];
 }
 
+interface UILabels {
+  selectTopics: string;
+  selectTopicsSub: string;
+  preview: string;
+  topicsSelected: string;
+  clearSelection: string;
+  startTest: string;
+  generating: string;
+  topicAreas: string;
+}
+
+const DEFAULT_LABELS: UILabels = {
+  selectTopics: "Válassz Témákat!",
+  selectTopicsSub: "Kombinálhatsz több al-témát egy teszthez",
+  preview: "Előnézet",
+  topicsSelected: "kiválasztva",
+  clearSelection: "Törlés",
+  startTest: "Teszt indítása",
+  generating: "Generálás...",
+  topicAreas: "Tématerületek",
+};
+
 interface HierarchicalThemeSelectorProps {
   themes: Theme[];
   selectedSubtopics: string[];
@@ -32,6 +54,7 @@ interface HierarchicalThemeSelectorProps {
   onStartTest: () => void;
   onClearSelection: () => void;
   loading?: boolean;
+  labels?: Partial<UILabels>;
 }
 
 export default function HierarchicalThemeSelector({
@@ -42,7 +65,9 @@ export default function HierarchicalThemeSelector({
   onStartTest,
   onClearSelection,
   loading = false,
+  labels: labelsProp,
 }: HierarchicalThemeSelectorProps) {
+  const labels = { ...DEFAULT_LABELS, ...labelsProp };
   const [expandedThemes, setExpandedThemes] = useState<Set<string>>(new Set());
 
   const toggleTheme = (themeId: string) => {
@@ -55,6 +80,23 @@ export default function HierarchicalThemeSelector({
     setExpandedThemes(newExpanded);
   };
 
+  const toggleAllSubtopics = (theme: Theme, e: React.MouseEvent) => {
+    e.stopPropagation();
+    const themeSubIds = theme.subtopics.map(s => s.id);
+    const allSelected = themeSubIds.every(id => selectedSubtopics.includes(id));
+    if (allSelected) {
+      // Deselect all subtopics in this theme
+      themeSubIds.forEach(id => {
+        if (selectedSubtopics.includes(id)) onSubtopicToggle(id);
+      });
+    } else {
+      // Select all subtopics in this theme
+      themeSubIds.forEach(id => {
+        if (!selectedSubtopics.includes(id)) onSubtopicToggle(id);
+      });
+    }
+  };
+
   const totalSubtopics = themes.reduce((sum, theme) => sum + theme.subtopics.length, 0);
 
   return (
@@ -65,13 +107,18 @@ export default function HierarchicalThemeSelector({
     >
       {/* Header */}
       <div className="text-center mb-2 md:mb-4">
-        <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-white mb-2">Válassz Témákat!</h2>
-        <p className="text-white/50 text-xs sm:text-sm">Kombinálhatsz több al-témát egy teszthez</p>
+        <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-white mb-2">{labels.selectTopics}</h2>
+        <p className="text-white/50 text-xs sm:text-sm">{labels.selectTopicsSub}</p>
       </div>
 
       {/* Themes List */}
       <div className="space-y-2 sm:space-y-3">
-        {themes.map((theme, themeIdx) => (
+        {themes.map((theme, themeIdx) => {
+          const themeSubIds = theme.subtopics.map(s => s.id);
+          const selectedInTheme = themeSubIds.filter(id => selectedSubtopics.includes(id)).length;
+          const allSelected = selectedInTheme === themeSubIds.length && themeSubIds.length > 0;
+
+          return (
           <motion.div
             key={theme.id}
             className="rounded-xl sm:rounded-2xl overflow-hidden border-2"
@@ -95,6 +142,18 @@ export default function HierarchicalThemeSelector({
                 <h3 className="font-black text-white text-sm sm:text-lg truncate">{theme.name}</h3>
                 <p className="text-white/50 text-xs sm:text-sm line-clamp-1 md:line-clamp-none">{theme.description}</p>
               </div>
+              {/* Select all button */}
+              <motion.div
+                onClick={(e) => toggleAllSubtopics(theme, e)}
+                className={`w-5 h-5 sm:w-6 sm:h-6 rounded-md border-2 flex items-center justify-center flex-shrink-0 cursor-pointer ${
+                  allSelected ? 'border-white bg-white/20' : selectedInTheme > 0 ? 'border-white/60 bg-white/10' : 'border-white/30'
+                }`}
+                whileHover={{ scale: 1.15 }}
+                whileTap={{ scale: 0.9 }}
+              >
+                {allSelected && <span className="text-white font-black text-xs">✓</span>}
+                {!allSelected && selectedInTheme > 0 && <span className="text-white/60 font-black text-xs">–</span>}
+              </motion.div>
               <motion.div
                 animate={{ rotate: expandedThemes.has(theme.id) ? 180 : 0 }}
                 transition={{ duration: 0.2 }}
@@ -174,7 +233,7 @@ export default function HierarchicalThemeSelector({
                           whileTap={{ scale: 0.95 }}
                         >
                           <Eye size={16} />
-                          <span className="hidden sm:inline">Vorschau</span>
+                          <span className="hidden sm:inline">{labels.preview}</span>
                         </motion.button>
                       </motion.div>
                     ))}
@@ -183,7 +242,8 @@ export default function HierarchicalThemeSelector({
               )}
             </AnimatePresence>
           </motion.div>
-        ))}
+          );
+        })}
       </div>
 
       {/* Selection Counter */}
@@ -191,7 +251,7 @@ export default function HierarchicalThemeSelector({
         className="text-center text-white/60 text-xs sm:text-sm font-medium"
         animate={{ color: selectedSubtopics.length > 0 ? '#fbbf24' : 'rgba(255,255,255,0.6)' }}
       >
-        {selectedSubtopics.length}/{totalSubtopics} Themenbereiche ausgewählt
+        {selectedSubtopics.length}/{totalSubtopics} {labels.topicAreas} {labels.topicsSelected}
       </motion.div>
 
       {/* Action Buttons */}
@@ -202,7 +262,7 @@ export default function HierarchicalThemeSelector({
           whileHover={{ scale: 1.02 }}
           whileTap={{ scale: 0.98 }}
         >
-          Auswahl löschen
+          {labels.clearSelection}
         </motion.button>
 
         <motion.button
@@ -212,7 +272,7 @@ export default function HierarchicalThemeSelector({
           whileHover={selectedSubtopics.length > 0 ? { scale: 1.02 } : {}}
           whileTap={selectedSubtopics.length > 0 ? { scale: 0.98 } : {}}
         >
-          {loading ? 'Generálás...' : 'Test starten'}
+          {loading ? labels.generating : labels.startTest}
         </motion.button>
       </div>
     </motion.div>
