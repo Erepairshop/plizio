@@ -750,10 +750,8 @@ export default function MathTestPage() {
         throw new Error("Failed to load tasks");
       }
 
-      // Shuffle and select 15 questions with balanced difficulty
-      const easyTasks = allTasks.filter(t => t.difficulty === 'easy');
-      const mediumTasks = allTasks.filter(t => t.difficulty === 'medium');
-      const hardTasks = allTasks.filter(t => t.difficulty === 'hard');
+      // ─── Always produce exactly 15 questions ─────────────────
+      const TARGET = 15;
 
       const shuffleArray = <T,>(arr: T[]): T[] => {
         const shuffled = [...arr];
@@ -764,11 +762,31 @@ export default function MathTestPage() {
         return shuffled;
       };
 
-      const selectedTasks = [
-        ...shuffleArray(easyTasks).slice(0, 5),      // 5 easy
-        ...shuffleArray(mediumTasks).slice(0, 7),    // 7 medium
-        ...shuffleArray(hardTasks).slice(0, 3),      // 3 hard
+      const easyTasks = shuffleArray(allTasks.filter(t => t.difficulty === 'easy'));
+      const mediumTasks = shuffleArray(allTasks.filter(t => t.difficulty === 'medium'));
+      const hardTasks = shuffleArray(allTasks.filter(t => t.difficulty === 'hard'));
+
+      // Try balanced pick first: 5 easy, 7 medium, 3 hard
+      let selectedTasks = [
+        ...easyTasks.slice(0, 5),
+        ...mediumTasks.slice(0, 7),
+        ...hardTasks.slice(0, 3),
       ];
+
+      // If not enough, fill up from remaining tasks until we hit TARGET
+      if (selectedTasks.length < TARGET) {
+        const usedIds = new Set(selectedTasks.map(t => t.id));
+        const remaining = shuffleArray(allTasks.filter(t => !usedIds.has(t.id)));
+        selectedTasks.push(...remaining.slice(0, TARGET - selectedTasks.length));
+      }
+
+      // If still not enough (very small pool), duplicate with variation
+      if (selectedTasks.length < TARGET) {
+        const pool = shuffleArray([...allTasks]);
+        while (selectedTasks.length < TARGET) {
+          selectedTasks.push(pool[selectedTasks.length % pool.length]);
+        }
+      }
 
       const testTasks = shuffleArray(selectedTasks);
 
