@@ -46,7 +46,7 @@ export function calculateRarity(score: number, total: number, streak: number): C
   // Streak gives a small bonus but doesn't override score
   const streakBonus = Math.min(streak * 2, 15);
   const effectivePct = pct + streakBonus;
-  if (pct === 100 && streak >= 10) return "legendary";
+  if (pct === 100 && streak >= 3) return "legendary";
   if (effectivePct >= 95) return "gold";
   if (effectivePct >= 70) return "silver";
   return "bronze";
