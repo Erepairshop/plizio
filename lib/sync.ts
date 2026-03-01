@@ -91,6 +91,11 @@ export async function uploadToSupabase(userId: string): Promise<void> {
       await supabase.from("cards").delete().in("id", toDelete);
     }
   }
+
+  // Clear redeemed IDs tracker – server is now in sync
+  if (typeof window !== "undefined") {
+    localStorage.removeItem("plizio_redeemed_ids");
+  }
 }
 
 // Download Supabase data to localStorage (after login on new device)
@@ -161,8 +166,9 @@ export async function downloadFromSupabase(userId: string): Promise<void> {
   if (cards && cards.length > 0) {
     const currentCards = getCards();
     const currentIds = new Set(currentCards.map((c: GameCard) => c.id));
+    const redeemedIds = new Set<string>(JSON.parse(localStorage.getItem("plizio_redeemed_ids") || "[]"));
     const newCards = cards
-      .filter((c) => !currentIds.has(c.id))
+      .filter((c) => !currentIds.has(c.id) && !redeemedIds.has(c.id))
       .map((c) => ({
         id: c.id,
         game: c.game,
@@ -177,12 +183,14 @@ export async function downloadFromSupabase(userId: string): Promise<void> {
   }
 }
 
-// Bidirectional sync: upload first (removes redeemed cards from server),
-// then download (redeemed cards are gone from server, won't be restored)
+// Bidirectional sync: download first (merge higher stats from server),
+// then upload (push merged state + delete redeemed cards from server).
+// Redeemed card IDs are tracked in plizio_redeemed_ids so download
+// never restores them even when they still exist on the server.
 export async function syncToSupabase(userId: string): Promise<void> {
   try {
-    await uploadToSupabase(userId);
     await downloadFromSupabase(userId);
+    await uploadToSupabase(userId);
   } catch (e) {
     console.error("Sync error:", e);
   }
