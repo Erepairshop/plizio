@@ -18,7 +18,10 @@ export interface ModernPaperTestProps {
   total?: number;
   isGrading?: boolean;
   onExit: () => void;
+  onPrint?: () => void;
   userName?: string;
+  dateLocale?: string;
+  exitLabel?: string;
 }
 
 export default function ModernPaperTest({
@@ -31,7 +34,10 @@ export default function ModernPaperTest({
   total,
   isGrading,
   onExit,
+  onPrint,
   userName,
+  dateLocale = 'hu-HU',
+  exitLabel = 'Kilépés',
 }: ModernPaperTestProps) {
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 relative">
@@ -80,7 +86,7 @@ export default function ModernPaperTest({
                     </p>
                   )}
                   <p>
-                    {new Date(date).toLocaleDateString('hu-HU', {
+                    {new Date(date).toLocaleDateString(dateLocale, {
                       weekday: 'long',
                       year: 'numeric',
                       month: 'long',
@@ -114,6 +120,22 @@ export default function ModernPaperTest({
                 )}
               </div>
 
+              {/* Print button */}
+              {onPrint && !isGrading && (
+                <motion.button
+                  onClick={onPrint}
+                  className="p-2 rounded-lg hover:bg-slate-200/50 transition-colors text-slate-500 hover:text-slate-900"
+                  whileHover={{ scale: 1.05 }}
+                  whileTap={{ scale: 0.95 }}
+                  title="Nyomtatás"
+                >
+                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
+                      d="M6 9V2h12v7M6 18H4a2 2 0 01-2-2v-5a2 2 0 012-2h16a2 2 0 012 2v5a2 2 0 01-2 2h-2M6 14h12v8H6v-8z" />
+                  </svg>
+                </motion.button>
+              )}
+
               {/* Close button */}
               {!isGrading && (
                 <motion.button
@@ -121,7 +143,7 @@ export default function ModernPaperTest({
                   className="p-2 rounded-lg hover:bg-slate-200/50 transition-colors text-slate-600 hover:text-slate-900"
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
-                  title="Kilépés"
+                  title={exitLabel}
                 >
                   <svg
                     className="w-5 h-5"

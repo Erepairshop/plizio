@@ -46,7 +46,7 @@ export function calculateRarity(score: number, total: number, streak: number): C
   // Streak gives a small bonus but doesn't override score
   const streakBonus = Math.min(streak * 2, 15);
   const effectivePct = pct + streakBonus;
-  if (pct === 100 && streak >= 10) return "legendary";
+  if (pct === 100 && streak >= 3) return "legendary";
   if (effectivePct >= 95) return "gold";
   if (effectivePct >= 70) return "silver";
   return "bronze";
@@ -67,4 +67,18 @@ export function saveCard(card: GameCard): void {
 
 export function generateCardId(): string {
   return `card_${Date.now()}_${Math.random().toString(36).slice(2, 8)}`;
+}
+
+export function removeCardsByRarity(rarity: CardRarity, count: number): void {
+  if (typeof window === "undefined" || count <= 0) return;
+  const cards = getCards();
+  let removed = 0;
+  const remaining = cards.filter((c) => {
+    if (c.rarity === rarity && removed < count) {
+      removed++;
+      return false;
+    }
+    return true;
+  });
+  localStorage.setItem("plizio_cards", JSON.stringify(remaining));
 }

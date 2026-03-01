@@ -30,11 +30,11 @@ export interface ItemInsert {
   exam_tags: string[];
   content_json: {
     questionText: string;
-    options: number[];
+    options: (number | string)[];
     isWordProblem: boolean;
   };
   solution_json: {
-    correctAnswer: number;
+    correctAnswer: number | string;
   };
   generator_key: string;
 }

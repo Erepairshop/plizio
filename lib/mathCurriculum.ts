@@ -28,12 +28,13 @@ import {
 
 export interface MathQuestion {
   question: string;
-  correctAnswer: number;
-  options: number[];
+  correctAnswer: number | string;
+  options: (number | string)[];
   topic: string;
   isWordProblem: boolean;
   section?: string;      // Klassenarbeit szekció (Kopfrechnen, Schriftlich, Sachaufgaben, Geometrie, Bonus)
   maxPoints?: number;    // Max pont az adott kérdésre
+  hasStringOptions?: boolean; // true if options contain symbols like <, >, =
 }
 
 // ─── REALISTIC KLASSENARBEIT FORMAT (Grouped Tasks) ─────────────────────────────
@@ -1487,7 +1488,7 @@ export function getStarsForNote(note: Note): number {
 
 export function calculateKlassenarbeitResult(
   questions: MathQuestion[],
-  answers: (number | null)[]
+  answers: (number | string | null)[]
 ): KlassenarbeitResult {
   const sectionMap = new Map<string, SectionResult>();
 

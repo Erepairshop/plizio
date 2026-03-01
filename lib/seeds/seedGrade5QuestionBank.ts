@@ -596,7 +596,7 @@ export async function seedGrade5QuestionBank(): Promise<void> {
           continue;
         }
 
-        const correctAnswer = question.correctAnswer;
+        const correctAnswer = question.correctAnswer as number;
         const options = generateMultipleChoiceOptions(correctAnswer, "numeric");
 
         allQuestions.push({

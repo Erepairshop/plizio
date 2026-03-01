@@ -17,17 +17,28 @@ export interface CountryConfig {
   gradeLabel: (g: number) => string;  // "3. osztály" or "3rd grade"
   calculateMark: (percentage: number) => MarkResult;
   ui: {
-    title: string;              // "MATEK DOLGOZAT"
-    gradeQuestion: string;      // "Hanyadik osztályba jársz?"
-    submit: string;             // "BEADOM!"
-    retry: string;              // "Újraírom"
-    card: string;               // "Kártya"
-    other: string;              // "Másik"
-    home: string;               // "Főmenü"
-    grading: string;            // "Javítás..."
-    solved: string;             // "megoldva"
-    lastUsed: string;           // "LEGUTÓBB"
-    classLabel: string;         // "Osztály"
+    title: string;
+    gradeQuestion: string;
+    submit: string;
+    retry: string;
+    card: string;
+    other: string;
+    home: string;
+    grading: string;
+    solved: string;
+    lastUsed: string;
+    classLabel: string;
+    selectTopics: string;
+    selectTopicsSub: string;
+    preview: string;
+    topicsSelected: string;
+    clearSelection: string;
+    startTest: string;
+    generating: string;
+    guest: string;
+    exit: string;
+    topicAreas: string;
+    dateLocale: string;
   };
 }
 
@@ -58,6 +69,17 @@ const HU: CountryConfig = {
     solved: "megoldva",
     lastUsed: "LEGUTÓBB",
     classLabel: "Osztály",
+    selectTopics: "Válassz Témákat!",
+    selectTopicsSub: "Kombinálhatsz több al-témát egy teszthez",
+    preview: "Előnézet",
+    topicsSelected: "kiválasztva",
+    clearSelection: "Törlés",
+    startTest: "Teszt indítása",
+    generating: "Generálás...",
+    guest: "Vendég",
+    exit: "Kilépés",
+    topicAreas: "Tématerületek",
+    dateLocale: "hu-HU",
   },
 };
 
@@ -91,6 +113,17 @@ const US: CountryConfig = {
     solved: "solved",
     lastUsed: "LAST",
     classLabel: "Grade",
+    selectTopics: "Select Topics!",
+    selectTopicsSub: "You can combine multiple subtopics for one test",
+    preview: "Preview",
+    topicsSelected: "selected",
+    clearSelection: "Clear",
+    startTest: "Start Test",
+    generating: "Generating...",
+    guest: "Guest",
+    exit: "Exit",
+    topicAreas: "Topic areas",
+    dateLocale: "en-US",
   },
 };
 
@@ -123,6 +156,17 @@ const DE: CountryConfig = {
     solved: "gelöst",
     lastUsed: "ZULETZT",
     classLabel: "Klasse",
+    selectTopics: "Themen auswählen!",
+    selectTopicsSub: "Du kannst mehrere Unterthemen für einen Test kombinieren",
+    preview: "Vorschau",
+    topicsSelected: "ausgewählt",
+    clearSelection: "Auswahl löschen",
+    startTest: "Test starten",
+    generating: "Wird generiert...",
+    guest: "Gast",
+    exit: "Beenden",
+    topicAreas: "Themenbereiche",
+    dateLocale: "de-DE",
   },
 };
 
@@ -154,6 +198,17 @@ const GB: CountryConfig = {
     solved: "solved",
     lastUsed: "LAST",
     classLabel: "Year",
+    selectTopics: "Select Topics!",
+    selectTopicsSub: "You can combine multiple subtopics for one test",
+    preview: "Preview",
+    topicsSelected: "selected",
+    clearSelection: "Clear",
+    startTest: "Start Test",
+    generating: "Generating...",
+    guest: "Guest",
+    exit: "Exit",
+    topicAreas: "Topic areas",
+    dateLocale: "en-GB",
   },
 };
 
@@ -187,6 +242,17 @@ const RO: CountryConfig = {
     solved: "rezolvate",
     lastUsed: "ULTIMA",
     classLabel: "Clasa",
+    selectTopics: "Alege temele!",
+    selectTopicsSub: "Poți combina mai multe subteme pentru un test",
+    preview: "Previzualizare",
+    topicsSelected: "selectate",
+    clearSelection: "Șterge selecția",
+    startTest: "Începe testul",
+    generating: "Se generează...",
+    guest: "Invitat",
+    exit: "Ieșire",
+    topicAreas: "Domenii tematice",
+    dateLocale: "ro-RO",
   },
 };
 

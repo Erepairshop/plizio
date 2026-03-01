@@ -7,8 +7,8 @@ import DraftPanel from './draft/DraftPanel';
 
 interface ExtendedMathQuestion {
   question: string;
-  correctAnswer: number;
-  options: number[];
+  correctAnswer: number | string;
+  options: (number | string)[];
   topic: string;
   isWordProblem: boolean;
   // New optional fields for rich content
@@ -33,7 +33,7 @@ interface ExtendedMathQuestion {
 
 interface MathQuestionDisplayProps {
   question: ExtendedMathQuestion;
-  selectedAnswer: number | null;
+  selectedAnswer: number | string | null;
   onSelectAnswer: (optionIndex: number) => void;
   showResult?: boolean;
   isCorrect?: boolean;
@@ -229,18 +229,33 @@ export default function MathQuestionDisplay({
       {useTextInput ? (
         <div className="mt-4 space-y-3">
           <input
-            type="number"
+            type="text"
+            inputMode="numeric"
+            pattern="-?[0-9]*"
+            autoComplete="off"
             value={textAnswer}
-            onChange={(e) => setTextAnswer(e.target.value)}
+            onChange={(e) => {
+              const val = e.target.value;
+              // Allow empty, minus sign, or digits
+              if (val === '' || val === '-' || /^-?\d+$/.test(val)) {
+                setTextAnswer(val);
+              }
+            }}
             onKeyDown={(e) => {
               if (e.key === 'Enter' && textAnswer && onTextAnswer) {
-                onTextAnswer(textAnswer);
-                setTextAnswer('');
+                const num = parseInt(textAnswer, 10);
+                if (!isNaN(num)) {
+                  onTextAnswer(String(num));
+                  setTextAnswer('');
+                }
               }
             }}
             onBlur={() => {
-              if (textAnswer && onTextAnswer) {
-                onTextAnswer(textAnswer, true); // noScroll=true: save without scrolling
+              if (textAnswer && textAnswer !== '-' && onTextAnswer) {
+                const num = parseInt(textAnswer, 10);
+                if (!isNaN(num)) {
+                  onTextAnswer(String(num), true); // noScroll=true: save without scrolling
+                }
               }
             }}
             placeholder="Antwort eingeben"
@@ -312,38 +327,52 @@ export default function MathQuestionDisplay({
       ) : (
         <>
           {/* Multiple Choice Options */}
-          <div className="space-y-3 mt-8">
-            {question.options.map((option, idx) => (
-              <motion.button
-                key={idx}
-                onClick={() => onSelectAnswer(idx)}
-                className={`w-full p-4 rounded-xl border-2 transition-all text-left font-bold text-gray-800 ${
-                  selectedAnswer === idx
-                    ? isCorrect
-                      ? 'border-green-500 bg-green-50'
-                      : 'border-red-500 bg-red-50'
-                    : showResult && idx === question.correctAnswer
-                      ? 'border-green-500 bg-green-50/50'
-                      : 'border-gray-200 bg-gray-50 hover:bg-gray-100 hover:border-gray-300'
-                }`}
-                whileHover={{ scale: 1.02 }}
-                whileTap={{ scale: 0.98 }}
-              >
-                <div className="flex items-center gap-3">
-                  <div
-                    className={`w-6 h-6 rounded-full border-2 flex items-center justify-center ${
-                      selectedAnswer === idx
-                        ? 'border-blue-500 bg-blue-500'
-                        : 'border-gray-300'
-                    }`}
-                  >
-                    {selectedAnswer === idx && <div className="w-3 h-3 bg-white rounded-full" />}
+          {(() => {
+            const isCompact = question.options.every(o => typeof o === 'string' && String(o).length <= 3);
+            return (
+            <div className={isCompact ? "flex flex-wrap gap-2 mt-4" : "space-y-3 mt-8"}>
+              {question.options.map((option, idx) => {
+                const isSelected = selectedAnswer !== null && selectedAnswer === option;
+                const isCorrectOption = option === question.correctAnswer;
+
+                // Only show correct/incorrect colors during grading (showResult)
+                const selectedClass = showResult
+                  ? (isCorrect ? 'border-green-500 bg-green-50' : 'border-red-500 bg-red-50')
+                  : 'border-blue-500 bg-blue-50';
+                const correctHighlight = showResult && isCorrectOption
+                  ? 'border-green-500 bg-green-50/50'
+                  : 'border-gray-200 bg-gray-50 hover:bg-gray-100 hover:border-gray-300';
+
+                return (
+                <motion.button
+                  key={idx}
+                  onClick={() => onSelectAnswer(idx)}
+                  className={`${isCompact ? 'flex-1 min-w-[50px] py-1.5 px-2' : 'w-full p-4'} rounded-lg border-2 transition-all font-bold text-gray-800 ${
+                    isSelected ? selectedClass : correctHighlight
+                  }`}
+                  whileHover={{ scale: 1.02 }}
+                  whileTap={{ scale: 0.98 }}
+                >
+                  <div className={`flex items-center ${isCompact ? 'justify-center' : 'gap-3'}`}>
+                    {!isCompact && (
+                      <div
+                        className={`w-6 h-6 rounded-full border-2 flex items-center justify-center ${
+                          isSelected
+                            ? 'border-blue-500 bg-blue-500'
+                            : 'border-gray-300'
+                        }`}
+                      >
+                        {isSelected && <div className="w-3 h-3 bg-white rounded-full" />}
+                      </div>
+                    )}
+                    <span className={typeof option === 'string' ? (isCompact ? 'text-lg' : 'text-2xl') : ''}>{option}</span>
                   </div>
-                  <span>{option}</span>
-                </div>
-              </motion.button>
-            ))}
-          </div>
+                </motion.button>
+                );
+              })}
+            </div>
+            );
+          })()}
         </>
       )}
 

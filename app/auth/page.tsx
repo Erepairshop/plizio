@@ -6,6 +6,29 @@ import { signIn, signUp, useAuth } from "@/lib/supabase/useAuth";
 import { ArrowLeft } from "lucide-react";
 import Link from "next/link";
 
+function translateAuthError(msg: string): string {
+  const m = msg.toLowerCase();
+  if (m.includes("invalid login credentials") || m.includes("invalid credentials")) {
+    return "Hibás email cím vagy jelszó. Ha még nincs fiókod, kattints a \"Regisztrálj!\" gombra.";
+  }
+  if (m.includes("email not confirmed")) {
+    return "Az email cím még nincs megerősítve. Ellenőrizd a postaládád és kattints a visszaigazoló linkre.";
+  }
+  if (m.includes("user already registered") || m.includes("already been registered")) {
+    return "Ez az email cím már regisztrálva van. Jelentkezz be!";
+  }
+  if (m.includes("password should be")) {
+    return "A jelszónak legalább 6 karakteresnek kell lennie.";
+  }
+  if (m.includes("unable to validate email")) {
+    return "Érvénytelen email cím formátum.";
+  }
+  if (m.includes("rate limit") || m.includes("too many")) {
+    return "Túl sok próbálkozás. Kérjük, várj egy percet.";
+  }
+  return msg;
+}
+
 export default function AuthPage() {
   const { user, loading } = useAuth();
   const router = useRouter();
@@ -13,6 +36,7 @@ export default function AuthPage() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState<string | null>(null);
+  const [info, setInfo] = useState<string | null>(null);
   const [submitting, setSubmitting] = useState(false);
 
   // Already logged in → redirect to mathtest
@@ -30,12 +54,22 @@ export default function AuthPage() {
       if (mode === "signup") {
         await signUp(email, password);
       } else {
-        await signIn(email, password);
+        const data = await signIn(email, password);
+        // Sync data from Supabase after login (stars, streak, skins, etc.)
+        if (data.user) {
+          const { downloadFromSupabase } = await import("@/lib/sync");
+          await downloadFromSupabase(data.user.id).catch(() => {});
+        }
       }
       router.push("/mathtest/");
     } catch (err: unknown) {
-      const msg = err instanceof Error ? err.message : "Hiba történt";
-      setError(msg);
+      const raw = err instanceof Error ? err.message : "Hiba történt";
+      if (raw === "EMAIL_CONFIRMATION_REQUIRED") {
+        setInfo("Visszaigazoló emailt küldtünk! Erősítsd meg, majd jelentkezz be.");
+        setMode("login");
+      } else {
+        setError(translateAuthError(raw));
+      }
     } finally {
       setSubmitting(false);
     }
@@ -69,6 +103,12 @@ export default function AuthPage() {
           <p className="text-white/40 text-center text-sm mb-6">
             Plizio Assessment Engine
           </p>
+
+          {info && (
+            <div className="bg-blue-500/10 border border-blue-500/30 rounded-lg p-3 mb-4 text-blue-300 text-sm">
+              ✉️ {info}
+            </div>
+          )}
 
           {error && (
             <div className="bg-red-500/10 border border-red-500/30 rounded-lg p-3 mb-4 text-red-400 text-sm">
@@ -120,6 +160,7 @@ export default function AuthPage() {
               onClick={() => {
                 setMode(mode === "login" ? "signup" : "login");
                 setError(null);
+                setInfo(null);
               }}
               className="text-[#00D4FF] text-sm hover:underline"
             >

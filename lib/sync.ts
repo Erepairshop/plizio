@@ -95,6 +95,16 @@ export async function downloadFromSupabase(userId: string): Promise<void> {
   };
   localStorage.setItem("plizio_stats", JSON.stringify(mergedStats));
 
+  // Current streak: restore if server has higher
+  const currentStreakData = localStorage.getItem("plizio_streak");
+  const localStreak = currentStreakData ? JSON.parse(currentStreakData) : { count: 0, lastDate: null };
+  if ((data.current_streak || 0) > (localStreak.count || 0)) {
+    localStorage.setItem("plizio_streak", JSON.stringify({
+      count: data.current_streak,
+      lastDate: data.last_play_date,
+    }));
+  }
+
   // Special cards: take higher
   const currentSpecial = getSpecialCardCount();
   const mergedSpecial = Math.max(currentSpecial, data.special_cards || 0);

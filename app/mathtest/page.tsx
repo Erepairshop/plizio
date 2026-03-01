@@ -6,13 +6,13 @@ import { Canvas, useFrame } from "@react-three/fiber";
 import * as THREE from "three";
 import {
   Calculator, ArrowLeft, Check, X as XIcon,
-  RotateCcw, Home, BookOpen, Sparkles, Clock,
+  RotateCcw, Home, BookOpen, Sparkles, Clock, Download,
 } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId, type CardRarity } from "@/lib/cards";
-import { incrementTotalGames, incrementPerfectScores } from "@/lib/milestones";
+import { incrementTotalGames, incrementPerfectScores, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
 import {
   generateTest,
@@ -101,8 +101,10 @@ import MathQuestionDisplay from "@/components/MathQuestionDisplay";
 import { DraftProvider } from "@/components/draft";
 import { convertToExtendedQuestion, isVisualQuestion } from "@/lib/mathQuestionUtils";
 import ModernPaperTest from "@/components/ModernPaperTest";
-import GradingPencil from "@/components/GradingPencil";
-import TeacherNote from "@/components/TeacherNote";
+import GradingPencil, { InlineGradingPencil } from "@/components/GradingPencil";
+import { generateTestPdf } from "@/lib/generateTestPdf";
+import TeacherNote, { InlineTeacherNote } from "@/components/TeacherNote";
+import { getUsername } from "@/lib/username";
 import { getActiveSkin, SKINS } from "@/lib/skins";
 
 // ─── 3D FLOATING BACKGROUND ─────────────────────────────
@@ -347,7 +349,7 @@ export default function MathTestPage() {
   const [selectedSubtopics, setSelectedSubtopics] = useState<string[]>([]);
   const [generatingTest, setGeneratingTest] = useState(false);
   const [questions, setQuestions] = useState<MathQuestion[]>([]);
-  const [answers, setAnswers] = useState<(number | null)[]>([]);
+  const [answers, setAnswers] = useState<(number | string | null)[]>([]);
   const [gradingIndex, setGradingIndex] = useState(-1);
   const [showTeacherNote, setShowTeacherNote] = useState(false);
   const [teacherNoteScore, setTeacherNoteScore] = useState(0);
@@ -543,7 +545,7 @@ export default function MathTestPage() {
         setShowTeacherNote(false);
         window.scrollTo({ top: 0, behavior: 'smooth' });
         setGameState("result");
-      }, 3800);
+      }, 7500);
     }
   }, [gameState, gradingIndex, questions, answers, testType, realisticKlassenarbeit, groupedTaskAnswers]);
 
@@ -592,6 +594,7 @@ export default function MathTestPage() {
     setSaved(true);
 
     const streak = updateStreak();
+    updateStats({ highestStreak: streak });
     const rarity = calculateRarity(gradeResult.score, gradeResult.total, streak);
     setCardRarity(rarity);
 
@@ -791,13 +794,17 @@ export default function MathTestPage() {
 
       // Convert to MathQuestion format
       const mathQuestions: MathQuestion[] = testTasks.map((task) => {
-        const numOptions = task.options.map((opt: any) => typeof opt === 'number' ? opt : parseInt(opt as string, 10));
+        const hasStringOpts = task.options.some((opt: any) => typeof opt === 'string' && isNaN(Number(opt)));
+        const convertedOptions = hasStringOpts
+          ? task.options
+          : task.options.map((opt: any) => typeof opt === 'number' ? opt : parseInt(opt as string, 10));
         return {
         question: task.question,
-        correctAnswer: numOptions[task.correct], // actual value, not index
-        options: numOptions,
+        correctAnswer: convertedOptions[task.correct],
+        options: convertedOptions,
         topic: task.id,
         isWordProblem: false,
+        hasStringOptions: hasStringOpts,
         };
       });
 
@@ -875,7 +882,7 @@ export default function MathTestPage() {
     }
   };
 
-  const handleAnswer = (questionIndex: number, answer: number, scroll = true) => {
+  const handleAnswer = (questionIndex: number, answer: number | string, scroll = true) => {
     // Track time per question for Supabase submission
     if (useSupabase && answerTimesRef.current.length > 0) {
       const now = elapsedTime;
@@ -920,18 +927,19 @@ export default function MathTestPage() {
   };
 
   const handleSubmit = async () => {
+    // Always show grading animation (pencil) first
+    setGradingIndex(0);
+    setGameState("grading");
+
+    // Submit to Supabase in background if applicable
     if (useSupabase && testSession) {
-      // ─── Server-side grading flow ─────────────────
-      setSubmitting(true);
       try {
-        // Build answer payload
         const submitAnswers: SubmitAnswer[] = answers.map((a, i) => ({
           question_index: i,
           answer: a ?? 0,
           time_spent_sec: answerTimesRef.current[i] || Math.ceil(elapsedTime / questions.length),
         }));
 
-        // Prepare Klassenarbeit metadata if applicable
         let klassenarbeitMeta: KlassenarbeitMetadata | undefined;
         if (testType === "klassenarbeit" && klassenarbeitResult) {
           klassenarbeitMeta = {
@@ -949,25 +957,9 @@ export default function MathTestPage() {
 
         const result = await submitSupabaseTest(testSession.testId, submitAnswers, klassenarbeitMeta);
         setServerResult(result);
-
-        // Convert server result to local GradeResult format for UI compatibility
-        const gradeRes = calculateGradeResult(result.score, result.max_score);
-        setGradeResult(gradeRes);
-        setSubmitting(false);
-
-        // Skip grading animation, go straight to result
-        setGameState("result");
       } catch (err) {
         console.error("[Supabase] submitTest failed:", err);
-        // Fallback: grade locally if server fails
-        setSubmitting(false);
-        setGradingIndex(0);
-        setGameState("grading");
       }
-    } else {
-      // ─── Local grading flow (guest mode) ──────────
-      setGradingIndex(0);
-      setGameState("grading");
     }
   };
 
@@ -1103,6 +1095,16 @@ export default function MathTestPage() {
               onStartTest={handleStartMultiThemeTest}
               onClearSelection={() => setSelectedSubtopics([])}
               loading={generatingTest || curriculumLoading}
+              labels={ui ? {
+                selectTopics: ui.selectTopics,
+                selectTopicsSub: ui.selectTopicsSub,
+                preview: ui.preview,
+                topicsSelected: ui.topicsSelected,
+                clearSelection: ui.clearSelection,
+                startTest: ui.startTest,
+                generating: ui.generating,
+                topicAreas: ui.topicAreas,
+              } : undefined}
             />
           </div>
         </main>
@@ -1226,6 +1228,200 @@ export default function MathTestPage() {
   if (gameState === "playing" || gameState === "grading") {
     const isGrading = gameState === "grading";
 
+    const handlePrintBlank = () => {
+      const now = new Date();
+      const dateStr = `${now.getFullYear()}. ${(now.getMonth() + 1).toString().padStart(2, "0")}. ${now.getDate().toString().padStart(2, "0")}.`;
+      const gradeLabel = `${selectedGrade}. ${ui?.classLabel || "osztály"}`;
+      const subject = ui?.title || "MATEMATIKA DOLGOZAT";
+      const totalPoints = questions.reduce((sum, q) => sum + (q.maxPoints || 1), 0);
+
+      const questionsHtml = questions.map((q, i) => {
+        const pts = q.maxPoints || 1;
+        const sectionTag = q.section ? `<div class="section-label">${q.section}</div>` : "";
+        return `
+          ${sectionTag}
+          <div class="question">
+            <div class="question-header">
+              <span class="q-num">${i + 1}.</span>
+              <span class="q-text">${q.question}</span>
+              <span class="q-pts">(${pts} pont)</span>
+            </div>
+            <div class="answer-box"></div>
+          </div>`;
+      }).join("");
+
+      const html = `<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8">
+  <title>${subject} – ${gradeLabel}</title>
+  <style>
+    @page { size: A4; margin: 1.5cm 1.8cm 1.5cm 2.2cm; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      font-size: 11pt;
+      color: #1a1a2e;
+      background: white;
+      background-image:
+        linear-gradient(rgba(100,149,237,0.18) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(100,149,237,0.18) 1px, transparent 1px);
+      background-size: 0.5cm 0.5cm;
+      min-height: 29.7cm;
+    }
+    .page-content { background: transparent; position: relative; }
+
+    /* ── FEJLÉC ── */
+    .header {
+      border-bottom: 3px solid #1a1a2e;
+      padding-bottom: 10px;
+      margin-bottom: 16px;
+    }
+    .header-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 12px;
+      margin-bottom: 10px;
+    }
+    .header-left h1 {
+      font-size: 17pt;
+      font-weight: 900;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: #1a1a2e;
+      line-height: 1.1;
+    }
+    .header-left .grade-badge {
+      display: inline-block;
+      margin-top: 4px;
+      font-size: 9pt;
+      font-weight: 700;
+      color: #4b5563;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      border: 1.5px solid #d1d5db;
+      border-radius: 4px;
+      padding: 1px 8px;
+      background: rgba(255,255,255,0.7);
+    }
+    .score-box {
+      border: 2px solid #1a1a2e;
+      border-radius: 6px;
+      min-width: 100px;
+      padding: 6px 10px;
+      text-align: center;
+      background: rgba(255,255,255,0.8);
+      flex-shrink: 0;
+    }
+    .score-box .score-label { font-size: 7pt; font-weight: 700; color: #6b7280; text-transform: uppercase; letter-spacing: 0.08em; }
+    .score-box .score-value { font-size: 18pt; font-weight: 900; color: #1a1a2e; line-height: 1.1; }
+    .score-box .score-total { font-size: 8pt; color: #9ca3af; }
+
+    .fields { display: flex; gap: 16px; flex-wrap: wrap; }
+    .field { flex: 1; min-width: 150px; }
+    .field label { font-size: 7.5pt; font-weight: 700; color: #6b7280; text-transform: uppercase; letter-spacing: 0.06em; display: block; margin-bottom: 2px; }
+    .field .line {
+      border-bottom: 1.5px solid #374151;
+      min-height: 22px;
+      background: rgba(255,255,255,0.6);
+    }
+
+    /* ── KÉRDÉSEK ── */
+    .section-label {
+      font-size: 9pt;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: #6b7280;
+      margin: 18px 0 6px 0;
+      padding-bottom: 3px;
+      border-bottom: 1px dashed #d1d5db;
+    }
+    .question {
+      margin-bottom: 14px;
+      background: rgba(255,255,255,0.55);
+      border-radius: 5px;
+      padding: 8px 10px 6px 10px;
+      border-left: 3px solid rgba(100,149,237,0.4);
+    }
+    .question-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 6px;
+      margin-bottom: 4px;
+    }
+    .q-num { font-weight: 800; font-size: 11pt; min-width: 22px; color: #1a1a2e; }
+    .q-text { flex: 1; font-size: 11pt; line-height: 1.4; color: #1a1a2e; }
+    .q-pts { font-size: 8pt; color: #9ca3af; white-space: nowrap; font-style: italic; margin-top: 2px; }
+    .answer-box {
+      margin-top: 4px;
+      margin-left: 28px;
+      border-bottom: 1px solid #d1d5db;
+      min-height: 28px;
+    }
+
+    /* ── WATERMARK ── */
+    .watermark {
+      position: fixed;
+      bottom: 0.8cm;
+      right: 1.2cm;
+      font-size: 7pt;
+      color: #d1d5db;
+      font-family: monospace;
+      letter-spacing: 0.15em;
+      pointer-events: none;
+    }
+
+    @media print {
+      body { print-color-adjust: exact; -webkit-print-color-adjust: exact; }
+    }
+  </style>
+</head>
+<body>
+<div class="page-content">
+  <div class="header">
+    <div class="header-top">
+      <div class="header-left">
+        <h1>${subject}</h1>
+        <span class="grade-badge">${gradeLabel}</span>
+      </div>
+      <div class="score-box">
+        <div class="score-label">Eredmény</div>
+        <div class="score-value">&nbsp;&nbsp;&nbsp;&nbsp;</div>
+        <div class="score-total">/ ${totalPoints} pont</div>
+      </div>
+    </div>
+    <div class="fields">
+      <div class="field">
+        <label>Név</label>
+        <div class="line"></div>
+      </div>
+      <div class="field" style="max-width:120px">
+        <label>Osztály</label>
+        <div class="line"></div>
+      </div>
+      <div class="field" style="max-width:130px">
+        <label>Dátum</label>
+        <div class="line" style="padding-top:4px; font-size:9pt; color:#374151;">${dateStr}</div>
+      </div>
+    </div>
+  </div>
+
+  ${questionsHtml}
+</div>
+<div class="watermark">PLIZIO</div>
+<script>window.onload = function() { window.print(); };<\/script>
+</body>
+</html>`;
+
+      const win = window.open("", "_blank");
+      if (win) {
+        win.document.write(html);
+        win.document.close();
+      }
+    };
+
     return (
       <DraftProvider>
       <>
@@ -1238,7 +1434,10 @@ export default function MathTestPage() {
           total={questions.length}
           isGrading={isGrading}
           onExit={() => setGameState("grade-select")}
-          userName={user?.user_metadata?.full_name || user?.email?.split('@')[0] || 'Vendég'}
+          onPrint={handlePrintBlank}
+          userName={user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || ui?.guest || 'Vendég'}
+          dateLocale={ui?.dateLocale || 'hu-HU'}
+          exitLabel={ui?.exit || 'Kilépés'}
         >
           <div>
           <div className="relative max-w-lg mx-auto" style={{ borderLeft: "2px solid rgba(220, 100, 100, 0.4)" }}>
@@ -1247,7 +1446,7 @@ export default function MathTestPage() {
               {realisticKlassenarbeit && testType === "klassenarbeit" && selectedGrade ? (
                 <KlassenarbeitHeader
                   grade={selectedGrade}
-                  studentName={user?.user_metadata?.full_name || user?.email?.split('@')[0] || undefined}
+                  studentName={user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || undefined}
                   subject={country?.name === "Hungary" ? "Matematika" : country?.name === "Germany" ? "Mathematik" : country?.name === "Romania" ? "Matematică" : "Mathematics"}
                   startTime={Date.now()}
                 />
@@ -1302,19 +1501,24 @@ export default function MathTestPage() {
                     <MathQuestionDisplay
                       question={convertToExtendedQuestion(question)}
                       selectedAnswer={answers[qi]}
-                      onSelectAnswer={(optIdx) => !isGrading && handleAnswer(qi, question.options[optIdx])}
+                      onSelectAnswer={(optIdx) => !isGrading && handleAnswer(qi, question.options[optIdx], false)}
                       showResult={isGrading && isGraded}
                       isCorrect={isCorrect}
-                      useTextInput={true}
+                      useTextInput={!question.hasStringOptions}
                       onTextAnswer={(textAnswer, noScroll) => {
-                        const numAnswer = parseInt(textAnswer);
-                        if (!isNaN(numAnswer)) {
+                        const numAnswer = Number(textAnswer);
+                        if (textAnswer !== '' && !isNaN(numAnswer)) {
                           handleAnswer(qi, numAnswer, !noScroll);
                         }
                       }}
                       testId={`test_${selectedGrade}_${testType}`}
                       questionId={`q_${qi}`}
                     />
+
+                    {/* Inline grading pencil - shows on the question currently being graded */}
+                    {isGrading && qi === gradingIndex && (
+                      <InlineGradingPencil label={ui?.grading} />
+                    )}
 
                     {/* Grading mark */}
                     {isGrading && isGraded && (
@@ -1342,6 +1546,14 @@ export default function MathTestPage() {
                   </motion.div>
                 );
               })}
+
+              {/* Inline teacher note - appears on the test paper after all questions are graded */}
+              {showTeacherNote && (
+                <InlineTeacherNote
+                  playerName={user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || 'Schüler'}
+                  percentage={teacherNoteScore}
+                />
+              )}
             </div>
 
             {/* Floating Absence Button - Center bottom, above avatar */}
@@ -1355,9 +1567,8 @@ export default function MathTestPage() {
                 <motion.button
                   onClick={() => {
                     const allFilled = answers.every((a) => a !== null);
-                    console.log(`[Submit] Answers: ${answers.map(a => a ?? 'null').join(', ')}, All filled: ${allFilled}`);
                     if (allFilled) {
-                      setGameState("grading");
+                      handleSubmit();
                     }
                   }}
                   disabled={!answers.every((a) => a !== null)}
@@ -1369,7 +1580,7 @@ export default function MathTestPage() {
                   whileHover={answers.every((a) => a !== null) ? { scale: 1.05, boxShadow: "0 0 30px rgba(37, 99, 235, 0.6)" } : {}}
                   whileTap={answers.every((a) => a !== null) ? { scale: 0.95 } : {}}
                 >
-                  Absenden
+                  {ui?.submit || 'Absenden'}
                 </motion.button>
               </motion.div>
             )}
@@ -1383,12 +1594,7 @@ export default function MathTestPage() {
           <GradingPencil gradingIndex={gradingIndex} total={questions.length} />
         )}
 
-        {/* Teacher note after grading */}
-        <TeacherNote
-          visible={showTeacherNote}
-          playerName={user?.user_metadata?.full_name || user?.email?.split('@')[0] || 'Schüler'}
-          percentage={teacherNoteScore}
-        />
+        {/* TeacherNote is now rendered inline on the test paper above */}
 
         {/* Avatar - Always visible, outside test UI */}
         <div
@@ -1580,6 +1786,32 @@ export default function MathTestPage() {
               {ui?.other}
             </motion.button>
           </motion.div>
+
+          {/* PDF Download */}
+          <motion.button
+            onClick={() => {
+              const now = new Date();
+              const dateStr = `${now.getDate().toString().padStart(2, "0")}.${(now.getMonth() + 1).toString().padStart(2, "0")}.${now.getFullYear()}`;
+              generateTestPdf({
+                gradeLevel: country?.gradeLabel(selectedGrade!) || `${selectedGrade}. Klasse`,
+                testType: testType === "klassenarbeit" ? "klassenarbeit" : "practice",
+                date: dateStr,
+                elapsedTime,
+                questions,
+                answers,
+                gradeResult,
+                klassenarbeitResult: klassenarbeitResult || undefined,
+                studentName: user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || undefined,
+              });
+            }}
+            className="flex-1 py-3 rounded-xl border-2 border-sky-400/40 text-sky-400 font-bold text-sm flex items-center justify-center gap-2"
+            style={{ background: "rgba(56,189,248,0.1)" }}
+            whileHover={{ scale: 1.03 }}
+            whileTap={{ scale: 0.97 }}
+          >
+            <Download size={18} />
+            PDF
+          </motion.button>
 
           {/* Home */}
           <motion.button
