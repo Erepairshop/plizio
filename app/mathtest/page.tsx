@@ -331,7 +331,7 @@ function updateStreak(): number {
 
 // ─── MAIN COMPONENT ─────────────────────────────
 
-type GameState = "country-select" | "grade-select" | "theme-select" | "countdown" | "playing" | "grading" | "result" | "reward";
+type GameState = "country-select" | "grade-select" | "theme-select" | "playing" | "grading" | "result" | "reward";
 type TestType = "klassenarbeit" | null;
 
 export default function MathTestPage() {
@@ -344,7 +344,6 @@ export default function MathTestPage() {
   const [selectedTheme, setSelectedTheme] = useState<string | null>(null);
   const [selectedSubtopics, setSelectedSubtopics] = useState<string[]>([]);
   const [generatingTest, setGeneratingTest] = useState(false);
-  const [countdown, setCountdown] = useState(3);
   const [questions, setQuestions] = useState<MathQuestion[]>([]);
   const [answers, setAnswers] = useState<(number | null)[]>([]);
   const [gradingIndex, setGradingIndex] = useState(-1);
@@ -410,38 +409,21 @@ export default function MathTestPage() {
     setGameState("grade-select");
   };
 
-  // Countdown
+  // Ensure scroll to top when entering playing state
   useEffect(() => {
-    if (gameState !== "countdown") return;
-    if (countdown <= 0) {
+    if (gameState === "playing") {
       // Mark test as started in Supabase
       if (useSupabase && testSession) {
         startSupabaseTest(testSession.testId).catch((err) => console.error("[Supabase] startTest failed:", err));
       }
-      lastAnswerTimeRef.current = 0;
-      // Schedule scroll after this render cycle completes
-      requestAnimationFrame(() => {
-        window.scrollTo({ top: 0, behavior: 'auto' });
-        document.documentElement.scrollTop = 0;
-        document.body.scrollTop = 0;
-      });
-      setGameState("playing");
-      return;
-    }
-    const t = setTimeout(() => setCountdown((c) => c - 1), 800);
-    return () => clearTimeout(t);
-  }, [gameState, countdown, useSupabase, testSession]);
-
-  // Ensure scroll to top when entering playing state
-  useEffect(() => {
-    if (gameState === "playing") {
+      // Scroll to top when test starts
       requestAnimationFrame(() => {
         window.scrollTo({ top: 0, behavior: 'auto' });
         document.documentElement.scrollTop = 0;
         document.body.scrollTop = 0;
       });
     }
-  }, [gameState]);
+  }, [gameState, useSupabase, testSession]);
 
   // Timer during playing
   useEffect(() => {
@@ -828,7 +810,6 @@ export default function MathTestPage() {
     if (!selectedGrade || !testType) return;
 
     setSelectedTheme(theme);
-    setCountdown(3);
     setElapsedTime(0);
     setGradingIndex(-1);
     setGradeResult(null);
@@ -868,7 +849,7 @@ export default function MathTestPage() {
       setAnswers(new Array(mathQuestions.length).fill(null));
       setRealisticKlassenarbeit(null);
       setAvatarMood("idle");
-      setGameState("countdown");
+      setGameState("playing");
     } catch (err) {
       console.error("[Theme Test] Failed:", err);
       alert("Error generating test. Please try again.");
@@ -1213,31 +1194,6 @@ export default function MathTestPage() {
             ))}
           </motion.div>
         </div>
-        </main>
-        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
-      </>
-    );
-  }
-
-  // ─── COUNTDOWN ─────────────────────────────
-
-  if (gameState === "countdown") {
-    return (
-      <>
-        <main className="min-h-screen bg-bg flex items-center justify-center">
-          <AnimatePresence mode="wait">
-            <motion.div
-              key={countdown}
-              className="text-8xl font-black text-gold"
-              style={{ textShadow: "0 0 40px rgba(255,215,0,0.5)" }}
-              initial={{ scale: 0.5, opacity: 0 }}
-              animate={{ scale: 1, opacity: 1 }}
-              exit={{ scale: 2, opacity: 0 }}
-              transition={{ duration: 0.4 }}
-            >
-              {countdown > 0 ? countdown : "✏️"}
-            </motion.div>
-          </AnimatePresence>
         </main>
         <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
       </>
