@@ -220,6 +220,13 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         color: "#FF6B00",
         gradient: "bg-gradient-to-br from-orange-500/20 to-red-500/20",
       },
+      {
+        id: "racetrack",
+        icon: Car,
+        nameKey: "racetrack",
+        color: "#FF2222",
+        gradient: "bg-gradient-to-br from-red-500/20 to-rose-500/20",
+      },
     ],
   },
   {
@@ -233,13 +240,6 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         nameKey: "mathtest",
         color: "#FFD700",
         gradient: "bg-gradient-to-br from-yellow-500/20 to-amber-500/20",
-      },
-      {
-        id: "racetrack",
-        icon: Car,
-        nameKey: "racetrack",
-        color: "#FF6B00",
-        gradient: "bg-gradient-to-br from-orange-500/20 to-red-500/20",
       },
     ],
   },
