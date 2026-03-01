@@ -512,7 +512,7 @@ export default function MathTestPage() {
     }
 
     if (gradingIndex < questions.length) {
-      const t = setTimeout(() => setGradingIndex((i) => i + 1), 700);
+      const t = setTimeout(() => setGradingIndex((i) => i + 1), 900);
       return () => clearTimeout(t);
     } else {
       // All graded
