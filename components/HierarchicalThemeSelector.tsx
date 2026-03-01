@@ -4,21 +4,23 @@ import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { ChevronDown, Eye } from 'lucide-react';
 
-interface Subtopic {
+export interface Subtopic {
   id: string;
   name: string;
   color: string;
   icon: string;
-  taskFile: string;
-  taskIds: string[];
+  slug?: string;
+  taskFile?: string;
+  taskIds?: string[];
 }
 
-interface Theme {
+export interface Theme {
   id: string;
   name: string;
   color: string;
   icon: string;
   description: string;
+  slug?: string;
   subtopics: Subtopic[];
 }
 
