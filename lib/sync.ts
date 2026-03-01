@@ -77,18 +77,22 @@ export async function uploadToSupabase(userId: string): Promise<void> {
   }
 
   // Delete server cards that were redeemed (no longer in localStorage)
-  const { data: serverCards } = await supabase
-    .from("cards")
-    .select("id")
-    .eq("user_id", userId);
+  // Guard: only delete if local device actually has data (prevent wiping server on fresh install)
+  const hasLocalData = cards.length > 0 || stats.totalGames > 0;
+  if (hasLocalData) {
+    const { data: serverCards } = await supabase
+      .from("cards")
+      .select("id")
+      .eq("user_id", userId);
 
-  if (serverCards && serverCards.length > 0) {
-    const toDelete = serverCards
-      .map((c: { id: string }) => c.id)
-      .filter((id: string) => !localIds.has(id));
+    if (serverCards && serverCards.length > 0) {
+      const toDelete = serverCards
+        .map((c: { id: string }) => c.id)
+        .filter((id: string) => !localIds.has(id));
 
-    if (toDelete.length > 0) {
-      await supabase.from("cards").delete().in("id", toDelete);
+      if (toDelete.length > 0) {
+        await supabase.from("cards").delete().in("id", toDelete);
+      }
     }
   }
 }
@@ -177,11 +181,11 @@ export async function downloadFromSupabase(userId: string): Promise<void> {
   }
 }
 
-// Bidirectional sync: download first (merge from server), then upload merged state
+// Bidirectional sync: upload first (deletes redeemed cards from server), then download merged state
 export async function syncToSupabase(userId: string): Promise<void> {
   try {
-    await downloadFromSupabase(userId);
     await uploadToSupabase(userId);
+    await downloadFromSupabase(userId);
   } catch (e) {
     console.error("Sync error:", e);
   }

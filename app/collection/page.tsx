@@ -227,10 +227,16 @@ export default function CollectionPage() {
       setStars(getSpecialCardCount());
     };
     refresh();
-    // Re-read localStorage when tab regains focus (handles bfcache / back-navigation)
+    // Re-read on tab visibility change
     const onVisible = () => { if (document.visibilityState === "visible") refresh(); };
+    // Re-read on bfcache restoration (browser back/forward button)
+    const onPageShow = (e: PageTransitionEvent) => { if (e.persisted) refresh(); };
     document.addEventListener("visibilitychange", onVisible);
-    return () => document.removeEventListener("visibilitychange", onVisible);
+    window.addEventListener("pageshow", onPageShow);
+    return () => {
+      document.removeEventListener("visibilitychange", onVisible);
+      window.removeEventListener("pageshow", onPageShow);
+    };
   }, []);
 
   const gameBests: GameBest[] = (() => {
