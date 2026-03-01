@@ -12,7 +12,7 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId, type CardRarity } from "@/lib/cards";
-import { incrementTotalGames, incrementPerfectScores } from "@/lib/milestones";
+import { incrementTotalGames, incrementPerfectScores, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
 import {
   generateTest,
@@ -594,6 +594,7 @@ export default function MathTestPage() {
     setSaved(true);
 
     const streak = updateStreak();
+    updateStats({ highestStreak: streak });
     const rarity = calculateRarity(gradeResult.score, gradeResult.total, streak);
     setCardRarity(rarity);
 
