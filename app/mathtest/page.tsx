@@ -1227,6 +1227,200 @@ export default function MathTestPage() {
   if (gameState === "playing" || gameState === "grading") {
     const isGrading = gameState === "grading";
 
+    const handlePrintBlank = () => {
+      const now = new Date();
+      const dateStr = `${now.getFullYear()}. ${(now.getMonth() + 1).toString().padStart(2, "0")}. ${now.getDate().toString().padStart(2, "0")}.`;
+      const gradeLabel = `${selectedGrade}. ${ui?.classLabel || "osztály"}`;
+      const subject = ui?.title || "MATEMATIKA DOLGOZAT";
+      const totalPoints = questions.reduce((sum, q) => sum + (q.maxPoints || 1), 0);
+
+      const questionsHtml = questions.map((q, i) => {
+        const pts = q.maxPoints || 1;
+        const sectionTag = q.section ? `<div class="section-label">${q.section}</div>` : "";
+        return `
+          ${sectionTag}
+          <div class="question">
+            <div class="question-header">
+              <span class="q-num">${i + 1}.</span>
+              <span class="q-text">${q.question}</span>
+              <span class="q-pts">(${pts} pont)</span>
+            </div>
+            <div class="answer-box"></div>
+          </div>`;
+      }).join("");
+
+      const html = `<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8">
+  <title>${subject} – ${gradeLabel}</title>
+  <style>
+    @page { size: A4; margin: 1.5cm 1.8cm 1.5cm 2.2cm; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      font-size: 11pt;
+      color: #1a1a2e;
+      background: white;
+      background-image:
+        linear-gradient(rgba(100,149,237,0.18) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(100,149,237,0.18) 1px, transparent 1px);
+      background-size: 0.5cm 0.5cm;
+      min-height: 29.7cm;
+    }
+    .page-content { background: transparent; position: relative; }
+
+    /* ── FEJLÉC ── */
+    .header {
+      border-bottom: 3px solid #1a1a2e;
+      padding-bottom: 10px;
+      margin-bottom: 16px;
+    }
+    .header-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 12px;
+      margin-bottom: 10px;
+    }
+    .header-left h1 {
+      font-size: 17pt;
+      font-weight: 900;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: #1a1a2e;
+      line-height: 1.1;
+    }
+    .header-left .grade-badge {
+      display: inline-block;
+      margin-top: 4px;
+      font-size: 9pt;
+      font-weight: 700;
+      color: #4b5563;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      border: 1.5px solid #d1d5db;
+      border-radius: 4px;
+      padding: 1px 8px;
+      background: rgba(255,255,255,0.7);
+    }
+    .score-box {
+      border: 2px solid #1a1a2e;
+      border-radius: 6px;
+      min-width: 100px;
+      padding: 6px 10px;
+      text-align: center;
+      background: rgba(255,255,255,0.8);
+      flex-shrink: 0;
+    }
+    .score-box .score-label { font-size: 7pt; font-weight: 700; color: #6b7280; text-transform: uppercase; letter-spacing: 0.08em; }
+    .score-box .score-value { font-size: 18pt; font-weight: 900; color: #1a1a2e; line-height: 1.1; }
+    .score-box .score-total { font-size: 8pt; color: #9ca3af; }
+
+    .fields { display: flex; gap: 16px; flex-wrap: wrap; }
+    .field { flex: 1; min-width: 150px; }
+    .field label { font-size: 7.5pt; font-weight: 700; color: #6b7280; text-transform: uppercase; letter-spacing: 0.06em; display: block; margin-bottom: 2px; }
+    .field .line {
+      border-bottom: 1.5px solid #374151;
+      min-height: 22px;
+      background: rgba(255,255,255,0.6);
+    }
+
+    /* ── KÉRDÉSEK ── */
+    .section-label {
+      font-size: 9pt;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: #6b7280;
+      margin: 18px 0 6px 0;
+      padding-bottom: 3px;
+      border-bottom: 1px dashed #d1d5db;
+    }
+    .question {
+      margin-bottom: 14px;
+      background: rgba(255,255,255,0.55);
+      border-radius: 5px;
+      padding: 8px 10px 6px 10px;
+      border-left: 3px solid rgba(100,149,237,0.4);
+    }
+    .question-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 6px;
+      margin-bottom: 4px;
+    }
+    .q-num { font-weight: 800; font-size: 11pt; min-width: 22px; color: #1a1a2e; }
+    .q-text { flex: 1; font-size: 11pt; line-height: 1.4; color: #1a1a2e; }
+    .q-pts { font-size: 8pt; color: #9ca3af; white-space: nowrap; font-style: italic; margin-top: 2px; }
+    .answer-box {
+      margin-top: 4px;
+      margin-left: 28px;
+      border-bottom: 1px solid #d1d5db;
+      min-height: 28px;
+    }
+
+    /* ── WATERMARK ── */
+    .watermark {
+      position: fixed;
+      bottom: 0.8cm;
+      right: 1.2cm;
+      font-size: 7pt;
+      color: #d1d5db;
+      font-family: monospace;
+      letter-spacing: 0.15em;
+      pointer-events: none;
+    }
+
+    @media print {
+      body { print-color-adjust: exact; -webkit-print-color-adjust: exact; }
+    }
+  </style>
+</head>
+<body>
+<div class="page-content">
+  <div class="header">
+    <div class="header-top">
+      <div class="header-left">
+        <h1>${subject}</h1>
+        <span class="grade-badge">${gradeLabel}</span>
+      </div>
+      <div class="score-box">
+        <div class="score-label">Eredmény</div>
+        <div class="score-value">&nbsp;&nbsp;&nbsp;&nbsp;</div>
+        <div class="score-total">/ ${totalPoints} pont</div>
+      </div>
+    </div>
+    <div class="fields">
+      <div class="field">
+        <label>Név</label>
+        <div class="line"></div>
+      </div>
+      <div class="field" style="max-width:120px">
+        <label>Osztály</label>
+        <div class="line"></div>
+      </div>
+      <div class="field" style="max-width:130px">
+        <label>Dátum</label>
+        <div class="line" style="padding-top:4px; font-size:9pt; color:#374151;">${dateStr}</div>
+      </div>
+    </div>
+  </div>
+
+  ${questionsHtml}
+</div>
+<div class="watermark">PLIZIO</div>
+<script>window.onload = function() { window.print(); };<\/script>
+</body>
+</html>`;
+
+      const win = window.open("", "_blank");
+      if (win) {
+        win.document.write(html);
+        win.document.close();
+      }
+    };
+
     return (
       <DraftProvider>
       <>
@@ -1239,6 +1433,7 @@ export default function MathTestPage() {
           total={questions.length}
           isGrading={isGrading}
           onExit={() => setGameState("grade-select")}
+          onPrint={handlePrintBlank}
           userName={user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || ui?.guest || 'Vendég'}
           dateLocale={ui?.dateLocale || 'hu-HU'}
           exitLabel={ui?.exit || 'Kilépés'}
