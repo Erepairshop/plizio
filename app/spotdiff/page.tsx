@@ -451,7 +451,7 @@ function KitchenLeft({ found }: { found: number[] }) {
       {found.includes(1) && <circle cx="130" cy="52" r="22" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
       {found.includes(2) && <rect x="5" y="8" width="88" height="82" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" rx="4" />}
       {found.includes(3) && <circle cx="195" cy="55" r="22" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(4) && <rect x="112" y="9" width="96" height="81" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" rx="3" />}
+      {found.includes(4) && <circle cx="121" cy="78" r="22" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
     </svg>
   );
 }
@@ -503,7 +503,7 @@ function KitchenRight({ found, onClickSvg }: { found: number[]; onClickSvg: (e: 
       {found.includes(1) && <circle cx="130" cy="52" r="22" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
       {found.includes(2) && <rect x="5" y="8" width="88" height="82" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" rx="4" />}
       {found.includes(3) && <circle cx="195" cy="55" r="22" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
-      {found.includes(4) && <rect x="112" y="9" width="96" height="81" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" rx="3" />}
+      {found.includes(4) && <circle cx="121" cy="78" r="22" fill="none" stroke="#00FF88" strokeWidth="3" opacity="0.8" />}
     </svg>
   );
 }
@@ -565,7 +565,7 @@ const SCENES: SceneDef[] = [
       { id: 1, cx: 130, cy: 52,  r: 22 },
       { id: 2, cx: 50,  cy: 50,  r: 55 },
       { id: 3, cx: 195, cy: 55,  r: 22 },
-      { id: 4, cx: 160, cy: 52,  r: 55 },
+      { id: 4, cx: 121, cy: 78,  r: 22 },
     ],
     LeftSVG: KitchenLeft,
     RightSVG: KitchenRight,
