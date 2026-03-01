@@ -22,8 +22,15 @@ import geographyDataEn from "@/data/quickpick/geography.json";
 import socialDataEn from "@/data/quickpick/social.json";
 import moviesDataEn from "@/data/quickpick/movies.json";
 
-// Hungarian versions (general available, others fallback to English for now)
+// Hungarian versions
 import generalDataHu from "@/data/quickpick/general-hu.json";
+import musicDataHu from "@/data/quickpick/music-hu.json";
+import footballDataHu from "@/data/quickpick/football-hu.json";
+import animeDataHu from "@/data/quickpick/anime-hu.json";
+import gamingDataHu from "@/data/quickpick/gaming-hu.json";
+import geographyDataHu from "@/data/quickpick/geography-hu.json";
+import socialDataHu from "@/data/quickpick/social-hu.json";
+import moviesDataHu from "@/data/quickpick/movies-hu.json";
 
 // Function to get theme data by language
 const getThemeDataByLanguage = (lang: Language): Record<string, Question[]> => {
@@ -40,14 +47,13 @@ const getThemeDataByLanguage = (lang: Language): Record<string, Question[]> => {
     },
     hu: {
       general: generalDataHu as Question[],
-      // Other categories fall back to English while translations are being generated
-      music: musicDataEn as Question[],
-      football: footballDataEn as Question[],
-      anime: animeDataEn as Question[],
-      gaming: gamingDataEn as Question[],
-      geography: geographyDataEn as Question[],
-      social: socialDataEn as Question[],
-      movies: moviesDataEn as Question[],
+      music: musicDataHu as Question[],
+      football: footballDataHu as Question[],
+      anime: animeDataHu as Question[],
+      gaming: gamingDataHu as Question[],
+      geography: geographyDataHu as Question[],
+      social: socialDataHu as Question[],
+      movies: moviesDataHu as Question[],
     },
     de: {
       general: generalDataEn as Question[],
