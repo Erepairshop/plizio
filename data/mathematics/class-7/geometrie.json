@@ -1,0 +1,1088 @@
+{
+  "class": 7,
+  "theme": "Geometrie",
+  "language": "de",
+  "description": "Geometrie Grundlagen, Dreiecke, Winkel und Linien in der 7. Klasse",
+  "tasks": [
+    {
+      "id": "7-geom-001",
+      "question": "Wie viele Grad hat ein rechter Winkel?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["90°", "45°", "180°", "360°"],
+      "correct": 0,
+      "explanation": "Ein rechter Winkel ist immer 90°."
+    },
+    {
+      "id": "7-geom-002",
+      "question": "Was ist ein spitzer Winkel?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Ein Winkel zwischen 0° und 90°", "Ein Winkel von genau 90°", "Ein Winkel zwischen 90° und 180°", "Ein Winkel größer als 180°"],
+      "correct": 0,
+      "explanation": "Ein spitzer Winkel hat eine Größe zwischen 0° und 90°."
+    },
+    {
+      "id": "7-geom-003",
+      "question": "Wie heißt ein Winkel, der genau 180° misst?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Gestreckter Winkel", "Vollwinkel", "Spitzer Winkel", "Erhabener Winkel"],
+      "correct": 0,
+      "explanation": "Ein Winkel von 180° wird gestreckter Winkel genannt."
+    },
+    {
+      "id": "7-geom-004",
+      "question": "Was ist ein stumpfer Winkel?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Ein Winkel zwischen 90° und 180°", "Ein Winkel zwischen 0° und 90°", "Ein Winkel von 90°", "Ein Winkel größer als 180°"],
+      "correct": 0,
+      "explanation": "Ein stumpfer Winkel hat eine Größe zwischen 90° und 180°."
+    },
+    {
+      "id": "7-geom-005",
+      "question": "Ein Winkel misst 35°. Wie groß ist sein Komplementwinkel?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["55°", "65°", "145°", "35°"],
+      "correct": 0,
+      "explanation": "Komplementwinkel ergeben zusammen 90°. 90° - 35° = 55°"
+    },
+    {
+      "id": "7-geom-006",
+      "question": "Ein Winkel misst 70°. Wie groß ist sein Supplementwinkel?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["110°", "20°", "70°", "160°"],
+      "correct": 0,
+      "explanation": "Supplementwinkel ergeben zusammen 180°. 180° - 70° = 110°"
+    },
+    {
+      "id": "7-geom-007",
+      "question": "Welche Aussage über Nebenwinkel ist korrekt?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Sie ergeben zusammen 180°", "Sie ergeben zusammen 90°", "Sie sind immer gleich groß", "Sie ergeben zusammen 360°"],
+      "correct": 0,
+      "explanation": "Nebenwinkel sind Supplementwinkel und ergeben zusammen 180°."
+    },
+    {
+      "id": "7-geom-008",
+      "question": "Was sind Scheitelwinkel?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Zwei gleich große Winkel, die sich schneidende Linien bilden", "Zwei Winkel, die zusammen 180° ergeben", "Zwei Winkel, die zusammen 90° ergeben", "Zwei Winkel an der Spitze eines Dreiecks"],
+      "correct": 0,
+      "explanation": "Scheitelwinkel sind entgegengesetzte Winkel bei sich schneidenden Linien und sind immer gleich groß."
+    },
+    {
+      "id": "7-geom-009",
+      "question": "Zwei Winkel an einer Geraden ergeben zusammen wie viele Grad?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["180°", "90°", "360°", "270°"],
+      "correct": 0,
+      "explanation": "Zwei Winkel an einer Geraden (Nebenwinkel) ergeben zusammen 180°."
+    },
+    {
+      "id": "7-geom-010",
+      "question": "Wie groß sind Scheitelwinkel bei sich schneidenden Geraden?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Immer gleich groß", "Immer verschieden groß", "Zusammen immer 180°", "Zusammen immer 90°"],
+      "correct": 0,
+      "explanation": "Scheitelwinkel sind entgegengesetzte Winkel und haben immer die gleiche Größe."
+    },
+    {
+      "id": "7-geom-011",
+      "question": "Ein Winkel beträgt 42°. Wie groß ist sein Komplementwinkel?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["48°", "58°", "138°", "42°"],
+      "correct": 0,
+      "explanation": "Komplementwinkel: 90° - 42° = 48°"
+    },
+    {
+      "id": "7-geom-012",
+      "question": "Ein Winkel beträgt 125°. Wie groß ist sein Supplementwinkel?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["55°", "65°", "125°", "35°"],
+      "correct": 0,
+      "explanation": "Supplementwinkel: 180° - 125° = 55°"
+    },
+    {
+      "id": "7-geom-013",
+      "question": "An welchem Punkt schneiden sich parallele Linien?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Nie", "Immer am Ursprung", "Im Unendlichen", "Im Mittelpunkt"],
+      "correct": 0,
+      "explanation": "Parallele Linien schneiden sich nie. Sie haben überall den gleichen Abstand zueinander."
+    },
+    {
+      "id": "7-geom-014",
+      "question": "Wie heißen Linien, die sich im rechten Winkel schneiden?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Senkrecht oder orthogonal", "Parallel", "Schräg", "Kongruent"],
+      "correct": 0,
+      "explanation": "Linien, die sich im rechten Winkel (90°) schneiden, heißen senkrecht oder orthogonal."
+    },
+    {
+      "id": "7-geom-015",
+      "question": "Welche Linie ist die kürzeste Verbindung zwischen zwei Punkten?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Eine gerade Linie", "Eine Kurve", "Ein Bogen", "Ein Zickzack"],
+      "correct": 0,
+      "explanation": "Die kürzeste Verbindung zwischen zwei Punkten ist eine gerade Linie."
+    },
+    {
+      "id": "7-geom-016",
+      "question": "Wie viele Grad hat ein Vollwinkel?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["360°", "180°", "90°", "270°"],
+      "correct": 0,
+      "explanation": "Ein Vollwinkel ist ein kompletter Kreis und beträgt 360°."
+    },
+    {
+      "id": "7-geom-017",
+      "question": "Ein Winkel beträgt 63°. Wie groß ist sein Komplementwinkel?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["27°", "37°", "117°", "63°"],
+      "correct": 0,
+      "explanation": "Komplementwinkel: 90° - 63° = 27°"
+    },
+    {
+      "id": "7-geom-018",
+      "question": "Zwei Winkel sind komplementär. Der eine beträgt 58°. Wie groß ist der andere?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["32°", "58°", "122°", "42°"],
+      "correct": 0,
+      "explanation": "Komplementär bedeutet zusammen 90°. 90° - 58° = 32°"
+    },
+    {
+      "id": "7-geom-019",
+      "question": "Zwei Winkel sind supplementär. Der eine beträgt 115°. Wie groß ist der andere?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["65°", "75°", "115°", "155°"],
+      "correct": 0,
+      "explanation": "Supplementär bedeutet zusammen 180°. 180° - 115° = 65°"
+    },
+    {
+      "id": "7-geom-020",
+      "question": "Welche Eigenschaft haben Wechselwinkel bei parallelen Linien?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Sie sind gleich groß", "Sie ergeben zusammen 180°", "Sie sind immer verschieden groß", "Sie ergeben zusammen 360°"],
+      "correct": 0,
+      "explanation": "Wechselwinkel an parallelen Linien (mit einer Transversale) sind gleich groß."
+    },
+    {
+      "id": "7-geom-021",
+      "question": "Was ist ein Dreieck?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Eine Figur mit drei Seiten und drei Winkeln", "Eine Figur mit vier Seiten", "Eine runde Figur", "Eine Figur mit sechs Seiten"],
+      "correct": 0,
+      "explanation": "Ein Dreieck ist ein Polygon mit genau drei Seiten und drei Winkeln."
+    },
+    {
+      "id": "7-geom-022",
+      "question": "Wie groß ist die Winkelsumme in einem Dreieck?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["180°", "270°", "360°", "90°"],
+      "correct": 0,
+      "explanation": "Die Summe aller Winkel in jedem Dreieck ist immer 180°."
+    },
+    {
+      "id": "7-geom-023",
+      "question": "Was ist ein gleichseitiges Dreieck?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Ein Dreieck mit drei gleich langen Seiten", "Ein Dreieck mit zwei gleich langen Seiten", "Ein Dreieck mit einem rechten Winkel", "Ein Dreieck mit einem stumpfen Winkel"],
+      "correct": 0,
+      "explanation": "Ein gleichseitiges Dreieck hat alle drei Seiten gleich lang und alle drei Winkel gleich groß (60°)."
+    },
+    {
+      "id": "7-geom-024",
+      "question": "Was ist ein gleichschenkliges Dreieck?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Ein Dreieck mit zwei gleich langen Seiten", "Ein Dreieck mit drei gleich langen Seiten", "Ein Dreieck mit einem rechten Winkel", "Ein Dreieck mit drei verschiedenen Seitenlängen"],
+      "correct": 0,
+      "explanation": "Ein gleichschenkliges Dreieck hat zwei gleich lange Seiten und zwei gleich große Basiswinkel."
+    },
+    {
+      "id": "7-geom-025",
+      "question": "Ein rechtwinkliges Dreieck hat einen Winkel von 35°. Wie groß ist der andere nicht-rechte Winkel?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["55°", "65°", "45°", "35°"],
+      "correct": 0,
+      "explanation": "Ein rechtwinkliger Winkel ist 90°. Die anderen zwei: 180° - 90° = 90°. 90° - 35° = 55°"
+    },
+    {
+      "id": "7-geom-026",
+      "question": "Wie heißt die längste Seite eines rechtwinkligen Dreiecks?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Hypotenuse", "Kathete", "Basis", "Diagonale"],
+      "correct": 0,
+      "explanation": "Die Hypotenuse ist die Seite gegenüber dem rechten Winkel und ist die längste Seite."
+    },
+    {
+      "id": "7-geom-027",
+      "question": "Wie heißen die Seiten, die den rechten Winkel bilden?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Katheten", "Hypotenuse", "Diagonalen", "Basisen"],
+      "correct": 0,
+      "explanation": "Die zwei Seiten, die den rechten Winkel bilden, heißen Katheten."
+    },
+    {
+      "id": "7-geom-028",
+      "question": "Welche Aussage über ein stumpfwinkliges Dreieck ist wahr?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Es hat einen Winkel größer als 90°", "Es hat alle Winkel größer als 90°", "Es hat einen Winkel von genau 90°", "Es hat alle Winkel gleich groß"],
+      "correct": 0,
+      "explanation": "Ein stumpfwinkliges Dreieck hat genau einen Winkel, der größer als 90° ist."
+    },
+    {
+      "id": "7-geom-029",
+      "question": "Ein Dreieck hat die Winkel 45°, 60° und 75°. Ist die Winkelsumme korrekt?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Ja, die Summe ist 180°", "Nein, die Summe ist zu groß", "Nein, die Summe ist zu klein", "Das kann man nicht berechnen"],
+      "correct": 0,
+      "explanation": "45° + 60° + 75° = 180°. Ja, die Winkelsumme ist korrekt."
+    },
+    {
+      "id": "7-geom-030",
+      "question": "Ein Dreieck hat die Winkel 50°, 60° und 70°. Welcher Winkeltyp ist dieses Dreieck?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Spitzwinkliges Dreieck", "Rechtwinkliges Dreieck", "Stumpfwinkliges Dreieck", "Gleichseitiges Dreieck"],
+      "correct": 0,
+      "explanation": "Ein spitzwinkliges Dreieck hat alle Winkel kleiner als 90°."
+    },
+    {
+      "id": "7-geom-031",
+      "question": "Wie groß sind alle Winkel in einem gleichseitigen Dreieck?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Alle 60°", "Alle 90°", "Alle 45°", "Alle 30°"],
+      "correct": 0,
+      "explanation": "Ein gleichseitiges Dreieck hat drei gleiche Winkel: 180° ÷ 3 = 60°"
+    },
+    {
+      "id": "7-geom-032",
+      "question": "In einem gleichschenkliges Dreieck sind die Basiswinkel je 70°. Wie groß ist der Spitzenwinkel?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["40°", "70°", "50°", "35°"],
+      "correct": 0,
+      "explanation": "180° - 70° - 70° = 40°"
+    },
+    {
+      "id": "7-geom-033",
+      "question": "Ein gleichschenkliges Dreieck hat einen Spitzenwinkel von 75°. Wie groß ist jeder Basiswinkel?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["52,5°", "75°", "60°", "45°"],
+      "correct": 0,
+      "explanation": "180° - 75° = 105°. Jeder Basiswinkel: 105° ÷ 2 = 52,5°"
+    },
+    {
+      "id": "7-geom-034",
+      "question": "Welche Bedingung muss erfüllt sein, dass drei Winkelwerte ein Dreieck bilden?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Ihre Summe muss 180° sein", "Ihre Summe muss 270° sein", "Ihre Summe muss 360° sein", "Sie müssen alle gleich sein"],
+      "correct": 0,
+      "explanation": "Drei Winkelwerte können nur ein Dreieck bilden, wenn ihre Summe genau 180° ist."
+    },
+    {
+      "id": "7-geom-035",
+      "question": "Kann ein Dreieck zwei stumpfe Winkel haben?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["Nein, die Winkelsumme wäre größer als 180°", "Ja, das ist möglich", "Nur wenn das Dreieck sehr groß ist", "Ja, wenn es gleichschenkling ist"],
+      "correct": 0,
+      "explanation": "Nein. Zwei stumpfe Winkel würden zusammen schon mehr als 180° ergeben, was unmöglich ist."
+    },
+    {
+      "id": "7-geom-036",
+      "question": "Ein gleichschenkliges rechtwinkliges Dreieck hat welche Winkel?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["90°, 45°, 45°", "90°, 60°, 30°", "60°, 60°, 60°", "45°, 45°, 90°"],
+      "correct": 0,
+      "explanation": "180° - 90° = 90°. Die zwei gleichen Winkel: 90° ÷ 2 = 45°"
+    },
+    {
+      "id": "7-geom-037",
+      "question": "In einem Dreieck beträgt ein Winkel 28°. Der zweite Winkel ist doppelt so groß. Wie groß ist der dritte Winkel?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["96°", "86°", "106°", "76°"],
+      "correct": 0,
+      "explanation": "Erster Winkel: 28°, Zweiter: 28° × 2 = 56°, Dritter: 180° - 28° - 56° = 96°"
+    },
+    {
+      "id": "7-geom-038",
+      "question": "Welche Dreiecksart hat alle Seiten verschieden lang?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Ungleichseitiges Dreieck", "Gleichseitiges Dreieck", "Gleichschenkliges Dreieck", "Isosceles Dreieck"],
+      "correct": 0,
+      "explanation": "Ein ungleichseitiges (oder maßstabsgetreues) Dreieck hat alle drei Seiten verschieden lang."
+    },
+    {
+      "id": "7-geom-039",
+      "question": "Was ist das Verhältnis der Seitenlängen in einem 30-60-90-Dreieck?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["1 : √3 : 2", "1 : 1 : √2", "1 : 1 : 1", "2 : 2 : 2"],
+      "correct": 0,
+      "explanation": "Das 30-60-90-Dreieck hat das Seitenverhältnis 1 : √3 : 2 (gegenüber von 30°, 60°, 90°)."
+    },
+    {
+      "id": "7-geom-040",
+      "question": "Was ist das Verhältnis der Seitenlängen in einem 45-45-90-Dreieck?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["1 : 1 : √2", "1 : √3 : 2", "2 : 2 : 2", "1 : 2 : 3"],
+      "correct": 0,
+      "explanation": "Das 45-45-90-Dreieck hat das Seitenverhältnis 1 : 1 : √2."
+    },
+    {
+      "id": "7-geom-041",
+      "question": "Ein Dreieck hat die Winkel 90°, 45°, 45°. Welche Seitenlänge ist die längste?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Die Hypotenuse", "Alle Seiten sind gleich", "Die Katheten sind länger", "Das kann man nicht sagen"],
+      "correct": 0,
+      "explanation": "Die Hypotenuse (gegenüber dem 90°-Winkel) ist die längste Seite."
+    },
+    {
+      "id": "7-geom-042",
+      "question": "Kann ein Dreieck zwei rechte Winkel haben?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Nein, die Winkelsumme wäre über 180°", "Ja, das ist möglich", "Nur in besonderen Fällen", "Ja, wenn es sehr groß ist"],
+      "correct": 0,
+      "explanation": "Nein. Zwei rechte Winkel ergeben schon 180°, es gibt keinen Platz für den dritten Winkel."
+    },
+    {
+      "id": "7-geom-043",
+      "question": "In einem Dreieck beträgt ein Winkel 35°, ein anderer 72°. Wie groß ist der dritte?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["73°", "83°", "63°", "93°"],
+      "correct": 0,
+      "explanation": "180° - 35° - 72° = 73°"
+    },
+    {
+      "id": "7-geom-044",
+      "question": "Welches Dreieck hat einen Winkel größer als 90° und zwei gleich lange Seiten?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Stumpfwinkliges gleichschenkliges Dreieck", "Spitzwinkliges gleichschenkliges Dreieck", "Rechtwinkliges gleichschenkliges Dreieck", "Gleichseitiges Dreieck"],
+      "correct": 0,
+      "explanation": "Dies ist ein Dreieck, das sowohl stumpfwinklig als auch gleichschenkelig ist."
+    },
+    {
+      "id": "7-geom-045",
+      "question": "Ein Dreieck hat die Winkel 30°, 60°, und 90°. Wie nennt man dieses Dreieck?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["30-60-90 Dreieck", "Gleichseitiges Dreieck", "Gleichschenkliges Dreieck", "Spitzwinkliges Dreieck"],
+      "correct": 0,
+      "explanation": "Das 30-60-90-Dreieck ist ein spezielles rechtwinkliges Dreieck."
+    },
+    {
+      "id": "7-geom-046",
+      "question": "Ein gleichseitiges Dreieck hat eine Seitenlänge von 5 cm. Wie groß ist sein Umfang?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["15 cm", "10 cm", "20 cm", "25 cm"],
+      "correct": 0,
+      "explanation": "Der Umfang ist 3 × 5 cm = 15 cm"
+    },
+    {
+      "id": "7-geom-047",
+      "question": "Ein gleichschenkliges Dreieck hat zwei Seiten von 6 cm und eine Basis von 8 cm. Wie groß ist der Umfang?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["20 cm", "14 cm", "16 cm", "24 cm"],
+      "correct": 0,
+      "explanation": "Umfang = 6 + 6 + 8 = 20 cm"
+    },
+    {
+      "id": "7-geom-048",
+      "question": "In einem Dreieck beträgt ein Winkel 55° und der zweite ist 1,5 mal so groß. Wie groß ist der dritte?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["42,5°", "37,5°", "82,5°", "52,5°"],
+      "correct": 0,
+      "explanation": "Erster Winkel: 55°, Zweiter: 55° × 1,5 = 82,5°, Dritter: 180° - 55° - 82,5° = 42,5°"
+    },
+    {
+      "id": "7-geom-049",
+      "question": "Ein Dreieck hat Winkel im Verhältnis 2:3:4. Wie groß sind die Winkel?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["40°, 60°, 80°", "30°, 45°, 105°", "36°, 54°, 90°", "32°, 48°, 100°"],
+      "correct": 0,
+      "explanation": "Gesamtteile: 2+3+4=9. Jedes Teil: 180°÷9=20°. Winkel: 40°, 60°, 80°"
+    },
+    {
+      "id": "7-geom-050",
+      "question": "Wie heißt die Linie, die die Mittelpunkte zweier Seiten eines Dreiecks verbindet?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Mittellinie oder Mittelparallele", "Höhe", "Winkelhalbierende", "Seitenhalbierende"],
+      "correct": 0,
+      "explanation": "Die Mittellinie verbindet die Mittelpunkte zweier Seiten."
+    },
+    {
+      "id": "7-geom-051",
+      "question": "Wie heißt die senkrechte Linie von einem Eckpunkt zur gegenüberliegenden Seite?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Höhe", "Mediane", "Winkelhalbierende", "Seitenhalbierende"],
+      "correct": 0,
+      "explanation": "Eine Höhe ist eine senkrechte Linie von einem Eckpunkt zur gegenüberliegenden Seite (oder deren Verlängerung)."
+    },
+    {
+      "id": "7-geom-052",
+      "question": "Wie heißt die Linie, die einen Winkel in zwei gleiche Teile teilt?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Winkelhalbierende", "Höhe", "Seitenhalbierende", "Mittellinie"],
+      "correct": 0,
+      "explanation": "Eine Winkelhalbierende teilt einen Winkel genau in zwei gleiche Teile."
+    },
+    {
+      "id": "7-geom-053",
+      "question": "Wie heißt die Linie von einem Eckpunkt zum Mittelpunkt der gegenüberliegenden Seite?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Seitenhalbierende oder Mediane", "Höhe", "Winkelhalbierende", "Mittellinie"],
+      "correct": 0,
+      "explanation": "Eine Seitenhalbierende (oder Mediane) verbindet einen Eckpunkt mit dem Mittelpunkt der gegenüberliegenden Seite."
+    },
+    {
+      "id": "7-geom-054",
+      "question": "Wo treffen sich die drei Höhen eines Dreiecks?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Im Orthozentrum", "Im Schwerpunkt", "Im Mittelpunkt", "Im Umkreismittelpunkt"],
+      "correct": 0,
+      "explanation": "Die drei Höhen eines Dreiecks treffen sich im Orthozentrum."
+    },
+    {
+      "id": "7-geom-055",
+      "question": "Wo treffen sich die drei Seitenhalbierenden eines Dreiecks?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Im Schwerpunkt", "Im Orthozentrum", "Im Mittelpunkt", "Im Umkreismittelpunkt"],
+      "correct": 0,
+      "explanation": "Die drei Seitenhalbierenden eines Dreiecks treffen sich im Schwerpunkt."
+    },
+    {
+      "id": "7-geom-056",
+      "question": "Was ist ein Quadrat?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Ein Rechteck mit vier gleich langen Seiten", "Ein Rechteck mit zwei Paaren gleicher Seiten", "Ein Dreieck mit vier Winkeln", "Ein Kreis mit vier Ecken"],
+      "correct": 0,
+      "explanation": "Ein Quadrat ist ein Viereck mit vier gleich langen Seiten und vier rechten Winkeln."
+    },
+    {
+      "id": "7-geom-057",
+      "question": "Was ist ein Rechteck?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Ein Viereck mit vier rechten Winkeln", "Ein Viereck mit vier gleich langen Seiten", "Ein Viereck mit zwei Paaren paralleler Seiten", "Ein Viereck mit mindestens einem rechten Winkel"],
+      "correct": 0,
+      "explanation": "Ein Rechteck ist ein Viereck mit vier rechten Winkeln und zwei Paaren gleicher Seiten."
+    },
+    {
+      "id": "7-geom-058",
+      "question": "Wie groß ist die Winkelsumme in einem Viereck?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["360°", "270°", "180°", "450°"],
+      "correct": 0,
+      "explanation": "Die Summe aller Winkel in jedem Viereck ist 360°."
+    },
+    {
+      "id": "7-geom-059",
+      "question": "Was ist ein Parallelogramm?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Ein Viereck mit zwei Paaren paralleler Seiten", "Ein Viereck mit vier gleich langen Seiten", "Ein Viereck mit vier rechten Winkeln", "Ein Viereck mit nur einer Seite"],
+      "correct": 0,
+      "explanation": "Ein Parallelogramm ist ein Viereck, bei dem gegenüberliegende Seiten parallel sind."
+    },
+    {
+      "id": "7-geom-060",
+      "question": "Was ist ein Trapez?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Ein Viereck mit genau einem Paar paralleler Seiten", "Ein Viereck mit zwei Paaren paralleler Seiten", "Ein Viereck mit vier gleich langen Seiten", "Ein Viereck mit vier rechten Winkeln"],
+      "correct": 0,
+      "explanation": "Ein Trapez ist ein Viereck mit genau einem Paar paralleler Seiten."
+    },
+    {
+      "id": "7-geom-061",
+      "question": "Wie viel Grad beträgt ein flacher Winkel (gestreckter Winkel)?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["180°", "90°", "270°", "360°"],
+      "correct": 0,
+      "explanation": "Ein gestreckter Winkel beträgt genau 180°."
+    },
+    {
+      "id": "7-geom-062",
+      "question": "Zwei sich schneidende Geraden bilden vier Winkel. Wie viel Grad ist die Summe aller vier Winkel?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["360°", "270°", "180°", "90°"],
+      "correct": 0,
+      "explanation": "Die vier Winkel um einen Punkt bilden einen Vollwinkel und ergeben zusammen 360°."
+    },
+    {
+      "id": "7-geom-063",
+      "question": "Zwei Winkel sind Wechselwinkel an parallelen Linien mit einer Transversale. Ein Winkel beträgt 65°. Wie groß ist der andere?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["65°", "115°", "125°", "55°"],
+      "correct": 0,
+      "explanation": "Wechselwinkel an parallelen Linien sind gleich groß. Also 65°."
+    },
+    {
+      "id": "7-geom-064",
+      "question": "Zwei Winkel sind Stufenwinkel an parallelen Linien mit einer Transversale. Ein Winkel beträgt 70°. Wie groß ist der andere?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["70°", "110°", "120°", "60°"],
+      "correct": 0,
+      "explanation": "Stufenwinkel an parallelen Linien sind gleich groß. Also 70°."
+    },
+    {
+      "id": "7-geom-065",
+      "question": "An einer Transversale, die zwei parallele Linien schneidet, sind zwei Winkel auf der gleichen Seite der Transversale und zwischen den parallelen Linien. Diese heißen:",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Schnittwinkel oder Co-Innenwinkel", "Wechselwinkel", "Stufenwinkel", "Außenwinkel"],
+      "correct": 0,
+      "explanation": "Solche Winkel heißen Schnittwinkel oder Co-Innenwinkel und ergeben zusammen 180°."
+    },
+    {
+      "id": "7-geom-066",
+      "question": "Zwei Co-Innenwinkel (Schnittwinkel) an einer Transversale bei parallelen Linien ergeben zusammen wie viel?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["180°", "360°", "90°", "270°"],
+      "correct": 0,
+      "explanation": "Co-Innenwinkel ergeben zusammen immer 180°."
+    },
+    {
+      "id": "7-geom-067",
+      "question": "Was ist eine senkrechte Linie zu einer gegebenen Linie?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Eine Linie, die die gegebene Linie im rechten Winkel schneidet", "Eine Linie, die die gegebene Linie schneidet", "Eine Linie, die parallel zur gegebenen Linie ist", "Eine Linie, die die gegebene Linie nicht berührt"],
+      "correct": 0,
+      "explanation": "Eine senkrechte Linie schneidet die gegebene Linie im rechten Winkel (90°)."
+    },
+    {
+      "id": "7-geom-068",
+      "question": "Ein Winkel beträgt 78°. Wie groß ist sein Nebenwinkel?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["102°", "12°", "78°", "88°"],
+      "correct": 0,
+      "explanation": "Nebenwinkel ergeben zusammen 180°. 180° - 78° = 102°"
+    },
+    {
+      "id": "7-geom-069",
+      "question": "Zwei Linien schneiden sich und bilden einen Winkel von 52°. Wie groß ist der Scheitelwinkel?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["52°", "128°", "38°", "90°"],
+      "correct": 0,
+      "explanation": "Scheitelwinkel sind immer gleich groß. Also 52°."
+    },
+    {
+      "id": "7-geom-070",
+      "question": "Wie heißt ein Winkel, der größer als 180° ist?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Erhabener Winkel oder Hohlwinkel", "Spitzer Winkel", "Stumpfer Winkel", "Rechter Winkel"],
+      "correct": 0,
+      "explanation": "Ein Winkel größer als 180° heißt erhabener Winkel oder Hohlwinkel."
+    },
+    {
+      "id": "7-geom-071",
+      "question": "Welche Eigenschaft haben vertikale Winkel (Scheitelwinkel)?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Sie sind immer gleich groß", "Sie ergeben zusammen 180°", "Sie sind immer unterschiedlich", "Sie ergeben zusammen 360°"],
+      "correct": 0,
+      "explanation": "Scheitelwinkel sind immer gleich groß."
+    },
+    {
+      "id": "7-geom-072",
+      "question": "Eine Gerade trifft auf zwei parallele Linien. Diese Gerade heißt:",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Transversale", "Sekante", "Sehne", "Tangente"],
+      "correct": 0,
+      "explanation": "Eine Gerade, die zwei (oder mehr) Linien schneidet, heißt Transversale."
+    },
+    {
+      "id": "7-geom-073",
+      "question": "Zwei Linien sind parallel und eine Transversale schneidet beide. Ein Außenwinkel beträgt 85°. Wie groß ist der entsprechende Außenwinkel auf der anderen Seite?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["85°", "95°", "105°", "125°"],
+      "correct": 0,
+      "explanation": "Entsprechende Außenwinkel sind gleich groß. Also 85°."
+    },
+    {
+      "id": "7-geom-074",
+      "question": "Welcher Winkeltyp ist komplementär zu einem Winkel von 33°?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["57°", "67°", "147°", "33°"],
+      "correct": 0,
+      "explanation": "Komplementär bedeutet zusammen 90°. 90° - 33° = 57°"
+    },
+    {
+      "id": "7-geom-075",
+      "question": "Ein Winkel ist 25 Prozent größer als sein Komplementwinkel. Wie groß ist der Winkel?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["50°", "45°", "55°", "60°"],
+      "correct": 0,
+      "explanation": "Sei x der kleinere Winkel. Dann: x + 1,25x = 90°. 2,25x = 90°. x = 40°. Größerer = 50°"
+    },
+    {
+      "id": "7-geom-076",
+      "question": "Ein Winkel ist 3 mal so groß wie sein Komplementwinkel. Wie groß ist der größere Winkel?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["67,5°", "45°", "60°", "75°"],
+      "correct": 0,
+      "explanation": "Sei x der kleinere. Dann: x + 3x = 90°. 4x = 90°. x = 22,5°. Größerer = 67,5°"
+    },
+    {
+      "id": "7-geom-077",
+      "question": "Ein Winkel beträgt 40 Prozent von 180°. Wie groß ist sein Supplementwinkel?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["108°", "72°", "92°", "88°"],
+      "correct": 0,
+      "explanation": "Der Winkel ist 0,4 × 180° = 72°. Supplementwinkel: 180° - 72° = 108°"
+    },
+    {
+      "id": "7-geom-078",
+      "question": "Zwei Winkel sind supplementär. Der erste ist 20° größer als der zweite. Wie groß sind die Winkel?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["100° und 80°", "110° und 70°", "120° und 60°", "90° und 90°"],
+      "correct": 0,
+      "explanation": "Sei x der kleinere. Dann: x + (x + 20) = 180°. 2x = 160°. x = 80°. Die Winkel: 80° und 100°"
+    },
+    {
+      "id": "7-geom-079",
+      "question": "Eine Linie teilt einen rechten Winkel in zwei Teile. Ein Teil beträgt 35°. Wie groß ist das andere Teil?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["55°", "65°", "45°", "35°"],
+      "correct": 0,
+      "explanation": "Ein rechter Winkel ist 90°. 90° - 35° = 55°"
+    },
+    {
+      "id": "7-geom-080",
+      "question": "Zwei benachbarte Winkel an einer Linie ergeben zusammen wie viel?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["180°", "90°", "360°", "270°"],
+      "correct": 0,
+      "explanation": "Zwei benachbarte Winkel an einer Linie (Nebenwinkel) ergeben zusammen 180°."
+    },
+    {
+      "id": "7-geom-081",
+      "question": "Wie nennt man zwei Linien, die sich unter 90° schneiden?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Senkrecht oder orthogonal", "Parallel", "Tangent", "Asymptotisch"],
+      "correct": 0,
+      "explanation": "Zwei Linien, die sich unter 90° schneiden, heißen senkrecht oder orthogonal zueinander."
+    },
+    {
+      "id": "7-geom-082",
+      "question": "Wie viele Punkte bestimmen eine eindeutige Linie?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["2 Punkte", "3 Punkte", "1 Punkt", "4 Punkte"],
+      "correct": 0,
+      "explanation": "Genau 2 verschiedene Punkte bestimmen eine eindeutige Linie."
+    },
+    {
+      "id": "7-geom-083",
+      "question": "Wie nennt man den Punkt, in dem sich zwei Linien schneiden?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Schnittpunkt", "Eckpunkt", "Mittelpunkt", "Wendepunkt"],
+      "correct": 0,
+      "explanation": "Der Punkt, an dem sich zwei Linien schneiden, heißt Schnittpunkt."
+    },
+    {
+      "id": "7-geom-084",
+      "question": "Was ist ein Strahl?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Eine Linie mit einem Anfangspunkt und unendlich nach einer Richtung ausgehend", "Eine Linie mit zwei Endpunkten", "Ein gebogenes Liniensegment", "Ein Teil eines Kreises"],
+      "correct": 0,
+      "explanation": "Ein Strahl beginnt bei einem Punkt und erstreckt sich unendlich in eine Richtung."
+    },
+    {
+      "id": "7-geom-085",
+      "question": "Was ist ein Liniensegment?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Eine Linie mit zwei Endpunkten", "Eine Linie ohne Endpunkte", "Ein gebogenes Liniensegment", "Ein Teil eines Kreises"],
+      "correct": 0,
+      "explanation": "Ein Liniensegment (oder Strecke) ist der Teil einer Linie zwischen zwei Endpunkten."
+    },
+    {
+      "id": "7-geom-086",
+      "question": "Wie viele Achsen der Symmetrie hat ein Quadrat?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["4", "2", "8", "1"],
+      "correct": 0,
+      "explanation": "Ein Quadrat hat 4 Symmetrieachsen (2 diagonal und 2 durch die Mittelpunkte der Seiten)."
+    },
+    {
+      "id": "7-geom-087",
+      "question": "Wie viele Achsen der Symmetrie hat ein Rechteck (das kein Quadrat ist)?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["2", "4", "1", "0"],
+      "correct": 0,
+      "explanation": "Ein Rechteck (das kein Quadrat ist) hat 2 Symmetrieachsen (durch die Mittelpunkte der gegenüberliegenden Seiten)."
+    },
+    {
+      "id": "7-geom-088",
+      "question": "Wie viele Achsen der Symmetrie hat ein Kreis?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Unendlich viele", "1", "2", "4"],
+      "correct": 0,
+      "explanation": "Ein Kreis hat unendlich viele Symmetrieachsen (alle Linien durch den Mittelpunkt)."
+    },
+    {
+      "id": "7-geom-089",
+      "question": "Ein Winkel und sein Komplementwinkel haben ein Verhältnis von 2:1. Wie groß ist der größere Winkel?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["60°", "45°", "30°", "75°"],
+      "correct": 0,
+      "explanation": "Verhältnis 2:1 bei Komplementwinkeln. 2x + x = 90°. 3x = 90°. x = 30°. Größerer = 60°"
+    },
+    {
+      "id": "7-geom-090",
+      "question": "Ein Winkel und sein Supplementwinkel haben ein Verhältnis von 3:2. Wie groß ist der kleinere Winkel?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["72°", 60°", "108°", "45°"],
+      "correct": 0,
+      "explanation": "Verhältnis 3:2 bei Supplementwinkeln. 3x + 2x = 180°. 5x = 180°. x = 36°. Kleinerer = 2×36° = 72°"
+    },
+    {
+      "id": "7-geom-091",
+      "question": "Ein Dreieck und ein Viereck zusammen haben insgesamt welche Winkelsumme?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["540°", "360°", "450°", "630°"],
+      "correct": 0,
+      "explanation": "Dreieck: 180°, Viereck: 360°. Zusammen: 180° + 360° = 540°"
+    },
+    {
+      "id": "7-geom-092",
+      "question": "Ein Dreieck hat die Winkel 60°, 70°, und 50°. Man verlängert eine Seite. Wie groß ist der externe Winkel neben dem 60°-Winkel?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["120°", "60°", "110°", "140°"],
+      "correct": 0,
+      "explanation": "Der externe Winkel ist der Supplementwinkel: 180° - 60° = 120°"
+    },
+    {
+      "id": "7-geom-093",
+      "question": "Was ist der Außenwinkelsatz in einem Dreieck?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["Ein Außenwinkel ist gleich der Summe der zwei nicht-benachbarten Innenwinkel", "Ein Außenwinkel ist die Hälfte eines Innenwinkels", "Ein Außenwinkel ist gleich dem gegenüberliegenden Innenwinkel", "Ein Außenwinkel ist ein Vielfaches eines Innenwinkels"],
+      "correct": 0,
+      "explanation": "Der Außenwinkelsatz: Ein Außenwinkel eines Dreiecks ist gleich der Summe der zwei nicht-benachbarten Innenwinkel."
+    },
+    {
+      "id": "7-geom-094",
+      "question": "Ein Dreieck hat Innenwinkel von 45° und 65°. Wie groß ist der externe Winkel neben dem dritten Innenwinkel?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["110°", "70°", "80°", "100°"],
+      "correct": 0,
+      "explanation": "Der externe Winkel = 45° + 65° = 110° (Außenwinkelsatz)"
+    },
+    {
+      "id": "7-geom-095",
+      "question": "Zwei Dreiecke haben die gleichen Innenwinkel. Sind sie kongruent?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Nein, sie sind nur ähnlich", "Ja, sie sind kongruent", "Nur wenn sie auch die gleiche Größe haben", "Das kann man nicht sagen"],
+      "correct": 0,
+      "explanation": "Dreiecke mit gleichen Winkeln sind ähnlich (AAA-Ähnlichkeit), aber nicht notwendigerweise kongruent."
+    },
+    {
+      "id": "7-geom-096",
+      "question": "Ein Dreieck und ein Viereck teilen zwei Scheitelpunkte. Der Schnittraum ist eine Figur. Welche ist die maximale Winkelsumme dieser Figur?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["540°", "360°", "720°", "450°"],
+      "correct": 0,
+      "explanation": "Wenn ein Dreieck und ein Viereck zwei Scheitelpunkte teilen, kann der Schnittraum maximal ein Fünfeck sein, mit Winkelsumme (5-2)×180° = 540°"
+    },
+    {
+      "id": "7-geom-097",
+      "question": "Ein Dreieck hat einen rechten Winkel. Die anderen beiden Winkel haben ein Verhältnis von 1:2. Wie groß sind diese Winkel?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["30° und 60°", "45° und 45°", "20° und 40°", "25° und 50°"],
+      "correct": 0,
+      "explanation": "x + 2x + 90 = 180. 3x = 90. x = 30°. Die Winkel sind 30° und 60°"
+    },
+    {
+      "id": "7-geom-098",
+      "question": "Ein gleichschenkliges Dreieck hat einen Basiswinkel von 70°. Ist es spitzwinklig, rechtwinklig oder stumpfwinklig?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Spitzwinklig", "Rechtwinklig", "Stumpfwinklig", "Das kann man nicht bestimmen"],
+      "correct": 0,
+      "explanation": "Basiswinkel sind beide 70°. Spitzenwinkel: 180° - 70° - 70° = 40°. Alle Winkel < 90°, also spitzwinklig."
+    },
+    {
+      "id": "7-geom-099",
+      "question": "Ein Dreieck hat Winkel in den Verhältnissen 3:4:5. Wie groß ist der größte Winkel?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["75°", "60°", "80°", "90°"],
+      "correct": 0,
+      "explanation": "Teile: 3+4+5=12. Jeder Teil: 180°÷12=15°. Winkel: 45°, 60°, 75°. Der größte ist 75°"
+    },
+    {
+      "id": "7-geom-100",
+      "question": "Ein Dreieck und ein Rechteck haben die gleiche Fläche. Wenn das Dreieck die Höhe 10 cm und die Basis 8 cm hat, und das Rechteck die Länge 10 cm hat, wie breit ist das Rechteck?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["4 cm", "5 cm", "8 cm", "10 cm"],
+      "correct": 0,
+      "explanation": "Fläche Dreieck: ½ × 8 × 10 = 40 cm². Fläche Rechteck: 10 × b = 40. b = 4 cm"
+    },
+    {
+      "id": "7-geom-101",
+      "question": "Wie viele Seiten hat ein Pentagon?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["5", "6", "4", "8"],
+      "correct": 0,
+      "explanation": "Ein Pentagon hat 5 Seiten."
+    },
+    {
+      "id": "7-geom-102",
+      "question": "Wie groß ist die Winkelsumme in einem Pentagon?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["540°", "360°", "720°", "450°"],
+      "correct": 0,
+      "explanation": "Winkelsumme = (5-2) × 180° = 3 × 180° = 540°"
+    },
+    {
+      "id": "7-geom-103",
+      "question": "Wie groß ist die Winkelsumme in einem Hexagon?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["720°", "540°", "360°", "900°"],
+      "correct": 0,
+      "explanation": "Winkelsumme = (6-2) × 180° = 4 × 180° = 720°"
+    },
+    {
+      "id": "7-geom-104",
+      "question": "Wie heißt ein Polygon mit n Seiten?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["n-Eck", "n-gon", "Polynom", "n-tope"],
+      "correct": 0,
+      "explanation": "Ein Polygon mit n Seiten heißt n-Eck oder n-gon."
+    },
+    {
+      "id": "7-geom-105",
+      "question": "Ein regelmäßiges Polygon hat 8 Seiten. Wie groß ist jeder Innenwinkel?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["135°", "120°", "145°", "150°"],
+      "correct": 0,
+      "explanation": "Winkelsumme: (8-2) × 180° = 1080°. Jeder Winkel: 1080° ÷ 8 = 135°"
+    },
+    {
+      "id": "7-geom-106",
+      "question": "Ein regelmäßiges Polygon hat 6 Seiten. Wie groß ist jeder Innenwinkel?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["120°", "135°", "108°", "150°"],
+      "correct": 0,
+      "explanation": "Winkelsumme: (6-2) × 180° = 720°. Jeder Winkel: 720° ÷ 6 = 120°"
+    },
+    {
+      "id": "7-geom-107",
+      "question": "Wie viele Diagonalen hat ein Quadrat?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["2", "4", "1", "6"],
+      "correct": 0,
+      "explanation": "Ein Quadrat hat 2 Diagonalen."
+    },
+    {
+      "id": "7-geom-108",
+      "question": "Wie viele Diagonalen hat ein Pentagon?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["5", "4", "3", "6"],
+      "correct": 0,
+      "explanation": "Die Anzahl der Diagonalen = n(n-3)÷2. Für n=5: 5×2÷2 = 5"
+    },
+    {
+      "id": "7-geom-109",
+      "question": "Wie viele Diagonalen hat ein Hexagon?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["9", "6", "8", "12"],
+      "correct": 0,
+      "explanation": "Die Anzahl der Diagonalen = n(n-3)÷2. Für n=6: 6×3÷2 = 9"
+    },
+    {
+      "id": "7-geom-110",
+      "question": "Ist jedes Rechteck ein Parallelogramm?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Ja, jedes Rechteck ist ein spezielles Parallelogramm", "Nein, Rechtecke sind unterschiedlich", "Nur einige Rechtecke sind Parallelogramme", "Das kann man nicht sagen"],
+      "correct": 0,
+      "explanation": "Ja, jedes Rechteck ist ein Parallelogramm, da es zwei Paare paralleler Seiten hat."
+    },
+    {
+      "id": "7-geom-111",
+      "question": "Ist jedes Quadrat ein Rechteck?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Ja, jedes Quadrat ist ein spezielles Rechteck", "Nein, Quadrate sind unterschiedlich", "Nur einige Quadrate sind Rechtecke", "Das kann man nicht sagen"],
+      "correct": 0,
+      "explanation": "Ja, jedes Quadrat ist ein Rechteck, da es vier rechte Winkel hat."
+    },
+    {
+      "id": "7-geom-112",
+      "question": "Ist jedes Parallelogramm ein Rechteck?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Nein, nicht jedes Parallelogramm ist ein Rechteck", "Ja, jedes Parallelogramm ist ein Rechteck", "Nur einige Parallelogramme sind Rechtecke", "Das kann man nicht sagen"],
+      "correct": 0,
+      "explanation": "Nein, ein Parallelogramm ist nur ein Rechteck, wenn alle seine Winkel rechte Winkel sind."
+    },
+    {
+      "id": "7-geom-113",
+      "question": "Wie viele rechte Winkel kann ein Trapez haben?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["0, 1, oder 2", "Immer genau 1", "Immer genau 2", "0 oder 4"],
+      "correct": 0,
+      "explanation": "Ein Trapez kann 0, 1 oder 2 rechte Winkel haben. Ein Trapez mit 2 rechten Winkeln heißt rechtwinkliges Trapez."
+    },
+    {
+      "id": "7-geom-114",
+      "question": "Was ist eine Raute (Rhombus)?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Ein Viereck mit vier gleich langen Seiten", "Ein Viereck mit vier rechten Winkeln", "Ein Viereck mit zwei Paaren gleicher Seiten", "Ein spezielles Rechteck"],
+      "correct": 0,
+      "explanation": "Eine Raute ist ein Viereck mit vier gleich langen Seiten. Die gegenüberliegenden Winkel sind gleich."
+    },
+    {
+      "id": "7-geom-115",
+      "question": "Ist jedes Quadrat eine Raute?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Ja, jedes Quadrat ist eine spezielle Raute", "Nein, Quadrate und Rauten sind unterschiedlich", "Nur einige Quadrate sind Rauten", "Das kann man nicht sagen"],
+      "correct": 0,
+      "explanation": "Ja, jedes Quadrat ist eine spezielle Raute mit vier rechten Winkeln."
+    },
+    {
+      "id": "7-geom-116",
+      "question": "Ist jede Raute ein Parallelogramm?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Ja, jede Raute ist ein Parallelogramm", "Nein, Rauten sind keine Parallelogramme", "Nur einige Rauten sind Parallelogramme", "Das kann man nicht sagen"],
+      "correct": 0,
+      "explanation": "Ja, jede Raute ist ein Parallelogramm, da gegenüberliegende Seiten parallel sind."
+    },
+    {
+      "id": "7-geom-117",
+      "question": "Können zwei verschiedene Dreiecke die gleiche Winkelsumme haben?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Ja, alle Dreiecke haben die gleiche Winkelsumme von 180°", "Nein, verschiedene Dreiecke haben verschiedene Winkelsummen", "Nur bei speziellen Dreiecken", "Das kann man nicht sagen"],
+      "correct": 0,
+      "explanation": "Ja, alle Dreiecke haben die gleiche Winkelsumme von 180°, unabhängig von ihrer Form oder Größe."
+    },
+    {
+      "id": "7-geom-118",
+      "question": "Zwei Dreiecke sind ähnlich. Ein Dreieck hat die Winkel 50°, 60°, und 70°. Wie groß sind die Winkel des anderen Dreiecks?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["50°, 60°, und 70°", "20°, 30°, und 40°", "100°, 120°, und 140°", "Das kann man nicht sagen"],
+      "correct": 0,
+      "explanation": "Ähnliche Dreiecke haben die gleichen Winkel. Also auch 50°, 60°, und 70°."
+    },
+    {
+      "id": "7-geom-119",
+      "question": "Ein Dreieck wird vergrößert um den Faktor 2. Wie verändern sich seine Winkel?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": ["Die Winkel bleiben gleich", "Die Winkel werden doppelt so groß", "Die Winkel werden halb so groß", "Das kann man nicht sagen"],
+      "correct": 0,
+      "explanation": "Die Winkel bleiben bei einer Vergrößerung oder Verkleinerung immer gleich."
+    },
+    {
+      "id": "7-geom-120",
+      "question": "Zwei Dreiecke haben alle Winkel gleich und alle Seitenlängen gleich. Sind die Dreiecke kongruent?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": ["Ja, sie sind kongruent", "Nein, sie sind nur ähnlich", "Das kann man nicht sagen", "Nur wenn sie die gleiche Orientierung haben"],
+      "correct": 0,
+      "explanation": "Ja, wenn zwei Dreiecke alle gleichen Winkel und alle gleichen Seitenlängen haben (SSS-Kongruenz), sind sie kongruent."
+    }
+  ]
+}
