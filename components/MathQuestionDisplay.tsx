@@ -330,7 +330,7 @@ export default function MathQuestionDisplay({
           {(() => {
             const isCompact = question.options.every(o => typeof o === 'string' && String(o).length <= 3);
             return (
-            <div className={isCompact ? "flex flex-wrap gap-3 mt-6" : "space-y-3 mt-8"}>
+            <div className={isCompact ? "flex flex-wrap gap-2 mt-4" : "space-y-3 mt-8"}>
               {question.options.map((option, idx) => {
                 const isSelected = selectedAnswer !== null && selectedAnswer === option;
                 const isCorrectOption = option === question.correctAnswer;
@@ -347,13 +347,13 @@ export default function MathQuestionDisplay({
                 <motion.button
                   key={idx}
                   onClick={() => onSelectAnswer(idx)}
-                  className={`${isCompact ? 'flex-1 min-w-[70px] p-3' : 'w-full p-4'} rounded-xl border-2 transition-all text-left font-bold text-gray-800 ${
+                  className={`${isCompact ? 'flex-1 min-w-[50px] py-1.5 px-2' : 'w-full p-4'} rounded-lg border-2 transition-all font-bold text-gray-800 ${
                     isSelected ? selectedClass : correctHighlight
                   }`}
                   whileHover={{ scale: 1.02 }}
                   whileTap={{ scale: 0.98 }}
                 >
-                  <div className={`flex items-center ${isCompact ? 'justify-center gap-2' : 'gap-3'}`}>
+                  <div className={`flex items-center ${isCompact ? 'justify-center' : 'gap-3'}`}>
                     {!isCompact && (
                       <div
                         className={`w-6 h-6 rounded-full border-2 flex items-center justify-center ${
@@ -365,7 +365,7 @@ export default function MathQuestionDisplay({
                         {isSelected && <div className="w-3 h-3 bg-white rounded-full" />}
                       </div>
                     )}
-                    <span className={typeof option === 'string' ? (isCompact ? 'text-3xl' : 'text-2xl') : ''}>{option}</span>
+                    <span className={typeof option === 'string' ? (isCompact ? 'text-lg' : 'text-2xl') : ''}>{option}</span>
                   </div>
                 </motion.button>
                 );

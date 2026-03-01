@@ -1,7 +1,7 @@
 'use client';
 
-import { useEffect, useState } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
+import { useEffect, useState, useCallback, useRef } from 'react';
+import { motion } from 'framer-motion';
 
 interface GradingPencilProps {
   gradingIndex: number;
@@ -59,17 +59,42 @@ function PencilSVG() {
   );
 }
 
-// How far the tip shifts from the element's CSS top-left when rotated 155deg around SVG center (65,15):
-//   cos(155°)≈−0.906  sin(155°)≈+0.423
-//   tip relative to center = (60, 0)
-//   rotated: (60·cos155°, 60·sin155°) = (−54.4, +25.4)
-//   tip position in element box = (65−54.4, 15+25.4) = (10.6, 40.4)
-const TIP_OFFSET_X = 11;  // px from element left edge to where tip lands
-const TIP_OFFSET_Y = 41;  // px from element top edge to where tip lands
+// Tip offset after 155deg rotation
+const TIP_OFFSET_X = 11;
+const TIP_OFFSET_Y = 41;
 
 export default function GradingPencil({ gradingIndex, total }: GradingPencilProps) {
   const [pos, setPos] = useState<{ left: number; top: number } | null>(null);
   const [writing, setWriting] = useState(false);
+  const portalRef = useRef<HTMLDivElement | null>(null);
+
+  // Create a portal div appended directly to document.body
+  useEffect(() => {
+    const div = document.createElement('div');
+    div.id = 'grading-pencil-portal';
+    document.body.appendChild(div);
+    portalRef.current = div;
+    return () => {
+      document.body.removeChild(div);
+      portalRef.current = null;
+    };
+  }, []);
+
+  const measureAndPosition = useCallback((el: Element) => {
+    const inputEl = el.querySelector('input') ?? el;
+    const rect = inputEl.getBoundingClientRect();
+
+    const targetX = rect.left + 24;
+    const targetY = rect.top + rect.height * 0.5;
+
+    setPos({
+      left: targetX - TIP_OFFSET_X,
+      top: targetY - TIP_OFFSET_Y,
+    });
+
+    setWriting(false);
+    setTimeout(() => setWriting(true), 120);
+  }, []);
 
   useEffect(() => {
     if (gradingIndex < 0 || gradingIndex >= total) {
@@ -77,66 +102,78 @@ export default function GradingPencil({ gradingIndex, total }: GradingPencilProp
       return;
     }
 
-    const questionEl = document.querySelector(`[data-question-id="q_${gradingIndex}"]`);
-    if (!questionEl) return;
+    // Retry finding the element (DOM may not be ready yet)
+    let attempts = 0;
+    let timerId: ReturnType<typeof setTimeout>;
 
-    // Scroll question into view
-    questionEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    const tryFind = () => {
+      const questionEl = document.querySelector(`[data-question-id="q_${gradingIndex}"]`);
+      if (!questionEl) {
+        attempts++;
+        if (attempts < 8) {
+          timerId = setTimeout(tryFind, 150);
+        }
+        return;
+      }
 
-    // Wait for scroll to settle, then measure input position
-    const timer = setTimeout(() => {
-      const inputEl = questionEl.querySelector('input') ?? questionEl;
-      const rect = inputEl.getBoundingClientRect();
+      // Scroll into view
+      questionEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
 
-      // Target point: left-ish side of the input field, vertically centered
-      const targetX = rect.left + 24;
-      const targetY = rect.top + rect.height * 0.5;
+      // Wait for scroll to settle, then measure position
+      timerId = setTimeout(() => measureAndPosition(questionEl), 500);
+    };
 
-      // Position element so rotated tip lands on target
-      setPos({
-        left: targetX - TIP_OFFSET_X,
-        top:  targetY - TIP_OFFSET_Y,
-      });
+    tryFind();
 
-      // Trigger writing stroke after a short pause
-      setWriting(false);
-      setTimeout(() => setWriting(true), 120);
-    }, 320);
+    return () => clearTimeout(timerId);
+  }, [gradingIndex, total, measureAndPosition]);
 
-    return () => clearTimeout(timer);
-  }, [gradingIndex, total]);
+  // Render directly into the portal div via DOM manipulation
+  // This avoids needing react-dom types for createPortal
+  if (pos === null || !portalRef.current) return null;
 
-  if (pos === null) return null;
+  // Move the portal div to show the pencil
+  const portal = portalRef.current;
+  portal.style.position = 'fixed';
+  portal.style.left = '0';
+  portal.style.top = '0';
+  portal.style.width = '0';
+  portal.style.height = '0';
+  portal.style.overflow = 'visible';
+  portal.style.zIndex = '99999';
+  portal.style.pointerEvents = 'none';
 
   return (
-    <AnimatePresence>
-      <motion.div
-        key="pencil"
-        style={{
-          position: 'fixed',
-          zIndex: 250,
-          pointerEvents: 'none',
-          // Rotate 155° — tip points to lower-left (natural "held from above" writing angle)
-          transform: 'rotate(155deg)',
-          transformOrigin: 'center center',
-        }}
-        animate={{ left: pos.left, top: pos.top }}
-        initial={false}
-        transition={{ type: 'spring', stiffness: 110, damping: 20, mass: 1.2 }}
-      >
-        {/* Writing stroke wobble along pencil axis */}
+    <motion.div
+      key={`pencil-${gradingIndex}`}
+      style={{
+        position: 'fixed',
+        zIndex: 99999,
+        pointerEvents: 'none',
+        left: pos.left,
+        top: pos.top,
+      }}
+      initial={{ opacity: 0, scale: 0.5 }}
+      animate={{ opacity: 1, scale: 1 }}
+      transition={{ type: 'spring', stiffness: 200, damping: 20 }}
+    >
+      {/* Plain div for rotation — NOT a motion.div, so Framer doesn't interfere */}
+      <div style={{
+        transform: 'rotate(155deg)',
+        transformOrigin: 'center center',
+      }}>
+        {/* Writing stroke wobble */}
         <motion.div
           animate={writing ? {
-            // Strokes along the pencil axis (roughly NE→SW for 155deg pencil)
             x: [0, -5, 3, -7, 5, -4, 6, -3, 2, 0],
-            y: [0,  2, -1,  3, -2,  2, -3,  1, -1, 0],
+            y: [0, 2, -1, 3, -2, 2, -3, 1, -1, 0],
             rotate: [0, -1, 0.8, -1.5, 1, -0.8, 1.2, -0.5, 0.3, 0],
           } : { x: 0, y: 0, rotate: 0 }}
           transition={{ duration: 0.95, ease: 'easeInOut' }}
         >
           <PencilSVG />
         </motion.div>
-      </motion.div>
-    </AnimatePresence>
+      </div>
+    </motion.div>
   );
 }

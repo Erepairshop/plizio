@@ -1303,7 +1303,7 @@ export default function MathTestPage() {
                     <MathQuestionDisplay
                       question={convertToExtendedQuestion(question)}
                       selectedAnswer={answers[qi]}
-                      onSelectAnswer={(optIdx) => !isGrading && handleAnswer(qi, question.options[optIdx])}
+                      onSelectAnswer={(optIdx) => !isGrading && handleAnswer(qi, question.options[optIdx], false)}
                       showResult={isGrading && isGraded}
                       isCorrect={isCorrect}
                       useTextInput={!question.hasStringOptions}
