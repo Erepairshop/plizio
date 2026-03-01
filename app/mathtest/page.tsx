@@ -545,7 +545,7 @@ export default function MathTestPage() {
         setShowTeacherNote(false);
         window.scrollTo({ top: 0, behavior: 'smooth' });
         setGameState("result");
-      }, 3800);
+      }, 7500);
     }
   }, [gameState, gradingIndex, questions, answers, testType, realisticKlassenarbeit, groupedTaskAnswers]);
 

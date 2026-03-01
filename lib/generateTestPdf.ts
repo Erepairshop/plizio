@@ -86,7 +86,6 @@ export function generateTestPdf(data: PdfTestData & { studentName?: string }): v
 
   // ── Helpers ──────────────────────────────────────────────────────────
   const newPage = () => {
-    drawPageDecoration();
     doc.addPage();
     y = 28;
     drawPageDecoration();
