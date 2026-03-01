@@ -76,19 +76,27 @@ export async function uploadToSupabase(userId: string): Promise<void> {
     if (cardError) console.error("Card sync error:", cardError);
   }
 
-  // Delete server cards that were redeemed (no longer in localStorage)
-  const { data: serverCards } = await supabase
-    .from("cards")
-    .select("id")
-    .eq("user_id", userId);
+  // Delete server cards that were redeemed (tracked in plizio_redeemed_ids)
+  // Only run if we actually have local cards OR have a recorded redeemed list,
+  // to avoid accidentally wiping the server when localStorage is empty.
+  const redeemedIds: string[] = typeof window !== "undefined"
+    ? JSON.parse(localStorage.getItem("plizio_redeemed_ids") || "[]")
+    : [];
 
-  if (serverCards && serverCards.length > 0) {
-    const toDelete = serverCards
-      .map((c: { id: string }) => c.id)
-      .filter((id: string) => !localIds.has(id));
+  if (cards.length > 0 || redeemedIds.length > 0) {
+    const { data: serverCards } = await supabase
+      .from("cards")
+      .select("id")
+      .eq("user_id", userId);
 
-    if (toDelete.length > 0) {
-      await supabase.from("cards").delete().in("id", toDelete);
+    if (serverCards && serverCards.length > 0) {
+      const toDelete = serverCards
+        .map((c: { id: string }) => c.id)
+        .filter((id: string) => !localIds.has(id));
+
+      if (toDelete.length > 0) {
+        await supabase.from("cards").delete().in("id", toDelete);
+      }
     }
   }
 
@@ -187,11 +195,8 @@ export async function downloadFromSupabase(userId: string): Promise<void> {
 // then upload (push merged state + delete redeemed cards from server).
 // Redeemed card IDs are tracked in plizio_redeemed_ids so download
 // never restores them even when they still exist on the server.
+// Errors propagate to the caller so the UI can show the error state.
 export async function syncToSupabase(userId: string): Promise<void> {
-  try {
-    await downloadFromSupabase(userId);
-    await uploadToSupabase(userId);
-  } catch (e) {
-    console.error("Sync error:", e);
-  }
+  await downloadFromSupabase(userId);
+  await uploadToSupabase(userId);
 }
