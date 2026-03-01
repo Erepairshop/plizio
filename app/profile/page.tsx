@@ -199,7 +199,11 @@ export default function ProfilePage() {
 
   const syncLabel = syncState === "loading" ? t.syncing : syncState === "done" ? t.syncDone : syncState === "error" ? t.syncError : t.sync;
   const syncIcon = syncState === "done" ? <Check size={16} /> : syncState === "error" ? <AlertCircle size={16} /> : <Shield size={16} />;
-  const syncColor = syncState === "done" ? "neon-green" : syncState === "error" ? "neon-pink" : "neon-blue";
+  const syncClassName = syncState === "done"
+    ? "bg-neon-green/10 border border-neon-green/30 text-neon-green"
+    : syncState === "error"
+    ? "bg-neon-pink/10 border border-neon-pink/30 text-neon-pink"
+    : "bg-neon-blue/10 border border-neon-blue/30 text-neon-blue";
 
   return (
     <main className="min-h-screen flex flex-col items-center px-4 py-8 gap-5">
@@ -316,9 +320,7 @@ export default function ProfilePage() {
           <motion.button
             onClick={handleSync}
             disabled={syncState === "loading"}
-            className={`flex-1 font-bold text-sm py-3 rounded-xl flex items-center justify-center gap-2 transition-colors
-              bg-${syncColor}/10 border border-${syncColor}/30 text-${syncColor}
-              disabled:opacity-60`}
+            className={`flex-1 font-bold text-sm py-3 rounded-xl flex items-center justify-center gap-2 transition-colors disabled:opacity-60 ${syncClassName}`}
             whileHover={{ scale: syncState === "loading" ? 1 : 1.03 }}
             whileTap={{ scale: syncState === "loading" ? 1 : 0.97 }}
           >
