@@ -183,6 +183,96 @@
       "options": [7, 6, 8, 5],
       "correct": 0,
       "explanation": "15 - 7 = 8, also fehlt die 7"
+    },
+    {
+      "id": "1-zahl-021",
+      "question": "Wie viel ist 4 + 4?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [8, 7, 9, 6],
+      "correct": 0,
+      "explanation": "4 + 4 = 8"
+    },
+    {
+      "id": "1-zahl-022",
+      "question": "Wie viel ist 11 + 6?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [17, 16, 18, 15],
+      "correct": 0,
+      "explanation": "11 + 6 = 17"
+    },
+    {
+      "id": "1-zahl-023",
+      "question": "Wie viel ist 18 - 9?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [9, 8, 10, 7],
+      "correct": 0,
+      "explanation": "18 - 9 = 9"
+    },
+    {
+      "id": "1-zahl-024",
+      "question": "Welche Zahl kommt nach 19?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [20, 18, 21, 19],
+      "correct": 0,
+      "explanation": "Nach 19 kommt 20"
+    },
+    {
+      "id": "1-zahl-025",
+      "question": "Welche Zahl ist die kleinste? 17, 4, 11, 8",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [4, 8, 11, 17],
+      "correct": 0,
+      "explanation": "4 ist die kleinste Zahl von allen"
+    },
+    {
+      "id": "1-zahl-026",
+      "question": "Wie viel ist 7 + 8?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [15, 14, 16, 13],
+      "correct": 0,
+      "explanation": "7 + 8 = 15"
+    },
+    {
+      "id": "1-zahl-027",
+      "question": "Welche Zahl fehlt? 10, ___, 14, 16, 18",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [12, 11, 13, 9],
+      "correct": 0,
+      "explanation": "Die Reihe zählt plus 2: 10, 12, 14, 16, 18"
+    },
+    {
+      "id": "1-zahl-028",
+      "question": "Wie viel ist 13 - 6?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [7, 6, 8, 5],
+      "correct": 0,
+      "explanation": "13 - 6 = 7"
+    },
+    {
+      "id": "1-zahl-029",
+      "question": "Welches Zeichen passt? 9 + 3 ___ 14",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": ["<", ">", "=", "≠"],
+      "correct": 0,
+      "explanation": "9 + 3 = 12, und 12 < 14"
+    },
+    {
+      "id": "1-zahl-030",
+      "question": "Welche Zahl fehlt? ___ - 5 = 7",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [12, 11, 13, 10],
+      "correct": 0,
+      "explanation": "12 - 5 = 7, also fehlt die 12"
     }
   ]
 }

@@ -138,6 +138,141 @@
       "options": [50, 40, 45, 55],
       "correct": 0,
       "explanation": "47 liegt näher an 50 (Abstand 3) als an 40 (Abstand 7)"
+    },
+    {
+      "id": "2-zahl-016",
+      "question": "Wie viel ist 52 + 33?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [85, 84, 86, 83],
+      "correct": 0,
+      "explanation": "52 + 33 = 85"
+    },
+    {
+      "id": "2-zahl-017",
+      "question": "Wie viel ist 64 - 28?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [36, 35, 37, 34],
+      "correct": 0,
+      "explanation": "64 - 28 = 36"
+    },
+    {
+      "id": "2-zahl-018",
+      "question": "Wie viel ist 47 + 39?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [86, 85, 87, 84],
+      "correct": 0,
+      "explanation": "47 + 39 = 86"
+    },
+    {
+      "id": "2-zahl-019",
+      "question": "Wie viel ist 90 - 43?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [47, 46, 48, 45],
+      "correct": 0,
+      "explanation": "90 - 43 = 47"
+    },
+    {
+      "id": "2-zahl-020",
+      "question": "Wie viel ist 60 + 30?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [90, 80, 100, 70],
+      "correct": 0,
+      "explanation": "60 + 30 = 90"
+    },
+    {
+      "id": "2-zahl-021",
+      "question": "Wie viel ist 70 - 30?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [40, 30, 50, 35],
+      "correct": 0,
+      "explanation": "70 - 30 = 40"
+    },
+    {
+      "id": "2-zahl-022",
+      "question": "Welche Zehnerzahl kommt nach 60?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [70, 80, 50, 65],
+      "correct": 0,
+      "explanation": "Nach 60 kommt 70"
+    },
+    {
+      "id": "2-zahl-023",
+      "question": "Wie viel ist 25 + 35 + 20?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [80, 70, 90, 60],
+      "correct": 0,
+      "explanation": "25 + 35 = 60, dann 60 + 20 = 80"
+    },
+    {
+      "id": "2-zahl-024",
+      "question": "Welche Zahl fehlt? 74 + ___ = 100",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [26, 24, 28, 22],
+      "correct": 0,
+      "explanation": "100 - 74 = 26, also fehlt die 26"
+    },
+    {
+      "id": "2-zahl-025",
+      "question": "Wie viel ist 33 + 47?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [80, 70, 90, 60],
+      "correct": 0,
+      "explanation": "33 + 47 = 80"
+    },
+    {
+      "id": "2-zahl-026",
+      "question": "Wie viel ist 88 - 35?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [53, 52, 54, 51],
+      "correct": 0,
+      "explanation": "88 - 35 = 53"
+    },
+    {
+      "id": "2-zahl-027",
+      "question": "Welche Zahl ist größer: 63 oder 36?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [63, 36, 60, 39],
+      "correct": 0,
+      "explanation": "63 ist größer als 36"
+    },
+    {
+      "id": "2-zahl-028",
+      "question": "Wie viel ist 50 + 50?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [100, 90, 110, 80],
+      "correct": 0,
+      "explanation": "50 + 50 = 100"
+    },
+    {
+      "id": "2-zahl-029",
+      "question": "Ordne von klein nach groß. Was kommt zuerst? 72, 27, 54, 45",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [27, 45, 54, 72],
+      "correct": 0,
+      "explanation": "Von klein nach groß: 27, 45, 54, 72. Also kommt 27 zuerst."
+    },
+    {
+      "id": "2-zahl-030",
+      "question": "Welche Zahl fehlt? ___ - 18 = 45",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [63, 62, 64, 60],
+      "correct": 0,
+      "explanation": "45 + 18 = 63, also fehlt die 63"
     }
   ]
 }

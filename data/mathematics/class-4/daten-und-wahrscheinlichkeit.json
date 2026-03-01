@@ -183,6 +183,96 @@
       "options": [14.75, 14, 15, 13],
       "correct": 0,
       "explanation": "(12 + 15 + 18 + 14) ÷ 4 = 59 ÷ 4 = 14,75"
+    },
+    {
+      "id": "4-daten-021",
+      "question": "In einer Klasse mögen 15 Kinder Fußball und 12 Kinder Schwimmen. 5 Kinder mögen beides. Wie viele mögen mindestens eines?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [22, 27, 17, 20],
+      "correct": 0,
+      "explanation": "15 + 12 - 5 = 22 (Vereinigung der beiden Gruppen)"
+    },
+    {
+      "id": "4-daten-022",
+      "question": "Der Durchschnitt von 4, 8, 12, 16 ist?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [10, 8, 12, 9],
+      "correct": 0,
+      "explanation": "(4 + 8 + 12 + 16) ÷ 4 = 40 ÷ 4 = 10"
+    },
+    {
+      "id": "4-daten-023",
+      "question": "In einem Beutel sind 4 rote und 6 blaue Kugeln. Wie groß ist die Wahrscheinlichkeit, eine rote zu ziehen (in Prozent)?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [40, 60, 50, 30],
+      "correct": 0,
+      "explanation": "4 von 10 Kugeln sind rot: 4/10 = 40%"
+    },
+    {
+      "id": "4-daten-024",
+      "question": "Schüleranzahl pro Jahrgang: 1. Klasse: 25, 2. Klasse: 28, 3. Klasse: 22, 4. Klasse: 25. Wie viele Schüler insgesamt?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [100, 90, 110, 95],
+      "correct": 0,
+      "explanation": "25 + 28 + 22 + 25 = 100 Schüler"
+    },
+    {
+      "id": "4-daten-025",
+      "question": "Sportarten der Schüler: Fußball 18, Tennis 9, Schwimmen 12, Turnen 6. Welche Sportart ist am beliebtesten?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [18, 12, 9, 6],
+      "correct": 0,
+      "explanation": "Fußball mit 18 Schülern ist am beliebtesten"
+    },
+    {
+      "id": "4-daten-026",
+      "question": "Temperatur einer Woche: Mo 8°, Di 12°, Mi 15°, Do 11°, Fr 14°. Was ist der Durchschnitt?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [12, 11, 13, 10],
+      "correct": 0,
+      "explanation": "(8 + 12 + 15 + 11 + 14) ÷ 5 = 60 ÷ 5 = 12°C"
+    },
+    {
+      "id": "4-daten-027",
+      "question": "Ein Würfel wird geworfen. Wie wahrscheinlich ist es, eine ungerade Zahl zu würfeln?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [50, 33, 67, 25],
+      "correct": 0,
+      "explanation": "Ungerade Zahlen: 1, 3, 5 = 3 von 6 = 50%"
+    },
+    {
+      "id": "4-daten-028",
+      "question": "Lieblingsfrüchte: Apfel 24%, Banane 36%, Orange 20%, Traube 20%. Welche Frucht ist beliebteste?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [36, 24, 20, 40],
+      "correct": 0,
+      "explanation": "Banane hat 36% - das ist der höchste Wert"
+    },
+    {
+      "id": "4-daten-029",
+      "question": "In einer Umfrage: 25 von 100 Kindern haben ein Haustier. Wie viele in Prozent?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [25, 75, 50, 20],
+      "correct": 0,
+      "explanation": "25 von 100 = 25%"
+    },
+    {
+      "id": "4-daten-030",
+      "question": "Messwerte: 5, 7, 3, 8, 7. Welcher Wert kommt am häufigsten vor (Modalwert)?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [7, 5, 8, 3],
+      "correct": 0,
+      "explanation": "7 kommt zweimal vor, alle anderen Zahlen nur einmal"
     }
   ]
 }

@@ -183,6 +183,96 @@
       "options": [6, 5, 7, 4],
       "correct": 0,
       "explanation": "Breite = Fläche ÷ Länge = 48 ÷ 8 = 6 cm"
+    },
+    {
+      "id": "4-geom-021",
+      "question": "Wie viele Kanten hat ein Würfel?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [12, 8, 6, 10],
+      "correct": 0,
+      "explanation": "Ein Würfel hat 12 Kanten"
+    },
+    {
+      "id": "4-geom-022",
+      "question": "Ein Rechteck hat Länge 9 cm und Breite 5 cm. Wie groß ist die Fläche?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [45, 28, 40, 35],
+      "correct": 0,
+      "explanation": "Fläche = 9 × 5 = 45 cm²"
+    },
+    {
+      "id": "4-geom-023",
+      "question": "Wie viele Symmetrieachsen hat ein gleichseitiges Dreieck?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [3, 1, 2, 4],
+      "correct": 0,
+      "explanation": "Ein gleichseitiges Dreieck hat 3 Symmetrieachsen"
+    },
+    {
+      "id": "4-geom-024",
+      "question": "Ein Kreis hat den Radius 7 cm. Wie lang ist der Durchmesser?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [14, 7, 21, 28],
+      "correct": 0,
+      "explanation": "Durchmesser = 2 × Radius = 2 × 7 = 14 cm"
+    },
+    {
+      "id": "4-geom-025",
+      "question": "Ein Quadrat hat eine Fläche von 81 cm². Wie lang ist eine Seite?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [9, 8, 10, 7],
+      "correct": 0,
+      "explanation": "Die Seitenlänge ist 9 cm, weil 9 × 9 = 81 cm²"
+    },
+    {
+      "id": "4-geom-026",
+      "question": "Ein Dreieck hat die Seiten 5 cm, 8 cm und 7 cm. Wie groß ist der Umfang?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [20, 18, 22, 24],
+      "correct": 0,
+      "explanation": "Umfang = 5 + 8 + 7 = 20 cm"
+    },
+    {
+      "id": "4-geom-027",
+      "question": "Wie viele Ecken hat ein Fünfeck?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [5, 4, 6, 3],
+      "correct": 0,
+      "explanation": "Ein Fünfeck hat 5 Ecken"
+    },
+    {
+      "id": "4-geom-028",
+      "question": "Ein Rechteck hat Umfang 36 cm und Länge 10 cm. Wie lang ist die Breite?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [8, 6, 10, 7],
+      "correct": 0,
+      "explanation": "Umfang = 2 × (Länge + Breite); 36 = 2 × (10 + Breite); Breite = 8 cm"
+    },
+    {
+      "id": "4-geom-029",
+      "question": "Wie groß ist die Fläche eines Dreiecks mit Grundseite 12 cm und Höhe 8 cm?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [48, 96, 40, 60],
+      "correct": 0,
+      "explanation": "Fläche = (12 × 8) ÷ 2 = 96 ÷ 2 = 48 cm²"
+    },
+    {
+      "id": "4-geom-030",
+      "question": "Ein Quader hat Länge 6 cm, Breite 4 cm und Höhe 3 cm. Wie viele Flächen hat er?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [6, 8, 4, 12],
+      "correct": 0,
+      "explanation": "Ein Quader hat 6 Flächen (wie ein Würfel)"
     }
   ]
 }

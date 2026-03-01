@@ -93,6 +93,186 @@
       "options": [972, 962, 982, 952],
       "correct": 0,
       "explanation": "Schriftliche Addition mit mehrfachem Übertrag: 594 + 378 = 972"
+    },
+    {
+      "id": "3-zahl-011",
+      "question": "Wie viel ist 673 + 214?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [887, 877, 897, 867],
+      "correct": 0,
+      "explanation": "673 + 214 = 887"
+    },
+    {
+      "id": "3-zahl-012",
+      "question": "Wie viel ist 900 - 345?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [555, 545, 565, 535],
+      "correct": 0,
+      "explanation": "900 - 345 = 555"
+    },
+    {
+      "id": "3-zahl-013",
+      "question": "Wie viel ist 428 + 356?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [784, 774, 794, 764],
+      "correct": 0,
+      "explanation": "428 + 356 = 784"
+    },
+    {
+      "id": "3-zahl-014",
+      "question": "Wie viel ist 621 - 289?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [332, 322, 342, 312],
+      "correct": 0,
+      "explanation": "621 - 289 = 332"
+    },
+    {
+      "id": "3-zahl-015",
+      "question": "Welche Zahl fehlt? 354 + ___ = 700",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [346, 336, 356, 326],
+      "correct": 0,
+      "explanation": "700 - 354 = 346"
+    },
+    {
+      "id": "3-zahl-016",
+      "question": "Wie viel ist 542 + 278?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [820, 810, 830, 800],
+      "correct": 0,
+      "explanation": "542 + 278 = 820"
+    },
+    {
+      "id": "3-zahl-017",
+      "question": "Wie viel ist 1000 - 437?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [563, 553, 573, 543],
+      "correct": 0,
+      "explanation": "1000 - 437 = 563"
+    },
+    {
+      "id": "3-zahl-018",
+      "question": "Welche Zahl ist die größte? 456, 546, 465, 564",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [564, 546, 465, 456],
+      "correct": 0,
+      "explanation": "564 ist die größte der vier Zahlen"
+    },
+    {
+      "id": "3-zahl-019",
+      "question": "Wie viel ist 325 + 175?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [500, 490, 510, 480],
+      "correct": 0,
+      "explanation": "325 + 175 = 500"
+    },
+    {
+      "id": "3-zahl-020",
+      "question": "Wie viel ist 831 - 526?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [305, 295, 315, 285],
+      "correct": 0,
+      "explanation": "831 - 526 = 305"
+    },
+    {
+      "id": "3-zahl-021",
+      "question": "Wie viel ist 400 + 300 + 200?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [900, 800, 1000, 700],
+      "correct": 0,
+      "explanation": "400 + 300 + 200 = 900"
+    },
+    {
+      "id": "3-zahl-022",
+      "question": "Ordne von groß nach klein. Was kommt zuerst? 347, 734, 473, 437",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [734, 473, 437, 347],
+      "correct": 0,
+      "explanation": "Von groß nach klein: 734, 473, 437, 347. 734 kommt zuerst."
+    },
+    {
+      "id": "3-zahl-023",
+      "question": "Wie viel ist 156 + 248?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [404, 394, 414, 384],
+      "correct": 0,
+      "explanation": "156 + 248 = 404"
+    },
+    {
+      "id": "3-zahl-024",
+      "question": "Welche Zahl fehlt? ___ - 175 = 325",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [500, 490, 510, 480],
+      "correct": 0,
+      "explanation": "325 + 175 = 500"
+    },
+    {
+      "id": "3-zahl-025",
+      "question": "Wie viel ist 999 - 1?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [998, 997, 999, 1000],
+      "correct": 0,
+      "explanation": "999 - 1 = 998"
+    },
+    {
+      "id": "3-zahl-026",
+      "question": "Wie viel ist 287 + 413?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [700, 690, 710, 680],
+      "correct": 0,
+      "explanation": "287 + 413 = 700"
+    },
+    {
+      "id": "3-zahl-027",
+      "question": "Welche Zahl ist die nächste gerade Zahl nach 249?",
+      "difficulty": "easy",
+      "type": "multiple-choice",
+      "options": [250, 248, 251, 252],
+      "correct": 0,
+      "explanation": "Nach 249 kommt die gerade Zahl 250"
+    },
+    {
+      "id": "3-zahl-028",
+      "question": "Wie viel ist 500 - 125 - 75?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [300, 290, 310, 280],
+      "correct": 0,
+      "explanation": "500 - 125 = 375, dann 375 - 75 = 300"
+    },
+    {
+      "id": "3-zahl-029",
+      "question": "Wie viel ist 363 + 237?",
+      "difficulty": "medium",
+      "type": "multiple-choice",
+      "options": [600, 590, 610, 580],
+      "correct": 0,
+      "explanation": "363 + 237 = 600"
+    },
+    {
+      "id": "3-zahl-030",
+      "question": "Wie viel ist 812 - 407?",
+      "difficulty": "hard",
+      "type": "multiple-choice",
+      "options": [405, 395, 415, 385],
+      "correct": 0,
+      "explanation": "812 - 407 = 405"
     }
   ]
 }
