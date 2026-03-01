@@ -54,7 +54,12 @@ export default function AuthPage() {
       if (mode === "signup") {
         await signUp(email, password);
       } else {
-        await signIn(email, password);
+        const data = await signIn(email, password);
+        // Sync data from Supabase after login (stars, streak, skins, etc.)
+        if (data.user) {
+          const { downloadFromSupabase } = await import("@/lib/sync");
+          await downloadFromSupabase(data.user.id).catch(() => {});
+        }
       }
       router.push("/mathtest/");
     } catch (err: unknown) {
