@@ -50,7 +50,7 @@ export default function ShortInputLayout({
           value={value || ""}
           onChange={(e) => !disabled && onChange(e.target.value)}
           disabled={disabled}
-          placeholder="Írj választ..."
+          placeholder="Gib die Antwort ein..."
           className={`w-full max-w-xs px-4 py-2.5 border-2 rounded-lg text-sm font-medium transition-all ${
             isGrading
               ? isCorrect
@@ -66,13 +66,13 @@ export default function ShortInputLayout({
             {isCorrect ? (
               <>
                 <Check size={16} className="text-green-600" />
-                <span className="text-xs text-green-600 font-bold">Helyes!</span>
+                <span className="text-xs text-green-600 font-bold">Richtig!</span>
               </>
             ) : (
               <>
                 <X size={16} className="text-red-600" />
                 <span className="text-xs text-red-600 font-bold">
-                  Helytelen. Helyes válasz: <strong>{correctAnswer}</strong>
+                  Falsch. Richtige Antwort: <strong>{correctAnswer}</strong>
                 </span>
               </>
             )}

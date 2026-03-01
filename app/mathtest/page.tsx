@@ -394,9 +394,9 @@ export default function MathTestPage() {
 
   // Load saved country + grade on mount
   useEffect(() => {
-    const savedCode = getSavedCountry();
+    const savedCode = getSavedCountry() || "DE";
+    setCountry(getCountryByCode(savedCode));
     if (savedCode) {
-      setCountry(getCountryByCode(savedCode));
       setGameState("grade-select");
     }
     const prev = getMathGrade();
@@ -1001,7 +1001,7 @@ export default function MathTestPage() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.3 }}
           >
-            Melyik országban jársz iskolába?
+            Welches Land besuchst du die Schule?
           </motion.p>
 
           {/* Country buttons */}
@@ -1128,7 +1128,7 @@ export default function MathTestPage() {
               className="text-3xl font-black text-white tracking-wider"
               style={{ textShadow: "0 0 20px rgba(255,215,0,0.3)" }}
             >
-              {ui?.title || "MATEK DOLGOZAT"}
+              {ui?.title}
             </h1>
             <p className="text-white/40 text-sm font-medium">{getPeriodLabel(getPeriod(), country?.code)}</p>
           </motion.div>
@@ -1140,7 +1140,7 @@ export default function MathTestPage() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.3 }}
           >
-            {ui?.gradeQuestion || "Hanyadik osztályba jársz?"}
+            {ui?.gradeQuestion}
           </motion.p>
 
           {/* Grade buttons */}
@@ -1276,7 +1276,7 @@ export default function MathTestPage() {
                   )}
                   {isGrading && (
                     <div className="flex items-center gap-2 mt-2">
-                      <span className="text-xs text-red-500 font-bold font-mono">✏️ {ui?.grading || "Javítás..."}</span>
+                      <span className="text-xs text-red-500 font-bold font-mono">✏️ {ui?.grading}</span>
                       <span className="text-xs text-gray-400">
                         {Math.min(gradingIndex, questions.length)}/{questions.length}
                       </span>
@@ -1553,7 +1553,7 @@ export default function MathTestPage() {
               whileTap={{ scale: 0.97 }}
             >
               <RotateCcw size={18} />
-              {ui?.retry || "Újraírom"}
+              {ui?.retry}
             </motion.button>
 
             {/* Card */}
@@ -1565,7 +1565,7 @@ export default function MathTestPage() {
               whileTap={{ scale: 0.97 }}
             >
               <Sparkles size={18} />
-              {ui?.card || "Kártya"}
+              {ui?.card}
             </motion.button>
 
             {/* Different grade */}
@@ -1577,7 +1577,7 @@ export default function MathTestPage() {
               whileTap={{ scale: 0.97 }}
             >
               <BookOpen size={18} />
-              {ui?.other || "Másik"}
+              {ui?.other}
             </motion.button>
           </motion.div>
 
@@ -1592,7 +1592,7 @@ export default function MathTestPage() {
             whileTap={{ scale: 0.95 }}
           >
             <Home size={16} />
-            {ui?.home || "Főmenü"}
+            {ui?.home}
           </motion.button>
         </motion.div>
 

@@ -103,7 +103,7 @@ export default function TableFillLayout({
       {/* Grading feedback */}
       {isGrading && (
         <div className="mt-3 text-xs text-gray-600">
-          <p className="font-bold mb-2">Helyes válaszok:</p>
+          <p className="font-bold mb-2">Richtige Antworten:</p>
           <div className="grid grid-cols-2 gap-2">
             {rows?.map((row, rowIdx) =>
               row.cells?.map((cell, cellIdx) => {
