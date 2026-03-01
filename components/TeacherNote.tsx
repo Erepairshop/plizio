@@ -234,7 +234,7 @@ export default function TeacherNote({ visible, playerName, percentage }: Teacher
                     marginTop: 6,
                   }}
                 >
-                  {percentage}% — {new Date().toLocaleDateString('de-DE')}
+                  {percentage}% — {new Date().toLocaleDateString('hu-HU')}
                 </motion.p>
               </div>
             </div>

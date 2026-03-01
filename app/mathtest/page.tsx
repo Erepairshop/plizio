@@ -101,7 +101,6 @@ import MathQuestionDisplay from "@/components/MathQuestionDisplay";
 import { DraftProvider } from "@/components/draft";
 import { convertToExtendedQuestion, isVisualQuestion } from "@/lib/mathQuestionUtils";
 import ModernPaperTest from "@/components/ModernPaperTest";
-import GradingPencil from "@/components/GradingPencil";
 import TeacherNote from "@/components/TeacherNote";
 import { getActiveSkin, SKINS } from "@/lib/skins";
 
@@ -788,13 +787,16 @@ export default function MathTestPage() {
       const testTasks = shuffleArray(selectedTasks);
 
       // Convert to MathQuestion format
-      const mathQuestions: MathQuestion[] = testTasks.map((task) => ({
+      const mathQuestions: MathQuestion[] = testTasks.map((task) => {
+        const numOptions = task.options.map((opt: any) => typeof opt === 'number' ? opt : parseInt(opt as string, 10));
+        return {
         question: task.question,
-        correctAnswer: task.correct,
-        options: task.options.map((opt: any) => typeof opt === 'number' ? opt : parseInt(opt as string, 10)),
+        correctAnswer: numOptions[task.correct], // actual value, not index
+        options: numOptions,
         topic: task.id,
         isWordProblem: false,
-      }));
+        };
+      });
 
       console.log(`[Multi-Theme Test] Generated ${mathQuestions.length} balanced questions`);
 
@@ -1233,7 +1235,7 @@ export default function MathTestPage() {
           total={questions.length}
           isGrading={isGrading}
           onExit={() => setGameState("grade-select")}
-          userName={user?.user_metadata?.full_name || user?.email || undefined}
+          userName={user?.user_metadata?.full_name || user?.email?.split('@')[0] || 'Vendég'}
         >
           <div>
           <div className="relative max-w-lg mx-auto" style={{ borderLeft: "2px solid rgba(220, 100, 100, 0.4)" }}>
@@ -1373,17 +1375,6 @@ export default function MathTestPage() {
           </div>
         </div>
         </ModernPaperTest>
-        {/* Grading pencil cursor */}
-        {isGrading && (
-          <GradingPencil
-            gradingIndex={gradingIndex}
-            total={questions.length}
-            isCorrect={gradingIndex >= 0 && gradingIndex < questions.length
-              ? answers[gradingIndex] === questions[gradingIndex].correctAnswer
-              : false}
-          />
-        )}
-
         {/* Teacher note after grading */}
         <TeacherNote
           visible={showTeacherNote}
