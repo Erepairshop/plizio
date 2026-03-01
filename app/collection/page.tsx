@@ -222,8 +222,15 @@ export default function CollectionPage() {
   const [exchanged, setExchanged] = useState(false);
 
   useEffect(() => {
-    setCards(getCards());
-    setStars(getSpecialCardCount());
+    const refresh = () => {
+      setCards(getCards());
+      setStars(getSpecialCardCount());
+    };
+    refresh();
+    // Re-read localStorage when tab regains focus (handles bfcache / back-navigation)
+    const onVisible = () => { if (document.visibilityState === "visible") refresh(); };
+    document.addEventListener("visibilitychange", onVisible);
+    return () => document.removeEventListener("visibilitychange", onVisible);
   }, []);
 
   const gameBests: GameBest[] = (() => {

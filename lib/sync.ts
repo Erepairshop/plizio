@@ -53,8 +53,10 @@ export async function uploadToSupabase(userId: string): Promise<void> {
 
   if (error) throw error;
 
-  // Upload cards
+  // Upload cards – upsert current, then delete any server cards no longer local
   const cards = getCards();
+  const localIds = new Set(cards.map((c: GameCard) => c.id));
+
   if (cards.length > 0) {
     const cardRows = cards.map((c: GameCard) => ({
       id: c.id,
@@ -72,6 +74,22 @@ export async function uploadToSupabase(userId: string): Promise<void> {
       .upsert(cardRows, { onConflict: "id" });
 
     if (cardError) console.error("Card sync error:", cardError);
+  }
+
+  // Delete server cards that were redeemed (no longer in localStorage)
+  const { data: serverCards } = await supabase
+    .from("cards")
+    .select("id")
+    .eq("user_id", userId);
+
+  if (serverCards && serverCards.length > 0) {
+    const toDelete = serverCards
+      .map((c: { id: string }) => c.id)
+      .filter((id: string) => !localIds.has(id));
+
+    if (toDelete.length > 0) {
+      await supabase.from("cards").delete().in("id", toDelete);
+    }
   }
 }
 
