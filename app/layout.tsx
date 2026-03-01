@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import ServiceWorkerRegister from "@/components/ServiceWorkerRegister";
+import { LanguageProvider } from "@/components/LanguageProvider";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://plizio.com"),
@@ -98,7 +99,9 @@ export default function RootLayout({
         <meta name="mobile-web-app-capable" content="yes" />
       </head>
       <body className="min-h-screen bg-bg antialiased">
-        {children}
+        <LanguageProvider>
+          {children}
+        </LanguageProvider>
         <ServiceWorkerRegister />
       </body>
     </html>

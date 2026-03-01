@@ -9,12 +9,70 @@ import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
-import words from "@/data/words.json";
+import { useLang } from "@/components/LanguageProvider";
+import wordsEn from "@/data/words.json";
+import wordsHu from "@/data/words-hu.json";
+import wordsDe from "@/data/words-de.json";
+import wordsRo from "@/data/words-ro.json";
 
 type GameState = "ready" | "playing" | "correct" | "wrong" | "result" | "reward";
 
 const TOTAL_ROUNDS = 8;
 const TIME_PER_WORD = 15;
+
+const WORD_LISTS: Record<string, string[]> = {
+  en: wordsEn as string[],
+  hu: wordsHu as string[],
+  de: wordsDe as string[],
+  ro: wordsRo as string[],
+};
+
+const T = {
+  en: {
+    title: "WORD SCRAMBLE",
+    subtitle: "Unscramble the letters to find the word!",
+    play: "PLAY",
+    reveal: "REVEAL",
+    delete: "DELETE",
+    gameName: "Word Scramble",
+    revealLetter: "Reveal Letter",
+    extraTime: "Extra Time",
+    activated: "activated!",
+  },
+  hu: {
+    title: "BETŰKEVERŐ",
+    subtitle: "Keverd ki a betűket és találd meg a szót!",
+    play: "JÁTÉK",
+    reveal: "FELFED",
+    delete: "TÖRÖL",
+    gameName: "Betűkeverő",
+    revealLetter: "Betű felfedés",
+    extraTime: "Extra idő",
+    activated: "aktiválva!",
+  },
+  de: {
+    title: "BUCHSTABENSALAT",
+    subtitle: "Entschlüssele die Buchstaben und finde das Wort!",
+    play: "SPIELEN",
+    reveal: "AUFDECKEN",
+    delete: "LÖSCHEN",
+    gameName: "Buchstabensalat",
+    revealLetter: "Buchstabe aufdecken",
+    extraTime: "Extra Zeit",
+    activated: "aktiviert!",
+  },
+  ro: {
+    title: "LITERE AMESTECATE",
+    subtitle: "Descoperă cuvântul din literele amestecate!",
+    play: "JOACĂ",
+    reveal: "DEZVĂLUIE",
+    delete: "ȘTERGE",
+    gameName: "Litere Amestecate",
+    revealLetter: "Dezvăluie literă",
+    extraTime: "Timp suplimentar",
+    activated: "activat!",
+  },
+};
 
 function shuffleWord(word: string): string {
   const arr = word.split("");
@@ -54,6 +112,14 @@ function updateStreak(): number {
 }
 
 export default function WordScramblePage() {
+  const { lang } = useLang();
+  const t = T[lang] ?? T.en;
+  const wordListRef = useRef<string[]>(wordsEn as string[]);
+
+  useEffect(() => {
+    wordListRef.current = WORD_LISTS[lang] ?? (wordsEn as string[]);
+  }, [lang]);
+
   const [gameState, setGameState] = useState<GameState>("ready");
   const [round, setRound] = useState(0);
   const [score, setScore] = useState(0);
@@ -74,7 +140,7 @@ export default function WordScramblePage() {
   useEffect(() => { setStreak(getStreak()); }, []);
 
   const startNewRound = useCallback((roundNum: number, used: string[]) => {
-    const available = words.filter((w) => !used.includes(w));
+    const available = wordListRef.current.filter((w) => !used.includes(w));
     const word = available[Math.floor(Math.random() * available.length)];
     setCurrentWord(word);
     const s = shuffleWord(word);
@@ -116,10 +182,10 @@ export default function WordScramblePage() {
     setHasExtraTime(gotExtraTime);
 
     const msgs: string[] = [];
-    if (gotReveal) msgs.push("Reveal Letter");
-    if (gotExtraTime) msgs.push("Extra Time");
+    if (gotReveal) msgs.push(t.revealLetter);
+    if (gotExtraTime) msgs.push(t.extraTime);
     if (msgs.length > 0) {
-      setShopNotification(msgs.join(" + ") + " activated!");
+      setShopNotification(msgs.join(" + ") + " " + t.activated);
       setTimeout(() => setShopNotification(null), 2500);
     }
 
@@ -137,8 +203,8 @@ export default function WordScramblePage() {
       }, 1500);
       return;
     }
-    const t = setTimeout(() => setTimeLeft((v) => v - 1), 1000);
-    return () => clearTimeout(t);
+    const timer = setTimeout(() => setTimeLeft((v) => v - 1), 1000);
+    return () => clearTimeout(timer);
   }, [gameState, timeLeft]);
 
   const addLetter = (index: number) => {
@@ -149,7 +215,6 @@ export default function WordScramblePage() {
     const newGuess = [...guess, availableLetters[index].letter];
     setGuess(newGuess);
 
-    // Check if word complete
     if (newGuess.length === currentWord.length) {
       const guessWord = newGuess.join("");
       if (guessWord === currentWord) {
@@ -173,7 +238,6 @@ export default function WordScramblePage() {
     if (gameState !== "playing" || guess.length === 0) return;
     const lastLetter = guess[guess.length - 1];
     setGuess(guess.slice(0, -1));
-    // Find last used letter matching and un-use it
     const newAvailable = [...availableLetters];
     for (let i = newAvailable.length - 1; i >= 0; i--) {
       if (newAvailable[i].used && newAvailable[i].letter === lastLetter) {
@@ -184,14 +248,12 @@ export default function WordScramblePage() {
     setAvailableLetters(newAvailable);
   };
 
-  // Shop power-up: Reveal one correct letter at its position
   const useReveal = () => {
     if (!hasReveal || gameState !== "playing") return;
     setHasReveal(false);
     const nextPos = guess.length;
     if (nextPos >= currentWord.length) return;
     const correctLetter = currentWord[nextPos];
-    // Find an available letter matching and use it
     const newAvailable = [...availableLetters];
     for (let i = 0; i < newAvailable.length; i++) {
       if (!newAvailable[i].used && newAvailable[i].letter === correctLetter) {
@@ -203,7 +265,6 @@ export default function WordScramblePage() {
     const newGuess = [...guess, correctLetter];
     setGuess(newGuess);
 
-    // Check if word complete after reveal
     if (newGuess.length === currentWord.length) {
       const guessWord = newGuess.join("");
       if (guessWord === currentWord) {
@@ -217,11 +278,10 @@ export default function WordScramblePage() {
     }
   };
 
-  // Shop power-up: Extra Time (+10 seconds)
   const useExtraTime = () => {
     if (!hasExtraTime || gameState !== "playing") return;
     setHasExtraTime(false);
-    setTimeLeft((t) => t + 10);
+    setTimeLeft((time) => time + 10);
   };
 
   const endGame = (finalScore: number) => {
@@ -265,15 +325,15 @@ export default function WordScramblePage() {
       {gameState === "ready" && (
         <motion.div className="flex flex-col items-center gap-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
           <Shuffle size={48} className="text-emerald-400" style={{ filter: "drop-shadow(0 0 15px rgba(52,211,153,0.5))" }} />
-          <h1 className="text-2xl font-black tracking-wider text-white">WORD SCRAMBLE</h1>
-          <p className="text-white/40 text-sm text-center">Unscramble the letters to find the word!</p>
+          <h1 className="text-2xl font-black tracking-wider text-white">{t.title}</h1>
+          <p className="text-white/40 text-sm text-center">{t.subtitle}</p>
           <motion.button
             onClick={startGame}
             className="bg-emerald-500/20 border border-emerald-500/40 text-emerald-400 font-bold px-8 py-3 rounded-2xl text-sm tracking-wider"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
           >
-            PLAY
+            {t.play}
           </motion.button>
         </motion.div>
       )}
@@ -377,7 +437,7 @@ export default function WordScramblePage() {
                   whileTap={{ scale: 0.95 }}
                 >
                   <Delete size={16} />
-                  DELETE
+                  {t.delete}
                 </motion.button>
               )}
               {hasReveal && (
@@ -390,7 +450,7 @@ export default function WordScramblePage() {
                   animate={{ opacity: 1, scale: 1 }}
                 >
                   <Eye size={14} />
-                  REVEAL
+                  {t.reveal}
                   <span className="text-[8px] bg-[#E040FB]/20 text-[#E040FB] px-1 rounded">SHOP</span>
                 </motion.button>
               )}
@@ -443,7 +503,7 @@ export default function WordScramblePage() {
             score={score}
             total={TOTAL_ROUNDS}
             time={totalTime}
-            gameName="Word Scramble"
+            gameName={t.gameName}
             gameIcon={<Shuffle size={24} className="text-emerald-400" />}
             onPlayAgain={() => { setRound(0); setScore(0); setGameState("ready"); }}
           />
