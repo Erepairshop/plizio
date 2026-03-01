@@ -327,42 +327,52 @@ export default function MathQuestionDisplay({
       ) : (
         <>
           {/* Multiple Choice Options */}
-          <div className="space-y-3 mt-8">
-            {question.options.map((option, idx) => {
-              const isSelected = selectedAnswer !== null && selectedAnswer === option;
-              const isCorrectOption = option === question.correctAnswer;
-              return (
-              <motion.button
-                key={idx}
-                onClick={() => onSelectAnswer(idx)}
-                className={`w-full p-4 rounded-xl border-2 transition-all text-left font-bold text-gray-800 ${
-                  isSelected
-                    ? isCorrect
-                      ? 'border-green-500 bg-green-50'
-                      : 'border-red-500 bg-red-50'
-                    : showResult && isCorrectOption
-                      ? 'border-green-500 bg-green-50/50'
-                      : 'border-gray-200 bg-gray-50 hover:bg-gray-100 hover:border-gray-300'
-                }`}
-                whileHover={{ scale: 1.02 }}
-                whileTap={{ scale: 0.98 }}
-              >
-                <div className="flex items-center gap-3">
-                  <div
-                    className={`w-6 h-6 rounded-full border-2 flex items-center justify-center ${
-                      isSelected
-                        ? 'border-blue-500 bg-blue-500'
-                        : 'border-gray-300'
-                    }`}
-                  >
-                    {isSelected && <div className="w-3 h-3 bg-white rounded-full" />}
+          {(() => {
+            const isCompact = question.options.every(o => typeof o === 'string' && String(o).length <= 3);
+            return (
+            <div className={isCompact ? "flex flex-wrap gap-3 mt-6" : "space-y-3 mt-8"}>
+              {question.options.map((option, idx) => {
+                const isSelected = selectedAnswer !== null && selectedAnswer === option;
+                const isCorrectOption = option === question.correctAnswer;
+
+                // Only show correct/incorrect colors during grading (showResult)
+                const selectedClass = showResult
+                  ? (isCorrect ? 'border-green-500 bg-green-50' : 'border-red-500 bg-red-50')
+                  : 'border-blue-500 bg-blue-50';
+                const correctHighlight = showResult && isCorrectOption
+                  ? 'border-green-500 bg-green-50/50'
+                  : 'border-gray-200 bg-gray-50 hover:bg-gray-100 hover:border-gray-300';
+
+                return (
+                <motion.button
+                  key={idx}
+                  onClick={() => onSelectAnswer(idx)}
+                  className={`${isCompact ? 'flex-1 min-w-[70px] p-3' : 'w-full p-4'} rounded-xl border-2 transition-all text-left font-bold text-gray-800 ${
+                    isSelected ? selectedClass : correctHighlight
+                  }`}
+                  whileHover={{ scale: 1.02 }}
+                  whileTap={{ scale: 0.98 }}
+                >
+                  <div className={`flex items-center ${isCompact ? 'justify-center gap-2' : 'gap-3'}`}>
+                    {!isCompact && (
+                      <div
+                        className={`w-6 h-6 rounded-full border-2 flex items-center justify-center ${
+                          isSelected
+                            ? 'border-blue-500 bg-blue-500'
+                            : 'border-gray-300'
+                        }`}
+                      >
+                        {isSelected && <div className="w-3 h-3 bg-white rounded-full" />}
+                      </div>
+                    )}
+                    <span className={typeof option === 'string' ? (isCompact ? 'text-3xl' : 'text-2xl') : ''}>{option}</span>
                   </div>
-                  <span className={typeof option === 'string' ? 'text-2xl' : ''}>{option}</span>
-                </div>
-              </motion.button>
-              );
-            })}
-          </div>
+                </motion.button>
+                );
+              })}
+            </div>
+            );
+          })()}
         </>
       )}
 
