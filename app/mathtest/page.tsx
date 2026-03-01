@@ -101,6 +101,7 @@ import MathQuestionDisplay from "@/components/MathQuestionDisplay";
 import { DraftProvider } from "@/components/draft";
 import { convertToExtendedQuestion, isVisualQuestion } from "@/lib/mathQuestionUtils";
 import ModernPaperTest from "@/components/ModernPaperTest";
+import GradingPencil from "@/components/GradingPencil";
 import TeacherNote from "@/components/TeacherNote";
 import { getActiveSkin, SKINS } from "@/lib/skins";
 
@@ -511,7 +512,7 @@ export default function MathTestPage() {
     }
 
     if (gradingIndex < questions.length) {
-      const t = setTimeout(() => setGradingIndex((i) => i + 1), 400);
+      const t = setTimeout(() => setGradingIndex((i) => i + 1), 700);
       return () => clearTimeout(t);
     } else {
       // All graded
@@ -1375,6 +1376,11 @@ export default function MathTestPage() {
           </div>
         </div>
         </ModernPaperTest>
+        {/* Realistic pencil cursor during grading */}
+        {isGrading && gradingIndex < questions.length && (
+          <GradingPencil gradingIndex={gradingIndex} total={questions.length} />
+        )}
+
         {/* Teacher note after grading */}
         <TeacherNote
           visible={showTeacherNote}

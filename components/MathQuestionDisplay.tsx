@@ -256,16 +256,56 @@ export default function MathQuestionDisplay({
             }}
           />
 
-          {/* Result Feedback for text input */}
+          {/* Result Feedback for text input – teacher correction style */}
           {showResult && (
             <motion.div
-              className={`mt-2 p-3 rounded-lg border-2 font-bold text-center text-sm ${
-                isCorrect ? 'bg-green-50 border-green-500 text-green-700' : 'bg-red-50 border-red-500 text-red-700'
-              }`}
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
+              className="mt-3 pl-1"
+              initial={{ opacity: 0, y: 4 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.3 }}
             >
-              {isCorrect ? '✅ Richtig!' : '❌ Falsch - Richtige Antwort: ' + question.correctAnswer}
+              {isCorrect ? (
+                <span style={{
+                  fontFamily: "'Caveat', cursive",
+                  fontSize: 24,
+                  color: '#16a34a',
+                  fontWeight: 700,
+                }}>
+                  ✓ Richtig!
+                </span>
+              ) : (
+                <div style={{ display: 'flex', alignItems: 'center', gap: 10, flexWrap: 'wrap' }}>
+                  {/* User's wrong answer – struck through in red */}
+                  <span style={{
+                    fontFamily: 'monospace',
+                    fontSize: 18,
+                    color: '#dc2626',
+                    textDecoration: 'line-through',
+                    textDecorationColor: '#dc2626',
+                    textDecorationThickness: '2px',
+                    opacity: 0.85,
+                  }}>
+                    {selectedAnswer ?? '?'}
+                  </span>
+                  {/* Arrow */}
+                  <span style={{ color: '#dc2626', fontSize: 18, fontWeight: 700 }}>→</span>
+                  {/* Correct answer in handwriting */}
+                  <motion.span
+                    initial={{ opacity: 0, scale: 0.8 }}
+                    animate={{ opacity: 1, scale: 1 }}
+                    transition={{ delay: 0.25, type: 'spring', stiffness: 300 }}
+                    style={{
+                      fontFamily: "'Caveat', cursive",
+                      fontSize: 26,
+                      color: '#dc2626',
+                      fontWeight: 700,
+                      lineHeight: 1,
+                    }}
+                  >
+                    {question.correctAnswer}
+                  </motion.span>
+                </div>
+              )}
             </motion.div>
           )}
         </div>
