@@ -100,7 +100,7 @@ function Character({ mood, skinColor = '#e8c9a0', outfitColor = '#6b8fad', jumpT
     bodyRef.current.position.y = lerp(bodyRef.current.position.y, 0, 0.1);
 
     // ════════════════════════════════════════════════════════
-    // LEGS: Pull up during jump
+    // LEGS: Pull up during jump, reset position to follow group
     // ════════════════════════════════════════════════════════
     if (leftLegRef.current && rightLegRef.current) {
       let legScale = 1;
@@ -110,6 +110,12 @@ function Character({ mood, skinColor = '#e8c9a0', outfitColor = '#6b8fad', jumpT
       }
       leftLegRef.current.scale.y = lerp(leftLegRef.current.scale.y, legScale, 0.15);
       rightLegRef.current.scale.y = lerp(rightLegRef.current.scale.y, legScale, 0.15);
+
+      // Reset leg positions during jump to let group movement take effect
+      if (jumpTimer.current >= 0) {
+        leftLegRef.current.position.y = lerp(leftLegRef.current.position.y, -0.44, 0.15);
+        rightLegRef.current.position.y = lerp(rightLegRef.current.position.y, -0.44, 0.15);
+      }
     }
 
     // Arms rest at slight outward + slight elbow bend (forward rotation)
@@ -513,7 +519,7 @@ export default function AvatarCompanion({
   outfitColor = '#6b8fad',
   fixed = true,
 }: AvatarCompanionProps) {
-  const positionClass = fixed ? 'fixed z-40' : 'relative w-full h-full';
+  const positionClass = fixed ? 'fixed z-50' : 'relative w-full h-full';
   const pointerClass = fixed ? 'pointer-events-auto' : 'pointer-events-auto';
   const [jumpTrigger, setJumpTrigger] = useState<{
     reaction: 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | null;
