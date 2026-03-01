@@ -101,7 +101,7 @@ import MathQuestionDisplay from "@/components/MathQuestionDisplay";
 import { DraftProvider } from "@/components/draft";
 import { convertToExtendedQuestion, isVisualQuestion } from "@/lib/mathQuestionUtils";
 import ModernPaperTest from "@/components/ModernPaperTest";
-import GradingPencil from "@/components/GradingPencil";
+import GradingPencil, { InlineGradingPencil } from "@/components/GradingPencil";
 import TeacherNote from "@/components/TeacherNote";
 import { getActiveSkin, SKINS } from "@/lib/skins";
 
@@ -1316,6 +1316,11 @@ export default function MathTestPage() {
                       testId={`test_${selectedGrade}_${testType}`}
                       questionId={`q_${qi}`}
                     />
+
+                    {/* Inline grading pencil - shows on the question currently being graded */}
+                    {isGrading && qi === gradingIndex && (
+                      <InlineGradingPencil />
+                    )}
 
                     {/* Grading mark */}
                     {isGrading && isGraded && (
