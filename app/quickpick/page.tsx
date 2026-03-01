@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useCallback, useRef } from "react";
+import { useState, useEffect, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Crosshair, Trophy, CheckCircle, XCircle, ArrowUp, Flame, Globe, Music, CircleDot, Sparkles, Gamepad2, MapPin, Share2, Film, X } from "lucide-react";
 import Link from "next/link";
@@ -9,35 +9,149 @@ import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, incrementPerfectScores, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
-import generalData from "@/data/quickpick/general.json";
-import musicData from "@/data/quickpick/music.json";
-import footballData from "@/data/quickpick/football.json";
-import animeData from "@/data/quickpick/anime.json";
-import gamingData from "@/data/quickpick/gaming.json";
-import geographyData from "@/data/quickpick/geography.json";
-import socialData from "@/data/quickpick/social.json";
-import moviesData from "@/data/quickpick/movies.json";
+import { useLang } from "@/components/LanguageProvider";
+import type { Language } from "@/lib/language";
 
-const THEME_DATA: Record<string, Question[]> = {
-  general: generalData as Question[],
-  music: musicData as Question[],
-  football: footballData as Question[],
-  anime: animeData as Question[],
-  gaming: gamingData as Question[],
-  geography: geographyData as Question[],
-  social: socialData as Question[],
-  movies: moviesData as Question[],
+// English versions (default/fallback)
+import generalDataEn from "@/data/quickpick/general.json";
+import musicDataEn from "@/data/quickpick/music.json";
+import footballDataEn from "@/data/quickpick/football.json";
+import animeDataEn from "@/data/quickpick/anime.json";
+import gamingDataEn from "@/data/quickpick/gaming.json";
+import geographyDataEn from "@/data/quickpick/geography.json";
+import socialDataEn from "@/data/quickpick/social.json";
+import moviesDataEn from "@/data/quickpick/movies.json";
+
+// Hungarian versions
+import generalDataHu from "@/data/quickpick/general-hu.json";
+import musicDataHu from "@/data/quickpick/music-hu.json";
+import footballDataHu from "@/data/quickpick/football-hu.json";
+import animeDataHu from "@/data/quickpick/anime-hu.json";
+import gamingDataHu from "@/data/quickpick/gaming-hu.json";
+import geographyDataHu from "@/data/quickpick/geography-hu.json";
+import socialDataHu from "@/data/quickpick/social-hu.json";
+import moviesDataHu from "@/data/quickpick/movies-hu.json";
+
+// Function to get theme data by language
+const getThemeDataByLanguage = (lang: Language): Record<string, Question[]> => {
+  const langMap: Record<Language, Record<string, Question[]>> = {
+    en: {
+      general: generalDataEn as Question[],
+      music: musicDataEn as Question[],
+      football: footballDataEn as Question[],
+      anime: animeDataEn as Question[],
+      gaming: gamingDataEn as Question[],
+      geography: geographyDataEn as Question[],
+      social: socialDataEn as Question[],
+      movies: moviesDataEn as Question[],
+    },
+    hu: {
+      general: generalDataHu as Question[],
+      music: musicDataHu as Question[],
+      football: footballDataHu as Question[],
+      anime: animeDataHu as Question[],
+      gaming: gamingDataHu as Question[],
+      geography: geographyDataHu as Question[],
+      social: socialDataHu as Question[],
+      movies: moviesDataHu as Question[],
+    },
+    de: {
+      general: generalDataEn as Question[],
+      music: musicDataEn as Question[],
+      football: footballDataEn as Question[],
+      anime: animeDataEn as Question[],
+      gaming: gamingDataEn as Question[],
+      geography: geographyDataEn as Question[],
+      social: socialDataEn as Question[],
+      movies: moviesDataEn as Question[],
+    },
+    ro: {
+      general: generalDataEn as Question[],
+      music: musicDataEn as Question[],
+      football: footballDataEn as Question[],
+      anime: animeDataEn as Question[],
+      gaming: gamingDataEn as Question[],
+      geography: geographyDataEn as Question[],
+      social: socialDataEn as Question[],
+      movies: moviesDataEn as Question[],
+    },
+  };
+
+  return langMap[lang] || langMap.en;
+};
+
+const TRANSLATIONS = {
+  en: {
+    themeLabels: {
+      general: "GEN",
+      music: "MUSIC",
+      football: "GOAL",
+      anime: "ANIME",
+      gaming: "GAME",
+      geography: "GEO",
+      social: "SOCIAL",
+      movies: "FILM",
+    },
+    tap: "TAP",
+    vs: "VS",
+    gameName: "Quick Pick",
+  },
+  hu: {
+    themeLabels: {
+      general: "ÁLTALÁNOS",
+      music: "ZENE",
+      football: "LABDA",
+      anime: "ANIME",
+      gaming: "JÁTÉK",
+      geography: "FÖLD",
+      social: "KÖZÖSSÉG",
+      movies: "FILM",
+    },
+    tap: "ÉRINT",
+    vs: "VS",
+    gameName: "Gyors Választás",
+  },
+  de: {
+    themeLabels: {
+      general: "ALLG",
+      music: "MUSIK",
+      football: "BALL",
+      anime: "ANIME",
+      gaming: "SPIEL",
+      geography: "GEO",
+      social: "SOZIAL",
+      movies: "FILM",
+    },
+    tap: "BERÜHR",
+    vs: "VS",
+    gameName: "Schnelle Wahl",
+  },
+  ro: {
+    themeLabels: {
+      general: "GENERAL",
+      music: "MUZICĂ",
+      football: "MINGE",
+      anime: "ANIME",
+      gaming: "JOC",
+      geography: "GEOGRAFIE",
+      social: "SOCIAL",
+      movies: "FILM",
+    },
+    tap: "APASĂ",
+    vs: "VS",
+    gameName: "Alegere Rapidă",
+  },
 };
 
 const THEMES = [
-  { id: "general", icon: Globe, label: "GEN", color: "#00D4FF" },
-  { id: "music", icon: Music, label: "MUSIC", color: "#FF2D78" },
-  { id: "football", icon: CircleDot, label: "GOAL", color: "#00FF88" },
-  { id: "anime", icon: Sparkles, label: "ANIME", color: "#FFD700" },
-  { id: "gaming", icon: Gamepad2, label: "GAME", color: "#8B5CF6" },
-  { id: "geography", icon: MapPin, label: "GEO", color: "#06B6D4" },
-  { id: "social", icon: Share2, label: "SOCIAL", color: "#F97316" },
-  { id: "movies", icon: Film, label: "FILM", color: "#EF4444" },
+  { id: "general", icon: Globe, color: "#00D4FF" },
+  { id: "music", icon: Music, color: "#FF2D78" },
+  { id: "football", icon: CircleDot, color: "#00FF88" },
+  { id: "anime", icon: Sparkles, color: "#FFD700" },
+  { id: "gaming", icon: Gamepad2, color: "#8B5CF6" },
+  { id: "geography", icon: MapPin, color: "#06B6D4" },
+  { id: "social", icon: Share2, color: "#F97316" },
+  { id: "movies", icon: Film, color: "#EF4444" },
 ];
 
 interface Question {
@@ -113,6 +227,12 @@ function updateStreak(): number {
 const TOTAL_ROUNDS = 10;
 
 export default function QuickPickPage() {
+  const { lang } = useLang();
+  const t = TRANSLATIONS[lang] ?? TRANSLATIONS.en;
+
+  // Get language-specific theme data
+  const THEME_DATA = useMemo(() => getThemeDataByLanguage(lang), [lang]);
+
   const [gameState, setGameState] = useState<GameState>("theme-select");
   const [selectedTheme, setSelectedTheme] = useState("general");
   const [countdown, setCountdown] = useState(3);
@@ -290,7 +410,7 @@ export default function QuickPickPage() {
                 >
                   <Icon size={24} style={{ color: theme.color, filter: `drop-shadow(0 0 6px ${theme.color}40)` }} />
                   <span className="text-[9px] font-bold tracking-wider" style={{ color: theme.color }}>
-                    {theme.label}
+                    {t.themeLabels[theme.id as keyof typeof t.themeLabels]}
                   </span>
                 </motion.button>
               );
@@ -449,7 +569,7 @@ export default function QuickPickPage() {
                 animate={{ opacity: [0.15, 0.3, 0.15] }}
                 transition={{ repeat: Infinity, duration: 2 }}
               >
-                TAP
+                {t.tap}
               </motion.div>
             )}
 
@@ -476,7 +596,7 @@ export default function QuickPickPage() {
               animate={{ scale: [1, 1.05, 1] }}
               transition={{ repeat: Infinity, duration: 2 }}
             >
-              <span className="text-xs font-black text-white/30">VS</span>
+              <span className="text-xs font-black text-white/30">{t.vs}</span>
             </motion.div>
           </div>
 
@@ -576,7 +696,7 @@ export default function QuickPickPage() {
             score={score}
             total={TOTAL_ROUNDS}
             time={totalTime}
-            gameName="Quick Pick"
+            gameName={t.gameName}
             gameIcon={<Crosshair size={24} className="text-neon-pink" />}
             onPlayAgain={handlePlayAgain}
           />

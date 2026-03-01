@@ -16,6 +16,7 @@ import { syncToSupabase } from "@/lib/sync";
 import AuthModal from "@/components/AuthModal";
 import UsernameModal from "@/components/UsernameModal";
 import { getUsername, hasUsername } from "@/lib/username";
+import { useLang } from "@/components/LanguageProvider";
 
 interface GameDef {
   id: string;
@@ -25,106 +26,256 @@ interface GameDef {
   gradient: string;
 }
 
+interface GameDefBase {
+  id: string;
+  icon: LucideIcon;
+  nameKey: string;
+  color: string;
+  gradient: string;
+}
+
+interface CategoryDefBase {
+  id: string;
+  icon: LucideIcon;
+  color: string;
+  games: GameDefBase[];
+}
+
 interface CategoryDef {
+  id: string;
   label: string;
   icon: LucideIcon;
   color: string;
   games: GameDef[];
 }
 
-const CATEGORIES: CategoryDef[] = [
+const TRANSLATIONS = {
+  en: {
+    categories: {
+      "QUIZ & REFLEX": "QUIZ & REFLEX",
+      "ADVENTURE": "ADVENTURE",
+      "BRAIN": "BRAIN",
+    },
+    games: {
+      quickpick: "Quick Pick",
+      reflexgrid: "Reflex Grid",
+      memoryflash: "Memory Flash",
+      spotdiff: "Spot Diff",
+      numberrush: "Number Rush",
+      wordscramble: "Word Scramble",
+      milliomos: "Milliomos",
+      skyclimb: "Sky Climb",
+      citydrive: "City Drive",
+      mathtest: "Math Test",
+      racetrack: "Racetrack",
+    },
+    ui: {
+      comingSoon: "COMING SOON",
+    },
+  },
+  hu: {
+    categories: {
+      "QUIZ & REFLEX": "KVÍZ & REFLEX",
+      "ADVENTURE": "KALAND",
+      "BRAIN": "AGYTRÖSZT",
+    },
+    games: {
+      quickpick: "Gyors Választás",
+      reflexgrid: "Reflex Rács",
+      memoryflash: "Memória Flash",
+      spotdiff: "Különbség Megtalálása",
+      numberrush: "Számsietés",
+      wordscramble: "Betűkeverő",
+      milliomos: "Milliomos",
+      skyclimb: "Égbolt Mászás",
+      citydrive: "Város Vezetés",
+      mathtest: "Matematika Teszt",
+      racetrack: "Pályaverseny",
+    },
+    ui: {
+      comingSoon: "HAMAROSAN",
+    },
+  },
+  de: {
+    categories: {
+      "QUIZ & REFLEX": "QUIZ & REFLEX",
+      "ADVENTURE": "ABENTEUER",
+      "BRAIN": "GEHIRN",
+    },
+    games: {
+      quickpick: "Schnelle Wahl",
+      reflexgrid: "Reflex Gitter",
+      memoryflash: "Speicherblitz",
+      spotdiff: "Unterschied Erkennen",
+      numberrush: "Zahlenrausch",
+      wordscramble: "Buchstabensalat",
+      milliomos: "Milliomos",
+      skyclimb: "Himmelsklettern",
+      citydrive: "Stadtfahrt",
+      mathtest: "Mathematiktest",
+      racetrack: "Rennstrecke",
+    },
+    ui: {
+      comingSoon: "BALD VERFÜGBAR",
+    },
+  },
+  ro: {
+    categories: {
+      "QUIZ & REFLEX": "QUIZ & REFLEX",
+      "ADVENTURE": "AVENTURĂ",
+      "BRAIN": "CREIER",
+    },
+    games: {
+      quickpick: "Alegere Rapidă",
+      reflexgrid: "Rețea Reflex",
+      memoryflash: "Fulger de Memorie",
+      spotdiff: "Găsește Diferența",
+      numberrush: "Goană Numerică",
+      wordscramble: "Litere Amestecate",
+      milliomos: "Milliomos",
+      skyclimb: "Cățărare pe Cer",
+      citydrive: "Conducere în Oraș",
+      mathtest: "Test de Matematică",
+      racetrack: "Circuit de curse",
+    },
+    ui: {
+      comingSoon: "CÂT CURÂND",
+    },
+  },
+};
+
+const CATEGORIES_BASE: CategoryDefBase[] = [
   {
-    label: "QUIZ & REFLEX",
+    id: "quizreflex",
     icon: Zap,
     color: "#00D4FF",
     games: [
       {
         id: "quickpick",
         icon: Crosshair,
-        name: "Quick Pick",
+        nameKey: "quickpick",
         color: "#FF2D78",
         gradient: "bg-gradient-to-br from-pink-500/20 to-rose-500/20",
       },
       {
         id: "reflexgrid",
         icon: Zap,
-        name: "Reflex Grid",
+        nameKey: "reflexgrid",
         color: "#00D4FF",
         gradient: "bg-gradient-to-br from-cyan-500/20 to-blue-500/20",
       },
       {
         id: "memoryflash",
         icon: Brain,
-        name: "Memory Flash",
+        nameKey: "memoryflash",
         color: "#B44DFF",
         gradient: "bg-gradient-to-br from-purple-500/20 to-violet-500/20",
       },
       {
         id: "spotdiff",
         icon: Search,
-        name: "Spot Diff",
+        nameKey: "spotdiff",
         color: "#F59E0B",
         gradient: "bg-gradient-to-br from-amber-500/20 to-yellow-500/20",
       },
       {
         id: "numberrush",
         icon: Hash,
-        name: "Number Rush",
+        nameKey: "numberrush",
         color: "#22D3EE",
         gradient: "bg-gradient-to-br from-cyan-500/20 to-sky-500/20",
       },
       {
         id: "wordscramble",
         icon: Shuffle,
-        name: "Word Scramble",
+        nameKey: "wordscramble",
         color: "#34D399",
         gradient: "bg-gradient-to-br from-emerald-500/20 to-teal-500/20",
       },
       {
         id: "milliomos",
         icon: Crown,
-        name: "Milliomos",
+        nameKey: "milliomos",
         color: "#FFD700",
         gradient: "bg-gradient-to-br from-yellow-500/20 to-amber-500/20",
       },
     ],
   },
   {
-    label: "ADVENTURE",
+    id: "adventure",
     icon: Mountain,
     color: "#00FF88",
     games: [
       {
         id: "skyclimb",
         icon: Mountain,
-        name: "Sky Climb",
+        nameKey: "skyclimb",
         color: "#00FF88",
         gradient: "bg-gradient-to-br from-green-500/20 to-emerald-500/20",
       },
       {
         id: "citydrive",
         icon: Car,
-        name: "City Drive",
+        nameKey: "citydrive",
         color: "#FF6B00",
         gradient: "bg-gradient-to-br from-orange-500/20 to-red-500/20",
       },
     ],
   },
   {
-    label: "LEARNING",
-    icon: BookOpen,
+    id: "brain",
+    icon: Brain,
     color: "#FFD700",
     games: [
       {
         id: "mathtest",
         icon: Calculator,
-        name: "Math Test",
+        nameKey: "mathtest",
         color: "#FFD700",
         gradient: "bg-gradient-to-br from-yellow-500/20 to-amber-500/20",
+      },
+      {
+        id: "racetrack",
+        icon: Car,
+        nameKey: "racetrack",
+        color: "#FF6B00",
+        gradient: "bg-gradient-to-br from-orange-500/20 to-red-500/20",
       },
     ],
   },
 ];
+
+function getCategoriesWithTranslations(lang: string): CategoryDef[] {
+  // Type guard for translations
+  const validLangs = ['en', 'hu', 'de', 'ro'] as const;
+  const currentLang = validLangs.includes(lang as any) ? (lang as typeof validLangs[number]) : 'en';
+  const t = TRANSLATIONS[lang as keyof typeof TRANSLATIONS] || TRANSLATIONS.en;
+
+  const categoryKeys: Array<"quizreflex" | "adventure" | "brain"> = ["quizreflex", "adventure", "brain"];
+  const categoryLabels: Record<"quizreflex" | "adventure" | "brain", keyof typeof t.categories> = {
+    quizreflex: "QUIZ & REFLEX",
+    adventure: "ADVENTURE",
+    brain: "BRAIN",
+  };
+
+  return CATEGORIES_BASE.map((cat, idx) => {
+    const catKey = categoryKeys[idx];
+    const labelKey = categoryLabels[catKey];
+
+    return {
+      ...cat,
+      label: t.categories[labelKey],
+      games: cat.games.map(game => ({
+        id: game.id,
+        icon: game.icon,
+        nameKey: game.nameKey,
+        name: t.games[game.nameKey as keyof typeof t.games] || "Unknown",
+        color: game.color,
+        gradient: game.gradient,
+      })) as any,
+    } as CategoryDef;
+  });
+}
 
 function getStreak(): number {
   if (typeof window === "undefined") return 0;
@@ -140,6 +291,7 @@ function getStreak(): number {
 
 export default function Home() {
   const router = useRouter();
+  const { lang } = useLang();
   const [streak, setStreak] = useState(0);
   const [cardCount, setCardCount] = useState(0);
   const [specialCount, setSpecialCount] = useState(0);
@@ -147,11 +299,21 @@ export default function Home() {
   const [showUsernameModal, setShowUsernameModal] = useState(false);
   const [username, setUsernameState] = useState<string | null>(null);
   const [isLoggedIn, setIsLoggedIn] = useState(false);
-  const [openCategories, setOpenCategories] = useState<Record<string, boolean>>({
-    "QUIZ & REFLEX": false,
-    "ADVENTURE": false,
-    "LEARNING": false,
-  });
+  const [categories, setCategories] = useState<CategoryDef[]>([]);
+  const [openCategories, setOpenCategories] = useState<Record<string, boolean>>({});
+
+  useEffect(() => {
+    // Initialize categories with translations
+    const translatedCategories = getCategoriesWithTranslations(lang);
+    setCategories(translatedCategories);
+
+    // Initialize open/closed state for all categories
+    const initialOpenState: Record<string, boolean> = {};
+    translatedCategories.forEach((cat) => {
+      initialOpenState[cat.label] = true;
+    });
+    setOpenCategories(initialOpenState);
+  }, [lang]);
 
   useEffect(() => {
     setStreak(getStreak());
@@ -247,7 +409,7 @@ export default function Home() {
 
       {/* Categories */}
       <div className="flex flex-col items-center gap-6 w-full max-w-md px-2">
-        {CATEGORIES.map((cat, ci) => {
+        {categories.map((cat, ci) => {
           const CatIcon = cat.icon;
           const isOpen = openCategories[cat.label] ?? true;
           const isEmpty = cat.games.length === 0;
@@ -291,7 +453,7 @@ export default function Home() {
                       <div className="flex flex-col items-center gap-2 py-4">
                         <CatIcon size={24} style={{ color: `${cat.color}30` }} />
                         <span className="text-[10px] font-bold tracking-wider" style={{ color: `${cat.color}40` }}>
-                          COMING SOON
+                          {TRANSLATIONS[lang as keyof typeof TRANSLATIONS]?.ui?.comingSoon || "COMING SOON"}
                         </span>
                       </div>
                     ) : (
