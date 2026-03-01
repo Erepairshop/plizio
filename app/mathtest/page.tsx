@@ -1359,7 +1359,7 @@ export default function MathTestPage() {
                   whileHover={answers.some((a) => a !== null) ? { scale: 1.05, boxShadow: "0 0 20px rgba(37, 99, 235, 0.5)" } : {}}
                   whileTap={answers.some((a) => a !== null) ? { scale: 0.95 } : {}}
                 >
-                  Beküldes
+                  Absenden
                 </motion.button>
               </motion.div>
             )}

@@ -186,7 +186,7 @@ function FreeDraftCanvas({
       {/* Header */}
       <div className="flex items-center justify-between mb-2">
         <span className="text-[10px] font-bold text-gray-400 uppercase tracking-wider">
-          Szabad
+          Freihand
         </span>
         <div className="flex items-center gap-1">
           <button

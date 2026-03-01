@@ -20,10 +20,10 @@ interface DraftPanelProps {
 // ─── TAB DEFINITIONS ─────────────────────────────────────────
 
 const TABS: { type: DraftType; label: string; shortLabel: string; icon: React.ReactNode }[] = [
-  { type: "column", label: "Oszlopos", shortLabel: "+/-", icon: <Grid3X3 size={14} /> },
-  { type: "multiplication", label: "Szorzás", shortLabel: "×", icon: <Multiply size={14} /> },
-  { type: "division", label: "Osztás", shortLabel: "÷", icon: <Divide size={14} /> },
-  { type: "free", label: "Szabad", shortLabel: "Raj.", icon: <PenTool size={14} /> },
+  { type: "column", label: "Spalten", shortLabel: "+/-", icon: <Grid3X3 size={14} /> },
+  { type: "multiplication", label: "Multiplikation", shortLabel: "×", icon: <Multiply size={14} /> },
+  { type: "division", label: "Division", shortLabel: "÷", icon: <Divide size={14} /> },
+  { type: "free", label: "Freihand", shortLabel: "Skizze", icon: <PenTool size={14} /> },
 ];
 
 // ─── MAIN COMPONENT ─────────────────────────────────────────
