@@ -38,6 +38,8 @@ interface MathQuestionDisplayProps {
   onSelectAnswer: (optionIndex: number) => void;
   showResult?: boolean;
   isCorrect?: boolean;
+  useTextInput?: boolean;
+  onTextAnswer?: (answer: string) => void;
 }
 
 // SVG Geometry: Rect with dimensions
@@ -153,8 +155,11 @@ export default function MathQuestionDisplay({
   onSelectAnswer,
   showResult = false,
   isCorrect = false,
+  useTextInput = false,
+  onTextAnswer,
 }: MathQuestionDisplayProps) {
   const [scratchpadOpen, setScratchpadOpen] = useState(false);
+  const [textAnswer, setTextAnswer] = useState('');
 
   // Always show scratchpad button for all questions
   const needsScratchpad = true;
@@ -215,42 +220,86 @@ export default function MathQuestionDisplay({
         </div>
       )}
 
-      {/* Multiple Choice Options */}
-      <div className="space-y-3 mt-8">
-        {question.options.map((option, idx) => (
-          <motion.button
-            key={idx}
-            onClick={() => onSelectAnswer(idx)}
-            className={`w-full p-4 rounded-xl border-2 transition-all text-left font-bold text-white ${
-              selectedAnswer === idx
-                ? isCorrect
-                  ? 'border-green-500 bg-green-500/20'
-                  : 'border-red-500 bg-red-500/20'
-                : showResult && idx === question.correctAnswer
-                  ? 'border-green-500 bg-green-500/10'
-                  : 'border-white/20 bg-white/5 hover:bg-white/10 hover:border-white/40'
-            }`}
-            whileHover={{ scale: 1.02 }}
-            whileTap={{ scale: 0.98 }}
-          >
-            <div className="flex items-center gap-3">
-              <div
-                className={`w-6 h-6 rounded-full border-2 flex items-center justify-center ${
+      {/* Answer Input */}
+      {useTextInput ? (
+        <div className="space-y-3 mt-8">
+          <div className="flex gap-2">
+            <input
+              type="number"
+              value={textAnswer}
+              onChange={(e) => setTextAnswer(e.target.value)}
+              placeholder="Add meg a választ..."
+              className="flex-1 px-4 py-3 rounded-xl bg-white/10 border-2 border-white/20 text-white placeholder-white/40 focus:border-blue-500 focus:bg-white/15 outline-none transition-all font-bold text-lg"
+            />
+            <motion.button
+              onClick={() => {
+                if (textAnswer && onTextAnswer) {
+                  onTextAnswer(textAnswer);
+                  setTextAnswer('');
+                }
+              }}
+              className="px-6 py-3 rounded-xl bg-blue-500 hover:bg-blue-600 border-2 border-blue-400 text-white font-bold transition-all disabled:opacity-50"
+              disabled={!textAnswer}
+              whileHover={{ scale: textAnswer ? 1.05 : 1 }}
+              whileTap={{ scale: 0.95 }}
+            >
+              Küld
+            </motion.button>
+          </div>
+
+          {/* Result Feedback for text input */}
+          {showResult && (
+            <motion.div
+              className={`p-4 rounded-lg border-2 text-white font-bold text-center ${
+                isCorrect ? 'bg-green-500/20 border-green-500' : 'bg-red-500/20 border-red-500'
+              }`}
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+            >
+              {isCorrect ? '✅ Helyes!' : '❌ Hibás - A helyes válasz: ' + question.correctAnswer}
+            </motion.div>
+          )}
+        </div>
+      ) : (
+        <>
+          {/* Multiple Choice Options */}
+          <div className="space-y-3 mt-8">
+            {question.options.map((option, idx) => (
+              <motion.button
+                key={idx}
+                onClick={() => onSelectAnswer(idx)}
+                className={`w-full p-4 rounded-xl border-2 transition-all text-left font-bold text-white ${
                   selectedAnswer === idx
-                    ? 'border-white bg-white'
-                    : 'border-white/50'
+                    ? isCorrect
+                      ? 'border-green-500 bg-green-500/20'
+                      : 'border-red-500 bg-red-500/20'
+                    : showResult && idx === question.correctAnswer
+                      ? 'border-green-500 bg-green-500/10'
+                      : 'border-white/20 bg-white/5 hover:bg-white/10 hover:border-white/40'
                 }`}
+                whileHover={{ scale: 1.02 }}
+                whileTap={{ scale: 0.98 }}
               >
-                {selectedAnswer === idx && <div className="w-3 h-3 bg-slate-900 rounded-full" />}
-              </div>
-              <span>{option}</span>
-            </div>
-          </motion.button>
-        ))}
-      </div>
+                <div className="flex items-center gap-3">
+                  <div
+                    className={`w-6 h-6 rounded-full border-2 flex items-center justify-center ${
+                      selectedAnswer === idx
+                        ? 'border-white bg-white'
+                        : 'border-white/50'
+                    }`}
+                  >
+                    {selectedAnswer === idx && <div className="w-3 h-3 bg-slate-900 rounded-full" />}
+                  </div>
+                  <span>{option}</span>
+                </div>
+              </motion.button>
+            ))}
+          </div>
+        </>
+      )}
 
         {/* Result Feedback */}
-        {showResult && (
+        {showResult && !useTextInput && (
           <motion.div
             className={`mt-6 p-4 rounded-lg border-2 text-white font-bold text-center ${
               isCorrect ? 'bg-green-500/20 border-green-500' : 'bg-red-500/20 border-red-500'

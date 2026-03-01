@@ -1245,6 +1245,13 @@ export default function MathTestPage() {
                       onSelectAnswer={(optIdx) => !isGrading && handleAnswer(qi, question.options[optIdx])}
                       showResult={isGrading && isGraded}
                       isCorrect={isCorrect}
+                      useTextInput={true}
+                      onTextAnswer={(textAnswer) => {
+                        const numAnswer = parseInt(textAnswer);
+                        if (!isNaN(numAnswer)) {
+                          handleAnswer(qi, numAnswer);
+                        }
+                      }}
                     />
 
                     {/* Grading mark */}
