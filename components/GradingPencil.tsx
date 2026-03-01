@@ -61,7 +61,7 @@ export default function GradingPencil({ gradingIndex, total }: GradingPencilProp
 }
 
 // Inline pencil that renders INSIDE the question being graded
-export function InlineGradingPencil() {
+export function InlineGradingPencil({ label = 'Korrektur...' }: { label?: string }) {
   const [writing, setWriting] = useState(false);
 
   useEffect(() => {
@@ -95,7 +95,7 @@ export function InlineGradingPencil() {
         animate={{ opacity: [0, 1, 0.6, 1] }}
         transition={{ duration: 1.5, repeat: Infinity }}
       >
-        ✍️ Javítás...
+        ✍️ {label}
       </motion.span>
     </motion.div>
   );

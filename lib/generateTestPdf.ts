@@ -4,313 +4,386 @@ import jsPDF from "jspdf";
 import type { GradeResult, KlassenarbeitResult, MathQuestion, SectionResult } from "./mathCurriculum";
 
 interface PdfTestData {
-  // Test info
-  gradeLevel: string; // e.g. "3. Klasse"
+  gradeLevel: string;
   testType: "practice" | "klassenarbeit";
   date: string;
-  elapsedTime: number; // seconds
-
-  // Questions & answers
+  elapsedTime: number;
   questions: MathQuestion[];
   answers: (number | string | null)[];
-
-  // Results
   gradeResult: GradeResult;
   klassenarbeitResult?: KlassenarbeitResult;
+  studentName?: string;
 }
 
-// Teacher comments based on performance
-function getTeacherComment(percentage: number): string {
-  if (percentage >= 95)
-    return "Hervorragende Leistung! Du hast das Thema ausgezeichnet verstanden. Weiter so!";
-  if (percentage >= 85)
-    return "Sehr gute Arbeit! Nur kleine Fehler. Du bist auf einem tollen Weg!";
-  if (percentage >= 75)
-    return "Gute Leistung! Einige Aufgaben waren noch schwierig, aber du machst Fortschritte.";
-  if (percentage >= 60)
-    return "Befriedigende Leistung. Übe die markierten Aufgaben nochmals, dann wird es besser!";
-  if (percentage >= 45)
-    return "Es gibt noch Übungsbedarf. Bitte wiederhole die Grundlagen und übe regelmäßig.";
-  return "Bitte übe diese Themen intensiv nach. Frag um Hilfe, wenn du etwas nicht verstehst!";
+// Note value from percentage
+function getNoteValue(pct: number): number {
+  if (pct >= 90) return 1;
+  if (pct >= 80) return 2;
+  if (pct >= 65) return 3;
+  if (pct >= 50) return 4;
+  if (pct >= 30) return 5;
+  return 6;
+}
+function getNoteLabel(note: number): string {
+  return ['', 'Sehr gut', 'Gut', 'Befriedigend', 'Ausreichend', 'Mangelhaft', 'Ungenügend'][note] || '';
+}
+function getNoteColorRGB(note: number): [number, number, number] {
+  const map: Record<number, [number, number, number]> = {
+    1: [22, 163, 74],
+    2: [37, 99, 235],
+    3: [217, 119, 6],
+    4: [234, 88, 12],
+    5: [220, 38, 38],
+    6: [124, 58, 237],
+  };
+  return map[note] ?? [100, 100, 100];
 }
 
-export function generateTestPdf(data: PdfTestData): void {
+// Teacher messages (same pool as TeacherNote.tsx)
+const excellentMsgs = [
+  (n: string) => `Bravo, ${n}! Ausgezeichnet!`,
+  (n: string) => `${n}, du bist ein Mathegenie!`,
+  (n: string) => `Wunderbar, ${n}! Ich bin so stolz!`,
+  (n: string) => `Fantastisch, ${n}! Weiter so!`,
+  (n: string) => `Super gemacht, ${n}! Top-Leistung!`,
+  (n: string) => `Klasse, ${n}! Du hast alles drauf!`,
+  (n: string) => `Sehr gut, ${n}! Eine echte Spitzenleistung!`,
+];
+const goodMsgs = [
+  (n: string) => `Gut gemacht, ${n}! Üb weiter!`,
+  (n: string) => `${n}, du bist auf dem richtigen Weg!`,
+  (n: string) => `Nicht schlecht, ${n}! Du kannst noch mehr!`,
+  (n: string) => `Weiter so, ${n}! Du wirst immer besser!`,
+  (n: string) => `Prima, ${n}! Ich glaube an dich!`,
+  (n: string) => `Ordentlich, ${n}! Ein bisschen mehr üben!`,
+  (n: string) => `Brav gemacht, ${n}! Du schaffst es!`,
+];
+const improveMsgs = [
+  (n: string) => `Üb weiter, ${n}! Du schaffst das!`,
+  (n: string) => `Nicht aufgeben, ${n}! Jeder lernt!`,
+  (n: string) => `${n}, versuche es nochmal! Ich glaube an dich!`,
+  (n: string) => `Kopf hoch, ${n}! Beim naechsten Mal klappt es!`,
+  (n: string) => `${n}, ueben macht den Meister! Weiter so!`,
+  (n: string) => `Kein Problem, ${n}! Wir ueben zusammen!`,
+  (n: string) => `${n}, du gibst nicht auf! Das ist toll!`,
+];
+
+function getTeacherMessage(pct: number, name: string): string {
+  const seed = Math.floor(Date.now() / 10000) % 7;
+  if (pct >= 85) return excellentMsgs[seed](name);
+  if (pct >= 55) return goodMsgs[seed](name);
+  return improveMsgs[seed](name);
+}
+
+export function generateTestPdf(data: PdfTestData & { studentName?: string }): void {
   const doc = new jsPDF({ orientation: "portrait", unit: "mm", format: "a4" });
   const pageW = 210;
-  const marginL = 18;
-  const marginR = 18;
+  const pageH = 297;
+  const marginL = 22; // left margin (space for the red line)
+  const marginR = 16;
   const contentW = pageW - marginL - marginR;
-  let y = 15;
+  let y = 0;
 
-  // Colors
-  const red = [220, 38, 38] as const;
-  const green = [22, 163, 74] as const;
-  const darkGray = [30, 41, 59] as const;
-  const lightGray = [148, 163, 184] as const;
-  const blue = [59, 130, 246] as const;
+  // ── Helpers ──────────────────────────────────────────────────────────
+  const newPage = () => {
+    drawPageDecoration();
+    doc.addPage();
+    y = 28;
+    drawPageDecoration();
+  };
 
-  // ─── HEADER ────────────────────────────────────────────────
-  // Top border line
-  doc.setDrawColor(...blue);
-  doc.setLineWidth(1.2);
-  doc.line(marginL, y, pageW - marginR, y);
-  y += 8;
+  const checkPageBreak = (needed = 12) => {
+    if (y + needed > pageH - 20) newPage();
+  };
 
-  // Title
+  // Draw the paper background decoration (grid + red margin line)
+  const drawPageDecoration = () => {
+    // Cream paper background
+    doc.setFillColor(255, 253, 240);
+    doc.rect(0, 0, pageW, pageH, "F");
+
+    // Fine grid lines (like notebook paper)
+    doc.setDrawColor(190, 205, 220);
+    doc.setLineWidth(0.15);
+    // Horizontal lines every 7mm
+    for (let gy = 25; gy < pageH; gy += 7) {
+      doc.line(marginL - 4, gy, pageW - 8, gy);
+    }
+    // Red margin line
+    doc.setDrawColor(220, 100, 100);
+    doc.setLineWidth(0.6);
+    doc.line(marginL - 4, 10, marginL - 4, pageH - 10);
+  };
+
+  // ── Start first page ─────────────────────────────────────────────────
+  drawPageDecoration();
+  y = 14;
+
+  // ── HEADER (blue bar at top) ──────────────────────────────────────────
+  doc.setFillColor(37, 99, 235);
+  doc.rect(0, 0, pageW, 12, "F");
+
+  // Title in header bar
   doc.setFont("helvetica", "bold");
-  doc.setFontSize(20);
-  doc.setTextColor(...darkGray);
-  const title =
-    data.testType === "klassenarbeit"
-      ? "Klassenarbeit - Mathematik"
-      : "Mathe-Übungstest";
-  doc.text(title, pageW / 2, y, { align: "center" });
-  y += 8;
+  doc.setFontSize(9);
+  doc.setTextColor(255, 255, 255);
+  const title = data.testType === "klassenarbeit" ? "KLASSENARBEIT — MATHEMATIK" : "MATHE-ÜBUNGSTEST";
+  doc.text(title, marginL - 2, 8);
 
-  // Subtitle
+  // Grade level right-aligned in header
   doc.setFont("helvetica", "normal");
-  doc.setFontSize(11);
-  doc.setTextColor(...lightGray);
-  doc.text(data.gradeLevel, pageW / 2, y, { align: "center" });
-  y += 7;
+  doc.setFontSize(8);
+  doc.text(data.gradeLevel, pageW - marginR, 8, { align: "right" });
 
-  // Date + time row
-  doc.setFontSize(10);
-  doc.text(`Datum: ${data.date}`, marginL, y);
+  y = 18;
+
+  // ── STUDENT INFO ROW ──────────────────────────────────────────────────
+  doc.setFont("helvetica", "bold");
+  doc.setFontSize(13);
+  doc.setTextColor(15, 23, 42);
+  const displayName = data.studentName || "Schüler";
+  doc.text(displayName, marginL, y);
+
+  // Date right-aligned
+  doc.setFont("helvetica", "normal");
+  doc.setFontSize(9);
+  doc.setTextColor(100, 116, 139);
   const mins = Math.floor(data.elapsedTime / 60);
   const secs = data.elapsedTime % 60;
-  doc.text(
-    `Zeit: ${mins}:${secs.toString().padStart(2, "0")} Min.`,
-    pageW - marginR,
-    y,
-    { align: "right" }
-  );
-  y += 4;
+  doc.text(`${data.date}  ·  ${mins}:${secs.toString().padStart(2, "0")} Min.`, pageW - marginR, y, { align: "right" });
 
-  // Bottom border
-  doc.setDrawColor(...blue);
-  doc.setLineWidth(0.5);
-  doc.line(marginL, y, pageW - marginR, y);
+  y += 5;
+
+  // Thin separator below student info
+  doc.setDrawColor(200, 210, 220);
+  doc.setLineWidth(0.4);
+  doc.line(marginL - 2, y, pageW - marginR, y);
   y += 8;
 
-  // ─── GRADE BOX ─────────────────────────────────────────────
-  const gradeBoxW = 45;
-  const gradeBoxH = 30;
-  const gradeBoxX = pageW / 2 - gradeBoxW / 2;
+  // ── GRADE CIRCLE ─────────────────────────────────────────────────────
+  const noteValue = data.klassenarbeitResult
+    ? Math.round(data.klassenarbeitResult.note.value)
+    : getNoteValue(data.gradeResult.percentage);
+  const noteLabel = data.klassenarbeitResult
+    ? data.klassenarbeitResult.note.label
+    : getNoteLabel(noteValue);
+  const noteRGB = getNoteColorRGB(noteValue);
 
-  // Background
-  const noteColor = data.gradeResult.percentage >= 60 ? green : red;
-  doc.setFillColor(noteColor[0], noteColor[1], noteColor[2]);
-  doc.setDrawColor(noteColor[0], noteColor[1], noteColor[2]);
-  doc.roundedRect(gradeBoxX, y, gradeBoxW, gradeBoxH, 4, 4, "FD");
+  // Draw circle
+  const circleX = pageW - marginR - 14;
+  const circleY = y + 12;
+  const circleR = 12;
+  doc.setFillColor(noteRGB[0], noteRGB[1], noteRGB[2]);
+  doc.setDrawColor(noteRGB[0], noteRGB[1], noteRGB[2]);
+  doc.circle(circleX, circleY, circleR, "F");
 
-  // Grade number
+  // Grade number inside circle
   doc.setFont("helvetica", "bold");
-  doc.setFontSize(28);
+  doc.setFontSize(18);
   doc.setTextColor(255, 255, 255);
-  const displayGrade =
-    data.klassenarbeitResult
-      ? String(Math.round(data.klassenarbeitResult.note.value))
-      : data.gradeResult.mark.display;
-  doc.text(displayGrade, pageW / 2, y + 14, { align: "center" });
+  doc.text(String(noteValue), circleX, circleY + 5, { align: "center" });
 
-  // Grade label
-  doc.setFontSize(10);
-  doc.text(
-    data.klassenarbeitResult
-      ? data.klassenarbeitResult.note.label
-      : data.gradeResult.mark.label,
-    pageW / 2,
-    y + 22,
-    { align: "center" }
-  );
-
-  // Score
+  // Note label below circle
   doc.setFont("helvetica", "normal");
-  doc.setFontSize(10);
-  doc.setTextColor(...darkGray);
-  y += gradeBoxH + 5;
-  doc.text(
-    `${data.gradeResult.score}/${data.gradeResult.total} richtig (${data.gradeResult.percentage}%)`,
-    pageW / 2,
-    y,
-    { align: "center" }
-  );
-  y += 10;
+  doc.setFontSize(7);
+  doc.setTextColor(noteRGB[0], noteRGB[1], noteRGB[2]);
+  doc.text(noteLabel, circleX, circleY + circleR + 4, { align: "center" });
 
-  // ─── SECTION RESULTS (Klassenarbeit only) ──────────────────
+  // Score text
+  doc.setFont("helvetica", "bold");
+  doc.setFontSize(11);
+  doc.setTextColor(15, 23, 42);
+  doc.text(`${data.gradeResult.score}/${data.gradeResult.total} richtig`, marginL, y + 7);
+
+  doc.setFont("helvetica", "normal");
+  doc.setFontSize(9);
+  doc.setTextColor(100, 116, 139);
+  doc.text(`${data.gradeResult.percentage}%`, marginL, y + 13);
+
+  y += 28;
+
+  // ── SECTION RESULTS (Klassenarbeit only) ────────────────────────────
   if (data.klassenarbeitResult && data.klassenarbeitResult.sectionResults.length > 1) {
     doc.setFont("helvetica", "bold");
-    doc.setFontSize(12);
-    doc.setTextColor(...darkGray);
+    doc.setFontSize(9);
+    doc.setTextColor(51, 65, 85);
     doc.text("Ergebnisse nach Abschnitt:", marginL, y);
-    y += 6;
+    y += 5;
 
-    data.klassenarbeitResult.sectionResults.forEach((section: SectionResult) => {
-      const pct = Math.round((section.earnedPoints / section.maxPoints) * 100);
-      const sColor = pct >= 60 ? green : red;
+    data.klassenarbeitResult.sectionResults.forEach((sec: SectionResult) => {
+      checkPageBreak(7);
+      const pct = Math.round((sec.earnedPoints / sec.maxPoints) * 100);
+      const sRGB = pct >= 60 ? getNoteColorRGB(1) : getNoteColorRGB(5);
 
       doc.setFont("helvetica", "normal");
-      doc.setFontSize(10);
-      doc.setTextColor(...darkGray);
-      doc.text(`${section.name}:`, marginL + 2, y);
-
-      // Score
-      doc.text(
-        `${section.earnedPoints}/${section.maxPoints} P. (${pct}%)`,
-        marginL + 70,
-        y
-      );
+      doc.setFontSize(8.5);
+      doc.setTextColor(51, 65, 85);
+      doc.text(`${sec.name}:`, marginL + 2, y);
+      doc.text(`${sec.earnedPoints}/${sec.maxPoints} P.  (${pct}%)`, marginL + 65, y);
 
       // Mini bar
-      const barX = marginL + 115;
-      const barW = 50;
-      const barH = 3;
-      doc.setFillColor(230, 230, 230);
-      doc.rect(barX, y - 3, barW, barH, "F");
-      doc.setFillColor(sColor[0], sColor[1], sColor[2]);
-      doc.rect(barX, y - 3, (barW * pct) / 100, barH, "F");
+      const barX = marginL + 110;
+      const barW = 48;
+      doc.setFillColor(220, 230, 240);
+      doc.rect(barX, y - 3, barW, 3, "F");
+      doc.setFillColor(sRGB[0], sRGB[1], sRGB[2]);
+      doc.rect(barX, y - 3, (barW * pct) / 100, 3, "F");
 
       y += 6;
     });
-    y += 4;
+    y += 3;
   }
 
-  // ─── QUESTIONS & ANSWERS ───────────────────────────────────
-  doc.setDrawColor(200, 200, 200);
+  // ── DIVIDER before questions ─────────────────────────────────────────
+  doc.setDrawColor(180, 195, 210);
   doc.setLineWidth(0.3);
-  doc.line(marginL, y, pageW - marginR, y);
+  doc.line(marginL - 2, y, pageW - marginR, y);
   y += 6;
 
   doc.setFont("helvetica", "bold");
-  doc.setFontSize(13);
-  doc.setTextColor(...darkGray);
+  doc.setFontSize(10);
+  doc.setTextColor(30, 41, 59);
   doc.text("Aufgaben und Korrekturen", marginL, y);
-  y += 8;
+  y += 7;
 
+  // ── QUESTIONS ────────────────────────────────────────────────────────
   data.questions.forEach((q, i) => {
-    // Check if we need a new page
-    if (y > 265) {
-      doc.addPage();
-      y = 20;
-    }
-
     const userAnswer = data.answers[i];
-    const isCorrect =
-      userAnswer !== null && String(userAnswer) === String(q.correctAnswer);
+    const isCorrect = userAnswer !== null && String(userAnswer) === String(q.correctAnswer);
+
+    // Estimate height needed
+    const qLines = doc.splitTextToSize(`${i + 1}.  ${q.question}`, contentW - 6);
+    checkPageBreak(qLines.length * 4.5 + 8);
 
     // Question number + text
     doc.setFont("helvetica", "bold");
-    doc.setFontSize(10);
-    doc.setTextColor(...darkGray);
+    doc.setFontSize(9.5);
+    doc.setTextColor(30, 41, 59);
+    // Number in small colored circle
+    if (isCorrect) {
+      doc.setFillColor(22, 163, 74);
+    } else {
+      doc.setFillColor(220, 38, 38);
+    }
+    doc.circle(marginL + 2.5, y - 1.5, 2.8, "F");
+    doc.setTextColor(255, 255, 255);
+    doc.setFontSize(7);
+    doc.text(String(i + 1), marginL + 2.5, y - 0.2, { align: "center" });
 
-    const qText = `${i + 1}. ${q.question}`;
-    // Split long text
-    const lines = doc.splitTextToSize(qText, contentW - 10);
-    doc.text(lines, marginL, y);
-    y += lines.length * 4.5;
+    // Question text
+    doc.setFont("helvetica", "normal");
+    doc.setFontSize(9.5);
+    doc.setTextColor(30, 41, 59);
+    const qText = doc.splitTextToSize(q.question, contentW - 10);
+    doc.text(qText, marginL + 8, y);
+    y += qText.length * 4.8;
 
     // Answer line
-    doc.setFont("helvetica", "normal");
-    doc.setFontSize(10);
-
     if (isCorrect) {
-      // Correct answer - green check
-      doc.setTextColor(...green);
-      doc.text(`Antwort: ${userAnswer}  ✓ Richtig`, marginL + 4, y);
+      // Green tick + answer
+      doc.setTextColor(22, 163, 74);
+      doc.setFont("helvetica", "bold");
+      doc.setFontSize(9);
+      doc.text(`✓  ${userAnswer}`, marginL + 10, y);
     } else {
-      // Wrong answer - red strike-through + correction
+      // Wrong: strikethrough user answer + correct in green
       if (userAnswer !== null) {
-        doc.setTextColor(...red);
-        // User's wrong answer
-        const wrongText = `Antwort: ${userAnswer}`;
-        doc.text(wrongText, marginL + 4, y);
-        const wrongW = doc.getTextWidth(wrongText);
-        // Strike-through line
-        doc.setDrawColor(...red);
-        doc.setLineWidth(0.4);
-        doc.line(marginL + 4, y - 1.2, marginL + 4 + wrongW, y - 1.2);
-
+        doc.setTextColor(220, 38, 38);
+        doc.setFont("helvetica", "normal");
+        doc.setFontSize(9);
+        const wrongTxt = String(userAnswer);
+        doc.text(wrongTxt, marginL + 10, y);
+        const wrongW = doc.getTextWidth(wrongTxt);
+        // Strikethrough
+        doc.setDrawColor(220, 38, 38);
+        doc.setLineWidth(0.5);
+        doc.line(marginL + 10, y - 1.5, marginL + 10 + wrongW, y - 1.5);
         // Correct answer
-        doc.setTextColor(...green);
+        doc.setTextColor(22, 163, 74);
         doc.setFont("helvetica", "bold");
-        doc.text(
-          `→ Richtig: ${q.correctAnswer}`,
-          marginL + 4 + wrongW + 4,
-          y
-        );
+        doc.text(` → ${q.correctAnswer}`, marginL + 10 + wrongW + 2, y);
       } else {
-        // No answer
-        doc.setTextColor(...red);
-        doc.text("Keine Antwort", marginL + 4, y);
-        doc.setTextColor(...green);
+        doc.setTextColor(220, 38, 38);
+        doc.setFont("helvetica", "italic");
+        doc.setFontSize(9);
+        doc.text("—", marginL + 10, y);
         doc.setFont("helvetica", "bold");
-        doc.text(`→ Richtig: ${q.correctAnswer}`, marginL + 55, y);
+        doc.setTextColor(22, 163, 74);
+        doc.text(` → ${q.correctAnswer}`, marginL + 16, y);
       }
     }
-    y += 6;
+    y += 5.5;
 
-    // Light separator
-    doc.setDrawColor(230, 230, 230);
-    doc.setLineWidth(0.15);
-    doc.line(marginL + 4, y - 2, pageW - marginR - 4, y - 2);
+    // Light separator line
+    doc.setDrawColor(210, 220, 230);
+    doc.setLineWidth(0.2);
+    doc.line(marginL + 6, y - 1, pageW - marginR - 4, y - 1);
     y += 2;
   });
 
-  // ─── TEACHER COMMENT ───────────────────────────────────────
-  if (y > 240) {
-    doc.addPage();
-    y = 20;
+  // ── TEACHER NOTE SECTION ─────────────────────────────────────────────
+  checkPageBreak(40);
+  y += 4;
+
+  // Yellow sticky-note background
+  doc.setFillColor(255, 253, 231);
+  doc.setDrawColor(253, 230, 138);
+  doc.setLineWidth(0.5);
+  const noteBoxY = y;
+
+  const teacherMsg = getTeacherMessage(data.gradeResult.percentage, data.studentName || 'Schüler');
+  const msgLines = doc.splitTextToSize(teacherMsg, contentW - 24);
+  const noteBoxH = msgLines.length * 5 + 28;
+  doc.roundedRect(marginL, noteBoxY, contentW, noteBoxH, 3, 3, "FD");
+
+  // Ruled lines inside note
+  doc.setDrawColor(147, 197, 253);
+  doc.setLineWidth(0.4);
+  for (let nl = 1; nl <= 4; nl++) {
+    const lineY = noteBoxY + 8 + nl * 5.5;
+    if (lineY < noteBoxY + noteBoxH - 5) {
+      doc.line(marginL + 4, lineY, marginL + contentW - 4, lineY);
+    }
   }
 
-  y += 6;
-  doc.setDrawColor(...blue);
-  doc.setLineWidth(0.5);
-  doc.line(marginL, y, pageW - marginR, y);
-  y += 8;
-
-  // Comment box
-  doc.setFillColor(240, 249, 255);
-  doc.setDrawColor(147, 197, 253);
-  doc.setLineWidth(0.5);
-  const commentBoxY = y;
-  const commentText = getTeacherComment(data.gradeResult.percentage);
-  const commentLines = doc.splitTextToSize(commentText, contentW - 20);
-  const commentBoxH = commentLines.length * 5 + 16;
-  doc.roundedRect(marginL, commentBoxY, contentW, commentBoxH, 3, 3, "FD");
-
-  // Comment header
+  // "Lehrerin:" label
   doc.setFont("helvetica", "bold");
-  doc.setFontSize(11);
-  doc.setTextColor(...blue);
-  doc.text("Kommentar der Lehrkraft:", marginL + 8, commentBoxY + 8);
+  doc.setFontSize(8);
+  doc.setTextColor(156, 163, 175);
+  doc.text("Lehrerin:", marginL + 6, y + 7);
 
-  // Comment text
+  // Note badge: "Note: X – Label"
+  doc.setFont("helvetica", "bold");
+  doc.setFontSize(9);
+  doc.setTextColor(noteRGB[0], noteRGB[1], noteRGB[2]);
+  doc.text(`Note: ${noteValue}  —  ${noteLabel}`, marginL + 6, y + 13);
+
+  // Teacher message
   doc.setFont("helvetica", "italic");
-  doc.setFontSize(10);
-  doc.setTextColor(...darkGray);
-  doc.text(commentLines, marginL + 8, commentBoxY + 15);
+  doc.setFontSize(9.5);
+  doc.setTextColor(55, 65, 81);
+  doc.text(msgLines, marginL + 6, y + 20);
 
-  y = commentBoxY + commentBoxH + 10;
+  y = noteBoxY + noteBoxH + 8;
 
-  // ─── FOOTER ────────────────────────────────────────────────
+  // ── FOOTER on every page ──────────────────────────────────────────────
   const pageCount = doc.getNumberOfPages();
   for (let p = 1; p <= pageCount; p++) {
     doc.setPage(p);
     doc.setFont("helvetica", "normal");
-    doc.setFontSize(8);
-    doc.setTextColor(...lightGray);
+    doc.setFontSize(7);
+    doc.setTextColor(148, 163, 184);
     doc.text(
-      `Seite ${p}/${pageCount} — Generiert am ${data.date}`,
-      pageW / 2,
-      290,
+      `Seite ${p}/${pageCount}   ·   ${data.date}   ·   PLIZIO`,
+      pageW / 2, pageH - 6,
       { align: "center" }
     );
   }
 
-  // ─── DOWNLOAD ──────────────────────────────────────────────
+  // ── SAVE ──────────────────────────────────────────────────────────────
+  const safeName = (data.studentName || "Schüler").replace(/[^a-zA-ZÄÖÜäöüß0-9]/g, "_");
   const fileName = data.testType === "klassenarbeit"
-    ? `Klassenarbeit_Mathe_${data.date.replace(/\./g, "-")}.pdf`
-    : `Mathetest_${data.date.replace(/\./g, "-")}.pdf`;
+    ? `Klassenarbeit_Mathe_${safeName}_${data.date.replace(/\./g, "-")}.pdf`
+    : `Mathetest_${safeName}_${data.date.replace(/\./g, "-")}.pdf`;
   doc.save(fileName);
 }

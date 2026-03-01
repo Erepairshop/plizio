@@ -103,7 +103,8 @@ import { convertToExtendedQuestion, isVisualQuestion } from "@/lib/mathQuestionU
 import ModernPaperTest from "@/components/ModernPaperTest";
 import GradingPencil, { InlineGradingPencil } from "@/components/GradingPencil";
 import { generateTestPdf } from "@/lib/generateTestPdf";
-import TeacherNote from "@/components/TeacherNote";
+import TeacherNote, { InlineTeacherNote } from "@/components/TeacherNote";
+import { getUsername } from "@/lib/username";
 import { getActiveSkin, SKINS } from "@/lib/skins";
 
 // ─── 3D FLOATING BACKGROUND ─────────────────────────────
@@ -1238,7 +1239,7 @@ export default function MathTestPage() {
           total={questions.length}
           isGrading={isGrading}
           onExit={() => setGameState("grade-select")}
-          userName={user?.user_metadata?.full_name || user?.email?.split('@')[0] || ui?.guest || 'Vendég'}
+          userName={user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || ui?.guest || 'Vendég'}
           dateLocale={ui?.dateLocale || 'hu-HU'}
           exitLabel={ui?.exit || 'Kilépés'}
         >
@@ -1249,7 +1250,7 @@ export default function MathTestPage() {
               {realisticKlassenarbeit && testType === "klassenarbeit" && selectedGrade ? (
                 <KlassenarbeitHeader
                   grade={selectedGrade}
-                  studentName={user?.user_metadata?.full_name || user?.email?.split('@')[0] || undefined}
+                  studentName={user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || undefined}
                   subject={country?.name === "Hungary" ? "Matematika" : country?.name === "Germany" ? "Mathematik" : country?.name === "Romania" ? "Matematică" : "Mathematics"}
                   startTime={Date.now()}
                 />
@@ -1320,7 +1321,7 @@ export default function MathTestPage() {
 
                     {/* Inline grading pencil - shows on the question currently being graded */}
                     {isGrading && qi === gradingIndex && (
-                      <InlineGradingPencil />
+                      <InlineGradingPencil label={ui?.grading} />
                     )}
 
                     {/* Grading mark */}
@@ -1349,6 +1350,14 @@ export default function MathTestPage() {
                   </motion.div>
                 );
               })}
+
+              {/* Inline teacher note - appears on the test paper after all questions are graded */}
+              {showTeacherNote && (
+                <InlineTeacherNote
+                  playerName={user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || 'Schüler'}
+                  percentage={teacherNoteScore}
+                />
+              )}
             </div>
 
             {/* Floating Absence Button - Center bottom, above avatar */}
@@ -1389,12 +1398,7 @@ export default function MathTestPage() {
           <GradingPencil gradingIndex={gradingIndex} total={questions.length} />
         )}
 
-        {/* Teacher note after grading */}
-        <TeacherNote
-          visible={showTeacherNote}
-          playerName={user?.user_metadata?.full_name || user?.email?.split('@')[0] || 'Schüler'}
-          percentage={teacherNoteScore}
-        />
+        {/* TeacherNote is now rendered inline on the test paper above */}
 
         {/* Avatar - Always visible, outside test UI */}
         <div
@@ -1601,6 +1605,7 @@ export default function MathTestPage() {
                 answers,
                 gradeResult,
                 klassenarbeitResult: klassenarbeitResult || undefined,
+                studentName: user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || undefined,
               });
             }}
             className="flex-1 py-3 rounded-xl border-2 border-sky-400/40 text-sky-400 font-bold text-sm flex items-center justify-center gap-2"
