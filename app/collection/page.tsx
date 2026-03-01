@@ -69,7 +69,7 @@ const T: Record<Language, {
     starsTitle: "Csillagok (⭐)",
     starsDesc: "Mérföldkövek teljesítésekor, megosztásokért, kártyák beváltásával szerezhető. A boltban skinek és egyebek vásárolhatók érte.",
     milestonesTitle: "Mérföldkövek — jutalmak",
-    milestonesDesc: "Egyszer kell teljesíteni, a jutalom automatikusan jóváírható a Profil oldalon.",
+    milestonesDesc: "Egyszer teljesíthető. A jutalom automatikusan pop-upban jelenik meg játék után — ott kell átvenni.",
     emptyMsg: "Játssz, hogy kártyákat gyűjts!",
     usedCards: (used, total) => `${total} db · ${used}/${total} bevált`,
   },
@@ -95,7 +95,7 @@ const T: Record<Language, {
     starsTitle: "Sterne (⭐)",
     starsDesc: "Verdient durch Meilensteine, Teilen und Karten einlösen. Im Shop für Skins und mehr verwendbar.",
     milestonesTitle: "Meilensteine — Belohnungen",
-    milestonesDesc: "Einmalig erreichbar, Belohnung auf der Profilseite einlösbar.",
+    milestonesDesc: "Einmalig erreichbar. Die Belohnung erscheint automatisch als Pop-up nach dem Spiel — dort einlösbar.",
     emptyMsg: "Spiele, um Karten zu sammeln!",
     usedCards: (used, total) => `${total} Stk. · ${used}/${total} eingelöst`,
   },
@@ -121,7 +121,7 @@ const T: Record<Language, {
     starsTitle: "Stars (⭐)",
     starsDesc: "Earned through milestones, sharing, and redeeming cards. Use them in the shop to buy skins and more.",
     milestonesTitle: "Milestones — rewards",
-    milestonesDesc: "Each milestone can be claimed once on the Profile page.",
+    milestonesDesc: "Each milestone can be earned once. The reward appears automatically as a pop-up after a game — claim it there.",
     emptyMsg: "Play games to earn cards!",
     usedCards: (used, total) => `${total} cards · ${used}/${total} redeemable`,
   },
@@ -147,7 +147,7 @@ const T: Record<Language, {
     starsTitle: "Stele (⭐)",
     starsDesc: "Câștigate prin jaloane, distribuire și schimbul de cărți. Folosite în magazin pentru skinuri și altele.",
     milestonesTitle: "Jaloane — recompense",
-    milestonesDesc: "Fiecare jalon poate fi revendicat o singură dată pe pagina de Profil.",
+    milestonesDesc: "Fiecare jalon se poate obține o singură dată. Recompensa apare automat ca pop-up după joc — revendică-o acolo.",
     emptyMsg: "Joacă pentru a colecta cărți!",
     usedCards: (used, total) => `${total} buc. · ${used}/${total} schimbabil`,
   },
@@ -202,7 +202,9 @@ const GAME_COLORS: Record<string, string> = {
 
 const RARITY_ORDER: CardRarity[] = ["legendary", "gold", "silver", "bronze"];
 const RARITY_RANK: Record<CardRarity, number> = { legendary: 0, gold: 1, silver: 2, bronze: 3 };
-const EXCHANGE_RATES: Record<CardRarity, number> = { legendary: 1, gold: 10, silver: 20, bronze: 30 };
+// 60 pt = 1 star: legendary=60pt, gold=6pt, silver=3pt, bronze=2pt
+const MICRO_PER_CARD: Record<CardRarity, number> = { legendary: 60, gold: 6, silver: 3, bronze: 2 };
+const MICRO_PER_STAR = 60;
 
 interface GameBest { game: string; bestCard: GameCard; count: number; }
 
@@ -249,20 +251,34 @@ export default function CollectionPage() {
     bronze: cards.filter((c) => c.rarity === "bronze").length,
   };
 
-  const exchangeableStars = {
-    legendary: rarityCounts.legendary,
-    gold: Math.floor(rarityCounts.gold / 10),
-    silver: Math.floor(rarityCounts.silver / 20),
-    bronze: Math.floor(rarityCounts.bronze / 30),
+  // Combined micro-unit calculation: legendary=60pt, gold=6pt, silver=3pt, bronze=2pt · 60pt=1⭐
+  const microPts = {
+    legendary: rarityCounts.legendary * MICRO_PER_CARD.legendary,
+    gold: rarityCounts.gold * MICRO_PER_CARD.gold,
+    silver: rarityCounts.silver * MICRO_PER_CARD.silver,
+    bronze: rarityCounts.bronze * MICRO_PER_CARD.bronze,
   };
-  const totalExchangeable = Object.values(exchangeableStars).reduce((a, b) => a + b, 0);
+  const totalMicro = Object.values(microPts).reduce((a, b) => a + b, 0);
+  const totalExchangeable = Math.floor(totalMicro / MICRO_PER_STAR);
+  const remainderMicro = totalMicro % MICRO_PER_STAR;
 
   const handleExchange = () => {
     if (totalExchangeable === 0) return;
-    removeCardsByRarity("legendary", exchangeableStars.legendary);
-    removeCardsByRarity("gold", exchangeableStars.gold * 10);
-    removeCardsByRarity("silver", exchangeableStars.silver * 20);
-    removeCardsByRarity("bronze", exchangeableStars.bronze * 30);
+    // Greedy removal: highest rarity first, covering exactly totalExchangeable * 60 micro
+    let toFill = totalExchangeable * MICRO_PER_STAR;
+    const toRemove: Record<CardRarity, number> = { legendary: 0, gold: 0, silver: 0, bronze: 0 };
+    for (const rarity of ["legendary", "gold", "silver", "bronze"] as CardRarity[]) {
+      const value = MICRO_PER_CARD[rarity];
+      const canRemove = Math.min(Math.floor(toFill / value), rarityCounts[rarity]);
+      toRemove[rarity] = canRemove;
+      toFill -= canRemove * value;
+    }
+    // Edge case: 1pt remainder can't be covered by bronze (2pt min) — use 1 extra bronze
+    if (toFill === 1 && toRemove.bronze < rarityCounts.bronze) toRemove.bronze += 1;
+    removeCardsByRarity("legendary", toRemove.legendary);
+    removeCardsByRarity("gold", toRemove.gold);
+    removeCardsByRarity("silver", toRemove.silver);
+    removeCardsByRarity("bronze", toRemove.bronze);
     const newTotal = addSpecialCards(totalExchangeable);
     setStars(newTotal);
     setCards(getCards());
@@ -325,28 +341,32 @@ export default function CollectionPage() {
             <span className="text-yellow-400 font-black text-xl">+{totalExchangeable} ⭐</span>
           </div>
 
-          <div className="grid grid-cols-2 gap-2 mb-3">
+          <div className="grid grid-cols-2 gap-2 mb-2">
             {(["legendary", "gold", "silver", "bronze"] as CardRarity[]).map((rarity) => {
               const config = getRarityConfig(rarity);
               const count = rarityCounts[rarity];
-              const rate = EXCHANGE_RATES[rarity];
-              const earnedStars = exchangeableStars[rarity];
-              const usedCards = rarity === "legendary" ? earnedStars : earnedStars * rate;
+              const pts = microPts[rarity];
               return (
                 <div key={rarity} className="px-3 py-2 rounded-xl" style={{ background: `${config.color}08`, border: `1px solid ${config.color}15` }}>
-                  <div className="flex items-center justify-between mb-1">
+                  <div className="flex items-center justify-between">
                     <span className="text-[11px] font-black" style={{ color: config.color }}>{rn[rarity]}</span>
-                    <span className="text-yellow-400 text-[11px] font-bold">{earnedStars} ⭐</span>
+                    <span className="text-white/50 text-[11px] font-bold">{pts} pt</span>
                   </div>
-                  <div className="text-white/30 text-[10px]">
-                    {t.usedCards(usedCards, count)}
-                  </div>
+                  <div className="text-white/25 text-[10px] mt-0.5">{count} db × {MICRO_PER_CARD[rarity]} pt</div>
                 </div>
               );
             })}
           </div>
 
-          <div className="text-white/25 text-[10px] mb-3 text-center leading-relaxed">
+          {/* Combined total */}
+          <div className="flex items-center justify-between px-1 mb-2">
+            <span className="text-white/30 text-[10px]">{totalMicro} pt ÷ 60 = {totalExchangeable}⭐</span>
+            {remainderMicro > 0 && (
+              <span className="text-white/20 text-[10px]">+{remainderMicro} pt {lang === "hu" ? "marad" : lang === "de" ? "Rest" : lang === "ro" ? "rest" : "left"}</span>
+            )}
+          </div>
+
+          <div className="text-white/20 text-[10px] mb-3 text-center leading-relaxed">
             {t.exchangeRate}
           </div>
 
