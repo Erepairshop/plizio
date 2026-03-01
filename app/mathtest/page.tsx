@@ -419,13 +419,29 @@ export default function MathTestPage() {
         startSupabaseTest(testSession.testId).catch((err) => console.error("[Supabase] startTest failed:", err));
       }
       lastAnswerTimeRef.current = 0;
-      window.scrollTo(0, 0);
+      // Schedule scroll after this render cycle completes
+      requestAnimationFrame(() => {
+        window.scrollTo({ top: 0, behavior: 'auto' });
+        document.documentElement.scrollTop = 0;
+        document.body.scrollTop = 0;
+      });
       setGameState("playing");
       return;
     }
     const t = setTimeout(() => setCountdown((c) => c - 1), 800);
     return () => clearTimeout(t);
   }, [gameState, countdown, useSupabase, testSession]);
+
+  // Ensure scroll to top when entering playing state
+  useEffect(() => {
+    if (gameState === "playing") {
+      requestAnimationFrame(() => {
+        window.scrollTo({ top: 0, behavior: 'auto' });
+        document.documentElement.scrollTop = 0;
+        document.body.scrollTop = 0;
+      });
+    }
+  }, [gameState]);
 
   // Timer during playing
   useEffect(() => {
@@ -1360,20 +1376,20 @@ export default function MathTestPage() {
               >
                 <motion.button
                   onClick={() => {
-                    if (answers.some((a) => a !== null)) {
+                    if (answers.every((a) => a !== null)) {
                       setGameState("grading");
                     }
                   }}
-                  disabled={!answers.some((a) => a !== null)}
+                  disabled={!answers.every((a) => a !== null)}
                   className={`px-8 py-3 rounded-lg font-bold shadow-lg transition-all ${
-                    answers.some((a) => a !== null)
+                    answers.every((a) => a !== null)
                       ? 'bg-blue-600 hover:bg-blue-700 text-white cursor-pointer'
                       : 'bg-gray-300 text-gray-500 cursor-not-allowed opacity-60'
                   }`}
-                  whileHover={answers.some((a) => a !== null) ? { scale: 1.05, boxShadow: "0 0 30px rgba(37, 99, 235, 0.6)" } : {}}
-                  whileTap={answers.some((a) => a !== null) ? { scale: 0.95 } : {}}
+                  whileHover={answers.every((a) => a !== null) ? { scale: 1.05, boxShadow: "0 0 30px rgba(37, 99, 235, 0.6)" } : {}}
+                  whileTap={answers.every((a) => a !== null) ? { scale: 0.95 } : {}}
                 >
-                  Anfrage
+                  Absenden
                 </motion.button>
               </motion.div>
             )}

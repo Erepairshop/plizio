@@ -147,9 +147,9 @@ function ColumnMathDraft({
         break;
       case "Backspace":
         if (empty) {
-          // Move right (undo direction in right-to-left) and clear
-          const prev = ci + 1;
-          if (prev < cols) {
+          // Move left (backward) and clear the previous cell
+          const prev = ci - 1;
+          if (prev >= 0) {
             setState((p) => {
               const newRow = { ...p.rows[ri], cells: [...p.rows[ri].cells] };
               newRow.cells[prev] = { value: "" };
