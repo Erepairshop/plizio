@@ -2,7 +2,9 @@
 
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Star, ArrowLeft, Zap, Shield, Clock, Eye, Mountain, Crosshair, Brain, Check, Car, X, Gauge, Flame, Cog, Wind, Crown, Shuffle, Scissors } from "lucide-react";
+import { Star, ArrowLeft, Zap, Shield, Clock, Eye, Mountain, Crosshair, Brain, Check, Car, X, Gauge, Flame, Cog, Wind, Crown, Shuffle, Scissors, Venus, Mars } from "lucide-react";
+import AvatarCompanion from "@/components/AvatarCompanion";
+import { getGender, setGender, type AvatarGender } from "@/lib/gender";
 import Link from "next/link";
 import { getSpecialCardCount, spendSpecialCards } from "@/lib/specialCards";
 import { SKINS, getOwnedSkins, getActiveSkin, setActiveSkin, buySkin, type SkinDef } from "@/lib/skins";
@@ -273,6 +275,21 @@ export default function ShopPage() {
   const [clothingOwned, setClothingOwned] = useState<Record<string, string[]>>({});
   const [clothingActive, setClothingActive] = useState<Record<string, string | null>>({});
 
+  const [shopGender, setShopGender] = useState<AvatarGender>('girl');
+  const [avatarMood, setAvatarMood] = useState<'idle' | 'happy'>('idle');
+
+  // Computed avatar props for preview
+  const previewSkinDef = SKINS.find(s => s.id === activeSkin) || SKINS[0];
+  const previewFaceDef = FACES.find(f => f.id === activeFaceId);
+  const previewTopDef = clothingActive.top ? TOPS.find(t => t.id === clothingActive.top) || null : null;
+  const previewBottomDef = clothingActive.bottom ? BOTTOMS.find(b => b.id === clothingActive.bottom) || null : null;
+  const previewShoeDef = clothingActive.shoe ? SHOES.find(s => s.id === clothingActive.shoe) || null : null;
+  const previewCapeDef = clothingActive.cape ? CAPES.find(c => c.id === clothingActive.cape) || null : null;
+  const previewGlassesDef = clothingActive.glasses ? GLASSES.find(g => g.id === clothingActive.glasses) || null : null;
+  const previewGlovesDef = clothingActive.gloves ? GLOVES.find(g => g.id === clothingActive.gloves) || null : null;
+  const previewHatDef = activeHat ? HATS.find(h => h.id === activeHat) || null : null;
+  const previewTrailDef = activeTrail ? TRAILS.find(t => t.id === activeTrail) || null : null;
+
   const refreshClothing = () => {
     const slots = ["top", "bottom", "shoe", "cape", "glasses", "gloves"] as const;
     const owned: Record<string, string[]> = {};
@@ -295,6 +312,7 @@ export default function ShopPage() {
     setOwnedFaces(getOwnedFaces());
     setActiveFaceId(getActiveFace());
     refreshClothing();
+    setShopGender(getGender());
     const saved = localStorage.getItem("plizio_powerups");
     if (saved) setBoughtPowerUps(JSON.parse(saved));
   }, []);
@@ -345,12 +363,18 @@ export default function ShopPage() {
     showNotif("+1 power-up!");
   };
 
+  const triggerAvatarReaction = () => {
+    setAvatarMood('happy');
+    setTimeout(() => setAvatarMood('idle'), 1200);
+  };
+
   const handleBuySkin = (skin: SkinDef) => {
     if (ownedSkins.includes(skin.id)) {
       setActiveSkin(skin.id);
       setActiveSkinState(skin.id);
       showNotif("Skin selected!");
       setSelectedSkin(null);
+      triggerAvatarReaction();
       return;
     }
     if (balance < skin.price) { showNotif("Not enough ⭐"); return; }
@@ -362,6 +386,7 @@ export default function ShopPage() {
     setBalance(getSpecialCardCount());
     showNotif("Skin purchased!");
     setSelectedSkin(null);
+    triggerAvatarReaction();
   };
 
   const handleBuyHat = (hat: HatDef) => {
@@ -374,6 +399,7 @@ export default function ShopPage() {
         setActiveHat(hat.id);
         setActiveHatState(hat.id);
         showNotif("Hat equipped!");
+        triggerAvatarReaction();
       }
       return;
     }
@@ -385,6 +411,7 @@ export default function ShopPage() {
     setActiveHatState(hat.id);
     setBalance(getSpecialCardCount());
     showNotif("Hat purchased!");
+    triggerAvatarReaction();
   };
 
   const handleBuyTrail = (trail: TrailDef) => {
@@ -397,6 +424,7 @@ export default function ShopPage() {
         setActiveTrail(trail.id);
         setActiveTrailState(trail.id);
         showNotif("Trail equipped!");
+        triggerAvatarReaction();
       }
       return;
     }
@@ -408,6 +436,7 @@ export default function ShopPage() {
     setActiveTrailState(trail.id);
     setBalance(getSpecialCardCount());
     showNotif("Trail purchased!");
+    triggerAvatarReaction();
   };
 
   const handleBuyAbility = (ab: AbilityDef) => {
@@ -426,6 +455,7 @@ export default function ShopPage() {
       setActiveFace(face.id);
       setActiveFaceId(face.id);
       showNotif("Face selected!");
+      triggerAvatarReaction();
       return;
     }
     if (balance < face.price) { showNotif("Not enough ⭐"); return; }
@@ -436,6 +466,15 @@ export default function ShopPage() {
     setActiveFaceId(face.id);
     setBalance(getSpecialCardCount());
     showNotif("Face purchased!");
+    triggerAvatarReaction();
+  };
+
+  // ─── Gender toggle ─────────────────
+  const handleGenderToggle = (g: AvatarGender) => {
+    setGender(g);
+    setShopGender(g);
+    setAvatarMood('happy');
+    setTimeout(() => setAvatarMood('idle'), 1200);
   };
 
   // ─── Clothing handler (generic) ─────────────────
@@ -452,6 +491,7 @@ export default function ShopPage() {
         setActive(slot, itemId);
         refreshClothing();
         showNotif("Equipped!");
+        triggerAvatarReaction();
       }
       return;
     }
@@ -460,6 +500,7 @@ export default function ShopPage() {
       setActive(slot, itemId);
       refreshClothing();
       showNotif("Unlocked!");
+      triggerAvatarReaction();
       return;
     }
     if (balance < price) { showNotif("Not enough ⭐"); return; }
@@ -469,6 +510,7 @@ export default function ShopPage() {
     refreshClothing();
     setBalance(getSpecialCardCount());
     showNotif("Purchased!");
+    triggerAvatarReaction();
   };
 
   const SKIN_SUBS: { id: SkinSub; label: string; icon: string }[] = [
@@ -715,6 +757,51 @@ export default function ShopPage() {
 
       {/* ═══════ SKINS TAB (with sub-categories) ═══════ */}
       {tab === "skins" && (<>
+        {/* ── Live 3D Avatar Preview ── */}
+        <div className="w-full max-w-md bg-white/[0.03] border border-white/8 rounded-2xl overflow-hidden">
+          <div className="flex items-center">
+            {/* Avatar canvas */}
+            <div className="w-40 h-40 flex-shrink-0">
+              <AvatarCompanion
+                mood={avatarMood}
+                fixed={false}
+                gender={shopGender}
+                activeSkin={previewSkinDef}
+                activeFace={previewFaceDef}
+                activeTop={previewTopDef}
+                activeBottom={previewBottomDef}
+                activeShoe={previewShoeDef}
+                activeCape={previewCapeDef}
+                activeGlasses={previewGlassesDef}
+                activeGloves={previewGlovesDef}
+                activeHat={previewHatDef}
+                activeTrail={previewTrailDef}
+              />
+            </div>
+            {/* Info + gender switch */}
+            <div className="flex-1 px-3 py-3 flex flex-col gap-2">
+              <span className="text-white/60 text-xs font-bold">AVATÁR ELŐNÉZET</span>
+              <div className="flex gap-1.5">
+                <button
+                  onClick={() => handleGenderToggle('girl')}
+                  className={`flex-1 flex items-center justify-center gap-1 py-1.5 rounded-lg text-xs font-bold border transition-all ${shopGender === 'girl' ? 'bg-[#E040FB]/15 border-[#E040FB]/40 text-[#E040FB]' : 'border-white/10 text-white/30'}`}
+                >
+                  <Venus size={11} /> Lány
+                </button>
+                <button
+                  onClick={() => handleGenderToggle('boy')}
+                  className={`flex-1 flex items-center justify-center gap-1 py-1.5 rounded-lg text-xs font-bold border transition-all ${shopGender === 'boy' ? 'bg-[#00D4FF]/15 border-[#00D4FF]/40 text-[#00D4FF]' : 'border-white/10 text-white/30'}`}
+                >
+                  <Mars size={11} /> Fiú
+                </button>
+              </div>
+              <div className="text-[10px] text-white/20 leading-tight">
+                Vásárolj tárgyakat, és azonnal látod az avatáron!
+              </div>
+            </div>
+          </div>
+        </div>
+
         {/* Sub-tabs */}
         <div className="flex gap-1 overflow-x-auto max-w-md w-full pb-1 scrollbar-hide">
           {SKIN_SUBS.map(s => (

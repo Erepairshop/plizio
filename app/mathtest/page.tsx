@@ -105,7 +105,11 @@ import GradingPencil, { InlineGradingPencil } from "@/components/GradingPencil";
 import { generateTestPdf } from "@/lib/generateTestPdf";
 import TeacherNote, { InlineTeacherNote } from "@/components/TeacherNote";
 import { getUsername } from "@/lib/username";
-import { getActiveSkin, SKINS } from "@/lib/skins";
+import { getActiveSkin, getSkinDef } from "@/lib/skins";
+import { getActiveFace, getFaceDef } from "@/lib/faces";
+import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
+import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
+import { getGender } from "@/lib/gender";
 
 // ─── 3D FLOATING BACKGROUND ─────────────────────────────
 
@@ -385,16 +389,32 @@ export default function MathTestPage() {
 
   // ─── Avatar Companion State ───────────────────────────────────
   const [avatarMood, setAvatarMood] = useState<'idle' | 'focused' | 'happy' | 'disappointed' | 'victory'>('idle');
-  const [avatarSkinColor, setAvatarSkinColor] = useState('#ffd4a3');
-  const [avatarOutfitColor, setAvatarOutfitColor] = useState('#4a90e2');
   const avatarMoodTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const [avatarGender, setAvatarGender] = useState<'girl' | 'boy'>('girl');
+  const [avatarSkin, setAvatarSkin] = useState<ReturnType<typeof getSkinDef> | null>(null);
+  const [avatarFace, setAvatarFace] = useState<ReturnType<typeof getFaceDef> | null>(null);
+  const [avatarTop, setAvatarTop] = useState<ReturnType<typeof getTopDef> | null>(null);
+  const [avatarBottom, setAvatarBottom] = useState<ReturnType<typeof getBottomDef> | null>(null);
+  const [avatarShoe, setAvatarShoe] = useState<ReturnType<typeof getShoeDef> | null>(null);
+  const [avatarCape, setAvatarCape] = useState<ReturnType<typeof getCapeDef> | null>(null);
+  const [avatarGlasses, setAvatarGlasses] = useState<ReturnType<typeof getGlassesDef> | null>(null);
+  const [avatarGloves, setAvatarGloves] = useState<ReturnType<typeof getGloveDef> | null>(null);
+  const [avatarHat, setAvatarHat] = useState<ReturnType<typeof getHatDef> | null>(null);
+  const [avatarTrail, setAvatarTrail] = useState<ReturnType<typeof getTrailDef> | null>(null);
 
-  // Load avatar colors from active skin on mount
+  // Load all avatar customization on mount
   useEffect(() => {
-    const skinId = getActiveSkin();
-    const skin = SKINS.find(s => s.id === skinId) || SKINS[0];
-    setAvatarSkinColor(skin.headColor);
-    setAvatarOutfitColor(skin.bodyColor);
+    setAvatarGender(getGender());
+    setAvatarSkin(getSkinDef(getActiveSkin()));
+    setAvatarFace(getFaceDef(getActiveFace()));
+    const topId = getActive('top'); setAvatarTop(topId ? getTopDef(topId) : null);
+    const bottomId = getActive('bottom'); setAvatarBottom(bottomId ? getBottomDef(bottomId) : null);
+    const shoeId = getActive('shoe'); setAvatarShoe(shoeId ? getShoeDef(shoeId) : null);
+    const capeId = getActive('cape'); setAvatarCape(capeId ? getCapeDef(capeId) : null);
+    const glassesId = getActive('glasses'); setAvatarGlasses(glassesId ? getGlassesDef(glassesId) : null);
+    const glovesId = getActive('gloves'); setAvatarGloves(glovesId ? getGloveDef(glovesId) : null);
+    const hatId = getActiveHat(); setAvatarHat(hatId ? getHatDef(hatId) : null);
+    const trailId = getActiveTrail(); setAvatarTrail(trailId ? getTrailDef(trailId) : null);
   }, []);
 
   // Load saved country + grade on mount
@@ -1059,7 +1079,7 @@ export default function MathTestPage() {
           </motion.div>
         </div>
         </main>
-        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
+        <AvatarCompanion mood={avatarMood} gender={avatarGender} activeSkin={avatarSkin} activeFace={avatarFace} activeTop={avatarTop} activeBottom={avatarBottom} activeShoe={avatarShoe} activeCape={avatarCape} activeGlasses={avatarGlasses} activeGloves={avatarGloves} activeHat={avatarHat} activeTrail={avatarTrail} />
       </>
     );
   }
@@ -1108,7 +1128,7 @@ export default function MathTestPage() {
             />
           </div>
         </main>
-        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
+        <AvatarCompanion mood={avatarMood} gender={avatarGender} activeSkin={avatarSkin} activeFace={avatarFace} activeTop={avatarTop} activeBottom={avatarBottom} activeShoe={avatarShoe} activeCape={avatarCape} activeGlasses={avatarGlasses} activeGloves={avatarGloves} activeHat={avatarHat} activeTrail={avatarTrail} />
       </>
     );
   }
@@ -1218,7 +1238,7 @@ export default function MathTestPage() {
           </motion.div>
         </div>
         </main>
-        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
+        <AvatarCompanion mood={avatarMood} gender={avatarGender} activeSkin={avatarSkin} activeFace={avatarFace} activeTop={avatarTop} activeBottom={avatarBottom} activeShoe={avatarShoe} activeCape={avatarCape} activeGlasses={avatarGlasses} activeGloves={avatarGloves} activeHat={avatarHat} activeTrail={avatarTrail} />
       </>
     );
   }
@@ -1606,7 +1626,7 @@ export default function MathTestPage() {
             paddingRight: "max(20px, env(safe-area-inset-right))",
           }}
         >
-          <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
+          <AvatarCompanion mood={avatarMood} gender={avatarGender} activeSkin={avatarSkin} activeFace={avatarFace} activeTop={avatarTop} activeBottom={avatarBottom} activeShoe={avatarShoe} activeCape={avatarCape} activeGlasses={avatarGlasses} activeGloves={avatarGloves} activeHat={avatarHat} activeTrail={avatarTrail} />
         </div>
       </>
       </DraftProvider>
@@ -1831,7 +1851,7 @@ export default function MathTestPage() {
         {/* Milestone popup */}
         <MilestonePopup />
         </main>
-        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
+        <AvatarCompanion mood={avatarMood} gender={avatarGender} activeSkin={avatarSkin} activeFace={avatarFace} activeTop={avatarTop} activeBottom={avatarBottom} activeShoe={avatarShoe} activeCape={avatarCape} activeGlasses={avatarGlasses} activeGloves={avatarGloves} activeHat={avatarHat} activeTrail={avatarTrail} />
       </>
     );
   }
@@ -1848,7 +1868,7 @@ export default function MathTestPage() {
           total={gradeResult.total}
           onDone={() => router.push("/")}
         />
-        <AvatarCompanion mood={avatarMood} skinColor={avatarSkinColor} outfitColor={avatarOutfitColor} />
+        <AvatarCompanion mood={avatarMood} gender={avatarGender} activeSkin={avatarSkin} activeFace={avatarFace} activeTop={avatarTop} activeBottom={avatarBottom} activeShoe={avatarShoe} activeCape={avatarCape} activeGlasses={avatarGlasses} activeGloves={avatarGloves} activeHat={avatarHat} activeTrail={avatarTrail} />
       </>
     );
   }

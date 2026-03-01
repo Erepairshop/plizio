@@ -12,6 +12,7 @@ import { getSkinDef, getActiveSkin } from "@/lib/skins";
 import { getHatDef, getActiveHat, getTrailDef, getActiveTrail } from "@/lib/accessories";
 import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
 import { getFaceDef, getActiveFace } from "@/lib/faces";
+import { getGender } from "@/lib/gender";
 import { incrementTotalGames, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
 
@@ -368,7 +369,7 @@ function createGameData(): GameData {
   };
 }
 
-// ─── CHARACTER (BOX-MAN) ────────────────────────────
+// ─── CHARACTER (HUMANOID) ────────────────────────────
 function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObject<GameData>; skinId: string; hatId: string | null; trailId: string | null }) {
   const groupRef = useRef<THREE.Group>(null);
   const bodyGroupRef = useRef<THREE.Group>(null);
@@ -390,6 +391,10 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
   const glassesDef = useMemo(() => { const id = getActive("glasses"); return id ? getGlassesDef(id) : null; }, []);
   const gloveDef = useMemo(() => { const id = getActive("gloves"); return id ? getGloveDef(id) : null; }, []);
   const face = useMemo(() => getFaceDef(getActiveFace()), []);
+
+  const gender = useMemo(() => getGender(), []);
+  const hairColor = (skin.id !== 'default') ? skin.headColor : '#3b2a1a';
+  const isGirl = gender === 'girl';
 
   // Trail particle positions
   const trailParticles = useRef<{ x: number; y: number; z: number; life: number }[]>([]);
@@ -519,302 +524,330 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
   return (
     <group ref={groupRef}>
       <group ref={bodyGroupRef}>
-        {/* ── HEAD ── */}
-        <mesh position={[0, 0.82, 0]} material={headMat}>
-          <boxGeometry args={[0.36, 0.36, 0.36]} />
+
+        {/* ── CAPE (behind body) ── */}
+        {capeDef && capeMat && (
+          <group position={[0, 0.55, -0.15]}>
+            <mesh material={capeMat}><boxGeometry args={[0.36, 0.06, 0.04]} /></mesh>
+            <mesh position={[0, -0.22, -0.02]} material={capeMat}><boxGeometry args={[0.32, 0.38, 0.025]} /></mesh>
+            <mesh position={[0, -0.48, -0.04]} material={capeMat}><boxGeometry args={[0.26, 0.2, 0.018]} /></mesh>
+          </group>
+        )}
+
+        {/* ── BODY (torso) ── */}
+        <mesh position={[0, 0.48, 0]} material={bodyMat}>
+          <cylinderGeometry args={[0.18, 0.16, 0.44, 10]} />
         </mesh>
+        {/* Shirt collar / accent */}
+        {topDef && topDef.accent && (
+          <mesh position={[0, 0.72, 0.14]}>
+            <boxGeometry args={[0.18, 0.05, 0.02]} />
+            <meshStandardMaterial color={topDef.accent} />
+          </mesh>
+        )}
+
+        {/* ── SHOULDERS ── */}
+        <mesh position={[0.24, 0.68, 0]} material={bodyMat}>
+          <sphereGeometry args={[0.09, 8, 6]} />
+        </mesh>
+        <mesh position={[-0.24, 0.68, 0]} material={bodyMat}>
+          <sphereGeometry args={[0.09, 8, 6]} />
+        </mesh>
+
+        {/* ── ARMS ── */}
+        <group ref={leftArmRef} position={[0.28, 0.62, 0]}>
+          <mesh position={[0, -0.16, 0]} material={armMat}>
+            <cylinderGeometry args={[0.055, 0.065, 0.32, 6]} />
+          </mesh>
+          {gloveMat
+            ? <mesh position={[0, -0.35, 0]} material={gloveMat}><sphereGeometry args={[0.072, 8, 6]} /></mesh>
+            : <mesh position={[0, -0.35, 0]} material={armMat}><sphereGeometry args={[0.068, 8, 6]} /></mesh>
+          }
+        </group>
+        <group ref={rightArmRef} position={[-0.28, 0.62, 0]}>
+          <mesh position={[0, -0.16, 0]} material={armMat}>
+            <cylinderGeometry args={[0.055, 0.065, 0.32, 6]} />
+          </mesh>
+          {gloveMat
+            ? <mesh position={[0, -0.35, 0]} material={gloveMat}><sphereGeometry args={[0.072, 8, 6]} /></mesh>
+            : <mesh position={[0, -0.35, 0]} material={armMat}><sphereGeometry args={[0.068, 8, 6]} /></mesh>
+          }
+        </group>
+
+        {/* ── LEGS ── */}
+        <group ref={leftLegRef} position={[0.1, 0.24, 0]}>
+          <mesh position={[0, -0.16, 0]} material={limbMat}>
+            <cylinderGeometry args={[0.082, 0.092, 0.32, 7]} />
+          </mesh>
+          {/* Shoe */}
+          <mesh position={[0, -0.33, 0.03]} material={shoeMat}>
+            <boxGeometry args={[0.13, 0.07, 0.2]} />
+          </mesh>
+        </group>
+        <group ref={rightLegRef} position={[-0.1, 0.24, 0]}>
+          <mesh position={[0, -0.16, 0]} material={limbMat}>
+            <cylinderGeometry args={[0.082, 0.092, 0.32, 7]} />
+          </mesh>
+          {/* Shoe */}
+          <mesh position={[0, -0.33, 0.03]} material={shoeMat}>
+            <boxGeometry args={[0.13, 0.07, 0.2]} />
+          </mesh>
+        </group>
+
+        {/* ── HEAD (sphere) ── */}
+        <mesh position={[0, 0.97, 0]} material={headMat}>
+          <sphereGeometry args={[0.19, 16, 12]} />
+        </mesh>
+        {/* Chin shading */}
+        <mesh position={[0, 0.88, 0.04]} scale={[1, 0.5, 0.85]}>
+          <sphereGeometry args={[0.15, 10, 6]} />
+          <meshStandardMaterial color={new THREE.Color(skin.headColor).multiplyScalar(0.8).getStyle()} roughness={0.7} />
+        </mesh>
+
+        {/* ── HAIR ── */}
+        {isGirl ? (
+          <>
+            <mesh position={[0, 1.05, 0]} scale={[1.04, 0.68, 1.04]}>
+              <sphereGeometry args={[0.19, 14, 8, 0, Math.PI * 2, 0, Math.PI * 0.55]} />
+              <meshStandardMaterial color={hairColor} roughness={0.85} />
+            </mesh>
+            <mesh position={[0, 1.13, 0.14]} rotation={[0.5, 0, 0]} scale={[0.9, 1, 0.7]}>
+              <sphereGeometry args={[0.09, 8, 6]} />
+              <meshStandardMaterial color={hairColor} roughness={0.85} />
+            </mesh>
+            <mesh position={[-0.14, 0.98, 0.02]} scale={[0.65, 0.82, 0.72]}>
+              <sphereGeometry args={[0.1, 8, 6]} />
+              <meshStandardMaterial color={hairColor} roughness={0.85} />
+            </mesh>
+            <mesh position={[0.14, 0.98, 0.02]} scale={[0.65, 0.82, 0.72]}>
+              <sphereGeometry args={[0.1, 8, 6]} />
+              <meshStandardMaterial color={hairColor} roughness={0.85} />
+            </mesh>
+            <mesh position={[-0.12, 0.92, -0.1]} scale={[0.58, 0.88, 0.58]}>
+              <sphereGeometry args={[0.1, 8, 6]} />
+              <meshStandardMaterial color={hairColor} roughness={0.85} />
+            </mesh>
+            <mesh position={[0.12, 0.92, -0.1]} scale={[0.58, 0.88, 0.58]}>
+              <sphereGeometry args={[0.1, 8, 6]} />
+              <meshStandardMaterial color={hairColor} roughness={0.85} />
+            </mesh>
+          </>
+        ) : (
+          <>
+            <mesh position={[0, 1.07, 0]} scale={[1.02, 0.58, 1.02]}>
+              <sphereGeometry args={[0.19, 14, 8, 0, Math.PI * 2, 0, Math.PI * 0.45]} />
+              <meshStandardMaterial color={hairColor} roughness={0.75} />
+            </mesh>
+            {/* Spiky tufts */}
+            <mesh position={[0, 1.18, 0.05]} rotation={[-0.2, 0, 0]} scale={[0.45, 1.1, 0.38]}>
+              <coneGeometry args={[0.06, 0.14, 5]} />
+              <meshStandardMaterial color={hairColor} roughness={0.75} />
+            </mesh>
+            <mesh position={[-0.07, 1.17, 0.04]} rotation={[-0.1, 0.3, 0.2]} scale={[0.38, 1, 0.38]}>
+              <coneGeometry args={[0.055, 0.12, 5]} />
+              <meshStandardMaterial color={hairColor} roughness={0.75} />
+            </mesh>
+            <mesh position={[0.07, 1.17, 0.04]} rotation={[-0.1, -0.3, -0.2]} scale={[0.38, 1, 0.38]}>
+              <coneGeometry args={[0.055, 0.12, 5]} />
+              <meshStandardMaterial color={hairColor} roughness={0.75} />
+            </mesh>
+            <mesh position={[-0.16, 0.99, 0]} scale={[0.52, 0.68, 0.58]}>
+              <sphereGeometry args={[0.1, 8, 6]} />
+              <meshStandardMaterial color={hairColor} roughness={0.75} />
+            </mesh>
+            <mesh position={[0.16, 0.99, 0]} scale={[0.52, 0.68, 0.58]}>
+              <sphereGeometry args={[0.1, 8, 6]} />
+              <meshStandardMaterial color={hairColor} roughness={0.75} />
+            </mesh>
+          </>
+        )}
 
         {/* ── FACE: Eyes ── */}
         {face.eyeType === "dot" && (<>
-          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.07, 0.07, 0.02]} /></mesh>
-          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.07, 0.07, 0.02]} /></mesh>
+          <mesh position={[0.07, 0.99, 0.178]} material={eyeMat}><sphereGeometry args={[0.026, 8, 8]} /></mesh>
+          <mesh position={[-0.07, 0.99, 0.178]} material={eyeMat}><sphereGeometry args={[0.026, 8, 8]} /></mesh>
         </>)}
         {face.eyeType === "round" && (<>
-          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}><sphereGeometry args={[0.045, 8, 8]} /></mesh>
-          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}><sphereGeometry args={[0.045, 8, 8]} /></mesh>
+          <mesh position={[0.07, 0.99, 0.178]} material={eyeMat}><sphereGeometry args={[0.038, 8, 8]} /></mesh>
+          <mesh position={[-0.07, 0.99, 0.178]} material={eyeMat}><sphereGeometry args={[0.038, 8, 8]} /></mesh>
         </>)}
         {face.eyeType === "happy" && (<>
-          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.08, 0.03, 0.02]} /></mesh>
-          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.08, 0.03, 0.02]} /></mesh>
+          <mesh position={[0.07, 0.995, 0.18]} material={eyeMat}><boxGeometry args={[0.065, 0.025, 0.015]} /></mesh>
+          <mesh position={[-0.07, 0.995, 0.18]} material={eyeMat}><boxGeometry args={[0.065, 0.025, 0.015]} /></mesh>
         </>)}
         {face.eyeType === "angry" && (<>
-          <mesh position={[0.08, 0.86, 0.18]} material={eyeMat} rotation={[0, 0, -0.3]}><boxGeometry args={[0.09, 0.04, 0.02]} /></mesh>
-          <mesh position={[-0.08, 0.86, 0.18]} material={eyeMat} rotation={[0, 0, 0.3]}><boxGeometry args={[0.09, 0.04, 0.02]} /></mesh>
+          <mesh position={[0.072, 1.0, 0.178]} material={eyeMat} rotation={[0, 0, -0.3]}><boxGeometry args={[0.07, 0.032, 0.015]} /></mesh>
+          <mesh position={[-0.072, 1.0, 0.178]} material={eyeMat} rotation={[0, 0, 0.3]}><boxGeometry args={[0.07, 0.032, 0.015]} /></mesh>
         </>)}
         {face.eyeType === "sad" && (<>
-          <mesh position={[0.08, 0.86, 0.18]} material={eyeMat} rotation={[0, 0, 0.2]}><boxGeometry args={[0.08, 0.04, 0.02]} /></mesh>
-          <mesh position={[-0.08, 0.86, 0.18]} material={eyeMat} rotation={[0, 0, -0.2]}><boxGeometry args={[0.08, 0.04, 0.02]} /></mesh>
+          <mesh position={[0.072, 1.0, 0.178]} material={eyeMat} rotation={[0, 0, 0.2]}><boxGeometry args={[0.065, 0.03, 0.015]} /></mesh>
+          <mesh position={[-0.072, 1.0, 0.178]} material={eyeMat} rotation={[0, 0, -0.2]}><boxGeometry args={[0.065, 0.03, 0.015]} /></mesh>
         </>)}
         {face.eyeType === "star" && (<>
-          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.06, 0.06, 0.02]} /></mesh>
-          <mesh position={[0.08, 0.85, 0.185]} material={eyeMat} rotation={[0, 0, Math.PI / 4]}><boxGeometry args={[0.06, 0.06, 0.02]} /></mesh>
-          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.06, 0.06, 0.02]} /></mesh>
-          <mesh position={[-0.08, 0.85, 0.185]} material={eyeMat} rotation={[0, 0, Math.PI / 4]}><boxGeometry args={[0.06, 0.06, 0.02]} /></mesh>
+          <mesh position={[0.07, 0.99, 0.178]} material={eyeMat}><sphereGeometry args={[0.034, 6, 6]} /></mesh>
+          <mesh position={[0.07, 0.99, 0.185]} material={eyeMat} rotation={[0, 0, Math.PI / 4]}><boxGeometry args={[0.048, 0.048, 0.012]} /></mesh>
+          <mesh position={[-0.07, 0.99, 0.178]} material={eyeMat}><sphereGeometry args={[0.034, 6, 6]} /></mesh>
+          <mesh position={[-0.07, 0.99, 0.185]} material={eyeMat} rotation={[0, 0, Math.PI / 4]}><boxGeometry args={[0.048, 0.048, 0.012]} /></mesh>
         </>)}
         {face.eyeType === "heart" && (<>
-          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}><sphereGeometry args={[0.04, 6, 6]} /></mesh>
-          <mesh position={[0.06, 0.87, 0.18]} material={eyeMat}><sphereGeometry args={[0.025, 6, 6]} /></mesh>
-          <mesh position={[0.10, 0.87, 0.18]} material={eyeMat}><sphereGeometry args={[0.025, 6, 6]} /></mesh>
-          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}><sphereGeometry args={[0.04, 6, 6]} /></mesh>
-          <mesh position={[-0.06, 0.87, 0.18]} material={eyeMat}><sphereGeometry args={[0.025, 6, 6]} /></mesh>
-          <mesh position={[-0.10, 0.87, 0.18]} material={eyeMat}><sphereGeometry args={[0.025, 6, 6]} /></mesh>
+          <mesh position={[0.07, 0.988, 0.178]} material={eyeMat}><sphereGeometry args={[0.032, 6, 6]} /></mesh>
+          <mesh position={[0.052, 1.005, 0.178]} material={eyeMat}><sphereGeometry args={[0.02, 6, 6]} /></mesh>
+          <mesh position={[0.088, 1.005, 0.178]} material={eyeMat}><sphereGeometry args={[0.02, 6, 6]} /></mesh>
+          <mesh position={[-0.07, 0.988, 0.178]} material={eyeMat}><sphereGeometry args={[0.032, 6, 6]} /></mesh>
+          <mesh position={[-0.052, 1.005, 0.178]} material={eyeMat}><sphereGeometry args={[0.02, 6, 6]} /></mesh>
+          <mesh position={[-0.088, 1.005, 0.178]} material={eyeMat}><sphereGeometry args={[0.02, 6, 6]} /></mesh>
         </>)}
         {face.eyeType === "x" && (<>
-          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat} rotation={[0, 0, Math.PI / 4]}><boxGeometry args={[0.08, 0.02, 0.02]} /></mesh>
-          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat} rotation={[0, 0, -Math.PI / 4]}><boxGeometry args={[0.08, 0.02, 0.02]} /></mesh>
-          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat} rotation={[0, 0, Math.PI / 4]}><boxGeometry args={[0.08, 0.02, 0.02]} /></mesh>
-          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat} rotation={[0, 0, -Math.PI / 4]}><boxGeometry args={[0.08, 0.02, 0.02]} /></mesh>
+          <mesh position={[0.07, 0.99, 0.18]} material={eyeMat} rotation={[0, 0, Math.PI / 4]}><boxGeometry args={[0.065, 0.016, 0.015]} /></mesh>
+          <mesh position={[0.07, 0.99, 0.18]} material={eyeMat} rotation={[0, 0, -Math.PI / 4]}><boxGeometry args={[0.065, 0.016, 0.015]} /></mesh>
+          <mesh position={[-0.07, 0.99, 0.18]} material={eyeMat} rotation={[0, 0, Math.PI / 4]}><boxGeometry args={[0.065, 0.016, 0.015]} /></mesh>
+          <mesh position={[-0.07, 0.99, 0.18]} material={eyeMat} rotation={[0, 0, -Math.PI / 4]}><boxGeometry args={[0.065, 0.016, 0.015]} /></mesh>
         </>)}
         {face.eyeType === "wink" && (<>
-          <mesh position={[0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.08, 0.03, 0.02]} /></mesh>
-          <mesh position={[-0.08, 0.85, 0.18]} material={eyeMat}><boxGeometry args={[0.07, 0.07, 0.02]} /></mesh>
+          <mesh position={[0.07, 0.995, 0.18]} material={eyeMat}><boxGeometry args={[0.065, 0.025, 0.015]} /></mesh>
+          <mesh position={[-0.07, 0.99, 0.178]} material={eyeMat}><sphereGeometry args={[0.03, 8, 8]} /></mesh>
         </>)}
+        {/* Eye whites */}
+        <mesh position={[0.07, 0.99, 0.173]}><sphereGeometry args={[0.038, 8, 8]} /><meshStandardMaterial color="#f2f2f2" roughness={0.2} /></mesh>
+        <mesh position={[-0.07, 0.99, 0.173]}><sphereGeometry args={[0.038, 8, 8]} /><meshStandardMaterial color="#f2f2f2" roughness={0.2} /></mesh>
 
         {/* ── FACE: Mouth ── */}
         {face.mouthType === "smile" && (
-          <mesh position={[0, 0.74, 0.18]} material={mouthMat}><boxGeometry args={[0.12, 0.02, 0.02]} /></mesh>
+          <mesh position={[0, 0.9, 0.18]} material={mouthMat}><boxGeometry args={[0.1, 0.016, 0.014]} /></mesh>
         )}
         {face.mouthType === "grin" && (
-          <mesh position={[0, 0.74, 0.18]} material={mouthMat}><boxGeometry args={[0.16, 0.04, 0.02]} /></mesh>
+          <mesh position={[0, 0.9, 0.18]} material={mouthMat}><boxGeometry args={[0.13, 0.035, 0.014]} /></mesh>
         )}
         {face.mouthType === "sad" && (
-          <mesh position={[0, 0.73, 0.18]} material={mouthMat}><boxGeometry args={[0.10, 0.02, 0.02]} /></mesh>
+          <mesh position={[0, 0.89, 0.18]} material={mouthMat}><boxGeometry args={[0.08, 0.016, 0.014]} /></mesh>
         )}
         {face.mouthType === "neutral" && (
-          <mesh position={[0, 0.74, 0.18]} material={mouthMat}><boxGeometry args={[0.08, 0.02, 0.02]} /></mesh>
+          <mesh position={[0, 0.9, 0.18]} material={mouthMat}><boxGeometry args={[0.065, 0.016, 0.014]} /></mesh>
         )}
         {face.mouthType === "open" && (
-          <mesh position={[0, 0.73, 0.18]} material={mouthMat}><boxGeometry args={[0.08, 0.06, 0.02]} /></mesh>
+          <mesh position={[0, 0.89, 0.18]} material={mouthMat}><boxGeometry args={[0.065, 0.05, 0.014]} /></mesh>
         )}
         {face.mouthType === "tongue" && (<>
-          <mesh position={[0, 0.74, 0.18]} material={mouthMat}><boxGeometry args={[0.12, 0.02, 0.02]} /></mesh>
-          <mesh position={[0, 0.72, 0.19]}><boxGeometry args={[0.06, 0.04, 0.02]} /><meshStandardMaterial color={face.mouthColor} /></mesh>
+          <mesh position={[0, 0.9, 0.18]} material={mouthMat}><boxGeometry args={[0.10, 0.016, 0.014]} /></mesh>
+          <mesh position={[0, 0.878, 0.185]}><sphereGeometry args={[0.024, 8, 6]} /><meshStandardMaterial color={face.mouthColor} /></mesh>
         </>)}
         {face.mouthType === "cat" && (<>
-          <mesh position={[0.04, 0.74, 0.18]} material={mouthMat} rotation={[0, 0, 0.3]}><boxGeometry args={[0.06, 0.015, 0.02]} /></mesh>
-          <mesh position={[-0.04, 0.74, 0.18]} material={mouthMat} rotation={[0, 0, -0.3]}><boxGeometry args={[0.06, 0.015, 0.02]} /></mesh>
+          <mesh position={[0.033, 0.9, 0.18]} material={mouthMat} rotation={[0, 0, 0.3]}><boxGeometry args={[0.05, 0.012, 0.012]} /></mesh>
+          <mesh position={[-0.033, 0.9, 0.18]} material={mouthMat} rotation={[0, 0, -0.3]}><boxGeometry args={[0.05, 0.012, 0.012]} /></mesh>
+          <mesh position={[0, 0.9, 0.18]}><sphereGeometry args={[0.01, 5, 5]} /><meshStandardMaterial color={face.mouthColor} /></mesh>
         </>)}
         {face.mouthType === "fangs" && (<>
-          <mesh position={[0, 0.74, 0.18]} material={mouthMat}><boxGeometry args={[0.14, 0.03, 0.02]} /></mesh>
-          <mesh position={[0.04, 0.72, 0.18]}><boxGeometry args={[0.02, 0.04, 0.02]} /><meshStandardMaterial color="#FFFFFF" /></mesh>
-          <mesh position={[-0.04, 0.72, 0.18]}><boxGeometry args={[0.02, 0.04, 0.02]} /><meshStandardMaterial color="#FFFFFF" /></mesh>
+          <mesh position={[0, 0.9, 0.18]} material={mouthMat}><boxGeometry args={[0.11, 0.025, 0.012]} /></mesh>
+          <mesh position={[0.032, 0.878, 0.18]}><boxGeometry args={[0.016, 0.034, 0.012]} /><meshStandardMaterial color="#FFFFFF" /></mesh>
+          <mesh position={[-0.032, 0.878, 0.18]}><boxGeometry args={[0.016, 0.034, 0.012]} /><meshStandardMaterial color="#FFFFFF" /></mesh>
         </>)}
 
         {/* ── FACE: Blush ── */}
         {face.blush && (
           <>
-            <mesh position={[0.14, 0.8, 0.16]}><boxGeometry args={[0.06, 0.04, 0.02]} /><meshStandardMaterial color={face.blushColor || "#FF9999"} transparent opacity={0.5} /></mesh>
-            <mesh position={[-0.14, 0.8, 0.16]}><boxGeometry args={[0.06, 0.04, 0.02]} /><meshStandardMaterial color={face.blushColor || "#FF9999"} transparent opacity={0.5} /></mesh>
+            <mesh position={[0.12, 0.95, 0.15]}><sphereGeometry args={[0.034, 8, 6]} /><meshStandardMaterial color={face.blushColor || "#FF9999"} transparent opacity={0.4} roughness={0.9} /></mesh>
+            <mesh position={[-0.12, 0.95, 0.15]}><sphereGeometry args={[0.034, 8, 6]} /><meshStandardMaterial color={face.blushColor || "#FF9999"} transparent opacity={0.4} roughness={0.9} /></mesh>
           </>
         )}
 
         {/* ── GLASSES ── */}
         {glassesDef && glassesDef.type === "sunglasses" && (
-          <group position={[0, 0.85, 0.19]}>
-            <mesh position={[0.08, 0, 0]}><boxGeometry args={[0.09, 0.06, 0.02]} /><meshStandardMaterial color={glassesDef.lensColor} /></mesh>
-            <mesh position={[-0.08, 0, 0]}><boxGeometry args={[0.09, 0.06, 0.02]} /><meshStandardMaterial color={glassesDef.lensColor} /></mesh>
-            <mesh><boxGeometry args={[0.04, 0.015, 0.01]} /><meshStandardMaterial color={glassesDef.color} /></mesh>
+          <group position={[0, 0.99, 0.183]}>
+            <mesh position={[0.07, 0, 0]}><boxGeometry args={[0.075, 0.05, 0.014]} /><meshStandardMaterial color={glassesDef.lensColor} transparent opacity={0.85} /></mesh>
+            <mesh position={[-0.07, 0, 0]}><boxGeometry args={[0.075, 0.05, 0.014]} /><meshStandardMaterial color={glassesDef.lensColor} transparent opacity={0.85} /></mesh>
+            <mesh><boxGeometry args={[0.032, 0.012, 0.008]} /><meshStandardMaterial color={glassesDef.color} /></mesh>
           </group>
         )}
         {glassesDef && glassesDef.type === "round" && (
-          <group position={[0, 0.85, 0.19]}>
-            <mesh position={[0.08, 0, 0]}><sphereGeometry args={[0.04, 8, 8]} /><meshStandardMaterial color={glassesDef.lensColor} transparent opacity={0.4} /></mesh>
-            <mesh position={[-0.08, 0, 0]}><sphereGeometry args={[0.04, 8, 8]} /><meshStandardMaterial color={glassesDef.lensColor} transparent opacity={0.4} /></mesh>
-            <mesh><boxGeometry args={[0.03, 0.01, 0.01]} /><meshStandardMaterial color={glassesDef.color} /></mesh>
+          <group position={[0, 0.99, 0.183]}>
+            <mesh position={[0.07, 0, 0]} rotation={[Math.PI / 2, 0, 0]}><torusGeometry args={[0.028, 0.007, 6, 14]} /><meshStandardMaterial color={glassesDef.color} /></mesh>
+            <mesh position={[-0.07, 0, 0]} rotation={[Math.PI / 2, 0, 0]}><torusGeometry args={[0.028, 0.007, 6, 14]} /><meshStandardMaterial color={glassesDef.color} /></mesh>
+            <mesh><boxGeometry args={[0.028, 0.007, 0.006]} /><meshStandardMaterial color={glassesDef.color} /></mesh>
           </group>
         )}
         {glassesDef && glassesDef.type === "visor" && (
-          <mesh position={[0, 0.85, 0.19]}><boxGeometry args={[0.3, 0.08, 0.02]} /><meshStandardMaterial color={glassesDef.lensColor} emissive={glassesDef.color} emissiveIntensity={0.5} transparent opacity={0.7} /></mesh>
+          <mesh position={[0, 0.99, 0.185]}><boxGeometry args={[0.25, 0.06, 0.012]} /><meshStandardMaterial color={glassesDef.lensColor} emissive={glassesDef.color} emissiveIntensity={0.5} transparent opacity={0.7} /></mesh>
         )}
         {glassesDef && glassesDef.type === "monocle" && (
-          <group position={[0.08, 0.85, 0.19]}>
-            <mesh><sphereGeometry args={[0.04, 8, 8]} /><meshStandardMaterial color={glassesDef.lensColor} transparent opacity={0.3} /></mesh>
-            <mesh rotation={[Math.PI / 2, 0, 0]}><torusGeometry args={[0.04, 0.005, 8, 12]} /><meshStandardMaterial color={glassesDef.color} /></mesh>
+          <group position={[0.07, 0.99, 0.184]}>
+            <mesh rotation={[Math.PI / 2, 0, 0]}><torusGeometry args={[0.03, 0.006, 6, 14]} /><meshStandardMaterial color={glassesDef.color} metalness={0.6} /></mesh>
           </group>
         )}
         {glassesDef && glassesDef.type === "thug" && (
-          <group position={[0, 0.86, 0.19]}>
-            <mesh position={[0.08, 0, 0]}><boxGeometry args={[0.10, 0.05, 0.02]} /><meshStandardMaterial color="#000000" /></mesh>
-            <mesh position={[-0.08, 0, 0]}><boxGeometry args={[0.10, 0.05, 0.02]} /><meshStandardMaterial color="#000000" /></mesh>
-            <mesh><boxGeometry args={[0.04, 0.02, 0.01]} /><meshStandardMaterial color="#000000" /></mesh>
+          <group position={[0, 0.99, 0.183]}>
+            <mesh position={[0.07, 0, 0]}><boxGeometry args={[0.085, 0.042, 0.014]} /><meshStandardMaterial color="#000000" /></mesh>
+            <mesh position={[-0.07, 0, 0]}><boxGeometry args={[0.085, 0.042, 0.014]} /><meshStandardMaterial color="#000000" /></mesh>
+            <mesh><boxGeometry args={[0.032, 0.014, 0.009]} /><meshStandardMaterial color="#000000" /></mesh>
           </group>
         )}
 
-        {/* ── BODY ── */}
-        <mesh position={[0, 0.42, 0]} material={bodyMat}>
-          <boxGeometry args={[0.38, 0.42, 0.24]} />
-        </mesh>
-
-        {/* Top accent (collar/detail line for hoodie/jacket/suit) */}
-        {topDef && topDef.accent && (
-          <mesh position={[0, 0.6, 0.12]}>
-            <boxGeometry args={[0.2, 0.03, 0.02]} />
-            <meshStandardMaterial color={topDef.accent} />
-          </mesh>
-        )}
-
-        {/* ── CAPE ── */}
-        {capeDef && capeMat && (
-          <group position={[0, 0.5, -0.14]}>
-            <mesh material={capeMat}><boxGeometry args={[0.34, 0.5, 0.03]} /></mesh>
-          </group>
-        )}
-
-        {/* ── ARMS ── */}
-        <group ref={leftArmRef} position={[0.28, 0.55, 0]}>
-          <mesh position={[0, -0.17, 0]} material={armMat}>
-            <boxGeometry args={[0.12, 0.36, 0.12]} />
-          </mesh>
-          {gloveMat && <mesh position={[0, -0.33, 0]} material={gloveMat}><boxGeometry args={[0.13, 0.1, 0.13]} /></mesh>}
-        </group>
-        <group ref={rightArmRef} position={[-0.28, 0.55, 0]}>
-          <mesh position={[0, -0.17, 0]} material={armMat}>
-            <boxGeometry args={[0.12, 0.36, 0.12]} />
-          </mesh>
-          {gloveMat && <mesh position={[0, -0.33, 0]} material={gloveMat}><boxGeometry args={[0.13, 0.1, 0.13]} /></mesh>}
-        </group>
-
-        {/* ── LEGS ── */}
-        <group ref={leftLegRef} position={[0.1, 0.2, 0]}>
-          <mesh position={[0, -0.17, 0]} material={limbMat}>
-            <boxGeometry args={[0.14, 0.28, 0.14]} />
-          </mesh>
-          <mesh position={[0, -0.33, 0.02]} material={shoeMat}>
-            <boxGeometry args={[0.15, 0.08, 0.2]} />
-          </mesh>
-        </group>
-        <group ref={rightLegRef} position={[-0.1, 0.2, 0]}>
-          <mesh position={[0, -0.17, 0]} material={limbMat}>
-            <boxGeometry args={[0.14, 0.28, 0.14]} />
-          </mesh>
-          <mesh position={[0, -0.33, 0.02]} material={shoeMat}>
-            <boxGeometry args={[0.15, 0.08, 0.2]} />
-          </mesh>
-        </group>
-        {/* Skin particle glow aura */}
+        {/* ── SKIN GLOW ── */}
         {skin.particle && (
-          <pointLight
-            position={[0, 0.5, 0]}
-            color={skin.particle}
-            intensity={skin.emissiveIntensity * 2}
-            distance={3}
-          />
+          <pointLight position={[0, 0.6, 0]} color={skin.particle} intensity={skin.emissiveIntensity * 2} distance={3} />
         )}
-        {/* Crown for legendary skin (default if no hat equipped) */}
+
+        {/* ── HATS ── */}
+        {/* Legendary crown (no hat equipped) */}
         {skin.id === "legendary" && !hat && (
-          <group position={[0, 1.05, 0]}>
-            <mesh>
-              <cylinderGeometry args={[0.18, 0.22, 0.1, 5]} />
-              <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={0.8} />
-            </mesh>
-            {[0, 1, 2, 3, 4].map((i) => (
-              <mesh key={i} position={[
-                Math.sin((i / 5) * Math.PI * 2) * 0.17,
-                0.1,
-                Math.cos((i / 5) * Math.PI * 2) * 0.17
-              ]}>
-                <boxGeometry args={[0.04, 0.08, 0.04]} />
+          <group position={[0, 1.2, 0]}>
+            <mesh><cylinderGeometry args={[0.17, 0.2, 0.09, 5]} /><meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={0.8} metalness={0.7} /></mesh>
+            {[0,1,2,3,4].map((i) => (
+              <mesh key={i} position={[Math.sin((i/5)*Math.PI*2)*0.15, 0.08, Math.cos((i/5)*Math.PI*2)*0.15]}>
+                <coneGeometry args={[0.025, 0.1, 4]} />
                 <meshStandardMaterial color="#FFD700" emissive="#FF1493" emissiveIntensity={0.6} />
               </mesh>
             ))}
           </group>
         )}
-
-        {/* Equipped hat */}
         {hat && hat.type === "crown" && (
-          <group position={[0, 1.05, 0]}>
-            <mesh>
-              <cylinderGeometry args={[0.18, 0.22, 0.1, 5]} />
-              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
-            </mesh>
-            {[0, 1, 2, 3, 4].map((i) => (
-              <mesh key={i} position={[Math.sin((i / 5) * Math.PI * 2) * 0.17, 0.1, Math.cos((i / 5) * Math.PI * 2) * 0.17]}>
-                <boxGeometry args={[0.04, 0.08, 0.04]} />
-                <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity * 0.8} />
+          <group position={[0, 1.2, 0]}>
+            <mesh><cylinderGeometry args={[0.17, 0.2, 0.09, 5]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} metalness={0.7} /></mesh>
+            {[0,1,2,3,4].map((i) => (
+              <mesh key={i} position={[Math.sin((i/5)*Math.PI*2)*0.15, 0.08, Math.cos((i/5)*Math.PI*2)*0.15]}>
+                <coneGeometry args={[0.024, 0.1, 4]} />
+                <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity * 0.9} />
               </mesh>
             ))}
           </group>
         )}
         {hat && hat.type === "cap" && (
-          <group position={[0, 1.02, 0]}>
-            <mesh>
-              <cylinderGeometry args={[0.22, 0.22, 0.08, 8]} />
-              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
-            </mesh>
-            <mesh position={[0, 0.06, 0]}>
-              <sphereGeometry args={[0.2, 8, 4, 0, Math.PI * 2, 0, Math.PI / 2]} />
-              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
-            </mesh>
-            <mesh position={[0, 0, 0.22]} rotation={[-0.3, 0, 0]}>
-              <boxGeometry args={[0.3, 0.02, 0.15]} />
-              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity * 0.5} />
-            </mesh>
+          <group position={[0, 1.16, 0]} rotation={[0.1, 0, 0]}>
+            <mesh><sphereGeometry args={[0.2, 10, 6, 0, Math.PI*2, 0, Math.PI*0.5]} /><meshStandardMaterial color={hat.color} roughness={0.7} /></mesh>
+            <mesh position={[0, -0.04, 0.18]} rotation={[0.3, 0, 0]}><boxGeometry args={[0.32, 0.04, 0.2]} /><meshStandardMaterial color={hat.color} roughness={0.7} /></mesh>
           </group>
         )}
         {hat && hat.type === "halo" && (
-          <group position={[0, 1.15, 0]}>
-            <mesh rotation={[Math.PI / 2, 0, 0]}>
-              <torusGeometry args={[0.22, 0.03, 8, 16]} />
-              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
-            </mesh>
+          <group position={[0, 1.32, 0]}>
+            <mesh rotation={[Math.PI/2, 0, 0]}><torusGeometry args={[0.2, 0.028, 8, 18]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} roughness={0.1} metalness={0.8} /></mesh>
             <pointLight color={hat.emissive} intensity={1.5} distance={3} />
           </group>
         )}
         {hat && hat.type === "horns" && (
-          <group position={[0, 1.0, 0]}>
-            <mesh position={[0.14, 0.08, 0]} rotation={[0, 0, 0.4]}>
-              <coneGeometry args={[0.06, 0.22, 5]} />
-              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
-            </mesh>
-            <mesh position={[-0.14, 0.08, 0]} rotation={[0, 0, -0.4]}>
-              <coneGeometry args={[0.06, 0.22, 5]} />
-              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
-            </mesh>
+          <group position={[0, 1.15, 0]}>
+            <mesh position={[0.12, 0.06, 0]} rotation={[0, 0, 0.4]}><coneGeometry args={[0.055, 0.2, 5]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} /></mesh>
+            <mesh position={[-0.12, 0.06, 0]} rotation={[0, 0, -0.4]}><coneGeometry args={[0.055, 0.2, 5]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} /></mesh>
           </group>
         )}
         {hat && hat.type === "tophat" && (
-          <group position={[0, 1.02, 0]}>
-            <mesh>
-              <cylinderGeometry args={[0.22, 0.22, 0.04, 12]} />
-              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
-            </mesh>
-            <mesh position={[0, 0.18, 0]}>
-              <cylinderGeometry args={[0.15, 0.15, 0.3, 12]} />
-              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
-            </mesh>
+          <group position={[0, 1.18, 0]}>
+            <mesh><cylinderGeometry args={[0.15, 0.15, 0.28, 12]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} /></mesh>
+            <mesh position={[0, -0.14, 0]}><cylinderGeometry args={[0.22, 0.22, 0.03, 12]} /><meshStandardMaterial color={hat.color} roughness={0.8} /></mesh>
           </group>
         )}
         {hat && hat.type === "helmet" && (
-          <group position={[0, 0.95, 0]}>
-            <mesh>
-              <sphereGeometry args={[0.22, 8, 6, 0, Math.PI * 2, 0, Math.PI / 2]} />
-              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
-            </mesh>
-          </group>
+          <mesh position={[0, 1.1, 0]}><sphereGeometry args={[0.22, 10, 7, 0, Math.PI*2, 0, Math.PI*0.6]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} roughness={0.3} metalness={0.5} /></mesh>
         )}
         {hat && hat.type === "antenna" && (
-          <group position={[0, 1.02, 0]}>
-            <mesh position={[0, 0.15, 0]}>
-              <cylinderGeometry args={[0.015, 0.015, 0.3, 4]} />
-              <meshStandardMaterial color="#888888" emissive="#444444" emissiveIntensity={0.2} />
-            </mesh>
-            <mesh position={[0, 0.33, 0]}>
-              <sphereGeometry args={[0.06, 8, 8]} />
-              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
-            </mesh>
-            <pointLight position={[0, 0.33, 0]} color={hat.emissive} intensity={2} distance={3} />
+          <group position={[0, 1.18, 0]}>
+            <mesh position={[0, 0.14, 0]}><cylinderGeometry args={[0.013, 0.013, 0.28, 5]} /><meshStandardMaterial color="#888888" metalness={0.6} /></mesh>
+            <mesh position={[0, 0.3, 0]}><sphereGeometry args={[0.052, 8, 8]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} /></mesh>
+            <pointLight position={[0, 0.3, 0]} color={hat.emissive} intensity={2} distance={3} />
           </group>
         )}
         {hat && hat.type === "wizard" && (
-          <group position={[0, 1.0, 0]}>
-            <mesh>
-              <coneGeometry args={[0.22, 0.45, 6]} />
-              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity} />
-            </mesh>
-            <mesh position={[0, 0.0, 0]}>
-              <cylinderGeometry args={[0.25, 0.25, 0.04, 12]} />
-              <meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity * 0.5} />
-            </mesh>
+          <group position={[0, 1.15, 0]}>
+            <mesh><coneGeometry args={[0.2, 0.42, 10]} /><meshStandardMaterial color={hat.color} emissive={hat.emissive} emissiveIntensity={hat.emissiveIntensity * 0.6} roughness={0.7} /></mesh>
+            <mesh position={[0, 0, 0]}><cylinderGeometry args={[0.24, 0.24, 0.04, 12]} /><meshStandardMaterial color={hat.color} roughness={0.75} /></mesh>
           </group>
         )}
       </group>
