@@ -6,7 +6,7 @@ import { Canvas, useFrame } from "@react-three/fiber";
 import * as THREE from "three";
 import {
   Calculator, ArrowLeft, Check, X as XIcon,
-  RotateCcw, Home, Send, BookOpen, Sparkles, Clock,
+  RotateCcw, Home, BookOpen, Sparkles, Clock,
 } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
@@ -1387,34 +1387,6 @@ export default function MathTestPage() {
               <XIcon size={20} />
             </motion.button>
 
-            {/* Submit button - Safe area friendly */}
-            {!isGrading && (
-              <div
-                className="fixed bottom-0 left-0 right-0 p-4 z-20"
-                style={{
-                  background: "linear-gradient(transparent, #f5f0e8 30%)",
-                  paddingBottom: "max(1rem, env(safe-area-inset-bottom))",
-                  paddingRight: "calc(160px + 1rem)"
-                }}
-              >
-                <motion.button
-                  onClick={handleSubmit}
-                  disabled={!allAnswered || submitting || (testType === "klassenarbeit" && klassenarbeitTimeLeft <= 0)}
-                  className={`w-full max-w-lg mx-auto block py-4 rounded-2xl font-black text-lg tracking-wider transition-all ${
-                    allAnswered && !submitting && !(testType === "klassenarbeit" && klassenarbeitTimeLeft <= 0)
-                      ? "bg-gray-800 text-white shadow-lg"
-                      : "bg-gray-300 text-gray-500 cursor-not-allowed"
-                  }`}
-                  whileHover={allAnswered && !submitting && !(testType === "klassenarbeit" && klassenarbeitTimeLeft <= 0) ? { scale: 1.02 } : undefined}
-                  whileTap={allAnswered && !submitting && !(testType === "klassenarbeit" && klassenarbeitTimeLeft <= 0) ? { scale: 0.98 } : undefined}
-                >
-                  <div className="flex items-center justify-center gap-2">
-                    <Send size={20} />
-                    {submitting ? "Értékelés..." : (ui?.submit || "BEADOM!")}
-                  </div>
-                </motion.button>
-              </div>
-            )}
           </div>
         </div>
         </ModernPaperTest>
