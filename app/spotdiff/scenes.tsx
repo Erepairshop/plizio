@@ -418,6 +418,495 @@ function MountainSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGPro
   );
 }
 
+// ─── SCENE 11: KASTÉLY ───────────────────────────────────────────────────────
+function CastleSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <rect width="320" height="200" fill="#6A8FC8" />
+      {/* Castle wall */}
+      <rect x="40" y="80" width="240" height="120" fill="#8B8682" />
+      {/* Left tower */}
+      <rect x="30" y="40" width="60" height="120" fill="#8B8682" />
+      {/* Right tower */}
+      <rect x="230" y="40" width="60" height="120" fill="#8B8682" />
+      {/* Battlements left tower */}
+      {[30,42,54,66,78].map(x => <rect key={x} x={x} y="32" width="8" height="12" fill="#8B8682" />)}
+      {/* Battlements right tower */}
+      {[230,242,254,266,278].map(x => <rect key={x} x={x} y="32" width="8" height="12" fill="#8B8682" />)}
+      {/* Battlements center */}
+      {[80,100,120,140,160,180,200,220].map(x => <rect key={x} x={x} y="72" width="12" height="12" fill="#8B8682" />)}
+      {/* Gate */}
+      <path d="M130,200 L130,155 Q160,130 190,155 L190,200" fill="#333" />
+      {/* Drawbridge: missing on right */}
+      {!R && <rect x="130" y="155" width="60" height="8" fill="#8B5E3C" />}
+      {/* Windows left tower */}
+      <rect x="44" y="60" width="14" height="12" rx="2" fill={R ? "#1A3060" : "#FFD700"} />
+      <rect x="44" y="80" width="14" height="12" rx="2" fill="#1A3060" />
+      <rect x="62" y="60" width="14" height="12" rx="2" fill="#1A3060" />
+      {/* Windows right tower */}
+      <rect x="246" y="60" width="14" height="12" rx="2" fill="#1A3060" />
+      <rect x="264" y="60" width="14" height="12" rx="2" fill="#1A3060" />
+      {/* Dragon: missing on right */}
+      {!R && <>
+        <ellipse cx="50" cy="82" rx="20" ry="14" fill="#4CAF50" />
+        <ellipse cx="68" cy="74" rx="12" ry="9" fill="#4CAF50" />
+        <circle cx="72" cy="71" r="3" fill="black" />
+        <path d="M38,76 Q28,65 32,58" fill="none" stroke="#4CAF50" strokeWidth="4" strokeLinecap="round" />
+        <path d="M40,72 Q28,72 25,68" fill="none" stroke="#4CAF50" strokeWidth="4" strokeLinecap="round" />
+      </>}
+      {/* Cloud: left=2 clouds, right=1 */}
+      <ellipse cx="70" cy="22" rx="28" ry="12" fill="white" opacity="0.85" />
+      {!R && <ellipse cx="70" cy="13" rx="16" ry="9" fill="white" opacity="0.85" />}
+      <ellipse cx="240" cy="18" rx="25" ry="10" fill="white" opacity="0.85" />
+      {/* Flag */}
+      <rect x="156" y="5" width="3" height="28" fill="#8B5E3C" />
+      <polygon points="159,5 159,18 175,11" fill={R ? "#4CAF50" : "#FF2D78"} />
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+
+// ─── SCENE 12: KALÓZHAJÓ ─────────────────────────────────────────────────────
+function PirateSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <rect width="320" height="110" fill="#87CEEB" />
+      <rect y="110" width="320" height="90" fill="#1A5276" />
+      {/* Waves */}
+      <path d="M0,120 Q40,112 80,120 Q120,128 160,120 Q200,112 240,120 Q280,128 320,120" fill="none" stroke="#5DADE2" strokeWidth="2" opacity="0.6" />
+      {/* Ship hull */}
+      <path d="M60,130 Q160,150 260,130 L250,170 Q160,185 70,170 Z" fill="#8B5E3C" />
+      {/* Hull plank lines */}
+      <path d="M75,145 Q160,162 248,145" fill="none" stroke="#6B4423" strokeWidth="1.5" opacity="0.5" />
+      <path d="M80,158 Q160,175 243,158" fill="none" stroke="#6B4423" strokeWidth="1.5" opacity="0.5" />
+      {/* Mast */}
+      <rect x="157" y="30" width="6" height="120" fill="#8B5E3C" />
+      {/* Sail color */}
+      <polygon points="163,35 163,115 220,75" fill={R ? "#F4D03F" : "white"} />
+      {/* Skull flag */}
+      <rect x="163" y="30" width="40" height="28" fill="black" />
+      {!R && <>
+        <circle cx="183" cy="40" r="6" fill="white" />
+        <line x1="175" y1="50" x2="191" y2="50" stroke="white" strokeWidth="2" />
+        <line x1="175" y1="47" x2="191" y2="53" stroke="white" strokeWidth="2" />
+      </>}
+      {/* Cannons: left=2, right=1 */}
+      <rect x="258" y="138" width="35" height="14" rx="7" fill="#555" />
+      {!R && <rect x="258" y="120" width="35" height="14" rx="7" fill="#555" />}
+      {/* Portholes: left=3, right=2 */}
+      <circle cx="90" cy="150" r="8" fill="#1A5276" stroke="#8B5E3C" strokeWidth="2" />
+      <circle cx="115" cy="152" r="8" fill="#1A5276" stroke="#8B5E3C" strokeWidth="2" />
+      {!R && <circle cx="140" cy="152" r="8" fill="#1A5276" stroke="#8B5E3C" strokeWidth="2" />}
+      {/* Sun: left=rays, right=circle only */}
+      <circle cx="240" cy="25" r="20" fill="#FFD700" />
+      {!R && [0,60,120,180,240,300].map((a, i) => {
+        const rad = (a * Math.PI) / 180;
+        return <line key={i} x1={240+24*Math.cos(rad)} y1={25+24*Math.sin(rad)} x2={240+36*Math.cos(rad)} y2={25+36*Math.sin(rad)} stroke="#FFD700" strokeWidth="2.5" strokeLinecap="round" />;
+      })}
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+
+// ─── SCENE 13: KÁVÉZÓ ────────────────────────────────────────────────────────
+function CafeSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <rect width="320" height="200" fill="#FFF3E0" />
+      <rect y="140" width="320" height="60" fill="#8D6E63" />
+      {/* Counter top */}
+      <rect y="135" width="320" height="8" fill="#6D4C41" />
+      {/* Window */}
+      <rect x="220" y="20" width="80" height="80" rx="4" fill="#AED6F1" stroke="#8D6E63" strokeWidth="2" />
+      <line x1="260" y1="20" x2="260" y2="100" stroke="#8D6E63" strokeWidth="2" />
+      <line x1="220" y1="60" x2="300" y2="60" stroke="#8D6E63" strokeWidth="2" />
+      {/* Curtain color */}
+      <rect x="220" y="20" width="14" height="80" fill={R ? "#4FC3F7" : "#FF6B6B"} opacity="0.7" rx="2" />
+      <rect x="286" y="20" width="14" height="80" fill={R ? "#4FC3F7" : "#FF6B6B"} opacity="0.7" rx="2" />
+      {/* Chalkboard */}
+      <rect x="20" y="15" width="80" height="50" rx="3" fill="#1B5E20" />
+      <rect x="20" y="15" width="80" height="50" rx="3" fill="none" stroke="#4A3728" strokeWidth="3" />
+      {/* Menu writing: missing on right */}
+      {!R && <>
+        <line x1="28" y1="30" x2="90" y2="30" stroke="white" strokeWidth="1.5" />
+        <line x1="28" y1="40" x2="82" y2="40" stroke="white" strokeWidth="1.5" />
+        <line x1="28" y1="50" x2="76" y2="50" stroke="white" strokeWidth="1.5" />
+        <circle cx="33" cy="55" r="2" fill="white" opacity="0.8" />
+      </>}
+      {/* Cup 1 color */}
+      <path d="M72,92 L75,120 L105,120 L108,92 Z" fill={R ? "#9C27B0" : "#FF5722"} />
+      <ellipse cx="90" cy="92" rx="18" ry="8" fill={R ? "#9C27B0" : "#FF5722"} />
+      <path d="M108,98 Q120,107 108,118" fill="none" stroke={R ? "#9C27B0" : "#FF5722"} strokeWidth="3" />
+      <ellipse cx="90" cy="120" rx="22" ry="5" fill="#BDBDBD" />
+      <ellipse cx="90" cy="88" rx="15" ry="4" fill="rgba(255,255,255,0.3)" />
+      {/* Cup 2: missing on right */}
+      {!R && <>
+        <path d="M182,92 L185,120 L215,120 L218,92 Z" fill="#FF5722" />
+        <ellipse cx="200" cy="92" rx="18" ry="8" fill="#FF5722" />
+        <path d="M218,98 Q230,107 218,118" fill="none" stroke="#FF5722" strokeWidth="3" />
+        <ellipse cx="200" cy="120" rx="22" ry="5" fill="#BDBDBD" />
+      </>}
+      {/* Cake color */}
+      <rect x="140" y="112" width="40" height="30" rx="3" fill={R ? "#FF9800" : "#E91E63"} />
+      <path d="M138,112 Q160,102 182,112" fill={R ? "#FFE0B2" : "#FCE4EC"} />
+      <rect x="158" y="102" width="4" height="12" fill="white" />
+      <circle cx="160" cy="100" r="3" fill="#FFD700" />
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+
+// ─── SCENE 14: REPÜLŐ ────────────────────────────────────────────────────────
+function AirplaneSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <rect width="320" height="200" fill="#87CEEB" />
+      {/* Clouds: left=3, right=2 */}
+      <ellipse cx="200" cy="25" rx="35" ry="14" fill="white" opacity="0.9" />
+      <ellipse cx="200" cy="15" rx="20" ry="11" fill="white" opacity="0.9" />
+      <ellipse cx="80" cy="170" rx="30" ry="12" fill="white" opacity="0.85" />
+      {!R && <>
+        <ellipse cx="290" cy="155" rx="28" ry="11" fill="white" opacity="0.85" />
+        <ellipse cx="290" cy="146" rx="16" ry="9" fill="white" opacity="0.85" />
+      </>}
+      {/* Sun: left=rays, right=circle */}
+      <circle cx="55" cy="28" r="18" fill="#FFD700" />
+      {!R && [0,45,90,135,180,225,270,315].map((a, i) => {
+        const rad = (a * Math.PI) / 180;
+        return <line key={i} x1={55+22*Math.cos(rad)} y1={28+22*Math.sin(rad)} x2={55+33*Math.cos(rad)} y2={28+33*Math.sin(rad)} stroke="#FFD700" strokeWidth="2.5" strokeLinecap="round" />;
+      })}
+      {/* Plane body color */}
+      <ellipse cx="160" cy="100" rx="90" ry="28" fill={R ? "#FFD700" : "white"} />
+      {/* Nose */}
+      <path d="M250,100 Q268,88 250,76" fill={R ? "#FFD700" : "white"} />
+      {/* Tail */}
+      <path d="M70,100 Q55,80 72,72 L70,100 Z" fill={R ? "#FFD700" : "white"} />
+      {/* Wings */}
+      <path d="M130,100 Q138,138 165,134 L158,100 Z" fill={R ? "#FFD700" : "white"} />
+      <path d="M130,100 Q138,62 165,66 L158,100 Z" fill={R ? "#FFD700" : "white"} />
+      {/* Windows: left=5, right=3 */}
+      <circle cx="155" cy="93" r="8" fill="#AED6F1" stroke="#ccc" strokeWidth="1" />
+      <circle cx="178" cy="91" r="8" fill="#AED6F1" stroke="#ccc" strokeWidth="1" />
+      <circle cx="200" cy="91" r="8" fill="#AED6F1" stroke="#ccc" strokeWidth="1" />
+      {!R && <>
+        <circle cx="133" cy="95" r="8" fill="#AED6F1" stroke="#ccc" strokeWidth="1" />
+        <circle cx="222" cy="91" r="8" fill="#AED6F1" stroke="#ccc" strokeWidth="1" />
+      </>}
+      {/* Engine: left=2, right=1 */}
+      <ellipse cx="152" cy="132" rx="22" ry="12" fill="#BDBDBD" />
+      <ellipse cx="152" cy="132" rx="16" ry="8" fill="#9E9E9E" />
+      {!R && <>
+        <ellipse cx="152" cy="114" rx="22" ry="12" fill="#BDBDBD" />
+        <ellipse cx="152" cy="114" rx="16" ry="8" fill="#9E9E9E" />
+      </>}
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+
+// ─── SCENE 15: KERT ──────────────────────────────────────────────────────────
+function GardenSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <rect width="320" height="200" fill="#87CEEB" />
+      <rect y="145" width="320" height="55" fill="#4CAF50" />
+      {/* Garden path */}
+      <rect x="140" y="145" width="40" height="55" fill="#D4B896" />
+      {/* Gate posts */}
+      <rect x="134" y="110" width="8" height="40" fill="#8B5E3C" />
+      <rect x="178" y="110" width="8" height="40" fill="#8B5E3C" />
+      {/* Gate door: missing on right */}
+      {!R && <>
+        <rect x="142" y="118" width="36" height="32" rx="2" fill="#8B5E3C" stroke="#5D4037" strokeWidth="1" />
+        <line x1="160" y1="118" x2="160" y2="150" stroke="#5D4037" strokeWidth="1" />
+        <line x1="142" y1="134" x2="178" y2="134" stroke="#5D4037" strokeWidth="1" />
+      </>}
+      {/* Rose bush stem */}
+      <rect x="65" y="115" width="14" height="35" fill="#8B5E3C" />
+      {/* Rose color */}
+      <circle cx="72" cy="102" r="15" fill={R ? "#FF9800" : "#FF1744"} />
+      <circle cx="62" cy="108" r="10" fill={R ? "#FF9800" : "#FF1744"} opacity="0.85" />
+      <circle cx="82" cy="108" r="10" fill={R ? "#FF9800" : "#FF1744"} opacity="0.85" />
+      <circle cx="72" cy="90" r="8" fill={R ? "#FF9800" : "#FF1744"} opacity="0.75" />
+      {/* Leaves */}
+      <ellipse cx="55" cy="115" rx="10" ry="6" fill="#2E7D32" />
+      <ellipse cx="88" cy="115" rx="10" ry="6" fill="#2E7D32" />
+      {/* Butterfly: missing on right */}
+      {!R && <>
+        <path d="M200,75 Q185,60 195,80" fill="#FFD700" opacity="0.9" />
+        <path d="M200,75 Q215,60 205,80" fill="#FFD700" opacity="0.9" />
+        <circle cx="200" cy="78" r="2" fill="#FF5722" />
+      </>}
+      {/* Birdhouse */}
+      <rect x="268" y="68" width="28" height="22" rx="2" fill={R ? "#4CAF50" : "#FF5722"} />
+      <polygon points="266,68 282,54 298,68" fill={R ? "#2E7D32" : "#C62828"} />
+      <circle cx="282" cy="78" r="5" fill="#333" />
+      <rect x="280" y="90" width="4" height="40" fill="#8B5E3C" />
+      {/* Bee: missing on right */}
+      {!R && <>
+        <ellipse cx="240" cy="130" rx="10" ry="7" fill="#FFD700" />
+        <line x1="234" y1="130" x2="246" y2="130" stroke="#333" strokeWidth="2" />
+        <path d="M237,123 Q240,116 243,123" fill="white" opacity="0.8" />
+        <path d="M237,137 Q240,144 243,137" fill="white" opacity="0.8" />
+        <circle cx="248" cy="130" r="3" fill="#333" />
+      </>}
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+
+// ─── SCENE 16: SIVATAG ───────────────────────────────────────────────────────
+function DesertSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <rect width="320" height="200" fill="#F4A460" />
+      <path d="M0,148 Q80,118 160,138 Q240,158 320,128 L320,200 L0,200 Z" fill="#DEB887" />
+      {/* Sun color */}
+      <circle cx="275" cy="28" r="22" fill={R ? "#FF6B1A" : "#FFD700"} />
+      {/* Cactus 1 */}
+      <rect x="74" y="62" width="12" height="72" rx="6" fill="#4CAF50" />
+      {/* Cactus arm: missing on right */}
+      {!R && <>
+        <rect x="86" y="82" width="25" height="10" rx="5" fill="#4CAF50" />
+        <rect x="108" y="68" width="10" height="24" rx="5" fill="#4CAF50" />
+      </>}
+      {/* Cactus 2 */}
+      <rect x="210" y="75" width="12" height="62" rx="6" fill="#4CAF50" />
+      <rect x="194" y="90" width="18" height="9" rx="4" fill="#4CAF50" />
+      <rect x="222" y="85" width="18" height="9" rx="4" fill="#4CAF50" />
+      {/* Camel */}
+      <ellipse cx="160" cy="148" rx="28" ry="15" fill="#C4A35A" />
+      <rect x="148" y="143" width="10" height="22" rx="4" fill="#C4A35A" />
+      <rect x="162" y="143" width="10" height="22" rx="4" fill="#C4A35A" />
+      <rect x="180" y="145" width="9" height="20" rx="4" fill="#C4A35A" />
+      <ellipse cx="188" cy="142" rx="12" ry="10" fill="#C4A35A" />
+      <circle cx="192" cy="136" r="7" fill="#C4A35A" />
+      <circle cx="195" cy="134" r="2" fill="#333" />
+      {/* Humps: left=2, right=1 */}
+      <ellipse cx="152" cy="132" rx="10" ry="14" fill="#C4A35A" />
+      {!R && <ellipse cx="172" cy="130" rx="10" ry="14" fill="#C4A35A" />}
+      {/* Skull */}
+      <circle cx="55" cy="158" r="16" fill="white" stroke="#aaa" strokeWidth="1" />
+      <ellipse cx="48" cy="154" rx="4" ry="4" fill="#888" />
+      <ellipse cx="62" cy="154" rx="4" ry="4" fill="#888" />
+      {/* Skull teeth: missing on right */}
+      {!R && <>
+        <rect x="48" y="167" width="4" height="5" fill="white" stroke="#888" strokeWidth="0.5" />
+        <rect x="54" y="167" width="4" height="5" fill="white" stroke="#888" strokeWidth="0.5" />
+        <rect x="60" y="167" width="4" height="5" fill="white" stroke="#888" strokeWidth="0.5" />
+      </>}
+      {/* Birds: left=3, right=1 */}
+      <path d="M225,55 Q232,48 239,55" fill="none" stroke="#333" strokeWidth="1.5" />
+      {!R && <>
+        <path d="M244,42 Q251,35 258,42" fill="none" stroke="#333" strokeWidth="1.5" />
+        <path d="M262,62 Q269,55 276,62" fill="none" stroke="#333" strokeWidth="1.5" />
+      </>}
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+
+// ─── SCENE 17: DZSUNGEL ──────────────────────────────────────────────────────
+function JungleSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <rect width="320" height="200" fill="#1B5E20" />
+      {/* Background foliage */}
+      <ellipse cx="80" cy="60" rx="55" ry="70" fill="#2E7D32" opacity="0.7" />
+      <ellipse cx="240" cy="50" rx="55" ry="65" fill="#2E7D32" opacity="0.7" />
+      <ellipse cx="160" cy="40" rx="60" ry="50" fill="#388E3C" opacity="0.6" />
+      {/* Waterfall */}
+      <rect x="150" y="60" width="20" height="100" fill="#1E88E5" opacity="0.6" />
+      {!R && <rect x="135" y="60" width="15" height="100" fill="#1E88E5" opacity="0.4" />}
+      <path d="M130,160 Q160,155 190,160" fill="#1565C0" opacity="0.5" />
+      {/* Monkey */}
+      <circle cx="80" cy="75" r="22" fill={R ? "#FF8F00" : "#8D5524"} />
+      <ellipse cx="80" cy="80" rx="14" ry="12" fill={R ? "#FFCC80" : "#FFCCBC"} />
+      <circle cx="74" cy="74" r="4" fill="black" />
+      <circle cx="86" cy="74" r="4" fill="black" />
+      <path d="M80,88 Q88,93 86,98" fill="none" stroke={R ? "#FFCC80" : "#FFCCBC"} strokeWidth="2" />
+      {/* Branch */}
+      <rect x="30" y="92" width="100" height="8" rx="4" fill="#5D4037" />
+      {/* Banana: color diff */}
+      <path d="M75,148 Q65,137 80,130 Q90,137 80,148" fill={R ? "#9CCC65" : "#FFD700"} />
+      <path d="M80,148 Q70,137 85,130 Q95,137 85,148" fill={R ? "#9CCC65" : "#FFD700"} />
+      {/* Parrot */}
+      <ellipse cx="240" cy="65" rx="16" ry="20" fill={R ? "#00BCD4" : "#FF5252"} />
+      <path d="M228,62 Q218,80 235,88" fill={R ? "#0097A7" : "#C62828"} />
+      <polygon points="254,67 264,70 254,73" fill="#FFD700" />
+      <circle cx="248" cy="60" r="4" fill="black" />
+      {/* Palm fronds: left=5, right=3 */}
+      <path d="M260,132 Q240,112 230,102" fill="none" stroke="#4CAF50" strokeWidth="8" strokeLinecap="round" />
+      <path d="M260,132 Q280,108 292,98" fill="none" stroke="#4CAF50" strokeWidth="8" strokeLinecap="round" />
+      <path d="M260,132 Q258,105 262,90" fill="none" stroke="#4CAF50" strokeWidth="8" strokeLinecap="round" />
+      {!R && <>
+        <path d="M260,132 Q235,125 220,122" fill="none" stroke="#4CAF50" strokeWidth="8" strokeLinecap="round" />
+        <path d="M260,132 Q288,130 302,128" fill="none" stroke="#4CAF50" strokeWidth="8" strokeLinecap="round" />
+      </>}
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+
+// ─── SCENE 18: ERDŐ ──────────────────────────────────────────────────────────
+function ForestSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <rect width="320" height="200" fill="#BBDEFB" />
+      <rect y="165" width="320" height="35" fill="#4CAF50" />
+      {/* Pine trees */}
+      <polygon points="55,60 35,130 75,130" fill={R ? "#37474F" : "#1B5E20"} />
+      <rect x="52" y="130" width="8" height="22" fill="#8B5E3C" />
+      <polygon points="100,55 78,125 122,125" fill="#1B5E20" />
+      <rect x="97" y="125" width="8" height="22" fill="#8B5E3C" />
+      <polygon points="220,60 198,130 242,130" fill="#1B5E20" />
+      <rect x="217" y="130" width="8" height="22" fill="#8B5E3C" />
+      <polygon points="265,65 243,130 287,130" fill="#1B5E20" />
+      <rect x="262" y="130" width="8" height="22" fill="#8B5E3C" />
+      {/* Extra pine: left only */}
+      {!R && <>
+        <polygon points="280,55 262,120 298,120" fill="#1B5E20" />
+        <rect x="277" y="120" width="8" height="22" fill="#8B5E3C" />
+      </>}
+      {/* Deer */}
+      <ellipse cx="160" cy="140" rx="28" ry="16" fill="#D2691E" />
+      <ellipse cx="178" cy="126" rx="12" ry="10" fill="#D2691E" />
+      <rect x="143" y="152" width="8" height="22" rx="3" fill="#D2691E" />
+      <rect x="157" y="152" width="8" height="22" rx="3" fill="#D2691E" />
+      <rect x="168" y="152" width="8" height="22" rx="3" fill="#D2691E" />
+      {/* Antlers: missing on right */}
+      {!R && <>
+        <path d="M178,116 Q172,103 168,95 Q166,103 170,105" fill="none" stroke="#8B5E3C" strokeWidth="3" strokeLinecap="round" />
+        <path d="M178,116 Q184,103 188,95 Q190,103 186,105" fill="none" stroke="#8B5E3C" strokeWidth="3" strokeLinecap="round" />
+      </>}
+      {/* Owl: missing on right */}
+      {!R && <>
+        <circle cx="260" cy="90" r="16" fill="#8D6E63" />
+        <circle cx="255" cy="86" r="5" fill="white" />
+        <circle cx="265" cy="86" r="5" fill="white" />
+        <circle cx="255" cy="86" r="3" fill="#FF8F00" />
+        <circle cx="265" cy="86" r="3" fill="#FF8F00" />
+        <polygon points="260,92 257,98 263,98" fill="#FF8F00" />
+      </>}
+      {/* Mushroom color */}
+      <rect x="163" y="155" width="14" height="18" rx="4" fill="white" />
+      <path d="M152,155 Q170,128 188,155" fill={R ? "#FFD700" : "#FF5252"} />
+      <ellipse cx="170" cy="155" rx="18" ry="10" fill={R ? "#FFD700" : "#FF5252"} />
+      {/* Berries color */}
+      <circle cx="220" cy="163" r="6" fill={R ? "#4CAF50" : "#E91E63"} />
+      <circle cx="228" cy="167" r="6" fill={R ? "#4CAF50" : "#E91E63"} />
+      <circle cx="214" cy="168" r="6" fill={R ? "#4CAF50" : "#E91E63"} />
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+
+// ─── SCENE 19: FOCI ──────────────────────────────────────────────────────────
+function SoccerSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <rect width="320" height="200" fill="#4CAF50" />
+      {/* Field lines */}
+      <line x1="160" y1="0" x2="160" y2="200" stroke="white" strokeWidth="2" opacity="0.5" />
+      <circle cx="160" cy="150" r="40" fill="none" stroke="white" strokeWidth="2" opacity="0.5" />
+      <circle cx="160" cy="150" r="4" fill="white" opacity="0.6" />
+      {/* Goal posts */}
+      <rect x="125" y="60" width="70" height="50" fill="none" stroke="white" strokeWidth="2" />
+      <rect x="125" y="60" width="4" height="50" fill="white" opacity="0.8" />
+      <rect x="191" y="60" width="4" height="50" fill="white" opacity="0.8" />
+      <rect x="125" y="60" width="70" height="4" fill="white" opacity="0.8" />
+      {/* Net: left=grid, right=none */}
+      {!R && <>
+        {[70,80,90,100].map(y => <line key={y} x1="125" y1={y} x2="195" y2={y} stroke="white" strokeWidth="0.8" opacity="0.5" />)}
+        {[135,150,165,180].map(x => <line key={x} x1={x} y1="60" x2={x} y2="110" stroke="white" strokeWidth="0.8" opacity="0.5" />)}
+      </>}
+      {/* Ball */}
+      <circle cx="160" cy="125" r="18" fill="white" stroke="#333" strokeWidth="1" />
+      {/* Ball spots: left=yes, right=plain */}
+      {!R && <>
+        <circle cx="160" cy="120" r="5" fill="#333" />
+        <circle cx="150" cy="128" r="4" fill="#333" />
+        <circle cx="170" cy="128" r="4" fill="#333" />
+        <circle cx="154" cy="115" r="3" fill="#333" />
+        <circle cx="166" cy="115" r="3" fill="#333" />
+      </>}
+      {/* Player 1 shirt color */}
+      <rect x="65" y="82" width="20" height="28" rx="4" fill={R ? "#2196F3" : "#FF5252"} />
+      <rect x="70" y="110" width="5" height="22" fill="#1A1A7E" />
+      <rect x="76" y="110" width="5" height="22" fill="#1A1A7E" />
+      <circle cx="75" cy="76" r="9" fill="#FFCC99" />
+      <rect x="58" y="86" width="10" height="5" rx="2" fill={R ? "#2196F3" : "#FF5252"} />
+      <rect x="82" y="86" width="10" height="5" rx="2" fill={R ? "#2196F3" : "#FF5252"} />
+      {/* Player 2: missing on right */}
+      {!R && <>
+        <rect x="255" y="78" width="20" height="28" rx="4" fill="#FF9800" />
+        <rect x="260" y="106" width="5" height="22" fill="#1A1A7E" />
+        <rect x="266" y="106" width="5" height="22" fill="#1A1A7E" />
+        <circle cx="265" cy="72" r="9" fill="#FFCC99" />
+        <rect x="248" y="82" width="10" height="5" rx="2" fill="#FF9800" />
+        <rect x="272" y="82" width="10" height="5" rx="2" fill="#FF9800" />
+      </>}
+      {/* Corner flag: missing on right */}
+      {!R && <>
+        <rect x="278" y="58" width="3" height="40" fill="white" />
+        <polygon points="281,58 281,71 296,64" fill="#FF5252" />
+      </>}
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+
+// ─── SCENE 20: JÁTSZÓTÉR ─────────────────────────────────────────────────────
+function PlaygroundSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <rect width="320" height="200" fill="#87CEEB" />
+      <rect y="160" width="320" height="40" fill="#8BC34A" />
+      {/* Sun */}
+      <circle cx="280" cy="28" r="18" fill="#FFD700" />
+      {/* Cloud */}
+      <ellipse cx="80" cy="28" rx="28" ry="12" fill="white" opacity="0.9" />
+      <ellipse cx="80" cy="19" rx="16" ry="9" fill="white" opacity="0.9" />
+      {/* Tree: missing on right */}
+      {!R && <>
+        <rect x="50" y="115" width="10" height="55" fill="#8B5E3C" />
+        <circle cx="55" cy="92" r="28" fill="#4CAF50" />
+      </>}
+      {/* Slide color */}
+      <rect x="50" y="80" width="50" height="10" fill={R ? "#9C27B0" : "#FF5722"} />
+      <rect x="50" y="130" width="12" height="35" fill="#8B5E3C" />
+      <rect x="98" y="130" width="12" height="35" fill="#8B5E3C" />
+      <path d="M58,88 Q72,135 104,162" fill="none" stroke={R ? "#9C27B0" : "#FF5722"} strokeWidth="10" strokeLinecap="round" />
+      <rect x="50" y="86" width="50" height="6" fill={R ? "#7B1FA2" : "#E64A19"} />
+      {/* Swing frame */}
+      <rect x="200" y="50" width="5" height="110" fill="#8B5E3C" />
+      <rect x="255" y="50" width="5" height="110" fill="#8B5E3C" />
+      <rect x="200" y="50" width="60" height="5" fill="#8B5E3C" />
+      {/* Swing 1 */}
+      <line x1="210" y1="55" x2="215" y2="110" stroke="#555" strokeWidth="2" />
+      <line x1="250" y1="55" x2="245" y2="110" stroke="#555" strokeWidth="2" />
+      <rect x="215" y="108" width="30" height="6" rx="2" fill="#8B5E3C" />
+      {/* Swing 2: missing on right */}
+      {!R && <>
+        <line x1="220" y1="55" x2="225" y2="100" stroke="#555" strokeWidth="2" />
+        <line x1="248" y1="55" x2="243" y2="100" stroke="#555" strokeWidth="2" />
+        <rect x="225" y="98" width="18" height="6" rx="2" fill="#8B5E3C" />
+      </>}
+      {/* Sandbox: missing on right */}
+      {!R && <>
+        <rect x="130" y="148" width="70" height="25" rx="4" fill="#F4D03F" />
+        <rect x="130" y="145" width="70" height="8" rx="2" fill="#D4A017" />
+      </>}
+      {/* Seesaw color */}
+      <rect x="130" y="155" width="60" height="6" rx="3" fill={R ? "#2196F3" : "#FF9800"} />
+      <rect x="156" y="161" width="8" height="15" rx="2" fill="#8B5E3C" />
+      <circle cx="130" cy="152" r="8" fill="#FFCC99" />
+      <circle cx="190" cy="162" r="8" fill="#FFCC99" />
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+
 // ─── SCENE DEFINITIONS ───────────────────────────────────────────────────────
 export const ALL_SCENES: SceneDef[] = [
   {
@@ -529,5 +1018,115 @@ export const ALL_SCENES: SceneDef[] = [
       { id: 4, cx: 40,  cy: 162, r: 28 },
     ],
     SVG: MountainSVG,
+  },
+  {
+    id: "castle", title: "Kastély",
+    hotspots: [
+      { id: 0, cx: 160, cy: 12,  r: 22 },
+      { id: 1, cx: 50,  cy: 80,  r: 28 },
+      { id: 2, cx: 44,  cy: 66,  r: 18 },
+      { id: 3, cx: 70,  cy: 18,  r: 28 },
+      { id: 4, cx: 160, cy: 160, r: 30 },
+    ],
+    SVG: CastleSVG,
+  },
+  {
+    id: "pirate", title: "Kalózhajó",
+    hotspots: [
+      { id: 0, cx: 183, cy: 44,  r: 28 },
+      { id: 1, cx: 190, cy: 75,  r: 38 },
+      { id: 2, cx: 276, cy: 130, r: 26 },
+      { id: 3, cx: 115, cy: 152, r: 22 },
+      { id: 4, cx: 240, cy: 25,  r: 28 },
+    ],
+    SVG: PirateSVG,
+  },
+  {
+    id: "cafe", title: "Kávézó",
+    hotspots: [
+      { id: 0, cx: 90,  cy: 105, r: 26 },
+      { id: 1, cx: 200, cy: 105, r: 26 },
+      { id: 2, cx: 160, cy: 115, r: 28 },
+      { id: 3, cx: 60,  cy: 40,  r: 32 },
+      { id: 4, cx: 253, cy: 60,  r: 32 },
+    ],
+    SVG: CafeSVG,
+  },
+  {
+    id: "airplane", title: "Repülő",
+    hotspots: [
+      { id: 0, cx: 160, cy: 100, r: 42 },
+      { id: 1, cx: 170, cy: 92,  r: 55 },
+      { id: 2, cx: 152, cy: 123, r: 26 },
+      { id: 3, cx: 200, cy: 22,  r: 42 },
+      { id: 4, cx: 55,  cy: 28,  r: 28 },
+    ],
+    SVG: AirplaneSVG,
+  },
+  {
+    id: "garden", title: "Kert",
+    hotspots: [
+      { id: 0, cx: 72,  cy: 100, r: 28 },
+      { id: 1, cx: 200, cy: 75,  r: 26 },
+      { id: 2, cx: 282, cy: 68,  r: 26 },
+      { id: 3, cx: 160, cy: 134, r: 30 },
+      { id: 4, cx: 240, cy: 130, r: 26 },
+    ],
+    SVG: GardenSVG,
+  },
+  {
+    id: "desert", title: "Sivatag",
+    hotspots: [
+      { id: 0, cx: 80,  cy: 80,  r: 30 },
+      { id: 1, cx: 172, cy: 132, r: 28 },
+      { id: 2, cx: 275, cy: 28,  r: 28 },
+      { id: 3, cx: 55,  cy: 158, r: 24 },
+      { id: 4, cx: 245, cy: 45,  r: 24 },
+    ],
+    SVG: DesertSVG,
+  },
+  {
+    id: "jungle", title: "Dzsungel",
+    hotspots: [
+      { id: 0, cx: 80,  cy: 75,  r: 28 },
+      { id: 1, cx: 240, cy: 65,  r: 28 },
+      { id: 2, cx: 155, cy: 110, r: 32 },
+      { id: 3, cx: 82,  cy: 138, r: 24 },
+      { id: 4, cx: 260, cy: 130, r: 28 },
+    ],
+    SVG: JungleSVG,
+  },
+  {
+    id: "forest", title: "Erdő",
+    hotspots: [
+      { id: 0, cx: 55,  cy: 95,  r: 35 },
+      { id: 1, cx: 178, cy: 110, r: 30 },
+      { id: 2, cx: 260, cy: 90,  r: 24 },
+      { id: 3, cx: 221, cy: 165, r: 24 },
+      { id: 4, cx: 170, cy: 152, r: 22 },
+    ],
+    SVG: ForestSVG,
+  },
+  {
+    id: "soccer", title: "Foci",
+    hotspots: [
+      { id: 0, cx: 160, cy: 122, r: 28 },
+      { id: 1, cx: 160, cy: 85,  r: 52 },
+      { id: 2, cx: 75,  cy: 95,  r: 26 },
+      { id: 3, cx: 265, cy: 100, r: 28 },
+      { id: 4, cx: 281, cy: 62,  r: 22 },
+    ],
+    SVG: SoccerSVG,
+  },
+  {
+    id: "playground", title: "Játszótér",
+    hotspots: [
+      { id: 0, cx: 75,  cy: 92,  r: 28 },
+      { id: 1, cx: 230, cy: 85,  r: 30 },
+      { id: 2, cx: 165, cy: 162, r: 30 },
+      { id: 3, cx: 130, cy: 155, r: 28 },
+      { id: 4, cx: 55,  cy: 85,  r: 32 },
+    ],
+    SVG: PlaygroundSVG,
   },
 ];

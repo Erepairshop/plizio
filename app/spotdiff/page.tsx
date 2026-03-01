@@ -12,19 +12,92 @@ import MilestonePopup from "@/components/MilestonePopup";
 import { ALL_SCENES, type SceneDef } from "./scenes";
 
 type GameState = "ready" | "playing" | "result" | "reward";
+type Lang = "en" | "hu" | "de" | "ro";
 
 const TOTAL_SCENES = 4;
-
-function pickScenes(n: number): SceneDef[] {
-  return [...ALL_SCENES].sort(() => Math.random() - 0.5).slice(0, n);
-}
 const TIME_PER_SCENE = 45;
 const MAX_SCORE = TOTAL_SCENES * 5; // 20
+
+const GAME_T = {
+  en: {
+    title: "SPOT THE DIFF",
+    start: "START",
+    ready: "Find 5 differences!",
+    scene: "Scene",
+    of: "of",
+    time: "Time",
+    differences: "differences found",
+    perfect: "Perfect score!",
+    nextScene: "Next scene...",
+    original: "ORIGINAL",
+    findBelow: "FIND THE DIFFERENCE ↓",
+    allFound: "All found!",
+    scenes: "scenes",
+    diffPerScene: "differences / scene",
+    limit: "time limit",
+  },
+  hu: {
+    title: "KERESD A KÜLÖNBSÉGET",
+    start: "KEZDÉS",
+    ready: "Találd meg az 5 különbséget!",
+    scene: "Jelenet",
+    of: "/",
+    time: "Idő",
+    differences: "különbség megtalálva",
+    perfect: "Tökéletes!",
+    nextScene: "Következő jelenet...",
+    original: "EREDETI",
+    findBelow: "KERESD A KÜLÖNBSÉGET ↓",
+    allFound: "Mind megtalálva!",
+    scenes: "jelenet",
+    diffPerScene: "különbség / jelenet",
+    limit: "időkorlát",
+  },
+  de: {
+    title: "SUCHE DEN UNTERSCHIED",
+    start: "START",
+    ready: "Finde 5 Unterschiede!",
+    scene: "Szene",
+    of: "von",
+    time: "Zeit",
+    differences: "Unterschiede gefunden",
+    perfect: "Perfekt!",
+    nextScene: "Nächste Szene...",
+    original: "ORIGINAL",
+    findBelow: "FINDE DEN UNTERSCHIED ↓",
+    allFound: "Alle gefunden!",
+    scenes: "Szenen",
+    diffPerScene: "Unterschiede / Szene",
+    limit: "Zeitlimit",
+  },
+  ro: {
+    title: "GĂSEȘTE DIFERENȚA",
+    start: "START",
+    ready: "Găsește 5 diferențe!",
+    scene: "Scenă",
+    of: "din",
+    time: "Timp",
+    differences: "diferențe găsite",
+    perfect: "Perfect!",
+    nextScene: "Scena următoare...",
+    original: "ORIGINAL",
+    findBelow: "GĂSEȘTE DIFERENȚA ↓",
+    allFound: "Toate găsite!",
+    scenes: "scene",
+    diffPerScene: "diferențe / scenă",
+    limit: "limită de timp",
+  },
+};
 
 interface WrongClick {
   id: number;
   x: number;
   y: number;
+}
+
+function pickScenes(all: SceneDef[], n: number): SceneDef[] {
+  const shuffled = [...all].sort(() => Math.random() - 0.5);
+  return shuffled.slice(0, n);
 }
 
 // ─── STREAK HELPERS ───────────────────────────────────────────────────────────
@@ -55,10 +128,18 @@ function updateStreak(): number {
   return 1;
 }
 
+function detectLang(): Lang {
+  if (typeof navigator === "undefined") return "hu";
+  const lang = navigator.language?.slice(0, 2).toLowerCase();
+  if (lang === "de") return "de";
+  if (lang === "ro") return "ro";
+  if (lang === "en") return "en";
+  return "hu";
+}
+
 // ─── MAIN COMPONENT ───────────────────────────────────────────────────────────
 export default function SpotDiffPage() {
   const [gameState, setGameState] = useState<GameState>("ready");
-  const [pickedScenes, setPickedScenes] = useState<SceneDef[]>(() => pickScenes(TOTAL_SCENES));
   const [sceneIndex, setSceneIndex] = useState(0);
   const [score, setScore] = useState(0);
   const [foundInScene, setFoundInScene] = useState<number[]>([]);
@@ -66,10 +147,17 @@ export default function SpotDiffPage() {
   const [totalTime, setTotalTime] = useState(0);
   const [streak, setStreak] = useState(0);
   const [wrongClicks, setWrongClicks] = useState<WrongClick[]>([]);
+  const [selectedScenes, setSelectedScenes] = useState<SceneDef[]>(() => pickScenes(ALL_SCENES, TOTAL_SCENES));
+  const [lang, setLang] = useState<Lang>("hu");
   const wrongIdRef = useRef(0);
   const startTimeRef = useRef(0);
 
-  useEffect(() => { setStreak(getStreak()); }, []);
+  useEffect(() => {
+    setStreak(getStreak());
+    setLang(detectLang());
+  }, []);
+
+  const t = GAME_T[lang];
 
   const goNextScene = useCallback((currentIndex: number, currentScore: number) => {
     if (currentIndex + 1 >= TOTAL_SCENES) {
@@ -98,7 +186,8 @@ export default function SpotDiffPage() {
   }, []);
 
   const startGame = () => {
-    setPickedScenes(pickScenes(TOTAL_SCENES));
+    const newScenes = pickScenes(ALL_SCENES, TOTAL_SCENES);
+    setSelectedScenes(newScenes);
     setSceneIndex(0);
     setScore(0);
     setFoundInScene([]);
@@ -115,14 +204,14 @@ export default function SpotDiffPage() {
       goNextScene(sceneIndex, score);
       return;
     }
-    const t = setTimeout(() => setTimeLeft((v) => v - 1), 1000);
-    return () => clearTimeout(t);
+    const timer = setTimeout(() => setTimeLeft((v) => v - 1), 1000);
+    return () => clearTimeout(timer);
   }, [gameState, timeLeft, sceneIndex, score, goNextScene]);
 
   // SVG click handler for right image
   const handleSvgClick = useCallback((e: React.MouseEvent<SVGSVGElement>) => {
     if (gameState !== "playing") return;
-    const scene = pickedScenes[sceneIndex];
+    const scene = selectedScenes[sceneIndex];
     const svg = e.currentTarget;
     const rect = svg.getBoundingClientRect();
     // Convert to SVG coordinate space (viewBox 320x200)
@@ -147,14 +236,13 @@ export default function SpotDiffPage() {
 
     // Wrong click – show red ripple
     const id = ++wrongIdRef.current;
-    // Convert back to percentage for positioning
     const pctX = ((e.clientX - rect.left) / rect.width) * 100;
     const pctY = ((e.clientY - rect.top) / rect.height) * 100;
     setWrongClicks((prev) => [...prev, { id, x: pctX, y: pctY }]);
     setTimeout(() => setWrongClicks((prev) => prev.filter((w) => w.id !== id)), 600);
-  }, [gameState, sceneIndex, foundInScene, score, goNextScene]);
+  }, [gameState, sceneIndex, foundInScene, score, goNextScene, selectedScenes]);
 
-  const scene = pickedScenes[sceneIndex];
+  const scene = selectedScenes[sceneIndex];
   const timerColor = timeLeft <= 3 ? "text-neon-pink" : timeLeft <= 10 ? "text-gold" : "text-white/60";
 
   return (
@@ -164,10 +252,10 @@ export default function SpotDiffPage() {
       {gameState === "ready" && (
         <motion.div className="flex flex-col items-center gap-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
           <Search size={48} className="text-amber-400" style={{ filter: "drop-shadow(0 0 15px rgba(251,191,36,0.5))" }} />
-          <h1 className="text-2xl font-black tracking-wider text-white">SPOT THE DIFF</h1>
-          <p className="text-white/40 text-sm text-center max-w-xs">Keresd meg az 5 különbséget a jobb oldali képen!</p>
+          <h1 className="text-2xl font-black tracking-wider text-white">{t.title}</h1>
+          <p className="text-white/40 text-sm text-center max-w-xs">{t.ready}</p>
           <div className="flex flex-col items-center gap-1 text-white/30 text-xs">
-            <span>4 scéna · 5 különbség / scéna · {TIME_PER_SCENE}s limit</span>
+            <span>{TOTAL_SCENES} {t.scenes} · 5 {t.diffPerScene} · {TIME_PER_SCENE}s {t.limit}</span>
           </div>
           <motion.button
             onClick={startGame}
@@ -175,7 +263,7 @@ export default function SpotDiffPage() {
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
           >
-            PLAY
+            {t.start}
           </motion.button>
         </motion.div>
       )}
@@ -209,7 +297,9 @@ export default function SpotDiffPage() {
       {gameState === "playing" && (
         <div className="w-full max-w-lg mt-14 flex flex-col items-center gap-3">
           {/* Scene title */}
-          <div className="text-amber-400/50 text-xs font-bold tracking-widest">{scene.title.toUpperCase()}</div>
+          <div className="text-amber-400/50 text-xs font-bold tracking-widest">
+            {t.scene} {sceneIndex + 1} {t.of} {TOTAL_SCENES} · {scene.title.toUpperCase()}
+          </div>
 
           {/* Difference status dots */}
           <div className="flex gap-3">
@@ -229,13 +319,13 @@ export default function SpotDiffPage() {
           </div>
 
           {/* ORIGINAL image */}
-          <div className="text-white/25 text-xs font-bold tracking-widest self-start ml-1">EREDETI</div>
+          <div className="text-white/25 text-xs font-bold tracking-widest self-start ml-1">{t.original}</div>
           <div className="w-full bg-card/50 border border-white/8 rounded-2xl overflow-hidden">
             <scene.SVG isRight={false} found={foundInScene} hotspots={scene.hotspots} />
           </div>
 
           {/* Label */}
-          <div className="text-amber-400/60 text-xs font-bold tracking-widest">KERESD A KÜLÖNBSÉGET ↓</div>
+          <div className="text-amber-400/60 text-xs font-bold tracking-widest">{t.findBelow}</div>
 
           {/* MODIFIED image – clickable */}
           <div className="w-full bg-card/50 border border-amber-500/25 rounded-2xl overflow-hidden relative">
@@ -269,7 +359,7 @@ export default function SpotDiffPage() {
                 className="flex items-center gap-2"
               >
                 <CheckCircle size={32} className="text-neon-green" style={{ filter: "drop-shadow(0 0 12px rgba(0,255,136,0.7))" }} />
-                <span className="text-neon-green font-bold text-sm">Mind megtalálva!</span>
+                <span className="text-neon-green font-bold text-sm">{t.allFound}</span>
               </motion.div>
             )}
           </AnimatePresence>
