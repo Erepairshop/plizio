@@ -1244,54 +1244,7 @@ export default function MathTestPage() {
                   subject={country?.name === "Hungary" ? "Matematika" : country?.name === "Germany" ? "Mathematik" : country?.name === "Romania" ? "Matematică" : "Mathematics"}
                   startTime={Date.now()}
                 />
-              ) : (
-                <motion.div
-                  className="mb-6 pb-4"
-                  style={{ borderBottom: "1px solid rgba(0,0,0,0.1)" }}
-                  initial={{ opacity: 0 }}
-                  animate={{ opacity: 1 }}
-                >
-                  <h1 className="text-lg font-black text-gray-800 tracking-wide mb-2">
-                    📐 {ui?.title || "MATEMATIKA DOLGOZAT"}
-                  </h1>
-                  <div className="flex justify-between text-xs text-gray-500 font-mono">
-                    <span>{ui?.classLabel || "Osztály"}: {selectedGrade}.</span>
-                    <span>{new Date().toLocaleDateString(country?.code === "DE" ? "de-DE" : country?.code === "US" ? "en-US" : country?.code === "GB" ? "en-GB" : country?.code === "RO" ? "ro-RO" : "hu-HU")}</span>
-                  </div>
-                  {!isGrading && (
-                    <div className="flex items-center gap-1 mt-2 text-xs font-mono">
-                      <Clock size={12} />
-                      {testType === "klassenarbeit" ? (
-                        <>
-                          <span className={klassenarbeitTimeLeft <= 300 ? "text-red-500 font-bold" : "text-gray-400"}>
-                            {Math.floor(klassenarbeitTimeLeft / 60)}:{(klassenarbeitTimeLeft % 60).toString().padStart(2, "0")}
-                          </span>
-                          <span className="text-gray-400 ml-4">
-                            {answers.filter((a) => a !== null).length}/{questions.length} {ui?.solved || "megoldva"}
-                          </span>
-                        </>
-                      ) : (
-                        <>
-                          <span className="text-gray-400">
-                            {Math.floor(elapsedTime / 60)}:{(elapsedTime % 60).toString().padStart(2, "0")}
-                          </span>
-                          <span className="text-gray-400 ml-4">
-                            {answers.filter((a) => a !== null).length}/{questions.length} {ui?.solved || "megoldva"}
-                          </span>
-                        </>
-                      )}
-                    </div>
-                  )}
-                  {isGrading && (
-                    <div className="flex items-center gap-2 mt-2">
-                      <span className="text-xs text-red-500 font-bold font-mono">✏️ {ui?.grading}</span>
-                      <span className="text-xs text-gray-400">
-                        {Math.min(gradingIndex, questions.length)}/{questions.length}
-                      </span>
-                    </div>
-                  )}
-                </motion.div>
-              )}
+              ) : null}
 
               {/* Realistic Klassenarbeit (Grouped Tasks) */}
               {realisticKlassenarbeit && (
@@ -1382,6 +1335,27 @@ export default function MathTestPage() {
                 );
               })}
             </div>
+
+            {/* Global Submit Button - Bottom */}
+            {!isGrading && answers.some((a) => a !== null) && (
+              <motion.div
+                className="fixed bottom-8 left-1/2 -translate-x-1/2 z-40"
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ type: "spring", stiffness: 200 }}
+              >
+                <motion.button
+                  onClick={() => {
+                    setGameState("grading");
+                  }}
+                  className="px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-lg shadow-lg text-lg transition-all"
+                  whileHover={{ scale: 1.05, boxShadow: "0 0 20px rgba(37, 99, 235, 0.5)" }}
+                  whileTap={{ scale: 0.95 }}
+                >
+                  Beküldes
+                </motion.button>
+              </motion.div>
+            )}
 
             {/* Exit button - Top left */}
             <motion.button

@@ -168,12 +168,12 @@ export default function MathQuestionDisplay({
 
   return (
       <motion.div
-        className="bg-white rounded-2xl p-6 md:p-8 border border-gray-200 shadow-lg"
+        className="p-0 bg-transparent border-none shadow-none"
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
       >
         {/* Question Header */}
-        <div className="mb-6 pb-4 border-b-2 border-gray-200 flex items-start justify-between gap-4">
+        <div className="mb-4 pb-0 border-none flex items-start justify-between gap-4">
           <h3 className="text-lg md:text-xl font-black text-gray-800 flex-1">{question.question}</h3>
 
           {/* Draft toggle button */}
