@@ -1079,7 +1079,7 @@ export default function AvatarCompanion({
 
   return (
     <div
-      className={`${positionClass} pointer-events-auto w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48 cursor-pointer`}
+      className={`${positionClass} pointer-events-auto ${fixed ? 'w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48' : ''} cursor-pointer`}
       style={fixed ? {
         bottom: 'max(20px, calc(env(safe-area-inset-bottom) + 20px))',
         right: '20px',
