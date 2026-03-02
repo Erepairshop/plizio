@@ -521,42 +521,46 @@ export default function KodexPage() {
   };
 
   // ── Word display component ──
-  const WordDisplay = ({ text, guessedSet, small }: { text: string; guessedSet: Set<string>; small?: boolean }) => {
-    const size = text.replace(/ /g, "").length;
-    const tileSize = size > 20 ? "w-5" : size > 12 ? "w-6" : "w-8";
-    const fontSize = size > 20 ? "text-base" : size > 12 ? "text-lg" : "text-xl";
+  const WordDisplay = ({ text, guessedSet }: { text: string; guessedSet: Set<string> }) => {
+    const noSpaces = text.replace(/ /g, "");
+    const len = noSpaces.length;
+    const tileW = len > 22 ? 15 : len > 16 ? 19 : len > 12 ? 23 : 28;
+    const textSize = len > 22 ? "text-xs" : len > 16 ? "text-sm" : len > 12 ? "text-base" : "text-xl";
     return (
-      <div className="flex flex-wrap justify-center gap-1 px-2">
-        {[...text].map((ch, i) =>
-          ch === " " ? (
-            <div key={i} className="w-3" />
-          ) : (
-            <div key={i} className="flex flex-col items-center gap-0.5">
-              <AnimatePresence mode="wait">
-                {guessedSet.has(ch) ? (
-                  <motion.span
-                    key="letter"
-                    className={`text-white font-black ${tileSize} ${fontSize} text-center`}
-                    initial={{ scale: 0, y: -8 }}
-                    animate={{ scale: 1, y: 0 }}
-                    transition={{ type: "spring", stiffness: 400, damping: 15 }}
-                  >
-                    {ch}
-                  </motion.span>
-                ) : (
-                  <span key="blank" className={`${tileSize} ${fontSize} text-white/0 font-black text-center`}>_</span>
-                )}
-              </AnimatePresence>
-              <div
-                className={`${tileSize} h-[2px] rounded-full`}
-                style={{
-                  background: guessedSet.has(ch) ? "rgba(255,255,255,0.75)" : "rgba(255,255,255,0.45)",
-                  boxShadow: guessedSet.has(ch) ? "0 0 6px rgba(255,255,255,0.3)" : "none",
-                }}
-              />
-            </div>
-          )
-        )}
+      <div className="flex flex-wrap justify-center gap-x-4 gap-y-3 w-full px-2">
+        {text.split(" ").map((word, wi) => (
+          <div key={wi} className="flex gap-[3px]">
+            {[...word].map((ch, ci) => (
+              <div key={ci} className="flex flex-col items-center gap-1">
+                <AnimatePresence mode="wait">
+                  {guessedSet.has(ch) ? (
+                    <motion.span
+                      key="letter"
+                      className={`${textSize} font-black text-white leading-none`}
+                      style={{ minWidth: tileW, textAlign: "center" }}
+                      initial={{ scale: 0, y: -8 }}
+                      animate={{ scale: 1, y: 0 }}
+                      transition={{ type: "spring", stiffness: 400, damping: 15 }}
+                    >
+                      {ch}
+                    </motion.span>
+                  ) : (
+                    <span
+                      key="blank"
+                      className={`${textSize} font-black leading-none`}
+                      style={{ minWidth: tileW, visibility: "hidden" }}
+                    >A</span>
+                  )}
+                </AnimatePresence>
+                <div style={{
+                  width: tileW, height: 2, borderRadius: 9999,
+                  background: guessedSet.has(ch) ? "rgba(255,255,255,0.85)" : "rgba(255,255,255,0.30)",
+                  boxShadow: guessedSet.has(ch) ? "0 0 6px rgba(255,255,255,0.4)" : "none",
+                }} />
+              </div>
+            ))}
+          </div>
+        ))}
       </div>
     );
   };
@@ -959,7 +963,7 @@ export default function KodexPage() {
     : guessed;
 
   return (
-    <main className="min-h-screen flex flex-col px-3 pt-3 pb-2 max-w-md mx-auto select-none">
+    <main className="min-h-screen flex flex-col px-4 pt-3 pb-2 max-w-lg mx-auto select-none md:max-w-2xl">
 
       {/* Exit confirm overlay */}
       <AnimatePresence>
@@ -996,30 +1000,30 @@ export default function KodexPage() {
         )}
       </AnimatePresence>
 
-      {/* Header */}
-      <div className="flex items-center justify-between mb-2">
+      {/* ── Header ── */}
+      <div className="flex items-center justify-between mb-3">
         <motion.button
           onClick={() => setShowExitConfirm(true)}
           className="p-2 rounded-xl bg-white/5 border border-white/10"
           whileTap={{ scale: 0.9 }}
         >
-          <X size={16} className="text-white/40" />
+          <X size={16} className="text-white/50" />
         </motion.button>
 
         {/* Level progress dots */}
-        <div className="flex items-center gap-1">
+        <div className="flex items-center gap-1.5">
           {LEVEL_CONFIGS.map(lc => (
             <div
               key={lc.levelNum}
               className="rounded-full transition-all"
               style={{
-                width: lc.levelNum === cfg.levelNum ? 10 : 5,
-                height: lc.levelNum === cfg.levelNum ? 10 : 5,
+                width: lc.levelNum === cfg.levelNum ? 12 : 6,
+                height: lc.levelNum === cfg.levelNum ? 12 : 6,
                 background: exped.completedLevels.includes(lc.levelNum)
                   ? "#22C55E"
                   : lc.levelNum === cfg.levelNum
                   ? "#FFD700"
-                  : "rgba(255,255,255,0.12)",
+                  : "rgba(255,255,255,0.15)",
               }}
             />
           ))}
@@ -1030,7 +1034,7 @@ export default function KodexPage() {
           {Array.from({ length: MAX_WRONG }).map((_, i) => (
             <motion.span
               key={i}
-              className="text-sm leading-none"
+              className="text-base leading-none"
               animate={{
                 opacity: i < MAX_WRONG - wrongCount ? 1 : 0.12,
                 scale: i === MAX_WRONG - wrongCount - 1 && wrongCount > 0 ? [1, 1.35, 1] : 1,
@@ -1040,46 +1044,54 @@ export default function KodexPage() {
               ❤️
             </motion.span>
           ))}
-          {shieldPending && <span className="text-sm leading-none">🛡️</span>}
+          {shieldPending && <span className="text-base leading-none">🛡️</span>}
         </div>
       </div>
 
-      {/* Level info */}
-      <div className="flex items-center gap-2 mb-2">
-        <span className="text-white/30 text-xs font-bold">{t.level} {cfg.levelNum}/10</span>
-        <span className="text-sm">{cfg.theme.emoji}</span>
-        {displayCatName && (
-          <span className="text-white/60 text-xs font-bold">
+      {/* ── Level info (visible) ── */}
+      <div className="flex items-center gap-2.5 mb-3 px-1">
+        <span className="text-xs font-bold tracking-widest text-white/50 shrink-0">
+          {t.level} {cfg.levelNum}/10
+        </span>
+        <div className="w-px h-3 bg-white/15 shrink-0" />
+        {displayCatEmoji && <span className="text-xl leading-none shrink-0">{cfg.theme.emoji}</span>}
+        {displayCatName ? (
+          <span className="text-white font-bold text-sm tracking-wide">
             {cfg.theme.label[lang as keyof typeof cfg.theme.label] ?? cfg.theme.label.en}
           </span>
-        )}
-        {!displayCatName && displayCatEmoji && (
-          <span className="text-white/25 text-[10px]">{t.cat}?</span>
-        )}
-        {!displayCatEmoji && !displayCatName && (
-          <span className="text-white/20 text-[10px]">???</span>
+        ) : displayCatEmoji ? (
+          <span className="text-white/40 text-sm">{t.cat}?</span>
+        ) : (
+          <span className="text-white/25 text-sm">???</span>
         )}
       </div>
 
-      {/* Secret code: animation label */}
+      {/* ── Secret code labels ── */}
       {cfg.type === "secretcode" && secretPhase === "animating" && (
-        <motion.p className="text-center text-purple-300 text-xs mb-2" animate={{ opacity: [0.5, 1, 0.5] }} transition={{ duration: 1.2, repeat: Infinity }}>
+        <motion.p
+          className="text-center text-purple-300 text-sm font-bold mb-2"
+          animate={{ opacity: [0.5, 1, 0.5] }}
+          transition={{ duration: 1.2, repeat: Infinity }}
+        >
           {t.secretReveal}
         </motion.p>
       )}
       {cfg.type === "secretcode" && secretPhase === "playing" && (
-        <p className="text-center text-white/25 text-[10px] mb-1">{t.secretPlay}</p>
+        <p className="text-center text-white/35 text-xs mb-2">{t.secretPlay}</p>
       )}
 
-      {/* Avatar + word area */}
-      <div className="flex items-start gap-3 mb-2">
-        {/* Avatar with water sink */}
-        <div className="relative w-22 h-22 shrink-0 overflow-hidden rounded-2xl" style={{ width: 88, height: 88 }}>
+      {/* ── Word display — full width ── */}
+      <div className="w-full flex items-center justify-center py-4 mb-1" style={{ minHeight: 96 }}>
+        <WordDisplay text={puzzle} guessedSet={displayGuessed} />
+      </div>
+
+      {/* ── Avatar + Badge tray row ── */}
+      <div className="flex items-end gap-3 mb-2 px-1">
+        {/* Avatar with water-sink animation */}
+        <div className="relative shrink-0 overflow-hidden rounded-2xl" style={{ width: 72, height: 72 }}>
           <motion.div
             className="absolute inset-0"
-            animate={{
-              y: gameState === "lost" ? 62 : (wrongCount / MAX_WRONG) * 36,
-            }}
+            animate={{ y: gameState === "lost" ? 52 : (wrongCount / MAX_WRONG) * 28 }}
             transition={{ duration: gameState === "lost" ? 0.35 : 0.65, ease: "easeOut" }}
           >
             <AvatarCompanion {...avatarProps} />
@@ -1099,19 +1111,13 @@ export default function KodexPage() {
             <div className="absolute inset-0" style={{ background: "linear-gradient(to bottom, rgba(56,185,255,0.20), rgba(14,70,200,0.50))" }} />
           </motion.div>
         </div>
-
-        {/* Word/puzzle display */}
-        <div className="flex-1 flex items-center justify-center py-2 min-h-16">
-          <WordDisplay text={puzzle} guessedSet={displayGuessed} />
+        {/* Badge tray fills the rest */}
+        <div className="flex-1 flex items-center pb-1">
+          <BadgeTray />
         </div>
       </div>
 
-      {/* Badge tray */}
-      <div className="mb-1 min-h-10">
-        <BadgeTray />
-      </div>
-
-      {/* Keyboard */}
+      {/* ── Keyboard ── */}
       <div className="flex flex-col items-center gap-1.5 mt-auto">
         {KEYBOARD_ROWS.map((row, ri) => (
           <div key={ri} className="flex gap-1">
@@ -1120,7 +1126,7 @@ export default function KodexPage() {
                 key={key}
                 onClick={() => handleGuess(key)}
                 disabled={guessed.has(key) || gameState !== "playing" || secretPhase === "animating"}
-                className={`w-[29px] h-9 rounded-lg text-xs font-black transition-all ${keyBg(key)}`}
+                className={`w-8 h-10 md:w-9 md:h-11 rounded-lg text-sm font-black transition-all ${keyBg(key)}`}
               >
                 {key}
               </button>
@@ -1134,7 +1140,7 @@ export default function KodexPage() {
                 key={key}
                 onClick={() => handleGuess(key)}
                 disabled={guessed.has(key.toUpperCase()) || gameState !== "playing" || secretPhase === "animating"}
-                className={`w-9 h-8 rounded-lg text-xs font-black transition-all ${keyBg(key)}`}
+                className={`w-10 h-9 rounded-lg text-xs font-black transition-all ${keyBg(key)}`}
               >
                 {key}
               </button>
