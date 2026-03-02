@@ -676,6 +676,21 @@ export default function MathTestPage() {
     setGradeResult(null);
     setKlassenarbeitResult(null);
     setSupabaseCurriculum(null);
+
+    // EN: skip theme-select, generate English questions directly
+    if (country?.code === "US" || country?.code === "GB") {
+      const qs = generateKlassenarbeit(grade, undefined, country.code);
+      setQuestions(qs);
+      setAnswers(new Array(qs.length).fill(null));
+      setRealisticKlassenarbeit(null);
+      setAvatarMood("idle");
+      setElapsedTime(0);
+      setKlassenarbeitStartTime(Date.now());
+      setKlassenarbeitTimeLeft(40 * 60);
+      setGameState("playing");
+      return;
+    }
+
     setGameState("theme-select");
   };
 
@@ -1535,6 +1550,7 @@ export default function MathTestPage() {
                       }}
                       testId={`test_${selectedGrade}_${testType}`}
                       questionId={`q_${qi}`}
+                      countryCode={country?.code}
                     />
 
                     {/* Inline grading pencil - shows on the question currently being graded */}

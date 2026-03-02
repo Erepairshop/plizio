@@ -43,6 +43,8 @@ interface MathQuestionDisplayProps {
   testId?: string;
   /** Question ID for draft state persistence */
   questionId?: string;
+  /** Country code for language-aware UI strings */
+  countryCode?: string;
 }
 
 // SVG Geometry: Rect with dimensions
@@ -162,7 +164,9 @@ export default function MathQuestionDisplay({
   onTextAnswer,
   testId = "test",
   questionId = "q0",
+  countryCode = "DE",
 }: MathQuestionDisplayProps) {
+  const isEN = countryCode === "US" || countryCode === "GB";
   const [draftOpen, setDraftOpen] = useState(false);
   const [textAnswer, setTextAnswer] = useState('');
 
@@ -258,7 +262,7 @@ export default function MathQuestionDisplay({
                 }
               }
             }}
-            placeholder="Antwort eingeben"
+            placeholder={isEN ? "Enter answer" : "Antwort eingeben"}
             className="w-full px-3 py-2 bg-transparent border-b-2 border-gray-400 text-gray-800 placeholder-gray-500 focus:border-blue-600 focus:ring-0 outline-none transition-all font-mono text-base"
             style={{
               backgroundColor: 'transparent',
@@ -385,7 +389,9 @@ export default function MathQuestionDisplay({
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
           >
-            {isCorrect ? '✅ Richtig!' : '❌ Falsch - Richtige Antwort: ' + question.correctAnswer}
+            {isCorrect
+              ? (isEN ? '✅ Correct!' : '✅ Richtig!')
+              : (isEN ? '❌ Wrong - Correct answer: ' : '❌ Falsch - Richtige Antwort: ') + question.correctAnswer}
           </motion.div>
         )}
       </motion.div>
