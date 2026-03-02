@@ -282,7 +282,14 @@ export default function KodexPage() {
 
     const saved = localStorage.getItem(STORAGE_KEY);
     if (saved) {
-      try { setExped(JSON.parse(saved)); } catch { setExped(freshExpedition()); }
+      try {
+        const parsed: ExpeditionSave = JSON.parse(saved);
+        // Migration: if no badges but also no completed levels, give starter badges
+        if (parsed.earnedBadges.length === 0 && parsed.completedLevels.length === 0) {
+          parsed.earnedBadges = ["vocals", "shield", "key"];
+        }
+        setExped(parsed);
+      } catch { setExped(freshExpedition()); }
     }
   }, []);
 
