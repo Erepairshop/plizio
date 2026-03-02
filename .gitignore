@@ -34,7 +34,9 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files
+# .env.local is committed intentionally (contains only public NEXT_PUBLIC_ anon keys)
 .env*.local
+!.env.local
 
 # vercel
 .vercel

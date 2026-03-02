@@ -108,16 +108,6 @@ function setActiveCar(id: string) { try { localStorage.setItem(ACTIVE_CAR_KEY, i
 function getCarType(id: string): CarType { return CAR_TYPES.find(c => c.id === id) || CAR_TYPES[0]; }
 
 // ═══════════════════════════════════════════════
-//  RACE PORTAL (teleports to race track)
-// ═══════════════════════════════════════════════
-// Placed at far top-left corner (block 1, 1) - out of the way
-const PORTAL_X = (1 * BLOCK + 1.5) * T; // road center
-const PORTAL_Z = (1 * BLOCK + 1.5) * T;
-const PORTAL_RADIUS = 8;
-// Only sedan (2nd car) or better can enter
-const PORTAL_MIN_CAR_INDEX = 1; // index in CAR_TYPES (0=starter, 1=sedan, ...)
-
-// ═══════════════════════════════════════════════
 //  TIME TRIAL DEFINITIONS
 // ═══════════════════════════════════════════════
 interface TimeTrial {
@@ -830,18 +820,6 @@ function MiniMap({ hudRef, missionsRef, carsRef, timeTrialRef }: { hudRef: React
           }
         }
 
-      // Race Portal on minimap
-      const ppx = PORTAL_X * sc, ppz = PORTAL_Z * sc;
-      ctx.fillStyle = "#BB44FF";
-      ctx.shadowColor = "#BB44FF";
-      ctx.shadowBlur = 8;
-      const portalPulse = 4 + Math.sin(Date.now() / 300) * 1.5;
-      ctx.beginPath(); ctx.arc(ppx, ppz, portalPulse, 0, Math.PI * 2); ctx.fill();
-      ctx.font = "bold 6px sans-serif";
-      ctx.textAlign = "center";
-      ctx.fillText("RACE", ppx, ppz - 7);
-      ctx.shadowBlur = 0;
-
       // Missions
       const ms = missionsRef.current;
       if (ms) {
@@ -990,10 +968,9 @@ interface SceneProps {
   timeTrialRef: React.RefObject<TimeTrial | null>;
   timeTrialWonRef: React.RefObject<boolean>;
   onEnd: () => void;
-  onPortalNear: (near: boolean) => void;
 }
 
-const GameScene = React.memo(function GameScene({ running, resuming, keysRef, touchRef, actionRef, brakeRef, nitroActiveRef, hudRef, missionsRef, gameDataRef, carsDataRef, timeTrialRef, timeTrialWonRef, onEnd, onPortalNear }: SceneProps) {
+const GameScene = React.memo(function GameScene({ running, resuming, keysRef, touchRef, actionRef, brakeRef, nitroActiveRef, hudRef, missionsRef, gameDataRef, carsDataRef, timeTrialRef, timeTrialWonRef, onEnd }: SceneProps) {
   const { camera } = useThree();
   const buildings = useMemo(genBuildings, []);
   const trees = useMemo(genTrees, []);
@@ -1442,24 +1419,6 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
       ambLightRef.current.color.lerp(new THREE.Color(w.ambC), dt * 0.5);
     }
 
-    // ── Race Portal detection (proximity) ──
-    if (p.inCar >= 0) {
-      const car = carsRef.current[p.inCar];
-      const portalDist = Math.sqrt((car.x - PORTAL_X) ** 2 + (car.z - PORTAL_Z) ** 2);
-      if (portalDist < PORTAL_RADIUS) {
-        const carIdx = CAR_TYPES.findIndex(c => c.id === getActiveCar());
-        if (carIdx >= PORTAL_MIN_CAR_INDEX) {
-          onPortalNear(true);
-        } else {
-          onPortalNear(false);
-          if (hud.msgT <= 0) {
-            hud.msg = "Need Sedan or better to enter!"; hud.msgT = 2;
-          }
-        }
-      } else {
-        onPortalNear(false);
-      }
-    }
 
     // ── Time Trial logic ──
     const tt = timeTrialRef.current;
@@ -1723,48 +1682,6 @@ const GameScene = React.memo(function GameScene({ running, resuming, keysRef, to
       {/* Rain (weather type 1) */}
       <RainParticles active={weatherState.current.type === 1} />
 
-      {/* ═══ RACE PORTAL ═══ */}
-      <group position={[PORTAL_X, 0, PORTAL_Z]}>
-        {/* Base platform */}
-        <mesh rotation-x={-Math.PI / 2} position={[0, 0.05, 0]}>
-          <ringGeometry args={[4, 6, 24]} />
-          <meshStandardMaterial color="#8800FF" emissive="#8800FF" emissiveIntensity={1.5} side={THREE.DoubleSide} />
-        </mesh>
-        {/* Left pillar */}
-        <mesh position={[-4, 5, 0]}>
-          <boxGeometry args={[0.6, 10, 0.6]} />
-          <meshStandardMaterial color="#6600CC" emissive="#9933FF" emissiveIntensity={0.8} />
-        </mesh>
-        {/* Right pillar */}
-        <mesh position={[4, 5, 0]}>
-          <boxGeometry args={[0.6, 10, 0.6]} />
-          <meshStandardMaterial color="#6600CC" emissive="#9933FF" emissiveIntensity={0.8} />
-        </mesh>
-        {/* Top arch */}
-        <mesh position={[0, 10.2, 0]}>
-          <boxGeometry args={[8.6, 0.6, 0.6]} />
-          <meshStandardMaterial color="#6600CC" emissive="#9933FF" emissiveIntensity={0.8} />
-        </mesh>
-        {/* Portal energy field */}
-        <mesh position={[0, 5.5, 0]}>
-          <planeGeometry args={[7.4, 9.4]} />
-          <meshStandardMaterial color="#BB44FF" emissive="#DD66FF" emissiveIntensity={2} transparent opacity={0.3} side={THREE.DoubleSide} />
-        </mesh>
-        {/* Inner glow ring */}
-        <mesh position={[0, 5.5, 0]}>
-          <ringGeometry args={[3, 3.6, 20]} />
-          <meshStandardMaterial color="#DD66FF" emissive="#FF88FF" emissiveIntensity={3} transparent opacity={0.5} side={THREE.DoubleSide} />
-        </mesh>
-        {/* Floating text marker */}
-        <mesh position={[0, 11.5, 0]}>
-          <boxGeometry args={[3, 0.8, 0.1]} />
-          <meshStandardMaterial color="#FFD700" emissive="#FFD700" emissiveIntensity={2} />
-        </mesh>
-        {/* Light */}
-        <pointLight position={[0, 6, 0]} color="#BB44FF" intensity={5} distance={25} />
-        <pointLight position={[0, 1, 0]} color="#8800FF" intensity={3} distance={15} />
-      </group>
-
       {/* Time Trial START marker (before player activates it) */}
       {timeTrialRef.current?.active && !timeTrialRef.current.started && (
         <group position={[timeTrialRef.current.startX, 0, timeTrialRef.current.startZ]}>
@@ -1825,7 +1742,6 @@ export default function CityDrivePage() {
   const [hudTick, setHudTick] = useState(0);
   const [resuming, setResuming] = useState(false);
   const [hasSave, setHasSave] = useState(initSave);
-  const [portalNear, setPortalNear] = useState(false);
   const joystickKnobRef = useRef<HTMLDivElement>(null);
   const timeTrialRef = useRef<TimeTrial | null>(null);
   const timeTrialUsed = useRef(0); // max 2 per game
@@ -1946,7 +1862,7 @@ export default function CityDrivePage() {
   return (
     <div className="fixed inset-0 bg-[#0a0e1a] overflow-hidden select-none" style={{ touchAction: "none" }}>
       <Canvas camera={{ fov: 65, near: 0.1, far: 550, position: [4, 8, -8] }} dpr={[1, 1.5]} gl={{ powerPreference: "high-performance", antialias: false }}>
-        <GameScene running={gameState === "playing"} resuming={resuming} keysRef={keysRef} touchRef={touchRef} actionRef={actionRef} brakeRef={brakeRef} nitroActiveRef={nitroActiveRef} hudRef={hudRef} missionsRef={missionsRef} gameDataRef={gameDataRef} carsDataRef={carsDataRef} timeTrialRef={timeTrialRef} timeTrialWonRef={timeTrialWon} onEnd={endGame} onPortalNear={(near) => setPortalNear(near)} />
+        <GameScene running={gameState === "playing"} resuming={resuming} keysRef={keysRef} touchRef={touchRef} actionRef={actionRef} brakeRef={brakeRef} nitroActiveRef={nitroActiveRef} hudRef={hudRef} missionsRef={missionsRef} gameDataRef={gameDataRef} carsDataRef={carsDataRef} timeTrialRef={timeTrialRef} timeTrialWonRef={timeTrialWon} onEnd={endGame} />
       </Canvas>
 
       {/* HUD overlay */}
@@ -2081,31 +1997,6 @@ export default function CityDrivePage() {
         </>
       )}
 
-
-      {/* ═══ RACE PORTAL CONFIRMATION ═══ */}
-      <AnimatePresence>
-        {portalNear && gameState === "playing" && (
-          <motion.div className="absolute inset-0 z-40 flex items-center justify-center bg-black/60 backdrop-blur-sm"
-            initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
-            <motion.div className="w-full max-w-xs bg-[#0d1117] border border-[#BB44FF]/30 rounded-3xl p-6 text-center mx-4"
-              initial={{ scale: 0.8, y: 20 }} animate={{ scale: 1, y: 0 }} transition={{ type: "spring" }}>
-              <div className="text-4xl mb-2">🏁</div>
-              <h2 className="text-white font-black text-xl">Enter Race Track?</h2>
-              <p className="text-white/40 text-sm mt-2">Compete against 6 racers on circuit tracks!</p>
-              <div className="flex gap-3 mt-5">
-                <button onClick={() => { if (gameDataRef.current) saveToStorage(gameDataRef.current); router.push("/racetrack"); }}
-                  className="flex-1 py-3 rounded-xl font-bold text-sm text-white bg-gradient-to-r from-[#BB44FF] to-[#8800FF] active:scale-95 transition-all">
-                  Enter Race
-                </button>
-                <button onClick={() => setPortalNear(false)}
-                  className="flex-1 py-3 rounded-xl font-bold text-sm text-white/60 bg-white/5 border border-white/10 active:scale-95 transition-all">
-                  Stay
-                </button>
-              </div>
-            </motion.div>
-          </motion.div>
-        )}
-      </AnimatePresence>
 
       {/* MENU */}
       <AnimatePresence>

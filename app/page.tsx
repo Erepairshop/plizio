@@ -52,7 +52,7 @@ interface CategoryDef {
 const TRANSLATIONS = {
   en: {
     categories: {
-      "QUIZ & REFLEX": "QUIZ & REFLEX",
+      "QUIZ & REFLEX": "QUIZ, REFLEX & WORD",
       "ADVENTURE": "ADVENTURE",
       "BRAIN": "BRAIN",
     },
@@ -64,6 +64,7 @@ const TRANSLATIONS = {
       numberrush: "Number Rush",
       wordscramble: "Word Scramble",
       milliomos: "Milliomos",
+      kodex: "Kódex",
       skyclimb: "Sky Climb",
       citydrive: "City Drive",
       mathtest: "Math Test",
@@ -75,7 +76,7 @@ const TRANSLATIONS = {
   },
   hu: {
     categories: {
-      "QUIZ & REFLEX": "KVÍZ & REFLEX",
+      "QUIZ & REFLEX": "KVÍZ, REFLEX & SZÓ",
       "ADVENTURE": "KALAND",
       "BRAIN": "AGYTRÖSZT",
     },
@@ -87,6 +88,7 @@ const TRANSLATIONS = {
       numberrush: "Számsietés",
       wordscramble: "Betűkeverő",
       milliomos: "Milliomos",
+      kodex: "Kódex",
       skyclimb: "Égbolt Mászás",
       citydrive: "Város Vezetés",
       mathtest: "Matematika Teszt",
@@ -98,7 +100,7 @@ const TRANSLATIONS = {
   },
   de: {
     categories: {
-      "QUIZ & REFLEX": "QUIZ & REFLEX",
+      "QUIZ & REFLEX": "QUIZ, REFLEX & WORT",
       "ADVENTURE": "ABENTEUER",
       "BRAIN": "GEHIRN",
     },
@@ -110,6 +112,7 @@ const TRANSLATIONS = {
       numberrush: "Zahlenrausch",
       wordscramble: "Buchstabensalat",
       milliomos: "Milliomos",
+      kodex: "Kódex",
       skyclimb: "Himmelsklettern",
       citydrive: "Stadtfahrt",
       mathtest: "Mathematiktest",
@@ -121,7 +124,7 @@ const TRANSLATIONS = {
   },
   ro: {
     categories: {
-      "QUIZ & REFLEX": "QUIZ & REFLEX",
+      "QUIZ & REFLEX": "QUIZ, REFLEX & CUVÂNT",
       "ADVENTURE": "AVENTURĂ",
       "BRAIN": "CREIER",
     },
@@ -133,6 +136,7 @@ const TRANSLATIONS = {
       numberrush: "Goană Numerică",
       wordscramble: "Litere Amestecate",
       milliomos: "Milliomos",
+      kodex: "Kódex",
       skyclimb: "Cățărare pe Cer",
       citydrive: "Conducere în Oraș",
       mathtest: "Test de Matematică",
@@ -199,6 +203,13 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         color: "#FFD700",
         gradient: "bg-gradient-to-br from-yellow-500/20 to-amber-500/20",
       },
+      {
+        id: "kodex",
+        icon: BookOpen,
+        nameKey: "kodex",
+        color: "#818CF8",
+        gradient: "bg-gradient-to-br from-indigo-500/20 to-violet-500/20",
+      },
     ],
   },
   {
@@ -220,6 +231,13 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         color: "#FF6B00",
         gradient: "bg-gradient-to-br from-orange-500/20 to-red-500/20",
       },
+      {
+        id: "racetrack",
+        icon: Car,
+        nameKey: "racetrack",
+        color: "#FF2222",
+        gradient: "bg-gradient-to-br from-red-500/20 to-rose-500/20",
+      },
     ],
   },
   {
@@ -233,13 +251,6 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         nameKey: "mathtest",
         color: "#FFD700",
         gradient: "bg-gradient-to-br from-yellow-500/20 to-amber-500/20",
-      },
-      {
-        id: "racetrack",
-        icon: Car,
-        nameKey: "racetrack",
-        color: "#FF6B00",
-        gradient: "bg-gradient-to-br from-orange-500/20 to-red-500/20",
       },
     ],
   },
@@ -338,10 +349,7 @@ export default function Home() {
     const checkAuth = async () => {
       const user = await getUser();
       setIsLoggedIn(!!user);
-      if (user) {
-        // Background sync
-        syncToSupabase(user.id).catch(() => {});
-      } else {
+      if (!user) {
         const stats = getStats();
         const dismissed = localStorage.getItem("plizio_auth_dismissed");
         if (stats.totalGames >= 5 && !dismissed) {
@@ -356,7 +364,20 @@ export default function Home() {
       if (user) syncToSupabase(user.id).catch(() => {});
     });
 
-    return () => subscription.unsubscribe();
+    // Refresh card + star badge whenever cards change (earn / exchange)
+    const refreshCounts = () => {
+      setCardCount(getCards().length);
+      setSpecialCount(getSpecialCardCount());
+    };
+    const onVisible = () => { if (document.visibilityState === "visible") refreshCounts(); };
+    window.addEventListener("plizio-cards-changed", refreshCounts);
+    document.addEventListener("visibilitychange", onVisible);
+
+    return () => {
+      subscription.unsubscribe();
+      window.removeEventListener("plizio-cards-changed", refreshCounts);
+      document.removeEventListener("visibilitychange", onVisible);
+    };
   }, []);
 
   return (

@@ -399,7 +399,7 @@ export default function CollectionPage() {
                   background: totalExchangeable > 0
                     ? "linear-gradient(135deg, #FFD700, #FF8C00)"
                     : "rgba(255,255,255,0.05)",
-                  color: totalExchangeable > 0 ? "#000" : "rgba(255,255,255,0.3)",
+                  color: totalExchangeable > 0 ? "#000" : "rgba(255,255,255,0.6)",
                 }}
                 whileHover={totalExchangeable > 0 ? { scale: 1.02 } : undefined}
                 whileTap={totalExchangeable > 0 ? { scale: 0.98 } : undefined}
