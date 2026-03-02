@@ -359,6 +359,43 @@ export default function MatheTestKlasse({ grade }: { grade: number }) {
           </div>
         </section>
 
+        {/* Related grades */}
+        <section className="mb-8">
+          <h2 className="text-lg font-black mb-3 text-white/50">Andere Klassen</h2>
+          <div className="flex flex-wrap gap-2">
+            {[1,2,3,4,5,6,7,8].filter(n => n !== grade).map(n => (
+              <a key={n} href={`/mathe-test/klasse-${n}/`}
+                className="px-4 py-2 rounded-xl text-sm font-bold"
+                style={{ background: "rgba(0,212,255,0.08)", color: "#00D4FF", border: "1px solid rgba(0,212,255,0.2)" }}>
+                Klasse {n}
+              </a>
+            ))}
+            <a href="/mathe-test/" className="px-4 py-2 rounded-xl text-sm font-bold"
+              style={{ background: "rgba(255,255,255,0.05)", color: "rgba(255,255,255,0.4)", border: "1px solid rgba(255,255,255,0.1)" }}>
+              ← Übersicht
+            </a>
+          </div>
+        </section>
+
+        {/* Related educational games */}
+        <section className="mb-8">
+          <h2 className="text-lg font-black mb-3 text-white/50">Verwandte Lernspiele</h2>
+          <div className="flex flex-wrap gap-2">
+            {[
+              { name: "🧮 Math Test spielen", href: "/mathtest/" },
+              { name: "🔐 Kódex Expedíció", href: "/kodex/" },
+              { name: "🔀 Word Scramble", href: "/wordscramble/" },
+              { name: "⚡ Quick Pick", href: "/quickpick/" },
+            ].map(g => (
+              <a key={g.href} href={g.href}
+                className="px-4 py-2 rounded-xl text-sm font-bold"
+                style={{ background: "rgba(0,255,136,0.08)", color: "#00FF88", border: "1px solid rgba(0,255,136,0.2)" }}>
+                {g.name}
+              </a>
+            ))}
+          </div>
+        </section>
+
         {/* Bottom CTA */}
         <div className="text-center pt-4 pb-8">
           <p className="text-white/40 text-sm mb-4">
