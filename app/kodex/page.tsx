@@ -216,7 +216,7 @@ function updateStreak(): number {
 }
 
 function freshExpedition(): ExpeditionSave {
-  return { currentLevel: 1, completedLevels: [], collectedLetters: [], earnedBadges: [] };
+  return { currentLevel: 1, completedLevels: [], collectedLetters: [], earnedBadges: ["vocals", "shield", "key"] };
 }
 
 // ─── COMPONENT ────────────────────────────────────────────────────────────────
