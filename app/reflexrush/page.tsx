@@ -156,7 +156,7 @@ const TRANSLATIONS = {
 // ─── Types ──────────────────────────────────────────────────────────────────
 
 type Screen = "expedition" | "playing" | "levelComplete" | "levelFailed";
-type CellType = "idle" | "green" | "gold" | "red" | "lightning" | "bomb";
+type CellType = "idle" | "green" | "gold" | "red" | "lightning" | "bomb" | "trapgreen";
 type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory" | "surprised" | "confused" | "laughing";
 
 interface LevelConfig {
@@ -168,6 +168,7 @@ interface LevelConfig {
   hasRed: boolean;
   hasLightning: boolean;
   hasBomb: boolean;
+  hasTrapGreen: boolean;
   spawnInterval: number;
   maxActiveCells: number;
   cellLifetime: number;
@@ -188,19 +189,19 @@ interface FloatingPt {
 // ─── Level configs ───────────────────────────────────────────────────────────
 
 const LEVELS: LevelConfig[] = [
-  { level: 1,  gridSize: 3, duration: 35, target: 8,  hasGold: false, hasRed: false, hasLightning: false, hasBomb: false, spawnInterval: 1500, maxActiveCells: 2, cellLifetime: 2200 },
-  { level: 2,  gridSize: 3, duration: 30, target: 12, hasGold: true,  hasRed: false, hasLightning: false, hasBomb: false, spawnInterval: 1300, maxActiveCells: 2, cellLifetime: 2000 },
-  { level: 3,  gridSize: 4, duration: 35, target: 18, hasGold: true,  hasRed: true,  hasLightning: false, hasBomb: false, spawnInterval: 1200, maxActiveCells: 3, cellLifetime: 1800 },
-  { level: 4,  gridSize: 4, duration: 30, target: 25, hasGold: true,  hasRed: true,  hasLightning: false, hasBomb: false, spawnInterval: 1000, maxActiveCells: 3, cellLifetime: 1600 },
-  { level: 5,  gridSize: 4, duration: 25, target: 32, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: false, spawnInterval: 900,  maxActiveCells: 3, cellLifetime: 1500 },
-  { level: 6,  gridSize: 5, duration: 35, target: 42, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: false, spawnInterval: 850,  maxActiveCells: 4, cellLifetime: 1400 },
-  { level: 7,  gridSize: 5, duration: 30, target: 54, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  spawnInterval: 800,  maxActiveCells: 4, cellLifetime: 1300 },
-  { level: 8,  gridSize: 5, duration: 25, target: 66, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  spawnInterval: 700,  maxActiveCells: 5, cellLifetime: 1200 },
-  { level: 9,  gridSize: 6, duration: 30, target: 80, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  spawnInterval: 650,  maxActiveCells: 5, cellLifetime: 1100 },
-  { level: 10, gridSize: 6, duration: 35, target: 95, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  spawnInterval: 600,  maxActiveCells: 6, cellLifetime: 1000 },
+  { level: 1,  gridSize: 3, duration: 35, target: 8,  hasGold: false, hasRed: false, hasLightning: false, hasBomb: false, hasTrapGreen: false, spawnInterval: 1500, maxActiveCells: 2, cellLifetime: 2200 },
+  { level: 2,  gridSize: 3, duration: 30, target: 12, hasGold: true,  hasRed: false, hasLightning: false, hasBomb: false, hasTrapGreen: false, spawnInterval: 1300, maxActiveCells: 2, cellLifetime: 2000 },
+  { level: 3,  gridSize: 4, duration: 35, target: 18, hasGold: true,  hasRed: true,  hasLightning: false, hasBomb: false, hasTrapGreen: false, spawnInterval: 1200, maxActiveCells: 3, cellLifetime: 1800 },
+  { level: 4,  gridSize: 4, duration: 30, target: 25, hasGold: true,  hasRed: true,  hasLightning: false, hasBomb: false, hasTrapGreen: false, spawnInterval: 1000, maxActiveCells: 3, cellLifetime: 1600 },
+  { level: 5,  gridSize: 4, duration: 28, target: 30, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: false, hasTrapGreen: false, spawnInterval: 900,  maxActiveCells: 3, cellLifetime: 1500 },
+  { level: 6,  gridSize: 5, duration: 35, target: 40, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: false, hasTrapGreen: false, spawnInterval: 850,  maxActiveCells: 4, cellLifetime: 1400 },
+  { level: 7,  gridSize: 5, duration: 30, target: 48, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  hasTrapGreen: false, spawnInterval: 800,  maxActiveCells: 4, cellLifetime: 1300 },
+  { level: 8,  gridSize: 5, duration: 32, target: 55, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  hasTrapGreen: false, spawnInterval: 750,  maxActiveCells: 4, cellLifetime: 1200 },
+  { level: 9,  gridSize: 6, duration: 32, target: 68, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  hasTrapGreen: false, spawnInterval: 680,  maxActiveCells: 5, cellLifetime: 1100 },
+  { level: 10, gridSize: 6, duration: 38, target: 80, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  hasTrapGreen: true,  spawnInterval: 650,  maxActiveCells: 5, cellLifetime: 1050 },
 ];
 
-const LEVEL_BADGES = ["🟢","⭐","🔴","⚡","⚡","🎯","💣","💣","🌪️","🏆"];
+const LEVEL_BADGES = ["🟢","⭐","🔴","⚡","⚡","🎯","💣","💣","🌪️","🎭"];
 
 // ─── Save / Load ─────────────────────────────────────────────────────────────
 
@@ -219,8 +220,11 @@ function pickCellType(cfg: LevelConfig): CellType {
   const options: { type: CellType; weight: number }[] = [{ type: "green", weight: 50 }];
   if (cfg.hasGold)      options.push({ type: "gold",      weight: 15 });
   if (cfg.hasRed)       options.push({ type: "red",       weight: 20 });
-  if (cfg.hasLightning) options.push({ type: "lightning", weight: 8  });
+  // Lightning is rare: weight 4 on early levels (5-6), 5 on later levels
+  if (cfg.hasLightning) options.push({ type: "lightning", weight: cfg.level <= 6 ? 4 : 5 });
   if (cfg.hasBomb)      options.push({ type: "bomb",      weight: 7  });
+  // TrapGreen: looks identical to green but acts as -5 bomb — level 10 only
+  if (cfg.hasTrapGreen) options.push({ type: "trapgreen", weight: 12 });
   const total = options.reduce((s, o) => s + o.weight, 0);
   let r = Math.random() * total;
   for (const o of options) { r -= o.weight; if (r <= 0) return o.type; }
@@ -232,6 +236,7 @@ function pickCellType(cfg: LevelConfig): CellType {
 const CELL_CONFIG: Record<CellType, { bg: string; border: string; icon: string; shadow: string }> = {
   idle:      { bg: "#0f0f2a", border: "#2a2a4a", icon: "",   shadow: "none"               },
   green:     { bg: "#00220f", border: "#00FF88", icon: "✓",  shadow: "0 0 14px #00FF8899" },
+  trapgreen: { bg: "#00220f", border: "#00FF88", icon: "✓",  shadow: "0 0 14px #00FF8899" }, // identical to green — TRAP!
   gold:      { bg: "#2a1a00", border: "#FFD700", icon: "⭐", shadow: "0 0 14px #FFD70099" },
   red:       { bg: "#220010", border: "#FF2D78", icon: "✕",  shadow: "0 0 14px #FF2D7899" },
   lightning: { bg: "#00162a", border: "#00D4FF", icon: "⚡", shadow: "0 0 14px #00D4FF99" },
@@ -417,6 +422,11 @@ export default function ReflexRushPage() {
       const ns = Math.max(0, scoreRef.current - 5); scoreRef.current = ns; setScore(ns);
       comboRef.current = 0; setCombo(0); addFloat(-5);
       triggerAvatar("disappointed", 1200);
+    } else if (type === "trapgreen") {
+      // Looks like green but it's a trap — acts as -5 bomb
+      const ns = Math.max(0, scoreRef.current - 5); scoreRef.current = ns; setScore(ns);
+      comboRef.current = 0; setCombo(0); addFloat(-5);
+      triggerAvatar("disappointed", 1400);
     }
   }, [levelSuccess]);
 
