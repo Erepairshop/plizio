@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Layers, Star, User, ChevronDown, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Layers, Star, User, ChevronDown, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import Logo from "@/components/Logo";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
@@ -58,7 +58,7 @@ const TRANSLATIONS = {
     },
     games: {
       quickpick: "Quick Pick",
-      reflexgrid: "Reflex Grid",
+      reflexrush: "Reflex Rush",
       memoryflash: "Memory Flash",
       spotdiff: "Spot Diff",
       numberrush: "Number Rush",
@@ -82,7 +82,7 @@ const TRANSLATIONS = {
     },
     games: {
       quickpick: "Gyors Választás",
-      reflexgrid: "Reflex Rács",
+      reflexrush: "Reflex Roham",
       memoryflash: "Memória Flash",
       spotdiff: "Különbség Megtalálása",
       numberrush: "Számsietés",
@@ -106,7 +106,7 @@ const TRANSLATIONS = {
     },
     games: {
       quickpick: "Schnelle Wahl",
-      reflexgrid: "Reflex Gitter",
+      reflexrush: "Reflex Rush",
       memoryflash: "Speicherblitz",
       spotdiff: "Unterschied Erkennen",
       numberrush: "Zahlenrausch",
@@ -130,7 +130,7 @@ const TRANSLATIONS = {
     },
     games: {
       quickpick: "Alegere Rapidă",
-      reflexgrid: "Rețea Reflex",
+      reflexrush: "Reflex Rush",
       memoryflash: "Fulger de Memorie",
       spotdiff: "Găsește Diferența",
       numberrush: "Goană Numerică",
@@ -162,11 +162,11 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         gradient: "bg-gradient-to-br from-pink-500/20 to-rose-500/20",
       },
       {
-        id: "reflexgrid",
-        icon: Zap,
-        nameKey: "reflexgrid",
-        color: "#00D4FF",
-        gradient: "bg-gradient-to-br from-cyan-500/20 to-blue-500/20",
+        id: "reflexrush",
+        icon: Swords,
+        nameKey: "reflexrush",
+        color: "#FF6B00",
+        gradient: "bg-gradient-to-br from-orange-500/20 to-red-500/20",
       },
       {
         id: "memoryflash",
