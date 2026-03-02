@@ -338,10 +338,7 @@ export default function Home() {
     const checkAuth = async () => {
       const user = await getUser();
       setIsLoggedIn(!!user);
-      if (user) {
-        // Background sync
-        syncToSupabase(user.id).catch(() => {});
-      } else {
+      if (!user) {
         const stats = getStats();
         const dismissed = localStorage.getItem("plizio_auth_dismissed");
         if (stats.totalGames >= 5 && !dismissed) {

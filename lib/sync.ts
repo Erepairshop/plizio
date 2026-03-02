@@ -7,6 +7,9 @@ import { getCards, type GameCard } from "./cards";
 
 // ─── SYNC: localStorage <-> Supabase ────────────────
 
+// Prevent concurrent syncs (race condition: two parallel syncs can restore redeemed cards)
+let syncPromise: Promise<void> | null = null;
+
 interface UserData {
   user_id: string;
   special_cards: number;
@@ -195,8 +198,19 @@ export async function downloadFromSupabase(userId: string): Promise<void> {
 // then upload (push merged state + delete redeemed cards from server).
 // Redeemed card IDs are tracked in plizio_redeemed_ids so download
 // never restores them even when they still exist on the server.
+// A module-level lock ensures only one sync runs at a time – concurrent
+// calls (e.g. checkAuth + onAuthChange both firing on page mount) would
+// otherwise race and restore already-redeemed cards from the server.
 // Errors propagate to the caller so the UI can show the error state.
 export async function syncToSupabase(userId: string): Promise<void> {
-  await downloadFromSupabase(userId);
-  await uploadToSupabase(userId);
+  if (syncPromise) return syncPromise;
+  syncPromise = (async () => {
+    try {
+      await downloadFromSupabase(userId);
+      await uploadToSupabase(userId);
+    } finally {
+      syncPromise = null;
+    }
+  })();
+  return syncPromise;
 }
