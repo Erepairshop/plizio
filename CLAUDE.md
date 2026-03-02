@@ -47,6 +47,59 @@ A repo tisztán van szervezve:
 | `faces.ts` | `getFaceDef()`, `getActiveFace()` | `plizio_owned_faces`, `plizio_active_face` |
 | `language.ts` | `type Language = "hu" \| "de" \| "en" \| "ro"` | — |
 
+### Kulcs TypeScript típusok
+
+**`lib/cards.ts`**
+```ts
+type CardRarity = "bronze" | "silver" | "gold" | "legendary"
+interface GameCard { id: string; game: string; theme?: string; rarity: CardRarity; score: number; total: number; date: string }
+// calculateRarity(score, total, streak): pct===100 && streak>=3 → legendary; effectivePct>=95 → gold; >=70 → silver; else bronze
+// streakBonus = min(streak*2, 15); effectivePct = pct + streakBonus
+```
+
+**`lib/milestones.ts`**
+```ts
+interface PlayerStats { totalGames: number; perfectScores: number; highestStreak: number; skyHighestLevel: number }
+// MILESTONES (id → reward⭐): first_game→1, player_10→1, veteran_25→2, master_50→3, legend_100→5, marathon_250→10
+//   streak_7→2, streak_14→3, streak_30→5, perfect_1→1, perfect_5→3, sky_10_v2→1, sky_17→2
+// updateStats() uses Math.max (never decrements); incrementTotalGames/incrementPerfectScores increment directly
+```
+
+**`lib/skins.ts`**
+```ts
+interface SkinDef { id: string; icon: string; price: number; bodyColor: string; headColor: string; limbColor: string; emissive: string; emissiveIntensity: number; shoeColor: string; particle?: string }
+// 16 skins: default(0), fire(5), ice(5), gold(10), neon(10), ghost(15), robot(15), legendary(25),
+//           shadow(8), ocean(8), toxic(10), lava(12), crystal(15), void(20), candy(8), nature(6)
+```
+
+**`lib/accessories.ts`**
+```ts
+interface HatDef { id: string; icon: string; name: string; price: number; color: string; emissive: string; emissiveIntensity: number; type: "crown"|"cap"|"halo"|"horns"|"tophat"|"helmet"|"antenna"|"wizard" }
+interface TrailDef { id: string; icon: string; name: string; price: number; color: string; emissive: string; type: "fire"|"ice"|"rainbow"|"stars"|"smoke"|"electric" }
+// 8 hats (prices 3-12), 6 trails (prices 4-15)
+```
+
+**`lib/faces.ts`**
+```ts
+interface FaceDef { id: string; name: string; icon: string; price: number; eyeType: string; eyeColor: string; mouthType: string; mouthColor: string; blush?: boolean; blushColor?: string }
+// eyeType: "dot"|"round"|"angry"|"happy"|"sad"|"star"|"heart"|"x"|"wink"
+// mouthType: "smile"|"grin"|"sad"|"neutral"|"open"|"tongue"|"cat"|"fangs"|"none"
+// 18 faces (prices 0-10): default, happy, grin, sad, angry, wink, surprised, tongue, cool, cat, robot_face, heart_eyes, star_eyes, fangs, x_eyes, kawaii, demon, alien
+```
+
+**`lib/clothing.ts`**
+```ts
+interface TopDef { id; name; icon; price; color; accent?: string; type: "tshirt"|"hoodie"|"jacket"|"vest"|"armor"|"suit" }
+interface BottomDef { id; name; icon; price; color; type: "pants"|"shorts"|"skirt"|"jogger" }
+interface ShoeDef { id; name; icon; price; color; sole?: string; type: "sneaker"|"boot"|"sandal"|"highTop"|"formal" }
+interface CapeDef { id; name; icon; price; color; emissive; emissiveIntensity }
+interface GlassesDef { id; name; icon; price; color; lensColor; type: "sunglasses"|"round"|"visor"|"monocle"|"thug" }
+interface GloveDef { id; name; icon; price; color }
+// SlotType = "top"|"bottom"|"shoe"|"cape"|"glasses"|"gloves"
+// getActive(slot), setActive(slot, id|null), buyItem(slot, id) — generic functions
+// 18 tops (0-20⭐), 12 bottoms (0-6⭐), 13 shoes (0-10⭐), 8 capes (8-20⭐), 10 glasses (3-10⭐), 8 gloves (3-10⭐)
+```
+
 ### Fő komponensek (`components/`)
 | Fájl | Leírás |
 |------|--------|
