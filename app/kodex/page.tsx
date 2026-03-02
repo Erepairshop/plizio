@@ -1,12 +1,16 @@
 "use client";
 
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useRouter } from "next/navigation";
-import { ArrowLeft, RotateCcw, ChevronRight } from "lucide-react";
+import { ArrowLeft, X, RotateCcw } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import type { Language } from "@/lib/language";
-import { getRandomWord, getSpecialKeys, type KodexCategory } from "@/lib/kodex-words";
+import {
+  getLevelConfig, getPuzzleForLevel, getSecretCode, getSpecialKeys, getVowels,
+  LEVEL_CONFIGS, BADGE_DEFS,
+  type BadgeId, type LevelConfig,
+} from "@/lib/kodex-words";
 import { calculateRarity, saveCard, generateCardId, type CardRarity } from "@/lib/cards";
 import { incrementTotalGames, incrementPerfectScores } from "@/lib/milestones";
 import { getGender, type AvatarGender } from "@/lib/gender";
@@ -16,14 +20,17 @@ import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesD
 import { getHatDef, getActiveHat, getTrailDef, getActiveTrail } from "@/lib/accessories";
 import AvatarCompanion from "@/components/AvatarCompanion";
 
-// ─── DIFFICULTY ───────────────────────────────────────────────────────────────
-type Difficulty = "easy" | "medium" | "hard";
+// ─── TYPES ────────────────────────────────────────────────────────────────────
+type Screen = "expedition" | "playing" | "levelComplete" | "failed" | "complete";
 
-const DIFF_CFG = {
-  easy:   { lives: 8,  showCatEmoji: true,  showCatName: true,  scoreBonus: 0, color: "#22C55E", bg: "from-green-500/20 to-emerald-500/10"  },
-  medium: { lives: 6,  showCatEmoji: true,  showCatName: false, scoreBonus: 1, color: "#F59E0B", bg: "from-amber-500/20 to-yellow-500/10"   },
-  hard:   { lives: 4,  showCatEmoji: false, showCatName: false, scoreBonus: 2, color: "#EF4444", bg: "from-red-500/20   to-rose-500/10"     },
-} as const;
+type ExpeditionSave = {
+  currentLevel: number;       // next level to play (1–10)
+  completedLevels: number[];
+  collectedLetters: string[]; // one letter per completed level 1-9
+  earnedBadges: BadgeId[];    // available (not yet used) badges
+};
+
+const STORAGE_KEY = "kodex_expedition_v2";
 
 const KEYBOARD_ROWS = [
   ["Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P"],
@@ -34,48 +41,152 @@ const KEYBOARD_ROWS = [
 // ─── TRANSLATIONS ─────────────────────────────────────────────────────────────
 const T = {
   hu: {
-    title: "KÓDEX", cat: "Kategória",
-    won: "Megfejtve!", lost: "Game Over", answer: "A szó:",
-    again: "Újra", perfect: "Hibátlan!", card: "kártya",
-    chooseLvl: "Válassz szintet",
-    easy: "KÖNNYŰ", medium: "KÖZEPES", hard: "NEHÉZ",
-    easyDesc:   "8 élet · kategória megmutatva",
-    mediumDesc: "6 élet · csak emoji tipp",
-    hardDesc:   "4 élet · semmi segítség",
-    changeLvl: "Szintváltás",
+    title: "KÓDEX EXPEDÍCIÓ",
+    subtitle: "10 szint · Titkos kód",
+    start: "Expedíció indítása",
+    continueBtn: "Folytatás",
+    reset: "Újrakezd",
+    level: "Szint",
+    lives: "Élet",
+    secret: "Titkos Kód",
+    secretDesc: "Fejtsd meg a végső kódot!",
+    levelComplete: "Szint teljesítve!",
+    newBadge: "Új power badge!",
+    letterCollected: "Betű megszerzve:",
+    nextLevel: "Következő szint",
+    expeditionFailed: "Expedíció vége",
+    failedDesc: "Az expedíció sikertelen volt. Újrakezded?",
+    restartExpedition: "Újrakezd",
+    expeditionComplete: "Expedíció befejezve!",
+    legendaryDesc: "Megszerezted a legendás Kódex Mester kártyát!",
+    mainMenu: "Főmenü",
+    answer: "A megoldás:",
+    perfect: "Hibátlan!",
+    won: "Megfejtve!",
+    lost: "Nincs több élet",
+    cat: "Téma",
+    badgeUse: "Használj egy badge-et (max 2/szint)",
+    badgeUsed: "Badge elhasználva",
+    shieldActive: "Pajzs aktív",
+    badgeLimitReached: "2 badge elhasználva ebben a szintben",
+    secretReveal: "Gyűjtött betűid feltárulnak...",
+    secretPlay: "Fejtsd meg a maradék betűket! (3 élet)",
+    exitConfirm: "Kilép az expedícióból? (A haladásod megmarad)",
+    exitYes: "Igen, kilép",
+    exitNo: "Maradok",
+    vocalsDesc: "Vokális badge: minden magánhangzó feltárul!",
+    shieldDesc: "Pajzs badge: a következő hiba nem számít!",
+    explorerDesc: "Felfedező badge: a kategória neve megjelenik!",
+    trackerDesc: "Nyomkövető badge: a leggyakoribb betű feltárul!",
+    keyDesc: "Kulcs badge: egy véletlenszerű betű feltárul!",
   },
   de: {
-    title: "KÓDEX", cat: "Kategorie",
-    won: "Gelöst!", lost: "Game Over", answer: "Das Wort:",
-    again: "Nochmal", perfect: "Perfekt!", card: "Karte",
-    chooseLvl: "Schwierigkeitsgrad wählen",
-    easy: "LEICHT", medium: "MITTEL", hard: "SCHWER",
-    easyDesc:   "8 Leben · Kategorie angezeigt",
-    mediumDesc: "6 Leben · nur Emoji-Tipp",
-    hardDesc:   "4 Leben · kein Hinweis",
-    changeLvl: "Stufe wechseln",
+    title: "KÓDEX EXPEDITION",
+    subtitle: "10 Stufen · Geheimcode",
+    start: "Expedition starten",
+    continueBtn: "Weiter",
+    reset: "Neu starten",
+    level: "Stufe",
+    lives: "Leben",
+    secret: "Geheimcode",
+    secretDesc: "Entschlüssele den finalen Code!",
+    levelComplete: "Stufe abgeschlossen!",
+    newBadge: "Neues Power Badge!",
+    letterCollected: "Buchstabe gesammelt:",
+    nextLevel: "Nächste Stufe",
+    expeditionFailed: "Expedition vorbei",
+    failedDesc: "Die Expedition ist gescheitert. Neu starten?",
+    restartExpedition: "Neu starten",
+    expeditionComplete: "Expedition abgeschlossen!",
+    legendaryDesc: "Du hast die legendäre Kódex Meister Karte erhalten!",
+    mainMenu: "Hauptmenü",
+    answer: "Die Lösung:",
+    perfect: "Perfekt!",
+    won: "Gelöst!",
+    lost: "Kein Leben mehr",
+    cat: "Thema",
+    badgeUse: "Verwende ein Badge (max 2/Stufe)",
+    badgeUsed: "Badge verwendet",
+    shieldActive: "Schild aktiv",
+    badgeLimitReached: "2 Badges in dieser Stufe verwendet",
+    secretReveal: "Deine gesammelten Buchstaben erscheinen...",
+    secretPlay: "Entschlüssele die restlichen Buchstaben! (3 Leben)",
+    exitConfirm: "Expedition verlassen? (Fortschritt bleibt erhalten)",
+    exitYes: "Ja, verlassen",
+    exitNo: "Bleiben",
+    vocalsDesc: "", shieldDesc: "", explorerDesc: "", trackerDesc: "", keyDesc: "",
   },
   en: {
-    title: "KÓDEX", cat: "Category",
-    won: "Solved!", lost: "Game Over", answer: "The word:",
-    again: "Again", perfect: "Perfect!", card: "card",
-    chooseLvl: "Choose difficulty",
-    easy: "EASY", medium: "MEDIUM", hard: "HARD",
-    easyDesc:   "8 lives · category shown",
-    mediumDesc: "6 lives · emoji hint only",
-    hardDesc:   "4 lives · no hints at all",
-    changeLvl: "Change level",
+    title: "KÓDEX EXPEDITION",
+    subtitle: "10 levels · Secret code",
+    start: "Start Expedition",
+    continueBtn: "Continue",
+    reset: "Restart",
+    level: "Level",
+    lives: "Lives",
+    secret: "Secret Code",
+    secretDesc: "Crack the final code!",
+    levelComplete: "Level complete!",
+    newBadge: "New power badge!",
+    letterCollected: "Letter collected:",
+    nextLevel: "Next level",
+    expeditionFailed: "Expedition over",
+    failedDesc: "The expedition has failed. Restart?",
+    restartExpedition: "Restart",
+    expeditionComplete: "Expedition complete!",
+    legendaryDesc: "You earned the legendary Kódex Master card!",
+    mainMenu: "Main menu",
+    answer: "The answer:",
+    perfect: "Perfect!",
+    won: "Solved!",
+    lost: "No lives left",
+    cat: "Theme",
+    badgeUse: "Use a badge (max 2/level)",
+    badgeUsed: "Badge used",
+    shieldActive: "Shield active",
+    badgeLimitReached: "2 badges used this level",
+    secretReveal: "Your collected letters are being revealed...",
+    secretPlay: "Crack the remaining letters! (3 lives)",
+    exitConfirm: "Exit expedition? (Progress is saved)",
+    exitYes: "Yes, exit",
+    exitNo: "Stay",
+    vocalsDesc: "", shieldDesc: "", explorerDesc: "", trackerDesc: "", keyDesc: "",
   },
   ro: {
-    title: "KÓDEX", cat: "Categorie",
-    won: "Rezolvat!", lost: "Game Over", answer: "Cuvântul:",
-    again: "Din nou", perfect: "Perfect!", card: "carte",
-    chooseLvl: "Alege dificultatea",
-    easy: "UȘOR", medium: "MEDIU", hard: "GREU",
-    easyDesc:   "8 vieți · categorie afișată",
-    mediumDesc: "6 vieți · indiciu emoji",
-    hardDesc:   "4 vieți · fără indicii",
-    changeLvl: "Schimbă nivelul",
+    title: "EXPEDIȚIA KÓDEX",
+    subtitle: "10 niveluri · Cod secret",
+    start: "Pornește Expediția",
+    continueBtn: "Continuă",
+    reset: "Reîncepe",
+    level: "Nivel",
+    lives: "Vieți",
+    secret: "Cod Secret",
+    secretDesc: "Descifrea codul final!",
+    levelComplete: "Nivel completat!",
+    newBadge: "Badge nou!",
+    letterCollected: "Literă colectată:",
+    nextLevel: "Nivelul următor",
+    expeditionFailed: "Expediție terminată",
+    failedDesc: "Expediția a eșuat. Reîncepi?",
+    restartExpedition: "Reîncepe",
+    expeditionComplete: "Expediție completată!",
+    legendaryDesc: "Ai câștigat cardul legendar Maestrul Kódex!",
+    mainMenu: "Meniu principal",
+    answer: "Răspunsul:",
+    perfect: "Perfect!",
+    won: "Rezolvat!",
+    lost: "Fără vieți",
+    cat: "Temă",
+    badgeUse: "Folosește un badge (max 2/nivel)",
+    badgeUsed: "Badge folosit",
+    shieldActive: "Scut activ",
+    badgeLimitReached: "2 badge-uri folosite în acest nivel",
+    secretReveal: "Literele colectate apar...",
+    secretPlay: "Descifrea literele rămase! (3 vieți)",
+    exitConfirm: "Ieși din expediție? (Progresul se salvează)",
+    exitYes: "Da, ieși",
+    exitNo: "Rămân",
+    vocalsDesc: "", shieldDesc: "", explorerDesc: "", trackerDesc: "", keyDesc: "",
   },
 };
 
@@ -104,103 +215,145 @@ function updateStreak(): number {
   return 1;
 }
 
+function freshExpedition(): ExpeditionSave {
+  return { currentLevel: 1, completedLevels: [], collectedLetters: [], earnedBadges: [] };
+}
+
 // ─── COMPONENT ────────────────────────────────────────────────────────────────
 export default function KodexPage() {
   const router = useRouter();
   const { lang } = useLang();
-  const t = T[lang as keyof typeof T] || T.en;
+  const t = T[lang as keyof typeof T] ?? T.en;
 
-  // Screen & difficulty
-  const [screen, setScreen] = useState<"levelSelect" | "playing">("levelSelect");
-  const [difficulty, setDifficulty] = useState<Difficulty>("medium");
+  // ── Screens ──
+  const [screen, setScreen] = useState<Screen>("expedition");
+  const [showExitConfirm, setShowExitConfirm] = useState(false);
 
-  // Game state
-  const [word, setWord] = useState("");
-  const [category, setCategory] = useState<KodexCategory | null>(null);
+  // ── Expedition state ──
+  const [exped, setExped] = useState<ExpeditionSave>(freshExpedition);
+
+  // ── Playing state ──
+  const [cfg, setCfg] = useState<LevelConfig>(getLevelConfig(1));
+  const [puzzle, setPuzzle] = useState("");
   const [guessed, setGuessed] = useState<Set<string>>(new Set());
   const [wrongCount, setWrongCount] = useState(0);
   const [gameState, setGameState] = useState<"playing" | "won" | "lost">("playing");
+  const [shieldPending, setShieldPending] = useState(false);
+  const [badgesUsedThisLevel, setBadgesUsedThisLevel] = useState(0);
+  const [explorerRevealed, setExplorerRevealed] = useState(false);
+
+  // ── Level 10 secret code animation ──
+  const [secretPhase, setSecretPhase] = useState<"animating" | "playing">("playing");
+  const [animCount, setAnimCount] = useState(0);
+  const animTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  // ── Level complete data ──
+  const [completeBadge, setCompleteBadge] = useState<BadgeId | null>(null);
+  const [completeLetter, setCompleteLetter] = useState<string>("");
   const [earnedCard, setEarnedCard] = useState<CardRarity | null>(null);
-  // jumpTrigger only for CORRECT guesses — wrong guesses use sinking visual only
-  const [jumpTrigger, setJumpTrigger] = useState<
-    { reaction: "happy" | "victory" | null; timestamp: number } | undefined
-  >(undefined);
 
-  // Avatar state
+  // ── Avatar ──
   const [gender, setGenderState] = useState<AvatarGender>("girl");
-  const [activeSkin, setActiveSkinState] = useState(() => getSkinDef("default"));
-  const [activeFace, setActiveFaceState] = useState(() => getFaceDef("default"));
-  const [activeTop, setActiveTopState] = useState<ReturnType<typeof getTopDef>>(null);
-  const [activeBottom, setActiveBottomState] = useState<ReturnType<typeof getBottomDef>>(null);
-  const [activeShoe, setActiveShoeState] = useState<ReturnType<typeof getShoeDef>>(null);
-  const [activeCape, setActiveCapeState] = useState<ReturnType<typeof getCapeDef>>(null);
+  const [activeSkin,    setActiveSkinState]    = useState(() => getSkinDef("default"));
+  const [activeFace,    setActiveFaceState]    = useState(() => getFaceDef("default"));
+  const [activeTop,     setActiveTopState]     = useState<ReturnType<typeof getTopDef>>(null);
+  const [activeBottom,  setActiveBottomState]  = useState<ReturnType<typeof getBottomDef>>(null);
+  const [activeShoe,    setActiveShoeState]    = useState<ReturnType<typeof getShoeDef>>(null);
+  const [activeCape,    setActiveCapeState]    = useState<ReturnType<typeof getCapeDef>>(null);
   const [activeGlasses, setActiveGlassesState] = useState<ReturnType<typeof getGlassesDef>>(null);
-  const [activeGloves, setActiveGlovesState] = useState<ReturnType<typeof getGloveDef>>(null);
-  const [activeHat, setActiveHatState] = useState<ReturnType<typeof getHatDef>>(null);
-  const [activeTrail, setActiveTrailState] = useState<ReturnType<typeof getTrailDef>>(null);
+  const [activeGloves,  setActiveGlovesState]  = useState<ReturnType<typeof getGloveDef>>(null);
+  const [activeHat,     setActiveHatState]     = useState<ReturnType<typeof getHatDef>>(null);
+  const [activeTrail,   setActiveTrailState]   = useState<ReturnType<typeof getTrailDef>>(null);
+  const [jumpTrigger,   setJumpTrigger]        = useState<{ reaction: "happy" | "victory" | null; timestamp: number } | undefined>(undefined);
 
+  // Load avatar + expedition
   useEffect(() => {
     setGenderState(getGender());
     setActiveSkinState(getSkinDef(getActiveSkin()));
     setActiveFaceState(getFaceDef(getActiveFace()));
-    const top = getActive("top"); if (top) setActiveTopState(getTopDef(top));
-    const bottom = getActive("bottom"); if (bottom) setActiveBottomState(getBottomDef(bottom));
-    const shoe = getActive("shoe"); if (shoe) setActiveShoeState(getShoeDef(shoe));
-    const cape = getActive("cape"); if (cape) setActiveCapeState(getCapeDef(cape));
-    const glasses = getActive("glasses"); if (glasses) setActiveGlassesState(getGlassesDef(glasses));
-    const glove = getActive("gloves"); if (glove) setActiveGlovesState(getGloveDef(glove));
-    const hat = getActiveHat(); if (hat) setActiveHatState(getHatDef(hat));
-    const trail = getActiveTrail(); if (trail) setActiveTrailState(getTrailDef(trail));
+    const top  = getActive("top");     if (top)  setActiveTopState(getTopDef(top));
+    const bot  = getActive("bottom");  if (bot)  setActiveBottomState(getBottomDef(bot));
+    const shoe = getActive("shoe");    if (shoe) setActiveShoeState(getShoeDef(shoe));
+    const cape = getActive("cape");    if (cape) setActiveCapeState(getCapeDef(cape));
+    const gls  = getActive("glasses"); if (gls)  setActiveGlassesState(getGlassesDef(gls));
+    const glv  = getActive("gloves");  if (glv)  setActiveGlovesState(getGloveDef(glv));
+    const hat  = getActiveHat();       if (hat)  setActiveHatState(getHatDef(hat));
+    const trl  = getActiveTrail();     if (trl)  setActiveTrailState(getTrailDef(trl));
+
+    const saved = localStorage.getItem(STORAGE_KEY);
+    if (saved) {
+      try { setExped(JSON.parse(saved)); } catch { setExped(freshExpedition()); }
+    }
   }, []);
 
-  // Start a new round — accepts explicit difficulty to avoid stale closure
-  const startNewGame = useCallback((diff?: Difficulty) => {
-    const d = diff ?? difficulty;
-    const { word: w, category: c } = getRandomWord(lang, d);
-    setWord(w);
-    setCategory(c);
-    setGuessed(new Set());
+  const saveExped = useCallback((e: ExpeditionSave) => {
+    setExped(e);
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(e));
+  }, []);
+
+  // ── Start a level ──
+  const startLevel = useCallback((levelNum: number, currentExped: ExpeditionSave) => {
+    const levelCfg = getLevelConfig(levelNum);
+    setCfg(levelCfg);
     setWrongCount(0);
     setGameState("playing");
-    setEarnedCard(null);
+    setShieldPending(false);
+    setBadgesUsedThisLevel(0);
+    setExplorerRevealed(false);
     setJumpTrigger(undefined);
-  }, [lang, difficulty]);
 
-  const pickDifficulty = (d: Difficulty) => {
-    setDifficulty(d);
-    startNewGame(d);
-    setScreen("playing");
-  };
+    if (levelCfg.type === "secretcode") {
+      // Level 10: initialize with collected letters pre-guessed
+      const secretData = getSecretCode(lang);
+      setPuzzle(secretData.text);
+      // Start animation phase
+      setAnimCount(0);
+      setSecretPhase("animating");
+      setGuessed(new Set<string>());
+      setScreen("playing");
+    } else {
+      const p = getPuzzleForLevel(lang, levelNum);
+      setPuzzle(p);
+      setGuessed(new Set<string>());
+      setSecretPhase("playing");
+      setScreen("playing");
+    }
+  }, [lang]);
 
-  const MAX_WRONG = DIFF_CFG[difficulty].lives;
+  // Secret code animation: reveal letters one by one
+  useEffect(() => {
+    if (secretPhase !== "animating" || cfg.type !== "secretcode") return;
+    const secretData = getSecretCode(lang);
+    const letters = exped.collectedLetters;
+    if (animCount >= letters.length) {
+      // Animation done — seed guessed letters
+      setGuessed(new Set(letters));
+      setSecretPhase("playing");
+      return;
+    }
+    animTimer.current = setTimeout(() => {
+      setAnimCount(c => c + 1);
+    }, 350);
+    return () => { if (animTimer.current) clearTimeout(animTimer.current); };
+  }, [secretPhase, animCount, cfg.type, exped.collectedLetters, lang]);
 
-  // Avatar mood
-  const avatarMood = (() => {
-    if (gameState === "won")  return "victory"     as const;
-    if (gameState === "lost") return "disappointed" as const;
-    if (wrongCount === 0)     return "focused"      as const;
-    if (wrongCount <= 2)      return "surprised"    as const;
-    if (wrongCount <= 4)      return "confused"     as const;
-    return "disappointed" as const;
-  })();
-
-  // Letter guess handler
-  const handleGuess = (letter: string) => {
+  // ── Guess handler ──
+  const handleGuess = useCallback((letter: string) => {
     const upper = letter.toUpperCase();
-    if (gameState !== "playing" || guessed.has(upper)) return;
+    if (gameState !== "playing" || guessed.has(upper) || secretPhase === "animating") return;
 
     const newGuessed = new Set(guessed);
     newGuessed.add(upper);
     setGuessed(newGuessed);
 
-    if (word.includes(upper)) {
-      const allRevealed = [...word].every(l => l === " " || newGuessed.has(l));
+    if (puzzle.includes(upper)) {
+      const allRevealed = [...puzzle].every(l => l === " " || newGuessed.has(l));
       if (allRevealed) {
         const streak = updateStreak();
-        const cfg = DIFF_CFG[difficulty];
-        const score = Math.min(MAX_WRONG, MAX_WRONG - wrongCount + cfg.scoreBonus);
-        const rarity = calculateRarity(score, MAX_WRONG, streak);
-        saveCard({ id: generateCardId(), game: "kodex", rarity, score, total: MAX_WRONG, date: new Date().toISOString() });
+        const maxLives = cfg.lives;
+        const score = Math.max(0, maxLives - wrongCount);
+        const rarity = cfg.type === "secretcode" ? "legendary" : calculateRarity(score, maxLives, streak);
+        saveCard({ id: generateCardId(), game: "kodex", theme: cfg.theme.key, rarity, score, total: maxLives, date: new Date().toISOString() });
         incrementTotalGames();
         if (wrongCount === 0) incrementPerfectScores();
         setEarnedCard(rarity);
@@ -210,25 +363,129 @@ export default function KodexPage() {
         setJumpTrigger({ reaction: "happy", timestamp: Date.now() });
       }
     } else {
-      const newWrong = wrongCount + 1;
-      setWrongCount(newWrong);
-      // ⚠️  NO jumpTrigger here — wrong guess = only sinking animation
-      if (newWrong >= MAX_WRONG) {
-        incrementTotalGames();
-        setGameState("lost");
+      if (shieldPending) {
+        // Shield absorbs this wrong guess
+        setShieldPending(false);
+      } else {
+        const nw = wrongCount + 1;
+        setWrongCount(nw);
+        if (nw >= cfg.lives) {
+          incrementTotalGames();
+          setGameState("lost");
+        }
       }
     }
-  };
+  }, [gameState, guessed, puzzle, cfg, wrongCount, shieldPending, secretPhase]);
 
+  // Keyboard event handler
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key.length === 1 && /[a-zA-ZÁÉÍÓÖŐÚÜŰáéíóöőúüűÄÖÜäöüĂÂÎȘȚăâîșț]/.test(e.key)) {
+        handleGuess(e.key);
+      }
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [handleGuess]);
+
+  // ── Badge usage ──
+  const useBadge = useCallback((badgeId: BadgeId) => {
+    if (badgesUsedThisLevel >= 2 || gameState !== "playing") return;
+
+    const newExped = { ...exped, earnedBadges: [...exped.earnedBadges] };
+    const idx = newExped.earnedBadges.indexOf(badgeId);
+    if (idx === -1) return;
+    newExped.earnedBadges.splice(idx, 1);
+    saveExped(newExped);
+    setBadgesUsedThisLevel(n => n + 1);
+
+    if (badgeId === "vocals") {
+      const vowels = getVowels(lang);
+      const newGuessed = new Set(guessed);
+      vowels.forEach(v => { if (puzzle.includes(v)) newGuessed.add(v); });
+      setGuessed(newGuessed);
+      const allRevealed = [...puzzle].every(l => l === " " || newGuessed.has(l));
+      if (allRevealed) {
+        setEarnedCard(calculateRarity(cfg.lives, cfg.lives, 1));
+        setGameState("won");
+        setJumpTrigger({ reaction: "victory", timestamp: Date.now() });
+      }
+    } else if (badgeId === "shield") {
+      setShieldPending(true);
+    } else if (badgeId === "explorer") {
+      setExplorerRevealed(true);
+    } else if (badgeId === "tracker") {
+      // Reveal most frequent unguessed letter
+      const freq: Record<string, number> = {};
+      for (const c of puzzle) {
+        if (c !== " " && !guessed.has(c)) freq[c] = (freq[c] ?? 0) + 1;
+      }
+      const best = Object.entries(freq).sort((a, b) => b[1] - a[1])[0]?.[0];
+      if (best) handleGuess(best);
+    } else if (badgeId === "key") {
+      // Reveal one random unguessed letter
+      const unknown = [...new Set([...puzzle].filter(c => c !== " " && !guessed.has(c)))];
+      if (unknown.length) handleGuess(unknown[Math.floor(Math.random() * unknown.length)]);
+    }
+  }, [badgesUsedThisLevel, gameState, exped, saveExped, guessed, puzzle, lang, cfg, handleGuess]);
+
+  // ── Level won → level complete screen ──
+  const handleLevelWon = useCallback(() => {
+    const levelNum = cfg.levelNum;
+    const secretData = getSecretCode(lang);
+    const collectedLetter = levelNum <= 9 ? (secretData.revealLetters[levelNum - 1] ?? "") : "";
+    const badge = cfg.badgeReward ?? null;
+
+    const newExped: ExpeditionSave = {
+      ...exped,
+      currentLevel: levelNum + 1,
+      completedLevels: [...exped.completedLevels, levelNum],
+      collectedLetters: collectedLetter ? [...exped.collectedLetters, collectedLetter] : exped.collectedLetters,
+      earnedBadges: badge ? [...exped.earnedBadges, badge] : exped.earnedBadges,
+    };
+    saveExped(newExped);
+
+    setCompleteBadge(badge);
+    setCompleteLetter(collectedLetter);
+
+    if (levelNum === 10) {
+      setScreen("complete");
+    } else {
+      setScreen("levelComplete");
+    }
+  }, [cfg, lang, exped, saveExped]);
+
+  // ── Level lost → expedition failed ──
+  const handleLevelLost = useCallback(() => {
+    setScreen("failed");
+  }, []);
+
+  // ── Restart expedition ──
+  const restartExpedition = useCallback(() => {
+    const fresh = freshExpedition();
+    saveExped(fresh);
+    setScreen("expedition");
+  }, [saveExped]);
+
+  // Special keys for language
   const specialKeys = getSpecialKeys(lang);
-  const cfg = DIFF_CFG[difficulty];
 
+  // Key color
   const keyBg = (key: string) => {
     const upper = key.toUpperCase();
     if (!guessed.has(upper)) return "bg-white/10 hover:bg-white/20 active:scale-90 text-white";
-    if (word.includes(upper)) return "bg-green-500/20 border border-green-500/40 text-green-400";
+    if (puzzle.includes(upper)) return "bg-green-500/20 border border-green-500/40 text-green-400";
     return "bg-white/4 border border-white/8 text-white/20";
   };
+
+  const avatarMood = (() => {
+    if (gameState === "won")  return "victory"     as const;
+    if (gameState === "lost") return "disappointed" as const;
+    if (wrongCount === 0)     return "focused"      as const;
+    if (wrongCount <= 2)      return "surprised"    as const;
+    if (wrongCount <= 4)      return "confused"     as const;
+    return "disappointed" as const;
+  })();
 
   const avatarProps = {
     mood: avatarMood, fixed: false, gender, activeSkin, activeFace,
@@ -236,79 +493,509 @@ export default function KodexPage() {
     activeGlasses, activeGloves, activeHat, activeTrail, jumpTrigger,
   };
 
-  // ─── LEVEL SELECT ──────────────────────────────────────────────────────────
-  if (screen === "levelSelect") {
-    const levels: { key: Difficulty; emoji: string; name: string; desc: string }[] = [
-      { key: "easy",   emoji: "🟢", name: t.easy,   desc: t.easyDesc   },
-      { key: "medium", emoji: "🟡", name: t.medium, desc: t.mediumDesc },
-      { key: "hard",   emoji: "🔴", name: t.hard,   desc: t.hardDesc   },
-    ];
+  // ── Word display component ──
+  const WordDisplay = ({ text, guessedSet, small }: { text: string; guessedSet: Set<string>; small?: boolean }) => {
+    const size = text.replace(/ /g, "").length;
+    const tileSize = size > 20 ? "w-5" : size > 12 ? "w-6" : "w-8";
+    const fontSize = size > 20 ? "text-base" : size > 12 ? "text-lg" : "text-xl";
     return (
-      <main className="min-h-screen flex flex-col items-center justify-center px-5 max-w-md mx-auto">
-        <motion.button
-          onClick={() => router.push("/")}
-          className="absolute top-4 left-4 p-2 rounded-xl bg-white/5 border border-white/10"
-          whileTap={{ scale: 0.9 }}
-        >
-          <ArrowLeft size={18} className="text-white/40" />
-        </motion.button>
+      <div className="flex flex-wrap justify-center gap-1 px-2">
+        {[...text].map((ch, i) =>
+          ch === " " ? (
+            <div key={i} className="w-3" />
+          ) : (
+            <div key={i} className="flex flex-col items-center gap-0.5">
+              <AnimatePresence mode="wait">
+                {guessedSet.has(ch) ? (
+                  <motion.span
+                    key="letter"
+                    className={`text-white font-black ${tileSize} ${fontSize} text-center`}
+                    initial={{ scale: 0, y: -8 }}
+                    animate={{ scale: 1, y: 0 }}
+                    transition={{ type: "spring", stiffness: 400, damping: 15 }}
+                  >
+                    {ch}
+                  </motion.span>
+                ) : (
+                  <span key="blank" className={`${tileSize} ${fontSize} text-white/0 font-black text-center`}>_</span>
+                )}
+              </AnimatePresence>
+              <div
+                className={`${tileSize} h-[2px] rounded-full`}
+                style={{
+                  background: guessedSet.has(ch) ? "rgba(255,255,255,0.75)" : "rgba(255,255,255,0.45)",
+                  boxShadow: guessedSet.has(ch) ? "0 0 6px rgba(255,255,255,0.3)" : "none",
+                }}
+              />
+            </div>
+          )
+        )}
+      </div>
+    );
+  };
 
-        <motion.div
-          className="flex flex-col items-center gap-7 w-full"
-          initial={{ opacity: 0, y: 24 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.35 }}
-        >
-          <div className="text-center">
-            <p className="text-white font-black tracking-[0.25em] text-xl mb-1">KÓDEX</p>
-            <p className="text-white/40 text-sm">{t.chooseLvl}</p>
+  // ── Badge tray ──
+  const BadgeTray = () => {
+    const available = exped.earnedBadges;
+    if (available.length === 0 && !shieldPending) return null;
+    const limitReached = badgesUsedThisLevel >= 2;
+    return (
+      <div className="flex items-center justify-center gap-2 py-1">
+        {shieldPending && (
+          <motion.div
+            className="px-3 py-1.5 rounded-xl border border-blue-400/40 bg-blue-400/10 flex items-center gap-1.5"
+            initial={{ scale: 0 }} animate={{ scale: 1 }}
+          >
+            <span className="text-lg">🛡️</span>
+            <span className="text-blue-300 text-xs font-bold">{t.shieldActive}</span>
+          </motion.div>
+        )}
+        {available.map((badgeId, i) => {
+          const def = BADGE_DEFS[badgeId];
+          return (
+            <motion.button
+              key={`${badgeId}-${i}`}
+              onClick={() => useBadge(badgeId)}
+              disabled={limitReached || gameState !== "playing"}
+              className={`flex flex-col items-center gap-0.5 p-2 rounded-xl border transition-all ${
+                limitReached || gameState !== "playing"
+                  ? "border-white/5 bg-white/3 opacity-40"
+                  : "border-purple-400/40 bg-purple-500/10 hover:bg-purple-500/20 active:scale-95"
+              }`}
+              whileTap={!limitReached ? { scale: 0.9 } : undefined}
+              title={def.desc[lang as keyof typeof def.desc] ?? ""}
+            >
+              <span className="text-xl leading-none">{def.emoji}</span>
+              <span className="text-[9px] font-bold text-purple-300 leading-none">
+                {def.name[lang as keyof typeof def.name]}
+              </span>
+            </motion.button>
+          );
+        })}
+        {limitReached && available.length > 0 && (
+          <span className="text-white/30 text-[10px] text-center px-2">{t.badgeLimitReached}</span>
+        )}
+      </div>
+    );
+  };
+
+  // ═══════════════════════════════════════════════════════════════════
+  // ── EXPEDITION HOME SCREEN ──────────────────────────────────────────
+  // ═══════════════════════════════════════════════════════════════════
+  if (screen === "expedition") {
+    const hasProgress = exped.completedLevels.length > 0;
+    const secretData = getSecretCode(lang);
+    return (
+      <main className="min-h-screen flex flex-col px-4 pt-4 pb-6 max-w-md mx-auto">
+        {/* Header */}
+        <div className="flex items-center gap-3 mb-5">
+          <motion.button
+            onClick={() => router.push("/")}
+            className="p-2 rounded-xl bg-white/5 border border-white/10"
+            whileTap={{ scale: 0.9 }}
+          >
+            <ArrowLeft size={18} className="text-white/40" />
+          </motion.button>
+          <div>
+            <p className="text-white font-black tracking-[0.2em] text-base">{t.title}</p>
+            <p className="text-white/35 text-xs">{t.subtitle}</p>
           </div>
+          {hasProgress && (
+            <motion.button
+              onClick={restartExpedition}
+              className="ml-auto text-white/25 text-xs flex items-center gap-1"
+              whileTap={{ scale: 0.9 }}
+            >
+              <RotateCcw size={12} />
+              {t.reset}
+            </motion.button>
+          )}
+        </div>
 
-          <div className="flex flex-col gap-3 w-full">
-            {levels.map(({ key, emoji, name, desc }, i) => (
-              <motion.button
-                key={key}
-                onClick={() => pickDifficulty(key)}
-                className={`flex items-center gap-4 px-5 py-4 rounded-2xl border border-white/10 bg-gradient-to-r ${DIFF_CFG[key].bg} text-left`}
-                initial={{ opacity: 0, x: -18 }}
-                animate={{ opacity: 1, x: 0 }}
-                transition={{ delay: i * 0.07 }}
-                whileHover={{ scale: 1.02 }}
-                whileTap={{ scale: 0.97 }}
-              >
-                <span className="text-3xl">{emoji}</span>
-                <div className="flex-1">
-                  <p className="text-white font-black tracking-wider text-base">{name}</p>
-                  <p className="text-white/40 text-xs mt-0.5">{desc}</p>
+        {/* Secret code preview */}
+        <div className="mb-4 p-3 rounded-2xl border border-purple-500/20 bg-purple-500/5">
+          <div className="flex items-center gap-2 mb-2">
+            <span className="text-lg">🔐</span>
+            <span className="text-purple-300 text-xs font-bold tracking-wider uppercase">{t.secret}</span>
+          </div>
+          <div className="flex flex-wrap gap-1">
+            {[...secretData.text].map((ch, i) =>
+              ch === " " ? (
+                <div key={i} className="w-2" />
+              ) : (
+                <div key={i} className="flex flex-col items-center gap-0.5">
+                  <span className={`font-black text-sm w-5 text-center ${
+                    exped.collectedLetters.includes(ch) ? "text-purple-300" : "text-white/0"
+                  }`}>{ch}</span>
+                  <div className={`w-5 h-[2px] rounded-full ${
+                    exped.collectedLetters.includes(ch) ? "bg-purple-400/70" : "bg-white/25"
+                  }`} />
                 </div>
-                <ChevronRight size={18} style={{ color: DIFF_CFG[key].color }} />
-              </motion.button>
-            ))}
+              )
+            )}
           </div>
+          <p className="text-white/30 text-[10px] mt-2">{exped.collectedLetters.length}/9 betű megszerezve</p>
+        </div>
+
+        {/* Level path */}
+        <div className="flex flex-col gap-2 flex-1">
+          {LEVEL_CONFIGS.map((lc) => {
+            const done = exped.completedLevels.includes(lc.levelNum);
+            const current = lc.levelNum === exped.currentLevel;
+            const locked = lc.levelNum > exped.currentLevel;
+            const letter = done && lc.levelNum <= 9 ? secretData.revealLetters[lc.levelNum - 1] : null;
+            return (
+              <motion.div
+                key={lc.levelNum}
+                className={`flex items-center gap-3 px-4 py-3 rounded-2xl border ${
+                  current
+                    ? "border-yellow-400/40 bg-yellow-400/8"
+                    : done
+                    ? "border-green-500/25 bg-green-500/5"
+                    : "border-white/6 bg-white/2 opacity-50"
+                }`}
+                initial={{ opacity: 0, x: -16 }}
+                animate={{ opacity: locked ? 0.4 : 1, x: 0 }}
+                transition={{ delay: lc.levelNum * 0.04 }}
+              >
+                <div className="w-7 h-7 rounded-full flex items-center justify-center text-sm font-black"
+                  style={{ background: done ? "rgba(34,197,94,0.2)" : current ? "rgba(250,204,21,0.2)" : "rgba(255,255,255,0.05)" }}>
+                  {done ? "✅" : current ? "▶️" : lc.levelNum === 10 ? "🔐" : "🔒"}
+                </div>
+                <div className="flex-1">
+                  <div className="flex items-center gap-1.5">
+                    <span className="text-white/60 text-xs font-bold">{t.level} {lc.levelNum}</span>
+                    {lc.badgeReward && (
+                      <span className="text-[10px] opacity-60">{BADGE_DEFS[lc.badgeReward].emoji}</span>
+                    )}
+                  </div>
+                  <div className="flex items-center gap-1.5">
+                    <span className="text-sm">{lc.theme.emoji}</span>
+                    <span className={`text-xs font-bold ${done ? "text-green-400" : current ? "text-yellow-300" : "text-white/30"}`}>
+                      {lc.type === "secretcode" ? t.secret : lc.theme.label[lang as keyof typeof lc.theme.label] ?? lc.theme.label.en}
+                    </span>
+                  </div>
+                </div>
+                {letter && (
+                  <div className="w-7 h-7 rounded-lg bg-purple-500/20 border border-purple-400/30 flex items-center justify-center">
+                    <span className="text-purple-300 font-black text-sm">{letter}</span>
+                  </div>
+                )}
+                {!done && !locked && (
+                  <div className="flex items-center gap-0.5">
+                    {Array.from({ length: lc.lives }).map((_, i) => (
+                      <span key={i} className="text-[10px]">❤️</span>
+                    ))}
+                  </div>
+                )}
+              </motion.div>
+            );
+          })}
+        </div>
+
+        {/* Badges in inventory */}
+        {exped.earnedBadges.length > 0 && (
+          <div className="mt-4 p-3 rounded-2xl border border-white/8 bg-white/3">
+            <p className="text-white/30 text-[10px] font-bold tracking-wider mb-2">BADGE KÉSZLET</p>
+            <div className="flex gap-2 flex-wrap">
+              {exped.earnedBadges.map((bid, i) => (
+                <div key={i} className="flex items-center gap-1 px-2 py-1 rounded-xl bg-purple-500/10 border border-purple-400/20">
+                  <span className="text-base">{BADGE_DEFS[bid].emoji}</span>
+                  <span className="text-purple-300 text-[10px] font-bold">{BADGE_DEFS[bid].name[lang as keyof typeof BADGE_DEFS[typeof bid]["name"]]}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {/* Start/Continue button */}
+        <motion.button
+          onClick={() => startLevel(exped.currentLevel, exped)}
+          className="mt-4 w-full py-4 rounded-2xl font-black text-black text-base tracking-wider"
+          style={{ background: "linear-gradient(135deg, #FFD700, #FF8C00)" }}
+          whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.97 }}
+          disabled={exped.currentLevel > 10}
+        >
+          {hasProgress ? `▶ ${t.continueBtn} — ${t.level} ${exped.currentLevel}` : `🚀 ${t.start}`}
+        </motion.button>
+      </main>
+    );
+  }
+
+  // ═══════════════════════════════════════════════════════════════════
+  // ── LEVEL COMPLETE SCREEN ───────────────────────────────────────────
+  // ═══════════════════════════════════════════════════════════════════
+  if (screen === "levelComplete") {
+    return (
+      <main className="min-h-screen flex flex-col items-center justify-center px-6 max-w-md mx-auto">
+        <motion.div
+          className="flex flex-col items-center gap-5 w-full"
+          initial={{ opacity: 0, scale: 0.8 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ type: "spring", stiffness: 250, damping: 20 }}
+        >
+          <motion.div className="text-6xl" initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: 0.1, type: "spring" }}>
+            🏆
+          </motion.div>
+          <p className="text-2xl font-black text-green-400">{t.levelComplete}</p>
+
+          {/* Earned card */}
+          {earnedCard && (
+            <motion.div
+              className="px-5 py-2.5 rounded-2xl border text-center"
+              style={{ background: `${RARITY_COLORS[earnedCard]}15`, borderColor: `${RARITY_COLORS[earnedCard]}35` }}
+              initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: 0.2 }}
+            >
+              <p className="text-sm font-black tracking-widest" style={{ color: RARITY_COLORS[earnedCard] }}>
+                {RARITY_LABELS[lang as Language]?.[earnedCard] ?? earnedCard}
+              </p>
+            </motion.div>
+          )}
+
+          {/* New badge */}
+          {completeBadge && (
+            <motion.div
+              className="w-full p-4 rounded-2xl border border-purple-400/40 bg-purple-500/10 text-center"
+              initial={{ y: 20, opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 0.3 }}
+            >
+              <p className="text-purple-300 text-xs font-bold tracking-wider mb-2">{t.newBadge}</p>
+              <div className="flex items-center justify-center gap-3">
+                <span className="text-4xl">{BADGE_DEFS[completeBadge].emoji}</span>
+                <div className="text-left">
+                  <p className="text-white font-black text-base">{BADGE_DEFS[completeBadge].name[lang as keyof typeof BADGE_DEFS[typeof completeBadge]["name"]]}</p>
+                  <p className="text-white/40 text-xs">{BADGE_DEFS[completeBadge].desc[lang as keyof typeof BADGE_DEFS[typeof completeBadge]["desc"]]}</p>
+                </div>
+              </div>
+            </motion.div>
+          )}
+
+          {/* Collected letter */}
+          {completeLetter && (
+            <motion.div
+              className="w-full p-3 rounded-2xl border border-purple-400/30 bg-purple-500/8 flex items-center justify-between"
+              initial={{ y: 20, opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 0.4 }}
+            >
+              <div>
+                <p className="text-white/40 text-xs">{t.letterCollected}</p>
+                <p className="text-purple-300 text-xs mt-0.5">Titkos kódhoz hozzáadva</p>
+              </div>
+              <div className="w-12 h-12 rounded-xl bg-purple-500/20 border border-purple-400/40 flex items-center justify-center">
+                <span className="text-2xl font-black text-purple-300">{completeLetter}</span>
+              </div>
+            </motion.div>
+          )}
+
+          <motion.button
+            onClick={() => startLevel(exped.currentLevel, exped)}
+            className="w-full py-4 rounded-2xl font-black text-black text-base"
+            style={{ background: "linear-gradient(135deg, #00FF88, #00D4FF)" }}
+            whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.97 }}
+            initial={{ y: 20, opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 0.5 }}
+          >
+            {exped.currentLevel === 10 ? "🔐 " : ""}{t.nextLevel} →
+          </motion.button>
+
+          <motion.button
+            onClick={() => setScreen("expedition")}
+            className="text-white/30 text-sm"
+            whileTap={{ scale: 0.95 }}
+          >
+            Expedíció áttekintése
+          </motion.button>
         </motion.div>
       </main>
     );
   }
 
-  // ─── GAME SCREEN ───────────────────────────────────────────────────────────
+  // ═══════════════════════════════════════════════════════════════════
+  // ── FAILED SCREEN ───────────────────────────────────────────────────
+  // ═══════════════════════════════════════════════════════════════════
+  if (screen === "failed") {
+    return (
+      <main className="min-h-screen flex flex-col items-center justify-center px-6 max-w-md mx-auto">
+        <motion.div
+          className="flex flex-col items-center gap-5 w-full max-w-xs"
+          initial={{ opacity: 0, scale: 0.85 }}
+          animate={{ opacity: 1, scale: 1 }}
+        >
+          <motion.div className="text-6xl" initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: 0.1 }}>
+            🌊
+          </motion.div>
+          <p className="text-2xl font-black text-red-400">{t.expeditionFailed}</p>
+          <p className="text-white/40 text-sm text-center">{t.failedDesc}</p>
+          <p className="text-white/25 text-xs">
+            {t.answer} <span className="text-white/60 font-bold">{puzzle}</span>
+          </p>
+          <motion.button
+            onClick={restartExpedition}
+            className="w-full py-4 rounded-2xl font-black text-black text-base"
+            style={{ background: "linear-gradient(135deg, #FF6B6B, #FF8C00)" }}
+            whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.97 }}
+          >
+            🔄 {t.restartExpedition}
+          </motion.button>
+          <motion.button
+            onClick={() => setScreen("expedition")}
+            className="text-white/30 text-sm"
+            whileTap={{ scale: 0.95 }}
+          >
+            Expedíció megtekintése
+          </motion.button>
+        </motion.div>
+      </main>
+    );
+  }
+
+  // ═══════════════════════════════════════════════════════════════════
+  // ── COMPLETE SCREEN (Legendary) ─────────────────────────────────────
+  // ═══════════════════════════════════════════════════════════════════
+  if (screen === "complete") {
+    return (
+      <main className="min-h-screen flex flex-col items-center justify-center px-6 max-w-md mx-auto">
+        <motion.div
+          className="flex flex-col items-center gap-6 w-full max-w-xs"
+          initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+        >
+          {/* Animated stars */}
+          {[...Array(6)].map((_, i) => (
+            <motion.div
+              key={i}
+              className="fixed text-2xl pointer-events-none"
+              style={{ left: `${15 + i * 14}%`, top: "10%" }}
+              animate={{ y: [-20, -60, -20], opacity: [0, 1, 0] }}
+              transition={{ delay: i * 0.2, duration: 2, repeat: Infinity, repeatDelay: 1 }}
+            >
+              ⭐
+            </motion.div>
+          ))}
+
+          <motion.div className="text-7xl" initial={{ scale: 0, rotate: -20 }} animate={{ scale: 1, rotate: 0 }}
+            transition={{ type: "spring", stiffness: 200, damping: 12 }}>
+            🏅
+          </motion.div>
+
+          <div className="text-center">
+            <p className="text-3xl font-black text-yellow-400">{t.expeditionComplete}</p>
+            <p className="text-white/50 text-sm mt-1">{t.legendaryDesc}</p>
+          </div>
+
+          {/* Legendary card */}
+          <motion.div
+            className="w-full p-6 rounded-3xl border text-center"
+            style={{
+              background: "linear-gradient(135deg, rgba(180,77,255,0.15), rgba(255,215,0,0.1))",
+              borderColor: "#B44DFF55",
+              boxShadow: "0 0 40px rgba(180,77,255,0.3)",
+            }}
+            initial={{ scale: 0, rotate: -5 }}
+            animate={{ scale: 1, rotate: 0 }}
+            transition={{ delay: 0.3, type: "spring" }}
+          >
+            <p className="text-4xl mb-3">🔐</p>
+            <p className="text-xl font-black text-yellow-400 tracking-wider">KÓDEX MESTER</p>
+            <p className="text-purple-300 text-sm mt-1">Legendary</p>
+            <div className="mt-3 pt-3 border-t border-white/10">
+              <p className="text-white/30 text-xs">10/10 szint teljesítve</p>
+            </div>
+          </motion.div>
+
+          <motion.button
+            onClick={() => { restartExpedition(); }}
+            className="w-full py-3 rounded-2xl font-bold text-sm border border-white/15 text-white/60"
+            whileTap={{ scale: 0.95 }}
+          >
+            {t.reset}
+          </motion.button>
+          <motion.button
+            onClick={() => router.push("/")}
+            className="text-white/30 text-sm"
+            whileTap={{ scale: 0.95 }}
+          >
+            {t.mainMenu}
+          </motion.button>
+        </motion.div>
+      </main>
+    );
+  }
+
+  // ═══════════════════════════════════════════════════════════════════
+  // ── PLAYING SCREEN ──────────────────────────────────────────────────
+  // ═══════════════════════════════════════════════════════════════════
+  const MAX_WRONG = cfg.lives;
+  const displayCatEmoji = cfg.showCatEmoji || explorerRevealed;
+  const displayCatName  = cfg.showCatName  || explorerRevealed;
+
+  // For secret code: show collected letters during animation phase
+  const secretData = cfg.type === "secretcode" ? getSecretCode(lang) : null;
+  const displayGuessed = cfg.type === "secretcode" && secretPhase === "animating"
+    ? new Set(exped.collectedLetters.slice(0, animCount))
+    : guessed;
+
   return (
-    <main className="min-h-screen flex flex-col px-3 pt-4 pb-3 max-w-md mx-auto select-none">
+    <main className="min-h-screen flex flex-col px-3 pt-3 pb-2 max-w-md mx-auto select-none">
+
+      {/* Exit confirm overlay */}
+      <AnimatePresence>
+        {showExitConfirm && (
+          <motion.div
+            className="fixed inset-0 flex items-center justify-center z-50 px-6"
+            style={{ background: "rgba(0,0,0,0.8)", backdropFilter: "blur(6px)" }}
+            initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
+          >
+            <motion.div
+              className="w-full max-w-xs flex flex-col gap-4 p-6 rounded-2xl border border-white/10 bg-white/5"
+              initial={{ scale: 0.85 }} animate={{ scale: 1 }}
+            >
+              <p className="text-white text-base font-bold text-center">{t.exitConfirm}</p>
+              <div className="flex gap-3">
+                <motion.button
+                  onClick={() => { setShowExitConfirm(false); setScreen("expedition"); }}
+                  className="flex-1 py-3 rounded-xl bg-white/8 border border-white/10 text-white/60 font-bold text-sm"
+                  whileTap={{ scale: 0.95 }}
+                >
+                  {t.exitYes}
+                </motion.button>
+                <motion.button
+                  onClick={() => setShowExitConfirm(false)}
+                  className="flex-1 py-3 rounded-xl font-bold text-sm text-black"
+                  style={{ background: "linear-gradient(135deg, #00FF88, #00D4FF)" }}
+                  whileTap={{ scale: 0.95 }}
+                >
+                  {t.exitNo}
+                </motion.button>
+              </div>
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
 
       {/* Header */}
-      <div className="flex items-center justify-between mb-3">
+      <div className="flex items-center justify-between mb-2">
         <motion.button
-          onClick={() => setScreen("levelSelect")}
+          onClick={() => setShowExitConfirm(true)}
           className="p-2 rounded-xl bg-white/5 border border-white/10"
           whileTap={{ scale: 0.9 }}
         >
-          <ArrowLeft size={18} className="text-white/40" />
+          <X size={16} className="text-white/40" />
         </motion.button>
 
-        <div className="flex flex-col items-center gap-0.5">
-          <span className="text-white font-black tracking-[0.2em] text-sm">{t.title}</span>
-          <span className="text-[10px] font-bold tracking-wider" style={{ color: cfg.color }}>
-            {t[difficulty]}
-          </span>
+        {/* Level progress dots */}
+        <div className="flex items-center gap-1">
+          {LEVEL_CONFIGS.map(lc => (
+            <div
+              key={lc.levelNum}
+              className="rounded-full transition-all"
+              style={{
+                width: lc.levelNum === cfg.levelNum ? 10 : 5,
+                height: lc.levelNum === cfg.levelNum ? 10 : 5,
+                background: exped.completedLevels.includes(lc.levelNum)
+                  ? "#22C55E"
+                  : lc.levelNum === cfg.levelNum
+                  ? "#FFD700"
+                  : "rgba(255,255,255,0.12)",
+              }}
+            />
+          ))}
         </div>
 
         {/* Lives */}
@@ -326,139 +1013,87 @@ export default function KodexPage() {
               ❤️
             </motion.span>
           ))}
+          {shieldPending && <span className="text-sm leading-none">🛡️</span>}
         </div>
       </div>
 
-      {/* Avatar + Category */}
-      <div className="flex items-center gap-4 mb-3">
+      {/* Level info */}
+      <div className="flex items-center gap-2 mb-2">
+        <span className="text-white/30 text-xs font-bold">{t.level} {cfg.levelNum}/10</span>
+        <span className="text-sm">{cfg.theme.emoji}</span>
+        {displayCatName && (
+          <span className="text-white/60 text-xs font-bold">
+            {cfg.theme.label[lang as keyof typeof cfg.theme.label] ?? cfg.theme.label.en}
+          </span>
+        )}
+        {!displayCatName && displayCatEmoji && (
+          <span className="text-white/25 text-[10px]">{t.cat}?</span>
+        )}
+        {!displayCatEmoji && !displayCatName && (
+          <span className="text-white/20 text-[10px]">???</span>
+        )}
+      </div>
 
-        {/* Avatar container — water sinking effect */}
-        <div className="relative w-28 h-28 shrink-0 overflow-hidden rounded-2xl">
+      {/* Secret code: animation label */}
+      {cfg.type === "secretcode" && secretPhase === "animating" && (
+        <motion.p className="text-center text-purple-300 text-xs mb-2" animate={{ opacity: [0.5, 1, 0.5] }} transition={{ duration: 1.2, repeat: Infinity }}>
+          {t.secretReveal}
+        </motion.p>
+      )}
+      {cfg.type === "secretcode" && secretPhase === "playing" && (
+        <p className="text-center text-white/25 text-[10px] mb-1">{t.secretPlay}</p>
+      )}
 
-          {/* Avatar sinks downward (no jumpTrigger on wrong = no fighting) */}
+      {/* Avatar + word area */}
+      <div className="flex items-start gap-3 mb-2">
+        {/* Avatar with water sink */}
+        <div className="relative w-22 h-22 shrink-0 overflow-hidden rounded-2xl" style={{ width: 88, height: 88 }}>
           <motion.div
             className="absolute inset-0"
             animate={{
-              y: gameState === "lost"
-                ? 62                                     // fully submerged
-                : (wrongCount / MAX_WRONG) * 40,         // gradual sink
+              y: gameState === "lost" ? 62 : (wrongCount / MAX_WRONG) * 36,
             }}
-            transition={{
-              duration: gameState === "lost" ? 0.35 : 0.65,
-              ease: "easeOut",
-            }}
+            transition={{ duration: gameState === "lost" ? 0.35 : 0.65, ease: "easeOut" }}
           >
             <AvatarCompanion {...avatarProps} />
           </motion.div>
-
-          {/* Rising water */}
           <motion.div
             className="absolute bottom-0 left-0 right-0 pointer-events-none"
-            animate={{
-              height: gameState === "lost" ? "100%" : `${(wrongCount / MAX_WRONG) * 90}%`,
-            }}
+            animate={{ height: gameState === "lost" ? "100%" : `${(wrongCount / MAX_WRONG) * 85}%` }}
             transition={{ duration: 0.75, ease: "easeInOut" }}
             style={{ zIndex: 5 }}
           >
-            {/* Wave crest at water surface */}
             <motion.div
-              className="absolute -top-2.5 left-0 right-0 h-5 pointer-events-none"
-              animate={{ scaleX: [1, 1.05, 0.97, 1.02, 1] }}
-              transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}
-              style={{
-                background: "radial-gradient(ellipse 90% 100% at 50% 100%, rgba(96,210,255,0.55) 0%, transparent 100%)",
-                borderRadius: "50%",
-              }}
+              className="absolute -top-2 left-0 right-0 h-4 pointer-events-none"
+              animate={{ scaleX: [1, 1.05, 0.97, 1] }}
+              transition={{ duration: 3, repeat: Infinity }}
+              style={{ background: "radial-gradient(ellipse 90% 100% at 50% 100%, rgba(96,210,255,0.55) 0%, transparent 100%)", borderRadius: "50%" }}
             />
-            {/* Water body */}
-            <div
-              className="absolute inset-0"
-              style={{ background: "linear-gradient(to bottom, rgba(56,185,255,0.20) 0%, rgba(14,70,200,0.50) 100%)" }}
-            />
-            {/* Rising bubbles */}
-            {wrongCount > 0 &&
-              [{ s: 5, l: "14%", d: 0 }, { s: 7, l: "42%", d: 0.6 }, { s: 4, l: "70%", d: 1.2 }].map(
-                ({ s, l, d }, i) => (
-                  <motion.div
-                    key={i}
-                    className="absolute rounded-full"
-                    style={{ width: s, height: s, left: l, bottom: "12%", background: "rgba(160,235,255,0.35)", border: "1px solid rgba(200,245,255,0.4)", zIndex: 6 }}
-                    animate={{ y: [0, -36], opacity: [0.8, 0] }}
-                    transition={{ duration: 2, delay: d, repeat: Infinity, repeatDelay: 1.8, ease: "easeOut" }}
-                  />
-                )
-              )}
+            <div className="absolute inset-0" style={{ background: "linear-gradient(to bottom, rgba(56,185,255,0.20), rgba(14,70,200,0.50))" }} />
           </motion.div>
         </div>
 
-        {/* Category hint — level-dependent visibility */}
-        <div className="flex flex-col gap-1">
-          {cfg.showCatEmoji && category ? (
-            <>
-              <span className="text-4xl">{category.emoji}</span>
-              {cfg.showCatName && (
-                <>
-                  <span className="text-white/30 text-[10px] font-bold tracking-widest uppercase">{t.cat}</span>
-                  <span className="text-white/70 text-sm font-bold">{category.label[lang] ?? category.label.en}</span>
-                </>
-              )}
-              {!cfg.showCatName && (
-                <span className="text-white/25 text-[10px] font-bold tracking-widest uppercase">{t.cat}?</span>
-              )}
-            </>
-          ) : (
-            <>
-              <span className="text-3xl opacity-25">❓</span>
-              <span className="text-white/20 text-[10px] font-bold tracking-widest">???</span>
-            </>
-          )}
+        {/* Word/puzzle display */}
+        <div className="flex-1 flex items-center justify-center py-2 min-h-16">
+          <WordDisplay text={puzzle} guessedSet={displayGuessed} />
         </div>
       </div>
 
-      {/* Word display */}
-      <div className="flex flex-wrap justify-center gap-2 mb-5 min-h-14 px-2">
-        {[...word].map((letter, i) =>
-          letter === " " ? (
-            <div key={i} className="w-3" />
-          ) : (
-            <div key={i} className="flex flex-col items-center gap-1">
-              <AnimatePresence mode="wait">
-                {guessed.has(letter) ? (
-                  <motion.span
-                    key="letter"
-                    className="text-white font-black text-xl w-8 text-center"
-                    initial={{ scale: 0, y: -8 }}
-                    animate={{ scale: 1, y: 0 }}
-                    transition={{ type: "spring", stiffness: 400, damping: 15 }}
-                  >
-                    {letter}
-                  </motion.span>
-                ) : (
-                  <span key="blank" className="w-8 text-center text-white/0 text-xl font-black">_</span>
-                )}
-              </AnimatePresence>
-              <div
-                className="w-8 h-[2px] rounded-full"
-                style={{
-                  background: guessed.has(letter) ? "rgba(255,255,255,0.75)" : "rgba(255,255,255,0.45)",
-                  boxShadow: guessed.has(letter) ? "0 0 6px rgba(255,255,255,0.3)" : "none",
-                }}
-              />
-            </div>
-          )
-        )}
+      {/* Badge tray */}
+      <div className="mb-1 min-h-10">
+        <BadgeTray />
       </div>
 
       {/* Keyboard */}
       <div className="flex flex-col items-center gap-1.5 mt-auto">
         {KEYBOARD_ROWS.map((row, ri) => (
-          <div key={ri} className="flex gap-1.5">
+          <div key={ri} className="flex gap-1">
             {row.map((key) => (
               <button
                 key={key}
                 onClick={() => handleGuess(key)}
-                disabled={guessed.has(key) || gameState !== "playing"}
-                className={`w-[30px] h-10 rounded-lg text-xs font-black transition-all ${keyBg(key)}`}
+                disabled={guessed.has(key) || gameState !== "playing" || secretPhase === "animating"}
+                className={`w-[29px] h-9 rounded-lg text-xs font-black transition-all ${keyBg(key)}`}
               >
                 {key}
               </button>
@@ -466,13 +1101,13 @@ export default function KodexPage() {
           </div>
         ))}
         {specialKeys.length > 0 && (
-          <div className="flex gap-1.5 flex-wrap justify-center mt-0.5 max-w-xs">
+          <div className="flex gap-1 flex-wrap justify-center mt-0.5 max-w-xs">
             {specialKeys.map((key) => (
               <button
                 key={key}
                 onClick={() => handleGuess(key)}
-                disabled={guessed.has(key.toUpperCase()) || gameState !== "playing"}
-                className={`w-9 h-9 rounded-lg text-xs font-black transition-all ${keyBg(key)}`}
+                disabled={guessed.has(key.toUpperCase()) || gameState !== "playing" || secretPhase === "animating"}
+                className={`w-9 h-8 rounded-lg text-xs font-black transition-all ${keyBg(key)}`}
               >
                 {key}
               </button>
@@ -485,81 +1120,67 @@ export default function KodexPage() {
       <AnimatePresence>
         {gameState !== "playing" && (
           <motion.div
-            className="fixed inset-0 flex flex-col items-center justify-center px-6 z-50"
-            style={{ background: "rgba(0,0,0,0.72)", backdropFilter: "blur(6px)" }}
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
+            className="fixed inset-0 flex flex-col items-center justify-center px-6 z-40"
+            style={{ background: "rgba(0,0,0,0.75)", backdropFilter: "blur(6px)" }}
+            initial={{ opacity: 0 }} animate={{ opacity: 1 }}
           >
             <motion.div
-              className="flex flex-col items-center gap-5 w-full max-w-xs"
+              className="flex flex-col items-center gap-4 w-full max-w-xs"
               initial={{ scale: 0.8, y: 30 }}
               animate={{ scale: 1, y: 0 }}
               transition={{ type: "spring", stiffness: 300, damping: 20, delay: 0.1 }}
             >
-              <motion.div
-                className="text-6xl"
-                initial={{ scale: 0 }}
-                animate={{ scale: 1 }}
-                transition={{ type: "spring", stiffness: 400, damping: 15, delay: 0.15 }}
-              >
+              <motion.div className="text-6xl" initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: 0.15, type: "spring" }}>
                 {gameState === "won" ? "🏆" : "🌊"}
               </motion.div>
 
               <div className="text-center">
-                <motion.p
-                  className="text-2xl font-black mb-1"
-                  style={{ color: gameState === "won" ? "#00FF88" : "#FF4444" }}
-                  initial={{ scale: 0.5 }} animate={{ scale: 1 }}
-                  transition={{ type: "spring", delay: 0.2 }}
-                >
+                <p className="text-2xl font-black mb-1" style={{ color: gameState === "won" ? "#00FF88" : "#FF4444" }}>
                   {gameState === "won" ? t.won : t.lost}
-                </motion.p>
+                </p>
                 {wrongCount === 0 && gameState === "won" && (
                   <p className="text-yellow-400 text-sm font-bold">⭐ {t.perfect}</p>
                 )}
                 {gameState === "lost" && (
-                  <p className="text-white/50 text-sm">
-                    {t.answer} <span className="text-white font-bold">{word}</span>
+                  <p className="text-white/40 text-sm mt-1">
+                    {t.answer} <span className="text-white/70 font-bold">{puzzle}</span>
                   </p>
                 )}
               </div>
 
-              {earnedCard && (
+              {earnedCard && gameState === "won" && (
                 <motion.div
-                  className="px-6 py-3 rounded-2xl border text-center"
-                  style={{
-                    background: `${RARITY_COLORS[earnedCard]}15`,
-                    borderColor: `${RARITY_COLORS[earnedCard]}35`,
-                    boxShadow: `0 0 20px ${RARITY_COLORS[earnedCard]}20`,
-                  }}
-                  initial={{ scale: 0, rotate: -5 }}
-                  animate={{ scale: 1, rotate: 0 }}
-                  transition={{ type: "spring", stiffness: 400, damping: 15, delay: 0.35 }}
+                  className="px-5 py-2.5 rounded-2xl border text-center"
+                  style={{ background: `${RARITY_COLORS[earnedCard]}15`, borderColor: `${RARITY_COLORS[earnedCard]}35` }}
+                  initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: 0.3 }}
                 >
-                  <p className="text-sm font-black tracking-widest uppercase" style={{ color: RARITY_COLORS[earnedCard] }}>
+                  <p className="text-sm font-black tracking-widest" style={{ color: RARITY_COLORS[earnedCard] }}>
                     {RARITY_LABELS[lang as Language]?.[earnedCard] ?? earnedCard}
                   </p>
-                  <p className="text-white/35 text-[11px] mt-0.5">+1 {t.card}</p>
                 </motion.div>
               )}
 
-              <div className="flex gap-3 mt-1">
-                <motion.button
-                  onClick={() => setScreen("levelSelect")}
-                  className="px-4 py-2.5 rounded-xl border border-white/10 text-white/40 text-xs font-bold"
-                  whileTap={{ scale: 0.95 }}
-                >
-                  {t.changeLvl}
-                </motion.button>
-                <motion.button
-                  onClick={() => startNewGame()}
-                  className="flex items-center gap-2 px-6 py-2.5 rounded-xl font-bold text-sm text-black"
-                  style={{ background: "linear-gradient(135deg, #00FF88, #00D4FF)" }}
-                  whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}
-                >
-                  <RotateCcw size={15} />
-                  {t.again}
-                </motion.button>
+              <div className="flex gap-3 w-full mt-1">
+                {gameState === "won" ? (
+                  <motion.button
+                    onClick={handleLevelWon}
+                    className="flex-1 py-3 rounded-xl font-bold text-sm text-black"
+                    style={{ background: "linear-gradient(135deg, #00FF88, #00D4FF)" }}
+                    whileTap={{ scale: 0.95 }}
+                  >
+                    {cfg.levelNum === 10 ? "🏅 " : ""}
+                    {cfg.levelNum < 10 ? t.nextLevel : t.expeditionComplete}
+                  </motion.button>
+                ) : (
+                  <motion.button
+                    onClick={handleLevelLost}
+                    className="flex-1 py-3 rounded-xl font-bold text-sm text-black"
+                    style={{ background: "linear-gradient(135deg, #FF6B6B, #FF8C00)" }}
+                    whileTap={{ scale: 0.95 }}
+                  >
+                    {t.restartExpedition}
+                  </motion.button>
+                )}
               </div>
             </motion.div>
           </motion.div>
