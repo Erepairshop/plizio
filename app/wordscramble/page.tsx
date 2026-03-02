@@ -2,107 +2,268 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Shuffle, Trophy, CheckCircle, XCircle, Timer, X, Delete, Eye, Clock } from "lucide-react";
+import { ArrowLeft, RotateCcw, Trophy, Timer, Delete, CheckCircle, XCircle } from "lucide-react";
 import Link from "next/link";
-import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
-import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
-import { incrementTotalGames, updateStats } from "@/lib/milestones";
+import { calculateRarity, saveCard, generateCardId, type CardRarity } from "@/lib/cards";
+import { incrementTotalGames, incrementPerfectScores } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
 import { useLang } from "@/components/LanguageProvider";
+import type { Language } from "@/lib/language";
+import { getGender, type AvatarGender } from "@/lib/gender";
+import { getSkinDef, getActiveSkin } from "@/lib/skins";
+import { getFaceDef, getActiveFace } from "@/lib/faces";
+import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
+import { getHatDef, getActiveHat, getTrailDef, getActiveTrail } from "@/lib/accessories";
+import AvatarCompanion from "@/components/AvatarCompanion";
 import wordsEn from "@/data/words.json";
 import wordsHu from "@/data/words-hu.json";
 import wordsDe from "@/data/words-de.json";
 import wordsRo from "@/data/words-ro.json";
 
-type GameState = "ready" | "playing" | "correct" | "wrong" | "result" | "reward";
+// ─── TYPES ────────────────────────────────────────────────────────────────────
+type WSBadgeId = "reveal" | "time" | "reshuffle" | "shield";
+type Screen = "expedition" | "playing" | "levelComplete" | "failed" | "complete" | "reward";
+type WordState = "playing" | "correct" | "wrong" | "timeout";
 
-const TOTAL_ROUNDS = 8;
-const TIME_PER_WORD = 15;
+interface WSLevelConfig {
+  level: number;
+  wordCount: number;
+  timePerWord: number;
+  minCorrect: number;
+  minLen: number;
+  maxLen: number;
+  fakeLetters: number;
+  badgeReward: WSBadgeId | null;
+  emoji: string;
+}
 
-const WORD_LISTS: Record<string, string[]> = {
+interface WSExpeditionSave {
+  currentLevel: number;
+  completedLevels: number[];
+  earnedBadges: WSBadgeId[];
+  levelScores: Record<number, number>;
+}
+
+const WS_STORAGE_KEY = "ws_expedition_v1";
+
+// ─── LEVEL CONFIGS ─────────────────────────────────────────────────────────────
+const LEVEL_CONFIGS: WSLevelConfig[] = [
+  { level: 1,  wordCount: 3, timePerWord: 25, minCorrect: 2, minLen: 4, maxLen: 4, fakeLetters: 0, badgeReward: null,         emoji: "🌱" },
+  { level: 2,  wordCount: 4, timePerWord: 22, minCorrect: 3, minLen: 4, maxLen: 5, fakeLetters: 0, badgeReward: "reveal",      emoji: "🌿" },
+  { level: 3,  wordCount: 4, timePerWord: 18, minCorrect: 3, minLen: 5, maxLen: 6, fakeLetters: 0, badgeReward: null,         emoji: "🌲" },
+  { level: 4,  wordCount: 5, timePerWord: 15, minCorrect: 4, minLen: 5, maxLen: 6, fakeLetters: 0, badgeReward: "time",       emoji: "⛰️" },
+  { level: 5,  wordCount: 5, timePerWord: 13, minCorrect: 4, minLen: 6, maxLen: 6, fakeLetters: 0, badgeReward: null,         emoji: "🌋" },
+  { level: 6,  wordCount: 6, timePerWord: 12, minCorrect: 5, minLen: 6, maxLen: 7, fakeLetters: 1, badgeReward: "reshuffle",  emoji: "🌀" },
+  { level: 7,  wordCount: 6, timePerWord: 11, minCorrect: 5, minLen: 7, maxLen: 7, fakeLetters: 1, badgeReward: null,         emoji: "🌊" },
+  { level: 8,  wordCount: 6, timePerWord: 10, minCorrect: 5, minLen: 7, maxLen: 8, fakeLetters: 2, badgeReward: "shield",     emoji: "🔥" },
+  { level: 9,  wordCount: 7, timePerWord: 10, minCorrect: 6, minLen: 7, maxLen: 8, fakeLetters: 2, badgeReward: null,         emoji: "⚡" },
+  { level: 10, wordCount: 7, timePerWord: 12, minCorrect: 5, minLen: 4, maxLen: 8, fakeLetters: 2, badgeReward: null,         emoji: "🏆" },
+];
+
+const BADGE_DEFS: Record<WSBadgeId, { emoji: string; name: Record<Language, string>; desc: Record<Language, string> }> = {
+  reveal: {
+    emoji: "🔍",
+    name: { hu: "Felfedés", de: "Enthüllen", en: "Reveal", ro: "Dezvăluie" },
+    desc: { hu: "Felfedi a következő helyes betűt", de: "Zeigt den nächsten richtigen Buchstaben", en: "Reveals the next correct letter", ro: "Dezvăluie litera corectă" },
+  },
+  time: {
+    emoji: "⏰",
+    name: { hu: "+8 mp", de: "+8 Sek", en: "+8 sec", ro: "+8 sec" },
+    desc: { hu: "+8 másodpercet ad az aktuális szóhoz", de: "Gibt +8 Sekunden für das aktuelle Wort", en: "Adds +8 seconds to the current word", ro: "Adaugă +8 secunde la cuvântul curent" },
+  },
+  reshuffle: {
+    emoji: "🔄",
+    name: { hu: "Keverés", de: "Mischen", en: "Shuffle", ro: "Amestecă" },
+    desc: { hu: "Újra összekeveri a betűket", de: "Buchstaben neu mischen", en: "Reshuffles the available letters", ro: "Amestecă din nou literele" },
+  },
+  shield: {
+    emoji: "🛡️",
+    name: { hu: "Pajzs", de: "Schild", en: "Shield", ro: "Scut" },
+    desc: { hu: "Egy elrontott szó nem számít hibának", de: "Ein falsches Wort zählt nicht als Fehler", en: "One wrong word doesn't count as a miss", ro: "Un cuvânt greșit nu contează" },
+  },
+};
+
+// ─── TRANSLATIONS ─────────────────────────────────────────────────────────────
+const T = {
+  hu: {
+    title: "BETŰKEVERŐ EXPEDÍCIÓ",
+    subtitle: "10 szint · Növekvő nehézség",
+    start: "Expedíció indítása",
+    continueBtn: "Folytatás",
+    reset: "Újrakezd",
+    level: "Szint",
+    levelComplete: "Szint teljesítve!",
+    newBadge: "Új power badge!",
+    nextLevel: "Következő szint",
+    expeditionFailed: "Expedíció vége",
+    failedDesc: "Nem sikerült elég szót megfejteni. Újrakezded?",
+    restartExpedition: "Újrakezd",
+    expeditionComplete: "Expedíció teljesítve!",
+    legendaryCard: "Legendary kártyát szereztél!",
+    mainMenu: "Főmenü",
+    score: "pont",
+    minCorrect: "minimum",
+    wordsLeft: "szó van hátra",
+    correct: "Helyes!",
+    wrong: "Tévesztés",
+    timeout: "Lejárt az idő",
+    shieldActive: "Pajzs aktív",
+    badgeLimitReached: "Max 2 badge/szint",
+    fakeLetter: "Álbetűk aktívak!",
+    boss: "BOSS SZINT",
+    delete: "Töröl",
+    levelInfo: "szó · minimum helyes",
+  },
+  de: {
+    title: "BUCHSTABENSALAT EXPEDITION",
+    subtitle: "10 Stufen · Wachsende Schwierigkeit",
+    start: "Expedition starten",
+    continueBtn: "Weiter",
+    reset: "Neu starten",
+    level: "Stufe",
+    levelComplete: "Stufe abgeschlossen!",
+    newBadge: "Neues Power Badge!",
+    nextLevel: "Nächste Stufe",
+    expeditionFailed: "Expedition vorbei",
+    failedDesc: "Nicht genug Wörter entschlüsselt. Neu starten?",
+    restartExpedition: "Neu starten",
+    expeditionComplete: "Expedition abgeschlossen!",
+    legendaryCard: "Legendäre Karte erhalten!",
+    mainMenu: "Hauptmenü",
+    score: "Punkte",
+    minCorrect: "minimum",
+    wordsLeft: "Wörter übrig",
+    correct: "Richtig!",
+    wrong: "Falsch",
+    timeout: "Zeit abgelaufen",
+    shieldActive: "Schild aktiv",
+    badgeLimitReached: "Max 2 Badges/Stufe",
+    fakeLetter: "Falschbuchstaben aktiv!",
+    boss: "BOSS-STUFE",
+    delete: "Löschen",
+    levelInfo: "Wörter · min. richtig",
+  },
+  en: {
+    title: "WORD SCRAMBLE EXPEDITION",
+    subtitle: "10 levels · Rising difficulty",
+    start: "Start Expedition",
+    continueBtn: "Continue",
+    reset: "Restart",
+    level: "Level",
+    levelComplete: "Level complete!",
+    newBadge: "New power badge!",
+    nextLevel: "Next level",
+    expeditionFailed: "Expedition over",
+    failedDesc: "Not enough words solved. Restart?",
+    restartExpedition: "Restart",
+    expeditionComplete: "Expedition complete!",
+    legendaryCard: "You earned a Legendary card!",
+    mainMenu: "Main menu",
+    score: "pts",
+    minCorrect: "minimum",
+    wordsLeft: "words left",
+    correct: "Correct!",
+    wrong: "Wrong",
+    timeout: "Time's up",
+    shieldActive: "Shield active",
+    badgeLimitReached: "Max 2 badges/level",
+    fakeLetter: "Fake letters active!",
+    boss: "BOSS LEVEL",
+    delete: "Delete",
+    levelInfo: "words · min. correct",
+  },
+  ro: {
+    title: "EXPEDIȚIA LITERELOR AMESTECATE",
+    subtitle: "10 niveluri · Dificultate crescândă",
+    start: "Pornește Expediția",
+    continueBtn: "Continuă",
+    reset: "Reîncepe",
+    level: "Nivel",
+    levelComplete: "Nivel completat!",
+    newBadge: "Badge nou!",
+    nextLevel: "Nivelul următor",
+    expeditionFailed: "Expediție terminată",
+    failedDesc: "Nu s-au rezolvat suficiente cuvinte. Reîncepi?",
+    restartExpedition: "Reîncepe",
+    expeditionComplete: "Expediție completată!",
+    legendaryCard: "Ai câștigat un card legendar!",
+    mainMenu: "Meniu principal",
+    score: "pct",
+    minCorrect: "minim",
+    wordsLeft: "cuvinte rămase",
+    correct: "Corect!",
+    wrong: "Greșit",
+    timeout: "Timp depășit",
+    shieldActive: "Scut activ",
+    badgeLimitReached: "Max 2 badge-uri/nivel",
+    fakeLetter: "Litere false active!",
+    boss: "NIVEL BOSS",
+    delete: "Șterge",
+    levelInfo: "cuvinte · min. corecte",
+  },
+};
+
+const RARITY_COLORS: Record<CardRarity, string> = {
+  legendary: "#B44DFF", gold: "#FFD700", silver: "#C0C0C0", bronze: "#CD7F32",
+};
+const RARITY_LABELS: Record<Language, Record<CardRarity, string>> = {
+  hu: { legendary: "Legendás", gold: "Arany",     silver: "Ezüst",  bronze: "Bronz"  },
+  de: { legendary: "Legendär", gold: "Gold",      silver: "Silber", bronze: "Bronze" },
+  en: { legendary: "Legendary",gold: "Gold",      silver: "Silver", bronze: "Bronze" },
+  ro: { legendary: "Legendar", gold: "Aur",       silver: "Argint", bronze: "Bronz"  },
+};
+
+// ─── HELPERS ──────────────────────────────────────────────────────────────────
+const WORD_LISTS: Record<Language, string[]> = {
   en: wordsEn as string[],
   hu: wordsHu as string[],
   de: wordsDe as string[],
   ro: wordsRo as string[],
 };
 
-const T = {
-  en: {
-    title: "WORD SCRAMBLE",
-    subtitle: "Unscramble the letters to find the word!",
-    play: "PLAY",
-    reveal: "REVEAL",
-    delete: "DELETE",
-    gameName: "Word Scramble",
-    revealLetter: "Reveal Letter",
-    extraTime: "Extra Time",
-    activated: "activated!",
-  },
-  hu: {
-    title: "BETŰKEVERŐ",
-    subtitle: "Keverd ki a betűket és találd meg a szót!",
-    play: "JÁTÉK",
-    reveal: "FELFED",
-    delete: "TÖRÖL",
-    gameName: "Betűkeverő",
-    revealLetter: "Betű felfedés",
-    extraTime: "Extra idő",
-    activated: "aktiválva!",
-  },
-  de: {
-    title: "BUCHSTABENSALAT",
-    subtitle: "Entschlüssele die Buchstaben und finde das Wort!",
-    play: "SPIELEN",
-    reveal: "AUFDECKEN",
-    delete: "LÖSCHEN",
-    gameName: "Buchstabensalat",
-    revealLetter: "Buchstabe aufdecken",
-    extraTime: "Extra Zeit",
-    activated: "aktiviert!",
-  },
-  ro: {
-    title: "LITERE AMESTECATE",
-    subtitle: "Descoperă cuvântul din literele amestecate!",
-    play: "JOACĂ",
-    reveal: "DEZVĂLUIE",
-    delete: "ȘTERGE",
-    gameName: "Litere Amestecate",
-    revealLetter: "Dezvăluie literă",
-    extraTime: "Timp suplimentar",
-    activated: "activat!",
-  },
-};
+const ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
-function shuffleWord(word: string): string {
-  const arr = word.split("");
-  for (let i = arr.length - 1; i > 0; i--) {
+function shuffleArray<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
-    [arr[i], arr[j]] = [arr[j], arr[i]];
+    [a[i], a[j]] = [a[j], a[i]];
   }
-  const result = arr.join("");
-  return result === word ? shuffleWord(word) : result;
+  return a;
 }
 
-function getStreak(): number {
-  if (typeof window === "undefined") return 0;
-  const data = localStorage.getItem("plizio_streak");
-  if (!data) return 0;
-  const { count, lastDate } = JSON.parse(data);
-  const today = new Date().toDateString();
-  const yesterday = new Date(Date.now() - 86400000).toDateString();
-  if (lastDate === today || lastDate === yesterday) return count;
-  return 0;
+function getWordsForLevel(lang: Language, cfg: WSLevelConfig, usedWords: string[]): string[] {
+  const all = WORD_LISTS[lang];
+  let pool = all.filter(w => w.length >= cfg.minLen && w.length <= cfg.maxLen);
+  if (pool.length < cfg.wordCount) {
+    // widen pool if not enough words
+    pool = all.filter(w => w.length >= cfg.minLen - 1 && w.length <= cfg.maxLen + 1);
+  }
+  if (pool.length === 0) pool = all;
+  const available = pool.filter(w => !usedWords.includes(w));
+  const finalPool = available.length >= cfg.wordCount ? available : pool;
+  return shuffleArray(finalPool).slice(0, cfg.wordCount);
+}
+
+function buildLetterPool(word: string, fakeCount: number): { letter: string; isFake: boolean }[] {
+  const letters = word.split("").map(l => ({ letter: l, isFake: false }));
+  for (let i = 0; i < fakeCount; i++) {
+    let fake: string;
+    do { fake = ALPHABET[Math.floor(Math.random() * ALPHABET.length)]; }
+    while (word.includes(fake));
+    letters.push({ letter: fake, isFake: true });
+  }
+  return shuffleArray(letters);
 }
 
 function updateStreak(): number {
-  if (typeof window === "undefined") return 0;
-  const data = localStorage.getItem("plizio_streak");
   const today = new Date().toDateString();
+  const data = localStorage.getItem("plizio_streak");
   if (data) {
     const { count, lastDate } = JSON.parse(data);
-    if (lastDate === today) return count;
     const yesterday = new Date(Date.now() - 86400000).toDateString();
+    if (lastDate === today) return count;
     const newCount = lastDate === yesterday ? count + 1 : 1;
     localStorage.setItem("plizio_streak", JSON.stringify({ count: newCount, lastDate: today }));
     return newCount;
@@ -111,420 +272,792 @@ function updateStreak(): number {
   return 1;
 }
 
+function freshExpedition(): WSExpeditionSave {
+  return { currentLevel: 1, completedLevels: [], earnedBadges: [], levelScores: {} };
+}
+
+// ─── COMPONENT ────────────────────────────────────────────────────────────────
 export default function WordScramblePage() {
   const { lang } = useLang();
-  const t = T[lang] ?? T.en;
-  const wordListRef = useRef<string[]>(wordsEn as string[]);
+  const t = T[lang as Language] ?? T.en;
 
-  useEffect(() => {
-    wordListRef.current = WORD_LISTS[lang] ?? (wordsEn as string[]);
-  }, [lang]);
+  // ── Screens ──
+  const [screen, setScreen] = useState<Screen>("expedition");
 
-  const [gameState, setGameState] = useState<GameState>("ready");
-  const [round, setRound] = useState(0);
+  // ── Expedition state ──
+  const [exped, setExped] = useState<WSExpeditionSave>(freshExpedition);
+
+  // ── Level state ──
+  const [cfg, setCfg] = useState<WSLevelConfig>(LEVEL_CONFIGS[0]);
+  const [levelWords, setLevelWords] = useState<string[]>([]);
+  const [wordIndex, setWordIndex] = useState(0);
   const [score, setScore] = useState(0);
+  const [shieldActive, setShieldActive] = useState(false);
+  const [badgesUsedThisLevel, setBadgesUsedThisLevel] = useState(0);
+
+  // ── Word state ──
   const [currentWord, setCurrentWord] = useState("");
-  const [scrambled, setScrambled] = useState("");
+  const [letterPool, setLetterPool] = useState<{ letter: string; used: boolean; isFake: boolean }[]>([]);
   const [guess, setGuess] = useState<string[]>([]);
-  const [availableLetters, setAvailableLetters] = useState<{ letter: string; used: boolean }[]>([]);
-  const [timeLeft, setTimeLeft] = useState(TIME_PER_WORD);
-  const [totalTime, setTotalTime] = useState(0);
-  const [streak, setStreak] = useState(0);
-  const [usedWords, setUsedWords] = useState<string[]>([]);
-  const startTimeRef = useRef(0);
-  // Shop power-ups
-  const [hasReveal, setHasReveal] = useState(false);
-  const [hasExtraTime, setHasExtraTime] = useState(false);
-  const [shopNotification, setShopNotification] = useState<string | null>(null);
+  const [timeLeft, setTimeLeft] = useState(15);
+  const [wordState, setWordState] = useState<WordState>("playing");
 
-  useEffect(() => { setStreak(getStreak()); }, []);
+  // ── Result state ──
+  const [earnedCard, setEarnedCard] = useState<CardRarity | null>(null);
+  const [earnedBadge, setEarnedBadge] = useState<WSBadgeId | null>(null);
+  const [jumpTrigger, setJumpTrigger] = useState<{ reaction: "happy" | "victory" | null; timestamp: number } | undefined>(undefined);
 
-  const startNewRound = useCallback((roundNum: number, used: string[]) => {
-    const allWords = wordListRef.current;
-    // Difficulty progression: early rounds prefer shorter words
-    // Round 0-2: only short words (≤6 letters)
-    // Round 3-5: medium words (≤8 letters)
-    // Round 6-7: any word
-    let pool: string[];
-    if (roundNum <= 2) {
-      pool = allWords.filter((w) => w.length <= 6);
-    } else if (roundNum <= 5) {
-      pool = allWords.filter((w) => w.length <= 8);
-    } else {
-      pool = allWords;
+  // ── Avatar ──
+  const [gender, setGenderState] = useState<AvatarGender>("girl");
+  const [activeSkin,    setActiveSkinState]    = useState(() => getSkinDef("default"));
+  const [activeFace,    setActiveFaceState]    = useState(() => getFaceDef("default"));
+  const [activeTop,     setActiveTopState]     = useState<ReturnType<typeof getTopDef>>(null);
+  const [activeBottom,  setActiveBottomState]  = useState<ReturnType<typeof getBottomDef>>(null);
+  const [activeShoe,    setActiveShoeState]    = useState<ReturnType<typeof getShoeDef>>(null);
+  const [activeCape,    setActiveCapeState]    = useState<ReturnType<typeof getCapeDef>>(null);
+  const [activeGlasses, setActiveGlassesState] = useState<ReturnType<typeof getGlassesDef>>(null);
+  const [activeGloves,  setActiveGlovesState]  = useState<ReturnType<typeof getGloveDef>>(null);
+  const [activeHat,     setActiveHatState]     = useState<ReturnType<typeof getHatDef>>(null);
+  const [activeTrail,   setActiveTrailState]   = useState<ReturnType<typeof getTrailDef>>(null);
+
+  const transitionRef = useRef(false);
+
+  // Load avatar + expedition
+  useEffect(() => {
+    setGenderState(getGender());
+    setActiveSkinState(getSkinDef(getActiveSkin()));
+    setActiveFaceState(getFaceDef(getActiveFace()));
+    const top  = getActive("top");     if (top)  setActiveTopState(getTopDef(top));
+    const bot  = getActive("bottom");  if (bot)  setActiveBottomState(getBottomDef(bot));
+    const shoe = getActive("shoe");    if (shoe) setActiveShoeState(getShoeDef(shoe));
+    const cape = getActive("cape");    if (cape) setActiveCapeState(getCapeDef(cape));
+    const gls  = getActive("glasses"); if (gls)  setActiveGlassesState(getGlassesDef(gls));
+    const glv  = getActive("gloves");  if (glv)  setActiveGlovesState(getGloveDef(glv));
+    const hat  = getActiveHat();       if (hat)  setActiveHatState(getHatDef(hat));
+    const trl  = getActiveTrail();     if (trl)  setActiveTrailState(getTrailDef(trl));
+
+    const saved = localStorage.getItem(WS_STORAGE_KEY);
+    if (saved) {
+      try { setExped(JSON.parse(saved)); }
+      catch { setExped(freshExpedition()); }
     }
-    if (pool.length === 0) pool = allWords;
-    const available = pool.filter((w) => !used.includes(w));
-    const finalAvailable = available.length > 0 ? available : allWords.filter((w) => !used.includes(w));
-    const word = finalAvailable[Math.floor(Math.random() * finalAvailable.length)];
-    setCurrentWord(word);
-    const s = shuffleWord(word);
-    setScrambled(s);
-    setAvailableLetters(s.split("").map((l) => ({ letter: l, used: false })));
-    setGuess([]);
-    setTimeLeft(TIME_PER_WORD);
-    setUsedWords([...used, word]);
-    setGameState("playing");
   }, []);
 
-  const startGame = () => {
-    setRound(0);
+  const saveExped = useCallback((e: WSExpeditionSave) => {
+    setExped(e);
+    localStorage.setItem(WS_STORAGE_KEY, JSON.stringify(e));
+  }, []);
+
+  // ── Start a level ──
+  const startLevel = useCallback((levelNum: number, currentExped: WSExpeditionSave) => {
+    const levelCfg = LEVEL_CONFIGS[levelNum - 1];
+    const words = getWordsForLevel(lang as Language, levelCfg, []);
+    const firstWord = words[0];
+    const pool = buildLetterPool(firstWord, levelCfg.fakeLetters);
+
+    setCfg(levelCfg);
+    setLevelWords(words);
+    setWordIndex(0);
     setScore(0);
-    setUsedWords([]);
-    startTimeRef.current = Date.now();
+    setShieldActive(false);
+    setBadgesUsedThisLevel(0);
+    setCurrentWord(firstWord);
+    setLetterPool(pool.map(l => ({ ...l, used: false })));
+    setGuess([]);
+    setTimeLeft(levelCfg.timePerWord);
+    setWordState("playing");
+    setJumpTrigger(undefined);
+    transitionRef.current = false;
+    setScreen("playing");
+  }, [lang]);
 
-    // Load shop power-ups
-    let gotReveal = false;
-    let gotExtraTime = false;
-    try {
-      const saved = localStorage.getItem("plizio_powerups");
-      if (saved) {
-        const pups = JSON.parse(saved) as Record<string, number>;
-        if (pups["ws_reveal"] && pups["ws_reveal"] > 0) {
-          gotReveal = true;
-          pups["ws_reveal"] -= 1;
-          if (pups["ws_reveal"] <= 0) delete pups["ws_reveal"];
-        }
-        if (pups["ws_extratime"] && pups["ws_extratime"] > 0) {
-          gotExtraTime = true;
-          pups["ws_extratime"] -= 1;
-          if (pups["ws_extratime"] <= 0) delete pups["ws_extratime"];
-        }
-        localStorage.setItem("plizio_powerups", JSON.stringify(pups));
-      }
-    } catch {}
-    setHasReveal(gotReveal);
-    setHasExtraTime(gotExtraTime);
+  // ── Load next word ──
+  const loadWord = useCallback((idx: number, words: string[], levelCfg: WSLevelConfig) => {
+    const word = words[idx];
+    const pool = buildLetterPool(word, levelCfg.fakeLetters);
+    setCurrentWord(word);
+    setLetterPool(pool.map(l => ({ ...l, used: false })));
+    setGuess([]);
+    setTimeLeft(levelCfg.timePerWord);
+    setWordState("playing");
+    transitionRef.current = false;
+  }, []);
 
-    const msgs: string[] = [];
-    if (gotReveal) msgs.push(t.revealLetter);
-    if (gotExtraTime) msgs.push(t.extraTime);
-    if (msgs.length > 0) {
-      setShopNotification(msgs.join(" + ") + " " + t.activated);
-      setTimeout(() => setShopNotification(null), 2500);
-    }
-
-    startNewRound(0, []);
-  };
-
-  // Timer
+  // ── Timer ──
   useEffect(() => {
-    if (gameState !== "playing") return;
+    if (wordState !== "playing" || screen !== "playing") return;
     if (timeLeft <= 0) {
-      setGameState("wrong");
-      setTimeout(() => {
-        if (round + 1 >= TOTAL_ROUNDS) endGame(score);
-        else { setRound((r) => r + 1); startNewRound(round + 1, usedWords); }
-      }, 1500);
+      if (transitionRef.current) return;
+      transitionRef.current = true;
+      // Timeout
+      if (shieldActive) {
+        setShieldActive(false);
+        // Shield absorbs — still move to next word as "missed" but no penalty
+        const nextIdx = wordIndex + 1;
+        setWordIndex(nextIdx);
+        if (nextIdx >= levelWords.length) {
+          finishLevel(score, cfg, exped);
+        } else {
+          setWordState("timeout");
+          setTimeout(() => loadWord(nextIdx, levelWords, cfg), 1200);
+        }
+      } else {
+        setWordState("timeout");
+        const nextIdx = wordIndex + 1;
+        setTimeout(() => {
+          setWordIndex(nextIdx);
+          if (nextIdx >= levelWords.length) {
+            finishLevel(score, cfg, exped);
+          } else {
+            loadWord(nextIdx, levelWords, cfg);
+          }
+        }, 1200);
+      }
       return;
     }
-    const timer = setTimeout(() => setTimeLeft((v) => v - 1), 1000);
+    const timer = setTimeout(() => setTimeLeft(v => v - 1), 1000);
     return () => clearTimeout(timer);
-  }, [gameState, timeLeft]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [wordState, timeLeft, screen]);
 
-  const addLetter = (index: number) => {
-    if (gameState !== "playing" || availableLetters[index].used) return;
-    const newAvailable = [...availableLetters];
-    newAvailable[index] = { ...newAvailable[index], used: true };
-    setAvailableLetters(newAvailable);
-    const newGuess = [...guess, availableLetters[index].letter];
+  // ── Add letter ──
+  const addLetter = useCallback((poolIndex: number) => {
+    if (wordState !== "playing" || letterPool[poolIndex].used) return;
+    const newPool = [...letterPool];
+    newPool[poolIndex] = { ...newPool[poolIndex], used: true };
+    setLetterPool(newPool);
+    const newGuess = [...guess, letterPool[poolIndex].letter];
     setGuess(newGuess);
 
     if (newGuess.length === currentWord.length) {
+      if (transitionRef.current) return;
+      transitionRef.current = true;
       const guessWord = newGuess.join("");
-      if (guessWord === currentWord) {
-        setScore((s) => s + 1);
-        setGameState("correct");
-        setTimeout(() => {
-          if (round + 1 >= TOTAL_ROUNDS) endGame(score + 1);
-          else { setRound((r) => r + 1); startNewRound(round + 1, usedWords); }
-        }, 1200);
-      } else {
-        setGameState("wrong");
-        setTimeout(() => {
-          if (round + 1 >= TOTAL_ROUNDS) endGame(score);
-          else { setRound((r) => r + 1); startNewRound(round + 1, usedWords); }
-        }, 1500);
+      const isCorrect = guessWord === currentWord;
+      setWordState(isCorrect ? "correct" : "wrong");
+      const newScore = isCorrect ? score + 1 : score;
+      if (isCorrect) {
+        setScore(newScore);
+        setJumpTrigger({ reaction: "happy", timestamp: Date.now() });
       }
+      const nextIdx = wordIndex + 1;
+      setTimeout(() => {
+        setWordIndex(nextIdx);
+        if (nextIdx >= levelWords.length) {
+          finishLevel(newScore, cfg, exped);
+        } else {
+          loadWord(nextIdx, levelWords, cfg);
+        }
+      }, 1200);
     }
-  };
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [wordState, letterPool, guess, currentWord, score, wordIndex, levelWords, cfg, exped]);
 
-  const removeLast = () => {
-    if (gameState !== "playing" || guess.length === 0) return;
+  // ── Remove last letter ──
+  const removeLast = useCallback(() => {
+    if (wordState !== "playing" || guess.length === 0) return;
     const lastLetter = guess[guess.length - 1];
+    const newPool = [...letterPool];
+    for (let i = newPool.length - 1; i >= 0; i--) {
+      if (newPool[i].used && newPool[i].letter === lastLetter) {
+        newPool[i] = { ...newPool[i], used: false };
+        break;
+      }
+    }
+    setLetterPool(newPool);
     setGuess(guess.slice(0, -1));
-    const newAvailable = [...availableLetters];
-    for (let i = newAvailable.length - 1; i >= 0; i--) {
-      if (newAvailable[i].used && newAvailable[i].letter === lastLetter) {
-        newAvailable[i] = { ...newAvailable[i], used: false };
-        break;
-      }
-    }
-    setAvailableLetters(newAvailable);
-  };
+  }, [wordState, guess, letterPool]);
 
-  const useReveal = () => {
-    if (!hasReveal || gameState !== "playing") return;
-    setHasReveal(false);
-    const nextPos = guess.length;
-    if (nextPos >= currentWord.length) return;
-    const correctLetter = currentWord[nextPos];
-    const newAvailable = [...availableLetters];
-    for (let i = 0; i < newAvailable.length; i++) {
-      if (!newAvailable[i].used && newAvailable[i].letter === correctLetter) {
-        newAvailable[i] = { ...newAvailable[i], used: true };
-        break;
-      }
-    }
-    setAvailableLetters(newAvailable);
-    const newGuess = [...guess, correctLetter];
-    setGuess(newGuess);
+  // ── Finish level ──
+  const finishLevel = useCallback((finalScore: number, levelCfg: WSLevelConfig, currentExped: WSExpeditionSave) => {
+    const passed = finalScore >= levelCfg.minCorrect;
+    const streak = updateStreak();
+    incrementTotalGames();
+    if (finalScore === levelCfg.wordCount) incrementPerfectScores();
 
-    if (newGuess.length === currentWord.length) {
-      const guessWord = newGuess.join("");
-      if (guessWord === currentWord) {
-        setScore((s) => s + 1);
-        setGameState("correct");
+    let rarity: CardRarity;
+    if (levelCfg.level === 10) {
+      rarity = "legendary";
+    } else {
+      const raw = calculateRarity(finalScore, levelCfg.wordCount, streak);
+      rarity = raw === "legendary" ? "gold" : raw;
+    }
+    saveCard({ id: generateCardId(), game: "wordscramble", rarity, score: finalScore, total: levelCfg.wordCount, date: new Date().toISOString() });
+    setEarnedCard(rarity);
+
+    if (!passed) {
+      setScreen("failed");
+      return;
+    }
+
+    const badge = levelCfg.badgeReward;
+    const newExped: WSExpeditionSave = {
+      ...currentExped,
+      currentLevel: Math.max(currentExped.currentLevel, levelCfg.level + 1),
+      completedLevels: [...currentExped.completedLevels.filter(l => l !== levelCfg.level), levelCfg.level],
+      earnedBadges: badge ? [...currentExped.earnedBadges, badge] : currentExped.earnedBadges,
+      levelScores: { ...currentExped.levelScores, [levelCfg.level]: finalScore },
+    };
+    saveExped(newExped);
+    setEarnedBadge(badge);
+
+    if (levelCfg.level === 10) {
+      setJumpTrigger({ reaction: "victory", timestamp: Date.now() });
+      setScreen("reward");
+    } else {
+      setScreen("levelComplete");
+    }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [saveExped]);
+
+  // ── Badge usage ──
+  const useBadge = useCallback((badgeId: WSBadgeId) => {
+    if (badgesUsedThisLevel >= 2 || wordState !== "playing") return;
+    const idx = exped.earnedBadges.indexOf(badgeId);
+    if (idx === -1) return;
+    const newBadges = [...exped.earnedBadges];
+    newBadges.splice(idx, 1);
+    const newExped = { ...exped, earnedBadges: newBadges };
+    saveExped(newExped);
+    setBadgesUsedThisLevel(n => n + 1);
+
+    if (badgeId === "reveal") {
+      const nextPos = guess.length;
+      if (nextPos >= currentWord.length) return;
+      const correctLetter = currentWord[nextPos];
+      const newPool = [...letterPool];
+      for (let i = 0; i < newPool.length; i++) {
+        if (!newPool[i].used && newPool[i].letter === correctLetter) {
+          newPool[i] = { ...newPool[i], used: true };
+          break;
+        }
+      }
+      setLetterPool(newPool);
+      const newGuess = [...guess, correctLetter];
+      setGuess(newGuess);
+
+      if (newGuess.length === currentWord.length) {
+        if (transitionRef.current) return;
+        transitionRef.current = true;
+        const isCorrect = newGuess.join("") === currentWord;
+        setWordState(isCorrect ? "correct" : "wrong");
+        const newScore = isCorrect ? score + 1 : score;
+        if (isCorrect) {
+          setScore(newScore);
+          setJumpTrigger({ reaction: "happy", timestamp: Date.now() });
+        }
+        const nextIdx = wordIndex + 1;
         setTimeout(() => {
-          if (round + 1 >= TOTAL_ROUNDS) endGame(score + 1);
-          else { setRound((r) => r + 1); startNewRound(round + 1, usedWords); }
+          setWordIndex(nextIdx);
+          if (nextIdx >= levelWords.length) {
+            finishLevel(newScore, cfg, newExped);
+          } else {
+            loadWord(nextIdx, levelWords, cfg);
+          }
         }, 1200);
       }
+    } else if (badgeId === "time") {
+      setTimeLeft(t => t + 8);
+    } else if (badgeId === "reshuffle") {
+      const unused = letterPool.filter(l => !l.used);
+      const used = letterPool.filter(l => l.used);
+      setLetterPool([...used, ...shuffleArray(unused)]);
+    } else if (badgeId === "shield") {
+      setShieldActive(true);
     }
-  };
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [badgesUsedThisLevel, wordState, exped, guess, currentWord, letterPool, score, wordIndex, levelWords, cfg, saveExped, finishLevel, loadWord]);
 
-  const useExtraTime = () => {
-    if (!hasExtraTime || gameState !== "playing") return;
-    setHasExtraTime(false);
-    setTimeLeft((time) => time + 10);
-  };
+  const restartExpedition = useCallback(() => {
+    const fresh = freshExpedition();
+    saveExped(fresh);
+    setEarnedCard(null);
+    setEarnedBadge(null);
+    setScreen("expedition");
+  }, [saveExped]);
 
-  const endGame = (finalScore: number) => {
-    const elapsed = Math.round((Date.now() - startTimeRef.current) / 1000);
-    setTotalTime(elapsed);
-    const newStreak = updateStreak();
-    setStreak(newStreak);
-    const rarity = calculateRarity(finalScore, TOTAL_ROUNDS, newStreak);
-    saveCard({
-      id: generateCardId(),
-      game: "wordscramble",
-      rarity,
-      score: finalScore,
-      total: TOTAL_ROUNDS,
-      date: new Date().toISOString(),
-    });
-    incrementTotalGames();
-    updateStats({ highestStreak: newStreak });
-    setGameState("reward");
+  const avatarMood = (() => {
+    if (wordState === "correct") return "happy" as const;
+    if (wordState === "wrong" || wordState === "timeout") return "disappointed" as const;
+    if (timeLeft <= 5) return "confused" as const;
+    return "focused" as const;
+  })();
+
+  const avatarProps = {
+    mood: avatarMood, fixed: false, gender, activeSkin, activeFace,
+    activeTop, activeBottom, activeShoe, activeCape,
+    activeGlasses, activeGloves, activeHat, activeTrail, jumpTrigger,
   };
 
   const timerColor = timeLeft <= 3 ? "text-neon-pink" : timeLeft <= 7 ? "text-gold" : "text-neon-green";
 
-  return (
-    <main className="min-h-screen flex flex-col items-center justify-center px-4 relative">
-      {/* Shop notification */}
-      <AnimatePresence>
-        {shopNotification && (
-          <motion.div
-            className="fixed top-4 left-0 right-0 z-50 flex justify-center pointer-events-none"
-            initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -10 }}
-          >
-            <div className="bg-[#E040FB]/15 border border-[#E040FB]/30 backdrop-blur-xl rounded-xl px-5 py-2.5">
-              <span className="text-[#E040FB] font-bold text-sm">{shopNotification}</span>
-            </div>
-          </motion.div>
-        )}
-      </AnimatePresence>
+  // ═══════════════════════════════════════════════════════════════════
+  // ── EXPEDITION HOME SCREEN ──────────────────────────────────────────
+  // ═══════════════════════════════════════════════════════════════════
+  if (screen === "expedition") {
+    const hasProgress = exped.completedLevels.length > 0;
+    return (
+      <main className="min-h-screen flex flex-col px-4 pt-4 pb-6 max-w-md mx-auto">
+        {/* Header */}
+        <div className="flex items-center gap-3 mb-5">
+          <Link href="/">
+            <motion.div className="p-2 rounded-xl bg-white/5 border border-white/10" whileTap={{ scale: 0.9 }}>
+              <ArrowLeft size={18} className="text-white/40" />
+            </motion.div>
+          </Link>
+          <div>
+            <p className="text-white font-black tracking-[0.15em] text-sm">{t.title}</p>
+            <p className="text-white/35 text-xs">{t.subtitle}</p>
+          </div>
+          {hasProgress && (
+            <motion.button
+              onClick={restartExpedition}
+              className="ml-auto text-white/25 text-xs flex items-center gap-1"
+              whileTap={{ scale: 0.9 }}
+            >
+              <RotateCcw size={12} />
+              {t.reset}
+            </motion.button>
+          )}
+        </div>
 
-      {/* Ready screen */}
-      {gameState === "ready" && (
-        <motion.div className="flex flex-col items-center gap-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-          <Shuffle size={48} className="text-emerald-400" style={{ filter: "drop-shadow(0 0 15px rgba(52,211,153,0.5))" }} />
-          <h1 className="text-2xl font-black tracking-wider text-white">{t.title}</h1>
-          <p className="text-white/40 text-sm text-center">{t.subtitle}</p>
-          <motion.button
-            onClick={startGame}
-            className="bg-emerald-500/20 border border-emerald-500/40 text-emerald-400 font-bold px-8 py-3 rounded-2xl text-sm tracking-wider"
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-          >
-            {t.play}
-          </motion.button>
-        </motion.div>
-      )}
+        {/* Level path */}
+        <div className="flex flex-col gap-2 flex-1">
+          {LEVEL_CONFIGS.map((lc) => {
+            const done = exped.completedLevels.includes(lc.level);
+            const current = lc.level === exped.currentLevel;
+            const locked = lc.level > exped.currentLevel;
+            const levelScore = exped.levelScores[lc.level];
+            return (
+              <motion.div
+                key={lc.level}
+                className={`flex items-center gap-3 px-4 py-3 rounded-2xl border ${
+                  current
+                    ? "border-yellow-400/40 bg-yellow-400/8"
+                    : done
+                    ? "border-emerald-500/25 bg-emerald-500/5"
+                    : "border-white/6 bg-white/2"
+                }`}
+                initial={{ opacity: 0, x: -16 }}
+                animate={{ opacity: locked ? 0.35 : 1, x: 0 }}
+                transition={{ delay: lc.level * 0.04 }}
+              >
+                <div className="w-8 h-8 rounded-full flex items-center justify-center text-base"
+                  style={{ background: done ? "rgba(34,197,94,0.2)" : current ? "rgba(250,204,21,0.2)" : "rgba(255,255,255,0.05)" }}>
+                  {done ? "✅" : current ? lc.emoji : locked ? "🔒" : lc.emoji}
+                </div>
+                <div className="flex-1 min-w-0">
+                  <div className="flex items-center gap-1.5">
+                    <span className="text-white/60 text-xs font-bold">{t.level} {lc.level}</span>
+                    {lc.level === 10 && <span className="text-[9px] font-black text-amber-400 bg-amber-400/15 px-1.5 py-0.5 rounded-full">{t.boss}</span>}
+                    {lc.badgeReward && (
+                      <span className="text-[11px] opacity-70">{BADGE_DEFS[lc.badgeReward].emoji}</span>
+                    )}
+                  </div>
+                  <div className="text-[10px] text-white/30">
+                    {lc.wordCount} {t.levelInfo}: {lc.minCorrect}
+                  </div>
+                </div>
+                <div className="flex flex-col items-end gap-0.5">
+                  {done && levelScore !== undefined && (
+                    <span className="text-emerald-400 text-xs font-bold">{levelScore}/{lc.wordCount}</span>
+                  )}
+                  {lc.fakeLetters > 0 && !locked && (
+                    <span className="text-[9px] text-pink-400/60 font-bold">+{lc.fakeLetters} fake</span>
+                  )}
+                </div>
+              </motion.div>
+            );
+          })}
+        </div>
 
-      {/* HUD */}
-      {(gameState === "playing" || gameState === "correct" || gameState === "wrong") && (
-        <div className="fixed top-0 left-0 right-0 z-40 p-4">
-          <div className="flex items-center justify-between max-w-md mx-auto">
-            <Link href="/">
-              <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2 cursor-pointer hover:bg-black/60 transition-colors">
-                <X size={16} className="text-white/60" />
-              </div>
-            </Link>
-            <div className="flex gap-1.5">
-              {Array.from({ length: TOTAL_ROUNDS }, (_, i) => (
-                <div key={i} className={`w-2 h-2 rounded-full ${i < round ? "bg-neon-green" : i === round ? "bg-neon-blue" : "bg-white/15"}`} />
+        {/* Badge inventory */}
+        {exped.earnedBadges.length > 0 && (
+          <div className="mt-4 p-3 rounded-2xl border border-white/8 bg-white/3">
+            <p className="text-white/30 text-[10px] font-bold tracking-wider mb-2 uppercase">Power Badges</p>
+            <div className="flex gap-2 flex-wrap">
+              {exped.earnedBadges.map((bid, i) => (
+                <div key={i} className="flex items-center gap-1 px-2 py-1 rounded-xl bg-purple-500/10 border border-purple-400/20">
+                  <span className="text-base">{BADGE_DEFS[bid].emoji}</span>
+                  <span className="text-purple-300 text-[10px] font-bold">{BADGE_DEFS[bid].name[lang as Language]}</span>
+                </div>
               ))}
             </div>
-            <div className="flex items-center gap-1.5 text-gold font-bold text-lg">
-              <Trophy size={16} className="text-gold" />
-              {score}
+          </div>
+        )}
+
+        {/* Start/Continue button */}
+        <motion.button
+          onClick={() => startLevel(exped.currentLevel, exped)}
+          className="mt-4 w-full py-4 rounded-2xl font-black text-black text-base tracking-wider"
+          style={{ background: "linear-gradient(135deg, #00FF88, #00D4FF)" }}
+          whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.97 }}
+          disabled={exped.currentLevel > 10}
+        >
+          {hasProgress ? `▶ ${t.continueBtn} — ${t.level} ${exped.currentLevel}` : `🚀 ${t.start}`}
+        </motion.button>
+      </main>
+    );
+  }
+
+  // ═══════════════════════════════════════════════════════════════════
+  // ── PLAYING SCREEN ──────────────────────────────────────────────────
+  // ═══════════════════════════════════════════════════════════════════
+  if (screen === "playing") {
+    const limitReached = badgesUsedThisLevel >= 2;
+    return (
+      <main className="min-h-screen flex flex-col items-center px-4 pb-6 relative">
+        {/* HUD */}
+        <div className="w-full max-w-md pt-4 pb-2">
+          <div className="flex items-center justify-between mb-2">
+            <Link href="/">
+              <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2">
+                <ArrowLeft size={16} className="text-white/40" />
+              </div>
+            </Link>
+            {/* Progress dots */}
+            <div className="flex gap-1.5">
+              {levelWords.map((_, i) => (
+                <div key={i} className={`w-2 h-2 rounded-full ${
+                  i < wordIndex
+                    ? "bg-neon-green"
+                    : i === wordIndex
+                    ? "bg-neon-blue"
+                    : "bg-white/15"
+                }`} />
+              ))}
+            </div>
+            {/* Score */}
+            <div className="flex items-center gap-1.5 text-gold font-bold">
+              <Trophy size={14} className="text-gold" />
+              <span>{score}</span>
+              <span className="text-white/25 text-xs">/ {cfg.minCorrect} min</span>
             </div>
           </div>
-        </div>
-      )}
 
-      {/* Game area */}
-      {(gameState === "playing" || gameState === "correct" || gameState === "wrong") && (
-        <div className="flex flex-col items-center gap-8 w-full max-w-md">
+          {/* Level info */}
+          <div className="flex items-center justify-center gap-2 mb-1">
+            <span className="text-white/30 text-xs">{t.level} {cfg.level}</span>
+            {cfg.fakeLetters > 0 && (
+              <span className="text-pink-400/70 text-[10px] font-bold bg-pink-500/10 px-2 py-0.5 rounded-full">{t.fakeLetter}</span>
+            )}
+          </div>
+        </div>
+
+        {/* Avatar + Timer row */}
+        <div className="flex items-center justify-between w-full max-w-md mb-4">
+          <div className="w-20 h-20">
+            <AvatarCompanion {...avatarProps} />
+          </div>
+
           {/* Timer */}
-          <motion.div className={`text-4xl font-black ${timerColor}`} key={timeLeft} animate={{ scale: timeLeft <= 5 ? [1, 1.1, 1] : 1 }}>
+          <motion.div
+            className={`text-5xl font-black ${timerColor}`}
+            key={timeLeft}
+            animate={{ scale: timeLeft <= 5 ? [1, 1.15, 1] : 1 }}
+            transition={{ duration: 0.3 }}
+          >
             <div className="flex items-center gap-2">
-              <Timer size={24} />
+              <Timer size={28} />
               {timeLeft}
             </div>
           </motion.div>
 
-          {/* Guess slots */}
-          <div className="flex gap-2 justify-center flex-wrap">
-            {currentWord.split("").map((_, i) => (
+          {/* Badge tray */}
+          <div className="flex flex-col gap-1.5 items-end w-20">
+            {shieldActive && (
               <motion.div
-                key={i}
-                className={`w-11 h-12 rounded-xl border-2 flex items-center justify-center text-xl font-black ${
-                  gameState === "correct"
-                    ? "border-neon-green bg-neon-green/10 text-neon-green"
-                    : gameState === "wrong"
-                    ? "border-neon-pink bg-neon-pink/10 text-neon-pink"
-                    : guess[i]
-                    ? "border-white/30 bg-white/5 text-white"
-                    : "border-white/10 bg-white/[0.02]"
-                }`}
-                initial={guess[i] ? { scale: 0.8 } : {}}
-                animate={guess[i] ? { scale: 1 } : {}}
+                className="text-xs text-blue-300 bg-blue-400/10 border border-blue-400/30 px-2 py-1 rounded-xl"
+                initial={{ scale: 0 }} animate={{ scale: 1 }}
               >
-                {guess[i] || ""}
-              </motion.div>
-            ))}
-          </div>
-
-          {/* Wrong answer reveal */}
-          <AnimatePresence>
-            {gameState === "wrong" && (
-              <motion.div
-                className="text-white/50 text-sm font-bold tracking-wider"
-                initial={{ opacity: 0, y: 10 }}
-                animate={{ opacity: 1, y: 0 }}
-                exit={{ opacity: 0 }}
-              >
-                {currentWord}
+                🛡️
               </motion.div>
             )}
-          </AnimatePresence>
-
-          {/* Available letters */}
-          <div className="flex gap-2 justify-center flex-wrap">
-            {availableLetters.map((item, i) => (
+            {exped.earnedBadges.slice(0, 3).map((bid, i) => (
               <motion.button
-                key={i}
-                onClick={() => addLetter(i)}
-                className={`w-12 h-12 rounded-xl border-2 flex items-center justify-center text-lg font-black transition-all ${
-                  item.used
-                    ? "border-white/5 bg-transparent text-transparent"
-                    : "border-emerald-500/30 bg-emerald-500/10 text-emerald-400 hover:bg-emerald-500/20"
+                key={`${bid}-${i}`}
+                onClick={() => useBadge(bid)}
+                disabled={limitReached || wordState !== "playing"}
+                className={`flex items-center gap-1 px-2 py-1 rounded-xl border text-[10px] font-bold transition-all ${
+                  limitReached || wordState !== "playing"
+                    ? "border-white/5 bg-white/3 opacity-30 text-white/30"
+                    : "border-purple-400/40 bg-purple-500/10 text-purple-300 hover:bg-purple-500/20 active:scale-95"
                 }`}
-                whileHover={!item.used ? { scale: 1.1 } : {}}
-                whileTap={!item.used ? { scale: 0.9 } : {}}
-                disabled={item.used || gameState !== "playing"}
+                whileTap={!limitReached ? { scale: 0.88 } : undefined}
+                title={BADGE_DEFS[bid].desc[lang as Language]}
               >
-                {item.letter}
+                <span>{BADGE_DEFS[bid].emoji}</span>
               </motion.button>
             ))}
           </div>
+        </div>
 
-          {/* Controls: Delete + Shop power-ups */}
-          {gameState === "playing" && (
-            <div className="flex items-center gap-3">
-              {guess.length > 0 && (
-                <motion.button
-                  onClick={removeLast}
-                  className="flex items-center gap-2 text-white/40 text-sm font-bold hover:text-white/60 transition-colors"
-                  whileTap={{ scale: 0.95 }}
-                >
-                  <Delete size={16} />
-                  {t.delete}
-                </motion.button>
-              )}
-              {hasReveal && (
-                <motion.button
-                  onClick={useReveal}
-                  className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl border text-xs font-bold bg-emerald-500/10 border-emerald-500/30 text-emerald-400"
-                  whileHover={{ scale: 1.05 }}
-                  whileTap={{ scale: 0.95 }}
-                  initial={{ opacity: 0, scale: 0.8 }}
-                  animate={{ opacity: 1, scale: 1 }}
-                >
-                  <Eye size={14} />
-                  {t.reveal}
-                  <span className="text-[8px] bg-[#E040FB]/20 text-[#E040FB] px-1 rounded">SHOP</span>
-                </motion.button>
-              )}
-              {hasExtraTime && (
-                <motion.button
-                  onClick={useExtraTime}
-                  className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl border text-xs font-bold bg-cyan-500/10 border-cyan-500/30 text-cyan-400"
-                  whileHover={{ scale: 1.05 }}
-                  whileTap={{ scale: 0.95 }}
-                  initial={{ opacity: 0, scale: 0.8 }}
-                  animate={{ opacity: 1, scale: 1 }}
-                >
-                  <Clock size={14} />
-                  +10s
-                  <span className="text-[8px] bg-[#E040FB]/20 text-[#E040FB] px-1 rounded">SHOP</span>
-                </motion.button>
-              )}
-            </div>
+        {/* Guess slots */}
+        <div className="flex gap-2 justify-center flex-wrap mb-6 w-full max-w-sm">
+          {currentWord.split("").map((_, i) => (
+            <motion.div
+              key={i}
+              className={`w-11 h-12 rounded-xl border-2 flex items-center justify-center text-xl font-black ${
+                wordState === "correct"
+                  ? "border-neon-green bg-neon-green/10 text-neon-green"
+                  : wordState === "wrong"
+                  ? "border-neon-pink bg-neon-pink/10 text-neon-pink"
+                  : wordState === "timeout"
+                  ? "border-white/20 bg-white/5 text-white/30"
+                  : guess[i]
+                  ? "border-white/40 bg-white/8 text-white"
+                  : "border-white/10 bg-white/[0.02]"
+              }`}
+              initial={guess[i] ? { scale: 0.7 } : {}}
+              animate={guess[i] ? { scale: 1 } : {}}
+            >
+              {guess[i] || ""}
+            </motion.div>
+          ))}
+        </div>
+
+        {/* Wrong / Timeout reveal */}
+        <AnimatePresence>
+          {(wordState === "wrong" || wordState === "timeout") && (
+            <motion.div
+              className="text-white/50 text-sm font-bold tracking-wider mb-4"
+              initial={{ opacity: 0, y: 8 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0 }}
+            >
+              → {currentWord}
+            </motion.div>
+          )}
+        </AnimatePresence>
+
+        {/* Letter pool */}
+        <div className="flex gap-2 justify-center flex-wrap max-w-sm mb-4">
+          {letterPool.map((item, i) => (
+            <motion.button
+              key={i}
+              onClick={() => addLetter(i)}
+              className={`w-12 h-12 rounded-xl border-2 flex items-center justify-center text-lg font-black transition-all ${
+                item.used
+                  ? "border-white/5 bg-transparent text-transparent"
+                  : item.isFake
+                  ? "border-pink-500/25 bg-pink-500/8 text-pink-300 hover:bg-pink-500/15"
+                  : "border-emerald-500/30 bg-emerald-500/10 text-emerald-400 hover:bg-emerald-500/20"
+              }`}
+              whileHover={!item.used ? { scale: 1.1 } : {}}
+              whileTap={!item.used ? { scale: 0.9 } : {}}
+              disabled={item.used || wordState !== "playing"}
+            >
+              {item.letter}
+            </motion.button>
+          ))}
+        </div>
+
+        {/* Controls */}
+        {wordState === "playing" && guess.length > 0 && (
+          <motion.button
+            onClick={removeLast}
+            className="flex items-center gap-2 text-white/35 text-sm font-bold hover:text-white/55 transition-colors"
+            whileTap={{ scale: 0.95 }}
+          >
+            <Delete size={16} />
+            {t.delete}
+          </motion.button>
+        )}
+
+        {/* Feedback icons */}
+        <AnimatePresence>
+          {wordState === "correct" && (
+            <motion.div className="mt-3" initial={{ opacity: 0, scale: 0.5 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0 }}>
+              <CheckCircle size={44} className="text-neon-green" style={{ filter: "drop-shadow(0 0 12px rgba(0,255,136,0.6))" }} />
+            </motion.div>
+          )}
+          {(wordState === "wrong" || wordState === "timeout") && (
+            <motion.div className="mt-3" initial={{ opacity: 0, scale: 0.5 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0 }}>
+              <XCircle size={44} className="text-neon-pink" style={{ filter: "drop-shadow(0 0 12px rgba(255,45,120,0.6))" }} />
+            </motion.div>
+          )}
+        </AnimatePresence>
+      </main>
+    );
+  }
+
+  // ═══════════════════════════════════════════════════════════════════
+  // ── LEVEL COMPLETE SCREEN ───────────────────────────────────────────
+  // ═══════════════════════════════════════════════════════════════════
+  if (screen === "levelComplete") {
+    return (
+      <main className="min-h-screen flex flex-col items-center justify-center px-6 max-w-md mx-auto">
+        <motion.div
+          className="flex flex-col items-center gap-5 w-full"
+          initial={{ opacity: 0, scale: 0.85 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ type: "spring", stiffness: 250, damping: 20 }}
+        >
+          <motion.div className="text-6xl" initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: 0.1, type: "spring" }}>
+            🏆
+          </motion.div>
+          <p className="text-2xl font-black text-emerald-400">{t.levelComplete}</p>
+          <p className="text-white/50 text-sm">{t.level} {cfg.level} — {score}/{cfg.wordCount} {t.score}</p>
+
+          {/* Earned card */}
+          {earnedCard && (
+            <motion.div
+              className="px-5 py-2.5 rounded-2xl border text-center"
+              style={{ background: `${RARITY_COLORS[earnedCard]}15`, borderColor: `${RARITY_COLORS[earnedCard]}35` }}
+              initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: 0.2 }}
+            >
+              <p className="text-sm font-black tracking-widest" style={{ color: RARITY_COLORS[earnedCard] }}>
+                {RARITY_LABELS[lang as Language]?.[earnedCard] ?? earnedCard}
+              </p>
+            </motion.div>
           )}
 
-          {/* Feedback icons */}
-          <AnimatePresence>
-            {gameState === "correct" && (
-              <motion.div initial={{ opacity: 0, scale: 0.5 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0 }}>
-                <CheckCircle size={48} className="text-neon-green" style={{ filter: "drop-shadow(0 0 15px rgba(0,255,136,0.6))" }} />
-              </motion.div>
-            )}
-            {gameState === "wrong" && (
-              <motion.div initial={{ opacity: 0, scale: 0.5 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0 }}>
-                <XCircle size={48} className="text-neon-pink" style={{ filter: "drop-shadow(0 0 15px rgba(255,45,120,0.6))" }} />
-              </motion.div>
-            )}
-          </AnimatePresence>
-        </div>
-      )}
+          {/* New badge */}
+          {earnedBadge && (
+            <motion.div
+              className="flex items-center gap-2 px-4 py-2.5 rounded-2xl border border-purple-400/30 bg-purple-500/10"
+              initial={{ scale: 0, y: 20 }} animate={{ scale: 1, y: 0 }} transition={{ delay: 0.3, type: "spring" }}
+            >
+              <span className="text-2xl">{BADGE_DEFS[earnedBadge].emoji}</span>
+              <div>
+                <p className="text-purple-300 text-xs font-black">{t.newBadge}</p>
+                <p className="text-white/60 text-xs">{BADGE_DEFS[earnedBadge].name[lang as Language]}</p>
+              </div>
+            </motion.div>
+          )}
 
-      {gameState === "reward" && (
-        <RewardReveal
-          rarity={calculateRarity(score, TOTAL_ROUNDS, streak)}
-          game="wordscramble"
-          score={score}
-          total={TOTAL_ROUNDS}
-          onDone={() => setGameState("result")}
-        />
-      )}
-
-      {gameState === "result" && (
-        <>
-          <ResultCard
-            score={score}
-            total={TOTAL_ROUNDS}
-            time={totalTime}
-            gameName={t.gameName}
-            gameIcon={<Shuffle size={24} className="text-emerald-400" />}
-            onPlayAgain={() => { setRound(0); setScore(0); setGameState("ready"); }}
-          />
+          <motion.button
+            onClick={() => { setEarnedCard(null); setEarnedBadge(null); setScreen("expedition"); }}
+            className="w-full py-4 rounded-2xl font-black text-black text-base"
+            style={{ background: "linear-gradient(135deg, #00FF88, #00D4FF)" }}
+            whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.97 }}
+            initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.4 }}
+          >
+            {t.nextLevel} →
+          </motion.button>
           <MilestonePopup />
-        </>
-      )}
-    </main>
-  );
+        </motion.div>
+      </main>
+    );
+  }
+
+  // ═══════════════════════════════════════════════════════════════════
+  // ── FAILED SCREEN ───────────────────────────────────────────────────
+  // ═══════════════════════════════════════════════════════════════════
+  if (screen === "failed") {
+    return (
+      <main className="min-h-screen flex flex-col items-center justify-center px-6 max-w-md mx-auto">
+        <motion.div
+          className="flex flex-col items-center gap-5 w-full"
+          initial={{ opacity: 0, scale: 0.85 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ type: "spring", stiffness: 250, damping: 20 }}
+        >
+          <motion.div className="text-6xl" initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: 0.1, type: "spring" }}>
+            💀
+          </motion.div>
+          <p className="text-2xl font-black text-neon-pink">{t.expeditionFailed}</p>
+          <p className="text-white/50 text-sm text-center">{t.failedDesc}</p>
+          <p className="text-white/35 text-xs">{score}/{cfg.wordCount} — min {cfg.minCorrect}</p>
+
+          {earnedCard && (
+            <motion.div
+              className="px-5 py-2.5 rounded-2xl border text-center"
+              style={{ background: `${RARITY_COLORS[earnedCard]}15`, borderColor: `${RARITY_COLORS[earnedCard]}35` }}
+              initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: 0.2 }}
+            >
+              <p className="text-sm font-black tracking-widest" style={{ color: RARITY_COLORS[earnedCard] }}>
+                {RARITY_LABELS[lang as Language]?.[earnedCard] ?? earnedCard}
+              </p>
+            </motion.div>
+          )}
+
+          <div className="flex gap-3 w-full">
+            <motion.button
+              onClick={restartExpedition}
+              className="flex-1 py-3.5 rounded-2xl font-black text-sm border border-neon-pink/30 text-neon-pink bg-neon-pink/10"
+              whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.97 }}
+              initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.3 }}
+            >
+              🔄 {t.restartExpedition}
+            </motion.button>
+            <Link href="/" className="flex-1">
+              <motion.div
+                className="w-full py-3.5 rounded-2xl font-black text-sm border border-white/10 text-white/40 bg-white/5 text-center"
+                whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.97 }}
+                initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.35 }}
+              >
+                {t.mainMenu}
+              </motion.div>
+            </Link>
+          </div>
+          <MilestonePopup />
+        </motion.div>
+      </main>
+    );
+  }
+
+  // ═══════════════════════════════════════════════════════════════════
+  // ── REWARD (Level 10 complete) ──────────────────────────────────────
+  // ═══════════════════════════════════════════════════════════════════
+  if (screen === "reward") {
+    return (
+      <RewardReveal
+        rarity="legendary"
+        game="wordscramble"
+        score={score}
+        total={cfg.wordCount}
+        onDone={() => setScreen("complete")}
+      />
+    );
+  }
+
+  // ═══════════════════════════════════════════════════════════════════
+  // ── COMPLETE SCREEN ─────────────────────────────────────────────────
+  // ═══════════════════════════════════════════════════════════════════
+  if (screen === "complete") {
+    return (
+      <main className="min-h-screen flex flex-col items-center justify-center px-6 max-w-md mx-auto">
+        <motion.div
+          className="flex flex-col items-center gap-5 w-full"
+          initial={{ opacity: 0, scale: 0.85 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ type: "spring", stiffness: 250, damping: 20 }}
+        >
+          <motion.div className="text-7xl" initial={{ scale: 0, rotate: -20 }} animate={{ scale: 1, rotate: 0 }} transition={{ delay: 0.1, type: "spring", stiffness: 200 }}>
+            🏆
+          </motion.div>
+          <p className="text-3xl font-black text-gold text-glow-gold text-center">{t.expeditionComplete}</p>
+          <p className="text-white/50 text-sm text-center">{t.legendaryCard}</p>
+
+          <div className="w-28 h-28">
+            <AvatarCompanion {...avatarProps} mood="victory" />
+          </div>
+
+          <div className="flex gap-3 w-full">
+            <motion.button
+              onClick={restartExpedition}
+              className="flex-1 py-3.5 rounded-2xl font-black text-sm border border-emerald-500/30 text-emerald-400 bg-emerald-500/10"
+              whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.97 }}
+              initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.3 }}
+            >
+              🔄 {t.restartExpedition}
+            </motion.button>
+            <Link href="/" className="flex-1">
+              <motion.div
+                className="w-full py-3.5 rounded-2xl font-black text-sm border border-white/10 text-white/40 bg-white/5 text-center"
+                whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.97 }}
+                initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.35 }}
+              >
+                {t.mainMenu}
+              </motion.div>
+            </Link>
+          </div>
+          <MilestonePopup />
+        </motion.div>
+      </main>
+    );
+  }
+
+  return null;
 }
