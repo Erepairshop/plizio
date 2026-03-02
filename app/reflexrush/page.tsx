@@ -2,12 +2,11 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Zap, Trophy, Home, Star, RotateCcw, Lock, Check, ChevronRight } from "lucide-react";
+import { Zap, Home, RotateCcw, Lock, Check, ChevronRight } from "lucide-react";
 import Link from "next/link";
-import RewardReveal from "@/components/RewardReveal";
+import MilestonePopup from "@/components/MilestonePopup";
 import { saveCard, generateCardId, type CardRarity } from "@/lib/cards";
 import { incrementTotalGames } from "@/lib/milestones";
-import MilestonePopup from "@/components/MilestonePopup";
 import AvatarCompanion from "@/components/AvatarCompanion";
 import { getGender } from "@/lib/gender";
 import type { AvatarGender } from "@/lib/gender";
@@ -15,10 +14,148 @@ import { getActiveSkin, getSkinDef } from "@/lib/skins";
 import { getActiveFace, getFaceDef } from "@/lib/faces";
 import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
 import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
+import { useLang } from "@/components/LanguageProvider";
+
+// ─── i18n ────────────────────────────────────────────────────────────────────
+
+const TRANSLATIONS = {
+  en: {
+    title: "REFLEX RUSH",
+    subtitle: "10 levels · Tap fast · Avoid danger",
+    home: "Home",
+    progress: "Progress",
+    levelsOf: "levels",
+    cellTypes: "CELL TYPES",
+    cells: { green: "+1 point", gold: "+5 points", lightning: "x2 boost (5s)", red: "-3 pts (avoid!)", bomb: "-5 pts (avoid!)" },
+    levelLabel: "Level",
+    boss: "🏆 BOSS — ",
+    done: "✓ done",
+    score: "SCORE",
+    time: "TIME",
+    combo: "COMBO",
+    boostActive: "x2 BOOST ACTIVE!",
+    hint: "Tap green/gold · Avoid red & bombs",
+    levelDone: "✅ LEVEL DONE!",
+    bossDone: "🏆 COMPLETE!",
+    finalScore: "FINAL SCORE",
+    pts: "pts",
+    goal: "goal",
+    legendaryDesc: "You earned the legendary Reflex Rush card!",
+    newExpedition: "🔄 New Expedition",
+    nextLevel: "Next Level",
+    expeditionMap: "Expedition Map",
+    timeUp: "❌ TIME'S UP!",
+    scoredPoints: "Your score",
+    goalWas: "Goal was",
+    almostThere: "— So close!",
+    retry: "Retry",
+    rarity: { bronze: "BRONZE", silver: "SILVER", gold: "GOLD", legendary: "LEGENDARY" },
+    card: "CARD",
+  },
+  hu: {
+    title: "REFLEX ROHAM",
+    subtitle: "10 szint · Nyomj gyorsan · Kerüld a veszélyeket",
+    home: "Főoldal",
+    progress: "Haladás",
+    levelsOf: "szint",
+    cellTypes: "SEJTTÍPUSOK",
+    cells: { green: "+1 pont", gold: "+5 pont", lightning: "x2 boost (5s)", red: "-3 pont (kerüld!)", bomb: "-5 pont (kerüld!)" },
+    levelLabel: "Szint",
+    boss: "🏆 BOSS — ",
+    done: "✓ kész",
+    score: "PONT",
+    time: "IDŐ",
+    combo: "COMBO",
+    boostActive: "x2 BOOST AKTÍV!",
+    hint: "Érintsd a zöld/arany sejteket · Kerüld a pirosat és a bombát",
+    levelDone: "✅ SZINT KÉSZ!",
+    bossDone: "🏆 KÉSZ!",
+    finalScore: "VÉGEREDMÉNY",
+    pts: "pont",
+    goal: "cél",
+    legendaryDesc: "Megszerezted a legendás Reflex Roham kártyát!",
+    newExpedition: "🔄 Új expedíció",
+    nextLevel: "Következő szint",
+    expeditionMap: "Expedíció térkép",
+    timeUp: "❌ IDŐKÉSZ!",
+    scoredPoints: "Elért pontszám",
+    goalWas: "Cél volt",
+    almostThere: "— Majdnem!",
+    retry: "Újra",
+    rarity: { bronze: "BRONZ", silver: "EZÜST", gold: "ARANY", legendary: "LEGENDÁS" },
+    card: "KÁRTYA",
+  },
+  de: {
+    title: "REFLEX RUSH",
+    subtitle: "10 Level · Schnell tippen · Gefahr vermeiden",
+    home: "Startseite",
+    progress: "Fortschritt",
+    levelsOf: "Level",
+    cellTypes: "ZELLTYPEN",
+    cells: { green: "+1 Pkt", gold: "+5 Pkt", lightning: "x2 Boost (5s)", red: "-3 Pkt (meiden!)", bomb: "-5 Pkt (meiden!)" },
+    levelLabel: "Level",
+    boss: "🏆 BOSS — ",
+    done: "✓ fertig",
+    score: "PUNKTE",
+    time: "ZEIT",
+    combo: "KOMBO",
+    boostActive: "x2 BOOST AKTIV!",
+    hint: "Grün/Gold tippen · Rot & Bomben vermeiden",
+    levelDone: "✅ LEVEL GESCHAFFT!",
+    bossDone: "🏆 FERTIG!",
+    finalScore: "ERGEBNIS",
+    pts: "Pkt",
+    goal: "Ziel",
+    legendaryDesc: "Du hast die legendäre Reflex Rush Karte erhalten!",
+    newExpedition: "🔄 Neue Expedition",
+    nextLevel: "Nächstes Level",
+    expeditionMap: "Expedition",
+    timeUp: "❌ ZEIT UM!",
+    scoredPoints: "Dein Ergebnis",
+    goalWas: "Ziel war",
+    almostThere: "— Fast!",
+    retry: "Nochmal",
+    rarity: { bronze: "BRONZE", silver: "SILBER", gold: "GOLD", legendary: "LEGENDÄR" },
+    card: "KARTE",
+  },
+  ro: {
+    title: "REFLEX RUSH",
+    subtitle: "10 niveluri · Apasă rapid · Evită pericolele",
+    home: "Acasă",
+    progress: "Progres",
+    levelsOf: "niveluri",
+    cellTypes: "TIPURI DE CELULE",
+    cells: { green: "+1 pct", gold: "+5 pct", lightning: "x2 boost (5s)", red: "-3 pct (evită!)", bomb: "-5 pct (evită!)" },
+    levelLabel: "Nivel",
+    boss: "🏆 BOSS — ",
+    done: "✓ gata",
+    score: "PUNCTE",
+    time: "TIMP",
+    combo: "COMBO",
+    boostActive: "x2 BOOST ACTIV!",
+    hint: "Apasă verde/auriu · Evită roșu și bombe",
+    levelDone: "✅ NIVEL TERMINAT!",
+    bossDone: "🏆 TERMINAT!",
+    finalScore: "REZULTAT FINAL",
+    pts: "pct",
+    goal: "țintă",
+    legendaryDesc: "Ai câștigat cardul legendar Reflex Rush!",
+    newExpedition: "🔄 Expedíție nouă",
+    nextLevel: "Nivelul următor",
+    expeditionMap: "Hartă expedíție",
+    timeUp: "❌ TIMP EXPIRAT!",
+    scoredPoints: "Punctaj obținut",
+    goalWas: "Obiectiv",
+    almostThere: "— Aproape!",
+    retry: "Din nou",
+    rarity: { bronze: "BRONZ", silver: "ARGINT", gold: "AUR", legendary: "LEGENDAR" },
+    card: "CARD",
+  },
+};
 
 // ─── Types ──────────────────────────────────────────────────────────────────
 
-type Screen = "expedition" | "countdown" | "playing" | "levelComplete" | "levelFailed";
+type Screen = "expedition" | "playing" | "levelComplete" | "levelFailed";
 type CellType = "idle" | "green" | "gold" | "red" | "lightning" | "bomb";
 type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory" | "surprised" | "confused" | "laughing";
 
@@ -71,16 +208,10 @@ const SAVE_KEY = "reflexrush_expedition_v1";
 
 function loadSave(): RRSave {
   if (typeof window === "undefined") return { currentLevel: 1, completedLevels: [] };
-  try {
-    const raw = localStorage.getItem(SAVE_KEY);
-    if (raw) return JSON.parse(raw);
-  } catch { /* ignore */ }
+  try { const raw = localStorage.getItem(SAVE_KEY); if (raw) return JSON.parse(raw); } catch { /* ignore */ }
   return { currentLevel: 1, completedLevels: [] };
 }
-
-function writeSave(s: RRSave) {
-  localStorage.setItem(SAVE_KEY, JSON.stringify(s));
-}
+function writeSave(s: RRSave) { localStorage.setItem(SAVE_KEY, JSON.stringify(s)); }
 
 // ─── Cell type selection ──────────────────────────────────────────────────────
 
@@ -92,65 +223,52 @@ function pickCellType(cfg: LevelConfig): CellType {
   if (cfg.hasBomb)      options.push({ type: "bomb",      weight: 7  });
   const total = options.reduce((s, o) => s + o.weight, 0);
   let r = Math.random() * total;
-  for (const o of options) {
-    r -= o.weight;
-    if (r <= 0) return o.type;
-  }
+  for (const o of options) { r -= o.weight; if (r <= 0) return o.type; }
   return "green";
 }
 
 // ─── Visuals ──────────────────────────────────────────────────────────────────
 
 const CELL_CONFIG: Record<CellType, { bg: string; border: string; icon: string; shadow: string }> = {
-  idle:      { bg: "#0f0f2a", border: "#2a2a4a", icon: "",   shadow: "none"                     },
-  green:     { bg: "#00220f", border: "#00FF88", icon: "✓",  shadow: "0 0 14px #00FF8899"       },
-  gold:      { bg: "#2a1a00", border: "#FFD700", icon: "⭐", shadow: "0 0 14px #FFD70099"       },
-  red:       { bg: "#220010", border: "#FF2D78", icon: "✕",  shadow: "0 0 14px #FF2D7899"       },
-  lightning: { bg: "#00162a", border: "#00D4FF", icon: "⚡", shadow: "0 0 14px #00D4FF99"       },
-  bomb:      { bg: "#150028", border: "#B44DFF", icon: "💣", shadow: "0 0 14px #B44DFF99"       },
+  idle:      { bg: "#0f0f2a", border: "#2a2a4a", icon: "",   shadow: "none"               },
+  green:     { bg: "#00220f", border: "#00FF88", icon: "✓",  shadow: "0 0 14px #00FF8899" },
+  gold:      { bg: "#2a1a00", border: "#FFD700", icon: "⭐", shadow: "0 0 14px #FFD70099" },
+  red:       { bg: "#220010", border: "#FF2D78", icon: "✕",  shadow: "0 0 14px #FF2D7899" },
+  lightning: { bg: "#00162a", border: "#00D4FF", icon: "⚡", shadow: "0 0 14px #00D4FF99" },
+  bomb:      { bg: "#150028", border: "#B44DFF", icon: "💣", shadow: "0 0 14px #B44DFF99" },
 };
 
 const RARITY_COLORS: Record<CardRarity, string> = {
-  bronze:    "#CD7F32",
-  silver:    "#C0C0C0",
-  gold:      "#FFD700",
-  legendary: "#B44DFF",
+  bronze: "#CD7F32", silver: "#C0C0C0", gold: "#FFD700", legendary: "#B44DFF",
 };
 
-const RARITY_LABELS: Record<CardRarity, string> = {
-  bronze:    "BRONZ",
-  silver:    "EZÜST",
-  gold:      "ARANY",
-  legendary: "LEGENDÁS",
-};
-
-// ─── Card rarity for levels 1-9 (based on time remaining) ────────────────────
-
-function calcRarity(score: number, target: number, timeLeft: number, duration: number): CardRarity {
-  const timeRatio = timeLeft / duration;
-  if (timeRatio > 0.55) return "gold";
-  if (timeRatio > 0.25) return "silver";
+function calcRarity(timeLeft: number, duration: number): CardRarity {
+  const r = timeLeft / duration;
+  if (r > 0.55) return "gold";
+  if (r > 0.25) return "silver";
   return "bronze";
 }
 
 // ─── Main Component ───────────────────────────────────────────────────────────
 
 export default function ReflexRushPage() {
+  const { lang } = useLang();
+  const t = TRANSLATIONS[lang as keyof typeof TRANSLATIONS] ?? TRANSLATIONS.en;
 
-  // ── Avatar state ────────────────────────────────────────────────────────────
-  const [avatarGender, setAvatarGender]   = useState<AvatarGender>("girl");
-  const [avatarSkin,   setAvatarSkin]     = useState<ReturnType<typeof getSkinDef> | null>(null);
-  const [avatarFace,   setAvatarFace]     = useState<ReturnType<typeof getFaceDef> | null>(null);
-  const [avatarTop,    setAvatarTop]      = useState<ReturnType<typeof getTopDef>    | null>(null);
-  const [avatarBottom, setAvatarBottom]   = useState<ReturnType<typeof getBottomDef> | null>(null);
-  const [avatarShoe,   setAvatarShoe]     = useState<ReturnType<typeof getShoeDef>   | null>(null);
-  const [avatarCape,   setAvatarCape]     = useState<ReturnType<typeof getCapeDef>   | null>(null);
-  const [avatarGlasses,setAvatarGlasses]  = useState<ReturnType<typeof getGlassesDef>| null>(null);
-  const [avatarGloves, setAvatarGloves]   = useState<ReturnType<typeof getGloveDef>  | null>(null);
-  const [avatarHat,    setAvatarHat]      = useState<ReturnType<typeof getHatDef>    | null>(null);
-  const [avatarTrail,  setAvatarTrail]    = useState<ReturnType<typeof getTrailDef>  | null>(null);
-  const [avatarMood,   setAvatarMood]     = useState<AvatarMood>("idle");
-  const [avatarJump,   setAvatarJump]     = useState<{ reaction: "happy" | "surprised" | "victory" | "confused" | "laughing" | null; timestamp: number } | undefined>(undefined);
+  // ── Avatar ──────────────────────────────────────────────────────────────────
+  const [avatarGender,  setAvatarGender]  = useState<AvatarGender>("girl");
+  const [avatarSkin,    setAvatarSkin]    = useState<ReturnType<typeof getSkinDef>    | null>(null);
+  const [avatarFace,    setAvatarFace]    = useState<ReturnType<typeof getFaceDef>    | null>(null);
+  const [avatarTop,     setAvatarTop]     = useState<ReturnType<typeof getTopDef>     | null>(null);
+  const [avatarBottom,  setAvatarBottom]  = useState<ReturnType<typeof getBottomDef>  | null>(null);
+  const [avatarShoe,    setAvatarShoe]    = useState<ReturnType<typeof getShoeDef>    | null>(null);
+  const [avatarCape,    setAvatarCape]    = useState<ReturnType<typeof getCapeDef>    | null>(null);
+  const [avatarGlasses, setAvatarGlasses] = useState<ReturnType<typeof getGlassesDef> | null>(null);
+  const [avatarGloves,  setAvatarGloves]  = useState<ReturnType<typeof getGloveDef>   | null>(null);
+  const [avatarHat,     setAvatarHat]     = useState<ReturnType<typeof getHatDef>     | null>(null);
+  const [avatarTrail,   setAvatarTrail]   = useState<ReturnType<typeof getTrailDef>   | null>(null);
+  const [avatarMood,    setAvatarMood]    = useState<AvatarMood>("idle");
+  const [avatarJump,    setAvatarJump]    = useState<{ reaction: "happy" | "surprised" | "victory" | "confused" | "laughing" | null; timestamp: number } | undefined>(undefined);
   const avatarTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   useEffect(() => {
@@ -167,159 +285,106 @@ export default function ReflexRushPage() {
     const trailId = getActiveTrail();    setAvatarTrail(trailId ? getTrailDef(trailId) : null);
   }, []);
 
-  function triggerAvatarMood(mood: AvatarMood, duration: number, jumpReaction?: "happy" | "surprised" | "victory" | "confused" | "laughing") {
+  function triggerAvatar(mood: AvatarMood, duration: number, jump?: "happy" | "surprised" | "victory" | "confused" | "laughing") {
     if (avatarTimerRef.current) clearTimeout(avatarTimerRef.current);
     setAvatarMood(mood);
-    if (jumpReaction) {
-      setAvatarJump({ reaction: jumpReaction, timestamp: Date.now() });
-    }
+    if (jump) setAvatarJump({ reaction: jump, timestamp: Date.now() });
     avatarTimerRef.current = setTimeout(() => setAvatarMood("focused"), duration);
   }
 
-  // ── Save / Level state ───────────────────────────────────────────────────────
-  const [save, setSave] = useState<RRSave>({ currentLevel: 1, completedLevels: [] });
-  const [screen, setScreen] = useState<Screen>("expedition");
+  // ── Save / navigation ────────────────────────────────────────────────────────
+  const [save, setSave]       = useState<RRSave>({ currentLevel: 1, completedLevels: [] });
+  const [screen, setScreen]   = useState<Screen>("expedition");
   const [activeLevel, setActiveLevel] = useState(1);
-  const [countdownVal, setCountdownVal] = useState(3);
 
-  useEffect(() => {
-    const s = loadSave();
-    setSave(s);
-  }, []);
+  useEffect(() => { setSave(loadSave()); }, []);
 
   // ── Game state ───────────────────────────────────────────────────────────────
-  const totalCells = (LEVELS[activeLevel - 1]?.gridSize || 3) ** 2;
-  const [grid, setGrid] = useState<CellType[]>(Array(totalCells).fill("idle"));
-  const [score, setScore] = useState(0);
-  const [timeLeft, setTimeLeft] = useState(0);
-  const [combo, setCombo] = useState(0);
+  const [grid, setGrid]               = useState<CellType[]>(Array(9).fill("idle"));
+  const [score, setScore]             = useState(0);
+  const [timeLeft, setTimeLeft]       = useState(0);
+  const [combo, setCombo]             = useState(0);
   const [lightningActive, setLightningActive] = useState(false);
   const [floatingPts, setFloatingPts] = useState<FloatingPt[]>([]);
-  const [earnedCard, setEarnedCard] = useState<CardRarity | null>(null);
+  const [earnedCard, setEarnedCard]   = useState<CardRarity | null>(null);
 
-  // Refs (for use inside intervals/timeouts without stale closures)
   const gridRef       = useRef<CellType[]>([]);
   const scoreRef      = useRef(0);
   const comboRef      = useRef(0);
   const lightningRef  = useRef(false);
   const cfgRef        = useRef<LevelConfig>(LEVELS[0]);
+  const timeLeftRef   = useRef(0);
   const gameActiveRef = useRef(false);
   const ptCounter     = useRef(0);
+  const timerRef      = useRef<ReturnType<typeof setInterval>  | null>(null);
+  const spawnTimer    = useRef<ReturnType<typeof setTimeout>   | null>(null);
+  const cellTimers    = useRef<(ReturnType<typeof setTimeout> | null)[]>([]);
+  const lightningTimer = useRef<ReturnType<typeof setTimeout>  | null>(null);
 
-  const timerRef         = useRef<ReturnType<typeof setInterval> | null>(null);
-  const spawnTimer       = useRef<ReturnType<typeof setTimeout> | null>(null);
-  const cellTimers       = useRef<(ReturnType<typeof setTimeout> | null)[]>([]);
-  const lightningTimer   = useRef<ReturnType<typeof setTimeout> | null>(null);
-
-  // ── Stop all game timers ─────────────────────────────────────────────────────
   const stopGame = useCallback(() => {
     gameActiveRef.current = false;
-    if (timerRef.current)    { clearInterval(timerRef.current);   timerRef.current = null; }
-    if (spawnTimer.current)  { clearTimeout(spawnTimer.current);  spawnTimer.current = null; }
-    if (lightningTimer.current) { clearTimeout(lightningTimer.current); lightningTimer.current = null; }
+    if (timerRef.current)      { clearInterval(timerRef.current);      timerRef.current = null; }
+    if (spawnTimer.current)    { clearTimeout(spawnTimer.current);     spawnTimer.current = null; }
+    if (lightningTimer.current){ clearTimeout(lightningTimer.current); lightningTimer.current = null; }
     cellTimers.current.forEach(t => { if (t) clearTimeout(t); });
     cellTimers.current = [];
   }, []);
 
-  // ── Level success ────────────────────────────────────────────────────────────
   const levelSuccess = useCallback((finalScore: number, finalTimeLeft: number) => {
     stopGame();
     const cfg = cfgRef.current;
-    const rarity: CardRarity = cfg.level === 10 ? "legendary" : calcRarity(finalScore, cfg.target, finalTimeLeft, cfg.duration);
-
+    const rarity: CardRarity = cfg.level === 10 ? "legendary" : calcRarity(finalTimeLeft, cfg.duration);
     saveCard({ id: generateCardId(), game: "reflexrush", theme: `level${cfg.level}`, rarity, score: finalScore, total: cfg.target, date: new Date().toISOString() });
     incrementTotalGames();
     setEarnedCard(rarity);
-
-    const newCompleted = [...new Set([...save.completedLevels, cfg.level])];
-    const newCurrentLevel = cfg.level === 10 ? 10 : Math.max(save.currentLevel, cfg.level + 1);
-    const newSave: RRSave = { currentLevel: newCurrentLevel, completedLevels: newCompleted };
-    setSave(newSave);
-    writeSave(newSave);
-
-    if (cfg.level === 10) {
-      triggerAvatarMood("happy", 99999, "victory");
-    } else {
-      triggerAvatarMood("happy", 2000, "happy");
-    }
+    setSave(prev => {
+      const newCompleted = [...new Set([...prev.completedLevels, cfg.level])];
+      const newCurrentLevel = cfg.level === 10 ? 10 : Math.max(prev.currentLevel, cfg.level + 1);
+      const s: RRSave = { currentLevel: newCurrentLevel, completedLevels: newCompleted };
+      writeSave(s); return s;
+    });
+    triggerAvatar(cfg.level === 10 ? "happy" : "happy", 99999, cfg.level === 10 ? "victory" : "happy");
     setScreen("levelComplete");
-  }, [save, stopGame]);
+  }, [stopGame]);
 
-  // ── Level failed ─────────────────────────────────────────────────────────────
   const levelFailed = useCallback(() => {
     stopGame();
-    triggerAvatarMood("confused", 2000, "confused");
+    triggerAvatar("confused", 2000, "confused");
     setScreen("levelFailed");
   }, [stopGame]);
 
-  // ── Spawn cell ────────────────────────────────────────────────────────────────
   const scheduleSpawn = useCallback(() => {
     if (!gameActiveRef.current) return;
     const cfg = cfgRef.current;
-
     spawnTimer.current = setTimeout(() => {
       if (!gameActiveRef.current) return;
-
       setGrid(prev => {
         const activeCells = prev.filter(t => t !== "idle").length;
-        if (activeCells >= cfg.maxActiveCells) {
-          scheduleSpawn();
-          return prev;
-        }
+        if (activeCells >= cfg.maxActiveCells) { scheduleSpawn(); return prev; }
         const idleSlots = prev.reduce<number[]>((acc, t, i) => { if (t === "idle") acc.push(i); return acc; }, []);
-        if (idleSlots.length === 0) {
-          scheduleSpawn();
-          return prev;
-        }
+        if (idleSlots.length === 0) { scheduleSpawn(); return prev; }
         const slot = idleSlots[Math.floor(Math.random() * idleSlots.length)];
         const type = pickCellType(cfg);
-
-        // Schedule auto-expiry for this cell
         if (cellTimers.current[slot]) clearTimeout(cellTimers.current[slot]!);
         cellTimers.current[slot] = setTimeout(() => {
           if (!gameActiveRef.current) return;
-          setGrid(p => {
-            if (p[slot] === "idle") return p;
-            const next = [...p];
-            next[slot] = "idle";
-            gridRef.current = next;
-            return next;
-          });
+          setGrid(p => { if (p[slot] === "idle") return p; const n = [...p]; n[slot] = "idle"; gridRef.current = n; return n; });
         }, cfg.cellLifetime);
-
-        const next = [...prev];
-        next[slot] = type;
-        gridRef.current = next;
-        scheduleSpawn();
-        return next;
+        const next = [...prev]; next[slot] = type; gridRef.current = next;
+        scheduleSpawn(); return next;
       });
     }, cfg.spawnInterval + Math.random() * 200 - 100);
   }, []);
 
-  // ── Cell click ───────────────────────────────────────────────────────────────
   const handleCellClick = useCallback((index: number, e: React.MouseEvent<HTMLButtonElement>) => {
     const type = gridRef.current[index];
     if (type === "idle") return;
+    if (cellTimers.current[index]) { clearTimeout(cellTimers.current[index]!); cellTimers.current[index] = null; }
+    setGrid(prev => { const n = [...prev]; n[index] = "idle"; gridRef.current = n; return n; });
 
-    // Clear expiry timer
-    if (cellTimers.current[index]) {
-      clearTimeout(cellTimers.current[index]!);
-      cellTimers.current[index] = null;
-    }
-
-    // Clear cell
-    setGrid(prev => {
-      const next = [...prev];
-      next[index] = "idle";
-      gridRef.current = next;
-      return next;
-    });
-
-    // Floating point origin
     const rect = (e.target as HTMLElement).getBoundingClientRect();
     const x = rect.left + rect.width / 2;
     const y = rect.top;
-
     function addFloat(value: number) {
       const id = ptCounter.current++;
       setFloatingPts(pts => [...pts, { id, value, x, y }]);
@@ -327,153 +392,69 @@ export default function ReflexRushPage() {
     }
 
     const cfg = cfgRef.current;
-
     if (type === "green") {
       const pts = lightningRef.current ? 2 : 1;
-      const newScore = scoreRef.current + pts;
-      scoreRef.current = newScore;
-      setScore(newScore);
-      comboRef.current++;
-      setCombo(comboRef.current);
-      addFloat(pts);
-      if (comboRef.current >= 3) triggerAvatarMood("victory", 1200, "victory");
-      if (newScore >= cfg.target) levelSuccess(newScore, timeLeft);
-
+      const ns = scoreRef.current + pts; scoreRef.current = ns; setScore(ns);
+      comboRef.current++; setCombo(comboRef.current); addFloat(pts);
+      if (comboRef.current >= 3) triggerAvatar("victory", 1200, "victory");
+      if (ns >= cfg.target) levelSuccess(ns, timeLeftRef.current);
     } else if (type === "gold") {
       const pts = lightningRef.current ? 10 : 5;
-      const newScore = scoreRef.current + pts;
-      scoreRef.current = newScore;
-      setScore(newScore);
-      comboRef.current++;
-      setCombo(comboRef.current);
-      addFloat(pts);
-      if (newScore >= cfg.target) levelSuccess(newScore, timeLeft);
-
+      const ns = scoreRef.current + pts; scoreRef.current = ns; setScore(ns);
+      comboRef.current++; setCombo(comboRef.current); addFloat(pts);
+      if (ns >= cfg.target) levelSuccess(ns, timeLeftRef.current);
     } else if (type === "red") {
-      const newScore = Math.max(0, scoreRef.current - 3);
-      scoreRef.current = newScore;
-      setScore(newScore);
-      comboRef.current = 0;
-      setCombo(0);
-      addFloat(-3);
-      triggerAvatarMood("disappointed", 800);
-
+      const ns = Math.max(0, scoreRef.current - 3); scoreRef.current = ns; setScore(ns);
+      comboRef.current = 0; setCombo(0); addFloat(-3);
+      triggerAvatar("disappointed", 800);
     } else if (type === "lightning") {
-      lightningRef.current = true;
-      setLightningActive(true);
+      lightningRef.current = true; setLightningActive(true);
       if (lightningTimer.current) clearTimeout(lightningTimer.current);
-      lightningTimer.current = setTimeout(() => {
-        lightningRef.current = false;
-        setLightningActive(false);
-      }, 5000);
-      comboRef.current++;
-      setCombo(comboRef.current);
-      triggerAvatarMood("surprised", 1000, "surprised");
-
+      lightningTimer.current = setTimeout(() => { lightningRef.current = false; setLightningActive(false); }, 5000);
+      comboRef.current++; setCombo(comboRef.current);
+      triggerAvatar("surprised", 1000, "surprised");
     } else if (type === "bomb") {
-      const newScore = Math.max(0, scoreRef.current - 5);
-      scoreRef.current = newScore;
-      setScore(newScore);
-      comboRef.current = 0;
-      setCombo(0);
-      addFloat(-5);
-      triggerAvatarMood("disappointed", 1200);
+      const ns = Math.max(0, scoreRef.current - 5); scoreRef.current = ns; setScore(ns);
+      comboRef.current = 0; setCombo(0); addFloat(-5);
+      triggerAvatar("disappointed", 1200);
     }
-  }, [levelSuccess, timeLeft]);
+  }, [levelSuccess]);
 
-  // ── Start level ───────────────────────────────────────────────────────────────
   const startLevel = useCallback((levelNum: number) => {
     const cfg = LEVELS[levelNum - 1];
     cfgRef.current = cfg;
     const total = cfg.gridSize ** 2;
-
-    // Reset all game state
     stopGame();
-    scoreRef.current = 0;
-    comboRef.current = 0;
-    lightningRef.current = false;
-    gridRef.current = Array(total).fill("idle");
-    cellTimers.current = Array(total).fill(null);
-
+    scoreRef.current = 0; comboRef.current = 0; lightningRef.current = false; timeLeftRef.current = cfg.duration;
+    gridRef.current = Array(total).fill("idle"); cellTimers.current = Array(total).fill(null);
     setActiveLevel(levelNum);
-    setGrid(Array(total).fill("idle"));
-    setScore(0);
-    setTimeLeft(cfg.duration);
-    setCombo(0);
-    setLightningActive(false);
-    setFloatingPts([]);
-    setEarnedCard(null);
-    setCountdownVal(3);
-    setScreen("countdown");
-    triggerAvatarMood("focused", 99999);
+    setGrid(Array(total).fill("idle")); setScore(0); setTimeLeft(cfg.duration);
+    setCombo(0); setLightningActive(false); setFloatingPts([]); setEarnedCard(null);
+    setScreen("playing");
+    triggerAvatar("focused", 99999);
   }, [stopGame]);
 
-  // ── Countdown effect ──────────────────────────────────────────────────────────
-  useEffect(() => {
-    if (screen !== "countdown") return;
-    if (countdownVal <= 0) {
-      setScreen("playing");
-      return;
-    }
-    const t = setTimeout(() => setCountdownVal(v => v - 1), 1000);
-    return () => clearTimeout(t);
-  }, [screen, countdownVal]);
-
-  // ── Playing effect (timer + spawn) ───────────────────────────────────────────
+  // ── Playing: timer + spawn ────────────────────────────────────────────────────
   useEffect(() => {
     if (screen !== "playing") return;
     gameActiveRef.current = true;
-
-    // Game timer
     timerRef.current = setInterval(() => {
       setTimeLeft(t => {
-        if (t <= 1) {
-          // Check score at end
-          if (scoreRef.current >= cfgRef.current.target) {
-            levelSuccess(scoreRef.current, 0);
-          } else {
-            levelFailed();
-          }
+        const next = t - 1; timeLeftRef.current = next;
+        if (next <= 0) {
+          if (scoreRef.current >= cfgRef.current.target) levelSuccess(scoreRef.current, 0);
+          else levelFailed();
           return 0;
         }
-        return t - 1;
+        return next;
       });
     }, 1000);
-
-    // Start spawning
     scheduleSpawn();
-
-    return () => {
-      if (timerRef.current) { clearInterval(timerRef.current); timerRef.current = null; }
-    };
+    return () => { if (timerRef.current) { clearInterval(timerRef.current); timerRef.current = null; } };
   }, [screen, scheduleSpawn, levelSuccess, levelFailed]);
 
-  // ── Expedition: play level button ─────────────────────────────────────────────
-  const handlePlayLevel = (levelNum: number) => {
-    startLevel(levelNum);
-  };
+  const cfg = LEVELS[activeLevel - 1];
 
-  // ── After levelComplete: next / new expedition ────────────────────────────────
-  const handleNextLevel = () => {
-    const cfg = cfgRef.current;
-    if (cfg.level === 10) {
-      // Reset expedition
-      const newSave: RRSave = { currentLevel: 1, completedLevels: [] };
-      setSave(newSave);
-      writeSave(newSave);
-      setAvatarMood("idle");
-      setScreen("expedition");
-    } else {
-      setAvatarMood("idle");
-      setScreen("expedition");
-    }
-  };
-
-  const handleRetry = () => {
-    startLevel(activeLevel);
-  };
-
-  // ── Avatar props shorthand ────────────────────────────────────────────────────
   const avatarProps = {
     mood: avatarMood, gender: avatarGender,
     activeSkin: avatarSkin, activeFace: avatarFace,
@@ -484,17 +465,12 @@ export default function ReflexRushPage() {
     jumpTrigger: avatarJump,
   };
 
-  const cfg = LEVELS[activeLevel - 1];
-
-  // ─────────────────────────────────────────────────────────────────────────────
-  // ── RENDER ───────────────────────────────────────────────────────────────────
-  // ─────────────────────────────────────────────────────────────────────────────
+  // ─── RENDER ────────────────────────────────────────────────────────────────
 
   return (
     <div className="min-h-screen bg-[#0A0A1A] text-white select-none overflow-hidden">
-
-      {/* Avatar (fixed, always visible) */}
       <AvatarCompanion {...avatarProps} fixed />
+      <MilestonePopup />
 
       {/* Floating points */}
       <AnimatePresence>
@@ -502,15 +478,8 @@ export default function ReflexRushPage() {
           <motion.div
             key={fp.id}
             className="pointer-events-none fixed z-50 font-black text-lg"
-            style={{
-              left: fp.x,
-              top: fp.y,
-              color: fp.value > 0 ? (fp.value >= 5 ? "#FFD700" : "#00FF88") : "#FF2D78",
-              transform: "translate(-50%, 0)",
-            }}
-            initial={{ opacity: 1, y: 0 }}
-            animate={{ opacity: 0, y: -60 }}
-            exit={{ opacity: 0 }}
+            style={{ left: fp.x, top: fp.y, color: fp.value > 0 ? (fp.value >= 5 ? "#FFD700" : "#00FF88") : "#FF2D78", transform: "translate(-50%, 0)" }}
+            initial={{ opacity: 1, y: 0 }} animate={{ opacity: 0, y: -60 }} exit={{ opacity: 0 }}
             transition={{ duration: 0.9, ease: "easeOut" }}
           >
             {fp.value > 0 ? `+${fp.value}` : fp.value}
@@ -518,39 +487,31 @@ export default function ReflexRushPage() {
         ))}
       </AnimatePresence>
 
-      {/* Milestone popup */}
-      <MilestonePopup />
-
-      {/* ── EXPEDITION SCREEN ───────────────────────────────────────────────── */}
+      {/* ── EXPEDITION ─────────────────────────────────────────────────────────── */}
       {screen === "expedition" && (
         <div className="flex flex-col min-h-screen pb-24">
-          {/* Header */}
           <div className="flex items-center justify-between p-4 pt-6">
             <Link href="/" className="flex items-center gap-2 text-white/60 hover:text-white transition-colors">
-              <Home size={20} />
-              <span className="text-sm font-bold">Főoldal</span>
+              <Home size={20} /><span className="text-sm font-bold">{t.home}</span>
             </Link>
             <div className="flex items-center gap-2">
-              <Zap size={20} className="text-[#00D4FF]" />
-              <span className="text-lg font-black tracking-wider text-[#00D4FF]">REFLEX RUSH</span>
+              <Zap size={20} className="text-[#FF6B00]" />
+              <span className="text-lg font-black tracking-wider text-[#FF6B00]">{t.title}</span>
             </div>
             <div className="w-20" />
           </div>
 
-          {/* Subtitle */}
-          <p className="text-center text-white/40 text-sm mb-6 px-4">
-            10 szint · Nyomj gyorsan · Kerüld a veszélyeket
-          </p>
+          <p className="text-center text-white/40 text-sm mb-6 px-4">{t.subtitle}</p>
 
-          {/* Progress bar */}
           <div className="px-6 mb-8">
             <div className="flex justify-between text-xs text-white/40 mb-1">
-              <span>Haladás</span>
-              <span>{save.completedLevels.length}/10 szint</span>
+              <span>{t.progress}</span>
+              <span>{save.completedLevels.length}/10 {t.levelsOf}</span>
             </div>
             <div className="h-2 bg-white/10 rounded-full overflow-hidden">
               <motion.div
-                className="h-full bg-gradient-to-r from-[#00D4FF] to-[#B44DFF] rounded-full"
+                className="h-full rounded-full"
+                style={{ background: "linear-gradient(to right, #FF6B00, #FF2D78)" }}
                 initial={false}
                 animate={{ width: `${(save.completedLevels.length / 10) * 100}%` }}
                 transition={{ duration: 0.5 }}
@@ -558,55 +519,47 @@ export default function ReflexRushPage() {
             </div>
           </div>
 
-          {/* Level list */}
           <div className="px-4 flex flex-col gap-3 max-w-sm mx-auto w-full">
             {LEVELS.map((lc, i) => {
-              const done = save.completedLevels.includes(lc.level);
+              const done    = save.completedLevels.includes(lc.level);
               const current = lc.level === save.currentLevel;
-              const locked = lc.level > save.currentLevel;
-              const isBoss = lc.level === 10;
-
+              const locked  = lc.level > save.currentLevel;
+              const isBoss  = lc.level === 10;
               return (
                 <motion.div
                   key={lc.level}
                   initial={{ opacity: 0, x: i % 2 === 0 ? -20 : 20 }}
                   animate={{ opacity: 1, x: 0 }}
                   transition={{ delay: i * 0.04 }}
-                  className={`relative flex items-center gap-4 p-4 rounded-2xl border transition-all ${
-                    done
-                      ? "bg-[#001a0a] border-[#00FF8840]"
-                      : current
-                      ? isBoss
-                        ? "bg-[#1a0028] border-[#B44DFF] shadow-[0_0_20px_#B44DFF33]"
-                        : "bg-[#001220] border-[#00D4FF] shadow-[0_0_20px_#00D4FF33]"
-                      : "bg-[#0f0f22] border-white/10 opacity-60"
+                  className={`flex items-center gap-4 p-4 rounded-2xl border transition-all ${
+                    done ? "bg-[#1a0a00] border-[#FF6B0040]"
+                    : current && isBoss ? "bg-[#1a0028] border-[#B44DFF] shadow-[0_0_20px_#B44DFF33]"
+                    : current ? "bg-[#1a0c00] border-[#FF6B00] shadow-[0_0_20px_#FF6B0033]"
+                    : "bg-[#0f0f22] border-white/10 opacity-60"
                   }`}
                 >
-                  {/* Level number / icon */}
                   <div className={`w-12 h-12 rounded-xl flex items-center justify-center text-xl font-black flex-shrink-0 ${
-                    done ? "bg-[#00FF8820] text-[#00FF88]"
+                    done ? "bg-[#FF6B0020] text-[#FF6B00]"
                     : current && isBoss ? "bg-[#B44DFF20] text-[#B44DFF]"
-                    : current ? "bg-[#00D4FF20] text-[#00D4FF]"
+                    : current ? "bg-[#FF6B0020] text-[#FF6B00]"
                     : "bg-white/5 text-white/30"
                   }`}>
                     {done ? <Check size={22} /> : locked ? <Lock size={18} /> : LEVEL_BADGES[i]}
                   </div>
 
-                  {/* Info */}
                   <div className="flex-1 min-w-0">
                     <div className="flex items-center gap-2">
                       <span className={`font-black text-sm ${isBoss ? "text-[#B44DFF]" : "text-white"}`}>
-                        {isBoss ? "🏆 BOSS — " : ""}Szint {lc.level}
+                        {isBoss ? t.boss : ""}{t.levelLabel} {lc.level}
                       </span>
-                      {done && <span className="text-[#00FF88] text-xs">✓ kész</span>}
+                      {done && <span className="text-[#FF6B00] text-xs">{t.done}</span>}
                     </div>
                     <div className="text-white/40 text-xs mt-0.5 flex gap-3">
-                      <span>{lc.gridSize}×{lc.gridSize} rács</span>
+                      <span>{lc.gridSize}×{lc.gridSize}</span>
                       <span>{lc.duration}s</span>
-                      <span>Cél: {lc.target}pt</span>
+                      <span>{t.goal}: {lc.target}pt</span>
                     </div>
-                    {/* Cell type tags */}
-                    <div className="flex gap-1 mt-1.5 flex-wrap">
+                    <div className="flex gap-1 mt-1.5">
                       <span className="text-[#00FF88] text-xs">🟢</span>
                       {lc.hasGold      && <span className="text-[#FFD700] text-xs">⭐</span>}
                       {lc.hasRed       && <span className="text-[#FF2D78] text-xs">🔴</span>}
@@ -615,16 +568,13 @@ export default function ReflexRushPage() {
                     </div>
                   </div>
 
-                  {/* Play button */}
                   {!locked && (
                     <button
-                      onClick={() => handlePlayLevel(lc.level)}
+                      onClick={() => startLevel(lc.level)}
                       className={`flex-shrink-0 px-4 py-2 rounded-xl font-black text-sm transition-all active:scale-95 ${
-                        isBoss
-                          ? "bg-[#B44DFF] text-white shadow-[0_0_12px_#B44DFF66]"
-                          : current
-                          ? "bg-[#00D4FF] text-[#0A0A1A] shadow-[0_0_12px_#00D4FF66]"
-                          : "bg-white/10 text-white/60"
+                        isBoss ? "bg-[#B44DFF] text-white shadow-[0_0_12px_#B44DFF66]"
+                        : current ? "bg-[#FF6B00] text-white shadow-[0_0_12px_#FF6B0066]"
+                        : "bg-white/10 text-white/60"
                       }`}
                     >
                       {done ? "↩" : <ChevronRight size={18} />}
@@ -636,122 +586,85 @@ export default function ReflexRushPage() {
           </div>
 
           {/* Legend */}
-          <div className="mt-8 mx-4 p-4 rounded-2xl bg-white/5 border border-white/10 max-w-sm mx-auto w-full">
-            <p className="text-white/40 text-xs font-bold mb-2 tracking-wider">SEJTTÍPUSOK</p>
-            <div className="grid grid-cols-2 gap-x-4 gap-y-1.5">
-              {[
-                { icon: "🟢", label: "+1 pont", color: "#00FF88" },
-                { icon: "⭐", label: "+5 pont", color: "#FFD700" },
-                { icon: "⚡", label: "x2 boost (5s)", color: "#00D4FF" },
-                { icon: "🔴", label: "-3 pont (kerüld!)", color: "#FF2D78" },
-                { icon: "💣", label: "-5 pont (kerüld!)", color: "#B44DFF" },
-              ].map(({ icon, label, color }) => (
-                <div key={icon} className="flex items-center gap-2 text-xs">
-                  <span>{icon}</span>
-                  <span style={{ color }}>{label}</span>
-                </div>
-              ))}
+          <div className="mt-8 px-4 max-w-sm mx-auto w-full">
+            <div className="p-4 rounded-2xl bg-white/5 border border-white/10">
+              <p className="text-white/40 text-xs font-bold mb-2 tracking-wider">{t.cellTypes}</p>
+              <div className="grid grid-cols-2 gap-x-4 gap-y-1.5">
+                {([
+                  { icon: "🟢", label: t.cells.green,     color: "#00FF88" },
+                  { icon: "⭐", label: t.cells.gold,      color: "#FFD700" },
+                  { icon: "⚡", label: t.cells.lightning, color: "#00D4FF" },
+                  { icon: "🔴", label: t.cells.red,       color: "#FF2D78" },
+                  { icon: "💣", label: t.cells.bomb,      color: "#B44DFF" },
+                ] as { icon: string; label: string; color: string }[]).map(({ icon, label, color }) => (
+                  <div key={icon} className="flex items-center gap-2 text-xs">
+                    <span>{icon}</span><span style={{ color }}>{label}</span>
+                  </div>
+                ))}
+              </div>
             </div>
           </div>
         </div>
       )}
 
-      {/* ── COUNTDOWN SCREEN ────────────────────────────────────────────────── */}
-      {screen === "countdown" && (
-        <div className="flex flex-col items-center justify-center min-h-screen gap-6">
-          <div className="text-white/40 font-bold tracking-wider">SZINT {activeLevel}</div>
-          <AnimatePresence mode="wait">
-            <motion.div
-              key={countdownVal}
-              className="text-8xl font-black"
-              style={{ color: countdownVal > 0 ? "#00D4FF" : "#00FF88" }}
-              initial={{ scale: 0.5, opacity: 0 }}
-              animate={{ scale: 1, opacity: 1 }}
-              exit={{ scale: 1.5, opacity: 0 }}
-              transition={{ duration: 0.4 }}
-            >
-              {countdownVal > 0 ? countdownVal : "RAJT!"}
-            </motion.div>
-          </AnimatePresence>
-          <div className="text-white/40 text-sm">
-            Cél: <span className="text-[#FFD700] font-bold">{cfg.target} pont</span> · {cfg.duration}s
-          </div>
-        </div>
-      )}
-
-      {/* ── PLAYING SCREEN ───────────────────────────────────────────────────── */}
+      {/* ── PLAYING ────────────────────────────────────────────────────────────── */}
       {screen === "playing" && (
         <div className="flex flex-col min-h-screen">
-          {/* HUD */}
           <div className="flex items-center justify-between px-4 pt-4 pb-2">
-            {/* Score */}
             <div className="flex flex-col items-start">
-              <span className="text-white/40 text-xs font-bold tracking-wider">PONT</span>
+              <span className="text-white/40 text-xs font-bold tracking-wider">{t.score}</span>
               <motion.span
-                key={score}
-                className="text-2xl font-black text-[#00FF88]"
-                animate={{ scale: [1.2, 1] }}
-                transition={{ duration: 0.15 }}
+                key={score} className="text-2xl font-black text-[#00FF88]"
+                animate={{ scale: [1.2, 1] }} transition={{ duration: 0.15 }}
               >
-                {score}
-                <span className="text-white/30 text-sm font-bold ml-1">/{cfg.target}</span>
+                {score}<span className="text-white/30 text-sm font-bold ml-1">/{cfg.target}</span>
               </motion.span>
             </div>
 
-            {/* Timer */}
             <div className="flex flex-col items-center">
-              <span className="text-white/40 text-xs font-bold tracking-wider">IDŐ</span>
+              <span className="text-white/40 text-xs font-bold tracking-wider">{t.time}</span>
               <span className={`text-2xl font-black ${timeLeft <= 5 ? "text-[#FF2D78] animate-pulse" : "text-white"}`}>
                 {timeLeft}s
               </span>
             </div>
 
-            {/* Combo */}
             <div className="flex flex-col items-end">
-              <span className="text-white/40 text-xs font-bold tracking-wider">COMBO</span>
+              <span className="text-white/40 text-xs font-bold tracking-wider">{t.combo}</span>
               <motion.span
                 key={combo}
                 className={`text-2xl font-black ${combo >= 5 ? "text-[#FFD700]" : combo >= 3 ? "text-[#FF2D78]" : "text-white/60"}`}
-                animate={combo > 0 ? { scale: [1.3, 1] } : {}}
-                transition={{ duration: 0.2 }}
+                animate={combo > 0 ? { scale: [1.3, 1] } : {}} transition={{ duration: 0.2 }}
               >
                 ×{combo}
               </motion.span>
             </div>
           </div>
 
-          {/* Lightning indicator */}
           <AnimatePresence>
             {lightningActive && (
               <motion.div
                 className="mx-4 mb-2 py-1.5 px-3 rounded-xl bg-[#00D4FF20] border border-[#00D4FF50] flex items-center gap-2"
-                initial={{ opacity: 0, y: -10 }}
-                animate={{ opacity: 1, y: 0 }}
-                exit={{ opacity: 0, y: -10 }}
+                initial={{ opacity: 0, y: -10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -10 }}
               >
                 <span className="text-lg">⚡</span>
-                <span className="text-[#00D4FF] text-sm font-bold">x2 BOOST AKTÍV!</span>
+                <span className="text-[#00D4FF] text-sm font-bold">{t.boostActive}</span>
               </motion.div>
             )}
           </AnimatePresence>
 
-          {/* Progress bar */}
           <div className="mx-4 mb-3">
             <div className="h-1.5 bg-white/10 rounded-full overflow-hidden">
               <motion.div
-                className="h-full bg-gradient-to-r from-[#00FF88] to-[#00D4FF] rounded-full"
+                className="h-full rounded-full"
+                style={{ background: "linear-gradient(to right, #FF6B00, #FFD700)" }}
                 animate={{ width: `${Math.min(100, (score / cfg.target) * 100)}%` }}
                 transition={{ duration: 0.2 }}
               />
             </div>
           </div>
 
-          {/* Grid */}
           <div className="flex-1 flex items-center justify-center px-4">
-            <div
-              className="grid gap-2 w-full max-w-sm"
-              style={{ gridTemplateColumns: `repeat(${cfg.gridSize}, 1fr)` }}
-            >
+            <div className="grid gap-2 w-full max-w-sm" style={{ gridTemplateColumns: `repeat(${cfg.gridSize}, 1fr)` }}>
               {grid.map((cellType, i) => {
                 const cc = CELL_CONFIG[cellType];
                 const isActive = cellType !== "idle";
@@ -759,13 +672,8 @@ export default function ReflexRushPage() {
                   <motion.button
                     key={i}
                     onClick={(e) => handleCellClick(i, e)}
-                    className="aspect-square rounded-xl relative overflow-hidden flex items-center justify-center text-xl font-bold"
-                    style={{
-                      background: cc.bg,
-                      border: `2px solid ${cc.border}`,
-                      boxShadow: isActive ? cc.shadow : "none",
-                      cursor: isActive ? "pointer" : "default",
-                    }}
+                    className="aspect-square rounded-xl flex items-center justify-center text-xl font-bold"
+                    style={{ background: cc.bg, border: `2px solid ${cc.border}`, boxShadow: isActive ? cc.shadow : "none", cursor: isActive ? "pointer" : "default" }}
                     animate={isActive ? { scale: 1, opacity: 1 } : { scale: 0.95, opacity: 0.4 }}
                     whileTap={isActive ? { scale: 0.85 } : {}}
                     transition={{ duration: 0.15 }}
@@ -774,11 +682,8 @@ export default function ReflexRushPage() {
                       {isActive && (
                         <motion.span
                           key={`${i}-${cellType}`}
-                          initial={{ scale: 0, rotate: -30 }}
-                          animate={{ scale: 1, rotate: 0 }}
-                          exit={{ scale: 0 }}
+                          initial={{ scale: 0, rotate: -30 }} animate={{ scale: 1, rotate: 0 }} exit={{ scale: 0 }}
                           transition={{ type: "spring", stiffness: 400, damping: 20 }}
-                          className="text-xl"
                           style={{ color: cc.border }}
                         >
                           {cc.icon}
@@ -791,83 +696,76 @@ export default function ReflexRushPage() {
             </div>
           </div>
 
-          {/* Bottom: level info */}
           <div className="px-4 py-3 text-center text-white/30 text-xs pb-6">
-            Szint {activeLevel}/10 · Érintsd a zöld/arany sejteket · Kerüld a pirosat és a bombát
+            {t.levelLabel} {activeLevel}/10 · {t.hint}
           </div>
         </div>
       )}
 
-      {/* ── LEVEL COMPLETE SCREEN ────────────────────────────────────────────── */}
+      {/* ── LEVEL COMPLETE ─────────────────────────────────────────────────────── */}
       {screen === "levelComplete" && earnedCard && (
         <div className="flex flex-col items-center justify-center min-h-screen px-6 gap-6 text-center">
-          {/* Title */}
           <motion.div
-            className="text-5xl font-black text-[#00FF88]"
-            initial={{ scale: 0 }}
-            animate={{ scale: 1 }}
+            className="text-5xl font-black"
+            style={{ color: activeLevel === 10 ? "#B44DFF" : "#00FF88" }}
+            initial={{ scale: 0 }} animate={{ scale: 1 }}
             transition={{ type: "spring", stiffness: 300, damping: 20 }}
           >
-            {activeLevel === 10 ? "🏆 KÉSZ!" : "✅ SZINT KÉSZ!"}
+            {activeLevel === 10 ? t.bossDone : t.levelDone}
           </motion.div>
 
-          {/* Score */}
           <div className="flex flex-col items-center gap-1">
-            <span className="text-white/40 text-sm font-bold tracking-wider">VÉGEREDMÉNY</span>
-            <span className="text-4xl font-black text-white">{score} <span className="text-white/40 text-xl">pont</span></span>
-            <span className="text-white/40 text-sm">(cél: {cfg.target})</span>
+            <span className="text-white/40 text-sm font-bold tracking-wider">{t.finalScore}</span>
+            <span className="text-4xl font-black text-white">{score} <span className="text-white/40 text-xl">{t.pts}</span></span>
+            <span className="text-white/40 text-sm">({t.goal}: {cfg.target})</span>
           </div>
 
-          {/* Card earned */}
           <motion.div
             className="py-4 px-8 rounded-2xl border-2 flex flex-col items-center gap-2"
             style={{ borderColor: RARITY_COLORS[earnedCard], background: `${RARITY_COLORS[earnedCard]}15` }}
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.3 }}
+            initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.3 }}
           >
             {earnedCard === "legendary" && <span className="text-3xl">👑</span>}
             {earnedCard === "gold"      && <span className="text-3xl">🥇</span>}
             {earnedCard === "silver"    && <span className="text-3xl">🥈</span>}
             {earnedCard === "bronze"    && <span className="text-3xl">🥉</span>}
             <span className="font-black tracking-widest text-sm" style={{ color: RARITY_COLORS[earnedCard] }}>
-              {RARITY_LABELS[earnedCard]} KÁRTYA
+              {t.rarity[earnedCard]} {t.card}
             </span>
             {earnedCard === "legendary" && (
-              <span className="text-white/50 text-xs mt-1">Megszerezted a legendás Reflex Rush kártyát!</span>
+              <span className="text-white/50 text-xs mt-1">{t.legendaryDesc}</span>
             )}
           </motion.div>
 
-          {/* Buttons */}
           <div className="flex flex-col gap-3 w-full max-w-xs">
             {activeLevel === 10 ? (
               <>
                 <button
-                  onClick={handleNextLevel}
+                  onClick={() => {
+                    const ns: RRSave = { currentLevel: 1, completedLevels: [] };
+                    setSave(ns); writeSave(ns); setAvatarMood("idle"); setScreen("expedition");
+                  }}
                   className="py-4 px-8 rounded-2xl font-black text-lg bg-[#B44DFF] text-white shadow-[0_0_20px_#B44DFF66] active:scale-95 transition-all"
                 >
-                  🔄 Új expedíció
+                  {t.newExpedition}
                 </button>
-                <Link
-                  href="/"
-                  className="py-3 px-8 rounded-2xl font-bold text-white/60 border border-white/20 text-center active:scale-95 transition-all"
-                >
-                  🏠 Főoldal
+                <Link href="/" className="py-3 px-8 rounded-2xl font-bold text-white/60 border border-white/20 text-center active:scale-95 transition-all">
+                  🏠 {t.home}
                 </Link>
               </>
             ) : (
               <>
                 <button
-                  onClick={handleNextLevel}
-                  className="py-4 px-8 rounded-2xl font-black text-lg bg-[#00D4FF] text-[#0A0A1A] shadow-[0_0_20px_#00D4FF66] active:scale-95 transition-all flex items-center justify-center gap-2"
+                  onClick={() => { setAvatarMood("idle"); setScreen("expedition"); }}
+                  className="py-4 px-8 rounded-2xl font-black text-lg bg-[#FF6B00] text-white shadow-[0_0_20px_#FF6B0066] active:scale-95 transition-all flex items-center justify-center gap-2"
                 >
-                  Következő szint <ChevronRight size={20} />
+                  {t.nextLevel} <ChevronRight size={20} />
                 </button>
                 <button
-                  onClick={() => { setScreen("expedition"); setAvatarMood("idle"); }}
+                  onClick={() => { setAvatarMood("idle"); setScreen("expedition"); }}
                   className="py-3 px-8 rounded-2xl font-bold text-white/60 border border-white/20 active:scale-95 transition-all"
                 >
-                  Expedíció térkép
+                  {t.expeditionMap}
                 </button>
               </>
             )}
@@ -875,42 +773,41 @@ export default function ReflexRushPage() {
         </div>
       )}
 
-      {/* ── LEVEL FAILED SCREEN ──────────────────────────────────────────────── */}
+      {/* ── LEVEL FAILED ───────────────────────────────────────────────────────── */}
       {screen === "levelFailed" && (
         <div className="flex flex-col items-center justify-center min-h-screen px-6 gap-6 text-center">
           <motion.div
             className="text-5xl font-black text-[#FF2D78]"
-            initial={{ scale: 0 }}
-            animate={{ scale: 1 }}
+            initial={{ scale: 0 }} animate={{ scale: 1 }}
             transition={{ type: "spring", stiffness: 300, damping: 20 }}
           >
-            ❌ IDŐKÉSZ!
+            {t.timeUp}
           </motion.div>
 
           <div className="flex flex-col items-center gap-1">
-            <span className="text-white/40 text-sm">Elért pontszám</span>
+            <span className="text-white/40 text-sm">{t.scoredPoints}</span>
             <span className="text-4xl font-black text-white">{score}</span>
             <span className="text-white/40 text-sm">
-              Cél volt: <span className="text-[#FF2D78] font-bold">{cfg.target}</span> pont
-              {score >= cfg.target * 0.7 && <span className="text-[#FFD700] ml-2 font-bold">— Majdnem!</span>}
+              {t.goalWas}: <span className="text-[#FF2D78] font-bold">{cfg.target}</span> {t.pts}
+              {score >= cfg.target * 0.7 && <span className="text-[#FFD700] ml-2 font-bold">{t.almostThere}</span>}
             </span>
           </div>
 
           <div className="flex flex-col gap-3 w-full max-w-xs">
             <button
-              onClick={handleRetry}
+              onClick={() => startLevel(activeLevel)}
               className="py-4 px-8 rounded-2xl font-black text-lg bg-[#FF2D78] text-white shadow-[0_0_20px_#FF2D7866] active:scale-95 transition-all flex items-center justify-center gap-2"
             >
-              <RotateCcw size={20} /> Újra
+              <RotateCcw size={20} /> {t.retry}
             </button>
             <button
               onClick={() => { setScreen("expedition"); setAvatarMood("idle"); }}
               className="py-3 px-8 rounded-2xl font-bold text-white/60 border border-white/20 active:scale-95 transition-all"
             >
-              Expedíció térkép
+              {t.expeditionMap}
             </button>
             <Link href="/" className="py-3 px-8 rounded-2xl font-bold text-white/40 text-center active:scale-95 transition-all">
-              🏠 Főoldal
+              🏠 {t.home}
             </Link>
           </div>
         </div>

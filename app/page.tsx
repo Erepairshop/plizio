@@ -58,7 +58,6 @@ const TRANSLATIONS = {
     },
     games: {
       quickpick: "Quick Pick",
-      reflexgrid: "Reflex Grid",
       reflexrush: "Reflex Rush",
       memoryflash: "Memory Flash",
       spotdiff: "Spot Diff",
@@ -83,7 +82,6 @@ const TRANSLATIONS = {
     },
     games: {
       quickpick: "Gyors Választás",
-      reflexgrid: "Reflex Rács",
       reflexrush: "Reflex Roham",
       memoryflash: "Memória Flash",
       spotdiff: "Különbség Megtalálása",
@@ -108,7 +106,6 @@ const TRANSLATIONS = {
     },
     games: {
       quickpick: "Schnelle Wahl",
-      reflexgrid: "Reflex Gitter",
       reflexrush: "Reflex Rush",
       memoryflash: "Speicherblitz",
       spotdiff: "Unterschied Erkennen",
@@ -133,7 +130,6 @@ const TRANSLATIONS = {
     },
     games: {
       quickpick: "Alegere Rapidă",
-      reflexgrid: "Rețea Reflex",
       reflexrush: "Reflex Rush",
       memoryflash: "Fulger de Memorie",
       spotdiff: "Găsește Diferența",
@@ -164,13 +160,6 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         nameKey: "quickpick",
         color: "#FF2D78",
         gradient: "bg-gradient-to-br from-pink-500/20 to-rose-500/20",
-      },
-      {
-        id: "reflexgrid",
-        icon: Zap,
-        nameKey: "reflexgrid",
-        color: "#00D4FF",
-        gradient: "bg-gradient-to-br from-cyan-500/20 to-blue-500/20",
       },
       {
         id: "reflexrush",
