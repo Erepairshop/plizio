@@ -225,6 +225,88 @@ _(Animációk `globals.css`-ben vannak definiálva, nem Tailwind configban!)_
 - Google Analytics: `G-BR2WCCRFG0`
 - Service Worker: `<ServiceWorkerRegister />` komponens a layoutban
 
+### Math Test rendszer — részletes dokumentáció
+
+#### Fájlok
+| Fájl | Leírás |
+|------|--------|
+| `lib/mathCurriculum.ts` | Fő kérdésgenerátor motor (G1-G8 generátorok + CURRICULUM + generateTest/Klassenarbeit) |
+| `lib/mathTranslations.ts` | Minden fordítható szöveg (HU/DE/EN/RO) — topic nevek + kérdés template függvények |
+| `lib/mathQuestionUtils.ts` | Vizuális kérdés segédek |
+| `lib/mathLocale.ts` | Ország-specifikus konfiguráció (osztályzás, UI címkék) |
+| `lib/mathTestGenerator.ts` | Legacy generátor (osztály-4 JSON fájlokhoz) |
+
+#### Oldalak
+| Route | Fájl | Leírás |
+|-------|------|--------|
+| `/mathtest` | `app/mathtest/page.tsx` | Fő matekteszt UI (multi-country, Klasse 1-8) |
+| `/mathe-test` | `app/mathe-test/page.tsx` | DE hub oldal |
+| `/mathe-test/klasse-{1-8}` | `app/mathe-test/klasse-N/page.tsx` | DE alcímoldalak (SEO) |
+| `/math-test` | `app/math-test/page.tsx` | US/EN hub oldal |
+| `/math-test/grade-{1-8}` | `app/math-test/grade-N/page.tsx` | US alcímoldalak (SEO) |
+
+#### Country code → Language mapping
+```ts
+getLang("DE") → "DE"   // German curriculum
+getLang("US") → "EN"   // US curriculum (imperial units, AM/PM)
+getLang("GB") → "EN"   // British (metric, like HU/RO)
+getLang("HU") → "HU"   // Hungarian
+getLang("RO") → "RO"   // Romanian
+```
+
+#### Generator architektúra (`mathCurriculum.ts`)
+- `G1`–`G8`: Grade-specifikus generátor objektumok (`Record<string, Generator>`)
+- `type Generator = (cc: string) => MathQuestion`
+- Minden generátor kap `cc` (country code) paramétert → locale-specifikus kérdések
+- **US-only generátorok** (pl. `G2.units`, `G2.ampmClock`, `G3.units`, `G3.ampmClock`, `G4.units`):
+  - `cc === "US"` esetén imperial/AM-PM kérdéseket generálnak
+  - Egyéb country code esetén fallback: metrikus/sorozat kérdések
+- `CURRICULUM[grade][period]`: `{ current: Generator[], review: Generator[] }`
+  - `generateTest()`: 7 current + 3 review kérdés (10 összesen)
+
+#### Klassenarbeit szekciók (alkategóriák) — `generateKlassenarbeit(grade)`
+A Klassenarbeit (vizsgadolgozat) formátum fix szekciókba rendezi a kérdéseket:
+
+| Grade | Szekciók | Kérdésszám |
+|-------|---------|-----------|
+| 1 | Addition · Subtraction · Word Problems · Comparison · Bonus | 2+2+2+2+1 = 9 |
+| 2 | Addition · Subtraction · Multiplication · Word Problems · Bonus | 2+2+2+2+1 = 9 |
+| 3 | Arithmetics · Multiplication · Word Problems · Geometry · Bonus | 2+2+2+2+1 = 9 |
+| 4 | Kopfrechnen · Schriftlich · Bruchrechnung · Geometrie · Bonus | 2+3+2+2+1 = 10 |
+| 5 | Kopfrechnen · Schriftlich · Sachaufgaben · Geometrie · Bonus | 2+3+2+2+1 = 10 |
+| 6 | Arithmetics · Fractions · Ratios & Speed · Geometry · Bonus | 2+2+2+2+1 = 9 |
+| 7 | Algebra · Equations · Geometry · Pythagoras · Bonus | 2+2+2+2+1 = 9 |
+| 8 | Algebra · Equations · Functions · Probability · Bonus | 2+2+2+2+1 = 9 |
+
+**Szekció-generátorok táblázat (Grade 2-4):**
+- Grade 2 `bonus`: `[G2.sequence, G2.missing100]`
+- Grade 3 `geometry`: `[G3.units]` → US esetén imperial, egyéb esetén metrikus
+- Grade 4 `geometrie`: `[G4.units]` → US esetén imperial, egyéb esetén km/tonna/liter
+
+#### Imperial units (US-only, Grade 2-4)
+Hozzáadott kérdéstípusok (`mathTranslations.ts` → `mathCurriculum.ts`):
+- **Grade 2+**: inches in a foot (12), feet in a yard (3), feet→inches, yards→feet
+- **Grade 3+**: ounces in a pound (16), pounds→ounces
+- **Grade 4**: mindezek + nagyobb számok (3-8 ft, yd, lb)
+- Topic name: `"imperialUnits"` → EN: "imperial units"
+
+#### AM/PM Time (US-only, Grade 2-3)
+Hozzáadott kérdéstípusok:
+- `qAmPmElapsed(startH, endH)`: "School starts at 8 AM and ends at 3 PM. How many hours?"
+- `qAmPmAddHours(startH, addH, isAm)`: "It is 9 AM. What hour will it be 3 hours later?"
+- `qAmPmActivityEnd(startH, durH)`: "Activity starts at 2 PM and lasts 2 hours. What hour does it end?"
+- Topic name: `"ampmTime"` → EN: "AM/PM time"
+- Non-US fallback: `G2.ampmClock` → sequence kérdés; `G3.ampmClock` → missingMul
+
+#### Új kérdések megjelenése a CURRICULUM-ban
+- Grade 2 Period 3: + `G2.units`
+- Grade 2 Period 4: + `G2.ampmClock`
+- Grade 2 Period 5: + `G2.units`, `G2.ampmClock`
+- Grade 3 Period 4: + `G3.ampmClock`
+- Grade 3 Period 5: + `G3.ampmClock` (a `G3.units` már meglévő, de bővítve US imperial-lal)
+
+---
+
 ### Egyéb lib fájlok (kevésbé érintett területek)
 
 | Fájl | Leírás |
@@ -233,7 +315,6 @@ _(Animációk `globals.css`-ben vannak definiálva, nem Tailwind configban!)_
 | `username.ts` | Felhasználónév mentés |
 | `sync.ts` | Supabase szinkronizáció |
 | `mobileOptimization.ts` | Mobil-specifikus logika |
-| `mathTestGenerator.ts`, `mathQuestionUtils.ts`, `mathTranslations.ts` | Matekteszt generálás |
 | `pdfExport.ts`, `generateTestPdf.ts` | PDF export |
 | `citydrive` autók | localStorage: `citydrive_owned_cars`, `citydrive_active_car` |
 

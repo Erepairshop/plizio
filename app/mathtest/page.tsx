@@ -27,6 +27,11 @@ import {
   updateMathStats,
   getPeriod,
   getPeriodLabel,
+  getENThemes,
+  getDEThemes,
+  getHUThemes,
+  getROThemes,
+  generateTopicQuestions,
   type MathQuestion,
   type GradeResult,
   type KlassenarbeitResult,
@@ -421,11 +426,11 @@ export default function MathTestPage() {
   // Load saved country + grade on mount
   useEffect(() => {
     const LANG_TO_COUNTRY: Record<string, string> = { hu: "HU", de: "DE", en: "US", ro: "RO" };
-    const savedCode = getSavedCountry() || LANG_TO_COUNTRY[getLanguage()] || "DE";
+    const langCode = LANG_TO_COUNTRY[getLanguage()] || "DE";
+    const savedCode = langCode;
     setCountry(getCountryByCode(savedCode));
-    if (savedCode) {
-      setGameState("grade-select");
-    }
+    saveCountry(savedCode);
+    setGameState("grade-select");
     const prev = getMathGrade();
     if (prev) setPreviousGrade(prev);
   }, []);
@@ -658,15 +663,45 @@ export default function MathTestPage() {
     return () => { cancelled = true; };
   }, [country, selectedGrade]);
 
-  // Resolved themes: prefer Supabase, fall back to JSON
+  // Resolved themes:
+  // - EN/DE: generator-based (EN_THEMES / DE_THEMES)
+  // - RO: generator-based (Supabase RO has German content — overridden with proper Romanian)
+  // - HU: Supabase (has correct Hungarian topics) → falls through to supabaseCurriculum below
   const resolvedThemes = useMemo((): ThemeSelectorTheme[] => {
+    const cc = country?.code;
+    const langPrefix =
+      cc === 'US' || cc === 'GB' ? 'en' :
+      cc === 'DE' || cc === 'AT' || cc === 'CH' ? 'de' :
+      cc === 'RO' ? 'ro' : null;   // HU uses Supabase (correct topics already there)
+
+    if (langPrefix && selectedGrade) {
+      const srcThemes =
+        langPrefix === 'en' ? getENThemes(selectedGrade) :
+        langPrefix === 'de' ? getDEThemes(selectedGrade) :
+        getROThemes(selectedGrade);
+      return srcThemes.map(theme => ({
+        id: theme.key,
+        name: theme.name,
+        color: theme.color,
+        icon: theme.icon,
+        description: theme.name,
+        subtopics: theme.topics.map(topic => ({
+          id: `${langPrefix}_topic_${selectedGrade}_${topic.key}`,
+          name: topic.name,
+          color: topic.color,
+          icon: topic.icon,
+          taskFile: '',
+          taskIds: [],
+        })),
+      }));
+    }
     if (supabaseCurriculum && supabaseCurriculum.themes.length > 0) {
       return mapCurriculumToThemes(supabaseCurriculum);
     }
     const fallback = selectedGrade ? CURRICULA[selectedGrade] : null;
     if (fallback) return fallback.themes as unknown as ThemeSelectorTheme[];
     return [];
-  }, [supabaseCurriculum, selectedGrade]);
+  }, [supabaseCurriculum, selectedGrade, country]);
 
   const handleGradeSelect = (grade: number) => {
     setSelectedGrade(grade);
@@ -676,6 +711,7 @@ export default function MathTestPage() {
     setGradeResult(null);
     setKlassenarbeitResult(null);
     setSupabaseCurriculum(null);
+
     setGameState("theme-select");
   };
 
@@ -717,6 +753,39 @@ export default function MathTestPage() {
     localStorage.setItem("klassenarbeitStartTime", now.toString());
 
     try {
+      // ─── EN / DE / RO: generator-based topic selection ──────────
+      // HU uses Supabase curriculum topics (not generator-based)
+      const generatorTopicIds = selectedSubtopics.filter(id =>
+        id.startsWith('en_topic_') || id.startsWith('de_topic_') ||
+        id.startsWith('ro_topic_')
+      );
+      if (generatorTopicIds.length > 0) {
+        const cc = country!.code;
+        const grade = selectedGrade!;
+        const TARGET = 15;
+        const perTopic = Math.ceil(TARGET / generatorTopicIds.length);
+        const seen = new Set<string>();
+        const qs: MathQuestion[] = [];
+        for (const tid of generatorTopicIds) {
+          // Format: {en|de}_topic_{grade}_{topicKey}
+          const topicKey = tid.split('_').slice(3).join('_');
+          const pool = generateTopicQuestions(grade, topicKey, cc, perTopic);
+          for (const q of pool) {
+            if (!seen.has(q.question) && qs.length < TARGET) {
+              seen.add(q.question);
+              qs.push(q);
+            }
+          }
+        }
+        setQuestions(qs);
+        setAnswers(new Array(qs.length).fill(null));
+        setRealisticKlassenarbeit(null);
+        setAvatarMood("idle");
+        setGameState("playing");
+        setGeneratingTest(false);
+        return;
+      }
+
       // ─── Collect task IDs from selected subtopics ─────────────
       // Works with both JSON themes (slug-based) and Supabase themes (UUID-based)
       const allTaskIds: string[] = [];
@@ -1053,7 +1122,7 @@ export default function MathTestPage() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.3 }}
           >
-            Welches Land besuchst du die Schule?
+            Which country do you go to school in?
           </motion.p>
 
           {/* Country buttons */}
@@ -1253,8 +1322,8 @@ export default function MathTestPage() {
     const handlePrintBlank = () => {
       const now = new Date();
       const dateStr = `${now.getFullYear()}. ${(now.getMonth() + 1).toString().padStart(2, "0")}. ${now.getDate().toString().padStart(2, "0")}.`;
-      const gradeLabel = `${selectedGrade}. ${ui?.classLabel || "osztály"}`;
-      const subject = ui?.title || "MATEMATIKA DOLGOZAT";
+      const gradeLabel = country?.gradeLabel(selectedGrade!) || `${selectedGrade}. ${ui?.classLabel || "class"}`;
+      const subject = ui?.subject || ui?.title || "MATH TEST";
       const totalPoints = questions.reduce((sum, q) => sum + (q.maxPoints || 1), 0);
 
       const questionsHtml = questions.map((q, i) => {
@@ -1266,14 +1335,14 @@ export default function MathTestPage() {
             <div class="question-header">
               <span class="q-num">${i + 1}.</span>
               <span class="q-text">${q.question}</span>
-              <span class="q-pts">(${pts} pont)</span>
+              <span class="q-pts">(${pts} ${ui?.pointsUnit || 'pts'})</span>
             </div>
             <div class="answer-box"></div>
           </div>`;
       }).join("");
 
       const html = `<!DOCTYPE html>
-<html lang="hu">
+<html lang="${country?.code?.toLowerCase() || 'en'}">
 <head>
   <meta charset="UTF-8">
   <title>${subject} – ${gradeLabel}</title>
@@ -1409,22 +1478,22 @@ export default function MathTestPage() {
         <span class="grade-badge">${gradeLabel}</span>
       </div>
       <div class="score-box">
-        <div class="score-label">Eredmény</div>
+        <div class="score-label">${ui?.scoreLabel || 'Score'}</div>
         <div class="score-value">&nbsp;&nbsp;&nbsp;&nbsp;</div>
-        <div class="score-total">/ ${totalPoints} pont</div>
+        <div class="score-total">/ ${totalPoints} ${ui?.pointsUnit || 'pts'}</div>
       </div>
     </div>
     <div class="fields">
       <div class="field">
-        <label>Név</label>
+        <label>${ui?.nameLabel || 'Name'}</label>
         <div class="line"></div>
       </div>
       <div class="field" style="max-width:120px">
-        <label>Osztály</label>
+        <label>${ui?.classFieldLabel || 'Class'}</label>
         <div class="line"></div>
       </div>
       <div class="field" style="max-width:130px">
-        <label>Dátum</label>
+        <label>${ui?.dateLabel || 'Date'}</label>
         <div class="line" style="padding-top:4px; font-size:9pt; color:#374151;">${dateStr}</div>
       </div>
     </div>
@@ -1448,8 +1517,8 @@ export default function MathTestPage() {
       <DraftProvider>
       <>
         <ModernPaperTest
-          title={ui?.title || "MATEMATIKA DOLGOZAT"}
-          gradeLabel={`${selectedGrade}. ${ui?.classLabel || "Osztály"}`}
+          title={ui?.subject || ui?.title || "MATH TEST"}
+          gradeLabel={country?.gradeLabel(selectedGrade!) || `${selectedGrade}. ${ui?.classLabel || "Class"}`}
           date={new Date().toISOString()}
           timeLeft={testType === "klassenarbeit" ? klassenarbeitTimeLeft : elapsedTime}
           solved={answers.filter((a) => a !== null).length}
@@ -1457,9 +1526,9 @@ export default function MathTestPage() {
           isGrading={isGrading}
           onExit={() => setGameState("grade-select")}
           onPrint={handlePrintBlank}
-          userName={user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || ui?.guest || 'Vendég'}
-          dateLocale={ui?.dateLocale || 'hu-HU'}
-          exitLabel={ui?.exit || 'Kilépés'}
+          userName={user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || ui?.guest || 'Guest'}
+          dateLocale={ui?.dateLocale || 'en-US'}
+          exitLabel={ui?.exit || 'Exit'}
         >
           <div>
           <div className="relative max-w-lg mx-auto" style={{ borderLeft: "2px solid rgba(220, 100, 100, 0.4)" }}>
@@ -1469,7 +1538,7 @@ export default function MathTestPage() {
                 <KlassenarbeitHeader
                   grade={selectedGrade}
                   studentName={user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || undefined}
-                  subject={country?.name === "Hungary" ? "Matematika" : country?.name === "Germany" ? "Mathematik" : country?.name === "Romania" ? "Matematică" : "Mathematics"}
+                  subject={ui?.subject || "Mathematics"}
                   startTime={Date.now()}
                 />
               ) : null}
@@ -1483,6 +1552,7 @@ export default function MathTestPage() {
                   isGrading={isGrading}
                   gradeIndex={gradingIndex}
                   testId={`ka_${selectedGrade}_${testType}`}
+                  countryCode={country?.code}
                 />
               )}
 
@@ -1514,7 +1584,7 @@ export default function MathTestPage() {
                       >
                         <h3 className="text-sm font-black text-gray-700 uppercase tracking-wider">
                           {currentSection}
-                          {question.maxPoints && <span className="ml-2 text-gray-500 font-normal">({question.maxPoints} pont)</span>}
+                          {question.maxPoints && <span className="ml-2 text-gray-500 font-normal">({question.maxPoints} {ui?.pointsUnit || 'pts'})</span>}
                         </h3>
                       </motion.div>
                     )}
@@ -1535,6 +1605,7 @@ export default function MathTestPage() {
                       }}
                       testId={`test_${selectedGrade}_${testType}`}
                       questionId={`q_${qi}`}
+                      countryCode={country?.code}
                     />
 
                     {/* Inline grading pencil - shows on the question currently being graded */}
@@ -1572,8 +1643,9 @@ export default function MathTestPage() {
               {/* Inline teacher note - appears on the test paper after all questions are graded */}
               {showTeacherNote && (
                 <InlineTeacherNote
-                  playerName={user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || 'Schüler'}
+                  playerName={user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || ''}
                   percentage={teacherNoteScore}
+                  countryCode={country?.code}
                 />
               )}
             </div>
@@ -1602,7 +1674,7 @@ export default function MathTestPage() {
                   whileHover={answers.every((a) => a !== null) ? { scale: 1.05, boxShadow: "0 0 30px rgba(37, 99, 235, 0.6)" } : {}}
                   whileTap={answers.every((a) => a !== null) ? { scale: 0.95 } : {}}
                 >
-                  {ui?.submit || 'Absenden'}
+                  {ui?.submit || 'Submit'}
                 </motion.button>
               </motion.div>
             )}
@@ -1677,27 +1749,36 @@ export default function MathTestPage() {
               >
                 {/* Note display */}
                 <div className="text-center">
-                  <div
-                    className="text-8xl font-black mb-3"
-                    style={{ color: klassenarbeitResult.note.color }}
-                  >
-                    {klassenarbeitResult.note.emoji} {klassenarbeitResult.note.value}
-                  </div>
-                  <p
-                    className="text-3xl font-black"
-                    style={{ color: klassenarbeitResult.note.color }}
-                  >
-                    {klassenarbeitResult.note.label}
-                  </p>
+                  {(() => {
+                    const isEN = country?.code === 'US' || country?.code === 'GB';
+                    const v = klassenarbeitResult.note.value;
+                    const display = isEN ? ['','A','B','C','D','F','F'][v] : String(v);
+                    const labels: Record<string, string[]> = {
+                      EN: ['','Excellent','Good','Satisfactory','Adequate','Poor','Failing'],
+                      HU: ['','Jeles','Jó','Közepes','Elégséges','Elégtelen','Elégtelen'],
+                      RO: ['','Excelent','Bine','Satisfăcător','Suficient','Insuficient','Insuficient'],
+                    };
+                    const cc = country?.code ?? '';
+                    const langKey = (cc === 'US' || cc === 'GB') ? 'EN' : cc === 'RO' ? 'RO' : cc === 'HU' ? 'HU' : null;
+                    const label = langKey ? labels[langKey][v] : klassenarbeitResult.note.label;
+                    return (<>
+                      <div className="text-8xl font-black mb-3" style={{ color: klassenarbeitResult.note.color }}>
+                        {klassenarbeitResult.note.emoji} {display}
+                      </div>
+                      <p className="text-3xl font-black" style={{ color: klassenarbeitResult.note.color }}>
+                        {label}
+                      </p>
+                    </>);
+                  })()}
                   <p className="text-white/60 text-sm mt-2">
-                    {klassenarbeitResult.totalPoints}/{klassenarbeitResult.maxTotalPoints} Pont ({klassenarbeitResult.percentage}%)
+                    {klassenarbeitResult.totalPoints}/{klassenarbeitResult.maxTotalPoints} {ui?.pointsUnit || 'pts'} ({klassenarbeitResult.percentage}%)
                   </p>
                 </div>
 
                 {/* Stars earned */}
                 {klassenarbeitResult.starsEarned > 0 && (
                   <p className="text-yellow-400 text-lg font-bold">
-                    {klassenarbeitResult.note.emoji} +{klassenarbeitResult.starsEarned} csillag
+                    {klassenarbeitResult.note.emoji} +{klassenarbeitResult.starsEarned} {ui?.starUnit || 'star'}
                   </p>
                 )}
               </motion.div>
@@ -1743,12 +1824,12 @@ export default function MathTestPage() {
                 {gradeResult.score}/{gradeResult.total} ({gradeResult.percentage}%)
               </p>
               <p className="text-white/30 text-xs mt-1 font-mono">
-                {country?.gradeLabel(selectedGrade!) || `${selectedGrade}. osztály`} &bull;{" "}
+                {country?.gradeLabel(selectedGrade!) || `${selectedGrade}. ${ui?.classLabel || 'class'}`} &bull;{" "}
                 {Math.floor(elapsedTime / 60)}:{(elapsedTime % 60).toString().padStart(2, "0")}
               </p>
               {serverResult && serverResult.stars_earned > 0 && (
                 <p className="text-yellow-400 text-sm mt-2 font-bold">
-                  +{serverResult.stars_earned} star &bull; +{serverResult.xp_earned} XP
+                  +{serverResult.stars_earned} {ui?.starUnit || 'star'} &bull; +{serverResult.xp_earned} XP
                 </p>
               )}
             </motion.div>
@@ -1815,7 +1896,7 @@ export default function MathTestPage() {
               const now = new Date();
               const dateStr = `${now.getDate().toString().padStart(2, "0")}.${(now.getMonth() + 1).toString().padStart(2, "0")}.${now.getFullYear()}`;
               generateTestPdf({
-                gradeLevel: country?.gradeLabel(selectedGrade!) || `${selectedGrade}. Klasse`,
+                gradeLevel: country?.gradeLabel(selectedGrade!) || `${selectedGrade}. ${ui?.classLabel || 'class'}`,
                 testType: testType === "klassenarbeit" ? "klassenarbeit" : "practice",
                 date: dateStr,
                 elapsedTime,
@@ -1824,6 +1905,7 @@ export default function MathTestPage() {
                 gradeResult,
                 klassenarbeitResult: klassenarbeitResult || undefined,
                 studentName: user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || undefined,
+                countryCode: country?.code,
               });
             }}
             className="flex-1 py-3 rounded-xl border-2 border-sky-400/40 text-sky-400 font-bold text-sm flex items-center justify-center gap-2"

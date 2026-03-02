@@ -7,39 +7,172 @@ interface TeacherNoteProps {
   visible: boolean;
   playerName: string;
   percentage: number;
+  countryCode?: string;
 }
 
-// ─── 21 üzenet 3 szintben ─────────────────────────────────────────
+// ─── Language helper ──────────────────────────────────────────────
+type Lang = 'DE' | 'EN' | 'HU' | 'RO';
+function getLang(cc?: string): Lang {
+  if (cc === 'US' || cc === 'GB') return 'EN';
+  if (cc === 'DE' || cc === 'AT' || cc === 'CH') return 'DE';
+  if (cc === 'RO') return 'RO';
+  return 'HU';
+}
 
-const excellentMessages = [
-  (n: string) => `Bravo, ${n}! ✨ Ausgezeichnet!`,
-  (n: string) => `${n}, du bist ein Mathegenie! 🧠`,
-  (n: string) => `Wunderbar, ${n}! Ich bin so stolz! 🌟`,
-  (n: string) => `Fantastisch, ${n}! Weiter so! 🚀`,
-  (n: string) => `Super gemacht, ${n}! Top-Leistung! 🏆`,
-  (n: string) => `Klasse, ${n}! Du hast alles drauf! 💫`,
-  (n: string) => `Sehr gut, ${n}! Eine echte Spitzenleistung! ⭐`,
-];
+// ─── Messages per language ────────────────────────────────────────
+const MESSAGES: Record<Lang, { excellent: ((n: string) => string)[]; good: ((n: string) => string)[]; improve: ((n: string) => string)[] }> = {
+  DE: {
+    excellent: [
+      (n) => `Bravo, ${n}! ✨ Ausgezeichnet!`,
+      (n) => `${n}, du bist ein Mathegenie! 🧠`,
+      (n) => `Wunderbar, ${n}! Ich bin so stolz! 🌟`,
+      (n) => `Fantastisch, ${n}! Weiter so! 🚀`,
+      (n) => `Super gemacht, ${n}! Top-Leistung! 🏆`,
+      (n) => `Klasse, ${n}! Du hast alles drauf! 💫`,
+      (n) => `Sehr gut, ${n}! Eine echte Spitzenleistung! ⭐`,
+    ],
+    good: [
+      (n) => `Gut gemacht, ${n}! Üb weiter! 📚`,
+      (n) => `${n}, du bist auf dem richtigen Weg! 🌈`,
+      (n) => `Nicht schlecht, ${n}! Du kannst noch mehr! 💪`,
+      (n) => `Weiter so, ${n}! Du wirst immer besser! 📈`,
+      (n) => `Prima, ${n}! Ich glaube an dich! 🌻`,
+      (n) => `Ordentlich, ${n}! Ein bisschen mehr üben! 🎯`,
+      (n) => `Brav gemacht, ${n}! Du schaffst es! 🌺`,
+    ],
+    improve: [
+      (n) => `Üb weiter, ${n}! Du schaffst das! 💪`,
+      (n) => `Nicht aufgeben, ${n}! Jeder lernt! 🌱`,
+      (n) => `${n}, versuche es nochmal! Ich glaube an dich! 🌟`,
+      (n) => `Kopf hoch, ${n}! Beim nächsten Mal klappt es! 🌈`,
+      (n) => `${n}, üben macht den Meister! Weiter so! 📚`,
+      (n) => `Kein Problem, ${n}! Wir üben zusammen! 🤝`,
+      (n) => `${n}, du gibst nicht auf! Das ist toll! 🌻`,
+    ],
+  },
+  EN: {
+    excellent: [
+      (n) => `Bravo, ${n}! ✨ Outstanding!`,
+      (n) => `${n}, you're a math genius! 🧠`,
+      (n) => `Wonderful, ${n}! I'm so proud! 🌟`,
+      (n) => `Fantastic, ${n}! Keep it up! 🚀`,
+      (n) => `Great work, ${n}! Top performance! 🏆`,
+      (n) => `Excellent, ${n}! You've got it all! 💫`,
+      (n) => `Very well done, ${n}! A true star! ⭐`,
+    ],
+    good: [
+      (n) => `Good job, ${n}! Keep practicing! 📚`,
+      (n) => `${n}, you're on the right track! 🌈`,
+      (n) => `Not bad, ${n}! You can do even more! 💪`,
+      (n) => `Keep going, ${n}! You're improving! 📈`,
+      (n) => `Nice work, ${n}! I believe in you! 🌻`,
+      (n) => `Solid effort, ${n}! A little more practice! 🎯`,
+      (n) => `Well done, ${n}! You can do it! 🌺`,
+    ],
+    improve: [
+      (n) => `Keep practicing, ${n}! You'll get there! 💪`,
+      (n) => `Don't give up, ${n}! Everyone learns! 🌱`,
+      (n) => `${n}, try again! I believe in you! 🌟`,
+      (n) => `Chin up, ${n}! Next time will be better! 🌈`,
+      (n) => `${n}, practice makes perfect! Keep going! 📚`,
+      (n) => `No problem, ${n}! We'll practice together! 🤝`,
+      (n) => `${n}, you didn't give up! That's great! 🌻`,
+    ],
+  },
+  HU: {
+    excellent: [
+      (n) => `Brávó, ${n}! ✨ Remek munka!`,
+      (n) => `${n}, te igazi matek zseni vagy! 🧠`,
+      (n) => `Csodálatos, ${n}! Nagyon büszke vagyok rád! 🌟`,
+      (n) => `Fantasztikus, ${n}! Csak így tovább! 🚀`,
+      (n) => `Szuper, ${n}! Kiváló teljesítmény! 🏆`,
+      (n) => `Nagyszerű, ${n}! Mindent tud! 💫`,
+      (n) => `Nagyon jó, ${n}! Valódi sztárteljesítmény! ⭐`,
+    ],
+    good: [
+      (n) => `Jó munka, ${n}! Gyakorolj tovább! 📚`,
+      (n) => `${n}, jó úton jársz! 🌈`,
+      (n) => `Nem rossz, ${n}! Még több is kitelik tőled! 💪`,
+      (n) => `Csak így tovább, ${n}! Egyre jobb leszel! 📈`,
+      (n) => `Szép, ${n}! Hiszek benned! 🌻`,
+      (n) => `Rendesen, ${n}! Egy kicsit még gyakorolj! 🎯`,
+      (n) => `Ügyesen, ${n}! Sikerülni fog! 🌺`,
+    ],
+    improve: [
+      (n) => `Gyakorolj tovább, ${n}! Sikerülni fog! 💪`,
+      (n) => `Ne add fel, ${n}! Mindenki tanul! 🌱`,
+      (n) => `${n}, próbáld meg újra! Hiszek benned! 🌟`,
+      (n) => `Tartsd a fejed, ${n}! Legközelebb menni fog! 🌈`,
+      (n) => `${n}, a gyakorlat teszi a mestert! 📚`,
+      (n) => `Semmi gond, ${n}! Együtt tanulunk! 🤝`,
+      (n) => `${n}, nem adtad fel! Ez nagyszerű! 🌻`,
+    ],
+  },
+  RO: {
+    excellent: [
+      (n) => `Bravo, ${n}! ✨ Excelent!`,
+      (n) => `${n}, ești un geniu la matematică! 🧠`,
+      (n) => `Minunat, ${n}! Sunt atât de mândru! 🌟`,
+      (n) => `Fantastic, ${n}! Continuă tot așa! 🚀`,
+      (n) => `Super, ${n}! Performanță de top! 🏆`,
+      (n) => `Excelent, ${n}! Le știi pe toate! 💫`,
+      (n) => `Foarte bine, ${n}! O adevărată stea! ⭐`,
+    ],
+    good: [
+      (n) => `Bine, ${n}! Continuă să exersezi! 📚`,
+      (n) => `${n}, ești pe drumul cel bun! 🌈`,
+      (n) => `Nu e rău, ${n}! Poți și mai mult! 💪`,
+      (n) => `Continuă, ${n}! Te îmbunătățești! 📈`,
+      (n) => `Frumos, ${n}! Cred în tine! 🌻`,
+      (n) => `Corect, ${n}! Mai puțin exercițiu! 🎯`,
+      (n) => `Bun, ${n}! Poți reuși! 🌺`,
+    ],
+    improve: [
+      (n) => `Exersează, ${n}! O să reușești! 💪`,
+      (n) => `Nu renunța, ${n}! Toți învățăm! 🌱`,
+      (n) => `${n}, mai încearcă! Cred în tine! 🌟`,
+      (n) => `Ține capul sus, ${n}! Data viitoare va fi mai bine! 🌈`,
+      (n) => `${n}, practica face perfectul! 📚`,
+      (n) => `Nicio problemă, ${n}! Exersăm împreună! 🤝`,
+      (n) => `${n}, nu ai renunțat! Asta e grozav! 🌻`,
+    ],
+  },
+};
 
-const goodMessages = [
-  (n: string) => `Gut gemacht, ${n}! Üb weiter! 📚`,
-  (n: string) => `${n}, du bist auf dem richtigen Weg! 🌈`,
-  (n: string) => `Nicht schlecht, ${n}! Du kannst noch mehr! 💪`,
-  (n: string) => `Weiter so, ${n}! Du wirst immer besser! 📈`,
-  (n: string) => `Prima, ${n}! Ich glaube an dich! 🌻`,
-  (n: string) => `Ordentlich, ${n}! Ein bisschen mehr üben! 🎯`,
-  (n: string) => `Brav gemacht, ${n}! Du schaffst es! 🌺`,
-];
+const NOTE_LABELS: Record<Lang, Record<number, string>> = {
+  DE: { 1: 'Sehr gut', 2: 'Gut', 3: 'Befriedigend', 4: 'Ausreichend', 5: 'Mangelhaft', 6: 'Ungenügend' },
+  EN: { 1: 'Excellent', 2: 'Good', 3: 'Satisfactory', 4: 'Adequate', 5: 'Poor', 6: 'Failing' },
+  HU: { 1: 'Jeles', 2: 'Jó', 3: 'Közepes', 4: 'Elégséges', 5: 'Elégtelen', 6: 'Elégtelen' },
+  RO: { 1: 'Excelent', 2: 'Bine', 3: 'Satisfăcător', 4: 'Suficient', 5: 'Insuficient', 6: 'Insuficient' },
+};
 
-const improvementMessages = [
-  (n: string) => `Üb weiter, ${n}! Du schaffst das! 💪`,
-  (n: string) => `Nicht aufgeben, ${n}! Jeder lernt! 🌱`,
-  (n: string) => `${n}, versuche es nochmal! Ich glaube an dich! 🌟`,
-  (n: string) => `Kopf hoch, ${n}! Beim nächsten Mal klappt es! 🌈`,
-  (n: string) => `${n}, üben macht den Meister! Weiter so! 📚`,
-  (n: string) => `Kein Problem, ${n}! Wir üben zusammen! 🤝`,
-  (n: string) => `${n}, du gibst nicht auf! Das ist toll! 🌻`,
-];
+const NOTE_WORD: Record<Lang, string> = { DE: 'Note', EN: 'Grade', HU: 'Jegy', RO: 'Nota' };
+const TEACHER_LABEL: Record<Lang, string> = { DE: 'Lehrerin', EN: 'Teacher', HU: 'Tanár', RO: 'Profesor' };
+const WRITING_LABEL: Record<Lang, string> = { DE: 'Lehrerin schreibt...', EN: 'Teacher is writing...', HU: 'A tanár ír...', RO: 'Profesorul scrie...' };
+const STUDENT_FALLBACK: Record<Lang, string> = { DE: 'Schüler', EN: 'Student', HU: 'Tanuló', RO: 'Elev' };
+const DATE_LOCALE: Record<Lang, string> = { DE: 'de-DE', EN: 'en-US', HU: 'hu-HU', RO: 'ro-RO' };
+
+function getMessage(percentage: number, playerName: string, lang: Lang): string {
+  const seed = Math.floor(Date.now() / 10000) % 7;
+  const pool = MESSAGES[lang];
+  if (percentage >= 85) return pool.excellent[seed](playerName);
+  if (percentage >= 55) return pool.good[seed](playerName);
+  return pool.improve[seed](playerName);
+}
+
+function getNoteValue(percentage: number): number {
+  if (percentage >= 90) return 1;
+  if (percentage >= 80) return 2;
+  if (percentage >= 65) return 3;
+  if (percentage >= 50) return 4;
+  if (percentage >= 30) return 5;
+  return 6;
+}
+
+function getNoteColor(note: number): string {
+  const colors: Record<number, string> = { 1: '#16a34a', 2: '#2563eb', 3: '#d97706', 4: '#ea580c', 5: '#dc2626', 6: '#7c3aed' };
+  return colors[note] || '#374151';
+}
 
 const SmileGood = () => (
   <svg width="48" height="48" viewBox="0 0 48 48" fill="none">
@@ -71,7 +204,6 @@ const SmileSad = () => (
   </svg>
 );
 
-// Pencil SVG for writing animation
 const PencilIcon = () => (
   <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
     <path d="M17 3a2.828 2.828 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"
@@ -79,32 +211,6 @@ const PencilIcon = () => (
     <path d="M15 5l4 4" stroke="#92400e" strokeWidth="1.5"/>
   </svg>
 );
-
-function getMessage(percentage: number, playerName: string): string {
-  const seed = Math.floor(Date.now() / 10000) % 7;
-  if (percentage >= 85) return excellentMessages[seed](playerName);
-  if (percentage >= 55) return goodMessages[seed](playerName);
-  return improvementMessages[seed](playerName);
-}
-
-function getNoteValue(percentage: number): number {
-  if (percentage >= 90) return 1;
-  if (percentage >= 80) return 2;
-  if (percentage >= 65) return 3;
-  if (percentage >= 50) return 4;
-  if (percentage >= 30) return 5;
-  return 6;
-}
-
-function getNoteLabel(note: number): string {
-  const labels: Record<number, string> = { 1: 'Sehr gut', 2: 'Gut', 3: 'Befriedigend', 4: 'Ausreichend', 5: 'Mangelhaft', 6: 'Ungenügend' };
-  return labels[note] || '';
-}
-
-function getNoteColor(note: number): string {
-  const colors: Record<number, string> = { 1: '#16a34a', 2: '#2563eb', 3: '#d97706', 4: '#ea580c', 5: '#dc2626', 6: '#7c3aed' };
-  return colors[note] || '#374151';
-}
 
 function RuledLines() {
   return (
@@ -125,16 +231,17 @@ function RuledLines() {
 
 // ─── INLINE VERSION (renders on the test paper) ───────────────────────────────
 
-export function InlineTeacherNote({ playerName, percentage }: { playerName: string; percentage: number }) {
-  const message = getMessage(percentage, playerName || 'Schüler');
+export function InlineTeacherNote({ playerName, percentage, countryCode }: { playerName: string; percentage: number; countryCode?: string }) {
+  const lang = getLang(countryCode);
+  const name = playerName || STUDENT_FALLBACK[lang];
+  const message = getMessage(percentage, name, lang);
   const isExcellent = percentage >= 85;
   const isGood = percentage >= 55;
   const Smiley = isExcellent ? SmileGood : isGood ? SmileOk : SmileSad;
   const noteValue = getNoteValue(percentage);
-  const noteLabel = getNoteLabel(noteValue);
+  const noteLabel = NOTE_LABELS[lang][noteValue];
   const noteColor = getNoteColor(noteValue);
 
-  // Phase sequence: pencil (2s) → note appears with slow handwriting
   const [phase, setPhase] = useState<'writing' | 'done'>('writing');
   useEffect(() => {
     const t = setTimeout(() => setPhase('done'), 2200);
@@ -143,8 +250,6 @@ export function InlineTeacherNote({ playerName, percentage }: { playerName: stri
 
   const [firstPart, ...rest] = message.split('!');
   const secondPart = rest.join('!').trim();
-
-  // Estimate writing duration: ~60 chars/s feels natural for handwriting
   const firstDuration = Math.max(1.2, (firstPart.length + 1) / 18);
   const secondDuration = secondPart ? Math.max(0.8, secondPart.length / 18) : 0;
 
@@ -178,7 +283,7 @@ export function InlineTeacherNote({ playerName, percentage }: { playerName: stri
               animate={{ opacity: [1, 0.4, 1] }}
               transition={{ duration: 1.4, repeat: Infinity }}
             >
-              Lehrerin schreibt...
+              {WRITING_LABEL[lang]}
             </motion.span>
           </motion.div>
         )}
@@ -215,7 +320,6 @@ export function InlineTeacherNote({ playerName, percentage }: { playerName: stri
                 >
                   <Smiley />
                 </motion.div>
-                {/* Grade circle */}
                 <motion.div
                   initial={{ scale: 0 }}
                   animate={{ scale: 1 }}
@@ -240,20 +344,18 @@ export function InlineTeacherNote({ playerName, percentage }: { playerName: stri
                   transition={{ delay: 0.1 }}
                   style={{ fontFamily: "'Caveat', cursive", fontSize: 12, color: '#9ca3af', marginBottom: 3, letterSpacing: 1 }}
                 >
-                  Lehrerin:
+                  {TEACHER_LABEL[lang]}:
                 </motion.p>
 
-                {/* Note label */}
                 <motion.p
                   initial={{ clipPath: 'inset(0 100% 0 0)', opacity: 0 }}
                   animate={{ clipPath: 'inset(0 0% 0 0)', opacity: 1 }}
                   transition={{ delay: 0.3, duration: 0.7, ease: 'easeOut' }}
                   style={{ fontFamily: "'Caveat', cursive", fontSize: 14, color: noteColor, fontWeight: 700, marginBottom: 2 }}
                 >
-                  Note: {noteValue} – {noteLabel}
+                  {NOTE_WORD[lang]}: {noteValue} – {noteLabel}
                 </motion.p>
 
-                {/* Main message line 1 - slow handwriting */}
                 <motion.p
                   initial={{ clipPath: 'inset(0 100% 0 0)' }}
                   animate={{ clipPath: 'inset(0 0% 0 0)' }}
@@ -288,7 +390,7 @@ export function InlineTeacherNote({ playerName, percentage }: { playerName: stri
                   transition={{ delay: 0.7 + firstDuration + secondDuration + 0.6 }}
                   style={{ fontFamily: "'Caveat', cursive", fontSize: 13, color: '#6b7280', marginTop: 5 }}
                 >
-                  {percentage}% — {new Date().toLocaleDateString('de-DE')}
+                  {percentage}% — {new Date().toLocaleDateString(DATE_LOCALE[lang])}
                 </motion.p>
               </div>
             </div>
@@ -301,8 +403,10 @@ export function InlineTeacherNote({ playerName, percentage }: { playerName: stri
 
 // ─── POPUP VERSION (legacy, kept for compatibility) ───────────────────────────
 
-export default function TeacherNote({ visible, playerName, percentage }: TeacherNoteProps) {
-  const message = getMessage(percentage, playerName || 'Schüler');
+export default function TeacherNote({ visible, playerName, percentage, countryCode }: TeacherNoteProps) {
+  const lang = getLang(countryCode);
+  const name = playerName || STUDENT_FALLBACK[lang];
+  const message = getMessage(percentage, name, lang);
   const isExcellent = percentage >= 85;
   const isGood = percentage >= 55;
   const Smiley = isExcellent ? SmileGood : isGood ? SmileOk : SmileSad;
@@ -346,7 +450,7 @@ export default function TeacherNote({ visible, playerName, percentage }: Teacher
               <div style={{ flex: 1 }}>
                 <motion.p initial={{ opacity: 0, x: -10 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: 0.2 }}
                   style={{ fontFamily: "'Caveat', cursive", fontSize: 13, color: '#9ca3af', marginBottom: 4, letterSpacing: 1 }}>
-                  Lehrerin:
+                  {TEACHER_LABEL[lang]}:
                 </motion.p>
                 <motion.p
                   initial={{ opacity: 0, clipPath: 'inset(0 100% 0 0)' }}
@@ -366,7 +470,7 @@ export default function TeacherNote({ visible, playerName, percentage }: Teacher
                 )}
                 <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1.7 }}
                   style={{ fontFamily: "'Caveat', cursive", fontSize: 15, color: '#6b7280', marginTop: 6 }}>
-                  {percentage}% — {new Date().toLocaleDateString('hu-HU')}
+                  {percentage}% — {new Date().toLocaleDateString(DATE_LOCALE[lang])}
                 </motion.p>
               </div>
             </div>

@@ -39,6 +39,14 @@ export interface CountryConfig {
     exit: string;
     topicAreas: string;
     dateLocale: string;
+    // PDF & result screen translations
+    subject: string;       // Math subject name for PDF header
+    pointsUnit: string;    // "pont" / "Punkte" / "pts"
+    starUnit: string;      // "csillag" / "Stern" / "star"
+    scoreLabel: string;    // "Eredmény" / "Ergebnis" / "Score"
+    nameLabel: string;     // "Név" / "Name" / "Name"
+    classFieldLabel: string; // "Osztály" / "Klasse" / "Class"
+    dateLabel: string;     // "Dátum" / "Datum" / "Date"
   };
 }
 
@@ -80,6 +88,13 @@ const HU: CountryConfig = {
     exit: "Kilépés",
     topicAreas: "Tématerületek",
     dateLocale: "hu-HU",
+    subject: "MATEMATIKA DOLGOZAT",
+    pointsUnit: "pont",
+    starUnit: "csillag",
+    scoreLabel: "Eredmény",
+    nameLabel: "Név",
+    classFieldLabel: "Osztály",
+    dateLabel: "Dátum",
   },
 };
 
@@ -124,6 +139,13 @@ const US: CountryConfig = {
     exit: "Exit",
     topicAreas: "Topic areas",
     dateLocale: "en-US",
+    subject: "MATH TEST",
+    pointsUnit: "pts",
+    starUnit: "star",
+    scoreLabel: "Score",
+    nameLabel: "Name",
+    classFieldLabel: "Class",
+    dateLabel: "Date",
   },
 };
 
@@ -167,6 +189,13 @@ const DE: CountryConfig = {
     exit: "Beenden",
     topicAreas: "Themenbereiche",
     dateLocale: "de-DE",
+    subject: "MATHEMATIK ARBEIT",
+    pointsUnit: "Pkt.",
+    starUnit: "Stern",
+    scoreLabel: "Ergebnis",
+    nameLabel: "Name",
+    classFieldLabel: "Klasse",
+    dateLabel: "Datum",
   },
 };
 
@@ -209,6 +238,13 @@ const GB: CountryConfig = {
     exit: "Exit",
     topicAreas: "Topic areas",
     dateLocale: "en-GB",
+    subject: "MATHS TEST",
+    pointsUnit: "pts",
+    starUnit: "star",
+    scoreLabel: "Score",
+    nameLabel: "Name",
+    classFieldLabel: "Class",
+    dateLabel: "Date",
   },
 };
 
@@ -253,6 +289,13 @@ const RO: CountryConfig = {
     exit: "Ieșire",
     topicAreas: "Domenii tematice",
     dateLocale: "ro-RO",
+    subject: "TEST DE MATEMATICĂ",
+    pointsUnit: "pct.",
+    starUnit: "stea",
+    scoreLabel: "Rezultat",
+    nameLabel: "Nume",
+    classFieldLabel: "Clasa",
+    dateLabel: "Data",
   },
 };
 

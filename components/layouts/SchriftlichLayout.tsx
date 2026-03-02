@@ -15,6 +15,7 @@ interface SchriftlichLayoutProps {
   isGrading?: boolean;
   disabled?: boolean;
   workSpaceLines?: number;
+  countryCode?: string;
 }
 
 export default function SchriftlichLayout({
@@ -29,8 +30,12 @@ export default function SchriftlichLayout({
   isGrading = false,
   disabled = false,
   workSpaceLines = 4,
+  countryCode,
 }: SchriftlichLayoutProps) {
   const isCorrect = Number(value) === correctAnswer;
+  const isEN = countryCode === 'US' || countryCode === 'GB';
+  const correctWord = isEN ? 'Correct!' : countryCode === 'HU' ? 'Helyes!' : countryCode === 'RO' ? 'Corect!' : 'Richtig!';
+  const wrongPrefix = isEN ? 'Wrong. Correct answer:' : countryCode === 'HU' ? 'Helytelen. Helyes válasz:' : countryCode === 'RO' ? 'Greșit. Răspuns corect:' : 'Falsch. Richtige Antwort:';
   const operationSymbol = operation === "*" ? "×" : operation === "/" ? "÷" : operation;
 
   return (
@@ -114,13 +119,13 @@ export default function SchriftlichLayout({
             {isCorrect ? (
               <>
                 <Check size={16} className="text-green-600" />
-                <span className="text-xs text-green-600 font-bold">Richtig!</span>
+                <span className="text-xs text-green-600 font-bold">{correctWord}</span>
               </>
             ) : (
               <>
                 <X size={16} className="text-red-600" />
                 <span className="text-xs text-red-600 font-bold">
-                  Falsch. Richtige Antwort: <strong>{correctAnswer}</strong>
+                  {wrongPrefix} <strong>{correctAnswer}</strong>
                 </span>
               </>
             )}
