@@ -677,9 +677,15 @@ export default function MathTestPage() {
     setKlassenarbeitResult(null);
     setSupabaseCurriculum(null);
 
-    // EN: skip theme-select, generate English questions directly
+    // EN: skip theme-select, generate 15 English questions directly
     if (country?.code === "US" || country?.code === "GB") {
-      const qs = generateKlassenarbeit(grade, undefined, country.code);
+      const cc = country.code;
+      const pool = [...generateTest(grade, undefined, cc), ...generateKlassenarbeit(grade, undefined, cc)];
+      const seen = new Set<string>();
+      const qs: typeof pool = [];
+      for (const q of pool) {
+        if (!seen.has(q.question) && qs.length < 15) { seen.add(q.question); qs.push(q); }
+      }
       setQuestions(qs);
       setAnswers(new Array(qs.length).fill(null));
       setRealisticKlassenarbeit(null);

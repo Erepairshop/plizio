@@ -1066,9 +1066,9 @@ const items: Record<Lang, WordItems> = {
     shoe: "Schuh", laptop: "Laptop", red: "rote", blue: "blaue",
   },
   EN: {
-    fruits: ["apple", "pear", "banana", "orange"],
-    toys: ["marble", "ball", "card", "toy car"],
-    sweets: ["cake", "candy", "chocolate", "cookie"],
+    fruits: ["apples", "pears", "bananas", "oranges"],
+    toys: ["marbles", "balls", "cards", "toy cars"],
+    sweets: ["cakes", "candies", "chocolates", "cookies"],
     colors: ["red", "blue"],
     pencil: "pencil", notebook: "notebook", eraser: "eraser", book: "book",
     sticker: "sticker", candy: "candy", marble: "marble",
