@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     ],
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: "PLIZIO - Free Online Browser Games",
     description:
       "Play free browser games instantly. Racing, quiz, memory, reflex games and more!",
@@ -66,6 +66,13 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: "https://plizio.com",
+    languages: {
+      hu: "https://plizio.com/hu/",
+      de: "https://plizio.com/de/",
+      en: "https://plizio.com/en/",
+      ro: "https://plizio.com/ro/",
+      "x-default": "https://plizio.com/",
+    },
   },
   verification: {
     google: "355ioFFi82RnTG_QoH-vBz7QMNb_yxejYmB1ay6Dw4k",
@@ -80,13 +87,27 @@ export const viewport: Viewport = {
   userScalable: false,
 };
 
+const websiteJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "PLIZIO",
+  url: "https://plizio.com",
+  description:
+    "Free online browser games - play instantly, no download needed. Brain games, educational games, school tests, and more.",
+  potentialAction: {
+    "@type": "SearchAction",
+    target: "https://plizio.com/?q={search_term_string}",
+    "query-input": "required name=search_term_string",
+  },
+};
+
 export default function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
   return (
-    <html lang="hu">
+    <html lang="en">
       <head>
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-BR2WCCRFG0" />
         <script
@@ -94,17 +115,16 @@ export default function RootLayout({
             __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-BR2WCCRFG0');`,
           }}
         />
-        {/* Hreflang – multilingual (HU/DE/EN/RO same URL, client-side lang switch) */}
-        <link rel="alternate" hrefLang="hu" href="https://plizio.com/" />
-        <link rel="alternate" hrefLang="de" href="https://plizio.com/" />
-        <link rel="alternate" hrefLang="en" href="https://plizio.com/" />
-        <link rel="alternate" hrefLang="ro" href="https://plizio.com/" />
-        <link rel="alternate" hrefLang="x-default" href="https://plizio.com/" />
         <link rel="apple-touch-icon" href="/icon-192.png" />
+        {/* Font: self-host Caveat for performance – files served from /public/fonts */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&display=swap" rel="stylesheet" />
         <meta name="mobile-web-app-capable" content="yes" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+        />
       </head>
       <body className="min-h-screen bg-bg antialiased">
         <LanguageProvider>

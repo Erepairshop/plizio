@@ -3,7 +3,7 @@
 import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useRouter } from "next/navigation";
-import { ArrowLeft, X, RotateCcw } from "lucide-react";
+import { ArrowLeft, X, RotateCcw, ChevronRight } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import type { Language } from "@/lib/language";
 import {
@@ -81,6 +81,8 @@ const T = {
     explorerDesc: "Felfedező badge: a kategória neve megjelenik!",
     trackerDesc: "Nyomkövető badge: a leggyakoribb betű feltárul!",
     keyDesc: "Kulcs badge: egy véletlenszerű betű feltárul!",
+    retry: "Újra próba",
+    expeditionMap: "Expedíció térkép",
   },
   de: {
     title: "KÓDEX EXPEDITION",
@@ -117,6 +119,8 @@ const T = {
     exitYes: "Ja, verlassen",
     exitNo: "Bleiben",
     vocalsDesc: "", shieldDesc: "", explorerDesc: "", trackerDesc: "", keyDesc: "",
+    retry: "Nochmal versuchen",
+    expeditionMap: "Expeditionskarte",
   },
   en: {
     title: "KÓDEX EXPEDITION",
@@ -153,6 +157,8 @@ const T = {
     exitYes: "Yes, exit",
     exitNo: "Stay",
     vocalsDesc: "", shieldDesc: "", explorerDesc: "", trackerDesc: "", keyDesc: "",
+    retry: "Try Again",
+    expeditionMap: "Expedition Map",
   },
   ro: {
     title: "EXPEDIȚIA KÓDEX",
@@ -189,6 +195,8 @@ const T = {
     exitYes: "Da, ieși",
     exitNo: "Rămân",
     vocalsDesc: "", shieldDesc: "", explorerDesc: "", trackerDesc: "", keyDesc: "",
+    retry: "Încearcă din nou",
+    expeditionMap: "Hartă expediție",
   },
 };
 
@@ -476,12 +484,13 @@ export default function KodexPage() {
     const collectedLetter = levelNum <= 9 ? (secretData.revealLetters[levelNum - 1] ?? "") : "";
     const badge = cfg.badgeReward ?? null;
 
+    const alreadyCompleted = exped.completedLevels.includes(levelNum);
     const newExped: ExpeditionSave = {
       ...exped,
-      currentLevel: levelNum + 1,
-      completedLevels: [...exped.completedLevels, levelNum],
-      collectedLetters: collectedLetter ? [...exped.collectedLetters, collectedLetter] : exped.collectedLetters,
-      earnedBadges: badge ? [...exped.earnedBadges, badge] : exped.earnedBadges,
+      currentLevel: Math.max(exped.currentLevel, levelNum + 1),
+      completedLevels: [...new Set([...exped.completedLevels, levelNum])],
+      collectedLetters: (collectedLetter && !alreadyCompleted) ? [...exped.collectedLetters, collectedLetter] : exped.collectedLetters,
+      earnedBadges: (badge && !alreadyCompleted) ? [...exped.earnedBadges, badge] : exped.earnedBadges,
     };
     saveExped(newExped);
 
@@ -725,13 +734,29 @@ export default function KodexPage() {
                     <span className="text-purple-300 font-black text-sm">{letter}</span>
                   </div>
                 )}
-                {!done && !locked && (
-                  <div className="flex items-center gap-0.5">
-                    {Array.from({ length: lc.lives }).map((_, i) => (
-                      <span key={i} className="text-[10px]">❤️</span>
-                    ))}
-                  </div>
-                )}
+                <div className="flex flex-col items-end gap-1">
+                  {!done && !locked && (
+                    <div className="flex items-center gap-0.5">
+                      {Array.from({ length: lc.lives }).map((_, i) => (
+                        <span key={i} className="text-[10px]">❤️</span>
+                      ))}
+                    </div>
+                  )}
+                  {!locked && (
+                    <button
+                      onClick={() => startLevel(lc.levelNum, exped)}
+                      className={`px-3 py-1.5 rounded-xl font-black text-xs transition-all active:scale-95 ${
+                        lc.levelNum === 10
+                          ? "bg-purple-500/20 border border-purple-400/40 text-purple-300"
+                          : current
+                          ? "bg-yellow-400 text-black shadow-[0_0_10px_rgba(250,204,21,0.4)]"
+                          : "bg-white/10 text-white/50"
+                      }`}
+                    >
+                      {done ? "↩" : <ChevronRight size={14} />}
+                    </button>
+                  )}
+                </div>
               </motion.div>
             );
           })}
@@ -752,16 +777,6 @@ export default function KodexPage() {
           </div>
         )}
 
-        {/* Start/Continue button */}
-        <motion.button
-          onClick={() => startLevel(exped.currentLevel, exped)}
-          className="mt-4 w-full py-4 rounded-2xl font-black text-black text-base tracking-wider"
-          style={{ background: "linear-gradient(135deg, #FFD700, #FF8C00)" }}
-          whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.97 }}
-          disabled={exped.currentLevel > 10}
-        >
-          {hasProgress ? `▶ ${t.continueBtn} — ${t.level} ${exped.currentLevel}` : `🚀 ${t.start}`}
-        </motion.button>
       </main>
     );
   }
@@ -870,21 +885,23 @@ export default function KodexPage() {
           <p className="text-white/25 text-xs">
             {t.answer} <span className="text-white/60 font-bold">{puzzle}</span>
           </p>
-          <motion.button
-            onClick={restartExpedition}
-            className="w-full py-4 rounded-2xl font-black text-black text-base"
-            style={{ background: "linear-gradient(135deg, #FF6B6B, #FF8C00)" }}
-            whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.97 }}
-          >
-            🔄 {t.restartExpedition}
-          </motion.button>
-          <motion.button
-            onClick={() => setScreen("expedition")}
-            className="text-white/30 text-sm"
-            whileTap={{ scale: 0.95 }}
-          >
-            Expedíció megtekintése
-          </motion.button>
+          <div className="flex flex-col gap-3 w-full">
+            <motion.button
+              onClick={() => startLevel(cfg.levelNum, exped)}
+              className="w-full py-4 rounded-2xl font-black text-white text-base shadow-[0_0_16px_rgba(255,107,107,0.4)]"
+              style={{ background: "linear-gradient(135deg, #FF6B6B, #FF8C00)" }}
+              whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.97 }}
+            >
+              🔄 {t.retry}
+            </motion.button>
+            <motion.button
+              onClick={() => setScreen("expedition")}
+              className="w-full py-3 rounded-2xl font-bold text-sm border border-white/15 text-white/40 bg-white/5"
+              whileTap={{ scale: 0.95 }}
+            >
+              📍 {t.expeditionMap}
+            </motion.button>
+          </div>
         </motion.div>
       </main>
     );

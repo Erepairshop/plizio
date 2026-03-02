@@ -81,6 +81,7 @@ import {
   saveCountry,
   type CountryConfig,
 } from "@/lib/mathLocale";
+import { getLanguage } from "@/lib/language";
 import {
   createTest as createSupabaseTest,
   startTest as startSupabaseTest,
@@ -419,7 +420,8 @@ export default function MathTestPage() {
 
   // Load saved country + grade on mount
   useEffect(() => {
-    const savedCode = getSavedCountry() || "DE";
+    const LANG_TO_COUNTRY: Record<string, string> = { hu: "HU", de: "DE", en: "US", ro: "RO" };
+    const savedCode = getSavedCountry() || LANG_TO_COUNTRY[getLanguage()] || "DE";
     setCountry(getCountryByCode(savedCode));
     if (savedCode) {
       setGameState("grade-select");

@@ -1,3 +1,4 @@
+import RelatedGames from "@/components/RelatedGames";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -68,9 +69,39 @@ export const metadata: Metadata = {
       "Practice real school math — test yourself with grade-appropriate questions in your own language! Supports English, German, Hungarian & Romanian curricula.",
     url: "https://plizio.com/mathtest",
   },
+  twitter: {
+    card: "summary_large_image",
+    title: "Free Math Test for Kids Grade 1-8 | PLIZIO",
+    description: "Grade 1–8 math tests with real school curriculum. Free, no signup!",
+    images: ["/icon-512.png"],
+  },
   alternates: { canonical: "https://plizio.com/mathtest" },
 };
 
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "VideoGame",
+  name: "Math Test",
+  description:
+    "Free online math test for kids in grades 1-8. Practice with real school curriculum questions in English, German, Hungarian, and Romanian.",
+  url: "https://plizio.com/mathtest",
+  genre: ["Educational", "Quiz", "Math"],
+  educationalLevel: ["Grade 1", "Grade 2", "Grade 3", "Grade 4", "Grade 5", "Grade 6", "Grade 7", "Grade 8"],
+  inLanguage: ["en", "de", "hu", "ro"],
+  operatingSystem: "Web Browser",
+  applicationCategory: "EducationalApplication",
+  offers: { "@type": "Offer", price: "0", priceCurrency: "USD" },
+};
+
 export default function Layout({ children }: { children: React.ReactNode }) {
-  return children;
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      {children}
+      <RelatedGames game="mathtest" />
+    </>
+  );
 }

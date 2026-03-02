@@ -1,3 +1,4 @@
+import RelatedGames from "@/components/RelatedGames";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -18,9 +19,38 @@ export const metadata: Metadata = {
       "Tap numbers 1 to 25 as fast as you can! Free browser-based speed game.",
     url: "https://plizio.com/numberrush",
   },
+  twitter: {
+    card: "summary_large_image",
+    title: "Number Rush - Free Number Speed Game | PLIZIO",
+    description: "Tap numbers 1 to 25 as fast as you can! Free browser speed game.",
+    images: ["/icon-512.png"],
+  },
   alternates: { canonical: "https://plizio.com/numberrush" },
 };
 
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "VideoGame",
+  name: "Number Rush",
+  description:
+    "A free online speed game where you tap numbers 1 to 25 in order as fast as possible. Train your brain and beat your best time.",
+  url: "https://plizio.com/numberrush",
+  genre: ["Arcade", "Speed", "Brain Game"],
+  inLanguage: ["en", "de", "hu", "ro"],
+  operatingSystem: "Web Browser",
+  applicationCategory: "Game",
+  offers: { "@type": "Offer", price: "0", priceCurrency: "USD" },
+};
+
 export default function Layout({ children }: { children: React.ReactNode }) {
-  return children;
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      {children}
+      <RelatedGames game="numberrush" />
+    </>
+  );
 }

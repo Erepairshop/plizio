@@ -267,6 +267,45 @@ Szabályok:
 - NE használj `cd`-t - a user már a `public_html`-ben van
 - Minden push után küldd el mindkét parancsot
 
+## SEO Módszertan (mindig kövesd!)
+
+### Minden új játék/oldal esetén:
+1. `app/<játék>/layout.tsx` → egyedi title, description, canonical, hreflang, JSON-LD (VideoGame séma)
+2. Ha SEO landing page → 800+ szó valódi tartalommal (ne placeholder!)
+3. `components/RelatedGames.tsx` → `RELATED_MAP`-be add hozzá az új játékot + melyik 4 játékra mutasson
+4. `public/sitemap-games.xml` → új `<url>` sor hozzáadva
+5. OG kép referencia a layout metadata-ban (`openGraph.images`)
+
+### Minden új SEO kategória/landing page-nél:
+- `layout.tsx` → CollectionPage JSON-LD + hreflang
+- `public/sitemap-categories.xml` → új sor
+- Cross-link a többi kategóriára (`/educational-games/`, `/brain-games/`, `/reflex-games/`)
+
+### Mathe-test bővítésnél (/deutsch-test/ stb.):
+- Ugyanaz a struktúra: hub + klasse-1..8 oldalak
+- `MatheTestKlasse`-hoz hasonló shared component
+- `public/sitemap-education.xml` → új sorok
+- hreflang: `de`, `de-AT`, `de-CH`, `x-default`
+
+### hreflang szabályok:
+- Játékok (multilang): `hu`, `de`, `en`, `ro`, `x-default`
+- Mathe-test (főleg DE): `de`, `de-AT`, `de-CH`, `x-default`
+- Kategória oldalak (EN): `en`, `x-default`
+
+### OG képek:
+- Script: `scripts/generate-og.mjs` → futtatsd `node scripts/generate-og.mjs` build előtt
+- Generált képek: `public/og/<oldalnev>.png`
+- Referencia a layout metadata-ban: `openGraph: { images: [{ url: "/og/<oldalnev>.png", width: 1200, height: 630 }] }`
+- **NE használj `opengraph-image.tsx`-et static exportnál** — font fetch miatt mindig elbukik
+
+### Blog struktúra:
+- Route: `app/blog/<slug>/page.tsx`
+- Minimum 800 szó valódi tartalom
+- FAQPage JSON-LD + BreadcrumbList kötelező
+- Belső link a kapcsolódó játékra/oldalra
+
+---
+
 ## Out mappa szinkron (public_html deploy)
 
 **FONTOS:** A felhasználó szerverén a fájlok a `public_html/` mappából futnak.
