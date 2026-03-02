@@ -663,20 +663,21 @@ export default function MathTestPage() {
     return () => { cancelled = true; };
   }, [country, selectedGrade]);
 
-  // Resolved themes: generator-based for all 4 languages
+  // Resolved themes:
+  // - EN/DE: generator-based (EN_THEMES / DE_THEMES)
+  // - RO: generator-based (Supabase RO has German content — overridden with proper Romanian)
+  // - HU: Supabase (has correct Hungarian topics) → falls through to supabaseCurriculum below
   const resolvedThemes = useMemo((): ThemeSelectorTheme[] => {
     const cc = country?.code;
     const langPrefix =
       cc === 'US' || cc === 'GB' ? 'en' :
       cc === 'DE' || cc === 'AT' || cc === 'CH' ? 'de' :
-      cc === 'HU' ? 'hu' :
-      cc === 'RO' ? 'ro' : null;
+      cc === 'RO' ? 'ro' : null;   // HU uses Supabase (correct topics already there)
 
     if (langPrefix && selectedGrade) {
       const srcThemes =
         langPrefix === 'en' ? getENThemes(selectedGrade) :
         langPrefix === 'de' ? getDEThemes(selectedGrade) :
-        langPrefix === 'hu' ? getHUThemes(selectedGrade) :
         getROThemes(selectedGrade);
       return srcThemes.map(theme => ({
         id: theme.key,
@@ -752,10 +753,11 @@ export default function MathTestPage() {
     localStorage.setItem("klassenarbeitStartTime", now.toString());
 
     try {
-      // ─── EN / DE / HU / RO: generator-based topic selection ─────
+      // ─── EN / DE / RO: generator-based topic selection ──────────
+      // HU uses Supabase curriculum topics (not generator-based)
       const generatorTopicIds = selectedSubtopics.filter(id =>
         id.startsWith('en_topic_') || id.startsWith('de_topic_') ||
-        id.startsWith('hu_topic_') || id.startsWith('ro_topic_')
+        id.startsWith('ro_topic_')
       );
       if (generatorTopicIds.length > 0) {
         const cc = country!.code;
