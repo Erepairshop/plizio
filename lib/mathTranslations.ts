@@ -978,6 +978,36 @@ export function qCoinProb(countryCode: string): string {
   }
 }
 
+export function qCoinProbTails(countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return "Du wirfst eine Münze. Wie hoch ist die Wahrscheinlichkeit (%) für Zahl?";
+    case "EN": return "You flip a coin. What is the probability (%) of tails?";
+    case "RO": return "Arunci o monedă. Care este probabilitatea (%) să fie pajură?";
+    default: return "Egy érmét feldobsz. Hány százalék eséllyel lesz írás?";
+  }
+}
+
+export function qDiceProbEven(countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return "Du wirfst einen Würfel. Wie hoch ist die Wahrscheinlichkeit (%), eine gerade Zahl zu würfeln?";
+    case "EN": return "You roll a dice. What is the probability (%) of rolling an even number?";
+    case "RO": return "Arunci un zar. Care este probabilitatea (%) să obții un număr par?";
+    default: return "Egy kockával dobsz. Hány százalék eséllyel dobsz páros számot?";
+  }
+}
+
+export function qDiceProbMore(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Du wirfst einen Würfel. Wie hoch ist die Wahrscheinlichkeit (%), eine Zahl größer als ${n} zu würfeln?`;
+    case "EN": return `You roll a dice. What is the probability (%) of rolling a number greater than ${n}?`;
+    case "RO": return `Arunci un zar. Care este probabilitatea (%) să obții un număr mai mare decât ${n}?`;
+    default: return `Egy kockával dobsz. Hány százalék eséllyel dobsz ${n}-nél nagyobb számot?`;
+  }
+}
+
 // ─── FUNCTIONS ─────────────────────────────
 
 export function qFunctionValue(m: number, b: number, x: number, countryCode: string): string {

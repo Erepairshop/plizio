@@ -22,7 +22,7 @@ import {
   wpDiscount, wpSavings, wpPriceIncrease, wpTravel, wpAvgSpeed,
   wpThinkNumber, wpNumberSquare,
   qPythHypotenuse, qPythLeg,
-  qBallProb, qDiceProb, qCoinProb,
+  qBallProb, qDiceProb, qCoinProb, qCoinProbTails, qDiceProbEven, qDiceProbMore,
   qFunctionValue, qYIntercept,
   qNextInSequence, qMissingInEquation,
   wpShelfRows, wpClassGroups, wpBuyMultiple, wpFruitTotal, wpCollectionDiff,
@@ -553,12 +553,19 @@ const G6: Record<string, Generator> = {
 const G7: Record<string, Generator> = {
   power2: (cc) => { const b = randInt(2, 10); return q(`${b}² = ?`, b * b, t("powers", cc)); },
   power3: (cc) => { const b = randInt(2, 5); return q(`${b}³ = ?`, b ** 3, t("powers", cc)); },
-  power10: (_cc) => q("10³ = ?", 1000, t("powers", _cc)),
+  power10: (cc) => {
+    const n = pick([2, 3, 4, 5]);
+    const sups = ['', '', '²', '³', '⁴', '⁵'];
+    return q(`10${sups[n]} = ?`, Math.pow(10, n), t("powers", cc));
+  },
   algebraSub: (cc) => {
     const a = randInt(2, 5), b = randInt(1, 10);
     return q(qIfAEquals("a", a, `3a + ${b}`, cc), 3 * a + b, t("algebra", cc));
   },
-  algebraSimp: (cc) => q(qSimplifyCoeff("2x + 3x = ?x", cc), 5, t("algebra", cc)),
+  algebraSimp: (cc) => {
+    const a = randInt(2, 6), b = randInt(2, 6);
+    return q(qSimplifyCoeff(`${a}x + ${b}x = ?x`, cc), a + b, t("algebra", cc));
+  },
   algebraMul: (cc) => {
     const a = randInt(2, 5), b = randInt(2, 5);
     return q(qSimplifyCoeff(`(${a}x)(${b}x) = ?x²`, cc), a * b, t("algebra", cc));
@@ -586,10 +593,22 @@ const G7: Record<string, Generator> = {
     const a = randInt(20, 80);
     return q(qIsoscelesApex(a, cc), 180 - 2 * a, t("triangles", cc));
   },
-  pythag34: (cc) => q(qPythHypotenuse(3, 4, cc), 5, t("pythagoras", cc)),
-  pythag68: (cc) => q(qPythHypotenuse(6, 8, cc), 10, t("pythagoras", cc)),
-  pythagLeg13: (cc) => q(qPythLeg(13, 5, cc), 12, t("pythagoras", cc)),
-  pythagLeg10: (cc) => q(qPythLeg(10, 6, cc), 8, t("pythagoras", cc)),
+  pythag34: (cc) => {
+    const tr = pick([[3,4,5],[5,12,13],[8,15,17],[7,24,25]]);
+    return q(qPythHypotenuse(tr[0], tr[1], cc), tr[2], t("pythagoras", cc));
+  },
+  pythag68: (cc) => {
+    const tr = pick([[6,8,10],[9,12,15],[12,16,20],[20,21,29]]);
+    return q(qPythHypotenuse(tr[0], tr[1], cc), tr[2], t("pythagoras", cc));
+  },
+  pythagLeg13: (cc) => {
+    const tr = pick([[13,5,12],[17,8,15],[26,10,24],[25,7,24]]);
+    return q(qPythLeg(tr[0], tr[1], cc), tr[2], t("pythagoras", cc));
+  },
+  pythagLeg10: (cc) => {
+    const tr = pick([[10,6,8],[15,9,12],[20,12,16],[13,12,5]]);
+    return q(qPythLeg(tr[0], tr[1], cc), tr[2], t("pythagoras", cc));
+  },
   wordThink: (cc) => {
     const x = randInt(3, 12); const a = randInt(2, 4); const b = randInt(5, 20);
     return q(wpThinkNumber(a, b, a * x + b, cc), x, t("wordProblem", cc), 0, true);
@@ -631,8 +650,21 @@ const G8: Record<string, Generator> = {
     const items = getItems(cc);
     return q(qBallProb(total, good, items.red, cc), Math.round(good / total * 100), t("probability", cc));
   },
-  probDice: (cc) => q(qDiceProb(6, cc), 17, t("probability", cc)),
-  probCoin: (cc) => q(qCoinProb(cc), 50, t("probability", cc)),
+  probDice: (cc) => {
+    const type = randInt(0, 2);
+    if (type === 0) {
+      const face = randInt(1, 6);
+      return q(qDiceProb(face, cc), 17, t("probability", cc));
+    } else if (type === 1) {
+      return q(qDiceProbEven(cc), 50, t("probability", cc));
+    } else {
+      const n = pick([3, 4]); // P(>3)=50%, P(>4)=33%
+      return q(qDiceProbMore(n, cc), Math.round((6 - n) / 6 * 100), t("probability", cc));
+    }
+  },
+  probCoin: (cc) => {
+    return q(Math.random() < 0.5 ? qCoinProb(cc) : qCoinProbTails(cc), 50, t("probability", cc));
+  },
   complexPow: (cc) => {
     const a = randInt(2, 6); const sq = pick([16, 25, 36, 49]);
     return q(`${a}² + √${sq} = ?`, a * a + Math.sqrt(sq), t("complex", cc));
