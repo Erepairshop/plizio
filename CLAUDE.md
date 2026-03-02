@@ -56,18 +56,52 @@ A repo tisztán van szervezve:
 | `RewardReveal.tsx` | Jutalom animáció |
 | `GameCard.tsx` | Kártya megjelenítő komponens |
 
-### Kodex-specifikus adatok (`lib/kodex-words.ts`)
-- **10 szint**: `LEVEL_CONFIGS[]` — típusok: `"word"`, `"sentence"`, `"secretcode"` (10. szint)
-- **Titkos kódok**: `SECRET_CODES_LIST` — 5 kód per nyelv (hu/de/en/ro), `getSecretCode(lang, index)`
-- **Expedíció state** (`app/kodex/page.tsx`): localStorage kulcs `kodex_expedition_v2`
-  - `{ currentLevel, completedLevels, collectedLetters, earnedBadges, secretCodeIndex }`
-- **Badge-ek**: `"vocals"`, `"shield"`, `"explorer"`, `"tracker"`, `"key"`
+### Kodex (`app/kodex/page.tsx`) — teljes state térkép
+
+**ExpeditionSave** (localStorage: `kodex_expedition_v2`):
+```ts
+{ currentLevel: number, completedLevels: number[], collectedLetters: string[],
+  earnedBadges: BadgeId[], secretCodeIndex: number }
+```
+
+**Játék state változók:**
+```ts
+screen: "expedition"|"playing"|"levelComplete"|"failed"|"complete"
+cfg: LevelConfig          // aktuális szint konfigja
+puzzle: string            // a kitalálandó szó/mondat
+guessed: Set<string>      // már kitalált betűk
+wrongCount: number        // hibás tippek száma
+gameState: "playing"|"won"|"lost"
+shieldPending: boolean    // pajzs badge aktív-e
+badgesUsedThisLevel: number  // max 2/szint
+explorerRevealed: boolean    // explorer badge használva
+secretPhase: "animating"|"playing"  // 10. szint fázisa
+completeBadge: BadgeId|null  // szintteljesítési jutalom
+completeLetter: string       // összegyűjtött titkos betű
+earnedCard: CardRarity|null  // CSAK level 10-nél legendary
+```
+
+**LEVEL_CONFIGS szintstruktúra** (1-10):
+- 1-3: `type:"word"`, 4-6: `type:"sentence"`, 7-9: `type:"word"/"sentence"`, 10: `type:"secretcode"`
+- lives: 6 (1-9. szint), 3 (10. szint)
+- Badge jutalmak sorban: vocals(1), shield(2), key(3), explorer(5), tracker(7)
+
+**Titkos kódok**: `SECRET_CODES_LIST` — 5 kód/nyelv (hu/de/en/ro)
+- `getSecretCode(lang, index)` — expedíción belül fix, `secretCodeIndex` alapján
+- 9 betű reveal szintenként (1-9), a maradék betűk a 10. szinten találhatók ki
+
+**Badge-ek**: `"vocals"`(magánhangzók), `"shield"`(pajzs), `"explorer"`(téma reveal), `"tracker"`(betű hint), `"key"`(speciális)
+
+**Fontos logika:**
+- Legendary kártya CSAK level 10 teljesítésekor mentődik/jelenik meg
+- `saveExped()` = setExped + localStorage mentés egyszerre
+- `freshExpedition()` = `{ currentLevel:1, completedLevels:[], collectedLetters:[], earnedBadges:["vocals","shield","key"], secretCodeIndex: random(0-4) }`
 
 ### Kártya csererendszer (`app/collection/page.tsx`)
-- Mikropont értékek: legendary=60, gold=6, silver=3, bronze=2
-- 60 mikropont = 1 ⭐ (csillag)
-- `handleExchange()` mindig friss localStorage-t olvas (nem React state-t)
-- `plizio-cards-changed` esemény → collection automatikusan frissül
+- `MICRO_PER_CARD`: legendary=60, gold=6, silver=3, bronze=2 · `MICRO_PER_STAR`=60
+- Átváltás: 1 legendary=1⭐, 10 gold=1⭐, 20 silver=1⭐, 30 bronze=1⭐
+- `handleExchange()` mindig friss `getCards()` localStorage-t olvas (nem React state!)
+- `plizio-cards-changed` event → collection display automatikusan frissül
 
 ### Avatar adatfolyam
 Minden játékoldal betölti:
@@ -78,7 +112,12 @@ getFaceDef(getActiveFace()) → activeFace
 getActive("top/bottom/shoe/cape/glasses/gloves") → clothing
 getActiveHat() / getActiveTrail() → accessories
 ```
-Ezeket `<AvatarCompanion {...avatarProps} />` kapja meg.
+Ezeket `<AvatarCompanion {...avatarProps} jumpTrigger={...} />` kapja meg.
+
+### Token-spórolási szabályok (Claude számára)
+- Ha a feladat CLAUDE.md-ben dokumentált fájlt érint → NE olvasd az egész fájlt, csak a szükséges részt (Read offset+limit)
+- Ha a state/type struktúra ismert fentről → NE olvasd újra a type definíciókat
+- Ha csak egy függvényt kell módosítani → Grep a függvénynévre, csak azt olvasd be
 
 ---
 
