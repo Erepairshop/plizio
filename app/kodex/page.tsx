@@ -7,7 +7,8 @@ import { ArrowLeft, X, RotateCcw } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import type { Language } from "@/lib/language";
 import {
-  getLevelConfig, getPuzzleForLevel, getSecretCode, getSpecialKeys, getVowels,
+  getLevelConfig, getPuzzleForLevel, getSecretCode, getSecretCodeCount,
+  getSpecialKeys, getVowels,
   LEVEL_CONFIGS, BADGE_DEFS,
   type BadgeId, type LevelConfig,
 } from "@/lib/kodex-words";
@@ -28,6 +29,7 @@ type ExpeditionSave = {
   completedLevels: number[];
   collectedLetters: string[]; // one letter per completed level 1-9
   earnedBadges: BadgeId[];    // available (not yet used) badges
+  secretCodeIndex: number;    // which secret code was drawn for this expedition
 };
 
 const STORAGE_KEY = "kodex_expedition_v2";
@@ -216,7 +218,13 @@ function updateStreak(): number {
 }
 
 function freshExpedition(): ExpeditionSave {
-  return { currentLevel: 1, completedLevels: [], collectedLetters: [], earnedBadges: ["vocals", "shield", "key"] };
+  return {
+    currentLevel: 1,
+    completedLevels: [],
+    collectedLetters: [],
+    earnedBadges: ["vocals", "shield", "key"],
+    secretCodeIndex: Math.floor(Math.random() * 5),
+  };
 }
 
 // ─── COMPONENT ────────────────────────────────────────────────────────────────
@@ -284,9 +292,13 @@ export default function KodexPage() {
     if (saved) {
       try {
         const parsed: ExpeditionSave = JSON.parse(saved);
-        // Migration: if no badges but also no completed levels, give starter badges
+        // Migration: starter badges for fresh expeditions
         if (parsed.earnedBadges.length === 0 && parsed.completedLevels.length === 0) {
           parsed.earnedBadges = ["vocals", "shield", "key"];
+        }
+        // Migration: assign random secret code if missing
+        if (parsed.secretCodeIndex === undefined) {
+          parsed.secretCodeIndex = Math.floor(Math.random() * getSecretCodeCount(lang));
         }
         setExped(parsed);
       } catch { setExped(freshExpedition()); }
@@ -311,7 +323,7 @@ export default function KodexPage() {
 
     if (levelCfg.type === "secretcode") {
       // Level 10: initialize with collected letters pre-guessed
-      const secretData = getSecretCode(lang);
+      const secretData = getSecretCode(lang, exped.secretCodeIndex);
       setPuzzle(secretData.text);
       // Start animation phase
       setAnimCount(0);
@@ -330,7 +342,7 @@ export default function KodexPage() {
   // Secret code animation: reveal letters one by one
   useEffect(() => {
     if (secretPhase !== "animating" || cfg.type !== "secretcode") return;
-    const secretData = getSecretCode(lang);
+    const secretData = getSecretCode(lang, exped.secretCodeIndex);
     const letters = exped.collectedLetters;
     if (animCount >= letters.length) {
       // Animation done — seed guessed letters
@@ -359,11 +371,18 @@ export default function KodexPage() {
         const streak = updateStreak();
         const maxLives = cfg.lives;
         const score = Math.max(0, maxLives - wrongCount);
-        const rarity = cfg.type === "secretcode" ? "legendary" : calculateRarity(score, maxLives, streak);
-        saveCard({ id: generateCardId(), game: "kodex", theme: cfg.theme.key, rarity, score, total: maxLives, date: new Date().toISOString() });
         incrementTotalGames();
         if (wrongCount === 0) incrementPerfectScores();
-        setEarnedCard(rarity);
+        // Legendary card ONLY for level 10 (secret code) completion
+        if (cfg.type === "secretcode") {
+          saveCard({ id: generateCardId(), game: "kodex", theme: cfg.theme.key, rarity: "legendary", score, total: maxLives, date: new Date().toISOString() });
+          setEarnedCard("legendary");
+        } else {
+          // Levels 1-9: save a card but don't show it (expedition reward comes at the end)
+          const rarity = calculateRarity(score, maxLives, streak);
+          saveCard({ id: generateCardId(), game: "kodex", theme: cfg.theme.key, rarity, score, total: maxLives, date: new Date().toISOString() });
+          setEarnedCard(null);
+        }
         setGameState("won");
         setJumpTrigger({ reaction: "victory", timestamp: Date.now() });
       } else {
@@ -413,7 +432,8 @@ export default function KodexPage() {
       setGuessed(newGuessed);
       const allRevealed = [...puzzle].every(l => l === " " || newGuessed.has(l));
       if (allRevealed) {
-        setEarnedCard(calculateRarity(cfg.lives, cfg.lives, 1));
+        // Only show legendary card on level 10
+        setEarnedCard(cfg.type === "secretcode" ? "legendary" : null);
         setGameState("won");
         setJumpTrigger({ reaction: "victory", timestamp: Date.now() });
       }
@@ -439,7 +459,7 @@ export default function KodexPage() {
   // ── Level won → level complete screen ──
   const handleLevelWon = useCallback(() => {
     const levelNum = cfg.levelNum;
-    const secretData = getSecretCode(lang);
+    const secretData = getSecretCode(lang, exped.secretCodeIndex);
     const collectedLetter = levelNum <= 9 ? (secretData.revealLetters[levelNum - 1] ?? "") : "";
     const badge = cfg.badgeReward ?? null;
 
@@ -591,7 +611,7 @@ export default function KodexPage() {
   // ═══════════════════════════════════════════════════════════════════
   if (screen === "expedition") {
     const hasProgress = exped.completedLevels.length > 0;
-    const secretData = getSecretCode(lang);
+    const secretData = getSecretCode(lang, exped.secretCodeIndex);
     return (
       <main className="min-h-screen flex flex-col px-4 pt-4 pb-6 max-w-md mx-auto">
         {/* Header */}
@@ -933,7 +953,7 @@ export default function KodexPage() {
   const displayCatName  = cfg.showCatName  || explorerRevealed;
 
   // For secret code: show collected letters during animation phase
-  const secretData = cfg.type === "secretcode" ? getSecretCode(lang) : null;
+  const secretData = cfg.type === "secretcode" ? getSecretCode(lang, exped.secretCodeIndex) : null;
   const displayGuessed = cfg.type === "secretcode" && secretPhase === "animating"
     ? new Set(exped.collectedLetters.slice(0, animCount))
     : guessed;

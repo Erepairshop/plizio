@@ -83,14 +83,60 @@ export const LEVEL_CONFIGS: LevelConfig[] = [
 
 export type SecretCodeData = {
   text: string;
+  // 9 unique letters to reveal, one collected after each level 1-9
   revealLetters: string[];
 };
 
-const SECRET_CODES: Record<string, SecretCodeData> = {
-  hu: { text: "A TUDÁS A LEGJOBB FEGYVER", revealLetters: ["T", "U", "Á", "L", "G", "J", "B", "F", "Y"] },
-  de: { text: "DAS WISSEN ÖFFNET ALLE TÜREN", revealLetters: ["D", "S", "W", "I", "N", "Ö", "F", "L", "Ü"] },
-  en: { text: "KNOWLEDGE IS THE BEST WEAPON", revealLetters: ["K", "N", "W", "L", "D", "G", "I", "H", "B"] },
-  ro: { text: "CUNOAȘTEREA ESTE CEA MAI BUNĂ", revealLetters: ["C", "U", "N", "O", "Ș", "R", "S", "M", "I"] },
+// 5 secret codes per language — one is randomly selected at expedition start
+const SECRET_CODES_LIST: Record<string, SecretCodeData[]> = {
+  hu: [
+    { text: "A TUDÁS A LEGJOBB FEGYVER",          revealLetters: ["T", "U", "Á", "L", "G", "J", "B", "F", "Y"] },
+    // leaves: A,D,S,E,O,V,R
+    { text: "MINDEN NEHÉZSÉG ELTŰNIK IDŐVEL",      revealLetters: ["M", "N", "H", "É", "Z", "S", "G", "T", "Ű"] },
+    // leaves: I,D,E,L,K,Ő,V
+    { text: "A BARÁTSÁG A LEGNAGYOBB KINCS",       revealLetters: ["B", "Á", "R", "S", "L", "E", "N", "Y", "O"] },
+    // leaves: A,T,G,K,I,C
+    { text: "BÁTORSÁG NÉLKÜL NINCS SIKER",         revealLetters: ["B", "Á", "T", "O", "G", "N", "K", "Ü", "I"] },
+    // leaves: R,S,É,L,C,E
+    { text: "LÉGY ÖNMAGAD ÉS BOLDOG LESZEL",       revealLetters: ["L", "É", "G", "Y", "Ö", "N", "M", "D", "S"] },
+    // leaves: A,B,O,E,Z
+  ],
+  de: [
+    { text: "DAS WISSEN ÖFFNET ALLE TÜREN",        revealLetters: ["D", "S", "W", "I", "N", "Ö", "F", "L", "Ü"] },
+    // leaves: A,E,T,R
+    { text: "ÜBUNG MACHT DEN MEISTER STARK",       revealLetters: ["Ü", "B", "U", "G", "M", "C", "H", "D", "I"] },
+    // leaves: N,A,T,E,S,R,K
+    { text: "EHRLICHKEIT IST DIE BESTE TUGEND",    revealLetters: ["H", "R", "L", "C", "K", "T", "D", "B", "U"] },
+    // leaves: E,I,S,G,N
+    { text: "GLAUBE AN DICH UND DEINE STÄRKE",     revealLetters: ["G", "L", "U", "B", "N", "D", "I", "C", "H"] },
+    // leaves: A,E,S,T,Ä,R,K
+    { text: "MIT AUSDAUER ERREICHT MAN ALLES",     revealLetters: ["M", "I", "T", "U", "D", "R", "C", "H", "N"] },
+    // leaves: A,S,E,L
+  ],
+  en: [
+    { text: "KNOWLEDGE IS THE BEST WEAPON",        revealLetters: ["K", "N", "W", "L", "D", "G", "I", "H", "B"] },
+    // leaves: O,E,S,T,A,P
+    { text: "THE ONLY WAY OUT IS THROUGH",         revealLetters: ["T", "H", "N", "L", "Y", "W", "A", "U", "S"] },
+    // leaves: E,O,I,R,G
+    { text: "BELIEVE IN YOURSELF AND YOUR DREAMS", revealLetters: ["B", "L", "I", "V", "N", "Y", "O", "F", "D"] },
+    // leaves: E,U,R,S,A,M
+    { text: "FAILURE IS THE MOTHER OF SUCCESS",    revealLetters: ["F", "A", "L", "U", "R", "T", "H", "M", "O"] },
+    // leaves: I,E,S,C
+    { text: "DREAM BIG WORK HARD STAY HUMBLE",     revealLetters: ["D", "R", "M", "B", "I", "G", "W", "K", "H"] },
+    // leaves: E,A,O,S,T,Y,U,L
+  ],
+  ro: [
+    { text: "CUNOAȘTEREA ESTE CEA MAI BUNĂ",       revealLetters: ["C", "U", "N", "O", "Ș", "R", "S", "M", "I"] },
+    // leaves: A,T,E,B,Ă
+    { text: "CURAJUL DESCHIDE ORICE USĂ",          revealLetters: ["C", "U", "R", "J", "L", "D", "S", "H", "O"] },
+    // leaves: A,E,I,Ă
+    { text: "VIITORUL DEPINDE DE ALEGERILE TALE",  revealLetters: ["V", "I", "T", "O", "R", "U", "D", "P", "N"] },
+    // leaves: L,E,A,G
+    { text: "RĂBDAREA ȘI MUNCA BIRUIESC TOTUL",    revealLetters: ["R", "Ă", "B", "D", "Ș", "I", "M", "N", "C"] },
+    // leaves: A,E,U,S,T,O,L
+    { text: "PRIETENII ADEVĂRAȚI SUNT COMORI",     revealLetters: ["P", "R", "I", "T", "N", "D", "V", "Ă", "S"] },
+    // leaves: E,A,U,C,O,M
+  ],
 };
 
 // ─── WORD DATA (levels 1-3) ────────────────────────────────────────────────────
@@ -475,8 +521,13 @@ export function getPuzzleForLevel(lang: string, levelNum: number): string {
   return "";
 }
 
-export function getSecretCode(lang: string): SecretCodeData {
-  return SECRET_CODES[lang in SECRET_CODES ? lang : "en"];
+export function getSecretCodeCount(lang: string): number {
+  return (SECRET_CODES_LIST[lang in SECRET_CODES_LIST ? lang : "en"] ?? SECRET_CODES_LIST.en).length;
+}
+
+export function getSecretCode(lang: string, index: number = 0): SecretCodeData {
+  const codes = SECRET_CODES_LIST[lang in SECRET_CODES_LIST ? lang : "en"] ?? SECRET_CODES_LIST.en;
+  return codes[index % codes.length];
 }
 
 export function getVowels(lang: string): string[] {
