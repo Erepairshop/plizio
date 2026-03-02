@@ -910,8 +910,155 @@ export function getENThemes(grade: number): ENThemeDef[] {
   return EN_THEMES[grade] || [];
 }
 
+// ─── DE THEMES (generator-based, German topic names) ─────────────────────────
+
+const DE_THEMES: Record<number, ENThemeDef[]> = {
+  1: [
+    { key: 'g1_add', name: 'Addition', color: '#3B82F6', icon: '➕', topics: [
+      { key: 'add10', name: 'Addition bis 10', color: '#60A5FA', icon: '➕', generators: [G1.add10, G1.add10b, G1.missing10] },
+      { key: 'add20', name: 'Addition bis 20', color: '#3B82F6', icon: '➕', generators: [G1.add20, G1.add20b] },
+      { key: 'compare', name: 'Zahlen vergleichen', color: '#2563EB', icon: '🔢', generators: [G1.compare] },
+    ]},
+    { key: 'g1_sub', name: 'Subtraktion', color: '#EF4444', icon: '➖', topics: [
+      { key: 'sub10', name: 'Subtraktion bis 10', color: '#F87171', icon: '➖', generators: [G1.sub10, G1.sub10b, G1.missing10sub] },
+      { key: 'sub20', name: 'Subtraktion bis 20', color: '#EF4444', icon: '➖', generators: [G1.sub20, G1.sub20b] },
+    ]},
+    { key: 'g1_word', name: 'Textaufgaben', color: '#8B5CF6', icon: '📖', topics: [
+      { key: 'word', name: 'Sachaufgaben', color: '#8B5CF6', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
+    ]},
+  ],
+  2: [
+    { key: 'g2_arith', name: 'Rechnen bis 100', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'add100', name: 'Addition bis 100', color: '#60A5FA', icon: '➕', generators: [G2.add100tens, G2.add100, G2.add100b, G2.missing100] },
+      { key: 'sub100', name: 'Subtraktion bis 100', color: '#EF4444', icon: '➖', generators: [G2.sub100tens, G2.sub100, G2.sub100b] },
+      { key: 'sequence', name: 'Zahlenfolgen', color: '#2563EB', icon: '🔢', generators: [G2.sequence] },
+    ]},
+    { key: 'g2_mul', name: 'Einmaleins', color: '#10B981', icon: '✖️', topics: [
+      { key: 'mul', name: 'Multiplizieren (×2, ×5, ×10)', color: '#34D399', icon: '✖️', generators: [G2.mul2510, G2.mul2510b] },
+      { key: 'div', name: 'Dividieren', color: '#10B981', icon: '➗', generators: [G2.div2510] },
+    ]},
+    { key: 'g2_word', name: 'Sachaufgaben', color: '#8B5CF6', icon: '📖', topics: [
+      { key: 'word', name: 'Sachaufgaben', color: '#8B5CF6', icon: '📖', generators: [G2.word1, G2.word2, G2.word3, G2.word4] },
+    ]},
+    { key: 'g2_measure', name: 'Größen & Einheiten', color: '#F59E0B', icon: '📏', topics: [
+      { key: 'units', name: 'Maßeinheiten', color: '#FBBF24', icon: '📏', generators: [G2.units] },
+    ]},
+  ],
+  3: [
+    { key: 'g3_arith', name: 'Große Zahlen', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'add1000', name: 'Addition bis 1000', color: '#60A5FA', icon: '➕', generators: [G3.add1000, G3.add1000b, G3.writtenAdd] },
+      { key: 'sub1000', name: 'Subtraktion bis 1000', color: '#EF4444', icon: '➖', generators: [G3.sub1000, G3.writtenSub] },
+      { key: 'sequence', name: 'Zahlenfolgen', color: '#2563EB', icon: '🔢', generators: [G3.sequence] },
+    ]},
+    { key: 'g3_mul', name: 'Einmaleins & Division', color: '#10B981', icon: '✖️', topics: [
+      { key: 'mul', name: 'Multiplizieren', color: '#34D399', icon: '✖️', generators: [G3.mul, G3.mulB, G3.missingMul] },
+      { key: 'div', name: 'Dividieren', color: '#10B981', icon: '➗', generators: [G3.div, G3.divB] },
+    ]},
+    { key: 'g3_word', name: 'Sachaufgaben', color: '#8B5CF6', icon: '📖', topics: [
+      { key: 'word', name: 'Sachaufgaben', color: '#8B5CF6', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
+    ]},
+    { key: 'g3_measure', name: 'Größen & Einheiten', color: '#F59E0B', icon: '📏', topics: [
+      { key: 'units', name: 'Maßeinheiten', color: '#FBBF24', icon: '📏', generators: [G3.units] },
+    ]},
+  ],
+  4: [
+    { key: 'g4_ops', name: 'Zahlen & Rechnen', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'place', name: 'Stellenwerte', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.sequence] },
+      { key: 'mul', name: 'Schriftlich Multiplizieren', color: '#34D399', icon: '✖️', generators: [G4.writtenMul, G4.writtenMulB] },
+      { key: 'div', name: 'Schriftlich Dividieren', color: '#10B981', icon: '➗', generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit] },
+    ]},
+    { key: 'g4_frac', name: 'Bruchrechnung', color: '#8B5CF6', icon: '½', topics: [
+      { key: 'frac', name: 'Brüche', color: '#A78BFA', icon: '½', generators: [G4.fraction, G4.fractionB] },
+      { key: 'fracArith', name: 'Brüche addieren & subtrahieren', color: '#8B5CF6', icon: '½', generators: [G4.fractionAdd, G4.fractionSub] },
+    ]},
+    { key: 'g4_geo', name: 'Geometrie & Maßeinheiten', color: '#F59E0B', icon: '📐', topics: [
+      { key: 'geo', name: 'Flächeninhalt & Umfang', color: '#FBBF24', icon: '📐', generators: [G4.geometry, G4.geometryB] },
+      { key: 'units', name: 'Maßeinheiten', color: '#F59E0B', icon: '📏', generators: [G4.units] },
+    ]},
+    { key: 'g4_word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', topics: [
+      { key: 'word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', generators: [G4.word1, G4.word2, G4.word3] },
+    ]},
+  ],
+  5: [
+    { key: 'g5_ops', name: 'Zahlen & Terme', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'large', name: 'Große Zahlen & Runden', color: '#60A5FA', icon: '🔢', generators: [G5.largeNumbers, G5.roundHundreds] },
+      { key: 'ops', name: 'Punkt vor Strich', color: '#2563EB', icon: '🔢', generators: [G5.orderOfOps, G5.orderOfOpsB, G5.orderOfOpsC, G5.orderOfOpsD] },
+    ]},
+    { key: 'g5_frac', name: 'Brüche & Prozent', color: '#8B5CF6', icon: '½', topics: [
+      { key: 'frac', name: 'Brüche addieren & subtrahieren', color: '#A78BFA', icon: '½', generators: [G5.fractionAdd, G5.fractionSub] },
+      { key: 'pct', name: 'Prozentrechnung', color: '#8B5CF6', icon: '%', generators: [G5.percent10, G5.percent50, G5.percent25] },
+    ]},
+    { key: 'g5_geo', name: 'Geometrie', color: '#F59E0B', icon: '📐', topics: [
+      { key: 'geo', name: 'Flächeninhalt & Umfang', color: '#FBBF24', icon: '📐', generators: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter] },
+    ]},
+    { key: 'g5_word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', topics: [
+      { key: 'word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', generators: [G5.wordDiscount, G5.wordOps] },
+    ]},
+  ],
+  6: [
+    { key: 'g6_neg', name: 'Negative Zahlen', color: '#6366F1', icon: '➖', topics: [
+      { key: 'neg', name: 'Negative Zahlen', color: '#818CF8', icon: '➖', generators: [G6.negative, G6.negativeB, G6.negativeC] },
+    ]},
+    { key: 'g6_frac', name: 'Brüche & Prozent', color: '#8B5CF6', icon: '½', topics: [
+      { key: 'frac', name: 'Brüche multiplizieren & dividieren', color: '#A78BFA', icon: '½', generators: [G6.fractionMul, G6.fractionDiv] },
+      { key: 'pct', name: 'Prozentrechnung', color: '#8B5CF6', icon: '%', generators: [G6.percentCalc, G6.percentDiscount] },
+    ]},
+    { key: 'g6_ratio', name: 'Verhältnis & Geschwindigkeit', color: '#10B981', icon: '⚡', topics: [
+      { key: 'ratio', name: 'Verhältnisse & Proportionen', color: '#34D399', icon: '⚡', generators: [G6.ratio, G6.speed] },
+    ]},
+    { key: 'g6_geo', name: 'Geometrie', color: '#F59E0B', icon: '📐', topics: [
+      { key: 'geo', name: 'Flächeninhalt (Dreiecke & Vierecke)', color: '#FBBF24', icon: '📐', generators: [G6.areaTriangle, G6.areaSquare] },
+    ]},
+    { key: 'g6_word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', topics: [
+      { key: 'word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', generators: [G6.wordShoe, G6.wordTrain] },
+    ]},
+  ],
+  7: [
+    { key: 'g7_algebra', name: 'Potenzen & Algebra', color: '#6366F1', icon: 'x', topics: [
+      { key: 'powers', name: 'Potenzen', color: '#818CF8', icon: '²', generators: [G7.power2, G7.power3, G7.power10] },
+      { key: 'algebra', name: 'Terme vereinfachen', color: '#6366F1', icon: 'x', generators: [G7.algebraSub, G7.algebraSimp, G7.algebraMul] },
+    ]},
+    { key: 'g7_eq', name: 'Gleichungen', color: '#8B5CF6', icon: '=', topics: [
+      { key: 'eq', name: 'Gleichungen lösen', color: '#A78BFA', icon: '=', generators: [G7.equation, G7.equationB] },
+    ]},
+    { key: 'g7_geo', name: 'Geometrie & Dreiecke', color: '#F59E0B', icon: '📐', topics: [
+      { key: 'tri', name: 'Dreieckswinkel', color: '#FBBF24', icon: '🔺', generators: [G7.triangleAngle, G7.equilateral, G7.isosceles] },
+      { key: 'pyth', name: 'Satz des Pythagoras', color: '#F59E0B', icon: '📐', generators: [G7.pythag34, G7.pythag68, G7.pythagLeg13, G7.pythagLeg10] },
+    ]},
+    { key: 'g7_word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', topics: [
+      { key: 'word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', generators: [G7.wordThink, G7.wordSquare] },
+    ]},
+  ],
+  8: [
+    { key: 'g8_algebra', name: 'Algebra & Wurzeln', color: '#6366F1', icon: '√', topics: [
+      { key: 'sqrt', name: 'Quadratwurzeln', color: '#818CF8', icon: '√', generators: [G8.sqrt, G8.sqrtExpr] },
+      { key: 'complex', name: 'Terme & Ausdrücke', color: '#6366F1', icon: 'x²', generators: [G8.complexPow, G8.complexExpr] },
+    ]},
+    { key: 'g8_eq', name: 'Gleichungen', color: '#8B5CF6', icon: '=', topics: [
+      { key: 'eq', name: 'Gleichungen lösen', color: '#A78BFA', icon: '=', generators: [G8.eqSimple, G8.eqTwoSide] },
+    ]},
+    { key: 'g8_func', name: 'Funktionen', color: '#10B981', icon: 'f(x)', topics: [
+      { key: 'func', name: 'Lineare Funktionen', color: '#34D399', icon: 'f(x)', generators: [G8.funcValue, G8.funcIntercept] },
+    ]},
+    { key: 'g8_prob', name: 'Wahrscheinlichkeit', color: '#F59E0B', icon: '🎲', topics: [
+      { key: 'prob', name: 'Wahrscheinlichkeitsrechnung', color: '#FBBF24', icon: '🎲', generators: [G8.probBall, G8.probDice, G8.probCoin] },
+    ]},
+  ],
+};
+
+export function getDEThemes(grade: number): ENThemeDef[] {
+  return DE_THEMES[grade] || [];
+}
+
+function getThemesForCC(grade: number, countryCode: string): ENThemeDef[] {
+  if (countryCode === 'DE' || countryCode === 'AT' || countryCode === 'CH') {
+    return DE_THEMES[grade] || [];
+  }
+  return EN_THEMES[grade] || [];
+}
+
 export function generateTopicQuestions(grade: number, topicKey: string, countryCode: string, count = 10): MathQuestion[] {
-  const themes = EN_THEMES[grade] || [];
+  const themes = getThemesForCC(grade, countryCode);
   for (const theme of themes) {
     for (const topic of theme.topics) {
       if (topic.key === topicKey) {

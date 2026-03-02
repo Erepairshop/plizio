@@ -28,6 +28,7 @@ import {
   getPeriod,
   getPeriodLabel,
   getENThemes,
+  getDEThemes,
   generateTopicQuestions,
   type MathQuestion,
   type GradeResult,
@@ -660,19 +661,23 @@ export default function MathTestPage() {
     return () => { cancelled = true; };
   }, [country, selectedGrade]);
 
-  // Resolved themes: prefer Supabase, fall back to JSON; for EN build period-based themes
+  // Resolved themes: generator-based for EN/DE, Supabase/JSON fallback for others
   const resolvedThemes = useMemo((): ThemeSelectorTheme[] => {
-    const isEN = country?.code === 'US' || country?.code === 'GB';
-    if (isEN && selectedGrade) {
-      // Build real math topic themes from EN_THEMES (Addition, Fractions, Geometry, etc.)
-      return getENThemes(selectedGrade).map(theme => ({
+    const cc = country?.code;
+    const isEN = cc === 'US' || cc === 'GB';
+    const isDE = cc === 'DE' || cc === 'AT' || cc === 'CH';
+
+    if ((isEN || isDE) && selectedGrade) {
+      const srcThemes = isEN ? getENThemes(selectedGrade) : getDEThemes(selectedGrade);
+      const prefix = isEN ? 'en' : 'de';
+      return srcThemes.map(theme => ({
         id: theme.key,
         name: theme.name,
         color: theme.color,
         icon: theme.icon,
         description: theme.name,
         subtopics: theme.topics.map(topic => ({
-          id: `en_topic_${selectedGrade}_${topic.key}`,
+          id: `${prefix}_topic_${selectedGrade}_${topic.key}`,
           name: topic.name,
           color: topic.color,
           icon: topic.icon,
@@ -739,17 +744,19 @@ export default function MathTestPage() {
     localStorage.setItem("klassenarbeitStartTime", now.toString());
 
     try {
-      // ─── EN: topic-based generation (only from selected topics) ─
-      const enTopicIds = selectedSubtopics.filter(id => id.startsWith('en_topic_'));
-      if (enTopicIds.length > 0) {
+      // ─── EN / DE: generator-based topic selection ────────────────
+      const generatorTopicIds = selectedSubtopics.filter(
+        id => id.startsWith('en_topic_') || id.startsWith('de_topic_')
+      );
+      if (generatorTopicIds.length > 0) {
         const cc = country!.code;
         const grade = selectedGrade!;
         const TARGET = 15;
-        const perTopic = Math.ceil(TARGET / enTopicIds.length);
+        const perTopic = Math.ceil(TARGET / generatorTopicIds.length);
         const seen = new Set<string>();
         const qs: MathQuestion[] = [];
-        for (const tid of enTopicIds) {
-          // Format: en_topic_{grade}_{topicKey}
+        for (const tid of generatorTopicIds) {
+          // Format: {en|de}_topic_{grade}_{topicKey}
           const topicKey = tid.split('_').slice(3).join('_');
           const pool = generateTopicQuestions(grade, topicKey, cc, perTopic);
           for (const q of pool) {
