@@ -27,6 +27,8 @@ export const metadata: Metadata = {
     canonical: `https://plizio.com/mathe-test/klasse-6/`,
     languages: {
       "de": `https://plizio.com/mathe-test/klasse-6/`,
+      "de-AT": `https://plizio.com/mathe-test/klasse-6/`,
+      "de-CH": `https://plizio.com/mathe-test/klasse-6/`,
       "x-default": `https://plizio.com/mathe-test/klasse-6/`,
     },
   },
@@ -34,6 +36,7 @@ export const metadata: Metadata = {
     title: meta.title,
     description: meta.desc,
     url: `https://plizio.com/mathe-test/klasse-6/`,
+    images: [{ url: "/og/mathe-klasse-6.png", width: 1200, height: 630 }],
   },
 };
 

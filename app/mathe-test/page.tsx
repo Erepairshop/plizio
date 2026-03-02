@@ -14,6 +14,8 @@ export const metadata: Metadata = {
     canonical: "https://plizio.com/mathe-test/",
     languages: {
       "de": "https://plizio.com/mathe-test/",
+      "de-AT": "https://plizio.com/mathe-test/",
+      "de-CH": "https://plizio.com/mathe-test/",
       "x-default": "https://plizio.com/mathe-test/",
     },
   },
@@ -21,6 +23,7 @@ export const metadata: Metadata = {
     title: "Mathe Test Online – Kostenlos für Klasse 1–8 | PLIZIO",
     description: "Übe Mathe für jede Klasse kostenlos online. Keine Anmeldung, sofort im Browser starten.",
     url: "https://plizio.com/mathe-test/",
+    images: [{ url: "/og/mathe-test.png", width: 1200, height: 630 }],
   },
 };
 

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     title: "Free Brain Games Online – Sharpen Your Mind | PLIZIO",
     description: "Memory challenges, word puzzles, logic quizzes and number games. Free, no download, instant play.",
     url: "https://plizio.com/brain-games/",
-    images: [{ url: "/icon-512.png", width: 512, height: 512 }],
+    images: [{ url: "/og/brain-games.png", width: 1200, height: 630 }],
   },
 };
 

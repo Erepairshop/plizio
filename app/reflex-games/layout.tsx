@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     title: "Free Reflex Games Online – Test Your Reactions | PLIZIO",
     description: "Racing, platformers, speed challenges and reflex training – free, no download, instant play.",
     url: "https://plizio.com/reflex-games/",
-    images: [{ url: "/icon-512.png", width: 512, height: 512 }],
+    images: [{ url: "/og/reflex-games.png", width: 1200, height: 630 }],
   },
 };
 

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     title: "Free Educational Games Online | PLIZIO",
     description: "Learn while you play – free math tests, word games, quiz challenges and more. No download required.",
     url: "https://plizio.com/educational-games/",
-    images: [{ url: "/icon-512.png", width: 512, height: 512 }],
+    images: [{ url: "/og/educational-games.png", width: 1200, height: 630 }],
   },
 };
 
