@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ArrowLeft, RotateCcw, Trophy, Timer, Delete, CheckCircle, XCircle } from "lucide-react";
+import { ArrowLeft, RotateCcw, Trophy, Timer, Delete, CheckCircle, XCircle, ChevronRight } from "lucide-react";
 import Link from "next/link";
 import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId, type CardRarity } from "@/lib/cards";
@@ -114,6 +114,8 @@ const T = {
     boss: "BOSS SZINT",
     delete: "Töröl",
     levelInfo: "szó · minimum helyes",
+    retry: "Újra próba",
+    expeditionMap: "Expedíció térkép",
   },
   de: {
     title: "BUCHSTABENSALAT EXPEDITION",
@@ -143,6 +145,8 @@ const T = {
     boss: "BOSS-STUFE",
     delete: "Löschen",
     levelInfo: "Wörter · min. richtig",
+    retry: "Nochmal versuchen",
+    expeditionMap: "Expeditionskarte",
   },
   en: {
     title: "WORD SCRAMBLE EXPEDITION",
@@ -172,6 +176,8 @@ const T = {
     boss: "BOSS LEVEL",
     delete: "Delete",
     levelInfo: "words · min. correct",
+    retry: "Try Again",
+    expeditionMap: "Expedition Map",
   },
   ro: {
     title: "EXPEDIȚIA LITERELOR AMESTECATE",
@@ -201,6 +207,8 @@ const T = {
     boss: "NIVEL BOSS",
     delete: "Șterge",
     levelInfo: "cuvinte · min. corecte",
+    retry: "Încearcă din nou",
+    expeditionMap: "Hartă expediție",
   },
 };
 
@@ -495,7 +503,7 @@ export default function WordScramblePage() {
       ...currentExped,
       currentLevel: Math.max(currentExped.currentLevel, levelCfg.level + 1),
       completedLevels: [...currentExped.completedLevels.filter(l => l !== levelCfg.level), levelCfg.level],
-      earnedBadges: badge ? [...currentExped.earnedBadges, badge] : currentExped.earnedBadges,
+      earnedBadges: (badge && !currentExped.completedLevels.includes(levelCfg.level)) ? [...currentExped.earnedBadges, badge] : currentExped.earnedBadges,
       levelScores: { ...currentExped.levelScores, [levelCfg.level]: finalScore },
     };
     saveExped(newExped);
@@ -658,12 +666,26 @@ export default function WordScramblePage() {
                     {lc.wordCount} {t.levelInfo}: {lc.minCorrect}
                   </div>
                 </div>
-                <div className="flex flex-col items-end gap-0.5">
+                <div className="flex flex-col items-end gap-1">
                   {done && levelScore !== undefined && (
                     <span className="text-emerald-400 text-xs font-bold">{levelScore}/{lc.wordCount}</span>
                   )}
                   {lc.fakeLetters > 0 && !locked && (
                     <span className="text-[9px] text-pink-400/60 font-bold">+{lc.fakeLetters} fake</span>
+                  )}
+                  {!locked && (
+                    <button
+                      onClick={() => startLevel(lc.level, exped)}
+                      className={`px-3 py-1.5 rounded-xl font-black text-xs transition-all active:scale-95 ${
+                        lc.level === 10
+                          ? "bg-amber-400/20 border border-amber-400/40 text-amber-300"
+                          : current
+                          ? "bg-emerald-500 text-white shadow-[0_0_10px_rgba(0,255,136,0.3)]"
+                          : "bg-white/10 text-white/50"
+                      }`}
+                    >
+                      {done ? "↩" : <ChevronRight size={14} />}
+                    </button>
                   )}
                 </div>
               </motion.div>
@@ -686,16 +708,6 @@ export default function WordScramblePage() {
           </div>
         )}
 
-        {/* Start/Continue button */}
-        <motion.button
-          onClick={() => startLevel(exped.currentLevel, exped)}
-          className="mt-4 w-full py-4 rounded-2xl font-black text-black text-base tracking-wider"
-          style={{ background: "linear-gradient(135deg, #00FF88, #00D4FF)" }}
-          whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.97 }}
-          disabled={exped.currentLevel > 10}
-        >
-          {hasProgress ? `▶ ${t.continueBtn} — ${t.level} ${exped.currentLevel}` : `🚀 ${t.start}`}
-        </motion.button>
       </main>
     );
   }
@@ -972,24 +984,23 @@ export default function WordScramblePage() {
             </motion.div>
           )}
 
-          <div className="flex gap-3 w-full">
+          <div className="flex flex-col gap-3 w-full">
             <motion.button
-              onClick={restartExpedition}
-              className="flex-1 py-3.5 rounded-2xl font-black text-sm border border-neon-pink/30 text-neon-pink bg-neon-pink/10"
+              onClick={() => startLevel(cfg.level, exped)}
+              className="w-full py-3.5 rounded-2xl font-black text-sm bg-neon-pink text-white shadow-[0_0_16px_rgba(255,45,120,0.4)]"
               whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.97 }}
               initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.3 }}
             >
-              🔄 {t.restartExpedition}
+              🔄 {t.retry}
             </motion.button>
-            <Link href="/" className="flex-1">
-              <motion.div
-                className="w-full py-3.5 rounded-2xl font-black text-sm border border-white/10 text-white/40 bg-white/5 text-center"
-                whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.97 }}
-                initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.35 }}
-              >
-                {t.mainMenu}
-              </motion.div>
-            </Link>
+            <motion.button
+              onClick={() => setScreen("expedition")}
+              className="w-full py-3.5 rounded-2xl font-bold text-sm border border-white/15 text-white/40 bg-white/5"
+              whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.97 }}
+              initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.35 }}
+            >
+              📍 {t.expeditionMap}
+            </motion.button>
           </div>
           <MilestonePopup />
         </motion.div>
