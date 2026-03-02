@@ -421,11 +421,11 @@ export default function MathTestPage() {
   // Load saved country + grade on mount
   useEffect(() => {
     const LANG_TO_COUNTRY: Record<string, string> = { hu: "HU", de: "DE", en: "US", ro: "RO" };
-    const savedCode = getSavedCountry() || LANG_TO_COUNTRY[getLanguage()] || "DE";
+    const langCode = LANG_TO_COUNTRY[getLanguage()] || "DE";
+    const savedCode = langCode;
     setCountry(getCountryByCode(savedCode));
-    if (savedCode) {
-      setGameState("grade-select");
-    }
+    saveCountry(savedCode);
+    setGameState("grade-select");
     const prev = getMathGrade();
     if (prev) setPreviousGrade(prev);
   }, []);
