@@ -484,7 +484,7 @@ export default function WordScramblePage() {
     if (finalScore === levelCfg.wordCount) incrementPerfectScores();
 
     let rarity: CardRarity;
-    if (levelCfg.level === 10) {
+    if (levelCfg.level === 10 && passed) {
       rarity = "legendary";
     } else {
       const raw = calculateRarity(finalScore, levelCfg.wordCount, streak);
