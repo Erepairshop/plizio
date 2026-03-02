@@ -739,31 +739,28 @@ export default function MathTestPage() {
     localStorage.setItem("klassenarbeitStartTime", now.toString());
 
     try {
-      // ─── EN: topic-based generation (no JSON task files needed) ─
+      // ─── EN: topic-based generation (only from selected topics) ─
       const enTopicIds = selectedSubtopics.filter(id => id.startsWith('en_topic_'));
       if (enTopicIds.length > 0) {
         const cc = country!.code;
         const grade = selectedGrade!;
+        const TARGET = 15;
+        const perTopic = Math.ceil(TARGET / enTopicIds.length);
         const seen = new Set<string>();
         const qs: MathQuestion[] = [];
         for (const tid of enTopicIds) {
           // Format: en_topic_{grade}_{topicKey}
-          const parts = tid.split('_');
-          const topicKey = parts.slice(3).join('_'); // everything after en_topic_{grade}_
-          const pool = generateTopicQuestions(grade, topicKey, cc, 10);
+          const topicKey = tid.split('_').slice(3).join('_');
+          const pool = generateTopicQuestions(grade, topicKey, cc, perTopic);
           for (const q of pool) {
-            if (!seen.has(q.question)) { seen.add(q.question); qs.push(q); }
+            if (!seen.has(q.question) && qs.length < TARGET) {
+              seen.add(q.question);
+              qs.push(q);
+            }
           }
         }
-        // If only one topic selected and < 10 questions, pad with generateTest
-        if (qs.length < 10) {
-          const extra = generateTest(grade, undefined, cc);
-          for (const q of extra) {
-            if (!seen.has(q.question) && qs.length < 15) { seen.add(q.question); qs.push(q); }
-          }
-        }
-        setQuestions(qs.slice(0, 15));
-        setAnswers(new Array(Math.min(qs.length, 15)).fill(null));
+        setQuestions(qs);
+        setAnswers(new Array(qs.length).fill(null));
         setRealisticKlassenarbeit(null);
         setAvatarMood("idle");
         setGameState("playing");
