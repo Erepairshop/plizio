@@ -9,6 +9,9 @@ import {
   wpSchool, wpBought, wpEachGets, wpShare,
   qHowManyCmInM, qHowManyGInKg, qHowManyMinInH, qMetersInCm, qHoursInMin,
   qMlInL, qLiterToMl, qKmToM, qTonToKg, qLiterToDl,
+  qHowManyInchesInFoot, qHowManyFeetInYard, qHowManyOzInLb,
+  qFeetToInches, qYardsToFeet, qLbToOz,
+  qAmPmElapsed, qAmPmAddHours, qAmPmActivityEnd,
   qPlaceValue, qHowManyQuartersInWhole, qHowManyHalvesInWhole, qWholeToHalves,
   qPizzaSlices, qHalfOf, qFractionNumerator, qFractionSubNumerator,
   qTenthsToHundredths, qPercentOf,
@@ -265,6 +268,36 @@ const G2: Record<string, Generator> = {
     const a = randInt(2, 5) * 10, b = randInt(2, 4) * 10;
     return q(wpCollectionDiff(pick(names.boys), a, pick(names.girls), b, items.sticker, cc), Math.abs(a - b), t("wordProblem", cc), 0, true);
   },
+  units: (cc) => {
+    if (cc === "US") return pick([
+      () => q(qHowManyInchesInFoot(cc), 12, t("imperialUnits", cc)),
+      () => q(qHowManyFeetInYard(cc), 3, t("imperialUnits", cc)),
+      () => { const ft = randInt(2, 5); return q(qFeetToInches(ft, cc), ft * 12, t("imperialUnits", cc)); },
+      () => { const yd = randInt(2, 4); return q(qYardsToFeet(yd, cc), yd * 3, t("imperialUnits", cc)); },
+      () => q(qHowManyMinInH(cc), 60, t("units", cc)),
+    ])();
+    return pick([
+      () => q(qHowManyCmInM(cc), 100, t("units", cc)),
+      () => q(qHowManyMinInH(cc), 60, t("units", cc)),
+      () => { const m = randInt(2, 5); return q(qMetersInCm(m, cc), m * 100, t("units", cc)); },
+      () => { const h = randInt(2, 3); return q(qHoursInMin(h, cc), h * 60, t("units", cc)); },
+    ])();
+  },
+  ampmClock: (cc) => {
+    if (cc !== "US") return pick([
+      () => {
+        const step = pick([2, 5, 10]);
+        const start = randInt(0, 3) * step;
+        const seq = [start, start + step, start + 2 * step, start + 3 * step];
+        return q(qNextInSequence(seq.join(" → "), cc), start + 4 * step, t("numberSequence", cc));
+      },
+    ])();
+    return pick([
+      () => { const startH = randInt(7, 10), endH = randInt(1, 3); return q(qAmPmElapsed(startH, endH, cc), 12 - startH + endH, t("ampmTime", cc), 0, true); },
+      () => { const startH = randInt(8, 10), addH = randInt(1, 3); return q(qAmPmAddHours(startH, addH, true, cc), startH + addH <= 12 ? startH + addH : startH + addH - 12, t("ampmTime", cc), 0, true); },
+      () => { const startH = randInt(1, 4), durH = randInt(1, 3); return q(qAmPmActivityEnd(startH, durH, cc), startH + durH, t("ampmTime", cc), 0, true); },
+    ])();
+  },
 };
 
 // ─── GRADE 3 GENERATORS ─────────────────────────────
@@ -290,14 +323,37 @@ const G3: Record<string, Generator> = {
     const a = randInt(2, 9), b = randInt(2, 9);
     return q(qMissingInEquation(`${a} × ? = ${a * b}`, cc), b, t("missingNumber", cc));
   },
-  units: (cc) => pick([
-    () => q(qHowManyCmInM(cc), 100, t("units", cc)),
-    () => q(qHowManyGInKg(cc), 1000, t("units", cc)),
-    () => q(qHowManyMinInH(cc), 60, t("units", cc)),
-    () => { const m = randInt(2, 5); return q(qMetersInCm(m, cc), m * 100, t("units", cc)); },
-    () => { const h = randInt(2, 3); return q(qHoursInMin(h, cc), h * 60, t("units", cc)); },
-    () => q(qMlInL(cc), 1000, t("units", cc)),
-  ])(),
+  units: (cc) => {
+    if (cc === "US") return pick([
+      () => q(qHowManyInchesInFoot(cc), 12, t("imperialUnits", cc)),
+      () => q(qHowManyFeetInYard(cc), 3, t("imperialUnits", cc)),
+      () => q(qHowManyOzInLb(cc), 16, t("imperialUnits", cc)),
+      () => { const ft = randInt(2, 6); return q(qFeetToInches(ft, cc), ft * 12, t("imperialUnits", cc)); },
+      () => { const yd = randInt(2, 5); return q(qYardsToFeet(yd, cc), yd * 3, t("imperialUnits", cc)); },
+      () => { const lb = randInt(2, 5); return q(qLbToOz(lb, cc), lb * 16, t("imperialUnits", cc)); },
+      () => q(qHowManyMinInH(cc), 60, t("units", cc)),
+      () => { const h = randInt(2, 3); return q(qHoursInMin(h, cc), h * 60, t("units", cc)); },
+    ])();
+    return pick([
+      () => q(qHowManyCmInM(cc), 100, t("units", cc)),
+      () => q(qHowManyGInKg(cc), 1000, t("units", cc)),
+      () => q(qHowManyMinInH(cc), 60, t("units", cc)),
+      () => { const m = randInt(2, 5); return q(qMetersInCm(m, cc), m * 100, t("units", cc)); },
+      () => { const h = randInt(2, 3); return q(qHoursInMin(h, cc), h * 60, t("units", cc)); },
+      () => q(qMlInL(cc), 1000, t("units", cc)),
+    ])();
+  },
+  ampmClock: (cc) => {
+    if (cc !== "US") return pick([
+      () => { const a = randInt(2, 9), b = randInt(2, 9); return q(qMissingInEquation(`${a} × ? = ${a * b}`, cc), b, t("missingNumber", cc)); },
+    ])();
+    return pick([
+      () => { const startH = randInt(7, 10), endH = randInt(1, 3); return q(qAmPmElapsed(startH, endH, cc), 12 - startH + endH, t("ampmTime", cc), 0, true); },
+      () => { const startH = randInt(8, 11), addH = randInt(2, 4); return q(qAmPmAddHours(startH, addH, true, cc), startH + addH <= 12 ? startH + addH : startH + addH - 12, t("ampmTime", cc), 0, true); },
+      () => { const startH = randInt(1, 5), durH = randInt(1, 3); return q(qAmPmActivityEnd(startH, durH, cc), startH + durH, t("ampmTime", cc), 0, true); },
+      () => { const startH = randInt(9, 11), endH = randInt(1, 4); return q(qAmPmElapsed(startH, endH, cc), 12 - startH + endH, t("ampmTime", cc), 0, true); },
+    ])();
+  },
   word1: (cc) => {
     const items = getItems(cc);
     const a = randInt(120, 400), b = randInt(100, 300);
@@ -350,12 +406,22 @@ const G4: Record<string, Generator> = {
     () => { const a = randInt(1, 8), b = randInt(1, 9); return q(`${a},${b} + 0,${10 - b} = ?`, a + 1, t("decimals", cc)); },
     () => { const n = randInt(2, 8); return q(qTenthsToHundredths(n, cc), n * 10, t("decimals", cc)); },
   ])(),
-  units: (cc) => pick([
-    () => { const km = randInt(2, 9); return q(qKmToM(km, cc), km * 1000, t("unitConversion", cc)); },
-    () => { const tt = randInt(2, 5); return q(qTonToKg(tt, cc), tt * 1000, t("unitConversion", cc)); },
-    () => { const l = randInt(2, 8); return q(qLiterToDl(l, cc), l * 10, t("unitConversion", cc)); },
-    () => { const l = randInt(2, 5); return q(qLiterToMl(l, cc), l * 1000, t("unitConversion", cc)); },
-  ])(),
+  units: (cc) => {
+    if (cc === "US") return pick([
+      () => q(qHowManyInchesInFoot(cc), 12, t("imperialUnits", cc)),
+      () => q(qHowManyOzInLb(cc), 16, t("imperialUnits", cc)),
+      () => { const ft = randInt(3, 8); return q(qFeetToInches(ft, cc), ft * 12, t("imperialUnits", cc)); },
+      () => { const yd = randInt(3, 6); return q(qYardsToFeet(yd, cc), yd * 3, t("imperialUnits", cc)); },
+      () => { const lb = randInt(3, 8); return q(qLbToOz(lb, cc), lb * 16, t("imperialUnits", cc)); },
+      () => { const l = randInt(2, 5); return q(qLiterToMl(l, cc), l * 1000, t("unitConversion", cc)); },
+    ])();
+    return pick([
+      () => { const km = randInt(2, 9); return q(qKmToM(km, cc), km * 1000, t("unitConversion", cc)); },
+      () => { const tt = randInt(2, 5); return q(qTonToKg(tt, cc), tt * 1000, t("unitConversion", cc)); },
+      () => { const l = randInt(2, 8); return q(qLiterToDl(l, cc), l * 10, t("unitConversion", cc)); },
+      () => { const l = randInt(2, 5); return q(qLiterToMl(l, cc), l * 1000, t("unitConversion", cc)); },
+    ])();
+  },
   volumeWord: (cc) => {
     const cups = randInt(2, 3); const ml = 250;
     const totalMlWeek = cups * ml * 7;
@@ -606,16 +672,16 @@ const CURRICULUM: Record<number, Record<number, PeriodTopics>> = {
   2: {
     1: { current: [G2.add100tens, G2.sub100tens, G2.add100, G2.missing100], review: [G1.add20, G1.sub20] },
     2: { current: [G2.add100tens, G2.sub100tens, G2.add100, G2.add100b, G2.sequence], review: [G1.add20, G1.sub20] },
-    3: { current: [G2.add100, G2.add100b, G2.sub100, G2.sub100b], review: [G2.add100tens, G2.sub100tens] },
-    4: { current: [G2.mul2510, G2.mul2510b, G2.add100, G2.sub100], review: [G2.add100tens, G2.sequence] },
-    5: { current: [G2.mul2510, G2.mul2510b, G2.div2510, G2.word1, G2.word2, G2.word3, G2.word4, G2.sequence], review: [G2.add100, G2.sub100] },
+    3: { current: [G2.add100, G2.add100b, G2.sub100, G2.sub100b, G2.units], review: [G2.add100tens, G2.sub100tens] },
+    4: { current: [G2.mul2510, G2.mul2510b, G2.add100, G2.sub100, G2.ampmClock], review: [G2.add100tens, G2.sequence] },
+    5: { current: [G2.mul2510, G2.mul2510b, G2.div2510, G2.word1, G2.word2, G2.word3, G2.word4, G2.units, G2.ampmClock, G2.sequence], review: [G2.add100, G2.sub100] },
   },
   3: {
     1: { current: [G3.add1000, G3.add1000b, G3.sub1000], review: [G2.add100, G2.sub100, G2.mul2510] },
     2: { current: [G3.add1000, G3.sub1000, G3.writtenAdd, G3.sequence], review: [G2.mul2510, G2.div2510] },
     3: { current: [G3.mul, G3.mulB, G3.div, G3.divB, G3.missingMul], review: [G3.add1000, G3.sub1000] },
-    4: { current: [G3.writtenAdd, G3.writtenSub, G3.mul, G3.div, G3.missingMul], review: [G3.divB, G3.sequence] },
-    5: { current: [G3.word1, G3.word2, G3.word3, G3.units, G3.mul, G3.mulB, G3.div, G3.divB], review: [G3.writtenAdd, G3.writtenSub, G3.sequence] },
+    4: { current: [G3.writtenAdd, G3.writtenSub, G3.mul, G3.div, G3.missingMul, G3.ampmClock], review: [G3.divB, G3.sequence] },
+    5: { current: [G3.word1, G3.word2, G3.word3, G3.units, G3.ampmClock, G3.mul, G3.mulB, G3.div, G3.divB], review: [G3.writtenAdd, G3.writtenSub, G3.sequence] },
   },
   4: {
     1: { current: [G4.placeValue, G4.writtenMul, G4.writtenMulB, G4.sequence], review: [G3.mul, G3.div, G3.writtenAdd] },

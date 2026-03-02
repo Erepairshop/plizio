@@ -95,6 +95,8 @@ const topicNames: Record<Lang, Record<string, string>> = {
     missingDigit: "hiányzó számjegy",
     multComparison: "szorzatos összehasonlítás",
     neighborNumber: "szomszédos szám",
+    imperialUnits: "mértékegységek",
+    ampmTime: "időolvasás",
   },
   DE: {
     addition: "Addition",
@@ -159,6 +161,8 @@ const topicNames: Record<Lang, Record<string, string>> = {
     missingDigit: "Fehlende Ziffer",
     multComparison: "Multiplikativer Vergleich",
     neighborNumber: "Nachbarzahlen",
+    imperialUnits: "Maßeinheiten",
+    ampmTime: "Uhrzeitlsen",
   },
   EN: {
     addition: "addition",
@@ -223,6 +227,8 @@ const topicNames: Record<Lang, Record<string, string>> = {
     missingDigit: "missing digit",
     multComparison: "multiplicative comparison",
     neighborNumber: "neighbor number",
+    imperialUnits: "imperial units",
+    ampmTime: "AM/PM time",
   },
   RO: {
     addition: "adunare",
@@ -287,6 +293,8 @@ const topicNames: Record<Lang, Record<string, string>> = {
     missingDigit: "cifră lipsă",
     multComparison: "comparație multiplicativă",
     neighborNumber: "numere vecine",
+    imperialUnits: "unități de măsură",
+    ampmTime: "citirea orei",
   },
 };
 
@@ -527,6 +535,47 @@ export function qLiterToDl(l: number, countryCode: string): string {
     case "RO": return `${l} litri = câți decilitri?`;
     default: return `${l} liter hány deciliter?`;
   }
+}
+
+// ─── IMPERIAL UNITS (US only) ─────────────────────────────
+
+export function qHowManyInchesInFoot(countryCode: string): string {
+  return "How many inches are in 1 foot?";
+}
+
+export function qHowManyFeetInYard(countryCode: string): string {
+  return "How many feet are in 1 yard?";
+}
+
+export function qHowManyOzInLb(countryCode: string): string {
+  return "How many ounces are in 1 pound?";
+}
+
+export function qFeetToInches(ft: number, countryCode: string): string {
+  return `${ft} feet = how many inches?`;
+}
+
+export function qYardsToFeet(yd: number, countryCode: string): string {
+  return `${yd} yards = how many feet?`;
+}
+
+export function qLbToOz(lb: number, countryCode: string): string {
+  return `${lb} pounds = how many ounces?`;
+}
+
+// ─── AM/PM TIME (US only) ─────────────────────────────
+
+export function qAmPmElapsed(startH: number, endH: number, countryCode: string): string {
+  return `School starts at ${startH}:00 AM and ends at ${endH}:00 PM. How many hours is the school day?`;
+}
+
+export function qAmPmAddHours(startH: number, addH: number, isAm: boolean, countryCode: string): string {
+  const period = isAm ? "AM" : "PM";
+  return `It is ${startH}:00 ${period}. What hour will it be ${addH} hours later?`;
+}
+
+export function qAmPmActivityEnd(startH: number, durH: number, countryCode: string): string {
+  return `An activity starts at ${startH}:00 PM and lasts ${durH} hours. What hour does it end? (PM)`;
 }
 
 // ─── PLACE VALUE ─────────────────────────────
