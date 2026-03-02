@@ -13,9 +13,19 @@ interface PdfTestData {
   gradeResult: GradeResult;
   klassenarbeitResult?: KlassenarbeitResult;
   studentName?: string;
+  countryCode?: string;
 }
 
-// Note value from percentage
+type PdfLang = 'DE' | 'EN' | 'HU' | 'RO';
+function getPdfLang(cc?: string): PdfLang {
+  if (cc === 'US' || cc === 'GB') return 'EN';
+  if (cc === 'AT' || cc === 'CH') return 'DE';
+  if (cc === 'RO') return 'RO';
+  if (cc === 'DE') return 'DE';
+  return 'HU';
+}
+
+// ─── Grade: numeric (DE/HU/RO) vs letter (EN) ────────────────────
 function getNoteValue(pct: number): number {
   if (pct >= 90) return 1;
   if (pct >= 80) return 2;
@@ -24,9 +34,21 @@ function getNoteValue(pct: number): number {
   if (pct >= 30) return 5;
   return 6;
 }
-function getNoteLabel(note: number): string {
-  return ['', 'Sehr gut', 'Gut', 'Befriedigend', 'Ausreichend', 'Mangelhaft', 'Ungenügend'][note] || '';
+
+// For EN: A/B/C/D/F letters mapped to note positions 1-6
+const EN_LETTER: Record<number, string> = { 1: 'A', 2: 'B', 3: 'C', 4: 'D', 5: 'F', 6: 'F' };
+
+const NOTE_LABELS: Record<PdfLang, Record<number, string>> = {
+  DE: { 1: 'Sehr gut', 2: 'Gut', 3: 'Befriedigend', 4: 'Ausreichend', 5: 'Mangelhaft', 6: 'Ungenügend' },
+  EN: { 1: 'Excellent', 2: 'Good', 3: 'Satisfactory', 4: 'Adequate', 5: 'Poor', 6: 'Failing' },
+  HU: { 1: 'Jeles', 2: 'Jó', 3: 'Közepes', 4: 'Elégséges', 5: 'Elégtelen', 6: 'Elégtelen' },
+  RO: { 1: 'Excelent', 2: 'Bine', 3: 'Satisfăcător', 4: 'Suficient', 5: 'Insuficient', 6: 'Insuficient' },
+};
+
+function getNoteLabel(note: number, lang: PdfLang): string {
+  return NOTE_LABELS[lang][note] || '';
 }
+
 function getNoteColorRGB(note: number): [number, number, number] {
   const map: Record<number, [number, number, number]> = {
     1: [22, 163, 74],
@@ -39,43 +61,112 @@ function getNoteColorRGB(note: number): [number, number, number] {
   return map[note] ?? [100, 100, 100];
 }
 
-// Teacher messages (same pool as TeacherNote.tsx)
-const excellentMsgs = [
-  (n: string) => `Bravo, ${n}! Ausgezeichnet!`,
-  (n: string) => `${n}, du bist ein Mathegenie!`,
-  (n: string) => `Wunderbar, ${n}! Ich bin so stolz!`,
-  (n: string) => `Fantastisch, ${n}! Weiter so!`,
-  (n: string) => `Super gemacht, ${n}! Top-Leistung!`,
-  (n: string) => `Klasse, ${n}! Du hast alles drauf!`,
-  (n: string) => `Sehr gut, ${n}! Eine echte Spitzenleistung!`,
-];
-const goodMsgs = [
-  (n: string) => `Gut gemacht, ${n}! Üb weiter!`,
-  (n: string) => `${n}, du bist auf dem richtigen Weg!`,
-  (n: string) => `Nicht schlecht, ${n}! Du kannst noch mehr!`,
-  (n: string) => `Weiter so, ${n}! Du wirst immer besser!`,
-  (n: string) => `Prima, ${n}! Ich glaube an dich!`,
-  (n: string) => `Ordentlich, ${n}! Ein bisschen mehr üben!`,
-  (n: string) => `Brav gemacht, ${n}! Du schaffst es!`,
-];
-const improveMsgs = [
-  (n: string) => `Üb weiter, ${n}! Du schaffst das!`,
-  (n: string) => `Nicht aufgeben, ${n}! Jeder lernt!`,
-  (n: string) => `${n}, versuche es nochmal! Ich glaube an dich!`,
-  (n: string) => `Kopf hoch, ${n}! Beim naechsten Mal klappt es!`,
-  (n: string) => `${n}, ueben macht den Meister! Weiter so!`,
-  (n: string) => `Kein Problem, ${n}! Wir ueben zusammen!`,
-  (n: string) => `${n}, du gibst nicht auf! Das ist toll!`,
-];
+// ─── Teacher messages per language ───────────────────────────────
+const PDF_MSGS: Record<PdfLang, { excellent: ((n: string) => string)[]; good: ((n: string) => string)[]; improve: ((n: string) => string)[] }> = {
+  DE: {
+    excellent: [
+      (n) => `Bravo, ${n}! Ausgezeichnet!`, (n) => `${n}, du bist ein Mathegenie!`,
+      (n) => `Wunderbar, ${n}! Ich bin so stolz!`, (n) => `Fantastisch, ${n}! Weiter so!`,
+      (n) => `Super gemacht, ${n}! Top-Leistung!`, (n) => `Klasse, ${n}! Du hast alles drauf!`,
+      (n) => `Sehr gut, ${n}! Eine echte Spitzenleistung!`,
+    ],
+    good: [
+      (n) => `Gut gemacht, ${n}! Ub weiter!`, (n) => `${n}, du bist auf dem richtigen Weg!`,
+      (n) => `Nicht schlecht, ${n}! Du kannst noch mehr!`, (n) => `Weiter so, ${n}! Du wirst immer besser!`,
+      (n) => `Prima, ${n}! Ich glaube an dich!`, (n) => `Ordentlich, ${n}! Ein bisschen mehr ueben!`,
+      (n) => `Brav gemacht, ${n}! Du schaffst es!`,
+    ],
+    improve: [
+      (n) => `Ub weiter, ${n}! Du schaffst das!`, (n) => `Nicht aufgeben, ${n}! Jeder lernt!`,
+      (n) => `${n}, versuche es nochmal! Ich glaube an dich!`, (n) => `Kopf hoch, ${n}! Beim naechsten Mal klappt es!`,
+      (n) => `${n}, ueben macht den Meister! Weiter so!`, (n) => `Kein Problem, ${n}! Wir ueben zusammen!`,
+      (n) => `${n}, du gibst nicht auf! Das ist toll!`,
+    ],
+  },
+  EN: {
+    excellent: [
+      (n) => `Bravo, ${n}! Outstanding!`, (n) => `${n}, you're a math genius!`,
+      (n) => `Wonderful, ${n}! I'm so proud!`, (n) => `Fantastic, ${n}! Keep it up!`,
+      (n) => `Great work, ${n}! Top performance!`, (n) => `Excellent, ${n}! You've got it all!`,
+      (n) => `Very well done, ${n}! A true star!`,
+    ],
+    good: [
+      (n) => `Good job, ${n}! Keep practicing!`, (n) => `${n}, you're on the right track!`,
+      (n) => `Not bad, ${n}! You can do even more!`, (n) => `Keep going, ${n}! You're improving!`,
+      (n) => `Nice work, ${n}! I believe in you!`, (n) => `Solid effort, ${n}! A little more practice!`,
+      (n) => `Well done, ${n}! You can do it!`,
+    ],
+    improve: [
+      (n) => `Keep practicing, ${n}! You'll get there!`, (n) => `Don't give up, ${n}! Everyone learns!`,
+      (n) => `${n}, try again! I believe in you!`, (n) => `Chin up, ${n}! Next time will be better!`,
+      (n) => `${n}, practice makes perfect! Keep going!`, (n) => `No problem, ${n}! We'll practice together!`,
+      (n) => `${n}, you didn't give up! That's great!`,
+    ],
+  },
+  HU: {
+    excellent: [
+      (n) => `Bravo, ${n}! Remek munka!`, (n) => `${n}, te igazi matek zseni vagy!`,
+      (n) => `Csodalatos, ${n}! Nagyon buszke vagyok rad!`, (n) => `Fantasztikus, ${n}! Csak igy tovabb!`,
+      (n) => `Szuper, ${n}! Kivalo teljesitmeny!`, (n) => `Nagyszeruu, ${n}! Mindent tud!`,
+      (n) => `Nagyon jo, ${n}! Valodi sztarteljesitmeny!`,
+    ],
+    good: [
+      (n) => `Jo munka, ${n}! Gyakorolj tovabb!`, (n) => `${n}, jo uton jarsz!`,
+      (n) => `Nem rossz, ${n}! Meg tobb is kitelik tolled!`, (n) => `Csak igy tovabb, ${n}! Egyre jobb leszel!`,
+      (n) => `Szep, ${n}! Hiszek benned!`, (n) => `Rendesen, ${n}! Meg egy kicsit gyakorolj!`,
+      (n) => `Ugyesen, ${n}! Sikerulni fog!`,
+    ],
+    improve: [
+      (n) => `Gyakorolj tovabb, ${n}! Sikerulni fog!`, (n) => `Ne add fel, ${n}! Mindenki tanul!`,
+      (n) => `${n}, probald meg ujra! Hiszek benned!`, (n) => `Tartsd a fejed, ${n}! Legkozelebb menni fog!`,
+      (n) => `${n}, a gyakorlat teszi a mestert!`, (n) => `Semmi gond, ${n}! Egyutt tanulunk!`,
+      (n) => `${n}, nem adtad fel! Ez nagyszeruu!`,
+    ],
+  },
+  RO: {
+    excellent: [
+      (n) => `Bravo, ${n}! Excelent!`, (n) => `${n}, esti un geniu la matematica!`,
+      (n) => `Minunat, ${n}! Sunt atat de mandru!`, (n) => `Fantastic, ${n}! Continua tot asa!`,
+      (n) => `Super, ${n}! Performanta de top!`, (n) => `Excelent, ${n}! Le stii pe toate!`,
+      (n) => `Foarte bine, ${n}! O adevarata stea!`,
+    ],
+    good: [
+      (n) => `Bine, ${n}! Continua sa exersezi!`, (n) => `${n}, esti pe drumul cel bun!`,
+      (n) => `Nu e rau, ${n}! Poti si mai mult!`, (n) => `Continua, ${n}! Te imbunatatesti!`,
+      (n) => `Frumos, ${n}! Cred in tine!`, (n) => `Corect, ${n}! Mai putin exercitiu!`,
+      (n) => `Bun, ${n}! Poti reusi!`,
+    ],
+    improve: [
+      (n) => `Exerseaza, ${n}! O sa reusesti!`, (n) => `Nu renunta, ${n}! Toti invatam!`,
+      (n) => `${n}, mai incearca! Cred in tine!`, (n) => `Tine capul sus, ${n}! Data viitoare va fi mai bine!`,
+      (n) => `${n}, practica face perfectul!`, (n) => `Nicio problema, ${n}! Exersam impreuna!`,
+      (n) => `${n}, nu ai renuntat! Asta e grozav!`,
+    ],
+  },
+};
 
-function getTeacherMessage(pct: number, name: string): string {
+const PDF_UI: Record<PdfLang, {
+  header: string; headerPractice: string; correct: string; teacher: string;
+  noteWord: string; section: string; tasks: string; student: string; page: string;
+}> = {
+  DE: { header: 'KLASSENARBEIT — MATHEMATIK', headerPractice: 'MATHE-ÜBUNGSTEST', correct: 'richtig', teacher: 'Lehrerin', noteWord: 'Note', section: 'Ergebnisse nach Abschnitt:', tasks: 'Aufgaben und Korrekturen', student: 'Schüler', page: 'Seite' },
+  EN: { header: 'MATH TEST', headerPractice: 'MATH PRACTICE TEST', correct: 'correct', teacher: 'Teacher', noteWord: 'Grade', section: 'Results by section:', tasks: 'Questions & Corrections', student: 'Student', page: 'Page' },
+  HU: { header: 'MATEK DOLGOZAT', headerPractice: 'MATEK GYAKORLÓTEST', correct: 'helyes', teacher: 'Tanár', noteWord: 'Jegy', section: 'Eredmények részletesen:', tasks: 'Feladatok és javítások', student: 'Tanuló', page: 'Oldal' },
+  RO: { header: 'TEST DE MATEMATICĂ', headerPractice: 'TEST DE PRACTICĂ MATEMATICĂ', correct: 'corect', teacher: 'Profesor', noteWord: 'Nota', section: 'Rezultate pe secțiuni:', tasks: 'Întrebări și corecturi', student: 'Elev', page: 'Pagina' },
+};
+
+function getTeacherMessage(pct: number, name: string, lang: PdfLang): string {
   const seed = Math.floor(Date.now() / 10000) % 7;
-  if (pct >= 85) return excellentMsgs[seed](name);
-  if (pct >= 55) return goodMsgs[seed](name);
-  return improveMsgs[seed](name);
+  const pool = PDF_MSGS[lang];
+  if (pct >= 85) return pool.excellent[seed](name);
+  if (pct >= 55) return pool.good[seed](name);
+  return pool.improve[seed](name);
 }
 
-export function generateTestPdf(data: PdfTestData & { studentName?: string }): void {
+export function generateTestPdf(data: PdfTestData): void {
+  const lang = getPdfLang(data.countryCode);
+  const ui = PDF_UI[lang];
+  const isEN = lang === 'EN';
   const doc = new jsPDF({ orientation: "portrait", unit: "mm", format: "a4" });
   const pageW = 210;
   const pageH = 297;
@@ -126,7 +217,7 @@ export function generateTestPdf(data: PdfTestData & { studentName?: string }): v
   doc.setFont("helvetica", "bold");
   doc.setFontSize(9);
   doc.setTextColor(255, 255, 255);
-  const title = data.testType === "klassenarbeit" ? "KLASSENARBEIT — MATHEMATIK" : "MATHE-ÜBUNGSTEST";
+  const title = data.testType === "klassenarbeit" ? ui.header : ui.headerPractice;
   doc.text(title, marginL - 2, 8);
 
   // Grade level right-aligned in header
@@ -140,7 +231,7 @@ export function generateTestPdf(data: PdfTestData & { studentName?: string }): v
   doc.setFont("helvetica", "bold");
   doc.setFontSize(13);
   doc.setTextColor(15, 23, 42);
-  const displayName = data.studentName || "Schüler";
+  const displayName = data.studentName || ui.student;
   doc.text(displayName, marginL, y);
 
   // Date right-aligned
@@ -149,7 +240,7 @@ export function generateTestPdf(data: PdfTestData & { studentName?: string }): v
   doc.setTextColor(100, 116, 139);
   const mins = Math.floor(data.elapsedTime / 60);
   const secs = data.elapsedTime % 60;
-  doc.text(`${data.date}  ·  ${mins}:${secs.toString().padStart(2, "0")} Min.`, pageW - marginR, y, { align: "right" });
+  doc.text(`${data.date}  ·  ${mins}:${secs.toString().padStart(2, "0")} min`, pageW - marginR, y, { align: "right" });
 
   y += 5;
 
@@ -163,10 +254,10 @@ export function generateTestPdf(data: PdfTestData & { studentName?: string }): v
   const noteValue = data.klassenarbeitResult
     ? Math.round(data.klassenarbeitResult.note.value)
     : getNoteValue(data.gradeResult.percentage);
-  const noteLabel = data.klassenarbeitResult
-    ? data.klassenarbeitResult.note.label
-    : getNoteLabel(noteValue);
+  const noteLabel = getNoteLabel(noteValue, lang);
   const noteRGB = getNoteColorRGB(noteValue);
+  // EN uses letter grades (A/B/C/D/F), others use numbers (1-6)
+  const noteDisplay = isEN ? EN_LETTER[noteValue] : String(noteValue);
 
   // Draw circle
   const circleX = pageW - marginR - 14;
@@ -180,7 +271,7 @@ export function generateTestPdf(data: PdfTestData & { studentName?: string }): v
   doc.setFont("helvetica", "bold");
   doc.setFontSize(18);
   doc.setTextColor(255, 255, 255);
-  doc.text(String(noteValue), circleX, circleY + 5, { align: "center" });
+  doc.text(noteDisplay, circleX, circleY + 5, { align: "center" });
 
   // Note label below circle
   doc.setFont("helvetica", "normal");
@@ -192,7 +283,7 @@ export function generateTestPdf(data: PdfTestData & { studentName?: string }): v
   doc.setFont("helvetica", "bold");
   doc.setFontSize(11);
   doc.setTextColor(15, 23, 42);
-  doc.text(`${data.gradeResult.score}/${data.gradeResult.total} richtig`, marginL, y + 7);
+  doc.text(`${data.gradeResult.score}/${data.gradeResult.total} ${ui.correct}`, marginL, y + 7);
 
   doc.setFont("helvetica", "normal");
   doc.setFontSize(9);
@@ -206,7 +297,7 @@ export function generateTestPdf(data: PdfTestData & { studentName?: string }): v
     doc.setFont("helvetica", "bold");
     doc.setFontSize(9);
     doc.setTextColor(51, 65, 85);
-    doc.text("Ergebnisse nach Abschnitt:", marginL, y);
+    doc.text(ui.section, marginL, y);
     y += 5;
 
     data.klassenarbeitResult.sectionResults.forEach((sec: SectionResult) => {
@@ -242,7 +333,7 @@ export function generateTestPdf(data: PdfTestData & { studentName?: string }): v
   doc.setFont("helvetica", "bold");
   doc.setFontSize(10);
   doc.setTextColor(30, 41, 59);
-  doc.text("Aufgaben und Korrekturen", marginL, y);
+  doc.text(ui.tasks, marginL, y);
   y += 7;
 
   // ── QUESTIONS ────────────────────────────────────────────────────────
@@ -330,7 +421,7 @@ export function generateTestPdf(data: PdfTestData & { studentName?: string }): v
   doc.setLineWidth(0.5);
   const noteBoxY = y;
 
-  const teacherMsg = getTeacherMessage(data.gradeResult.percentage, data.studentName || 'Schüler');
+  const teacherMsg = getTeacherMessage(data.gradeResult.percentage, data.studentName || ui.student, lang);
   const msgLines = doc.splitTextToSize(teacherMsg, contentW - 24);
   const noteBoxH = msgLines.length * 5 + 28;
   doc.roundedRect(marginL, noteBoxY, contentW, noteBoxH, 3, 3, "FD");
@@ -349,13 +440,13 @@ export function generateTestPdf(data: PdfTestData & { studentName?: string }): v
   doc.setFont("helvetica", "bold");
   doc.setFontSize(8);
   doc.setTextColor(156, 163, 175);
-  doc.text("Lehrerin:", marginL + 6, y + 7);
+  doc.text(`${ui.teacher}:`, marginL + 6, y + 7);
 
   // Note badge: "Note: X – Label"
   doc.setFont("helvetica", "bold");
   doc.setFontSize(9);
   doc.setTextColor(noteRGB[0], noteRGB[1], noteRGB[2]);
-  doc.text(`Note: ${noteValue}  —  ${noteLabel}`, marginL + 6, y + 13);
+  doc.text(`${ui.noteWord}: ${noteDisplay}  —  ${noteLabel}`, marginL + 6, y + 13);
 
   // Teacher message
   doc.setFont("helvetica", "italic");
@@ -373,16 +464,17 @@ export function generateTestPdf(data: PdfTestData & { studentName?: string }): v
     doc.setFontSize(7);
     doc.setTextColor(148, 163, 184);
     doc.text(
-      `Seite ${p}/${pageCount}   ·   ${data.date}   ·   PLIZIO`,
+      `${ui.page} ${p}/${pageCount}   ·   ${data.date}   ·   PLIZIO`,
       pageW / 2, pageH - 6,
       { align: "center" }
     );
   }
 
   // ── SAVE ──────────────────────────────────────────────────────────────
-  const safeName = (data.studentName || "Schüler").replace(/[^a-zA-ZÄÖÜäöüß0-9]/g, "_");
-  const fileName = data.testType === "klassenarbeit"
-    ? `Klassenarbeit_Mathe_${safeName}_${data.date.replace(/\./g, "-")}.pdf`
-    : `Mathetest_${safeName}_${data.date.replace(/\./g, "-")}.pdf`;
+  const safeName = (data.studentName || ui.student).replace(/[^a-zA-ZÄÖÜäöüßáéíóöőúüű0-9]/g, "_");
+  const prefix = isEN
+    ? (data.testType === "klassenarbeit" ? "Math_Test" : "Math_Practice")
+    : (data.testType === "klassenarbeit" ? "Klassenarbeit_Mathe" : "Mathetest");
+  const fileName = `${prefix}_${safeName}_${data.date.replace(/\./g, "-")}.pdf`;
   doc.save(fileName);
 }

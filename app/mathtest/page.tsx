@@ -39,6 +39,7 @@ import {
   type Test as ThemeBasedTest,
 } from "@/lib/mathTestGenerator";
 import HierarchicalThemeSelector, { type Theme as ThemeSelectorTheme } from "@/components/HierarchicalThemeSelector";
+import { getTranslatedPeriodLabel } from "@/lib/mathTranslations";
 import { fetchCurriculum, type CurriculumData } from "@/lib/curriculum/curriculumApi";
 import curriculum1 from "@/data/mathematics/class-1/curriculum.json";
 import curriculum2 from "@/data/mathematics/class-2/curriculum.json";
@@ -658,15 +659,36 @@ export default function MathTestPage() {
     return () => { cancelled = true; };
   }, [country, selectedGrade]);
 
-  // Resolved themes: prefer Supabase, fall back to JSON
+  // Resolved themes: prefer Supabase, fall back to JSON; for EN build period-based themes
   const resolvedThemes = useMemo((): ThemeSelectorTheme[] => {
+    const isEN = country?.code === 'US' || country?.code === 'GB';
+    if (isEN && selectedGrade) {
+      // Build 5 period themes from CURRICULUM for EN users
+      const PERIOD_COLORS = ['#3B82F6','#8B5CF6','#10B981','#F59E0B','#EF4444'];
+      const PERIOD_ICONS = ['📚','📖','🔢','📐','🎓'];
+      return [1,2,3,4,5].map((period, i) => ({
+        id: `en_grade${selectedGrade}_period${period}`,
+        name: getTranslatedPeriodLabel(period, country!.code),
+        color: PERIOD_COLORS[i],
+        icon: PERIOD_ICONS[i],
+        description: getTranslatedPeriodLabel(period, country!.code),
+        subtopics: [{
+          id: `en_period_${selectedGrade}_${period}`,
+          name: getTranslatedPeriodLabel(period, country!.code),
+          color: PERIOD_COLORS[i],
+          icon: PERIOD_ICONS[i],
+          taskFile: '',
+          taskIds: [],
+        }],
+      }));
+    }
     if (supabaseCurriculum && supabaseCurriculum.themes.length > 0) {
       return mapCurriculumToThemes(supabaseCurriculum);
     }
     const fallback = selectedGrade ? CURRICULA[selectedGrade] : null;
     if (fallback) return fallback.themes as unknown as ThemeSelectorTheme[];
     return [];
-  }, [supabaseCurriculum, selectedGrade]);
+  }, [supabaseCurriculum, selectedGrade, country]);
 
   const handleGradeSelect = (grade: number) => {
     setSelectedGrade(grade);
@@ -676,26 +698,6 @@ export default function MathTestPage() {
     setGradeResult(null);
     setKlassenarbeitResult(null);
     setSupabaseCurriculum(null);
-
-    // EN: skip theme-select, generate 15 English questions directly
-    if (country?.code === "US" || country?.code === "GB") {
-      const cc = country.code;
-      const pool = [...generateTest(grade, undefined, cc), ...generateKlassenarbeit(grade, undefined, cc)];
-      const seen = new Set<string>();
-      const qs: typeof pool = [];
-      for (const q of pool) {
-        if (!seen.has(q.question) && qs.length < 15) { seen.add(q.question); qs.push(q); }
-      }
-      setQuestions(qs);
-      setAnswers(new Array(qs.length).fill(null));
-      setRealisticKlassenarbeit(null);
-      setAvatarMood("idle");
-      setElapsedTime(0);
-      setKlassenarbeitStartTime(Date.now());
-      setKlassenarbeitTimeLeft(40 * 60);
-      setGameState("playing");
-      return;
-    }
 
     setGameState("theme-select");
   };
@@ -738,6 +740,30 @@ export default function MathTestPage() {
     localStorage.setItem("klassenarbeitStartTime", now.toString());
 
     try {
+      // ─── EN: period-based generation (no JSON task files needed) ─
+      const enPeriodIds = selectedSubtopics.filter(id => id.startsWith('en_period_'));
+      if (enPeriodIds.length > 0) {
+        const cc = country!.code;
+        const grade = selectedGrade!;
+        const seen = new Set<string>();
+        const qs: MathQuestion[] = [];
+        for (const pid of enPeriodIds) {
+          // Format: en_period_{grade}_{period}
+          const period = parseInt(pid.split('_')[3]);
+          const pool = [...generateTest(grade, period, cc), ...generateKlassenarbeit(grade, undefined, cc)];
+          for (const q of pool) {
+            if (!seen.has(q.question) && qs.length < 15) { seen.add(q.question); qs.push(q); }
+          }
+        }
+        setQuestions(qs);
+        setAnswers(new Array(qs.length).fill(null));
+        setRealisticKlassenarbeit(null);
+        setAvatarMood("idle");
+        setGameState("playing");
+        setGeneratingTest(false);
+        return;
+      }
+
       // ─── Collect task IDs from selected subtopics ─────────────
       // Works with both JSON themes (slug-based) and Supabase themes (UUID-based)
       const allTaskIds: string[] = [];
@@ -1504,6 +1530,7 @@ export default function MathTestPage() {
                   isGrading={isGrading}
                   gradeIndex={gradingIndex}
                   testId={`ka_${selectedGrade}_${testType}`}
+                  countryCode={country?.code}
                 />
               )}
 
@@ -1594,8 +1621,9 @@ export default function MathTestPage() {
               {/* Inline teacher note - appears on the test paper after all questions are graded */}
               {showTeacherNote && (
                 <InlineTeacherNote
-                  playerName={user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || 'Schüler'}
+                  playerName={user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || ''}
                   percentage={teacherNoteScore}
+                  countryCode={country?.code}
                 />
               )}
             </div>
@@ -1699,18 +1727,27 @@ export default function MathTestPage() {
               >
                 {/* Note display */}
                 <div className="text-center">
-                  <div
-                    className="text-8xl font-black mb-3"
-                    style={{ color: klassenarbeitResult.note.color }}
-                  >
-                    {klassenarbeitResult.note.emoji} {klassenarbeitResult.note.value}
-                  </div>
-                  <p
-                    className="text-3xl font-black"
-                    style={{ color: klassenarbeitResult.note.color }}
-                  >
-                    {klassenarbeitResult.note.label}
-                  </p>
+                  {(() => {
+                    const isEN = country?.code === 'US' || country?.code === 'GB';
+                    const v = klassenarbeitResult.note.value;
+                    const display = isEN ? ['','A','B','C','D','F','F'][v] : String(v);
+                    const labels: Record<string, string[]> = {
+                      EN: ['','Excellent','Good','Satisfactory','Adequate','Poor','Failing'],
+                      HU: ['','Jeles','Jó','Közepes','Elégséges','Elégtelen','Elégtelen'],
+                      RO: ['','Excelent','Bine','Satisfăcător','Suficient','Insuficient','Insuficient'],
+                    };
+                    const cc = country?.code ?? '';
+                    const langKey = (cc === 'US' || cc === 'GB') ? 'EN' : cc === 'RO' ? 'RO' : cc === 'HU' ? 'HU' : null;
+                    const label = langKey ? labels[langKey][v] : klassenarbeitResult.note.label;
+                    return (<>
+                      <div className="text-8xl font-black mb-3" style={{ color: klassenarbeitResult.note.color }}>
+                        {klassenarbeitResult.note.emoji} {display}
+                      </div>
+                      <p className="text-3xl font-black" style={{ color: klassenarbeitResult.note.color }}>
+                        {label}
+                      </p>
+                    </>);
+                  })()}
                   <p className="text-white/60 text-sm mt-2">
                     {klassenarbeitResult.totalPoints}/{klassenarbeitResult.maxTotalPoints} {ui?.pointsUnit || 'pts'} ({klassenarbeitResult.percentage}%)
                   </p>
@@ -1846,6 +1883,7 @@ export default function MathTestPage() {
                 gradeResult,
                 klassenarbeitResult: klassenarbeitResult || undefined,
                 studentName: user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || undefined,
+                countryCode: country?.code,
               });
             }}
             className="flex-1 py-3 rounded-xl border-2 border-sky-400/40 text-sky-400 font-bold text-sm flex items-center justify-center gap-2"
