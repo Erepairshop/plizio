@@ -378,10 +378,11 @@ export default function KodexPage() {
           saveCard({ id: generateCardId(), game: "kodex", theme: cfg.theme.key, rarity: "legendary", score, total: maxLives, date: new Date().toISOString() });
           setEarnedCard("legendary");
         } else {
-          // Levels 1-9: save a card but don't show it (expedition reward comes at the end)
-          const rarity = calculateRarity(score, maxLives, streak);
+          // Levels 1-9: bronze/silver/gold only (legendary reserved for level 10)
+          const raw = calculateRarity(score, maxLives, streak);
+          const rarity: CardRarity = raw === "legendary" ? "gold" : raw;
           saveCard({ id: generateCardId(), game: "kodex", theme: cfg.theme.key, rarity, score, total: maxLives, date: new Date().toISOString() });
-          setEarnedCard(null);
+          setEarnedCard(rarity);
         }
         setGameState("won");
         setJumpTrigger({ reaction: "victory", timestamp: Date.now() });
@@ -432,8 +433,20 @@ export default function KodexPage() {
       setGuessed(newGuessed);
       const allRevealed = [...puzzle].every(l => l === " " || newGuessed.has(l));
       if (allRevealed) {
-        // Only show legendary card on level 10
-        setEarnedCard(cfg.type === "secretcode" ? "legendary" : null);
+        const streak = updateStreak();
+        const maxLives = cfg.lives;
+        const score = Math.max(0, maxLives - wrongCount);
+        incrementTotalGames();
+        if (wrongCount === 0) incrementPerfectScores();
+        if (cfg.type === "secretcode") {
+          saveCard({ id: generateCardId(), game: "kodex", theme: cfg.theme.key, rarity: "legendary", score, total: maxLives, date: new Date().toISOString() });
+          setEarnedCard("legendary");
+        } else {
+          const raw = calculateRarity(score, maxLives, streak);
+          const rarity: CardRarity = raw === "legendary" ? "gold" : raw;
+          saveCard({ id: generateCardId(), game: "kodex", theme: cfg.theme.key, rarity, score, total: maxLives, date: new Date().toISOString() });
+          setEarnedCard(rarity);
+        }
         setGameState("won");
         setJumpTrigger({ reaction: "victory", timestamp: Date.now() });
       }
