@@ -720,6 +720,185 @@ const CURRICULUM: Record<number, Record<number, PeriodTopics>> = {
   },
 };
 
+// ─── EN TOPIC DEFINITIONS ────────────────────────────────────────
+// Real math topics per grade for EN (US/GB) users
+// Each topic has a key, name, color, icon, and list of generators
+
+export interface ENTopicDef {
+  key: string;
+  name: string;
+  color: string;
+  icon: string;
+  generators: Generator[];
+}
+
+export interface ENThemeDef {
+  key: string;
+  name: string;
+  color: string;
+  icon: string;
+  topics: ENTopicDef[];
+}
+
+const EN_THEMES: Record<number, ENThemeDef[]> = {
+  1: [
+    { key: 'g1_numbers', name: 'Numbers & Addition', color: '#3B82F6', icon: '➕', topics: [
+      { key: 'add10', name: 'Addition to 10', color: '#60A5FA', icon: '➕', generators: [G1.add10, G1.add10b, G1.missing10] },
+      { key: 'add20', name: 'Addition to 20', color: '#3B82F6', icon: '➕', generators: [G1.add20, G1.add20b] },
+      { key: 'compare', name: 'Comparing Numbers', color: '#2563EB', icon: '🔢', generators: [G1.compare] },
+    ]},
+    { key: 'g1_sub', name: 'Subtraction', color: '#EF4444', icon: '➖', topics: [
+      { key: 'sub10', name: 'Subtraction to 10', color: '#F87171', icon: '➖', generators: [G1.sub10, G1.sub10b, G1.missing10sub] },
+      { key: 'sub20', name: 'Subtraction to 20', color: '#EF4444', icon: '➖', generators: [G1.sub20, G1.sub20b] },
+    ]},
+    { key: 'g1_word', name: 'Word Problems', color: '#8B5CF6', icon: '📖', topics: [
+      { key: 'word', name: 'Story Problems', color: '#8B5CF6', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
+    ]},
+  ],
+  2: [
+    { key: 'g2_arith', name: 'Addition & Subtraction', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'add100', name: 'Addition to 100', color: '#60A5FA', icon: '➕', generators: [G2.add100tens, G2.add100, G2.add100b, G2.missing100] },
+      { key: 'sub100', name: 'Subtraction to 100', color: '#EF4444', icon: '➖', generators: [G2.sub100tens, G2.sub100, G2.sub100b] },
+      { key: 'sequence', name: 'Number Sequences', color: '#2563EB', icon: '🔢', generators: [G2.sequence] },
+    ]},
+    { key: 'g2_mul', name: 'Multiplication & Division', color: '#10B981', icon: '✖️', topics: [
+      { key: 'mul', name: 'Multiplication (×2, ×5, ×10)', color: '#34D399', icon: '✖️', generators: [G2.mul2510, G2.mul2510b] },
+      { key: 'div', name: 'Division', color: '#10B981', icon: '➗', generators: [G2.div2510] },
+    ]},
+    { key: 'g2_word', name: 'Word Problems', color: '#8B5CF6', icon: '📖', topics: [
+      { key: 'word', name: 'Story Problems', color: '#8B5CF6', icon: '📖', generators: [G2.word1, G2.word2, G2.word3, G2.word4] },
+    ]},
+    { key: 'g2_measure', name: 'Measurement', color: '#F59E0B', icon: '📏', topics: [
+      { key: 'units', name: 'Units & Measurement', color: '#FBBF24', icon: '📏', generators: [G2.units, G2.ampmClock] },
+    ]},
+  ],
+  3: [
+    { key: 'g3_arith', name: 'Large Numbers', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'add1000', name: 'Addition to 1000', color: '#60A5FA', icon: '➕', generators: [G3.add1000, G3.add1000b, G3.writtenAdd] },
+      { key: 'sub1000', name: 'Subtraction to 1000', color: '#EF4444', icon: '➖', generators: [G3.sub1000, G3.writtenSub] },
+      { key: 'sequence', name: 'Number Sequences', color: '#2563EB', icon: '🔢', generators: [G3.sequence] },
+    ]},
+    { key: 'g3_mul', name: 'Multiplication & Division', color: '#10B981', icon: '✖️', topics: [
+      { key: 'mul', name: 'Multiplication', color: '#34D399', icon: '✖️', generators: [G3.mul, G3.mulB, G3.missingMul] },
+      { key: 'div', name: 'Division', color: '#10B981', icon: '➗', generators: [G3.div, G3.divB] },
+    ]},
+    { key: 'g3_word', name: 'Word Problems', color: '#8B5CF6', icon: '📖', topics: [
+      { key: 'word', name: 'Story Problems', color: '#8B5CF6', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
+    ]},
+    { key: 'g3_measure', name: 'Measurement', color: '#F59E0B', icon: '📏', topics: [
+      { key: 'units', name: 'Units & Measurement', color: '#FBBF24', icon: '📏', generators: [G3.units, G3.ampmClock] },
+    ]},
+  ],
+  4: [
+    { key: 'g4_ops', name: 'Numbers & Operations', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'place', name: 'Place Value', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.sequence] },
+      { key: 'mul', name: 'Multiplication', color: '#34D399', icon: '✖️', generators: [G4.writtenMul, G4.writtenMulB] },
+      { key: 'div', name: 'Division', color: '#10B981', icon: '➗', generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit] },
+    ]},
+    { key: 'g4_frac', name: 'Fractions', color: '#8B5CF6', icon: '½', topics: [
+      { key: 'frac', name: 'Fractions', color: '#A78BFA', icon: '½', generators: [G4.fraction, G4.fractionB] },
+      { key: 'fracArith', name: 'Fraction Arithmetic', color: '#8B5CF6', icon: '½', generators: [G4.fractionAdd, G4.fractionSub] },
+    ]},
+    { key: 'g4_geo', name: 'Geometry & Measurement', color: '#F59E0B', icon: '📐', topics: [
+      { key: 'geo', name: 'Geometry', color: '#FBBF24', icon: '📐', generators: [G4.geometry, G4.geometryB] },
+      { key: 'units', name: 'Units', color: '#F59E0B', icon: '📏', generators: [G4.units] },
+    ]},
+    { key: 'g4_word', name: 'Word Problems', color: '#EF4444', icon: '📖', topics: [
+      { key: 'word', name: 'Story Problems', color: '#EF4444', icon: '📖', generators: [G4.word1, G4.word2, G4.word3] },
+    ]},
+  ],
+  5: [
+    { key: 'g5_ops', name: 'Numbers & Operations', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'large', name: 'Large Numbers & Rounding', color: '#60A5FA', icon: '🔢', generators: [G5.largeNumbers, G5.roundHundreds] },
+      { key: 'ops', name: 'Order of Operations', color: '#2563EB', icon: '🔢', generators: [G5.orderOfOps, G5.orderOfOpsB, G5.orderOfOpsC, G5.orderOfOpsD] },
+    ]},
+    { key: 'g5_frac', name: 'Fractions & Percent', color: '#8B5CF6', icon: '½', topics: [
+      { key: 'frac', name: 'Fractions', color: '#A78BFA', icon: '½', generators: [G5.fractionAdd, G5.fractionSub] },
+      { key: 'pct', name: 'Percentages', color: '#8B5CF6', icon: '%', generators: [G5.percent10, G5.percent50, G5.percent25] },
+    ]},
+    { key: 'g5_geo', name: 'Geometry', color: '#F59E0B', icon: '📐', topics: [
+      { key: 'geo', name: 'Area & Perimeter', color: '#FBBF24', icon: '📐', generators: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter] },
+    ]},
+    { key: 'g5_word', name: 'Word Problems', color: '#EF4444', icon: '📖', topics: [
+      { key: 'word', name: 'Story Problems', color: '#EF4444', icon: '📖', generators: [G5.wordDiscount, G5.wordOps] },
+    ]},
+  ],
+  6: [
+    { key: 'g6_neg', name: 'Negative Numbers', color: '#6366F1', icon: '➖', topics: [
+      { key: 'neg', name: 'Negative Numbers', color: '#818CF8', icon: '➖', generators: [G6.negative, G6.negativeB, G6.negativeC] },
+    ]},
+    { key: 'g6_frac', name: 'Fractions & Percent', color: '#8B5CF6', icon: '½', topics: [
+      { key: 'frac', name: 'Fraction Multiplication & Division', color: '#A78BFA', icon: '½', generators: [G6.fractionMul, G6.fractionDiv] },
+      { key: 'pct', name: 'Percentages', color: '#8B5CF6', icon: '%', generators: [G6.percentCalc, G6.percentDiscount] },
+    ]},
+    { key: 'g6_ratio', name: 'Ratios & Speed', color: '#10B981', icon: '⚡', topics: [
+      { key: 'ratio', name: 'Ratios & Proportions', color: '#34D399', icon: '⚡', generators: [G6.ratio, G6.speed] },
+    ]},
+    { key: 'g6_geo', name: 'Geometry', color: '#F59E0B', icon: '📐', topics: [
+      { key: 'geo', name: 'Area (triangles & squares)', color: '#FBBF24', icon: '📐', generators: [G6.areaTriangle, G6.areaSquare] },
+    ]},
+    { key: 'g6_word', name: 'Word Problems', color: '#EF4444', icon: '📖', topics: [
+      { key: 'word', name: 'Story Problems', color: '#EF4444', icon: '📖', generators: [G6.wordShoe, G6.wordTrain] },
+    ]},
+  ],
+  7: [
+    { key: 'g7_algebra', name: 'Algebra', color: '#6366F1', icon: 'x', topics: [
+      { key: 'powers', name: 'Powers & Exponents', color: '#818CF8', icon: '²', generators: [G7.power2, G7.power3, G7.power10] },
+      { key: 'algebra', name: 'Algebraic Expressions', color: '#6366F1', icon: 'x', generators: [G7.algebraSub, G7.algebraSimp, G7.algebraMul] },
+    ]},
+    { key: 'g7_eq', name: 'Equations', color: '#8B5CF6', icon: '=', topics: [
+      { key: 'eq', name: 'Solving Equations', color: '#A78BFA', icon: '=', generators: [G7.equation, G7.equationB] },
+    ]},
+    { key: 'g7_geo', name: 'Geometry & Triangles', color: '#F59E0B', icon: '📐', topics: [
+      { key: 'tri', name: 'Triangle Angles', color: '#FBBF24', icon: '🔺', generators: [G7.triangleAngle, G7.equilateral, G7.isosceles] },
+      { key: 'pyth', name: 'Pythagorean Theorem', color: '#F59E0B', icon: '📐', generators: [G7.pythag34, G7.pythag68, G7.pythagLeg13, G7.pythagLeg10] },
+    ]},
+    { key: 'g7_word', name: 'Word Problems', color: '#EF4444', icon: '📖', topics: [
+      { key: 'word', name: 'Story Problems', color: '#EF4444', icon: '📖', generators: [G7.wordThink, G7.wordSquare] },
+    ]},
+  ],
+  8: [
+    { key: 'g8_algebra', name: 'Algebra & Roots', color: '#6366F1', icon: '√', topics: [
+      { key: 'sqrt', name: 'Square Roots', color: '#818CF8', icon: '√', generators: [G8.sqrt, G8.sqrtExpr] },
+      { key: 'complex', name: 'Complex Expressions', color: '#6366F1', icon: 'x²', generators: [G8.complexPow, G8.complexExpr] },
+    ]},
+    { key: 'g8_eq', name: 'Equations', color: '#8B5CF6', icon: '=', topics: [
+      { key: 'eq', name: 'Solving Equations', color: '#A78BFA', icon: '=', generators: [G8.eqSimple, G8.eqTwoSide] },
+    ]},
+    { key: 'g8_func', name: 'Functions', color: '#10B981', icon: 'f(x)', topics: [
+      { key: 'func', name: 'Linear Functions', color: '#34D399', icon: 'f(x)', generators: [G8.funcValue, G8.funcIntercept] },
+    ]},
+    { key: 'g8_prob', name: 'Probability', color: '#F59E0B', icon: '🎲', topics: [
+      { key: 'prob', name: 'Probability', color: '#FBBF24', icon: '🎲', generators: [G8.probBall, G8.probDice, G8.probCoin] },
+    ]},
+  ],
+};
+
+export function getENThemes(grade: number): ENThemeDef[] {
+  return EN_THEMES[grade] || [];
+}
+
+export function generateTopicQuestions(grade: number, topicKey: string, countryCode: string, count = 10): MathQuestion[] {
+  const themes = EN_THEMES[grade] || [];
+  for (const theme of themes) {
+    for (const topic of theme.topics) {
+      if (topic.key === topicKey) {
+        const pool: MathQuestion[] = [];
+        const seen = new Set<string>();
+        let attempts = 0;
+        while (pool.length < count && attempts < count * 5) {
+          const gen = pick(topic.generators);
+          const q = gen(countryCode);
+          if (!seen.has(q.question)) { seen.add(q.question); pool.push(q); }
+          attempts++;
+        }
+        return pool;
+      }
+    }
+  }
+  return [];
+}
+
 // ─── TEST GENERATION (NO DUPLICATES) ─────────────────────────────
 
 const TOTAL_QUESTIONS = 10;

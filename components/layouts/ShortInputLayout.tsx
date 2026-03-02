@@ -12,6 +12,7 @@ interface ShortInputLayoutProps {
   correctAnswer?: string | number;
   isGrading?: boolean;
   disabled?: boolean;
+  countryCode?: string;
 }
 
 export default function ShortInputLayout({
@@ -23,8 +24,12 @@ export default function ShortInputLayout({
   correctAnswer,
   isGrading = false,
   disabled = false,
+  countryCode,
 }: ShortInputLayoutProps) {
   const isCorrect = value === correctAnswer;
+  const isEN = countryCode === 'US' || countryCode === 'GB';
+  const correctWord = isEN ? 'Correct!' : countryCode === 'HU' ? 'Helyes!' : countryCode === 'RO' ? 'Corect!' : 'Richtig!';
+  const wrongPrefix = isEN ? 'Wrong. Correct answer:' : countryCode === 'HU' ? 'Helytelen. Helyes válasz:' : countryCode === 'RO' ? 'Greșit. Răspuns corect:' : 'Falsch. Richtige Antwort:';
 
   return (
     <motion.div
@@ -66,13 +71,13 @@ export default function ShortInputLayout({
             {isCorrect ? (
               <>
                 <Check size={16} className="text-green-600" />
-                <span className="text-xs text-green-600 font-bold">Richtig!</span>
+                <span className="text-xs text-green-600 font-bold">{correctWord}</span>
               </>
             ) : (
               <>
                 <X size={16} className="text-red-600" />
                 <span className="text-xs text-red-600 font-bold">
-                  Falsch. Richtige Antwort: <strong>{correctAnswer}</strong>
+                  {wrongPrefix} <strong>{correctAnswer}</strong>
                 </span>
               </>
             )}

@@ -138,6 +138,7 @@ export default function RealisticKlassenarbeitDisplay({
                   correctAnswer={typeof subQuestion.correctAnswer === "object" ? undefined : subQuestion.correctAnswer}
                   isGrading={isGrading && isGraded}
                   disabled={isGrading}
+                  countryCode={countryCode}
                 />
               </div>
               {draftButton}
@@ -190,6 +191,7 @@ export default function RealisticKlassenarbeitDisplay({
                   }
                   isGrading={isGrading && isGraded}
                   disabled={isGrading}
+                  countryCode={countryCode}
                 />
               </div>
               {draftButton}
@@ -216,6 +218,7 @@ export default function RealisticKlassenarbeitDisplay({
                   isGrading={isGrading && isGraded}
                   disabled={isGrading}
                   workSpaceLines={subQuestion.workSpaceLines}
+                  countryCode={countryCode}
                 />
               </div>
               {draftButton}

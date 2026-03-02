@@ -167,6 +167,8 @@ export default function MathQuestionDisplay({
   countryCode = "DE",
 }: MathQuestionDisplayProps) {
   const isEN = countryCode === "US" || countryCode === "GB";
+  const correctWord = isEN ? 'Correct!' : countryCode === 'HU' ? 'Helyes!' : countryCode === 'RO' ? 'Corect!' : 'Richtig!';
+  const wrongWord = isEN ? 'Wrong! Correct answer:' : countryCode === 'HU' ? 'Helytelen! Helyes válasz:' : countryCode === 'RO' ? 'Greșit! Răspuns corect:' : 'Falsch! Richtige Antwort:';
   const [draftOpen, setDraftOpen] = useState(false);
   const [textAnswer, setTextAnswer] = useState('');
 
@@ -290,7 +292,7 @@ export default function MathQuestionDisplay({
                   color: '#16a34a',
                   fontWeight: 700,
                 }}>
-                  ✓ Richtig!
+                  ✓ {correctWord}
                 </span>
               ) : (
                 <div style={{ display: 'flex', alignItems: 'center', gap: 10, flexWrap: 'wrap' }}>
@@ -390,8 +392,8 @@ export default function MathQuestionDisplay({
             animate={{ opacity: 1 }}
           >
             {isCorrect
-              ? (isEN ? '✅ Correct!' : '✅ Richtig!')
-              : (isEN ? '❌ Wrong - Correct answer: ' : '❌ Falsch - Richtige Antwort: ') + question.correctAnswer}
+              ? `✅ ${correctWord}`
+              : `❌ ${wrongWord} ${question.correctAnswer}`}
           </motion.div>
         )}
       </motion.div>

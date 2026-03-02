@@ -13,6 +13,7 @@ interface TableFillLayoutProps {
   correctAnswers?: Record<string, string | number>;
   isGrading?: boolean;
   disabled?: boolean;
+  countryCode?: string;
 }
 
 export default function TableFillLayout({
@@ -24,7 +25,10 @@ export default function TableFillLayout({
   correctAnswers = {},
   isGrading = false,
   disabled = false,
+  countryCode,
 }: TableFillLayoutProps) {
+  const isEN = countryCode === 'US' || countryCode === 'GB';
+  const correctAnswersLabel = isEN ? 'Correct Answers:' : countryCode === 'HU' ? 'Helyes válaszok:' : countryCode === 'RO' ? 'Răspunsuri corecte:' : 'Richtige Antworten:';
   const totalPoints =
     rows?.reduce(
       (sum, row) => sum + (row.cells?.reduce((s, c) => s + (c.points || 0), 0) || 0),
@@ -103,7 +107,7 @@ export default function TableFillLayout({
       {/* Grading feedback */}
       {isGrading && (
         <div className="mt-3 text-xs text-gray-600">
-          <p className="font-bold mb-2">Richtige Antworten:</p>
+          <p className="font-bold mb-2">{correctAnswersLabel}</p>
           <div className="grid grid-cols-2 gap-2">
             {rows?.map((row, rowIdx) =>
               row.cells?.map((cell, cellIdx) => {

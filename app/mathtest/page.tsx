@@ -27,6 +27,8 @@ import {
   updateMathStats,
   getPeriod,
   getPeriodLabel,
+  getENThemes,
+  generateTopicQuestions,
   type MathQuestion,
   type GradeResult,
   type KlassenarbeitResult,
@@ -39,7 +41,6 @@ import {
   type Test as ThemeBasedTest,
 } from "@/lib/mathTestGenerator";
 import HierarchicalThemeSelector, { type Theme as ThemeSelectorTheme } from "@/components/HierarchicalThemeSelector";
-import { getTranslatedPeriodLabel } from "@/lib/mathTranslations";
 import { fetchCurriculum, type CurriculumData } from "@/lib/curriculum/curriculumApi";
 import curriculum1 from "@/data/mathematics/class-1/curriculum.json";
 import curriculum2 from "@/data/mathematics/class-2/curriculum.json";
@@ -663,23 +664,21 @@ export default function MathTestPage() {
   const resolvedThemes = useMemo((): ThemeSelectorTheme[] => {
     const isEN = country?.code === 'US' || country?.code === 'GB';
     if (isEN && selectedGrade) {
-      // Build 5 period themes from CURRICULUM for EN users
-      const PERIOD_COLORS = ['#3B82F6','#8B5CF6','#10B981','#F59E0B','#EF4444'];
-      const PERIOD_ICONS = ['📚','📖','🔢','📐','🎓'];
-      return [1,2,3,4,5].map((period, i) => ({
-        id: `en_grade${selectedGrade}_period${period}`,
-        name: getTranslatedPeriodLabel(period, country!.code),
-        color: PERIOD_COLORS[i],
-        icon: PERIOD_ICONS[i],
-        description: getTranslatedPeriodLabel(period, country!.code),
-        subtopics: [{
-          id: `en_period_${selectedGrade}_${period}`,
-          name: getTranslatedPeriodLabel(period, country!.code),
-          color: PERIOD_COLORS[i],
-          icon: PERIOD_ICONS[i],
+      // Build real math topic themes from EN_THEMES (Addition, Fractions, Geometry, etc.)
+      return getENThemes(selectedGrade).map(theme => ({
+        id: theme.key,
+        name: theme.name,
+        color: theme.color,
+        icon: theme.icon,
+        description: theme.name,
+        subtopics: theme.topics.map(topic => ({
+          id: `en_topic_${selectedGrade}_${topic.key}`,
+          name: topic.name,
+          color: topic.color,
+          icon: topic.icon,
           taskFile: '',
           taskIds: [],
-        }],
+        })),
       }));
     }
     if (supabaseCurriculum && supabaseCurriculum.themes.length > 0) {
@@ -740,23 +739,31 @@ export default function MathTestPage() {
     localStorage.setItem("klassenarbeitStartTime", now.toString());
 
     try {
-      // ─── EN: period-based generation (no JSON task files needed) ─
-      const enPeriodIds = selectedSubtopics.filter(id => id.startsWith('en_period_'));
-      if (enPeriodIds.length > 0) {
+      // ─── EN: topic-based generation (no JSON task files needed) ─
+      const enTopicIds = selectedSubtopics.filter(id => id.startsWith('en_topic_'));
+      if (enTopicIds.length > 0) {
         const cc = country!.code;
         const grade = selectedGrade!;
         const seen = new Set<string>();
         const qs: MathQuestion[] = [];
-        for (const pid of enPeriodIds) {
-          // Format: en_period_{grade}_{period}
-          const period = parseInt(pid.split('_')[3]);
-          const pool = [...generateTest(grade, period, cc), ...generateKlassenarbeit(grade, undefined, cc)];
+        for (const tid of enTopicIds) {
+          // Format: en_topic_{grade}_{topicKey}
+          const parts = tid.split('_');
+          const topicKey = parts.slice(3).join('_'); // everything after en_topic_{grade}_
+          const pool = generateTopicQuestions(grade, topicKey, cc, 10);
           for (const q of pool) {
+            if (!seen.has(q.question)) { seen.add(q.question); qs.push(q); }
+          }
+        }
+        // If only one topic selected and < 10 questions, pad with generateTest
+        if (qs.length < 10) {
+          const extra = generateTest(grade, undefined, cc);
+          for (const q of extra) {
             if (!seen.has(q.question) && qs.length < 15) { seen.add(q.question); qs.push(q); }
           }
         }
-        setQuestions(qs);
-        setAnswers(new Array(qs.length).fill(null));
+        setQuestions(qs.slice(0, 15));
+        setAnswers(new Array(Math.min(qs.length, 15)).fill(null));
         setRealisticKlassenarbeit(null);
         setAvatarMood("idle");
         setGameState("playing");
