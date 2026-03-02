@@ -17,6 +17,7 @@ interface RealisticKlassenarbeitDisplayProps {
   isGrading: boolean;
   gradeIndex?: number;
   testId?: string;
+  countryCode?: string;
 }
 
 export default function RealisticKlassenarbeitDisplay({
@@ -26,7 +27,11 @@ export default function RealisticKlassenarbeitDisplay({
   isGrading,
   gradeIndex = -1,
   testId = "klassenarbeit",
+  countryCode,
 }: RealisticKlassenarbeitDisplayProps) {
+  const isEN = countryCode === 'US' || countryCode === 'GB';
+  const correctText = isEN ? 'Correct!' : countryCode === 'RO' ? 'Corect!' : countryCode === 'HU' ? 'Helyes!' : 'Richtig!';
+  const wrongText = isEN ? 'Wrong! Correct answer:' : countryCode === 'RO' ? 'Greșit! Răspuns corect:' : countryCode === 'HU' ? 'Helytelen! Helyes válasz:' : 'Falsch! Richtige Antwort:';
   const [expandedTask, setExpandedTask] = useState<number | null>(null);
   // Track which tasks have been expanded at least once (for lazy mounting)
   const [mountedTasks, setMountedTasks] = useState<Set<number>>(new Set());
@@ -133,6 +138,7 @@ export default function RealisticKlassenarbeitDisplay({
                   correctAnswer={typeof subQuestion.correctAnswer === "object" ? undefined : subQuestion.correctAnswer}
                   isGrading={isGrading && isGraded}
                   disabled={isGrading}
+                  countryCode={countryCode}
                 />
               </div>
               {draftButton}
@@ -185,6 +191,7 @@ export default function RealisticKlassenarbeitDisplay({
                   }
                   isGrading={isGrading && isGraded}
                   disabled={isGrading}
+                  countryCode={countryCode}
                 />
               </div>
               {draftButton}
@@ -211,6 +218,7 @@ export default function RealisticKlassenarbeitDisplay({
                   isGrading={isGrading && isGraded}
                   disabled={isGrading}
                   workSpaceLines={subQuestion.workSpaceLines}
+                  countryCode={countryCode}
                 />
               </div>
               {draftButton}
@@ -311,9 +319,9 @@ export default function RealisticKlassenarbeitDisplay({
             {isGrading && isGraded && typeof subQuestion.correctAnswer !== "object" && (
               <div className="mt-3 text-xs font-bold">
                 {userAnswer === subQuestion.correctAnswer ? (
-                  <span className="text-green-600">✓ Richtig!</span>
+                  <span className="text-green-600">✓ {correctText}</span>
                 ) : (
-                  <span className="text-red-600">✗ Falsch! Richtige Antwort: {subQuestion.correctAnswer}</span>
+                  <span className="text-red-600">✗ {wrongText} {subQuestion.correctAnswer}</span>
                 )}
               </div>
             )}
