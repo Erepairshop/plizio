@@ -81,7 +81,7 @@
   "VENDÉGEK",
   "KÍSÉRLET",
   "CSOKOLÁDÉ",
-  "REPÜLŐGÉP"
+  "REPÜLŐGÉP",
   "FALU",
   "VÁROS",
   "TORONY",
@@ -176,8 +176,7 @@
   "TÉL",
   "ŐSZ",
   "NYÁRI",
-  "TAVASZI"
-  
+  "TAVASZI",
   "KARÓ",
   "PÉLDA",
   "ÁRNYÉK",
@@ -273,7 +272,7 @@
   "MOSÁS",
   "SZÁRÍT",
   "VASAL",
-  "TAKARÍT"
+  "TAKARÍT",
   "KORONA",
   "PALOTA",
   "VÁR",
@@ -372,7 +371,7 @@
   "LÁNG",
   "FÉNYES",
   "ÁRUS",
-  "SZAKÁCS"
+  "SZAKÁCS",
   "ALKOT",
   "ALKONY",
   "ÁLOM",
