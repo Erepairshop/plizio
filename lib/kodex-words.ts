@@ -123,11 +123,25 @@ const ALL_WORDS: Record<string, Record<string, string[]>> = {
   ro: WORDS_RO,
 };
 
-export function getRandomWord(lang: string): { word: string; category: KodexCategory } {
+export function getRandomWord(
+  lang: string,
+  difficulty?: "easy" | "medium" | "hard"
+): { word: string; category: KodexCategory } {
   const words = ALL_WORDS[lang] || ALL_WORDS.en;
   const catIdx = Math.floor(Math.random() * CATEGORIES.length);
   const category = CATEGORIES[catIdx];
-  const wordList = words[category.key];
+  let wordList = words[category.key];
+
+  // Filter by word length based on difficulty
+  if (difficulty === "easy") {
+    const filtered = wordList.filter(w => w.replace(/\s/g, "").length <= 5);
+    if (filtered.length >= 3) wordList = filtered;
+  } else if (difficulty === "hard") {
+    const filtered = wordList.filter(w => w.replace(/\s/g, "").length >= 7);
+    if (filtered.length >= 3) wordList = filtered;
+  }
+  // medium: use all words as-is
+
   const word = wordList[Math.floor(Math.random() * wordList.length)];
   return { word, category };
 }
