@@ -10,6 +10,7 @@ export const metadata: Metadata = {
     description:
       "Das Einmaleins sicher lernen – 8 bewährte Methoden für Kinder der Klasse 2 und 3. Mit Tipps für Eltern und kostenlosem Online-Übungstool.",
     url: "https://plizio.com/blog/einmaleins-lernen/",
+    images: [{ url: "/og/blog-einmaleins.png", width: 1200, height: 630 }],
   },
 };
 

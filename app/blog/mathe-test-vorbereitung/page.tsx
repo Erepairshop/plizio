@@ -10,6 +10,7 @@ export const metadata: Metadata = {
     description:
       "Wie bereitest du dich optimal auf einen Mathe Test vor? Lernplan, Tipps gegen Prüfungsangst und kostenlose Online-Übungstools für Klasse 1–8.",
     url: "https://plizio.com/blog/mathe-test-vorbereitung/",
+    images: [{ url: "/og/blog-mathe-vorbereitung.png", width: 1200, height: 630 }],
   },
 };
 

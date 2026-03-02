@@ -10,6 +10,7 @@ export const metadata: Metadata = {
     description:
       "Brüche verstehen und rechnen leicht erklärt. Schritt-für-Schritt Tipps für Schüler der Klasse 4 und 5 mit Alltagsbeispielen und Übungsaufgaben.",
     url: "https://plizio.com/blog/bruchrechnung-tipps/",
+    images: [{ url: "/og/blog-bruchrechnung.png", width: 1200, height: 630 }],
   },
 };
 
