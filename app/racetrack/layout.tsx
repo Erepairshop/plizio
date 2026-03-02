@@ -24,9 +24,37 @@ export const metadata: Metadata = {
       "Race against 6 AI opponents on 20 circuit tracks! Free 3D browser racing – play instantly, no download.",
     url: "https://plizio.com/racetrack",
   },
+  twitter: {
+    card: "summary_large_image",
+    title: "Race Track - Free Online 3D Racing Game | PLIZIO",
+    description: "Race against AI on 20 circuit tracks! Free 3D browser racing game.",
+    images: ["/icon-512.png"],
+  },
   alternates: { canonical: "https://plizio.com/racetrack" },
 };
 
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "VideoGame",
+  name: "Race Track",
+  description:
+    "A free online 3D browser racing game. Race against 6 AI opponents across 20 circuit tracks. No download needed.",
+  url: "https://plizio.com/racetrack",
+  genre: ["Racing", "Arcade", "3D"],
+  inLanguage: ["en", "de", "hu", "ro"],
+  operatingSystem: "Web Browser",
+  applicationCategory: "Game",
+  offers: { "@type": "Offer", price: "0", priceCurrency: "USD" },
+};
+
 export default function Layout({ children }: { children: React.ReactNode }) {
-  return children;
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      {children}
+    </>
+  );
 }

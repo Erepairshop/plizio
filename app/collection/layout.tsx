@@ -16,6 +16,12 @@ export const metadata: Metadata = {
       "Collect rare cards by playing games. Build your ultimate collection!",
     url: "https://plizio.com/collection",
   },
+  twitter: {
+    card: "summary",
+    title: "Card Collection | PLIZIO",
+    description: "Collect rare cards by playing games. Build your ultimate collection!",
+    images: ["/icon-512.png"],
+  },
   alternates: { canonical: "https://plizio.com/collection" },
 };
 

@@ -17,6 +17,12 @@ export const metadata: Metadata = {
       "Customize your experience with skins, hats, trails and power-ups!",
     url: "https://plizio.com/shop",
   },
+  twitter: {
+    card: "summary",
+    title: "Shop - Skins & Power-ups | PLIZIO",
+    description: "Customize your experience with skins, hats, trails and power-ups!",
+    images: ["/icon-512.png"],
+  },
   alternates: { canonical: "https://plizio.com/shop" },
 };
 

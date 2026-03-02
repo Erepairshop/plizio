@@ -9,6 +9,12 @@ export const metadata: Metadata = {
     description: "View your gaming stats, milestones and achievements.",
     url: "https://plizio.com/profile",
   },
+  twitter: {
+    card: "summary",
+    title: "Player Profile | PLIZIO",
+    description: "View your gaming stats, milestones and achievements on PLIZIO.",
+    images: ["/icon-512.png"],
+  },
   alternates: { canonical: "https://plizio.com/profile" },
 };
 
