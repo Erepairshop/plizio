@@ -1053,7 +1053,7 @@ export default function MathTestPage() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.3 }}
           >
-            Welches Land besuchst du die Schule?
+            Which country do you go to school in?
           </motion.p>
 
           {/* Country buttons */}
@@ -1253,8 +1253,8 @@ export default function MathTestPage() {
     const handlePrintBlank = () => {
       const now = new Date();
       const dateStr = `${now.getFullYear()}. ${(now.getMonth() + 1).toString().padStart(2, "0")}. ${now.getDate().toString().padStart(2, "0")}.`;
-      const gradeLabel = `${selectedGrade}. ${ui?.classLabel || "osztály"}`;
-      const subject = ui?.title || "MATEMATIKA DOLGOZAT";
+      const gradeLabel = country?.gradeLabel(selectedGrade!) || `${selectedGrade}. ${ui?.classLabel || "class"}`;
+      const subject = ui?.subject || ui?.title || "MATH TEST";
       const totalPoints = questions.reduce((sum, q) => sum + (q.maxPoints || 1), 0);
 
       const questionsHtml = questions.map((q, i) => {
@@ -1266,14 +1266,14 @@ export default function MathTestPage() {
             <div class="question-header">
               <span class="q-num">${i + 1}.</span>
               <span class="q-text">${q.question}</span>
-              <span class="q-pts">(${pts} pont)</span>
+              <span class="q-pts">(${pts} ${ui?.pointsUnit || 'pts'})</span>
             </div>
             <div class="answer-box"></div>
           </div>`;
       }).join("");
 
       const html = `<!DOCTYPE html>
-<html lang="hu">
+<html lang="${country?.code?.toLowerCase() || 'en'}">
 <head>
   <meta charset="UTF-8">
   <title>${subject} – ${gradeLabel}</title>
@@ -1409,22 +1409,22 @@ export default function MathTestPage() {
         <span class="grade-badge">${gradeLabel}</span>
       </div>
       <div class="score-box">
-        <div class="score-label">Eredmény</div>
+        <div class="score-label">${ui?.scoreLabel || 'Score'}</div>
         <div class="score-value">&nbsp;&nbsp;&nbsp;&nbsp;</div>
-        <div class="score-total">/ ${totalPoints} pont</div>
+        <div class="score-total">/ ${totalPoints} ${ui?.pointsUnit || 'pts'}</div>
       </div>
     </div>
     <div class="fields">
       <div class="field">
-        <label>Név</label>
+        <label>${ui?.nameLabel || 'Name'}</label>
         <div class="line"></div>
       </div>
       <div class="field" style="max-width:120px">
-        <label>Osztály</label>
+        <label>${ui?.classFieldLabel || 'Class'}</label>
         <div class="line"></div>
       </div>
       <div class="field" style="max-width:130px">
-        <label>Dátum</label>
+        <label>${ui?.dateLabel || 'Date'}</label>
         <div class="line" style="padding-top:4px; font-size:9pt; color:#374151;">${dateStr}</div>
       </div>
     </div>
@@ -1448,8 +1448,8 @@ export default function MathTestPage() {
       <DraftProvider>
       <>
         <ModernPaperTest
-          title={ui?.title || "MATEMATIKA DOLGOZAT"}
-          gradeLabel={`${selectedGrade}. ${ui?.classLabel || "Osztály"}`}
+          title={ui?.subject || ui?.title || "MATH TEST"}
+          gradeLabel={country?.gradeLabel(selectedGrade!) || `${selectedGrade}. ${ui?.classLabel || "Class"}`}
           date={new Date().toISOString()}
           timeLeft={testType === "klassenarbeit" ? klassenarbeitTimeLeft : elapsedTime}
           solved={answers.filter((a) => a !== null).length}
@@ -1457,9 +1457,9 @@ export default function MathTestPage() {
           isGrading={isGrading}
           onExit={() => setGameState("grade-select")}
           onPrint={handlePrintBlank}
-          userName={user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || ui?.guest || 'Vendég'}
-          dateLocale={ui?.dateLocale || 'hu-HU'}
-          exitLabel={ui?.exit || 'Kilépés'}
+          userName={user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || ui?.guest || 'Guest'}
+          dateLocale={ui?.dateLocale || 'en-US'}
+          exitLabel={ui?.exit || 'Exit'}
         >
           <div>
           <div className="relative max-w-lg mx-auto" style={{ borderLeft: "2px solid rgba(220, 100, 100, 0.4)" }}>
@@ -1469,7 +1469,7 @@ export default function MathTestPage() {
                 <KlassenarbeitHeader
                   grade={selectedGrade}
                   studentName={user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || undefined}
-                  subject={country?.name === "Hungary" ? "Matematika" : country?.name === "Germany" ? "Mathematik" : country?.name === "Romania" ? "Matematică" : "Mathematics"}
+                  subject={ui?.subject || "Mathematics"}
                   startTime={Date.now()}
                 />
               ) : null}
@@ -1514,7 +1514,7 @@ export default function MathTestPage() {
                       >
                         <h3 className="text-sm font-black text-gray-700 uppercase tracking-wider">
                           {currentSection}
-                          {question.maxPoints && <span className="ml-2 text-gray-500 font-normal">({question.maxPoints} pont)</span>}
+                          {question.maxPoints && <span className="ml-2 text-gray-500 font-normal">({question.maxPoints} {ui?.pointsUnit || 'pts'})</span>}
                         </h3>
                       </motion.div>
                     )}
@@ -1602,7 +1602,7 @@ export default function MathTestPage() {
                   whileHover={answers.every((a) => a !== null) ? { scale: 1.05, boxShadow: "0 0 30px rgba(37, 99, 235, 0.6)" } : {}}
                   whileTap={answers.every((a) => a !== null) ? { scale: 0.95 } : {}}
                 >
-                  {ui?.submit || 'Absenden'}
+                  {ui?.submit || 'Submit'}
                 </motion.button>
               </motion.div>
             )}
@@ -1690,14 +1690,14 @@ export default function MathTestPage() {
                     {klassenarbeitResult.note.label}
                   </p>
                   <p className="text-white/60 text-sm mt-2">
-                    {klassenarbeitResult.totalPoints}/{klassenarbeitResult.maxTotalPoints} Pont ({klassenarbeitResult.percentage}%)
+                    {klassenarbeitResult.totalPoints}/{klassenarbeitResult.maxTotalPoints} {ui?.pointsUnit || 'pts'} ({klassenarbeitResult.percentage}%)
                   </p>
                 </div>
 
                 {/* Stars earned */}
                 {klassenarbeitResult.starsEarned > 0 && (
                   <p className="text-yellow-400 text-lg font-bold">
-                    {klassenarbeitResult.note.emoji} +{klassenarbeitResult.starsEarned} csillag
+                    {klassenarbeitResult.note.emoji} +{klassenarbeitResult.starsEarned} {ui?.starUnit || 'star'}
                   </p>
                 )}
               </motion.div>
@@ -1743,12 +1743,12 @@ export default function MathTestPage() {
                 {gradeResult.score}/{gradeResult.total} ({gradeResult.percentage}%)
               </p>
               <p className="text-white/30 text-xs mt-1 font-mono">
-                {country?.gradeLabel(selectedGrade!) || `${selectedGrade}. osztály`} &bull;{" "}
+                {country?.gradeLabel(selectedGrade!) || `${selectedGrade}. ${ui?.classLabel || 'class'}`} &bull;{" "}
                 {Math.floor(elapsedTime / 60)}:{(elapsedTime % 60).toString().padStart(2, "0")}
               </p>
               {serverResult && serverResult.stars_earned > 0 && (
                 <p className="text-yellow-400 text-sm mt-2 font-bold">
-                  +{serverResult.stars_earned} star &bull; +{serverResult.xp_earned} XP
+                  +{serverResult.stars_earned} {ui?.starUnit || 'star'} &bull; +{serverResult.xp_earned} XP
                 </p>
               )}
             </motion.div>
@@ -1815,7 +1815,7 @@ export default function MathTestPage() {
               const now = new Date();
               const dateStr = `${now.getDate().toString().padStart(2, "0")}.${(now.getMonth() + 1).toString().padStart(2, "0")}.${now.getFullYear()}`;
               generateTestPdf({
-                gradeLevel: country?.gradeLabel(selectedGrade!) || `${selectedGrade}. Klasse`,
+                gradeLevel: country?.gradeLabel(selectedGrade!) || `${selectedGrade}. ${ui?.classLabel || 'class'}`,
                 testType: testType === "klassenarbeit" ? "klassenarbeit" : "practice",
                 date: dateStr,
                 elapsedTime,
