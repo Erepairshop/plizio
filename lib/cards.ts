@@ -63,6 +63,7 @@ export function saveCard(card: GameCard): void {
   const cards = getCards();
   cards.push(card);
   localStorage.setItem("plizio_cards", JSON.stringify(cards));
+  window.dispatchEvent(new Event("plizio-cards-changed"));
 }
 
 export function generateCardId(): string {
@@ -87,4 +88,5 @@ export function removeCardsByRarity(rarity: CardRarity, count: number): void {
     localStorage.setItem("plizio_redeemed_ids", JSON.stringify([...existing, ...removedIds]));
   }
   localStorage.setItem("plizio_cards", JSON.stringify(remaining));
+  window.dispatchEvent(new Event("plizio-cards-changed"));
 }

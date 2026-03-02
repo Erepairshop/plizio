@@ -364,7 +364,20 @@ export default function Home() {
       if (user) syncToSupabase(user.id).catch(() => {});
     });
 
-    return () => subscription.unsubscribe();
+    // Refresh card + star badge whenever cards change (earn / exchange)
+    const refreshCounts = () => {
+      setCardCount(getCards().length);
+      setSpecialCount(getSpecialCardCount());
+    };
+    const onVisible = () => { if (document.visibilityState === "visible") refreshCounts(); };
+    window.addEventListener("plizio-cards-changed", refreshCounts);
+    document.addEventListener("visibilitychange", onVisible);
+
+    return () => {
+      subscription.unsubscribe();
+      window.removeEventListener("plizio-cards-changed", refreshCounts);
+      document.removeEventListener("visibilitychange", onVisible);
+    };
   }, []);
 
   return (
