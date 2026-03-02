@@ -517,52 +517,6 @@ function TireWalls({ curve, width, segments }: { curve: THREE.CatmullRomCurve3; 
   );
 }
 
-// ═══════════════════════════════════════════════
-//  GRANDSTANDS
-// ═══════════════════════════════════════════════
-const STAND_COLORS = ["#CC3344", "#3344CC", "#22AA55", "#CC7733", "#AA33CC"];
-function Grandstands({ curve, width }: { curve: THREE.CatmullRomCurve3; width: number }) {
-  const startPt = curve.getPointAt(0);
-  const tangent = curve.getTangentAt(0);
-  const normal = new THREE.Vector3(-tangent.z, 0, tangent.x).normalize();
-  const rows = 3, cols = 10;
-  const seats = useMemo(() => {
-    const result: { x: number; y: number; z: number; color: string }[] = [];
-    for (let r = 0; r < rows; r++) {
-      for (let c = 0; c < cols; c++) {
-        result.push({
-          x: startPt.x + normal.x * (width / 2 + 6 + r * 2.5) + tangent.x * (c - cols / 2) * 3,
-          y: r * 1.6 + 0.8,
-          z: startPt.z + normal.z * (width / 2 + 6 + r * 2.5) + tangent.z * (c - cols / 2) * 3,
-          color: STAND_COLORS[(r * cols + c) % STAND_COLORS.length],
-        });
-      }
-    }
-    return result;
-  }, [startPt, normal, tangent, width]);
-
-  return (
-    <>
-      {/* Base concrete structure */}
-      <mesh position={[startPt.x + normal.x * (width / 2 + 10), 1, startPt.z + normal.z * (width / 2 + 10)]}>
-        <boxGeometry args={[cols * 3, 2, rows * 2.5 + 2]} />
-        <meshStandardMaterial color="#555566" />
-      </mesh>
-      {/* Seats */}
-      {seats.map((s, i) => (
-        <mesh key={i} position={[s.x, s.y, s.z]}>
-          <boxGeometry args={[2.4, 1.2, 1.8]} />
-          <meshStandardMaterial color={s.color} emissive={s.color} emissiveIntensity={0.1} />
-        </mesh>
-      ))}
-      {/* Roof */}
-      <mesh position={[startPt.x + normal.x * (width / 2 + 10), rows * 1.6 + 3, startPt.z + normal.z * (width / 2 + 10)]}>
-        <boxGeometry args={[cols * 3 + 2, 0.3, rows * 2.5 + 4]} />
-        <meshStandardMaterial color="#334455" />
-      </mesh>
-    </>
-  );
-}
 
 // ═══════════════════════════════════════════════
 //  DRIFT SMOKE (3D particle pool)
@@ -1358,9 +1312,6 @@ const RaceScene = React.memo(function RaceScene({ track, carType, running, onFin
 
       {/* Tire walls on outer barriers */}
       <TireWalls curve={curve} width={track.width} segments={SEGS} />
-
-      {/* Grandstands near start/finish */}
-      <Grandstands curve={curve} width={track.width} />
 
       {/* Drift smoke */}
       <DriftSmoke3D hudRef={hudRef} playerPosRef={playerPosRef} />
