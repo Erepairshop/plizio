@@ -194,7 +194,7 @@ const LEVELS: LevelConfig[] = [
   { level: 3,  gridSize: 4, duration: 35, target: 18, hasGold: true,  hasRed: true,  hasLightning: false, hasBomb: false, hasTrapGreen: false, spawnInterval: 1200, maxActiveCells: 3, cellLifetime: 1800 },
   { level: 4,  gridSize: 4, duration: 30, target: 25, hasGold: true,  hasRed: true,  hasLightning: false, hasBomb: false, hasTrapGreen: false, spawnInterval: 1000, maxActiveCells: 3, cellLifetime: 1600 },
   { level: 5,  gridSize: 4, duration: 28, target: 30, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: false, hasTrapGreen: false, spawnInterval: 900,  maxActiveCells: 3, cellLifetime: 1500 },
-  { level: 6,  gridSize: 5, duration: 35, target: 40, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: false, hasTrapGreen: false, spawnInterval: 850,  maxActiveCells: 4, cellLifetime: 1400 },
+  { level: 6,  gridSize: 5, duration: 35, target: 40, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  hasTrapGreen: false, spawnInterval: 850,  maxActiveCells: 4, cellLifetime: 1400 },
   { level: 7,  gridSize: 5, duration: 30, target: 48, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  hasTrapGreen: false, spawnInterval: 800,  maxActiveCells: 4, cellLifetime: 1300 },
   { level: 8,  gridSize: 5, duration: 32, target: 55, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  hasTrapGreen: false, spawnInterval: 750,  maxActiveCells: 4, cellLifetime: 1200 },
   { level: 9,  gridSize: 6, duration: 32, target: 68, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  hasTrapGreen: false, spawnInterval: 680,  maxActiveCells: 5, cellLifetime: 1100 },
@@ -222,7 +222,8 @@ function pickCellType(cfg: LevelConfig): CellType {
   if (cfg.hasRed)       options.push({ type: "red",       weight: 20 });
   // Lightning is rare: weight 4 on early levels (5-6), 5 on later levels
   if (cfg.hasLightning) options.push({ type: "lightning", weight: cfg.level <= 6 ? 4 : 5 });
-  if (cfg.hasBomb)      options.push({ type: "bomb",      weight: 7  });
+  // More bombs as levels increase: 10 → 13 → 16
+  if (cfg.hasBomb)      options.push({ type: "bomb",      weight: cfg.level <= 6 ? 10 : cfg.level <= 8 ? 13 : 16 });
   // TrapGreen: looks identical to green but acts as -5 bomb — level 10 only
   if (cfg.hasTrapGreen) options.push({ type: "trapgreen", weight: 12 });
   const total = options.reduce((s, o) => s + o.weight, 0);
