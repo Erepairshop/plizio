@@ -226,8 +226,84 @@ export default function KodexPage() {
 
       {/* Avatar + Category */}
       <div className="flex items-center gap-4 mb-3">
-        <div className="w-28 h-28 shrink-0">
-          <AvatarCompanion {...avatarProps} />
+
+        {/* Avatar with water-sinking effect */}
+        <div className="relative w-28 h-28 shrink-0 overflow-hidden rounded-2xl">
+
+          {/* Avatar — sinks as wrongCount rises */}
+          <motion.div
+            className="absolute inset-0"
+            animate={{
+              y: gameState === "lost"
+                ? 52
+                : (wrongCount / MAX_WRONG) * 18,
+            }}
+            transition={{
+              duration: gameState === "lost" ? 0.3 : 0.55,
+              ease: "easeOut",
+            }}
+          >
+            <AvatarCompanion {...avatarProps} />
+          </motion.div>
+
+          {/* Rising water */}
+          <motion.div
+            className="absolute bottom-0 left-0 right-0 pointer-events-none"
+            animate={{
+              height: gameState === "lost"
+                ? "100%"
+                : `${(wrongCount / MAX_WRONG) * 90}%`,
+            }}
+            transition={{ duration: 0.7, ease: "easeInOut" }}
+            style={{ zIndex: 5 }}
+          >
+            {/* Wave crest at surface */}
+            <motion.div
+              className="absolute -top-2.5 left-0 right-0 h-5 pointer-events-none"
+              animate={{ scaleX: [1, 1.05, 0.97, 1.02, 1] }}
+              transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}
+              style={{
+                background:
+                  "radial-gradient(ellipse 90% 100% at 50% 100%, rgba(96,210,255,0.55) 0%, transparent 100%)",
+                borderRadius: "50%",
+              }}
+            />
+            {/* Water body */}
+            <div
+              className="absolute inset-0"
+              style={{
+                background:
+                  "linear-gradient(to bottom, rgba(56,185,255,0.20) 0%, rgba(14,70,200,0.50) 100%)",
+              }}
+            />
+            {/* Rising bubbles */}
+            {wrongCount > 0 &&
+              [{ s: 5, l: "14%", d: 0 }, { s: 7, l: "42%", d: 0.6 }, { s: 4, l: "70%", d: 1.2 }].map(
+                ({ s, l, d }, i) => (
+                  <motion.div
+                    key={i}
+                    className="absolute rounded-full"
+                    style={{
+                      width: s,
+                      height: s,
+                      left: l,
+                      bottom: "12%",
+                      background: "rgba(160,235,255,0.35)",
+                      border: "1px solid rgba(200,245,255,0.4)",
+                      zIndex: 6,
+                    }}
+                    animate={{ y: [0, -36], opacity: [0.8, 0] }}
+                    transition={{
+                      duration: 2,
+                      delay: d,
+                      repeat: Infinity,
+                      repeatDelay: 1.8,
+                      ease: "easeOut",
+                    }}
+                  />
+                )
+              )}
+          </motion.div>
         </div>
 
         {category && (
@@ -266,8 +342,15 @@ export default function KodexPage() {
                 )}
               </AnimatePresence>
               <div
-                className="w-8 h-0.5 rounded-full"
-                style={{ background: guessed.has(letter) ? "rgba(255,255,255,0.5)" : "rgba(255,255,255,0.15)" }}
+                className="w-8 h-[2px] rounded-full"
+                style={{
+                  background: guessed.has(letter)
+                    ? "rgba(255,255,255,0.75)"
+                    : "rgba(255,255,255,0.45)",
+                  boxShadow: guessed.has(letter)
+                    ? "0 0 6px rgba(255,255,255,0.3)"
+                    : "none",
+                }}
               />
             </div>
           )
@@ -312,7 +395,7 @@ export default function KodexPage() {
         {gameState !== "playing" && (
           <motion.div
             className="fixed inset-0 flex flex-col items-center justify-center px-6 z-50"
-            style={{ background: "rgba(0,0,0,0.88)", backdropFilter: "blur(16px)" }}
+            style={{ background: "rgba(0,0,0,0.72)", backdropFilter: "blur(6px)" }}
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
           >
@@ -322,25 +405,15 @@ export default function KodexPage() {
               animate={{ scale: 1, y: 0 }}
               transition={{ type: "spring", stiffness: 300, damping: 20, delay: 0.1 }}
             >
-              {/* Avatar in overlay */}
-              <div className="w-40 h-40">
-                <AvatarCompanion
-                  mood={gameState === "won" ? "victory" : "disappointed"}
-                  fixed={false}
-                  gender={gender}
-                  activeSkin={activeSkin}
-                  activeFace={activeFace}
-                  activeTop={activeTop}
-                  activeBottom={activeBottom}
-                  activeShoe={activeShoe}
-                  activeCape={activeCape}
-                  activeGlasses={activeGlasses}
-                  activeGloves={activeGloves}
-                  activeHat={activeHat}
-                  activeTrail={activeTrail}
-                  jumpTrigger={gameState === "won" ? { reaction: "victory", timestamp: Date.now() } : undefined}
-                />
-              </div>
+              {/* Icon */}
+              <motion.div
+                className="text-6xl"
+                initial={{ scale: 0 }}
+                animate={{ scale: 1 }}
+                transition={{ type: "spring", stiffness: 400, damping: 15, delay: 0.15 }}
+              >
+                {gameState === "won" ? "🏆" : "🌊"}
+              </motion.div>
 
               {/* Result text */}
               <div className="text-center">
