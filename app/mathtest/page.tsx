@@ -29,6 +29,8 @@ import {
   getPeriodLabel,
   getENThemes,
   getDEThemes,
+  getHUThemes,
+  getROThemes,
   generateTopicQuestions,
   type MathQuestion,
   type GradeResult,
@@ -661,15 +663,21 @@ export default function MathTestPage() {
     return () => { cancelled = true; };
   }, [country, selectedGrade]);
 
-  // Resolved themes: generator-based for EN/DE, Supabase/JSON fallback for others
+  // Resolved themes: generator-based for all 4 languages
   const resolvedThemes = useMemo((): ThemeSelectorTheme[] => {
     const cc = country?.code;
-    const isEN = cc === 'US' || cc === 'GB';
-    const isDE = cc === 'DE' || cc === 'AT' || cc === 'CH';
+    const langPrefix =
+      cc === 'US' || cc === 'GB' ? 'en' :
+      cc === 'DE' || cc === 'AT' || cc === 'CH' ? 'de' :
+      cc === 'HU' ? 'hu' :
+      cc === 'RO' ? 'ro' : null;
 
-    if ((isEN || isDE) && selectedGrade) {
-      const srcThemes = isEN ? getENThemes(selectedGrade) : getDEThemes(selectedGrade);
-      const prefix = isEN ? 'en' : 'de';
+    if (langPrefix && selectedGrade) {
+      const srcThemes =
+        langPrefix === 'en' ? getENThemes(selectedGrade) :
+        langPrefix === 'de' ? getDEThemes(selectedGrade) :
+        langPrefix === 'hu' ? getHUThemes(selectedGrade) :
+        getROThemes(selectedGrade);
       return srcThemes.map(theme => ({
         id: theme.key,
         name: theme.name,
@@ -677,7 +685,7 @@ export default function MathTestPage() {
         icon: theme.icon,
         description: theme.name,
         subtopics: theme.topics.map(topic => ({
-          id: `${prefix}_topic_${selectedGrade}_${topic.key}`,
+          id: `${langPrefix}_topic_${selectedGrade}_${topic.key}`,
           name: topic.name,
           color: topic.color,
           icon: topic.icon,
@@ -744,9 +752,10 @@ export default function MathTestPage() {
     localStorage.setItem("klassenarbeitStartTime", now.toString());
 
     try {
-      // ─── EN / DE: generator-based topic selection ────────────────
-      const generatorTopicIds = selectedSubtopics.filter(
-        id => id.startsWith('en_topic_') || id.startsWith('de_topic_')
+      // ─── EN / DE / HU / RO: generator-based topic selection ─────
+      const generatorTopicIds = selectedSubtopics.filter(id =>
+        id.startsWith('en_topic_') || id.startsWith('de_topic_') ||
+        id.startsWith('hu_topic_') || id.startsWith('ro_topic_')
       );
       if (generatorTopicIds.length > 0) {
         const cc = country!.code;

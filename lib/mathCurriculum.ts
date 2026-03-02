@@ -1050,10 +1050,292 @@ export function getDEThemes(grade: number): ENThemeDef[] {
   return DE_THEMES[grade] || [];
 }
 
+// ─── HU THEMES (generator-based, Hungarian topic names) ──────────────────────
+
+const HU_THEMES: Record<number, ENThemeDef[]> = {
+  1: [
+    { key: 'g1_add', name: 'Összeadás', color: '#3B82F6', icon: '➕', topics: [
+      { key: 'add10', name: 'Összeadás 10-ig', color: '#60A5FA', icon: '➕', generators: [G1.add10, G1.add10b, G1.missing10] },
+      { key: 'add20', name: 'Összeadás 20-ig', color: '#3B82F6', icon: '➕', generators: [G1.add20, G1.add20b] },
+      { key: 'compare', name: 'Számok összehasonlítása', color: '#2563EB', icon: '🔢', generators: [G1.compare] },
+    ]},
+    { key: 'g1_sub', name: 'Kivonás', color: '#EF4444', icon: '➖', topics: [
+      { key: 'sub10', name: 'Kivonás 10-ig', color: '#F87171', icon: '➖', generators: [G1.sub10, G1.sub10b, G1.missing10sub] },
+      { key: 'sub20', name: 'Kivonás 20-ig', color: '#EF4444', icon: '➖', generators: [G1.sub20, G1.sub20b] },
+    ]},
+    { key: 'g1_word', name: 'Szöveges feladatok', color: '#8B5CF6', icon: '📖', topics: [
+      { key: 'word', name: 'Szöveges feladatok', color: '#8B5CF6', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
+    ]},
+  ],
+  2: [
+    { key: 'g2_arith', name: 'Számolás 100-ig', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'add100', name: 'Összeadás 100-ig', color: '#60A5FA', icon: '➕', generators: [G2.add100tens, G2.add100, G2.add100b, G2.missing100] },
+      { key: 'sub100', name: 'Kivonás 100-ig', color: '#EF4444', icon: '➖', generators: [G2.sub100tens, G2.sub100, G2.sub100b] },
+      { key: 'sequence', name: 'Számsorozatok', color: '#2563EB', icon: '🔢', generators: [G2.sequence] },
+    ]},
+    { key: 'g2_mul', name: 'Szorzótábla', color: '#10B981', icon: '✖️', topics: [
+      { key: 'mul', name: 'Szorzás (×2, ×5, ×10)', color: '#34D399', icon: '✖️', generators: [G2.mul2510, G2.mul2510b] },
+      { key: 'div', name: 'Osztás', color: '#10B981', icon: '➗', generators: [G2.div2510] },
+    ]},
+    { key: 'g2_word', name: 'Szöveges feladatok', color: '#8B5CF6', icon: '📖', topics: [
+      { key: 'word', name: 'Szöveges feladatok', color: '#8B5CF6', icon: '📖', generators: [G2.word1, G2.word2, G2.word3, G2.word4] },
+    ]},
+    { key: 'g2_measure', name: 'Mértékegységek', color: '#F59E0B', icon: '📏', topics: [
+      { key: 'units', name: 'Mértékegységek', color: '#FBBF24', icon: '📏', generators: [G2.units] },
+    ]},
+  ],
+  3: [
+    { key: 'g3_arith', name: 'Nagy számok', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'add1000', name: 'Összeadás 1000-ig', color: '#60A5FA', icon: '➕', generators: [G3.add1000, G3.add1000b, G3.writtenAdd] },
+      { key: 'sub1000', name: 'Kivonás 1000-ig', color: '#EF4444', icon: '➖', generators: [G3.sub1000, G3.writtenSub] },
+      { key: 'sequence', name: 'Számsorozatok', color: '#2563EB', icon: '🔢', generators: [G3.sequence] },
+    ]},
+    { key: 'g3_mul', name: 'Szorzás & Osztás', color: '#10B981', icon: '✖️', topics: [
+      { key: 'mul', name: 'Szorzás', color: '#34D399', icon: '✖️', generators: [G3.mul, G3.mulB, G3.missingMul] },
+      { key: 'div', name: 'Osztás', color: '#10B981', icon: '➗', generators: [G3.div, G3.divB] },
+    ]},
+    { key: 'g3_word', name: 'Szöveges feladatok', color: '#8B5CF6', icon: '📖', topics: [
+      { key: 'word', name: 'Szöveges feladatok', color: '#8B5CF6', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
+    ]},
+    { key: 'g3_measure', name: 'Mértékegységek', color: '#F59E0B', icon: '📏', topics: [
+      { key: 'units', name: 'Mértékegységek', color: '#FBBF24', icon: '📏', generators: [G3.units] },
+    ]},
+  ],
+  4: [
+    { key: 'g4_ops', name: 'Számok & Műveletek', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'place', name: 'Helyiérték', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.sequence] },
+      { key: 'mul', name: 'Írásbeli szorzás', color: '#34D399', icon: '✖️', generators: [G4.writtenMul, G4.writtenMulB] },
+      { key: 'div', name: 'Írásbeli osztás', color: '#10B981', icon: '➗', generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit] },
+    ]},
+    { key: 'g4_frac', name: 'Törtek', color: '#8B5CF6', icon: '½', topics: [
+      { key: 'frac', name: 'Törtek', color: '#A78BFA', icon: '½', generators: [G4.fraction, G4.fractionB] },
+      { key: 'fracArith', name: 'Törtek összeadása & kivonása', color: '#8B5CF6', icon: '½', generators: [G4.fractionAdd, G4.fractionSub] },
+    ]},
+    { key: 'g4_geo', name: 'Geometria & Mértékegységek', color: '#F59E0B', icon: '📐', topics: [
+      { key: 'geo', name: 'Terület & Kerület', color: '#FBBF24', icon: '📐', generators: [G4.geometry, G4.geometryB] },
+      { key: 'units', name: 'Mértékegységek', color: '#F59E0B', icon: '📏', generators: [G4.units] },
+    ]},
+    { key: 'g4_word', name: 'Szöveges feladatok', color: '#EF4444', icon: '📖', topics: [
+      { key: 'word', name: 'Szöveges feladatok', color: '#EF4444', icon: '📖', generators: [G4.word1, G4.word2, G4.word3] },
+    ]},
+  ],
+  5: [
+    { key: 'g5_ops', name: 'Számok & Kifejezések', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'large', name: 'Nagy számok & Kerekítés', color: '#60A5FA', icon: '🔢', generators: [G5.largeNumbers, G5.roundHundreds] },
+      { key: 'ops', name: 'Műveleti sorrend', color: '#2563EB', icon: '🔢', generators: [G5.orderOfOps, G5.orderOfOpsB, G5.orderOfOpsC, G5.orderOfOpsD] },
+    ]},
+    { key: 'g5_frac', name: 'Törtek & Százalék', color: '#8B5CF6', icon: '½', topics: [
+      { key: 'frac', name: 'Törtek összeadása & kivonása', color: '#A78BFA', icon: '½', generators: [G5.fractionAdd, G5.fractionSub] },
+      { key: 'pct', name: 'Százalékszámítás', color: '#8B5CF6', icon: '%', generators: [G5.percent10, G5.percent50, G5.percent25] },
+    ]},
+    { key: 'g5_geo', name: 'Geometria', color: '#F59E0B', icon: '📐', topics: [
+      { key: 'geo', name: 'Terület & Kerület', color: '#FBBF24', icon: '📐', generators: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter] },
+    ]},
+    { key: 'g5_word', name: 'Szöveges feladatok', color: '#EF4444', icon: '📖', topics: [
+      { key: 'word', name: 'Szöveges feladatok', color: '#EF4444', icon: '📖', generators: [G5.wordDiscount, G5.wordOps] },
+    ]},
+  ],
+  6: [
+    { key: 'g6_neg', name: 'Negatív számok', color: '#6366F1', icon: '➖', topics: [
+      { key: 'neg', name: 'Negatív számok', color: '#818CF8', icon: '➖', generators: [G6.negative, G6.negativeB, G6.negativeC] },
+    ]},
+    { key: 'g6_frac', name: 'Törtek & Százalék', color: '#8B5CF6', icon: '½', topics: [
+      { key: 'frac', name: 'Törtek szorzása & osztása', color: '#A78BFA', icon: '½', generators: [G6.fractionMul, G6.fractionDiv] },
+      { key: 'pct', name: 'Százalékszámítás', color: '#8B5CF6', icon: '%', generators: [G6.percentCalc, G6.percentDiscount] },
+    ]},
+    { key: 'g6_ratio', name: 'Arány & Sebesség', color: '#10B981', icon: '⚡', topics: [
+      { key: 'ratio', name: 'Arány & Arányosság', color: '#34D399', icon: '⚡', generators: [G6.ratio, G6.speed] },
+    ]},
+    { key: 'g6_geo', name: 'Geometria', color: '#F59E0B', icon: '📐', topics: [
+      { key: 'geo', name: 'Terület (háromszög & négyzet)', color: '#FBBF24', icon: '📐', generators: [G6.areaTriangle, G6.areaSquare] },
+    ]},
+    { key: 'g6_word', name: 'Szöveges feladatok', color: '#EF4444', icon: '📖', topics: [
+      { key: 'word', name: 'Szöveges feladatok', color: '#EF4444', icon: '📖', generators: [G6.wordShoe, G6.wordTrain] },
+    ]},
+  ],
+  7: [
+    { key: 'g7_algebra', name: 'Hatványok & Algebra', color: '#6366F1', icon: 'x', topics: [
+      { key: 'powers', name: 'Hatványok', color: '#818CF8', icon: '²', generators: [G7.power2, G7.power3, G7.power10] },
+      { key: 'algebra', name: 'Kifejezések egyszerűsítése', color: '#6366F1', icon: 'x', generators: [G7.algebraSub, G7.algebraSimp, G7.algebraMul] },
+    ]},
+    { key: 'g7_eq', name: 'Egyenletek', color: '#8B5CF6', icon: '=', topics: [
+      { key: 'eq', name: 'Egyenletek megoldása', color: '#A78BFA', icon: '=', generators: [G7.equation, G7.equationB] },
+    ]},
+    { key: 'g7_geo', name: 'Geometria & Háromszögek', color: '#F59E0B', icon: '📐', topics: [
+      { key: 'tri', name: 'Háromszögek szögei', color: '#FBBF24', icon: '🔺', generators: [G7.triangleAngle, G7.equilateral, G7.isosceles] },
+      { key: 'pyth', name: 'Pitagorasz-tétel', color: '#F59E0B', icon: '📐', generators: [G7.pythag34, G7.pythag68, G7.pythagLeg13, G7.pythagLeg10] },
+    ]},
+    { key: 'g7_word', name: 'Szöveges feladatok', color: '#EF4444', icon: '📖', topics: [
+      { key: 'word', name: 'Szöveges feladatok', color: '#EF4444', icon: '📖', generators: [G7.wordThink, G7.wordSquare] },
+    ]},
+  ],
+  8: [
+    { key: 'g8_algebra', name: 'Algebra & Gyökök', color: '#6366F1', icon: '√', topics: [
+      { key: 'sqrt', name: 'Négyzetgyökök', color: '#818CF8', icon: '√', generators: [G8.sqrt, G8.sqrtExpr] },
+      { key: 'complex', name: 'Összetett kifejezések', color: '#6366F1', icon: 'x²', generators: [G8.complexPow, G8.complexExpr] },
+    ]},
+    { key: 'g8_eq', name: 'Egyenletek', color: '#8B5CF6', icon: '=', topics: [
+      { key: 'eq', name: 'Egyenletek megoldása', color: '#A78BFA', icon: '=', generators: [G8.eqSimple, G8.eqTwoSide] },
+    ]},
+    { key: 'g8_func', name: 'Függvények', color: '#10B981', icon: 'f(x)', topics: [
+      { key: 'func', name: 'Lineáris függvények', color: '#34D399', icon: 'f(x)', generators: [G8.funcValue, G8.funcIntercept] },
+    ]},
+    { key: 'g8_prob', name: 'Valószínűség', color: '#F59E0B', icon: '🎲', topics: [
+      { key: 'prob', name: 'Valószínűségszámítás', color: '#FBBF24', icon: '🎲', generators: [G8.probBall, G8.probDice, G8.probCoin] },
+    ]},
+  ],
+};
+
+// ─── RO THEMES (generator-based, Romanian topic names) ───────────────────────
+
+const RO_THEMES: Record<number, ENThemeDef[]> = {
+  1: [
+    { key: 'g1_add', name: 'Adunare', color: '#3B82F6', icon: '➕', topics: [
+      { key: 'add10', name: 'Adunare până la 10', color: '#60A5FA', icon: '➕', generators: [G1.add10, G1.add10b, G1.missing10] },
+      { key: 'add20', name: 'Adunare până la 20', color: '#3B82F6', icon: '➕', generators: [G1.add20, G1.add20b] },
+      { key: 'compare', name: 'Compararea numerelor', color: '#2563EB', icon: '🔢', generators: [G1.compare] },
+    ]},
+    { key: 'g1_sub', name: 'Scădere', color: '#EF4444', icon: '➖', topics: [
+      { key: 'sub10', name: 'Scădere până la 10', color: '#F87171', icon: '➖', generators: [G1.sub10, G1.sub10b, G1.missing10sub] },
+      { key: 'sub20', name: 'Scădere până la 20', color: '#EF4444', icon: '➖', generators: [G1.sub20, G1.sub20b] },
+    ]},
+    { key: 'g1_word', name: 'Probleme', color: '#8B5CF6', icon: '📖', topics: [
+      { key: 'word', name: 'Probleme', color: '#8B5CF6', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
+    ]},
+  ],
+  2: [
+    { key: 'g2_arith', name: 'Calcul până la 100', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'add100', name: 'Adunare până la 100', color: '#60A5FA', icon: '➕', generators: [G2.add100tens, G2.add100, G2.add100b, G2.missing100] },
+      { key: 'sub100', name: 'Scădere până la 100', color: '#EF4444', icon: '➖', generators: [G2.sub100tens, G2.sub100, G2.sub100b] },
+      { key: 'sequence', name: 'Șiruri de numere', color: '#2563EB', icon: '🔢', generators: [G2.sequence] },
+    ]},
+    { key: 'g2_mul', name: 'Tabla înmulțirii', color: '#10B981', icon: '✖️', topics: [
+      { key: 'mul', name: 'Înmulțire (×2, ×5, ×10)', color: '#34D399', icon: '✖️', generators: [G2.mul2510, G2.mul2510b] },
+      { key: 'div', name: 'Împărțire', color: '#10B981', icon: '➗', generators: [G2.div2510] },
+    ]},
+    { key: 'g2_word', name: 'Probleme', color: '#8B5CF6', icon: '📖', topics: [
+      { key: 'word', name: 'Probleme', color: '#8B5CF6', icon: '📖', generators: [G2.word1, G2.word2, G2.word3, G2.word4] },
+    ]},
+    { key: 'g2_measure', name: 'Unități de măsură', color: '#F59E0B', icon: '📏', topics: [
+      { key: 'units', name: 'Unități de măsură', color: '#FBBF24', icon: '📏', generators: [G2.units] },
+    ]},
+  ],
+  3: [
+    { key: 'g3_arith', name: 'Numere mari', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'add1000', name: 'Adunare până la 1000', color: '#60A5FA', icon: '➕', generators: [G3.add1000, G3.add1000b, G3.writtenAdd] },
+      { key: 'sub1000', name: 'Scădere până la 1000', color: '#EF4444', icon: '➖', generators: [G3.sub1000, G3.writtenSub] },
+      { key: 'sequence', name: 'Șiruri de numere', color: '#2563EB', icon: '🔢', generators: [G3.sequence] },
+    ]},
+    { key: 'g3_mul', name: 'Înmulțire & Împărțire', color: '#10B981', icon: '✖️', topics: [
+      { key: 'mul', name: 'Înmulțire', color: '#34D399', icon: '✖️', generators: [G3.mul, G3.mulB, G3.missingMul] },
+      { key: 'div', name: 'Împărțire', color: '#10B981', icon: '➗', generators: [G3.div, G3.divB] },
+    ]},
+    { key: 'g3_word', name: 'Probleme', color: '#8B5CF6', icon: '📖', topics: [
+      { key: 'word', name: 'Probleme', color: '#8B5CF6', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
+    ]},
+    { key: 'g3_measure', name: 'Unități de măsură', color: '#F59E0B', icon: '📏', topics: [
+      { key: 'units', name: 'Unități de măsură', color: '#FBBF24', icon: '📏', generators: [G3.units] },
+    ]},
+  ],
+  4: [
+    { key: 'g4_ops', name: 'Numere & Operații', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'place', name: 'Valoarea cifrelor', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.sequence] },
+      { key: 'mul', name: 'Înmulțire în scris', color: '#34D399', icon: '✖️', generators: [G4.writtenMul, G4.writtenMulB] },
+      { key: 'div', name: 'Împărțire în scris', color: '#10B981', icon: '➗', generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit] },
+    ]},
+    { key: 'g4_frac', name: 'Fracții', color: '#8B5CF6', icon: '½', topics: [
+      { key: 'frac', name: 'Fracții', color: '#A78BFA', icon: '½', generators: [G4.fraction, G4.fractionB] },
+      { key: 'fracArith', name: 'Adunare & scădere fracții', color: '#8B5CF6', icon: '½', generators: [G4.fractionAdd, G4.fractionSub] },
+    ]},
+    { key: 'g4_geo', name: 'Geometrie & Unități', color: '#F59E0B', icon: '📐', topics: [
+      { key: 'geo', name: 'Arie & Perimetru', color: '#FBBF24', icon: '📐', generators: [G4.geometry, G4.geometryB] },
+      { key: 'units', name: 'Unități de măsură', color: '#F59E0B', icon: '📏', generators: [G4.units] },
+    ]},
+    { key: 'g4_word', name: 'Probleme', color: '#EF4444', icon: '📖', topics: [
+      { key: 'word', name: 'Probleme', color: '#EF4444', icon: '📖', generators: [G4.word1, G4.word2, G4.word3] },
+    ]},
+  ],
+  5: [
+    { key: 'g5_ops', name: 'Numere & Expresii', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'large', name: 'Numere mari & Rotunjire', color: '#60A5FA', icon: '🔢', generators: [G5.largeNumbers, G5.roundHundreds] },
+      { key: 'ops', name: 'Ordinea operațiilor', color: '#2563EB', icon: '🔢', generators: [G5.orderOfOps, G5.orderOfOpsB, G5.orderOfOpsC, G5.orderOfOpsD] },
+    ]},
+    { key: 'g5_frac', name: 'Fracții & Procente', color: '#8B5CF6', icon: '½', topics: [
+      { key: 'frac', name: 'Adunare & scădere fracții', color: '#A78BFA', icon: '½', generators: [G5.fractionAdd, G5.fractionSub] },
+      { key: 'pct', name: 'Calcul procentual', color: '#8B5CF6', icon: '%', generators: [G5.percent10, G5.percent50, G5.percent25] },
+    ]},
+    { key: 'g5_geo', name: 'Geometrie', color: '#F59E0B', icon: '📐', topics: [
+      { key: 'geo', name: 'Arie & Perimetru', color: '#FBBF24', icon: '📐', generators: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter] },
+    ]},
+    { key: 'g5_word', name: 'Probleme', color: '#EF4444', icon: '📖', topics: [
+      { key: 'word', name: 'Probleme', color: '#EF4444', icon: '📖', generators: [G5.wordDiscount, G5.wordOps] },
+    ]},
+  ],
+  6: [
+    { key: 'g6_neg', name: 'Numere negative', color: '#6366F1', icon: '➖', topics: [
+      { key: 'neg', name: 'Numere negative', color: '#818CF8', icon: '➖', generators: [G6.negative, G6.negativeB, G6.negativeC] },
+    ]},
+    { key: 'g6_frac', name: 'Fracții & Procente', color: '#8B5CF6', icon: '½', topics: [
+      { key: 'frac', name: 'Înmulțire & împărțire fracții', color: '#A78BFA', icon: '½', generators: [G6.fractionMul, G6.fractionDiv] },
+      { key: 'pct', name: 'Calcul procentual', color: '#8B5CF6', icon: '%', generators: [G6.percentCalc, G6.percentDiscount] },
+    ]},
+    { key: 'g6_ratio', name: 'Rapoarte & Viteză', color: '#10B981', icon: '⚡', topics: [
+      { key: 'ratio', name: 'Rapoarte & Proporții', color: '#34D399', icon: '⚡', generators: [G6.ratio, G6.speed] },
+    ]},
+    { key: 'g6_geo', name: 'Geometrie', color: '#F59E0B', icon: '📐', topics: [
+      { key: 'geo', name: 'Arie (triunghiuri & pătrate)', color: '#FBBF24', icon: '📐', generators: [G6.areaTriangle, G6.areaSquare] },
+    ]},
+    { key: 'g6_word', name: 'Probleme', color: '#EF4444', icon: '📖', topics: [
+      { key: 'word', name: 'Probleme', color: '#EF4444', icon: '📖', generators: [G6.wordShoe, G6.wordTrain] },
+    ]},
+  ],
+  7: [
+    { key: 'g7_algebra', name: 'Puteri & Algebră', color: '#6366F1', icon: 'x', topics: [
+      { key: 'powers', name: 'Puteri', color: '#818CF8', icon: '²', generators: [G7.power2, G7.power3, G7.power10] },
+      { key: 'algebra', name: 'Simplificarea expresiilor', color: '#6366F1', icon: 'x', generators: [G7.algebraSub, G7.algebraSimp, G7.algebraMul] },
+    ]},
+    { key: 'g7_eq', name: 'Ecuații', color: '#8B5CF6', icon: '=', topics: [
+      { key: 'eq', name: 'Rezolvarea ecuațiilor', color: '#A78BFA', icon: '=', generators: [G7.equation, G7.equationB] },
+    ]},
+    { key: 'g7_geo', name: 'Geometrie & Triunghiuri', color: '#F59E0B', icon: '📐', topics: [
+      { key: 'tri', name: 'Unghiurile triunghiului', color: '#FBBF24', icon: '🔺', generators: [G7.triangleAngle, G7.equilateral, G7.isosceles] },
+      { key: 'pyth', name: 'Teorema lui Pitagora', color: '#F59E0B', icon: '📐', generators: [G7.pythag34, G7.pythag68, G7.pythagLeg13, G7.pythagLeg10] },
+    ]},
+    { key: 'g7_word', name: 'Probleme', color: '#EF4444', icon: '📖', topics: [
+      { key: 'word', name: 'Probleme', color: '#EF4444', icon: '📖', generators: [G7.wordThink, G7.wordSquare] },
+    ]},
+  ],
+  8: [
+    { key: 'g8_algebra', name: 'Algebră & Rădăcini', color: '#6366F1', icon: '√', topics: [
+      { key: 'sqrt', name: 'Rădăcini pătrate', color: '#818CF8', icon: '√', generators: [G8.sqrt, G8.sqrtExpr] },
+      { key: 'complex', name: 'Expresii complexe', color: '#6366F1', icon: 'x²', generators: [G8.complexPow, G8.complexExpr] },
+    ]},
+    { key: 'g8_eq', name: 'Ecuații', color: '#8B5CF6', icon: '=', topics: [
+      { key: 'eq', name: 'Rezolvarea ecuațiilor', color: '#A78BFA', icon: '=', generators: [G8.eqSimple, G8.eqTwoSide] },
+    ]},
+    { key: 'g8_func', name: 'Funcții', color: '#10B981', icon: 'f(x)', topics: [
+      { key: 'func', name: 'Funcții liniare', color: '#34D399', icon: 'f(x)', generators: [G8.funcValue, G8.funcIntercept] },
+    ]},
+    { key: 'g8_prob', name: 'Probabilitate', color: '#F59E0B', icon: '🎲', topics: [
+      { key: 'prob', name: 'Calcul de probabilitate', color: '#FBBF24', icon: '🎲', generators: [G8.probBall, G8.probDice, G8.probCoin] },
+    ]},
+  ],
+};
+
+export function getROThemes(grade: number): ENThemeDef[] {
+  return RO_THEMES[grade] || [];
+}
+
+export function getHUThemes(grade: number): ENThemeDef[] {
+  return HU_THEMES[grade] || [];
+}
+
 function getThemesForCC(grade: number, countryCode: string): ENThemeDef[] {
   if (countryCode === 'DE' || countryCode === 'AT' || countryCode === 'CH') {
     return DE_THEMES[grade] || [];
   }
+  if (countryCode === 'HU') return HU_THEMES[grade] || [];
+  if (countryCode === 'RO') return RO_THEMES[grade] || [];
   return EN_THEMES[grade] || [];
 }
 
