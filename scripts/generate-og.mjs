@@ -133,6 +133,18 @@ const PAGES = [
     emoji: ["🌱","🌿","🌲","⛰️","🌋","🌀","🌊","🔥"][i],
   })),
 
+  // English Math Test hub + grade pages
+  { filename: "math-test-en",      title: "Free Math Test Online", subtitle: "Grades 1–8 · US Common Core · Instant Feedback", badge: "MATH TEST · ENGLISH", accentColor: "#00FF88", bgGradient: ["#0A0A1A", "#0A1A10"], emoji: "🧮" },
+  ...Array.from({ length: 8 }, (_, i) => ({
+    filename: `math-grade-${i + 1}-en`,
+    title: `Free Math Test Grade ${i + 1}`,
+    subtitle: `Ages ${["6–7","7–8","8–9","9–10","10–11","11–12","12–13","13–14"][i]} · Common Core · No Login`,
+    badge: `GRADE ${i + 1} MATH`,
+    accentColor: "#00FF88",
+    bgGradient: ["#0A0A1A", "#0A1A10"],
+    emoji: ["🌱","🌿","🌲","⛰️","🌋","🌀","🌊","🔥"][i],
+  })),
+
   // Blog articles
   { filename: "blog-einmaleins",        title: "Einmaleins lernen", subtitle: "8 Methoden die wirklich funktionieren | PLIZIO Blog", badge: "BLOG · KLASSE 3", accentColor: "#FFD700", bgGradient: ["#0A0A1A", "#1A150A"], emoji: "✖️" },
   { filename: "blog-mathe-klasse-3",    title: "Mathe Tipps Klasse 3", subtitle: "10 Tipps für Eltern und Kinder | PLIZIO Blog", badge: "BLOG · TIPPS", accentColor: "#FFD700", bgGradient: ["#0A0A1A", "#1A150A"], emoji: "💡" },
