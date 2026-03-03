@@ -426,7 +426,7 @@ export default function MathTestPage() {
   // Load saved country + grade on mount
   useEffect(() => {
     const LANG_TO_COUNTRY: Record<string, string> = { hu: "HU", de: "DE", en: "US", ro: "RO" };
-    const langCode = LANG_TO_COUNTRY[getLanguage()] || "DE";
+    const langCode = LANG_TO_COUNTRY[getLanguage()] || "US";
     const savedCode = langCode;
     setCountry(getCountryByCode(savedCode));
     saveCountry(savedCode);
@@ -672,12 +672,14 @@ export default function MathTestPage() {
     const langPrefix =
       cc === 'US' || cc === 'GB' ? 'en' :
       cc === 'DE' || cc === 'AT' || cc === 'CH' ? 'de' :
-      cc === 'RO' ? 'ro' : null;   // HU uses Supabase (correct topics already there)
+      cc === 'RO' ? 'ro' :
+      cc === 'HU' ? 'hu' : null;
 
     if (langPrefix && selectedGrade) {
       const srcThemes =
         langPrefix === 'en' ? getENThemes(selectedGrade) :
         langPrefix === 'de' ? getDEThemes(selectedGrade) :
+        langPrefix === 'hu' ? getHUThemes(selectedGrade) :
         getROThemes(selectedGrade);
       return srcThemes.map(theme => ({
         id: theme.key,
@@ -757,7 +759,7 @@ export default function MathTestPage() {
       // HU uses Supabase curriculum topics (not generator-based)
       const generatorTopicIds = selectedSubtopics.filter(id =>
         id.startsWith('en_topic_') || id.startsWith('de_topic_') ||
-        id.startsWith('ro_topic_')
+        id.startsWith('ro_topic_') || id.startsWith('hu_topic_')
       );
       if (generatorTopicIds.length > 0) {
         const cc = country!.code;

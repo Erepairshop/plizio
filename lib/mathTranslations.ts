@@ -5,7 +5,7 @@
 export type Lang = "HU" | "DE" | "EN" | "RO";
 
 export function getLang(countryCode: string): Lang {
-  if (countryCode === "DE") return "DE";
+  if (countryCode === "DE" || countryCode === "AT" || countryCode === "CH") return "DE";
   if (countryCode === "RO") return "RO";
   if (countryCode === "US" || countryCode === "GB") return "EN";
   return "HU";
