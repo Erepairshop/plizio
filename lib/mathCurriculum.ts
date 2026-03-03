@@ -38,6 +38,7 @@ import {
   qInequalityGt, qInequalityLt,
   qVolumeBox, qVolumeCube, qVolumeCylinder,
   qSystemEq,
+  getLang,
 } from "./mathTranslations";
 
 export interface MathQuestion {
@@ -921,7 +922,9 @@ interface PeriodTopics {
   review: Generator[];   // 30% from review topics
 }
 
-const CURRICULUM: Record<number, Record<number, PeriodTopics>> = {
+// ─── SHARED GRADE 1-4 STRUCTURE (identical across all countries) ─────────────────────────────
+
+const GRADES_1_4: Record<number, Record<number, PeriodTopics>> = {
   1: {
     1: { current: [G1.add10, G1.add10b, G1.compare, G1.missing10, G1.evenOdd], review: [] },
     2: { current: [G1.add10, G1.add10b, G1.sub10, G1.sub10b, G1.missing10sub, G1.evenOdd], review: [G1.compare] },
@@ -950,6 +953,16 @@ const CURRICULUM: Record<number, Record<number, PeriodTopics>> = {
     4: { current: [G4.decimals, G4.fractions, G4.fractionAdd, G4.fractionSub, G4.units, G4.geometryB], review: [G4.writtenMul, G4.writtenDiv] },
     5: { current: [G4.units, G4.volumeWord, G4.word1, G4.word2, G4.fractions, G4.fractionAdd, G4.fractionSub, G4.decimals, G4.sequence, G4.geometry], review: [G4.writtenMul, G4.writtenDiv, G4.divTwoDigit] },
   },
+};
+
+// ─── CURRICULUM_HU — Magyar tanterv ────────────────────────────────────────
+// G5: prímszámok, LKKT/LNKO, törtek különböző nevezővel
+// G6: negatív számok (6. osztály!), arányosság, átlag
+// G7: hatvány, algebra, egyenletek, egyenlőtlenség, kör (π)
+// G8: gyökvonás, függvények, valószínűség, egyenletrendszer
+
+const CURRICULUM_HU: Record<number, Record<number, PeriodTopics>> = {
+  ...GRADES_1_4,
   5: {
     1: { current: [G5.largeNumbers, G5.roundHundreds, G5.orderOfOps, G5.orderOfOpsB, G5.prime], review: [G4.writtenMul, G4.writtenDiv, G4.fractions] },
     2: { current: [G5.orderOfOps, G5.orderOfOpsC, G5.orderOfOpsD, G5.fractionAdd, G5.prime, G5.lcm], review: [G5.largeNumbers] },
@@ -960,14 +973,14 @@ const CURRICULUM: Record<number, Record<number, PeriodTopics>> = {
   6: {
     1: { current: [G6.negative, G6.negativeB, G6.fractionMul, G6.fractionDiff], review: [G5.percent10, G5.orderOfOps] },
     2: { current: [G6.fractionMul, G6.fractionDiv, G6.negativeC, G6.negMul, G6.fractionDiff], review: [G6.negative] },
-    3: { current: [G6.ratio, G6.speed, G6.percentCalc, G6.circle, G6.mean], review: [G6.negative, G6.fractionMul] },
-    4: { current: [G6.percentCalc, G6.percentDiscount, G6.areaTriangle, G6.areaSquare, G6.circle, G6.median, G6.volume], review: [G6.ratio, G6.speed] },
-    5: { current: [G6.areaTriangle, G6.areaSquare, G6.circle, G6.percentCalc, G6.wordShoe, G6.wordTrain, G6.mean, G6.volume], review: [G6.negative, G6.fractionMul, G6.ratio] },
+    3: { current: [G6.ratio, G6.speed, G6.percentCalc, G6.mean, G6.volume], review: [G6.negative, G6.fractionMul] },
+    4: { current: [G6.percentCalc, G6.percentDiscount, G6.areaTriangle, G6.areaSquare, G6.median, G6.volume], review: [G6.ratio, G6.speed] },
+    5: { current: [G6.areaTriangle, G6.areaSquare, G6.percentCalc, G6.wordShoe, G6.wordTrain, G6.mean, G6.volume], review: [G6.negative, G6.fractionMul, G6.ratio] },
   },
   7: {
-    1: { current: [G7.power2, G7.power3, G7.power10, G7.algebraSub, G7.inequality], review: [G6.percentCalc, G6.negative] },
-    2: { current: [G7.algebraSub, G7.algebraSimp, G7.algebraMul, G7.equation, G7.inequality], review: [G7.power2] },
-    3: { current: [G7.equation, G7.equationB, G7.triangleAngle, G7.equilateral, G7.inequality, G7.volume7], review: [G7.power2, G7.algebraSub] },
+    1: { current: [G7.power2, G7.power3, G7.power10, G7.algebraSub, G6.circle], review: [G6.percentCalc, G6.negative] },
+    2: { current: [G7.algebraSub, G7.algebraSimp, G7.algebraMul, G7.equation, G7.inequality, G6.circle], review: [G7.power2] },
+    3: { current: [G7.equation, G7.equationB, G7.triangleAngle, G7.equilateral, G7.inequality, G6.circle], review: [G7.power2, G7.algebraSub] },
     4: { current: [G7.triangleAngle, G7.isosceles, G7.pythag34, G7.pythag68, G7.volume7], review: [G7.equation, G7.equationB] },
     5: { current: [G7.pythag34, G7.pythag68, G7.pythagLeg13, G7.pythagLeg10, G7.wordThink, G7.wordSquare, G7.equation, G7.equationB, G7.volume7], review: [G7.power2, G7.power3, G7.algebraSub, G7.triangleAngle] },
   },
@@ -979,6 +992,103 @@ const CURRICULUM: Record<number, Record<number, PeriodTopics>> = {
     5: { current: [G8.complexPow, G8.complexExpr, G8.wordTravel, G8.wordPrice, G8.probBall, G8.probCoin, G8.systemEq, G8.volumeCylinder], review: [G8.sqrt, G8.eqTwoSide, G8.funcValue] },
   },
 };
+
+// ─── CURRICULUM_DE — Deutscher Lehrplan (Bayern-orientiert) ────────────────────────────────────────
+// G5: Brüche gleicher/verschiedener Nenner, kgV/ggT — KEIN Negative Zahlen
+// G6: Erweiterte Bruchrechnung, Proportionalität — KEIN Negative Zahlen
+// G7: Negative Zahlen ERSTMALS, Gleichungen, Potenzen, Ungleichungen
+// G8: Kreisrechnung (Umfang+Fläche), Statistik (Mittelwert/Median), Zylinder
+
+const CURRICULUM_DE: Record<number, Record<number, PeriodTopics>> = {
+  ...GRADES_1_4,
+  5: {
+    1: { current: [G5.largeNumbers, G5.roundHundreds, G5.orderOfOps, G5.orderOfOpsB, G5.lcm], review: [G4.writtenMul, G4.writtenDiv, G4.fractions] },
+    2: { current: [G5.orderOfOps, G5.orderOfOpsC, G5.orderOfOpsD, G5.fractionAdd, G5.lcm, G5.gcd], review: [G5.largeNumbers] },
+    3: { current: [G5.fractionAdd, G5.fractionSub, G5.fractionDiff, G5.percent10, G5.gcd, G5.prime], review: [G5.orderOfOps, G5.largeNumbers] },
+    4: { current: [G5.percent10, G5.percent50, G5.fractionAdd, G5.fractionDiff, G5.lcm, G5.gcd, G5.prime], review: [G5.orderOfOps, G5.orderOfOpsB] },
+    5: { current: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter, G5.percent10, G5.percent50, G5.wordDiscount, G5.wordOps, G5.fractionDiff, G5.prime], review: [G5.fractionAdd, G5.fractionSub] },
+  },
+  6: {
+    1: { current: [G6.fractionMul, G6.fractionDiv, G6.fractionDiff, G5.lcm, G5.gcd], review: [G5.percent10, G5.orderOfOps] },
+    2: { current: [G6.fractionMul, G6.fractionDiv, G6.fractionDiff, G6.ratio, G5.prime, G5.lcm], review: [G5.fractionAdd, G5.fractionSub] },
+    3: { current: [G6.ratio, G6.speed, G6.percentCalc, G6.fractionDiff, G6.volume], review: [G6.fractionMul, G6.fractionDiv] },
+    4: { current: [G6.percentCalc, G6.percentDiscount, G6.areaTriangle, G6.areaSquare, G6.volume], review: [G6.ratio, G6.speed] },
+    5: { current: [G6.areaTriangle, G6.areaSquare, G6.percentCalc, G6.wordShoe, G6.wordTrain, G6.volume], review: [G6.fractionMul, G6.ratio] },
+  },
+  7: {
+    1: { current: [G6.negative, G6.negativeB, G7.power2, G7.power3, G7.power10, G7.algebraSub, G7.inequality], review: [G6.percentCalc, G6.ratio] },
+    2: { current: [G6.negativeC, G6.negMul, G7.algebraSub, G7.algebraSimp, G7.equation, G7.inequality], review: [G6.negative, G7.power2] },
+    3: { current: [G7.equation, G7.equationB, G7.triangleAngle, G7.equilateral, G7.inequality, G7.volume7], review: [G6.negative, G7.algebraSub] },
+    4: { current: [G7.triangleAngle, G7.isosceles, G7.pythag34, G7.pythag68, G7.volume7], review: [G7.equation, G7.equationB] },
+    5: { current: [G7.pythag34, G7.pythag68, G7.pythagLeg13, G7.pythagLeg10, G7.wordThink, G7.wordSquare, G7.equation, G7.equationB, G7.volume7], review: [G7.power2, G7.power3, G7.algebraSub, G7.triangleAngle] },
+  },
+  8: {
+    1: { current: [G8.sqrt, G8.sqrtExpr, G8.eqTwoSide, G6.circle, G6.mean], review: [G7.power2, G7.equation] },
+    2: { current: [G8.eqTwoSide, G8.eqSimple, G8.funcValue, G8.systemEq, G6.circle, G6.median], review: [G8.sqrt] },
+    3: { current: [G8.funcValue, G8.funcIntercept, G8.probBall, G8.probCoin, G6.mean, G6.median, G6.circle], review: [G8.sqrt, G8.eqTwoSide] },
+    4: { current: [G8.probBall, G8.probDice, G8.probCoin, G8.complexPow, G8.volumeCylinder, G6.circle], review: [G8.funcValue] },
+    5: { current: [G8.complexPow, G8.complexExpr, G8.wordTravel, G8.wordPrice, G8.probBall, G8.systemEq, G8.volumeCylinder, G6.circle, G6.mean], review: [G8.sqrt, G8.eqTwoSide, G8.funcValue] },
+  },
+};
+
+// ─── CURRICULUM_RO — Curriculum Românesc ────────────────────────────────────────
+// G5: numere prime, c.m.m.m.c/c.m.m.d.c (mai devreme decât DE)
+// G6: fracții avansate, proporționalitate — FĂRĂ numere negative
+// G7: Numere negative PRIMA DATĂ, cerc (π), algebră/ecuații
+// G8: Inecuații (vs clasa 7 la HU), teorema Pitagora, probabilitate
+
+const CURRICULUM_RO: Record<number, Record<number, PeriodTopics>> = {
+  ...GRADES_1_4,
+  5: {
+    1: { current: [G5.largeNumbers, G5.roundHundreds, G5.orderOfOps, G5.orderOfOpsB, G5.prime, G5.lcm, G5.gcd], review: [G4.writtenMul, G4.writtenDiv, G4.fractions] },
+    2: { current: [G5.orderOfOps, G5.orderOfOpsC, G5.orderOfOpsD, G5.fractionAdd, G5.prime, G5.lcm, G5.gcd], review: [G5.largeNumbers] },
+    3: { current: [G5.fractionAdd, G5.fractionSub, G5.fractionDiff, G5.percent10, G5.lcm, G5.gcd], review: [G5.orderOfOps, G5.largeNumbers] },
+    4: { current: [G5.percent10, G5.percent50, G5.percent25, G5.fractionAdd, G5.fractionDiff, G5.mean, G5.prime], review: [G5.orderOfOps, G5.orderOfOpsB] },
+    5: { current: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter, G5.percent10, G5.wordDiscount, G5.wordOps, G5.mean, G5.fractionDiff], review: [G5.fractionAdd, G5.fractionSub] },
+  },
+  6: {
+    1: { current: [G6.fractionMul, G6.fractionDiv, G6.fractionDiff, G5.lcm, G5.gcd, G5.prime], review: [G5.percent10, G5.orderOfOps] },
+    2: { current: [G6.fractionMul, G6.fractionDiv, G6.fractionDiff, G6.ratio, G6.mean], review: [G5.fractionAdd, G5.fractionSub] },
+    3: { current: [G6.ratio, G6.speed, G6.percentCalc, G6.mean, G6.volume], review: [G6.fractionMul, G6.fractionDiv] },
+    4: { current: [G6.percentCalc, G6.percentDiscount, G6.areaTriangle, G6.areaSquare, G6.median, G6.volume], review: [G6.ratio, G6.speed] },
+    5: { current: [G6.areaTriangle, G6.areaSquare, G6.percentCalc, G6.wordShoe, G6.wordTrain, G6.mean, G6.volume], review: [G6.fractionMul, G6.ratio] },
+  },
+  7: {
+    1: { current: [G6.negative, G6.negativeB, G7.power2, G7.power3, G7.power10, G7.algebraSub, G6.circle], review: [G6.percentCalc, G6.ratio] },
+    2: { current: [G6.negativeC, G6.negMul, G7.algebraSub, G7.algebraSimp, G7.algebraMul, G7.equation, G6.circle], review: [G6.negative, G7.power2] },
+    3: { current: [G7.equation, G7.equationB, G7.triangleAngle, G7.equilateral, G6.circle], review: [G6.negative, G7.algebraSub] },
+    4: { current: [G7.triangleAngle, G7.isosceles, G7.pythag34, G7.pythag68, G7.volume7], review: [G7.equation, G7.equationB] },
+    5: { current: [G7.pythag34, G7.pythag68, G7.pythagLeg13, G7.pythagLeg10, G7.wordThink, G7.wordSquare, G7.equation, G7.equationB, G7.volume7], review: [G7.power2, G7.power3, G7.algebraSub, G7.triangleAngle] },
+  },
+  8: {
+    1: { current: [G8.sqrt, G8.sqrtExpr, G8.eqTwoSide, G8.inequality8, G6.mean], review: [G7.power2, G7.equation] },
+    2: { current: [G8.eqTwoSide, G8.eqSimple, G8.funcValue, G8.systemEq, G8.inequality8, G6.median], review: [G8.sqrt] },
+    3: { current: [G8.funcValue, G8.funcIntercept, G8.probBall, G8.probCoin, G8.systemEq, G6.mean], review: [G8.sqrt, G8.eqTwoSide] },
+    4: { current: [G8.probBall, G8.probDice, G8.probCoin, G8.complexPow, G8.volumeCylinder, G8.inequality8], review: [G8.funcValue] },
+    5: { current: [G8.complexPow, G8.complexExpr, G8.wordTravel, G8.wordPrice, G8.probBall, G8.probCoin, G8.systemEq, G8.volumeCylinder], review: [G8.sqrt, G8.eqTwoSide, G8.funcValue] },
+  },
+};
+
+// ─── CURRICULUM_EN — English/US curriculum ────────────────────────────────────────
+// Timing: similar to HU (international standard)
+// US-specific: imperial units + AM/PM handled inside generators via cc parameter
+// Circles: G7 (same as HU), negative numbers: G6 (same as HU)
+
+const CURRICULUM_EN: Record<number, Record<number, PeriodTopics>> = {
+  ...CURRICULUM_HU,
+};
+
+// ─── CURRICULUM DISPATCHER ─────────────────────────────
+
+function getCurriculum(cc: string): Record<number, Record<number, PeriodTopics>> {
+  const lang = getLang(cc);
+  switch (lang) {
+    case "DE": return CURRICULUM_DE;
+    case "RO": return CURRICULUM_RO;
+    case "EN": return CURRICULUM_EN;
+    default:   return CURRICULUM_HU;
+  }
+}
 
 // ─── EN TOPIC DEFINITIONS ────────────────────────────────────────
 // Real math topics per grade for EN (US/GB) users
@@ -1595,7 +1705,7 @@ const TOTAL_QUESTIONS = 10;
 export function generateTest(grade: number, period?: number, countryCode?: string): MathQuestion[] {
   const cc = countryCode || "HU";
   const p = period ?? getPeriod();
-  const topics = CURRICULUM[grade]?.[p];
+  const topics = getCurriculum(cc)[grade]?.[p];
   if (!topics) return [];
 
   const questions: MathQuestion[] = [];
@@ -1650,7 +1760,7 @@ export function generateKlassenarbeit(grade: number, period?: number, countryCod
 
   const cc = countryCode || "HU";
   const p = period ?? getPeriod();
-  const topics = CURRICULUM[grade]?.[p];
+  const topics = getCurriculum(cc)[grade]?.[p];
   if (!topics) return [];
 
   const questions: MathQuestion[] = [];
@@ -2308,7 +2418,7 @@ function findGenKey(gen: Generator, grade: number): string {
 export function generateTestWithMeta(grade: number, period?: number, countryCode?: string): TestWithMeta {
   const cc = countryCode || "HU";
   const p = period ?? getPeriod();
-  const topics = CURRICULUM[grade]?.[p];
+  const topics = getCurriculum(cc)[grade]?.[p];
   if (!topics) return { questions: [], generatorKeys: [] };
 
   const questions: MathQuestion[] = [];
