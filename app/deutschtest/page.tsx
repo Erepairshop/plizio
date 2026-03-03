@@ -506,7 +506,7 @@ export default function DeutschTestPage() {
             exit={{ opacity: 0, y: -20 }}
             className="min-h-screen flex flex-col items-center justify-center p-6"
           >
-            <Link href="/" className="absolute top-4 left-4 text-white/50 hover:text-white flex items-center gap-1 text-sm">
+            <Link href="/" className="absolute top-4 left-4 text-white/75 hover:text-white flex items-center gap-1 text-sm">
               <Home size={16} /> Hauptmenü
             </Link>
 
@@ -516,7 +516,7 @@ export default function DeutschTestPage() {
                 DEUTSCH TEST
               </h1>
             </div>
-            <p className="text-white/50 mb-10 text-sm">Wähle deine Klassenstufe</p>
+            <p className="text-white/75 mb-10 text-sm">Wähle deine Klassenstufe</p>
 
             <div className="grid grid-cols-4 gap-3 w-full max-w-sm">
               {[1, 2, 3, 4, 5, 6, 7, 8].map((g) => (
@@ -530,7 +530,7 @@ export default function DeutschTestPage() {
                              flex flex-col items-center justify-center gap-1 transition-all"
                 >
                   <span className="text-2xl font-black text-[#00D4FF]">{g}</span>
-                  <span className="text-[10px] text-white/40">Klasse</span>
+                  <span className="text-[10px] text-white/65">Klasse</span>
                 </motion.button>
               ))}
             </div>
@@ -547,16 +547,16 @@ export default function DeutschTestPage() {
           >
             {/* Header */}
             <div className="flex items-center gap-3 pt-4 mb-1">
-              <button onClick={() => setScreen("grade")} className="text-white/50 hover:text-white p-1">
+              <button onClick={() => setScreen("grade")} className="text-white/75 hover:text-white p-1">
                 <ArrowLeft size={20} />
               </button>
               <BookOpen size={20} className="text-[#00D4FF]" />
               <span className="font-black text-[#00D4FF] tracking-wide">DEUTSCH TEST</span>
-              <span className="ml-auto text-white/40 text-sm bg-[#00D4FF]/10 px-3 py-1 rounded-full">
+              <span className="ml-auto text-white/65 text-sm bg-[#00D4FF]/10 px-3 py-1 rounded-full">
                 Klasse {grade}
               </span>
             </div>
-            <p className="text-white/40 text-xs mb-5 ml-9">Wähle die Themenbereiche für deinen Test</p>
+            <p className="text-white/65 text-xs mb-5 ml-9">Wähle die Themenbereiche für deinen Test</p>
 
             {/* Themes + Subtopics */}
             <div className="flex flex-col gap-3">
@@ -578,7 +578,7 @@ export default function DeutschTestPage() {
                             ${sel
                               ? "bg-[#00D4FF]/15 border border-[#00D4FF]/50 text-white"
                               : empty
-                                ? "bg-white/3 border border-white/5 text-white/25 cursor-not-allowed"
+                                ? "bg-white/3 border border-white/5 text-white/75 cursor-not-allowed"
                                 : "bg-white/5 border border-white/10 text-white/70 hover:bg-white/10 hover:text-white"
                             }`}
                         >
@@ -587,9 +587,9 @@ export default function DeutschTestPage() {
                             {sel && <Check size={10} strokeWidth={3} className="text-black" />}
                           </div>
                           <span>{sub.name}</span>
-                          {empty && <span className="ml-auto text-[10px] text-white/25">bald</span>}
+                          {empty && <span className="ml-auto text-[10px] text-white/75">bald</span>}
                           {!empty && (
-                            <span className="ml-auto text-[10px] text-white/30">{sub.questions.length} Fr.</span>
+                            <span className="ml-auto text-[10px] text-white/55">{sub.questions.length} Fr.</span>
                           )}
                         </button>
                       );
@@ -604,7 +604,7 @@ export default function DeutschTestPage() {
                 className={`flex items-center gap-3 px-4 py-3 rounded-xl text-left text-sm transition-all border
                   ${includeLesetest
                     ? "bg-[#FFD700]/10 border-[#FFD700]/50 text-white"
-                    : "bg-[#12122A] border-white/5 text-white/60 hover:bg-white/5 hover:text-white"
+                    : "bg-[#12122A] border-white/5 text-white/80 hover:bg-white/5 hover:text-white"
                   }`}
               >
                 <div className={`w-5 h-5 rounded flex items-center justify-center shrink-0 border transition-all
@@ -616,7 +616,7 @@ export default function DeutschTestPage() {
                   <div className="font-bold" style={{ color: includeLesetest ? "#FFD700" : undefined }}>
                     Lesetest
                   </div>
-                  <div className="text-[11px] text-white/40">Text lesen &amp; Fragen beantworten</div>
+                  <div className="text-[11px] text-white/65">Text lesen &amp; Fragen beantworten</div>
                 </div>
               </button>
             </div>
@@ -652,13 +652,13 @@ export default function DeutschTestPage() {
           >
             {/* Header */}
             <div className="flex items-center gap-3 pt-4 mb-3">
-              <button onClick={() => setScreen("topics")} className="text-white/40 hover:text-white p-1">
+              <button onClick={() => setScreen("topics")} className="text-white/65 hover:text-white p-1">
                 <ArrowLeft size={18} />
               </button>
               <div className="flex-1">
-                <div className="flex justify-between text-xs text-white/40 mb-1">
+                <div className="flex justify-between text-xs text-white/65 mb-1">
                   <span>Aufgabe {idx + 1} / {totalQ}</span>
-                  <span className="text-[#00D4FF]/60">Klasse {grade}</span>
+                  <span className="text-[#00D4FF]/85">Klasse {grade}</span>
                 </div>
                 <div className="h-2 bg-white/10 rounded-full overflow-hidden">
                   <motion.div
@@ -670,10 +670,10 @@ export default function DeutschTestPage() {
               </div>
               {/* live correct counter */}
               <div className="text-right shrink-0">
-                <div className="text-[11px] text-white/30">Richtig</div>
+                <div className="text-[11px] text-white/55">Richtig</div>
                 <div className="text-sm font-black text-[#00FF88]">
                   {answers.filter(a => a.correct).length}
-                  <span className="text-white/20 font-normal">/{idx}</span>
+                  <span className="text-white/45 font-normal">/{idx}</span>
                 </div>
               </div>
             </div>
@@ -697,7 +697,7 @@ export default function DeutschTestPage() {
             <div className="bg-[#12122A] rounded-2xl border border-white/10 p-5 flex flex-col gap-5">
               <p className="text-white text-lg font-semibold leading-snug">{currentQ.question}</p>
               {currentQ.hint && (
-                <p className="text-white/40 text-xs -mt-3">💡 {currentQ.hint}</p>
+                <p className="text-white/65 text-xs -mt-3">💡 {currentQ.hint}</p>
               )}
 
               {/* MCQ */}
@@ -709,7 +709,7 @@ export default function DeutschTestPage() {
                       if (i === currentQ.correct) style = "bg-[#00FF88]/20 border-[#00FF88] text-white";
                       else if (answers[answers.length - 1]?.given === opt && !lastCorrect)
                         style = "bg-[#FF2D78]/20 border-[#FF2D78] text-white";
-                      else style = "bg-white/3 border-white/5 text-white/30";
+                      else style = "bg-white/3 border-white/5 text-white/55";
                     }
                     return (
                       <motion.button
@@ -720,7 +720,7 @@ export default function DeutschTestPage() {
                         disabled={showFeedback}
                         className={`w-full text-left px-4 py-3 rounded-xl border text-sm font-medium transition-all ${style}`}
                       >
-                        <span className="text-white/40 mr-2">{String.fromCharCode(65 + i)})</span>
+                        <span className="text-white/65 mr-2">{String.fromCharCode(65 + i)})</span>
                         {opt}
                       </motion.button>
                     );
@@ -739,12 +739,12 @@ export default function DeutschTestPage() {
                     placeholder="Deine Antwort..."
                     autoFocus
                     className={`w-full bg-[#1A1A35] border rounded-xl px-4 py-3 text-white text-base outline-none
-                      placeholder:text-white/25 transition-all
+                      placeholder:text-white/75 transition-all
                       ${showFeedback
                         ? lastCorrect
                           ? "border-[#00FF88] bg-[#00FF88]/10"
                           : "border-[#FF2D78] bg-[#FF2D78]/10"
-                        : "border-white/20 focus:border-[#00D4FF]/60"
+                        : "border-white/20 focus:border-[#00D4FF]/85"
                       }`}
                   />
                   {!showFeedback && (
@@ -836,12 +836,12 @@ export default function DeutschTestPage() {
                       style={{ borderColor: mark.color, boxShadow: `0 0 25px ${mark.color}40` }}
                     >
                       <span className="text-3xl font-black" style={{ color: mark.color }}>{mark.note}</span>
-                      <span className="text-[9px] text-white/40 uppercase">Note</span>
+                      <span className="text-[9px] text-white/65 uppercase">Note</span>
                     </div>
                     <div>
                       <p className="text-lg font-bold" style={{ color: mark.color }}>{mark.label}</p>
-                      <p className="text-white/50 text-sm">{scoreCount} / {answers.length} richtig</p>
-                      <p className="text-white/30 text-xs">{scorePct}%</p>
+                      <p className="text-white/75 text-sm">{scoreCount} / {answers.length} richtig</p>
+                      <p className="text-white/55 text-xs">{scorePct}%</p>
                     </div>
                   </motion.div>
                 </div>
@@ -850,10 +850,10 @@ export default function DeutschTestPage() {
               {/* Detailed Analysis */}
               <div className="bg-[#12122A] rounded-xl border border-white/10 overflow-hidden mb-4">
                 <div className="px-4 py-2.5 border-b border-white/5 flex items-center justify-between">
-                  <span className="text-xs text-white/40 font-bold uppercase tracking-wide">Auswertung</span>
+                  <span className="text-xs text-white/65 font-bold uppercase tracking-wide">Auswertung</span>
                   <div className="flex gap-2 text-[11px]">
                     <span className="text-[#00FF88]">✓ {scoreCount} richtig</span>
-                    <span className="text-white/20">·</span>
+                    <span className="text-white/45">·</span>
                     <span className="text-[#FF2D78]">✗ {answers.length - scoreCount} falsch</span>
                   </div>
                 </div>
@@ -861,7 +861,7 @@ export default function DeutschTestPage() {
                 {/* Wrong answers highlighted */}
                 {answers.some(a => !a.correct) && (
                   <div className="px-4 py-2 bg-[#FF2D78]/5 border-b border-[#FF2D78]/10">
-                    <p className="text-[11px] text-[#FF2D78]/70 font-bold mb-2">📌 Das musst du noch üben:</p>
+                    <p className="text-[11px] text-[#FF2D78] font-bold mb-2">📌 Das musst du noch üben:</p>
                     <div className="flex flex-col gap-1.5">
                       {questions.map((q, i) => {
                         const ans = answers[i];
@@ -870,7 +870,7 @@ export default function DeutschTestPage() {
                           <div key={i} className="flex items-start gap-2">
                             <XIcon size={12} className="text-[#FF2D78] mt-0.5 shrink-0" />
                             <div className="min-w-0">
-                              <p className="text-white/60 text-xs leading-snug line-clamp-1">{q.question}</p>
+                              <p className="text-white/80 text-xs leading-snug line-clamp-1">{q.question}</p>
                               <p className="text-[#00FF88] text-xs">→ {ans.expected}</p>
                             </div>
                           </div>
@@ -892,7 +892,7 @@ export default function DeutschTestPage() {
                           {ans.correct ? <Check size={10} /> : <XIcon size={10} />}
                         </div>
                         <div className="flex-1 min-w-0">
-                          <p className="text-white/60 text-xs leading-snug line-clamp-2">{q.question}</p>
+                          <p className="text-white/80 text-xs leading-snug line-clamp-2">{q.question}</p>
                           {!ans.correct && (
                             <p className="text-[#00FF88] text-[11px] mt-0.5 font-medium">✓ {ans.expected}</p>
                           )}
@@ -923,7 +923,7 @@ export default function DeutschTestPage() {
               </div>
               <Link
                 href="/"
-                className="w-full py-3 rounded-xl bg-white/5 border border-white/10 text-white/40 font-bold
+                className="w-full py-3 rounded-xl bg-white/5 border border-white/10 text-white/65 font-bold
                            flex items-center justify-center gap-2 hover:bg-white/10 transition-all text-sm"
               >
                 <Home size={16} /> Hauptmenü
