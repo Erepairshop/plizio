@@ -21,6 +21,7 @@ import {
   type DeutschTheme,
 } from "@/lib/deutschCurriculum";
 import { getRandomPassage, type Lesepassage, type LeseQuestion } from "@/lib/deutschLesetest";
+import { generateForSubtopics } from "@/lib/deutschGenerators";
 import { checkAnswer } from "@/lib/deutschValidation";
 
 // ─── TYPEN ────────────────────────────────────────────────────────────────────
@@ -101,9 +102,32 @@ export default function DeutschTestPage() {
   // ─── FRAGEN AUFBAUEN ────────────────────────────────────────────────────────
 
   function buildTest(g: number, subtopicIds: string[], withLesetest: boolean) {
-    const grammar = getDeutschQuestions(g, subtopicIds, withLesetest ? 7 : 10);
-    const result: TestQuestion[] = grammar.map((q) => ({ ...q }));
+    const maxGrammar = withLesetest ? 7 : 10;
 
+    // Statische Fragen aus dem Curriculum
+    const staticQs = getDeutschQuestions(g, subtopicIds, 20);
+
+    // Generierte Fragen (zufällig, jedes Mal anders)
+    const generatedQs = generateForSubtopics(subtopicIds, 12);
+
+    // Zusammenführen, mischen, doppelte Fragen (nach Text) entfernen
+    const combined = [...staticQs, ...generatedQs];
+    for (let i = combined.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [combined[i], combined[j]] = [combined[j], combined[i]];
+    }
+    const seen = new Set<string>();
+    const grammarPool: TestQuestion[] = [];
+    for (const q of combined) {
+      const key = q.question.slice(0, 60);
+      if (!seen.has(key)) {
+        seen.add(key);
+        grammarPool.push({ ...q });
+      }
+      if (grammarPool.length >= maxGrammar) break;
+    }
+
+    // Lesetest-Fragen anhängen
     if (withLesetest) {
       const passage = getRandomPassage(g);
       if (passage) {
@@ -112,16 +136,16 @@ export default function DeutschTestPage() {
           passageText: passage.text,
           passageTitle: passage.title,
         }));
-        result.push(...leseQs);
+        grammarPool.push(...leseQs);
       }
     }
 
-    // Shuffle
-    for (let i = result.length - 1; i > 0; i--) {
+    // Finales Mischen & auf 10 kürzen
+    for (let i = grammarPool.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
-      [result[i], result[j]] = [result[j], result[i]];
+      [grammarPool[i], grammarPool[j]] = [grammarPool[j], grammarPool[i]];
     }
-    return result.slice(0, 10);
+    return grammarPool.slice(0, 10);
   }
 
   // ─── TEST STARTEN ────────────────────────────────────────────────────────────
