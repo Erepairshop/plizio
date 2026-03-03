@@ -102,7 +102,7 @@ export default function DeutschTestPage() {
   // ─── FRAGEN AUFBAUEN ────────────────────────────────────────────────────────
 
   function buildTest(g: number, subtopicIds: string[], withLesetest: boolean) {
-    const maxGrammar = withLesetest ? 7 : 10;
+    const maxGrammar = withLesetest ? 12 : 15;
 
     // Statische Fragen aus dem Curriculum
     const staticQs = getDeutschQuestions(g, subtopicIds, 20);
@@ -375,7 +375,7 @@ export default function DeutschTestPage() {
                           {empty && <span className="ml-auto text-[10px] text-white/25">bald</span>}
                           {!empty && (
                             <span className="ml-auto text-[10px] text-white/30">
-                              {sub.questions.length} Fr.
+                              15 Fr.
                             </span>
                           )}
                         </button>

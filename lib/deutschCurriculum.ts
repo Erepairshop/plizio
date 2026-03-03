@@ -1537,7 +1537,7 @@ const K2: DeutschTheme[] = [
     { type: "mcq", topic: "saetze_k2", subtopic: "satzarten", question: "Was für ein Satz ist: 'Frohe Weihnachten!'", options: ["Aussagesatz", "Fragesatz", "Ausrufsatz"], correct: 2 },
     { type: "typing", topic: "saetze_k2", subtopic: "satzarten", question: "Welches Satzzeichen fehlt? 'Der Apfel schmeckt gut__'", answer: "." },
     { type: "mcq", topic: "saetze_k2", subtopic: "satzarten", question: "Was für ein Satz ist: 'Gefällt dir das?'", options: ["Aussagesatz", "Fragesatz", "Ausrufsatz"], correct: 1 },
-    { type: "typing", topic: "satzarten", question: "Welches Satzzeichen fehlt? 'Nicht anfassen__'", answer: "!" },
+    { type: "typing", topic: "saetze_k2", subtopic: "satzarten", question: "Welches Satzzeichen fehlt? 'Nicht anfassen__'", answer: "!" },
     { type: "mcq", topic: "saetze_k2", subtopic: "satzarten", question: "Was für ein Satz ist: 'Ich gehe schlafen.'", options: ["Aussagesatz", "Fragesatz", "Ausrufsatz"], correct: 0 },
     { type: "typing", topic: "saetze_k2", subtopic: "satzarten", question: "Welches Satzzeichen fehlt? 'Warum lachst du__'", answer: "?" },
     { type: "mcq", topic: "saetze_k2", subtopic: "satzarten", question: "Was für ein Satz ist: 'Wahnsinn!'", options: ["Aussagesatz", "Fragesatz", "Ausrufsatz"], correct: 2 },

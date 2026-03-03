@@ -288,7 +288,6 @@ export const LESETEST: Record<number, Lesepassage[]> = {
       ],
     },
     {
-      id: "k6_2", // Javítottam az ID-t a sorrendhez: k8_2
       id: "k8_2",
       title: "Verpflichtendes soziales Jahr nach dem Schulabschluss?",
       text: "Immer wieder wird die Einführung eines verpflichtenden sozialen Jahres für Schulabgänger gefordert. Ein wesentliches Argument dafür ist die Stärkung des gesellschaftlichen Zusammenhalts; junge Menschen könnten so wertvolle Erfahrungen in Krankenhäusern oder Pflegeheimen sammeln. Dies würde nicht nur dem Personalmangel im sozialen Sektor entgegenwirken, sondern auch die Persönlichkeitsentwicklung der Jugendlichen fördern. Auf der anderen Seite wird argumentiert, dass ein solcher Zwang einen erheblichen Eingriff in die individuelle Freiheit darstellt. Viele Schulabgänger möchten nach dem Prüfungsstress sofort mit dem Studium oder der Ausbildung beginnen. Ein Pflichtjahr könnte somit den Berufseinstieg unnötig verzögern. Letztlich stellt sich die Frage, ob echtes soziales Engagement erzwungen werden kann oder ob die Förderung von Freiwilligendiensten nicht der bessere Weg wäre.",
