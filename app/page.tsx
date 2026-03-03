@@ -32,6 +32,7 @@ interface GameDefBase {
   nameKey: string;
   color: string;
   gradient: string;
+  langOnly?: string; // if set, only show for this language
 }
 
 interface CategoryDefBase {
@@ -262,6 +263,7 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         nameKey: "deutschtest",
         color: "#00D4FF",
         gradient: "bg-gradient-to-br from-cyan-500/20 to-blue-500/20",
+        langOnly: "de",
       },
     ],
   },
@@ -287,14 +289,16 @@ function getCategoriesWithTranslations(lang: string): CategoryDef[] {
     return {
       ...cat,
       label: t.categories[labelKey],
-      games: cat.games.map(game => ({
-        id: game.id,
-        icon: game.icon,
-        nameKey: game.nameKey,
-        name: t.games[game.nameKey as keyof typeof t.games] || "Unknown",
-        color: game.color,
-        gradient: game.gradient,
-      })) as any,
+      games: cat.games
+        .filter(game => !game.langOnly || game.langOnly === currentLang)
+        .map(game => ({
+          id: game.id,
+          icon: game.icon,
+          nameKey: game.nameKey,
+          name: t.games[game.nameKey as keyof typeof t.games] || "Unknown",
+          color: game.color,
+          gradient: game.gradient,
+        })) as any,
     } as CategoryDef;
   });
 }

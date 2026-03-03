@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { BookOpen, ArrowLeft, Check, X as XIcon, RotateCcw, Home, ChevronRight } from "lucide-react";
 import Link from "next/link";
@@ -19,14 +19,59 @@ import {
   calculateDeutschMark,
   type DeutschQuestion,
   type DeutschTheme,
+  type DeutschCountry,
 } from "@/lib/deutschCurriculum";
 import { getRandomPassage, type Lesepassage, type LeseQuestion } from "@/lib/deutschLesetest";
 import { generateForSubtopics } from "@/lib/deutschGenerators";
 import { checkAnswer } from "@/lib/deutschValidation";
 
+// ─── DEUTSCH FLOATING BACKGROUND ─────────────────────────────────────────────
+
+const DE_CHARS = ["A","B","C","Ä","Ö","Ü","ß","!","?",",",".",";","Z","W","R","S","T"];
+const DE_COLORS = ["#FFD700","#FF4444","#00D4FF","#FFFFFF","#B44DFF"];
+
+function DeutschBackground() {
+  const items = useMemo(() => Array.from({ length: 28 }, (_, i) => ({
+    char: DE_CHARS[i % DE_CHARS.length],
+    x: Math.random() * 100,
+    y: Math.random() * 100,
+    size: 16 + Math.random() * 48,
+    duration: 8 + Math.random() * 16,
+    delay: Math.random() * 8,
+    color: DE_COLORS[Math.floor(Math.random() * DE_COLORS.length)],
+    opacity: 0.04 + Math.random() * 0.10,
+  })), []);
+  return (
+    <div className="absolute inset-0 overflow-hidden pointer-events-none">
+      {items.map((it, i) => (
+        <div
+          key={i}
+          className="absolute font-black select-none"
+          style={{
+            left: `${it.x}%`,
+            top: `${it.y}%`,
+            fontSize: it.size,
+            color: it.color,
+            opacity: it.opacity,
+            animation: `floatDE ${it.duration}s ease-in-out ${it.delay}s infinite alternate`,
+          }}
+        >
+          {it.char}
+        </div>
+      ))}
+      <style>{`
+        @keyframes floatDE {
+          0%   { transform: translateY(0px) rotate(-5deg); }
+          100% { transform: translateY(-30px) rotate(5deg); }
+        }
+      `}</style>
+    </div>
+  );
+}
+
 // ─── TYPEN ────────────────────────────────────────────────────────────────────
 
-type Screen = "grade" | "topics" | "test" | "result";
+type Screen = "country" | "grade" | "topics" | "test" | "result";
 type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory";
 
 interface TestQuestion {
@@ -78,7 +123,8 @@ function useAvatarProps() {
 
 export default function DeutschTestPage() {
   const avatarProps = useAvatarProps();
-  const [screen, setScreen] = useState<Screen>("grade");
+  const [screen, setScreen] = useState<Screen>("country");
+  const [country, setCountry] = useState<DeutschCountry>("DE");
   const [grade, setGrade] = useState(1);
   const [selectedIds, setSelectedIds] = useState<string[]>([]);
   const [includeLesetest, setIncludeLesetest] = useState(false);
@@ -258,7 +304,7 @@ export default function DeutschTestPage() {
 
   const scoreCount = answers.filter((a) => a.correct).length;
   const scorePct = answers.length > 0 ? Math.round((scoreCount / answers.length) * 100) : 0;
-  const mark = calculateDeutschMark(scorePct);
+  const mark = calculateDeutschMark(scorePct, country);
 
   // ─────────────────────────────────────────────────────────────────────────────
   // RENDER
@@ -278,42 +324,170 @@ export default function DeutschTestPage() {
 
       <AnimatePresence mode="wait">
 
+        {/* ── LAND WÄHLEN ───────────────────────────────────────────────────── */}
+        {screen === "country" && (
+          <motion.div
+            key="country"
+            initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: -20 }}
+            className="relative min-h-screen flex flex-col items-center justify-center p-6 overflow-hidden"
+          >
+            <DeutschBackground />
+            <Link href="/" className="absolute top-5 left-5 z-10">
+              <motion.div
+                className="p-2 rounded-xl bg-white/5 border border-white/10"
+                whileHover={{ scale: 1.1, backgroundColor: "rgba(255,255,255,0.1)" }}
+                whileTap={{ scale: 0.9 }}
+              >
+                <ArrowLeft size={20} className="text-white/60" />
+              </motion.div>
+            </Link>
+
+            <motion.div
+              className="relative z-10 flex flex-col items-center gap-3 mb-10"
+              initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6 }}
+            >
+              <motion.div
+                className="p-4 rounded-2xl"
+                style={{ background: "rgba(0,212,255,0.1)", boxShadow: "0 0 30px rgba(0,212,255,0.2)" }}
+              >
+                <BookOpen
+                  size={42}
+                  className="text-[#00D4FF]"
+                  style={{ filter: "drop-shadow(0 0 12px rgba(0,212,255,0.6))" }}
+                />
+              </motion.div>
+              <h1
+                className="text-4xl font-black tracking-wider text-white"
+                style={{ textShadow: "0 0 20px rgba(0,212,255,0.4)" }}
+              >
+                DEUTSCH TEST
+              </h1>
+              <p className="text-white/50 text-sm">Wähle dein Land</p>
+            </motion.div>
+
+            <motion.div
+              className="relative z-10 flex flex-col gap-3 w-full max-w-xs"
+              initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }}
+            >
+              {([
+                { code: "DE", flag: "🇩🇪", label: "Deutschland", sub: "Note 1–6" },
+                { code: "AT", flag: "🇦🇹", label: "Österreich",  sub: "Note 1–5" },
+                { code: "CH", flag: "🇨🇭", label: "Schweiz",     sub: "Note 1–6 (6=best)" },
+              ] as { code: DeutschCountry; flag: string; label: string; sub: string }[]).map((c, i) => (
+                <motion.button
+                  key={c.code}
+                  initial={{ opacity: 0, x: -20 }}
+                  animate={{ opacity: 1, x: 0 }}
+                  transition={{ delay: 0.15 + i * 0.08 }}
+                  whileHover={{ scale: 1.03 }}
+                  whileTap={{ scale: 0.97 }}
+                  onClick={() => { setCountry(c.code); setScreen("grade"); }}
+                  className="flex items-center gap-4 px-5 py-4 rounded-2xl border transition-all text-left"
+                  style={{
+                    background: "rgba(0,212,255,0.05)",
+                    borderColor: "rgba(0,212,255,0.2)",
+                  }}
+                  onMouseEnter={(e) => {
+                    (e.currentTarget as HTMLButtonElement).style.background = "rgba(0,212,255,0.12)";
+                    (e.currentTarget as HTMLButtonElement).style.borderColor = "rgba(0,212,255,0.5)";
+                  }}
+                  onMouseLeave={(e) => {
+                    (e.currentTarget as HTMLButtonElement).style.background = "rgba(0,212,255,0.05)";
+                    (e.currentTarget as HTMLButtonElement).style.borderColor = "rgba(0,212,255,0.2)";
+                  }}
+                >
+                  <span className="text-3xl">{c.flag}</span>
+                  <div>
+                    <div className="font-black text-white text-base">{c.label}</div>
+                    <div className="text-[11px] text-white/40">{c.sub}</div>
+                  </div>
+                  <ChevronRight size={18} className="ml-auto text-[#00D4FF]/50" />
+                </motion.button>
+              ))}
+            </motion.div>
+          </motion.div>
+        )}
+
         {/* ── KLASSE WÄHLEN ─────────────────────────────────────────────────── */}
         {screen === "grade" && (
           <motion.div
             key="grade"
             initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -20 }}
-            className="min-h-screen flex flex-col items-center justify-center p-6"
+            className="relative min-h-screen flex flex-col items-center justify-center p-6 overflow-hidden"
           >
-            <Link href="/" className="absolute top-4 left-4 text-white/50 hover:text-white flex items-center gap-1 text-sm">
-              <Home size={16} /> Hauptmenü
-            </Link>
+            <DeutschBackground />
+            <motion.button
+              onClick={() => setScreen("country")}
+              className="absolute top-5 left-5 z-10 p-2 rounded-xl bg-white/5 border border-white/10"
+              whileHover={{ scale: 1.1, backgroundColor: "rgba(255,255,255,0.1)" }}
+              whileTap={{ scale: 0.9 }}
+            >
+              <ArrowLeft size={20} className="text-white/60" />
+            </motion.button>
 
-            <div className="flex items-center gap-3 mb-2">
-              <BookOpen size={36} className="text-[#00D4FF]" />
-              <h1 className="text-4xl font-black tracking-wider text-[#00D4FF]">
+            <motion.div
+              className="relative z-10 flex flex-col items-center gap-3 mb-8"
+              initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6 }}
+            >
+              <motion.div
+                className="p-4 rounded-2xl"
+                style={{ background: "rgba(0,212,255,0.1)", boxShadow: "0 0 30px rgba(0,212,255,0.2)" }}
+              >
+                <BookOpen
+                  size={42}
+                  className="text-[#00D4FF]"
+                  style={{ filter: "drop-shadow(0 0 12px rgba(0,212,255,0.6))" }}
+                />
+              </motion.div>
+              <h1
+                className="text-4xl font-black tracking-wider text-white"
+                style={{ textShadow: "0 0 20px rgba(0,212,255,0.4)" }}
+              >
                 DEUTSCH TEST
               </h1>
-            </div>
-            <p className="text-white/50 mb-10 text-sm">Wähle deine Klassenstufe</p>
+              <p className="text-white/50 text-sm">
+                {country === "DE" ? "🇩🇪" : country === "AT" ? "🇦🇹" : "🇨🇭"} Wähle deine Klassenstufe
+              </p>
+            </motion.div>
 
-            <div className="grid grid-cols-4 gap-3 w-full max-w-sm">
-              {[1, 2, 3, 4, 5, 6, 7, 8].map((g) => (
+            <motion.div
+              className="relative z-10 grid grid-cols-4 gap-3 w-full max-w-xs"
+              initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }}
+            >
+              {[1, 2, 3, 4, 5, 6, 7, 8].map((g, i) => (
                 <motion.button
                   key={g}
-                  whileHover={{ scale: 1.08 }}
-                  whileTap={{ scale: 0.95 }}
+                  initial={{ opacity: 0, scale: 0.8 }}
+                  animate={{ opacity: 1, scale: 1 }}
+                  transition={{ delay: 0.1 + i * 0.04 }}
+                  whileHover={{ scale: 1.1 }}
+                  whileTap={{ scale: 0.92 }}
                   onClick={() => changeGrade(g)}
-                  className="aspect-square rounded-xl bg-[#12122A] border border-[#00D4FF]/20
-                             hover:border-[#00D4FF]/80 hover:bg-[#00D4FF]/10
-                             flex flex-col items-center justify-center gap-1 transition-all"
+                  className="aspect-square rounded-2xl flex flex-col items-center justify-center gap-0.5
+                             border transition-all"
+                  style={{
+                    background: "rgba(0,212,255,0.05)",
+                    borderColor: "rgba(0,212,255,0.2)",
+                    boxShadow: "0 0 0 0 rgba(0,212,255,0)",
+                  }}
+                  onMouseEnter={(e) => {
+                    (e.currentTarget as HTMLButtonElement).style.background = "rgba(0,212,255,0.15)";
+                    (e.currentTarget as HTMLButtonElement).style.borderColor = "rgba(0,212,255,0.7)";
+                    (e.currentTarget as HTMLButtonElement).style.boxShadow = "0 0 16px rgba(0,212,255,0.25)";
+                  }}
+                  onMouseLeave={(e) => {
+                    (e.currentTarget as HTMLButtonElement).style.background = "rgba(0,212,255,0.05)";
+                    (e.currentTarget as HTMLButtonElement).style.borderColor = "rgba(0,212,255,0.2)";
+                    (e.currentTarget as HTMLButtonElement).style.boxShadow = "0 0 0 0 rgba(0,212,255,0)";
+                  }}
                 >
+                  <span className="text-xs text-white/40 font-semibold">Kl.</span>
                   <span className="text-2xl font-black text-[#00D4FF]">{g}</span>
-                  <span className="text-[10px] text-white/40">Klasse</span>
                 </motion.button>
               ))}
-            </div>
+            </motion.div>
           </motion.div>
         )}
 
@@ -323,98 +497,167 @@ export default function DeutschTestPage() {
             key="topics"
             initial={{ opacity: 0, x: 30 }} animate={{ opacity: 1, x: 0 }}
             exit={{ opacity: 0, x: -30 }}
-            className="min-h-screen flex flex-col p-4 pb-32 max-w-lg mx-auto"
+            className="relative min-h-screen flex flex-col p-4 pb-36 max-w-lg mx-auto overflow-hidden"
           >
+            <DeutschBackground />
+
             {/* Header */}
-            <div className="flex items-center gap-3 pt-4 mb-1">
-              <button onClick={() => setScreen("grade")} className="text-white/50 hover:text-white p-1">
-                <ArrowLeft size={20} />
-              </button>
-              <BookOpen size={20} className="text-[#00D4FF]" />
-              <span className="font-black text-[#00D4FF] tracking-wide">DEUTSCH TEST</span>
-              <span className="ml-auto text-white/40 text-sm bg-[#00D4FF]/10 px-3 py-1 rounded-full">
+            <div className="relative z-10 flex items-center gap-3 pt-4 mb-1">
+              <motion.button
+                onClick={() => setScreen("grade")}
+                className="p-2 rounded-xl bg-white/5 border border-white/10 text-white/60 hover:text-white"
+                whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }}
+              >
+                <ArrowLeft size={18} />
+              </motion.button>
+              <div
+                className="p-1.5 rounded-lg"
+                style={{ background: "rgba(0,212,255,0.1)" }}
+              >
+                <BookOpen size={18} className="text-[#00D4FF]" />
+              </div>
+              <span className="font-black text-[#00D4FF] tracking-wide text-sm">DEUTSCH TEST</span>
+              <span className="ml-auto text-white/60 text-xs font-bold bg-[#00D4FF]/10 border border-[#00D4FF]/20 px-3 py-1 rounded-full">
                 Klasse {grade}
               </span>
             </div>
-            <p className="text-white/40 text-xs mb-5 ml-9">Wähle die Themenbereiche für deinen Test</p>
+            <p className="relative z-10 text-white/35 text-xs mb-4 ml-10">Themen für deinen Test auswählen</p>
 
             {/* Themes + Subtopics */}
-            <div className="flex flex-col gap-3">
-              {themes.map((theme) => (
-                <div key={theme.id} className="bg-[#12122A] rounded-xl overflow-hidden border border-white/5">
-                  {/* Theme Header */}
-                  <div className="flex items-center gap-2 px-4 py-2.5" style={{ borderLeft: `3px solid ${theme.color}` }}>
-                    <span className="text-lg">{theme.icon}</span>
-                    <span className="font-bold text-sm" style={{ color: theme.color }}>{theme.name}</span>
-                  </div>
-                  {/* Subtopics */}
-                  <div className="px-3 pb-3 flex flex-col gap-1.5 ml-3">
-                    {theme.subtopics.map((sub) => {
-                      const sel = selectedIds.includes(sub.id);
-                      const empty = sub.questions.length === 0;
-                      return (
+            <div className="relative z-10 flex flex-col gap-2.5">
+              {themes.map((theme) => {
+                const availSubs = theme.subtopics.filter((s) => s.questions.length > 0);
+                const allSel = availSubs.length > 0 && availSubs.every((s) => selectedIds.includes(s.id));
+                const toggleAll = () => {
+                  if (allSel) {
+                    setSelectedIds((prev) => prev.filter((id) => !availSubs.some((s) => s.id === id)));
+                  } else {
+                    setSelectedIds((prev) => {
+                      const next = [...prev];
+                      availSubs.forEach((s) => { if (!next.includes(s.id)) next.push(s.id); });
+                      return next;
+                    });
+                  }
+                };
+                return (
+                  <div
+                    key={theme.id}
+                    className="rounded-2xl overflow-hidden border"
+                    style={{
+                      background: "rgba(18,18,42,0.85)",
+                      borderColor: `${theme.color}22`,
+                      backdropFilter: "blur(8px)",
+                    }}
+                  >
+                    {/* Theme Header */}
+                    <div
+                      className="flex items-center gap-2.5 px-4 py-3"
+                      style={{ borderLeft: `3px solid ${theme.color}` }}
+                    >
+                      <span className="text-xl">{theme.icon}</span>
+                      <span className="font-bold text-sm flex-1" style={{ color: theme.color }}>{theme.name}</span>
+                      {availSubs.length > 1 && (
                         <button
-                          key={sub.id}
-                          onClick={() => !empty && toggleSubtopic(sub.id)}
-                          className={`flex items-center gap-2 px-3 py-2 rounded-lg text-left text-sm transition-all
-                            ${sel
-                              ? "bg-[#00D4FF]/15 border border-[#00D4FF]/50 text-white"
-                              : empty
-                                ? "bg-white/3 border border-white/5 text-white/25 cursor-not-allowed"
-                                : "bg-white/5 border border-white/10 text-white/70 hover:bg-white/10 hover:text-white"
-                            }`}
+                          onClick={toggleAll}
+                          className="text-[10px] px-2 py-0.5 rounded-full border transition-all font-semibold"
+                          style={{
+                            color: allSel ? theme.color : "rgba(255,255,255,0.4)",
+                            borderColor: allSel ? `${theme.color}80` : "rgba(255,255,255,0.15)",
+                            background: allSel ? `${theme.color}15` : "transparent",
+                          }}
                         >
-                          <div className={`w-4 h-4 rounded flex items-center justify-center shrink-0 border transition-all
-                            ${sel ? "bg-[#00D4FF] border-[#00D4FF]" : "border-white/30"}`}>
-                            {sel && <Check size={10} strokeWidth={3} className="text-black" />}
-                          </div>
-                          <span>{sub.name}</span>
-                          {empty && <span className="ml-auto text-[10px] text-white/25">bald</span>}
-                          {!empty && (
-                            <span className="ml-auto text-[10px] text-white/30">
-                              15 Fr.
-                            </span>
-                          )}
+                          {allSel ? "Alle ✓" : "Alle"}
                         </button>
-                      );
-                    })}
+                      )}
+                    </div>
+                    {/* Subtopics */}
+                    <div className="px-3 pb-3 pt-1 flex flex-col gap-1.5">
+                      {theme.subtopics.map((sub) => {
+                        const sel = selectedIds.includes(sub.id);
+                        const empty = sub.questions.length === 0;
+                        return (
+                          <button
+                            key={sub.id}
+                            onClick={() => !empty && toggleSubtopic(sub.id)}
+                            className={`flex items-center gap-2.5 px-3 py-2 rounded-xl text-left text-sm transition-all
+                              ${sel
+                                ? "text-white"
+                                : empty
+                                  ? "text-white/20 cursor-not-allowed"
+                                  : "text-white/60 hover:text-white"
+                              }`}
+                            style={{
+                              background: sel ? `${theme.color}18` : empty ? "rgba(255,255,255,0.02)" : "rgba(255,255,255,0.04)",
+                              border: sel ? `1px solid ${theme.color}60` : "1px solid rgba(255,255,255,0.07)",
+                            }}
+                          >
+                            <div
+                              className="w-4 h-4 rounded flex items-center justify-center shrink-0 border transition-all"
+                              style={{
+                                background: sel ? theme.color : "transparent",
+                                borderColor: sel ? theme.color : "rgba(255,255,255,0.25)",
+                              }}
+                            >
+                              {sel && <Check size={10} strokeWidth={3} className="text-black" />}
+                            </div>
+                            <span className="flex-1">{sub.name}</span>
+                            {empty
+                              ? <span className="text-[10px] text-white/20">bald</span>
+                              : <span className="text-[10px]" style={{ color: `${theme.color}80` }}>15 Fr.</span>
+                            }
+                          </button>
+                        );
+                      })}
+                    </div>
                   </div>
-                </div>
-              ))}
+                );
+              })}
 
               {/* Lesetest */}
-              <button
+              <motion.button
                 onClick={() => setIncludeLesetest((v) => !v)}
-                className={`flex items-center gap-3 px-4 py-3 rounded-xl text-left text-sm transition-all border
-                  ${includeLesetest
-                    ? "bg-[#FFD700]/10 border-[#FFD700]/50 text-white"
-                    : "bg-[#12122A] border-white/5 text-white/60 hover:bg-white/5 hover:text-white"
-                  }`}
+                whileHover={{ scale: 1.01 }} whileTap={{ scale: 0.98 }}
+                className="flex items-center gap-3 px-4 py-3.5 rounded-2xl text-left transition-all border"
+                style={{
+                  background: includeLesetest ? "rgba(255,215,0,0.08)" : "rgba(18,18,42,0.85)",
+                  borderColor: includeLesetest ? "rgba(255,215,0,0.4)" : "rgba(255,215,0,0.12)",
+                  backdropFilter: "blur(8px)",
+                }}
               >
-                <div className={`w-5 h-5 rounded flex items-center justify-center shrink-0 border transition-all
-                  ${includeLesetest ? "bg-[#FFD700] border-[#FFD700]" : "border-white/30"}`}>
-                  {includeLesetest && <Check size={11} strokeWidth={3} className="text-black" />}
+                <div
+                  className="w-8 h-8 rounded-xl flex items-center justify-center shrink-0 border transition-all"
+                  style={{
+                    background: includeLesetest ? "#FFD700" : "rgba(255,215,0,0.08)",
+                    borderColor: includeLesetest ? "#FFD700" : "rgba(255,215,0,0.25)",
+                  }}
+                >
+                  {includeLesetest
+                    ? <Check size={14} strokeWidth={3} className="text-black" />
+                    : <span className="text-base">📖</span>
+                  }
                 </div>
-                <span className="text-lg">📖</span>
-                <div>
-                  <div className="font-bold" style={{ color: includeLesetest ? "#FFD700" : undefined }}>
-                    Lesetest
+                <div className="flex-1">
+                  <div className="font-bold text-sm" style={{ color: includeLesetest ? "#FFD700" : "rgba(255,215,0,0.7)" }}>
+                    📖 Lesetest
                   </div>
-                  <div className="text-[11px] text-white/40">Text lesen & Fragen beantworten</div>
+                  <div className="text-[11px] text-white/35 mt-0.5">Text lesen & Fragen beantworten · 3 Fr.</div>
                 </div>
-              </button>
+              </motion.button>
             </div>
 
             {/* Start Button */}
-            <div className="fixed bottom-0 left-0 right-0 p-4 bg-gradient-to-t from-[#0A0A1A] to-transparent">
+            <div className="fixed bottom-0 left-0 right-0 p-4 z-20" style={{ background: "linear-gradient(to top, #0A0A1A 60%, transparent)" }}>
               <motion.button
                 whileHover={{ scale: 1.02 }}
                 whileTap={{ scale: 0.97 }}
                 onClick={startTest}
                 disabled={selectedIds.length === 0 && !includeLesetest}
-                className="w-full max-w-lg mx-auto block py-4 rounded-xl font-black text-lg
-                           bg-[#00D4FF] text-black disabled:opacity-30 disabled:cursor-not-allowed
-                           transition-all shadow-[0_0_20px_rgba(0,212,255,0.4)]"
+                className="w-full max-w-lg mx-auto block py-4 rounded-2xl font-black text-lg text-black
+                           disabled:opacity-30 disabled:cursor-not-allowed transition-all"
+                style={{
+                  background: "linear-gradient(135deg, #00D4FF, #0099CC)",
+                  boxShadow: selectedIds.length > 0 || includeLesetest ? "0 0 24px rgba(0,212,255,0.45)" : "none",
+                }}
               >
                 TEST STARTEN →
                 {(selectedIds.length > 0 || includeLesetest) && (

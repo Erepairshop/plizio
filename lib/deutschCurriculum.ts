@@ -11114,7 +11114,27 @@ export interface DeutschMark {
   emoji: string;
 }
 
-export function calculateDeutschMark(pct: number): DeutschMark {
+export type DeutschCountry = "DE" | "AT" | "CH";
+
+export function calculateDeutschMark(pct: number, country: DeutschCountry = "DE"): DeutschMark {
+  if (country === "AT") {
+    // Austria: 1-5 scale (1=best)
+    if (pct >= 87) return { note: 1, label: "Sehr gut",       color: "#FFD700", emoji: "🌟" };
+    if (pct >= 73) return { note: 2, label: "Gut",            color: "#00FF88", emoji: "😊" };
+    if (pct >= 57) return { note: 3, label: "Befriedigend",   color: "#00D4FF", emoji: "🙂" };
+    if (pct >= 40) return { note: 4, label: "Genügend",       color: "#FF6B00", emoji: "😅" };
+    return               { note: 5, label: "Nicht genügend", color: "#FF4444", emoji: "😟" };
+  }
+  if (country === "CH") {
+    // Switzerland: 6-1 scale (6=best)
+    if (pct >= 92) return { note: 6, label: "Sehr gut",   color: "#FFD700", emoji: "🌟" };
+    if (pct >= 81) return { note: 5, label: "Gut",        color: "#00FF88", emoji: "😊" };
+    if (pct >= 67) return { note: 4, label: "Genügend",   color: "#00D4FF", emoji: "🙂" };
+    if (pct >= 50) return { note: 3, label: "Schwach",    color: "#FF6B00", emoji: "😅" };
+    if (pct >= 30) return { note: 2, label: "Sehr schwach", color: "#FF4444", emoji: "😟" };
+    return               { note: 1, label: "Unbrauchbar", color: "#FF2D78", emoji: "😢" };
+  }
+  // Germany: 1-6 scale (1=best)
   if (pct >= 92) return { note: 1, label: "Sehr gut",      color: "#FFD700", emoji: "🌟" };
   if (pct >= 81) return { note: 2, label: "Gut",           color: "#00FF88", emoji: "😊" };
   if (pct >= 67) return { note: 3, label: "Befriedigend",  color: "#00D4FF", emoji: "🙂" };
