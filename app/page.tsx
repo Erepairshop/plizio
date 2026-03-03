@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Layers, Star, User, ChevronDown, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Layers, Star, User, ChevronDown, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import Logo from "@/components/Logo";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
@@ -68,6 +68,7 @@ const TRANSLATIONS = {
       skyclimb: "Sky Climb",
       citydrive: "City Drive",
       mathtest: "Math Test",
+      deutschtest: "Deutsch Test",
       racetrack: "Racetrack",
     },
     ui: {
@@ -92,6 +93,7 @@ const TRANSLATIONS = {
       skyclimb: "Égbolt Mászás",
       citydrive: "Város Vezetés",
       mathtest: "Matematika Teszt",
+      deutschtest: "Német Teszt",
       racetrack: "Pályaverseny",
     },
     ui: {
@@ -116,6 +118,7 @@ const TRANSLATIONS = {
       skyclimb: "Himmelsklettern",
       citydrive: "Stadtfahrt",
       mathtest: "Mathematiktest",
+      deutschtest: "Deutsch Test",
       racetrack: "Rennstrecke",
     },
     ui: {
@@ -140,6 +143,7 @@ const TRANSLATIONS = {
       skyclimb: "Cățărare pe Cer",
       citydrive: "Conducere în Oraș",
       mathtest: "Test de Matematică",
+      deutschtest: "Test de Germană",
       racetrack: "Circuit de curse",
     },
     ui: {
@@ -251,6 +255,13 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         nameKey: "mathtest",
         color: "#FFD700",
         gradient: "bg-gradient-to-br from-yellow-500/20 to-amber-500/20",
+      },
+      {
+        id: "deutschtest",
+        icon: PenLine,
+        nameKey: "deutschtest",
+        color: "#00D4FF",
+        gradient: "bg-gradient-to-br from-cyan-500/20 to-blue-500/20",
       },
     ],
   },
