@@ -102,7 +102,9 @@ export default function DeutschTestPage() {
   // ─── FRAGEN AUFBAUEN ────────────────────────────────────────────────────────
 
   function buildTest(g: number, subtopicIds: string[], withLesetest: boolean) {
-    const maxGrammar = withLesetest ? 12 : 15;
+    const isMixed = subtopicIds.length > 0;
+    const leseMax = withLesetest ? (isMixed ? 1 : 3) : 0;
+    const maxGrammar = 15 - leseMax;
 
     // Statische Fragen aus dem Curriculum
     const staticQs = getDeutschQuestions(g, subtopicIds, 20);
@@ -131,7 +133,7 @@ export default function DeutschTestPage() {
     if (withLesetest) {
       const passage = getRandomPassage(g);
       if (passage) {
-        const leseQs: TestQuestion[] = passage.questions.slice(0, 3).map((lq) => ({
+        const leseQs: TestQuestion[] = passage.questions.slice(0, leseMax).map((lq) => ({
           ...lq,
           passageText: passage.text,
           passageTitle: passage.title,
@@ -140,12 +142,7 @@ export default function DeutschTestPage() {
       }
     }
 
-    // Finales Mischen & auf 10 kürzen
-    for (let i = grammarPool.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [grammarPool[i], grammarPool[j]] = [grammarPool[j], grammarPool[i]];
-    }
-    return grammarPool.slice(0, 10);
+    return grammarPool;
   }
 
   // ─── TEST STARTEN ────────────────────────────────────────────────────────────
