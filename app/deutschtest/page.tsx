@@ -17,6 +17,7 @@ import {
   DEUTSCH_CURRICULUM,
   getDeutschQuestions,
   calculateDeutschMark,
+  getSubtopicHint,
   type DeutschQuestion,
   type DeutschTheme,
   type DeutschCountry,
@@ -81,6 +82,7 @@ interface TestQuestion {
   correct?: number;          // mcq
   answer?: string | string[]; // typing
   hint?: string;
+  subtopic?: string;
   passageText?: string;
   passageTitle?: string;
 }
@@ -786,21 +788,39 @@ export default function DeutschTestPage() {
               <AnimatePresence>
                 {showFeedback && (
                   <motion.div
-                    initial={{ opacity: 0, scale: 0.9 }}
-                    animate={{ opacity: 1, scale: 1 }}
+                    initial={{ opacity: 0, y: 8 }}
+                    animate={{ opacity: 1, y: 0 }}
                     exit={{ opacity: 0 }}
-                    className={`flex items-center gap-3 px-4 py-3 rounded-xl font-bold
+                    className={`flex flex-col gap-2 px-4 py-3 rounded-xl border
                       ${lastCorrect
-                        ? "bg-[#00FF88]/20 text-[#00FF88] border border-[#00FF88]/30"
-                        : "bg-[#FF2D78]/20 text-[#FF2D78] border border-[#FF2D78]/30"
+                        ? "bg-[#00FF88]/15 border-[#00FF88]/30"
+                        : "bg-[#FF2D78]/10 border-[#FF2D78]/30"
                       }`}
                   >
-                    {lastCorrect
-                      ? <><Check size={18} /> Richtig! 🌟</>
-                      : <><XIcon size={18} /> Richtig: <strong className="ml-1">
-                          {Array.isArray(currentQ.answer) ? currentQ.answer[0] : currentQ.answer ?? currentQ.options?.[currentQ.correct ?? 0]}
-                        </strong></>
-                    }
+                    <div className={`flex items-center gap-2 font-bold text-sm
+                      ${lastCorrect ? "text-[#00FF88]" : "text-[#FF2D78]"}`}
+                    >
+                      {lastCorrect
+                        ? <><Check size={16} /> Richtig! 🌟</>
+                        : <>
+                            <XIcon size={16} />
+                            <span>Richtig:</span>
+                            <strong>
+                              {Array.isArray(currentQ.answer)
+                                ? currentQ.answer[0]
+                                : currentQ.answer ?? currentQ.options?.[currentQ.correct ?? 0]}
+                            </strong>
+                          </>
+                      }
+                    </div>
+                    {!lastCorrect && (() => {
+                      const hint = getSubtopicHint(currentQ.subtopic);
+                      return hint ? (
+                        <div className="text-[11px] text-white/50 border-t border-white/10 pt-2 leading-relaxed">
+                          💡 {hint}
+                        </div>
+                      ) : null;
+                    })()}
                   </motion.div>
                 )}
               </AnimatePresence>
