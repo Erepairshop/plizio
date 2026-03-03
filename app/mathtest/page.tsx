@@ -672,14 +672,12 @@ export default function MathTestPage() {
     const langPrefix =
       cc === 'US' || cc === 'GB' ? 'en' :
       cc === 'DE' || cc === 'AT' || cc === 'CH' ? 'de' :
-      cc === 'RO' ? 'ro' :
-      cc === 'HU' ? 'hu' : null;
+      cc === 'RO' ? 'ro' : null;   // HU: Supabase curriculum (helyes magyar témák)
 
     if (langPrefix && selectedGrade) {
       const srcThemes =
         langPrefix === 'en' ? getENThemes(selectedGrade) :
         langPrefix === 'de' ? getDEThemes(selectedGrade) :
-        langPrefix === 'hu' ? getHUThemes(selectedGrade) :
         getROThemes(selectedGrade);
       return srcThemes.map(theme => ({
         id: theme.key,
@@ -754,12 +752,53 @@ export default function MathTestPage() {
     setKlassenarbeitTimeLeft(40 * 60); // 40 minutes = 2400 seconds
     localStorage.setItem("klassenarbeitStartTime", now.toString());
 
+    // Supabase HU slug → HU_THEMES generator topic key mapping
+    const HU_SLUG_TO_KEY: Record<string, string> = {
+      // Grade 1
+      'osszead-20': 'add20', 'kivonas-20': 'sub20', 'osszehasonlitas': 'compare',
+      'egyszer-szoveges': 'word', 'sikidomok': 'compare', 'ora-penz': 'add10',
+      // Grade 2
+      'osszead-100': 'add100', 'kivonas-100': 'sub100', 'tizesek': 'add100',
+      'szorzotabla': 'mul', 'osztas': 'div',
+      'szamsorok': 'sequence', 'hosszusag-ido': 'units', 'penzszamolas': 'units',
+      // Grade 3
+      'muveletek-1000': 'add1000', 'irasbeli': 'add1000',
+      'szorzas': 'mul', 'hianyzo': 'mul',
+      'szamsorozatok': 'sequence', 'hossz-tomeg-ido': 'units', 'atvaltas': 'units',
+      // Grade 4
+      'szamok-10000': 'place', 'ossz-kiv': 'mul', 'szorz-oszt': 'mul',
+      'kerulet-terulet': 'geo', 'testek': 'geo', 'szimmetria': 'geo',
+      'hosszusagmeres': 'units', 'tomeg-terfogat': 'units', 'idomeres': 'units',
+      'tablazatok': 'geo', 'valoszinuseg': 'geo',
+      // Grade 5
+      'nagy-szamok': 'large', 'muveleti-sorrend': 'ops',
+      'tortszamok': 'frac', 'szazalekszamitas': 'pct',
+      'formak': 'geo', 'kedvezmeny': 'word', 'muvsorrend-alk': 'word',
+      // Grade 6
+      'negativ-muveletek': 'neg', 'szamegyenes': 'neg',
+      'tort-szorzas': 'frac', 'tort-osztas': 'frac',
+      'aranyok': 'ratio', 'szazalek': 'pct',
+      'teruletszamitas': 'geo', 'sebesseg': 'ratio',
+      // Grade 7
+      'hatvanyok': 'powers', 'algebrai-kif': 'algebra',
+      'linearis-egyenletek': 'eq', 'egyenlet-felallitas': 'eq',
+      'szogek': 'tri', 'kulonleges-haromszogek': 'tri',
+      'atfogo': 'pyth', 'befogo': 'pyth',
+      // Grade 8
+      'negyzetgyokok': 'sqrt', 'osszetett-kif': 'complex',
+      'ketoldalas': 'eq', 'megoldas': 'eq',
+      'linearis-fuggv': 'func', 'fuggvenyertekek': 'func',
+      'alapok': 'prob', 'alkalmazasok': 'prob',
+      // közös (több osztálynál is)
+      'szoveges-feladatok': 'word', 'szoveges': 'word',
+      'mertekegysegek': 'units',
+    };
+
     try {
       // ─── EN / DE / RO: generator-based topic selection ──────────
-      // HU uses Supabase curriculum topics (not generator-based)
       const generatorTopicIds = selectedSubtopics.filter(id =>
         id.startsWith('en_topic_') || id.startsWith('de_topic_') ||
-        id.startsWith('ro_topic_') || id.startsWith('hu_topic_')
+        id.startsWith('ro_topic_')
       );
       if (generatorTopicIds.length > 0) {
         const cc = country!.code;
@@ -786,6 +825,61 @@ export default function MathTestPage() {
         setGameState("playing");
         setGeneratingTest(false);
         return;
+      }
+
+      // ─── HU: Supabase topics → slug mapping → HU generator ─────
+      if (country?.code === 'HU') {
+        const grade = selectedGrade!;
+        const TARGET = 15;
+        const seen = new Set<string>();
+        const qs: MathQuestion[] = [];
+        // collect matched topic keys from selected subtopic slugs
+        const topicKeys: string[] = [];
+        for (const theme of resolvedThemes) {
+          for (const sub of theme.subtopics) {
+            if (!selectedSubtopics.includes(sub.id)) continue;
+            const key = sub.slug ? HU_SLUG_TO_KEY[sub.slug] : undefined;
+            if (key && !topicKeys.includes(key)) topicKeys.push(key);
+          }
+        }
+        if (topicKeys.length > 0) {
+          const perTopic = Math.ceil(TARGET / topicKeys.length);
+          for (const key of topicKeys) {
+            const pool = generateTopicQuestions(grade, key, 'HU', perTopic);
+            for (const q of pool) {
+              if (!seen.has(q.question) && qs.length < TARGET) {
+                seen.add(q.question);
+                qs.push(q);
+              }
+            }
+          }
+        }
+        if (qs.length > 0) {
+          setQuestions(qs);
+          setAnswers(new Array(qs.length).fill(null));
+          setRealisticKlassenarbeit(null);
+          setAvatarMood("idle");
+          setGameState("playing");
+          setGeneratingTest(false);
+          return;
+        }
+        // ha nem sikerült a mapping, fallback: összes HU téma vegyesen
+        const allHU = getHUThemes(grade).flatMap(t => t.topics);
+        for (let i = 0; i < TARGET * 5 && qs.length < TARGET; i++) {
+          const topic = allHU[Math.floor(Math.random() * allHU.length)];
+          const gen = topic.generators[Math.floor(Math.random() * topic.generators.length)];
+          const q = gen('HU');
+          if (!seen.has(q.question)) { seen.add(q.question); qs.push(q); }
+        }
+        if (qs.length > 0) {
+          setQuestions(qs);
+          setAnswers(new Array(qs.length).fill(null));
+          setRealisticKlassenarbeit(null);
+          setAvatarMood("idle");
+          setGameState("playing");
+          setGeneratingTest(false);
+          return;
+        }
       }
 
       // ─── Collect task IDs from selected subtopics ─────────────
