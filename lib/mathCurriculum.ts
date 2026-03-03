@@ -27,6 +27,17 @@ import {
   qNextInSequence, qMissingInEquation,
   wpShelfRows, wpClassGroups, wpBuyMultiple, wpFruitTotal, wpCollectionDiff,
   wpDrinksPerWeek, qOrderOfOpsReminder,
+  qNextEven, qNextOdd, qIsEvenOrOdd,
+  qClockFullHour, qClockMinutes, qClockHalfPast, qClockQuarterPast,
+  qRoundTo10, qRoundTo100,
+  qCircleCircumference, qCircleArea,
+  qMeanOf, qMedianOf,
+  qSmallestPrimeFactor, qCountPrimesBetween,
+  qLcmOf, qGcdOf,
+  qFractionAddDiff, qFractionSubDiff,
+  qInequalityGt, qInequalityLt,
+  qVolumeBox, qVolumeCube, qVolumeCylinder,
+  qSystemEq,
 } from "./mathTranslations";
 
 export interface MathQuestion {
@@ -224,6 +235,19 @@ const G1: Record<string, Generator> = {
     const a = randInt(3, 8), b = randInt(2, 6);
     return q(wpBus(a, b, cc), a + b, t("wordProblem", cc), 0, true);
   },
+  evenOdd: (cc) => {
+    return Math.random() < 0.5
+      ? (() => { const n = randInt(1, 9) * 2; return q(qNextEven(n, cc), n + 2, t("evenOdd", cc)); })()
+      : (() => { const n = randInt(0, 8) * 2 + 1; return q(qNextOdd(n, cc), n + 2, t("evenOdd", cc)); })();
+  },
+  clock1: (cc) => {
+    if (cc === "US") {
+      const h = randInt(1, 12);
+      return q(qClockFullHour(h, cc), h, t("clockReading", cc));
+    }
+    const h = randInt(1, 12);
+    return q(qClockFullHour(h, cc), h, t("clockReading", cc));
+  },
 };
 
 // ─── GRADE 2 GENERATORS ─────────────────────────────
@@ -298,6 +322,26 @@ const G2: Record<string, Generator> = {
       () => { const startH = randInt(1, 4), durH = randInt(1, 3); return q(qAmPmActivityEnd(startH, durH, cc), startH + durH, t("ampmTime", cc), 0, true); },
     ])();
   },
+  evenOdd: (cc) => {
+    return Math.random() < 0.5
+      ? (() => { const n = randInt(5, 48) * 2; return q(qNextEven(n, cc), n + 2, t("evenOdd", cc)); })()
+      : (() => { const n = randInt(5, 47) * 2 + 1; return q(qNextOdd(n, cc), n + 2, t("evenOdd", cc)); })();
+  },
+  clock2: (cc) => {
+    if (cc === "US") {
+      const startH = randInt(8, 10), addH = randInt(1, 3);
+      return q(qAmPmAddHours(startH, addH, true, cc), startH + addH <= 12 ? startH + addH : startH + addH - 12, t("ampmTime", cc), 0, true);
+    }
+    return pick([
+      () => { const h = randInt(1, 12); return q(qClockHalfPast(h, cc), 30, t("clockReading", cc)); },
+      () => { const h = randInt(1, 11); return q(qClockQuarterPast(h, cc), 15, t("clockReading", cc)); },
+      () => { const h = randInt(1, 12); return q(qClockFullHour(h, cc), h, t("clockReading", cc)); },
+    ])();
+  },
+  rounding10: (cc) => {
+    const n = randInt(2, 18) * 10 + randInt(1, 9);
+    return q(qRoundTo10(n, cc), Math.round(n / 10) * 10, t("rounding10", cc));
+  },
 };
 
 // ─── GRADE 3 GENERATORS ─────────────────────────────
@@ -368,6 +412,18 @@ const G3: Record<string, Generator> = {
     const items = getItems(cc);
     const d = pick([2, 3, 4, 6]); const r = randInt(3, 8);
     return q(wpShare(d * r, d, r, items.candy, cc), r, t("wordProblem", cc), 0, true);
+  },
+  clock3: (cc) => {
+    if (cc === "US") {
+      const startH = randInt(7, 11), addH = randInt(2, 4);
+      return q(qAmPmAddHours(startH, addH, true, cc), startH + addH <= 12 ? startH + addH : startH + addH - 12, t("ampmTime", cc), 0, true);
+    }
+    const h = randInt(1, 11), m = pick([5, 10, 15, 20, 25, 30, 35, 40, 45, 50]);
+    return q(qClockMinutes(h, m, cc), m, t("clockReading", cc));
+  },
+  rounding100: (cc) => {
+    const n = randInt(1, 29) * 100 + randInt(1, 99);
+    return q(qRoundTo100(n, cc), Math.round(n / 100) * 100, t("rounding100", cc));
   },
 };
 
@@ -526,6 +582,61 @@ const G5: Record<string, Generator> = {
     const a = randInt(5, 15), b = randInt(3, 8), c = randInt(2, 6);
     return q(qOrderOfOpsReminder(`${a} + ${b} × ${c}`, cc), a + b * c, t("wordProblem", cc), 0, true);
   },
+  prime: (cc) => {
+    return pick([
+      () => {
+        const composites: Record<number, number> = { 4:2, 6:2, 8:2, 9:3, 10:2, 12:2, 14:2, 15:3, 16:2, 18:2, 20:2, 21:3, 22:2, 25:5, 26:2, 27:3, 28:2, 33:3, 35:5, 39:3 };
+        const n = pick(Object.keys(composites).map(Number));
+        return q(qSmallestPrimeFactor(n, cc), composites[n], t("primes", cc));
+      },
+      () => {
+        // primes < 20: 2,3,5,7,11,13,17,19 → 8 db
+        return q(qCountPrimesBetween(1, 20, cc), 8, t("primes", cc));
+      },
+      () => {
+        // primes < 30: +23,29 → 10 db
+        return q(qCountPrimesBetween(1, 30, cc), 10, t("primes", cc));
+      },
+    ])();
+  },
+  lcm: (cc) => {
+    const pairs: [number, number, number][] = [[2,3,6],[3,4,12],[4,6,12],[6,8,24],[3,5,15],[4,10,20],[6,9,18],[5,6,30],[2,7,14],[4,5,20]];
+    const [a, b, lcm] = pick(pairs);
+    return q(qLcmOf(a, b, cc), lcm, t("lcmGcd", cc));
+  },
+  gcd: (cc) => {
+    const pairs: [number, number, number][] = [[12,8,4],[15,10,5],[18,12,6],[16,12,4],[20,15,5],[24,16,8],[30,18,6],[14,21,7],[36,24,12],[25,15,5]];
+    const [a, b, gcd] = pick(pairs);
+    return q(qGcdOf(a, b, cc), gcd, t("lcmGcd", cc));
+  },
+  mean: (cc) => {
+    const count = pick([3, 4, 5]);
+    const base = randInt(2, 8) * count;
+    const nums = Array.from({ length: count }, () => randInt(1, 15));
+    const sum = nums.reduce((s, n) => s + n, 0);
+    // generate nums that have an integer mean
+    const step = randInt(2, 8);
+    const niceNums = Array.from({ length: count }, (_, i) => step * (i + 1));
+    const mean = niceNums.reduce((s, n) => s + n, 0) / count;
+    return q(qMeanOf(niceNums, cc), mean, t("mean", cc));
+  },
+  fractionDiff: (cc) => {
+    const pairs: [number, number, number, number, number, number][] = [
+      [1,2,1,3,6,5],[1,3,1,4,12,7],[1,2,1,4,4,3],[1,3,1,6,6,3],[2,3,1,6,6,5],
+      [3,4,1,2,4,5],[3,4,1,4,4,4],[2,3,1,4,12,11],[1,2,2,6,6,5],[5,6,1,3,6,7],
+    ];
+    const [an, ad, bn, bd, lcm, num] = pick(pairs);
+    if (Math.random() < 0.5) {
+      return q(qFractionAddDiff(an, ad, bn, bd, lcm, cc), num, t("fractionDiffDenom", cc));
+    } else {
+      // subtraction: pick where result is positive
+      const subPairs: [number, number, number, number, number, number][] = [
+        [3,4,1,2,4,1],[5,6,1,3,6,3],[3,4,1,4,4,2],[2,3,1,6,6,3],[5,6,2,3,6,1],
+      ];
+      const [san, sad, sbn, sbd, slcm, snum] = pick(subPairs);
+      return q(qFractionSubDiff(san, sad, sbn, sbd, slcm, cc), snum, t("fractionDiffDenom", cc));
+    }
+  },
 };
 
 // ─── GRADE 6 GENERATORS ─────────────────────────────
@@ -578,6 +689,44 @@ const G6: Record<string, Generator> = {
   wordTrain: (cc) => {
     const km = randInt(60, 120); const h = pick([2, 3, 4]);
     return q(wpAvgSpeed(km * h, h, cc), km, t("wordProblem", cc), 0, true);
+  },
+  circle: (cc) => {
+    return pick([
+      () => { const r = randInt(2, 8); return q(qCircleCircumference(r, cc), 2 * 3 * r, t("circle", cc)); },
+      () => { const r = randInt(2, 7); return q(qCircleArea(r, cc), 3 * r * r, t("circle", cc)); },
+    ])();
+  },
+  mean: (cc) => {
+    const step = randInt(2, 9);
+    const count = pick([3, 4, 5]);
+    const niceNums = Array.from({ length: count }, (_, i) => step * (i + 1));
+    const mean = niceNums.reduce((s, n) => s + n, 0) / count;
+    return q(qMeanOf(niceNums, cc), mean, t("mean", cc));
+  },
+  median: (cc) => {
+    const count = pick([3, 5]);
+    const sorted = Array.from({ length: count }, (_, i) => randInt(1, 5) + i * randInt(1, 4));
+    return q(qMedianOf(sorted, cc), sorted[Math.floor(count / 2)], t("statistics", cc));
+  },
+  negMul: (cc) => {
+    return pick([
+      () => { const a = randInt(2, 8), b = randInt(2, 6); return q(`(−${a}) × ${b} = ?`, -a * b, t("negativeNumbers", cc), -100); },
+      () => { const a = randInt(2, 8), b = randInt(2, 6); return q(`(−${a}) × (−${b}) = ?`, a * b, t("negativeNumbers", cc)); },
+      () => { const a = randInt(2, 8), b = randInt(2, 6); return q(`${a * b} ÷ (−${b}) = ?`, -a, t("negativeNumbers", cc), -50); },
+    ])();
+  },
+  fractionDiff: (cc) => {
+    const pairs: [number, number, number, number, number, number][] = [
+      [1,2,1,3,6,5],[1,3,1,4,12,7],[1,2,1,4,4,3],[2,3,1,6,6,5],[3,4,1,2,4,5],
+    ];
+    const [an, ad, bn, bd, lcm, num] = pick(pairs);
+    return q(qFractionAddDiff(an, ad, bn, bd, lcm, cc), num, t("fractionDiffDenom", cc));
+  },
+  volume: (cc) => {
+    return pick([
+      () => { const a = randInt(2, 6), b = randInt(2, 6), c = randInt(2, 6); return q(qVolumeBox(a, b, c, cc), a * b * c, t("volume", cc)); },
+      () => { const a = randInt(2, 6); return q(qVolumeCube(a, cc), a * a * a, t("volume", cc)); },
+    ])();
   },
 };
 
@@ -650,6 +799,28 @@ const G7: Record<string, Generator> = {
     const x = randInt(2, 8); const a = randInt(2, 5);
     return q(wpNumberSquare(x, a, a * x, cc), x * x, t("wordProblem", cc), 0, true);
   },
+  inequality: (cc) => {
+    return pick([
+      () => {
+        // ax + b > c  →  x > (c-b)/a  → smallest integer = floor((c-b)/a) + 1
+        const a = randInt(2, 4), b = randInt(1, 8), xMin = randInt(2, 6);
+        const c = a * xMin + b - 1; // so x > xMin-1, smallest int = xMin
+        return q(qInequalityGt(a, b, c, cc), xMin, t("inequality", cc));
+      },
+      () => {
+        // ax - b < c  →  x < (c+b)/a  → largest integer = ceil((c+b)/a) - 1
+        const a = randInt(2, 4), b = randInt(1, 6), xMax = randInt(2, 7);
+        const c = a * xMax - b + 1; // so x < xMax+1, largest int = xMax
+        return q(qInequalityLt(a, b, c, cc), xMax, t("inequality", cc));
+      },
+    ])();
+  },
+  volume7: (cc) => {
+    return pick([
+      () => { const a = randInt(2, 7), b = randInt(2, 7), c = randInt(2, 7); return q(qVolumeBox(a, b, c, cc), a * b * c, t("volume", cc)); },
+      () => { const a = randInt(2, 6); return q(qVolumeCube(a, cc), a * a * a, t("volume", cc)); },
+    ])();
+  },
 };
 
 // ─── GRADE 8 GENERATORS ─────────────────────────────
@@ -715,6 +886,30 @@ const G8: Record<string, Generator> = {
     const p = pick([10, 15, 20, 25]); const orig = randInt(4, 12) * 100;
     return q(wpPriceIncrease(getItems(cc).laptop, orig, p, cur, cc), orig + orig * p / 100, t("wordProblem", cc), 0, true);
   },
+  systemEq: (cc) => {
+    // x + y = s1, x - y = s2  →  x = (s1+s2)/2
+    const x = randInt(3, 10), y = randInt(2, x - 1);
+    const s1 = x + y, s2 = x - y;
+    return q(qSystemEq(1, 1, s1, 1, -1, s2, cc), x, t("systemEq", cc));
+  },
+  inequality8: (cc) => {
+    return pick([
+      () => {
+        const a = randInt(2, 5), b = randInt(1, 10), xMin = randInt(2, 8);
+        const c = a * xMin + b - 1;
+        return q(qInequalityGt(a, b, c, cc), xMin, t("inequality", cc));
+      },
+      () => {
+        const a = randInt(2, 5), b = randInt(1, 8), xMax = randInt(2, 9);
+        const c = a * xMax - b + 1;
+        return q(qInequalityLt(a, b, c, cc), xMax, t("inequality", cc));
+      },
+    ])();
+  },
+  volumeCylinder: (cc) => {
+    const r = randInt(2, 5), h = randInt(2, 8);
+    return q(qVolumeCylinder(r, h, cc), 3 * r * r * h, t("volume", cc));
+  },
 };
 
 // ─── CURRICULUM MAP ─────────────────────────────
@@ -728,60 +923,60 @@ interface PeriodTopics {
 
 const CURRICULUM: Record<number, Record<number, PeriodTopics>> = {
   1: {
-    1: { current: [G1.add10, G1.add10b, G1.compare, G1.missing10], review: [] },
-    2: { current: [G1.add10, G1.add10b, G1.sub10, G1.sub10b, G1.missing10sub], review: [G1.compare] },
-    3: { current: [G1.add20, G1.add20b, G1.sub20, G1.sub20b], review: [G1.add10, G1.sub10, G1.missing10] },
-    4: { current: [G1.add20, G1.sub20, G1.word1, G1.word2, G1.word3], review: [G1.add10, G1.sub10, G1.compare] },
-    5: { current: [G1.add20, G1.add20b, G1.sub20, G1.sub20b, G1.word1, G1.word2, G1.word3, G1.word4, G1.word5, G1.compare, G1.missing10, G1.missing10sub], review: [G1.add10, G1.sub10] },
+    1: { current: [G1.add10, G1.add10b, G1.compare, G1.missing10, G1.evenOdd], review: [] },
+    2: { current: [G1.add10, G1.add10b, G1.sub10, G1.sub10b, G1.missing10sub, G1.evenOdd], review: [G1.compare] },
+    3: { current: [G1.add20, G1.add20b, G1.sub20, G1.sub20b, G1.clock1], review: [G1.add10, G1.sub10, G1.missing10] },
+    4: { current: [G1.add20, G1.sub20, G1.word1, G1.word2, G1.word3, G1.clock1], review: [G1.add10, G1.sub10, G1.compare] },
+    5: { current: [G1.add20, G1.add20b, G1.sub20, G1.sub20b, G1.word1, G1.word2, G1.word3, G1.word4, G1.word5, G1.compare, G1.missing10, G1.missing10sub, G1.clock1, G1.evenOdd], review: [G1.add10, G1.sub10] },
   },
   2: {
-    1: { current: [G2.add100tens, G2.sub100tens, G2.add100, G2.missing100], review: [G1.add20, G1.sub20] },
-    2: { current: [G2.add100tens, G2.sub100tens, G2.add100, G2.add100b, G2.sequence], review: [G1.add20, G1.sub20] },
-    3: { current: [G2.add100, G2.add100b, G2.sub100, G2.sub100b, G2.units], review: [G2.add100tens, G2.sub100tens] },
-    4: { current: [G2.mul2510, G2.mul2510b, G2.add100, G2.sub100, G2.ampmClock], review: [G2.add100tens, G2.sequence] },
-    5: { current: [G2.mul2510, G2.mul2510b, G2.div2510, G2.word1, G2.word2, G2.word3, G2.word4, G2.units, G2.ampmClock, G2.sequence], review: [G2.add100, G2.sub100] },
+    1: { current: [G2.add100tens, G2.sub100tens, G2.add100, G2.missing100, G2.evenOdd], review: [G1.add20, G1.sub20] },
+    2: { current: [G2.add100tens, G2.sub100tens, G2.add100, G2.add100b, G2.sequence, G2.evenOdd], review: [G1.add20, G1.sub20] },
+    3: { current: [G2.add100, G2.add100b, G2.sub100, G2.sub100b, G2.units, G2.rounding10], review: [G2.add100tens, G2.sub100tens] },
+    4: { current: [G2.mul2510, G2.mul2510b, G2.add100, G2.sub100, G2.clock2, G2.rounding10], review: [G2.add100tens, G2.sequence] },
+    5: { current: [G2.mul2510, G2.mul2510b, G2.div2510, G2.word1, G2.word2, G2.word3, G2.word4, G2.units, G2.clock2, G2.sequence, G2.rounding10], review: [G2.add100, G2.sub100] },
   },
   3: {
-    1: { current: [G3.add1000, G3.add1000b, G3.sub1000], review: [G2.add100, G2.sub100, G2.mul2510] },
-    2: { current: [G3.add1000, G3.sub1000, G3.writtenAdd, G3.sequence], review: [G2.mul2510, G2.div2510] },
-    3: { current: [G3.mul, G3.mulB, G3.div, G3.divB, G3.missingMul], review: [G3.add1000, G3.sub1000] },
-    4: { current: [G3.writtenAdd, G3.writtenSub, G3.mul, G3.div, G3.missingMul, G3.ampmClock], review: [G3.divB, G3.sequence] },
-    5: { current: [G3.word1, G3.word2, G3.word3, G3.units, G3.ampmClock, G3.mul, G3.mulB, G3.div, G3.divB], review: [G3.writtenAdd, G3.writtenSub, G3.sequence] },
+    1: { current: [G3.add1000, G3.add1000b, G3.sub1000, G3.rounding100], review: [G2.add100, G2.sub100, G2.mul2510] },
+    2: { current: [G3.add1000, G3.sub1000, G3.writtenAdd, G3.sequence, G3.rounding100], review: [G2.mul2510, G2.div2510] },
+    3: { current: [G3.mul, G3.mulB, G3.div, G3.divB, G3.missingMul, G3.clock3], review: [G3.add1000, G3.sub1000] },
+    4: { current: [G3.writtenAdd, G3.writtenSub, G3.mul, G3.div, G3.missingMul, G3.clock3], review: [G3.divB, G3.sequence] },
+    5: { current: [G3.word1, G3.word2, G3.word3, G3.units, G3.clock3, G3.mul, G3.mulB, G3.div, G3.divB, G3.rounding100], review: [G3.writtenAdd, G3.writtenSub, G3.sequence] },
   },
   4: {
-    1: { current: [G4.placeValue, G4.writtenMul, G4.writtenMulB, G4.sequence], review: [G3.mul, G3.div, G3.writtenAdd] },
-    2: { current: [G4.writtenMul, G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit], review: [G4.placeValue, G4.placeValueBig] },
-    3: { current: [G4.fractions, G4.writtenMul, G4.writtenDiv, G4.divTwoDigit], review: [G4.placeValue, G4.sequence] },
-    4: { current: [G4.decimals, G4.fractions, G4.units], review: [G4.writtenMul, G4.writtenDiv] },
-    5: { current: [G4.units, G4.volumeWord, G4.word1, G4.word2, G4.fractions, G4.decimals, G4.sequence], review: [G4.writtenMul, G4.writtenDiv, G4.divTwoDigit] },
+    1: { current: [G4.placeValue, G4.writtenMul, G4.writtenMulB, G4.sequence, G4.geometry], review: [G3.mul, G3.div, G3.writtenAdd] },
+    2: { current: [G4.writtenMul, G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit, G4.geometry], review: [G4.placeValue, G4.placeValueBig] },
+    3: { current: [G4.fractions, G4.fractionAdd, G4.writtenMul, G4.writtenDiv, G4.divTwoDigit, G4.geometryB], review: [G4.placeValue, G4.sequence] },
+    4: { current: [G4.decimals, G4.fractions, G4.fractionAdd, G4.fractionSub, G4.units, G4.geometryB], review: [G4.writtenMul, G4.writtenDiv] },
+    5: { current: [G4.units, G4.volumeWord, G4.word1, G4.word2, G4.fractions, G4.fractionAdd, G4.fractionSub, G4.decimals, G4.sequence, G4.geometry], review: [G4.writtenMul, G4.writtenDiv, G4.divTwoDigit] },
   },
   5: {
-    1: { current: [G5.largeNumbers, G5.roundHundreds, G5.orderOfOps, G5.orderOfOpsB], review: [G4.writtenMul, G4.writtenDiv, G4.fractions] },
-    2: { current: [G5.orderOfOps, G5.orderOfOpsC, G5.orderOfOpsD, G5.fractionAdd], review: [G5.largeNumbers] },
-    3: { current: [G5.fractionAdd, G5.fractionSub, G5.percent10], review: [G5.orderOfOps, G5.largeNumbers] },
-    4: { current: [G5.percent10, G5.percent50, G5.percent25, G5.fractionAdd], review: [G5.orderOfOps, G5.orderOfOpsB] },
-    5: { current: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter, G5.percent10, G5.percent50, G5.wordDiscount, G5.wordOps], review: [G5.fractionAdd, G5.fractionSub] },
+    1: { current: [G5.largeNumbers, G5.roundHundreds, G5.orderOfOps, G5.orderOfOpsB, G5.prime], review: [G4.writtenMul, G4.writtenDiv, G4.fractions] },
+    2: { current: [G5.orderOfOps, G5.orderOfOpsC, G5.orderOfOpsD, G5.fractionAdd, G5.prime, G5.lcm], review: [G5.largeNumbers] },
+    3: { current: [G5.fractionAdd, G5.fractionSub, G5.fractionDiff, G5.percent10, G5.gcd], review: [G5.orderOfOps, G5.largeNumbers] },
+    4: { current: [G5.percent10, G5.percent50, G5.percent25, G5.fractionAdd, G5.fractionDiff, G5.mean, G5.lcm], review: [G5.orderOfOps, G5.orderOfOpsB] },
+    5: { current: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter, G5.percent10, G5.percent50, G5.wordDiscount, G5.wordOps, G5.mean, G5.fractionDiff], review: [G5.fractionAdd, G5.fractionSub] },
   },
   6: {
-    1: { current: [G6.negative, G6.negativeB, G6.fractionMul], review: [G5.percent10, G5.orderOfOps] },
-    2: { current: [G6.fractionMul, G6.fractionDiv, G6.negativeC], review: [G6.negative] },
-    3: { current: [G6.ratio, G6.speed, G6.percentCalc], review: [G6.negative, G6.fractionMul] },
-    4: { current: [G6.percentCalc, G6.percentDiscount, G6.areaTriangle, G6.areaSquare], review: [G6.ratio, G6.speed] },
-    5: { current: [G6.areaTriangle, G6.areaSquare, G6.percentCalc, G6.wordShoe, G6.wordTrain], review: [G6.negative, G6.fractionMul, G6.ratio] },
+    1: { current: [G6.negative, G6.negativeB, G6.fractionMul, G6.fractionDiff], review: [G5.percent10, G5.orderOfOps] },
+    2: { current: [G6.fractionMul, G6.fractionDiv, G6.negativeC, G6.negMul, G6.fractionDiff], review: [G6.negative] },
+    3: { current: [G6.ratio, G6.speed, G6.percentCalc, G6.circle, G6.mean], review: [G6.negative, G6.fractionMul] },
+    4: { current: [G6.percentCalc, G6.percentDiscount, G6.areaTriangle, G6.areaSquare, G6.circle, G6.median, G6.volume], review: [G6.ratio, G6.speed] },
+    5: { current: [G6.areaTriangle, G6.areaSquare, G6.circle, G6.percentCalc, G6.wordShoe, G6.wordTrain, G6.mean, G6.volume], review: [G6.negative, G6.fractionMul, G6.ratio] },
   },
   7: {
-    1: { current: [G7.power2, G7.power3, G7.algebraSub], review: [G6.percentCalc, G6.negative] },
-    2: { current: [G7.algebraSub, G7.algebraSimp, G7.algebraMul, G7.equation], review: [G7.power2] },
-    3: { current: [G7.equation, G7.equationB, G7.triangleAngle, G7.equilateral], review: [G7.power2, G7.algebraSub] },
-    4: { current: [G7.triangleAngle, G7.isosceles, G7.pythag34, G7.pythag68], review: [G7.equation, G7.equationB] },
-    5: { current: [G7.pythag34, G7.pythag68, G7.pythagLeg13, G7.pythagLeg10, G7.wordThink, G7.wordSquare, G7.equation, G7.equationB], review: [G7.power2, G7.power3, G7.algebraSub, G7.triangleAngle] },
+    1: { current: [G7.power2, G7.power3, G7.power10, G7.algebraSub, G7.inequality], review: [G6.percentCalc, G6.negative] },
+    2: { current: [G7.algebraSub, G7.algebraSimp, G7.algebraMul, G7.equation, G7.inequality], review: [G7.power2] },
+    3: { current: [G7.equation, G7.equationB, G7.triangleAngle, G7.equilateral, G7.inequality, G7.volume7], review: [G7.power2, G7.algebraSub] },
+    4: { current: [G7.triangleAngle, G7.isosceles, G7.pythag34, G7.pythag68, G7.volume7], review: [G7.equation, G7.equationB] },
+    5: { current: [G7.pythag34, G7.pythag68, G7.pythagLeg13, G7.pythagLeg10, G7.wordThink, G7.wordSquare, G7.equation, G7.equationB, G7.volume7], review: [G7.power2, G7.power3, G7.algebraSub, G7.triangleAngle] },
   },
   8: {
-    1: { current: [G8.sqrt, G8.sqrtExpr, G8.eqTwoSide], review: [G7.power2, G7.equation] },
-    2: { current: [G8.eqTwoSide, G8.eqSimple, G8.funcValue], review: [G8.sqrt] },
-    3: { current: [G8.funcValue, G8.funcIntercept, G8.probBall, G8.probCoin], review: [G8.sqrt, G8.eqTwoSide] },
-    4: { current: [G8.probBall, G8.probDice, G8.probCoin, G8.complexPow], review: [G8.funcValue] },
-    5: { current: [G8.complexPow, G8.complexExpr, G8.wordTravel, G8.wordPrice, G8.probBall, G8.probCoin], review: [G8.sqrt, G8.eqTwoSide, G8.funcValue] },
+    1: { current: [G8.sqrt, G8.sqrtExpr, G8.eqTwoSide, G8.inequality8], review: [G7.power2, G7.equation] },
+    2: { current: [G8.eqTwoSide, G8.eqSimple, G8.funcValue, G8.systemEq, G8.inequality8], review: [G8.sqrt] },
+    3: { current: [G8.funcValue, G8.funcIntercept, G8.probBall, G8.probCoin, G8.systemEq], review: [G8.sqrt, G8.eqTwoSide] },
+    4: { current: [G8.probBall, G8.probDice, G8.probCoin, G8.complexPow, G8.volumeCylinder], review: [G8.funcValue] },
+    5: { current: [G8.complexPow, G8.complexExpr, G8.wordTravel, G8.wordPrice, G8.probBall, G8.probCoin, G8.systemEq, G8.volumeCylinder], review: [G8.sqrt, G8.eqTwoSide, G8.funcValue] },
   },
 };
 

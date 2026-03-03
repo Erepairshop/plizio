@@ -97,6 +97,19 @@ const topicNames: Record<Lang, Record<string, string>> = {
     neighborNumber: "szomszédos szám",
     imperialUnits: "mértékegységek",
     ampmTime: "időolvasás",
+    circle: "kör",
+    mean: "átlag",
+    primes: "prímszámok",
+    lcmGcd: "LKKT / LNKO",
+    inequality: "egyenlőtlenség",
+    clockReading: "óraolvasás",
+    evenOdd: "páros / páratlan",
+    statistics: "statisztika",
+    volume: "térfogat",
+    rounding10: "kerekítés 10-esre",
+    rounding100: "kerekítés 100-asra",
+    fractionDiffDenom: "tört különböző nevezővel",
+    systemEq: "egyenletrendszer",
   },
   DE: {
     addition: "Addition",
@@ -163,6 +176,19 @@ const topicNames: Record<Lang, Record<string, string>> = {
     neighborNumber: "Nachbarzahlen",
     imperialUnits: "Maßeinheiten",
     ampmTime: "Uhrzeitlsen",
+    circle: "Kreis",
+    mean: "Mittelwert",
+    primes: "Primzahlen",
+    lcmGcd: "kgV / ggT",
+    inequality: "Ungleichungen",
+    clockReading: "Uhrzeit",
+    evenOdd: "gerade / ungerade",
+    statistics: "Statistik",
+    volume: "Volumen",
+    rounding10: "Runden auf Zehner",
+    rounding100: "Runden auf Hunderter",
+    fractionDiffDenom: "Brüche mit versch. Nenner",
+    systemEq: "Gleichungssystem",
   },
   EN: {
     addition: "addition",
@@ -229,6 +255,19 @@ const topicNames: Record<Lang, Record<string, string>> = {
     neighborNumber: "neighbor number",
     imperialUnits: "imperial units",
     ampmTime: "AM/PM time",
+    circle: "circle",
+    mean: "mean",
+    primes: "prime numbers",
+    lcmGcd: "LCM / GCD",
+    inequality: "inequalities",
+    clockReading: "clock reading",
+    evenOdd: "even / odd",
+    statistics: "statistics",
+    volume: "volume",
+    rounding10: "rounding to 10",
+    rounding100: "rounding to 100",
+    fractionDiffDenom: "fractions (unlike denominators)",
+    systemEq: "systems of equations",
   },
   RO: {
     addition: "adunare",
@@ -295,6 +334,19 @@ const topicNames: Record<Lang, Record<string, string>> = {
     neighborNumber: "numere vecine",
     imperialUnits: "unități de măsură",
     ampmTime: "citirea orei",
+    circle: "cerc",
+    mean: "medie aritmetică",
+    primes: "numere prime",
+    lcmGcd: "c.m.m.m.c / c.m.m.d.c",
+    inequality: "inecuații",
+    clockReading: "citirea orei",
+    evenOdd: "par / impar",
+    statistics: "statistică",
+    volume: "volum",
+    rounding10: "rotunjire la 10",
+    rounding100: "rotunjire la 100",
+    fractionDiffDenom: "fracții cu numitori diferiți",
+    systemEq: "sistem de ecuații",
   },
 };
 
@@ -1423,4 +1475,257 @@ const multCompContexts: Record<Lang, Array<{ small: string; big: string; sf: num
 
 export function getMultCompContexts(countryCode: string) {
   return multCompContexts[getLang(countryCode)];
+}
+
+// ─── NEW TOPIC TEMPLATE FUNCTIONS ──────────────────────────────────────────
+
+// Even / Odd
+export function qNextEven(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Die nächste gerade Zahl nach ${n} ist?`;
+    case "EN": return `What is the next even number after ${n}?`;
+    case "RO": return `Care este următorul număr par după ${n}?`;
+    default:   return `Mi a következő páros szám ${n} után?`;
+  }
+}
+export function qNextOdd(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Die nächste ungerade Zahl nach ${n} ist?`;
+    case "EN": return `What is the next odd number after ${n}?`;
+    case "RO": return `Care este următorul număr impar după ${n}?`;
+    default:   return `Mi a következő páratlan szám ${n} után?`;
+  }
+}
+export function qIsEvenOrOdd(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${n} geteilt durch 2 ergibt Rest?`;
+    case "EN": return `${n} ÷ 2 has remainder?`;
+    case "RO": return `${n} împărțit la 2 are restul?`;
+    default:   return `${n} osztva 2-vel a maradék?`;
+  }
+}
+
+// Clock reading (EU analog, non-US)
+export function qClockFullHour(h: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Die große Zeigerin zeigt auf 12, die kleine auf ${h}. Wie viel Uhr ist es?`;
+    case "EN": return `The minute hand points to 12, the hour hand to ${h}. What time is it?`;
+    case "RO": return `Minutarul arată spre 12, orarul spre ${h}. Ce oră este?`;
+    default:   return `A perc mutató a 12-re, az óra mutató a ${h}-ra mutat. Hány óra van?`;
+  }
+}
+export function qClockMinutes(h: number, m: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Es ist ${h} Uhr ${m} Minuten. Wie viele Minuten nach ${h}?`;
+    case "EN": return `The time is ${h}:${m.toString().padStart(2,"0")}. How many minutes past ${h}?`;
+    case "RO": return `Este ora ${h} și ${m} minute. Câte minute au trecut de la ora ${h}?`;
+    default:   return `Az idő ${h} óra ${m} perc. Hány perccel múlt el ${h} óra?`;
+  }
+}
+export function qClockHalfPast(h: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Es ist halb ${h + 1}. Wie viele Minuten nach ${h} Uhr ist das?`;
+    case "EN": return `It is half past ${h}. How many minutes past ${h}?`;
+    case "RO": return `Este jumătate după ora ${h}. Câte minute au trecut?`;
+    default:   return `Fél ${h + 1} van. Hány perccel múlt el ${h} óra?`;
+  }
+}
+export function qClockQuarterPast(h: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Es ist Viertel nach ${h}. Wie viele Minuten nach ${h} Uhr?`;
+    case "EN": return `It is quarter past ${h}. How many minutes past ${h}?`;
+    case "RO": return `Este un sfert după ora ${h}. Câte minute?`;
+    default:   return `Negyed ${h + 1} van. Hány perccel múlt el ${h} óra?`;
+  }
+}
+
+// Rounding
+export function qRoundTo10(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Runde ${n} auf den nächsten Zehner.`;
+    case "EN": return `Round ${n} to the nearest 10.`;
+    case "RO": return `Rotunjește ${n} la zeci.`;
+    default:   return `Kerekítsd ${n}-t a legközelebbi 10-esre!`;
+  }
+}
+export function qRoundTo100(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Runde ${n} auf den nächsten Hunderter.`;
+    case "EN": return `Round ${n} to the nearest 100.`;
+    case "RO": return `Rotunjește ${n} la sute.`;
+    default:   return `Kerekítsd ${n}-t a legközelebbi 100-asra!`;
+  }
+}
+
+// Circle
+export function qCircleCircumference(r: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Umfang eines Kreises mit Radius ${r} cm (π ≈ 3)?`;
+    case "EN": return `Circumference of a circle with radius ${r} cm (π ≈ 3)?`;
+    case "RO": return `Circumferința unui cerc cu raza ${r} cm (π ≈ 3)?`;
+    default:   return `Mekkora egy ${r} cm sugarú kör kerülete? (π ≈ 3)`;
+  }
+}
+export function qCircleArea(r: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Flächeninhalt eines Kreises mit Radius ${r} cm (π ≈ 3)?`;
+    case "EN": return `Area of a circle with radius ${r} cm (π ≈ 3)?`;
+    case "RO": return `Aria unui cerc cu raza ${r} cm (π ≈ 3)?`;
+    default:   return `Mekkora egy ${r} cm sugarú kör területe? (π ≈ 3)`;
+  }
+}
+
+// Mean
+export function qMeanOf(nums: number[], countryCode: string): string {
+  const lang = getLang(countryCode);
+  const list = nums.join(", ");
+  switch (lang) {
+    case "DE": return `Mittelwert von: ${list}`;
+    case "EN": return `Mean of: ${list}`;
+    case "RO": return `Media aritmetică a: ${list}`;
+    default:   return `Átlaga: ${list}`;
+  }
+}
+
+// Statistics: median
+export function qMedianOf(sorted: number[], countryCode: string): string {
+  const lang = getLang(countryCode);
+  const list = [...sorted].sort((a, b) => a - b).join(", ");
+  switch (lang) {
+    case "DE": return `Median der Zahlen: ${list}`;
+    case "EN": return `Median of: ${list}`;
+    case "RO": return `Mediana: ${list}`;
+    default:   return `Medián: ${list}`;
+  }
+}
+
+// Prime numbers
+export function qSmallestPrimeFactor(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Der kleinste Primfaktor von ${n} ist?`;
+    case "EN": return `The smallest prime factor of ${n} is?`;
+    case "RO": return `Cel mai mic factor prim al lui ${n} este?`;
+    default:   return `${n} legkisebb prímtényezője?`;
+  }
+}
+export function qCountPrimesBetween(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Wie viele Primzahlen gibt es zwischen ${a} und ${b}?`;
+    case "EN": return `How many prime numbers are between ${a} and ${b}?`;
+    case "RO": return `Câte numere prime sunt între ${a} și ${b}?`;
+    default:   return `Hány prímszám van ${a} és ${b} között?`;
+  }
+}
+
+// LCM / GCD
+export function qLcmOf(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `kgV(${a}, ${b}) = ?`;
+    case "EN": return `LCM(${a}, ${b}) = ?`;
+    case "RO": return `c.m.m.m.c(${a}, ${b}) = ?`;
+    default:   return `LKKT(${a}, ${b}) = ?`;
+  }
+}
+export function qGcdOf(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `ggT(${a}, ${b}) = ?`;
+    case "EN": return `GCD(${a}, ${b}) = ?`;
+    case "RO": return `c.m.m.d.c(${a}, ${b}) = ?`;
+    default:   return `LNKO(${a}, ${b}) = ?`;
+  }
+}
+
+// Fractions with different denominators (answer = numerator, shown as ?/lcm)
+export function qFractionAddDiff(a: number, da: number, b: number, db: number, lcm: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${a}/${da} + ${b}/${db} = ?/${lcm}`;
+    case "EN": return `${a}/${da} + ${b}/${db} = ?/${lcm}`;
+    case "RO": return `${a}/${da} + ${b}/${db} = ?/${lcm}`;
+    default:   return `${a}/${da} + ${b}/${db} = ?/${lcm}`;
+  }
+}
+export function qFractionSubDiff(a: number, da: number, b: number, db: number, lcm: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${a}/${da} - ${b}/${db} = ?/${lcm}`;
+    case "EN": return `${a}/${da} - ${b}/${db} = ?/${lcm}`;
+    case "RO": return `${a}/${da} - ${b}/${db} = ?/${lcm}`;
+    default:   return `${a}/${da} - ${b}/${db} = ?/${lcm}`;
+  }
+}
+
+// Inequalities
+export function qInequalityGt(a: number, b: number, c: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${a}x + ${b} > ${c}. Kleinste ganze Zahl für x?`;
+    case "EN": return `${a}x + ${b} > ${c}. Smallest integer for x?`;
+    case "RO": return `${a}x + ${b} > ${c}. Cel mai mic număr întreg pentru x?`;
+    default:   return `${a}x + ${b} > ${c}. Legkisebb egész x értéke?`;
+  }
+}
+export function qInequalityLt(a: number, b: number, c: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${a}x - ${b} < ${c}. Größte ganze Zahl für x?`;
+    case "EN": return `${a}x - ${b} < ${c}. Largest integer for x?`;
+    case "RO": return `${a}x - ${b} < ${c}. Cel mai mare număr întreg pentru x?`;
+    default:   return `${a}x - ${b} < ${c}. Legnagyobb egész x értéke?`;
+  }
+}
+
+// Volume
+export function qVolumeBox(a: number, b: number, c: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Volumen eines Quaders: ${a} × ${b} × ${c} = ?`;
+    case "EN": return `Volume of a box: ${a} × ${b} × ${c} = ?`;
+    case "RO": return `Volumul unui paralelipiped: ${a} × ${b} × ${c} = ?`;
+    default:   return `Hasáb térfogata: ${a} × ${b} × ${c} = ?`;
+  }
+}
+export function qVolumeCube(a: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Volumen eines Würfels mit Kantenlänge ${a} cm?`;
+    case "EN": return `Volume of a cube with side ${a} cm?`;
+    case "RO": return `Volumul unui cub cu latura ${a} cm?`;
+    default:   return `Mekkora egy ${a} cm oldalú kocka térfogata?`;
+  }
+}
+export function qVolumeCylinder(r: number, h: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Volumen eines Zylinders: r=${r}, h=${h} (π ≈ 3)?`;
+    case "EN": return `Volume of a cylinder: r=${r}, h=${h} (π ≈ 3)?`;
+    case "RO": return `Volumul unui cilindru: r=${r}, h=${h} (π ≈ 3)?`;
+    default:   return `Henger térfogata: r=${r}, h=${h} (π ≈ 3)?`;
+  }
+}
+
+// Systems of equations
+export function qSystemEq(a1: number, b1: number, s1: number, a2: number, b2: number, s2: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `x+y=${s1} és x-y=${s2}. x=?`;
+    case "EN": return `x+y=${s1} and x-y=${s2}. x=?`;
+    case "RO": return `x+y=${s1} și x-y=${s2}. x=?`;
+    default:   return `x+y=${s1} és x-y=${s2}. x=?`;
+  }
 }
