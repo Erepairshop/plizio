@@ -27,11 +27,6 @@ import {
   updateMathStats,
   getPeriod,
   getPeriodLabel,
-  getENThemes,
-  getDEThemes,
-  getHUThemes,
-  getROThemes,
-  generateTopicQuestions,
   type MathQuestion,
   type GradeResult,
   type KlassenarbeitResult,
@@ -663,45 +658,13 @@ export default function MathTestPage() {
     return () => { cancelled = true; };
   }, [country, selectedGrade]);
 
-  // Resolved themes:
-  // - EN/DE: generator-based (EN_THEMES / DE_THEMES)
-  // - RO: generator-based (Supabase RO has German content — overridden with proper Romanian)
-  // - HU: Supabase (has correct Hungarian topics) → falls through to supabaseCurriculum below
+  // Resolved themes: all countries use Supabase get_curriculum RPC
   const resolvedThemes = useMemo((): ThemeSelectorTheme[] => {
-    const cc = country?.code;
-    const langPrefix =
-      cc === 'US' || cc === 'GB' ? 'en' :
-      cc === 'DE' || cc === 'AT' || cc === 'CH' ? 'de' :
-      cc === 'RO' ? 'ro' : null;   // HU uses Supabase (correct topics already there)
-
-    if (langPrefix && selectedGrade) {
-      const srcThemes =
-        langPrefix === 'en' ? getENThemes(selectedGrade) :
-        langPrefix === 'de' ? getDEThemes(selectedGrade) :
-        getROThemes(selectedGrade);
-      return srcThemes.map(theme => ({
-        id: theme.key,
-        name: theme.name,
-        color: theme.color,
-        icon: theme.icon,
-        description: theme.name,
-        subtopics: theme.topics.map(topic => ({
-          id: `${langPrefix}_topic_${selectedGrade}_${topic.key}`,
-          name: topic.name,
-          color: topic.color,
-          icon: topic.icon,
-          taskFile: '',
-          taskIds: [],
-        })),
-      }));
-    }
     if (supabaseCurriculum && supabaseCurriculum.themes.length > 0) {
       return mapCurriculumToThemes(supabaseCurriculum);
     }
-    const fallback = selectedGrade ? CURRICULA[selectedGrade] : null;
-    if (fallback) return fallback.themes as unknown as ThemeSelectorTheme[];
     return [];
-  }, [supabaseCurriculum, selectedGrade, country]);
+  }, [supabaseCurriculum]);
 
   const handleGradeSelect = (grade: number) => {
     setSelectedGrade(grade);
@@ -753,39 +716,6 @@ export default function MathTestPage() {
     localStorage.setItem("klassenarbeitStartTime", now.toString());
 
     try {
-      // ─── EN / DE / RO: generator-based topic selection ──────────
-      // HU uses Supabase curriculum topics (not generator-based)
-      const generatorTopicIds = selectedSubtopics.filter(id =>
-        id.startsWith('en_topic_') || id.startsWith('de_topic_') ||
-        id.startsWith('ro_topic_')
-      );
-      if (generatorTopicIds.length > 0) {
-        const cc = country!.code;
-        const grade = selectedGrade!;
-        const TARGET = 15;
-        const perTopic = Math.ceil(TARGET / generatorTopicIds.length);
-        const seen = new Set<string>();
-        const qs: MathQuestion[] = [];
-        for (const tid of generatorTopicIds) {
-          // Format: {en|de}_topic_{grade}_{topicKey}
-          const topicKey = tid.split('_').slice(3).join('_');
-          const pool = generateTopicQuestions(grade, topicKey, cc, perTopic);
-          for (const q of pool) {
-            if (!seen.has(q.question) && qs.length < TARGET) {
-              seen.add(q.question);
-              qs.push(q);
-            }
-          }
-        }
-        setQuestions(qs);
-        setAnswers(new Array(qs.length).fill(null));
-        setRealisticKlassenarbeit(null);
-        setAvatarMood("idle");
-        setGameState("playing");
-        setGeneratingTest(false);
-        return;
-      }
-
       // ─── Collect task IDs from selected subtopics ─────────────
       // Works with both JSON themes (slug-based) and Supabase themes (UUID-based)
       const allTaskIds: string[] = [];
