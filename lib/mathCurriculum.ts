@@ -470,8 +470,18 @@ const G4: Record<string, Generator> = {
     const a = randInt(3, d - 1), b = randInt(1, a - 1);
     return q(qFractionSubNumerator(a, b, d, cc), a - b, t("fractionSub", cc));
   },
-  geometry: (cc) => { const a = randInt(3, 10), b = randInt(3, 10); return q(qRectPerimeter(a, b, cc), 2 * (a + b), t("geometry", cc)); },
-  geometryB: (cc) => { const a = randInt(3, 10), b = randInt(3, 10); return q(qRectArea(a, b, cc), a * b, t("geometry", cc)); },
+  geometry: (cc) => pick([
+    () => { const a = randInt(3, 10), b = randInt(3, 10); return q(qRectPerimeter(a, b, cc), 2*(a+b), t("geometry", cc)); },
+    () => { const a = randInt(3, 10), b = randInt(3, 10); return q(qRectArea(a, b, cc), a*b, t("geometry", cc)); },
+    () => { const a = randInt(3, 12); return q(qSquarePerimeter(a, cc), 4*a, t("geometry", cc)); },
+    () => { const a = randInt(3, 12); return q(qSquareArea(a, cc), a*a, t("geometry", cc)); },
+  ])(),
+  geometryB: (cc) => pick([
+    () => { const a = randInt(4, 14), b = randInt(3, 10); return q(qRectArea(a, b, cc), a*b, t("geometry", cc)); },
+    () => { const a = randInt(4, 14), b = randInt(3, 10); return q(qRectPerimeter(a, b, cc), 2*(a+b), t("geometry", cc)); },
+    () => { const a = randInt(4, 14); return q(qSquareArea(a, cc), a*a, t("geometry", cc)); },
+    () => { const a = randInt(4, 14); return q(qSquarePerimeter(a, cc), 4*a, t("geometry", cc)); },
+  ])(),
 };
 
 // ─── GRADE 5 GENERATORS ─────────────────────────────
