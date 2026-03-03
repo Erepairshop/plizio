@@ -671,8 +671,8 @@ export default function MathTestPage() {
     const cc = country?.code;
     const langPrefix =
       cc === 'US' || cc === 'GB' ? 'en' :
-      cc === 'DE' || cc === 'AT' || cc === 'CH' ? 'de' :
-      cc === 'RO' ? 'ro' : null;   // HU: Supabase curriculum (helyes magyar témák)
+      cc === 'DE' || cc === 'AT' || cc === 'CH' ? 'de' : null;
+      // US, GB, RO, HU → Supabase (helyes anyanyelvi témák, azonos slug-ok)
 
     if (langPrefix && selectedGrade) {
       const srcThemes =
@@ -827,13 +827,15 @@ export default function MathTestPage() {
         return;
       }
 
-      // ─── HU: Supabase topics → slug mapping → HU generator ─────
-      if (country?.code === 'HU') {
+      // ─── Supabase countries (HU, US, GB, RO): slug mapping → generator ──
+      // Minden nem-DE ország Supabase-t használ, azonos HU slug-okkal
+      const isSupabaseCountry = !['DE','AT','CH'].includes(country?.code ?? '');
+      if (isSupabaseCountry) {
+        const cc = country!.code;
         const grade = selectedGrade!;
         const TARGET = 15;
         const seen = new Set<string>();
         const qs: MathQuestion[] = [];
-        // collect matched topic keys from selected subtopic slugs
         const topicKeys: string[] = [];
         for (const theme of resolvedThemes) {
           for (const sub of theme.subtopics) {
@@ -845,7 +847,7 @@ export default function MathTestPage() {
         if (topicKeys.length > 0) {
           const perTopic = Math.ceil(TARGET / topicKeys.length);
           for (const key of topicKeys) {
-            const pool = generateTopicQuestions(grade, key, 'HU', perTopic);
+            const pool = generateTopicQuestions(grade, key, cc, perTopic);
             for (const q of pool) {
               if (!seen.has(q.question) && qs.length < TARGET) {
                 seen.add(q.question);
@@ -863,12 +865,12 @@ export default function MathTestPage() {
           setGeneratingTest(false);
           return;
         }
-        // ha nem sikerült a mapping, fallback: összes HU téma vegyesen
-        const allHU = getHUThemes(grade).flatMap(t => t.topics);
+        // fallback: getHUThemes (HU generátorok minden non-DE country számára)
+        const allTopics = getHUThemes(grade).flatMap(t => t.topics);
         for (let i = 0; i < TARGET * 5 && qs.length < TARGET; i++) {
-          const topic = allHU[Math.floor(Math.random() * allHU.length)];
+          const topic = allTopics[Math.floor(Math.random() * allTopics.length)];
           const gen = topic.generators[Math.floor(Math.random() * topic.generators.length)];
-          const q = gen('HU');
+          const q = gen(cc);
           if (!seen.has(q.question)) { seen.add(q.question); qs.push(q); }
         }
         if (qs.length > 0) {
