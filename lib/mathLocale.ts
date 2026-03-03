@@ -299,9 +299,109 @@ const RO: CountryConfig = {
   },
 };
 
+// ─── AUSTRIA 🇦🇹 ─────────────────────────────
+
+const AT: CountryConfig = {
+  code: "AT",
+  name: "Österreich",
+  flag: "🇦🇹",
+  grades: [1, 2, 3, 4, 5, 6, 7, 8],
+  gradeLabel: (g) => `${g}. Klasse`,
+  calculateMark: (pct) => {
+    // Austrian system: 1 = best, 5 = worst
+    if (pct >= 90) return { display: "1", label: "Sehr gut", color: "#FFD700", emoji: "🌟" };
+    if (pct >= 75) return { display: "2", label: "Gut", color: "#00FF88", emoji: "😊" };
+    if (pct >= 60) return { display: "3", label: "Befriedigend", color: "#00D4FF", emoji: "🤔" };
+    if (pct >= 40) return { display: "4", label: "Genügend", color: "#FF6B00", emoji: "😅" };
+    return { display: "5", label: "Nicht genügend", color: "#FF2D78", emoji: "😢" };
+  },
+  ui: {
+    title: "MATHE-TEST",
+    gradeQuestion: "In welcher Klasse bist du?",
+    submit: "ABGEBEN!",
+    retry: "Nochmal",
+    card: "Karte",
+    other: "Andere",
+    home: "Startseite",
+    grading: "Korrektur...",
+    solved: "gelöst",
+    lastUsed: "ZULETZT",
+    classLabel: "Klasse",
+    selectTopics: "Themen auswählen!",
+    selectTopicsSub: "Du kannst mehrere Unterthemen für einen Test kombinieren",
+    preview: "Vorschau",
+    topicsSelected: "ausgewählt",
+    clearSelection: "Auswahl löschen",
+    startTest: "Test starten",
+    generating: "Wird generiert...",
+    guest: "Gast",
+    exit: "Beenden",
+    topicAreas: "Themenbereiche",
+    dateLocale: "de-AT",
+    subject: "MATHEMATIK SCHULARBEIT",
+    pointsUnit: "Pkt.",
+    starUnit: "Stern",
+    scoreLabel: "Ergebnis",
+    nameLabel: "Name",
+    classFieldLabel: "Klasse",
+    dateLabel: "Datum",
+  },
+};
+
+// ─── SWITZERLAND 🇨🇭 ─────────────────────────────
+
+const CH: CountryConfig = {
+  code: "CH",
+  name: "Schweiz",
+  flag: "🇨🇭",
+  grades: [1, 2, 3, 4, 5, 6, 7, 8],
+  gradeLabel: (g) => `${g}. Klasse`,
+  calculateMark: (pct) => {
+    // Swiss system: 6 = best, 1 = worst (reversed from DE!)
+    if (pct >= 92) return { display: "6", label: "Ausgezeichnet", color: "#FFD700", emoji: "🌟" };
+    if (pct >= 80) return { display: "5.5", label: "Sehr gut", color: "#00FF88", emoji: "😊" };
+    if (pct >= 68) return { display: "5", label: "Gut", color: "#22D3EE", emoji: "🙂" };
+    if (pct >= 55) return { display: "4.5", label: "Gut bis genügend", color: "#00D4FF", emoji: "🤔" };
+    if (pct >= 40) return { display: "4", label: "Genügend", color: "#FF6B00", emoji: "😅" };
+    if (pct >= 25) return { display: "3", label: "Ungenügend", color: "#FF4444", emoji: "😢" };
+    return { display: "2", label: "Schwach", color: "#FF2D78", emoji: "💀" };
+  },
+  ui: {
+    title: "MATHE-TEST",
+    gradeQuestion: "In welcher Klasse bist du?",
+    submit: "ABGEBEN!",
+    retry: "Nochmal",
+    card: "Karte",
+    other: "Andere",
+    home: "Startseite",
+    grading: "Korrektur...",
+    solved: "gelöst",
+    lastUsed: "ZULETZT",
+    classLabel: "Klasse",
+    selectTopics: "Themen auswählen!",
+    selectTopicsSub: "Du kannst mehrere Unterthemen für einen Test kombinieren",
+    preview: "Vorschau",
+    topicsSelected: "ausgewählt",
+    clearSelection: "Auswahl löschen",
+    startTest: "Test starten",
+    generating: "Wird generiert...",
+    guest: "Gast",
+    exit: "Beenden",
+    topicAreas: "Themenbereiche",
+    dateLocale: "de-CH",
+    subject: "MATHEMATIK PRÜFUNG",
+    pointsUnit: "Pkt.",
+    starUnit: "Stern",
+    scoreLabel: "Ergebnis",
+    nameLabel: "Name",
+    classFieldLabel: "Klasse",
+    dateLabel: "Datum",
+  },
+};
+
 // ─── COUNTRY REGISTRY ─────────────────────────────
 
-export const COUNTRIES: CountryConfig[] = [HU, US, DE, GB, RO];
+export const COUNTRIES: CountryConfig[] = [HU, US, DE, AT, CH, GB, RO];
 
 export function getCountryByCode(code: string): CountryConfig {
   return COUNTRIES.find((c) => c.code === code) || HU;
