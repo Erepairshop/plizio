@@ -82,7 +82,7 @@
   "LEINWAND",
   "HOCHZEIT",
   "ABENTEUER",
-  "FRÜHSTÜCK"
+  "FRÜHSTÜCK",
   "BROT",
   "HAND",
   "HAUS",
@@ -227,7 +227,7 @@
   "FAHREN",
   "RUHEN",
   "SCHLAFEN",
-  "TRÄUMEN"
+  "TRÄUMEN",
   "ZEIT",
   "RAUM",
   "LICHT",
@@ -400,7 +400,7 @@
   "IDEEN",
   "ZIEL",
   "TRAUM",
-  "WUNSCH"
+  "WUNSCH",
   "ABEND",
   "MORGEN",
   "MITTAG",
