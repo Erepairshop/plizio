@@ -449,6 +449,29 @@ const G4: Record<string, Generator> = {
     const price = randInt(12, 30); const cnt = randInt(2, 5);
     return q(wpBuyMultiple(items.notebook, price, cnt, cur, cc), price * cnt, t("wordProblem", cc), 0, true);
   },
+  fraction: (cc) => pick([
+    () => q(qHowManyQuartersInWhole(cc), 4, t("fractions", cc)),
+    () => q(qHowManyHalvesInWhole(cc), 2, t("fractions", cc)),
+    () => { const w = randInt(2, 5); return q(qWholeToHalves(w, cc), w * 2, t("fractions", cc)); },
+    () => { const n = randInt(1, 3); return q(qPizzaSlices(n, 4, cc), 4 - n, t("fractions", cc)); },
+  ])(),
+  fractionB: (cc) => {
+    const d = pick([4, 6, 8, 10]);
+    const a = randInt(1, d / 2), b = randInt(1, d / 2);
+    return q(qFractionNumerator(a, b, d, cc), a + b, t("fractionAdd", cc));
+  },
+  fractionAdd: (cc) => {
+    const d = pick([4, 6, 8]);
+    const a = randInt(1, d / 2), b = randInt(1, d / 2);
+    return q(qFractionNumerator(a, b, d, cc), a + b, t("fractionAdd", cc));
+  },
+  fractionSub: (cc) => {
+    const d = pick([4, 6, 8]);
+    const a = randInt(3, d - 1), b = randInt(1, a - 1);
+    return q(qFractionSubNumerator(a, b, d, cc), a - b, t("fractionSub", cc));
+  },
+  geometry: (cc) => { const a = randInt(3, 10), b = randInt(3, 10); return q(qRectPerimeter(a, b, cc), 2 * (a + b), t("geometry", cc)); },
+  geometryB: (cc) => { const a = randInt(3, 10), b = randInt(3, 10); return q(qRectArea(a, b, cc), a * b, t("geometry", cc)); },
 };
 
 // ─── GRADE 5 GENERATORS ─────────────────────────────
