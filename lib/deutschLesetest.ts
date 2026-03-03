@@ -93,7 +93,8 @@ export const LESETEST: Record<number, Lesepassage[]> = {
         { type: "typing", question: "Wer schwimmt eine Runde im See?", answer: ["Papa", "der Papa", "sein Papa"] },
         { type: "mcq", question: "Warum geht Lukas nur mit den Füßen ins Wasser?", options: ["er hat keine Zeit", "es ist zu kalt", "er kann nicht schwimmen"], correct: 1 },
       ],
-      {
+    },
+    {
   id: "k2_4",
   title: "Die kleine Schnecke",
   text: "Nach dem Regen kriecht eine kleine Schnecke langsam über den nassen Gartenweg. Sie trägt ihr rundes, braunes Haus auf dem Rücken und lässt eine glitzernde Spur hinter sich. Plötzlich kommt eine neugierige Katze und schnüffelt an der Schnecke. Die Schnecke zieht sich sofort ganz in ihr Haus zurück und wartet still. Als die Katze weitergeht, kommt die Schnecke wieder heraus und kriecht ruhig weiter.",
@@ -223,7 +224,6 @@ export const LESETEST: Record<number, Lesepassage[]> = {
     { type: "mcq", question: "Was macht Mama mit dem nassen Teddy?", options: ["Sie kauft einen neuen.", "Sie legt ihn ins Bett.", "Sie hängt ihn auf die Heizung."], correct: 2 },
   ],
 },
-    },
     {
       id: "k2_3",
       title: "Die fleißige Biene",
@@ -403,7 +403,6 @@ export const LESETEST: Record<number, Lesepassage[]> = {
         { type: "mcq", question: "Was passiert mit Sophies Angst, als sie anfängt zu spielen?", options: ["Sie wird schlimmer.", "Sie bleibt gleich.", "Sie verschwindet."], correct: 2 },
       ],
     },
-      [
   {
     id: "k4_4",
     title: "Der entlaufene Hund",
@@ -504,7 +503,6 @@ export const LESETEST: Record<number, Lesepassage[]> = {
       { type: "mcq", question: "Wie lange dauerte der Stromausfall?", options: ["den ganzen Tag", "zehn Minuten", "eine Stunde"], correct: 2 },
     ],
   }
-]
   ],
 
   // ─── KLASSE 5 ─── (Sachtext · Natur, Tiere, Schule · Informationen entnehmen)

@@ -7140,7 +7140,6 @@ const K5: DeutschTheme[] = [
 { type: "typing", topic: "zeitformen_k5", subtopic: "plusquamperfekt_k5", question: "Setze ein: Bevor sie kam, ___ er (anrufen).", answer: ["hatte er angerufen"] },
 { type: "mcq", topic: "zeitformen_k5", subtopic: "plusquamperfekt_k5", question: "Hilfsverb für 'landen'?", options: ["hatte", "war", "wurde", "hat"], correct: 1 },
 { type: "typing", topic: "zeitformen_k5", subtopic: "plusquamperfekt_k5", question: "Plusquamperfekt von 'wir warten':", answer: ["wir hatten gewartet"] },
-{ type: "mcq", topic: "zeitformen_k5", subtopic: "plusquamperfekt_k5", question: "Wie heißt die 3. Pers. Sg. Präteritum von
           // TODO: weitere Fragen ↓
         ],
       },
@@ -7241,7 +7240,6 @@ const K5: DeutschTheme[] = [
 { type: "mcq", topic: "passiv_k5", subtopic: "vorgangspassiv_k5", question: "Passiv von 'Man liefert die Ware'?", options: ["Die Ware wird geliefert.", "Man wird geliefert.", "Ware wird liefern.", "Geliefert wird man."], correct: 0 },
 { type: "typing", topic: "passiv_k5", subtopic: "vorgangspassiv_k5", question: "Passiv Präsens von 'treffen' (wir):", answer: ["wir werden getroffen"] },
 { type: "mcq", topic: "passiv_k5", subtopic: "vorgangspassiv_k5", question: "Aktiv: 'Sie backt den Kuchen.' -> Passiv?", options: ["Der Kuchen wird gebacken.", "Der Kuchen wurde gebacken.", "Sie wird gebacken.", "Kuchen backt sie."], correct: 0 },
-{ type: "typing", topic: "passiv_k5", subtopic: "vorgangspassiv_k5", question: "Bilde das Passiv: 'Jemand beobachtet uns.'",
           // TODO: weitere Fragen ↓
         ],
       },
