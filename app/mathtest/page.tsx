@@ -671,8 +671,8 @@ export default function MathTestPage() {
     const cc = country?.code;
     const langPrefix =
       cc === 'US' || cc === 'GB' ? 'en' :
-      cc === 'DE' || cc === 'AT' || cc === 'CH' ? 'de' : null;
-      // US, GB, RO, HU → Supabase (helyes anyanyelvi témák, azonos slug-ok)
+      cc === 'AT' || cc === 'CH' ? 'de' : null;
+      // DE, US, GB, RO, HU → Supabase; AT/CH → getDEThemes() generátor (nincs Supabase adatuk)
 
     if (langPrefix && selectedGrade) {
       const srcThemes =
@@ -794,6 +794,50 @@ export default function MathTestPage() {
       'mertekegysegek': 'units',
     };
 
+    // DE Supabase slug → DE_THEMES generator key mapping
+    const DE_SLUG_TO_KEY: Record<string, string> = {
+      // Grade 1
+      'addition-bis-20': 'add20', 'subtraktion-bis-20': 'sub20',
+      'vergleichen-ordnen': 'compare', 'fehlende-zahlen': 'missing',
+      'einfache-textaufgaben': 'word', 'rechengeschichten': 'word',
+      'formen-erkennen': 'compare', 'uhr-und-geld': 'add10',
+      // Grade 2
+      'addition-bis-100': 'add100', 'subtraktion-bis-100': 'sub100',
+      'zehnerzahlen': 'add100', 'einmaleins-2-5-10': 'mul',
+      'einfache-division': 'div', 'textaufgaben': 'word',
+      'zahlenreihen': 'sequence', 'laengen-zeit': 'units', 'geld-rechnen': 'units',
+      // Grade 3
+      'add-sub-1000': 'add1000', 'schriftlich': 'add1000',
+      'multiplikation': 'mul', 'division': 'div', 'fehlende-faktoren': 'mul',
+      'zahlenfolgen': 'sequence', 'laenge-gewicht-zeit': 'units', 'umrechnen': 'units',
+      // Grade 4
+      'zahlen-bis-1000': 'place', 'addition-subtraktion': 'mul',
+      'multiplikation-division': 'mul', 'sachaufgaben': 'word',
+      'umfang-flaeche': 'geo', '3d-koerper': 'geo', 'symmetrie-dreiecke': 'geo',
+      'laengen-kilometer': 'units', 'gewicht-volumen': 'units',
+      'zeit': 'units', 'umrechnung': 'units',
+      'tabellen-diagramme': 'geo', 'wahrscheinlichkeit': 'geo', 'datenanalyse': 'geo',
+      // Grade 5
+      'grosse-zahlen': 'large', 'rechenregeln': 'ops',
+      'bruchrechnung': 'frac', 'prozentrechnung': 'pct',
+      'formen-masse': 'geo', 'rabatt-einkauf': 'word', 'rechenregeln-anwenden': 'word',
+      // Grade 6
+      'rechnen-negativ': 'neg', 'zahlenstrahl': 'neg',
+      'brueche-multiplizieren': 'frac', 'brueche-dividieren': 'frac',
+      'verhaeltnisse': 'ratio', 'prozent': 'pct',
+      'flaechen': 'geo', 'geschwindigkeit': 'ratio',
+      // Grade 7
+      'potenzen': 'powers', 'algebra': 'algebra',
+      'lineare-gleichungen': 'eq', 'gleichungen-aufstellen': 'eq',
+      'winkel': 'tri', 'besondere-dreiecke': 'tri',
+      'hypotenuse': 'pyth', 'kathete': 'pyth',
+      // Grade 8
+      'quadratwurzeln': 'sqrt', 'komplexe-terme': 'complex',
+      'zwei-seiten': 'eq', 'gleichungen-loesen': 'eq',
+      'lineare-funktionen': 'func', 'funktionswerte': 'func',
+      'grundlagen': 'prob', 'anwendungen': 'prob',
+    };
+
     try {
       // ─── EN / DE / RO: generator-based topic selection ──────────
       const generatorTopicIds = selectedSubtopics.filter(id =>
@@ -828,11 +872,13 @@ export default function MathTestPage() {
       }
 
       // ─── Supabase countries (HU, US, GB, RO): slug mapping → generator ──
-      // Minden nem-DE ország Supabase-t használ, azonos HU slug-okkal
-      const isSupabaseCountry = !['DE','AT','CH'].includes(country?.code ?? '');
+      // DE, HU, US, GB, RO → Supabase témák; AT/CH → generator (nincs Supabase adatuk)
+      const isSupabaseCountry = !['AT','CH'].includes(country?.code ?? '');
       if (isSupabaseCountry) {
         const cc = country!.code;
         const grade = selectedGrade!;
+        const isDE = cc === 'DE';
+        const slugMap = isDE ? DE_SLUG_TO_KEY : HU_SLUG_TO_KEY;
         const TARGET = 15;
         const seen = new Set<string>();
         const qs: MathQuestion[] = [];
@@ -840,7 +886,7 @@ export default function MathTestPage() {
         for (const theme of resolvedThemes) {
           for (const sub of theme.subtopics) {
             if (!selectedSubtopics.includes(sub.id)) continue;
-            const key = sub.slug ? HU_SLUG_TO_KEY[sub.slug] : undefined;
+            const key = sub.slug ? slugMap[sub.slug] : undefined;
             if (key && !topicKeys.includes(key)) topicKeys.push(key);
           }
         }
@@ -865,8 +911,8 @@ export default function MathTestPage() {
           setGeneratingTest(false);
           return;
         }
-        // fallback: getHUThemes (HU generátorok minden non-DE country számára)
-        const allTopics = getHUThemes(grade).flatMap(t => t.topics);
+        // fallback: összes téma generátor cc-vel
+        const allTopics = (isDE ? getDEThemes(grade) : getHUThemes(grade)).flatMap(t => t.topics);
         for (let i = 0; i < TARGET * 5 && qs.length < TARGET; i++) {
           const topic = allTopics[Math.floor(Math.random() * allTopics.length)];
           const gen = topic.generators[Math.floor(Math.random() * topic.generators.length)];
