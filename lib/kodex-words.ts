@@ -135,41 +135,11 @@ const SECRET_CODES_LIST: Record<string, SecretCodeData[]> = {
     // leaves: A,E,S,T,Ä,R,K
     { text: "MIT AUSDAUER ERREICHT MAN ALLES",     revealLetters: ["M", "I", "T", "U", "D", "R", "C", "H", "N"] },
     // leaves: A,S,E,L
-    {
-    text: "DAS WISSEN ÖFFNET ALLE TÜREN",
-    revealLetters: ["D", "S", "W", "I", "N", "Ö", "F", "L", "Ü"]
-  },
-  // leaves: A,E,T,R   
-
   {
     text: "WISSEN IST MACHT UND STÄRKE",
     revealLetters: ["W", "I", "S", "E", "N", "M", "A", "C", "H"]
   },
-  // leaves: T,U,D,Ä,R,K,E   
-
-  {
-    text: "ÜBUNG MACHT DEN MEISTER STARK",
-    revealLetters: ["Ü", "B", "U", "G", "M", "C", "H", "D", "I"]
-  },
-  // leaves: N,A,T,E,S,R,K  
-
-  {
-    text: "EHRLICHKEIT IST DIE BESTE TUGEND",
-    revealLetters: ["H", "R", "L", "C", "K", "T", "D", "B", "U"]
-  },
-  // leaves: E,I,S,G,N   
-
-  {
-    text: "GLAUBE AN DICH UND DEINE STÄRKE",
-    revealLetters: ["G", "L", "U", "B", "N", "D", "I", "C", "H"]
-  },
-  // leaves: A,E,S,T,Ä,R,K  
-
-  {
-    text: "MIT AUSDAUER ERREICHT MAN ALLES",
-    revealLetters: ["M", "I", "T", "U", "D", "R", "C", "H", "N"]
-  },
-  // leaves: A,S,E,L   
+  // leaves: T,U,D,Ä,R,K,E
 
   {
     text: "GEDULD FÜHRT ZUM GROSSEN ZIEL",
@@ -194,37 +164,6 @@ const SECRET_CODES_LIST: Record<string, SecretCodeData[]> = {
     // leaves: I,E,S,C
     { text: "DREAM BIG WORK HARD STAY HUMBLE",     revealLetters: ["D", "R", "M", "B", "I", "G", "W", "K", "H"] },
     // leaves: E,A,O,S,T,Y,U,L
-    en: [
-  {
-    text: "KNOWLEDGE IS THE BEST WEAPON",
-    revealLetters: ["K", "N", "W", "L", "D", "G", "I", "H", "B"]
-  },
-  // leaves: O,E,S,T,A,P   
-
-  {
-    text: "THE ONLY WAY OUT IS THROUGH",
-    revealLetters: ["T", "H", "N", "L", "Y", "W", "A", "U", "S"]
-  },
-  // leaves: E,O,I,R,G  
-
-  {
-    text: "BELIEVE IN YOURSELF AND YOUR DREAMS",
-    revealLetters: ["B", "L", "I", "V", "N", "Y", "O", "F", "D"]
-  },
-  // leaves: E,U,R,S,A,M  
-
-  {
-    text: "FAILURE IS THE MOTHER OF SUCCESS",
-    revealLetters: ["F", "A", "L", "U", "R", "T", "H", "M", "O"]
-  },
-  // leaves: I,E,S,C   
-
-  {
-    text: "DREAM BIG WORK HARD STAY HUMBLE",
-    revealLetters: ["D", "R", "M", "B", "I", "G", "W", "K", "H"]
-  },
-  // leaves: E,A,O,S,T,Y,U,L   
-]
   ],
   ro: [
     { text: "CUNOAȘTEREA ESTE CEA MAI BUNĂ",       revealLetters: ["C", "U", "N", "O", "Ș", "R", "S", "M", "I"] },
@@ -237,35 +176,6 @@ const SECRET_CODES_LIST: Record<string, SecretCodeData[]> = {
     // leaves: A,E,U,S,T,O,L
     { text: "PRIETENII ADEVĂRAȚI SUNT COMORI",     revealLetters: ["P", "R", "I", "T", "N", "D", "V", "Ă", "S"] },
     // leaves: E,A,U,C,O,M
-     {
-    text: "CUNOAȘTEREA ESTE CEA MAI BUNĂ",
-    revealLetters: ["C", "U", "N", "O", "Ș", "R", "S", "M", "I"]
-  },
-  // leaves: A,T,E,B,Ă  
-
-  {
-    text: "CURAJUL DESCHIDE ORICE UȘĂ",
-    revealLetters: ["C", "U", "R", "J", "L", "D", "S", "H", "O"]
-  },
-  // leaves: A,E,I,E,U,Ă   
-
-  {
-    text: "VIITORUL DEPINDE DE ALEGERILE TALE",
-    revealLetters: ["V", "I", "T", "O", "R", "U", "D", "P", "N"]
-  },
-  // leaves: L,E,A,G,E,R,I,L,E,T,A,L,E  
-
-  {
-    text: "RĂBDAREA ȘI MUNCA BIRUIESC TOTUL",
-    revealLetters: ["R", "Ă", "B", "D", "Ș", "I", "M", "N", "C"]
-  },
-  // leaves: A,E,U,S,T,O,L 
-
-  {
-    text: "PRIETENII ADEVĂRAȚI SUNT COMORI",
-    revealLetters: ["P", "R", "I", "T", "N", "D", "V", "Ă", "S"]
-  },
-  // leaves: E,A,U,C,O,M  
   ],
 };
 
