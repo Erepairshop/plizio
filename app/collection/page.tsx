@@ -53,7 +53,7 @@ const T: Record<Language, {
     exchangeBtn: (n) => `Becserélem (+${n} ⭐)`,
     exchangeNone: "Nincs elegendő kártya a beváltáshoz",
     exchangeDone: "✓ Sikeresen becserélve!",
-    exchangeRate: "1 legendás = 1⭐ · 10 arany = 1⭐ · 20 ezüst = 1⭐ · 30 bronz = 1⭐",
+    exchangeRate: "2 legendás = 1⭐ · 20 arany = 1⭐ · 40 ezüst = 1⭐ · 60 bronz = 1⭐",
     infoTitle: "Hogyan működnek a kártyák?",
     streakTitle: "Streak (napi sorozat)",
     streakDesc: "Ha egymás utáni napokon játszol, streak-et gyűjtesz. Minden nap +2% bónuszt ad az effektív pontszázalékodhoz (max +15% = 7+ nap).",
@@ -79,7 +79,7 @@ const T: Record<Language, {
     exchangeBtn: (n) => `Einlösen (+${n} ⭐)`,
     exchangeNone: "Nicht genug Karten zum Einlösen",
     exchangeDone: "✓ Erfolgreich eingelöst!",
-    exchangeRate: "1 Legendär = 1⭐ · 10 Gold = 1⭐ · 20 Silber = 1⭐ · 30 Bronze = 1⭐",
+    exchangeRate: "2 Legendär = 1⭐ · 20 Gold = 1⭐ · 40 Silber = 1⭐ · 60 Bronze = 1⭐",
     infoTitle: "Wie funktionieren Karten?",
     streakTitle: "Streak (Tagesserie)",
     streakDesc: "Wenn du an aufeinanderfolgenden Tagen spielst, sammelst du einen Streak. Jeder Tag gibt +2% Bonus auf deine effektive Punktzahl (max. +15% = 7+ Tage).",
@@ -105,7 +105,7 @@ const T: Record<Language, {
     exchangeBtn: (n) => `Redeem (+${n} ⭐)`,
     exchangeNone: "Not enough cards to redeem",
     exchangeDone: "✓ Successfully redeemed!",
-    exchangeRate: "1 legendary = 1⭐ · 10 gold = 1⭐ · 20 silver = 1⭐ · 30 bronze = 1⭐",
+    exchangeRate: "2 legendary = 1⭐ · 20 gold = 1⭐ · 40 silver = 1⭐ · 60 bronze = 1⭐",
     infoTitle: "How do cards work?",
     streakTitle: "Streak (daily series)",
     streakDesc: "Playing on consecutive days builds your streak. Each day adds +2% bonus to your effective score (max +15% = 7+ days).",
@@ -131,7 +131,7 @@ const T: Record<Language, {
     exchangeBtn: (n) => `Schimbă (+${n} ⭐)`,
     exchangeNone: "Nu sunt suficiente cărți de schimbat",
     exchangeDone: "✓ Schimbat cu succes!",
-    exchangeRate: "1 legendar = 1⭐ · 10 aur = 1⭐ · 20 argint = 1⭐ · 30 bronz = 1⭐",
+    exchangeRate: "2 legendar = 1⭐ · 20 aur = 1⭐ · 40 argint = 1⭐ · 60 bronz = 1⭐",
     infoTitle: "Cum funcționează cărțile?",
     streakTitle: "Streak (serie zilnică)",
     streakDesc: "Jucând în zile consecutive îți construiești streak-ul. Fiecare zi adaugă +2% bonus la scorul efectiv (max. +15% = 7+ zile).",
@@ -202,9 +202,9 @@ const GAME_COLORS: Record<string, string> = {
 
 const RARITY_ORDER: CardRarity[] = ["legendary", "gold", "silver", "bronze"];
 const RARITY_RANK: Record<CardRarity, number> = { legendary: 0, gold: 1, silver: 2, bronze: 3 };
-// 60 pt = 1 star: legendary=60pt, gold=6pt, silver=3pt, bronze=2pt
+// 120 pt = 1 star: legendary=60pt, gold=6pt, silver=3pt, bronze=2pt
 const MICRO_PER_CARD: Record<CardRarity, number> = { legendary: 60, gold: 6, silver: 3, bronze: 2 };
-const MICRO_PER_STAR = 60;
+const MICRO_PER_STAR = 120;
 
 interface GameBest { game: string; bestCard: GameCard; count: number; }
 
