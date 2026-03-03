@@ -73,6 +73,7 @@ export const LESETEST: Record<number, Lesepassage[]> = {
 
   // ─── KLASSE 2 ─── (4-5 Sätze · Handlung, Figuren, einfache Kausalität)
   2: [
+    
     {
       id: "k2_1",
       title: "Der hungrige Igel",
@@ -92,6 +93,136 @@ export const LESETEST: Record<number, Lesepassage[]> = {
         { type: "typing", question: "Wer schwimmt eine Runde im See?", answer: ["Papa", "der Papa", "sein Papa"] },
         { type: "mcq", question: "Warum geht Lukas nur mit den Füßen ins Wasser?", options: ["er hat keine Zeit", "es ist zu kalt", "er kann nicht schwimmen"], correct: 1 },
       ],
+      {
+  id: "k2_4",
+  title: "Die kleine Schnecke",
+  text: "Nach dem Regen kriecht eine kleine Schnecke langsam über den nassen Gartenweg. Sie trägt ihr rundes, braunes Haus auf dem Rücken und lässt eine glitzernde Spur hinter sich. Plötzlich kommt eine neugierige Katze und schnüffelt an der Schnecke. Die Schnecke zieht sich sofort ganz in ihr Haus zurück und wartet still. Als die Katze weitergeht, kommt die Schnecke wieder heraus und kriecht ruhig weiter.",
+  questions: [
+    { type: "mcq", question: "Was trägt die Schnecke auf dem Rücken?", options: ["einen Rucksack", "ihr Haus", "einen Stein"], correct: 1 },
+    { type: "typing", question: "Was macht die Schnecke, als die Katze kommt?", answer: ["sie zieht sich zurück", "sie versteckt sich", "sie geht ins Haus"] },
+    { type: "mcq", question: "Wann kriecht die Schnecke wieder heraus?", options: ["als es regnet", "als die Katze weitergeht", "am Abend"], correct: 1 },
+  ],
+},
+{
+  id: "k2_5",
+  title: "Der neue Rucksack",
+  text: "Heute ist Lenas erster Schultag und sie hat einen neuen, roten Rucksack bekommen. Darin liegen ein Heft, ein Mäppchen und eine Brotdose mit einem leckeren Käsebrot. In der Schule setzt sie sich neben ein Mädchen mit langen Zöpfen, das Lisa heißt. Die beiden lachen zusammen und tauschen ihre Buntstifte aus. Nach dem Unterricht laufen sie gemeinsam nach Hause und verabreden sich für den nächsten Tag.",
+  questions: [
+    { type: "mcq", question: "Welche Farbe hat Lenas neuer Rucksack?", options: ["blau", "grün", "rot"], correct: 2 },
+    { type: "typing", question: "Wie heißt das Mädchen, das neben Lena sitzt?", answer: ["Lisa"] },
+    { type: "mcq", question: "Was machen die beiden Mädchen am Ende?", options: ["Sie streiten sich.", "Sie verabreden sich.", "Sie schlafen ein."], correct: 1 },
+  ],
+},
+{
+  id: "k2_6",
+  title: "Das Vogelhaus",
+  text: "Im Winter ist es sehr kalt und Papa baut mit Tim zusammen ein kleines Vogelhaus aus Holz. Sie hängen es an den großen Apfelbaum im Garten und füllen es mit Sonnenblumenkernen. Schon am nächsten Morgen kommen zwei kleine Meisen und fressen die Körner. Tim schaut von seinem Zimmer aus durchs Fenster und freut sich sehr. Jeden Tag füllt er das Vogelhaus nach, damit die Vögel genug zu fressen haben.",
+  questions: [
+    { type: "mcq", question: "Wohin hängen Tim und Papa das Vogelhaus?", options: ["ans Fenster", "an den Apfelbaum", "an den Zaun"], correct: 1 },
+    { type: "typing", question: "Welche Vögel kommen als erste zum Vogelhaus?", answer: ["Meisen", "zwei Meisen"] },
+    { type: "mcq", question: "Warum füllt Tim das Vogelhaus jeden Tag nach?", options: ["weil es kaputt ist", "damit die Vögel genug Futter haben", "weil Papa es sagt"], correct: 1 },
+  ],
+},
+    {
+  id: "k2_7",
+  title: "Der Schneemann",
+  text: "Es hat die ganze Nacht geschneit und am Morgen liegt der Garten tief unter weißem Schnee. Mia und ihr Bruder Ben laufen sofort nach draußen und rollen drei große Schneebälle. Sie stapeln sie aufeinander und der Schneemann wird fast so groß wie Mama. Ben steckt ihm eine Karotte als Nase ins Gesicht und Mia wickelt einen bunten Schal um seinen Hals. Beide sind sehr stolz auf ihren Schneemann und machen ein Foto davon.",
+  questions: [
+    { type: "mcq", question: "Was machen Mia und Ben als erstes draußen?", options: ["Sie fahren Schlitten.", "Sie rollen Schneebälle.", "Sie werfen sich Schneebälle."], correct: 1 },
+    { type: "typing", question: "Was steckt Ben dem Schneemann ins Gesicht?", answer: ["eine Karotte", "Karotte"] },
+    { type: "mcq", question: "Was machen die Kinder am Ende?", options: ["Sie gehen rein.", "Sie machen ein Foto.", "Sie weinen."], correct: 1 },
+  ],
+},
+{
+  id: "k2_8",
+  title: "Der mutige Frosch",
+  text: "Am Teich sitzt ein kleiner grüner Frosch auf einem Stein und schaut ins Wasser. Als ein großer Hund bellend vorbeiläuft, springt der Frosch erschrocken ins Wasser. Er schwimmt schnell zu den Seerosen in der Mitte des Teiches und versteckt sich dort. Nach einer Weile ist alles wieder ruhig und der Frosch kommt zurück auf seinen Stein. Er blinzelt in die Sonne und quakt laut, als wäre nichts gewesen.",
+  questions: [
+    { type: "mcq", question: "Wo sitzt der Frosch am Anfang?", options: ["auf einer Seerose", "auf einem Stein", "im Wasser"], correct: 1 },
+    { type: "typing", question: "Wohin schwimmt der Frosch, um sich zu verstecken?", answer: ["zu den Seerosen", "Seerosen", "Mitte des Teiches"] },
+    { type: "mcq", question: "Was macht der Frosch, als alles wieder ruhig ist?", options: ["Er schläft.", "Er quakt laut.", "Er springt weg."], correct: 1 },
+  ],
+},
+{
+  id: "k2_9",
+  title: "Die Geburtstagstorte",
+  text: "Heute hat Oma Geburtstag und die ganze Familie backt zusammen eine Torte. Mama rührt den Teig, Papa schneidet die Erdbeeren und Emma streut Zucker darüber. Als die Torte fertig ist, stecken sie fünf Kerzen hinein und tragen sie zu Oma ins Wohnzimmer. Alle singen laut Geburtstagslied und Oma pustet die Kerzen auf einmal aus. Sie lacht und sagt, das ist die schönste Torte, die sie je bekommen hat.",
+  questions: [
+    { type: "mcq", question: "Wer hat heute Geburtstag?", options: ["Emma", "Mama", "Oma"], correct: 2 },
+    { type: "typing", question: "Was macht Emma bei der Torte?", answer: ["sie streut Zucker", "Zucker streuen", "Zucker"] },
+    { type: "mcq", question: "Was macht Oma mit den Kerzen?", options: ["Sie zündet sie an.", "Sie pustet sie aus.", "Sie nimmt sie weg."], correct: 1 },
+  ],
+},
+{
+  id: "k2_10",
+  title: "Der Regenwurm",
+  text: "Nach einem starken Regen liegt ein langer Regenwurm mitten auf dem Gehweg. Leo sieht ihn und hat Angst, dass jemand auf ihn tritt. Er nimmt vorsichtig ein Stöckchen und schiebt den Wurm behutsam ins feuchte Gras. Der Regenwurm bewegt sich sofort und verschwindet schnell in der Erde. Leo wischt seine Hände an der Hose ab und geht zufrieden weiter.",
+  questions: [
+    { type: "mcq", question: "Wo liegt der Regenwurm?", options: ["im Gras", "auf dem Gehweg", "in der Erde"], correct: 1 },
+    { type: "typing", question: "Womit schiebt Leo den Wurm ins Gras?", answer: ["mit einem Stöckchen", "Stöckchen", "ein Stöckchen"] },
+    { type: "mcq", question: "Was passiert mit dem Wurm am Ende?", options: ["Er stirbt.", "Er springt weg.", "Er verschwindet in der Erde."], correct: 2 },
+  ],
+},
+{
+  id: "k2_11",
+  title: "Das Kätzchen im Baum",
+  text: "Das kleine Kätzchen Mimi ist auf den alten Kirschbaum geklettert und kommt nicht mehr herunter. Es miaut laut und schaut ängstlich nach unten. Nachbar Herr Braun holt eine lange Leiter und steigt vorsichtig hinauf. Er nimmt das zitternde Kätzchen behutsam in die Arme und bringt es sicher auf den Boden. Mimi schnurrt laut und leckt Herrn Brauns Hand als Dankeschön.",
+  questions: [
+    { type: "mcq", question: "Wo sitzt das Kätzchen Mimi?", options: ["auf dem Dach", "auf dem Kirschbaum", "auf dem Zaun"], correct: 1 },
+    { type: "typing", question: "Was holt Herr Braun, um zu helfen?", answer: ["eine Leiter", "Leiter", "eine lange Leiter"] },
+    { type: "mcq", question: "Wie bedankt sich Mimi?", options: ["Sie springt weg.", "Sie kratzt ihn.", "Sie leckt seine Hand."], correct: 2 },
+  ],
+},
+{
+  id: "k2_12",
+  title: "Die Pfütze",
+  text: "Nach dem Regen liegt eine riesige Pfütze mitten auf dem Schulhof. Jonas läuft absichtlich mit seinen Gummistiefeln hindurch und spritzt das Wasser hoch. Dabei trifft er seine Freundin Sara und ihr Mantel wird nass. Sara ist zuerst sauer, aber dann lacht sie und springt selbst in die Pfütze. Die beiden spritzen so lange, bis beide von Kopf bis Fuß nass sind.",
+  questions: [
+    { type: "mcq", question: "Was trägt Jonas an den Füßen?", options: ["Turnschuhe", "Gummistiefel", "Sandalen"], correct: 1 },
+    { type: "typing", question: "Wen trifft Jonas mit dem Spritzwasser?", answer: ["Sara", "seine Freundin Sara", "seine Freundin"] },
+    { type: "mcq", question: "Wie endet die Geschichte?", options: ["Jonas läuft weg.", "Beide sind nass.", "Sara weint."], correct: 1 },
+  ],
+},
+{
+  id: "k2_13",
+  title: "Das Meerschweinchen",
+  text: "Nina hat zu ihrem Geburtstag ein kleines braunes Meerschweinchen bekommen und nennt es Krümel. Sie baut ihm ein weiches Bett aus Heu in seinem Käfig und gibt ihm frische Möhren. Krümel schnüffelt neugierig an Ninas Hand und frisst die Möhre ganz auf. Am Abend hält Nina Krümel vorsichtig in den Armen und er quiekt leise vor Freude. Von nun an kümmert sich Nina jeden Tag um ihr neues Haustier.",
+  questions: [
+    { type: "mcq", question: "Was hat Nina zu ihrem Geburtstag bekommen?", options: ["einen Hund", "ein Meerschweinchen", "eine Katze"], correct: 1 },
+    { type: "typing", question: "Wie nennt Nina ihr Meerschweinchen?", answer: ["Krümel"] },
+    { type: "mcq", question: "Was frisst Krümel von Nina?", options: ["Brot", "Käse", "eine Möhre"], correct: 2 },
+  ],
+},
+{
+  id: "k2_14",
+  title: "Der große Einkauf",
+  text: "Mama und Felix gehen zusammen in den Supermarkt, um Essen für die Woche einzukaufen. Felix darf den Einkaufswagen schieben und die Sachen aus dem Regal nehmen. An der Käsetheke darf er sogar ein kleines Stück probieren und es schmeckt ihm sehr gut. An der Kasse hilft Felix beim Aufs-Band-Legen und zahlt mit einem Geldstück. Auf dem Heimweg trägt er stolz eine leichte Tüte selbst.",
+  questions: [
+    { type: "mcq", question: "Was darf Felix im Supermarkt schieben?", options: ["einen Kinderwagen", "einen Einkaufswagen", "einen Trolley"], correct: 1 },
+    { type: "typing", question: "Was darf Felix an der Käsetheke machen?", answer: ["probieren", "ein Stück probieren", "Käse probieren"] },
+    { type: "mcq", question: "Was macht Felix auf dem Heimweg?", options: ["Er läuft voraus.", "Er trägt eine Tüte.", "Er schläft im Auto."], correct: 1 },
+  ],
+},
+{
+  id: "k2_15",
+  title: "Der Regenbogen",
+  text: "Nach einem kurzen Sommerregen scheint die Sonne wieder und am Himmel erscheint ein bunter Regenbogen. Sophie ruft laut ihre Mama und zeigt aufgeregt auf den Himmel. Die Mama erklärt ihr, dass Sonnenlicht und Regentropfen zusammen die bunten Farben erzeugen. Sophie zählt alle sieben Farben mit dem Finger in der Luft nach. Sie holt schnell ihren Malblock und malt den schönen Regenbogen auf ein weißes Blatt.",
+  questions: [
+    { type: "mcq", question: "Was erscheint nach dem Regen am Himmel?", options: ["ein Blitz", "ein Regenbogen", "eine Wolke"], correct: 1 },
+    { type: "typing", question: "Wie viele Farben hat der Regenbogen?", answer: ["sieben", "7"] },
+    { type: "mcq", question: "Was macht Sophie am Ende?", options: ["Sie schläft.", "Sie malt den Regenbogen.", "Sie läuft in den Regen."], correct: 1 },
+  ],
+},
+{
+  id: "k2_16",
+  title: "Der verlorene Teddybär",
+  text: "Moritz kann nicht einschlafen, weil sein Lieblingsteddybär Bruno nirgends zu finden ist. Er sucht unter dem Bett, im Schrank und hinter dem Sofa, aber Bruno bleibt verschwunden. Mama hilft suchen und findet Bruno schließlich in der Waschmaschine. Bruno wurde versehentlich mit der Wäsche eingeschlossen und ist jetzt ganz nass. Mama hängt ihn schnell auf die Heizung zum Trocknen und Moritz schläft mit einem Lächeln ein.",
+  questions: [
+    { type: "mcq", question: "Warum kann Moritz nicht schlafen?", options: ["Er hat Hunger.", "Er hat Angst.", "Sein Teddy ist weg."], correct: 2 },
+    { type: "typing", question: "Wo findet Mama den Teddybär?", answer: ["in der Waschmaschine", "Waschmaschine"] },
+    { type: "mcq", question: "Was macht Mama mit dem nassen Teddy?", options: ["Sie kauft einen neuen.", "Sie legt ihn ins Bett.", "Sie hängt ihn auf die Heizung."], correct: 2 },
+  ],
+},
     },
     {
       id: "k2_3",
@@ -137,6 +268,107 @@ export const LESETEST: Record<number, Lesepassage[]> = {
         { type: "mcq", question: "Wie fühlt sich Jonas am Ende des Unterrichts?", options: ["enttäuscht", "müde", "stolz und zufrieden"], correct: 2 },
       ],
     },
+         {
+  id: "k3_4",
+  title: "Der Gartenteich",
+  text: "Im Garten von Familie Müller gibt es einen kleinen Teich mit goldenen Fischen und grünen Seerosen. Eines Morgens bemerkt Opa, dass einer der Fische nicht mehr schwimmt, sondern traurig an der Oberfläche treibt. Er ruft seinen Enkel Felix und gemeinsam schauen sie sich das Wasser genau an. Das Wasser ist trüb und grünlich, weil es seit Wochen nicht gereinigt wurde. Felix hilft Opa dabei, das Wasser mit einem Eimer auszuwechseln und frisches Wasser einzufüllen. Nach ein paar Stunden schwimmen alle Fische wieder munter durch den sauberen Teich. Felix ist erleichtert und verspricht, den Teich von nun an regelmäßig zu pflegen.",
+  questions: [
+    { type: "mcq", question: "Was bemerkt Opa am Morgen?", options: ["Ein Fisch treibt an der Oberfläche.", "Der Teich ist leer.", "Eine Seerose ist verschwunden."], correct: 0 },
+    { type: "typing", question: "Warum ist das Wasser trüb?", answer: ["es wurde nicht gereinigt", "weil es nicht gereinigt wurde", "keine Reinigung"] },
+    { type: "mcq", question: "Was verspricht Felix am Ende?", options: ["Einen neuen Teich zu bauen.", "Den Teich regelmäßig zu pflegen.", "Keine Fische mehr zu halten."], correct: 1 },
+  ],
+},
+{
+  id: "k3_5",
+  title: "Das Gewitter",
+  text: "Marie sitzt allein zu Hause und macht ihre Hausaufgaben, als plötzlich ein heftiges Gewitter losbricht. Der Donner kracht so laut, dass Marie erschrocken ihr Heft fallen lässt. Sie schließt schnell alle Fenster und holt die Wäsche von der Leine, bevor alles nass wird. Dann kuschelt sie sich mit ihrer Katze Bella unter eine warme Decke auf das Sofa. Bella schnurrt beruhigend und Marie fühlt sich gleich viel mutiger. Als ihre Eltern nach Hause kommen, hat das Gewitter schon aufgehört. Marie erzählt stolz, dass sie alles ganz alleine geschafft hat.",
+  questions: [
+    { type: "mcq", question: "Was macht Marie, als das Gewitter beginnt?", options: ["Sie schläft.", "Sie macht Hausaufgaben.", "Sie spielt draußen."], correct: 1 },
+    { type: "typing", question: "Was holt Marie von der Leine?", answer: ["die Wäsche", "Wäsche"] },
+    { type: "mcq", question: "Was macht Marie mutig?", options: ["Das Licht anmachen.", "Die Katze Bella.", "Ein Lied singen."], correct: 1 },
+  ],
+},
+{
+  id: "k3_6",
+  title: "Der Tauschmarkt",
+  text: "In der Schule veranstaltet die Klasse von Leon einen Tauschmarkt, bei dem jeder etwas von zu Hause mitbringen darf. Leon bringt ein altes Bilderbuch mit, das er nicht mehr braucht, und hofft, dafür etwas Spannendes zu tauschen. An einem Tisch liegt ein kleines Taschenmesser mit vielen Werkzeugen, das ihm sofort gefällt. Leider hat der Besitzer kein Interesse an Leons Buch und schüttelt den Kopf. Dann sieht Leon, dass ein Mädchen namens Hanna das Buch unbedingt haben möchte. Hanna tauscht ihm dafür eine tolle Lupe, die sie nicht mehr braucht. Leon ist zufrieden, denn mit der Lupe kann er endlich seine Käfersammlung genau untersuchen.",
+  questions: [
+    { type: "mcq", question: "Was bringt Leon zum Tauschmarkt mit?", options: ["Ein Taschenmesser.", "Ein Bilderbuch.", "Eine Lupe."], correct: 1 },
+    { type: "typing", question: "Was bekommt Leon am Ende beim Tauschen?", answer: ["eine Lupe", "Lupe"] },
+    { type: "mcq", question: "Wofür möchte Leon die Lupe benutzen?", options: ["Zum Lesen.", "Für seine Käfersammlung.", "Für die Schule."], correct: 1 },
+  ],
+},
+{
+  id: "k3_7",
+  title: "Die kranke Freundin",
+  text: "Sophie erfährt, dass ihre beste Freundin Lea krank ist und seit drei Tagen nicht in die Schule kommen kann. Sie beschließt, Lea nach dem Unterricht zu besuchen und ihr etwas Aufmunterndes mitzubringen. Sophie malt eine bunte Karte mit einem lachenden Sonnenblumen-Gesicht und schreibt einen lieben Gruß hinein. Außerdem packt sie ihre Lieblingscomichefte in eine Tasche, damit Lea etwas zu lesen hat. Als Sophie klingelt, öffnet Leas Mama die Tür und freut sich sehr über den Besuch. Lea liegt im Bett, aber ihre Augen leuchten auf, als sie Sophie mit den Heften sieht. Die beiden verbringen den Nachmittag beim Lesen und Lachen, bis Sophie nach Hause muss.",
+  questions: [
+    { type: "mcq", question: "Warum ist Lea nicht in der Schule?", options: ["Sie hat Ferien.", "Sie ist krank.", "Sie ist umgezogen."], correct: 1 },
+    { type: "typing", question: "Was malt Sophie für Lea?", answer: ["eine bunte Karte", "eine Karte", "Karte"] },
+    { type: "mcq", question: "Was bringt Sophie außerdem mit?", options: ["Süßigkeiten.", "Comichefte.", "Blumen."], correct: 1 },
+  ],
+},
+{
+  id: "k3_8",
+  title: "Das Nest im Briefkasten",
+  text: "Als Herr Wagner seinen Briefkasten öffnen will, entdeckt er darin ein kleines Vogelnest mit drei winzigen blauen Eiern. Er schließt den Briefkasten vorsichtig wieder und überlegt, was er tun soll. Seine Nachbarin, die sich gut mit Vögeln auskennt, rät ihm, das Nest in Ruhe zu lassen. Also befestigt Herr Wagner am Gartentor einen Zettel mit der Aufschrift: 'Bitte Briefe hier einwerfen' und hängt daneben eine Kiste. Jeden Morgen beobachtet er vom Fenster aus, wie ein kleines braunes Vögelchen das Nest wärmt. Nach drei Wochen schlüpfen die Küken und lernen schnell das Fliegen. Erst als alle drei Vögel davongeflogen sind, räumt Herr Wagner das leere Nest behutsam aus dem Briefkasten.",
+  questions: [
+    { type: "mcq", question: "Was findet Herr Wagner in seinem Briefkasten?", options: ["Einen Brief.", "Ein Vogelnest mit Eiern.", "Eine Maus."], correct: 1 },
+    { type: "typing", question: "Was schreibt Herr Wagner auf den Zettel am Gartentor?", answer: ["Bitte Briefe hier einwerfen", "Briefe hier einwerfen"] },
+    { type: "mcq", question: "Wann räumt er das Nest weg?", options: ["Nach einer Woche.", "Wenn die Eier schlüpfen.", "Wenn alle Vögel weggeflogen sind."], correct: 2 },
+  ],
+},
+{
+  id: "k3_9",
+  title: "Das verschwundene Pausenbrot",
+  text: "Als Finn in der Pause seine Brotdose öffnet, ist sein Pausenbrot verschwunden und er weiß nicht warum. Er fragt seine Sitznachbarin Emma, ob sie etwas gesehen hat, aber auch sie schüttelt den Kopf. Plötzlich hört Finn ein leises Rascheln aus seinem Rucksack und zieht ihn neugierig auf. Darin sitzt sein Hamster Knubbel, den er heute Morgen versehentlich eingepackt hat. Das Brot liegt angekaut neben ihm und Knubbel schaut Finn mit großen schwarzen Augen an. Alle Kinder in der Klasse lachen herzlich und Finn wird rot vor Scham. Sein Lehrer hilft ihm, Knubbel sicher nach Hause zu bringen.",
+  questions: [
+    { type: "mcq", question: "Was fehlt in Finns Brotdose?", options: ["Ein Apfel.", "Sein Pausenbrot.", "Sein Trinkgeld."], correct: 1 },
+    { type: "typing", question: "Was entdeckt Finn in seinem Rucksack?", answer: ["seinen Hamster", "Hamster", "Knubbel"] },
+    { type: "mcq", question: "Wie reagieren die Kinder?", options: ["Sie weinen.", "Sie lachen herzlich.", "Sie werden böse."], correct: 1 },
+  ],
+},
+{
+  id: "k3_10",
+  title: "Die Klassenreise",
+  text: "Die Klasse 3b fährt für zwei Tage in ein Waldhotel und alle Kinder sind aufgeregt. Im Wald führt eine Rangerin die Gruppe zu einem alten Baumstumpf, unter dem eine Fuchsfamilie lebt. Die Kinder müssen ganz leise sein, damit die Füchse nicht erschrecken. Tatsächlich kommt ein junger Fuchs neugierig aus dem Bau heraus und schaut die Gruppe an. Alle halten den Atem an und staunen über das mutige Tier. Abends sitzen die Kinder am Lagerfeuer, singen Lieder und essen Marshmallows. Niemand möchte am nächsten Morgen wieder nach Hause fahren.",
+  questions: [
+    { type: "mcq", question: "Wohin fährt die Klasse 3b?", options: ["An den See.", "In ein Waldhotel.", "In die Stadt."], correct: 1 },
+    { type: "typing", question: "Was lebt unter dem alten Baumstumpf?", answer: ["eine Fuchsfamilie", "Füchse", "Fuchsfamilie"] },
+    { type: "mcq", question: "Was machen die Kinder am Abend?", options: ["Sie schlafen früh.", "Sie spielen Fußball.", "Sie sitzen am Lagerfeuer."], correct: 2 },
+  ],
+},
+{
+  id: "k3_11",
+  title: "Der Kuchen für die Oma",
+  text: "Luisa möchte ihrer Oma zum Namenstag einen Kuchen backen und sucht im Internet nach einem einfachen Rezept. Sie schreibt alle Zutaten auf einen Zettel und geht alleine in den Supermarkt, um alles einzukaufen. Zu Hause mischt sie Mehl, Eier, Zucker und Butter sorgfältig zusammen und gießt den Teig in eine Form. Nach vierzig Minuten im Ofen duftet die ganze Wohnung nach frischem Kuchen. Luisa wartet ungeduldig, bis der Kuchen abgekühlt ist, und streut dann Puderzucker darüber. Als sie ihn zur Oma bringt, strahlt die alte Frau vor Freude. Sie sagt, es ist der allerbeste Kuchen, den sie je gegessen hat.",
+  questions: [
+    { type: "mcq", question: "Für wen backt Luisa den Kuchen?", options: ["Für ihre Lehrerin.", "Für ihre Oma.", "Für ihre Freundin."], correct: 1 },
+    { type: "typing", question: "Was streut Luisa über den abgekühlten Kuchen?", answer: ["Puderzucker", "Zucker"] },
+    { type: "mcq", question: "Wie reagiert die Oma auf den Kuchen?", options: ["Sie isst ihn nicht.", "Sie strahlt vor Freude.", "Sie ist traurig."], correct: 1 },
+  ],
+},
+{
+  id: "k3_12",
+  title: "Der neue Mitschüler",
+  text: "An einem Montag kommt ein neuer Junge namens Omar in die Klasse und setzt sich schüchtern auf den freien Platz neben Tom. Omar ist erst vor einer Woche aus einem anderen Land hergezogen und spricht noch nicht viel Deutsch. Tom bemerkt, dass Omar in der Pause alleine auf der Bank sitzt und traurig schaut. Er geht zu ihm, zeigt auf sich selbst und sagt laut seinen Namen. Omar lächelt und nennt auch seinen Namen, dann zeigen beide auf verschiedene Dinge und lernen gegenseitig neue Wörter. Schon am nächsten Tag spielen sie gemeinsam Fußball in der Pause. Tom freut sich, denn er hat einen neuen Freund gewonnen.",
+  questions: [
+    { type: "mcq", question: "Warum spricht Omar wenig Deutsch?", options: ["Er mag die Sprache nicht.", "Er ist neu aus einem anderen Land.", "Er ist krank."], correct: 1 },
+    { type: "typing", question: "Was macht Tom, um sich Omar vorzustellen?", answer: ["er zeigt auf sich und sagt seinen Namen", "er nennt seinen Namen", "seinen Namen sagen"] },
+    { type: "mcq", question: "Was machen Tom und Omar am nächsten Tag?", options: ["Sie lesen zusammen.", "Sie spielen Fußball.", "Sie malen Bilder."], correct: 1 },
+  ],
+},
+{
+  id: "k3_13",
+  title: "Die mutige Mia",
+  text: "Mia hat schon lange Angst vor Hunden, weil sie einmal als kleines Kind von einem erschreckt wurde. Als ihr Nachbar einen großen goldenen Hund namens Bello bekommt, weicht Mia ihm immer aus. Eines Tages bleibt Bello vor ihr stehen, wedelt mit dem Schwanz und legt sich dann einfach auf den Boden. Mias Herz klopft laut, aber sie kauert sich langsam hin und streckt zitternd die Hand aus. Bello leckt ihre Hand sanft und schaut sie mit treuen Augen an. Mia lacht überrascht, denn es fühlt sich gar nicht bedrohlich an. Von diesem Tag an besucht sie Bello jeden Nachmittag und ihre Angst verschwindet langsam.",
+  questions: [
+    { type: "mcq", question: "Wovor hat Mia Angst?", options: ["Vor Katzen.", "Vor Hunden.", "Vor Gewitter."], correct: 1 },
+    { type: "typing", question: "Wie heißt der Hund des Nachbarn?", answer: ["Bello"] },
+    { type: "mcq", question: "Was passiert mit Mias Angst am Ende?", options: ["Sie wird größer.", "Sie bleibt gleich.", "Sie verschwindet langsam."], correct: 2 },
+  ],
+},
+      
   ],
 
  // ─── KLASSE 4 ─── (8-10 Sätze + Dialog · Figuren, Gefühle, Handlungsverlauf)
@@ -171,6 +403,108 @@ export const LESETEST: Record<number, Lesepassage[]> = {
         { type: "mcq", question: "Was passiert mit Sophies Angst, als sie anfängt zu spielen?", options: ["Sie wird schlimmer.", "Sie bleibt gleich.", "Sie verschwindet."], correct: 2 },
       ],
     },
+      [
+  {
+    id: "k4_4",
+    title: "Der entlaufene Hund",
+    text: "Es war ein stürmischer Dienstagabend, als Herr Müller bemerkte, dass das Gartentor sperrangelweit offen stand. Sein kleiner Hund 'Bello' war nirgends zu sehen. Verzweifelt lief Herr Müller durch die Nachbarschaft und rief laut seinen Namen. Der Wind wehte ihm den Regen ins Gesicht, doch er gab nicht auf. An der alten Bushaltestelle traf er die kleine Emma. 'Haben Sie einen braunen Hund mit einem roten Halsband gesucht?', fragte sie aufgeregt. Sie zeigte in Richtung des Stadtparks. Herr Müller eilte dorthin und fand Bello, der verängstigt unter einer Parkbank hockte. Vor Freude schloss er seinen treuen Begleiter in die Arme und versprach, das Tor in Zukunft immer doppelt zu kontrollieren.",
+    questions: [
+      { type: "mcq", question: "Warum ist Bello verschwunden?", options: ["Er ist über den Zaun gesprungen.", "Das Gartentor war offen.", "Er wurde gestohlen."], correct: 1 },
+      { type: "typing", question: "Welche Farbe hat Bellos Halsband?", answer: ["rot", "ein rotes Halsband", "rotes"] },
+      { type: "mcq", question: "Wo findet Herr Müller seinen Hund schließlich?", options: ["im Garten", "an der Bushaltestelle", "unter einer Parkbank im Park"], correct: 2 },
+    ],
+  },
+  {
+    id: "k4_5",
+    title: "Rettung für den kleinen Vogel",
+    text: "Lukas spielte im Garten, als er unter dem Kirschbaum ein leises Piepsen hörte. Im hohen Gras lag ein kleiner Vogel, der offenbar aus dem Nest gefallen war. Er hatte noch kaum Federn und zitterte. Lukas wusste, dass er ihn nicht einfach mit bloßen Händen anfassen sollte. Er lief schnell ins Haus und holte seinen Vater. Gemeinsam bauten sie aus einem alten Schuhkarton und etwas weichem Heu ein Ersatznest. Der Vater holte die lange Leiter aus dem Schuppen und setzte das Vögelchen vorsichtig zurück in die Astgabel. Aus sicherer Entfernung beobachteten sie, wie die Vogelmutter kurz darauf mit Futter zurückkehrte. Lukas war froh, dass er dem kleinen Tier helfen konnte.",
+    questions: [
+      { type: "mcq", question: "Was findet Lukas unter dem Kirschbaum?", options: ["einen Igel", "einen kleinen Vogel", "einen Apfel"], correct: 1 },
+      { type: "typing", question: "Woraus bauen Lukas und sein Vater ein Ersatznest?", answer: ["Schuhkarton", "aus einem Schuhkarton", "Karton"] },
+      { type: "mcq", question: "Was macht der Vater, um den Vogel zurückzubringen?", options: ["Er wirft ihn hoch.", "Er benutzt eine Leiter.", "Er klettert auf den Baum."], correct: 1 },
+    ],
+  },
+  {
+    id: "k4_6",
+    title: "Die Überraschungsparty",
+    text: "Heute war Papas vierzigster Geburtstag, und die ganze Familie war seit Stunden heimlich am Vorbereiten. Mama backte in der Küche einen riesigen Schokoladenkuchen, während Lisa und Tom das Wohnzimmer mit bunten Girlanden und Luftballons schmückten. 'Psst, er parkt gerade das Auto!', flüsterte Tom aufgeregt. Schnell versteckten sich alle hinter dem Sofa und unter dem Esstisch. Als Papa die Tür öffnete und das Licht einschaltete, sprangen alle hervor und riefen im Chor: 'Überraschung!' Papa erschrak kurz, fing dann aber laut an zu lachen. Er hatte den ganzen Tag gearbeitet und überhaupt nicht damit gerechnet, dass alle an seine Feier gedacht hatten.",
+    questions: [
+      { type: "mcq", question: "Welchen Geburtstag feiert der Vater?", options: ["den dreißigsten", "den fünfzigsten", "den vierzigsten"], correct: 2 },
+      { type: "typing", question: "Wo verstecken sich die Kinder?", answer: ["hinter dem Sofa", "unterm Tisch", "Sofa und Tisch"] },
+      { type: "mcq", question: "Wie reagiert Papa auf die Überraschung?", options: ["Er ist wütend.", "Er lacht laut.", "Er weint vor Schreck."], correct: 1 },
+    ],
+  },
+  {
+    id: "k4_7",
+    title: "Ein Tag am See",
+    text: "Die Sonne brannte heiß vom Himmel, als Familie Schmidt am Ufer des Silbersees ankam. Sarah konnte es kaum erwarten und sprang sofort mit ihren knallgelben Schwimmflügeln ins kühle Wasser. Ihr Bruder Max wollte lieber eine riesige Sandburg bauen. Er sammelte Muscheln und kleine Steine, um die Türme zu verzieren. Gegen Mittag packte Mutter die Kühltasche aus. Es gab belegte Brötchen, Melonenstücke und kalte Limonade. Nach dem Essen machten sie ein kurzes Nickerchen im Schatten der großen Weide. Es war ein herrlicher Sommertag, den niemand so schnell vergessen würde. Erst als die Sonne langsam unterging, packten sie ihre Sachen und fuhren müde, aber glücklich nach Hause.",
+    questions: [
+      { type: "mcq", question: "Welche Farbe haben Sarahs Schwimmflügel?", options: ["blau", "gelb", "rot"], correct: 1 },
+      { type: "typing", question: "Was benutzt Max, um seine Sandburg zu verzieren?", answer: ["Muscheln und Steine", "Muscheln", "Steine"] },
+      { type: "mcq", question: "Wo ruht sich die Familie nach dem Mittagessen aus?", options: ["im Zelt", "im Wasser", "im Schatten einer Weide"], correct: 2 },
+    ],
+  },
+  {
+    id: "k4_8",
+    title: "Der verlorene Schlüssel",
+    text: "Annas Mutter suchte schon seit zehn Minuten ihren Hausschlüssel. Sie war spät dran für einen wichtigen Termin und wurde immer nervöser. Sie schaute in ihrer Handtasche, im Flur auf der Kommode und sogar im Kühlschrank nach. 'Hast du ihn vielleicht gesehen, Anna?', fragte sie hektisch. Anna überlegte kurz. Sie erinnerte sich, dass ihre Mutter gestern Abend die Blumen auf der Terrasse gegossen hatte. Anna lief nach draußen und suchte den Boden ab. Tatsächlich: Direkt neben dem großen Tontopf lag der silberne Schlüsselbund im Gras. 'Hier ist er!', rief Anna stolz. Ihre Mutter war so erleichtert, dass sie Anna zum Dank versprach, auf dem Heimweg ihr Lieblingseis mitzubringen.",
+    questions: [
+      { type: "mcq", question: "Warum ist die Mutter nervös?", options: ["Sie hat Hunger.", "Sie sucht ihren Schlüssel.", "Sie muss zum Sport."], correct: 1 },
+      { type: "typing", question: "Wo findet Anna den Schlüssel?", options: ["auf der Terrasse", "neben dem Tontopf", "im Gras"] },
+      { type: "mcq", question: "Was bekommt Anna als Belohnung?", options: ["ein Spielzeug", "ein Eis", "Geld"], correct: 1 },
+    ],
+  },
+  {
+    id: "k4_9",
+    title: "Nachtwanderung im Ferienlager",
+    text: "Die erste Nacht im Ferienlager war besonders aufregend. Der Betreuer Marc hatte eine Nachtwanderung durch den angrenzenden Wald angekündigt. Nur mit Taschenlampen bewaffnet machten sich die Kinder auf den Weg. Überall knackten Äste und die Schatten der Bäume sahen im fahlen Mondlicht wie riesige Gespenster aus. Leo hielt die Hand seines Freundes fest umschlossen. Plötzlich hörten sie ein lautes 'Uhu, Uhu'. Alle blieben stehen und hielten den Atem an. 'Keine Angst, das ist nur eine Eule', erklärte Marc ruhig und leuchtete mit seiner starken Lampe in eine alte Kiefer. Tatsächlich sahen sie zwei große, leuchtende Augen. Nach diesem Abenteuer schliefen alle Kinder tief und fest in ihren Schlafsäcken.",
+    questions: [
+      { type: "mcq", question: "Womit sind die Kinder bei der Wanderung ausgestattet?", options: ["Fackeln", "Taschenlampen", "Kerzen"], correct: 1 },
+      { type: "typing", question: "Welches Tier macht das 'Uhu'-Geräusch?", answer: ["Eule", "eine Eule", "Waldkauz"] },
+      { type: "mcq", question: "In welcher Baumart sitzt die Eule?", options: ["Eiche", "Buche", "Kiefer"], correct: 2 },
+    ],
+  },
+  {
+    id: "k4_10",
+    title: "Das erste Fußballtraining",
+    text: "Julian hatte heute sein allererstes Training im Fußballverein. Er trug seine neuen, blauen Fußballschuhe und ein weißes Trikot. Auf dem Platz warteten schon viele andere Kinder. Der Trainer, Herr Krause, erklärte zuerst die Regeln: 'Das Wichtigste ist der Teamgeist und dass ihr Spaß habt!' Dann machten sie Aufwärmübungen und dribbelten mit dem Ball um bunte Hütchen. Julian war anfangs sehr schüchtern, aber als er im Abschlussspiel ein Tor schoss, jubelten seine neuen Mitspieler laut. Er klatschte mit allen ab und fühlte sich sofort als Teil der Mannschaft. Auf dem Heimweg fragte er seinen Vater: 'Wann ist das nächste Training?'",
+    questions: [
+      { type: "mcq", question: "Welche Farbe haben Julians neue Schuhe?", options: ["schwarz", "blau", "grün"], correct: 1 },
+      { type: "typing", question: "Was ist laut Trainer Krause das Wichtigste?", answer: ["Teamgeist", "Spaß", "Teamgeist und Spaß"] },
+      { type: "mcq", question: "Was passiert im Abschlussspiel?", options: ["Julian verletzt sich.", "Julian schießt ein Tor.", "Julian geht nach Hause."], correct: 1 },
+    ],
+  },
+  {
+    id: "k4_11",
+    title: "Stau auf der Autobahn",
+    text: "Familie Weber wollte in den Urlaub nach Italien fahren. Die Koffer waren gepackt und die Stimmung war prächtig. Doch plötzlich bremste der Vater das Auto ab. Vor ihnen stand eine lange Schlange von Fahrzeugen – Stau! 'Oh nein, das kann Stunden dauern', seufzte die Mutter. Draußen war es sehr heiß und die Klimaanlage summte leise. Um die Zeit zu vertreiben, spielten sie 'Ich sehe was, was du nicht siehst'. Lisa entdeckte einen roten Laster und Tom ein Motorrad mit Beiwagen. Nach einer gefühlten Ewigkeit löste sich der Stau endlich auf, weil eine Baustelle zu Ende war. Als sie abends das Meer sahen, war der Ärger über die Wartezeit sofort vergessen.",
+    questions: [
+      { type: "mcq", question: "Wohin möchte Familie Weber in den Urlaub fahren?", options: ["Spanien", "Italien", "Frankreich"], correct: 1 },
+      { type: "typing", question: "Welches Spiel spielen sie im Auto?", answer: ["Ich sehe was, was du nicht siehst", "Rate-Spiel", "Ich sehe was"] },
+      { type: "mcq", question: "Was war der Grund für den Stau?", options: ["ein Unfall", "eine Baustelle", "ein liegengebliebenes Auto"], correct: 1 },
+    ],
+  },
+  {
+    id: "k4_12",
+    title: "Besuch im Tierpark",
+    text: "Am Sonntag besuchten Klara und ihr Opa den großen Tierpark. Klara freute sich am meisten auf die Elefanten. Als sie am Gehege ankamen, fütterte ein Pfleger die Tiere gerade mit Äpfeln und Heu. Klara staunte, wie geschickt die Elefanten ihren Rüssel benutzten. Danach gingen sie zu den Affen, die lustige Purzelbäume schlugen und von Ast zu Ast sprangen. 'Guck mal Opa, der kleine Affe hat eine Banane geklaut!', lachte Klara. Zum Abschluss kaufte Opa ihr eine große Tüte Popcorn. Während sie auf einer Bank saßen und die Flamingos beobachteten, erzählte Opa Geschichten von früher. Es war ein wunderbarer Tag voller neuer Eindrücke.",
+    questions: [
+      { type: "mcq", question: "Auf welches Tier freut sich Klara am meisten?", options: ["Löwen", "Elefanten", "Giraffen"], correct: 1 },
+      { type: "typing", question: "Was fressen die Elefanten beim Pfleger?", answer: ["Äpfel und Heu", "Äpfel", "Heu"] },
+      { type: "mcq", question: "Was essen Klara und Opa am Ende?", options: ["Eis", "Würstchen", "Popcorn"], correct: 2 },
+    ],
+  },
+  {
+    id: "k4_13",
+    title: "Der Stromausfall",
+    text: "Es war ein dunkler Novemberabend, als plötzlich das Licht ausging. Der Fernseher wurde schwarz und der Computer summte nicht mehr. 'Ein Stromausfall!', rief Papa aus der Küche. Zuerst war es im Haus unheimlich still. Doch dann holte Mama dicke Stumpenkerzen und stellte sie im Wohnzimmer auf. Das warme Licht warf gemütliche Schatten an die Wände. Da sie nicht fernsehen konnten, holten sie das alte Brettspiel 'Mensch ärgere dich nicht' hervor. Sie spielten beim Schein der Kerzen und lachten viel mehr als sonst. Als das Licht nach einer Stunde plötzlich wieder anging, riefen die Kinder fast ein bisschen enttäuscht: 'Och, schon vorbei?'",
+    questions: [
+      { type: "mcq", question: "In welchem Monat spielt die Geschichte?", options: ["Januar", "November", "März"], correct: 1 },
+      { type: "typing", question: "Welches Brettspiel spielt die Familie?", answer: ["Mensch ärgere dich nicht", "Mensch ärgere dich", "Mensch ärgere dich nicht Spiel"] },
+      { type: "mcq", question: "Wie lange dauerte der Stromausfall?", options: ["den ganzen Tag", "zehn Minuten", "eine Stunde"], correct: 2 },
+    ],
+  }
+]
   ],
 
   // ─── KLASSE 5 ─── (Sachtext · Natur, Tiere, Schule · Informationen entnehmen)
