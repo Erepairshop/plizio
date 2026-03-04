@@ -331,7 +331,7 @@ export default function QuickPickPage() {
         const newStreak = updateStreak();
         setStreak(newStreak);
         // Save card and show reward first
-        const rarity = calculateRarity(score + (correct ? 1 : 0), TOTAL_ROUNDS, newStreak);
+        const rarity = calculateRarity(score + (correct ? 1 : 0), TOTAL_ROUNDS, newStreak, false);
         saveCard({
           id: generateCardId(),
           game: "quickpick",
@@ -681,7 +681,7 @@ export default function QuickPickPage() {
       {/* Reward Reveal - shows FIRST after game ends */}
       {gameState === "reward" && (
         <RewardReveal
-          rarity={calculateRarity(score, TOTAL_ROUNDS, streak)}
+          rarity={calculateRarity(score, TOTAL_ROUNDS, streak, false)}
           game="quickpick"
           score={score}
           total={TOTAL_ROUNDS}

@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Layers, Star, User, ChevronDown, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Layers, Star, User, ChevronDown, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import Logo from "@/components/Logo";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
@@ -32,6 +32,7 @@ interface GameDefBase {
   nameKey: string;
   color: string;
   gradient: string;
+  langOnly?: string; // if set, only show for this language
 }
 
 interface CategoryDefBase {
@@ -68,6 +69,7 @@ const TRANSLATIONS = {
       skyclimb: "Sky Climb",
       citydrive: "City Drive",
       mathtest: "Math Test",
+      deutschtest: "Deutsch Test",
       racetrack: "Racetrack",
     },
     ui: {
@@ -92,6 +94,7 @@ const TRANSLATIONS = {
       skyclimb: "Égbolt Mászás",
       citydrive: "Város Vezetés",
       mathtest: "Matematika Teszt",
+      deutschtest: "Német Teszt",
       racetrack: "Pályaverseny",
     },
     ui: {
@@ -116,6 +119,7 @@ const TRANSLATIONS = {
       skyclimb: "Himmelsklettern",
       citydrive: "Stadtfahrt",
       mathtest: "Mathematiktest",
+      deutschtest: "Deutsch Test",
       racetrack: "Rennstrecke",
     },
     ui: {
@@ -140,6 +144,7 @@ const TRANSLATIONS = {
       skyclimb: "Cățărare pe Cer",
       citydrive: "Conducere în Oraș",
       mathtest: "Test de Matematică",
+      deutschtest: "Test de Germană",
       racetrack: "Circuit de curse",
     },
     ui: {
@@ -252,6 +257,14 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         color: "#FFD700",
         gradient: "bg-gradient-to-br from-yellow-500/20 to-amber-500/20",
       },
+      {
+        id: "deutschtest",
+        icon: PenLine,
+        nameKey: "deutschtest",
+        color: "#00D4FF",
+        gradient: "bg-gradient-to-br from-cyan-500/20 to-blue-500/20",
+        langOnly: "de",
+      },
     ],
   },
 ];
@@ -276,14 +289,16 @@ function getCategoriesWithTranslations(lang: string): CategoryDef[] {
     return {
       ...cat,
       label: t.categories[labelKey],
-      games: cat.games.map(game => ({
-        id: game.id,
-        icon: game.icon,
-        nameKey: game.nameKey,
-        name: t.games[game.nameKey as keyof typeof t.games] || "Unknown",
-        color: game.color,
-        gradient: game.gradient,
-      })) as any,
+      games: cat.games
+        .filter(game => !game.langOnly || game.langOnly === currentLang)
+        .map(game => ({
+          id: game.id,
+          icon: game.icon,
+          nameKey: game.nameKey,
+          name: t.games[game.nameKey as keyof typeof t.games] || "Unknown",
+          color: game.color,
+          gradient: game.gradient,
+        })) as any,
     } as CategoryDef;
   });
 }
@@ -318,10 +333,12 @@ export default function Home() {
     const translatedCategories = getCategoriesWithTranslations(lang);
     setCategories(translatedCategories);
 
-    // Initialize open/closed state for all categories
+    // Initialize open/closed state — restore from localStorage if saved
+    const savedRaw = typeof window !== "undefined" ? localStorage.getItem("plizio_cat_open") : null;
+    const savedArr: boolean[] = savedRaw ? JSON.parse(savedRaw) : [];
     const initialOpenState: Record<string, boolean> = {};
-    translatedCategories.forEach((cat) => {
-      initialOpenState[cat.label] = false;
+    translatedCategories.forEach((cat, i) => {
+      initialOpenState[cat.label] = savedArr[i] ?? false;
     });
     setOpenCategories(initialOpenState);
   }, [lang]);
@@ -444,7 +461,12 @@ export default function Home() {
             >
               {/* Category header - clickable to toggle */}
               <button
-                onClick={() => setOpenCategories(prev => ({ ...prev, [cat.label]: !prev[cat.label] }))}
+                onClick={() => setOpenCategories(prev => {
+                  const newState = { ...prev, [cat.label]: !prev[cat.label] };
+                  const arr = categories.map(c => newState[c.label] ?? false);
+                  localStorage.setItem("plizio_cat_open", JSON.stringify(arr));
+                  return newState;
+                })}
                 className="flex items-center gap-3 w-full group cursor-pointer"
               >
                 <div className="h-px flex-1 opacity-20" style={{ background: `linear-gradient(to right, transparent, ${cat.color})` }} />

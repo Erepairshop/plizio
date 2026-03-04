@@ -3,7 +3,7 @@
 import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useRouter } from "next/navigation";
-import { ArrowLeft, X, RotateCcw, ChevronRight } from "lucide-react";
+import { ArrowLeft, X, RotateCcw, ChevronRight, Home } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import type { Language } from "@/lib/language";
 import {
@@ -639,145 +639,174 @@ export default function KodexPage() {
     const hasProgress = exped.completedLevels.length > 0;
     const secretData = getSecretCode(lang, exped.secretCodeIndex);
     return (
-      <main className="min-h-screen flex flex-col px-4 pt-4 pb-6 max-w-md mx-auto">
+      <div className="flex flex-col min-h-screen pb-24">
+
         {/* Header */}
-        <div className="flex items-center gap-3 mb-5">
-          <motion.button
+        <div className="flex items-center justify-between p-4 pt-6">
+          <button
             onClick={() => router.push("/")}
-            className="p-2 rounded-xl bg-white/5 border border-white/10"
-            whileTap={{ scale: 0.9 }}
+            className="flex items-center gap-2 text-white/60 hover:text-white transition-colors"
           >
-            <ArrowLeft size={18} className="text-white/40" />
-          </motion.button>
-          <div>
-            <p className="text-white font-black tracking-[0.2em] text-base">{t.title}</p>
-            <p className="text-white/35 text-xs">{t.subtitle}</p>
+            <Home size={20} /><span className="text-sm font-bold">{t.mainMenu}</span>
+          </button>
+          <div className="flex items-center gap-2">
+            <span className="text-[#FF6B00] text-lg">🔤</span>
+            <span className="text-lg font-black tracking-wider text-[#FF6B00]">{t.title}</span>
           </div>
-          {hasProgress && (
-            <motion.button
-              onClick={restartExpedition}
-              className="ml-auto text-white/25 text-xs flex items-center gap-1"
-              whileTap={{ scale: 0.9 }}
-            >
-              <RotateCcw size={12} />
-              {t.reset}
-            </motion.button>
-          )}
+          <div className="w-24 flex justify-end">
+            {hasProgress && (
+              <button
+                onClick={restartExpedition}
+                className="text-white/25 text-xs flex items-center gap-1 hover:text-white/50 transition-colors"
+              >
+                <RotateCcw size={12} />{t.reset}
+              </button>
+            )}
+          </div>
+        </div>
+
+        <p className="text-center text-white/40 text-sm mb-6 px-4">{t.subtitle}</p>
+
+        {/* Progress bar */}
+        <div className="px-6 mb-5">
+          <div className="flex justify-between text-xs text-white/40 mb-1">
+            <span>{exped.completedLevels.length}/10 {t.level}</span>
+            <span>{exped.collectedLetters.length}/9 🔐</span>
+          </div>
+          <div className="h-2 bg-white/10 rounded-full overflow-hidden">
+            <motion.div
+              className="h-full rounded-full"
+              style={{ background: "linear-gradient(to right, #FF6B00, #FF2D78)" }}
+              initial={false}
+              animate={{ width: `${(exped.completedLevels.length / 10) * 100}%` }}
+              transition={{ duration: 0.5 }}
+            />
+          </div>
         </div>
 
         {/* Secret code preview */}
-        <div className="mb-4 p-3 rounded-2xl border border-purple-500/20 bg-purple-500/5">
-          <div className="flex items-center gap-2 mb-2">
-            <span className="text-lg">🔐</span>
-            <span className="text-purple-300 text-xs font-bold tracking-wider uppercase">{t.secret}</span>
+        <div className="px-4 mb-5 max-w-sm mx-auto w-full">
+          <div className="p-4 rounded-2xl border border-[#FF6B0020] bg-[#FF6B0008]">
+            <div className="flex items-center gap-2 mb-3">
+              <span className="text-base">🔐</span>
+              <span className="text-[#FF6B00] text-xs font-bold tracking-wider uppercase">{t.secret}</span>
+              <span className="ml-auto text-white/30 text-[10px]">{t.secretDesc}</span>
+            </div>
+            <div className="flex flex-wrap gap-1">
+              {[...secretData.text].map((ch, i) =>
+                ch === " " ? (
+                  <div key={i} className="w-3" />
+                ) : (
+                  <div key={i} className="flex flex-col items-center gap-0.5">
+                    <span className={`font-black text-sm w-5 text-center ${
+                      exped.collectedLetters.includes(ch) ? "text-[#FF6B00]" : "text-transparent"
+                    }`}>{ch}</span>
+                    <div className={`w-5 h-[2px] rounded-full ${
+                      exped.collectedLetters.includes(ch) ? "bg-[#FF6B00]/70" : "bg-white/20"
+                    }`} />
+                  </div>
+                )
+              )}
+            </div>
           </div>
-          <div className="flex flex-wrap gap-1">
-            {[...secretData.text].map((ch, i) =>
-              ch === " " ? (
-                <div key={i} className="w-2" />
-              ) : (
-                <div key={i} className="flex flex-col items-center gap-0.5">
-                  <span className={`font-black text-sm w-5 text-center ${
-                    exped.collectedLetters.includes(ch) ? "text-purple-300" : "text-white/0"
-                  }`}>{ch}</span>
-                  <div className={`w-5 h-[2px] rounded-full ${
-                    exped.collectedLetters.includes(ch) ? "bg-purple-400/70" : "bg-white/25"
-                  }`} />
-                </div>
-              )
-            )}
-          </div>
-          <p className="text-white/30 text-[10px] mt-2">{exped.collectedLetters.length}/9 betű megszerezve</p>
         </div>
 
-        {/* Level path */}
-        <div className="flex flex-col gap-2 flex-1">
-          {LEVEL_CONFIGS.map((lc) => {
+        {/* Level list */}
+        <div className="px-4 flex flex-col gap-3 max-w-sm mx-auto w-full">
+          {LEVEL_CONFIGS.map((lc, i) => {
             const done = exped.completedLevels.includes(lc.levelNum);
             const current = lc.levelNum === exped.currentLevel;
             const locked = lc.levelNum > exped.currentLevel;
+            const isSecret = lc.type === "secretcode";
             const letter = done && lc.levelNum <= 9 ? secretData.revealLetters[lc.levelNum - 1] : null;
             return (
               <motion.div
                 key={lc.levelNum}
-                className={`flex items-center gap-3 px-4 py-3 rounded-2xl border ${
-                  current
-                    ? "border-yellow-400/40 bg-yellow-400/8"
-                    : done
-                    ? "border-green-500/25 bg-green-500/5"
-                    : "border-white/6 bg-white/2 opacity-50"
+                initial={{ opacity: 0, x: i % 2 === 0 ? -20 : 20 }}
+                animate={{ opacity: 1, x: 0 }}
+                transition={{ delay: i * 0.04 }}
+                className={`flex items-center gap-4 p-4 rounded-2xl border transition-all ${
+                  done
+                    ? "bg-[#1a0a00] border-[#FF6B0040]"
+                    : isSecret && current
+                    ? "bg-[#1a0028] border-[#B44DFF] shadow-[0_0_20px_#B44DFF33]"
+                    : current
+                    ? "bg-[#1a0c00] border-[#FF6B00] shadow-[0_0_20px_#FF6B0033]"
+                    : "bg-[#0f0f22] border-white/10 opacity-60"
                 }`}
-                initial={{ opacity: 0, x: -16 }}
-                animate={{ opacity: locked ? 0.4 : 1, x: 0 }}
-                transition={{ delay: lc.levelNum * 0.04 }}
               >
-                <div className="w-7 h-7 rounded-full flex items-center justify-center text-sm font-black"
-                  style={{ background: done ? "rgba(34,197,94,0.2)" : current ? "rgba(250,204,21,0.2)" : "rgba(255,255,255,0.05)" }}>
-                  {done ? "✅" : current ? "▶️" : lc.levelNum === 10 ? "🔐" : "🔒"}
+                <div className={`w-12 h-12 rounded-xl flex items-center justify-center text-xl font-black flex-shrink-0 ${
+                  done
+                    ? "bg-[#FF6B0020] text-[#FF6B00]"
+                    : isSecret && current
+                    ? "bg-[#B44DFF20] text-[#B44DFF]"
+                    : current
+                    ? "bg-[#FF6B0020] text-[#FF6B00]"
+                    : "bg-white/5 text-white/30"
+                }`}>
+                  {done ? "✓" : locked ? "🔒" : isSecret ? "🔐" : lc.theme.emoji}
                 </div>
-                <div className="flex-1">
-                  <div className="flex items-center gap-1.5">
-                    <span className="text-white/60 text-xs font-bold">{t.level} {lc.levelNum}</span>
-                    {lc.badgeReward && (
-                      <span className="text-[10px] opacity-60">{BADGE_DEFS[lc.badgeReward].emoji}</span>
+
+                <div className="flex-1 min-w-0">
+                  <div className="flex items-center gap-2">
+                    <span className={`font-black text-sm ${isSecret ? "text-[#B44DFF]" : "text-white"}`}>
+                      {isSecret ? t.secret : `${t.level} ${lc.levelNum}`}
+                    </span>
+                    {lc.badgeReward && !done && (
+                      <span className="text-xs opacity-60">{BADGE_DEFS[lc.badgeReward].emoji}</span>
+                    )}
+                    {done && <span className="text-[#FF6B00] text-xs">✓</span>}
+                  </div>
+                  <div className="text-white/40 text-xs mt-0.5">
+                    {isSecret ? t.secretDesc : lc.theme.label[lang as keyof typeof lc.theme.label] ?? lc.theme.label.en}
+                  </div>
+                  <div className="flex items-center gap-1.5 mt-1.5">
+                    {Array.from({ length: lc.lives }).map((_, idx) => (
+                      <span key={idx} className="text-[10px]">❤️</span>
+                    ))}
+                    {letter && (
+                      <span className="ml-1 px-1.5 py-0.5 rounded-md bg-[#FF6B0020] border border-[#FF6B0040] text-[#FF6B00] font-black text-xs">{letter}</span>
                     )}
                   </div>
-                  <div className="flex items-center gap-1.5">
-                    <span className="text-sm">{lc.theme.emoji}</span>
-                    <span className={`text-xs font-bold ${done ? "text-green-400" : current ? "text-yellow-300" : "text-white/30"}`}>
-                      {lc.type === "secretcode" ? t.secret : lc.theme.label[lang as keyof typeof lc.theme.label] ?? lc.theme.label.en}
-                    </span>
-                  </div>
                 </div>
-                {letter && (
-                  <div className="w-7 h-7 rounded-lg bg-purple-500/20 border border-purple-400/30 flex items-center justify-center">
-                    <span className="text-purple-300 font-black text-sm">{letter}</span>
-                  </div>
+
+                {!locked && (
+                  <button
+                    onClick={() => startLevel(lc.levelNum, exped)}
+                    className={`flex-shrink-0 px-4 py-2 rounded-xl font-black text-sm transition-all active:scale-95 ${
+                      isSecret
+                        ? "bg-[#B44DFF] text-white shadow-[0_0_12px_#B44DFF66]"
+                        : current
+                        ? "bg-[#FF6B00] text-white shadow-[0_0_12px_#FF6B0066]"
+                        : "bg-white/10 text-white/60"
+                    }`}
+                  >
+                    {done ? "↩" : <ChevronRight size={18} />}
+                  </button>
                 )}
-                <div className="flex flex-col items-end gap-1">
-                  {!done && !locked && (
-                    <div className="flex items-center gap-0.5">
-                      {Array.from({ length: lc.lives }).map((_, i) => (
-                        <span key={i} className="text-[10px]">❤️</span>
-                      ))}
-                    </div>
-                  )}
-                  {!locked && (
-                    <button
-                      onClick={() => startLevel(lc.levelNum, exped)}
-                      className={`px-3 py-1.5 rounded-xl font-black text-xs transition-all active:scale-95 ${
-                        lc.levelNum === 10
-                          ? "bg-purple-500/20 border border-purple-400/40 text-purple-300"
-                          : current
-                          ? "bg-yellow-400 text-black shadow-[0_0_10px_rgba(250,204,21,0.4)]"
-                          : "bg-white/10 text-white/50"
-                      }`}
-                    >
-                      {done ? "↩" : <ChevronRight size={14} />}
-                    </button>
-                  )}
-                </div>
               </motion.div>
             );
           })}
         </div>
 
-        {/* Badges in inventory */}
+        {/* Badge inventory */}
         {exped.earnedBadges.length > 0 && (
-          <div className="mt-4 p-3 rounded-2xl border border-white/8 bg-white/3">
-            <p className="text-white/30 text-[10px] font-bold tracking-wider mb-2">BADGE KÉSZLET</p>
-            <div className="flex gap-2 flex-wrap">
-              {exped.earnedBadges.map((bid, i) => (
-                <div key={i} className="flex items-center gap-1 px-2 py-1 rounded-xl bg-purple-500/10 border border-purple-400/20">
-                  <span className="text-base">{BADGE_DEFS[bid].emoji}</span>
-                  <span className="text-purple-300 text-[10px] font-bold">{BADGE_DEFS[bid].name[lang as keyof typeof BADGE_DEFS[typeof bid]["name"]]}</span>
-                </div>
-              ))}
+          <div className="mt-8 px-4 max-w-sm mx-auto w-full">
+            <div className="p-4 rounded-2xl bg-white/5 border border-white/10">
+              <p className="text-white/40 text-xs font-bold mb-3 tracking-wider">BADGE KÉSZLET</p>
+              <div className="flex gap-2 flex-wrap">
+                {exped.earnedBadges.map((bid, i) => (
+                  <div key={i} className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-[#FF6B0010] border border-[#FF6B0030]">
+                    <span className="text-base">{BADGE_DEFS[bid].emoji}</span>
+                    <span className="text-[#FF6B00] text-xs font-bold">{BADGE_DEFS[bid].name[lang as keyof typeof BADGE_DEFS[typeof bid]["name"]]}</span>
+                  </div>
+                ))}
+              </div>
             </div>
           </div>
         )}
 
-      </main>
+      </div>
     );
   }
 

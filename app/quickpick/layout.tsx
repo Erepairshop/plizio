@@ -1,4 +1,3 @@
-import RelatedGames from "@/components/RelatedGames";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -54,7 +53,6 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       {children}
-      <RelatedGames game="quickpick" />
     </>
   );
 }

@@ -860,7 +860,7 @@
     },
     {
       "id": "5-grund-062",
-      "question": "Mely szám hiányzik? 34 + __ = 57",
+      "question": "Welche Zahl fehlt? 34 + __ = 57",
       "difficulty": "easy",
       "type": "multiple-choice",
       "options": [
@@ -888,7 +888,7 @@
     },
     {
       "id": "5-grund-064",
-      "question": "Mely szám hiányzik? 145 + __ = 300",
+      "question": "Welche Zahl fehlt? 145 + __ = 300",
       "difficulty": "easy",
       "type": "multiple-choice",
       "options": [
@@ -916,7 +916,7 @@
     },
     {
       "id": "5-grund-066",
-      "question": "Mely szám hiányzik? 567 + __ = 892",
+      "question": "Welche Zahl fehlt? 567 + __ = 892",
       "difficulty": "medium",
       "type": "multiple-choice",
       "options": [
@@ -944,7 +944,7 @@
     },
     {
       "id": "5-grund-068",
-      "question": "Mely szám hiányzik? 678 + __ = 1000",
+      "question": "Welche Zahl fehlt? 678 + __ = 1000",
       "difficulty": "medium",
       "type": "multiple-choice",
       "options": [
@@ -972,7 +972,7 @@
     },
     {
       "id": "5-grund-070",
-      "question": "Mely szám hiányzik? 2345 + __ = 3000",
+      "question": "Welche Zahl fehlt? 2345 + __ = 3000",
       "difficulty": "hard",
       "type": "multiple-choice",
       "options": [
@@ -1098,7 +1098,7 @@
     },
     {
       "id": "5-grund-079",
-      "question": "Mely szám nagyobb: 45 + 30 vagy 50 + 20?",
+      "question": "Welche Zahl ist größer: 45 + 30 oder 50 + 20?",
       "difficulty": "easy",
       "type": "multiple-choice",
       "options": [
@@ -1140,7 +1140,7 @@
     },
     {
       "id": "5-grund-082",
-      "question": "Mely szám hiányzik? 15 + 25 + __ = 60",
+      "question": "Welche Zahl fehlt? 15 + 25 + __ = 60",
       "difficulty": "easy",
       "type": "multiple-choice",
       "options": [
@@ -1168,7 +1168,7 @@
     },
     {
       "id": "5-grund-084",
-      "question": "Mely szám hiányzik? 78 + __ = 100",
+      "question": "Welche Zahl fehlt? 78 + __ = 100",
       "difficulty": "easy",
       "type": "multiple-choice",
       "options": [
@@ -1210,7 +1210,7 @@
     },
     {
       "id": "5-grund-087",
-      "question": "Mely szám hiányzik? 500 + __ = 750",
+      "question": "Welche Zahl fehlt? 500 + __ = 750",
       "difficulty": "easy",
       "type": "multiple-choice",
       "options": [
@@ -1238,7 +1238,7 @@
     },
     {
       "id": "5-grund-089",
-      "question": "Mely szám hiányzik? __ + 456 = 789",
+      "question": "Welche Zahl fehlt? __ + 456 = 789",
       "difficulty": "medium",
       "type": "multiple-choice",
       "options": [
@@ -1280,7 +1280,7 @@
     },
     {
       "id": "5-grund-092",
-      "question": "Mely szám hiányzik? 57 - __ = 34",
+      "question": "Welche Zahl fehlt? 57 - __ = 34",
       "difficulty": "easy",
       "type": "multiple-choice",
       "options": [
@@ -1308,7 +1308,7 @@
     },
     {
       "id": "5-grund-094",
-      "question": "Mely szám hiányzik? 300 - __ = 145",
+      "question": "Welche Zahl fehlt? 300 - __ = 145",
       "difficulty": "easy",
       "type": "multiple-choice",
       "options": [
@@ -1336,7 +1336,7 @@
     },
     {
       "id": "5-grund-096",
-      "question": "Mely szám hiányzik? 892 - __ = 567",
+      "question": "Welche Zahl fehlt? 892 - __ = 567",
       "difficulty": "medium",
       "type": "multiple-choice",
       "options": [
@@ -1364,7 +1364,7 @@
     },
     {
       "id": "5-grund-098",
-      "question": "Mely szám hiányzik? 1000 - __ = 678",
+      "question": "Welche Zahl fehlt? 1000 - __ = 678",
       "difficulty": "medium",
       "type": "multiple-choice",
       "options": [
@@ -1392,7 +1392,7 @@
     },
     {
       "id": "5-grund-100",
-      "question": "Mely szám hiányzik? 3000 - __ = 2345",
+      "question": "Welche Zahl fehlt? 3000 - __ = 2345",
       "difficulty": "hard",
       "type": "multiple-choice",
       "options": [
@@ -1518,7 +1518,7 @@
     },
     {
       "id": "5-grund-109",
-      "question": "Mely szám nagyobb: 60 - 20 vagy 50 - 10?",
+      "question": "Welche Zahl ist größer: 60 - 20 oder 50 - 10?",
       "difficulty": "easy",
       "type": "multiple-choice",
       "options": [
@@ -1560,7 +1560,7 @@
     },
     {
       "id": "5-grund-112",
-      "question": "Mely szám hiányzik? 60 - 20 - __ = 15",
+      "question": "Welche Zahl fehlt? 60 - 20 - __ = 15",
       "difficulty": "easy",
       "type": "multiple-choice",
       "options": [
@@ -1588,7 +1588,7 @@
     },
     {
       "id": "5-grund-114",
-      "question": "Mely szám hiányzik? 100 - __ = 22",
+      "question": "Welche Zahl fehlt? 100 - __ = 22",
       "difficulty": "easy",
       "type": "multiple-choice",
       "options": [
@@ -1630,7 +1630,7 @@
     },
     {
       "id": "5-grund-117",
-      "question": "Mely szám hiányzik? 750 - __ = 500",
+      "question": "Welche Zahl fehlt? 750 - __ = 500",
       "difficulty": "easy",
       "type": "multiple-choice",
       "options": [
@@ -1658,7 +1658,7 @@
     },
     {
       "id": "5-grund-119",
-      "question": "Mely szám hiányzik? 789 - __ = 456",
+      "question": "Welche Zahl fehlt? 789 - __ = 456",
       "difficulty": "medium",
       "type": "multiple-choice",
       "options": [

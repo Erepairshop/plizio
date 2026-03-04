@@ -41,13 +41,12 @@ export function getRarityConfig(rarity: CardRarity) {
   return RARITY_CONFIG[rarity];
 }
 
-export function calculateRarity(score: number, total: number, streak: number): CardRarity {
+export function calculateRarity(score: number, total: number, streak: number, allowGold = true): CardRarity {
   const pct = (score / total) * 100;
-  // Streak gives a small bonus but doesn't override score
   const streakBonus = Math.min(streak * 2, 15);
   const effectivePct = pct + streakBonus;
   if (pct === 100 && streak >= 3) return "legendary";
-  if (effectivePct >= 95) return "gold";
+  if (allowGold && effectivePct >= 95) return "gold";
   if (effectivePct >= 70) return "silver";
   return "bronze";
 }

@@ -77,7 +77,7 @@ export default function SpotDiffPage() {
       setTotalTime(elapsed);
       const newStreak = updateStreak();
       setStreak(newStreak);
-      const rarity = calculateRarity(currentScore, MAX_SCORE, newStreak);
+      const rarity = calculateRarity(currentScore, MAX_SCORE, newStreak, false);
       saveCard({
         id: generateCardId(),
         game: "spotdiff",
@@ -279,7 +279,7 @@ export default function SpotDiffPage() {
       {/* Reward */}
       {gameState === "reward" && (
         <RewardReveal
-          rarity={calculateRarity(score, MAX_SCORE, streak)}
+          rarity={calculateRarity(score, MAX_SCORE, streak, false)}
           game="spotdiff"
           score={score}
           total={MAX_SCORE}

@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ArrowLeft, RotateCcw, Trophy, Timer, Delete, CheckCircle, XCircle, ChevronRight } from "lucide-react";
+import { ArrowLeft, RotateCcw, Trophy, Timer, Delete, CheckCircle, XCircle, ChevronRight, Home } from "lucide-react";
 import Link from "next/link";
 import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId, type CardRarity } from "@/lib/cards";
@@ -487,7 +487,7 @@ export default function WordScramblePage() {
     if (levelCfg.level === 10 && passed) {
       rarity = "legendary";
     } else {
-      const raw = calculateRarity(finalScore, levelCfg.wordCount, streak);
+      const raw = calculateRarity(finalScore, levelCfg.wordCount, streak, false);
       rarity = raw === "legendary" ? "gold" : raw;
     }
     saveCard({ id: generateCardId(), game: "wordscramble", rarity, score: finalScore, total: levelCfg.wordCount, date: new Date().toISOString() });
@@ -605,89 +605,120 @@ export default function WordScramblePage() {
   if (screen === "expedition") {
     const hasProgress = exped.completedLevels.length > 0;
     return (
-      <main className="min-h-screen flex flex-col px-4 pt-4 pb-6 max-w-md mx-auto">
+      <div className="flex flex-col min-h-screen pb-24">
+
         {/* Header */}
-        <div className="flex items-center gap-3 mb-5">
-          <Link href="/">
-            <motion.div className="p-2 rounded-xl bg-white/5 border border-white/10" whileTap={{ scale: 0.9 }}>
-              <ArrowLeft size={18} className="text-white/40" />
-            </motion.div>
+        <div className="flex items-center justify-between p-4 pt-6">
+          <Link href="/" className="flex items-center gap-2 text-white/60 hover:text-white transition-colors">
+            <Home size={20} /><span className="text-sm font-bold">{t.mainMenu}</span>
           </Link>
-          <div>
-            <p className="text-white font-black tracking-[0.15em] text-sm">{t.title}</p>
-            <p className="text-white/35 text-xs">{t.subtitle}</p>
+          <div className="flex items-center gap-2">
+            <span className="text-[#FF6B00] text-lg">🔀</span>
+            <span className="text-lg font-black tracking-wider text-[#FF6B00]">{t.title}</span>
           </div>
-          {hasProgress && (
-            <motion.button
-              onClick={restartExpedition}
-              className="ml-auto text-white/25 text-xs flex items-center gap-1"
-              whileTap={{ scale: 0.9 }}
-            >
-              <RotateCcw size={12} />
-              {t.reset}
-            </motion.button>
-          )}
+          <div className="w-24 flex justify-end">
+            {hasProgress && (
+              <button
+                onClick={restartExpedition}
+                className="text-white/25 text-xs flex items-center gap-1 hover:text-white/50 transition-colors"
+              >
+                <RotateCcw size={12} />{t.reset}
+              </button>
+            )}
+          </div>
         </div>
 
-        {/* Level path */}
-        <div className="flex flex-col gap-2 flex-1">
-          {LEVEL_CONFIGS.map((lc) => {
+        <p className="text-center text-white/40 text-sm mb-6 px-4">{t.subtitle}</p>
+
+        {/* Progress bar */}
+        <div className="px-6 mb-8">
+          <div className="flex justify-between text-xs text-white/40 mb-1">
+            <span>{exped.completedLevels.length}/10 {t.level}</span>
+          </div>
+          <div className="h-2 bg-white/10 rounded-full overflow-hidden">
+            <motion.div
+              className="h-full rounded-full"
+              style={{ background: "linear-gradient(to right, #FF6B00, #FF2D78)" }}
+              initial={false}
+              animate={{ width: `${(exped.completedLevels.length / 10) * 100}%` }}
+              transition={{ duration: 0.5 }}
+            />
+          </div>
+        </div>
+
+        {/* Level list */}
+        <div className="px-4 flex flex-col gap-3 max-w-sm mx-auto w-full">
+          {LEVEL_CONFIGS.map((lc, i) => {
             const done = exped.completedLevels.includes(lc.level);
             const current = lc.level === exped.currentLevel;
             const locked = lc.level > exped.currentLevel;
+            const isBoss = lc.level === 10;
             const levelScore = exped.levelScores[lc.level];
             return (
               <motion.div
                 key={lc.level}
-                className={`flex items-center gap-3 px-4 py-3 rounded-2xl border ${
-                  current
-                    ? "border-yellow-400/40 bg-yellow-400/8"
-                    : done
-                    ? "border-emerald-500/25 bg-emerald-500/5"
-                    : "border-white/6 bg-white/2"
+                initial={{ opacity: 0, x: i % 2 === 0 ? -20 : 20 }}
+                animate={{ opacity: 1, x: 0 }}
+                transition={{ delay: i * 0.04 }}
+                className={`flex items-center gap-4 p-4 rounded-2xl border transition-all ${
+                  done
+                    ? "bg-[#1a0a00] border-[#FF6B0040]"
+                    : isBoss && current
+                    ? "bg-[#1a0028] border-[#B44DFF] shadow-[0_0_20px_#B44DFF33]"
+                    : current
+                    ? "bg-[#1a0c00] border-[#FF6B00] shadow-[0_0_20px_#FF6B0033]"
+                    : "bg-[#0f0f22] border-white/10 opacity-60"
                 }`}
-                initial={{ opacity: 0, x: -16 }}
-                animate={{ opacity: locked ? 0.35 : 1, x: 0 }}
-                transition={{ delay: lc.level * 0.04 }}
               >
-                <div className="w-8 h-8 rounded-full flex items-center justify-center text-base"
-                  style={{ background: done ? "rgba(34,197,94,0.2)" : current ? "rgba(250,204,21,0.2)" : "rgba(255,255,255,0.05)" }}>
-                  {done ? "✅" : current ? lc.emoji : locked ? "🔒" : lc.emoji}
+                <div className={`w-12 h-12 rounded-xl flex items-center justify-center text-xl font-black flex-shrink-0 ${
+                  done
+                    ? "bg-[#FF6B0020] text-[#FF6B00]"
+                    : isBoss && current
+                    ? "bg-[#B44DFF20] text-[#B44DFF]"
+                    : current
+                    ? "bg-[#FF6B0020] text-[#FF6B00]"
+                    : "bg-white/5 text-white/30"
+                }`}>
+                  {done ? "✓" : locked ? "🔒" : lc.emoji}
                 </div>
+
                 <div className="flex-1 min-w-0">
-                  <div className="flex items-center gap-1.5">
-                    <span className="text-white/60 text-xs font-bold">{t.level} {lc.level}</span>
-                    {lc.level === 10 && <span className="text-[9px] font-black text-amber-400 bg-amber-400/15 px-1.5 py-0.5 rounded-full">{t.boss}</span>}
-                    {lc.badgeReward && (
-                      <span className="text-[11px] opacity-70">{BADGE_DEFS[lc.badgeReward].emoji}</span>
+                  <div className="flex items-center gap-2">
+                    <span className={`font-black text-sm ${isBoss ? "text-[#B44DFF]" : "text-white"}`}>
+                      {isBoss ? t.boss : ""}{t.level} {lc.level}
+                    </span>
+                    {lc.badgeReward && !done && (
+                      <span className="text-xs opacity-60">{BADGE_DEFS[lc.badgeReward].emoji}</span>
+                    )}
+                    {done && <span className="text-[#FF6B00] text-xs">✓</span>}
+                  </div>
+                  <div className="text-white/40 text-xs mt-0.5 flex gap-3">
+                    <span>{lc.wordCount} {t.levelInfo}: {lc.minCorrect}</span>
+                  </div>
+                  <div className="flex gap-1 mt-1.5">
+                    {lc.fakeLetters > 0 && (
+                      <span className="text-[#FF2D78] text-xs">+{lc.fakeLetters} fake</span>
+                    )}
+                    {done && levelScore !== undefined && (
+                      <span className="text-[#FF6B00] text-xs font-bold">{levelScore}/{lc.wordCount}</span>
                     )}
                   </div>
-                  <div className="text-[10px] text-white/30">
-                    {lc.wordCount} {t.levelInfo}: {lc.minCorrect}
-                  </div>
                 </div>
-                <div className="flex flex-col items-end gap-1">
-                  {done && levelScore !== undefined && (
-                    <span className="text-emerald-400 text-xs font-bold">{levelScore}/{lc.wordCount}</span>
-                  )}
-                  {lc.fakeLetters > 0 && !locked && (
-                    <span className="text-[9px] text-pink-400/60 font-bold">+{lc.fakeLetters} fake</span>
-                  )}
-                  {!locked && (
-                    <button
-                      onClick={() => startLevel(lc.level, exped)}
-                      className={`px-3 py-1.5 rounded-xl font-black text-xs transition-all active:scale-95 ${
-                        lc.level === 10
-                          ? "bg-amber-400/20 border border-amber-400/40 text-amber-300"
-                          : current
-                          ? "bg-emerald-500 text-white shadow-[0_0_10px_rgba(0,255,136,0.3)]"
-                          : "bg-white/10 text-white/50"
-                      }`}
-                    >
-                      {done ? "↩" : <ChevronRight size={14} />}
-                    </button>
-                  )}
-                </div>
+
+                {!locked && (
+                  <button
+                    onClick={() => startLevel(lc.level, exped)}
+                    className={`flex-shrink-0 px-4 py-2 rounded-xl font-black text-sm transition-all active:scale-95 ${
+                      isBoss
+                        ? "bg-[#B44DFF] text-white shadow-[0_0_12px_#B44DFF66]"
+                        : current
+                        ? "bg-[#FF6B00] text-white shadow-[0_0_12px_#FF6B0066]"
+                        : "bg-white/10 text-white/60"
+                    }`}
+                  >
+                    {done ? "↩" : <ChevronRight size={18} />}
+                  </button>
+                )}
               </motion.div>
             );
           })}
@@ -695,20 +726,22 @@ export default function WordScramblePage() {
 
         {/* Badge inventory */}
         {exped.earnedBadges.length > 0 && (
-          <div className="mt-4 p-3 rounded-2xl border border-white/8 bg-white/3">
-            <p className="text-white/30 text-[10px] font-bold tracking-wider mb-2 uppercase">Power Badges</p>
-            <div className="flex gap-2 flex-wrap">
-              {exped.earnedBadges.map((bid, i) => (
-                <div key={i} className="flex items-center gap-1 px-2 py-1 rounded-xl bg-purple-500/10 border border-purple-400/20">
-                  <span className="text-base">{BADGE_DEFS[bid].emoji}</span>
-                  <span className="text-purple-300 text-[10px] font-bold">{BADGE_DEFS[bid].name[lang as Language]}</span>
-                </div>
-              ))}
+          <div className="mt-8 px-4 max-w-sm mx-auto w-full">
+            <div className="p-4 rounded-2xl bg-white/5 border border-white/10">
+              <p className="text-white/40 text-xs font-bold mb-3 tracking-wider">POWER BADGES</p>
+              <div className="flex gap-2 flex-wrap">
+                {exped.earnedBadges.map((bid, i) => (
+                  <div key={i} className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-[#FF6B0010] border border-[#FF6B0030]">
+                    <span className="text-base">{BADGE_DEFS[bid].emoji}</span>
+                    <span className="text-[#FF6B00] text-xs font-bold">{BADGE_DEFS[bid].name[lang as Language]}</span>
+                  </div>
+                ))}
+              </div>
             </div>
           </div>
         )}
 
-      </main>
+      </div>
     );
   }
 

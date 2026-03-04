@@ -421,7 +421,7 @@ export default function MathTestPage() {
   // Load saved country + grade on mount
   useEffect(() => {
     const LANG_TO_COUNTRY: Record<string, string> = { hu: "HU", de: "DE", en: "US", ro: "RO" };
-    const langCode = LANG_TO_COUNTRY[getLanguage()] || "DE";
+    const langCode = LANG_TO_COUNTRY[getLanguage()] || "US";
     const savedCode = langCode;
     setCountry(getCountryByCode(savedCode));
     saveCountry(savedCode);
@@ -617,7 +617,7 @@ export default function MathTestPage() {
 
     const streak = updateStreak();
     updateStats({ highestStreak: streak });
-    const rarity = calculateRarity(gradeResult.score, gradeResult.total, streak);
+    const rarity = calculateRarity(gradeResult.score, gradeResult.total, streak, false);
     setCardRarity(rarity);
 
     saveCard({
@@ -660,6 +660,33 @@ export default function MathTestPage() {
 
   // Resolved themes: all countries use Supabase get_curriculum RPC
   const resolvedThemes = useMemo((): ThemeSelectorTheme[] => {
+    const cc = country?.code;
+    const langPrefix =
+      cc === 'US' || cc === 'GB' ? 'en' :
+      cc === 'AT' || cc === 'CH' ? 'de' : null;
+      // DE, US, GB, RO, HU → Supabase; AT/CH → getDEThemes() generátor (nincs Supabase adatuk)
+
+    if (langPrefix && selectedGrade) {
+      const srcThemes =
+        langPrefix === 'en' ? getENThemes(selectedGrade) :
+        langPrefix === 'de' ? getDEThemes(selectedGrade) :
+        getROThemes(selectedGrade);
+      return srcThemes.map(theme => ({
+        id: theme.key,
+        name: theme.name,
+        color: theme.color,
+        icon: theme.icon,
+        description: theme.name,
+        subtopics: theme.topics.map(topic => ({
+          id: `${langPrefix}_topic_${selectedGrade}_${topic.key}`,
+          name: topic.name,
+          color: topic.color,
+          icon: topic.icon,
+          taskFile: '',
+          taskIds: [],
+        })),
+      }));
+    }
     if (supabaseCurriculum && supabaseCurriculum.themes.length > 0) {
       return mapCurriculumToThemes(supabaseCurriculum);
     }
@@ -715,7 +742,184 @@ export default function MathTestPage() {
     setKlassenarbeitTimeLeft(40 * 60); // 40 minutes = 2400 seconds
     localStorage.setItem("klassenarbeitStartTime", now.toString());
 
+    // Supabase HU slug → HU_THEMES generator topic key mapping
+    const HU_SLUG_TO_KEY: Record<string, string> = {
+      // Grade 1
+      'osszead-20': 'add20', 'kivonas-20': 'sub20', 'osszehasonlitas': 'compare',
+      'egyszer-szoveges': 'word', 'sikidomok': 'compare', 'ora-penz': 'add10',
+      // Grade 2
+      'osszead-100': 'add100', 'kivonas-100': 'sub100', 'tizesek': 'add100',
+      'szorzotabla': 'mul', 'osztas': 'div',
+      'szamsorok': 'sequence', 'hosszusag-ido': 'units', 'penzszamolas': 'units',
+      // Grade 3
+      'muveletek-1000': 'add1000', 'irasbeli': 'add1000',
+      'szorzas': 'mul', 'hianyzo': 'mul',
+      'szamsorozatok': 'sequence', 'hossz-tomeg-ido': 'units', 'atvaltas': 'units',
+      // Grade 4
+      'szamok-10000': 'place', 'ossz-kiv': 'mul', 'szorz-oszt': 'mul',
+      'kerulet-terulet': 'geo', 'testek': 'geo', 'szimmetria': 'geo',
+      'hosszusagmeres': 'units', 'tomeg-terfogat': 'units', 'idomeres': 'units',
+      'tablazatok': 'geo', 'valoszinuseg': 'geo',
+      // Grade 5
+      'nagy-szamok': 'large', 'muveleti-sorrend': 'ops',
+      'tortszamok': 'frac', 'szazalekszamitas': 'pct',
+      'formak': 'geo', 'kedvezmeny': 'word', 'muvsorrend-alk': 'word',
+      // Grade 6
+      'negativ-muveletek': 'neg', 'szamegyenes': 'neg',
+      'tort-szorzas': 'frac', 'tort-osztas': 'frac',
+      'aranyok': 'ratio', 'szazalek': 'pct',
+      'teruletszamitas': 'geo', 'sebesseg': 'ratio',
+      // Grade 7
+      'hatvanyok': 'powers', 'algebrai-kif': 'algebra',
+      'linearis-egyenletek': 'eq', 'egyenlet-felallitas': 'eq',
+      'szogek': 'tri', 'kulonleges-haromszogek': 'tri',
+      'atfogo': 'pyth', 'befogo': 'pyth',
+      // Grade 8
+      'negyzetgyokok': 'sqrt', 'osszetett-kif': 'complex',
+      'ketoldalas': 'eq', 'megoldas': 'eq',
+      'linearis-fuggv': 'func', 'fuggvenyertekek': 'func',
+      'alapok': 'prob', 'alkalmazasok': 'prob',
+      // közös (több osztálynál is)
+      'szoveges-feladatok': 'word', 'szoveges': 'word',
+      'mertekegysegek': 'units',
+    };
+
+    // DE Supabase slug → DE_THEMES generator key mapping
+    const DE_SLUG_TO_KEY: Record<string, string> = {
+      // Grade 1
+      'addition-bis-20': 'add20', 'subtraktion-bis-20': 'sub20',
+      'vergleichen-ordnen': 'compare', 'fehlende-zahlen': 'missing',
+      'einfache-textaufgaben': 'word', 'rechengeschichten': 'word',
+      'formen-erkennen': 'compare', 'uhr-und-geld': 'add10',
+      // Grade 2
+      'addition-bis-100': 'add100', 'subtraktion-bis-100': 'sub100',
+      'zehnerzahlen': 'add100', 'einmaleins-2-5-10': 'mul',
+      'einfache-division': 'div', 'textaufgaben': 'word',
+      'zahlenreihen': 'sequence', 'laengen-zeit': 'units', 'geld-rechnen': 'units',
+      // Grade 3
+      'add-sub-1000': 'add1000', 'schriftlich': 'add1000',
+      'multiplikation': 'mul', 'division': 'div', 'fehlende-faktoren': 'mul',
+      'zahlenfolgen': 'sequence', 'laenge-gewicht-zeit': 'units', 'umrechnen': 'units',
+      // Grade 4
+      'zahlen-bis-1000': 'place', 'addition-subtraktion': 'mul',
+      'multiplikation-division': 'mul', 'sachaufgaben': 'word',
+      'umfang-flaeche': 'geo', '3d-koerper': 'geo', 'symmetrie-dreiecke': 'geo',
+      'laengen-kilometer': 'units', 'gewicht-volumen': 'units',
+      'zeit': 'units', 'umrechnung': 'units',
+      'tabellen-diagramme': 'geo', 'wahrscheinlichkeit': 'geo', 'datenanalyse': 'geo',
+      // Grade 5
+      'grosse-zahlen': 'large', 'rechenregeln': 'ops',
+      'bruchrechnung': 'frac', 'prozentrechnung': 'pct',
+      'formen-masse': 'geo', 'rabatt-einkauf': 'word', 'rechenregeln-anwenden': 'word',
+      // Grade 6
+      'rechnen-negativ': 'neg', 'zahlenstrahl': 'neg',
+      'brueche-multiplizieren': 'frac', 'brueche-dividieren': 'frac',
+      'verhaeltnisse': 'ratio', 'prozent': 'pct',
+      'flaechen': 'geo', 'geschwindigkeit': 'ratio',
+      // Grade 7
+      'potenzen': 'powers', 'algebra': 'algebra',
+      'lineare-gleichungen': 'eq', 'gleichungen-aufstellen': 'eq',
+      'winkel': 'tri', 'besondere-dreiecke': 'tri',
+      'hypotenuse': 'pyth', 'kathete': 'pyth',
+      // Grade 8
+      'quadratwurzeln': 'sqrt', 'komplexe-terme': 'complex',
+      'zwei-seiten': 'eq', 'gleichungen-loesen': 'eq',
+      'lineare-funktionen': 'func', 'funktionswerte': 'func',
+      'grundlagen': 'prob', 'anwendungen': 'prob',
+    };
+
     try {
+      // ─── EN / DE / RO: generator-based topic selection ──────────
+      const generatorTopicIds = selectedSubtopics.filter(id =>
+        id.startsWith('en_topic_') || id.startsWith('de_topic_') ||
+        id.startsWith('ro_topic_')
+      );
+      if (generatorTopicIds.length > 0) {
+        const cc = country!.code;
+        const grade = selectedGrade!;
+        const TARGET = 15;
+        const perTopic = Math.ceil(TARGET / generatorTopicIds.length);
+        const seen = new Set<string>();
+        const qs: MathQuestion[] = [];
+        for (const tid of generatorTopicIds) {
+          // Format: {en|de}_topic_{grade}_{topicKey}
+          const topicKey = tid.split('_').slice(3).join('_');
+          const pool = generateTopicQuestions(grade, topicKey, cc, perTopic);
+          for (const q of pool) {
+            if (!seen.has(q.question) && qs.length < TARGET) {
+              seen.add(q.question);
+              qs.push(q);
+            }
+          }
+        }
+        setQuestions(qs);
+        setAnswers(new Array(qs.length).fill(null));
+        setRealisticKlassenarbeit(null);
+        setAvatarMood("idle");
+        setGameState("playing");
+        setGeneratingTest(false);
+        return;
+      }
+
+      // ─── Supabase countries (HU, US, GB, RO): slug mapping → generator ──
+      // DE, HU, US, GB, RO → Supabase témák; AT/CH → generator (nincs Supabase adatuk)
+      const isSupabaseCountry = !['AT','CH'].includes(country?.code ?? '');
+      if (isSupabaseCountry) {
+        const cc = country!.code;
+        const grade = selectedGrade!;
+        const isDE = cc === 'DE';
+        const slugMap = isDE ? DE_SLUG_TO_KEY : HU_SLUG_TO_KEY;
+        const TARGET = 15;
+        const seen = new Set<string>();
+        const qs: MathQuestion[] = [];
+        const topicKeys: string[] = [];
+        for (const theme of resolvedThemes) {
+          for (const sub of theme.subtopics) {
+            if (!selectedSubtopics.includes(sub.id)) continue;
+            const key = sub.slug ? slugMap[sub.slug] : undefined;
+            if (key && !topicKeys.includes(key)) topicKeys.push(key);
+          }
+        }
+        if (topicKeys.length > 0) {
+          const perTopic = Math.ceil(TARGET / topicKeys.length);
+          for (const key of topicKeys) {
+            const pool = generateTopicQuestions(grade, key, cc, perTopic);
+            for (const q of pool) {
+              if (!seen.has(q.question) && qs.length < TARGET) {
+                seen.add(q.question);
+                qs.push(q);
+              }
+            }
+          }
+        }
+        if (qs.length > 0) {
+          setQuestions(qs);
+          setAnswers(new Array(qs.length).fill(null));
+          setRealisticKlassenarbeit(null);
+          setAvatarMood("idle");
+          setGameState("playing");
+          setGeneratingTest(false);
+          return;
+        }
+        // fallback: összes téma generátor cc-vel
+        const allTopics = (isDE ? getDEThemes(grade) : getHUThemes(grade)).flatMap(t => t.topics);
+        for (let i = 0; i < TARGET * 5 && qs.length < TARGET; i++) {
+          const topic = allTopics[Math.floor(Math.random() * allTopics.length)];
+          const gen = topic.generators[Math.floor(Math.random() * topic.generators.length)];
+          const q = gen(cc);
+          if (!seen.has(q.question)) { seen.add(q.question); qs.push(q); }
+        }
+        if (qs.length > 0) {
+          setQuestions(qs);
+          setAnswers(new Array(qs.length).fill(null));
+          setRealisticKlassenarbeit(null);
+          setAvatarMood("idle");
+          setGameState("playing");
+          setGeneratingTest(false);
+          return;
+        }
+      }
+
       // ─── Collect task IDs from selected subtopics ─────────────
       // Works with both JSON themes (slug-based) and Supabase themes (UUID-based)
       const allTaskIds: string[] = [];

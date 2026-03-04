@@ -1400,7 +1400,7 @@ export default function RacetrackPage() {
     if (gameState !== "reward" || cardSaved) return;
     // Position-based rarity: 1st = gold (guaranteed high), 2nd = silver, 3rd+ = lower
     const posScore = finishPosition === 1 ? 95 : finishPosition === 2 ? 75 : finishPosition === 3 ? 55 : Math.max(10, 50 - finishPosition * 5);
-    const rarity = calculateRarity(posScore, 100, 1);
+    const rarity = calculateRarity(posScore, 100, 1, false);
 
     saveCard({
       id: generateCardId(),
@@ -1450,7 +1450,7 @@ export default function RacetrackPage() {
   const cardType = finishPosition === 1 ? "GOLD" : finishPosition === 2 ? "SILVER" : finishPosition === 3 ? "BRONZE" : "COMMON";
 
   const posScore = finishPosition === 1 ? 95 : finishPosition === 2 ? 75 : finishPosition === 3 ? 55 : Math.max(10, 50 - finishPosition * 5);
-  const rarity = useMemo(() => calculateRarity(posScore, 100, 1), [posScore]);
+  const rarity = useMemo(() => calculateRarity(posScore, 100, 1, false), [posScore]);
   const winStreak = typeof window !== "undefined" ? getWinStreak() : 0;
 
   const hud = hudRef.current;
