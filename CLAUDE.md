@@ -526,6 +526,37 @@ Hozzáadott kérdéstípusok:
 
 ---
 
+## Hosting & Cloudflare konfiguráció
+
+### Jelenlegi setup
+- **Hosting:** Hostinger (LiteSpeed webszerver)
+- **CDN/DNS:** Cloudflare (proxy bekapcsolva)
+- **Cloudflare SSL mód:** Flexible (Cloudflare → Hostinger HTTP-n megy)
+- **Hostinger Force HTTPS:** **KI** (ne kapcsold be! Cloudflare kezeli a HTTPS-t)
+
+### _next/ mappa 403 probléma — megoldva
+
+A Hostinger LiteSpeed szerver alapból **blokkolja a `_next/` kezdetű URL-eket** (403 Forbidden).
+Ez azért van, mert a LiteSpeed biztonsági okokból tiltja az aláhúzással kezdődő könyvtárakat.
+
+**Megoldás: Cloudflare Transform Rule (URL Rewrite)**
+
+Cloudflare → Rules → Transform Rules → URL Rewrite Rules:
+- **Rule name:** `Rewrite _next to next_static`
+- **Wildcard pattern:** `https://plizio.com/_next/*`
+- **Path → Rewrite to (Dynamic):** `/next_static/${1}`
+
+Ez azt jelenti:
+1. Böngésző kér: `/_next/static/css/file.css`
+2. Cloudflare átírja → `/next_static/static/css/file.css` (mielőtt Hostingerhez érne)
+3. Hostinger LiteSpeed kap: `/next_static/...` → nem blokkolja ✅
+
+**Deploy parancsban ezért van `mv _next next_static`** — a fájlok ténylegesen a `next_static/` mappában vannak a szerveren.
+
+**`.htaccess`** (`public/.htaccess`) megmarad a repóban de a Cloudflare Transform Rule a tényleges megoldás.
+
+---
+
 ## SSH Pull + Deploy parancs minden feladat végén
 
 **FONTOS:** Minden feladat befejezésekor küldj a felhasználónak 2 copy-paste kész parancsot.
