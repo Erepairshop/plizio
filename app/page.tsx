@@ -71,6 +71,8 @@ const TRANSLATIONS = {
       mathtest: "Math Test",
       deutschtest: "Deutsch Test",
       racetrack: "Racetrack",
+      sequencerush: "Sequence Rush",
+      wordhunt: "Word Hunt",
     },
     ui: {
       comingSoon: "COMING SOON",
@@ -96,6 +98,8 @@ const TRANSLATIONS = {
       mathtest: "Matematika Teszt",
       deutschtest: "Német Teszt",
       racetrack: "Pályaverseny",
+      sequencerush: "Szekvencia Roham",
+      wordhunt: "Szóvadász",
     },
     ui: {
       comingSoon: "HAMAROSAN",
@@ -121,6 +125,8 @@ const TRANSLATIONS = {
       mathtest: "Mathematiktest",
       deutschtest: "Deutsch Test",
       racetrack: "Rennstrecke",
+      sequencerush: "Sequenz Rush",
+      wordhunt: "Wortjagd",
     },
     ui: {
       comingSoon: "BALD VERFÜGBAR",
@@ -146,6 +152,8 @@ const TRANSLATIONS = {
       mathtest: "Test de Matematică",
       deutschtest: "Test de Germană",
       racetrack: "Circuit de curse",
+      sequencerush: "Sequence Rush",
+      wordhunt: "Vânătoare de Cuvinte",
     },
     ui: {
       comingSoon: "CÂT CURÂND",
@@ -200,6 +208,20 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         nameKey: "wordscramble",
         color: "#34D399",
         gradient: "bg-gradient-to-br from-emerald-500/20 to-teal-500/20",
+      },
+      {
+        id: "sequencerush",
+        icon: Layers,
+        nameKey: "sequencerush",
+        color: "#00D4FF",
+        gradient: "bg-gradient-to-br from-cyan-500/20 to-blue-500/20",
+      },
+      {
+        id: "wordhunt",
+        icon: Search,
+        nameKey: "wordhunt",
+        color: "#00FF88",
+        gradient: "bg-gradient-to-br from-green-500/20 to-emerald-500/20",
       },
       {
         id: "milliomos",
