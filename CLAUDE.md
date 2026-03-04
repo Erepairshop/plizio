@@ -53,9 +53,33 @@ A repo tisztán van szervezve:
 ```ts
 type CardRarity = "bronze" | "silver" | "gold" | "legendary"
 interface GameCard { id: string; game: string; theme?: string; rarity: CardRarity; score: number; total: number; date: string }
-// calculateRarity(score, total, streak): pct===100 && streak>=3 → legendary; effectivePct>=95 → gold; >=70 → silver; else bronze
-// streakBonus = min(streak*2, 15); effectivePct = pct + streakBonus
+// calculateRarity(score, total, streak, allowGold=true):
+//   pct===100 && streak>=3 → legendary
+//   allowGold && effectivePct>=95 → gold
+//   effectivePct>=70 → silver; else bronze
+//   streakBonus = min(streak*2, 15); effectivePct = pct + streakBonus
 ```
+
+**Kártya ritkaság szabályok játékonként:**
+| Játék | Gold lehetséges? | Legendary lehetséges? |
+|-------|-----------------|----------------------|
+| Reflex Rush | ✅ level 5-től | ✅ level 10 win |
+| Number Rush | ✅ level 4-től | ✅ level 10 win |
+| Kodex | ❌ `calculateRarity(..., false)` | ✅ level 10 win |
+| Sky Climb | ❌ `calculateRarity(..., false)` | ❌ |
+| Quick Pick | ❌ `calculateRarity(..., false)` | ❌ |
+| Math Test | ❌ `calculateRarity(..., false)` | ❌ |
+| Milliomos | ❌ `calculateRarity(..., false)` | ❌ |
+| Word Scramble | ❌ `calculateRarity(..., false)` | ❌ |
+| Spot Diff | ❌ `calculateRarity(..., false)` | ❌ |
+| Memory Flash | ❌ `calculateRarity(..., false)` | ❌ |
+| Race Track | ❌ `calculateRarity(..., false)` | ❌ |
+| City Drive | ❌ `calculateRarity(..., false)` | ❌ |
+| Daily | ❌ `calculateRarity(..., false)` | ❌ |
+| Deutsch Test | ❌ `calculateRarity(..., false)` | ❌ |
+
+**SZABÁLY:** Level-alapú játékok (Reflex/Number Rush) saját `calcRarity()` függvényt használnak (time-based).
+Összes többi játék: `calculateRarity(score, total, streak, false)` — **sosem ad gold-ot**.
 
 **`lib/milestones.ts`**
 ```ts
@@ -121,6 +145,16 @@ interface GloveDef { id; name; icon; price; color }
 | `/kodex` playing | `72×72px` `overflow-hidden` | water-sink animáció: `y: wrongCount/MAX_WRONG * 28` |
 | `/profile` | `w-52 h-52 sm:w-60 sm:h-60` | responsive, nincs overflow-hidden |
 | `/shop` | `w-40 h-40` | flex shrink-0, tab-on belül |
+| `/reflexrush` expedition header | `w-20 h-20` | jobb oldalon, `opacity` animáció (NEM scale!) |
+| `/reflexrush` levelComplete | `w-60 h-60` | középen, victory mood |
+| `/reflexrush` levelFailed | `w-52 h-52` | középen, disappointed mood |
+| `/numberrush` expedition header | `w-20 h-20` | jobb oldalon, `opacity` animáció (NEM scale!) |
+| `/numberrush` levelComplete | `w-60 h-60` | középen, victory mood |
+| `/numberrush` levelFailed | `w-52 h-52` | középen, disappointed mood |
+
+**⚠️ KRITIKUS:** `fixed=false` avatar konténerén SOHA ne használj `initial={{ scale: 0 }}` vagy `initial={{ width: 0 }}`!
+→ A Three.js canvas 0px mérettel inicializálódik és üres marad.
+→ Mindig `initial={{ opacity: 0 }} animate={{ opacity: 1 }}` animációt használj!
 
 **Canvas beállítások (ne változtasd meg):**
 ```ts
@@ -171,6 +205,123 @@ earnedCard: CardRarity|null  // CSAK level 10-nél legendary
 - Legendary kártya CSAK level 10 teljesítésekor mentődik/jelenik meg
 - `saveExped()` = setExped + localStorage mentés egyszerre
 - `freshExpedition()` = `{ currentLevel:1, completedLevels:[], collectedLetters:[], earnedBadges:["vocals","shield","key"], secretCodeIndex: random(0-4) }`
+
+### Reflex Rush (`app/reflexrush/page.tsx`) — state térkép
+
+**localStorage:** `reflexrush_expedition_v1` → `{ currentLevel: number, completedLevels: number[] }`
+
+**Screen states:** `"expedition" | "playing" | "levelComplete" | "levelFailed"`
+
+**LevelConfig mezők:**
+```ts
+interface LevelConfig {
+  level: number; gridSize: number; duration: number; target: number;
+  hasGold: boolean; hasRed: boolean; hasLightning: boolean; hasBomb: boolean; hasTrapGreen: boolean;
+  spawnInterval: number; maxActiveCells: number; cellLifetime: number;
+}
+```
+
+**LEVELS táblázat (10 szint):**
+```
+lv1:  3×3  35s  target:8   green only
+lv2:  3×3  30s  target:12  +gold
+lv3:  4×4  35s  target:18  +red
+lv4:  4×4  30s  target:20  +red  spawnInterval:1000
+lv5:  4×4  28s  target:24  +lightning  (first level with gold card eligible)
+lv6:  5×5  35s  target:28  +bomb
+lv7:  5×5  30s  target:34  spawnInterval:800
+lv8:  5×5  32s  target:40  spawnInterval:750
+lv9:  6×6  32s  target:48  spawnInterval:680
+lv10: 6×6  38s  target:58  +trapGreen  spawnInterval:650
+```
+
+**CellType:** `"idle" | "green" | "trapgreen" | "gold" | "red" | "lightning" | "bomb"`
+- `trapgreen`: vizuálisan UGYANOLYAN mint a green (zöld keret, ✓ ikon) — de -5 pont! TRAP!
+- `trapFlash: Set<number>` state: 500ms-ig piros 💥 flash a trapgreen érintésekor
+
+**Fontos state változók:**
+```ts
+screen: Screen
+score: number; timeLeft: number; combo: number
+activeLevel: number; completedLevels: number[]
+cells: CellType[]         // gridSize×gridSize méretű flat tömb
+trapFlash: Set<number>    // aktív trap flash indexek
+level10FailsRef: useRef(0) // level10 újrapróbálások száma
+```
+
+**Level 10 ease after 3 fails:**
+```ts
+const cfg = (levelNum === 10 && level10FailsRef.current >= 3)
+  ? { ...LEVELS[9], target: 46, duration: 44, hasTrapGreen: false }
+  : LEVELS[levelNum - 1];
+```
+
+**calcRarity:** `(timeLeft, duration, level)` → level<5: max silver; level>=5: r>0.55→gold, r>0.25→silver; level10 win → legendary
+
+**SpawnInterval weights (level10):** green:50, gold:15, red:20, lightning:5, bomb:16, trapgreen:12
+
+---
+
+### Number Rush (`app/numberrush/page.tsx`) — state térkép
+
+**localStorage:** `numberrush_expedition_v1` → `{ currentLevel: number, completedLevels: number[] }`
+
+**Screen states:** `"expedition" | "playing" | "levelComplete" | "levelFailed"`
+
+**NRLevelConfig:**
+```ts
+interface NRLevelConfig {
+  level: number; gridSize: number; count: number;
+  flashDelay: number;   // ms, 0 = sosem tűnnek el
+  timeLimit: number;    // másodperc
+  hasPowerups: boolean; powerupCount: number;
+}
+```
+
+**LEVELS táblázat (10 szint):**
+```
+lv1:  3×3  count:6   flashDelay:0     45s  no powerups
+lv2:  3×3  count:9   flashDelay:0     50s  no powerups
+lv3:  4×4  count:12  flashDelay:0     50s  no powerups
+lv4:  4×4  count:12  flashDelay:8000  45s  2 powerups  (first level with gold eligible)
+lv5:  4×4  count:14  flashDelay:7500  42s  2 powerups
+lv6:  5×5  count:16  flashDelay:7000  45s  3 powerups
+lv7:  5×5  count:18  flashDelay:6500  42s  3 powerups
+lv8:  5×5  count:20  flashDelay:6000  40s  3 powerups
+lv9:  6×6  count:24  flashDelay:5800  45s  4 powerups
+lv10: 6×6  count:28  flashDelay:5500  42s  4 powerups  (→ legendary on win)
+```
+
+**GridCell típusok:**
+```ts
+type GridCell =
+  | { type: "number"; value: number; revealed: boolean }
+  | { type: "powerup"; kind: PowerupKind; used: boolean }
+  | { type: "empty" }
+type PowerupKind = "freeze" | "reveal" | "shield" | "rush"
+```
+
+**Power-up hatások:**
+- `freeze`: +8s az időhöz
+- `reveal`: 3s-ig minden szám látható
+- `shield`: következő hiba nem számít
+- `rush`: 5s-ig 2× gyorsabb az idő? (vizuális rush effekt)
+
+**Fontos state változók:**
+```ts
+screen: Screen
+grid: GridCell[]; gridRef: useRef   // gridRef a stale closure elkerülésére
+nextExpected: number                // soron következő szám (1-től count-ig)
+timeLeft: number; found: number
+shieldActive: boolean; revealActive: boolean; rushActive: boolean
+activeLevel: number; completedLevels: number[]
+```
+
+**buildGrid(cfg):** összekeveri a számokat (1..count) + powerupokat + empty cellákat → shuffled flat array
+
+**calcRarity(timeLeft, timeLimit, level):** level<5: max silver; level>=5: timeLeft/timeLimit>0.55→gold, >0.25→silver; level===10 win → legendary
+
+---
 
 ### Kártya csererendszer (`app/collection/page.tsx`)
 - `MICRO_PER_CARD`: legendary=60, gold=6, silver=3, bronze=2 · `MICRO_PER_STAR`=60
@@ -317,6 +468,54 @@ Hozzáadott kérdéstípusok:
 | `mobileOptimization.ts` | Mobil-specifikus logika |
 | `pdfExport.ts`, `generateTestPdf.ts` | PDF export |
 | `citydrive` autók | localStorage: `citydrive_owned_cars`, `citydrive_active_car` |
+
+### Főoldal (`app/page.tsx`) — accordion state
+
+- Kategória accordion state: `localStorage.getItem("plizio_cat_open")` → JSON boolean array
+- Indexek a `categories` tömb sorrendje szerint (language-independent!)
+- **Default:** összecsukva (false)
+- Toggle-nél elmenti: `localStorage.setItem("plizio_cat_open", JSON.stringify(arr))`
+- Inicializálás: `const savedArr: boolean[] = savedRaw ? JSON.parse(savedRaw) : []`
+
+### Összes localStorage kulcs összefoglaló
+
+| Kulcs | Tartalom |
+|-------|---------|
+| `plizio_cards` | GameCard[] |
+| `plizio_redeemed_ids` | string[] |
+| `plizio_special_cards` | number |
+| `plizio_share_today` | string (dátum) |
+| `plizio_stats` | PlayerStats |
+| `plizio_milestones_claimed` | string[] |
+| `plizio_avatar_gender` | "male"\|"female" |
+| `plizio_owned_skins` | string[] |
+| `plizio_active_skin` | string |
+| `plizio_owned_<type>` | string[] (top/bottom/shoe/cape/glasses/gloves) |
+| `plizio_active_<type>` | string\|null |
+| `plizio_owned_hats` | string[] |
+| `plizio_active_hat` | string |
+| `plizio_owned_trails` | string[] |
+| `plizio_active_trail` | string |
+| `plizio_owned_faces` | string[] |
+| `plizio_active_face` | string |
+| `plizio_cat_open` | boolean[] (főoldal accordion) |
+| `kodex_expedition_v2` | ExpeditionSave |
+| `reflexrush_expedition_v1` | RRSave |
+| `numberrush_expedition_v1` | NRSave |
+| `citydrive_owned_cars` | string[] |
+| `citydrive_active_car` | string |
+
+---
+
+### ⚠️ Fontos "NE CSINÁLD" szabályok
+
+1. **RelatedGames komponens** — EL VAN TÁVOLÍTVA minden layout.tsx-ből. NE ADD VISSZA!
+2. **`opengraph-image.tsx`** — static exportnál NE használd (font fetch elbukik)
+3. **`npm run build`** — NEM MŰKÖDIK, mindig `npx next build`
+4. **Avatar + scale:0 animáció** — Three.js canvas törik (lásd AvatarCompanion szekció)
+5. **calculateRarity 4. param** — non-level játékoknál mindig `false`-t adj át
+
+---
 
 ### Token-spórolási szabályok (Claude számára)
 - Ha a feladat CLAUDE.md-ben dokumentált fájlt érint → NE olvasd az egész fájlt, csak a szükséges részt (Read offset+limit)
