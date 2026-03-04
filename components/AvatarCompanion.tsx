@@ -301,6 +301,8 @@ function FaceFeatures({
   rightLidRef,
   leftIrisRef,
   rightIrisRef,
+  leftBrowRef,
+  rightBrowRef,
 }: {
   face: FaceDef | null;
   skinColor: string;
@@ -309,6 +311,8 @@ function FaceFeatures({
   rightLidRef: React.RefObject<THREE.Mesh | null>;
   leftIrisRef: React.RefObject<THREE.Mesh | null>;
   rightIrisRef: React.RefObject<THREE.Mesh | null>;
+  leftBrowRef: React.RefObject<THREE.Mesh | null>;
+  rightBrowRef: React.RefObject<THREE.Mesh | null>;
 }) {
   const eyeCol = face?.eyeColor || '#2a2a2a';
   const mouthCol = face?.mouthColor || '#b06060';
@@ -371,13 +375,15 @@ function FaceFeatures({
         <sphereGeometry args={[0.047, 8, 4, 0, Math.PI * 2, 0, Math.PI * 0.5]} />
         <meshStandardMaterial color={skinColor} roughness={0.6} side={THREE.DoubleSide} />
       </mesh>
-      {/* Angry left brow */}
-      {eyeType === 'angry' && (
-        <mesh position={[-0.085, 0.1, 0.2]} rotation={[0, 0, 0.25]}>
-          <boxGeometry args={[0.055, 0.012, 0.008]} />
-          <meshStandardMaterial color="#3b2a1a" roughness={0.7} />
-        </mesh>
-      )}
+      {/* Left eyebrow — always rendered, animated by blink */}
+      <mesh
+        ref={leftBrowRef}
+        position={[-0.085, 0.1, 0.2]}
+        rotation={[0, 0, eyeType === 'angry' ? 0.3 : 0.07]}
+      >
+        <boxGeometry args={[0.052, 0.011, 0.007]} />
+        <meshStandardMaterial color="#2d1e0e" roughness={0.72} />
+      </mesh>
 
       {/* Right eye white */}
       <mesh position={[0.08, 0.04, 0.19]}>
@@ -417,13 +423,15 @@ function FaceFeatures({
         <sphereGeometry args={[0.047, 8, 4, 0, Math.PI * 2, 0, Math.PI * 0.5]} />
         <meshStandardMaterial color={skinColor} roughness={0.6} side={THREE.DoubleSide} />
       </mesh>
-      {/* Angry right brow */}
-      {eyeType === 'angry' && (
-        <mesh position={[0.085, 0.1, 0.2]} rotation={[0, 0, -0.25]}>
-          <boxGeometry args={[0.055, 0.012, 0.008]} />
-          <meshStandardMaterial color="#3b2a1a" roughness={0.7} />
-        </mesh>
-      )}
+      {/* Right eyebrow — always rendered, animated by blink */}
+      <mesh
+        ref={rightBrowRef}
+        position={[0.085, 0.1, 0.2]}
+        rotation={[0, 0, eyeType === 'angry' ? -0.3 : -0.07]}
+      >
+        <boxGeometry args={[0.052, 0.011, 0.007]} />
+        <meshStandardMaterial color="#2d1e0e" roughness={0.72} />
+      </mesh>
 
       {/* Mouth */}
       {mouthType === 'none' ? null : mouthType === 'tongue' ? (
@@ -501,6 +509,8 @@ function Character({
   const rightLidRef = useRef<THREE.Mesh | null>(null);
   const leftIrisRef = useRef<THREE.Mesh | null>(null);
   const rightIrisRef = useRef<THREE.Mesh | null>(null);
+  const leftBrowRef = useRef<THREE.Mesh | null>(null);
+  const rightBrowRef = useRef<THREE.Mesh | null>(null);
   const mouthRef = useRef<THREE.Mesh | null>(null);
   const leftArmRef = useRef<THREE.Group>(null);
   const rightArmRef = useRef<THREE.Group>(null);
@@ -525,13 +535,13 @@ function Character({
 
   const actualBodyColor = activeTop ? activeTop.color : (activeSkin ? activeSkin.bodyColor : legacyOutfitColor);
   const actualBodyAccent = activeTop?.accent || actualBodyColor;
-  const actualLegColor = activeBottom ? activeBottom.color : (activeSkin ? activeSkin.limbColor : '#3c3c3c');
-  const actualShoeColor = activeShoe ? activeShoe.color : (activeSkin ? activeSkin.shoeColor : '#2a2a2a');
+  const actualLegColor = activeBottom ? activeBottom.color : (activeSkin ? activeSkin.limbColor : '#1e3a5f');
+  const actualShoeColor = activeShoe ? activeShoe.color : (activeSkin ? activeSkin.shoeColor : '#3a2010');
   const actualHandColor = activeGloves ? activeGloves.color : actualLimbColor;
   const skinDark = new THREE.Color(actualSkinColor).multiplyScalar(0.82).getStyle();
 
-  // Hair color (fixed natural dark brown, or skin's headColor for fantasy skins)
-  const hairColor = activeSkin && activeSkin.id !== 'default' ? activeSkin.headColor : '#3b2a1a';
+  // Hair color (warm chestnut brown for default, or skin's headColor for fantasy skins)
+  const hairColor = activeSkin && activeSkin.id !== 'default' ? activeSkin.headColor : '#4a2e10';
 
   useEffect(() => {
     moodRef.current = mood;
@@ -625,6 +635,9 @@ function Character({
       : 0;
     if (leftLidRef.current) leftLidRef.current.scale.y = 0.01 + lidClose * 1.2;
     if (rightLidRef.current) rightLidRef.current.scale.y = 0.01 + lidClose * 1.2;
+    // Eyebrow raise during blink
+    if (leftBrowRef.current) leftBrowRef.current.position.y = 0.1 + lidClose * 0.025;
+    if (rightBrowRef.current) rightBrowRef.current.position.y = 0.1 + lidClose * 0.025;
 
     // Gaze
     if (leftIrisRef.current && rightIrisRef.current) {
@@ -880,6 +893,8 @@ function Character({
           rightLidRef={rightLidRef}
           leftIrisRef={leftIrisRef}
           rightIrisRef={rightIrisRef}
+          leftBrowRef={leftBrowRef}
+          rightBrowRef={rightBrowRef}
         />
 
         {/* Glasses on face */}
@@ -1092,10 +1107,11 @@ export default function AvatarCompanion({
         gl={{ antialias: false, powerPreference: 'low-power', alpha: true, stencil: false }}
         style={{ background: 'transparent' }}
       >
-        <hemisphereLight color="#f0e8dd" groundColor="#8a7a6a" intensity={0.5} />
-        <ambientLight intensity={0.3} />
-        <directionalLight position={[-3, 5, 3]} intensity={0.5} color="#fff0e0" />
-        <directionalLight position={[2, 1, -2]} intensity={0.12} color="#d0e0ff" />
+        <hemisphereLight color="#f8f0e8" groundColor="#a09080" intensity={0.7} />
+        <ambientLight intensity={0.45} />
+        <directionalLight position={[-3, 5, 3]} intensity={0.65} color="#fff8ee" />
+        <directionalLight position={[2, 1, -2]} intensity={0.2} color="#ccdaff" />
+        <directionalLight position={[0, -2, 3]} intensity={0.1} color="#ffe8c8" />
         <Character
           mood={mood}
           skinColor={skinColor}
