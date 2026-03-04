@@ -639,7 +639,7 @@ export default function KodexPage() {
     const hasProgress = exped.completedLevels.length > 0;
     const secretData = getSecretCode(lang, exped.secretCodeIndex);
     return (
-      <div className="flex flex-col min-h-screen bg-[#0A0A1A] text-white select-none pb-24">
+      <div className="flex flex-col min-h-screen pb-24">
 
         {/* Header */}
         <div className="flex items-center justify-between p-4 pt-6">
@@ -650,8 +650,8 @@ export default function KodexPage() {
             <Home size={20} /><span className="text-sm font-bold">{t.mainMenu}</span>
           </button>
           <div className="flex items-center gap-2">
-            <span className="text-lg">🔐</span>
-            <span className="text-lg font-black tracking-wider text-[#B44DFF]">{t.title}</span>
+            <span className="text-[#FF6B00] text-lg">🔤</span>
+            <span className="text-lg font-black tracking-wider text-[#FF6B00]">{t.title}</span>
           </div>
           <div className="w-24 flex justify-end">
             {hasProgress && (
@@ -676,7 +676,7 @@ export default function KodexPage() {
           <div className="h-2 bg-white/10 rounded-full overflow-hidden">
             <motion.div
               className="h-full rounded-full"
-              style={{ background: "linear-gradient(to right, #B44DFF, #FF2D78)" }}
+              style={{ background: "linear-gradient(to right, #FF6B00, #FF2D78)" }}
               initial={false}
               animate={{ width: `${(exped.completedLevels.length / 10) * 100}%` }}
               transition={{ duration: 0.5 }}
@@ -686,10 +686,10 @@ export default function KodexPage() {
 
         {/* Secret code preview */}
         <div className="px-4 mb-5 max-w-sm mx-auto w-full">
-          <div className="p-4 rounded-2xl border border-purple-500/20 bg-purple-500/5">
+          <div className="p-4 rounded-2xl border border-[#FF6B0020] bg-[#FF6B0008]">
             <div className="flex items-center gap-2 mb-3">
               <span className="text-base">🔐</span>
-              <span className="text-purple-300 text-xs font-bold tracking-wider uppercase">{t.secret}</span>
+              <span className="text-[#FF6B00] text-xs font-bold tracking-wider uppercase">{t.secret}</span>
               <span className="ml-auto text-white/30 text-[10px]">{t.secretDesc}</span>
             </div>
             <div className="flex flex-wrap gap-1">
@@ -699,10 +699,10 @@ export default function KodexPage() {
                 ) : (
                   <div key={i} className="flex flex-col items-center gap-0.5">
                     <span className={`font-black text-sm w-5 text-center ${
-                      exped.collectedLetters.includes(ch) ? "text-purple-300" : "text-transparent"
+                      exped.collectedLetters.includes(ch) ? "text-[#FF6B00]" : "text-transparent"
                     }`}>{ch}</span>
                     <div className={`w-5 h-[2px] rounded-full ${
-                      exped.collectedLetters.includes(ch) ? "bg-purple-400/70" : "bg-white/20"
+                      exped.collectedLetters.includes(ch) ? "bg-[#FF6B00]/70" : "bg-white/20"
                     }`} />
                   </div>
                 )
@@ -727,28 +727,26 @@ export default function KodexPage() {
                 transition={{ delay: i * 0.04 }}
                 className={`flex items-center gap-4 p-4 rounded-2xl border transition-all ${
                   done
-                    ? "bg-[#0d0020] border-[#B44DFF40]"
+                    ? "bg-[#1a0a00] border-[#FF6B0040]"
                     : isSecret && current
                     ? "bg-[#1a0028] border-[#B44DFF] shadow-[0_0_20px_#B44DFF33]"
                     : current
-                    ? "bg-[#1a1200] border-[#FFD700] shadow-[0_0_20px_#FFD70033]"
+                    ? "bg-[#1a0c00] border-[#FF6B00] shadow-[0_0_20px_#FF6B0033]"
                     : "bg-[#0f0f22] border-white/10 opacity-60"
                 }`}
               >
-                {/* Icon */}
                 <div className={`w-12 h-12 rounded-xl flex items-center justify-center text-xl font-black flex-shrink-0 ${
                   done
-                    ? "bg-[#B44DFF20] text-[#B44DFF]"
+                    ? "bg-[#FF6B0020] text-[#FF6B00]"
                     : isSecret && current
                     ? "bg-[#B44DFF20] text-[#B44DFF]"
                     : current
-                    ? "bg-[#FFD70020] text-[#FFD700]"
+                    ? "bg-[#FF6B0020] text-[#FF6B00]"
                     : "bg-white/5 text-white/30"
                 }`}>
-                  {done ? "✅" : locked ? "🔒" : isSecret ? "🔐" : lc.theme.emoji}
+                  {done ? "✓" : locked ? "🔒" : isSecret ? "🔐" : lc.theme.emoji}
                 </div>
 
-                {/* Info */}
                 <div className="flex-1 min-w-0">
                   <div className="flex items-center gap-2">
                     <span className={`font-black text-sm ${isSecret ? "text-[#B44DFF]" : "text-white"}`}>
@@ -757,7 +755,7 @@ export default function KodexPage() {
                     {lc.badgeReward && !done && (
                       <span className="text-xs opacity-60">{BADGE_DEFS[lc.badgeReward].emoji}</span>
                     )}
-                    {done && <span className="text-[#B44DFF] text-xs">✓</span>}
+                    {done && <span className="text-[#FF6B00] text-xs">✓</span>}
                   </div>
                   <div className="text-white/40 text-xs mt-0.5">
                     {isSecret ? t.secretDesc : lc.theme.label[lang as keyof typeof lc.theme.label] ?? lc.theme.label.en}
@@ -767,12 +765,11 @@ export default function KodexPage() {
                       <span key={idx} className="text-[10px]">❤️</span>
                     ))}
                     {letter && (
-                      <span className="ml-1 px-1.5 py-0.5 rounded-md bg-purple-500/20 border border-purple-400/30 text-purple-300 font-black text-xs">{letter}</span>
+                      <span className="ml-1 px-1.5 py-0.5 rounded-md bg-[#FF6B0020] border border-[#FF6B0040] text-[#FF6B00] font-black text-xs">{letter}</span>
                     )}
                   </div>
                 </div>
 
-                {/* Button */}
                 {!locked && (
                   <button
                     onClick={() => startLevel(lc.levelNum, exped)}
@@ -780,7 +777,7 @@ export default function KodexPage() {
                       isSecret
                         ? "bg-[#B44DFF] text-white shadow-[0_0_12px_#B44DFF66]"
                         : current
-                        ? "bg-[#FFD700] text-black shadow-[0_0_12px_#FFD70066]"
+                        ? "bg-[#FF6B00] text-white shadow-[0_0_12px_#FF6B0066]"
                         : "bg-white/10 text-white/60"
                     }`}
                   >
@@ -794,14 +791,14 @@ export default function KodexPage() {
 
         {/* Badge inventory */}
         {exped.earnedBadges.length > 0 && (
-          <div className="mt-6 px-4 max-w-sm mx-auto w-full">
+          <div className="mt-8 px-4 max-w-sm mx-auto w-full">
             <div className="p-4 rounded-2xl bg-white/5 border border-white/10">
               <p className="text-white/40 text-xs font-bold mb-3 tracking-wider">BADGE KÉSZLET</p>
               <div className="flex gap-2 flex-wrap">
                 {exped.earnedBadges.map((bid, i) => (
-                  <div key={i} className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-purple-500/10 border border-purple-400/20">
+                  <div key={i} className="flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-[#FF6B0010] border border-[#FF6B0030]">
                     <span className="text-base">{BADGE_DEFS[bid].emoji}</span>
-                    <span className="text-purple-300 text-xs font-bold">{BADGE_DEFS[bid].name[lang as keyof typeof BADGE_DEFS[typeof bid]["name"]]}</span>
+                    <span className="text-[#FF6B00] text-xs font-bold">{BADGE_DEFS[bid].name[lang as keyof typeof BADGE_DEFS[typeof bid]["name"]]}</span>
                   </div>
                 ))}
               </div>
