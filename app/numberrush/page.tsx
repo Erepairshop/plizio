@@ -1,402 +1,928 @@
 "use client";
 
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Hash, Trophy, Timer, RotateCcw, X, Eye, EyeOff, Zap } from "lucide-react";
+import { Hash, Home, RotateCcw, Lock, Check, ChevronRight } from "lucide-react";
 import Link from "next/link";
-import ResultCard from "@/components/ResultCard";
-import RewardReveal from "@/components/RewardReveal";
-import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
-import { incrementTotalGames, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
+import { saveCard, generateCardId, type CardRarity } from "@/lib/cards";
+import { incrementTotalGames } from "@/lib/milestones";
+import AvatarCompanion from "@/components/AvatarCompanion";
+import { getGender } from "@/lib/gender";
+import type { AvatarGender } from "@/lib/gender";
+import { getActiveSkin, getSkinDef } from "@/lib/skins";
+import { getActiveFace, getFaceDef } from "@/lib/faces";
+import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
+import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
+import { useLang } from "@/components/LanguageProvider";
 
-type GameState = "ready" | "memorize" | "playing" | "finished" | "reward" | "result";
-type Difficulty = "easy" | "medium" | "hard" | "expert";
+// ─── i18n ────────────────────────────────────────────────────────────────────
 
-interface DifficultyConfig {
-  label: string;
-  cols: number;
-  total: number;
-  color: string;
-  border: string;
-  bg: string;
-  memorizeTime: number; // seconds to show numbers before hiding in flash mode
-}
-
-const DIFFICULTIES: Record<Difficulty, DifficultyConfig> = {
-  easy:   { label: "Easy",   cols: 3, total: 9,  color: "text-emerald-400", border: "border-emerald-500/40", bg: "bg-emerald-500/20", memorizeTime: 4 },
-  medium: { label: "Medium", cols: 4, total: 16, color: "text-cyan-400",    border: "border-cyan-500/40",    bg: "bg-cyan-500/20",    memorizeTime: 5 },
-  hard:   { label: "Hard",   cols: 5, total: 25, color: "text-orange-400",  border: "border-orange-500/40",  bg: "bg-orange-500/20",  memorizeTime: 6 },
-  expert: { label: "Expert", cols: 6, total: 36, color: "text-rose-400",    border: "border-rose-500/40",    bg: "bg-rose-500/20",    memorizeTime: 8 },
+const TRANSLATIONS = {
+  en: {
+    title: "NUMBER RUSH",
+    subtitle: "10 levels · Tap in order · Beat the clock",
+    home: "Home",
+    progress: "Progress",
+    levelsOf: "levels",
+    levelLabel: "Level",
+    boss: "🏆 BOSS — ",
+    done: "✓ done",
+    found: "FOUND",
+    time: "TIME",
+    next: "NEXT",
+    levelDone: "✅ LEVEL DONE!",
+    bossDone: "🏆 COMPLETE!",
+    timeUp: "❌ TIME'S UP!",
+    finalScore: "NUMBERS FOUND",
+    retry: "Retry",
+    nextLevel: "Next Level",
+    expeditionMap: "Expedition Map",
+    newExpedition: "🔄 New Expedition",
+    hint: "Tap numbers in order  1 → 2 → 3...",
+    legendaryDesc: "You earned the legendary Number Rush card!",
+    rarity: { bronze: "BRONZE", silver: "SILVER", gold: "GOLD", legendary: "LEGENDARY" },
+    card: "CARD",
+    scoredPoints: "Numbers found",
+    goalWas: "Goal was",
+    almostThere: "— So close!",
+    shieldActive: "🛡️ SHIELD ACTIVE",
+    revealActive: "👁️ REVEAL ACTIVE",
+    rushActive: "⚡ RUSH ACTIVE",
+    features: { flash: "Flash", powerups: "Power-ups" },
+  },
+  hu: {
+    title: "SZÁMROHAM",
+    subtitle: "10 szint · Sorban érintsd a számokat · Győzd le az időt",
+    home: "Főoldal",
+    progress: "Haladás",
+    levelsOf: "szint",
+    levelLabel: "Szint",
+    boss: "🏆 BOSS — ",
+    done: "✓ kész",
+    found: "MEGTALÁLT",
+    time: "IDŐ",
+    next: "KÖVETKEZŐ",
+    levelDone: "✅ SZINT KÉSZ!",
+    bossDone: "🏆 KÉSZ!",
+    timeUp: "❌ IDEJE LEJÁRT!",
+    finalScore: "MEGTALÁLT SZÁMOK",
+    retry: "Újra",
+    nextLevel: "Következő szint",
+    expeditionMap: "Expedíció térkép",
+    newExpedition: "🔄 Új expedíció",
+    hint: "Sorban érintsd a számokat  1 → 2 → 3...",
+    legendaryDesc: "Megszerezted a legendás Számroham kártyát!",
+    rarity: { bronze: "BRONZ", silver: "EZÜST", gold: "ARANY", legendary: "LEGENDÁS" },
+    card: "KÁRTYA",
+    scoredPoints: "Megtalált szám",
+    goalWas: "Cél volt",
+    almostThere: "— Majdnem!",
+    shieldActive: "🛡️ PAJZS AKTÍV",
+    revealActive: "👁️ FELFEDÉS AKTÍV",
+    rushActive: "⚡ ROHAM AKTÍV",
+    features: { flash: "Villanás", powerups: "Power-up-ok" },
+  },
+  de: {
+    title: "NUMBER RUSH",
+    subtitle: "10 Level · Zahlen der Reihe nach · Gegen die Zeit",
+    home: "Startseite",
+    progress: "Fortschritt",
+    levelsOf: "Level",
+    levelLabel: "Level",
+    boss: "🏆 BOSS — ",
+    done: "✓ fertig",
+    found: "GEFUNDEN",
+    time: "ZEIT",
+    next: "NÄCHSTE",
+    levelDone: "✅ LEVEL GESCHAFFT!",
+    bossDone: "🏆 FERTIG!",
+    timeUp: "❌ ZEIT UM!",
+    finalScore: "GEFUNDENE ZAHLEN",
+    retry: "Nochmal",
+    nextLevel: "Nächstes Level",
+    expeditionMap: "Expedition",
+    newExpedition: "🔄 Neue Expedition",
+    hint: "Zahlen der Reihe nach tippen  1 → 2 → 3...",
+    legendaryDesc: "Du hast die legendäre Number Rush Karte erhalten!",
+    rarity: { bronze: "BRONZE", silver: "SILBER", gold: "GOLD", legendary: "LEGENDÄR" },
+    card: "KARTE",
+    scoredPoints: "Gefundene Zahlen",
+    goalWas: "Ziel war",
+    almostThere: "— Fast!",
+    shieldActive: "🛡️ SCHILD AKTIV",
+    revealActive: "👁️ AUFDECKEN AKTIV",
+    rushActive: "⚡ RUSH AKTIV",
+    features: { flash: "Blitz", powerups: "Power-ups" },
+  },
+  ro: {
+    title: "NUMBER RUSH",
+    subtitle: "10 niveluri · Apasă numerele în ordine · Bate ceasul",
+    home: "Acasă",
+    progress: "Progres",
+    levelsOf: "niveluri",
+    levelLabel: "Nivel",
+    boss: "🏆 BOSS — ",
+    done: "✓ gata",
+    found: "GĂSITE",
+    time: "TIMP",
+    next: "URMĂTOR",
+    levelDone: "✅ NIVEL TERMINAT!",
+    bossDone: "🏆 TERMINAT!",
+    timeUp: "❌ TIMP EXPIRAT!",
+    finalScore: "NUMERE GĂSITE",
+    retry: "Din nou",
+    nextLevel: "Nivelul următor",
+    expeditionMap: "Hartă",
+    newExpedition: "🔄 Expedíție nouă",
+    hint: "Apasă numerele în ordine  1 → 2 → 3...",
+    legendaryDesc: "Ai câștigat cardul legendar Number Rush!",
+    rarity: { bronze: "BRONZ", silver: "ARGINT", gold: "AUR", legendary: "LEGENDAR" },
+    card: "CARD",
+    scoredPoints: "Numere găsite",
+    goalWas: "Obiectiv",
+    almostThere: "— Aproape!",
+    shieldActive: "🛡️ SCUT ACTIV",
+    revealActive: "👁️ DEZVĂLUIRE ACTIVĂ",
+    rushActive: "⚡ RUSH ACTIV",
+    features: { flash: "Flash", powerups: "Power-up-uri" },
+  },
 };
 
-function shuffleArray<T>(arr: T[]): T[] {
-  const s = [...arr];
-  for (let i = s.length - 1; i > 0; i--) {
+// ─── Types ───────────────────────────────────────────────────────────────────
+
+type Screen = "expedition" | "playing" | "levelComplete" | "levelFailed";
+type PowerupKind = "freeze" | "reveal" | "shield" | "rush";
+type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory" | "surprised" | "confused" | "laughing";
+
+type GridCell =
+  | { type: "number"; value: number; tapped: boolean; hidden: boolean }
+  | { type: "powerup"; kind: PowerupKind; used: boolean }
+  | { type: "empty" };
+
+interface NRLevelConfig {
+  level: number;
+  gridSize: number;
+  count: number;
+  flashDelay: number; // ms after start before numbers hide; 0 = never
+  timeLimit: number;
+  hasPowerups: boolean;
+  powerupCount: number;
+}
+
+interface NRSave {
+  currentLevel: number;
+  completedLevels: number[];
+}
+
+interface FloatingMsg {
+  id: number;
+  text: string;
+  color: string;
+  x: number;
+  y: number;
+}
+
+// ─── Level configs ────────────────────────────────────────────────────────────
+
+const LEVELS: NRLevelConfig[] = [
+  { level: 1,  gridSize: 3, count: 6,  flashDelay: 0,    timeLimit: 45, hasPowerups: false, powerupCount: 0 },
+  { level: 2,  gridSize: 3, count: 9,  flashDelay: 0,    timeLimit: 50, hasPowerups: false, powerupCount: 0 },
+  { level: 3,  gridSize: 4, count: 12, flashDelay: 0,    timeLimit: 50, hasPowerups: false, powerupCount: 0 },
+  { level: 4,  gridSize: 4, count: 12, flashDelay: 3000, timeLimit: 45, hasPowerups: true,  powerupCount: 2 },
+  { level: 5,  gridSize: 4, count: 14, flashDelay: 2500, timeLimit: 42, hasPowerups: true,  powerupCount: 2 },
+  { level: 6,  gridSize: 5, count: 16, flashDelay: 2000, timeLimit: 45, hasPowerups: true,  powerupCount: 3 },
+  { level: 7,  gridSize: 5, count: 18, flashDelay: 1500, timeLimit: 42, hasPowerups: true,  powerupCount: 3 },
+  { level: 8,  gridSize: 5, count: 20, flashDelay: 1200, timeLimit: 40, hasPowerups: true,  powerupCount: 3 },
+  { level: 9,  gridSize: 6, count: 24, flashDelay: 900,  timeLimit: 45, hasPowerups: true,  powerupCount: 4 },
+  { level: 10, gridSize: 6, count: 28, flashDelay: 600,  timeLimit: 42, hasPowerups: true,  powerupCount: 4 },
+];
+
+const LEVEL_BADGES = ["🔢", "🔢", "🔢", "👁️", "👁️", "⚡", "⚡", "🔥", "🔥", "👑"];
+
+const POWERUP_KINDS: PowerupKind[] = ["freeze", "reveal", "shield", "rush"];
+
+const POWERUP_CONFIG: Record<PowerupKind, { icon: string; bg: string; border: string; color: string }> = {
+  freeze: { icon: "⏱️", bg: "#001a2a", border: "#00D4FF", color: "#00D4FF" },
+  reveal: { icon: "👁️", bg: "#002a1a", border: "#00FF88", color: "#00FF88" },
+  shield: { icon: "🛡️", bg: "#1a1a00", border: "#FFD700", color: "#FFD700" },
+  rush:   { icon: "⚡", bg: "#1a000a", border: "#FF2D78", color: "#FF2D78" },
+};
+
+const RARITY_COLORS: Record<CardRarity, string> = {
+  bronze: "#CD7F32", silver: "#C0C0C0", gold: "#FFD700", legendary: "#B44DFF",
+};
+
+// ─── Save / Load ──────────────────────────────────────────────────────────────
+
+const SAVE_KEY = "numberrush_expedition_v1";
+
+function loadSave(): NRSave {
+  if (typeof window === "undefined") return { currentLevel: 1, completedLevels: [] };
+  try { const raw = localStorage.getItem(SAVE_KEY); if (raw) return JSON.parse(raw); } catch { /* ignore */ }
+  return { currentLevel: 1, completedLevels: [] };
+}
+function writeSave(s: NRSave) { localStorage.setItem(SAVE_KEY, JSON.stringify(s)); }
+
+// ─── Grid builder ─────────────────────────────────────────────────────────────
+
+function buildGrid(cfg: NRLevelConfig): GridCell[] {
+  const total = cfg.gridSize ** 2;
+  const cells: GridCell[] = [];
+  for (let i = 1; i <= cfg.count; i++) {
+    cells.push({ type: "number", value: i, tapped: false, hidden: false });
+  }
+  if (cfg.hasPowerups) {
+    for (let i = 0; i < cfg.powerupCount; i++) {
+      cells.push({ type: "powerup", kind: POWERUP_KINDS[i % POWERUP_KINDS.length], used: false });
+    }
+  }
+  while (cells.length < total) cells.push({ type: "empty" });
+  for (let i = cells.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
-    [s[i], s[j]] = [s[j], s[i]];
+    [cells[i], cells[j]] = [cells[j], cells[i]];
   }
-  return s;
+  return cells;
 }
 
-function getStreak(): number {
-  if (typeof window === "undefined") return 0;
-  const data = localStorage.getItem("plizio_streak");
-  if (!data) return 0;
-  const { count, lastDate } = JSON.parse(data);
-  const today = new Date().toDateString();
-  const yesterday = new Date(Date.now() - 86400000).toDateString();
-  if (lastDate === today || lastDate === yesterday) return count;
-  return 0;
+function calcRarity(timeLeft: number, timeLimit: number, level: number): CardRarity {
+  if (level === 10) return "legendary";
+  const r = timeLeft / timeLimit;
+  if (r > 0.55) return "gold";
+  if (r > 0.25) return "silver";
+  return "bronze";
 }
 
-function updateStreak(): number {
-  if (typeof window === "undefined") return 0;
-  const data = localStorage.getItem("plizio_streak");
-  const today = new Date().toDateString();
-  if (data) {
-    const { count, lastDate } = JSON.parse(data);
-    if (lastDate === today) return count;
-    const yesterday = new Date(Date.now() - 86400000).toDateString();
-    const newCount = lastDate === yesterday ? count + 1 : 1;
-    localStorage.setItem("plizio_streak", JSON.stringify({ count: newCount, lastDate: today }));
-    return newCount;
-  }
-  localStorage.setItem("plizio_streak", JSON.stringify({ count: 1, lastDate: today }));
-  return 1;
-}
-
-// Score accounts for difficulty and flash mode
-function getScoreFromTime(seconds: number, difficulty: Difficulty, flashMode: boolean): number {
-  const multipliers: Record<Difficulty, number> = { easy: 1.6, medium: 1.3, hard: 1.0, expert: 0.75 };
-  const flashBonus = flashMode ? 0.7 : 1.0; // flash = harder = lower time thresholds
-  const adjusted = seconds * multipliers[difficulty] * flashBonus;
-  if (adjusted <= 12) return 10;
-  if (adjusted <= 20) return 9;
-  if (adjusted <= 30) return 8;
-  if (adjusted <= 42) return 7;
-  if (adjusted <= 56) return 6;
-  if (adjusted <= 72) return 5;
-  if (adjusted <= 90) return 4;
-  if (adjusted <= 115) return 3;
-  return 2;
-}
+// ─── Main Component ───────────────────────────────────────────────────────────
 
 export default function NumberRushPage() {
-  const [gameState, setGameState] = useState<GameState>("ready");
-  const [difficulty, setDifficulty] = useState<Difficulty>("hard");
-  const [flashMode, setFlashMode] = useState(false);
-  const [grid, setGrid] = useState<number[]>([]);
-  const [nextNumber, setNextNumber] = useState(1);
-  const [tapped, setTapped] = useState<Set<number>>(new Set());
-  const [wrongTap, setWrongTap] = useState<number | null>(null);
-  const [elapsed, setElapsed] = useState(0);
-  const [streak, setStreak] = useState(0);
-  const [bestTimes, setBestTimes] = useState<Partial<Record<string, number>>>({});
-  const [memorizeCountdown, setMemorizeCountdown] = useState(0);
-  const [numbersVisible, setNumbersVisible] = useState(true);
-  const startRef = useRef(0);
-  const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
-  const memorizeRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  const { lang } = useLang();
+  const t = TRANSLATIONS[lang as keyof typeof TRANSLATIONS] ?? TRANSLATIONS.en;
 
-  const cfg = DIFFICULTIES[difficulty];
-  const bestKey = `${difficulty}_${flashMode ? "flash" : "normal"}`;
+  // ── Avatar ──────────────────────────────────────────────────────────────────
+  const [avatarGender,  setAvatarGender]  = useState<AvatarGender>("girl");
+  const [avatarSkin,    setAvatarSkin]    = useState<ReturnType<typeof getSkinDef>    | null>(null);
+  const [avatarFace,    setAvatarFace]    = useState<ReturnType<typeof getFaceDef>    | null>(null);
+  const [avatarTop,     setAvatarTop]     = useState<ReturnType<typeof getTopDef>     | null>(null);
+  const [avatarBottom,  setAvatarBottom]  = useState<ReturnType<typeof getBottomDef>  | null>(null);
+  const [avatarShoe,    setAvatarShoe]    = useState<ReturnType<typeof getShoeDef>    | null>(null);
+  const [avatarCape,    setAvatarCape]    = useState<ReturnType<typeof getCapeDef>    | null>(null);
+  const [avatarGlasses, setAvatarGlasses] = useState<ReturnType<typeof getGlassesDef> | null>(null);
+  const [avatarGloves,  setAvatarGloves]  = useState<ReturnType<typeof getGloveDef>   | null>(null);
+  const [avatarHat,     setAvatarHat]     = useState<ReturnType<typeof getHatDef>     | null>(null);
+  const [avatarTrail,   setAvatarTrail]   = useState<ReturnType<typeof getTrailDef>   | null>(null);
+  const [avatarMood,    setAvatarMood]    = useState<AvatarMood>("idle");
+  const [avatarJump,    setAvatarJump]    = useState<{ reaction: "happy" | "surprised" | "victory" | "confused" | "laughing" | null; timestamp: number } | undefined>(undefined);
+  const avatarTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   useEffect(() => {
-    setStreak(getStreak());
-    const stored = localStorage.getItem("plizio_numberrush_bests");
-    if (stored) setBestTimes(JSON.parse(stored));
+    setAvatarGender(getGender());
+    setAvatarSkin(getSkinDef(getActiveSkin()));
+    setAvatarFace(getFaceDef(getActiveFace()));
+    const topId = getActive("top");      setAvatarTop(topId ? getTopDef(topId) : null);
+    const botId = getActive("bottom");   setAvatarBottom(botId ? getBottomDef(botId) : null);
+    const shoeId = getActive("shoe");    setAvatarShoe(shoeId ? getShoeDef(shoeId) : null);
+    const capeId = getActive("cape");    setAvatarCape(capeId ? getCapeDef(capeId) : null);
+    const glsId = getActive("glasses");  setAvatarGlasses(glsId ? getGlassesDef(glsId) : null);
+    const glvId = getActive("gloves");   setAvatarGloves(glvId ? getGloveDef(glvId) : null);
+    const hatId = getActiveHat();        setAvatarHat(hatId ? getHatDef(hatId) : null);
+    const trailId = getActiveTrail();    setAvatarTrail(trailId ? getTrailDef(trailId) : null);
   }, []);
 
-  const startGame = () => {
-    const numbers = shuffleArray(Array.from({ length: cfg.total }, (_, i) => i + 1));
-    setGrid(numbers);
-    setNextNumber(1);
-    setTapped(new Set());
-    setWrongTap(null);
-    setElapsed(0);
-    setNumbersVisible(true);
+  function triggerAvatar(mood: AvatarMood, duration: number, jump?: "happy" | "surprised" | "victory" | "confused" | "laughing") {
+    if (avatarTimerRef.current) clearTimeout(avatarTimerRef.current);
+    setAvatarMood(mood);
+    if (jump) setAvatarJump({ reaction: jump, timestamp: Date.now() });
+    avatarTimerRef.current = setTimeout(() => setAvatarMood("focused"), duration);
+  }
 
-    if (flashMode) {
-      setMemorizeCountdown(cfg.memorizeTime);
-      setGameState("memorize");
+  // ── Save / Navigation ────────────────────────────────────────────────────────
+  const [save, setSave]             = useState<NRSave>({ currentLevel: 1, completedLevels: [] });
+  const [screen, setScreen]         = useState<Screen>("expedition");
+  const [activeLevel, setActiveLevel] = useState(1);
 
-      let remaining = cfg.memorizeTime;
-      memorizeRef.current = setInterval(() => {
-        remaining -= 1;
-        setMemorizeCountdown(remaining);
-        if (remaining <= 0) {
-          if (memorizeRef.current) clearInterval(memorizeRef.current);
-          setNumbersVisible(false);
-          setGameState("playing");
-          startRef.current = Date.now();
-          intervalRef.current = setInterval(() => {
-            setElapsed(Math.round((Date.now() - startRef.current) / 100) / 10);
-          }, 100);
-        }
-      }, 1000);
-    } else {
-      setGameState("playing");
-      startRef.current = Date.now();
-      intervalRef.current = setInterval(() => {
-        setElapsed(Math.round((Date.now() - startRef.current) / 100) / 10);
-      }, 100);
-    }
-  };
+  useEffect(() => { setSave(loadSave()); }, []);
 
-  const handleTap = (num: number, index: number) => {
-    if (gameState !== "playing") return;
-    if (num === nextNumber) {
-      const newTapped = new Set(tapped);
-      newTapped.add(index);
-      setTapped(newTapped);
-      setWrongTap(null);
-      if (num === cfg.total) {
-        if (intervalRef.current) clearInterval(intervalRef.current);
-        const finalTime = Math.round((Date.now() - startRef.current) / 100) / 10;
-        setElapsed(finalTime);
-        const currentBest = bestTimes[bestKey];
-        if (!currentBest || finalTime < currentBest) {
-          const updated = { ...bestTimes, [bestKey]: finalTime };
-          setBestTimes(updated);
-          localStorage.setItem("plizio_numberrush_bests", JSON.stringify(updated));
-        }
-        const newStreak = updateStreak();
-        setStreak(newStreak);
-        const score = getScoreFromTime(finalTime, difficulty, flashMode);
-        const rarity = calculateRarity(score, 10, newStreak);
-        saveCard({
-          id: generateCardId(),
-          game: "numberrush",
-          rarity,
-          score,
-          total: 10,
-          date: new Date().toISOString(),
+  // ── Game state ───────────────────────────────────────────────────────────────
+  const [grid,         setGrid]         = useState<GridCell[]>([]);
+  const [nextTarget,   setNextTarget]   = useState(1);
+  const [timeLeft,     setTimeLeft]     = useState(0);
+  const [found,        setFound]        = useState(0);
+  const [wrongIdx,     setWrongIdx]     = useState<number | null>(null);
+  const [shieldActive, setShieldActive] = useState(false);
+  const [revealActive, setRevealActive] = useState(false);
+  const [rushActive,   setRushActive]   = useState(false);
+  const [floatingMsgs, setFloatingMsgs] = useState<FloatingMsg[]>([]);
+  const [earnedCard,   setEarnedCard]   = useState<CardRarity | null>(null);
+
+  const gridRef        = useRef<GridCell[]>([]);
+  const nextTargetRef  = useRef(1);
+  const foundRef       = useRef(0);
+  const timeLeftRef    = useRef(0);
+  const shieldRef      = useRef(false);
+  const gameActiveRef  = useRef(false);
+  const cfgRef         = useRef<NRLevelConfig>(LEVELS[0]);
+  const timerRef       = useRef<ReturnType<typeof setInterval>  | null>(null);
+  const flashTimerRef  = useRef<ReturnType<typeof setTimeout>   | null>(null);
+  const revealTimerRef = useRef<ReturnType<typeof setTimeout>   | null>(null);
+  const rushTimerRef   = useRef<ReturnType<typeof setTimeout>   | null>(null);
+  const msgCounter     = useRef(0);
+
+  function addFloat(text: string, color: string, x: number, y: number) {
+    const id = msgCounter.current++;
+    setFloatingMsgs(m => [...m, { id, text, color, x, y }]);
+    setTimeout(() => setFloatingMsgs(m => m.filter(f => f.id !== id)), 1000);
+  }
+
+  const stopGame = useCallback(() => {
+    gameActiveRef.current = false;
+    if (timerRef.current)    { clearInterval(timerRef.current);    timerRef.current = null; }
+    if (flashTimerRef.current)  { clearTimeout(flashTimerRef.current);  flashTimerRef.current = null; }
+    if (revealTimerRef.current) { clearTimeout(revealTimerRef.current); revealTimerRef.current = null; }
+    if (rushTimerRef.current)   { clearTimeout(rushTimerRef.current);   rushTimerRef.current = null; }
+  }, []);
+
+  const levelSuccess = useCallback((finalFound: number, finalTimeLeft: number) => {
+    stopGame();
+    const cfg = cfgRef.current;
+    const rarity = calcRarity(finalTimeLeft, cfg.timeLimit, cfg.level);
+    saveCard({ id: generateCardId(), game: "numberrush", theme: `level${cfg.level}`, rarity, score: finalFound, total: cfg.count, date: new Date().toISOString() });
+    incrementTotalGames();
+    setEarnedCard(rarity);
+    setSave(prev => {
+      const newCompleted = [...new Set([...prev.completedLevels, cfg.level])];
+      const newCurrentLevel = cfg.level === 10 ? 10 : Math.max(prev.currentLevel, cfg.level + 1);
+      const s: NRSave = { currentLevel: newCurrentLevel, completedLevels: newCompleted };
+      writeSave(s); return s;
+    });
+    triggerAvatar("happy", 99999, cfg.level === 10 ? "victory" : "happy");
+    setScreen("levelComplete");
+  }, [stopGame]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  const levelFailed = useCallback((finalFound: number) => {
+    stopGame();
+    triggerAvatar("confused", 2000, "confused");
+    setFound(finalFound);
+    setScreen("levelFailed");
+  }, [stopGame]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  const startLevel = useCallback((levelNum: number) => {
+    const cfg = LEVELS[levelNum - 1];
+    cfgRef.current = cfg;
+    stopGame();
+    const newGrid = buildGrid(cfg);
+    gridRef.current = newGrid;
+    nextTargetRef.current = 1;
+    foundRef.current = 0;
+    timeLeftRef.current = cfg.timeLimit;
+    shieldRef.current = false;
+    setActiveLevel(levelNum);
+    setGrid(newGrid);
+    setNextTarget(1);
+    setFound(0);
+    setTimeLeft(cfg.timeLimit);
+    setWrongIdx(null);
+    setShieldActive(false);
+    setRevealActive(false);
+    setRushActive(false);
+    setFloatingMsgs([]);
+    setEarnedCard(null);
+    setScreen("playing");
+    triggerAvatar("focused", 99999);
+  }, [stopGame]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  // ── Timer + Flash ─────────────────────────────────────────────────────────────
+  useEffect(() => {
+    if (screen !== "playing") return;
+    gameActiveRef.current = true;
+    const cfg = cfgRef.current;
+
+    if (cfg.flashDelay > 0) {
+      flashTimerRef.current = setTimeout(() => {
+        if (!gameActiveRef.current) return;
+        setGrid(prev => {
+          const next = prev.map(c => c.type === "number" && !c.tapped ? { ...c, hidden: true } : c);
+          gridRef.current = next;
+          return next;
         });
-        incrementTotalGames();
-        updateStats({ highestStreak: newStreak });
-        setGameState("reward");
-      } else {
-        setNextNumber(num + 1);
-      }
-    } else {
-      setWrongTap(index);
-      setTimeout(() => setWrongTap(null), 300);
+      }, cfg.flashDelay);
     }
+
+    timerRef.current = setInterval(() => {
+      setTimeLeft(t => {
+        const next = t - 1;
+        timeLeftRef.current = next;
+        if (next <= 0) { levelFailed(foundRef.current); return 0; }
+        return next;
+      });
+    }, 1000);
+
+    return () => { if (timerRef.current) { clearInterval(timerRef.current); timerRef.current = null; } };
+  }, [screen, levelFailed]);
+
+  // ── Cell tap handler ──────────────────────────────────────────────────────────
+  const handleCellTap = useCallback((index: number, e: React.MouseEvent<HTMLButtonElement>) => {
+    if (!gameActiveRef.current) return;
+    const cell = gridRef.current[index];
+    if (!cell || cell.type === "empty") return;
+
+    const rect = (e.currentTarget as HTMLElement).getBoundingClientRect();
+    const x = rect.left + rect.width / 2;
+    const y = rect.top;
+
+    if (cell.type === "powerup" && !cell.used) {
+      const { kind } = cell;
+      const newGrid = [...gridRef.current];
+      newGrid[index] = { ...cell, used: true };
+      gridRef.current = newGrid;
+      setGrid(newGrid);
+
+      if (kind === "freeze") {
+        const newTime = timeLeftRef.current + 5;
+        timeLeftRef.current = newTime;
+        setTimeLeft(newTime);
+        addFloat("+5s", "#00D4FF", x, y);
+      } else if (kind === "reveal") {
+        setRevealActive(true);
+        setGrid(prev => {
+          const next = prev.map(c => c.type === "number" && !c.tapped ? { ...c, hidden: false } : c);
+          gridRef.current = next;
+          return next;
+        });
+        if (revealTimerRef.current) clearTimeout(revealTimerRef.current);
+        revealTimerRef.current = setTimeout(() => {
+          setRevealActive(false);
+          if (cfgRef.current.flashDelay > 0) {
+            setGrid(prev => {
+              const next = prev.map(c => c.type === "number" && !c.tapped ? { ...c, hidden: true } : c);
+              gridRef.current = next;
+              return next;
+            });
+          }
+        }, 2000);
+        addFloat("👁️", "#00FF88", x, y);
+      } else if (kind === "shield") {
+        shieldRef.current = true;
+        setShieldActive(true);
+        addFloat("🛡️", "#FFD700", x, y);
+      } else if (kind === "rush") {
+        setRushActive(true);
+        if (rushTimerRef.current) clearTimeout(rushTimerRef.current);
+        rushTimerRef.current = setTimeout(() => setRushActive(false), 3000);
+        addFloat("⚡", "#FF2D78", x, y);
+      }
+      triggerAvatar("surprised", 800, "surprised");
+      return;
+    }
+
+    if (cell.type === "number" && !cell.tapped) {
+      if (cell.value === nextTargetRef.current) {
+        const newGrid = [...gridRef.current];
+        newGrid[index] = { ...cell, tapped: true, hidden: false };
+        gridRef.current = newGrid;
+        setGrid(newGrid);
+        const newFound = foundRef.current + 1;
+        foundRef.current = newFound;
+        setFound(newFound);
+        nextTargetRef.current = cell.value + 1;
+        setNextTarget(cell.value + 1);
+        if (newFound === cfgRef.current.count) {
+          levelSuccess(newFound, timeLeftRef.current);
+        } else if (newFound % 5 === 0) {
+          triggerAvatar("happy", 800, "happy");
+        }
+      } else {
+        setWrongIdx(index);
+        setTimeout(() => setWrongIdx(null), 400);
+        if (shieldRef.current) {
+          shieldRef.current = false;
+          setShieldActive(false);
+          addFloat("🛡️ blocked!", "#FFD700", x, y);
+        } else {
+          const newTime = Math.max(1, timeLeftRef.current - 3);
+          timeLeftRef.current = newTime;
+          setTimeLeft(newTime);
+          addFloat("-3s", "#FF2D78", x, y);
+          triggerAvatar("disappointed", 700);
+        }
+      }
+    }
+  }, [levelSuccess]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  const cfg = LEVELS[activeLevel - 1];
+
+  const avatarProps = {
+    mood: avatarMood, gender: avatarGender,
+    activeSkin: avatarSkin, activeFace: avatarFace,
+    activeTop: avatarTop, activeBottom: avatarBottom,
+    activeShoe: avatarShoe, activeCape: avatarCape,
+    activeGlasses: avatarGlasses, activeGloves: avatarGloves,
+    activeHat: avatarHat, activeTrail: avatarTrail,
+    jumpTrigger: avatarJump,
   };
 
-  const score = getScoreFromTime(elapsed, difficulty, flashMode);
-
-  // Grid max width based on cols
-  const gridMaxW = cfg.cols === 3 ? "max-w-[220px]" : cfg.cols === 4 ? "max-w-[280px]" : cfg.cols === 5 ? "max-w-xs" : "max-w-sm";
-  const fontSize = cfg.cols === 6 ? "text-base" : "text-lg";
+  // ─── RENDER ─────────────────────────────────────────────────────────────────
 
   return (
-    <main className="min-h-screen flex flex-col items-center justify-center px-4 relative">
+    <div className="min-h-screen bg-[#0A0A1A] text-white select-none overflow-hidden">
+      <AvatarCompanion {...avatarProps} fixed />
+      <MilestonePopup />
 
-      {/* ── READY SCREEN ── */}
-      {gameState === "ready" && (
-        <motion.div
-          className="flex flex-col items-center gap-6 w-full max-w-sm"
-          initial={{ opacity: 0, y: 16 }}
-          animate={{ opacity: 1, y: 0 }}
-        >
-          <Hash size={48} className="text-cyan-400" style={{ filter: "drop-shadow(0 0 15px rgba(34,211,238,0.5))" }} />
-          <h1 className="text-2xl font-black tracking-wider text-white">NUMBER RUSH</h1>
-
-          {/* Difficulty picker */}
-          <div className="w-full">
-            <p className="text-white/40 text-xs text-center mb-3 tracking-widest uppercase">Difficulty</p>
-            <div className="grid grid-cols-4 gap-2">
-              {(Object.entries(DIFFICULTIES) as [Difficulty, DifficultyConfig][]).map(([key, d]) => (
-                <motion.button
-                  key={key}
-                  onClick={() => setDifficulty(key)}
-                  className={`py-2 rounded-xl border text-xs font-bold transition-all ${
-                    difficulty === key
-                      ? `${d.bg} ${d.border} ${d.color}`
-                      : "bg-white/5 border-white/10 text-white/40"
-                  }`}
-                  whileTap={{ scale: 0.95 }}
-                >
-                  <div>{d.label}</div>
-                  <div className="text-[10px] opacity-60 mt-0.5">{d.cols}×{d.cols}</div>
-                </motion.button>
-              ))}
-            </div>
-          </div>
-
-          {/* Flash mode toggle */}
-          <motion.button
-            onClick={() => setFlashMode(f => !f)}
-            className={`w-full flex items-center justify-between px-4 py-3 rounded-2xl border transition-all ${
-              flashMode
-                ? "bg-yellow-500/20 border-yellow-500/50 text-yellow-300"
-                : "bg-white/5 border-white/10 text-white/40"
-            }`}
-            whileTap={{ scale: 0.97 }}
-          >
-            <div className="flex items-center gap-2">
-              {flashMode ? <EyeOff size={16} /> : <Eye size={16} />}
-              <span className="font-bold text-sm">Flash Mode</span>
-            </div>
-            <div className="flex items-center gap-2">
-              {flashMode && (
-                <span className="text-xs opacity-70">Numbers hide after {cfg.memorizeTime}s</span>
-              )}
-              <div className={`w-10 h-5 rounded-full relative transition-all ${flashMode ? "bg-yellow-500" : "bg-white/10"}`}>
-                <div className={`absolute top-0.5 w-4 h-4 rounded-full bg-white transition-all ${flashMode ? "left-5" : "left-0.5"}`} />
-              </div>
-            </div>
-          </motion.button>
-
-          {/* Best time */}
-          {bestTimes[bestKey] && (
-            <div className="flex items-center gap-2 text-yellow-400/70 text-sm font-bold">
-              <Trophy size={14} />
-              <span>Best: {(bestTimes[bestKey] as number).toFixed(1)}s</span>
-              <span className="text-white/20 font-normal">({cfg.label}{flashMode ? " · Flash" : ""})</span>
-            </div>
-          )}
-
-          <motion.button
-            onClick={startGame}
-            className={`${cfg.bg} ${cfg.border} ${cfg.color} border font-bold px-10 py-3 rounded-2xl text-sm tracking-wider`}
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-          >
-            PLAY
-          </motion.button>
-        </motion.div>
-      )}
-
-      {/* ── MEMORIZE COUNTDOWN ── */}
+      {/* Floating messages */}
       <AnimatePresence>
-        {gameState === "memorize" && (
+        {floatingMsgs.map(msg => (
           <motion.div
-            className="fixed inset-0 z-50 flex flex-col items-center justify-start pt-6 pointer-events-none"
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
+            key={msg.id}
+            className="pointer-events-none fixed z-50 font-black text-lg"
+            style={{ left: msg.x, top: msg.y, color: msg.color, transform: "translate(-50%, 0)" }}
+            initial={{ opacity: 1, y: 0 }} animate={{ opacity: 0, y: -60 }} exit={{ opacity: 0 }}
+            transition={{ duration: 1, ease: "easeOut" }}
           >
-            <motion.div
-              className="flex items-center gap-2 bg-yellow-500/20 border border-yellow-500/40 text-yellow-300 px-4 py-2 rounded-2xl text-sm font-bold"
-              animate={{ scale: memorizeCountdown <= 2 ? [1, 1.08, 1] : 1 }}
-              transition={{ duration: 0.3 }}
-            >
-              <Eye size={14} />
-              Memorize! Hiding in {memorizeCountdown}s
-            </motion.div>
+            {msg.text}
           </motion.div>
-        )}
+        ))}
       </AnimatePresence>
 
-      {/* ── HUD ── */}
-      {(gameState === "playing" || gameState === "memorize") && (
-        <div className="fixed top-0 left-0 right-0 z-40 p-4">
-          <div className="flex items-center justify-between max-w-sm mx-auto">
-            <Link href="/">
-              <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2 cursor-pointer hover:bg-black/60 transition-colors">
-                <X size={16} className="text-white/60" />
-              </div>
+      {/* ── EXPEDITION ──────────────────────────────────────────────────────────── */}
+      {screen === "expedition" && (
+        <div className="flex flex-col min-h-screen pb-24">
+          <div className="flex items-center justify-between p-4 pt-6">
+            <Link href="/" className="flex items-center gap-2 text-white/60 hover:text-white transition-colors">
+              <Home size={20} /><span className="text-sm font-bold">{t.home}</span>
             </Link>
-            <div className="flex items-center gap-2 text-white/60 font-bold">
-              <Timer size={16} />
-              <span className="text-lg text-white tabular-nums">{elapsed.toFixed(1)}s</span>
+            <div className="flex items-center gap-2">
+              <Hash size={20} className="text-[#00D4FF]" />
+              <span className="text-lg font-black tracking-wider text-[#00D4FF]">{t.title}</span>
             </div>
-            <div className={`font-black text-lg ${cfg.color}`}>
-              {gameState === "memorize"
-                ? <span className="text-yellow-300 text-sm">👁 {memorizeCountdown}s</span>
-                : nextNumber > cfg.total ? "DONE!" : `Next: ${nextNumber}`
-              }
+            <div className="w-20" />
+          </div>
+
+          <p className="text-center text-white/40 text-sm mb-6 px-4">{t.subtitle}</p>
+
+          <div className="px-6 mb-8">
+            <div className="flex justify-between text-xs text-white/40 mb-1">
+              <span>{t.progress}</span>
+              <span>{save.completedLevels.length}/10 {t.levelsOf}</span>
             </div>
+            <div className="h-2 bg-white/10 rounded-full overflow-hidden">
+              <motion.div
+                className="h-full rounded-full"
+                style={{ background: "linear-gradient(to right, #00D4FF, #00FF88)" }}
+                initial={false}
+                animate={{ width: `${(save.completedLevels.length / 10) * 100}%` }}
+                transition={{ duration: 0.5 }}
+              />
+            </div>
+          </div>
+
+          <div className="px-4 flex flex-col gap-3 max-w-sm mx-auto w-full">
+            {LEVELS.map((lc, i) => {
+              const done    = save.completedLevels.includes(lc.level);
+              const current = lc.level === save.currentLevel;
+              const locked  = lc.level > save.currentLevel;
+              const isBoss  = lc.level === 10;
+              return (
+                <motion.div
+                  key={lc.level}
+                  initial={{ opacity: 0, x: i % 2 === 0 ? -20 : 20 }}
+                  animate={{ opacity: 1, x: 0 }}
+                  transition={{ delay: i * 0.04 }}
+                  className={`flex items-center gap-4 p-4 rounded-2xl border transition-all ${
+                    done    ? "bg-[#001a22] border-[#00D4FF40]"
+                    : current && isBoss ? "bg-[#1a0028] border-[#B44DFF] shadow-[0_0_20px_#B44DFF33]"
+                    : current ? "bg-[#001a22] border-[#00D4FF] shadow-[0_0_20px_#00D4FF33]"
+                    : "bg-[#0f0f22] border-white/10 opacity-60"
+                  }`}
+                >
+                  <div className={`w-12 h-12 rounded-xl flex items-center justify-center text-xl font-black flex-shrink-0 ${
+                    done    ? "bg-[#00D4FF20] text-[#00D4FF]"
+                    : current && isBoss ? "bg-[#B44DFF20] text-[#B44DFF]"
+                    : current ? "bg-[#00D4FF20] text-[#00D4FF]"
+                    : "bg-white/5 text-white/30"
+                  }`}>
+                    {done ? <Check size={22} /> : locked ? <Lock size={18} /> : LEVEL_BADGES[i]}
+                  </div>
+
+                  <div className="flex-1 min-w-0">
+                    <div className="flex items-center gap-2">
+                      <span className={`font-black text-sm ${isBoss ? "text-[#B44DFF]" : "text-white"}`}>
+                        {isBoss ? t.boss : ""}{t.levelLabel} {lc.level}
+                      </span>
+                      {done && <span className="text-[#00D4FF] text-xs">{t.done}</span>}
+                    </div>
+                    <div className="text-white/40 text-xs mt-0.5 flex gap-3">
+                      <span>{lc.gridSize}×{lc.gridSize}</span>
+                      <span>{lc.count} nums</span>
+                      <span>{lc.timeLimit}s</span>
+                    </div>
+                    <div className="flex gap-2 mt-1.5">
+                      {lc.flashDelay > 0 && <span className="text-[#00FF88] text-xs">👁️ {t.features.flash}</span>}
+                      {lc.hasPowerups   && <span className="text-[#FFD700] text-xs">⚡ {t.features.powerups}</span>}
+                    </div>
+                  </div>
+
+                  {!locked && (
+                    <button
+                      onClick={() => startLevel(lc.level)}
+                      className={`flex-shrink-0 px-4 py-2 rounded-xl font-black text-sm transition-all active:scale-95 ${
+                        isBoss  ? "bg-[#B44DFF] text-white shadow-[0_0_12px_#B44DFF66]"
+                        : current ? "bg-[#00D4FF] text-black shadow-[0_0_12px_#00D4FF66]"
+                        : "bg-white/10 text-white/60"
+                      }`}
+                    >
+                      {done ? "↩" : <ChevronRight size={18} />}
+                    </button>
+                  )}
+                </motion.div>
+              );
+            })}
           </div>
         </div>
       )}
 
-      {/* ── GRID ── */}
-      {(gameState === "playing" || gameState === "memorize") && (
-        <div
-          className={`grid gap-2 w-full ${gridMaxW} mt-8`}
-          style={{ gridTemplateColumns: `repeat(${cfg.cols}, minmax(0, 1fr))` }}
-        >
-          {grid.map((num, i) => {
-            const isTapped = tapped.has(i);
-            const isWrong = wrongTap === i;
-            const isNext = num === nextNumber;
-            const isHidden = !numbersVisible && !isTapped;
-
-            return (
-              <motion.button
-                key={i}
-                onClick={() => handleTap(num, i)}
-                className={`aspect-square rounded-xl border-2 flex items-center justify-center ${fontSize} font-black transition-all ${
-                  isTapped
-                    ? "border-emerald-500/20 bg-emerald-500/5 text-emerald-400/30"
-                    : isWrong
-                    ? "border-rose-500 bg-rose-500/20 text-rose-400"
-                    : isNext && !isHidden
-                    ? `${cfg.border} ${cfg.bg} ${cfg.color}`
-                    : isHidden
-                    ? "border-white/8 bg-white/4 text-transparent"
-                    : "border-white/10 bg-white/4 text-white/80 hover:border-white/20"
-                }`}
-                animate={isWrong ? { x: [-3, 3, -3, 3, 0] } : {}}
-                transition={{ duration: 0.3 }}
-                disabled={isTapped || gameState === "memorize"}
+      {/* ── PLAYING ─────────────────────────────────────────────────────────────── */}
+      {screen === "playing" && (
+        <div className="flex flex-col min-h-screen">
+          {/* HUD */}
+          <div className="flex items-center justify-between px-4 pt-4 pb-2">
+            <div className="flex flex-col items-start">
+              <span className="text-white/40 text-xs font-bold tracking-wider">{t.found}</span>
+              <motion.span
+                key={found} className="text-2xl font-black text-[#00D4FF]"
+                animate={{ scale: [1.2, 1] }} transition={{ duration: 0.15 }}
               >
-                {isTapped ? (
-                  <motion.span
-                    initial={{ scale: 0 }}
-                    animate={{ scale: 1 }}
-                    className="text-emerald-400/40"
-                  >✓</motion.span>
-                ) : isHidden ? (
-                  <span className="w-2 h-2 rounded-full bg-white/10 block" />
-                ) : (
-                  num
-                )}
-              </motion.button>
-            );
-          })}
+                {found}<span className="text-white/30 text-sm font-bold ml-1">/{cfg.count}</span>
+              </motion.span>
+            </div>
+
+            <div className="flex flex-col items-center">
+              <span className="text-white/40 text-xs font-bold tracking-wider">{t.time}</span>
+              <span className={`text-2xl font-black ${timeLeft <= 5 ? "text-[#FF2D78] animate-pulse" : "text-white"}`}>
+                {timeLeft}s
+              </span>
+            </div>
+
+            <div className="flex flex-col items-end">
+              <span className="text-white/40 text-xs font-bold tracking-wider">{t.next}</span>
+              <motion.span
+                key={nextTarget} className="text-2xl font-black text-[#FFD700]"
+                animate={{ scale: [1.3, 1] }} transition={{ duration: 0.2 }}
+              >
+                {nextTarget}
+              </motion.span>
+            </div>
+          </div>
+
+          {/* Progress bar */}
+          <div className="mx-4 mb-2">
+            <div className="h-1.5 bg-white/10 rounded-full overflow-hidden">
+              <motion.div
+                className="h-full rounded-full"
+                style={{ background: "linear-gradient(to right, #00D4FF, #00FF88)" }}
+                animate={{ width: `${Math.min(100, (found / cfg.count) * 100)}%` }}
+                transition={{ duration: 0.2 }}
+              />
+            </div>
+          </div>
+
+          {/* Active powerup banners */}
+          <div className="mx-4 mb-1 flex flex-col gap-1">
+            <AnimatePresence>
+              {shieldActive && (
+                <motion.div
+                  className="py-1 px-3 rounded-xl bg-[#FFD70020] border border-[#FFD70050] text-[#FFD700] text-xs font-bold text-center"
+                  initial={{ opacity: 0, y: -8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
+                >
+                  {t.shieldActive}
+                </motion.div>
+              )}
+              {revealActive && (
+                <motion.div
+                  className="py-1 px-3 rounded-xl bg-[#00FF8820] border border-[#00FF8850] text-[#00FF88] text-xs font-bold text-center"
+                  initial={{ opacity: 0, y: -8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
+                >
+                  {t.revealActive}
+                </motion.div>
+              )}
+              {rushActive && (
+                <motion.div
+                  className="py-1 px-3 rounded-xl bg-[#FF2D7820] border border-[#FF2D7850] text-[#FF2D78] text-xs font-bold text-center"
+                  initial={{ opacity: 0, y: -8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
+                >
+                  {t.rushActive}
+                </motion.div>
+              )}
+            </AnimatePresence>
+          </div>
+
+          {/* Grid */}
+          <div className="flex-1 flex items-center justify-center px-4">
+            <div
+              className="grid gap-2 w-full max-w-sm"
+              style={{ gridTemplateColumns: `repeat(${cfg.gridSize}, 1fr)` }}
+            >
+              {grid.map((cell, i) => {
+                if (cell.type === "empty") {
+                  return (
+                    <div
+                      key={i}
+                      className="aspect-square rounded-xl"
+                      style={{ background: "#0a0a1e", border: "2px solid #14143a" }}
+                    />
+                  );
+                }
+
+                if (cell.type === "powerup") {
+                  if (cell.used) {
+                    return (
+                      <div
+                        key={i}
+                        className="aspect-square rounded-xl opacity-15"
+                        style={{ background: "#0a0a1e", border: "2px solid #14143a" }}
+                      />
+                    );
+                  }
+                  const pc = POWERUP_CONFIG[cell.kind];
+                  return (
+                    <motion.button
+                      key={i}
+                      onClick={(e) => handleCellTap(i, e)}
+                      className="aspect-square rounded-xl flex items-center justify-center text-xl"
+                      style={{ background: pc.bg, border: `2px solid ${pc.border}`, boxShadow: `0 0 12px ${pc.border}55` }}
+                      animate={{ scale: [1, 1.06, 1] }}
+                      transition={{ duration: 1.8, repeat: Infinity }}
+                      whileTap={{ scale: 0.82 }}
+                    >
+                      {pc.icon}
+                    </motion.button>
+                  );
+                }
+
+                // Number cell
+                const isTarget = cell.value === nextTarget && rushActive;
+                const isHidden = cell.hidden && !revealActive;
+                const isWrong  = wrongIdx === i;
+                const fontSize = cfg.gridSize >= 6 ? "text-sm" : cfg.gridSize >= 5 ? "text-base" : "text-lg";
+
+                return (
+                  <motion.button
+                    key={i}
+                    onClick={(e) => handleCellTap(i, e)}
+                    disabled={cell.tapped}
+                    className={`aspect-square rounded-xl flex items-center justify-center font-black ${fontSize}`}
+                    style={{
+                      background: cell.tapped ? "#001a0a"
+                        : isWrong  ? "#2a0010"
+                        : isTarget ? "#001800"
+                        : "#0e0e2a",
+                      border: cell.tapped ? "2px solid #00FF8825"
+                        : isWrong  ? "2px solid #FF2D78"
+                        : isTarget ? "2px solid #00FF88"
+                        : isHidden ? "2px solid #18183a"
+                        : "2px solid #2a2a5a",
+                      boxShadow: cell.tapped ? "none"
+                        : isWrong  ? "0 0 14px #FF2D7866"
+                        : isTarget ? "0 0 16px #00FF8899"
+                        : "none",
+                      color: cell.tapped ? "#00FF8838"
+                        : isWrong  ? "#FF2D78"
+                        : isTarget ? "#00FF88"
+                        : isHidden ? "transparent"
+                        : "#e0e0ff",
+                    }}
+                    animate={isWrong ? { x: [-4, 4, -4, 4, 0] } : {}}
+                    transition={{ duration: 0.3 }}
+                    whileTap={!cell.tapped ? { scale: 0.82 } : {}}
+                  >
+                    {cell.tapped ? (
+                      <motion.span initial={{ scale: 0 }} animate={{ scale: 1 }} className="text-[#00FF8845]">✓</motion.span>
+                    ) : isHidden ? (
+                      <span className="w-1.5 h-1.5 rounded-full bg-white/20 block" />
+                    ) : (
+                      cell.value
+                    )}
+                  </motion.button>
+                );
+              })}
+            </div>
+          </div>
+
+          <div className="px-4 py-3 text-center text-white/25 text-xs pb-6">
+            {t.levelLabel} {activeLevel}/10 · {t.hint}
+          </div>
         </div>
       )}
 
-      {/* Flash mode indicator during play */}
-      {gameState === "playing" && flashMode && (
-        <motion.div
-          className="fixed bottom-6 left-1/2 -translate-x-1/2 flex items-center gap-1.5 text-yellow-400/50 text-xs font-bold"
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-        >
-          <Zap size={12} />
-          Flash Mode
-        </motion.div>
+      {/* ── LEVEL COMPLETE ───────────────────────────────────────────────────────── */}
+      {screen === "levelComplete" && earnedCard && (
+        <div className="flex flex-col items-center justify-center min-h-screen px-6 gap-6 text-center">
+          <motion.div
+            className="text-5xl font-black"
+            style={{ color: activeLevel === 10 ? "#B44DFF" : "#00D4FF" }}
+            initial={{ scale: 0 }} animate={{ scale: 1 }}
+            transition={{ type: "spring", stiffness: 300, damping: 20 }}
+          >
+            {activeLevel === 10 ? t.bossDone : t.levelDone}
+          </motion.div>
+
+          <div className="flex flex-col items-center gap-1">
+            <span className="text-white/40 text-sm font-bold tracking-wider">{t.finalScore}</span>
+            <span className="text-4xl font-black text-white">{found}</span>
+            <span className="text-white/40 text-sm">/ {cfg.count}</span>
+          </div>
+
+          <motion.div
+            className="py-4 px-8 rounded-2xl border-2 flex flex-col items-center gap-2"
+            style={{ borderColor: RARITY_COLORS[earnedCard], background: `${RARITY_COLORS[earnedCard]}15` }}
+            initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.3 }}
+          >
+            {earnedCard === "legendary" && <span className="text-3xl">👑</span>}
+            {earnedCard === "gold"      && <span className="text-3xl">🥇</span>}
+            {earnedCard === "silver"    && <span className="text-3xl">🥈</span>}
+            {earnedCard === "bronze"    && <span className="text-3xl">🥉</span>}
+            <span className="font-black tracking-widest text-sm" style={{ color: RARITY_COLORS[earnedCard] }}>
+              {t.rarity[earnedCard]} {t.card}
+            </span>
+            {earnedCard === "legendary" && (
+              <span className="text-white/50 text-xs mt-1">{t.legendaryDesc}</span>
+            )}
+          </motion.div>
+
+          <div className="flex flex-col gap-3 w-full max-w-xs">
+            {activeLevel === 10 ? (
+              <>
+                <button
+                  onClick={() => {
+                    const ns: NRSave = { currentLevel: 1, completedLevels: [] };
+                    setSave(ns); writeSave(ns); setAvatarMood("idle"); setScreen("expedition");
+                  }}
+                  className="py-4 px-8 rounded-2xl font-black text-lg bg-[#B44DFF] text-white shadow-[0_0_20px_#B44DFF66] active:scale-95 transition-all"
+                >
+                  {t.newExpedition}
+                </button>
+                <Link href="/" className="py-3 px-8 rounded-2xl font-bold text-white/60 border border-white/20 text-center active:scale-95 transition-all">
+                  🏠 {t.home}
+                </Link>
+              </>
+            ) : (
+              <>
+                <button
+                  onClick={() => { setAvatarMood("idle"); setScreen("expedition"); }}
+                  className="py-4 px-8 rounded-2xl font-black text-lg bg-[#00D4FF] text-black shadow-[0_0_20px_#00D4FF66] active:scale-95 transition-all flex items-center justify-center gap-2"
+                >
+                  {t.nextLevel} <ChevronRight size={20} />
+                </button>
+                <button
+                  onClick={() => { setAvatarMood("idle"); setScreen("expedition"); }}
+                  className="py-3 px-8 rounded-2xl font-bold text-white/60 border border-white/20 active:scale-95 transition-all"
+                >
+                  {t.expeditionMap}
+                </button>
+              </>
+            )}
+          </div>
+        </div>
       )}
 
-      {gameState === "reward" && (
-        <RewardReveal
-          rarity={calculateRarity(score, 10, streak)}
-          game="numberrush"
-          score={score}
-          total={10}
-          onDone={() => setGameState("result")}
-        />
-      )}
+      {/* ── LEVEL FAILED ─────────────────────────────────────────────────────────── */}
+      {screen === "levelFailed" && (
+        <div className="flex flex-col items-center justify-center min-h-screen px-6 gap-6 text-center">
+          <motion.div
+            className="text-5xl font-black text-[#FF2D78]"
+            initial={{ scale: 0 }} animate={{ scale: 1 }}
+            transition={{ type: "spring", stiffness: 300, damping: 20 }}
+          >
+            {t.timeUp}
+          </motion.div>
 
-      {gameState === "result" && (
-        <>
-          <ResultCard
-            score={score}
-            total={10}
-            time={Math.round(elapsed)}
-            gameName="Number Rush"
-            gameIcon={<Hash size={24} className="text-cyan-400" />}
-            onPlayAgain={() => setGameState("ready")}
-          />
-          <MilestonePopup />
-        </>
+          <div className="flex flex-col items-center gap-1">
+            <span className="text-white/40 text-sm">{t.scoredPoints}</span>
+            <span className="text-4xl font-black text-white">{found}</span>
+            <span className="text-white/40 text-sm">
+              {t.goalWas}: <span className="text-[#00D4FF] font-bold">{cfg.count}</span>
+              {found >= cfg.count * 0.7 && <span className="text-[#FFD700] ml-2 font-bold">{t.almostThere}</span>}
+            </span>
+          </div>
+
+          <div className="flex flex-col gap-3 w-full max-w-xs">
+            <button
+              onClick={() => startLevel(activeLevel)}
+              className="py-4 px-8 rounded-2xl font-black text-lg bg-[#FF2D78] text-white shadow-[0_0_20px_#FF2D7866] active:scale-95 transition-all flex items-center justify-center gap-2"
+            >
+              <RotateCcw size={20} /> {t.retry}
+            </button>
+            <button
+              onClick={() => { setScreen("expedition"); setAvatarMood("idle"); }}
+              className="py-3 px-8 rounded-2xl font-bold text-white/60 border border-white/20 active:scale-95 transition-all"
+            >
+              {t.expeditionMap}
+            </button>
+            <Link href="/" className="py-3 px-8 rounded-2xl font-bold text-white/40 text-center active:scale-95 transition-all">
+              🏠 {t.home}
+            </Link>
+          </div>
+        </div>
       )}
-    </main>
+    </div>
   );
 }
