@@ -261,8 +261,8 @@ export default function NumberRushPage() {
 
   // ── Avatar ──────────────────────────────────────────────────────────────────
   const [avatarGender,  setAvatarGender]  = useState<AvatarGender>("girl");
-  const [avatarSkin,    setAvatarSkin]    = useState<ReturnType<typeof getSkinDef>    | null>(null);
-  const [avatarFace,    setAvatarFace]    = useState<ReturnType<typeof getFaceDef>    | null>(null);
+  const [avatarSkin,    setAvatarSkin]    = useState(() => getSkinDef("default"));
+  const [avatarFace,    setAvatarFace]    = useState(() => getFaceDef("default"));
   const [avatarTop,     setAvatarTop]     = useState<ReturnType<typeof getTopDef>     | null>(null);
   const [avatarBottom,  setAvatarBottom]  = useState<ReturnType<typeof getBottomDef>  | null>(null);
   const [avatarShoe,    setAvatarShoe]    = useState<ReturnType<typeof getShoeDef>    | null>(null);
