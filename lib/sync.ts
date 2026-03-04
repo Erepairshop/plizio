@@ -150,8 +150,9 @@ export async function downloadFromSupabase(userId: string): Promise<void> {
   const mergedSkins = [...new Set([...currentSkins, ...remoteSkins])];
   localStorage.setItem("plizio_owned_skins", JSON.stringify(mergedSkins));
 
-  // Active skin from remote
-  if (data.active_skin) {
+  // Active skin: remote csak akkor alkalmazandó, ha local még nincs beállítva
+  // (Ha user aktivált skint localisan, azt ne írja felül a régi remote érték)
+  if (data.active_skin && localStorage.getItem("plizio_active_skin") === null) {
     localStorage.setItem("plizio_active_skin", data.active_skin);
   }
 
