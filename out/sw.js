@@ -1,4 +1,4 @@
-const CACHE_NAME = "plizio-v6";
+const CACHE_NAME = "plizio-v7";
 
 self.addEventListener("install", (event) => {
   event.waitUntil(

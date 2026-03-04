@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Layers, Star, User, ChevronDown, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Layers, Star, User, ChevronDown, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import Logo from "@/components/Logo";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
@@ -56,6 +56,7 @@ const TRANSLATIONS = {
       "QUIZ & REFLEX": "QUIZ, REFLEX & WORD",
       "ADVENTURE": "ADVENTURE",
       "BRAIN": "BRAIN",
+      "LOGIC": "LOGIC",
     },
     games: {
       quickpick: "Quick Pick",
@@ -73,6 +74,8 @@ const TRANSLATIONS = {
       racetrack: "Racetrack",
       sequencerush: "Sequence Rush",
       wordhunt: "Word Hunt",
+      numberpath: "Number Path",
+      minisudoku: "Mini Sudoku",
     },
     ui: {
       comingSoon: "COMING SOON",
@@ -83,6 +86,7 @@ const TRANSLATIONS = {
       "QUIZ & REFLEX": "KVÍZ, REFLEX & SZÓ",
       "ADVENTURE": "KALAND",
       "BRAIN": "AGYTRÖSZT",
+      "LOGIC": "LOGIKA",
     },
     games: {
       quickpick: "Gyors Választás",
@@ -100,6 +104,8 @@ const TRANSLATIONS = {
       racetrack: "Pályaverseny",
       sequencerush: "Szekvencia Roham",
       wordhunt: "Szóvadász",
+      numberpath: "Számút",
+      minisudoku: "Mini Sudoku",
     },
     ui: {
       comingSoon: "HAMAROSAN",
@@ -110,6 +116,7 @@ const TRANSLATIONS = {
       "QUIZ & REFLEX": "QUIZ, REFLEX & WORT",
       "ADVENTURE": "ABENTEUER",
       "BRAIN": "GEHIRN",
+      "LOGIC": "LOGIK",
     },
     games: {
       quickpick: "Schnelle Wahl",
@@ -127,6 +134,8 @@ const TRANSLATIONS = {
       racetrack: "Rennstrecke",
       sequencerush: "Sequenz Rush",
       wordhunt: "Wortjagd",
+      numberpath: "Zahlenpfad",
+      minisudoku: "Mini Sudoku",
     },
     ui: {
       comingSoon: "BALD VERFÜGBAR",
@@ -137,6 +146,7 @@ const TRANSLATIONS = {
       "QUIZ & REFLEX": "QUIZ, REFLEX & CUVÂNT",
       "ADVENTURE": "AVENTURĂ",
       "BRAIN": "CREIER",
+      "LOGIC": "LOGICĂ",
     },
     games: {
       quickpick: "Alegere Rapidă",
@@ -154,6 +164,8 @@ const TRANSLATIONS = {
       racetrack: "Circuit de curse",
       sequencerush: "Sequence Rush",
       wordhunt: "Vânătoare de Cuvinte",
+      numberpath: "Calea Numerelor",
+      minisudoku: "Mini Sudoku",
     },
     ui: {
       comingSoon: "CÂT CURÂND",
@@ -289,6 +301,27 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
       },
     ],
   },
+  {
+    id: "logic",
+    icon: Puzzle,
+    color: "#00FF88",
+    games: [
+      {
+        id: "numberpath",
+        icon: Puzzle,
+        nameKey: "numberpath",
+        color: "#00FF88",
+        gradient: "bg-gradient-to-br from-green-500/20 to-teal-500/20",
+      },
+      {
+        id: "minisudoku",
+        icon: Puzzle,
+        nameKey: "minisudoku",
+        color: "#00D4FF",
+        gradient: "bg-gradient-to-br from-cyan-500/20 to-blue-500/20",
+      },
+    ],
+  },
 ];
 
 function getCategoriesWithTranslations(lang: string): CategoryDef[] {
@@ -297,11 +330,12 @@ function getCategoriesWithTranslations(lang: string): CategoryDef[] {
   const currentLang = validLangs.includes(lang as any) ? (lang as typeof validLangs[number]) : 'en';
   const t = TRANSLATIONS[lang as keyof typeof TRANSLATIONS] || TRANSLATIONS.en;
 
-  const categoryKeys: Array<"quizreflex" | "adventure" | "brain"> = ["quizreflex", "adventure", "brain"];
-  const categoryLabels: Record<"quizreflex" | "adventure" | "brain", keyof typeof t.categories> = {
+  const categoryKeys: Array<"quizreflex" | "adventure" | "brain" | "logic"> = ["quizreflex", "adventure", "brain", "logic"];
+  const categoryLabels: Record<"quizreflex" | "adventure" | "brain" | "logic", keyof typeof t.categories> = {
     quizreflex: "QUIZ & REFLEX",
     adventure: "ADVENTURE",
     brain: "BRAIN",
+    logic: "LOGIC",
   };
 
   return CATEGORIES_BASE.map((cat, idx) => {
