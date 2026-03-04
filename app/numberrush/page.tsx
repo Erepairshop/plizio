@@ -554,7 +554,7 @@ export default function NumberRushPage() {
               <Hash size={20} className="text-[#00D4FF]" />
               <span className="text-lg font-black tracking-wider text-[#00D4FF]">{t.title}</span>
             </div>
-            <div className="w-20 h-20 flex-shrink-0">
+            <div className="w-20 h-20 flex-shrink-0 overflow-hidden">
               <AvatarCompanion {...avatarProps} fixed={false} />
             </div>
           </div>
@@ -820,8 +820,8 @@ export default function NumberRushPage() {
         <div className="flex flex-col items-center justify-center min-h-screen px-6 gap-4 text-center">
           <motion.div
             className="w-60 h-60"
-            initial={{ scale: 0, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}
-            transition={{ type: "spring", stiffness: 260, damping: 22 }}
+            initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+            transition={{ duration: 0.4 }}
           >
             <AvatarCompanion {...avatarProps} fixed={false} />
           </motion.div>
@@ -898,8 +898,8 @@ export default function NumberRushPage() {
         <div className="flex flex-col items-center justify-center min-h-screen px-6 gap-4 text-center">
           <motion.div
             className="w-52 h-52"
-            initial={{ scale: 0, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}
-            transition={{ type: "spring", stiffness: 260, damping: 22 }}
+            initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+            transition={{ duration: 0.4 }}
           >
             <AvatarCompanion {...avatarProps} fixed={false} />
           </motion.div>
