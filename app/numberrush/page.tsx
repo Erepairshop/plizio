@@ -189,13 +189,13 @@ const LEVELS: NRLevelConfig[] = [
   { level: 1,  gridSize: 3, count: 6,  flashDelay: 0,    timeLimit: 45, hasPowerups: false, powerupCount: 0 },
   { level: 2,  gridSize: 3, count: 9,  flashDelay: 0,    timeLimit: 50, hasPowerups: false, powerupCount: 0 },
   { level: 3,  gridSize: 4, count: 12, flashDelay: 0,    timeLimit: 50, hasPowerups: false, powerupCount: 0 },
-  { level: 4,  gridSize: 4, count: 12, flashDelay: 3000, timeLimit: 45, hasPowerups: true,  powerupCount: 2 },
-  { level: 5,  gridSize: 4, count: 14, flashDelay: 2500, timeLimit: 42, hasPowerups: true,  powerupCount: 2 },
-  { level: 6,  gridSize: 5, count: 16, flashDelay: 2000, timeLimit: 45, hasPowerups: true,  powerupCount: 3 },
-  { level: 7,  gridSize: 5, count: 18, flashDelay: 1500, timeLimit: 42, hasPowerups: true,  powerupCount: 3 },
-  { level: 8,  gridSize: 5, count: 20, flashDelay: 1200, timeLimit: 40, hasPowerups: true,  powerupCount: 3 },
-  { level: 9,  gridSize: 6, count: 24, flashDelay: 900,  timeLimit: 45, hasPowerups: true,  powerupCount: 4 },
-  { level: 10, gridSize: 6, count: 28, flashDelay: 600,  timeLimit: 42, hasPowerups: true,  powerupCount: 4 },
+  { level: 4,  gridSize: 4, count: 12, flashDelay: 8000, timeLimit: 45, hasPowerups: true,  powerupCount: 2 },
+  { level: 5,  gridSize: 4, count: 14, flashDelay: 7500, timeLimit: 42, hasPowerups: true,  powerupCount: 2 },
+  { level: 6,  gridSize: 5, count: 16, flashDelay: 7000, timeLimit: 45, hasPowerups: true,  powerupCount: 3 },
+  { level: 7,  gridSize: 5, count: 18, flashDelay: 6500, timeLimit: 42, hasPowerups: true,  powerupCount: 3 },
+  { level: 8,  gridSize: 5, count: 20, flashDelay: 6000, timeLimit: 40, hasPowerups: true,  powerupCount: 3 },
+  { level: 9,  gridSize: 6, count: 24, flashDelay: 5800, timeLimit: 45, hasPowerups: true,  powerupCount: 4 },
+  { level: 10, gridSize: 6, count: 28, flashDelay: 5500, timeLimit: 42, hasPowerups: true,  powerupCount: 4 },
 ];
 
 const LEVEL_BADGES = ["🔢", "🔢", "🔢", "👁️", "👁️", "⚡", "⚡", "🔥", "🔥", "👑"];
@@ -554,7 +554,7 @@ export default function NumberRushPage() {
               <Hash size={20} className="text-[#00D4FF]" />
               <span className="text-lg font-black tracking-wider text-[#00D4FF]">{t.title}</span>
             </div>
-            <div className="w-16 h-16 flex-shrink-0">
+            <div className="w-20 h-20 flex-shrink-0">
               <AvatarCompanion {...avatarProps} fixed={false} />
             </div>
           </div>
@@ -819,7 +819,7 @@ export default function NumberRushPage() {
       {screen === "levelComplete" && earnedCard && (
         <div className="flex flex-col items-center justify-center min-h-screen px-6 gap-4 text-center">
           <motion.div
-            className="w-44 h-44"
+            className="w-60 h-60"
             initial={{ scale: 0, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}
             transition={{ type: "spring", stiffness: 260, damping: 22 }}
           >
@@ -897,7 +897,7 @@ export default function NumberRushPage() {
       {screen === "levelFailed" && (
         <div className="flex flex-col items-center justify-center min-h-screen px-6 gap-4 text-center">
           <motion.div
-            className="w-36 h-36"
+            className="w-52 h-52"
             initial={{ scale: 0, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}
             transition={{ type: "spring", stiffness: 260, damping: 22 }}
           >
