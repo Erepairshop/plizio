@@ -15,7 +15,7 @@ export interface AvatarCompanionProps {
   skinColor?: string;
   outfitColor?: string;
   fixed?: boolean;
-  jumpTrigger?: { reaction: 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | null; timestamp: number };
+  jumpTrigger?: { reaction: 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | 'wave' | 'dance' | 'spin' | null; timestamp: number };
   // Gender
   gender?: AvatarGender;
   // Full shop customization
@@ -514,6 +514,8 @@ function Character({
   const mouthRef = useRef<THREE.Mesh | null>(null);
   const leftArmRef = useRef<THREE.Group>(null);
   const rightArmRef = useRef<THREE.Group>(null);
+  const leftForearmRef = useRef<THREE.Group | null>(null);
+  const rightForearmRef = useRef<THREE.Group | null>(null);
   const leftShoulderRef = useRef<THREE.Mesh>(null);
   const rightShoulderRef = useRef<THREE.Mesh>(null);
   const leftLegRef = useRef<THREE.Mesh>(null);
@@ -524,7 +526,8 @@ function Character({
   const blinkNext = useRef(nextBlink());
   const blinkPhase = useRef(-1);
   const jumpTimer = useRef(-1);
-  const reactionMoodRef = useRef<'idle' | 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing'>('idle');
+  const reactionDurationRef = useRef(0.6);
+  const reactionMoodRef = useRef<'idle' | 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | 'wave' | 'dance' | 'spin'>('idle');
   const [frameT, setFrameT] = useState(0);
 
   // ── Resolve colors from items ──────────────────────────
@@ -554,6 +557,7 @@ function Character({
     if (jumpTrigger?.reaction) {
       jumpTimer.current = 0;
       reactionMoodRef.current = jumpTrigger.reaction;
+      reactionDurationRef.current = ['wave', 'dance', 'spin'].includes(jumpTrigger.reaction) ? 1.4 : 0.6;
     }
   }, [jumpTrigger?.timestamp]);
 
@@ -565,12 +569,13 @@ function Character({
     setFrameT(tRef.current);
 
     if (jumpTimer.current >= 0) {
-      jumpTimer.current += delta / 0.6;
+      jumpTimer.current += delta / reactionDurationRef.current;
       if (jumpTimer.current > 1) jumpTimer.current = -1;
     }
 
     const t = tRef.current;
-    let m = moodRef.current;
+    type AnyMood = 'idle' | 'focused' | 'happy' | 'disappointed' | 'victory' | 'surprised' | 'confused' | 'laughing' | 'wave' | 'dance' | 'spin';
+    let m: AnyMood = moodRef.current;
     if (jumpTimer.current >= 0) m = reactionMoodRef.current;
 
     const lerp = THREE.MathUtils.lerp;
@@ -608,6 +613,19 @@ function Character({
     if (rightArmRef.current) {
       rightArmRef.current.rotation.z = lerp(rightArmRef.current.rotation.z, 0.15, 0.1);
       rightArmRef.current.rotation.x = lerp(rightArmRef.current.rotation.x, 0.12, 0.1);
+    }
+    if (leftForearmRef.current) {
+      leftForearmRef.current.rotation.x = lerp(leftForearmRef.current.rotation.x, 0, 0.1);
+      leftForearmRef.current.rotation.z = lerp(leftForearmRef.current.rotation.z, 0, 0.1);
+    }
+    if (rightForearmRef.current) {
+      rightForearmRef.current.rotation.x = lerp(rightForearmRef.current.rotation.x, 0, 0.1);
+      rightForearmRef.current.rotation.z = lerp(rightForearmRef.current.rotation.z, 0, 0.1);
+    }
+    // Leg rotation reset (when not in reaction)
+    if (jumpTimer.current < 0 && leftLegRef.current && rightLegRef.current) {
+      leftLegRef.current.rotation.x = lerp(leftLegRef.current.rotation.x || 0, 0, 0.08);
+      rightLegRef.current.rotation.x = lerp(rightLegRef.current.rotation.x || 0, 0, 0.08);
     }
 
     if (leftShoulderRef.current && rightShoulderRef.current) {
@@ -658,27 +676,167 @@ function Character({
       mouthRef.current.position.y = lerp(mouthRef.current.position.y, -0.1, 0.12);
     }
 
-    // Jump reactions
+    // Jump reactions — full body
     if (jumpTimer.current >= 0) {
       const jp = jumpTimer.current;
       switch (reactionMoodRef.current) {
-        case 'happy':
+        case 'happy': {
           headRef.current.rotation.x = Math.sin(jp * Math.PI * 2) * 0.15;
+          headRef.current.rotation.z = Math.sin(jp * Math.PI * 3) * 0.07;
+          if (leftArmRef.current && rightArmRef.current) {
+            leftArmRef.current.rotation.z = -0.15 - Math.sin(jp * Math.PI) * 1.1;
+            rightArmRef.current.rotation.z = 0.15 + Math.sin(jp * Math.PI) * 1.1;
+            leftArmRef.current.rotation.x = -Math.sin(jp * Math.PI) * 0.35;
+            rightArmRef.current.rotation.x = -Math.sin(jp * Math.PI) * 0.35;
+          }
+          if (leftForearmRef.current && rightForearmRef.current) {
+            leftForearmRef.current.rotation.x = Math.sin(jp * Math.PI * 2) * 0.45;
+            rightForearmRef.current.rotation.x = Math.sin(jp * Math.PI * 2 + 0.6) * 0.45;
+          }
+          if (leftLegRef.current && rightLegRef.current) {
+            leftLegRef.current.rotation.x = Math.sin(jp * Math.PI * 2) * 0.28;
+            rightLegRef.current.rotation.x = Math.sin(jp * Math.PI * 2 + Math.PI) * 0.28;
+          }
           break;
-        case 'surprised':
-          headRef.current.rotation.x = -0.2;
+        }
+        case 'surprised': {
+          const shoot = Math.min(1, jp * 5);
+          headRef.current.rotation.x = -0.3 * shoot;
+          headRef.current.rotation.z = Math.sin(jp * Math.PI * 2) * 0.04;
+          if (leftArmRef.current && rightArmRef.current) {
+            leftArmRef.current.rotation.z = -0.15 - shoot * 1.0;
+            rightArmRef.current.rotation.z = 0.15 + shoot * 1.0;
+            leftArmRef.current.rotation.x = -shoot * 0.55;
+            rightArmRef.current.rotation.x = -shoot * 0.55;
+          }
+          if (leftForearmRef.current && rightForearmRef.current) {
+            leftForearmRef.current.rotation.x = -shoot * 0.7;
+            rightForearmRef.current.rotation.x = -shoot * 0.7;
+          }
+          if (leftLegRef.current && rightLegRef.current) {
+            leftLegRef.current.rotation.x = shoot * 0.12;
+            rightLegRef.current.rotation.x = -shoot * 0.12;
+          }
           break;
-        case 'victory':
-          headRef.current.rotation.x = -0.25;
-          groupRef.current.rotation.z = Math.sin(jp * Math.PI * 1.5) * 0.1;
+        }
+        case 'victory': {
+          const arm = Math.min(1, jp * 2.5);
+          headRef.current.rotation.x = -0.3 * Math.min(1, jp * 2);
+          groupRef.current.rotation.y += 0.08;
+          if (leftArmRef.current && rightArmRef.current) {
+            leftArmRef.current.rotation.z = -0.15 - arm * 1.4;
+            rightArmRef.current.rotation.z = 0.15 + arm * 1.4;
+            leftArmRef.current.rotation.x = -arm * 0.55;
+            rightArmRef.current.rotation.x = -arm * 0.55;
+          }
+          if (leftForearmRef.current && rightForearmRef.current) {
+            leftForearmRef.current.rotation.x = -Math.min(1, jp * 3) * 0.5;
+            rightForearmRef.current.rotation.x = -Math.min(1, jp * 3) * 0.5;
+          }
+          if (leftLegRef.current && rightLegRef.current) {
+            leftLegRef.current.rotation.x = Math.sin(jp * Math.PI * 4) * 0.22;
+            rightLegRef.current.rotation.x = Math.sin(jp * Math.PI * 4 + Math.PI) * 0.22;
+          }
           break;
-        case 'confused':
+        }
+        case 'confused': {
           headRef.current.rotation.x = 0.2;
+          headRef.current.rotation.z = 0.22 * Math.min(1, jp * 3);
+          if (rightArmRef.current) {
+            rightArmRef.current.rotation.z = 0.15 + Math.min(1, jp * 3) * 0.75;
+            rightArmRef.current.rotation.x = -Math.min(1, jp * 3) * 0.65;
+          }
+          if (rightForearmRef.current) {
+            rightForearmRef.current.rotation.x = -Math.min(1, jp * 2) * 0.85;
+          }
+          if (leftArmRef.current) {
+            leftArmRef.current.rotation.z = -0.15 - Math.min(1, jp * 2) * 0.18;
+            leftArmRef.current.rotation.x = 0.18;
+          }
+          if (leftForearmRef.current) {
+            leftForearmRef.current.rotation.x = Math.sin(jp * Math.PI * 3) * 0.12;
+          }
           break;
-        case 'laughing':
-          headRef.current.rotation.y = Math.sin(jp * Math.PI * 3) * 0.15;
-          headRef.current.rotation.z = Math.sin(jp * Math.PI * 3 + 0.5) * 0.1;
+        }
+        case 'laughing': {
+          headRef.current.rotation.y = Math.sin(jp * Math.PI * 5) * 0.18;
+          headRef.current.rotation.z = Math.sin(jp * Math.PI * 5 + 0.5) * 0.13;
+          groupRef.current.rotation.z = Math.sin(jp * Math.PI * 3) * 0.07;
+          if (leftArmRef.current && rightArmRef.current) {
+            leftArmRef.current.rotation.x = 0.5 + Math.sin(jp * Math.PI * 4) * 0.1;
+            rightArmRef.current.rotation.x = 0.5 + Math.sin(jp * Math.PI * 4) * 0.1;
+            leftArmRef.current.rotation.z = lerp(leftArmRef.current.rotation.z, -0.08, 0.15);
+            rightArmRef.current.rotation.z = lerp(rightArmRef.current.rotation.z, 0.08, 0.15);
+          }
+          if (leftForearmRef.current && rightForearmRef.current) {
+            leftForearmRef.current.rotation.x = 0.65 + Math.sin(jp * Math.PI * 4) * 0.12;
+            rightForearmRef.current.rotation.x = 0.65 + Math.sin(jp * Math.PI * 4) * 0.12;
+          }
           break;
+        }
+        case 'wave': {
+          headRef.current.rotation.y = -0.18;
+          headRef.current.rotation.z = Math.sin(jp * Math.PI * 2) * 0.05;
+          groupRef.current.rotation.y = Math.sin(jp * Math.PI) * 0.1;
+          if (rightArmRef.current) {
+            rightArmRef.current.rotation.z = 0.15 + Math.min(1, jp * 4) * 1.2;
+            rightArmRef.current.rotation.x = -Math.min(1, jp * 4) * 0.35;
+          }
+          if (rightForearmRef.current) {
+            rightForearmRef.current.rotation.x = Math.sin(jp * Math.PI * 6) * 0.55;
+            rightForearmRef.current.rotation.z = Math.sin(jp * Math.PI * 6) * 0.18;
+          }
+          if (leftArmRef.current) {
+            leftArmRef.current.rotation.z = -0.15 + Math.sin(jp * Math.PI * 1.5) * 0.08;
+            leftArmRef.current.rotation.x = 0.1;
+          }
+          if (leftForearmRef.current) {
+            leftForearmRef.current.rotation.x = Math.sin(jp * Math.PI * 2) * 0.1;
+          }
+          break;
+        }
+        case 'dance': {
+          const dFreq = jp * Math.PI * 4;
+          headRef.current.rotation.z = Math.sin(dFreq) * 0.13;
+          headRef.current.rotation.y = Math.sin(dFreq * 0.5) * 0.15;
+          groupRef.current.rotation.z = Math.sin(dFreq * 0.5) * 0.06;
+          bodyRef.current.position.y = Math.abs(Math.sin(dFreq)) * 0.045;
+          if (leftArmRef.current && rightArmRef.current) {
+            leftArmRef.current.rotation.z = -0.15 - Math.abs(Math.sin(dFreq)) * 0.75;
+            rightArmRef.current.rotation.z = 0.15 + Math.abs(Math.sin(dFreq + Math.PI)) * 0.75;
+            leftArmRef.current.rotation.x = Math.sin(dFreq) * 0.22;
+            rightArmRef.current.rotation.x = Math.sin(dFreq + Math.PI) * 0.22;
+          }
+          if (leftForearmRef.current && rightForearmRef.current) {
+            leftForearmRef.current.rotation.x = Math.sin(dFreq + Math.PI * 0.5) * 0.45;
+            rightForearmRef.current.rotation.x = Math.sin(dFreq - Math.PI * 0.5) * 0.45;
+          }
+          if (leftLegRef.current && rightLegRef.current) {
+            leftLegRef.current.rotation.x = Math.sin(dFreq) * 0.18;
+            rightLegRef.current.rotation.x = Math.sin(dFreq + Math.PI) * 0.18;
+          }
+          if (leftShoulderRef.current && rightShoulderRef.current) {
+            leftShoulderRef.current.position.y = 0.2 + Math.sin(dFreq) * 0.022;
+            rightShoulderRef.current.position.y = 0.2 + Math.sin(dFreq + Math.PI) * 0.022;
+          }
+          break;
+        }
+        case 'spin': {
+          groupRef.current.rotation.y += 0.11;
+          if (leftArmRef.current && rightArmRef.current) {
+            leftArmRef.current.rotation.z = lerp(leftArmRef.current.rotation.z, -1.0, 0.15);
+            rightArmRef.current.rotation.z = lerp(rightArmRef.current.rotation.z, 1.0, 0.15);
+            leftArmRef.current.rotation.x = 0;
+            rightArmRef.current.rotation.x = 0;
+          }
+          if (leftForearmRef.current && rightForearmRef.current) {
+            leftForearmRef.current.rotation.x = Math.sin(jp * Math.PI * 4) * 0.3;
+            rightForearmRef.current.rotation.x = Math.sin(jp * Math.PI * 4 + Math.PI) * 0.3;
+          }
+          headRef.current.rotation.z = Math.sin(jp * Math.PI * 6) * 0.1;
+          bodyRef.current.position.y = Math.sin(jp * Math.PI * 2) * 0.03;
+          break;
+        }
       }
     }
 
@@ -691,8 +849,14 @@ function Character({
         headRef.current.rotation.z = Math.sin(t * 0.55 + 1.2) * 0.025;
         headRef.current.rotation.y = Math.sin(t * 0.4 + 0.5) * 0.02;
         if (leftArmRef.current && rightArmRef.current) {
-          leftArmRef.current.rotation.z = -0.15 + Math.sin(t * 0.75) * 0.04;
-          rightArmRef.current.rotation.z = 0.15 - Math.sin(t * 0.75 + 0.8) * 0.04;
+          leftArmRef.current.rotation.z = -0.15 + Math.sin(t * 0.75) * 0.045;
+          rightArmRef.current.rotation.z = 0.15 - Math.sin(t * 0.75 + 0.8) * 0.045;
+          leftArmRef.current.rotation.x = 0.1 + Math.sin(t * 0.6 + 0.3) * 0.03;
+          rightArmRef.current.rotation.x = 0.1 + Math.sin(t * 0.55) * 0.03;
+        }
+        if (leftForearmRef.current && rightForearmRef.current) {
+          leftForearmRef.current.rotation.x = Math.sin(t * 0.9) * 0.07;
+          rightForearmRef.current.rotation.x = Math.sin(t * 0.85 + 0.6) * 0.07;
         }
         if (leftShoulderRef.current && rightShoulderRef.current) {
           const sBreath = Math.sin(t * 1.3) * 0.006;
@@ -980,10 +1144,11 @@ function Character({
         {activeHat && <HatMesh hat={activeHat} skinColor={actualSkinColor} />}
       </group>
 
-      {/* ══ LEFT ARM ════════════════════════════════════════ */}
+      {/* ══ LEFT ARM (shoulder→elbow→hand) ══════════════════ */}
       <group ref={leftArmRef} position={[-0.33, 0.16, 0]} rotation={[0.12, 0, -0.15]}>
-        <mesh position={[0, -0.16, 0]}>
-          <cylinderGeometry args={[0.058, 0.068, 0.32, 6]} />
+        {/* Upper arm */}
+        <mesh position={[0, -0.11, 0]}>
+          <cylinderGeometry args={[0.058, 0.066, 0.22, 6]} />
           <meshStandardMaterial
             color={actualLimbColor}
             emissive={skinEmissive || '#000000'}
@@ -992,23 +1157,36 @@ function Character({
             metalness={0.02}
           />
         </mesh>
-        {/* Hand */}
-        <mesh position={[0, -0.36, 0]}>
-          <sphereGeometry args={[0.072, 8, 6]} />
-          <meshStandardMaterial
-            color={actualHandColor}
-            emissive={skinEmissive || '#000000'}
-            emissiveIntensity={skinEmissiveIntensity * 0.3}
-            roughness={0.55}
-            metalness={0.02}
-          />
-        </mesh>
+        {/* Forearm + hand (pivot = elbow at y=-0.22) */}
+        <group ref={leftForearmRef} position={[0, -0.22, 0]}>
+          <mesh position={[0, -0.08, 0]}>
+            <cylinderGeometry args={[0.05, 0.058, 0.16, 6]} />
+            <meshStandardMaterial
+              color={actualLimbColor}
+              emissive={skinEmissive || '#000000'}
+              emissiveIntensity={skinEmissiveIntensity * 0.4}
+              roughness={0.62}
+              metalness={0.02}
+            />
+          </mesh>
+          <mesh position={[0, -0.18, 0]}>
+            <sphereGeometry args={[0.072, 8, 6]} />
+            <meshStandardMaterial
+              color={actualHandColor}
+              emissive={skinEmissive || '#000000'}
+              emissiveIntensity={skinEmissiveIntensity * 0.3}
+              roughness={0.55}
+              metalness={0.02}
+            />
+          </mesh>
+        </group>
       </group>
 
-      {/* ══ RIGHT ARM ═══════════════════════════════════════ */}
+      {/* ══ RIGHT ARM (shoulder→elbow→hand) ══════════════════ */}
       <group ref={rightArmRef} position={[0.33, 0.16, 0]} rotation={[0.12, 0, 0.15]}>
-        <mesh position={[0, -0.16, 0]}>
-          <cylinderGeometry args={[0.058, 0.068, 0.32, 6]} />
+        {/* Upper arm */}
+        <mesh position={[0, -0.11, 0]}>
+          <cylinderGeometry args={[0.058, 0.066, 0.22, 6]} />
           <meshStandardMaterial
             color={actualLimbColor}
             emissive={skinEmissive || '#000000'}
@@ -1017,17 +1195,29 @@ function Character({
             metalness={0.02}
           />
         </mesh>
-        {/* Hand */}
-        <mesh position={[0, -0.36, 0]}>
-          <sphereGeometry args={[0.072, 8, 6]} />
-          <meshStandardMaterial
-            color={actualHandColor}
-            emissive={skinEmissive || '#000000'}
-            emissiveIntensity={skinEmissiveIntensity * 0.3}
-            roughness={0.55}
-            metalness={0.02}
-          />
-        </mesh>
+        {/* Forearm + hand (pivot = elbow at y=-0.22) */}
+        <group ref={rightForearmRef} position={[0, -0.22, 0]}>
+          <mesh position={[0, -0.08, 0]}>
+            <cylinderGeometry args={[0.05, 0.058, 0.16, 6]} />
+            <meshStandardMaterial
+              color={actualLimbColor}
+              emissive={skinEmissive || '#000000'}
+              emissiveIntensity={skinEmissiveIntensity * 0.4}
+              roughness={0.62}
+              metalness={0.02}
+            />
+          </mesh>
+          <mesh position={[0, -0.18, 0]}>
+            <sphereGeometry args={[0.072, 8, 6]} />
+            <meshStandardMaterial
+              color={actualHandColor}
+              emissive={skinEmissive || '#000000'}
+              emissiveIntensity={skinEmissiveIntensity * 0.3}
+              roughness={0.55}
+              metalness={0.02}
+            />
+          </mesh>
+        </group>
       </group>
 
       {/* ══ LEFT LEG ════════════════════════════════════════ */}
@@ -1091,14 +1281,14 @@ export default function AvatarCompanion({
 }: AvatarCompanionProps) {
   const positionClass = fixed ? 'fixed z-50' : 'relative w-full h-full';
   const [localJump, setLocalJump] = useState<{
-    reaction: 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | null;
+    reaction: 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | 'wave' | 'dance' | 'spin' | null;
     timestamp: number;
   }>({ reaction: null, timestamp: 0 });
 
   const effectiveJump = jumpTrigger || localJump;
 
-  const reactions: Array<'happy' | 'surprised' | 'victory' | 'confused' | 'laughing'> = [
-    'happy', 'surprised', 'victory', 'confused', 'laughing',
+  const reactions: Array<'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | 'wave' | 'dance' | 'spin'> = [
+    'happy', 'surprised', 'victory', 'confused', 'laughing', 'wave', 'dance', 'spin',
   ];
 
   const handleClick = () => {
