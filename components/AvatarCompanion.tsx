@@ -370,9 +370,9 @@ function FaceFeatures({
         <sphereGeometry args={[0.007, 6, 6]} />
         <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.6} />
       </mesh>
-      {/* Left lid — bottom-cap, grows DOWNWARD over eye */}
-      <mesh ref={leftLidRef} position={[-0.08, 0.082, 0.2]} scale={[1, 0.01, 1]}>
-        <sphereGeometry args={[0.047, 8, 4, 0, Math.PI * 2, Math.PI * 0.5, Math.PI * 0.5]} />
+      {/* Left lid — bottom-cap, anchored just above iris, sweeps down */}
+      <mesh ref={leftLidRef} position={[-0.08, 0.065, 0.225]} scale={[1, 0.01, 1]}>
+        <sphereGeometry args={[0.052, 8, 4, 0, Math.PI * 2, Math.PI * 0.5, Math.PI * 0.5]} />
         <meshStandardMaterial color={skinColor} roughness={0.6} side={THREE.DoubleSide} />
       </mesh>
       {/* Left eyebrow — always rendered, animated by blink */}
@@ -418,9 +418,9 @@ function FaceFeatures({
         <sphereGeometry args={[0.007, 6, 6]} />
         <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.6} />
       </mesh>
-      {/* Right lid — bottom-cap, grows DOWNWARD over eye */}
-      <mesh ref={rightLidRef} position={[0.08, 0.082, 0.2]} scale={[1, 0.01, 1]}>
-        <sphereGeometry args={[0.047, 8, 4, 0, Math.PI * 2, Math.PI * 0.5, Math.PI * 0.5]} />
+      {/* Right lid — bottom-cap, anchored just above iris, sweeps down */}
+      <mesh ref={rightLidRef} position={[0.08, 0.065, 0.225]} scale={[1, 0.01, 1]}>
+        <sphereGeometry args={[0.052, 8, 4, 0, Math.PI * 2, Math.PI * 0.5, Math.PI * 0.5]} />
         <meshStandardMaterial color={skinColor} roughness={0.6} side={THREE.DoubleSide} />
       </mesh>
       {/* Right eyebrow — always rendered, animated by blink */}
