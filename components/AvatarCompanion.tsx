@@ -306,7 +306,7 @@ function FaceFeatures({
 }: {
   face: FaceDef | null;
   skinColor: string;
-  mouthRef: React.RefObject<THREE.Mesh | null>;
+  mouthRef: React.RefObject<THREE.Object3D | null>;
   leftLidRef: React.RefObject<THREE.Mesh | null>;
   rightLidRef: React.RefObject<THREE.Mesh | null>;
   leftIrisRef: React.RefObject<THREE.Mesh | null>;
@@ -314,12 +314,156 @@ function FaceFeatures({
   leftBrowRef: React.RefObject<THREE.Mesh | null>;
   rightBrowRef: React.RefObject<THREE.Mesh | null>;
 }) {
-  const eyeCol = face?.eyeColor || '#2a2a2a';
+  const eyeCol  = face?.eyeColor  || '#2a2a2a';
   const mouthCol = face?.mouthColor || '#b06060';
-  const eyeType = face?.eyeType || 'dot';
+  const eyeType   = face?.eyeType   || 'dot';
   const mouthType = face?.mouthType || 'none';
 
-  const eyeSize = eyeType === 'round' ? 0.028 : eyeType === 'dot' ? 0.018 : 0.023;
+  // ── Eyebrow params per expression ─────────────────────
+  const browY =
+    eyeType === 'surprised' ? 0.115 :
+    eyeType === 'angry'     ? 0.096 :
+    eyeType === 'sad'       ? 0.097 :
+    0.1;
+  // +ve = inner end down (angry frown) | -ve = inner end up (sad droop)
+  const leftBrowRotZ =
+    eyeType === 'angry'     ?  0.40 :
+    eyeType === 'sad'       ? -0.28 :
+    eyeType === 'surprised' ?  0.05 :
+    eyeType === 'happy'     ?  0.04 :
+    0.07;
+  const rightBrowRotZ = -leftBrowRotZ;
+
+  // Iris sphere size for normal types
+  const irisSize = eyeType === 'round' ? 0.030 : eyeType === 'dot' ? 0.015 : 0.022;
+  // Special eye types use overlay meshes instead of a sphere iris
+  const specialEye = eyeType === 'happy' || eyeType === 'x' || eyeType === 'heart' || eyeType === 'star';
+
+  // ── Per-eye renderer ───────────────────────────────────
+  const renderEye = (
+    side: -1 | 1,
+    irisRef: React.RefObject<THREE.Mesh | null>,
+    lidRef:  React.RefObject<THREE.Mesh | null>,
+    browRef: React.RefObject<THREE.Mesh | null>,
+  ) => {
+    const x   = side * 0.08;
+    const bx  = side * 0.085;
+    const sx  = side === -1 ? -0.075 : 0.085;
+    const isWinkClosed = eyeType === 'wink' && side === -1;
+    const browRotZ = side === -1 ? leftBrowRotZ : rightBrowRotZ;
+
+    return (
+      <>
+        {/* Eye white — hidden for happy (arc eye) and wink-closed */}
+        {!specialEye && !isWinkClosed && (
+          <mesh position={[x, 0.04, 0.19]}>
+            <sphereGeometry args={[0.042, 8, 8]} />
+            <meshStandardMaterial color="#f2f2f2" roughness={0.25} />
+          </mesh>
+        )}
+
+        {/* Angry squint: skin-coloured overlay covers top of eye white */}
+        {eyeType === 'angry' && (
+          <mesh position={[x, 0.073, 0.234]}>
+            <boxGeometry args={[0.094, 0.048, 0.009]} />
+            <meshStandardMaterial color={skinColor} roughness={0.6} />
+          </mesh>
+        )}
+
+        {/* Iris ref mesh — always a tiny invisible sphere so gaze animation has a target */}
+        <mesh ref={irisRef} position={[x, 0.04, 0.215]}>
+          <sphereGeometry args={[specialEye || isWinkClosed ? 0.001 : irisSize, 8, 8]} />
+          <meshStandardMaterial color={eyeCol} roughness={0.35} />
+        </mesh>
+
+        {/* ── Special eye overlays ──────────────────────── */}
+
+        {/* Happy: ^ arc (torusGeometry top-half arch) */}
+        {eyeType === 'happy' && (
+          <mesh position={[x, 0.04, 0.236]}>
+            <torusGeometry args={[0.027, 0.009, 6, 12, Math.PI]} />
+            <meshStandardMaterial color={eyeCol} roughness={0.35} />
+          </mesh>
+        )}
+
+        {/* Wink closed eye: horizontal line */}
+        {isWinkClosed && (
+          <mesh position={[x, 0.04, 0.236]}>
+            <boxGeometry args={[0.068, 0.011, 0.006]} />
+            <meshStandardMaterial color={eyeCol} roughness={0.4} />
+          </mesh>
+        )}
+
+        {/* X eyes: cross of two bars */}
+        {eyeType === 'x' && (
+          <>
+            <mesh position={[x, 0.04, 0.229]} rotation={[0, 0, Math.PI / 4]}>
+              <boxGeometry args={[0.058, 0.013, 0.005]} />
+              <meshStandardMaterial color={eyeCol} roughness={0.4} />
+            </mesh>
+            <mesh position={[x, 0.04, 0.229]} rotation={[0, 0, -Math.PI / 4]}>
+              <boxGeometry args={[0.058, 0.013, 0.005]} />
+              <meshStandardMaterial color={eyeCol} roughness={0.4} />
+            </mesh>
+          </>
+        )}
+
+        {/* Heart eyes: 3-sphere heart shape */}
+        {eyeType === 'heart' && (
+          <>
+            <mesh position={[x - 0.011, 0.050, 0.233]}>
+              <sphereGeometry args={[0.019, 8, 6]} />
+              <meshStandardMaterial color={eyeCol} emissive={eyeCol} emissiveIntensity={0.7} roughness={0.2} />
+            </mesh>
+            <mesh position={[x + 0.011, 0.050, 0.233]}>
+              <sphereGeometry args={[0.019, 8, 6]} />
+              <meshStandardMaterial color={eyeCol} emissive={eyeCol} emissiveIntensity={0.7} roughness={0.2} />
+            </mesh>
+            <mesh position={[x, 0.032, 0.230]} scale={[1.4, 1.15, 1]}>
+              <sphereGeometry args={[0.020, 8, 6]} />
+              <meshStandardMaterial color={eyeCol} emissive={eyeCol} emissiveIntensity={0.7} roughness={0.2} />
+            </mesh>
+          </>
+        )}
+
+        {/* Star eyes: 4 crossing bars + bright centre */}
+        {eyeType === 'star' && (
+          <>
+            {([0, Math.PI / 4, Math.PI / 2, Math.PI * 3 / 4] as number[]).map((rot, i) => (
+              <mesh key={i} position={[x, 0.04, 0.231]} rotation={[0, 0, rot]}>
+                <boxGeometry args={[0.064, 0.013, 0.005]} />
+                <meshStandardMaterial color={eyeCol} emissive={eyeCol} emissiveIntensity={1.0} roughness={0.1} />
+              </mesh>
+            ))}
+            <mesh position={[x, 0.04, 0.235]}>
+              <sphereGeometry args={[0.011, 6, 6]} />
+              <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={1.5} roughness={0.05} />
+            </mesh>
+          </>
+        )}
+
+        {/* Specular highlight (not for wink-closed, happy arc, or x-eyes) */}
+        {!isWinkClosed && eyeType !== 'happy' && eyeType !== 'x' && (
+          <mesh position={[sx, 0.048, 0.234]}>
+            <sphereGeometry args={[0.007, 6, 6]} />
+            <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.6} />
+          </mesh>
+        )}
+
+        {/* Eyelid (blink animation target) */}
+        <mesh ref={lidRef} position={[x, 0.065, 0.225]} scale={[1, 0.01, 1]}>
+          <sphereGeometry args={[0.052, 8, 4, 0, Math.PI * 2, Math.PI * 0.5, Math.PI * 0.5]} />
+          <meshStandardMaterial color={skinColor} roughness={0.6} side={THREE.DoubleSide} />
+        </mesh>
+
+        {/* Eyebrow */}
+        <mesh ref={browRef} position={[bx, browY, 0.2]} rotation={[0, 0, browRotZ]}>
+          <boxGeometry args={[0.054, 0.013, 0.007]} />
+          <meshStandardMaterial color="#2d1e0e" roughness={0.72} />
+        </mesh>
+      </>
+    );
+  };
 
   return (
     <>
@@ -327,159 +471,117 @@ function FaceFeatures({
       {face?.blush && (
         <>
           <mesh position={[-0.12, 0.0, 0.18]}>
-            <sphereGeometry args={[0.038, 8, 6]} />
-            <meshStandardMaterial color={face.blushColor || '#FF9999'} transparent opacity={0.35} roughness={0.9} />
+            <sphereGeometry args={[0.042, 8, 6]} />
+            <meshStandardMaterial color={face.blushColor || '#FF9999'} transparent opacity={0.42} roughness={0.9} />
           </mesh>
           <mesh position={[0.12, 0.0, 0.18]}>
-            <sphereGeometry args={[0.038, 8, 6]} />
-            <meshStandardMaterial color={face.blushColor || '#FF9999'} transparent opacity={0.35} roughness={0.9} />
+            <sphereGeometry args={[0.042, 8, 6]} />
+            <meshStandardMaterial color={face.blushColor || '#FF9999'} transparent opacity={0.42} roughness={0.9} />
           </mesh>
         </>
       )}
 
-      {/* Left eye white */}
-      <mesh position={[-0.08, 0.04, 0.19]}>
-        <sphereGeometry args={[0.042, 8, 8]} />
-        <meshStandardMaterial color="#f2f2f2" roughness={0.25} />
-      </mesh>
-      {/* Left iris (tracking mesh - always sphere for ref) */}
-      <mesh ref={leftIrisRef} position={[-0.08, 0.04, 0.215]}>
-        <sphereGeometry args={[eyeType === 'x' ? 0.001 : eyeSize, 8, 8]} />
-        <meshStandardMaterial
-          color={eyeCol}
-          emissive={eyeType === 'heart' || eyeType === 'star' ? eyeCol : '#000000'}
-          emissiveIntensity={eyeType === 'heart' || eyeType === 'star' ? 0.6 : 0}
-          roughness={0.35}
-        />
-      </mesh>
-      {/* X-eye overlay */}
-      {eyeType === 'x' && (
-        <>
-          <mesh position={[-0.08, 0.04, 0.217]} rotation={[0, 0, Math.PI / 4]}>
-            <boxGeometry args={[0.04, 0.008, 0.004]} />
-            <meshStandardMaterial color={eyeCol} roughness={0.4} />
-          </mesh>
-          <mesh position={[-0.08, 0.04, 0.217]} rotation={[0, 0, -Math.PI / 4]}>
-            <boxGeometry args={[0.04, 0.008, 0.004]} />
-            <meshStandardMaterial color={eyeCol} roughness={0.4} />
-          </mesh>
-        </>
-      )}
-      {/* Left specular */}
-      <mesh position={[-0.075, 0.048, 0.23]}>
-        <sphereGeometry args={[0.007, 6, 6]} />
-        <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.6} />
-      </mesh>
-      {/* Left lid — bottom-cap, anchored just above iris, sweeps down */}
-      <mesh ref={leftLidRef} position={[-0.08, 0.065, 0.225]} scale={[1, 0.01, 1]}>
-        <sphereGeometry args={[0.052, 8, 4, 0, Math.PI * 2, Math.PI * 0.5, Math.PI * 0.5]} />
-        <meshStandardMaterial color={skinColor} roughness={0.6} side={THREE.DoubleSide} />
-      </mesh>
-      {/* Left eyebrow — always rendered, animated by blink */}
-      <mesh
-        ref={leftBrowRef}
-        position={[-0.085, 0.1, 0.2]}
-        rotation={[0, 0, eyeType === 'angry' ? 0.3 : 0.07]}
-      >
-        <boxGeometry args={[0.052, 0.011, 0.007]} />
-        <meshStandardMaterial color="#2d1e0e" roughness={0.72} />
-      </mesh>
+      {/* Eyes */}
+      {renderEye(-1, leftIrisRef,  leftLidRef,  leftBrowRef)}
+      {renderEye( 1, rightIrisRef, rightLidRef, rightBrowRef)}
 
-      {/* Right eye white */}
-      <mesh position={[0.08, 0.04, 0.19]}>
-        <sphereGeometry args={[0.042, 8, 8]} />
-        <meshStandardMaterial color="#f2f2f2" roughness={0.25} />
-      </mesh>
-      {/* Right iris (tracking mesh - always sphere for ref) */}
-      <mesh ref={rightIrisRef} position={[0.08, 0.04, 0.215]}>
-        <sphereGeometry args={[eyeType === 'x' ? 0.001 : eyeSize, 8, 8]} />
-        <meshStandardMaterial
-          color={eyeCol}
-          emissive={eyeType === 'heart' || eyeType === 'star' ? eyeCol : '#000000'}
-          emissiveIntensity={eyeType === 'heart' || eyeType === 'star' ? 0.6 : 0}
-          roughness={0.35}
-        />
-      </mesh>
-      {/* X-eye overlay */}
-      {eyeType === 'x' && (
-        <>
-          <mesh position={[0.08, 0.04, 0.217]} rotation={[0, 0, Math.PI / 4]}>
-            <boxGeometry args={[0.04, 0.008, 0.004]} />
-            <meshStandardMaterial color={eyeCol} roughness={0.4} />
-          </mesh>
-          <mesh position={[0.08, 0.04, 0.217]} rotation={[0, 0, -Math.PI / 4]}>
-            <boxGeometry args={[0.04, 0.008, 0.004]} />
-            <meshStandardMaterial color={eyeCol} roughness={0.4} />
-          </mesh>
-        </>
-      )}
-      {/* Right specular */}
-      <mesh position={[0.085, 0.048, 0.23]}>
-        <sphereGeometry args={[0.007, 6, 6]} />
-        <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.6} />
-      </mesh>
-      {/* Right lid — bottom-cap, anchored just above iris, sweeps down */}
-      <mesh ref={rightLidRef} position={[0.08, 0.065, 0.225]} scale={[1, 0.01, 1]}>
-        <sphereGeometry args={[0.052, 8, 4, 0, Math.PI * 2, Math.PI * 0.5, Math.PI * 0.5]} />
-        <meshStandardMaterial color={skinColor} roughness={0.6} side={THREE.DoubleSide} />
-      </mesh>
-      {/* Right eyebrow — always rendered, animated by blink */}
-      <mesh
-        ref={rightBrowRef}
-        position={[0.085, 0.1, 0.2]}
-        rotation={[0, 0, eyeType === 'angry' ? -0.3 : -0.07]}
-      >
-        <boxGeometry args={[0.052, 0.011, 0.007]} />
-        <meshStandardMaterial color="#2d1e0e" roughness={0.72} />
-      </mesh>
+      {/* ── MOUTH ─────────────────────────────────────────── */}
+      {mouthType === 'none' ? null
 
-      {/* Mouth */}
-      {mouthType === 'none' ? null : mouthType === 'tongue' ? (
-        <group ref={mouthRef} position={[0, -0.1, 0.2]}>
-          <mesh>
-            <boxGeometry args={[0.075, 0.022, 0.01]} />
+      : mouthType === 'smile' ? (
+        /* Upward-curved ∪ arc */
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+          <mesh position={[0, 0.01, 0.013]} rotation={[0, 0, Math.PI]}>
+            <torusGeometry args={[0.038, 0.010, 6, 16, Math.PI]} />
             <meshStandardMaterial color={mouthCol} roughness={0.5} />
           </mesh>
-          {/* Tongue */}
-          <mesh position={[0, -0.024, 0]}>
+        </group>
+
+      ) : mouthType === 'grin' ? (
+        /* Wide ∪ arc + white teeth strip */
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+          <mesh position={[0, 0.012, 0.013]} rotation={[0, 0, Math.PI]}>
+            <torusGeometry args={[0.050, 0.011, 6, 16, Math.PI]} />
+            <meshStandardMaterial color={mouthCol} roughness={0.5} />
+          </mesh>
+          <mesh position={[0, -0.014, 0.018]}>
+            <boxGeometry args={[0.076, 0.022, 0.007]} />
+            <meshStandardMaterial color="#f4f0e8" roughness={0.3} />
+          </mesh>
+        </group>
+
+      ) : mouthType === 'sad' ? (
+        /* Downward-drooping ∩ arc (frown) */
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+          <mesh position={[0, -0.012, 0.013]}>
+            <torusGeometry args={[0.036, 0.010, 6, 16, Math.PI]} />
+            <meshStandardMaterial color={mouthCol} roughness={0.5} />
+          </mesh>
+        </group>
+
+      ) : mouthType === 'neutral' ? (
+        /* Thin horizontal bar */
+        <mesh ref={mouthRef as React.Ref<THREE.Mesh>} position={[0, -0.1, 0.213]}>
+          <boxGeometry args={[0.066, 0.011, 0.009]} />
+          <meshStandardMaterial color={mouthCol} roughness={0.5} />
+        </mesh>
+
+      ) : mouthType === 'open' ? (
+        /* Full torus ring (O-shape) + dark interior */
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+          <mesh position={[0, 0, 0.014]} scale={[1, 0.75, 1]}>
+            <torusGeometry args={[0.034, 0.014, 6, 12]} />
+            <meshStandardMaterial color={mouthCol} roughness={0.5} />
+          </mesh>
+          <mesh position={[0, 0, 0.012]}>
+            <circleGeometry args={[0.028, 10]} />
+            <meshStandardMaterial color="#1a0808" roughness={0.9} />
+          </mesh>
+        </group>
+
+      ) : mouthType === 'tongue' ? (
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+          <mesh position={[0, 0, 0.012]}>
+            <boxGeometry args={[0.075, 0.022, 0.010]} />
+            <meshStandardMaterial color={mouthCol} roughness={0.5} />
+          </mesh>
+          <mesh position={[0, -0.026, 0.010]}>
             <sphereGeometry args={[0.026, 8, 6]} />
             <meshStandardMaterial color="#FF6B8A" roughness={0.6} />
           </mesh>
         </group>
+
       ) : mouthType === 'cat' ? (
-        <group ref={mouthRef} position={[0, -0.1, 0.2]}>
-          <mesh position={[-0.025, 0, 0]} rotation={[0, 0, -0.4]}>
-            <boxGeometry args={[0.032, 0.012, 0.008]} />
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+          <mesh position={[-0.026, 0, 0.012]} rotation={[0, 0, -0.42]}>
+            <boxGeometry args={[0.034, 0.013, 0.008]} />
             <meshStandardMaterial color={mouthCol} roughness={0.5} />
           </mesh>
-          <mesh position={[0.025, 0, 0]} rotation={[0, 0, 0.4]}>
-            <boxGeometry args={[0.032, 0.012, 0.008]} />
+          <mesh position={[0.026, 0, 0.012]} rotation={[0, 0, 0.42]}>
+            <boxGeometry args={[0.034, 0.013, 0.008]} />
             <meshStandardMaterial color={mouthCol} roughness={0.5} />
           </mesh>
-          <mesh position={[0, 0, 0]}>
-            <sphereGeometry args={[0.012, 6, 6]} />
+          <mesh position={[0, 0, 0.012]}>
+            <sphereGeometry args={[0.013, 6, 6]} />
             <meshStandardMaterial color={mouthCol} roughness={0.5} />
           </mesh>
         </group>
+
       ) : mouthType === 'fangs' ? (
-        <group ref={mouthRef} position={[0, -0.1, 0.2]}>
-          <mesh>
-            <boxGeometry args={[0.085, 0.028, 0.012]} />
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+          <mesh position={[0, 0, 0.013]}>
+            <boxGeometry args={[0.090, 0.028, 0.012]} />
             <meshStandardMaterial color={mouthCol} roughness={0.5} />
           </mesh>
-          {[-0.022, 0.022].map((x, i) => (
-            <mesh key={i} position={[x, -0.022, 0]}>
-              <coneGeometry args={[0.01, 0.028, 4]} />
+          {([-0.025, 0.025] as number[]).map((fx, i) => (
+            <mesh key={i} position={[fx, -0.025, 0.013]}>
+              <coneGeometry args={[0.011, 0.032, 4]} />
               <meshStandardMaterial color="#ffffff" roughness={0.3} />
             </mesh>
           ))}
         </group>
-      ) : (
-        <mesh ref={mouthRef} position={[0, -0.1, 0.2]}>
-          <boxGeometry args={[0.085, 0.028, 0.012]} />
-          <meshStandardMaterial color={mouthCol} roughness={0.5} />
-        </mesh>
-      )}
+
+      ) : null}
     </>
   );
 }
