@@ -538,7 +538,7 @@ git fetch origin <branch-neve> && git checkout FETCH_HEAD -- out/
 
 **2. parancs - Deploy (out tartalmának kimásolása):**
 ```bash
-rm -rf _next && cp -ra out/. . && rm -rf out
+rm -rf _next next_static && cp -ra out/. . && mv _next next_static && rm -rf out
 ```
 
 Szabályok:

@@ -4,6 +4,7 @@ Options -Indexes
   RewriteEngine On
   RewriteBase /
 
-  # Allow _next static assets (blocked by LiteSpeed by default)
-  RewriteRule ^_next/(.*)$ _next/$1 [L]
+  # LiteSpeed blocks _next/ directory by default on Hostinger
+  # Serve _next/ requests from next_static/ folder instead
+  RewriteRule ^_next/(.*)$ /next_static/$1 [L]
 </IfModule>
