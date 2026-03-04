@@ -32,6 +32,11 @@ import {
   type KlassenarbeitResult,
   type GroupedTask,
   type RealisticKlassenarbeit,
+  getENThemes,
+  getDEThemes,
+  getROThemes,
+  getHUThemes,
+  generateTopicQuestions,
 } from "@/lib/mathCurriculum";
 import {
   generateTest as generateThemeBasedTest,
