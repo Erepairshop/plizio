@@ -207,21 +207,35 @@ export default function NumberPathPage() {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
 
-  // ── Avatar — lazy init from localStorage (no null flash) ─────────────────────
-  const [avatarGender]  = useState<AvatarGender>(() => getGender());
-  const [avatarSkin]    = useState(() => getSkinDef(getActiveSkin()));
-  const [avatarFace]    = useState(() => getFaceDef(getActiveFace()));
-  const [avatarTop]     = useState(() => { const id = getActive("top");      return id ? getTopDef(id)      : null; });
-  const [avatarBottom]  = useState(() => { const id = getActive("bottom");   return id ? getBottomDef(id)   : null; });
-  const [avatarShoe]    = useState(() => { const id = getActive("shoe");     return id ? getShoeDef(id)     : null; });
-  const [avatarCape]    = useState(() => { const id = getActive("cape");     return id ? getCapeDef(id)     : null; });
-  const [avatarGlasses] = useState(() => { const id = getActive("glasses");  return id ? getGlassesDef(id)  : null; });
-  const [avatarGloves]  = useState(() => { const id = getActive("gloves");   return id ? getGloveDef(id)    : null; });
-  const [avatarHat]     = useState(() => { const id = getActiveHat();        return id ? getHatDef(id)      : null; });
-  const [avatarTrail]   = useState(() => { const id = getActiveTrail();      return id ? getTrailDef(id)    : null; });
+  // ── Avatar — useState(null) + useEffect (same as reflexrush/numberrush) ──────
+  const [avatarGender,  setAvatarGender]  = useState<AvatarGender>("girl");
+  const [avatarSkin,    setAvatarSkin]    = useState<ReturnType<typeof getSkinDef>    | null>(null);
+  const [avatarFace,    setAvatarFace]    = useState<ReturnType<typeof getFaceDef>    | null>(null);
+  const [avatarTop,     setAvatarTop]     = useState<ReturnType<typeof getTopDef>     | null>(null);
+  const [avatarBottom,  setAvatarBottom]  = useState<ReturnType<typeof getBottomDef>  | null>(null);
+  const [avatarShoe,    setAvatarShoe]    = useState<ReturnType<typeof getShoeDef>    | null>(null);
+  const [avatarCape,    setAvatarCape]    = useState<ReturnType<typeof getCapeDef>    | null>(null);
+  const [avatarGlasses, setAvatarGlasses] = useState<ReturnType<typeof getGlassesDef> | null>(null);
+  const [avatarGloves,  setAvatarGloves]  = useState<ReturnType<typeof getGloveDef>   | null>(null);
+  const [avatarHat,     setAvatarHat]     = useState<ReturnType<typeof getHatDef>     | null>(null);
+  const [avatarTrail,   setAvatarTrail]   = useState<ReturnType<typeof getTrailDef>   | null>(null);
   const [avatarMood,    setAvatarMood]    = useState<AvatarMood>("idle");
   const [avatarJump,    setAvatarJump]    = useState<{ reaction: "happy" | "surprised" | "victory" | "confused" | "laughing" | null; timestamp: number } | undefined>(undefined);
   const avatarTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  useEffect(() => {
+    setAvatarGender(getGender());
+    setAvatarSkin(getSkinDef(getActiveSkin()));
+    setAvatarFace(getFaceDef(getActiveFace()));
+    const topId = getActive("top");      setAvatarTop(topId ? getTopDef(topId) : null);
+    const botId = getActive("bottom");   setAvatarBottom(botId ? getBottomDef(botId) : null);
+    const shoeId = getActive("shoe");    setAvatarShoe(shoeId ? getShoeDef(shoeId) : null);
+    const capeId = getActive("cape");    setAvatarCape(capeId ? getCapeDef(capeId) : null);
+    const glsId = getActive("glasses");  setAvatarGlasses(glsId ? getGlassesDef(glsId) : null);
+    const glvId = getActive("gloves");   setAvatarGloves(glvId ? getGloveDef(glvId) : null);
+    const hatId = getActiveHat();        setAvatarHat(hatId ? getHatDef(hatId) : null);
+    const trailId = getActiveTrail();    setAvatarTrail(trailId ? getTrailDef(trailId) : null);
+  }, []);
 
   function triggerAvatar(mood: AvatarMood, duration: number, jump?: "happy" | "surprised" | "victory" | "confused" | "laughing") {
     if (avatarTimerRef.current) clearTimeout(avatarTimerRef.current);
@@ -318,8 +332,8 @@ export default function NumberPathPage() {
     setEarnedCard(null);
     timeLeftRef.current = cfg.timeLimit;
     setTimeLeft(cfg.timeLimit);
+    stopTimer(); // must come before setting gameActiveRef = true
     gameActiveRef.current = true;
-    stopTimer();
     if (cfg.timeLimit > 0) {
       timerRef.current = setInterval(() => {
         timeLeftRef.current--;
@@ -504,10 +518,13 @@ export default function NumberPathPage() {
   }
 
   const avatarProps = {
-    gender: avatarGender, skin: avatarSkin, face: avatarFace,
-    top: avatarTop, bottom: avatarBottom, shoe: avatarShoe,
-    cape: avatarCape, glasses: avatarGlasses, gloves: avatarGloves,
-    hat: avatarHat, trail: avatarTrail,
+    mood: avatarMood, gender: avatarGender,
+    activeSkin: avatarSkin, activeFace: avatarFace,
+    activeTop: avatarTop, activeBottom: avatarBottom,
+    activeShoe: avatarShoe, activeCape: avatarCape,
+    activeGlasses: avatarGlasses, activeGloves: avatarGloves,
+    activeHat: avatarHat, activeTrail: avatarTrail,
+    jumpTrigger: avatarJump,
   };
 
   // ─── EXPEDITION SCREEN ────────────────────────────────────────────────────────
@@ -523,12 +540,7 @@ export default function NumberPathPage() {
             <h1 className="text-lg font-black tracking-widest" style={{ color: "#00D4FF" }}>{t.title}</h1>
             <p className="text-xs" style={{ color: "#bbb" }}>{t.subtitle}</p>
           </div>
-          <div className="w-16" />
-        </div>
-
-        {/* Avatar */}
-        <div className="flex justify-center py-2">
-          <div style={{ width: 80, height: 80 }}>
+          <div className="w-20 h-20 flex-shrink-0 overflow-hidden">
             <AvatarCompanion {...avatarProps} fixed={false} mood="idle" />
           </div>
         </div>
@@ -638,7 +650,7 @@ export default function NumberPathPage() {
               </div>
             )}
             <div style={{ width: 52, height: 52 }}>
-              <AvatarCompanion {...avatarProps} fixed={false} mood={avatarMood} jumpTrigger={avatarJump} />
+              <AvatarCompanion {...avatarProps} fixed={false} />
             </div>
           </div>
         </div>
@@ -709,8 +721,8 @@ export default function NumberPathPage() {
               setPath([]);
               timeLeftRef.current = cfg.timeLimit;
               setTimeLeft(cfg.timeLimit);
+              stopTimer(); // must come before setting gameActiveRef = true
               gameActiveRef.current = true;
-              stopTimer();
               if (cfg.timeLimit > 0) {
                 timerRef.current = setInterval(() => {
                   timeLeftRef.current--;
@@ -748,7 +760,7 @@ export default function NumberPathPage() {
 
           <div className="flex justify-center mb-4">
             <div style={{ width: 120, height: 120 }}>
-              <AvatarCompanion {...avatarProps} fixed={false} mood={cfg.level === 10 ? "victory" : "happy"} jumpTrigger={avatarJump} />
+              <AvatarCompanion {...avatarProps} fixed={false} />
             </div>
           </div>
 
@@ -808,7 +820,7 @@ export default function NumberPathPage() {
           </div>
           <div className="flex justify-center mb-4">
             <div style={{ width: 100, height: 100 }}>
-              <AvatarCompanion {...avatarProps} fixed={false} mood="disappointed" />
+              <AvatarCompanion {...avatarProps} fixed={false} />
             </div>
           </div>
           <div className="space-y-2">
