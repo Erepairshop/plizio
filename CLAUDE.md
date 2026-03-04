@@ -538,8 +538,10 @@ git fetch origin <branch-neve> && git checkout FETCH_HEAD -- out/
 
 **2. parancs - Deploy (out tartalmának kimásolása):**
 ```bash
-rm -rf _next && cp -r out/* . && rm -rf out
+rm -rf _next next_static && cp -r out/* . && mv _next next_static && rm -rf out
 ```
+
+⚠️ **Cloudflare Transform Rule miatt:** a Cloudflare `/_next/*` → `/next_static/$1` rewrite-ot végez, ezért a `_next/` mappát át kell nevezni `next_static/`-ra a szerveren!
 
 Szabályok:
 - A branch neve mindig az aktuális fejlesztési branch legyen
@@ -598,6 +600,6 @@ Minden feladat végén:
 Szabályok:
 - Minden kód módosítás után MINDIG buildelj (`npm run build`)
 - Az `out/` mappát MINDIG commitold és pushold
-- A deploy parancsban MINDIG töröld a régi `_next/` mappát először (`rm -rf ~/public_html/_next`)
+- A deploy parancsban MINDIG töröld a régi `_next/` és `next_static/` mappát először, majd nevezd át: `rm -rf _next next_static && cp -r out/* . && mv _next next_static && rm -rf out`
   - Ez azért fontos, mert a JS chunk fájlnevek minden buildnél változnak
   - Ha nem törlöd, régi és új chunk fájlok keverednek, és elromlik az oldal
