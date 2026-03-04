@@ -29,7 +29,7 @@ export const FACES: FaceDef[] = [
     price: 0,
     eyeType: "dot",
     eyeColor: "#0A0A1A",
-    mouthType: "none",
+    mouthType: "neutral",
     mouthColor: "#0A0A1A",
   },
   {
