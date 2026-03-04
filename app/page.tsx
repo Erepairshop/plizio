@@ -333,10 +333,12 @@ export default function Home() {
     const translatedCategories = getCategoriesWithTranslations(lang);
     setCategories(translatedCategories);
 
-    // Initialize open/closed state for all categories
+    // Initialize open/closed state — restore from localStorage if saved
+    const savedRaw = typeof window !== "undefined" ? localStorage.getItem("plizio_cat_open") : null;
+    const savedArr: boolean[] = savedRaw ? JSON.parse(savedRaw) : [];
     const initialOpenState: Record<string, boolean> = {};
-    translatedCategories.forEach((cat) => {
-      initialOpenState[cat.label] = false;
+    translatedCategories.forEach((cat, i) => {
+      initialOpenState[cat.label] = savedArr[i] ?? false;
     });
     setOpenCategories(initialOpenState);
   }, [lang]);
@@ -459,7 +461,12 @@ export default function Home() {
             >
               {/* Category header - clickable to toggle */}
               <button
-                onClick={() => setOpenCategories(prev => ({ ...prev, [cat.label]: !prev[cat.label] }))}
+                onClick={() => setOpenCategories(prev => {
+                  const newState = { ...prev, [cat.label]: !prev[cat.label] };
+                  const arr = categories.map(c => newState[c.label] ?? false);
+                  localStorage.setItem("plizio_cat_open", JSON.stringify(arr));
+                  return newState;
+                })}
                 className="flex items-center gap-3 w-full group cursor-pointer"
               >
                 <div className="h-px flex-1 opacity-20" style={{ background: `linear-gradient(to right, transparent, ${cat.color})` }} />

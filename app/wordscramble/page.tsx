@@ -487,7 +487,7 @@ export default function WordScramblePage() {
     if (levelCfg.level === 10 && passed) {
       rarity = "legendary";
     } else {
-      const raw = calculateRarity(finalScore, levelCfg.wordCount, streak);
+      const raw = calculateRarity(finalScore, levelCfg.wordCount, streak, false);
       rarity = raw === "legendary" ? "gold" : raw;
     }
     saveCard({ id: generateCardId(), game: "wordscramble", rarity, score: finalScore, total: levelCfg.wordCount, date: new Date().toISOString() });

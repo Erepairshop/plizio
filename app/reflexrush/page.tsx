@@ -248,9 +248,9 @@ const RARITY_COLORS: Record<CardRarity, string> = {
   bronze: "#CD7F32", silver: "#C0C0C0", gold: "#FFD700", legendary: "#B44DFF",
 };
 
-function calcRarity(timeLeft: number, duration: number): CardRarity {
+function calcRarity(timeLeft: number, duration: number, level: number): CardRarity {
   const r = timeLeft / duration;
-  if (r > 0.55) return "gold";
+  if (level >= 5 && r > 0.55) return "gold";
   if (r > 0.25) return "silver";
   return "bronze";
 }
@@ -313,6 +313,8 @@ export default function ReflexRushPage() {
   const [lightningActive, setLightningActive] = useState(false);
   const [floatingPts, setFloatingPts] = useState<FloatingPt[]>([]);
   const [earnedCard, setEarnedCard]   = useState<CardRarity | null>(null);
+  const [trapFlash,  setTrapFlash]    = useState<Set<number>>(new Set());
+  const level10FailsRef = useRef(0);
 
   const gridRef       = useRef<CellType[]>([]);
   const scoreRef      = useRef(0);
@@ -339,7 +341,7 @@ export default function ReflexRushPage() {
   const levelSuccess = useCallback((finalScore: number, finalTimeLeft: number) => {
     stopGame();
     const cfg = cfgRef.current;
-    const rarity: CardRarity = cfg.level === 10 ? "legendary" : calcRarity(finalTimeLeft, cfg.duration);
+    const rarity: CardRarity = cfg.level === 10 ? "legendary" : calcRarity(finalTimeLeft, cfg.duration, cfg.level);
     saveCard({ id: generateCardId(), game: "reflexrush", theme: `level${cfg.level}`, rarity, score: finalScore, total: cfg.target, date: new Date().toISOString() });
     incrementTotalGames();
     setEarnedCard(rarity);
@@ -355,6 +357,7 @@ export default function ReflexRushPage() {
 
   const levelFailed = useCallback(() => {
     stopGame();
+    if (cfgRef.current.level === 10) level10FailsRef.current++;
     triggerAvatar("confused", 2000, "confused");
     setScreen("levelFailed");
   }, [stopGame]);
@@ -424,15 +427,19 @@ export default function ReflexRushPage() {
       comboRef.current = 0; setCombo(0); addFloat(-5);
       triggerAvatar("disappointed", 1200);
     } else if (type === "trapgreen") {
-      // Looks like green but it's a trap — acts as -5 bomb
       const ns = Math.max(0, scoreRef.current - 5); scoreRef.current = ns; setScore(ns);
       comboRef.current = 0; setCombo(0); addFloat(-5);
       triggerAvatar("disappointed", 1400);
+      setTrapFlash(prev => new Set([...prev, index]));
+      setTimeout(() => setTrapFlash(prev => { const n = new Set(prev); n.delete(index); return n; }), 500);
     }
   }, [levelSuccess]);
 
   const startLevel = useCallback((levelNum: number) => {
-    const cfg = LEVELS[levelNum - 1];
+    const baseCfg = LEVELS[levelNum - 1];
+    const cfg = (levelNum === 10 && level10FailsRef.current >= 3)
+      ? { ...baseCfg, target: 46, duration: 44, hasTrapGreen: false }
+      : baseCfg;
     cfgRef.current = cfg;
     const total = cfg.gridSize ** 2;
     stopGame();
@@ -669,7 +676,7 @@ export default function ReflexRushPage() {
                 className="h-full rounded-full"
                 style={{ background: "linear-gradient(to right, #FF6B00, #FFD700)" }}
                 animate={{ width: `${Math.min(100, (score / cfg.target) * 100)}%` }}
-                transition={{ duration: 0.2 }}
+                transition={{ duration: 0.05 }}
               />
             </div>
           </div>
@@ -679,18 +686,28 @@ export default function ReflexRushPage() {
               {grid.map((cellType, i) => {
                 const cc = CELL_CONFIG[cellType];
                 const isActive = cellType !== "idle";
+                const isTrap = trapFlash.has(i);
                 return (
                   <motion.button
                     key={i}
                     onClick={(e) => handleCellClick(i, e)}
                     className="aspect-square rounded-xl flex items-center justify-center text-xl font-bold"
-                    style={{ background: cc.bg, border: `2px solid ${cc.border}`, boxShadow: isActive ? cc.shadow : "none", cursor: isActive ? "pointer" : "default" }}
-                    animate={isActive ? { scale: 1, opacity: 1 } : { scale: 0.95, opacity: 0.4 }}
+                    style={{
+                      background:  isTrap ? "#1a0000" : cc.bg,
+                      border:      isTrap ? "2px solid #FF2D78" : `2px solid ${cc.border}`,
+                      boxShadow:   isTrap ? "0 0 18px #FF2D7899" : (isActive ? cc.shadow : "none"),
+                      cursor:      isActive ? "pointer" : "default",
+                    }}
+                    animate={isActive || isTrap ? { scale: 1, opacity: 1 } : { scale: 0.95, opacity: 0.4 }}
                     whileTap={isActive ? { scale: 0.85 } : {}}
                     transition={{ duration: 0.15 }}
                   >
                     <AnimatePresence mode="wait">
-                      {isActive && (
+                      {isTrap ? (
+                        <motion.span key={`${i}-trap`} initial={{ scale: 0 }} animate={{ scale: 1 }} exit={{ scale: 0 }} style={{ color: "#FF2D78" }}>
+                          💥
+                        </motion.span>
+                      ) : isActive ? (
                         <motion.span
                           key={`${i}-${cellType}`}
                           initial={{ scale: 0, rotate: -30 }} animate={{ scale: 1, rotate: 0 }} exit={{ scale: 0 }}
@@ -699,7 +716,7 @@ export default function ReflexRushPage() {
                         >
                           {cc.icon}
                         </motion.span>
-                      )}
+                      ) : null}
                     </AnimatePresence>
                   </motion.button>
                 );

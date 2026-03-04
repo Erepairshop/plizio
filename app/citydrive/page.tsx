@@ -1830,7 +1830,7 @@ export default function CityDrivePage() {
     if (gameState !== "result" || cardSaved) return;
     const total = 1400;
     const s = hudRef.current.score;
-    const rarity = calculateRarity(Math.min(s, total), total, 1);
+    const rarity = calculateRarity(Math.min(s, total), total, 1, false);
     saveCard({ id: generateCardId(), game: "citydrive", theme: "city", rarity, score: s, total, date: new Date().toISOString() });
     incrementTotalGames();
     updateStats({});
@@ -1856,7 +1856,7 @@ export default function CityDrivePage() {
 
   // Actual max: 5 delivery(100) + 5 parking(80) + 5 coins(50+50bonus) = 500+400+500 = 1400
   const totalForRarity = 1400;
-  const rarity = calculateRarity(Math.min(finalScore, totalForRarity), totalForRarity, 1);
+  const rarity = calculateRarity(Math.min(finalScore, totalForRarity), totalForRarity, 1, false);
   const hud = hudRef.current;
 
   return (

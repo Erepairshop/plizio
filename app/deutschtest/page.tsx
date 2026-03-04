@@ -261,7 +261,7 @@ export default function DeutschTestPage() {
     incrementTotalGames();
     if (pct === 100) incrementPerfectScores();
 
-    const rarity = calculateRarity(correct, total, 0);
+    const rarity = calculateRarity(correct, total, 0, false);
     const card = {
       id: generateCardId(),
       game: "deutschtest",

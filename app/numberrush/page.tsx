@@ -248,7 +248,7 @@ function buildGrid(cfg: NRLevelConfig): GridCell[] {
 function calcRarity(timeLeft: number, timeLimit: number, level: number): CardRarity {
   if (level === 10) return "legendary";
   const r = timeLeft / timeLimit;
-  if (r > 0.55) return "gold";
+  if (level >= 5 && r > 0.55) return "gold";
   if (r > 0.25) return "silver";
   return "bronze";
 }
