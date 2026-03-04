@@ -370,9 +370,9 @@ function FaceFeatures({
         <sphereGeometry args={[0.007, 6, 6]} />
         <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.6} />
       </mesh>
-      {/* Left lid */}
-      <mesh ref={leftLidRef} position={[-0.08, 0.065, 0.2]} scale={[1, 0.01, 1]}>
-        <sphereGeometry args={[0.047, 8, 4, 0, Math.PI * 2, 0, Math.PI * 0.5]} />
+      {/* Left lid — bottom-cap, grows DOWNWARD over eye */}
+      <mesh ref={leftLidRef} position={[-0.08, 0.082, 0.2]} scale={[1, 0.01, 1]}>
+        <sphereGeometry args={[0.047, 8, 4, 0, Math.PI * 2, Math.PI * 0.5, Math.PI * 0.5]} />
         <meshStandardMaterial color={skinColor} roughness={0.6} side={THREE.DoubleSide} />
       </mesh>
       {/* Left eyebrow — always rendered, animated by blink */}
@@ -418,9 +418,9 @@ function FaceFeatures({
         <sphereGeometry args={[0.007, 6, 6]} />
         <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.6} />
       </mesh>
-      {/* Right lid */}
-      <mesh ref={rightLidRef} position={[0.08, 0.065, 0.2]} scale={[1, 0.01, 1]}>
-        <sphereGeometry args={[0.047, 8, 4, 0, Math.PI * 2, 0, Math.PI * 0.5]} />
+      {/* Right lid — bottom-cap, grows DOWNWARD over eye */}
+      <mesh ref={rightLidRef} position={[0.08, 0.082, 0.2]} scale={[1, 0.01, 1]}>
+        <sphereGeometry args={[0.047, 8, 4, 0, Math.PI * 2, Math.PI * 0.5, Math.PI * 0.5]} />
         <meshStandardMaterial color={skinColor} roughness={0.6} side={THREE.DoubleSide} />
       </mesh>
       {/* Right eyebrow — always rendered, animated by blink */}
@@ -528,20 +528,22 @@ function Character({
   const [frameT, setFrameT] = useState(0);
 
   // ── Resolve colors from items ──────────────────────────
-  const actualSkinColor = activeSkin ? activeSkin.headColor : legacySkinColor;
-  const actualLimbColor = activeSkin ? activeSkin.limbColor : legacySkinColor;
-  const skinEmissive = activeSkin ? activeSkin.emissive : null;
-  const skinEmissiveIntensity = activeSkin ? activeSkin.emissiveIntensity * 0.3 : 0;
+  // Default skin (id='default') = treat same as no skin → warm fallback colors
+  const hasRealSkin = activeSkin && activeSkin.id !== 'default';
+  const actualSkinColor = hasRealSkin ? activeSkin!.headColor : legacySkinColor;
+  const actualLimbColor = hasRealSkin ? activeSkin!.limbColor : legacySkinColor;
+  const skinEmissive = hasRealSkin ? activeSkin!.emissive : null;
+  const skinEmissiveIntensity = hasRealSkin ? activeSkin!.emissiveIntensity * 0.3 : 0;
 
-  const actualBodyColor = activeTop ? activeTop.color : (activeSkin ? activeSkin.bodyColor : legacyOutfitColor);
+  const actualBodyColor = activeTop ? activeTop.color : (hasRealSkin ? activeSkin!.bodyColor : legacyOutfitColor);
   const actualBodyAccent = activeTop?.accent || actualBodyColor;
-  const actualLegColor = activeBottom ? activeBottom.color : (activeSkin ? activeSkin.limbColor : '#1e3a5f');
-  const actualShoeColor = activeShoe ? activeShoe.color : (activeSkin ? activeSkin.shoeColor : '#3a2010');
+  const actualLegColor = activeBottom ? activeBottom.color : (hasRealSkin ? activeSkin!.limbColor : '#1e3a5f');
+  const actualShoeColor = activeShoe ? activeShoe.color : (hasRealSkin ? activeSkin!.shoeColor : '#3a2010');
   const actualHandColor = activeGloves ? activeGloves.color : actualLimbColor;
   const skinDark = new THREE.Color(actualSkinColor).multiplyScalar(0.82).getStyle();
 
   // Hair color (warm chestnut brown for default, or skin's headColor for fantasy skins)
-  const hairColor = activeSkin && activeSkin.id !== 'default' ? activeSkin.headColor : '#4a2e10';
+  const hairColor = hasRealSkin ? activeSkin!.headColor : '#4a2e10';
 
   useEffect(() => {
     moodRef.current = mood;
@@ -862,6 +864,18 @@ function Character({
           emissiveIntensity={skinEmissiveIntensity}
           roughness={0.7}
           metalness={0.04}
+        />
+      </mesh>
+
+      {/* ══ NECK ════════════════════════════════════════════ */}
+      <mesh position={[0, 0.34, 0]}>
+        <cylinderGeometry args={[0.1, 0.115, 0.2, 8]} />
+        <meshStandardMaterial
+          color={actualSkinColor}
+          emissive={skinEmissive || '#000000'}
+          emissiveIntensity={skinEmissiveIntensity * 0.3}
+          roughness={0.6}
+          metalness={0.02}
         />
       </mesh>
 
