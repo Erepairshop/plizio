@@ -207,35 +207,21 @@ export default function NumberPathPage() {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
 
-  // ── Avatar ────────────────────────────────────────────────────────────────────
-  const [avatarGender,  setAvatarGender]  = useState<AvatarGender>("girl");
-  const [avatarSkin,    setAvatarSkin]    = useState<ReturnType<typeof getSkinDef> | null>(null);
-  const [avatarFace,    setAvatarFace]    = useState<ReturnType<typeof getFaceDef> | null>(null);
-  const [avatarTop,     setAvatarTop]     = useState<ReturnType<typeof getTopDef> | null>(null);
-  const [avatarBottom,  setAvatarBottom]  = useState<ReturnType<typeof getBottomDef> | null>(null);
-  const [avatarShoe,    setAvatarShoe]    = useState<ReturnType<typeof getShoeDef> | null>(null);
-  const [avatarCape,    setAvatarCape]    = useState<ReturnType<typeof getCapeDef> | null>(null);
-  const [avatarGlasses, setAvatarGlasses] = useState<ReturnType<typeof getGlassesDef> | null>(null);
-  const [avatarGloves,  setAvatarGloves]  = useState<ReturnType<typeof getGloveDef> | null>(null);
-  const [avatarHat,     setAvatarHat]     = useState<ReturnType<typeof getHatDef> | null>(null);
-  const [avatarTrail,   setAvatarTrail]   = useState<ReturnType<typeof getTrailDef> | null>(null);
+  // ── Avatar — lazy init from localStorage (no null flash) ─────────────────────
+  const [avatarGender]  = useState<AvatarGender>(() => getGender());
+  const [avatarSkin]    = useState(() => getSkinDef(getActiveSkin()));
+  const [avatarFace]    = useState(() => getFaceDef(getActiveFace()));
+  const [avatarTop]     = useState(() => { const id = getActive("top");      return id ? getTopDef(id)      : null; });
+  const [avatarBottom]  = useState(() => { const id = getActive("bottom");   return id ? getBottomDef(id)   : null; });
+  const [avatarShoe]    = useState(() => { const id = getActive("shoe");     return id ? getShoeDef(id)     : null; });
+  const [avatarCape]    = useState(() => { const id = getActive("cape");     return id ? getCapeDef(id)     : null; });
+  const [avatarGlasses] = useState(() => { const id = getActive("glasses");  return id ? getGlassesDef(id)  : null; });
+  const [avatarGloves]  = useState(() => { const id = getActive("gloves");   return id ? getGloveDef(id)    : null; });
+  const [avatarHat]     = useState(() => { const id = getActiveHat();        return id ? getHatDef(id)      : null; });
+  const [avatarTrail]   = useState(() => { const id = getActiveTrail();      return id ? getTrailDef(id)    : null; });
   const [avatarMood,    setAvatarMood]    = useState<AvatarMood>("idle");
   const [avatarJump,    setAvatarJump]    = useState<{ reaction: "happy" | "surprised" | "victory" | "confused" | "laughing" | null; timestamp: number } | undefined>(undefined);
   const avatarTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
-
-  useEffect(() => {
-    setAvatarGender(getGender());
-    setAvatarSkin(getSkinDef(getActiveSkin()));
-    setAvatarFace(getFaceDef(getActiveFace()));
-    const topId = getActive("top");      setAvatarTop(topId ? getTopDef(topId) : null);
-    const botId = getActive("bottom");   setAvatarBottom(botId ? getBottomDef(botId) : null);
-    const shoeId = getActive("shoe");    setAvatarShoe(shoeId ? getShoeDef(shoeId) : null);
-    const capeId = getActive("cape");    setAvatarCape(capeId ? getCapeDef(capeId) : null);
-    const glsId  = getActive("glasses"); setAvatarGlasses(glsId ? getGlassesDef(glsId) : null);
-    const glvId  = getActive("gloves");  setAvatarGloves(glvId ? getGloveDef(glvId) : null);
-    const hatId  = getActiveHat();       setAvatarHat(hatId ? getHatDef(hatId) : null);
-    const trailId = getActiveTrail();    setAvatarTrail(trailId ? getTrailDef(trailId) : null);
-  }, []);
 
   function triggerAvatar(mood: AvatarMood, duration: number, jump?: "happy" | "surprised" | "victory" | "confused" | "laughing") {
     if (avatarTimerRef.current) clearTimeout(avatarTimerRef.current);
@@ -263,11 +249,18 @@ export default function NumberPathPage() {
   const pathRef        = useRef<number[]>([]);
   const puzzleRef      = useRef<NPPuzzle | null>(null);
   const waypointMapRef = useRef<Map<number, number>>(new Map());
+  const saveRef        = useRef(save);
   const cfgRef         = useRef<NPLevel>(LEVELS[0]);
   const timerRef       = useRef<ReturnType<typeof setInterval> | null>(null);
   const timeLeftRef    = useRef(0);
   const gameActiveRef  = useRef(false);
-  const isPointerDown  = useRef(false);
+  const isDragging     = useRef(false);
+  const gridContainerRef = useRef<HTMLDivElement>(null);
+  // interactRef always has fresh logic (avoids stale closures)
+  const interactRef    = useRef<(idx: number) => void>(() => {});
+
+  // Keep saveRef fresh each render
+  saveRef.current = save;
 
   function setPath(newPath: number[]) {
     pathRef.current = newPath;
@@ -296,9 +289,10 @@ export default function NumberPathPage() {
     setEarnedCard(rarity);
     incrementTotalGames();
     triggerAvatar(cfg.level === 10 ? "victory" : "happy", 3000, cfg.level === 10 ? "victory" : "happy");
+    const currentSave = saveRef.current;
     const newSave: NPSave = {
-      currentLevel: Math.min(10, Math.max(save.currentLevel, cfg.level + 1)),
-      completedLevels: [...new Set([...save.completedLevels, cfg.level])],
+      currentLevel: Math.min(10, Math.max(currentSave.currentLevel, cfg.level + 1)),
+      completedLevels: [...new Set([...currentSave.completedLevels, cfg.level])],
     };
     setSave(newSave);
     writeSave(newSave);
@@ -342,12 +336,13 @@ export default function NumberPathPage() {
     setTimeout(() => setInvalidFlash(null), 400);
   }
 
-  const handleCellInteract = useCallback((idx: number) => {
+  // Always-fresh interact handler (no stale closure)
+  interactRef.current = (idx: number) => {
     if (!gameActiveRef.current || !puzzleRef.current) return;
     const puzzle = puzzleRef.current;
     const currentPath = pathRef.current;
 
-    // Already in path → backtrack to that cell
+    // Already in path → backtrack
     const existingIdx = currentPath.indexOf(idx);
     if (existingIdx >= 0) {
       setPath(currentPath.slice(0, existingIdx + 1));
@@ -377,31 +372,44 @@ export default function NumberPathPage() {
 
     const newPath = [...currentPath, idx];
     setPath(newPath);
-
-    // Win: all cells filled
     if (newPath.length === puzzle.gridSize * puzzle.gridSize) {
       handleWin(newPath, timeLeftRef.current);
     }
-  }, []); // eslint-disable-line
+  };
 
-  // Pointer events
-  function onCellPointerDown(e: React.PointerEvent, idx: number) {
+  // Grid drag: track which cell the pointer/touch is over
+  function getCellIdxFromPoint(x: number, y: number): number {
+    const el = document.elementFromPoint(x, y) as HTMLElement | null;
+    const cell = el?.closest("[data-ci]") as HTMLElement | null;
+    const v = cell?.getAttribute("data-ci");
+    return v !== null && v !== undefined ? parseInt(v) : -1;
+  }
+
+  function onGridMouseDown(e: React.MouseEvent) {
+    isDragging.current = true;
+    const idx = getCellIdxFromPoint(e.clientX, e.clientY);
+    if (idx >= 0) interactRef.current(idx);
+  }
+  function onGridMouseMove(e: React.MouseEvent) {
+    if (!isDragging.current) return;
+    const idx = getCellIdxFromPoint(e.clientX, e.clientY);
+    if (idx >= 0) interactRef.current(idx);
+  }
+  function onGridMouseUp() { isDragging.current = false; }
+  function onGridTouchStart(e: React.TouchEvent) {
     e.preventDefault();
-    isPointerDown.current = true;
-    handleCellInteract(idx);
+    isDragging.current = true;
+    const t = e.touches[0];
+    const idx = getCellIdxFromPoint(t.clientX, t.clientY);
+    if (idx >= 0) interactRef.current(idx);
   }
-
-  function onCellPointerEnter(e: React.PointerEvent, idx: number) {
-    if (!isPointerDown.current) return;
-    handleCellInteract(idx);
+  function onGridTouchMove(e: React.TouchEvent) {
+    e.preventDefault();
+    const t = e.touches[0];
+    const idx = getCellIdxFromPoint(t.clientX, t.clientY);
+    if (idx >= 0) interactRef.current(idx);
   }
-
-  function onPointerUp() { isPointerDown.current = false; }
-
-  useEffect(() => {
-    window.addEventListener("pointerup", onPointerUp);
-    return () => window.removeEventListener("pointerup", onPointerUp);
-  }, []);
+  function onGridTouchEnd() { isDragging.current = false; }
 
   // ── Cell renderer ─────────────────────────────────────────────────────────────
   function renderCell(cellIdx: number, gs: number) {
@@ -432,9 +440,8 @@ export default function NumberPathPage() {
     return (
       <div
         key={cellIdx}
-        onPointerDown={(e) => onCellPointerDown(e, cellIdx)}
-        onPointerEnter={(e) => onCellPointerEnter(e, cellIdx)}
-        className="relative select-none cursor-pointer rounded-lg flex items-center justify-center touch-none transition-colors duration-75"
+        data-ci={cellIdx}
+        className="relative select-none cursor-pointer rounded-lg flex items-center justify-center transition-colors duration-75"
         style={{
           aspectRatio: "1",
           backgroundColor: isFlash ? "#FF2D7820" : isInPath ? "#00D4FF12" : "#12122A",
@@ -514,7 +521,7 @@ export default function NumberPathPage() {
           </Link>
           <div className="text-center">
             <h1 className="text-lg font-black tracking-widest" style={{ color: "#00D4FF" }}>{t.title}</h1>
-            <p className="text-xs" style={{ color: "#555" }}>{t.subtitle}</p>
+            <p className="text-xs" style={{ color: "#bbb" }}>{t.subtitle}</p>
           </div>
           <div className="w-16" />
         </div>
@@ -528,7 +535,7 @@ export default function NumberPathPage() {
 
         {/* Progress */}
         <div className="px-6 pb-4">
-          <div className="flex justify-between text-xs mb-1" style={{ color: "#555" }}>
+          <div className="flex justify-between text-xs mb-1" style={{ color: "#aaa" }}>
             <span>{t.progress}</span>
             <span>{save.completedLevels.length} / 10 {t.levelsOf}</span>
           </div>
@@ -566,10 +573,10 @@ export default function NumberPathPage() {
                 <div className="flex items-center gap-3">
                   <span className="text-xl">{LEVEL_BADGES[lvl.level - 1]}</span>
                   <div className="text-left">
-                    <div className="text-sm font-bold" style={{ color: locked ? "#333" : current ? "#00D4FF" : "#eee" }}>
+                    <div className="text-sm font-bold" style={{ color: locked ? "#666" : current ? "#00D4FF" : "#eee" }}>
                       {lvl.level === 10 ? `${t.boss}${t.levelLabel} ${lvl.level}` : `${t.levelLabel} ${lvl.level}`}
                     </div>
-                    <div className="text-xs" style={{ color: "#555" }}>
+                    <div className="text-xs" style={{ color: "#aaa" }}>
                       {lvl.gridSize}×{lvl.gridSize} · {lvl.waypointCount} {t.checkpoints}
                       {lvl.timeLimit > 0 ? ` · ${lvl.timeLimit}s` : ` · ${t.noLimit}`}
                     </div>
@@ -588,7 +595,7 @@ export default function NumberPathPage() {
             <button
               onClick={() => { const f = { currentLevel: 1, completedLevels: [] }; setSave(f); writeSave(f); }}
               className="w-full py-3 rounded-xl text-sm font-bold"
-              style={{ backgroundColor: "#12122A", color: "#555", border: "1px solid #1e1e3a" }}
+              style={{ backgroundColor: "#12122A", color: "#aaa", border: "1px solid #1e1e3a" }}
             >
               {t.newExpedition}
             </button>
@@ -610,7 +617,6 @@ export default function NumberPathPage() {
       <div
         className="min-h-screen flex flex-col"
         style={{ backgroundColor: "#0A0A1A" }}
-        onPointerUp={onPointerUp}
       >
         {/* Header */}
         <div className="px-4 pt-4 pb-1 flex items-center justify-between flex-shrink-0">
@@ -621,7 +627,7 @@ export default function NumberPathPage() {
             <div className="text-xs font-bold" style={{ color: "#00D4FF" }}>
               {t.levelLabel} {cfg.level} · {cfg.gridSize}×{cfg.gridSize}
             </div>
-            <div className="text-xs" style={{ color: "#555" }}>
+            <div className="text-xs" style={{ color: "#aaa" }}>
               {pathState.length}/{total} {t.filled}
             </div>
           </div>
@@ -631,7 +637,7 @@ export default function NumberPathPage() {
                 {Math.floor(timeLeft / 60)}:{String(timeLeft % 60).padStart(2, "0")}
               </div>
             )}
-            <div style={{ width: 36, height: 36 }}>
+            <div style={{ width: 52, height: 52 }}>
               <AvatarCompanion {...avatarProps} fixed={false} mood={avatarMood} jumpTrigger={avatarJump} />
             </div>
           </div>
@@ -650,7 +656,7 @@ export default function NumberPathPage() {
 
         {/* Hint bar */}
         <div className="px-4 pb-2 text-center">
-          <p className="text-xs" style={{ color: "#555" }}>
+          <p className="text-xs" style={{ color: "#aaa" }}>
             {pathState.length === 0
               ? t.tapToStart
               : nextWp <= cfg.waypointCount
@@ -663,6 +669,14 @@ export default function NumberPathPage() {
         {/* Grid */}
         <div className="flex-1 flex items-center justify-center px-3">
           <div
+            ref={gridContainerRef}
+            onMouseDown={onGridMouseDown}
+            onMouseMove={onGridMouseMove}
+            onMouseUp={onGridMouseUp}
+            onMouseLeave={onGridMouseUp}
+            onTouchStart={onGridTouchStart}
+            onTouchMove={onGridTouchMove}
+            onTouchEnd={onGridTouchEnd}
             style={{
               display: "grid",
               gridTemplateColumns: `repeat(${cfg.gridSize}, 1fr)`,
@@ -670,6 +684,7 @@ export default function NumberPathPage() {
               width: "100%",
               maxWidth: cfg.gridSize <= 4 ? 320 : cfg.gridSize <= 5 ? 360 : 380,
               touchAction: "none",
+              userSelect: "none",
             }}
           >
             {Array.from({ length: total }, (_, i) => renderCell(i, cfg.gridSize))}
@@ -681,7 +696,7 @@ export default function NumberPathPage() {
           <button
             onClick={() => setPath([])}
             className="px-5 py-2 rounded-xl text-sm font-bold flex items-center gap-2"
-            style={{ backgroundColor: "#12122A", border: "1px solid #1e1e3a", color: "#666" }}
+            style={{ backgroundColor: "#12122A", border: "1px solid #1e1e3a", color: "#aaa" }}
           >
             <Eraser size={14} /> {t.clearPath}
           </button>
@@ -705,7 +720,7 @@ export default function NumberPathPage() {
               }
             }}
             className="px-5 py-2 rounded-xl text-sm font-bold flex items-center gap-2"
-            style={{ backgroundColor: "#12122A", border: "1px solid #1e1e3a", color: "#666" }}
+            style={{ backgroundColor: "#12122A", border: "1px solid #1e1e3a", color: "#aaa" }}
           >
             <RotateCcw size={14} /> {t.newPuzzle}
           </button>
@@ -748,7 +763,7 @@ export default function NumberPathPage() {
                 {t.rarity[earnedCard]} {t.card}
               </div>
               {earnedCard === "legendary" && (
-                <p className="text-xs mt-1" style={{ color: "#555" }}>{t.legendaryDesc}</p>
+                <p className="text-xs mt-1" style={{ color: "#aaa" }}>{t.legendaryDesc}</p>
               )}
             </motion.div>
           )}
@@ -766,7 +781,7 @@ export default function NumberPathPage() {
             <button
               onClick={() => { setMilestoneKey(k => k + 1); setScreen("expedition"); }}
               className="w-full py-3 rounded-xl font-bold text-sm"
-              style={{ backgroundColor: "#0A0A1A", border: "1px solid #1e1e3a", color: "#555" }}
+              style={{ backgroundColor: "#0A0A1A", border: "1px solid #1e1e3a", color: "#aaa" }}
             >
               {t.expeditionMap}
             </button>
@@ -807,7 +822,7 @@ export default function NumberPathPage() {
             <button
               onClick={() => setScreen("expedition")}
               className="w-full py-3 rounded-xl font-bold text-sm"
-              style={{ backgroundColor: "#0A0A1A", border: "1px solid #1e1e3a", color: "#555" }}
+              style={{ backgroundColor: "#0A0A1A", border: "1px solid #1e1e3a", color: "#aaa" }}
             >
               {t.expeditionMap}
             </button>
