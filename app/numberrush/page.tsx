@@ -525,7 +525,7 @@ export default function NumberRushPage() {
 
   return (
     <div className="min-h-screen bg-[#0A0A1A] text-white select-none overflow-hidden">
-      <AvatarCompanion {...avatarProps} fixed />
+      {screen === "playing" && <AvatarCompanion {...avatarProps} fixed />}
       <MilestonePopup />
 
       {/* Floating messages */}
@@ -554,7 +554,9 @@ export default function NumberRushPage() {
               <Hash size={20} className="text-[#00D4FF]" />
               <span className="text-lg font-black tracking-wider text-[#00D4FF]">{t.title}</span>
             </div>
-            <div className="w-20" />
+            <div className="w-16 h-16 flex-shrink-0">
+              <AvatarCompanion {...avatarProps} fixed={false} />
+            </div>
           </div>
 
           <p className="text-center text-white/40 text-sm mb-6 px-4">{t.subtitle}</p>
@@ -815,12 +817,19 @@ export default function NumberRushPage() {
 
       {/* ── LEVEL COMPLETE ───────────────────────────────────────────────────────── */}
       {screen === "levelComplete" && earnedCard && (
-        <div className="flex flex-col items-center justify-center min-h-screen px-6 gap-6 text-center">
+        <div className="flex flex-col items-center justify-center min-h-screen px-6 gap-4 text-center">
           <motion.div
-            className="text-5xl font-black"
+            className="w-44 h-44"
+            initial={{ scale: 0, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}
+            transition={{ type: "spring", stiffness: 260, damping: 22 }}
+          >
+            <AvatarCompanion {...avatarProps} fixed={false} />
+          </motion.div>
+          <motion.div
+            className="text-4xl font-black"
             style={{ color: activeLevel === 10 ? "#B44DFF" : "#00D4FF" }}
             initial={{ scale: 0 }} animate={{ scale: 1 }}
-            transition={{ type: "spring", stiffness: 300, damping: 20 }}
+            transition={{ type: "spring", stiffness: 300, damping: 20, delay: 0.1 }}
           >
             {activeLevel === 10 ? t.bossDone : t.levelDone}
           </motion.div>
@@ -886,11 +895,18 @@ export default function NumberRushPage() {
 
       {/* ── LEVEL FAILED ─────────────────────────────────────────────────────────── */}
       {screen === "levelFailed" && (
-        <div className="flex flex-col items-center justify-center min-h-screen px-6 gap-6 text-center">
+        <div className="flex flex-col items-center justify-center min-h-screen px-6 gap-4 text-center">
           <motion.div
-            className="text-5xl font-black text-[#FF2D78]"
+            className="w-36 h-36"
+            initial={{ scale: 0, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}
+            transition={{ type: "spring", stiffness: 260, damping: 22 }}
+          >
+            <AvatarCompanion {...avatarProps} fixed={false} />
+          </motion.div>
+          <motion.div
+            className="text-4xl font-black text-[#FF2D78]"
             initial={{ scale: 0 }} animate={{ scale: 1 }}
-            transition={{ type: "spring", stiffness: 300, damping: 20 }}
+            transition={{ type: "spring", stiffness: 300, damping: 20, delay: 0.1 }}
           >
             {t.timeUp}
           </motion.div>
