@@ -192,13 +192,13 @@ const LEVELS: LevelConfig[] = [
   { level: 1,  gridSize: 3, duration: 35, target: 8,  hasGold: false, hasRed: false, hasLightning: false, hasBomb: false, hasTrapGreen: false, spawnInterval: 1500, maxActiveCells: 2, cellLifetime: 2200 },
   { level: 2,  gridSize: 3, duration: 30, target: 12, hasGold: true,  hasRed: false, hasLightning: false, hasBomb: false, hasTrapGreen: false, spawnInterval: 1300, maxActiveCells: 2, cellLifetime: 2000 },
   { level: 3,  gridSize: 4, duration: 35, target: 18, hasGold: true,  hasRed: true,  hasLightning: false, hasBomb: false, hasTrapGreen: false, spawnInterval: 1200, maxActiveCells: 3, cellLifetime: 1800 },
-  { level: 4,  gridSize: 4, duration: 30, target: 25, hasGold: true,  hasRed: true,  hasLightning: false, hasBomb: false, hasTrapGreen: false, spawnInterval: 1000, maxActiveCells: 3, cellLifetime: 1600 },
-  { level: 5,  gridSize: 4, duration: 28, target: 30, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: false, hasTrapGreen: false, spawnInterval: 900,  maxActiveCells: 3, cellLifetime: 1500 },
-  { level: 6,  gridSize: 5, duration: 35, target: 40, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  hasTrapGreen: false, spawnInterval: 850,  maxActiveCells: 4, cellLifetime: 1400 },
-  { level: 7,  gridSize: 5, duration: 30, target: 48, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  hasTrapGreen: false, spawnInterval: 800,  maxActiveCells: 4, cellLifetime: 1300 },
-  { level: 8,  gridSize: 5, duration: 32, target: 55, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  hasTrapGreen: false, spawnInterval: 750,  maxActiveCells: 4, cellLifetime: 1200 },
-  { level: 9,  gridSize: 6, duration: 32, target: 68, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  hasTrapGreen: false, spawnInterval: 680,  maxActiveCells: 5, cellLifetime: 1100 },
-  { level: 10, gridSize: 6, duration: 38, target: 80, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  hasTrapGreen: true,  spawnInterval: 650,  maxActiveCells: 5, cellLifetime: 1050 },
+  { level: 4,  gridSize: 4, duration: 30, target: 20, hasGold: true,  hasRed: true,  hasLightning: false, hasBomb: false, hasTrapGreen: false, spawnInterval: 1000, maxActiveCells: 3, cellLifetime: 1600 },
+  { level: 5,  gridSize: 4, duration: 28, target: 24, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: false, hasTrapGreen: false, spawnInterval: 900,  maxActiveCells: 3, cellLifetime: 1500 },
+  { level: 6,  gridSize: 5, duration: 35, target: 28, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  hasTrapGreen: false, spawnInterval: 850,  maxActiveCells: 4, cellLifetime: 1400 },
+  { level: 7,  gridSize: 5, duration: 30, target: 34, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  hasTrapGreen: false, spawnInterval: 800,  maxActiveCells: 4, cellLifetime: 1300 },
+  { level: 8,  gridSize: 5, duration: 32, target: 40, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  hasTrapGreen: false, spawnInterval: 750,  maxActiveCells: 4, cellLifetime: 1200 },
+  { level: 9,  gridSize: 6, duration: 32, target: 48, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  hasTrapGreen: false, spawnInterval: 680,  maxActiveCells: 5, cellLifetime: 1100 },
+  { level: 10, gridSize: 6, duration: 38, target: 58, hasGold: true,  hasRed: true,  hasLightning: true,  hasBomb: true,  hasTrapGreen: true,  spawnInterval: 650,  maxActiveCells: 5, cellLifetime: 1050 },
 ];
 
 const LEVEL_BADGES = ["🟢","⭐","🔴","⚡","⚡","🎯","💣","💣","🌪️","🎭"];
