@@ -27,11 +27,6 @@ import {
   updateMathStats,
   getPeriod,
   getPeriodLabel,
-  getENThemes,
-  getDEThemes,
-  getHUThemes,
-  getROThemes,
-  generateTopicQuestions,
   type MathQuestion,
   type GradeResult,
   type KlassenarbeitResult,
@@ -663,10 +658,7 @@ export default function MathTestPage() {
     return () => { cancelled = true; };
   }, [country, selectedGrade]);
 
-  // Resolved themes:
-  // - EN/DE: generator-based (EN_THEMES / DE_THEMES)
-  // - RO: generator-based (Supabase RO has German content — overridden with proper Romanian)
-  // - HU: Supabase (has correct Hungarian topics) → falls through to supabaseCurriculum below
+  // Resolved themes: all countries use Supabase get_curriculum RPC
   const resolvedThemes = useMemo((): ThemeSelectorTheme[] => {
     const cc = country?.code;
     const langPrefix =
@@ -698,10 +690,8 @@ export default function MathTestPage() {
     if (supabaseCurriculum && supabaseCurriculum.themes.length > 0) {
       return mapCurriculumToThemes(supabaseCurriculum);
     }
-    const fallback = selectedGrade ? CURRICULA[selectedGrade] : null;
-    if (fallback) return fallback.themes as unknown as ThemeSelectorTheme[];
     return [];
-  }, [supabaseCurriculum, selectedGrade, country]);
+  }, [supabaseCurriculum]);
 
   const handleGradeSelect = (grade: number) => {
     setSelectedGrade(grade);
