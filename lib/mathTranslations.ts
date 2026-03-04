@@ -1723,7 +1723,7 @@ export function qVolumeCylinder(r: number, h: number, countryCode: string): stri
 export function qSystemEq(a1: number, b1: number, s1: number, a2: number, b2: number, s2: number, countryCode: string): string {
   const lang = getLang(countryCode);
   switch (lang) {
-    case "DE": return `x+y=${s1} és x-y=${s2}. x=?`;
+    case "DE": return `x+y=${s1} und x-y=${s2}. x=?`;
     case "EN": return `x+y=${s1} and x-y=${s2}. x=?`;
     case "RO": return `x+y=${s1} și x-y=${s2}. x=?`;
     default:   return `x+y=${s1} és x-y=${s2}. x=?`;
