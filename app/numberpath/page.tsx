@@ -530,90 +530,113 @@ export default function NumberPathPage() {
   // ─── EXPEDITION SCREEN ────────────────────────────────────────────────────────
   if (screen === "expedition") {
     return (
-      <div className="min-h-screen" style={{ backgroundColor: "#0A0A1A" }}>
-        {/* Header */}
-        <div className="px-4 pt-6 pb-2 flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2 text-sm font-medium" style={{ color: "#00D4FF" }}>
-            <Home size={16} /> {t.home}
-          </Link>
-          <div className="text-center">
-            <h1 className="text-lg font-black tracking-widest" style={{ color: "#00D4FF" }}>{t.title}</h1>
-            <p className="text-xs" style={{ color: "#bbb" }}>{t.subtitle}</p>
-          </div>
-          <div className="w-20 h-20 flex-shrink-0 overflow-hidden">
-            <AvatarCompanion {...avatarProps} fixed={false} mood="idle" />
-          </div>
-        </div>
+      <div className="min-h-screen bg-[#0A0A1A] text-white select-none">
+        <AvatarCompanion {...avatarProps} fixed />
+        <MilestonePopup key={milestoneKey} />
 
-        {/* Progress */}
-        <div className="px-6 pb-4">
-          <div className="flex justify-between text-xs mb-1" style={{ color: "#aaa" }}>
-            <span>{t.progress}</span>
-            <span>{save.completedLevels.length} / 10 {t.levelsOf}</span>
+        <div className="flex flex-col min-h-screen pb-24">
+          {/* Header */}
+          <div className="flex items-center justify-between p-4 pt-6">
+            <Link href="/" className="flex items-center gap-2 text-white/60 hover:text-white transition-colors">
+              <Home size={20} /><span className="text-sm font-bold">{t.home}</span>
+            </Link>
+            <div className="flex items-center gap-2">
+              <GitBranch size={20} className="text-[#00FF88]" />
+              <span className="text-lg font-black tracking-wider text-[#00FF88]">{t.title}</span>
+            </div>
+            <div className="w-20" />
           </div>
-          <div className="h-2 rounded-full overflow-hidden" style={{ backgroundColor: "#12122A" }}>
-            <motion.div
-              className="h-full rounded-full"
-              style={{ background: "linear-gradient(90deg, #00D4FF, #B44DFF)" }}
-              initial={{ width: 0 }}
-              animate={{ width: `${save.completedLevels.length * 10}%` }}
-              transition={{ duration: 0.6 }}
-            />
-          </div>
-        </div>
 
-        {/* Level list */}
-        <div className="px-4 space-y-2 pb-8">
-          {LEVELS.map((lvl) => {
-            const completed = save.completedLevels.includes(lvl.level);
-            const locked = lvl.level > save.currentLevel;
-            const current = lvl.level === save.currentLevel;
-            return (
-              <motion.button
-                key={lvl.level}
-                onClick={() => !locked && startLevel(lvl.level)}
-                disabled={locked}
-                className="w-full rounded-xl px-4 py-3 flex items-center justify-between"
-                style={{
-                  backgroundColor: locked ? "#0d0d1a" : current ? "#00D4FF15" : "#12122A",
-                  border: locked ? "1px solid #1a1a2e" : current ? "1px solid #00D4FF" : "1px solid #1e1e3a",
-                  opacity: locked ? 0.5 : 1,
-                }}
-                whileHover={!locked ? { scale: 1.01 } : {}}
-                whileTap={!locked ? { scale: 0.98 } : {}}
-              >
-                <div className="flex items-center gap-3">
-                  <span className="text-xl">{LEVEL_BADGES[lvl.level - 1]}</span>
-                  <div className="text-left">
-                    <div className="text-sm font-bold" style={{ color: locked ? "#666" : current ? "#00D4FF" : "#eee" }}>
-                      {lvl.level === 10 ? `${t.boss}${t.levelLabel} ${lvl.level}` : `${t.levelLabel} ${lvl.level}`}
+          <p className="text-center text-white/40 text-sm mb-6 px-4">{t.subtitle}</p>
+
+          {/* Progress bar */}
+          <div className="px-6 mb-8">
+            <div className="flex justify-between text-xs text-white/40 mb-1">
+              <span>{t.progress}</span>
+              <span>{save.completedLevels.length}/10 {t.levelsOf}</span>
+            </div>
+            <div className="h-2 bg-white/10 rounded-full overflow-hidden">
+              <motion.div
+                className="h-full rounded-full"
+                style={{ background: "linear-gradient(to right, #00FF88, #00D4FF)" }}
+                initial={false}
+                animate={{ width: `${(save.completedLevels.length / 10) * 100}%` }}
+                transition={{ duration: 0.5 }}
+              />
+            </div>
+          </div>
+
+          {/* Level list */}
+          <div className="px-4 flex flex-col gap-3 max-w-sm mx-auto w-full">
+            {LEVELS.map((lvl, i) => {
+              const done    = save.completedLevels.includes(lvl.level);
+              const current = lvl.level === save.currentLevel;
+              const locked  = lvl.level > save.currentLevel;
+              const isBoss  = lvl.level === 10;
+              return (
+                <motion.div
+                  key={lvl.level}
+                  initial={{ opacity: 0, x: i % 2 === 0 ? -20 : 20 }}
+                  animate={{ opacity: 1, x: 0 }}
+                  transition={{ delay: i * 0.04 }}
+                  className={`flex items-center gap-4 p-4 rounded-2xl border transition-all ${
+                    done    ? "bg-[#001a08] border-[#00FF8840]"
+                    : current && isBoss ? "bg-[#1a0028] border-[#B44DFF] shadow-[0_0_20px_#B44DFF33]"
+                    : current ? "bg-[#001a08] border-[#00FF88] shadow-[0_0_20px_#00FF8833]"
+                    : "bg-[#0f0f22] border-white/10 opacity-60"
+                  }`}
+                >
+                  <div className={`w-12 h-12 rounded-xl flex items-center justify-center text-xl font-black flex-shrink-0 ${
+                    done    ? "bg-[#00FF8820] text-[#00FF88]"
+                    : current && isBoss ? "bg-[#B44DFF20] text-[#B44DFF]"
+                    : current ? "bg-[#00FF8820] text-[#00FF88]"
+                    : "bg-white/5 text-white/30"
+                  }`}>
+                    {done ? <Check size={22} /> : locked ? <Lock size={18} /> : LEVEL_BADGES[i]}
+                  </div>
+
+                  <div className="flex-1 min-w-0">
+                    <div className="flex items-center gap-2">
+                      <span className={`font-black text-sm ${isBoss ? "text-[#B44DFF]" : "text-white"}`}>
+                        {isBoss ? t.boss : ""}{t.levelLabel} {lvl.level}
+                      </span>
+                      {done && <span className="text-[#00FF88] text-xs">{t.done}</span>}
                     </div>
-                    <div className="text-xs" style={{ color: "#aaa" }}>
-                      {lvl.gridSize}×{lvl.gridSize} · {lvl.waypointCount} {t.checkpoints}
-                      {lvl.timeLimit > 0 ? ` · ${lvl.timeLimit}s` : ` · ${t.noLimit}`}
+                    <div className="text-white/40 text-xs mt-0.5 flex gap-3">
+                      <span>{lvl.gridSize}×{lvl.gridSize}</span>
+                      <span>{lvl.waypointCount} {t.checkpoints}</span>
+                      {lvl.timeLimit > 0 ? <span>{lvl.timeLimit}s</span> : <span>{t.noLimit}</span>}
                     </div>
                   </div>
-                </div>
-                <div>
-                  {locked ? <Lock size={16} color="#333" /> : completed ? <Check size={16} color="#00FF88" /> : <ChevronRight size={16} color="#00D4FF" />}
-                </div>
-              </motion.button>
-            );
-          })}
-        </div>
 
-        {save.completedLevels.length === 10 && (
-          <div className="px-4 pb-8">
-            <button
-              onClick={() => { const f = { currentLevel: 1, completedLevels: [] }; setSave(f); writeSave(f); }}
-              className="w-full py-3 rounded-xl text-sm font-bold"
-              style={{ backgroundColor: "#12122A", color: "#aaa", border: "1px solid #1e1e3a" }}
-            >
-              {t.newExpedition}
-            </button>
+                  {!locked && (
+                    <button
+                      onClick={() => startLevel(lvl.level)}
+                      className={`flex-shrink-0 px-4 py-2 rounded-xl font-black text-sm transition-all active:scale-95 ${
+                        isBoss  ? "bg-[#B44DFF] text-white shadow-[0_0_12px_#B44DFF66]"
+                        : current ? "bg-[#00FF88] text-black shadow-[0_0_12px_#00FF8866]"
+                        : "bg-white/10 text-white/60"
+                      }`}
+                    >
+                      {done ? "↩" : <ChevronRight size={18} />}
+                    </button>
+                  )}
+                </motion.div>
+              );
+            })}
           </div>
-        )}
-        <MilestonePopup key={milestoneKey} />
+
+          {save.completedLevels.length === 10 && (
+            <div className="px-4 mt-6 max-w-sm mx-auto w-full">
+              <button
+                onClick={() => { const f = { currentLevel: 1, completedLevels: [] }; setSave(f); writeSave(f); }}
+                className="w-full py-3 rounded-xl text-sm font-bold text-white/60 bg-white/5 border border-white/10"
+              >
+                {t.newExpedition}
+              </button>
+            </div>
+          )}
+        </div>
       </div>
     );
   }
@@ -626,41 +649,36 @@ export default function NumberPathPage() {
     const progress = pathState.length / total;
 
     return (
-      <div
-        className="min-h-screen flex flex-col"
-        style={{ backgroundColor: "#0A0A1A" }}
-      >
+      <div className="min-h-screen flex flex-col bg-[#0A0A1A]">
+        <AvatarCompanion {...avatarProps} fixed />
         {/* Header */}
         <div className="px-4 pt-4 pb-1 flex items-center justify-between flex-shrink-0">
-          <button onClick={() => { stopTimer(); setScreen("expedition"); }} style={{ color: "#00D4FF" }}>
+          <button onClick={() => { stopTimer(); setScreen("expedition"); }} className="text-white/60">
             <Home size={20} />
           </button>
           <div className="text-center">
-            <div className="text-xs font-bold" style={{ color: "#00D4FF" }}>
+            <div className="text-xs font-bold text-[#00FF88]">
               {t.levelLabel} {cfg.level} · {cfg.gridSize}×{cfg.gridSize}
             </div>
-            <div className="text-xs" style={{ color: "#aaa" }}>
+            <div className="text-xs text-white/40">
               {pathState.length}/{total} {t.filled}
             </div>
           </div>
-          <div className="flex items-center gap-2">
+          <div className="w-16 text-right">
             {cfg.timeLimit > 0 && (
-              <div className="font-mono font-bold text-sm" style={{ color: timeLeft < 20 ? "#FF2D78" : "#00D4FF" }}>
+              <div className={`font-mono font-bold text-sm ${timeLeft < 20 ? "text-[#FF2D78]" : "text-[#00FF88]"}`}>
                 {Math.floor(timeLeft / 60)}:{String(timeLeft % 60).padStart(2, "0")}
               </div>
             )}
-            <div style={{ width: 52, height: 52 }}>
-              <AvatarCompanion {...avatarProps} fixed={false} />
-            </div>
           </div>
         </div>
 
         {/* Progress bar */}
         <div className="px-4 pb-2">
-          <div className="h-1.5 rounded-full overflow-hidden" style={{ backgroundColor: "#12122A" }}>
+          <div className="h-1.5 rounded-full overflow-hidden bg-white/10">
             <motion.div
               className="h-full rounded-full"
-              style={{ background: "linear-gradient(90deg, #00D4FF, #B44DFF)", width: `${progress * 100}%` }}
+              style={{ background: "linear-gradient(90deg, #00FF88, #00D4FF)", width: `${progress * 100}%` }}
               transition={{ duration: 0.1 }}
             />
           </div>
@@ -668,7 +686,7 @@ export default function NumberPathPage() {
 
         {/* Hint bar */}
         <div className="px-4 pb-2 text-center">
-          <p className="text-xs" style={{ color: "#aaa" }}>
+          <p className="text-xs text-white/40">
             {pathState.length === 0
               ? t.tapToStart
               : nextWp <= cfg.waypointCount
@@ -707,8 +725,7 @@ export default function NumberPathPage() {
         <div className="px-4 pb-6 pt-3 flex justify-center gap-3">
           <button
             onClick={() => setPath([])}
-            className="px-5 py-2 rounded-xl text-sm font-bold flex items-center gap-2"
-            style={{ backgroundColor: "#12122A", border: "1px solid #1e1e3a", color: "#aaa" }}
+            className="px-5 py-2 rounded-xl text-sm font-bold flex items-center gap-2 bg-white/5 border border-white/10 text-white/60"
           >
             <Eraser size={14} /> {t.clearPath}
           </button>
@@ -731,8 +748,7 @@ export default function NumberPathPage() {
                 }, 1000);
               }
             }}
-            className="px-5 py-2 rounded-xl text-sm font-bold flex items-center gap-2"
-            style={{ backgroundColor: "#12122A", border: "1px solid #1e1e3a", color: "#aaa" }}
+            className="px-5 py-2 rounded-xl text-sm font-bold flex items-center gap-2 bg-white/5 border border-white/10 text-white/60"
           >
             <RotateCcw size={14} /> {t.newPuzzle}
           </button>
@@ -745,15 +761,15 @@ export default function NumberPathPage() {
   if (screen === "levelComplete") {
     const cfg = cfgRef.current;
     return (
-      <div className="min-h-screen flex flex-col items-center justify-center px-6" style={{ backgroundColor: "#0A0A1A" }}>
+      <div className="min-h-screen flex flex-col items-center justify-center px-6 bg-[#0A0A1A]">
         <motion.div
-          className="w-full max-w-sm rounded-2xl p-6"
-          style={{ backgroundColor: "#12122A", border: "1px solid #00D4FF44" }}
+          className="w-full max-w-sm rounded-2xl p-6 bg-[#12122A]"
+          style={{ border: cfg.level === 10 ? "1px solid #B44DFF44" : "1px solid #00FF8844" }}
           initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
         >
           <div className="text-center mb-4">
             <div className="text-4xl mb-2">{cfg.level === 10 ? "🏆" : "✅"}</div>
-            <h2 className="text-xl font-black" style={{ color: "#00D4FF" }}>
+            <h2 className={`text-xl font-black ${cfg.level === 10 ? "text-[#B44DFF]" : "text-[#00FF88]"}`}>
               {cfg.level === 10 ? t.bossDone : t.levelDone}
             </h2>
           </div>
@@ -766,8 +782,8 @@ export default function NumberPathPage() {
 
           {earnedCard && (
             <motion.div
-              className="rounded-xl p-4 mb-4 text-center"
-              style={{ backgroundColor: "#0A0A1A", border: `2px solid ${RARITY_COLORS[earnedCard]}`, boxShadow: `0 0 16px ${RARITY_COLORS[earnedCard]}44` }}
+              className="rounded-xl p-4 mb-4 text-center bg-[#0A0A1A]"
+              style={{ border: `2px solid ${RARITY_COLORS[earnedCard]}`, boxShadow: `0 0 16px ${RARITY_COLORS[earnedCard]}44` }}
               initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: 0.3, type: "spring" }}
             >
               <div className="text-2xl mb-1">🃏</div>
@@ -775,7 +791,7 @@ export default function NumberPathPage() {
                 {t.rarity[earnedCard]} {t.card}
               </div>
               {earnedCard === "legendary" && (
-                <p className="text-xs mt-1" style={{ color: "#aaa" }}>{t.legendaryDesc}</p>
+                <p className="text-xs mt-1 text-white/50">{t.legendaryDesc}</p>
               )}
             </motion.div>
           )}
@@ -784,16 +800,15 @@ export default function NumberPathPage() {
             {cfg.level < 10 && (
               <button
                 onClick={() => startLevel(cfg.level + 1)}
-                className="w-full py-3 rounded-xl font-bold text-white"
-                style={{ background: "linear-gradient(135deg, #00D4FF, #B44DFF)" }}
+                className="w-full py-3 rounded-xl font-bold text-black"
+                style={{ background: "linear-gradient(135deg, #00FF88, #00D4FF)" }}
               >
                 {t.nextLevel} →
               </button>
             )}
             <button
               onClick={() => { setMilestoneKey(k => k + 1); setScreen("expedition"); }}
-              className="w-full py-3 rounded-xl font-bold text-sm"
-              style={{ backgroundColor: "#0A0A1A", border: "1px solid #1e1e3a", color: "#aaa" }}
+              className="w-full py-3 rounded-xl font-bold text-sm text-white/60 bg-white/5 border border-white/10"
             >
               {t.expeditionMap}
             </button>
@@ -808,15 +823,14 @@ export default function NumberPathPage() {
   if (screen === "levelFailed") {
     const cfg = cfgRef.current;
     return (
-      <div className="min-h-screen flex flex-col items-center justify-center px-6" style={{ backgroundColor: "#0A0A1A" }}>
+      <div className="min-h-screen flex flex-col items-center justify-center px-6 bg-[#0A0A1A]">
         <motion.div
-          className="w-full max-w-sm rounded-2xl p-6"
-          style={{ backgroundColor: "#12122A", border: "1px solid #FF2D7844" }}
+          className="w-full max-w-sm rounded-2xl p-6 bg-[#12122A] border border-[#FF2D7844]"
           initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
         >
           <div className="text-center mb-4">
             <div className="text-4xl mb-2">⏰</div>
-            <h2 className="text-xl font-black" style={{ color: "#FF2D78" }}>{t.timeUp}</h2>
+            <h2 className="text-xl font-black text-[#FF2D78]">{t.timeUp}</h2>
           </div>
           <div className="flex justify-center mb-4">
             <div style={{ width: 100, height: 100 }}>
@@ -833,8 +847,7 @@ export default function NumberPathPage() {
             </button>
             <button
               onClick={() => setScreen("expedition")}
-              className="w-full py-3 rounded-xl font-bold text-sm"
-              style={{ backgroundColor: "#0A0A1A", border: "1px solid #1e1e3a", color: "#aaa" }}
+              className="w-full py-3 rounded-xl font-bold text-sm text-white/60 bg-white/5 border border-white/10"
             >
               {t.expeditionMap}
             </button>
