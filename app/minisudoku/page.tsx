@@ -676,8 +676,6 @@ export default function MiniSudokuPage() {
 
     return (
       <div className="min-h-screen bg-[#0A0A1A] text-white select-none flex flex-col">
-        <AvatarCompanion {...avatarProps} fixed />
-
         {/* Header */}
         <div className="flex items-center justify-between p-3 pt-5">
           <button
@@ -891,8 +889,6 @@ export default function MiniSudokuPage() {
     const rarity = earnedCard;
     return (
       <div className="min-h-screen bg-[#0A0A1A] text-white flex flex-col items-center justify-center px-6">
-        <AvatarCompanion {...avatarProps} fixed />
-
         <motion.div
           initial={{ scale: 0.8, opacity: 0 }}
           animate={{ scale: 1, opacity: 1 }}
@@ -967,8 +963,6 @@ export default function MiniSudokuPage() {
     const isTimeout = timeLeft === 0 && cfg.timeLimit > 0;
     return (
       <div className="min-h-screen bg-[#0A0A1A] text-white flex flex-col items-center justify-center px-6">
-        <AvatarCompanion {...avatarProps} fixed />
-
         <motion.div
           initial={{ scale: 0.8, opacity: 0 }}
           animate={{ scale: 1, opacity: 1 }}
