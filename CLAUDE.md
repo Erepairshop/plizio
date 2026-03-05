@@ -801,6 +801,461 @@ Szabályok:
 
 ---
 
+## TERVEZETT ÚJ JÁTÉKOK (TODO lista)
+
+### 🔮 Saját egyedi ötlet — "Pattern Forge"
+**Státusz:** Tervezési fázis
+
+**Koncepció:**
+- A játékos egy 2D rácsban lát egy részleges mintát (számok, formák, színek kombinációja)
+- Ki kell találni mi jön következőnek — de nem sima sorozat, hanem sor + oszlop logika egyszerre
+- Időkorlát + egyre összetettebb minták szintenként
+- **Egyedi:** ilyen formában nincs más hasonló a piacon
+
+**Tervezett mechaniká:**
+- Expedíció formátum (10 szint)
+- Kategória: `logic`
+- Route: `/patternforge`
+- Kártya ritkaság: `calculateRarity(..., false)` (nincs gold)
+- Szint struktúra: 3×3 minta → 4×4 → 5×5, egyre több változó (szín + forma + szám egyszerre)
+
+---
+
+### 📋 Ajánlott Logic játékok (prioritás sorrendben)
+
+| # | Játék | Route | Leírás | Komplexitás |
+|---|-------|-------|--------|-------------|
+| 1 | **Nonogram / Picross** | `/nonogram` | Rácsba kell kiszínezni cellákat sor/oszlop számok alapján → pixel art kép jön ki | Közepes |
+| 2 | **Light Out** | `/lightout` | Kapcsolók puzzle: egy cella megnyomása átkapcsolja azt + szomszédjait, cél: minden lámpa ki | Alacsony |
+| 3 | **Bridges** | `/bridges` | Szigetek közé hidakat húzni, minden sziget össze legyen kötve és a számuk stimmeljen | Közepes |
+| 4 | **2048 / Number Merge** | `/numbermerge` | 2048 klón plizio skin-nel és kártya integrációval | Alacsony |
+| 5 | **Maze Rush** | `/mazerush` | Véletlenszerűen generált labirintus, időre kell kijutni | Közepes |
+| 6 | **Kakuro** | `/kakuro` | Keresztrejtvény számokkal — cellákba számokat kell írni hogy a sorok/oszlopok összege stimmeljen | Magas |
+
+### Meglévők bővítési ötletek
+- **MiniSudoku**: 6×6-os grid, Daily Sudoku route (`/daily-sudoku`), explicit nehézségi szintek
+- **NumberPath**: visszaszámlálós mód (N→1), blokkolt cellák az útvonalban
+
+---
+
+## PLIZIO WORLD — Közös Sztori Expedíció (NAGY VÍZIÓ)
+
+### Alapötlet
+Minden játék egy **helyszín** a világtérképen. A játékos avatarral utazik, zónánként mini-expedíciókat teljesít, naponta új szintek nyílnak meg → visszatérésre ösztönöz.
+
+### Világtérkép — Zónák
+| Zóna | Helyszín | Játékok |
+|------|----------|---------|
+| 1 | 🏔️ Hegyvidék | NumberPath, MiniSudoku |
+| 2 | 🌊 Óceán | Memory Flash, Spot Diff |
+| 3 | 🏙️ Város | Reflex Rush, Quick Pick |
+| 4 | 🌲 Erdő | Kodex, Word Scramble |
+| 5 | 🏜️ Sivatag | Math Test, Number Rush |
+| 6 | 🌋 Vulkán | Pattern Forge (end-game, még nem kész) |
+
+Zónák sorban zároltak — előzőt teljesítve nyílik a következő.
+
+### Napi rendszer
+- Naponta **1 új szint** nyílik minden aktív zónában
+- Ha kihagysz egy napot → szint megvár, de streak elveszik
+- Streak jutalmak: 7 nap → ritka kártya, 30 nap → legendary
+
+### ⭐ Csillag-gazdaság a World rendszerben
+A csillag (⭐) a játék fő valutája — a World rendszerben is ez a jutalom, nem külön valuta:
+
+| Esemény | Csillag jutalom |
+|---------|----------------|
+| Zóna szint teljesítése | +1 ⭐ |
+| Zóna összes szintje kész (first clear) | +5 ⭐ |
+| Tökéletes szint (hibátlan) | +1 ⭐ bónusz |
+| Napi streak 7 nap | +2 ⭐ |
+| Napi streak 30 nap | +10 ⭐ |
+
+**Fontos:** ezek `addSpecialCards()` hívással mennek — ugyanaz a ⭐ amit a shopban is lehet költeni. Nincs külön World valuta!
+
+### Technikai megvalósítás fázisai
+1. **Térkép UI** — interaktív világtérkép főoldalon, zónák státuszával (zárolt/aktív/kész)
+2. **Zóna expedíciók** — minden játékhoz expedition rendszer (Kodex/ReflexRush minta alapján)
+3. **Napi kapu** — `last_played_date` per zóna, "Ma nyitható" badge
+4. **Sztori jelenetek** — rövid szöveges jelenet avatarral zóna teljesítésekor (opcionális)
+
+### localStorage kulcsok (tervezett)
+| Kulcs | Tartalom |
+|-------|---------|
+| `plizio_world_progress` | `{ activeZone: number, completedZones: string[] }` |
+| `plizio_world_last_played` | `Record<zoneId, dateString>` |
+| `plizio_world_streak` | `{ count: number, lastDate: string }` |
+
+---
+
+## HETI SPRINT TERV
+
+> Utoljára frissítve: 2026-03-05
+> Kapacitás: 4-5 egyszerű játék/nap | World map (teljes) = 1 nap | lib/fix = ~30 perc
+> Referencia: a teljes jelenlegi Plizio (18 játék + shop + avatar) ~10 nap alatt épült
+
+### Becslési kategóriák
+| Méret | Példa | Idő |
+|-------|-------|-----|
+| XS | lib módosítás, árak, szöveg | 15-30 perc |
+| S | egyszerű játék (Light Out, 2048) | 1-1.5 óra |
+| M | expedíciós játék (Pattern Forge, Nonogram) | 2-3 óra |
+| L | nagy rendszer (World map, napi jutalom UI) | 3-5 óra |
+| XL | teljes feature set (daily system komplett) | 5+ óra |
+
+---
+
+### SPRINT 1 — 2026. március 5-11.
+
+#### Nap 1 (márc. 5) — TERV NAP
+- [x] Gazdasági audit (árak, bevételek, arányok elemzése)
+- [x] Heti sprint terv megírása CLAUDE.md-be
+
+#### Nap 2 (márc. 6) — Gazdaság + napi jutalom + RewardReveal + World map [1 nap]
+- [ ] **XS** Csillag-gazdaság: árak felfelé tolása (skins max 40⭐, cape 35⭐, trail 25⭐) → teljes shop ~1100-1200⭐
+- [ ] **XS** Streak milestone-ok hozzáadása (7/14/30 nap)
+- [ ] **S** Napi bejelentkezési jutalom rendszer (`lib/dailyReward.ts` + UI popup)
+- [ ] **XS** RewardReveal flow fix: reflexrush + numberrush + sequencerush + wordhunt + numberpath + minisudoku
+- [ ] **L** Plizio World TELJES rendszer — térkép UI, zónák, locked/unlocked, progress, jutalmak
+
+#### Nap 3 (márc. 7) — 4-5 új játék [1 nap]
+- [ ] **S** Light Out (`/lightout`) — kapcsolós puzzle, category: logic
+- [ ] **S** Number Merge 2048 (`/numbermerge`) — 2048 klón, category: brain
+- [ ] **S** Maze Rush (`/mazerush`) — generált labirintus időre, category: brain
+- [ ] **M** Pattern Forge (`/patternforge`) — 2D rács minta, expedíció 10 szint, category: logic
+- [ ] **M** Nonogram / Picross (`/nonogram`) — rácsszínező, category: logic
+
+#### Nap 4 (márc. 8) — Shop bővítés + SEO [1 nap]
+- [ ] **S** Shop bővítés: +15-20 új item (ruhák, accessory, új skin-ek)
+- [ ] **S** SEO: sitemap frissítés + blog post(ok) az új játékokhoz
+- [ ] **XS** Dashboard bővítés: napi streak counter, World progress
+
+#### Nap 5-7 (márc. 9-11) — Következő kör játékok + polish
+- [ ] **M** Bridges puzzle (`/bridges`) — sziget-híd logika
+- [ ] **XL** MiniSudoku 6×6 + Daily Sudoku (`/daily-sudoku`)
+- [ ] **L** Kakuro (`/kakuro`)
+- [ ] **S** Plizio World napi kapu rendszer (zónánként 1 szint/nap unlock)
+- [ ] Buffer: hibajavítások, polish, tesztelés
+
+---
+
+### BACKLOG (sprint 2+)
+- [ ] Deutsch Test hub bővítés (ha hiányos)
+- [ ] NumberPath visszaszámlálós mód
+- [ ] MiniSudoku nehézségi szintek (könnyű/normál/nehéz)
+- [ ] Globális leaderboard (ha Supabase bővül)
+
+---
+
+## MULTIPLAYER VÍZIÓ — Plizio Match rendszer
+
+> Prioritás: HOSSZÚ TÁV — előbb 30 játék + World map, aztán multiplayer
+> Technológia: Supabase Realtime (már van Supabase integráció!)
+
+---
+
+### Alapkoncepció — "Plizio Match"
+
+Nem sima szoba+kód rendszer, hanem **teljes meccs több körrel, kevert játékokkal**.
+
+```
+Match = 3-5 kör, minden kör más játék
+
+Kör 1: Quick Pick (60s)         → eredmény → avatár reakció (😄 / 😢)
+Kör 2: Kodex (1 szint)          → eredmény → avatár reakció
+Kör 3: Math Test (5 kérdés)     → eredmény → avatár reakció
+──────────────────────────────────────────────────────────
+Végeredmény: összpontszám → multipontok kiosztva
+```
+
+**Miért jobb mint sima szoba?**
+- Változatos → nem egyforma minden meccs
+- Különböző játékok különböző erősségeket tesztelnek (fair)
+- Avatar reakciók drámai feszültséget adnak
+- "Rematch?" gomb + közelharcos meccsekben bónusz
+
+---
+
+### Kihívás rendszer — névvel, nem kóddal
+
+**Flow:**
+```
+1. rs megnyitja /multiplayer → beiratkozik online_players-be (name="rs")
+2. Látja az online játékosok listáját
+3. rs begépeli: "xy" → "Kihívás küldése" gomb
+
+4. xy-nál popup jelenik meg (Supabase Realtime):
+   ┌──────────────────────────────┐
+   │  rs kihívott!                │
+   │  Játék: Plizio Match (3 kör) │
+   │  [Elfogad]     [Elutasít]    │
+   └──────────────────────────────┘
+
+5a. Elfogad → mindkettő átmegy a match-be → indul
+5b. Elutasít → rs-nél "xy elutasította" üzenet
+5c. 30s timeout → auto decline
+```
+
+---
+
+### Supabase táblák
+
+```sql
+-- Online jelenlét (TTL: 5 perc ping nélkül)
+online_players:
+  name         string   UNIQUE
+  session_id   string
+  last_seen    timestamp
+  current_game string | null
+
+-- Kihívás (TTL: 30s)
+challenges:
+  id           uuid
+  from_name    string
+  to_name      string
+  game_type    string   -- "plizio_match"
+  status       "pending" | "accepted" | "declined" | "expired"
+  room_code    string
+  created_at   timestamp
+
+-- Meccs szoba
+match_rooms:
+  room_code    string   UNIQUE (4 kar)
+  player_a     string   -- kihívó neve
+  player_b     string   -- kihívott neve
+  state        "waiting" | "round_playing" | "round_result" | "finished"
+  current_round  number
+  rounds       JSON     -- GameRound[]
+  scores       JSON     -- { player_a: number, player_b: number }
+  seed         number   -- véletlenszerű seed → mindkét oldal ugyanazt generálja
+  created_at   timestamp
+```
+
+---
+
+### TypeScript típusok (tervezett)
+
+```ts
+interface MultiMatch {
+  roomCode: string
+  playerA: string        // kihívó
+  playerB: string        // kihívott
+  state: MatchState
+  currentRound: number
+  rounds: GameRound[]
+  scores: Record<string, number>   // összesített multipontok
+  seed: number                     // determinisztikus random
+}
+
+type MatchState = "waiting" | "round_playing" | "round_result" | "finished"
+
+interface GameRound {
+  game: MultiGame
+  duration: number      // másodperc
+  status: "waiting" | "playing" | "done"
+  scores: Record<string, number>   // kör pontszámai
+}
+
+type MultiGame = "quickpick" | "mathtest" | "wordscramble" | "reflexrush" | "numberrush"
+```
+
+---
+
+### Meccs kör sorrend — játék pool
+
+**Kezdeti pool (közepes komplexitás, könnyen szinkronizálható):**
+
+| Játék | Forma | Sync módszer | Komplexitás |
+|-------|-------|-------------|-------------|
+| Quick Pick | Ki kattint előbb | seed → ugyanaz a kép sorrend | alacsony |
+| Math Test | Ki válaszol előbb | seed → ugyanaz a kérdések | alacsony |
+| Word Scramble | Ugyanaz a szó, race | seed → ugyanaz a szó | alacsony |
+| Reflex Rush | Saját score, végén összehasonlítás | seed → ugyanaz a spawn sorrend | közepes |
+| Number Rush | Saját score, végén összehasonlítás | seed → ugyanaz a grid | közepes |
+
+**Seed alapú sync — KRITIKUS:**
+- Minden meccshez 1 seed generálódik (random number)
+- Mindkét kliens ugyanabból a seed-ből generálja a kérdéseket/grideket
+- → Nincs szerver-oldali game logic, csak eredmény sync!
+
+---
+
+### Meccs közi Avatar reakció screen
+
+```
+┌───────────────────────────────────────────┐
+│         Kör 1 eredménye: Quick Pick       │
+│                                           │
+│   rs  [avatar 😄]        [avatar 😢]  xy  │
+│        +3 pont              +1 pont       │
+│                                           │
+│   Összesítés:   rs  3  —  1  xy           │
+│                                           │
+│         Következő kör: Kodex...  3s       │
+└───────────────────────────────────────────┘
+```
+
+- Mindkét avatar Supabase-ből szinkronizált (ugyanaz jelenik meg mindkét képernyőn)
+- mood: győztes → `"victory"`, vesztes → `"disappointed"`, döntetlen → `"surprised"`
+- 3 másodperc várakozás, aztán auto-start
+
+---
+
+### Pontozás — Multipontok
+
+```
+Kör győzelem:              +2 multipont
+Meccs győzelem:            +5 multipont
+Perfect kör (hibátlan):    +1 bónusz multipont
+Szoros meccs (≤1 pont):    +1 bónusz MINDKETTŐNEK
+Részvétel (akár veszít):   +1 multipont (ne legyen demotiváló!)
+
+Multipontból csillag:
+  10 multipont = 1 ⭐
+  (kártyából összehasonlítva: 30 bronz = 1 ⭐  →  multipont ~1.5× értékesebb)
+```
+
+**localStorage kulcs:** `plizio_multipoints: number`
+**Supabase:** `multi_stats` tábla → `total_multipoints, wins, losses, matches_played`
+
+---
+
+### Ismert problémák és megoldások
+
+| Probléma | Megoldás |
+|----------|---------|
+| **Kapcsolat megszakad meccs közben** | 30s timeout → automatikus win a bent maradónak + fél multipontok |
+| **Aszimmetrikus ping** (egyik lassabb) | Round timer szerver-oldalon indul (match_rooms.round_start_at) |
+| **Ugyanaz a kérdés kellene** | Seed alapú generálás → kliens-oldalon reprodukálható |
+| **Játékos offline mire challenge érkezik** | `last_seen` alapján: ha >2 perc → "nem elérhető" jelzés |
+| **Meccs közbeni cheat** (score manipulálás) | Nincs szerver-validáció egyelőre (trusted client) — elég kezdetnek |
+| **Supabase free tier limit** | Realtime: 200 concurrent connections — bőven elég kezdetnek |
+| **Mobil háttérbe kerül (iOS Safari)** | `visibilitychange` event → pause + értesítés a másik félnek |
+| **Round timer desync** | `round_start_at` timestamp Supabase-ben → kliens kiszámolja a maradékot |
+
+---
+
+### UI route struktúra
+
+```
+/multiplayer               → Lobby (online játékosok, kihívás küldés)
+/multiplayer/match/[code]  → Aktív meccs (körök + avatar reakciók + eredmény)
+```
+
+**Lobby screen állapotok:**
+```ts
+type LobbyState =
+  | "idle"              // nincs aktív kihívás
+  | "challenging"       // kihívás elküldve, várjuk a választ
+  | "incoming"          // beérkező kihívás popup
+  | "connecting"        // elfogadva, meccs töltődik
+```
+
+---
+
+### Megvalósítás fázisai (sorrendben)
+
+1. **Supabase táblák** — `online_players`, `challenges`, `match_rooms` létrehozása
+2. **Online presence** — `/multiplayer` lobby + ping loop (30s)
+3. **Challenge flow** — küldés, fogadás, elfogadás/elutasítás (Realtime)
+4. **Quick Pick multi** — első kör, seed sync, eredmény feltöltés
+5. **Avatar reakció screen** — közte megjelenő összesítő
+6. **Meccs struktúra** — 3 kör kevert játékokkal
+7. **Multipontok** — kiosztás + megjelenítés a profilon/dashboardon
+8. **Disconnect handling** — timeout logika
+9. **Rematch gomb** — meccs végén
+
+---
+
+## OKTATÁSI PLATFORM VÍZIÓ — Globális tantárgy + nyelv bővítés
+
+> Ritmus: 1-2 nap/hét párhuzamosan a játékfejlesztéssel
+
+### Jelenlegi állapot
+| Tantárgy | Nyelvek | SEO oldalak | Státusz |
+|----------|---------|-------------|---------|
+| Math | HU/DE/EN/RO | `/mathe-test/`, `/math-test/` | ✅ kész |
+| Deutsch Grammatik | DE | `/deutsch-test/` | 🔄 folyamatban |
+
+### Tantárgyak bővítési sorrendje
+| # | Tantárgy | Route | Fő célpiac | SEO potenciál |
+|---|----------|-------|-----------|---------------|
+| 1 | Deutsch Grammatik | `/deutsch-test/` | DE/AT/CH | 🔥🔥 magas |
+| 2 | English Grammar | `/english-test/` | globális | 🔥🔥🔥 legnagyobb |
+| 3 | Természettudomány | `/science-test/` | EN/DE | 🔥🔥 |
+| 4 | Földrajz | `/geography-test/` | EN/DE/HU | 🔥 |
+| 5 | Biológia | `/biology-test/` | EN/DE | 🔥 |
+| 6 | Történelem | `/history-test/` | HU/DE | közepes |
+
+### UI nyelv bővítési sorrendje (lib/language.ts)
+| # | Nyelv | Kód | Célpiac | Mikor |
+|---|-------|-----|---------|-------|
+| 1 | Magyar | `hu` | HU | ✅ kész |
+| 2 | Deutsch | `de` | DE/AT/CH | ✅ kész |
+| 3 | English | `en` | globális | ✅ kész |
+| 4 | Română | `ro` | RO | ✅ kész |
+| 5 | Français | `fr` | FR/BE/CH/CA | sprint 3-4 |
+| 6 | Español | `es` | ES/LATAM | sprint 4-5 |
+| 7 | Italiano | `it` | IT/CH | sprint 5-6 |
+| 8 | Português | `pt` | PT/BR | sprint 6+ |
+| 9 | Nederlands | `nl` | NL/BE | sprint 6+ |
+
+### Technikai teendők új nyelv hozzáadásakor
+1. `lib/language.ts` → Language type bővítése: `"hu" | "de" | "en" | "ro" | "fr" | ...`
+2. `components/LanguageProvider.tsx` → zászló + language switcher bővítése
+3. `lib/mathTranslations.ts` → fordítások az új nyelvre
+4. `lib/mathCurriculum.ts` → country code mapping (`getLang("FR") → "FR"`)
+5. Új SEO oldalak: `/calcul-mental/` (FR), `/test-de-matematicas/` (ES), stb.
+6. `public/sitemap-education.xml` → új sorok
+7. hreflang az új nyelvre minden érintett oldalon
+
+### SEO stratégia tantárgyanként
+- **Math DE:** "mathe test klasse 3" — már folyamatban, DE piac erős
+- **Math EN:** "math test grade 3" — legnagyobb keresési volumen globálisan
+- **English Grammar:** "english grammar test grade 4" — szülők/tanárok keresik
+- **Francia math:** "test de mathématiques CE2" — szinte nincs verseny!
+- **Spanyol math:** "ejercicios de matemáticas 3o primaria" — LATAM is belefér
+
+---
+
+### Csillag-gazdaság terv (implementálva majd: márc. 6)
+
+**Bevételi célok:**
+- Napi aktív játékos: ~2-3 ⭐/nap
+- Teljes shop megvásárlása: 6-12 hónap
+- Első "jó" item eléréséhez: 1-2 hét
+
+**Bevételi források (tervezett):**
+| Forrás | Mennyit | Mikor |
+|--------|---------|-------|
+| Kártya beváltás — bronz | 1⭐ / 60 db | Folyamatos |
+| Kártya beváltás — ezüst | 1⭐ / 40 db | Folyamatos |
+| Kártya beváltás — arany | 1⭐ / 20 db | Folyamatos |
+| Kártya beváltás — legendary | 1⭐ / 2 db | Folyamatos |
+| Share jutalom | 1⭐/nap | Naponta |
+| Napi bejelentkezés (ÚJ) | 1⭐/nap | Naponta |
+| Streak 7 nap (ÚJ) | 2⭐ | Egyszeri/ciklus |
+| Streak 14 nap (ÚJ) | 3⭐ | Egyszeri/ciklus |
+| Streak 30 nap (ÚJ) | 5⭐ | Egyszeri/ciklus |
+| Milestone összesen | ~50⭐ | Egyszeri, lifetime |
+
+**Árszabás irányvonal (tervezett):**
+| Kategória | Régi max | Új max |
+|-----------|----------|--------|
+| Skin | 25⭐ | 40⭐ |
+| Void/Legendary skin | 20-25⭐ | 40⭐ |
+| Cape | 20⭐ | 35⭐ |
+| Trail | 15⭐ | 25⭐ |
+| Hat | 12⭐ | 20⭐ |
+| Top (armor/suit) | 20⭐ | 30⭐ |
+| Glasses/Gloves max | 10⭐ | 15⭐ |
+| Olcsó itemek (tshirt, basic) | marad | marad |
+| **Teljes shop összeg** | **~778⭐** | **~1100-1200⭐** |
+
+localStorage kulcs (napi jutalom): `plizio_daily_login` → `{ lastDate: string, streakCount: number }`
+
+---
+
 ## Out mappa szinkron (public_html deploy)
 
 **FONTOS:** A felhasználó szerverén a fájlok a `public_html/` mappából futnak.
@@ -816,3 +1271,113 @@ Szabályok:
 - A deploy parancsban MINDIG töröld a régi `_next/` és `next_static/` mappát először, majd nevezd át: `rm -rf _next next_static && cp -r out/* . && mv _next next_static && rm -rf out`
   - Ez azért fontos, mert a JS chunk fájlnevek minden buildnél változnak
   - Ha nem törlöd, régi és új chunk fájlok keverednek, és elromlik az oldal
+
+---
+
+## NAPI FELADAT RENDSZER — Tervezési dokumentáció
+
+> Állapot: tervezési fázis (2026-03-05)
+> Implementáció: sprint 2-ben
+
+### Koncepció
+A játékos minden nap kap 3 feladatot. Ha teljesíti őket → ⭐ jutalom.
+Ezek NEM expedíciós szintek, hanem rövid, változatos kihívások.
+
+### Feladat típusok
+
+| Típus | Példák | Trigger pont |
+|-------|--------|-------------|
+| **Game challenge** | "Érj el 8/10-et Math Testen", "Nyerj Kodex 5. szintjén" | játék vége callback |
+| **Playtime** | "Játssz ma összesen 20 percet", "Játssz 3 különböző játékkal" | session timer localStorage |
+| **Collection** | "Szerezz 3 kártyát ma", "Szerezz Silver+ kártyát", "Válts be 5 kártyát" | `plizio-cards-changed` event |
+| **Social** | "Oszd meg Plizio-t egy baráttal" | meglévő `claimShareReward()` hook |
+| **Avatar/Shop** | "Öltöztesd fel az avatarod", "Vegyél meg egy tárgyat a shopban" | vásárlás/equip event |
+| **Streak** | "Látogass el 3 egymást követő napon" | napi login check |
+
+### Arányok (30 feladatból)
+| Típus | Db |
+|-------|-----|
+| Game challenge | 15 |
+| Playtime / multi-game | 5 |
+| Collection | 5 |
+| Social | 2 |
+| Avatar/Shop | 3 |
+
+### Jutalmak
+- 1 feladat teljesítve → 1 ⭐
+- Mind a 3 teljesítve (napi) → +1 ⭐ bónusz (összesen 4 ⭐/nap max)
+
+### localStorage kulcsok (tervezett)
+| Kulcs | Tartalom |
+|-------|---------|
+| `plizio_daily_tasks` | `{ date: string, tasks: DailyTask[], completedIds: string[] }` |
+| `plizio_task_playtime` | `{ date: string, minutes: number, games: string[] }` |
+
+### DailyTask típus (tervezett)
+```ts
+interface DailyTask {
+  id: string
+  type: "game_challenge" | "playtime" | "collection" | "social" | "shop" | "streak"
+  titleKey: string          // fordítási kulcs
+  descKey: string
+  reward: number            // ⭐ db
+  completed: boolean
+  progress?: number         // pl. 2/3 kártyánál
+  target?: number
+  params?: Record<string, unknown>  // pl. { game: "mathtest", minScore: 8, total: 10 }
+}
+```
+
+### Task pool (példák — implementációkor bővítendő)
+```ts
+// Game challenge
+{ type: "game_challenge", params: { game: "mathtest", minScore: 8, total: 10 } }
+{ type: "game_challenge", params: { game: "kodex", minLevel: 5 } }
+{ type: "game_challenge", params: { game: "skyclimb", minLevel: 10 } }
+{ type: "game_challenge", params: { game: "wordscramble", minScore: 3, total: 5 } }
+{ type: "game_challenge", params: { game: "reflexrush", minScore: 20 } }
+{ type: "game_challenge", params: { game: "quickpick", minScore: 5, total: 8 } }
+{ type: "game_challenge", params: { game: "numberrush", minLevel: 3 } }
+{ type: "game_challenge", params: { game: "spotdiff", perfect: true } }
+{ type: "game_challenge", params: { game: "memoryflash", minLevel: 5 } }
+{ type: "game_challenge", params: { game: "milliomos", minScore: 5, total: 10 } }
+
+// Playtime
+{ type: "playtime", params: { minutes: 15 } }
+{ type: "playtime", params: { minutes: 30 } }
+{ type: "playtime", params: { differentGames: 3 } }
+{ type: "playtime", params: { differentGames: 5 } }
+
+// Collection
+{ type: "collection", params: { earnCards: 3 } }
+{ type: "collection", params: { earnRarity: "silver", count: 1 } }
+{ type: "collection", params: { redeemCards: 5 } }
+{ type: "collection", params: { earnCards: 5 } }
+
+// Social
+{ type: "social", params: { action: "share" } }
+
+// Shop/Avatar
+{ type: "shop", params: { action: "equip_any" } }
+{ type: "shop", params: { action: "buy_any" } }
+{ type: "shop", params: { action: "change_face" } }
+
+// Streak
+{ type: "streak", params: { days: 3 } }
+```
+
+### Napi kiválasztás logika
+- Minden nap 3 különböző típusú task kerül kisorsolásra (véletlenszerűen, de típus-diverzitással)
+- Seed: `date string` → determinisztikus, mindenki ugyanazt kapja adott napon
+- Task pool-ból kizárja az elmúlt 7 nap feladatait (ne ismétlődjön gyorsan)
+
+### UI helye
+- `app/daily-tasks/page.tsx` vagy főoldalon beágyazva (accordion)
+- Vizuálisan: 3 kártya, progress barral, ⭐ jutalom jelzéssel
+- Ha mind teljesítve → konfetti animáció + bónusz ⭐
+
+### Kapcsolódó meglévő rendszerek
+- `lib/specialCards.ts` → `addSpecialCards()` a jutalom kiosztáshoz
+- `lib/milestones.ts` → streak számítás alapja
+- `claimShareReward()` → social task triggerje
+- `plizio-cards-changed` event → collection task figyeléshez
