@@ -7,6 +7,8 @@ import AvatarCompanion from "@/components/AvatarCompanion";
 import { getGender, setGender, type AvatarGender } from "@/lib/gender";
 import Link from "next/link";
 import { getSpecialCardCount, spendSpecialCards } from "@/lib/specialCards";
+import { getUser } from "@/lib/auth";
+import { uploadToSupabase } from "@/lib/sync";
 import { SKINS, getOwnedSkins, getActiveSkin, setActiveSkin, buySkin, type SkinDef } from "@/lib/skins";
 import {
   HATS, TRAILS,
@@ -290,6 +292,10 @@ export default function ShopPage() {
   const previewHatDef = activeHat ? HATS.find(h => h.id === activeHat) || null : null;
   const previewTrailDef = activeTrail ? TRAILS.find(t => t.id === activeTrail) || null : null;
 
+  const syncAfterPurchase = () => {
+    getUser().then(user => { if (user) uploadToSupabase(user.id).catch(() => {}); });
+  };
+
   const refreshClothing = () => {
     const slots = ["top", "bottom", "shoe", "cape", "glasses", "gloves"] as const;
     const owned: Record<string, string[]> = {};
@@ -349,6 +355,7 @@ export default function ShopPage() {
     setActiveCarLS(car.id);
     setActiveCar(car.id);
     setBalance(getSpecialCardCount());
+    syncAfterPurchase();
     showNotif(`${car.name} purchased!`);
     setSelectedCar(null);
   };
@@ -360,6 +367,7 @@ export default function ShopPage() {
     setBoughtPowerUps(updated);
     localStorage.setItem("plizio_powerups", JSON.stringify(updated));
     setBalance(getSpecialCardCount());
+    syncAfterPurchase();
     showNotif("+1 power-up!");
   };
 
@@ -384,6 +392,7 @@ export default function ShopPage() {
     setActiveSkin(skin.id);
     setActiveSkinState(skin.id);
     setBalance(getSpecialCardCount());
+    syncAfterPurchase();
     showNotif("Skin purchased!");
     setSelectedSkin(null);
     triggerAvatarReaction();
@@ -410,6 +419,7 @@ export default function ShopPage() {
     setActiveHat(hat.id);
     setActiveHatState(hat.id);
     setBalance(getSpecialCardCount());
+    syncAfterPurchase();
     showNotif("Hat purchased!");
     triggerAvatarReaction();
   };
@@ -435,6 +445,7 @@ export default function ShopPage() {
     setActiveTrail(trail.id);
     setActiveTrailState(trail.id);
     setBalance(getSpecialCardCount());
+    syncAfterPurchase();
     showNotif("Trail purchased!");
     triggerAvatarReaction();
   };
@@ -446,6 +457,7 @@ export default function ShopPage() {
     const current = parseInt(localStorage.getItem(key) || "0");
     localStorage.setItem(key, (current + 1).toString());
     setBalance(getSpecialCardCount());
+    syncAfterPurchase();
     showNotif("+1 ability!");
   };
 
@@ -465,6 +477,7 @@ export default function ShopPage() {
     setActiveFace(face.id);
     setActiveFaceId(face.id);
     setBalance(getSpecialCardCount());
+    syncAfterPurchase();
     showNotif("Face purchased!");
     triggerAvatarReaction();
   };
@@ -509,6 +522,7 @@ export default function ShopPage() {
     setActive(slot, itemId);
     refreshClothing();
     setBalance(getSpecialCardCount());
+    syncAfterPurchase();
     showNotif("Purchased!");
     triggerAvatarReaction();
   };
