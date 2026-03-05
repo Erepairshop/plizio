@@ -163,7 +163,39 @@ gl={{ antialias: false, powerPreference: 'low-power', alpha: true, stencil: fals
 // Avatar group: position={[0, -0.08, 0]} scale={0.88}
 ```
 
-**Mood értékek:** `'idle' | 'focused' | 'happy' | 'disappointed' | 'victory' | 'surprised' | 'confused' | 'laughing'`
+**Mood értékek:** `'idle' | 'focused' | 'happy' | 'disappointed' | 'victory' | 'surprised' | 'confused' | 'laughing' | 'wave' | 'dance' | 'spin'`
+- `wave`/`dance`/`spin` = 1.4s reakció animáció (érintésre triggerelhető)
+- többi = 0.6s
+
+**Avatar kar anatómia:**
+- Felső kar (`leftArmRef/rightArmRef`): `position={[±0.33, 0.16, 0]}`
+- Forearm csoport (`leftForearmRef/rightForearmRef`): könyök pivot `position={[0, -0.22, 0]}` a karon belül
+- Kéz gömb: `position={[0, -0.18, 0]}` a forearm csoporton belül
+- Animációnál az előkarnál `rotation.z` → könyökhajlítás hatás
+
+**FaceFeatures — száj/szem geometriák:**
+- `smile`: `TorusGeometry` ∪ (rotation.z=Math.PI) → mosolygó ív
+- `grin`: szélesebb torus ∪ + fehér fogak box
+- `sad`: `TorusGeometry` ∩ (no rotation) → lefelé húzott száj
+- `neutral`: vékony `BoxGeometry`
+- `open`: teljes torus gyűrű + sötét `CircleGeometry` belül
+- `happy` eyes: `^` ív (TorusGeometry top-half, nincs fehér)
+- `angry`: bőrszínű overlay squint + éles szemöldök (rotZ=±0.40)
+- `wink`: bal szem = vízszintes vonal, jobb = normál
+- `heart`: 3 gömb szív alakban, emissive
+- `star`: 4 keresztező bar + izzó fehér közép
+- `mouthRef` típus: `THREE.Object3D | null` (nem Mesh! — csoport is lehet)
+
+**Default skin (`id:'default'`) → fallback warm colors:**
+- `hasRealSkin = activeSkin && activeSkin.id !== 'default'`
+- Ha nincs real skin: test=#e8c9a0 beige, fej=#e8c9a0, ruhák=#6b8fad/#1e3a5f legacy
+
+**Nyak mesh:** `position={[0, 0.34, 0]}`, `CylinderGeometry args={[0.1, 0.115, 0.2, 8]}`
+
+**Szemhéj animáció (pislogás):**
+- `thetaStart=PI/2, thetaLength=PI/2` → alső félgömb → scale.y növelésekor LEFELÉ növekszik ✅
+- `thetaStart=0, thetaLength=PI/2` → felső félgömb → FELFELÉ növekszik ❌ (rossz irány)
+- Lid pozíció: `y=0.065, z=0.225, r=0.052` (szemmel egy szinten, előtte)
 
 ### Kodex (`app/kodex/page.tsx`) — teljes state térkép
 
@@ -514,6 +546,27 @@ Hozzáadott kérdéstípusok:
 3. **`npm run build`** — NEM MŰKÖDIK, mindig `npx next build`
 4. **Avatar + scale:0 animáció** — Three.js canvas törik (lásd AvatarCompanion szekció)
 5. **calculateRarity 4. param** — non-level játékoknál mindig `false`-t adj át
+6. **`downloadFromSupabase` (sync.ts)** — NE írja felül a helyi active_skin-t ha már van! Csak ha `localStorage.getItem("plizio_active_skin") === null` (fresh browser). Egyébként a shop-ban aktivált skin elvész navigáció után.
+
+**Kilépési gomb — játék közbeni státusz:**
+| Játék | Van kilépés játék közben? | Hova visz? |
+|-------|--------------------------|-----------|
+| Reflex Rush | ✅ ✕ gomb bal felül (HUD) | expedition |
+| Number Rush | ✅ ✕ gomb bal felül (HUD) | expedition |
+| Kodex | ✅ megerősítéssel | expedition |
+| NumberPath | ✅ Home ikon | expedition |
+| MiniSudoku | ✅ Home ikon | expedition |
+| WordHunt | ✅ Link href="/" | főoldal |
+| Sky Climb, Quick Pick, Word Scramble, Spot Diff, Memory Flash, Race Track, City Drive, Daily, Milliomos | ✅ | főoldal |
+| Math Test | ✅ ModernPaperTest onExit prop | grade-select |
+
+**Kilépős gomb minta (expedition játékoknál):**
+```tsx
+<button
+  onClick={() => { setAvatarMood("idle"); setScreen("expedition"); }}
+  className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/50 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
+>✕</button>
+```
 
 ---
 

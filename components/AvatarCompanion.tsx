@@ -15,7 +15,7 @@ export interface AvatarCompanionProps {
   skinColor?: string;
   outfitColor?: string;
   fixed?: boolean;
-  jumpTrigger?: { reaction: 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | null; timestamp: number };
+  jumpTrigger?: { reaction: 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | 'wave' | 'dance' | 'spin' | null; timestamp: number };
   // Gender
   gender?: AvatarGender;
   // Full shop customization
@@ -301,21 +301,169 @@ function FaceFeatures({
   rightLidRef,
   leftIrisRef,
   rightIrisRef,
+  leftBrowRef,
+  rightBrowRef,
 }: {
   face: FaceDef | null;
   skinColor: string;
-  mouthRef: React.RefObject<THREE.Mesh | null>;
+  mouthRef: React.RefObject<THREE.Object3D | null>;
   leftLidRef: React.RefObject<THREE.Mesh | null>;
   rightLidRef: React.RefObject<THREE.Mesh | null>;
   leftIrisRef: React.RefObject<THREE.Mesh | null>;
   rightIrisRef: React.RefObject<THREE.Mesh | null>;
+  leftBrowRef: React.RefObject<THREE.Mesh | null>;
+  rightBrowRef: React.RefObject<THREE.Mesh | null>;
 }) {
-  const eyeCol = face?.eyeColor || '#2a2a2a';
+  const eyeCol  = face?.eyeColor  || '#2a2a2a';
   const mouthCol = face?.mouthColor || '#b06060';
-  const eyeType = face?.eyeType || 'dot';
+  const eyeType   = face?.eyeType   || 'dot';
   const mouthType = face?.mouthType || 'none';
 
-  const eyeSize = eyeType === 'round' ? 0.028 : eyeType === 'dot' ? 0.018 : 0.023;
+  // ── Eyebrow params per expression ─────────────────────
+  const browY =
+    eyeType === 'surprised' ? 0.115 :
+    eyeType === 'angry'     ? 0.096 :
+    eyeType === 'sad'       ? 0.097 :
+    0.1;
+  // +ve = inner end down (angry frown) | -ve = inner end up (sad droop)
+  const leftBrowRotZ =
+    eyeType === 'angry'     ?  0.40 :
+    eyeType === 'sad'       ? -0.28 :
+    eyeType === 'surprised' ?  0.05 :
+    eyeType === 'happy'     ?  0.04 :
+    0.07;
+  const rightBrowRotZ = -leftBrowRotZ;
+
+  // Iris sphere size for normal types
+  const irisSize = eyeType === 'round' ? 0.030 : eyeType === 'dot' ? 0.015 : 0.022;
+  // Special eye types use overlay meshes instead of a sphere iris
+  const specialEye = eyeType === 'happy' || eyeType === 'x' || eyeType === 'heart' || eyeType === 'star';
+
+  // ── Per-eye renderer ───────────────────────────────────
+  const renderEye = (
+    side: -1 | 1,
+    irisRef: React.RefObject<THREE.Mesh | null>,
+    lidRef:  React.RefObject<THREE.Mesh | null>,
+    browRef: React.RefObject<THREE.Mesh | null>,
+  ) => {
+    const x   = side * 0.08;
+    const bx  = side * 0.085;
+    const sx  = side === -1 ? -0.075 : 0.085;
+    const isWinkClosed = eyeType === 'wink' && side === -1;
+    const browRotZ = side === -1 ? leftBrowRotZ : rightBrowRotZ;
+
+    return (
+      <>
+        {/* Eye white — hidden for happy (arc eye) and wink-closed */}
+        {!specialEye && !isWinkClosed && (
+          <mesh position={[x, 0.04, 0.19]}>
+            <sphereGeometry args={[0.042, 8, 8]} />
+            <meshStandardMaterial color="#f2f2f2" roughness={0.25} />
+          </mesh>
+        )}
+
+        {/* Angry squint: skin-coloured overlay covers top of eye white */}
+        {eyeType === 'angry' && (
+          <mesh position={[x, 0.073, 0.234]}>
+            <boxGeometry args={[0.094, 0.048, 0.009]} />
+            <meshStandardMaterial color={skinColor} roughness={0.6} />
+          </mesh>
+        )}
+
+        {/* Iris ref mesh — always a tiny invisible sphere so gaze animation has a target */}
+        <mesh ref={irisRef} position={[x, 0.04, 0.215]}>
+          <sphereGeometry args={[specialEye || isWinkClosed ? 0.001 : irisSize, 8, 8]} />
+          <meshStandardMaterial color={eyeCol} roughness={0.35} />
+        </mesh>
+
+        {/* ── Special eye overlays ──────────────────────── */}
+
+        {/* Happy: ^ arc (torusGeometry top-half arch) */}
+        {eyeType === 'happy' && (
+          <mesh position={[x, 0.04, 0.236]}>
+            <torusGeometry args={[0.027, 0.009, 6, 12, Math.PI]} />
+            <meshStandardMaterial color={eyeCol} roughness={0.35} />
+          </mesh>
+        )}
+
+        {/* Wink closed eye: horizontal line */}
+        {isWinkClosed && (
+          <mesh position={[x, 0.04, 0.236]}>
+            <boxGeometry args={[0.068, 0.011, 0.006]} />
+            <meshStandardMaterial color={eyeCol} roughness={0.4} />
+          </mesh>
+        )}
+
+        {/* X eyes: cross of two bars */}
+        {eyeType === 'x' && (
+          <>
+            <mesh position={[x, 0.04, 0.229]} rotation={[0, 0, Math.PI / 4]}>
+              <boxGeometry args={[0.058, 0.013, 0.005]} />
+              <meshStandardMaterial color={eyeCol} roughness={0.4} />
+            </mesh>
+            <mesh position={[x, 0.04, 0.229]} rotation={[0, 0, -Math.PI / 4]}>
+              <boxGeometry args={[0.058, 0.013, 0.005]} />
+              <meshStandardMaterial color={eyeCol} roughness={0.4} />
+            </mesh>
+          </>
+        )}
+
+        {/* Heart eyes: 3-sphere heart shape */}
+        {eyeType === 'heart' && (
+          <>
+            <mesh position={[x - 0.011, 0.050, 0.233]}>
+              <sphereGeometry args={[0.019, 8, 6]} />
+              <meshStandardMaterial color={eyeCol} emissive={eyeCol} emissiveIntensity={0.7} roughness={0.2} />
+            </mesh>
+            <mesh position={[x + 0.011, 0.050, 0.233]}>
+              <sphereGeometry args={[0.019, 8, 6]} />
+              <meshStandardMaterial color={eyeCol} emissive={eyeCol} emissiveIntensity={0.7} roughness={0.2} />
+            </mesh>
+            <mesh position={[x, 0.032, 0.230]} scale={[1.4, 1.15, 1]}>
+              <sphereGeometry args={[0.020, 8, 6]} />
+              <meshStandardMaterial color={eyeCol} emissive={eyeCol} emissiveIntensity={0.7} roughness={0.2} />
+            </mesh>
+          </>
+        )}
+
+        {/* Star eyes: 4 crossing bars + bright centre */}
+        {eyeType === 'star' && (
+          <>
+            {([0, Math.PI / 4, Math.PI / 2, Math.PI * 3 / 4] as number[]).map((rot, i) => (
+              <mesh key={i} position={[x, 0.04, 0.231]} rotation={[0, 0, rot]}>
+                <boxGeometry args={[0.064, 0.013, 0.005]} />
+                <meshStandardMaterial color={eyeCol} emissive={eyeCol} emissiveIntensity={1.0} roughness={0.1} />
+              </mesh>
+            ))}
+            <mesh position={[x, 0.04, 0.235]}>
+              <sphereGeometry args={[0.011, 6, 6]} />
+              <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={1.5} roughness={0.05} />
+            </mesh>
+          </>
+        )}
+
+        {/* Specular highlight (not for wink-closed, happy arc, or x-eyes) */}
+        {!isWinkClosed && eyeType !== 'happy' && eyeType !== 'x' && (
+          <mesh position={[sx, 0.048, 0.234]}>
+            <sphereGeometry args={[0.007, 6, 6]} />
+            <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.6} />
+          </mesh>
+        )}
+
+        {/* Eyelid (blink animation target) */}
+        <mesh ref={lidRef} position={[x, 0.065, 0.225]} scale={[1, 0.01, 1]}>
+          <sphereGeometry args={[0.052, 8, 4, 0, Math.PI * 2, Math.PI * 0.5, Math.PI * 0.5]} />
+          <meshStandardMaterial color={skinColor} roughness={0.6} side={THREE.DoubleSide} />
+        </mesh>
+
+        {/* Eyebrow */}
+        <mesh ref={browRef} position={[bx, browY, 0.2]} rotation={[0, 0, browRotZ]}>
+          <boxGeometry args={[0.054, 0.013, 0.007]} />
+          <meshStandardMaterial color="#2d1e0e" roughness={0.72} />
+        </mesh>
+      </>
+    );
+  };
 
   return (
     <>
@@ -323,155 +471,117 @@ function FaceFeatures({
       {face?.blush && (
         <>
           <mesh position={[-0.12, 0.0, 0.18]}>
-            <sphereGeometry args={[0.038, 8, 6]} />
-            <meshStandardMaterial color={face.blushColor || '#FF9999'} transparent opacity={0.35} roughness={0.9} />
+            <sphereGeometry args={[0.042, 8, 6]} />
+            <meshStandardMaterial color={face.blushColor || '#FF9999'} transparent opacity={0.42} roughness={0.9} />
           </mesh>
           <mesh position={[0.12, 0.0, 0.18]}>
-            <sphereGeometry args={[0.038, 8, 6]} />
-            <meshStandardMaterial color={face.blushColor || '#FF9999'} transparent opacity={0.35} roughness={0.9} />
+            <sphereGeometry args={[0.042, 8, 6]} />
+            <meshStandardMaterial color={face.blushColor || '#FF9999'} transparent opacity={0.42} roughness={0.9} />
           </mesh>
         </>
       )}
 
-      {/* Left eye white */}
-      <mesh position={[-0.08, 0.04, 0.19]}>
-        <sphereGeometry args={[0.042, 8, 8]} />
-        <meshStandardMaterial color="#f2f2f2" roughness={0.25} />
-      </mesh>
-      {/* Left iris (tracking mesh - always sphere for ref) */}
-      <mesh ref={leftIrisRef} position={[-0.08, 0.04, 0.215]}>
-        <sphereGeometry args={[eyeType === 'x' ? 0.001 : eyeSize, 8, 8]} />
-        <meshStandardMaterial
-          color={eyeCol}
-          emissive={eyeType === 'heart' || eyeType === 'star' ? eyeCol : '#000000'}
-          emissiveIntensity={eyeType === 'heart' || eyeType === 'star' ? 0.6 : 0}
-          roughness={0.35}
-        />
-      </mesh>
-      {/* X-eye overlay */}
-      {eyeType === 'x' && (
-        <>
-          <mesh position={[-0.08, 0.04, 0.217]} rotation={[0, 0, Math.PI / 4]}>
-            <boxGeometry args={[0.04, 0.008, 0.004]} />
-            <meshStandardMaterial color={eyeCol} roughness={0.4} />
-          </mesh>
-          <mesh position={[-0.08, 0.04, 0.217]} rotation={[0, 0, -Math.PI / 4]}>
-            <boxGeometry args={[0.04, 0.008, 0.004]} />
-            <meshStandardMaterial color={eyeCol} roughness={0.4} />
-          </mesh>
-        </>
-      )}
-      {/* Left specular */}
-      <mesh position={[-0.075, 0.048, 0.23]}>
-        <sphereGeometry args={[0.007, 6, 6]} />
-        <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.6} />
-      </mesh>
-      {/* Left lid */}
-      <mesh ref={leftLidRef} position={[-0.08, 0.065, 0.2]} scale={[1, 0.01, 1]}>
-        <sphereGeometry args={[0.047, 8, 4, 0, Math.PI * 2, 0, Math.PI * 0.5]} />
-        <meshStandardMaterial color={skinColor} roughness={0.6} side={THREE.DoubleSide} />
-      </mesh>
-      {/* Angry left brow */}
-      {eyeType === 'angry' && (
-        <mesh position={[-0.085, 0.1, 0.2]} rotation={[0, 0, 0.25]}>
-          <boxGeometry args={[0.055, 0.012, 0.008]} />
-          <meshStandardMaterial color="#3b2a1a" roughness={0.7} />
-        </mesh>
-      )}
+      {/* Eyes */}
+      {renderEye(-1, leftIrisRef,  leftLidRef,  leftBrowRef)}
+      {renderEye( 1, rightIrisRef, rightLidRef, rightBrowRef)}
 
-      {/* Right eye white */}
-      <mesh position={[0.08, 0.04, 0.19]}>
-        <sphereGeometry args={[0.042, 8, 8]} />
-        <meshStandardMaterial color="#f2f2f2" roughness={0.25} />
-      </mesh>
-      {/* Right iris (tracking mesh - always sphere for ref) */}
-      <mesh ref={rightIrisRef} position={[0.08, 0.04, 0.215]}>
-        <sphereGeometry args={[eyeType === 'x' ? 0.001 : eyeSize, 8, 8]} />
-        <meshStandardMaterial
-          color={eyeCol}
-          emissive={eyeType === 'heart' || eyeType === 'star' ? eyeCol : '#000000'}
-          emissiveIntensity={eyeType === 'heart' || eyeType === 'star' ? 0.6 : 0}
-          roughness={0.35}
-        />
-      </mesh>
-      {/* X-eye overlay */}
-      {eyeType === 'x' && (
-        <>
-          <mesh position={[0.08, 0.04, 0.217]} rotation={[0, 0, Math.PI / 4]}>
-            <boxGeometry args={[0.04, 0.008, 0.004]} />
-            <meshStandardMaterial color={eyeCol} roughness={0.4} />
-          </mesh>
-          <mesh position={[0.08, 0.04, 0.217]} rotation={[0, 0, -Math.PI / 4]}>
-            <boxGeometry args={[0.04, 0.008, 0.004]} />
-            <meshStandardMaterial color={eyeCol} roughness={0.4} />
-          </mesh>
-        </>
-      )}
-      {/* Right specular */}
-      <mesh position={[0.085, 0.048, 0.23]}>
-        <sphereGeometry args={[0.007, 6, 6]} />
-        <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.6} />
-      </mesh>
-      {/* Right lid */}
-      <mesh ref={rightLidRef} position={[0.08, 0.065, 0.2]} scale={[1, 0.01, 1]}>
-        <sphereGeometry args={[0.047, 8, 4, 0, Math.PI * 2, 0, Math.PI * 0.5]} />
-        <meshStandardMaterial color={skinColor} roughness={0.6} side={THREE.DoubleSide} />
-      </mesh>
-      {/* Angry right brow */}
-      {eyeType === 'angry' && (
-        <mesh position={[0.085, 0.1, 0.2]} rotation={[0, 0, -0.25]}>
-          <boxGeometry args={[0.055, 0.012, 0.008]} />
-          <meshStandardMaterial color="#3b2a1a" roughness={0.7} />
-        </mesh>
-      )}
+      {/* ── MOUTH ─────────────────────────────────────────── */}
+      {mouthType === 'none' ? null
 
-      {/* Mouth */}
-      {mouthType === 'none' ? null : mouthType === 'tongue' ? (
-        <group ref={mouthRef} position={[0, -0.1, 0.2]}>
-          <mesh>
-            <boxGeometry args={[0.075, 0.022, 0.01]} />
+      : mouthType === 'smile' ? (
+        /* Upward-curved ∪ arc */
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+          <mesh position={[0, 0.01, 0.013]} rotation={[0, 0, Math.PI]}>
+            <torusGeometry args={[0.038, 0.010, 6, 16, Math.PI]} />
             <meshStandardMaterial color={mouthCol} roughness={0.5} />
           </mesh>
-          {/* Tongue */}
-          <mesh position={[0, -0.024, 0]}>
+        </group>
+
+      ) : mouthType === 'grin' ? (
+        /* Wide ∪ arc + white teeth strip */
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+          <mesh position={[0, 0.012, 0.013]} rotation={[0, 0, Math.PI]}>
+            <torusGeometry args={[0.050, 0.011, 6, 16, Math.PI]} />
+            <meshStandardMaterial color={mouthCol} roughness={0.5} />
+          </mesh>
+          <mesh position={[0, -0.014, 0.018]}>
+            <boxGeometry args={[0.076, 0.022, 0.007]} />
+            <meshStandardMaterial color="#f4f0e8" roughness={0.3} />
+          </mesh>
+        </group>
+
+      ) : mouthType === 'sad' ? (
+        /* Downward-drooping ∩ arc (frown) */
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+          <mesh position={[0, -0.012, 0.013]}>
+            <torusGeometry args={[0.036, 0.010, 6, 16, Math.PI]} />
+            <meshStandardMaterial color={mouthCol} roughness={0.5} />
+          </mesh>
+        </group>
+
+      ) : mouthType === 'neutral' ? (
+        /* Thin horizontal bar */
+        <mesh ref={mouthRef as React.Ref<THREE.Mesh>} position={[0, -0.1, 0.213]}>
+          <boxGeometry args={[0.066, 0.011, 0.009]} />
+          <meshStandardMaterial color={mouthCol} roughness={0.5} />
+        </mesh>
+
+      ) : mouthType === 'open' ? (
+        /* Full torus ring (O-shape) + dark interior */
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+          <mesh position={[0, 0, 0.014]} scale={[1, 0.75, 1]}>
+            <torusGeometry args={[0.034, 0.014, 6, 12]} />
+            <meshStandardMaterial color={mouthCol} roughness={0.5} />
+          </mesh>
+          <mesh position={[0, 0, 0.012]}>
+            <circleGeometry args={[0.028, 10]} />
+            <meshStandardMaterial color="#1a0808" roughness={0.9} />
+          </mesh>
+        </group>
+
+      ) : mouthType === 'tongue' ? (
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+          <mesh position={[0, 0, 0.012]}>
+            <boxGeometry args={[0.075, 0.022, 0.010]} />
+            <meshStandardMaterial color={mouthCol} roughness={0.5} />
+          </mesh>
+          <mesh position={[0, -0.026, 0.010]}>
             <sphereGeometry args={[0.026, 8, 6]} />
             <meshStandardMaterial color="#FF6B8A" roughness={0.6} />
           </mesh>
         </group>
+
       ) : mouthType === 'cat' ? (
-        <group ref={mouthRef} position={[0, -0.1, 0.2]}>
-          <mesh position={[-0.025, 0, 0]} rotation={[0, 0, -0.4]}>
-            <boxGeometry args={[0.032, 0.012, 0.008]} />
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+          <mesh position={[-0.026, 0, 0.012]} rotation={[0, 0, -0.42]}>
+            <boxGeometry args={[0.034, 0.013, 0.008]} />
             <meshStandardMaterial color={mouthCol} roughness={0.5} />
           </mesh>
-          <mesh position={[0.025, 0, 0]} rotation={[0, 0, 0.4]}>
-            <boxGeometry args={[0.032, 0.012, 0.008]} />
+          <mesh position={[0.026, 0, 0.012]} rotation={[0, 0, 0.42]}>
+            <boxGeometry args={[0.034, 0.013, 0.008]} />
             <meshStandardMaterial color={mouthCol} roughness={0.5} />
           </mesh>
-          <mesh position={[0, 0, 0]}>
-            <sphereGeometry args={[0.012, 6, 6]} />
+          <mesh position={[0, 0, 0.012]}>
+            <sphereGeometry args={[0.013, 6, 6]} />
             <meshStandardMaterial color={mouthCol} roughness={0.5} />
           </mesh>
         </group>
+
       ) : mouthType === 'fangs' ? (
-        <group ref={mouthRef} position={[0, -0.1, 0.2]}>
-          <mesh>
-            <boxGeometry args={[0.085, 0.028, 0.012]} />
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+          <mesh position={[0, 0, 0.013]}>
+            <boxGeometry args={[0.090, 0.028, 0.012]} />
             <meshStandardMaterial color={mouthCol} roughness={0.5} />
           </mesh>
-          {[-0.022, 0.022].map((x, i) => (
-            <mesh key={i} position={[x, -0.022, 0]}>
-              <coneGeometry args={[0.01, 0.028, 4]} />
+          {([-0.025, 0.025] as number[]).map((fx, i) => (
+            <mesh key={i} position={[fx, -0.025, 0.013]}>
+              <coneGeometry args={[0.011, 0.032, 4]} />
               <meshStandardMaterial color="#ffffff" roughness={0.3} />
             </mesh>
           ))}
         </group>
-      ) : (
-        <mesh ref={mouthRef} position={[0, -0.1, 0.2]}>
-          <boxGeometry args={[0.085, 0.028, 0.012]} />
-          <meshStandardMaterial color={mouthCol} roughness={0.5} />
-        </mesh>
-      )}
+
+      ) : null}
     </>
   );
 }
@@ -501,9 +611,13 @@ function Character({
   const rightLidRef = useRef<THREE.Mesh | null>(null);
   const leftIrisRef = useRef<THREE.Mesh | null>(null);
   const rightIrisRef = useRef<THREE.Mesh | null>(null);
+  const leftBrowRef = useRef<THREE.Mesh | null>(null);
+  const rightBrowRef = useRef<THREE.Mesh | null>(null);
   const mouthRef = useRef<THREE.Mesh | null>(null);
   const leftArmRef = useRef<THREE.Group>(null);
   const rightArmRef = useRef<THREE.Group>(null);
+  const leftForearmRef = useRef<THREE.Group | null>(null);
+  const rightForearmRef = useRef<THREE.Group | null>(null);
   const leftShoulderRef = useRef<THREE.Mesh>(null);
   const rightShoulderRef = useRef<THREE.Mesh>(null);
   const leftLegRef = useRef<THREE.Mesh>(null);
@@ -514,24 +628,27 @@ function Character({
   const blinkNext = useRef(nextBlink());
   const blinkPhase = useRef(-1);
   const jumpTimer = useRef(-1);
-  const reactionMoodRef = useRef<'idle' | 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing'>('idle');
+  const reactionDurationRef = useRef(0.6);
+  const reactionMoodRef = useRef<'idle' | 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | 'wave' | 'dance' | 'spin'>('idle');
   const [frameT, setFrameT] = useState(0);
 
   // ── Resolve colors from items ──────────────────────────
-  const actualSkinColor = activeSkin ? activeSkin.headColor : legacySkinColor;
-  const actualLimbColor = activeSkin ? activeSkin.limbColor : legacySkinColor;
-  const skinEmissive = activeSkin ? activeSkin.emissive : null;
-  const skinEmissiveIntensity = activeSkin ? activeSkin.emissiveIntensity * 0.3 : 0;
+  // Default skin (id='default') = treat same as no skin → warm fallback colors
+  const hasRealSkin = activeSkin && activeSkin.id !== 'default';
+  const actualSkinColor = hasRealSkin ? activeSkin!.headColor : legacySkinColor;
+  const actualLimbColor = hasRealSkin ? activeSkin!.limbColor : legacySkinColor;
+  const skinEmissive = hasRealSkin ? activeSkin!.emissive : null;
+  const skinEmissiveIntensity = hasRealSkin ? activeSkin!.emissiveIntensity * 0.3 : 0;
 
-  const actualBodyColor = activeTop ? activeTop.color : (activeSkin ? activeSkin.bodyColor : legacyOutfitColor);
+  const actualBodyColor = activeTop ? activeTop.color : (hasRealSkin ? activeSkin!.bodyColor : legacyOutfitColor);
   const actualBodyAccent = activeTop?.accent || actualBodyColor;
-  const actualLegColor = activeBottom ? activeBottom.color : (activeSkin ? activeSkin.limbColor : '#3c3c3c');
-  const actualShoeColor = activeShoe ? activeShoe.color : (activeSkin ? activeSkin.shoeColor : '#2a2a2a');
+  const actualLegColor = activeBottom ? activeBottom.color : (hasRealSkin ? activeSkin!.limbColor : '#1e3a5f');
+  const actualShoeColor = activeShoe ? activeShoe.color : (hasRealSkin ? activeSkin!.shoeColor : '#3a2010');
   const actualHandColor = activeGloves ? activeGloves.color : actualLimbColor;
   const skinDark = new THREE.Color(actualSkinColor).multiplyScalar(0.82).getStyle();
 
-  // Hair color (fixed natural dark brown, or skin's headColor for fantasy skins)
-  const hairColor = activeSkin && activeSkin.id !== 'default' ? activeSkin.headColor : '#3b2a1a';
+  // Hair color (warm chestnut brown for default, or skin's headColor for fantasy skins)
+  const hairColor = hasRealSkin ? activeSkin!.headColor : '#4a2e10';
 
   useEffect(() => {
     moodRef.current = mood;
@@ -542,6 +659,7 @@ function Character({
     if (jumpTrigger?.reaction) {
       jumpTimer.current = 0;
       reactionMoodRef.current = jumpTrigger.reaction;
+      reactionDurationRef.current = ['wave', 'dance', 'spin'].includes(jumpTrigger.reaction) ? 1.4 : 0.6;
     }
   }, [jumpTrigger?.timestamp]);
 
@@ -553,12 +671,13 @@ function Character({
     setFrameT(tRef.current);
 
     if (jumpTimer.current >= 0) {
-      jumpTimer.current += delta / 0.6;
+      jumpTimer.current += delta / reactionDurationRef.current;
       if (jumpTimer.current > 1) jumpTimer.current = -1;
     }
 
     const t = tRef.current;
-    let m = moodRef.current;
+    type AnyMood = 'idle' | 'focused' | 'happy' | 'disappointed' | 'victory' | 'surprised' | 'confused' | 'laughing' | 'wave' | 'dance' | 'spin';
+    let m: AnyMood = moodRef.current;
     if (jumpTimer.current >= 0) m = reactionMoodRef.current;
 
     const lerp = THREE.MathUtils.lerp;
@@ -597,6 +716,19 @@ function Character({
       rightArmRef.current.rotation.z = lerp(rightArmRef.current.rotation.z, 0.15, 0.1);
       rightArmRef.current.rotation.x = lerp(rightArmRef.current.rotation.x, 0.12, 0.1);
     }
+    if (leftForearmRef.current) {
+      leftForearmRef.current.rotation.x = lerp(leftForearmRef.current.rotation.x, 0, 0.1);
+      leftForearmRef.current.rotation.z = lerp(leftForearmRef.current.rotation.z, 0, 0.1);
+    }
+    if (rightForearmRef.current) {
+      rightForearmRef.current.rotation.x = lerp(rightForearmRef.current.rotation.x, 0, 0.1);
+      rightForearmRef.current.rotation.z = lerp(rightForearmRef.current.rotation.z, 0, 0.1);
+    }
+    // Leg rotation reset (when not in reaction)
+    if (jumpTimer.current < 0 && leftLegRef.current && rightLegRef.current) {
+      leftLegRef.current.rotation.x = lerp(leftLegRef.current.rotation.x || 0, 0, 0.08);
+      rightLegRef.current.rotation.x = lerp(rightLegRef.current.rotation.x || 0, 0, 0.08);
+    }
 
     if (leftShoulderRef.current && rightShoulderRef.current) {
       leftShoulderRef.current.rotation.z = lerp(leftShoulderRef.current.rotation.z, 0, 0.1);
@@ -625,6 +757,9 @@ function Character({
       : 0;
     if (leftLidRef.current) leftLidRef.current.scale.y = 0.01 + lidClose * 1.2;
     if (rightLidRef.current) rightLidRef.current.scale.y = 0.01 + lidClose * 1.2;
+    // Eyebrow raise during blink
+    if (leftBrowRef.current) leftBrowRef.current.position.y = 0.1 + lidClose * 0.025;
+    if (rightBrowRef.current) rightBrowRef.current.position.y = 0.1 + lidClose * 0.025;
 
     // Gaze
     if (leftIrisRef.current && rightIrisRef.current) {
@@ -643,27 +778,167 @@ function Character({
       mouthRef.current.position.y = lerp(mouthRef.current.position.y, -0.1, 0.12);
     }
 
-    // Jump reactions
+    // Jump reactions — full body
     if (jumpTimer.current >= 0) {
       const jp = jumpTimer.current;
       switch (reactionMoodRef.current) {
-        case 'happy':
+        case 'happy': {
           headRef.current.rotation.x = Math.sin(jp * Math.PI * 2) * 0.15;
+          headRef.current.rotation.z = Math.sin(jp * Math.PI * 3) * 0.07;
+          if (leftArmRef.current && rightArmRef.current) {
+            leftArmRef.current.rotation.z = -0.15 - Math.sin(jp * Math.PI) * 1.1;
+            rightArmRef.current.rotation.z = 0.15 + Math.sin(jp * Math.PI) * 1.1;
+            leftArmRef.current.rotation.x = -Math.sin(jp * Math.PI) * 0.35;
+            rightArmRef.current.rotation.x = -Math.sin(jp * Math.PI) * 0.35;
+          }
+          if (leftForearmRef.current && rightForearmRef.current) {
+            leftForearmRef.current.rotation.x = Math.sin(jp * Math.PI * 2) * 0.45;
+            rightForearmRef.current.rotation.x = Math.sin(jp * Math.PI * 2 + 0.6) * 0.45;
+          }
+          if (leftLegRef.current && rightLegRef.current) {
+            leftLegRef.current.rotation.x = Math.sin(jp * Math.PI * 2) * 0.28;
+            rightLegRef.current.rotation.x = Math.sin(jp * Math.PI * 2 + Math.PI) * 0.28;
+          }
           break;
-        case 'surprised':
-          headRef.current.rotation.x = -0.2;
+        }
+        case 'surprised': {
+          const shoot = Math.min(1, jp * 5);
+          headRef.current.rotation.x = -0.3 * shoot;
+          headRef.current.rotation.z = Math.sin(jp * Math.PI * 2) * 0.04;
+          if (leftArmRef.current && rightArmRef.current) {
+            leftArmRef.current.rotation.z = -0.15 - shoot * 1.0;
+            rightArmRef.current.rotation.z = 0.15 + shoot * 1.0;
+            leftArmRef.current.rotation.x = -shoot * 0.55;
+            rightArmRef.current.rotation.x = -shoot * 0.55;
+          }
+          if (leftForearmRef.current && rightForearmRef.current) {
+            leftForearmRef.current.rotation.x = -shoot * 0.7;
+            rightForearmRef.current.rotation.x = -shoot * 0.7;
+          }
+          if (leftLegRef.current && rightLegRef.current) {
+            leftLegRef.current.rotation.x = shoot * 0.12;
+            rightLegRef.current.rotation.x = -shoot * 0.12;
+          }
           break;
-        case 'victory':
-          headRef.current.rotation.x = -0.25;
-          groupRef.current.rotation.z = Math.sin(jp * Math.PI * 1.5) * 0.1;
+        }
+        case 'victory': {
+          const arm = Math.min(1, jp * 2.5);
+          headRef.current.rotation.x = -0.3 * Math.min(1, jp * 2);
+          groupRef.current.rotation.y += 0.08;
+          if (leftArmRef.current && rightArmRef.current) {
+            leftArmRef.current.rotation.z = -0.15 - arm * 1.4;
+            rightArmRef.current.rotation.z = 0.15 + arm * 1.4;
+            leftArmRef.current.rotation.x = -arm * 0.55;
+            rightArmRef.current.rotation.x = -arm * 0.55;
+          }
+          if (leftForearmRef.current && rightForearmRef.current) {
+            leftForearmRef.current.rotation.x = -Math.min(1, jp * 3) * 0.5;
+            rightForearmRef.current.rotation.x = -Math.min(1, jp * 3) * 0.5;
+          }
+          if (leftLegRef.current && rightLegRef.current) {
+            leftLegRef.current.rotation.x = Math.sin(jp * Math.PI * 4) * 0.22;
+            rightLegRef.current.rotation.x = Math.sin(jp * Math.PI * 4 + Math.PI) * 0.22;
+          }
           break;
-        case 'confused':
+        }
+        case 'confused': {
           headRef.current.rotation.x = 0.2;
+          headRef.current.rotation.z = 0.22 * Math.min(1, jp * 3);
+          if (rightArmRef.current) {
+            rightArmRef.current.rotation.z = 0.15 + Math.min(1, jp * 3) * 0.75;
+            rightArmRef.current.rotation.x = -Math.min(1, jp * 3) * 0.65;
+          }
+          if (rightForearmRef.current) {
+            rightForearmRef.current.rotation.x = -Math.min(1, jp * 2) * 0.85;
+          }
+          if (leftArmRef.current) {
+            leftArmRef.current.rotation.z = -0.15 - Math.min(1, jp * 2) * 0.18;
+            leftArmRef.current.rotation.x = 0.18;
+          }
+          if (leftForearmRef.current) {
+            leftForearmRef.current.rotation.x = Math.sin(jp * Math.PI * 3) * 0.12;
+          }
           break;
-        case 'laughing':
-          headRef.current.rotation.y = Math.sin(jp * Math.PI * 3) * 0.15;
-          headRef.current.rotation.z = Math.sin(jp * Math.PI * 3 + 0.5) * 0.1;
+        }
+        case 'laughing': {
+          headRef.current.rotation.y = Math.sin(jp * Math.PI * 5) * 0.18;
+          headRef.current.rotation.z = Math.sin(jp * Math.PI * 5 + 0.5) * 0.13;
+          groupRef.current.rotation.z = Math.sin(jp * Math.PI * 3) * 0.07;
+          if (leftArmRef.current && rightArmRef.current) {
+            leftArmRef.current.rotation.x = 0.5 + Math.sin(jp * Math.PI * 4) * 0.1;
+            rightArmRef.current.rotation.x = 0.5 + Math.sin(jp * Math.PI * 4) * 0.1;
+            leftArmRef.current.rotation.z = lerp(leftArmRef.current.rotation.z, -0.08, 0.15);
+            rightArmRef.current.rotation.z = lerp(rightArmRef.current.rotation.z, 0.08, 0.15);
+          }
+          if (leftForearmRef.current && rightForearmRef.current) {
+            leftForearmRef.current.rotation.x = 0.65 + Math.sin(jp * Math.PI * 4) * 0.12;
+            rightForearmRef.current.rotation.x = 0.65 + Math.sin(jp * Math.PI * 4) * 0.12;
+          }
           break;
+        }
+        case 'wave': {
+          headRef.current.rotation.y = -0.18;
+          headRef.current.rotation.z = Math.sin(jp * Math.PI * 2) * 0.05;
+          groupRef.current.rotation.y = Math.sin(jp * Math.PI) * 0.1;
+          if (rightArmRef.current) {
+            rightArmRef.current.rotation.z = 0.15 + Math.min(1, jp * 4) * 1.2;
+            rightArmRef.current.rotation.x = -Math.min(1, jp * 4) * 0.35;
+          }
+          if (rightForearmRef.current) {
+            rightForearmRef.current.rotation.x = Math.sin(jp * Math.PI * 6) * 0.55;
+            rightForearmRef.current.rotation.z = Math.sin(jp * Math.PI * 6) * 0.18;
+          }
+          if (leftArmRef.current) {
+            leftArmRef.current.rotation.z = -0.15 + Math.sin(jp * Math.PI * 1.5) * 0.08;
+            leftArmRef.current.rotation.x = 0.1;
+          }
+          if (leftForearmRef.current) {
+            leftForearmRef.current.rotation.x = Math.sin(jp * Math.PI * 2) * 0.1;
+          }
+          break;
+        }
+        case 'dance': {
+          const dFreq = jp * Math.PI * 4;
+          headRef.current.rotation.z = Math.sin(dFreq) * 0.13;
+          headRef.current.rotation.y = Math.sin(dFreq * 0.5) * 0.15;
+          groupRef.current.rotation.z = Math.sin(dFreq * 0.5) * 0.06;
+          bodyRef.current.position.y = Math.abs(Math.sin(dFreq)) * 0.045;
+          if (leftArmRef.current && rightArmRef.current) {
+            leftArmRef.current.rotation.z = -0.15 - Math.abs(Math.sin(dFreq)) * 0.75;
+            rightArmRef.current.rotation.z = 0.15 + Math.abs(Math.sin(dFreq + Math.PI)) * 0.75;
+            leftArmRef.current.rotation.x = Math.sin(dFreq) * 0.22;
+            rightArmRef.current.rotation.x = Math.sin(dFreq + Math.PI) * 0.22;
+          }
+          if (leftForearmRef.current && rightForearmRef.current) {
+            leftForearmRef.current.rotation.x = Math.sin(dFreq + Math.PI * 0.5) * 0.45;
+            rightForearmRef.current.rotation.x = Math.sin(dFreq - Math.PI * 0.5) * 0.45;
+          }
+          if (leftLegRef.current && rightLegRef.current) {
+            leftLegRef.current.rotation.x = Math.sin(dFreq) * 0.18;
+            rightLegRef.current.rotation.x = Math.sin(dFreq + Math.PI) * 0.18;
+          }
+          if (leftShoulderRef.current && rightShoulderRef.current) {
+            leftShoulderRef.current.position.y = 0.2 + Math.sin(dFreq) * 0.022;
+            rightShoulderRef.current.position.y = 0.2 + Math.sin(dFreq + Math.PI) * 0.022;
+          }
+          break;
+        }
+        case 'spin': {
+          groupRef.current.rotation.y += 0.11;
+          if (leftArmRef.current && rightArmRef.current) {
+            leftArmRef.current.rotation.z = lerp(leftArmRef.current.rotation.z, -1.0, 0.15);
+            rightArmRef.current.rotation.z = lerp(rightArmRef.current.rotation.z, 1.0, 0.15);
+            leftArmRef.current.rotation.x = 0;
+            rightArmRef.current.rotation.x = 0;
+          }
+          if (leftForearmRef.current && rightForearmRef.current) {
+            leftForearmRef.current.rotation.x = Math.sin(jp * Math.PI * 4) * 0.3;
+            rightForearmRef.current.rotation.x = Math.sin(jp * Math.PI * 4 + Math.PI) * 0.3;
+          }
+          headRef.current.rotation.z = Math.sin(jp * Math.PI * 6) * 0.1;
+          bodyRef.current.position.y = Math.sin(jp * Math.PI * 2) * 0.03;
+          break;
+        }
       }
     }
 
@@ -676,8 +951,14 @@ function Character({
         headRef.current.rotation.z = Math.sin(t * 0.55 + 1.2) * 0.025;
         headRef.current.rotation.y = Math.sin(t * 0.4 + 0.5) * 0.02;
         if (leftArmRef.current && rightArmRef.current) {
-          leftArmRef.current.rotation.z = -0.15 + Math.sin(t * 0.75) * 0.04;
-          rightArmRef.current.rotation.z = 0.15 - Math.sin(t * 0.75 + 0.8) * 0.04;
+          leftArmRef.current.rotation.z = -0.15 + Math.sin(t * 0.75) * 0.045;
+          rightArmRef.current.rotation.z = 0.15 - Math.sin(t * 0.75 + 0.8) * 0.045;
+          leftArmRef.current.rotation.x = 0.1 + Math.sin(t * 0.6 + 0.3) * 0.03;
+          rightArmRef.current.rotation.x = 0.1 + Math.sin(t * 0.55) * 0.03;
+        }
+        if (leftForearmRef.current && rightForearmRef.current) {
+          leftForearmRef.current.rotation.x = Math.sin(t * 0.9) * 0.07;
+          rightForearmRef.current.rotation.x = Math.sin(t * 0.85 + 0.6) * 0.07;
         }
         if (leftShoulderRef.current && rightShoulderRef.current) {
           const sBreath = Math.sin(t * 1.3) * 0.006;
@@ -852,6 +1133,18 @@ function Character({
         />
       </mesh>
 
+      {/* ══ NECK ════════════════════════════════════════════ */}
+      <mesh position={[0, 0.34, 0]}>
+        <cylinderGeometry args={[0.1, 0.115, 0.2, 8]} />
+        <meshStandardMaterial
+          color={actualSkinColor}
+          emissive={skinEmissive || '#000000'}
+          emissiveIntensity={skinEmissiveIntensity * 0.3}
+          roughness={0.6}
+          metalness={0.02}
+        />
+      </mesh>
+
       {/* ══ HEAD GROUP ══════════════════════════════════════ */}
       <group ref={headRef} position={[0, 0.5, 0]}>
         {/* Head */}
@@ -880,6 +1173,8 @@ function Character({
           rightLidRef={rightLidRef}
           leftIrisRef={leftIrisRef}
           rightIrisRef={rightIrisRef}
+          leftBrowRef={leftBrowRef}
+          rightBrowRef={rightBrowRef}
         />
 
         {/* Glasses on face */}
@@ -951,10 +1246,11 @@ function Character({
         {activeHat && <HatMesh hat={activeHat} skinColor={actualSkinColor} />}
       </group>
 
-      {/* ══ LEFT ARM ════════════════════════════════════════ */}
+      {/* ══ LEFT ARM (shoulder→elbow→hand) ══════════════════ */}
       <group ref={leftArmRef} position={[-0.33, 0.16, 0]} rotation={[0.12, 0, -0.15]}>
-        <mesh position={[0, -0.16, 0]}>
-          <cylinderGeometry args={[0.058, 0.068, 0.32, 6]} />
+        {/* Upper arm */}
+        <mesh position={[0, -0.11, 0]}>
+          <cylinderGeometry args={[0.058, 0.066, 0.22, 6]} />
           <meshStandardMaterial
             color={actualLimbColor}
             emissive={skinEmissive || '#000000'}
@@ -963,23 +1259,36 @@ function Character({
             metalness={0.02}
           />
         </mesh>
-        {/* Hand */}
-        <mesh position={[0, -0.36, 0]}>
-          <sphereGeometry args={[0.072, 8, 6]} />
-          <meshStandardMaterial
-            color={actualHandColor}
-            emissive={skinEmissive || '#000000'}
-            emissiveIntensity={skinEmissiveIntensity * 0.3}
-            roughness={0.55}
-            metalness={0.02}
-          />
-        </mesh>
+        {/* Forearm + hand (pivot = elbow at y=-0.22) */}
+        <group ref={leftForearmRef} position={[0, -0.22, 0]}>
+          <mesh position={[0, -0.08, 0]}>
+            <cylinderGeometry args={[0.05, 0.058, 0.16, 6]} />
+            <meshStandardMaterial
+              color={actualLimbColor}
+              emissive={skinEmissive || '#000000'}
+              emissiveIntensity={skinEmissiveIntensity * 0.4}
+              roughness={0.62}
+              metalness={0.02}
+            />
+          </mesh>
+          <mesh position={[0, -0.18, 0]}>
+            <sphereGeometry args={[0.072, 8, 6]} />
+            <meshStandardMaterial
+              color={actualHandColor}
+              emissive={skinEmissive || '#000000'}
+              emissiveIntensity={skinEmissiveIntensity * 0.3}
+              roughness={0.55}
+              metalness={0.02}
+            />
+          </mesh>
+        </group>
       </group>
 
-      {/* ══ RIGHT ARM ═══════════════════════════════════════ */}
+      {/* ══ RIGHT ARM (shoulder→elbow→hand) ══════════════════ */}
       <group ref={rightArmRef} position={[0.33, 0.16, 0]} rotation={[0.12, 0, 0.15]}>
-        <mesh position={[0, -0.16, 0]}>
-          <cylinderGeometry args={[0.058, 0.068, 0.32, 6]} />
+        {/* Upper arm */}
+        <mesh position={[0, -0.11, 0]}>
+          <cylinderGeometry args={[0.058, 0.066, 0.22, 6]} />
           <meshStandardMaterial
             color={actualLimbColor}
             emissive={skinEmissive || '#000000'}
@@ -988,17 +1297,29 @@ function Character({
             metalness={0.02}
           />
         </mesh>
-        {/* Hand */}
-        <mesh position={[0, -0.36, 0]}>
-          <sphereGeometry args={[0.072, 8, 6]} />
-          <meshStandardMaterial
-            color={actualHandColor}
-            emissive={skinEmissive || '#000000'}
-            emissiveIntensity={skinEmissiveIntensity * 0.3}
-            roughness={0.55}
-            metalness={0.02}
-          />
-        </mesh>
+        {/* Forearm + hand (pivot = elbow at y=-0.22) */}
+        <group ref={rightForearmRef} position={[0, -0.22, 0]}>
+          <mesh position={[0, -0.08, 0]}>
+            <cylinderGeometry args={[0.05, 0.058, 0.16, 6]} />
+            <meshStandardMaterial
+              color={actualLimbColor}
+              emissive={skinEmissive || '#000000'}
+              emissiveIntensity={skinEmissiveIntensity * 0.4}
+              roughness={0.62}
+              metalness={0.02}
+            />
+          </mesh>
+          <mesh position={[0, -0.18, 0]}>
+            <sphereGeometry args={[0.072, 8, 6]} />
+            <meshStandardMaterial
+              color={actualHandColor}
+              emissive={skinEmissive || '#000000'}
+              emissiveIntensity={skinEmissiveIntensity * 0.3}
+              roughness={0.55}
+              metalness={0.02}
+            />
+          </mesh>
+        </group>
       </group>
 
       {/* ══ LEFT LEG ════════════════════════════════════════ */}
@@ -1062,14 +1383,14 @@ export default function AvatarCompanion({
 }: AvatarCompanionProps) {
   const positionClass = fixed ? 'fixed z-50' : 'relative w-full h-full';
   const [localJump, setLocalJump] = useState<{
-    reaction: 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | null;
+    reaction: 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | 'wave' | 'dance' | 'spin' | null;
     timestamp: number;
   }>({ reaction: null, timestamp: 0 });
 
   const effectiveJump = jumpTrigger || localJump;
 
-  const reactions: Array<'happy' | 'surprised' | 'victory' | 'confused' | 'laughing'> = [
-    'happy', 'surprised', 'victory', 'confused', 'laughing',
+  const reactions: Array<'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | 'wave' | 'dance' | 'spin'> = [
+    'happy', 'surprised', 'victory', 'confused', 'laughing', 'wave', 'dance', 'spin',
   ];
 
   const handleClick = () => {
@@ -1092,10 +1413,11 @@ export default function AvatarCompanion({
         gl={{ antialias: false, powerPreference: 'low-power', alpha: true, stencil: false }}
         style={{ background: 'transparent' }}
       >
-        <hemisphereLight color="#f0e8dd" groundColor="#8a7a6a" intensity={0.5} />
-        <ambientLight intensity={0.3} />
-        <directionalLight position={[-3, 5, 3]} intensity={0.5} color="#fff0e0" />
-        <directionalLight position={[2, 1, -2]} intensity={0.12} color="#d0e0ff" />
+        <hemisphereLight color="#f8f0e8" groundColor="#a09080" intensity={0.7} />
+        <ambientLight intensity={0.45} />
+        <directionalLight position={[-3, 5, 3]} intensity={0.65} color="#fff8ee" />
+        <directionalLight position={[2, 1, -2]} intensity={0.2} color="#ccdaff" />
+        <directionalLight position={[0, -2, 3]} intensity={0.1} color="#ffe8c8" />
         <Character
           mood={mood}
           skinColor={skinColor}

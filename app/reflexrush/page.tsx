@@ -629,6 +629,10 @@ export default function ReflexRushPage() {
       {screen === "playing" && (
         <div className="flex flex-col min-h-screen">
           <div className="flex items-center justify-between px-4 pt-4 pb-2">
+            <button
+              onClick={() => { setAvatarMood("idle"); setScreen("expedition"); }}
+              className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/50 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
+            >✕</button>
             <div className="flex flex-col items-start">
               <span className="text-white/40 text-xs font-bold tracking-wider">{t.score}</span>
               <motion.span
