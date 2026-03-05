@@ -144,12 +144,12 @@ export async function downloadFromSupabase(userId: string): Promise<void> {
     }));
   }
 
-  // Special cards: if locally modified (dirty), keep local; otherwise take higher from server
-  const currentSpecial = getSpecialCardCount();
+  // Special cards: if locally modified (dirty), keep local; otherwise trust server directly.
+  // Math.max was wrong here: if device A spent stars and device B had the old (higher) value
+  // locally, Math.max would permanently restore the spent stars on every sync.
   const starsDirty = localStorage.getItem("plizio_stars_dirty") === "1";
   if (!starsDirty) {
-    const mergedSpecial = Math.max(currentSpecial, data.special_cards || 0);
-    localStorage.setItem("plizio_special_cards", mergedSpecial.toString());
+    localStorage.setItem("plizio_special_cards", (data.special_cards || 0).toString());
   }
 
   // Skins: merge (union)
