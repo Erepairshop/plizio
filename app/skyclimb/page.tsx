@@ -422,9 +422,9 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
     transparent: skin.id === "ghost", opacity: skin.id === "ghost" ? 0.4 : 1,
   }), [skin, legColor]);
   const armMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: hasRealSkin ? skin.limbColor : '#6b8fad', emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity * 0.6,
+    color: hasRealSkin ? skin.limbColor : '#e8c9a0', emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity * 0.6,
     transparent: skin.id === "ghost", opacity: skin.id === "ghost" ? 0.4 : 1,
-  }), [skin, topDef]);
+  }), [skin]);
   const gloveMat = useMemo(() => gloveDef ? new THREE.MeshStandardMaterial({
     color: gloveDef.color, emissive: skin.emissive, emissiveIntensity: 0.2,
   }) : null, [skin, gloveDef]);
@@ -648,11 +648,11 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
               <sphereGeometry args={[0.09, 8, 6]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} />
             </mesh>
-            <mesh position={[-0.14, 0.98, 0.02]} scale={[0.65, 0.82, 0.72]}>
+            <mesh position={[-0.14, 0.94, -0.04]} scale={[0.55, 0.68, 0.58]}>
               <sphereGeometry args={[0.1, 8, 6]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} />
             </mesh>
-            <mesh position={[0.14, 0.98, 0.02]} scale={[0.65, 0.82, 0.72]}>
+            <mesh position={[0.14, 0.94, -0.04]} scale={[0.55, 0.68, 0.58]}>
               <sphereGeometry args={[0.1, 8, 6]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} />
             </mesh>
@@ -684,25 +684,46 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
               <coneGeometry args={[0.055, 0.12, 5]} />
               <meshStandardMaterial color={hairColor} roughness={0.75} />
             </mesh>
-            <mesh position={[-0.16, 0.99, 0]} scale={[0.52, 0.68, 0.58]}>
+            <mesh position={[-0.155, 0.96, -0.05]} scale={[0.44, 0.56, 0.44]}>
               <sphereGeometry args={[0.1, 8, 6]} />
               <meshStandardMaterial color={hairColor} roughness={0.75} />
             </mesh>
-            <mesh position={[0.16, 0.99, 0]} scale={[0.52, 0.68, 0.58]}>
+            <mesh position={[0.155, 0.96, -0.05]} scale={[0.44, 0.56, 0.44]}>
               <sphereGeometry args={[0.1, 8, 6]} />
               <meshStandardMaterial color={hairColor} roughness={0.75} />
             </mesh>
           </>
         )}
 
+        {/* ── FACE: Eyebrows ── */}
+        <mesh
+          position={[0.068, 1.028, 0.172]}
+          rotation={[0, 0, face.eyeType === 'angry' ? 0.40 : face.eyeType === 'sad' ? -0.25 : face.eyeType === 'surprised' ? 0.05 : 0.07]}
+        >
+          <boxGeometry args={[0.060, 0.012, 0.009]} />
+          <meshStandardMaterial color={hairColor} roughness={0.7} />
+        </mesh>
+        <mesh
+          position={[-0.068, 1.028, 0.172]}
+          rotation={[0, 0, face.eyeType === 'angry' ? -0.40 : face.eyeType === 'sad' ? 0.25 : face.eyeType === 'surprised' ? -0.05 : -0.07]}
+        >
+          <boxGeometry args={[0.060, 0.012, 0.009]} />
+          <meshStandardMaterial color={hairColor} roughness={0.7} />
+        </mesh>
+
         {/* ── FACE: Eyes ── */}
         {/* Eye whites — only for types that show a normal eye ball */}
-        {(face.eyeType === "dot" || face.eyeType === "round" || face.eyeType === "sad" || face.eyeType === "wink") && (<>
+        {(face.eyeType === "dot" || face.eyeType === "round" || face.eyeType === "angry") && (<>
           <mesh position={[0.07, 0.99, 0.174]}><sphereGeometry args={[0.028, 8, 8]} /><meshStandardMaterial color="#f2f2f2" roughness={0.2} /></mesh>
           <mesh position={[-0.07, 0.99, 0.174]}><sphereGeometry args={[0.028, 8, 8]} /><meshStandardMaterial color="#f2f2f2" roughness={0.2} /></mesh>
         </>)}
-        {face.eyeType === "wink" && (
+        {face.eyeType === "sad" && (<>
           <mesh position={[0.07, 0.99, 0.174]}><sphereGeometry args={[0.028, 8, 8]} /><meshStandardMaterial color="#f2f2f2" roughness={0.2} /></mesh>
+          <mesh position={[-0.07, 0.99, 0.174]}><sphereGeometry args={[0.028, 8, 8]} /><meshStandardMaterial color="#f2f2f2" roughness={0.2} /></mesh>
+        </>)}
+        {/* Wink: only right eye (x=-0.07) gets white, left eye is the wink line */}
+        {face.eyeType === "wink" && (
+          <mesh position={[-0.07, 0.99, 0.174]}><sphereGeometry args={[0.028, 8, 8]} /><meshStandardMaterial color="#f2f2f2" roughness={0.2} /></mesh>
         )}
         {face.eyeType === "dot" && (<>
           <mesh position={[0.07, 0.99, 0.180]} material={eyeMat}><sphereGeometry args={[0.018, 8, 8]} /></mesh>
