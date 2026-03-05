@@ -891,9 +891,8 @@ A csillag (⭐) a játék fő valutája — a World rendszerben is ez a jutalom,
 ## HETI SPRINT TERV
 
 > Utoljára frissítve: 2026-03-05
-> Reális kapacitás: ~1-2 nagy dolog/nap | ~5-7 item/hét
+> Kapacitás: 4-5 egyszerű játék/nap | World map (teljes) = 1 nap | lib/fix = ~30 perc
 > Referencia: a teljes jelenlegi Plizio (18 játék + shop + avatar) ~10 nap alatt épült
-> Komplex játék (10 szintes expedíció): ~1 nap | Egyszerű játék: ~fél nap | Lib/fix: ~30 perc
 
 ### Becslési kategóriák
 | Méret | Példa | Idő |
@@ -912,46 +911,39 @@ A csillag (⭐) a játék fő valutája — a World rendszerben is ez a jutalom,
 - [x] Gazdasági audit (árak, bevételek, arányok elemzése)
 - [x] Heti sprint terv megírása CLAUDE.md-be
 
-#### Nap 2 (márc. 6) — Gazdaság + RewardReveal fix [~1 nap]
+#### Nap 2 (márc. 6) — Gazdaság + napi jutalom + RewardReveal + World map [1 nap]
 - [ ] **XS** Csillag-gazdaság: árak felfelé tolása (skins max 40⭐, cape 35⭐, trail 25⭐) → teljes shop ~1100-1200⭐
-- [ ] **S** Napi bejelentkezési jutalom rendszer (`lib/dailyReward.ts` + UI popup)
 - [ ] **XS** Streak milestone-ok hozzáadása (7/14/30 nap)
-- [ ] **XS** RewardReveal flow fix: reflexrush + numberrush + sequencerush + wordhunt
+- [ ] **S** Napi bejelentkezési jutalom rendszer (`lib/dailyReward.ts` + UI popup)
+- [ ] **XS** RewardReveal flow fix: reflexrush + numberrush + sequencerush + wordhunt + numberpath + minisudoku
+- [ ] **L** Plizio World TELJES rendszer — térkép UI, zónák, locked/unlocked, progress, jutalmak
 
-#### Nap 3 (márc. 7) — Új játék: Light Out [~fél nap] + Number Merge [~fél nap]
+#### Nap 3 (márc. 7) — 4-5 új játék [1 nap]
 - [ ] **S** Light Out (`/lightout`) — kapcsolós puzzle, category: logic
-- [ ] **S** Number Merge 2048 (`/numbermerge`) — 2048 klón plizio skinnel, category: brain
+- [ ] **S** Number Merge 2048 (`/numbermerge`) — 2048 klón, category: brain
+- [ ] **S** Maze Rush (`/mazerush`) — generált labirintus időre, category: brain
+- [ ] **M** Pattern Forge (`/patternforge`) — 2D rács minta, expedíció 10 szint, category: logic
+- [ ] **M** Nonogram / Picross (`/nonogram`) — rácsszínező, category: logic
 
-#### Nap 4 (márc. 8) — Új játék: Pattern Forge [~1 nap]
-- [ ] **M** Pattern Forge (`/patternforge`) — 2D rács minta-felismerés, expedíció (10 szint), category: logic
+#### Nap 4 (márc. 8) — Shop bővítés + SEO [1 nap]
+- [ ] **S** Shop bővítés: +15-20 új item (ruhák, accessory, új skin-ek)
+- [ ] **S** SEO: sitemap frissítés + blog post(ok) az új játékokhoz
+- [ ] **XS** Dashboard bővítés: napi streak counter, World progress
 
-#### Nap 5 (márc. 9) — Új játék: Nonogram [~1 nap]
-- [ ] **M** Nonogram / Picross (`/nonogram`) — rácsszínező puzzle, category: logic
-
-#### Nap 6 (márc. 10) — Shop bővítés + World map tervezés [~1 nap]
-- [ ] **XS** Shop bővítés: +10-15 új ruha/accessory item
-- [ ] **L** Plizio World térkép UI alap — interaktív zónák, locked/unlocked state
-
-#### Nap 7 (márc. 11) — SEO + Buffer [~fél nap]
-- [ ] **XS** Sitemap frissítés (új játékok)
-- [ ] **XS** Blog post (1 db)
-- [ ] Buffer: hibajavítások, polish
+#### Nap 5-7 (márc. 9-11) — Következő kör játékok + polish
+- [ ] **M** Bridges puzzle (`/bridges`) — sziget-híd logika
+- [ ] **XL** MiniSudoku 6×6 + Daily Sudoku (`/daily-sudoku`)
+- [ ] **L** Kakuro (`/kakuro`)
+- [ ] **S** Plizio World napi kapu rendszer (zónánként 1 szint/nap unlock)
+- [ ] Buffer: hibajavítások, polish, tesztelés
 
 ---
 
-### BACKLOG (következő sprintek)
-
-#### Alacsony prioritás / Következő sprint
-- [ ] **M** Bridges puzzle (`/bridges`) — sziget-híd logika
-- [ ] **M** Maze Rush (`/mazerush`) — labirintus generátor időre
-- [ ] **L** Daily login streak UI (vizuális naptár, streak counter a főoldalon)
-- [ ] **L** Plizio World napi kapu rendszer (zónánként 1 szint/nap)
-- [ ] **S** Dashboard bővítés (új statisztikák: napi streak, world progress)
-
-#### Nagy projektek (több sprint)
-- [ ] **XL** Plizio World teljes rendszer (térkép + expedíciók + napi kapu + jutalmak)
-- [ ] **XL** MiniSudoku 6×6 + Daily Sudoku (`/daily-sudoku`)
-- [ ] **L** Kakuro (`/kakuro`) — magas komplexitás
+### BACKLOG (sprint 2+)
+- [ ] Deutsch Test hub bővítés (ha hiányos)
+- [ ] NumberPath visszaszámlálós mód
+- [ ] MiniSudoku nehézségi szintek (könnyű/normál/nehéz)
+- [ ] Globális leaderboard (ha Supabase bővül)
 
 ---
 
