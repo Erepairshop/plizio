@@ -454,7 +454,7 @@ export default function Home() {
   }, []);
 
   return (
-    <main className="min-h-screen flex flex-col items-center justify-center px-4 py-8 gap-10">
+    <main className="min-h-screen flex flex-col items-center justify-start px-4 pt-8 pb-8 gap-6">
       {/* Logo */}
       <Logo />
 
