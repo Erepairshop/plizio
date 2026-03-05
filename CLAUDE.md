@@ -547,6 +547,13 @@ Hozzáadott kérdéstípusok:
 4. **Avatar + scale:0 animáció** — Three.js canvas törik (lásd AvatarCompanion szekció)
 5. **calculateRarity 4. param** — non-level játékoknál mindig `false`-t adj át
 6. **`downloadFromSupabase` (sync.ts)** — NE írja felül a helyi active_skin-t ha már van! Csak ha `localStorage.getItem("plizio_active_skin") === null` (fresh browser). Egyébként a shop-ban aktivált skin elvész navigáció után.
+7. **`special_cards` sync — NE használj `Math.max` kölcsönözhető egyenlegnél!**
+   - `Math.max(local, server)` csak monoton növekvő értéknél helyes (pl. totalGames). Egyenlegnél (ami csökkenhet vásárlásnál) **örökre visszaállítja** a régi értéket bármely eszközön ami a régi értéket tárolta lokálisan.
+   - **Helyes megközelítés: dirty flag + szerver értéke az igazság**
+     - `addSpecialCards()` és `spendSpecialCards()` mindig beállítja: `localStorage.setItem("plizio_stars_dirty", "1")`
+     - `downloadFromSupabase()`: ha `dirty=false` → szerver értékét veszi direktben (nem Math.max!); ha `dirty=true` → megtartja a lokálist
+     - `uploadToSupabase()`: sikeres feltöltés után törli: `localStorage.removeItem("plizio_stars_dirty")`
+   - **Általános szabály:** Ha egy érték CSÖKKENHET (vásárlás, elköltés), `Math.max` helyett dirty flag kell. Ha csak nőhet (statisztikák), `Math.max` helyes.
 
 **Kilépési gomb — játék közbeni státusz:**
 | Játék | Van kilépés játék közben? | Hova visz? |
