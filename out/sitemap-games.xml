@@ -14,4 +14,8 @@
   <url><loc>https://plizio.com/racetrack/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://plizio.com/citydrive/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://plizio.com/spotdiff/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://plizio.com/numberpath/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://plizio.com/minisudoku/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://plizio.com/wordhunt/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://plizio.com/sequencerush/</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 </urlset>
