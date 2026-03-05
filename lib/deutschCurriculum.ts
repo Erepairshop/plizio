@@ -207,11 +207,10 @@ const K1: DeutschTheme[] = [
       },
       {
         // Silbentrennung – 50 Fragen (35x mcq, 15x typing)
-// Niveau: 1. Klasse | Wortschatz: einfach, schulnah
-
-{ id: "silben",
-  name: "Silbentrennung",
-  questions: [
+        // Niveau: 1. Klasse | Wortschatz: einfach, schulnah
+        id: "silben",
+        name: "Silbentrennung",
+        questions: [
 
     // === MCQ (1–35) ===
 
@@ -568,9 +567,6 @@ answer: ["Erd-bee-re", "erd-bee-re"] },
 question: "Trenne in Silben: Zwiebel →",
 answer: ["Zwie-bel", "zwie-bel"] },
 
-  ]
-}
-          // TODO: weitere Fragen ↓
         ],
       },
       {
@@ -791,7 +787,6 @@ answer: ["Zwie-bel", "zwie-bel"] },
         id: "artikel_k1",
         name: "Artikel (der / die / das)",
         questions: [
-          50 kérdés, egysoros, tömör:
 { type: "mcq", topic: "woerter", subtopic: "artikel_k1", question: "Welcher Artikel? ___ Katze", options: ["der", "die", "das"], correct: 1 },
 { type: "mcq", topic: "woerter", subtopic: "artikel_k1", question: "Welcher Artikel? ___ Ball", options: ["der", "die", "das"], correct: 0 },
 { type: "mcq", topic: "woerter", subtopic: "artikel_k1", question: "Welcher Artikel? ___ Buch", options: ["der", "die", "das"], correct: 2 },
@@ -842,7 +837,7 @@ answer: ["Zwie-bel", "zwie-bel"] },
 { type: "typing", topic: "woerter", subtopic: "artikel_k1", question: "Welcher Artikel? ___ Schuh", answer: "der" },
 { type: "typing", topic: "woerter", subtopic: "artikel_k1", question: "Welcher Artikel? ___ Socke", answer: "die" },
 { type: "typing", topic: "woerter", subtopic: "artikel_k1", question: "Welcher Artikel? ___ Messer", answer: "das" },
-  type: "mcq", topic: "woerter", subtopic: "artikel_k1", question: "Welcher Artikel? ___ Tiger", options: ["der", "die", "das"], correct: 0 },
+{ type: "mcq", topic: "woerter", subtopic: "artikel_k1", question: "Welcher Artikel? ___ Tiger", options: ["der", "die", "das"], correct: 0 },
 { type: "mcq", topic: "woerter", subtopic: "artikel_k1", question: "Welcher Artikel? ___ Schlange", options: ["der", "die", "das"], correct: 1 },
 { type: "mcq", topic: "woerter", subtopic: "artikel_k1", question: "Welcher Artikel? ___ Kaninchen", options: ["der", "die", "das"], correct: 2 },
 { type: "mcq", topic: "woerter", subtopic: "artikel_k1", question: "Welcher Artikel? ___ Affe", options: ["der", "die", "das"], correct: 0 },
@@ -5321,8 +5316,8 @@ const K4: DeutschTheme[] = [
 { type: "mcq", topic: "satzglieder_k4", subtopic: "objekte_k4", question: "'Sie schickt der Firma einen Brief.' — Was ist das Dativobjekt?", options: ["Sie", "schickt", "der Firma"], correct: 2 },
 { type: "mcq", topic: "satzglieder_k4", subtopic: "objekte_k4", question: "'Er liebt seine Frau.' — Was ist das Akkusativobjekt?", options: ["Er", "liebt", "seine Frau"], correct: 2 },
 { type: "mcq", topic: "satzglieder_k4", subtopic: "objekte_k4", question: "'Sie reicht dem Opa die Brille.' — Was ist das Dativobjekt?", options: ["Sie", "reicht", "dem Opa"], correct: 2 },
-{ type: "mcq", topic: "satzglieder_k4", subtopic: "objekte_k4", question: "'Er verliert den Schlüssel.' — Was ist das Akkusativobjekt?", options: ["Er", "verliert", "den Schlüssel"], correct: 2 }
-          { type: "mcq", topic: "satzglieder_k4", subtopic: "objekte_k4", question: "'Sie erklärt dem Kind die Aufgabe.' — Was ist das Dativobjekt?", options: ["Sie", "erklärt", "dem Kind"], correct: 2 },
+{ type: "mcq", topic: "satzglieder_k4", subtopic: "objekte_k4", question: "'Er verliert den Schlüssel.' — Was ist das Akkusativobjekt?", options: ["Er", "verliert", "den Schlüssel"], correct: 2 },
+{ type: "mcq", topic: "satzglieder_k4", subtopic: "objekte_k4", question: "'Sie erklärt dem Kind die Aufgabe.' — Was ist das Dativobjekt?", options: ["Sie", "erklärt", "dem Kind"], correct: 2 },
 { type: "mcq", topic: "satzglieder_k4", subtopic: "objekte_k4", question: "'Er liest das Buch.' — Was ist das Akkusativobjekt?", options: ["Er", "liest", "das Buch"], correct: 2 },
 { type: "mcq", topic: "satzglieder_k4", subtopic: "objekte_k4", question: "'Sie widerspricht dem Lehrer.' — Was ist das Dativobjekt?", options: ["Sie", "widerspricht", "dem Lehrer"], correct: 2 },
 { type: "mcq", topic: "satzglieder_k4", subtopic: "objekte_k4", question: "'Er zeichnet einen Kreis.' — Was ist das Akkusativobjekt?", options: ["Er", "zeichnet", "einen Kreis"], correct: 2 },
