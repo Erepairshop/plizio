@@ -838,6 +838,56 @@ Szabályok:
 
 ---
 
+## PLIZIO WORLD — Közös Sztori Expedíció (NAGY VÍZIÓ)
+
+### Alapötlet
+Minden játék egy **helyszín** a világtérképen. A játékos avatarral utazik, zónánként mini-expedíciókat teljesít, naponta új szintek nyílnak meg → visszatérésre ösztönöz.
+
+### Világtérkép — Zónák
+| Zóna | Helyszín | Játékok |
+|------|----------|---------|
+| 1 | 🏔️ Hegyvidék | NumberPath, MiniSudoku |
+| 2 | 🌊 Óceán | Memory Flash, Spot Diff |
+| 3 | 🏙️ Város | Reflex Rush, Quick Pick |
+| 4 | 🌲 Erdő | Kodex, Word Scramble |
+| 5 | 🏜️ Sivatag | Math Test, Number Rush |
+| 6 | 🌋 Vulkán | Pattern Forge (end-game, még nem kész) |
+
+Zónák sorban zároltak — előzőt teljesítve nyílik a következő.
+
+### Napi rendszer
+- Naponta **1 új szint** nyílik minden aktív zónában
+- Ha kihagysz egy napot → szint megvár, de streak elveszik
+- Streak jutalmak: 7 nap → ritka kártya, 30 nap → legendary
+
+### ⭐ Csillag-gazdaság a World rendszerben
+A csillag (⭐) a játék fő valutája — a World rendszerben is ez a jutalom, nem külön valuta:
+
+| Esemény | Csillag jutalom |
+|---------|----------------|
+| Zóna szint teljesítése | +1 ⭐ |
+| Zóna összes szintje kész (first clear) | +5 ⭐ |
+| Tökéletes szint (hibátlan) | +1 ⭐ bónusz |
+| Napi streak 7 nap | +2 ⭐ |
+| Napi streak 30 nap | +10 ⭐ |
+
+**Fontos:** ezek `addSpecialCards()` hívással mennek — ugyanaz a ⭐ amit a shopban is lehet költeni. Nincs külön World valuta!
+
+### Technikai megvalósítás fázisai
+1. **Térkép UI** — interaktív világtérkép főoldalon, zónák státuszával (zárolt/aktív/kész)
+2. **Zóna expedíciók** — minden játékhoz expedition rendszer (Kodex/ReflexRush minta alapján)
+3. **Napi kapu** — `last_played_date` per zóna, "Ma nyitható" badge
+4. **Sztori jelenetek** — rövid szöveges jelenet avatarral zóna teljesítésekor (opcionális)
+
+### localStorage kulcsok (tervezett)
+| Kulcs | Tartalom |
+|-------|---------|
+| `plizio_world_progress` | `{ activeZone: number, completedZones: string[] }` |
+| `plizio_world_last_played` | `Record<zoneId, dateString>` |
+| `plizio_world_streak` | `{ count: number, lastDate: string }` |
+
+---
+
 ## Out mappa szinkron (public_html deploy)
 
 **FONTOS:** A felhasználó szerverén a fájlok a `public_html/` mappából futnak.
