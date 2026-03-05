@@ -2,9 +2,10 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Search, Home, RotateCcw, Lock, Check, ChevronRight } from "lucide-react";
+import { Search, Home, RotateCcw, Lock, Check, ChevronRight, X } from "lucide-react";
 import Link from "next/link";
 import MilestonePopup from "@/components/MilestonePopup";
+import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, calculateRarity, type CardRarity } from "@/lib/cards";
 import { incrementTotalGames } from "@/lib/milestones";
 import AvatarCompanion from "@/components/AvatarCompanion";
@@ -160,7 +161,7 @@ const TRANSLATIONS = {
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
-type Screen = "expedition" | "playing" | "levelComplete" | "levelFailed";
+type Screen = "expedition" | "playing" | "reward" | "levelComplete" | "levelFailed";
 type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory" | "surprised" | "confused" | "laughing";
 type Direction = "H" | "V" | "DL" | "DR" | "HR" | "VR";  // Horiz, Vert, DiagLeft, DiagRight, + Reverse
 
@@ -377,7 +378,7 @@ export default function WordHuntPage() {
       writeSave(s); return s;
     });
     triggerAvatar("happy", 99999, cfg.level === 10 ? "victory" : "happy");
-    setScreen("levelComplete");
+    setScreen("reward");
   }, [stopGame]);
 
   const levelFailed = useCallback(() => {
@@ -692,6 +693,10 @@ export default function WordHuntPage() {
           {/* Header */}
           <div className="flex items-center justify-between px-4 pt-4 pb-2">
             <div className="flex flex-col items-start">
+              <button
+                onClick={() => { if (timerRef.current) { clearInterval(timerRef.current); timerRef.current = null; } setScreen("expedition"); }}
+                className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/50 hover:bg-white/20 hover:text-white transition-colors mb-1"
+              ><X size={14} /></button>
               <span className="text-white/40 text-xs font-bold tracking-wider">{t.wordsFound.toUpperCase()}</span>
               <motion.span
                 key={wordsFound} className="text-2xl font-black text-[#00FF88]"
@@ -800,6 +805,11 @@ export default function WordHuntPage() {
       )}
 
       {/* ── LEVEL COMPLETE ─────────────────────────────────────────────────────── */}
+      {screen === "reward" && earnedCard && (
+        <RewardReveal rarity={earnedCard} game="wordhunt" score={score} total={placedWords.length * 10}
+          onDone={() => setScreen("levelComplete")} />
+      )}
+
       {screen === "levelComplete" && earnedCard && (
         <div className="flex flex-col items-center justify-center min-h-screen px-6 gap-6 text-center">
           <motion.div
@@ -816,23 +826,6 @@ export default function WordHuntPage() {
             <span className="text-4xl font-black text-white">{score} <span className="text-white/40 text-xl">{t.pts}</span></span>
             <span className="text-white/40 text-sm">{wordsFound}/{placedWords.length} {t.wordsCompleted}</span>
           </div>
-
-          <motion.div
-            className="py-4 px-8 rounded-2xl border-2 flex flex-col items-center gap-2"
-            style={{ borderColor: RARITY_COLORS[earnedCard], background: `${RARITY_COLORS[earnedCard]}15` }}
-            initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.3 }}
-          >
-            {earnedCard === "legendary" && <span className="text-3xl">👑</span>}
-            {earnedCard === "gold"      && <span className="text-3xl">🥇</span>}
-            {earnedCard === "silver"    && <span className="text-3xl">🥈</span>}
-            {earnedCard === "bronze"    && <span className="text-3xl">🥉</span>}
-            <span className="font-black tracking-widest text-sm" style={{ color: RARITY_COLORS[earnedCard] }}>
-              {t.rarity[earnedCard]} {t.card}
-            </span>
-            {earnedCard === "legendary" && (
-              <span className="text-white/50 text-xs mt-1">{t.legendaryDesc}</span>
-            )}
-          </motion.div>
 
           <div className="flex flex-col gap-3 w-full max-w-xs">
             {activeLevel === 10 ? (

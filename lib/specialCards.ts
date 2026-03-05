@@ -17,6 +17,7 @@ export function addSpecialCards(amount: number): number {
   const current = getSpecialCardCount();
   const newTotal = current + amount;
   localStorage.setItem(STORAGE_KEY, newTotal.toString());
+  localStorage.setItem("plizio_stars_dirty", "1");
   return newTotal;
 }
 
@@ -24,6 +25,7 @@ export function spendSpecialCards(amount: number): boolean {
   const current = getSpecialCardCount();
   if (current < amount) return false;
   localStorage.setItem(STORAGE_KEY, (current - amount).toString());
+  localStorage.setItem("plizio_stars_dirty", "1");
   return true;
 }
 

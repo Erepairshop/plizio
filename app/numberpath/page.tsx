@@ -5,6 +5,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { GitBranch, Home, RotateCcw, Lock, Check, ChevronRight, Eraser } from "lucide-react";
 import Link from "next/link";
 import MilestonePopup from "@/components/MilestonePopup";
+import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, type CardRarity } from "@/lib/cards";
 import { incrementTotalGames } from "@/lib/milestones";
 import AvatarCompanion from "@/components/AvatarCompanion";
@@ -199,7 +200,7 @@ function loadSave(): NPSave {
 }
 function writeSave(s: NPSave) { localStorage.setItem(SAVE_KEY, JSON.stringify(s)); }
 
-type Screen = "expedition" | "playing" | "levelComplete" | "levelFailed";
+type Screen = "expedition" | "playing" | "reward" | "levelComplete" | "levelFailed";
 type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory" | "surprised" | "confused" | "laughing";
 
 // ─── Main Component ────────────────────────────────────────────────────────────
@@ -310,7 +311,7 @@ export default function NumberPathPage() {
     };
     setSave(newSave);
     writeSave(newSave);
-    setScreen("levelComplete");
+    setScreen("reward");
   }
 
   function handleTimeout() {
@@ -758,6 +759,14 @@ export default function NumberPathPage() {
   }
 
   // ─── LEVEL COMPLETE ───────────────────────────────────────────────────────────
+  if (screen === "reward" && earnedCard) {
+    const cfg = cfgRef.current;
+    return (
+      <RewardReveal rarity={earnedCard} game="numberpath" score={pathState.length} total={cfg.gridSize ** 2}
+        onDone={() => setScreen("levelComplete")} />
+    );
+  }
+
   if (screen === "levelComplete") {
     const cfg = cfgRef.current;
     return (
@@ -779,22 +788,6 @@ export default function NumberPathPage() {
               <AvatarCompanion {...avatarProps} fixed={false} />
             </div>
           </div>
-
-          {earnedCard && (
-            <motion.div
-              className="rounded-xl p-4 mb-4 text-center bg-[#0A0A1A]"
-              style={{ border: `2px solid ${RARITY_COLORS[earnedCard]}`, boxShadow: `0 0 16px ${RARITY_COLORS[earnedCard]}44` }}
-              initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: 0.3, type: "spring" }}
-            >
-              <div className="text-2xl mb-1">🃏</div>
-              <div className="font-black text-sm" style={{ color: RARITY_COLORS[earnedCard] }}>
-                {t.rarity[earnedCard]} {t.card}
-              </div>
-              {earnedCard === "legendary" && (
-                <p className="text-xs mt-1 text-white/50">{t.legendaryDesc}</p>
-              )}
-            </motion.div>
-          )}
 
           <div className="space-y-2">
             {cfg.level < 10 && (

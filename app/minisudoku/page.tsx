@@ -5,6 +5,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Grid3X3, Home, RotateCcw, Lock, Check, ChevronRight, Lightbulb, Undo2 } from "lucide-react";
 import Link from "next/link";
 import MilestonePopup from "@/components/MilestonePopup";
+import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, type CardRarity } from "@/lib/cards";
 import { incrementTotalGames } from "@/lib/milestones";
 import AvatarCompanion from "@/components/AvatarCompanion";
@@ -255,7 +256,7 @@ function loadSave(): MSSave {
 }
 function writeSave(s: MSSave) { localStorage.setItem(SAVE_KEY, JSON.stringify(s)); }
 
-type Screen = "expedition" | "playing" | "levelComplete" | "levelFailed";
+type Screen = "expedition" | "playing" | "reward" | "levelComplete" | "levelFailed";
 type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory" | "surprised" | "confused" | "laughing";
 
 // ─── Main Component ────────────────────────────────────────────────────────────
@@ -353,7 +354,7 @@ export default function MiniSudokuPage() {
     };
     setSave(newSave);
     writeSave(newSave);
-    setScreen("levelComplete");
+    setScreen("reward");
   }
 
   function handleGameOver(reason: "timeout" | "mistakes") {
@@ -883,6 +884,14 @@ export default function MiniSudokuPage() {
   }
 
   // ─── LEVEL COMPLETE SCREEN ─────────────────────────────────────────────────
+  if (screen === "reward" && earnedCard) {
+    const cfg = cfgRef.current;
+    return (
+      <RewardReveal rarity={earnedCard} game="minisudoku" score={cfg.size * cfg.size - mistakes} total={cfg.size * cfg.size}
+        onDone={() => setScreen("levelComplete")} />
+    );
+  }
+
   if (screen === "levelComplete") {
     const cfg = cfgRef.current;
     const isBoss = cfg.level === 10;
@@ -908,28 +917,6 @@ export default function MiniSudokuPage() {
 
           {mistakes === 0 && (
             <div className="text-[#FFD700] font-bold text-sm">{t.perfect}</div>
-          )}
-
-          {/* Card earned */}
-          {rarity && (
-            <motion.div
-              initial={{ scale: 0, rotate: -10 }}
-              animate={{ scale: 1, rotate: 0 }}
-              transition={{ delay: 0.3, type: "spring" }}
-              className="rounded-2xl p-5 flex flex-col items-center gap-2 w-full"
-              style={{
-                background: `linear-gradient(135deg, ${RARITY_COLORS[rarity]}20, ${RARITY_COLORS[rarity]}08)`,
-                border: `2px solid ${RARITY_COLORS[rarity]}60`,
-              }}
-            >
-              <div className="font-black text-2xl" style={{ color: RARITY_COLORS[rarity] }}>
-                {t.rarity[rarity]}
-              </div>
-              <div className="text-white/50 text-xs font-bold">{t.card}</div>
-              {isBoss && rarity === "legendary" && (
-                <div className="text-[#B44DFF] text-xs text-center mt-1">{t.legendaryDesc}</div>
-              )}
-            </motion.div>
           )}
 
           {/* Buttons */}
