@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Search, Home, RotateCcw, Lock, Check, ChevronRight } from "lucide-react";
+import { Search, Home, RotateCcw, Lock, Check, ChevronRight, X } from "lucide-react";
 import Link from "next/link";
 import MilestonePopup from "@/components/MilestonePopup";
 import { saveCard, generateCardId, calculateRarity, type CardRarity } from "@/lib/cards";
@@ -692,6 +692,10 @@ export default function WordHuntPage() {
           {/* Header */}
           <div className="flex items-center justify-between px-4 pt-4 pb-2">
             <div className="flex flex-col items-start">
+              <button
+                onClick={() => { if (timerRef.current) { clearInterval(timerRef.current); timerRef.current = null; } setScreen("expedition"); }}
+                className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/50 hover:bg-white/20 hover:text-white transition-colors mb-1"
+              ><X size={14} /></button>
               <span className="text-white/40 text-xs font-bold tracking-wider">{t.wordsFound.toUpperCase()}</span>
               <motion.span
                 key={wordsFound} className="text-2xl font-black text-[#00FF88]"
