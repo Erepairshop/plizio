@@ -2159,3 +2159,199 @@ interface WeeklyBill {
 4. **Választás** — A játékos MAGA dönt a nehézségről (nem mi kényszerítjük)
 5. **Nincs frusztráció** — Nem veszít semmit, csak a "csillogás" csökken
 6. **Progresszió érzet** — Jobb munkahely → nagyobb ház megengedhető → cél
+
+---
+
+## PLIZIO PHONE — Játékon belüli telefon navigáció
+
+> A játékos avatárjának VAN TELEFONJA — ez a fő menü, navigáció, és kommunikáció!
+> Nem hagyományos navbar/sidebar, hanem egy **vizuális telefon UI** a szobán belül.
+
+### Alapkoncepció
+
+A szoba nézetben az avatár kezében / a képernyő alján megjelenik egy **telefon ikon**.
+Rákattintva **kinyílik a telefon** — rajta appok, értesítések, üzenetek.
+Ez a TELJES navigáció — nincs külön menüsor, minden a telefonból érhető el.
+
+### Telefon UI — "Plizio Phone"
+
+```
+┌─────────────────────────┐
+│  ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔ │
+│  📱 PlizioPhone   14:32 │
+│  ─────────────────────── │
+│                           │
+│  🎮 Játékok    🛒 Shop   │
+│                           │
+│  🏠 Szobám     👤 Profil  │
+│                           │
+│  💬 Üzenetek   📋 Feladatok│
+│                           │
+│  🗺️ Világtérkép 📊 Statok │
+│                           │
+│  🃏 Kártyák    ⚙️ Beállítás│
+│                           │
+│  ─────────────────────── │
+│  🔔 2 új értesítés        │
+│  ─────────────────────── │
+│  ⭐ 47        🃏 156      │
+│  ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ │
+└─────────────────────────┘
+```
+
+### Telefon appok (ikonok a "kezdőképernyőn")
+
+| App ikon | Név | Hova visz | Megjegyzés |
+|----------|-----|-----------|------------|
+| 🎮 | Játékok | Játékválasztó (főoldal) | Kategóriákkal |
+| 🛒 | Shop | `/shop` | Skinok, bútorok, ruhák |
+| 🏠 | Szobám | `/room` | Szoba nézet (ha már bent van → bezárja a telefont) |
+| 👤 | Profil | `/profile` | Avatar szerkesztő |
+| 💬 | Üzenetek | Chat overlay | Más felhasználóknak üzenet |
+| 📋 | Feladatok | Napi feladat lista | Heti számla is itt |
+| 🗺️ | Térkép | `/world` | Plizio World térkép |
+| 📊 | Statisztikák | `/dashboard` | Játék statisztikák |
+| 🃏 | Kártyák | `/collection` | Kártyagyűjtemény |
+| ⚙️ | Beállítások | Nyelv, hang, stb. | Overlay |
+| 💕 | Kapcsolatok | Partner/család kezelés | Csak ha van partner |
+| 🐾 | Háziállat | Állat gondozás | Csak ha van állat |
+| 💼 | Munka | Munkahely infó | Fizetés begyűjtés itt |
+
+### Telefon megjelenés a szobában
+
+**Zárt állapot:** Kis telefon ikon a képernyő jobb alsó sarkában (vagy az avatár kezében)
+```
+                          ┌────┐
+  [szoba nézet...]        │ 📱 │  ← kattintásra nyílik
+                          │ 🔴 │  ← piros pötty ha van értesítés
+                          └────┘
+```
+
+**Nyitott állapot:** Képernyő közepén megjelenik a telefon (overlay, a szoba mögötte halványan látszik)
+
+### Értesítések rendszer
+
+A telefon ikonján **badge** jelzi ha van valami:
+
+| Értesítés típus | Mikor | Badge szín |
+|----------------|-------|------------|
+| Új üzenet | Más felhasználó írt | 🔴 piros |
+| Számla esedékes | Hétfőnként | 🟡 sárga |
+| Napi feladat kész | Teljesítettél egy feladatot | 🟢 zöld |
+| Állat éhes | Nem etettél | 🟠 narancs |
+| Partner üzenet | Partner feladatot ad | 💕 rózsaszín |
+| Új tartalom | Új játék/bútor elérhető | 🔵 kék |
+
+### Üzenetküldés (💬 app)
+
+**Egyszerű chat más felhasználókkal:**
+```
+┌─────────────────────────┐
+│  💬 Üzenetek              │
+│  ─────────────────────── │
+│                           │
+│  👤 xy_player       14:20 │
+│    "Szép a szobád!"       │
+│                           │
+│  👤 gamer123       13:45  │
+│    "Gyere meccsezni!"     │
+│                           │
+│  ─────────────────────── │
+│  [Új üzenet írása...]     │
+│  ─────────────────────── │
+└─────────────────────────┘
+```
+
+**Üzenet típusok:**
+- Szöveges üzenet (max 200 karakter)
+- Szoba meghívó ("Nézd meg a szobám!")
+- Meccs kihívás ("Játsszunk!")
+- Ajándék küldés (⭐-ért vásárolt virtuális ajándék)
+
+### Telefon animáció
+
+**Kinyitás:**
+```
+1. Telefon ikon → kattintás
+2. Telefon "felemelkedik" (scale: 0.3 → 1.0, opacity: 0 → 1)
+3. Szoba háttér blur + sötétedik
+4. App ikonok egymás után "bepattannak" (staggered animation)
+```
+
+**Bezárás:**
+```
+1. Telefon "lecsúszik" vagy scale → 0
+2. Szoba háttér visszaáll
+```
+
+### Telefon testreszabás (EXTRA — shop item!)
+
+A telefon kinézetét is lehet customizálni a shopban:
+
+| Elem | Példák | Ár |
+|------|--------|-----|
+| Telefon szín | Fekete, Fehér, Rózsaszín, Arany | 3-5⭐ |
+| Telefon tok | Neon, Pixel art, Fa mintás | 5-8⭐ |
+| Háttérkép | Tájkép, Neon, Avatár szelfie | 2-4⭐ |
+| Csengőhang | (vizuális effekt értesítésnél) | 3⭐ |
+
+### Technikai megvalósítás
+
+**Komponens:** `components/PlizioPhone.tsx`
+
+```tsx
+interface PhoneProps {
+  isOpen: boolean;
+  onClose: () => void;
+  notifications: Notification[];
+  starBalance: number;
+  cardCount: number;
+}
+```
+
+**State kezelés:**
+```ts
+// Telefon nyitott/zárt
+const [phoneOpen, setPhoneOpen] = useState(false);
+
+// Értesítések
+const [notifications, setNotifications] = useState<Notification[]>([]);
+
+// Aktív app (melyik "oldal" van nyitva a telefonon belül)
+const [activeApp, setActiveApp] = useState<string | null>(null);
+```
+
+**Routing logika:**
+- Egyes appok **overlay-ként** nyílnak (üzenetek, beállítások, feladatok)
+- Más appok **navigálnak** (`router.push('/shop')`) és bezárják a telefont
+- A szoba nézet a "home" — ide tér vissza mindig
+
+### localStorage kulcsok
+
+| Kulcs | Tartalom |
+|-------|---------|
+| `plizio_phone_skin` | `{ color: string, case: string, wallpaper: string }` |
+| `plizio_notifications` | `Notification[]` |
+| `plizio_messages` | `Message[]` |
+
+### Telefon megjelenés játék KÖZBEN
+
+Játék közben a telefon **NEM elérhető** (ne zavarjon):
+- Szoba nézetben: igen ✅
+- Világtérképen: igen ✅ (kis méretben)
+- Játék közben (playing screen): NEM ❌
+- Játék eredmény képernyőn: igen ✅ (visszatéréshez)
+
+### Kapcsolódás a szoba rendszerhez
+
+A telefon a szoba nézet RÉSZE — nem külön oldal:
+```
+/room oldal:
+  ├── Izometrikus szoba (háttér)
+  ├── Bútorok (interaktív)
+  ├── Avatár (szobában áll/ül)
+  └── Telefon ikon (jobb alul)
+       └── Kinyitva: teljes telefon UI overlay
+```
+
+**A `/room` lesz az ÚJ FŐOLDAL** — a játékos ide érkezik, és a telefonból navigál mindenhova!
