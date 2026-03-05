@@ -5,6 +5,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Brain, Home, RotateCcw, Lock, Check, ChevronRight, X } from "lucide-react";
 import Link from "next/link";
 import MilestonePopup from "@/components/MilestonePopup";
+import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, calculateRarity, type CardRarity } from "@/lib/cards";
 import { incrementTotalGames } from "@/lib/milestones";
 import AvatarCompanion from "@/components/AvatarCompanion";
@@ -187,7 +188,7 @@ const TRANSLATIONS = {
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
-type Screen = "expedition" | "watching" | "inputting" | "levelComplete" | "levelFailed";
+type Screen = "expedition" | "watching" | "inputting" | "reward" | "levelComplete" | "levelFailed";
 type CellState = "idle" | "flash" | "gold" | "decoy" | "correct" | "wrong";
 type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory" | "surprised" | "confused" | "laughing";
 
@@ -460,7 +461,7 @@ export default function SequenceRushPage() {
             writeSave(s); return s;
           });
           triggerAvatar("happy", 99999, cfg.level === 10 ? "victory" : "happy");
-          setScreen("levelComplete");
+          setScreen("reward");
         } else {
           // Next round
           setTimeout(() => startRound(cfg, nd + 1, ns, errorsRef.current), 700);
@@ -750,6 +751,11 @@ export default function SequenceRushPage() {
       )}
 
       {/* ── LEVEL COMPLETE ─────────────────────────────────────────────────────── */}
+      {screen === "reward" && earnedCard && (
+        <RewardReveal rarity={earnedCard} game="sequencerush" score={score} total={cfg.rounds * cfg.seqLength}
+          onDone={() => setScreen("levelComplete")} />
+      )}
+
       {screen === "levelComplete" && earnedCard && (
         <div className="flex flex-col items-center justify-center min-h-screen px-6 gap-6 text-center">
           <motion.div
@@ -766,23 +772,6 @@ export default function SequenceRushPage() {
             <span className="text-4xl font-black text-white">{score} <span className="text-white/40 text-xl">{t.pts}</span></span>
             <span className="text-white/40 text-sm">{roundsDone}/{cfg.rounds} {t.goalWas}</span>
           </div>
-
-          <motion.div
-            className="py-4 px-8 rounded-2xl border-2 flex flex-col items-center gap-2"
-            style={{ borderColor: RARITY_COLORS[earnedCard], background: `${RARITY_COLORS[earnedCard]}15` }}
-            initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.3 }}
-          >
-            {earnedCard === "legendary" && <span className="text-3xl">👑</span>}
-            {earnedCard === "gold"      && <span className="text-3xl">🥇</span>}
-            {earnedCard === "silver"    && <span className="text-3xl">🥈</span>}
-            {earnedCard === "bronze"    && <span className="text-3xl">🥉</span>}
-            <span className="font-black tracking-widest text-sm" style={{ color: RARITY_COLORS[earnedCard] }}>
-              {t.rarity[earnedCard]} {t.card}
-            </span>
-            {earnedCard === "legendary" && (
-              <span className="text-white/50 text-xs mt-1">{t.legendaryDesc}</span>
-            )}
-          </motion.div>
 
           <div className="flex flex-col gap-3 w-full max-w-xs">
             {activeLevel === 10 ? (

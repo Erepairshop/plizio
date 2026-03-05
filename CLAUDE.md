@@ -622,7 +622,55 @@ mynewgame: "My New Game",
 
 ### 4. Sitemap (`public/sitemap-games.xml`) — új `<url>` sor
 
-### 5. page.tsx kötelező elemek
+### 5. Kártya reveal flow — KÖTELEZŐ MINTA (Sky Climb a referencia)
+
+**Helyes sorrend minden nyereménynél:**
+```
+Win → saveCard() → setScreen("reward")
+  → <RewardReveal> animáció (onDone)
+  → setScreen("levelComplete")
+  → Result screen (score, gombok, MilestonePopup)
+```
+
+**Screen típusban** kötelező a `"reward"` state:
+```ts
+type Screen = "expedition" | "playing" | "reward" | "levelComplete" | "levelFailed";
+```
+
+**Win handler minta:**
+```ts
+const rarity = calculateRarity(score, total, streak, false);
+saveCard({ id: generateCardId(), game: "mygame", rarity, score, total, date: new Date().toISOString() });
+window.dispatchEvent(new Event("plizio-cards-changed"));
+incrementTotalGames();
+setEarnedCard(rarity);   // ← beállítani MIELŐTT setScreen("reward")
+setScreen("reward");     // ← NEM levelComplete!
+```
+
+**RewardReveal render:**
+```tsx
+{screen === "reward" && earnedCard && (
+  <RewardReveal
+    rarity={earnedCard}
+    game="mygame"
+    score={score}
+    total={total}
+    onDone={() => setScreen("levelComplete")}
+  />
+)}
+```
+
+**levelComplete screen:** NE jelenítsd meg inline a kártya dobozt — az már megjelent a RewardReveal-ben!
+
+**⚠️ Rossz minta (NE CSINÁLD):**
+- Win → direkt `setScreen("levelComplete")` ← kihagyja a RewardReveal animációt
+- Inline kártya doboz a levelComplete-ben (bordered box + emoji) ← RewardReveal helyett
+
+**Érintett játékok ahol ez MÉG NINCS rendben (TODO):**
+- reflexrush, numberrush, sequencerush, wordhunt, numberpath, minisudoku
+  → ezekben `levelComplete` közvetlen, inline kártya dobozzal
+
+### 6. page.tsx kötelező elemek
 
 **Avatar betöltési minta** (minden játékban ugyanez a `useState` init):
 ```tsx

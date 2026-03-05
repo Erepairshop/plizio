@@ -5,6 +5,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Hash, Home, RotateCcw, Lock, Check, ChevronRight } from "lucide-react";
 import Link from "next/link";
 import MilestonePopup from "@/components/MilestonePopup";
+import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, type CardRarity } from "@/lib/cards";
 import { incrementTotalGames } from "@/lib/milestones";
 import AvatarCompanion from "@/components/AvatarCompanion";
@@ -151,7 +152,7 @@ const TRANSLATIONS = {
 
 // ─── Types ───────────────────────────────────────────────────────────────────
 
-type Screen = "expedition" | "playing" | "levelComplete" | "levelFailed";
+type Screen = "expedition" | "playing" | "reward" | "levelComplete" | "levelFailed";
 type PowerupKind = "freeze" | "reveal" | "shield" | "rush";
 type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory" | "surprised" | "confused" | "laughing";
 
@@ -356,7 +357,7 @@ export default function NumberRushPage() {
       writeSave(s); return s;
     });
     triggerAvatar("happy", 99999, cfg.level === 10 ? "victory" : "happy");
-    setScreen("levelComplete");
+    setScreen("reward");
   }, [stopGame]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const levelFailed = useCallback((finalFound: number) => {
@@ -819,6 +820,12 @@ export default function NumberRushPage() {
         </div>
       )}
 
+      {/* ── REWARD ──────────────────────────────────────────────────────────────── */}
+      {screen === "reward" && earnedCard && (
+        <RewardReveal rarity={earnedCard} game="numberrush" score={found} total={cfg.count}
+          onDone={() => setScreen("levelComplete")} />
+      )}
+
       {/* ── LEVEL COMPLETE ───────────────────────────────────────────────────────── */}
       {screen === "levelComplete" && earnedCard && (
         <div className="flex flex-col items-center justify-center min-h-screen px-6 gap-4 text-center">
@@ -843,23 +850,6 @@ export default function NumberRushPage() {
             <span className="text-4xl font-black text-white">{found}</span>
             <span className="text-white/40 text-sm">/ {cfg.count}</span>
           </div>
-
-          <motion.div
-            className="py-4 px-8 rounded-2xl border-2 flex flex-col items-center gap-2"
-            style={{ borderColor: RARITY_COLORS[earnedCard], background: `${RARITY_COLORS[earnedCard]}15` }}
-            initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.3 }}
-          >
-            {earnedCard === "legendary" && <span className="text-3xl">👑</span>}
-            {earnedCard === "gold"      && <span className="text-3xl">🥇</span>}
-            {earnedCard === "silver"    && <span className="text-3xl">🥈</span>}
-            {earnedCard === "bronze"    && <span className="text-3xl">🥉</span>}
-            <span className="font-black tracking-widest text-sm" style={{ color: RARITY_COLORS[earnedCard] }}>
-              {t.rarity[earnedCard]} {t.card}
-            </span>
-            {earnedCard === "legendary" && (
-              <span className="text-white/50 text-xs mt-1">{t.legendaryDesc}</span>
-            )}
-          </motion.div>
 
           <div className="flex flex-col gap-3 w-full max-w-xs">
             {activeLevel === 10 ? (
