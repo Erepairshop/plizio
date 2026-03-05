@@ -947,6 +947,57 @@ A csillag (⭐) a játék fő valutája — a World rendszerben is ez a jutalom,
 
 ---
 
+## OKTATÁSI PLATFORM VÍZIÓ — Globális tantárgy + nyelv bővítés
+
+> Ritmus: 1-2 nap/hét párhuzamosan a játékfejlesztéssel
+
+### Jelenlegi állapot
+| Tantárgy | Nyelvek | SEO oldalak | Státusz |
+|----------|---------|-------------|---------|
+| Math | HU/DE/EN/RO | `/mathe-test/`, `/math-test/` | ✅ kész |
+| Deutsch Grammatik | DE | `/deutsch-test/` | 🔄 folyamatban |
+
+### Tantárgyak bővítési sorrendje
+| # | Tantárgy | Route | Fő célpiac | SEO potenciál |
+|---|----------|-------|-----------|---------------|
+| 1 | Deutsch Grammatik | `/deutsch-test/` | DE/AT/CH | 🔥🔥 magas |
+| 2 | English Grammar | `/english-test/` | globális | 🔥🔥🔥 legnagyobb |
+| 3 | Természettudomány | `/science-test/` | EN/DE | 🔥🔥 |
+| 4 | Földrajz | `/geography-test/` | EN/DE/HU | 🔥 |
+| 5 | Biológia | `/biology-test/` | EN/DE | 🔥 |
+| 6 | Történelem | `/history-test/` | HU/DE | közepes |
+
+### UI nyelv bővítési sorrendje (lib/language.ts)
+| # | Nyelv | Kód | Célpiac | Mikor |
+|---|-------|-----|---------|-------|
+| 1 | Magyar | `hu` | HU | ✅ kész |
+| 2 | Deutsch | `de` | DE/AT/CH | ✅ kész |
+| 3 | English | `en` | globális | ✅ kész |
+| 4 | Română | `ro` | RO | ✅ kész |
+| 5 | Français | `fr` | FR/BE/CH/CA | sprint 3-4 |
+| 6 | Español | `es` | ES/LATAM | sprint 4-5 |
+| 7 | Italiano | `it` | IT/CH | sprint 5-6 |
+| 8 | Português | `pt` | PT/BR | sprint 6+ |
+| 9 | Nederlands | `nl` | NL/BE | sprint 6+ |
+
+### Technikai teendők új nyelv hozzáadásakor
+1. `lib/language.ts` → Language type bővítése: `"hu" | "de" | "en" | "ro" | "fr" | ...`
+2. `components/LanguageProvider.tsx` → zászló + language switcher bővítése
+3. `lib/mathTranslations.ts` → fordítások az új nyelvre
+4. `lib/mathCurriculum.ts` → country code mapping (`getLang("FR") → "FR"`)
+5. Új SEO oldalak: `/calcul-mental/` (FR), `/test-de-matematicas/` (ES), stb.
+6. `public/sitemap-education.xml` → új sorok
+7. hreflang az új nyelvre minden érintett oldalon
+
+### SEO stratégia tantárgyanként
+- **Math DE:** "mathe test klasse 3" — már folyamatban, DE piac erős
+- **Math EN:** "math test grade 3" — legnagyobb keresési volumen globálisan
+- **English Grammar:** "english grammar test grade 4" — szülők/tanárok keresik
+- **Francia math:** "test de mathématiques CE2" — szinte nincs verseny!
+- **Spanyol math:** "ejercicios de matemáticas 3o primaria" — LATAM is belefér
+
+---
+
 ### Csillag-gazdaság terv (implementálva majd: márc. 6)
 
 **Bevételi célok:**
