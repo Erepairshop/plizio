@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Layers, Star, User, ChevronDown, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Layers, Star, User, ChevronDown, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Home as HomeIcon, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import Logo from "@/components/Logo";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
@@ -78,6 +78,7 @@ const TRANSLATIONS = {
       wordhunt: "Word Hunt",
       numberpath: "Number Path",
       minisudoku: "Mini Sudoku",
+      pliziolife: "Plizio Life",
     },
     ui: {
       comingSoon: "COMING SOON",
@@ -108,6 +109,7 @@ const TRANSLATIONS = {
       wordhunt: "Szóvadász",
       numberpath: "Számút",
       minisudoku: "Mini Sudoku",
+      pliziolife: "Plizio Life",
     },
     ui: {
       comingSoon: "HAMAROSAN",
@@ -138,6 +140,7 @@ const TRANSLATIONS = {
       wordhunt: "Wortjagd",
       numberpath: "Zahlenpfad",
       minisudoku: "Mini Sudoku",
+      pliziolife: "Plizio Life",
     },
     ui: {
       comingSoon: "BALD VERFÜGBAR",
@@ -168,6 +171,7 @@ const TRANSLATIONS = {
       wordhunt: "Vânătoare de Cuvinte",
       numberpath: "Calea Numerelor",
       minisudoku: "Mini Sudoku",
+      pliziolife: "Plizio Life",
     },
     ui: {
       comingSoon: "CÂT CURÂND",
@@ -278,6 +282,13 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         nameKey: "racetrack",
         color: "#FF2222",
         gradient: "bg-gradient-to-br from-red-500/20 to-rose-500/20",
+      },
+      {
+        id: "pliziolife",
+        icon: HomeIcon,
+        nameKey: "pliziolife",
+        color: "#FF2D78",
+        gradient: "bg-gradient-to-br from-pink-500/20 to-purple-500/20",
       },
     ],
   },
