@@ -1090,3 +1090,113 @@ Szabályok:
 - A deploy parancsban MINDIG töröld a régi `_next/` és `next_static/` mappát először, majd nevezd át: `rm -rf _next next_static && cp -r out/* . && mv _next next_static && rm -rf out`
   - Ez azért fontos, mert a JS chunk fájlnevek minden buildnél változnak
   - Ha nem törlöd, régi és új chunk fájlok keverednek, és elromlik az oldal
+
+---
+
+## NAPI FELADAT RENDSZER — Tervezési dokumentáció
+
+> Állapot: tervezési fázis (2026-03-05)
+> Implementáció: sprint 2-ben
+
+### Koncepció
+A játékos minden nap kap 3 feladatot. Ha teljesíti őket → ⭐ jutalom.
+Ezek NEM expedíciós szintek, hanem rövid, változatos kihívások.
+
+### Feladat típusok
+
+| Típus | Példák | Trigger pont |
+|-------|--------|-------------|
+| **Game challenge** | "Érj el 8/10-et Math Testen", "Nyerj Kodex 5. szintjén" | játék vége callback |
+| **Playtime** | "Játssz ma összesen 20 percet", "Játssz 3 különböző játékkal" | session timer localStorage |
+| **Collection** | "Szerezz 3 kártyát ma", "Szerezz Silver+ kártyát", "Válts be 5 kártyát" | `plizio-cards-changed` event |
+| **Social** | "Oszd meg Plizio-t egy baráttal" | meglévő `claimShareReward()` hook |
+| **Avatar/Shop** | "Öltöztesd fel az avatarod", "Vegyél meg egy tárgyat a shopban" | vásárlás/equip event |
+| **Streak** | "Látogass el 3 egymást követő napon" | napi login check |
+
+### Arányok (30 feladatból)
+| Típus | Db |
+|-------|-----|
+| Game challenge | 15 |
+| Playtime / multi-game | 5 |
+| Collection | 5 |
+| Social | 2 |
+| Avatar/Shop | 3 |
+
+### Jutalmak
+- 1 feladat teljesítve → 1 ⭐
+- Mind a 3 teljesítve (napi) → +1 ⭐ bónusz (összesen 4 ⭐/nap max)
+
+### localStorage kulcsok (tervezett)
+| Kulcs | Tartalom |
+|-------|---------|
+| `plizio_daily_tasks` | `{ date: string, tasks: DailyTask[], completedIds: string[] }` |
+| `plizio_task_playtime` | `{ date: string, minutes: number, games: string[] }` |
+
+### DailyTask típus (tervezett)
+```ts
+interface DailyTask {
+  id: string
+  type: "game_challenge" | "playtime" | "collection" | "social" | "shop" | "streak"
+  titleKey: string          // fordítási kulcs
+  descKey: string
+  reward: number            // ⭐ db
+  completed: boolean
+  progress?: number         // pl. 2/3 kártyánál
+  target?: number
+  params?: Record<string, unknown>  // pl. { game: "mathtest", minScore: 8, total: 10 }
+}
+```
+
+### Task pool (példák — implementációkor bővítendő)
+```ts
+// Game challenge
+{ type: "game_challenge", params: { game: "mathtest", minScore: 8, total: 10 } }
+{ type: "game_challenge", params: { game: "kodex", minLevel: 5 } }
+{ type: "game_challenge", params: { game: "skyclimb", minLevel: 10 } }
+{ type: "game_challenge", params: { game: "wordscramble", minScore: 3, total: 5 } }
+{ type: "game_challenge", params: { game: "reflexrush", minScore: 20 } }
+{ type: "game_challenge", params: { game: "quickpick", minScore: 5, total: 8 } }
+{ type: "game_challenge", params: { game: "numberrush", minLevel: 3 } }
+{ type: "game_challenge", params: { game: "spotdiff", perfect: true } }
+{ type: "game_challenge", params: { game: "memoryflash", minLevel: 5 } }
+{ type: "game_challenge", params: { game: "milliomos", minScore: 5, total: 10 } }
+
+// Playtime
+{ type: "playtime", params: { minutes: 15 } }
+{ type: "playtime", params: { minutes: 30 } }
+{ type: "playtime", params: { differentGames: 3 } }
+{ type: "playtime", params: { differentGames: 5 } }
+
+// Collection
+{ type: "collection", params: { earnCards: 3 } }
+{ type: "collection", params: { earnRarity: "silver", count: 1 } }
+{ type: "collection", params: { redeemCards: 5 } }
+{ type: "collection", params: { earnCards: 5 } }
+
+// Social
+{ type: "social", params: { action: "share" } }
+
+// Shop/Avatar
+{ type: "shop", params: { action: "equip_any" } }
+{ type: "shop", params: { action: "buy_any" } }
+{ type: "shop", params: { action: "change_face" } }
+
+// Streak
+{ type: "streak", params: { days: 3 } }
+```
+
+### Napi kiválasztás logika
+- Minden nap 3 különböző típusú task kerül kisorsolásra (véletlenszerűen, de típus-diverzitással)
+- Seed: `date string` → determinisztikus, mindenki ugyanazt kapja adott napon
+- Task pool-ból kizárja az elmúlt 7 nap feladatait (ne ismétlődjön gyorsan)
+
+### UI helye
+- `app/daily-tasks/page.tsx` vagy főoldalon beágyazva (accordion)
+- Vizuálisan: 3 kártya, progress barral, ⭐ jutalom jelzéssel
+- Ha mind teljesítve → konfetti animáció + bónusz ⭐
+
+### Kapcsolódó meglévő rendszerek
+- `lib/specialCards.ts` → `addSpecialCards()` a jutalom kiosztáshoz
+- `lib/milestones.ts` → streak számítás alapja
+- `claimShareReward()` → social task triggerje
+- `plizio-cards-changed` event → collection task figyeléshez
