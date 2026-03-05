@@ -888,6 +888,113 @@ A csillag (⭐) a játék fő valutája — a World rendszerben is ez a jutalom,
 
 ---
 
+## HETI SPRINT TERV
+
+> Utoljára frissítve: 2026-03-05
+> Pro Max kapacitás: ~2-3 deliverable/nap | ~15-18 item/hét
+> Komplex játék (10 szintes expedíció): ~2-3 óra | Egyszerű játék: ~1-1.5 óra | Lib/fix: ~30 perc
+
+### Becslési kategóriák
+| Méret | Példa | Idő |
+|-------|-------|-----|
+| XS | lib módosítás, árak, szöveg | 15-30 perc |
+| S | egyszerű játék (Light Out, 2048) | 1-1.5 óra |
+| M | expedíciós játék (Pattern Forge, Nonogram) | 2-3 óra |
+| L | nagy rendszer (World map, napi jutalom UI) | 3-5 óra |
+| XL | teljes feature set (daily system komplett) | 5+ óra |
+
+---
+
+### SPRINT 1 — 2026. március 5-11.
+
+#### Nap 1 (márc. 5) — TERV NAP
+- [x] Gazdasági audit (árak, bevételek, arányok elemzése)
+- [x] Heti sprint terv megírása CLAUDE.md-be
+
+#### Nap 2 (márc. 6) — Gazdaság + fix [~3 óra]
+- [ ] **XS** Csillag-gazdaság: árak felfelé tolása (skins max 40⭐, cape 35⭐, trail 25⭐ stb.) → teljes shop ~1100-1200⭐
+- [ ] **S** Napi bejelentkezési jutalom rendszer (`lib/dailyReward.ts` + UI popup)
+- [ ] **XS** Streak milestone-ok: napi streak 7/14/30 nap jutalmak
+- [ ] **XS** RewardReveal flow fix: reflexrush + numberrush (inline kártya doboz eltávolítása)
+
+#### Nap 3 (márc. 7) — Új játékok I. [~3 óra]
+- [ ] **S** Light Out (`/lightout`) — kapcsolós puzzle, category: logic
+- [ ] **S** Number Merge 2048 (`/numbermerge`) — 2048 klón plizio skinnel, category: brain
+
+#### Nap 4 (márc. 8) — Új játékok II. [~3 óra]
+- [ ] **M** Pattern Forge (`/patternforge`) — 2D rács minta-felismerés, expedíció (10 szint), category: logic
+- [ ] **XS** Shop bővítés: +10-15 új ruha/accessory item
+
+#### Nap 5 (márc. 9) — Új játékok III. + javítások [~3.5 óra]
+- [ ] **M** Nonogram / Picross (`/nonogram`) — rácsszínező puzzle, category: logic
+- [ ] **XS** RewardReveal flow fix: sequencerush, wordhunt, numberpath, minisudoku
+
+#### Nap 6 (márc. 10) — World map alapok [~4 óra]
+- [ ] **L** Plizio World térkép UI — interaktív zónák, locked/unlocked state, zóna progress
+- [ ] **XS** localStorage kulcsok: `plizio_world_progress`, `plizio_world_last_played`
+
+#### Nap 7 (márc. 11) — SEO + Buffer [~2.5 óra]
+- [ ] **S** SEO: deutsch-test bővítés (ha nincs meg minden klasse oldal)
+- [ ] **XS** Sitemap frissítés (új játékok)
+- [ ] **XS** Blog post (1db, az egyik új játékhoz)
+- [ ] Buffer: hibajavítások, polish
+
+---
+
+### BACKLOG (következő sprintek)
+
+#### Alacsony prioritás / Következő sprint
+- [ ] **M** Bridges puzzle (`/bridges`) — sziget-híd logika
+- [ ] **M** Maze Rush (`/mazerush`) — labirintus generátor időre
+- [ ] **L** Daily login streak UI (vizuális naptár, streak counter a főoldalon)
+- [ ] **L** Plizio World napi kapu rendszer (zónánként 1 szint/nap)
+- [ ] **S** Dashboard bővítés (új statisztikák: napi streak, world progress)
+
+#### Nagy projektek (több sprint)
+- [ ] **XL** Plizio World teljes rendszer (térkép + expedíciók + napi kapu + jutalmak)
+- [ ] **XL** MiniSudoku 6×6 + Daily Sudoku (`/daily-sudoku`)
+- [ ] **L** Kakuro (`/kakuro`) — magas komplexitás
+
+---
+
+### Csillag-gazdaság terv (implementálva majd: márc. 6)
+
+**Bevételi célok:**
+- Napi aktív játékos: ~2-3 ⭐/nap
+- Teljes shop megvásárlása: 6-12 hónap
+- Első "jó" item eléréséhez: 1-2 hét
+
+**Bevételi források (tervezett):**
+| Forrás | Mennyit | Mikor |
+|--------|---------|-------|
+| Kártya beváltás — bronz | 1⭐ / 60 db | Folyamatos |
+| Kártya beváltás — ezüst | 1⭐ / 40 db | Folyamatos |
+| Kártya beváltás — arany | 1⭐ / 20 db | Folyamatos |
+| Kártya beváltás — legendary | 1⭐ / 2 db | Folyamatos |
+| Share jutalom | 1⭐/nap | Naponta |
+| Napi bejelentkezés (ÚJ) | 1⭐/nap | Naponta |
+| Streak 7 nap (ÚJ) | 2⭐ | Egyszeri/ciklus |
+| Streak 14 nap (ÚJ) | 3⭐ | Egyszeri/ciklus |
+| Streak 30 nap (ÚJ) | 5⭐ | Egyszeri/ciklus |
+| Milestone összesen | ~50⭐ | Egyszeri, lifetime |
+
+**Árszabás irányvonal (tervezett):**
+| Kategória | Régi max | Új max |
+|-----------|----------|--------|
+| Skin | 25⭐ | 40⭐ |
+| Void/Legendary skin | 20-25⭐ | 40⭐ |
+| Cape | 20⭐ | 35⭐ |
+| Trail | 15⭐ | 25⭐ |
+| Hat | 12⭐ | 20⭐ |
+| Top (armor/suit) | 20⭐ | 30⭐ |
+| Glasses/Gloves max | 10⭐ | 15⭐ |
+| Olcsó itemek (tshirt, basic) | marad | marad |
+| **Teljes shop összeg** | **~778⭐** | **~1100-1200⭐** |
+
+localStorage kulcs (napi jutalom): `plizio_daily_login` → `{ lastDate: string, streakCount: number }`
+
+---
+
 ## Out mappa szinkron (public_html deploy)
 
 **FONTOS:** A felhasználó szerverén a fájlok a `public_html/` mappából futnak.
