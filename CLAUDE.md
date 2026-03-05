@@ -563,7 +563,8 @@ Hozzáadott kérdéstípusok:
 | Kodex | ✅ megerősítéssel | expedition |
 | NumberPath | ✅ Home ikon | expedition |
 | MiniSudoku | ✅ Home ikon | expedition |
-| WordHunt | ✅ Link href="/" | főoldal |
+| WordHunt | ✅ ✕ gomb bal felül (HUD) | expedition |
+| Sequence Rush | ✅ ✕ gomb bal felül (HUD) | expedition |
 | Sky Climb, Quick Pick, Word Scramble, Spot Diff, Memory Flash, Race Track, City Drive, Daily, Milliomos | ✅ | főoldal |
 | Math Test | ✅ ModernPaperTest onExit prop | grade-select |
 
@@ -583,6 +584,110 @@ Hozzáadott kérdéstípusok:
 - Ha csak egy függvényt kell módosítani → Grep a függvénynévre, csak azt olvasd be
 - `plizio-cards-changed` custom event → UI refresh kártyaszámoknál (collection + header)
 - `visibilitychange` event → collection oldal frissül tab-visszatérésnél
+
+---
+
+## ÚJ JÁTÉK LÉTREHOZÁSA — teljes checklist
+
+Ha azt kell csinálni: "hozz létre egy új játékot X alapján", **ezt a sorrendet kövesd**:
+
+### 1. Fájlok létrehozása
+
+```
+app/<game>/page.tsx      ← a játék maga
+app/<game>/layout.tsx    ← SEO metadata
+```
+
+### 2. Főoldalra regisztrálás (`app/page.tsx`)
+
+**A)** Add hozzá a nevet a `TRANSLATIONS` objektumhoz (mind a 4 nyelvhez: en/hu/de/ro):
+```ts
+// TRANSLATIONS.en.games, .hu.games, .de.games, .ro.games mindegyikébe:
+mynewgame: "My New Game",
+```
+
+**B)** Add hozzá a `CATEGORIES_BASE` tömbben a megfelelő kategóriába:
+```ts
+{
+  id: "mynewgame",
+  icon: <LucideIcon>,       // importálni kell a lucide-react-ból
+  nameKey: "mynewgame",     // megegyezik a TRANSLATIONS kulccsal
+  color: "#RRGGBB",
+  gradient: "bg-gradient-to-br from-X-500/20 to-Y-500/20",
+}
+```
+**Kategória ID-k:** `"quizreflex"`, `"adventure"`, `"brain"`, `"logic"`
+
+### 3. Oldalak táblázata — add hozzá a CODEBASE TÉRKÉP-be (fent)
+
+### 4. Sitemap (`public/sitemap-games.xml`) — új `<url>` sor
+
+### 5. page.tsx kötelező elemek
+
+**Avatar betöltési minta** (minden játékban ugyanez a `useState` init):
+```tsx
+const [gender] = useState<AvatarGender>(getGender());
+const [activeSkin] = useState(getSkinDef(getActiveSkin()));
+const [activeFace] = useState(getFaceDef(getActiveFace()));
+const [activeTop] = useState(() => { const id = getActive("top"); return id ? getTopDef(id) : null; });
+const [activeBottom] = useState(() => { const id = getActive("bottom"); return id ? getBottomDef(id) : null; });
+const [activeShoe] = useState(() => { const id = getActive("shoe"); return id ? getShoeDef(id) : null; });
+const [activeCape] = useState(() => { const id = getActive("cape"); return id ? getCapeDef(id) : null; });
+const [activeGlasses] = useState(() => { const id = getActive("glasses"); return id ? getGlassesDef(id) : null; });
+const [activeGloves] = useState(() => { const id = getActive("gloves"); return id ? getGloveDef(id) : null; });
+const [activeHat] = useState(() => { const id = getActiveHat(); return id ? getHatDef(id) : null; });
+const [activeTrail] = useState(() => { const id = getActiveTrail(); return id ? getTrailDef(id) : null; });
+```
+
+**Játék vége minta** (minden normál játéknál):
+```tsx
+// 1. Kártyamentés
+const rarity = calculateRarity(score, total, streak, false); // false = no gold!
+const card = { id: generateCardId(), game: "mynewgame", rarity, score, total, date: new Date().toISOString() };
+saveCard(card);
+window.dispatchEvent(new Event("plizio-cards-changed")); // UI frissítés
+
+// 2. Statisztikák
+incrementTotalGames();
+if (score === total) incrementPerfectScores();
+
+// 3. Mérföldkövek ellenőrzése
+const newMilestones = checkNewMilestones();
+if (newMilestones.length > 0) { /* MilestonePopup megjelenik */ }
+```
+
+**Expedition mentési kulcs** — mindig `<game>_expedition_v1` formátum:
+```ts
+const SAVE_KEY = "mynewgame_expedition_v1";
+```
+→ Add hozzá a localStorage kulcsok összefoglalójába is (fent)!
+
+**Kilépési gomb** — **KÖTELEZŐ** minden playing screenen:
+```tsx
+<button
+  onClick={() => { setScreen("expedition"); }} // vagy setGameState("menu")
+  className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/50 hover:bg-white/20 hover:text-white transition-colors"
+><X size={14} /></button>
+```
+→ Játék közbeni kilépés MINDIG kell. Ha elfelejted → bug lesz.
+
+**Kártya ritkaság** — alapértelmezés szerint **sosem gold**:
+```tsx
+calculateRarity(score, total, streak, false) // 4. param MINDIG false, kivéve level-alapú játéknál
+```
+
+### 6. layout.tsx minta
+```tsx
+import type { Metadata } from "next";
+export const metadata: Metadata = {
+  title: "My New Game – Plizio",
+  description: "...",
+  alternates: { canonical: "https://plizio.com/mynewgame/" },
+};
+export default function Layout({ children }: { children: React.ReactNode }) {
+  return <>{children}</>;
+}
+```
 
 ---
 
