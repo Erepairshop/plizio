@@ -377,6 +377,8 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
   const rightLegRef = useRef<THREE.Group>(null);
   const leftArmRef = useRef<THREE.Group>(null);
   const rightArmRef = useRef<THREE.Group>(null);
+  const leftForearmRef = useRef<THREE.Group>(null);
+  const rightForearmRef = useRef<THREE.Group>(null);
   const trailRef = useRef<THREE.Group>(null);
 
   const skin = useMemo(() => getSkinDef(skinId), [skinId]);
@@ -488,6 +490,8 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
     if (g.winAnim && g.winAnimTimer > 30) {
       if (leftArmRef.current) leftArmRef.current.rotation.x = -2.5;
       if (rightArmRef.current) rightArmRef.current.rotation.x = -2.5;
+      if (leftForearmRef.current) leftForearmRef.current.rotation.x = 0;
+      if (rightForearmRef.current) rightForearmRef.current.rotation.x = 0;
       if (leftLegRef.current) leftLegRef.current.rotation.x = 0;
       if (rightLegRef.current) rightLegRef.current.rotation.x = 0;
     } else {
@@ -495,6 +499,8 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
       if (rightLegRef.current) rightLegRef.current.rotation.x = -legSwing;
       if (leftArmRef.current) leftArmRef.current.rotation.x = armSwing;
       if (rightArmRef.current) rightArmRef.current.rotation.x = -armSwing;
+      if (leftForearmRef.current) leftForearmRef.current.rotation.x = isAirborne ? 0.3 : Math.sin(g.walkCycle) * 0.2;
+      if (rightForearmRef.current) rightForearmRef.current.rotation.x = isAirborne ? 0.3 : Math.sin(g.walkCycle + Math.PI) * 0.2;
     }
 
     // Trail particles
@@ -529,70 +535,90 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
 
         {/* ── CAPE (behind body) ── */}
         {capeDef && capeMat && (
-          <group position={[0, 0.55, -0.15]}>
-            <mesh material={capeMat}><boxGeometry args={[0.36, 0.06, 0.04]} /></mesh>
-            <mesh position={[0, -0.22, -0.02]} material={capeMat}><boxGeometry args={[0.32, 0.38, 0.025]} /></mesh>
-            <mesh position={[0, -0.48, -0.04]} material={capeMat}><boxGeometry args={[0.26, 0.2, 0.018]} /></mesh>
+          <group position={[0, 0.52, -0.14]}>
+            <mesh material={capeMat}><boxGeometry args={[0.40, 0.06, 0.04]} /></mesh>
+            <mesh position={[0, -0.22, -0.02]} material={capeMat}><boxGeometry args={[0.36, 0.38, 0.025]} /></mesh>
+            <mesh position={[0, -0.48, -0.04]} material={capeMat}><boxGeometry args={[0.30, 0.2, 0.018]} /></mesh>
           </group>
         )}
 
-        {/* ── BODY (torso) ── */}
+        {/* ── BODY (torso) — box like AvatarCompanion ── */}
         <mesh position={[0, 0.48, 0]} material={bodyMat}>
-          <cylinderGeometry args={[0.18, 0.16, 0.44, 10]} />
+          <boxGeometry args={[0.40, 0.42, 0.22]} />
         </mesh>
         {/* Shirt collar / accent */}
         {topDef && topDef.accent && (
-          <mesh position={[0, 0.72, 0.14]}>
-            <boxGeometry args={[0.18, 0.05, 0.02]} />
+          <mesh position={[0, 0.70, 0.12]}>
+            <boxGeometry args={[0.22, 0.05, 0.04]} />
             <meshStandardMaterial color={topDef.accent} />
           </mesh>
         )}
 
         {/* ── SHOULDERS ── */}
-        <mesh position={[0.24, 0.68, 0]} material={bodyMat}>
-          <sphereGeometry args={[0.09, 8, 6]} />
+        <mesh position={[0.22, 0.65, 0]} material={bodyMat}>
+          <sphereGeometry args={[0.10, 8, 6]} />
         </mesh>
-        <mesh position={[-0.24, 0.68, 0]} material={bodyMat}>
-          <sphereGeometry args={[0.09, 8, 6]} />
+        <mesh position={[-0.22, 0.65, 0]} material={bodyMat}>
+          <sphereGeometry args={[0.10, 8, 6]} />
         </mesh>
 
-        {/* ── ARMS ── */}
-        <group ref={leftArmRef} position={[0.28, 0.62, 0]}>
-          <mesh position={[0, -0.16, 0]} material={armMat}>
-            <cylinderGeometry args={[0.055, 0.065, 0.32, 6]} />
+        {/* ── ARMS (upper + forearm, like AvatarCompanion) ── */}
+        <group ref={leftArmRef} position={[0.28, 0.60, 0]} rotation={[0.12, 0, -0.15]}>
+          <mesh position={[0, -0.11, 0]} material={armMat}>
+            <cylinderGeometry args={[0.052, 0.060, 0.22, 6]} />
           </mesh>
-          {gloveMat
-            ? <mesh position={[0, -0.35, 0]} material={gloveMat}><sphereGeometry args={[0.072, 8, 6]} /></mesh>
-            : <mesh position={[0, -0.35, 0]} material={armMat}><sphereGeometry args={[0.068, 8, 6]} /></mesh>
-          }
+          <group ref={leftForearmRef} position={[0, -0.22, 0]}>
+            <mesh position={[0, -0.08, 0]} material={armMat}>
+              <cylinderGeometry args={[0.045, 0.052, 0.16, 6]} />
+            </mesh>
+            {gloveMat
+              ? <mesh position={[0, -0.18, 0]} material={gloveMat}><sphereGeometry args={[0.068, 8, 6]} /></mesh>
+              : <mesh position={[0, -0.18, 0]} material={armMat}><sphereGeometry args={[0.062, 8, 6]} /></mesh>
+            }
+          </group>
         </group>
-        <group ref={rightArmRef} position={[-0.28, 0.62, 0]}>
-          <mesh position={[0, -0.16, 0]} material={armMat}>
-            <cylinderGeometry args={[0.055, 0.065, 0.32, 6]} />
+        <group ref={rightArmRef} position={[-0.28, 0.60, 0]} rotation={[0.12, 0, 0.15]}>
+          <mesh position={[0, -0.11, 0]} material={armMat}>
+            <cylinderGeometry args={[0.052, 0.060, 0.22, 6]} />
           </mesh>
-          {gloveMat
-            ? <mesh position={[0, -0.35, 0]} material={gloveMat}><sphereGeometry args={[0.072, 8, 6]} /></mesh>
-            : <mesh position={[0, -0.35, 0]} material={armMat}><sphereGeometry args={[0.068, 8, 6]} /></mesh>
-          }
+          <group ref={rightForearmRef} position={[0, -0.22, 0]}>
+            <mesh position={[0, -0.08, 0]} material={armMat}>
+              <cylinderGeometry args={[0.045, 0.052, 0.16, 6]} />
+            </mesh>
+            {gloveMat
+              ? <mesh position={[0, -0.18, 0]} material={gloveMat}><sphereGeometry args={[0.068, 8, 6]} /></mesh>
+              : <mesh position={[0, -0.18, 0]} material={armMat}><sphereGeometry args={[0.062, 8, 6]} /></mesh>
+            }
+          </group>
         </group>
 
         {/* ── LEGS ── */}
-        <group ref={leftLegRef} position={[0.1, 0.24, 0]}>
+        <group ref={leftLegRef} position={[0.11, 0.24, 0]}>
           <mesh position={[0, -0.16, 0]} material={limbMat}>
-            <cylinderGeometry args={[0.082, 0.092, 0.32, 7]} />
+            <cylinderGeometry args={[0.072, 0.082, 0.32, 6]} />
           </mesh>
-          {/* Shoe */}
-          <mesh position={[0, -0.33, 0.03]} material={shoeMat}>
-            <boxGeometry args={[0.13, 0.07, 0.2]} />
+          {/* Shoe sole */}
+          <mesh position={[0, -0.335, 0.04]} material={shoeMat}>
+            <boxGeometry args={[0.13, 0.065, 0.20]} />
+          </mesh>
+          {/* Shoe top */}
+          <mesh position={[0, -0.310, 0.028]}>
+            <boxGeometry args={[0.125, 0.035, 0.16]} />
+            <meshStandardMaterial color={shoeColor} roughness={0.75} />
           </mesh>
         </group>
-        <group ref={rightLegRef} position={[-0.1, 0.24, 0]}>
+        <group ref={rightLegRef} position={[-0.11, 0.24, 0]}>
           <mesh position={[0, -0.16, 0]} material={limbMat}>
-            <cylinderGeometry args={[0.082, 0.092, 0.32, 7]} />
+            <cylinderGeometry args={[0.072, 0.082, 0.32, 6]} />
           </mesh>
-          {/* Shoe */}
-          <mesh position={[0, -0.33, 0.03]} material={shoeMat}>
-            <boxGeometry args={[0.13, 0.07, 0.2]} />
+          {/* Shoe sole */}
+          <mesh position={[0, -0.335, 0.04]} material={shoeMat}>
+            <boxGeometry args={[0.13, 0.065, 0.20]} />
+          </mesh>
+          {/* Shoe top */}
+          <mesh position={[0, -0.310, 0.028]}>
+            <boxGeometry args={[0.125, 0.035, 0.16]} />
+            <meshStandardMaterial color={shoeColor} roughness={0.75} />
           </mesh>
         </group>
 
