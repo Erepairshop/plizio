@@ -1948,3 +1948,214 @@ Vagy: mindez egyetlen oldalon (/room), tabokkal:
 | Avatar | Terhesség pocak, partner megjelenés szobában |
 | Játékok | Partner kedvenc játéka → bónusz, gyerek "segít" |
 | World map | Szoba = "otthon" a világtérképen, innen indulsz |
+
+---
+
+### SZÁMLA RENDSZER — "Minél nagyobb luxus, annál több játék"
+
+> Ez a Plizio Life KÖZPONTI MOTORJA — ez tartja vissza a játékost napról napra!
+> Elv: a játékos maga építi fel az életét, de azt FENN IS KELL TARTANI.
+
+#### Alapkoncepció
+
+Minden birtokolt szoba, bútor, állat, családtag **heti fenntartási költséget** generál.
+Ha a játékos nem fizeti → nem veszít semmit, de a "boldogság" és vizuális állapot romlik.
+A játékos **maga dönti el** mekkora életet akar → mekkora "számlát" vállal.
+
+#### Életszintek és heti költségek
+
+| Életszint | Leírás | Heti számla | Napi játékigény |
+|-----------|--------|------------|-----------------|
+| 🏠 Minimál | 1 szoba, alap bútorok, nincs állat | ~5⭐/hét | 1-2 játék/nap |
+| 🏡 Kényelmes | 2 szoba, pár extra bútor, 1 állat | ~15⭐/hét | 3-4 játék/nap |
+| 🏘️ Családi | 3 szoba, partner, gyerek, állat | ~30⭐/hét | Napi aktív játék |
+| 🏰 Luxus | 4+ szoba, minden max, teljes család | ~50⭐/hét | Hardcore játékos |
+| 👑 Mogul | Minden szoba, minden bútor, teljes Life | ~70⭐/hét | Napi dedikált játék |
+
+#### Számla összetevők (részletes)
+
+| Költségtípus | Mennyiség | Mikor jön | Megjegyzés |
+|-------------|-----------|-----------|------------|
+| **Szoba rezsi** | 1-3⭐/szoba/hét | Hétfőnként | Hálószoba ingyenes, többi fizetős |
+| **Luxus bútor fenntartás** | 0.5-1⭐/bútor/hét | Hétfőnként | Csak drága bútorokra (>10⭐ árú) |
+| **Állat etetés** | 1⭐/állat/hét | Folyamatos | Etetés kattintás = "fizetés" |
+| **Partner ajándék** | 2⭐/hét | Ha van partner | Szív szinten tartáshoz |
+| **Gyerek igények** | 2-3⭐/hét | Ha van gyerek | Életkor alapján nő |
+| **Munkahely ruha** | 1⭐/hét | Ha van jobb állás | Programozó+ szint |
+
+#### Számla kiszámítás képlet
+
+```ts
+function calculateWeeklyBill(state: LifeState): number {
+  let bill = 0;
+
+  // Szoba rezsi (hálószoba ingyenes)
+  const paidRooms = state.ownedRooms.filter(r => r !== "bedroom");
+  bill += paidRooms.length * 2;  // 2⭐/extra szoba
+
+  // Luxus bútorok (>10⭐ ár) fenntartása
+  const luxuryFurniture = state.allPlacedFurniture
+    .filter(f => getFurnitureDef(f.furnitureId)?.price > 10);
+  bill += Math.ceil(luxuryFurniture.length * 0.5);
+
+  // Állat
+  if (state.pet) bill += 1;
+
+  // Partner
+  if (state.partner && !state.partner.married) bill += 1;  // randizás
+  if (state.partner?.married) bill += 2;  // házas → ajándékok
+
+  // Gyerek
+  if (state.child) {
+    const age = state.child.activeDays;
+    if (age < 7) bill += 1;        // újszülött
+    else if (age < 21) bill += 2;  // csecsemő
+    else if (age < 45) bill += 2;  // totyogó
+    else bill += 3;                // kisgyerek
+  }
+
+  // Munkahely
+  if (state.job && state.job.id !== "intern") bill += 1;
+
+  return bill;
+}
+```
+
+#### Számla fizetés mechanizmusa
+
+**Mikor:** Minden hétfőn (vagy 7 aktív nap után) megjelenik a **"Heti számla"** popup:
+
+```
+┌──────────────────────────────────┐
+│      📋 Heti számla              │
+│                                   │
+│  🏠 Szoba rezsi (3 szoba)   6⭐  │
+│  🛋️ Luxus bútorok           3⭐  │
+│  🐱 Cica etetés              1⭐  │
+│  💕 Partner ajándék           2⭐  │
+│  👶 Gyerek igények            2⭐  │
+│  ──────────────────────────────  │
+│  ÖSSZESEN:                  14⭐  │
+│                                   │
+│  Egyenleged: 23⭐                │
+│                                   │
+│  [💰 Fizetek]    [⏳ Később]     │
+└──────────────────────────────────┘
+```
+
+#### Ha NEM fizet (nincs büntetés, csak motiváció!)
+
+**FONTOS SZABÁLY:** Soha ne büntessük a játékost keményen! Nem veszít bútort, szobát, partnert.
+
+| Hány hete nem fizetett | Hatás | Vizuális feedback |
+|------------------------|-------|------------------|
+| 1 hét | Fények halványabbak a szobában | Ambient light -30% |
+| 2 hét | Állat szomorú mood | 😢 buborék az állat felett |
+| 3 hét | Partner szív -10/hét (lassan csökken) | Szív ikon szürkül |
+| 4+ hét | Szoba "koszos" overlay (halványan) | Szemét/por SVG részecskék |
+| 4+ hét | Avatár mood: disappointed | Automatikus mood |
+| 4+ hét | Gyerek "unatkozik" (nem ad bónuszt) | 😐 buborék |
+
+**Visszaállítás:** Bármikor fizet → **azonnal** visszaáll minden! Nincs "büntetés periódus".
+
+#### Számla csökkentő mechanizmusok (smart spending)
+
+| Módszer | Hatás | Hogyan |
+|---------|-------|--------|
+| **Munkahely fizetés** | Napi 1-5⭐ bevétel | Automatikus, ha van munka |
+| **Takarékos mód** | Kikapcsolt szoba = nem fizet rezsit | Szoba "kikapcs" gomb |
+| **DIY bútorok** | Olcsóbb bútoroknak nincs fenntartás | <10⭐ árú bútorok ingyen |
+| **Kertész állás** | Állat etetés ingyenes | Speciális állás perk |
+| **Családi csomag** | Gyerek+partner = 3⭐ összesen, nem 4-5 | Ha mindkettő van |
+
+#### Szoba "kikapcsolás" (takarékos mód)
+
+Ha a játékos nem akar annyit fizetni, **kikapcsolhat** szobákat:
+- Kikapcsolt szoba: sötét, bútorok szürkék, nem interaktív
+- NEM fizet rezsit utána
+- Bármikor visszakapcsolható
+- Bútorok megmaradnak, nem kell újra venni
+
+```ts
+interface RoomState {
+  id: string;
+  active: boolean;  // true = aktív (fizet), false = kikapcsolt
+}
+```
+
+#### Játékon belüli bevétel vs számla egyensúly
+
+**Cél: a számla MINDIG kifizethető legyen** ha a játékos napi 10-15 percet játszik.
+
+| Bevételi forrás | Napi max | Heti max |
+|----------------|---------|---------|
+| Kártya beváltás | ~1⭐ | ~7⭐ |
+| Napi jutalom | 1⭐ | 7⭐ |
+| Share | 1⭐ | 7⭐ |
+| Munkahely | 1-5⭐ | 7-35⭐ |
+| Milestone-ok | alkalmi | alkalmi |
+| Streak bónusz | — | 2-5⭐ |
+| **Napi összesen** | **~4-8⭐** | **~30-60⭐** |
+
+**Tehát:**
+- Minimál szint (5⭐/hét) → bárki könnyedén kifizeti
+- Kényelmes (15⭐/hét) → napi pár játékkal megy
+- Luxus (50⭐/hét) → munkahely fizetés + aktív játék kell
+- Mogul (70⭐/hét) → jó állás + napi dedikált idő — de elérhető!
+
+#### localStorage kulcsok (számla rendszer)
+
+| Kulcs | Tartalom |
+|-------|---------|
+| `plizio_life_bills` | `{ lastBillDate: string, unpaidWeeks: number, totalPaid: number }` |
+| `plizio_rooms_active` | `Record<roomId, boolean>` (aktív/kikapcsolt) |
+
+#### TypeScript típusok
+
+```ts
+interface BillState {
+  lastBillDate: string;    // utolsó számla dátuma
+  unpaidWeeks: number;     // hány hete nem fizetett (0 = rendben)
+  totalPaid: number;       // összes kifizetett ⭐ (statisztika)
+}
+
+interface WeeklyBill {
+  roomCost: number;
+  furnitureCost: number;
+  petCost: number;
+  partnerCost: number;
+  childCost: number;
+  jobCost: number;
+  total: number;
+  discount: number;        // családi csomag stb.
+}
+```
+
+#### UI megjelenés
+
+**Szoba nézetben:** jobb felső sarokban kis ikon mutatja az aktuális heti költséget:
+```
+┌─────┐
+│ 📋  │
+│ 14⭐│
+│/hét │
+└─────┘
+```
+
+**Főoldalon:** Ha van fizetetlen számla → kis piros badge:
+```
+🏠 Szobám  🔴
+```
+
+**Dashboard-on:** Havi statisztika grafikon:
+- Bevétel (zöld) vs Kiadás (piros) görbe
+- "Megtakarítás" szám
+
+#### Pszichológiai hatás (miért működik)
+
+1. **Befektetés érzés** — "Megvettem ezt a szobát, nem akarom elveszíteni a fényét"
+2. **Felelősség** — "Az állatom éhes, játszanom kell"
+3. **Státusz** — "Nekem 5 szobám van és mind világít!" → büszkeség
+4. **Választás** — A játékos MAGA dönt a nehézségről (nem mi kényszerítjük)
+5. **Nincs frusztráció** — Nem veszít semmit, csak a "csillogás" csökken
+6. **Progresszió érzet** — Jobb munkahely → nagyobb ház megengedhető → cél
