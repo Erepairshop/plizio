@@ -29,7 +29,7 @@ export default function Logo() {
         <img
           src="/logo_plizio.webp"
           alt="Plizio"
-          className="w-16 h-16 sm:w-20 sm:h-20 object-contain"
+          className="w-20 h-20 sm:w-24 sm:h-24 object-contain"
         />
       </motion.div>
 
