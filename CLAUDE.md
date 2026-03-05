@@ -2355,3 +2355,320 @@ A telefon a szoba nézet RÉSZE — nem külön oldal:
 ```
 
 **A `/room` lesz az ÚJ FŐOLDAL** — a játékos ide érkezik, és a telefonból navigál mindenhova!
+
+---
+
+## PLIZIO WORLD LIFE — Teljes virtuális világ koncepció
+
+> Ez az ÖSSZEFOGLALÓ VÍZIÓ — minden rendszer (szoba, telefon, life, multiplayer) hogyan áll össze.
+> A Plizio nem játékgyűjtemény. A Plizio egy **virtuális világ**.
+
+### Világ struktúra — Helyszínek
+
+A játékos avatárja egy **világban** él. Nem oldalak között navigál, hanem **helyszínekre megy**.
+
+| Helyszín | Leírás | Mit csinál ott | Izometrikus nézet |
+|----------|--------|---------------|-------------------|
+| 🏠 Otthon | Saját szoba/ház | Berendez, pihen, családdal van | Szoba belső |
+| 🛒 Bevásárlóközpont | Shop + bútor bolt | Vásárol (ruha, skin, bútor, autó) | Bolt belső |
+| 🏖️ Tengerpart | Nyaralás, társasági hely | Más játékosokkal találkozik, napozik | Strand nézet |
+| 🏙️ Városközpont | Játékterem + munkahelyek | Játékokat játszik, dolgozik | Város utca |
+| 🏞️ Park | Séta, háziállat sétáltatás | Állat boldogság nő, random NPC-k | Park nézet |
+| 🏫 Iskola | Oktatási játékok | Matek teszt, nyelvtanulás | Iskola belső |
+| 🎪 Szórakozóhely | Multiplayer meccsek | Kihívások, versenyek | Aréna nézet |
+| 🏥 Kórház | Terhesség, gyerek születés | Ultrahang, születés animáció | Kórház belső |
+
+### Közlekedés — Autó rendszer
+
+A játékos **autóval** közlekedik a helyszínek között!
+
+**Autó mint státuszszimbólum:**
+
+| Autó | Ár | Sebesség | Különleges |
+|------|-----|---------|-----------|
+| 🚲 Bicikli | 0⭐ | Lassú (alap) | Ingyenes, mindenki kap |
+| 🛵 Robogó | 10⭐ | Közepes | Első upgrade |
+| 🚗 Kis autó | 25⭐ | Normál | Alap autó |
+| 🚙 SUV | 40⭐ | Normál | Családi (gyerekkel is elfér) |
+| 🏎️ Sportautó | 60⭐ | Gyors | Szép animáció |
+| 🚐 Lakóautó | 50⭐ | Lassú | Nyaraláson "mobil szoba"! |
+| 🏍️ Motor | 35⭐ | Gyors | Cool faktor |
+| 🚁 Helikopter | 100⭐ | Instant | Luxus — bárhova azonnal |
+
+**Autó megjelenés:**
+- Helyszínek közötti utazásnál rövid **vezetés animáció** (2-3 másodperc)
+- SVG izometrikus autó a város nézetben
+- Parkolóhely a ház mellett (autó látható!)
+- Autó testreszabás: szín, matrica (shop-ban)
+
+**localStorage:** `plizio_owned_vehicles`, `plizio_active_vehicle`
+
+### Háziállat avatárok — SVG állat rendszer
+
+Minden állatnak **saját izometrikus SVG avatár** van, nem csak emoji!
+
+**Állat típusok (bővített lista):**
+
+| Állat | Ár | Hol él | Méret | Animáció | Különleges |
+|-------|-----|--------|-------|----------|-----------|
+| 🐕 Kutya | 10⭐ | Ház + Park | Közepes | Farokcsóválás, ugrálás | Sétáltatni kell a parkban |
+| 🐱 Cica | 8⭐ | Ház | Kicsi | Dorombolás, nyújtózkodás | A bútorra mászik! |
+| 🐹 Hörcsög | 5⭐ | Ház (ketrec bútor) | Apró | Kerékben fut | Ketrec bútor kell |
+| 🐰 Nyuszi | 7⭐ | Kert | Kicsi | Ugrál | Kertben szabadon mozog |
+| 🦜 Papagáj | 12⭐ | Ház | Kicsi | Szárnycsapkodás | Szövegbuborékok (random mondatok) |
+| 🐠 Halak | 5⭐ | Akvárium bútor | Apró | Úszkálás | Akvárium bútor kell! |
+| 🐢 Teknős | 6⭐ | Kert | Kicsi | Lassú séta | Hosszú életű, kevés gondozás |
+| 🐍 Kígyó | 15⭐ | Ház (terrárium) | Közepes | Tekeredés | Ritka, cool faktor |
+| 🦎 Kaméleon | 20⭐ | Ház | Kicsi | Színváltás! | Szoba színéhez alkalmazkodik |
+| 🐎 Ló | 30⭐ | Kert (istálló) | Nagy | Ágaskodás | Lovaglás animáció a parkban |
+
+**Állat interakciók:**
+- Simogatás (kattintás) → boldogság +5, kis szív animáció
+- Etetés (napi) → boldogság +10, ha elfelejted → -5/nap
+- Játék (labda, csont, stb.) → boldogság +8
+- Sétáltatás (kutya, parkba vinni) → boldogság +15
+- Több állat tartható egyszerre!
+
+**Állat mood-ok (vizuális):**
+| Boldogság | Megjelenés |
+|-----------|-----------|
+| 80-100% | Boldog szem, farokcsóválás, szívek |
+| 50-79% | Normál |
+| 20-49% | Szomorú szem, lógó fül/farok |
+| 0-19% | Sírós szem, nem mozog, "..." buborék |
+
+### Társasági rendszer — Találkozás más játékosokkal
+
+**Helyszín alapú multiplayer:**
+
+A tengerparton, parkban, szórakozóhelyen **más online játékosok avatárjai is megjelennek**.
+
+```
+┌─────────────────────────────────────────┐
+│  🏖️ Tengerpart                          │
+│                                          │
+│  [avatár1]     [te avatárod]   [avatár3] │
+│   xy_player     ★ te ★        gamer99   │
+│     🐕                          🐱       │
+│  ~~~~~~~~ tenger ~~~~~~~~~               │
+│                                          │
+│  [avatár4]            [avatár5]          │
+│   luna22              max_pro            │
+└─────────────────────────────────────────┘
+```
+
+**Interakció más avatárokkal — rákattintás:**
+
+Ha rákattintasz egy másik avatárra, megjelenik egy **interakciós menü**:
+
+```
+┌──────────────────────┐
+│  👤 xy_player         │
+│  Level 12 ⭐ 234      │
+│  ──────────────────── │
+│  👋 Köszönés          │
+│  💬 Csevegés          │
+│  🎮 Kihívás (meccs)   │
+│  🎁 Ajándék küldés    │
+│  👀 Profil megtekintés │
+│  🏠 Szoba meglátogatás │
+└──────────────────────┘
+```
+
+#### Köszönés / Üdvözlés animációk
+
+Gyors egykattintásos interakciók — nem kell chatablak:
+
+| Akció | Animáció | Másik fél látja |
+|-------|----------|----------------|
+| 👋 Integetés | Avatár integet (wave mood) | "xy_player integetett neked!" |
+| 🤝 Pacsizás | Mindkét avatár pacsi animáció | Szinkronizált |
+| 🫂 Ölelés | Avatárok közel + szív | Csak ha elfogadja |
+| 💃 Tánc | Avatár táncol (dance mood) | Látja mindenki |
+| 😂 Nevetés | Avatár nevet (laughing mood) | "Haha" buborék |
+
+#### Csevegés — Chat ablak
+
+Ha "Csevegés"-t választod, megnyílik egy **kettős chatablak**:
+
+```
+┌──────────────────────────────┐
+│  💬 Csevegés: xy_player       │
+│  ────────────────────────────│
+│                               │
+│  xy_player: Szép a szobád! 😊 │
+│                               │
+│        te: Köszi! A kanapé    │
+│            új, tegnap vettem  │
+│                               │
+│  xy_player: Mennyi volt?      │
+│                               │
+│        te: 10 csillag         │
+│                               │
+│  xy_player: Játsszunk egyet?  │
+│                               │
+│  ────────────────────────────│
+│  [Üzenet írása...      ] [📤] │
+│                               │
+│  😊 😂 👍 ❤️ 🎮 [Emoji panel]  │
+│                               │
+│  [🎮 Kihívás] [🎁 Ajándék]    │
+└──────────────────────────────┘
+```
+
+**Chat funkciók:**
+- Szöveges üzenet (max 200 karakter, szűrt — nincs káromkodás)
+- Emoji gyors gombok
+- "Kihívás" gomb → egyből meccs meghívó
+- "Ajándék" gomb → virtuális ajándék (virág, szív, csillag)
+- Chat előzmények mentve (localStorage + Supabase)
+
+**Biztonsági szűrők:**
+- Profanity filter (többnyelvű)
+- Személyes adat blokkolás (email, telefon, cím pattern felismerés)
+- Report gomb minden üzeneten
+- Gyerekbarát: max 200 karakter, nincs kép küldés
+
+### Nyaralás rendszer — Tengerpart
+
+A tengerpart nem csak társasági hely, hanem **tevékenységek** is vannak:
+
+| Tevékenység | Leírás | Jutalom |
+|-------------|--------|---------|
+| 🏊 Úszás | Kattintás → úszás animáció | +boldogság |
+| 🏄 Szörfözés | Mini-játék (egyensúly) | +1⭐ |
+| 🏰 Homokvárat épít | Kattintgatós mini-játék | +boldogság, szép homokvar SVG |
+| 🍦 Fagyi vásárlás | 1⭐ → fagyi az avatár kezében | +boldogság, +partner szív |
+| 📸 Szelfizés | Avatár + háttér → megosztható | +share jutalom |
+| 🎣 Horgászás | Mini-játék (timing) | Hal → akvárium/eladás |
+
+**Nyaralás költsége:**
+- Belépés a tengerpartra: 2⭐ (naponta, vagy heti bérlet 10⭐)
+- Tevékenységek extra költsége: 0-2⭐
+- Partnert is viheted: +szív bónusz!
+
+### Szoba meglátogatás — "Nézd meg a házam!"
+
+Más játékosok szobáját is meg lehet nézni:
+
+```
+1. Rákattintasz avatárra → "Szoba meglátogatás"
+2. Betölt AZ Ő szobája (read-only nézet)
+3. Látod a bútorait, állatát, családját
+4. Tudsz reakciót adni: ❤️ "Szép!", 👍 "Cool!", ⭐ "Wow!"
+5. Reakciók száma megjelenik a háztulaj profilján
+```
+
+**Szoba rangsor:**
+- Legtöbb ❤️ reakció → "Hét háza" badge
+- Kategóriák: "Legszebb hálószoba", "Legjobb kert", stb.
+- Havi verseny → győztes kap 10⭐
+
+### Avatar interakció animációk (szinkronizált)
+
+Két avatár közötti interakciók:
+
+| Interakció | Avatár 1 | Avatár 2 | Trigger |
+|-----------|---------|---------|---------|
+| Pacsizás | Jobb kéz előre | Jobb kéz előre | Mindkét fél elfogadja |
+| Ölelés | Karok szélesre | Karok szélesre | Elfogadás kell |
+| High-five | Kéz fent | Kéz fent | Gyors, 1 kattintás |
+| Tánc együtt | Dance mood | Dance mood | Mindketten táncolnak |
+| Ajándék átadás | Kéz előre (tárggyal) | Kéz kinyújtva | Ajándék küldésnél |
+
+### Supabase táblák (társasági rendszer)
+
+```sql
+-- Jelenlét helyszínenként
+location_presence:
+  user_name    string
+  location     string    -- "beach" | "park" | "arcade" | "mall"
+  last_seen    timestamp
+  avatar_data  JSON      -- skin, clothes, accessories snapshot
+
+-- Chat üzenetek
+messages:
+  id           uuid
+  from_name    string
+  to_name      string
+  content      string    -- max 200 char, filtered
+  location     string    -- hol történt
+  created_at   timestamp
+  read         boolean
+
+-- Szoba reakciók
+room_reactions:
+  owner_name   string
+  visitor_name string
+  reaction     "heart" | "thumbsup" | "star"
+  room_id      string
+  created_at   timestamp
+
+-- Avatar interakciók log
+interactions:
+  from_name    string
+  to_name      string
+  type         "wave" | "highfive" | "hug" | "dance" | "gift"
+  location     string
+  created_at   timestamp
+```
+
+### TypeScript típusok (társasági)
+
+```ts
+type LocationId = "home" | "beach" | "park" | "city" | "mall" | "school" | "arcade" | "hospital"
+
+interface LocationPresence {
+  userName: string
+  location: LocationId
+  lastSeen: string       // ISO timestamp
+  avatarData: AvatarSnapshot  // skin + clothes snapshot
+}
+
+interface ChatMessage {
+  id: string
+  from: string
+  to: string
+  content: string
+  location: LocationId
+  createdAt: string
+  read: boolean
+}
+
+interface AvatarInteraction {
+  type: "wave" | "highfive" | "hug" | "dance" | "gift"
+  fromUser: string
+  toUser: string
+  // gift extra:
+  giftType?: "flower" | "heart" | "star" | "cake"
+  giftCost?: number
+}
+
+type VehicleId = "bicycle" | "scooter" | "car" | "suv" | "sports" | "rv" | "motorcycle" | "helicopter"
+```
+
+### localStorage kulcsok (új)
+
+| Kulcs | Tartalom |
+|-------|---------|
+| `plizio_owned_vehicles` | `string[]` |
+| `plizio_active_vehicle` | `string` |
+| `plizio_owned_pets` | `PetState[]` (több állat!) |
+| `plizio_current_location` | `LocationId` |
+| `plizio_chat_history` | `ChatMessage[]` (utolsó 100) |
+| `plizio_room_reactions_received` | `number` (összesített) |
+
+### Megvalósítási sorrend
+
+| Fázis | Tartalom | Prioritás |
+|-------|---------|-----------|
+| **1.** | Szoba rendszer + bútorok (már elkezdve!) | ✅ Folyamatban |
+| **2.** | Telefon UI + navigáció | Következő |
+| **3.** | Állat SVG avatárok + gondozás | Hamar |
+| **4.** | Autó rendszer + helyszínek közötti közlekedés | Közepes |
+| **5.** | Tengerpart + nyaralás + tevékenységek | Közepes |
+| **6.** | Társasági rendszer (jelenlét, chat, interakciók) | Nagy feature |
+| **7.** | Szoba meglátogatás + reakciók | Társasági után |
+| **8.** | Partner + házasság + gyerek (Life Sim) | Későbbi |
+| **9.** | Munkahely + számla rendszer | Life Sim után |
+| **10.** | Város nézet + összes helyszín | Végső polish |
