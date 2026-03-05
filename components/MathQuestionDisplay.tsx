@@ -4,6 +4,7 @@ import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Pencil, ChevronUp } from 'lucide-react';
 import DraftPanel from './draft/DraftPanel';
+import { getDraftT } from './draft/draftI18n';
 
 interface ExtendedMathQuestion {
   question: string;
@@ -169,6 +170,7 @@ export default function MathQuestionDisplay({
   const isEN = countryCode === "US" || countryCode === "GB";
   const correctWord = isEN ? 'Correct!' : countryCode === 'HU' ? 'Helyes!' : countryCode === 'RO' ? 'Corect!' : 'Richtig!';
   const wrongWord = isEN ? 'Wrong! Correct answer:' : countryCode === 'HU' ? 'Helytelen! Helyes válasz:' : countryCode === 'RO' ? 'Greșit! Răspuns corect:' : 'Falsch! Richtige Antwort:';
+  const dt = getDraftT(countryCode);
   const [draftOpen, setDraftOpen] = useState(false);
   const [textAnswer, setTextAnswer] = useState('');
 
@@ -192,7 +194,7 @@ export default function MathQuestionDisplay({
             }`}
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
-            title={draftOpen ? "Entwurf ausblenden" : "Entwurf anzeigen"}
+            title={draftOpen ? dt.hideDraft : dt.showDraft}
           >
             {draftOpen ? <ChevronUp size={20} /> : <Pencil size={20} />}
           </motion.button>
@@ -203,7 +205,7 @@ export default function MathQuestionDisplay({
           className={draftOpen ? "mb-6 relative" : "hidden"}
           style={{ isolation: "auto" }}
         >
-          <DraftPanel testId={testId} questionId={questionId} />
+          <DraftPanel testId={testId} questionId={questionId} countryCode={countryCode} />
         </div>
 
       {/* Geometry Diagram */}
