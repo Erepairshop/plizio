@@ -6,6 +6,7 @@ import ColumnMathDraft from "./ColumnMathDraft";
 import DivisionDraft from "./DivisionDraft";
 import MultiplicationDraft from "./MultiplicationDraft";
 import FreeDraftCanvas from "./FreeDraftCanvas";
+import { getDraftT } from "./draftI18n";
 
 // ─── TYPES ─────────────────────────────────────────────────
 
@@ -15,32 +16,31 @@ interface DraftPanelProps {
   testId: string;
   questionId: string;
   suggestedType?: DraftType;
+  countryCode?: string;
 }
-
-// ─── TAB DEFINITIONS ─────────────────────────────────────────
-
-const TABS: { type: DraftType; label: string; shortLabel: string; icon: React.ReactNode }[] = [
-  { type: "column", label: "Spalten", shortLabel: "+/-", icon: <Grid3X3 size={14} /> },
-  { type: "multiplication", label: "Multiplikation", shortLabel: "×", icon: <Multiply size={14} /> },
-  { type: "division", label: "Division", shortLabel: "÷", icon: <Divide size={14} /> },
-  { type: "free", label: "Freihand", shortLabel: "Skizze", icon: <PenTool size={14} /> },
-];
 
 // ─── MAIN COMPONENT ─────────────────────────────────────────
 
-function DraftPanel({ testId, questionId, suggestedType }: DraftPanelProps) {
+function DraftPanel({ testId, questionId, suggestedType, countryCode = "DE" }: DraftPanelProps) {
   const [activeType, setActiveType] = useState<DraftType>(suggestedType || "column");
+  const t = getDraftT(countryCode);
+
+  const TABS: { type: DraftType; label: string; shortLabel: string; icon: React.ReactNode }[] = [
+    { type: "column", label: t.tabColumn, shortLabel: t.tabColumnShort, icon: <Grid3X3 size={14} /> },
+    { type: "multiplication", label: t.tabMultiplication, shortLabel: "×", icon: <Multiply size={14} /> },
+    { type: "division", label: t.tabDivision, shortLabel: "÷", icon: <Divide size={14} /> },
+    { type: "free", label: t.tabFree, shortLabel: t.tabFreeShort, icon: <PenTool size={14} /> },
+  ];
 
   return (
     <div
       className="relative space-y-2"
       style={{
-        // No stacking context, no overlay, no z-index
         position: "relative",
         zIndex: "auto",
       }}
     >
-      {/* Tab bar - neutral colors that work in both dark and light contexts */}
+      {/* Tab bar */}
       <div className="flex gap-1 bg-gray-200/80 rounded-lg p-0.5">
         {TABS.map((tab) => (
           <button
@@ -64,19 +64,19 @@ function DraftPanel({ testId, questionId, suggestedType }: DraftPanelProps) {
         ))}
       </div>
 
-      {/* Active draft - always rendered relative, never absolute/fixed */}
+      {/* Active draft */}
       <div className="relative">
         {activeType === "column" && (
-          <ColumnMathDraft testId={testId} questionId={questionId} />
+          <ColumnMathDraft testId={testId} questionId={questionId} countryCode={countryCode} />
         )}
         {activeType === "multiplication" && (
-          <MultiplicationDraft testId={testId} questionId={questionId} />
+          <MultiplicationDraft testId={testId} questionId={questionId} countryCode={countryCode} />
         )}
         {activeType === "division" && (
-          <DivisionDraft testId={testId} questionId={questionId} />
+          <DivisionDraft testId={testId} questionId={questionId} countryCode={countryCode} />
         )}
         {activeType === "free" && (
-          <FreeDraftCanvas testId={testId} questionId={questionId} />
+          <FreeDraftCanvas testId={testId} questionId={questionId} countryCode={countryCode} />
         )}
       </div>
     </div>

@@ -9,6 +9,7 @@ import {
   type DrawStroke,
   type DrawPoint,
 } from "./DraftProvider";
+import { getDraftT } from "./draftI18n";
 
 // ─── PROPS ─────────────────────────────────────────────────
 
@@ -19,6 +20,7 @@ interface FreeDraftCanvasProps {
   width?: number;
   /** Canvas height (default 200) */
   height?: number;
+  countryCode?: string;
 }
 
 // ─── MAIN COMPONENT ─────────────────────────────────────────────
@@ -28,7 +30,9 @@ function FreeDraftCanvas({
   questionId,
   width = 300,
   height = 200,
+  countryCode = "DE",
 }: FreeDraftCanvasProps) {
+  const t = getDraftT(countryCode);
   const { getDraft, setDraft } = useDraft();
   const key = draftKey(testId, questionId);
 
@@ -186,13 +190,13 @@ function FreeDraftCanvas({
       {/* Header */}
       <div className="flex items-center justify-between mb-2">
         <span className="text-[10px] font-bold text-gray-400 uppercase tracking-wider">
-          Freihand
+          {t.freeHeader}
         </span>
         <div className="flex items-center gap-1">
           <button
             onClick={handleUndo}
             className="p-1.5 rounded bg-gray-50 text-gray-500 hover:bg-gray-100 transition-colors"
-            title="Visszavonás"
+            title={t.undo}
             disabled={strokes.length === 0}
           >
             <Undo2 size={14} />
@@ -200,7 +204,7 @@ function FreeDraftCanvas({
           <button
             onClick={handleClear}
             className="p-1.5 rounded bg-red-50 text-red-500 hover:bg-red-100 transition-colors"
-            title="Mindent töröl"
+            title={t.clearAll}
             disabled={strokes.length === 0}
           >
             <Trash2 size={14} />
@@ -221,9 +225,7 @@ function FreeDraftCanvas({
         onPointerLeave={handlePointerUp}
       />
 
-      <p className="mt-1 text-[10px] text-gray-400">
-        Rajzolj szabadon ujjal vagy egérrel
-      </p>
+      <p className="mt-1 text-[10px] text-gray-400">{t.freeHint}</p>
     </div>
   );
 }
