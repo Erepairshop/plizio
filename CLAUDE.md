@@ -947,6 +947,45 @@ A csillag (⭐) a játék fő valutája — a World rendszerben is ez a jutalom,
 
 ---
 
+## MULTIPLAYER VÍZIÓ — Host multiplayer rendszer
+
+> Prioritás: HOSSZÚ TÁV — előbb 30 játék + World map, aztán multiplayer
+> Technológia: Supabase Realtime (már van Supabase integráció!)
+
+### Koncepció
+- Host létrehoz egy szobát → 4 jegyű kód (pl. "PL42")
+- Barátok beírják a kódot → csatlakoznak (max 8 fő)
+- Host elindítja → mindenki ugyanazt játssza egyszerre
+- Valós idejű leaderboard Supabase Realtime-on keresztül
+
+### Supabase tábla terv
+```
+game_rooms:
+  - room_code: string (4 kar, unique)
+  - host_id: string
+  - game_type: string
+  - state: "waiting" | "playing" | "finished"
+  - players: JSON { id, name, score, progress }
+  - created_at: timestamp (TTL: 2 óra után törölhető)
+```
+
+### Játékok multiplayer sorrendje (legegyszerűbbtől)
+| # | Játék | Forma | Komplexitás |
+|---|-------|-------|-------------|
+| 1 | Quick Pick | Ki kattint előbb | alacsony |
+| 2 | Math Test | Ugyanaz a kérdés, ki válaszol gyorsabban | alacsony |
+| 3 | Word Scramble | Ugyanaz a szó, race | alacsony |
+| 4 | Reflex Rush | Ugyanaz a grid, külön score | közepes |
+| 5 | Number Rush | Ugyanaz a rács | közepes |
+
+### Megvalósítás fázisai
+1. Supabase `game_rooms` tábla + Realtime subscribe
+2. Room create/join UI (`/multiplayer` lobby oldal)
+3. Quick Pick multiplayer (első játék)
+4. Ha stabil → kiterjesztés a többi játékra
+
+---
+
 ## OKTATÁSI PLATFORM VÍZIÓ — Globális tantárgy + nyelv bővítés
 
 > Ritmus: 1-2 nap/hét párhuzamosan a játékfejlesztéssel
