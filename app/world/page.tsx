@@ -512,6 +512,375 @@ function HeatShimmer() {
   );
 }
 
+/* ─── AURORA BOREALIS ─── */
+function Aurora() {
+  return (
+    <g opacity="0.35">
+      {/* Green aurora band */}
+      <motion.path
+        d="M 0,20 Q 60,5 120,18 Q 200,35 280,12 Q 340,0 400,22"
+        fill="none"
+        stroke="#00FF88"
+        strokeWidth={8}
+        strokeLinecap="round"
+        animate={{
+          d: [
+            "M 0,20 Q 60,5 120,18 Q 200,35 280,12 Q 340,0 400,22",
+            "M 0,28 Q 60,15 120,28 Q 200,10 280,25 Q 340,8 400,18",
+            "M 0,20 Q 60,5 120,18 Q 200,35 280,12 Q 340,0 400,22",
+          ],
+          opacity: [0.3, 0.5, 0.3],
+        }}
+        transition={{ duration: 8, repeat: Infinity, ease: "easeInOut" }}
+      />
+      {/* Purple aurora band */}
+      <motion.path
+        d="M 0,35 Q 80,20 160,38 Q 240,50 320,28 Q 380,18 400,36"
+        fill="none"
+        stroke="#B44DFF"
+        strokeWidth={6}
+        strokeLinecap="round"
+        animate={{
+          d: [
+            "M 0,35 Q 80,20 160,38 Q 240,50 320,28 Q 380,18 400,36",
+            "M 0,40 Q 80,30 160,42 Q 240,22 320,38 Q 380,28 400,32",
+            "M 0,35 Q 80,20 160,38 Q 240,50 320,28 Q 380,18 400,36",
+          ],
+          opacity: [0.2, 0.4, 0.2],
+        }}
+        transition={{ duration: 10, repeat: Infinity, ease: "easeInOut", delay: 1 }}
+      />
+      {/* Cyan aurora shimmer */}
+      <motion.path
+        d="M 0,12 Q 100,0 200,15 Q 300,28 400,8"
+        fill="none"
+        stroke="#00D4FF"
+        strokeWidth={4}
+        strokeLinecap="round"
+        animate={{
+          opacity: [0.15, 0.35, 0.15],
+          d: [
+            "M 0,12 Q 100,0 200,15 Q 300,28 400,8",
+            "M 0,18 Q 100,8 200,22 Q 300,10 400,15",
+            "M 0,12 Q 100,0 200,15 Q 300,28 400,8",
+          ],
+        }}
+        transition={{ duration: 7, repeat: Infinity, ease: "easeInOut", delay: 2 }}
+      />
+    </g>
+  );
+}
+
+/* ─── FLOATING CLOUDS ─── */
+function FloatingClouds() {
+  const clouds = [
+    { y: 50, w: 60, h: 16, dur: 28, delay: 0 },
+    { y: 180, w: 45, h: 12, dur: 34, delay: 8 },
+    { y: 320, w: 55, h: 14, dur: 26, delay: 4 },
+    { y: 440, w: 40, h: 11, dur: 32, delay: 12 },
+    { y: 560, w: 50, h: 13, dur: 30, delay: 6 },
+  ];
+  return (
+    <g>
+      {clouds.map((c, i) => (
+        <motion.g
+          key={`cloud${i}`}
+          animate={{ x: [-80, 480] }}
+          transition={{ duration: c.dur, repeat: Infinity, ease: "linear", delay: c.delay }}
+        >
+          <ellipse cx={0} cy={c.y} rx={c.w / 2} ry={c.h / 2} fill="white" opacity="0.04" />
+          <ellipse cx={-c.w * 0.3} cy={c.y + 3} rx={c.w * 0.3} ry={c.h * 0.35} fill="white" opacity="0.03" />
+          <ellipse cx={c.w * 0.3} cy={c.y + 2} rx={c.w * 0.35} ry={c.h * 0.4} fill="white" opacity="0.035" />
+        </motion.g>
+      ))}
+    </g>
+  );
+}
+
+/* ─── SEA CREATURES ─── */
+function SeaCreatures() {
+  return (
+    <>
+      {/* Whale shadow - slow drift */}
+      <motion.g
+        animate={{ x: [-60, 460] }}
+        transition={{ duration: 45, repeat: Infinity, ease: "linear", delay: 5 }}
+      >
+        <ellipse cx={0} cy={250} rx={22} ry={8} fill="rgba(10,40,80,0.4)" />
+        <ellipse cx={-18} cy={250} rx={5} ry={3} fill="rgba(10,40,80,0.3)" />
+        <path d="M 22,250 Q 28,244 32,250 Q 28,256 22,250" fill="rgba(10,40,80,0.35)" />
+      </motion.g>
+      {/* Small fish school 1 */}
+      <motion.g
+        animate={{ x: [420, -50] }}
+        transition={{ duration: 22, repeat: Infinity, ease: "linear", delay: 2 }}
+      >
+        {[0, 8, 4, 12, 6].map((dx, j) => (
+          <g key={`fs1-${j}`}>
+            <ellipse cx={dx} cy={420 + (j % 3) * 6} rx={3} ry={1.5} fill="rgba(80,180,255,0.2)" />
+            <polygon points={`${dx + 3},${420 + (j % 3) * 6 - 1} ${dx + 5},${420 + (j % 3) * 6} ${dx + 3},${420 + (j % 3) * 6 + 1}`} fill="rgba(80,180,255,0.15)" />
+          </g>
+        ))}
+      </motion.g>
+      {/* Small fish school 2 */}
+      <motion.g
+        animate={{ x: [-40, 440] }}
+        transition={{ duration: 18, repeat: Infinity, ease: "linear", delay: 10 }}
+      >
+        {[0, 6, 3, 10].map((dx, j) => (
+          <g key={`fs2-${j}`}>
+            <ellipse cx={dx} cy={140 + (j % 2) * 5} rx={2.5} ry={1.2} fill="rgba(100,200,150,0.18)" />
+          </g>
+        ))}
+      </motion.g>
+      {/* Jellyfish */}
+      <motion.g
+        animate={{ y: [0, -15, 0], opacity: [0.15, 0.25, 0.15] }}
+        transition={{ duration: 6, repeat: Infinity, ease: "easeInOut" }}
+      >
+        <ellipse cx={32} cy={480} rx={6} ry={4} fill="rgba(180,100,255,0.15)" />
+        <path d="M 28,484 Q 28,492 26,496" stroke="rgba(180,100,255,0.1)" strokeWidth="0.8" fill="none" />
+        <path d="M 32,484 Q 32,494 32,498" stroke="rgba(180,100,255,0.1)" strokeWidth="0.8" fill="none" />
+        <path d="M 36,484 Q 36,492 38,496" stroke="rgba(180,100,255,0.1)" strokeWidth="0.8" fill="none" />
+      </motion.g>
+      {/* Sea turtle */}
+      <motion.g
+        animate={{ x: [380, -40] }}
+        transition={{ duration: 55, repeat: Infinity, ease: "linear", delay: 15 }}
+      >
+        <ellipse cx={0} cy={350} rx={7} ry={5} fill="rgba(60,140,80,0.2)" />
+        <circle cx={-6} cy={349} r={2.5} fill="rgba(60,140,80,0.18)" />
+        {/* Flippers */}
+        <ellipse cx={-4} cy={345} rx={3} ry={1.2} fill="rgba(60,140,80,0.15)" transform="rotate(-20 -4 345)" />
+        <ellipse cx={-4} cy={355} rx={3} ry={1.2} fill="rgba(60,140,80,0.15)" transform="rotate(20 -4 355)" />
+      </motion.g>
+    </>
+  );
+}
+
+/* ─── ZONE WEATHER PARTICLES ─── */
+function MountainSnow() {
+  const flakes = Array.from({ length: 12 }, (_, i) => ({
+    x: 70 + (i * 11) % 80,
+    delay: i * 0.4,
+    dur: 2.5 + (i % 3) * 0.5,
+    r: 0.6 + (i % 3) * 0.3,
+  }));
+  return (
+    <>
+      {flakes.map((f, i) => (
+        <motion.circle
+          key={`snow${i}`}
+          cx={f.x} r={f.r}
+          fill="white"
+          animate={{
+            cy: [50, 135],
+            opacity: [0.8, 0],
+            cx: [f.x, f.x + (i % 2 === 0 ? 4 : -4)],
+          }}
+          transition={{ duration: f.dur, repeat: Infinity, ease: "linear", delay: f.delay }}
+        />
+      ))}
+    </>
+  );
+}
+
+function ForestLeaves() {
+  const leaves = [
+    { x: 100, y: 340, rot: 0 }, { x: 130, y: 350, rot: 45 },
+    { x: 85, y: 360, rot: 90 }, { x: 145, y: 345, rot: 30 },
+    { x: 115, y: 355, rot: 60 },
+  ];
+  return (
+    <>
+      {leaves.map((l, i) => (
+        <motion.ellipse
+          key={`leaf${i}`}
+          rx={2} ry={1}
+          fill="#6ABF4A"
+          animate={{
+            cx: [l.x, l.x + 15, l.x + 25],
+            cy: [l.y, l.y + 20, l.y + 40],
+            opacity: [0.6, 0.4, 0],
+            rotate: [l.rot, l.rot + 180, l.rot + 360],
+          }}
+          transition={{ duration: 4 + i * 0.5, repeat: Infinity, ease: "easeOut", delay: i * 1.5 }}
+        />
+      ))}
+    </>
+  );
+}
+
+function DesertSand() {
+  return (
+    <>
+      {[0, 1, 2, 3].map(i => (
+        <motion.line
+          key={`sand${i}`}
+          y1={470 + i * 15} y2={470 + i * 15}
+          stroke="rgba(210,180,100,0.12)"
+          strokeWidth={0.8}
+          animate={{
+            x1: [190, 290],
+            x2: [200, 300],
+            opacity: [0, 0.2, 0],
+          }}
+          transition={{ duration: 3, repeat: Infinity, ease: "easeInOut", delay: i * 0.8 }}
+        />
+      ))}
+    </>
+  );
+}
+
+function VolcanoEmbers() {
+  const embers = [
+    { x: 338, y: 548 }, { x: 342, y: 546 }, { x: 336, y: 550 },
+    { x: 340, y: 544 }, { x: 344, y: 552 }, { x: 334, y: 548 },
+  ];
+  return (
+    <>
+      {embers.map((e, i) => (
+        <motion.circle
+          key={`ember${i}`}
+          r={0.8 + (i % 3) * 0.3}
+          fill={i % 2 === 0 ? "#FFAA00" : "#FF5500"}
+          animate={{
+            cx: [e.x, e.x + (i % 2 === 0 ? 6 : -6)],
+            cy: [e.y, e.y - 25 - i * 5],
+            opacity: [0.9, 0],
+            r: [0.8 + (i % 3) * 0.3, 0.2],
+          }}
+          transition={{ duration: 1.5 + i * 0.3, repeat: Infinity, ease: "easeOut", delay: i * 0.5 }}
+        />
+      ))}
+    </>
+  );
+}
+
+function OceanBubbles() {
+  const bubbles = [
+    { x: 270, y: 195 }, { x: 310, y: 185 }, { x: 290, y: 200 },
+    { x: 325, y: 170 }, { x: 265, y: 175 },
+  ];
+  return (
+    <>
+      {bubbles.map((b, i) => (
+        <motion.circle
+          key={`ob${i}`}
+          cx={b.x}
+          r={1 + (i % 2) * 0.5}
+          fill="none"
+          stroke="rgba(255,255,255,0.25)"
+          strokeWidth={0.6}
+          animate={{
+            cy: [b.y, b.y - 20],
+            opacity: [0.3, 0],
+          }}
+          transition={{ duration: 2 + i * 0.3, repeat: Infinity, ease: "easeOut", delay: i * 1.2 }}
+        />
+      ))}
+    </>
+  );
+}
+
+/* ─── LOCKED ZONE FOG ─── */
+function LockedFog({ path, unlocked }: { path: string; unlocked: boolean }) {
+  if (unlocked) return null;
+  return (
+    <g>
+      <motion.path
+        d={path}
+        fill="rgba(10,10,30,0.6)"
+        animate={{ opacity: [0.5, 0.7, 0.5] }}
+        transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
+      />
+      {/* Swirling fog wisps */}
+      <motion.path
+        d={path}
+        fill="none"
+        stroke="rgba(100,100,140,0.15)"
+        strokeWidth={3}
+        strokeDasharray="8 12"
+        animate={{ strokeDashoffset: [0, -40] }}
+        transition={{ duration: 6, repeat: Infinity, ease: "linear" }}
+      />
+    </g>
+  );
+}
+
+/* ─── ENERGY TRAIL ON COMPLETED ROAD ─── */
+function EnergyTrail({ completedZones }: { completedZones: string[] }) {
+  return (
+    <>
+      {ROAD_SEGS.map((seg, i) => {
+        const show = completedZones.includes(WORLD_ZONES[i].id);
+        if (!show) return null;
+        const zone = WORLD_ZONES[i];
+        return (
+          <g key={`energy-${i}`}>
+            {/* Pulsing energy dot traveling along path */}
+            <motion.circle
+              r={3}
+              fill={zone.color}
+              opacity={0.8}
+              style={{ filter: `drop-shadow(0 0 4px ${zone.color})` }}
+            >
+              <animateMotion
+                dur="3s"
+                repeatCount="indefinite"
+                path={seg}
+              />
+            </motion.circle>
+            {/* Second dot offset */}
+            <motion.circle
+              r={2}
+              fill={zone.color}
+              opacity={0.5}
+            >
+              <animateMotion
+                dur="3s"
+                repeatCount="indefinite"
+                path={seg}
+                begin="1.5s"
+              />
+            </motion.circle>
+          </g>
+        );
+      })}
+    </>
+  );
+}
+
+/* ─── COMPASS ROSE ─── */
+function CompassRose() {
+  return (
+    <motion.g
+      initial={{ opacity: 0, scale: 0.5 }}
+      animate={{ opacity: 1, scale: 1 }}
+      transition={{ delay: 1.5, duration: 0.6 }}
+    >
+      <g transform="translate(375, 620)" opacity="0.3">
+        {/* Outer ring */}
+        <circle cx="0" cy="0" r="14" fill="none" stroke="rgba(255,255,255,0.2)" strokeWidth="0.8" />
+        {/* Cardinal points */}
+        <polygon points="0,-12 -2,-4 2,-4" fill="#FFD700" opacity="0.6" />
+        <polygon points="0,12 -2,4 2,4" fill="rgba(255,255,255,0.3)" />
+        <polygon points="-12,0 -4,-2 -4,2" fill="rgba(255,255,255,0.3)" />
+        <polygon points="12,0 4,-2 4,2" fill="rgba(255,255,255,0.3)" />
+        {/* Diagonal points */}
+        <line x1="-8" y1="-8" x2="-3" y2="-3" stroke="rgba(255,255,255,0.15)" strokeWidth="0.6" />
+        <line x1="8" y1="-8" x2="3" y2="-3" stroke="rgba(255,255,255,0.15)" strokeWidth="0.6" />
+        <line x1="-8" y1="8" x2="-3" y2="3" stroke="rgba(255,255,255,0.15)" strokeWidth="0.6" />
+        <line x1="8" y1="8" x2="3" y2="3" stroke="rgba(255,255,255,0.15)" strokeWidth="0.6" />
+        {/* Center dot */}
+        <circle cx="0" cy="0" r="1.5" fill="#FFD700" opacity="0.5" />
+        {/* N label */}
+        <text x="0" y="-16" textAnchor="middle" fontSize="5" fill="#FFD700" opacity="0.5" fontWeight="bold">N</text>
+      </g>
+    </motion.g>
+  );
+}
+
 export default function WorldPage() {
   const [completedZones, setCompletedZones] = useState<string[]>([]);
   const [selected, setSelected] = useState<number | null>(null);
@@ -625,8 +994,17 @@ export default function WorldPage() {
           {/* Ocean background */}
           <rect x="0" y="0" width="400" height="640" fill="url(#waterGrad)" />
 
+          {/* Aurora borealis */}
+          <Aurora />
+
           {/* Water animation */}
           <WaterWaves />
+
+          {/* Floating clouds */}
+          <FloatingClouds />
+
+          {/* Sea creatures */}
+          <SeaCreatures />
 
           {/* Static stars */}
           {STATIC_STARS.map((s, i) => (
@@ -683,18 +1061,28 @@ export default function WorldPage() {
             );
           })}
 
+          {/* Locked zone fog overlay */}
+          {ISLAND_PATHS.map((d, i) => (
+            <LockedFog key={`fog-${i}`} path={d} unlocked={isZoneUnlocked(i, completedZones)} />
+          ))}
+
           {/* Detailed terrain decorations per zone */}
           <MountainDetail />
+          <MountainSnow />
           <OceanDetail />
           <LighthouseBeam />
+          <OceanBubbles />
           <CityDetail />
           <CityLightsBlink />
           <ForestDetail />
           <Fireflies />
+          <ForestLeaves />
           <HeatShimmer />
+          <DesertSand />
           <DesertDetail />
           <VolcanoDetail />
           <VolcanoSmoke />
+          <VolcanoEmbers />
           <LavaGlow />
 
           {/* Completed road segments (colored glow) */}
@@ -745,6 +1133,9 @@ export default function WorldPage() {
             animate={{ pathLength: 1, opacity: 1 }}
             transition={{ duration: 2.4, ease: "easeInOut", delay: 0.2 }}
           />
+
+          {/* Energy trail on completed roads */}
+          <EnergyTrail completedZones={completedZones} />
 
           {/* Progress character */}
           {completedZones.length > 0 && (
@@ -850,6 +1241,9 @@ export default function WorldPage() {
               </motion.g>
             );
           })}
+
+          {/* Compass rose */}
+          <CompassRose />
         </svg>
       </div>
 
