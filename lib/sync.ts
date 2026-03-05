@@ -56,6 +56,11 @@ export async function uploadToSupabase(userId: string): Promise<void> {
 
   if (error) throw error;
 
+  // Clear dirty flag – server now has the correct balance
+  if (typeof window !== "undefined") {
+    localStorage.removeItem("plizio_stars_dirty");
+  }
+
   // Upload cards – upsert current, then delete any server cards no longer local
   const cards = getCards();
   const localIds = new Set(cards.map((c: GameCard) => c.id));
@@ -139,10 +144,13 @@ export async function downloadFromSupabase(userId: string): Promise<void> {
     }));
   }
 
-  // Special cards: take higher
+  // Special cards: if locally modified (dirty), keep local; otherwise take higher from server
   const currentSpecial = getSpecialCardCount();
-  const mergedSpecial = Math.max(currentSpecial, data.special_cards || 0);
-  localStorage.setItem("plizio_special_cards", mergedSpecial.toString());
+  const starsDirty = localStorage.getItem("plizio_stars_dirty") === "1";
+  if (!starsDirty) {
+    const mergedSpecial = Math.max(currentSpecial, data.special_cards || 0);
+    localStorage.setItem("plizio_special_cards", mergedSpecial.toString());
+  }
 
   // Skins: merge (union)
   const currentSkins = getOwnedSkins();
