@@ -2,11 +2,10 @@
 
 import { motion } from "framer-motion";
 
-// ─── ICON MARK ────────────────────────────────────────────────────────────────
-// Rounded dark square · geometric P · lightning bolt in bowl · neon glow
+// ─── ICON MARK ─────────────────────────────────────────────────────────────────
+// Rounded square · gradient bg (blue→purple) · bold white P (open bowl) · white arrow
 
 export function PlizioMark({ size = 64, className = "" }: { size?: number; className?: string }) {
-  const id = "pm"; // short unique prefix for gradient IDs
   return (
     <svg
       viewBox="0 0 100 100"
@@ -17,30 +16,21 @@ export function PlizioMark({ size = 64, className = "" }: { size?: number; class
       aria-label="Plizio"
     >
       <defs>
-        {/* Background gradient */}
-        <linearGradient id={`${id}-bg`} x1="0" y1="0" x2="1" y2="1">
-          <stop offset="0%" stopColor="#12122e" />
-          <stop offset="100%" stopColor="#0A0A1A" />
+        {/* Background: electric blue → deep purple */}
+        <linearGradient id="pm-bg" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%"   stopColor="#2C6FFF" />
+          <stop offset="100%" stopColor="#8833EE" />
         </linearGradient>
 
-        {/* Lightning bolt gradient */}
-        <linearGradient id={`${id}-bolt`} x1="0" y1="0" x2="0" y2="1">
-          <stop offset="0%" stopColor="#00D4FF" />
-          <stop offset="100%" stopColor="#B44DFF" />
-        </linearGradient>
-
-        {/* Glow filter */}
-        <filter id={`${id}-glow`} x="-50%" y="-50%" width="200%" height="200%">
-          <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="blur" />
-          <feMerge>
-            <feMergeNode in="blur" />
-            <feMergeNode in="SourceGraphic" />
-          </feMerge>
+        {/* Subtle drop shadow on the P */}
+        <filter id="pm-pshadow" x="-15%" y="-15%" width="130%" height="130%">
+          <feDropShadow dx="1" dy="2" stdDeviation="2.5"
+            floodColor="#000066" floodOpacity="0.30" />
         </filter>
 
-        {/* Border glow */}
-        <filter id={`${id}-border-glow`} x="-20%" y="-20%" width="140%" height="140%">
-          <feGaussianBlur in="SourceGraphic" stdDeviation="1.5" result="blur" />
+        {/* Soft glow on arrow */}
+        <filter id="pm-glow" x="-60%" y="-60%" width="220%" height="220%">
+          <feGaussianBlur in="SourceGraphic" stdDeviation="2.2" result="blur" />
           <feMerge>
             <feMergeNode in="blur" />
             <feMergeNode in="SourceGraphic" />
@@ -49,53 +39,52 @@ export function PlizioMark({ size = 64, className = "" }: { size?: number; class
       </defs>
 
       {/* ── Background ── */}
-      <rect width="100" height="100" rx="22" fill={`url(#${id}-bg)`} />
+      <rect width="100" height="100" rx="20" fill="url(#pm-bg)" />
 
-      {/* ── Neon border ── */}
-      <rect
-        width="100" height="100" rx="22"
-        fill="none"
-        stroke="#00D4FF"
-        strokeWidth="2"
-        opacity="0.25"
-        filter={`url(#${id}-border-glow)`}
-      />
-
-      {/* ── P letter (solid geometric, no inner hole — bolt fills it) ──
-          Stem: x 14–38, y 12–88
-          Bowl: center (38, 36), outer r=24
-            top  = (38, 12)
-            bottom = (38, 60)
-            rightmost = (62, 36)
+      {/* ── Bold white P with open bowl (fill-rule evenodd) ──
+          Outer silhouette:
+            stem  x 11–40, y 12–90
+            bowl  center(40,38) outer-r=26 → top(40,12) bottom(40,64) right(66,38)
+          Inner hole (D-shape, right half of circle):
+            center(40,34) r=12 → top(40,22) bottom(40,46) rightmost(52,34)
+            Path: arc CW from top to bottom, close with straight line back
       */}
       <path
-        d="M 14,88 L 38,88 L 38,60 A 24,24 0 0,1 38,12 L 14,12 Z"
+        fillRule="evenodd"
         fill="white"
-        opacity="0.96"
+        filter="url(#pm-pshadow)"
+        d="
+          M 11,12 L 40,12 A 26,26 0 0,1 40,64 L 40,90 L 11,90 Z
+          M 40,22 A 12,12 0 0,1 40,46 L 40,22 Z
+        "
       />
 
-      {/* ── Lightning bolt (inside the P bowl, x≈42-62, y≈16-58) ──
-          Classic Z-shape pointing downward, confined to the semicircle.
+      {/* ── White arrow: lower-left (27,76) → upper-right (78,20) ──
+          Direction unit vec  ≈ (0.68, -0.73)
+          Perp unit vec       ≈ (0.73,  0.68)
+          Arrow body ends 12px before tip.
+          Arrowhead: apex(78,20), base-L(66,26), base-R(74,33)
       */}
-      <polygon
-        points="58,20 45,41 53,41 42,62 56,40 48,40"
-        fill={`url(#${id}-bolt)`}
-        filter={`url(#${id}-glow)`}
-      />
-
-      {/* ── Accent sparkles ── */}
-      <circle cx="74" cy="18" r="2.2" fill="#FF2D78" opacity="0.75" />
-      <circle cx="83" cy="36" r="1.6" fill="#00FF88" opacity="0.7" />
-      <circle cx="78" cy="56" r="1.8" fill="#FFD700" opacity="0.65" />
-      <circle cx="68" cy="72" r="1.4" fill="#B44DFF" opacity="0.6" />
+      <g filter="url(#pm-glow)" opacity="0.96">
+        {/* Body */}
+        <line
+          x1="27" y1="76"
+          x2="70" y2="29"
+          stroke="white"
+          strokeWidth="5.5"
+          strokeLinecap="round"
+        />
+        {/* Head */}
+        <polygon points="78,20 66,26 74,33" fill="white" />
+      </g>
     </svg>
   );
 }
 
-// ─── FULL LOGO (icon + wordmark + tagline) ────────────────────────────────────
+// ─── FULL LOGO (homepage) ─────────────────────────────────────────────────────
 
 const LETTER_COLORS = ["#FF2D78", "#00D4FF", "#00FF88", "#FFD700", "#B44DFF", "#FF2D78"];
-const LETTERS = ["P", "L", "I", "Z", "I", "O"];
+const LETTERS      = ["P", "L", "I", "Z", "I", "O"];
 
 export default function Logo() {
   return (
@@ -107,12 +96,12 @@ export default function Logo() {
     >
       {/* Icon mark */}
       <motion.div
-        initial={{ scale: 0, rotate: -20 }}
+        initial={{ scale: 0, rotate: -15 }}
         animate={{ scale: 1, rotate: 0 }}
-        transition={{ type: "spring", stiffness: 180, damping: 14, delay: 0.1 }}
-        style={{ filter: "drop-shadow(0 0 22px rgba(0,212,255,0.45))" }}
+        transition={{ type: "spring", stiffness: 175, damping: 14, delay: 0.1 }}
+        style={{ filter: "drop-shadow(0 0 26px rgba(44,111,255,0.55))" }}
       >
-        <PlizioMark size={88} />
+        <PlizioMark size={92} />
       </motion.div>
 
       {/* Wordmark */}
