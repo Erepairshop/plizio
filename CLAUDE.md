@@ -947,42 +947,223 @@ A csillag (⭐) a játék fő valutája — a World rendszerben is ez a jutalom,
 
 ---
 
-## MULTIPLAYER VÍZIÓ — Host multiplayer rendszer
+## MULTIPLAYER VÍZIÓ — Plizio Match rendszer
 
 > Prioritás: HOSSZÚ TÁV — előbb 30 játék + World map, aztán multiplayer
 > Technológia: Supabase Realtime (már van Supabase integráció!)
 
-### Koncepció
-- Host létrehoz egy szobát → 4 jegyű kód (pl. "PL42")
-- Barátok beírják a kódot → csatlakoznak (max 8 fő)
-- Host elindítja → mindenki ugyanazt játssza egyszerre
-- Valós idejű leaderboard Supabase Realtime-on keresztül
+---
 
-### Supabase tábla terv
+### Alapkoncepció — "Plizio Match"
+
+Nem sima szoba+kód rendszer, hanem **teljes meccs több körrel, kevert játékokkal**.
+
 ```
-game_rooms:
-  - room_code: string (4 kar, unique)
-  - host_id: string
-  - game_type: string
-  - state: "waiting" | "playing" | "finished"
-  - players: JSON { id, name, score, progress }
-  - created_at: timestamp (TTL: 2 óra után törölhető)
+Match = 3-5 kör, minden kör más játék
+
+Kör 1: Quick Pick (60s)         → eredmény → avatár reakció (😄 / 😢)
+Kör 2: Kodex (1 szint)          → eredmény → avatár reakció
+Kör 3: Math Test (5 kérdés)     → eredmény → avatár reakció
+──────────────────────────────────────────────────────────
+Végeredmény: összpontszám → multipontok kiosztva
 ```
 
-### Játékok multiplayer sorrendje (legegyszerűbbtől)
-| # | Játék | Forma | Komplexitás |
-|---|-------|-------|-------------|
-| 1 | Quick Pick | Ki kattint előbb | alacsony |
-| 2 | Math Test | Ugyanaz a kérdés, ki válaszol gyorsabban | alacsony |
-| 3 | Word Scramble | Ugyanaz a szó, race | alacsony |
-| 4 | Reflex Rush | Ugyanaz a grid, külön score | közepes |
-| 5 | Number Rush | Ugyanaz a rács | közepes |
+**Miért jobb mint sima szoba?**
+- Változatos → nem egyforma minden meccs
+- Különböző játékok különböző erősségeket tesztelnek (fair)
+- Avatar reakciók drámai feszültséget adnak
+- "Rematch?" gomb + közelharcos meccsekben bónusz
 
-### Megvalósítás fázisai
-1. Supabase `game_rooms` tábla + Realtime subscribe
-2. Room create/join UI (`/multiplayer` lobby oldal)
-3. Quick Pick multiplayer (első játék)
-4. Ha stabil → kiterjesztés a többi játékra
+---
+
+### Kihívás rendszer — névvel, nem kóddal
+
+**Flow:**
+```
+1. rs megnyitja /multiplayer → beiratkozik online_players-be (name="rs")
+2. Látja az online játékosok listáját
+3. rs begépeli: "xy" → "Kihívás küldése" gomb
+
+4. xy-nál popup jelenik meg (Supabase Realtime):
+   ┌──────────────────────────────┐
+   │  rs kihívott!                │
+   │  Játék: Plizio Match (3 kör) │
+   │  [Elfogad]     [Elutasít]    │
+   └──────────────────────────────┘
+
+5a. Elfogad → mindkettő átmegy a match-be → indul
+5b. Elutasít → rs-nél "xy elutasította" üzenet
+5c. 30s timeout → auto decline
+```
+
+---
+
+### Supabase táblák
+
+```sql
+-- Online jelenlét (TTL: 5 perc ping nélkül)
+online_players:
+  name         string   UNIQUE
+  session_id   string
+  last_seen    timestamp
+  current_game string | null
+
+-- Kihívás (TTL: 30s)
+challenges:
+  id           uuid
+  from_name    string
+  to_name      string
+  game_type    string   -- "plizio_match"
+  status       "pending" | "accepted" | "declined" | "expired"
+  room_code    string
+  created_at   timestamp
+
+-- Meccs szoba
+match_rooms:
+  room_code    string   UNIQUE (4 kar)
+  player_a     string   -- kihívó neve
+  player_b     string   -- kihívott neve
+  state        "waiting" | "round_playing" | "round_result" | "finished"
+  current_round  number
+  rounds       JSON     -- GameRound[]
+  scores       JSON     -- { player_a: number, player_b: number }
+  seed         number   -- véletlenszerű seed → mindkét oldal ugyanazt generálja
+  created_at   timestamp
+```
+
+---
+
+### TypeScript típusok (tervezett)
+
+```ts
+interface MultiMatch {
+  roomCode: string
+  playerA: string        // kihívó
+  playerB: string        // kihívott
+  state: MatchState
+  currentRound: number
+  rounds: GameRound[]
+  scores: Record<string, number>   // összesített multipontok
+  seed: number                     // determinisztikus random
+}
+
+type MatchState = "waiting" | "round_playing" | "round_result" | "finished"
+
+interface GameRound {
+  game: MultiGame
+  duration: number      // másodperc
+  status: "waiting" | "playing" | "done"
+  scores: Record<string, number>   // kör pontszámai
+}
+
+type MultiGame = "quickpick" | "mathtest" | "wordscramble" | "reflexrush" | "numberrush"
+```
+
+---
+
+### Meccs kör sorrend — játék pool
+
+**Kezdeti pool (közepes komplexitás, könnyen szinkronizálható):**
+
+| Játék | Forma | Sync módszer | Komplexitás |
+|-------|-------|-------------|-------------|
+| Quick Pick | Ki kattint előbb | seed → ugyanaz a kép sorrend | alacsony |
+| Math Test | Ki válaszol előbb | seed → ugyanaz a kérdések | alacsony |
+| Word Scramble | Ugyanaz a szó, race | seed → ugyanaz a szó | alacsony |
+| Reflex Rush | Saját score, végén összehasonlítás | seed → ugyanaz a spawn sorrend | közepes |
+| Number Rush | Saját score, végén összehasonlítás | seed → ugyanaz a grid | közepes |
+
+**Seed alapú sync — KRITIKUS:**
+- Minden meccshez 1 seed generálódik (random number)
+- Mindkét kliens ugyanabból a seed-ből generálja a kérdéseket/grideket
+- → Nincs szerver-oldali game logic, csak eredmény sync!
+
+---
+
+### Meccs közi Avatar reakció screen
+
+```
+┌───────────────────────────────────────────┐
+│         Kör 1 eredménye: Quick Pick       │
+│                                           │
+│   rs  [avatar 😄]        [avatar 😢]  xy  │
+│        +3 pont              +1 pont       │
+│                                           │
+│   Összesítés:   rs  3  —  1  xy           │
+│                                           │
+│         Következő kör: Kodex...  3s       │
+└───────────────────────────────────────────┘
+```
+
+- Mindkét avatar Supabase-ből szinkronizált (ugyanaz jelenik meg mindkét képernyőn)
+- mood: győztes → `"victory"`, vesztes → `"disappointed"`, döntetlen → `"surprised"`
+- 3 másodperc várakozás, aztán auto-start
+
+---
+
+### Pontozás — Multipontok
+
+```
+Kör győzelem:              +2 multipont
+Meccs győzelem:            +5 multipont
+Perfect kör (hibátlan):    +1 bónusz multipont
+Szoros meccs (≤1 pont):    +1 bónusz MINDKETTŐNEK
+Részvétel (akár veszít):   +1 multipont (ne legyen demotiváló!)
+
+Multipontból csillag:
+  10 multipont = 1 ⭐
+  (kártyából összehasonlítva: 30 bronz = 1 ⭐  →  multipont ~1.5× értékesebb)
+```
+
+**localStorage kulcs:** `plizio_multipoints: number`
+**Supabase:** `multi_stats` tábla → `total_multipoints, wins, losses, matches_played`
+
+---
+
+### Ismert problémák és megoldások
+
+| Probléma | Megoldás |
+|----------|---------|
+| **Kapcsolat megszakad meccs közben** | 30s timeout → automatikus win a bent maradónak + fél multipontok |
+| **Aszimmetrikus ping** (egyik lassabb) | Round timer szerver-oldalon indul (match_rooms.round_start_at) |
+| **Ugyanaz a kérdés kellene** | Seed alapú generálás → kliens-oldalon reprodukálható |
+| **Játékos offline mire challenge érkezik** | `last_seen` alapján: ha >2 perc → "nem elérhető" jelzés |
+| **Meccs közbeni cheat** (score manipulálás) | Nincs szerver-validáció egyelőre (trusted client) — elég kezdetnek |
+| **Supabase free tier limit** | Realtime: 200 concurrent connections — bőven elég kezdetnek |
+| **Mobil háttérbe kerül (iOS Safari)** | `visibilitychange` event → pause + értesítés a másik félnek |
+| **Round timer desync** | `round_start_at` timestamp Supabase-ben → kliens kiszámolja a maradékot |
+
+---
+
+### UI route struktúra
+
+```
+/multiplayer               → Lobby (online játékosok, kihívás küldés)
+/multiplayer/match/[code]  → Aktív meccs (körök + avatar reakciók + eredmény)
+```
+
+**Lobby screen állapotok:**
+```ts
+type LobbyState =
+  | "idle"              // nincs aktív kihívás
+  | "challenging"       // kihívás elküldve, várjuk a választ
+  | "incoming"          // beérkező kihívás popup
+  | "connecting"        // elfogadva, meccs töltődik
+```
+
+---
+
+### Megvalósítás fázisai (sorrendben)
+
+1. **Supabase táblák** — `online_players`, `challenges`, `match_rooms` létrehozása
+2. **Online presence** — `/multiplayer` lobby + ping loop (30s)
+3. **Challenge flow** — küldés, fogadás, elfogadás/elutasítás (Realtime)
+4. **Quick Pick multi** — első kör, seed sync, eredmény feltöltés
+5. **Avatar reakció screen** — közte megjelenő összesítő
+6. **Meccs struktúra** — 3 kör kevert játékokkal
+7. **Multipontok** — kiosztás + megjelenítés a profilon/dashboardon
+8. **Disconnect handling** — timeout logika
+9. **Rematch gomb** — meccs végén
 
 ---
 
