@@ -891,8 +891,9 @@ A csillag (⭐) a játék fő valutája — a World rendszerben is ez a jutalom,
 ## HETI SPRINT TERV
 
 > Utoljára frissítve: 2026-03-05
-> Pro Max kapacitás: ~2-3 deliverable/nap | ~15-18 item/hét
-> Komplex játék (10 szintes expedíció): ~2-3 óra | Egyszerű játék: ~1-1.5 óra | Lib/fix: ~30 perc
+> Reális kapacitás: ~1-2 nagy dolog/nap | ~5-7 item/hét
+> Referencia: a teljes jelenlegi Plizio (18 játék + shop + avatar) ~10 nap alatt épült
+> Komplex játék (10 szintes expedíció): ~1 nap | Egyszerű játék: ~fél nap | Lib/fix: ~30 perc
 
 ### Becslési kategóriák
 | Méret | Példa | Idő |
@@ -911,32 +912,29 @@ A csillag (⭐) a játék fő valutája — a World rendszerben is ez a jutalom,
 - [x] Gazdasági audit (árak, bevételek, arányok elemzése)
 - [x] Heti sprint terv megírása CLAUDE.md-be
 
-#### Nap 2 (márc. 6) — Gazdaság + fix [~3 óra]
-- [ ] **XS** Csillag-gazdaság: árak felfelé tolása (skins max 40⭐, cape 35⭐, trail 25⭐ stb.) → teljes shop ~1100-1200⭐
+#### Nap 2 (márc. 6) — Gazdaság + RewardReveal fix [~1 nap]
+- [ ] **XS** Csillag-gazdaság: árak felfelé tolása (skins max 40⭐, cape 35⭐, trail 25⭐) → teljes shop ~1100-1200⭐
 - [ ] **S** Napi bejelentkezési jutalom rendszer (`lib/dailyReward.ts` + UI popup)
-- [ ] **XS** Streak milestone-ok: napi streak 7/14/30 nap jutalmak
-- [ ] **XS** RewardReveal flow fix: reflexrush + numberrush (inline kártya doboz eltávolítása)
+- [ ] **XS** Streak milestone-ok hozzáadása (7/14/30 nap)
+- [ ] **XS** RewardReveal flow fix: reflexrush + numberrush + sequencerush + wordhunt
 
-#### Nap 3 (márc. 7) — Új játékok I. [~3 óra]
+#### Nap 3 (márc. 7) — Új játék: Light Out [~fél nap] + Number Merge [~fél nap]
 - [ ] **S** Light Out (`/lightout`) — kapcsolós puzzle, category: logic
 - [ ] **S** Number Merge 2048 (`/numbermerge`) — 2048 klón plizio skinnel, category: brain
 
-#### Nap 4 (márc. 8) — Új játékok II. [~3 óra]
+#### Nap 4 (márc. 8) — Új játék: Pattern Forge [~1 nap]
 - [ ] **M** Pattern Forge (`/patternforge`) — 2D rács minta-felismerés, expedíció (10 szint), category: logic
-- [ ] **XS** Shop bővítés: +10-15 új ruha/accessory item
 
-#### Nap 5 (márc. 9) — Új játékok III. + javítások [~3.5 óra]
+#### Nap 5 (márc. 9) — Új játék: Nonogram [~1 nap]
 - [ ] **M** Nonogram / Picross (`/nonogram`) — rácsszínező puzzle, category: logic
-- [ ] **XS** RewardReveal flow fix: sequencerush, wordhunt, numberpath, minisudoku
 
-#### Nap 6 (márc. 10) — World map alapok [~4 óra]
-- [ ] **L** Plizio World térkép UI — interaktív zónák, locked/unlocked state, zóna progress
-- [ ] **XS** localStorage kulcsok: `plizio_world_progress`, `plizio_world_last_played`
+#### Nap 6 (márc. 10) — Shop bővítés + World map tervezés [~1 nap]
+- [ ] **XS** Shop bővítés: +10-15 új ruha/accessory item
+- [ ] **L** Plizio World térkép UI alap — interaktív zónák, locked/unlocked state
 
-#### Nap 7 (márc. 11) — SEO + Buffer [~2.5 óra]
-- [ ] **S** SEO: deutsch-test bővítés (ha nincs meg minden klasse oldal)
+#### Nap 7 (márc. 11) — SEO + Buffer [~fél nap]
 - [ ] **XS** Sitemap frissítés (új játékok)
-- [ ] **XS** Blog post (1db, az egyik új játékhoz)
+- [ ] **XS** Blog post (1 db)
 - [ ] Buffer: hibajavítások, polish
 
 ---
