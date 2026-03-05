@@ -141,51 +141,282 @@ function CitySVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) 
   );
 }
 
-// ─── SCENE 4: KONYHA ─────────────────────────────────────────────────────────
-function KitchenSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+// ─── SCENE 28: KONYHA ────────────────────────────────────────────────────────
+function KitchenSVG2({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
   return (
     <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
-      <rect width="320" height="145" fill="#F0E6D3" />
-      <rect y="145" width="320" height="55" fill="#C49A6C" />
-      <rect y="118" width="320" height="28" fill="#8B6914" />
-      <rect y="115" width="320" height="5" fill="#A0785A" />
-      {/* Left cabinet */}
-      <rect x="5" y="8" width="88" height="82" fill="#A0785A" rx="4" />
-      <rect x="10" y="13" width="38" height="72" fill="#8B6438" rx="3" />
-      <rect x="53" y="13" width="35" height="72" fill="#8B6438" rx="3" />
-      {!R && <><ellipse cx="30" cy="50" rx="3" ry="5" fill="#6B4A2A" /><ellipse cx="70" cy="50" rx="3" ry="5" fill="#6B4A2A" /></>}
-      {/* Right cabinet */}
-      <rect x="228" y="8" width="88" height="82" fill="#A0785A" rx="4" />
-      <rect x="233" y="13" width="38" height="72" fill="#8B6438" rx="3" />
-      <rect x="276" y="13" width="35" height="72" fill="#8B6438" rx="3" />
-      {!R && <><ellipse cx="253" cy="50" rx="3" ry="5" fill="#6B4A2A" /><ellipse cx="293" cy="50" rx="3" ry="5" fill="#6B4A2A" /></>}
-      {/* Window */}
-      <rect x="112" y="9" width="96" height="81" fill="none" stroke="#8B6438" strokeWidth="5" rx="3" />
-      <rect x="115" y="12" width="90" height="75" fill="#87CEEB" rx="2" />
-      <rect x="112" y="48" width="96" height="4" fill="#8B6438" />
-      <rect x="158" y="9" width="4" height="81" fill="#8B6438" />
-      {/* Curtains color */}
-      <rect x="114" y="11" width="14" height="79" fill={R ? "#6B9FFF" : "#FF6B6B"} opacity="0.75" rx="2" />
-      <rect x="194" y="11" width="14" height="79" fill={R ? "#6B9FFF" : "#FF6B6B"} opacity="0.75" rx="2" />
-      {/* Flower: missing on right */}
-      {!R && <>
-        <rect x="128" y="50" width="4" height="26" fill="#4CAF50" />
-        <circle cx="130" cy="44" r="10" fill="#FF4081" />
-        <ellipse cx="124" cy="58" rx="6" ry="4" fill="#4CAF50" />
-        <ellipse cx="137" cy="60" rx="6" ry="4" fill="#4CAF50" />
-      </>}
-      {/* Clock: missing on right */}
-      {!R && <>
-        <circle cx="195" cy="55" r="18" fill="white" stroke="#8B6438" strokeWidth="2" />
-        <line x1="195" y1="55" x2="195" y2="42" stroke="#333" strokeWidth="2" strokeLinecap="round" />
-        <line x1="195" y1="55" x2="205" y2="58" stroke="#333" strokeWidth="1.5" strokeLinecap="round" />
-        <circle cx="195" cy="55" r="2" fill="#333" />
-      </>}
-      {/* Pot color */}
-      <circle cx="68" cy="112" r="22" fill={R ? "#1565C0" : "#E53935"} />
-      <rect x="88" y="108" width="18" height="6" fill={R ? "#0D47A1" : "#C62828"} rx="3" />
-      <rect x="42" y="108" width="4" height="8" fill={R ? "#0D47A1" : "#C62828"} rx="2" />
-      <ellipse cx="68" cy="92" rx="22" ry="5" fill={R ? "#1976D2" : "#EF5350"} />
+      <defs>
+        <linearGradient id="wallK2" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#F5F0E8" />
+          <stop offset="100%" stopColor="#E0D8CC" />
+        </linearGradient>
+        <linearGradient id="counterK2" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#D0D0D0" />
+          <stop offset="100%" stopColor="#A0A0A0" />
+        </linearGradient>
+        <linearGradient id="cabinetK2" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0%" stopColor="#C8B890" />
+          <stop offset="100%" stopColor="#A89870" />
+        </linearGradient>
+        <linearGradient id="floorK2" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#D8C8A0" />
+          <stop offset="100%" stopColor="#B8A880" />
+        </linearGradient>
+        <filter id="shadowK2">
+          <feDropShadow dx="1" dy="2" stdDeviation="1.5" floodColor="#00000044" />
+        </filter>
+        <filter id="softK2">
+          <feGaussianBlur stdDeviation="1.5" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+      </defs>
+
+      {/* ── FAL ── */}
+      <rect x="0" y="0" width="320" height="200" fill="url(#wallK2)" />
+      {/* Csempe minta a falon */}
+      {[0,20,40,60,80,100].map(y =>
+        [0,20,40,60,80,100,120,140,160,180,200,220,240,260,280,300].map(x => (
+          <rect key={`${x}-${y}`} x={x} y={y} width="19" height="19"
+            fill="none" stroke="#DDD8CC" strokeWidth="0.5" />
+        ))
+      )}
+
+      {/* ── PADLÓ ── */}
+      <rect x="0" y="158" width="320" height="42" fill="url(#floorK2)" />
+      {[0,32,64,96,128,160,192,224,256,288,320].map(x => (
+        <line key={x} x1={x} y1="158" x2={x} y2="200"
+          stroke="#A89060" strokeWidth="0.6" opacity="0.5" />
+      ))}
+      {[165,180,195].map(y => (
+        <line key={y} x1="0" y1={y} x2="320" y2={y}
+          stroke="#A89060" strokeWidth="0.4" opacity="0.3" />
+      ))}
+
+      {/* ── FELSŐ SZEKRÉNYEK ── */}
+      {/* Bal felső szekrény */}
+      <rect x="0" y="8" width="110" height="62" fill="url(#cabinetK2)"
+        rx="2" filter="url(#shadowK2)" />
+      <rect x="2" y="10" width="51" height="58" fill="#D4C49C" rx="1" />
+      <rect x="55" y="10" width="53" height="58" fill="#D4C49C" rx="1" />
+      <rect x="2" y="10" width="51" height="58" fill="none"
+        stroke="#B8A880" strokeWidth="1" rx="1" />
+      <rect x="55" y="10" width="53" height="58" fill="none"
+        stroke="#B8A880" strokeWidth="1" rx="1" />
+      {/* Fogantyúk */}
+      <rect x="22" y="38" width="12" height="3" fill="#888" rx="1" />
+      <rect x="73" y="38" width="12" height="3" fill="#888" rx="1" />
+
+      {/* Jobb felső szekrény */}
+      <rect x="210" y="8" width="110" height="62" fill="url(#cabinetK2)"
+        rx="2" filter="url(#shadowK2)" />
+      <rect x="212" y="10" width="51" height="58" fill="#D4C49C" rx="1" />
+      <rect x="265" y="10" width="53" height="58" fill="#D4C49C" rx="1" />
+      <rect x="212" y="10" width="51" height="58" fill="none"
+        stroke="#B8A880" strokeWidth="1" rx="1" />
+      <rect x="265" y="10" width="53" height="58" fill="none"
+        stroke="#B8A880" strokeWidth="1" rx="1" />
+      <rect x="232" y="38" width="12" height="3" fill="#888" rx="1" />
+      <rect x="283" y="38" width="12" height="3" fill="#888" rx="1" />
+
+      {/* ── ABLAK ── */}
+      <rect x="118" y="10" width="84" height="60" fill="#88CCEE"
+        rx="3" stroke="#C8B898" strokeWidth="2" filter="url(#shadowK2)" />
+      <line x1="160" y1="10" x2="160" y2="70" stroke="#C8B898" strokeWidth="1.5" />
+      <line x1="118" y1="40" x2="202" y2="40" stroke="#C8B898" strokeWidth="1.5" />
+      {/* Ablak fény */}
+      <rect x="120" y="12" width="38" height="26" fill="#AAD8EE" opacity="0.5" />
+      <rect x="162" y="12" width="38" height="26" fill="#AAD8EE" opacity="0.4" />
+      {/* Kilátás – madarak R=true esetén 3, R=false 2 (NEHÉZ) */}
+      <path d="M 128 28 Q 132 24 136 28 Q 140 24 144 28"
+        fill="none" stroke="#33344488" strokeWidth="1.2" />
+      <path d="M 168 22 Q 172 18 176 22 Q 180 18 184 22"
+        fill="none" stroke="#33344488" strokeWidth="1.2" />
+      {R && (
+        <path d="M 148 35 Q 152 31 156 35 Q 160 31 164 35"
+          fill="none" stroke="#33344488" strokeWidth="1.2" />
+      )}
+      {/* Függöny */}
+      <path d="M 118 10 Q 126 22 123 38 Q 121 52 118 70"
+        fill="#E8D0B0" opacity="0.75" />
+      <path d="M 202 10 Q 194 22 197 38 Q 199 52 202 70"
+        fill="#E8D0B0" opacity="0.75" />
+
+      {/* ── PULT ── */}
+      <rect x="0" y="108" width="320" height="10" fill="url(#counterK2)"
+        filter="url(#shadowK2)" />
+      <rect x="0" y="108" width="320" height="3" fill="#E0E0E0" />
+      <rect x="0" y="115" width="320" height="3" fill="#888" />
+
+      {/* ── ALSÓ SZEKRÉNYEK ── */}
+      <rect x="0" y="118" width="140" height="42" fill="url(#cabinetK2)"
+        filter="url(#shadowK2)" />
+      {[2,48,94].map(x => (
+        <g key={x}>
+          <rect x={x} y="120" width="42" height="38" fill="#D4C49C" rx="1" />
+          <rect x={x} y="120" width="42" height="38" fill="none"
+            stroke="#B8A880" strokeWidth="1" rx="1" />
+          <rect x={x+14} y="138" width="14" height="3" fill="#888" rx="1" />
+        </g>
+      ))}
+
+      <rect x="180" y="118" width="140" height="42" fill="url(#cabinetK2)"
+        filter="url(#shadowK2)" />
+      {[182,228,274].map(x => (
+        <g key={x}>
+          <rect x={x} y="120" width="42" height="38" fill="#D4C49C" rx="1" />
+          <rect x={x} y="120" width="42" height="38" fill="none"
+            stroke="#B8A880" strokeWidth="1" rx="1" />
+          <rect x={x+14} y="138" width="14" height="3" fill="#888" rx="1" />
+        </g>
+      ))}
+
+      {/* ── MOSOGATÓ ── */}
+      <rect x="142" y="100" width="36" height="18" fill="#AAA"
+        rx="3" filter="url(#shadowK2)" />
+      <rect x="144" y="102" width="32" height="14" fill="#999" rx="2" />
+      <rect x="146" y="104" width="28" height="10" fill="#888" rx="1" />
+      {/* Csap */}
+      <rect x="156" y="95" width="8" height="8" fill="#CCC" rx="2" />
+      <ellipse cx="160" cy="94" rx="5" ry="2" fill="#DDD" />
+      <ellipse cx="160" cy="93" rx="3" ry="1.5" fill="#EEE" />
+      {/* Vízsugár */}
+      <path d="M 160 95 Q 161 100 160 105"
+        fill="none" stroke="#88BBDD" strokeWidth="1.5" opacity="0.7" />
+
+      {/* ── TŰZHELY ── */}
+      <rect x="0" y="75" width="110" height="35" fill="#555"
+        rx="2" filter="url(#shadowK2)" />
+      <rect x="2" y="77" width="106" height="31" fill="#444" rx="1" />
+      {/* Főzőlapok */}
+      {[[22,88],[55,88],[88,88],[38,95],[72,95]].map(([cx,cy],i) => (
+        <g key={i}>
+          <ellipse cx={cx} cy={cy} rx="14" ry="4" fill="#333" />
+          <ellipse cx={cx} cy={cy} rx={i < 3 ? "12" : "10"}
+            ry={i < 3 ? "3.5" : "3"} fill="#222" />
+          {/* Láng – R=true esetén más főzőlap ég (KÖZEPES) */}
+          {((R && i === 1) || (!R && i === 0)) && (
+            <>
+              <ellipse cx={cx} cy={cy-2} rx="5" ry="3" fill="#FF6600" opacity="0.8" />
+              <ellipse cx={cx} cy={cy-3} rx="3" ry="2" fill="#FFD700" opacity="0.7" />
+              <ellipse cx={cx} cy={cy-4} rx="1.5" ry="1.5" fill="#FFEEAA" opacity="0.6" />
+            </>
+          )}
+        </g>
+      ))}
+      {/* Sütő ajtaja */}
+      <rect x="4" y="110" width="102" height="46" fill="#444"
+        rx="2" filter="url(#shadowK2)" />
+      <rect x="6" y="112" width="98" height="42" fill="#555" rx="1" />
+      <rect x="8" y="114" width="94" height="38" fill="#333" rx="1" />
+      {/* Sütő ablaka */}
+      <rect x="15" y="118" width="80" height="28" fill="#222" rx="2"
+        stroke="#666" strokeWidth="1" />
+      <rect x="17" y="120" width="76" height="24" fill="#1A1A1A" rx="1" />
+      {/* Sütő fogantyú */}
+      <rect x="28" y="148" width="54" height="4" fill="#888" rx="2" />
+
+      {/* ── HŰTŐ ── */}
+      <rect x="210" y="70" width="110" height="90" fill="#EEEEEE"
+        rx="3" filter="url(#shadowK2)" />
+      <rect x="212" y="72" width="106" height="86" fill="#F5F5F5" rx="2" />
+      {/* Hűtő ajtók */}
+      <rect x="214" y="74" width="102" height="42" fill="#EFEFEF"
+        rx="1" stroke="#DDD" strokeWidth="0.8" />
+      <rect x="214" y="118" width="102" height="38" fill="#EFEFEF"
+        rx="1" stroke="#DDD" strokeWidth="0.8" />
+      {/* Fogantyúk */}
+      <rect x="306" y="88" width="4" height="14" fill="#AAA" rx="2" />
+      <rect x="306" y="128" width="4" height="10" fill="#AAA" rx="2" />
+      {/* Hűtő mágneses tábla */}
+      <rect x="225" y="82" width="50" height="28" fill="white"
+        rx="2" stroke="#CCC" strokeWidth="0.8" />
+      {/* Bevásárlólista – R=true esetén 3 sor, R=false 4 (NEHÉZ) */}
+      {[88,94,100,...(R ? [] : [106])].map(y => (
+        <line key={y} x1="228" y1={y} x2="272" y2={y}
+          stroke="#888" strokeWidth="1.2" opacity="0.7" />
+      ))}
+      <text x="250" y="88" textAnchor="middle" fontSize="5"
+        fill="#444" fontWeight="bold">SHOPPING</text>
+      {/* Mágnes */}
+      <ellipse cx="226" cy="84" rx="4" ry="3" fill="#EE2222" opacity="0.8" />
+      <ellipse cx="274" cy="84" rx="4" ry="3" fill="#2244EE" opacity="0.8" />
+
+      {/* ── EDÉNYEK a pulton ── */}
+      {/* Nagy fazék */}
+      <ellipse cx="60" cy="105" rx="18" ry="5" fill="#888" />
+      <rect x="42" y="85" width="36" height="20" fill="#999" rx="3" />
+      <ellipse cx="60" cy="85" rx="18" ry="5" fill="#AAA" />
+      <ellipse cx="60" cy="84" rx="14" ry="3.5" fill="#BBB" />
+      {/* Fazék füle */}
+      <path d="M 42 92 Q 36 92 36 98 Q 36 104 42 104"
+        fill="none" stroke="#888" strokeWidth="2.5" />
+      <path d="M 78 92 Q 84 92 84 98 Q 84 104 78 104"
+        fill="none" stroke="#888" strokeWidth="2.5" />
+      {/* Gőz */}
+      <path d="M 54 82 Q 52 76 54 70" fill="none" stroke="#CCC" strokeWidth="1.5" opacity="0.6" />
+      <path d="M 60 82 Q 58 74 60 68" fill="none" stroke="#CCC" strokeWidth="1.5" opacity="0.6" />
+      <path d="M 66 82 Q 68 76 66 70" fill="none" stroke="#CCC" strokeWidth="1.5" opacity="0.6" />
+
+      {/* Kisebb lábas */}
+      <ellipse cx="165" cy="107" rx="12" ry="3.5" fill="#777" />
+      <rect x="153" y="94" width="24" height="13" fill="#888" rx="2" />
+      <ellipse cx="165" cy="94" rx="12" ry="3.5" fill="#999" />
+      <line x1="177" y1="100" x2="190" y2="98" stroke="#777" strokeWidth="2.5"
+        strokeLinecap="round" />
+
+      {/* Kenyér – R=true esetén más szín (KÖZEPES) */}
+      <ellipse cx="248" cy="106" rx="18" ry="8" fill={R ? "#D4824A" : "#C87A3A"}
+        filter="url(#shadowK2)" />
+      <ellipse cx="248" cy="103" rx="15" ry="6" fill={R ? "#E89A5A" : "#D8903A"} />
+      {[240,248,256].map(x => (
+        <path key={x}
+          d={`M ${x} 102 Q ${x+2} 98 ${x+4} 102`}
+          fill="none" stroke={R ? "#C07030" : "#B06020"} strokeWidth="0.8" />
+      ))}
+
+      {/* ── FALI ÓRA ── */}
+      <circle cx="160" cy="85" r="14" fill="#F5F5F0"
+        stroke="#888" strokeWidth="1.2" filter="url(#shadowK2)" />
+      <circle cx="160" cy="85" r="12" fill="#FAFAF5" />
+      <circle cx="160" cy="85" r="1.5" fill="#333" />
+      {[0,30,60,90,120,150,180,210,240,270,300,330].map(angle => (
+        <line key={angle}
+          x1={160 + Math.cos(angle * Math.PI / 180) * 9}
+          y1={85 + Math.sin(angle * Math.PI / 180) * 9}
+          x2={160 + Math.cos(angle * Math.PI / 180) * 11}
+          y2={85 + Math.sin(angle * Math.PI / 180) * 11}
+          stroke="#888" strokeWidth={angle % 90 === 0 ? "1.5" : "0.8"} />
+      ))}
+      {/* Óra mutatók – R=true esetén más időpont (KÖZEPES) */}
+      <line x1="160" y1="85"
+        x2={160 + Math.cos((R ? -60 : -90) * Math.PI / 180) * 7}
+        y2={85 + Math.sin((R ? -60 : -90) * Math.PI / 180) * 7}
+        stroke="#222" strokeWidth="1.8" strokeLinecap="round" />
+      <line x1="160" y1="85"
+        x2={160 + Math.cos((R ? 30 : 0) * Math.PI / 180) * 10}
+        y2={85 + Math.sin((R ? 30 : 0) * Math.PI / 180) * 10}
+        stroke="#222" strokeWidth="1.2" strokeLinecap="round" />
+
+      {/* ── VIRÁGCSERÉP az ablakon ── */}
+      <rect x="126" y="63" width="10" height="7" fill="#CC4422" rx="1" />
+      <ellipse cx="131" cy="63" rx="6" ry="2.5" fill="#AA3311" />
+      <rect x="128" y="57" width="6" height="7" fill="#3A8A18" rx="1" />
+      {[0,72,144,216,288].map(angle => (
+        <ellipse key={angle}
+          cx={131 + Math.cos(angle * Math.PI / 180) * 5}
+          cy={55 + Math.sin(angle * Math.PI / 180) * 4}
+          rx="3" ry="2"
+          fill="#FF6688"
+          transform={`rotate(${angle} 131 55)`}
+          opacity="0.9" />
+      ))}
+      <circle cx="131" cy="55" r="2" fill="#FFE566" />
+
+      {/* Árnyékok */}
+      <ellipse cx="60" cy="108" rx="18" ry="2.5" fill="#00000022" />
+      <ellipse cx="165" cy="109" rx="12" ry="2" fill="#00000022" />
+      <ellipse cx="248" cy="112" rx="18" ry="2.5" fill="#00000022" />
+
       <FO f={f} h={h} />
     </svg>
   );
@@ -3085,6 +3316,2353 @@ function JungleSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps
     </svg>
   );
 }
+// ─── SCENE 22: SIVATAG ───────────────────────────────────────────────────────
+function DesertSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <defs>
+        <linearGradient id="skyD" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#1A6ACC" />
+          <stop offset="100%" stopColor="#88CCFF" />
+        </linearGradient>
+        <linearGradient id="sandD" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#E8C870" />
+          <stop offset="100%" stopColor="#C8A040" />
+        </linearGradient>
+        <linearGradient id="duneD" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0%" stopColor="#D4A840" />
+          <stop offset="100%" stopColor="#F0D070" />
+        </linearGradient>
+        <linearGradient id="cactusD" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0%" stopColor="#2A7A2A" />
+          <stop offset="100%" stopColor="#4AAA4A" />
+        </linearGradient>
+        <radialGradient id="sunD" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stopColor="#FFF0A0" />
+          <stop offset="100%" stopColor="#FFD700" />
+        </radialGradient>
+        <filter id="shadowD">
+          <feDropShadow dx="2" dy="3" stdDeviation="2" floodColor="#00000055" />
+        </filter>
+        <filter id="softD">
+          <feGaussianBlur stdDeviation="2.5" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+        <filter id="heatD">
+          <feGaussianBlur stdDeviation="1" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+      </defs>
+
+      {/* ── ÉGBOLT ── */}
+      <rect x="0" y="0" width="320" height="200" fill="url(#skyD)" />
+
+      {/* Nap – R=true esetén 7px-el arrébb (NEHÉZ) */}
+      <circle cx={R ? "268" : "275"} cy="30" r="22"
+        fill="url(#sunD)" filter="url(#softD)" opacity="0.95" />
+      <circle cx={R ? "268" : "275"} cy="30" r="15" fill="#FFE566" />
+      {/* Nap sugarak */}
+      {[0,45,90,135,180,225,270,315].map(angle => (
+        <line key={angle}
+          x1={(R ? 268 : 275) + Math.cos(angle * Math.PI / 180) * 25}
+          y1={30 + Math.sin(angle * Math.PI / 180) * 25}
+          x2={(R ? 268 : 275) + Math.cos(angle * Math.PI / 180) * 32}
+          y2={30 + Math.sin(angle * Math.PI / 180) * 32}
+          stroke="#FFD700" strokeWidth="2" opacity="0.7" />
+      ))}
+
+      {/* Felhők */}
+      <g opacity="0.7">
+        <ellipse cx="85" cy="28" rx="28" ry="11" fill="white" />
+        <ellipse cx="69" cy="32" rx="17" ry="8" fill="white" />
+        <ellipse cx="101" cy="32" rx="19" ry="8" fill="white" />
+      </g>
+
+      {/* ── HOMOKDŰNÉK háttér ── */}
+      <path d="M 0 130 Q 60 105 120 118 Q 180 130 240 110 Q 280 98 320 112 L 320 200 L 0 200"
+        fill="#C8A040" opacity="0.5" />
+      <path d="M 0 140 Q 80 118 160 128 Q 240 138 320 122 L 320 200 L 0 200"
+        fill="#D4A840" opacity="0.6" />
+
+      {/* ── FŐ TALAJ ── */}
+      <path d="M 0 148 Q 80 138 160 145 Q 240 152 320 142 L 320 200 L 0 200"
+        fill="url(#sandD)" />
+      {/* Homok textúra */}
+      {[5,20,38,55,75,95,115,138,160,182,205,228,252,275,298,315].map((x,i) => (
+        <ellipse key={x} cx={x} cy={148+(i%3)*2} rx={3+(i%2)} ry="1.5"
+          fill="#B89030" opacity="0.3" />
+      ))}
+      {/* Homok hullámok */}
+      {[155,165,175].map(y => (
+        <path key={y}
+          d={`M 0 ${y} Q 40 ${y-3} 80 ${y} Q 120 ${y+3} 160 ${y} Q 200 ${y-3} 240 ${y} Q 280 ${y+3} 320 ${y}`}
+          fill="none" stroke="#B89030" strokeWidth="0.7" opacity="0.4" />
+      ))}
+
+      {/* ── BAL KAKTUSZ ── */}
+      {/* Törzs */}
+      <rect x="42" y="80" width="16" height="72" fill="url(#cactusD)" rx="6"
+        filter="url(#shadowD)" />
+      <rect x="44" y="80" width="5" height="72" fill="#5ABB5A" opacity="0.3" rx="3" />
+      {/* Tövis bal oldal */}
+      {[88,100,112,124,136].map(y => (
+        <line key={y} x1="42" y1={y} x2="36" y2={y-3}
+          stroke="#1A5A1A" strokeWidth="1.2" />
+      ))}
+      {/* Tövis jobb oldal */}
+      {[92,104,116,128,140].map(y => (
+        <line key={y} x1="58" y1={y} x2="64" y2={y-3}
+          stroke="#1A5A1A" strokeWidth="1.2" />
+      ))}
+      {/* Bal kar */}
+      <rect x="22" y="100" width="22" height="10" fill="url(#cactusD)" rx="4" />
+      <rect x="20" y="82" width="10" height="22" fill="url(#cactusD)" rx="4" />
+      <rect x="21" y="84" width="3" height="22" fill="#5ABB5A" opacity="0.3" rx="2" />
+      {[86,94,102].map(y => (
+        <line key={y} x1="20" y1={y} x2="14" y2={y-2}
+          stroke="#1A5A1A" strokeWidth="1" />
+      ))}
+      {/* Jobb kar */}
+      <rect x="58" y="108" width="22" height="10" fill="url(#cactusD)" rx="4" />
+      <rect x="70" y="90" width="10" height="28" fill="url(#cactusD)" rx="4" />
+      <rect x="72" y="92" width="3" height="28" fill="#5ABB5A" opacity="0.3" rx="2" />
+      {[94,102,110].map(y => (
+        <line key={y} x1="80" y1={y} x2="86" y2={y-2}
+          stroke="#1A5A1A" strokeWidth="1" />
+      ))}
+      {/* Virág a tetején – R=true esetén 2 virág, R=false 3 (KÖZEPES) */}
+      {[50, ...(R ? [] : [42, 58])].map((x, i) => (
+        <g key={x}>
+          {[0,72,144,216,288].map(angle => (
+            <ellipse key={angle}
+              cx={x + Math.cos(angle * Math.PI / 180) * 5}
+              cy={78 + Math.sin(angle * Math.PI / 180) * 5}
+              rx="3.5" ry="2"
+              fill={i === 0 ? "#FF6688" : "#FF88AA"}
+              transform={`rotate(${angle} ${x} 78)`}
+              opacity="0.9" />
+          ))}
+          <circle cx={x} cy="78" r="3" fill="#FFE566" />
+        </g>
+      ))}
+
+      {/* ── KÖZÉPSŐ KIS KAKTUSZ ── */}
+      <rect x="155" y="118" width="10" height="34" fill="url(#cactusD)" rx="4"
+        filter="url(#shadowD)" />
+      <rect x="157" y="118" width="3" height="34" fill="#5ABB5A" opacity="0.3" rx="2" />
+      {[122,130,138,146].map(y => (
+        <line key={y} x1="155" y1={y} x2="150" y2={y-2}
+          stroke="#1A5A1A" strokeWidth="1" />
+      ))}
+      {[124,132,140,148].map(y => (
+        <line key={y} x1="165" y1={y} x2="170" y2={y-2}
+          stroke="#1A5A1A" strokeWidth="1" />
+      ))}
+      {/* Bal kar */}
+      <rect x="140" y="128" width="16" height="7" fill="url(#cactusD)" rx="3" />
+      <rect x="138" y="118" width="7" height="14" fill="url(#cactusD)" rx="3" />
+      {/* Jobb kar */}
+      <rect x="165" y="132" width="14" height="7" fill="url(#cactusD)" rx="3" />
+      <rect x="172" y="122" width="7" height="14" fill="url(#cactusD)" rx="3" />
+      {/* Virág */}
+      {[0,72,144,216,288].map(angle => (
+        <ellipse key={angle}
+          cx={160 + Math.cos(angle * Math.PI / 180) * 4}
+          cy={116 + Math.sin(angle * Math.PI / 180) * 4}
+          rx="3" ry="1.8"
+          fill="#FF4466"
+          transform={`rotate(${angle} 160 116)`}
+          opacity="0.9" />
+      ))}
+      <circle cx="160" cy="116" r="2.5" fill="#FFE566" />
+
+      {/* ── JOBB KAKTUSZ ── */}
+      <rect x="268" y="88" width="14" height="64" fill="url(#cactusD)" rx="5"
+        filter="url(#shadowD)" />
+      <rect x="270" y="88" width="4" height="64" fill="#5ABB5A" opacity="0.3" rx="2" />
+      {[94,106,118,130,142].map(y => (
+        <line key={y} x1="268" y1={y} x2="262" y2={y-2}
+          stroke="#1A5A1A" strokeWidth="1.1" />
+      ))}
+      {[96,108,120,132,144].map(y => (
+        <line key={y} x1="282" y1={y} x2="288" y2={y-2}
+          stroke="#1A5A1A" strokeWidth="1.1" />
+      ))}
+      {/* Kar */}
+      <rect x="252" y="106" width="18" height="8" fill="url(#cactusD)" rx="3" />
+      <rect x="250" y="92" width="8" height="18" fill="url(#cactusD)" rx="3" />
+      <rect x="282" y="112" width="16" height="8" fill="url(#cactusD)" rx="3" />
+      <rect x="290" y="98" width="8" height="16" fill="url(#cactusD)" rx="3" />
+      {/* Virág */}
+      {[0,72,144,216,288].map(angle => (
+        <ellipse key={angle}
+          cx={275 + Math.cos(angle * Math.PI / 180) * 5}
+          cy={86 + Math.sin(angle * Math.PI / 180) * 5}
+          rx="3.5" ry="2"
+          fill="#FF6688"
+          transform={`rotate(${angle} 275 86)`}
+          opacity="0.9" />
+      ))}
+      <circle cx="275" cy="86" r="3" fill="#FFE566" />
+
+      {/* ── SIVATAGI KŐ ── */}
+      <ellipse cx="115" cy="148" rx="28" ry="12" fill="#B09060" filter="url(#shadowD)" />
+      <ellipse cx="112" cy="144" rx="22" ry="9" fill="#C8A870" />
+      <ellipse cx="108" cy="141" rx="12" ry="5" fill="#D4B880" opacity="0.6" />
+
+      {/* ── TEVÉK ── */}
+      {/* Bal teve */}
+      {/* Test */}
+      <ellipse cx="195" cy="132" rx="28" ry="16" fill="#C8922A" filter="у(#shadowD)" />
+      {/* Nyak */}
+      <rect x="212" y="108" width="10" height="28" fill="#C8922A" rx="4" />
+      {/* Fej */}
+      <ellipse cx="220" cy="104" rx="12" ry="9" fill="#C8922A" />
+      <ellipse cx="213" cy="107" rx="6" ry="4" fill="#D8A240" />
+      {/* Szem – R=true esetén 2px-el lejjebb (NEHÉZ) */}
+      <circle cx="224" cy={R ? "101" : "99"} r="2.5" fill="#333" />
+      <circle cx="225" cy={R ? "100" : "98"} r="1" fill="white" />
+      {/* Fül */}
+      <ellipse cx="228" cy="97" rx="3" ry="5" fill="#C8922A" />
+      <ellipse cx="228" cy="97" rx="1.5" ry="3" fill="#E8B240" />
+      {/* Púp – R=true esetén 1 púp, R=false 2 (KÖZEPES) */}
+      {R ? (
+        <ellipse cx="195" cy="115" rx="12" ry="14" fill="#A87020" />
+      ) : (
+        <>
+          <ellipse cx="183" cy="116" rx="10" ry="13" fill="#A87020" />
+          <ellipse cx="207" cy="116" rx="10" ry="13" fill="#A87020" />
+        </>
+      )}
+      {/* Lábak */}
+      {[170,183,200,213].map(x => (
+        <g key={x}>
+          <rect x={x} y="145" width="7" height="18" fill="#B88020" rx="3" />
+          <ellipse cx={x+3} cy="163" rx="5" ry="3" fill="#A07018" />
+        </g>
+      ))}
+      {/* Farok */}
+      <path d="M 167 132 Q 158 130 155 138 Q 154 144 160 145"
+        fill="none" stroke="#C8922A" strokeWidth="2.5" />
+
+      {/* ── SIVATAGI RÓKÁK NYOMA ── */}
+      {[25,35,45,55,65,75,85,95].map((x,i) => (
+        <ellipse key={x} cx={x} cy={160+(i%2)*4} rx="3" ry="2"
+          fill="#B89030" opacity="0.35"
+          transform={`rotate(${i%2===0?20:-20} ${x} ${160+(i%2)*4})`} />
+      ))}
+
+      {/* ── OÁZIS ── */}
+      <ellipse cx="100" cy="158" rx="22" ry="8" fill="#2255AA" opacity="0.6" />
+      <ellipse cx="100" cy="156" rx="18" ry="6" fill="#3366BB" opacity="0.5" />
+      {/* Víz csillogás */}
+      {[88,100,112].map(x => (
+        <line key={x} x1={x} y1="156" x2={x+6} y2="156"
+          stroke="white" strokeWidth="1" opacity="0.4" />
+      ))}
+      {/* Pálma az oázisnál */}
+      <rect x="120" y="118" width="7" height="32" fill="#8B6340" rx="2" />
+      <rect x="122" y="118" width="2" height="32" fill="#A07848" opacity="0.4" />
+      {/* Pálma levelek */}
+      <path d="M 123 118 Q 108 108 98 112" fill="none" stroke="#3A8A18" strokeWidth="4"
+        strokeLinecap="round" />
+      <path d="M 123 118 Q 115 105 122 100" fill="none" stroke="#4A9A20" strokeWidth="4"
+        strokeLinecap="round" />
+      <path d="M 123 118 Q 132 106 142 110" fill="none" stroke="#3A8A18" strokeWidth="4"
+        strokeLinecap="round" />
+      <path d="M 123 118 Q 136 112 140 120" fill="none" stroke="#4A9A20" strokeWidth="3.5"
+        strokeLinecap="round" />
+      {/* Kókuszdió */}
+      <circle cx="118" cy="116" r="4" fill="#8B5A20" />
+      <circle cx="126" cy="114" r="4" fill="#7A4A18" />
+
+      {/* ── HŐSÉG HATÁS ── */}
+      <path d="M 0 145 Q 80 142 160 145 Q 240 148 320 144"
+        fill="none" stroke="white" strokeWidth="1.5" opacity="0.08"
+        filter="url(#heatD)" />
+      <path d="M 0 148 Q 80 145 160 148 Q 240 151 320 147"
+        fill="none" stroke="white" strokeWidth="1" opacity="0.06"
+        filter="url(#heatD)" />
+
+      {/* ── SKORPIÓ – R=true esetén farka 2px-el hosszabb (KÖZEPES) ── */}
+      {/* Test */}
+      <ellipse cx="245" cy="152" rx="7" ry="5" fill="#C8922A" />
+      {/* Fej */}
+      <ellipse cx="252" cy="150" rx="5" ry="4" fill="#C8922A" />
+      {/* Ollók */}
+      <path d="M 256 148 Q 262 144 265 146 M 256 148 Q 262 150 264 152"
+        fill="none" stroke="#B07818" strokeWidth="1.5" />
+      {/* Lábak */}
+      {[244,248,252].map(x => (
+        <g key={x}>
+          <line x1={x} y1="154" x2={x-3} y2="158" stroke="#B07818" strokeWidth="1" />
+          <line x1={x} y1="154" x2={x-2} y2="159" stroke="#B07818" strokeWidth="1" />
+        </g>
+      ))}
+      {/* Farok – R=true esetén hosszabb */}
+      <path
+        d={R
+          ? "M 240 152 Q 234 148 232 142 Q 230 135 236 130 Q 240 127 242 131"
+          : "M 240 152 Q 234 148 232 142 Q 230 137 236 134 Q 240 131 242 134"}
+        fill="none" stroke="#C8922A" strokeWidth="2" />
+      <circle cx={R ? "242" : "242"} cy={R ? "131" : "134"} r="3" fill="#CC2222" />
+
+      {/* Madarak a távolban */}
+      <path d="M 180 45 Q 184 41 188 45 Q 192 41 196 45"
+        fill="none" stroke="#33344488" strokeWidth="1.2" />
+      <path d="M 210 38 Q 214 34 218 38 Q 222 34 226 38"
+        fill="none" stroke="#33344488" strokeWidth="1.2" />
+
+      {/* Árnyékok */}
+      <ellipse cx="50" cy="153" rx="18" ry="3" fill="#00000033" />
+      <ellipse cx="275" cy="153" rx="14" ry="3" fill="#00000033" />
+      <ellipse cx="195" cy="162" rx="28" ry="4" fill="#00000044" />
+      <ellipse cx="160" cy="153" rx="10" ry="2" fill="#00000033" />
+
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+// ─── SCENE 23: KÖNYVTÁR ──────────────────────────────────────────────────────
+function LibrarySVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <defs>
+        <linearGradient id="wallLB" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0%" stopColor="#F0E8D8" />
+          <stop offset="100%" stopColor="#D8D0C0" />
+        </linearGradient>
+        <linearGradient id="floorLB" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#C8A870" />
+          <stop offset="100%" stopColor="#A88850" />
+        </linearGradient>
+        <linearGradient id="shelfLB" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#B08850" />
+          <stop offset="100%" stopColor="#886630" />
+        </linearGradient>
+        <filter id="shadowLB">
+          <feDropShadow dx="1" dy="2" stdDeviation="1.5" floodColor="#00000044" />
+        </filter>
+        <filter id="softLB">
+          <feGaussianBlur stdDeviation="1.5" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+      </defs>
+
+      {/* ── HÁTTÉR FAL ── */}
+      <rect x="0" y="0" width="320" height="200" fill="url(#wallLB)" />
+
+      {/* Parketta */}
+      <rect x="0" y="158" width="320" height="42" fill="url(#floorLB)" />
+      {[0,32,64,96,128,160,192,224,256,288,320].map(x => (
+        <line key={x} x1={x} y1="158" x2={x} y2="200"
+          stroke="#9A7840" strokeWidth="0.7" opacity="0.5" />
+      ))}
+      {[165,175,185,195].map(y => (
+        <line key={y} x1="0" y1={y} x2="320" y2={y}
+          stroke="#9A7840" strokeWidth="0.4" opacity="0.3" />
+      ))}
+
+      {/* Mennyezet */}
+      <rect x="0" y="0" width="320" height="12" fill="#E0D8C8" />
+      <rect x="0" y="10" width="320" height="3" fill="#C8C0B0" />
+
+      {/* ── MENNYEZETI LÁMPA ── */}
+      {[80, 240].map(x => (
+        <g key={x}>
+          <line x1={x} y1="10" x2={x} y2="25" stroke="#888" strokeWidth="1.5" />
+          <rect x={x-18} y="22" width="36" height="8" fill="#DDDDCC" rx="3"
+            filter="url(#softLB)" />
+          <rect x={x-16} y="23" width="32" height="5" fill="#FFFFEE" rx="2" opacity="0.9" />
+          <ellipse cx={x} cy="28" rx="20" ry="8" fill="#FFFF88" opacity="0.15"
+            filter="url(#softLB)" />
+        </g>
+      ))}
+
+      {/* ── BAL KÖNYVESPOLC ── */}
+      {/* Polc keret */}
+      <rect x="5" y="15" width="90" height="145" fill="url(#shelfLB)" rx="2"
+        filter="url(#shadowLB)" />
+      <rect x="7" y="17" width="86" height="141" fill="#C8A870" rx="1" />
+      {/* Polc deszkák */}
+      {[50,85,120,155].map(y => (
+        <rect key={y} x="5" y={y} width="90" height="5"
+          fill="url(#shelfLB)" rx="1" />
+      ))}
+
+      {/* Könyvek – sor 1 (y: 17-50) */}
+      {[
+        {x:10, w:9,  h:28, c:"#CC2222"},
+        {x:20, w:7,  h:25, c:"#2244CC"},
+        {x:28, w:10, h:30, c:"#228833"},
+        {x:39, w:8,  h:26, c:"#CC8822"},
+        {x:48, w:9,  h:29, c:"#882288"},
+        {x:58, w:7,  h:24, c:"#CC4422"},
+        {x:66, w:10, h:28, c:"#224488"},
+        {x:77, w:8,  h:26, c:"#338844"},
+        {x:86, w:8,  h:27, c:"#AA2244"},
+      ].map(({x,w,h,c}) => (
+        <g key={x}>
+          <rect x={x} y={50-h} width={w} height={h} fill={c} rx="1" />
+          <rect x={x+1} y={50-h+1} width={w-2} height={3} fill="white" opacity="0.15" />
+        </g>
+      ))}
+
+      {/* Könyvek – sor 2 (y: 55-85) */}
+      {[
+        {x:10, w:8,  h:25, c:"#DD4444"},
+        {x:19, w:10, h:28, c:"#4466DD"},
+        {x:30, w:7,  h:22, c:"#44AA44"},
+        {x:38, w:9,  h:26, c:"#DDAA22"},
+        {x:48, w:8,  h:24, c:"#AA44AA"},
+        {x:57, w:10, h:27, c:"#DD6633"},
+        {x:68, w:7,  h:23, c:"#3366AA"},
+        {x:76, w:9,  h:25, c:"#55AA55"},
+        {x:86, w:8,  h:26, c:"#CC3355"},
+      ].map(({x,w,h,c}) => (
+        <g key={x}>
+          <rect x={x} y={85-h} width={w} height={h} fill={c} rx="1" />
+          <rect x={x+1} y={85-h+1} width={w-2} height={3} fill="white" opacity="0.15" />
+        </g>
+      ))}
+
+      {/* Könyvek – sor 3 (y: 90-120) */}
+      {[
+        {x:10, w:9,  h:26, c:"#BB3333"},
+        {x:20, w:8,  h:24, c:"#3355BB"},
+        {x:29, w:10, h:28, c:"#33AA33"},
+        {x:40, w:7,  h:22, c:"#BB9922"},
+        {x:48, w:9,  h:26, c:"#993399"},
+        {x:58, w:8,  h:24, c:"#BB5522"},
+        {x:67, w:10, h:27, c:"#2255AA"},
+        {x:78, w:7,  h:23, c:"#449944"},
+        {x:86, w:8,  h:25, c:"#BB2244"},
+      ].map(({x,w,h,c}) => (
+        <g key={x}>
+          <rect x={x} y={120-h} width={w} height={h} fill={c} rx="1" />
+          <rect x={x+1} y={120-h+1} width={w-2} height={3} fill="white" opacity="0.15" />
+        </g>
+      ))}
+
+      {/* Könyvek – sor 4 (y: 125-155) */}
+      {[
+        {x:10, w:8,  h:24, c:"#EE3333"},
+        {x:19, w:10, h:27, c:"#3377EE"},
+        {x:30, w:7,  h:22, c:"#33BB33"},
+        {x:38, w:9,  h:25, c:"#EEBB22"},
+        {x:48, w:8,  h:23, c:"#BB44BB"},
+        {x:57, w:10, h:26, c:"#EE7744"},
+        {x:68, w:7,  h:22, c:"#4477BB"},
+        {x:76, w:9,  h:24, c:"#55BB55"},
+        {x:86, w:8,  h:25, c:"#EE4466"},
+      ].map(({x,w,h,c}) => (
+        <g key={x}>
+          <rect x={x} y={155-h} width={w} height={h} fill={c} rx="1" />
+          <rect x={x+1} y={155-h+1} width={w-2} height={3} fill="white" opacity="0.15" />
+        </g>
+      ))}
+
+      {/* ── JOBB KÖNYVESPOLC ── */}
+      <rect x="225" y="15" width="90" height="145" fill="url(#shelfLB)" rx="2"
+        filter="url(#shadowLB)" />
+      <rect x="227" y="17" width="86" height="141" fill="#C8A870" rx="1" />
+      {[50,85,120,155].map(y => (
+        <rect key={y} x="225" y={y} width="90" height="5"
+          fill="url(#shelfLB)" rx="1" />
+      ))}
+
+      {/* Könyvek jobb polcon – sor 1 */}
+      {[
+        {x:230, w:9,  h:27, c:"#2233AA"},
+        {x:240, w:8,  h:24, c:"#AA3322"},
+        {x:249, w:10, h:29, c:"#229933"},
+        {x:260, w:7,  h:25, c:"#AA7722"},
+        {x:268, w:9,  h:28, c:"#772299"},
+        {x:278, w:8,  h:23, c:"#994422"},
+        {x:287, w:9,  h:27, c:"#224499"},
+        {x:297, w:8,  h:25, c:"#339944"},
+        {x:306, w:8,  h:26, c:"#992244"},
+      ].map(({x,w,h,c}) => (
+        <g key={x}>
+          <rect x={x} y={50-h} width={w} height={h} fill={c} rx="1" />
+          <rect x={x+1} y={50-h+1} width={w-2} height={3} fill="white" opacity="0.15" />
+        </g>
+      ))}
+
+      {/* Könyvek jobb polcon – sor 2 */}
+      {[
+        {x:230, w:8,  h:25, c:"#CC3344"},
+        {x:239, w:10, h:27, c:"#3344CC"},
+        {x:250, w:7,  h:22, c:"#33AA44"},
+        {x:258, w:9,  h:26, c:"#CCAA33"},
+        {x:268, w:8,  h:24, c:"#AA33CC"},
+        {x:277, w:9,  h:26, c:"#CC5533"},
+        {x:287, w:8,  h:23, c:"#3355CC"},
+        {x:296, w:9,  h:25, c:"#44AA44"},
+        {x:306, w:8,  h:26, c:"#CC3355"},
+      ].map(({x,w,h,c}) => (
+        <g key={x}>
+          <rect x={x} y={85-h} width={w} height={h} fill={c} rx="1" />
+          <rect x={x+1} y={85-h+1} width={w-2} height={3} fill="white" opacity="0.15" />
+        </g>
+      ))}
+
+      {/* Könyvek jobb polcon – sor 3 */}
+      {[
+        {x:230, w:9,  h:26, c:"#BB2233"},
+        {x:240, w:8,  h:23, c:"#2233BB"},
+        {x:249, w:10, h:28, c:"#22AA33"},
+        {x:260, w:7,  h:22, c:"#BBAA22"},
+        {x:268, w:9,  h:25, c:"#9922AA"},
+        {x:278, w:8,  h:24, c:"#BB5522"},
+        {x:287, w:9,  h:26, c:"#2244AA"},
+        {x:297, w:8,  h:23, c:"#44AA44"},
+        {x:306, w:8,  h:25, c:"#BB2244"},
+      ].map(({x,w,h,c}) => (
+        <g key={x}>
+          <rect x={x} y={120-h} width={w} height={h} fill={c} rx="1" />
+          <rect x={x+1} y={120-h+1} width={w-2} height={3} fill="white" opacity="0.15" />
+        </g>
+      ))}
+
+      {/* Könyvek jobb polcon – sor 4 */}
+      {[
+        {x:230, w:8,  h:24, c:"#EE2233"},
+        {x:239, w:10, h:26, c:"#2244EE"},
+        {x:250, w:7,  h:21, c:"#22BB33"},
+        {x:258, w:9,  h:25, c:"#EEBB33"},
+        {x:268, w:8,  h:23, c:"#BB22EE"},
+        {x:277, w:9,  h:25, c:"#EE6644"},
+        {x:287, w:8,  h:22, c:"#4466BB"},
+        {x:296, w:9,  h:24, c:"#44BB44"},
+        {x:306, w:8,  h:25, c:"#EE3355"},
+      ].map(({x,w,h,c}) => (
+        <g key={x}>
+          <rect x={x} y={155-h} width={w} height={h} fill={c} rx="1" />
+          <rect x={x+1} y={155-h+1} width={w-2} height={3} fill="white" opacity="0.15" />
+        </g>
+      ))}
+
+      {/* ── OLVASÓ ASZTAL ── */}
+      <rect x="105" y="118" width="110" height="6" fill="#8B6340" rx="2"
+        filter="url(#shadowLB)" />
+      <rect x="107" y="116" width="106" height="5" fill="#A07848" rx="2" />
+      {/* Asztallábak */}
+      {[110,125,175,190].map(x => (
+        <rect key={x} x={x} y="124" width="5" height="34" fill="#7A5530" rx="1" />
+      ))}
+      {/* Asztal árnyék */}
+      <ellipse cx="160" cy="160" rx="52" ry="4" fill="#00000022" />
+
+      {/* Könyv az asztalon – R=true esetén nyitva, R=false csukva (KÖZEPES) */}
+      {R ? (
+        <g>
+          <path d="M 135 116 Q 160 110 185 116" fill="#EEEECC" stroke="#CCC" strokeWidth="0.8" />
+          <path d="M 135 116 Q 148 112 160 116" fill="#F5F5E0" />
+          <path d="M 160 116 Q 173 112 185 116" fill="#F0F0DA" />
+          <line x1="160" y1="110" x2="160" y2="116" stroke="#CCC" strokeWidth="0.8" />
+          {/* Sorok */}
+          {[112,114].map(y => (
+            <line key={y} x1="140" y1={y} x2="158" y2={y}
+              stroke="#AAA" strokeWidth="0.6" opacity="0.6" />
+          ))}
+          {[112,114].map(y => (
+            <line key={y} x1="162" y1={y} x2="180" y2={y}
+              stroke="#AAA" strokeWidth="0.6" opacity="0.6" />
+          ))}
+        </g>
+      ) : (
+        <g>
+          <rect x="138" y="112" width="44" height="5" fill="#CC3333" rx="1" />
+          <rect x="140" y="113" width="40" height="2" fill="#EE5555" opacity="0.4" />
+        </g>
+      )}
+
+      {/* ── OLVASÓ SZEMÉLY ── */}
+      {/* Szék */}
+      <rect x="145" y="138" width="30" height="4" fill="#8B6340" rx="1" />
+      <rect x="148" y="142" width="5" height="16" fill="#7A5530" rx="1" />
+      <rect x="167" y="142" width="5" height="16" fill="#7A5530" rx="1" />
+      <rect x="145" y="130" width="30" height="10" fill="#9B7040" rx="1" />
+      {/* Test */}
+      <ellipse cx="160" cy="128" rx="10" ry="12" fill="#4455AA" />
+      {/* Fej */}
+      <circle cx="160" cy="113" r="8" fill="#FFCC99" />
+      {/* Haj – R=true esetén más szín (KÖZEPES) */}
+      <ellipse cx="160" cy="107" rx="9" ry="4" fill={R ? "#CC8833" : "#333333"} />
+      {/* Szemüveg */}
+      <circle cx="156" cy="113" r="3.5" fill="none" stroke="#888" strokeWidth="1" />
+      <circle cx="164" cy="113" r="3.5" fill="none" stroke="#888" strokeWidth="1" />
+      <line x1="152" y1="113" x2="149" y2="113" stroke="#888" strokeWidth="1" />
+      <line x1="160" y1="113" x2="160" y2="113" stroke="#888" strokeWidth="1" />
+      <line x1="167" y1="113" x2="170" y2="113" stroke="#888" strokeWidth="1" />
+      {/* Karok */}
+      <line x1="150" y1="122" x2="140" y2="117"
+        stroke="#FFCC99" strokeWidth="3" strokeLinecap="round" />
+      <line x1="170" y1="122" x2="180" y2="117"
+        stroke="#FFCC99" strokeWidth="3" strokeLinecap="round" />
+
+      {/* ── ABLAK a hátsó falon ── */}
+      <rect x="118" y="18" width="84" height="55" fill="#88BBDD" rx="3"
+        stroke="#C8B898" strokeWidth="2" filter="url(#shadowLB)" />
+      {/* Ablak belső keret */}
+      <line x1="160" y1="18" x2="160" y2="73" stroke="#C8B898" strokeWidth="1.5" />
+      <line x1="118" y1="46" x2="202" y2="46" stroke="#C8B898" strokeWidth="1.5" />
+      {/* Ablak fény */}
+      <rect x="120" y="20" width="38" height="24" fill="#AAD8EE" opacity="0.6" />
+      <rect x="162" y="20" width="38" height="24" fill="#AAD8EE" opacity="0.5" />
+      {/* Kilátás az ablakon – R=true esetén 3 madár, R=false 2 (NEHÉZ) */}
+      <path d="M 128 35 Q 132 31 136 35 Q 140 31 144 35"
+        fill="none" stroke="#33344488" strokeWidth="1.2" />
+      <path d="M 168 30 Q 172 26 176 30 Q 180 26 184 30"
+        fill="none" stroke="#33344488" strokeWidth="1.2" />
+      {R && (
+        <path d="M 145 42 Q 149 38 153 42 Q 157 38 161 42"
+          fill="none" stroke="#33344488" strokeWidth="1.2" />
+      )}
+      {/* Ablak függöny */}
+      <path d="M 118 18 Q 125 30 122 45 Q 120 58 118 73"
+        fill="#E8D8C0" opacity="0.7" />
+      <path d="M 202 18 Q 195 30 198 45 Q 200 58 202 73"
+        fill="#E8D8C0" opacity="0.7" />
+
+      {/* ── TÁBLA a falon ── */}
+      <rect x="118" y="78" width="84" height="30" fill="#228833" rx="2"
+        filter="url(#shadowLB)" />
+      <rect x="120" y="80" width="80" height="26" fill="#117722" rx="1" />
+      <text x="160" y="90" textAnchor="middle" fontSize="6.5"
+        fill="#AAFFAA" fontWeight="bold" letterSpacing="1">LIBRARY</text>
+      <text x="160" y="101" textAnchor="middle" fontSize="5.5"
+        fill="#88EE88" letterSpacing="0.5">OPENING HOURS</text>
+      {/* Nyitvatartás – R=true esetén más szám (KÖZEPES) */}
+      <text x="160" y="109" textAnchor="middle" fontSize="6"
+        fill="#CCFFCC" fontWeight="bold">
+        {R ? "9AM - 7PM" : "9AM - 8PM"}
+      </text>
+
+      {/* ── VIRÁGCSERÉP az asztalon ── */}
+      <rect x="192" y="110" width="12" height="8" fill="#C84422" rx="1" />
+      <ellipse cx="198" cy="110" rx="7" ry="3" fill="#AA3322" />
+      <rect x="194" y="105" width="8" height="6" fill="#3A8A18" rx="1" />
+      {[0,72,144,216,288].map(angle => (
+        <ellipse key={angle}
+          cx={198 + Math.cos(angle * Math.PI / 180) * 5}
+          cy={103 + Math.sin(angle * Math.PI / 180) * 4}
+          rx="3" ry="2"
+          fill="#FF6688"
+          transform={`rotate(${angle} 198 103)`}
+          opacity="0.9" />
+      ))}
+      <circle cx="198" cy="103" r="2" fill="#FFE566" />
+
+      {/* ── LÉTRA a polcon – R=true esetén 4 fok, R=false 5 (NEHÉZ) ── */}
+      <line x1="98" y1="60" x2="98" y2="158" stroke="#8B6340" strokeWidth="2.5" />
+      <line x1="106" y1="55" x2="106" y2="158" stroke="#8B6340" strokeWidth="2.5" />
+      {[70,85,100,115,...(R ? [] : [130])].map(y => (
+        <line key={y} x1="98" y1={y} x2="106" y2={y}
+          stroke="#8B6340" strokeWidth="2" />
+      ))}
+
+      {/* Árnyékok */}
+      <rect x="5" y="157" width="90" height="3" fill="#00000022" />
+      <rect x="225" y="157" width="90" height="3" fill="#00000022" />
+
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+// ─── SCENE 24: SPORT PÁLYA ───────────────────────────────────────────────────
+function SportsSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <defs>
+        <linearGradient id="skySP" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#4488CC" />
+          <stop offset="100%" stopColor="#AACCEE" />
+        </linearGradient>
+        <linearGradient id="grassSP" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#44AA44" />
+          <stop offset="100%" stopColor="#228822" />
+        </linearGradient>
+        <linearGradient id="trackSP" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#CC7733" />
+          <stop offset="100%" stopColor="#AA5522" />
+        </linearGradient>
+        <linearGradient id="standSP" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#CCCCCC" />
+          <stop offset="100%" stopColor="#999999" />
+        </linearGradient>
+        <filter id="shadowSP">
+          <feDropShadow dx="1.5" dy="2" stdDeviation="1.5" floodColor="#00000044" />
+        </filter>
+        <filter id="softSP">
+          <feGaussianBlur stdDeviation="2" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+      </defs>
+
+      {/* ── ÉGBOLT ── */}
+      <rect x="0" y="0" width="320" height="200" fill="url(#skySP)" />
+
+      {/* Nap */}
+      <circle cx="38" cy="28" r="17" fill="#FFE566" filter="url(#softSP)" opacity="0.9" />
+      <circle cx="38" cy="28" r="11" fill="#FFD700" />
+
+      {/* Felhők */}
+      <g opacity="0.88">
+        <ellipse cx="140" cy="22" rx="30" ry="12" fill="white" />
+        <ellipse cx="123" cy="26" rx="19" ry="9" fill="white" />
+        <ellipse cx="157" cy="26" rx="21" ry="9" fill="white" />
+      </g>
+      <g opacity="0.8">
+        <ellipse cx="260" cy="18" rx="24" ry="10" fill="white" />
+        <ellipse cx="247" cy="22" rx="15" ry="8" fill="white" />
+        <ellipse cx="273" cy="22" rx="16" ry="8" fill="white" />
+      </g>
+
+      {/* ── LELÁTÓ ── */}
+      <rect x="0" y="38" width="320" height="72" fill="url(#standSP)" filter="url(#shadowSP)" />
+      {/* Lelátó lépcsők */}
+      {[45,55,65,75,85,95,105].map((y,i) => (
+        <rect key={y} x={i*4} y={y} width={320-i*8} height={10}
+          fill="#BBBBBB" stroke="#AAAAAA" strokeWidth="0.5" />
+      ))}
+      {/* Lelátó tető */}
+      <rect x="0" y="35" width="320" height="8" fill="#888" rx="1" />
+      <rect x="0" y="35" width="320" height="3" fill="#AAA" rx="1" />
+
+      {/* ── NÉZŐK a lelátón ── */}
+      {[
+        [18,60],[38,60],[58,60],[78,60],[98,60],[118,60],[138,60],
+        [158,60],[178,60],[198,60],[218,60],[238,60],[258,60],[278,60],[298,60],
+        [28,72],[48,72],[68,72],[88,72],[108,72],[128,72],[148,72],
+        [168,72],[188,72],[208,72],[228,72],[248,72],[268,72],[288,72],
+      ].map(([x,y],i) => (
+        <g key={`${x}-${y}`}>
+          <ellipse cx={x} cy={y+6} rx="6" ry="7"
+            fill={["#CC2222","#2244CC","#22AA22","#CCAA22","#AA22AA","#CC6622"][i%6]}
+            opacity="0.85" />
+          <circle cx={x} cy={y} r="5"
+            fill={["#FFCC99","#FFAA88","#FFB899"][i%3]} />
+        </g>
+      ))}
+
+      {/* ── FUTÓPÁLYA ── */}
+      <ellipse cx="160" cy="148" rx="148" ry="42" fill="url(#trackSP)" />
+      <ellipse cx="160" cy="148" rx="148" ry="42" fill="none"
+        stroke="#DD8844" strokeWidth="1" />
+      {/* Sávvonalak */}
+      {[36,30,24,18,12,6].map((r,i) => (
+        <ellipse key={i} cx="160" cy="148" rx={148-r*4} ry={42-r}
+          fill="none" stroke="#EE9955" strokeWidth="0.7" opacity="0.6" />
+      ))}
+      {/* Rajtvonal */}
+      <line x1="160" y1="106" x2="160" y2="190"
+        stroke="white" strokeWidth="2" opacity="0.8" />
+
+      {/* ── FÜVES PÁLYA belül ── */}
+      <ellipse cx="160" cy="148" rx="122" ry="32" fill="url(#grassSP)" />
+      {/* Pályacsíkok */}
+      {[0,1,2,3].map(i => (
+        <ellipse key={i} cx="160" cy="148" rx={122-i*28} ry={32-i*7}
+          fill="none" stroke="#33AA33" strokeWidth="1.5" opacity="0.5" />
+      ))}
+      {/* Középvonal */}
+      <line x1="38" y1="148" x2="282" y2="148"
+        stroke="white" strokeWidth="1.5" opacity="0.6" />
+      <ellipse cx="160" cy="148" rx="18" ry="6"
+        fill="none" stroke="white" strokeWidth="1.5" opacity="0.6" />
+
+      {/* ── KAPU BAL ── */}
+      <rect x="30" y="135" width="5" height="28" fill="white"
+        stroke="#CCC" strokeWidth="0.5" filter="url(#shadowSP)" />
+      <rect x="30" y="135" width="22" height="5" fill="white"
+        stroke="#CCC" strokeWidth="0.5" />
+      <rect x="47" y="135" width="5" height="28" fill="white"
+        stroke="#CCC" strokeWidth="0.5" />
+      {/* Háló */}
+      {[34,38,42,46].map(x => (
+        <line key={x} x1={x} y1="140" x2={x-2} y2="163"
+          stroke="#DDD" strokeWidth="0.6" opacity="0.7" />
+      ))}
+      {[142,148,154,160].map(y => (
+        <line key={y} x1="30" y1={y} x2="52" y2={y}
+          stroke="#DDD" strokeWidth="0.6" opacity="0.7" />
+      ))}
+
+      {/* ── KAPU JOBB ── */}
+      <rect x="268" y="135" width="5" height="28" fill="white"
+        stroke="#CCC" strokeWidth="0.5" filter="url(#shadowSP)" />
+      <rect x="268" y="135" width="22" height="5" fill="white"
+        stroke="#CCC" strokeWidth="0.5" />
+      <rect x="285" y="135" width="5" height="28" fill="white"
+        stroke="#CCC" strokeWidth="0.5" />
+      {[272,276,280,284].map(x => (
+        <line key={x} x1={x} y1="140" x2={x+2} y2="163"
+          stroke="#DDD" strokeWidth="0.6" opacity="0.7" />
+      ))}
+      {[142,148,154,160].map(y => (
+        <line key={y} x1="268" y1={y} x2="290" y2={y}
+          stroke="#DDD" strokeWidth="0.6" opacity="0.7" />
+      ))}
+
+      {/* ── ZÁSZLÓK a sarkokon ── */}
+      {[
+        {x:38, y:116, r:true},
+        {x:282, y:116, r:false},
+      ].map(({x,y,r}) => (
+        <g key={x}>
+          <line x1={x} y1={y} x2={x} y2={y+20} stroke="#888" strokeWidth="1.5" />
+          {/* R=true esetén bal zászló piros, R=false sárga (KÖZEPES) */}
+          <polygon
+            points={`${x},${y} ${x+(r?14:14)},${y+5} ${x},${y+10}`}
+            fill={r ? (R ? "#EE2222" : "#EED422") : "#EE2222"} />
+        </g>
+      ))}
+
+      {/* ── FUTÓK ── */}
+      {/* 1. futó */}
+      <g>
+        <ellipse cx="160" cy="122" rx="6" ry="8" fill="#CC2222" />
+        <circle cx="160" cy="112" r="6" fill="#FFCC99" />
+        <ellipse cx="160" cy="108" rx="6" ry="3" fill="#222" />
+        {/* Lábak futás közben */}
+        <line x1="157" y1="129" x2="152" y2="142"
+          stroke="#CC2222" strokeWidth="2.5" strokeLinecap="round" />
+        <line x1="163" y1="129" x2="170" y2="140"
+          stroke="#CC2222" strokeWidth="2.5" strokeLinecap="round" />
+        {/* Karok */}
+        <line x1="154" y1="118" x2="146" y2="124"
+          stroke="#FFCC99" strokeWidth="2" strokeLinecap="round" />
+        <line x1="166" y1="118" x2="174" y2="122"
+          stroke="#FFCC99" strokeWidth="2" strokeLinecap="round" />
+        {/* Rajtszám – R=true esetén 8, R=false 6 (KÖZEPES) */}
+        <rect x="156" y="118" width="8" height="7" fill="white" rx="1" />
+        <text x="160" y="123" textAnchor="middle" fontSize="5"
+          fill="#CC2222" fontWeight="bold">{R ? "8" : "6"}</text>
+      </g>
+
+      {/* 2. futó */}
+      <g>
+        <ellipse cx="130" cy="126" rx="6" ry="8" fill="#2244CC" />
+        <circle cx="130" cy="116" r="6" fill="#FFAA88" />
+        <ellipse cx="130" cy="112" rx="6" ry="3" fill="#8B4513" />
+        <line x1="127" y1="133" x2="122" y2="146"
+          stroke="#2244CC" strokeWidth="2.5" strokeLinecap="round" />
+        <line x1="133" y1="133" x2="140" y2="144"
+          stroke="#2244CC" strokeWidth="2.5" strokeLinecap="round" />
+        <line x1="124" y1="122" x2="116" y2="128"
+          stroke="#FFAA88" strokeWidth="2" strokeLinecap="round" />
+        <line x1="136" y1="122" x2="144" y2="126"
+          stroke="#FFAA88" strokeWidth="2" strokeLinecap="round" />
+        <rect x="126" y="122" width="8" height="7" fill="white" rx="1" />
+        <text x="130" y="127" textAnchor="middle" fontSize="5"
+          fill="#2244CC" fontWeight="bold">3</text>
+      </g>
+
+      {/* 3. futó */}
+      <g>
+        <ellipse cx="190" cy="126" rx="6" ry="8" fill="#228833" />
+        <circle cx="190" cy="116" r="6" fill="#FFCC99" />
+        <ellipse cx="190" cy="112" rx="6" ry="3" fill="#333" />
+        <line x1="187" y1="133" x2="182" y2="146"
+          stroke="#228833" strokeWidth="2.5" strokeLinecap="round" />
+        <line x1="193" y1="133" x2="200" y2="144"
+          stroke="#228833" strokeWidth="2.5" strokeLinecap="round" />
+        <line x1="184" y1="122" x2="176" y2="128"
+          stroke="#FFCC99" strokeWidth="2" strokeLinecap="round" />
+        <line x1="196" y1="122" x2="204" y2="126"
+          stroke="#FFCC99" strokeWidth="2" strokeLinecap="round" />
+        <rect x="186" y="122" width="8" height="7" fill="white" rx="1" />
+        <text x="190" y="127" textAnchor="middle" fontSize="5"
+          fill="#228833" fontWeight="bold">7</text>
+      </g>
+
+      {/* ── LABDA – R=true esetén 4px-el arrébb (NEHÉZ) ── */}
+      <circle cx={R ? "76" : "72"} cy="150" r="7"
+        fill="white" stroke="#333" strokeWidth="0.8"
+        filter="url(#shadowSP)" />
+      {/* Labda csíkok */}
+      <path d={`M ${R ? 70 : 66} 147 Q ${R ? 76 : 72} 143 ${R ? 82 : 78} 147`}
+        fill="none" stroke="#333" strokeWidth="0.8" />
+      <path d={`M ${R ? 70 : 66} 153 Q ${R ? 76 : 72} 157 ${R ? 82 : 78} 153`}
+        fill="none" stroke="#333" strokeWidth="0.8" />
+      <line x1={R ? "76" : "72"} y1="143" x2={R ? "76" : "72"} y2="157"
+        stroke="#333" strokeWidth="0.8" />
+
+      {/* ── EREDMÉNYTÁBLA – R=true esetén más pontszám (KÖZEPES) ── */}
+      <rect x="118" y="38" width="84" height="30" fill="#111" rx="3"
+        filter="url(#shadowSP)" />
+      <rect x="120" y="40" width="80" height="26" fill="#000" rx="2" />
+      <text x="160" y="50" textAnchor="middle" fontSize="6"
+        fill="#FF4444" fontWeight="bold" letterSpacing="1">HOME  AWAY</text>
+      <text x="160" y="62" textAnchor="middle" fontSize="10"
+        fill="#00FF44" fontWeight="bold" letterSpacing="4">
+        {R ? "2  1" : "1  1"}
+      </text>
+
+      {/* ── ZÁSZLÓRÚD ── */}
+      <rect x="308" y="38" width="4" height="72" fill="#888" />
+      {/* Zászló – R=true esetén 1 csík kevesebb (NEHÉZ) */}
+      <rect x="312" y="38" width="22" height={R ? "14" : "20"} fill="#EE2222" />
+      {!R && <rect x="312" y="52" width="22" height="6" fill="white" />}
+      {!R && <rect x="312" y="58" width="22" height="6" fill="#2244CC" />}
+
+      {/* ── SZPRINTLÁMPA ── */}
+      <rect x="152" y="100" width="16" height="8" fill="#333" rx="2" />
+      {[155,159,163].map((x,i) => (
+        <circle key={x} cx={x} cy="104" r="2.5"
+          fill={i === 0 ? "#FF2222" : i === 1 ? "#FFAA00" : "#22DD22"}
+          opacity={0.9} />
+      ))}
+      <rect x="159" y="106" width="2" height="8" fill="#555" />
+
+      {/* Árnyékok */}
+      <ellipse cx="160" cy="148" rx="148" ry="8" fill="#00000022" />
+
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+// ─── SCENE 25: TENGERPART ────────────────────────────────────────────────────
+function BeachSVG2({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <defs>
+        <linearGradient id="skyB2" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#2277DD" />
+          <stop offset="100%" stopColor="#88CCFF" />
+        </linearGradient>
+        <linearGradient id="seaB2" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#1166BB" />
+          <stop offset="100%" stopColor="#0044AA" />
+        </linearGradient>
+        <linearGradient id="sandB2" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#F0D888" />
+          <stop offset="100%" stopColor="#D0B860" />
+        </linearGradient>
+        <linearGradient id="umbrellaB2" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#EE3333" />
+          <stop offset="100%" stopColor="#AA1111" />
+        </linearGradient>
+        <filter id="shadowB2">
+          <feDropShadow dx="1.5" dy="2" stdDeviation="1.5" floodColor="#00000044" />
+        </filter>
+        <filter id="softB2">
+          <feGaussianBlur stdDeviation="2" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+      </defs>
+
+      {/* ── ÉGBOLT ── */}
+      <rect x="0" y="0" width="320" height="200" fill="url(#skyB2)" />
+
+      {/* Nap – R=true esetén 6px-el arrébb (NEHÉZ) */}
+      <circle cx={R ? "272" : "278"} cy="28" r="20"
+        fill="#FFE566" filter="url(#softB2)" opacity="0.95" />
+      <circle cx={R ? "272" : "278"} cy="28" r="13" fill="#FFD700" />
+
+      {/* Felhők */}
+      <g opacity="0.88">
+        <ellipse cx="75" cy="25" rx="30" ry="12" fill="white" />
+        <ellipse cx="58" cy="29" rx="19" ry="9" fill="white" />
+        <ellipse cx="92" cy="29" rx="21" ry="9" fill="white" />
+      </g>
+      <g opacity="0.75">
+        <ellipse cx="185" cy="18" rx="24" ry="10" fill="white" />
+        <ellipse cx="172" cy="22" rx="15" ry="8" fill="white" />
+        <ellipse cx="198" cy="22" rx="16" ry="8" fill="white" />
+      </g>
+
+      {/* ── TENGER ── */}
+      <rect x="0" y="85" width="320" height="70" fill="url(#seaB2)" />
+      {/* Hullámok */}
+      {[92,100,108,116,124].map(y => (
+        <path key={y}
+          d={`M 0 ${y} Q 40 ${y-4} 80 ${y} Q 120 ${y+4} 160 ${y} Q 200 ${y-4} 240 ${y} Q 280 ${y+4} 320 ${y}`}
+          fill="none" stroke="#3388CC" strokeWidth="1.2" opacity="0.4" />
+      ))}
+      {/* Tenger fény csillogás */}
+      {[30,70,110,150,190,230,270].map(x => (
+        <ellipse key={x} cx={x} cy={95+(x%30)} rx="8" ry="2"
+          fill="white" opacity="0.15" />
+      ))}
+      {/* Vízpart */}
+      <path d="M 0 152 Q 80 146 160 150 Q 240 154 320 148"
+        fill="#2277CC" opacity="0.5" />
+
+      {/* ── HOMOK ── */}
+      <path d="M 0 148 Q 80 142 160 146 Q 240 150 320 144 L 320 200 L 0 200"
+        fill="url(#sandB2)" />
+      {/* Homok textúra */}
+      {[5,18,32,48,65,82,100,118,138,158,178,198,218,238,258,278,298,315].map((x,i) => (
+        <ellipse key={x} cx={x} cy={152+(i%3)*3} rx={3+(i%2)} ry="1.5"
+          fill="#C0A050" opacity="0.3" />
+      ))}
+      {/* Hullámvonal a homokparton */}
+      <path d="M 0 150 Q 80 144 160 148 Q 240 152 320 146"
+        fill="none" stroke="#88BBFF" strokeWidth="1.5" opacity="0.4" />
+
+      {/* ── NAPERNYŐ BAL ── */}
+      {/* Rúd */}
+      <line x1="68" y1="108" x2="72" y2="162"
+        stroke="#8B6340" strokeWidth="2.5" />
+      {/* Napernyő – csíkos */}
+      <path d="M 28 110 Q 68 88 108 110" fill="#EE3333" />
+      <path d="M 28 110 Q 68 88 108 110" fill="none" stroke="#CC1111" strokeWidth="0.8" />
+      {/* Csíkok */}
+      {[38,48,58,68,78,88,98].map((x,i) => (
+        <line key={x}
+          x1={x} y1={110 - Math.sin((x-28)/80*Math.PI)*22}
+          x2={68} y2={88}
+          stroke={i%2===0 ? "#FF6666" : "#FFFF44"}
+          strokeWidth="2" opacity="0.5" />
+      ))}
+      <ellipse cx="68" cy="88" rx="4" ry="2" fill="#CC1111" />
+
+      {/* ── NAPERNYŐ JOBB ── */}
+      <line x1="228" y1="112" x2="232" y2="162"
+        stroke="#8B6340" strokeWidth="2.5" />
+      <path d="M 188 114 Q 228 92 268 114" fill="#2244CC" />
+      <path d="M 188 114 Q 228 92 268 114" fill="none" stroke="#112288" strokeWidth="0.8" />
+      {[198,208,218,228,238,248,258].map((x,i) => (
+        <line key={x}
+          x1={x} y1={114 - Math.sin((x-188)/80*Math.PI)*22}
+          x2={228} y2={92}
+          stroke={i%2===0 ? "#4466EE" : "#FFFFFF"}
+          strokeWidth="2" opacity="0.5" />
+      ))}
+      <ellipse cx="228" cy="92" rx="4" ry="2" fill="#112288" />
+
+      {/* ── NAPÁGY BAL ── */}
+      <rect x="38" y="152" width="55" height="8" fill="#E8C870" rx="3"
+        filter="url(#shadowB2)" />
+      <rect x="40" y="150" width="51" height="5" fill="#F0D080" rx="2" />
+      {[42,58,74,84].map(x => (
+        <rect key={x} x={x} y="159" width="4" height="8" fill="#C8A050" rx="1" />
+      ))}
+
+      {/* ── NAPÁGY JOBB ── */}
+      <rect x="202" y="152" width="55" height="8" fill="#E8C870" rx="3"
+        filter="url(#shadowB2)" />
+      <rect x="204" y="150" width="51" height="5" fill="#F0D080" rx="2" />
+      {[206,222,238,248].map(x => (
+        <rect key={x} x={x} y="159" width="4" height="8" fill="#C8A050" rx="1" />
+      ))}
+
+      {/* ── FÜRDŐZŐ BAL – hason fekve ── */}
+      <ellipse cx="65" cy="152" rx="18" ry="6" fill="#FFAA66" />
+      <circle cx="83" cy="150" r="6" fill="#FFCC99" />
+      <ellipse cx="82" cy="146" rx="7" ry="3"
+        fill={R ? "#CC8833" : "#333"} />
+      {/* Fürdőruha */}
+      <ellipse cx="65" cy="152" rx="14" ry="5" fill="#EE4488" opacity="0.8" />
+      {/* Karok */}
+      <line x1="48" y1="150" x2="40" y2="148"
+        stroke="#FFAA66" strokeWidth="3" strokeLinecap="round" />
+      <line x1="48" y1="154" x2="38" y2="156"
+        stroke="#FFAA66" strokeWidth="3" strokeLinecap="round" />
+
+      {/* ── FÜRDŐZŐ JOBB – ülve ── */}
+      <ellipse cx="228" cy="156" rx="8" ry="6" fill="#3355AA" />
+      <circle cx="228" cy="145" r="7" fill="#FFCC99" />
+      <ellipse cx="228" cy="140" rx="8" ry="3.5" fill="#333" />
+      {/* Napszemüveg – R=true esetén piros keret, R=false fekete (KÖZEPES) */}
+      <circle cx="224" cy="145" r="3.5" fill="none"
+        stroke={R ? "#EE2222" : "#111"} strokeWidth="1.2" />
+      <circle cx="232" cy="145" r="3.5" fill="none"
+        stroke={R ? "#EE2222" : "#111"} strokeWidth="1.2" />
+      <rect cx="224" cy="144" rx="1" ry="1"
+        fill={R ? "#EE444488" : "#11111188"} />
+      <line x1="220" y1="145" x2="217" y2="145"
+        stroke={R ? "#EE2222" : "#111"} strokeWidth="1" />
+      <line x1="236" y1="145" x2="239" y2="145"
+        stroke={R ? "#EE2222" : "#111"} strokeWidth="1" />
+      <line x1="228" y1="145" x2="228" y2="145"
+        stroke={R ? "#EE2222" : "#111"} strokeWidth="1" />
+      {/* Lábak */}
+      <line x1="222" y1="161" x2="210" y2="170"
+        stroke="#FFCC99" strokeWidth="4" strokeLinecap="round" />
+      <line x1="234" y1="161" x2="246" y2="170"
+        stroke="#FFCC99" strokeWidth="4" strokeLinecap="round" />
+
+      {/* ── HOMOKVÁR – R=true esetén 1 toronnyal kevesebb (KÖZEPES) ── */}
+      {/* Alap */}
+      <rect x="128" y="148" width="64" height="12" fill="#D4B060" rx="2" />
+      {/* Tornyok */}
+      <rect x="130" y="138" width="14" height="12" fill="#C8A850" rx="1" />
+      <rect x="149" y="140" width="14" height="10" fill="#C8A850" rx="1" />
+      {!R && <rect x="168" y="138" width="14" height="12" fill="#C8A850" rx="1" />}
+      <rect x="174" y="136" width="14" height="14" fill="#C8A850" rx="1" />
+      {/* Torony csúcsok */}
+      <polygon points="130,138 137,130 144,138" fill="#D4B060" />
+      <polygon points="149,140 156,133 163,140" fill="#D4B060" />
+      {!R && <polygon points="168,138 175,130 182,138" fill="#D4B060" />}
+      <polygon points="174,136 181,128 188,136" fill="#D4B060" />
+      {/* Ablakocskák */}
+      <rect x="134" y="141" width="6" height="5" fill="#AA8830" rx="1" />
+      <rect x="153" y="143" width="6" height="4" fill="#AA8830" rx="1" />
+      {!R && <rect x="172" y="141" width="6" height="5" fill="#AA8830" rx="1" />}
+      <rect x="178" y="139" width="6" height="6" fill="#AA8830" rx="1" />
+      {/* Kapu */}
+      <path d="M 152 160 Q 160 154 168 160" fill="#AA8830" />
+
+      {/* ── HAJÓ a távolban ── */}
+      <g opacity="0.8">
+        <path d="M 100 98 L 120 98 L 115 108 L 105 108 Z" fill="white" />
+        <rect x="109" y="82" width="2" height="16" fill="#888" />
+        {/* Vitorla – R=true esetén piros, R=false fehér (KÖZEPES) */}
+        <path d="M 111 82 L 111 96 L 122 96 Z"
+          fill={R ? "#EE2222" : "white"} opacity="0.9" />
+        <path d="M 109 85 L 109 96 L 100 96 Z"
+          fill="white" opacity="0.8" />
+      </g>
+
+      {/* ── SIRÁLYOK – R=true esetén 4, R=false 3 (NEHÉZ) ── */}
+      <path d="M 48 58 Q 52 54 56 58 Q 60 54 64 58"
+        fill="none" stroke="#33344488" strokeWidth="1.3" />
+      <path d="M 140 48 Q 144 44 148 48 Q 152 44 156 48"
+        fill="none" stroke="#33344488" strokeWidth="1.3" />
+      <path d="M 200 62 Q 204 58 208 62 Q 212 58 216 62"
+        fill="none" stroke="#33344488" strokeWidth="1.3" />
+      {R && (
+        <path d="M 168 40 Q 172 36 176 40 Q 180 36 184 40"
+          fill="none" stroke="#33344488" strokeWidth="1.3" />
+      )}
+
+      {/* ── STRANDLABDA ── */}
+      <circle cx="155" cy="163" r="10" fill="white"
+        stroke="#EE2222" strokeWidth="0.5" filter="url(#shadowB2)" />
+      <path d="M 145 163 Q 155 153 165 163" fill="#EE2222" opacity="0.8" />
+      <path d="M 145 163 Q 155 173 165 163" fill="#2244CC" opacity="0.8" />
+      <path d="M 155 153 Q 162 163 155 173" fill="#22AA22" opacity="0.6" />
+      <circle cx="155" cy="163" r="10" fill="none"
+        stroke="#DDD" strokeWidth="0.5" />
+
+      {/* Kagylók a parton */}
+      {[88,108,178,290,308].map((x,i) => (
+        <g key={x}>
+          <ellipse cx={x} cy={160+(i%2)*5} rx="5" ry="3"
+            fill="#E8C8A0" stroke="#C8A880" strokeWidth="0.5"
+            transform={`rotate(${i*25} ${x} ${160+(i%2)*5})`} />
+        </g>
+      ))}
+
+      {/* Lábnyomok */}
+      {[95,103,112,120,128].map((x,i) => (
+        <ellipse key={x} cx={x} cy={170+(i%2)*4} rx="3" ry="4"
+          fill="#C0A050" opacity="0.35"
+          transform={`rotate(${i%2===0?15:-15} ${x} ${170+(i%2)*4})`} />
+      ))}
+
+      {/* Árnyékok */}
+      <ellipse cx="68" cy="160" rx="20" ry="3" fill="#00000022" />
+      <ellipse cx="228" cy="165" rx="18" ry="3" fill="#00000022" />
+      <ellipse cx="155" cy="170" rx="10" ry="2" fill="#00000022" />
+
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+      // ─── SCENE 26: VIDÁMPARK ─────────────────────────────────────────────────────
+function AmusementParkSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <defs>
+        <linearGradient id="skyAP" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#3377CC" />
+          <stop offset="100%" stopColor="#99CCFF" />
+        </linearGradient>
+        <linearGradient id="groundAP" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#66AA44" />
+          <stop offset="100%" stopColor="#338822" />
+        </linearGradient>
+        <linearGradient id="wheelAP" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stopColor="#CCCCCC" />
+          <stop offset="100%" stopColor="#888888" />
+        </linearGradient>
+        <linearGradient id="tentAP" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#EE3333" />
+          <stop offset="100%" stopColor="#AA1111" />
+        </linearGradient>
+        <filter id="shadowAP">
+          <feDropShadow dx="1.5" dy="2" stdDeviation="1.5" floodColor="#00000044" />
+        </filter>
+        <filter id="softAP">
+          <feGaussianBlur stdDeviation="2" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+        <filter id="glowAP">
+          <feGaussianBlur stdDeviation="2.5" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+      </defs>
+
+      {/* ── ÉGBOLT ── */}
+      <rect x="0" y="0" width="320" height="200" fill="url(#skyAP)" />
+
+      {/* Nap */}
+      <circle cx="290" cy="25" r="18" fill="#FFE566" filter="url(#softAP)" opacity="0.9" />
+      <circle cx="290" cy="25" r="12" fill="#FFD700" />
+
+      {/* Felhők */}
+      <g opacity="0.88">
+        <ellipse cx="70" cy="22" rx="28" ry="11" fill="white" />
+        <ellipse cx="54" cy="26" rx="17" ry="8" fill="white" />
+        <ellipse cx="86" cy="26" rx="19" ry="8" fill="white" />
+      </g>
+      <g opacity="0.8">
+        <ellipse cx="185" cy="18" rx="22" ry="9" fill="white" />
+        <ellipse cx="173" cy="22" rx="14" ry="7" fill="white" />
+        <ellipse cx="197" cy="22" rx="15" ry="7" fill="white" />
+      </g>
+
+      {/* ── TALAJ ── */}
+      <rect x="0" y="158" width="320" height="42" fill="url(#groundAP)" />
+      {/* Ösvény */}
+      <rect x="0" y="158" width="320" height="6" fill="#CCC" opacity="0.6" />
+      {[30,70,110,150,190,230,270].map(x => (
+        <rect key={x} x={x} y="158" width="20" height="6"
+          fill="#BBB" opacity="0.4" />
+      ))}
+
+      {/* ── ÓRIÁSKERÉK ── */}
+      {/* Tartószerkezet */}
+      <line x1="62" y1="148" x2="98" y2="148" stroke="#777" strokeWidth="3" />
+      <line x1="80" y1="148" x2="80" y2="50" stroke="#777" strokeWidth="3" />
+      {/* Kerék */}
+      <circle cx="80" cy="80" r="55" fill="none"
+        stroke="url(#wheelAP)" strokeWidth="4" filter="url(#shadowAP)" />
+      <circle cx="80" cy="80" r="8" fill="#888" />
+      <circle cx="80" cy="80" r="5" fill="#AAA" />
+      {/* Küllők */}
+      {[0,30,60,90,120,150,180,210,240,270,300,330].map(angle => (
+        <line key={angle}
+          x1={80 + Math.cos(angle * Math.PI / 180) * 8}
+          y1={80 + Math.sin(angle * Math.PI / 180) * 8}
+          x2={80 + Math.cos(angle * Math.PI / 180) * 55}
+          y2={80 + Math.sin(angle * Math.PI / 180) * 55}
+          stroke="#999" strokeWidth="1.2" opacity="0.7" />
+      ))}
+      {/* Gondolák */}
+      {[0,45,90,135,180,225,270,315].map((angle, i) => {
+        const cx = 80 + Math.cos(angle * Math.PI / 180) * 52
+        const cy = 80 + Math.sin(angle * Math.PI / 180) * 52
+        const colors = ["#EE2222","#2244EE","#22AA22","#EEEE22","#EE88AA","#22AAEE","#EE8822","#AA22EE"]
+        return (
+          <g key={angle}>
+            <rect x={cx-6} y={cy-5} width="12" height="10"
+              fill={colors[i]} rx="2" filter="url(#shadowAP)" />
+            <rect x={cx-5} y={cy-4} width="10" height="4"
+              fill="white" opacity="0.2" rx="1" />
+          </g>
+        )
+      })}
+
+      {/* ── HULLÁMVASÚT ── */}
+      {/* Pálya */}
+      <path d="M 148 155 Q 165 120 182 138 Q 196 155 210 130 Q 222 108 238 128 Q 252 148 268 125 Q 278 110 290 128 L 295 158 L 148 158"
+        fill="#AA8855" opacity="0.5" />
+      <path d="M 148 155 Q 165 120 182 138 Q 196 155 210 130 Q 222 108 238 128 Q 252 148 268 125 Q 278 110 290 128"
+        fill="none" stroke="#8B6340" strokeWidth="4" />
+      <path d="M 148 158 Q 165 123 182 141 Q 196 158 210 133 Q 222 111 238 131 Q 252 151 268 128 Q 278 113 290 131"
+        fill="none" stroke="#8B6340" strokeWidth="4" />
+      {/* Tartóoszlopok */}
+      {[155,175,200,225,248,272,288].map(x => (
+        <line key={x} x1={x} y1="158" x2={x} y2={158}
+          stroke="#7A5530" strokeWidth="2" />
+      ))}
+      {/* Kocsi – R=true esetén piros, R=false sárga (KÖZEPES) */}
+      <rect x="205" y="122" width="20" height="12" fill={R ? "#EE2222" : "#EEEE22"}
+        rx="3" filter="url(#shadowAP)" />
+      <rect x="207" y="123" width="16" height="5" fill="white" opacity="0.2" rx="1" />
+      {[209,220].map(x => (
+        <g key={x}>
+          <circle cx={x} cy="135" r="4" fill="#333" />
+          <circle cx={x} cy="135" r="2.5" fill="#555" />
+        </g>
+      ))}
+      {/* Utasok a kocsiban */}
+      <circle cx="212" cy="122" r="4" fill="#FFCC99" />
+      <circle cx="220" cy="122" r="4" fill="#FFAA88" />
+
+      {/* ── KÖRHINTA ── */}
+      {/* Középső oszlop */}
+      <rect x="134" y="95" width="6" height="65" fill="#CC4422" rx="2" />
+      {/* Tető */}
+      <polygon points="120,95 137,72 154,95" fill="url(#tentAP)" filter="url(#shadowAP)" />
+      <polygon points="120,95 137,72 154,95" fill="none" stroke="#881111" strokeWidth="0.8" />
+      <polygon points="130,95 137,80 144,95" fill="#FFFF44" opacity="0.6" />
+      <circle cx="137" cy="72" r="4" fill="#FFD700" filter="url(#glowAP)" />
+      {/* Platform */}
+      <ellipse cx="137" cy="158" rx="22" ry="5" fill="#C88840" filter="url(#shadowAP)" />
+      <ellipse cx="137" cy="157" rx="20" ry="4" fill="#D89A50" />
+      {/* Lovak */}
+      {[0,90,180,270].map((angle, i) => {
+        const hx = 137 + Math.cos(angle * Math.PI / 180) * 16
+        const hy = 145 + Math.sin(angle * Math.PI / 180) * 3
+        return (
+          <g key={angle}>
+            <line x1="137" y1="95" x2={hx} y2={hy}
+              stroke="#AA7730" strokeWidth="1" opacity="0.6" />
+            {/* Ló */}
+            <ellipse cx={hx} cy={hy+4} rx="7" ry="4"
+              fill={["#EEEEEE","#CC8833","#888888","#FFCC88"][i]} />
+            <circle cx={hx+5} cy={hy+1} r="3.5"
+              fill={["#DDDDDD","#BB7722","#777777","#EEBB77"][i]} />
+            <line x1={hx+2} y1={hy+7} x2={hx+1} y2={hy+14}
+              stroke={["#CCC","#AA6611","#666","#DDAA66"][i]} strokeWidth="1.5" />
+            <line x1={hx+6} y1={hy+7} x2={hx+7} y2={hy+14}
+              stroke={["#CCC","#AA6611","#666","#DDAA66"][i]} strokeWidth="1.5" />
+          </g>
+        )
+      })}
+
+      {/* ── JÉGKRÉM ÁRUS ── */}
+      {/* Kocsi */}
+      <rect x="155" y="148" width="40" height="15" fill="white"
+        rx="3" filter="url(#shadowAP)" />
+      <rect x="157" y="145" width="36" height="6" fill="#EEE" rx="2" />
+      <rect x="159" y="143" width="32" height="4" fill="#DDD" rx="1" />
+      {/* Ernyő */}
+      <line x1="175" y1="143" x2="175" y2="128" stroke="#888" strokeWidth="1.5" />
+      <path d="M 158 130 Q 175 118 192 130" fill="#EE4488" />
+      {[162,170,178,186].map((x,i) => (
+        <line key={x}
+          x1={x} y1={130 - Math.sin((x-158)/34*Math.PI)*12}
+          x2={175} y2={118}
+          stroke={i%2===0?"#FF88BB":"#FFD700"}
+          strokeWidth="1.5" opacity="0.6" />
+      ))}
+      {/* Kerekek */}
+      {[162,183].map(x => (
+        <g key={x}>
+          <circle cx={x} cy="163" r="5" fill="#333" />
+          <circle cx={x} cy="163" r="3" fill="#555" />
+        </g>
+      ))}
+      {/* ICE CREAM felirat */}
+      <text x="175" y="155" textAnchor="middle" fontSize="5"
+        fill="#EE4488" fontWeight="bold">ICE CREAM</text>
+      {/* Jégkrémek a kocsin – R=true esetén 3, R=false 4 (KÖZEPES) */}
+      {[163,169,175,...(R ? [] : [181])].map(x => (
+        <g key={x}>
+          <rect x={x-2} y="135" width="4" height="8" fill="#F0C060" />
+          <ellipse cx={x} cy="135" rx="4" ry="5"
+            fill={x===163?"#FF8888":x===169?"#88CCFF":x===175?"#FFEE88":"#88EE88"} />
+        </g>
+      ))}
+
+      {/* ── LUFI ÁRUS ── */}
+      {/* Test */}
+      <ellipse cx="112" cy="158" rx="7" ry="9" fill="#336633" />
+      <circle cx="112" cy="146" r="7" fill="#FFCC99" />
+      <ellipse cx="112" cy="142" rx="7" ry="3" fill="#222" />
+      <rect x="107" y="165" width="4" height="12" fill="#224422" rx="1" />
+      <rect x="113" y="165" width="4" height="12" fill="#224422" rx="1" />
+      {/* Lufik – R=true esetén 5 lufi, R=false 6 (NEHÉZ) */}
+      {[
+        {x:104, y:128, c:"#EE2222"},
+        {x:114, y:122, c:"#2244EE"},
+        {x:122, y:128, c:"#22CC22"},
+        {x:108, y:118, c:"#EEEE22"},
+        {x:118, y:116, c:"#EE44EE"},
+        ...(R ? [] : [{x:100, y:120, c:"#22EEEE"}]),
+      ].map(({x,y,c}) => (
+        <g key={`${x}-${y}`}>
+          <ellipse cx={x} cy={y} rx="6" ry="7" fill={c} opacity="0.9"
+            filter="url(#glowAP)" />
+          <ellipse cx={x-1} cy={y-2} rx="2" ry="2" fill="white" opacity="0.25" />
+          <line x1={x} y1={y+7} x2={112} y2={145}
+            stroke="#888" strokeWidth="0.7" opacity="0.6" />
+        </g>
+      ))}
+
+      {/* ── BEJÁRATI KAPU ── */}
+      <rect x="230" y="115" width="80" height="45" fill="#DD3322" rx="3"
+        filter="url(#shadowAP)" />
+      {/* Kapu ívek */}
+      <path d="M 230 140 Q 230 115 250 115 Q 270 115 270 140"
+        fill="#BB2211" />
+      <path d="M 270 140 Q 270 115 290 115 Q 310 115 310 140"
+        fill="#BB2211" />
+      {/* Kapu tábla */}
+      <rect x="232" y="117" width="76" height="12" fill="#AA1100" rx="1" />
+      <text x="270" y="126" textAnchor="middle" fontSize="6.5"
+        fill="#FFD700" fontWeight="bold" letterSpacing="1">FUN PARK</text>
+      {/* Csillagok a táblán – R=true esetén 2, R=false 3 (NEHÉZ) */}
+      {[242, 270, ...(R ? [] : [298])].map(x => (
+        <text key={x} x={x} y="126" textAnchor="middle"
+          fontSize="6" fill="#FFD700">★</text>
+      ))}
+      {/* Kapu oszlopok */}
+      <rect x="228" y="112" width="8" height="48" fill="#BB2211" rx="2" />
+      <rect x="304" y="112" width="8" height="48" fill="#BB2211" rx="2" />
+      {/* Lampionok a kapun */}
+      {[232,258,284,308].map((x,i) => (
+        <g key={x}>
+          <ellipse cx={x} cy="112" rx="5" ry="6"
+            fill={i%2===0?"#EE2222":"#EEEE22"} opacity="0.9"
+            filter="url(#glowAP)" />
+          <ellipse cx={x} cy="109" rx="3" ry="2" fill="white" opacity="0.2" />
+        </g>
+      ))}
+
+      {/* ── LAMPIONOK az ösvény mentén ── */}
+      {[20,55,200].map((x,i) => (
+        <g key={x}>
+          <rect x={x} y="138" width="3" height="22" fill="#888" />
+          <ellipse cx={x+1} cy="137" rx="7" ry="4"
+            fill={["#FFE566","#FF8888","#88FFFF"][i]} opacity="0.85"
+            filter="url(#softAP)" />
+        </g>
+      ))}
+
+      {/* Madarak */}
+      <path d="M 115 35 Q 119 31 123 35 Q 127 31 131 35"
+        fill="none" stroke="#33344488" strokeWidth="1.2" />
+      <path d="M 215 28 Q 219 24 223 28 Q 227 24 231 28"
+        fill="none" stroke="#33344488" strokeWidth="1.2" />
+
+      {/* Árnyékok */}
+      <ellipse cx="80" cy="152" rx="45" ry="4" fill="#00000033" />
+      <ellipse cx="137" cy="162" rx="22" ry="3" fill="#00000033" />
+      <ellipse cx="225" cy="140" rx="52" ry="4" fill="#00000033" />
+
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+      // ─── SCENE 27: KÖZÉPKORI VÁR ─────────────────────────────────────────────────
+function CastleSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <defs>
+        <linearGradient id="skyCA" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#3366AA" />
+          <stop offset="100%" stopColor="#99BBDD" />
+        </linearGradient>
+        <linearGradient id="stoneCA" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0%" stopColor="#AAAAAA" />
+          <stop offset="100%" stopColor="#888888" />
+        </linearGradient>
+        <linearGradient id="groundCA" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#558833" />
+          <stop offset="100%" stopColor="#336611" />
+        </linearGradient>
+        <linearGradient id="waterCA" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#2255AA" />
+          <stop offset="100%" stopColor="#113388" />
+        </linearGradient>
+        <filter id="shadowCA">
+          <feDropShadow dx="1.5" dy="2" stdDeviation="2" floodColor="#00000055" />
+        </filter>
+        <filter id="softCA">
+          <feGaussianBlur stdDeviation="1.5" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+      </defs>
+
+      {/* ── ÉGBOLT ── */}
+      <rect x="0" y="0" width="320" height="200" fill="url(#skyCA)" />
+
+      {/* Nap */}
+      <circle cx="285" cy="28" r="18" fill="#FFE566" filter="url(#softCA)" opacity="0.9" />
+      <circle cx="285" cy="28" r="12" fill="#FFD700" />
+
+      {/* Felhők */}
+      <g opacity="0.88">
+        <ellipse cx="65" cy="25" rx="30" ry="12" fill="white" />
+        <ellipse cx="48" cy="29" rx="19" ry="9" fill="white" />
+        <ellipse cx="82" cy="29" rx="21" ry="9" fill="white" />
+      </g>
+      <g opacity="0.8">
+        <ellipse cx="195" cy="20" rx="24" ry="10" fill="white" />
+        <ellipse cx="182" cy="24" rx="15" ry="8" fill="white" />
+        <ellipse cx="208" cy="24" rx="16" ry="8" fill="white" />
+      </g>
+
+      {/* ── HÁTTÉR HEGYEK ── */}
+      <path d="M 0 110 Q 40 75 80 100 Q 120 125 160 85 Q 200 45 240 80 Q 280 115 320 90 L 320 160 L 0 160"
+        fill="#447733" opacity="0.5" />
+      <path d="M 0 120 Q 50 90 100 110 Q 150 130 200 100 Q 250 70 300 105 L 320 110 L 320 160 L 0 160"
+        fill="#336622" opacity="0.4" />
+
+      {/* ── VÁR ALAPJA ── */}
+      <rect x="55" y="80" width="210" height="88" fill="url(#stoneCA)"
+        filter="url(#shadowCA)" />
+      {/* Kőminta */}
+      {[85,100,115,130,145,160].map(y =>
+        [58,82,106,130,154,178,202,226,248].map((x,i) => (
+          <rect key={`${x}-${y}`} x={x+(i%2)*12} y={y}
+            width="22" height="13" fill="none"
+            stroke="#77777788" strokeWidth="0.5" rx="0.5" />
+        ))
+      )}
+
+      {/* ── BAL TORONY ── */}
+      <rect x="38" y="48" width="52" height="122" fill="url(#stoneCA)"
+        filter="url(#shadowCA)" />
+      {/* Torony kőminta */}
+      {[52,67,82,97,112,127,142,157].map(y =>
+        [40,58,76].map((x,i) => (
+          <rect key={`${x}-${y}`} x={x+(i%2)*9} y={y}
+            width="16" height="13" fill="none"
+            stroke="#77777766" strokeWidth="0.5" rx="0.5" />
+        ))
+      )}
+      {/* Torony pártázat */}
+      {[38,50,62,74,80].map(x => (
+        <rect key={x} x={x} y="35" width="9" height="16"
+          fill="url(#stoneCA)" stroke="#666" strokeWidth="0.5" />
+      ))}
+      <rect x="38" y="48" width="52" height="4" fill="#777" />
+
+      {/* ── JOBB TORONY ── */}
+      <rect x="230" y="48" width="52" height="122" fill="url(#stoneCA)"
+        filter="url(#shadowCA)" />
+      {[52,67,82,97,112,127,142,157].map(y =>
+        [232,250,268].map((x,i) => (
+          <rect key={`${x}-${y}`} x={x+(i%2)*9} y={y}
+            width="16" height="13" fill="none"
+            stroke="#77777766" strokeWidth="0.5" rx="0.5" />
+        ))
+      )}
+      {[230,242,254,266,278].map(x => (
+        <rect key={x} x={x} y="35" width="9" height="16"
+          fill="url(#stoneCA)" stroke="#666" strokeWidth="0.5" />
+      ))}
+      <rect x="230" y="48" width="52" height="4" fill="#777" />
+
+      {/* ── KÖZÉPSŐ TORONY ── */}
+      <rect x="118" y="25" width="84" height="143" fill="url(#stoneCA)"
+        filter="url(#shadowCA)" />
+      {[30,45,60,75,90,105,120,135,150,165].map(y =>
+        [120,142,164,186].map((x,i) => (
+          <rect key={`${x}-${y}`} x={x+(i%2)*11} y={y}
+            width="20" height="13" fill="none"
+            stroke="#77777766" strokeWidth="0.5" rx="0.5" />
+        ))
+      )}
+      {/* Középső torony pártázat */}
+      {[118,130,142,154,166,178,190].map(x => (
+        <rect key={x} x={x} y="12" width="9" height="16"
+          fill="url(#stoneCA)" stroke="#666" strokeWidth="0.5" />
+      ))}
+      <rect x="118" y="25" width="84" height="4" fill="#777" />
+
+      {/* ── ZÁSZLÓK ── */}
+      {/* Bal torony zászló */}
+      <line x1="64" y1="35" x2="64" y2="18" stroke="#888" strokeWidth="1.5" />
+      <polygon points="64,18 82,24 64,30"
+        fill={R ? "#EE2222" : "#2244EE"} />
+
+      {/* Középső torony zászló – R=true esetén más szín (KÖZEPES) */}
+      <line x1="160" y1="12" x2="160" y2="-4" stroke="#888" strokeWidth="1.5" />
+      <polygon points="160,-4 180,3 160,10"
+        fill={R ? "#22CC44" : "#EE2222"} />
+
+      {/* Jobb torony zászló */}
+      <line x1="256" y1="35" x2="256" y2="18" stroke="#888" strokeWidth="1.5" />
+      <polygon points="256,18 274,24 256,30" fill="#EE8822" />
+
+      {/* ── ABLAKOK ── */}
+      {/* Bal torony ablakok */}
+      {[65,95,125].map(y => (
+        <g key={y}>
+          <rect x="50" y={y} width="16" height="20" fill="#224466" rx="1"
+            stroke="#666" strokeWidth="0.8" />
+          <path d={`M 50 ${y+10} Q 58 ${y+2} 66 ${y+10}`}
+            fill="#335577" />
+          <rect x="51" y={y+1} width="6" height="6" fill="white" opacity="0.1" />
+        </g>
+      ))}
+      {/* Jobb torony ablakok */}
+      {[65,95,125].map(y => (
+        <g key={y}>
+          <rect x="254" y={y} width="16" height="20" fill="#224466" rx="1"
+            stroke="#666" strokeWidth="0.8" />
+          <path d={`M 254 ${y+10} Q 262 ${y+2} 270 ${y+10}`}
+            fill="#335577" />
+          <rect x="255" y={y+1} width="6" height="6" fill="white" opacity="0.1" />
+        </g>
+      ))}
+      {/* Középső torony ablakok */}
+      {[40,68,96].map(y => (
+        <g key={y}>
+          <rect x="144" y={y} width="32" height="24" fill="#224466" rx="2"
+            stroke="#666" strokeWidth="1" />
+          <path d={`M 144 ${y+14} Q 160 ${y+2} 176 ${y+14}`}
+            fill="#335577" />
+          <line x1="160" y1={y} x2="160" y2={y+24} stroke="#555" strokeWidth="0.8" />
+          <rect x="145" y={y+1} width="13" height="6" fill="white" opacity="0.1" />
+        </g>
+      ))}
+
+      {/* ── KAPU ── */}
+      <rect x="138" y="128" width="44" height="40" fill="#1A2A3A" rx="2" />
+      <path d="M 138 148 Q 138 128 160 125 Q 182 128 182 148"
+        fill="#111" />
+      <path d="M 140 148 Q 140 130 160 127 Q 180 130 180 148"
+        fill="#1A2A3A" />
+      {/* Kapu rács – R=true esetén 3 vízszintes rács, R=false 4 (NEHÉZ) */}
+      {[133,140,147,...(R ? [] : [154])].map(y => (
+        <line key={y} x1="140" y1={y} x2="180" y2={y}
+          stroke="#444" strokeWidth="1.5" opacity="0.8" />
+      ))}
+      {[148,156,164,172].map(x => (
+        <line key={x} x1={x} y1="127" x2={x} y2="168"
+          stroke="#444" strokeWidth="1.5" opacity="0.8" />
+      ))}
+
+      {/* ── FELVONÓHÍD ── */}
+      <rect x="142" y="155" width="36" height="5" fill="#8B6340" rx="1"
+        filter="url(#shadowCA)" />
+      <line x1="142" y1="128" x2="142" y2="160" stroke="#8B6340" strokeWidth="1.5" />
+      <line x1="178" y1="128" x2="178" y2="160" stroke="#8B6340" strokeWidth="1.5" />
+
+      {/* ── ÁROK ── */}
+      <rect x="0" y="158" width="320" height="20" fill="url(#waterCA)" />
+      {/* Víz hullámok */}
+      {[163,170,177].map(y => (
+        <path key={y}
+          d={`M 0 ${y} Q 40 ${y-3} 80 ${y} Q 120 ${y+3} 160 ${y} Q 200 ${y-3} 240 ${y} Q 280 ${y+3} 320 ${y}`}
+          fill="none" stroke="#3366BB" strokeWidth="1" opacity="0.5" />
+      ))}
+      {/* Víz csillogás */}
+      {[25,65,110,155,200,245,290].map(x => (
+        <ellipse key={x} cx={x} cy="166" rx="8" ry="2"
+          fill="white" opacity="0.12" />
+      ))}
+
+      {/* ── TALAJ ── */}
+      <rect x="0" y="175" width="320" height="25" fill="url(#groundCA)" />
+      {/* Fűszálak */}
+      {[5,18,32,48,65,255,270,285,300,315].map(x => (
+        <line key={x} x1={x} y1="175" x2={x-2} y2="169"
+          stroke="#4CAF50" strokeWidth="1.5" />
+      ))}
+
+      {/* ── ŐR a toronyban – R=true esetén pajzs piros, R=false kék (KÖZEPES) ── */}
+      {/* Test */}
+      <ellipse cx="64" cy="62" rx="6" ry="7" fill="#666" />
+      {/* Fej */}
+      <circle cx="64" cy="53" r="5" fill="#FFCC99" />
+      {/* Sisak */}
+      <ellipse cx="64" cy="50" rx="6" ry="3" fill="#888" />
+      <rect x="59" y="49" width="10" height="3" fill="#777" rx="1" />
+      {/* Pajzs */}
+      <path d="M 57 60 Q 55 65 57 70 Q 60 73 64 74 Q 68 73 71 70 Q 73 65 71 60 Z"
+        fill={R ? "#CC2222" : "#2244CC"} stroke="#555" strokeWidth="0.8" />
+      <line x1="64" y1="60" x2="64" y2="74" stroke="#888" strokeWidth="0.6" />
+      <line x1="57" y1="66" x2="71" y2="66" stroke="#888" strokeWidth="0.6" />
+      {/* Lándzsa */}
+      <line x1="72" y1="45" x2="72" y2="75" stroke="#8B6340" strokeWidth="1.5" />
+      <polygon points="72,45 70,52 74,52" fill="#888" />
+
+      {/* ── SÁRKÁNY a távolban – R=true esetén 3px-el arrébb (NEHÉZ) ── */}
+      <g transform={`translate(${R ? 3 : 0}, 0)`}>
+        {/* Test */}
+        <ellipse cx="248" cy="55" rx="18" ry="10" fill="#226622" opacity="0.9" />
+        {/* Fej */}
+        <ellipse cx="264" cy="50" rx="10" ry="7" fill="#226622" opacity="0.9" />
+        {/* Szemek */}
+        <circle cx="268" cy="48" r="2" fill="#FF4400" opacity="0.9" />
+        <circle cx="269" cy="47" r="0.8" fill="#FFD700" />
+        {/* Szárnyak */}
+        <path d="M 248 50 Q 235 35 220 40 Q 230 50 240 52"
+          fill="#338833" opacity="0.85" />
+        <path d="M 248 50 Q 240 32 228 34 Q 232 46 240 50"
+          fill="#44AA44" opacity="0.5" />
+        <path d="M 248 50 Q 260 35 275 38 Q 268 50 258 52"
+          fill="#338833" opacity="0.85" />
+        {/* Farok */}
+        <path d="M 232 58 Q 220 62 215 70 Q 218 72 222 68 Q 224 76 228 74"
+          fill="none" stroke="#226622" strokeWidth="3" />
+        {/* Tűz */}
+        <path d="M 272 50 Q 280 46 285 48 Q 282 52 278 50 Q 283 55 280 57"
+          fill="#FF6600" opacity="0.8" />
+        <path d="M 272 50 Q 279 48 283 51 Q 280 54 276 52"
+          fill="#FFD700" opacity="0.7" />
+      </g>
+
+      {/* ── KŐ HÍDFŐ ── */}
+      <rect x="0" y="155" width="42" height="25" fill="#888" rx="1" />
+      <rect x="278" y="155" width="42" height="25" fill="#888" rx="1" />
+      {[0,14,28].map(x => (
+        <rect key={x} x={x} y="152" width="10" height="6"
+          fill="#888" stroke="#666" strokeWidth="0.5" />
+      ))}
+      {[280,294,308].map(x => (
+        <rect key={x} x={x} y="152" width="10" height="6"
+          fill="#888" stroke="#666" strokeWidth="0.5" />
+      ))}
+
+      {/* Madarak */}
+      <path d="M 105 42 Q 109 38 113 42 Q 117 38 121 42"
+        fill="none" stroke="#33344488" strokeWidth="1.2" />
+      <path d="M 198 35 Q 202 31 206 35 Q 210 31 214 35"
+        fill="none" stroke="#33344488" strokeWidth="1.2" />
+
+      {/* Árnyékok */}
+      <ellipse cx="160" cy="158" rx="120" ry="5" fill="#00000033" />
+
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+      // ─── SCENE 29: ÉTTEREM ───────────────────────────────────────────────────────
+function RestaurantSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <defs>
+        <linearGradient id="wallR" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#F8F0E0" />
+          <stop offset="100%" stopColor="#E8E0D0" />
+        </linearGradient>
+        <linearGradient id="floorR" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#C8A870" />
+          <stop offset="100%" stopColor="#A88850" />
+        </linearGradient>
+        <linearGradient id="tableR" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#D4A870" />
+          <stop offset="100%" stopColor="#B08850" />
+        </linearGradient>
+        <linearGradient id="windowR" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#88BBDD" />
+          <stop offset="100%" stopColor="#6699BB" />
+        </linearGradient>
+        <filter id="shadowR">
+          <feDropShadow dx="1" dy="2" stdDeviation="1.5" floodColor="#00000044" />
+        </filter>
+        <filter id="softR">
+          <feGaussianBlur stdDeviation="1.5" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+        <filter id="glowR">
+          <feGaussianBlur stdDeviation="2" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+      </defs>
+
+      {/* ── FAL ── */}
+      <rect x="0" y="0" width="320" height="200" fill="url(#wallR)" />
+      {/* Falburkolat alsó rész */}
+      <rect x="0" y="110" width="320" height="50" fill="#D4C4A4" opacity="0.4" />
+      <rect x="0" y="108" width="320" height="4" fill="#C8B890" />
+      {/* Falon tapéta minta */}
+      {[15,35,55,75,95,115,135,155,175,195,215,235,255,275,295,315].map((x,i) => (
+        <g key={x} opacity="0.15">
+          <path d={`M ${x} ${10+(i%3)*8} Q ${x+5} ${5+(i%3)*8} ${x+10} ${10+(i%3)*8}`}
+            fill="none" stroke="#AA8844" strokeWidth="1" />
+          <circle cx={x+5} cy={12+(i%3)*8} r="2" fill="#AA8844" />
+        </g>
+      ))}
+
+      {/* ── PADLÓ ── */}
+      <rect x="0" y="158" width="320" height="42" fill="url(#floorR)" />
+      {[0,32,64,96,128,160,192,224,256,288,320].map(x => (
+        <line key={x} x1={x} y1="158" x2={x} y2="200"
+          stroke="#9A7840" strokeWidth="0.6" opacity="0.5" />
+      ))}
+      {[165,180,195].map(y => (
+        <line key={y} x1="0" y1={y} x2="320" y2={y}
+          stroke="#9A7840" strokeWidth="0.4" opacity="0.3" />
+      ))}
+
+      {/* ── ABLAKOK ── */}
+      {/* Bal ablak */}
+      <rect x="8" y="10" width="72" height="88" fill="url(#windowR)"
+        rx="3" stroke="#C8B898" strokeWidth="2" filter="url(#shadowR)" />
+      <line x1="44" y1="10" x2="44" y2="98" stroke="#C8B898" strokeWidth="1.5" />
+      <line x1="8" y1="54" x2="80" y2="54" stroke="#C8B898" strokeWidth="1.5" />
+      <rect x="10" y="12" width="32" height="40" fill="#AACCE0" opacity="0.5" />
+      <rect x="46" y="12" width="32" height="40" fill="#AACCE0" opacity="0.4" />
+      {/* Ablak függöny */}
+      <path d="M 8 10 Q 16 22 14 40 Q 12 58 8 98"
+        fill="#DDCCAA" opacity="0.8" />
+      <path d="M 80 10 Q 72 22 74 40 Q 76 58 80 98"
+        fill="#DDCCAA" opacity="0.8" />
+      {/* Kilátás – R=true esetén 1 fa több (NEHÉZ) */}
+      <circle cx="25" cy="35" r="10" fill="#3A8A18" opacity="0.6" />
+      <rect x="22" y="42" width="4" height="10" fill="#6B4423" opacity="0.6" />
+      {R && (
+        <>
+          <circle cx="58" cy="38" r="8" fill="#3A8A18" opacity="0.6" />
+          <rect x="55" y="44" width="4" height="8" fill="#6B4423" opacity="0.6" />
+        </>
+      )}
+
+      {/* Jobb ablak */}
+      <rect x="240" y="10" width="72" height="88" fill="url(#windowR)"
+        rx="3" stroke="#C8B898" strokeWidth="2" filter="url(#shadowR)" />
+      <line x1="276" y1="10" x2="276" y2="98" stroke="#C8B898" strokeWidth="1.5" />
+      <line x1="240" y1="54" x2="312" y2="54" stroke="#C8B898" strokeWidth="1.5" />
+      <rect x="242" y="12" width="32" height="40" fill="#AACCE0" opacity="0.5" />
+      <rect x="278" y="12" width="32" height="40" fill="#AACCE0" opacity="0.4" />
+      <path d="M 240 10 Q 248 22 246 40 Q 244 58 240 98"
+        fill="#DDCCAA" opacity="0.8" />
+      <path d="M 312 10 Q 304 22 306 40 Q 308 58 312 98"
+        fill="#DDCCAA" opacity="0.8" />
+      <circle cx="258" cy="35" r="10" fill="#3A8A18" opacity="0.6" />
+      <rect x="255" y="42" width="4" height="10" fill="#6B4423" opacity="0.6" />
+      <circle cx="290" cy="30" r="8" fill="#3A8A18" opacity="0.5" />
+      <rect x="288" y="36" width="3" height="8" fill="#6B4423" opacity="0.5" />
+
+      {/* ── ÉTTEREM TÁBLA ── */}
+      <rect x="108" y="8" width="104" height="22" fill="#8B4422"
+        rx="3" filter="url(#shadowR)" />
+      <rect x="110" y="10" width="100" height="18" fill="#6B2A11" rx="2" />
+      <text x="160" y="22" textAnchor="middle" fontSize="8"
+        fill="#FFD700" fontWeight="bold" letterSpacing="1.5">RISTORANTE</text>
+
+      {/* ── MENNYEZETI CSILLÁR ── */}
+      <line x1="160" y1="0" x2="160" y2="18" stroke="#888" strokeWidth="1.5" />
+      <ellipse cx="160" cy="20" rx="20" ry="6" fill="#C8A840"
+        filter="url(#shadowR)" />
+      {/* Karok */}
+      {[-16,-8,0,8,16].map((dx,i) => (
+        <g key={dx}>
+          <line x1="160" y1="20" x2={160+dx*2} y2="30"
+            stroke="#AA8830" strokeWidth="1.2" />
+          <ellipse cx={160+dx*2} cy="32" rx="4" ry="5"
+            fill="#FFE566" opacity="0.9" filter="url(#glowR)" />
+          <ellipse cx={160+dx*2} cy="30" rx="2.5" ry="1.5"
+            fill="white" opacity="0.3" />
+        </g>
+      ))}
+      <ellipse cx="160" cy="34" rx="35" ry="10"
+        fill="#FFE566" opacity="0.08" filter="url(#softR)" />
+
+      {/* ── BAL ASZTAL ── */}
+      <rect x="22" y="120" width="80" height="6" fill="url(#tableR)"
+        rx="2" filter="url(#shadowR)" />
+      <rect x="24" y="118" width="76" height="4" fill="#E4B880" rx="1" />
+      {[28,42,70,84].map(x => (
+        <rect key={x} x={x} y="126" width="5" height="32"
+          fill="#B08850" rx="1" />
+      ))}
+      <ellipse cx="62" cy="160" rx="38" ry="4" fill="#00000022" />
+      {/* Terítő */}
+      <rect x="26" y="112" width="72" height="8" fill="white"
+        opacity="0.8" rx="1" />
+      {/* Tányérok */}
+      <ellipse cx="42" cy="115" rx="10" ry="3" fill="#EEEEEE"
+        stroke="#DDD" strokeWidth="0.5" />
+      <ellipse cx="82" cy="115" rx="10" ry="3" fill="#EEEEEE"
+        stroke="#DDD" strokeWidth="0.5" />
+      {/* Poharak */}
+      <path d="M 35 112 Q 33 106 35 102 Q 37 106 35 112"
+        fill="#CCEEFF" opacity="0.7" stroke="#AAD0EE" strokeWidth="0.5" />
+      <path d="M 75 112 Q 73 106 75 102 Q 77 106 75 112"
+        fill="#CCEEFF" opacity="0.7" stroke="#AAD0EE" strokeWidth="0.5" />
+      {/* Gyertya – R=true esetén 2 gyertya, R=false 1 (KÖZEPES) */}
+      <rect x="59" y="106" width="4" height="10" fill="#FFFFCC" rx="1" />
+      <ellipse cx="61" cy="105" rx="3" ry="4" fill="#FFA500" opacity="0.7"
+        filter="url(#glowR)" />
+      <ellipse cx="61" cy="103" rx="2" ry="3" fill="#FFE566" opacity="0.8" />
+      {R && (
+        <>
+          <rect x="49" y="106" width="4" height="10" fill="#FFFFCC" rx="1" />
+          <ellipse cx="51" cy="105" rx="3" ry="4" fill="#FFA500" opacity="0.7"
+            filter="url(#glowR)" />
+          <ellipse cx="51" cy="103" rx="2" ry="3" fill="#FFE566" opacity="0.8" />
+        </>
+      )}
+      {/* Evőeszközök */}
+      <line x1="52" y1="112" x2="52" y2="118" stroke="#888" strokeWidth="1" />
+      <line x1="54" y1="112" x2="54" y2="118" stroke="#888" strokeWidth="0.8" />
+      <line x1="70" y1="112" x2="70" y2="118" stroke="#888" strokeWidth="1" />
+      <line x1="72" y1="112" x2="72" y2="118" stroke="#888" strokeWidth="0.8" />
+
+      {/* ── JOBB ASZTAL ── */}
+      <rect x="218" y="120" width="80" height="6" fill="url(#tableR)"
+        rx="2" filter="url(#shadowR)" />
+      <rect x="220" y="118" width="76" height="4" fill="#E4B880" rx="1" />
+      {[224,238,266,280].map(x => (
+        <rect key={x} x={x} y="126" width="5" height="32"
+          fill="#B08850" rx="1" />
+      ))}
+      <ellipse cx="258" cy="160" rx="38" ry="4" fill="#00000022" />
+      <rect x="222" y="112" width="72" height="8" fill="white"
+        opacity="0.8" rx="1" />
+      <ellipse cx="238" cy="115" rx="10" ry="3" fill="#EEEEEE"
+        stroke="#DDD" strokeWidth="0.5" />
+      <ellipse cx="278" cy="115" rx="10" ry="3" fill="#EEEEEE"
+        stroke="#DDD" strokeWidth="0.5" />
+      <path d="M 231 112 Q 229 106 231 102 Q 233 106 231 112"
+        fill="#CCEEFF" opacity="0.7" stroke="#AAD0EE" strokeWidth="0.5" />
+      <path d="M 271 112 Q 269 106 271 102 Q 273 106 271 112"
+        fill="#CCEEFF" opacity="0.7" stroke="#AAD0EE" strokeWidth="0.5" />
+      <rect x="255" y="106" width="4" height="10" fill="#FFFFCC" rx="1" />
+      <ellipse cx="257" cy="105" rx="3" ry="4" fill="#FFA500" opacity="0.7"
+        filter="url(#glowR)" />
+      <ellipse cx="257" cy="103" rx="2" ry="3" fill="#FFE566" opacity="0.8" />
+      <line x1="248" y1="112" x2="248" y2="118" stroke="#888" strokeWidth="1" />
+      <line x1="250" y1="112" x2="250" y2="118" stroke="#888" strokeWidth="0.8" />
+      <line x1="266" y1="112" x2="266" y2="118" stroke="#888" strokeWidth="1" />
+      <line x1="268" y1="112" x2="268" y2="118" stroke="#888" strokeWidth="0.8" />
+
+      {/* ── KÖZÉPSŐ ASZTAL ── */}
+      <rect x="118" y="128" width="84" height="6" fill="url(#tableR)"
+        rx="2" filter="url(#shadowR)" />
+      <rect x="120" y="126" width="80" height="4" fill="#E4B880" rx="1" />
+      {[124,138,166,180].map(x => (
+        <rect key={x} x={x} y="134" width="5" height="24"
+          fill="#B08850" rx="1" />
+      ))}
+      <ellipse cx="160" cy="160" rx="40" ry="4" fill="#00000022" />
+      <rect x="122" y="120" width="76" height="8" fill="white"
+        opacity="0.8" rx="1" />
+      <ellipse cx="140" cy="123" rx="10" ry="3" fill="#EEEEEE"
+        stroke="#DDD" strokeWidth="0.5" />
+      <ellipse cx="180" cy="123" rx="10" ry="3" fill="#EEEEEE"
+        stroke="#DDD" strokeWidth="0.5" />
+      {/* Poharak középső asztalon */}
+      <path d="M 133 120 Q 131 114 133 110 Q 135 114 133 120"
+        fill="#CCEEFF" opacity="0.7" stroke="#AAD0EE" strokeWidth="0.5" />
+      <path d="M 173 120 Q 171 114 173 110 Q 175 114 173 120"
+        fill="#CCEEFF" opacity="0.7" stroke="#AAD0EE" strokeWidth="0.5" />
+      {/* Virágváza */}
+      <rect x="157" y="114" width="6" height="10" fill="#88AACC"
+        rx="1" opacity="0.8" />
+      <ellipse cx="160" cy="114" rx="4" ry="2" fill="#99BBDD" opacity="0.8" />
+      {[0,72,144,216,288].map(angle => (
+        <ellipse key={angle}
+          cx={160 + Math.cos(angle * Math.PI / 180) * 5}
+          cy={111 + Math.sin(angle * Math.PI / 180) * 4}
+          rx="3" ry="2"
+          fill="#FF88AA"
+          transform={`rotate(${angle} 160 111)`}
+          opacity="0.9" />
+      ))}
+      <circle cx="160" cy="111" r="2" fill="#FFE566" />
+
+      {/* ── PINCÉR ── */}
+      <ellipse cx="160" cy="90" rx="8" ry="10" fill="#111122" />
+      <circle cx="160" cy="78" r="7" fill="#FFCC99" />
+      <ellipse cx="160" cy="73" rx="8" ry="3.5" fill="#111" />
+      {/* Csokornyakkendő */}
+      <path d="M 156 82 L 160 86 L 164 82 L 160 80 Z"
+        fill="#EE2222" />
+      {/* Tálca */}
+      <ellipse cx="175" cy="82" rx="14" ry="4" fill="#C8A840"
+        filter="url(#shadowR)" />
+      {/* Tálcán ételek */}
+      <circle cx="170" cy="80" r="5" fill="#EEEEEE"
+        stroke="#DDD" strokeWidth="0.5" />
+      <circle cx="170" cy="80" r="3" fill="#CC6633" opacity="0.8" />
+      <circle cx="180" cy="80" r="4" fill="#EEEEEE"
+        stroke="#DDD" strokeWidth="0.5" />
+      {/* Pezsgős pohár a tálcán – R=true esetén 2 pohár, R=false 1 (KÖZEPES) */}
+      <path d="M 186 82 Q 184 76 186 72 Q 188 76 186 82"
+        fill="#CCEEAA" opacity="0.8" stroke="#AACCAA" strokeWidth="0.5" />
+      {R && (
+        <path d="M 190 82 Q 188 76 190 72 Q 192 76 190 82"
+          fill="#CCEEAA" opacity="0.8" stroke="#AACCAA" strokeWidth="0.5" />
+      )}
+      {/* Karok */}
+      <line x1="152" y1="86" x2="144" y2="94"
+        stroke="#111122" strokeWidth="3" strokeLinecap="round" />
+      <line x1="168" y1="86" x2="175" y2="80"
+        stroke="#111122" strokeWidth="3" strokeLinecap="round" />
+      {/* Lábak */}
+      <rect x="154" y="99" width="4" height="18" fill="#111122" rx="1" />
+      <rect x="162" y="99" width="4" height="18" fill="#111122" rx="1" />
+      <ellipse cx="156" cy="118" rx="5" ry="2" fill="#111" />
+      <ellipse cx="164" cy="118" rx="5" ry="2" fill="#111" />
+
+      {/* ── FALI DÍSZEK ── */}
+      {/* Bal kép */}
+      <rect x="90" y="15" width="48" height="36" fill="#8B6340"
+        rx="2" filter="url(#shadowR)" />
+      <rect x="93" y="18" width="42" height="30" fill="#6B4320" rx="1" />
+      <rect x="95" y="20" width="38" height="26" fill="#AAD0EE" rx="1" />
+      <ellipse cx="114" cy="33" rx="10" ry="7" fill="#88BBDD" opacity="0.7" />
+      <path d="M 95 38 Q 104 28 114 33 Q 124 28 133 38"
+        fill="#6699BB" opacity="0.5" />
+      <circle cx="108" cy="27" r="4" fill="#FFE566" opacity="0.6" />
+
+      {/* Jobb kép – R=true esetén más keret szín (KÖZEPES) */}
+      <rect x="182" y="15" width="48" height="36"
+        fill={R ? "#CC4422" : "#8B6340"}
+        rx="2" filter="url(#shadowR)" />
+      <rect x="185" y="18" width="42" height="30" fill="#6B4320" rx="1" />
+      <rect x="187" y="20" width="38" height="26" fill="#FFEECC" rx="1" />
+      <ellipse cx="206" cy="28" rx="12" ry="8" fill="#FFCC88" opacity="0.7" />
+      {[0,60,120,180,240,300].map(angle => (
+        <line key={angle}
+          x1={206 + Math.cos(angle * Math.PI / 180) * 6}
+          y1={28 + Math.sin(angle * Math.PI / 180) * 5}
+          x2={206 + Math.cos(angle * Math.PI / 180) * 10}
+          y2={28 + Math.sin(angle * Math.PI / 180) * 8}
+          stroke="#FFD700" strokeWidth="1.2" opacity="0.7" />
+      ))}
+      <circle cx="206" cy="28" r="5" fill="#FFD700" opacity="0.8" />
+      <path d="M 187 38 Q 198 32 206 36 Q 214 32 225 38"
+        fill="#88AA55" opacity="0.5" />
+
+      {/* ── BEJÁRATI AJTÓ ── */}
+      <rect x="130" y="155" width="60" height="45" fill="#8B6340"
+        rx="2" filter="url(#shadowR)" />
+      <rect x="132" y="157" width="26" height="43" fill="#7A5530" rx="1" />
+      <rect x="160" y="157" width="28" height="43" fill="#7A5530" rx="1" />
+      <rect x="134" y="159" width="22" height="18" fill="#AACCE0" rx="1" opacity="0.6" />
+      <rect x="162" y="159" width="24" height="18" fill="#AACCE0" rx="1" opacity="0.6" />
+      <circle cx="158" cy="180" r="2.5" fill="#FFD700" />
+      <circle cx="162" cy="180" r="2.5" fill="#FFD700" />
+      {/* OPEN tábla – R=true esetén CLOSED (KÖZEPES) */}
+      <rect x="136" y="182" width="48" height="12" fill={R ? "#CC2222" : "#228833"}
+        rx="2" />
+      <text x="160" y="191" textAnchor="middle" fontSize="7"
+        fill="white" fontWeight="bold">{R ? "CLOSED" : "OPEN"}</text>
+
+      {/* Árnyékok */}
+      <ellipse cx="62" cy="126" rx="38" ry="3" fill="#00000022" />
+      <ellipse cx="258" cy="126" rx="38" ry="3" fill="#00000022" />
+      <ellipse cx="160" cy="133" rx="40" ry="3" fill="#00000022" />
+
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+
+      // ─── SCENE 30: ÓCEÁN FENÉK ───────────────────────────────────────────────────
+function OceanFloorSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps) {
+  return (
+    <svg viewBox="0 0 320 200" style={S} onClick={onClick} className={onClick ? "cursor-crosshair" : undefined}>
+      <defs>
+        <linearGradient id="oceanBG" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#0A2A6E" />
+          <stop offset="100%" stopColor="#051840" />
+        </linearGradient>
+        <linearGradient id="sandOF" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#C8A860" />
+          <stop offset="100%" stopColor="#A88840" />
+        </linearGradient>
+        <radialGradient id="coralR1" cx="40%" cy="30%" r="65%">
+          <stop offset="0%" stopColor="#FF8855" />
+          <stop offset="100%" stopColor="#CC3322" />
+        </radialGradient>
+        <radialGradient id="coralR2" cx="40%" cy="30%" r="65%">
+          <stop offset="0%" stopColor="#FF55AA" />
+          <stop offset="100%" stopColor="#CC1177" />
+        </radialGradient>
+        <radialGradient id="coralR3" cx="40%" cy="30%" r="65%">
+          <stop offset="0%" stopColor="#FFAA22" />
+          <stop offset="100%" stopColor="#CC7700" />
+        </radialGradient>
+        <filter id="shadowOF">
+          <feDropShadow dx="1" dy="2" stdDeviation="2" floodColor="#00000066" />
+        </filter>
+        <filter id="glowOF">
+          <feGaussianBlur stdDeviation="3" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+        <filter id="softOF">
+          <feGaussianBlur stdDeviation="1.5" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+      </defs>
+
+      {/* ── VÍZ HÁTTÉR ── */}
+      <rect x="0" y="0" width="320" height="200" fill="url(#oceanBG)" />
+
+      {/* Víz fény sugarak */}
+      {[30,80,130,180,230,280].map((x,i) => (
+        <path key={x}
+          d={`M ${x-15} 0 L ${x+15} 0 L ${x+30} 100 L ${x-30} 100`}
+          fill="white" opacity={0.03 + (i%3)*0.01} />
+      ))}
+
+      {/* Buborékok */}
+      {[18,45,72,105,138,165,198,225,258,285,305].map((x,i) => (
+        <g key={x}>
+          <circle cx={x} cy={20+(i%5)*25} r={2+(i%3)}
+            fill="none" stroke="#4488CC" strokeWidth="0.8" opacity="0.4" />
+          <circle cx={x+8} cy={35+(i%4)*20} r={1.5+(i%2)}
+            fill="none" stroke="#5599DD" strokeWidth="0.6" opacity="0.3" />
+        </g>
+      ))}
+
+      {/* ── HOMOK ALJZAT ── */}
+      <path d="M 0 158 Q 40 152 80 156 Q 120 160 160 154 Q 200 148 240 154 Q 280 160 320 155 L 320 200 L 0 200"
+        fill="url(#sandOF)" />
+      {/* Homok ripple */}
+      {[162,170,178,186].map(y => (
+        <path key={y}
+          d={`M 0 ${y} Q 40 ${y-3} 80 ${y} Q 120 ${y+3} 160 ${y} Q 200 ${y-3} 240 ${y} Q 280 ${y+3} 320 ${y}`}
+          fill="none" stroke="#B89840" strokeWidth="0.6" opacity="0.4" />
+      ))}
+      {/* Kagylók */}
+      {[22,68,118,178,228,272,308].map((x,i) => (
+        <g key={x}>
+          <ellipse cx={x} cy={162+(i%2)*4} rx="6" ry="3.5"
+            fill="#E8C8A0" stroke="#C8A880" strokeWidth="0.5"
+            transform={`rotate(${i*22} ${x} ${162+(i%2)*4})`} />
+          <ellipse cx={x} cy={162+(i%2)*4} rx="3" ry="1.5"
+            fill="#D4B488" opacity="0.6"
+            transform={`rotate(${i*22} ${x} ${162+(i%2)*4})`} />
+        </g>
+      ))}
+
+      {/* ── KORALLOK ── */}
+      {/* Bal korall csoport */}
+      {[
+        {x:28, h:38, c:"url(#coralR1)"},
+        {x:42, h:28, c:"url(#coralR2)"},
+        {x:55, h:44, c:"url(#coralR1)"},
+      ].map(({x,h,c}) => (
+        <g key={x}>
+          <rect x={x-3} y={158-h} width="6" height={h} fill="#AA5533" rx="2" />
+          {[-8,-3,2,7,12].map((dx,i) => (
+            <g key={dx}>
+              <circle cx={x+dx} cy={158-h+(i%2)*5}
+                r={5+(i%3)} fill={c} opacity="0.9" />
+              <circle cx={x+dx-1} cy={158-h+(i%2)*5-2}
+                r={2} fill="white" opacity="0.15" />
+            </g>
+          ))}
+        </g>
+      ))}
+
+      {/* Középső korall */}
+      {[
+        {x:148, h:42, c:"url(#coralR3)"},
+        {x:162, h:30, c:"url(#coralR1)"},
+        {x:175, h:48, c:"url(#coralR2)"},
+      ].map(({x,h,c}) => (
+        <g key={x}>
+          <rect x={x-3} y={158-h} width="6" height={h} fill="#885522" rx="2" />
+          {[-8,-3,2,7,12].map((dx,i) => (
+            <g key={dx}>
+              <circle cx={x+dx} cy={158-h+(i%2)*5}
+                r={5+(i%3)} fill={c} opacity="0.9" />
+              <circle cx={x+dx-1} cy={158-h+(i%2)*5-2}
+                r={2} fill="white" opacity="0.15" />
+            </g>
+          ))}
+        </g>
+      ))}
+
+      {/* Jobb korall */}
+      {[
+        {x:265, h:36, c:"url(#coralR2)"},
+        {x:278, h:26, c:"url(#coralR3)"},
+        {x:292, h:40, c:"url(#coralR1)"},
+      ].map(({x,h,c}) => (
+        <g key={x}>
+          <rect x={x-3} y={158-h} width="6" height={h} fill="#AA5533" rx="2" />
+          {[-8,-3,2,7,12].map((dx,i) => (
+            <g key={dx}>
+              <circle cx={x+dx} cy={158-h+(i%2)*5}
+                r={5+(i%3)} fill={c} opacity="0.9" />
+              <circle cx={x+dx-1} cy={158-h+(i%2)*5-2}
+                r={2} fill="white" opacity="0.15" />
+            </g>
+          ))}
+        </g>
+      ))}
+
+      {/* ── HÍNÁR ── */}
+      {[88,100,112,210,222,234].map((x,i) => (
+        <g key={x}>
+          <path d={`M ${x} 158 Q ${x+8} 140 ${x+2} 125 Q ${x-6} 110 ${x+4} 95`}
+            fill="none" stroke="#228833" strokeWidth={3+(i%2)}
+            strokeLinecap="round" opacity="0.8" />
+          <path d={`M ${x} 158 Q ${x-6} 142 ${x-2} 128 Q ${x+8} 114 ${x} 100`}
+            fill="none" stroke="#33AA44" strokeWidth={2+(i%2)}
+            strokeLinecap="round" opacity="0.6" />
+          {/* Hínár levél */}
+          <ellipse cx={x+4} cy={118} rx="8" ry="3"
+            fill="#228833" opacity="0.7"
+            transform={`rotate(${-20+i*8} ${x+4} 118)`} />
+          <ellipse cx={x-3} cy={132} rx="6" ry="2.5"
+            fill="#33AA44" opacity="0.6"
+            transform={`rotate(${25-i*6} ${x-3} 132)`} />
+        </g>
+      ))}
+
+      {/* ── HALAK ── */}
+      {/* Nagy hal – R=true esetén 3px-el arrébb (NEHÉZ) */}
+      <g transform={`translate(${R ? 3 : 0}, 0)`}>
+        {/* Test */}
+        <ellipse cx="200" cy="75" rx="30" ry="16" fill="#FF8822" />
+        {/* Farok */}
+        <path d="M 170 75 Q 155 62 152 75 Q 155 88 170 75"
+          fill="#FF6600" />
+        {/* Uszony felső */}
+        <path d="M 205 60 Q 215 48 220 58 Q 212 62 205 60"
+          fill="#FF6600" />
+        {/* Uszony alsó */}
+        <path d="M 205 90 Q 215 102 220 92 Q 212 88 205 90"
+          fill="#FF6600" />
+        {/* Csíkok */}
+        <line x1="195" y1="60" x2="195" y2="90"
+          stroke="#CC5500" strokeWidth="1.5" opacity="0.5" />
+        <line x1="208" y1="60" x2="208" y2="90"
+          stroke="#CC5500" strokeWidth="1.5" opacity="0.5" />
+        {/* Szem */}
+        <circle cx="222" cy="72" r="4" fill="white" />
+        <circle cx="223" cy="72" r="2.5" fill="#111" />
+        <circle cx="224" cy="71" r="1" fill="white" />
+        {/* Száj */}
+        <path d="M 228 74 Q 232 76 230 78"
+          fill="none" stroke="#AA4400" strokeWidth="1" />
+        {/* Pikkelyek */}
+        {[180,190,200,210].map(x => (
+          <path key={x}
+            d={`M ${x} 68 Q ${x+5} 75 ${x} 82`}
+            fill="none" stroke="#CC6600" strokeWidth="0.8" opacity="0.4" />
+        ))}
+      </g>
+
+      {/* Kis halak csoportja */}
+      {[
+        {x:70,  y:45,  c:"#22AAEE", s:1.0},
+        {x:88,  y:38,  c:"#22AAEE", s:0.85},
+        {x:80,  y:55,  c:"#22AAEE", s:0.9},
+        {x:98,  y:48,  c:"#22AAEE", s:0.8},
+        ...(R ? [] : [{x:60, y:55, c:"#22AAEE", s:0.75}]),
+      ].map(({x,y,c,s}) => (
+        <g key={`${x}-${y}`} transform={`translate(${x},${y}) scale(${s})`}>
+          <ellipse cx="0" cy="0" rx="10" ry="5" fill={c} />
+          <path d="M -10 0 Q -16 -5 -18 0 Q -16 5 -10 0" fill="#1188CC" />
+          <circle cx="7" cy="-1" r="2" fill="white" />
+          <circle cx="8" cy="-1" r="1" fill="#111" />
+          <path d="M 0 -5 Q 4 -9 6 -6 Q 3 -4 0 -5" fill="#1188CC" />
+        </g>
+      ))}
+
+      {/* ── POLIP – R=true esetén 7 kar, R=false 8 (NEHÉZ) ── */}
+      {/* Fej */}
+      <ellipse cx="130" cy="138" rx="18" ry="16" fill="#AA44CC"
+        filter="url(#shadowOF)" />
+      <ellipse cx="130" cy="134" rx="14" ry="10" fill="#BB55DD" />
+      {/* Szemek */}
+      <circle cx="124" cy="132" r="4" fill="white" />
+      <circle cx="125" cy="132" r="2.5" fill="#111" />
+      <circle cx="126" cy="131" r="1" fill="white" />
+      <circle cx="136" cy="132" r="4" fill="white" />
+      <circle cx="137" cy="132" r="2.5" fill="#111" />
+      <circle cx="138" cy="131" r="1" fill="white" />
+      {/* Száj */}
+      <path d="M 126 138 Q 130 142 134 138"
+        fill="none" stroke="#882299" strokeWidth="1.2" />
+      {/* Karok */}
+      {[
+        "M 115 148 Q 105 158 100 168 Q 98 175 104 174",
+        "M 120 152 Q 115 165 112 175 Q 110 182 116 180",
+        "M 128 154 Q 126 168 125 178 Q 124 185 130 183",
+        "M 135 153 Q 138 167 140 177 Q 142 184 138 183",
+        "M 142 150 Q 148 162 152 172 Q 155 179 150 180",
+        "M 146 146 Q 155 155 160 164 Q 164 172 158 174",
+        "M 148 142 Q 160 148 165 156 Q 168 163 162 166",
+        ...(R ? [] : ["M 112 145 Q 100 150 96 158 Q 93 165 99 166"]),
+      ].map((d,i) => (
+        <path key={i} d={d}
+          fill="none" stroke="#AA44CC" strokeWidth="4"
+          strokeLinecap="round" />
+      ))}
+      {/* Szívók a karokon */}
+      {[
+        [108,162],[118,170],[128,172],[138,171],[148,166],[156,158],[160,150],
+        ...(R ? [] : [[100,156]]),
+      ].map(([x,y],i) => (
+        <circle key={i} cx={x} cy={y} r="2"
+          fill="#CC66EE" opacity="0.6" />
+      ))}
+
+      {/* ── TENGERI CsILLAG ── */}
+      {[0,72,144,216,288].map(angle => (
+        <ellipse key={angle}
+          cx={310 + Math.cos(angle * Math.PI / 180) * 12}
+          cy={168 + Math.sin(angle * Math.PI / 180) * 12}
+          rx="5" ry="3"
+          fill="#EE4422"
+          transform={`rotate(${angle} 310 168)`}
+          opacity="0.9" />
+      ))}
+      <circle cx="310" cy="168" r="4" fill="#FF5533" opacity="0.9" />
+      {/* Tengeri csillag szem */}
+      <circle cx="313" cy="162" r="1.5" fill="#AA2211" />
+
+      {/* ── ELSÜLLYEDT HAJÓ ── */}
+      <g opacity="0.7" filter="url(#shadowOF)">
+        {/* Hajótest */}
+        <path d="M 230 145 Q 232 130 260 128 Q 255 130 252 145"
+          fill="#6B4A22" />
+        <rect x="230" y="143" width="22" height="8" fill="#7B5A32" rx="1" />
+        {/* Árbóc */}
+        <rect x="248" y="110" width="2" height="22" fill="#5A3A12" />
+        <rect x="240" y="115" width="10" height="1.5" fill="#5A3A12" />
+        {/* Lyukak */}
+        <circle cx="238" cy="138" r="3" fill="#1A0A00" opacity="0.8" />
+        <circle cx="245" cy="136" r="2.5" fill="#1A0A00" opacity="0.8" />
+        {/* Korall a hajón */}
+        <circle cx="235" cy="132" r="4" fill="url(#coralR2)" opacity="0.7" />
+        <circle cx="250" cy="128" r="3" fill="url(#coralR3)" opacity="0.7" />
+      </g>
+
+      {/* ── MEDÚZA – R=true esetén más szín (KÖZEPES) ── */}
+      {/* Harang */}
+      <path d="M 50 55 Q 38 42 50 35 Q 62 28 74 35 Q 86 42 74 55 Z"
+        fill={R ? "#FF4488" : "#88AAFF"} opacity="0.8"
+        filter="url(#glowOF)" />
+      <path d="M 52 55 Q 42 44 52 38 Q 62 32 72 38 Q 82 44 72 55 Z"
+        fill={R ? "#FF88BB" : "#AACCFF"} opacity="0.5" />
+      {/* Csápok */}
+      {[50,56,62,68,74].map((x,i) => (
+        <path key={x}
+          d={`M ${x} 55 Q ${x+4} 65 ${x+2} 75 Q ${x-2} 85 ${x+2} 95`}
+          fill="none"
+          stroke={R ? "#FF4488" : "#88AAFF"}
+          strokeWidth="1.2" opacity="0.6" />
+      ))}
+      {/* Medúza fény */}
+      <ellipse cx="62" cy="42" rx="8" ry="5"
+        fill="white" opacity="0.15" />
+
+      {/* ── ANGOLNA a sziklában ── */}
+      <ellipse cx="195" cy="155" rx="25" ry="8" fill="#555" opacity="0.7" />
+      <ellipse cx="182" cy="153" rx="14" ry="6" fill="#444" opacity="0.8" />
+      {/* Angolna fej */}
+      <ellipse cx="178" cy="150" rx="8" ry="5" fill="#228833" opacity="0.9" />
+      <circle cx="174" cy="148" r="2" fill="#333" />
+      <circle cx="175" cy="147" r="0.8" fill="white" />
+      {/* Angolna test */}
+      <path d="M 185 150 Q 200 148 210 152 Q 220 156 215 160"
+        fill="none" stroke="#228833" strokeWidth="5"
+        strokeLinecap="round" opacity="0.8" />
+      {/* Angolna csíkok – R=true esetén 4 csík, R=false 3 (KÖZEPES) */}
+      {[190, 200, 208, ...(R ? [215] : [])].map(x => (
+        <line key={x} x1={x} y1="148" x2={x} y2="155"
+          stroke="#FFD700" strokeWidth="1.2" opacity="0.6" />
+      ))}
+
+      {/* ── KINCSESLÁDA ── */}
+      <rect x="8" y="150" width="32" height="18" fill="#8B6340"
+        rx="2" filter="url(#shadowOF)" />
+      <rect x="8" y="150" width="32" height="8" fill="#A07848" rx="2" />
+      <rect x="8" y="155" width="32" height="3" fill="#C8A040" />
+      {/* Zár */}
+      <rect x="21" y="153" width="8" height="6" fill="#C8A040" rx="1" />
+      <circle cx="25" cy="155" r="2" fill="#FFD700" />
+      {/* Aranypérmék – R=true esetén 4, R=false 5 (KÖZEPES) */}
+      {[12, 18, 24, 30, ...(R ? [] : [36])].map(x => (
+        <circle key={x} cx={x} cy="158" r="3"
+          fill="#FFD700" opacity="0.8" filter="url(#glowOF)" />
+      ))}
+
+      {/* Víz réteg effekt */}
+      <rect x="0" y="0" width="320" height="200"
+        fill="#0A2A6E" opacity="0.08" />
+
+      <FO f={f} h={h} />
+    </svg>
+  );
+}
+
 // ─── SCENE DEFINITIONS ───────────────────────────────────────────────────────
 export const ALL_SCENES: SceneDef[] = [
   {
@@ -3120,17 +5698,17 @@ export const ALL_SCENES: SceneDef[] = [
     ],
     SVG: CitySVG,
   },
-  {
-    id: "kitchen", title: "Konyha",
-    hotspots: [
-      { id: 0, cx: 68,  cy: 112, r: 28 },
-      { id: 1, cx: 130, cy: 52,  r: 22 },
-      { id: 2, cx: 50,  cy: 50,  r: 55 },
-      { id: 3, cx: 195, cy: 55,  r: 22 },
-      { id: 4, cx: 121, cy: 78,  r: 22 },
-    ],
-    SVG: KitchenSVG,
-  },
+{
+  id: "kitchen2", title: "Konyha",
+  hotspots: [
+    { id: 0, cx: 148, cy: 28,  r: 22 },  // ablakban 3. madár (NEHÉZ)
+    { id: 1, cx: 250, cy: 95,  r: 20 },  // hűtő lista: 4 → 3 sor (NEHÉZ)
+    { id: 2, cx: 38,  cy: 88,  r: 22 },  // más főzőlap ég (KÖZEPES)
+    { id: 3, cx: 248, cy: 104, r: 20 },  // kenyér színe változik (KÖZEPES)
+    { id: 4, cx: 160, cy: 85,  r: 16 },  // fali óra más időpontot mutat (KÖZEPES)
+  ],
+  SVG: KitchenSVG2,
+},
   {
     id: "beach", title: "Strand",
     hotspots: [
@@ -3322,5 +5900,82 @@ export const ALL_SCENES: SceneDef[] = [
     { id: 4, cx: 160, cy: 160, r: 26 },  // folyó kanyar kissé más (KÖZEPES)
   ],
   SVG: JungleSVG,
+},
+  {
+  id: "desert", title: "Sivatag",
+  hotspots: [
+    { id: 0, cx: 271, cy: 30,  r: 24 },  // nap 7px-el arrébb (NEHÉZ)
+    { id: 1, cx: 224, cy: 100, r: 18 },  // teve szeme 2px-el lejjebb (NEHÉZ)
+    { id: 2, cx: 50,  cy: 78,  r: 22 },  // kaktusz virág: 3 → 2 (KÖZEPES)
+    { id: 3, cx: 195, cy: 116, r: 24 },  // teve púpja: 2 → 1 (KÖZEPES)
+    { id: 4, cx: 240, cy: 140, r: 22 },  // skorpió farka hosszabb (KÖZEPES)
+  ],
+  SVG: DesertSVG,
+},
+  {
+  id: "library", title: "Könyvtár",
+  hotspots: [
+    { id: 0, cx: 160, cy: 113, r: 22 },  // könyv az asztalon: csukva → nyitva (KÖZEPES)
+    { id: 1, cx: 160, cy: 107, r: 18 },  // olvasó haja: fekete → barna (KÖZEPES)
+    { id: 2, cx: 148, cy: 36,  r: 22 },  // ablakban 3. madár megjelenik (NEHÉZ)
+    { id: 3, cx: 160, cy: 104, r: 20 },  // nyitvatartás: 8PM → 7PM (KÖZEPES)
+    { id: 4, cx: 102, cy: 115, r: 22 },  // létra foka: 5 → 4 (NEHÉZ)
+  ],
+  SVG: LibrarySVG,
+},
+  {
+  id: "beach2", title: "Tengerpart",
+  hotspots: [
+    { id: 0, cx: 275, cy: 28,  r: 22 },  // nap 6px-el arrébb (NEHÉZ)
+    { id: 1, cx: 172, cy: 36,  r: 20 },  // 4. sirály megjelenik (NEHÉZ)
+    { id: 2, cx: 228, cy: 145, r: 18 },  // napszemüveg: fekete → piros (KÖZEPES)
+    { id: 3, cx: 168, cy: 143, r: 24 },  // homokvár 1 toronnyal kevesebb (KÖZEPES)
+    { id: 4, cx: 110, cy: 92,  r: 20 },  // hajó vitorla: fehér → piros (KÖZEPES)
+  ],
+  SVG: BeachSVG2,
+},
+      {
+  id: "amusementPark", title: "Vidámpark",
+  hotspots: [
+    { id: 0, cx: 100, cy: 120, r: 22 },  // lufi: 6 → 5 (NEHÉZ)
+    { id: 1, cx: 270, cy: 122, r: 24 },  // kapu csillag: 3 → 2 (NEHÉZ)
+    { id: 2, cx: 215, cy: 127, r: 18 },  // hullámvasút kocsi: sárga → piros (KÖZEPES)
+    { id: 3, cx: 175, cy: 137, r: 20 },  // jégkrém: 4 → 3 (KÖZEPES)
+    { id: 4, cx: 270, cy: 140, r: 22 },  // kapu ajtó szín változás (KÖZEPES)
+  ],
+  SVG: AmusementParkSVG,
+},
+      {
+  id: "castle", title: "Középkori vár",
+  hotspots: [
+    { id: 0, cx: 160, cy: 3,   r: 22 },  // középső zászló: piros → zöld (KÖZEPES)
+    { id: 1, cx: 64,  cy: 66,  r: 20 },  // őr pajzsa: kék → piros (KÖZEPES)
+    { id: 2, cx: 160, cy: 140, r: 22 },  // kapu rács: 4 → 3 vízszintes (NEHÉZ)
+    { id: 3, cx: 248, cy: 52,  r: 26 },  // sárkány 3px-el arrébb (NEHÉZ)
+    { id: 4, cx: 64,  cy: 22,  r: 18 },  // bal torony zászló: kék → piros (KÖZEPES)
+  ],
+  SVG: CastleSVG,
+},
+      {
+  id: "restaurant", title: "Étterem",
+  hotspots: [
+    { id: 0, cx: 55,  cy: 38,  r: 20 },  // bal ablakban extra fa (NEHÉZ)
+    { id: 1, cx: 188, cy: 76,  r: 18 },  // tálcán 2. pohár megjelenik (NEHÉZ)
+    { id: 2, cx: 53,  cy: 105, r: 20 },  // bal asztalon 2. gyertya (KÖZEPES)
+    { id: 3, cx: 206, cy: 22,  r: 22 },  // jobb kép kerete: barna → piros (KÖZEPES)
+    { id: 4, cx: 160, cy: 187, r: 22 },  // ajtó tábla: OPEN → CLOSED (KÖZEPES)
+  ],
+  SVG: RestaurantSVG,
+},
+      {
+  id: "oceanFloor", title: "Óceán fenék",
+  hotspots: [
+    { id: 0, cx: 203, cy: 75,  r: 28 },  // nagy hal 3px-el arrébb (NEHÉZ)
+    { id: 1, cx: 130, cy: 148, r: 26 },  // polip kar: 8 → 7 (NEHÉZ)
+    { id: 2, cx: 62,  cy: 45,  r: 22 },  // medúza szín változás (KÖZEPES)
+    { id: 3, cx: 200, cy: 151, r: 22 },  // angolna csík: 3 → 4 (KÖZEPES)
+    { id: 4, cx: 25,  cy: 158, r: 22 },  // kincsesláda arany: 5 → 4 (KÖZEPES)
+  ],
+  SVG: OceanFloorSVG,
 },
 ];
