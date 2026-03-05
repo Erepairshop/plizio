@@ -801,6 +801,43 @@ Szabályok:
 
 ---
 
+## TERVEZETT ÚJ JÁTÉKOK (TODO lista)
+
+### 🔮 Saját egyedi ötlet — "Pattern Forge"
+**Státusz:** Tervezési fázis
+
+**Koncepció:**
+- A játékos egy 2D rácsban lát egy részleges mintát (számok, formák, színek kombinációja)
+- Ki kell találni mi jön következőnek — de nem sima sorozat, hanem sor + oszlop logika egyszerre
+- Időkorlát + egyre összetettebb minták szintenként
+- **Egyedi:** ilyen formában nincs más hasonló a piacon
+
+**Tervezett mechaniká:**
+- Expedíció formátum (10 szint)
+- Kategória: `logic`
+- Route: `/patternforge`
+- Kártya ritkaság: `calculateRarity(..., false)` (nincs gold)
+- Szint struktúra: 3×3 minta → 4×4 → 5×5, egyre több változó (szín + forma + szám egyszerre)
+
+---
+
+### 📋 Ajánlott Logic játékok (prioritás sorrendben)
+
+| # | Játék | Route | Leírás | Komplexitás |
+|---|-------|-------|--------|-------------|
+| 1 | **Nonogram / Picross** | `/nonogram` | Rácsba kell kiszínezni cellákat sor/oszlop számok alapján → pixel art kép jön ki | Közepes |
+| 2 | **Light Out** | `/lightout` | Kapcsolók puzzle: egy cella megnyomása átkapcsolja azt + szomszédjait, cél: minden lámpa ki | Alacsony |
+| 3 | **Bridges** | `/bridges` | Szigetek közé hidakat húzni, minden sziget össze legyen kötve és a számuk stimmeljen | Közepes |
+| 4 | **2048 / Number Merge** | `/numbermerge` | 2048 klón plizio skin-nel és kártya integrációval | Alacsony |
+| 5 | **Maze Rush** | `/mazerush` | Véletlenszerűen generált labirintus, időre kell kijutni | Közepes |
+| 6 | **Kakuro** | `/kakuro` | Keresztrejtvény számokkal — cellákba számokat kell írni hogy a sorok/oszlopok összege stimmeljen | Magas |
+
+### Meglévők bővítési ötletek
+- **MiniSudoku**: 6×6-os grid, Daily Sudoku route (`/daily-sudoku`), explicit nehézségi szintek
+- **NumberPath**: visszaszámlálós mód (N→1), blokkolt cellák az útvonalban
+
+---
+
 ## Out mappa szinkron (public_html deploy)
 
 **FONTOS:** A felhasználó szerverén a fájlok a `public_html/` mappából futnak.
