@@ -114,6 +114,7 @@ export default function RealisticKlassenarbeitDisplay({
         <DraftPanel
           testId={testId}
           questionId={`task_${taskIndex}_${subQuestion.id}`}
+          countryCode={countryCode}
         />
       </div>
     );

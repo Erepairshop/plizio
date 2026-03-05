@@ -9,6 +9,7 @@ import {
   createEmptyRow,
   type MultiplicationDraftState,
 } from "./DraftProvider";
+import { getDraftT } from "./draftI18n";
 
 const CELL_SIZE = 32;
 const CELL_GAP = 2;
@@ -58,9 +59,11 @@ interface MultiplicationDraftProps {
   questionId: string;
   cols?: number;
   initialRows?: number;
+  countryCode?: string;
 }
 
-function MultiplicationDraft({ testId, questionId, cols = 8, initialRows = 6 }: MultiplicationDraftProps) {
+function MultiplicationDraft({ testId, questionId, cols = 8, initialRows = 6, countryCode = "DE" }: MultiplicationDraftProps) {
+  const t = getDraftT(countryCode);
   const { getDraft, setDraft } = useDraft();
   const key = draftKey(testId, questionId);
 
@@ -169,11 +172,11 @@ function MultiplicationDraft({ testId, questionId, cols = 8, initialRows = 6 }: 
   return (
     <div className="rounded-xl p-3 sm:p-4 border border-gray-200 bg-gray-50/50">
       <div className="flex items-center justify-between mb-3">
-        <span className="text-[10px] font-bold text-gray-400 uppercase tracking-wider">Multiplikation</span>
+        <span className="text-[10px] font-bold text-gray-400 uppercase tracking-wider">{t.multiplicationHeader}</span>
         <div className="flex items-center gap-1">
-          <button onClick={handleAddRow} className="p-1 rounded bg-blue-50 text-blue-600 hover:bg-blue-100" tabIndex={-1} disabled={state.rows.length >= MAX_ROWS}><Plus size={12} /></button>
-          <button onClick={handleRemoveRow} className="p-1 rounded bg-gray-100 text-gray-500 hover:bg-gray-200" disabled={state.rows.length <= 2} tabIndex={-1}><Minus size={12} /></button>
-          <button onClick={handleClear} className="p-1 rounded bg-red-50 text-red-500 hover:bg-red-100" tabIndex={-1}><Trash2 size={12} /></button>
+          <button onClick={handleAddRow} className="p-1 rounded bg-blue-50 text-blue-600 hover:bg-blue-100" title={t.addRow} tabIndex={-1} disabled={state.rows.length >= MAX_ROWS}><Plus size={12} /></button>
+          <button onClick={handleRemoveRow} className="p-1 rounded bg-gray-100 text-gray-500 hover:bg-gray-200" title={t.removeRow} disabled={state.rows.length <= 2} tabIndex={-1}><Minus size={12} /></button>
+          <button onClick={handleClear} className="p-1 rounded bg-red-50 text-red-500 hover:bg-red-100" title={t.clearAll} tabIndex={-1}><Trash2 size={12} /></button>
         </div>
       </div>
       <div className="overflow-x-auto" style={{ WebkitOverflowScrolling: "touch" }}>
@@ -193,7 +196,7 @@ function MultiplicationDraft({ testId, questionId, cols = 8, initialRows = 6 }: 
           ))}
         </div>
       </div>
-      <p className="mt-2 text-[10px] text-gray-400">1. sor: szorzandó · 2. sor: szorzó · Alatta: részeredmények</p>
+      <p className="mt-2 text-[10px] text-gray-400">{t.multiplicationHint}</p>
     </div>
   );
 }

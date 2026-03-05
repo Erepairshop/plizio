@@ -9,6 +9,7 @@ import {
   createEmptyRow,
   type ColumnDraftState,
 } from "./DraftProvider";
+import { getDraftT } from "./draftI18n";
 
 const CELL_SIZE = 32;
 const CELL_GAP = 2;
@@ -71,6 +72,7 @@ interface ColumnMathDraftProps {
   questionId: string;
   cols?: number;
   initialRows?: number;
+  countryCode?: string;
 }
 
 function ColumnMathDraft({
@@ -78,7 +80,9 @@ function ColumnMathDraft({
   questionId,
   cols = 8,
   initialRows = 4,
+  countryCode = "DE",
 }: ColumnMathDraftProps) {
+  const t = getDraftT(countryCode);
   const { getDraft, setDraft } = useDraft();
   const key = draftKey(testId, questionId);
 
@@ -228,9 +232,9 @@ function ColumnMathDraft({
           ))}
         </div>
         <div className="flex items-center gap-1">
-          <button onClick={handleAddRow} className="p-1 rounded bg-blue-50 text-blue-600 hover:bg-blue-100" title="Sor hozzáadása" tabIndex={-1} disabled={state.rows.length >= MAX_ROWS}><Plus size={12} /></button>
-          <button onClick={handleRemoveRow} className="p-1 rounded bg-gray-100 text-gray-500 hover:bg-gray-200" title="Utolsó sor törlése" disabled={state.rows.length <= 2} tabIndex={-1}><Minus size={12} /></button>
-          <button onClick={handleClear} className="p-1 rounded bg-red-50 text-red-500 hover:bg-red-100" title="Mindent töröl" tabIndex={-1}><Trash2 size={12} /></button>
+          <button onClick={handleAddRow} className="p-1 rounded bg-blue-50 text-blue-600 hover:bg-blue-100" title={t.addRow} tabIndex={-1} disabled={state.rows.length >= MAX_ROWS}><Plus size={12} /></button>
+          <button onClick={handleRemoveRow} className="p-1 rounded bg-gray-100 text-gray-500 hover:bg-gray-200" title={t.removeRow} disabled={state.rows.length <= 2} tabIndex={-1}><Minus size={12} /></button>
+          <button onClick={handleClear} className="p-1 rounded bg-red-50 text-red-500 hover:bg-red-100" title={t.clearAll} tabIndex={-1}><Trash2 size={12} /></button>
         </div>
       </div>
 
@@ -268,9 +272,7 @@ function ColumnMathDraft({
         </div>
       </div>
 
-      <p className="mt-2 text-[10px] text-gray-400">
-        Nyilak: navigáció · Enter: következő sor · Vonalgomb: vonal alá
-      </p>
+      <p className="mt-2 text-[10px] text-gray-400">{t.columnHint}</p>
     </div>
   );
 }
