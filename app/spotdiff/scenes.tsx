@@ -1615,7 +1615,7 @@ function GardenSVG({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps
       {[40, 64, 88].map((x, i) => (
         <g key={x}>
           <line x1={x} y1="138" x2={x} y2={122 - i % 2 * 3} stroke="#3A8A20" strokeWidth="1.5" />
-          <ellipse cx={x + 4} cy={130 - i % 2 * 2} rx="4" ry="2"}
+          <ellipse cx={x + 4} cy={130 - i % 2 * 2} rx="4" ry="2"
             fill="#3A8A20" transform={`rotate(25 ${x + 4} ${130 - i % 2 * 2})`} />
           <circle cx={x} cy={118 - i % 2 * 3} r="5" fill="url(#roseY)" />
           <circle cx={x} cy={117 - i % 2 * 3} r="2" fill="#FFE8A0" opacity="0.6" />
@@ -4280,7 +4280,7 @@ function BeachSVG2({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps
       {[92,100,108,116,124].map(y => (
         <path key={y}
           d={`M 0 ${y} Q 40 ${y-4} 80 ${y} Q 120 ${y+4} 160 ${y} Q 200 ${y-4} 240 ${y} Q 280 ${y+4} 320 ${y}`}
-          fill="none" stroke="#3388CC" strokeWidth="1.2" opacity="0.4} />
+          fill="none" stroke="#3388CC" strokeWidth="1.2" opacity="0.4" />
       ))}
       {/* Tenger fény csillogás */}
       {[30,70,110,150,190,230,270].map(x => (
@@ -4297,7 +4297,7 @@ function BeachSVG2({ isRight: R, found: f, hotspots: h, onClick }: SceneSVGProps
       {/* Homok textúra */}
       {[5,18,32,48,65,82,100,118,138,158,178,198,218,238,258,278,298,315].map((x,i) => (
         <ellipse key={x} cx={x} cy={152+(i%3)*3} rx={3+(i%2)} ry="1.5"
-          fill="#C0A050" opacity="0.3} />
+          fill="#C0A050" opacity="0.3" />
       ))}
       {/* Hullámvonal a homokparton */}
       <path d="M 0 150 Q 80 144 160 148 Q 240 152 320 146"
@@ -5804,7 +5804,7 @@ export const ALL_SCENES: SceneDef[] = [
   hotspots: [
     { id: 0, cx: 276,  cy: 25,  r: 24 },  // nap: 8px-el arrébb (NEHÉZ)
     { id: 1, cx: 104,  cy: 138, r: 20 },  // extra virág a bokron (NEHÉZ)
-    { id: 2, cx: 86,   cy="146", r: 16 },  // gomba kalap 1px szélesebb (NAGYON NEHÉZ)
+    { id: 2, cx: 86,   cy: 146, r: 16 },  // gomba kalap 1px szélesebb (NAGYON NEHÉZ)
     { id: 3, cx: 162,  cy: 36,  r: 28 },  // 3. madár megjelenik (KÖZEPES)
     { id: 4, cx: 218,  cy: 113, r: 22 },  // szarvas agancs extra ág (NEHÉZ)
   ],
