@@ -8,7 +8,9 @@ import { AnimatePresence } from "framer-motion";
 import Logo from "@/components/Logo";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import GameCard from "@/components/GameCard";
+import Link from "next/link";
 import { getCards } from "@/lib/cards";
+import { WORLD_ZONES, getWorldProgress } from "@/lib/world";
 import { getSpecialCardCount, markAsReferred, isReferred, claimReferralReward } from "@/lib/specialCards";
 import { getStats } from "@/lib/milestones";
 import { getUser, onAuthChange } from "@/lib/auth";
@@ -371,6 +373,43 @@ function getStreak(): number {
   return 0;
 }
 
+function WorldButton() {
+  const [completedZones, setCompletedZones] = useState<string[]>([]);
+  useEffect(() => {
+    setCompletedZones(getWorldProgress().completedZones);
+  }, []);
+
+  return (
+    <motion.div
+      className="w-full max-w-md px-2"
+      initial={{ opacity: 0, y: 10 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ delay: 0.9 }}
+    >
+      <Link href="/world/">
+        <div className="w-full flex items-center gap-4 rounded-2xl px-4 py-3 border border-neon-blue/20 bg-gradient-to-r from-neon-blue/10 to-neon-purple/10 hover:border-neon-blue/40 transition-all active:scale-[0.98]">
+          <span className="text-2xl">🗺️</span>
+          <div className="flex-1">
+            <p className="text-white font-bold text-sm leading-tight">Plizio World</p>
+            <p className="text-white/40 text-xs">{completedZones.length} / {WORLD_ZONES.length} zóna teljesítve</p>
+          </div>
+          <div className="flex items-center gap-1">
+            {WORLD_ZONES.map((z, i) => (
+              <div
+                key={z.id}
+                className="w-2 h-2 rounded-full"
+                style={{
+                  background: completedZones.includes(z.id) ? z.color : "rgba(255,255,255,0.12)",
+                }}
+              />
+            ))}
+          </div>
+        </div>
+      </Link>
+    </motion.div>
+  );
+}
+
 export default function Home() {
   const router = useRouter();
   const { lang } = useLang();
@@ -500,6 +539,9 @@ export default function Home() {
           )}
         </motion.div>
       )}
+
+      {/* Plizio World button */}
+      <WorldButton />
 
       {/* Categories */}
       <div className="flex flex-col items-center gap-6 w-full max-w-md px-2">

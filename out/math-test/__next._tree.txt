@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/3f5fd934db4d36c5.css","style"]
+:HL["/_next/static/chunks/40cd9b282661151c.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&display=swap","style"]
-0:{"buildId":"QthAkGs9D1YOCwSsyrNjt","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"math-test","paramType":null,"paramKey":"math-test","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"D8oGlXVeNPBbMFmzYgJ88","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"math-test","paramType":null,"paramKey":"math-test","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
