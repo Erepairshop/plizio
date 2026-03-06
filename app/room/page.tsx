@@ -196,6 +196,8 @@ function getDayNightAlpha(): number {
 const MS_PER_CELL = 250; // ms per grid cell (speed of walk)
 
 // ─── Line-of-sight check (avatar treated as circle, radius ~0.35 grid units) ───
+// Grid boundary cells outside [0..gridW-1]×[0..gridH-1] are simply skipped
+// (the floor stops at the grid edge — walls are visual only, no blocked cells outside)
 function lineOfSight(
   ax: number, ay: number,
   bx: number, by: number,
@@ -210,11 +212,13 @@ function lineOfSight(
   for (let i = 0; i <= steps; i++) {
     const t = i / steps;
     const px = ax + dx * t, py = ay + dy * t;
-    const x0 = Math.floor(px - radius), x1 = Math.floor(px + radius);
-    const y0 = Math.floor(py - radius), y1 = Math.floor(py + radius);
+    // clamp to grid — boundary cells beyond the floor are not walls, just empty
+    const x0 = Math.max(0, Math.floor(px - radius));
+    const x1 = Math.min(gridW - 1, Math.floor(px + radius));
+    const y0 = Math.max(0, Math.floor(py - radius));
+    const y1 = Math.min(gridH - 1, Math.floor(py + radius));
     for (let cx = x0; cx <= x1; cx++) {
       for (let cy = y0; cy <= y1; cy++) {
-        if (cx < 0 || cy < 0 || cx >= gridW || cy >= gridH) return false;
         if (isBlocked(cx, cy)) return false;
       }
     }
@@ -510,7 +514,7 @@ export default function RoomPage() {
       const dx = wp.gx - fromPos.gx;
       const dy = wp.gy - fromPos.gy;
       const dist = Math.sqrt(dx * dx + dy * dy);
-      const ms = Math.max(50, dist * MS_PER_CELL);
+      const ms = Math.max(200, dist * MS_PER_CELL);
       setAvatarFacing(calcFacing(fromPos.gx, fromPos.gy, wp.gx, wp.gy));
       setWalkTransitionMs(ms);
       avatarGridPosRef.current = wp;
@@ -955,25 +959,28 @@ export default function RoomPage() {
     const grid = clickToGrid(e);
     if (!grid) return;
 
-    // Integer cell for bounds/collision checks and A*
-    const igx = Math.round(grid.gx);
-    const igy = Math.round(grid.gy);
-    if (igx < 0 || igy < 0 || igx >= roomSize.gridW || igy >= roomSize.gridH) return;
+    // Integer cell for bounds/collision checks and A* — clamp to valid range
+    const igx = Math.max(0, Math.min(roomSize.gridW - 1, Math.round(grid.gx)));
+    const igy = Math.max(0, Math.min(roomSize.gridH - 1, Math.round(grid.gy)));
 
     const blocked = buildBlockedSet();
     if (blocked.has(`${igx},${igy}`)) return; // clicked on furniture
+
+    // Clamp float position to valid grid (so path never exits the floor)
+    const cgx = Math.max(0, Math.min(roomSize.gridW - 0.01, grid.gx));
+    const cgy = Math.max(0, Math.min(roomSize.gridH - 0.01, grid.gy));
 
     const cur = avatarGridPosRef.current;
     const curI = { gx: Math.round(cur.gx), gy: Math.round(cur.gy) };
     const path = aStarPath(curI.gx, curI.gy, igx, igy,
       roomSize.gridW, roomSize.gridH, (x, y) => blocked.has(`${x},${y}`));
 
-    // Replace last waypoint with exact sub-grid click position
+    // Replace last waypoint with exact sub-grid click position (clamped)
     if (path.length > 0) {
-      path[path.length - 1] = { gx: grid.gx, gy: grid.gy };
-    } else if (Math.hypot(grid.gx - cur.gx, grid.gy - cur.gy) > 0.05) {
+      path[path.length - 1] = { gx: cgx, gy: cgy };
+    } else if (Math.hypot(cgx - cur.gx, cgy - cur.gy) > 0.2) {
       // Same integer cell but different float position — still move there
-      path.push({ gx: grid.gx, gy: grid.gy });
+      path.push({ gx: cgx, gy: cgy });
     }
 
     if (path.length > 0) {
