@@ -644,7 +644,7 @@ export default function RoomPage() {
       newFurniture[movingIdx] = { ...moving, gridX: gx, gridY: gy };
       setFurniture(newFurniture);
       saveRoomFurniture(currentRoom.id, newFurniture);
-      setMovingIdx(null);
+      // Stay in move mode — user can keep repositioning until they click the furniture again
       return;
     }
 
@@ -694,7 +694,14 @@ export default function RoomPage() {
 
   // Handle furniture click in SVG (select placed furniture or show interaction)
   const handleFurnitureClick = (index: number) => {
-    if (movingIdx !== null) return;
+    if (movingIdx !== null) {
+      // Clicking the currently-moving furniture exits move mode
+      if (index === movingIdx) {
+        setMovingIdx(null);
+        setSelectedPlacedIdx(index);
+      }
+      return;
+    }
 
     if (editMode) {
       // Edit mode: select for rotate/move/remove
