@@ -13,6 +13,7 @@ import { getCards } from "@/lib/cards";
 import { WORLD_ZONES, getWorldProgress } from "@/lib/world";
 import { getSpecialCardCount, markAsReferred, isReferred, claimReferralReward } from "@/lib/specialCards";
 import { getStats } from "@/lib/milestones";
+import { claimDailyReward, type DailyRewardResult } from "@/lib/dailyReward";
 import { getUser, onAuthChange } from "@/lib/auth";
 import { syncToSupabase } from "@/lib/sync";
 import AuthModal from "@/components/AuthModal";
@@ -433,6 +434,7 @@ export default function Home() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [categories, setCategories] = useState<CategoryDef[]>([]);
   const [openCategories, setOpenCategories] = useState<Record<string, boolean>>({});
+  const [dailyReward, setDailyReward] = useState<DailyRewardResult | null>(null);
 
   useEffect(() => {
     // Initialize categories with translations
@@ -453,6 +455,13 @@ export default function Home() {
     setStreak(getStreak());
     setCardCount(getCards().length);
     setSpecialCount(getSpecialCardCount());
+
+    // Daily login reward
+    const reward = claimDailyReward();
+    if (reward && !reward.alreadyClaimed) {
+      setSpecialCount(getSpecialCardCount());
+      setDailyReward(reward);
+    }
     // Check username
     if (!hasUsername()) {
       setShowUsernameModal(true);
@@ -719,6 +728,63 @@ export default function Home() {
           }}
         />
       )}
+
+      {/* Daily reward popup */}
+      <AnimatePresence>
+        {dailyReward && !dailyReward.alreadyClaimed && (
+          <motion.div
+            initial={{ opacity: 0, scale: 0.85, y: 40 }}
+            animate={{ opacity: 1, scale: 1, y: 0 }}
+            exit={{ opacity: 0, scale: 0.85, y: 40 }}
+            className="fixed inset-0 z-50 flex items-center justify-center p-4"
+            onClick={() => setDailyReward(null)}
+          >
+            <div className="absolute inset-0 bg-black/60 backdrop-blur-sm" />
+            <motion.div
+              className="relative bg-[#12122A] border border-white/10 rounded-2xl p-6 max-w-xs w-full text-center shadow-2xl"
+              onClick={(e) => e.stopPropagation()}
+            >
+              {/* Streak flame */}
+              <div className="text-5xl mb-2">
+                {dailyReward.streakCount >= 30 ? "🏆" : dailyReward.streakCount >= 14 ? "💎" : dailyReward.streakCount >= 7 ? "🔥" : "⭐"}
+              </div>
+              <h2 className="text-white font-bold text-xl mb-1">
+                {dailyReward.streakBroken ? "Welcome back!" : "Daily Reward!"}
+              </h2>
+              <p className="text-white/50 text-sm mb-4">
+                {dailyReward.streakCount} day streak 🔥
+              </p>
+
+              {/* Reward breakdown */}
+              <div className="bg-white/5 rounded-xl p-3 mb-4 space-y-1">
+                <div className="flex justify-between text-sm">
+                  <span className="text-white/70">Daily login</span>
+                  <span className="text-yellow-400 font-bold">+1 ⭐</span>
+                </div>
+                {dailyReward.streakBonus > 0 && (
+                  <div className="flex justify-between text-sm">
+                    <span className="text-orange-400">
+                      {dailyReward.streakCount}d streak bonus!
+                    </span>
+                    <span className="text-orange-400 font-bold">+{dailyReward.streakBonus} ⭐</span>
+                  </div>
+                )}
+                <div className="border-t border-white/10 pt-1 flex justify-between text-sm font-bold">
+                  <span className="text-white">Total</span>
+                  <span className="text-yellow-400">+{1 + dailyReward.streakBonus} ⭐</span>
+                </div>
+              </div>
+
+              <button
+                onClick={() => setDailyReward(null)}
+                className="w-full py-2.5 bg-neon-blue/20 hover:bg-neon-blue/30 border border-neon-blue/40 text-neon-blue rounded-xl font-bold transition-colors"
+              >
+                Collect!
+              </button>
+            </motion.div>
+          </motion.div>
+        )}
+      </AnimatePresence>
     </main>
   );
 }
