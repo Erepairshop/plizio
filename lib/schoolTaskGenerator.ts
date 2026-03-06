@@ -807,7 +807,16 @@ function getItemsPerPointByKey(topicKey: string): number {
 
 // ─── MAIN GENERATOR ──────────────────────────────────────────────────────────
 
-const TOTAL_POINTS = 10;
+/**
+ * Mindig pontosan 10 blokk (= 10 feladatpont) generálódik.
+ * Minden blokk = 1 pont, benne 2-5 kérdés a nehézségtől függően:
+ *   könnyű téma → 4-5 kérdés/blokk; nehéz téma → 2 kérdés/blokk
+ *
+ * 1 témakör → 10 blokk mind abból a témából
+ * 2 témakör → 5-5 blokk (roundrobin)
+ * 3 témakör → 4-3-3 blokk (roundrobin)
+ */
+const TOTAL_BLOCKS = 10;
 
 export function generateSchoolTest(
   grade: number,
@@ -823,19 +832,20 @@ export function generateSchoolTest(
 
   if (effectiveTopics.length === 0) return [];
 
-  // Each topic gets an equal share of the 10 total points.
-  // The number of Aufgaben per topic depends on the TOPIC DIFFICULTY:
-  //   easy topic → more Aufgaben per point; hard topic → fewer.
-  const pointsPerTopic = TOTAL_POINTS / effectiveTopics.length;
+  // Generate exactly 10 blocks, roundrobin across topics.
+  // Each block = 1 pont; questions per block depend on topic difficulty.
+  const blocks: SchoolTaskBlock[] = [];
+  for (let i = 0; i < TOTAL_BLOCKS; i++) {
+    const topic = effectiveTopics[i % effectiveTopics.length];
+    const questionsInBlock = getItemsPerPointByKey(topic.key); // 2, 3, 4 or 5
+    const block = generateAufgabenBlock(grade, cc, topic.key, topic.name, questionsInBlock, i);
+    // Each block is worth exactly 1 point; questions share it equally
+    const pointPerQ = 1 / questionsInBlock;
+    const newSubQ = block.subQuestions.map(sq => ({ ...sq, points: pointPerQ }));
+    blocks.push({ ...block, totalPoints: 1, subQuestions: newSubQ });
+  }
 
-  const blocks: SchoolTaskBlock[] = effectiveTopics.map((t, i) => {
-    const ipp = getItemsPerPointByKey(t.key);
-    const count = Math.max(2, Math.round(pointsPerTopic * ipp));
-    return generateAufgabenBlock(grade, cc, t.key, t.name, count, i);
-  });
-
-  // Always normalize so block totalPoints sum to exactly 10
-  return normalizeBlocksTo10(blocks);
+  return blocks;
 }
 
 // ─── GRADING ─────────────────────────────────────────────────────────────────
