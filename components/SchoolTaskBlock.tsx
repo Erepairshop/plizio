@@ -132,7 +132,7 @@ export default function SchoolTaskBlock({
             }
           `}
         >
-          {isGrading ? `${earnedPoints} / ` : ''}{block.totalPoints} P.
+          {isGrading ? `${Math.round((earnedPoints ?? 0) * 10) / 10} / ` : ''}{block.totalPoints} P.
         </span>
       </div>
 

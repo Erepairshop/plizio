@@ -696,17 +696,16 @@ function normalizeBlocksTo10(blocks: SchoolTaskBlock[]): SchoolTaskBlock[] {
     remainder--;
   }
 
-  // Distribute each block's target points among its subQuestions
+  // Distribute each block's target points equally among its subQuestions (may be fractional)
   return blocks.map((block, i) => {
     const targetTotal = Math.max(1, normalized[i]);
     const sqCount = block.subQuestions.length;
     if (sqCount === 0) return { ...block, totalPoints: targetTotal };
 
-    const base = Math.floor(targetTotal / sqCount);
-    const extra = targetTotal - base * sqCount;
-    const newSubQ = block.subQuestions.map((sq, j) => ({
+    const pointPerSq = targetTotal / sqCount;
+    const newSubQ = block.subQuestions.map((sq) => ({
       ...sq,
-      points: j < extra ? base + 1 : Math.max(1, base),
+      points: pointPerSq,
     }));
 
     return { ...block, totalPoints: targetTotal, subQuestions: newSubQ };
@@ -784,9 +783,31 @@ function getAllTopicsForGrade(grade: number, cc: string): Array<{ key: string; n
   return result;
 }
 
+// ─── TOPIC DIFFICULTY SCALING ────────────────────────────────────────────────
+
+/**
+ * How many individual Aufgaben equal 1 point, based on the TOPIC TYPE (difficulty).
+ * Easy topics (basic arithmetic, sequences) → more items per point.
+ * Hard topics (algebra, equations, functions) → fewer items per point.
+ *
+ * Very easy  (5/pont): add10, add20, sub20, compare, missing, add100, sub100
+ * Easy       (4/pont): sequence, add1000, mul
+ * Medium     (3/pont): div, units, place, frac, geo, word, pct, neg, ratio, large
+ * Hard       (2/pont): algebra, eq, tri, pyth, sqrt, complex, func, prob, powers
+ */
+function getItemsPerPointByKey(topicKey: string): number {
+  const veryEasy = ['add10', 'add20', 'sub20', 'compare', 'missing', 'add100', 'sub100'];
+  const easy     = ['sequence', 'add1000', 'mul'];
+  const hard     = ['algebra', 'eq', 'tri', 'pyth', 'sqrt', 'complex', 'func', 'prob', 'powers'];
+  if (veryEasy.includes(topicKey)) return 5;
+  if (easy.includes(topicKey))     return 4;
+  if (hard.includes(topicKey))     return 2;
+  return 3; // medium: div, units, place, frac, geo, word, pct, neg, ratio, large, ...
+}
+
 // ─── MAIN GENERATOR ──────────────────────────────────────────────────────────
 
-const TOTAL_AUFGABEN = 10;
+const TOTAL_POINTS = 10;
 
 export function generateSchoolTest(
   grade: number,
@@ -802,20 +823,18 @@ export function generateSchoolTest(
 
   if (effectiveTopics.length === 0) return [];
 
-  // Split TOTAL_AUFGABEN = 10 items evenly across topics
-  const perTopic = Math.floor(TOTAL_AUFGABEN / effectiveTopics.length);
-  const extras = TOTAL_AUFGABEN - perTopic * effectiveTopics.length;
+  // Each topic gets an equal share of the 10 total points.
+  // The number of Aufgaben per topic depends on the TOPIC DIFFICULTY:
+  //   easy topic → more Aufgaben per point; hard topic → fewer.
+  const pointsPerTopic = TOTAL_POINTS / effectiveTopics.length;
 
   const blocks: SchoolTaskBlock[] = effectiveTopics.map((t, i) => {
-    const count = Math.max(1, perTopic + (i < extras ? 1 : 0));
+    const ipp = getItemsPerPointByKey(t.key);
+    const count = Math.max(2, Math.round(pointsPerTopic * ipp));
     return generateAufgabenBlock(grade, cc, t.key, t.name, count, i);
   });
 
-  // Verify actual item count (some topics may not have enough questions)
-  const actualTotal = blocks.reduce((s, b) => s + b.subQuestions.length, 0);
-  if (actualTotal === TOTAL_AUFGABEN) return blocks;
-
-  // If actual ≠ 10 (generator produced fewer), normalize points to 10
+  // Always normalize so block totalPoints sum to exactly 10
   return normalizeBlocksTo10(blocks);
 }
 

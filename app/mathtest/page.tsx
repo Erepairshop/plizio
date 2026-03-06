@@ -1821,7 +1821,7 @@ export default function MathTestPage() {
 
               {/* Score */}
               <div className="text-white/70 text-lg font-mono">
-                {schoolResult.earned} / {schoolResult.total} P. ({schoolResult.percentage}%)
+                {Math.round(schoolResult.earned * 10) / 10} / {schoolResult.total} P. ({schoolResult.percentage}%)
               </div>
 
               {/* Block breakdown */}
@@ -1834,8 +1834,8 @@ export default function MathTestPage() {
                   return (
                     <div key={block.id} className="flex items-center justify-between py-1.5 border-b border-white/5 last:border-0">
                       <span className="text-white/60 text-sm">{block.title}</span>
-                      <span className={`text-sm font-bold ${earned === block.totalPoints ? 'text-green-400' : 'text-white/60'}`}>
-                        {earned}/{block.totalPoints}
+                      <span className={`text-sm font-bold ${Math.abs(earned - block.totalPoints) < 0.001 ? 'text-green-400' : 'text-white/60'}`}>
+                        {Math.round(earned * 10) / 10}/{block.totalPoints}
                       </span>
                     </div>
                   );
