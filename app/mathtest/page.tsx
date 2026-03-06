@@ -36,7 +36,6 @@ import {
   getDEThemes,
   getROThemes,
   getHUThemes,
-  generateTopicQuestions,
 } from "@/lib/mathCurriculum";
 import {
   generateTest as generateThemeBasedTest,
@@ -107,6 +106,13 @@ import MathQuestionDisplay from "@/components/MathQuestionDisplay";
 import { DraftProvider } from "@/components/draft";
 import { convertToExtendedQuestion, isVisualQuestion } from "@/lib/mathQuestionUtils";
 import ModernPaperTest from "@/components/ModernPaperTest";
+import SchoolTaskBlock from "@/components/SchoolTaskBlock";
+import {
+  generateSchoolTest,
+  gradeSchoolTest,
+  type SchoolTaskBlock as SchoolTaskBlockType,
+  type SchoolTaskAnswers,
+} from "@/lib/schoolTaskGenerator";
 import GradingPencil, { InlineGradingPencil } from "@/components/GradingPencil";
 import { generateTestPdf } from "@/lib/generateTestPdf";
 import TeacherNote, { InlineTeacherNote } from "@/components/TeacherNote";
@@ -373,6 +379,11 @@ export default function MathTestPage() {
   const [realisticKlassenarbeit, setRealisticKlassenarbeit] = useState<RealisticKlassenarbeit | null>(null);
   const [groupedTaskAnswers, setGroupedTaskAnswers] = useState<Record<string, string | number>>({});
 
+  // ─── School Test (iskolai dolgozat stílus, grade 1-4) ────────────
+  const [schoolTasks, setSchoolTasks] = useState<SchoolTaskBlockType[]>([]);
+  const [schoolAnswers, setSchoolAnswers] = useState<SchoolTaskAnswers>({});
+  const [schoolResult, setSchoolResult] = useState<{ earned: number; total: number; percentage: number } | null>(null);
+
   // ─── Klassenarbeit timer (30 minutes) ───────────────────────
   const [klassenarbeitStartTime, setKlassenarbeitStartTime] = useState<number | null>(null);
   const [klassenarbeitTimeLeft, setKlassenarbeitTimeLeft] = useState(1800); // 30 * 60 = 1800 seconds
@@ -526,6 +537,19 @@ export default function MathTestPage() {
   useEffect(() => {
     if (gameState !== "grading") return;
 
+    // Handle school test grading (grade 1-4)
+    if (schoolTasks.length > 0) {
+      const result = gradeSchoolTest(schoolTasks, schoolAnswers);
+      setSchoolResult(result);
+      const grResult = calculateGradeResult(result.earned, result.total);
+      setGradeResult(grResult);
+      setTimeout(() => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        setGameState("result");
+      }, 800);
+      return;
+    }
+
     // Handle grouped tasks grading
     if (realisticKlassenarbeit) {
       // All graded for realistic Klassenarbeit
@@ -634,18 +658,23 @@ export default function MathTestPage() {
       total: gradeResult.total,
       date: new Date().toISOString(),
     });
+    window.dispatchEvent(new Event("plizio-cards-changed"));
 
     // In Supabase mode, stats are tracked server-side.
     // Still update local stats as fallback / offline cache.
-    const topicResults = questions.map((q, i) => ({
-      topic: q.topic,
-      correct: answers[i] === q.correctAnswer,
-    }));
-    updateMathStats(selectedGrade, gradeResult.percentage, topicResults);
+    if (schoolTasks.length > 0 && schoolResult) {
+      updateMathStats(selectedGrade, schoolResult.percentage, []);
+    } else {
+      const topicResults = questions.map((q, i) => ({
+        topic: q.topic,
+        correct: answers[i] === q.correctAnswer,
+      }));
+      updateMathStats(selectedGrade, gradeResult.percentage, topicResults);
+    }
 
     incrementTotalGames();
     if (gradeResult.percentage === 100) incrementPerfectScores();
-  }, [gameState, saved, gradeResult, selectedGrade, questions, answers]);
+  }, [gameState, saved, gradeResult, selectedGrade, questions, answers, schoolTasks, schoolResult]);
 
   // ─── Fetch Supabase curriculum when country+grade are selected ───
   useEffect(() => {
@@ -738,13 +767,14 @@ export default function MathTestPage() {
     setSaved(false);
     setCardRarity(null);
     setTestSession(null);
+    setSchoolResult(null);
     answerTimesRef.current = [];
     lastAnswerTimeRef.current = 0;
 
-    // ─── Initialize 40-minute timer ─────────────────────
+    // ─── Initialize timer (all grades) ──────────────────
     const now = Date.now();
     setKlassenarbeitStartTime(now);
-    setKlassenarbeitTimeLeft(40 * 60); // 40 minutes = 2400 seconds
+    setKlassenarbeitTimeLeft(40 * 60);
     localStorage.setItem("klassenarbeitStartTime", now.toString());
 
     // Supabase HU slug → HU_THEMES generator topic key mapping
@@ -790,272 +820,160 @@ export default function MathTestPage() {
     };
 
     // DE Supabase slug → DE_THEMES generator key mapping
+    // Includes both abbreviated AND full 'und'-containing variants
     const DE_SLUG_TO_KEY: Record<string, string> = {
       // Grade 1
       'addition-bis-20': 'add20', 'subtraktion-bis-20': 'sub20',
       'vergleichen-ordnen': 'compare', 'fehlende-zahlen': 'missing',
       'einfache-textaufgaben': 'word', 'rechengeschichten': 'word',
-      'formen-erkennen': 'compare', 'uhr-und-geld': 'add10',
+      'formen-erkennen': 'compare', 'uhr-und-geld': 'add10', 'uhr-geld': 'add10',
       // Grade 2
       'addition-bis-100': 'add100', 'subtraktion-bis-100': 'sub100',
-      'zehnerzahlen': 'add100', 'einmaleins-2-5-10': 'mul',
+      'zehnerzahlen': 'add100', 'einmaleins-2-5-10': 'mul', 'einmaleins': 'mul',
       'einfache-division': 'div', 'textaufgaben': 'word',
-      'zahlenreihen': 'sequence', 'laengen-zeit': 'units', 'geld-rechnen': 'units',
+      'zahlenreihen': 'sequence', 'laengen-zeit': 'units', 'laengen-und-zeit': 'units',
+      'geld-rechnen': 'units',
       // Grade 3
-      'add-sub-1000': 'add1000', 'schriftlich': 'add1000',
+      'add-sub-1000': 'add1000', 'addition-subtraktion-bis-1000': 'add1000', 'schriftlich': 'add1000',
       'multiplikation': 'mul', 'division': 'div', 'fehlende-faktoren': 'mul',
-      'zahlenfolgen': 'sequence', 'laenge-gewicht-zeit': 'units', 'umrechnen': 'units',
+      'multiplikation-und-division': 'mul',
+      'zahlenfolgen': 'sequence',
+      'laenge-gewicht-zeit': 'units', 'laenge-und-gewicht-und-zeit': 'units', 'umrechnen': 'units',
       // Grade 4
-      'zahlen-bis-1000': 'place', 'addition-subtraktion': 'mul',
-      'multiplikation-division': 'mul', 'sachaufgaben': 'word',
-      'umfang-flaeche': 'geo', '3d-koerper': 'geo', 'symmetrie-dreiecke': 'geo',
-      'laengen-kilometer': 'units', 'gewicht-volumen': 'units',
+      'zahlen-bis-1000': 'place1k', 'zahlen-bis-10000': 'place', 'stellenwerte': 'place',
+      'addition-subtraktion': 'place', 'addition-und-subtraktion': 'place',
+      'multiplikation-division': 'mul',
+      'schriftlich-multiplizieren': 'mul', 'schriftlich-dividieren': 'div',
+      'sachaufgaben': 'word', 'sachaufgaben-wortprobleme': 'word', 'wortprobleme': 'word',
+      'umfang-flaeche': 'geo', 'umfang-und-flaeche': 'geo',
+      '3d-koerper': 'geo', 'symmetrie-dreiecke': 'geo', 'symmetrie-und-dreiecke': 'geo',
+      'laengen-kilometer': 'units', 'gewicht-volumen': 'units', 'gewicht-und-volumen': 'units',
       'zeit': 'units', 'umrechnung': 'units',
       'tabellen-diagramme': 'geo', 'wahrscheinlichkeit': 'geo', 'datenanalyse': 'geo',
+      'brueche': 'frac', 'dezimalzahlen': 'place',
       // Grade 5
-      'grosse-zahlen': 'large', 'rechenregeln': 'ops',
-      'bruchrechnung': 'frac', 'prozentrechnung': 'pct',
+      'grosse-zahlen': 'large', 'rechenregeln': 'ops', 'punkt-vor-strich': 'ops',
+      'bruchrechnung': 'frac', 'prozentrechnung': 'pct', 'prozent': 'pct',
       'formen-masse': 'geo', 'rabatt-einkauf': 'word', 'rechenregeln-anwenden': 'word',
       // Grade 6
-      'rechnen-negativ': 'neg', 'zahlenstrahl': 'neg',
+      'rechnen-negativ': 'neg', 'negative-zahlen': 'neg', 'zahlenstrahl': 'neg',
       'brueche-multiplizieren': 'frac', 'brueche-dividieren': 'frac',
-      'verhaeltnisse': 'ratio', 'prozent': 'pct',
+      'brueche-multiplizieren-und-dividieren': 'frac',
+      'verhaeltnisse': 'ratio', 'verhaeltnisse-und-geschwindigkeit': 'ratio',
       'flaechen': 'geo', 'geschwindigkeit': 'ratio',
       // Grade 7
-      'potenzen': 'powers', 'algebra': 'algebra',
+      'potenzen': 'powers', 'algebra': 'algebra', 'algebrai-kif': 'algebra',
       'lineare-gleichungen': 'eq', 'gleichungen-aufstellen': 'eq',
-      'winkel': 'tri', 'besondere-dreiecke': 'tri',
-      'hypotenuse': 'pyth', 'kathete': 'pyth',
+      'lineare-gleichungen-und-aufstellen': 'eq',
+      'winkel': 'tri', 'besondere-dreiecke': 'tri', 'winkel-und-dreiecke': 'tri',
+      'hypotenuse': 'pyth', 'kathete': 'pyth', 'satz-des-pythagoras': 'pyth',
       // Grade 8
-      'quadratwurzeln': 'sqrt', 'komplexe-terme': 'complex',
+      'quadratwurzeln': 'sqrt', 'wurzeln': 'sqrt',
+      'komplexe-terme': 'complex', 'terme': 'complex',
       'zwei-seiten': 'eq', 'gleichungen-loesen': 'eq',
-      'lineare-funktionen': 'func', 'funktionswerte': 'func',
-      'grundlagen': 'prob', 'anwendungen': 'prob',
+      'lineare-funktionen': 'func', 'funktionswerte': 'func', 'funktionen': 'func',
+      'grundlagen': 'prob', 'anwendungen': 'prob', 'wahrscheinlichkeitsrechnung': 'prob',
     };
 
-    try {
-      // ─── EN / DE / RO: generator-based topic selection ──────────
+    {
+      // ─── Extract topic blocks from selectedSubtopics (all grades) ──────────
+      const topicBlocks: Array<{ key: string; name: string }> = [];
+      const topicKeysSeen = new Set<string>();
+
+      // EN / DE / RO: generator-based topic IDs (format: {lang}_topic_{grade}_{key})
       const generatorTopicIds = selectedSubtopics.filter(id =>
-        id.startsWith('en_topic_') || id.startsWith('de_topic_') ||
-        id.startsWith('ro_topic_')
+        id.startsWith('en_topic_') || id.startsWith('de_topic_') || id.startsWith('ro_topic_')
       );
-      if (generatorTopicIds.length > 0) {
-        const cc = country!.code;
-        const grade = selectedGrade!;
-        const TARGET = 15;
-        const perTopic = Math.ceil(TARGET / generatorTopicIds.length);
-        const seen = new Set<string>();
-        const qs: MathQuestion[] = [];
-        for (const tid of generatorTopicIds) {
-          // Format: {en|de}_topic_{grade}_{topicKey}
-          const topicKey = tid.split('_').slice(3).join('_');
-          const pool = generateTopicQuestions(grade, topicKey, cc, perTopic);
-          for (const q of pool) {
-            if (!seen.has(q.question) && qs.length < TARGET) {
-              seen.add(q.question);
-              qs.push(q);
-            }
+      for (const tid of generatorTopicIds) {
+        const topicKey = tid.split('_').slice(3).join('_');
+        if (!topicKeysSeen.has(topicKey)) {
+          topicKeysSeen.add(topicKey);
+          let name = topicKey;
+          for (const theme of resolvedThemes) {
+            const sub = theme.subtopics.find(s => s.id === tid);
+            if (sub) { name = sub.name; break; }
           }
+          topicBlocks.push({ key: topicKey, name });
         }
-        setQuestions(qs);
-        setAnswers(new Array(qs.length).fill(null));
-        setRealisticKlassenarbeit(null);
-        setAvatarMood("idle");
-        setGameState("playing");
-        setGeneratingTest(false);
-        return;
       }
 
-      // ─── Supabase countries (HU, US, GB, RO): slug mapping → generator ──
-      // DE, HU, US, GB, RO → Supabase témák; AT/CH → generator (nincs Supabase adatuk)
-      const isSupabaseCountry = !['AT','CH'].includes(country?.code ?? '');
-      if (isSupabaseCountry) {
+      // Supabase-based IDs (slug mapping for HU/DE)
+      if (topicBlocks.length === 0) {
+        const slugMap = country!.code === 'DE' ? DE_SLUG_TO_KEY : HU_SLUG_TO_KEY;
+
+        // Normalize a slug: remove connector words (-und-, -és-, -and-), collapse dashes
+        const normalizeSlug = (s: string) =>
+          s.replace(/-und-/g, '-').replace(/-és-/g, '-').replace(/-and-/g, '-')
+           .replace(/-\(.*?\)/g, '').replace(/--+/g, '-').replace(/-$/, '');
+
+        // If slug is missing, generate one from the subtopic name
+        const slugifyName = (name: string): string =>
+          name.toLowerCase()
+            .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')
+            .replace(/á/g, 'a').replace(/é/g, 'e').replace(/í/g, 'i').replace(/ó/g, 'o').replace(/ú/g, 'u')
+            .replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '').replace(/--+/g, '-');
+
+        // Build generator topic list for name-based fallback
         const cc = country!.code;
-        const grade = selectedGrade!;
-        const isDE = cc === 'DE';
-        const slugMap = isDE ? DE_SLUG_TO_KEY : HU_SLUG_TO_KEY;
-        const TARGET = 15;
-        const seen = new Set<string>();
-        const qs: MathQuestion[] = [];
-        const topicKeys: string[] = [];
+        const genThemes = (cc === 'DE' || cc === 'AT' || cc === 'CH') ? getDEThemes(selectedGrade!)
+          : cc === 'HU' ? getHUThemes(selectedGrade!)
+          : cc === 'RO' ? getROThemes(selectedGrade!)
+          : getENThemes(selectedGrade!);
+        const genTopics = genThemes.flatMap(t => t.topics);
+
         for (const theme of resolvedThemes) {
           for (const sub of theme.subtopics) {
             if (!selectedSubtopics.includes(sub.id)) continue;
-            const key = sub.slug ? slugMap[sub.slug] : undefined;
-            if (key && !topicKeys.includes(key)) topicKeys.push(key);
-          }
-        }
-        if (topicKeys.length > 0) {
-          const perTopic = Math.ceil(TARGET / topicKeys.length);
-          for (const key of topicKeys) {
-            const pool = generateTopicQuestions(grade, key, cc, perTopic);
-            for (const q of pool) {
-              if (!seen.has(q.question) && qs.length < TARGET) {
-                seen.add(q.question);
-                qs.push(q);
+
+            // Effective slug: use DB slug or generate from name
+            const effectiveSlug = sub.slug || (sub.name ? slugifyName(sub.name) : undefined);
+
+            // 1. Exact slug match
+            let key: string | undefined = effectiveSlug ? slugMap[effectiveSlug] : undefined;
+
+            // 2. Normalized slug match
+            if (!key && effectiveSlug) {
+              key = slugMap[normalizeSlug(effectiveSlug)];
+            }
+
+            // 3. Name-keyword fallback: find generator topic whose name overlaps sub.name
+            if (!key && sub.name) {
+              const subWords = sub.name.toLowerCase().split(/[\s\/\-,]+/).filter(w => w.length > 3);
+              for (const gt of genTopics) {
+                const gtWords = gt.name.toLowerCase().split(/[\s\/\-,]+/);
+                const overlap = subWords.filter(w => gtWords.some(gw => gw.includes(w) || w.includes(gw)));
+                if (overlap.length >= Math.min(2, subWords.length)) {
+                  key = gt.key;
+                  break;
+                }
               }
             }
-          }
-        }
-        if (qs.length > 0) {
-          setQuestions(qs);
-          setAnswers(new Array(qs.length).fill(null));
-          setRealisticKlassenarbeit(null);
-          setAvatarMood("idle");
-          setGameState("playing");
-          setGeneratingTest(false);
-          return;
-        }
-        // fallback: összes téma generátor cc-vel
-        const allTopics = (isDE ? getDEThemes(grade) : getHUThemes(grade)).flatMap(t => t.topics);
-        for (let i = 0; i < TARGET * 5 && qs.length < TARGET; i++) {
-          const topic = allTopics[Math.floor(Math.random() * allTopics.length)];
-          const gen = topic.generators[Math.floor(Math.random() * topic.generators.length)];
-          const q = gen(cc);
-          if (!seen.has(q.question)) { seen.add(q.question); qs.push(q); }
-        }
-        if (qs.length > 0) {
-          setQuestions(qs);
-          setAnswers(new Array(qs.length).fill(null));
-          setRealisticKlassenarbeit(null);
-          setAvatarMood("idle");
-          setGameState("playing");
-          setGeneratingTest(false);
-          return;
-        }
-      }
 
-      // ─── Collect task IDs from selected subtopics ─────────────
-      // Works with both JSON themes (slug-based) and Supabase themes (UUID-based)
-      const allTaskIds: string[] = [];
-      const taskFilesNeeded = new Set<string>();
-
-      // Build a slug→subtopic lookup from JSON curriculum for fallback matching
-      const gradeCurriculum = CURRICULA[selectedGrade!];
-      const jsonSubtopicMap = new Map<string, { taskFile: string; taskIds: string[] }>();
-      if (gradeCurriculum) {
-        for (const theme of gradeCurriculum.themes) {
-          for (const sub of theme.subtopics) {
-            jsonSubtopicMap.set(sub.id, { taskFile: sub.taskFile, taskIds: sub.taskIds });
-          }
-        }
-      }
-
-      // Iterate through resolvedThemes to find selected subtopics
-      for (const theme of resolvedThemes) {
-        for (const subtopic of theme.subtopics) {
-          if (!selectedSubtopics.includes(subtopic.id)) continue;
-
-          // Case 1: JSON theme (has taskFile + taskIds)
-          if (subtopic.taskFile && subtopic.taskIds) {
-            allTaskIds.push(...subtopic.taskIds);
-            taskFilesNeeded.add(subtopic.taskFile);
-          }
-          // Case 2: Supabase theme (UUID-based) → match by slug to JSON
-          else if (subtopic.slug) {
-            const jsonMatch = jsonSubtopicMap.get(subtopic.slug);
-            if (jsonMatch) {
-              allTaskIds.push(...jsonMatch.taskIds);
-              taskFilesNeeded.add(jsonMatch.taskFile);
+            if (key && !topicKeysSeen.has(key)) {
+              topicKeysSeen.add(key);
+              topicBlocks.push({ key, name: sub.name });
             }
           }
         }
       }
 
-      // If no tasks found via themes, try all JSON subtopics as last resort
-      if (allTaskIds.length === 0 && gradeCurriculum) {
-        for (const theme of gradeCurriculum.themes) {
-          for (const sub of theme.subtopics) {
-            allTaskIds.push(...sub.taskIds);
-            taskFilesNeeded.add(sub.taskFile);
-          }
-        }
-      }
-
-      if (allTaskIds.length === 0) {
-        throw new Error("No tasks found for selected subtopics");
-      }
-
-      console.log(`[Multi-Theme Test] Collected ${allTaskIds.length} tasks from ${selectedSubtopics.length} subtopics`);
-
-      // Load all relevant task files
-      const allTasks: any[] = [];
-
-      // Load and parse JSON files
-      for (const fileName of taskFilesNeeded) {
-        try {
-          const module = await import(`@/data/mathematics/class-${selectedGrade}/${fileName.replace('.json', '')}`);
-          const fileData = module.default;
-
-          if (fileData.tasks) {
-            const relevantTasks = fileData.tasks.filter((task: any) => allTaskIds.includes(task.id));
-            allTasks.push(...relevantTasks);
-          }
-        } catch (err) {
-          console.error(`Failed to load ${fileName}:`, err);
-        }
-      }
-
-      if (allTasks.length === 0) {
-        throw new Error("Failed to load tasks");
-      }
-
-      // Shuffle and select 15 questions with balanced difficulty
-      const easyTasks = allTasks.filter(t => t.difficulty === 'easy');
-      const mediumTasks = allTasks.filter(t => t.difficulty === 'medium');
-      const hardTasks = allTasks.filter(t => t.difficulty === 'hard');
-
-      const shuffleArray = <T,>(arr: T[]): T[] => {
-        const shuffled = [...arr];
-        for (let i = shuffled.length - 1; i > 0; i--) {
-          const j = Math.floor(Math.random() * (i + 1));
-          [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-        }
-        return shuffled;
-      };
-
-      const selectedTasks = [
-        ...shuffleArray(easyTasks).slice(0, 5),      // 5 easy
-        ...shuffleArray(mediumTasks).slice(0, 7),    // 7 medium
-        ...shuffleArray(hardTasks).slice(0, 3),      // 3 hard
-      ];
-
-      const testTasks = shuffleArray(selectedTasks);
-
-      // Convert to MathQuestion format
-      const mathQuestions: MathQuestion[] = testTasks.map((task) => {
-        const hasStringOpts = task.options.some((opt: any) => typeof opt === 'string' && isNaN(Number(opt)));
-        const convertedOptions = hasStringOpts
-          ? task.options
-          : task.options.map((opt: any) => typeof opt === 'number' ? opt : parseInt(opt as string, 10));
-        return {
-        question: task.question,
-        correctAnswer: convertedOptions[task.correct],
-        options: convertedOptions,
-        topic: task.id,
-        isWordProblem: false,
-        hasStringOptions: hasStringOpts,
-        };
-      });
-
-      console.log(`[Multi-Theme Test] Generated ${mathQuestions.length} balanced questions`);
-
-      setQuestions(mathQuestions);
-      setAnswers(new Array(mathQuestions.length).fill(null));
+      // ─── Generate school test (all grades) ────────────────────────────────
+      const tasks = generateSchoolTest(
+        selectedGrade!,
+        country?.code || 'DE',
+        topicBlocks.length > 0 ? topicBlocks : undefined
+      );
+      setSchoolTasks(tasks);
+      setSchoolAnswers({});
       setRealisticKlassenarbeit(null);
-      setAvatarMood("idle");
-
-      // Start test directly without countdown
-      lastAnswerTimeRef.current = 0;
-      // Scroll to top immediately
-      window.scrollTo(0, 0);
-      setTimeout(() => setGameState("playing"), 50);
-    } catch (err) {
-      console.error("[Multi-Theme Test] Failed:", err);
-      alert("Error generating test. Please try again.");
-    } finally {
+      setQuestions([]);
+      setAnswers([]);
+      setAvatarMood('focused');
+      setGameState('playing');
       setGeneratingTest(false);
+      return;
     }
+
   };
 
   const handleThemeSelect = async (theme: string) => {
@@ -1156,6 +1074,10 @@ export default function MathTestPage() {
     }));
   };
 
+  const handleSchoolSubmit = () => {
+    setGameState("grading");
+  };
+
   const handleSubmit = async () => {
     // Always show grading animation (pencil) first
     setGradingIndex(0);
@@ -1196,11 +1118,21 @@ export default function MathTestPage() {
   const handlePlayAgain = () => {
     if (selectedGrade) {
       setSelectedSubtopics([]);
+      setSchoolTasks([]);
+      setSchoolAnswers({});
+      setSchoolResult(null);
       setGameState("theme-select");
     }
   };
 
-  const allAnswered = realisticKlassenarbeit
+  const allAnswered = schoolTasks.length > 0
+    ? schoolTasks.every((block) =>
+        block.subQuestions.every((sq) => {
+          const v = schoolAnswers[sq.id];
+          return v !== undefined && String(v).trim() !== '';
+        })
+      )
+    : realisticKlassenarbeit
     ? realisticKlassenarbeit.tasks.every((task) =>
         task.subQuestions.every((sq) => `task_${task.taskNumber - 1}_${sq.id}` in groupedTaskAnswers)
       )
@@ -1682,8 +1614,27 @@ export default function MathTestPage() {
                 />
               ) : null}
 
+              {/* School Test Mode (grade 1-4) */}
+              {schoolTasks.length > 0 && (
+                <div className="space-y-0">
+                  {schoolTasks.map((block, bi) => (
+                    <SchoolTaskBlock
+                      key={block.id}
+                      block={block}
+                      blockIndex={bi}
+                      answers={schoolAnswers}
+                      onChange={(sqId, val) =>
+                        !isGrading && setSchoolAnswers((prev) => ({ ...prev, [sqId]: val }))
+                      }
+                      isGrading={isGrading}
+                      cc={country?.code || 'DE'}
+                    />
+                  ))}
+                </div>
+              )}
+
               {/* Realistic Klassenarbeit (Grouped Tasks) */}
-              {realisticKlassenarbeit && (
+              {!schoolTasks.length && realisticKlassenarbeit && (
                 <RealisticKlassenarbeitDisplay
                   tasks={realisticKlassenarbeit.tasks}
                   answers={groupedTaskAnswers}
@@ -1789,7 +1740,7 @@ export default function MathTestPage() {
               )}
             </div>
 
-            {/* Floating Absence Button - Center bottom, above avatar */}
+            {/* Floating Submit Button - Center bottom, above avatar */}
             {!isGrading && (
               <motion.div
                 className="fixed left-1/2 -translate-x-1/2 bottom-24 z-40"
@@ -1799,19 +1750,22 @@ export default function MathTestPage() {
               >
                 <motion.button
                   onClick={() => {
-                    const allFilled = answers.every((a) => a !== null);
-                    if (allFilled) {
-                      handleSubmit();
+                    if (allAnswered) {
+                      if (schoolTasks.length > 0) {
+                        handleSchoolSubmit();
+                      } else {
+                        handleSubmit();
+                      }
                     }
                   }}
-                  disabled={!answers.every((a) => a !== null)}
+                  disabled={!allAnswered}
                   className={`px-8 py-3 rounded-lg font-bold shadow-lg transition-all ${
-                    answers.every((a) => a !== null)
+                    allAnswered
                       ? 'bg-blue-600 hover:bg-blue-700 text-white cursor-pointer'
                       : 'bg-gray-300 text-gray-500 cursor-not-allowed opacity-60'
                   }`}
-                  whileHover={answers.every((a) => a !== null) ? { scale: 1.05, boxShadow: "0 0 30px rgba(37, 99, 235, 0.6)" } : {}}
-                  whileTap={answers.every((a) => a !== null) ? { scale: 0.95 } : {}}
+                  whileHover={allAnswered ? { scale: 1.05, boxShadow: "0 0 30px rgba(37, 99, 235, 0.6)" } : {}}
+                  whileTap={allAnswered ? { scale: 0.95 } : {}}
                 >
                   {ui?.submit || 'Submit'}
                 </motion.button>
@@ -1849,6 +1803,90 @@ export default function MathTestPage() {
   // ─── RESULT SCREEN ─────────────────────────────
 
   if (gameState === "result" && gradeResult) {
+    // School test result (grade 1-4)
+    if (schoolTasks.length > 0 && schoolResult) {
+      const mark = country?.calculateMark(schoolResult.percentage);
+      const isGood = schoolResult.percentage >= 75;
+
+      return (
+        <>
+          <main className="min-h-screen bg-bg flex items-center justify-center px-4 py-8">
+            <motion.div
+              className="flex flex-col items-center gap-6 max-w-sm w-full text-center"
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+            >
+              {/* Grade/result display */}
+              {mark && (
+                <div className="flex flex-col items-center gap-2">
+                  <span className="text-7xl">{mark.emoji}</span>
+                  <span className="text-6xl font-black" style={{ color: mark.color }}>
+                    {mark.display}
+                  </span>
+                  <span className="text-xl font-bold" style={{ color: mark.color }}>
+                    {mark.label}
+                  </span>
+                </div>
+              )}
+
+              {/* Score */}
+              <div className="text-white/70 text-lg font-mono">
+                {Math.round(schoolResult.earned * 10) / 10} / {schoolResult.total} P. ({schoolResult.percentage}%)
+              </div>
+
+              {/* Block breakdown */}
+              <div className="w-full bg-white/5 rounded-2xl border border-white/10 p-4 text-left">
+                {schoolTasks.map((block) => {
+                  const earned = block.subQuestions.reduce((s, sq) => {
+                    const v = String(schoolAnswers[sq.id] ?? '').trim();
+                    return s + (v === String(sq.answer).trim() ? sq.points : 0);
+                  }, 0);
+                  return (
+                    <div key={block.id} className="flex items-center justify-between py-1.5 border-b border-white/5 last:border-0">
+                      <span className="text-white/60 text-sm">{block.title}</span>
+                      <span className={`text-sm font-bold ${Math.abs(earned - block.totalPoints) < 0.001 ? 'text-green-400' : 'text-white/60'}`}>
+                        {Math.round(earned * 10) / 10}/{block.totalPoints}
+                      </span>
+                    </div>
+                  );
+                })}
+              </div>
+
+              {/* Card earned */}
+              {cardRarity && (
+                <div className="text-white/70 text-sm">
+                  {ui?.card || 'Card'}: <span className="font-bold capitalize" style={{
+                    color: cardRarity === 'legendary' ? '#FFD700' : cardRarity === 'gold' ? '#FFA500' : cardRarity === 'silver' ? '#C0C0C0' : '#CD7F32'
+                  }}>{cardRarity}</span>
+                </div>
+              )}
+
+              {/* Buttons */}
+              <div className="flex gap-3 flex-wrap justify-center">
+                <motion.button
+                  onClick={handlePlayAgain}
+                  className="px-6 py-3 rounded-xl font-bold bg-white/10 text-white border border-white/20 hover:bg-white/20 transition-colors"
+                  whileHover={{ scale: 1.05 }}
+                  whileTap={{ scale: 0.95 }}
+                >
+                  {ui?.retry || 'Retry'}
+                </motion.button>
+                <motion.button
+                  onClick={() => setGameState("grade-select")}
+                  className="px-6 py-3 rounded-xl font-bold bg-white/10 text-white border border-white/20 hover:bg-white/20 transition-colors"
+                  whileHover={{ scale: 1.05 }}
+                  whileTap={{ scale: 0.95 }}
+                >
+                  {ui?.other || 'Other'}
+                </motion.button>
+              </div>
+            </motion.div>
+          </main>
+          <AvatarCompanion mood={isGood ? 'victory' : 'idle'} gender={avatarGender} activeSkin={avatarSkin} activeFace={avatarFace} activeTop={avatarTop} activeBottom={avatarBottom} activeShoe={avatarShoe} activeCape={avatarCape} activeGlasses={avatarGlasses} activeGloves={avatarGloves} activeHat={avatarHat} activeTrail={avatarTrail} />
+        </>
+      );
+    }
+
     // Klassenarbeit vs Practice display
     const isKlassenarbeit = testType === "klassenarbeit" && klassenarbeitResult;
 
