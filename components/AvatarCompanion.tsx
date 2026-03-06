@@ -702,10 +702,20 @@ function Character({
     groupRef.current.position.y = lerp(groupRef.current.position.y, jumpHeight, 0.15);
     // Facing direction (only when not in a spin/dance reaction)
     if (jumpTimer.current < 0) {
-      // se=screen-right, nw=screen-left, sw=screen-down(toward viewer), ne=screen-up(away)
-      const facingMap: Record<string, number> = { se: 0.55, sw: -0.25, ne: 0.25, nw: -0.55 };
+      // se=screen-right (+45°), sw=screen-left (-45°), ne=away-right (+135°), nw=away-left (-135°)
+      const facingMap: Record<string, number> = {
+        se:  Math.PI / 4,        //  +45° — right profile toward camera
+        sw: -Math.PI / 4,        //  -45° — left profile toward camera
+        ne:  Math.PI * 3 / 4,    // +135° — back-right (away from camera)
+        nw: -Math.PI * 3 / 4,    // -135° — back-left  (away from camera)
+      };
       const facingTargetY = facingRef.current ? (facingMap[facingRef.current] ?? 0) : 0;
-      groupRef.current.rotation.y = lerp(groupRef.current.rotation.y, facingTargetY, 0.14);
+      // Normalize angle diff so lerp always takes the shortest rotation path
+      const curY = groupRef.current.rotation.y;
+      let diff = facingTargetY - curY;
+      while (diff >  Math.PI) diff -= 2 * Math.PI;
+      while (diff < -Math.PI) diff += 2 * Math.PI;
+      groupRef.current.rotation.y = lerp(curY, curY + diff, 0.14);
     }
     groupRef.current.rotation.z = lerp(groupRef.current.rotation.z, 0, 0.1);
     headRef.current.rotation.x = lerp(headRef.current.rotation.x, 0, 0.1);
