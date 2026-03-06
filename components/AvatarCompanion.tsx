@@ -1451,7 +1451,7 @@ export default function AvatarCompanion({
         camera={{ position: [0, 0.15, 2.6], fov: 44 }}
         frameloop="always"
         gl={{ antialias: false, powerPreference: 'low-power', alpha: true, stencil: false }}
-        style={{ background: 'transparent' }}
+        style={{ background: 'transparent', ...(passThrough ? { pointerEvents: 'none' as const } : {}) }}
       >
         <hemisphereLight color="#f8f0e8" groundColor="#a09080" intensity={0.7} />
         <ambientLight intensity={0.45} />
