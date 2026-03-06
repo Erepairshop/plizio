@@ -866,7 +866,8 @@ export default function RoomPage() {
 
     const grid = clickToGrid(e);
     if (!grid) return;
-    const { gx, gy } = grid;
+    const gx = Math.round(grid.gx);
+    const gy = Math.round(grid.gy);
 
     // MOVE MODE: moving an existing furniture piece
     if (movingIdx !== null) {
