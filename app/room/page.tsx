@@ -193,7 +193,31 @@ function getDayNightAlpha(): number {
 }
 
 // ─── Walking constants ───
-const STEP_DURATION = 420; // ms per grid cell
+const MS_PER_CELL = 250; // ms per grid cell (speed of walk)
+
+// Merge consecutive same-direction A* steps into smooth segments
+type WalkSegment = { end: { gx: number; gy: number }; length: number; facing: 'se' | 'sw' | 'ne' | 'nw' };
+function simplifyPath(pts: Array<{ gx: number; gy: number }>): WalkSegment[] {
+  if (pts.length < 2) return [];
+  const segs: WalkSegment[] = [];
+  let start = pts[0];
+  for (let i = 1; i < pts.length; i++) {
+    const isLast = i === pts.length - 1;
+    const d1x = Math.sign(pts[i].gx - pts[i - 1].gx);
+    const d1y = Math.sign(pts[i].gy - pts[i - 1].gy);
+    const d2x = isLast ? -999 : Math.sign(pts[i + 1].gx - pts[i].gx);
+    const d2y = isLast ? -999 : Math.sign(pts[i + 1].gy - pts[i].gy);
+    if (isLast || d1x !== d2x || d1y !== d2y) {
+      segs.push({
+        end: pts[i],
+        length: Math.abs(pts[i].gx - start.gx) + Math.abs(pts[i].gy - start.gy),
+        facing: calcFacing(start.gx, start.gy, pts[i].gx, pts[i].gy),
+      });
+      start = pts[i];
+    }
+  }
+  return segs;
+}
 
 // ─── Facing direction ───
 function calcFacing(fromGx: number, fromGy: number, toGx: number, toGy: number): 'se' | 'sw' | 'ne' | 'nw' {
@@ -257,6 +281,7 @@ interface AvatarInRoomProps {
   mood: AvatarCompanionProps["mood"];
   reaction: { reaction: "wave" | "dance" | "spin" | "happy" | "surprised" | "confused" | "laughing" | "victory" | null; timestamp: number };
   isWalking: boolean;
+  walkTransitionMs: number;
   facing: 'se' | 'sw' | 'ne' | 'nw';
   activeInteraction: string | null;
   gender: AvatarGender;
@@ -281,6 +306,7 @@ function AvatarInRoom({
   mood,
   reaction,
   isWalking,
+  walkTransitionMs,
   facing,
   activeInteraction,
   gender,
@@ -338,7 +364,7 @@ function AvatarInRoom({
         top: pos.top - avatarSize * 0.75,
         width: avatarSize,
         height: avatarSize,
-        transition: isWalking ? `left ${STEP_DURATION}ms linear, top ${STEP_DURATION}ms linear` : "none",
+        transition: walkTransitionMs > 0 ? `left ${walkTransitionMs}ms linear, top ${walkTransitionMs}ms linear` : "none",
       }}
     >
       <div className="w-full h-full">
@@ -409,9 +435,8 @@ export default function RoomPage() {
   const [avatarFacing, setAvatarFacing] = useState<'se' | 'sw' | 'ne' | 'nw'>('se');
   const [avatarReaction, setAvatarReaction] = useState<{ reaction: "wave" | "dance" | "spin" | "happy" | "surprised" | "confused" | "laughing" | "victory" | null; timestamp: number }>({ reaction: null, timestamp: 0 });
   const [isWalking, setIsWalking] = useState(false);
+  const [walkTransitionMs, setWalkTransitionMs] = useState(0);
   const walkTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
-  const walkPathRef = useRef<Array<{ gx: number; gy: number }>>([]);
-  const walkStepRef = useRef(0);
 
   // Build set of blocked grid cells from placed furniture
   const buildBlockedSet = useCallback(() => {
@@ -426,35 +451,37 @@ export default function RoomPage() {
     return blocked;
   }, [furniture]);
 
-  // Step-by-step walk along a pre-computed path; calls onArrived() when done
+  // Smooth segment-based walk: glides through each straight segment in one CSS transition
   const startWalkPath = useCallback((
     path: Array<{ gx: number; gy: number }>,
     onArrived?: () => void
   ) => {
     if (walkTimerRef.current) clearTimeout(walkTimerRef.current);
     if (path.length === 0) { onArrived?.(); return; }
-    walkPathRef.current = path;
-    walkStepRef.current = 0;
+
+    const segments = simplifyPath([avatarGridPosRef.current, ...path]);
+    if (segments.length === 0) { onArrived?.(); return; }
+
     setIsWalking(true);
     setAvatarMood("focused");
 
-    const step = () => {
-      const idx = walkStepRef.current;
-      const p = walkPathRef.current;
-      if (idx >= p.length) {
+    let segIdx = 0;
+    const moveSegment = () => {
+      if (segIdx >= segments.length) {
         setIsWalking(false);
+        setWalkTransitionMs(0);
         onArrived?.();
         return;
       }
-      const cur = p[idx];
-      const prev = idx > 0 ? p[idx - 1] : avatarGridPosRef.current;
-      setAvatarFacing(calcFacing(prev.gx, prev.gy, cur.gx, cur.gy));
-      avatarGridPosRef.current = cur;
-      setAvatarGridPos(cur);
-      walkStepRef.current = idx + 1;
-      walkTimerRef.current = setTimeout(step, STEP_DURATION);
+      const seg = segments[segIdx++];
+      const ms = seg.length * MS_PER_CELL;
+      setAvatarFacing(seg.facing);
+      setWalkTransitionMs(ms);
+      avatarGridPosRef.current = seg.end;
+      setAvatarGridPos(seg.end);
+      walkTimerRef.current = setTimeout(moveSegment, ms);
     };
-    step();
+    moveSegment();
   }, []);
 
   const [interactionMenu, setInteractionMenu] = useState<{ furnitureIdx: number; screenX: number; screenY: number } | null>(null);
@@ -1116,6 +1143,7 @@ export default function RoomPage() {
                 mood={avatarMood}
                 reaction={avatarReaction}
                 isWalking={isWalking}
+                walkTransitionMs={walkTransitionMs}
                 facing={avatarFacing}
                 activeInteraction={activeInteraction}
                 gender={gender}
