@@ -322,7 +322,7 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
   const eyeCol  = face?.eyeColor  || '#2a2a2a';
   const mouthCol = face?.mouthColor || '#b06060';
   const eyeType   = face?.eyeType   || 'dot';
-  const mouthType = face?.mouthType || 'none';
+  const mouthType = face?.mouthType || 'smile';
   const skinDark = new THREE.Color(skinColor).multiplyScalar(0.82).getStyle();
 
   // ── Eyebrow params per expression ─────────────────────
@@ -1407,33 +1407,26 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
               <coneGeometry args={[0.05, 0.12, 5]} />
               <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
             </mesh>
-            {/* Side hair */}
-            <mesh position={[-0.15, 0.05, 0]} scale={[0.55, 0.7, 0.6]}>
+            {/* Side hair — z=0.03 so they don't protrude behind */}
+            <mesh position={[-0.15, 0.04, 0.03]} scale={[0.50, 0.65, 0.45]}>
               <sphereGeometry args={[0.10, 8, 6]} />
               <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
             </mesh>
-            <mesh position={[0.15, 0.05, 0]} scale={[0.55, 0.7, 0.6]}>
+            <mesh position={[0.15, 0.04, 0.03]} scale={[0.50, 0.65, 0.45]}>
               <sphereGeometry args={[0.10, 8, 6]} />
+              <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
+            </mesh>
+            {/* Back hair dome — covers back of head */}
+            <mesh position={[0, 0.04, -0.06]} scale={[0.88, 0.55, 0.50]}>
+              <sphereGeometry args={[0.18, 10, 8]} />
               <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
             </mesh>
           </>
         )}
 {/* ── ORR ───────────────────────────────────── */}
-<mesh position={[0, 0.01, 0.175]} scale={[0.55, 1.0, 0.5]}>
-  <sphereGeometry args={[0.045, 8, 6]} />
+<mesh position={[0, -0.005, 0.178]} scale={[0.60, 0.75, 0.45]}>
+  <sphereGeometry args={[0.038, 8, 6]} />
   <meshStandardMaterial color={actualSkinColor} roughness={0.6} />
-</mesh>
-<mesh position={[0, -0.022, 0.186]} scale={[0.8, 0.60, 0.55]}>
-  <sphereGeometry args={[0.032, 8, 6]} />
-  <meshStandardMaterial color={actualSkinColor} roughness={0.6} />
-</mesh>
-<mesh position={[-0.028, -0.028, 0.182]} scale={[0.6, 0.55, 0.55]}>
-  <sphereGeometry args={[0.032, 7, 5]} />
-  <meshStandardMaterial color={skinDark} roughness={0.68} />
-</mesh>
-<mesh position={[0.028, -0.028, 0.182]} scale={[0.6, 0.55, 0.55]}>
-  <sphereGeometry args={[0.032, 7, 5]} />
-  <meshStandardMaterial color={skinDark} roughness={0.68} />
 </mesh>
         {/* ── BAL FÜL ───────────────────────────────── */}
 <group position={[-0.178, 0.01, 0]}>
