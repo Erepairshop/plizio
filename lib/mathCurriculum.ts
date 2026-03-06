@@ -1161,7 +1161,8 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
   ],
   4: [
     { key: 'g4_ops', name: 'Numbers & Operations', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'place', name: 'Place Value', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.sequence] },
+      { key: 'place1k', name: 'Numbers up to 1000', color: '#93C5FD', icon: '🔢', generators: [G4.placeValue, G3.sequence] },
+      { key: 'place', name: 'Place Value (up to 10 000)', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.sequence] },
       { key: 'mul', name: 'Multiplication', color: '#34D399', icon: '✖️', generators: [G4.writtenMul, G4.writtenMulB] },
       { key: 'div', name: 'Division', color: '#10B981', icon: '➗', generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit] },
     ]},
@@ -1301,7 +1302,8 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
   ],
   4: [
     { key: 'g4_ops', name: 'Zahlen & Rechnen', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'place', name: 'Stellenwerte', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.sequence] },
+      { key: 'place1k', name: 'Zahlen bis 1000', color: '#93C5FD', icon: '🔢', generators: [G4.placeValue, G3.sequence] },
+      { key: 'place', name: 'Stellenwerte bis 10 000', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.sequence] },
       { key: 'mul', name: 'Schriftlich Multiplizieren', color: '#34D399', icon: '✖️', generators: [G4.writtenMul, G4.writtenMulB] },
       { key: 'div', name: 'Schriftlich Dividieren', color: '#10B981', icon: '➗', generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit] },
     ]},
@@ -1441,7 +1443,8 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
   ],
   4: [
     { key: 'g4_ops', name: 'Számok & Műveletek', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'place', name: 'Helyiérték', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.sequence] },
+      { key: 'place1k', name: 'Számok 1000-ig', color: '#93C5FD', icon: '🔢', generators: [G4.placeValue, G3.sequence] },
+      { key: 'place', name: 'Helyiérték (10 000-ig)', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.sequence] },
       { key: 'mul', name: 'Írásbeli szorzás', color: '#34D399', icon: '✖️', generators: [G4.writtenMul, G4.writtenMulB] },
       { key: 'div', name: 'Írásbeli osztás', color: '#10B981', icon: '➗', generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit] },
     ]},
@@ -1577,7 +1580,8 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
   ],
   4: [
     { key: 'g4_ops', name: 'Numere & Operații', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'place', name: 'Valoarea cifrelor', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.sequence] },
+      { key: 'place1k', name: 'Numere până la 1000', color: '#93C5FD', icon: '🔢', generators: [G4.placeValue, G3.sequence] },
+      { key: 'place', name: 'Valoarea cifrelor (până la 10 000)', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.sequence] },
       { key: 'mul', name: 'Înmulțire în scris', color: '#34D399', icon: '✖️', generators: [G4.writtenMul, G4.writtenMulB] },
       { key: 'div', name: 'Împărțire în scris', color: '#10B981', icon: '➗', generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit] },
     ]},

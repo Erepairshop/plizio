@@ -840,7 +840,7 @@ export default function MathTestPage() {
       'zahlenfolgen': 'sequence',
       'laenge-gewicht-zeit': 'units', 'laenge-und-gewicht-und-zeit': 'units', 'umrechnen': 'units',
       // Grade 4
-      'zahlen-bis-1000': 'place', 'zahlen-bis-10000': 'place', 'stellenwerte': 'place',
+      'zahlen-bis-1000': 'place1k', 'zahlen-bis-10000': 'place', 'stellenwerte': 'place',
       'addition-subtraktion': 'place', 'addition-und-subtraktion': 'place',
       'multiplikation-division': 'mul',
       'schriftlich-multiplizieren': 'mul', 'schriftlich-dividieren': 'div',
