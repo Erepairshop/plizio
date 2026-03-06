@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect, useCallback, useMemo, useRef } from "react";
+import React, { useState, useEffect, useLayoutEffect, useCallback, useMemo, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Link from "next/link";
 import {
@@ -242,7 +242,8 @@ function AvatarInRoom({
   const containerRef = useRef<HTMLDivElement>(null);
 
   // Calculate avatar position based on SVG grid
-  useEffect(() => {
+  // useLayoutEffect runs synchronously after DOM mutations → no pan/zoom lag
+  useLayoutEffect(() => {
     const update = () => {
       const svg = roomContainerRef.current?.querySelector("svg");
       const container = roomContainerRef.current;
@@ -255,18 +256,15 @@ function AvatarInRoom({
       const oX = roomSize.gridH * (TILE_W / 2) + 20;
       const oY = 120;
       const { x: sx, y: sy } = gridToScreen(avatarGridPos.gx, avatarGridPos.gy, oX, oY);
-      // Tile center is the visual ground level in isometric view
-      const syGround = sy;
 
       // SVG coord → DOM coord (relative to container)
       const domX = svgRect.left + (sx / viewBox.width) * svgRect.width - containerRect.left;
-      const domY = svgRect.top + (syGround / viewBox.height) * svgRect.height - containerRect.top;
+      const domY = svgRect.top + (sy / viewBox.height) * svgRect.height - containerRect.top;
 
       setPos({ left: domX, top: domY });
     };
 
     update();
-    // Recalculate on resize
     window.addEventListener("resize", update);
     return () => window.removeEventListener("resize", update);
   }, [avatarGridPos, roomSize, roomContainerRef, zoom, pan]);
@@ -283,7 +281,7 @@ function AvatarInRoom({
         top: pos.top - avatarSize * 0.75,
         width: avatarSize,
         height: avatarSize,
-        transition: "left 0.6s ease-in-out, top 0.6s ease-in-out",
+        transition: isWalking ? "left 0.6s ease-in-out, top 0.6s ease-in-out" : "none",
       }}
     >
       <div className="w-full h-full">
@@ -956,6 +954,7 @@ export default function RoomPage() {
                 editMode={editMode}
                 selectedIndex={selectedPlacedIdx}
                 onFurnitureClick={handleFurnitureClick}
+                onFurnitureLongPress={editMode ? handleStartMove : undefined}
               />
             </motion.div>
 

@@ -1,6 +1,6 @@
 "use client";
 
-import React from "react";
+import React, { useRef } from "react";
 import IsoRoom, { gridToScreen, TILE_W, TILE_H } from "./IsoRoom";
 import { FURNITURE_COMPONENTS } from "./furniture";
 import { getFurnitureDef } from "./FurnitureRegistry";
@@ -27,6 +27,7 @@ interface RoomRendererProps {
   editMode?: boolean;
   selectedIndex?: number | null;
   onFurnitureClick?: (index: number) => void;
+  onFurnitureLongPress?: (index: number) => void;
 }
 
 export default function RoomRenderer({
@@ -40,7 +41,10 @@ export default function RoomRenderer({
   editMode = false,
   selectedIndex = null,
   onFurnitureClick,
+  onFurnitureLongPress,
 }: RoomRendererProps) {
+  const longPressTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const longPressOccurredRef = useRef(false);
   const originX = gridH * (TILE_W / 2) + 20;
   const wallHeight = 120;
   const originY = wallHeight;
@@ -117,14 +121,45 @@ export default function RoomRenderer({
           const isMirrored = rotation === 1 || rotation === 3;
           const rotTransform = isMirrored ? `translate(${2 * x}, 0) scale(-1, 1)` : undefined;
 
+          const idx = item.origIdx;
           return (
             <g
-              key={`f-${item.origIdx}`}
+              key={`f-${idx}`}
               transform={rotTransform}
               style={{ cursor: editMode ? "pointer" : "default" }}
+              onPointerDown={editMode && onFurnitureLongPress ? (e) => {
+                e.stopPropagation();
+                longPressOccurredRef.current = false;
+                longPressTimerRef.current = setTimeout(() => {
+                  longPressOccurredRef.current = true;
+                  onFurnitureLongPress(idx);
+                }, 500);
+              } : undefined}
+              onPointerUp={() => {
+                if (longPressTimerRef.current) {
+                  clearTimeout(longPressTimerRef.current);
+                  longPressTimerRef.current = null;
+                }
+              }}
+              onPointerLeave={() => {
+                if (longPressTimerRef.current) {
+                  clearTimeout(longPressTimerRef.current);
+                  longPressTimerRef.current = null;
+                }
+              }}
+              onPointerCancel={() => {
+                if (longPressTimerRef.current) {
+                  clearTimeout(longPressTimerRef.current);
+                  longPressTimerRef.current = null;
+                }
+              }}
               onClick={editMode && onFurnitureClick ? (e) => {
                 e.stopPropagation();
-                onFurnitureClick(item.origIdx);
+                if (longPressOccurredRef.current) {
+                  longPressOccurredRef.current = false;
+                  return;
+                }
+                onFurnitureClick(idx);
               } : undefined}
             >
               {/* Selection highlight */}
