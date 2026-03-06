@@ -543,10 +543,17 @@ export default function MathTestPage() {
       setSchoolResult(result);
       const grResult = calculateGradeResult(result.earned, result.total);
       setGradeResult(grResult);
+      const pct = result.total > 0 ? Math.round((result.earned / result.total) * 100) : 0;
+      // Show corrected test, then teacher note, then result — same as MCQ flow
       setTimeout(() => {
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-        setGameState("result");
-      }, 800);
+        setTeacherNoteScore(pct);
+        setShowTeacherNote(true);
+        setTimeout(() => {
+          setShowTeacherNote(false);
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+          setGameState("result");
+        }, 7500);
+      }, 1500);
       return;
     }
 
@@ -1803,91 +1810,7 @@ export default function MathTestPage() {
   // ─── RESULT SCREEN ─────────────────────────────
 
   if (gameState === "result" && gradeResult) {
-    // School test result (grade 1-4)
-    if (schoolTasks.length > 0 && schoolResult) {
-      const mark = country?.calculateMark(schoolResult.percentage);
-      const isGood = schoolResult.percentage >= 75;
-
-      return (
-        <>
-          <main className="min-h-screen bg-bg flex items-center justify-center px-4 py-8">
-            <motion.div
-              className="flex flex-col items-center gap-6 max-w-sm w-full text-center"
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-            >
-              {/* Grade/result display */}
-              {mark && (
-                <div className="flex flex-col items-center gap-2">
-                  <span className="text-7xl">{mark.emoji}</span>
-                  <span className="text-6xl font-black" style={{ color: mark.color }}>
-                    {mark.display}
-                  </span>
-                  <span className="text-xl font-bold" style={{ color: mark.color }}>
-                    {mark.label}
-                  </span>
-                </div>
-              )}
-
-              {/* Score */}
-              <div className="text-white/70 text-lg font-mono">
-                {Math.round(schoolResult.earned * 10) / 10} / {schoolResult.total} P. ({schoolResult.percentage}%)
-              </div>
-
-              {/* Block breakdown */}
-              <div className="w-full bg-white/5 rounded-2xl border border-white/10 p-4 text-left">
-                {schoolTasks.map((block) => {
-                  const earned = block.subQuestions.reduce((s, sq) => {
-                    const v = String(schoolAnswers[sq.id] ?? '').trim();
-                    return s + (v === String(sq.answer).trim() ? sq.points : 0);
-                  }, 0);
-                  return (
-                    <div key={block.id} className="flex items-center justify-between py-1.5 border-b border-white/5 last:border-0">
-                      <span className="text-white/60 text-sm">{block.title}</span>
-                      <span className={`text-sm font-bold ${Math.abs(earned - block.totalPoints) < 0.001 ? 'text-green-400' : 'text-white/60'}`}>
-                        {Math.round(earned * 10) / 10}/{block.totalPoints}
-                      </span>
-                    </div>
-                  );
-                })}
-              </div>
-
-              {/* Card earned */}
-              {cardRarity && (
-                <div className="text-white/70 text-sm">
-                  {ui?.card || 'Card'}: <span className="font-bold capitalize" style={{
-                    color: cardRarity === 'legendary' ? '#FFD700' : cardRarity === 'gold' ? '#FFA500' : cardRarity === 'silver' ? '#C0C0C0' : '#CD7F32'
-                  }}>{cardRarity}</span>
-                </div>
-              )}
-
-              {/* Buttons */}
-              <div className="flex gap-3 flex-wrap justify-center">
-                <motion.button
-                  onClick={handlePlayAgain}
-                  className="px-6 py-3 rounded-xl font-bold bg-white/10 text-white border border-white/20 hover:bg-white/20 transition-colors"
-                  whileHover={{ scale: 1.05 }}
-                  whileTap={{ scale: 0.95 }}
-                >
-                  {ui?.retry || 'Retry'}
-                </motion.button>
-                <motion.button
-                  onClick={() => setGameState("grade-select")}
-                  className="px-6 py-3 rounded-xl font-bold bg-white/10 text-white border border-white/20 hover:bg-white/20 transition-colors"
-                  whileHover={{ scale: 1.05 }}
-                  whileTap={{ scale: 0.95 }}
-                >
-                  {ui?.other || 'Other'}
-                </motion.button>
-              </div>
-            </motion.div>
-          </main>
-          <AvatarCompanion mood={isGood ? 'victory' : 'idle'} gender={avatarGender} activeSkin={avatarSkin} activeFace={avatarFace} activeTop={avatarTop} activeBottom={avatarBottom} activeShoe={avatarShoe} activeCape={avatarCape} activeGlasses={avatarGlasses} activeGloves={avatarGloves} activeHat={avatarHat} activeTrail={avatarTrail} />
-        </>
-      );
-    }
-
-    // Klassenarbeit vs Practice display
+    // Klassenarbeit vs Practice display (school tests also use practice display)
     const isKlassenarbeit = testType === "klassenarbeit" && klassenarbeitResult;
 
     return (
