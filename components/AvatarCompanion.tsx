@@ -11,6 +11,9 @@ import type { AvatarGender } from '@/lib/gender';
 
 export interface AvatarCompanionProps {
   mood: 'idle' | 'focused' | 'happy' | 'disappointed' | 'victory' | 'surprised' | 'confused' | 'laughing';
+  // Movement
+  isWalking?: boolean;
+  facing?: 'se' | 'sw' | 'ne' | 'nw';
   // Legacy fallback colors
   skinColor?: string;
   outfitColor?: string;
@@ -589,6 +592,8 @@ function FaceFeatures({
 // ── MAIN CHARACTER ────────────────────────────────────────
 function Character({
   mood,
+  isWalking = false,
+  facing,
   skinColor: legacySkinColor = '#e8c9a0',
   outfitColor: legacyOutfitColor = '#6b8fad',
   jumpTrigger,
@@ -623,6 +628,8 @@ function Character({
   const leftLegRef = useRef<THREE.Mesh>(null);
   const rightLegRef = useRef<THREE.Mesh>(null);
   const moodRef = useRef(mood);
+  const isWalkingRef = useRef(isWalking);
+  const facingRef = useRef(facing);
   const tRef = useRef(0);
   const blinkTimer = useRef(0);
   const blinkNext = useRef(nextBlink());
@@ -654,6 +661,9 @@ function Character({
     moodRef.current = mood;
     tRef.current = 0;
   }, [mood]);
+
+  useEffect(() => { isWalkingRef.current = isWalking; }, [isWalking]);
+  useEffect(() => { facingRef.current = facing; }, [facing]);
 
   useEffect(() => {
     if (jumpTrigger?.reaction) {
@@ -688,7 +698,12 @@ function Character({
     }
 
     groupRef.current.position.y = lerp(groupRef.current.position.y, jumpHeight, 0.15);
-    groupRef.current.rotation.y = lerp(groupRef.current.rotation.y, 0, 0.1);
+    // Facing direction (only when not in a spin/dance reaction)
+    if (jumpTimer.current < 0) {
+      const facingMap: Record<string, number> = { se: 0.52, sw: -0.52, ne: 0.28, nw: -0.28 };
+      const facingTargetY = facingRef.current ? (facingMap[facingRef.current] ?? 0) : 0;
+      groupRef.current.rotation.y = lerp(groupRef.current.rotation.y, facingTargetY, 0.08);
+    }
     groupRef.current.rotation.z = lerp(groupRef.current.rotation.z, 0, 0.1);
     headRef.current.rotation.x = lerp(headRef.current.rotation.x, 0, 0.1);
     headRef.current.rotation.y = lerp(headRef.current.rotation.y, 0, 0.1);
@@ -724,10 +739,29 @@ function Character({
       rightForearmRef.current.rotation.x = lerp(rightForearmRef.current.rotation.x, 0, 0.1);
       rightForearmRef.current.rotation.z = lerp(rightForearmRef.current.rotation.z, 0, 0.1);
     }
-    // Leg rotation reset (when not in reaction)
-    if (jumpTimer.current < 0 && leftLegRef.current && rightLegRef.current) {
+    // Leg rotation reset (when not in reaction and not walking)
+    if (jumpTimer.current < 0 && !isWalkingRef.current && leftLegRef.current && rightLegRef.current) {
       leftLegRef.current.rotation.x = lerp(leftLegRef.current.rotation.x || 0, 0, 0.08);
       rightLegRef.current.rotation.x = lerp(rightLegRef.current.rotation.x || 0, 0, 0.08);
+    }
+
+    // Walk animation — alternating arms and legs
+    if (isWalkingRef.current && jumpTimer.current < 0 &&
+        leftArmRef.current && rightArmRef.current &&
+        leftLegRef.current && rightLegRef.current) {
+      const wf = Math.PI * 3.2; // walk cycle frequency
+      const armSwing = Math.sin(t * wf) * 0.48;
+      const legSwing = Math.sin(t * wf) * 0.38;
+      leftArmRef.current.rotation.x = armSwing;
+      rightArmRef.current.rotation.x = -armSwing;
+      leftArmRef.current.rotation.z = lerp(leftArmRef.current.rotation.z, -0.08, 0.12);
+      rightArmRef.current.rotation.z = lerp(rightArmRef.current.rotation.z, 0.08, 0.12);
+      leftLegRef.current.rotation.x = -legSwing;
+      rightLegRef.current.rotation.x = legSwing;
+      // Subtle body bob
+      if (bodyRef.current) {
+        bodyRef.current.position.y = lerp(bodyRef.current.position.y, Math.abs(Math.sin(t * wf)) * 0.012, 0.2);
+      }
     }
 
     if (leftShoulderRef.current && rightShoulderRef.current) {
@@ -1365,6 +1399,8 @@ function Character({
 
 export default function AvatarCompanion({
   mood = 'idle',
+  isWalking = false,
+  facing,
   skinColor = '#e8c9a0',
   outfitColor = '#6b8fad',
   fixed = true,
@@ -1420,6 +1456,8 @@ export default function AvatarCompanion({
         <directionalLight position={[0, -2, 3]} intensity={0.1} color="#ffe8c8" />
         <Character
           mood={mood}
+          isWalking={isWalking}
+          facing={facing}
           skinColor={skinColor}
           outfitColor={outfitColor}
           jumpTrigger={effectiveJump}
