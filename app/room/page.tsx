@@ -193,7 +193,7 @@ function getDayNightAlpha(): number {
 }
 
 // ─── Walking constants ───
-const MS_PER_CELL = 250; // ms per grid cell (speed of walk)
+const MS_PER_CELL = 450; // ms per grid cell (walking speed)
 
 // ─── Line-of-sight check (avatar treated as circle, radius ~0.35 grid units) ───
 // Grid boundary cells outside [0..gridW-1]×[0..gridH-1] are simply skipped
@@ -469,6 +469,9 @@ export default function RoomPage() {
   const [isWalking, setIsWalking] = useState(false);
   const [walkTransitionMs, setWalkTransitionMs] = useState(0);
   const walkTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  // Click target indicator (debug: shows where click registered on the floor)
+  const [clickIndicator, setClickIndicator] = useState<{ screenX: number; screenY: number; key: number } | null>(null);
+  const clickIndicatorTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   // Build set of blocked grid cells from placed furniture
   const buildBlockedSet = useCallback(() => {
@@ -954,7 +957,9 @@ export default function RoomPage() {
 
   // Handle click on empty floor (walk there)
   const handleFloorClick = (e: React.MouseEvent<HTMLDivElement>) => {
-    if (editMode || interactionMenu) return;
+    if (editMode) return;
+    // Close interaction menu if open, then proceed to walk
+    if (interactionMenu) { setInteractionMenu(null); return; }
 
     const grid = clickToGrid(e);
     if (!grid) return;
@@ -969,6 +974,22 @@ export default function RoomPage() {
     // Clamp float position to valid grid (so path never exits the floor)
     const cgx = Math.max(0, Math.min(roomSize.gridW - 0.01, grid.gx));
     const cgy = Math.max(0, Math.min(roomSize.gridH - 0.01, grid.gy));
+
+    // Show click indicator at the registered grid position (debug feedback)
+    {
+      const svg = (e.currentTarget as HTMLDivElement).querySelector("svg");
+      if (svg) {
+        const rect = svg.getBoundingClientRect();
+        const vb = svg.viewBox.baseVal;
+        const oX = roomSize.gridH * 24 + 20, oY = 120;
+        const { x: sx, y: sy } = gridToScreen(cgx, cgy, oX, oY);
+        const screenX = rect.left + (sx / vb.width) * rect.width;
+        const screenY = rect.top + (sy / vb.height) * rect.height;
+        if (clickIndicatorTimerRef.current) clearTimeout(clickIndicatorTimerRef.current);
+        setClickIndicator({ screenX, screenY, key: Date.now() });
+        clickIndicatorTimerRef.current = setTimeout(() => setClickIndicator(null), 800);
+      }
+    }
 
     const cur = avatarGridPosRef.current;
     const curI = { gx: Math.round(cur.gx), gy: Math.round(cur.gy) };
@@ -1214,6 +1235,21 @@ export default function RoomPage() {
                 activeHat={activeHat}
                 activeTrail={activeTrail}
               />
+            )}
+
+            {/* Click target indicator — shows where the floor click registered */}
+            {clickIndicator && (
+              <div
+                className="fixed z-40 pointer-events-none"
+                style={{
+                  left: clickIndicator.screenX - 6,
+                  top: clickIndicator.screenY - 6,
+                  width: 12,
+                  height: 12,
+                }}
+              >
+                <div className="w-3 h-3 rounded-full bg-yellow-400/80 border border-yellow-200 animate-ping" />
+              </div>
             )}
 
             {/* Interaction menu popup */}
