@@ -10,6 +10,7 @@ import type {
   ZahlenreiheData,
   SachaufgabeData,
   TabelleData,
+  AufgabenData,
 } from '@/lib/schoolTaskGenerator';
 import KopfrechnenTask from './task-types/KopfrechnenTask';
 import SchriftlichTask from './task-types/SchriftlichTask';
@@ -17,6 +18,7 @@ import HianyTask from './task-types/HianyTask';
 import ZahlenreiheTask from './task-types/ZahlenreiheTask';
 import SachaufgabeTask from './task-types/SachaufgabeTask';
 import TabelleTask from './task-types/TabelleTask';
+import AufgabenTask from './task-types/AufgabenTask';
 
 interface Props {
   block: SchoolTaskBlockType;
@@ -81,6 +83,8 @@ export default function SchoolTaskBlock({
         );
       case 'tabelle':
         return <TabelleTask {...commonProps} data={block.data as TabelleData} />;
+      case 'aufgaben':
+        return <AufgabenTask {...commonProps} data={block.data as AufgabenData} />;
       default:
         return null;
     }

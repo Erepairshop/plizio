@@ -3,6 +3,8 @@
  * Generálja a feladatblokkokat osztálynak és országnak megfelelően
  */
 
+import { generateTopicQuestions } from './mathCurriculum';
+
 // ─── TYPES ──────────────────────────────────────────────────────────────────
 
 export type SubQuestion = {
@@ -17,7 +19,14 @@ export type TaskType =
   | 'hiany'
   | 'zahlenreihe'
   | 'sachaufgabe'
-  | 'tabelle';
+  | 'tabelle'
+  | 'aufgaben';
+
+export type AufgabenItem = {
+  question: string;
+  answer: number | string;
+};
+export type AufgabenData = { items: AufgabenItem[] };
 
 export type KopfrechnenItem = {
   expr: string;      // pl. "6 · 7 = ___" vagy "___ · 2 = 120"
@@ -73,7 +82,7 @@ export type SchoolTaskBlock = {
   title: string;
   totalPoints: number;
   subQuestions: SubQuestion[];
-  data: KopfrechnenData | SchriftlichData | HianyData | ZahlenreiheData | SachaufgabeData | TabelleData;
+  data: KopfrechnenData | SchriftlichData | HianyData | ZahlenreiheData | SachaufgabeData | TabelleData | AufgabenData;
 };
 
 export type SchoolTaskAnswers = Record<string, string | number>;
@@ -623,9 +632,96 @@ function generateTabelle(grade: number, cc: string): SchoolTaskBlock {
   };
 }
 
+// ─── AUFGABEN GENERATOR (topic-driven) ───────────────────────────────────────
+
+function generateAufgabenBlock(
+  grade: number,
+  cc: string,
+  topicKey: string,
+  topicName: string,
+  itemCount: number,
+  blockIdx: number
+): SchoolTaskBlock {
+  const pool = generateTopicQuestions(grade, topicKey, cc, itemCount + 5);
+  const items: AufgabenItem[] = [];
+  const subQuestions: SubQuestion[] = [];
+  const seen = new Set<string>();
+
+  for (const q of pool) {
+    if (items.length >= itemCount) break;
+    if (!seen.has(q.question)) {
+      seen.add(q.question);
+      const item: AufgabenItem = { question: q.question, answer: q.correctAnswer };
+      items.push(item);
+      subQuestions.push({
+        id: `auf_${blockIdx}_${items.length - 1}`,
+        answer: q.correctAnswer,
+        points: 1,
+      });
+    }
+  }
+
+  return {
+    id: `block_aufgaben_${blockIdx}`,
+    type: 'aufgaben',
+    title: topicName,
+    totalPoints: subQuestions.reduce((s, q) => s + q.points, 0),
+    subQuestions,
+    data: { items } as AufgabenData,
+  };
+}
+
+// ─── NORMALIZE TO 10 POINTS ──────────────────────────────────────────────────
+
+function normalizeBlocksTo10(blocks: SchoolTaskBlock[]): SchoolTaskBlock[] {
+  const rawTotal = blocks.reduce((s, b) => s + b.totalPoints, 0);
+  if (rawTotal === 0) return blocks;
+  if (rawTotal === 10) return blocks;
+
+  // Proportionally assign integer points to blocks, summing to 10
+  const fracs = blocks.map(b => (b.totalPoints / rawTotal) * 10);
+  const floors = fracs.map(f => Math.max(1, Math.floor(f)));
+  const floorsSum = floors.reduce((a, b) => a + b, 0);
+  let remainder = 10 - floorsSum;
+
+  // Give extra points to blocks with largest fractional parts
+  const byFrac = fracs
+    .map((f, i) => ({ i, frac: f - Math.floor(f) }))
+    .sort((a, b) => b.frac - a.frac);
+
+  const normalized = [...floors];
+  for (const { i } of byFrac) {
+    if (remainder <= 0) break;
+    normalized[i]++;
+    remainder--;
+  }
+
+  // Distribute each block's target points among its subQuestions
+  return blocks.map((block, i) => {
+    const targetTotal = Math.max(1, normalized[i]);
+    const sqCount = block.subQuestions.length;
+    if (sqCount === 0) return { ...block, totalPoints: targetTotal };
+
+    const base = Math.floor(targetTotal / sqCount);
+    const extra = targetTotal - base * sqCount;
+    const newSubQ = block.subQuestions.map((sq, j) => ({
+      ...sq,
+      points: j < extra ? base + 1 : Math.max(1, base),
+    }));
+
+    return { ...block, totalPoints: targetTotal, subQuestions: newSubQ };
+  });
+}
+
 // ─── TITLE HELPERS ────────────────────────────────────────────────────────────
 
 const TITLES: Record<TaskType, Record<string, string>> = {
+  aufgaben: {
+    de: 'Aufgaben.',
+    en: 'Tasks.',
+    hu: 'Feladatok.',
+    ro: 'Exerciții.',
+  },
   kopfrechnen: {
     de: 'Kopfrechnen.',
     en: 'Mental Math.',
@@ -674,27 +770,33 @@ function getTitleFor(type: TaskType, cc: string): string {
 
 // ─── MAIN GENERATOR ──────────────────────────────────────────────────────────
 
-export function generateSchoolTest(grade: number, countryCode: string): SchoolTaskBlock[] {
+export function generateSchoolTest(
+  grade: number,
+  countryCode: string,
+  topicBlocks?: Array<{ key: string; name: string }>
+): SchoolTaskBlock[] {
   const cc = countryCode;
-  const blocks: SchoolTaskBlock[] = [];
 
+  // ─── Topic-driven: aufgaben blocks per topic ──────────────────────────────
+  if (topicBlocks && topicBlocks.length > 0) {
+    // Items per block depends on grade; total will be normalized to 10
+    const itemsPerBlock = grade <= 2 ? 4 : grade <= 4 ? 3 : grade <= 6 ? 3 : 2;
+    const blocks: SchoolTaskBlock[] = topicBlocks.map((t, i) =>
+      generateAufgabenBlock(grade, cc, t.key, t.name, itemsPerBlock, i)
+    );
+    return normalizeBlocksTo10(blocks);
+  }
+
+  // ─── Structured blocks (grade 1-4 default) ────────────────────────────────
+  const blocks: SchoolTaskBlock[] = [];
   blocks.push(generateKopfrechnen(grade, cc));
   blocks.push(generateSchriftlich(grade, cc));
-
-  // Hiány only for grade 3+
-  if (grade >= 3) {
-    blocks.push(generateHiany(grade, cc));
-  }
-
+  if (grade >= 3) blocks.push(generateHiany(grade, cc));
   blocks.push(generateZahlenreihe(grade, cc));
   blocks.push(generateSachaufgabe(grade, cc));
+  if (grade >= 3) blocks.push(generateTabelle(grade, cc));
 
-  // Tabelle only for grade 3+
-  if (grade >= 3) {
-    blocks.push(generateTabelle(grade, cc));
-  }
-
-  return blocks;
+  return normalizeBlocksTo10(blocks);
 }
 
 // ─── GRADING ─────────────────────────────────────────────────────────────────

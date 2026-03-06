@@ -36,7 +36,6 @@ import {
   getDEThemes,
   getROThemes,
   getHUThemes,
-  generateTopicQuestions,
 } from "@/lib/mathCurriculum";
 import {
   generateTest as generateThemeBasedTest,
@@ -772,34 +771,10 @@ export default function MathTestPage() {
     answerTimesRef.current = [];
     lastAnswerTimeRef.current = 0;
 
-    // ─── Grade 1-4: School Test Mode ──────────────────────────────
-    if (selectedGrade <= 4) {
-      // Reset the Klassenarbeit timer with a fresh timestamp to prevent the
-      // existing timer useEffect from reading a stale localStorage value and
-      // immediately triggering auto-grading.
-      const now = Date.now();
-      setKlassenarbeitStartTime(now);
-      setKlassenarbeitTimeLeft(40 * 60);
-      localStorage.setItem("klassenarbeitStartTime", now.toString());
-
-      const tasks = generateSchoolTest(selectedGrade, country?.code || 'DE');
-      setSchoolTasks(tasks);
-      setSchoolAnswers({});
-      setRealisticKlassenarbeit(null);
-      setQuestions([]);
-      setAnswers([]);
-      setAvatarMood('focused');
-      setGameState('playing');
-      setGeneratingTest(false);
-      return;
-    }
-    // Grade 5-8: falls through to existing MCQ flow
-    setSchoolTasks([]);
-
-    // ─── Initialize 40-minute timer ─────────────────────
+    // ─── Initialize timer (all grades) ──────────────────
     const now = Date.now();
     setKlassenarbeitStartTime(now);
-    setKlassenarbeitTimeLeft(40 * 60); // 40 minutes = 2400 seconds
+    setKlassenarbeitTimeLeft(40 * 60);
     localStorage.setItem("klassenarbeitStartTime", now.toString());
 
     // Supabase HU slug → HU_THEMES generator topic key mapping
@@ -888,229 +863,60 @@ export default function MathTestPage() {
       'grundlagen': 'prob', 'anwendungen': 'prob',
     };
 
-    try {
-      // ─── EN / DE / RO: generator-based topic selection ──────────
+    {
+      // ─── Extract topic blocks from selectedSubtopics (all grades) ──────────
+      const topicBlocks: Array<{ key: string; name: string }> = [];
+      const topicKeysSeen = new Set<string>();
+
+      // EN / DE / RO: generator-based topic IDs (format: {lang}_topic_{grade}_{key})
       const generatorTopicIds = selectedSubtopics.filter(id =>
-        id.startsWith('en_topic_') || id.startsWith('de_topic_') ||
-        id.startsWith('ro_topic_')
+        id.startsWith('en_topic_') || id.startsWith('de_topic_') || id.startsWith('ro_topic_')
       );
-      if (generatorTopicIds.length > 0) {
-        const cc = country!.code;
-        const grade = selectedGrade!;
-        const TARGET = 15;
-        const perTopic = Math.ceil(TARGET / generatorTopicIds.length);
-        const seen = new Set<string>();
-        const qs: MathQuestion[] = [];
-        for (const tid of generatorTopicIds) {
-          // Format: {en|de}_topic_{grade}_{topicKey}
-          const topicKey = tid.split('_').slice(3).join('_');
-          const pool = generateTopicQuestions(grade, topicKey, cc, perTopic);
-          for (const q of pool) {
-            if (!seen.has(q.question) && qs.length < TARGET) {
-              seen.add(q.question);
-              qs.push(q);
-            }
+      for (const tid of generatorTopicIds) {
+        const topicKey = tid.split('_').slice(3).join('_');
+        if (!topicKeysSeen.has(topicKey)) {
+          topicKeysSeen.add(topicKey);
+          let name = topicKey;
+          for (const theme of resolvedThemes) {
+            const sub = theme.subtopics.find(s => s.id === tid);
+            if (sub) { name = sub.name; break; }
           }
+          topicBlocks.push({ key: topicKey, name });
         }
-        setQuestions(qs);
-        setAnswers(new Array(qs.length).fill(null));
-        setRealisticKlassenarbeit(null);
-        setAvatarMood("idle");
-        setGameState("playing");
-        setGeneratingTest(false);
-        return;
       }
 
-      // ─── Supabase countries (HU, US, GB, RO): slug mapping → generator ──
-      // DE, HU, US, GB, RO → Supabase témák; AT/CH → generator (nincs Supabase adatuk)
-      const isSupabaseCountry = !['AT','CH'].includes(country?.code ?? '');
-      if (isSupabaseCountry) {
-        const cc = country!.code;
-        const grade = selectedGrade!;
-        const isDE = cc === 'DE';
-        const slugMap = isDE ? DE_SLUG_TO_KEY : HU_SLUG_TO_KEY;
-        const TARGET = 15;
-        const seen = new Set<string>();
-        const qs: MathQuestion[] = [];
-        const topicKeys: string[] = [];
+      // Supabase-based IDs (slug mapping for HU/DE)
+      if (topicBlocks.length === 0) {
+        const slugMap = country!.code === 'DE' ? DE_SLUG_TO_KEY : HU_SLUG_TO_KEY;
         for (const theme of resolvedThemes) {
           for (const sub of theme.subtopics) {
             if (!selectedSubtopics.includes(sub.id)) continue;
             const key = sub.slug ? slugMap[sub.slug] : undefined;
-            if (key && !topicKeys.includes(key)) topicKeys.push(key);
-          }
-        }
-        if (topicKeys.length > 0) {
-          const perTopic = Math.ceil(TARGET / topicKeys.length);
-          for (const key of topicKeys) {
-            const pool = generateTopicQuestions(grade, key, cc, perTopic);
-            for (const q of pool) {
-              if (!seen.has(q.question) && qs.length < TARGET) {
-                seen.add(q.question);
-                qs.push(q);
-              }
-            }
-          }
-        }
-        if (qs.length > 0) {
-          setQuestions(qs);
-          setAnswers(new Array(qs.length).fill(null));
-          setRealisticKlassenarbeit(null);
-          setAvatarMood("idle");
-          setGameState("playing");
-          setGeneratingTest(false);
-          return;
-        }
-        // fallback: összes téma generátor cc-vel
-        const allTopics = (isDE ? getDEThemes(grade) : getHUThemes(grade)).flatMap(t => t.topics);
-        for (let i = 0; i < TARGET * 5 && qs.length < TARGET; i++) {
-          const topic = allTopics[Math.floor(Math.random() * allTopics.length)];
-          const gen = topic.generators[Math.floor(Math.random() * topic.generators.length)];
-          const q = gen(cc);
-          if (!seen.has(q.question)) { seen.add(q.question); qs.push(q); }
-        }
-        if (qs.length > 0) {
-          setQuestions(qs);
-          setAnswers(new Array(qs.length).fill(null));
-          setRealisticKlassenarbeit(null);
-          setAvatarMood("idle");
-          setGameState("playing");
-          setGeneratingTest(false);
-          return;
-        }
-      }
-
-      // ─── Collect task IDs from selected subtopics ─────────────
-      // Works with both JSON themes (slug-based) and Supabase themes (UUID-based)
-      const allTaskIds: string[] = [];
-      const taskFilesNeeded = new Set<string>();
-
-      // Build a slug→subtopic lookup from JSON curriculum for fallback matching
-      const gradeCurriculum = CURRICULA[selectedGrade!];
-      const jsonSubtopicMap = new Map<string, { taskFile: string; taskIds: string[] }>();
-      if (gradeCurriculum) {
-        for (const theme of gradeCurriculum.themes) {
-          for (const sub of theme.subtopics) {
-            jsonSubtopicMap.set(sub.id, { taskFile: sub.taskFile, taskIds: sub.taskIds });
-          }
-        }
-      }
-
-      // Iterate through resolvedThemes to find selected subtopics
-      for (const theme of resolvedThemes) {
-        for (const subtopic of theme.subtopics) {
-          if (!selectedSubtopics.includes(subtopic.id)) continue;
-
-          // Case 1: JSON theme (has taskFile + taskIds)
-          if (subtopic.taskFile && subtopic.taskIds) {
-            allTaskIds.push(...subtopic.taskIds);
-            taskFilesNeeded.add(subtopic.taskFile);
-          }
-          // Case 2: Supabase theme (UUID-based) → match by slug to JSON
-          else if (subtopic.slug) {
-            const jsonMatch = jsonSubtopicMap.get(subtopic.slug);
-            if (jsonMatch) {
-              allTaskIds.push(...jsonMatch.taskIds);
-              taskFilesNeeded.add(jsonMatch.taskFile);
+            if (key && !topicKeysSeen.has(key)) {
+              topicKeysSeen.add(key);
+              topicBlocks.push({ key, name: sub.name });
             }
           }
         }
       }
 
-      // If no tasks found via themes, try all JSON subtopics as last resort
-      if (allTaskIds.length === 0 && gradeCurriculum) {
-        for (const theme of gradeCurriculum.themes) {
-          for (const sub of theme.subtopics) {
-            allTaskIds.push(...sub.taskIds);
-            taskFilesNeeded.add(sub.taskFile);
-          }
-        }
-      }
-
-      if (allTaskIds.length === 0) {
-        throw new Error("No tasks found for selected subtopics");
-      }
-
-      console.log(`[Multi-Theme Test] Collected ${allTaskIds.length} tasks from ${selectedSubtopics.length} subtopics`);
-
-      // Load all relevant task files
-      const allTasks: any[] = [];
-
-      // Load and parse JSON files
-      for (const fileName of taskFilesNeeded) {
-        try {
-          const module = await import(`@/data/mathematics/class-${selectedGrade}/${fileName.replace('.json', '')}`);
-          const fileData = module.default;
-
-          if (fileData.tasks) {
-            const relevantTasks = fileData.tasks.filter((task: any) => allTaskIds.includes(task.id));
-            allTasks.push(...relevantTasks);
-          }
-        } catch (err) {
-          console.error(`Failed to load ${fileName}:`, err);
-        }
-      }
-
-      if (allTasks.length === 0) {
-        throw new Error("Failed to load tasks");
-      }
-
-      // Shuffle and select 15 questions with balanced difficulty
-      const easyTasks = allTasks.filter(t => t.difficulty === 'easy');
-      const mediumTasks = allTasks.filter(t => t.difficulty === 'medium');
-      const hardTasks = allTasks.filter(t => t.difficulty === 'hard');
-
-      const shuffleArray = <T,>(arr: T[]): T[] => {
-        const shuffled = [...arr];
-        for (let i = shuffled.length - 1; i > 0; i--) {
-          const j = Math.floor(Math.random() * (i + 1));
-          [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-        }
-        return shuffled;
-      };
-
-      const selectedTasks = [
-        ...shuffleArray(easyTasks).slice(0, 5),      // 5 easy
-        ...shuffleArray(mediumTasks).slice(0, 7),    // 7 medium
-        ...shuffleArray(hardTasks).slice(0, 3),      // 3 hard
-      ];
-
-      const testTasks = shuffleArray(selectedTasks);
-
-      // Convert to MathQuestion format
-      const mathQuestions: MathQuestion[] = testTasks.map((task) => {
-        const hasStringOpts = task.options.some((opt: any) => typeof opt === 'string' && isNaN(Number(opt)));
-        const convertedOptions = hasStringOpts
-          ? task.options
-          : task.options.map((opt: any) => typeof opt === 'number' ? opt : parseInt(opt as string, 10));
-        return {
-        question: task.question,
-        correctAnswer: convertedOptions[task.correct],
-        options: convertedOptions,
-        topic: task.id,
-        isWordProblem: false,
-        hasStringOptions: hasStringOpts,
-        };
-      });
-
-      console.log(`[Multi-Theme Test] Generated ${mathQuestions.length} balanced questions`);
-
-      setQuestions(mathQuestions);
-      setAnswers(new Array(mathQuestions.length).fill(null));
+      // ─── Generate school test (all grades) ────────────────────────────────
+      const tasks = generateSchoolTest(
+        selectedGrade!,
+        country?.code || 'DE',
+        topicBlocks.length > 0 ? topicBlocks : undefined
+      );
+      setSchoolTasks(tasks);
+      setSchoolAnswers({});
       setRealisticKlassenarbeit(null);
-      setAvatarMood("idle");
-
-      // Start test directly without countdown
-      lastAnswerTimeRef.current = 0;
-      // Scroll to top immediately
-      window.scrollTo(0, 0);
-      setTimeout(() => setGameState("playing"), 50);
-    } catch (err) {
-      console.error("[Multi-Theme Test] Failed:", err);
-      alert("Error generating test. Please try again.");
-    } finally {
+      setQuestions([]);
+      setAnswers([]);
+      setAvatarMood('focused');
+      setGameState('playing');
       setGeneratingTest(false);
+      return;
     }
+
   };
 
   const handleThemeSelect = async (theme: string) => {
