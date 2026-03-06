@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function Aquarium({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={0} rx={28} ry={8} fill="rgba(0,0,0,0.10)" />
+      <ellipse cx={0} cy={-4} rx={28} ry={8} fill="rgba(0,0,0,0.10)" />
       <path d="M 22,-4 L 22,-10 L 0,2 L 0,8 Z" fill="#4A4A5A" />
       <path d="M -22,-4 L -22,-10 L 0,2 L 0,8 Z" fill="#5A5A6A" />
       <path d="M -22,-10 L -22,-36 L 0,-24 L 0,2 Z" fill="rgba(60,160,200,0.35)" />

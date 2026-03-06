@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function Fridge({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={0} rx={16} ry={6} fill="rgba(0,0,0,0.12)" />
+      <ellipse cx={0} cy={-4} rx={16} ry={6} fill="rgba(0,0,0,0.12)" />
       <path d="M 12,-6 L 12,-54 L 0,-48 L 0,0 Z" fill="#C0C8D0" />
       <path d="M -12,-6 L -12,-54 L 0,-48 L 0,0 Z" fill="#D8E0E8" />
       <path d="M -12,-54 L 0,-60 L 12,-54 L 0,-48 Z" fill="#E0E8F0" />

@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function Nightstand({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={0} rx={16} ry={6} fill="rgba(0,0,0,0.12)" />
+      <ellipse cx={0} cy={-4} rx={16} ry={6} fill="rgba(0,0,0,0.12)" />
       <path d="M 0,0 L 12,-6 L 12,-22 L 0,-16 Z" fill="#5A3E28" />
       <path d="M 0,0 L -12,-6 L -12,-22 L 0,-16 Z" fill="#7B5E42" />
       <path d="M 0,-28 L 12,-22 L 0,-16 L -12,-22 Z" fill="#8B6E52" />

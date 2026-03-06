@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function Desk({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={0} rx={30} ry={8} fill="rgba(0,0,0,0.10)" />
+      <ellipse cx={0} cy={-4} rx={30} ry={8} fill="rgba(0,0,0,0.10)" />
       <line x1={-20} y1={-6} x2={-20} y2={2} stroke="#6B5040" strokeWidth={2} />
       <line x1={20} y1={-6} x2={20} y2={2} stroke="#5B4030" strokeWidth={2} />
       <line x1={0} y1={6} x2={0} y2={-2} stroke="#5B4030" strokeWidth={2} />

@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function TvStand({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={0} rx={30} ry={8} fill="rgba(0,0,0,0.12)" />
+      <ellipse cx={0} cy={-4} rx={30} ry={8} fill="rgba(0,0,0,0.12)" />
       <path d="M 24,-4 L 24,-14 L 0,-2 L 0,8 Z" fill="#3A3A4A" />
       <path d="M -24,-4 L -24,-14 L 0,-2 L 0,8 Z" fill="#4A4A5A" />
       <path d="M -24,-14 L 0,-26 L 24,-14 L 0,-2 Z" fill="#5A5A6A" />

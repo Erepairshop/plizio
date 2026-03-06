@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function Bookshelf({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={0} rx={18} ry={7} fill="rgba(0,0,0,0.12)" />
+      <ellipse cx={0} cy={-4} rx={18} ry={7} fill="rgba(0,0,0,0.12)" />
       <path d="M 12,-6 L 12,-52 L 0,-46 L 0,0 Z" fill="#5A4030" />
       <path d="M -12,-6 L -12,-52 L 0,-46 L 0,0 Z" fill="#7A6040" />
       <path d="M -12,-52 L 0,-58 L 12,-52 L 0,-46 Z" fill="#8A7050" />

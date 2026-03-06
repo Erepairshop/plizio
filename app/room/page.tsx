@@ -310,10 +310,10 @@ function AvatarInRoom({
           <div className="w-1 h-1 rounded-full bg-white/30 animate-pulse" />
         </div>
       )}
-      {/* Shadow */}
+      {/* Shadow — right at feet level */}
       <div
-        className="absolute -bottom-2 left-1/2 -translate-x-1/2 rounded-full bg-black/20"
-        style={{ width: avatarSize * 0.5, height: avatarSize * 0.1 }}
+        className="absolute bottom-0 left-1/2 -translate-x-1/2 rounded-full bg-black/25"
+        style={{ width: avatarSize * 0.5, height: avatarSize * 0.08 }}
       />
     </div>
   );

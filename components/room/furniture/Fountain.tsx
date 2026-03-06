@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function Fountain({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={0} rx={32} ry={12} fill="rgba(0,0,0,0.10)" />
+      <ellipse cx={0} cy={-4} rx={32} ry={12} fill="rgba(0,0,0,0.10)" />
       <path d="M 0,4 L 28,-10 L 28,-4 L 0,10 Z" fill="#8A8A90" />
       <path d="M 0,4 L -28,-10 L -28,-4 L 0,10 Z" fill="#A0A0A8" />
       <path d="M -28,-10 L 0,-24 L 28,-10 L 0,4 Z" fill="rgba(80,160,200,0.3)" />

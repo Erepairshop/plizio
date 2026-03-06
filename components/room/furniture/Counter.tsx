@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function Counter({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={0} rx={28} ry={7} fill="rgba(0,0,0,0.10)" />
+      <ellipse cx={0} cy={-4} rx={28} ry={7} fill="rgba(0,0,0,0.10)" />
       <path d="M 24,-4 L 24,-22 L 0,-10 L 0,8 Z" fill="#D0D0D8" />
       <path d="M -24,-4 L -24,-22 L 0,-10 L 0,8 Z" fill="#E0E0E8" />
       <path d="M -24,-22 L 0,-34 L 24,-22 L 0,-10 Z" fill="#E8E0D8" />

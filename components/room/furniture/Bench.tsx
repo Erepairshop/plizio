@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function Bench({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={0} rx={28} ry={7} fill="rgba(0,0,0,0.10)" />
+      <ellipse cx={0} cy={-4} rx={28} ry={7} fill="rgba(0,0,0,0.10)" />
       <line x1={-18} y1={-2} x2={-18} y2={4} stroke="#5A5A5A" strokeWidth={2} />
       <line x1={18} y1={-2} x2={18} y2={4} stroke="#4A4A4A" strokeWidth={2} />
       <line x1={-2} y1={-8} x2={-2} y2={-2} stroke="#5A5A5A" strokeWidth={2} />

@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function Toilet({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={0} rx={12} ry={5} fill="rgba(0,0,0,0.10)" />
+      <ellipse cx={0} cy={-4} rx={12} ry={5} fill="rgba(0,0,0,0.10)" />
       <path d="M -8,-16 L -8,-28 L 0,-32 L 0,-20 Z" fill="#D8D8E0" />
       <path d="M 8,-16 L 8,-28 L 0,-32 L 0,-20 Z" fill="#C8C8D0" />
       <path d="M -8,-28 L 0,-32 L 8,-28 L 0,-24 Z" fill="#E0E0E8" />

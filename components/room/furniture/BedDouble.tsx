@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function BedDouble({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={10} rx={42} ry={14} fill="rgba(0,0,0,0.12)" />
+      <ellipse cx={0} cy={6} rx={42} ry={14} fill="rgba(0,0,0,0.12)" />
       <path d="M 0,4 L 32,-12 L 32,-4 L 0,12 Z" fill="#5A3E28" />
       <path d="M 0,4 L -32,-12 L -32,-4 L 0,12 Z" fill="#7B5E42" />
       <path d="M 0,-22 L 32,-38 L 0,-54 L -32,-38 Z" fill="#9999DD" />

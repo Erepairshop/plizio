@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function Fireplace({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={0} rx={30} ry={8} fill="rgba(0,0,0,0.12)" />
+      <ellipse cx={0} cy={-4} rx={30} ry={8} fill="rgba(0,0,0,0.12)" />
       <path d="M 24,-6 L 24,-42 L 0,-30 L 0,6 Z" fill="#7A3A2A" />
       <path d="M -24,-6 L -24,-42 L 0,-30 L 0,6 Z" fill="#9A5A3A" />
       <path d="M -24,-42 L 0,-54 L 24,-42 L 0,-30 Z" fill="#AA6A4A" />

@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function Bathtub({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={0} rx={30} ry={8} fill="rgba(0,0,0,0.10)" />
+      <ellipse cx={0} cy={-4} rx={30} ry={8} fill="rgba(0,0,0,0.10)" />
       <path d="M 24,-4 L 24,-18 L 0,-6 L 0,8 Z" fill="#D8D8E0" />
       <path d="M -24,-4 L -24,-18 L 0,-6 L 0,8 Z" fill="#E8E8F0" />
       <path d="M -24,-18 L 0,-30 L 24,-18 L 0,-6 Z" fill="#F0F0F8" />
