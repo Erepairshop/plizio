@@ -2,20 +2,11 @@
 
 import React from "react";
 import IsoRoom, { gridToScreen, TILE_W, TILE_H } from "./IsoRoom";
-import { FURNITURE_COMPONENTS } from "./FurnitureSVG";
+import { FURNITURE_COMPONENTS } from "./furniture";
+import { getFurnitureDef } from "./FurnitureRegistry";
 
 /*  ─── Szoba renderelő ───
- *  Összefogja: IsoRoom (shell) + bútorok (SVG) + fények
- *
- *  Használat:
- *  <RoomRenderer
- *    roomType="bedroom"
- *    gridW={6} gridH={6}
- *    furniture={[
- *      { furnitureId: "bed_basic", gridX: 1, gridY: 2 },
- *      { furnitureId: "lamp_floor", gridX: 0, gridY: 0 },
- *    ]}
- *  />
+ *  Összefogja: IsoRoom (shell) + bútorok (SVG) + fények + rotation + animations
  */
 
 export interface PlacedFurniture {
@@ -30,12 +21,12 @@ interface RoomRendererProps {
   gridW?: number;
   gridH?: number;
   furniture: PlacedFurniture[];
-  /** Nap/éjszaka ablak fény (0-1) */
   windowAlpha?: number;
-  /** Grid vonalak mutatása (szerkesztő módhoz) */
   showGrid?: boolean;
-  /** Kiemelt cella (drag-drop) */
   highlightCell?: { x: number; y: number; valid: boolean } | null;
+  editMode?: boolean;
+  selectedIndex?: number | null;
+  onFurnitureClick?: (index: number) => void;
 }
 
 export default function RoomRenderer({
@@ -46,9 +37,10 @@ export default function RoomRenderer({
   windowAlpha,
   showGrid = false,
   highlightCell = null,
+  editMode = false,
+  selectedIndex = null,
+  onFurnitureClick,
 }: RoomRendererProps) {
-  // Origin pont — padló bal-felső sarka az SVG-ben
-  // Ugyanaz a számítás mint az IsoRoom-ban
   const originX = gridH * (TILE_W / 2) + 20;
   const wallHeight = 120;
   const originY = wallHeight;
@@ -60,7 +52,7 @@ export default function RoomRenderer({
       gridH={gridH}
       windowAlpha={windowAlpha}
     >
-      {/* Grid overlay (szerkesztő módhoz) */}
+      {/* Grid overlay */}
       {showGrid &&
         Array.from({ length: gridW * gridH }).map((_, i) => {
           const gx = i % gridW;
@@ -80,7 +72,7 @@ export default function RoomRenderer({
           );
         })}
 
-      {/* Kiemelt cella (drag-drop vizuális visszajelzés) */}
+      {/* Highlight cell */}
       {highlightCell && (() => {
         const { x, y } = gridToScreen(
           highlightCell.x,
@@ -100,21 +92,89 @@ export default function RoomRenderer({
         );
       })()}
 
-      {/* Bútorok — rendezve Y pozíció szerint (hátsók előbb, "painter's algorithm") */}
-      {[...furniture]
+      {/* Furniture — sorted by depth (painter's algorithm) */}
+      {furniture
+        .map((item, origIdx) => ({ ...item, origIdx }))
         .sort((a, b) => (a.gridX + a.gridY) - (b.gridX + b.gridY))
-        .map((item, i) => {
+        .map((item) => {
           const Component = FURNITURE_COMPONENTS[item.furnitureId];
           if (!Component) return null;
 
-          const { x, y } = gridToScreen(
+          const fDef = getFurnitureDef(item.furnitureId);
+          const { x, y: yCenter } = gridToScreen(
             item.gridX,
             item.gridY,
             originX,
             originY
           );
+          // Place furniture at tile center (the visual ground level in iso view)
+          const y = yCenter;
 
-          return <Component key={`f-${i}`} x={x} y={y} />;
+          const isSelected = editMode && selectedIndex === item.origIdx;
+          const rotation = item.rotation || 0;
+          // Izometrikus forgatás: horizontális tükrözés (scaleX -1) a bútor talppontja körül
+          // rot 0: eredeti, rot 1: tükrözve X-ben, rot 2: eredeti, rot 3: tükrözve
+          const isMirrored = rotation === 1 || rotation === 3;
+          const rotTransform = isMirrored ? `translate(${2 * x}, 0) scale(-1, 1)` : undefined;
+
+          return (
+            <g
+              key={`f-${item.origIdx}`}
+              transform={rotTransform}
+              style={{ cursor: editMode ? "pointer" : "default" }}
+              onClick={editMode && onFurnitureClick ? (e) => {
+                e.stopPropagation();
+                onFurnitureClick(item.origIdx);
+              } : undefined}
+            >
+              {/* Selection highlight */}
+              {isSelected && fDef && (() => {
+                const r = TILE_W / 2 * Math.max(fDef.gridW, fDef.gridH);
+                return (
+                  <ellipse
+                    cx={x}
+                    cy={y}
+                    rx={r}
+                    ry={r * 0.5}
+                    fill="rgba(0,212,255,0.08)"
+                    stroke="rgba(0,212,255,0.4)"
+                    strokeWidth={1}
+                    strokeDasharray="3 3"
+                  >
+                    <animate attributeName="stroke-opacity" values="0.4;0.8;0.4" dur="1.5s" repeatCount="indefinite" />
+                  </ellipse>
+                );
+              })()}
+
+              <Component x={x} y={y} />
+
+              {/* Idle animations */}
+              {fDef?.hasAnimation && fDef.animationType === "glow" && (
+                <circle cx={x} cy={y - 30} r={20} fill="rgba(255,220,100,0.04)">
+                  <animate attributeName="r" values="18;22;18" dur="3s" repeatCount="indefinite" />
+                  <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite" />
+                </circle>
+              )}
+              {fDef?.hasAnimation && fDef.animationType === "flicker" && (
+                <circle cx={x} cy={y - 10} r={15} fill="rgba(255,120,40,0.06)">
+                  <animate attributeName="opacity" values="0.3;0.8;0.5;0.9;0.3" dur="2s" repeatCount="indefinite" />
+                  <animate attributeName="r" values="14;17;13;16;14" dur="2s" repeatCount="indefinite" />
+                </circle>
+              )}
+              {fDef?.hasAnimation && fDef.animationType === "bubble" && (
+                <>
+                  <circle cx={x - 3} cy={y - 16} r={1} fill="rgba(100,180,220,0.3)">
+                    <animate attributeName="cy" values={`${y - 16};${y - 28};${y - 16}`} dur="4s" repeatCount="indefinite" />
+                    <animate attributeName="opacity" values="0.3;0;0.3" dur="4s" repeatCount="indefinite" />
+                  </circle>
+                  <circle cx={x + 4} cy={y - 20} r={0.8} fill="rgba(100,180,220,0.25)">
+                    <animate attributeName="cy" values={`${y - 20};${y - 32};${y - 20}`} dur="5s" repeatCount="indefinite" />
+                    <animate attributeName="opacity" values="0.25;0;0.25" dur="5s" repeatCount="indefinite" />
+                  </circle>
+                </>
+              )}
+            </g>
+          );
         })}
     </IsoRoom>
   );

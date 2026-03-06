@@ -654,6 +654,21 @@ export default function Home() {
           transition={{ delay: 0.9, type: "spring" }}
         >
           <motion.button
+            onClick={() => router.push("/room")}
+            className="bg-card border border-neon-blue/20 p-3.5 rounded-full"
+            style={{ boxShadow: "0 0 20px rgba(0,212,255,0.15)" }}
+            whileHover={{ scale: 1.15, rotate: -10 }}
+            whileTap={{ scale: 0.9 }}
+          >
+            <HomeIcon size={24} className="text-neon-blue" style={{ filter: "drop-shadow(0 0 6px rgba(0,212,255,0.5))" }} />
+          </motion.button>
+        </motion.div>
+        <motion.div
+          initial={{ opacity: 0, scale: 0 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ delay: 1, type: "spring" }}
+        >
+          <motion.button
             onClick={() => router.push("/shop")}
             className="bg-card border border-[#E040FB]/20 p-3.5 rounded-full"
             style={{ boxShadow: "0 0 20px rgba(224,64,251,0.2)" }}
@@ -666,7 +681,7 @@ export default function Home() {
         <motion.div
           initial={{ opacity: 0, scale: 0 }}
           animate={{ opacity: 1, scale: 1 }}
-          transition={{ delay: 1, type: "spring" }}
+          transition={{ delay: 1.1, type: "spring" }}
         >
           <motion.button
             onClick={() => router.push("/collection")}

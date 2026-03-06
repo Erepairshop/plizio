@@ -32,6 +32,7 @@ A repo tisztán van szervezve:
 | `/reflexgrid` | `app/reflexgrid/page.tsx` | Reflex Grid |
 | `/racetrack` | `app/racetrack/page.tsx` | Versenyút |
 | `/citydrive` | `app/citydrive/page.tsx` | Városvezetés |
+| `/room` | `app/room/page.tsx` | Izometrikus szoba (bútorok, avatar) |
 
 ### Lib fájlok (`lib/`)
 | Fájl | Fő funkciók | localStorage kulcsok |
@@ -151,6 +152,7 @@ interface GloveDef { id; name; icon; price; color }
 | `/numberrush` expedition header | `w-20 h-20` | jobb oldalon, `opacity` animáció (NEM scale!) |
 | `/numberrush` levelComplete | `w-60 h-60` | középen, victory mood |
 | `/numberrush` levelFailed | `w-52 h-52` | középen, disappointed mood |
+| `/room` avatar | `60×60px` (baseAvatarSize=60, scaled by zoom) | DOM overlay az SVG fölött, NEM SVG-ben! |
 
 **⚠️ KRITIKUS:** `fixed=false` avatar konténerén SOHA ne használj `initial={{ scale: 0 }}` vagy `initial={{ width: 0 }}`!
 → A Three.js canvas 0px mérettel inicializálódik és üres marad.
@@ -160,7 +162,20 @@ interface GloveDef { id; name; icon; price; color }
 ```ts
 camera={{ position: [0, 0.15, 2.6], fov: 44 }}
 gl={{ antialias: false, powerPreference: 'low-power', alpha: true, stencil: false }}
-// Avatar group: position={[0, -0.08, 0]} scale={0.88}
+// Avatar group: position={[0, -0.05, 0]} scale={0.78}
+```
+
+**Avatar test arányok (2026-03-06 emberibb redesign):**
+```
+Fej:     sphereGeometry args={[0.18, 16, 12]}  position y=0.58
+Nyak:    cylinderGeometry args={[0.07, 0.085, 0.16, 8]}  position y=0.40
+Test:    boxGeometry args={[0.40/0.43, 0.58/0.60, 0.28]}  (gender alapján)
+Váll:    sphereGeometry args={[0.085]}  position y=0.26
+Felső kar: cylinderGeometry args={[0.045, 0.052, 0.24, 6]}
+Előkar:  cylinderGeometry args={[0.04, 0.045, 0.18, 6]}
+Kéz:     sphereGeometry args={[0.058, 8, 6]}
+Láb:     cylinderGeometry args={[0.072, 0.082, 0.52, 6]}  position y=-0.52
+Cipő:    boxGeometry args={[0.12, 0.065, 0.20]}  position y=-0.79
 ```
 
 **Mood értékek:** `'idle' | 'focused' | 'happy' | 'disappointed' | 'victory' | 'surprised' | 'confused' | 'laughing' | 'wave' | 'dance' | 'spin'`
@@ -168,10 +183,12 @@ gl={{ antialias: false, powerPreference: 'low-power', alpha: true, stencil: fals
 - többi = 0.6s
 
 **Avatar kar anatómia:**
-- Felső kar (`leftArmRef/rightArmRef`): `position={[±0.33, 0.16, 0]}`
+- Váll gömb: `position={[±0.33, 0.26, 0]}` (fentebb mint régen, 0.20→0.26)
+- Felső kar (`leftArmRef/rightArmRef`): `position={[±0.33, 0.26, 0]}`
 - Forearm csoport (`leftForearmRef/rightForearmRef`): könyök pivot `position={[0, -0.22, 0]}` a karon belül
 - Kéz gömb: `position={[0, -0.18, 0]}` a forearm csoporton belül
 - Animációnál az előkarnál `rotation.z` → könyökhajlítás hatás
+- Láb pozíció animációkban: `y=-0.52` (régen: -0.44)
 
 **FaceFeatures — száj/szem geometriák:**
 - `smile`: `TorusGeometry` ∪ (rotation.z=Math.PI) → mosolygó ív
@@ -190,7 +207,7 @@ gl={{ antialias: false, powerPreference: 'low-power', alpha: true, stencil: fals
 - `hasRealSkin = activeSkin && activeSkin.id !== 'default'`
 - Ha nincs real skin: test=#e8c9a0 beige, fej=#e8c9a0, ruhák=#6b8fad/#1e3a5f legacy
 
-**Nyak mesh:** `position={[0, 0.34, 0]}`, `CylinderGeometry args={[0.1, 0.115, 0.2, 8]}`
+**Nyak mesh:** `position={[0, 0.40, 0]}`, `CylinderGeometry args={[0.07, 0.085, 0.16, 8]}`
 
 **Szemhéj animáció (pislogás):**
 - `thetaStart=PI/2, thetaLength=PI/2` → alső félgömb → scale.y növelésekor LEFELÉ növekszik ✅
@@ -554,6 +571,11 @@ Hozzáadott kérdéstípusok:
      - `downloadFromSupabase()`: ha `dirty=false` → szerver értékét veszi direktben (nem Math.max!); ha `dirty=true` → megtartja a lokálist
      - `uploadToSupabase()`: sikeres feltöltés után törli: `localStorage.removeItem("plizio_stars_dirty")`
    - **Általános szabály:** Ha egy érték CSÖKKENHET (vásárlás, elköltés), `Math.max` helyett dirty flag kell. Ha csak nőhet (statisztikák), `Math.max` helyes.
+8. **Bútor árnyék `cy={0}` doboz bútoroknál** — Az izometrikus 3D forma alja (y=0 front vertex) és a shadow között rés keletkezik → LEBEGÉS illúzió. Doboz bútoroknál `cy={-4}` kell! Lapos talpúaknál (lámpa, növény) `cy={0}` helyes.
+9. **Bútor `+ TILE_H/2` offset RoomRenderer-ben** — NE használj TILE_H/2 offsetet a bútor y pozíciónál! A tile KÖZEPE a helyes vizuális padlószint. `y = gridToScreen().y` — semmi offset!
+10. **Bútor forgatás SVG `rotate()`-tel** — NE használj SVG `rotate(90°)` bútorforgatáshoz! Az fejjel lefelé fordítja 2D-ben. Helyette: `scale(-1, 1)` tükrözés (izometrikus forgatás illúzió).
+11. **Avatar árnyék div a szobában** — NE adj nagy sötét árnyék ellipszist a szoba avatar alá! A DOM shadow a Canvas-tól távol van és LEBEGÉSNEK tűnik. Az avatárnak NINCS szüksége külön árnyékra a szobában.
+12. **`sed` batch bútor shadow fix** — Ha sed-del módosítasz `cy={0}`-t, vigyázz a COLLATERAL DAMAGE-re! Nem-shadow ellipszisek is lehetnek cy={0}-val (glow effektek: Fireplace, TvStand, Aquarium). Mindig ellenőrizd: `grep -n 'cy={-4}' *.tsx`
 
 **Kilépési gomb — játék közbeni státusz:**
 | Játék | Van kilépés játék közben? | Hova visz? |
@@ -1386,7 +1408,7 @@ interface DailyTask {
 
 ## PLIZIO ROOM — Izometrikus szoba rendszer
 
-> Állapot: fejlesztés alatt (2026-03-05)
+> Állapot: **MŰKÖDIK** (2026-03-06) — alap szoba + bútorok + avatar + zoom kész
 > Stílus: **Izometrikus SVG pixel-art** — kézzel rajzolt, meleg színek, konzisztens stílus
 > Mottó: "Cozy Pixel meets Modern Neon"
 
@@ -1405,22 +1427,26 @@ A játékos **szobákat** rendezhet be bútorokkal. Minden szoba egy **izometrik
 ### Route és fájlok
 
 ```
-app/room/page.tsx              ← Szoba nézet (fő UI)
+app/room/page.tsx              ← Szoba nézet (fő UI, avatar DOM overlay, zoom/pan, edit mode)
 app/room/layout.tsx            ← SEO metadata
 components/room/               ← Szoba komponensek mappa
-  IsoRoom.tsx                  ← Szoba shell (padló + falak + ablak)
-  IsoGrid.tsx                  ← Izometrikus rács logika + drag-drop
-  FurnitureRegistry.tsx        ← Bútor definíciók + SVG registry
-  FurnitureSVG.tsx             ← Egyedi bútor SVG komponensek (PÉLDÁK)
-  RoomRenderer.tsx             ← Teljes szoba renderelő (shell + bútorok + fények)
-  DayNightCycle.tsx            ← Ablak fény ciklus (valós idő)
-lib/room.ts                    ← Szoba adatkezelés (localStorage)
+  IsoRoom.tsx                  ← Szoba shell (padló + falak + ablak) — TILE_W=48, TILE_H=24, wallHeight=120
+  FurnitureRegistry.tsx        ← Bútor definíciók (FURNITURE_DEFS tömb) + getFurnitureDef()
+  RoomRenderer.tsx             ← Bútor renderelő — painter's algorithm, forgatás, pozícionálás
+  furniture/                   ← 25 bútor SVG komponens (Nightstand.tsx, LampFloor.tsx, stb.)
+  furniture/types.ts           ← FurnitureProps interface: { x: number; y: number }
+  furniture/index.ts           ← FURNITURE_COMPONENTS export map
+lib/room.ts                    ← Szoba adatkezelés (localStorage): PlacedFurniture, getOwnedRooms, stb.
+lib/roomInteractions.ts        ← Bútor interakciók (tap)
 ```
 
 ### Izometrikus koordináta rendszer
 
 ```
-SVG viewBox: 0 0 400 300
+SVG viewBox: dinamikus (totalW × totalH)
+  totalW = (gridW + gridH) * (TILE_W / 2) + 40
+  totalH = wallHeight + (gridW + gridH) * (TILE_H / 2) + 20
+  wallHeight = 120
 
 Izometrikus tengelyek:
   X tengely: jobbra-le (→↘)   dx = TILE_W/2,  dy = TILE_H/2
@@ -1433,9 +1459,41 @@ Grid → SVG pixel konverzió:
   screenX = originX + (gridX - gridY) * TILE_W/2
   screenY = originY + (gridX + gridY) * TILE_H/2
 
-originX = viewBox_width / 2   (200)
-originY = 80                   (padló teteje)
+originX = gridH * (TILE_W / 2) + 20
+originY = wallHeight = 120
 ```
+
+### ⚠️ Szoba renderelés — KRITIKUS pozícionálási szabályok
+
+**Bútor pozícionálás (RoomRenderer.tsx):**
+- Bútorok a **tile KÖZEPÉRE** kerülnek: `y = gridToScreen(gx, gy).y` — NINCS offset!
+- `+ TILE_H/2` offset ROSSZ — a tile alsó csúcsára kerül, ami lebegésnek tűnik
+- Bútor forgatás: `scale(-1, 1)` tükrözéssel (NEM SVG rotate!), ld. `isMirrored`
+
+**Bútor SVG árnyék szabályok:**
+- Doboz-alakú bútorok (nightstand, wardrobe, fridge, stb.): árnyék `cy={-4}` — feljebb az izometrikus test ALÁ
+- Lapos talpú bútorok (lamp, plant, tree): árnyék `cy={0}` — a lapos talp lefedi
+- Ha `cy={0}` → a shadow ry pixel-nyi rés látszik a bútor alja és árnyék közt → LEBEGÉS illúzió
+- **Szabály:** Új bútor SVG-nél ha doboz-alakú → `cy={-4}`, ha lapos talpú → `cy={0}`
+
+**Avatar a szobában (DOM overlay, NEM SVG!):**
+```tsx
+// Az avatar NEM az SVG-ben van, hanem egy abszolút pozícionált DOM div
+// Az SVG getBoundingClientRect + viewBox alapján számolódik a pozíció
+const domX = svgRect.left + (sx / viewBox.width) * svgRect.width - containerRect.left;
+const domY = svgRect.top + (sy / viewBox.height) * svgRect.height - containerRect.top;
+
+// Avatar div méret: baseAvatarSize (60px) * zoom
+// Top offset: pos.top - avatarSize * 0.75  ← a 3D láb nem a canvas alján van!
+//   A Three.js kamera fov + avatar pozíció miatt ~25% üres tér van a láb alatt
+//   Ez az offset kompenzálja
+```
+
+**Zoom/Pan rendszer:**
+- CSS transform: `scale(zoom) translate(pan.x/zoom, pan.y/zoom)` a szoba wrapper div-en
+- MIN_ZOOM = 1, MAX_ZOOM = 5
+- Avatar méret a zoom-mal skálázódik: `avatarSize = baseAvatarSize * zoom`
+- Pinch zoom támogatás touch event-ekkel
 
 ### Szoba típusok
 
@@ -1460,10 +1518,11 @@ originY = 80                   (padló teteje)
 **SVG rajzolási szabályok:**
 1. Minden bútor egy `<g>` csoport, `transform={translate(x,y)}` pozícionálással
 2. Izometrikus perspektíva: felső lap rombusz, oldalsó lapok parallelogramma
-3. **Árnyék** minden bútor alatt: `<ellipse fill="rgba(0,0,0,0.15)">`
+3. **Árnyék** minden bútor alatt: `<ellipse fill="rgba(0,0,0,0.1x)">` — `cy={-4}` doboz bútoroknál, `cy={0}` lapos talpúaknál
 4. **Szín paletta**: meleg, pasztell — kerüld a neon/élénk színeket (a szoba cozy legyen!)
 5. **Kontúr**: nincs fekete outline, inkább sötétebb árnyalat a széleknél
 6. **Highlight**: felső lapon halvány fehér gradient (fény illúzió)
+7. **Forgatás**: `scale(-1, 1)` tükrözéssel (NEM SVG `rotate()`! Az fejjel lefelé forgatja a bútort)
 
 **Izometrikus lap rajzolási minta:**
 ```
@@ -1605,18 +1664,30 @@ A szoba rendszer beépül a napi feladat rendszerbe:
 ### SVG Fejlesztési szabályok (BŐVÍTÉSHEZ)
 
 **Új bútor hozzáadása — checklist:**
-1. Rajzold meg SVG-ben a `components/room/FurnitureSVG.tsx`-be
+1. Hozz létre `components/room/furniture/MyFurniture.tsx` fájlt
 2. Kövesd az izometrikus perspektívát (felső lap + bal oldal + jobb oldal)
-3. Add hozzá a `FURNITURE_DEFS` tömbbe a `FurnitureRegistry.tsx`-ben
-4. Adj meg: `id, name, icon (emoji fallback), price, gridW, gridH, room (melyik szobába illik)`
-5. Opcionális: animáció (idle / interaction)
-6. Tesztelés: nézd meg a szobában hogy jól illeszkedik-e a rácsra
+3. Árnyék: `<ellipse cx={0} cy={-4} rx={N} ry={N} fill="rgba(0,0,0,0.1x)" />` (doboz), `cy={0}` (lapos talp)
+4. Export-áld `components/room/furniture/index.ts`-ben a FURNITURE_COMPONENTS map-be
+5. Add hozzá a `FURNITURE_DEFS` tömbbe a `FurnitureRegistry.tsx`-ben
+6. Adj meg: `id, name, icon, price, gridW, gridH, room, category`
+7. Opcionális: `hasAnimation: true, animationType: "glow"|"flicker"|"bubble"`
+8. Tesztelés: nézd meg a szobában hogy jól illeszkedik-e a rácsra, NEM LEBEG-E
 
-**SVG méretezés:**
-- Minden bútor SVG `viewBox="0 0 48 48"` alapon készül (1×1 grid)
-- 2×1 bútor: `viewBox="0 0 96 48"`
-- 2×2 bútor: `viewBox="0 0 96 72"`
-- A RoomRenderer skálázza a grid pozícióra
+**SVG stílus referencia (Nightstand példa):**
+```tsx
+<g transform={`translate(${x}, ${y})`}>
+  <ellipse cx={0} cy={-4} rx={16} ry={6} fill="rgba(0,0,0,0.12)" />  {/* shadow — cy={-4}! */}
+  <path d="M 0,0 L 12,-6 L 12,-22 L 0,-16 Z" fill="#5A3E28" />       {/* jobb oldal */}
+  <path d="M 0,0 L -12,-6 L -12,-22 L 0,-16 Z" fill="#7B5E42" />     {/* bal oldal */}
+  <path d="M 0,-28 L 12,-22 L 0,-16 L -12,-22 Z" fill="#8B6E52" />   {/* felső lap */}
+</g>
+```
+
+**Meglévő 25 bútor (components/room/furniture/):**
+Aquarium, Bathtub, BedBasic, BedDouble, Bench, Bookshelf, CoffeeTable,
+Counter, Couch, Desk, Fireplace, Flowerbed, Fountain, Fridge,
+KitchenTable, LampFloor, Nightstand, PlantBig, RugRound, Sink,
+Stove, Toilet, Tree, TvStand, Wardrobe
 
 ---
 
@@ -2355,3 +2426,320 @@ A telefon a szoba nézet RÉSZE — nem külön oldal:
 ```
 
 **A `/room` lesz az ÚJ FŐOLDAL** — a játékos ide érkezik, és a telefonból navigál mindenhova!
+
+---
+
+## PLIZIO WORLD LIFE — Teljes virtuális világ koncepció
+
+> Ez az ÖSSZEFOGLALÓ VÍZIÓ — minden rendszer (szoba, telefon, life, multiplayer) hogyan áll össze.
+> A Plizio nem játékgyűjtemény. A Plizio egy **virtuális világ**.
+
+### Világ struktúra — Helyszínek
+
+A játékos avatárja egy **világban** él. Nem oldalak között navigál, hanem **helyszínekre megy**.
+
+| Helyszín | Leírás | Mit csinál ott | Izometrikus nézet |
+|----------|--------|---------------|-------------------|
+| 🏠 Otthon | Saját szoba/ház | Berendez, pihen, családdal van | Szoba belső |
+| 🛒 Bevásárlóközpont | Shop + bútor bolt | Vásárol (ruha, skin, bútor, autó) | Bolt belső |
+| 🏖️ Tengerpart | Nyaralás, társasági hely | Más játékosokkal találkozik, napozik | Strand nézet |
+| 🏙️ Városközpont | Játékterem + munkahelyek | Játékokat játszik, dolgozik | Város utca |
+| 🏞️ Park | Séta, háziállat sétáltatás | Állat boldogság nő, random NPC-k | Park nézet |
+| 🏫 Iskola | Oktatási játékok | Matek teszt, nyelvtanulás | Iskola belső |
+| 🎪 Szórakozóhely | Multiplayer meccsek | Kihívások, versenyek | Aréna nézet |
+| 🏥 Kórház | Terhesség, gyerek születés | Ultrahang, születés animáció | Kórház belső |
+
+### Közlekedés — Autó rendszer
+
+A játékos **autóval** közlekedik a helyszínek között!
+
+**Autó mint státuszszimbólum:**
+
+| Autó | Ár | Sebesség | Különleges |
+|------|-----|---------|-----------|
+| 🚲 Bicikli | 0⭐ | Lassú (alap) | Ingyenes, mindenki kap |
+| 🛵 Robogó | 10⭐ | Közepes | Első upgrade |
+| 🚗 Kis autó | 25⭐ | Normál | Alap autó |
+| 🚙 SUV | 40⭐ | Normál | Családi (gyerekkel is elfér) |
+| 🏎️ Sportautó | 60⭐ | Gyors | Szép animáció |
+| 🚐 Lakóautó | 50⭐ | Lassú | Nyaraláson "mobil szoba"! |
+| 🏍️ Motor | 35⭐ | Gyors | Cool faktor |
+| 🚁 Helikopter | 100⭐ | Instant | Luxus — bárhova azonnal |
+
+**Autó megjelenés:**
+- Helyszínek közötti utazásnál rövid **vezetés animáció** (2-3 másodperc)
+- SVG izometrikus autó a város nézetben
+- Parkolóhely a ház mellett (autó látható!)
+- Autó testreszabás: szín, matrica (shop-ban)
+
+**localStorage:** `plizio_owned_vehicles`, `plizio_active_vehicle`
+
+### Háziállat avatárok — SVG állat rendszer
+
+Minden állatnak **saját izometrikus SVG avatár** van, nem csak emoji!
+
+**Állat típusok (bővített lista):**
+
+| Állat | Ár | Hol él | Méret | Animáció | Különleges |
+|-------|-----|--------|-------|----------|-----------|
+| 🐕 Kutya | 10⭐ | Ház + Park | Közepes | Farokcsóválás, ugrálás | Sétáltatni kell a parkban |
+| 🐱 Cica | 8⭐ | Ház | Kicsi | Dorombolás, nyújtózkodás | A bútorra mászik! |
+| 🐹 Hörcsög | 5⭐ | Ház (ketrec bútor) | Apró | Kerékben fut | Ketrec bútor kell |
+| 🐰 Nyuszi | 7⭐ | Kert | Kicsi | Ugrál | Kertben szabadon mozog |
+| 🦜 Papagáj | 12⭐ | Ház | Kicsi | Szárnycsapkodás | Szövegbuborékok (random mondatok) |
+| 🐠 Halak | 5⭐ | Akvárium bútor | Apró | Úszkálás | Akvárium bútor kell! |
+| 🐢 Teknős | 6⭐ | Kert | Kicsi | Lassú séta | Hosszú életű, kevés gondozás |
+| 🐍 Kígyó | 15⭐ | Ház (terrárium) | Közepes | Tekeredés | Ritka, cool faktor |
+| 🦎 Kaméleon | 20⭐ | Ház | Kicsi | Színváltás! | Szoba színéhez alkalmazkodik |
+| 🐎 Ló | 30⭐ | Kert (istálló) | Nagy | Ágaskodás | Lovaglás animáció a parkban |
+
+**Állat interakciók:**
+- Simogatás (kattintás) → boldogság +5, kis szív animáció
+- Etetés (napi) → boldogság +10, ha elfelejted → -5/nap
+- Játék (labda, csont, stb.) → boldogság +8
+- Sétáltatás (kutya, parkba vinni) → boldogság +15
+- Több állat tartható egyszerre!
+
+**Állat mood-ok (vizuális):**
+| Boldogság | Megjelenés |
+|-----------|-----------|
+| 80-100% | Boldog szem, farokcsóválás, szívek |
+| 50-79% | Normál |
+| 20-49% | Szomorú szem, lógó fül/farok |
+| 0-19% | Sírós szem, nem mozog, "..." buborék |
+
+### Társasági rendszer — Találkozás más játékosokkal
+
+**Helyszín alapú multiplayer:**
+
+A tengerparton, parkban, szórakozóhelyen **más online játékosok avatárjai is megjelennek**.
+
+```
+┌─────────────────────────────────────────┐
+│  🏖️ Tengerpart                          │
+│                                          │
+│  [avatár1]     [te avatárod]   [avatár3] │
+│   xy_player     ★ te ★        gamer99   │
+│     🐕                          🐱       │
+│  ~~~~~~~~ tenger ~~~~~~~~~               │
+│                                          │
+│  [avatár4]            [avatár5]          │
+│   luna22              max_pro            │
+└─────────────────────────────────────────┘
+```
+
+**Interakció más avatárokkal — rákattintás:**
+
+Ha rákattintasz egy másik avatárra, megjelenik egy **interakciós menü**:
+
+```
+┌──────────────────────┐
+│  👤 xy_player         │
+│  Level 12 ⭐ 234      │
+│  ──────────────────── │
+│  👋 Köszönés          │
+│  💬 Csevegés          │
+│  🎮 Kihívás (meccs)   │
+│  🎁 Ajándék küldés    │
+│  👀 Profil megtekintés │
+│  🏠 Szoba meglátogatás │
+└──────────────────────┘
+```
+
+#### Köszönés / Üdvözlés animációk
+
+Gyors egykattintásos interakciók — nem kell chatablak:
+
+| Akció | Animáció | Másik fél látja |
+|-------|----------|----------------|
+| 👋 Integetés | Avatár integet (wave mood) | "xy_player integetett neked!" |
+| 🤝 Pacsizás | Mindkét avatár pacsi animáció | Szinkronizált |
+| 🫂 Ölelés | Avatárok közel + szív | Csak ha elfogadja |
+| 💃 Tánc | Avatár táncol (dance mood) | Látja mindenki |
+| 😂 Nevetés | Avatár nevet (laughing mood) | "Haha" buborék |
+
+#### Csevegés — Chat ablak
+
+Ha "Csevegés"-t választod, megnyílik egy **kettős chatablak**:
+
+```
+┌──────────────────────────────┐
+│  💬 Csevegés: xy_player       │
+│  ────────────────────────────│
+│                               │
+│  xy_player: Szép a szobád! 😊 │
+│                               │
+│        te: Köszi! A kanapé    │
+│            új, tegnap vettem  │
+│                               │
+│  xy_player: Mennyi volt?      │
+│                               │
+│        te: 10 csillag         │
+│                               │
+│  xy_player: Játsszunk egyet?  │
+│                               │
+│  ────────────────────────────│
+│  [Üzenet írása...      ] [📤] │
+│                               │
+│  😊 😂 👍 ❤️ 🎮 [Emoji panel]  │
+│                               │
+│  [🎮 Kihívás] [🎁 Ajándék]    │
+└──────────────────────────────┘
+```
+
+**Chat funkciók:**
+- Szöveges üzenet (max 200 karakter, szűrt — nincs káromkodás)
+- Emoji gyors gombok
+- "Kihívás" gomb → egyből meccs meghívó
+- "Ajándék" gomb → virtuális ajándék (virág, szív, csillag)
+- Chat előzmények mentve (localStorage + Supabase)
+
+**Biztonsági szűrők:**
+- Profanity filter (többnyelvű)
+- Személyes adat blokkolás (email, telefon, cím pattern felismerés)
+- Report gomb minden üzeneten
+- Gyerekbarát: max 200 karakter, nincs kép küldés
+
+### Nyaralás rendszer — Tengerpart
+
+A tengerpart nem csak társasági hely, hanem **tevékenységek** is vannak:
+
+| Tevékenység | Leírás | Jutalom |
+|-------------|--------|---------|
+| 🏊 Úszás | Kattintás → úszás animáció | +boldogság |
+| 🏄 Szörfözés | Mini-játék (egyensúly) | +1⭐ |
+| 🏰 Homokvárat épít | Kattintgatós mini-játék | +boldogság, szép homokvar SVG |
+| 🍦 Fagyi vásárlás | 1⭐ → fagyi az avatár kezében | +boldogság, +partner szív |
+| 📸 Szelfizés | Avatár + háttér → megosztható | +share jutalom |
+| 🎣 Horgászás | Mini-játék (timing) | Hal → akvárium/eladás |
+
+**Nyaralás költsége:**
+- Belépés a tengerpartra: 2⭐ (naponta, vagy heti bérlet 10⭐)
+- Tevékenységek extra költsége: 0-2⭐
+- Partnert is viheted: +szív bónusz!
+
+### Szoba meglátogatás — "Nézd meg a házam!"
+
+Más játékosok szobáját is meg lehet nézni:
+
+```
+1. Rákattintasz avatárra → "Szoba meglátogatás"
+2. Betölt AZ Ő szobája (read-only nézet)
+3. Látod a bútorait, állatát, családját
+4. Tudsz reakciót adni: ❤️ "Szép!", 👍 "Cool!", ⭐ "Wow!"
+5. Reakciók száma megjelenik a háztulaj profilján
+```
+
+**Szoba rangsor:**
+- Legtöbb ❤️ reakció → "Hét háza" badge
+- Kategóriák: "Legszebb hálószoba", "Legjobb kert", stb.
+- Havi verseny → győztes kap 10⭐
+
+### Avatar interakció animációk (szinkronizált)
+
+Két avatár közötti interakciók:
+
+| Interakció | Avatár 1 | Avatár 2 | Trigger |
+|-----------|---------|---------|---------|
+| Pacsizás | Jobb kéz előre | Jobb kéz előre | Mindkét fél elfogadja |
+| Ölelés | Karok szélesre | Karok szélesre | Elfogadás kell |
+| High-five | Kéz fent | Kéz fent | Gyors, 1 kattintás |
+| Tánc együtt | Dance mood | Dance mood | Mindketten táncolnak |
+| Ajándék átadás | Kéz előre (tárggyal) | Kéz kinyújtva | Ajándék küldésnél |
+
+### Supabase táblák (társasági rendszer)
+
+```sql
+-- Jelenlét helyszínenként
+location_presence:
+  user_name    string
+  location     string    -- "beach" | "park" | "arcade" | "mall"
+  last_seen    timestamp
+  avatar_data  JSON      -- skin, clothes, accessories snapshot
+
+-- Chat üzenetek
+messages:
+  id           uuid
+  from_name    string
+  to_name      string
+  content      string    -- max 200 char, filtered
+  location     string    -- hol történt
+  created_at   timestamp
+  read         boolean
+
+-- Szoba reakciók
+room_reactions:
+  owner_name   string
+  visitor_name string
+  reaction     "heart" | "thumbsup" | "star"
+  room_id      string
+  created_at   timestamp
+
+-- Avatar interakciók log
+interactions:
+  from_name    string
+  to_name      string
+  type         "wave" | "highfive" | "hug" | "dance" | "gift"
+  location     string
+  created_at   timestamp
+```
+
+### TypeScript típusok (társasági)
+
+```ts
+type LocationId = "home" | "beach" | "park" | "city" | "mall" | "school" | "arcade" | "hospital"
+
+interface LocationPresence {
+  userName: string
+  location: LocationId
+  lastSeen: string       // ISO timestamp
+  avatarData: AvatarSnapshot  // skin + clothes snapshot
+}
+
+interface ChatMessage {
+  id: string
+  from: string
+  to: string
+  content: string
+  location: LocationId
+  createdAt: string
+  read: boolean
+}
+
+interface AvatarInteraction {
+  type: "wave" | "highfive" | "hug" | "dance" | "gift"
+  fromUser: string
+  toUser: string
+  // gift extra:
+  giftType?: "flower" | "heart" | "star" | "cake"
+  giftCost?: number
+}
+
+type VehicleId = "bicycle" | "scooter" | "car" | "suv" | "sports" | "rv" | "motorcycle" | "helicopter"
+```
+
+### localStorage kulcsok (új)
+
+| Kulcs | Tartalom |
+|-------|---------|
+| `plizio_owned_vehicles` | `string[]` |
+| `plizio_active_vehicle` | `string` |
+| `plizio_owned_pets` | `PetState[]` (több állat!) |
+| `plizio_current_location` | `LocationId` |
+| `plizio_chat_history` | `ChatMessage[]` (utolsó 100) |
+| `plizio_room_reactions_received` | `number` (összesített) |
+
+### Megvalósítási sorrend
+
+| Fázis | Tartalom | Prioritás |
+|-------|---------|-----------|
+| **1.** | Szoba rendszer + bútorok (már elkezdve!) | ✅ Folyamatban |
+| **2.** | Telefon UI + navigáció | Következő |
+| **3.** | Állat SVG avatárok + gondozás | Hamar |
+| **4.** | Autó rendszer + helyszínek közötti közlekedés | Közepes |
+| **5.** | Tengerpart + nyaralás + tevékenységek | Közepes |
+| **6.** | Társasági rendszer (jelenlét, chat, interakciók) | Nagy feature |
+| **7.** | Szoba meglátogatás + reakciók | Társasági után |
+| **8.** | Partner + házasság + gyerek (Life Sim) | Későbbi |
+| **9.** | Munkahely + számla rendszer | Life Sim után |
+| **10.** | Város nézet + összes helyszín | Végső polish |

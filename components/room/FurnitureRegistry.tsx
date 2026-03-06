@@ -35,17 +35,30 @@ export const FURNITURE_DEFS: FurnitureDef[] = [
   { id: "bookshelf", name: "Könyvespolc", icon: "📚", price: 6, gridW: 1, gridH: 2, room: "any", category: "storage" },
   { id: "plant_big", name: "Nagy növény", icon: "🌿", price: 3, gridW: 1, gridH: 1, room: "any", category: "plant", hasAnimation: true, animationType: "sway" },
 
+  { id: "bed_double", name: "Franciaágy", icon: "🛏️", price: 8, gridW: 2, gridH: 2, room: "bedroom", category: "bed" },
+  { id: "rug_round", name: "Kerek szőnyeg", icon: "🟤", price: 5, gridW: 2, gridH: 2, room: "any", category: "decor" },
+
+  // ── NAPPALI ──
+  { id: "coffee_table", name: "Dohányzóasztal", icon: "☕", price: 5, gridW: 2, gridH: 1, room: "living", category: "table" },
+  { id: "fireplace", name: "Kandalló", icon: "🔥", price: 15, gridW: 2, gridH: 1, room: "living", category: "decor", hasAnimation: true, animationType: "flicker" },
+  { id: "aquarium", name: "Akvárium", icon: "🐠", price: 12, gridW: 2, gridH: 1, room: "living", category: "decor", hasAnimation: true, animationType: "bubble" },
+
   // ── KONYHA ──
   { id: "fridge", name: "Hűtőszekrény", icon: "🧊", price: 8, gridW: 1, gridH: 1, room: "kitchen", category: "appliance" },
+  { id: "stove", name: "Tűzhely", icon: "♨️", price: 7, gridW: 1, gridH: 1, room: "kitchen", category: "appliance" },
+  { id: "counter", name: "Pult", icon: "🪨", price: 5, gridW: 2, gridH: 1, room: "kitchen", category: "table" },
+  { id: "kitchen_table", name: "Konyhaasztal", icon: "🍽️", price: 6, gridW: 2, gridH: 2, room: "kitchen", category: "table" },
 
-  // TODO: Bővítendő! Lásd CLAUDE.md bútor lista
-  // { id: "bed_double", name: "Franciaágy", icon: "🛏️", price: 8, gridW: 2, gridH: 2, room: "bedroom", category: "bed" },
-  // { id: "coffee_table", name: "Dohányzóasztal", icon: "☕", price: 5, gridW: 2, gridH: 1, room: "living", category: "table" },
-  // { id: "fireplace", name: "Kandalló", icon: "🔥", price: 15, gridW: 2, gridH: 1, room: "living", category: "decor", hasAnimation: true, animationType: "flicker" },
-  // { id: "aquarium", name: "Akvárium", icon: "🐠", price: 12, gridW: 2, gridH: 1, room: "living", category: "decor", hasAnimation: true, animationType: "bubble" },
-  // { id: "stove", name: "Tűzhely", icon: "♨️", price: 7, gridW: 1, gridH: 1, room: "kitchen", category: "appliance" },
-  // { id: "bathtub", name: "Kád", icon: "🛁", price: 10, gridW: 2, gridH: 1, room: "bathroom", category: "appliance", hasAnimation: true, animationType: "bubble" },
-  // { id: "fountain", name: "Szökőkút", icon: "⛲", price: 20, gridW: 2, gridH: 2, room: "garden", category: "decor", hasAnimation: true, animationType: "bubble" },
+  // ── FÜRDŐ ──
+  { id: "bathtub", name: "Kád", icon: "🛁", price: 10, gridW: 2, gridH: 1, room: "bathroom", category: "appliance" },
+  { id: "toilet", name: "WC", icon: "🚽", price: 3, gridW: 1, gridH: 1, room: "bathroom", category: "appliance" },
+  { id: "sink", name: "Mosdó", icon: "🚰", price: 4, gridW: 1, gridH: 1, room: "bathroom", category: "appliance" },
+
+  // ── KERT ──
+  { id: "fountain", name: "Szökőkút", icon: "⛲", price: 20, gridW: 2, gridH: 2, room: "garden", category: "decor", hasAnimation: true, animationType: "bubble" },
+  { id: "bench", name: "Pad", icon: "🪑", price: 5, gridW: 2, gridH: 1, room: "garden", category: "seating" },
+  { id: "tree", name: "Fa", icon: "🌳", price: 6, gridW: 1, gridH: 1, room: "garden", category: "plant" },
+  { id: "flowerbed", name: "Virágágyás", icon: "🌸", price: 4, gridW: 2, gridH: 1, room: "garden", category: "plant" },
 ];
 
 export function getFurnitureDef(id: string): FurnitureDef | undefined {
