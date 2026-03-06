@@ -107,6 +107,13 @@ import MathQuestionDisplay from "@/components/MathQuestionDisplay";
 import { DraftProvider } from "@/components/draft";
 import { convertToExtendedQuestion, isVisualQuestion } from "@/lib/mathQuestionUtils";
 import ModernPaperTest from "@/components/ModernPaperTest";
+import SchoolTaskBlock from "@/components/SchoolTaskBlock";
+import {
+  generateSchoolTest,
+  gradeSchoolTest,
+  type SchoolTaskBlock as SchoolTaskBlockType,
+  type SchoolTaskAnswers,
+} from "@/lib/schoolTaskGenerator";
 import GradingPencil, { InlineGradingPencil } from "@/components/GradingPencil";
 import { generateTestPdf } from "@/lib/generateTestPdf";
 import TeacherNote, { InlineTeacherNote } from "@/components/TeacherNote";
@@ -373,6 +380,11 @@ export default function MathTestPage() {
   const [realisticKlassenarbeit, setRealisticKlassenarbeit] = useState<RealisticKlassenarbeit | null>(null);
   const [groupedTaskAnswers, setGroupedTaskAnswers] = useState<Record<string, string | number>>({});
 
+  // ─── School Test (iskolai dolgozat stílus, grade 1-4) ────────────
+  const [schoolTasks, setSchoolTasks] = useState<SchoolTaskBlockType[]>([]);
+  const [schoolAnswers, setSchoolAnswers] = useState<SchoolTaskAnswers>({});
+  const [schoolResult, setSchoolResult] = useState<{ earned: number; total: number; percentage: number } | null>(null);
+
   // ─── Klassenarbeit timer (30 minutes) ───────────────────────
   const [klassenarbeitStartTime, setKlassenarbeitStartTime] = useState<number | null>(null);
   const [klassenarbeitTimeLeft, setKlassenarbeitTimeLeft] = useState(1800); // 30 * 60 = 1800 seconds
@@ -526,6 +538,19 @@ export default function MathTestPage() {
   useEffect(() => {
     if (gameState !== "grading") return;
 
+    // Handle school test grading (grade 1-4)
+    if (schoolTasks.length > 0) {
+      const result = gradeSchoolTest(schoolTasks, schoolAnswers);
+      setSchoolResult(result);
+      const grResult = calculateGradeResult(result.earned, result.total);
+      setGradeResult(grResult);
+      setTimeout(() => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        setGameState("result");
+      }, 800);
+      return;
+    }
+
     // Handle grouped tasks grading
     if (realisticKlassenarbeit) {
       // All graded for realistic Klassenarbeit
@@ -634,18 +659,23 @@ export default function MathTestPage() {
       total: gradeResult.total,
       date: new Date().toISOString(),
     });
+    window.dispatchEvent(new Event("plizio-cards-changed"));
 
     // In Supabase mode, stats are tracked server-side.
     // Still update local stats as fallback / offline cache.
-    const topicResults = questions.map((q, i) => ({
-      topic: q.topic,
-      correct: answers[i] === q.correctAnswer,
-    }));
-    updateMathStats(selectedGrade, gradeResult.percentage, topicResults);
+    if (schoolTasks.length > 0 && schoolResult) {
+      updateMathStats(selectedGrade, schoolResult.percentage, []);
+    } else {
+      const topicResults = questions.map((q, i) => ({
+        topic: q.topic,
+        correct: answers[i] === q.correctAnswer,
+      }));
+      updateMathStats(selectedGrade, gradeResult.percentage, topicResults);
+    }
 
     incrementTotalGames();
     if (gradeResult.percentage === 100) incrementPerfectScores();
-  }, [gameState, saved, gradeResult, selectedGrade, questions, answers]);
+  }, [gameState, saved, gradeResult, selectedGrade, questions, answers, schoolTasks, schoolResult]);
 
   // ─── Fetch Supabase curriculum when country+grade are selected ───
   useEffect(() => {
@@ -738,8 +768,25 @@ export default function MathTestPage() {
     setSaved(false);
     setCardRarity(null);
     setTestSession(null);
+    setSchoolResult(null);
     answerTimesRef.current = [];
     lastAnswerTimeRef.current = 0;
+
+    // ─── Grade 1-4: School Test Mode ──────────────────────────────
+    if (selectedGrade <= 4) {
+      const tasks = generateSchoolTest(selectedGrade, country?.code || 'DE');
+      setSchoolTasks(tasks);
+      setSchoolAnswers({});
+      setRealisticKlassenarbeit(null);
+      setQuestions([]);
+      setAnswers([]);
+      setAvatarMood('focused');
+      setGameState('playing');
+      setGeneratingTest(false);
+      return;
+    }
+    // Grade 5-8: falls through to existing MCQ flow
+    setSchoolTasks([]);
 
     // ─── Initialize 40-minute timer ─────────────────────
     const now = Date.now();
@@ -1156,6 +1203,10 @@ export default function MathTestPage() {
     }));
   };
 
+  const handleSchoolSubmit = () => {
+    setGameState("grading");
+  };
+
   const handleSubmit = async () => {
     // Always show grading animation (pencil) first
     setGradingIndex(0);
@@ -1196,11 +1247,21 @@ export default function MathTestPage() {
   const handlePlayAgain = () => {
     if (selectedGrade) {
       setSelectedSubtopics([]);
+      setSchoolTasks([]);
+      setSchoolAnswers({});
+      setSchoolResult(null);
       setGameState("theme-select");
     }
   };
 
-  const allAnswered = realisticKlassenarbeit
+  const allAnswered = schoolTasks.length > 0
+    ? schoolTasks.every((block) =>
+        block.subQuestions.every((sq) => {
+          const v = schoolAnswers[sq.id];
+          return v !== undefined && String(v).trim() !== '';
+        })
+      )
+    : realisticKlassenarbeit
     ? realisticKlassenarbeit.tasks.every((task) =>
         task.subQuestions.every((sq) => `task_${task.taskNumber - 1}_${sq.id}` in groupedTaskAnswers)
       )
@@ -1682,8 +1743,27 @@ export default function MathTestPage() {
                 />
               ) : null}
 
+              {/* School Test Mode (grade 1-4) */}
+              {schoolTasks.length > 0 && (
+                <div className="space-y-0">
+                  {schoolTasks.map((block, bi) => (
+                    <SchoolTaskBlock
+                      key={block.id}
+                      block={block}
+                      blockIndex={bi}
+                      answers={schoolAnswers}
+                      onChange={(sqId, val) =>
+                        !isGrading && setSchoolAnswers((prev) => ({ ...prev, [sqId]: val }))
+                      }
+                      isGrading={isGrading}
+                      cc={country?.code || 'DE'}
+                    />
+                  ))}
+                </div>
+              )}
+
               {/* Realistic Klassenarbeit (Grouped Tasks) */}
-              {realisticKlassenarbeit && (
+              {!schoolTasks.length && realisticKlassenarbeit && (
                 <RealisticKlassenarbeitDisplay
                   tasks={realisticKlassenarbeit.tasks}
                   answers={groupedTaskAnswers}
@@ -1789,7 +1869,7 @@ export default function MathTestPage() {
               )}
             </div>
 
-            {/* Floating Absence Button - Center bottom, above avatar */}
+            {/* Floating Submit Button - Center bottom, above avatar */}
             {!isGrading && (
               <motion.div
                 className="fixed left-1/2 -translate-x-1/2 bottom-24 z-40"
@@ -1799,19 +1879,22 @@ export default function MathTestPage() {
               >
                 <motion.button
                   onClick={() => {
-                    const allFilled = answers.every((a) => a !== null);
-                    if (allFilled) {
-                      handleSubmit();
+                    if (allAnswered) {
+                      if (schoolTasks.length > 0) {
+                        handleSchoolSubmit();
+                      } else {
+                        handleSubmit();
+                      }
                     }
                   }}
-                  disabled={!answers.every((a) => a !== null)}
+                  disabled={!allAnswered}
                   className={`px-8 py-3 rounded-lg font-bold shadow-lg transition-all ${
-                    answers.every((a) => a !== null)
+                    allAnswered
                       ? 'bg-blue-600 hover:bg-blue-700 text-white cursor-pointer'
                       : 'bg-gray-300 text-gray-500 cursor-not-allowed opacity-60'
                   }`}
-                  whileHover={answers.every((a) => a !== null) ? { scale: 1.05, boxShadow: "0 0 30px rgba(37, 99, 235, 0.6)" } : {}}
-                  whileTap={answers.every((a) => a !== null) ? { scale: 0.95 } : {}}
+                  whileHover={allAnswered ? { scale: 1.05, boxShadow: "0 0 30px rgba(37, 99, 235, 0.6)" } : {}}
+                  whileTap={allAnswered ? { scale: 0.95 } : {}}
                 >
                   {ui?.submit || 'Submit'}
                 </motion.button>
@@ -1849,6 +1932,90 @@ export default function MathTestPage() {
   // ─── RESULT SCREEN ─────────────────────────────
 
   if (gameState === "result" && gradeResult) {
+    // School test result (grade 1-4)
+    if (schoolTasks.length > 0 && schoolResult) {
+      const mark = country?.calculateMark(schoolResult.percentage);
+      const isGood = schoolResult.percentage >= 75;
+
+      return (
+        <>
+          <main className="min-h-screen bg-bg flex items-center justify-center px-4 py-8">
+            <motion.div
+              className="flex flex-col items-center gap-6 max-w-sm w-full text-center"
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+            >
+              {/* Grade/result display */}
+              {mark && (
+                <div className="flex flex-col items-center gap-2">
+                  <span className="text-7xl">{mark.emoji}</span>
+                  <span className="text-6xl font-black" style={{ color: mark.color }}>
+                    {mark.display}
+                  </span>
+                  <span className="text-xl font-bold" style={{ color: mark.color }}>
+                    {mark.label}
+                  </span>
+                </div>
+              )}
+
+              {/* Score */}
+              <div className="text-white/70 text-lg font-mono">
+                {schoolResult.earned} / {schoolResult.total} P. ({schoolResult.percentage}%)
+              </div>
+
+              {/* Block breakdown */}
+              <div className="w-full bg-white/5 rounded-2xl border border-white/10 p-4 text-left">
+                {schoolTasks.map((block) => {
+                  const earned = block.subQuestions.reduce((s, sq) => {
+                    const v = String(schoolAnswers[sq.id] ?? '').trim();
+                    return s + (v === String(sq.answer).trim() ? sq.points : 0);
+                  }, 0);
+                  return (
+                    <div key={block.id} className="flex items-center justify-between py-1.5 border-b border-white/5 last:border-0">
+                      <span className="text-white/60 text-sm">{block.title}</span>
+                      <span className={`text-sm font-bold ${earned === block.totalPoints ? 'text-green-400' : 'text-white/60'}`}>
+                        {earned}/{block.totalPoints}
+                      </span>
+                    </div>
+                  );
+                })}
+              </div>
+
+              {/* Card earned */}
+              {cardRarity && (
+                <div className="text-white/70 text-sm">
+                  {ui?.card || 'Card'}: <span className="font-bold capitalize" style={{
+                    color: cardRarity === 'legendary' ? '#FFD700' : cardRarity === 'gold' ? '#FFA500' : cardRarity === 'silver' ? '#C0C0C0' : '#CD7F32'
+                  }}>{cardRarity}</span>
+                </div>
+              )}
+
+              {/* Buttons */}
+              <div className="flex gap-3 flex-wrap justify-center">
+                <motion.button
+                  onClick={handlePlayAgain}
+                  className="px-6 py-3 rounded-xl font-bold bg-white/10 text-white border border-white/20 hover:bg-white/20 transition-colors"
+                  whileHover={{ scale: 1.05 }}
+                  whileTap={{ scale: 0.95 }}
+                >
+                  {ui?.retry || 'Retry'}
+                </motion.button>
+                <motion.button
+                  onClick={() => setGameState("grade-select")}
+                  className="px-6 py-3 rounded-xl font-bold bg-white/10 text-white border border-white/20 hover:bg-white/20 transition-colors"
+                  whileHover={{ scale: 1.05 }}
+                  whileTap={{ scale: 0.95 }}
+                >
+                  {ui?.other || 'Other'}
+                </motion.button>
+              </div>
+            </motion.div>
+          </main>
+          <AvatarCompanion mood={isGood ? 'victory' : 'idle'} gender={avatarGender} activeSkin={avatarSkin} activeFace={avatarFace} activeTop={avatarTop} activeBottom={avatarBottom} activeShoe={avatarShoe} activeCape={avatarCape} activeGlasses={avatarGlasses} activeGloves={avatarGloves} activeHat={avatarHat} activeTrail={avatarTrail} />
+        </>
+      );
+    }
+
     // Klassenarbeit vs Practice display
     const isKlassenarbeit = testType === "klassenarbeit" && klassenarbeitResult;
 
