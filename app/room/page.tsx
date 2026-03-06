@@ -734,8 +734,8 @@ export default function RoomPage() {
     const relY = svgY - oY;
 
     return {
-      gx: Math.round((relX / 24 + relY / 12) / 2),
-      gy: Math.round((relY / 12 - relX / 24) / 2),
+      gx: (relX / 24 + relY / 12) / 2,
+      gy: (relY / 12 - relX / 24) / 2,
     };
   };
 
@@ -916,18 +916,23 @@ export default function RoomPage() {
 
     const grid = clickToGrid(e);
     if (!grid) return;
-    const { gx, gy } = grid;
 
-    if (gx < 0 || gy < 0 || gx >= roomSize.gridW || gy >= roomSize.gridH) return;
+    // Integer cell for bounds/collision checks and A*
+    const igx = Math.round(grid.gx);
+    const igy = Math.round(grid.gy);
+    if (igx < 0 || igy < 0 || igx >= roomSize.gridW || igy >= roomSize.gridH) return;
 
     const blocked = buildBlockedSet();
-    if (blocked.has(`${gx},${gy}`)) return; // clicked on furniture
+    if (blocked.has(`${igx},${igy}`)) return; // clicked on furniture
 
     const cur = avatarGridPosRef.current;
-    const path = aStarPath(cur.gx, cur.gy, gx, gy,
+    const curI = { gx: Math.round(cur.gx), gy: Math.round(cur.gy) };
+    const path = aStarPath(curI.gx, curI.gy, igx, igy,
       roomSize.gridW, roomSize.gridH, (x, y) => blocked.has(`${x},${y}`));
 
     if (path.length > 0) {
+      // Replace last waypoint with exact sub-grid click position
+      path[path.length - 1] = { gx: grid.gx, gy: grid.gy };
       setActiveInteraction(null);
       startWalkPath(path, () => setAvatarMood("idle"));
     }
