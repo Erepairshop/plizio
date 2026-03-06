@@ -26,6 +26,10 @@ import {
   buyFurniture,
   buyRoom,
   ownsRoom,
+  getRoomSize,
+  getRoomLevel,
+  getNextUpgrade,
+  upgradeRoom,
   type PlacedFurniture,
 } from "@/lib/room";
 import { getSpecialCardCount, spendSpecialCards } from "@/lib/specialCards";
@@ -300,6 +304,9 @@ export default function RoomPage() {
 
   const currentRoom = ROOMS[currentRoomIdx];
   const isOwned = ownedRooms.includes(currentRoom.id);
+  const roomSize = typeof window !== "undefined" ? getRoomSize(currentRoom.id) : { gridW: currentRoom.gridW, gridH: currentRoom.gridH };
+  const roomLevel = typeof window !== "undefined" ? getRoomLevel(currentRoom.id) : 1;
+  const nextUpgrade = typeof window !== "undefined" ? getNextUpgrade(currentRoom.id) : null;
 
   // Load data
   useEffect(() => {
@@ -355,6 +362,16 @@ export default function RoomPage() {
     setConfirmBuy({ type: "room", id: currentRoom.id, price: currentRoom.price });
   };
 
+  // Upgrade room size
+  const handleUpgradeRoom = () => {
+    if (!nextUpgrade) return;
+    if (stars < nextUpgrade.price) {
+      showToast(t.notEnough);
+      return;
+    }
+    setConfirmBuy({ type: "room" as const, id: `upgrade_${currentRoom.id}`, price: nextUpgrade.price });
+  };
+
   // Buy furniture
   const handleBuyFurniture = (fDef: typeof FURNITURE_DEFS[0]) => {
     if (ownedFurnitureIds.includes(fDef.id)) {
@@ -379,7 +396,12 @@ export default function RoomPage() {
   // Confirm purchase
   const confirmPurchase = () => {
     if (!confirmBuy) return;
-    if (confirmBuy.type === "room") {
+    if (confirmBuy.id.startsWith("upgrade_")) {
+      // Room size upgrade
+      const roomId = confirmBuy.id.replace("upgrade_", "");
+      spendSpecialCards(confirmBuy.price);
+      upgradeRoom(roomId);
+    } else if (confirmBuy.type === "room") {
       spendSpecialCards(confirmBuy.price);
       buyRoom(confirmBuy.id);
       setOwnedRooms(getOwnedRooms());
@@ -409,7 +431,7 @@ export default function RoomPage() {
     const svgY = (e.clientY - rect.top) * scaleY;
 
     // Convert SVG coords to grid coords
-    const originX = currentRoom.gridH * 24 + 20; // TILE_W/2 = 24
+    const originX = roomSize.gridH * 24 + 20; // TILE_W/2 = 24
     const originY = 120; // wallHeight
 
     const relX = svgX - originX;
@@ -422,7 +444,7 @@ export default function RoomPage() {
     if (!fDef) return;
 
     // Check bounds
-    if (gx < 0 || gy < 0 || gx + fDef.gridW > currentRoom.gridW || gy + fDef.gridH > currentRoom.gridH) return;
+    if (gx < 0 || gy < 0 || gx + fDef.gridW > roomSize.gridW || gy + fDef.gridH > roomSize.gridH) return;
 
     // Check collision with existing furniture
     const overlaps = furniture.some((placed) => {
@@ -507,13 +529,29 @@ export default function RoomPage() {
           <ChevronLeft size={16} />
         </button>
 
-        <div className="flex items-center gap-2">
-          <span className="text-lg">{currentRoom.icon}</span>
-          <span className="font-medium">{t[currentRoom.nameKey]}</span>
-          {!isOwned && (
-            <span className="flex items-center gap-0.5 text-xs text-yellow-300">
-              <Lock size={10} /> {currentRoom.price}⭐
-            </span>
+        <div className="flex flex-col items-center gap-0.5">
+          <div className="flex items-center gap-2">
+            <span className="text-lg">{currentRoom.icon}</span>
+            <span className="font-medium">{t[currentRoom.nameKey]}</span>
+            {!isOwned && (
+              <span className="flex items-center gap-0.5 text-xs text-yellow-300">
+                <Lock size={10} /> {currentRoom.price}⭐
+              </span>
+            )}
+          </div>
+          {isOwned && (
+            <div className="flex items-center gap-2">
+              <span className="text-[10px] text-white/30">{roomSize.gridW}×{roomSize.gridH}</span>
+              {nextUpgrade && (
+                <button
+                  onClick={handleUpgradeRoom}
+                  className="text-[10px] px-2 py-0.5 rounded-full bg-neon-blue/20 text-neon-blue hover:bg-neon-blue/30 transition-colors flex items-center gap-1"
+                >
+                  ↑ {nextUpgrade.gridW}×{nextUpgrade.gridH} — {nextUpgrade.price}⭐
+                </button>
+              )}
+              {!nextUpgrade && <span className="text-[10px] text-neon-green/50">MAX</span>}
+            </div>
           )}
         </div>
 
@@ -572,8 +610,8 @@ export default function RoomPage() {
             >
               <RoomRenderer
                 roomType={currentRoom.id}
-                gridW={currentRoom.gridW}
-                gridH={currentRoom.gridH}
+                gridW={roomSize.gridW}
+                gridH={roomSize.gridH}
                 furniture={furniture}
                 windowAlpha={windowAlpha}
                 showGrid={editMode}

@@ -2,7 +2,7 @@
 
 import React from "react";
 import IsoRoom, { gridToScreen, TILE_W, TILE_H } from "./IsoRoom";
-import { FURNITURE_COMPONENTS } from "./FurnitureSVG";
+import { FURNITURE_COMPONENTS } from "./furniture";
 
 /*  ─── Szoba renderelő ───
  *  Összefogja: IsoRoom (shell) + bútorok (SVG) + fények
