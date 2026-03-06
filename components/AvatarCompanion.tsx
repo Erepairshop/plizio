@@ -1242,12 +1242,67 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
   />
 </mesh>
 
-      {/* ── Shirt collar / accent ─────────────────────── */}
-      {activeTop && (
-        <mesh position={[0, 0.32, 0.05]}>
-          <boxGeometry args={[0.24, 0.05, 0.05]} />
-          <meshStandardMaterial color={actualBodyAccent} roughness={0.6} />
-        </mesh>
+{/* ── Shirt collar / accent ─────────────────────── */}
+{activeTop && (
+  <>
+    {/* Gallér */}
+    <mesh position={[0, 0.32, 0.05]}>
+      <boxGeometry args={[0.24, 0.05, 0.05]} />
+      <meshStandardMaterial color={actualBodyAccent} roughness={0.6} />
+    </mesh>
+    {/* Gallér bal szárny */}
+    <mesh position={[-0.06, 0.30, 0.08]} rotation={[0, 0.3, 0.15]}>
+      <boxGeometry args={[0.08, 0.038, 0.018]} />
+      <meshStandardMaterial color={actualBodyAccent} roughness={0.6} />
+    </mesh>
+    {/* Gallér jobb szárny */}
+    <mesh position={[0.06, 0.30, 0.08]} rotation={[0, -0.3, -0.15]}>
+      <boxGeometry args={[0.08, 0.038, 0.018]} />
+      <meshStandardMaterial color={actualBodyAccent} roughness={0.6} />
+    </mesh>
+  </>
+)}
+
+{/* ── Gombok ────────────────────────────────────── */}
+{[0.18, 0.08, -0.02].map((y, i) => (
+  <mesh key={i} position={[0, y, 0.145]}>
+    <cylinderGeometry args={[0.012, 0.012, 0.008, 8]} />
+    <meshStandardMaterial color={actualBodyAccent} roughness={0.4} metalness={0.3} />
+  </mesh>
+))}
+
+{/* ── Bal zseb ──────────────────────────────────── */}
+<mesh position={[-0.10, 0.05, 0.145]}>
+  <boxGeometry args={[0.072, 0.065, 0.008]} />
+  <meshStandardMaterial color={actualBodyColor} roughness={0.72} />
+</mesh>
+{/* Bal zseb szegély */}
+<mesh position={[-0.10, 0.05, 0.148]}>
+  <boxGeometry args={[0.075, 0.068, 0.004]} />
+  <meshStandardMaterial color={actualBodyAccent} roughness={0.65} transparent opacity={0.5} />
+</mesh>
+
+{/* ── Jobb zseb ─────────────────────────────────── */}
+<mesh position={[0.10, 0.05, 0.145]}>
+  <boxGeometry args={[0.072, 0.065, 0.008]} />
+  <meshStandardMaterial color={actualBodyColor} roughness={0.72} />
+</mesh>
+{/* Jobb zseb szegély */}
+<mesh position={[0.10, 0.05, 0.148]}>
+  <boxGeometry args={[0.075, 0.068, 0.004]} />
+  <meshStandardMaterial color={actualBodyAccent} roughness={0.65} transparent opacity={0.5} />
+</mesh>
+
+{/* ── Nadrág vonal (derék) ──────────────────────── */}
+<mesh position={[0, -0.26, 0.02]}>
+  <boxGeometry args={[bodyW + 0.02, 0.018, 0.29]} />
+  <meshStandardMaterial color={actualLegColor} roughness={0.82} />
+</mesh>
+{/* Nadrág öv csat */}
+<mesh position={[0, -0.255, 0.148]}>
+  <boxGeometry args={[0.055, 0.028, 0.008]} />
+  <meshStandardMaterial color="#8a7050" roughness={0.4} metalness={0.5} />
+</mesh>
       )}
 
       {/* ══ SHOULDERS ══════════════════════════════════════ */}
@@ -1297,11 +1352,39 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
             metalness={0.02}
           />
         </mesh>
-        {/* Chin */}
-        <mesh position={[0, -0.06, 0.02]} scale={[1, 0.45, 0.85]}>
-          <sphereGeometry args={[0.14, 10, 6]} />
-          <meshStandardMaterial color={skinDark} roughness={0.7} metalness={0} />
-        </mesh>
+{/* Chin */}
+<mesh position={[0, -0.06, 0.02]} scale={[1, 0.45, 0.85]}>
+  <sphereGeometry args={[0.14, 10, 6]} />
+  <meshStandardMaterial color={skinDark} roughness={0.7} metalness={0} />
+</mesh>
+
+{/* ── ARCCSONT bal ──────────────────────────── */}
+<mesh position={[-0.13, -0.02, 0.14]} scale={[0.72, 0.52, 0.48]}>
+  <sphereGeometry args={[0.075, 8, 6]} />
+  <meshStandardMaterial color={actualSkinColor} roughness={0.58} metalness={0.01} />
+</mesh>
+{/* Arccsont highlight bal */}
+<mesh position={[-0.12, 0.0, 0.158]} scale={[0.38, 0.28, 0.22]}>
+  <sphereGeometry args={[0.055, 7, 5]} />
+  <meshStandardMaterial color="#ffffff" roughness={0.3} transparent opacity={0.08} />
+</mesh>
+
+{/* ── ARCCSONT jobb ─────────────────────────── */}
+<mesh position={[0.13, -0.02, 0.14]} scale={[0.72, 0.52, 0.48]}>
+  <sphereGeometry args={[0.075, 8, 6]} />
+  <meshStandardMaterial color={actualSkinColor} roughness={0.58} metalness={0.01} />
+</mesh>
+{/* Arccsont highlight jobb */}
+<mesh position={[0.12, 0.0, 0.158]} scale={[0.38, 0.28, 0.22]}>
+  <sphereGeometry args={[0.055, 7, 5]} />
+  <meshStandardMaterial color="#ffffff" roughness={0.3} transparent opacity={0.08} />
+</mesh>
+
+{/* ── HOMLOK enyhe kiemelkedés ──────────────── */}
+<mesh position={[0, 0.11, 0.165]} scale={[0.88, 0.45, 0.32]}>
+  <sphereGeometry args={[0.10, 8, 6]} />
+  <meshStandardMaterial color={actualSkinColor} roughness={0.55} metalness={0.01} />
+</mesh>
 
         {/* Face features (eyes, mouth, blush) */}
         <FaceFeatures
