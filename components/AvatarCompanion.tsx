@@ -323,6 +323,7 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
   const mouthCol = face?.mouthColor || '#b06060';
   const eyeType   = face?.eyeType   || 'dot';
   const mouthType = face?.mouthType || 'none';
+  const skinDark = new THREE.Color(skinColor).multiplyScalar(0.82).getStyle();
 
   // ── Eyebrow params per expression ─────────────────────
   const browY =
@@ -349,7 +350,7 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
     side: -1 | 1,
     irisRef: React.RefObject<THREE.Mesh | null>,
     lidRef:  React.RefObject<THREE.Mesh | null>,
-    browRef: React.RefObject<THREE.Mesh | null>,
+    browRef: React.RefObject<THREE.Object3D | null>,
   ) => {
     const x   = side * 0.08;
     const bx  = side * 0.085;
