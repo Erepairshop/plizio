@@ -15,6 +15,8 @@ import {
   ZoomIn,
   ZoomOut,
   Maximize2,
+  RotateCw,
+  Move,
 } from "lucide-react";
 import RoomRenderer from "@/components/room/RoomRenderer";
 import { FURNITURE_DEFS, getFurnitureDef } from "@/components/room/FurnitureRegistry";
@@ -71,6 +73,8 @@ const T: Record<string, Record<string, string>> = {
     owned: "Owned",
     remove: "Remove",
     rotate: "Rotate",
+    move: "Move",
+    tapToMove: "Tap a spot to move here",
     empty: "Tap a spot to place furniture",
     noFurniture: "No furniture yet! Buy some in edit mode.",
     stars: "stars",
@@ -97,6 +101,8 @@ const T: Record<string, Record<string, string>> = {
     owned: "Megvan",
     remove: "Törlés",
     rotate: "Forgatás",
+    move: "Mozgatás",
+    tapToMove: "Koppints a célhelyre",
     empty: "Koppints egy helyre a bútor elhelyezéséhez",
     noFurniture: "Még nincs bútor! Vegyél a szerkesztő módban.",
     stars: "csillag",
@@ -123,6 +129,8 @@ const T: Record<string, Record<string, string>> = {
     owned: "Besitzt",
     remove: "Entfernen",
     rotate: "Drehen",
+    move: "Bewegen",
+    tapToMove: "Tippe auf einen Platz",
     empty: "Tippe auf eine Stelle, um Möbel zu platzieren",
     noFurniture: "Noch keine Möbel! Kaufe welche im Bearbeitungsmodus.",
     stars: "Sterne",
@@ -149,6 +157,8 @@ const T: Record<string, Record<string, string>> = {
     owned: "Deținut",
     remove: "Șterge",
     rotate: "Rotește",
+    move: "Mută",
+    tapToMove: "Atinge un loc pentru a muta",
     empty: "Atinge un loc pentru a plasa mobilierul",
     noFurniture: "Niciun mobilier încă! Cumpără din modul de editare.",
     stars: "stele",
@@ -184,6 +194,8 @@ export default function RoomPage() {
   const [ownedFurnitureIds, setOwnedFurnitureIds] = useState<string[]>([]);
   const [stars, setStars] = useState(0);
   const [selectedFurnitureId, setSelectedFurnitureId] = useState<string | null>(null);
+  const [selectedPlacedIdx, setSelectedPlacedIdx] = useState<number | null>(null);
+  const [movingIdx, setMovingIdx] = useState<number | null>(null);
   const [windowAlpha, setWindowAlpha] = useState(0.3);
   const [confirmBuy, setConfirmBuy] = useState<{ type: "room" | "furniture"; id: string; price: number } | null>(null);
   const [toast, setToast] = useState<string | null>(null);
@@ -415,12 +427,10 @@ export default function RoomPage() {
     setConfirmBuy(null);
   };
 
-  // Place furniture on grid
-  const handleSvgClick = (e: React.MouseEvent<HTMLDivElement>) => {
-    if (!editMode || !selectedFurnitureId || !isOwned) return;
-
+  // Convert click to grid coords
+  const clickToGrid = (e: React.MouseEvent<HTMLDivElement>) => {
     const svg = e.currentTarget.querySelector("svg");
-    if (!svg) return;
+    if (!svg) return null;
 
     const rect = svg.getBoundingClientRect();
     const viewBox = svg.viewBox.baseVal;
@@ -430,24 +440,22 @@ export default function RoomPage() {
     const svgX = (e.clientX - rect.left) * scaleX;
     const svgY = (e.clientY - rect.top) * scaleY;
 
-    // Convert SVG coords to grid coords
-    const originX = roomSize.gridH * 24 + 20; // TILE_W/2 = 24
-    const originY = 120; // wallHeight
+    const oX = roomSize.gridH * 24 + 20;
+    const oY = 120;
+    const relX = svgX - oX;
+    const relY = svgY - oY;
 
-    const relX = svgX - originX;
-    const relY = svgY - originY;
+    return {
+      gx: Math.round((relX / 24 + relY / 12) / 2),
+      gy: Math.round((relY / 12 - relX / 24) / 2),
+    };
+  };
 
-    const gx = Math.round((relX / 24 + relY / 12) / 2);
-    const gy = Math.round((relY / 12 - relX / 24) / 2);
-
-    const fDef = getFurnitureDef(selectedFurnitureId);
-    if (!fDef) return;
-
-    // Check bounds
-    if (gx < 0 || gy < 0 || gx + fDef.gridW > roomSize.gridW || gy + fDef.gridH > roomSize.gridH) return;
-
-    // Check collision with existing furniture
-    const overlaps = furniture.some((placed) => {
+  // Check if a position is valid (bounds + no overlap)
+  const isValidPosition = (gx: number, gy: number, fDef: { gridW: number; gridH: number }, excludeIdx?: number) => {
+    if (gx < 0 || gy < 0 || gx + fDef.gridW > roomSize.gridW || gy + fDef.gridH > roomSize.gridH) return false;
+    return !furniture.some((placed, i) => {
+      if (excludeIdx !== undefined && i === excludeIdx) return false;
       const pDef = getFurnitureDef(placed.furnitureId);
       if (!pDef) return false;
       return (
@@ -457,7 +465,41 @@ export default function RoomPage() {
         gy + fDef.gridH > placed.gridY
       );
     });
-    if (overlaps) {
+  };
+
+  // Place or move furniture on grid
+  const handleSvgClick = (e: React.MouseEvent<HTMLDivElement>) => {
+    if (!editMode || !isOwned) return;
+
+    const grid = clickToGrid(e);
+    if (!grid) return;
+    const { gx, gy } = grid;
+
+    // MOVE MODE: moving an existing furniture piece
+    if (movingIdx !== null) {
+      const moving = furniture[movingIdx];
+      const fDef = getFurnitureDef(moving.furnitureId);
+      if (!fDef) return;
+
+      if (!isValidPosition(gx, gy, fDef, movingIdx)) {
+        showToast(t.overlap || "Can't place here!");
+        return;
+      }
+
+      const newFurniture = [...furniture];
+      newFurniture[movingIdx] = { ...moving, gridX: gx, gridY: gy };
+      setFurniture(newFurniture);
+      saveRoomFurniture(currentRoom.id, newFurniture);
+      setMovingIdx(null);
+      return;
+    }
+
+    // PLACE MODE: placing new furniture from shop
+    if (!selectedFurnitureId) return;
+    const fDef = getFurnitureDef(selectedFurnitureId);
+    if (!fDef) return;
+
+    if (!isValidPosition(gx, gy, fDef)) {
       showToast(t.overlap || "Can't place here!");
       return;
     }
@@ -471,11 +513,36 @@ export default function RoomPage() {
     setSelectedFurnitureId(null);
   };
 
+  // Rotate furniture
+  const handleRotateFurniture = (index: number) => {
+    const newFurniture = [...furniture];
+    const item = newFurniture[index];
+    item.rotation = ((item.rotation || 0) + 1) % 4 as 0 | 1 | 2 | 3;
+    setFurniture(newFurniture);
+    saveRoomFurniture(currentRoom.id, newFurniture);
+  };
+
+  // Start moving furniture
+  const handleStartMove = (index: number) => {
+    setMovingIdx(index);
+    setSelectedFurnitureId(null);
+    setSelectedPlacedIdx(null);
+  };
+
   // Remove furniture
   const handleRemoveFurniture = (index: number) => {
     const newFurniture = furniture.filter((_, i) => i !== index);
     setFurniture(newFurniture);
     saveRoomFurniture(currentRoom.id, newFurniture);
+    setSelectedPlacedIdx(null);
+    setMovingIdx(null);
+  };
+
+  // Handle furniture click in SVG (select placed furniture)
+  const handleFurnitureClick = (index: number) => {
+    if (movingIdx !== null) return; // don't select while moving
+    setSelectedPlacedIdx(selectedPlacedIdx === index ? null : index);
+    setSelectedFurnitureId(null); // deselect shop item
   };
 
   return (
@@ -502,6 +569,8 @@ export default function RoomPage() {
             onClick={() => {
               setEditMode(!editMode);
               setSelectedFurnitureId(null);
+              setSelectedPlacedIdx(null);
+              setMovingIdx(null);
             }}
             className={`px-3 py-1.5 rounded-full text-xs font-medium transition-colors ${
               editMode
@@ -606,7 +675,7 @@ export default function RoomPage() {
                 transformOrigin: "center center",
                 cursor: zoom > 1 ? "grab" : "default",
               }}
-              onClick={editMode && selectedFurnitureId ? handleSvgClick : undefined}
+              onClick={editMode && (selectedFurnitureId || movingIdx !== null) ? handleSvgClick : undefined}
             >
               <RoomRenderer
                 roomType={currentRoom.id}
@@ -615,6 +684,9 @@ export default function RoomPage() {
                 furniture={furniture}
                 windowAlpha={windowAlpha}
                 showGrid={editMode}
+                editMode={editMode}
+                selectedIndex={selectedPlacedIdx}
+                onFurnitureClick={editMode ? handleFurnitureClick : undefined}
               />
             </motion.div>
 
@@ -685,7 +757,7 @@ export default function RoomPage() {
             transition={{ type: "spring", damping: 25 }}
             className="bg-[#12122A]/95 backdrop-blur-md border-t border-white/10 px-3 py-3 max-h-[40vh] overflow-y-auto"
           >
-            {/* Placed furniture (removeable) */}
+            {/* Placed furniture list */}
             {furniture.length > 0 && (
               <div className="mb-3">
                 <p className="text-[10px] text-white/30 uppercase tracking-wider mb-1.5">
@@ -695,18 +767,62 @@ export default function RoomPage() {
                   {furniture.map((f, i) => {
                     const def = getFurnitureDef(f.furnitureId);
                     if (!def) return null;
+                    const isSelected = selectedPlacedIdx === i;
                     return (
                       <button
                         key={i}
-                        onClick={() => handleRemoveFurniture(i)}
-                        className="flex items-center gap-1 px-2 py-1 rounded-lg bg-red-500/10 hover:bg-red-500/20 text-red-300 text-xs transition-colors"
+                        onClick={() => {
+                          setSelectedPlacedIdx(isSelected ? null : i);
+                          setSelectedFurnitureId(null);
+                          setMovingIdx(null);
+                        }}
+                        className={`flex items-center gap-1 px-2 py-1 rounded-lg text-xs transition-colors ${
+                          isSelected
+                            ? "bg-neon-blue/20 border border-neon-blue/40 text-neon-blue"
+                            : "bg-white/5 hover:bg-white/10 text-white/50"
+                        }`}
                       >
                         <span>{def.icon}</span>
-                        <Trash2 size={10} />
+                        <span className="truncate max-w-[60px]">{def.name}</span>
+                        {f.rotation ? <span className="text-[9px] text-white/30">↻{f.rotation}</span> : null}
                       </button>
                     );
                   })}
                 </div>
+                {/* Action buttons for selected placed furniture */}
+                <AnimatePresence>
+                  {selectedPlacedIdx !== null && (
+                    <motion.div
+                      initial={{ height: 0, opacity: 0 }}
+                      animate={{ height: "auto", opacity: 1 }}
+                      exit={{ height: 0, opacity: 0 }}
+                      className="flex gap-2 mt-2 overflow-hidden"
+                    >
+                      <button
+                        onClick={() => handleRotateFurniture(selectedPlacedIdx)}
+                        className="flex items-center gap-1 px-3 py-1.5 rounded-lg bg-neon-purple/15 hover:bg-neon-purple/25 text-neon-purple text-xs transition-colors"
+                      >
+                        <RotateCw size={12} /> {t.rotate}
+                      </button>
+                      <button
+                        onClick={() => handleStartMove(selectedPlacedIdx)}
+                        className={`flex items-center gap-1 px-3 py-1.5 rounded-lg text-xs transition-colors ${
+                          movingIdx === selectedPlacedIdx
+                            ? "bg-neon-green/20 text-neon-green border border-neon-green/30"
+                            : "bg-neon-blue/15 hover:bg-neon-blue/25 text-neon-blue"
+                        }`}
+                      >
+                        <Move size={12} /> {t.move}
+                      </button>
+                      <button
+                        onClick={() => handleRemoveFurniture(selectedPlacedIdx)}
+                        className="flex items-center gap-1 px-3 py-1.5 rounded-lg bg-red-500/15 hover:bg-red-500/25 text-red-400 text-xs transition-colors"
+                      >
+                        <Trash2 size={12} /> {t.remove}
+                      </button>
+                    </motion.div>
+                  )}
+                </AnimatePresence>
               </div>
             )}
 
@@ -747,7 +863,10 @@ export default function RoomPage() {
               })}
             </div>
 
-            {selectedFurnitureId && (
+            {movingIdx !== null && (
+              <p className="text-xs text-neon-green/60 text-center mt-2">{t.tapToMove}</p>
+            )}
+            {selectedFurnitureId && movingIdx === null && (
               <p className="text-xs text-neon-blue/60 text-center mt-2">{t.empty}</p>
             )}
           </motion.div>
