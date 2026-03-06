@@ -588,15 +588,15 @@ export default function RoomPage() {
     setPan({ x: 0, y: 0 });
   }, []);
 
-  // Wheel zoom
-  const handleWheel = useCallback((e: React.WheelEvent) => {
-    e.preventDefault();
-    setZoom(z => {
-      const nz = Math.min(Math.max(z - e.deltaY * 0.002, MIN_ZOOM), MAX_ZOOM);
-      if (nz === MIN_ZOOM) setPan({ x: 0, y: 0 });
-      return nz;
-    });
-  }, []);
+  // Helper: max pan limits based on current container size
+  const getMaxPan = useCallback(() => {
+    const el = roomContainerRef.current;
+    if (!el) return { x: 0, y: 0 };
+    return {
+      x: el.clientWidth * (zoom - 1) / 2,
+      y: el.clientHeight * (zoom - 1) / 2,
+    };
+  }, [zoom]);
 
   // Touch pan & pinch zoom (with drag threshold so taps still register as clicks)
   const handleTouchStart = useCallback((e: React.TouchEvent) => {
@@ -636,10 +636,10 @@ export default function RoomPage() {
       if (moved > DRAG_THRESHOLD) {
         isPanningRef.current = true;
         didDragRef.current = true;
-        const maxPan = (zoom - 1) * 150;
+        const mp = getMaxPan();
         setPan({
-          x: Math.min(Math.max(panStartRef.current.panX + dx, -maxPan), maxPan),
-          y: Math.min(Math.max(panStartRef.current.panY + dy, -maxPan), maxPan),
+          x: Math.min(Math.max(panStartRef.current.panX + dx, -mp.x), mp.x),
+          y: Math.min(Math.max(panStartRef.current.panY + dy, -mp.y), mp.y),
         });
       }
     }
@@ -671,16 +671,74 @@ export default function RoomPage() {
     const moved = Math.sqrt(dx * dx + dy * dy);
     if (moved <= DRAG_THRESHOLD) return; // not a drag yet
     didDragRef.current = true;
-    const maxPan = (zoom - 1) * 150;
+    const mp = getMaxPan();
     setPan({
-      x: Math.min(Math.max(panStartRef.current.panX + dx, -maxPan), maxPan),
-      y: Math.min(Math.max(panStartRef.current.panY + dy, -maxPan), maxPan),
+      x: Math.min(Math.max(panStartRef.current.panX + dx, -mp.x), mp.x),
+      y: Math.min(Math.max(panStartRef.current.panY + dy, -mp.y), mp.y),
     });
-  }, [zoom]);
+  }, [zoom, getMaxPan]);
 
   const handleMouseUp = useCallback(() => {
     isPanningRef.current = false;
   }, []);
+
+  // ── Native wheel & touchmove listeners (passive:false szükséges, React passzív listenereket regisztrál) ──
+  useEffect(() => {
+    const el = roomContainerRef.current;
+    const owned = ownedRooms.includes(ROOMS[currentRoomIdx].id);
+    if (!el || !owned) return;
+
+    const onWheel = (e: WheelEvent) => {
+      e.preventDefault();
+      const rect = el.getBoundingClientRect();
+      // Kurzor pozíciója a container közepéhez képest
+      const cx = e.clientX - rect.left - rect.width / 2;
+      const cy = e.clientY - rect.top - rect.height / 2;
+      setZoom(z => {
+        const nz = Math.min(Math.max(z - e.deltaY * 0.002, MIN_ZOOM), MAX_ZOOM);
+        if (nz <= MIN_ZOOM) {
+          setPan({ x: 0, y: 0 });
+        } else {
+          // Zoom a kurzor irányába: a kurzor alatt lévő pont ugyanott marad
+          const factor = nz / z;
+          const maxX = rect.width * (nz - 1) / 2;
+          const maxY = rect.height * (nz - 1) / 2;
+          setPan(p => ({
+            x: Math.min(Math.max(cx - (cx - p.x) * factor, -maxX), maxX),
+            y: Math.min(Math.max(cy - (cy - p.y) * factor, -maxY), maxY),
+          }));
+        }
+        return nz;
+      });
+    };
+
+    const onTouchMove = (e: TouchEvent) => {
+      // Pinch zoom vagy aktív pan esetén megakadályozzuk az oldal görgetését
+      if (e.touches.length >= 2 || isPanningRef.current) {
+        e.preventDefault();
+      }
+    };
+
+    el.addEventListener("wheel", onWheel, { passive: false });
+    el.addEventListener("touchmove", onTouchMove, { passive: false });
+    return () => {
+      el.removeEventListener("wheel", onWheel);
+      el.removeEventListener("touchmove", onTouchMove);
+    };
+  }, [ownedRooms, currentRoomIdx]);
+
+  // ── Pan visszaclampolás zoom változáskor (pl. gombbal kicsinyítve) ──
+  useEffect(() => {
+    if (zoom <= MIN_ZOOM) return;
+    const el = roomContainerRef.current;
+    if (!el) return;
+    const maxX = el.clientWidth * (zoom - 1) / 2;
+    const maxY = el.clientHeight * (zoom - 1) / 2;
+    setPan(p => ({
+      x: Math.min(Math.max(p.x, -maxX), maxX),
+      y: Math.min(Math.max(p.y, -maxY), maxY),
+    }));
+  }, [zoom]);
 
   // Reset zoom and avatar position on room change
   useEffect(() => {
@@ -1207,7 +1265,6 @@ export default function RoomPage() {
       <div
         className="flex-1 flex items-center justify-center px-2 pb-2 overflow-hidden relative"
         ref={roomContainerRef}
-        onWheel={isOwned ? handleWheel : undefined}
         onTouchStart={isOwned ? handleTouchStart : undefined}
         onTouchMove={isOwned ? handleTouchMove : undefined}
         onTouchEnd={isOwned ? handleTouchEnd : undefined}
@@ -1215,7 +1272,7 @@ export default function RoomPage() {
         onMouseMove={isOwned ? handleMouseMove : undefined}
         onMouseUp={isOwned ? handleMouseUp : undefined}
         onMouseLeave={isOwned ? handleMouseUp : undefined}
-        style={{ touchAction: zoom > 1 ? "none" : "pan-y" }}
+        style={{ touchAction: isOwned ? "none" : "auto" }}
       >
         {isOwned ? (
           <>
