@@ -36,6 +36,17 @@ import {
 } from "@/lib/room";
 import { getSpecialCardCount, spendSpecialCards } from "@/lib/specialCards";
 import { useLang } from "@/components/LanguageProvider";
+import dynamic from "next/dynamic";
+import { getInteractionsForFurniture, INTERACTION_NAMES, type FurnitureInteraction } from "@/lib/roomInteractions";
+import { getGender, type AvatarGender } from "@/lib/gender";
+import { getSkinDef, getActiveSkin } from "@/lib/skins";
+import { getFaceDef, getActiveFace } from "@/lib/faces";
+import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
+import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
+import type { AvatarCompanionProps } from "@/components/AvatarCompanion";
+import { gridToScreen, TILE_W, TILE_H } from "@/components/room/IsoRoom";
+
+const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion").then(m => ({ default: m.default })), { ssr: false });
 
 // ─── Room definitions ───
 interface RoomDef {
@@ -181,6 +192,130 @@ function getDayNightAlpha(): number {
   return 0.3; // dawn 5-7
 }
 
+// ─── Avatar in Room component ───
+interface AvatarInRoomProps {
+  roomContainerRef: React.RefObject<HTMLDivElement | null>;
+  avatarGridPos: { gx: number; gy: number };
+  roomSize: { gridW: number; gridH: number };
+  zoom: number;
+  pan: { x: number; y: number };
+  mood: AvatarCompanionProps["mood"];
+  reaction: { reaction: "wave" | "dance" | "spin" | "happy" | "surprised" | "confused" | "laughing" | "victory" | null; timestamp: number };
+  isWalking: boolean;
+  activeInteraction: string | null;
+  gender: AvatarGender;
+  activeSkin: ReturnType<typeof getSkinDef> | null;
+  activeFace: ReturnType<typeof getFaceDef> | null;
+  activeTop: ReturnType<typeof getTopDef> | null;
+  activeBottom: ReturnType<typeof getBottomDef> | null;
+  activeShoe: ReturnType<typeof getShoeDef> | null;
+  activeCape: ReturnType<typeof getCapeDef> | null;
+  activeGlasses: ReturnType<typeof getGlassesDef> | null;
+  activeGloves: ReturnType<typeof getGloveDef> | null;
+  activeHat: ReturnType<typeof getHatDef> | null;
+  activeTrail: ReturnType<typeof getTrailDef> | null;
+}
+
+function AvatarInRoom({
+  roomContainerRef,
+  avatarGridPos,
+  roomSize,
+  zoom,
+  pan,
+  mood,
+  reaction,
+  isWalking,
+  activeInteraction,
+  gender,
+  activeSkin,
+  activeFace,
+  activeTop,
+  activeBottom,
+  activeShoe,
+  activeCape,
+  activeGlasses,
+  activeGloves,
+  activeHat,
+  activeTrail,
+}: AvatarInRoomProps) {
+  const [pos, setPos] = useState({ left: 0, top: 0 });
+  const containerRef = useRef<HTMLDivElement>(null);
+
+  // Calculate avatar position based on SVG grid
+  useEffect(() => {
+    const update = () => {
+      const svg = roomContainerRef.current?.querySelector("svg");
+      const container = roomContainerRef.current;
+      if (!svg || !container) return;
+
+      const svgRect = svg.getBoundingClientRect();
+      const containerRect = container.getBoundingClientRect();
+      const viewBox = svg.viewBox.baseVal;
+
+      const oX = roomSize.gridH * (TILE_W / 2) + 20;
+      const oY = 120;
+      const { x: sx, y: sy } = gridToScreen(avatarGridPos.gx, avatarGridPos.gy, oX, oY);
+
+      // SVG coord → DOM coord (relative to container)
+      const domX = svgRect.left + (sx / viewBox.width) * svgRect.width - containerRect.left;
+      const domY = svgRect.top + (sy / viewBox.height) * svgRect.height - containerRect.top;
+
+      setPos({ left: domX, top: domY });
+    };
+
+    update();
+    // Recalculate on resize
+    window.addEventListener("resize", update);
+    return () => window.removeEventListener("resize", update);
+  }, [avatarGridPos, roomSize, roomContainerRef, zoom, pan]);
+
+  const avatarSize = 56; // px
+
+  return (
+    <div
+      ref={containerRef}
+      className="absolute pointer-events-none z-20"
+      style={{
+        left: pos.left - avatarSize / 2,
+        top: pos.top - avatarSize - 4,
+        width: avatarSize,
+        height: avatarSize,
+        transition: "left 0.6s ease-in-out, top 0.6s ease-in-out",
+      }}
+    >
+      <div className="w-full h-full">
+        <AvatarCompanion
+          fixed={false}
+          mood={mood}
+          gender={gender}
+          activeSkin={activeSkin}
+          activeFace={activeFace}
+          activeTop={activeTop}
+          activeBottom={activeBottom}
+          activeShoe={activeShoe}
+          activeCape={activeCape}
+          activeGlasses={activeGlasses}
+          activeGloves={activeGloves}
+          activeHat={activeHat}
+          activeTrail={activeTrail}
+          jumpTrigger={reaction}
+        />
+      </div>
+      {/* Walking indicator */}
+      {isWalking && (
+        <div className="absolute -bottom-1 left-1/2 -translate-x-1/2">
+          <div className="w-1 h-1 rounded-full bg-white/30 animate-pulse" />
+        </div>
+      )}
+      {/* Shadow */}
+      <div
+        className="absolute -bottom-2 left-1/2 -translate-x-1/2 rounded-full bg-black/15"
+        style={{ width: avatarSize * 0.6, height: avatarSize * 0.15 }}
+      />
+    </div>
+  );
+}
+
 // ─── Main component ───
 export default function RoomPage() {
   const { lang } = useLang();
@@ -199,6 +334,27 @@ export default function RoomPage() {
   const [windowAlpha, setWindowAlpha] = useState(0.3);
   const [confirmBuy, setConfirmBuy] = useState<{ type: "room" | "furniture"; id: string; price: number } | null>(null);
   const [toast, setToast] = useState<string | null>(null);
+
+  // ─── Avatar state ───
+  const [gender] = useState<AvatarGender>(() => (typeof window !== "undefined" ? getGender() : "male") as AvatarGender);
+  const [activeSkin] = useState(() => typeof window !== "undefined" ? getSkinDef(getActiveSkin()) : null);
+  const [activeFace] = useState(() => typeof window !== "undefined" ? getFaceDef(getActiveFace()) : null);
+  const [activeTop] = useState(() => { if (typeof window === "undefined") return null; const id = getActive("top"); return id ? getTopDef(id) : null; });
+  const [activeBottom] = useState(() => { if (typeof window === "undefined") return null; const id = getActive("bottom"); return id ? getBottomDef(id) : null; });
+  const [activeShoe] = useState(() => { if (typeof window === "undefined") return null; const id = getActive("shoe"); return id ? getShoeDef(id) : null; });
+  const [activeCape] = useState(() => { if (typeof window === "undefined") return null; const id = getActive("cape"); return id ? getCapeDef(id) : null; });
+  const [activeGlasses] = useState(() => { if (typeof window === "undefined") return null; const id = getActive("glasses"); return id ? getGlassesDef(id) : null; });
+  const [activeGloves] = useState(() => { if (typeof window === "undefined") return null; const id = getActive("gloves"); return id ? getGloveDef(id) : null; });
+  const [activeHat] = useState(() => { if (typeof window === "undefined") return null; const id = getActiveHat(); return id ? getHatDef(id) : null; });
+  const [activeTrail] = useState(() => { if (typeof window === "undefined") return null; const id = getActiveTrail(); return id ? getTrailDef(id) : null; });
+
+  const [avatarGridPos, setAvatarGridPos] = useState({ gx: 3, gy: 3 });
+  const [avatarMood, setAvatarMood] = useState<AvatarCompanionProps["mood"]>("idle");
+  const [avatarReaction, setAvatarReaction] = useState<{ reaction: "wave" | "dance" | "spin" | "happy" | "surprised" | "confused" | "laughing" | "victory" | null; timestamp: number }>({ reaction: null, timestamp: 0 });
+  const [isWalking, setIsWalking] = useState(false);
+  const [interactionMenu, setInteractionMenu] = useState<{ furnitureIdx: number; screenX: number; screenY: number } | null>(null);
+  const [activeInteraction, setActiveInteraction] = useState<string | null>(null);
+  const interactionTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   // ─── Zoom / Pan state ───
   const MIN_ZOOM = 1;
@@ -538,12 +694,118 @@ export default function RoomPage() {
     setMovingIdx(null);
   };
 
-  // Handle furniture click in SVG (select placed furniture)
+  // Handle furniture click in SVG (select placed furniture or show interaction)
   const handleFurnitureClick = (index: number) => {
-    if (movingIdx !== null) return; // don't select while moving
-    setSelectedPlacedIdx(selectedPlacedIdx === index ? null : index);
-    setSelectedFurnitureId(null); // deselect shop item
+    if (movingIdx !== null) return;
+
+    if (editMode) {
+      // Edit mode: select for rotate/move/remove
+      setSelectedPlacedIdx(selectedPlacedIdx === index ? null : index);
+      setSelectedFurnitureId(null);
+      return;
+    }
+
+    // Normal mode: show interaction menu
+    const item = furniture[index];
+    const interactions = getInteractionsForFurniture(item.furnitureId);
+    if (interactions.length === 0) return;
+
+    // Get screen position of furniture for menu positioning
+    const svg = roomContainerRef.current?.querySelector("svg");
+    if (!svg) return;
+    const rect = svg.getBoundingClientRect();
+    const viewBox = svg.viewBox.baseVal;
+    const oX = roomSize.gridH * 24 + 20;
+    const oY = 120;
+    const { x: sx, y: sy } = gridToScreen(item.gridX, item.gridY, oX, oY);
+    const screenX = rect.left + (sx / viewBox.width) * rect.width;
+    const screenY = rect.top + (sy / viewBox.height) * rect.height;
+
+    setInteractionMenu({ furnitureIdx: index, screenX, screenY });
   };
+
+  // Handle interaction selection
+  const handleInteraction = (furnitureIdx: number, interaction: FurnitureInteraction) => {
+    setInteractionMenu(null);
+    const item = furniture[furnitureIdx];
+
+    // Walk to furniture
+    setIsWalking(true);
+    setAvatarMood("focused");
+    const targetGx = Math.max(0, item.gridX - 1);
+    const targetGy = item.gridY;
+    setAvatarGridPos({ gx: targetGx, gy: targetGy });
+
+    // After walking, perform interaction
+    const walkDuration = 800;
+    setTimeout(() => {
+      setIsWalking(false);
+      setAvatarMood(interaction.mood);
+      setActiveInteraction(interaction.id);
+
+      if (interaction.reaction) {
+        setAvatarReaction({ reaction: interaction.reaction, timestamp: Date.now() });
+      }
+
+      // End interaction after duration
+      if (interactionTimerRef.current) clearTimeout(interactionTimerRef.current);
+      interactionTimerRef.current = setTimeout(() => {
+        setAvatarMood("idle");
+        setActiveInteraction(null);
+      }, interaction.duration);
+    }, walkDuration);
+  };
+
+  // Close interaction menu
+  const closeInteractionMenu = useCallback(() => {
+    setInteractionMenu(null);
+  }, []);
+
+  // Handle click on empty floor (walk there)
+  const handleFloorClick = (e: React.MouseEvent<HTMLDivElement>) => {
+    if (editMode || interactionMenu) return;
+
+    const grid = clickToGrid(e);
+    if (!grid) return;
+    const { gx, gy } = grid;
+
+    // Check bounds
+    if (gx < 0 || gy < 0 || gx >= roomSize.gridW || gy >= roomSize.gridH) return;
+
+    // Check not on furniture
+    const onFurniture = furniture.some((placed) => {
+      const pDef = getFurnitureDef(placed.furnitureId);
+      if (!pDef) return false;
+      return gx >= placed.gridX && gx < placed.gridX + pDef.gridW &&
+             gy >= placed.gridY && gy < placed.gridY + pDef.gridH;
+    });
+    if (onFurniture) return;
+
+    // Walk there
+    setAvatarGridPos({ gx, gy });
+    setIsWalking(true);
+    setActiveInteraction(null);
+    setAvatarMood("idle");
+    setTimeout(() => setIsWalking(false), 600);
+  };
+
+  // Calculate avatar screen position for overlay
+  const getAvatarScreenPos = useCallback(() => {
+    const svg = roomContainerRef.current?.querySelector("svg");
+    if (!svg) return { left: 0, top: 0 };
+    const rect = svg.getBoundingClientRect();
+    const viewBox = svg.viewBox.baseVal;
+    const oX = roomSize.gridH * 24 + 20;
+    const oY = 120;
+    const { x: sx, y: sy } = gridToScreen(avatarGridPos.gx, avatarGridPos.gy, oX, oY);
+    return {
+      left: rect.left + (sx / viewBox.width) * rect.width,
+      top: rect.top + (sy / viewBox.height) * rect.height,
+    };
+  }, [avatarGridPos, roomSize.gridH]);
+
+  // Interaction name helper
+  const iNames = INTERACTION_NAMES[lang] || INTERACTION_NAMES.en;
 
   return (
     <div className="min-h-screen bg-[#0A0A1A] text-white flex flex-col">
@@ -675,7 +937,9 @@ export default function RoomPage() {
                 transformOrigin: "center center",
                 cursor: zoom > 1 ? "grab" : "default",
               }}
-              onClick={editMode && (selectedFurnitureId || movingIdx !== null) ? handleSvgClick : undefined}
+              onClick={editMode && (selectedFurnitureId || movingIdx !== null)
+                ? handleSvgClick
+                : !editMode ? handleFloorClick : undefined}
             >
               <RoomRenderer
                 roomType={currentRoom.id}
@@ -686,7 +950,7 @@ export default function RoomPage() {
                 showGrid={editMode}
                 editMode={editMode}
                 selectedIndex={selectedPlacedIdx}
-                onFurnitureClick={editMode ? handleFurnitureClick : undefined}
+                onFurnitureClick={handleFurnitureClick}
               />
             </motion.div>
 
@@ -720,6 +984,81 @@ export default function RoomPage() {
             {zoom > 1 && (
               <div className="absolute top-2 left-1/2 -translate-x-1/2 px-2 py-0.5 rounded-full bg-black/50 text-white/50 text-[10px] font-mono z-10">
                 {Math.round(zoom * 100)}%
+              </div>
+            )}
+
+            {/* Avatar overlay — positioned on top of SVG */}
+            {!editMode && (
+              <AvatarInRoom
+                roomContainerRef={roomContainerRef}
+                avatarGridPos={avatarGridPos}
+                roomSize={roomSize}
+                zoom={zoom}
+                pan={pan}
+                mood={avatarMood}
+                reaction={avatarReaction}
+                isWalking={isWalking}
+                activeInteraction={activeInteraction}
+                gender={gender}
+                activeSkin={activeSkin}
+                activeFace={activeFace}
+                activeTop={activeTop}
+                activeBottom={activeBottom}
+                activeShoe={activeShoe}
+                activeCape={activeCape}
+                activeGlasses={activeGlasses}
+                activeGloves={activeGloves}
+                activeHat={activeHat}
+                activeTrail={activeTrail}
+              />
+            )}
+
+            {/* Interaction menu popup */}
+            <AnimatePresence>
+              {interactionMenu && !editMode && (() => {
+                const item = furniture[interactionMenu.furnitureIdx];
+                const interactions = getInteractionsForFurniture(item.furnitureId);
+                const fDef = getFurnitureDef(item.furnitureId);
+                return (
+                  <motion.div
+                    key="interaction-menu"
+                    initial={{ opacity: 0, scale: 0.8 }}
+                    animate={{ opacity: 1, scale: 1 }}
+                    exit={{ opacity: 0, scale: 0.8 }}
+                    className="fixed z-50 bg-[#1A1A3A]/95 backdrop-blur-md rounded-xl border border-white/10 p-2 shadow-lg"
+                    style={{
+                      left: Math.min(interactionMenu.screenX - 60, window.innerWidth - 160),
+                      top: Math.max(interactionMenu.screenY - 80, 10),
+                    }}
+                  >
+                    <div className="text-[10px] text-white/30 px-2 pb-1 mb-1 border-b border-white/5">
+                      {fDef?.icon} {fDef?.name}
+                    </div>
+                    {interactions.map((inter) => (
+                      <button
+                        key={inter.id}
+                        onClick={() => handleInteraction(interactionMenu.furnitureIdx, inter)}
+                        className="w-full flex items-center gap-2 px-2 py-1.5 rounded-lg hover:bg-white/10 transition-colors text-left text-xs"
+                      >
+                        <span className="text-base">{inter.icon}</span>
+                        <span>{iNames[inter.nameKey] || inter.nameKey}</span>
+                      </button>
+                    ))}
+                    <button
+                      onClick={closeInteractionMenu}
+                      className="w-full text-[10px] text-white/30 hover:text-white/50 mt-1 py-0.5 transition-colors"
+                    >
+                      ✕
+                    </button>
+                  </motion.div>
+                );
+              })()}
+            </AnimatePresence>
+
+            {/* Active interaction indicator */}
+            {activeInteraction && (
+              <div className="absolute bottom-3 right-3 px-3 py-1.5 rounded-full bg-neon-purple/20 text-neon-purple text-xs border border-neon-purple/20 z-10">
+                {iNames[activeInteraction] || activeInteraction}...
               </div>
             )}
           </>
