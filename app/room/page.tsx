@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect, useCallback, useMemo } from "react";
+import React, { useState, useEffect, useCallback, useMemo, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Link from "next/link";
 import {
@@ -12,6 +12,9 @@ import {
   Trash2,
   Lock,
   Star,
+  ZoomIn,
+  ZoomOut,
+  Maximize2,
 } from "lucide-react";
 import RoomRenderer from "@/components/room/RoomRenderer";
 import { FURNITURE_DEFS, getFurnitureDef } from "@/components/room/FurnitureRegistry";
@@ -176,6 +179,120 @@ export default function RoomPage() {
   const [windowAlpha, setWindowAlpha] = useState(0.3);
   const [confirmBuy, setConfirmBuy] = useState<{ type: "room" | "furniture"; id: string; price: number } | null>(null);
   const [toast, setToast] = useState<string | null>(null);
+
+  // ─── Zoom / Pan state ───
+  const MIN_ZOOM = 1;
+  const MAX_ZOOM = 3;
+  const [zoom, setZoom] = useState(1);
+  const [pan, setPan] = useState({ x: 0, y: 0 });
+  const isPanningRef = useRef(false);
+  const panStartRef = useRef({ x: 0, y: 0, panX: 0, panY: 0 });
+  const lastPinchDistRef = useRef(0);
+  const roomContainerRef = useRef<HTMLDivElement>(null);
+
+  // Zoom button handlers
+  const handleZoomIn = useCallback(() => {
+    setZoom(z => Math.min(z + 0.5, MAX_ZOOM));
+  }, []);
+  const handleZoomOut = useCallback(() => {
+    setZoom(z => {
+      const nz = Math.max(z - 0.5, MIN_ZOOM);
+      if (nz === MIN_ZOOM) setPan({ x: 0, y: 0 });
+      return nz;
+    });
+  }, []);
+  const handleZoomReset = useCallback(() => {
+    setZoom(1);
+    setPan({ x: 0, y: 0 });
+  }, []);
+
+  // Wheel zoom
+  const handleWheel = useCallback((e: React.WheelEvent) => {
+    e.preventDefault();
+    setZoom(z => {
+      const nz = Math.min(Math.max(z - e.deltaY * 0.002, MIN_ZOOM), MAX_ZOOM);
+      if (nz === MIN_ZOOM) setPan({ x: 0, y: 0 });
+      return nz;
+    });
+  }, []);
+
+  // Touch pan & pinch zoom
+  const handleTouchStart = useCallback((e: React.TouchEvent) => {
+    if (e.touches.length === 2) {
+      const dx = e.touches[0].clientX - e.touches[1].clientX;
+      const dy = e.touches[0].clientY - e.touches[1].clientY;
+      lastPinchDistRef.current = Math.sqrt(dx * dx + dy * dy);
+    } else if (e.touches.length === 1 && zoom > 1) {
+      isPanningRef.current = true;
+      panStartRef.current = {
+        x: e.touches[0].clientX,
+        y: e.touches[0].clientY,
+        panX: pan.x,
+        panY: pan.y,
+      };
+    }
+  }, [zoom, pan]);
+
+  const handleTouchMove = useCallback((e: React.TouchEvent) => {
+    if (e.touches.length === 2) {
+      e.preventDefault();
+      const dx = e.touches[0].clientX - e.touches[1].clientX;
+      const dy = e.touches[0].clientY - e.touches[1].clientY;
+      const dist = Math.sqrt(dx * dx + dy * dy);
+      if (lastPinchDistRef.current > 0) {
+        const scale = dist / lastPinchDistRef.current;
+        setZoom(z => Math.min(Math.max(z * scale, MIN_ZOOM), MAX_ZOOM));
+      }
+      lastPinchDistRef.current = dist;
+    } else if (e.touches.length === 1 && isPanningRef.current && zoom > 1) {
+      const dx = e.touches[0].clientX - panStartRef.current.x;
+      const dy = e.touches[0].clientY - panStartRef.current.y;
+      const maxPan = (zoom - 1) * 150;
+      setPan({
+        x: Math.min(Math.max(panStartRef.current.panX + dx, -maxPan), maxPan),
+        y: Math.min(Math.max(panStartRef.current.panY + dy, -maxPan), maxPan),
+      });
+    }
+  }, [zoom]);
+
+  const handleTouchEnd = useCallback(() => {
+    isPanningRef.current = false;
+    lastPinchDistRef.current = 0;
+    setZoom(z => {
+      if (z < MIN_ZOOM) { setPan({ x: 0, y: 0 }); return MIN_ZOOM; }
+      return z;
+    });
+  }, []);
+
+  // Mouse drag pan (desktop)
+  const handleMouseDown = useCallback((e: React.MouseEvent) => {
+    if (zoom <= 1) return;
+    // Don't pan if clicking furniture in edit mode
+    if (editMode && selectedFurnitureId) return;
+    isPanningRef.current = true;
+    panStartRef.current = { x: e.clientX, y: e.clientY, panX: pan.x, panY: pan.y };
+  }, [zoom, pan, editMode, selectedFurnitureId]);
+
+  const handleMouseMove = useCallback((e: React.MouseEvent) => {
+    if (!isPanningRef.current || zoom <= 1) return;
+    const dx = e.clientX - panStartRef.current.x;
+    const dy = e.clientY - panStartRef.current.y;
+    const maxPan = (zoom - 1) * 150;
+    setPan({
+      x: Math.min(Math.max(panStartRef.current.panX + dx, -maxPan), maxPan),
+      y: Math.min(Math.max(panStartRef.current.panY + dy, -maxPan), maxPan),
+    });
+  }, [zoom]);
+
+  const handleMouseUp = useCallback(() => {
+    isPanningRef.current = false;
+  }, []);
+
+  // Reset zoom on room change
+  useEffect(() => {
+    setZoom(1);
+    setPan({ x: 0, y: 0 });
+  }, [currentRoomIdx]);
 
   const currentRoom = ROOMS[currentRoomIdx];
   const isOwned = ownedRooms.includes(currentRoom.id);
@@ -405,25 +522,78 @@ export default function RoomPage() {
       </div>
 
       {/* Room view */}
-      <div className="flex-1 flex items-center justify-center px-2 pb-2 overflow-hidden">
+      <div
+        className="flex-1 flex items-center justify-center px-2 pb-2 overflow-hidden relative"
+        ref={roomContainerRef}
+        onWheel={isOwned ? handleWheel : undefined}
+        onTouchStart={isOwned ? handleTouchStart : undefined}
+        onTouchMove={isOwned ? handleTouchMove : undefined}
+        onTouchEnd={isOwned ? handleTouchEnd : undefined}
+        onMouseDown={isOwned ? handleMouseDown : undefined}
+        onMouseMove={isOwned ? handleMouseMove : undefined}
+        onMouseUp={isOwned ? handleMouseUp : undefined}
+        onMouseLeave={isOwned ? handleMouseUp : undefined}
+        style={{ touchAction: zoom > 1 ? "none" : "pan-y" }}
+      >
         {isOwned ? (
-          <motion.div
-            key={currentRoom.id}
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ duration: 0.3 }}
-            className="w-full flex items-center justify-center max-w-lg"
-            onClick={editMode && selectedFurnitureId ? handleSvgClick : undefined}
-          >
-            <RoomRenderer
-              roomType={currentRoom.id}
-              gridW={currentRoom.gridW}
-              gridH={currentRoom.gridH}
-              furniture={furniture}
-              windowAlpha={windowAlpha}
-              showGrid={editMode}
-            />
-          </motion.div>
+          <>
+            <motion.div
+              key={currentRoom.id}
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ duration: 0.3 }}
+              className="w-full flex items-center justify-center max-w-lg"
+              style={{
+                transform: `scale(${zoom}) translate(${pan.x / zoom}px, ${pan.y / zoom}px)`,
+                transformOrigin: "center center",
+                cursor: zoom > 1 ? "grab" : "default",
+              }}
+              onClick={editMode && selectedFurnitureId ? handleSvgClick : undefined}
+            >
+              <RoomRenderer
+                roomType={currentRoom.id}
+                gridW={currentRoom.gridW}
+                gridH={currentRoom.gridH}
+                furniture={furniture}
+                windowAlpha={windowAlpha}
+                showGrid={editMode}
+              />
+            </motion.div>
+
+            {/* Zoom controls */}
+            <div className="absolute bottom-3 left-3 flex flex-col gap-1.5 z-10">
+              <button
+                onClick={handleZoomIn}
+                disabled={zoom >= MAX_ZOOM}
+                className="w-8 h-8 flex items-center justify-center rounded-lg bg-white/10 text-white/60 hover:bg-white/20 hover:text-white transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
+              >
+                <ZoomIn size={16} />
+              </button>
+              <button
+                onClick={handleZoomOut}
+                disabled={zoom <= MIN_ZOOM}
+                className="w-8 h-8 flex items-center justify-center rounded-lg bg-white/10 text-white/60 hover:bg-white/20 hover:text-white transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
+              >
+                <ZoomOut size={16} />
+              </button>
+              {zoom > 1 && (
+                <button
+                  onClick={handleZoomReset}
+                  className="w-8 h-8 flex items-center justify-center rounded-lg bg-white/10 text-white/60 hover:bg-white/20 hover:text-white transition-colors"
+                >
+                  <Maximize2 size={14} />
+                </button>
+              )}
+            </div>
+
+            {/* Zoom indicator */}
+            {zoom > 1 && (
+              <div className="absolute top-2 left-1/2 -translate-x-1/2 px-2 py-0.5 rounded-full bg-black/50 text-white/50 text-[10px] font-mono z-10">
+                {Math.round(zoom * 100)}%
+              </div>
+            )}
+          </>
+
         ) : (
           /* Locked room view */
           <motion.div
