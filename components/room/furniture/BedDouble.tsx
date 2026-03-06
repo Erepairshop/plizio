@@ -13,6 +13,12 @@ export default function BedDouble({ x, y }: FurnitureProps) {
       <path d="M 36,-12 L 36,-24 L 0,-6 L 0,6 Z"  fill="#5A3E28" />
       <path d="M -36,-12 L -36,-24 L 0,-6 L 0,6 Z" fill="#7B5E42" />
 
+      {/* Fejtámla — ELŐBB rajzolva, a matrac mögé kerül */}
+      <path d="M -36,-34 L -36,-54 L 0,-70 L 0,-50 Z" fill="#7B5E42" />
+      <path d="M 0,-70 L 36,-54 L 36,-34 L 0,-50 Z"   fill="#5A3E28" />
+      <path d="M -36,-54 L 0,-70 L 36,-54 Z"           fill="#8B6B4A" />
+      <path d="M -8,-52 L 8,-60 L 10,-58 L -6,-50 Z" fill="rgba(255,255,255,0.06)" />
+
       {/* Matrac felső lap (krém, ±36 széles) */}
       <path d="M 0,-18 L 36,-34 L 0,-50 L -36,-34 Z" fill="#EDD5A8" />
 
@@ -28,13 +34,6 @@ export default function BedDouble({ x, y }: FurnitureProps) {
       <path d="M -22,-43 L -8,-51 L -6,-52 L -20,-44 Z" fill="rgba(255,255,255,0.22)" />
       <path d="M 4,-43  L 18,-51 L 24,-48 L 10,-40 Z" fill="#F5F0E8" />
       <path d="M 4,-43  L 18,-51 L 20,-52 L 6,-44 Z"  fill="rgba(255,255,255,0.22)" />
-
-      {/* Fejtámla */}
-      <path d="M -36,-24 L -36,-46 L 0,-62 L 0,-40 Z" fill="#7B5E42" />
-      <path d="M 0,-40  L 36,-24 L 36,-46 L 0,-62 Z"  fill="#5A3E28" />
-      <path d="M -36,-46 L 0,-62 L 36,-46 L 0,-30 Z"  fill="#8B6B4A" />
-      {/* Highlight */}
-      <path d="M -8,-44 L 8,-52 L 10,-50 L -6,-42 Z" fill="rgba(255,255,255,0.06)" />
     </g>
   );
 }
