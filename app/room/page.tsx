@@ -866,14 +866,16 @@ export default function RoomPage() {
 
     const grid = clickToGrid(e);
     if (!grid) return;
-    const gx = Math.round(grid.gx);
-    const gy = Math.round(grid.gy);
+    const rawGx = Math.round(grid.gx);
+    const rawGy = Math.round(grid.gy);
 
     // MOVE MODE: moving an existing furniture piece
     if (movingIdx !== null) {
       const moving = furniture[movingIdx];
       const fDef = getFurnitureDef(moving.furnitureId);
       if (!fDef) return;
+      const gx = Math.max(0, Math.min(roomSize.gridW - fDef.gridW, rawGx));
+      const gy = Math.max(0, Math.min(roomSize.gridH - fDef.gridH, rawGy));
 
       if (!isValidPosition(gx, gy, fDef, movingIdx)) {
         showToast(t.overlap || "Can't place here!");
@@ -892,6 +894,8 @@ export default function RoomPage() {
     if (!selectedFurnitureId) return;
     const fDef = getFurnitureDef(selectedFurnitureId);
     if (!fDef) return;
+    const gx = Math.max(0, Math.min(roomSize.gridW - fDef.gridW, rawGx));
+    const gy = Math.max(0, Math.min(roomSize.gridH - fDef.gridH, rawGy));
 
     if (!isValidPosition(gx, gy, fDef)) {
       showToast(t.overlap || "Can't place here!");
