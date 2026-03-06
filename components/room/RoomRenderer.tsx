@@ -110,8 +110,10 @@ export default function RoomRenderer({
 
           const isSelected = editMode && selectedIndex === item.origIdx;
           const rotation = item.rotation || 0;
-          // Izometrikus forgatás: SVG group rotate a talppontja körül
-          const rotTransform = rotation ? `rotate(${rotation * 90}, ${x}, ${y})` : undefined;
+          // Izometrikus forgatás: horizontális tükrözés (scaleX -1) a bútor talppontja körül
+          // rot 0: eredeti, rot 1: tükrözve X-ben, rot 2: eredeti, rot 3: tükrözve
+          const isMirrored = rotation === 1 || rotation === 3;
+          const rotTransform = isMirrored ? `translate(${2 * x}, 0) scale(-1, 1)` : undefined;
 
           return (
             <g

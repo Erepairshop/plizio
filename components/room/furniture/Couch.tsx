@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function Couch({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={6} rx={34} ry={10} fill="rgba(0,0,0,0.12)" />
+      <ellipse cx={0} cy={0} rx={34} ry={10} fill="rgba(0,0,0,0.12)" />
       <path d="M 28,-10 L 28,-20 L 0,-6 L 0,4 Z" fill="#6B3040" />
       <path d="M -28,-10 L -28,-20 L 0,-6 L 0,4 Z" fill="#8B4050" />
       <path d="M 0,-16 L 28,-28 L 0,-40 L -28,-28 Z" fill="#A85060" />

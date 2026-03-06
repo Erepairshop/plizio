@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function Sink({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={4} rx={12} ry={5} fill="rgba(0,0,0,0.10)" />
+      <ellipse cx={0} cy={0} rx={12} ry={5} fill="rgba(0,0,0,0.10)" />
       <path d="M 10,-4 L 10,-18 L 0,-12 L 0,2 Z" fill="#D0D0D8" />
       <path d="M -10,-4 L -10,-18 L 0,-12 L 0,2 Z" fill="#E0E0E8" />
       <ellipse cx={0} cy={-14} rx={10} ry={5} fill="#E8E8F0" />

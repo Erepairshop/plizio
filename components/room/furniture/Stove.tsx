@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function Stove({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={4} rx={14} ry={5} fill="rgba(0,0,0,0.12)" />
+      <ellipse cx={0} cy={0} rx={14} ry={5} fill="rgba(0,0,0,0.12)" />
       <path d="M 12,-6 L 12,-28 L 0,-22 L 0,0 Z" fill="#2A2A30" />
       <path d="M -12,-6 L -12,-28 L 0,-22 L 0,0 Z" fill="#3A3A40" />
       <path d="M -12,-28 L 0,-34 L 12,-28 L 0,-22 Z" fill="#4A4A50" />

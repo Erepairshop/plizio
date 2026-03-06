@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function Flowerbed({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={4} rx={28} ry={8} fill="rgba(0,0,0,0.08)" />
+      <ellipse cx={0} cy={0} rx={28} ry={8} fill="rgba(0,0,0,0.08)" />
       <path d="M 22,-2 L 22,-6 L 0,6 L 0,10 Z" fill="#5A3A20" />
       <path d="M -22,-2 L -22,-6 L 0,6 L 0,10 Z" fill="#6A4A30" />
       <path d="M -22,-6 L 0,-18 L 22,-6 L 0,6 Z" fill="#4A3018" />

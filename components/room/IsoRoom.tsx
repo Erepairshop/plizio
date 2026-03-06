@@ -189,34 +189,47 @@ export default function IsoRoom({
 
           {/* ─── ABLAK a bal falon ─── */}
           {(() => {
-            // Ablak pozíció: bal fal közepén
-            const wy1 = topLeft.y - wallHeight + 25;
-            const wy2 = topLeft.y - 20;
-            const midY = (topLeft.y + bottomLeft.y) / 2;
-            const midYwall = midY - wallHeight;
-            // Izometrikus ablak (parallelogramma)
-            const wLeft = topLeft.x + 4;
-            const shiftBot = (bottomLeft.x - topLeft.x) * 0.4;
+            // Az ablak a bal falon (izometrikus parallelogramma — a fal síkjában)
+            // A bal fal topLeft → bottomLeft irányba megy, az ablak ezen a síkon van
+            const wallFrac1 = 0.25; // ablak teteje (fal 25%-ánál)
+            const wallFrac2 = 0.75; // ablak alja (fal 75%-ánál)
+            // Ablak sarkai a fal síkjában
+            const wTopX = topLeft.x + (bottomLeft.x - topLeft.x) * wallFrac1;
+            const wTopY = topLeft.y + (bottomLeft.y - topLeft.y) * wallFrac1;
+            const wBotX = topLeft.x + (bottomLeft.x - topLeft.x) * wallFrac2;
+            const wBotY = topLeft.y + (bottomLeft.y - topLeft.y) * wallFrac2;
+            // Ablak magassági offszet (felfelé a falon)
+            const hOff = wallHeight * 0.65;
+            const hOff2 = wallHeight * 0.2;
             return (
               <g>
                 {/* Ablak keret */}
                 <path
-                  d={`M ${wLeft + 8},${wy1} L ${wLeft + 8 + shiftBot},${wy1 + (midYwall - wy1)} L ${wLeft + 8 + shiftBot},${wy2 + (midYwall - wy1)} L ${wLeft + 8},${wy2} Z`}
+                  d={`M ${wTopX},${wTopY - hOff} L ${wBotX},${wBotY - hOff} L ${wBotX},${wBotY - hOff2} L ${wTopX},${wTopY - hOff2} Z`}
                   fill={theme.wallAccent}
                   stroke="rgba(255,255,255,0.1)"
                   strokeWidth={1}
                 />
                 {/* Ablak üveg */}
                 <path
-                  d={`M ${wLeft + 12},${wy1 + 4} L ${wLeft + 12 + shiftBot * 0.8},${wy1 + 4 + (midYwall - wy1) * 0.8} L ${wLeft + 12 + shiftBot * 0.8},${wy2 - 4 + (midYwall - wy1) * 0.8} L ${wLeft + 12},${wy2 - 4} Z`}
+                  d={`M ${wTopX + 2},${wTopY - hOff + 3} L ${wBotX - 2},${wBotY - hOff + 3} L ${wBotX - 2},${wBotY - hOff2 - 3} L ${wTopX + 2},${wTopY - hOff2 - 3} Z`}
                   fill={`rgba(135,200,255,${windowAlpha})`}
                 />
-                {/* Ablak kereszt */}
+                {/* Ablak kereszt — vízszintes */}
                 <line
-                  x1={wLeft + 12}
-                  y1={(wy1 + wy2) / 2}
-                  x2={wLeft + 12 + shiftBot * 0.8}
-                  y2={(wy1 + wy2) / 2 + (midYwall - wy1) * 0.8}
+                  x1={wTopX + 2}
+                  y1={(wTopY - hOff + wTopY - hOff2) / 2}
+                  x2={wBotX - 2}
+                  y2={(wBotY - hOff + wBotY - hOff2) / 2}
+                  stroke="rgba(255,255,255,0.08)"
+                  strokeWidth={1}
+                />
+                {/* Ablak kereszt — függőleges */}
+                <line
+                  x1={(wTopX + wBotX) / 2}
+                  y1={(wTopY + wBotY) / 2 - hOff + 3}
+                  x2={(wTopX + wBotX) / 2}
+                  y2={(wTopY + wBotY) / 2 - hOff2 - 3}
                   stroke="rgba(255,255,255,0.08)"
                   strokeWidth={1}
                 />

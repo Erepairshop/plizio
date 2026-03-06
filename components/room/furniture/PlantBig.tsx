@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function PlantBig({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={4} rx={12} ry={5} fill="rgba(0,0,0,0.10)" />
+      <ellipse cx={0} cy={0} rx={12} ry={5} fill="rgba(0,0,0,0.10)" />
       <path d="M 0,0 L 8,-4 L 8,-12 L 0,-8 Z" fill="#A0603A" />
       <path d="M 0,0 L -8,-4 L -8,-12 L 0,-8 Z" fill="#C07848" />
       <path d="M -8,-12 L 0,-16 L 8,-12 L 0,-8 Z" fill="#5A3A20" />

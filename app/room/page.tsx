@@ -269,7 +269,7 @@ function AvatarInRoom({
     return () => window.removeEventListener("resize", update);
   }, [avatarGridPos, roomSize, roomContainerRef, zoom, pan]);
 
-  const avatarSize = 56; // px
+  const avatarSize = 90; // px
 
   return (
     <div

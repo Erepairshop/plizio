@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function KitchenTable({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={6} rx={32} ry={10} fill="rgba(0,0,0,0.10)" />
+      <ellipse cx={0} cy={0} rx={32} ry={10} fill="rgba(0,0,0,0.10)" />
       <line x1={-20} y1={-4} x2={-20} y2={4} stroke="#D0D0D8" strokeWidth={2.5} />
       <line x1={20} y1={-4} x2={20} y2={4} stroke="#C0C0C8" strokeWidth={2.5} />
       <line x1={0} y1={8} x2={0} y2={0} stroke="#C0C0C8" strokeWidth={2.5} />

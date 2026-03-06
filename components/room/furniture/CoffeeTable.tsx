@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function CoffeeTable({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={4} rx={28} ry={8} fill="rgba(0,0,0,0.10)" />
+      <ellipse cx={0} cy={0} rx={28} ry={8} fill="rgba(0,0,0,0.10)" />
       <line x1={-18} y1={-3} x2={-18} y2={3} stroke="#6B5040" strokeWidth={2} />
       <line x1={18} y1={-3} x2={18} y2={3} stroke="#5B4030" strokeWidth={2} />
       <line x1={0} y1={5} x2={0} y2={-1} stroke="#5B4030" strokeWidth={2} />

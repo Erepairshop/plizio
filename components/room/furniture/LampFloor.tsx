@@ -4,8 +4,8 @@ import type { FurnitureProps } from "./types";
 export default function LampFloor({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={6} rx={28} ry={14} fill="rgba(255,220,100,0.08)" />
-      <ellipse cx={0} cy={4} rx={8} ry={3} fill="rgba(0,0,0,0.10)" />
+      <ellipse cx={0} cy={0} rx={28} ry={14} fill="rgba(255,220,100,0.08)" />
+      <ellipse cx={0} cy={0} rx={8} ry={3} fill="rgba(0,0,0,0.10)" />
       <ellipse cx={0} cy={0} rx={6} ry={3} fill="#4A4A4A" />
       <ellipse cx={0} cy={-1} rx={5} ry={2.5} fill="#5A5A5A" />
       <rect x={-1.2} y={-42} width={2.4} height={42} fill="#666" rx={1} />

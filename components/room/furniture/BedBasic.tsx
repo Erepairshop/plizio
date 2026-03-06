@@ -4,7 +4,7 @@ import type { FurnitureProps } from "./types";
 export default function BedBasic({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={8} rx={38} ry={10} fill="rgba(0,0,0,0.12)" />
+      <ellipse cx={0} cy={0} rx={38} ry={10} fill="rgba(0,0,0,0.12)" />
       <path d="M 0,0 L 24,-12 L 24,0 L 0,12 Z" fill="#6B4E35" />
       <path d="M 0,0 L -24,-12 L -24,0 L 0,12 Z" fill="#8B6B4A" />
       <path d="M 0,-20 L 24,-32 L 46,-20 L 22,-8 Z" fill="#8888CC" />
