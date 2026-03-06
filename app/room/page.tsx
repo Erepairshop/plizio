@@ -60,10 +60,10 @@ interface RoomDef {
 
 const ROOMS: RoomDef[] = [
   { id: "bedroom", nameKey: "bedroom", gridW: 6, gridH: 6, price: 0, icon: "🛏️" },
-  { id: "living", nameKey: "living", gridW: 7, gridH: 7, price: 30, icon: "🛋️" },
-  { id: "kitchen", nameKey: "kitchen", gridW: 5, gridH: 6, price: 25, icon: "🍳" },
-  { id: "bathroom", nameKey: "bathroom", gridW: 5, gridH: 5, price: 20, icon: "🛁" },
-  { id: "garden", nameKey: "garden", gridW: 8, gridH: 8, price: 40, icon: "🌿" },
+  { id: "living", nameKey: "living", gridW: 7, gridH: 7, price: 0, icon: "🛋️" },
+  { id: "kitchen", nameKey: "kitchen", gridW: 5, gridH: 6, price: 0, icon: "🍳" },
+  { id: "bathroom", nameKey: "bathroom", gridW: 5, gridH: 5, price: 0, icon: "🛁" },
+  { id: "garden", nameKey: "garden", gridW: 8, gridH: 8, price: 0, icon: "🌿" },
 ];
 
 const T: Record<string, Record<string, string>> = {

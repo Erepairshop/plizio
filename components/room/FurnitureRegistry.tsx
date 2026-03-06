@@ -24,41 +24,41 @@ export interface FurnitureDef {
 export const FURNITURE_DEFS: FurnitureDef[] = [
   // ── HÁLÓSZOBA ──
   { id: "bed_basic", name: "Egyszerű ágy", icon: "🛏️", price: 0, gridW: 2, gridH: 1, room: "bedroom", category: "bed" },
-  { id: "nightstand", name: "Éjjeliszekrény", icon: "🗄️", price: 3, gridW: 1, gridH: 1, room: "bedroom", category: "storage" },
-  { id: "lamp_floor", name: "Állólámpa", icon: "💡", price: 4, gridW: 1, gridH: 1, room: "any", category: "lighting", hasAnimation: true, animationType: "glow" },
-  { id: "wardrobe", name: "Szekrény", icon: "🚪", price: 6, gridW: 1, gridH: 2, room: "bedroom", category: "storage" },
-  { id: "desk", name: "Íróasztal", icon: "🖥️", price: 5, gridW: 2, gridH: 1, room: "any", category: "table" },
+  { id: "nightstand", name: "Éjjeliszekrény", icon: "🗄️", price: 0, gridW: 1, gridH: 1, room: "bedroom", category: "storage" },
+  { id: "lamp_floor", name: "Állólámpa", icon: "💡", price: 0, gridW: 1, gridH: 1, room: "any", category: "lighting", hasAnimation: true, animationType: "glow" },
+  { id: "wardrobe", name: "Szekrény", icon: "🚪", price: 0, gridW: 1, gridH: 2, room: "bedroom", category: "storage" },
+  { id: "desk", name: "Íróasztal", icon: "🖥️", price: 0, gridW: 2, gridH: 1, room: "any", category: "table" },
 
   // ── NAPPALI ──
-  { id: "couch", name: "Kanapé", icon: "🛋️", price: 10, gridW: 2, gridH: 1, room: "living", category: "seating" },
-  { id: "tv_stand", name: "TV szekrény", icon: "📺", price: 8, gridW: 2, gridH: 1, room: "living", category: "appliance", hasAnimation: true, animationType: "glow" },
-  { id: "bookshelf", name: "Könyvespolc", icon: "📚", price: 6, gridW: 1, gridH: 2, room: "any", category: "storage" },
-  { id: "plant_big", name: "Nagy növény", icon: "🌿", price: 3, gridW: 1, gridH: 1, room: "any", category: "plant", hasAnimation: true, animationType: "sway" },
+  { id: "couch", name: "Kanapé", icon: "🛋️", price: 0, gridW: 2, gridH: 1, room: "living", category: "seating" },
+  { id: "tv_stand", name: "TV szekrény", icon: "📺", price: 0, gridW: 2, gridH: 1, room: "living", category: "appliance", hasAnimation: true, animationType: "glow" },
+  { id: "bookshelf", name: "Könyvespolc", icon: "📚", price: 0, gridW: 1, gridH: 2, room: "any", category: "storage" },
+  { id: "plant_big", name: "Nagy növény", icon: "🌿", price: 0, gridW: 1, gridH: 1, room: "any", category: "plant", hasAnimation: true, animationType: "sway" },
 
-  { id: "bed_double", name: "Franciaágy", icon: "🛏️", price: 8, gridW: 2, gridH: 2, room: "bedroom", category: "bed" },
-  { id: "rug_round", name: "Kerek szőnyeg", icon: "🟤", price: 5, gridW: 2, gridH: 2, room: "any", category: "decor" },
+  { id: "bed_double", name: "Franciaágy", icon: "🛏️", price: 0, gridW: 2, gridH: 2, room: "bedroom", category: "bed" },
+  { id: "rug_round", name: "Kerek szőnyeg", icon: "🟤", price: 0, gridW: 2, gridH: 2, room: "any", category: "decor" },
 
   // ── NAPPALI ──
-  { id: "coffee_table", name: "Dohányzóasztal", icon: "☕", price: 5, gridW: 2, gridH: 1, room: "living", category: "table" },
-  { id: "fireplace", name: "Kandalló", icon: "🔥", price: 15, gridW: 2, gridH: 1, room: "living", category: "decor", hasAnimation: true, animationType: "flicker" },
-  { id: "aquarium", name: "Akvárium", icon: "🐠", price: 12, gridW: 2, gridH: 1, room: "living", category: "decor", hasAnimation: true, animationType: "bubble" },
+  { id: "coffee_table", name: "Dohányzóasztal", icon: "☕", price: 0, gridW: 2, gridH: 1, room: "living", category: "table" },
+  { id: "fireplace", name: "Kandalló", icon: "🔥", price: 0, gridW: 2, gridH: 1, room: "living", category: "decor", hasAnimation: true, animationType: "flicker" },
+  { id: "aquarium", name: "Akvárium", icon: "🐠", price: 0, gridW: 2, gridH: 1, room: "living", category: "decor", hasAnimation: true, animationType: "bubble" },
 
   // ── KONYHA ──
-  { id: "fridge", name: "Hűtőszekrény", icon: "🧊", price: 8, gridW: 1, gridH: 1, room: "kitchen", category: "appliance" },
-  { id: "stove", name: "Tűzhely", icon: "♨️", price: 7, gridW: 1, gridH: 1, room: "kitchen", category: "appliance" },
-  { id: "counter", name: "Pult", icon: "🪨", price: 5, gridW: 2, gridH: 1, room: "kitchen", category: "table" },
-  { id: "kitchen_table", name: "Konyhaasztal", icon: "🍽️", price: 6, gridW: 2, gridH: 2, room: "kitchen", category: "table" },
+  { id: "fridge", name: "Hűtőszekrény", icon: "🧊", price: 0, gridW: 1, gridH: 1, room: "kitchen", category: "appliance" },
+  { id: "stove", name: "Tűzhely", icon: "♨️", price: 0, gridW: 1, gridH: 1, room: "kitchen", category: "appliance" },
+  { id: "counter", name: "Pult", icon: "🪨", price: 0, gridW: 2, gridH: 1, room: "kitchen", category: "table" },
+  { id: "kitchen_table", name: "Konyhaasztal", icon: "🍽️", price: 0, gridW: 2, gridH: 2, room: "kitchen", category: "table" },
 
   // ── FÜRDŐ ──
-  { id: "bathtub", name: "Kád", icon: "🛁", price: 10, gridW: 2, gridH: 1, room: "bathroom", category: "appliance" },
-  { id: "toilet", name: "WC", icon: "🚽", price: 3, gridW: 1, gridH: 1, room: "bathroom", category: "appliance" },
-  { id: "sink", name: "Mosdó", icon: "🚰", price: 4, gridW: 1, gridH: 1, room: "bathroom", category: "appliance" },
+  { id: "bathtub", name: "Kád", icon: "🛁", price: 0, gridW: 2, gridH: 1, room: "bathroom", category: "appliance" },
+  { id: "toilet", name: "WC", icon: "🚽", price: 0, gridW: 1, gridH: 1, room: "bathroom", category: "appliance" },
+  { id: "sink", name: "Mosdó", icon: "🚰", price: 0, gridW: 1, gridH: 1, room: "bathroom", category: "appliance" },
 
   // ── KERT ──
-  { id: "fountain", name: "Szökőkút", icon: "⛲", price: 20, gridW: 2, gridH: 2, room: "garden", category: "decor", hasAnimation: true, animationType: "bubble" },
-  { id: "bench", name: "Pad", icon: "🪑", price: 5, gridW: 2, gridH: 1, room: "garden", category: "seating" },
-  { id: "tree", name: "Fa", icon: "🌳", price: 6, gridW: 1, gridH: 1, room: "garden", category: "plant" },
-  { id: "flowerbed", name: "Virágágyás", icon: "🌸", price: 4, gridW: 2, gridH: 1, room: "garden", category: "plant" },
+  { id: "fountain", name: "Szökőkút", icon: "⛲", price: 0, gridW: 2, gridH: 2, room: "garden", category: "decor", hasAnimation: true, animationType: "bubble" },
+  { id: "bench", name: "Pad", icon: "🪑", price: 0, gridW: 2, gridH: 1, room: "garden", category: "seating" },
+  { id: "tree", name: "Fa", icon: "🌳", price: 0, gridW: 1, gridH: 1, room: "garden", category: "plant" },
+  { id: "flowerbed", name: "Virágágyás", icon: "🌸", price: 0, gridW: 2, gridH: 1, room: "garden", category: "plant" },
 ];
 
 export function getFurnitureDef(id: string): FurnitureDef | undefined {
