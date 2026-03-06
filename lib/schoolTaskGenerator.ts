@@ -3,7 +3,7 @@
  * Generálja a feladatblokkokat osztálynak és országnak megfelelően
  */
 
-import { generateTopicQuestions } from './mathCurriculum';
+import { generateTopicQuestions, getDEThemes, getENThemes, getHUThemes, getROThemes } from './mathCurriculum';
 
 // ─── TYPES ──────────────────────────────────────────────────────────────────
 
@@ -768,7 +768,25 @@ function getTitleFor(type: TaskType, cc: string): string {
   return TITLES[type][lang] || TITLES[type].en;
 }
 
+// ─── ALL TOPICS FALLBACK ─────────────────────────────────────────────────────
+
+function getAllTopicsForGrade(grade: number, cc: string): Array<{ key: string; name: string }> {
+  const themes = (cc === 'DE' || cc === 'AT' || cc === 'CH') ? getDEThemes(grade)
+    : cc === 'HU' ? getHUThemes(grade)
+    : cc === 'RO' ? getROThemes(grade)
+    : getENThemes(grade);
+  const result: Array<{ key: string; name: string }> = [];
+  for (const theme of themes) {
+    for (const topic of theme.topics) {
+      result.push({ key: topic.key, name: topic.name });
+    }
+  }
+  return result;
+}
+
 // ─── MAIN GENERATOR ──────────────────────────────────────────────────────────
+
+const TOTAL_AUFGABEN = 10;
 
 export function generateSchoolTest(
   grade: number,
@@ -777,25 +795,27 @@ export function generateSchoolTest(
 ): SchoolTaskBlock[] {
   const cc = countryCode;
 
-  // ─── Topic-driven: aufgaben blocks per topic ──────────────────────────────
-  if (topicBlocks && topicBlocks.length > 0) {
-    // Items per block depends on grade; total will be normalized to 10
-    const itemsPerBlock = grade <= 2 ? 4 : grade <= 4 ? 3 : grade <= 6 ? 3 : 2;
-    const blocks: SchoolTaskBlock[] = topicBlocks.map((t, i) =>
-      generateAufgabenBlock(grade, cc, t.key, t.name, itemsPerBlock, i)
-    );
-    return normalizeBlocksTo10(blocks);
-  }
+  // Resolve which topics to use — provided topics or first 3 of grade
+  const effectiveTopics = (topicBlocks && topicBlocks.length > 0)
+    ? topicBlocks
+    : getAllTopicsForGrade(grade, cc).slice(0, 3);
 
-  // ─── Structured blocks (grade 1-4 default) ────────────────────────────────
-  const blocks: SchoolTaskBlock[] = [];
-  blocks.push(generateKopfrechnen(grade, cc));
-  blocks.push(generateSchriftlich(grade, cc));
-  if (grade >= 3) blocks.push(generateHiany(grade, cc));
-  blocks.push(generateZahlenreihe(grade, cc));
-  blocks.push(generateSachaufgabe(grade, cc));
-  if (grade >= 3) blocks.push(generateTabelle(grade, cc));
+  if (effectiveTopics.length === 0) return [];
 
+  // Split TOTAL_AUFGABEN = 10 items evenly across topics
+  const perTopic = Math.floor(TOTAL_AUFGABEN / effectiveTopics.length);
+  const extras = TOTAL_AUFGABEN - perTopic * effectiveTopics.length;
+
+  const blocks: SchoolTaskBlock[] = effectiveTopics.map((t, i) => {
+    const count = Math.max(1, perTopic + (i < extras ? 1 : 0));
+    return generateAufgabenBlock(grade, cc, t.key, t.name, count, i);
+  });
+
+  // Verify actual item count (some topics may not have enough questions)
+  const actualTotal = blocks.reduce((s, b) => s + b.subQuestions.length, 0);
+  if (actualTotal === TOTAL_AUFGABEN) return blocks;
+
+  // If actual ≠ 10 (generator produced fewer), normalize points to 10
   return normalizeBlocksTo10(blocks);
 }
 

@@ -820,47 +820,59 @@ export default function MathTestPage() {
     };
 
     // DE Supabase slug → DE_THEMES generator key mapping
+    // Includes both abbreviated AND full 'und'-containing variants
     const DE_SLUG_TO_KEY: Record<string, string> = {
       // Grade 1
       'addition-bis-20': 'add20', 'subtraktion-bis-20': 'sub20',
       'vergleichen-ordnen': 'compare', 'fehlende-zahlen': 'missing',
       'einfache-textaufgaben': 'word', 'rechengeschichten': 'word',
-      'formen-erkennen': 'compare', 'uhr-und-geld': 'add10',
+      'formen-erkennen': 'compare', 'uhr-und-geld': 'add10', 'uhr-geld': 'add10',
       // Grade 2
       'addition-bis-100': 'add100', 'subtraktion-bis-100': 'sub100',
-      'zehnerzahlen': 'add100', 'einmaleins-2-5-10': 'mul',
+      'zehnerzahlen': 'add100', 'einmaleins-2-5-10': 'mul', 'einmaleins': 'mul',
       'einfache-division': 'div', 'textaufgaben': 'word',
-      'zahlenreihen': 'sequence', 'laengen-zeit': 'units', 'geld-rechnen': 'units',
+      'zahlenreihen': 'sequence', 'laengen-zeit': 'units', 'laengen-und-zeit': 'units',
+      'geld-rechnen': 'units',
       // Grade 3
-      'add-sub-1000': 'add1000', 'schriftlich': 'add1000',
+      'add-sub-1000': 'add1000', 'addition-subtraktion-bis-1000': 'add1000', 'schriftlich': 'add1000',
       'multiplikation': 'mul', 'division': 'div', 'fehlende-faktoren': 'mul',
-      'zahlenfolgen': 'sequence', 'laenge-gewicht-zeit': 'units', 'umrechnen': 'units',
+      'multiplikation-und-division': 'mul',
+      'zahlenfolgen': 'sequence',
+      'laenge-gewicht-zeit': 'units', 'laenge-und-gewicht-und-zeit': 'units', 'umrechnen': 'units',
       // Grade 4
-      'zahlen-bis-1000': 'place', 'addition-subtraktion': 'mul',
-      'multiplikation-division': 'mul', 'sachaufgaben': 'word',
-      'umfang-flaeche': 'geo', '3d-koerper': 'geo', 'symmetrie-dreiecke': 'geo',
-      'laengen-kilometer': 'units', 'gewicht-volumen': 'units',
+      'zahlen-bis-1000': 'place', 'zahlen-bis-10000': 'place', 'stellenwerte': 'place',
+      'addition-subtraktion': 'place', 'addition-und-subtraktion': 'place',
+      'multiplikation-division': 'mul',
+      'schriftlich-multiplizieren': 'mul', 'schriftlich-dividieren': 'div',
+      'sachaufgaben': 'word', 'sachaufgaben-wortprobleme': 'word', 'wortprobleme': 'word',
+      'umfang-flaeche': 'geo', 'umfang-und-flaeche': 'geo',
+      '3d-koerper': 'geo', 'symmetrie-dreiecke': 'geo', 'symmetrie-und-dreiecke': 'geo',
+      'laengen-kilometer': 'units', 'gewicht-volumen': 'units', 'gewicht-und-volumen': 'units',
       'zeit': 'units', 'umrechnung': 'units',
       'tabellen-diagramme': 'geo', 'wahrscheinlichkeit': 'geo', 'datenanalyse': 'geo',
+      'brueche': 'frac', 'dezimalzahlen': 'place',
       // Grade 5
-      'grosse-zahlen': 'large', 'rechenregeln': 'ops',
-      'bruchrechnung': 'frac', 'prozentrechnung': 'pct',
+      'grosse-zahlen': 'large', 'rechenregeln': 'ops', 'punkt-vor-strich': 'ops',
+      'bruchrechnung': 'frac', 'prozentrechnung': 'pct', 'prozent': 'pct',
       'formen-masse': 'geo', 'rabatt-einkauf': 'word', 'rechenregeln-anwenden': 'word',
       // Grade 6
-      'rechnen-negativ': 'neg', 'zahlenstrahl': 'neg',
+      'rechnen-negativ': 'neg', 'negative-zahlen': 'neg', 'zahlenstrahl': 'neg',
       'brueche-multiplizieren': 'frac', 'brueche-dividieren': 'frac',
-      'verhaeltnisse': 'ratio', 'prozent': 'pct',
+      'brueche-multiplizieren-und-dividieren': 'frac',
+      'verhaeltnisse': 'ratio', 'verhaeltnisse-und-geschwindigkeit': 'ratio',
       'flaechen': 'geo', 'geschwindigkeit': 'ratio',
       // Grade 7
-      'potenzen': 'powers', 'algebra': 'algebra',
+      'potenzen': 'powers', 'algebra': 'algebra', 'algebrai-kif': 'algebra',
       'lineare-gleichungen': 'eq', 'gleichungen-aufstellen': 'eq',
-      'winkel': 'tri', 'besondere-dreiecke': 'tri',
-      'hypotenuse': 'pyth', 'kathete': 'pyth',
+      'lineare-gleichungen-und-aufstellen': 'eq',
+      'winkel': 'tri', 'besondere-dreiecke': 'tri', 'winkel-und-dreiecke': 'tri',
+      'hypotenuse': 'pyth', 'kathete': 'pyth', 'satz-des-pythagoras': 'pyth',
       // Grade 8
-      'quadratwurzeln': 'sqrt', 'komplexe-terme': 'complex',
+      'quadratwurzeln': 'sqrt', 'wurzeln': 'sqrt',
+      'komplexe-terme': 'complex', 'terme': 'complex',
       'zwei-seiten': 'eq', 'gleichungen-loesen': 'eq',
-      'lineare-funktionen': 'func', 'funktionswerte': 'func',
-      'grundlagen': 'prob', 'anwendungen': 'prob',
+      'lineare-funktionen': 'func', 'funktionswerte': 'func', 'funktionen': 'func',
+      'grundlagen': 'prob', 'anwendungen': 'prob', 'wahrscheinlichkeitsrechnung': 'prob',
     };
 
     {
@@ -888,10 +900,45 @@ export default function MathTestPage() {
       // Supabase-based IDs (slug mapping for HU/DE)
       if (topicBlocks.length === 0) {
         const slugMap = country!.code === 'DE' ? DE_SLUG_TO_KEY : HU_SLUG_TO_KEY;
+
+        // Normalize a slug: remove connector words (-und-, -és-, -and-), collapse dashes
+        const normalizeSlug = (s: string) =>
+          s.replace(/-und-/g, '-').replace(/-és-/g, '-').replace(/-and-/g, '-')
+           .replace(/-\(.*?\)/g, '').replace(/--+/g, '-').replace(/-$/, '');
+
+        // Build generator topic list for name-based fallback
+        const cc = country!.code;
+        const genThemes = (cc === 'DE' || cc === 'AT' || cc === 'CH') ? getDEThemes(selectedGrade!)
+          : cc === 'HU' ? getHUThemes(selectedGrade!)
+          : cc === 'RO' ? getROThemes(selectedGrade!)
+          : getENThemes(selectedGrade!);
+        const genTopics = genThemes.flatMap(t => t.topics);
+
         for (const theme of resolvedThemes) {
           for (const sub of theme.subtopics) {
             if (!selectedSubtopics.includes(sub.id)) continue;
-            const key = sub.slug ? slugMap[sub.slug] : undefined;
+
+            // 1. Exact slug match
+            let key: string | undefined = sub.slug ? slugMap[sub.slug] : undefined;
+
+            // 2. Normalized slug match
+            if (!key && sub.slug) {
+              key = slugMap[normalizeSlug(sub.slug)];
+            }
+
+            // 3. Name-keyword fallback: find generator topic whose name overlaps sub.name
+            if (!key && sub.name) {
+              const subWords = sub.name.toLowerCase().split(/[\s\/\-,]+/).filter(w => w.length > 3);
+              for (const gt of genTopics) {
+                const gtWords = gt.name.toLowerCase().split(/[\s\/\-,]+/);
+                const overlap = subWords.filter(w => gtWords.some(gw => gw.includes(w) || w.includes(gw)));
+                if (overlap.length >= Math.min(2, subWords.length)) {
+                  key = gt.key;
+                  break;
+                }
+              }
+            }
+
             if (key && !topicKeysSeen.has(key)) {
               topicKeysSeen.add(key);
               topicBlocks.push({ key, name: sub.name });
