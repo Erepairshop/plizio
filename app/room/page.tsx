@@ -244,12 +244,14 @@ function pullPath(
   return result;
 }
 
-// ─── Facing direction ───
+// ─── Facing direction — uses screen-space direction (iso: screenX=gx-gy, screenY=gx+gy) ───
 function calcFacing(fromGx: number, fromGy: number, toGx: number, toGy: number): 'se' | 'sw' | 'ne' | 'nw' {
   const dx = toGx - fromGx;
   const dy = toGy - fromGy;
-  if (Math.abs(dx) >= Math.abs(dy)) return dx >= 0 ? 'se' : 'nw';
-  return dy >= 0 ? 'sw' : 'ne';
+  const sdx = dx - dy; // horizontal screen direction (+right, -left)
+  const sdy = dx + dy; // vertical screen direction (+down, -up)
+  if (Math.abs(sdx) >= Math.abs(sdy)) return sdx >= 0 ? 'se' : 'nw';
+  return sdy >= 0 ? 'sw' : 'ne';
 }
 
 // ─── A* pathfinding ───
@@ -966,9 +968,15 @@ export default function RoomPage() {
     const path = aStarPath(curI.gx, curI.gy, igx, igy,
       roomSize.gridW, roomSize.gridH, (x, y) => blocked.has(`${x},${y}`));
 
+    // Replace last waypoint with exact sub-grid click position
     if (path.length > 0) {
-      // Replace last waypoint with exact sub-grid click position
       path[path.length - 1] = { gx: grid.gx, gy: grid.gy };
+    } else if (Math.hypot(grid.gx - cur.gx, grid.gy - cur.gy) > 0.05) {
+      // Same integer cell but different float position — still move there
+      path.push({ gx: grid.gx, gy: grid.gy });
+    }
+
+    if (path.length > 0) {
       setActiveInteraction(null);
       startWalkPath(path, () => setAvatarMood("idle"));
     }
