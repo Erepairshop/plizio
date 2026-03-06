@@ -71,6 +71,7 @@ const T: Record<string, Record<string, string>> = {
     noFurniture: "No furniture yet! Buy some in edit mode.",
     stars: "stars",
     notEnough: "Not enough stars!",
+    overlap: "Can't place here — occupied!",
     confirm: "Confirm purchase?",
     yes: "Yes",
     no: "No",
@@ -96,6 +97,7 @@ const T: Record<string, Record<string, string>> = {
     noFurniture: "Még nincs bútor! Vegyél a szerkesztő módban.",
     stars: "csillag",
     notEnough: "Nincs elég csillagod!",
+    overlap: "Ide nem helyezhető — foglalt!",
     confirm: "Megveszed?",
     yes: "Igen",
     no: "Nem",
@@ -121,6 +123,7 @@ const T: Record<string, Record<string, string>> = {
     noFurniture: "Noch keine Möbel! Kaufe welche im Bearbeitungsmodus.",
     stars: "Sterne",
     notEnough: "Nicht genug Sterne!",
+    overlap: "Platz belegt!",
     confirm: "Kaufen?",
     yes: "Ja",
     no: "Nein",
@@ -146,6 +149,7 @@ const T: Record<string, Record<string, string>> = {
     noFurniture: "Niciun mobilier încă! Cumpără din modul de editare.",
     stars: "stele",
     notEnough: "Nu ai destule stele!",
+    overlap: "Loc ocupat!",
     confirm: "Cumperi?",
     yes: "Da",
     no: "Nu",
@@ -419,6 +423,22 @@ export default function RoomPage() {
 
     // Check bounds
     if (gx < 0 || gy < 0 || gx + fDef.gridW > currentRoom.gridW || gy + fDef.gridH > currentRoom.gridH) return;
+
+    // Check collision with existing furniture
+    const overlaps = furniture.some((placed) => {
+      const pDef = getFurnitureDef(placed.furnitureId);
+      if (!pDef) return false;
+      return (
+        gx < placed.gridX + pDef.gridW &&
+        gx + fDef.gridW > placed.gridX &&
+        gy < placed.gridY + pDef.gridH &&
+        gy + fDef.gridH > placed.gridY
+      );
+    });
+    if (overlaps) {
+      showToast(t.overlap || "Can't place here!");
+      return;
+    }
 
     const newFurniture = [
       ...furniture,

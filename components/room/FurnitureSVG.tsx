@@ -421,6 +421,402 @@ export function Desk({ x, y }: FurnitureProps) {
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 11. BED DOUBLE — Franciaágy (2×2)
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+export function BedDouble({ x, y }: FurnitureProps) {
+  return (
+    <g transform={`translate(${x}, ${y})`}>
+      <ellipse cx={0} cy={10} rx={42} ry={14} fill="rgba(0,0,0,0.12)" />
+      {/* Keret */}
+      <path d="M 0,4 L 32,-12 L 32,-4 L 0,12 Z" fill="#5A3E28" />
+      <path d="M 0,4 L -32,-12 L -32,-4 L 0,12 Z" fill="#7B5E42" />
+      {/* Matrac */}
+      <path d="M 0,-22 L 32,-38 L 0,-54 L -32,-38 Z" fill="#9999DD" />
+      <path d="M -32,-30 L -32,-38 L 0,-54 L 0,-46 Z" fill="#7070AA" />
+      <path d="M 32,-30 L 32,-38 L 0,-54 L 0,-46 Z" fill="#6060AA" />
+      <path d="M 0,-46 L 32,-30 L 0,-14 L -32,-30 Z" fill="#AAAAEE" />
+      {/* Párnák */}
+      <ellipse cx={-12} cy={-38} rx={8} ry={4.5} fill="#CCCCEE" transform="rotate(-25,-12,-38)" />
+      <ellipse cx={4} cy={-38} rx={8} ry={4.5} fill="#BBBBEE" transform="rotate(-25,4,-38)" />
+      {/* Takaró alsó */}
+      <path d="M -24,-22 L 0,-10 L 24,-22 L 0,-34 Z" fill="#7777BB" opacity={0.35} />
+      {/* Fejrész */}
+      <path d="M -32,-38 L -32,-52 L 0,-68 L 0,-54 Z" fill="#5A3E28" />
+      <path d="M 0,-68 L 32,-52 L 32,-38 L 0,-54 Z" fill="#4A3020" />
+      <path d="M -32,-52 L 0,-68 L 32,-52 L 0,-36 Z" fill="#7B5E42" />
+      {/* Highlight */}
+      <path d="M 0,-46 L 16,-38 L 0,-30 L -16,-38 Z" fill="rgba(255,255,255,0.07)" />
+    </g>
+  );
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 12. COFFEE TABLE — Dohányzóasztal (2×1)
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+export function CoffeeTable({ x, y }: FurnitureProps) {
+  return (
+    <g transform={`translate(${x}, ${y})`}>
+      <ellipse cx={0} cy={4} rx={28} ry={8} fill="rgba(0,0,0,0.10)" />
+      {/* Lábak */}
+      <line x1={-18} y1={-3} x2={-18} y2={3} stroke="#6B5040" strokeWidth={2} />
+      <line x1={18} y1={-3} x2={18} y2={3} stroke="#5B4030" strokeWidth={2} />
+      <line x1={0} y1={5} x2={0} y2={-1} stroke="#5B4030" strokeWidth={2} />
+      <line x1={-2} y1={-9} x2={-2} y2={-3} stroke="#6B5040" strokeWidth={2} />
+      {/* Asztallap */}
+      <path d="M 22,-6 L 22,-10 L 0,2 L 0,6 Z" fill="#6B5040" />
+      <path d="M -22,-6 L -22,-10 L 0,2 L 0,6 Z" fill="#8B7050" />
+      <path d="M -22,-10 L 0,-22 L 22,-10 L 0,2 Z" fill="#A08060" />
+      {/* Csésze (dekor) */}
+      <ellipse cx={6} cy={-12} rx={3} ry={1.5} fill="#E8E0D0" />
+      <path d="M 3,-12 L 3,-15 L 9,-15 L 9,-12" fill="none" stroke="#D0C8B8" strokeWidth={0.8} />
+      {/* Highlight */}
+      <path d="M 0,-22 L 11,-16 L 0,-10 L -11,-16 Z" fill="rgba(255,255,255,0.05)" />
+    </g>
+  );
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 13. FIREPLACE — Kandalló (2×1)
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+export function Fireplace({ x, y }: FurnitureProps) {
+  return (
+    <g transform={`translate(${x}, ${y})`}>
+      <ellipse cx={0} cy={6} rx={30} ry={8} fill="rgba(0,0,0,0.12)" />
+      {/* Test - tégla */}
+      <path d="M 24,-6 L 24,-42 L 0,-30 L 0,6 Z" fill="#7A3A2A" />
+      <path d="M -24,-6 L -24,-42 L 0,-30 L 0,6 Z" fill="#9A5A3A" />
+      <path d="M -24,-42 L 0,-54 L 24,-42 L 0,-30 Z" fill="#AA6A4A" />
+      {/* Tűzrés */}
+      <path d="M -12,-2 L 0,-8 L 12,-2 L 0,4 Z" fill="#1A0A0A" />
+      <path d="M -12,-2 L -12,-16 L 0,-22 L 0,-8 Z" fill="#2A1010" />
+      <path d="M 12,-2 L 12,-16 L 0,-22 L 0,-8 Z" fill="#200808" />
+      {/* Tűz lángok */}
+      <ellipse cx={-3} cy={-8} rx={3} ry={5} fill="#FF6820" opacity={0.7} />
+      <ellipse cx={3} cy={-10} rx={2.5} ry={6} fill="#FFAA20" opacity={0.6} />
+      <ellipse cx={0} cy={-12} rx={2} ry={4} fill="#FFD860" opacity={0.5} />
+      {/* Fény a padlón */}
+      <ellipse cx={0} cy={8} rx={24} ry={10} fill="rgba(255,120,40,0.06)" />
+      {/* Kémény dísz */}
+      <path d="M -20,-42 L 0,-54 L 20,-42 L 0,-30 Z" fill="rgba(255,255,255,0.04)" />
+    </g>
+  );
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 14. AQUARIUM — Akvárium (2×1)
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+export function Aquarium({ x, y }: FurnitureProps) {
+  return (
+    <g transform={`translate(${x}, ${y})`}>
+      <ellipse cx={0} cy={6} rx={28} ry={8} fill="rgba(0,0,0,0.10)" />
+      {/* Állvány */}
+      <path d="M 22,-4 L 22,-10 L 0,2 L 0,8 Z" fill="#4A4A5A" />
+      <path d="M -22,-4 L -22,-10 L 0,2 L 0,8 Z" fill="#5A5A6A" />
+      {/* Üveg test - bal */}
+      <path d="M -22,-10 L -22,-36 L 0,-24 L 0,2 Z" fill="rgba(60,160,200,0.35)" />
+      {/* Üveg test - jobb */}
+      <path d="M 22,-10 L 22,-36 L 0,-24 L 0,2 Z" fill="rgba(40,120,180,0.35)" />
+      {/* Felső keret */}
+      <path d="M -22,-36 L 0,-48 L 22,-36 L 0,-24 Z" fill="#3A3A4A" />
+      {/* Víz felszín */}
+      <path d="M -20,-34 L 0,-46 L 20,-34 L 0,-22 Z" fill="rgba(80,180,220,0.25)" />
+      {/* Hal 1 */}
+      <ellipse cx={-6} cy={-20} rx={3} ry={1.5} fill="#FF8844" />
+      <path d="M -9,-20 L -11,-18 L -11,-22 Z" fill="#FF8844" />
+      {/* Hal 2 */}
+      <ellipse cx={8} cy={-16} rx={2.5} ry={1.2} fill="#44AAFF" />
+      <path d="M 10.5,-16 L 12.5,-14.5 L 12.5,-17.5 Z" fill="#44AAFF" />
+      {/* Buborékok */}
+      <circle cx={-2} cy={-28} r={1} fill="rgba(255,255,255,0.2)" />
+      <circle cx={4} cy={-32} r={0.8} fill="rgba(255,255,255,0.15)" />
+      <circle cx={-5} cy={-34} r={0.6} fill="rgba(255,255,255,0.15)" />
+      {/* Kavics alul */}
+      <ellipse cx={-8} cy={-8} rx={3} ry={1} fill="#8A7A5A" />
+      <ellipse cx={4} cy={-6} rx={4} ry={1.2} fill="#7A6A4A" />
+      <ellipse cx={-2} cy={-5} rx={2} ry={0.8} fill="#9A8A6A" />
+      {/* Kék fény */}
+      <ellipse cx={0} cy={8} rx={18} ry={7} fill="rgba(60,160,220,0.04)" />
+    </g>
+  );
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 15. STOVE — Tűzhely (1×1)
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+export function Stove({ x, y }: FurnitureProps) {
+  return (
+    <g transform={`translate(${x}, ${y})`}>
+      <ellipse cx={0} cy={4} rx={14} ry={5} fill="rgba(0,0,0,0.12)" />
+      {/* Test */}
+      <path d="M 12,-6 L 12,-28 L 0,-22 L 0,0 Z" fill="#2A2A30" />
+      <path d="M -12,-6 L -12,-28 L 0,-22 L 0,0 Z" fill="#3A3A40" />
+      <path d="M -12,-28 L 0,-34 L 12,-28 L 0,-22 Z" fill="#4A4A50" />
+      {/* Égők (4 kör a tetején) */}
+      <ellipse cx={-4} cy={-28} rx={3} ry={1.5} fill="#222228" />
+      <ellipse cx={4} cy={-28} rx={3} ry={1.5} fill="#222228" />
+      <ellipse cx={-4} cy={-32} rx={3} ry={1.5} fill="#222228" />
+      <ellipse cx={4} cy={-32} rx={3} ry={1.5} fill="#222228" />
+      {/* Egy égő piros (bekapcsolva) */}
+      <ellipse cx={-4} cy={-28} rx={2.5} ry={1.2} fill="rgba(255,80,40,0.3)" />
+      {/* Gőz */}
+      <ellipse cx={-4} cy={-36} rx={2} ry={1} fill="rgba(255,255,255,0.06)" />
+      <ellipse cx={-3} cy={-39} rx={1.5} ry={0.8} fill="rgba(255,255,255,0.04)" />
+      {/* Sütő ajtó */}
+      <path d="M -10,-4 L 0,2 L 10,-4 L 0,-10 Z" fill="#333338" />
+      <circle cx={0} cy={-4} r={1} fill="#666" />
+      {/* Gombok (jobb oldal) */}
+      <circle cx={10} cy={-18} r={1.2} fill="#888" />
+      <circle cx={10} cy={-22} r={1.2} fill="#888" />
+    </g>
+  );
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 16. BATHTUB — Kád (2×1)
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+export function Bathtub({ x, y }: FurnitureProps) {
+  return (
+    <g transform={`translate(${x}, ${y})`}>
+      <ellipse cx={0} cy={6} rx={30} ry={8} fill="rgba(0,0,0,0.10)" />
+      {/* Kád test */}
+      <path d="M 24,-4 L 24,-18 L 0,-6 L 0,8 Z" fill="#D8D8E0" />
+      <path d="M -24,-4 L -24,-18 L 0,-6 L 0,8 Z" fill="#E8E8F0" />
+      {/* Kád perem */}
+      <path d="M -24,-18 L 0,-30 L 24,-18 L 0,-6 Z" fill="#F0F0F8" />
+      {/* Víz belül */}
+      <path d="M -20,-16 L 0,-28 L 20,-16 L 0,-4 Z" fill="rgba(100,180,220,0.3)" />
+      {/* Buborékok */}
+      <circle cx={-6} cy={-14} r={2} fill="rgba(255,255,255,0.2)" />
+      <circle cx={2} cy={-18} r={1.5} fill="rgba(255,255,255,0.15)" />
+      <circle cx={-10} cy={-16} r={1.2} fill="rgba(255,255,255,0.15)" />
+      <circle cx={8} cy={-12} r={1.8} fill="rgba(255,255,255,0.12)" />
+      {/* Csaptelep */}
+      <rect x={-2} y={-32} width={4} height={2} rx={1} fill="#C0C0C8" />
+      <rect x={-1} y={-36} width={2} height={4} rx={0.5} fill="#B0B0B8" />
+      <circle cx={0} cy={-37} r={2} fill="#D0D0D8" />
+      {/* Lábak */}
+      <ellipse cx={-18} cy={2} rx={3} ry={1.5} fill="#B0B0B8" />
+      <ellipse cx={18} cy={2} rx={3} ry={1.5} fill="#B0B0B8" />
+    </g>
+  );
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 17. TOILET — WC (1×1)
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+export function Toilet({ x, y }: FurnitureProps) {
+  return (
+    <g transform={`translate(${x}, ${y})`}>
+      <ellipse cx={0} cy={4} rx={12} ry={5} fill="rgba(0,0,0,0.10)" />
+      {/* Tartály hátsó */}
+      <path d="M -8,-16 L -8,-28 L 0,-32 L 0,-20 Z" fill="#D8D8E0" />
+      <path d="M 8,-16 L 8,-28 L 0,-32 L 0,-20 Z" fill="#C8C8D0" />
+      <path d="M -8,-28 L 0,-32 L 8,-28 L 0,-24 Z" fill="#E0E0E8" />
+      {/* WC test */}
+      <path d="M 10,-4 L 10,-12 L 0,-6 L 0,2 Z" fill="#C8C8D0" />
+      <path d="M -10,-4 L -10,-12 L 0,-6 L 0,2 Z" fill="#D8D8E0" />
+      {/* Ülőke (felső ovális) */}
+      <ellipse cx={0} cy={-8} rx={10} ry={5} fill="#E8E8F0" />
+      <ellipse cx={0} cy={-8} rx={7} ry={3.5} fill="#D0D0D8" />
+      {/* Fedél hátsó rész */}
+      <path d="M -8,-12 L 0,-16 L 8,-12" fill="none" stroke="#B8B8C0" strokeWidth={0.8} />
+      {/* Gomb */}
+      <circle cx={0} cy={-30} r={1.5} fill="#B0B0B8" />
+    </g>
+  );
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 18. SINK — Mosdó (1×1)
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+export function Sink({ x, y }: FurnitureProps) {
+  return (
+    <g transform={`translate(${x}, ${y})`}>
+      <ellipse cx={0} cy={4} rx={12} ry={5} fill="rgba(0,0,0,0.10)" />
+      {/* Láb / szekrény */}
+      <path d="M 10,-4 L 10,-18 L 0,-12 L 0,2 Z" fill="#D0D0D8" />
+      <path d="M -10,-4 L -10,-18 L 0,-12 L 0,2 Z" fill="#E0E0E8" />
+      {/* Mosdótál (ovális felső) */}
+      <ellipse cx={0} cy={-14} rx={10} ry={5} fill="#E8E8F0" />
+      <ellipse cx={0} cy={-14} rx={7} ry={3.5} fill="#D0D8E0" />
+      {/* Csaptelep */}
+      <rect x={-1} y={-22} width={2} height={6} rx={0.5} fill="#B0B0B8" />
+      <path d="M -1,-22 L 0,-24 L 1,-22" fill="#C0C0C8" />
+      {/* Vízcsepp */}
+      <circle cx={0} cy={-15} r={0.8} fill="rgba(100,180,220,0.3)" />
+      {/* Tükör (fölötte, a falon) */}
+      <path d="M -7,-26 L 0,-30 L 7,-26 L 0,-22 Z" fill="rgba(180,200,220,0.3)" />
+      <path d="M -7,-26 L 0,-30 L 7,-26 L 0,-22 Z" fill="none" stroke="#A0A8B0" strokeWidth={0.5} />
+    </g>
+  );
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 19. RUG ROUND — Kerek szőnyeg (2×2)
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+export function RugRound({ x, y }: FurnitureProps) {
+  return (
+    <g transform={`translate(${x}, ${y})`}>
+      {/* Szőnyeg (lapos rombusz, nincs magassága) */}
+      <path d="M 0,-20 L 28,-6 L 0,8 L -28,-6 Z" fill="#8B4050" opacity={0.6} />
+      <path d="M 0,-16 L 22,-4 L 0,4 L -22,-4 Z" fill="#A85060" opacity={0.5} />
+      {/* Minta */}
+      <path d="M 0,-12 L 14,-4 L 0,2 L -14,-4 Z" fill="none" stroke="rgba(255,200,150,0.2)" strokeWidth={1} />
+      <ellipse cx={0} cy={-4} rx={6} ry={3} fill="rgba(255,200,150,0.08)" />
+    </g>
+  );
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 20. KITCHEN TABLE — Konyhaasztal (2×2)
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+export function KitchenTable({ x, y }: FurnitureProps) {
+  return (
+    <g transform={`translate(${x}, ${y})`}>
+      <ellipse cx={0} cy={6} rx={32} ry={10} fill="rgba(0,0,0,0.10)" />
+      {/* Lábak */}
+      <line x1={-20} y1={-4} x2={-20} y2={4} stroke="#D0D0D8" strokeWidth={2.5} />
+      <line x1={20} y1={-4} x2={20} y2={4} stroke="#C0C0C8" strokeWidth={2.5} />
+      <line x1={0} y1={8} x2={0} y2={0} stroke="#C0C0C8" strokeWidth={2.5} />
+      <line x1={-2} y1={-12} x2={-2} y2={-4} stroke="#D0D0D8" strokeWidth={2.5} />
+      {/* Asztallap */}
+      <path d="M 26,-8 L 26,-12 L 0,4 L 0,8 Z" fill="#C0C0C8" />
+      <path d="M -26,-8 L -26,-12 L 0,4 L 0,8 Z" fill="#D8D8E0" />
+      <path d="M -26,-12 L 0,-28 L 26,-12 L 0,4 Z" fill="#E8E8F0" />
+      {/* Tányérok */}
+      <ellipse cx={-8} cy={-16} rx={4} ry={2} fill="#F0E8E0" />
+      <ellipse cx={8} cy={-16} rx={4} ry={2} fill="#F0E8E0" />
+    </g>
+  );
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 21. COUNTER — Konyha pult (2×1)
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+export function Counter({ x, y }: FurnitureProps) {
+  return (
+    <g transform={`translate(${x}, ${y})`}>
+      <ellipse cx={0} cy={6} rx={28} ry={7} fill="rgba(0,0,0,0.10)" />
+      {/* Test */}
+      <path d="M 24,-4 L 24,-22 L 0,-10 L 0,8 Z" fill="#D0D0D8" />
+      <path d="M -24,-4 L -24,-22 L 0,-10 L 0,8 Z" fill="#E0E0E8" />
+      {/* Pult teteje (márvány) */}
+      <path d="M -24,-22 L 0,-34 L 24,-22 L 0,-10 Z" fill="#E8E0D8" />
+      {/* Márvány erezetminta */}
+      <path d="M -10,-22 L 0,-28 L 6,-24" fill="none" stroke="rgba(180,170,160,0.2)" strokeWidth={0.5} />
+      <path d="M 4,-18 L 12,-22 L 18,-20" fill="none" stroke="rgba(180,170,160,0.15)" strokeWidth={0.5} />
+      {/* Fogantyú */}
+      <rect x={-1} y={-8} width={2} height={3} rx={0.5} fill="#A0A0A8" />
+    </g>
+  );
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 22. BENCH — Pad (2×1) Kert
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+export function Bench({ x, y }: FurnitureProps) {
+  return (
+    <g transform={`translate(${x}, ${y})`}>
+      <ellipse cx={0} cy={4} rx={28} ry={7} fill="rgba(0,0,0,0.10)" />
+      {/* Lábak */}
+      <line x1={-18} y1={-2} x2={-18} y2={4} stroke="#5A5A5A" strokeWidth={2} />
+      <line x1={18} y1={-2} x2={18} y2={4} stroke="#4A4A4A" strokeWidth={2} />
+      <line x1={-2} y1={-8} x2={-2} y2={-2} stroke="#5A5A5A" strokeWidth={2} />
+      <line x1={0} y1={6} x2={0} y2={0} stroke="#4A4A4A" strokeWidth={2} />
+      {/* Ülőlap (fa) */}
+      <path d="M 22,-6 L 22,-9 L 0,3 L 0,6 Z" fill="#7A5A3A" />
+      <path d="M -22,-6 L -22,-9 L 0,3 L 0,6 Z" fill="#9A7A4A" />
+      <path d="M -22,-9 L 0,-21 L 22,-9 L 0,3 Z" fill="#AA8A5A" />
+      {/* Fa deszka vonalak */}
+      <line x1={-16} y1={-14} x2={16} y2={-14} stroke="rgba(0,0,0,0.06)" strokeWidth={0.5} transform="rotate(-25,0,-14)" />
+      {/* Háttámla */}
+      <path d="M -20,-9 L -20,-18 L 0,-30 L 0,-21 Z" fill="#7A5A3A" />
+      <path d="M 0,-30 L 20,-18 L 20,-9 L 0,-21 Z" fill="#5A4A2A" />
+    </g>
+  );
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 23. FOUNTAIN — Szökőkút (2×2) Kert
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+export function Fountain({ x, y }: FurnitureProps) {
+  return (
+    <g transform={`translate(${x}, ${y})`}>
+      <ellipse cx={0} cy={8} rx={32} ry={12} fill="rgba(0,0,0,0.10)" />
+      {/* Alap medence */}
+      <path d="M 0,4 L 28,-10 L 28,-4 L 0,10 Z" fill="#8A8A90" />
+      <path d="M 0,4 L -28,-10 L -28,-4 L 0,10 Z" fill="#A0A0A8" />
+      <path d="M -28,-10 L 0,-24 L 28,-10 L 0,4 Z" fill="rgba(80,160,200,0.3)" />
+      {/* Belső víz */}
+      <path d="M -22,-8 L 0,-20 L 22,-8 L 0,2 Z" fill="rgba(100,180,220,0.25)" />
+      {/* Központi oszlop */}
+      <rect x={-3} y={-36} width={6} height={20} rx={2} fill="#B0B0B8" />
+      {/* Felső tál */}
+      <ellipse cx={0} cy={-36} rx={8} ry={4} fill="#C0C0C8" />
+      <ellipse cx={0} cy={-36} rx={6} ry={3} fill="rgba(100,180,220,0.25)" />
+      {/* Vízsugár */}
+      <line x1={0} y1={-42} x2={0} y2={-36} stroke="rgba(100,180,220,0.4)" strokeWidth={1.5} />
+      {/* Csepegő víz */}
+      <path d="M -6,-34 Q -10,-28 -8,-24" fill="none" stroke="rgba(100,180,220,0.2)" strokeWidth={0.8} />
+      <path d="M 6,-34 Q 10,-28 8,-24" fill="none" stroke="rgba(100,180,220,0.2)" strokeWidth={0.8} />
+      {/* Buborékok */}
+      <circle cx={-4} cy={-8} r={1} fill="rgba(255,255,255,0.15)" />
+      <circle cx={6} cy={-6} r={0.8} fill="rgba(255,255,255,0.12)" />
+    </g>
+  );
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 24. TREE — Fa (1×1) Kert
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+export function Tree({ x, y }: FurnitureProps) {
+  return (
+    <g transform={`translate(${x}, ${y})`}>
+      <ellipse cx={0} cy={4} rx={14} ry={6} fill="rgba(0,0,0,0.10)" />
+      {/* Törzs */}
+      <rect x={-2.5} y={-22} width={5} height={24} rx={1.5} fill="#6B4E35" />
+      <rect x={-1.5} y={-20} width={3} height={20} fill="#7B5E42" opacity={0.5} />
+      {/* Korona (több réteg) */}
+      <ellipse cx={0} cy={-30} rx={14} ry={8} fill="#3A8A2A" />
+      <ellipse cx={-4} cy={-34} rx={10} ry={7} fill="#4A9A3A" />
+      <ellipse cx={4} cy={-28} rx={10} ry={6} fill="#3A8A2A" />
+      <ellipse cx={0} cy={-36} rx={8} ry={5} fill="#5AAA4A" />
+      {/* Fény highlight */}
+      <ellipse cx={2} cy={-34} rx={5} ry={3} fill="rgba(255,255,255,0.06)" />
+    </g>
+  );
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 25. FLOWERBED — Virágágyás (2×1) Kert
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+export function Flowerbed({ x, y }: FurnitureProps) {
+  return (
+    <g transform={`translate(${x}, ${y})`}>
+      <ellipse cx={0} cy={4} rx={28} ry={8} fill="rgba(0,0,0,0.08)" />
+      {/* Föld keret */}
+      <path d="M 22,-2 L 22,-6 L 0,6 L 0,10 Z" fill="#5A3A20" />
+      <path d="M -22,-2 L -22,-6 L 0,6 L 0,10 Z" fill="#6A4A30" />
+      <path d="M -22,-6 L 0,-18 L 22,-6 L 0,6 Z" fill="#4A3018" />
+      {/* Virágok */}
+      <circle cx={-10} cy={-14} r={3} fill="#FF6688" />
+      <circle cx={-10} cy={-14} r={1.5} fill="#FFAA44" />
+      <circle cx={-2} cy={-12} r={3} fill="#FFAA44" />
+      <circle cx={-2} cy={-12} r={1.5} fill="#FFD844" />
+      <circle cx={6} cy={-14} r={2.5} fill="#CC66FF" />
+      <circle cx={6} cy={-14} r={1.2} fill="#FFCC88" />
+      <circle cx={12} cy={-10} r={2.5} fill="#FF6688" />
+      <circle cx={12} cy={-10} r={1.2} fill="#FFAA44" />
+      {/* Szár/levél */}
+      <line x1={-10} y1={-11} x2={-10} y2={-6} stroke="#3A7A2A" strokeWidth={1} />
+      <line x1={-2} y1={-9} x2={-2} y2={-4} stroke="#3A7A2A" strokeWidth={1} />
+      <line x1={6} y1={-11} x2={6} y2={-6} stroke="#3A7A2A" strokeWidth={1} />
+      <line x1={12} y1={-7} x2={12} y2={-2} stroke="#3A7A2A" strokeWidth={1} />
+    </g>
+  );
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // FURNITURE COMPONENT REGISTRY
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // Új bútort ide kell regisztrálni!
@@ -438,4 +834,19 @@ export const FURNITURE_COMPONENTS: Record<
   plant_big: PlantBig,
   fridge: Fridge,
   desk: Desk,
+  bed_double: BedDouble,
+  coffee_table: CoffeeTable,
+  fireplace: Fireplace,
+  aquarium: Aquarium,
+  stove: Stove,
+  bathtub: Bathtub,
+  toilet: Toilet,
+  sink: Sink,
+  rug_round: RugRound,
+  kitchen_table: KitchenTable,
+  counter: Counter,
+  bench: Bench,
+  fountain: Fountain,
+  tree: Tree,
+  flowerbed: Flowerbed,
 };
