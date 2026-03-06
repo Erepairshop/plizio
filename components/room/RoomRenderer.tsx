@@ -101,12 +101,14 @@ export default function RoomRenderer({
           if (!Component) return null;
 
           const fDef = getFurnitureDef(item.furnitureId);
-          const { x, y } = gridToScreen(
+          const { x, y: yCenter } = gridToScreen(
             item.gridX,
             item.gridY,
             originX,
             originY
           );
+          // Shift furniture to front edge of tile so it sits ON the floor
+          const y = yCenter + TILE_H / 2;
 
           const isSelected = editMode && selectedIndex === item.origIdx;
           const rotation = item.rotation || 0;

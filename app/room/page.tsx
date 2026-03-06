@@ -255,10 +255,12 @@ function AvatarInRoom({
       const oX = roomSize.gridH * (TILE_W / 2) + 20;
       const oY = 120;
       const { x: sx, y: sy } = gridToScreen(avatarGridPos.gx, avatarGridPos.gy, oX, oY);
+      // Shift down to front edge of tile (not center) so avatar stands on floor
+      const syGround = sy + TILE_H / 2;
 
       // SVG coord → DOM coord (relative to container)
       const domX = svgRect.left + (sx / viewBox.width) * svgRect.width - containerRect.left;
-      const domY = svgRect.top + (sy / viewBox.height) * svgRect.height - containerRect.top;
+      const domY = svgRect.top + (syGround / viewBox.height) * svgRect.height - containerRect.top;
 
       setPos({ left: domX, top: domY });
     };
@@ -269,7 +271,8 @@ function AvatarInRoom({
     return () => window.removeEventListener("resize", update);
   }, [avatarGridPos, roomSize, roomContainerRef, zoom, pan]);
 
-  const avatarSize = 90; // px
+  const baseAvatarSize = 60; // px at zoom=1
+  const avatarSize = baseAvatarSize * zoom;
 
   return (
     <div
@@ -277,7 +280,7 @@ function AvatarInRoom({
       className="absolute pointer-events-none z-20"
       style={{
         left: pos.left - avatarSize / 2,
-        top: pos.top - avatarSize - 4,
+        top: pos.top - avatarSize + 4 * zoom,
         width: avatarSize,
         height: avatarSize,
         transition: "left 0.6s ease-in-out, top 0.6s ease-in-out",
@@ -309,8 +312,8 @@ function AvatarInRoom({
       )}
       {/* Shadow */}
       <div
-        className="absolute -bottom-2 left-1/2 -translate-x-1/2 rounded-full bg-black/15"
-        style={{ width: avatarSize * 0.6, height: avatarSize * 0.15 }}
+        className="absolute -bottom-2 left-1/2 -translate-x-1/2 rounded-full bg-black/20"
+        style={{ width: avatarSize * 0.5, height: avatarSize * 0.1 }}
       />
     </div>
   );

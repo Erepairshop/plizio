@@ -703,8 +703,8 @@ function Character({
       leftLegRef.current.scale.y = lerp(leftLegRef.current.scale.y, legScale, 0.15);
       rightLegRef.current.scale.y = lerp(rightLegRef.current.scale.y, legScale, 0.15);
       if (jumpTimer.current >= 0) {
-        leftLegRef.current.position.y = lerp(leftLegRef.current.position.y, -0.44, 0.15);
-        rightLegRef.current.position.y = lerp(rightLegRef.current.position.y, -0.44, 0.15);
+        leftLegRef.current.position.y = lerp(leftLegRef.current.position.y, -0.52, 0.15);
+        rightLegRef.current.position.y = lerp(rightLegRef.current.position.y, -0.52, 0.15);
       }
     }
 
@@ -918,8 +918,8 @@ function Character({
             rightLegRef.current.rotation.x = Math.sin(dFreq + Math.PI) * 0.18;
           }
           if (leftShoulderRef.current && rightShoulderRef.current) {
-            leftShoulderRef.current.position.y = 0.2 + Math.sin(dFreq) * 0.022;
-            rightShoulderRef.current.position.y = 0.2 + Math.sin(dFreq + Math.PI) * 0.022;
+            leftShoulderRef.current.position.y = 0.26 + Math.sin(dFreq) * 0.022;
+            rightShoulderRef.current.position.y = 0.26 + Math.sin(dFreq + Math.PI) * 0.022;
           }
           break;
         }
@@ -962,13 +962,13 @@ function Character({
         }
         if (leftShoulderRef.current && rightShoulderRef.current) {
           const sBreath = Math.sin(t * 1.3) * 0.006;
-          leftShoulderRef.current.position.y = 0.2 + sBreath;
-          rightShoulderRef.current.position.y = 0.2 + sBreath;
+          leftShoulderRef.current.position.y = 0.26 + sBreath;
+          rightShoulderRef.current.position.y = 0.26 + sBreath;
         }
         if (leftLegRef.current && rightLegRef.current) {
           const wShift = Math.sin(t * 0.5) * 0.007;
-          leftLegRef.current.position.y = -0.44 + wShift;
-          rightLegRef.current.position.y = -0.44 - wShift;
+          leftLegRef.current.position.y = -0.52 + wShift;
+          rightLegRef.current.position.y = -0.52 - wShift;
         }
         if (mouthRef.current) {
           mouthRef.current.scale.x = 1.1 + Math.sin(t * 1.0) * 0.04;
@@ -1007,8 +1007,8 @@ function Character({
             rightArmRef.current.rotation.x = 0;
           }
           if (leftShoulderRef.current && rightShoulderRef.current) {
-            leftShoulderRef.current.position.y = 0.2 + p * 0.02;
-            rightShoulderRef.current.position.y = 0.2 + p * 0.02;
+            leftShoulderRef.current.position.y = 0.26 + p * 0.02;
+            rightShoulderRef.current.position.y = 0.26 + p * 0.02;
           }
         }
         if (mouthRef.current) {
@@ -1057,8 +1057,8 @@ function Character({
             rightArmRef.current.rotation.x = -arm * 0.3;
           }
           if (leftShoulderRef.current && rightShoulderRef.current) {
-            leftShoulderRef.current.position.y = 0.2 + (t / 2.8) * 0.03;
-            rightShoulderRef.current.position.y = 0.2 + (t / 2.8) * 0.03;
+            leftShoulderRef.current.position.y = 0.26 + (t / 2.8) * 0.03;
+            rightShoulderRef.current.position.y = 0.26 + (t / 2.8) * 0.03;
           }
         }
         if (mouthRef.current) {
@@ -1078,12 +1078,12 @@ function Character({
   // Boy hair: short, spiky
   // Girl hair: longer with side tufts
   const isGirl = gender === 'girl';
-  // Body shape: boy slightly wider, girl default
-  const bodyW = isGirl ? 0.5 : 0.54;
-  const bodyH = isGirl ? 0.5 : 0.52;
+  // Body shape: boy slightly wider, girl default — human proportions
+  const bodyW = isGirl ? 0.40 : 0.43;
+  const bodyH = isGirl ? 0.58 : 0.60;
 
   return (
-    <group ref={groupRef} position={[0, -0.08, 0]} scale={0.88}>
+    <group ref={groupRef} position={[0, -0.05, 0]} scale={0.78}>
 
       {/* ══ TRAIL ════════════════════════════════════════ */}
       {activeTrail && <TrailMesh trail={activeTrail} t={frameT} />}
@@ -1105,15 +1105,15 @@ function Character({
 
       {/* ── Shirt collar / accent ─────────────────────── */}
       {activeTop && (
-        <mesh position={[0, 0.26, 0.06]}>
-          <boxGeometry args={[0.28, 0.06, 0.06]} />
+        <mesh position={[0, 0.32, 0.05]}>
+          <boxGeometry args={[0.24, 0.05, 0.05]} />
           <meshStandardMaterial color={actualBodyAccent} roughness={0.6} />
         </mesh>
       )}
 
       {/* ══ SHOULDERS ══════════════════════════════════════ */}
-      <mesh ref={leftShoulderRef} position={[-0.28, 0.2, 0]}>
-        <sphereGeometry args={[0.1, 8, 6]} />
+      <mesh ref={leftShoulderRef} position={[-0.24, 0.26, 0]}>
+        <sphereGeometry args={[0.085, 8, 6]} />
         <meshStandardMaterial
           color={actualBodyColor}
           emissive={skinEmissive || '#000000'}
@@ -1122,8 +1122,8 @@ function Character({
           metalness={0.04}
         />
       </mesh>
-      <mesh ref={rightShoulderRef} position={[0.28, 0.2, 0]}>
-        <sphereGeometry args={[0.1, 8, 6]} />
+      <mesh ref={rightShoulderRef} position={[0.24, 0.26, 0]}>
+        <sphereGeometry args={[0.085, 8, 6]} />
         <meshStandardMaterial
           color={actualBodyColor}
           emissive={skinEmissive || '#000000'}
@@ -1134,8 +1134,8 @@ function Character({
       </mesh>
 
       {/* ══ NECK ════════════════════════════════════════════ */}
-      <mesh position={[0, 0.34, 0]}>
-        <cylinderGeometry args={[0.1, 0.115, 0.2, 8]} />
+      <mesh position={[0, 0.40, 0]}>
+        <cylinderGeometry args={[0.07, 0.085, 0.16, 8]} />
         <meshStandardMaterial
           color={actualSkinColor}
           emissive={skinEmissive || '#000000'}
@@ -1146,10 +1146,10 @@ function Character({
       </mesh>
 
       {/* ══ HEAD GROUP ══════════════════════════════════════ */}
-      <group ref={headRef} position={[0, 0.5, 0]}>
+      <group ref={headRef} position={[0, 0.58, 0]}>
         {/* Head */}
         <mesh>
-          <sphereGeometry args={[0.22, 16, 12]} />
+          <sphereGeometry args={[0.18, 16, 12]} />
           <meshStandardMaterial
             color={actualSkinColor}
             emissive={skinEmissive || '#000000'}
@@ -1159,8 +1159,8 @@ function Character({
           />
         </mesh>
         {/* Chin */}
-        <mesh position={[0, -0.07, 0.02]} scale={[1, 0.45, 0.85]}>
-          <sphereGeometry args={[0.17, 10, 6]} />
+        <mesh position={[0, -0.06, 0.02]} scale={[1, 0.45, 0.85]}>
+          <sphereGeometry args={[0.14, 10, 6]} />
           <meshStandardMaterial color={skinDark} roughness={0.7} metalness={0} />
         </mesh>
 
@@ -1184,59 +1184,59 @@ function Character({
         {isGirl ? (
           /* Girl: longer hair with side tufts */
           <>
-            <mesh position={[0, 0.1, 0]} scale={[1.05, 0.7, 1.05]}>
-              <sphereGeometry args={[0.22, 14, 8, 0, Math.PI * 2, 0, Math.PI * 0.55]} />
+            <mesh position={[0, 0.08, 0]} scale={[1.05, 0.7, 1.05]}>
+              <sphereGeometry args={[0.18, 14, 8, 0, Math.PI * 2, 0, Math.PI * 0.55]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
             </mesh>
-            <mesh position={[0, 0.19, 0.16]} rotation={[0.5, 0, 0]} scale={[0.9, 1, 0.7]}>
-              <sphereGeometry args={[0.1, 8, 6]} />
+            <mesh position={[0, 0.16, 0.13]} rotation={[0.5, 0, 0]} scale={[0.9, 1, 0.7]}>
+              <sphereGeometry args={[0.08, 8, 6]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
             </mesh>
-            <mesh position={[-0.16, 0.04, 0.02]} scale={[0.7, 0.85, 0.75]}>
-              <sphereGeometry args={[0.12, 8, 6]} />
+            <mesh position={[-0.13, 0.03, 0.02]} scale={[0.7, 0.85, 0.75]}>
+              <sphereGeometry args={[0.10, 8, 6]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
             </mesh>
-            <mesh position={[0.16, 0.04, 0.02]} scale={[0.7, 0.85, 0.75]}>
-              <sphereGeometry args={[0.12, 8, 6]} />
+            <mesh position={[0.13, 0.03, 0.02]} scale={[0.7, 0.85, 0.75]}>
+              <sphereGeometry args={[0.10, 8, 6]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
             </mesh>
             {/* Girl: two pigtail-like back tufts */}
-            <mesh position={[-0.14, -0.04, -0.12]} scale={[0.6, 0.9, 0.6]}>
-              <sphereGeometry args={[0.11, 8, 6]} />
+            <mesh position={[-0.12, -0.03, -0.10]} scale={[0.6, 0.9, 0.6]}>
+              <sphereGeometry args={[0.09, 8, 6]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
             </mesh>
-            <mesh position={[0.14, -0.04, -0.12]} scale={[0.6, 0.9, 0.6]}>
-              <sphereGeometry args={[0.11, 8, 6]} />
+            <mesh position={[0.12, -0.03, -0.10]} scale={[0.6, 0.9, 0.6]}>
+              <sphereGeometry args={[0.09, 8, 6]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
             </mesh>
           </>
         ) : (
           /* Boy: short, spiky hair */
           <>
-            <mesh position={[0, 0.13, 0]} scale={[1.02, 0.6, 1.02]}>
-              <sphereGeometry args={[0.22, 14, 8, 0, Math.PI * 2, 0, Math.PI * 0.45]} />
+            <mesh position={[0, 0.10, 0]} scale={[1.02, 0.6, 1.02]}>
+              <sphereGeometry args={[0.18, 14, 8, 0, Math.PI * 2, 0, Math.PI * 0.45]} />
               <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
             </mesh>
             {/* Spiky tufts */}
-            <mesh position={[0, 0.24, 0.05]} rotation={[-0.2, 0, 0]} scale={[0.5, 1.1, 0.4]}>
-              <coneGeometry args={[0.07, 0.15, 5]} />
+            <mesh position={[0, 0.20, 0.04]} rotation={[-0.2, 0, 0]} scale={[0.5, 1.1, 0.4]}>
+              <coneGeometry args={[0.06, 0.13, 5]} />
               <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
             </mesh>
-            <mesh position={[-0.08, 0.23, 0.05]} rotation={[-0.1, 0.3, 0.2]} scale={[0.4, 1, 0.4]}>
-              <coneGeometry args={[0.06, 0.14, 5]} />
+            <mesh position={[-0.07, 0.19, 0.04]} rotation={[-0.1, 0.3, 0.2]} scale={[0.4, 1, 0.4]}>
+              <coneGeometry args={[0.05, 0.12, 5]} />
               <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
             </mesh>
-            <mesh position={[0.08, 0.23, 0.05]} rotation={[-0.1, -0.3, -0.2]} scale={[0.4, 1, 0.4]}>
-              <coneGeometry args={[0.06, 0.14, 5]} />
+            <mesh position={[0.07, 0.19, 0.04]} rotation={[-0.1, -0.3, -0.2]} scale={[0.4, 1, 0.4]}>
+              <coneGeometry args={[0.05, 0.12, 5]} />
               <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
             </mesh>
             {/* Side hair */}
-            <mesh position={[-0.18, 0.06, 0]} scale={[0.55, 0.7, 0.6]}>
-              <sphereGeometry args={[0.12, 8, 6]} />
+            <mesh position={[-0.15, 0.05, 0]} scale={[0.55, 0.7, 0.6]}>
+              <sphereGeometry args={[0.10, 8, 6]} />
               <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
             </mesh>
-            <mesh position={[0.18, 0.06, 0]} scale={[0.55, 0.7, 0.6]}>
-              <sphereGeometry args={[0.12, 8, 6]} />
+            <mesh position={[0.15, 0.05, 0]} scale={[0.55, 0.7, 0.6]}>
+              <sphereGeometry args={[0.10, 8, 6]} />
               <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
             </mesh>
           </>
@@ -1247,10 +1247,10 @@ function Character({
       </group>
 
       {/* ══ LEFT ARM (shoulder→elbow→hand) ══════════════════ */}
-      <group ref={leftArmRef} position={[-0.33, 0.16, 0]} rotation={[0.12, 0, -0.15]}>
+      <group ref={leftArmRef} position={[-0.28, 0.22, 0]} rotation={[0.12, 0, -0.15]}>
         {/* Upper arm */}
-        <mesh position={[0, -0.11, 0]}>
-          <cylinderGeometry args={[0.058, 0.066, 0.22, 6]} />
+        <mesh position={[0, -0.12, 0]}>
+          <cylinderGeometry args={[0.045, 0.052, 0.24, 6]} />
           <meshStandardMaterial
             color={actualLimbColor}
             emissive={skinEmissive || '#000000'}
@@ -1259,10 +1259,10 @@ function Character({
             metalness={0.02}
           />
         </mesh>
-        {/* Forearm + hand (pivot = elbow at y=-0.22) */}
-        <group ref={leftForearmRef} position={[0, -0.22, 0]}>
-          <mesh position={[0, -0.08, 0]}>
-            <cylinderGeometry args={[0.05, 0.058, 0.16, 6]} />
+        {/* Forearm + hand (pivot = elbow at y=-0.24) */}
+        <group ref={leftForearmRef} position={[0, -0.24, 0]}>
+          <mesh position={[0, -0.09, 0]}>
+            <cylinderGeometry args={[0.04, 0.045, 0.18, 6]} />
             <meshStandardMaterial
               color={actualLimbColor}
               emissive={skinEmissive || '#000000'}
@@ -1271,8 +1271,8 @@ function Character({
               metalness={0.02}
             />
           </mesh>
-          <mesh position={[0, -0.18, 0]}>
-            <sphereGeometry args={[0.072, 8, 6]} />
+          <mesh position={[0, -0.20, 0]}>
+            <sphereGeometry args={[0.058, 8, 6]} />
             <meshStandardMaterial
               color={actualHandColor}
               emissive={skinEmissive || '#000000'}
@@ -1285,10 +1285,10 @@ function Character({
       </group>
 
       {/* ══ RIGHT ARM (shoulder→elbow→hand) ══════════════════ */}
-      <group ref={rightArmRef} position={[0.33, 0.16, 0]} rotation={[0.12, 0, 0.15]}>
+      <group ref={rightArmRef} position={[0.28, 0.22, 0]} rotation={[0.12, 0, 0.15]}>
         {/* Upper arm */}
-        <mesh position={[0, -0.11, 0]}>
-          <cylinderGeometry args={[0.058, 0.066, 0.22, 6]} />
+        <mesh position={[0, -0.12, 0]}>
+          <cylinderGeometry args={[0.045, 0.052, 0.24, 6]} />
           <meshStandardMaterial
             color={actualLimbColor}
             emissive={skinEmissive || '#000000'}
@@ -1297,10 +1297,10 @@ function Character({
             metalness={0.02}
           />
         </mesh>
-        {/* Forearm + hand (pivot = elbow at y=-0.22) */}
-        <group ref={rightForearmRef} position={[0, -0.22, 0]}>
-          <mesh position={[0, -0.08, 0]}>
-            <cylinderGeometry args={[0.05, 0.058, 0.16, 6]} />
+        {/* Forearm + hand (pivot = elbow at y=-0.24) */}
+        <group ref={rightForearmRef} position={[0, -0.24, 0]}>
+          <mesh position={[0, -0.09, 0]}>
+            <cylinderGeometry args={[0.04, 0.045, 0.18, 6]} />
             <meshStandardMaterial
               color={actualLimbColor}
               emissive={skinEmissive || '#000000'}
@@ -1309,8 +1309,8 @@ function Character({
               metalness={0.02}
             />
           </mesh>
-          <mesh position={[0, -0.18, 0]}>
-            <sphereGeometry args={[0.072, 8, 6]} />
+          <mesh position={[0, -0.20, 0]}>
+            <sphereGeometry args={[0.058, 8, 6]} />
             <meshStandardMaterial
               color={actualHandColor}
               emissive={skinEmissive || '#000000'}
@@ -1323,40 +1323,40 @@ function Character({
       </group>
 
       {/* ══ LEFT LEG ════════════════════════════════════════ */}
-      <mesh ref={leftLegRef} position={[-0.13, -0.44, 0.015]}>
-        <cylinderGeometry args={[0.092, 0.102, 0.42, 6]} />
+      <mesh ref={leftLegRef} position={[-0.11, -0.52, 0.015]}>
+        <cylinderGeometry args={[0.072, 0.082, 0.52, 6]} />
         <meshStandardMaterial color={actualLegColor} roughness={0.82} />
       </mesh>
       {/* Left foot */}
-      <mesh position={[-0.13, -0.665, 0.055]}>
-        <boxGeometry args={[0.14, 0.075, 0.22]} />
+      <mesh position={[-0.11, -0.79, 0.05]}>
+        <boxGeometry args={[0.12, 0.065, 0.20]} />
         <meshStandardMaterial
           color={activeShoe?.sole || actualShoeColor}
           roughness={0.88}
         />
       </mesh>
       {/* Shoe top */}
-      <mesh position={[-0.13, -0.638, 0.038]}>
-        <boxGeometry args={[0.135, 0.04, 0.18]} />
+      <mesh position={[-0.11, -0.765, 0.035]}>
+        <boxGeometry args={[0.115, 0.035, 0.16]} />
         <meshStandardMaterial color={actualShoeColor} roughness={0.75} />
       </mesh>
 
       {/* ══ RIGHT LEG ═══════════════════════════════════════ */}
-      <mesh ref={rightLegRef} position={[0.13, -0.44, -0.015]}>
-        <cylinderGeometry args={[0.092, 0.102, 0.42, 6]} />
+      <mesh ref={rightLegRef} position={[0.11, -0.52, -0.015]}>
+        <cylinderGeometry args={[0.072, 0.082, 0.52, 6]} />
         <meshStandardMaterial color={actualLegColor} roughness={0.82} />
       </mesh>
       {/* Right foot */}
-      <mesh position={[0.13, -0.665, 0.055]}>
-        <boxGeometry args={[0.14, 0.075, 0.22]} />
+      <mesh position={[0.11, -0.79, 0.05]}>
+        <boxGeometry args={[0.12, 0.065, 0.20]} />
         <meshStandardMaterial
           color={activeShoe?.sole || actualShoeColor}
           roughness={0.88}
         />
       </mesh>
       {/* Shoe top */}
-      <mesh position={[0.13, -0.638, 0.038]}>
-        <boxGeometry args={[0.135, 0.04, 0.18]} />
+      <mesh position={[0.11, -0.765, 0.035]}>
+        <boxGeometry args={[0.115, 0.035, 0.16]} />
         <meshStandardMaterial color={actualShoeColor} roughness={0.75} />
       </mesh>
     </group>
