@@ -1359,74 +1359,48 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
 
         {/* ── HAIR ─────────────────────────────────── */}
         {isGirl ? (
-          /* Girl: longer hair with side tufts */
+          /* Girl: long hair — dome cap + side curtains + fringe */
           <>
-            <mesh position={[0, 0.08, 0]} scale={[1.05, 0.7, 1.05]}>
-              <sphereGeometry args={[0.18, 14, 8, 0, Math.PI * 2, 0, Math.PI * 0.55]} />
+            {/* Main cap — slightly bigger than head, top hemisphere + sides */}
+            <mesh position={[0, 0, 0]} scale={[1.06, 1.06, 1.06]}>
+              <sphereGeometry args={[0.18, 16, 10, 0, Math.PI * 2, 0, Math.PI * 0.58]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
             </mesh>
-            <mesh position={[0, 0.16, 0.13]} rotation={[0.5, 0, 0]} scale={[0.9, 1, 0.7]}>
-              <sphereGeometry args={[0.08, 8, 6]} />
+            {/* Left long curtain */}
+            <mesh position={[-0.155, -0.10, 0.01]} scale={[0.42, 1.15, 0.52]}>
+              <sphereGeometry args={[0.13, 10, 8]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
             </mesh>
-            <mesh position={[-0.13, 0.03, 0.02]} scale={[0.7, 0.85, 0.75]}>
-              <sphereGeometry args={[0.10, 8, 6]} />
+            {/* Right long curtain */}
+            <mesh position={[0.155, -0.10, 0.01]} scale={[0.42, 1.15, 0.52]}>
+              <sphereGeometry args={[0.13, 10, 8]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
             </mesh>
-            <mesh position={[0.13, 0.03, 0.02]} scale={[0.7, 0.85, 0.75]}>
-              <sphereGeometry args={[0.10, 8, 6]} />
-              <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
-            </mesh>
-            {/* Girl: two pigtail-like back tufts */}
-            <mesh position={[-0.12, -0.03, -0.10]} scale={[0.6, 0.9, 0.6]}>
-              <sphereGeometry args={[0.09, 8, 6]} />
-              <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
-            </mesh>
-            <mesh position={[0.12, -0.03, -0.10]} scale={[0.6, 0.9, 0.6]}>
+            {/* Front fringe */}
+            <mesh position={[0, 0.03, 0.165]} rotation={[0.45, 0, 0]} scale={[1.1, 0.42, 0.50]}>
               <sphereGeometry args={[0.09, 8, 6]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
             </mesh>
           </>
         ) : (
-          /* Boy: short, spiky hair */
+          /* Boy: clean short cap + small fringe */
           <>
-            <mesh position={[0, 0.10, 0]} scale={[1.02, 0.6, 1.02]}>
-              <sphereGeometry args={[0.18, 14, 8, 0, Math.PI * 2, 0, Math.PI * 0.45]} />
+            {/* Main cap — centered at head center, top + sides */}
+            <mesh position={[0, 0, 0]} scale={[1.06, 1.06, 1.06]}>
+              <sphereGeometry args={[0.18, 16, 10, 0, Math.PI * 2, 0, Math.PI * 0.52]} />
               <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
             </mesh>
-            {/* Spiky tufts */}
-            <mesh position={[0, 0.20, 0.04]} rotation={[-0.2, 0, 0]} scale={[0.5, 1.1, 0.4]}>
-              <coneGeometry args={[0.06, 0.13, 5]} />
-              <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
-            </mesh>
-            <mesh position={[-0.07, 0.19, 0.04]} rotation={[-0.1, 0.3, 0.2]} scale={[0.4, 1, 0.4]}>
-              <coneGeometry args={[0.05, 0.12, 5]} />
-              <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
-            </mesh>
-            <mesh position={[0.07, 0.19, 0.04]} rotation={[-0.1, -0.3, -0.2]} scale={[0.4, 1, 0.4]}>
-              <coneGeometry args={[0.05, 0.12, 5]} />
-              <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
-            </mesh>
-            {/* Side hair — z=0.03 so they don't protrude behind */}
-            <mesh position={[-0.15, 0.04, 0.03]} scale={[0.50, 0.65, 0.45]}>
-              <sphereGeometry args={[0.10, 8, 6]} />
-              <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
-            </mesh>
-            <mesh position={[0.15, 0.04, 0.03]} scale={[0.50, 0.65, 0.45]}>
-              <sphereGeometry args={[0.10, 8, 6]} />
-              <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
-            </mesh>
-            {/* Back hair dome — covers back of head */}
-            <mesh position={[0, 0.04, -0.06]} scale={[0.88, 0.55, 0.50]}>
-              <sphereGeometry args={[0.18, 10, 8]} />
+            {/* Front fringe strip */}
+            <mesh position={[0, 0.04, 0.165]} rotation={[0.50, 0, 0]} scale={[1.1, 0.42, 0.52]}>
+              <sphereGeometry args={[0.09, 8, 6]} />
               <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
             </mesh>
           </>
         )}
-{/* ── ORR ───────────────────────────────────── */}
-<mesh position={[0, -0.005, 0.178]} scale={[0.60, 0.75, 0.45]}>
-  <sphereGeometry args={[0.038, 8, 6]} />
-  <meshStandardMaterial color={actualSkinColor} roughness={0.6} />
+{/* ── ORR — egyetlen kis bump ──────────────── */}
+<mesh position={[0, -0.012, 0.182]} scale={[0.52, 0.58, 0.42]}>
+  <sphereGeometry args={[0.030, 8, 6]} />
+  <meshStandardMaterial color={actualSkinColor} roughness={0.55} />
 </mesh>
         {/* ── BAL FÜL ───────────────────────────────── */}
 <group position={[-0.178, 0.01, 0]}>
