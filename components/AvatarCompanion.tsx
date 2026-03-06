@@ -1303,7 +1303,6 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
   <boxGeometry args={[0.055, 0.028, 0.008]} />
   <meshStandardMaterial color="#8a7050" roughness={0.4} metalness={0.5} />
 </mesh>
-      )}
 
       {/* ══ SHOULDERS ══════════════════════════════════════ */}
       <mesh ref={leftShoulderRef} position={[-0.24, 0.26, 0]}>
