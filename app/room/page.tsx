@@ -425,6 +425,7 @@ function AvatarInRoom({
       <div className="w-full h-full">
         <AvatarCompanion
           fixed={false}
+          passThrough={true}
           mood={mood}
           isWalking={isWalking}
           facing={facing}

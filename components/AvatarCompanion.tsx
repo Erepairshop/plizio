@@ -32,6 +32,8 @@ export interface AvatarCompanionProps {
   activeGloves?: GloveDef | null;
   activeHat?: HatDef | null;
   activeTrail?: TrailDef | null;
+  // When true, the avatar canvas passes clicks through to underlying elements
+  passThrough?: boolean;
 }
 
 function nextBlink() {
@@ -1417,6 +1419,7 @@ export default function AvatarCompanion({
   activeGloves,
   activeHat,
   activeTrail,
+  passThrough = false,
 }: AvatarCompanionProps) {
   const positionClass = fixed ? 'fixed z-50' : 'relative w-full h-full';
   const [localJump, setLocalJump] = useState<{
@@ -1437,12 +1440,12 @@ export default function AvatarCompanion({
 
   return (
     <div
-      className={`${positionClass} pointer-events-auto ${fixed ? 'w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48' : ''} cursor-pointer`}
+      className={`${positionClass} ${passThrough ? 'pointer-events-none' : 'pointer-events-auto cursor-pointer'} ${fixed ? 'w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48' : ''}`}
       style={fixed ? {
         bottom: 'max(20px, calc(env(safe-area-inset-bottom) + 20px))',
         right: '20px',
       } : {}}
-      onClick={handleClick}
+      onClick={passThrough ? undefined : handleClick}
     >
       <Canvas
         camera={{ position: [0, 0.15, 2.6], fov: 44 }}
