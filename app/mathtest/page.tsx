@@ -774,6 +774,14 @@ export default function MathTestPage() {
 
     // ─── Grade 1-4: School Test Mode ──────────────────────────────
     if (selectedGrade <= 4) {
+      // Reset the Klassenarbeit timer with a fresh timestamp to prevent the
+      // existing timer useEffect from reading a stale localStorage value and
+      // immediately triggering auto-grading.
+      const now = Date.now();
+      setKlassenarbeitStartTime(now);
+      setKlassenarbeitTimeLeft(40 * 60);
+      localStorage.setItem("klassenarbeitStartTime", now.toString());
+
       const tasks = generateSchoolTest(selectedGrade, country?.code || 'DE');
       setSchoolTasks(tasks);
       setSchoolAnswers({});
