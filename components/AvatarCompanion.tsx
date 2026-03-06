@@ -316,8 +316,8 @@ function FaceFeatures({
   rightLidRef: React.RefObject<THREE.Mesh | null>;
   leftIrisRef: React.RefObject<THREE.Mesh | null>;
   rightIrisRef: React.RefObject<THREE.Mesh | null>;
-  leftBrowRef: React.RefObject<THREE.Mesh | null>;
-  rightBrowRef: React.RefObject<THREE.Mesh | null>;
+leftBrowRef: React.RefObject<THREE.Object3D | null>;
+rightBrowRef: React.RefObject<THREE.Object3D | null>;
 }) {
   const eyeCol  = face?.eyeColor  || '#2a2a2a';
   const mouthCol = face?.mouthColor || '#b06060';
@@ -359,13 +359,26 @@ function FaceFeatures({
 
     return (
       <>
-        {/* Eye white — hidden for happy (arc eye) and wink-closed */}
-        {!specialEye && !isWinkClosed && (
-          <mesh position={[x, 0.04, 0.19]}>
-            <sphereGeometry args={[0.042, 8, 8]} />
-            <meshStandardMaterial color="#f2f2f2" roughness={0.25} />
-          </mesh>
-        )}
+{/* Eye white — mandula alakú, laposabb */}
+{!specialEye && !isWinkClosed && (
+  <group position={[x, 0.04, 0.188]}>
+    {/* Fehér sclera */}
+    <mesh scale={[1.0, 0.72, 0.38]}>
+      <sphereGeometry args={[0.048, 10, 8]} />
+      <meshStandardMaterial color="#f5f2ee" roughness={0.2} />
+    </mesh>
+    {/* Felső szemhéj árnyék */}
+    <mesh position={[0, 0.022, 0.016]} scale={[1.05, 0.35, 0.5]}>
+      <sphereGeometry args={[0.048, 8, 6]} />
+      <meshStandardMaterial color={skinDark} roughness={0.7} transparent opacity={0.45} />
+    </mesh>
+    {/* Alsó szemhéj vonal */}
+    <mesh position={[0, -0.022, 0.014]} scale={[1.0, 0.22, 0.4]}>
+      <sphereGeometry args={[0.048, 8, 6]} />
+      <meshStandardMaterial color={skinDark} roughness={0.7} transparent opacity={0.25} />
+    </mesh>
+  </group>
+)}
 
         {/* Angry squint: skin-coloured overlay covers top of eye white */}
         {eyeType === 'angry' && (
@@ -461,11 +474,24 @@ function FaceFeatures({
           <meshStandardMaterial color={skinColor} roughness={0.6} side={THREE.DoubleSide} />
         </mesh>
 
-        {/* Eyebrow */}
-        <mesh ref={browRef} position={[bx, browY, 0.2]} rotation={[0, 0, browRotZ]}>
-          <boxGeometry args={[0.054, 0.013, 0.007]} />
-          <meshStandardMaterial color="#2d1e0e" roughness={0.72} />
-        </mesh>
+ {/* Eyebrow */}
+<group ref={browRef} position={[bx, browY, 0.2]} rotation={[0, 0, browRotZ]}>
+  {/* Fő szemöldök test */}
+  <mesh scale={[1.0, 1.0, 1.0]}>
+    <boxGeometry args={[0.058, 0.016, 0.008]} />
+    <meshStandardMaterial color="#2d1e0e" roughness={0.65} />
+  </mesh>
+  {/* Belső vastagabb rész */}
+  <mesh position={[side * -0.018, 0.002, 0.001]} scale={[0.38, 1.35, 1.1]}>
+    <boxGeometry args={[0.058, 0.016, 0.008]} />
+    <meshStandardMaterial color="#2d1e0e" roughness={0.65} />
+  </mesh>
+  {/* Külső elvékonyodó rész */}
+  <mesh position={[side * 0.022, -0.003, 0.0]} scale={[0.32, 0.65, 0.9]}>
+    <boxGeometry args={[0.058, 0.016, 0.008]} />
+    <meshStandardMaterial color="#3d2e1e" roughness={0.7} />
+  </mesh>
+</group>
       </>
     );
   };
@@ -493,14 +519,44 @@ function FaceFeatures({
       {/* ── MOUTH ─────────────────────────────────────────── */}
       {mouthType === 'none' ? null
 
-      : mouthType === 'smile' ? (
-        /* Upward-curved ∪ arc */
-        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
-          <mesh position={[0, 0.01, 0.013]} rotation={[0, 0, Math.PI]}>
-            <torusGeometry args={[0.038, 0.010, 6, 16, Math.PI]} />
-            <meshStandardMaterial color={mouthCol} roughness={0.5} />
-          </mesh>
-        </group>
+: mouthType === 'smile' ? (
+  <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+    {/* Felső ajak */}
+    <mesh position={[0, 0.014, 0.013]} scale={[1.0, 0.55, 0.6]}>
+      <sphereGeometry args={[0.042, 10, 6]} />
+      <meshStandardMaterial color={mouthCol} roughness={0.45} />
+    </mesh>
+    {/* Cupid's bow csúcs bal */}
+    <mesh position={[-0.018, 0.022, 0.015]} scale={[0.45, 0.38, 0.5]}>
+      <sphereGeometry args={[0.028, 8, 5]} />
+      <meshStandardMaterial color={mouthCol} roughness={0.45} />
+    </mesh>
+    {/* Cupid's bow csúcs jobb */}
+    <mesh position={[0.018, 0.022, 0.015]} scale={[0.45, 0.38, 0.5]}>
+      <sphereGeometry args={[0.028, 8, 5]} />
+      <meshStandardMaterial color={mouthCol} roughness={0.45} />
+    </mesh>
+    {/* Alsó ajak */}
+    <mesh position={[0, -0.008, 0.015]} scale={[1.05, 0.52, 0.65]}>
+      <sphereGeometry args={[0.042, 10, 6]} />
+      <meshStandardMaterial color={mouthCol} roughness={0.42} />
+    </mesh>
+    {/* Ajak közepe árnyék vonal */}
+    <mesh position={[0, 0.004, 0.018]}>
+      <boxGeometry args={[0.068, 0.006, 0.004]} />
+      <meshStandardMaterial color="#8a4040" roughness={0.6} />
+    </mesh>
+    {/* Szájzug bal */}
+    <mesh position={[-0.038, 0.004, 0.012]} scale={[0.35, 0.35, 0.4]}>
+      <sphereGeometry args={[0.018, 6, 5]} />
+      <meshStandardMaterial color="#9a5050" roughness={0.6} />
+    </mesh>
+    {/* Szájzug jobb */}
+    <mesh position={[0.038, 0.004, 0.012]} scale={[0.35, 0.35, 0.4]}>
+      <sphereGeometry args={[0.018, 6, 5]} />
+      <meshStandardMaterial color="#9a5050" roughness={0.6} />
+    </mesh>
+  </group>
 
       ) : mouthType === 'grin' ? (
         /* Wide ∪ arc + white teeth strip */
@@ -618,8 +674,8 @@ function Character({
   const rightLidRef = useRef<THREE.Mesh | null>(null);
   const leftIrisRef = useRef<THREE.Mesh | null>(null);
   const rightIrisRef = useRef<THREE.Mesh | null>(null);
-  const leftBrowRef = useRef<THREE.Mesh | null>(null);
-  const rightBrowRef = useRef<THREE.Mesh | null>(null);
+ const leftBrowRef = useRef<THREE.Object3D | null>(null);
+const rightBrowRef = useRef<THREE.Object3D | null>(null);
   const mouthRef = useRef<THREE.Mesh | null>(null);
   const leftArmRef = useRef<THREE.Group>(null);
   const rightArmRef = useRef<THREE.Group>(null);
@@ -1138,17 +1194,53 @@ function Character({
       {/* ══ CAPE (behind body) ═══════════════════════════ */}
       {activeCape && <CapeMesh cape={activeCape} t={frameT} />}
 
-      {/* ══ BODY ══════════════════════════════════════════ */}
-      <mesh ref={bodyRef} position={[0, 0, 0]}>
-        <boxGeometry args={[bodyW, bodyH, 0.28]} />
-        <meshStandardMaterial
-          color={actualBodyColor}
-          emissive={skinEmissive || '#000000'}
-          emissiveIntensity={skinEmissiveIntensity}
-          roughness={0.68}
-          metalness={0.04}
-        />
-      </mesh>
+      {/* ══ BODY ══════════════════════════════════════ */}
+<mesh ref={bodyRef} position={[0, 0, 0]}>
+  <boxGeometry args={[bodyW, bodyH, 0.28]} />
+  <meshStandardMaterial
+    color={actualBodyColor}
+    emissive={skinEmissive || '#000000'}
+    emissiveIntensity={skinEmissiveIntensity}
+    roughness={0.68}
+    metalness={0.04}
+  />
+</mesh>
+
+{/* ── Mellkas kiemelkedés ───────────────────── */}
+<mesh position={[0, 0.18, 0.10]} scale={[0.82, 0.38, 0.32]}>
+  <sphereGeometry args={[0.28, 10, 8]} />
+  <meshStandardMaterial
+    color={actualBodyColor}
+    emissive={skinEmissive || '#000000'}
+    emissiveIntensity={skinEmissiveIntensity}
+    roughness={0.68}
+    metalness={0.04}
+  />
+</mesh>
+
+{/* ── Csípő kiszélesedés ────────────────────── */}
+<mesh position={[0, -0.22, 0.0]} scale={[isGirl ? 1.08 : 1.02, 0.28, 0.88]}>
+  <sphereGeometry args={[0.28, 10, 8]} />
+  <meshStandardMaterial
+    color={actualBodyColor}
+    emissive={skinEmissive || '#000000'}
+    emissiveIntensity={skinEmissiveIntensity}
+    roughness={0.68}
+    metalness={0.04}
+  />
+</mesh>
+
+{/* ── Derék beszűkülés ──────────────────────── */}
+<mesh position={[0, -0.04, 0.0]} scale={[isGirl ? 0.78 : 0.88, 0.22, 0.82]}>
+  <sphereGeometry args={[0.28, 10, 8]} />
+  <meshStandardMaterial
+    color={actualBodyColor}
+    emissive={skinEmissive || '#000000'}
+    emissiveIntensity={skinEmissiveIntensity}
+    roughness={0.68}
+    metalness={0.04}
+  />
+</mesh>
 
       {/* ── Shirt collar / accent ─────────────────────── */}
       {activeTop && (
@@ -1288,24 +1380,82 @@ function Character({
             </mesh>
           </>
         )}
+{/* ── ORR ───────────────────────────────────── */}
+<mesh position={[0, 0.01, 0.175]} scale={[0.55, 1.0, 0.5]}>
+  <sphereGeometry args={[0.045, 8, 6]} />
+  <meshStandardMaterial color={actualSkinColor} roughness={0.6} />
+</mesh>
+<mesh position={[0, -0.025, 0.192]} scale={[0.9, 0.7, 0.7]}>
+  <sphereGeometry args={[0.036, 8, 6]} />
+  <meshStandardMaterial color={actualSkinColor} roughness={0.6} />
+</mesh>
+<mesh position={[-0.028, -0.028, 0.182]} scale={[0.6, 0.55, 0.55]}>
+  <sphereGeometry args={[0.032, 7, 5]} />
+  <meshStandardMaterial color={skinDark} roughness={0.68} />
+</mesh>
+<mesh position={[0.028, -0.028, 0.182]} scale={[0.6, 0.55, 0.55]}>
+  <sphereGeometry args={[0.032, 7, 5]} />
+  <meshStandardMaterial color={skinDark} roughness={0.68} />
+</mesh>
+        {/* ── BAL FÜL ───────────────────────────────── */}
+<group position={[-0.178, 0.01, 0]}>
+  <mesh scale={[0.38, 0.62, 0.22]}>
+    <sphereGeometry args={[0.10, 10, 8]} />
+    <meshStandardMaterial color={actualSkinColor} roughness={0.65} />
+  </mesh>
+  <mesh position={[0.018, 0, 0.005]} scale={[0.22, 0.38, 0.18]}>
+    <sphereGeometry args={[0.10, 8, 6]} />
+    <meshStandardMaterial color={skinDark} roughness={0.75} />
+  </mesh>
+  <mesh position={[0.025, -0.018, 0.022]} scale={[0.18, 0.22, 0.15]}>
+    <sphereGeometry args={[0.06, 6, 5]} />
+    <meshStandardMaterial color={actualSkinColor} roughness={0.65} />
+  </mesh>
+</group>
 
+{/* ── JOBB FÜL ──────────────────────────────── */}
+<group position={[0.178, 0.01, 0]}>
+  <mesh scale={[0.38, 0.62, 0.22]}>
+    <sphereGeometry args={[0.10, 10, 8]} />
+    <meshStandardMaterial color={actualSkinColor} roughness={0.65} />
+  </mesh>
+  <mesh position={[-0.018, 0, 0.005]} scale={[0.22, 0.38, 0.18]}>
+    <sphereGeometry args={[0.10, 8, 6]} />
+    <meshStandardMaterial color={skinDark} roughness={0.75} />
+  </mesh>
+  <mesh position={[-0.025, -0.018, 0.022]} scale={[0.18, 0.22, 0.15]}>
+    <sphereGeometry args={[0.06, 6, 5]} />
+    <meshStandardMaterial color={actualSkinColor} roughness={0.65} />
+  </mesh>
+</group>
         {/* Hat on top of head */}
         {activeHat && <HatMesh hat={activeHat} skinColor={actualSkinColor} />}
       </group>
 
       {/* ══ LEFT ARM (shoulder→elbow→hand) ══════════════════ */}
       <group ref={leftArmRef} position={[-0.28, 0.22, 0]} rotation={[0.12, 0, -0.15]}>
-        {/* Upper arm */}
-        <mesh position={[0, -0.12, 0]}>
-          <cylinderGeometry args={[0.045, 0.052, 0.24, 6]} />
-          <meshStandardMaterial
-            color={actualLimbColor}
-            emissive={skinEmissive || '#000000'}
-            emissiveIntensity={skinEmissiveIntensity * 0.4}
-            roughness={0.62}
-            metalness={0.02}
-          />
-        </mesh>
+{/* Upper arm */}
+<mesh position={[0, -0.12, 0]}>
+  <cylinderGeometry args={[0.045, 0.052, 0.24, 6]} />
+  <meshStandardMaterial
+    color={actualLimbColor}
+    emissive={skinEmissive || '#000000'}
+    emissiveIntensity={skinEmissiveIntensity * 0.4}
+    roughness={0.62}
+    metalness={0.02}
+  />
+</mesh>
+{/* Könyök bump */}
+<mesh position={[0, -0.24, -0.01]} scale={[0.72, 0.52, 0.62]}>
+  <sphereGeometry args={[0.052, 8, 6]} />
+  <meshStandardMaterial
+    color={actualLimbColor}
+    emissive={skinEmissive || '#000000'}
+    emissiveIntensity={skinEmissiveIntensity * 0.4}
+    roughness={0.68}
+    metalness={0.02}
+  />
+</mesh>
         {/* Forearm + hand (pivot = elbow at y=-0.24) */}
         <group ref={leftForearmRef} position={[0, -0.24, 0]}>
           <mesh position={[0, -0.09, 0]}>
@@ -1318,16 +1468,39 @@ function Character({
               metalness={0.02}
             />
           </mesh>
-          <mesh position={[0, -0.20, 0]}>
-            <sphereGeometry args={[0.058, 8, 6]} />
-            <meshStandardMaterial
-              color={actualHandColor}
-              emissive={skinEmissive || '#000000'}
-              emissiveIntensity={skinEmissiveIntensity * 0.3}
-              roughness={0.55}
-              metalness={0.02}
-            />
-          </mesh>
+{/* ── BAL KÉZFEJ & UJJAK ───────────────────── */}
+<group position={[0, -0.20, 0]}>
+  {/* Tenyér */}
+  <mesh scale={[1.1, 0.72, 0.62]}>
+    <sphereGeometry args={[0.058, 10, 8]} />
+    <meshStandardMaterial color={actualHandColor} emissive={skinEmissive || '#000000'} emissiveIntensity={skinEmissiveIntensity * 0.3} roughness={0.55} />
+  </mesh>
+  {/* Mutatóujj */}
+  <mesh position={[-0.030, -0.062, 0.008]} rotation={[0.15, 0, 0.08]}>
+    <cylinderGeometry args={[0.013, 0.016, 0.072, 5]} />
+    <meshStandardMaterial color={actualHandColor} roughness={0.58} />
+  </mesh>
+  {/* Középső ujj */}
+  <mesh position={[-0.010, -0.068, 0.008]} rotation={[0.12, 0, 0.02]}>
+    <cylinderGeometry args={[0.014, 0.016, 0.078, 5]} />
+    <meshStandardMaterial color={actualHandColor} roughness={0.58} />
+  </mesh>
+  {/* Gyűrűsujj */}
+  <mesh position={[0.012, -0.064, 0.008]} rotation={[0.14, 0, -0.05]}>
+    <cylinderGeometry args={[0.013, 0.015, 0.072, 5]} />
+    <meshStandardMaterial color={actualHandColor} roughness={0.58} />
+  </mesh>
+  {/* Kisujj */}
+  <mesh position={[0.032, -0.056, 0.006]} rotation={[0.18, 0, -0.12]}>
+    <cylinderGeometry args={[0.011, 0.013, 0.058, 5]} />
+    <meshStandardMaterial color={actualHandColor} roughness={0.58} />
+  </mesh>
+  {/* Hüvelykujj */}
+  <mesh position={[-0.052, -0.022, 0.010]} rotation={[0.1, 0, -0.75]}>
+    <cylinderGeometry args={[0.013, 0.016, 0.056, 5]} />
+    <meshStandardMaterial color={actualHandColor} roughness={0.58} />
+  </mesh>
+</group>
         </group>
       </group>
 
@@ -1356,56 +1529,113 @@ function Character({
               metalness={0.02}
             />
           </mesh>
-          <mesh position={[0, -0.20, 0]}>
-            <sphereGeometry args={[0.058, 8, 6]} />
-            <meshStandardMaterial
-              color={actualHandColor}
-              emissive={skinEmissive || '#000000'}
-              emissiveIntensity={skinEmissiveIntensity * 0.3}
-              roughness={0.55}
-              metalness={0.02}
-            />
-          </mesh>
+{/* ── JOBB KÉZFEJ & UJJAK ──────────────────── */}
+<group position={[0, -0.20, 0]}>
+  {/* Tenyér */}
+  <mesh scale={[1.1, 0.72, 0.62]}>
+    <sphereGeometry args={[0.058, 10, 8]} />
+    <meshStandardMaterial color={actualHandColor} emissive={skinEmissive || '#000000'} emissiveIntensity={skinEmissiveIntensity * 0.3} roughness={0.55} />
+  </mesh>
+  {/* Mutatóujj */}
+  <mesh position={[-0.030, -0.062, 0.008]} rotation={[0.15, 0, 0.08]}>
+    <cylinderGeometry args={[0.013, 0.016, 0.072, 5]} />
+    <meshStandardMaterial color={actualHandColor} roughness={0.58} />
+  </mesh>
+  {/* Középső ujj */}
+  <mesh position={[-0.010, -0.068, 0.008]} rotation={[0.12, 0, 0.02]}>
+    <cylinderGeometry args={[0.014, 0.016, 0.078, 5]} />
+    <meshStandardMaterial color={actualHandColor} roughness={0.58} />
+  </mesh>
+  {/* Gyűrűsujj */}
+  <mesh position={[0.012, -0.064, 0.008]} rotation={[0.14, 0, -0.05]}>
+    <cylinderGeometry args={[0.013, 0.015, 0.072, 5]} />
+    <meshStandardMaterial color={actualHandColor} roughness={0.58} />
+  </mesh>
+  {/* Kisujj */}
+  <mesh position={[0.032, -0.056, 0.006]} rotation={[0.18, 0, -0.12]}>
+    <cylinderGeometry args={[0.011, 0.013, 0.058, 5]} />
+    <meshStandardMaterial color={actualHandColor} roughness={0.58} />
+  </mesh>
+  {/* Hüvelykujj — tükrözve */}
+  <mesh position={[0.052, -0.022, 0.010]} rotation={[0.1, 0, 0.75]}>
+    <cylinderGeometry args={[0.013, 0.016, 0.056, 5]} />
+    <meshStandardMaterial color={actualHandColor} roughness={0.58} />
+  </mesh>
+</group>
         </group>
       </group>
 
       {/* ══ LEFT LEG ════════════════════════════════════════ */}
-      <mesh ref={leftLegRef} position={[-0.11, -0.52, 0.015]}>
-        <cylinderGeometry args={[0.072, 0.082, 0.52, 6]} />
-        <meshStandardMaterial color={actualLegColor} roughness={0.82} />
-      </mesh>
-      {/* Left foot */}
-      <mesh position={[-0.11, -0.79, 0.05]}>
-        <boxGeometry args={[0.12, 0.065, 0.20]} />
-        <meshStandardMaterial
-          color={activeShoe?.sole || actualShoeColor}
-          roughness={0.88}
-        />
-      </mesh>
-      {/* Shoe top */}
-      <mesh position={[-0.11, -0.765, 0.035]}>
-        <boxGeometry args={[0.115, 0.035, 0.16]} />
-        <meshStandardMaterial color={actualShoeColor} roughness={0.75} />
-      </mesh>
+<mesh ref={leftLegRef} position={[-0.11, -0.52, 0.015]}>
+  <cylinderGeometry args={[0.072, 0.082, 0.52, 6]} />
+  <meshStandardMaterial color={actualLegColor} roughness={0.82} />
+</mesh>
+{/* Bal térd bump */}
+<mesh position={[-0.11, -0.58, 0.038]} scale={[0.68, 0.48, 0.52]}>
+  <sphereGeometry args={[0.075, 8, 6]} />
+  <meshStandardMaterial color={actualLegColor} roughness={0.85} />
+</mesh>
+   {/* Bal talp */}
+<mesh position={[-0.11, -0.795, 0.05]}>
+  <boxGeometry args={[0.13, 0.055, 0.22]} />
+  <meshStandardMaterial color={activeShoe?.sole || '#222222'} roughness={0.95} />
+</mesh>
+{/* Bal cipőfelsőrész */}
+<mesh position={[-0.11, -0.755, 0.04]} scale={[1.0, 0.72, 0.88]}>
+  <sphereGeometry args={[0.075, 10, 7]} />
+  <meshStandardMaterial color={actualShoeColor} roughness={0.75} />
+</mesh>
+{/* Bal cipőorr */}
+<mesh position={[-0.11, -0.768, 0.115]} scale={[0.88, 0.52, 0.48]}>
+  <sphereGeometry args={[0.065, 8, 6]} />
+  <meshStandardMaterial color={actualShoeColor} roughness={0.72} />
+</mesh>
+{/* Bal cipőfűző */}
+<mesh position={[-0.11, -0.748, 0.042]}>
+  <boxGeometry args={[0.072, 0.008, 0.072]} />
+  <meshStandardMaterial color="#f0f0f0" roughness={0.9} />
+</mesh>
+{/* Bal cipőfűző kereszt */}
+<mesh position={[-0.11, -0.748, 0.042]} rotation={[0, Math.PI / 2, 0]}>
+  <boxGeometry args={[0.072, 0.008, 0.022]} />
+  <meshStandardMaterial color="#f0f0f0" roughness={0.9} />
+</mesh>
 
       {/* ══ RIGHT LEG ═══════════════════════════════════════ */}
-      <mesh ref={rightLegRef} position={[0.11, -0.52, -0.015]}>
-        <cylinderGeometry args={[0.072, 0.082, 0.52, 6]} />
-        <meshStandardMaterial color={actualLegColor} roughness={0.82} />
-      </mesh>
-      {/* Right foot */}
-      <mesh position={[0.11, -0.79, 0.05]}>
-        <boxGeometry args={[0.12, 0.065, 0.20]} />
-        <meshStandardMaterial
-          color={activeShoe?.sole || actualShoeColor}
-          roughness={0.88}
-        />
-      </mesh>
-      {/* Shoe top */}
-      <mesh position={[0.11, -0.765, 0.035]}>
-        <boxGeometry args={[0.115, 0.035, 0.16]} />
-        <meshStandardMaterial color={actualShoeColor} roughness={0.75} />
-      </mesh>
+ <mesh ref={rightLegRef} position={[0.11, -0.52, -0.015]}>
+  <cylinderGeometry args={[0.072, 0.082, 0.52, 6]} />
+  <meshStandardMaterial color={actualLegColor} roughness={0.82} />
+</mesh>
+{/* Jobb térd bump */}
+<mesh position={[0.11, -0.58, 0.038]} scale={[0.68, 0.48, 0.52]}>
+  <sphereGeometry args={[0.075, 8, 6]} />
+  <meshStandardMaterial color={actualLegColor} roughness={0.85} />
+</mesh>
+{/* Jobb talp */}
+<mesh position={[0.11, -0.795, 0.05]}>
+  <boxGeometry args={[0.13, 0.055, 0.22]} />
+  <meshStandardMaterial color={activeShoe?.sole || '#222222'} roughness={0.95} />
+</mesh>
+{/* Jobb cipőfelsőrész */}
+<mesh position={[0.11, -0.755, 0.04]} scale={[1.0, 0.72, 0.88]}>
+  <sphereGeometry args={[0.075, 10, 7]} />
+  <meshStandardMaterial color={actualShoeColor} roughness={0.75} />
+</mesh>
+{/* Jobb cipőorr */}
+<mesh position={[0.11, -0.768, 0.115]} scale={[0.88, 0.52, 0.48]}>
+  <sphereGeometry args={[0.065, 8, 6]} />
+  <meshStandardMaterial color={actualShoeColor} roughness={0.72} />
+</mesh>
+{/* Jobb cipőfűző */}
+<mesh position={[0.11, -0.748, 0.042]}>
+  <boxGeometry args={[0.072, 0.008, 0.072]} />
+  <meshStandardMaterial color="#f0f0f0" roughness={0.9} />
+</mesh>
+{/* Jobb cipőfűző kereszt */}
+<mesh position={[0.11, -0.748, 0.042]} rotation={[0, Math.PI / 2, 0]}>
+  <boxGeometry args={[0.072, 0.008, 0.022]} />
+  <meshStandardMaterial color="#f0f0f0" roughness={0.9} />
+</mesh>
     </group>
   );
 }
