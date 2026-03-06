@@ -271,19 +271,22 @@ function AvatarInRoom({
     return () => window.removeEventListener("resize", update);
   }, [avatarGridPos, roomSize, roomContainerRef, zoom, pan]);
 
-  // Canvas is fixed at 60×60 — CSS transform handles zoom (no Three.js resize lag)
-  const baseAvatarSize = 60;
+  // Canvas is fixed at 180×180 (high-res), CSS scale brings it to 60px at zoom=1.
+  // This avoids Three.js resize lag during pinch zoom while staying crisp at all zoom levels.
+  const canvasSize = 180;
+  const baseDisplaySize = 60;
+  const cssScale = zoom * (baseDisplaySize / canvasSize);
 
   return (
     <div
       ref={containerRef}
       className="absolute pointer-events-none z-20"
       style={{
-        left: pos.left - baseAvatarSize / 2,
-        top: pos.top - baseAvatarSize * 0.75,
-        width: baseAvatarSize,
-        height: baseAvatarSize,
-        transform: `scale(${zoom})`,
+        left: pos.left - canvasSize / 2,
+        top: pos.top - canvasSize * 0.75,
+        width: canvasSize,
+        height: canvasSize,
+        transform: `scale(${cssScale})`,
         transformOrigin: '50% 75%',
         transition: isWalking ? "left 0.6s ease-in-out, top 0.6s ease-in-out" : "none",
       }}
