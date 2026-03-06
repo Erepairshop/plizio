@@ -26,12 +26,17 @@ export default function BedBasic({ x, y }: FurnitureProps) {
       <path d="M -18,-34 L -4,-41 L 4,-37 L -10,-30 Z" fill="#F5F0E8" />
       <path d="M -18,-34 L -4,-41 L -2,-42 L -16,-35 Z" fill="rgba(255,255,255,0.22)" />
 
-      {/* Fejtámla — három lapból álló doboz */}
-      <path d="M -28,-20 L -28,-40 L 0,-52 L 0,-32 Z" fill="#7B5E42" />
-      <path d="M 0,-32  L 28,-20 L 28,-40 L 0,-52 Z" fill="#5A3E28" />
-      <path d="M -28,-40 L 0,-52 L 28,-40 L 0,-28 Z" fill="#8B6B4A" />
+      {/* Fejtámla — lapos panel (nem doboz, nincs "tető") */}
+      {/* Bal oldallap (vékony csík) */}
+      <path d="M -28,-28 L -28,-52 L -24,-54 L -24,-30 Z" fill="#5A3E28" />
+      {/* Fő panel (főnézet) */}
+      <path d="M -28,-52 L 0,-64 L 0,-40 L -28,-28 Z" fill="#8B6B4A" />
+      {/* Jobb oldallap (vékony csík) */}
+      <path d="M 0,-40 L 4,-38 L 4,-62 L 0,-64 Z" fill="#5A3E28" />
+      {/* Tetőél (nagyon vékony csík) */}
+      <path d="M -28,-52 L 0,-64 L 4,-62 L -24,-50 Z" fill="#9B7B5A" />
       {/* Fejtámla highlight */}
-      <path d="M -6,-38 L 6,-44 L 8,-42 L -4,-36 Z" fill="rgba(255,255,255,0.06)" />
+      <path d="M -20,-50 L -6,-57 L -4,-55 L -18,-48 Z" fill="rgba(255,255,255,0.08)" />
     </g>
   );
 }

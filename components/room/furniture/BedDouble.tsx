@@ -29,12 +29,17 @@ export default function BedDouble({ x, y }: FurnitureProps) {
       <path d="M 4,-43  L 18,-51 L 24,-48 L 10,-40 Z" fill="#F5F0E8" />
       <path d="M 4,-43  L 18,-51 L 20,-52 L 6,-44 Z"  fill="rgba(255,255,255,0.22)" />
 
-      {/* Fejtámla */}
-      <path d="M -36,-24 L -36,-46 L 0,-62 L 0,-40 Z" fill="#7B5E42" />
-      <path d="M 0,-40  L 36,-24 L 36,-46 L 0,-62 Z"  fill="#5A3E28" />
-      <path d="M -36,-46 L 0,-62 L 36,-46 L 0,-30 Z"  fill="#8B6B4A" />
+      {/* Fejtámla — lapos panel */}
+      {/* Bal oldallap (vékony csík) */}
+      <path d="M -36,-34 L -36,-60 L -32,-62 L -32,-36 Z" fill="#5A3E28" />
+      {/* Fő panel (főnézet) */}
+      <path d="M -36,-60 L 0,-76 L 0,-50 L -36,-34 Z" fill="#8B6B4A" />
+      {/* Jobb oldallap (vékony csík) */}
+      <path d="M 0,-50 L 4,-48 L 4,-74 L 0,-76 Z" fill="#5A3E28" />
+      {/* Tetőél (nagyon vékony) */}
+      <path d="M -36,-60 L 0,-76 L 4,-74 L -32,-58 Z" fill="#9B7B5A" />
       {/* Highlight */}
-      <path d="M -8,-44 L 8,-52 L 10,-50 L -6,-42 Z" fill="rgba(255,255,255,0.06)" />
+      <path d="M -26,-57 L -8,-66 L -6,-64 L -24,-55 Z" fill="rgba(255,255,255,0.08)" />
     </g>
   );
 }
