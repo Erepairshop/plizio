@@ -2012,6 +2012,8 @@ export default function MathTestPage() {
                 klassenarbeitResult: klassenarbeitResult || undefined,
                 studentName: user?.user_metadata?.full_name || getUsername() || user?.email?.split('@')[0] || undefined,
                 countryCode: country?.code,
+                schoolTasks: schoolTasks.length > 0 ? schoolTasks : undefined,
+                schoolAnswers: schoolTasks.length > 0 ? schoolAnswers : undefined,
               });
             }}
             className="flex-1 py-3 rounded-xl border-2 border-sky-400/40 text-sky-400 font-bold text-sm flex items-center justify-center gap-2"

@@ -2,6 +2,15 @@
 
 import jsPDF from "jspdf";
 import type { GradeResult, KlassenarbeitResult, MathQuestion, SectionResult } from "./mathCurriculum";
+import type {
+  SchoolTaskBlock,
+  SchoolTaskAnswers,
+  KopfrechnenData,
+  SchriftlichData,
+  ZahlenreiheData,
+  SachaufgabeData,
+  AufgabenData,
+} from "./schoolTaskGenerator";
 
 interface PdfTestData {
   gradeLevel: string;
@@ -14,6 +23,9 @@ interface PdfTestData {
   klassenarbeitResult?: KlassenarbeitResult;
   studentName?: string;
   countryCode?: string;
+  // School test (grade 1-4)
+  schoolTasks?: SchoolTaskBlock[];
+  schoolAnswers?: SchoolTaskAnswers;
 }
 
 type PdfLang = 'DE' | 'EN' | 'HU' | 'RO';
@@ -283,7 +295,9 @@ export function generateTestPdf(data: PdfTestData): void {
   doc.setFont("helvetica", "bold");
   doc.setFontSize(11);
   doc.setTextColor(15, 23, 42);
-  doc.text(`${data.gradeResult.score}/${data.gradeResult.total} ${ui.correct}`, marginL, y + 7);
+  const displayScore = Number.isInteger(data.gradeResult.score) ? data.gradeResult.score : Math.round(data.gradeResult.score * 10) / 10;
+  const displayTotal = Number.isInteger(data.gradeResult.total) ? data.gradeResult.total : Math.round(data.gradeResult.total * 10) / 10;
+  doc.text(`${displayScore}/${displayTotal} ${ui.correct}`, marginL, y + 7);
 
   doc.setFont("helvetica", "normal");
   doc.setFontSize(9);
@@ -336,80 +350,186 @@ export function generateTestPdf(data: PdfTestData): void {
   doc.text(ui.tasks, marginL, y);
   y += 7;
 
-  // ── QUESTIONS ────────────────────────────────────────────────────────
-  data.questions.forEach((q, i) => {
-    const userAnswer = data.answers[i];
-    const isCorrect = userAnswer !== null && String(userAnswer) === String(q.correctAnswer);
+  // ── QUESTIONS (MCQ) or SCHOOL TASKS ─────────────────────────────────────
+  if (data.schoolTasks && data.schoolTasks.length > 0) {
+    // ── SCHOOL TASKS ─────────────────────────────────────────────────────
+    const schoolAnswers = data.schoolAnswers || {};
 
-    // Estimate height needed
-    const qLines = doc.splitTextToSize(`${i + 1}.  ${q.question}`, contentW - 6);
-    checkPageBreak(qLines.length * 4.5 + 8);
+    // Helper: extract readable question text from block data
+    const getQText = (block: SchoolTaskBlock, sqIndex: number): string => {
+      const d = block.data;
+      if (block.type === 'kopfrechnen') return (d as KopfrechnenData).items[sqIndex]?.expr || `${sqIndex + 1}.`;
+      if (block.type === 'schriftlich') {
+        const item = (d as SchriftlichData).items[sqIndex];
+        return item ? `${item.a} ${item.op} ${item.b} = ?` : `${sqIndex + 1}.`;
+      }
+      if (block.type === 'zahlenreihe') {
+        const row = (d as ZahlenreiheData).rows[sqIndex];
+        if (!row) return `${sqIndex + 1}.`;
+        const given = row.given.map((n, i) => row.given[i] !== undefined ? n : '?').join(', ');
+        return `${given}, ...`;
+      }
+      if (block.type === 'sachaufgabe') return (d as SachaufgabeData).items[sqIndex]?.text || `${sqIndex + 1}.`;
+      if (block.type === 'aufgaben') return (d as AufgabenData).items[sqIndex]?.question || `${sqIndex + 1}.`;
+      return `${sqIndex + 1}.`;
+    };
 
-    // Question number + text
-    doc.setFont("helvetica", "bold");
-    doc.setFontSize(9.5);
-    doc.setTextColor(30, 41, 59);
-    // Number in small colored circle
-    if (isCorrect) {
-      doc.setFillColor(22, 163, 74);
-    } else {
-      doc.setFillColor(220, 38, 38);
-    }
-    doc.circle(marginL + 2.5, y - 1.5, 2.8, "F");
-    doc.setTextColor(255, 255, 255);
-    doc.setFontSize(7);
-    doc.text(String(i + 1), marginL + 2.5, y - 0.2, { align: "center" });
+    const CIRCLE_NUMS = ['①', '②', '③', '④', '⑤', '⑥', '⑦', '⑧', '⑨', '⑩'];
 
-    // Question text
-    doc.setFont("helvetica", "normal");
-    doc.setFontSize(9.5);
-    doc.setTextColor(30, 41, 59);
-    const qText = doc.splitTextToSize(q.question, contentW - 10);
-    doc.text(qText, marginL + 8, y);
-    y += qText.length * 4.8;
+    data.schoolTasks.forEach((block, bi) => {
+      checkPageBreak(14);
 
-    // Answer line
-    if (isCorrect) {
-      // Green tick + answer
-      doc.setTextColor(22, 163, 74);
+      // Block header
       doc.setFont("helvetica", "bold");
-      doc.setFontSize(9);
-      doc.text(`✓  ${userAnswer}`, marginL + 10, y);
-    } else {
-      // Wrong: strikethrough user answer + correct in green
-      if (userAnswer !== null) {
-        doc.setTextColor(220, 38, 38);
+      doc.setFontSize(10);
+      doc.setTextColor(30, 41, 59);
+      const circleNum = CIRCLE_NUMS[bi] || `${bi + 1}.`;
+      doc.text(`${circleNum}  ${block.title}`, marginL, y);
+
+      // Points badge
+      doc.setFont("helvetica", "normal");
+      doc.setFontSize(8);
+      doc.setTextColor(100, 116, 139);
+      doc.text(`${block.totalPoints} P.`, pageW - marginR, y, { align: "right" });
+
+      y += 6;
+
+      // Separator under header
+      doc.setDrawColor(180, 195, 210);
+      doc.setLineWidth(0.3);
+      doc.line(marginL, y - 1, pageW - marginR, y - 1);
+      y += 3;
+
+      // Sub-questions
+      block.subQuestions.forEach((sq, qi) => {
+        const userAnswer = schoolAnswers[sq.id];
+        const isCorrect = userAnswer !== undefined && String(userAnswer).trim() === String(sq.answer).trim();
+        const questionText = getQText(block, qi);
+
+        const qLines = doc.splitTextToSize(`${qi + 1}.  ${questionText}`, contentW - 10);
+        checkPageBreak(qLines.length * 4.5 + 8);
+
+        // Colored circle indicator
+        doc.setFillColor(isCorrect ? 22 : 220, isCorrect ? 163 : 38, isCorrect ? 74 : 38);
+        doc.circle(marginL + 2.5, y - 1.5, 2.8, "F");
+        doc.setTextColor(255, 255, 255);
+        doc.setFontSize(7);
+        doc.text(String(qi + 1), marginL + 2.5, y - 0.2, { align: "center" });
+
+        // Question text
         doc.setFont("helvetica", "normal");
         doc.setFontSize(9);
-        const wrongTxt = String(userAnswer);
-        doc.text(wrongTxt, marginL + 10, y);
-        const wrongW = doc.getTextWidth(wrongTxt);
-        // Strikethrough
-        doc.setDrawColor(220, 38, 38);
-        doc.setLineWidth(0.5);
-        doc.line(marginL + 10, y - 1.5, marginL + 10 + wrongW, y - 1.5);
-        // Correct answer
-        doc.setTextColor(22, 163, 74);
-        doc.setFont("helvetica", "bold");
-        doc.text(` → ${q.correctAnswer}`, marginL + 10 + wrongW + 2, y);
-      } else {
-        doc.setTextColor(220, 38, 38);
-        doc.setFont("helvetica", "italic");
-        doc.setFontSize(9);
-        doc.text("—", marginL + 10, y);
-        doc.setFont("helvetica", "bold");
-        doc.setTextColor(22, 163, 74);
-        doc.text(` → ${q.correctAnswer}`, marginL + 16, y);
-      }
-    }
-    y += 5.5;
+        doc.setTextColor(30, 41, 59);
+        const qTextLines = doc.splitTextToSize(questionText, contentW - 12);
+        doc.text(qTextLines, marginL + 8, y);
+        y += qTextLines.length * 4.5;
 
-    // Light separator line
-    doc.setDrawColor(210, 220, 230);
-    doc.setLineWidth(0.2);
-    doc.line(marginL + 6, y - 1, pageW - marginR - 4, y - 1);
-    y += 2;
-  });
+        // Answer
+        if (isCorrect) {
+          doc.setTextColor(22, 163, 74);
+          doc.setFont("helvetica", "bold");
+          doc.setFontSize(9);
+          doc.text(`✓  ${userAnswer}`, marginL + 10, y);
+        } else if (userAnswer !== undefined && String(userAnswer).trim() !== '') {
+          // Wrong answer with strikethrough
+          doc.setTextColor(220, 38, 38);
+          doc.setFont("helvetica", "normal");
+          doc.setFontSize(9);
+          const wrongTxt = String(userAnswer);
+          doc.text(wrongTxt, marginL + 10, y);
+          const wrongW = doc.getTextWidth(wrongTxt);
+          doc.setDrawColor(220, 38, 38);
+          doc.setLineWidth(0.5);
+          doc.line(marginL + 10, y - 1.5, marginL + 10 + wrongW, y - 1.5);
+          doc.setTextColor(22, 163, 74);
+          doc.setFont("helvetica", "bold");
+          doc.text(` → ${sq.answer}`, marginL + 10 + wrongW + 2, y);
+        } else {
+          // No answer
+          doc.setTextColor(220, 38, 38);
+          doc.setFont("helvetica", "italic");
+          doc.setFontSize(9);
+          doc.text("—", marginL + 10, y);
+          doc.setFont("helvetica", "bold");
+          doc.setTextColor(22, 163, 74);
+          doc.text(` → ${sq.answer}`, marginL + 16, y);
+        }
+
+        y += 5;
+        doc.setDrawColor(210, 220, 230);
+        doc.setLineWidth(0.2);
+        doc.line(marginL + 6, y - 1, pageW - marginR - 4, y - 1);
+        y += 2;
+      });
+
+      y += 3;
+    });
+  } else {
+    // ── MCQ QUESTIONS ────────────────────────────────────────────────────
+    data.questions.forEach((q, i) => {
+      const userAnswer = data.answers[i];
+      const isCorrect = userAnswer !== null && String(userAnswer) === String(q.correctAnswer);
+
+      const qLines = doc.splitTextToSize(`${i + 1}.  ${q.question}`, contentW - 6);
+      checkPageBreak(qLines.length * 4.5 + 8);
+
+      doc.setFont("helvetica", "bold");
+      doc.setFontSize(9.5);
+      doc.setTextColor(30, 41, 59);
+      if (isCorrect) {
+        doc.setFillColor(22, 163, 74);
+      } else {
+        doc.setFillColor(220, 38, 38);
+      }
+      doc.circle(marginL + 2.5, y - 1.5, 2.8, "F");
+      doc.setTextColor(255, 255, 255);
+      doc.setFontSize(7);
+      doc.text(String(i + 1), marginL + 2.5, y - 0.2, { align: "center" });
+
+      doc.setFont("helvetica", "normal");
+      doc.setFontSize(9.5);
+      doc.setTextColor(30, 41, 59);
+      const qText = doc.splitTextToSize(q.question, contentW - 10);
+      doc.text(qText, marginL + 8, y);
+      y += qText.length * 4.8;
+
+      if (isCorrect) {
+        doc.setTextColor(22, 163, 74);
+        doc.setFont("helvetica", "bold");
+        doc.setFontSize(9);
+        doc.text(`✓  ${userAnswer}`, marginL + 10, y);
+      } else {
+        if (userAnswer !== null) {
+          doc.setTextColor(220, 38, 38);
+          doc.setFont("helvetica", "normal");
+          doc.setFontSize(9);
+          const wrongTxt = String(userAnswer);
+          doc.text(wrongTxt, marginL + 10, y);
+          const wrongW = doc.getTextWidth(wrongTxt);
+          doc.setDrawColor(220, 38, 38);
+          doc.setLineWidth(0.5);
+          doc.line(marginL + 10, y - 1.5, marginL + 10 + wrongW, y - 1.5);
+          doc.setTextColor(22, 163, 74);
+          doc.setFont("helvetica", "bold");
+          doc.text(` → ${q.correctAnswer}`, marginL + 10 + wrongW + 2, y);
+        } else {
+          doc.setTextColor(220, 38, 38);
+          doc.setFont("helvetica", "italic");
+          doc.setFontSize(9);
+          doc.text("—", marginL + 10, y);
+          doc.setFont("helvetica", "bold");
+          doc.setTextColor(22, 163, 74);
+          doc.text(` → ${q.correctAnswer}`, marginL + 16, y);
+        }
+      }
+      y += 5.5;
+
+      doc.setDrawColor(210, 220, 230);
+      doc.setLineWidth(0.2);
+      doc.line(marginL + 6, y - 1, pageW - marginR - 4, y - 1);
+      y += 2;
+    });
+  }
 
   // ── TEACHER NOTE SECTION ─────────────────────────────────────────────
   checkPageBreak(40);
