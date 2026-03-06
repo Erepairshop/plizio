@@ -541,7 +541,9 @@ export default function MathTestPage() {
     if (schoolTasks.length > 0) {
       const result = gradeSchoolTest(schoolTasks, schoolAnswers);
       setSchoolResult(result);
-      const grResult = calculateGradeResult(result.earned, result.total);
+      const roundedEarned = Math.round(result.earned * 100) / 100;
+      const roundedTotal = Math.round(result.total * 100) / 100;
+      const grResult = calculateGradeResult(roundedEarned, roundedTotal);
       setGradeResult(grResult);
       const pct = result.total > 0 ? Math.round((result.earned / result.total) * 100) : 0;
       // Show corrected test, then teacher note, then result — same as MCQ flow
@@ -1599,8 +1601,12 @@ export default function MathTestPage() {
           gradeLabel={country?.gradeLabel(selectedGrade!) || `${selectedGrade}. ${ui?.classLabel || "Class"}`}
           date={new Date().toISOString()}
           timeLeft={testType === "klassenarbeit" ? klassenarbeitTimeLeft : elapsedTime}
-          solved={answers.filter((a) => a !== null).length}
-          total={questions.length}
+          solved={schoolTasks.length > 0
+            ? Object.values(schoolAnswers).filter((v) => String(v).trim() !== '').length
+            : answers.filter((a) => a !== null).length}
+          total={schoolTasks.length > 0
+            ? schoolTasks.reduce((s, b) => s + b.subQuestions.length, 0)
+            : questions.length}
           isGrading={isGrading}
           onExit={() => setGameState("grade-select")}
           onPrint={handlePrintBlank}
