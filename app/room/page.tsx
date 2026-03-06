@@ -250,13 +250,17 @@ function pullPath(
 }
 
 // ─── Facing direction — uses screen-space direction (iso: screenX=gx-gy, screenY=gx+gy) ───
+// sdx = dx-dy  (screen horizontal: >0 = right, <0 = left)
+// sdy = dx+dy  (screen vertical:   >0 = down,  <0 = up)
+// Both signs together give the correct quadrant:
+//   se: sdx≥0 & sdy≥0 | ne: sdx≥0 & sdy<0 | sw: sdx<0 & sdy≥0 | nw: sdx<0 & sdy<0
 function calcFacing(fromGx: number, fromGy: number, toGx: number, toGy: number): 'se' | 'sw' | 'ne' | 'nw' {
   const dx = toGx - fromGx;
   const dy = toGy - fromGy;
-  const sdx = dx - dy; // horizontal screen direction (+right, -left)
-  const sdy = dx + dy; // vertical screen direction (+down, -up)
-  if (Math.abs(sdx) >= Math.abs(sdy)) return sdx >= 0 ? 'se' : 'nw';
-  return sdy >= 0 ? 'sw' : 'ne';
+  const sdx = dx - dy;
+  const sdy = dx + dy;
+  if (sdy >= 0) return sdx >= 0 ? 'se' : 'sw';
+  return sdx >= 0 ? 'ne' : 'nw';
 }
 
 // ─── A* pathfinding ───
@@ -425,6 +429,7 @@ function AvatarInRoom({
       <div className="w-full h-full">
         <AvatarCompanion
           fixed={false}
+          passThrough={true}
           mood={mood}
           isWalking={isWalking}
           facing={facing}
@@ -1059,6 +1064,11 @@ export default function RoomPage() {
     } else if (Math.hypot(cgx - cur.gx, cgy - cur.gy) > 0.2) {
       // Same integer cell but different float position — still move there
       path.push({ gx: cgx, gy: cgy });
+    }
+
+    // Always face toward the click target immediately (even if already at destination)
+    if (Math.abs(cgx - cur.gx) > 0.05 || Math.abs(cgy - cur.gy) > 0.05) {
+      setAvatarFacing(calcFacing(cur.gx, cur.gy, cgx, cgy));
     }
 
     if (path.length > 0) {

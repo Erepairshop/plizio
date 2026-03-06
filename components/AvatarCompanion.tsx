@@ -32,6 +32,8 @@ export interface AvatarCompanionProps {
   activeGloves?: GloveDef | null;
   activeHat?: HatDef | null;
   activeTrail?: TrailDef | null;
+  // When true, the avatar canvas passes clicks through to underlying elements
+  passThrough?: boolean;
 }
 
 function nextBlink() {
@@ -700,10 +702,20 @@ function Character({
     groupRef.current.position.y = lerp(groupRef.current.position.y, jumpHeight, 0.15);
     // Facing direction (only when not in a spin/dance reaction)
     if (jumpTimer.current < 0) {
-      // se=screen-right, nw=screen-left, sw=screen-down(toward viewer), ne=screen-up(away)
-      const facingMap: Record<string, number> = { se: 0.55, sw: -0.25, ne: 0.25, nw: -0.55 };
+      // se=screen-right (+45°), sw=screen-left (-45°), ne=away-right (+135°), nw=away-left (-135°)
+      const facingMap: Record<string, number> = {
+        se:  Math.PI / 4,        //  +45° — right profile toward camera
+        sw: -Math.PI / 4,        //  -45° — left profile toward camera
+        ne:  Math.PI * 3 / 4,    // +135° — back-right (away from camera)
+        nw: -Math.PI * 3 / 4,    // -135° — back-left  (away from camera)
+      };
       const facingTargetY = facingRef.current ? (facingMap[facingRef.current] ?? 0) : 0;
-      groupRef.current.rotation.y = lerp(groupRef.current.rotation.y, facingTargetY, 0.14);
+      // Normalize angle diff so lerp always takes the shortest rotation path
+      const curY = groupRef.current.rotation.y;
+      let diff = facingTargetY - curY;
+      while (diff >  Math.PI) diff -= 2 * Math.PI;
+      while (diff < -Math.PI) diff += 2 * Math.PI;
+      groupRef.current.rotation.y = lerp(curY, curY + diff, 0.14);
     }
     groupRef.current.rotation.z = lerp(groupRef.current.rotation.z, 0, 0.1);
     headRef.current.rotation.x = lerp(headRef.current.rotation.x, 0, 0.1);
@@ -1417,6 +1429,7 @@ export default function AvatarCompanion({
   activeGloves,
   activeHat,
   activeTrail,
+  passThrough = false,
 }: AvatarCompanionProps) {
   const positionClass = fixed ? 'fixed z-50' : 'relative w-full h-full';
   const [localJump, setLocalJump] = useState<{
@@ -1437,18 +1450,18 @@ export default function AvatarCompanion({
 
   return (
     <div
-      className={`${positionClass} pointer-events-auto ${fixed ? 'w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48' : ''} cursor-pointer`}
+      className={`${positionClass} ${passThrough ? 'pointer-events-none' : 'pointer-events-auto cursor-pointer'} ${fixed ? 'w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48' : ''}`}
       style={fixed ? {
         bottom: 'max(20px, calc(env(safe-area-inset-bottom) + 20px))',
         right: '20px',
       } : {}}
-      onClick={handleClick}
+      onClick={passThrough ? undefined : handleClick}
     >
       <Canvas
         camera={{ position: [0, 0.15, 2.6], fov: 44 }}
         frameloop="always"
         gl={{ antialias: false, powerPreference: 'low-power', alpha: true, stencil: false }}
-        style={{ background: 'transparent' }}
+        style={{ background: 'transparent', ...(passThrough ? { pointerEvents: 'none' as const } : {}) }}
       >
         <hemisphereLight color="#f8f0e8" groundColor="#a09080" intensity={0.7} />
         <ambientLight intensity={0.45} />
