@@ -280,7 +280,7 @@ function AvatarInRoom({
       className="absolute pointer-events-none z-20"
       style={{
         left: pos.left - avatarSize / 2,
-        top: pos.top - avatarSize,
+        top: pos.top - avatarSize * 0.85,
         width: avatarSize,
         height: avatarSize,
         transition: "left 0.6s ease-in-out, top 0.6s ease-in-out",
@@ -310,10 +310,10 @@ function AvatarInRoom({
           <div className="w-1 h-1 rounded-full bg-white/30 animate-pulse" />
         </div>
       )}
-      {/* Shadow — right at feet level */}
+      {/* Shadow — at ground level (shifted down to compensate avatar offset) */}
       <div
-        className="absolute bottom-0 left-1/2 -translate-x-1/2 rounded-full bg-black/25"
-        style={{ width: avatarSize * 0.5, height: avatarSize * 0.08 }}
+        className="absolute left-1/2 -translate-x-1/2 rounded-full bg-black/25"
+        style={{ bottom: -(avatarSize * 0.15), width: avatarSize * 0.5, height: avatarSize * 0.08 }}
       />
     </div>
   );
