@@ -194,6 +194,7 @@ function getDayNightAlpha(): number {
 
 // ─── Walking constants ───
 const MS_PER_CELL = 450; // ms per grid cell (walking speed)
+const DRAG_THRESHOLD = 5; // px — movement below this is still a "click", not a pan/drag
 
 // ─── Line-of-sight check (avatar treated as circle, radius ~0.35 grid units) ───
 // Grid boundary cells outside [0..gridW-1]×[0..gridH-1] are simply skipped
@@ -300,6 +301,29 @@ function aStarPath(
     }
   }
   return [];
+}
+
+// ─── Find a valid (non-blocked) starting grid cell near center ───
+function findValidStartPos(
+  gridW: number, gridH: number,
+  blocked: Set<string>
+): { gx: number; gy: number } {
+  const cx = Math.floor(gridW / 2);
+  const cy = Math.floor(gridH / 2);
+  if (!blocked.has(`${cx},${cy}`)) return { gx: cx, gy: cy };
+  // Spiral outward from center to find first open cell
+  for (let r = 1; r < Math.max(gridW, gridH); r++) {
+    for (let dx = -r; dx <= r; dx++) {
+      for (let dy = -r; dy <= r; dy++) {
+        if (Math.abs(dx) !== r && Math.abs(dy) !== r) continue; // only perimeter
+        const x = cx + dx, y = cy + dy;
+        if (x >= 0 && x < gridW && y >= 0 && y < gridH && !blocked.has(`${x},${y}`)) {
+          return { gx: x, gy: y };
+        }
+      }
+    }
+  }
+  return { gx: cx, gy: cy }; // fallback
 }
 
 // ─── Avatar in Room component ───
@@ -540,6 +564,7 @@ export default function RoomPage() {
   const isPanningRef = useRef(false);
   const panStartRef = useRef({ x: 0, y: 0, panX: 0, panY: 0 });
   const lastPinchDistRef = useRef(0);
+  const didDragRef = useRef(false); // true if pointer moved beyond DRAG_THRESHOLD during press
   const roomContainerRef = useRef<HTMLDivElement>(null);
 
   // Zoom button handlers
@@ -568,14 +593,16 @@ export default function RoomPage() {
     });
   }, []);
 
-  // Touch pan & pinch zoom
+  // Touch pan & pinch zoom (with drag threshold so taps still register as clicks)
   const handleTouchStart = useCallback((e: React.TouchEvent) => {
+    didDragRef.current = false;
     if (e.touches.length === 2) {
       const dx = e.touches[0].clientX - e.touches[1].clientX;
       const dy = e.touches[0].clientY - e.touches[1].clientY;
       lastPinchDistRef.current = Math.sqrt(dx * dx + dy * dy);
+      didDragRef.current = true; // pinch is always a drag
     } else if (e.touches.length === 1 && zoom > 1) {
-      isPanningRef.current = true;
+      // Record start position but DON'T set isPanning yet — wait for threshold
       panStartRef.current = {
         x: e.touches[0].clientX,
         y: e.touches[0].clientY,
@@ -596,14 +623,20 @@ export default function RoomPage() {
         setZoom(z => Math.min(Math.max(z * scale, MIN_ZOOM), MAX_ZOOM));
       }
       lastPinchDistRef.current = dist;
-    } else if (e.touches.length === 1 && isPanningRef.current && zoom > 1) {
+    } else if (e.touches.length === 1 && zoom > 1) {
       const dx = e.touches[0].clientX - panStartRef.current.x;
       const dy = e.touches[0].clientY - panStartRef.current.y;
-      const maxPan = (zoom - 1) * 150;
-      setPan({
-        x: Math.min(Math.max(panStartRef.current.panX + dx, -maxPan), maxPan),
-        y: Math.min(Math.max(panStartRef.current.panY + dy, -maxPan), maxPan),
-      });
+      const moved = Math.sqrt(dx * dx + dy * dy);
+      // Only start panning after moving beyond threshold
+      if (moved > DRAG_THRESHOLD) {
+        isPanningRef.current = true;
+        didDragRef.current = true;
+        const maxPan = (zoom - 1) * 150;
+        setPan({
+          x: Math.min(Math.max(panStartRef.current.panX + dx, -maxPan), maxPan),
+          y: Math.min(Math.max(panStartRef.current.panY + dy, -maxPan), maxPan),
+        });
+      }
     }
   }, [zoom]);
 
@@ -616,19 +649,23 @@ export default function RoomPage() {
     });
   }, []);
 
-  // Mouse drag pan (desktop)
+  // Mouse drag pan (desktop) — with drag threshold
   const handleMouseDown = useCallback((e: React.MouseEvent) => {
+    didDragRef.current = false;
     if (zoom <= 1) return;
     // Don't pan if clicking furniture in edit mode
     if (editMode && selectedFurnitureId) return;
-    isPanningRef.current = true;
     panStartRef.current = { x: e.clientX, y: e.clientY, panX: pan.x, panY: pan.y };
+    isPanningRef.current = true; // track mouse, but didDragRef stays false until threshold
   }, [zoom, pan, editMode, selectedFurnitureId]);
 
   const handleMouseMove = useCallback((e: React.MouseEvent) => {
     if (!isPanningRef.current || zoom <= 1) return;
     const dx = e.clientX - panStartRef.current.x;
     const dy = e.clientY - panStartRef.current.y;
+    const moved = Math.sqrt(dx * dx + dy * dy);
+    if (moved <= DRAG_THRESHOLD) return; // not a drag yet
+    didDragRef.current = true;
     const maxPan = (zoom - 1) * 150;
     setPan({
       x: Math.min(Math.max(panStartRef.current.panX + dx, -maxPan), maxPan),
@@ -640,10 +677,15 @@ export default function RoomPage() {
     isPanningRef.current = false;
   }, []);
 
-  // Reset zoom on room change
+  // Reset zoom and avatar position on room change
   useEffect(() => {
     setZoom(1);
     setPan({ x: 0, y: 0 });
+    // Cancel any in-progress walk
+    if (walkTimerRef.current) { clearTimeout(walkTimerRef.current); walkTimerRef.current = null; }
+    setIsWalking(false);
+    setWalkTransitionMs(0);
+    setAvatarMood("idle");
   }, [currentRoomIdx]);
 
   const currentRoom = ROOMS[currentRoomIdx];
@@ -666,12 +708,25 @@ export default function RoomPage() {
     return () => clearInterval(interval);
   }, []);
 
-  // Load furniture when room changes
+  // Load furniture when room changes, and reset avatar to a valid position
   useEffect(() => {
     if (isOwned) {
-      setFurniture(getRoomFurniture(currentRoom.id));
+      const furn = getRoomFurniture(currentRoom.id);
+      setFurniture(furn);
+      // Build blocked set from this room's furniture
+      const blocked = new Set<string>();
+      furn.forEach(placed => {
+        const def = getFurnitureDef(placed.furnitureId);
+        if (!def) return;
+        for (let x = placed.gridX; x < placed.gridX + def.gridW; x++)
+          for (let y = placed.gridY; y < placed.gridY + def.gridH; y++)
+            blocked.add(`${x},${y}`);
+      });
+      const pos = findValidStartPos(roomSize.gridW, roomSize.gridH, blocked);
+      avatarGridPosRef.current = pos;
+      setAvatarGridPos(pos);
     }
-  }, [currentRoom.id, isOwned]);
+  }, [currentRoom.id, isOwned, roomSize.gridW, roomSize.gridH]);
 
   // Available furniture for this room
   const availableFurniture = useMemo(() => {
@@ -958,6 +1013,8 @@ export default function RoomPage() {
   // Handle click on empty floor (walk there)
   const handleFloorClick = (e: React.MouseEvent<HTMLDivElement>) => {
     if (editMode) return;
+    // Skip if this click was actually the end of a pan/drag gesture
+    if (didDragRef.current) return;
     // Close interaction menu if open, then proceed to walk
     if (interactionMenu) { setInteractionMenu(null); return; }
 
