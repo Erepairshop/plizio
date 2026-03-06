@@ -195,28 +195,53 @@ function getDayNightAlpha(): number {
 // ─── Walking constants ───
 const MS_PER_CELL = 250; // ms per grid cell (speed of walk)
 
-// Merge consecutive same-direction A* steps into smooth segments
-type WalkSegment = { end: { gx: number; gy: number }; length: number; facing: 'se' | 'sw' | 'ne' | 'nw' };
-function simplifyPath(pts: Array<{ gx: number; gy: number }>): WalkSegment[] {
-  if (pts.length < 2) return [];
-  const segs: WalkSegment[] = [];
-  let start = pts[0];
-  for (let i = 1; i < pts.length; i++) {
-    const isLast = i === pts.length - 1;
-    const d1x = Math.sign(pts[i].gx - pts[i - 1].gx);
-    const d1y = Math.sign(pts[i].gy - pts[i - 1].gy);
-    const d2x = isLast ? -999 : Math.sign(pts[i + 1].gx - pts[i].gx);
-    const d2y = isLast ? -999 : Math.sign(pts[i + 1].gy - pts[i].gy);
-    if (isLast || d1x !== d2x || d1y !== d2y) {
-      segs.push({
-        end: pts[i],
-        length: Math.abs(pts[i].gx - start.gx) + Math.abs(pts[i].gy - start.gy),
-        facing: calcFacing(start.gx, start.gy, pts[i].gx, pts[i].gy),
-      });
-      start = pts[i];
+// ─── Line-of-sight check (avatar treated as circle, radius ~0.35 grid units) ───
+function lineOfSight(
+  ax: number, ay: number,
+  bx: number, by: number,
+  gridW: number, gridH: number,
+  isBlocked: (gx: number, gy: number) => boolean,
+  radius = 0.35
+): boolean {
+  const dx = bx - ax, dy = by - ay;
+  const dist = Math.sqrt(dx * dx + dy * dy);
+  if (dist < 0.001) return true;
+  const steps = Math.ceil(dist / 0.2);
+  for (let i = 0; i <= steps; i++) {
+    const t = i / steps;
+    const px = ax + dx * t, py = ay + dy * t;
+    const x0 = Math.floor(px - radius), x1 = Math.floor(px + radius);
+    const y0 = Math.floor(py - radius), y1 = Math.floor(py + radius);
+    for (let cx = x0; cx <= x1; cx++) {
+      for (let cy = y0; cy <= y1; cy++) {
+        if (cx < 0 || cy < 0 || cx >= gridW || cy >= gridH) return false;
+        if (isBlocked(cx, cy)) return false;
+      }
     }
   }
-  return segs;
+  return true;
+}
+
+// ─── String pulling: compress A* grid path into minimal diagonal waypoints ───
+function pullPath(
+  rawPath: Array<{ gx: number; gy: number }>,
+  startGx: number, startGy: number,
+  gridW: number, gridH: number,
+  isBlocked: (gx: number, gy: number) => boolean
+): Array<{ gx: number; gy: number }> {
+  const all = [{ gx: startGx, gy: startGy }, ...rawPath];
+  if (all.length < 2) return rawPath;
+  const result: Array<{ gx: number; gy: number }> = [];
+  let i = 0;
+  while (i < all.length - 1) {
+    let j = all.length - 1;
+    while (j > i + 1 && !lineOfSight(all[i].gx, all[i].gy, all[j].gx, all[j].gy, gridW, gridH, isBlocked)) {
+      j--;
+    }
+    result.push(all[j]);
+    i = j;
+  }
+  return result;
 }
 
 // ─── Facing direction ───
@@ -431,6 +456,7 @@ export default function RoomPage() {
 
   const [avatarGridPos, setAvatarGridPos] = useState({ gx: 3, gy: 3 });
   const avatarGridPosRef = useRef({ gx: 3, gy: 3 });
+  const roomSizeRef = useRef({ gridW: 6, gridH: 6 });
   const [avatarMood, setAvatarMood] = useState<AvatarCompanionProps["mood"]>("idle");
   const [avatarFacing, setAvatarFacing] = useState<'se' | 'sw' | 'ne' | 'nw'>('se');
   const [avatarReaction, setAvatarReaction] = useState<{ reaction: "wave" | "dance" | "spin" | "happy" | "surprised" | "confused" | "laughing" | "victory" | null; timestamp: number }>({ reaction: null, timestamp: 0 });
@@ -451,7 +477,7 @@ export default function RoomPage() {
     return blocked;
   }, [furniture]);
 
-  // Smooth segment-based walk: glides through each straight segment in one CSS transition
+  // Free-movement walk: string-pulled diagonal segments, Euclidean distance timing
   const startWalkPath = useCallback((
     path: Array<{ gx: number; gy: number }>,
     onArrived?: () => void
@@ -459,30 +485,39 @@ export default function RoomPage() {
     if (walkTimerRef.current) clearTimeout(walkTimerRef.current);
     if (path.length === 0) { onArrived?.(); return; }
 
-    const segments = simplifyPath([avatarGridPosRef.current, ...path]);
-    if (segments.length === 0) { onArrived?.(); return; }
+    const blocked = buildBlockedSet();
+    const isBlockedFn = (x: number, y: number) => blocked.has(`${x},${y}`);
+    const cur = avatarGridPosRef.current;
+    const rs = roomSizeRef.current;
+    const waypoints = pullPath(path, cur.gx, cur.gy, rs.gridW, rs.gridH, isBlockedFn);
+    if (waypoints.length === 0) { onArrived?.(); return; }
 
     setIsWalking(true);
     setAvatarMood("focused");
 
-    let segIdx = 0;
-    const moveSegment = () => {
-      if (segIdx >= segments.length) {
+    let fromPos = cur;
+    let wpIdx = 0;
+    const moveToNext = () => {
+      if (wpIdx >= waypoints.length) {
         setIsWalking(false);
         setWalkTransitionMs(0);
         onArrived?.();
         return;
       }
-      const seg = segments[segIdx++];
-      const ms = seg.length * MS_PER_CELL;
-      setAvatarFacing(seg.facing);
+      const wp = waypoints[wpIdx++];
+      const dx = wp.gx - fromPos.gx;
+      const dy = wp.gy - fromPos.gy;
+      const dist = Math.sqrt(dx * dx + dy * dy);
+      const ms = Math.max(50, dist * MS_PER_CELL);
+      setAvatarFacing(calcFacing(fromPos.gx, fromPos.gy, wp.gx, wp.gy));
       setWalkTransitionMs(ms);
-      avatarGridPosRef.current = seg.end;
-      setAvatarGridPos(seg.end);
-      walkTimerRef.current = setTimeout(moveSegment, ms);
+      avatarGridPosRef.current = wp;
+      setAvatarGridPos(wp);
+      fromPos = wp;
+      walkTimerRef.current = setTimeout(moveToNext, ms);
     };
-    moveSegment();
-  }, []);
+    moveToNext();
+  }, [buildBlockedSet]);
 
   const [interactionMenu, setInteractionMenu] = useState<{ furnitureIdx: number; screenX: number; screenY: number } | null>(null);
   const [activeInteraction, setActiveInteraction] = useState<string | null>(null);
@@ -605,6 +640,7 @@ export default function RoomPage() {
   const currentRoom = ROOMS[currentRoomIdx];
   const isOwned = ownedRooms.includes(currentRoom.id);
   const roomSize = typeof window !== "undefined" ? getRoomSize(currentRoom.id) : { gridW: currentRoom.gridW, gridH: currentRoom.gridH };
+  roomSizeRef.current = roomSize;
   const roomLevel = typeof window !== "undefined" ? getRoomLevel(currentRoom.id) : 1;
   const nextUpgrade = typeof window !== "undefined" ? getNextUpgrade(currentRoom.id) : null;
 
