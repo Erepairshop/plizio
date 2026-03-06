@@ -202,6 +202,7 @@ interface AvatarInRoomProps {
   mood: AvatarCompanionProps["mood"];
   reaction: { reaction: "wave" | "dance" | "spin" | "happy" | "surprised" | "confused" | "laughing" | "victory" | null; timestamp: number };
   isWalking: boolean;
+  facing: 'se' | 'sw' | 'ne' | 'nw';
   activeInteraction: string | null;
   gender: AvatarGender;
   activeSkin: ReturnType<typeof getSkinDef> | null;
@@ -225,6 +226,7 @@ function AvatarInRoom({
   mood,
   reaction,
   isWalking,
+  facing,
   activeInteraction,
   gender,
   activeSkin,
@@ -269,18 +271,20 @@ function AvatarInRoom({
     return () => window.removeEventListener("resize", update);
   }, [avatarGridPos, roomSize, roomContainerRef, zoom, pan]);
 
-  const baseAvatarSize = 60; // px at zoom=1
-  const avatarSize = baseAvatarSize * zoom;
+  // Canvas is fixed at 60×60 — CSS transform handles zoom (no Three.js resize lag)
+  const baseAvatarSize = 60;
 
   return (
     <div
       ref={containerRef}
       className="absolute pointer-events-none z-20"
       style={{
-        left: pos.left - avatarSize / 2,
-        top: pos.top - avatarSize * 0.75,
-        width: avatarSize,
-        height: avatarSize,
+        left: pos.left - baseAvatarSize / 2,
+        top: pos.top - baseAvatarSize * 0.75,
+        width: baseAvatarSize,
+        height: baseAvatarSize,
+        transform: `scale(${zoom})`,
+        transformOrigin: '50% 75%',
         transition: isWalking ? "left 0.6s ease-in-out, top 0.6s ease-in-out" : "none",
       }}
     >
@@ -288,6 +292,8 @@ function AvatarInRoom({
         <AvatarCompanion
           fixed={false}
           mood={mood}
+          isWalking={isWalking}
+          facing={facing}
           gender={gender}
           activeSkin={activeSkin}
           activeFace={activeFace}
@@ -346,8 +352,16 @@ export default function RoomPage() {
 
   const [avatarGridPos, setAvatarGridPos] = useState({ gx: 3, gy: 3 });
   const [avatarMood, setAvatarMood] = useState<AvatarCompanionProps["mood"]>("idle");
+  const [avatarFacing, setAvatarFacing] = useState<'se' | 'sw' | 'ne' | 'nw'>('se');
   const [avatarReaction, setAvatarReaction] = useState<{ reaction: "wave" | "dance" | "spin" | "happy" | "surprised" | "confused" | "laughing" | "victory" | null; timestamp: number }>({ reaction: null, timestamp: 0 });
   const [isWalking, setIsWalking] = useState(false);
+
+  const calcFacing = (fromGx: number, fromGy: number, toGx: number, toGy: number): 'se' | 'sw' | 'ne' | 'nw' => {
+    const dx = toGx - fromGx;
+    const dy = toGy - fromGy;
+    if (Math.abs(dx) >= Math.abs(dy)) return dx >= 0 ? 'se' : 'nw';
+    return dy >= 0 ? 'sw' : 'ne';
+  };
   const [interactionMenu, setInteractionMenu] = useState<{ furnitureIdx: number; screenX: number; screenY: number } | null>(null);
   const [activeInteraction, setActiveInteraction] = useState<string | null>(null);
   const interactionTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
@@ -737,6 +751,7 @@ export default function RoomPage() {
     setAvatarMood("focused");
     const targetGx = Math.max(0, item.gridX - 1);
     const targetGy = item.gridY;
+    setAvatarFacing(calcFacing(avatarGridPos.gx, avatarGridPos.gy, targetGx, targetGy));
     setAvatarGridPos({ gx: targetGx, gy: targetGy });
 
     // After walking, perform interaction
@@ -785,6 +800,7 @@ export default function RoomPage() {
     if (onFurniture) return;
 
     // Walk there
+    setAvatarFacing(calcFacing(avatarGridPos.gx, avatarGridPos.gy, gx, gy));
     setAvatarGridPos({ gx, gy });
     setIsWalking(true);
     setActiveInteraction(null);
@@ -1002,6 +1018,7 @@ export default function RoomPage() {
                 mood={avatarMood}
                 reaction={avatarReaction}
                 isWalking={isWalking}
+                facing={avatarFacing}
                 activeInteraction={activeInteraction}
                 gender={gender}
                 activeSkin={activeSkin}
