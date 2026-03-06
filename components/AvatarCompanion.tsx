@@ -1207,41 +1207,6 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
   />
 </mesh>
 
-{/* ── Mellkas kiemelkedés ───────────────────── */}
-<mesh position={[0, 0.18, 0.10]} scale={[0.82, 0.38, 0.32]}>
-  <sphereGeometry args={[0.28, 10, 8]} />
-  <meshStandardMaterial
-    color={actualBodyColor}
-    emissive={skinEmissive || '#000000'}
-    emissiveIntensity={skinEmissiveIntensity}
-    roughness={0.68}
-    metalness={0.04}
-  />
-</mesh>
-
-{/* ── Csípő kiszélesedés ────────────────────── */}
-<mesh position={[0, -0.22, 0.0]} scale={[isGirl ? 1.08 : 1.02, 0.28, 0.88]}>
-  <sphereGeometry args={[0.28, 10, 8]} />
-  <meshStandardMaterial
-    color={actualBodyColor}
-    emissive={skinEmissive || '#000000'}
-    emissiveIntensity={skinEmissiveIntensity}
-    roughness={0.68}
-    metalness={0.04}
-  />
-</mesh>
-
-{/* ── Derék beszűkülés ──────────────────────── */}
-<mesh position={[0, -0.04, 0.0]} scale={[isGirl ? 0.78 : 0.88, 0.22, 0.82]}>
-  <sphereGeometry args={[0.28, 10, 8]} />
-  <meshStandardMaterial
-    color={actualBodyColor}
-    emissive={skinEmissive || '#000000'}
-    emissiveIntensity={skinEmissiveIntensity}
-    roughness={0.68}
-    metalness={0.04}
-  />
-</mesh>
 
 {/* ── Shirt collar / accent ─────────────────────── */}
 {activeTop && (
@@ -1353,36 +1318,26 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
           />
         </mesh>
 {/* Chin */}
-<mesh position={[0, -0.06, 0.02]} scale={[1, 0.45, 0.85]}>
-  <sphereGeometry args={[0.14, 10, 6]} />
+<mesh position={[0, -0.12, 0.05]} scale={[0.65, 0.32, 0.60]}>
+  <sphereGeometry args={[0.10, 10, 6]} />
   <meshStandardMaterial color={skinDark} roughness={0.7} metalness={0} />
 </mesh>
 
 {/* ── ARCCSONT bal ──────────────────────────── */}
-<mesh position={[-0.13, -0.02, 0.14]} scale={[0.72, 0.52, 0.48]}>
-  <sphereGeometry args={[0.075, 8, 6]} />
+<mesh position={[-0.10, -0.03, 0.155]} scale={[0.45, 0.35, 0.28]}>
+  <sphereGeometry args={[0.055, 8, 6]} />
   <meshStandardMaterial color={actualSkinColor} roughness={0.58} metalness={0.01} />
-</mesh>
-{/* Arccsont highlight bal */}
-<mesh position={[-0.12, 0.0, 0.158]} scale={[0.38, 0.28, 0.22]}>
-  <sphereGeometry args={[0.055, 7, 5]} />
-  <meshStandardMaterial color="#ffffff" roughness={0.3} transparent opacity={0.08} />
 </mesh>
 
 {/* ── ARCCSONT jobb ─────────────────────────── */}
-<mesh position={[0.13, -0.02, 0.14]} scale={[0.72, 0.52, 0.48]}>
-  <sphereGeometry args={[0.075, 8, 6]} />
+<mesh position={[0.10, -0.03, 0.155]} scale={[0.45, 0.35, 0.28]}>
+  <sphereGeometry args={[0.055, 8, 6]} />
   <meshStandardMaterial color={actualSkinColor} roughness={0.58} metalness={0.01} />
-</mesh>
-{/* Arccsont highlight jobb */}
-<mesh position={[0.12, 0.0, 0.158]} scale={[0.38, 0.28, 0.22]}>
-  <sphereGeometry args={[0.055, 7, 5]} />
-  <meshStandardMaterial color="#ffffff" roughness={0.3} transparent opacity={0.08} />
 </mesh>
 
 {/* ── HOMLOK enyhe kiemelkedés ──────────────── */}
-<mesh position={[0, 0.11, 0.165]} scale={[0.88, 0.45, 0.32]}>
-  <sphereGeometry args={[0.10, 8, 6]} />
+<mesh position={[0, 0.10, 0.168]} scale={[0.75, 0.35, 0.20]}>
+  <sphereGeometry args={[0.09, 8, 6]} />
   <meshStandardMaterial color={actualSkinColor} roughness={0.55} metalness={0.01} />
 </mesh>
 
@@ -1468,8 +1423,8 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
   <sphereGeometry args={[0.045, 8, 6]} />
   <meshStandardMaterial color={actualSkinColor} roughness={0.6} />
 </mesh>
-<mesh position={[0, -0.025, 0.192]} scale={[0.9, 0.7, 0.7]}>
-  <sphereGeometry args={[0.036, 8, 6]} />
+<mesh position={[0, -0.022, 0.186]} scale={[0.8, 0.60, 0.55]}>
+  <sphereGeometry args={[0.032, 8, 6]} />
   <meshStandardMaterial color={actualSkinColor} roughness={0.6} />
 </mesh>
 <mesh position={[-0.028, -0.028, 0.182]} scale={[0.6, 0.55, 0.55]}>
