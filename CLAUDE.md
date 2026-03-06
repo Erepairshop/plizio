@@ -576,6 +576,17 @@ Hozzáadott kérdéstípusok:
 10. **Bútor forgatás SVG `rotate()`-tel** — NE használj SVG `rotate(90°)` bútorforgatáshoz! Az fejjel lefelé fordítja 2D-ben. Helyette: `scale(-1, 1)` tükrözés (izometrikus forgatás illúzió).
 11. **Avatar árnyék div a szobában** — NE adj nagy sötét árnyék ellipszist a szoba avatar alá! A DOM shadow a Canvas-tól távol van és LEBEGÉSNEK tűnik. Az avatárnak NINCS szüksége külön árnyékra a szobában.
 12. **`sed` batch bútor shadow fix** — Ha sed-del módosítasz `cy={0}`-t, vigyázz a COLLATERAL DAMAGE-re! Nem-shadow ellipszisek is lehetnek cy={0}-val (glow effektek: Fireplace, TvStand, Aquarium). Mindig ellenőrizd: `grep -n 'cy={-4}' *.tsx`
+13. **`AvatarCompanion` szobában: kötelező `passThrough={true}`** — Az AvatarCompanion div-en `pointer-events-auto` van hardcoded. Ha a szoba padlón akarod hogy átmenjenek a kattintások az avatar területén, NEM ELÉG a szülő div-re `pointer-events-none`-t rakni! A React Three Fiber Canvas saját belső container div-et hoz létre ahol a CSS öröklés nem megbízható.
+   - **Helyes:** `<AvatarCompanion passThrough={true} ... />` — ez `pointer-events: none`-t rak közvetlenül a Canvas style propjára is
+   - **Rossz:** `<div className="pointer-events-none"><AvatarCompanion ... /></div>` — az R3F Canvas áttöri az öröklést
+   - Hatás ha hiányzik: ~60×60px "láthatatlan árnyék" az avatar körül (főleg hátrafelé nyúlik mert a canvas 75%-a felfelé van offsetelve a lábaktól) ahol nem lehet kattintani
+14. **`calcFacing` izometrikus iránya** — Az izometrikus facing számításhoz mindkét `sdx` és `sdy` előjelét kell figyelni egyszerre, NEM magnitude-alapú tie-breaking:
+   ```ts
+   // sdx = dx-dy (screen horizontal), sdy = dx+dy (screen vertical)
+   // HELYES: if (sdy >= 0) return sdx >= 0 ? 'se' : 'sw'; return sdx >= 0 ? 'ne' : 'nw';
+   // HIBÁS:  if (Math.abs(sdx) >= Math.abs(sdy)) return sdx >= 0 ? 'se' : 'nw'; ...
+   ```
+   A hibás verzió: dx=0,dy=1 → 'nw' (rossz, kellene 'sw'); dx=0,dy=-1 → 'se' (rossz, kellene 'ne')
 
 **Kilépési gomb — játék közbeni státusz:**
 | Játék | Van kilépés játék közben? | Hova visz? |
