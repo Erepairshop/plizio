@@ -906,6 +906,13 @@ export default function MathTestPage() {
           s.replace(/-und-/g, '-').replace(/-és-/g, '-').replace(/-and-/g, '-')
            .replace(/-\(.*?\)/g, '').replace(/--+/g, '-').replace(/-$/, '');
 
+        // If slug is missing, generate one from the subtopic name
+        const slugifyName = (name: string): string =>
+          name.toLowerCase()
+            .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')
+            .replace(/á/g, 'a').replace(/é/g, 'e').replace(/í/g, 'i').replace(/ó/g, 'o').replace(/ú/g, 'u')
+            .replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '').replace(/--+/g, '-');
+
         // Build generator topic list for name-based fallback
         const cc = country!.code;
         const genThemes = (cc === 'DE' || cc === 'AT' || cc === 'CH') ? getDEThemes(selectedGrade!)
@@ -918,12 +925,15 @@ export default function MathTestPage() {
           for (const sub of theme.subtopics) {
             if (!selectedSubtopics.includes(sub.id)) continue;
 
+            // Effective slug: use DB slug or generate from name
+            const effectiveSlug = sub.slug || (sub.name ? slugifyName(sub.name) : undefined);
+
             // 1. Exact slug match
-            let key: string | undefined = sub.slug ? slugMap[sub.slug] : undefined;
+            let key: string | undefined = effectiveSlug ? slugMap[effectiveSlug] : undefined;
 
             // 2. Normalized slug match
-            if (!key && sub.slug) {
-              key = slugMap[normalizeSlug(sub.slug)];
+            if (!key && effectiveSlug) {
+              key = slugMap[normalizeSlug(effectiveSlug)];
             }
 
             // 3. Name-keyword fallback: find generator topic whose name overlaps sub.name
