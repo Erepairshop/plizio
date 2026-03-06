@@ -192,6 +192,61 @@ function getDayNightAlpha(): number {
   return 0.3; // dawn 5-7
 }
 
+// ─── Walking constants ───
+const STEP_DURATION = 420; // ms per grid cell
+
+// ─── Facing direction ───
+function calcFacing(fromGx: number, fromGy: number, toGx: number, toGy: number): 'se' | 'sw' | 'ne' | 'nw' {
+  const dx = toGx - fromGx;
+  const dy = toGy - fromGy;
+  if (Math.abs(dx) >= Math.abs(dy)) return dx >= 0 ? 'se' : 'nw';
+  return dy >= 0 ? 'sw' : 'ne';
+}
+
+// ─── A* pathfinding ───
+function aStarPath(
+  sx: number, sy: number,
+  ex: number, ey: number,
+  gridW: number, gridH: number,
+  isBlocked: (gx: number, gy: number) => boolean
+): Array<{ gx: number; gy: number }> {
+  type Node = { gx: number; gy: number; g: number; f: number; parent: Node | null };
+  const key = (x: number, y: number) => `${x},${y}`;
+  const h = (x: number, y: number) => Math.abs(x - ex) + Math.abs(y - ey);
+  const start: Node = { gx: sx, gy: sy, g: 0, f: h(sx, sy), parent: null };
+  const open: Node[] = [start];
+  const closed = new Set<string>();
+  const best = new Map<string, number>();
+  best.set(key(sx, sy), 0);
+  const DIRS = [{ dx: 1, dy: 0 }, { dx: -1, dy: 0 }, { dx: 0, dy: 1 }, { dx: 0, dy: -1 }];
+
+  while (open.length > 0) {
+    let bi = 0;
+    for (let i = 1; i < open.length; i++) if (open[i].f < open[bi].f) bi = i;
+    const cur = open.splice(bi, 1)[0];
+    const ck = key(cur.gx, cur.gy);
+    if (closed.has(ck)) continue;
+    closed.add(ck);
+    if (cur.gx === ex && cur.gy === ey) {
+      const path: Array<{ gx: number; gy: number }> = [];
+      let n: Node | null = cur;
+      while (n) { path.unshift({ gx: n.gx, gy: n.gy }); n = n.parent; }
+      return path.slice(1);
+    }
+    for (const { dx, dy } of DIRS) {
+      const nx = cur.gx + dx, ny = cur.gy + dy;
+      const nk = key(nx, ny);
+      if (nx < 0 || ny < 0 || nx >= gridW || ny >= gridH) continue;
+      if (closed.has(nk) || isBlocked(nx, ny)) continue;
+      const g = cur.g + 1;
+      if ((best.get(nk) ?? Infinity) <= g) continue;
+      best.set(nk, g);
+      open.push({ gx: nx, gy: ny, g, f: g + h(nx, ny), parent: cur });
+    }
+  }
+  return [];
+}
+
 // ─── Avatar in Room component ───
 interface AvatarInRoomProps {
   roomContainerRef: React.RefObject<HTMLDivElement | null>;
@@ -283,7 +338,7 @@ function AvatarInRoom({
         top: pos.top - avatarSize * 0.75,
         width: avatarSize,
         height: avatarSize,
-        transition: isWalking ? "left 0.6s ease-in-out, top 0.6s ease-in-out" : "none",
+        transition: isWalking ? `left ${STEP_DURATION}ms linear, top ${STEP_DURATION}ms linear` : "none",
       }}
     >
       <div className="w-full h-full">
@@ -349,17 +404,59 @@ export default function RoomPage() {
   const [activeTrail] = useState(() => { if (typeof window === "undefined") return null; const id = getActiveTrail(); return id ? getTrailDef(id) : null; });
 
   const [avatarGridPos, setAvatarGridPos] = useState({ gx: 3, gy: 3 });
+  const avatarGridPosRef = useRef({ gx: 3, gy: 3 });
   const [avatarMood, setAvatarMood] = useState<AvatarCompanionProps["mood"]>("idle");
   const [avatarFacing, setAvatarFacing] = useState<'se' | 'sw' | 'ne' | 'nw'>('se');
   const [avatarReaction, setAvatarReaction] = useState<{ reaction: "wave" | "dance" | "spin" | "happy" | "surprised" | "confused" | "laughing" | "victory" | null; timestamp: number }>({ reaction: null, timestamp: 0 });
   const [isWalking, setIsWalking] = useState(false);
+  const walkTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const walkPathRef = useRef<Array<{ gx: number; gy: number }>>([]);
+  const walkStepRef = useRef(0);
 
-  const calcFacing = (fromGx: number, fromGy: number, toGx: number, toGy: number): 'se' | 'sw' | 'ne' | 'nw' => {
-    const dx = toGx - fromGx;
-    const dy = toGy - fromGy;
-    if (Math.abs(dx) >= Math.abs(dy)) return dx >= 0 ? 'se' : 'nw';
-    return dy >= 0 ? 'sw' : 'ne';
-  };
+  // Build set of blocked grid cells from placed furniture
+  const buildBlockedSet = useCallback(() => {
+    const blocked = new Set<string>();
+    furniture.forEach(placed => {
+      const def = getFurnitureDef(placed.furnitureId);
+      if (!def) return;
+      for (let x = placed.gridX; x < placed.gridX + def.gridW; x++)
+        for (let y = placed.gridY; y < placed.gridY + def.gridH; y++)
+          blocked.add(`${x},${y}`);
+    });
+    return blocked;
+  }, [furniture]);
+
+  // Step-by-step walk along a pre-computed path; calls onArrived() when done
+  const startWalkPath = useCallback((
+    path: Array<{ gx: number; gy: number }>,
+    onArrived?: () => void
+  ) => {
+    if (walkTimerRef.current) clearTimeout(walkTimerRef.current);
+    if (path.length === 0) { onArrived?.(); return; }
+    walkPathRef.current = path;
+    walkStepRef.current = 0;
+    setIsWalking(true);
+    setAvatarMood("focused");
+
+    const step = () => {
+      const idx = walkStepRef.current;
+      const p = walkPathRef.current;
+      if (idx >= p.length) {
+        setIsWalking(false);
+        onArrived?.();
+        return;
+      }
+      const cur = p[idx];
+      const prev = idx > 0 ? p[idx - 1] : avatarGridPosRef.current;
+      setAvatarFacing(calcFacing(prev.gx, prev.gy, cur.gx, cur.gy));
+      avatarGridPosRef.current = cur;
+      setAvatarGridPos(cur);
+      walkStepRef.current = idx + 1;
+      walkTimerRef.current = setTimeout(step, STEP_DURATION);
+    };
+    step();
+  }, []);
+
   const [interactionMenu, setInteractionMenu] = useState<{ furnitureIdx: number; screenX: number; screenY: number } | null>(null);
   const [activeInteraction, setActiveInteraction] = useState<string | null>(null);
   const interactionTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
@@ -743,33 +840,42 @@ export default function RoomPage() {
   const handleInteraction = (furnitureIdx: number, interaction: FurnitureInteraction) => {
     setInteractionMenu(null);
     const item = furniture[furnitureIdx];
+    const def = getFurnitureDef(item.furnitureId);
+    if (!def) return;
 
-    // Walk to furniture
-    setIsWalking(true);
-    setAvatarMood("focused");
-    const targetGx = Math.max(0, item.gridX - 1);
-    const targetGy = item.gridY;
-    setAvatarFacing(calcFacing(avatarGridPos.gx, avatarGridPos.gy, targetGx, targetGy));
-    setAvatarGridPos({ gx: targetGx, gy: targetGy });
+    const blocked = buildBlockedSet();
 
-    // After walking, perform interaction
-    const walkDuration = 800;
-    setTimeout(() => {
-      setIsWalking(false);
+    // Find nearest walkable cell adjacent to the furniture
+    const candidates: Array<{ gx: number; gy: number }> = [];
+    for (let x = item.gridX - 1; x <= item.gridX + def.gridW; x++) {
+      for (let y = item.gridY - 1; y <= item.gridY + def.gridH; y++) {
+        if (x < 0 || y < 0 || x >= roomSize.gridW || y >= roomSize.gridH) continue;
+        if (!blocked.has(`${x},${y}`)) candidates.push({ gx: x, gy: y });
+      }
+    }
+    if (candidates.length === 0) return;
+
+    const cur = avatarGridPosRef.current;
+    candidates.sort((a, b) =>
+      (Math.abs(a.gx - cur.gx) + Math.abs(a.gy - cur.gy)) -
+      (Math.abs(b.gx - cur.gx) + Math.abs(b.gy - cur.gy))
+    );
+    const target = candidates[0];
+    const path = aStarPath(cur.gx, cur.gy, target.gx, target.gy,
+      roomSize.gridW, roomSize.gridH, (x, y) => blocked.has(`${x},${y}`));
+
+    startWalkPath(path, () => {
       setAvatarMood(interaction.mood);
       setActiveInteraction(interaction.id);
-
       if (interaction.reaction) {
         setAvatarReaction({ reaction: interaction.reaction, timestamp: Date.now() });
       }
-
-      // End interaction after duration
       if (interactionTimerRef.current) clearTimeout(interactionTimerRef.current);
       interactionTimerRef.current = setTimeout(() => {
         setAvatarMood("idle");
         setActiveInteraction(null);
       }, interaction.duration);
-    }, walkDuration);
+    });
   };
 
   // Close interaction menu
@@ -785,25 +891,19 @@ export default function RoomPage() {
     if (!grid) return;
     const { gx, gy } = grid;
 
-    // Check bounds
     if (gx < 0 || gy < 0 || gx >= roomSize.gridW || gy >= roomSize.gridH) return;
 
-    // Check not on furniture
-    const onFurniture = furniture.some((placed) => {
-      const pDef = getFurnitureDef(placed.furnitureId);
-      if (!pDef) return false;
-      return gx >= placed.gridX && gx < placed.gridX + pDef.gridW &&
-             gy >= placed.gridY && gy < placed.gridY + pDef.gridH;
-    });
-    if (onFurniture) return;
+    const blocked = buildBlockedSet();
+    if (blocked.has(`${gx},${gy}`)) return; // clicked on furniture
 
-    // Walk there
-    setAvatarFacing(calcFacing(avatarGridPos.gx, avatarGridPos.gy, gx, gy));
-    setAvatarGridPos({ gx, gy });
-    setIsWalking(true);
-    setActiveInteraction(null);
-    setAvatarMood("idle");
-    setTimeout(() => setIsWalking(false), 600);
+    const cur = avatarGridPosRef.current;
+    const path = aStarPath(cur.gx, cur.gy, gx, gy,
+      roomSize.gridW, roomSize.gridH, (x, y) => blocked.has(`${x},${y}`));
+
+    if (path.length > 0) {
+      setActiveInteraction(null);
+      startWalkPath(path, () => setAvatarMood("idle"));
+    }
   };
 
   // Calculate avatar screen position for overlay
