@@ -700,9 +700,10 @@ function Character({
     groupRef.current.position.y = lerp(groupRef.current.position.y, jumpHeight, 0.15);
     // Facing direction (only when not in a spin/dance reaction)
     if (jumpTimer.current < 0) {
-      const facingMap: Record<string, number> = { se: 0.52, sw: -0.52, ne: 0.28, nw: -0.28 };
+      // se=screen-right, nw=screen-left, sw=screen-down(toward viewer), ne=screen-up(away)
+      const facingMap: Record<string, number> = { se: 0.55, sw: -0.25, ne: 0.25, nw: -0.55 };
       const facingTargetY = facingRef.current ? (facingMap[facingRef.current] ?? 0) : 0;
-      groupRef.current.rotation.y = lerp(groupRef.current.rotation.y, facingTargetY, 0.08);
+      groupRef.current.rotation.y = lerp(groupRef.current.rotation.y, facingTargetY, 0.14);
     }
     groupRef.current.rotation.z = lerp(groupRef.current.rotation.z, 0, 0.1);
     headRef.current.rotation.x = lerp(headRef.current.rotation.x, 0, 0.1);

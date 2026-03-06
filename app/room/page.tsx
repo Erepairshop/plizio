@@ -193,9 +193,11 @@ function getDayNightAlpha(): number {
 }
 
 // ─── Walking constants ───
-const MS_PER_CELL = 250; // ms per grid cell (speed of walk)
+const MS_PER_CELL = 450; // ms per grid cell (walking speed)
 
 // ─── Line-of-sight check (avatar treated as circle, radius ~0.35 grid units) ───
+// Grid boundary cells outside [0..gridW-1]×[0..gridH-1] are simply skipped
+// (the floor stops at the grid edge — walls are visual only, no blocked cells outside)
 function lineOfSight(
   ax: number, ay: number,
   bx: number, by: number,
@@ -210,11 +212,13 @@ function lineOfSight(
   for (let i = 0; i <= steps; i++) {
     const t = i / steps;
     const px = ax + dx * t, py = ay + dy * t;
-    const x0 = Math.floor(px - radius), x1 = Math.floor(px + radius);
-    const y0 = Math.floor(py - radius), y1 = Math.floor(py + radius);
+    // clamp to grid — boundary cells beyond the floor are not walls, just empty
+    const x0 = Math.max(0, Math.floor(px - radius));
+    const x1 = Math.min(gridW - 1, Math.floor(px + radius));
+    const y0 = Math.max(0, Math.floor(py - radius));
+    const y1 = Math.min(gridH - 1, Math.floor(py + radius));
     for (let cx = x0; cx <= x1; cx++) {
       for (let cy = y0; cy <= y1; cy++) {
-        if (cx < 0 || cy < 0 || cx >= gridW || cy >= gridH) return false;
         if (isBlocked(cx, cy)) return false;
       }
     }
@@ -244,12 +248,14 @@ function pullPath(
   return result;
 }
 
-// ─── Facing direction ───
+// ─── Facing direction — uses screen-space direction (iso: screenX=gx-gy, screenY=gx+gy) ───
 function calcFacing(fromGx: number, fromGy: number, toGx: number, toGy: number): 'se' | 'sw' | 'ne' | 'nw' {
   const dx = toGx - fromGx;
   const dy = toGy - fromGy;
-  if (Math.abs(dx) >= Math.abs(dy)) return dx >= 0 ? 'se' : 'nw';
-  return dy >= 0 ? 'sw' : 'ne';
+  const sdx = dx - dy; // horizontal screen direction (+right, -left)
+  const sdy = dx + dy; // vertical screen direction (+down, -up)
+  if (Math.abs(sdx) >= Math.abs(sdy)) return sdx >= 0 ? 'se' : 'nw';
+  return sdy >= 0 ? 'sw' : 'ne';
 }
 
 // ─── A* pathfinding ───
@@ -463,6 +469,9 @@ export default function RoomPage() {
   const [isWalking, setIsWalking] = useState(false);
   const [walkTransitionMs, setWalkTransitionMs] = useState(0);
   const walkTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  // Click target indicator (debug: shows where click registered on the floor)
+  const [clickIndicator, setClickIndicator] = useState<{ screenX: number; screenY: number; key: number } | null>(null);
+  const clickIndicatorTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   // Build set of blocked grid cells from placed furniture
   const buildBlockedSet = useCallback(() => {
@@ -508,7 +517,7 @@ export default function RoomPage() {
       const dx = wp.gx - fromPos.gx;
       const dy = wp.gy - fromPos.gy;
       const dist = Math.sqrt(dx * dx + dy * dy);
-      const ms = Math.max(50, dist * MS_PER_CELL);
+      const ms = Math.max(200, dist * MS_PER_CELL);
       setAvatarFacing(calcFacing(fromPos.gx, fromPos.gy, wp.gx, wp.gy));
       setWalkTransitionMs(ms);
       avatarGridPosRef.current = wp;
@@ -948,27 +957,54 @@ export default function RoomPage() {
 
   // Handle click on empty floor (walk there)
   const handleFloorClick = (e: React.MouseEvent<HTMLDivElement>) => {
-    if (editMode || interactionMenu) return;
+    if (editMode) return;
+    // Close interaction menu if open, then proceed to walk
+    if (interactionMenu) { setInteractionMenu(null); return; }
 
     const grid = clickToGrid(e);
     if (!grid) return;
 
-    // Integer cell for bounds/collision checks and A*
-    const igx = Math.round(grid.gx);
-    const igy = Math.round(grid.gy);
-    if (igx < 0 || igy < 0 || igx >= roomSize.gridW || igy >= roomSize.gridH) return;
+    // Integer cell for bounds/collision checks and A* — clamp to valid range
+    const igx = Math.max(0, Math.min(roomSize.gridW - 1, Math.round(grid.gx)));
+    const igy = Math.max(0, Math.min(roomSize.gridH - 1, Math.round(grid.gy)));
 
     const blocked = buildBlockedSet();
     if (blocked.has(`${igx},${igy}`)) return; // clicked on furniture
+
+    // Clamp float position to valid grid (so path never exits the floor)
+    const cgx = Math.max(0, Math.min(roomSize.gridW - 0.01, grid.gx));
+    const cgy = Math.max(0, Math.min(roomSize.gridH - 0.01, grid.gy));
+
+    // Show click indicator at the registered grid position (debug feedback)
+    {
+      const svg = (e.currentTarget as HTMLDivElement).querySelector("svg");
+      if (svg) {
+        const rect = svg.getBoundingClientRect();
+        const vb = svg.viewBox.baseVal;
+        const oX = roomSize.gridH * 24 + 20, oY = 120;
+        const { x: sx, y: sy } = gridToScreen(cgx, cgy, oX, oY);
+        const screenX = rect.left + (sx / vb.width) * rect.width;
+        const screenY = rect.top + (sy / vb.height) * rect.height;
+        if (clickIndicatorTimerRef.current) clearTimeout(clickIndicatorTimerRef.current);
+        setClickIndicator({ screenX, screenY, key: Date.now() });
+        clickIndicatorTimerRef.current = setTimeout(() => setClickIndicator(null), 800);
+      }
+    }
 
     const cur = avatarGridPosRef.current;
     const curI = { gx: Math.round(cur.gx), gy: Math.round(cur.gy) };
     const path = aStarPath(curI.gx, curI.gy, igx, igy,
       roomSize.gridW, roomSize.gridH, (x, y) => blocked.has(`${x},${y}`));
 
+    // Replace last waypoint with exact sub-grid click position (clamped)
     if (path.length > 0) {
-      // Replace last waypoint with exact sub-grid click position
-      path[path.length - 1] = { gx: grid.gx, gy: grid.gy };
+      path[path.length - 1] = { gx: cgx, gy: cgy };
+    } else if (Math.hypot(cgx - cur.gx, cgy - cur.gy) > 0.2) {
+      // Same integer cell but different float position — still move there
+      path.push({ gx: cgx, gy: cgy });
+    }
+
+    if (path.length > 0) {
       setActiveInteraction(null);
       startWalkPath(path, () => setAvatarMood("idle"));
     }
@@ -1199,6 +1235,21 @@ export default function RoomPage() {
                 activeHat={activeHat}
                 activeTrail={activeTrail}
               />
+            )}
+
+            {/* Click target indicator — shows where the floor click registered */}
+            {clickIndicator && (
+              <div
+                className="fixed z-40 pointer-events-none"
+                style={{
+                  left: clickIndicator.screenX - 6,
+                  top: clickIndicator.screenY - 6,
+                  width: 12,
+                  height: 12,
+                }}
+              >
+                <div className="w-3 h-3 rounded-full bg-yellow-400/80 border border-yellow-200 animate-ping" />
+              </div>
             )}
 
             {/* Interaction menu popup */}
