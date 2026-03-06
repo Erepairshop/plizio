@@ -255,8 +255,8 @@ function AvatarInRoom({
       const oX = roomSize.gridH * (TILE_W / 2) + 20;
       const oY = 120;
       const { x: sx, y: sy } = gridToScreen(avatarGridPos.gx, avatarGridPos.gy, oX, oY);
-      // Shift down to front edge of tile (not center) so avatar stands on floor
-      const syGround = sy + TILE_H / 2;
+      // Tile center is the visual ground level in isometric view
+      const syGround = sy;
 
       // SVG coord → DOM coord (relative to container)
       const domX = svgRect.left + (sx / viewBox.width) * svgRect.width - containerRect.left;
@@ -280,7 +280,7 @@ function AvatarInRoom({
       className="absolute pointer-events-none z-20"
       style={{
         left: pos.left - avatarSize / 2,
-        top: pos.top - avatarSize + 4 * zoom,
+        top: pos.top - avatarSize,
         width: avatarSize,
         height: avatarSize,
         transition: "left 0.6s ease-in-out, top 0.6s ease-in-out",
@@ -361,7 +361,7 @@ export default function RoomPage() {
 
   // ─── Zoom / Pan state ───
   const MIN_ZOOM = 1;
-  const MAX_ZOOM = 3;
+  const MAX_ZOOM = 5;
   const [zoom, setZoom] = useState(1);
   const [pan, setPan] = useState({ x: 0, y: 0 });
   const isPanningRef = useRef(false);

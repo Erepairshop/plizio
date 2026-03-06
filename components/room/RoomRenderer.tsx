@@ -107,8 +107,8 @@ export default function RoomRenderer({
             originX,
             originY
           );
-          // Shift furniture to front edge of tile so it sits ON the floor
-          const y = yCenter + TILE_H / 2;
+          // Place furniture at tile center (the visual ground level in iso view)
+          const y = yCenter;
 
           const isSelected = editMode && selectedIndex === item.origIdx;
           const rotation = item.rotation || 0;
