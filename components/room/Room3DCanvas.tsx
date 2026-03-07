@@ -420,35 +420,13 @@ export default function Room3DCanvas({
   const D = gridMax * 1.6;
   const baseZoom = 220 / gridMax;
 
-  // Imperative camera zoom & pan — updated outside Canvas's inner React root so it
-  // always reflects the latest React state (no inner-reconciler timing issues).
-  const cameraOrthoRef = useRef<THREE.OrthographicCamera | null>(null);
+  // ⚠️ IMPORTANT: Room3DCanvas does NOT handle zoom/pan!
+  // It renders the 3D scene at 1:1 scale.
+  // Zoom & pan are handled by CSS transform on the wrapper (page.tsx).
+  // This avoids all the Three.js orthographic camera complications.
 
-  useEffect(() => {
-    if (!cameraOrthoRef.current) return;
-
-    const cam = cameraOrthoRef.current;
-
-    // SOLUTION: Instead of using camera.zoom (which clamps frustum),
-    // adjust camera distance from origin to achieve zoom effect.
-    // Isometric [D, D, D] looking at [0, 0, 0]:
-    // - Greater distance → smaller appearance (zoom out)
-    // - Smaller distance → larger appearance (zoom in)
-    // So: distance = D / cameraZoom
-    const distance = D / cameraZoom;
-
-    // Apply camera position with adjusted distance (isometric)
-    cam.position.set(distance, distance, distance);
-
-    // Apply pan offset AFTER position is set
-    // Pan operates in world space, offset proportionally
-    const panScale = 0.006 / cameraZoom; // pan is relative to zoom level
-    cam.position.x -= cameraPan.x * panScale;
-    cam.position.z -= cameraPan.y * panScale;
-
-    cam.lookAt(0, 0, 0);
-    cam.updateProjectionMatrix();
-  }, [cameraZoom, cameraPan, D]);
+  // If you need zoom/pan in the 3D scene itself (e.g., constrain pan to grid bounds),
+  // that's a different feature and should be implemented separately.
 
   return (
     <Canvas

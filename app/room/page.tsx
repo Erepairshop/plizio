@@ -1276,10 +1276,12 @@ export default function RoomPage() {
               transition={{ duration: 0.3 }}
               className="w-full h-full flex items-center justify-center"
               style={{
-                // Pan & zoom both handled by R3F camera — no CSS transform!
-                // This eliminates hybrid transform conflicts and mobile lag.
+                // ✅ SIMPLE CSS-BASED ZOOM/PAN
+                // Room3DCanvas renders at 1:1, this wrapper applies transform
                 cursor: zoom > 1 ? "grab" : "default",
-                // No aspectRatio — let room fill container fully
+                transform: `translate(${pan.x}px, ${pan.y}px) scale(${zoom})`,
+                transformOrigin: "center center",
+                transition: "none", // no smooth transitions during drag
               }}
             >
               <Room3DCanvas
