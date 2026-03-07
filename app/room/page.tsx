@@ -18,8 +18,8 @@ import {
   RotateCw,
   Move,
 } from "lucide-react";
-import RoomRenderer from "@/components/room/RoomRenderer";
-import { FURNITURE_DEFS, getFurnitureDef } from "@/components/room/FurnitureRegistry";
+import Room3DCanvas from "@/components/room/Room3DCanvas";
+import { FURNITURE_DEFS, getFurnitureDef, getEffectiveDimensions } from "@/components/room/FurnitureRegistry";
 import {
   getOwnedRooms,
   getRoomFurniture,
@@ -44,9 +44,9 @@ import { getFaceDef, getActiveFace } from "@/lib/faces";
 import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
 import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
 import type { AvatarCompanionProps } from "@/components/AvatarCompanion";
-import { gridToScreen, TILE_W, TILE_H } from "@/components/room/IsoRoom";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion").then(m => ({ default: m.default })), { ssr: false });
+
 
 // ─── Room definitions ───
 interface RoomDef {
@@ -333,10 +333,9 @@ function findValidStartPos(
 // ─── Avatar in Room component ───
 interface AvatarInRoomProps {
   roomContainerRef: React.RefObject<HTMLDivElement | null>;
-  avatarGridPos: { gx: number; gy: number };
-  roomSize: { gridW: number; gridH: number };
-  zoom: number;
-  pan: { x: number; y: number };
+  // Window-relative screen coords of avatar foot position (from AvatarTracker)
+  avatarScreenX: number;
+  avatarScreenY: number;
   mood: AvatarCompanionProps["mood"];
   reaction: { reaction: "wave" | "dance" | "spin" | "happy" | "surprised" | "confused" | "laughing" | "victory" | null; timestamp: number };
   isWalking: boolean;
@@ -358,10 +357,8 @@ interface AvatarInRoomProps {
 
 function AvatarInRoom({
   roomContainerRef,
-  avatarGridPos,
-  roomSize,
-  zoom,
-  pan,
+  avatarScreenX,
+  avatarScreenY,
   mood,
   reaction,
   isWalking,
@@ -381,42 +378,22 @@ function AvatarInRoom({
   activeTrail,
 }: AvatarInRoomProps) {
   const [pos, setPos] = useState({ left: 0, top: 0 });
-  const containerRef = useRef<HTMLDivElement>(null);
 
-  // Calculate avatar position based on SVG grid
-  // useLayoutEffect runs synchronously after DOM mutations → no pan/zoom lag
+  // Convert window-relative screen coords → container-relative coords
   useLayoutEffect(() => {
-    const update = () => {
-      const svg = roomContainerRef.current?.querySelector("svg");
-      const container = roomContainerRef.current;
-      if (!svg || !container) return;
+    const container = roomContainerRef.current;
+    if (!container) return;
+    const containerRect = container.getBoundingClientRect();
+    setPos({
+      left: avatarScreenX - containerRect.left,
+      top: avatarScreenY - containerRect.top,
+    });
+  }, [avatarScreenX, avatarScreenY, roomContainerRef]);
 
-      const svgRect = svg.getBoundingClientRect();
-      const containerRect = container.getBoundingClientRect();
-      const viewBox = svg.viewBox.baseVal;
-
-      const oX = roomSize.gridH * (TILE_W / 2) + 20;
-      const oY = 120;
-      const { x: sx, y: sy } = gridToScreen(avatarGridPos.gx, avatarGridPos.gy, oX, oY);
-
-      // SVG coord → DOM coord (relative to container)
-      const domX = svgRect.left + (sx / viewBox.width) * svgRect.width - containerRect.left;
-      const domY = svgRect.top + (sy / viewBox.height) * svgRect.height - containerRect.top;
-
-      setPos({ left: domX, top: domY });
-    };
-
-    update();
-    window.addEventListener("resize", update);
-    return () => window.removeEventListener("resize", update);
-  }, [avatarGridPos, roomSize, roomContainerRef, zoom, pan]);
-
-  const baseAvatarSize = 60; // px at zoom=1
-  const avatarSize = baseAvatarSize * zoom;
+  const avatarSize = 60;
 
   return (
     <div
-      ref={containerRef}
       className="absolute pointer-events-none z-20"
       style={{
         left: pos.left - avatarSize / 2,
@@ -495,6 +472,9 @@ export default function RoomPage() {
 
   const [avatarGridPos, setAvatarGridPos] = useState({ gx: 3, gy: 3 });
   const avatarGridPosRef = useRef({ gx: 3, gy: 3 });
+  // Window-relative screen coords of avatar foot (set by Room3DCanvas AvatarTracker)
+  const [avatarScreenX, setAvatarScreenX] = useState(0);
+  const [avatarScreenY, setAvatarScreenY] = useState(0);
   const roomSizeRef = useRef({ gridW: 6, gridH: 6 });
   const [avatarMood, setAvatarMood] = useState<AvatarCompanionProps["mood"]>("idle");
   const [avatarFacing, setAvatarFacing] = useState<'se' | 'sw' | 'ne' | 'nw'>('se');
@@ -502,9 +482,6 @@ export default function RoomPage() {
   const [isWalking, setIsWalking] = useState(false);
   const [walkTransitionMs, setWalkTransitionMs] = useState(0);
   const walkTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
-  // Click target indicator (debug: shows where click registered on the floor)
-  const [clickIndicator, setClickIndicator] = useState<{ screenX: number; screenY: number; key: number } | null>(null);
-  const clickIndicatorTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   // Build set of blocked grid cells from placed furniture
   const buildBlockedSet = useCallback(() => {
@@ -565,147 +542,9 @@ export default function RoomPage() {
   const [activeInteraction, setActiveInteraction] = useState<string | null>(null);
   const interactionTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
-  // ─── Zoom / Pan state ───
-  const MIN_ZOOM = 1;
-  const MAX_ZOOM = 5;
-  const [zoom, setZoom] = useState(1);
-  const [pan, setPan] = useState({ x: 0, y: 0 });
-  const isPanningRef = useRef(false);
-  const panStartRef = useRef({ x: 0, y: 0, panX: 0, panY: 0 });
-  const lastPinchDistRef = useRef(0);
-  const didDragRef = useRef(false); // true if pointer moved beyond DRAG_THRESHOLD during press
   const roomContainerRef = useRef<HTMLDivElement>(null);
 
-  // Zoom button handlers
-  const handleZoomIn = useCallback(() => {
-    setZoom(z => Math.min(z + 0.5, MAX_ZOOM));
-  }, []);
-  const handleZoomOut = useCallback(() => {
-    setZoom(z => {
-      const nz = Math.max(z - 0.5, MIN_ZOOM);
-      if (nz === MIN_ZOOM) setPan({ x: 0, y: 0 });
-      return nz;
-    });
-  }, []);
-  const handleZoomReset = useCallback(() => {
-    setZoom(1);
-    setPan({ x: 0, y: 0 });
-  }, []);
-
-  // Helper: max pan limits based on current container size
-  const getMaxPan = useCallback(() => {
-    const el = roomContainerRef.current;
-    if (!el) return { x: 0, y: 0 };
-    return {
-      x: el.clientWidth * (zoom - 1) / 2,
-      y: el.clientHeight * (zoom - 1) / 2,
-    };
-  }, [zoom]);
-
-  // Touch pan & pinch zoom (with drag threshold so taps still register as clicks)
-  const handleTouchStart = useCallback((e: React.TouchEvent) => {
-    didDragRef.current = false;
-    if (e.touches.length === 2) {
-      const dx = e.touches[0].clientX - e.touches[1].clientX;
-      const dy = e.touches[0].clientY - e.touches[1].clientY;
-      lastPinchDistRef.current = Math.sqrt(dx * dx + dy * dy);
-      didDragRef.current = true; // pinch is always a drag
-    } else if (e.touches.length === 1 && zoom > 1) {
-      // Record start position but DON'T set isPanning yet — wait for threshold
-      panStartRef.current = {
-        x: e.touches[0].clientX,
-        y: e.touches[0].clientY,
-        panX: pan.x,
-        panY: pan.y,
-      };
-    }
-  }, [zoom, pan]);
-
-  // Client koordináta → grid (pointer/touch eseményekhez, ref alapú, nem React.MouseEvent)
-  const clientToGrid = useCallback((clientX: number, clientY: number) => {
-    const svg = roomContainerRef.current?.querySelector("svg");
-    if (!svg) return null;
-    const rect = svg.getBoundingClientRect();
-    const vb = svg.viewBox.baseVal;
-    const svgX = (clientX - rect.left) * (vb.width / rect.width);
-    const svgY = (clientY - rect.top) * (vb.height / rect.height);
-    const oX = roomSizeRef.current.gridH * 24 + 20;
-    const oY = 120;
-    const relX = svgX - oX;
-    const relY = svgY - oY;
-    return { gx: (relX / 24 + relY / 12) / 2, gy: (relY / 12 - relX / 24) / 2 };
-  }, []);
-
-  const handleTouchMove = useCallback((e: React.TouchEvent) => {
-    if (e.touches.length === 2) {
-      e.preventDefault();
-      const dx = e.touches[0].clientX - e.touches[1].clientX;
-      const dy = e.touches[0].clientY - e.touches[1].clientY;
-      const dist = Math.sqrt(dx * dx + dy * dy);
-      if (lastPinchDistRef.current > 0) {
-        const scale = dist / lastPinchDistRef.current;
-        setZoom(z => Math.min(Math.max(z * scale, MIN_ZOOM), MAX_ZOOM));
-      }
-      lastPinchDistRef.current = dist;
-    } else if (e.touches.length === 1) {
-      const touch = e.touches[0];
-
-      // BÚTOR DRAG MÓD (hosszú nyomás után)
-      if (furnitureDragActiveRef.current && movingIdx !== null) {
-        const fId = furniture[movingIdx]?.furnitureId;
-        if (fId) {
-          const fDef = getFurnitureDef(fId);
-          if (fDef) {
-            const g = clientToGrid(touch.clientX, touch.clientY);
-            if (g) {
-              const rs = roomSizeRef.current;
-              setGhostPos({
-                gx: Math.max(0, Math.min(rs.gridW - fDef.gridW, Math.round(g.gx))),
-                gy: Math.max(0, Math.min(rs.gridH - fDef.gridH, Math.round(g.gy))),
-              });
-              didDragRef.current = true;
-            }
-          }
-        }
-        return; // nem pannel drag közben
-      }
-
-      // ELHELYEZÉSI ELŐNÉZET (új bútor kiválasztva)
-      if (editMode && selectedFurnitureId) {
-        const fDef = getFurnitureDef(selectedFurnitureId);
-        if (fDef) {
-          const g = clientToGrid(touch.clientX, touch.clientY);
-          if (g) {
-            const rs = roomSizeRef.current;
-            setGhostPos({
-              gx: Math.max(0, Math.min(rs.gridW - fDef.gridW, Math.round(g.gx))),
-              gy: Math.max(0, Math.min(rs.gridH - fDef.gridH, Math.round(g.gy))),
-            });
-          }
-        }
-      }
-
-      // PAN (csak zoom > 1 esetén, és nem bútor drag közben)
-      if (zoom > 1) {
-        const dx = touch.clientX - panStartRef.current.x;
-        const dy = touch.clientY - panStartRef.current.y;
-        const moved = Math.sqrt(dx * dx + dy * dy);
-        if (moved > DRAG_THRESHOLD) {
-          isPanningRef.current = true;
-          didDragRef.current = true;
-          const mp = getMaxPan();
-          setPan({
-            x: Math.min(Math.max(panStartRef.current.panX + dx, -mp.x), mp.x),
-            y: Math.min(Math.max(panStartRef.current.panY + dy, -mp.y), mp.y),
-          });
-        }
-      }
-    }
-  }, [zoom, editMode, selectedFurnitureId, movingIdx, furniture, clientToGrid, getMaxPan]);
-
   const handleTouchEnd = useCallback(() => {
-    isPanningRef.current = false;
-    lastPinchDistRef.current = 0;
     // Drag-to-place: ujj felengedésekor elhelyezi a bútort
     if (furnitureDragActiveRef.current && movingIdx !== null && ghostPos) {
       furnitureDragActiveRef.current = false;
@@ -713,13 +552,16 @@ export default function RoomPage() {
       if (moving) {
         const fDef = getFurnitureDef(moving.furnitureId);
         if (fDef) {
+          const eff = getEffectiveDimensions(fDef, moving.rotation || 0);
           const { gx, gy } = ghostPos;
           const rs = roomSizeRef.current;
-          const inBounds = gx >= 0 && gy >= 0 && gx + fDef.gridW <= rs.gridW && gy + fDef.gridH <= rs.gridH;
+          const inBounds = gx >= 0 && gy >= 0 && gx + eff.gridW <= rs.gridW && gy + eff.gridH <= rs.gridH;
           const noOverlap = !furniture.some((p, i) => {
             if (i === movingIdx) return false;
             const pd = getFurnitureDef(p.furnitureId);
-            return pd ? (gx < p.gridX + pd.gridW && gx + fDef.gridW > p.gridX && gy < p.gridY + pd.gridH && gy + fDef.gridH > p.gridY) : false;
+            if (!pd) return false;
+            const pe = getEffectiveDimensions(pd, p.rotation || 0);
+            return gx < p.gridX + pe.gridW && gx + eff.gridW > p.gridX && gy < p.gridY + pe.gridH && gy + eff.gridH > p.gridY;
           });
           if (inBounds && noOverlap) {
             const newFurniture = [...furniture];
@@ -733,59 +575,9 @@ export default function RoomPage() {
       }
       furnitureDragActiveRef.current = false;
     }
-    setZoom(z => {
-      if (z < MIN_ZOOM) { setPan({ x: 0, y: 0 }); return MIN_ZOOM; }
-      return z;
-    });
   }, [movingIdx, furniture, ghostPos, currentRoomIdx]);
 
-  // Mouse drag pan (desktop) — with drag threshold
-  const handleMouseDown = useCallback((e: React.MouseEvent) => {
-    didDragRef.current = false;
-    if (zoom <= 1) return;
-    // Don't pan if clicking furniture in edit mode
-    if (editMode && selectedFurnitureId) return;
-    panStartRef.current = { x: e.clientX, y: e.clientY, panX: pan.x, panY: pan.y };
-    isPanningRef.current = true; // track mouse, but didDragRef stays false until threshold
-  }, [zoom, pan, editMode, selectedFurnitureId]);
-
-  const handleMouseMove = useCallback((e: React.MouseEvent) => {
-    // Ghost preview frissítése edit módban (bútor elhelyezés / mozgatás)
-    if (editMode) {
-      const fId = selectedFurnitureId ?? (movingIdx !== null ? furniture[movingIdx]?.furnitureId : null);
-      if (fId) {
-        const fDef = getFurnitureDef(fId);
-        if (fDef) {
-          const g = clientToGrid(e.clientX, e.clientY);
-          if (g) {
-            const rs = roomSizeRef.current;
-            setGhostPos({
-              gx: Math.max(0, Math.min(rs.gridW - fDef.gridW, Math.round(g.gx))),
-              gy: Math.max(0, Math.min(rs.gridH - fDef.gridH, Math.round(g.gy))),
-            });
-          }
-        }
-      } else {
-        setGhostPos(null);
-      }
-    }
-
-    // Pan logika (változatlan)
-    if (!isPanningRef.current || zoom <= 1) return;
-    const dx = e.clientX - panStartRef.current.x;
-    const dy = e.clientY - panStartRef.current.y;
-    const moved = Math.sqrt(dx * dx + dy * dy);
-    if (moved <= DRAG_THRESHOLD) return;
-    didDragRef.current = true;
-    const mp = getMaxPan();
-    setPan({
-      x: Math.min(Math.max(panStartRef.current.panX + dx, -mp.x), mp.x),
-      y: Math.min(Math.max(panStartRef.current.panY + dy, -mp.y), mp.y),
-    });
-  }, [zoom, getMaxPan, editMode, selectedFurnitureId, movingIdx, furniture, clientToGrid]);
-
   const handleMouseUp = useCallback(() => {
-    isPanningRef.current = false;
     // Drag-to-place: ha hosszú nyomással drag aktív, az egér felengedésekor helyezi el
     if (furnitureDragActiveRef.current && movingIdx !== null && ghostPos) {
       furnitureDragActiveRef.current = false;
@@ -793,13 +585,16 @@ export default function RoomPage() {
       if (moving) {
         const fDef = getFurnitureDef(moving.furnitureId);
         if (fDef) {
+          const eff = getEffectiveDimensions(fDef, moving.rotation || 0);
           const { gx, gy } = ghostPos;
           const rs = roomSizeRef.current;
-          const inBounds = gx >= 0 && gy >= 0 && gx + fDef.gridW <= rs.gridW && gy + fDef.gridH <= rs.gridH;
+          const inBounds = gx >= 0 && gy >= 0 && gx + eff.gridW <= rs.gridW && gy + eff.gridH <= rs.gridH;
           const noOverlap = !furniture.some((p, i) => {
             if (i === movingIdx) return false;
             const pd = getFurnitureDef(p.furnitureId);
-            return pd ? (gx < p.gridX + pd.gridW && gx + fDef.gridW > p.gridX && gy < p.gridY + pd.gridH && gy + fDef.gridH > p.gridY) : false;
+            if (!pd) return false;
+            const pe = getEffectiveDimensions(pd, p.rotation || 0);
+            return gx < p.gridX + pe.gridW && gx + eff.gridW > p.gridX && gy < p.gridY + pe.gridH && gy + eff.gridH > p.gridY;
           });
           if (inBounds && noOverlap) {
             const newFurniture = [...furniture];
@@ -814,64 +609,6 @@ export default function RoomPage() {
       furnitureDragActiveRef.current = false;
     }
   }, [movingIdx, furniture, ghostPos, currentRoomIdx]);
-
-  // ── Native wheel & touchmove listeners (passive:false szükséges, React passzív listenereket regisztrál) ──
-  useEffect(() => {
-    const el = roomContainerRef.current;
-    const owned = ownedRooms.includes(ROOMS[currentRoomIdx].id);
-    if (!el || !owned) return;
-
-    const onWheel = (e: WheelEvent) => {
-      e.preventDefault();
-      const rect = el.getBoundingClientRect();
-      // Kurzor pozíciója a container közepéhez képest
-      const cx = e.clientX - rect.left - rect.width / 2;
-      const cy = e.clientY - rect.top - rect.height / 2;
-      setZoom(z => {
-        const nz = Math.min(Math.max(z - e.deltaY * 0.002, MIN_ZOOM), MAX_ZOOM);
-        if (nz <= MIN_ZOOM) {
-          setPan({ x: 0, y: 0 });
-        } else {
-          // Zoom a kurzor irányába: a kurzor alatt lévő pont ugyanott marad
-          const factor = nz / z;
-          const maxX = rect.width * (nz - 1) / 2;
-          const maxY = rect.height * (nz - 1) / 2;
-          setPan(p => ({
-            x: Math.min(Math.max(cx - (cx - p.x) * factor, -maxX), maxX),
-            y: Math.min(Math.max(cy - (cy - p.y) * factor, -maxY), maxY),
-          }));
-        }
-        return nz;
-      });
-    };
-
-    const onTouchMove = (e: TouchEvent) => {
-      // Pinch zoom vagy aktív pan esetén megakadályozzuk az oldal görgetését
-      if (e.touches.length >= 2 || isPanningRef.current) {
-        e.preventDefault();
-      }
-    };
-
-    el.addEventListener("wheel", onWheel, { passive: false });
-    el.addEventListener("touchmove", onTouchMove, { passive: false });
-    return () => {
-      el.removeEventListener("wheel", onWheel);
-      el.removeEventListener("touchmove", onTouchMove);
-    };
-  }, [ownedRooms, currentRoomIdx]);
-
-  // ── Pan visszaclampolás zoom változáskor (pl. gombbal kicsinyítve) ──
-  useEffect(() => {
-    if (zoom <= MIN_ZOOM) return;
-    const el = roomContainerRef.current;
-    if (!el) return;
-    const maxX = el.clientWidth * (zoom - 1) / 2;
-    const maxY = el.clientHeight * (zoom - 1) / 2;
-    setPan(p => ({
-      x: Math.min(Math.max(p.x, -maxX), maxX),
-      y: Math.min(Math.max(p.y, -maxY), maxY),
-    }));
-  }, [zoom]);
 
   // Ghost törlése ha nincs aktív elhelyezési mód
   useEffect(() => {
@@ -880,10 +617,8 @@ export default function RoomPage() {
     }
   }, [editMode, selectedFurnitureId, movingIdx]);
 
-  // Reset zoom and avatar position on room change
+  // Reset avatar position on room change
   useEffect(() => {
-    setZoom(1);
-    setPan({ x: 0, y: 0 });
     // Cancel any in-progress walk
     if (walkTimerRef.current) { clearTimeout(walkTimerRef.current); walkTimerRef.current = null; }
     setIsWalking(false);
@@ -1018,102 +753,114 @@ export default function RoomPage() {
     setConfirmBuy(null);
   };
 
-  // Convert click to grid coords
-  const clickToGrid = (e: React.MouseEvent<HTMLDivElement>) => {
-    const svg = e.currentTarget.querySelector("svg");
-    if (!svg) return null;
+  // Unified tile click handler — receives grid coords from Room3DCanvas
+  // Handles both edit-mode furniture placement AND normal-mode floor walking
+  const handleTileClick = useCallback((rawGx: number, rawGy: number) => {
+    if (!isOwned) return;
+    if (didDragRef.current) return;
 
-    const rect = svg.getBoundingClientRect();
-    const viewBox = svg.viewBox.baseVal;
-    const scaleX = viewBox.width / rect.width;
-    const scaleY = viewBox.height / rect.height;
+    if (editMode) {
+      // ── EDIT MODE ──────────────────────────────────────────────────────────
+      const rawGxR = Math.round(rawGx);
+      const rawGyR = Math.round(rawGy);
 
-    const svgX = (e.clientX - rect.left) * scaleX;
-    const svgY = (e.clientY - rect.top) * scaleY;
+      if (movingIdx !== null) {
+        const moving = furniture[movingIdx];
+        const fDef = getFurnitureDef(moving.furnitureId);
+        if (!fDef) return;
+        const eff = getEffectiveDimensions(fDef, moving.rotation || 0);
+        const gx = Math.max(0, Math.min(roomSize.gridW - eff.gridW, rawGxR));
+        const gy = Math.max(0, Math.min(roomSize.gridH - eff.gridH, rawGyR));
+        if (!isValidPosition(gx, gy, eff, movingIdx)) { showToast(t.overlap || "Can't place here!"); return; }
+        const nf = [...furniture];
+        nf[movingIdx] = { ...moving, gridX: gx, gridY: gy };
+        setFurniture(nf);
+        saveRoomFurniture(currentRoom.id, nf);
+        return;
+      }
 
-    const oX = roomSize.gridH * 24 + 20;
-    const oY = 120;
-    const relX = svgX - oX;
-    const relY = svgY - oY;
+      if (!selectedFurnitureId) return;
+      const fDef = getFurnitureDef(selectedFurnitureId);
+      if (!fDef) return;
+      const eff = getEffectiveDimensions(fDef, 0);
+      const gx = Math.max(0, Math.min(roomSize.gridW - eff.gridW, rawGxR));
+      const gy = Math.max(0, Math.min(roomSize.gridH - eff.gridH, rawGyR));
+      if (!isValidPosition(gx, gy, eff)) { showToast(t.overlap || "Can't place here!"); return; }
+      const nf = [...furniture, { furnitureId: selectedFurnitureId, gridX: gx, gridY: gy, rotation: 0 as const }];
+      setFurniture(nf);
+      saveRoomFurniture(currentRoom.id, nf);
+      setSelectedFurnitureId(null);
+    } else {
+      // ── WALK MODE ──────────────────────────────────────────────────────────
+      if (interactionMenu) { setInteractionMenu(null); return; }
 
-    return {
-      gx: (relX / 24 + relY / 12) / 2,
-      gy: (relY / 12 - relX / 24) / 2,
-    };
-  };
+      const igx = Math.max(0, Math.min(roomSize.gridW - 1, Math.round(rawGx)));
+      const igy = Math.max(0, Math.min(roomSize.gridH - 1, Math.round(rawGy)));
+      const blocked = buildBlockedSet();
+      if (blocked.has(`${igx},${igy}`)) return;
 
-  // Check if a position is valid (bounds + no overlap)
-  const isValidPosition = (gx: number, gy: number, fDef: { gridW: number; gridH: number }, excludeIdx?: number) => {
-    if (gx < 0 || gy < 0 || gx + fDef.gridW > roomSize.gridW || gy + fDef.gridH > roomSize.gridH) return false;
+      const cgx = Math.max(0, Math.min(roomSize.gridW - 0.01, rawGx));
+      const cgy = Math.max(0, Math.min(roomSize.gridH - 0.01, rawGy));
+
+      const cur = avatarGridPosRef.current;
+      if (Math.abs(cgx - cur.gx) > 0.05 || Math.abs(cgy - cur.gy) > 0.05) {
+        setAvatarFacing(calcFacing(cur.gx, cur.gy, cgx, cgy));
+      }
+
+      const path = aStarPath(Math.round(cur.gx), Math.round(cur.gy), igx, igy,
+        roomSize.gridW, roomSize.gridH, (x, y) => blocked.has(`${x},${y}`));
+
+      if (path.length > 0) path[path.length - 1] = { gx: cgx, gy: cgy };
+      else if (Math.hypot(cgx - cur.gx, cgy - cur.gy) > 0.2) path.push({ gx: cgx, gy: cgy });
+
+      if (path.length > 0) {
+        setActiveInteraction(null);
+        startWalkPath(path, () => setAvatarMood("idle"));
+      }
+    }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [isOwned, editMode, movingIdx, furniture, selectedFurnitureId, roomSize, currentRoom.id, interactionMenu, buildBlockedSet, startWalkPath, showToast, t]);
+
+  // Ghost update from 3D canvas pointer move
+  const handlePointerMoveGrid = useCallback((rawGx: number, rawGy: number) => {
+    if (!editMode) { setGhostPos(null); return; }
+    const movingItem = movingIdx !== null ? furniture[movingIdx] : null;
+    const fId = selectedFurnitureId ?? movingItem?.furnitureId ?? null;
+    if (!fId) { setGhostPos(null); return; }
+    const fDef = getFurnitureDef(fId);
+    if (!fDef) return;
+    const eff = getEffectiveDimensions(fDef, movingItem?.rotation || 0);
+    const rs = roomSizeRef.current;
+    setGhostPos({
+      gx: Math.max(0, Math.min(rs.gridW - eff.gridW, Math.round(rawGx))),
+      gy: Math.max(0, Math.min(rs.gridH - eff.gridH, Math.round(rawGy))),
+    });
+  }, [editMode, movingIdx, furniture, selectedFurnitureId]);
+
+  // Check if a position is valid (bounds + no overlap) — uses effective dimensions (rotation-aware)
+  const isValidPosition = (gx: number, gy: number, eff: { gridW: number; gridH: number }, excludeIdx?: number) => {
+    if (gx < 0 || gy < 0 || gx + eff.gridW > roomSize.gridW || gy + eff.gridH > roomSize.gridH) return false;
     return !furniture.some((placed, i) => {
       if (excludeIdx !== undefined && i === excludeIdx) return false;
       const pDef = getFurnitureDef(placed.furnitureId);
       if (!pDef) return false;
+      const pe = getEffectiveDimensions(pDef, placed.rotation || 0);
       return (
-        gx < placed.gridX + pDef.gridW &&
-        gx + fDef.gridW > placed.gridX &&
-        gy < placed.gridY + pDef.gridH &&
-        gy + fDef.gridH > placed.gridY
+        gx < placed.gridX + pe.gridW &&
+        gx + eff.gridW > placed.gridX &&
+        gy < placed.gridY + pe.gridH &&
+        gy + eff.gridH > placed.gridY
       );
     });
   };
 
-  // Place or move furniture on grid
-  const handleSvgClick = (e: React.MouseEvent<HTMLDivElement>) => {
-    if (!editMode || !isOwned) return;
 
-    const grid = clickToGrid(e);
-    if (!grid) return;
-    const rawGx = Math.round(grid.gx);
-    const rawGy = Math.round(grid.gy);
-
-    // MOVE MODE: moving an existing furniture piece
-    if (movingIdx !== null) {
-      const moving = furniture[movingIdx];
-      const fDef = getFurnitureDef(moving.furnitureId);
-      if (!fDef) return;
-      const gx = Math.max(0, Math.min(roomSize.gridW - fDef.gridW, rawGx));
-      const gy = Math.max(0, Math.min(roomSize.gridH - fDef.gridH, rawGy));
-
-      if (!isValidPosition(gx, gy, fDef, movingIdx)) {
-        showToast(t.overlap || "Can't place here!");
-        return;
-      }
-
-      const newFurniture = [...furniture];
-      newFurniture[movingIdx] = { ...moving, gridX: gx, gridY: gy };
-      setFurniture(newFurniture);
-      saveRoomFurniture(currentRoom.id, newFurniture);
-      // Stay in move mode — user can keep repositioning until they click the furniture again
-      return;
-    }
-
-    // PLACE MODE: placing new furniture from shop
-    if (!selectedFurnitureId) return;
-    const fDef = getFurnitureDef(selectedFurnitureId);
-    if (!fDef) return;
-    const gx = Math.max(0, Math.min(roomSize.gridW - fDef.gridW, rawGx));
-    const gy = Math.max(0, Math.min(roomSize.gridH - fDef.gridH, rawGy));
-
-    if (!isValidPosition(gx, gy, fDef)) {
-      showToast(t.overlap || "Can't place here!");
-      return;
-    }
-
-    const newFurniture = [
-      ...furniture,
-      { furnitureId: selectedFurnitureId, gridX: gx, gridY: gy, rotation: 0 as const },
-    ];
-    setFurniture(newFurniture);
-    saveRoomFurniture(currentRoom.id, newFurniture);
-    setSelectedFurnitureId(null);
-  };
-
-  // Rotate furniture
+  // Rotate furniture — only 2 states: original (0) and mirrored (1)
+  // Rotations 2/3 used matrix transforms that distorted 3D furniture SVGs
   const handleRotateFurniture = (index: number) => {
     const newFurniture = [...furniture];
     const item = newFurniture[index];
-    item.rotation = ((item.rotation || 0) + 1) % 4 as 0 | 1 | 2 | 3;
+    item.rotation = ((item.rotation || 0) + 1) % 2 as 0 | 1;
     setFurniture(newFurniture);
     saveRoomFurniture(currentRoom.id, newFurniture);
   };
@@ -1143,40 +890,20 @@ export default function RoomPage() {
     setMovingIdx(null);
   };
 
-  // Handle furniture click in SVG (select placed furniture or show interaction)
-  const handleFurnitureClick = (index: number) => {
+  // Handle furniture click (screen coords come from the R3F click event)
+  const handleFurnitureClick = (index: number, screenX = 0, screenY = 0) => {
     if (movingIdx !== null) {
-      // Clicking the currently-moving furniture exits move mode
-      if (index === movingIdx) {
-        setMovingIdx(null);
-        setSelectedPlacedIdx(index);
-      }
+      if (index === movingIdx) { setMovingIdx(null); setSelectedPlacedIdx(index); }
       return;
     }
-
     if (editMode) {
-      // Edit mode: select for rotate/move/remove
       setSelectedPlacedIdx(selectedPlacedIdx === index ? null : index);
       setSelectedFurnitureId(null);
       return;
     }
-
-    // Normal mode: show interaction menu
     const item = furniture[index];
     const interactions = getInteractionsForFurniture(item.furnitureId);
     if (interactions.length === 0) return;
-
-    // Get screen position of furniture for menu positioning
-    const svg = roomContainerRef.current?.querySelector("svg");
-    if (!svg) return;
-    const rect = svg.getBoundingClientRect();
-    const viewBox = svg.viewBox.baseVal;
-    const oX = roomSize.gridH * 24 + 20;
-    const oY = 120;
-    const { x: sx, y: sy } = gridToScreen(item.gridX, item.gridY, oX, oY);
-    const screenX = rect.left + (sx / viewBox.width) * rect.width;
-    const screenY = rect.top + (sy / viewBox.height) * rect.height;
-
     setInteractionMenu({ furnitureIdx: index, screenX, screenY });
   };
 
@@ -1227,82 +954,7 @@ export default function RoomPage() {
     setInteractionMenu(null);
   }, []);
 
-  // Handle click on empty floor (walk there)
-  const handleFloorClick = (e: React.MouseEvent<HTMLDivElement>) => {
-    if (editMode) return;
-    // Skip if this click was actually the end of a pan/drag gesture
-    if (didDragRef.current) return;
-    // Close interaction menu if open, then proceed to walk
-    if (interactionMenu) { setInteractionMenu(null); return; }
-
-    const grid = clickToGrid(e);
-    if (!grid) return;
-
-    // Integer cell for bounds/collision checks and A* — clamp to valid range
-    const igx = Math.max(0, Math.min(roomSize.gridW - 1, Math.round(grid.gx)));
-    const igy = Math.max(0, Math.min(roomSize.gridH - 1, Math.round(grid.gy)));
-
-    const blocked = buildBlockedSet();
-    if (blocked.has(`${igx},${igy}`)) return; // clicked on furniture
-
-    // Clamp float position to valid grid (so path never exits the floor)
-    const cgx = Math.max(0, Math.min(roomSize.gridW - 0.01, grid.gx));
-    const cgy = Math.max(0, Math.min(roomSize.gridH - 0.01, grid.gy));
-
-    // Show click indicator at the registered grid position (debug feedback)
-    {
-      const svg = (e.currentTarget as HTMLDivElement).querySelector("svg");
-      if (svg) {
-        const rect = svg.getBoundingClientRect();
-        const vb = svg.viewBox.baseVal;
-        const oX = roomSize.gridH * 24 + 20, oY = 120;
-        const { x: sx, y: sy } = gridToScreen(cgx, cgy, oX, oY);
-        const screenX = rect.left + (sx / vb.width) * rect.width;
-        const screenY = rect.top + (sy / vb.height) * rect.height;
-        if (clickIndicatorTimerRef.current) clearTimeout(clickIndicatorTimerRef.current);
-        setClickIndicator({ screenX, screenY, key: Date.now() });
-        clickIndicatorTimerRef.current = setTimeout(() => setClickIndicator(null), 800);
-      }
-    }
-
-    const cur = avatarGridPosRef.current;
-    const curI = { gx: Math.round(cur.gx), gy: Math.round(cur.gy) };
-    const path = aStarPath(curI.gx, curI.gy, igx, igy,
-      roomSize.gridW, roomSize.gridH, (x, y) => blocked.has(`${x},${y}`));
-
-    // Replace last waypoint with exact sub-grid click position (clamped)
-    if (path.length > 0) {
-      path[path.length - 1] = { gx: cgx, gy: cgy };
-    } else if (Math.hypot(cgx - cur.gx, cgy - cur.gy) > 0.2) {
-      // Same integer cell but different float position — still move there
-      path.push({ gx: cgx, gy: cgy });
-    }
-
-    // Always face toward the click target immediately (even if already at destination)
-    if (Math.abs(cgx - cur.gx) > 0.05 || Math.abs(cgy - cur.gy) > 0.05) {
-      setAvatarFacing(calcFacing(cur.gx, cur.gy, cgx, cgy));
-    }
-
-    if (path.length > 0) {
-      setActiveInteraction(null);
-      startWalkPath(path, () => setAvatarMood("idle"));
-    }
-  };
-
-  // Calculate avatar screen position for overlay
-  const getAvatarScreenPos = useCallback(() => {
-    const svg = roomContainerRef.current?.querySelector("svg");
-    if (!svg) return { left: 0, top: 0 };
-    const rect = svg.getBoundingClientRect();
-    const viewBox = svg.viewBox.baseVal;
-    const oX = roomSize.gridH * 24 + 20;
-    const oY = 120;
-    const { x: sx, y: sy } = gridToScreen(avatarGridPos.gx, avatarGridPos.gy, oX, oY);
-    return {
-      left: rect.left + (sx / viewBox.width) * rect.width,
-      top: rect.top + (sy / viewBox.height) * rect.height,
-    };
-  }, [avatarGridPos, roomSize.gridH]);
+  // (handleFloorClick and getAvatarScreenPos removed — replaced by handleTileClick and AvatarTracker in Room3DCanvas)
 
   // Interaction name helper
   const iNames = INTERACTION_NAMES[lang] || INTERACTION_NAMES.en;
@@ -1414,17 +1066,11 @@ export default function RoomPage() {
       <div
         className="flex-1 flex items-center justify-center px-2 pb-2 overflow-hidden relative"
         ref={roomContainerRef}
-        onTouchStart={isOwned ? handleTouchStart : undefined}
-        onTouchMove={isOwned ? handleTouchMove : undefined}
         onTouchEnd={isOwned ? handleTouchEnd : undefined}
-        onMouseDown={isOwned ? handleMouseDown : undefined}
-        onMouseMove={isOwned ? handleMouseMove : undefined}
         onMouseUp={isOwned ? handleMouseUp : undefined}
         onMouseLeave={isOwned ? handleMouseUp : undefined}
-        style={{ touchAction: isOwned ? "none" : "auto" }}
       >
-
-        {isOwned ? (
+{isOwned ? (
           <>
             <motion.div
               key={currentRoom.id}
@@ -1433,15 +1079,10 @@ export default function RoomPage() {
               transition={{ duration: 0.3 }}
               className="w-full flex items-center justify-center max-w-lg"
               style={{
-                transform: `scale(${zoom}) translate(${pan.x / zoom}px, ${pan.y / zoom}px)`,
-                transformOrigin: "center center",
-                cursor: zoom > 1 ? "grab" : "default",
+                aspectRatio: "1 / 0.85",
               }}
-              onClick={editMode && (selectedFurnitureId || movingIdx !== null)
-                ? handleSvgClick
-                : !editMode ? handleFloorClick : undefined}
             >
-              <RoomRenderer
+              <Room3DCanvas
                 roomType={currentRoom.id}
                 gridW={roomSize.gridW}
                 gridH={roomSize.gridH}
@@ -1450,73 +1091,46 @@ export default function RoomPage() {
                 showGrid={editMode}
                 editMode={editMode}
                 selectedIndex={selectedPlacedIdx}
+                onTileClick={handleTileClick}
+                onPointerMoveGrid={handlePointerMoveGrid}
+                onPointerLeaveGrid={() => setGhostPos(null)}
                 onFurnitureClick={handleFurnitureClick}
                 onFurnitureLongPress={editMode ? handleLongPressDrag : undefined}
+                avatarGridPos={!editMode ? avatarGridPos : undefined}
+                onAvatarCanvasPos={!editMode ? (cx, cy) => {
+                  setAvatarScreenX(cx);
+                  setAvatarScreenY(cy);
+                } : undefined}
                 ghost={editMode && ghostPos ? (() => {
-                  const fId = selectedFurnitureId ?? (movingIdx !== null ? furniture[movingIdx]?.furnitureId : null);
+                  const movingItem = movingIdx !== null ? furniture[movingIdx] : null;
+                  const fId = selectedFurnitureId ?? movingItem?.furnitureId ?? null;
                   if (!fId) return null;
                   const fDef = getFurnitureDef(fId);
                   if (!fDef) return null;
+                  const ghostRot = movingItem?.rotation || 0;
+                  const eff = getEffectiveDimensions(fDef, ghostRot);
                   const { gx, gy } = ghostPos;
                   const rs = roomSize;
-                  const inBounds = gx >= 0 && gy >= 0 && gx + fDef.gridW <= rs.gridW && gy + fDef.gridH <= rs.gridH;
+                  const inBounds = gx >= 0 && gy >= 0 && gx + eff.gridW <= rs.gridW && gy + eff.gridH <= rs.gridH;
                   const noOverlap = !furniture.some((p, i) => {
                     if (i === movingIdx) return false;
                     const pd = getFurnitureDef(p.furnitureId);
-                    return pd ? (gx < p.gridX + pd.gridW && gx + fDef.gridW > p.gridX && gy < p.gridY + pd.gridH && gy + fDef.gridH > p.gridY) : false;
+                    if (!pd) return false;
+                    const pe = getEffectiveDimensions(pd, p.rotation || 0);
+                    return gx < p.gridX + pe.gridW && gx + eff.gridW > p.gridX && gy < p.gridY + pe.gridH && gy + eff.gridH > p.gridY;
                   });
-                  return {
-                    furnitureId: fId,
-                    gridX: gx,
-                    gridY: gy,
-                    rotation: movingIdx !== null ? (furniture[movingIdx]?.rotation || 0) : 0,
-                    valid: inBounds && noOverlap,
-                  };
+                  return { furnitureId: fId, gridX: gx, gridY: gy, rotation: ghostRot, valid: inBounds && noOverlap };
                 })() : null}
               />
             </motion.div>
 
-            {/* Zoom controls */}
-            <div className="absolute bottom-3 left-3 flex flex-col gap-1.5 z-10">
-              <button
-                onClick={handleZoomIn}
-                disabled={zoom >= MAX_ZOOM}
-                className="w-8 h-8 flex items-center justify-center rounded-lg bg-white/10 text-white/60 hover:bg-white/20 hover:text-white transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
-              >
-                <ZoomIn size={16} />
-              </button>
-              <button
-                onClick={handleZoomOut}
-                disabled={zoom <= MIN_ZOOM}
-                className="w-8 h-8 flex items-center justify-center rounded-lg bg-white/10 text-white/60 hover:bg-white/20 hover:text-white transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
-              >
-                <ZoomOut size={16} />
-              </button>
-              {zoom > 1 && (
-                <button
-                  onClick={handleZoomReset}
-                  className="w-8 h-8 flex items-center justify-center rounded-lg bg-white/10 text-white/60 hover:bg-white/20 hover:text-white transition-colors"
-                >
-                  <Maximize2 size={14} />
-                </button>
-              )}
-            </div>
 
-            {/* Zoom indicator */}
-            {zoom > 1 && (
-              <div className="absolute top-2 left-1/2 -translate-x-1/2 px-2 py-0.5 rounded-full bg-black/50 text-white/50 text-[10px] font-mono z-10">
-                {Math.round(zoom * 100)}%
-              </div>
-            )}
-
-            {/* Avatar overlay — positioned on top of SVG */}
+            {/* Avatar overlay — positioned on top of 3D canvas */}
             {!editMode && (
               <AvatarInRoom
                 roomContainerRef={roomContainerRef}
-                avatarGridPos={avatarGridPos}
-                roomSize={roomSize}
-                zoom={zoom}
-                pan={pan}
+                avatarScreenX={avatarScreenX}
+                avatarScreenY={avatarScreenY}
                 mood={avatarMood}
                 reaction={avatarReaction}
                 isWalking={isWalking}
@@ -1535,21 +1149,6 @@ export default function RoomPage() {
                 activeHat={activeHat}
                 activeTrail={activeTrail}
               />
-            )}
-
-            {/* Click target indicator — shows where the floor click registered */}
-            {clickIndicator && (
-              <div
-                className="fixed z-40 pointer-events-none"
-                style={{
-                  left: clickIndicator.screenX - 6,
-                  top: clickIndicator.screenY - 6,
-                  width: 12,
-                  height: 12,
-                }}
-              >
-                <div className="w-3 h-3 rounded-full bg-yellow-400/80 border border-yellow-200 animate-ping" />
-              </div>
             )}
 
             {/* Interaction menu popup */}
