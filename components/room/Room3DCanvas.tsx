@@ -77,32 +77,21 @@ function worldToGrid(wx: number, wz: number, gridW: number, gridH: number) {
   };
 }
 
-// ─── Camera controller — zoom via camera (no CSS scale) + frustum pan ────────
-// This replaces CSS scale/translate, so WebGL always renders at full resolution.
-// Formula: frustum shifted by fpx/fpy so world origin appears at pan.x/pan.y CSS px from centre.
+// ─── Camera controller — zoom via camera.zoom only (no CSS scale = no pixelation)
+// Pan is handled by CSS translate in page.tsx (translate doesn't degrade pixels).
+// Formula: cam.zoom = baseZoom * userZoom
+//   baseZoom: fits room into canvas at scale 1
+//   userZoom: user-controlled zoom state
 function CameraController({
-  baseZoom, userZoom, pan,
-}: { baseZoom: number; userZoom: number; pan: { x: number; y: number } }) {
-  const { camera, size } = useThree();
+  baseZoom, userZoom,
+}: { baseZoom: number; userZoom: number }) {
+  const { camera } = useThree();
 
   useEffect(() => {
     const cam = camera as THREE.OrthographicCamera;
-    const totalZoom = baseZoom * userZoom;
-    const W = size.width;
-    const H = size.height;
-    if (W === 0 || H === 0) return;
-
-    // Pan in frustum-space units = CSS pixels / totalZoom
-    const fpx = pan.x / totalZoom;
-    const fpy = pan.y / totalZoom;
-
-    cam.zoom   = totalZoom;
-    cam.left   = -W / 2 - fpx;
-    cam.right  =  W / 2 - fpx;
-    cam.top    =  H / 2 + fpy;
-    cam.bottom = -H / 2 + fpy;
+    cam.zoom = baseZoom * userZoom;
     cam.updateProjectionMatrix();
-  }, [camera, size, baseZoom, userZoom, pan]);
+  }, [camera, baseZoom, userZoom]);
 
   return null;
 }
@@ -310,12 +299,11 @@ function RoomScene({
 
   return (
     <>
-      {/* Camera controller — handles zoom + pan without CSS scaling */}
+      {/* Camera controller — zoom via camera (not CSS scale = sharp at any zoom level) */}
       {baseZoom !== undefined && (
         <CameraController
           baseZoom={baseZoom}
           userZoom={cameraZoom ?? 1}
-          pan={cameraPan ?? { x: 0, y: 0 }}
         />
       )}
 

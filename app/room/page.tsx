@@ -572,19 +572,13 @@ export default function RoomPage() {
     setPan({ x: 0, y: 0 });
   }, []);
 
-  // Helper: max pan limits for camera frustum pan
-  // Formula: how many CSS pixels the world edge is off-screen at current zoom
-  //   max_x = gridW/2 * totalZoom - canvas_width/2  (camera units)
+  // Helper: max pan limits based on current container size
   const getMaxPan = useCallback(() => {
     const el = roomContainerRef.current;
     if (!el) return { x: 0, y: 0 };
-    const rs = roomSizeRef.current;
-    const gridMax = Math.max(rs.gridW, rs.gridH);
-    const baseZoom = 220 / gridMax;
-    const totalZoom = baseZoom * zoom;
     return {
-      x: Math.max(0, rs.gridW / 2 * totalZoom - el.clientWidth / 2),
-      y: Math.max(0, rs.gridH / 2 * totalZoom - el.clientHeight / 2),
+      x: el.clientWidth * (zoom - 1) / 2,
+      y: el.clientHeight * (zoom - 1) / 2,
     };
   }, [zoom]);
 
@@ -767,11 +761,8 @@ export default function RoomPage() {
         } else {
           // Zoom a kurzor irányába: a kurzor alatt lévő pont ugyanott marad
           const factor = nz / z;
-          const rs = roomSizeRef.current;
-          const gridMax = Math.max(rs.gridW, rs.gridH);
-          const newTotalZoom = (220 / gridMax) * nz;
-          const maxX = Math.max(0, rs.gridW / 2 * newTotalZoom - rect.width / 2);
-          const maxY = Math.max(0, rs.gridH / 2 * newTotalZoom - rect.height / 2);
+          const maxX = rect.width * (nz - 1) / 2;
+          const maxY = rect.height * (nz - 1) / 2;
           setPan(p => ({
             x: Math.min(Math.max(cx - (cx - p.x) * factor, -maxX), maxX),
             y: Math.min(Math.max(cy - (cy - p.y) * factor, -maxY), maxY),
@@ -1285,6 +1276,12 @@ export default function RoomPage() {
               transition={{ duration: 0.3 }}
               className="w-full flex items-center justify-center max-w-lg"
               style={{
+                // CSS translate for pan only — no CSS scale = no pixelation at high zoom!
+                // Camera zoom (CameraController) handles magnification.
+                transform: pan.x !== 0 || pan.y !== 0
+                  ? `translate(${pan.x}px, ${pan.y}px)`
+                  : undefined,
+                transformOrigin: "center center",
                 cursor: zoom > 1 ? "grab" : "default",
                 aspectRatio: "4 / 3",
               }}
