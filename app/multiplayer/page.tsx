@@ -13,7 +13,6 @@ import { getUsername, hasUsername, searchUsernames } from "@/lib/username";
 import {
   createChallenge, acceptChallenge, declineChallenge,
   getMyPendingChallenges, getMyActiveMatches, getMyMatchHistory,
-  subscribeToMyChallenges, subscribeToMatch, submitScore,
   type MultiplayerMatch, type GameType, GAME_LABELS,
 } from "@/lib/multiplayer";
 
@@ -148,7 +147,11 @@ export default function MultiplayerPage() {
   const router = useRouter();
   const { lang } = useLang();
   const t = T[lang] || T.en;
-  const myName = getUsername();
+
+  // Hydration-safe: read localStorage only on client
+  const [myName, setMyName] = useState<string | null>(null);
+  const [nameLoaded, setNameLoaded] = useState(false);
+  useEffect(() => { setMyName(getUsername()); setNameLoaded(true); }, []);
 
   // ─── State ──────────────────────────────────────────────
   const [tab, setTab] = useState<Tab>("challenge");
@@ -169,33 +172,36 @@ export default function MultiplayerPage() {
   const [incomingToast, setIncomingToast] = useState<MultiplayerMatch | null>(null);
 
   const searchTimeout = useRef<ReturnType<typeof setTimeout>>(undefined);
+  const prevPendingCount = useRef(0);
 
   // ─── Load data ──────────────────────────────────────────
   const loadData = useCallback(async () => {
-    setLoading(true);
     const [pending, active, history] = await Promise.all([
       getMyPendingChallenges(),
       getMyActiveMatches(),
       getMyMatchHistory(),
     ]);
+    // Detect new incoming challenges
+    if (pending.length > prevPendingCount.current && prevPendingCount.current > 0) {
+      const newest = pending[0];
+      if (newest) {
+        setIncomingToast(newest);
+        setTimeout(() => setIncomingToast(null), 5000);
+      }
+    }
+    prevPendingCount.current = pending.length;
     setPendingChallenges(pending);
     setActiveMatches(active);
     setMatchHistory(history);
     setLoading(false);
   }, []);
 
+  // Poll every 5 seconds for updates (more reliable than Realtime filters)
   useEffect(() => {
     if (!myName) return;
     loadData();
-
-    // Subscribe to incoming challenges
-    const unsub = subscribeToMyChallenges((match) => {
-      setIncomingToast(match);
-      setPendingChallenges((prev) => [match, ...prev]);
-      setTimeout(() => setIncomingToast(null), 5000);
-    });
-
-    return unsub;
+    const interval = setInterval(loadData, 5000);
+    return () => clearInterval(interval);
   }, [myName, loadData]);
 
   // ─── Search players ───────────────────────────────────
@@ -245,7 +251,10 @@ export default function MultiplayerPage() {
     setPendingChallenges((prev) => prev.filter((m) => m.id !== match.id));
   };
 
-  // ─── No name fallback ─────────────────────────────────
+  // ─── Loading / No name fallback ─────────────────────────────────
+  if (!nameLoaded) {
+    return <div className="min-h-screen bg-bg" />;
+  }
   if (!myName) {
     return (
       <div className="min-h-screen bg-bg flex flex-col items-center justify-center px-4 gap-4">
