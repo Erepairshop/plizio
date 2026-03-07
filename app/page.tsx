@@ -537,6 +537,7 @@ export default function Home() {
         {/* Nav buttons — right */}
         <div className="flex items-center gap-2 pointer-events-auto">
           {([
+            { href: "/multiplayer", icon: Swords, color: "#FF2D78", border: "border-neon-pink/20", glow: "0 0 12px rgba(255,45,120,0.2)", delay: 0.45 },
             { href: "/profile", icon: User, color: isLoggedIn ? "#00FF88" : "rgba(255,255,255,0.4)", border: isLoggedIn ? "border-neon-green/20" : "border-white/10", glow: isLoggedIn ? "0 0 12px rgba(0,255,136,0.15)" : undefined, delay: 0.5 },
             { href: "/room", icon: HomeIcon, color: "#00D4FF", border: "border-neon-blue/20", glow: "0 0 12px rgba(0,212,255,0.15)", delay: 0.6 },
             { href: "/shop", icon: Star, color: "#E040FB", border: "border-[#E040FB]/20", glow: "0 0 12px rgba(224,64,251,0.2)", delay: 0.7 },
