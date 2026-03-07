@@ -244,56 +244,6 @@ function GridOverlay({ gridW, gridH }: { gridW: number; gridH: number }) {
   return <>{lines}</>;
 }
 
-// ─── Camera controller — applies zoom & pan via orthographic camera ──────────
-// Uses camera zoom (not CSS scale) for pixel-perfect rendering at any zoom level.
-// Pan offsets the camera position along its screen-space axes.
-function CameraController({ cameraZoom, cameraPan, baseZoom }: { cameraZoom: number; cameraPan: { x: number; y: number }; baseZoom: number }) {
-  const { camera } = useThree();
-  const state = useRef<{ basePos: THREE.Vector3; right: THREE.Vector3; up: THREE.Vector3 } | null>(null);
-
-  useFrame(() => {
-    const cam = camera as THREE.OrthographicCamera;
-
-    // Capture initial camera orientation once
-    if (!state.current) {
-      cam.updateMatrixWorld();
-      const r = new THREE.Vector3();
-      const u = new THREE.Vector3();
-      const f = new THREE.Vector3();
-      cam.matrixWorld.extractBasis(r, u, f);
-      state.current = { basePos: cam.position.clone(), right: r.clone(), up: u.clone() };
-    }
-
-    const { basePos, right, up } = state.current;
-    const targetZoom = baseZoom * cameraZoom;
-
-    // Apply zoom
-    cam.zoom = targetZoom;
-
-    // Apply pan — convert pixel offset to world offset using camera axes
-    const pxToWorld = 1 / targetZoom;
-    const dx = -cameraPan.x * pxToWorld;
-    const dy = cameraPan.y * pxToWorld;
-
-    cam.position.set(
-      basePos.x + right.x * dx + up.x * dy,
-      basePos.y + right.y * dx + up.y * dy,
-      basePos.z + right.z * dx + up.z * dy,
-    );
-
-    // Look at same offset point (keeps angle consistent)
-    cam.lookAt(
-      right.x * dx + up.x * dy,
-      right.y * dx + up.y * dy,
-      right.z * dx + up.z * dy,
-    );
-
-    cam.updateProjectionMatrix();
-  });
-
-  return null;
-}
-
 // ─── Inner scene (has access to R3F context) ─────────────────────────────────
 function RoomScene({
   roomType, gridW, gridH, furniture, showGrid, editMode, selectedIndex,
@@ -330,9 +280,6 @@ function RoomScene({
 
   return (
     <>
-      {/* Camera zoom/pan controller */}
-      <CameraController cameraZoom={cameraZoom ?? 1} cameraPan={cameraPan ?? { x: 0, y: 0 }} baseZoom={baseZoom ?? 22} />
-
       {/* Lighting — hemisphere for sky/ground gradient, directional for depth */}
       <hemisphereLight args={["#FFF4E0", "#2A1A0A", 0.7]} />
       <directionalLight position={[-5, 12, 5]} intensity={1.1} castShadow={false} />
@@ -474,13 +421,11 @@ export default function Room3DCanvas({
   const D = gridMax * 1.6;
   const baseZoom = 220 / gridMax;
 
-  // ⚠️ IMPORTANT: Room3DCanvas does NOT handle zoom/pan!
-  // It renders the 3D scene at 1:1 scale.
-  // Zoom & pan are handled by CSS transform on the wrapper (page.tsx).
-  // This avoids all the Three.js orthographic camera complications.
-
-  // If you need zoom/pan in the 3D scene itself (e.g., constrain pan to grid bounds),
-  // that's a different feature and should be implemented separately.
+  // Zoom & pan handled by CSS transform on the wrapper (page.tsx).
+  // DPR scales with CSS zoom so the canvas renders at higher resolution,
+  // preventing pixelation when CSS scale() magnifies the element.
+  const deviceDpr = typeof window !== "undefined" ? window.devicePixelRatio || 1 : 1;
+  const effectiveDpr = Math.min(Math.ceil(cameraZoom * deviceDpr), 4);
 
   return (
     <Canvas
@@ -488,7 +433,7 @@ export default function Room3DCanvas({
       camera={{ position: [D, D, D], zoom: baseZoom, up: [0, 1, 0], near: 0.1, far: 200 }}
       style={{ width: "100%", height: "100%" }}
       gl={{ antialias: true, alpha: true }}
-      dpr={[1, 2]}
+      dpr={effectiveDpr}
       onCreated={({ camera }) => {
         cameraOrthoRef.current = camera as THREE.OrthographicCamera;
         // Initial position already set via camera prop

@@ -1276,8 +1276,10 @@ export default function RoomPage() {
               transition={{ duration: 0.3 }}
               className="w-full h-full flex items-center justify-center"
               style={{
-                // Zoom & pan handled by Three.js camera (not CSS) for crisp rendering
                 cursor: zoom > 1 ? "grab" : "default",
+                transform: `translate(${pan.x}px, ${pan.y}px) scale(${zoom})`,
+                transformOrigin: "center center",
+                transition: "none",
               }}
             >
               <Room3DCanvas
