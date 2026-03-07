@@ -453,7 +453,7 @@ export default function Room3DCanvas({
   return (
     <Canvas
       orthographic
-      camera={{ position: [D, D, D], zoom: baseZoom, up: [0, 1, 0], near: 0.1, far: 200 }}
+      camera={{ position: [D, D, D], zoom: 1, up: [0, 1, 0], near: 0.1, far: 200 }}
       style={{ width: "100%", height: "100%" }}
       gl={{ antialias: true, alpha: true }}
       dpr={[1, 2]}
