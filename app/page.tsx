@@ -3,15 +3,11 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Layers, Star, User, ChevronDown, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Home as HomeIcon, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Home as HomeIcon, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
-import Logo from "@/components/Logo";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
-import GameCard from "@/components/GameCard";
 import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap";
-import Link from "next/link";
 import { getCards } from "@/lib/cards";
-import { WORLD_ZONES, getWorldProgress } from "@/lib/world";
 import { getSpecialCardCount, markAsReferred, isReferred, claimReferralReward } from "@/lib/specialCards";
 import { getStats } from "@/lib/milestones";
 import { claimDailyReward, type DailyRewardResult } from "@/lib/dailyReward";
@@ -339,12 +335,12 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
   },
 ];
 
-/* Island positions in the 800x600 viewBox */
+/* Island positions in the 800x900 viewBox (below logo area ~200px) */
 const ISLAND_POSITIONS: Record<string, { cx: number; cy: number; color: string; glow: string }> = {
-  quizreflex: { cx: 200, cy: 140, color: "#00D4FF", glow: "rgba(0,212,255,0.4)" },
-  adventure:  { cx: 580, cy: 180, color: "#00FF88", glow: "rgba(0,255,136,0.4)" },
-  brain:      { cx: 260, cy: 380, color: "#FFD700", glow: "rgba(255,215,0,0.4)" },
-  logic:      { cx: 560, cy: 440, color: "#B44DFF", glow: "rgba(180,77,255,0.4)" },
+  quizreflex: { cx: 220, cy: 300, color: "#00D4FF", glow: "rgba(0,212,255,0.4)" },
+  adventure:  { cx: 580, cy: 350, color: "#00FF88", glow: "rgba(0,255,136,0.4)" },
+  brain:      { cx: 240, cy: 560, color: "#FFD700", glow: "rgba(255,215,0,0.4)" },
+  logic:      { cx: 560, cy: 620, color: "#B44DFF", glow: "rgba(180,77,255,0.4)" },
 };
 
 function categoriesToIslands(categories: CategoryDef[]): Island[] {
@@ -412,43 +408,6 @@ function getStreak(): number {
   if (lastDate === today) return count;
   if (lastDate === yesterday) return count;
   return 0;
-}
-
-function WorldButton() {
-  const [completedZones, setCompletedZones] = useState<string[]>([]);
-  useEffect(() => {
-    setCompletedZones(getWorldProgress().completedZones);
-  }, []);
-
-  return (
-    <motion.div
-      className="w-full max-w-md px-2"
-      initial={{ opacity: 0, y: 10 }}
-      animate={{ opacity: 1, y: 0 }}
-      transition={{ delay: 0.9 }}
-    >
-      <Link href="/world/">
-        <div className="w-full flex items-center gap-4 rounded-2xl px-4 py-3 border border-neon-blue/20 bg-gradient-to-r from-neon-blue/10 to-neon-purple/10 hover:border-neon-blue/40 transition-all active:scale-[0.98]">
-          <span className="text-2xl">🗺️</span>
-          <div className="flex-1">
-            <p className="text-white font-bold text-sm leading-tight">Plizio World</p>
-            <p className="text-white/40 text-xs">{completedZones.length} / {WORLD_ZONES.length} zóna teljesítve</p>
-          </div>
-          <div className="flex items-center gap-1">
-            {WORLD_ZONES.map((z, i) => (
-              <div
-                key={z.id}
-                className="w-2 h-2 rounded-full"
-                style={{
-                  background: completedZones.includes(z.id) ? z.color : "rgba(255,255,255,0.12)",
-                }}
-              />
-            ))}
-          </div>
-        </div>
-      </Link>
-    </motion.div>
-  );
 }
 
 export default function Home() {
@@ -530,128 +489,49 @@ export default function Home() {
   }, []);
 
   return (
-    <main className="min-h-screen flex flex-col items-center justify-start px-4 pt-8 pb-8 gap-6">
-      {/* Logo */}
-      <Logo />
+    <main className="fixed inset-0 overflow-hidden">
+      {/* Fullscreen Island Map */}
+      <IslandMap
+        islands={categoriesToIslands(categories)}
+        username={username}
+        streak={streak}
+        specialCount={specialCount}
+        cardCount={cardCount}
+      />
 
-      {/* Language switcher */}
-      <LanguageSwitcher />
+      {/* Right-side nav buttons */}
+      <div className="fixed bottom-6 right-4 flex flex-col gap-2.5 z-30">
+        {([
+          { href: "/profile", icon: User, color: isLoggedIn ? "#00FF88" : "rgba(255,255,255,0.4)", border: isLoggedIn ? "border-neon-green/20" : "border-white/10", glow: isLoggedIn ? "0 0 16px rgba(0,255,136,0.15)" : undefined, delay: 0.6 },
+          { href: "/room", icon: HomeIcon, color: "#00D4FF", border: "border-neon-blue/20", glow: "0 0 16px rgba(0,212,255,0.15)", delay: 0.7 },
+          { href: "/shop", icon: Star, color: "#E040FB", border: "border-[#E040FB]/20", glow: "0 0 16px rgba(224,64,251,0.2)", delay: 0.8 },
+          { href: "/collection", icon: Trophy, color: "#FFD700", border: "border-gold/20", glow: "0 0 16px rgba(255,215,0,0.2)", delay: 0.9 },
+        ] as const).map((btn) => {
+          const Icon = btn.icon;
+          return (
+            <motion.div
+              key={btn.href}
+              initial={{ opacity: 0, scale: 0 }}
+              animate={{ opacity: 1, scale: 1 }}
+              transition={{ delay: btn.delay, type: "spring" }}
+            >
+              <motion.button
+                onClick={() => router.push(btn.href)}
+                className={`bg-card/80 backdrop-blur-sm border ${btn.border} p-3 rounded-full`}
+                style={btn.glow ? { boxShadow: btn.glow } : undefined}
+                whileHover={{ scale: 1.15 }}
+                whileTap={{ scale: 0.9 }}
+              >
+                <Icon size={20} style={{ color: btn.color, filter: `drop-shadow(0 0 6px ${btn.color}80)` }} />
+              </motion.button>
+            </motion.div>
+          );
+        })}
+      </div>
 
-      {/* Username greeting */}
-      {username && (
-        <motion.div
-          className="text-white/30 text-sm font-bold tracking-wider"
-          initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-          transition={{ delay: 0.6 }}
-        >
-          {username}
-        </motion.div>
-      )}
-
-      {/* Stats bar */}
-      {(streak > 0 || cardCount > 0 || specialCount > 0) && (
-        <motion.div
-          className="flex items-center gap-5"
-          initial={{ opacity: 0, y: 10 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.8 }}
-        >
-          {streak > 0 && (
-            <div className="flex items-center gap-1.5">
-              <Flame size={16} className="text-gold" style={{ filter: "drop-shadow(0 0 4px rgba(255,215,0,0.4))" }} />
-              <span className="text-gold/70 font-bold text-sm">{streak}</span>
-            </div>
-          )}
-          {specialCount > 0 && (
-            <div className="flex items-center gap-1.5">
-              <Star size={14} className="text-[#E040FB]" style={{ filter: "drop-shadow(0 0 4px rgba(224,64,251,0.4))" }} />
-              <span className="text-[#E040FB]/70 font-bold text-sm">{specialCount}</span>
-            </div>
-          )}
-          {cardCount > 0 && (
-            <div className="flex items-center gap-1.5">
-              <Layers size={14} className="text-white/30" />
-              <span className="text-white/30 font-bold text-sm">{cardCount}</span>
-            </div>
-          )}
-        </motion.div>
-      )}
-
-      {/* Plizio World button */}
-      <WorldButton />
-
-      {/* Island Map */}
-      <motion.div
-        className="w-full px-2"
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ delay: 0.5 }}
-      >
-        <IslandMap islands={categoriesToIslands(categories)} />
-      </motion.div>
-
-      {/* Bottom buttons: Profile + Shop + Collection */}
-      <div className="fixed bottom-6 right-6 flex flex-col gap-3">
-        <motion.div
-          initial={{ opacity: 0, scale: 0 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ delay: 0.8, type: "spring" }}
-        >
-          <motion.button
-            onClick={() => router.push("/profile")}
-            className={`bg-card border p-3.5 rounded-full ${isLoggedIn ? "border-neon-green/20" : "border-white/10"}`}
-            style={isLoggedIn ? { boxShadow: "0 0 20px rgba(0,255,136,0.15)" } : undefined}
-            whileHover={{ scale: 1.15 }}
-            whileTap={{ scale: 0.9 }}
-          >
-            <User size={24} className={isLoggedIn ? "text-neon-green" : "text-white/40"} />
-          </motion.button>
-        </motion.div>
-        <motion.div
-          initial={{ opacity: 0, scale: 0 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ delay: 0.9, type: "spring" }}
-        >
-          <motion.button
-            onClick={() => router.push("/room")}
-            className="bg-card border border-neon-blue/20 p-3.5 rounded-full"
-            style={{ boxShadow: "0 0 20px rgba(0,212,255,0.15)" }}
-            whileHover={{ scale: 1.15, rotate: -10 }}
-            whileTap={{ scale: 0.9 }}
-          >
-            <HomeIcon size={24} className="text-neon-blue" style={{ filter: "drop-shadow(0 0 6px rgba(0,212,255,0.5))" }} />
-          </motion.button>
-        </motion.div>
-        <motion.div
-          initial={{ opacity: 0, scale: 0 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ delay: 1, type: "spring" }}
-        >
-          <motion.button
-            onClick={() => router.push("/shop")}
-            className="bg-card border border-[#E040FB]/20 p-3.5 rounded-full"
-            style={{ boxShadow: "0 0 20px rgba(224,64,251,0.2)" }}
-            whileHover={{ scale: 1.15, rotate: -10 }}
-            whileTap={{ scale: 0.9 }}
-          >
-            <Star size={24} className="text-[#E040FB]" style={{ filter: "drop-shadow(0 0 6px rgba(224,64,251,0.5))" }} />
-          </motion.button>
-        </motion.div>
-        <motion.div
-          initial={{ opacity: 0, scale: 0 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ delay: 1.1, type: "spring" }}
-        >
-          <motion.button
-            onClick={() => router.push("/collection")}
-            className="bg-card border border-gold/20 p-3.5 rounded-full"
-            style={{ boxShadow: "0 0 20px rgba(255,215,0,0.2)" }}
-            whileHover={{ scale: 1.15, rotate: 10 }}
-            whileTap={{ scale: 0.9 }}
-          >
-            <Trophy size={24} className="text-gold" style={{ filter: "drop-shadow(0 0 6px rgba(255,215,0,0.5))" }} />
-          </motion.button>
-        </motion.div>
+      {/* Language switcher — bottom left */}
+      <div className="fixed bottom-6 left-4 z-30">
+        <LanguageSwitcher />
       </div>
 
       {/* Username Modal */}
