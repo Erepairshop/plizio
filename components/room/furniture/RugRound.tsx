@@ -4,10 +4,26 @@ import type { FurnitureProps } from "./types";
 export default function RugRound({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <path d="M 0,-20 L 28,-6 L 0,8 L -28,-6 Z" fill="#8B4050" opacity={0.6} />
-      <path d="M 0,-16 L 22,-4 L 0,4 L -22,-4 Z" fill="#A85060" opacity={0.5} />
-      <path d="M 0,-12 L 14,-4 L 0,2 L -14,-4 Z" fill="none" stroke="rgba(255,200,150,0.2)" strokeWidth={1} />
-      <ellipse cx={0} cy={-4} rx={6} ry={3} fill="rgba(255,200,150,0.08)" />
+      <defs>
+        <linearGradient id="rrOuter" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#9A5060" />
+          <stop offset="100%" stopColor="#7A3040" />
+        </linearGradient>
+        <linearGradient id="rrInner" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#B06070" />
+          <stop offset="100%" stopColor="#8B4050" />
+        </linearGradient>
+        <linearGradient id="rrCenter" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#D0909A" />
+          <stop offset="100%" stopColor="#B07080" />
+        </linearGradient>
+      </defs>
+      {/* Outer diamond */}
+      <path d="M 0,-20 L 28,-6 L 0,8 L -28,-6 Z" fill="url(#rrOuter)" opacity={0.7} />
+      {/* Inner diamond */}
+      <path d="M 0,-15 L 20,-4 L 0,5 L -20,-4 Z" fill="url(#rrInner)" opacity={0.6} />
+      {/* Center diamond */}
+      <path d="M 0,-10 L 10,-4 L 0,2 L -10,-4 Z" fill="url(#rrCenter)" opacity={0.5} />
     </g>
   );
 }

@@ -4,16 +4,37 @@ import type { FurnitureProps } from "./types";
 export default function Toilet({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
+      <defs>
+        <linearGradient id="tlTop" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#EEEEF4" />
+          <stop offset="100%" stopColor="#E4E4EC" />
+        </linearGradient>
+        <linearGradient id="tlLeft" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#DCDCE4" />
+          <stop offset="100%" stopColor="#D0D0D8" />
+        </linearGradient>
+        <linearGradient id="tlRight" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#C8C8D2" />
+          <stop offset="100%" stopColor="#BDBDC6" />
+        </linearGradient>
+      </defs>
       <ellipse cx={0} cy={-4} rx={12} ry={5} fill="rgba(0,0,0,0.10)" />
-      <path d="M -8,-16 L -8,-28 L 0,-32 L 0,-20 Z" fill="#D8D8E0" />
-      <path d="M 8,-16 L 8,-28 L 0,-32 L 0,-20 Z" fill="#C8C8D0" />
-      <path d="M -8,-28 L 0,-32 L 8,-28 L 0,-24 Z" fill="#E0E0E8" />
-      <path d="M 10,-4 L 10,-12 L 0,-6 L 0,2 Z" fill="#C8C8D0" />
-      <path d="M -10,-4 L -10,-12 L 0,-6 L 0,2 Z" fill="#D8D8E0" />
-      <ellipse cx={0} cy={-8} rx={10} ry={5} fill="#E8E8F0" />
-      <ellipse cx={0} cy={-8} rx={7} ry={3.5} fill="#D0D0D8" />
-      <path d="M -8,-12 L 0,-16 L 8,-12" fill="none" stroke="#B8B8C0" strokeWidth={0.8} />
-      <circle cx={0} cy={-30} r={1.5} fill="#B0B0B8" />
+      {/* Tank - left face */}
+      <path d="M -8,-22 L 0,-26 L 0,-14 L -8,-10 Z" fill="url(#tlLeft)" />
+      {/* Tank - right face */}
+      <path d="M 8,-22 L 0,-26 L 0,-14 L 8,-10 Z" fill="url(#tlRight)" />
+      {/* Tank - top face */}
+      <path d="M 0,-32 L 8,-28 L 0,-24 L -8,-28 Z" fill="url(#tlTop)" />
+      {/* Seat - left face */}
+      <path d="M -10,-6 L 0,-12 L 0,0 L -10,6 Z" fill="url(#tlLeft)" />
+      {/* Seat - right face */}
+      <path d="M 10,-6 L 0,-12 L 0,0 L 10,6 Z" fill="url(#tlRight)" />
+      {/* Seat - top face (lid) */}
+      <ellipse cx={0} cy={-8} rx={10} ry={5} fill="url(#tlTop)" />
+      {/* Bowl hint */}
+      <ellipse cx={0} cy={-8} rx={6} ry={3} fill="#D4D4DC" />
+      {/* Flush button */}
+      <circle cx={0} cy={-30} r={1.2} fill="#B0B0B8" />
     </g>
   );
 }

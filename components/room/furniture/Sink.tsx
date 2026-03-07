@@ -2,18 +2,34 @@
 import type { FurnitureProps } from "./types";
 
 export default function Sink({ x, y }: FurnitureProps) {
+  const tw = 10, th = 5, H = 22;
   return (
     <g transform={`translate(${x}, ${y})`}>
+      <defs>
+        <linearGradient id="skTop" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#F0F0F6" />
+          <stop offset="100%" stopColor="#E8E8F0" />
+        </linearGradient>
+        <linearGradient id="skLeft" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#E0E0E8" />
+          <stop offset="100%" stopColor="#D4D4DC" />
+        </linearGradient>
+        <linearGradient id="skRight" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#CCCCDA" />
+          <stop offset="100%" stopColor="#C0C0C8" />
+        </linearGradient>
+      </defs>
       <ellipse cx={0} cy={-4} rx={12} ry={5} fill="rgba(0,0,0,0.10)" />
-      <path d="M 10,-4 L 10,-18 L 0,-12 L 0,2 Z" fill="#D0D0D8" />
-      <path d="M -10,-4 L -10,-18 L 0,-12 L 0,2 Z" fill="#E0E0E8" />
-      <ellipse cx={0} cy={-14} rx={10} ry={5} fill="#E8E8F0" />
-      <ellipse cx={0} cy={-14} rx={7} ry={3.5} fill="#D0D8E0" />
-      <rect x={-1} y={-22} width={2} height={6} rx={0.5} fill="#B0B0B8" />
-      <path d="M -1,-22 L 0,-24 L 1,-22" fill="#C0C0C8" />
-      <circle cx={0} cy={-15} r={0.8} fill="rgba(100,180,220,0.3)" />
-      <path d="M -7,-26 L 0,-30 L 7,-26 L 0,-22 Z" fill="rgba(180,200,220,0.3)" />
-      <path d="M -7,-26 L 0,-30 L 7,-26 L 0,-22 Z" fill="none" stroke="#A0A8B0" strokeWidth={0.5} />
+      {/* Left face */}
+      <path d={`M ${-tw},${-H+th} L 0,${-H+2*th} L 0,0 L ${-tw},${-th} Z`} fill="url(#skLeft)" />
+      {/* Right face */}
+      <path d={`M ${tw},${-H+th} L 0,${-H+2*th} L 0,0 L ${tw},${-th} Z`} fill="url(#skRight)" />
+      {/* Top face */}
+      <path d={`M 0,${-H} L ${tw},${-H+th} L 0,${-H+2*th} L ${-tw},${-H+th} Z`} fill="url(#skTop)" />
+      {/* Bowl depression */}
+      <ellipse cx={0} cy={-14} rx={6} ry={3} fill="#D0D8E0" />
+      {/* Faucet */}
+      <rect x={-0.8} y={-24} width={1.6} height={5} rx={0.5} fill="#B0B0B8" />
     </g>
   );
 }
