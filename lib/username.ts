@@ -76,6 +76,49 @@ export async function linkUsernameToUser(userId: string): Promise<void> {
     .ilike("name", name);
 }
 
+/**
+ * Sync username to Supabase on login/register.
+ * If the name doesn't exist in the table yet, insert it.
+ * If it exists without user_id, link it.
+ */
+export async function syncUsernameToSupabase(userId: string): Promise<void> {
+  const name = getUsername();
+  if (!name) return;
+
+  // Check if name already exists
+  const { data: existing } = await supabase
+    .from("usernames")
+    .select("id, user_id")
+    .ilike("name", name)
+    .limit(1)
+    .single();
+
+  if (existing) {
+    // Name exists — link to user if not yet linked
+    if (!existing.user_id) {
+      await supabase
+        .from("usernames")
+        .update({ user_id: userId, last_seen: new Date().toISOString() })
+        .eq("id", existing.id);
+    } else {
+      // Just update last_seen
+      await supabase
+        .from("usernames")
+        .update({ last_seen: new Date().toISOString() })
+        .eq("id", existing.id);
+    }
+    localStorage.setItem(USERNAME_ID_KEY, existing.id);
+  } else {
+    // Name doesn't exist in Supabase yet — insert it
+    const { data } = await supabase
+      .from("usernames")
+      .insert({ name, display_name: name, user_id: userId })
+      .select("id")
+      .single();
+    if (data?.id) localStorage.setItem(USERNAME_ID_KEY, data.id);
+  }
+}
+
 /** Update last_seen timestamp */
 export async function updateLastSeen(): Promise<void> {
   const name = getUsername();
