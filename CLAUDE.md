@@ -33,6 +33,7 @@ A repo tisztán van szervezve:
 | `/racetrack` | `app/racetrack/page.tsx` | Versenyút |
 | `/citydrive` | `app/citydrive/page.tsx` | Városvezetés |
 | `/room` | `app/room/page.tsx` | Izometrikus szoba (bútorok, avatar) |
+| `/multiplayer` | `app/multiplayer/page.tsx` | Multiplayer kihivas rendszer |
 
 ### Lib fájlok (`lib/`)
 | Fájl | Fő funkciók | localStorage kulcsok |
@@ -47,6 +48,7 @@ A repo tisztán van szervezve:
 | `accessories.ts` | `getHatDef()`, `getActiveHat()`, `getTrailDef()`, `getActiveTrail()` | `plizio_owned_hats`, `plizio_active_hat`, `plizio_owned_trails`, `plizio_active_trail` |
 | `faces.ts` | `getFaceDef()`, `getActiveFace()` | `plizio_owned_faces`, `plizio_active_face` |
 | `language.ts` | `type Language = "hu" \| "de" \| "en" \| "ro"` | — |
+| `multiplayer.ts` | `createChallenge()`, `acceptChallenge()`, `declineChallenge()`, `cancelChallenge()`, `abandonMatch()`, `submitScore()`, `getMyPendingChallenges()`, `getMySentChallenges()`, `getMyActiveMatches()`, `getMyMatchHistory()`, `subscribeToMatch()`, `GAME_LABELS` | — (Supabase only) |
 
 ### Kulcs TypeScript típusok
 
@@ -133,6 +135,11 @@ interface GloveDef { id; name; icon; price; color }
 | `MilestonePopup.tsx` | Mérföldkő popup (játék után jelenik meg) |
 | `RewardReveal.tsx` | Jutalom animáció |
 | `GameCard.tsx` | Kártya megjelenítő komponens |
+| `ChallengeOverlay.tsx` | Globalis kihivas popup (layout.tsx-ben, barhol megjelenik) |
+| `ChallengeWaiting.tsx` | Kihivo varakozo kepernyoje (avatar + countdown) |
+| `MultiplayerExitConfirm.tsx` | "Biztos kilepesz?" megerosito dialog multi modban |
+| `MultiplayerAbandonNotice.tsx` | Ertesites ha ellenfél elhagyta a jatekot |
+| `ResultCard.tsx` | Eredmeny kartya (solo + multi ket oszlop) |
 
 ### AvatarCompanion — részletes dokumentáció
 
@@ -1209,5 +1216,130 @@ Aquarium, Bathtub, BedBasic, BedDouble, Bench, Bookshelf, CoffeeTable,
 Counter, Couch, Desk, Fireplace, Flowerbed, Fountain, Fridge,
 KitchenTable, LampFloor, Nightstand, PlantBig, RugRound, Sink,
 Stove, Toilet, Tree, TvStand, Wardrobe
+
+---
+
+## MULTIPLAYER RENDSZER
+
+> Allapot: **MUKODIK** (2026-03-07) — kihivas, elfogadas, jatek, eredmeny
+> Backend: Supabase `multiplayer_matches` tabla
+> Route: `/multiplayer`
+
+### Architektura
+
+Jatekosok nev alapjan kihivjak egymast. A kihivas Supabase-ben tarolodik, mindketten polling-gal figyelik a statust. Azonos `seed` alapjan mindketten ugyanazokat a kerdeseket kapjak (seeded PRNG).
+
+### Fajlok
+
+| Fajl | Leiras |
+|------|--------|
+| `lib/multiplayer.ts` | Supabase CRUD: createChallenge, acceptChallenge, declineChallenge, cancelChallenge, abandonMatch, submitScore, getMyPendingChallenges, getMySentChallenges, getMyActiveMatches, getMyMatchHistory, subscribeToMatch |
+| `app/multiplayer/page.tsx` | Fo multiplayer UI: kihivas kuldese, pending/active/history tabfulek |
+| `components/ChallengeOverlay.tsx` | **Globalis** popup — BARHOL az oldalon megjelenik ha kihivnak (layout.tsx-ben mountolva) |
+| `components/ChallengeWaiting.tsx` | Kihivo varakozo kepernyoje — avatar + "Varakozas [nev] elfogadja..." + decline/countdown |
+| `components/MultiplayerExitConfirm.tsx` | Megerosito dialog jatek kozbeni kilepeskor multi modban |
+| `components/MultiplayerAbandonNotice.tsx` | Ertesites ha az ellenfél elhagyta a jatekot (polling) |
+| `components/ResultCard.tsx` | Eredmeny kartya (multi + solo) — multi modban ket oszlop, mindket jatekos pontszama |
+
+### Supabase tabla: `multiplayer_matches`
+
+```ts
+interface MultiplayerMatch {
+  id: string;                    // UUID
+  game: string;                  // jatek route (pl. "quickpick")
+  player1_name: string;          // kihivo neve
+  player2_name: string | null;   // kihivott neve
+  status: "waiting" | "playing" | "finished" | "declined" | "cancelled" | "abandoned";
+  seed: string | null;           // seeded PRNG seed
+  player1_score: number | null;
+  player2_score: number | null;
+  created_at: string;
+}
+```
+
+### Match statusz eletciklus
+
+```
+waiting → playing     (player2 elfogadja: acceptChallenge)
+waiting → declined    (player2 elutasitja: declineChallenge)
+waiting → cancelled   (player1 visszavonja: cancelChallenge)
+playing → finished    (mindketten befejezik: submitScore)
+playing → abandoned   (valaki kilep: abandonMatch)
+```
+
+### Kihivas flow (teljes)
+
+**Player A (kihivo):**
+1. Kivalasztja ellenfelet + jatekot → `createChallenge(game, opponentName)`
+2. `ChallengeWaiting` overlay jelenik meg (avatar + varakozas animacio)
+3. Polling 2mp-enkent a match statuszra
+4. Ha B elfogad → avatar oromkodik → 3-2-1 countdown → navigacio a jatekra
+5. Ha B elutasit → disappointed avatar + "[nev] elutasitotta a kihivast" + Vissza gomb
+6. Ha A megse → `cancelChallenge()` → overlay bezarul
+
+**Player B (kihivott):**
+1. `ChallengeOverlay` (globalis, layout.tsx-ben) polling-gal figyeli a pending kihivasokat
+2. Megjelenik BARHOL az oldalon: avatar + buborek: "[kihivo] kihivott teged [jatek]-ra!"
+3. Accept → `acceptChallenge()` → avatar oromkodik → 3-2-1 countdown → navigacio
+4. Decline → `declineChallenge()` → overlay eltunik
+
+**Jatek kozben:**
+- URL parameterek: `?match=ID&seed=SEED&p=1|2&vs=opponentName`
+- Mindketten ugyanazokat a kerdeseket kapjak (seeded PRNG a `seed` alapjan)
+- Kilépés gomb → `MultiplayerExitConfirm` ("Biztos kilepesz? Ellenfeled ertesitest kap")
+- Ha kilep → `abandonMatch()` → masik jatekos latja `MultiplayerAbandonNotice`-t
+- Vegeredmeny → `submitScore(matchId, score, isPlayer1)`
+- Eredmeny → `ResultCard` ket oszlopban mutatja mindket pontszamot
+
+### Globalis ChallengeOverlay (layout.tsx)
+
+- Mountolva: `app/layout.tsx` → `<LanguageProvider>` belul
+- **Kivetel:** `/multiplayer` oldalon NEM aktiv (az oldal sajat maga kezeli)
+- Polling: 4mp-enkent `getMyPendingChallenges()`
+- Dismissed set: egyszer elutasitott kihivasok nem jelennek meg ujra
+
+### Jatek multi-kompatibilita — checklist
+
+Jelenleg multi-kompatibilis jatekok: **quickpick**
+
+Uj jatek multi-kompatibilissa tetele:
+1. Import: `submitScore, abandonMatch` from `@/lib/multiplayer`
+2. Import: `MultiplayerExitConfirm`, `MultiplayerAbandonNotice`
+3. URL params olvasasa: `match`, `seed`, `p` (player num), `vs` (opponent name)
+4. Seeded PRNG hasznalata a kerdesek generalasahoz (`seed` alapjan)
+5. Kilépés gomb multi modban → `setShowExitConfirm(true)` (NEM Link!)
+6. Jatek vegen → `submitScore(matchId, score, playerNum === "1")`
+7. Renderben:
+   ```tsx
+   {isMultiplayer && matchId && (
+     <>
+       <MultiplayerExitConfirm
+         open={showExitConfirm}
+         onStay={() => setShowExitConfirm(false)}
+         onLeave={() => { abandonMatch(matchId); router.push("/multiplayer"); }}
+       />
+       {gameState === "playing" && (
+         <MultiplayerAbandonNotice matchId={matchId} opponentName={opponentName} />
+       )}
+     </>
+   )}
+   ```
+
+### GAME_LABELS (multiplayer.ts)
+
+A `GAME_LABELS` map hatarozza meg a jatekok megjelenített nevet a kihivas UI-ban.
+Uj jatek hozzaadasakor ide is be kell irni.
+
+### localStorage — multiplayer NEM hasznal localStorage-t
+
+Minden adat Supabase-ben van. Nincs helyi mentes.
+
+### Fontos "NE CSINALD" szabalyok (multiplayer)
+
+1. **Ne toröld a declined match-et** — `declineChallenge` update-el, NEM delete-el! A kihivonak latnia kell az elutasitast.
+2. **Ne hasznalj `Math.max`-ot score-oknal** — a score egyszer iródik, nincs sync problema.
+3. **ChallengeOverlay skip /multiplayer** — `pathname === "/multiplayer"` eseten NE jelenjen meg (az oldal sajat maga kezeli).
+4. **Avatar scale:0 animacio** — ChallengeWaiting/ChallengeOverlay avatar mindig `initial={{ opacity: 0 }}`, SOHA NEM `initial={{ scale: 0 }}`.
+5. **Seed determinism** — Multi modban a kerdesgenerator KOTELESZ a `seed` parametert hasznalni. Ha nem determinisztikus, a ket jatekos kulonbozo kerdeseket kap.
 
 ---
