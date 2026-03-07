@@ -423,21 +423,28 @@ export default function Room3DCanvas({
   // Imperative camera zoom & pan — updated outside Canvas's inner React root so it
   // always reflects the latest React state (no inner-reconciler timing issues).
   const cameraOrthoRef = useRef<THREE.OrthographicCamera | null>(null);
+  const frustumRef = useRef({ left: 0, right: 0, top: 0, bottom: 0 });
+
   useEffect(() => {
     if (!cameraOrthoRef.current) return;
 
-    // Apply zoom
-    cameraOrthoRef.current.zoom = baseZoom * cameraZoom;
+    // Restore original frustum and zoom WITHOUT clamping view
+    const cam = cameraOrthoRef.current;
+    cam.left = frustumRef.current.left;
+    cam.right = frustumRef.current.right;
+    cam.top = frustumRef.current.top;
+    cam.bottom = frustumRef.current.bottom;
+
+    // Apply zoom (multiplicative to original frustum)
+    cam.zoom = baseZoom * cameraZoom;
 
     // Apply pan offset to isometric camera position
     // Isometric [D, D, D] -> pan modifies X and Z in world space
-    // panScale is CONSTANT (not zoom-dependent) so pan speed is consistent
-    // and center stays centered during zoom
     const panScale = 0.006;
-    cameraOrthoRef.current.position.x = D - cameraPan.x * panScale;
-    cameraOrthoRef.current.position.z = D - cameraPan.y * panScale;
+    cam.position.x = D - cameraPan.x * panScale;
+    cam.position.z = D - cameraPan.y * panScale;
 
-    cameraOrthoRef.current.updateProjectionMatrix();
+    cam.updateProjectionMatrix();
   }, [baseZoom, cameraZoom, cameraPan, D]);
 
   return (
@@ -450,9 +457,17 @@ export default function Room3DCanvas({
       onCreated={({ camera }) => {
         cameraOrthoRef.current = camera as THREE.OrthographicCamera;
         cameraOrthoRef.current.lookAt(0, 0, 0);
+        // Save original frustum so zoom doesn't clamp the view
+        const cam = cameraOrthoRef.current;
+        frustumRef.current = {
+          left: cam.left,
+          right: cam.right,
+          top: cam.top,
+          bottom: cam.bottom,
+        };
         // Apply initial zoom in case cameraZoom > 1 on mount
-        cameraOrthoRef.current.zoom = baseZoom * cameraZoom;
-        cameraOrthoRef.current.updateProjectionMatrix();
+        cam.zoom = baseZoom * cameraZoom;
+        cam.updateProjectionMatrix();
       }}
     >
       <RoomScene
