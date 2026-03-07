@@ -134,10 +134,10 @@ export async function searchUsernames(query: string): Promise<string[]> {
   if (query.trim().length < 1) return [];
   const { data } = await supabase
     .from("usernames")
-    .select("display_name")
+    .select("name")
     .ilike("name", `%${query.trim()}%`)
     .neq("name", getUsername() || "")
     .order("last_seen", { ascending: false })
     .limit(5);
-  return data?.map((r) => r.display_name) || [];
+  return data?.map((r) => r.name) || [];
 }

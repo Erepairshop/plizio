@@ -50,10 +50,10 @@ export async function createChallenge(
   const myName = getUsername();
   if (!myName) return { match: null, error: "no_username" };
 
-  // Lookup opponent to verify they exist
+  // Lookup opponent to verify they exist (use 'name' field everywhere for consistency)
   const { data: oppData } = await supabase
     .from("usernames")
-    .select("user_id, display_name")
+    .select("user_id, name")
     .eq("name", opponentName.trim())
     .limit(1)
     .single();
@@ -69,7 +69,7 @@ export async function createChallenge(
       status: "waiting",
       player1_id: user?.id || null,
       player1_name: myName,
-      player2_name: oppData.display_name,
+      player2_name: oppData.name,
       player2_id: oppData.user_id,
       seed: generateSeed(),
     })
@@ -165,15 +165,28 @@ export async function getMyActiveMatches(): Promise<MultiplayerMatch[]> {
   const myName = getUsername();
   if (!myName) return [];
 
-  const { data } = await supabase
-    .from("multiplayer_matches")
-    .select("*")
-    .in("status", ["waiting", "playing"])
-    .or(`player1_name.eq.${myName},player2_name.eq.${myName}`)
-    .order("created_at", { ascending: false })
-    .limit(20);
+  // Two separate queries to avoid .or() parsing issues with special chars
+  const [{ data: asP1 }, { data: asP2 }] = await Promise.all([
+    supabase
+      .from("multiplayer_matches")
+      .select("*")
+      .in("status", ["waiting", "playing"])
+      .eq("player1_name", myName)
+      .order("created_at", { ascending: false })
+      .limit(20),
+    supabase
+      .from("multiplayer_matches")
+      .select("*")
+      .in("status", ["waiting", "playing"])
+      .eq("player2_name", myName)
+      .order("created_at", { ascending: false })
+      .limit(20),
+  ]);
 
-  return (data as MultiplayerMatch[]) || [];
+  const all = [...(asP1 || []), ...(asP2 || [])] as MultiplayerMatch[];
+  // Dedupe by id
+  const seen = new Set<string>();
+  return all.filter((m) => { if (seen.has(m.id)) return false; seen.add(m.id); return true; });
 }
 
 // ─── Get my match history ───────────────────────────────────
@@ -182,15 +195,26 @@ export async function getMyMatchHistory(): Promise<MultiplayerMatch[]> {
   const myName = getUsername();
   if (!myName) return [];
 
-  const { data } = await supabase
-    .from("multiplayer_matches")
-    .select("*")
-    .eq("status", "finished")
-    .or(`player1_name.eq.${myName},player2_name.eq.${myName}`)
-    .order("finished_at", { ascending: false })
-    .limit(20);
+  const [{ data: asP1 }, { data: asP2 }] = await Promise.all([
+    supabase
+      .from("multiplayer_matches")
+      .select("*")
+      .eq("status", "finished")
+      .eq("player1_name", myName)
+      .order("finished_at", { ascending: false })
+      .limit(20),
+    supabase
+      .from("multiplayer_matches")
+      .select("*")
+      .eq("status", "finished")
+      .eq("player2_name", myName)
+      .order("finished_at", { ascending: false })
+      .limit(20),
+  ]);
 
-  return (data as MultiplayerMatch[]) || [];
+  const all = [...(asP1 || []), ...(asP2 || [])] as MultiplayerMatch[];
+  const seen = new Set<string>();
+  return all.filter((m) => { if (seen.has(m.id)) return false; seen.add(m.id); return true; });
 }
 
 // ─── Subscribe to match updates (Realtime) ──────────────────
