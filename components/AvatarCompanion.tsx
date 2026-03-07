@@ -530,47 +530,27 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
       {mouthType === 'none' ? null
 
 : mouthType === 'smile' ? (
-  <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+  <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.17]}>
     {/* Felső ajak */}
-    <mesh position={[0, 0.014, 0.013]} scale={[1.0, 0.55, 0.6]}>
-      <sphereGeometry args={[0.042, 10, 6]} />
-      <meshStandardMaterial color={mouthCol} roughness={0.45} />
-    </mesh>
-    {/* Cupid's bow csúcs bal */}
-    <mesh position={[-0.018, 0.022, 0.015]} scale={[0.45, 0.38, 0.5]}>
-      <sphereGeometry args={[0.028, 8, 5]} />
-      <meshStandardMaterial color={mouthCol} roughness={0.45} />
-    </mesh>
-    {/* Cupid's bow csúcs jobb */}
-    <mesh position={[0.018, 0.022, 0.015]} scale={[0.45, 0.38, 0.5]}>
-      <sphereGeometry args={[0.028, 8, 5]} />
+    <mesh position={[0, 0.012, 0.008]} scale={[0.85, 0.45, 0.5]}>
+      <sphereGeometry args={[0.038, 10, 6]} />
       <meshStandardMaterial color={mouthCol} roughness={0.45} />
     </mesh>
     {/* Alsó ajak */}
-    <mesh position={[0, -0.008, 0.015]} scale={[1.05, 0.52, 0.65]}>
-      <sphereGeometry args={[0.042, 10, 6]} />
+    <mesh position={[0, -0.006, 0.010]} scale={[0.90, 0.42, 0.55]}>
+      <sphereGeometry args={[0.038, 10, 6]} />
       <meshStandardMaterial color={mouthCol} roughness={0.42} />
     </mesh>
-    {/* Ajak közepe árnyék vonal */}
-    <mesh position={[0, 0.004, 0.018]}>
-      <boxGeometry args={[0.068, 0.006, 0.004]} />
+    {/* Ajak közepe vonal */}
+    <mesh position={[0, 0.003, 0.012]}>
+      <boxGeometry args={[0.055, 0.005, 0.003]} />
       <meshStandardMaterial color="#8a4040" roughness={0.6} />
-    </mesh>
-    {/* Szájzug bal */}
-    <mesh position={[-0.038, 0.004, 0.012]} scale={[0.35, 0.35, 0.4]}>
-      <sphereGeometry args={[0.018, 6, 5]} />
-      <meshStandardMaterial color="#9a5050" roughness={0.6} />
-    </mesh>
-    {/* Szájzug jobb */}
-    <mesh position={[0.038, 0.004, 0.012]} scale={[0.35, 0.35, 0.4]}>
-      <sphereGeometry args={[0.018, 6, 5]} />
-      <meshStandardMaterial color="#9a5050" roughness={0.6} />
     </mesh>
   </group>
 
       ) : mouthType === 'grin' ? (
         /* Wide ∪ arc + white teeth strip */
-        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.17]}>
           <mesh position={[0, 0.012, 0.013]} rotation={[0, 0, Math.PI]}>
             <torusGeometry args={[0.050, 0.011, 6, 16, Math.PI]} />
             <meshStandardMaterial color={mouthCol} roughness={0.5} />
@@ -583,7 +563,7 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
 
       ) : mouthType === 'sad' ? (
         /* Downward-drooping ∩ arc (frown) */
-        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.17]}>
           <mesh position={[0, -0.012, 0.013]}>
             <torusGeometry args={[0.036, 0.010, 6, 16, Math.PI]} />
             <meshStandardMaterial color={mouthCol} roughness={0.5} />
@@ -592,14 +572,14 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
 
       ) : mouthType === 'neutral' ? (
         /* Thin horizontal bar */
-        <mesh ref={mouthRef as React.Ref<THREE.Mesh>} position={[0, -0.1, 0.213]}>
+        <mesh ref={mouthRef as React.Ref<THREE.Mesh>} position={[0, -0.1, 0.183]}>
           <boxGeometry args={[0.066, 0.011, 0.009]} />
           <meshStandardMaterial color={mouthCol} roughness={0.5} />
         </mesh>
 
       ) : mouthType === 'open' ? (
         /* Full torus ring (O-shape) + dark interior */
-        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.17]}>
           <mesh position={[0, 0, 0.014]} scale={[1, 0.75, 1]}>
             <torusGeometry args={[0.034, 0.014, 6, 12]} />
             <meshStandardMaterial color={mouthCol} roughness={0.5} />
@@ -611,7 +591,7 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
         </group>
 
       ) : mouthType === 'tongue' ? (
-        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.17]}>
           <mesh position={[0, 0, 0.012]}>
             <boxGeometry args={[0.075, 0.022, 0.010]} />
             <meshStandardMaterial color={mouthCol} roughness={0.5} />
@@ -623,7 +603,7 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
         </group>
 
       ) : mouthType === 'cat' ? (
-        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.17]}>
           <mesh position={[-0.026, 0, 0.012]} rotation={[0, 0, -0.42]}>
             <boxGeometry args={[0.034, 0.013, 0.008]} />
             <meshStandardMaterial color={mouthCol} roughness={0.5} />
@@ -639,7 +619,7 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
         </group>
 
       ) : mouthType === 'fangs' ? (
-        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.2]}>
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.1, 0.17]}>
           <mesh position={[0, 0, 0.013]}>
             <boxGeometry args={[0.090, 0.028, 0.012]} />
             <meshStandardMaterial color={mouthCol} roughness={0.5} />
@@ -679,7 +659,7 @@ function Character({
 }: AvatarCompanionProps) {
   const groupRef = useRef<THREE.Group>(null);
   const headRef = useRef<THREE.Group>(null);
-  const bodyRef = useRef<THREE.Mesh>(null);
+  const bodyRef = useRef<THREE.Group>(null);
   const leftLidRef = useRef<THREE.Mesh | null>(null);
   const rightLidRef = useRef<THREE.Mesh | null>(null);
   const leftIrisRef = useRef<THREE.Mesh | null>(null);
@@ -1204,17 +1184,42 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
       {/* ══ CAPE (behind body) ═══════════════════════════ */}
       {activeCape && <CapeMesh cape={activeCape} t={frameT} />}
 
-      {/* ══ BODY ══════════════════════════════════════ */}
-<mesh ref={bodyRef} position={[0, 0, 0]}>
-  <boxGeometry args={[bodyW, bodyH, 0.28]} />
-  <meshStandardMaterial
-    color={actualBodyColor}
-    emissive={skinEmissive || '#000000'}
-    emissiveIntensity={skinEmissiveIntensity}
-    roughness={0.68}
-    metalness={0.04}
-  />
-</mesh>
+      {/* ══ BODY — rounded torso ═══════════════════════ */}
+<group ref={bodyRef} position={[0, 0, 0]}>
+  {/* Main torso cylinder — rounded sides */}
+  <mesh>
+    <cylinderGeometry args={[bodyW * 0.46, bodyW * 0.50, bodyH * 0.75, 10]} />
+    <meshStandardMaterial
+      color={actualBodyColor}
+      emissive={skinEmissive || '#000000'}
+      emissiveIntensity={skinEmissiveIntensity}
+      roughness={0.68}
+      metalness={0.04}
+    />
+  </mesh>
+  {/* Chest — subtle forward volume */}
+  <mesh position={[0, 0.08, 0.04]} scale={[bodyW * 2.2, 0.70, 0.85]}>
+    <sphereGeometry args={[0.14, 10, 8]} />
+    <meshStandardMaterial
+      color={actualBodyColor}
+      emissive={skinEmissive || '#000000'}
+      emissiveIntensity={skinEmissiveIntensity}
+      roughness={0.68}
+      metalness={0.04}
+    />
+  </mesh>
+  {/* Hip area — slightly wider at bottom */}
+  <mesh position={[0, -0.18, 0]} scale={[bodyW * 2.4, 0.55, 0.92]}>
+    <sphereGeometry args={[0.14, 10, 8]} />
+    <meshStandardMaterial
+      color={actualBodyColor}
+      emissive={skinEmissive || '#000000'}
+      emissiveIntensity={skinEmissiveIntensity}
+      roughness={0.68}
+      metalness={0.04}
+    />
+  </mesh>
+</group>
 
 
 {/* ── Shirt collar / accent ─────────────────────── */}
