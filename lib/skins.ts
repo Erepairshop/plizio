@@ -31,7 +31,7 @@ export const SKINS: SkinDef[] = [
   {
     id: "fire",
     icon: "🔥",
-    price: 5,
+    price: 8,
     bodyColor: "#FF4500",
     headColor: "#FF6347",
     limbColor: "#CC3300",
@@ -43,7 +43,7 @@ export const SKINS: SkinDef[] = [
   {
     id: "ice",
     icon: "❄️",
-    price: 5,
+    price: 8,
     bodyColor: "#87CEEB",
     headColor: "#B0E0E6",
     limbColor: "#5F9EA0",
@@ -55,7 +55,7 @@ export const SKINS: SkinDef[] = [
   {
     id: "gold",
     icon: "👑",
-    price: 10,
+    price: 16,
     bodyColor: "#FFD700",
     headColor: "#FFC125",
     limbColor: "#DAA520",
@@ -67,7 +67,7 @@ export const SKINS: SkinDef[] = [
   {
     id: "neon",
     icon: "💜",
-    price: 10,
+    price: 16,
     bodyColor: "#E040FB",
     headColor: "#FF69B4",
     limbColor: "#9400D3",
@@ -79,7 +79,7 @@ export const SKINS: SkinDef[] = [
   {
     id: "ghost",
     icon: "👻",
-    price: 15,
+    price: 22,
     bodyColor: "#E8E8FF",
     headColor: "#F0F0FF",
     limbColor: "#D0D0E8",
@@ -91,7 +91,7 @@ export const SKINS: SkinDef[] = [
   {
     id: "robot",
     icon: "🤖",
-    price: 15,
+    price: 22,
     bodyColor: "#808080",
     headColor: "#A0A0A0",
     limbColor: "#606060",
@@ -103,7 +103,7 @@ export const SKINS: SkinDef[] = [
   {
     id: "legendary",
     icon: "🌈",
-    price: 25,
+    price: 40,
     bodyColor: "#FF69B4",
     headColor: "#FFD700",
     limbColor: "#00CED1",
@@ -115,7 +115,7 @@ export const SKINS: SkinDef[] = [
   {
     id: "shadow",
     icon: "🖤",
-    price: 8,
+    price: 12,
     bodyColor: "#1a1a2e",
     headColor: "#16213e",
     limbColor: "#0f0f1a",
@@ -127,7 +127,7 @@ export const SKINS: SkinDef[] = [
   {
     id: "ocean",
     icon: "🌊",
-    price: 8,
+    price: 12,
     bodyColor: "#006994",
     headColor: "#0097b2",
     limbColor: "#005577",
@@ -139,7 +139,7 @@ export const SKINS: SkinDef[] = [
   {
     id: "toxic",
     icon: "☢️",
-    price: 10,
+    price: 16,
     bodyColor: "#39ff14",
     headColor: "#7fff00",
     limbColor: "#32cd32",
@@ -151,7 +151,7 @@ export const SKINS: SkinDef[] = [
   {
     id: "lava",
     icon: "🌋",
-    price: 12,
+    price: 18,
     bodyColor: "#cf1020",
     headColor: "#ff4500",
     limbColor: "#8b0000",
@@ -163,7 +163,7 @@ export const SKINS: SkinDef[] = [
   {
     id: "crystal",
     icon: "💎",
-    price: 15,
+    price: 22,
     bodyColor: "#b9f2ff",
     headColor: "#e0f7fa",
     limbColor: "#80deea",
@@ -175,7 +175,7 @@ export const SKINS: SkinDef[] = [
   {
     id: "void",
     icon: "🕳️",
-    price: 20,
+    price: 35,
     bodyColor: "#0d0221",
     headColor: "#1a0533",
     limbColor: "#0a0118",
@@ -187,7 +187,7 @@ export const SKINS: SkinDef[] = [
   {
     id: "candy",
     icon: "🍭",
-    price: 8,
+    price: 12,
     bodyColor: "#ff69b4",
     headColor: "#ffb6c1",
     limbColor: "#ff1493",
@@ -199,7 +199,7 @@ export const SKINS: SkinDef[] = [
   {
     id: "nature",
     icon: "🌿",
-    price: 6,
+    price: 10,
     bodyColor: "#2d5a27",
     headColor: "#3e8e41",
     limbColor: "#1b4332",

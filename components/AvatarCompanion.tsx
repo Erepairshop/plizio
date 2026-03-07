@@ -322,7 +322,7 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
   const eyeCol  = face?.eyeColor  || '#2a2a2a';
   const mouthCol = face?.mouthColor || '#b06060';
   const eyeType   = face?.eyeType   || 'dot';
-  const mouthType = face?.mouthType || 'none';
+  const mouthType = face?.mouthType || 'smile';
   const skinDark = new THREE.Color(skinColor).multiplyScalar(0.82).getStyle();
 
   // ── Eyebrow params per expression ─────────────────────
@@ -1207,41 +1207,6 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
   />
 </mesh>
 
-{/* ── Mellkas kiemelkedés ───────────────────── */}
-<mesh position={[0, 0.18, 0.10]} scale={[0.82, 0.38, 0.32]}>
-  <sphereGeometry args={[0.28, 10, 8]} />
-  <meshStandardMaterial
-    color={actualBodyColor}
-    emissive={skinEmissive || '#000000'}
-    emissiveIntensity={skinEmissiveIntensity}
-    roughness={0.68}
-    metalness={0.04}
-  />
-</mesh>
-
-{/* ── Csípő kiszélesedés ────────────────────── */}
-<mesh position={[0, -0.22, 0.0]} scale={[isGirl ? 1.08 : 1.02, 0.28, 0.88]}>
-  <sphereGeometry args={[0.28, 10, 8]} />
-  <meshStandardMaterial
-    color={actualBodyColor}
-    emissive={skinEmissive || '#000000'}
-    emissiveIntensity={skinEmissiveIntensity}
-    roughness={0.68}
-    metalness={0.04}
-  />
-</mesh>
-
-{/* ── Derék beszűkülés ──────────────────────── */}
-<mesh position={[0, -0.04, 0.0]} scale={[isGirl ? 0.78 : 0.88, 0.22, 0.82]}>
-  <sphereGeometry args={[0.28, 10, 8]} />
-  <meshStandardMaterial
-    color={actualBodyColor}
-    emissive={skinEmissive || '#000000'}
-    emissiveIntensity={skinEmissiveIntensity}
-    roughness={0.68}
-    metalness={0.04}
-  />
-</mesh>
 
 {/* ── Shirt collar / accent ─────────────────────── */}
 {activeTop && (
@@ -1353,36 +1318,26 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
           />
         </mesh>
 {/* Chin */}
-<mesh position={[0, -0.06, 0.02]} scale={[1, 0.45, 0.85]}>
-  <sphereGeometry args={[0.14, 10, 6]} />
+<mesh position={[0, -0.12, 0.05]} scale={[0.65, 0.32, 0.60]}>
+  <sphereGeometry args={[0.10, 10, 6]} />
   <meshStandardMaterial color={skinDark} roughness={0.7} metalness={0} />
 </mesh>
 
 {/* ── ARCCSONT bal ──────────────────────────── */}
-<mesh position={[-0.13, -0.02, 0.14]} scale={[0.72, 0.52, 0.48]}>
-  <sphereGeometry args={[0.075, 8, 6]} />
+<mesh position={[-0.10, -0.03, 0.155]} scale={[0.45, 0.35, 0.28]}>
+  <sphereGeometry args={[0.055, 8, 6]} />
   <meshStandardMaterial color={actualSkinColor} roughness={0.58} metalness={0.01} />
-</mesh>
-{/* Arccsont highlight bal */}
-<mesh position={[-0.12, 0.0, 0.158]} scale={[0.38, 0.28, 0.22]}>
-  <sphereGeometry args={[0.055, 7, 5]} />
-  <meshStandardMaterial color="#ffffff" roughness={0.3} transparent opacity={0.08} />
 </mesh>
 
 {/* ── ARCCSONT jobb ─────────────────────────── */}
-<mesh position={[0.13, -0.02, 0.14]} scale={[0.72, 0.52, 0.48]}>
-  <sphereGeometry args={[0.075, 8, 6]} />
+<mesh position={[0.10, -0.03, 0.155]} scale={[0.45, 0.35, 0.28]}>
+  <sphereGeometry args={[0.055, 8, 6]} />
   <meshStandardMaterial color={actualSkinColor} roughness={0.58} metalness={0.01} />
-</mesh>
-{/* Arccsont highlight jobb */}
-<mesh position={[0.12, 0.0, 0.158]} scale={[0.38, 0.28, 0.22]}>
-  <sphereGeometry args={[0.055, 7, 5]} />
-  <meshStandardMaterial color="#ffffff" roughness={0.3} transparent opacity={0.08} />
 </mesh>
 
 {/* ── HOMLOK enyhe kiemelkedés ──────────────── */}
-<mesh position={[0, 0.11, 0.165]} scale={[0.88, 0.45, 0.32]}>
-  <sphereGeometry args={[0.10, 8, 6]} />
+<mesh position={[0, 0.10, 0.168]} scale={[0.75, 0.35, 0.20]}>
+  <sphereGeometry args={[0.09, 8, 6]} />
   <meshStandardMaterial color={actualSkinColor} roughness={0.55} metalness={0.01} />
 </mesh>
 
@@ -1404,81 +1359,48 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
 
         {/* ── HAIR ─────────────────────────────────── */}
         {isGirl ? (
-          /* Girl: longer hair with side tufts */
+          /* Girl: long hair — dome cap + side curtains + fringe */
           <>
-            <mesh position={[0, 0.08, 0]} scale={[1.05, 0.7, 1.05]}>
-              <sphereGeometry args={[0.18, 14, 8, 0, Math.PI * 2, 0, Math.PI * 0.55]} />
+            {/* Main cap — slightly bigger than head, top hemisphere + sides */}
+            <mesh position={[0, 0, 0]} scale={[1.06, 1.06, 1.06]}>
+              <sphereGeometry args={[0.18, 16, 10, 0, Math.PI * 2, 0, Math.PI * 0.58]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
             </mesh>
-            <mesh position={[0, 0.16, 0.13]} rotation={[0.5, 0, 0]} scale={[0.9, 1, 0.7]}>
-              <sphereGeometry args={[0.08, 8, 6]} />
+            {/* Left long curtain */}
+            <mesh position={[-0.155, -0.10, 0.01]} scale={[0.42, 1.15, 0.52]}>
+              <sphereGeometry args={[0.13, 10, 8]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
             </mesh>
-            <mesh position={[-0.13, 0.03, 0.02]} scale={[0.7, 0.85, 0.75]}>
-              <sphereGeometry args={[0.10, 8, 6]} />
+            {/* Right long curtain */}
+            <mesh position={[0.155, -0.10, 0.01]} scale={[0.42, 1.15, 0.52]}>
+              <sphereGeometry args={[0.13, 10, 8]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
             </mesh>
-            <mesh position={[0.13, 0.03, 0.02]} scale={[0.7, 0.85, 0.75]}>
-              <sphereGeometry args={[0.10, 8, 6]} />
-              <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
-            </mesh>
-            {/* Girl: two pigtail-like back tufts */}
-            <mesh position={[-0.12, -0.03, -0.10]} scale={[0.6, 0.9, 0.6]}>
-              <sphereGeometry args={[0.09, 8, 6]} />
-              <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
-            </mesh>
-            <mesh position={[0.12, -0.03, -0.10]} scale={[0.6, 0.9, 0.6]}>
+            {/* Front fringe */}
+            <mesh position={[0, 0.03, 0.165]} rotation={[0.45, 0, 0]} scale={[1.1, 0.42, 0.50]}>
               <sphereGeometry args={[0.09, 8, 6]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
             </mesh>
           </>
         ) : (
-          /* Boy: short, spiky hair */
+          /* Boy: clean short cap + small fringe */
           <>
-            <mesh position={[0, 0.10, 0]} scale={[1.02, 0.6, 1.02]}>
-              <sphereGeometry args={[0.18, 14, 8, 0, Math.PI * 2, 0, Math.PI * 0.45]} />
+            {/* Main cap — centered at head center, top + sides */}
+            <mesh position={[0, 0, 0]} scale={[1.06, 1.06, 1.06]}>
+              <sphereGeometry args={[0.18, 16, 10, 0, Math.PI * 2, 0, Math.PI * 0.52]} />
               <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
             </mesh>
-            {/* Spiky tufts */}
-            <mesh position={[0, 0.20, 0.04]} rotation={[-0.2, 0, 0]} scale={[0.5, 1.1, 0.4]}>
-              <coneGeometry args={[0.06, 0.13, 5]} />
-              <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
-            </mesh>
-            <mesh position={[-0.07, 0.19, 0.04]} rotation={[-0.1, 0.3, 0.2]} scale={[0.4, 1, 0.4]}>
-              <coneGeometry args={[0.05, 0.12, 5]} />
-              <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
-            </mesh>
-            <mesh position={[0.07, 0.19, 0.04]} rotation={[-0.1, -0.3, -0.2]} scale={[0.4, 1, 0.4]}>
-              <coneGeometry args={[0.05, 0.12, 5]} />
-              <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
-            </mesh>
-            {/* Side hair */}
-            <mesh position={[-0.15, 0.05, 0]} scale={[0.55, 0.7, 0.6]}>
-              <sphereGeometry args={[0.10, 8, 6]} />
-              <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
-            </mesh>
-            <mesh position={[0.15, 0.05, 0]} scale={[0.55, 0.7, 0.6]}>
-              <sphereGeometry args={[0.10, 8, 6]} />
+            {/* Front fringe strip */}
+            <mesh position={[0, 0.04, 0.165]} rotation={[0.50, 0, 0]} scale={[1.1, 0.42, 0.52]}>
+              <sphereGeometry args={[0.09, 8, 6]} />
               <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
             </mesh>
           </>
         )}
-{/* ── ORR ───────────────────────────────────── */}
-<mesh position={[0, 0.01, 0.175]} scale={[0.55, 1.0, 0.5]}>
-  <sphereGeometry args={[0.045, 8, 6]} />
-  <meshStandardMaterial color={actualSkinColor} roughness={0.6} />
-</mesh>
-<mesh position={[0, -0.025, 0.192]} scale={[0.9, 0.7, 0.7]}>
-  <sphereGeometry args={[0.036, 8, 6]} />
-  <meshStandardMaterial color={actualSkinColor} roughness={0.6} />
-</mesh>
-<mesh position={[-0.028, -0.028, 0.182]} scale={[0.6, 0.55, 0.55]}>
-  <sphereGeometry args={[0.032, 7, 5]} />
-  <meshStandardMaterial color={skinDark} roughness={0.68} />
-</mesh>
-<mesh position={[0.028, -0.028, 0.182]} scale={[0.6, 0.55, 0.55]}>
-  <sphereGeometry args={[0.032, 7, 5]} />
-  <meshStandardMaterial color={skinDark} roughness={0.68} />
+{/* ── ORR — egyetlen kis bump ──────────────── */}
+<mesh position={[0, -0.012, 0.182]} scale={[0.52, 0.58, 0.42]}>
+  <sphereGeometry args={[0.030, 8, 6]} />
+  <meshStandardMaterial color={actualSkinColor} roughness={0.55} />
 </mesh>
         {/* ── BAL FÜL ───────────────────────────────── */}
 <group position={[-0.178, 0.01, 0]}>

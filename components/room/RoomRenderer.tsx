@@ -3,7 +3,7 @@
 import React, { useRef } from "react";
 import IsoRoom, { gridToScreen, TILE_W, TILE_H } from "./IsoRoom";
 import { FURNITURE_COMPONENTS } from "./furniture";
-import { getFurnitureDef } from "./FurnitureRegistry";
+import { getFurnitureDef, getEffectiveDimensions } from "./FurnitureRegistry";
 
 /*  ─── Szoba renderelő ───
  *  Összefogja: IsoRoom (shell) + bútorok (SVG) + fények + rotation + animations
@@ -14,6 +14,14 @@ export interface PlacedFurniture {
   gridX: number;
   gridY: number;
   rotation?: 0 | 1 | 2 | 3;
+}
+
+interface GhostFurniture {
+  furnitureId: string;
+  gridX: number;
+  gridY: number;
+  rotation: number;
+  valid: boolean;
 }
 
 interface RoomRendererProps {
@@ -28,6 +36,7 @@ interface RoomRendererProps {
   selectedIndex?: number | null;
   onFurnitureClick?: (index: number) => void;
   onFurnitureLongPress?: (index: number) => void;
+  ghost?: GhostFurniture | null;
 }
 
 export default function RoomRenderer({
@@ -42,6 +51,7 @@ export default function RoomRenderer({
   selectedIndex = null,
   onFurnitureClick,
   onFurnitureLongPress,
+  ghost = null,
 }: RoomRendererProps) {
   const longPressTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const longPressOccurredRef = useRef(false);
@@ -116,10 +126,19 @@ export default function RoomRenderer({
 
           const isSelected = editMode && selectedIndex === item.origIdx;
           const rotation = item.rotation || 0;
-          // Izometrikus forgatás: horizontális tükrözés (scaleX -1) a bútor talppontja körül
-          // rot 0: eredeti, rot 1: tükrözve X-ben, rot 2: eredeti, rot 3: tükrözve
-          const isMirrored = rotation === 1 || rotation === 3;
-          const rotTransform = isMirrored ? `translate(${2 * x}, 0) scale(-1, 1)` : undefined;
+          // 4 izometrikus forgatás:
+          //   rot 0: eredeti
+          //   rot 1: vízszintes tükrözés (scale(-1,1)) — bal↔jobb lap csere
+          //   rot 2: 90° CW izometrikus forgatás — x'=2y, y'=-0.5x (gridW↔gridH csere)
+          //   rot 3: 90° CCW izometrikus forgatás — x'=-2y, y'=0.5x
+          let rotTransform: string | undefined;
+          if (rotation === 1) {
+            rotTransform = `translate(${2 * x}, 0) scale(-1, 1)`;
+          } else if (rotation === 2) {
+            rotTransform = `translate(${x},${y}) matrix(0,-0.5,2,0,0,0) translate(${-x},${-y})`;
+          } else if (rotation === 3) {
+            rotTransform = `translate(${x},${y}) matrix(0,0.5,-2,0,0,0) translate(${-x},${-y})`;
+          }
 
           const idx = item.origIdx;
           return (
@@ -211,6 +230,51 @@ export default function RoomRenderer({
             </g>
           );
         })}
+
+      {/* ─── GHOST PREVIEW (drag & drop előnézet) ─── */}
+      {ghost && (() => {
+        const fDef = getFurnitureDef(ghost.furnitureId);
+        const GhostComponent = FURNITURE_COMPONENTS[ghost.furnitureId];
+        if (!fDef || !GhostComponent) return null;
+        const { x: gx, y: gy } = gridToScreen(ghost.gridX, ghost.gridY, originX, originY);
+        const ghostRot = ghost.rotation;
+        let ghostRotTransform: string | undefined;
+        if (ghostRot === 1) {
+          ghostRotTransform = `translate(${2 * gx}, 0) scale(-1, 1)`;
+        } else if (ghostRot === 2) {
+          ghostRotTransform = `translate(${gx},${gy}) matrix(0,-0.5,2,0,0,0) translate(${-gx},${-gy})`;
+        } else if (ghostRot === 3) {
+          ghostRotTransform = `translate(${gx},${gy}) matrix(0,0.5,-2,0,0,0) translate(${-gx},${-gy})`;
+        }
+        const effDims = getEffectiveDimensions(fDef, ghost.rotation);
+        const hw = TILE_W / 2;
+        const hh = TILE_H / 2;
+        const fillColor = ghost.valid ? "rgba(0,220,100,0.22)" : "rgba(255,60,60,0.22)";
+        const strokeColor = ghost.valid ? "rgba(0,220,100,0.7)" : "rgba(255,60,60,0.7)";
+        return (
+          <>
+            {/* Cél cellák kiemelése */}
+            {Array.from({ length: effDims.gridW }, (_, wx) =>
+              Array.from({ length: effDims.gridH }, (_, wy) => {
+                const { x: tx, y: ty } = gridToScreen(ghost.gridX + wx, ghost.gridY + wy, originX, originY);
+                return (
+                  <path
+                    key={`gh-${wx}-${wy}`}
+                    d={`M ${tx},${ty - hh} L ${tx + hw},${ty} L ${tx},${ty + hh} L ${tx - hw},${ty} Z`}
+                    fill={fillColor}
+                    stroke={strokeColor}
+                    strokeWidth={0.8}
+                  />
+                );
+              })
+            )}
+            {/* Ghost bútor — félátlátszó */}
+            <g transform={ghostRotTransform} opacity={0.55} style={{ pointerEvents: "none" }}>
+              <GhostComponent x={gx} y={gy} />
+            </g>
+          </>
+        );
+      })()}
     </IsoRoom>
   );
 }

@@ -126,7 +126,7 @@ export default function IsoRoom({
 
   // Padló csempék generálása
   const floorTiles = useMemo(() => {
-    const tiles: { path: string; fill: string; gx: number; gy: number }[] = [];
+    const tiles: { path: string; fill: string; cx: number; cy: number; gx: number; gy: number }[] = [];
     for (let gx = 0; gx < gridW; gx++) {
       for (let gy = 0; gy < gridH; gy++) {
         const { x, y } = gridToScreen(gx, gy, originX, originY);
@@ -134,13 +134,17 @@ export default function IsoRoom({
         tiles.push({
           path: tilePath(x, y),
           fill: isEven ? theme.floorColor1 : theme.floorColor2,
-          gx,
-          gy,
+          cx: x, cy: y,
+          gx, gy,
         });
       }
     }
     return tiles;
   }, [gridW, gridH, originX, originY, theme.floorColor1, theme.floorColor2]);
+
+  // Szoba típus alapján parketta vs csempe vs fű
+  const isWoodFloor = roomType === "bedroom" || roomType === "living";
+  const isTileFloor = roomType === "kitchen" || roomType === "bathroom";
 
   // Fal sarokpontok
   const topLeft = gridToScreen(0, 0, originX, originY);
@@ -246,15 +250,35 @@ export default function IsoRoom({
 
       {/* ─── PADLÓ ─── */}
       <g>
-        {floorTiles.map((tile, i) => (
-          <path
-            key={i}
-            d={tile.path}
-            fill={tile.fill}
-            stroke="rgba(255,255,255,0.04)"
-            strokeWidth={0.5}
-          />
-        ))}
+        {floorTiles.map((tile, i) => {
+          const hw = TILE_W / 2;
+          const hh = TILE_H / 2;
+          // Belső rombusz (parkett/csempe eret) — 68% méret
+          const iw = hw * 0.68;
+          const ih = hh * 0.68;
+          const innerPath = `M ${tile.cx},${tile.cy - ih} L ${tile.cx + iw},${tile.cy} L ${tile.cx},${tile.cy + ih} L ${tile.cx - iw},${tile.cy} Z`;
+          return (
+            <g key={i}>
+              <path d={tile.path} fill={tile.fill} stroke="rgba(255,255,255,0.04)" strokeWidth={0.5} />
+              {/* Parketta rács belső vonal */}
+              {isWoodFloor && (
+                <path d={innerPath} fill="none" stroke="rgba(0,0,0,0.09)" strokeWidth={0.5} />
+              )}
+              {/* Parketta szemcse — átlós vonal */}
+              {isWoodFloor && (
+                <line
+                  x1={tile.cx - iw * 0.55} y1={tile.cy - ih * 0.15}
+                  x2={tile.cx + iw * 0.55} y2={tile.cy + ih * 0.15}
+                  stroke="rgba(0,0,0,0.05)" strokeWidth={0.4}
+                />
+              )}
+              {/* Csempe fugák */}
+              {isTileFloor && (
+                <path d={innerPath} fill="none" stroke="rgba(255,255,255,0.14)" strokeWidth={0.7} />
+              )}
+            </g>
+          );
+        })}
         {/* Padló fény overlay */}
         <path
           d={`M ${topLeft.x},${topLeft.y} L ${topRight.x},${topRight.y} L ${bottomRight.x},${bottomRight.y} L ${bottomLeft.x},${bottomLeft.y} Z`}
