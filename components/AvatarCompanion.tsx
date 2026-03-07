@@ -341,7 +341,7 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
   const rightBrowRotZ = -leftBrowRotZ;
 
   // Iris sphere size for normal types
-  const irisSize = eyeType === 'round' ? 0.030 : eyeType === 'dot' ? 0.015 : 0.022;
+  const irisSize = eyeType === 'round' ? 0.028 : eyeType === 'dot' ? 0.018 : 0.024;
   // Special eye types use overlay meshes instead of a sphere iris
   const specialEye = eyeType === 'happy' || eyeType === 'x' || eyeType === 'heart' || eyeType === 'star';
 
@@ -360,23 +360,18 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
 
     return (
       <>
-{/* Eye white — mandula alakú, laposabb */}
+{/* Eye white — almond-shaped, subtle */}
 {!specialEye && !isWinkClosed && (
   <group position={[x, 0.04, 0.188]}>
-    {/* Fehér sclera */}
-    <mesh scale={[1.0, 0.72, 0.38]}>
+    {/* Sclera — smaller, more almond */}
+    <mesh scale={[0.88, 0.58, 0.32]}>
       <sphereGeometry args={[0.048, 10, 8]} />
-      <meshStandardMaterial color="#f5f2ee" roughness={0.2} />
+      <meshStandardMaterial color="#f8f5f0" roughness={0.25} />
     </mesh>
-    {/* Felső szemhéj árnyék */}
-    <mesh position={[0, 0.022, 0.016]} scale={[1.05, 0.35, 0.5]}>
+    {/* Upper eyelid crease — subtle skin-tone shadow */}
+    <mesh position={[0, 0.018, 0.010]} scale={[0.92, 0.25, 0.38]}>
       <sphereGeometry args={[0.048, 8, 6]} />
-      <meshStandardMaterial color={skinDark} roughness={0.7} transparent opacity={0.45} />
-    </mesh>
-    {/* Alsó szemhéj vonal */}
-    <mesh position={[0, -0.022, 0.014]} scale={[1.0, 0.22, 0.4]}>
-      <sphereGeometry args={[0.048, 8, 6]} />
-      <meshStandardMaterial color={skinDark} roughness={0.7} transparent opacity={0.25} />
+      <meshStandardMaterial color={skinDark} roughness={0.7} transparent opacity={0.3} />
     </mesh>
   </group>
 )}
@@ -389,11 +384,18 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
           </mesh>
         )}
 
-        {/* Iris ref mesh — always a tiny invisible sphere so gaze animation has a target */}
+        {/* Iris ref mesh */}
         <mesh ref={irisRef} position={[x, 0.04, 0.215]}>
           <sphereGeometry args={[specialEye || isWinkClosed ? 0.001 : irisSize, 8, 8]} />
-          <meshStandardMaterial color={eyeCol} roughness={0.35} />
+          <meshStandardMaterial color={eyeCol} roughness={0.3} />
         </mesh>
+        {/* Pupil — dark center dot for realism */}
+        {!specialEye && !isWinkClosed && (
+          <mesh position={[x, 0.04, 0.222]}>
+            <sphereGeometry args={[irisSize * 0.45, 6, 6]} />
+            <meshStandardMaterial color="#0a0a0a" roughness={0.4} />
+          </mesh>
+        )}
 
         {/* ── Special eye overlays ──────────────────────── */}
 
@@ -463,10 +465,17 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
 
         {/* Specular highlight (not for wink-closed, happy arc, or x-eyes) */}
         {!isWinkClosed && eyeType !== 'happy' && eyeType !== 'x' && (
-          <mesh position={[sx, 0.048, 0.234]}>
-            <sphereGeometry args={[0.007, 6, 6]} />
-            <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.6} />
-          </mesh>
+          <>
+            <mesh position={[sx, 0.048, 0.230]}>
+              <sphereGeometry args={[0.008, 6, 6]} />
+              <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.8} />
+            </mesh>
+            {/* Secondary smaller highlight */}
+            <mesh position={[x + side * 0.005, 0.032, 0.228]}>
+              <sphereGeometry args={[0.004, 5, 5]} />
+              <meshStandardMaterial color="#ffffff" emissive="#ffffff" emissiveIntensity={0.5} />
+            </mesh>
+          </>
         )}
 
         {/* Eyelid (blink animation target) */}
@@ -475,22 +484,22 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
           <meshStandardMaterial color={skinColor} roughness={0.6} side={THREE.DoubleSide} />
         </mesh>
 
- {/* Eyebrow */}
+ {/* Eyebrow — natural arch shape */}
 <group ref={browRef} position={[bx, browY, 0.2]} rotation={[0, 0, browRotZ]}>
-  {/* Fő szemöldök test */}
+  {/* Main brow body — slightly curved via scale */}
   <mesh scale={[1.0, 1.0, 1.0]}>
-    <boxGeometry args={[0.058, 0.016, 0.008]} />
-    <meshStandardMaterial color="#2d1e0e" roughness={0.65} />
+    <boxGeometry args={[0.052, 0.013, 0.007]} />
+    <meshStandardMaterial color="#3a2816" roughness={0.7} />
   </mesh>
-  {/* Belső vastagabb rész */}
-  <mesh position={[side * -0.018, 0.002, 0.001]} scale={[0.38, 1.35, 1.1]}>
-    <boxGeometry args={[0.058, 0.016, 0.008]} />
-    <meshStandardMaterial color="#2d1e0e" roughness={0.65} />
+  {/* Inner thicker end */}
+  <mesh position={[side * -0.016, 0.001, 0.001]} scale={[0.35, 1.2, 1.0]}>
+    <boxGeometry args={[0.052, 0.013, 0.007]} />
+    <meshStandardMaterial color="#3a2816" roughness={0.7} />
   </mesh>
-  {/* Külső elvékonyodó rész */}
-  <mesh position={[side * 0.022, -0.003, 0.0]} scale={[0.32, 0.65, 0.9]}>
-    <boxGeometry args={[0.058, 0.016, 0.008]} />
-    <meshStandardMaterial color="#3d2e1e" roughness={0.7} />
+  {/* Outer tapered end */}
+  <mesh position={[side * 0.020, -0.002, 0.0]} scale={[0.28, 0.55, 0.8]}>
+    <boxGeometry args={[0.052, 0.013, 0.007]} />
+    <meshStandardMaterial color="#4a3826" roughness={0.75} />
   </mesh>
 </group>
       </>
@@ -1361,23 +1370,28 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
         {isGirl ? (
           /* Girl: long hair — dome cap + side curtains + fringe */
           <>
-            {/* Main cap — slightly bigger than head, top hemisphere + sides */}
-            <mesh position={[0, 0, 0]} scale={[1.06, 1.06, 1.06]}>
-              <sphereGeometry args={[0.18, 16, 10, 0, Math.PI * 2, 0, Math.PI * 0.58]} />
+            {/* Main cap — top half of head only, pulled back */}
+            <mesh position={[0, 0.02, -0.02]} scale={[1.07, 1.05, 1.02]}>
+              <sphereGeometry args={[0.18, 16, 10, 0, Math.PI * 2, 0, Math.PI * 0.48]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
             </mesh>
-            {/* Left long curtain */}
-            <mesh position={[-0.155, -0.10, 0.01]} scale={[0.42, 1.15, 0.52]}>
+            {/* Back volume */}
+            <mesh position={[0, -0.02, -0.06]} scale={[1.04, 1.08, 0.95]}>
+              <sphereGeometry args={[0.18, 12, 8, 0, Math.PI * 2, 0, Math.PI * 0.55]} />
+              <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
+            </mesh>
+            {/* Left long curtain — pulled back, thinner */}
+            <mesh position={[-0.16, -0.10, -0.02]} scale={[0.36, 1.1, 0.42]}>
               <sphereGeometry args={[0.13, 10, 8]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
             </mesh>
-            {/* Right long curtain */}
-            <mesh position={[0.155, -0.10, 0.01]} scale={[0.42, 1.15, 0.52]}>
+            {/* Right long curtain — pulled back, thinner */}
+            <mesh position={[0.16, -0.10, -0.02]} scale={[0.36, 1.1, 0.42]}>
               <sphereGeometry args={[0.13, 10, 8]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
             </mesh>
-            {/* Front fringe */}
-            <mesh position={[0, 0.03, 0.165]} rotation={[0.45, 0, 0]} scale={[1.1, 0.42, 0.50]}>
+            {/* Front fringe — small, above eyebrows only */}
+            <mesh position={[0, 0.10, 0.16]} rotation={[0.65, 0, 0]} scale={[1.05, 0.28, 0.32]}>
               <sphereGeometry args={[0.09, 8, 6]} />
               <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
             </mesh>
@@ -1385,23 +1399,36 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
         ) : (
           /* Boy: clean short cap + small fringe */
           <>
-            {/* Main cap — centered at head center, top + sides */}
-            <mesh position={[0, 0, 0]} scale={[1.06, 1.06, 1.06]}>
-              <sphereGeometry args={[0.18, 16, 10, 0, Math.PI * 2, 0, Math.PI * 0.52]} />
+            {/* Main cap — top of head, not covering face */}
+            <mesh position={[0, 0.02, -0.02]} scale={[1.07, 1.05, 1.02]}>
+              <sphereGeometry args={[0.18, 16, 10, 0, Math.PI * 2, 0, Math.PI * 0.44]} />
               <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
             </mesh>
-            {/* Front fringe strip */}
-            <mesh position={[0, 0.04, 0.165]} rotation={[0.50, 0, 0]} scale={[1.1, 0.42, 0.52]}>
+            {/* Back volume — gives shape */}
+            <mesh position={[0, 0, -0.04]} scale={[1.05, 1.04, 0.92]}>
+              <sphereGeometry args={[0.18, 12, 8, 0, Math.PI * 2, 0, Math.PI * 0.48]} />
+              <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
+            </mesh>
+            {/* Front fringe strip — smaller, above eyebrows */}
+            <mesh position={[0, 0.10, 0.15]} rotation={[0.70, 0, 0]} scale={[0.95, 0.25, 0.30]}>
               <sphereGeometry args={[0.09, 8, 6]} />
               <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
             </mesh>
           </>
         )}
-{/* ── ORR — egyetlen kis bump ──────────────── */}
-<mesh position={[0, -0.012, 0.182]} scale={[0.52, 0.58, 0.42]}>
-  <sphereGeometry args={[0.030, 8, 6]} />
-  <meshStandardMaterial color={actualSkinColor} roughness={0.55} />
-</mesh>
+{/* ── NOSE — small bridge + tip ────────────── */}
+<group position={[0, -0.01, 0.18]}>
+  {/* Nose bridge */}
+  <mesh position={[0, 0.015, 0]} scale={[0.35, 0.55, 0.35]}>
+    <sphereGeometry args={[0.030, 8, 6]} />
+    <meshStandardMaterial color={actualSkinColor} roughness={0.50} />
+  </mesh>
+  {/* Nose tip — slightly warmer/darker */}
+  <mesh position={[0, -0.008, 0.006]} scale={[0.48, 0.35, 0.38]}>
+    <sphereGeometry args={[0.030, 8, 6]} />
+    <meshStandardMaterial color={skinDark} roughness={0.55} transparent opacity={0.7} />
+  </mesh>
+</group>
         {/* ── BAL FÜL ───────────────────────────────── */}
 <group position={[-0.178, 0.01, 0]}>
   <mesh scale={[0.38, 0.62, 0.22]}>

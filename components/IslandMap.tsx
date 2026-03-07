@@ -31,6 +31,7 @@ interface IslandMapProps {
   streak: number;
   specialCount: number;
   cardCount: number;
+  lastPlayedCategory?: string | null;
 }
 
 /* ------------------------------------------------------------------ */
@@ -334,9 +335,41 @@ function GamePanel({ island, onClose }: { island: Island; onClose: () => void })
 }
 
 /* ------------------------------------------------------------------ */
+/* Avatar marker on a planet                                           */
+/* ------------------------------------------------------------------ */
+function AvatarMarker({ cx, cy, color }: { cx: number; cy: number; color: string }) {
+  return (
+    <motion.g
+      initial={{ opacity: 0, y: 6 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ delay: 1.2, duration: 0.5 }}
+    >
+      {/* Glow under avatar */}
+      <ellipse cx={cx} cy={cy + R - 2} rx={6} ry={2.5} fill={color} opacity={0.3} />
+      {/* Small avatar silhouette */}
+      <g transform={`translate(${cx}, ${cy + R - 16})`}>
+        {/* Body */}
+        <rect x={-4} y={2} width={8} height={10} rx={2} fill="#e8c9a0" opacity={0.9} />
+        {/* Head */}
+        <circle cx={0} cy={-2} r={5} fill="#e8c9a0" opacity={0.9} />
+        {/* Hair */}
+        <path d="M -5,-4 Q -5,-8 0,-8 Q 5,-8 5,-4 L 4,-3 Q 3,-6 0,-6 Q -3,-6 -4,-3 Z" fill="#4a2e10" opacity={0.85} />
+        {/* Eyes */}
+        <circle cx={-1.8} cy={-2.2} r={0.8} fill="#2a2a2a" />
+        <circle cx={1.8} cy={-2.2} r={0.8} fill="#2a2a2a" />
+        {/* Smile */}
+        <path d="M -1.5,0 Q 0,1.5 1.5,0" fill="none" stroke="#b06060" strokeWidth={0.5} />
+        {/* Outline glow */}
+        <circle cx={0} cy={0} r={12} fill="none" stroke={color} strokeWidth={0.6} opacity={0.25} />
+      </g>
+    </motion.g>
+  );
+}
+
+/* ------------------------------------------------------------------ */
 /* Main — Fullscreen Island Map                                        */
 /* ------------------------------------------------------------------ */
-export default function IslandMap({ islands, username, streak, specialCount, cardCount }: IslandMapProps) {
+export default function IslandMap({ islands, username, streak, specialCount, cardCount, lastPlayedCategory }: IslandMapProps) {
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const selectedIsland = islands.find((i) => i.id === selectedId) ?? null;
 
@@ -410,6 +443,14 @@ export default function IslandMap({ islands, username, streak, specialCount, car
               onClick={() => setSelectedId(selectedId === island.id ? null : island.id)}
             />
           ))}
+
+          {/* Avatar marker on last-played planet */}
+          {(() => {
+            const target = lastPlayedCategory
+              ? islands.find((i) => i.id === lastPlayedCategory)
+              : islands[0];
+            return target ? <AvatarMarker cx={target.cx} cy={target.cy} color={target.color} /> : null;
+          })()}
         </svg>
       </motion.div>
 

@@ -398,6 +398,26 @@ function getCategoriesWithTranslations(lang: string): CategoryDef[] {
   });
 }
 
+const GAME_TO_CATEGORY: Record<string, string> = {
+  quickpick: "quizreflex", reflexrush: "quizreflex", memoryflash: "quizreflex",
+  spotdiff: "quizreflex", numberrush: "quizreflex", wordscramble: "quizreflex",
+  sequencerush: "quizreflex", wordhunt: "quizreflex", milliomos: "quizreflex",
+  kodex: "quizreflex",
+  skyclimb: "adventure", citydrive: "adventure", racetrack: "adventure", pliziolife: "adventure",
+  mathtest: "brain", deutschtest: "brain",
+  numberpath: "logic", minisudoku: "logic",
+};
+
+function getLastPlayedCategory(): string | null {
+  if (typeof window === "undefined") return null;
+  const cards = getCards();
+  if (cards.length === 0) return null;
+  // Find the most recent card by date
+  const sorted = [...cards].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  const lastGame = sorted[0]?.game;
+  return lastGame ? (GAME_TO_CATEGORY[lastGame] ?? null) : null;
+}
+
 function getStreak(): number {
   if (typeof window === "undefined") return 0;
   const data = localStorage.getItem("plizio_streak");
@@ -422,6 +442,7 @@ export default function Home() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [categories, setCategories] = useState<CategoryDef[]>([]);
   const [dailyReward, setDailyReward] = useState<DailyRewardResult | null>(null);
+  const [lastCategory, setLastCategory] = useState<string | null>(null);
 
   useEffect(() => {
     setCategories(getCategoriesWithTranslations(lang));
@@ -431,6 +452,7 @@ export default function Home() {
     setStreak(getStreak());
     setCardCount(getCards().length);
     setSpecialCount(getSpecialCardCount());
+    setLastCategory(getLastPlayedCategory());
 
     // Daily login reward
     const reward = claimDailyReward();
@@ -477,7 +499,7 @@ export default function Home() {
       setCardCount(getCards().length);
       setSpecialCount(getSpecialCardCount());
     };
-    const onVisible = () => { if (document.visibilityState === "visible") refreshCounts(); };
+    const onVisible = () => { if (document.visibilityState === "visible") { refreshCounts(); setLastCategory(getLastPlayedCategory()); } };
     window.addEventListener("plizio-cards-changed", refreshCounts);
     document.addEventListener("visibilitychange", onVisible);
 
@@ -497,6 +519,7 @@ export default function Home() {
         streak={streak}
         specialCount={specialCount}
         cardCount={cardCount}
+        lastPlayedCategory={lastCategory}
       />
 
       {/* Top bar — nav buttons right, language switcher left */}
