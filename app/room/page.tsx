@@ -1279,7 +1279,7 @@ export default function RoomPage() {
                 // Pan & zoom both handled by R3F camera — no CSS transform!
                 // This eliminates hybrid transform conflicts and mobile lag.
                 cursor: zoom > 1 ? "grab" : "default",
-                aspectRatio: "4 / 3",
+                // No aspectRatio — let room fill container fully
               }}
             >
               <Room3DCanvas

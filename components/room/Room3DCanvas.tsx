@@ -29,7 +29,7 @@ const WALL_TRIM: Record<string, string> = {
   bathroom: "#4A6AA8",
   garden:   "#4A8B3A",
 };
-const WALL_H = 3.0; // world units
+const WALL_H = 1.4; // world units — smaller walls for better proportions
 
 // ─── Ghost highlight ───────────────────────────────────────────────────────────
 interface GhostData {
@@ -431,8 +431,9 @@ export default function Room3DCanvas({
 
     // Apply pan offset to isometric camera position
     // Isometric [D, D, D] -> pan modifies X and Z in world space
-    // panScale INCREASES with zoom so panning speed stays consistent
-    const panScale = cameraZoom * 0.012;
+    // panScale is CONSTANT (not zoom-dependent) so pan speed is consistent
+    // and center stays centered during zoom
+    const panScale = 0.006;
     cameraOrthoRef.current.position.x = D - cameraPan.x * panScale;
     cameraOrthoRef.current.position.z = D - cameraPan.y * panScale;
 
