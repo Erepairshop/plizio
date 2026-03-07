@@ -54,7 +54,7 @@ export async function createChallenge(
   const { data: oppData } = await supabase
     .from("usernames")
     .select("user_id, display_name")
-    .ilike("name", opponentName.trim())
+    .eq("name", opponentName.trim())
     .limit(1)
     .single();
 
@@ -152,7 +152,7 @@ export async function getMyPendingChallenges(): Promise<MultiplayerMatch[]> {
     .from("multiplayer_matches")
     .select("*")
     .eq("status", "waiting")
-    .ilike("player2_name", myName)
+    .eq("player2_name", myName)
     .order("created_at", { ascending: false })
     .limit(10);
 
@@ -169,7 +169,7 @@ export async function getMyActiveMatches(): Promise<MultiplayerMatch[]> {
     .from("multiplayer_matches")
     .select("*")
     .in("status", ["waiting", "playing"])
-    .or(`player1_name.ilike.${myName},player2_name.ilike.${myName}`)
+    .or(`player1_name.eq.${myName},player2_name.eq.${myName}`)
     .order("created_at", { ascending: false })
     .limit(20);
 
@@ -186,7 +186,7 @@ export async function getMyMatchHistory(): Promise<MultiplayerMatch[]> {
     .from("multiplayer_matches")
     .select("*")
     .eq("status", "finished")
-    .or(`player1_name.ilike.${myName},player2_name.ilike.${myName}`)
+    .or(`player1_name.eq.${myName},player2_name.eq.${myName}`)
     .order("finished_at", { ascending: false })
     .limit(20);
 
@@ -236,7 +236,7 @@ export function subscribeToMyChallenges(
         event: "INSERT",
         schema: "public",
         table: "multiplayer_matches",
-        filter: `player2_name=ilike.${myName}`,
+        filter: `player2_name=eq.${myName}`,
       },
       (payload) => {
         onChallenge(payload.new as MultiplayerMatch);

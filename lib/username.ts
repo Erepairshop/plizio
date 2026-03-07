@@ -16,12 +16,12 @@ export function hasUsername(): boolean {
   return !!name && name.trim().length > 0;
 }
 
-/** Check if a name is available (case-insensitive) */
+/** Check if a name is available (case-insensitive via DB index) */
 export async function isNameAvailable(name: string): Promise<boolean> {
   const { data } = await supabase
     .from("usernames")
     .select("id")
-    .ilike("name", name.trim())
+    .eq("name", name.trim())
     .limit(1);
   return !data || data.length === 0;
 }
@@ -73,7 +73,7 @@ export async function linkUsernameToUser(userId: string): Promise<void> {
   await supabase
     .from("usernames")
     .update({ user_id: userId })
-    .ilike("name", name);
+    .eq("name", name);
 }
 
 /**
@@ -89,7 +89,7 @@ export async function syncUsernameToSupabase(userId: string): Promise<void> {
   const { data: existing } = await supabase
     .from("usernames")
     .select("id, user_id")
-    .ilike("name", name)
+    .eq("name", name)
     .limit(1)
     .single();
 
@@ -126,7 +126,7 @@ export async function updateLastSeen(): Promise<void> {
   await supabase
     .from("usernames")
     .update({ last_seen: new Date().toISOString() })
-    .ilike("name", name);
+    .eq("name", name);
 }
 
 /** Search usernames for challenge (returns top 5 matches) */
