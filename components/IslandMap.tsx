@@ -341,17 +341,17 @@ export default function IslandMap({ islands, username, streak, specialCount, car
   const selectedIsland = islands.find((i) => i.id === selectedId) ?? null;
 
   return (
-    <div className="absolute inset-0 overflow-hidden" style={{ perspective: "1000px" }}>
+    <div className="absolute inset-0 overflow-hidden bg-[#070e1a]" style={{ perspective: "1000px" }}>
       <motion.div
-        className="absolute inset-0"
+        className="absolute inset-0 flex items-center justify-center"
         style={{ transformStyle: "preserve-3d", transformOrigin: "center 40%" }}
         animate={{ rotateX: selectedId ? 0 : 8 }}
         transition={{ duration: 0.6, ease: "easeOut" }}
       >
         <svg
           viewBox="0 0 800 900"
-          preserveAspectRatio="xMidYMid slice"
-          className="absolute inset-0 w-full h-full"
+          preserveAspectRatio="xMidYMid meet"
+          className="w-full h-full max-w-[520px] sm:max-w-none"
         >
           <OceanBg />
 
