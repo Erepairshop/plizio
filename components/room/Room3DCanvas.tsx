@@ -432,9 +432,9 @@ export default function Room3DCanvas({
     // Apply pan offset to isometric camera position
     // Isometric [D, D, D] -> pan modifies X and Z in world space
     // panScale INCREASES with zoom so panning speed stays consistent
-    const panScale = cameraZoom * 0.015;
-    cameraOrthoRef.current.position.x = D + cameraPan.x * panScale;
-    cameraOrthoRef.current.position.z = D + cameraPan.y * panScale;
+    const panScale = cameraZoom * 0.012;
+    cameraOrthoRef.current.position.x = D - cameraPan.x * panScale;
+    cameraOrthoRef.current.position.z = D - cameraPan.y * panScale;
 
     cameraOrthoRef.current.updateProjectionMatrix();
   }, [baseZoom, cameraZoom, cameraPan, D]);
