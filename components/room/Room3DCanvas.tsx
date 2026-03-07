@@ -420,14 +420,23 @@ export default function Room3DCanvas({
   const D = gridMax * 1.6;
   const baseZoom = 220 / gridMax;
 
-  // Imperative camera zoom — updated outside Canvas's inner React root so it
+  // Imperative camera zoom & pan — updated outside Canvas's inner React root so it
   // always reflects the latest React state (no inner-reconciler timing issues).
   const cameraOrthoRef = useRef<THREE.OrthographicCamera | null>(null);
   useEffect(() => {
     if (!cameraOrthoRef.current) return;
+
+    // Apply zoom
     cameraOrthoRef.current.zoom = baseZoom * cameraZoom;
+
+    // Apply pan offset to isometric camera position
+    // Isometric [D, D, D] -> pan modifies X and Z in world space
+    const panScale = D / (baseZoom * cameraZoom) * 0.008;
+    cameraOrthoRef.current.position.x = D - cameraPan.x * panScale;
+    cameraOrthoRef.current.position.z = D - cameraPan.y * panScale;
+
     cameraOrthoRef.current.updateProjectionMatrix();
-  }, [baseZoom, cameraZoom]);
+  }, [baseZoom, cameraZoom, cameraPan, D]);
 
   return (
     <Canvas

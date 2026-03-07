@@ -1276,12 +1276,8 @@ export default function RoomPage() {
               transition={{ duration: 0.3 }}
               className="w-full h-full flex items-center justify-center"
               style={{
-                // CSS translate for pan only — no CSS scale = no pixelation at high zoom!
-                // Camera zoom (CameraController) handles magnification.
-                transform: pan.x !== 0 || pan.y !== 0
-                  ? `translate(${pan.x}px, ${pan.y}px)`
-                  : undefined,
-                transformOrigin: "center center",
+                // Pan & zoom both handled by R3F camera — no CSS transform!
+                // This eliminates hybrid transform conflicts and mobile lag.
                 cursor: zoom > 1 ? "grab" : "default",
                 aspectRatio: "4 / 3",
               }}
