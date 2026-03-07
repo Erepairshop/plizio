@@ -19,7 +19,7 @@ import {
   Move,
 } from "lucide-react";
 import RoomRenderer from "@/components/room/RoomRenderer";
-import { FURNITURE_DEFS, getFurnitureDef } from "@/components/room/FurnitureRegistry";
+import { FURNITURE_DEFS, getFurnitureDef, getEffectiveDimensions } from "@/components/room/FurnitureRegistry";
 import {
   getOwnedRooms,
   getRoomFurniture,
@@ -655,16 +655,17 @@ export default function RoomPage() {
 
       // BÚTOR DRAG MÓD (hosszú nyomás után)
       if (furnitureDragActiveRef.current && movingIdx !== null) {
-        const fId = furniture[movingIdx]?.furnitureId;
-        if (fId) {
-          const fDef = getFurnitureDef(fId);
+        const moving = furniture[movingIdx];
+        if (moving) {
+          const fDef = getFurnitureDef(moving.furnitureId);
           if (fDef) {
+            const eff = getEffectiveDimensions(fDef, moving.rotation || 0);
             const g = clientToGrid(touch.clientX, touch.clientY);
             if (g) {
               const rs = roomSizeRef.current;
               setGhostPos({
-                gx: Math.max(0, Math.min(rs.gridW - fDef.gridW, Math.round(g.gx))),
-                gy: Math.max(0, Math.min(rs.gridH - fDef.gridH, Math.round(g.gy))),
+                gx: Math.max(0, Math.min(rs.gridW - eff.gridW, Math.round(g.gx))),
+                gy: Math.max(0, Math.min(rs.gridH - eff.gridH, Math.round(g.gy))),
               });
               didDragRef.current = true;
             }
@@ -677,12 +678,13 @@ export default function RoomPage() {
       if (editMode && selectedFurnitureId) {
         const fDef = getFurnitureDef(selectedFurnitureId);
         if (fDef) {
+          const eff = getEffectiveDimensions(fDef, 0);
           const g = clientToGrid(touch.clientX, touch.clientY);
           if (g) {
             const rs = roomSizeRef.current;
             setGhostPos({
-              gx: Math.max(0, Math.min(rs.gridW - fDef.gridW, Math.round(g.gx))),
-              gy: Math.max(0, Math.min(rs.gridH - fDef.gridH, Math.round(g.gy))),
+              gx: Math.max(0, Math.min(rs.gridW - eff.gridW, Math.round(g.gx))),
+              gy: Math.max(0, Math.min(rs.gridH - eff.gridH, Math.round(g.gy))),
             });
           }
         }
@@ -716,13 +718,16 @@ export default function RoomPage() {
       if (moving) {
         const fDef = getFurnitureDef(moving.furnitureId);
         if (fDef) {
+          const eff = getEffectiveDimensions(fDef, moving.rotation || 0);
           const { gx, gy } = ghostPos;
           const rs = roomSizeRef.current;
-          const inBounds = gx >= 0 && gy >= 0 && gx + fDef.gridW <= rs.gridW && gy + fDef.gridH <= rs.gridH;
+          const inBounds = gx >= 0 && gy >= 0 && gx + eff.gridW <= rs.gridW && gy + eff.gridH <= rs.gridH;
           const noOverlap = !furniture.some((p, i) => {
             if (i === movingIdx) return false;
             const pd = getFurnitureDef(p.furnitureId);
-            return pd ? (gx < p.gridX + pd.gridW && gx + fDef.gridW > p.gridX && gy < p.gridY + pd.gridH && gy + fDef.gridH > p.gridY) : false;
+            if (!pd) return false;
+            const pe = getEffectiveDimensions(pd, p.rotation || 0);
+            return gx < p.gridX + pe.gridW && gx + eff.gridW > p.gridX && gy < p.gridY + pe.gridH && gy + eff.gridH > p.gridY;
           });
           if (inBounds && noOverlap) {
             const newFurniture = [...furniture];
@@ -755,16 +760,18 @@ export default function RoomPage() {
   const handleMouseMove = useCallback((e: React.MouseEvent) => {
     // Ghost preview frissítése edit módban (bútor elhelyezés / mozgatás)
     if (editMode) {
-      const fId = selectedFurnitureId ?? (movingIdx !== null ? furniture[movingIdx]?.furnitureId : null);
+      const movingItem = movingIdx !== null ? furniture[movingIdx] : null;
+      const fId = selectedFurnitureId ?? movingItem?.furnitureId ?? null;
       if (fId) {
         const fDef = getFurnitureDef(fId);
         if (fDef) {
+          const eff = getEffectiveDimensions(fDef, movingItem?.rotation || 0);
           const g = clientToGrid(e.clientX, e.clientY);
           if (g) {
             const rs = roomSizeRef.current;
             setGhostPos({
-              gx: Math.max(0, Math.min(rs.gridW - fDef.gridW, Math.round(g.gx))),
-              gy: Math.max(0, Math.min(rs.gridH - fDef.gridH, Math.round(g.gy))),
+              gx: Math.max(0, Math.min(rs.gridW - eff.gridW, Math.round(g.gx))),
+              gy: Math.max(0, Math.min(rs.gridH - eff.gridH, Math.round(g.gy))),
             });
           }
         }
@@ -796,13 +803,16 @@ export default function RoomPage() {
       if (moving) {
         const fDef = getFurnitureDef(moving.furnitureId);
         if (fDef) {
+          const eff = getEffectiveDimensions(fDef, moving.rotation || 0);
           const { gx, gy } = ghostPos;
           const rs = roomSizeRef.current;
-          const inBounds = gx >= 0 && gy >= 0 && gx + fDef.gridW <= rs.gridW && gy + fDef.gridH <= rs.gridH;
+          const inBounds = gx >= 0 && gy >= 0 && gx + eff.gridW <= rs.gridW && gy + eff.gridH <= rs.gridH;
           const noOverlap = !furniture.some((p, i) => {
             if (i === movingIdx) return false;
             const pd = getFurnitureDef(p.furnitureId);
-            return pd ? (gx < p.gridX + pd.gridW && gx + fDef.gridW > p.gridX && gy < p.gridY + pd.gridH && gy + fDef.gridH > p.gridY) : false;
+            if (!pd) return false;
+            const pe = getEffectiveDimensions(pd, p.rotation || 0);
+            return gx < p.gridX + pe.gridW && gx + eff.gridW > p.gridX && gy < p.gridY + pe.gridH && gy + eff.gridH > p.gridY;
           });
           if (inBounds && noOverlap) {
             const newFurniture = [...furniture];
@@ -1045,18 +1055,19 @@ export default function RoomPage() {
     };
   };
 
-  // Check if a position is valid (bounds + no overlap)
-  const isValidPosition = (gx: number, gy: number, fDef: { gridW: number; gridH: number }, excludeIdx?: number) => {
-    if (gx < 0 || gy < 0 || gx + fDef.gridW > roomSize.gridW || gy + fDef.gridH > roomSize.gridH) return false;
+  // Check if a position is valid (bounds + no overlap) — uses effective dimensions (rotation-aware)
+  const isValidPosition = (gx: number, gy: number, eff: { gridW: number; gridH: number }, excludeIdx?: number) => {
+    if (gx < 0 || gy < 0 || gx + eff.gridW > roomSize.gridW || gy + eff.gridH > roomSize.gridH) return false;
     return !furniture.some((placed, i) => {
       if (excludeIdx !== undefined && i === excludeIdx) return false;
       const pDef = getFurnitureDef(placed.furnitureId);
       if (!pDef) return false;
+      const pe = getEffectiveDimensions(pDef, placed.rotation || 0);
       return (
-        gx < placed.gridX + pDef.gridW &&
-        gx + fDef.gridW > placed.gridX &&
-        gy < placed.gridY + pDef.gridH &&
-        gy + fDef.gridH > placed.gridY
+        gx < placed.gridX + pe.gridW &&
+        gx + eff.gridW > placed.gridX &&
+        gy < placed.gridY + pe.gridH &&
+        gy + eff.gridH > placed.gridY
       );
     });
   };
@@ -1075,10 +1086,11 @@ export default function RoomPage() {
       const moving = furniture[movingIdx];
       const fDef = getFurnitureDef(moving.furnitureId);
       if (!fDef) return;
-      const gx = Math.max(0, Math.min(roomSize.gridW - fDef.gridW, rawGx));
-      const gy = Math.max(0, Math.min(roomSize.gridH - fDef.gridH, rawGy));
+      const eff = getEffectiveDimensions(fDef, moving.rotation || 0);
+      const gx = Math.max(0, Math.min(roomSize.gridW - eff.gridW, rawGx));
+      const gy = Math.max(0, Math.min(roomSize.gridH - eff.gridH, rawGy));
 
-      if (!isValidPosition(gx, gy, fDef, movingIdx)) {
+      if (!isValidPosition(gx, gy, eff, movingIdx)) {
         showToast(t.overlap || "Can't place here!");
         return;
       }
@@ -1095,10 +1107,11 @@ export default function RoomPage() {
     if (!selectedFurnitureId) return;
     const fDef = getFurnitureDef(selectedFurnitureId);
     if (!fDef) return;
-    const gx = Math.max(0, Math.min(roomSize.gridW - fDef.gridW, rawGx));
-    const gy = Math.max(0, Math.min(roomSize.gridH - fDef.gridH, rawGy));
+    const eff = getEffectiveDimensions(fDef, 0);
+    const gx = Math.max(0, Math.min(roomSize.gridW - eff.gridW, rawGx));
+    const gy = Math.max(0, Math.min(roomSize.gridH - eff.gridH, rawGy));
 
-    if (!isValidPosition(gx, gy, fDef)) {
+    if (!isValidPosition(gx, gy, eff)) {
       showToast(t.overlap || "Can't place here!");
       return;
     }
@@ -1460,23 +1473,28 @@ export default function RoomPage() {
                 onFurnitureClick={handleFurnitureClick}
                 onFurnitureLongPress={editMode ? handleLongPressDrag : undefined}
                 ghost={editMode && ghostPos ? (() => {
-                  const fId = selectedFurnitureId ?? (movingIdx !== null ? furniture[movingIdx]?.furnitureId : null);
+                  const movingItem = movingIdx !== null ? furniture[movingIdx] : null;
+                  const fId = selectedFurnitureId ?? movingItem?.furnitureId ?? null;
                   if (!fId) return null;
                   const fDef = getFurnitureDef(fId);
                   if (!fDef) return null;
+                  const ghostRot = movingItem?.rotation || 0;
+                  const eff = getEffectiveDimensions(fDef, ghostRot);
                   const { gx, gy } = ghostPos;
                   const rs = roomSize;
-                  const inBounds = gx >= 0 && gy >= 0 && gx + fDef.gridW <= rs.gridW && gy + fDef.gridH <= rs.gridH;
+                  const inBounds = gx >= 0 && gy >= 0 && gx + eff.gridW <= rs.gridW && gy + eff.gridH <= rs.gridH;
                   const noOverlap = !furniture.some((p, i) => {
                     if (i === movingIdx) return false;
                     const pd = getFurnitureDef(p.furnitureId);
-                    return pd ? (gx < p.gridX + pd.gridW && gx + fDef.gridW > p.gridX && gy < p.gridY + pd.gridH && gy + fDef.gridH > p.gridY) : false;
+                    if (!pd) return false;
+                    const pe = getEffectiveDimensions(pd, p.rotation || 0);
+                    return gx < p.gridX + pe.gridW && gx + eff.gridW > p.gridX && gy < p.gridY + pe.gridH && gy + eff.gridH > p.gridY;
                   });
                   return {
                     furnitureId: fId,
                     gridX: gx,
                     gridY: gy,
-                    rotation: movingIdx !== null ? (furniture[movingIdx]?.rotation || 0) : 0,
+                    rotation: ghostRot,
                     valid: inBounds && noOverlap,
                   };
                 })() : null}

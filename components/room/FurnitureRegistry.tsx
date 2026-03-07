@@ -72,3 +72,12 @@ export function getFurnitureByRoom(roomType: string): FurnitureDef[] {
 export function getFurnitureByCategory(category: string): FurnitureDef[] {
   return FURNITURE_DEFS.filter((f) => f.category === category);
 }
+
+/** Returns the effective grid footprint for a given rotation.
+ *  rot 0/1 = original dims, rot 2/3 = gridW ↔ gridH swapped (90° isometric turn) */
+export function getEffectiveDimensions(def: FurnitureDef, rotation: number): { gridW: number; gridH: number } {
+  if (rotation === 2 || rotation === 3) {
+    return { gridW: def.gridH, gridH: def.gridW };
+  }
+  return { gridW: def.gridW, gridH: def.gridH };
+}
