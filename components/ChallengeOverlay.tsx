@@ -107,7 +107,8 @@ export default function ChallengeOverlay() {
       // Navigate to game
       if (challenge) {
         const isP1 = challenge.player1_name.toLowerCase() === myName?.toLowerCase();
-        router.push(`/${challenge.game}?match=${challenge.id}&seed=${challenge.seed}&p=${isP1 ? "1" : "2"}`);
+        const opponent = (isP1 ? challenge.player2_name : challenge.player1_name) || "???";
+        router.push(`/${challenge.game}?match=${challenge.id}&seed=${challenge.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponent)}`);
         setChallenge(null);
       }
       return;

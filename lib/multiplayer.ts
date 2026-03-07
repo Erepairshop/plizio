@@ -307,3 +307,11 @@ export async function cancelChallenge(matchId: string): Promise<void> {
     .eq("id", matchId)
     .eq("status", "waiting");
 }
+
+export async function abandonMatch(matchId: string): Promise<void> {
+  await supabase
+    .from("multiplayer_matches")
+    .update({ status: "abandoned" })
+    .eq("id", matchId)
+    .eq("status", "playing");
+}

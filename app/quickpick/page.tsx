@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect, useCallback, useRef, useMemo, Suspense } from "react";
-import { useSearchParams } from "next/navigation";
+import { useSearchParams, useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { Crosshair, Trophy, CheckCircle, XCircle, ArrowUp, Flame, Globe, Music, CircleDot, Sparkles, Gamepad2, MapPin, Share2, Film, X, Swords } from "lucide-react";
 import Link from "next/link";
@@ -12,7 +12,9 @@ import { incrementTotalGames, incrementPerfectScores, updateStats } from "@/lib/
 import MilestonePopup from "@/components/MilestonePopup";
 import { useLang } from "@/components/LanguageProvider";
 import type { Language } from "@/lib/language";
-import { submitScore } from "@/lib/multiplayer";
+import { submitScore, abandonMatch } from "@/lib/multiplayer";
+import MultiplayerExitConfirm from "@/components/MultiplayerExitConfirm";
+import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
 
 // English versions (default/fallback)
 import generalDataEn from "@/data/quickpick/general.json";
@@ -255,11 +257,13 @@ function QuickPickPage() {
   const { lang } = useLang();
   const t = TRANSLATIONS[lang] ?? TRANSLATIONS.en;
   const searchParams = useSearchParams();
+  const router = useRouter();
 
   // Multiplayer params
   const matchId = searchParams.get("match");
   const seed = searchParams.get("seed");
   const playerNum = searchParams.get("p"); // "1" or "2"
+  const opponentName = searchParams.get("vs") || "???";
   const isMultiplayer = !!(matchId && seed);
 
   // Get language-specific theme data
@@ -276,6 +280,7 @@ function QuickPickPage() {
   const [totalTime, setTotalTime] = useState(0);
   const [streak, setStreak] = useState(0);
   const [scoreSubmitted, setScoreSubmitted] = useState(false);
+  const [showExitConfirm, setShowExitConfirm] = useState(false);
   const startTimeRef = useRef<number>(0);
   const [animatedValueA, setAnimatedValueA] = useState(0);
   const [animatedValueB, setAnimatedValueB] = useState(0);
@@ -525,11 +530,19 @@ function QuickPickPage() {
         <div className="fixed top-0 left-0 right-0 z-40 p-4">
           <div className="flex items-center justify-between max-w-md mx-auto">
             {/* Close button */}
-            <Link href={isMultiplayer ? "/multiplayer" : "/"}>
-              <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2 cursor-pointer hover:bg-black/60 transition-colors">
-                <X size={16} className="text-white/60" />
-              </div>
-            </Link>
+            {isMultiplayer ? (
+              <button onClick={() => setShowExitConfirm(true)}>
+                <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2 cursor-pointer hover:bg-black/60 transition-colors">
+                  <X size={16} className="text-white/60" />
+                </div>
+              </button>
+            ) : (
+              <Link href="/">
+                <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2 cursor-pointer hover:bg-black/60 transition-colors">
+                  <X size={16} className="text-white/60" />
+                </div>
+              </Link>
+            )}
 
             {/* Progress dots */}
             <div className="flex gap-1.5">
@@ -766,6 +779,23 @@ function QuickPickPage() {
             </Link>
           )}
           <MilestonePopup />
+        </>
+      )}
+
+      {/* Multiplayer exit confirm */}
+      {isMultiplayer && matchId && (
+        <>
+          <MultiplayerExitConfirm
+            open={showExitConfirm}
+            onStay={() => setShowExitConfirm(false)}
+            onLeave={() => {
+              abandonMatch(matchId);
+              router.push("/multiplayer");
+            }}
+          />
+          {gameState === "playing" && (
+            <MultiplayerAbandonNotice matchId={matchId} opponentName={opponentName} />
+          )}
         </>
       )}
     </main>

@@ -48,9 +48,9 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
   const [activeGloves] = useState(() => { const id = getActive("gloves"); return id ? getGloveDef(id) : null; });
   const [activeHat] = useState(() => { const id = getActiveHat(); return id ? getHatDef(id) : null; });
 
-  const opponentName = match.player1_name.toLowerCase() === myName.toLowerCase()
+  const opponentName = (match.player1_name.toLowerCase() === myName.toLowerCase()
     ? match.player2_name
-    : match.player1_name;
+    : match.player1_name) || "???";
   const isP1 = match.player1_name.toLowerCase() === myName.toLowerCase();
   const gameLabel = GAME_LABELS[match.game as GameType] || match.game;
 
@@ -88,7 +88,7 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
   useEffect(() => {
     if (phase !== "countdown") return;
     if (countdown <= 0) {
-      router.push(`/${match.game}?match=${match.id}&seed=${match.seed}&p=${isP1 ? "1" : "2"}`);
+      router.push(`/${match.game}?match=${match.id}&seed=${match.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponentName)}`);
       return;
     }
     const timer = setTimeout(() => setCountdown((c) => c - 1), 1000);
