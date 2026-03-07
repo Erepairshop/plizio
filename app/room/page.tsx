@@ -1276,10 +1276,12 @@ export default function RoomPage() {
               transition={{ duration: 0.3 }}
               className="w-full h-full flex items-center justify-center"
               style={{
+                // ✅ SIMPLE CSS-BASED ZOOM/PAN
+                // Room3DCanvas renders at 1:1, this wrapper applies transform
                 cursor: zoom > 1 ? "grab" : "default",
                 transform: `translate(${pan.x}px, ${pan.y}px) scale(${zoom})`,
                 transformOrigin: "center center",
-                transition: "none",
+                transition: "none", // no smooth transitions during drag
               }}
             >
               <Room3DCanvas
