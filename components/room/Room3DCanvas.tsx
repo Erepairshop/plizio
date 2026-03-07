@@ -423,37 +423,32 @@ export default function Room3DCanvas({
   // Imperative camera zoom & pan — updated outside Canvas's inner React root so it
   // always reflects the latest React state (no inner-reconciler timing issues).
   const cameraOrthoRef = useRef<THREE.OrthographicCamera | null>(null);
-  const frustumRef = useRef({ left: 0, right: 0, top: 0, bottom: 0 });
 
   useEffect(() => {
     if (!cameraOrthoRef.current) return;
 
     const cam = cameraOrthoRef.current;
-    const zoom = baseZoom * cameraZoom;
-    const original = frustumRef.current;
 
-    // CRITICAL: updateProjectionMatrix() divides frustum by zoom.
-    // So we must multiply by zoom BEFORE updateProjectionMatrix()
-    // to counteract the division and preserve full view:
-    //   cam.left = original.left * zoom
-    //   updateProjectionMatrix() → left / zoom = original.left ✓
-    cam.left = original.left * zoom;
-    cam.right = original.right * zoom;
-    cam.top = original.top * zoom;
-    cam.bottom = original.bottom * zoom;
+    // SOLUTION: Instead of using camera.zoom (which clamps frustum),
+    // adjust camera distance from origin to achieve zoom effect.
+    // Isometric [D, D, D] looking at [0, 0, 0]:
+    // - Greater distance → smaller appearance (zoom out)
+    // - Smaller distance → larger appearance (zoom in)
+    // So: distance = D / cameraZoom
+    const distance = D / cameraZoom;
 
-    // Apply zoom value (this is what updateProjectionMatrix uses)
-    cam.zoom = zoom;
+    // Apply camera position with adjusted distance (isometric)
+    cam.position.set(distance, distance, distance);
 
-    // Apply pan offset to isometric camera position
-    // Isometric [D, D, D] -> pan modifies X and Z in world space
-    const panScale = 0.006;
-    cam.position.x = D - cameraPan.x * panScale;
-    cam.position.z = D - cameraPan.y * panScale;
+    // Apply pan offset AFTER position is set
+    // Pan operates in world space, offset proportionally
+    const panScale = 0.006 / cameraZoom; // pan is relative to zoom level
+    cam.position.x -= cameraPan.x * panScale;
+    cam.position.z -= cameraPan.y * panScale;
 
-    // This divides the frustum by zoom, but we already multiplied by zoom above
+    cam.lookAt(0, 0, 0);
     cam.updateProjectionMatrix();
-  }, [baseZoom, cameraZoom, cameraPan, D]);
+  }, [cameraZoom, cameraPan, D]);
 
   return (
     <Canvas
@@ -464,18 +459,8 @@ export default function Room3DCanvas({
       dpr={[1, 2]}
       onCreated={({ camera }) => {
         cameraOrthoRef.current = camera as THREE.OrthographicCamera;
+        // Initial position already set via camera prop
         cameraOrthoRef.current.lookAt(0, 0, 0);
-        // Save original frustum so zoom doesn't clamp the view
-        const cam = cameraOrthoRef.current;
-        frustumRef.current = {
-          left: cam.left,
-          right: cam.right,
-          top: cam.top,
-          bottom: cam.bottom,
-        };
-        // Apply initial zoom in case cameraZoom > 1 on mount
-        cam.zoom = baseZoom * cameraZoom;
-        cam.updateProjectionMatrix();
       }}
     >
       <RoomScene
