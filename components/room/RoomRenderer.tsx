@@ -16,6 +16,14 @@ export interface PlacedFurniture {
   rotation?: 0 | 1 | 2 | 3;
 }
 
+interface GhostFurniture {
+  furnitureId: string;
+  gridX: number;
+  gridY: number;
+  rotation: number;
+  valid: boolean;
+}
+
 interface RoomRendererProps {
   roomType?: string;
   gridW?: number;
@@ -28,6 +36,7 @@ interface RoomRendererProps {
   selectedIndex?: number | null;
   onFurnitureClick?: (index: number) => void;
   onFurnitureLongPress?: (index: number) => void;
+  ghost?: GhostFurniture | null;
 }
 
 export default function RoomRenderer({
@@ -42,6 +51,7 @@ export default function RoomRenderer({
   selectedIndex = null,
   onFurnitureClick,
   onFurnitureLongPress,
+  ghost = null,
 }: RoomRendererProps) {
   const longPressTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const longPressOccurredRef = useRef(false);
@@ -211,6 +221,43 @@ export default function RoomRenderer({
             </g>
           );
         })}
+
+      {/* ─── GHOST PREVIEW (drag & drop előnézet) ─── */}
+      {ghost && (() => {
+        const fDef = getFurnitureDef(ghost.furnitureId);
+        const GhostComponent = FURNITURE_COMPONENTS[ghost.furnitureId];
+        if (!fDef || !GhostComponent) return null;
+        const { x: gx, y: gy } = gridToScreen(ghost.gridX, ghost.gridY, originX, originY);
+        const isMirrored = ghost.rotation === 1 || ghost.rotation === 3;
+        const rotTransform = isMirrored ? `translate(${2 * gx}, 0) scale(-1, 1)` : undefined;
+        const hw = TILE_W / 2;
+        const hh = TILE_H / 2;
+        const fillColor = ghost.valid ? "rgba(0,220,100,0.22)" : "rgba(255,60,60,0.22)";
+        const strokeColor = ghost.valid ? "rgba(0,220,100,0.7)" : "rgba(255,60,60,0.7)";
+        return (
+          <>
+            {/* Cél cellák kiemelése */}
+            {Array.from({ length: fDef.gridW }, (_, wx) =>
+              Array.from({ length: fDef.gridH }, (_, wy) => {
+                const { x: tx, y: ty } = gridToScreen(ghost.gridX + wx, ghost.gridY + wy, originX, originY);
+                return (
+                  <path
+                    key={`gh-${wx}-${wy}`}
+                    d={`M ${tx},${ty - hh} L ${tx + hw},${ty} L ${tx},${ty + hh} L ${tx - hw},${ty} Z`}
+                    fill={fillColor}
+                    stroke={strokeColor}
+                    strokeWidth={0.8}
+                  />
+                );
+              })
+            )}
+            {/* Ghost bútor — félátlátszó */}
+            <g transform={rotTransform} opacity={0.55} style={{ pointerEvents: "none" }}>
+              <GhostComponent x={gx} y={gy} />
+            </g>
+          </>
+        );
+      })()}
     </IsoRoom>
   );
 }

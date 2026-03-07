@@ -475,6 +475,10 @@ export default function RoomPage() {
   const [selectedFurnitureId, setSelectedFurnitureId] = useState<string | null>(null);
   const [selectedPlacedIdx, setSelectedPlacedIdx] = useState<number | null>(null);
   const [movingIdx, setMovingIdx] = useState<number | null>(null);
+  const [ghostPos, setGhostPos] = useState<{ gx: number; gy: number } | null>(null);
+  // furnitureDragActiveRef: true = hosszú nyomással indított drag (auto-place on release)
+  //                          false = Move gombbal indított mozgás (kattintásra helyez)
+  const furnitureDragActiveRef = useRef(false);
   const [windowAlpha, setWindowAlpha] = useState(0.3);
   const [confirmBuy, setConfirmBuy] = useState<{ type: "room" | "furniture"; id: string; price: number } | null>(null);
   const [toast, setToast] = useState<string | null>(null);
@@ -620,6 +624,21 @@ export default function RoomPage() {
     }
   }, [zoom, pan]);
 
+  // Client koordináta → grid (pointer/touch eseményekhez, ref alapú, nem React.MouseEvent)
+  const clientToGrid = useCallback((clientX: number, clientY: number) => {
+    const svg = roomContainerRef.current?.querySelector("svg");
+    if (!svg) return null;
+    const rect = svg.getBoundingClientRect();
+    const vb = svg.viewBox.baseVal;
+    const svgX = (clientX - rect.left) * (vb.width / rect.width);
+    const svgY = (clientY - rect.top) * (vb.height / rect.height);
+    const oX = roomSizeRef.current.gridH * 24 + 20;
+    const oY = 120;
+    const relX = svgX - oX;
+    const relY = svgY - oY;
+    return { gx: (relX / 24 + relY / 12) / 2, gy: (relY / 12 - relX / 24) / 2 };
+  }, []);
+
   const handleTouchMove = useCallback((e: React.TouchEvent) => {
     if (e.touches.length === 2) {
       e.preventDefault();
@@ -631,31 +650,97 @@ export default function RoomPage() {
         setZoom(z => Math.min(Math.max(z * scale, MIN_ZOOM), MAX_ZOOM));
       }
       lastPinchDistRef.current = dist;
-    } else if (e.touches.length === 1 && zoom > 1) {
-      const dx = e.touches[0].clientX - panStartRef.current.x;
-      const dy = e.touches[0].clientY - panStartRef.current.y;
-      const moved = Math.sqrt(dx * dx + dy * dy);
-      // Only start panning after moving beyond threshold
-      if (moved > DRAG_THRESHOLD) {
-        isPanningRef.current = true;
-        didDragRef.current = true;
-        const mp = getMaxPan();
-        setPan({
-          x: Math.min(Math.max(panStartRef.current.panX + dx, -mp.x), mp.x),
-          y: Math.min(Math.max(panStartRef.current.panY + dy, -mp.y), mp.y),
-        });
+    } else if (e.touches.length === 1) {
+      const touch = e.touches[0];
+
+      // BÚTOR DRAG MÓD (hosszú nyomás után)
+      if (furnitureDragActiveRef.current && movingIdx !== null) {
+        const fId = furniture[movingIdx]?.furnitureId;
+        if (fId) {
+          const fDef = getFurnitureDef(fId);
+          if (fDef) {
+            const g = clientToGrid(touch.clientX, touch.clientY);
+            if (g) {
+              const rs = roomSizeRef.current;
+              setGhostPos({
+                gx: Math.max(0, Math.min(rs.gridW - fDef.gridW, Math.round(g.gx))),
+                gy: Math.max(0, Math.min(rs.gridH - fDef.gridH, Math.round(g.gy))),
+              });
+              didDragRef.current = true;
+            }
+          }
+        }
+        return; // nem pannel drag közben
+      }
+
+      // ELHELYEZÉSI ELŐNÉZET (új bútor kiválasztva)
+      if (editMode && selectedFurnitureId) {
+        const fDef = getFurnitureDef(selectedFurnitureId);
+        if (fDef) {
+          const g = clientToGrid(touch.clientX, touch.clientY);
+          if (g) {
+            const rs = roomSizeRef.current;
+            setGhostPos({
+              gx: Math.max(0, Math.min(rs.gridW - fDef.gridW, Math.round(g.gx))),
+              gy: Math.max(0, Math.min(rs.gridH - fDef.gridH, Math.round(g.gy))),
+            });
+          }
+        }
+      }
+
+      // PAN (csak zoom > 1 esetén, és nem bútor drag közben)
+      if (zoom > 1) {
+        const dx = touch.clientX - panStartRef.current.x;
+        const dy = touch.clientY - panStartRef.current.y;
+        const moved = Math.sqrt(dx * dx + dy * dy);
+        if (moved > DRAG_THRESHOLD) {
+          isPanningRef.current = true;
+          didDragRef.current = true;
+          const mp = getMaxPan();
+          setPan({
+            x: Math.min(Math.max(panStartRef.current.panX + dx, -mp.x), mp.x),
+            y: Math.min(Math.max(panStartRef.current.panY + dy, -mp.y), mp.y),
+          });
+        }
       }
     }
-  }, [zoom]);
+  }, [zoom, editMode, selectedFurnitureId, movingIdx, furniture, clientToGrid, getMaxPan]);
 
   const handleTouchEnd = useCallback(() => {
     isPanningRef.current = false;
     lastPinchDistRef.current = 0;
+    // Drag-to-place: ujj felengedésekor elhelyezi a bútort
+    if (furnitureDragActiveRef.current && movingIdx !== null && ghostPos) {
+      furnitureDragActiveRef.current = false;
+      const moving = furniture[movingIdx];
+      if (moving) {
+        const fDef = getFurnitureDef(moving.furnitureId);
+        if (fDef) {
+          const { gx, gy } = ghostPos;
+          const rs = roomSizeRef.current;
+          const inBounds = gx >= 0 && gy >= 0 && gx + fDef.gridW <= rs.gridW && gy + fDef.gridH <= rs.gridH;
+          const noOverlap = !furniture.some((p, i) => {
+            if (i === movingIdx) return false;
+            const pd = getFurnitureDef(p.furnitureId);
+            return pd ? (gx < p.gridX + pd.gridW && gx + fDef.gridW > p.gridX && gy < p.gridY + pd.gridH && gy + fDef.gridH > p.gridY) : false;
+          });
+          if (inBounds && noOverlap) {
+            const newFurniture = [...furniture];
+            newFurniture[movingIdx] = { ...moving, gridX: gx, gridY: gy };
+            setFurniture(newFurniture);
+            saveRoomFurniture(ROOMS[currentRoomIdx].id, newFurniture);
+            setMovingIdx(null);
+            setGhostPos(null);
+          }
+        }
+      }
+      furnitureDragActiveRef.current = false;
+    }
     setZoom(z => {
       if (z < MIN_ZOOM) { setPan({ x: 0, y: 0 }); return MIN_ZOOM; }
       return z;
     });
-  }, []);
+  }, [movingIdx, furniture, ghostPos, currentRoomIdx]);
 
   // Mouse drag pan (desktop) — with drag threshold
   const handleMouseDown = useCallback((e: React.MouseEvent) => {
@@ -668,22 +753,70 @@ export default function RoomPage() {
   }, [zoom, pan, editMode, selectedFurnitureId]);
 
   const handleMouseMove = useCallback((e: React.MouseEvent) => {
+    // Ghost preview frissítése edit módban (bútor elhelyezés / mozgatás)
+    if (editMode) {
+      const fId = selectedFurnitureId ?? (movingIdx !== null ? furniture[movingIdx]?.furnitureId : null);
+      if (fId) {
+        const fDef = getFurnitureDef(fId);
+        if (fDef) {
+          const g = clientToGrid(e.clientX, e.clientY);
+          if (g) {
+            const rs = roomSizeRef.current;
+            setGhostPos({
+              gx: Math.max(0, Math.min(rs.gridW - fDef.gridW, Math.round(g.gx))),
+              gy: Math.max(0, Math.min(rs.gridH - fDef.gridH, Math.round(g.gy))),
+            });
+          }
+        }
+      } else {
+        setGhostPos(null);
+      }
+    }
+
+    // Pan logika (változatlan)
     if (!isPanningRef.current || zoom <= 1) return;
     const dx = e.clientX - panStartRef.current.x;
     const dy = e.clientY - panStartRef.current.y;
     const moved = Math.sqrt(dx * dx + dy * dy);
-    if (moved <= DRAG_THRESHOLD) return; // not a drag yet
+    if (moved <= DRAG_THRESHOLD) return;
     didDragRef.current = true;
     const mp = getMaxPan();
     setPan({
       x: Math.min(Math.max(panStartRef.current.panX + dx, -mp.x), mp.x),
       y: Math.min(Math.max(panStartRef.current.panY + dy, -mp.y), mp.y),
     });
-  }, [zoom, getMaxPan]);
+  }, [zoom, getMaxPan, editMode, selectedFurnitureId, movingIdx, furniture, clientToGrid]);
 
   const handleMouseUp = useCallback(() => {
     isPanningRef.current = false;
-  }, []);
+    // Drag-to-place: ha hosszú nyomással drag aktív, az egér felengedésekor helyezi el
+    if (furnitureDragActiveRef.current && movingIdx !== null && ghostPos) {
+      furnitureDragActiveRef.current = false;
+      const moving = furniture[movingIdx];
+      if (moving) {
+        const fDef = getFurnitureDef(moving.furnitureId);
+        if (fDef) {
+          const { gx, gy } = ghostPos;
+          const rs = roomSizeRef.current;
+          const inBounds = gx >= 0 && gy >= 0 && gx + fDef.gridW <= rs.gridW && gy + fDef.gridH <= rs.gridH;
+          const noOverlap = !furniture.some((p, i) => {
+            if (i === movingIdx) return false;
+            const pd = getFurnitureDef(p.furnitureId);
+            return pd ? (gx < p.gridX + pd.gridW && gx + fDef.gridW > p.gridX && gy < p.gridY + pd.gridH && gy + fDef.gridH > p.gridY) : false;
+          });
+          if (inBounds && noOverlap) {
+            const newFurniture = [...furniture];
+            newFurniture[movingIdx] = { ...moving, gridX: gx, gridY: gy };
+            setFurniture(newFurniture);
+            saveRoomFurniture(ROOMS[currentRoomIdx].id, newFurniture);
+            setMovingIdx(null);
+            setGhostPos(null);
+          }
+        }
+      }
+      furnitureDragActiveRef.current = false;
+    }
+  }, [movingIdx, furniture, ghostPos, currentRoomIdx]);
 
   // ── Native wheel & touchmove listeners (passive:false szükséges, React passzív listenereket regisztrál) ──
   useEffect(() => {
@@ -742,6 +875,13 @@ export default function RoomPage() {
       y: Math.min(Math.max(p.y, -maxY), maxY),
     }));
   }, [zoom]);
+
+  // Ghost törlése ha nincs aktív elhelyezési mód
+  useEffect(() => {
+    if (!editMode || (!selectedFurnitureId && movingIdx === null)) {
+      setGhostPos(null);
+    }
+  }, [editMode, selectedFurnitureId, movingIdx]);
 
   // Reset zoom and avatar position on room change
   useEffect(() => {
@@ -981,12 +1121,21 @@ export default function RoomPage() {
     saveRoomFurniture(currentRoom.id, newFurniture);
   };
 
-  // Start moving furniture
+  // Start moving furniture via Move button (click-to-place mód, nem drag)
   const handleStartMove = (index: number) => {
+    furnitureDragActiveRef.current = false;
     setMovingIdx(index);
     setSelectedFurnitureId(null);
     setSelectedPlacedIdx(null);
   };
+
+  // Start moving furniture via long press (drag-to-place mód)
+  const handleLongPressDrag = useCallback((index: number) => {
+    furnitureDragActiveRef.current = true;
+    setMovingIdx(index);
+    setSelectedFurnitureId(null);
+    setSelectedPlacedIdx(null);
+  }, []);
 
   // Remove furniture
   const handleRemoveFurniture = (index: number) => {
@@ -1309,7 +1458,28 @@ export default function RoomPage() {
                 editMode={editMode}
                 selectedIndex={selectedPlacedIdx}
                 onFurnitureClick={handleFurnitureClick}
-                onFurnitureLongPress={editMode ? handleStartMove : undefined}
+                onFurnitureLongPress={editMode ? handleLongPressDrag : undefined}
+                ghost={editMode && ghostPos ? (() => {
+                  const fId = selectedFurnitureId ?? (movingIdx !== null ? furniture[movingIdx]?.furnitureId : null);
+                  if (!fId) return null;
+                  const fDef = getFurnitureDef(fId);
+                  if (!fDef) return null;
+                  const { gx, gy } = ghostPos;
+                  const rs = roomSize;
+                  const inBounds = gx >= 0 && gy >= 0 && gx + fDef.gridW <= rs.gridW && gy + fDef.gridH <= rs.gridH;
+                  const noOverlap = !furniture.some((p, i) => {
+                    if (i === movingIdx) return false;
+                    const pd = getFurnitureDef(p.furnitureId);
+                    return pd ? (gx < p.gridX + pd.gridW && gx + fDef.gridW > p.gridX && gy < p.gridY + pd.gridH && gy + fDef.gridH > p.gridY) : false;
+                  });
+                  return {
+                    furnitureId: fId,
+                    gridX: gx,
+                    gridY: gy,
+                    rotation: movingIdx !== null ? (furniture[movingIdx]?.rotation || 0) : 0,
+                    valid: inBounds && noOverlap,
+                  };
+                })() : null}
               />
             </motion.div>
 
