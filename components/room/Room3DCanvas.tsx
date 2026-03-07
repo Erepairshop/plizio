@@ -14,14 +14,22 @@ const FLOOR_COLORS: Record<string, [string, string]> = {
   bathroom: ["#7AAEC4", "#5A8EA4"],
   garden:   ["#4A8B3A", "#3A7B2A"],
 };
+// Brighter wall colors — visible against dark background
 const WALL_COLORS: Record<string, string> = {
-  bedroom:  "#2A1F3D",
-  living:   "#3D1F2A",
-  kitchen:  "#1F3D2A",
-  bathroom: "#1F2D3D",
+  bedroom:  "#4A3472",
+  living:   "#6B3050",
+  kitchen:  "#2E6040",
+  bathroom: "#2A4A78",
   garden:   "none",
 };
-const WALL_H = 2.2; // world units
+const WALL_TRIM: Record<string, string> = {
+  bedroom:  "#7A5AB0",
+  living:   "#9A4A70",
+  kitchen:  "#4A8A60",
+  bathroom: "#4A6AA8",
+  garden:   "#4A8B3A",
+};
+const WALL_H = 3.0; // world units
 
 // ─── Ghost highlight ───────────────────────────────────────────────────────────
 interface GhostData {
@@ -243,7 +251,8 @@ function RoomScene({
   const { raycaster, camera } = useThree();
 
   const colors = FLOOR_COLORS[roomType] || FLOOR_COLORS.bedroom;
-  const wallColor = WALL_COLORS[roomType] || WALL_COLORS.bedroom;
+  const wallColor = WALL_COLORS[roomType] ?? WALL_COLORS.bedroom;
+  const trimColor = WALL_TRIM[roomType] ?? WALL_TRIM.bedroom;
   const hasWalls = wallColor !== "none";
 
   const getGridFromEvent = useCallback((e: import("@react-three/fiber").ThreeEvent<PointerEvent | MouseEvent>) => {
@@ -266,10 +275,10 @@ function RoomScene({
 
   return (
     <>
-      {/* Lighting */}
-      <ambientLight intensity={1.0} />
-      <directionalLight position={[-4, 8, 4]} intensity={1.1} castShadow={false} />
-      <directionalLight position={[4, 4, -4]} intensity={0.35} />
+      {/* Lighting — low ambient so directional creates visible depth shading */}
+      <ambientLight intensity={0.55} />
+      <directionalLight position={[-4, 10, 4]} intensity={1.3} castShadow={false} />
+      <directionalLight position={[6, 4, -4]} intensity={0.6} />
 
       {/* Floor */}
       <mesh
@@ -295,20 +304,54 @@ function RoomScene({
         )
       )}
 
-      {/* Left wall (along Z axis, at x = -gridW/2) */}
+      {/* Left wall — visible inner face at x = -gridW/2, runs along Z */}
       {hasWalls && (
-        <mesh position={[-gridW / 2, WALL_H / 2, 0]}>
-          <boxGeometry args={[0.12, WALL_H, gridH]} />
-          <meshLambertMaterial color={wallColor} />
-        </mesh>
+        <group>
+          <mesh position={[-gridW / 2 - 0.05, WALL_H / 2, 0]}>
+            <boxGeometry args={[0.30, WALL_H, gridH]} />
+            <meshLambertMaterial color={wallColor} />
+          </mesh>
+          {/* Trim strip at top */}
+          <mesh position={[-gridW / 2 - 0.05, WALL_H - 0.08, 0]}>
+            <boxGeometry args={[0.32, 0.16, gridH + 0.02]} />
+            <meshLambertMaterial color={trimColor} />
+          </mesh>
+          {/* Baseboard at bottom */}
+          <mesh position={[-gridW / 2 - 0.05, 0.08, 0]}>
+            <boxGeometry args={[0.32, 0.16, gridH + 0.02]} />
+            <meshLambertMaterial color={trimColor} />
+          </mesh>
+          {/* Window on left wall (center) */}
+          <mesh position={[-gridW / 2 + 0.01, WALL_H * 0.6, 0]}>
+            <boxGeometry args={[0.05, WALL_H * 0.35, gridH * 0.35]} />
+            <meshLambertMaterial color="#C8E8F8" />
+          </mesh>
+        </group>
       )}
 
-      {/* Back wall (along X axis, at z = -gridH/2) */}
+      {/* Back wall — visible inner face at z = -gridH/2, runs along X */}
       {hasWalls && (
-        <mesh position={[0, WALL_H / 2, -gridH / 2]}>
-          <boxGeometry args={[gridW + 0.12, WALL_H, 0.12]} />
-          <meshLambertMaterial color={wallColor} />
-        </mesh>
+        <group>
+          <mesh position={[0, WALL_H / 2, -gridH / 2 - 0.05]}>
+            <boxGeometry args={[gridW, WALL_H, 0.30]} />
+            <meshLambertMaterial color={wallColor} />
+          </mesh>
+          {/* Trim strip at top */}
+          <mesh position={[0, WALL_H - 0.08, -gridH / 2 - 0.05]}>
+            <boxGeometry args={[gridW + 0.02, 0.16, 0.32]} />
+            <meshLambertMaterial color={trimColor} />
+          </mesh>
+          {/* Baseboard at bottom */}
+          <mesh position={[0, 0.08, -gridH / 2 - 0.05]}>
+            <boxGeometry args={[gridW + 0.02, 0.16, 0.32]} />
+            <meshLambertMaterial color={trimColor} />
+          </mesh>
+          {/* Window on back wall (center) */}
+          <mesh position={[0, WALL_H * 0.6, -gridH / 2 + 0.01]}>
+            <boxGeometry args={[gridW * 0.35, WALL_H * 0.35, 0.05]} />
+            <meshLambertMaterial color="#C8E8F8" />
+          </mesh>
+        </group>
       )}
 
       {/* Grid overlay */}
@@ -366,8 +409,9 @@ export default function Room3DCanvas({
   avatarGridPos,
   onAvatarCanvasPos,
 }: Room3DCanvasProps) {
-  const D = Math.max(gridW, gridH) * 1.4;
-  const zoom = 280 / Math.max(gridW, gridH);
+  const D = Math.max(gridW, gridH) * 1.6;
+  // Smaller zoom = wider view = room + walls all visible
+  const zoom = 220 / Math.max(gridW, gridH);
 
   return (
     <Canvas

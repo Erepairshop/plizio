@@ -1279,7 +1279,7 @@ export default function RoomPage() {
                 transform: `scale(${zoom}) translate(${pan.x / zoom}px, ${pan.y / zoom}px)`,
                 transformOrigin: "center center",
                 cursor: zoom > 1 ? "grab" : "default",
-                aspectRatio: "1 / 0.85",
+                aspectRatio: "4 / 3",
               }}
             >
               <Room3DCanvas
