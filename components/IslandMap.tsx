@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Link from "next/link";
-import { ChevronLeft, Flame, Star, Layers, type LucideIcon } from "lucide-react";
+import { ChevronLeft, type LucideIcon } from "lucide-react";
 
 /* ------------------------------------------------------------------ */
 /* Types                                                               */
@@ -34,10 +34,100 @@ interface IslandMapProps {
 }
 
 /* ------------------------------------------------------------------ */
-/* Colour constants                                                    */
+/* Constants                                                           */
 /* ------------------------------------------------------------------ */
 const LETTER_COLORS = ["#FF2D78", "#00D4FF", "#00FF88", "#FFD700", "#B44DFF", "#FF2D78"];
 const LETTERS = ["P", "L", "I", "Z", "I", "O"];
+const R = 40; // planet radius — smaller for more room
+
+/* ------------------------------------------------------------------ */
+/* Per-category planet surface details                                 */
+/* ------------------------------------------------------------------ */
+interface PlanetTheme {
+  /** extra SVG elements inside the planet circle */
+  details: (cx: number, cy: number, r: number, color: string) => React.ReactNode;
+  /** ring colour override (optional) */
+  ring?: string;
+}
+
+const PLANET_THEMES: Record<string, PlanetTheme> = {
+  /* Quiz & Reflex — electric/lightning feel */
+  quizreflex: {
+    details: (cx, cy, r, color) => (
+      <g>
+        {/* lightning bolt */}
+        <path
+          d={`M ${cx - 4},${cy - 14} L ${cx + 2},${cy - 2} L ${cx - 2},${cy - 2} L ${cx + 4},${cy + 14} L ${cx - 1},${cy + 2} L ${cx + 3},${cy + 2} Z`}
+          fill={color} opacity={0.3}
+        />
+        {/* energy ring */}
+        <ellipse cx={cx} cy={cy} rx={r * 0.7} ry={r * 0.25} fill="none" stroke={color} strokeWidth={0.8} opacity={0.2}
+          transform={`rotate(-15, ${cx}, ${cy})`}
+        />
+      </g>
+    ),
+  },
+  /* Adventure — mountain/terrain */
+  adventure: {
+    details: (cx, cy, r, color) => (
+      <g>
+        {/* mountain peaks */}
+        <path d={`M ${cx - 14},${cy + 8} L ${cx - 6},${cy - 10} L ${cx + 2},${cy + 8} Z`} fill={color} opacity={0.25} />
+        <path d={`M ${cx},${cy + 8} L ${cx + 8},${cy - 6} L ${cx + 16},${cy + 8} Z`} fill={color} opacity={0.18} />
+        {/* snow cap */}
+        <path d={`M ${cx - 8},${cy - 6} L ${cx - 6},${cy - 10} L ${cx - 4},${cy - 6} Z`} fill="white" opacity={0.3} />
+      </g>
+    ),
+  },
+  /* Brain — neural/synaptic pattern */
+  brain: {
+    details: (cx, cy, r, color) => (
+      <g>
+        {/* neural nodes */}
+        {[
+          { dx: -10, dy: -8 }, { dx: 8, dy: -12 }, { dx: -6, dy: 10 },
+          { dx: 12, dy: 6 }, { dx: 0, dy: 0 },
+        ].map((n, i) => (
+          <circle key={i} cx={cx + n.dx} cy={cy + n.dy} r={2.5} fill={color} opacity={0.3} />
+        ))}
+        {/* connecting lines */}
+        <line x1={cx - 10} y1={cy - 8} x2={cx} y2={cy} stroke={color} strokeWidth={0.6} opacity={0.2} />
+        <line x1={cx + 8} y1={cy - 12} x2={cx} y2={cy} stroke={color} strokeWidth={0.6} opacity={0.2} />
+        <line x1={cx} y1={cy} x2={cx - 6} y2={cy + 10} stroke={color} strokeWidth={0.6} opacity={0.2} />
+        <line x1={cx} y1={cy} x2={cx + 12} y2={cy + 6} stroke={color} strokeWidth={0.6} opacity={0.2} />
+      </g>
+    ),
+  },
+  /* Logic — grid/puzzle pattern */
+  logic: {
+    details: (cx, cy, r, color) => (
+      <g>
+        {/* mini grid */}
+        {[-8, 0, 8].map((dx) =>
+          [-8, 0, 8].map((dy) => (
+            <rect
+              key={`${dx}-${dy}`}
+              x={cx + dx - 2.5} y={cy + dy - 2.5}
+              width={5} height={5} rx={1}
+              fill={color}
+              opacity={(dx === 0 && dy === 0) ? 0.35 : 0.12}
+            />
+          ))
+        )}
+      </g>
+    ),
+  },
+};
+
+/* Fallback for unknown categories */
+const DEFAULT_THEME: PlanetTheme = {
+  details: (cx, cy, _r, color) => (
+    <g>
+      <circle cx={cx - 8} cy={cy - 6} r={4} fill={color} opacity={0.12} />
+      <circle cx={cx + 6} cy={cy + 4} r={3} fill={color} opacity={0.1} />
+    </g>
+  ),
+};
 
 /* ------------------------------------------------------------------ */
 /* Ocean background                                                    */
@@ -46,27 +136,31 @@ function OceanBg() {
   return (
     <g>
       <rect x={0} y={0} width={800} height={900} fill="#070e1a" />
-      {/* depth bands */}
-      <ellipse cx={400} cy={850} rx={520} ry={200} fill="#0b1729" opacity={0.7} />
-      <ellipse cx={400} cy={900} rx={500} ry={160} fill="#0e1e36" opacity={0.5} />
-      {/* subtle stars in the top area */}
+      <ellipse cx={400} cy={860} rx={520} ry={200} fill="#0b1729" opacity={0.6} />
+      {/* stars */}
       {[
-        { x: 60, y: 30, r: 1.2 }, { x: 180, y: 18, r: 0.8 }, { x: 320, y: 40, r: 1 },
-        { x: 500, y: 22, r: 0.7 }, { x: 650, y: 35, r: 1.1 }, { x: 740, y: 15, r: 0.9 },
-        { x: 120, y: 55, r: 0.6 }, { x: 420, y: 10, r: 1.3 }, { x: 580, y: 50, r: 0.5 },
+        { x: 50, y: 25, r: 1.1 }, { x: 160, y: 15, r: 0.7 }, { x: 310, y: 38, r: 0.9 },
+        { x: 490, y: 20, r: 0.6 }, { x: 640, y: 32, r: 1 }, { x: 740, y: 12, r: 0.8 },
+        { x: 100, y: 52, r: 0.5 }, { x: 410, y: 8, r: 1.2 }, { x: 570, y: 48, r: 0.4 },
+        { x: 700, y: 55, r: 0.6 }, { x: 250, y: 60, r: 0.7 },
       ].map((s, i) => (
-        <circle key={i} cx={s.x} cy={s.y} r={s.r} fill="rgba(200,220,255,0.3)" />
+        <motion.circle
+          key={i} cx={s.x} cy={s.y} r={s.r} fill="rgba(200,220,255,0.35)"
+          animate={{ opacity: [0.2, 0.5, 0.2] }}
+          transition={{ duration: 3 + i * 0.7, repeat: Infinity, ease: "easeInOut" }}
+        />
       ))}
+      {/* nebula glow */}
+      <ellipse cx={200} cy={400} rx={180} ry={120} fill="rgba(0,100,255,0.02)" />
+      <ellipse cx={600} cy={600} rx={160} ry={100} fill="rgba(180,77,255,0.015)" />
       {/* wave lines */}
-      {[260, 420, 560, 700, 800].map((y, i) => (
+      {[300, 450, 600, 740].map((y, i) => (
         <motion.path
           key={i}
-          d={`M -40,${y} Q 100,${y - 6} 200,${y} T 400,${y} T 600,${y} T 840,${y}`}
-          fill="none"
-          stroke="rgba(80,180,255,0.04)"
-          strokeWidth={1.2}
-          animate={{ x: [0, i % 2 === 0 ? 25 : -25, 0] }}
-          transition={{ duration: 8 + i * 2, repeat: Infinity, ease: "easeInOut" }}
+          d={`M -40,${y} Q 100,${y - 5} 200,${y} T 400,${y} T 600,${y} T 840,${y}`}
+          fill="none" stroke="rgba(80,180,255,0.03)" strokeWidth={1}
+          animate={{ x: [0, i % 2 === 0 ? 20 : -20, 0] }}
+          transition={{ duration: 10 + i * 2, repeat: Infinity, ease: "easeInOut" }}
         />
       ))}
     </g>
@@ -74,9 +168,9 @@ function OceanBg() {
 }
 
 /* ------------------------------------------------------------------ */
-/* Single Island                                                       */
+/* Planet (was "Island")                                               */
 /* ------------------------------------------------------------------ */
-function IslandShape({
+function Planet({
   island,
   selected,
   onClick,
@@ -85,59 +179,61 @@ function IslandShape({
   selected: boolean;
   onClick: () => void;
 }) {
-  const { cx, cy, color, glow, label } = island;
-  const r = 58;
+  const { cx, cy, color, glow, label, id } = island;
+  const theme = PLANET_THEMES[id] ?? DEFAULT_THEME;
 
   return (
     <g className="cursor-pointer" onClick={onClick} role="button" tabIndex={0} aria-label={label}>
-      {/* outer glow pulse */}
+      {/* outer glow */}
       <motion.circle
-        cx={cx} cy={cy} r={r + 20}
+        cx={cx} cy={cy} r={R + 14}
         fill="none" stroke={glow}
-        strokeWidth={selected ? 2.5 : 1}
-        opacity={selected ? 0.7 : 0.15}
-        animate={{ r: selected ? r + 26 : r + 20, opacity: selected ? 0.7 : 0.15 }}
+        strokeWidth={selected ? 2 : 0.8}
+        opacity={selected ? 0.6 : 0.12}
+        animate={{ r: selected ? R + 18 : R + 14, opacity: selected ? 0.6 : 0.12 }}
         transition={{ duration: 0.4 }}
       />
 
-      {/* gradient fill */}
+      {/* atmosphere glow */}
       <defs>
-        <radialGradient id={`ig-${island.id}`} cx="40%" cy="35%">
-          <stop offset="0%" stopColor={color} stopOpacity={0.4} />
-          <stop offset="60%" stopColor={color} stopOpacity={0.15} />
+        <radialGradient id={`pg-${id}`} cx="35%" cy="30%">
+          <stop offset="0%" stopColor={color} stopOpacity={0.45} />
+          <stop offset="50%" stopColor={color} stopOpacity={0.18} />
           <stop offset="100%" stopColor={color} stopOpacity={0.03} />
         </radialGradient>
       </defs>
 
+      {/* planet body */}
       <motion.circle
-        cx={cx} cy={cy} r={r}
-        fill={`url(#ig-${island.id})`}
-        stroke={color} strokeWidth={1.5} strokeOpacity={0.25}
-        whileHover={{ scale: 1.08 }}
+        cx={cx} cy={cy} r={R}
+        fill={`url(#pg-${id})`}
+        stroke={color} strokeWidth={1.2} strokeOpacity={0.2}
+        whileHover={{ scale: 1.1 }}
         transition={{ type: "spring", stiffness: 300 }}
       />
 
-      {/* terrain dots */}
-      {[
-        { dx: -16, dy: -20, s: 5 }, { dx: 10, dy: -14, s: 7 },
-        { dx: -6, dy: 6, s: 4 }, { dx: 18, dy: 12, s: 6 }, { dx: -22, dy: 3, s: 3 },
-      ].map((d, i) => (
-        <circle key={i} cx={cx + d.dx} cy={cy + d.dy} r={d.s} fill={color} opacity={0.1 + i * 0.02} />
-      ))}
+      {/* category-specific surface details */}
+      {theme.details(cx, cy, R, color)}
 
-      {/* label */}
+      {/* highlight arc (top-left shine) */}
+      <path
+        d={`M ${cx - R * 0.5},${cy - R * 0.7} A ${R * 0.8},${R * 0.8} 0 0,1 ${cx + R * 0.3},${cy - R * 0.8}`}
+        fill="none" stroke="rgba(255,255,255,0.12)" strokeWidth={1.5} strokeLinecap="round"
+      />
+
+      {/* label below */}
       <text
-        x={cx} y={cy + r + 16}
+        x={cx} y={cy + R + 14}
         textAnchor="middle" fill={color}
-        fontSize={10} fontWeight={700} letterSpacing={1.5}
-        style={{ textTransform: "uppercase" as const, filter: `drop-shadow(0 0 4px ${glow})` }}
+        fontSize={9} fontWeight={700} letterSpacing={1.2}
+        style={{ textTransform: "uppercase" as const, filter: `drop-shadow(0 0 3px ${glow})` }}
       >
         {label}
       </text>
 
-      {/* game count */}
-      <circle cx={cx + r - 6} cy={cy - r + 6} r={9} fill={color} opacity={0.85} />
-      <text x={cx + r - 6} y={cy - r + 10} textAnchor="middle" fill="#fff" fontSize={9} fontWeight={800}>
+      {/* game count badge */}
+      <circle cx={cx + R - 4} cy={cy - R + 4} r={8} fill={color} opacity={0.85} />
+      <text x={cx + R - 4} y={cy - R + 7.5} textAnchor="middle" fill="#fff" fontSize={8} fontWeight={800}>
         {island.games.length}
       </text>
     </g>
@@ -145,21 +241,21 @@ function IslandShape({
 }
 
 /* ------------------------------------------------------------------ */
-/* Connecting paths                                                    */
+/* Orbit paths between planets                                         */
 /* ------------------------------------------------------------------ */
-function ConnectionPaths({ islands }: { islands: Island[] }) {
+function OrbitPaths({ islands }: { islands: Island[] }) {
   if (islands.length < 2) return null;
   return (
     <g>
       {islands.slice(0, -1).map((a, i) => {
         const b = islands[i + 1];
-        const mx = (a.cx + b.cx) / 2 + (i % 2 === 0 ? 40 : -40);
+        const mx = (a.cx + b.cx) / 2 + (i % 2 === 0 ? 35 : -35);
         const my = (a.cy + b.cy) / 2;
         return (
           <motion.path
             key={i}
             d={`M ${a.cx},${a.cy} Q ${mx},${my} ${b.cx},${b.cy}`}
-            fill="none" stroke="rgba(255,255,255,0.06)" strokeWidth={1.5} strokeDasharray="5 7"
+            fill="none" stroke="rgba(255,255,255,0.05)" strokeWidth={1} strokeDasharray="4 6"
             initial={{ pathLength: 0 }}
             animate={{ pathLength: 1 }}
             transition={{ duration: 1.5, delay: 0.5 + i * 0.2 }}
@@ -194,8 +290,8 @@ function GamePanel({ island, onClose }: { island: Island; onClose: () => void })
         <div
           className="rounded-2xl border p-5 backdrop-blur-xl"
           style={{
-            background: `linear-gradient(135deg, ${island.color}12, #0a0a1af0)`,
-            borderColor: `${island.color}25`,
+            background: `linear-gradient(135deg, ${island.color}10, #0a0a1af0)`,
+            borderColor: `${island.color}20`,
           }}
         >
           <div className="flex items-center gap-3 mb-4">
@@ -246,7 +342,6 @@ export default function IslandMap({ islands, username, streak, specialCount, car
 
   return (
     <div className="absolute inset-0 overflow-hidden" style={{ perspective: "1000px" }}>
-      {/* 2.5D tilt wrapper — full viewport SVG */}
       <motion.div
         className="absolute inset-0"
         style={{ transformStyle: "preserve-3d", transformOrigin: "center 40%" }}
@@ -260,57 +355,55 @@ export default function IslandMap({ islands, username, streak, specialCount, car
         >
           <OceanBg />
 
-          {/* Logo area — PLIZIO text at top */}
+          {/* Logo — PLIZIO */}
           <g>
             {LETTERS.map((letter, i) => (
               <text
                 key={i}
-                x={310 + i * 34}
-                y={95}
+                x={314 + i * 30}
+                y={88}
                 textAnchor="middle"
-                fontSize={38}
+                fontSize={34}
                 fontWeight={900}
                 fill={LETTER_COLORS[i]}
-                style={{ filter: `drop-shadow(0 0 8px ${LETTER_COLORS[i]}60)` }}
+                style={{ filter: `drop-shadow(0 0 8px ${LETTER_COLORS[i]}50)` }}
               >
                 {letter}
               </text>
             ))}
-            <text x={400} y={115} textAnchor="middle" fontSize={8} fontWeight={600} letterSpacing={3} fill="rgba(255,255,255,0.25)">
-              PLAY &middot; LEARN &middot; THINK
+            <text x={400} y={106} textAnchor="middle" fontSize={7} fontWeight={600} letterSpacing={2.5} fill="rgba(255,255,255,0.2)">
+              PLAY · LEARN · THINK
             </text>
-
-            {/* Username */}
             {username && (
-              <text x={400} y={140} textAnchor="middle" fontSize={11} fontWeight={700} fill="rgba(255,255,255,0.2)" letterSpacing={1}>
+              <text x={400} y={126} textAnchor="middle" fontSize={10} fontWeight={700} fill="rgba(255,255,255,0.18)" letterSpacing={0.8}>
                 {username}
               </text>
             )}
           </g>
 
-          {/* Stats bar */}
+          {/* Stats */}
           <g>
             {streak > 0 && (
-              <text x={340} y={168} textAnchor="end" fontSize={11} fontWeight={700} fill="#FFD700" opacity={0.6}>
+              <text x={345} y={150} textAnchor="end" fontSize={10} fontWeight={700} fill="#FFD700" opacity={0.5}>
                 🔥 {streak}
               </text>
             )}
             {specialCount > 0 && (
-              <text x={400} y={168} textAnchor="middle" fontSize={11} fontWeight={700} fill="#E040FB" opacity={0.6}>
+              <text x={400} y={150} textAnchor="middle" fontSize={10} fontWeight={700} fill="#E040FB" opacity={0.5}>
                 ⭐ {specialCount}
               </text>
             )}
             {cardCount > 0 && (
-              <text x={460} y={168} textAnchor="start" fontSize={11} fontWeight={700} fill="rgba(255,255,255,0.25)">
+              <text x={455} y={150} textAnchor="start" fontSize={10} fontWeight={700} fill="rgba(255,255,255,0.2)">
                 🃏 {cardCount}
               </text>
             )}
           </g>
 
-          <ConnectionPaths islands={islands} />
+          <OrbitPaths islands={islands} />
 
           {islands.map((island) => (
-            <IslandShape
+            <Planet
               key={island.id}
               island={island}
               selected={selectedId === island.id}
@@ -320,14 +413,13 @@ export default function IslandMap({ islands, username, streak, specialCount, car
         </svg>
       </motion.div>
 
-      {/* Game panel overlay */}
       <AnimatePresence>
         {selectedIsland && (
           <GamePanel island={selectedIsland} onClose={() => setSelectedId(null)} />
         )}
       </AnimatePresence>
 
-      {/* Hidden SEO links */}
+      {/* SEO links */}
       <nav className="sr-only" aria-label="Games">
         {islands.flatMap((island) =>
           island.games.map((game) => (

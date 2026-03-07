@@ -335,12 +335,12 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
   },
 ];
 
-/* Island positions in the 800x900 viewBox (below logo area ~200px) */
+/* Planet positions in the 800x900 viewBox — compact, closer together */
 const ISLAND_POSITIONS: Record<string, { cx: number; cy: number; color: string; glow: string }> = {
-  quizreflex: { cx: 220, cy: 300, color: "#00D4FF", glow: "rgba(0,212,255,0.4)" },
-  adventure:  { cx: 580, cy: 350, color: "#00FF88", glow: "rgba(0,255,136,0.4)" },
-  brain:      { cx: 240, cy: 560, color: "#FFD700", glow: "rgba(255,215,0,0.4)" },
-  logic:      { cx: 560, cy: 620, color: "#B44DFF", glow: "rgba(180,77,255,0.4)" },
+  quizreflex: { cx: 250, cy: 260, color: "#00D4FF", glow: "rgba(0,212,255,0.4)" },
+  adventure:  { cx: 550, cy: 310, color: "#00FF88", glow: "rgba(0,255,136,0.4)" },
+  brain:      { cx: 230, cy: 460, color: "#FFD700", glow: "rgba(255,215,0,0.4)" },
+  logic:      { cx: 540, cy: 520, color: "#B44DFF", glow: "rgba(180,77,255,0.4)" },
 };
 
 function categoriesToIslands(categories: CategoryDef[]): Island[] {
@@ -499,39 +499,47 @@ export default function Home() {
         cardCount={cardCount}
       />
 
-      {/* Right-side nav buttons */}
-      <div className="fixed bottom-6 right-4 flex flex-col gap-2.5 z-30">
-        {([
-          { href: "/profile", icon: User, color: isLoggedIn ? "#00FF88" : "rgba(255,255,255,0.4)", border: isLoggedIn ? "border-neon-green/20" : "border-white/10", glow: isLoggedIn ? "0 0 16px rgba(0,255,136,0.15)" : undefined, delay: 0.6 },
-          { href: "/room", icon: HomeIcon, color: "#00D4FF", border: "border-neon-blue/20", glow: "0 0 16px rgba(0,212,255,0.15)", delay: 0.7 },
-          { href: "/shop", icon: Star, color: "#E040FB", border: "border-[#E040FB]/20", glow: "0 0 16px rgba(224,64,251,0.2)", delay: 0.8 },
-          { href: "/collection", icon: Trophy, color: "#FFD700", border: "border-gold/20", glow: "0 0 16px rgba(255,215,0,0.2)", delay: 0.9 },
-        ] as const).map((btn) => {
-          const Icon = btn.icon;
-          return (
-            <motion.div
-              key={btn.href}
-              initial={{ opacity: 0, scale: 0 }}
-              animate={{ opacity: 1, scale: 1 }}
-              transition={{ delay: btn.delay, type: "spring" }}
-            >
-              <motion.button
-                onClick={() => router.push(btn.href)}
-                className={`bg-card/80 backdrop-blur-sm border ${btn.border} p-3 rounded-full`}
-                style={btn.glow ? { boxShadow: btn.glow } : undefined}
-                whileHover={{ scale: 1.15 }}
-                whileTap={{ scale: 0.9 }}
-              >
-                <Icon size={20} style={{ color: btn.color, filter: `drop-shadow(0 0 6px ${btn.color}80)` }} />
-              </motion.button>
-            </motion.div>
-          );
-        })}
-      </div>
+      {/* Top bar — nav buttons right, language switcher left */}
+      <div className="fixed top-0 left-0 right-0 z-30 flex items-center justify-between px-3 py-2.5 pointer-events-none">
+        {/* Language switcher — left */}
+        <motion.div
+          className="pointer-events-auto"
+          initial={{ opacity: 0, x: -20 }}
+          animate={{ opacity: 1, x: 0 }}
+          transition={{ delay: 0.4 }}
+        >
+          <LanguageSwitcher />
+        </motion.div>
 
-      {/* Language switcher — bottom left */}
-      <div className="fixed bottom-6 left-4 z-30">
-        <LanguageSwitcher />
+        {/* Nav buttons — right */}
+        <div className="flex items-center gap-2 pointer-events-auto">
+          {([
+            { href: "/profile", icon: User, color: isLoggedIn ? "#00FF88" : "rgba(255,255,255,0.4)", border: isLoggedIn ? "border-neon-green/20" : "border-white/10", glow: isLoggedIn ? "0 0 12px rgba(0,255,136,0.15)" : undefined, delay: 0.5 },
+            { href: "/room", icon: HomeIcon, color: "#00D4FF", border: "border-neon-blue/20", glow: "0 0 12px rgba(0,212,255,0.15)", delay: 0.6 },
+            { href: "/shop", icon: Star, color: "#E040FB", border: "border-[#E040FB]/20", glow: "0 0 12px rgba(224,64,251,0.2)", delay: 0.7 },
+            { href: "/collection", icon: Trophy, color: "#FFD700", border: "border-gold/20", glow: "0 0 12px rgba(255,215,0,0.2)", delay: 0.8 },
+          ] as const).map((btn) => {
+            const Icon = btn.icon;
+            return (
+              <motion.div
+                key={btn.href}
+                initial={{ opacity: 0, scale: 0 }}
+                animate={{ opacity: 1, scale: 1 }}
+                transition={{ delay: btn.delay, type: "spring" }}
+              >
+                <motion.button
+                  onClick={() => router.push(btn.href)}
+                  className={`bg-card/80 backdrop-blur-sm border ${btn.border} p-2.5 rounded-full`}
+                  style={btn.glow ? { boxShadow: btn.glow } : undefined}
+                  whileHover={{ scale: 1.15 }}
+                  whileTap={{ scale: 0.9 }}
+                >
+                  <Icon size={18} style={{ color: btn.color, filter: `drop-shadow(0 0 4px ${btn.color}80)` }} />
+                </motion.button>
+              </motion.div>
+            );
+          })}
+        </div>
       </div>
 
       {/* Username Modal */}
