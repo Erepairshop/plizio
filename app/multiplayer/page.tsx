@@ -172,7 +172,8 @@ export default function MultiplayerPage() {
   const [incomingToast, setIncomingToast] = useState<MultiplayerMatch | null>(null);
 
   const searchTimeout = useRef<ReturnType<typeof setTimeout>>(undefined);
-  const prevPendingCount = useRef(0);
+  const knownPendingIds = useRef<Set<string>>(new Set());
+  const initialLoadDone = useRef(false);
 
   // ─── Load data ──────────────────────────────────────────
   const loadData = useCallback(async () => {
@@ -181,15 +182,18 @@ export default function MultiplayerPage() {
       getMyActiveMatches(),
       getMyMatchHistory(),
     ]);
-    // Detect new incoming challenges
-    if (pending.length > prevPendingCount.current && prevPendingCount.current > 0) {
-      const newest = pending[0];
-      if (newest) {
-        setIncomingToast(newest);
-        setTimeout(() => setIncomingToast(null), 5000);
+    // Detect genuinely new challenges (by ID, only after first load)
+    if (initialLoadDone.current) {
+      for (const m of pending) {
+        if (!knownPendingIds.current.has(m.id)) {
+          setIncomingToast(m);
+          setTimeout(() => setIncomingToast(null), 5000);
+          break; // show only one toast at a time
+        }
       }
     }
-    prevPendingCount.current = pending.length;
+    initialLoadDone.current = true;
+    knownPendingIds.current = new Set(pending.map((m) => m.id));
     setPendingChallenges(pending);
     setActiveMatches(active);
     setMatchHistory(history);
