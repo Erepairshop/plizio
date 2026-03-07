@@ -15,6 +15,7 @@ import {
   getMyPendingChallenges, getMySentChallenges, getMyActiveMatches, getMyMatchHistory,
   type MultiplayerMatch, type GameType, GAME_LABELS,
 } from "@/lib/multiplayer";
+import ChallengeWaiting from "@/components/ChallengeWaiting";
 
 // ─── Translations ───────────────────────────────────────────
 
@@ -166,6 +167,7 @@ export default function MultiplayerPage() {
   const [sending, setSending] = useState(false);
   const [sentSuccess, setSentSuccess] = useState(false);
   const [sendError, setSendError] = useState("");
+  const [waitingMatch, setWaitingMatch] = useState<MultiplayerMatch | null>(null);
 
   const [pendingChallenges, setPendingChallenges] = useState<MultiplayerMatch[]>([]);
   const [sentChallenges, setSentChallenges] = useState<MultiplayerMatch[]>([]);
@@ -240,7 +242,8 @@ export default function MultiplayerPage() {
       setSelectedOpponent("");
       setSearchQuery("");
       setSearchResults([]);
-      setTimeout(() => { setSentSuccess(false); setTab("active"); }, 1500);
+      setWaitingMatch(match);
+      setTimeout(() => setSentSuccess(false), 1500);
       loadData();
     } else if (error === "opponent_not_found") {
       setSendError(t.opponentNotFound);
@@ -253,8 +256,8 @@ export default function MultiplayerPage() {
   const handleAccept = async (match: MultiplayerMatch) => {
     await acceptChallenge(match.id);
     loadData();
-    // Navigate to game
-    router.push(`/${match.game}?match=${match.id}&seed=${match.seed}`);
+    // Show waiting overlay with countdown (reuse ChallengeWaiting — it detects status=playing and starts countdown)
+    setWaitingMatch(match);
   };
 
   const handleDecline = async (match: MultiplayerMatch) => {
@@ -539,6 +542,19 @@ export default function MultiplayerPage() {
           </motion.div>
         )}
       </AnimatePresence>
+
+      {/* Waiting overlay for challenger */}
+      {waitingMatch && myName && (
+        <ChallengeWaiting
+          match={waitingMatch}
+          myName={myName}
+          onCancel={() => {
+            declineChallenge(waitingMatch.id);
+            setWaitingMatch(null);
+            loadData();
+          }}
+        />
+      )}
     </div>
   );
 }

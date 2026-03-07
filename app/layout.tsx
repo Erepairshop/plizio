@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import ServiceWorkerRegister from "@/components/ServiceWorkerRegister";
 import { LanguageProvider } from "@/components/LanguageProvider";
+import ChallengeOverlay from "@/components/ChallengeOverlay";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://plizio.com"),
@@ -131,6 +132,7 @@ export default function RootLayout({
       <body className="min-h-screen bg-bg antialiased">
         <LanguageProvider>
           {children}
+          <ChallengeOverlay />
         </LanguageProvider>
         <ServiceWorkerRegister />
       </body>
