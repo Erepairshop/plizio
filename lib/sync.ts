@@ -217,6 +217,9 @@ export async function syncToSupabase(userId: string): Promise<void> {
     try {
       await downloadFromSupabase(userId);
       await uploadToSupabase(userId);
+      // Sync username to usernames table
+      const { syncUsernameToSupabase } = await import("./username");
+      await syncUsernameToSupabase(userId);
     } finally {
       syncPromise = null;
     }

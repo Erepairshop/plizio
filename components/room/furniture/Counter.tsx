@@ -2,15 +2,32 @@
 import type { FurnitureProps } from "./types";
 
 export default function Counter({ x, y }: FurnitureProps) {
+  const tw = 24, th = 12, H = 22;
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={-4} rx={28} ry={7} fill="rgba(0,0,0,0.10)" />
-      <path d="M 24,-4 L 24,-22 L 0,-10 L 0,8 Z" fill="#D0D0D8" />
-      <path d="M -24,-4 L -24,-22 L 0,-10 L 0,8 Z" fill="#E0E0E8" />
-      <path d="M -24,-22 L 0,-34 L 24,-22 L 0,-10 Z" fill="#E8E0D8" />
-      <path d="M -10,-22 L 0,-28 L 6,-24" fill="none" stroke="rgba(180,170,160,0.2)" strokeWidth={0.5} />
-      <path d="M 4,-18 L 12,-22 L 18,-20" fill="none" stroke="rgba(180,170,160,0.15)" strokeWidth={0.5} />
-      <rect x={-1} y={-8} width={2} height={3} rx={0.5} fill="#A0A0A8" />
+      <defs>
+        <linearGradient id="cnTop" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#EEE6DE" />
+          <stop offset="100%" stopColor="#E8E0D8" />
+        </linearGradient>
+        <linearGradient id="cnLeft" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#E0E0E8" />
+          <stop offset="100%" stopColor="#D0D0D8" />
+        </linearGradient>
+        <linearGradient id="cnRight" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#C8C8D0" />
+          <stop offset="100%" stopColor="#BBBBC4" />
+        </linearGradient>
+      </defs>
+      <ellipse cx={0} cy={-4} rx={26} ry={7} fill="rgba(0,0,0,0.10)" />
+      {/* Left face */}
+      <path d={`M ${-tw},${-H+th} L 0,${-H+2*th} L 0,0 L ${-tw},${-th} Z`} fill="url(#cnLeft)" />
+      {/* Right face */}
+      <path d={`M ${tw},${-H+th} L 0,${-H+2*th} L 0,0 L ${tw},${-th} Z`} fill="url(#cnRight)" />
+      {/* Top face */}
+      <path d={`M 0,${-H} L ${tw},${-H+th} L 0,${-H+2*th} L ${-tw},${-H+th} Z`} fill="url(#cnTop)" />
+      {/* Handle on right face */}
+      <line x1={8} y1={-6} x2={8} y2={-3} stroke="#A0A0A8" strokeWidth={1} strokeLinecap="round" />
     </g>
   );
 }

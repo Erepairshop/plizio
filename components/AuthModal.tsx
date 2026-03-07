@@ -6,6 +6,7 @@ import { Mail, Lock, X, Star } from "lucide-react";
 import { signUpWithEmail, signInWithEmail, signInWithGoogle } from "@/lib/auth";
 import { uploadToSupabase } from "@/lib/sync";
 import { addSpecialCards } from "@/lib/specialCards";
+import { syncUsernameToSupabase } from "@/lib/username";
 
 interface AuthModalProps {
   onClose: () => void;
@@ -32,6 +33,7 @@ export default function AuthModal({ onClose, onSuccess, mode: initialMode = "log
           // Registration bonus
           addSpecialCards(3);
           await uploadToSupabase(data.user.id);
+          syncUsernameToSupabase(data.user.id).catch(() => {});
           localStorage.setItem("plizio_registered", "true");
           onSuccess();
         }
@@ -41,6 +43,7 @@ export default function AuthModal({ onClose, onSuccess, mode: initialMode = "log
           // Sync data from Supabase
           const { downloadFromSupabase } = await import("@/lib/sync");
           await downloadFromSupabase(data.user.id);
+          syncUsernameToSupabase(data.user.id).catch(() => {});
           onSuccess();
         }
       }

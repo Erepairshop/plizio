@@ -12,9 +12,6 @@ import {
   Trash2,
   Lock,
   Star,
-  ZoomIn,
-  ZoomOut,
-  Maximize2,
   RotateCw,
   Move,
 } from "lucide-react";
@@ -194,7 +191,6 @@ function getDayNightAlpha(): number {
 
 // ─── Walking constants ───
 const MS_PER_CELL = 450; // ms per grid cell (walking speed)
-const DRAG_THRESHOLD = 5; // px — movement below this is still a "click", not a pan/drag
 
 // ─── Line-of-sight check (avatar treated as circle, radius ~0.35 grid units) ───
 // Grid boundary cells outside [0..gridW-1]×[0..gridH-1] are simply skipped
@@ -336,7 +332,6 @@ interface AvatarInRoomProps {
   // Window-relative screen coords of avatar foot position (from AvatarTracker)
   avatarScreenX: number;
   avatarScreenY: number;
-  zoom: number;
   mood: AvatarCompanionProps["mood"];
   reaction: { reaction: "wave" | "dance" | "spin" | "happy" | "surprised" | "confused" | "laughing" | "victory" | null; timestamp: number };
   isWalking: boolean;
@@ -360,7 +355,6 @@ function AvatarInRoom({
   roomContainerRef,
   avatarScreenX,
   avatarScreenY,
-  zoom,
   mood,
   reaction,
   isWalking,
@@ -392,8 +386,7 @@ function AvatarInRoom({
     });
   }, [avatarScreenX, avatarScreenY, roomContainerRef]);
 
-  const baseAvatarSize = 60; // px at zoom=1
-  const avatarSize = baseAvatarSize * zoom;
+  const avatarSize = 60;
 
   return (
     <div
@@ -545,107 +538,9 @@ export default function RoomPage() {
   const [activeInteraction, setActiveInteraction] = useState<string | null>(null);
   const interactionTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
-  // ─── Zoom / Pan state ───
-  const MIN_ZOOM = 1;
-  const MAX_ZOOM = 5;
-  const [zoom, setZoom] = useState(1);
-  const [pan, setPan] = useState({ x: 0, y: 0 });
-  const isPanningRef = useRef(false);
-  const panStartRef = useRef({ x: 0, y: 0, panX: 0, panY: 0 });
-  const lastPinchDistRef = useRef(0);
-  const didDragRef = useRef(false); // true if pointer moved beyond DRAG_THRESHOLD during press
   const roomContainerRef = useRef<HTMLDivElement>(null);
 
-  // Zoom button handlers
-  const handleZoomIn = useCallback(() => {
-    setZoom(z => Math.min(z + 0.5, MAX_ZOOM));
-  }, []);
-  const handleZoomOut = useCallback(() => {
-    setZoom(z => {
-      const nz = Math.max(z - 0.5, MIN_ZOOM);
-      if (nz === MIN_ZOOM) setPan({ x: 0, y: 0 });
-      return nz;
-    });
-  }, []);
-  const handleZoomReset = useCallback(() => {
-    setZoom(1);
-    setPan({ x: 0, y: 0 });
-  }, []);
-
-  // Helper: max pan limits based on current container size
-  const getMaxPan = useCallback(() => {
-    const el = roomContainerRef.current;
-    if (!el) return { x: 0, y: 0 };
-    return {
-      x: el.clientWidth * (zoom - 1) / 2,
-      y: el.clientHeight * (zoom - 1) / 2,
-    };
-  }, [zoom]);
-
-  // Touch pan & pinch zoom (with drag threshold so taps still register as clicks)
-  const handleTouchStart = useCallback((e: React.TouchEvent) => {
-    didDragRef.current = false;
-    if (e.touches.length === 2) {
-      const dx = e.touches[0].clientX - e.touches[1].clientX;
-      const dy = e.touches[0].clientY - e.touches[1].clientY;
-      lastPinchDistRef.current = Math.sqrt(dx * dx + dy * dy);
-      didDragRef.current = true; // pinch is always a drag
-    } else if (e.touches.length === 1 && zoom > 1) {
-      // Record start position but DON'T set isPanning yet — wait for threshold
-      panStartRef.current = {
-        x: e.touches[0].clientX,
-        y: e.touches[0].clientY,
-        panX: pan.x,
-        panY: pan.y,
-      };
-    }
-  }, [zoom, pan]);
-
-
-  const handleTouchMove = useCallback((e: React.TouchEvent) => {
-    if (e.touches.length === 2) {
-      e.preventDefault();
-      const dx = e.touches[0].clientX - e.touches[1].clientX;
-      const dy = e.touches[0].clientY - e.touches[1].clientY;
-      const dist = Math.sqrt(dx * dx + dy * dy);
-      if (lastPinchDistRef.current > 0) {
-        const scale = dist / lastPinchDistRef.current;
-        setZoom(z => Math.min(Math.max(z * scale, MIN_ZOOM), MAX_ZOOM));
-      }
-      lastPinchDistRef.current = dist;
-    } else if (e.touches.length === 1) {
-      const touch = e.touches[0];
-
-      // BÚTOR DRAG MÓD (hosszú nyomás után)
-      if (furnitureDragActiveRef.current && movingIdx !== null) {
-        // Ghost update for touch drag handled by onPointerMoveGrid from Room3DCanvas
-        didDragRef.current = true;
-        return;
-      }
-
-      // Ghost preview for touch handled by onPointerMoveGrid from Room3DCanvas
-
-      // PAN (csak zoom > 1 esetén, és nem bútor drag közben)
-      if (zoom > 1) {
-        const dx = touch.clientX - panStartRef.current.x;
-        const dy = touch.clientY - panStartRef.current.y;
-        const moved = Math.sqrt(dx * dx + dy * dy);
-        if (moved > DRAG_THRESHOLD) {
-          isPanningRef.current = true;
-          didDragRef.current = true;
-          const mp = getMaxPan();
-          setPan({
-            x: Math.min(Math.max(panStartRef.current.panX + dx, -mp.x), mp.x),
-            y: Math.min(Math.max(panStartRef.current.panY + dy, -mp.y), mp.y),
-          });
-        }
-      }
-    }
-  }, [zoom, editMode, selectedFurnitureId, movingIdx, furniture, getMaxPan]);
-
   const handleTouchEnd = useCallback(() => {
-    isPanningRef.current = false;
-    lastPinchDistRef.current = 0;
     // Drag-to-place: ujj felengedésekor elhelyezi a bútort
     if (furnitureDragActiveRef.current && movingIdx !== null && ghostPos) {
       furnitureDragActiveRef.current = false;
@@ -676,40 +571,9 @@ export default function RoomPage() {
       }
       furnitureDragActiveRef.current = false;
     }
-    setZoom(z => {
-      if (z < MIN_ZOOM) { setPan({ x: 0, y: 0 }); return MIN_ZOOM; }
-      return z;
-    });
   }, [movingIdx, furniture, ghostPos, currentRoomIdx]);
 
-  // Mouse drag pan (desktop) — with drag threshold
-  const handleMouseDown = useCallback((e: React.MouseEvent) => {
-    didDragRef.current = false;
-    if (zoom <= 1) return;
-    // Don't pan if clicking furniture in edit mode
-    if (editMode && selectedFurnitureId) return;
-    panStartRef.current = { x: e.clientX, y: e.clientY, panX: pan.x, panY: pan.y };
-    isPanningRef.current = true; // track mouse, but didDragRef stays false until threshold
-  }, [zoom, pan, editMode, selectedFurnitureId]);
-
-  const handleMouseMove = useCallback((e: React.MouseEvent) => {
-    // Ghost preview handled by onPointerMoveGrid from Room3DCanvas
-    // Pan logika
-    if (!isPanningRef.current || zoom <= 1) return;
-    const dx = e.clientX - panStartRef.current.x;
-    const dy = e.clientY - panStartRef.current.y;
-    const moved = Math.sqrt(dx * dx + dy * dy);
-    if (moved <= DRAG_THRESHOLD) return;
-    didDragRef.current = true;
-    const mp = getMaxPan();
-    setPan({
-      x: Math.min(Math.max(panStartRef.current.panX + dx, -mp.x), mp.x),
-      y: Math.min(Math.max(panStartRef.current.panY + dy, -mp.y), mp.y),
-    });
-  }, [zoom, getMaxPan]);
-
   const handleMouseUp = useCallback(() => {
-    isPanningRef.current = false;
     // Drag-to-place: ha hosszú nyomással drag aktív, az egér felengedésekor helyezi el
     if (furnitureDragActiveRef.current && movingIdx !== null && ghostPos) {
       furnitureDragActiveRef.current = false;
@@ -742,64 +606,6 @@ export default function RoomPage() {
     }
   }, [movingIdx, furniture, ghostPos, currentRoomIdx]);
 
-  // ── Native wheel & touchmove listeners (passive:false szükséges, React passzív listenereket regisztrál) ──
-  useEffect(() => {
-    const el = roomContainerRef.current;
-    const owned = ownedRooms.includes(ROOMS[currentRoomIdx].id);
-    if (!el || !owned) return;
-
-    const onWheel = (e: WheelEvent) => {
-      e.preventDefault();
-      const rect = el.getBoundingClientRect();
-      // Kurzor pozíciója a container közepéhez képest
-      const cx = e.clientX - rect.left - rect.width / 2;
-      const cy = e.clientY - rect.top - rect.height / 2;
-      setZoom(z => {
-        const nz = Math.min(Math.max(z - e.deltaY * 0.002, MIN_ZOOM), MAX_ZOOM);
-        if (nz <= MIN_ZOOM) {
-          setPan({ x: 0, y: 0 });
-        } else {
-          // Zoom a kurzor irányába: a kurzor alatt lévő pont ugyanott marad
-          const factor = nz / z;
-          const maxX = rect.width * (nz - 1) / 2;
-          const maxY = rect.height * (nz - 1) / 2;
-          setPan(p => ({
-            x: Math.min(Math.max(cx - (cx - p.x) * factor, -maxX), maxX),
-            y: Math.min(Math.max(cy - (cy - p.y) * factor, -maxY), maxY),
-          }));
-        }
-        return nz;
-      });
-    };
-
-    const onTouchMove = (e: TouchEvent) => {
-      // Pinch zoom vagy aktív pan esetén megakadályozzuk az oldal görgetését
-      if (e.touches.length >= 2 || isPanningRef.current) {
-        e.preventDefault();
-      }
-    };
-
-    el.addEventListener("wheel", onWheel, { passive: false });
-    el.addEventListener("touchmove", onTouchMove, { passive: false });
-    return () => {
-      el.removeEventListener("wheel", onWheel);
-      el.removeEventListener("touchmove", onTouchMove);
-    };
-  }, [ownedRooms, currentRoomIdx]);
-
-  // ── Pan visszaclampolás zoom változáskor (pl. gombbal kicsinyítve) ──
-  useEffect(() => {
-    if (zoom <= MIN_ZOOM) return;
-    const el = roomContainerRef.current;
-    if (!el) return;
-    const maxX = el.clientWidth * (zoom - 1) / 2;
-    const maxY = el.clientHeight * (zoom - 1) / 2;
-    setPan(p => ({
-      x: Math.min(Math.max(p.x, -maxX), maxX),
-      y: Math.min(Math.max(p.y, -maxY), maxY),
-    }));
-  }, [zoom]);
-
   // Ghost törlése ha nincs aktív elhelyezési mód
   useEffect(() => {
     if (!editMode || (!selectedFurnitureId && movingIdx === null)) {
@@ -807,10 +613,8 @@ export default function RoomPage() {
     }
   }, [editMode, selectedFurnitureId, movingIdx]);
 
-  // Reset zoom and avatar position on room change
+  // Reset avatar position on room change
   useEffect(() => {
-    setZoom(1);
-    setPan({ x: 0, y: 0 });
     // Cancel any in-progress walk
     if (walkTimerRef.current) { clearTimeout(walkTimerRef.current); walkTimerRef.current = null; }
     setIsWalking(false);
@@ -949,7 +753,6 @@ export default function RoomPage() {
   // Handles both edit-mode furniture placement AND normal-mode floor walking
   const handleTileClick = useCallback((rawGx: number, rawGy: number) => {
     if (!isOwned) return;
-    if (didDragRef.current) return;
 
     if (editMode) {
       // ── EDIT MODE ──────────────────────────────────────────────────────────
@@ -1152,7 +955,7 @@ export default function RoomPage() {
   const iNames = INTERACTION_NAMES[lang] || INTERACTION_NAMES.en;
 
   return (
-    <div className="min-h-screen bg-[#0A0A1A] text-white flex flex-col overflow-hidden">
+    <div className="min-h-screen bg-[#0A0A1A] text-white flex flex-col">
       {/* Header */}
       <div className="flex items-center justify-between px-4 py-3 bg-[#12122A]/80 backdrop-blur-sm border-b border-white/5">
         <Link
@@ -1258,14 +1061,9 @@ export default function RoomPage() {
       <div
         className="flex-1 flex items-center justify-center px-2 pb-2 overflow-hidden relative"
         ref={roomContainerRef}
-        onTouchStart={isOwned ? handleTouchStart : undefined}
-        onTouchMove={isOwned ? handleTouchMove : undefined}
         onTouchEnd={isOwned ? handleTouchEnd : undefined}
-        onMouseDown={isOwned ? handleMouseDown : undefined}
-        onMouseMove={isOwned ? handleMouseMove : undefined}
         onMouseUp={isOwned ? handleMouseUp : undefined}
         onMouseLeave={isOwned ? handleMouseUp : undefined}
-        style={{ touchAction: "none" }}
       >
 {isOwned ? (
           <>
@@ -1274,10 +1072,9 @@ export default function RoomPage() {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ duration: 0.3 }}
-              className="w-full h-full flex items-center justify-center"
+              className="w-full flex items-center justify-center max-w-lg"
               style={{
-                // Zoom & pan handled by Three.js camera (not CSS) for crisp rendering
-                cursor: zoom > 1 ? "grab" : "default",
+                aspectRatio: "1 / 0.85",
               }}
             >
               <Room3DCanvas
@@ -1299,8 +1096,6 @@ export default function RoomPage() {
                   setAvatarScreenX(cx);
                   setAvatarScreenY(cy);
                 } : undefined}
-                cameraZoom={zoom}
-                cameraPan={pan}
                 ghost={editMode && ghostPos ? (() => {
                   const movingItem = movingIdx !== null ? furniture[movingIdx] : null;
                   const fId = selectedFurnitureId ?? movingItem?.furnitureId ?? null;
@@ -1324,38 +1119,6 @@ export default function RoomPage() {
               />
             </motion.div>
 
-            {/* Zoom controls */}
-            <div className="absolute bottom-3 left-3 flex flex-col gap-1.5 z-10">
-              <button
-                onClick={handleZoomIn}
-                disabled={zoom >= MAX_ZOOM}
-                className="w-8 h-8 flex items-center justify-center rounded-lg bg-white/10 text-white/60 hover:bg-white/20 hover:text-white transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
-              >
-                <ZoomIn size={16} />
-              </button>
-              <button
-                onClick={handleZoomOut}
-                disabled={zoom <= MIN_ZOOM}
-                className="w-8 h-8 flex items-center justify-center rounded-lg bg-white/10 text-white/60 hover:bg-white/20 hover:text-white transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
-              >
-                <ZoomOut size={16} />
-              </button>
-              {zoom > 1 && (
-                <button
-                  onClick={handleZoomReset}
-                  className="w-8 h-8 flex items-center justify-center rounded-lg bg-white/10 text-white/60 hover:bg-white/20 hover:text-white transition-colors"
-                >
-                  <Maximize2 size={14} />
-                </button>
-              )}
-            </div>
-
-            {/* Zoom indicator */}
-            {zoom > 1 && (
-              <div className="absolute top-2 left-1/2 -translate-x-1/2 px-2 py-0.5 rounded-full bg-black/50 text-white/50 text-[10px] font-mono z-10">
-                {Math.round(zoom * 100)}%
-              </div>
-            )}
 
             {/* Avatar overlay — positioned on top of 3D canvas */}
             {!editMode && (
@@ -1363,7 +1126,6 @@ export default function RoomPage() {
                 roomContainerRef={roomContainerRef}
                 avatarScreenX={avatarScreenX}
                 avatarScreenY={avatarScreenY}
-                zoom={zoom}
                 mood={avatarMood}
                 reaction={avatarReaction}
                 isWalking={isWalking}

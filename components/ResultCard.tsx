@@ -13,7 +13,7 @@ interface ResultCardProps {
   time?: number;
   gameName: string;
   gameIcon: React.ReactNode;
-  onPlayAgain: () => void;
+  onPlayAgain?: () => void;
 }
 
 export default function ResultCard({
@@ -145,14 +145,16 @@ export default function ResultCard({
             <Share2 size={20} />
           </motion.button>
 
-          <motion.button
-            onClick={onPlayAgain}
-            className="flex-1 bg-neon-green/10 border border-neon-green/30 text-neon-green py-3 rounded-xl flex items-center justify-center"
-            whileHover={{ scale: 1.03, backgroundColor: "rgba(0,255,136,0.15)" }}
-            whileTap={{ scale: 0.97 }}
-          >
-            <RotateCcw size={20} />
-          </motion.button>
+          {onPlayAgain && (
+            <motion.button
+              onClick={onPlayAgain}
+              className="flex-1 bg-neon-green/10 border border-neon-green/30 text-neon-green py-3 rounded-xl flex items-center justify-center"
+              whileHover={{ scale: 1.03, backgroundColor: "rgba(0,255,136,0.15)" }}
+              whileTap={{ scale: 0.97 }}
+            >
+              <RotateCcw size={20} />
+            </motion.button>
+          )}
 
           <motion.button
             onClick={() => router.push("/")}

@@ -1,8 +1,9 @@
 "use client";
 
-import { useState, useEffect, useCallback, useRef, useMemo } from "react";
+import { useState, useEffect, useCallback, useRef, useMemo, Suspense } from "react";
+import { useSearchParams, useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
-import { Crosshair, Trophy, CheckCircle, XCircle, ArrowUp, Flame, Globe, Music, CircleDot, Sparkles, Gamepad2, MapPin, Share2, Film, X } from "lucide-react";
+import { Crosshair, Trophy, CheckCircle, XCircle, ArrowUp, Flame, Globe, Music, CircleDot, Sparkles, Gamepad2, MapPin, Share2, Film, X, Swords } from "lucide-react";
 import Link from "next/link";
 import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
@@ -11,6 +12,9 @@ import { incrementTotalGames, incrementPerfectScores, updateStats } from "@/lib/
 import MilestonePopup from "@/components/MilestonePopup";
 import { useLang } from "@/components/LanguageProvider";
 import type { Language } from "@/lib/language";
+import { submitScore, abandonMatch } from "@/lib/multiplayer";
+import MultiplayerExitConfirm from "@/components/MultiplayerExitConfirm";
+import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
 
 // English versions (default/fallback)
 import generalDataEn from "@/data/quickpick/general.json";
@@ -186,10 +190,25 @@ function formatNumber(n: number): string {
   return n.toString();
 }
 
-function shuffleArray<T>(arr: T[]): T[] {
+// Seeded PRNG (mulberry32)
+function seededRandom(seed: string): () => number {
+  let h = 0;
+  for (let i = 0; i < seed.length; i++) {
+    h = Math.imul(31, h) + seed.charCodeAt(i) | 0;
+  }
+  return () => {
+    h |= 0; h = h + 0x6D2B79F5 | 0;
+    let t = Math.imul(h ^ h >>> 15, 1 | h);
+    t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t;
+    return ((t ^ t >>> 14) >>> 0) / 4294967296;
+  };
+}
+
+function shuffleArray<T>(arr: T[], rng?: () => number): T[] {
   const shuffled = [...arr];
+  const random = rng || Math.random;
   for (let i = shuffled.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
+    const j = Math.floor(random() * (i + 1));
     [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
   }
   return shuffled;
@@ -226,14 +245,31 @@ function updateStreak(): number {
 
 const TOTAL_ROUNDS = 10;
 
-export default function QuickPickPage() {
+export default function QuickPickPageWrapper() {
+  return (
+    <Suspense fallback={<div className="min-h-screen bg-bg" />}>
+      <QuickPickPage />
+    </Suspense>
+  );
+}
+
+function QuickPickPage() {
   const { lang } = useLang();
   const t = TRANSLATIONS[lang] ?? TRANSLATIONS.en;
+  const searchParams = useSearchParams();
+  const router = useRouter();
+
+  // Multiplayer params
+  const matchId = searchParams.get("match");
+  const seed = searchParams.get("seed");
+  const playerNum = searchParams.get("p"); // "1" or "2"
+  const opponentName = searchParams.get("vs") || "???";
+  const isMultiplayer = !!(matchId && seed);
 
   // Get language-specific theme data
   const THEME_DATA = useMemo(() => getThemeDataByLanguage(lang), [lang]);
 
-  const [gameState, setGameState] = useState<GameState>("theme-select");
+  const [gameState, setGameState] = useState<GameState>(isMultiplayer ? "playing" : "theme-select");
   const [selectedTheme, setSelectedTheme] = useState("general");
   const [countdown, setCountdown] = useState(3);
   const [round, setRound] = useState(0);
@@ -243,6 +279,8 @@ export default function QuickPickPage() {
   const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
   const [totalTime, setTotalTime] = useState(0);
   const [streak, setStreak] = useState(0);
+  const [scoreSubmitted, setScoreSubmitted] = useState(false);
+  const [showExitConfirm, setShowExitConfirm] = useState(false);
   const startTimeRef = useRef<number>(0);
   const [animatedValueA, setAnimatedValueA] = useState(0);
   const [animatedValueB, setAnimatedValueB] = useState(0);
@@ -250,6 +288,21 @@ export default function QuickPickPage() {
   useEffect(() => {
     setStreak(getStreak());
   }, []);
+
+  // Auto-start multiplayer game with seeded questions
+  useEffect(() => {
+    if (!isMultiplayer || questions.length > 0) return;
+    const rng = seededRandom(seed);
+    const data = THEME_DATA.general;
+    const shuffled = shuffleArray(data, rng).slice(0, TOTAL_ROUNDS).map((q) => {
+      if (rng() < 0.5) {
+        return { ...q, itemA: q.itemB, valueA: q.valueB, emojiA: q.emojiB, itemB: q.itemA, valueB: q.valueA, emojiB: q.emojiA };
+      }
+      return q;
+    });
+    setQuestions(shuffled);
+    startTimeRef.current = Date.now();
+  }, [isMultiplayer, seed, THEME_DATA, questions.length]);
 
   const startGame = (themeId: string) => {
     setSelectedTheme(themeId);
@@ -330,21 +383,26 @@ export default function QuickPickPage() {
         setTotalTime(elapsed);
         const newStreak = updateStreak();
         setStreak(newStreak);
+        const finalScore = score + (correct ? 1 : 0);
         // Save card and show reward first
-        const rarity = calculateRarity(score + (correct ? 1 : 0), TOTAL_ROUNDS, newStreak, false);
+        const rarity = calculateRarity(finalScore, TOTAL_ROUNDS, newStreak, false);
         saveCard({
           id: generateCardId(),
           game: "quickpick",
           theme: selectedTheme,
           rarity,
-          score: score + (correct ? 1 : 0),
+          score: finalScore,
           total: TOTAL_ROUNDS,
           date: new Date().toISOString(),
         });
-        const finalScore = score + (correct ? 1 : 0);
         incrementTotalGames();
         if (finalScore === TOTAL_ROUNDS) incrementPerfectScores();
         updateStats({ highestStreak: newStreak });
+        // Submit score in multiplayer
+        if (isMultiplayer && matchId && !scoreSubmitted) {
+          setScoreSubmitted(true);
+          submitScore(matchId, finalScore, playerNum === "1");
+        }
         setGameState("reward");
       } else {
         setRound((r) => r + 1);
@@ -472,11 +530,19 @@ export default function QuickPickPage() {
         <div className="fixed top-0 left-0 right-0 z-40 p-4">
           <div className="flex items-center justify-between max-w-md mx-auto">
             {/* Close button */}
-            <Link href="/">
-              <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2 cursor-pointer hover:bg-black/60 transition-colors">
-                <X size={16} className="text-white/60" />
-              </div>
-            </Link>
+            {isMultiplayer ? (
+              <button onClick={() => setShowExitConfirm(true)}>
+                <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2 cursor-pointer hover:bg-black/60 transition-colors">
+                  <X size={16} className="text-white/60" />
+                </div>
+              </button>
+            ) : (
+              <Link href="/">
+                <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2 cursor-pointer hover:bg-black/60 transition-colors">
+                  <X size={16} className="text-white/60" />
+                </div>
+              </Link>
+            )}
 
             {/* Progress dots */}
             <div className="flex gap-1.5">
@@ -696,11 +762,40 @@ export default function QuickPickPage() {
             score={score}
             total={TOTAL_ROUNDS}
             time={totalTime}
-            gameName={t.gameName}
+            gameName={isMultiplayer ? `${t.gameName} ⚔️` : t.gameName}
             gameIcon={<Crosshair size={24} className="text-neon-pink" />}
-            onPlayAgain={handlePlayAgain}
+            onPlayAgain={isMultiplayer ? undefined : handlePlayAgain}
           />
+          {isMultiplayer && (
+            <Link href="/multiplayer">
+              <motion.button
+                className="mt-4 flex items-center gap-2 px-6 py-3 rounded-xl bg-neon-pink/15 border border-neon-pink/40 text-neon-pink font-bold text-sm"
+                whileHover={{ scale: 1.02 }}
+                whileTap={{ scale: 0.98 }}
+              >
+                <Swords size={16} />
+                Multiplayer
+              </motion.button>
+            </Link>
+          )}
           <MilestonePopup />
+        </>
+      )}
+
+      {/* Multiplayer exit confirm */}
+      {isMultiplayer && matchId && (
+        <>
+          <MultiplayerExitConfirm
+            open={showExitConfirm}
+            onStay={() => setShowExitConfirm(false)}
+            onLeave={() => {
+              abandonMatch(matchId);
+              router.push("/multiplayer");
+            }}
+          />
+          {gameState === "playing" && (
+            <MultiplayerAbandonNotice matchId={matchId} opponentName={opponentName} />
+          )}
         </>
       )}
     </main>

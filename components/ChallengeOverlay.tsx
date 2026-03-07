@@ -1,0 +1,243 @@
+"use client";
+
+import { useState, useEffect, useRef, useCallback } from "react";
+import { motion, AnimatePresence } from "framer-motion";
+import { Swords, X, Check } from "lucide-react";
+import { useRouter, usePathname } from "next/navigation";
+import { getUsername } from "@/lib/username";
+import {
+  getMyPendingChallenges, acceptChallenge, declineChallenge,
+  subscribeToMatch,
+  type MultiplayerMatch, type GameType, GAME_LABELS,
+} from "@/lib/multiplayer";
+import { useLang } from "@/components/LanguageProvider";
+import AvatarCompanion from "@/components/AvatarCompanion";
+import { getGender, type AvatarGender } from "@/lib/gender";
+import { getSkinDef, getActiveSkin } from "@/lib/skins";
+import { getFaceDef, getActiveFace } from "@/lib/faces";
+import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
+import { getActiveHat, getHatDef } from "@/lib/accessories";
+
+const T = {
+  en: { hey: "Hey", invited: "challenged you to", accept: "Accept", decline: "Decline", waiting: "Waiting for response...", accepted: "Challenge accepted!", starting: "Starting in" },
+  hu: { hey: "Hey", invited: "kihivott teged erre:", accept: "Elfogadom", decline: "Nem", waiting: "Varakozas a valaszra...", accepted: "Kihivas elfogadva!", starting: "Indul" },
+  de: { hey: "Hey", invited: "fordert dich heraus zu", accept: "Annehmen", decline: "Ablehnen", waiting: "Warte auf Antwort...", accepted: "Herausforderung angenommen!", starting: "Start in" },
+  ro: { hey: "Hei", invited: "te-a provocat la", accept: "Accept", decline: "Refuz", waiting: "Se asteapta raspunsul...", accepted: "Provocare acceptata!", starting: "Incepe in" },
+};
+
+export default function ChallengeOverlay() {
+  const router = useRouter();
+  const pathname = usePathname();
+  const { lang } = useLang();
+  const t = T[lang] || T.en;
+
+  const [myName, setMyName] = useState<string | null>(null);
+  const [challenge, setChallenge] = useState<MultiplayerMatch | null>(null);
+  const [phase, setPhase] = useState<"incoming" | "accepting" | "countdown">("incoming");
+  const [countdown, setCountdown] = useState(3);
+  const [dismissed, setDismissed] = useState<Set<string>>(new Set());
+
+  // Avatar state
+  const [gender] = useState<AvatarGender>(() => getGender());
+  const [activeSkin] = useState(() => getSkinDef(getActiveSkin()));
+  const [activeFace] = useState(() => getFaceDef(getActiveFace()));
+  const [activeTop] = useState(() => { const id = getActive("top"); return id ? getTopDef(id) : null; });
+  const [activeBottom] = useState(() => { const id = getActive("bottom"); return id ? getBottomDef(id) : null; });
+  const [activeShoe] = useState(() => { const id = getActive("shoe"); return id ? getShoeDef(id) : null; });
+  const [activeCape] = useState(() => { const id = getActive("cape"); return id ? getCapeDef(id) : null; });
+  const [activeGlasses] = useState(() => { const id = getActive("glasses"); return id ? getGlassesDef(id) : null; });
+  const [activeGloves] = useState(() => { const id = getActive("gloves"); return id ? getGloveDef(id) : null; });
+  const [activeHat] = useState(() => { const id = getActiveHat(); return id ? getHatDef(id) : null; });
+  const [avatarMood, setAvatarMood] = useState<"idle" | "surprised" | "happy" | "victory">("idle");
+
+  const pollRef = useRef<ReturnType<typeof setInterval>>(undefined);
+
+  useEffect(() => {
+    setMyName(getUsername());
+  }, []);
+
+  // Poll for incoming challenges (skip if on /multiplayer page — that page handles its own)
+  useEffect(() => {
+    if (!myName || pathname === "/multiplayer") return;
+
+    const check = async () => {
+      const pending = await getMyPendingChallenges();
+      if (pending.length > 0) {
+        const newest = pending[0];
+        if (!dismissed.has(newest.id) && (!challenge || challenge.id !== newest.id)) {
+          setChallenge(newest);
+          setPhase("incoming");
+          setAvatarMood("surprised");
+        }
+      }
+    };
+
+    check();
+    pollRef.current = setInterval(check, 4000);
+    return () => { if (pollRef.current) clearInterval(pollRef.current); };
+  }, [myName, pathname, dismissed, challenge]);
+
+  const handleAccept = useCallback(async () => {
+    if (!challenge) return;
+    setPhase("accepting");
+    setAvatarMood("happy");
+
+    await acceptChallenge(challenge.id);
+
+    // Short celebration then countdown
+    setTimeout(() => {
+      setPhase("countdown");
+      setAvatarMood("victory");
+      setCountdown(3);
+    }, 800);
+  }, [challenge]);
+
+  const handleDecline = useCallback(async () => {
+    if (!challenge) return;
+    await declineChallenge(challenge.id);
+    setDismissed((prev) => new Set(prev).add(challenge.id));
+    setChallenge(null);
+    setAvatarMood("idle");
+  }, [challenge]);
+
+  // Countdown timer
+  useEffect(() => {
+    if (phase !== "countdown") return;
+    if (countdown <= 0) {
+      // Navigate to game
+      if (challenge) {
+        const isP1 = challenge.player1_name.toLowerCase() === myName?.toLowerCase();
+        const opponent = (isP1 ? challenge.player2_name : challenge.player1_name) || "???";
+        router.push(`/${challenge.game}?match=${challenge.id}&seed=${challenge.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponent)}`);
+        setChallenge(null);
+      }
+      return;
+    }
+    const timer = setTimeout(() => setCountdown((c) => c - 1), 1000);
+    return () => clearTimeout(timer);
+  }, [phase, countdown, challenge, myName, router]);
+
+  if (!challenge) return null;
+
+  const gameLabel = GAME_LABELS[challenge.game as GameType] || challenge.game;
+
+  return (
+    <AnimatePresence>
+      <motion.div
+        className="fixed inset-0 z-[80] flex items-center justify-center bg-black/80 backdrop-blur-md px-4"
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        exit={{ opacity: 0 }}
+      >
+        <motion.div
+          className="flex flex-col items-center gap-6 max-w-sm w-full"
+          initial={{ scale: 0.8, y: 40 }}
+          animate={{ scale: 1, y: 0 }}
+          transition={{ type: "spring", damping: 20 }}
+        >
+          {/* Avatar */}
+          <motion.div
+            className="w-40 h-40 relative"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ delay: 0.2 }}
+          >
+            <AvatarCompanion
+              mood={avatarMood}
+              fixed={false}
+              gender={gender}
+              activeSkin={activeSkin}
+              activeFace={activeFace}
+              activeTop={activeTop}
+              activeBottom={activeBottom}
+              activeShoe={activeShoe}
+              activeCape={activeCape}
+              activeGlasses={activeGlasses}
+              activeGloves={activeGloves}
+              activeHat={activeHat}
+              passThrough={true}
+            />
+          </motion.div>
+
+          {/* Speech bubble */}
+          {phase === "incoming" && (
+            <motion.div
+              className="bg-card border border-white/10 rounded-2xl p-5 w-full relative"
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.3 }}
+            >
+              {/* Bubble arrow */}
+              <div className="absolute -top-2 left-1/2 -translate-x-1/2 w-4 h-4 bg-card border-l border-t border-white/10 rotate-45" />
+
+              <div className="flex flex-col items-center gap-3 relative z-10">
+                <div className="flex items-center gap-2">
+                  <Swords size={18} className="text-neon-pink" style={{ filter: "drop-shadow(0 0 8px rgba(255,45,120,0.4))" }} />
+                  <span className="text-white/40 text-xs font-bold uppercase tracking-wider">{t.hey} {myName}!</span>
+                </div>
+
+                <p className="text-white text-center text-sm">
+                  <span className="font-bold text-neon-blue">{challenge.player1_name}</span>
+                  {" "}{t.invited}{" "}
+                  <span className="font-bold text-neon-green">{gameLabel}</span>
+                </p>
+
+                <div className="flex gap-3 w-full mt-2">
+                  <motion.button
+                    onClick={handleDecline}
+                    className="flex-1 flex items-center justify-center gap-2 py-3 rounded-xl bg-white/5 border border-white/10 text-white/50 font-bold text-sm"
+                    whileHover={{ scale: 1.02 }}
+                    whileTap={{ scale: 0.98 }}
+                  >
+                    <X size={14} />
+                    {t.decline}
+                  </motion.button>
+                  <motion.button
+                    onClick={handleAccept}
+                    className="flex-1 flex items-center justify-center gap-2 py-3 rounded-xl bg-neon-green/15 border border-neon-green/40 text-neon-green font-bold text-sm"
+                    whileHover={{ scale: 1.02 }}
+                    whileTap={{ scale: 0.98 }}
+                  >
+                    <Check size={14} />
+                    {t.accept}
+                  </motion.button>
+                </div>
+              </div>
+            </motion.div>
+          )}
+
+          {/* Accepting phase */}
+          {phase === "accepting" && (
+            <motion.div
+              className="text-center"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+            >
+              <p className="text-neon-green font-bold text-lg">{t.accepted}</p>
+            </motion.div>
+          )}
+
+          {/* Countdown phase */}
+          {phase === "countdown" && (
+            <motion.div className="flex flex-col items-center gap-4">
+              <p className="text-white/50 text-sm font-bold">{t.starting}...</p>
+              <motion.div
+                key={countdown}
+                className="text-7xl font-black text-neon-blue"
+                style={{ textShadow: "0 0 30px rgba(0,212,255,0.6)" }}
+                initial={{ scale: 2, opacity: 0 }}
+                animate={{ scale: 1, opacity: 1 }}
+                transition={{ duration: 0.3 }}
+              >
+                {countdown > 0 ? countdown : "GO!"}
+              </motion.div>
+              <p className="text-white/30 text-xs">
+                {challenge.player1_name} vs {challenge.player2_name} — {gameLabel}
+              </p>
+            </motion.div>
+          )}
+        </motion.div>
+      </motion.div>
+    </AnimatePresence>
+  );
+}

@@ -4,17 +4,33 @@ import type { FurnitureProps } from "./types";
 export default function CoffeeTable({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={-4} rx={28} ry={8} fill="rgba(0,0,0,0.10)" />
-      <line x1={-18} y1={-3} x2={-18} y2={3} stroke="#6B5040" strokeWidth={2} />
-      <line x1={18} y1={-3} x2={18} y2={3} stroke="#5B4030" strokeWidth={2} />
-      <line x1={0} y1={5} x2={0} y2={-1} stroke="#5B4030" strokeWidth={2} />
-      <line x1={-2} y1={-9} x2={-2} y2={-3} stroke="#6B5040" strokeWidth={2} />
-      <path d="M 22,-6 L 22,-10 L 0,2 L 0,6 Z" fill="#6B5040" />
-      <path d="M -22,-6 L -22,-10 L 0,2 L 0,6 Z" fill="#8B7050" />
-      <path d="M -22,-10 L 0,-22 L 22,-10 L 0,2 Z" fill="#A08060" />
-      <ellipse cx={6} cy={-12} rx={3} ry={1.5} fill="#E8E0D0" />
-      <path d="M 3,-12 L 3,-15 L 9,-15 L 9,-12" fill="none" stroke="#D0C8B8" strokeWidth={0.8} />
-      <path d="M 0,-22 L 11,-16 L 0,-10 L -11,-16 Z" fill="rgba(255,255,255,0.05)" />
+      <defs>
+        <linearGradient id="ctTop" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#B89870" />
+          <stop offset="100%" stopColor="#A08060" />
+        </linearGradient>
+        <linearGradient id="ctLeft" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#8B7050" />
+          <stop offset="100%" stopColor="#7B6040" />
+        </linearGradient>
+        <linearGradient id="ctRight" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#6B5040" />
+          <stop offset="100%" stopColor="#5B4030" />
+        </linearGradient>
+      </defs>
+      {/* Shadow */}
+      <ellipse cx={0} cy={-4} rx={26} ry={7} fill="rgba(0,0,0,0.10)" />
+      {/* Legs */}
+      <line x1={-16} y1={-8} x2={-16} y2={0} stroke="#7B6040" strokeWidth={2} />
+      <line x1={16} y1={-8} x2={16} y2={0} stroke="#5B4030" strokeWidth={2} />
+      <line x1={0} y1={2} x2={0} y2={-4} stroke="#6B5040" strokeWidth={2} />
+      <line x1={-2} y1={-14} x2={-2} y2={-6} stroke="#7B6040" strokeWidth={2} />
+      {/* Tabletop — left face (thin) */}
+      <path d="M -22,-6 L -22,-10 L 0,2 L 0,6 Z" fill="url(#ctLeft)" />
+      {/* Tabletop — right face (thin) */}
+      <path d="M 22,-6 L 22,-10 L 0,2 L 0,6 Z" fill="url(#ctRight)" />
+      {/* Tabletop — top face */}
+      <path d="M -22,-10 L 0,-22 L 22,-10 L 0,2 Z" fill="url(#ctTop)" />
     </g>
   );
 }

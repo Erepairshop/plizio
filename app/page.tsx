@@ -3,14 +3,11 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Flame, Layers, Star, User, ChevronDown, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Home as HomeIcon, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Home as HomeIcon, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
-import Logo from "@/components/Logo";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
-import GameCard from "@/components/GameCard";
-import Link from "next/link";
+import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap";
 import { getCards } from "@/lib/cards";
-import { WORLD_ZONES, getWorldProgress } from "@/lib/world";
 import { getSpecialCardCount, markAsReferred, isReferred, claimReferralReward } from "@/lib/specialCards";
 import { getStats } from "@/lib/milestones";
 import { claimDailyReward, type DailyRewardResult } from "@/lib/dailyReward";
@@ -338,6 +335,34 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
   },
 ];
 
+/* Planet positions in the 800x900 viewBox — compact, closer together */
+const ISLAND_POSITIONS: Record<string, { cx: number; cy: number; color: string; glow: string }> = {
+  quizreflex: { cx: 250, cy: 260, color: "#00D4FF", glow: "rgba(0,212,255,0.4)" },
+  adventure:  { cx: 550, cy: 310, color: "#00FF88", glow: "rgba(0,255,136,0.4)" },
+  brain:      { cx: 230, cy: 460, color: "#FFD700", glow: "rgba(255,215,0,0.4)" },
+  logic:      { cx: 540, cy: 520, color: "#B44DFF", glow: "rgba(180,77,255,0.4)" },
+};
+
+function categoriesToIslands(categories: CategoryDef[]): Island[] {
+  return categories.map((cat) => {
+    const pos = ISLAND_POSITIONS[cat.id] ?? { cx: 400, cy: 300, color: "#fff", glow: "rgba(255,255,255,0.3)" };
+    return {
+      id: cat.id,
+      label: cat.label,
+      color: pos.color,
+      glow: pos.glow,
+      cx: pos.cx,
+      cy: pos.cy,
+      games: cat.games.map((g) => ({
+        id: g.id,
+        icon: g.icon,
+        name: g.name,
+        color: g.color,
+      })) as IslandGame[],
+    };
+  });
+}
+
 function getCategoriesWithTranslations(lang: string): CategoryDef[] {
   // Type guard for translations
   const validLangs = ['en', 'hu', 'de', 'ro'] as const;
@@ -373,6 +398,26 @@ function getCategoriesWithTranslations(lang: string): CategoryDef[] {
   });
 }
 
+const GAME_TO_CATEGORY: Record<string, string> = {
+  quickpick: "quizreflex", reflexrush: "quizreflex", memoryflash: "quizreflex",
+  spotdiff: "quizreflex", numberrush: "quizreflex", wordscramble: "quizreflex",
+  sequencerush: "quizreflex", wordhunt: "quizreflex", milliomos: "quizreflex",
+  kodex: "quizreflex",
+  skyclimb: "adventure", citydrive: "adventure", racetrack: "adventure", pliziolife: "adventure",
+  mathtest: "brain", deutschtest: "brain",
+  numberpath: "logic", minisudoku: "logic",
+};
+
+function getLastPlayedCategory(): string | null {
+  if (typeof window === "undefined") return null;
+  const cards = getCards();
+  if (cards.length === 0) return null;
+  // Find the most recent card by date
+  const sorted = [...cards].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  const lastGame = sorted[0]?.game;
+  return lastGame ? (GAME_TO_CATEGORY[lastGame] ?? null) : null;
+}
+
 function getStreak(): number {
   if (typeof window === "undefined") return 0;
   const data = localStorage.getItem("plizio_streak");
@@ -383,43 +428,6 @@ function getStreak(): number {
   if (lastDate === today) return count;
   if (lastDate === yesterday) return count;
   return 0;
-}
-
-function WorldButton() {
-  const [completedZones, setCompletedZones] = useState<string[]>([]);
-  useEffect(() => {
-    setCompletedZones(getWorldProgress().completedZones);
-  }, []);
-
-  return (
-    <motion.div
-      className="w-full max-w-md px-2"
-      initial={{ opacity: 0, y: 10 }}
-      animate={{ opacity: 1, y: 0 }}
-      transition={{ delay: 0.9 }}
-    >
-      <Link href="/world/">
-        <div className="w-full flex items-center gap-4 rounded-2xl px-4 py-3 border border-neon-blue/20 bg-gradient-to-r from-neon-blue/10 to-neon-purple/10 hover:border-neon-blue/40 transition-all active:scale-[0.98]">
-          <span className="text-2xl">🗺️</span>
-          <div className="flex-1">
-            <p className="text-white font-bold text-sm leading-tight">Plizio World</p>
-            <p className="text-white/40 text-xs">{completedZones.length} / {WORLD_ZONES.length} zóna teljesítve</p>
-          </div>
-          <div className="flex items-center gap-1">
-            {WORLD_ZONES.map((z, i) => (
-              <div
-                key={z.id}
-                className="w-2 h-2 rounded-full"
-                style={{
-                  background: completedZones.includes(z.id) ? z.color : "rgba(255,255,255,0.12)",
-                }}
-              />
-            ))}
-          </div>
-        </div>
-      </Link>
-    </motion.div>
-  );
 }
 
 export default function Home() {
@@ -433,28 +441,18 @@ export default function Home() {
   const [username, setUsernameState] = useState<string | null>(null);
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [categories, setCategories] = useState<CategoryDef[]>([]);
-  const [openCategories, setOpenCategories] = useState<Record<string, boolean>>({});
   const [dailyReward, setDailyReward] = useState<DailyRewardResult | null>(null);
+  const [lastCategory, setLastCategory] = useState<string | null>(null);
 
   useEffect(() => {
-    // Initialize categories with translations
-    const translatedCategories = getCategoriesWithTranslations(lang);
-    setCategories(translatedCategories);
-
-    // Initialize open/closed state — restore from localStorage if saved
-    const savedRaw = typeof window !== "undefined" ? localStorage.getItem("plizio_cat_open") : null;
-    const savedArr: boolean[] = savedRaw ? JSON.parse(savedRaw) : [];
-    const initialOpenState: Record<string, boolean> = {};
-    translatedCategories.forEach((cat, i) => {
-      initialOpenState[cat.label] = savedArr[i] ?? false;
-    });
-    setOpenCategories(initialOpenState);
+    setCategories(getCategoriesWithTranslations(lang));
   }, [lang]);
 
   useEffect(() => {
     setStreak(getStreak());
     setCardCount(getCards().length);
     setSpecialCount(getSpecialCardCount());
+    setLastCategory(getLastPlayedCategory());
 
     // Daily login reward
     const reward = claimDailyReward();
@@ -477,15 +475,22 @@ export default function Home() {
       setSpecialCount(getSpecialCardCount());
     }
 
-    // Check auth and show registration popup after 5 games
+    // Check auth — only show registration popup once (after 5 games, never again after dismiss)
     const checkAuth = async () => {
       const user = await getUser();
       setIsLoggedIn(!!user);
+      // Never auto-show auth modal again after dismissed or registered
       if (!user) {
         const stats = getStats();
         const dismissed = localStorage.getItem("plizio_auth_dismissed");
-        if (stats.totalGames >= 5 && !dismissed) {
-          setShowAuth(true);
+        const registered = localStorage.getItem("plizio_registered");
+        if (stats.totalGames >= 5 && !dismissed && !registered) {
+          // Only show once per session (sessionStorage prevents repeat on same tab)
+          const shownThisSession = sessionStorage.getItem("plizio_auth_shown");
+          if (!shownThisSession) {
+            sessionStorage.setItem("plizio_auth_shown", "1");
+            setShowAuth(true);
+          }
         }
       }
     };
@@ -501,7 +506,7 @@ export default function Home() {
       setCardCount(getCards().length);
       setSpecialCount(getSpecialCardCount());
     };
-    const onVisible = () => { if (document.visibilityState === "visible") refreshCounts(); };
+    const onVisible = () => { if (document.visibilityState === "visible") { refreshCounts(); setLastCategory(getLastPlayedCategory()); } };
     window.addEventListener("plizio-cards-changed", refreshCounts);
     document.addEventListener("visibilitychange", onVisible);
 
@@ -513,195 +518,59 @@ export default function Home() {
   }, []);
 
   return (
-    <main className="min-h-screen flex flex-col items-center justify-start px-4 pt-8 pb-8 gap-6">
-      {/* Logo */}
-      <Logo />
+    <main className="fixed inset-0 overflow-hidden">
+      {/* Fullscreen Island Map */}
+      <IslandMap
+        islands={categoriesToIslands(categories)}
+        username={username}
+        streak={streak}
+        specialCount={specialCount}
+        cardCount={cardCount}
+        lastPlayedCategory={lastCategory}
+      />
 
-      {/* Language switcher */}
-      <LanguageSwitcher />
-
-      {/* Username greeting */}
-      {username && (
+      {/* Top bar — nav buttons right, language switcher left */}
+      <div className="fixed top-0 left-0 right-0 z-30 flex items-center justify-between px-3 py-2.5 pointer-events-none">
+        {/* Language switcher — left */}
         <motion.div
-          className="text-white/30 text-sm font-bold tracking-wider"
-          initial={{ opacity: 0 }} animate={{ opacity: 1 }}
-          transition={{ delay: 0.6 }}
+          className="pointer-events-auto"
+          initial={{ opacity: 0, x: -20 }}
+          animate={{ opacity: 1, x: 0 }}
+          transition={{ delay: 0.4 }}
         >
-          {username}
+          <LanguageSwitcher />
         </motion.div>
-      )}
 
-      {/* Stats bar */}
-      {(streak > 0 || cardCount > 0 || specialCount > 0) && (
-        <motion.div
-          className="flex items-center gap-5"
-          initial={{ opacity: 0, y: 10 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.8 }}
-        >
-          {streak > 0 && (
-            <div className="flex items-center gap-1.5">
-              <Flame size={16} className="text-gold" style={{ filter: "drop-shadow(0 0 4px rgba(255,215,0,0.4))" }} />
-              <span className="text-gold/70 font-bold text-sm">{streak}</span>
-            </div>
-          )}
-          {specialCount > 0 && (
-            <div className="flex items-center gap-1.5">
-              <Star size={14} className="text-[#E040FB]" style={{ filter: "drop-shadow(0 0 4px rgba(224,64,251,0.4))" }} />
-              <span className="text-[#E040FB]/70 font-bold text-sm">{specialCount}</span>
-            </div>
-          )}
-          {cardCount > 0 && (
-            <div className="flex items-center gap-1.5">
-              <Layers size={14} className="text-white/30" />
-              <span className="text-white/30 font-bold text-sm">{cardCount}</span>
-            </div>
-          )}
-        </motion.div>
-      )}
-
-      {/* Plizio World button */}
-      <WorldButton />
-
-      {/* Categories */}
-      <div className="flex flex-col items-center gap-6 w-full max-w-md px-2">
-        {categories.map((cat, ci) => {
-          const CatIcon = cat.icon;
-          const isOpen = openCategories[cat.label] ?? true;
-          const isEmpty = cat.games.length === 0;
-          return (
-            <motion.div
-              key={cat.label}
-              className="w-full flex flex-col items-center gap-3"
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: 0.3 + ci * 0.2 }}
-            >
-              {/* Category header - clickable to toggle */}
-              <button
-                onClick={() => setOpenCategories(prev => {
-                  const newState = { ...prev, [cat.label]: !prev[cat.label] };
-                  const arr = categories.map(c => newState[c.label] ?? false);
-                  localStorage.setItem("plizio_cat_open", JSON.stringify(arr));
-                  return newState;
-                })}
-                className="flex items-center gap-3 w-full group cursor-pointer"
+        {/* Nav buttons — right */}
+        <div className="flex items-center gap-2 pointer-events-auto">
+          {([
+            { href: "/multiplayer", icon: Swords, color: "#FF2D78", border: "border-neon-pink/20", glow: "0 0 12px rgba(255,45,120,0.2)", delay: 0.45 },
+            { href: "/profile", icon: User, color: isLoggedIn ? "#00FF88" : "rgba(255,255,255,0.4)", border: isLoggedIn ? "border-neon-green/20" : "border-white/10", glow: isLoggedIn ? "0 0 12px rgba(0,255,136,0.15)" : undefined, delay: 0.5 },
+            { href: "/room", icon: HomeIcon, color: "#00D4FF", border: "border-neon-blue/20", glow: "0 0 12px rgba(0,212,255,0.15)", delay: 0.6 },
+            { href: "/shop", icon: Star, color: "#E040FB", border: "border-[#E040FB]/20", glow: "0 0 12px rgba(224,64,251,0.2)", delay: 0.7 },
+            { href: "/collection", icon: Trophy, color: "#FFD700", border: "border-gold/20", glow: "0 0 12px rgba(255,215,0,0.2)", delay: 0.8 },
+          ] as const).map((btn) => {
+            const Icon = btn.icon;
+            return (
+              <motion.div
+                key={btn.href}
+                initial={{ opacity: 0, scale: 0 }}
+                animate={{ opacity: 1, scale: 1 }}
+                transition={{ delay: btn.delay, type: "spring" }}
               >
-                <div className="h-px flex-1 opacity-20" style={{ background: `linear-gradient(to right, transparent, ${cat.color})` }} />
-                <div className="flex items-center gap-2">
-                  <CatIcon size={14} style={{ color: cat.color, filter: `drop-shadow(0 0 6px ${cat.color}60)` }} />
-                  <span className="text-[10px] font-bold tracking-[0.2em] uppercase" style={{ color: `${cat.color}90` }}>
-                    {cat.label}
-                  </span>
-                  <motion.div animate={{ rotate: isOpen ? 180 : 0 }} transition={{ duration: 0.2 }}>
-                    <ChevronDown size={12} style={{ color: `${cat.color}60` }} />
-                  </motion.div>
-                </div>
-                <div className="h-px flex-1 opacity-20" style={{ background: `linear-gradient(to left, transparent, ${cat.color})` }} />
-              </button>
-
-              {/* Games in this category */}
-              <AnimatePresence initial={false}>
-                {isOpen && (
-                  <motion.div
-                    initial={{ height: 0, opacity: 0 }}
-                    animate={{ height: "auto", opacity: 1 }}
-                    exit={{ height: 0, opacity: 0 }}
-                    transition={{ duration: 0.25, ease: "easeInOut" }}
-                    className="overflow-hidden w-full"
-                  >
-                    {isEmpty ? (
-                      <div className="flex flex-col items-center gap-2 py-4">
-                        <CatIcon size={24} style={{ color: `${cat.color}30` }} />
-                        <span className="text-[10px] font-bold tracking-wider" style={{ color: `${cat.color}40` }}>
-                          {TRANSLATIONS[lang as keyof typeof TRANSLATIONS]?.ui?.comingSoon || "COMING SOON"}
-                        </span>
-                      </div>
-                    ) : (
-                      <div className="flex flex-wrap items-center justify-center gap-4 sm:gap-6">
-                        {cat.games.map((game, gi) => (
-                          <GameCard
-                            key={game.id}
-                            icon={game.icon}
-                            name={game.name}
-                            color={game.color}
-                            gradient={game.gradient}
-                            href={`/${game.id}`}
-                            delay={0.4 + ci * 0.2 + gi * 0.1}
-                          />
-                        ))}
-                      </div>
-                    )}
-                  </motion.div>
-                )}
-              </AnimatePresence>
-            </motion.div>
-          );
-        })}
-      </div>
-
-      {/* Bottom buttons: Profile + Shop + Collection */}
-      <div className="fixed bottom-6 right-6 flex flex-col gap-3">
-        <motion.div
-          initial={{ opacity: 0, scale: 0 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ delay: 0.8, type: "spring" }}
-        >
-          <motion.button
-            onClick={() => router.push("/profile")}
-            className={`bg-card border p-3.5 rounded-full ${isLoggedIn ? "border-neon-green/20" : "border-white/10"}`}
-            style={isLoggedIn ? { boxShadow: "0 0 20px rgba(0,255,136,0.15)" } : undefined}
-            whileHover={{ scale: 1.15 }}
-            whileTap={{ scale: 0.9 }}
-          >
-            <User size={24} className={isLoggedIn ? "text-neon-green" : "text-white/40"} />
-          </motion.button>
-        </motion.div>
-        <motion.div
-          initial={{ opacity: 0, scale: 0 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ delay: 0.9, type: "spring" }}
-        >
-          <motion.button
-            onClick={() => router.push("/room")}
-            className="bg-card border border-neon-blue/20 p-3.5 rounded-full"
-            style={{ boxShadow: "0 0 20px rgba(0,212,255,0.15)" }}
-            whileHover={{ scale: 1.15, rotate: -10 }}
-            whileTap={{ scale: 0.9 }}
-          >
-            <HomeIcon size={24} className="text-neon-blue" style={{ filter: "drop-shadow(0 0 6px rgba(0,212,255,0.5))" }} />
-          </motion.button>
-        </motion.div>
-        <motion.div
-          initial={{ opacity: 0, scale: 0 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ delay: 1, type: "spring" }}
-        >
-          <motion.button
-            onClick={() => router.push("/shop")}
-            className="bg-card border border-[#E040FB]/20 p-3.5 rounded-full"
-            style={{ boxShadow: "0 0 20px rgba(224,64,251,0.2)" }}
-            whileHover={{ scale: 1.15, rotate: -10 }}
-            whileTap={{ scale: 0.9 }}
-          >
-            <Star size={24} className="text-[#E040FB]" style={{ filter: "drop-shadow(0 0 6px rgba(224,64,251,0.5))" }} />
-          </motion.button>
-        </motion.div>
-        <motion.div
-          initial={{ opacity: 0, scale: 0 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ delay: 1.1, type: "spring" }}
-        >
-          <motion.button
-            onClick={() => router.push("/collection")}
-            className="bg-card border border-gold/20 p-3.5 rounded-full"
-            style={{ boxShadow: "0 0 20px rgba(255,215,0,0.2)" }}
-            whileHover={{ scale: 1.15, rotate: 10 }}
-            whileTap={{ scale: 0.9 }}
-          >
-            <Trophy size={24} className="text-gold" style={{ filter: "drop-shadow(0 0 6px rgba(255,215,0,0.5))" }} />
-          </motion.button>
-        </motion.div>
+                <motion.button
+                  onClick={() => router.push(btn.href)}
+                  className={`bg-card/80 backdrop-blur-sm border ${btn.border} p-2.5 rounded-full`}
+                  style={btn.glow ? { boxShadow: btn.glow } : undefined}
+                  whileHover={{ scale: 1.15 }}
+                  whileTap={{ scale: 0.9 }}
+                >
+                  <Icon size={18} style={{ color: btn.color, filter: `drop-shadow(0 0 4px ${btn.color}80)` }} />
+                </motion.button>
+              </motion.div>
+            );
+          })}
+        </div>
       </div>
 
       {/* Username Modal */}
