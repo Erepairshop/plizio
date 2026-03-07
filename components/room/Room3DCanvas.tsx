@@ -416,6 +416,7 @@ export default function Room3DCanvas({
   cameraZoom = 1,
   cameraPan = { x: 0, y: 0 },
 }: Room3DCanvasProps) {
+  const cameraOrthoRef = useRef<THREE.OrthographicCamera | null>(null);
   const gridMax = Math.max(gridW, gridH);
   const D = gridMax * 1.6;
   const baseZoom = 220 / gridMax;
