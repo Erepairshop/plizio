@@ -1152,7 +1152,7 @@ export default function RoomPage() {
   const iNames = INTERACTION_NAMES[lang] || INTERACTION_NAMES.en;
 
   return (
-    <div className="fixed inset-0 bg-[#0A0A1A] text-white flex flex-col overflow-hidden">
+    <div className="min-h-screen bg-[#0A0A1A] text-white flex flex-col overflow-hidden">
       {/* Header */}
       <div className="flex items-center justify-between px-4 py-3 bg-[#12122A]/80 backdrop-blur-sm border-b border-white/5">
         <Link
