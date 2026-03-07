@@ -419,7 +419,7 @@ export default function Room3DCanvas({
   const cameraOrthoRef = useRef<THREE.OrthographicCamera | null>(null);
   const gridMax = Math.max(gridW, gridH);
   const D = gridMax * 1.6;
-  const baseZoom = 220 / gridMax;
+  const baseZoom = 155 / gridMax;
 
   // Zoom & pan handled by CSS transform on the wrapper (page.tsx).
   // DPR scales with CSS zoom so the canvas renders at higher resolution,
