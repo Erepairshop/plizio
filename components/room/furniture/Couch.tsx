@@ -4,21 +4,36 @@ import type { FurnitureProps } from "./types";
 export default function Couch({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
-      <ellipse cx={0} cy={-4} rx={34} ry={10} fill="rgba(0,0,0,0.12)" />
-      <path d="M 28,-10 L 28,-20 L 0,-6 L 0,4 Z" fill="#6B3040" />
-      <path d="M -28,-10 L -28,-20 L 0,-6 L 0,4 Z" fill="#8B4050" />
-      <path d="M 0,-16 L 28,-28 L 0,-40 L -28,-28 Z" fill="#A85060" />
-      <path d="M -28,-28 L -28,-38 L 0,-50 L 0,-40 Z" fill="#7B3848" />
-      <path d="M 0,-50 L 28,-38 L 28,-28 L 0,-40 Z" fill="#5B2838" />
+      <defs>
+        <linearGradient id="coTop" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#B85868" />
+          <stop offset="100%" stopColor="#A85060" />
+        </linearGradient>
+        <linearGradient id="coLeft" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#8B4050" />
+          <stop offset="100%" stopColor="#7B3848" />
+        </linearGradient>
+        <linearGradient id="coRight" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#6B3040" />
+          <stop offset="100%" stopColor="#5B2838" />
+        </linearGradient>
+      </defs>
+      {/* Shadow */}
+      <ellipse cx={0} cy={-4} rx={30} ry={9} fill="rgba(0,0,0,0.12)" />
+      {/* Seat box — left face */}
+      <path d="M -28,-10 L -28,-18 L 0,-6 L 0,2 Z" fill="url(#coLeft)" />
+      {/* Seat box — right face */}
+      <path d="M 28,-10 L 28,-18 L 0,-6 L 0,2 Z" fill="url(#coRight)" />
+      {/* Seat box — top face */}
+      <path d="M 0,-14 L 28,-26 L 0,-38 L -28,-26 Z" fill="url(#coTop)" />
+      {/* Backrest — left face */}
+      <path d="M -28,-26 L -28,-38 L 0,-50 L 0,-38 Z" fill="#7B3848" />
+      {/* Backrest — right face */}
+      <path d="M 0,-50 L 28,-38 L 28,-26 L 0,-38 Z" fill="#5B2838" />
+      {/* Backrest — top face */}
       <path d="M -28,-38 L 0,-50 L 28,-38 L 0,-26 Z" fill="#9B4858" />
-      <line x1={-10} y1={-22} x2={-10} y2={-32} stroke="rgba(0,0,0,0.08)" strokeWidth={0.8} />
-      <line x1={10} y1={-22} x2={10} y2={-32} stroke="rgba(0,0,0,0.08)" strokeWidth={0.8} />
-      <path d="M -28,-28 L -34,-25 L -34,-35 L -28,-38 Z" fill="#7B3848" />
-      <path d="M -34,-35 L -28,-38 L -22,-35 L -28,-32 Z" fill="#9B4858" />
-      <path d="M 28,-28 L 34,-25 L 34,-35 L 28,-38 Z" fill="#5B2838" />
-      <path d="M 34,-35 L 28,-38 L 22,-35 L 28,-32 Z" fill="#9B4858" />
-      <path d="M 0,-16 L 14,-23 L 0,-30 L -14,-23 Z" fill="rgba(255,255,255,0.06)" />
-      <ellipse cx={-14} cy={-30} rx={5} ry={3} fill="#CC8890" transform="rotate(-25, -14, -30)" />
+      {/* Subtle cushion line */}
+      <line x1={-14} y1={-26} x2={14} y2={-26} stroke="rgba(0,0,0,0.10)" strokeWidth={0.8} />
     </g>
   );
 }

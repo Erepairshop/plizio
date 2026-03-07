@@ -2,23 +2,35 @@
 import type { FurnitureProps } from "./types";
 
 export default function Stove({ x, y }: FurnitureProps) {
+  const tw = 12, th = 6, H = 28;
   return (
     <g transform={`translate(${x}, ${y})`}>
+      <defs>
+        <linearGradient id="stTop" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#505058" />
+          <stop offset="100%" stopColor="#48484E" />
+        </linearGradient>
+        <linearGradient id="stLeft" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#3A3A40" />
+          <stop offset="100%" stopColor="#303036" />
+        </linearGradient>
+        <linearGradient id="stRight" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stopColor="#2A2A30" />
+          <stop offset="100%" stopColor="#222228" />
+        </linearGradient>
+      </defs>
       <ellipse cx={0} cy={-4} rx={14} ry={5} fill="rgba(0,0,0,0.12)" />
-      <path d="M 12,-6 L 12,-28 L 0,-22 L 0,0 Z" fill="#2A2A30" />
-      <path d="M -12,-6 L -12,-28 L 0,-22 L 0,0 Z" fill="#3A3A40" />
-      <path d="M -12,-28 L 0,-34 L 12,-28 L 0,-22 Z" fill="#4A4A50" />
-      <ellipse cx={-4} cy={-28} rx={3} ry={1.5} fill="#222228" />
-      <ellipse cx={4} cy={-28} rx={3} ry={1.5} fill="#222228" />
-      <ellipse cx={-4} cy={-32} rx={3} ry={1.5} fill="#222228" />
-      <ellipse cx={4} cy={-32} rx={3} ry={1.5} fill="#222228" />
-      <ellipse cx={-4} cy={-28} rx={2.5} ry={1.2} fill="rgba(255,80,40,0.3)" />
-      <ellipse cx={-4} cy={-36} rx={2} ry={1} fill="rgba(255,255,255,0.06)" />
-      <ellipse cx={-3} cy={-39} rx={1.5} ry={0.8} fill="rgba(255,255,255,0.04)" />
-      <path d="M -10,-4 L 0,2 L 10,-4 L 0,-10 Z" fill="#333338" />
-      <circle cx={0} cy={-4} r={1} fill="#666" />
-      <circle cx={10} cy={-18} r={1.2} fill="#888" />
-      <circle cx={10} cy={-22} r={1.2} fill="#888" />
+      {/* Left face */}
+      <path d={`M ${-tw},${-H+th} L 0,${-H+2*th} L 0,0 L ${-tw},${-th} Z`} fill="url(#stLeft)" />
+      {/* Right face */}
+      <path d={`M ${tw},${-H+th} L 0,${-H+2*th} L 0,0 L ${tw},${-th} Z`} fill="url(#stRight)" />
+      {/* Top face */}
+      <path d={`M 0,${-H} L ${tw},${-H+th} L 0,${-H+2*th} L ${-tw},${-H+th} Z`} fill="url(#stTop)" />
+      {/* 4 burner circles on top */}
+      <ellipse cx={-4} cy={-20} rx={2.8} ry={1.4} fill="#222228" />
+      <ellipse cx={4} cy={-20} rx={2.8} ry={1.4} fill="#222228" />
+      <ellipse cx={-4} cy={-24} rx={2.8} ry={1.4} fill="#222228" />
+      <ellipse cx={4} cy={-24} rx={2.8} ry={1.4} fill="#222228" />
     </g>
   );
 }
