@@ -489,17 +489,17 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
   {/* Main brow body — slightly curved via scale */}
   <mesh scale={[1.0, 1.0, 1.0]}>
     <boxGeometry args={[0.052, 0.013, 0.007]} />
-    <meshStandardMaterial color="#3a2816" roughness={0.7} />
+    <meshStandardMaterial color="#5a4030" roughness={0.7} />
   </mesh>
   {/* Inner thicker end */}
   <mesh position={[side * -0.016, 0.001, 0.001]} scale={[0.35, 1.2, 1.0]}>
     <boxGeometry args={[0.052, 0.013, 0.007]} />
-    <meshStandardMaterial color="#3a2816" roughness={0.7} />
+    <meshStandardMaterial color="#5a4030" roughness={0.7} />
   </mesh>
   {/* Outer tapered end */}
   <mesh position={[side * 0.020, -0.002, 0.0]} scale={[0.28, 0.55, 0.8]}>
     <boxGeometry args={[0.052, 0.013, 0.007]} />
-    <meshStandardMaterial color="#4a3826" roughness={0.75} />
+    <meshStandardMaterial color="#6a5040" roughness={0.75} />
   </mesh>
 </group>
       </>
@@ -662,8 +662,8 @@ function Character({
   mood,
   isWalking = false,
   facing,
-  skinColor: legacySkinColor = '#e8c9a0',
-  outfitColor: legacyOutfitColor = '#6b8fad',
+  skinColor: legacySkinColor = '#f0d0a8',
+  outfitColor: legacyOutfitColor = '#7a9dbd',
   jumpTrigger,
   gender = 'girl',
   activeSkin,
@@ -717,13 +717,13 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
 
   const actualBodyColor = activeTop ? activeTop.color : (hasRealSkin ? activeSkin!.bodyColor : legacyOutfitColor);
   const actualBodyAccent = activeTop?.accent || actualBodyColor;
-  const actualLegColor = activeBottom ? activeBottom.color : (hasRealSkin ? activeSkin!.limbColor : '#1e3a5f');
-  const actualShoeColor = activeShoe ? activeShoe.color : (hasRealSkin ? activeSkin!.shoeColor : '#3a2010');
+  const actualLegColor = activeBottom ? activeBottom.color : (hasRealSkin ? activeSkin!.limbColor : '#3a5a8a');
+  const actualShoeColor = activeShoe ? activeShoe.color : (hasRealSkin ? activeSkin!.shoeColor : '#5a3820');
   const actualHandColor = activeGloves ? activeGloves.color : actualLimbColor;
   const skinDark = new THREE.Color(actualSkinColor).multiplyScalar(0.82).getStyle();
 
   // Hair color (warm chestnut brown for default, or skin's headColor for fantasy skins)
-  const hairColor = hasRealSkin ? activeSkin!.headColor : '#4a2e10';
+  const hairColor = hasRealSkin ? activeSkin!.headColor : '#5c3a18';
 
   useEffect(() => {
     moodRef.current = mood;
@@ -1725,11 +1725,14 @@ export default function AvatarCompanion({
         gl={{ antialias: false, powerPreference: 'low-power', alpha: true, stencil: false }}
         style={{ background: 'transparent', ...(passThrough ? { pointerEvents: 'none' as const } : {}) }}
       >
-        <hemisphereLight color="#f8f0e8" groundColor="#a09080" intensity={0.7} />
-        <ambientLight intensity={0.45} />
-        <directionalLight position={[-3, 5, 3]} intensity={0.65} color="#fff8ee" />
-        <directionalLight position={[2, 1, -2]} intensity={0.2} color="#ccdaff" />
-        <directionalLight position={[0, -2, 3]} intensity={0.1} color="#ffe8c8" />
+        <hemisphereLight color="#f8f0e8" groundColor="#b0a090" intensity={0.85} />
+        <ambientLight intensity={0.55} />
+        <directionalLight position={[-3, 5, 3]} intensity={0.8} color="#fff8ee" />
+        <directionalLight position={[2, 1, -2]} intensity={0.25} color="#ccdaff" />
+        <directionalLight position={[0, -2, 3]} intensity={0.15} color="#ffe8c8" />
+        {/* Rim light — back edge glow so avatar pops against dark bg */}
+        <directionalLight position={[0, 1, -3]} intensity={0.6} color="#88bbff" />
+        <directionalLight position={[-2, 0, -2]} intensity={0.3} color="#aaccff" />
         <Character
           mood={mood}
           isWalking={isWalking}
