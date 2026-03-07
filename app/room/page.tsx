@@ -48,6 +48,9 @@ import { gridToScreen, TILE_W, TILE_H } from "@/components/room/IsoRoom";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion").then(m => ({ default: m.default })), { ssr: false });
 
+// TEST ONLY — remove after review
+const BedTest3DCanvas = dynamic(() => import("@/components/room/furniture3d/BedTest3DCanvas"), { ssr: false });
+
 // ─── Room definitions ───
 interface RoomDef {
   id: string;
@@ -1274,6 +1277,11 @@ export default function RoomPage() {
         onMouseLeave={isOwned ? handleMouseUp : undefined}
         style={{ touchAction: isOwned ? "none" : "auto" }}
       >
+        {/* TEST: BedBasic3D izometrikus preview — remove after review */}
+        <div className="absolute top-2 right-2 z-30 border border-white/10 rounded-xl overflow-hidden pointer-events-none">
+          <BedTest3DCanvas />
+        </div>
+
         {isOwned ? (
           <>
             <motion.div
