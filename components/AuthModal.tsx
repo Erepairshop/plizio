@@ -33,7 +33,7 @@ export default function AuthModal({ onClose, onSuccess, mode: initialMode = "log
           // Registration bonus
           addSpecialCards(3);
           await uploadToSupabase(data.user.id);
-          await syncUsernameToSupabase(data.user.id);
+          syncUsernameToSupabase(data.user.id).catch(() => {});
           localStorage.setItem("plizio_registered", "true");
           onSuccess();
         }
@@ -43,7 +43,7 @@ export default function AuthModal({ onClose, onSuccess, mode: initialMode = "log
           // Sync data from Supabase
           const { downloadFromSupabase } = await import("@/lib/sync");
           await downloadFromSupabase(data.user.id);
-          await syncUsernameToSupabase(data.user.id);
+          syncUsernameToSupabase(data.user.id).catch(() => {});
           onSuccess();
         }
       }

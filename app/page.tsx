@@ -475,15 +475,22 @@ export default function Home() {
       setSpecialCount(getSpecialCardCount());
     }
 
-    // Check auth and show registration popup after 5 games
+    // Check auth — only show registration popup once (after 5 games, never again after dismiss)
     const checkAuth = async () => {
       const user = await getUser();
       setIsLoggedIn(!!user);
+      // Never auto-show auth modal again after dismissed or registered
       if (!user) {
         const stats = getStats();
         const dismissed = localStorage.getItem("plizio_auth_dismissed");
-        if (stats.totalGames >= 5 && !dismissed) {
-          setShowAuth(true);
+        const registered = localStorage.getItem("plizio_registered");
+        if (stats.totalGames >= 5 && !dismissed && !registered) {
+          // Only show once per session (sessionStorage prevents repeat on same tab)
+          const shownThisSession = sessionStorage.getItem("plizio_auth_shown");
+          if (!shownThisSession) {
+            sessionStorage.setItem("plizio_auth_shown", "1");
+            setShowAuth(true);
+          }
         }
       }
     };
