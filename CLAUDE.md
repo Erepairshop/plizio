@@ -837,6 +837,75 @@ Szabályok:
 
 ---
 
+## PLIZIO WORLD — Meta-progression rendszer
+
+> Allapot: tervezesi fazis (2026-03-07)
+> Route: `/world`
+> Jelenlegi: 2D SVG terkep 6 zonaval, S-kanyaros ut
+
+### Koncepció
+
+A World egy **meta-progression rendszer a jatekok fole huzva**. Minden sziget (zona) 5 kuldetest tartalmaz. A kuldetes teljesiteseert **exkluziv jutalmakat** kap a jatekos (skin, virtualis allat, stb.) — amiket CSAK itt lehet megszerezni.
+
+**NEM** lock/unlock rendszer — minden sziget elerheto, de a feladatokat sorban kell teljesiteni az adott szigeten belul.
+
+### Sziget struktura (pelda)
+
+```
+Sziget 1 (Hegyvdek):
+  Feladat 1: "Jatssz NumberPath-ot"
+  Feladat 2: "Erd el 5. szintet MiniSudoku-ban"
+  Feladat 3: "Terj vissza holnap is" (streak)
+  Feladat 4: "Oszd meg egy baratodnak"
+  Feladat 5: "Jatssz 30 percet osszesen"
+  Jutalom: Hegyvdek skin (exkluziv!)
+```
+
+### Feladat tipusok
+
+| Tipus | Peldak |
+|-------|--------|
+| Jatek kihivas | "Erd el X szintet Y jatekban", "Szerezz Silver+ kartyat" |
+| Streak/visszateres | "Terj vissza holnap is", "Jatssz 3 egymast koveto napon" |
+| Idoalapu | "Jatssz 30 percet osszesen", "Jatssz 3 kulonbozo jatekkal" |
+| Social | "Oszd meg egy baratodnak" |
+| Gyujtes | "Szerezz 5 kartyat", "Valts be 3 kartyat" |
+
+### Jutalmak (szigetenkent 1 exkluziv jutalom)
+
+| Sziget | Jutalom | Tipus |
+|--------|---------|-------|
+| Hegyvdek | Hegyvdek skin | Exkluziv skin |
+| Ocean | Ocean allat (hal?) | Virtualis allat |
+| Varos | Neon skin / ruha | Exkluziv skin/ruha |
+| Erdo | Erdo allat (nyuszi?) | Virtualis allat |
+| Sivatag | Sivatag skin | Exkluziv skin |
+| Vulkan | Legendary jutalom | Kulonleges |
+
+### Terkep UI
+
+- Jelenlegi: 2D SVG terkep, 6 sziget, bezier ut koztuk
+- A terkep vizualisan mutatja a haladast: progress bar/kor minden szigeten (pl. 3/5)
+- Kattintasra megnyilik a feladat lista
+- Nem kell 3D — a latvanyossag az SVG reszletessegeben es animaciokban van
+
+### Fajlok
+
+| Fajl | Tartalom |
+|------|----------|
+| `app/world/page.tsx` | Terkep UI + feladat lista |
+| `app/world/layout.tsx` | SEO metadata |
+| `lib/world.ts` | Zona definiciok, progress, feladat ellenorzes |
+
+### localStorage
+
+| Kulcs | Tartalom |
+|-------|---------|
+| `plizio_world_progress` | `{ completedZones: string[], tasks: Record<zoneId, completedTaskIds[]> }` |
+| `plizio_world_playtime` | `{ date: string, minutes: number, games: string[] }` |
+
+---
+
 ## Out mappa szinkron (public_html deploy)
 
 **FONTOS:** A felhasználó szerverén a fájlok a `public_html/` mappából futnak.
