@@ -1123,11 +1123,12 @@ export default function RoomPage() {
     setSelectedFurnitureId(null);
   };
 
-  // Rotate furniture
+  // Rotate furniture — only 2 states: original (0) and mirrored (1)
+  // Rotations 2/3 used matrix transforms that distorted 3D furniture SVGs
   const handleRotateFurniture = (index: number) => {
     const newFurniture = [...furniture];
     const item = newFurniture[index];
-    item.rotation = ((item.rotation || 0) + 1) % 4 as 0 | 1 | 2 | 3;
+    item.rotation = ((item.rotation || 0) + 1) % 2 as 0 | 1;
     setFurniture(newFurniture);
     saveRoomFurniture(currentRoom.id, newFurniture);
   };
