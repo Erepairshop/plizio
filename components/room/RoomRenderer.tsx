@@ -3,7 +3,7 @@
 import React, { useRef } from "react";
 import IsoRoom, { gridToScreen, TILE_W, TILE_H } from "./IsoRoom";
 import { FURNITURE_COMPONENTS } from "./furniture";
-import { getFurnitureDef, getEffectiveDimensions } from "./FurnitureRegistry";
+import { getFurnitureDef } from "./FurnitureRegistry";
 
 /*  ─── Szoba renderelő ───
  *  Összefogja: IsoRoom (shell) + bútorok (SVG) + fények + rotation + animations
@@ -125,13 +125,11 @@ export default function RoomRenderer({
           const y = yCenter;
 
           const isSelected = editMode && selectedIndex === item.origIdx;
-          // Normalize: only 2 valid rotations — 0 (original) and 1 (mirror)
-          // Old saved rotation=2/3 values treated as 0/1
-          const rotation = (item.rotation || 0) % 2;
-          let rotTransform: string | undefined;
-          if (rotation === 1) {
-            rotTransform = `translate(${2 * x}, 0) scale(-1, 1)`;
-          }
+          const rotation = item.rotation || 0;
+          // Izometrikus forgatás: horizontális tükrözés (scaleX -1) a bútor talppontja körül
+          // rot 0: eredeti, rot 1: tükrözve X-ben, rot 2: eredeti, rot 3: tükrözve
+          const isMirrored = rotation === 1 || rotation === 3;
+          const rotTransform = isMirrored ? `translate(${2 * x}, 0) scale(-1, 1)` : undefined;
 
           const idx = item.origIdx;
           return (
@@ -230,12 +228,8 @@ export default function RoomRenderer({
         const GhostComponent = FURNITURE_COMPONENTS[ghost.furnitureId];
         if (!fDef || !GhostComponent) return null;
         const { x: gx, y: gy } = gridToScreen(ghost.gridX, ghost.gridY, originX, originY);
-        const ghostRot = ghost.rotation % 2;
-        let ghostRotTransform: string | undefined;
-        if (ghostRot === 1) {
-          ghostRotTransform = `translate(${2 * gx}, 0) scale(-1, 1)`;
-        }
-        const effDims = getEffectiveDimensions(fDef, ghost.rotation);
+        const isMirrored = ghost.rotation === 1 || ghost.rotation === 3;
+        const rotTransform = isMirrored ? `translate(${2 * gx}, 0) scale(-1, 1)` : undefined;
         const hw = TILE_W / 2;
         const hh = TILE_H / 2;
         const fillColor = ghost.valid ? "rgba(0,220,100,0.22)" : "rgba(255,60,60,0.22)";
@@ -243,8 +237,8 @@ export default function RoomRenderer({
         return (
           <>
             {/* Cél cellák kiemelése */}
-            {Array.from({ length: effDims.gridW }, (_, wx) =>
-              Array.from({ length: effDims.gridH }, (_, wy) => {
+            {Array.from({ length: fDef.gridW }, (_, wx) =>
+              Array.from({ length: fDef.gridH }, (_, wy) => {
                 const { x: tx, y: ty } = gridToScreen(ghost.gridX + wx, ghost.gridY + wy, originX, originY);
                 return (
                   <path
@@ -258,7 +252,7 @@ export default function RoomRenderer({
               })
             )}
             {/* Ghost bútor — félátlátszó */}
-            <g transform={ghostRotTransform} opacity={0.55} style={{ pointerEvents: "none" }}>
+            <g transform={rotTransform} opacity={0.55} style={{ pointerEvents: "none" }}>
               <GhostComponent x={gx} y={gy} />
             </g>
           </>
