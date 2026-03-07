@@ -77,25 +77,6 @@ function worldToGrid(wx: number, wz: number, gridW: number, gridH: number) {
   };
 }
 
-// ─── Camera controller — zoom via camera.zoom only (no CSS scale = no pixelation)
-// Pan is handled by CSS translate in page.tsx (translate doesn't degrade pixels).
-// Formula: cam.zoom = baseZoom * userZoom
-//   baseZoom: fits room into canvas at scale 1
-//   userZoom: user-controlled zoom state
-function CameraController({
-  baseZoom, userZoom,
-}: { baseZoom: number; userZoom: number }) {
-  const { camera } = useThree();
-
-  useEffect(() => {
-    const cam = camera as THREE.OrthographicCamera;
-    cam.zoom = baseZoom * userZoom;
-    cam.updateProjectionMatrix();
-  }, [camera, baseZoom, userZoom]);
-
-  return null;
-}
-
 // ─── Avatar position tracker (R3F inner component) ───────────────────────────
 // Emits WINDOW-relative screen coords so page.tsx can position the DOM avatar.
 // getBoundingClientRect() reflects the CSS zoom/pan transform, so the coords
@@ -299,14 +280,6 @@ function RoomScene({
 
   return (
     <>
-      {/* Camera controller — zoom via camera (not CSS scale = sharp at any zoom level) */}
-      {baseZoom !== undefined && (
-        <CameraController
-          baseZoom={baseZoom}
-          userZoom={cameraZoom ?? 1}
-        />
-      )}
-
       {/* Lighting — hemisphere for sky/ground gradient, directional for depth */}
       <hemisphereLight args={["#FFF4E0", "#2A1A0A", 0.7]} />
       <directionalLight position={[-5, 12, 5]} intensity={1.1} castShadow={false} />
@@ -445,19 +418,30 @@ export default function Room3DCanvas({
 }: Room3DCanvasProps) {
   const gridMax = Math.max(gridW, gridH);
   const D = gridMax * 1.6;
-  // Base zoom fits the room into the canvas. CameraController multiplies by cameraZoom.
   const baseZoom = 220 / gridMax;
+
+  // Imperative camera zoom — updated outside Canvas's inner React root so it
+  // always reflects the latest React state (no inner-reconciler timing issues).
+  const cameraOrthoRef = useRef<THREE.OrthographicCamera | null>(null);
+  useEffect(() => {
+    if (!cameraOrthoRef.current) return;
+    cameraOrthoRef.current.zoom = baseZoom * cameraZoom;
+    cameraOrthoRef.current.updateProjectionMatrix();
+  }, [baseZoom, cameraZoom]);
 
   return (
     <Canvas
       orthographic
-      // Initial camera: zoom=baseZoom so room fits at scale 1; CameraController adjusts further
       camera={{ position: [D, D, D], zoom: baseZoom, up: [0, 1, 0], near: 0.1, far: 200 }}
       style={{ width: "100%", height: "100%" }}
       gl={{ antialias: true, alpha: true }}
       dpr={[1, 2]}
       onCreated={({ camera }) => {
-        (camera as THREE.OrthographicCamera).lookAt(0, 0, 0);
+        cameraOrthoRef.current = camera as THREE.OrthographicCamera;
+        cameraOrthoRef.current.lookAt(0, 0, 0);
+        // Apply initial zoom in case cameraZoom > 1 on mount
+        cameraOrthoRef.current.zoom = baseZoom * cameraZoom;
+        cameraOrthoRef.current.updateProjectionMatrix();
       }}
     >
       <RoomScene
