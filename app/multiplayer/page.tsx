@@ -11,7 +11,7 @@ import {
 import { useLang } from "@/components/LanguageProvider";
 import { getUsername, hasUsername, searchUsernames } from "@/lib/username";
 import {
-  createChallenge, acceptChallenge, declineChallenge,
+  createChallenge, acceptChallenge, declineChallenge, cancelChallenge,
   getMyPendingChallenges, getMySentChallenges, getMyActiveMatches, getMyMatchHistory,
   type MultiplayerMatch, type GameType, GAME_LABELS,
 } from "@/lib/multiplayer";
@@ -549,7 +549,7 @@ export default function MultiplayerPage() {
           match={waitingMatch}
           myName={myName}
           onCancel={() => {
-            declineChallenge(waitingMatch.id);
+            cancelChallenge(waitingMatch.id);
             setWaitingMatch(null);
             loadData();
           }}

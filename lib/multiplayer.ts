@@ -295,7 +295,15 @@ export function subscribeToMyChallenges(
 export async function declineChallenge(matchId: string): Promise<void> {
   await supabase
     .from("multiplayer_matches")
-    .delete()
+    .update({ status: "declined" })
+    .eq("id", matchId)
+    .eq("status", "waiting");
+}
+
+export async function cancelChallenge(matchId: string): Promise<void> {
+  await supabase
+    .from("multiplayer_matches")
+    .update({ status: "cancelled" })
     .eq("id", matchId)
     .eq("status", "waiting");
 }

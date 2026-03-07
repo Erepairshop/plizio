@@ -15,10 +15,10 @@ import { getActiveHat, getHatDef } from "@/lib/accessories";
 import { useLang } from "@/components/LanguageProvider";
 
 const T = {
-  en: { waiting: "Waiting for", toAccept: "to accept...", cancel: "Cancel", accepted: "Challenge accepted!", starting: "Starting in" },
-  hu: { waiting: "Varakozas,", toAccept: "elfogadja...", cancel: "Megse", accepted: "Kihivas elfogadva!", starting: "Indul" },
-  de: { waiting: "Warte auf", toAccept: "...", cancel: "Abbrechen", accepted: "Angenommen!", starting: "Start in" },
-  ro: { waiting: "Se asteapta ca", toAccept: "sa accepte...", cancel: "Anuleaza", accepted: "Provocare acceptata!", starting: "Incepe in" },
+  en: { waiting: "Waiting for", toAccept: "to accept...", cancel: "Cancel", accepted: "Challenge accepted!", starting: "Starting in", declined: "declined your challenge", back: "Back" },
+  hu: { waiting: "Varakozas,", toAccept: "elfogadja...", cancel: "Megse", accepted: "Kihivas elfogadva!", starting: "Indul", declined: "elutasitotta a kihivast", back: "Vissza" },
+  de: { waiting: "Warte auf", toAccept: "...", cancel: "Abbrechen", accepted: "Angenommen!", starting: "Start in", declined: "hat abgelehnt", back: "Zuruck" },
+  ro: { waiting: "Se asteapta ca", toAccept: "sa accepte...", cancel: "Anuleaza", accepted: "Provocare acceptata!", starting: "Incepe in", declined: "a refuzat provocarea", back: "Inapoi" },
 };
 
 interface Props {
@@ -32,9 +32,9 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
   const { lang } = useLang();
   const t = T[lang] || T.en;
 
-  const [phase, setPhase] = useState<"waiting" | "accepted" | "countdown">("waiting");
+  const [phase, setPhase] = useState<"waiting" | "accepted" | "countdown" | "declined">("waiting");
   const [countdown, setCountdown] = useState(3);
-  const [avatarMood, setAvatarMood] = useState<"idle" | "happy" | "victory">("idle");
+  const [avatarMood, setAvatarMood] = useState<"idle" | "happy" | "victory" | "disappointed">("idle");
 
   // Avatar state
   const [gender] = useState<AvatarGender>(() => getGender());
@@ -73,6 +73,9 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
           setAvatarMood("victory");
           setCountdown(3);
         }, 1000);
+      } else if (data?.status === "declined" || data?.status === "cancelled") {
+        setPhase("declined");
+        setAvatarMood("disappointed");
       }
     };
 
@@ -198,6 +201,38 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
             <p className="text-white/30 text-xs">
               {myName} vs {opponentName} — {gameLabel}
             </p>
+          </motion.div>
+        )}
+
+        {/* Declined phase */}
+        {phase === "declined" && (
+          <motion.div
+            className="flex flex-col items-center gap-4"
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+          >
+            <motion.div
+              className="w-14 h-14 rounded-full bg-neon-pink/10 border border-neon-pink/30 flex items-center justify-center"
+              initial={{ scale: 0 }}
+              animate={{ scale: 1 }}
+              transition={{ type: "spring", damping: 12 }}
+            >
+              <X size={28} className="text-neon-pink" />
+            </motion.div>
+
+            <p className="text-white/70 text-sm text-center">
+              <span className="font-bold text-neon-blue">{opponentName}</span>
+              {" "}{t.declined}
+            </p>
+
+            <motion.button
+              onClick={onCancel}
+              className="mt-2 px-6 py-2.5 rounded-xl bg-white/5 border border-white/10 text-white/50 font-bold text-sm"
+              whileHover={{ scale: 1.02 }}
+              whileTap={{ scale: 0.98 }}
+            >
+              {t.back}
+            </motion.button>
           </motion.div>
         )}
       </motion.div>
