@@ -1,5 +1,5 @@
 "use client";
-import React, { useRef, useCallback } from "react";
+import React, { useRef, useCallback, useEffect } from "react";
 import { Canvas, useFrame, useThree } from "@react-three/fiber";
 import * as THREE from "three";
 import { FURNITURE_3D_COMPONENTS } from "./furniture3d/Furniture3D";
@@ -58,6 +58,10 @@ export interface Room3DCanvasProps {
   onFurnitureLongPress?: (index: number) => void;
   avatarGridPos?: { gx: number; gy: number };
   onAvatarCanvasPos?: (cx: number, cy: number) => void;
+  // Camera zoom & pan (replaces CSS scale/translate for pixel-perfect rendering)
+  cameraZoom?: number;
+  cameraPan?: { x: number; y: number };
+  baseZoom?: number;
 }
 
 // ─── Converts grid (gx,gy) to world (x,0,z) centred at origin ────────────────
@@ -71,6 +75,36 @@ function worldToGrid(wx: number, wz: number, gridW: number, gridH: number) {
     gx: wx + gridW / 2 - 0.5,
     gy: wz + gridH / 2 - 0.5,
   };
+}
+
+// ─── Camera controller — zoom via camera (no CSS scale) + frustum pan ────────
+// This replaces CSS scale/translate, so WebGL always renders at full resolution.
+// Formula: frustum shifted by fpx/fpy so world origin appears at pan.x/pan.y CSS px from centre.
+function CameraController({
+  baseZoom, userZoom, pan,
+}: { baseZoom: number; userZoom: number; pan: { x: number; y: number } }) {
+  const { camera, size } = useThree();
+
+  useEffect(() => {
+    const cam = camera as THREE.OrthographicCamera;
+    const totalZoom = baseZoom * userZoom;
+    const W = size.width;
+    const H = size.height;
+    if (W === 0 || H === 0) return;
+
+    // Pan in frustum-space units = CSS pixels / totalZoom
+    const fpx = pan.x / totalZoom;
+    const fpy = pan.y / totalZoom;
+
+    cam.zoom   = totalZoom;
+    cam.left   = -W / 2 - fpx;
+    cam.right  =  W / 2 - fpx;
+    cam.top    =  H / 2 + fpy;
+    cam.bottom = -H / 2 + fpy;
+    cam.updateProjectionMatrix();
+  }, [camera, size, baseZoom, userZoom, pan]);
+
+  return null;
 }
 
 // ─── Avatar position tracker (R3F inner component) ───────────────────────────
@@ -245,6 +279,7 @@ function RoomScene({
   roomType, gridW, gridH, furniture, showGrid, editMode, selectedIndex,
   ghost, onTileClick, onPointerMoveGrid, onPointerLeaveGrid,
   onFurnitureClick, onFurnitureLongPress, avatarGridPos, onAvatarCanvasPos,
+  cameraZoom, cameraPan, baseZoom,
 }: Omit<Room3DCanvasProps, "windowAlpha"> & { gridW: number; gridH: number; roomType: string }) {
   const floorRef = useRef<THREE.Mesh>(null!);
   const floorPlane = useRef(new THREE.Plane(new THREE.Vector3(0, 1, 0), 0));
@@ -275,10 +310,19 @@ function RoomScene({
 
   return (
     <>
-      {/* Lighting — low ambient so directional creates visible depth shading */}
-      <ambientLight intensity={0.55} />
-      <directionalLight position={[-4, 10, 4]} intensity={1.3} castShadow={false} />
-      <directionalLight position={[6, 4, -4]} intensity={0.6} />
+      {/* Camera controller — handles zoom + pan without CSS scaling */}
+      {baseZoom !== undefined && (
+        <CameraController
+          baseZoom={baseZoom}
+          userZoom={cameraZoom ?? 1}
+          pan={cameraPan ?? { x: 0, y: 0 }}
+        />
+      )}
+
+      {/* Lighting — hemisphere for sky/ground gradient, directional for depth */}
+      <hemisphereLight args={["#FFF4E0", "#2A1A0A", 0.7]} />
+      <directionalLight position={[-5, 12, 5]} intensity={1.1} castShadow={false} />
+      <directionalLight position={[8, 4, -4]} intensity={0.45} />
 
       {/* Floor */}
       <mesh
@@ -289,7 +333,7 @@ function RoomScene({
         onPointerLeave={onPointerLeaveGrid}
       >
         <planeGeometry args={[gridW, gridH]} />
-        <meshLambertMaterial color={colors[0]} />
+        <meshStandardMaterial color={colors[0]} />
       </mesh>
 
       {/* Floor tile pattern (alternate) */}
@@ -298,7 +342,7 @@ function RoomScene({
           (gx + gy) % 2 === 1 ? (
             <mesh key={`t-${gx}-${gy}`} position={[gx - gridW / 2 + 0.5, 0.001, gy - gridH / 2 + 0.5]} rotation={[-Math.PI / 2, 0, 0]}>
               <planeGeometry args={[1, 1]} />
-              <meshLambertMaterial color={colors[1]} />
+              <meshStandardMaterial color={colors[1]} />
             </mesh>
           ) : null
         )
@@ -309,22 +353,22 @@ function RoomScene({
         <group>
           <mesh position={[-gridW / 2 - 0.05, WALL_H / 2, 0]}>
             <boxGeometry args={[0.30, WALL_H, gridH]} />
-            <meshLambertMaterial color={wallColor} />
+            <meshStandardMaterial color={wallColor} />
           </mesh>
           {/* Trim strip at top */}
           <mesh position={[-gridW / 2 - 0.05, WALL_H - 0.08, 0]}>
             <boxGeometry args={[0.32, 0.16, gridH + 0.02]} />
-            <meshLambertMaterial color={trimColor} />
+            <meshStandardMaterial color={trimColor} />
           </mesh>
           {/* Baseboard at bottom */}
           <mesh position={[-gridW / 2 - 0.05, 0.08, 0]}>
             <boxGeometry args={[0.32, 0.16, gridH + 0.02]} />
-            <meshLambertMaterial color={trimColor} />
+            <meshStandardMaterial color={trimColor} />
           </mesh>
           {/* Window on left wall (center) */}
           <mesh position={[-gridW / 2 + 0.01, WALL_H * 0.6, 0]}>
             <boxGeometry args={[0.05, WALL_H * 0.35, gridH * 0.35]} />
-            <meshLambertMaterial color="#C8E8F8" />
+            <meshStandardMaterial color="#C8E8F8" />
           </mesh>
         </group>
       )}
@@ -334,22 +378,22 @@ function RoomScene({
         <group>
           <mesh position={[0, WALL_H / 2, -gridH / 2 - 0.05]}>
             <boxGeometry args={[gridW, WALL_H, 0.30]} />
-            <meshLambertMaterial color={wallColor} />
+            <meshStandardMaterial color={wallColor} />
           </mesh>
           {/* Trim strip at top */}
           <mesh position={[0, WALL_H - 0.08, -gridH / 2 - 0.05]}>
             <boxGeometry args={[gridW + 0.02, 0.16, 0.32]} />
-            <meshLambertMaterial color={trimColor} />
+            <meshStandardMaterial color={trimColor} />
           </mesh>
           {/* Baseboard at bottom */}
           <mesh position={[0, 0.08, -gridH / 2 - 0.05]}>
             <boxGeometry args={[gridW + 0.02, 0.16, 0.32]} />
-            <meshLambertMaterial color={trimColor} />
+            <meshStandardMaterial color={trimColor} />
           </mesh>
           {/* Window on back wall (center) */}
           <mesh position={[0, WALL_H * 0.6, -gridH / 2 + 0.01]}>
             <boxGeometry args={[gridW * 0.35, WALL_H * 0.35, 0.05]} />
-            <meshLambertMaterial color="#C8E8F8" />
+            <meshStandardMaterial color="#C8E8F8" />
           </mesh>
         </group>
       )}
@@ -408,17 +452,22 @@ export default function Room3DCanvas({
   onFurnitureLongPress,
   avatarGridPos,
   onAvatarCanvasPos,
+  cameraZoom = 1,
+  cameraPan = { x: 0, y: 0 },
 }: Room3DCanvasProps) {
-  const D = Math.max(gridW, gridH) * 1.6;
-  // Smaller zoom = wider view = room + walls all visible
-  const zoom = 220 / Math.max(gridW, gridH);
+  const gridMax = Math.max(gridW, gridH);
+  const D = gridMax * 1.6;
+  // Base zoom fits the room into the canvas. CameraController multiplies by cameraZoom.
+  const baseZoom = 220 / gridMax;
 
   return (
     <Canvas
       orthographic
-      camera={{ position: [D, D, D], zoom, up: [0, 1, 0], near: 0.1, far: 200 }}
+      // Initial camera: zoom=baseZoom so room fits at scale 1; CameraController adjusts further
+      camera={{ position: [D, D, D], zoom: baseZoom, up: [0, 1, 0], near: 0.1, far: 200 }}
       style={{ width: "100%", height: "100%" }}
       gl={{ antialias: true, alpha: true }}
+      dpr={[1, 2]}
       onCreated={({ camera }) => {
         (camera as THREE.OrthographicCamera).lookAt(0, 0, 0);
       }}
@@ -439,6 +488,9 @@ export default function Room3DCanvas({
         onFurnitureLongPress={onFurnitureLongPress}
         avatarGridPos={avatarGridPos}
         onAvatarCanvasPos={onAvatarCanvasPos}
+        cameraZoom={cameraZoom}
+        cameraPan={cameraPan}
+        baseZoom={baseZoom}
       />
     </Canvas>
   );

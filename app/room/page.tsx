@@ -572,13 +572,19 @@ export default function RoomPage() {
     setPan({ x: 0, y: 0 });
   }, []);
 
-  // Helper: max pan limits based on current container size
+  // Helper: max pan limits for camera frustum pan
+  // Formula: how many CSS pixels the world edge is off-screen at current zoom
+  //   max_x = gridW/2 * totalZoom - canvas_width/2  (camera units)
   const getMaxPan = useCallback(() => {
     const el = roomContainerRef.current;
     if (!el) return { x: 0, y: 0 };
+    const rs = roomSizeRef.current;
+    const gridMax = Math.max(rs.gridW, rs.gridH);
+    const baseZoom = 220 / gridMax;
+    const totalZoom = baseZoom * zoom;
     return {
-      x: el.clientWidth * (zoom - 1) / 2,
-      y: el.clientHeight * (zoom - 1) / 2,
+      x: Math.max(0, rs.gridW / 2 * totalZoom - el.clientWidth / 2),
+      y: Math.max(0, rs.gridH / 2 * totalZoom - el.clientHeight / 2),
     };
   }, [zoom]);
 
@@ -761,8 +767,11 @@ export default function RoomPage() {
         } else {
           // Zoom a kurzor irányába: a kurzor alatt lévő pont ugyanott marad
           const factor = nz / z;
-          const maxX = rect.width * (nz - 1) / 2;
-          const maxY = rect.height * (nz - 1) / 2;
+          const rs = roomSizeRef.current;
+          const gridMax = Math.max(rs.gridW, rs.gridH);
+          const newTotalZoom = (220 / gridMax) * nz;
+          const maxX = Math.max(0, rs.gridW / 2 * newTotalZoom - rect.width / 2);
+          const maxY = Math.max(0, rs.gridH / 2 * newTotalZoom - rect.height / 2);
           setPan(p => ({
             x: Math.min(Math.max(cx - (cx - p.x) * factor, -maxX), maxX),
             y: Math.min(Math.max(cy - (cy - p.y) * factor, -maxY), maxY),
@@ -1276,8 +1285,6 @@ export default function RoomPage() {
               transition={{ duration: 0.3 }}
               className="w-full flex items-center justify-center max-w-lg"
               style={{
-                transform: `scale(${zoom}) translate(${pan.x / zoom}px, ${pan.y / zoom}px)`,
-                transformOrigin: "center center",
                 cursor: zoom > 1 ? "grab" : "default",
                 aspectRatio: "4 / 3",
               }}
@@ -1301,6 +1308,8 @@ export default function RoomPage() {
                   setAvatarScreenX(cx);
                   setAvatarScreenY(cy);
                 } : undefined}
+                cameraZoom={zoom}
+                cameraPan={pan}
                 ghost={editMode && ghostPos ? (() => {
                   const movingItem = movingIdx !== null ? furniture[movingIdx] : null;
                   const fId = selectedFurnitureId ?? movingItem?.furnitureId ?? null;
