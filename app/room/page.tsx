@@ -1152,7 +1152,7 @@ export default function RoomPage() {
   const iNames = INTERACTION_NAMES[lang] || INTERACTION_NAMES.en;
 
   return (
-    <div className="min-h-screen bg-[#0A0A1A] text-white flex flex-col">
+    <div className="min-h-screen bg-[#0A0A1A] text-white flex flex-col overflow-hidden">
       {/* Header */}
       <div className="flex items-center justify-between px-4 py-3 bg-[#12122A]/80 backdrop-blur-sm border-b border-white/5">
         <Link
@@ -1265,7 +1265,7 @@ export default function RoomPage() {
         onMouseMove={isOwned ? handleMouseMove : undefined}
         onMouseUp={isOwned ? handleMouseUp : undefined}
         onMouseLeave={isOwned ? handleMouseUp : undefined}
-        style={{ touchAction: isOwned ? "none" : "auto" }}
+        style={{ touchAction: "none" }}
       >
 {isOwned ? (
           <>
@@ -1274,16 +1274,14 @@ export default function RoomPage() {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ duration: 0.3 }}
-              className="w-full flex items-center justify-center max-w-lg"
+              className="w-full h-full flex items-center justify-center"
               style={{
-                // CSS translate for pan only — no CSS scale = no pixelation at high zoom!
-                // Camera zoom (CameraController) handles magnification.
-                transform: pan.x !== 0 || pan.y !== 0
-                  ? `translate(${pan.x}px, ${pan.y}px)`
-                  : undefined,
-                transformOrigin: "center center",
+                // ✅ SIMPLE CSS-BASED ZOOM/PAN
+                // Room3DCanvas renders at 1:1, this wrapper applies transform
                 cursor: zoom > 1 ? "grab" : "default",
-                aspectRatio: "4 / 3",
+                transform: `translate(${pan.x}px, ${pan.y}px) scale(${zoom})`,
+                transformOrigin: "center center",
+                transition: "none", // no smooth transitions during drag
               }}
             >
               <Room3DCanvas

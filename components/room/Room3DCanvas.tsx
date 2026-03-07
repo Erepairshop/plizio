@@ -29,7 +29,7 @@ const WALL_TRIM: Record<string, string> = {
   bathroom: "#4A6AA8",
   garden:   "#4A8B3A",
 };
-const WALL_H = 3.0; // world units
+const WALL_H = 1.4; // world units — smaller walls for better proportions
 
 // ─── Ghost highlight ───────────────────────────────────────────────────────────
 interface GhostData {
@@ -420,14 +420,13 @@ export default function Room3DCanvas({
   const D = gridMax * 1.6;
   const baseZoom = 220 / gridMax;
 
-  // Imperative camera zoom — updated outside Canvas's inner React root so it
-  // always reflects the latest React state (no inner-reconciler timing issues).
-  const cameraOrthoRef = useRef<THREE.OrthographicCamera | null>(null);
-  useEffect(() => {
-    if (!cameraOrthoRef.current) return;
-    cameraOrthoRef.current.zoom = baseZoom * cameraZoom;
-    cameraOrthoRef.current.updateProjectionMatrix();
-  }, [baseZoom, cameraZoom]);
+  // ⚠️ IMPORTANT: Room3DCanvas does NOT handle zoom/pan!
+  // It renders the 3D scene at 1:1 scale.
+  // Zoom & pan are handled by CSS transform on the wrapper (page.tsx).
+  // This avoids all the Three.js orthographic camera complications.
+
+  // If you need zoom/pan in the 3D scene itself (e.g., constrain pan to grid bounds),
+  // that's a different feature and should be implemented separately.
 
   return (
     <Canvas
@@ -438,10 +437,8 @@ export default function Room3DCanvas({
       dpr={[1, 2]}
       onCreated={({ camera }) => {
         cameraOrthoRef.current = camera as THREE.OrthographicCamera;
+        // Initial position already set via camera prop
         cameraOrthoRef.current.lookAt(0, 0, 0);
-        // Apply initial zoom in case cameraZoom > 1 on mount
-        cameraOrthoRef.current.zoom = baseZoom * cameraZoom;
-        cameraOrthoRef.current.updateProjectionMatrix();
       }}
     >
       <RoomScene
