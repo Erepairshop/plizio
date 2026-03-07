@@ -12,9 +12,6 @@ import {
   Trash2,
   Lock,
   Star,
-  ZoomIn,
-  ZoomOut,
-  Maximize2,
   RotateCw,
   Move,
 } from "lucide-react";
@@ -194,7 +191,6 @@ function getDayNightAlpha(): number {
 
 // ─── Walking constants ───
 const MS_PER_CELL = 450; // ms per grid cell (walking speed)
-const DRAG_THRESHOLD = 5; // px — movement below this is still a "click", not a pan/drag
 
 // ─── Line-of-sight check (avatar treated as circle, radius ~0.35 grid units) ───
 // Grid boundary cells outside [0..gridW-1]×[0..gridH-1] are simply skipped
@@ -757,7 +753,6 @@ export default function RoomPage() {
   // Handles both edit-mode furniture placement AND normal-mode floor walking
   const handleTileClick = useCallback((rawGx: number, rawGy: number) => {
     if (!isOwned) return;
-    if (didDragRef.current) return;
 
     if (editMode) {
       // ── EDIT MODE ──────────────────────────────────────────────────────────
