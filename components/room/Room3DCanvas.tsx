@@ -428,15 +428,22 @@ export default function Room3DCanvas({
   useEffect(() => {
     if (!cameraOrthoRef.current) return;
 
-    // Restore original frustum and zoom WITHOUT clamping view
     const cam = cameraOrthoRef.current;
-    cam.left = frustumRef.current.left;
-    cam.right = frustumRef.current.right;
-    cam.top = frustumRef.current.top;
-    cam.bottom = frustumRef.current.bottom;
+    const zoom = baseZoom * cameraZoom;
+    const original = frustumRef.current;
 
-    // Apply zoom (multiplicative to original frustum)
-    cam.zoom = baseZoom * cameraZoom;
+    // CRITICAL: updateProjectionMatrix() divides frustum by zoom.
+    // So we must multiply by zoom BEFORE updateProjectionMatrix()
+    // to counteract the division and preserve full view:
+    //   cam.left = original.left * zoom
+    //   updateProjectionMatrix() → left / zoom = original.left ✓
+    cam.left = original.left * zoom;
+    cam.right = original.right * zoom;
+    cam.top = original.top * zoom;
+    cam.bottom = original.bottom * zoom;
+
+    // Apply zoom value (this is what updateProjectionMatrix uses)
+    cam.zoom = zoom;
 
     // Apply pan offset to isometric camera position
     // Isometric [D, D, D] -> pan modifies X and Z in world space
@@ -444,6 +451,7 @@ export default function Room3DCanvas({
     cam.position.x = D - cameraPan.x * panScale;
     cam.position.z = D - cameraPan.y * panScale;
 
+    // This divides the frustum by zoom, but we already multiplied by zoom above
     cam.updateProjectionMatrix();
   }, [baseZoom, cameraZoom, cameraPan, D]);
 
