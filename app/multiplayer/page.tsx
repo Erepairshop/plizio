@@ -12,7 +12,7 @@ import { useLang } from "@/components/LanguageProvider";
 import { getUsername, hasUsername, searchUsernames } from "@/lib/username";
 import {
   createChallenge, acceptChallenge, declineChallenge,
-  getMyPendingChallenges, getMyActiveMatches, getMyMatchHistory,
+  getMyPendingChallenges, getMySentChallenges, getMyActiveMatches, getMyMatchHistory,
   type MultiplayerMatch, type GameType, GAME_LABELS,
 } from "@/lib/multiplayer";
 
@@ -44,6 +44,7 @@ const T = {
     opponentNotFound: "Player not found",
     needName: "Set your name first on the home page",
     incoming: "Incoming challenge!",
+    sent: "Sent",
     score: "Score",
     back: "Back",
   },
@@ -72,6 +73,7 @@ const T = {
     opponentNotFound: "Játékos nem található",
     needName: "Előbb adj meg nevet a főoldalon",
     incoming: "Bejövő kihívás!",
+    sent: "Elküldve",
     score: "Pont",
     back: "Vissza",
   },
@@ -100,6 +102,7 @@ const T = {
     opponentNotFound: "Spieler nicht gefunden",
     needName: "Setze zuerst deinen Namen auf der Startseite",
     incoming: "Eingehende Herausforderung!",
+    sent: "Gesendet",
     score: "Punkte",
     back: "Zurück",
   },
@@ -128,6 +131,7 @@ const T = {
     opponentNotFound: "Jucător negăsit",
     needName: "Mai întâi alege un nume pe pagina principală",
     incoming: "Provocare primită!",
+    sent: "Trimise",
     score: "Scor",
     back: "Înapoi",
   },
@@ -164,6 +168,7 @@ export default function MultiplayerPage() {
   const [sendError, setSendError] = useState("");
 
   const [pendingChallenges, setPendingChallenges] = useState<MultiplayerMatch[]>([]);
+  const [sentChallenges, setSentChallenges] = useState<MultiplayerMatch[]>([]);
   const [activeMatches, setActiveMatches] = useState<MultiplayerMatch[]>([]);
   const [matchHistory, setMatchHistory] = useState<MultiplayerMatch[]>([]);
   const [loading, setLoading] = useState(true);
@@ -177,8 +182,9 @@ export default function MultiplayerPage() {
 
   // ─── Load data ──────────────────────────────────────────
   const loadData = useCallback(async () => {
-    const [pending, active, history] = await Promise.all([
+    const [pending, sent, active, history] = await Promise.all([
       getMyPendingChallenges(),
+      getMySentChallenges(),
       getMyActiveMatches(),
       getMyMatchHistory(),
     ]);
@@ -195,6 +201,7 @@ export default function MultiplayerPage() {
     initialLoadDone.current = true;
     knownPendingIds.current = new Set(pending.map((m) => m.id));
     setPendingChallenges(pending);
+    setSentChallenges(sent);
     setActiveMatches(active);
     setMatchHistory(history);
     setLoading(false);
@@ -412,6 +419,23 @@ export default function MultiplayerPage() {
 
               {sendError && (
                 <p className="text-neon-pink text-xs text-center">{sendError}</p>
+              )}
+
+              {/* Sent challenges (waiting for opponent) */}
+              {sentChallenges.length > 0 && (
+                <div className="flex flex-col gap-2 mt-2">
+                  <span className="text-white/30 text-xs font-bold uppercase tracking-wider">{t.sent}</span>
+                  {sentChallenges.map((match) => (
+                    <ChallengeCard
+                      key={match.id}
+                      match={match}
+                      myName={myName}
+                      t={t}
+                      onAccept={() => {}}
+                      onDecline={() => handleDecline(match)}
+                    />
+                  ))}
+                </div>
               )}
 
               {/* Pending challenges for me */}

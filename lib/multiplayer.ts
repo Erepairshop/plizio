@@ -159,6 +159,23 @@ export async function getMyPendingChallenges(): Promise<MultiplayerMatch[]> {
   return (data as MultiplayerMatch[]) || [];
 }
 
+// ─── Get challenges I sent (waiting for opponent) ───────────
+
+export async function getMySentChallenges(): Promise<MultiplayerMatch[]> {
+  const myName = getUsername();
+  if (!myName) return [];
+
+  const { data } = await supabase
+    .from("multiplayer_matches")
+    .select("*")
+    .eq("status", "waiting")
+    .eq("player1_name", myName)
+    .order("created_at", { ascending: false })
+    .limit(10);
+
+  return (data as MultiplayerMatch[]) || [];
+}
+
 // ─── Get my active matches ──────────────────────────────────
 
 export async function getMyActiveMatches(): Promise<MultiplayerMatch[]> {
