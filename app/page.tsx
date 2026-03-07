@@ -8,6 +8,7 @@ import { AnimatePresence } from "framer-motion";
 import Logo from "@/components/Logo";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import GameCard from "@/components/GameCard";
+import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap";
 import Link from "next/link";
 import { getCards } from "@/lib/cards";
 import { WORLD_ZONES, getWorldProgress } from "@/lib/world";
@@ -338,6 +339,34 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
   },
 ];
 
+/* Island positions in the 800x600 viewBox */
+const ISLAND_POSITIONS: Record<string, { cx: number; cy: number; color: string; glow: string }> = {
+  quizreflex: { cx: 200, cy: 140, color: "#00D4FF", glow: "rgba(0,212,255,0.4)" },
+  adventure:  { cx: 580, cy: 180, color: "#00FF88", glow: "rgba(0,255,136,0.4)" },
+  brain:      { cx: 260, cy: 380, color: "#FFD700", glow: "rgba(255,215,0,0.4)" },
+  logic:      { cx: 560, cy: 440, color: "#B44DFF", glow: "rgba(180,77,255,0.4)" },
+};
+
+function categoriesToIslands(categories: CategoryDef[]): Island[] {
+  return categories.map((cat) => {
+    const pos = ISLAND_POSITIONS[cat.id] ?? { cx: 400, cy: 300, color: "#fff", glow: "rgba(255,255,255,0.3)" };
+    return {
+      id: cat.id,
+      label: cat.label,
+      color: pos.color,
+      glow: pos.glow,
+      cx: pos.cx,
+      cy: pos.cy,
+      games: cat.games.map((g) => ({
+        id: g.id,
+        icon: g.icon,
+        name: g.name,
+        color: g.color,
+      })) as IslandGame[],
+    };
+  });
+}
+
 function getCategoriesWithTranslations(lang: string): CategoryDef[] {
   // Type guard for translations
   const validLangs = ['en', 'hu', 'de', 'ro'] as const;
@@ -433,22 +462,10 @@ export default function Home() {
   const [username, setUsernameState] = useState<string | null>(null);
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [categories, setCategories] = useState<CategoryDef[]>([]);
-  const [openCategories, setOpenCategories] = useState<Record<string, boolean>>({});
   const [dailyReward, setDailyReward] = useState<DailyRewardResult | null>(null);
 
   useEffect(() => {
-    // Initialize categories with translations
-    const translatedCategories = getCategoriesWithTranslations(lang);
-    setCategories(translatedCategories);
-
-    // Initialize open/closed state — restore from localStorage if saved
-    const savedRaw = typeof window !== "undefined" ? localStorage.getItem("plizio_cat_open") : null;
-    const savedArr: boolean[] = savedRaw ? JSON.parse(savedRaw) : [];
-    const initialOpenState: Record<string, boolean> = {};
-    translatedCategories.forEach((cat, i) => {
-      initialOpenState[cat.label] = savedArr[i] ?? false;
-    });
-    setOpenCategories(initialOpenState);
+    setCategories(getCategoriesWithTranslations(lang));
   }, [lang]);
 
   useEffect(() => {
@@ -563,82 +580,15 @@ export default function Home() {
       {/* Plizio World button */}
       <WorldButton />
 
-      {/* Categories */}
-      <div className="flex flex-col items-center gap-6 w-full max-w-md px-2">
-        {categories.map((cat, ci) => {
-          const CatIcon = cat.icon;
-          const isOpen = openCategories[cat.label] ?? true;
-          const isEmpty = cat.games.length === 0;
-          return (
-            <motion.div
-              key={cat.label}
-              className="w-full flex flex-col items-center gap-3"
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: 0.3 + ci * 0.2 }}
-            >
-              {/* Category header - clickable to toggle */}
-              <button
-                onClick={() => setOpenCategories(prev => {
-                  const newState = { ...prev, [cat.label]: !prev[cat.label] };
-                  const arr = categories.map(c => newState[c.label] ?? false);
-                  localStorage.setItem("plizio_cat_open", JSON.stringify(arr));
-                  return newState;
-                })}
-                className="flex items-center gap-3 w-full group cursor-pointer"
-              >
-                <div className="h-px flex-1 opacity-20" style={{ background: `linear-gradient(to right, transparent, ${cat.color})` }} />
-                <div className="flex items-center gap-2">
-                  <CatIcon size={14} style={{ color: cat.color, filter: `drop-shadow(0 0 6px ${cat.color}60)` }} />
-                  <span className="text-[10px] font-bold tracking-[0.2em] uppercase" style={{ color: `${cat.color}90` }}>
-                    {cat.label}
-                  </span>
-                  <motion.div animate={{ rotate: isOpen ? 180 : 0 }} transition={{ duration: 0.2 }}>
-                    <ChevronDown size={12} style={{ color: `${cat.color}60` }} />
-                  </motion.div>
-                </div>
-                <div className="h-px flex-1 opacity-20" style={{ background: `linear-gradient(to left, transparent, ${cat.color})` }} />
-              </button>
-
-              {/* Games in this category */}
-              <AnimatePresence initial={false}>
-                {isOpen && (
-                  <motion.div
-                    initial={{ height: 0, opacity: 0 }}
-                    animate={{ height: "auto", opacity: 1 }}
-                    exit={{ height: 0, opacity: 0 }}
-                    transition={{ duration: 0.25, ease: "easeInOut" }}
-                    className="overflow-hidden w-full"
-                  >
-                    {isEmpty ? (
-                      <div className="flex flex-col items-center gap-2 py-4">
-                        <CatIcon size={24} style={{ color: `${cat.color}30` }} />
-                        <span className="text-[10px] font-bold tracking-wider" style={{ color: `${cat.color}40` }}>
-                          {TRANSLATIONS[lang as keyof typeof TRANSLATIONS]?.ui?.comingSoon || "COMING SOON"}
-                        </span>
-                      </div>
-                    ) : (
-                      <div className="flex flex-wrap items-center justify-center gap-4 sm:gap-6">
-                        {cat.games.map((game, gi) => (
-                          <GameCard
-                            key={game.id}
-                            icon={game.icon}
-                            name={game.name}
-                            color={game.color}
-                            gradient={game.gradient}
-                            href={`/${game.id}`}
-                            delay={0.4 + ci * 0.2 + gi * 0.1}
-                          />
-                        ))}
-                      </div>
-                    )}
-                  </motion.div>
-                )}
-              </AnimatePresence>
-            </motion.div>
-          );
-        })}
-      </div>
+      {/* Island Map */}
+      <motion.div
+        className="w-full px-2"
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.5 }}
+      >
+        <IslandMap islands={categoriesToIslands(categories)} />
+      </motion.div>
 
       {/* Bottom buttons: Profile + Shop + Collection */}
       <div className="fixed bottom-6 right-6 flex flex-col gap-3">
