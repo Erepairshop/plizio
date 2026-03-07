@@ -1274,7 +1274,7 @@ export default function RoomPage() {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ duration: 0.3 }}
-              className="w-full flex items-center justify-center max-w-lg"
+              className="w-full h-full flex items-center justify-center"
               style={{
                 // CSS translate for pan only — no CSS scale = no pixelation at high zoom!
                 // Camera zoom (CameraController) handles magnification.
