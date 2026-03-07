@@ -31,6 +31,29 @@ const WALL_TRIM: Record<string, string> = {
 };
 const WALL_H = 1.4; // world units — smaller walls for better proportions
 
+// ─── Camera fitter — auto-zoom to fit room in canvas ─────────────────────────
+const SQRT2 = Math.SQRT2;
+const SQRT6 = Math.sqrt(6);
+const CAM_PAD = 1.5; // world-unit padding around the room
+
+function CameraFitter({ gridW, gridH }: { gridW: number; gridH: number }) {
+  const { camera, size } = useThree();
+  useEffect(() => {
+    const cam = camera as THREE.OrthographicCamera;
+    // Isometric projection extents (camera at [D,D,D] looking at origin, up=[0,1,0])
+    // Horizontal extent: room diamond width in camera-right direction
+    const hExtent = (gridW + gridH) / SQRT2;
+    // Vertical extent: floor bottom to wall top in camera-up direction
+    const vExtent = ((gridW + gridH) + 2 * WALL_H) / SQRT6;
+    // Fit with padding — use the tighter axis
+    const zoomH = size.width / (hExtent + CAM_PAD);
+    const zoomV = size.height / (vExtent + CAM_PAD);
+    cam.zoom = Math.min(zoomH, zoomV);
+    cam.updateProjectionMatrix();
+  }, [camera, size, gridW, gridH]);
+  return null;
+}
+
 // ─── Ghost highlight ───────────────────────────────────────────────────────────
 interface GhostData {
   furnitureId: string;
@@ -61,7 +84,6 @@ export interface Room3DCanvasProps {
   // Camera zoom & pan (replaces CSS scale/translate for pixel-perfect rendering)
   cameraZoom?: number;
   cameraPan?: { x: number; y: number };
-  baseZoom?: number;
 }
 
 // ─── Converts grid (gx,gy) to world (x,0,z) centred at origin ────────────────
@@ -249,7 +271,7 @@ function RoomScene({
   roomType, gridW, gridH, furniture, showGrid, editMode, selectedIndex,
   ghost, onTileClick, onPointerMoveGrid, onPointerLeaveGrid,
   onFurnitureClick, onFurnitureLongPress, avatarGridPos, onAvatarCanvasPos,
-  cameraZoom, cameraPan, baseZoom,
+  cameraZoom, cameraPan,
 }: Omit<Room3DCanvasProps, "windowAlpha"> & { gridW: number; gridH: number; roomType: string }) {
   const floorRef = useRef<THREE.Mesh>(null!);
   const floorPlane = useRef(new THREE.Plane(new THREE.Vector3(0, 1, 0), 0));
@@ -416,10 +438,8 @@ export default function Room3DCanvas({
   cameraZoom = 1,
   cameraPan = { x: 0, y: 0 },
 }: Room3DCanvasProps) {
-  const cameraOrthoRef = useRef<THREE.OrthographicCamera | null>(null);
   const gridMax = Math.max(gridW, gridH);
   const D = gridMax * 1.6;
-  const baseZoom = 155 / gridMax;
 
   // Zoom & pan handled by CSS transform on the wrapper (page.tsx).
   // DPR scales with CSS zoom so the canvas renders at higher resolution,
@@ -430,16 +450,15 @@ export default function Room3DCanvas({
   return (
     <Canvas
       orthographic
-      camera={{ position: [D, D, D], zoom: baseZoom, up: [0, 1, 0], near: 0.1, far: 200 }}
+      camera={{ position: [D, D, D], zoom: 1, up: [0, 1, 0], near: 0.1, far: 200 }}
       style={{ width: "100%", height: "100%" }}
       gl={{ antialias: true, alpha: true }}
       dpr={effectiveDpr}
       onCreated={({ camera }) => {
-        cameraOrthoRef.current = camera as THREE.OrthographicCamera;
-        // Initial position already set via camera prop
-        cameraOrthoRef.current.lookAt(0, 0, 0);
+        (camera as THREE.OrthographicCamera).lookAt(0, 0, 0);
       }}
     >
+      <CameraFitter gridW={gridW} gridH={gridH} />
       <RoomScene
         roomType={roomType}
         gridW={gridW}
@@ -458,7 +477,7 @@ export default function Room3DCanvas({
         onAvatarCanvasPos={onAvatarCanvasPos}
         cameraZoom={cameraZoom}
         cameraPan={cameraPan}
-        baseZoom={baseZoom}
+
       />
     </Canvas>
   );
