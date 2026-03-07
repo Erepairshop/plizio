@@ -1,65 +1,50 @@
 "use client";
-import type { FurnitureProps } from "./types";
+type FurnitureProps = { x: number; y: number };
 
 export default function BedBasic({ x, y }: FurnitureProps) {
   return (
     <g transform={`translate(${x}, ${y})`}>
       <defs>
-        <linearGradient id="bedFrame" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#C8A882" />
-          <stop offset="100%" stopColor="#A07850" />
+        <linearGradient id="sFrame" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#D4A574"/>
+          <stop offset="100%" stopColor="#A0724A"/>
         </linearGradient>
-        <linearGradient id="mattress" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stopColor="#F5F0E8" />
-          <stop offset="100%" stopColor="#E8DFC8" />
+        <linearGradient id="sMat" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stopColor="#F8F4EC"/>
+          <stop offset="100%" stopColor="#EDE4D0"/>
         </linearGradient>
-        <linearGradient id="duvet" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stopColor="#8FA8D8" />
-          <stop offset="100%" stopColor="#6B88C0" />
+        <linearGradient id="sDuvet" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stopColor="#A8C4E8"/>
+          <stop offset="100%" stopColor="#7096C8"/>
         </linearGradient>
-        <linearGradient id="headboard" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stopColor="#B8916A" />
-          <stop offset="50%" stopColor="#D4A87A" />
-          <stop offset="100%" stopColor="#A07850" />
-        </linearGradient>
+        <filter id="sSh">
+          <feDropShadow dx="0" dy="2" stdDeviation="2" floodColor="rgba(0,0,0,0.2)"/>
+        </filter>
       </defs>
 
-      {/* Shadow */}
-      <ellipse cx={0} cy={4} rx={32} ry={7} fill="rgba(0,0,0,0.12)" style={{ filter: "blur(4px)" }} />
-
-      {/* Headboard */}
-      <rect x={-26} y={-62} width={52} height={22} rx={3} fill="url(#headboard)" />
-      <rect x={-22} y={-58} width={44} height={14} rx={2} fill="rgba(255,255,255,0.08)" />
-      {/* Headboard side */}
-      <path d="M -26,-62 L -30,-58 L -30,-38 L -26,-40 Z" fill="#8B6040" />
-      <path d="M 26,-62 L 30,-58 L 30,-38 L 26,-40 Z" fill="#7A5035" />
-      {/* Headboard top */}
-      <path d="M -26,-62 L -30,-58 L 30,-58 L 26,-62 Z" fill="#E0B880" />
-
-      {/* Bed frame */}
-      <rect x={-26} y={-40} width={52} height={44} rx={2} fill="url(#bedFrame)" />
-      {/* Frame top face */}
-      <path d="M -26,-40 L -30,-36 L 30,-36 L 26,-40 Z" fill="#DEB878" />
-      {/* Frame left face */}
-      <path d="M -26,-40 L -30,-36 L -30,8 L -26,4 Z" fill="#8B6040" />
-      {/* Frame right face */}
-      <path d="M 26,-40 L 30,-36 L 30,8 L 26,4 Z" fill="#7A5035" />
-
-      {/* Mattress */}
-      <rect x={-24} y={-38} width={48} height={40} rx={2} fill="url(#mattress)" />
-      <rect x={-24} y={-38} width={48} height={40} rx={2} fill="none" stroke="rgba(180,160,120,0.4)" strokeWidth={0.8} />
-
-      {/* Duvet */}
-      <rect x={-22} y={-20} width={44} height={22} rx={3} fill="url(#duvet)" />
-      {/* Duvet fold */}
-      <rect x={-22} y={-20} width={44} height={5} rx={2} fill="rgba(255,255,255,0.18)" />
-      {/* Duvet stitching */}
-      <rect x={-19} y={-17} width={38} height={16} rx={2} fill="none" stroke="rgba(255,255,255,0.2)" strokeWidth={0.6} strokeDasharray="3,2" />
+      <rect x={-26} y={-50} width={52} height={100} rx={4} fill="url(#sFrame)" filter="url(#sSh)"/>
+      <rect x={-26} y={-50} width={52} height={12} rx={4} fill="#C08040"/>
+      <rect x={-22} y={-48} width={44} height={8} rx={3} fill="rgba(255,255,255,0.12)"/>
+      <rect x={-22} y={-36} width={44} height={82} rx={3} fill="url(#sMat)"/>
 
       {/* Pillow */}
-      <rect x={-20} y={-36} width={38} height={16} rx={4} fill="#FDFAF4" />
-      <rect x={-18} y={-34} width={34} height={12} rx={3} fill="none" stroke="rgba(180,170,150,0.4)" strokeWidth={0.6} />
-      <rect x={-20} y={-36} width={38} height={5} rx={3} fill="rgba(255,255,255,0.5)" />
+      <rect x={-18} y={-33} width={36} height={20} rx={6} fill="white"/>
+      <rect x={-18} y={-33} width={36} height={20} rx={6} fill="none" stroke="rgba(200,185,160,0.6)" strokeWidth={0.8}/>
+      <rect x={-15} y={-30} width={30} height={3} rx={2} fill="rgba(255,255,255,0.8)"/>
+      <ellipse cx={0} cy={-23} rx={4} ry={4} fill="none" stroke="rgba(200,185,160,0.4)" strokeWidth={0.6}/>
+
+      {/* Duvet */}
+      <rect x={-20} y={-10} width={40} height={50} rx={5} fill="url(#sDuvet)"/>
+      <rect x={-20} y={-10} width={40} height={8} rx={4} fill="rgba(255,255,255,0.2)"/>
+      <line x1={-7} y1={-10} x2={-7} y2={40} stroke="rgba(255,255,255,0.2)" strokeWidth={0.6}/>
+      <line x1={7} y1={-10} x2={7} y2={40} stroke="rgba(255,255,255,0.2)" strokeWidth={0.6}/>
+      <line x1={-20} y1={5} x2={20} y2={5} stroke="rgba(255,255,255,0.2)" strokeWidth={0.6}/>
+      <line x1={-20} y1={20} x2={20} y2={20} stroke="rgba(255,255,255,0.2)" strokeWidth={0.6}/>
+      <line x1={-20} y1={35} x2={20} y2={35} stroke="rgba(255,255,255,0.2)" strokeWidth={0.6}/>
+      <rect x={-20} y={-10} width={40} height={50} rx={5} fill="none" stroke="rgba(255,255,255,0.25)" strokeWidth={0.8}/>
+
+      {/* Footboard */}
+      <rect x={-26} y={42} width={52} height={8} rx={3} fill="#C08040"/>
     </g>
   );
 }
