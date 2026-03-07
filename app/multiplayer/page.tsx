@@ -240,7 +240,7 @@ export default function MultiplayerPage() {
       setSelectedOpponent("");
       setSearchQuery("");
       setSearchResults([]);
-      setTimeout(() => setSentSuccess(false), 3000);
+      setTimeout(() => { setSentSuccess(false); setTab("active"); }, 1500);
       loadData();
     } else if (error === "opponent_not_found") {
       setSendError(t.opponentNotFound);
@@ -315,9 +315,14 @@ export default function MultiplayerPage() {
               }`}
             >
               {t2 === "challenge" ? t.challenge : t2 === "active" ? t.active : t.history}
-              {t2 === "active" && pendingChallenges.length > 0 && (
+              {t2 === "challenge" && pendingChallenges.length > 0 && (
                 <span className="ml-1 inline-flex items-center justify-center w-4 h-4 rounded-full bg-neon-pink text-white text-[9px] font-bold">
                   {pendingChallenges.length}
+                </span>
+              )}
+              {t2 === "active" && activeMatches.length > 0 && (
+                <span className="ml-1 inline-flex items-center justify-center w-4 h-4 rounded-full bg-neon-blue text-white text-[9px] font-bold">
+                  {activeMatches.length}
                 </span>
               )}
             </button>

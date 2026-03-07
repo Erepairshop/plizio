@@ -165,16 +165,13 @@ export async function getMySentChallenges(): Promise<MultiplayerMatch[]> {
   const myName = getUsername();
   if (!myName) return [];
 
-  const { data, error } = await supabase
+  const { data } = await supabase
     .from("multiplayer_matches")
     .select("*")
     .eq("status", "waiting")
     .eq("player1_name", myName)
     .order("created_at", { ascending: false })
     .limit(10);
-
-  if (error) console.error("[getMySentChallenges] error:", error);
-  console.log("[getMySentChallenges] myName:", myName, "results:", data?.length ?? 0);
 
   return (data as MultiplayerMatch[]) || [];
 }
