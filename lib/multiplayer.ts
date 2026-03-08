@@ -94,6 +94,17 @@ export function getMatchLevel(match: MultiplayerMatch, roundIndex?: number): num
   return isNaN(val) ? null : val;
 }
 
+// ─── Ensure auth session (auto anon sign-in if needed) ──────
+
+async function ensureAuthUser(): Promise<string | null> {
+  const { data: { user } } = await supabase.auth.getUser();
+  if (user?.id) return user.id;
+  // Try anonymous sign-in to get a user ID
+  const { data, error } = await supabase.auth.signInAnonymously();
+  if (!error && data?.user?.id) return data.user.id;
+  return null;
+}
+
 // ─── Seed generation (both players get identical game) ──────
 
 export function generateSeed(): string {
@@ -120,8 +131,8 @@ export async function createChallenge(
 
   if (!oppData) return { match: null, error: "opponent_not_found" };
 
-  const { data: { user } } = await supabase.auth.getUser();
-  if (!user?.id) return { match: null, error: "not_authenticated" };
+  const userId = await ensureAuthUser();
+  if (!userId) return { match: null, error: "not_authenticated" };
 
   const isMix = options?.matchType === "mix";
   const mixGames = isMix ? (options?.mixGames || []) : null;
@@ -131,7 +142,7 @@ export async function createChallenge(
     .insert({
       game: isMix ? "mix" : game,
       status: "waiting",
-      player1_id: user.id,
+      player1_id: userId,
       player1_name: myName,
       player2_name: oppData.name,
       player2_id: oppData.user_id,
@@ -159,10 +170,10 @@ export async function createChallenge(
 export async function acceptChallenge(
   matchId: string
 ): Promise<{ ok: boolean; error?: string }> {
-  const { data: { user } } = await supabase.auth.getUser();
+  const userId = await ensureAuthUser();
 
   const updateFields: Record<string, unknown> = { status: "playing" };
-  if (user?.id) updateFields.player2_id = user.id;
+  if (userId) updateFields.player2_id = userId;
 
   const { error } = await supabase
     .from("multiplayer_matches")
