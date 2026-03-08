@@ -7,7 +7,7 @@ import {
   Swords, Search, Clock, Trophy, ChevronLeft, Send, X,
   Loader2, Check, XCircle, Gamepad2, Users, Zap, Brain,
   Crosshair, Shuffle, Layers, Plus, Minus,
-  Target, Eye, Type, Crown, BookOpen, Grid3x3, Hash, Mountain, Lightbulb, Merge, Navigation,
+  Target, Eye, Type, Crown, BookOpen, Grid3x3, Hash, Mountain, Lightbulb, Merge, Navigation, CircleDot,
 } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { getUsername, hasUsername, searchUsernames } from "@/lib/username";
@@ -228,6 +228,7 @@ const GAME_ICONS: Record<GameType, typeof Zap> = {
   numbermerge: Merge,
   nonogram: Grid3x3,
   mazerush: Navigation,
+  pingpong: CircleDot,
 };
 
 type Tab = "challenge" | "active" | "history";
