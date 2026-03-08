@@ -3,7 +3,7 @@
 import { useState, useEffect, useCallback, useRef, Suspense } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
-import { Grid3X3, Lock, Check, ChevronRight, RotateCcw, X } from "lucide-react";
+import { Grid3X3, Lock, Check, ChevronRight, RotateCcw, X, HelpCircle } from "lucide-react";
 import Link from "next/link";
 import MilestonePopup from "@/components/MilestonePopup";
 import RewardReveal from "@/components/RewardReveal";
@@ -41,6 +41,12 @@ const T = {
     card: "CARD", cellsLeft: "cells left",
     waiting: "Waiting for", multiResult: "Results",
     filled: "Filled", marked: "Marked",
+    howToPlay: "How to play?",
+    tutStep1: "Numbers on the left show how many consecutive filled cells are in each row",
+    tutStep2: "Numbers on top show the same for each column",
+    tutStep3: "Tap to fill a cell, long-press to mark it empty (✕)",
+    tutStep4: "Fill the right cells to reveal the hidden picture!",
+    tutGotIt: "Got it!",
   },
   hu: {
     title: "NONOGRAM",
@@ -56,6 +62,12 @@ const T = {
     card: "K\u00C1RTYA", cellsLeft: "cella maradt",
     waiting: "V\u00E1rakoz\u00E1s:", multiResult: "Eredm\u00E9ny",
     filled: "Kit\u00F6lt\u00F6tt", marked: "Jel\u00F6lt",
+    howToPlay: "Hogyan j\u00E1tssz?",
+    tutStep1: "A bal oldali sz\u00E1mok mutatj\u00E1k h\u00E1ny egym\u00E1s melletti cella van kit\u00F6ltve soronk\u00E9nt",
+    tutStep2: "A fels\u0151 sz\u00E1mok ugyanezt mutatj\u00E1k oszloponk\u00E9nt",
+    tutStep3: "\u00C9rints: kit\u00F6lt\u00E9s. Hossz\u00FA nyom\u00E1s: \u00FCres jel\u00F6l\u00E9s (\u2715)",
+    tutStep4: "T\u00F6ltsd ki a megfelel\u0151 cell\u00E1kat \u00E9s kider\u00FCl a rejtett k\u00E9p!",
+    tutGotIt: "\u00C9rtem!",
   },
   de: {
     title: "NONOGRAMM",
@@ -71,6 +83,12 @@ const T = {
     card: "KARTE", cellsLeft: "Zellen \u00FCbrig",
     waiting: "Warten auf", multiResult: "Ergebnis",
     filled: "Gef\u00FCllt", marked: "Markiert",
+    howToPlay: "Wie spielt man?",
+    tutStep1: "Die Zahlen links zeigen wie viele aufeinanderfolgende Zellen pro Zeile gef\u00FCllt sind",
+    tutStep2: "Die Zahlen oben zeigen dasselbe f\u00FCr jede Spalte",
+    tutStep3: "Tippen: f\u00FCllen. Lang dr\u00FCcken: als leer markieren (\u2715)",
+    tutStep4: "F\u00FClle die richtigen Zellen und enth\u00FClle das versteckte Bild!",
+    tutGotIt: "Verstanden!",
   },
   ro: {
     title: "NONOGRAMA",
@@ -86,6 +104,12 @@ const T = {
     card: "CARD", cellsLeft: "celule r\u0103mase",
     waiting: "A\u0219teptare:", multiResult: "Rezultat",
     filled: "Completat", marked: "Marcat",
+    howToPlay: "Cum se joac\u0103?",
+    tutStep1: "Numerele din st\u00E2nga arat\u0103 c\u00E2te celule consecutive sunt completate pe fiecare r\u00E2nd",
+    tutStep2: "Numerele de sus arat\u0103 acela\u0219i lucru pentru fiecare coloan\u0103",
+    tutStep3: "Apas\u0103: umple. Apas\u0103 lung: marcheaz\u0103 gol (\u2715)",
+    tutStep4: "Completeaz\u0103 celulele corecte \u0219i descoper\u0103 imaginea ascuns\u0103!",
+    tutGotIt: "Am \u00EEn\u021Beles!",
   },
 };
 
@@ -391,6 +415,243 @@ export default function NonogramPageWrapper() {
   return <Suspense><NonogramPage /></Suspense>;
 }
 
+/* ------------------------------------------------------------------ */
+/* Tutorial overlay                                                     */
+/* ------------------------------------------------------------------ */
+type TLang = typeof T.en;
+
+function NonogramTutorial({ t, onClose }: { t: TLang; onClose: () => void }) {
+  const [step, setStep] = useState(0);
+  const [demoGrid, setDemoGrid] = useState<number[]>(Array(25).fill(0)); // 0=empty, 1=filled, 2=marked
+  const [cursorPos, setCursorPos] = useState<{ row: number; col: number } | null>(null);
+  const [tapping, setTapping] = useState(false);
+
+  // Heart pattern for demo (5x5)
+  const solution = [
+    0,1,0,1,0,
+    1,1,1,1,1,
+    1,1,1,1,1,
+    0,1,1,1,0,
+    0,0,1,0,0,
+  ];
+  // Row clues for heart
+  const rowClues = [[1,1],[5],[5],[3],[1]];
+  // Col clues for heart
+  const colClues = [[2],[4],[3],[4],[2]];
+
+  // Animated filling sequence
+  const fillOrder = [
+    // Step 0-1: explain row clues — highlight row 1 (full row of 5)
+    { row: 1, col: 0 }, { row: 1, col: 1 }, { row: 1, col: 2 }, { row: 1, col: 3 }, { row: 1, col: 4 },
+    // Step 2: explain col clues — fill col 2 cells
+    { row: 2, col: 2 }, { row: 3, col: 2 }, { row: 4, col: 2 },
+    // Mark empty
+    { row: 0, col: 0, mark: true }, { row: 0, col: 2, mark: true }, { row: 0, col: 4, mark: true },
+  ];
+
+  useEffect(() => {
+    if (step > 3) return;
+    setDemoGrid(Array(25).fill(0));
+    setCursorPos(null);
+    setTapping(false);
+
+    const timers: ReturnType<typeof setTimeout>[] = [];
+
+    if (step === 0) {
+      // Show row clues explanation — fill row 1 (index 5-9) one by one
+      let delay = 400;
+      for (let i = 0; i < 5; i++) {
+        const idx = 1 * 5 + i;
+        timers.push(setTimeout(() => setCursorPos({ row: 1, col: i }), delay));
+        timers.push(setTimeout(() => setTapping(true), delay + 200));
+        timers.push(setTimeout(() => {
+          setTapping(false);
+          setDemoGrid(prev => { const n = [...prev]; n[idx] = 1; return n; });
+        }, delay + 350));
+        delay += 500;
+      }
+      timers.push(setTimeout(() => { setCursorPos(null); setStep(1); }, delay + 300));
+    } else if (step === 1) {
+      // Show the filled row, then auto-advance
+      setDemoGrid(prev => {
+        const n = [...prev];
+        for (let i = 0; i < 5; i++) n[5 + i] = 1;
+        return n;
+      });
+      timers.push(setTimeout(() => setStep(2), 1800));
+    } else if (step === 2) {
+      // Show col clues — fill column 2 (rows 2,3,4)
+      setDemoGrid(prev => {
+        const n = [...prev];
+        for (let i = 0; i < 5; i++) n[5 + i] = 1; // keep row 1
+        return n;
+      });
+      let delay = 400;
+      const colCells = [{ row: 2, col: 2 }, { row: 3, col: 2 }, { row: 4, col: 2 }];
+      for (const cell of colCells) {
+        const idx = cell.row * 5 + cell.col;
+        timers.push(setTimeout(() => setCursorPos(cell), delay));
+        timers.push(setTimeout(() => setTapping(true), delay + 200));
+        timers.push(setTimeout(() => {
+          setTapping(false);
+          setDemoGrid(prev => { const n = [...prev]; n[idx] = 1; return n; });
+        }, delay + 350));
+        delay += 500;
+      }
+      timers.push(setTimeout(() => { setCursorPos(null); setStep(3); }, delay + 300));
+    } else if (step === 3) {
+      // Show marking empty cells with X
+      setDemoGrid(() => {
+        const n = Array(25).fill(0);
+        for (let i = 0; i < 5; i++) n[5 + i] = 1; // row 1
+        n[2 * 5 + 2] = 1; n[3 * 5 + 2] = 1; n[4 * 5 + 2] = 1; // col 2
+        return n;
+      });
+      let delay = 400;
+      const markCells = [{ row: 0, col: 0 }, { row: 0, col: 2 }, { row: 0, col: 4 }];
+      for (const cell of markCells) {
+        const idx = cell.row * 5 + cell.col;
+        timers.push(setTimeout(() => setCursorPos(cell), delay));
+        timers.push(setTimeout(() => setTapping(true), delay + 300));
+        timers.push(setTimeout(() => {
+          setTapping(false);
+          setDemoGrid(prev => { const n = [...prev]; n[idx] = 2; return n; });
+        }, delay + 500));
+        delay += 650;
+      }
+      timers.push(setTimeout(() => { setCursorPos(null); }, delay + 200));
+    }
+
+    return () => timers.forEach(clearTimeout);
+  }, [step]);
+
+  const stepTexts = [t.tutStep1, t.tutStep2, t.tutStep3, t.tutStep4];
+  const currentText = stepTexts[Math.min(step, 3)];
+
+  return (
+    <motion.div
+      className="fixed inset-0 z-[60] flex flex-col items-center justify-center bg-black/85 backdrop-blur-sm px-6"
+      initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
+      onClick={(e) => { if (e.target === e.currentTarget) onClose(); }}
+    >
+      <motion.div
+        className="bg-[#12122A] border border-white/10 rounded-2xl p-5 max-w-xs w-full flex flex-col items-center gap-4"
+        initial={{ scale: 0.9, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} exit={{ scale: 0.9, opacity: 0 }}
+      >
+        <h3 className="text-lg font-black" style={{ color: ACCENT }}>{t.howToPlay}</h3>
+
+        {/* Demo 5x5 grid with clues */}
+        <div className="relative flex flex-col items-center">
+          <div className="flex">
+            {/* Top-left empty corner */}
+            <div style={{ width: 40, height: 36 }} />
+            {/* Column clues */}
+            {colClues.map((clue, c) => (
+              <div key={c} className="flex flex-col items-center justify-end" style={{ width: 32, height: 36 }}>
+                {clue.map((n, i) => (
+                  <span key={i} className={`text-[10px] font-bold leading-tight ${step === 2 && c === 2 ? "text-[#B44DFF]" : "text-white/70"}`}>{n}</span>
+                ))}
+              </div>
+            ))}
+          </div>
+          {/* Rows */}
+          {[0,1,2,3,4].map(r => (
+            <div key={r} className="flex">
+              {/* Row clue */}
+              <div className="flex items-center justify-end gap-0.5 pr-1" style={{ width: 40, height: 32 }}>
+                {rowClues[r].map((n, i) => (
+                  <span key={i} className={`text-[10px] font-bold ${step === 0 && r === 1 ? "text-[#B44DFF]" : "text-white/70"}`}>{n}</span>
+                ))}
+              </div>
+              {/* Cells */}
+              {[0,1,2,3,4].map(c => {
+                const idx = r * 5 + c;
+                const state = demoGrid[idx];
+                return (
+                  <motion.div
+                    key={c}
+                    className={`flex items-center justify-center border ${
+                      state === 1
+                        ? "bg-[#B44DFF]/30 border-[#B44DFF]/50"
+                        : state === 2
+                        ? "bg-white/[0.03] border-white/10"
+                        : "bg-white/[0.03] border-white/10"
+                    }`}
+                    style={{ width: 32, height: 32, boxShadow: state === 1 ? "inset 0 0 8px rgba(180,77,255,0.3)" : "none" }}
+                    animate={state === 1 ? { scale: [1, 1.1, 1] } : {}}
+                    transition={{ duration: 0.2 }}
+                  >
+                    {state === 1 && <div className="w-4 h-4 rounded-sm" style={{ background: ACCENT, boxShadow: `0 0 6px ${ACCENT}66` }} />}
+                    {state === 2 && <span className="text-red-400/70 font-bold text-xs">✕</span>}
+                  </motion.div>
+                );
+              })}
+            </div>
+          ))}
+
+          {/* Animated hand cursor */}
+          <AnimatePresence>
+            {cursorPos && (
+              <motion.div
+                className="absolute pointer-events-none"
+                style={{
+                  left: 40 + cursorPos.col * 32 + 14,
+                  top: 36 + cursorPos.row * 32 + 16,
+                }}
+                initial={{ opacity: 0, x: 30, y: 30 }}
+                animate={{ opacity: 1, x: 0, y: 0, scale: tapping ? 0.85 : 1 }}
+                exit={{ opacity: 0 }}
+                transition={{ duration: 0.3 }}
+              >
+                <svg width="24" height="28" viewBox="0 0 28 32" fill="none">
+                  <path d="M10 8C10 6.34 11.34 5 13 5s3 1.34 3 3v7h1.5c.83 0 1.5.67 1.5 1.5V22c0 4.42-3.58 8-8 8h-1c-3.87 0-7-3.13-7-7v-4.5c0-.83.67-1.5 1.5-1.5S6 7.67 6 8.5V15h1V8c0-1.66 1.34-3 3-3z" fill="white" fillOpacity="0.9" stroke="rgba(180,77,255,0.6)" strokeWidth="1.5"/>
+                </svg>
+              </motion.div>
+            )}
+          </AnimatePresence>
+        </div>
+
+        {/* Step text */}
+        <AnimatePresence mode="wait">
+          <motion.p
+            key={step}
+            className="text-white/80 text-xs text-center font-medium min-h-[36px] flex items-center px-2"
+            initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -8 }}
+            transition={{ duration: 0.25 }}
+          >
+            {currentText}
+          </motion.p>
+        </AnimatePresence>
+
+        {/* Step dots */}
+        <div className="flex gap-1.5">
+          {[0,1,2,3].map(i => (
+            <div key={i} className={`w-1.5 h-1.5 rounded-full transition-colors ${i <= step ? "bg-[#B44DFF]" : "bg-white/20"}`} />
+          ))}
+        </div>
+
+        {/* Buttons */}
+        <div className="flex gap-3">
+          <motion.button
+            onClick={() => setStep(0)}
+            className="px-4 py-2 rounded-xl bg-white/5 border border-white/10 text-white/70 text-sm font-bold"
+            whileTap={{ scale: 0.95 }}
+          >
+            <RotateCcw size={14} />
+          </motion.button>
+          <motion.button
+            onClick={onClose}
+            className="px-5 py-2 rounded-xl bg-[#B44DFF]/10 border border-[#B44DFF]/30 text-[#B44DFF] text-sm font-bold"
+            whileTap={{ scale: 0.95 }}
+          >
+            {t.tutGotIt}
+          </motion.button>
+        </div>
+      </motion.div>
+    </motion.div>
+  );
+}
+
 function NonogramPage() {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
@@ -487,6 +748,7 @@ function NonogramPage() {
 
   // -- Multiplayer state --
   const [showExitConfirm, setShowExitConfirm] = useState(false);
+  const [showTutorial, setShowTutorial] = useState(false);
   const [oppFinalScore, setOppFinalScore] = useState<number | null>(null);
   const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
   const [mixFinished, setMixFinished] = useState(false);
@@ -804,6 +1066,18 @@ function NonogramPage() {
           <div className="text-center px-4 pb-4">
             <h1 className="text-2xl font-black tracking-wider" style={{ color: ACCENT, filter: `drop-shadow(0 0 8px rgba(180,77,255,0.3))` }}>{t.title}</h1>
             <p className="text-white/60 text-xs mt-1">{t.subtitle}</p>
+          </div>
+
+          {/* How to play button */}
+          <div className="flex justify-center mb-3">
+            <motion.button
+              onClick={() => setShowTutorial(true)}
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-white/5 border border-white/10 text-white/70 text-xs font-medium hover:bg-white/10 transition-colors"
+              whileTap={{ scale: 0.95 }}
+              initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.2 }}
+            >
+              <HelpCircle size={13} /> {t.howToPlay}
+            </motion.button>
           </div>
 
           {/* Avatar */}
@@ -1139,6 +1413,11 @@ function NonogramPage() {
       {!isMultiplayer && screen === "playing" && (
         <AvatarCompanion fixed mood={avatarMood} jumpTrigger={avatarJump} {...avatarProps} />
       )}
+
+      {/* Tutorial overlay */}
+      <AnimatePresence>
+        {showTutorial && <NonogramTutorial t={t} onClose={() => setShowTutorial(false)} />}
+      </AnimatePresence>
     </main>
   );
 }
