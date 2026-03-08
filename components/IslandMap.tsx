@@ -438,33 +438,42 @@ export default function IslandMap({ islands, username, streak, specialCount, car
                 {letter}
               </text>
             ))}
-            <text x={250} y={116} textAnchor="middle" fontSize={7} fontWeight={600} letterSpacing={2.5} fill="rgba(255,255,255,0.2)">
+            <text x={250} y={118} textAnchor="middle" fontSize={8} fontWeight={600} letterSpacing={3} fill="rgba(255,255,255,0.5)">
               PLAY · LEARN · THINK
             </text>
             {username && (
-              <text x={250} y={134} textAnchor="middle" fontSize={10} fontWeight={700} fill="rgba(255,255,255,0.18)" letterSpacing={0.8}>
+              <text x={250} y={138} textAnchor="middle" fontSize={11} fontWeight={700} fill="rgba(255,255,255,0.45)" letterSpacing={0.8}>
                 {username}
               </text>
             )}
           </g>
 
-          {/* Stats */}
+          {/* Stats — centered row */}
           <g>
-            {streak > 0 && (
-              <text x={200} y={158} textAnchor="end" fontSize={10} fontWeight={700} fill="#FFD700" opacity={0.5}>
-                🔥 {streak}
-              </text>
-            )}
-            {specialCount > 0 && (
-              <text x={250} y={158} textAnchor="middle" fontSize={10} fontWeight={700} fill="#E040FB" opacity={0.5}>
-                ⭐ {specialCount}
-              </text>
-            )}
-            {cardCount > 0 && (
-              <text x={300} y={158} textAnchor="start" fontSize={10} fontWeight={700} fill="rgba(255,255,255,0.2)">
-                🃏 {cardCount}
-              </text>
-            )}
+            {(() => {
+              // Build visible stats array, then center them
+              const items: { emoji: string; value: number; color: string }[] = [];
+              if (streak > 0) items.push({ emoji: "🔥", value: streak, color: "#FFD700" });
+              if (specialCount > 0) items.push({ emoji: "⭐", value: specialCount, color: "#E040FB" });
+              if (cardCount > 0) items.push({ emoji: "🃏", value: cardCount, color: "rgba(255,255,255,0.5)" });
+              const gap = 60;
+              const totalW = (items.length - 1) * gap;
+              const startX = 250 - totalW / 2;
+              return items.map((item, i) => (
+                <text
+                  key={i}
+                  x={startX + i * gap}
+                  y={162}
+                  textAnchor="middle"
+                  fontSize={12}
+                  fontWeight={800}
+                  fill={item.color}
+                  opacity={0.8}
+                >
+                  {item.emoji} {item.value}
+                </text>
+              ));
+            })()}
           </g>
 
           <OrbitPaths islands={islands} />
