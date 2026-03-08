@@ -41,7 +41,7 @@ export type GameType =
   | "quickpick" | "memoryflash" | "mathtest" | "wordscramble"
   | "reflexrush" | "numberrush" | "spotdiff" | "sequencerush"
   | "wordhunt" | "milliomos" | "kodex" | "deutschtest"
-  | "numberpath" | "minisudoku" | "skyclimb";
+  | "numberpath" | "minisudoku" | "skyclimb" | "lightout";
 
 export const GAME_LABELS: Record<GameType, string> = {
   quickpick: "Quick Pick",
@@ -59,10 +59,11 @@ export const GAME_LABELS: Record<GameType, string> = {
   numberpath: "Number Path",
   minisudoku: "Mini Sudoku",
   skyclimb: "Sky Climb",
+  lightout: "Light Out",
 };
 
 // Games that have level-based difficulty
-export const LEVEL_GAMES: Set<GameType> = new Set(["reflexrush", "numberrush", "sequencerush", "wordhunt", "numberpath", "minisudoku", "wordscramble", "skyclimb"]);
+export const LEVEL_GAMES: Set<GameType> = new Set(["reflexrush", "numberrush", "sequencerush", "wordhunt", "numberpath", "minisudoku", "wordscramble", "skyclimb", "lightout"]);
 
 // Difficulty → level mapping
 export const DIFFICULTY_LEVEL: Record<Difficulty, number> = {

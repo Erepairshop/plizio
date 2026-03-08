@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Home as HomeIcon, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Home as HomeIcon, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap";
@@ -81,6 +81,7 @@ const TRANSLATIONS = {
       wordhunt: "Word Hunt",
       numberpath: "Number Path",
       minisudoku: "Mini Sudoku",
+      lightout: "Light Out",
       pliziolife: "Plizio Life",
     },
     ui: {
@@ -112,6 +113,7 @@ const TRANSLATIONS = {
       wordhunt: "Szóvadász",
       numberpath: "Számút",
       minisudoku: "Mini Sudoku",
+      lightout: "Light Out",
       pliziolife: "Plizio Life",
     },
     ui: {
@@ -143,6 +145,7 @@ const TRANSLATIONS = {
       wordhunt: "Wortjagd",
       numberpath: "Zahlenpfad",
       minisudoku: "Mini Sudoku",
+      lightout: "Light Out",
       pliziolife: "Plizio Life",
     },
     ui: {
@@ -174,6 +177,7 @@ const TRANSLATIONS = {
       wordhunt: "Vânătoare de Cuvinte",
       numberpath: "Calea Numerelor",
       minisudoku: "Mini Sudoku",
+      lightout: "Light Out",
       pliziolife: "Plizio Life",
     },
     ui: {
@@ -336,6 +340,13 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         color: "#00D4FF",
         gradient: "bg-gradient-to-br from-cyan-500/20 to-blue-500/20",
       },
+      {
+        id: "lightout",
+        icon: Lightbulb,
+        nameKey: "lightout",
+        color: "#FFD700",
+        gradient: "bg-gradient-to-br from-yellow-500/20 to-amber-500/20",
+      },
     ],
   },
 ];
@@ -410,7 +421,7 @@ const GAME_TO_CATEGORY: Record<string, string> = {
   kodex: "quizreflex",
   skyclimb: "adventure", citydrive: "adventure", racetrack: "adventure", pliziolife: "adventure",
   mathtest: "brain", deutschtest: "brain",
-  numberpath: "logic", minisudoku: "logic",
+  numberpath: "logic", minisudoku: "logic", lightout: "logic",
 };
 
 function getLastPlayedCategory(): string | null {
