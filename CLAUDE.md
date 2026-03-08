@@ -535,10 +535,74 @@ A Klassenarbeit (vizsgadolgozat) formátum fix szekciókba rendezi a kérdéseke
 | 7 | Algebra · Equations · Geometry · Pythagoras · Bonus | 2+2+2+2+1 = 9 |
 | 8 | Algebra · Equations · Functions · Probability · Bonus | 2+2+2+2+1 = 9 |
 
-**Szekció-generátorok táblázat (Grade 2-4):**
+**Szekció-generátorok táblázat (Grade 4 — referencia más grade-ekhez):**
+- Grade 4 `kopfrechnen`: `[G4.add, G4.sub, G4.mul, G4.div]`
+- Grade 4 `schriftlich`: `[G4.longMul, G4.longDiv, G4.schriftlichAdd]`
+- Grade 4 `bruchrechnung`: `[G4.fractionSimple, G4.fractionAddSimple]`
+- Grade 4 `geometrie`: `[G4.geometry, G4.geometryB, G4.circleSimple]`
+- Grade 4 `bonus`: `[G4.roundingG4, G4.sequence]`
+
+**⚠️ Grade 4 generátor szabályok (gyakori hibák elkerülése):**
+- `G4.fractionAdd` → **NE HASZNÁLD** G4-ben! Közös nevező / különféle nevezők, túl nehéz. → Használd `G4.fractionAddSimple`-t (azonos nevezők)
+- `G4.circleBasics` → **NE HASZNÁLD** G4-ben! π-vel számol (kerület/terület). → Használd `G4.circleSimple`-t (sugár↔átmérő)
+- `G4.decimals` → **NE HASZNÁLD** G4-ben! Tizedes összeadás, nehéz. → Használd `G4.timeWord`-ot vagy `G4.moneyWord`-ot
+- `G4.units` → Klassenarbeit geometrie szekcióban NE HASZNÁLD! Csak mértékegységek (km, tonna). → Használd `G4.geometry`/`G4.geometryB`/`G4.circleSimple`
 - Grade 2 `bonus`: `[G2.sequence, G2.missing100]`
 - Grade 3 `geometry`: `[G3.units]` → US esetén imperial, egyéb esetén metrikus
-- Grade 4 `geometrie`: `[G4.units]` → US esetén imperial, egyéb esetén km/tonna/liter
+
+#### Klassenarbeit vizuális blokk rendszer
+
+**Fájlok:**
+| Fájl | Leírás |
+|------|--------|
+| `lib/schoolTaskGenerator.ts` | `generateVisualBlock()` — vizuális blokk generátor, `SchoolTaskBlockType` típusok |
+| `components/SchoolTaskBlock.tsx` | Render dispatcher — `renderVisualComponent()` vizuális típusokhoz |
+| `components/grade4-visual/*.tsx` | 13 interaktív vizuális komponens (SVG/canvas) |
+
+**Vizuális típusok (13 db):**
+| `visualType` | Komponens | Válasz formátum | Leírás |
+|---|---|---|---|
+| `zeichnen` | LengthDrawing | szám (cm) | Vonal rajzolás vonalzóval |
+| `messen` | LengthMeasurement | szám (cm) | Vonal mérés vonalzóval |
+| `uhrzeit` | AnalogClock | `"H:MM"` (pl. `"3:05"`) | Analóg óra leolvasás |
+| `grid-area` | GridAreaCounter | szám | Terület/kerület számolás rácsról |
+| `place-value` | PlaceValueGrid | szám | Helyiérték meghatározás |
+| `fraction-pizza` | FractionPizzaAdder | `"sz/n"` (pl. `"3/4"`) | Tört felismerés pizzáról |
+| `symmetry` | SymmetryMirror | `"cella;cella;..."` | Tükrözés SVG rácson |
+| `sequence` | SequenceBuilder | `"sz,sz,sz"` (vesszővel) | Számsor folytatás |
+| `timeline` | TimelineDuration | szám (óra) | Időtartam számolás |
+| `number-line` | NumberLineRounding | szám | Kerekítés számegyenesen |
+| `angle` | AngleDrawer | szám (fok) | Szög rajzolás |
+| `circle-draw` | CircleDrawer | szám (cm) | Kör rajzolás adott sugárral |
+| `money` | MoneyCalculator | szám (€) | Pénz összeadás/visszajáró |
+
+**Embedded mód (Klassenarbeit-ben):**
+Minden vizuális komponens támogatja: `embedded={true}` + `onValueChange={(v: string) => ...}`
+- `embedded=true`: elrejti a header-t, feedback-et, és a saját Prüfen gombot
+- `onValueChange`: minden user interakció után hívódik, értéket ment a `schoolAnswers` state-be
+- Osztályozás CSAK az "Abgeben" gombbal történik (globális), NEM vizuálisan komponensenként
+- `onAnswer` prop kötelező (type constraint), de `() => {}` noop-pal hívható embedded módban
+
+**Blokkonként 3 al-kérdés:**
+`generateVisualBlock()` 3 `SubQuestion`-t generál különböző random paraméterekkel.
+`SchoolTaskBlock` mindegyiket külön-külön rendereli `a)`, `b)`, `c)` jelöléssel.
+Pontszám: 3P / vizuális blokk (1P / al-kérdés).
+
+**Osztályozás:**
+`gradeSchoolTest()` — egyszerű `String(userAnswer).trim() === String(sq.answer).trim()` összehasonlítás.
+Nincs részleges pontszám, nincs tolerance. A vizuális komponens felelőssége, hogy a helyes formátumban reportolja az értéket.
+
+**Új vizuális típus hozzáadása — checklist:**
+1. `components/grade4-visual/MyVisual.tsx` — `embedded`, `onValueChange` prop támogatás
+2. `lib/schoolTaskGenerator.ts` — `generateVisualSub()` switch-be új case + `VISUAL_TOPIC_TO_TYPE` map
+3. `components/SchoolTaskBlock.tsx` — `renderVisualComponent()` switch-be új case + import
+4. Válasz formátumnak egyeznie kell: amit az `onValueChange` küld === amit `sq.answer` tartalmaz (string-ként)
+
+**⚠️ Gyakori hibák vizuális komponenseknél:**
+- NE hagyd benne a saját submit logikát embedded módban — `if (embedded) return;` guard kell a handleSubmit-ben
+- Az `onValueChange` MINDIG string-et vár — számot is `String()`-gel kell küldeni
+- Uhrzeit padding: `"3:05"` NEM `"3:5"` — a `padStart(2, '0')` kötelező
+- Sequence válasz: `"5,7,9"` NEM `"5, 7, 9"` — szóköz nélkül, vesszővel
 
 #### Imperial units (US-only, Grade 2-4)
 Hozzáadott kérdéstípusok (`mathTranslations.ts` → `mathCurriculum.ts`):
@@ -561,6 +625,35 @@ Hozzáadott kérdéstípusok:
 - Grade 2 Period 5: + `G2.units`, `G2.ampmClock`
 - Grade 3 Period 4: + `G3.ampmClock`
 - Grade 3 Period 5: + `G3.ampmClock` (a `G3.units` már meglévő, de bővítve US imperial-lal)
+
+#### Grade átalakítás checklist (jövőbeli grade-ek módosításakor)
+
+Minden grade-nél (G1-G8) ugyanezeket a lépéseket kell követni:
+
+**1. CURRICULUM[N] periódusok ellenőrzése:**
+- Nézd meg az összes 5 periódust: `CURRICULUM[N].period1..period5`
+- Ellenőrizd, hogy a generátorok az adott osztálynak megfelelő nehézségűek
+- Ne használj magasabb osztály generátorokat (pl. G5 generátort G4-ben)
+
+**2. Klassenarbeit szekciók ellenőrzése:**
+- `generateKlassenarbeit()` switch case `N:`
+- Szekciók nevei és generátor hozzárendelések
+- Ellenőrizd: minden generátor létezik a `GN` objektumban
+
+**3. Generátor hibák keresése:**
+- Próbálj ki minden generátort 10-szer: `for (let i=0;i<10;i++) console.log(GN.xxx("DE"))`
+- Keress: tört eredmények (nem egész szám ami egész kellene legyen), hardcoded szöveg (angol ahol fordítás kellene), túl nehéz feladatok
+- US country code teszt: `GN.xxx("US")` — működik-e imperial/AM-PM?
+
+**4. Vizuális blokkok (ha az adott grade használja):**
+- `schoolTaskGenerator.ts` — generátorok helyes paraméterekkel
+- Válasz formátum egyezés (onValueChange ↔ sq.answer)
+- Embedded mód tesztelés
+
+**5. Fordítások:**
+- `mathTranslations.ts` — minden szöveges generátor 4 nyelven (DE/EN/HU/RO)
+- Topic nevek a `TOPIC_NAMES` map-ben
+- `qFunctionName()` segédfüggvények
 
 ---
 
