@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useRef, useEffect, useCallback } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { motion, AnimatePresence, useMotionValue, useTransform } from "framer-motion";
 import Link from "next/link";
 import { ChevronLeft, type LucideIcon } from "lucide-react";
 import dynamic from "next/dynamic";
@@ -75,7 +75,7 @@ const PLANET_THEMES: Record<string, PlanetTheme> = {
   },
   /* Adventure — mountain/terrain */
   adventure: {
-    details: (cx, cy, r, color) => (
+    details: (cx, cy, _r, color) => (
       <g>
         {/* mountain peaks */}
         <path d={`M ${cx - 14},${cy + 8} L ${cx - 6},${cy - 10} L ${cx + 2},${cy + 8} Z`} fill={color} opacity={0.25} />
@@ -87,7 +87,7 @@ const PLANET_THEMES: Record<string, PlanetTheme> = {
   },
   /* Learn — open book with knowledge glow */
   brain: {
-    details: (cx, cy, r, color) => (
+    details: (cx, cy, _r, color) => (
       <g>
         {/* open book shape */}
         <path
@@ -115,7 +115,7 @@ const PLANET_THEMES: Record<string, PlanetTheme> = {
   },
   /* Logic — grid/puzzle pattern */
   logic: {
-    details: (cx, cy, r, color) => (
+    details: (cx, cy, _r, color) => (
       <g>
         {/* mini grid */}
         {[-8, 0, 8].map((dx) =>
@@ -132,6 +132,17 @@ const PLANET_THEMES: Record<string, PlanetTheme> = {
       </g>
     ),
   },
+  /* Sport — ball with motion lines */
+  sport: {
+    details: (cx, cy, _r, color) => (
+      <g>
+        <circle cx={cx + 2} cy={cy - 2} r={8} fill="none" stroke={color} strokeWidth={1.2} opacity={0.3} />
+        <path d={`M ${cx - 10},${cy - 6} L ${cx - 5},${cy - 6}`} stroke={color} strokeWidth={0.8} opacity={0.2} />
+        <path d={`M ${cx - 12},${cy - 2} L ${cx - 6},${cy - 2}`} stroke={color} strokeWidth={0.8} opacity={0.25} />
+        <path d={`M ${cx - 10},${cy + 2} L ${cx - 5},${cy + 2}`} stroke={color} strokeWidth={0.8} opacity={0.2} />
+      </g>
+    ),
+  },
 };
 
 /* Fallback for unknown categories */
@@ -145,37 +156,89 @@ const DEFAULT_THEME: PlanetTheme = {
 };
 
 /* ------------------------------------------------------------------ */
-/* Ocean background                                                    */
+/* Star field — more stars, denser, with parallax support              */
 /* ------------------------------------------------------------------ */
-function OceanBg() {
+const STARS = (() => {
+  const stars: { x: number; y: number; r: number; speed: number; brightness: number }[] = [];
+  // Use deterministic "random" based on index for SSR safety
+  for (let i = 0; i < 60; i++) {
+    const seed = (i * 7919 + 104729) % 100000;
+    stars.push({
+      x: (seed % 500),
+      y: ((seed * 3) % 900),
+      r: 0.3 + (seed % 10) / 10,
+      speed: 2 + (seed % 8),     // twinkle speed
+      brightness: 0.15 + (seed % 30) / 100,
+    });
+  }
+  return stars;
+})();
+
+/* ------------------------------------------------------------------ */
+/* Universe background with parallax                                   */
+/* ------------------------------------------------------------------ */
+function UniverseBg({ mouseX, mouseY }: { mouseX: number; mouseY: number }) {
+  // Parallax layers: distant stars move less, close stars move more
+  const farOffset = { x: mouseX * -2, y: mouseY * -2 };
+  const midOffset = { x: mouseX * -5, y: mouseY * -5 };
+
   return (
     <g>
-      <rect x={0} y={0} width={500} height={900} fill="#070e1a" />
-      <ellipse cx={250} cy={860} rx={340} ry={200} fill="#0b1729" opacity={0.6} />
-      {/* stars */}
-      {[
-        { x: 30, y: 25, r: 1.1 }, { x: 100, y: 15, r: 0.7 }, { x: 200, y: 38, r: 0.9 },
-        { x: 310, y: 20, r: 0.6 }, { x: 420, y: 32, r: 1 }, { x: 470, y: 12, r: 0.8 },
-        { x: 60, y: 52, r: 0.5 }, { x: 260, y: 8, r: 1.2 }, { x: 360, y: 48, r: 0.4 },
-        { x: 450, y: 55, r: 0.6 }, { x: 150, y: 60, r: 0.7 },
-      ].map((s, i) => (
-        <motion.circle
-          key={i} cx={s.x} cy={s.y} r={s.r} fill="rgba(200,220,255,0.35)"
-          animate={{ opacity: [0.2, 0.5, 0.2] }}
-          transition={{ duration: 3 + i * 0.7, repeat: Infinity, ease: "easeInOut" }}
-        />
-      ))}
-      {/* nebula glow */}
-      <ellipse cx={130} cy={400} rx={120} ry={100} fill="rgba(0,100,255,0.02)" />
-      <ellipse cx={380} cy={600} rx={100} ry={80} fill="rgba(180,77,255,0.015)" />
-      {/* wave lines */}
-      {[300, 450, 600, 740].map((y, i) => (
+      <rect x={-20} y={-20} width={540} height={940} fill="#070e1a" />
+
+      {/* Deep space nebula */}
+      <ellipse cx={130} cy={400} rx={140} ry={120} fill="rgba(0,80,255,0.02)" />
+      <ellipse cx={400} cy={250} rx={100} ry={80} fill="rgba(180,77,255,0.015)" />
+      <ellipse cx={300} cy={700} rx={120} ry={90} fill="rgba(0,200,150,0.012)" />
+
+      {/* Far stars layer — subtle parallax */}
+      <g transform={`translate(${farOffset.x}, ${farOffset.y})`}>
+        {STARS.slice(0, 30).map((s, i) => (
+          <motion.circle
+            key={`far-${i}`} cx={s.x} cy={s.y} r={s.r * 0.7}
+            fill={`rgba(200,220,255,${s.brightness * 0.8})`}
+            animate={{ opacity: [s.brightness * 0.5, s.brightness, s.brightness * 0.5] }}
+            transition={{ duration: s.speed, repeat: Infinity, ease: "easeInOut", delay: i * 0.15 }}
+          />
+        ))}
+      </g>
+
+      {/* Mid stars layer — more parallax */}
+      <g transform={`translate(${midOffset.x}, ${midOffset.y})`}>
+        {STARS.slice(30, 60).map((s, i) => (
+          <motion.circle
+            key={`mid-${i}`} cx={s.x} cy={s.y} r={s.r}
+            fill={`rgba(220,240,255,${s.brightness})`}
+            animate={{ opacity: [s.brightness * 0.4, s.brightness * 1.2, s.brightness * 0.4] }}
+            transition={{ duration: s.speed * 0.7, repeat: Infinity, ease: "easeInOut", delay: i * 0.1 }}
+          />
+        ))}
+      </g>
+
+      {/* Occasional shooting star */}
+      <motion.line
+        x1={80} y1={60} x2={110} y2={70}
+        stroke="rgba(255,255,255,0.3)" strokeWidth={1} strokeLinecap="round"
+        initial={{ opacity: 0, x: 0, y: 0 }}
+        animate={{ opacity: [0, 0.6, 0], x: [0, 80], y: [0, 30] }}
+        transition={{ duration: 1.5, repeat: Infinity, repeatDelay: 12, ease: "easeOut" }}
+      />
+      <motion.line
+        x1={350} y1={120} x2={370} y2={130}
+        stroke="rgba(255,255,255,0.25)" strokeWidth={0.8} strokeLinecap="round"
+        initial={{ opacity: 0, x: 0, y: 0 }}
+        animate={{ opacity: [0, 0.5, 0], x: [0, 60], y: [0, 25] }}
+        transition={{ duration: 1.2, repeat: Infinity, repeatDelay: 18, delay: 7, ease: "easeOut" }}
+      />
+
+      {/* Cosmic dust / wave lines */}
+      {[300, 500, 700].map((y, i) => (
         <motion.path
           key={i}
-          d={`M -20,${y} Q 60,${y - 5} 125,${y} T 250,${y} T 375,${y} T 520,${y}`}
-          fill="none" stroke="rgba(80,180,255,0.03)" strokeWidth={1}
-          animate={{ x: [0, i % 2 === 0 ? 12 : -12, 0] }}
-          transition={{ duration: 10 + i * 2, repeat: Infinity, ease: "easeInOut" }}
+          d={`M -20,${y} Q 60,${y - 6} 125,${y} T 250,${y} T 375,${y} T 520,${y}`}
+          fill="none" stroke="rgba(80,180,255,0.025)" strokeWidth={0.8}
+          animate={{ x: [0, i % 2 === 0 ? 14 : -14, 0] }}
+          transition={{ duration: 12 + i * 3, repeat: Infinity, ease: "easeInOut" }}
         />
       ))}
     </g>
@@ -183,35 +246,79 @@ function OceanBg() {
 }
 
 /* ------------------------------------------------------------------ */
-/* Planet (was "Island")                                               */
+/* Planet with idle animation + hover/tap effects                      */
 /* ------------------------------------------------------------------ */
 function Planet({
   island,
   selected,
   onClick,
+  floatOffset,
 }: {
   island: Island;
   selected: boolean;
   onClick: () => void;
+  floatOffset: number;  // unique offset for floating animation per planet
 }) {
   const { cx, cy, color, glow, label, id } = island;
   const theme = PLANET_THEMES[id] ?? DEFAULT_THEME;
 
+  // Idle floating Y offset
+  const floatY = cy + floatOffset;
+
   return (
-    <g className="cursor-pointer" onClick={onClick} role="button" tabIndex={0} aria-label={label}>
+    <motion.g
+      className="cursor-pointer"
+      onClick={onClick}
+      role="button"
+      tabIndex={0}
+      aria-label={label}
+      animate={{ y: floatOffset }}
+      transition={{ duration: 0 }} // instant — floatOffset is animated externally
+    >
       {/* big soft ambient glow behind planet */}
-      <circle cx={cx} cy={cy} r={R * 2.2} fill={glow} opacity={0.06} />
+      <motion.circle
+        cx={cx} cy={cy} r={R * 2.2}
+        fill={glow}
+        animate={{ opacity: [0.05, 0.08, 0.05] }}
+        transition={{ duration: 4 + floatOffset * 0.5, repeat: Infinity, ease: "easeInOut" }}
+      />
       <circle cx={cx} cy={cy} r={R * 1.5} fill={glow} opacity={0.08} />
 
-      {/* outer ring glow */}
+      {/* Pulsing halo ring (idle animation) */}
       <motion.circle
-        cx={cx} cy={cy} r={R + 14}
-        fill="none" stroke={glow}
-        strokeWidth={selected ? 2.5 : 1.2}
-        opacity={selected ? 0.7 : 0.2}
-        animate={{ r: selected ? R + 18 : R + 14, opacity: selected ? 0.7 : 0.2 }}
-        transition={{ duration: 0.4 }}
+        cx={cx} cy={cy} r={R + 20}
+        fill="none" stroke={glow} strokeWidth={0.5}
+        animate={{
+          r: [R + 18, R + 24, R + 18],
+          opacity: [0.06, 0.15, 0.06],
+        }}
+        transition={{ duration: 5, repeat: Infinity, ease: "easeInOut", delay: floatOffset * 0.3 }}
       />
+
+      {/* outer ring glow — enhanced on selected */}
+      <motion.circle
+        cx={cx} cy={cy}
+        fill="none" stroke={glow}
+        animate={{
+          r: selected ? R + 18 : R + 14,
+          strokeWidth: selected ? 2.5 : 1.2,
+          opacity: selected ? 0.8 : 0.25,
+        }}
+        transition={{ duration: 0.3 }}
+      />
+
+      {/* Selected: extra pulsing ring */}
+      {selected && (
+        <motion.circle
+          cx={cx} cy={cy} r={R + 22}
+          fill="none" stroke={glow} strokeWidth={1}
+          animate={{
+            r: [R + 20, R + 28, R + 20],
+            opacity: [0.4, 0.1, 0.4],
+          }}
+          transition={{ duration: 1.5, repeat: Infinity, ease: "easeInOut" }}
+        />
+      )}
 
       {/* atmosphere glow */}
       <defs>
@@ -223,13 +330,16 @@ function Planet({
         </radialGradient>
       </defs>
 
-      {/* planet body */}
+      {/* planet body — scale up on hover/tap */}
       <motion.circle
         cx={cx} cy={cy} r={R}
         fill={`url(#pg-${id})`}
         stroke={color} strokeWidth={1.5} strokeOpacity={0.35}
-        whileHover={{ scale: 1.1 }}
-        transition={{ type: "spring", stiffness: 300 }}
+        whileHover={{ scale: 1.12 }}
+        whileTap={{ scale: 1.15 }}
+        animate={{ scale: selected ? 1.08 : 1 }}
+        transition={{ type: "spring", stiffness: 300, damping: 20 }}
+        style={{ originX: `${cx}px`, originY: `${cy}px` }}
       />
 
       {/* category-specific surface details */}
@@ -256,12 +366,12 @@ function Planet({
       <text x={cx + R - 4} y={cy - R + 7.5} textAnchor="middle" fill="#fff" fontSize={9} fontWeight={800}>
         {island.games.length}
       </text>
-    </g>
+    </motion.g>
   );
 }
 
 /* ------------------------------------------------------------------ */
-/* Orbit paths between planets                                         */
+/* Orbit paths between planets — brighter, with energy pulse           */
 /* ------------------------------------------------------------------ */
 function OrbitPaths({ islands }: { islands: Island[] }) {
   if (islands.length < 2) return null;
@@ -271,15 +381,30 @@ function OrbitPaths({ islands }: { islands: Island[] }) {
         const b = islands[i + 1];
         const mx = (a.cx + b.cx) / 2 + (i % 2 === 0 ? 35 : -35);
         const my = (a.cy + b.cy) / 2;
+        const pathD = `M ${a.cx},${a.cy} Q ${mx},${my} ${b.cx},${b.cy}`;
+        // Blend colors from connected planets
+        const blendColor = a.color;
         return (
-          <motion.path
-            key={i}
-            d={`M ${a.cx},${a.cy} Q ${mx},${my} ${b.cx},${b.cy}`}
-            fill="none" stroke="rgba(255,255,255,0.05)" strokeWidth={1} strokeDasharray="4 6"
-            initial={{ pathLength: 0 }}
-            animate={{ pathLength: 1 }}
-            transition={{ duration: 1.5, delay: 0.5 + i * 0.2 }}
-          />
+          <g key={i}>
+            {/* Base path — brighter */}
+            <motion.path
+              d={pathD}
+              fill="none" stroke="rgba(255,255,255,0.08)" strokeWidth={1.2} strokeDasharray="5 5"
+              initial={{ pathLength: 0 }}
+              animate={{ pathLength: 1 }}
+              transition={{ duration: 1.5, delay: 0.5 + i * 0.2 }}
+            />
+            {/* Energy pulse traveling along the path */}
+            <motion.path
+              d={pathD}
+              fill="none" stroke={blendColor} strokeWidth={2}
+              strokeDasharray="8 200"
+              strokeLinecap="round"
+              opacity={0.3}
+              animate={{ strokeDashoffset: [200, -200] }}
+              transition={{ duration: 4 + i * 0.5, repeat: Infinity, ease: "linear", delay: i * 1.5 }}
+            />
+          </g>
         );
       })}
     </g>
@@ -363,15 +488,24 @@ function AvatarGlow({ cx, cy, color }: { cx: number; cy: number; color: string }
       animate={{ opacity: 1 }}
       transition={{ delay: 1.2, duration: 0.5 }}
     >
+      {/* Arrival glow burst */}
+      <motion.circle
+        cx={cx} cy={cy} r={18}
+        fill={color} opacity={0}
+        animate={{ r: [14, 30, 30], opacity: [0.4, 0.1, 0] }}
+        transition={{ duration: 1.2, delay: 1.5, ease: "easeOut" }}
+      />
       <ellipse cx={cx} cy={cy + R - 2} rx={8} ry={3} fill={color} opacity={0.3} />
-      <circle cx={cx} cy={cy} r={14} fill="none" stroke={color} strokeWidth={0.6} opacity={0.2} />
+      <motion.circle
+        cx={cx} cy={cy} r={14}
+        fill="none" stroke={color} strokeWidth={0.6}
+        animate={{ opacity: [0.15, 0.3, 0.15] }}
+        transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}
+      />
     </motion.g>
   );
 }
 
-/* ------------------------------------------------------------------ */
-/* Main — Fullscreen Island Map                                        */
-/* ------------------------------------------------------------------ */
 /* ------------------------------------------------------------------ */
 /* Hook: SVG viewBox → DOM pixel position                              */
 /* ------------------------------------------------------------------ */
@@ -387,7 +521,6 @@ function useSvgToDOM(svgRef: React.RefObject<SVGSVGElement | null>, vx: number, 
     const scaleH = rect.height / 900;
     const scale = Math.min(scaleW, scaleH);
     const renderedW = 500 * scale;
-    const renderedH = 900 * scale;
     const offsetX = (rect.width - renderedW) / 2; // xMid
     const offsetY = 0; // yMin
     setPos({
@@ -405,10 +538,96 @@ function useSvgToDOM(svgRef: React.RefObject<SVGSVGElement | null>, vx: number, 
   return pos;
 }
 
+/* ------------------------------------------------------------------ */
+/* Planet idle float animation (returns offset per planet index)        */
+/* ------------------------------------------------------------------ */
+function usePlanetFloats(count: number) {
+  const [offsets, setOffsets] = useState<number[]>(() => new Array(count).fill(0));
+  const frameRef = useRef(0);
+
+  useEffect(() => {
+    let raf: number;
+    const startTime = performance.now();
+    const loop = (now: number) => {
+      const t = (now - startTime) / 1000;
+      const newOffsets = new Array(count).fill(0).map((_, i) => {
+        // Each planet has a unique phase and slightly different speed
+        const phase = i * 1.3;
+        const speed = 0.3 + i * 0.05;
+        return Math.sin(t * speed + phase) * 3; // +-3px float
+      });
+      setOffsets(newOffsets);
+      raf = requestAnimationFrame(loop);
+    };
+    raf = requestAnimationFrame(loop);
+    return () => cancelAnimationFrame(raf);
+  }, [count]);
+
+  return offsets;
+}
+
+/* ------------------------------------------------------------------ */
+/* Card flash effect — listens for plizio-cards-changed event          */
+/* ------------------------------------------------------------------ */
+function useCardFlash() {
+  const [flashCat, setFlashCat] = useState<string | null>(null);
+
+  useEffect(() => {
+    const handler = () => {
+      // When a new card is earned, flash the last played category
+      try {
+        const cards = JSON.parse(localStorage.getItem("plizio_cards") || "[]");
+        if (cards.length > 0) {
+          const sorted = [...cards].sort((a: { date: string }, b: { date: string }) =>
+            new Date(b.date).getTime() - new Date(a.date).getTime()
+          );
+          const lastGame = sorted[0]?.game;
+          if (lastGame) {
+            // Use the GAME_TO_CATEGORY mapping indirectly — we flash the category that owns this game
+            setFlashCat(lastGame);
+            setTimeout(() => setFlashCat(null), 2000);
+          }
+        }
+      } catch {}
+    };
+    window.addEventListener("plizio-cards-changed", handler);
+    return () => window.removeEventListener("plizio-cards-changed", handler);
+  }, []);
+
+  return flashCat;
+}
+
+/* ------------------------------------------------------------------ */
+/* Main — Fullscreen Island Map                                        */
+/* ------------------------------------------------------------------ */
 export default function IslandMap({ islands, username, streak, specialCount, cardCount, lastPlayedCategory, avatarProps }: IslandMapProps) {
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const selectedIsland = islands.find((i) => i.id === selectedId) ?? null;
   const svgRef = useRef<SVGSVGElement | null>(null);
+  const containerRef = useRef<HTMLDivElement>(null);
+
+  // Mouse/touch parallax
+  const [mouseOffset, setMouseOffset] = useState({ x: 0, y: 0 });
+  useEffect(() => {
+    const handler = (e: MouseEvent) => {
+      const cx = window.innerWidth / 2;
+      const cy = window.innerHeight / 2;
+      // Normalize to -1..1 range, then multiply by small factor
+      setMouseOffset({
+        x: ((e.clientX - cx) / cx) * 1,
+        y: ((e.clientY - cy) / cy) * 1,
+      });
+    };
+    window.addEventListener("mousemove", handler);
+    return () => window.removeEventListener("mousemove", handler);
+  }, []);
+
+  // Planet idle float
+  const floatOffsets = usePlanetFloats(islands.length);
+
+  // Avatar smooth movement
+  const prevTargetRef = useRef<{ cx: number; cy: number } | null>(null);
+  const [avatarAnimating, setAvatarAnimating] = useState(false);
 
   // Find the target planet for the avatar
   const targetIsland = lastPlayedCategory
@@ -418,10 +637,31 @@ export default function IslandMap({ islands, username, streak, specialCount, car
   const avatarSvgY = targetIsland ? targetIsland.cy + R - 18 : 0; // sit on top of planet
   const avatarPos = useSvgToDOM(svgRef, avatarSvgX, avatarSvgY);
 
+  // Track previous position for smooth movement
+  useEffect(() => {
+    if (targetIsland && prevTargetRef.current) {
+      const prev = prevTargetRef.current;
+      if (prev.cx !== targetIsland.cx || prev.cy !== targetIsland.cy) {
+        setAvatarAnimating(true);
+        setTimeout(() => setAvatarAnimating(false), 800);
+      }
+    }
+    if (targetIsland) {
+      prevTargetRef.current = { cx: targetIsland.cx, cy: targetIsland.cy };
+    }
+  }, [targetIsland?.cx, targetIsland?.cy]);
+
   const AVATAR_SIZE = 52;
 
+  // Card flash
+  const flashGame = useCardFlash();
+  // Check if any island contains the flashed game
+  const flashIslandId = flashGame
+    ? islands.find(isl => isl.games.some(g => g.id === flashGame))?.id ?? null
+    : null;
+
   return (
-    <div className="absolute inset-0 overflow-hidden bg-[#070e1a]" style={{ perspective: "1000px" }}>
+    <div ref={containerRef} className="absolute inset-0 overflow-hidden bg-[#070e1a]" style={{ perspective: "1000px" }}>
       <motion.div
         className="absolute inset-0 flex items-center justify-center"
         style={{ transformStyle: "preserve-3d", transformOrigin: "center 35%" }}
@@ -434,7 +674,7 @@ export default function IslandMap({ islands, username, streak, specialCount, car
           preserveAspectRatio="xMidYMin meet"
           className="w-full h-full"
         >
-          <OceanBg />
+          <UniverseBg mouseX={mouseOffset.x} mouseY={mouseOffset.y} />
 
           {/* Logo — PLIZIO */}
           <g>
@@ -465,11 +705,10 @@ export default function IslandMap({ islands, username, streak, specialCount, car
           {/* Stats — centered row */}
           <g>
             {(() => {
-              // Build visible stats array, then center them
               const items: { emoji: string; value: number; color: string }[] = [];
-              if (streak > 0) items.push({ emoji: "🔥", value: streak, color: "#FFD700" });
-              if (specialCount > 0) items.push({ emoji: "⭐", value: specialCount, color: "#E040FB" });
-              if (cardCount > 0) items.push({ emoji: "🃏", value: cardCount, color: "rgba(255,255,255,0.5)" });
+              if (streak > 0) items.push({ emoji: "\uD83D\uDD25", value: streak, color: "#FFD700" });
+              if (specialCount > 0) items.push({ emoji: "\u2B50", value: specialCount, color: "#E040FB" });
+              if (cardCount > 0) items.push({ emoji: "\uD83C\uDCCF", value: cardCount, color: "rgba(255,255,255,0.5)" });
               const gap = 60;
               const totalW = (items.length - 1) * gap;
               const startX = 250 - totalW / 2;
@@ -492,13 +731,25 @@ export default function IslandMap({ islands, username, streak, specialCount, car
 
           <OrbitPaths islands={islands} />
 
-          {islands.map((island) => (
-            <Planet
-              key={island.id}
-              island={island}
-              selected={selectedId === island.id}
-              onClick={() => setSelectedId(selectedId === island.id ? null : island.id)}
-            />
+          {islands.map((island, idx) => (
+            <g key={island.id}>
+              {/* Card flash effect on planet */}
+              {flashIslandId === island.id && (
+                <motion.circle
+                  cx={island.cx} cy={island.cy} r={R * 1.5}
+                  fill={island.color}
+                  initial={{ opacity: 0.5, scale: 0.8 }}
+                  animate={{ opacity: 0, scale: 1.5 }}
+                  transition={{ duration: 1.5 }}
+                />
+              )}
+              <Planet
+                island={island}
+                selected={selectedId === island.id}
+                onClick={() => setSelectedId(selectedId === island.id ? null : island.id)}
+                floatOffset={floatOffsets[idx] ?? 0}
+              />
+            </g>
           ))}
 
           {/* SVG glow under avatar */}
@@ -513,18 +764,23 @@ export default function IslandMap({ islands, username, streak, specialCount, car
         <motion.div
           className="fixed pointer-events-none z-20"
           style={{
-            left: avatarPos.left - AVATAR_SIZE / 2,
-            top: avatarPos.top - AVATAR_SIZE * 0.75,
             width: AVATAR_SIZE,
             height: AVATAR_SIZE,
           }}
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ delay: 1.2, duration: 0.5 }}
+          initial={{ opacity: 0, left: avatarPos.left - AVATAR_SIZE / 2, top: avatarPos.top - AVATAR_SIZE * 0.75 }}
+          animate={{
+            opacity: 1,
+            left: avatarPos.left - AVATAR_SIZE / 2,
+            top: avatarPos.top - AVATAR_SIZE * 0.75,
+          }}
+          transition={avatarAnimating
+            ? { left: { duration: 0.8, ease: "easeInOut" }, top: { duration: 0.8, ease: [0.4, 0, 0.2, 1] }, opacity: { delay: 1.2, duration: 0.5 } }
+            : { opacity: { delay: 1.2, duration: 0.5 } }
+          }
         >
           <AvatarCompanion
             fixed={false}
-            mood="idle"
+            mood={avatarAnimating ? "happy" : "idle"}
             passThrough={true}
             {...avatarProps}
           />
