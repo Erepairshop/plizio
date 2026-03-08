@@ -1130,13 +1130,23 @@ function getAllTopicsForGrade(grade: number, cc: string): Array<{ key: string; n
  * Hard       (2/pont): algebra, eq, tri, pyth, sqrt, complex, func, prob, powers
  */
 function getItemsPerPointByKey(topicKey: string): number {
+  // 5 sub-questions: very easy arithmetic (single-step, small numbers)
   const veryEasy = ['add10', 'add20', 'sub20', 'compare', 'missing', 'add100', 'sub100'];
-  const easy     = ['sequence', 'add1000', 'mul'];
-  const hard     = ['algebra', 'eq', 'tri', 'pyth', 'sqrt', 'complex', 'func', 'prob', 'powers'];
+  // 4 sub-questions: easy (sequences, basic multiplication, place value, rounding)
+  const easy     = ['sequence', 'add1000', 'mul', 'grosseZahlen', 'stellenwert', 'zahlenstrahl',
+                    'runden', 'zahlenfolgen', 'rechenstrategien', 'addSub', 'laenge', 'gewicht',
+                    'umwandeln', 'place1k', 'place'];
+  // 2 sub-questions: hard (algebra, equations, multi-step word problems, geometry proofs)
+  const hard     = ['algebra', 'eq', 'tri', 'pyth', 'sqrt', 'complex', 'func', 'prob', 'powers',
+                    'mehrschritt', 'messAufgaben'];
+  // 3 sub-questions: medium (division, fractions, geometry, word problems, units, etc.)
+  // includes: div, units, frac, fracArith, geo, word, pct, neg, ratio, large,
+  //   ueberschlagen, zeit, geld, strecken, geodreieck, zirkel, symmetrie,
+  //   umfang, flaeche, tabellen, diagramme, grundAufgaben, ...
   if (veryEasy.includes(topicKey)) return 5;
   if (easy.includes(topicKey))     return 4;
   if (hard.includes(topicKey))     return 2;
-  return 3; // medium: div, units, place, frac, geo, word, pct, neg, ratio, large, ...
+  return 3;
 }
 
 // ─── MAIN GENERATOR ──────────────────────────────────────────────────────────
