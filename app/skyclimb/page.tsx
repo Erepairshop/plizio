@@ -441,25 +441,32 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
   const shoeColor = shoeDef ? shoeDef.color : (hasRealSkin ? skin.shoeColor : AVATAR_DEFAULTS.shoeColor);
   const armEndColor = gloveDef ? gloveDef.color : (hasRealSkin ? skin.limbColor : AVATAR_DEFAULTS.armColor);
 
+  // Emissive intensity matching AvatarCompanion (base = skin.emissiveIntensity * 0.3)
+  const ei = skin.emissiveIntensity * 0.3;
   const bodyMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: bodyColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity,
+    color: bodyColor, emissive: skin.emissive, emissiveIntensity: ei,
+    roughness: 0.68, metalness: 0.04,
     transparent: skin.id === "ghost", opacity: skin.id === "ghost" ? 0.6 : 1,
-  }), [skin, bodyColor]);
+  }), [skin, bodyColor, ei]);
   const headMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: skinHeadColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity + 0.1,
+    color: skinHeadColor, emissive: skin.emissive, emissiveIntensity: ei * 0.5,
+    roughness: 0.55, metalness: 0.02,
     transparent: skin.id === "ghost", opacity: skin.id === "ghost" ? 0.5 : 1,
-  }), [skin, skinHeadColor]);
+  }), [skin, skinHeadColor, ei]);
   const limbMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: legColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity * 0.6,
+    color: legColor, emissive: skin.emissive, emissiveIntensity: ei * 0.4,
+    roughness: 0.68, metalness: 0.04,
     transparent: skin.id === "ghost", opacity: skin.id === "ghost" ? 0.4 : 1,
-  }), [skin, legColor]);
+  }), [skin, legColor, ei]);
   const armMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: hasRealSkin ? skin.limbColor : AVATAR_DEFAULTS.armColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity * 0.6,
+    color: hasRealSkin ? skin.limbColor : AVATAR_DEFAULTS.armColor, emissive: skin.emissive, emissiveIntensity: ei * 0.4,
+    roughness: 0.62, metalness: 0.02,
     transparent: skin.id === "ghost", opacity: skin.id === "ghost" ? 0.4 : 1,
-  }), [skin]);
+  }), [skin, ei]);
   const gloveMat = useMemo(() => gloveDef ? new THREE.MeshStandardMaterial({
-    color: gloveDef.color, emissive: skin.emissive, emissiveIntensity: 0.2,
-  }) : null, [skin, gloveDef]);
+    color: gloveDef.color, emissive: skin.emissive, emissiveIntensity: ei * 0.3,
+    roughness: 0.55,
+  }) : null, [skin, gloveDef, ei]);
   const eyeMat = useMemo(() => new THREE.MeshStandardMaterial({
     color: face.eyeColor || (skin.id === "robot" ? "#00FF00" : "#0A0A1A"),
     emissive: face.eyeColor || (skin.id === "robot" ? "#00FF00" : "#000000"),
@@ -471,8 +478,9 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
     emissiveIntensity: 0,
   }), [face]);
   const shoeMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: shoeColor, emissive: skin.emissive, emissiveIntensity: 0.15,
-  }), [skin, shoeColor]);
+    color: shoeColor, emissive: skin.emissive, emissiveIntensity: ei * 0.3,
+    roughness: 0.7,
+  }), [skin, shoeColor, ei]);
   const capeMat = useMemo(() => capeDef ? new THREE.MeshStandardMaterial({
     color: capeDef.color, emissive: capeDef.emissive, emissiveIntensity: capeDef.emissiveIntensity,
     side: THREE.DoubleSide,
@@ -574,24 +582,64 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
           </group>
         )}
 
-        {/* ── BODY (torso) — box like AvatarCompanion ── */}
-        <mesh position={[0, 0.48, 0]} material={bodyMat}>
-          <boxGeometry args={[0.40, 0.42, 0.22]} />
-        </mesh>
-        {/* Shirt collar / accent */}
-        {topDef && topDef.accent && (
-          <mesh position={[0, 0.70, 0.12]}>
-            <boxGeometry args={[0.22, 0.05, 0.04]} />
-            <meshStandardMaterial color={topDef.accent} />
+        {/* ── BODY (rounded torso — matching AvatarCompanion) ── */}
+        <group position={[0, 0.48, 0]}>
+          {/* Main torso cylinder */}
+          <mesh material={bodyMat}>
+            <cylinderGeometry args={[(isGirl ? 0.40 : 0.43) * 0.46, (isGirl ? 0.40 : 0.43) * 0.50, (isGirl ? 0.58 : 0.60) * 0.75, 10]} />
           </mesh>
+          {/* Chest volume */}
+          <mesh position={[0, 0.08, 0.04]} scale={[(isGirl ? 0.40 : 0.43) * 2.2, 0.70, 0.85]} material={bodyMat}>
+            <sphereGeometry args={[0.14, 10, 8]} />
+          </mesh>
+          {/* Hip area */}
+          <mesh position={[0, -0.18, 0]} scale={[(isGirl ? 0.40 : 0.43) * 2.4, 0.55, 0.92]} material={bodyMat}>
+            <sphereGeometry args={[0.14, 10, 8]} />
+          </mesh>
+        </group>
+
+        {/* Shirt collar */}
+        {topDef && (
+          <>
+            <mesh position={[0, 0.80, 0.05]}>
+              <boxGeometry args={[0.24, 0.05, 0.05]} />
+              <meshStandardMaterial color={topDef.accent || bodyColor} roughness={0.6} />
+            </mesh>
+            <mesh position={[-0.06, 0.78, 0.08]} rotation={[0, 0.3, 0.15]}>
+              <boxGeometry args={[0.08, 0.038, 0.018]} />
+              <meshStandardMaterial color={topDef.accent || bodyColor} roughness={0.6} />
+            </mesh>
+            <mesh position={[0.06, 0.78, 0.08]} rotation={[0, -0.3, -0.15]}>
+              <boxGeometry args={[0.08, 0.038, 0.018]} />
+              <meshStandardMaterial color={topDef.accent || bodyColor} roughness={0.6} />
+            </mesh>
+          </>
         )}
 
-        {/* ── SHOULDERS ── */}
-        <mesh position={[0.22, 0.65, 0]} material={bodyMat}>
-          <sphereGeometry args={[0.10, 8, 6]} />
+        {/* Buttons */}
+        {[0.56, 0.50, 0.44].map((y, i) => (
+          <mesh key={i} position={[0, y, 0.155]}>
+            <cylinderGeometry args={[0.010, 0.010, 0.006, 8]} />
+            <meshStandardMaterial color={topDef?.accent || bodyColor} roughness={0.4} metalness={0.3} />
+          </mesh>
+        ))}
+
+        {/* Belt line */}
+        <mesh position={[0, 0.26, 0.02]}>
+          <boxGeometry args={[(isGirl ? 0.40 : 0.43) + 0.02, 0.016, 0.27]} />
+          <meshStandardMaterial color={legColor} roughness={0.82} />
         </mesh>
-        <mesh position={[-0.22, 0.65, 0]} material={bodyMat}>
-          <sphereGeometry args={[0.10, 8, 6]} />
+        <mesh position={[0, 0.262, 0.145]}>
+          <boxGeometry args={[0.050, 0.025, 0.006]} />
+          <meshStandardMaterial color="#8a7050" roughness={0.4} metalness={0.5} />
+        </mesh>
+
+        {/* ── SHOULDERS ── */}
+        <mesh position={[0.24, 0.65, 0]} material={bodyMat}>
+          <sphereGeometry args={[0.085, 8, 6]} />
+        </mesh>
+        <mesh position={[-0.24, 0.65, 0]} material={bodyMat}>
+          <sphereGeometry args={[0.085, 8, 6]} />
         </mesh>
 
         {/* ── ARMS (upper + forearm, like AvatarCompanion) ── */}
@@ -656,76 +704,119 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
 
         {/* ── NECK ── */}
         <mesh position={[0, 0.82, 0]} material={headMat}>
-          <cylinderGeometry args={[0.085, 0.10, 0.18, 8]} />
+          <cylinderGeometry args={[0.07, 0.085, 0.16, 8]} />
         </mesh>
 
-        {/* ── HEAD (sphere) ── */}
-        <mesh position={[0, 0.97, 0]} material={headMat}>
-          <sphereGeometry args={[0.19, 16, 12]} />
-        </mesh>
-        {/* Chin shading */}
-        <mesh position={[0, 0.88, 0.04]} scale={[1, 0.5, 0.85]}>
-          <sphereGeometry args={[0.15, 10, 6]} />
-          <meshStandardMaterial color={new THREE.Color(skinHeadColor).multiplyScalar(0.8).getStyle()} roughness={0.7} />
-        </mesh>
+        {/* ── HEAD ── */}
+        <group position={[0, 0.97, 0]}>
+          {/* Main head sphere */}
+          <mesh material={headMat}>
+            <sphereGeometry args={[0.18, 16, 12]} />
+          </mesh>
+          {/* Chin */}
+          <mesh position={[0, -0.12, 0.05]} scale={[0.65, 0.32, 0.60]}>
+            <sphereGeometry args={[0.10, 10, 6]} />
+            <meshStandardMaterial color={new THREE.Color(skinHeadColor).multiplyScalar(0.82).getStyle()} roughness={0.7} />
+          </mesh>
+          {/* Cheekbone left */}
+          <mesh position={[-0.10, -0.03, 0.155]} scale={[0.45, 0.35, 0.28]}>
+            <sphereGeometry args={[0.055, 8, 6]} />
+            <meshStandardMaterial color={skinHeadColor} roughness={0.58} />
+          </mesh>
+          {/* Cheekbone right */}
+          <mesh position={[0.10, -0.03, 0.155]} scale={[0.45, 0.35, 0.28]}>
+            <sphereGeometry args={[0.055, 8, 6]} />
+            <meshStandardMaterial color={skinHeadColor} roughness={0.58} />
+          </mesh>
+          {/* Forehead */}
+          <mesh position={[0, 0.10, 0.168]} scale={[0.75, 0.35, 0.20]}>
+            <sphereGeometry args={[0.09, 8, 6]} />
+            <meshStandardMaterial color={skinHeadColor} roughness={0.55} />
+          </mesh>
+          {/* Nose bridge */}
+          <mesh position={[0, -0.01, 0.195]} scale={[0.35, 0.55, 0.35]}>
+            <sphereGeometry args={[0.030, 8, 6]} />
+            <meshStandardMaterial color={skinHeadColor} roughness={0.50} />
+          </mesh>
+          {/* Nose tip */}
+          <mesh position={[0, -0.022, 0.200]} scale={[0.48, 0.35, 0.38]}>
+            <sphereGeometry args={[0.030, 8, 6]} />
+            <meshStandardMaterial color={new THREE.Color(skinHeadColor).multiplyScalar(0.82).getStyle()} roughness={0.55} transparent opacity={0.7} />
+          </mesh>
+          {/* Left ear */}
+          <group position={[-0.178, 0.01, 0]}>
+            <mesh scale={[0.38, 0.62, 0.22]}>
+              <sphereGeometry args={[0.10, 10, 8]} />
+              <meshStandardMaterial color={skinHeadColor} roughness={0.65} />
+            </mesh>
+            <mesh position={[0.018, 0, 0.005]} scale={[0.22, 0.38, 0.18]}>
+              <sphereGeometry args={[0.10, 8, 6]} />
+              <meshStandardMaterial color={new THREE.Color(skinHeadColor).multiplyScalar(0.82).getStyle()} roughness={0.75} />
+            </mesh>
+          </group>
+          {/* Right ear */}
+          <group position={[0.178, 0.01, 0]}>
+            <mesh scale={[0.38, 0.62, 0.22]}>
+              <sphereGeometry args={[0.10, 10, 8]} />
+              <meshStandardMaterial color={skinHeadColor} roughness={0.65} />
+            </mesh>
+            <mesh position={[-0.018, 0, 0.005]} scale={[0.22, 0.38, 0.18]}>
+              <sphereGeometry args={[0.10, 8, 6]} />
+              <meshStandardMaterial color={new THREE.Color(skinHeadColor).multiplyScalar(0.82).getStyle()} roughness={0.75} />
+            </mesh>
+          </group>
+        </group>
 
-        {/* ── HAIR ── */}
+        {/* ── HAIR (matching AvatarCompanion) ── */}
+        <group position={[0, 0.97, 0]}>
         {isGirl ? (
           <>
-            <mesh position={[0, 1.05, 0]} scale={[1.04, 0.68, 1.04]}>
-              <sphereGeometry args={[0.19, 14, 8, 0, Math.PI * 2, 0, Math.PI * 0.55]} />
-              <meshStandardMaterial color={hairColor} roughness={0.85} />
+            {/* Main cap */}
+            <mesh position={[0, 0.02, -0.02]} scale={[1.07, 1.05, 1.02]}>
+              <sphereGeometry args={[0.18, 16, 10, 0, Math.PI * 2, 0, Math.PI * 0.48]} />
+              <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
             </mesh>
-            <mesh position={[0, 1.13, 0.14]} rotation={[0.5, 0, 0]} scale={[0.9, 1, 0.7]}>
+            {/* Back volume */}
+            <mesh position={[0, -0.02, -0.06]} scale={[1.04, 1.08, 0.95]}>
+              <sphereGeometry args={[0.18, 12, 8, 0, Math.PI * 2, 0, Math.PI * 0.55]} />
+              <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
+            </mesh>
+            {/* Left curtain */}
+            <mesh position={[-0.16, -0.10, -0.02]} scale={[0.36, 1.1, 0.42]}>
+              <sphereGeometry args={[0.13, 10, 8]} />
+              <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
+            </mesh>
+            {/* Right curtain */}
+            <mesh position={[0.16, -0.10, -0.02]} scale={[0.36, 1.1, 0.42]}>
+              <sphereGeometry args={[0.13, 10, 8]} />
+              <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
+            </mesh>
+            {/* Front fringe */}
+            <mesh position={[0, 0.10, 0.16]} rotation={[0.65, 0, 0]} scale={[1.05, 0.28, 0.32]}>
               <sphereGeometry args={[0.09, 8, 6]} />
-              <meshStandardMaterial color={hairColor} roughness={0.85} />
-            </mesh>
-            <mesh position={[-0.14, 0.94, -0.04]} scale={[0.55, 0.68, 0.58]}>
-              <sphereGeometry args={[0.1, 8, 6]} />
-              <meshStandardMaterial color={hairColor} roughness={0.85} />
-            </mesh>
-            <mesh position={[0.14, 0.94, -0.04]} scale={[0.55, 0.68, 0.58]}>
-              <sphereGeometry args={[0.1, 8, 6]} />
-              <meshStandardMaterial color={hairColor} roughness={0.85} />
-            </mesh>
-            <mesh position={[-0.12, 0.92, -0.1]} scale={[0.58, 0.88, 0.58]}>
-              <sphereGeometry args={[0.1, 8, 6]} />
-              <meshStandardMaterial color={hairColor} roughness={0.85} />
-            </mesh>
-            <mesh position={[0.12, 0.92, -0.1]} scale={[0.58, 0.88, 0.58]}>
-              <sphereGeometry args={[0.1, 8, 6]} />
-              <meshStandardMaterial color={hairColor} roughness={0.85} />
+              <meshStandardMaterial color={hairColor} roughness={0.85} metalness={0.02} />
             </mesh>
           </>
         ) : (
           <>
-            <mesh position={[0, 1.07, 0]} scale={[1.02, 0.58, 1.02]}>
-              <sphereGeometry args={[0.19, 14, 8, 0, Math.PI * 2, 0, Math.PI * 0.45]} />
-              <meshStandardMaterial color={hairColor} roughness={0.75} />
+            {/* Main cap */}
+            <mesh position={[0, 0.02, -0.02]} scale={[1.07, 1.05, 1.02]}>
+              <sphereGeometry args={[0.18, 16, 10, 0, Math.PI * 2, 0, Math.PI * 0.44]} />
+              <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
             </mesh>
-            {/* Spiky tufts */}
-            <mesh position={[0, 1.18, 0.05]} rotation={[-0.2, 0, 0]} scale={[0.45, 1.1, 0.38]}>
-              <coneGeometry args={[0.06, 0.14, 5]} />
-              <meshStandardMaterial color={hairColor} roughness={0.75} />
+            {/* Back volume */}
+            <mesh position={[0, 0, -0.04]} scale={[1.05, 1.04, 0.92]}>
+              <sphereGeometry args={[0.18, 12, 8, 0, Math.PI * 2, 0, Math.PI * 0.48]} />
+              <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
             </mesh>
-            <mesh position={[-0.07, 1.17, 0.04]} rotation={[-0.1, 0.3, 0.2]} scale={[0.38, 1, 0.38]}>
-              <coneGeometry args={[0.055, 0.12, 5]} />
-              <meshStandardMaterial color={hairColor} roughness={0.75} />
-            </mesh>
-            <mesh position={[0.07, 1.17, 0.04]} rotation={[-0.1, -0.3, -0.2]} scale={[0.38, 1, 0.38]}>
-              <coneGeometry args={[0.055, 0.12, 5]} />
-              <meshStandardMaterial color={hairColor} roughness={0.75} />
-            </mesh>
-            <mesh position={[-0.155, 0.96, -0.05]} scale={[0.44, 0.56, 0.44]}>
-              <sphereGeometry args={[0.1, 8, 6]} />
-              <meshStandardMaterial color={hairColor} roughness={0.75} />
-            </mesh>
-            <mesh position={[0.155, 0.96, -0.05]} scale={[0.44, 0.56, 0.44]}>
-              <sphereGeometry args={[0.1, 8, 6]} />
-              <meshStandardMaterial color={hairColor} roughness={0.75} />
+            {/* Front fringe */}
+            <mesh position={[0, 0.10, 0.15]} rotation={[0.70, 0, 0]} scale={[0.95, 0.25, 0.30]}>
+              <sphereGeometry args={[0.09, 8, 6]} />
+              <meshStandardMaterial color={hairColor} roughness={0.75} metalness={0.02} />
             </mesh>
           </>
         )}
+        </group>
 
         {/* ── FACE: Eyebrows ── */}
         <mesh
