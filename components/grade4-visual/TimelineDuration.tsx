@@ -11,6 +11,8 @@ interface TimelineDurationProps {
   events?: { time: number; label: string }[];
   language?: 'hu' | 'de' | 'en' | 'ro';
   onAnswer: (isCorrect: boolean, answer: number) => void;
+  embedded?: boolean;
+  onValueChange?: (value: string) => void;
 }
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -70,6 +72,8 @@ const TimelineDuration: React.FC<TimelineDurationProps> = ({
   events: propEvents,
   language = 'de',
   onAnswer,
+  embedded = false,
+  onValueChange,
 }) => {
   const t = LABELS[language] || LABELS.en;
 
@@ -85,6 +89,10 @@ const TimelineDuration: React.FC<TimelineDurationProps> = ({
   const [inputVal, setInputVal] = useState('');
   const [feedback, setFeedback] = useState<'correct' | 'incorrect' | null>(null);
   const [submitted, setSubmitted] = useState(false);
+
+  React.useEffect(() => {
+    if (embedded && onValueChange && inputVal.trim()) onValueChange(inputVal.trim());
+  }, [embedded, onValueChange, inputVal]);
 
   const handleSubmit = () => {
     const answer = parseInt(inputVal);
@@ -121,15 +129,17 @@ const TimelineDuration: React.FC<TimelineDurationProps> = ({
       animate={{ opacity: 1, y: 0 }}
     >
       {/* Header */}
-      <div className="px-5 pt-5 pb-3">
-        <div className="flex items-center gap-3 mb-1">
-          <div className="w-9 h-9 rounded-xl bg-teal-500 flex items-center justify-center">
-            <Timer size={18} className="text-white" />
+      {!embedded && (
+        <div className="px-5 pt-5 pb-3">
+          <div className="flex items-center gap-3 mb-1">
+            <div className="w-9 h-9 rounded-xl bg-teal-500 flex items-center justify-center">
+              <Timer size={18} className="text-white" />
+            </div>
+            <h3 className="text-lg font-extrabold text-slate-800">{t.title}</h3>
           </div>
-          <h3 className="text-lg font-extrabold text-slate-800">{t.title}</h3>
+          <p className="text-sm text-slate-500 ml-12">{t.hint}</p>
         </div>
-        <p className="text-sm text-slate-500 ml-12">{t.hint}</p>
-      </div>
+      )}
 
       {/* Timeline SVG */}
       <div className="px-4 pb-4">
@@ -202,44 +212,46 @@ const TimelineDuration: React.FC<TimelineDurationProps> = ({
       </div>
 
       {/* Feedback + Buttons */}
-      <div className="px-5 pb-5">
-        <AnimatePresence mode="wait">
-          {feedback && (
-            <motion.div
-              key={feedback}
-              className={`flex items-center justify-center gap-2 p-3 rounded-xl font-bold text-base mb-3 ${
-                feedback === 'correct'
-                  ? 'bg-green-100 text-green-700 border-2 border-green-300'
-                  : 'bg-red-50 text-red-600 border-2 border-red-200'
-              }`}
-              initial={{ opacity: 0, y: 10 }}
-              animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0 }}
-            >
-              {feedback === 'correct' ? <Check size={20} /> : <X size={20} />}
-              {feedback === 'correct' ? t.correct : t.incorrect}
-            </motion.div>
-          )}
-        </AnimatePresence>
+      {!embedded && (
+        <div className="px-5 pb-5">
+          <AnimatePresence mode="wait">
+            {feedback && (
+              <motion.div
+                key={feedback}
+                className={`flex items-center justify-center gap-2 p-3 rounded-xl font-bold text-base mb-3 ${
+                  feedback === 'correct'
+                    ? 'bg-green-100 text-green-700 border-2 border-green-300'
+                    : 'bg-red-50 text-red-600 border-2 border-red-200'
+                }`}
+                initial={{ opacity: 0, y: 10 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0 }}
+              >
+                {feedback === 'correct' ? <Check size={20} /> : <X size={20} />}
+                {feedback === 'correct' ? t.correct : t.incorrect}
+              </motion.div>
+            )}
+          </AnimatePresence>
 
-        {!submitted ? (
-          <button
-            onClick={handleSubmit}
-            disabled={!inputVal.trim()}
-            className="w-full py-3 rounded-xl bg-teal-500 text-white font-bold text-sm hover:bg-teal-600 active:scale-[0.98] transition-all disabled:bg-slate-300 disabled:cursor-not-allowed"
-          >
-            {t.submit}
-          </button>
-        ) : (
-          <button
-            onClick={handleReset}
-            className="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-teal-500 text-white font-bold text-sm hover:bg-teal-600 active:scale-[0.98] transition-all"
-          >
-            <RotateCcw size={16} />
-            {t.tryAgain}
-          </button>
-        )}
-      </div>
+          {!submitted ? (
+            <button
+              onClick={handleSubmit}
+              disabled={!inputVal.trim()}
+              className="w-full py-3 rounded-xl bg-teal-500 text-white font-bold text-sm hover:bg-teal-600 active:scale-[0.98] transition-all disabled:bg-slate-300 disabled:cursor-not-allowed"
+            >
+              {t.submit}
+            </button>
+          ) : (
+            <button
+              onClick={handleReset}
+              className="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-teal-500 text-white font-bold text-sm hover:bg-teal-600 active:scale-[0.98] transition-all"
+            >
+              <RotateCcw size={16} />
+              {t.tryAgain}
+            </button>
+          )}
+        </div>
+      )}
     </motion.div>
   );
 };

@@ -10,6 +10,8 @@ interface CircleDrawerProps {
   tolerance?: number;
   language?: 'hu' | 'de' | 'en' | 'ro';
   onAnswer: (isCorrect: boolean, answer: number) => void;
+  embedded?: boolean;
+  onValueChange?: (value: string) => void;
 }
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -64,6 +66,8 @@ const CircleDrawer: React.FC<CircleDrawerProps> = ({
   tolerance = 0.5,
   language = 'de',
   onAnswer,
+  embedded = false,
+  onValueChange,
 }) => {
   const t = LABELS[language] || LABELS.en;
   const svgRef = useRef<SVGSVGElement>(null);
@@ -75,6 +79,10 @@ const CircleDrawer: React.FC<CircleDrawerProps> = ({
   const [hasDrawn, setHasDrawn] = useState(false);
   const [feedback, setFeedback] = useState<'correct' | 'incorrect' | null>(null);
   const [submitted, setSubmitted] = useState(false);
+
+  React.useEffect(() => {
+    if (embedded && onValueChange && hasDrawn && !dragging && userRadius > 0) onValueChange(String(userRadius));
+  }, [embedded, onValueChange, userRadius, hasDrawn, dragging]);
 
   const W = 320, H = 320;
   const CX = W / 2, CY = H / 2;
@@ -140,15 +148,17 @@ const CircleDrawer: React.FC<CircleDrawerProps> = ({
       animate={{ opacity: 1, y: 0 }}
     >
       {/* Header */}
-      <div className="px-5 pt-5 pb-3">
-        <div className="flex items-center gap-3 mb-1">
-          <div className="w-9 h-9 rounded-xl bg-orange-500 flex items-center justify-center">
-            <Circle size={18} className="text-white" />
+      {!embedded && (
+        <div className="px-5 pt-5 pb-3">
+          <div className="flex items-center gap-3 mb-1">
+            <div className="w-9 h-9 rounded-xl bg-orange-500 flex items-center justify-center">
+              <Circle size={18} className="text-white" />
+            </div>
+            <h3 className="text-lg font-extrabold text-slate-800">{t.title}</h3>
           </div>
-          <h3 className="text-lg font-extrabold text-slate-800">{t.title}</h3>
+          <p className="text-sm text-slate-500 ml-12">{t.hint}</p>
         </div>
-        <p className="text-sm text-slate-500 ml-12">{t.hint}</p>
-      </div>
+      )}
 
       {/* Target badge */}
       <div className="flex justify-center pb-3">
@@ -240,44 +250,46 @@ const CircleDrawer: React.FC<CircleDrawerProps> = ({
       </div>
 
       {/* Feedback + Buttons */}
-      <div className="px-5 pb-5">
-        <AnimatePresence mode="wait">
-          {feedback && (
-            <motion.div
-              key={feedback}
-              className={`flex items-center justify-center gap-2 p-3 rounded-xl font-bold text-base mb-3 ${
-                feedback === 'correct'
-                  ? 'bg-green-100 text-green-700 border-2 border-green-300'
-                  : 'bg-red-50 text-red-600 border-2 border-red-200'
-              }`}
-              initial={{ opacity: 0, y: 10 }}
-              animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0 }}
-            >
-              {feedback === 'correct' ? <Check size={20} /> : <X size={20} />}
-              {feedback === 'correct' ? t.correct : t.incorrect}
-            </motion.div>
-          )}
-        </AnimatePresence>
+      {!embedded && (
+        <div className="px-5 pb-5">
+          <AnimatePresence mode="wait">
+            {feedback && (
+              <motion.div
+                key={feedback}
+                className={`flex items-center justify-center gap-2 p-3 rounded-xl font-bold text-base mb-3 ${
+                  feedback === 'correct'
+                    ? 'bg-green-100 text-green-700 border-2 border-green-300'
+                    : 'bg-red-50 text-red-600 border-2 border-red-200'
+                }`}
+                initial={{ opacity: 0, y: 10 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0 }}
+              >
+                {feedback === 'correct' ? <Check size={20} /> : <X size={20} />}
+                {feedback === 'correct' ? t.correct : t.incorrect}
+              </motion.div>
+            )}
+          </AnimatePresence>
 
-        {!submitted ? (
-          <button
-            onClick={handleSubmit}
-            disabled={!hasDrawn || userRadius === 0}
-            className="w-full py-3 rounded-xl bg-orange-500 text-white font-bold text-sm hover:bg-orange-600 active:scale-[0.98] transition-all disabled:bg-slate-300 disabled:cursor-not-allowed"
-          >
-            {t.submit}
-          </button>
-        ) : (
-          <button
-            onClick={handleReset}
-            className="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-orange-500 text-white font-bold text-sm hover:bg-orange-600 active:scale-[0.98] transition-all"
-          >
-            <RotateCcw size={16} />
-            {t.tryAgain}
-          </button>
-        )}
-      </div>
+          {!submitted ? (
+            <button
+              onClick={handleSubmit}
+              disabled={!hasDrawn || userRadius === 0}
+              className="w-full py-3 rounded-xl bg-orange-500 text-white font-bold text-sm hover:bg-orange-600 active:scale-[0.98] transition-all disabled:bg-slate-300 disabled:cursor-not-allowed"
+            >
+              {t.submit}
+            </button>
+          ) : (
+            <button
+              onClick={handleReset}
+              className="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-orange-500 text-white font-bold text-sm hover:bg-orange-600 active:scale-[0.98] transition-all"
+            >
+              <RotateCcw size={16} />
+              {t.tryAgain}
+            </button>
+          )}
+        </div>
+      )}
     </motion.div>
   );
 };

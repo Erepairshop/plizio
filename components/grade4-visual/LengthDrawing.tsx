@@ -11,6 +11,8 @@ interface LengthDrawingProps {
   tolerance?: number;     // megengedett hiba cm-ben (default 0.4)
   onAnswer: (isCorrect: boolean, drawnLength: number) => void;
   language?: 'hu' | 'de' | 'en' | 'ro';
+  embedded?: boolean;
+  onValueChange?: (value: string) => void;
 }
 
 // ─── Vonalzó konstansok ────────────────────────────────────────────────────────
@@ -71,6 +73,8 @@ const LengthDrawing: React.FC<LengthDrawingProps> = ({
   tolerance = 0.4,
   onAnswer,
   language = 'de',
+  embedded = false,
+  onValueChange,
 }) => {
   const t = LABELS[language] || LABELS.en;
   const svgRef = useRef<SVGSVGElement>(null);
@@ -92,6 +96,12 @@ const LengthDrawing: React.FC<LengthDrawingProps> = ({
   const drawnLength = startCm !== null && endCm !== null
     ? Math.round(Math.abs(endCm - startCm) * 10) / 10
     : null;
+
+  React.useEffect(() => {
+    if (embedded && onValueChange && drawnLength !== null && drawnLength > 0.2 && !dragging) {
+      onValueChange(String(drawnLength));
+    }
+  }, [embedded, onValueChange, drawnLength, dragging]);
 
   // ─── Pointer → cm konvertálás ───
   const pointerToCm = useCallback((e: React.MouseEvent | React.TouchEvent) => {
@@ -123,6 +133,7 @@ const LengthDrawing: React.FC<LengthDrawingProps> = ({
     if (!dragging || submitted) return;
     setDragging(false);
 
+    if (embedded) return;
     if (drawnLength !== null && drawnLength > 0.2) {
       const isCorrect = Math.abs(drawnLength - targetLength) <= tolerance;
       setFeedback(isCorrect ? 'correct' : 'incorrect');
@@ -153,17 +164,19 @@ const LengthDrawing: React.FC<LengthDrawingProps> = ({
       animate={{ opacity: 1, y: 0 }}
     >
       {/* Header */}
-      <div className="px-5 pt-5 pb-3">
-        <div className="flex items-center gap-3 mb-1">
-          <div className="w-9 h-9 rounded-xl bg-cyan-500 flex items-center justify-center">
-            <Pencil size={18} className="text-white" />
+      {!embedded && (
+        <div className="px-5 pt-5 pb-3">
+          <div className="flex items-center gap-3 mb-1">
+            <div className="w-9 h-9 rounded-xl bg-cyan-500 flex items-center justify-center">
+              <Pencil size={18} className="text-white" />
+            </div>
+            <h3 className="text-lg font-extrabold text-slate-800">{t.instruction}</h3>
           </div>
-          <h3 className="text-lg font-extrabold text-slate-800">{t.instruction}</h3>
+          <p className="text-sm text-slate-500 ml-12">
+            {t.hint}
+          </p>
         </div>
-        <p className="text-sm text-slate-500 ml-12">
-          {t.hint}
-        </p>
-      </div>
+      )}
 
       {/* Cél hossz badge */}
       <div className="flex justify-center pb-3">
@@ -280,36 +293,38 @@ const LengthDrawing: React.FC<LengthDrawingProps> = ({
       </div>
 
       {/* Feedback + Gombok */}
-      <div className="px-5 pb-5">
-        <AnimatePresence mode="wait">
-          {feedback && (
-            <motion.div
-              key={feedback}
-              className={`flex items-center justify-center gap-2 p-3 rounded-xl font-bold text-base mb-3 ${
-                feedback === 'correct'
-                  ? 'bg-green-100 text-green-700 border-2 border-green-300'
-                  : 'bg-red-50 text-red-600 border-2 border-red-200'
-              }`}
-              initial={{ opacity: 0, y: 10 }}
-              animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0 }}
-            >
-              {feedback === 'correct' ? <Check size={20} /> : <X size={20} />}
-              {feedback === 'correct' ? t.correct : t.incorrect}
-            </motion.div>
-          )}
-        </AnimatePresence>
+      {!embedded && (
+        <div className="px-5 pb-5">
+          <AnimatePresence mode="wait">
+            {feedback && (
+              <motion.div
+                key={feedback}
+                className={`flex items-center justify-center gap-2 p-3 rounded-xl font-bold text-base mb-3 ${
+                  feedback === 'correct'
+                    ? 'bg-green-100 text-green-700 border-2 border-green-300'
+                    : 'bg-red-50 text-red-600 border-2 border-red-200'
+                }`}
+                initial={{ opacity: 0, y: 10 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0 }}
+              >
+                {feedback === 'correct' ? <Check size={20} /> : <X size={20} />}
+                {feedback === 'correct' ? t.correct : t.incorrect}
+              </motion.div>
+            )}
+          </AnimatePresence>
 
-        {submitted && (
-          <button
-            onClick={handleReset}
-            className="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-cyan-600 text-white font-bold text-sm hover:bg-cyan-700 active:scale-[0.98] transition-all"
-          >
-            <RotateCcw size={16} />
-            {t.tryAgain}
-          </button>
-        )}
-      </div>
+          {submitted && (
+            <button
+              onClick={handleReset}
+              className="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-cyan-600 text-white font-bold text-sm hover:bg-cyan-700 active:scale-[0.98] transition-all"
+            >
+              <RotateCcw size={16} />
+              {t.tryAgain}
+            </button>
+          )}
+        </div>
+      )}
     </motion.div>
   );
 };

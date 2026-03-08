@@ -11,6 +11,8 @@ interface LengthMeasurementProps {
   tolerance?: number;     // megengedett hiba (default 0.5 cm)
   onAnswer: (isCorrect: boolean, measured: number) => void;
   language?: 'hu' | 'de' | 'en' | 'ro';
+  embedded?: boolean;
+  onValueChange?: (value: string) => void;
 }
 
 const RULER_CM   = 15;
@@ -74,6 +76,8 @@ const LengthMeasurement: React.FC<LengthMeasurementProps> = ({
   tolerance = 0.5,
   onAnswer,
   language = 'de',
+  embedded = false,
+  onValueChange,
 }) => {
   const t = LABELS[language] || LABELS.en;
   const svgRef = useRef<SVGSVGElement>(null);
@@ -102,6 +106,12 @@ const LengthMeasurement: React.FC<LengthMeasurementProps> = ({
     ? Math.round(Math.abs(measureEndCm - measureStartCm) * 10) / 10
     : null;
 
+  React.useEffect(() => {
+    if (embedded && onValueChange && measuredLength !== null && measuredLength > 0) {
+      onValueChange(String(measuredLength));
+    }
+  }, [embedded, onValueChange, measuredLength]);
+
   // ─── Pointer → cm ───
   const pointerToCm = useCallback((e: React.MouseEvent | React.TouchEvent) => {
     const svg = svgRef.current;
@@ -123,6 +133,7 @@ const LengthMeasurement: React.FC<LengthMeasurementProps> = ({
     } else if (measureEndCm === null) {
       // Második kattintás: end pont
       setMeasureEndCm(cm);
+      if (embedded) return;
       const measured = Math.round(Math.abs(cm - measureStartCm) * 10) / 10;
       const isCorrect = Math.abs(measured - actualLength) <= tolerance;
 
@@ -161,15 +172,17 @@ const LengthMeasurement: React.FC<LengthMeasurementProps> = ({
       animate={{ opacity: 1, y: 0 }}
     >
       {/* Header */}
-      <div className="px-5 pt-5 pb-3">
-        <div className="flex items-center gap-3 mb-1">
-          <div className="w-9 h-9 rounded-xl bg-emerald-500 flex items-center justify-center">
-            <Ruler size={18} className="text-white" />
+      {!embedded && (
+        <div className="px-5 pt-5 pb-3">
+          <div className="flex items-center gap-3 mb-1">
+            <div className="w-9 h-9 rounded-xl bg-emerald-500 flex items-center justify-center">
+              <Ruler size={18} className="text-white" />
+            </div>
+            <h3 className="text-lg font-extrabold text-slate-800">{t.instruction}</h3>
           </div>
-          <h3 className="text-lg font-extrabold text-slate-800">{t.instruction}</h3>
+          <p className="text-sm text-slate-500 ml-12">{t.hint}</p>
         </div>
-        <p className="text-sm text-slate-500 ml-12">{t.hint}</p>
-      </div>
+      )}
 
       {/* SVG */}
       <div className="px-4 pb-2">
@@ -281,6 +294,7 @@ const LengthMeasurement: React.FC<LengthMeasurementProps> = ({
       </div>
 
       {/* Feedback + Gombok */}
+      {!embedded && (
       <div className="px-5 pb-5">
         <AnimatePresence mode="wait">
           {feedback && (
@@ -311,6 +325,7 @@ const LengthMeasurement: React.FC<LengthMeasurementProps> = ({
           </button>
         )}
       </div>
+      )}
     </motion.div>
   );
 };
