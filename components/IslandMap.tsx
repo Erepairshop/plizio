@@ -85,22 +85,31 @@ const PLANET_THEMES: Record<string, PlanetTheme> = {
       </g>
     ),
   },
-  /* Brain — neural/synaptic pattern */
+  /* Learn — open book with knowledge glow */
   brain: {
     details: (cx, cy, r, color) => (
       <g>
-        {/* neural nodes */}
-        {[
-          { dx: -10, dy: -8 }, { dx: 8, dy: -12 }, { dx: -6, dy: 10 },
-          { dx: 12, dy: 6 }, { dx: 0, dy: 0 },
-        ].map((n, i) => (
-          <circle key={i} cx={cx + n.dx} cy={cy + n.dy} r={2.5} fill={color} opacity={0.3} />
-        ))}
-        {/* connecting lines */}
-        <line x1={cx - 10} y1={cy - 8} x2={cx} y2={cy} stroke={color} strokeWidth={0.6} opacity={0.2} />
-        <line x1={cx + 8} y1={cy - 12} x2={cx} y2={cy} stroke={color} strokeWidth={0.6} opacity={0.2} />
-        <line x1={cx} y1={cy} x2={cx - 6} y2={cy + 10} stroke={color} strokeWidth={0.6} opacity={0.2} />
-        <line x1={cx} y1={cy} x2={cx + 12} y2={cy + 6} stroke={color} strokeWidth={0.6} opacity={0.2} />
+        {/* open book shape */}
+        <path
+          d={`M ${cx},${cy + 4} L ${cx - 14},${cy - 4} L ${cx - 14},${cy + 10} L ${cx},${cy + 14} Z`}
+          fill={color} opacity={0.2}
+        />
+        <path
+          d={`M ${cx},${cy + 4} L ${cx + 14},${cy - 4} L ${cx + 14},${cy + 10} L ${cx},${cy + 14} Z`}
+          fill={color} opacity={0.15}
+        />
+        {/* book spine */}
+        <line x1={cx} y1={cy + 2} x2={cx} y2={cy + 14} stroke={color} strokeWidth={1} opacity={0.35} />
+        {/* page lines left */}
+        <line x1={cx - 11} y1={cy} x2={cx - 3} y2={cy + 6} stroke={color} strokeWidth={0.5} opacity={0.2} />
+        <line x1={cx - 11} y1={cy + 3} x2={cx - 3} y2={cy + 9} stroke={color} strokeWidth={0.5} opacity={0.2} />
+        {/* page lines right */}
+        <line x1={cx + 11} y1={cy} x2={cx + 3} y2={cy + 6} stroke={color} strokeWidth={0.5} opacity={0.2} />
+        <line x1={cx + 11} y1={cy + 3} x2={cx + 3} y2={cy + 9} stroke={color} strokeWidth={0.5} opacity={0.2} />
+        {/* sparkle / knowledge dots floating above */}
+        <circle cx={cx - 6} cy={cy - 10} r={1.5} fill={color} opacity={0.4} />
+        <circle cx={cx + 4} cy={cy - 14} r={1.2} fill={color} opacity={0.3} />
+        <circle cx={cx + 10} cy={cy - 8} r={1.8} fill={color} opacity={0.35} />
       </g>
     ),
   },

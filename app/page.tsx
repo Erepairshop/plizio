@@ -60,7 +60,7 @@ const TRANSLATIONS = {
     categories: {
       "QUIZ & REFLEX": "QUIZ, REFLEX & WORD",
       "ADVENTURE": "ADVENTURE",
-      "BRAIN": "BRAIN",
+      "BRAIN": "LEARN",
       "LOGIC": "LOGIC",
       "SPORT": "SPORT",
     },
@@ -99,7 +99,7 @@ const TRANSLATIONS = {
     categories: {
       "QUIZ & REFLEX": "KVÍZ, REFLEX & SZÓ",
       "ADVENTURE": "KALAND",
-      "BRAIN": "AGYTRÖSZT",
+      "BRAIN": "TANULÁS",
       "LOGIC": "LOGIKA",
       "SPORT": "SPORT",
     },
@@ -138,7 +138,7 @@ const TRANSLATIONS = {
     categories: {
       "QUIZ & REFLEX": "QUIZ, REFLEX & WORT",
       "ADVENTURE": "ABENTEUER",
-      "BRAIN": "GEHIRN",
+      "BRAIN": "LERNEN",
       "LOGIC": "LOGIK",
       "SPORT": "SPORT",
     },
@@ -177,7 +177,7 @@ const TRANSLATIONS = {
     categories: {
       "QUIZ & REFLEX": "QUIZ, REFLEX & CUVÂNT",
       "ADVENTURE": "AVENTURĂ",
-      "BRAIN": "CREIER",
+      "BRAIN": "ÎNVĂȚARE",
       "LOGIC": "LOGICĂ",
       "SPORT": "SPORT",
     },
@@ -329,8 +329,8 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
   },
   {
     id: "brain",
-    icon: Brain,
-    color: "#FFD700",
+    icon: BookOpen,
+    color: "#4ECDC4",
     games: [
       {
         id: "mathtest",
@@ -432,7 +432,7 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
 const ISLAND_POSITIONS: Record<string, { cx: number; cy: number; color: string; glow: string }> = {
   quizreflex: { cx: 155, cy: 250, color: "#00D4FF", glow: "rgba(0,212,255,0.4)" },
   adventure:  { cx: 365, cy: 320, color: "#00FF88", glow: "rgba(0,255,136,0.4)" },
-  brain:      { cx: 145, cy: 450, color: "#FFD700", glow: "rgba(255,215,0,0.4)" },
+  brain:      { cx: 145, cy: 450, color: "#4ECDC4", glow: "rgba(78,205,196,0.4)" },
   logic:      { cx: 355, cy: 530, color: "#B44DFF", glow: "rgba(180,77,255,0.4)" },
   sport:      { cx: 250, cy: 650, color: "#FF6B00", glow: "rgba(255,107,0,0.4)" },
 };
