@@ -308,6 +308,8 @@ export default function MultiplayerPage() {
       loadData();
     } else if (error === "opponent_not_found") {
       setSendError(t.opponentNotFound);
+    } else if (error === "not_authenticated") {
+      setSendError(t.needName);
     } else {
       setSendError(error || "Error");
     }

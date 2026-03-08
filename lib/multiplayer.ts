@@ -121,6 +121,7 @@ export async function createChallenge(
   if (!oppData) return { match: null, error: "opponent_not_found" };
 
   const { data: { user } } = await supabase.auth.getUser();
+  if (!user?.id) return { match: null, error: "not_authenticated" };
 
   const isMix = options?.matchType === "mix";
   const mixGames = isMix ? (options?.mixGames || []) : null;
@@ -130,7 +131,7 @@ export async function createChallenge(
     .insert({
       game: isMix ? "mix" : game,
       status: "waiting",
-      player1_id: user?.id || null,
+      player1_id: user.id,
       player1_name: myName,
       player2_name: oppData.name,
       player2_id: oppData.user_id,
@@ -160,12 +161,12 @@ export async function acceptChallenge(
 ): Promise<{ ok: boolean; error?: string }> {
   const { data: { user } } = await supabase.auth.getUser();
 
+  const updateFields: Record<string, unknown> = { status: "playing" };
+  if (user?.id) updateFields.player2_id = user.id;
+
   const { error } = await supabase
     .from("multiplayer_matches")
-    .update({
-      status: "playing",
-      player2_id: user?.id || null,
-    })
+    .update(updateFields)
     .eq("id", matchId);
 
   if (error) return { ok: false, error: error.message };
