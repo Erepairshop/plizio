@@ -2,13 +2,14 @@
 
 import { useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Swords, X, Check } from "lucide-react";
+import { Swords, X, Check, Users } from "lucide-react";
 import { useRouter, usePathname } from "next/navigation";
 import { getUsername } from "@/lib/username";
 import {
   getMyPendingChallenges, acceptChallenge, declineChallenge,
+  acceptGroupChallenge, declineGroupChallenge, isGroupMatch,
   subscribeToMatch,
-  type MultiplayerMatch, type GameType,
+  type MultiplayerMatch, type MatchPlayer, type GameType,
   GAME_LABELS,
 } from "@/lib/multiplayer";
 import { useLang } from "@/components/LanguageProvider";
@@ -83,19 +84,39 @@ export default function ChallengeOverlay() {
     setPhase("accepting");
     setAvatarMood("happy");
 
-    await acceptChallenge(challenge.id);
-
-    // Short celebration then countdown
-    setTimeout(() => {
-      setPhase("countdown");
-      setAvatarMood("victory");
-      setCountdown(3);
-    }, 800);
-  }, [challenge]);
+    if (isGroupMatch(challenge)) {
+      const result = await acceptGroupChallenge(challenge.id);
+      if (result.allAccepted) {
+        // All accepted → go to countdown
+        setTimeout(() => {
+          setPhase("countdown");
+          setAvatarMood("victory");
+          setCountdown(3);
+        }, 800);
+      } else {
+        // Not all accepted yet → redirect to multiplayer lobby
+        setTimeout(() => {
+          router.push("/multiplayer");
+          setChallenge(null);
+        }, 800);
+      }
+    } else {
+      await acceptChallenge(challenge.id);
+      setTimeout(() => {
+        setPhase("countdown");
+        setAvatarMood("victory");
+        setCountdown(3);
+      }, 800);
+    }
+  }, [challenge, router]);
 
   const handleDecline = useCallback(async () => {
     if (!challenge) return;
-    await declineChallenge(challenge.id);
+    if (isGroupMatch(challenge)) {
+      await declineGroupChallenge(challenge.id);
+    } else {
+      await declineChallenge(challenge.id);
+    }
     setDismissed((prev) => new Set(prev).add(challenge.id));
     setChallenge(null);
     setAvatarMood("idle");
@@ -105,23 +126,34 @@ export default function ChallengeOverlay() {
   useEffect(() => {
     if (phase !== "countdown") return;
     if (countdown <= 0) {
-      // Navigate to game
       if (challenge) {
-        const isP1 = challenge.player1_name.toLowerCase() === myName?.toLowerCase();
-        const opponent = (isP1 ? challenge.player2_name : challenge.player1_name) || "???";
-        const isMix = challenge.match_type === "mix";
-        if (isMix && challenge.mix_games) {
-          const currentGame = challenge.mix_games[0];
-          let url = `/${currentGame}?match=${challenge.id}&seed=${challenge.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponent)}&mixround=1`;
-          if (challenge.difficulty && String(challenge.difficulty).includes(",")) {
-            const levels = String(challenge.difficulty).split(",");
-            if (levels[0] && Number(levels[0]) > 0) url += `&level=${levels[0]}`;
-          }
-          router.push(url);
-        } else {
-          let url = `/${challenge.game}?match=${challenge.id}&seed=${challenge.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponent)}`;
+        const group = isGroupMatch(challenge);
+        if (group) {
+          // Group match navigation
+          const players = (challenge.players_data || []) as MatchPlayer[];
+          const myIdx = players.findIndex(p => p.name.toLowerCase() === myName?.toLowerCase());
+          const pNum = myIdx >= 0 ? myIdx + 1 : 1;
+          const opponents = players.filter(p => p.name.toLowerCase() !== myName?.toLowerCase()).map(p => encodeURIComponent(p.name)).join(",");
+          let url = `/${challenge.game}?match=${challenge.id}&seed=${challenge.seed}&p=${pNum}&vs=${opponents}&players=${players.length}`;
           if (challenge.difficulty) url += `&level=${challenge.difficulty}`;
           router.push(url);
+        } else {
+          const isP1 = challenge.player1_name.toLowerCase() === myName?.toLowerCase();
+          const opponent = (isP1 ? challenge.player2_name : challenge.player1_name) || "???";
+          const isMix = challenge.match_type === "mix";
+          if (isMix && challenge.mix_games) {
+            const currentGame = challenge.mix_games[0];
+            let url = `/${currentGame}?match=${challenge.id}&seed=${challenge.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponent)}&mixround=1`;
+            if (challenge.difficulty && String(challenge.difficulty).includes(",")) {
+              const levels = String(challenge.difficulty).split(",");
+              if (levels[0] && Number(levels[0]) > 0) url += `&level=${levels[0]}`;
+            }
+            router.push(url);
+          } else {
+            let url = `/${challenge.game}?match=${challenge.id}&seed=${challenge.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponent)}`;
+            if (challenge.difficulty) url += `&level=${challenge.difficulty}`;
+            router.push(url);
+          }
         }
         setChallenge(null);
       }
@@ -133,6 +165,8 @@ export default function ChallengeOverlay() {
 
   if (!challenge) return null;
 
+  const group = isGroupMatch(challenge);
+  const groupPlayers = (challenge.players_data || []) as MatchPlayer[];
   const isMix = challenge.match_type === "mix";
   const gameLabel = isMix
     ? `Mix (${challenge.mix_games?.length || 5} games)`
@@ -192,12 +226,15 @@ export default function ChallengeOverlay() {
 
               <div className="flex flex-col items-center gap-3 relative z-10">
                 <div className="flex items-center gap-2">
-                  <Swords size={18} className="text-neon-pink" style={{ filter: "drop-shadow(0 0 8px rgba(255,45,120,0.4))" }} />
+                  {group
+                    ? <Users size={18} className="text-neon-purple" style={{ filter: "drop-shadow(0 0 8px rgba(180,77,255,0.4))" }} />
+                    : <Swords size={18} className="text-neon-pink" style={{ filter: "drop-shadow(0 0 8px rgba(255,45,120,0.4))" }} />}
                   <span className="text-white/70 text-xs font-bold uppercase tracking-wider">{t.hey} {myName}!</span>
                 </div>
 
                 <p className="text-white text-center text-sm">
                   <span className="font-bold text-neon-blue">{challenge.player1_name}</span>
+                  {group && <span className="text-white/50"> + {groupPlayers.length - 1}</span>}
                   {" "}{t.invited}{" "}
                   <span className="font-bold text-neon-green">{gameLabel}</span>
                   {diffLabel && <span className="text-gold font-bold"> ({diffLabel})</span>}

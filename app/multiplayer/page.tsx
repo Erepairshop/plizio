@@ -13,9 +13,11 @@ import { useLang } from "@/components/LanguageProvider";
 import { getUsername, hasUsername, searchUsernames } from "@/lib/username";
 import {
   createChallenge, acceptChallenge, declineChallenge, cancelChallenge,
+  createGroupChallenge, acceptGroupChallenge, declineGroupChallenge, startGroupMatch,
+  isGroupMatch, type MatchPlayer,
   getMyPendingChallenges, getMySentChallenges, getMyActiveMatches, getMyMatchHistory,
   type MultiplayerMatch, type GameType, type MatchType,
-  GAME_LABELS, LEVEL_GAMES, getMixStandings,
+  GAME_LABELS, LEVEL_GAMES, getMixStandings, MAX_GROUP_PLAYERS,
 } from "@/lib/multiplayer";
 import ChallengeWaiting from "@/components/ChallengeWaiting";
 
@@ -59,6 +61,14 @@ const T = {
     mix: "Mix (5 games)",
     level: "Level",
     roundOf: "of",
+    group: "Group",
+    addOpponent: "Add opponent",
+    opponents: "opponents",
+    startMatch: "Start match",
+    lobby: "Lobby",
+    waitingAll: "Waiting for all players...",
+    playersReady: "players ready",
+    youAndMore: "You + {n} others",
   },
   hu: {
     title: "Multiplayer",
@@ -97,6 +107,14 @@ const T = {
     mix: "Mix (5 jatek)",
     level: "Szint",
     roundOf: "/",
+    group: "Csoport",
+    addOpponent: "Ellenfél hozzáadása",
+    opponents: "ellenfél",
+    startMatch: "Meccs indítása",
+    lobby: "Előszoba",
+    waitingAll: "Várakozás a játékosokra...",
+    playersReady: "játékos kész",
+    youAndMore: "Te + {n} másik",
   },
   de: {
     title: "Multiplayer",
@@ -135,6 +153,14 @@ const T = {
     mix: "Mix (5 Spiele)",
     level: "Level",
     roundOf: "von",
+    group: "Gruppe",
+    addOpponent: "Gegner hinzufügen",
+    opponents: "Gegner",
+    startMatch: "Match starten",
+    lobby: "Lobby",
+    waitingAll: "Warte auf alle Spieler...",
+    playersReady: "Spieler bereit",
+    youAndMore: "Du + {n} andere",
   },
   ro: {
     title: "Multiplayer",
@@ -173,6 +199,14 @@ const T = {
     mix: "Mix (5 jocuri)",
     level: "Nivel",
     roundOf: "din",
+    group: "Grup",
+    addOpponent: "Adaugă adversar",
+    opponents: "adversari",
+    startMatch: "Începe meciul",
+    lobby: "Lobby",
+    waitingAll: "Se așteaptă toți jucătorii...",
+    playersReady: "jucători gata",
+    youAndMore: "Tu + {n} alții",
   },
 };
 
@@ -212,7 +246,7 @@ export default function MultiplayerPage() {
   const [tab, setTab] = useState<Tab>("challenge");
   const [searchQuery, setSearchQuery] = useState("");
   const [searchResults, setSearchResults] = useState<string[]>([]);
-  const [selectedOpponent, setSelectedOpponent] = useState("");
+  const [selectedOpponents, setSelectedOpponents] = useState<string[]>([]);
   const [selectedGame, setSelectedGame] = useState<GameType>("quickpick");
   const [selectedLevel, setSelectedLevel] = useState(5);
   const [matchType, setMatchType] = useState<MatchType>("single");
@@ -285,48 +319,78 @@ export default function MultiplayerPage() {
 
   // ─── Send challenge ───────────────────────────────────
   const handleSendChallenge = async () => {
-    if (!selectedOpponent) return;
+    if (selectedOpponents.length === 0) return;
     if (matchType === "mix" && mixGames.length < 2) return;
     setSending(true);
     setSendError("");
-    const options: { level?: number; matchType?: MatchType; mixGames?: GameType[]; mixLevels?: (number | null)[] } = {};
-    if (matchType === "mix") {
-      options.matchType = "mix";
-      options.mixGames = mixGames;
-      options.mixLevels = mixLevels;
-    } else if (LEVEL_GAMES.has(selectedGame)) {
-      options.level = selectedLevel;
-    }
-    const { match, error } = await createChallenge(selectedGame, selectedOpponent, options);
-    setSending(false);
 
-    if (match) {
-      setSentSuccess(true);
-      setSelectedOpponent("");
-      setSearchQuery("");
-      setSearchResults([]);
-      setWaitingMatch(match);
-      setTimeout(() => setSentSuccess(false), 1500);
-      loadData();
-    } else if (error === "opponent_not_found") {
-      setSendError(t.opponentNotFound);
-    } else if (error === "not_authenticated") {
-      setSendError(t.needName);
+    const isGroup = selectedOpponents.length >= 2;
+
+    if (isGroup) {
+      // Group challenge (3-4 players)
+      const opts = LEVEL_GAMES.has(selectedGame) ? { level: selectedLevel } : undefined;
+      const { match, error } = await createGroupChallenge(selectedGame, selectedOpponents, opts);
+      setSending(false);
+      if (match) {
+        setSentSuccess(true);
+        setSelectedOpponents([]);
+        setSearchQuery("");
+        setSearchResults([]);
+        setWaitingMatch(match);
+        setTimeout(() => setSentSuccess(false), 1500);
+        loadData();
+      } else if (error?.startsWith("opponent_not_found:")) {
+        setSendError(`${t.opponentNotFound}: ${error.split(":")[1]}`);
+      } else {
+        setSendError(error || "Error");
+      }
     } else {
-      setSendError(error || "Error");
+      // 1v1 challenge (existing flow)
+      const options: { level?: number; matchType?: MatchType; mixGames?: GameType[]; mixLevels?: (number | null)[] } = {};
+      if (matchType === "mix") {
+        options.matchType = "mix";
+        options.mixGames = mixGames;
+        options.mixLevels = mixLevels;
+      } else if (LEVEL_GAMES.has(selectedGame)) {
+        options.level = selectedLevel;
+      }
+      const { match, error } = await createChallenge(selectedGame, selectedOpponents[0], options);
+      setSending(false);
+      if (match) {
+        setSentSuccess(true);
+        setSelectedOpponents([]);
+        setSearchQuery("");
+        setSearchResults([]);
+        setWaitingMatch(match);
+        setTimeout(() => setSentSuccess(false), 1500);
+        loadData();
+      } else if (error === "opponent_not_found") {
+        setSendError(t.opponentNotFound);
+      } else if (error === "not_authenticated") {
+        setSendError(t.needName);
+      } else {
+        setSendError(error || "Error");
+      }
     }
   };
 
   // ─── Accept / Decline ─────────────────────────────────
   const handleAccept = async (match: MultiplayerMatch) => {
-    await acceptChallenge(match.id);
+    if (isGroupMatch(match)) {
+      await acceptGroupChallenge(match.id);
+    } else {
+      await acceptChallenge(match.id);
+    }
     loadData();
-    // Show waiting overlay with countdown (reuse ChallengeWaiting — it detects status=playing and starts countdown)
     setWaitingMatch(match);
   };
 
   const handleDecline = async (match: MultiplayerMatch) => {
-    await declineChallenge(match.id);
+    if (isGroupMatch(match)) {
+      await declineGroupChallenge(match.id);
+    } else {
+      await declineChallenge(match.id);
+    }
     setPendingChallenges((prev) => prev.filter((m) => m.id !== match.id));
   };
 
@@ -422,61 +486,85 @@ export default function MultiplayerPage() {
               {/* Search results dropdown */}
               {searchResults.length > 0 && (
                 <div className="bg-card border border-white/10 rounded-xl overflow-hidden -mt-2">
-                  {searchResults.map((name) => (
+                  {searchResults.filter(name => !selectedOpponents.includes(name) && name.toLowerCase() !== myName.toLowerCase()).map((name) => (
                     <button
                       key={name}
                       onClick={() => {
-                        setSelectedOpponent(name);
-                        setSearchQuery(name);
+                        if (selectedOpponents.length < MAX_GROUP_PLAYERS - 1) {
+                          setSelectedOpponents([...selectedOpponents, name]);
+                        }
+                        setSearchQuery("");
                         setSearchResults([]);
                       }}
-                      className={`w-full px-4 py-2.5 text-left text-sm flex items-center gap-2 hover:bg-white/5 transition-colors ${
-                        selectedOpponent === name ? "text-neon-pink" : "text-white/70"
-                      }`}
+                      className="w-full px-4 py-2.5 text-left text-sm flex items-center gap-2 hover:bg-white/5 transition-colors text-white/70"
                     >
                       <Gamepad2 size={14} className="text-white/30" />
                       {name}
+                      <Plus size={12} className="ml-auto text-neon-green/60" />
                     </button>
                   ))}
                 </div>
               )}
 
-              {/* Selected opponent */}
-              {selectedOpponent && (
-                <div className="flex items-center gap-2 bg-neon-pink/10 border border-neon-pink/20 rounded-xl px-4 py-2">
-                  <Swords size={14} className="text-neon-pink" />
-                  <span className="text-white text-sm font-bold flex-1">{selectedOpponent}</span>
-                  <button onClick={() => { setSelectedOpponent(""); setSearchQuery(""); }} className="text-white/40 hover:text-white">
-                    <X size={14} />
-                  </button>
+              {/* Selected opponents */}
+              {selectedOpponents.length > 0 && (
+                <div className="flex flex-col gap-1.5">
+                  {selectedOpponents.length >= 2 && (
+                    <div className="flex items-center gap-1.5 mb-1">
+                      <Users size={12} className="text-neon-purple" />
+                      <span className="text-neon-purple text-[10px] font-bold uppercase tracking-wider">
+                        {t.group} ({selectedOpponents.length + 1} {t.opponents.includes("llenfél") ? "fő" : ""})
+                      </span>
+                    </div>
+                  )}
+                  {selectedOpponents.map((name, i) => (
+                    <div key={name} className="flex items-center gap-2 bg-neon-pink/10 border border-neon-pink/20 rounded-xl px-4 py-2">
+                      <Swords size={14} className="text-neon-pink" />
+                      <span className="text-white text-sm font-bold flex-1">{name}</span>
+                      <button onClick={() => setSelectedOpponents(selectedOpponents.filter((_, j) => j !== i))} className="text-white/40 hover:text-white">
+                        <X size={14} />
+                      </button>
+                    </div>
+                  ))}
+                  {selectedOpponents.length < MAX_GROUP_PLAYERS - 1 && (
+                    <button
+                      onClick={() => { /* just focus the search input */ }}
+                      className="flex items-center justify-center gap-2 py-2 rounded-xl border border-dashed border-white/10 text-white/30 text-xs font-bold hover:border-white/20 hover:text-white/50 transition-colors"
+                    >
+                      <Plus size={12} />
+                      {t.addOpponent} ({selectedOpponents.length + 1}/{MAX_GROUP_PLAYERS})
+                    </button>
+                  )}
                 </div>
               )}
 
-              {/* Match type toggle */}
-              <div className="flex gap-2">
-                <button
-                  onClick={() => setMatchType("single")}
-                  className={`flex-1 flex items-center justify-center gap-2 py-2.5 rounded-xl border text-xs font-bold transition-all ${
-                    matchType === "single"
-                      ? "bg-neon-purple/15 border-neon-purple/40 text-neon-purple"
-                      : "bg-white/5 border-white/10 text-white/40"
-                  }`}
-                >
-                  <Gamepad2 size={14} />
-                  {t.single}
-                </button>
-                <button
-                  onClick={() => setMatchType("mix")}
-                  className={`flex-1 flex items-center justify-center gap-2 py-2.5 rounded-xl border text-xs font-bold transition-all ${
-                    matchType === "mix"
-                      ? "bg-neon-purple/15 border-neon-purple/40 text-neon-purple"
-                      : "bg-white/5 border-white/10 text-white/40"
-                  }`}
-                >
-                  <Layers size={14} />
-                  {t.mix}
-                </button>
-              </div>
+              {/* Match type toggle (hide mix for group matches) */}
+              {selectedOpponents.length <= 1 && (
+                <div className="flex gap-2">
+                  <button
+                    onClick={() => setMatchType("single")}
+                    className={`flex-1 flex items-center justify-center gap-2 py-2.5 rounded-xl border text-xs font-bold transition-all ${
+                      matchType === "single"
+                        ? "bg-neon-purple/15 border-neon-purple/40 text-neon-purple"
+                        : "bg-white/5 border-white/10 text-white/40"
+                    }`}
+                  >
+                    <Gamepad2 size={14} />
+                    {t.single}
+                  </button>
+                  <button
+                    onClick={() => setMatchType("mix")}
+                    className={`flex-1 flex items-center justify-center gap-2 py-2.5 rounded-xl border text-xs font-bold transition-all ${
+                      matchType === "mix"
+                        ? "bg-neon-purple/15 border-neon-purple/40 text-neon-purple"
+                        : "bg-white/5 border-white/10 text-white/40"
+                    }`}
+                  >
+                    <Layers size={14} />
+                    {t.mix}
+                  </button>
+                </div>
+              )}
 
               {matchType === "single" ? (
                 <>
@@ -635,7 +723,7 @@ export default function MultiplayerPage() {
               {/* Send button */}
               <motion.button
                 onClick={handleSendChallenge}
-                disabled={!selectedOpponent || sending || (matchType === "mix" && mixGames.length < 2)}
+                disabled={selectedOpponents.length === 0 || sending || (matchType === "mix" && mixGames.length < 2)}
                 className="flex items-center justify-center gap-2 py-3 rounded-xl bg-neon-pink/15 border border-neon-pink/40 text-neon-pink font-bold text-sm disabled:opacity-30"
                 whileHover={{ scale: 1.02 }}
                 whileTap={{ scale: 0.98 }}
@@ -791,26 +879,38 @@ function ChallengeCard({ match, myName, t, onAccept, onDecline, lang }: {
   onDecline: () => void;
   lang: string;
 }) {
-  const isForMe = match.player2_name?.toLowerCase() === myName.toLowerCase();
-  const opponentName = isForMe ? match.player1_name : match.player2_name;
+  const group = isGroupMatch(match);
+  const players = (match.players_data || []) as MatchPlayer[];
+
+  // Am I one of the invited players (not the creator)?
+  const isForMe = group
+    ? (match.invited_players || []).some(n => n.toLowerCase() === myName.toLowerCase())
+    : match.player2_name?.toLowerCase() === myName.toLowerCase();
+  const creatorName = match.player1_name;
   const isMix = match.match_type === "mix";
-  const Icon = isMix ? Layers : (GAME_ICONS[match.game as GameType] || Gamepad2);
+  const Icon = group ? Users : isMix ? Layers : (GAME_ICONS[match.game as GameType] || Gamepad2);
   const diffLabel = match.difficulty
     ? (isNaN(Number(match.difficulty)) ? String(match.difficulty) : `Lv.${match.difficulty}`)
     : null;
+
+  const acceptedCount = group ? players.filter(p => p.accepted).length : 0;
 
   return (
     <motion.div
       layout
       className="bg-card border border-white/10 rounded-xl p-3 flex items-center gap-3"
     >
-      <div className="w-8 h-8 rounded-lg bg-neon-pink/10 flex items-center justify-center shrink-0">
-        <Icon size={14} className="text-neon-pink" />
+      <div className={`w-8 h-8 rounded-lg flex items-center justify-center shrink-0 ${group ? "bg-neon-purple/10" : "bg-neon-pink/10"}`}>
+        <Icon size={14} className={group ? "text-neon-purple" : "text-neon-pink"} />
       </div>
       <div className="flex-1 min-w-0">
-        <p className="text-white text-sm font-bold truncate">{opponentName}</p>
+        <p className="text-white text-sm font-bold truncate">
+          {group ? `${creatorName} + ${players.length - 1}` : (isForMe ? creatorName : match.player2_name)}
+        </p>
         <p className="text-white/30 text-[10px]">
-          {isMix ? `Mix (${match.mix_games?.length || 5} games)` : (
+          {group ? (
+            <>{GAME_LABELS[match.game as GameType]} — {acceptedCount}/{players.length} {t.playersReady || "ready"}</>
+          ) : isMix ? `Mix (${match.mix_games?.length || 5} games)` : (
             <>
               {GAME_LABELS[match.game as GameType]}
               {diffLabel && ` — ${diffLabel}`}
@@ -844,16 +944,28 @@ function MatchCard({ match, myName, t, router, lang }: {
   router: ReturnType<typeof useRouter>;
   lang: string;
 }) {
+  const group = isGroupMatch(match);
+  const players = (match.players_data || []) as MatchPlayer[];
+
   const isP1 = match.player1_name.toLowerCase() === myName.toLowerCase();
   const opponent = isP1 ? match.player2_name : match.player1_name;
-  const myDone = isP1 ? match.player1_done : match.player2_done;
-  const oppDone = isP1 ? match.player2_done : match.player1_done;
   const isMix = match.match_type === "mix";
-  const Icon = isMix ? Layers : (GAME_ICONS[match.game as GameType] || Gamepad2);
+  const Icon = group ? Users : isMix ? Layers : (GAME_ICONS[match.game as GameType] || Gamepad2);
 
   const diffLabel = match.difficulty
     ? (isNaN(Number(match.difficulty)) ? String(match.difficulty) : `Lv.${match.difficulty}`)
     : null;
+
+  // Group match helpers
+  const myPlayerIdx = group ? players.findIndex(p => p.name.toLowerCase() === myName.toLowerCase()) : -1;
+  const myDoneGroup = group && myPlayerIdx >= 0 ? players[myPlayerIdx].done : false;
+  const allDoneGroup = group ? players.every(p => p.done) : false;
+  const doneCount = group ? players.filter(p => p.done).length : 0;
+  const otherNames = group ? players.filter(p => p.name.toLowerCase() !== myName.toLowerCase()).map(p => p.name) : [];
+
+  // 1v1 helpers
+  const myDone = isP1 ? match.player1_done : match.player2_done;
+  const oppDone = isP1 ? match.player2_done : match.player1_done;
 
   // Mix: build URL for current round's game
   const getMixPlayUrl = () => {
@@ -861,7 +973,6 @@ function MatchCard({ match, myName, t, router, lang }: {
     const round = match.mix_round || 1;
     const currentGame = match.mix_games[round - 1];
     let url = `/${currentGame}?match=${match.id}&seed=${match.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponent || "???")}&mixround=${round}`;
-    // Parse mix levels from difficulty field
     if (match.difficulty && String(match.difficulty).includes(",")) {
       const levels = String(match.difficulty).split(",");
       const lv = levels[round - 1];
@@ -881,17 +992,34 @@ function MatchCard({ match, myName, t, router, lang }: {
   const myMixRoundDone = isMix ? (isP1 ? match.mix_round_done_p1 : match.mix_round_done_p2) : false;
   const oppMixRoundDone = isMix ? (isP1 ? match.mix_round_done_p2 : match.mix_round_done_p1) : false;
 
+  // Build play URL for group match
+  const getGroupPlayUrl = () => {
+    const pNum = myPlayerIdx + 1;
+    const opponents = otherNames.map(n => encodeURIComponent(n)).join(",");
+    let url = `/${match.game}?match=${match.id}&seed=${match.seed}&p=${pNum}&vs=${opponents}&players=${players.length}`;
+    if (match.difficulty) url += `&level=${match.difficulty}`;
+    return url;
+  };
+
   return (
     <div className="bg-card border border-white/10 rounded-xl p-3 flex items-center gap-3">
-      <div className="w-8 h-8 rounded-lg bg-neon-blue/10 flex items-center justify-center shrink-0">
-        <Icon size={14} className="text-neon-blue" />
+      <div className={`w-8 h-8 rounded-lg flex items-center justify-center shrink-0 ${group ? "bg-neon-purple/10" : "bg-neon-blue/10"}`}>
+        <Icon size={14} className={group ? "text-neon-purple" : "text-neon-blue"} />
       </div>
       <div className="flex-1 min-w-0">
         <p className="text-white text-sm font-bold truncate">
-          {t.you} {t.vs} {opponent}
+          {group
+            ? `${t.you} + ${otherNames.length} ${t.opponents}`
+            : `${t.you} ${t.vs} ${opponent}`}
         </p>
         <p className="text-white/30 text-[10px]">
-          {isMix ? (
+          {group ? (
+            <>
+              {GAME_LABELS[match.game as GameType]}
+              {diffLabel && ` (${diffLabel})`}
+              {` — ${doneCount}/${players.length} ✓`}
+            </>
+          ) : isMix ? (
             <>Mix {match.mix_round || 1}/{match.mix_games?.length || 5}
               {mixStandings && ` — ${mixStandings.p1Wins}:${mixStandings.p2Wins}`}
             </>
@@ -905,7 +1033,24 @@ function MatchCard({ match, myName, t, router, lang }: {
           )}
         </p>
       </div>
-      {isMix ? (
+      {group ? (
+        <>
+          {!myDoneGroup && match.status === "playing" && (
+            <button
+              onClick={() => router.push(getGroupPlayUrl())}
+              className="px-3 py-1.5 rounded-lg bg-neon-purple/15 border border-neon-purple/30 text-neon-purple text-xs font-bold"
+            >
+              {t.play}
+            </button>
+          )}
+          {myDoneGroup && !allDoneGroup && (
+            <div className="flex items-center gap-1 text-white/30 text-[10px]">
+              <Clock size={10} />
+              {t.waiting}
+            </div>
+          )}
+        </>
+      ) : isMix ? (
         !myMixRoundDone && match.status === "playing" ? (
           <button
             onClick={() => router.push(getMixPlayUrl())}
@@ -925,7 +1070,7 @@ function MatchCard({ match, myName, t, router, lang }: {
             <button
               onClick={() => {
                 let url = `/${match.game}?match=${match.id}&seed=${match.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponent || "???")}`;
-                if (match.difficulty) url += `&difficulty=${match.difficulty}`;
+                if (match.difficulty) url += `&level=${match.difficulty}`;
                 router.push(url);
               }}
               className="px-3 py-1.5 rounded-lg bg-neon-blue/15 border border-neon-blue/30 text-neon-blue text-xs font-bold"
@@ -951,19 +1096,66 @@ function HistoryCard({ match, myName, t, lang }: {
   t: Record<string, string>;
   lang: string;
 }) {
+  const group = isGroupMatch(match);
+  const players = (match.players_data || []) as MatchPlayer[];
+
   const isP1 = match.player1_name.toLowerCase() === myName.toLowerCase();
   const opponent = isP1 ? match.player2_name : match.player1_name;
-  const myScore = isP1 ? match.player1_score : match.player2_score;
-  const oppScore = isP1 ? match.player2_score : match.player1_score;
   const isMix = match.match_type === "mix";
-  const Icon = isMix ? Layers : (GAME_ICONS[match.game as GameType] || Gamepad2);
-
-  const iWon = (myScore ?? 0) > (oppScore ?? 0);
-  const isDraw = myScore === oppScore;
+  const Icon = group ? Users : isMix ? Layers : (GAME_ICONS[match.game as GameType] || Gamepad2);
 
   const diffLabel = match.difficulty
     ? (isNaN(Number(match.difficulty)) ? String(match.difficulty) : `Lv.${match.difficulty}`)
     : null;
+
+  // Group match results
+  if (group && players.length > 0) {
+    const ranked = [...players].sort((a, b) => (b.score ?? 0) - (a.score ?? 0));
+    const myIdx = ranked.findIndex(p => p.name.toLowerCase() === myName.toLowerCase());
+    const myPlace = myIdx + 1;
+    const iWon = myPlace === 1;
+    const myScore = myIdx >= 0 ? ranked[myIdx].score ?? 0 : 0;
+
+    const medals = ["🥇", "🥈", "🥉", "4th"];
+
+    return (
+      <div className="bg-card border border-white/10 rounded-xl p-3 flex flex-col gap-2">
+        <div className="flex items-center gap-3">
+          <div className={`w-8 h-8 rounded-lg flex items-center justify-center shrink-0 ${
+            iWon ? "bg-neon-green/10" : "bg-neon-purple/10"
+          }`}>
+            <Icon size={14} className={iWon ? "text-neon-green" : "text-neon-purple"} />
+          </div>
+          <div className="flex-1 min-w-0">
+            <p className="text-white text-sm font-bold truncate">
+              {GAME_LABELS[match.game as GameType]}
+              {diffLabel && ` (${diffLabel})`}
+            </p>
+            <p className="text-white/30 text-[10px]">
+              {t.group} — {players.length} {t.opponents.slice(0, 1).toUpperCase()}{t.opponents.slice(1)}
+            </p>
+          </div>
+          <span className={`text-xs font-bold ${iWon ? "text-neon-green" : "text-neon-pink"}`}>
+            {medals[myPlace - 1] || `#${myPlace}`}
+          </span>
+        </div>
+        {/* Mini rankings */}
+        <div className="flex flex-wrap gap-x-3 gap-y-0.5 pl-11">
+          {ranked.map((p, i) => (
+            <span key={p.name} className={`text-[10px] ${p.name.toLowerCase() === myName.toLowerCase() ? "text-white/70 font-bold" : "text-white/30"}`}>
+              {medals[i] || `${i + 1}.`} {p.name}: {p.score ?? 0}
+            </span>
+          ))}
+        </div>
+      </div>
+    );
+  }
+
+  // 1v1 match results
+  const myScore = isP1 ? match.player1_score : match.player2_score;
+  const oppScore = isP1 ? match.player2_score : match.player1_score;
+  const iWon = (myScore ?? 0) > (oppScore ?? 0);
+  const isDraw = myScore === oppScore;
 
   return (
     <div className="bg-card border border-white/10 rounded-xl p-3 flex items-center gap-3">
