@@ -526,7 +526,7 @@ export async function advanceMixRound(matchId: string): Promise<{ ok: boolean; f
 export type MixPollResult =
   | { action: "wait" }
   | { action: "finished"; myWins: number; oppWins: number }
-  | { action: "next"; url: string };
+  | { action: "next"; url: string; roundScores?: { myScore: number; oppScore: number; roundNumber: number; totalRounds: number } };
 
 export async function pollMixRound(
   matchId: string,
@@ -567,6 +567,13 @@ export async function pollMixRound(
       const lv = levels[dbRound - 1];
       if (lv && Number(lv) > 0) url += `&level=${lv}`;
     }
+    // Include previous round scores
+    const p1S = (data.mix_scores_p1 || []) as number[];
+    const p2S = (data.mix_scores_p2 || []) as number[];
+    const prevRound = currentMixRound - 1;
+    if (prevRound >= 0 && prevRound < p1S.length && prevRound < p2S.length) {
+      return { action: "next", url, roundScores: { myScore: isP1 ? p1S[prevRound] : p2S[prevRound], oppScore: isP1 ? p2S[prevRound] : p1S[prevRound], roundNumber: currentMixRound, totalRounds } };
+    }
     return { action: "next", url };
   }
 
@@ -599,6 +606,13 @@ export async function pollMixRound(
         const levels = String(fm.difficulty).split(",");
         const lv = levels[nr - 1];
         if (lv && Number(lv) > 0) url += `&level=${lv}`;
+      }
+      // Include current round scores
+      const p1S = (fm.mix_scores_p1 || []) as number[];
+      const p2S = (fm.mix_scores_p2 || []) as number[];
+      const currRound = currentMixRound - 1;
+      if (currRound >= 0 && currRound < p1S.length && currRound < p2S.length) {
+        return { action: "next", url, roundScores: { myScore: isP1 ? p1S[currRound] : p2S[currRound], oppScore: isP1 ? p2S[currRound] : p1S[currRound], roundNumber: currentMixRound, totalRounds } };
       }
       return { action: "next", url };
     }

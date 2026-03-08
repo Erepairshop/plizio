@@ -16,7 +16,11 @@ import { submitScore, abandonMatch, submitMixRoundScore, pollMixRound, subscribe
 import MultiplayerExitConfirm from "@/components/MultiplayerExitConfirm";
 import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
 import MultiplayerResult from "@/components/MultiplayerResult";
+import MixRoundResult from "@/components/MixRoundResult";
+import MultiplayerOpponentPanel from "@/components/MultiplayerOpponentPanel";
 import { getUsername } from "@/lib/username";
+import { supabase } from "@/lib/supabase/client";
+import type { RealtimeChannel } from "@supabase/supabase-js";
 
 // English versions (default/fallback)
 import generalDataEn from "@/data/quickpick/general.json";
@@ -288,7 +292,14 @@ function QuickPickPage() {
   const [oppFinalScore, setOppFinalScore] = useState<number | null>(null);
   const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
   const [mixFinished, setMixFinished] = useState(false);
+  const [roundResult, setRoundResult] = useState<{ myScore: number; oppScore: number; roundNumber: number; totalRounds: number } | null>(null);
+  const [showRoundResult, setShowRoundResult] = useState(false);
+  const [oppScore, setOppScore] = useState(0);
+  const [oppMood, setOppMood] = useState<"idle" | "focused" | "happy" | "surprised" | "victory" | "disappointed">("focused");
+  const nextRoundUrlRef = useRef<string | null>(null);
   const startTimeRef = useRef<number>(0);
+  const broadcastChannelRef = useRef<RealtimeChannel | null>(null);
+  const broadcastIntervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
   const [animatedValueA, setAnimatedValueA] = useState(0);
   const [animatedValueB, setAnimatedValueB] = useState(0);
 
@@ -310,6 +321,53 @@ function QuickPickPage() {
     setQuestions(shuffled);
     startTimeRef.current = Date.now();
   }, [isMultiplayer, seed, THEME_DATA, questions.length]);
+
+  // ─── MULTIPLAYER: Broadcast channel setup ────────
+  useEffect(() => {
+    if (!isMultiplayer || !matchId) return;
+
+    const channel = supabase.channel(`quickpick-${matchId}`, {
+      config: { broadcast: { self: false } },
+    });
+
+    channel.on("broadcast", { event: "scoreUpdate" }, (payload) => {
+      if (payload.payload.p !== playerNum) {
+        setOppScore(payload.payload.score);
+        setOppMood("happy");
+        setTimeout(() => setOppMood("focused"), 600);
+      }
+    });
+
+    channel.subscribe((status) => {
+      if (status === "SUBSCRIBED") {
+        // Send initial avatar/name handshake (optional)
+      }
+    });
+
+    broadcastChannelRef.current = channel;
+
+    return () => {
+      channel.unsubscribe();
+      broadcastChannelRef.current = null;
+    };
+  }, [isMultiplayer, matchId, playerNum]);
+
+  // ─── MULTIPLAYER: Broadcast score updates ────────
+  useEffect(() => {
+    if (!isMultiplayer || gameState !== "playing" || !broadcastChannelRef.current) return;
+
+    broadcastIntervalRef.current = setInterval(() => {
+      broadcastChannelRef.current?.send({
+        type: "broadcast",
+        event: "scoreUpdate",
+        payload: { p: playerNum, score, theme: selectedTheme },
+      });
+    }, 500); // Send score update every 500ms
+
+    return () => {
+      if (broadcastIntervalRef.current) clearInterval(broadcastIntervalRef.current);
+    };
+  }, [isMultiplayer, gameState, playerNum, score, selectedTheme]);
 
   // Poll for opponent completion (multiplayer waiting)
   useEffect(() => {
@@ -337,7 +395,18 @@ function QuickPickPage() {
           return true;
         }
         if (result.action === "next") {
-          router.push(result.url);
+          // Store round result and show it before navigating
+          if (result.roundScores) {
+            setRoundResult(result.roundScores);
+            setShowRoundResult(true);
+            nextRoundUrlRef.current = result.url;
+            // Auto-navigate after 2.5 seconds
+            setTimeout(() => {
+              router.push(result.url);
+            }, 2500);
+          } else {
+            router.push(result.url);
+          }
           return true;
         }
         return false;
@@ -822,7 +891,7 @@ function QuickPickPage() {
       </AnimatePresence>
 
       {/* Waiting for opponent */}
-      {gameState === "mix-waiting" && (
+      {gameState === "mix-waiting" && !showRoundResult && (
         <motion.div
           className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm gap-5 px-6"
           initial={{ opacity: 0 }}
@@ -837,7 +906,7 @@ function QuickPickPage() {
             {score}/{TOTAL_ROUNDS}
           </motion.div>
           {isMix && (
-            <span className="text-white/30 text-xs font-bold uppercase">
+            <span className="text-white/60 text-xs font-bold uppercase">
               Round {mixround} ✓
             </span>
           )}
@@ -846,13 +915,38 @@ function QuickPickPage() {
             animate={{ rotate: 360 }}
             transition={{ repeat: Infinity, duration: 1, ease: "linear" }}
           />
-          <span className="text-white/60 text-sm font-medium text-center">
+          <span className="text-white/70 text-sm font-medium text-center">
             {lang === "hu" ? `Várakozás ${opponentName}-ra...` :
              lang === "de" ? `Warte auf ${opponentName}...` :
              lang === "ro" ? `Se așteaptă ${opponentName}...` :
              `Waiting for ${opponentName}...`}
           </span>
         </motion.div>
+      )}
+
+      {/* Mix Round Result - shows before navigating to next round */}
+      {showRoundResult && roundResult && (
+        <MixRoundResult
+          roundNumber={roundResult.roundNumber}
+          totalRounds={roundResult.totalRounds}
+          p1Score={playerNum === "1" ? roundResult.myScore : roundResult.oppScore}
+          p2Score={playerNum === "1" ? roundResult.oppScore : roundResult.myScore}
+          p1Name={playerNum === "1" ? (getUsername() || "???") : opponentName}
+          p2Name={playerNum === "1" ? opponentName : (getUsername() || "???")}
+          isWaiting={true}
+        />
+      )}
+
+      {/* Multiplayer Opponent Panel - real-time score tracking */}
+      {isMultiplayer && (
+        <MultiplayerOpponentPanel
+          opponentName={opponentName}
+          opponentScore={oppScore}
+          opponentMood={oppMood}
+          totalRounds={TOTAL_ROUNDS}
+          isVisible={gameState === "playing" || gameState === "reveal"}
+          scoreJustIncreased={oppScore > (oppFinalScore ?? 0)}
+        />
       )}
 
       {/* Multiplayer result — win/lose with 2 avatars */}

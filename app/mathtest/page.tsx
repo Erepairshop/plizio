@@ -958,8 +958,7 @@ export default function MathTestPage() {
               }
             }
 
-            if (key && !topicKeysSeen.has(key)) {
-              topicKeysSeen.add(key);
+            if (key) {
               topicBlocks.push({ key, name: sub.name });
             }
           }
@@ -1404,22 +1403,113 @@ export default function MathTestPage() {
       const dateStr = `${now.getFullYear()}. ${(now.getMonth() + 1).toString().padStart(2, "0")}. ${now.getDate().toString().padStart(2, "0")}.`;
       const gradeLabel = country?.gradeLabel(selectedGrade!) || `${selectedGrade}. ${ui?.classLabel || "class"}`;
       const subject = ui?.subject || ui?.title || "MATH TEST";
-      const totalPoints = questions.reduce((sum, q) => sum + (q.maxPoints || 1), 0);
 
-      const questionsHtml = questions.map((q, i) => {
-        const pts = q.maxPoints || 1;
-        const sectionTag = q.section ? `<div class="section-label">${q.section}</div>` : "";
-        return `
-          ${sectionTag}
-          <div class="question">
-            <div class="question-header">
-              <span class="q-num">${i + 1}.</span>
-              <span class="q-text">${q.question}</span>
-              <span class="q-pts">(${pts} ${ui?.pointsUnit || 'pts'})</span>
-            </div>
-            <div class="answer-box"></div>
-          </div>`;
-      }).join("");
+      // ─── Build questionsHtml from schoolTasks OR questions ───────────
+      let questionsHtml = "";
+      let totalPoints = 0;
+
+      if (schoolTasks.length > 0) {
+        // School task blocks (grade 1-8 with subtopics)
+        totalPoints = schoolTasks.reduce((s, b) => s + b.totalPoints, 0);
+        questionsHtml = schoolTasks.map((block, bi) => {
+          const blockHtml: string[] = [];
+          blockHtml.push(`<div class="question"><div class="question-header"><span class="q-num">${bi + 1}.</span><span class="q-text" style="font-weight:700">${block.title}</span><span class="q-pts">(${block.totalPoints} ${ui?.pointsUnit || 'pts'})</span></div>`);
+
+          const d = block.data as Record<string, unknown>;
+          switch (block.type) {
+            case 'kopfrechnen': {
+              const items = (d as { items: { expr: string }[] }).items;
+              blockHtml.push('<div class="kopf-grid">');
+              items.forEach((item, idx) => {
+                const expr = item.expr.replace('___', '<span class="blank-line">______</span>');
+                blockHtml.push(`<div class="kopf-item"><span class="sub-num">${idx + 1}.</span> ${expr}</div>`);
+              });
+              blockHtml.push('</div>');
+              break;
+            }
+            case 'schriftlich': {
+              const items = (d as { items: { a: number; b: number; op: string }[] }).items;
+              blockHtml.push('<div class="schrift-grid">');
+              items.forEach((item) => {
+                const maxLen = Math.max(String(item.a).length, String(item.b).length) + 1;
+                const pad = (n: number) => String(n).padStart(maxLen, '\u00A0');
+                blockHtml.push(`<div class="schrift-item"><div class="schrift-num">${pad(item.a)}</div><div class="schrift-num">${item.op} ${pad(item.b).slice(1)}</div><div class="schrift-line"></div><div class="schrift-answer">&nbsp;</div></div>`);
+              });
+              blockHtml.push('</div>');
+              break;
+            }
+            case 'sachaufgabe': {
+              const items = (d as { items: { text: string; calcSpaceLines: number; answerUnit: string }[] }).items;
+              items.forEach((item, idx) => {
+                blockHtml.push(`<div class="sach-item">`);
+                if (items.length > 1) blockHtml.push(`<span class="sub-num">${idx + 1}.</span> `);
+                blockHtml.push(`<div class="sach-text">${item.text}</div>`);
+                for (let l = 0; l < item.calcSpaceLines; l++) blockHtml.push('<div class="calc-line"></div>');
+                blockHtml.push(`<div class="answer-row"><span class="answer-label">${country?.code === 'DE' ? 'Antwort' : country?.code === 'HU' ? 'Válasz' : country?.code === 'RO' ? 'Răspuns' : 'Answer'}:</span> <span class="blank-line">______________</span> ${item.answerUnit}</div></div>`);
+              });
+              break;
+            }
+            case 'aufgaben': {
+              const items = (d as { items: { question: string }[] }).items;
+              items.forEach((item, idx) => {
+                const q = item.question.replace('___', '<span class="blank-line">______</span>');
+                blockHtml.push(`<div class="aufg-item"><span class="sub-num">${idx + 1}.</span> ${q}</div>`);
+              });
+              break;
+            }
+            case 'zahlenreihe': {
+              const rows = (d as { rows: { given: number[]; blanks: number; rule: string }[] }).rows;
+              rows.forEach((row, idx) => {
+                const nums = row.given.map(String).concat(Array(row.blanks).fill('___')).join(', ');
+                blockHtml.push(`<div class="aufg-item"><span class="sub-num">${idx + 1}.</span> ${nums} <span style="color:#888; font-size:9pt">(${row.rule})</span></div>`);
+              });
+              break;
+            }
+            case 'hiany': {
+              const items = (d as { items: { topRow: (number|null)[]; addRow: (number|null)[]; op: string; resultRow: (number|null)[] }[] }).items;
+              blockHtml.push('<div class="hiany-grid">');
+              items.forEach((item) => {
+                const renderRow = (row: (number|null)[]) => row.map(v => v === null ? '<span class="blank-cell">___</span>' : `<span class="filled-cell">${v}</span>`).join('');
+                blockHtml.push(`<div class="hiany-item"><div class="hiany-row">${renderRow(item.topRow)}</div><div class="hiany-row">${item.op} ${renderRow(item.addRow)}</div><div class="hiany-line"></div><div class="hiany-row">${renderRow(item.resultRow)}</div></div>`);
+              });
+              blockHtml.push('</div>');
+              break;
+            }
+            case 'tabelle': {
+              const td = d as { headers: string[]; rows: { label: string; cells: (string|null)[] }[] };
+              blockHtml.push('<table class="tab-table"><thead><tr><th></th>');
+              td.headers.forEach(h => blockHtml.push(`<th>${h}</th>`));
+              blockHtml.push('</tr></thead><tbody>');
+              td.rows.forEach(row => {
+                blockHtml.push(`<tr><td class="tab-label">${row.label}</td>`);
+                row.cells.forEach(c => blockHtml.push(`<td>${c === null ? '<span class="blank-line">___</span>' : c}</td>`));
+                blockHtml.push('</tr>');
+              });
+              blockHtml.push('</tbody></table>');
+              break;
+            }
+          }
+          blockHtml.push('</div>');
+          return blockHtml.join('\n');
+        }).join('\n');
+      } else {
+        // Legacy questions array
+        totalPoints = questions.reduce((sum, q) => sum + (q.maxPoints || 1), 0);
+        questionsHtml = questions.map((q, i) => {
+          const pts = q.maxPoints || 1;
+          const sectionTag = q.section ? `<div class="section-label">${q.section}</div>` : "";
+          return `
+            ${sectionTag}
+            <div class="question">
+              <div class="question-header">
+                <span class="q-num">${i + 1}.</span>
+                <span class="q-text">${q.question}</span>
+                <span class="q-pts">(${pts} ${ui?.pointsUnit || 'pts'})</span>
+              </div>
+              <div class="answer-box"></div>
+            </div>`;
+        }).join("");
+      }
 
       const html = `<!DOCTYPE html>
 <html lang="${country?.code?.toLowerCase() || 'en'}">
@@ -1532,6 +1622,33 @@ export default function MathTestPage() {
       min-height: 28px;
     }
 
+    /* ── SCHOOL TASK TYPES ── */
+    .kopf-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 6px 16px; margin-top: 6px; font-family: monospace; font-size: 11pt; }
+    .kopf-item { padding: 3px 0; }
+    .sub-num { font-weight: 800; font-size: 10pt; color: #4b5563; min-width: 18px; display: inline-block; }
+    .blank-line { border-bottom: 1.5px solid #374151; padding: 0 12px; }
+    .schrift-grid { display: flex; flex-wrap: wrap; gap: 24px; margin-top: 6px; font-family: monospace; font-size: 12pt; }
+    .schrift-item { min-width: 100px; text-align: right; }
+    .schrift-num { white-space: pre; letter-spacing: 2px; }
+    .schrift-line { border-top: 2px solid #1a1a2e; margin: 3px 0; }
+    .schrift-answer { min-height: 24px; }
+    .sach-item { margin: 8px 0; }
+    .sach-text { font-size: 11pt; line-height: 1.5; padding: 4px 8px; border-left: 3px solid rgba(100,149,237,0.4); background: rgba(240,245,255,0.6); margin-bottom: 6px; }
+    .calc-line { border-bottom: 1px solid #e5e7eb; height: 22px; background-image: linear-gradient(90deg, rgba(148,163,184,0.08) 1px, transparent 1px); background-size: 20px 100%; }
+    .answer-row { margin-top: 6px; font-size: 11pt; }
+    .answer-label { font-weight: 700; color: #4b5563; }
+    .aufg-item { margin: 4px 0; font-size: 11pt; line-height: 1.5; }
+    .hiany-grid { display: flex; flex-wrap: wrap; gap: 20px; margin-top: 6px; font-family: monospace; font-size: 11pt; }
+    .hiany-item { text-align: right; }
+    .hiany-row { white-space: pre; }
+    .hiany-line { border-top: 2px solid #1a1a2e; margin: 2px 0; }
+    .blank-cell { border-bottom: 1.5px solid #374151; padding: 0 6px; }
+    .filled-cell { padding: 0 6px; }
+    .tab-table { border-collapse: collapse; margin-top: 6px; font-size: 10pt; }
+    .tab-table th, .tab-table td { border: 1px solid #d1d5db; padding: 4px 10px; text-align: center; }
+    .tab-table th { background: rgba(240,245,255,0.6); font-weight: 700; font-size: 9pt; }
+    .tab-label { font-weight: 600; text-align: left !important; }
+
     /* ── WATERMARK ── */
     .watermark {
       position: fixed;
@@ -1582,7 +1699,6 @@ export default function MathTestPage() {
   ${questionsHtml}
 </div>
 <div class="watermark">PLIZIO</div>
-<script>window.onload = function() { window.print(); };<\/script>
 </body>
 </html>`;
 
@@ -1590,6 +1706,10 @@ export default function MathTestPage() {
       if (win) {
         win.document.write(html);
         win.document.close();
+        // Wait for the document to fully render before printing
+        setTimeout(() => {
+          win.print();
+        }, 500);
       }
     };
 

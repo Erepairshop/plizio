@@ -193,7 +193,7 @@ export default function ChallengeOverlay() {
               <div className="flex flex-col items-center gap-3 relative z-10">
                 <div className="flex items-center gap-2">
                   <Swords size={18} className="text-neon-pink" style={{ filter: "drop-shadow(0 0 8px rgba(255,45,120,0.4))" }} />
-                  <span className="text-white/40 text-xs font-bold uppercase tracking-wider">{t.hey} {myName}!</span>
+                  <span className="text-white/70 text-xs font-bold uppercase tracking-wider">{t.hey} {myName}!</span>
                 </div>
 
                 <p className="text-white text-center text-sm">
@@ -206,7 +206,7 @@ export default function ChallengeOverlay() {
                 <div className="flex gap-3 w-full mt-2">
                   <motion.button
                     onClick={handleDecline}
-                    className="flex-1 flex items-center justify-center gap-2 py-3 rounded-xl bg-white/5 border border-white/10 text-white/50 font-bold text-sm"
+                    className="flex-1 flex items-center justify-center gap-2 py-3 rounded-xl bg-white/5 border border-white/10 text-white/70 font-bold text-sm hover:bg-white/10 hover:border-white/20 transition-colors"
                     whileHover={{ scale: 1.02 }}
                     whileTap={{ scale: 0.98 }}
                   >
@@ -234,14 +234,14 @@ export default function ChallengeOverlay() {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
             >
-              <p className="text-neon-green font-bold text-lg">{t.accepted}</p>
+              <p className="text-neon-green font-bold text-lg" style={{ textShadow: "0 0 20px rgba(0,255,136,0.4)" }}>{t.accepted}</p>
             </motion.div>
           )}
 
           {/* Countdown phase */}
           {phase === "countdown" && (
             <motion.div className="flex flex-col items-center gap-4">
-              <p className="text-white/50 text-sm font-bold">{t.starting}...</p>
+              <p className="text-white/70 text-sm font-bold">{t.starting}...</p>
               <motion.div
                 key={countdown}
                 className="text-7xl font-black text-neon-blue"
@@ -252,7 +252,7 @@ export default function ChallengeOverlay() {
               >
                 {countdown > 0 ? countdown : "GO!"}
               </motion.div>
-              <p className="text-white/30 text-xs">
+              <p className="text-white/60 text-xs">
                 {challenge.player1_name} vs {challenge.player2_name} — {gameLabel}
               </p>
             </motion.div>

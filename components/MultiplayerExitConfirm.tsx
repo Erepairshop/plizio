@@ -42,7 +42,7 @@ export default function MultiplayerExitConfirm({ open, onStay, onLeave }: Props)
             </div>
 
             <h3 className="text-white font-bold text-lg">{t.title}</h3>
-            <p className="text-white/50 text-sm text-center">{t.body}</p>
+            <p className="text-white/70 text-sm text-center">{t.body}</p>
 
             <div className="flex gap-3 w-full mt-2">
               <motion.button

@@ -79,7 +79,7 @@ export default function MultiplayerAbandonNotice({ matchId, opponentName, onBack
 
             <motion.button
               onClick={handleBack}
-              className="px-8 py-3 rounded-xl bg-white/5 border border-white/10 text-white/50 font-bold text-sm"
+              className="px-8 py-3 rounded-xl bg-white/5 border border-white/10 text-white/70 font-bold text-sm hover:bg-white/10 hover:border-white/20 transition-colors"
               whileHover={{ scale: 1.02 }}
               whileTap={{ scale: 0.98 }}
             >
