@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useMemo } from 'react';
+import React, { useState, useRef, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Check, X, RotateCcw, Grid3X3 } from 'lucide-react';
 import { playCorrect, playIncorrect, playClick, playSelect } from '@/lib/soundEffects';
@@ -135,12 +135,14 @@ const GridAreaCounter: React.FC<GridAreaCounterProps> = ({
     setSubmitted(false);
   };
 
+  const onValueChangeRef = useRef(onValueChange);
+  onValueChangeRef.current = onValueChange;
   React.useEffect(() => {
-    if (embedded && onValueChange) {
+    if (embedded && onValueChangeRef.current) {
       const val = inputVal || (clicked.size > 0 ? String(clicked.size) : '');
-      if (val) onValueChange(val);
+      if (val) onValueChangeRef.current(val);
     }
-  }, [embedded, onValueChange, inputVal, clicked.size]);
+  }, [embedded, inputVal, clicked.size]);
 
   const totalGridW = gridW * (CELL + GAP) - GAP;
   const totalGridH = gridH * (CELL + GAP) - GAP;

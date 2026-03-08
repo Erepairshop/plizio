@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useMemo } from 'react';
+import React, { useState, useRef, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Check, X, RotateCcw, Link } from 'lucide-react';
 import { playCorrect, playIncorrect, playClick } from '@/lib/soundEffects';
@@ -92,12 +92,14 @@ const SequenceBuilder: React.FC<SequenceBuilderProps> = ({
   const [feedback, setFeedback] = useState<'correct' | 'incorrect' | null>(null);
   const [submitted, setSubmitted] = useState(false);
 
+  const onValueChangeRef = useRef(onValueChange);
+  onValueChangeRef.current = onValueChange;
   React.useEffect(() => {
-    if (embedded && onValueChange) {
+    if (embedded && onValueChangeRef.current) {
       const answers = blankIndices.map(i => inputs[i] || '');
-      if (answers.some(a => a !== '')) onValueChange(answers.join(','));
+      if (answers.some(a => a !== '')) onValueChangeRef.current(answers.join(','));
     }
-  }, [embedded, onValueChange, inputs, blankIndices]);
+  }, [embedded, inputs, blankIndices]);
 
   const handleSubmit = () => {
     playClick();

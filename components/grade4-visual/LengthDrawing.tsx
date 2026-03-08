@@ -97,11 +97,13 @@ const LengthDrawing: React.FC<LengthDrawingProps> = ({
     ? Math.round(Math.abs(endCm - startCm) * 10) / 10
     : null;
 
+  const onValueChangeRef = useRef(onValueChange);
+  onValueChangeRef.current = onValueChange;
   React.useEffect(() => {
-    if (embedded && onValueChange && drawnLength !== null && drawnLength > 0.2 && !dragging) {
-      onValueChange(String(drawnLength));
+    if (embedded && onValueChangeRef.current && drawnLength !== null && drawnLength > 0.2 && !dragging) {
+      onValueChangeRef.current(String(drawnLength));
     }
-  }, [embedded, onValueChange, drawnLength, dragging]);
+  }, [embedded, drawnLength, dragging]);
 
   // ─── Pointer → cm konvertálás ───
   const pointerToCm = useCallback((e: React.MouseEvent | React.TouchEvent) => {

@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useMemo } from 'react';
+import React, { useState, useRef, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Check, X, RotateCcw, Target } from 'lucide-react';
 import { playCorrect, playIncorrect, playClick } from '@/lib/soundEffects';
@@ -85,9 +85,11 @@ const NumberLineRounding: React.FC<NumberLineRoundingProps> = ({
   const [feedback, setFeedback] = useState<'correct' | 'incorrect' | null>(null);
   const [submitted, setSubmitted] = useState(false);
 
+  const onValueChangeRef = useRef(onValueChange);
+  onValueChangeRef.current = onValueChange;
   React.useEffect(() => {
-    if (embedded && onValueChange && selectedAnswer !== null) onValueChange(String(selectedAnswer));
-  }, [embedded, onValueChange, selectedAnswer]);
+    if (embedded && onValueChangeRef.current && selectedAnswer !== null) onValueChangeRef.current(String(selectedAnswer));
+  }, [embedded, selectedAnswer]);
 
   // SVG dimensions
   const PAD = 50;

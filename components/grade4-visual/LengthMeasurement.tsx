@@ -106,11 +106,13 @@ const LengthMeasurement: React.FC<LengthMeasurementProps> = ({
     ? Math.round(Math.abs(measureEndCm - measureStartCm) * 10) / 10
     : null;
 
+  const onValueChangeRef = useRef(onValueChange);
+  onValueChangeRef.current = onValueChange;
   React.useEffect(() => {
-    if (embedded && onValueChange && measuredLength !== null && measuredLength > 0) {
-      onValueChange(String(measuredLength));
+    if (embedded && onValueChangeRef.current && measuredLength !== null && measuredLength > 0) {
+      onValueChangeRef.current(String(measuredLength));
     }
-  }, [embedded, onValueChange, measuredLength]);
+  }, [embedded, measuredLength]);
 
   // ─── Pointer → cm ───
   const pointerToCm = useCallback((e: React.MouseEvent | React.TouchEvent) => {

@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useMemo } from 'react';
+import React, { useState, useRef, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Check, X, RotateCcw, PieChart } from 'lucide-react';
 import { playCorrect, playIncorrect, playClick, playSelect } from '@/lib/soundEffects';
@@ -118,9 +118,11 @@ const FractionPizzaAdder: React.FC<FractionPizzaAdderProps> = ({
   const [feedback, setFeedback] = useState<'correct' | 'incorrect' | null>(null);
   const [submitted, setSubmitted] = useState(false);
 
+  const onValueChangeRef = useRef(onValueChange);
+  onValueChangeRef.current = onValueChange;
   React.useEffect(() => {
-    if (embedded && onValueChange && selected) onValueChange(selected);
-  }, [embedded, onValueChange, selected]);
+    if (embedded && onValueChangeRef.current && selected) onValueChangeRef.current(selected);
+  }, [embedded, selected]);
 
   const CX = 100, CY = 100, R = 80;
 

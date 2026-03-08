@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useMemo } from 'react';
+import React, { useState, useRef, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Check, X, RotateCcw, Clock } from 'lucide-react';
 import { playCorrect, playIncorrect, playClick, playSelect } from '@/lib/soundEffects';
@@ -78,11 +78,13 @@ const AnalogClock: React.FC<AnalogClockProps> = ({
   const [submitted, setSubmitted] = useState(false);
 
   // Embedded mode: report value immediately when both selected
+  const onValueChangeRef = useRef(onValueChange);
+  onValueChangeRef.current = onValueChange;
   React.useEffect(() => {
-    if (embedded && onValueChange && selHour !== null && selMinute !== null) {
-      onValueChange(`${selHour}:${selMinute.toString().padStart(2, '0')}`);
+    if (embedded && onValueChangeRef.current && selHour !== null && selMinute !== null) {
+      onValueChangeRef.current(`${selHour}:${selMinute.toString().padStart(2, '0')}`);
     }
-  }, [embedded, onValueChange, selHour, selMinute]);
+  }, [embedded, selHour, selMinute]);
 
   // Szög-kalkuláció
   const hourAngle = ((hour % 12) + minute / 60) * 30 - 90; // fokban, 12 óra = -90°

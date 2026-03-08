@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useMemo } from 'react';
+import React, { useState, useRef, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Check, X, RotateCcw, Timer } from 'lucide-react';
 import { playCorrect, playIncorrect, playClick } from '@/lib/soundEffects';
@@ -90,9 +90,11 @@ const TimelineDuration: React.FC<TimelineDurationProps> = ({
   const [feedback, setFeedback] = useState<'correct' | 'incorrect' | null>(null);
   const [submitted, setSubmitted] = useState(false);
 
+  const onValueChangeRef = useRef(onValueChange);
+  onValueChangeRef.current = onValueChange;
   React.useEffect(() => {
-    if (embedded && onValueChange && inputVal.trim()) onValueChange(inputVal.trim());
-  }, [embedded, onValueChange, inputVal]);
+    if (embedded && onValueChangeRef.current && inputVal.trim()) onValueChangeRef.current(inputVal.trim());
+  }, [embedded, inputVal]);
 
   const handleSubmit = () => {
     const answer = parseInt(inputVal);

@@ -80,9 +80,11 @@ const CircleDrawer: React.FC<CircleDrawerProps> = ({
   const [feedback, setFeedback] = useState<'correct' | 'incorrect' | null>(null);
   const [submitted, setSubmitted] = useState(false);
 
+  const onValueChangeRef = useRef(onValueChange);
+  onValueChangeRef.current = onValueChange;
   React.useEffect(() => {
-    if (embedded && onValueChange && hasDrawn && !dragging && userRadius > 0) onValueChange(String(userRadius));
-  }, [embedded, onValueChange, userRadius, hasDrawn, dragging]);
+    if (embedded && onValueChangeRef.current && hasDrawn && !dragging && userRadius > 0) onValueChangeRef.current(String(userRadius));
+  }, [embedded, userRadius, hasDrawn, dragging]);
 
   const W = 320, H = 320;
   const CX = W / 2, CY = H / 2;

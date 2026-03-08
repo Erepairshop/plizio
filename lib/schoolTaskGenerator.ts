@@ -723,11 +723,11 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
         visualType: 'fraction-pizza', visualData: { type: 'fraction-pizza', params: { numerator, denominator, operation: 'identify' } } };
     }
     case 'symmetry': {
-      const gridSize = rnd(4, 6); const pattern: number[][] = [];
+      const gridSize = [4, 6][rnd(0, 1)]; const pattern: number[][] = [];
       for (let r = 0; r < gridSize; r++) {
-        const row: number[] = []; const half = Math.ceil(gridSize / 2);
+        const row: number[] = []; const half = gridSize / 2;
         for (let c = 0; c < half; c++) row.push(Math.random() > 0.5 ? 1 : 0);
-        for (let c = half; c < gridSize; c++) row.push(row[gridSize - 1 - c]);
+        for (let c = half; c < gridSize; c++) row.push(0);
         pattern.push(row);
       }
       return { id: `vis_sym_${sfx}`, answer: 'symmetric', points: 1,
