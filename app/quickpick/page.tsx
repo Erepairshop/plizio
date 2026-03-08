@@ -12,7 +12,7 @@ import { incrementTotalGames, incrementPerfectScores, updateStats } from "@/lib/
 import MilestonePopup from "@/components/MilestonePopup";
 import { useLang } from "@/components/LanguageProvider";
 import type { Language } from "@/lib/language";
-import { submitScore, abandonMatch, submitMixRoundScore, advanceMixRound, subscribeToMatch, type MultiplayerMatch } from "@/lib/multiplayer";
+import { submitScore, abandonMatch, submitMixRoundScore, pollMixRound, subscribeToMatch, type MultiplayerMatch } from "@/lib/multiplayer";
 import MultiplayerExitConfirm from "@/components/MultiplayerExitConfirm";
 import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
 import MultiplayerResult from "@/components/MultiplayerResult";
@@ -314,36 +314,17 @@ function QuickPickPage() {
   // Poll for opponent completion (multiplayer waiting)
   useEffect(() => {
     if (gameState !== "mix-waiting" || !isMultiplayer || !matchId) return;
+    const isP1 = playerNum === "1";
 
     const checkMatch = async () => {
-      const { supabase } = await import("@/lib/supabase/client");
-      const { data } = await supabase.from("multiplayer_matches").select("*").eq("id", matchId).single();
-      if (!data) return false;
-      const isP1 = playerNum === "1";
-
       if (isMix) {
-        // Mix: check if both players done with current round
-        const bothDone = data.mix_round_done_p1 && data.mix_round_done_p2;
-        if (!bothDone) return false;
-        // Both done — advance
-        const adv = await advanceMixRound(matchId);
-        if (adv.finished) {
-          // Final result
-          const p1Scores = (data.mix_scores_p1 || []) as number[];
-          const p2Scores = (data.mix_scores_p2 || []) as number[];
-          const myScores = isP1 ? p1Scores : p2Scores;
-          const oppScores = isP1 ? p2Scores : p1Scores;
-          let myWins = 0, oppWins = 0;
-          for (let i = 0; i < myScores.length; i++) {
-            if (myScores[i] > (oppScores[i] ?? 0)) myWins++;
-            else if (myScores[i] < (oppScores[i] ?? 0)) oppWins++;
-          }
-          setMyFinalScore(myWins);
-          setOppFinalScore(oppWins);
+        const result = await pollMixRound(matchId, parseInt(mixround || "1"), isP1, opponentName);
+        if (result.action === "finished") {
+          setMyFinalScore(result.myWins);
+          setOppFinalScore(result.oppWins);
           setMixFinished(true);
-          // Save one card
-          const newStreak = streak;
-          const rarity = calculateRarity(score, TOTAL_ROUNDS, newStreak, false);
+          // Save one card for the whole mix
+          const rarity = calculateRarity(score, TOTAL_ROUNDS, streak, false);
           saveCard({
             id: generateCardId(), game: "quickpick", theme: selectedTheme,
             rarity, score, total: TOTAL_ROUNDS, date: new Date().toISOString(),
@@ -351,27 +332,20 @@ function QuickPickPage() {
           window.dispatchEvent(new Event("plizio-cards-changed"));
           incrementTotalGames();
           if (score === TOTAL_ROUNDS) incrementPerfectScores();
-          updateStats({ highestStreak: newStreak });
+          updateStats({ highestStreak: streak });
           setGameState("multi-result");
           return true;
         }
-        // Next round — navigate to next game
-        const freshMatch = await supabase.from("multiplayer_matches").select("*").eq("id", matchId).single();
-        const fm = freshMatch.data;
-        if (fm && fm.mix_games) {
-          const nextRound = fm.mix_round || adv.nextRound || 2;
-          const nextGame = (fm.mix_games as string[])[nextRound - 1];
-          let url = `/${nextGame}?match=${matchId}&seed=${fm.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponentName)}&mixround=${nextRound}`;
-          if (fm.difficulty && String(fm.difficulty).includes(",")) {
-            const levels = String(fm.difficulty).split(",");
-            const lv = levels[nextRound - 1];
-            if (lv && Number(lv) > 0) url += `&level=${lv}`;
-          }
-          router.push(url);
+        if (result.action === "next") {
+          router.push(result.url);
+          return true;
         }
-        return true;
+        return false;
       } else {
         // Single match: check opponent done
+        const { supabase } = await import("@/lib/supabase/client");
+        const { data } = await supabase.from("multiplayer_matches").select("*").eq("id", matchId).single();
+        if (!data) return false;
         const oppDone = isP1 ? data.player2_done : data.player1_done;
         const oppScoreVal = isP1 ? data.player2_score : data.player1_score;
         if (oppDone && oppScoreVal !== null) {
@@ -382,15 +356,13 @@ function QuickPickPage() {
         return false;
       }
     };
-    // Check immediately
     checkMatch();
-    // Then poll every 2s
     const interval = setInterval(async () => {
       const done = await checkMatch();
       if (done) clearInterval(interval);
     }, 2000);
     return () => clearInterval(interval);
-  }, [gameState, isMultiplayer, matchId, isMix, playerNum, router, opponentName, score, streak, selectedTheme]);
+  }, [gameState, isMultiplayer, matchId, isMix, playerNum, router, opponentName, score, streak, selectedTheme, mixround]);
 
   const startGame = (themeId: string) => {
     setSelectedTheme(themeId);

@@ -490,6 +490,93 @@ export async function advanceMixRound(matchId: string): Promise<{ ok: boolean; f
   return { ok: true, finished: false, nextRound };
 }
 
+// ─── Mix polling helper (called from game pages) ─────────────
+
+export type MixPollResult =
+  | { action: "wait" }
+  | { action: "finished"; myWins: number; oppWins: number }
+  | { action: "next"; url: string };
+
+export async function pollMixRound(
+  matchId: string,
+  currentMixRound: number,
+  isP1: boolean,
+  opponentName: string,
+): Promise<MixPollResult> {
+  const { data } = await supabase
+    .from("multiplayer_matches")
+    .select("*")
+    .eq("id", matchId)
+    .single();
+  if (!data) return { action: "wait" };
+
+  const totalRounds = (data.mix_games as string[])?.length || 5;
+  const dbRound = (data.mix_round as number) || 1;
+
+  // Match already finished
+  if (data.status === "finished") {
+    const p1S = (data.mix_scores_p1 || []) as number[];
+    const p2S = (data.mix_scores_p2 || []) as number[];
+    const myS = isP1 ? p1S : p2S;
+    const opS = isP1 ? p2S : p1S;
+    let myW = 0, opW = 0;
+    for (let i = 0; i < myS.length; i++) {
+      if (myS[i] > (opS[i] ?? 0)) myW++;
+      else if (myS[i] < (opS[i] ?? 0)) opW++;
+    }
+    return { action: "finished", myWins: myW, oppWins: opW };
+  }
+
+  // Round already advanced (other player advanced it)
+  if (dbRound > currentMixRound) {
+    const nextGame = (data.mix_games as string[])[dbRound - 1];
+    let url = `/${nextGame}?match=${matchId}&seed=${data.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponentName)}&mixround=${dbRound}`;
+    if (data.difficulty && String(data.difficulty).includes(",")) {
+      const levels = String(data.difficulty).split(",");
+      const lv = levels[dbRound - 1];
+      if (lv && Number(lv) > 0) url += `&level=${lv}`;
+    }
+    return { action: "next", url };
+  }
+
+  // Both done on current round
+  const bothDone = data.mix_round_done_p1 && data.mix_round_done_p2;
+  if (!bothDone) return { action: "wait" };
+
+  // Only P1 advances the round to avoid race condition
+  if (isP1) {
+    const adv = await advanceMixRound(matchId);
+    if (adv.finished) {
+      const p1S = (data.mix_scores_p1 || []) as number[];
+      const p2S = (data.mix_scores_p2 || []) as number[];
+      const myS = isP1 ? p1S : p2S;
+      const opS = isP1 ? p2S : p1S;
+      let myW = 0, opW = 0;
+      for (let i = 0; i < myS.length; i++) {
+        if (myS[i] > (opS[i] ?? 0)) myW++;
+        else if (myS[i] < (opS[i] ?? 0)) opW++;
+      }
+      return { action: "finished", myWins: myW, oppWins: opW };
+    }
+    // Re-fetch to get updated round
+    const { data: fm } = await supabase.from("multiplayer_matches").select("*").eq("id", matchId).single();
+    if (fm && fm.mix_games) {
+      const nr = (fm.mix_round as number) || adv.nextRound || 2;
+      const nextGame = (fm.mix_games as string[])[nr - 1];
+      let url = `/${nextGame}?match=${matchId}&seed=${fm.seed}&p=1&vs=${encodeURIComponent(opponentName)}&mixround=${nr}`;
+      if (fm.difficulty && String(fm.difficulty).includes(",")) {
+        const levels = String(fm.difficulty).split(",");
+        const lv = levels[nr - 1];
+        if (lv && Number(lv) > 0) url += `&level=${lv}`;
+      }
+      return { action: "next", url };
+    }
+  }
+
+  // P2 waits for P1 to advance
+  return { action: "wait" };
+}
+
 // ─── Get mix round standings ────────────────────────────────
 
 export function getMixStandings(p1Scores: number[], p2Scores: number[]): { p1Wins: number; p2Wins: number } {

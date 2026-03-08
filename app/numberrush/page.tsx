@@ -19,7 +19,7 @@ import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/acce
 import { useLang } from "@/components/LanguageProvider";
 import MultiplayerExitConfirm from "@/components/MultiplayerExitConfirm";
 import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
-import { submitScore, abandonMatch, submitMixRoundScore, advanceMixRound } from "@/lib/multiplayer";
+import { submitScore, abandonMatch, submitMixRoundScore, pollMixRound } from "@/lib/multiplayer";
 import { getUsername } from "@/lib/username";
 import MultiplayerResult from "@/components/MultiplayerResult";
 
@@ -589,48 +589,27 @@ function NumberRushPage() {
   // ── Multiplayer: poll for opponent ──────────────────────────────────────────
   useEffect(() => {
     if (screen !== "multi-waiting" || !isMultiplayer || !matchId) return;
+    const isP1 = playerNum === "1";
 
     const checkMatch = async () => {
-      const { supabase } = await import("@/lib/supabase/client");
-      const { data } = await supabase.from("multiplayer_matches").select("*").eq("id", matchId).single();
-      if (!data) return false;
-      const isP1 = playerNum === "1";
-
       if (isMix) {
-        const bothDone = data.mix_round_done_p1 && data.mix_round_done_p2;
-        if (!bothDone) return false;
-        const adv = await advanceMixRound(matchId);
-        if (adv.finished) {
-          const p1Scores = (data.mix_scores_p1 || []) as number[];
-          const p2Scores = (data.mix_scores_p2 || []) as number[];
-          const myScores = isP1 ? p1Scores : p2Scores;
-          const oppScores = isP1 ? p2Scores : p1Scores;
-          let myWins = 0, oppWins = 0;
-          for (let i = 0; i < myScores.length; i++) {
-            if (myScores[i] > (oppScores[i] ?? 0)) myWins++;
-            else if (myScores[i] < (oppScores[i] ?? 0)) oppWins++;
-          }
-          setMyFinalScore(myWins);
-          setOppFinalScore(oppWins);
+        const result = await pollMixRound(matchId, parseInt(mixround || "1"), isP1, opponentName);
+        if (result.action === "finished") {
+          setMyFinalScore(result.myWins);
+          setOppFinalScore(result.oppWins);
           setMixFinished(true);
           setScreen("multi-result");
           return true;
         }
-        const freshMatch = await supabase.from("multiplayer_matches").select("*").eq("id", matchId).single();
-        const fm = freshMatch.data;
-        if (fm && fm.mix_games) {
-          const nextRound = fm.mix_round || adv.nextRound || 2;
-          const nextGame = (fm.mix_games as string[])[nextRound - 1];
-          let url = `/${nextGame}?match=${matchId}&seed=${fm.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponentName)}&mixround=${nextRound}`;
-          if (fm.difficulty && String(fm.difficulty).includes(",")) {
-            const levels = String(fm.difficulty).split(",");
-            const lv = levels[nextRound - 1];
-            if (lv && Number(lv) > 0) url += `&level=${lv}`;
-          }
-          router.push(url);
+        if (result.action === "next") {
+          router.push(result.url);
+          return true;
         }
-        return true;
+        return false;
       } else {
+        const { supabase } = await import("@/lib/supabase/client");
+        const { data } = await supabase.from("multiplayer_matches").select("*").eq("id", matchId).single();
+        if (!data) return false;
         const oppDone = isP1 ? data.player2_done : data.player1_done;
         const oppScoreVal = isP1 ? data.player2_score : data.player1_score;
         if (oppDone && oppScoreVal !== null) {
@@ -647,7 +626,7 @@ function NumberRushPage() {
       if (done) clearInterval(interval);
     }, 2000);
     return () => clearInterval(interval);
-  }, [screen, isMultiplayer, matchId, isMix, playerNum, router, opponentName]);
+  }, [screen, isMultiplayer, matchId, isMix, playerNum, router, opponentName, mixround]);
 
   const cfg = LEVELS[activeLevel - 1];
 
