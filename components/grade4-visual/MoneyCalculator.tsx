@@ -8,6 +8,7 @@ import { playCorrect, playIncorrect, playClick, playSelect } from '@/lib/soundEf
 interface MoneyCalculatorProps {
   items?: { name: string; price: number }[];
   budget?: number;
+  mode?: 'total' | 'change';
   language?: 'hu' | 'de' | 'en' | 'ro';
   onAnswer: (isCorrect: boolean, answer: number) => void;
   embedded?: boolean;
@@ -90,6 +91,7 @@ const DEFAULT_ITEMS = [
 const MoneyCalculator: React.FC<MoneyCalculatorProps> = ({
   items: propItems,
   budget: propBudget,
+  mode: propMode,
   language = 'de',
   onAnswer,
   embedded = false,
@@ -105,9 +107,9 @@ const MoneyCalculator: React.FC<MoneyCalculatorProps> = ({
     const total = Math.round(picked.reduce((s, i) => s + i.price, 0) * 100) / 100;
     const bud = propBudget || Math.ceil(total);
     // Mode: 'total' = calculate sum, 'change' = calculate change
-    const m = Math.random() > 0.5 ? 'total' : 'change';
+    const m = propMode || (Math.random() > 0.5 ? 'total' : 'change');
     return { shoppingItems: picked, budget: bud, mode: m as 'total' | 'change' };
-  }, [propItems, propBudget]);
+  }, [propItems, propBudget, propMode]);
 
   const correctTotal = Math.round(shoppingItems.reduce((s, i) => s + i.price, 0) * 100) / 100;
   const correctChange = Math.round((budget - correctTotal) * 100) / 100;

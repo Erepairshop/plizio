@@ -100,7 +100,7 @@ export default function SchoolTaskBlock({
       case 'circle-draw':
         return <CircleDrawer targetRadius={p.radius} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       case 'money':
-        return <MoneyCalculator items={p.items} budget={p.budget} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+        return <MoneyCalculator items={p.items} budget={p.budget} mode={p.mode} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       default:
         return null;
     }

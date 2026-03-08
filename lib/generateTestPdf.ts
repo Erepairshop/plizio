@@ -371,6 +371,46 @@ export function generateTestPdf(data: PdfTestData): void {
       }
       if (block.type === 'sachaufgabe') return (d as SachaufgabeData).items[sqIndex]?.text || `${sqIndex + 1}.`;
       if (block.type === 'aufgaben') return (d as AufgabenData).items[sqIndex]?.question || `${sqIndex + 1}.`;
+
+      // Visual block types
+      if (block.type.startsWith('visual_')) {
+        const sq = block.subQuestions[sqIndex];
+        if (!sq?.visualData?.params) return `${sqIndex + 1}.`;
+        const p = sq.visualData.params;
+        const fmt = (n: number) => n.toFixed(2).replace('.', ',');
+        switch (sq.visualType) {
+          case 'money': {
+            const items = p.items as { name: string; price: number }[];
+            const mode = (p.mode as string) || 'total';
+            const budget = p.budget as number;
+            const itemsStr = items.map(i => `${i.name} (${fmt(i.price)} EUR)`).join(', ');
+            if (mode === 'change') return `${itemsStr} | ${lang === 'DE' ? 'Bezahlt' : lang === 'HU' ? 'Fizetes' : 'Paid'}: ${fmt(budget)} EUR → ${lang === 'DE' ? 'Wechselgeld' : lang === 'HU' ? 'Visszajaro' : 'Change'} = ?`;
+            return `${itemsStr} → ${lang === 'DE' ? 'Summe' : lang === 'HU' ? 'Osszeg' : 'Total'} = ?`;
+          }
+          case 'grid-area': {
+            const w = p.width as number; const h = p.height as number;
+            const mode = p.mode as string;
+            return `${w} x ${h} ${lang === 'DE' ? 'Kastchen' : 'grid'} → ${mode === 'area' ? (lang === 'DE' ? 'Flache' : 'Area') : (lang === 'DE' ? 'Umfang' : 'Perimeter')} = ?`;
+          }
+          case 'uhrzeit': return `${lang === 'DE' ? 'Uhrzeit ablesen' : lang === 'HU' ? 'Ora leolvasas' : 'Read the clock'} = ?`;
+          case 'zeichnen': return `${lang === 'DE' ? 'Zeichne' : 'Draw'} ${p.targetLength} cm`;
+          case 'messen': return `${lang === 'DE' ? 'Miss die Linie' : 'Measure the line'} = ? cm`;
+          case 'sequence': {
+            const seq = p.sequence as number[];
+            const blanks = p.blanks as number;
+            const shown = seq.slice(0, seq.length - blanks);
+            return `${shown.join(', ')}, ___  (${p.rule})`;
+          }
+          case 'timeline': return `${p.startHour}:00 → ${p.endHour}:00 → ${lang === 'DE' ? 'Dauer' : 'Duration'} = ?`;
+          case 'number-line': return `${lang === 'DE' ? 'Runde' : 'Round'} ${p.target} → ?`;
+          case 'fraction-pizza': return `${lang === 'DE' ? 'Bruch erkennen' : 'Identify fraction'}: ?/${p.denominator}`;
+          case 'place-value': return `${lang === 'DE' ? 'Stellenwert' : 'Place value'}: ${(p.number as number).toLocaleString()}`;
+          case 'angle': return `${lang === 'DE' ? 'Zeichne einen Winkel' : 'Draw angle'}: ${p.targetAngle} Grad`;
+          case 'circle-draw': return `${lang === 'DE' ? 'Zeichne einen Kreis' : 'Draw circle'}: r = ${p.radius} cm`;
+          case 'symmetry': return `${lang === 'DE' ? 'Symmetrie erkennen' : 'Symmetry'}`;
+        }
+      }
+
       return `${sqIndex + 1}.`;
     };
 
@@ -400,6 +440,103 @@ export function generateTestPdf(data: PdfTestData): void {
       doc.line(marginL, y - 1, pageW - marginR, y - 1);
       y += 3;
 
+      // Helper: draw visual elements for visual blocks
+      const drawVisualElement = (sq: SchoolTaskBlock['subQuestions'][0]) => {
+        if (!sq.visualData?.params || !block.type.startsWith('visual_')) return;
+        const p = sq.visualData.params;
+        switch (sq.visualType) {
+          case 'money': {
+            const items = p.items as { name: string; price: number }[];
+            const mode = (p.mode as string) || 'total';
+            const budget = p.budget as number;
+            const fmt = (n: number) => n.toFixed(2).replace('.', ',') + ' EUR';
+            checkPageBreak(items.length * 5 + (mode === 'change' ? 10 : 5));
+            // Draw shopping receipt
+            doc.setFillColor(240, 253, 244);
+            const receiptH = items.length * 6 + (mode === 'change' ? 8 : 2);
+            doc.roundedRect(marginL + 8, y - 2, contentW - 16, receiptH, 2, 2, 'F');
+            items.forEach(item => {
+              doc.setFont('helvetica', 'normal'); doc.setFontSize(9); doc.setTextColor(30, 41, 59);
+              doc.text(item.name, marginL + 12, y + 2);
+              doc.setFont('helvetica', 'bold'); doc.setTextColor(22, 101, 52);
+              doc.text(fmt(item.price), marginL + contentW - 12, y + 2, { align: 'right' });
+              y += 6;
+            });
+            if (mode === 'change') {
+              doc.setDrawColor(187, 247, 208); doc.setLineWidth(0.3);
+              doc.line(marginL + 12, y - 2, marginL + contentW - 12, y - 2);
+              doc.setFont('helvetica', 'bold'); doc.setFontSize(9); doc.setTextColor(100, 116, 139);
+              const budgetLabel = lang === 'DE' ? 'Bezahlt' : lang === 'HU' ? 'Fizetes' : 'Paid';
+              doc.text(`${budgetLabel}:`, marginL + 12, y + 2);
+              doc.setTextColor(22, 101, 52);
+              doc.text(fmt(budget), marginL + contentW - 12, y + 2, { align: 'right' });
+              y += 6;
+            }
+            y += 2;
+            break;
+          }
+          case 'grid-area': {
+            const w = p.width as number; const h = p.height as number;
+            const cellSize = 5;
+            checkPageBreak(h * cellSize + 8);
+            doc.setDrawColor(200, 210, 220); doc.setLineWidth(0.2);
+            for (let r = 0; r <= h; r++) doc.line(marginL + 12, y + r * cellSize, marginL + 12 + w * cellSize, y + r * cellSize);
+            for (let c = 0; c <= w; c++) doc.line(marginL + 12 + c * cellSize, y, marginL + 12 + c * cellSize, y + h * cellSize);
+            y += h * cellSize + 4;
+            break;
+          }
+          case 'uhrzeit': {
+            const th = p.targetHour as number; const tm = p.targetMinute as number;
+            const cx = marginL + 24; const cy = y + 14; const cr = 12;
+            checkPageBreak(30);
+            doc.setDrawColor(55, 65, 81); doc.setLineWidth(0.5);
+            doc.circle(cx, cy, cr); doc.setFillColor(255, 255, 255); doc.circle(cx, cy, cr, 'FD');
+            doc.setFont('helvetica', 'bold'); doc.setFontSize(5); doc.setTextColor(55, 65, 81);
+            for (let i = 1; i <= 12; i++) {
+              const a = (i * 30 - 90) * Math.PI / 180;
+              doc.text(String(i), cx + 9 * Math.cos(a), cy + 9 * Math.sin(a) + 1.5, { align: 'center' });
+            }
+            const hAngle = ((th % 12) + tm / 60) * 30 - 90;
+            const mAngle = tm * 6 - 90;
+            doc.setDrawColor(15, 23, 42); doc.setLineWidth(0.8);
+            doc.line(cx, cy, cx + 6 * Math.cos(hAngle * Math.PI / 180), cy + 6 * Math.sin(hAngle * Math.PI / 180));
+            doc.setLineWidth(0.5);
+            doc.line(cx, cy, cx + 9 * Math.cos(mAngle * Math.PI / 180), cy + 9 * Math.sin(mAngle * Math.PI / 180));
+            y += 30;
+            break;
+          }
+          case 'fraction-pizza': {
+            const num = p.numerator as number; const den = p.denominator as number;
+            const cx = marginL + 24; const cy = y + 10; const cr = 8;
+            checkPageBreak(22);
+            for (let i = 0; i < den; i++) {
+              const startA = (i * 360 / den - 90) * Math.PI / 180;
+              const endA = ((i + 1) * 360 / den - 90) * Math.PI / 180;
+              if (i < num) { doc.setFillColor(251, 191, 36); } else { doc.setFillColor(243, 244, 246); }
+              // Draw wedge using triangle approximation
+              doc.setDrawColor(55, 65, 81); doc.setLineWidth(0.3);
+              doc.line(cx, cy, cx + cr * Math.cos(startA), cy + cr * Math.sin(startA));
+            }
+            doc.setDrawColor(55, 65, 81); doc.setLineWidth(0.5);
+            doc.circle(cx, cy, cr);
+            y += 22;
+            break;
+          }
+          case 'sequence': {
+            const seq = p.sequence as number[]; const blanks = p.blanks as number;
+            checkPageBreak(8);
+            const shown = seq.slice(0, seq.length - blanks).map(String);
+            const blankArr = Array(blanks).fill('___');
+            doc.setFont('courier', 'normal'); doc.setFontSize(10); doc.setTextColor(30, 41, 59);
+            doc.text([...shown, ...blankArr].join(',  '), marginL + 12, y + 2);
+            y += 8;
+            break;
+          }
+          default:
+            break;
+        }
+      };
+
       // Sub-questions
       block.subQuestions.forEach((sq, qi) => {
         const userAnswer = schoolAnswers[sq.id];
@@ -423,6 +560,9 @@ export function generateTestPdf(data: PdfTestData): void {
         const qTextLines = doc.splitTextToSize(questionText, contentW - 12);
         doc.text(qTextLines, marginL + 8, y);
         y += qTextLines.length * 4.5;
+
+        // Draw visual element (if applicable)
+        drawVisualElement(sq);
 
         // Answer
         if (isCorrect) {

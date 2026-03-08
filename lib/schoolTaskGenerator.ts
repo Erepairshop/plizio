@@ -112,7 +112,7 @@ export type VisualTimelineData = { startHour: number; endHour: number; events: {
 export type VisualNumberLineData = { min: number; max: number; target: number; mode: 'round' | 'place' };
 export type VisualAngleData = { targetAngle: number };
 export type VisualCircleDrawData = { radius: number };
-export type VisualMoneyData = { items: { name: string; price: number }[]; budget: number };
+export type VisualMoneyData = { items: { name: string; price: number }[]; budget: number; mode?: 'total' | 'change' };
 
 export type VisualData = VisualZeichnenData | VisualMessenData | VisualUhrzeitData | VisualGridAreaData | VisualPlaceValueData | VisualFractionPizzaData | VisualSymmetryData | VisualSequenceData | VisualTimelineData | VisualNumberLineData | VisualAngleData | VisualCircleDrawData | VisualMoneyData;
 
@@ -769,8 +769,11 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
         { name: 'Milch', price: rnd(80, 200) / 100 },
       ].slice(0, rnd(2, 3));
       const total = Math.round(items.reduce((s, i) => s + i.price, 0) * 100) / 100;
-      return { id: `vis_mon_${sfx}`, answer: total, points: 1,
-        visualType: 'money', visualData: { type: 'money', params: { items, budget: Math.ceil(total) } } };
+      const mode = Math.random() > 0.5 ? 'change' as const : 'total' as const;
+      const budget = Math.ceil(total);
+      const answer = mode === 'change' ? Math.round((budget - total) * 100) / 100 : total;
+      return { id: `vis_mon_${sfx}`, answer, points: 1,
+        visualType: 'money', visualData: { type: 'money', params: { items, budget, mode } } };
     }
     default:
       return generateVisualSub('zeichnen', blockIdx, subIdx);
