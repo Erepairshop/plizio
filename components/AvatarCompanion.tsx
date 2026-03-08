@@ -8,6 +8,7 @@ import type { FaceDef } from '@/lib/faces';
 import type { TopDef, BottomDef, ShoeDef, CapeDef, GlassesDef, GloveDef } from '@/lib/clothing';
 import type { HatDef, TrailDef } from '@/lib/accessories';
 import type { AvatarGender } from '@/lib/gender';
+import { AVATAR_DEFAULTS } from '@/lib/avatarDefaults';
 
 export interface AvatarCompanionProps {
   mood: 'idle' | 'focused' | 'happy' | 'disappointed' | 'victory' | 'surprised' | 'confused' | 'laughing';
@@ -642,8 +643,8 @@ function Character({
   mood,
   isWalking = false,
   facing,
-  skinColor: legacySkinColor = '#f0d0a8',
-  outfitColor: legacyOutfitColor = '#7a9dbd',
+  skinColor: legacySkinColor = AVATAR_DEFAULTS.skinColor,
+  outfitColor: legacyOutfitColor = AVATAR_DEFAULTS.outfitColor,
   jumpTrigger,
   gender = 'girl',
   activeSkin,
@@ -697,13 +698,13 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
 
   const actualBodyColor = activeTop ? activeTop.color : (hasRealSkin ? activeSkin!.bodyColor : legacyOutfitColor);
   const actualBodyAccent = activeTop?.accent || actualBodyColor;
-  const actualLegColor = activeBottom ? activeBottom.color : (hasRealSkin ? activeSkin!.limbColor : '#3a5a8a');
-  const actualShoeColor = activeShoe ? activeShoe.color : (hasRealSkin ? activeSkin!.shoeColor : '#5a3820');
+  const actualLegColor = activeBottom ? activeBottom.color : (hasRealSkin ? activeSkin!.limbColor : AVATAR_DEFAULTS.legColor);
+  const actualShoeColor = activeShoe ? activeShoe.color : (hasRealSkin ? activeSkin!.shoeColor : AVATAR_DEFAULTS.shoeColor);
   const actualHandColor = activeGloves ? activeGloves.color : actualLimbColor;
   const skinDark = new THREE.Color(actualSkinColor).multiplyScalar(0.82).getStyle();
 
   // Hair color (warm chestnut brown for default, or skin's headColor for fantasy skins)
-  const hairColor = hasRealSkin ? activeSkin!.headColor : '#5c3a18';
+  const hairColor = hasRealSkin ? activeSkin!.headColor : AVATAR_DEFAULTS.hairColor;
 
   useEffect(() => {
     moodRef.current = mood;

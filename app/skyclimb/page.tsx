@@ -15,6 +15,7 @@ import { getHatDef, getActiveHat, getTrailDef, getActiveTrail } from "@/lib/acce
 import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
 import { getFaceDef, getActiveFace } from "@/lib/faces";
 import { getGender } from "@/lib/gender";
+import { AVATAR_DEFAULTS } from "@/lib/avatarDefaults";
 import { incrementTotalGames, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
 import MultiplayerExitConfirm from "@/components/MultiplayerExitConfirm";
@@ -427,18 +428,18 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
 
   const gender = useMemo(() => getGender(), []);
   const hasRealSkin = skin.id !== 'default';
-  const hairColor = hasRealSkin ? skin.headColor : '#5c3a18';
-  const skinHeadColor = hasRealSkin ? skin.headColor : '#f0d0a8';
+  const hairColor = hasRealSkin ? skin.headColor : AVATAR_DEFAULTS.hairColor;
+  const skinHeadColor = hasRealSkin ? skin.headColor : AVATAR_DEFAULTS.skinColor;
   const isGirl = gender === 'girl';
 
   // Trail particle positions
   const trailParticles = useRef<{ x: number; y: number; z: number; life: number }[]>([]);
 
-  // Materials - match AvatarCompanion default colors exactly
-  const bodyColor = topDef ? topDef.color : (hasRealSkin ? skin.bodyColor : '#7a9dbd');
-  const legColor = bottomDef ? bottomDef.color : (hasRealSkin ? skin.limbColor : '#3a5a8a');
-  const shoeColor = shoeDef ? shoeDef.color : (hasRealSkin ? skin.shoeColor : '#5a3820');
-  const armEndColor = gloveDef ? gloveDef.color : (hasRealSkin ? skin.limbColor : '#f0d0a8');
+  // Materials - imported from shared AVATAR_DEFAULTS
+  const bodyColor = topDef ? topDef.color : (hasRealSkin ? skin.bodyColor : AVATAR_DEFAULTS.outfitColor);
+  const legColor = bottomDef ? bottomDef.color : (hasRealSkin ? skin.limbColor : AVATAR_DEFAULTS.legColor);
+  const shoeColor = shoeDef ? shoeDef.color : (hasRealSkin ? skin.shoeColor : AVATAR_DEFAULTS.shoeColor);
+  const armEndColor = gloveDef ? gloveDef.color : (hasRealSkin ? skin.limbColor : AVATAR_DEFAULTS.armColor);
 
   const bodyMat = useMemo(() => new THREE.MeshStandardMaterial({
     color: bodyColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity,
@@ -453,7 +454,7 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
     transparent: skin.id === "ghost", opacity: skin.id === "ghost" ? 0.4 : 1,
   }), [skin, legColor]);
   const armMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: hasRealSkin ? skin.limbColor : '#f0d0a8', emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity * 0.6,
+    color: hasRealSkin ? skin.limbColor : AVATAR_DEFAULTS.armColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity * 0.6,
     transparent: skin.id === "ghost", opacity: skin.id === "ghost" ? 0.4 : 1,
   }), [skin]);
   const gloveMat = useMemo(() => gloveDef ? new THREE.MeshStandardMaterial({
