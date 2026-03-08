@@ -94,15 +94,28 @@ export function getMatchLevel(match: MultiplayerMatch, roundIndex?: number): num
   return isNaN(val) ? null : val;
 }
 
-// ─── Ensure auth session (auto anon sign-in if needed) ──────
+// ─── Resolve player ID: auth user > usernames table > deterministic fallback ──
 
-async function ensureAuthUser(): Promise<string | null> {
+async function resolvePlayerId(username: string): Promise<string> {
+  // 1. Try auth user
   const { data: { user } } = await supabase.auth.getUser();
   if (user?.id) return user.id;
-  // Try anonymous sign-in to get a user ID
-  const { data, error } = await supabase.auth.signInAnonymously();
-  if (!error && data?.user?.id) return data.user.id;
-  return null;
+  // 2. Try usernames table
+  const { data } = await supabase
+    .from("usernames")
+    .select("user_id")
+    .eq("name", username)
+    .limit(1)
+    .single();
+  if (data?.user_id) return data.user_id;
+  // 3. Deterministic UUID from username (v5-like)
+  let h = 0x12345678;
+  for (let i = 0; i < username.length; i++) {
+    h = ((h << 5) - h + username.charCodeAt(i)) | 0;
+  }
+  const hex = (n: number) => ((n >>> 0).toString(16)).padStart(8, "0");
+  const h2 = ((h * 0x45d9f3b) >>> 0);
+  return `${hex(h)}-${hex(h2).slice(0,4)}-4${hex(h2).slice(5,8)}-8${hex(h).slice(1,4)}-${hex(h2)}${hex(h).slice(0,4)}`;
 }
 
 // ─── Seed generation (both players get identical game) ──────
@@ -131,8 +144,7 @@ export async function createChallenge(
 
   if (!oppData) return { match: null, error: "opponent_not_found" };
 
-  const userId = await ensureAuthUser();
-  if (!userId) return { match: null, error: "not_authenticated" };
+  const userId = await resolvePlayerId(myName);
 
   const isMix = options?.matchType === "mix";
   const mixGames = isMix ? (options?.mixGames || []) : null;
@@ -170,10 +182,12 @@ export async function createChallenge(
 export async function acceptChallenge(
   matchId: string
 ): Promise<{ ok: boolean; error?: string }> {
-  const userId = await ensureAuthUser();
-
+  const myName = getUsername();
   const updateFields: Record<string, unknown> = { status: "playing" };
-  if (userId) updateFields.player2_id = userId;
+  if (myName) {
+    const myId = await resolvePlayerId(myName);
+    updateFields.player2_id = myId;
+  }
 
   const { error } = await supabase
     .from("multiplayer_matches")
