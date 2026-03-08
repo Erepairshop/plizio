@@ -55,7 +55,7 @@ export type GameType =
   | "reflexrush" | "numberrush" | "spotdiff" | "sequencerush"
   | "wordhunt" | "milliomos" | "kodex"
   | "numberpath" | "minisudoku" | "skyclimb" | "lightout" | "numbermerge" | "nonogram" | "mazerush"
-  | "pingpong" | "airhockey";
+  | "pingpong" | "airhockey" | "tennis";
 
 export const GAME_LABELS: Record<GameType, string> = {
   quickpick: "Quick Pick",
@@ -77,6 +77,7 @@ export const GAME_LABELS: Record<GameType, string> = {
   mazerush: "Maze Rush",
   pingpong: "Ping Pong",
   airhockey: "Air Hockey",
+  tennis: "Tennis",
 };
 
 // Games that have level-based difficulty
