@@ -208,7 +208,7 @@ const TimelineDuration: React.FC<TimelineDurationProps> = ({
           onChange={e => setInputVal(e.target.value)}
           disabled={submitted}
           placeholder="?"
-          className="w-20 text-center text-xl font-black border-2 border-teal-300 rounded-xl py-2 bg-white focus:border-teal-500 focus:outline-none disabled:opacity-60"
+          className="w-20 text-center text-xl font-black text-slate-800 border-2 border-teal-300 rounded-xl py-2 bg-white focus:border-teal-500 focus:outline-none disabled:opacity-60"
         />
         <span className="text-sm text-slate-500 font-medium">{t.hours}</span>
       </div>

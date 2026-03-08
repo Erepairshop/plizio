@@ -201,7 +201,7 @@ const MoneyCalculator: React.FC<MoneyCalculatorProps> = ({
           onChange={e => setInputVal(e.target.value)}
           disabled={submitted}
           placeholder="0,00"
-          className="w-28 text-center text-xl font-black border-2 border-green-300 rounded-xl py-2 bg-white focus:border-green-500 focus:outline-none disabled:opacity-60"
+          className="w-28 text-center text-xl font-black text-slate-800 border-2 border-green-300 rounded-xl py-2 bg-white focus:border-green-500 focus:outline-none disabled:opacity-60"
         />
         <span className="text-lg font-bold text-green-700">{t.currency}</span>
       </div>

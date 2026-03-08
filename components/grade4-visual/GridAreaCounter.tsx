@@ -231,7 +231,7 @@ const GridAreaCounter: React.FC<GridAreaCounterProps> = ({
           onChange={e => setInputVal(e.target.value)}
           disabled={submitted}
           placeholder={clicked.size > 0 ? String(clicked.size) : '?'}
-          className="w-20 text-center text-xl font-black border-2 border-amber-300 rounded-xl py-2 bg-white focus:border-amber-500 focus:outline-none disabled:opacity-60"
+          className="w-20 text-center text-xl font-black text-slate-800 border-2 border-amber-300 rounded-xl py-2 bg-white focus:border-amber-500 focus:outline-none disabled:opacity-60"
         />
         <span className="text-sm text-slate-500 font-medium">
           {mode === 'area' ? t.unit : t.unitPeri}

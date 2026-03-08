@@ -272,7 +272,7 @@ const PlaceValueGrid: React.FC<PlaceValueGridProps> = ({
             onChange={e => setComposeInput(e.target.value)}
             disabled={submitted}
             placeholder="?"
-            className="w-40 text-center text-2xl font-black border-2 border-violet-300 rounded-xl py-3 bg-white focus:border-violet-500 focus:outline-none disabled:opacity-60"
+            className="w-40 text-center text-2xl font-black text-slate-800 border-2 border-violet-300 rounded-xl py-3 bg-white focus:border-violet-500 focus:outline-none disabled:opacity-60"
           />
         </div>
       )}
