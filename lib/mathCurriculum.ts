@@ -539,6 +539,56 @@ const G4: Record<string, Generator> = {
     () => { const a = randInt(4, 14); return q(qSquareArea(a, cc), a*a, t("geometry", cc)); },
     () => { const a = randInt(4, 14); return q(qSquarePerimeter(a, cc), 4*a, t("geometry", cc)); },
   ])(),
+  // ─── NEW: Grade 4 Extensions ─────────────────────────────
+  rounding: (cc) => pick([
+    () => { const n = randInt(1, 99); return q(qRoundTo10(n, cc), Math.round(n / 10) * 10, t("rounding", cc)); },
+    () => { const n = randInt(10, 999); return q(qRoundTo100(n, cc), Math.round(n / 100) * 100, t("rounding", cc)); },
+  ])(),
+  largeNumbers: (cc) => {
+    const n = randInt(100000, 999999);
+    const positions = [
+      { key: "hundred-thousands", val: Math.floor(n / 100000) },
+      { key: "ten-thousands", val: Math.floor((n % 100000) / 10000) },
+      { key: "thousands", val: Math.floor((n % 10000) / 1000) },
+    ];
+    const p = pick(positions);
+    return q(qPlaceValue(n, p.key, cc), p.val, t("placeValue", cc));
+  },
+  writtenSubLarge: (cc) => {
+    const a = randInt(100000, 999999);
+    const b = randInt(1000, Math.min(a - 1000, 99999));
+    return q(`${a} − ${b} = ?`, a - b, t("writtenSub", cc));
+  },
+  writtenAddLarge: (cc) => {
+    const a = randInt(100000, 500000);
+    const b = randInt(100000, 500000);
+    if (a + b > 999999) return G4.writtenAddLarge(cc);
+    return q(`${a} + ${b} = ?`, a + b, t("writtenAdd", cc));
+  },
+  unitLengths: (cc) => {
+    if (cc === "US") {
+      return pick([
+        () => { const in_val = randInt(12, 36); return q(`${in_val} inches = ? feet (12 in = 1 ft)`, Math.floor(in_val / 12), t("unitConversion", cc)); },
+        () => { const ft = randInt(2, 6); return q(qFeetToInches(ft, cc), ft * 12, t("unitConversion", cc)); },
+        () => { const yd = randInt(2, 4); return q(qYardsToFeet(yd, cc), yd * 3, t("unitConversion", cc)); },
+      ])();
+    }
+    return pick([
+      () => { const m = randInt(2, 9); return q(`${m} m = ? cm`, m * 100, t("unitConversion", cc)); },
+      () => { const cm = randInt(200, 1000); return q(`${cm} cm = ? m`, cm / 100, t("unitConversion", cc)); },
+      () => { const km = randInt(2, 5); return q(qKmToM(km, cc), km * 1000, t("unitConversion", cc)); },
+    ])();
+  },
+  unitLengthsWord: (cc) => {
+    const dist = randInt(500, 2000);
+    const unit = cc === "US" ? "feet" : "meters";
+    const steps = Math.floor(dist / 100);
+    return q(`A runner covers ${dist} ${unit} in one lap. How many laps for 5000 ${unit}?`, Math.ceil(5000 / dist), t("wordProblem", cc), 0, true);
+  },
+  circleBasics: (cc) => pick([
+    () => { const r = randInt(2, 8); return q(qCircleCircumference(r, cc), Math.round(2 * Math.PI * r), t("geometry", cc)); },
+    () => { const r = randInt(2, 8); return q(qCircleArea(r, cc), Math.round(Math.PI * r * r), t("geometry", cc)); },
+  ])(),
 };
 
 // ─── GRADE 5 GENERATORS ─────────────────────────────
@@ -947,11 +997,11 @@ const GRADES_1_4: Record<number, Record<number, PeriodTopics>> = {
     5: { current: [G3.word1, G3.word2, G3.word3, G3.units, G3.clock3, G3.mul, G3.mulB, G3.div, G3.divB, G3.rounding100], review: [G3.writtenAdd, G3.writtenSub, G3.sequence] },
   },
   4: {
-    1: { current: [G4.placeValue, G4.writtenMul, G4.writtenMulB, G4.sequence, G4.geometry], review: [G3.mul, G3.div, G3.writtenAdd] },
-    2: { current: [G4.writtenMul, G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit, G4.geometry], review: [G4.placeValue, G4.placeValueBig] },
-    3: { current: [G4.fractions, G4.fractionAdd, G4.writtenMul, G4.writtenDiv, G4.divTwoDigit, G4.geometryB], review: [G4.placeValue, G4.sequence] },
-    4: { current: [G4.decimals, G4.fractions, G4.fractionAdd, G4.fractionSub, G4.units, G4.geometryB], review: [G4.writtenMul, G4.writtenDiv] },
-    5: { current: [G4.units, G4.volumeWord, G4.word1, G4.word2, G4.fractions, G4.fractionAdd, G4.fractionSub, G4.decimals, G4.sequence, G4.geometry], review: [G4.writtenMul, G4.writtenDiv, G4.divTwoDigit] },
+    1: { current: [G4.placeValue, G4.writtenMul, G4.writtenMulB, G4.sequence, G4.geometry, G4.rounding], review: [G3.mul, G3.div, G3.writtenAdd] },
+    2: { current: [G4.writtenMul, G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit, G4.geometry, G4.largeNumbers], review: [G4.placeValue, G4.placeValueBig] },
+    3: { current: [G4.fractions, G4.fractionAdd, G4.writtenMul, G4.writtenDiv, G4.divTwoDigit, G4.geometryB, G4.writtenAddLarge], review: [G4.placeValue, G4.sequence] },
+    4: { current: [G4.decimals, G4.fractions, G4.fractionAdd, G4.fractionSub, G4.units, G4.geometryB, G4.writtenSubLarge], review: [G4.writtenMul, G4.writtenDiv] },
+    5: { current: [G4.units, G4.volumeWord, G4.word1, G4.word2, G4.fractions, G4.fractionAdd, G4.fractionSub, G4.decimals, G4.sequence, G4.geometry, G4.unitLengths, G4.circleBasics], review: [G4.writtenMul, G4.writtenDiv, G4.divTwoDigit] },
   },
 };
 
