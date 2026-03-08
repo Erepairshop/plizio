@@ -53,6 +53,12 @@ export default function ChallengeOverlay() {
   const [avatarMood, setAvatarMood] = useState<"idle" | "surprised" | "happy" | "victory">("idle");
 
   const pollRef = useRef<ReturnType<typeof setInterval>>(undefined);
+  const dismissedRef = useRef<Set<string>>(new Set());
+  const challengeRef = useRef<MultiplayerMatch | null>(null);
+
+  // Keep refs in sync with state
+  useEffect(() => { dismissedRef.current = dismissed; }, [dismissed]);
+  useEffect(() => { challengeRef.current = challenge; }, [challenge]);
 
   useEffect(() => {
     setMyName(getUsername());
@@ -63,21 +69,25 @@ export default function ChallengeOverlay() {
     if (!myName || pathname === "/multiplayer") return;
 
     const check = async () => {
-      const pending = await getMyPendingChallenges();
-      if (pending.length > 0) {
-        const newest = pending[0];
-        if (!dismissed.has(newest.id) && (!challenge || challenge.id !== newest.id)) {
-          setChallenge(newest);
-          setPhase("incoming");
-          setAvatarMood("surprised");
+      try {
+        const pending = await getMyPendingChallenges();
+        if (pending.length > 0) {
+          const newest = pending[0];
+          if (!dismissedRef.current.has(newest.id) && (!challengeRef.current || challengeRef.current.id !== newest.id)) {
+            setChallenge(newest);
+            setPhase("incoming");
+            setAvatarMood("surprised");
+          }
         }
+      } catch {
+        // Silently ignore polling errors (network issues, 400s, etc.)
       }
     };
 
     check();
     pollRef.current = setInterval(check, 4000);
     return () => { if (pollRef.current) clearInterval(pollRef.current); };
-  }, [myName, pathname, dismissed, challenge]);
+  }, [myName, pathname]);
 
   const handleAccept = useCallback(async () => {
     if (!challenge) return;
