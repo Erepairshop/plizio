@@ -101,7 +101,7 @@ const T = {
 
 // ─── Game Constants ──────────────────────────────────────────
 const WIN_SCORE = 11;
-const BALL_RADIUS = 8;
+const BALL_RADIUS = 10;
 const SERVE_DELAY = 800; // ms before ball launches after point
 
 // AI difficulty settings
@@ -255,18 +255,24 @@ function PingPongPage() {
 
     const ai = AI_CONFIG[difficulty];
 
-    // ─── Table layout — vertical portrait table ───
-    const TABLE_PAD_X = 0.08;
-    const TABLE_PAD_TOP = 0.04;
-    const TABLE_PAD_BOT = 0.04;
-
+    // ─── Table layout — always portrait-oriented (taller than wide) ───
+    // On landscape screens, the table is centered horizontally with wider margins
     const tbl = () => {
       const w = W(), h = H();
-      const tL = w * TABLE_PAD_X;
-      const tR = w * (1 - TABLE_PAD_X);
-      const tT = h * TABLE_PAD_TOP;
-      const tB = h * (1 - TABLE_PAD_BOT);
-      return { tL, tR, tT, tB, tW: tR - tL, tH: tB - tT, w, h };
+      // Table should always be portrait: aspect ratio ~5:9 (width:height)
+      const maxTH = h * 0.92;
+      const maxTW = w * 0.84;
+      // Enforce portrait ratio: width should be ~56% of height
+      let tW = maxTW;
+      let tH = maxTH;
+      if (tW > tH * 0.56) tW = tH * 0.56; // too wide → narrow it
+      if (tH > tW / 0.56) tH = tW / 0.56; // too tall → shorten it (shouldn't happen)
+      // Center the table
+      const tL = (w - tW) / 2;
+      const tT = (h - tH) / 2;
+      const tR = tL + tW;
+      const tB = tT + tH;
+      return { tL, tR, tT, tB, tW, tH, w, h };
     };
 
     // Game state — all coords in 0..1 (mapped to TABLE area)
@@ -289,12 +295,11 @@ function PingPongPage() {
     };
     gameRef.current = game;
 
-    const PADDLE_Y_PLAYER = 0.90;
-    const PADDLE_Y_AI = 0.10;
+    const PADDLE_Y_PLAYER = 0.85;
+    const PADDLE_Y_AI = 0.15;
 
-    // Paddle dimensions (normalized) — horizontal oval
-    const PADDLE_HW = 0.09; // half-width (horizontal)
-    const PADDLE_HH = 0.012; // half-height (vertical, thin)
+    // Paddle dimensions (normalized) — circle
+    const PADDLE_R = 0.045; // normalized radius for collision
 
     // Reset ball for serve
     const resetBall = (playerServes: boolean) => {
@@ -350,7 +355,7 @@ function PingPongPage() {
       const clientX = "touches" in e ? e.touches[0]?.clientX ?? 0 : (e as PointerEvent).clientX;
       const { tL, tW } = tbl();
       const canvasX = (clientX - rect.left) / rect.width * W();
-      playerTargetX = Math.max(PADDLE_HW + 0.01, Math.min(1 - PADDLE_HW - 0.01, (canvasX - tL) / tW));
+      playerTargetX = Math.max(PADDLE_R + 0.01, Math.min(1 - PADDLE_R - 0.01, (canvasX - tL) / tW));
     };
     canvas.addEventListener("pointermove", handlePointer);
     canvas.addEventListener("pointerdown", handlePointer);
@@ -376,13 +381,13 @@ function PingPongPage() {
       const { tL, tR, tT, tB, tW, tH, w, h } = tbl();
 
       // Keyboard
-      if (keys.has("ArrowLeft") || keys.has("a")) playerTargetX = Math.max(PADDLE_HW + 0.01, playerTargetX - 0.02 * dt);
-      if (keys.has("ArrowRight") || keys.has("d")) playerTargetX = Math.min(1 - PADDLE_HW - 0.01, playerTargetX + 0.02 * dt);
+      if (keys.has("ArrowLeft") || keys.has("a")) playerTargetX = Math.max(PADDLE_R + 0.01, playerTargetX - 0.02 * dt);
+      if (keys.has("ArrowRight") || keys.has("d")) playerTargetX = Math.min(1 - PADDLE_R - 0.01, playerTargetX + 0.02 * dt);
 
       // Smooth player paddle
       game.playerX += (playerTargetX - game.playerX) * Math.min(1, 0.25 * dt);
       // Clamp player X within table
-      game.playerX = Math.max(PADDLE_HW + 0.01, Math.min(1 - PADDLE_HW - 0.01, game.playerX));
+      game.playerX = Math.max(PADDLE_R + 0.01, Math.min(1 - PADDLE_R - 0.01, game.playerX));
 
       // AI logic
       if (!game.serving || !game.playerServes) {
@@ -390,10 +395,10 @@ function PingPongPage() {
           ? game.ballX + game.ballVX * ((game.ballY - PADDLE_Y_AI) / Math.max(0.001, -game.ballVY))
             + (Math.random() - 0.5) * ai.predictError / tW
           : game.ballX;
-        const targetX = Math.max(PADDLE_HW + 0.01, Math.min(1 - PADDLE_HW - 0.01, predictedX + (Math.random() - 0.5) * ai.errorRange));
+        const targetX = Math.max(PADDLE_R + 0.01, Math.min(1 - PADDLE_R - 0.01, predictedX + (Math.random() - 0.5) * ai.errorRange));
         game.aiTargetX += (targetX - game.aiTargetX) * ai.reactionDelay * dt;
         game.aiX += (game.aiTargetX - game.aiX) * ai.speed * dt;
-        game.aiX = Math.max(PADDLE_HW + 0.01, Math.min(1 - PADDLE_HW - 0.01, game.aiX));
+        game.aiX = Math.max(PADDLE_R + 0.01, Math.min(1 - PADDLE_R - 0.01, game.aiX));
       }
 
       // Serve delay
@@ -413,30 +418,34 @@ function PingPongPage() {
         if (game.ballX < ballR) { game.ballX = ballR; game.ballVX = Math.abs(game.ballVX); }
         if (game.ballX > 1 - ballR) { game.ballX = 1 - ballR; game.ballVX = -Math.abs(game.ballVX); }
 
-        // Player paddle collision (bottom) — horizontal oval hitbox
-        if (game.ballVY > 0 && game.ballY + ballRY >= PADDLE_Y_PLAYER - PADDLE_HH && game.ballY < PADDLE_Y_PLAYER + PADDLE_HH * 2) {
+        // Player paddle collision (bottom) — circle hitbox
+        {
           const dx = game.ballX - game.playerX;
-          if (Math.abs(dx) <= PADDLE_HW + ballR) {
-            const hitPos = dx / PADDLE_HW; // -1..1
+          const dy = game.ballY - PADDLE_Y_PLAYER;
+          const dist = Math.sqrt(dx * dx + dy * dy);
+          if (game.ballVY > 0 && dist <= PADDLE_R + ballR) {
+            const hitPos = dx / PADDLE_R;
             const angle = hitPos * 0.7;
             game.ballSpeed = Math.min(game.ballSpeed * 1.04, 0.016);
             game.ballVX = Math.sin(angle) * game.ballSpeed;
             game.ballVY = -Math.cos(angle) * game.ballSpeed;
-            game.ballY = PADDLE_Y_PLAYER - PADDLE_HH - ballRY;
+            game.ballY = PADDLE_Y_PLAYER - PADDLE_R - ballRY;
             game.rallyCount++;
           }
         }
 
-        // AI paddle collision (top) — horizontal oval hitbox
-        if (game.ballVY < 0 && game.ballY - ballRY <= PADDLE_Y_AI + PADDLE_HH && game.ballY > PADDLE_Y_AI - PADDLE_HH * 2) {
+        // AI paddle collision (top) — circle hitbox
+        {
           const dx = game.ballX - game.aiX;
-          if (Math.abs(dx) <= PADDLE_HW + ballR) {
-            const hitPos = dx / PADDLE_HW;
+          const dy = game.ballY - PADDLE_Y_AI;
+          const dist = Math.sqrt(dx * dx + dy * dy);
+          if (game.ballVY < 0 && dist <= PADDLE_R + ballR) {
+            const hitPos = dx / PADDLE_R;
             const angle = hitPos * 0.7;
             game.ballSpeed = Math.min(game.ballSpeed * 1.04, 0.016);
             game.ballVX = Math.sin(angle) * game.ballSpeed;
             game.ballVY = Math.cos(angle) * game.ballSpeed;
-            game.ballY = PADDLE_Y_AI + PADDLE_HH + ballRY;
+            game.ballY = PADDLE_Y_AI + PADDLE_R + ballRY;
             game.rallyCount++;
           }
         }
@@ -506,76 +515,57 @@ function PingPongPage() {
       ctx.lineTo(tL + tW / 2, tB - inset);
       ctx.stroke();
 
-      // ─── Net (horizontal line at table center) ───
+      // ─── Net (simple white line at table center) ───
       const netY = tT + tH / 2;
-      // Net shadow
-      ctx.fillStyle = "rgba(0,0,0,0.06)";
-      ctx.fillRect(tL, netY + 1.5, tW, 3);
-      // Net body — thin white line
-      ctx.fillStyle = "rgba(255,255,255,0.9)";
-      ctx.fillRect(tL, netY - 1.5, tW, 3);
-      // Net mesh
-      ctx.strokeStyle = "rgba(180,180,180,0.3)";
-      ctx.lineWidth = 0.5;
-      for (let nx = tL + 6; nx < tR; nx += 6) {
-        ctx.beginPath();
-        ctx.moveTo(nx, netY - 1.5);
-        ctx.lineTo(nx, netY + 1.5);
-        ctx.stroke();
-      }
-      // Net posts — small circles at edges, outside table
-      ctx.fillStyle = "#555";
-      ctx.beginPath(); ctx.arc(tL - 3, netY, 3.5, 0, Math.PI * 2); ctx.fill();
-      ctx.beginPath(); ctx.arc(tR + 3, netY, 3.5, 0, Math.PI * 2); ctx.fill();
-      ctx.strokeStyle = "#333";
-      ctx.lineWidth = 1;
-      ctx.beginPath(); ctx.arc(tL - 3, netY, 3.5, 0, Math.PI * 2); ctx.stroke();
-      ctx.beginPath(); ctx.arc(tR + 3, netY, 3.5, 0, Math.PI * 2); ctx.stroke();
+      ctx.strokeStyle = "rgba(255,255,255,0.85)";
+      ctx.lineWidth = 2.5;
+      ctx.beginPath();
+      ctx.moveTo(tL, netY);
+      ctx.lineTo(tR, netY);
+      ctx.stroke();
 
       // ─── Helper: norm to pixel ───
       const toX = (nx: number) => tL + nx * tW;
       const toY = (ny: number) => tT + ny * tH;
 
-      // Pixel dimensions for paddle
-      const pxHW = PADDLE_HW * tW;  // half-width in px
-      const pxHH = Math.max(6, PADDLE_HH * tH); // half-height in px (min 6px)
+      // Pixel radius for paddle (circle)
+      const pxR = Math.max(14, Math.min(24, PADDLE_R * Math.min(tW, tH)));
 
-      // ─── Draw paddle (horizontal oval, like top-down view of racket) ───
+      // ─── Draw paddle (circle, like air hockey / simple ping pong) ───
       const drawPaddle = (nx: number, ny: number, headColor: string, headDark: string, handleColor: string, isBottom: boolean) => {
         const px = toX(nx);
         const py = toY(ny);
 
         // Shadow
-        ctx.fillStyle = "rgba(0,0,0,0.15)";
+        ctx.fillStyle = "rgba(0,0,0,0.18)";
         ctx.beginPath();
-        ctx.ellipse(px + 2, py + 2, pxHW + 2, pxHH + 2, 0, 0, Math.PI * 2);
+        ctx.arc(px + 2, py + 2, pxR + 1, 0, Math.PI * 2);
         ctx.fill();
 
         // Handle — short bar extending toward the player
-        const hLen = pxHH * 2.5;
-        const hW = pxHW * 0.18;
-        const hx = px - hW;
-        const hy = isBottom ? py + pxHH * 0.4 : py - pxHH * 0.4 - hLen;
-        const handleGrad = ctx.createLinearGradient(hx, hy, hx + hW * 2, hy);
+        const hLen = pxR * 0.9;
+        const hW = pxR * 0.3;
+        const hy = isBottom ? py + pxR * 0.5 : py - pxR * 0.5 - hLen;
+        const handleGrad = ctx.createLinearGradient(px - hW, hy, px + hW, hy);
         handleGrad.addColorStop(0, handleColor);
         handleGrad.addColorStop(0.5, "#B09070");
         handleGrad.addColorStop(1, handleColor);
         ctx.fillStyle = handleGrad;
         ctx.beginPath();
-        ctx.roundRect(hx, hy, hW * 2, hLen, 2);
+        ctx.roundRect(px - hW, hy, hW * 2, hLen, 3);
         ctx.fill();
         ctx.strokeStyle = "rgba(0,0,0,0.2)";
         ctx.lineWidth = 0.8;
         ctx.stroke();
 
-        // Paddle head — horizontal ellipse
-        const headGrad = ctx.createRadialGradient(px - pxHW * 0.2, py - pxHH * 0.3, 0, px, py, pxHW);
+        // Paddle head — circle
+        const headGrad = ctx.createRadialGradient(px - pxR * 0.25, py - pxR * 0.25, 0, px, py, pxR);
         headGrad.addColorStop(0, headColor);
         headGrad.addColorStop(0.7, headColor);
         headGrad.addColorStop(1, headDark);
         ctx.fillStyle = headGrad;
         ctx.beginPath();
-        ctx.ellipse(px, py, pxHW, pxHH, 0, 0, Math.PI * 2);
+        ctx.arc(px, py, pxR, 0, Math.PI * 2);
         ctx.fill();
 
         // Border
@@ -584,18 +574,17 @@ function PingPongPage() {
         ctx.stroke();
 
         // Center line texture
-        ctx.strokeStyle = "rgba(0,0,0,0.1)";
+        ctx.strokeStyle = "rgba(0,0,0,0.08)";
         ctx.lineWidth = 1;
         ctx.beginPath();
-        ctx.moveTo(px, py - pxHH * 0.6);
-        ctx.lineTo(px, py + pxHH * 0.6);
+        ctx.moveTo(px, py - pxR * 0.5);
+        ctx.lineTo(px, py + pxR * 0.5);
         ctx.stroke();
 
-        // Shine
-        ctx.fillStyle = "rgba(255,255,255,0.12)";
+        // Shine highlight
+        ctx.fillStyle = "rgba(255,255,255,0.15)";
         ctx.beginPath();
-        ctx.ellipse(px - pxHW * 0.15, py - pxHH * 0.2, pxHW * 0.5, pxHH * 0.4, -0.2, 0, 0);
-        ctx.ellipse(px - pxHW * 0.15, py - pxHH * 0.2, pxHW * 0.5, pxHH * 0.4, -0.2, 0, Math.PI * 2);
+        ctx.arc(px - pxR * 0.2, py - pxR * 0.2, pxR * 0.4, 0, Math.PI * 2);
         ctx.fill();
       };
 
