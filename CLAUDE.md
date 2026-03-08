@@ -379,6 +379,56 @@ activeLevel: number; completedLevels: number[]
 
 ---
 
+### Sky Climb (`app/skyclimb/page.tsx`) — state térkép
+
+**localStorage:** nincs expedition mentés (szintek nem mentődnek)
+
+**GameState:** `"menu" | "playing" | "dead" | "level-complete" | "reward"`
+
+**Pontozás:** magasság (height) méterben. Szint teljesítés = cél platform elérése.
+
+**Multiplayer architektúra:**
+
+**Broadcast channel:** `skyclimb-${matchId}` (Supabase Realtime)
+
+| Event | Payload | Küldés | Fogadás |
+|-------|---------|--------|---------|
+| `pos` | `{ p, x, y, z, fa }` | 120ms-enként (playing) | Ghost pozíció frissítés |
+| `died` | `{ p, height }` | Halálkor | `oppDied=true`, ghost eltűnik |
+| `finished` | `{ p }` | Cél elérésekor | `oppFinished=true` |
+| `avatar` | `{ p, avatar: GhostAvatarData }` | Subscribe-kor + 2s delay | Ghost kinézet renderelés |
+
+**GhostAvatarData:** `{ bodyColor, headColor, limbColor, shoeColor, hairColor, gender }`
+- Ghost opacity: 0.55 (55% átlátszó)
+- Pozíció interpoláció: `lerp(target, 0.2)` frame-enként
+- Halálkor: `visible = false`
+
+**multiResult score értékek:**
+| oppScore | Jelentés |
+|----------|---------|
+| `-1` | Várakozás az ellenfélre |
+| `999` | Ellenfél teljesítette a szintet |
+| `>= 0` | Ellenfél meghalt ezen a magasságon |
+
+**multiResult flow:**
+```
+I die/finish → submitScore() → setMultiResult({ myScore, oppScore: -1 })
+  → oppDied/oppFinished later → setMultiResult({ ..., oppScore: actual })
+  → MultiplayerResult megjelenik
+```
+
+**⚠️ KRITIKUS bug fix (2026-03-08):**
+A dead+waiting screen feltétele `(!multiResult || multiResult.oppScore === -1)` kell legyen, NEM `!multiResult`! Különben a `submitScore().then()` által beállított `oppScore:-1` eltünteti a várakozó képernyőt és sötét marad.
+
+**Reward flow multi módban:**
+- `reward` → ha `oppScore !== -1` → `level-complete` (→ MultiplayerResult)
+- `reward` → ha `oppScore === -1` → `dead` (várakozó spinner)
+
+**LEVEL_GAMES:** ✅ Igen, szintek 1-9 választhatók (10 nem)
+**Determinisztikus:** ✅ `generateLevel(lvl, matchSeed)` — mindkét játékos ugyanazokat a platformokat kapja
+
+---
+
 ### Kártya csererendszer (`app/collection/page.tsx`)
 - `MICRO_PER_CARD`: legendary=60, gold=6, silver=3, bronze=2 · `MICRO_PER_STAR`=60
 - Átváltás: 1 legendary=1⭐, 10 gold=1⭐, 20 silver=1⭐, 30 bronze=1⭐
