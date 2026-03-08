@@ -828,7 +828,7 @@ export function generateSchoolTest(
   // Resolve which topics to use — provided topics or first 3 of grade
   const effectiveTopics = (topicBlocks && topicBlocks.length > 0)
     ? topicBlocks
-    : getAllTopicsForGrade(grade, cc).slice(0, 3);
+    : getAllTopicsForGrade(grade, cc).slice(0, 4);
 
   if (effectiveTopics.length === 0) return [];
 

@@ -1432,7 +1432,7 @@ export default function MathTestPage() {
     body {
       font-family: 'Segoe UI', Arial, sans-serif;
       font-size: 11pt;
-      color: #1a1a2e;
+      color: #000000;
       background: white;
       background-image:
         linear-gradient(rgba(100,149,237,0.18) 1px, transparent 1px),
@@ -1460,7 +1460,7 @@ export default function MathTestPage() {
       font-weight: 900;
       letter-spacing: 1px;
       text-transform: uppercase;
-      color: #1a1a2e;
+      color: #000000;
       line-height: 1.1;
     }
     .header-left .grade-badge {
@@ -1468,7 +1468,7 @@ export default function MathTestPage() {
       margin-top: 4px;
       font-size: 9pt;
       font-weight: 700;
-      color: #4b5563;
+      color: #1a1a2e;
       letter-spacing: 0.05em;
       text-transform: uppercase;
       border: 1.5px solid #d1d5db;
@@ -1485,13 +1485,13 @@ export default function MathTestPage() {
       background: rgba(255,255,255,0.8);
       flex-shrink: 0;
     }
-    .score-box .score-label { font-size: 7pt; font-weight: 700; color: #6b7280; text-transform: uppercase; letter-spacing: 0.08em; }
-    .score-box .score-value { font-size: 18pt; font-weight: 900; color: #1a1a2e; line-height: 1.1; }
-    .score-box .score-total { font-size: 8pt; color: #9ca3af; }
+    .score-box .score-label { font-size: 7pt; font-weight: 700; color: #1a1a2e; text-transform: uppercase; letter-spacing: 0.08em; }
+    .score-box .score-value { font-size: 18pt; font-weight: 900; color: #000000; line-height: 1.1; }
+    .score-box .score-total { font-size: 8pt; color: #1a1a2e; }
 
     .fields { display: flex; gap: 16px; flex-wrap: wrap; }
     .field { flex: 1; min-width: 150px; }
-    .field label { font-size: 7.5pt; font-weight: 700; color: #6b7280; text-transform: uppercase; letter-spacing: 0.06em; display: block; margin-bottom: 2px; }
+    .field label { font-size: 7.5pt; font-weight: 700; color: #1a1a2e; text-transform: uppercase; letter-spacing: 0.06em; display: block; margin-bottom: 2px; }
     .field .line {
       border-bottom: 1.5px solid #374151;
       min-height: 22px;
@@ -1504,7 +1504,7 @@ export default function MathTestPage() {
       font-weight: 800;
       text-transform: uppercase;
       letter-spacing: 0.1em;
-      color: #6b7280;
+      color: #1a1a2e;
       margin: 18px 0 6px 0;
       padding-bottom: 3px;
       border-bottom: 1px dashed #d1d5db;
@@ -1522,9 +1522,9 @@ export default function MathTestPage() {
       gap: 6px;
       margin-bottom: 4px;
     }
-    .q-num { font-weight: 800; font-size: 11pt; min-width: 22px; color: #1a1a2e; }
-    .q-text { flex: 1; font-size: 11pt; line-height: 1.4; color: #1a1a2e; }
-    .q-pts { font-size: 8pt; color: #9ca3af; white-space: nowrap; font-style: italic; margin-top: 2px; }
+    .q-num { font-weight: 800; font-size: 11pt; min-width: 22px; color: #000000; }
+    .q-text { flex: 1; font-size: 11pt; line-height: 1.4; color: #000000; }
+    .q-pts { font-size: 8pt; color: #1a1a2e; white-space: nowrap; font-style: italic; margin-top: 2px; }
     .answer-box {
       margin-top: 4px;
       margin-left: 28px;
