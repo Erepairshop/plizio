@@ -1792,6 +1792,16 @@ export function qMinutesToHours(min: number, countryCode: string): string {
   }
 }
 
+export function qRunnerLaps(distPerLap: number, totalDist: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Läufer läuft pro Runde ${distPerLap} m. Wie viele Runden braucht er für ${totalDist} m?`;
+    case "EN": return `A runner covers ${distPerLap} m per lap. How many laps for ${totalDist} m?`;
+    case "RO": return `Un alergător parcurge ${distPerLap} m pe tur. Câte tururi pentru ${totalDist} m?`;
+    default:   return `Egy futó köröként ${distPerLap} m-t tesz meg. Hány kör kell ${totalDist} m-hez?`;
+  }
+}
+
 export function qChangeBack(item: string, price: number, paid: number, currency: string, countryCode: string): string {
   const lang = getLang(countryCode);
   switch (lang) {
