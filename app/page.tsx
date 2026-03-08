@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Home as HomeIcon, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Home as HomeIcon, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap";
@@ -82,6 +82,8 @@ const TRANSLATIONS = {
       numberpath: "Number Path",
       minisudoku: "Mini Sudoku",
       lightout: "Light Out",
+      numbermerge: "Number Merge",
+      nonogram: "Nonogram",
       pliziolife: "Plizio Life",
     },
     ui: {
@@ -114,6 +116,8 @@ const TRANSLATIONS = {
       numberpath: "Számút",
       minisudoku: "Mini Sudoku",
       lightout: "Light Out",
+      numbermerge: "Number Merge",
+      nonogram: "Nonogram",
       pliziolife: "Plizio Life",
     },
     ui: {
@@ -146,6 +150,8 @@ const TRANSLATIONS = {
       numberpath: "Zahlenpfad",
       minisudoku: "Mini Sudoku",
       lightout: "Light Out",
+      numbermerge: "Number Merge",
+      nonogram: "Nonogram",
       pliziolife: "Plizio Life",
     },
     ui: {
@@ -178,6 +184,8 @@ const TRANSLATIONS = {
       numberpath: "Calea Numerelor",
       minisudoku: "Mini Sudoku",
       lightout: "Light Out",
+      numbermerge: "Number Merge",
+      nonogram: "Nonogram",
       pliziolife: "Plizio Life",
     },
     ui: {
@@ -347,6 +355,20 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         color: "#FFD700",
         gradient: "bg-gradient-to-br from-yellow-500/20 to-amber-500/20",
       },
+      {
+        id: "numbermerge",
+        icon: Merge,
+        nameKey: "numbermerge",
+        color: "#FF2D78",
+        gradient: "bg-gradient-to-br from-pink-500/20 to-red-500/20",
+      },
+      {
+        id: "nonogram",
+        icon: Grid3x3,
+        nameKey: "nonogram",
+        color: "#B44DFF",
+        gradient: "bg-gradient-to-br from-purple-500/20 to-indigo-500/20",
+      },
     ],
   },
 ];
@@ -421,7 +443,7 @@ const GAME_TO_CATEGORY: Record<string, string> = {
   kodex: "quizreflex",
   skyclimb: "adventure", citydrive: "adventure", racetrack: "adventure", pliziolife: "adventure",
   mathtest: "brain", deutschtest: "brain",
-  numberpath: "logic", minisudoku: "logic", lightout: "logic",
+  numberpath: "logic", minisudoku: "logic", lightout: "logic", numbermerge: "logic", nonogram: "logic",
 };
 
 function getLastPlayedCategory(): string | null {

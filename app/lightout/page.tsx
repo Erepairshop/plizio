@@ -436,15 +436,15 @@ function LightOutPage() {
           {/* Header */}
           <div className="flex items-center justify-between px-4 pt-4 pb-2">
             <Link href="/">
-              <motion.div className="text-white/40 text-sm font-medium" whileTap={{ scale: 0.95 }}>{t.home}</motion.div>
+              <motion.div className="text-white/70 text-sm font-medium" whileTap={{ scale: 0.95 }}>{t.home}</motion.div>
             </Link>
-            <div className="text-white/30 text-xs">{save.completedLevels.length}/10 {t.levelsOf}</div>
+            <div className="text-white/60 text-xs">{save.completedLevels.length}/10 {t.levelsOf}</div>
           </div>
 
           {/* Title */}
           <div className="text-center px-4 pb-4">
             <h1 className="text-2xl font-black tracking-wider" style={{ color: "#00FF88", filter: "drop-shadow(0 0 8px rgba(0,255,136,0.3))" }}>{t.title}</h1>
-            <p className="text-white/30 text-xs mt-1">{t.subtitle}</p>
+            <p className="text-white/60 text-xs mt-1">{t.subtitle}</p>
           </div>
 
           {/* Avatar */}
@@ -483,7 +483,7 @@ function LightOutPage() {
                           {isBoss && <span className="text-yellow-400">{t.boss}</span>}
                           {t.levelLabel} {lvl.level}
                         </div>
-                        <div className="text-white/30 text-[10px]">
+                        <div className="text-white/60 text-[10px]">
                           {lvl.gridSize}×{lvl.gridSize} · {lvl.timeLimit > 0 ? `${lvl.timeLimit}s` : "∞"} · {t.par} {lvl.parMoves}
                         </div>
                       </div>
@@ -513,18 +513,18 @@ function LightOutPage() {
           <div className="flex items-center justify-between px-4 py-3">
             <button
               onClick={() => { if (isMultiplayer) setShowExitConfirm(true); else { setAvatarMood("idle"); stopTimer(); setScreen("expedition"); } }}
-              className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/50 hover:bg-white/20 hover:text-white transition-colors"
+              className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"
             ><X size={14} /></button>
             <div className="flex items-center gap-4 text-xs font-bold">
-              <div className="text-white/50">{t.levelLabel} {activeLevel}</div>
-              <div><span className="text-[#00FF88]">{moves}</span><span className="text-white/30">/{cfg.parMoves} {t.moves}</span></div>
+              <div className="text-white/80">{t.levelLabel} {activeLevel}</div>
+              <div><span className="text-[#00FF88]">{moves}</span><span className="text-white/60">/{cfg.parMoves} {t.moves}</span></div>
               {cfg.timeLimit > 0 && (
-                <div className={timeLeft <= 10 ? "text-red-400 animate-pulse" : "text-white/50"}>
+                <div className={timeLeft <= 10 ? "text-red-400 animate-pulse" : "text-white/80"}>
                   {Math.floor(timeLeft / 60)}:{(timeLeft % 60).toString().padStart(2, "0")}
                 </div>
               )}
             </div>
-            <div className="text-white/30 text-xs font-bold">{lightsOn} 💡</div>
+            <div className="text-white/70 text-xs font-bold">{lightsOn} 💡</div>
           </div>
 
           {/* Grid */}
@@ -569,13 +569,13 @@ function LightOutPage() {
           </div>
 
           {/* Hint */}
-          <div className="text-center text-white/20 text-[10px] px-4 pb-3">{t.hint}</div>
+          <div className="text-center text-white/50 text-[10px] px-4 pb-3">{t.hint}</div>
 
           {/* Reset button */}
           <div className="flex justify-center pb-4">
             <motion.button
               onClick={() => startLevel(activeLevel)}
-              className="flex items-center gap-2 px-4 py-2 rounded-xl bg-white/5 border border-white/10 text-white/40 text-xs font-bold hover:bg-white/10 transition-colors"
+              className="flex items-center gap-2 px-4 py-2 rounded-xl bg-white/5 border border-white/10 text-white/70 text-xs font-bold hover:bg-white/10 transition-colors"
               whileTap={{ scale: 0.95 }}
             >
               <RotateCcw size={12} /> {t.retry}
@@ -609,12 +609,12 @@ function LightOutPage() {
             <h2 className="text-xl font-black" style={{ color: "#00FF88" }}>
               {activeLevel === 10 ? t.bossDone : t.levelDone}
             </h2>
-            <p className="text-white/40 text-sm mt-1">{moves} {t.moves} ({t.par}: {cfg.parMoves})</p>
+            <p className="text-white/70 text-sm mt-1">{moves} {t.moves} ({t.par}: {cfg.parMoves})</p>
           </div>
           <div className="flex gap-3">
             <motion.button
               onClick={() => { setAvatarMood("idle"); setScreen("expedition"); }}
-              className="px-5 py-2.5 rounded-xl bg-white/5 border border-white/10 text-white/60 text-sm font-bold"
+              className="px-5 py-2.5 rounded-xl bg-white/5 border border-white/10 text-white/80 text-sm font-bold"
               whileTap={{ scale: 0.95 }}
             >{t.expeditionMap}</motion.button>
             {activeLevel < 10 && (
@@ -637,11 +637,11 @@ function LightOutPage() {
             <AvatarCompanion fixed={false} mood="disappointed" {...avatarProps} />
           </motion.div>
           <h2 className="text-xl font-black text-red-400">{t.timeUp}</h2>
-          <p className="text-white/30 text-sm">{lightsOn} {t.lightsLeft}</p>
+          <p className="text-white/60 text-sm">{lightsOn} {t.lightsLeft}</p>
           <div className="flex gap-3">
             <motion.button
               onClick={() => { setAvatarMood("idle"); setScreen("expedition"); }}
-              className="px-5 py-2.5 rounded-xl bg-white/5 border border-white/10 text-white/60 text-sm font-bold"
+              className="px-5 py-2.5 rounded-xl bg-white/5 border border-white/10 text-white/80 text-sm font-bold"
               whileTap={{ scale: 0.95 }}
             >{t.expeditionMap}</motion.button>
             <motion.button
@@ -658,7 +658,7 @@ function LightOutPage() {
         <motion.div className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm gap-5 px-6"
           initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
           <motion.div className="text-3xl font-black text-[#00FF88]">{moves} {t.moves}</motion.div>
-          {isMix && <span className="text-white/30 text-xs font-bold uppercase">Round {mixround} ✓</span>}
+          {isMix && <span className="text-white/60 text-xs font-bold uppercase">Round {mixround} ✓</span>}
           <motion.div className="w-10 h-10 border-2 border-[#00FF88] border-t-transparent rounded-full"
             animate={{ rotate: 360 }} transition={{ repeat: Infinity, duration: 1, ease: "linear" }} />
           <span className="text-white/60 text-sm font-medium text-center">{t.waiting} {opponentName}...</span>
