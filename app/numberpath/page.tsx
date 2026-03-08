@@ -1,6 +1,7 @@
 "use client";
 
-import { useState, useEffect, useCallback, useRef } from "react";
+import { useState, useEffect, useCallback, useRef, Suspense } from "react";
+import { useSearchParams, useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { GitBranch, Home, RotateCcw, Lock, Check, ChevronRight, Eraser } from "lucide-react";
 import Link from "next/link";
@@ -16,6 +17,11 @@ import { getActiveFace, getFaceDef } from "@/lib/faces";
 import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
 import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
 import { useLang } from "@/components/LanguageProvider";
+import MultiplayerExitConfirm from "@/components/MultiplayerExitConfirm";
+import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
+import { submitScore, abandonMatch, submitMixRoundScore, pollMixRound } from "@/lib/multiplayer";
+import { getUsername } from "@/lib/username";
+import MultiplayerResult from "@/components/MultiplayerResult";
 
 // ─── i18n ─────────────────────────────────────────────────────────────────────
 const T = {
@@ -200,13 +206,30 @@ function loadSave(): NPSave {
 }
 function writeSave(s: NPSave) { localStorage.setItem(SAVE_KEY, JSON.stringify(s)); }
 
-type Screen = "expedition" | "playing" | "reward" | "levelComplete" | "levelFailed";
+type Screen = "expedition" | "playing" | "reward" | "levelComplete" | "levelFailed" | "multi-waiting" | "multi-result";
 type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory" | "surprised" | "confused" | "laughing";
 
 // ─── Main Component ────────────────────────────────────────────────────────────
-export default function NumberPathPage() {
+
+export default function NumberPathPageWrapper() {
+  return <Suspense><NumberPathPage /></Suspense>;
+}
+
+function NumberPathPage() {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
+  const searchParams = useSearchParams();
+  const router = useRouter();
+
+  // ── Multiplayer params ───────────────────────────────────────────────────────
+  const matchId = searchParams.get("match");
+  const seed = searchParams.get("seed");
+  const playerNum = searchParams.get("p");
+  const opponentName = searchParams.get("vs") || "???";
+  const urlLevel = searchParams.get("level");
+  const mixround = searchParams.get("mixround");
+  const isMultiplayer = !!matchId;
+  const isMix = !!mixround;
 
   // ── Avatar — useState(null) + useEffect (same as reflexrush/numberrush) ──────
   const [avatarGender,  setAvatarGender]  = useState<AvatarGender>("girl");
@@ -253,12 +276,29 @@ export default function NumberPathPage() {
 
   useEffect(() => { setSave(loadSave()); }, []);
 
+  // Auto-start multiplayer at specified level
+  const multiStarted = useRef(false);
+  useEffect(() => {
+    if (isMultiplayer && urlLevel && !multiStarted.current) {
+      multiStarted.current = true;
+      const lv = Math.min(9, Math.max(1, parseInt(urlLevel) || 1));
+      setTimeout(() => startLevel(lv), 100);
+    }
+  }, [isMultiplayer, urlLevel]); // eslint-disable-line react-hooks/exhaustive-deps
+
   // ── Game state ─────────────────────────────────────────────────────────────────
   const [puzzle,       setPuzzle]      = useState<NPPuzzle | null>(null);
   const [pathState,    setPathState]   = useState<number[]>([]);
   const [invalidFlash, setInvalidFlash] = useState<number | null>(null);
   const [timeLeft,     setTimeLeft]    = useState(0);
   const [earnedCard,   setEarnedCard]  = useState<CardRarity | null>(null);
+
+  // ── Multiplayer state ──────────────────────────────────────────────────────
+  const [showExitConfirm, setShowExitConfirm] = useState(false);
+  const [oppFinalScore, setOppFinalScore] = useState<number | null>(null);
+  const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
+  const [mixFinished, setMixFinished] = useState(false);
+  const [scoreSubmitted, setScoreSubmitted] = useState(false);
 
   // Refs for stable access in event handlers
   const pathRef        = useRef<number[]>([]);
@@ -301,8 +341,26 @@ export default function NumberPathPage() {
     const cfg = cfgRef.current;
     const rarity = calcRarity(finalTimeLeft, cfg.timeLimit, cfg.level);
     saveCard({ id: generateCardId(), game: "numberpath", rarity, score: finalPath.length, total: cfg.gridSize ** 2, date: new Date().toISOString() });
+    window.dispatchEvent(new Event("plizio-cards-changed"));
     setEarnedCard(rarity);
     incrementTotalGames();
+
+    if (isMultiplayer && matchId && !scoreSubmitted) {
+      setScoreSubmitted(true);
+      triggerAvatar("happy", 99999, "victory");
+      const finalScore = finalPath.length;
+      if (isMix) {
+        submitMixRoundScore(matchId, finalScore, playerNum === "1").then(() => {
+          setScreen("multi-waiting");
+        });
+      } else {
+        submitScore(matchId, finalScore, playerNum === "1").then(() => {
+          setScreen("multi-waiting");
+        });
+      }
+      return;
+    }
+
     triggerAvatar(cfg.level === 10 ? "victory" : "happy", 3000, cfg.level === 10 ? "victory" : "happy");
     const currentSave = saveRef.current;
     const newSave: NPSave = {
@@ -316,6 +374,21 @@ export default function NumberPathPage() {
 
   function handleTimeout() {
     stopTimer();
+    if (isMultiplayer && matchId && !scoreSubmitted) {
+      setScoreSubmitted(true);
+      triggerAvatar("confused", 2000, "confused");
+      const currentScore = pathRef.current.length;
+      if (isMix) {
+        submitMixRoundScore(matchId, currentScore, playerNum === "1").then(() => {
+          setScreen("multi-waiting");
+        });
+      } else {
+        submitScore(matchId, currentScore, playerNum === "1").then(() => {
+          setScreen("multi-waiting");
+        });
+      }
+      return;
+    }
     triggerAvatar("disappointed", 3000);
     setScreen("levelFailed");
   }
@@ -528,8 +601,50 @@ export default function NumberPathPage() {
     jumpTrigger: avatarJump,
   };
 
+  // ── Multiplayer: poll for opponent ──────────────────────────────────────────
+  useEffect(() => {
+    if (screen !== "multi-waiting" || !isMultiplayer || !matchId) return;
+    const isP1 = playerNum === "1";
+
+    const checkMatch = async () => {
+      if (isMix) {
+        const result = await pollMixRound(matchId, parseInt(mixround || "1"), isP1, opponentName);
+        if (result.action === "finished") {
+          setMyFinalScore(result.myWins);
+          setOppFinalScore(result.oppWins);
+          setMixFinished(true);
+          setScreen("multi-result");
+          return true;
+        }
+        if (result.action === "next") {
+          router.push(result.url);
+          return true;
+        }
+        return false;
+      } else {
+        const { supabase } = await import("@/lib/supabase/client");
+        const { data } = await supabase.from("multiplayer_matches").select("*").eq("id", matchId).single();
+        if (!data) return false;
+        const oppDone = isP1 ? data.player2_done : data.player1_done;
+        const oppScoreVal = isP1 ? data.player2_score : data.player1_score;
+        if (oppDone && oppScoreVal !== null) {
+          setOppFinalScore(oppScoreVal);
+          setScreen("multi-result");
+          return true;
+        }
+        return false;
+      }
+    };
+    checkMatch();
+    const interval = setInterval(async () => {
+      const done = await checkMatch();
+      if (done) clearInterval(interval);
+    }, 2000);
+    return () => clearInterval(interval);
+  }, [screen, isMultiplayer, matchId, isMix, playerNum, router, opponentName, mixround]);
+
   // ─── EXPEDITION SCREEN ────────────────────────────────────────────────────────
-  if (screen === "expedition") {
+  if (screen === "expedition" && !isMultiplayer) {
     return (
       <div className="min-h-screen bg-[#0A0A1A] text-white select-none">
         <AvatarCompanion {...avatarProps} fixed />
@@ -654,7 +769,10 @@ export default function NumberPathPage() {
         <AvatarCompanion {...avatarProps} fixed />
         {/* Header */}
         <div className="px-4 pt-4 pb-1 flex items-center justify-between flex-shrink-0">
-          <button onClick={() => { stopTimer(); setScreen("expedition"); }} className="text-white/60">
+          <button onClick={() => {
+            if (isMultiplayer) { setShowExitConfirm(true); }
+            else { stopTimer(); setScreen("expedition"); }
+          }} className="text-white/60">
             <Home size={20} />
           </button>
           <div className="text-center">
@@ -754,6 +872,18 @@ export default function NumberPathPage() {
             <RotateCcw size={14} /> {t.newPuzzle}
           </button>
         </div>
+
+        {/* Multiplayer overlays */}
+        {isMultiplayer && matchId && (
+          <>
+            <MultiplayerExitConfirm
+              open={showExitConfirm}
+              onStay={() => setShowExitConfirm(false)}
+              onLeave={() => { abandonMatch(matchId); router.push("/multiplayer"); }}
+            />
+            <MultiplayerAbandonNotice matchId={matchId} opponentName={opponentName} />
+          </>
+        )}
       </div>
     );
   }
@@ -847,6 +977,59 @@ export default function NumberPathPage() {
           </div>
         </motion.div>
       </div>
+    );
+  }
+
+  // ─── MULTI WAITING ─────────────────────────────────────────────────────────
+  if (screen === "multi-waiting") {
+    const cfg = cfgRef.current;
+    const currentScore = pathRef.current.length;
+    const total = cfg.gridSize * cfg.gridSize;
+    return (
+      <div className="min-h-screen bg-[#0A0A1A] text-white select-none">
+        <motion.div
+          className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm gap-5 px-6"
+          initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+        >
+          <motion.div
+            className="text-3xl font-black text-[#00FF88]"
+            style={{ textShadow: "0 0 20px rgba(0,255,136,0.4)" }}
+            initial={{ scale: 0.8 }} animate={{ scale: 1 }}
+          >
+            {currentScore}/{total}
+          </motion.div>
+          {isMix && (
+            <span className="text-white/30 text-xs font-bold uppercase">
+              Round {mixround} ✓
+            </span>
+          )}
+          <motion.div
+            className="w-10 h-10 border-2 border-[#00FF88] border-t-transparent rounded-full"
+            animate={{ rotate: 360 }}
+            transition={{ repeat: Infinity, duration: 1, ease: "linear" }}
+          />
+          <span className="text-white/60 text-sm font-medium text-center">
+            {lang === "hu" ? `Várakozás ${opponentName}-ra...` :
+             lang === "de" ? `Warte auf ${opponentName}...` :
+             lang === "ro" ? `Se așteaptă ${opponentName}...` :
+             `Waiting for ${opponentName}...`}
+          </span>
+        </motion.div>
+      </div>
+    );
+  }
+
+  // ─── MULTI RESULT ──────────────────────────────────────────────────────────
+  if (screen === "multi-result" && oppFinalScore !== null) {
+    const currentScore = pathRef.current.length;
+    return (
+      <MultiplayerResult
+        myScore={myFinalScore !== null ? myFinalScore : currentScore}
+        oppScore={oppFinalScore}
+        myName={getUsername() || "???"}
+        oppName={opponentName}
+        onContinue={() => router.push("/multiplayer")}
+      />
     );
   }
 

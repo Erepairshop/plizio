@@ -1,6 +1,7 @@
 "use client";
 
-import { useState, useEffect, useCallback, useRef } from "react";
+import { useState, useEffect, useCallback, useRef, Suspense } from "react";
+import { useSearchParams, useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { ArrowLeft, RotateCcw, Trophy, Timer, Delete, CheckCircle, XCircle, ChevronRight, Home } from "lucide-react";
 import Link from "next/link";
@@ -16,6 +17,11 @@ import { getFaceDef, getActiveFace } from "@/lib/faces";
 import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
 import { getHatDef, getActiveHat, getTrailDef, getActiveTrail } from "@/lib/accessories";
 import AvatarCompanion from "@/components/AvatarCompanion";
+import MultiplayerExitConfirm from "@/components/MultiplayerExitConfirm";
+import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
+import { submitScore, abandonMatch, submitMixRoundScore, pollMixRound } from "@/lib/multiplayer";
+import { getUsername } from "@/lib/username";
+import MultiplayerResult from "@/components/MultiplayerResult";
 import wordsEn from "@/data/words.json";
 import wordsHu from "@/data/words-hu.json";
 import wordsDe from "@/data/words-de.json";
@@ -23,7 +29,7 @@ import wordsRo from "@/data/words-ro.json";
 
 // ─── TYPES ────────────────────────────────────────────────────────────────────
 type WSBadgeId = "reveal" | "time" | "reshuffle" | "shield";
-type Screen = "expedition" | "playing" | "levelComplete" | "failed" | "complete" | "reward";
+type Screen = "expedition" | "playing" | "levelComplete" | "failed" | "complete" | "reward" | "multi-waiting" | "multi-result";
 type WordState = "playing" | "correct" | "wrong" | "timeout";
 
 interface WSLevelConfig {
@@ -285,9 +291,25 @@ function freshExpedition(): WSExpeditionSave {
 }
 
 // ─── COMPONENT ────────────────────────────────────────────────────────────────
-export default function WordScramblePage() {
+export default function WordScramblePageWrapper() {
+  return <Suspense><WordScramblePage /></Suspense>;
+}
+
+function WordScramblePage() {
   const { lang } = useLang();
   const t = T[lang as Language] ?? T.en;
+  const searchParams = useSearchParams();
+  const router = useRouter();
+
+  // ── Multiplayer params ──
+  const matchId = searchParams.get("match");
+  const seed = searchParams.get("seed");
+  const playerNum = searchParams.get("p");
+  const opponentName = searchParams.get("vs") || "???";
+  const urlLevel = searchParams.get("level");
+  const mixround = searchParams.get("mixround");
+  const isMultiplayer = !!matchId;
+  const isMix = !!mixround;
 
   // ── Screens ──
   const [screen, setScreen] = useState<Screen>("expedition");
@@ -314,6 +336,13 @@ export default function WordScramblePage() {
   const [earnedCard, setEarnedCard] = useState<CardRarity | null>(null);
   const [earnedBadge, setEarnedBadge] = useState<WSBadgeId | null>(null);
   const [jumpTrigger, setJumpTrigger] = useState<{ reaction: "happy" | "victory" | null; timestamp: number } | undefined>(undefined);
+
+  // ── Multiplayer state ──
+  const [showExitConfirm, setShowExitConfirm] = useState(false);
+  const [oppFinalScore, setOppFinalScore] = useState<number | null>(null);
+  const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
+  const [mixFinished, setMixFinished] = useState(false);
+  const [scoreSubmitted, setScoreSubmitted] = useState(false);
 
   // ── Avatar ──
   const [gender, setGenderState] = useState<AvatarGender>("girl");
@@ -350,6 +379,16 @@ export default function WordScramblePage() {
       catch { setExped(freshExpedition()); }
     }
   }, []);
+
+  // Auto-start multiplayer at specified level
+  const multiStarted = useRef(false);
+  useEffect(() => {
+    if (isMultiplayer && urlLevel && !multiStarted.current) {
+      multiStarted.current = true;
+      const lv = Math.min(9, Math.max(1, parseInt(urlLevel) || 1));
+      setTimeout(() => startLevel(lv, exped), 100);
+    }
+  }, [isMultiplayer, urlLevel]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const saveExped = useCallback((e: WSExpeditionSave) => {
     setExped(e);
@@ -491,7 +530,26 @@ export default function WordScramblePage() {
       rarity = raw === "legendary" ? "gold" : raw;
     }
     saveCard({ id: generateCardId(), game: "wordscramble", rarity, score: finalScore, total: levelCfg.wordCount, date: new Date().toISOString() });
+    window.dispatchEvent(new Event("plizio-cards-changed"));
     setEarnedCard(rarity);
+
+    // ── Multiplayer: submit score and go to waiting ──
+    if (isMultiplayer && matchId && !scoreSubmitted) {
+      setScoreSubmitted(true);
+      if (passed) {
+        setJumpTrigger({ reaction: "victory", timestamp: Date.now() });
+      }
+      if (isMix) {
+        submitMixRoundScore(matchId, finalScore, playerNum === "1").then(() => {
+          setScreen("multi-waiting");
+        });
+      } else {
+        submitScore(matchId, finalScore, playerNum === "1").then(() => {
+          setScreen("multi-waiting");
+        });
+      }
+      return;
+    }
 
     if (!passed) {
       setScreen("failed");
@@ -516,7 +574,7 @@ export default function WordScramblePage() {
       setScreen("levelComplete");
     }
   // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [saveExped]);
+  }, [saveExped, isMultiplayer, matchId, isMix, playerNum, scoreSubmitted]);
 
   // ── Badge usage ──
   const useBadge = useCallback((badgeId: WSBadgeId) => {
@@ -599,10 +657,52 @@ export default function WordScramblePage() {
 
   const timerColor = timeLeft <= 3 ? "text-neon-pink" : timeLeft <= 7 ? "text-gold" : "text-neon-green";
 
+  // ── Multiplayer: poll for opponent ──────────────────────────────────────────
+  useEffect(() => {
+    if (screen !== "multi-waiting" || !isMultiplayer || !matchId) return;
+    const isP1 = playerNum === "1";
+
+    const checkMatch = async () => {
+      if (isMix) {
+        const result = await pollMixRound(matchId, parseInt(mixround || "1"), isP1, opponentName);
+        if (result.action === "finished") {
+          setMyFinalScore(result.myWins);
+          setOppFinalScore(result.oppWins);
+          setMixFinished(true);
+          setScreen("multi-result");
+          return true;
+        }
+        if (result.action === "next") {
+          router.push(result.url);
+          return true;
+        }
+        return false;
+      } else {
+        const { supabase } = await import("@/lib/supabase/client");
+        const { data } = await supabase.from("multiplayer_matches").select("*").eq("id", matchId).single();
+        if (!data) return false;
+        const oppDone = isP1 ? data.player2_done : data.player1_done;
+        const oppScoreVal = isP1 ? data.player2_score : data.player1_score;
+        if (oppDone && oppScoreVal !== null) {
+          setOppFinalScore(oppScoreVal);
+          setScreen("multi-result");
+          return true;
+        }
+        return false;
+      }
+    };
+    checkMatch();
+    const interval = setInterval(async () => {
+      const done = await checkMatch();
+      if (done) clearInterval(interval);
+    }, 2000);
+    return () => clearInterval(interval);
+  }, [screen, isMultiplayer, matchId, isMix, playerNum, router, opponentName, mixround]);
+
   // ═══════════════════════════════════════════════════════════════════
   // ── EXPEDITION HOME SCREEN ──────────────────────────────────────────
   // ═══════════════════════════════════════════════════════════════════
-  if (screen === "expedition") {
+  if (screen === "expedition" && !isMultiplayer) {
     const hasProgress = exped.completedLevels.length > 0;
     return (
       <div className="flex flex-col min-h-screen pb-24">
@@ -755,11 +855,15 @@ export default function WordScramblePage() {
         {/* HUD */}
         <div className="w-full max-w-md pt-4 pb-2">
           <div className="flex items-center justify-between mb-2">
-            <Link href="/">
-              <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2">
-                <ArrowLeft size={16} className="text-white/40" />
-              </div>
-            </Link>
+            <button
+              onClick={() => {
+                if (isMultiplayer) { setShowExitConfirm(true); }
+                else { window.location.href = "/"; }
+              }}
+              className="bg-black/40 backdrop-blur-sm rounded-xl p-2"
+            >
+              <ArrowLeft size={16} className="text-white/40" />
+            </button>
             {/* Progress dots */}
             <div className="flex gap-1.5">
               {levelWords.map((_, i) => (
@@ -922,6 +1026,18 @@ export default function WordScramblePage() {
             </motion.div>
           )}
         </AnimatePresence>
+
+        {/* Multiplayer overlays */}
+        {isMultiplayer && matchId && (
+          <>
+            <MultiplayerExitConfirm
+              open={showExitConfirm}
+              onStay={() => setShowExitConfirm(false)}
+              onLeave={() => { abandonMatch(matchId); router.push("/multiplayer"); }}
+            />
+            <MultiplayerAbandonNotice matchId={matchId} opponentName={opponentName} />
+          </>
+        )}
       </main>
     );
   }
@@ -1100,6 +1216,67 @@ export default function WordScramblePage() {
           <MilestonePopup />
         </motion.div>
       </main>
+    );
+  }
+
+  // ═══════════════════════════════════════════════════════════════════
+  // ── MULTI WAITING ─────────────────────────────────────────────────
+  // ═══════════════════════════════════════════════════════════════════
+  if (screen === "multi-waiting") {
+    return (
+      <motion.div
+        className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm gap-5 px-6"
+        initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+      >
+        <motion.div
+          className="text-3xl font-black text-[#FF6B00]"
+          style={{ textShadow: "0 0 20px rgba(255,107,0,0.4)" }}
+          initial={{ scale: 0.8 }} animate={{ scale: 1 }}
+        >
+          {score}/{cfg.wordCount}
+        </motion.div>
+        {isMix && (
+          <span className="text-white/30 text-xs font-bold uppercase">
+            Round {mixround} ✓
+          </span>
+        )}
+        <motion.div
+          className="w-10 h-10 border-2 border-[#FF6B00] border-t-transparent rounded-full"
+          animate={{ rotate: 360 }}
+          transition={{ repeat: Infinity, duration: 1, ease: "linear" }}
+        />
+        <span className="text-white/60 text-sm font-medium text-center">
+          {lang === "hu" ? `Várakozás ${opponentName}-ra...` :
+           lang === "de" ? `Warte auf ${opponentName}...` :
+           lang === "ro" ? `Se așteaptă ${opponentName}...` :
+           `Waiting for ${opponentName}...`}
+        </span>
+        {isMultiplayer && matchId && (
+          <>
+            <MultiplayerExitConfirm
+              open={showExitConfirm}
+              onStay={() => setShowExitConfirm(false)}
+              onLeave={() => { abandonMatch(matchId); router.push("/multiplayer"); }}
+            />
+            <MultiplayerAbandonNotice matchId={matchId} opponentName={opponentName} />
+          </>
+        )}
+      </motion.div>
+    );
+  }
+
+  // ═══════════════════════════════════════════════════════════════════
+  // ── MULTI RESULT ──────────────────────────────────────────────────
+  // ═══════════════════════════════════════════════════════════════════
+  if (screen === "multi-result" && oppFinalScore !== null) {
+    return (
+      <MultiplayerResult
+        myScore={myFinalScore !== null ? myFinalScore : score}
+        oppScore={oppFinalScore}
+        myName={getUsername() || "???"}
+        oppName={opponentName}
+        onContinue={() => router.push("/multiplayer")}
+      />
     );
   }
 

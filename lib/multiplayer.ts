@@ -61,7 +61,7 @@ export const GAME_LABELS: Record<GameType, string> = {
 };
 
 // Games that have level-based difficulty
-export const LEVEL_GAMES: Set<GameType> = new Set(["reflexrush", "numberrush"]);
+export const LEVEL_GAMES: Set<GameType> = new Set(["reflexrush", "numberrush", "sequencerush", "wordhunt", "numberpath", "minisudoku", "wordscramble"]);
 
 // Difficulty → level mapping
 export const DIFFICULTY_LEVEL: Record<Difficulty, number> = {
