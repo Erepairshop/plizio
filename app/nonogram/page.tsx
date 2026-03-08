@@ -47,6 +47,8 @@ const T = {
     tutStep3: "Tap to fill a cell, long-press to mark it empty (✕)",
     tutStep4: "Fill the right cells to reveal the hidden picture!",
     tutGotIt: "Got it!",
+    reveal: "Reveal",
+    shield: "Shield",
   },
   hu: {
     title: "NONOGRAM",
@@ -68,6 +70,8 @@ const T = {
     tutStep3: "\u00C9rints: kit\u00F6lt\u00E9s. Hossz\u00FA nyom\u00E1s: \u00FCres jel\u00F6l\u00E9s (\u2715)",
     tutStep4: "T\u00F6ltsd ki a megfelel\u0151 cell\u00E1kat \u00E9s kider\u00FCl a rejtett k\u00E9p!",
     tutGotIt: "\u00C9rtem!",
+    reveal: "Felfed\u00E9s",
+    shield: "Pajzs",
   },
   de: {
     title: "NONOGRAMM",
@@ -89,6 +93,8 @@ const T = {
     tutStep3: "Tippen: f\u00FCllen. Lang dr\u00FCcken: als leer markieren (\u2715)",
     tutStep4: "F\u00FClle die richtigen Zellen und enth\u00FClle das versteckte Bild!",
     tutGotIt: "Verstanden!",
+    reveal: "Aufdecken",
+    shield: "Schild",
   },
   ro: {
     title: "NONOGRAMA",
@@ -110,6 +116,8 @@ const T = {
     tutStep3: "Apas\u0103: umple. Apas\u0103 lung: marcheaz\u0103 gol (\u2715)",
     tutStep4: "Completeaz\u0103 celulele corecte \u0219i descoper\u0103 imaginea ascuns\u0103!",
     tutGotIt: "Am \u00EEn\u021Beles!",
+    reveal: "Dezvăluie",
+    shield: "Scut",
   },
 };
 
@@ -746,6 +754,14 @@ function NonogramPage() {
   const [solvedRows, setSolvedRows] = useState<Set<number>>(new Set());
   const [solvedCols, setSolvedCols] = useState<Set<number>>(new Set());
 
+  // -- Power-up state --
+  const [revealsLeft, setRevealsLeft] = useState(0);
+  const [shieldsLeft, setShieldsLeft] = useState(0);
+  const [shieldCharges, setShieldCharges] = useState(0);
+  const [revealFlashCells, setRevealFlashCells] = useState<Set<number>>(new Set());
+  const [shieldAbsorbCell, setShieldAbsorbCell] = useState<number | null>(null);
+  const shieldChargesRef = useRef(0);
+
   // -- Multiplayer state --
   const [showExitConfirm, setShowExitConfirm] = useState(false);
   const [showTutorial, setShowTutorial] = useState(false);
@@ -812,6 +828,63 @@ function NonogramPage() {
       if (sol[i] === 0 && g[i] === 1) return false;
     }
     return true;
+  }
+
+  function useRevealRow() {
+    if (revealsLeft <= 0 || !gameActiveRef.current) return;
+    const size = gridSizeRef.current;
+    const sol = solutionRef.current;
+    const g = gridRef.current;
+
+    // Find row with most unsolved cells
+    let bestRow = -1;
+    let bestUnsolved = 0;
+    for (let r = 0; r < size; r++) {
+      let unsolved = 0;
+      for (let c = 0; c < size; c++) {
+        const idx = r * size + c;
+        if (sol[idx] === 1 && g[idx] !== 1) unsolved++;
+        else if (sol[idx] === 0 && g[idx] !== 2) unsolved++;
+      }
+      if (unsolved > bestUnsolved) { bestUnsolved = unsolved; bestRow = r; }
+    }
+    if (bestRow === -1 || bestUnsolved === 0) return;
+
+    setRevealsLeft(prev => prev - 1);
+    const newGrid = [...g];
+    const flashSet = new Set<number>();
+
+    for (let c = 0; c < size; c++) {
+      const idx = bestRow * size + c;
+      if (sol[idx] === 1 && newGrid[idx] !== 1) {
+        newGrid[idx] = 1;
+        flashSet.add(idx);
+      } else if (sol[idx] === 0 && newGrid[idx] !== 2) {
+        newGrid[idx] = 2;
+        flashSet.add(idx);
+      }
+    }
+
+    gridRef.current = newGrid;
+    setGrid([...newGrid]);
+    setRevealFlashCells(flashSet);
+    checkRowCol(newGrid, size);
+    triggerAvatar("happy", 1500, "happy");
+
+    setTimeout(() => setRevealFlashCells(new Set()), 600);
+
+    // Check win after reveal
+    if (checkWin(newGrid)) {
+      handleWin(errorsRef.current);
+    }
+  }
+
+  function useShield() {
+    if (shieldsLeft <= 0 || shieldChargesRef.current > 0 || !gameActiveRef.current) return;
+    setShieldsLeft(prev => prev - 1);
+    setShieldCharges(3);
+    shieldChargesRef.current = 3;
+    triggerAvatar("happy", 1000, "happy");
   }
 
   function handleWin(finalErrors: number) {
@@ -902,6 +975,15 @@ function NonogramPage() {
     setSolvedRows(new Set());
     setSolvedCols(new Set());
 
+    // Power-ups: available from level 3+
+    const hasPowerups = levelNum >= 3;
+    setRevealsLeft(hasPowerups ? 1 : 0);
+    setShieldsLeft(hasPowerups ? 1 : 0);
+    setShieldCharges(0);
+    shieldChargesRef.current = 0;
+    setRevealFlashCells(new Set());
+    setShieldAbsorbCell(null);
+
     timeLeftRef.current = cfg.timeLimit;
     setTimeLeft(cfg.timeLimit);
     timeElapsedRef.current = 0;
@@ -953,6 +1035,24 @@ function NonogramPage() {
 
     // Check for error: filling a cell that should be empty
     if (newGrid[index] === 1 && solutionRef.current[index] === 0) {
+      if (shieldChargesRef.current > 0) {
+        // Shield absorbs the error
+        shieldChargesRef.current--;
+        setShieldCharges(shieldChargesRef.current);
+        setShieldAbsorbCell(index);
+        // Flash blue briefly and revert
+        setTimeout(() => {
+          const revert = [...gridRef.current];
+          revert[index] = 2; // mark as X instead
+          gridRef.current = revert;
+          setGrid([...revert]);
+          setShieldAbsorbCell(null);
+          checkRowCol(revert, size);
+        }, 400);
+        gridRef.current = newGrid;
+        setGrid([...newGrid]);
+        return;
+      }
       errorsRef.current++;
       setErrors(errorsRef.current);
       setWrongCell(index);
@@ -1166,7 +1266,7 @@ function NonogramPage() {
             <div className="text-white/60 text-xs font-bold">{filledCount}/{solutionFilled}</div>
           </div>
 
-          {/* Mode toggle */}
+          {/* Mode toggle + shield HUD */}
           <div className="flex justify-center gap-2 px-4 pb-2">
             <button
               onClick={() => setMarkMode(false)}
@@ -1186,7 +1286,42 @@ function NonogramPage() {
               <span className="mr-1.5 align-middle font-black text-[10px]">✕</span>
               {t.marked}
             </button>
+            {shieldCharges > 0 && (
+              <motion.div
+                className="flex items-center gap-1 px-3 py-1.5 rounded-lg bg-blue-500/20 border border-blue-500/40 text-blue-300 text-xs font-bold"
+                initial={{ scale: 0.8, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}
+                key={`shield-${shieldCharges}`}
+              >
+                🛡️ {shieldCharges}
+              </motion.div>
+            )}
           </div>
+
+          {/* Power-up buttons */}
+          {activeLevel >= 3 && (
+            <div className="flex justify-center gap-3 px-4 pb-2">
+              <motion.button
+                disabled={revealsLeft <= 0}
+                onClick={useRevealRow}
+                className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all ${
+                  revealsLeft > 0 ? "bg-cyan-500/10 border border-cyan-500/30 text-cyan-400" : "bg-white/5 border border-white/10 text-white/50 opacity-50"
+                }`}
+                whileTap={revealsLeft > 0 ? { scale: 0.95 } : {}}
+              >
+                👁️ {t.reveal} ({revealsLeft})
+              </motion.button>
+              <motion.button
+                disabled={shieldsLeft <= 0 || shieldCharges > 0}
+                onClick={useShield}
+                className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all ${
+                  shieldsLeft > 0 && shieldCharges === 0 ? "bg-blue-500/10 border border-blue-500/30 text-blue-400" : shieldCharges > 0 ? "bg-blue-500/20 border border-blue-500/40 text-blue-300" : "bg-white/5 border border-white/10 text-white/50 opacity-50"
+                }`}
+                whileTap={shieldsLeft > 0 ? { scale: 0.95 } : {}}
+              >
+                🛡️ {shieldCharges > 0 ? shieldCharges : t.shield} {shieldCharges === 0 ? `(${shieldsLeft})` : ""}
+              </motion.button>
+            </div>
+          )}
 
           {/* Nonogram grid with clues */}
           <div className="flex-1 flex items-center justify-center p-2 overflow-auto">
@@ -1249,6 +1384,8 @@ function NonogramPage() {
                     const idx = r * cfg.gridSize + c;
                     const cellState = grid[idx];
                     const isWrong = wrongCell === idx;
+                    const isRevealFlash = revealFlashCells.has(idx);
+                    const isShieldAbsorb = shieldAbsorbCell === idx;
                     const cellSize = cfg.gridSize <= 5 ? 40 : cfg.gridSize <= 7 ? 32 : 26;
                     return (
                       <motion.button
@@ -1261,18 +1398,27 @@ function NonogramPage() {
                         style={{
                           width: cellSize,
                           height: cellSize,
-                          borderColor: isWrong ? "rgba(255,80,80,0.7)" :
+                          borderColor: isShieldAbsorb ? "rgba(59,130,246,0.7)" :
+                            isWrong ? "rgba(255,80,80,0.7)" :
+                            isRevealFlash ? "rgba(0,200,255,0.6)" :
                             (highlightRow === r || highlightCol === c) ? "rgba(180,77,255,0.3)" :
                             "rgba(255,255,255,0.08)",
-                          backgroundColor: isWrong ? "rgba(255,50,50,0.4)" :
+                          backgroundColor: isShieldAbsorb ? "rgba(59,130,246,0.35)" :
+                            isWrong ? "rgba(255,50,50,0.4)" :
+                            isRevealFlash && cellState === 1 ? "rgba(0,200,255,0.5)" :
+                            isRevealFlash && cellState === 2 ? "rgba(0,200,255,0.15)" :
                             cellState === 1 ? ACCENT :
                             cellState === 2 ? "rgba(255,255,255,0.03)" :
                             "rgba(255,255,255,0.02)",
-                          boxShadow: cellState === 1 && !isWrong ? `inset 0 0 8px rgba(180,77,255,0.3), 0 0 4px rgba(180,77,255,0.15)` : "none",
+                          boxShadow: isRevealFlash ? "inset 0 0 12px rgba(0,200,255,0.4), 0 0 8px rgba(0,200,255,0.2)" :
+                            isShieldAbsorb ? "inset 0 0 12px rgba(59,130,246,0.4), 0 0 8px rgba(59,130,246,0.3)" :
+                            cellState === 1 && !isWrong ? `inset 0 0 8px rgba(180,77,255,0.3), 0 0 4px rgba(180,77,255,0.15)` : "none",
                         }}
                         whileTap={{ scale: 0.9 }}
-                        animate={isWrong ? { scale: [1, 1.1, 0.9, 1] } : {}}
-                        transition={{ duration: 0.2 }}
+                        animate={isShieldAbsorb ? { scale: [1, 1.15, 0.95, 1] } :
+                          isWrong ? { scale: [1, 1.1, 0.9, 1] } :
+                          isRevealFlash ? { scale: [0.8, 1.05, 1] } : {}}
+                        transition={{ duration: isRevealFlash ? 0.35 : 0.2 }}
                       >
                         {cellState === 2 && (
                           <span className="absolute inset-0 flex items-center justify-center text-white/50 font-bold select-none"

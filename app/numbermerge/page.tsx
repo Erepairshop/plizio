@@ -41,6 +41,7 @@ const T = {
     card: "CARD",
     waiting: "Waiting for", multiResult: "Results",
     maxTile: "Best tile", needTile: "You needed",
+    shuffle: "Shuffle", destroy: "Destroy",
   },
   hu: {
     title: "SZÁM MERGE",
@@ -56,6 +57,7 @@ const T = {
     card: "K\u00c1RTYA",
     waiting: "V\u00e1rakoz\u00e1s:", multiResult: "Eredm\u00e9ny",
     maxTile: "Legjobb csempe", needTile: "Sz\u00fcks\u00e9ges",
+    shuffle: "Kever\u00e9s", destroy: "T\u00f6rl\u00e9s",
   },
   de: {
     title: "ZAHLEN MERGE",
@@ -71,6 +73,7 @@ const T = {
     card: "KARTE",
     waiting: "Warten auf", multiResult: "Ergebnis",
     maxTile: "Beste Kachel", needTile: "Ben\u00f6tigt",
+    shuffle: "Mischen", destroy: "Zerst\u00f6ren",
   },
   ro: {
     title: "NUMBER MERGE",
@@ -86,6 +89,7 @@ const T = {
     card: "CARD",
     waiting: "A\u0219teptare:", multiResult: "Rezultat",
     maxTile: "Cea mai bun\u0103", needTile: "Aveai nevoie de",
+    shuffle: "Amestec\u0103", destroy: "Distruge",
   },
 };
 
@@ -392,6 +396,8 @@ function NumberMergePage() {
   const [animating, setAnimating] = useState(false);
   const [mergePopups, setMergePopups] = useState<{ id: number; value: number; row: number; col: number }[]>([]);
   const popupIdRef = useRef(0);
+  const [shufflesLeft, setShufflesLeft] = useState(0);
+  const [destroysLeft, setDestroysLeft] = useState(0);
 
   // -- Multiplayer state --
   const [showExitConfirm, setShowExitConfirm] = useState(false);
@@ -577,11 +583,55 @@ function NumberMergePage() {
     setMoveCount(0);
     setEarnedCard(null);
     setScoreSubmitted(false);
+    // Power-ups: available from level 3+
+    if (levelNum >= 7) { setShufflesLeft(1); setDestroysLeft(2); }
+    else if (levelNum >= 3) { setShufflesLeft(1); setDestroysLeft(1); }
+    else { setShufflesLeft(0); setDestroysLeft(0); }
     gameActiveRef.current = true;
     animatingRef.current = false;
     setAnimating(false);
     triggerAvatar("focused", 5000);
     setScreen("playing");
+  }
+
+  // -- Power-ups --
+  function useShuffle() {
+    if (shufflesLeft <= 0 || !gameActiveRef.current || animatingRef.current) return;
+    setShufflesLeft(prev => prev - 1);
+    const currentTiles = tilesRef.current;
+    if (currentTiles.length <= 1) return;
+    // Collect all positions and values separately
+    const positions = currentTiles.map(t => ({ row: t.row, col: t.col }));
+    // Fisher-Yates shuffle on positions
+    for (let i = positions.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [positions[i], positions[j]] = [positions[j], positions[i]];
+    }
+    // Reassign positions to tiles with new IDs for animation
+    const newTiles = currentTiles.map((t, idx) => ({
+      ...t, id: newTileId(), row: positions[idx].row, col: positions[idx].col, isNew: true, mergedFrom: false,
+    }));
+    tilesRef.current = newTiles;
+    setTiles([...newTiles]);
+    triggerAvatar("surprised", 1500, "surprised");
+  }
+
+  function useDestroy() {
+    if (destroysLeft <= 0 || !gameActiveRef.current || animatingRef.current || tilesRef.current.length === 0) return;
+    setDestroysLeft(prev => prev - 1);
+    // Find the lowest value tile
+    const sorted = [...tilesRef.current].sort((a, b) => a.value - b.value);
+    const target = sorted[0];
+    // Show popup for the destroyed tile
+    const popId = ++popupIdRef.current;
+    setMergePopups(prev => [...prev, { id: popId, value: target.value, row: target.row, col: target.col }]);
+    setTimeout(() => setMergePopups(prev => prev.filter(p => p.id !== popId)), 800);
+    // Remove it and add its value to score
+    scoreRef.current += target.value;
+    setScore(scoreRef.current);
+    tilesRef.current = tilesRef.current.filter(t => t.id !== target.id);
+    setTiles([...tilesRef.current]);
+    triggerAvatar("happy", 1200, "happy");
   }
 
   // -- Multiplayer polling --
@@ -734,6 +784,32 @@ function NumberMergePage() {
               <span>{cfg.target}</span>
             </div>
           </div>
+
+          {/* Power-ups */}
+          {activeLevel >= 3 && (
+            <div className="flex justify-center gap-3 px-4 pb-2">
+              <motion.button
+                disabled={shufflesLeft <= 0}
+                onClick={useShuffle}
+                className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all ${
+                  shufflesLeft > 0 ? "bg-purple-500/10 border border-purple-500/30 text-purple-400" : "bg-white/5 border border-white/10 text-white/50 opacity-50"
+                }`}
+                whileTap={shufflesLeft > 0 ? { scale: 0.95 } : {}}
+              >
+                🔀 {t.shuffle} ({shufflesLeft})
+              </motion.button>
+              <motion.button
+                disabled={destroysLeft <= 0}
+                onClick={useDestroy}
+                className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all ${
+                  destroysLeft > 0 ? "bg-red-500/10 border border-red-500/30 text-red-400" : "bg-white/5 border border-white/10 text-white/50 opacity-50"
+                }`}
+                whileTap={destroysLeft > 0 ? { scale: 0.95 } : {}}
+              >
+                💥 {t.destroy} ({destroysLeft})
+              </motion.button>
+            </div>
+          )}
 
           {/* Grid */}
           <div className="flex-1 flex items-center justify-center p-4">

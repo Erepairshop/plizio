@@ -33,6 +33,7 @@ const T = {
     home: "Home", progress: "Progress", levelLabel: "Level", levelsOf: "levels",
     boss: "🏆 BOSS — ", done: "✓ done",
     hint: "Tap a cell to toggle it + its neighbors. Turn all lights off!",
+    hintPowerup: "Hint", undoPowerup: "Undo",
     levelDone: "✅ LEVEL DONE!", bossDone: "🏆 COMPLETE!", timeUp: "⏰ TIME'S UP!",
     retry: "Retry", nextLevel: "Next Level", expeditionMap: "Expedition Map",
     newExpedition: "🔄 New Expedition", time: "TIME", moves: "MOVES", par: "PAR",
@@ -52,6 +53,7 @@ const T = {
     home: "Főoldal", progress: "Haladás", levelLabel: "Szint", levelsOf: "szint",
     boss: "🏆 BOSS — ", done: "✓ kész",
     hint: "Érintsd a cellát → átkapcsolja magát + szomszédait. Oltsd el mindet!",
+    hintPowerup: "Tipp", undoPowerup: "Visszavonás",
     levelDone: "✅ SZINT KÉSZ!", bossDone: "🏆 KÉSZ!", timeUp: "⏰ LEJÁRT!",
     retry: "Újra", nextLevel: "Következő szint", expeditionMap: "Expedíció",
     newExpedition: "🔄 Új expedíció", time: "IDŐ", moves: "LÉPÉS", par: "PAR",
@@ -71,6 +73,7 @@ const T = {
     home: "Start", progress: "Fortschritt", levelLabel: "Level", levelsOf: "Level",
     boss: "🏆 BOSS — ", done: "✓ fertig",
     hint: "Tippe eine Zelle an → schaltet sich + Nachbarn um. Lösche alle!",
+    hintPowerup: "Hinweis", undoPowerup: "Rückgängig",
     levelDone: "✅ LEVEL GESCHAFFT!", bossDone: "🏆 FERTIG!", timeUp: "⏰ ZEIT UM!",
     retry: "Nochmal", nextLevel: "Nächstes Level", expeditionMap: "Expedition",
     newExpedition: "🔄 Neue Expedition", time: "ZEIT", moves: "ZÜGE", par: "PAR",
@@ -90,6 +93,7 @@ const T = {
     home: "Acasă", progress: "Progres", levelLabel: "Nivel", levelsOf: "niveluri",
     boss: "🏆 BOSS — ", done: "✓ gata",
     hint: "Apasă o celulă → comută ea + vecinii. Stinge toate!",
+    hintPowerup: "Indiciu", undoPowerup: "Anulare",
     levelDone: "✅ NIVEL TERMINAT!", bossDone: "🏆 TERMINAT!", timeUp: "⏰ TIMP EXPIRAT!",
     retry: "Din nou", nextLevel: "Nivelul următor", expeditionMap: "Hartă",
     newExpedition: "🔄 Expedíție nouă", time: "TIMP", moves: "PAȘI", par: "PAR",
@@ -464,6 +468,13 @@ function LightOutPage() {
   const [earnedCard, setEarnedCard] = useState<CardRarity | null>(null);
   const [lastToggled, setLastToggled] = useState<number | null>(null);
 
+  // ── Power-ups ──
+  const [hintsLeft, setHintsLeft] = useState(0);
+  const [undosLeft, setUndosLeft] = useState(0);
+  const [hintedCell, setHintedCell] = useState<number | null>(null);
+  const [prevGrid, setPrevGrid] = useState<boolean[] | null>(null);
+  const hintTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
   // ── Multiplayer state ──
   const [showExitConfirm, setShowExitConfirm] = useState(false);
   const [showTutorial, setShowTutorial] = useState(false);
@@ -552,6 +563,12 @@ function LightOutPage() {
     setEarnedCard(null);
     setLastToggled(null);
     setScoreSubmitted(false);
+    // Power-ups: level 1-2 = none, 3-6 = 1 hint + 2 undos, 7-10 = 1 hint + 1 undo
+    setHintsLeft(cfg.level >= 3 ? 1 : 0);
+    setUndosLeft(cfg.level >= 7 ? 1 : cfg.level >= 3 ? 2 : 0);
+    setHintedCell(null);
+    setPrevGrid(null);
+    if (hintTimerRef.current) { clearTimeout(hintTimerRef.current); hintTimerRef.current = null; }
     timeLeftRef.current = cfg.timeLimit;
     setTimeLeft(cfg.timeLimit);
     stopTimer();
@@ -570,6 +587,8 @@ function LightOutPage() {
   function handleCellClick(index: number) {
     if (!gameActiveRef.current) return;
     const cfg = cfgRef.current;
+    // Save previous grid for undo
+    setPrevGrid([...gridRef.current]);
     const newGrid = [...gridRef.current];
     toggleCell(newGrid, cfg.gridSize, index);
     gridRef.current = newGrid;
@@ -577,11 +596,44 @@ function LightOutPage() {
     movesRef.current++;
     setMoves(movesRef.current);
     setLastToggled(index);
+    // Clear hint highlight on any move
+    if (hintedCell !== null) setHintedCell(null);
 
     // Check win
     if (newGrid.every(c => !c)) {
       handleWin(movesRef.current);
     }
+  }
+
+  function useHint() {
+    if (hintsLeft <= 0 || hintedCell !== null || !gameActiveRef.current) return;
+    const cfg = cfgRef.current;
+    const currentGrid = gridRef.current;
+    const total = cfg.gridSize * cfg.gridSize;
+    let bestCell = 0;
+    let bestLights = total + 1;
+    for (let i = 0; i < total; i++) {
+      const testGrid = [...currentGrid];
+      toggleCell(testGrid, cfg.gridSize, i);
+      const lightsOn = testGrid.filter(Boolean).length;
+      if (lightsOn < bestLights) { bestLights = lightsOn; bestCell = i; }
+    }
+    setHintedCell(bestCell);
+    setHintsLeft(h => h - 1);
+    // Clear hint after 3 seconds
+    if (hintTimerRef.current) clearTimeout(hintTimerRef.current);
+    hintTimerRef.current = setTimeout(() => { setHintedCell(null); hintTimerRef.current = null; }, 3000);
+  }
+
+  function useUndo() {
+    if (undosLeft <= 0 || !prevGrid || !gameActiveRef.current) return;
+    gridRef.current = [...prevGrid];
+    setGrid([...prevGrid]);
+    setPrevGrid(null);
+    movesRef.current = Math.max(0, movesRef.current - 1);
+    setMoves(movesRef.current);
+    setUndosLeft(u => u - 1);
+    setLastToggled(null);
   }
 
   // ── Multiplayer polling ──
@@ -743,8 +795,11 @@ function LightOutPage() {
                     isOn
                       ? "bg-[#00FF88]/20 border-[#00FF88]/50"
                       : "bg-white/[0.03] border-white/10"
-                  }`}
-                  style={isOn ? { boxShadow: "0 0 20px rgba(0,255,136,0.3), inset 0 0 12px rgba(0,255,136,0.15)" } : {}}
+                  } ${i === hintedCell ? "ring-2 ring-yellow-400 animate-pulse" : ""}`}
+                  style={{
+                    ...(isOn ? { boxShadow: "0 0 20px rgba(0,255,136,0.3), inset 0 0 12px rgba(0,255,136,0.15)" } : {}),
+                    ...(i === hintedCell ? { boxShadow: "0 0 20px rgba(250,204,21,0.5), 0 0 40px rgba(250,204,21,0.2)" } : {}),
+                  }}
                   whileTap={{ scale: 0.88 }}
                   animate={{
                     scale: lastToggled === i ? [1, 0.9, 1] : 1,
@@ -767,13 +822,37 @@ function LightOutPage() {
           </div>
 
           {/* Hint */}
-          <div className="text-center text-white/50 text-[10px] px-4 pb-3">{t.hint}</div>
+          <div className="text-center text-white/50 text-[10px] px-4 pb-2">{t.hint}</div>
 
-          {/* Reset button */}
-          <div className="flex justify-center pb-4">
+          {/* Power-ups + Reset */}
+          <div className="flex justify-center gap-3 pb-4 flex-wrap px-4">
+            {cfg.level >= 3 && (
+              <>
+                <motion.button
+                  disabled={hintsLeft <= 0 || hintedCell !== null}
+                  onClick={useHint}
+                  className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all ${
+                    hintsLeft > 0 && hintedCell === null ? "bg-yellow-500/10 border border-yellow-500/30 text-yellow-400" : "bg-white/5 border border-white/10 text-white/50 opacity-50"
+                  }`}
+                  whileTap={hintsLeft > 0 && hintedCell === null ? { scale: 0.95 } : {}}
+                >
+                  💡 {t.hintPowerup} ({hintsLeft})
+                </motion.button>
+                <motion.button
+                  disabled={undosLeft <= 0 || !prevGrid}
+                  onClick={useUndo}
+                  className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all ${
+                    undosLeft > 0 && prevGrid ? "bg-blue-500/10 border border-blue-500/30 text-blue-400" : "bg-white/5 border border-white/10 text-white/50 opacity-50"
+                  }`}
+                  whileTap={undosLeft > 0 && prevGrid ? { scale: 0.95 } : {}}
+                >
+                  ↩️ {t.undoPowerup} ({undosLeft})
+                </motion.button>
+              </>
+            )}
             <motion.button
               onClick={() => startLevel(activeLevel)}
-              className="flex items-center gap-2 px-4 py-2 rounded-xl bg-white/5 border border-white/10 text-white/70 text-xs font-bold hover:bg-white/10 transition-colors"
+              className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-white/5 border border-white/10 text-white/70 text-xs font-bold hover:bg-white/10 transition-colors"
               whileTap={{ scale: 0.95 }}
             >
               <RotateCcw size={12} /> {t.retry}
