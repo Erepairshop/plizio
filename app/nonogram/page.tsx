@@ -909,7 +909,7 @@ function NonogramPage() {
                 markMode ? "bg-red-500/20 text-red-400 border border-red-500/40" : "bg-white/5 text-white/60 border border-white/10"
               }`}
             >
-              <span className="mr-1.5 align-middle font-black text-[10px]">\u2715</span>
+              <span className="mr-1.5 align-middle font-black text-[10px]">✕</span>
               {t.marked}
             </button>
           </div>
@@ -1003,7 +1003,7 @@ function NonogramPage() {
                         {cellState === 2 && (
                           <span className="absolute inset-0 flex items-center justify-center text-white/50 font-bold select-none"
                             style={{ fontSize: cellSize * 0.4 }}>
-                            \u2715
+                            ✕
                           </span>
                         )}
                       </motion.button>
