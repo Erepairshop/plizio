@@ -59,13 +59,13 @@ const T = {
 
 // ─── Constants ───────────────────────────────────────────────
 const WIN_SCORE = 7;
-const GRAVITY = 0.0004;        // normalized gravity per frame
-const BALL_RADIUS = 8;
-const RACKET_W = 8;
-const RACKET_H = 40;
-const NET_HEIGHT_RATIO = 0.22; // net height relative to court height
-const COURT_Y_RATIO = 0.75;   // ground level at 75% of canvas
-const SERVE_DELAY = 800;
+const GRAVITY = 0.00035;       // normalized gravity per frame (softer arc)
+const BALL_RADIUS = 11;        // bigger ball for visibility
+const RACKET_W = 10;
+const RACKET_H = 48;           // taller racket
+const NET_HEIGHT_RATIO = 0.10; // low net — visual only, not blocking
+const COURT_Y_RATIO = 0.62;   // ground at 62% — court takes lower 38%
+const SERVE_DELAY = 600;
 
 // Rally speed multipliers
 const RALLY_THRESHOLDS = [
@@ -99,7 +99,9 @@ interface FlashEffect {
 
 interface GameState {
   playerY: number;  // racket Y normalized (0=top, 1=bottom)
+  playerRX: number; // racket X normalized (forward/back)
   aiY: number;
+  aiRX: number;     // AI racket X normalized
   ball: Ball;
   serving: boolean;
   serveTimer: number;
@@ -142,7 +144,7 @@ function TennisPage() {
   const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
   const [scoreSubmitted, setScoreSubmitted] = useState(false);
   const broadcastChannelRef = useRef<RealtimeChannel | null>(null);
-  const oppPaddleRef = useRef(0.5);
+  const oppPaddleRef = useRef({ y: 0.5, rx: 0.6 });
 
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const gameRef = useRef<GameState | null>(null);
@@ -213,7 +215,9 @@ function TennisPage() {
     if (!isMultiplayer || !matchId) return;
     const channel = supabase.channel(`tennis-${matchId}`, { config: { broadcast: { self: false } } });
     channel.on("broadcast", { event: "paddlePos" }, (payload) => {
-      if (payload.payload.p !== playerNum) oppPaddleRef.current = payload.payload.y;
+      if (payload.payload.p !== playerNum) {
+        oppPaddleRef.current = { y: payload.payload.y, rx: payload.payload.rx ?? 0.6 };
+      }
     });
     channel.subscribe();
     broadcastChannelRef.current = channel;
@@ -319,9 +323,16 @@ function TennisPage() {
       const courtW = courtR - courtL;
       const netX = w * 0.5;
       const netTop = groundY - h * NET_HEIGHT_RATIO;
-      const playerX = courtL + courtW * 0.08;
-      const aiX = courtR - courtW * 0.08;
-      return { w, h, groundY, courtL, courtR, courtW, netX, netTop, playerX, aiX };
+      // Default X (home positions) — player can move forward/back within range
+      const playerHomeX = courtL + courtW * 0.10;
+      const aiHomeX = courtR - courtW * 0.10;
+      // Movement limits: can go forward ~20% toward net, but not past 45%
+      const playerMinX = courtL + courtW * 0.04;
+      const playerMaxX = w * 0.42;
+      const aiMinX = w * 0.58;
+      const aiMaxX = courtR - courtW * 0.04;
+      return { w, h, groundY, courtL, courtR, courtW, netX, netTop,
+               playerHomeX, aiHomeX, playerMinX, playerMaxX, aiMinX, aiMaxX };
     };
 
     // Make a fresh ball for serving
@@ -329,8 +340,8 @@ function TennisPage() {
       const c = court();
       const isPlayer = serveSide === "player";
       return {
-        x: isPlayer ? c.playerX / c.w : c.aiX / c.w,
-        y: (c.groundY - 60) / c.h,
+        x: isPlayer ? c.playerHomeX / c.w : c.aiHomeX / c.w,
+        y: (c.groundY - 40) / c.h,
         vx: 0, vy: 0,
         bounced: false, bounceCount: 0,
         lastHitBy: null, active: false,
@@ -338,10 +349,10 @@ function TennisPage() {
     };
 
     const serveBall = (ball: Ball, serveSide: "player" | "ai") => {
-      const baseVx = 0.005 + (difficulty === "hard" ? 0.001 : 0);
+      const baseVx = 0.006 + (difficulty === "hard" ? 0.0015 : difficulty === "medium" ? 0.0008 : 0);
       const dir = serveSide === "player" ? 1 : -1;
       ball.vx = baseVx * dir;
-      ball.vy = -0.008 - Math.random() * 0.003; // upward arc
+      ball.vy = -0.009 - Math.random() * 0.003; // upward arc
       ball.active = true;
       ball.lastHitBy = serveSide;
     };
@@ -352,9 +363,12 @@ function TennisPage() {
       return mul;
     };
 
+    const cInit = court();
     const game: GameState = {
-      playerY: 0.5,
-      aiY: 0.5,
+      playerY: (cInit.groundY - 30) / cInit.h,
+      playerRX: cInit.playerHomeX / cInit.w,
+      aiY: (cInit.groundY - 30) / cInit.h,
+      aiRX: cInit.aiHomeX / cInit.w,
       ball: makeBall("player"),
       serving: true,
       serveTimer: Date.now(),
@@ -392,17 +406,21 @@ function TennisPage() {
       game.rallyCount = 0;
     };
 
-    // Player input
-    let playerTarget = 0.5;
+    // Player input — supports both X and Y movement
+    let playerTargetY = (cInit.groundY - 30) / cInit.h;
+    let playerTargetX = cInit.playerHomeX / cInit.w;
     const handlePointer = (e: PointerEvent | TouchEvent) => {
       const rect = canvas.getBoundingClientRect();
+      const clientX = "touches" in e ? e.touches[0]?.clientX ?? 0 : (e as PointerEvent).clientX;
       const clientY = "touches" in e ? e.touches[0]?.clientY ?? 0 : (e as PointerEvent).clientY;
       const c = court();
+      const nx = (clientX - rect.left) / rect.width * c.w;
       const ny = (clientY - rect.top) / rect.height * c.h;
-      const rH = RACKET_H;
-      const minY = (c.groundY - c.h * NET_HEIGHT_RATIO * 1.8) / c.h;
-      const maxY = (c.groundY - rH / 2) / c.h;
-      playerTarget = Math.max(minY, Math.min(maxY, ny / c.h));
+      const minY = (c.groundY - 120) / c.h;
+      const maxY = (c.groundY - RACKET_H * 0.3) / c.h;
+      playerTargetY = Math.max(minY, Math.min(maxY, ny / c.h));
+      // X: clamp to player side (left half, won't cross net)
+      playerTargetX = Math.max(c.playerMinX / c.w, Math.min(c.playerMaxX / c.w, nx / c.w));
     };
     canvas.addEventListener("pointermove", handlePointer);
     canvas.addEventListener("pointerdown", handlePointer);
@@ -424,29 +442,40 @@ function TennisPage() {
       lastTime = now;
       const c = court();
 
-      // Keyboard
-      if (keys.has("ArrowUp") || keys.has("w")) playerTarget = Math.max(0.1, playerTarget - 0.02 * dt);
-      if (keys.has("ArrowDown") || keys.has("s")) playerTarget = Math.min((c.groundY - RACKET_H / 2) / c.h, playerTarget + 0.02 * dt);
+      // Keyboard — Y movement (up/down) + X movement (left/right for forward/back)
+      const minY = (c.groundY - 120) / c.h;
+      const maxY = (c.groundY - RACKET_H * 0.3) / c.h;
+      if (keys.has("ArrowUp") || keys.has("w")) playerTargetY = Math.max(minY, playerTargetY - 0.025 * dt);
+      if (keys.has("ArrowDown") || keys.has("s")) playerTargetY = Math.min(maxY, playerTargetY + 0.025 * dt);
+      if (keys.has("ArrowLeft") || keys.has("a")) playerTargetX = Math.max(c.playerMinX / c.w, playerTargetX - 0.015 * dt);
+      if (keys.has("ArrowRight") || keys.has("d")) playerTargetX = Math.min(c.playerMaxX / c.w, playerTargetX + 0.015 * dt);
 
-      // Smooth player racket
-      game.playerY += (playerTarget - game.playerY) * Math.min(1, 0.25 * dt);
+      // Smooth player racket (fast, responsive)
+      game.playerY += (playerTargetY - game.playerY) * Math.min(1, 0.35 * dt);
+      game.playerRX += (playerTargetX - game.playerRX) * Math.min(1, 0.35 * dt);
 
       // AI racket movement
       if (isMultiplayer) {
-        game.aiY += (oppPaddleRef.current - game.aiY) * Math.min(1, 0.25 * dt);
+        game.aiY += (oppPaddleRef.current.y - game.aiY) * Math.min(1, 0.3 * dt);
+        game.aiRX += (oppPaddleRef.current.rx - game.aiRX) * Math.min(1, 0.3 * dt);
       } else {
         const ball = game.ball;
+        const aiMinY = (c.groundY - 120) / c.h;
+        const aiMaxY = (c.groundY - RACKET_H * 0.3) / c.h;
         if (ball.active && ball.vx > 0 && ball.x > (1 - ai.reactDist)) {
           // Predict where ball will be at AI's x
-          const predictY = ball.y + ball.vy * ((c.aiX / c.w - ball.x) / Math.abs(ball.vx));
+          const timeToReach = (game.aiRX - ball.x) / Math.max(0.001, Math.abs(ball.vx));
+          const predictY = ball.y + ball.vy * Math.abs(timeToReach) + 0.5 * GRAVITY * timeToReach * timeToReach;
           const targetY = predictY + (Math.random() - 0.5) * ai.errorRange;
-          const minAiY = (c.groundY - c.h * NET_HEIGHT_RATIO * 1.8) / c.h;
-          const maxAiY = (c.groundY - RACKET_H / 2) / c.h;
-          game.aiY += (Math.max(minAiY, Math.min(maxAiY, targetY)) - game.aiY) * ai.speed * dt;
+          game.aiY += (Math.max(aiMinY, Math.min(aiMaxY, targetY)) - game.aiY) * ai.speed * dt;
+          // AI moves forward when ball is coming
+          const aiForwardX = c.aiMinX / c.w + (c.aiMaxX / c.w - c.aiMinX / c.w) * 0.3;
+          game.aiRX += (aiForwardX - game.aiRX) * ai.speed * 0.5 * dt;
         } else {
-          // Return to center
-          const centerY = (c.groundY - 50) / c.h;
-          game.aiY += (centerY - game.aiY) * 0.02 * dt;
+          // Return to home position
+          const homeY = (c.groundY - 30) / c.h;
+          game.aiY += (homeY - game.aiY) * 0.03 * dt;
+          game.aiRX += (c.aiHomeX / c.w - game.aiRX) * 0.03 * dt;
         }
       }
 
@@ -457,7 +486,7 @@ function TennisPage() {
           broadcastTimer = 0;
           broadcastChannelRef.current.send({
             type: "broadcast", event: "paddlePos",
-            payload: { p: playerNum, y: game.playerY },
+            payload: { p: playerNum, y: game.playerY, rx: game.playerRX },
           });
         }
       }
@@ -499,22 +528,15 @@ function TennisPage() {
           ball.vy = Math.abs(ball.vy) * 0.5;
         }
 
-        // Net collision
+        // Net collision — simple bounce, no speed loss
         const netNormX = c.netX / c.w;
         const netNormTop = c.netTop / c.h;
         const ballRx = BALL_RADIUS / c.w;
-        if (Math.abs(ball.x - netNormX) < ballRx + 0.005 && ball.y + ballR > netNormTop) {
-          // Hit the net — point for other side
-          if (ball.vx > 0) ball.x = netNormX - ballRx - 0.006;
-          else ball.x = netNormX + ballRx + 0.006;
-          ball.vx = -ball.vx * 0.3;
-          ball.vy *= 0.5;
-          // If ball barely moving, score
-          if (Math.abs(ball.vx) < 0.001) {
-            scorePoint(ball.lastHitBy === "player" ? "ai" : "player");
-            animFrameRef.current = requestAnimationFrame(loop);
-            return;
-          }
+        if (Math.abs(ball.x - netNormX) < ballRx + 0.004 && ball.y + ballR > netNormTop) {
+          // Bounce off net — keep speed, just reverse X direction
+          if (ball.vx > 0) ball.x = netNormX - ballRx - 0.005;
+          else ball.x = netNormX + ballRx + 0.005;
+          ball.vx = -ball.vx; // full bounce, no slowdown
         }
 
         // Out of bounds (left/right)
@@ -524,59 +546,57 @@ function TennisPage() {
           return;
         }
 
-        // Racket collision — Player (left side)
-        const pRacketX = c.playerX / c.w;
+        // Racket collision — Player (left side, dynamic X)
+        const pRacketX = game.playerRX;
         const pRacketTop = game.playerY - (RACKET_H / 2) / c.h;
         const pRacketBot = game.playerY + (RACKET_H / 2) / c.h;
         const racketWNorm = RACKET_W / c.w;
+        const racketHitZone = racketWNorm * 2; // generous hit zone
 
-        if (ball.vx < 0 && ball.lastHitBy !== "player" &&
-            ball.x - ballRx <= pRacketX + racketWNorm &&
+        if (ball.lastHitBy !== "player" &&
+            ball.x - ballRx <= pRacketX + racketHitZone &&
             ball.x + ballRx >= pRacketX - racketWNorm &&
-            ball.y >= pRacketTop && ball.y <= pRacketBot) {
-          // Hit position on racket: -1 (top) to 1 (bottom)
+            ball.y >= pRacketTop - ballR && ball.y <= pRacketBot + ballR) {
           const hitPos = (ball.y - game.playerY) / ((RACKET_H / 2) / c.h);
-          // Perfect hit = center of racket
           const isPerfect = Math.abs(hitPos) < 0.25;
-          const baseSpeed = 0.006 + (difficulty === "hard" ? 0.001 : 0);
+          const baseSpeed = 0.007 + (difficulty === "hard" ? 0.0015 : difficulty === "medium" ? 0.0008 : 0);
           const speedBoost = isPerfect ? 1.5 : 1.0;
-          const angle = -0.4 + hitPos * 0.5; // top of racket = higher arc, bottom = flatter
+          // Top of racket = higher lob, center = medium arc, bottom = flat drive
           ball.vx = baseSpeed * speedBoost;
-          ball.vy = angle * baseSpeed * 2 - 0.005; // always some upward component
+          ball.vy = (-0.008 + hitPos * 0.005) * speedBoost; // always upward, bottom hit = less upward
           ball.lastHitBy = "player";
           ball.bounced = false;
           ball.bounceCount = 0;
-          ball.x = pRacketX + racketWNorm + ballRx + 0.002;
+          ball.x = pRacketX + racketHitZone + ballRx + 0.002;
           game.rallyCount++;
 
           if (isPerfect) {
             game.flashes.push({ text: t.perfect, color: "#FFD700", x: pRacketX, y: game.playerY, time: Date.now() });
           }
           if (isPerfect && game.rallyCount >= 3) {
-            game.flashes.push({ text: t.smash, color: "#FF2D78", x: 0.5, y: 0.3, time: Date.now() });
+            game.flashes.push({ text: t.smash, color: "#FF2D78", x: 0.5, y: 0.35, time: Date.now() });
           }
         }
 
-        // Racket collision — AI (right side)
-        const aRacketX = c.aiX / c.w;
+        // Racket collision — AI (right side, dynamic X)
+        const aRacketX = game.aiRX;
         const aRacketTop = game.aiY - (RACKET_H / 2) / c.h;
         const aRacketBot = game.aiY + (RACKET_H / 2) / c.h;
 
-        if (ball.vx > 0 && ball.lastHitBy !== "ai" &&
-            ball.x + ballRx >= aRacketX - racketWNorm &&
+        if (ball.lastHitBy !== "ai" &&
+            ball.x + ballRx >= aRacketX - racketHitZone &&
             ball.x - ballRx <= aRacketX + racketWNorm &&
-            ball.y >= aRacketTop && ball.y <= aRacketBot) {
+            ball.y >= aRacketTop - ballR && ball.y <= aRacketBot + ballR) {
           const hitPos = (ball.y - game.aiY) / ((RACKET_H / 2) / c.h);
           const isPerfect = !isMultiplayer && Math.random() < ai.perfectChance;
-          const baseSpeed = 0.006 + (difficulty === "hard" ? 0.001 : 0);
+          const baseSpeed = 0.007 + (difficulty === "hard" ? 0.0015 : difficulty === "medium" ? 0.0008 : 0);
           const speedBoost = isPerfect ? 1.4 : 1.0;
-          const angle = -0.4 + hitPos * 0.5;
           ball.vx = -(baseSpeed * speedBoost);
-          ball.vy = angle * baseSpeed * 2 - 0.005;
+          ball.vy = (-0.008 + hitPos * 0.005) * speedBoost;
           ball.lastHitBy = "ai";
           ball.bounced = false;
           ball.bounceCount = 0;
-          ball.x = aRacketX - racketWNorm - ballRx - 0.002;
+          ball.x = aRacketX - racketHitZone - ballRx - 0.002;
           game.rallyCount++;
 
           if (isPerfect) {
@@ -588,7 +608,9 @@ function TennisPage() {
       // ═════════════════════════════════════════
       //  R E N D E R
       // ═════════════════════════════════════════
-      const { w, h, groundY, courtL, courtR, courtW, netX, netTop, playerX, aiX } = c;
+      const { w, h, groundY, courtL, courtR, courtW, netX, netTop } = c;
+      const playerX = game.playerRX * w;
+      const aiX = game.aiRX * w;
       ctx.clearRect(0, 0, w, h);
 
       // Sky gradient
@@ -615,17 +637,20 @@ function TennisPage() {
       ctx.lineTo(courtR, groundY);
       ctx.stroke();
 
-      // Service lines
+      // Service lines — extend deeper into court
+      const courtDepth = h - groundY;
       ctx.strokeStyle = "#ffffff18";
       ctx.lineWidth = 1;
       ctx.setLineDash([4, 4]);
       const serviceLeft = courtL + courtW * 0.25;
       const serviceRight = courtR - courtW * 0.25;
       ctx.beginPath();
-      ctx.moveTo(serviceLeft, groundY); ctx.lineTo(serviceLeft, groundY + 40);
-      ctx.moveTo(serviceRight, groundY); ctx.lineTo(serviceRight, groundY + 40);
-      // Center service line
-      ctx.moveTo(netX, groundY); ctx.lineTo(netX, groundY + 40);
+      ctx.moveTo(serviceLeft, groundY); ctx.lineTo(serviceLeft, groundY + courtDepth * 0.6);
+      ctx.moveTo(serviceRight, groundY); ctx.lineTo(serviceRight, groundY + courtDepth * 0.6);
+      ctx.moveTo(netX, groundY); ctx.lineTo(netX, groundY + courtDepth * 0.6);
+      // Cross line
+      ctx.moveTo(serviceLeft, groundY + courtDepth * 0.3);
+      ctx.lineTo(serviceRight, groundY + courtDepth * 0.3);
       ctx.stroke();
       ctx.setLineDash([]);
 
@@ -726,33 +751,38 @@ function TennisPage() {
       if (!game.gameOver && ball.active) {
         const bx = ball.x * w, by = ball.y * h;
 
-        // Shadow on ground
-        ctx.fillStyle = "rgba(0,0,0,0.25)";
+        // Shadow on ground — scales with ball height
+        const heightAboveGround = Math.max(0, groundY - by);
+        const shadowScale = Math.max(0.5, 1 - heightAboveGround / 200);
+        const shadowAlpha = 0.12 + shadowScale * 0.18;
+        ctx.fillStyle = `rgba(0,0,0,${shadowAlpha})`;
         ctx.beginPath();
-        ctx.ellipse(bx, groundY + 2, BALL_RADIUS * 0.8, 3, 0, 0, Math.PI * 2);
+        ctx.ellipse(bx, groundY + 3, BALL_RADIUS * 1.2 * shadowScale, 4 * shadowScale, 0, 0, Math.PI * 2);
         ctx.fill();
 
-        // Trail
+        // Trail — more visible
         const speed = Math.sqrt(ball.vx * ball.vx + ball.vy * ball.vy);
-        if (speed > 0.004) {
-          ctx.strokeStyle = "#CDFF0040";
-          ctx.lineWidth = BALL_RADIUS * 1.5;
+        if (speed > 0.003) {
+          const trailLen = Math.min(6, 3 + game.rallyCount * 0.3);
+          ctx.strokeStyle = `rgba(205,255,0,${Math.min(0.4, 0.15 + speed * 15)})`;
+          ctx.lineWidth = BALL_RADIUS * 1.8;
           ctx.lineCap = "round";
           ctx.beginPath();
-          ctx.moveTo(bx - ball.vx * w * 3 * rallySpeedMul(game.rallyCount),
-                     by - ball.vy * h * 3 * rallySpeedMul(game.rallyCount));
+          ctx.moveTo(bx - ball.vx * w * trailLen * rallySpeedMul(game.rallyCount),
+                     by - ball.vy * h * trailLen * rallySpeedMul(game.rallyCount));
           ctx.lineTo(bx, by);
           ctx.stroke();
           ctx.lineCap = "butt";
         }
 
-        // Ball glow
-        const bg = ctx.createRadialGradient(bx, by, 0, bx, by, BALL_RADIUS * 2.5);
-        bg.addColorStop(0, "#CDFF0020");
+        // Ball glow — bigger and brighter
+        const bg = ctx.createRadialGradient(bx, by, 0, bx, by, BALL_RADIUS * 3);
+        bg.addColorStop(0, "#CDFF0030");
+        bg.addColorStop(0.5, "#CDFF0010");
         bg.addColorStop(1, "transparent");
         ctx.fillStyle = bg;
         ctx.beginPath();
-        ctx.arc(bx, by, BALL_RADIUS * 2.5, 0, Math.PI * 2);
+        ctx.arc(bx, by, BALL_RADIUS * 3, 0, Math.PI * 2);
         ctx.fill();
 
         // Ball body — tennis ball yellow-green
