@@ -2,9 +2,9 @@
 
 import { useState, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
-import { Swords, Loader2, X } from "lucide-react";
+import { Swords, Loader2, X, Users, Check, Play } from "lucide-react";
 import { useRouter } from "next/navigation";
-import { subscribeToMatch, type MultiplayerMatch, type GameType, GAME_LABELS } from "@/lib/multiplayer";
+import { subscribeToMatch, isGroupMatch, startGroupMatch, type MultiplayerMatch, type MatchPlayer, type GameType, GAME_LABELS } from "@/lib/multiplayer";
 import { supabase } from "@/lib/supabase/client";
 import AvatarCompanion from "@/components/AvatarCompanion";
 import { getGender, type AvatarGender } from "@/lib/gender";
@@ -15,10 +15,10 @@ import { getActiveHat, getHatDef } from "@/lib/accessories";
 import { useLang } from "@/components/LanguageProvider";
 
 const T = {
-  en: { waiting: "Waiting for", toAccept: "to accept...", cancel: "Cancel", accepted: "Challenge accepted!", starting: "Starting in", declined: "declined your challenge", back: "Back" },
-  hu: { waiting: "Varakozas,", toAccept: "elfogadja...", cancel: "Megse", accepted: "Kihivas elfogadva!", starting: "Indul", declined: "elutasitotta a kihivast", back: "Vissza" },
-  de: { waiting: "Warte auf", toAccept: "...", cancel: "Abbrechen", accepted: "Angenommen!", starting: "Start in", declined: "hat abgelehnt", back: "Zuruck" },
-  ro: { waiting: "Se asteapta ca", toAccept: "sa accepte...", cancel: "Anuleaza", accepted: "Provocare acceptata!", starting: "Incepe in", declined: "a refuzat provocarea", back: "Inapoi" },
+  en: { waiting: "Waiting for", toAccept: "to accept...", cancel: "Cancel", accepted: "Challenge accepted!", starting: "Starting in", declined: "declined your challenge", back: "Back", lobby: "Lobby", startNow: "Start now", playersReady: "players ready", waitingPlayers: "Waiting for players...", you: "you" },
+  hu: { waiting: "Varakozas,", toAccept: "elfogadja...", cancel: "Megse", accepted: "Kihivas elfogadva!", starting: "Indul", declined: "elutasitotta a kihivast", back: "Vissza", lobby: "Előszoba", startNow: "Indítás", playersReady: "játékos kész", waitingPlayers: "Várakozás a játékosokra...", you: "te" },
+  de: { waiting: "Warte auf", toAccept: "...", cancel: "Abbrechen", accepted: "Angenommen!", starting: "Start in", declined: "hat abgelehnt", back: "Zuruck", lobby: "Lobby", startNow: "Jetzt starten", playersReady: "Spieler bereit", waitingPlayers: "Warte auf Spieler...", you: "du" },
+  ro: { waiting: "Se asteapta ca", toAccept: "sa accepte...", cancel: "Anuleaza", accepted: "Provocare acceptata!", starting: "Incepe in", declined: "a refuzat provocarea", back: "Inapoi", lobby: "Lobby", startNow: "Pornește", playersReady: "jucători gata", waitingPlayers: "Se așteaptă jucătorii...", you: "tu" },
 };
 
 interface Props {
@@ -35,6 +35,8 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
   const [phase, setPhase] = useState<"waiting" | "accepted" | "countdown" | "declined">("waiting");
   const [countdown, setCountdown] = useState(3);
   const [avatarMood, setAvatarMood] = useState<"idle" | "happy" | "victory" | "disappointed">("idle");
+  const [groupPlayers, setGroupPlayers] = useState<MatchPlayer[]>((match.players_data || []) as MatchPlayer[]);
+  const [startingGroup, setStartingGroup] = useState(false);
 
   // Avatar state
   const [gender] = useState<AvatarGender>(() => getGender());
@@ -48,9 +50,12 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
   const [activeGloves] = useState(() => { const id = getActive("gloves"); return id ? getGloveDef(id) : null; });
   const [activeHat] = useState(() => { const id = getActiveHat(); return id ? getHatDef(id) : null; });
 
-  const opponentName = (match.player1_name.toLowerCase() === myName.toLowerCase()
-    ? match.player2_name
-    : match.player1_name) || "???";
+  const group = isGroupMatch(match);
+  const opponentName = group
+    ? ((match.players_data || []) as MatchPlayer[]).filter(p => p.name.toLowerCase() !== myName.toLowerCase()).map(p => p.name).join(", ")
+    : ((match.player1_name.toLowerCase() === myName.toLowerCase()
+      ? match.player2_name
+      : match.player1_name) || "???");
   const isP1 = match.player1_name.toLowerCase() === myName.toLowerCase();
   const isMix = match.match_type === "mix";
   const gameLabel = isMix
@@ -60,20 +65,26 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
     ? (isNaN(Number(match.difficulty)) ? String(match.difficulty) : `Lv.${match.difficulty}`)
     : null;
 
-  // Poll for match status changes (opponent accepts or declines)
+  // Poll for match status changes
   useEffect(() => {
     if (phase !== "waiting") return;
 
     const checkStatus = async () => {
       const { data, error } = await supabase
         .from("multiplayer_matches")
-        .select("status")
+        .select("*")
         .eq("id", match.id)
         .single();
 
       if (error || !data) return;
 
+      // Update group player list
+      if (group && data.players_data) {
+        setGroupPlayers(data.players_data as MatchPlayer[]);
+      }
+
       if (data.status === "playing") {
+        if (group && data.players_data) setGroupPlayers(data.players_data as MatchPlayer[]);
         setPhase("accepted");
         setAvatarMood("happy");
         setTimeout(() => {
@@ -87,28 +98,46 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
       }
     };
 
-    // Check immediately on mount
     checkStatus();
-    // Poll frequently to catch declines quickly
     const interval = setInterval(checkStatus, 1500);
     return () => clearInterval(interval);
-  }, [match.id, phase]);
+  }, [match.id, phase, group]);
+
+  // Handle group start
+  const handleGroupStart = async () => {
+    setStartingGroup(true);
+    await startGroupMatch(match.id);
+    // Status change will be picked up by the polling
+  };
+
+  // Group match: how many accepted
+  const acceptedCount = groupPlayers.filter(p => p.accepted).length;
+  const canStartGroup = group && isP1 && acceptedCount >= 2;
 
   // Countdown
   useEffect(() => {
     if (phase !== "countdown") return;
     if (countdown <= 0) {
-      if (isMix && match.mix_games) {
+      if (group) {
+        // Group match navigation
+        const players = groupPlayers.filter(p => p.accepted);
+        const myIdx = players.findIndex(p => p.name.toLowerCase() === myName.toLowerCase());
+        const pNum = myIdx >= 0 ? myIdx + 1 : 1;
+        const opponents = players.filter(p => p.name.toLowerCase() !== myName.toLowerCase()).map(p => encodeURIComponent(p.name)).join(",");
+        let url = `/${match.game}?match=${match.id}&seed=${match.seed}&p=${pNum}&vs=${opponents}&players=${players.length}`;
+        if (match.difficulty) url += `&level=${match.difficulty}`;
+        router.push(url);
+      } else if (isMix && match.mix_games) {
         const currentGame = match.mix_games[0];
         let url = `/${currentGame}?match=${match.id}&seed=${match.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponentName)}&mixround=1`;
-        // Parse mix levels from difficulty field (comma-separated)
         if (match.difficulty && String(match.difficulty).includes(",")) {
           const levels = String(match.difficulty).split(",");
           if (levels[0] && Number(levels[0]) > 0) url += `&level=${levels[0]}`;
         }
         router.push(url);
       } else {
-        let url = `/${match.game}?match=${match.id}&seed=${match.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponentName)}`;
+        const singleOpp = (match.player1_name.toLowerCase() === myName.toLowerCase() ? match.player2_name : match.player1_name) || "???";
+        let url = `/${match.game}?match=${match.id}&seed=${match.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(singleOpp)}`;
         if (match.difficulty) url += `&level=${match.difficulty}`;
         router.push(url);
       }
@@ -116,7 +145,7 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
     }
     const timer = setTimeout(() => setCountdown((c) => c - 1), 1000);
     return () => clearTimeout(timer);
-  }, [phase, countdown, match, isP1, isMix, router, opponentName]);
+  }, [phase, countdown, match, isP1, isMix, router, opponentName, group, groupPlayers, myName]);
 
   return (
     <motion.div
@@ -156,36 +185,87 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
         {/* Waiting phase */}
         {phase === "waiting" && (
           <motion.div
-            className="flex flex-col items-center gap-4"
+            className="flex flex-col items-center gap-4 w-full max-w-xs"
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
           >
             <div className="flex items-center gap-2">
-              <Swords size={18} className="text-neon-pink" style={{ filter: "drop-shadow(0 0 8px rgba(255,45,120,0.4))" }} />
+              {group ? <Users size={18} className="text-neon-purple" style={{ filter: "drop-shadow(0 0 8px rgba(180,77,255,0.4))" }} /> :
+              <Swords size={18} className="text-neon-pink" style={{ filter: "drop-shadow(0 0 8px rgba(255,45,120,0.4))" }} />}
               <span className="text-white/60 text-xs font-bold uppercase tracking-wider">
                 {gameLabel}
                 {diffLabel && <span className="text-gold"> ({diffLabel})</span>}
               </span>
             </div>
 
-            <div className="flex items-center gap-3">
-              <Loader2 size={16} className="animate-spin text-neon-blue" />
-              <p className="text-white/70 text-sm">
-                {t.waiting} <span className="font-bold text-neon-blue">{opponentName}</span> {t.toAccept}
-              </p>
-            </div>
+            {group ? (
+              <>
+                {/* Group lobby — player list */}
+                <div className="w-full bg-white/5 rounded-xl border border-white/10 p-3 flex flex-col gap-2">
+                  <span className="text-white/40 text-[10px] font-bold uppercase tracking-wider">{t.lobby}</span>
+                  {groupPlayers.map((p) => {
+                    const isMe = p.name.toLowerCase() === myName.toLowerCase();
+                    return (
+                      <div key={p.name} className="flex items-center gap-2">
+                        <div className={`w-5 h-5 rounded-full flex items-center justify-center text-[10px] ${
+                          p.accepted ? "bg-neon-green/20 text-neon-green" : "bg-white/10 text-white/30"
+                        }`}>
+                          {p.accepted ? <Check size={10} /> : <Loader2 size={10} className="animate-spin" />}
+                        </div>
+                        <span className={`text-sm ${isMe ? "text-white font-bold" : "text-white/70"}`}>
+                          {p.name}{isMe ? ` (${t.you})` : ""}
+                        </span>
+                      </div>
+                    );
+                  })}
+                  <div className="text-white/30 text-[10px] mt-1">
+                    {acceptedCount}/{groupPlayers.length} {t.playersReady}
+                  </div>
+                </div>
 
-            {/* Animated dots */}
-            <div className="flex gap-1.5">
-              {[0, 1, 2].map((i) => (
-                <motion.div
-                  key={i}
-                  className="w-2 h-2 rounded-full bg-neon-pink/40"
-                  animate={{ opacity: [0.3, 1, 0.3], scale: [0.8, 1.2, 0.8] }}
-                  transition={{ repeat: Infinity, duration: 1.5, delay: i * 0.3 }}
-                />
-              ))}
-            </div>
+                {/* Start button (creator only, when 2+ accepted) */}
+                {canStartGroup && (
+                  <motion.button
+                    onClick={handleGroupStart}
+                    disabled={startingGroup}
+                    className="flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl bg-neon-green/15 border border-neon-green/40 text-neon-green font-bold text-sm"
+                    whileHover={{ scale: 1.02 }}
+                    whileTap={{ scale: 0.98 }}
+                  >
+                    {startingGroup ? <Loader2 size={14} className="animate-spin" /> : <Play size={14} />}
+                    {t.startNow}
+                  </motion.button>
+                )}
+
+                {!canStartGroup && (
+                  <div className="flex items-center gap-3">
+                    <Loader2 size={16} className="animate-spin text-neon-purple" />
+                    <p className="text-white/70 text-sm">{t.waitingPlayers}</p>
+                  </div>
+                )}
+              </>
+            ) : (
+              <>
+                <div className="flex items-center gap-3">
+                  <Loader2 size={16} className="animate-spin text-neon-blue" />
+                  <p className="text-white/70 text-sm">
+                    {t.waiting} <span className="font-bold text-neon-blue">{opponentName}</span> {t.toAccept}
+                  </p>
+                </div>
+
+                {/* Animated dots */}
+                <div className="flex gap-1.5">
+                  {[0, 1, 2].map((i) => (
+                    <motion.div
+                      key={i}
+                      className="w-2 h-2 rounded-full bg-neon-pink/40"
+                      animate={{ opacity: [0.3, 1, 0.3], scale: [0.8, 1.2, 0.8] }}
+                      transition={{ repeat: Infinity, duration: 1.5, delay: i * 0.3 }}
+                    />
+                  ))}
+                </div>
+              </>
+            )}
 
             <motion.button
               onClick={onCancel}
@@ -225,7 +305,10 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
               {countdown > 0 ? countdown : "GO!"}
             </motion.div>
             <p className="text-white/60 text-xs">
-              {myName} vs {opponentName} — {gameLabel}
+              {group
+                ? groupPlayers.filter(p => p.accepted).map(p => p.name).join(" vs ")
+                : `${myName} vs ${opponentName}`}
+              {" — "}{gameLabel}
             </p>
           </motion.div>
         )}

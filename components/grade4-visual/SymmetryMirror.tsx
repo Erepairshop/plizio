@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useMemo } from 'react';
+import React, { useState, useRef, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Check, X, RotateCcw, FlipHorizontal } from 'lucide-react';
 import { playCorrect, playIncorrect, playClick, playSelect } from '@/lib/soundEffects';
@@ -61,8 +61,8 @@ const SymmetryMirror: React.FC<SymmetryMirrorProps> = ({
   onValueChange,
 }) => {
   const t = LABELS[language] || LABELS.en;
-  const gridSize = propSize || 6;
-  const half = Math.ceil(gridSize / 2);
+  const gridSize = propSize && propSize % 2 === 0 ? propSize : (propSize ? propSize + 1 : 6);
+  const half = gridSize / 2;
 
   // Generate left-side pattern (only left half has filled cells)
   const leftPattern = useMemo(() => {
@@ -100,11 +100,13 @@ const SymmetryMirror: React.FC<SymmetryMirrorProps> = ({
   const [feedback, setFeedback] = useState<'correct' | 'incorrect' | null>(null);
   const [submitted, setSubmitted] = useState(false);
 
+  const onValueChangeRef = useRef(onValueChange);
+  onValueChangeRef.current = onValueChange;
   React.useEffect(() => {
-    if (embedded && onValueChange && userClicked.size > 0) {
-      onValueChange(Array.from(userClicked).sort().join(';'));
+    if (embedded && onValueChangeRef.current && userClicked.size > 0) {
+      onValueChangeRef.current(Array.from(userClicked).sort().join(';'));
     }
-  }, [embedded, onValueChange, userClicked]);
+  }, [embedded, userClicked]);
 
   const toggleCell = (r: number, c: number) => {
     if (submitted || c < half) return; // Can only click right side

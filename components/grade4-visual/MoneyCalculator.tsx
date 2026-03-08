@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useMemo } from 'react';
+import React, { useState, useRef, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Check, X, RotateCcw, Coins } from 'lucide-react';
 import { playCorrect, playIncorrect, playClick, playSelect } from '@/lib/soundEffects';
@@ -8,6 +8,7 @@ import { playCorrect, playIncorrect, playClick, playSelect } from '@/lib/soundEf
 interface MoneyCalculatorProps {
   items?: { name: string; price: number }[];
   budget?: number;
+  mode?: 'total' | 'change';
   language?: 'hu' | 'de' | 'en' | 'ro';
   onAnswer: (isCorrect: boolean, answer: number) => void;
   embedded?: boolean;
@@ -90,6 +91,7 @@ const DEFAULT_ITEMS = [
 const MoneyCalculator: React.FC<MoneyCalculatorProps> = ({
   items: propItems,
   budget: propBudget,
+  mode: propMode,
   language = 'de',
   onAnswer,
   embedded = false,
@@ -105,9 +107,9 @@ const MoneyCalculator: React.FC<MoneyCalculatorProps> = ({
     const total = Math.round(picked.reduce((s, i) => s + i.price, 0) * 100) / 100;
     const bud = propBudget || Math.ceil(total);
     // Mode: 'total' = calculate sum, 'change' = calculate change
-    const m = Math.random() > 0.5 ? 'total' : 'change';
+    const m = propMode || (Math.random() > 0.5 ? 'total' : 'change');
     return { shoppingItems: picked, budget: bud, mode: m as 'total' | 'change' };
-  }, [propItems, propBudget]);
+  }, [propItems, propBudget, propMode]);
 
   const correctTotal = Math.round(shoppingItems.reduce((s, i) => s + i.price, 0) * 100) / 100;
   const correctChange = Math.round((budget - correctTotal) * 100) / 100;
@@ -117,9 +119,11 @@ const MoneyCalculator: React.FC<MoneyCalculatorProps> = ({
   const [feedback, setFeedback] = useState<'correct' | 'incorrect' | null>(null);
   const [submitted, setSubmitted] = useState(false);
 
+  const onValueChangeRef = useRef(onValueChange);
+  onValueChangeRef.current = onValueChange;
   React.useEffect(() => {
-    if (embedded && onValueChange && inputVal.trim()) onValueChange(inputVal.trim());
-  }, [embedded, onValueChange, inputVal]);
+    if (embedded && onValueChangeRef.current && inputVal.trim()) onValueChangeRef.current(inputVal.trim());
+  }, [embedded, inputVal]);
 
   const handleSubmit = () => {
     const answer = parseFloat(inputVal.replace(',', '.'));
@@ -197,7 +201,7 @@ const MoneyCalculator: React.FC<MoneyCalculatorProps> = ({
           onChange={e => setInputVal(e.target.value)}
           disabled={submitted}
           placeholder="0,00"
-          className="w-28 text-center text-xl font-black border-2 border-green-300 rounded-xl py-2 bg-white focus:border-green-500 focus:outline-none disabled:opacity-60"
+          className="w-28 text-center text-xl font-black text-slate-800 border-2 border-green-300 rounded-xl py-2 bg-white focus:border-green-500 focus:outline-none disabled:opacity-60"
         />
         <span className="text-lg font-bold text-green-700">{t.currency}</span>
       </div>

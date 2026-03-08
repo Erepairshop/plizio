@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useMemo } from 'react';
+import React, { useState, useRef, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Check, X, RotateCcw, Grid3X3 } from 'lucide-react';
 import { playCorrect, playIncorrect, playClick, playSelect } from '@/lib/soundEffects';
@@ -135,12 +135,14 @@ const GridAreaCounter: React.FC<GridAreaCounterProps> = ({
     setSubmitted(false);
   };
 
+  const onValueChangeRef = useRef(onValueChange);
+  onValueChangeRef.current = onValueChange;
   React.useEffect(() => {
-    if (embedded && onValueChange) {
+    if (embedded && onValueChangeRef.current) {
       const val = inputVal || (clicked.size > 0 ? String(clicked.size) : '');
-      if (val) onValueChange(val);
+      if (val) onValueChangeRef.current(val);
     }
-  }, [embedded, onValueChange, inputVal, clicked.size]);
+  }, [embedded, inputVal, clicked.size]);
 
   const totalGridW = gridW * (CELL + GAP) - GAP;
   const totalGridH = gridH * (CELL + GAP) - GAP;
@@ -229,7 +231,7 @@ const GridAreaCounter: React.FC<GridAreaCounterProps> = ({
           onChange={e => setInputVal(e.target.value)}
           disabled={submitted}
           placeholder={clicked.size > 0 ? String(clicked.size) : '?'}
-          className="w-20 text-center text-xl font-black border-2 border-amber-300 rounded-xl py-2 bg-white focus:border-amber-500 focus:outline-none disabled:opacity-60"
+          className="w-20 text-center text-xl font-black text-slate-800 border-2 border-amber-300 rounded-xl py-2 bg-white focus:border-amber-500 focus:outline-none disabled:opacity-60"
         />
         <span className="text-sm text-slate-500 font-medium">
           {mode === 'area' ? t.unit : t.unitPeri}

@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Check, X, RotateCcw, Hash } from 'lucide-react';
 import { playCorrect, playIncorrect, playClick, playSelect } from '@/lib/soundEffects';
@@ -155,19 +155,21 @@ const PlaceValueGrid: React.FC<PlaceValueGridProps> = ({
     setSubmitted(false);
   };
 
+  const onValueChangeRef = useRef(onValueChange);
+  onValueChangeRef.current = onValueChange;
   React.useEffect(() => {
-    if (embedded && onValueChange) {
+    if (embedded && onValueChangeRef.current) {
       if (mode === 'decompose') {
         const allFilled = activeCols.every(key => inputs[key] !== undefined && inputs[key] !== '');
         if (allFilled) {
           const composed = activeCols.map(key => inputs[key] || '0').join('');
-          onValueChange(composed);
+          onValueChangeRef.current(composed);
         }
       } else {
-        if (composeInput.trim()) onValueChange(composeInput.trim());
+        if (composeInput.trim()) onValueChangeRef.current(composeInput.trim());
       }
     }
-  }, [embedded, onValueChange, mode, inputs, composeInput, activeCols]);
+  }, [embedded, mode, inputs, composeInput, activeCols]);
 
   const canSubmit = mode === 'decompose'
     ? activeCols.some(key => inputs[key] !== undefined && inputs[key] !== '')
@@ -270,7 +272,7 @@ const PlaceValueGrid: React.FC<PlaceValueGridProps> = ({
             onChange={e => setComposeInput(e.target.value)}
             disabled={submitted}
             placeholder="?"
-            className="w-40 text-center text-2xl font-black border-2 border-violet-300 rounded-xl py-3 bg-white focus:border-violet-500 focus:outline-none disabled:opacity-60"
+            className="w-40 text-center text-2xl font-black text-slate-800 border-2 border-violet-300 rounded-xl py-3 bg-white focus:border-violet-500 focus:outline-none disabled:opacity-60"
           />
         </div>
       )}

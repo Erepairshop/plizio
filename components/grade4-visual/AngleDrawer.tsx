@@ -78,9 +78,11 @@ const AngleDrawer: React.FC<AngleDrawerProps> = ({
   const [feedback, setFeedback] = useState<'correct' | 'incorrect' | null>(null);
   const [submitted, setSubmitted] = useState(false);
 
+  const onValueChangeRef = useRef(onValueChange);
+  onValueChangeRef.current = onValueChange;
   React.useEffect(() => {
-    if (embedded && onValueChange && !dragging) onValueChange(String(userAngle));
-  }, [embedded, onValueChange, userAngle, dragging]);
+    if (embedded && onValueChangeRef.current && !dragging) onValueChangeRef.current(String(userAngle));
+  }, [embedded, userAngle, dragging]);
 
   const CX = 160, CY = 160, ARM_LEN = 120;
   const W = 320, H = 200;

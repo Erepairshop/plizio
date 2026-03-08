@@ -9,6 +9,15 @@ export type MatchStatus = "waiting" | "playing" | "finished";
 export type Difficulty = "easy" | "medium" | "hard";  // legacy
 export type MatchType = "single" | "mix";
 
+// ─── Group match player data ─────────────────────────────────
+export interface MatchPlayer {
+  name: string;
+  id: string;
+  score: number | null;
+  done: boolean;
+  accepted: boolean;
+}
+
 export interface MultiplayerMatch {
   id: string;
   game: string;
@@ -35,18 +44,22 @@ export interface MultiplayerMatch {
   mix_round: number;
   mix_round_done_p1: boolean;
   mix_round_done_p2: boolean;
+  // Group match fields (3-4 players)
+  max_players: number;
+  invited_players: string[] | null;
+  players_data: MatchPlayer[] | null;
 }
 
 export type GameType =
-  | "quickpick" | "memoryflash" | "mathtest" | "wordscramble"
+  | "quickpick" | "memoryflash" | "wordscramble"
   | "reflexrush" | "numberrush" | "spotdiff" | "sequencerush"
-  | "wordhunt" | "milliomos" | "kodex" | "deutschtest"
-  | "numberpath" | "minisudoku" | "skyclimb" | "lightout" | "numbermerge" | "nonogram" | "mazerush";
+  | "wordhunt" | "milliomos" | "kodex"
+  | "numberpath" | "minisudoku" | "skyclimb" | "lightout" | "numbermerge" | "nonogram" | "mazerush"
+  | "pingpong" | "airhockey" | "tennis";
 
 export const GAME_LABELS: Record<GameType, string> = {
   quickpick: "Quick Pick",
   memoryflash: "Memory Flash",
-  mathtest: "Math Test",
   wordscramble: "Word Scramble",
   reflexrush: "Reflex Rush",
   numberrush: "Number Rush",
@@ -55,7 +68,6 @@ export const GAME_LABELS: Record<GameType, string> = {
   wordhunt: "Word Hunt",
   milliomos: "Milliomos",
   kodex: "Kodex",
-  deutschtest: "Deutsch Test",
   numberpath: "Number Path",
   minisudoku: "Mini Sudoku",
   skyclimb: "Sky Climb",
@@ -63,6 +75,9 @@ export const GAME_LABELS: Record<GameType, string> = {
   numbermerge: "Number Merge",
   nonogram: "Nonogram",
   mazerush: "Maze Rush",
+  pingpong: "Ping Pong",
+  airhockey: "Air Hockey",
+  tennis: "Tennis",
 };
 
 // Games that have level-based difficulty
@@ -251,7 +266,8 @@ export async function getMyPendingChallenges(): Promise<MultiplayerMatch[]> {
   const myName = getUsername();
   if (!myName) return [];
 
-  const { data } = await supabase
+  // 1v1 challenges where I'm player2
+  const { data: p2 } = await supabase
     .from("multiplayer_matches")
     .select("*")
     .eq("status", "waiting")
@@ -259,7 +275,18 @@ export async function getMyPendingChallenges(): Promise<MultiplayerMatch[]> {
     .order("created_at", { ascending: false })
     .limit(10);
 
-  return (data as MultiplayerMatch[]) || [];
+  // Group challenges where I'm invited
+  const { data: group } = await supabase
+    .from("multiplayer_matches")
+    .select("*")
+    .eq("status", "waiting")
+    .contains("invited_players", [myName])
+    .order("created_at", { ascending: false })
+    .limit(10);
+
+  const all = [...(p2 || []), ...(group || [])] as MultiplayerMatch[];
+  const seen = new Set<string>();
+  return all.filter(m => { if (seen.has(m.id)) return false; seen.add(m.id); return true; });
 }
 
 // ─── Get challenges I sent (waiting for opponent) ───────────
@@ -285,8 +312,8 @@ export async function getMyActiveMatches(): Promise<MultiplayerMatch[]> {
   const myName = getUsername();
   if (!myName) return [];
 
-  // Two separate queries to avoid .or() parsing issues with special chars
-  const [{ data: asP1 }, { data: asP2 }] = await Promise.all([
+  // Three queries: as P1, as P2 (1v1), and as group member
+  const [{ data: asP1 }, { data: asP2 }, { data: asGroup }] = await Promise.all([
     supabase
       .from("multiplayer_matches")
       .select("*")
@@ -301,10 +328,16 @@ export async function getMyActiveMatches(): Promise<MultiplayerMatch[]> {
       .eq("player2_name", myName)
       .order("created_at", { ascending: false })
       .limit(20),
+    supabase
+      .from("multiplayer_matches")
+      .select("*")
+      .in("status", ["waiting", "playing"])
+      .contains("invited_players", [myName])
+      .order("created_at", { ascending: false })
+      .limit(20),
   ]);
 
-  const all = [...(asP1 || []), ...(asP2 || [])] as MultiplayerMatch[];
-  // Dedupe by id
+  const all = [...(asP1 || []), ...(asP2 || []), ...(asGroup || [])] as MultiplayerMatch[];
   const seen = new Set<string>();
   return all.filter((m) => { if (seen.has(m.id)) return false; seen.add(m.id); return true; });
 }
@@ -315,7 +348,7 @@ export async function getMyMatchHistory(): Promise<MultiplayerMatch[]> {
   const myName = getUsername();
   if (!myName) return [];
 
-  const [{ data: asP1 }, { data: asP2 }] = await Promise.all([
+  const [{ data: asP1 }, { data: asP2 }, { data: asGroup }] = await Promise.all([
     supabase
       .from("multiplayer_matches")
       .select("*")
@@ -330,9 +363,16 @@ export async function getMyMatchHistory(): Promise<MultiplayerMatch[]> {
       .eq("player2_name", myName)
       .order("finished_at", { ascending: false })
       .limit(20),
+    supabase
+      .from("multiplayer_matches")
+      .select("*")
+      .eq("status", "finished")
+      .contains("invited_players", [myName])
+      .order("finished_at", { ascending: false })
+      .limit(20),
   ]);
 
-  const all = [...(asP1 || []), ...(asP2 || [])] as MultiplayerMatch[];
+  const all = [...(asP1 || []), ...(asP2 || []), ...(asGroup || [])] as MultiplayerMatch[];
   const seen = new Set<string>();
   return all.filter((m) => { if (seen.has(m.id)) return false; seen.add(m.id); return true; });
 }
@@ -631,4 +671,330 @@ export function getMixStandings(p1Scores: number[], p2Scores: number[]): { p1Win
     else if (p2Scores[i] > p1Scores[i]) p2Wins++;
   }
   return { p1Wins, p2Wins };
+}
+
+// ═══════════════════════════════════════════════════════════════
+// ─── GROUP MATCH (3-4 players) ────────────────────────────────
+// ═══════════════════════════════════════════════════════════════
+
+export const MAX_GROUP_PLAYERS = 4;
+
+/** Check if a match is a group match (3+ players) */
+export function isGroupMatch(match: MultiplayerMatch): boolean {
+  return (match.max_players ?? 2) > 2;
+}
+
+/** Get my player index (0-based) in a group match */
+export function getMyPlayerIndex(match: MultiplayerMatch, myName: string): number {
+  const players = match.players_data as MatchPlayer[] | null;
+  if (!players) return -1;
+  return players.findIndex(p => p.name.toLowerCase() === myName.toLowerCase());
+}
+
+/** Create a group challenge (3-4 players) */
+export async function createGroupChallenge(
+  game: GameType,
+  opponentNames: string[],
+  options?: { level?: number }
+): Promise<{ match: MultiplayerMatch | null; error?: string }> {
+  const myName = getUsername();
+  if (!myName) return { match: null, error: "no_username" };
+  if (opponentNames.length < 2 || opponentNames.length > 3) {
+    return { match: null, error: "need_2_or_3_opponents" };
+  }
+
+  // Verify all opponents exist
+  const oppDataList: { name: string; user_id: string }[] = [];
+  for (const name of opponentNames) {
+    const { data } = await supabase
+      .from("usernames")
+      .select("user_id, name")
+      .eq("name", name.trim())
+      .limit(1)
+      .single();
+    if (!data) return { match: null, error: `opponent_not_found:${name}` };
+    oppDataList.push(data);
+  }
+
+  const myId = await resolvePlayerId(myName);
+  const maxPlayers = opponentNames.length + 1; // creator + opponents
+
+  // Build players_data array
+  const playersData: MatchPlayer[] = [
+    { name: myName, id: myId, score: null, done: false, accepted: true },
+    ...oppDataList.map(opp => ({
+      name: opp.name, id: opp.user_id, score: null, done: false, accepted: false,
+    })),
+  ];
+
+  const { data, error } = await supabase
+    .from("multiplayer_matches")
+    .insert({
+      game,
+      status: "waiting",
+      player1_id: myId,
+      player1_name: myName,
+      player2_name: null,
+      seed: generateSeed(),
+      difficulty: options?.level ? String(options.level) : null,
+      match_type: "single",
+      max_players: maxPlayers,
+      invited_players: opponentNames.map(n => n.trim()),
+      players_data: playersData,
+    })
+    .select()
+    .single();
+
+  if (error) return { match: null, error: error.message };
+  return { match: data as MultiplayerMatch };
+}
+
+/** Accept a group challenge — updates the players_data jsonb */
+export async function acceptGroupChallenge(matchId: string): Promise<{ ok: boolean; allAccepted?: boolean }> {
+  const myName = getUsername();
+  if (!myName) return { ok: false };
+
+  const { data: match } = await supabase
+    .from("multiplayer_matches")
+    .select("*")
+    .eq("id", matchId)
+    .single();
+
+  if (!match) return { ok: false };
+
+  const players = (match.players_data || []) as MatchPlayer[];
+  const idx = players.findIndex(p => p.name.toLowerCase() === myName.toLowerCase());
+  if (idx < 0) return { ok: false };
+
+  players[idx].accepted = true;
+
+  // Check if all accepted
+  const allAccepted = players.every(p => p.accepted);
+
+  const update: Record<string, unknown> = { players_data: players };
+  if (allAccepted) update.status = "playing";
+
+  await supabase
+    .from("multiplayer_matches")
+    .update(update)
+    .eq("id", matchId);
+
+  return { ok: true, allAccepted };
+}
+
+/** Decline a group challenge — remove self from players_data */
+export async function declineGroupChallenge(matchId: string): Promise<void> {
+  const myName = getUsername();
+  if (!myName) return;
+
+  const { data: match } = await supabase
+    .from("multiplayer_matches")
+    .select("*")
+    .eq("id", matchId)
+    .single();
+
+  if (!match) return;
+
+  const players = (match.players_data || []) as MatchPlayer[];
+  const filtered = players.filter(p => p.name.toLowerCase() !== myName.toLowerCase());
+  const invitedFiltered = (match.invited_players || []).filter(
+    (n: string) => n.toLowerCase() !== myName.toLowerCase()
+  );
+
+  // If less than 2 players left, cancel the match
+  if (filtered.length < 2) {
+    await supabase
+      .from("multiplayer_matches")
+      .update({ status: "cancelled", players_data: filtered, invited_players: invitedFiltered })
+      .eq("id", matchId);
+    return;
+  }
+
+  await supabase
+    .from("multiplayer_matches")
+    .update({
+      players_data: filtered,
+      invited_players: invitedFiltered,
+      max_players: filtered.length,
+    })
+    .eq("id", matchId);
+}
+
+/** Submit score for a group match */
+export async function submitGroupScore(
+  matchId: string,
+  score: number,
+): Promise<{ ok: boolean; allDone?: boolean; rankings?: { name: string; score: number }[] }> {
+  const myName = getUsername();
+  if (!myName) return { ok: false };
+
+  const { data: match } = await supabase
+    .from("multiplayer_matches")
+    .select("*")
+    .eq("id", matchId)
+    .single();
+
+  if (!match) return { ok: false };
+
+  const players = (match.players_data || []) as MatchPlayer[];
+  const idx = players.findIndex(p => p.name.toLowerCase() === myName.toLowerCase());
+  if (idx < 0) return { ok: false };
+
+  players[idx].score = score;
+  players[idx].done = true;
+
+  const allDone = players.every(p => p.done);
+
+  const update: Record<string, unknown> = { players_data: players };
+
+  if (allDone) {
+    // Rank players by score (descending)
+    const ranked = [...players].sort((a, b) => (b.score ?? 0) - (a.score ?? 0));
+    const winnerId = ranked[0].id;
+    update.status = "finished";
+    update.winner_id = winnerId;
+    update.finished_at = new Date().toISOString();
+  }
+
+  await supabase
+    .from("multiplayer_matches")
+    .update(update)
+    .eq("id", matchId);
+
+  if (allDone) {
+    const rankings = [...players].sort((a, b) => (b.score ?? 0) - (a.score ?? 0))
+      .map(p => ({ name: p.name, score: p.score ?? 0 }));
+    return { ok: true, allDone: true, rankings };
+  }
+
+  return { ok: true, allDone: false };
+}
+
+/** Get pending group challenges for me (where I'm in invited_players) */
+export async function getMyPendingGroupChallenges(): Promise<MultiplayerMatch[]> {
+  const myName = getUsername();
+  if (!myName) return [];
+
+  const { data } = await supabase
+    .from("multiplayer_matches")
+    .select("*")
+    .eq("status", "waiting")
+    .contains("invited_players", [myName])
+    .order("created_at", { ascending: false })
+    .limit(10);
+
+  return (data as MultiplayerMatch[]) || [];
+}
+
+/** Get active group matches for me */
+export async function getMyActiveGroupMatches(): Promise<MultiplayerMatch[]> {
+  const myName = getUsername();
+  if (!myName) return [];
+
+  // Creator's group matches
+  const { data: asCreator } = await supabase
+    .from("multiplayer_matches")
+    .select("*")
+    .in("status", ["waiting", "playing"])
+    .eq("player1_name", myName)
+    .gt("max_players", 2)
+    .order("created_at", { ascending: false })
+    .limit(10);
+
+  // Group matches where I'm invited
+  const { data: asInvited } = await supabase
+    .from("multiplayer_matches")
+    .select("*")
+    .in("status", ["waiting", "playing"])
+    .contains("invited_players", [myName])
+    .order("created_at", { ascending: false })
+    .limit(10);
+
+  const all = [...(asCreator || []), ...(asInvited || [])] as MultiplayerMatch[];
+  const seen = new Set<string>();
+  return all.filter(m => { if (seen.has(m.id)) return false; seen.add(m.id); return true; });
+}
+
+/** Get group match history */
+export async function getMyGroupMatchHistory(): Promise<MultiplayerMatch[]> {
+  const myName = getUsername();
+  if (!myName) return [];
+
+  const { data: asCreator } = await supabase
+    .from("multiplayer_matches")
+    .select("*")
+    .eq("status", "finished")
+    .eq("player1_name", myName)
+    .gt("max_players", 2)
+    .order("finished_at", { ascending: false })
+    .limit(10);
+
+  const { data: asInvited } = await supabase
+    .from("multiplayer_matches")
+    .select("*")
+    .eq("status", "finished")
+    .contains("invited_players", [myName])
+    .order("finished_at", { ascending: false })
+    .limit(10);
+
+  const all = [...(asCreator || []), ...(asInvited || [])] as MultiplayerMatch[];
+  const seen = new Set<string>();
+  return all.filter(m => { if (seen.has(m.id)) return false; seen.add(m.id); return true; });
+}
+
+/** Poll group match for opponent scores (called from game pages) */
+export async function pollGroupMatch(matchId: string): Promise<{
+  allDone: boolean;
+  players: MatchPlayer[];
+  rankings?: { name: string; score: number }[];
+}> {
+  const { data } = await supabase
+    .from("multiplayer_matches")
+    .select("*")
+    .eq("id", matchId)
+    .single();
+
+  if (!data) return { allDone: false, players: [] };
+
+  const players = (data.players_data || []) as MatchPlayer[];
+  const allDone = players.every(p => p.done);
+
+  if (allDone) {
+    const rankings = [...players].sort((a, b) => (b.score ?? 0) - (a.score ?? 0))
+      .map(p => ({ name: p.name, score: p.score ?? 0 }));
+    return { allDone: true, players, rankings };
+  }
+
+  return { allDone: false, players };
+}
+
+/** Start a group match early (creator starts when enough players accepted) */
+export async function startGroupMatch(matchId: string): Promise<{ ok: boolean }> {
+  const { data: match } = await supabase
+    .from("multiplayer_matches")
+    .select("*")
+    .eq("id", matchId)
+    .single();
+
+  if (!match) return { ok: false };
+
+  const players = (match.players_data || []) as MatchPlayer[];
+  const accepted = players.filter(p => p.accepted);
+  if (accepted.length < 2) return { ok: false };
+
+  // Remove non-accepted players
+  const activePlayers = players.filter(p => p.accepted);
+  const activeNames = activePlayers.filter(p => p.name !== match.player1_name).map(p => p.name);
+
+  await supabase
+    .from("multiplayer_matches")
+    .update({
+      status: "playing",
+      players_data: activePlayers,
+      invited_players: activeNames,
+      max_players: activePlayers.length,
+    })
+    .eq("id", matchId);
+
+  return { ok: true };
 }

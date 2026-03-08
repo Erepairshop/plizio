@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useMemo } from 'react';
+import React, { useState, useRef, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Check, X, RotateCcw, Timer } from 'lucide-react';
 import { playCorrect, playIncorrect, playClick } from '@/lib/soundEffects';
@@ -90,9 +90,11 @@ const TimelineDuration: React.FC<TimelineDurationProps> = ({
   const [feedback, setFeedback] = useState<'correct' | 'incorrect' | null>(null);
   const [submitted, setSubmitted] = useState(false);
 
+  const onValueChangeRef = useRef(onValueChange);
+  onValueChangeRef.current = onValueChange;
   React.useEffect(() => {
-    if (embedded && onValueChange && inputVal.trim()) onValueChange(inputVal.trim());
-  }, [embedded, onValueChange, inputVal]);
+    if (embedded && onValueChangeRef.current && inputVal.trim()) onValueChangeRef.current(inputVal.trim());
+  }, [embedded, inputVal]);
 
   const handleSubmit = () => {
     const answer = parseInt(inputVal);
@@ -206,7 +208,7 @@ const TimelineDuration: React.FC<TimelineDurationProps> = ({
           onChange={e => setInputVal(e.target.value)}
           disabled={submitted}
           placeholder="?"
-          className="w-20 text-center text-xl font-black border-2 border-teal-300 rounded-xl py-2 bg-white focus:border-teal-500 focus:outline-none disabled:opacity-60"
+          className="w-20 text-center text-xl font-black text-slate-800 border-2 border-teal-300 rounded-xl py-2 bg-white focus:border-teal-500 focus:outline-none disabled:opacity-60"
         />
         <span className="text-sm text-slate-500 font-medium">{t.hours}</span>
       </div>
