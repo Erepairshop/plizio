@@ -1729,3 +1729,75 @@ export function qSystemEq(a1: number, b1: number, s1: number, a2: number, b2: nu
     default:   return `x+y=${s1} és x-y=${s2}. x=?`;
   }
 }
+
+// ─── Grade 4 specific question templates ────────────────────────────────────
+
+export function qRoundTo1000(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Runde ${n} auf den nächsten Tausender.`;
+    case "EN": return `Round ${n} to the nearest 1000.`;
+    case "RO": return `Rotunjește ${n} la mii.`;
+    default:   return `Kerekítsd ${n}-t a legközelebbi 1000-esre!`;
+  }
+}
+
+export function qCircleRadiusFromDiameter(d: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Kreis hat einen Durchmesser von ${d} cm. Wie lang ist der Radius?`;
+    case "EN": return `A circle has a diameter of ${d} cm. What is its radius?`;
+    case "RO": return `Un cerc are diametrul de ${d} cm. Cât este raza?`;
+    default:   return `Egy kör átmérője ${d} cm. Mekkora a sugara?`;
+  }
+}
+
+export function qCircleDiameterFromRadius(r: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Kreis hat einen Radius von ${r} cm. Wie lang ist der Durchmesser?`;
+    case "EN": return `A circle has a radius of ${r} cm. What is its diameter?`;
+    case "RO": return `Un cerc are raza de ${r} cm. Cât este diametrul?`;
+    default:   return `Egy kör sugara ${r} cm. Mekkora az átmérője?`;
+  }
+}
+
+export function qTimeElapsed(startHour: number, durationHours: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Es ist ${startHour}:00 Uhr. In ${durationHours} Stunden ist es ? Uhr.`;
+    case "EN": return `It is ${startHour}:00. In ${durationHours} hours it will be ? o'clock.`;
+    case "RO": return `Este ora ${startHour}:00. Peste ${durationHours} ore va fi ora ?`;
+    default:   return `${startHour}:00 van. ${durationHours} óra múlva hány óra lesz?`;
+  }
+}
+
+export function qHoursToMinutes(h: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${h} Stunde${h > 1 ? 'n' : ''} = ? Minuten`;
+    case "EN": return `${h} hour${h > 1 ? 's' : ''} = ? minutes`;
+    case "RO": return `${h} or${h > 1 ? 'e' : 'ă'} = ? minute`;
+    default:   return `${h} óra = ? perc`;
+  }
+}
+
+export function qMinutesToHours(min: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${min} Minuten = ? Stunde${min >= 120 ? 'n' : ''}`;
+    case "EN": return `${min} minutes = ? hour${min >= 120 ? 's' : ''}`;
+    case "RO": return `${min} minute = ? or${min >= 120 ? 'e' : 'ă'}`;
+    default:   return `${min} perc = ? óra`;
+  }
+}
+
+export function qChangeBack(item: string, price: number, paid: number, currency: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein ${item} kostet ${price} ${currency}. Du bezahlst mit ${paid} ${currency}. Wie viel Wechselgeld bekommst du?`;
+    case "EN": return `A ${item} costs ${price} ${currency}. You pay with ${paid} ${currency}. How much change do you get?`;
+    case "RO": return `Un ${item} costă ${price} ${currency}. Plătești cu ${paid} ${currency}. Cât rest primești?`;
+    default:   return `Egy ${item} ára ${price} ${currency}. ${paid} ${currency}-val fizetsz. Mennyi visszajáró jár?`;
+  }
+}

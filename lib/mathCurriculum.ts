@@ -38,6 +38,10 @@ import {
   qInequalityGt, qInequalityLt,
   qVolumeBox, qVolumeCube, qVolumeCylinder,
   qSystemEq,
+  qRoundTo1000,
+  qCircleRadiusFromDiameter, qCircleDiameterFromRadius,
+  qTimeElapsed, qHoursToMinutes, qMinutesToHours,
+  qChangeBack,
   getLang,
 } from "./mathTranslations";
 
@@ -506,6 +510,11 @@ const G4: Record<string, Generator> = {
     const price = randInt(12, 30); const cnt = randInt(2, 5);
     return q(wpBuyMultiple(items.notebook, price, cnt, cur, cc), price * cnt, t("wordProblem", cc), 0, true);
   },
+  word3: (cc) => {
+    const items = getItems(cc);
+    const d = pick([2, 3, 4, 5]); const r = randInt(3, 8);
+    return q(wpShare(d * r, d, r, items.candy, cc), r, t("wordProblem", cc), 0, true);
+  },
   fraction: (cc) => pick([
     () => q(qHowManyQuartersInWhole(cc), 4, t("fractions", cc)),
     () => q(qHowManyHalvesInWhole(cc), 2, t("fractions", cc)),
@@ -589,6 +598,48 @@ const G4: Record<string, Generator> = {
     () => { const r = randInt(2, 8); return q(qCircleCircumference(r, cc), Math.round(2 * Math.PI * r), t("geometry", cc)); },
     () => { const r = randInt(2, 8); return q(qCircleArea(r, cc), Math.round(Math.PI * r * r), t("geometry", cc)); },
   ])(),
+  // Grade 4-appropriate: simple circle/geometry without π
+  circleSimple: (cc) => pick([
+    () => { const d = randInt(4, 16); return q(qCircleRadiusFromDiameter(d, cc), d / 2, t("geometry", cc)); },
+    () => { const r = randInt(2, 8); return q(qCircleDiameterFromRadius(r, cc), r * 2, t("geometry", cc)); },
+  ])(),
+  // Grade 4 fractions: only halves and quarters (2 and 4 denominators)
+  fractionSimple: (cc) => pick([
+    () => q(qHowManyQuartersInWhole(cc), 4, t("fractions", cc)),
+    () => q(qHowManyHalvesInWhole(cc), 2, t("fractions", cc)),
+    () => { const w = randInt(2, 4); return q(qWholeToHalves(w, cc), w * 2, t("fractions", cc)); },
+    () => { const n = randInt(1, 3); return q(qPizzaSlices(n, 4, cc), 4 - n, t("fractions", cc)); },
+    () => { const n = randInt(2, 10) * 2; return q(qHalfOf(n, cc), n / 2, t("fractions", cc)); },
+  ])(),
+  // Grade 4 fraction add/sub: only same denominator 2 or 4
+  fractionAddSimple: (cc) => {
+    const d = pick([2, 4]);
+    const a = randInt(1, d === 2 ? 1 : 2), b = randInt(1, d === 2 ? 1 : 2);
+    return q(qFractionNumerator(a, b, d, cc), a + b, t("fractionAdd", cc));
+  },
+  fractionSubSimple: (cc) => {
+    const d = 4;
+    const a = randInt(2, 3), b = randInt(1, a - 1);
+    return q(qFractionSubNumerator(a, b, d, cc), a - b, t("fractionSub", cc));
+  },
+  // Grade 4 rounding: includes 1000er
+  roundingG4: (cc) => pick([
+    () => { const n = randInt(1, 99); return q(qRoundTo10(n, cc), Math.round(n / 10) * 10, t("rounding", cc)); },
+    () => { const n = randInt(10, 999); return q(qRoundTo100(n, cc), Math.round(n / 100) * 100, t("rounding", cc)); },
+    () => { const n = randInt(100, 9999); return q(qRoundTo1000(n, cc), Math.round(n / 1000) * 1000, t("rounding", cc)); },
+  ])(),
+  // Grade 4 time word problems
+  timeWord: (cc) => pick([
+    () => { const start = randInt(8, 14), dur = randInt(1, 4); return q(qTimeElapsed(start, dur, cc), start + dur, t("timeCalc", cc)); },
+    () => { const h = randInt(1, 3); return q(qHoursToMinutes(h, cc), h * 60, t("timeCalc", cc)); },
+    () => { const min = pick([60, 120, 180]); return q(qMinutesToHours(min, cc), min / 60, t("timeCalc", cc)); },
+  ])(),
+  // Grade 4 money word problems
+  moneyWord: (cc) => {
+    const items = getItems(cc); const cur = getCurrency(cc);
+    const price = randInt(2, 15); const paid = price + randInt(1, 10);
+    return q(qChangeBack(items.notebook, price, paid, cur, cc), paid - price, t("wordProblem", cc), 0, true);
+  },
 };
 
 // ─── GRADE 5 GENERATORS ─────────────────────────────
@@ -1355,7 +1406,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'grosseZahlen', name: 'Große Zahlen (bis 1 000 000)', color: '#93C5FD', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.largeNumbers] },
       { key: 'stellenwert', name: 'Stellenwertsystem', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig] },
       { key: 'zahlenstrahl', name: 'Zahlenstrahl & Zahlen ordnen', color: '#3B82F6', icon: '📊', generators: [G4.sequence, G3.sequence] },
-      { key: 'runden', name: 'Runden (10er, 100er, 1000er)', color: '#06B6D4', icon: '🔄', generators: [G4.rounding] },
+      { key: 'runden', name: 'Runden (10er, 100er, 1000er)', color: '#06B6D4', icon: '🔄', generators: [G4.roundingG4] },
       { key: 'place_value', name: '🎮 Stellenwerttafel - Interaktiv', color: '#6366F1', icon: '🔢', generators: [] },
       { key: 'number_line', name: '🎮 Runden am Zahlenstrahl', color: '#14B8A6', icon: '🎯', generators: [] },
     ]},
@@ -1363,18 +1414,18 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'addSub', name: 'Addition & Subtraktion', color: '#34D399', icon: '➕', generators: [G4.writtenAddLarge, G4.writtenSubLarge] },
       { key: 'mul', name: 'Multiplikation (schriftlich)', color: '#22C55E', icon: '✖️', generators: [G4.writtenMul, G4.writtenMulB] },
       { key: 'div', name: 'Division (schriftlich)', color: '#10B981', icon: '➗', generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit] },
-      { key: 'ueberschlagen', name: 'Überschlagen & Kontrolle', color: '#059669', icon: '🎯', generators: [G4.rounding, G4.writtenMul] },
+      { key: 'ueberschlagen', name: 'Überschlagen & Kontrolle', color: '#059669', icon: '🎯', generators: [G4.roundingG4, G4.writtenMul] },
     ]},
     { key: 'g4_struktur', name: 'Zahlenstruktur und Denken', color: '#8B5CF6', icon: '🧩', topics: [
       { key: 'zahlenfolgen', name: 'Zahlenfolgen & Muster', color: '#A78BFA', icon: '🔗', generators: [G4.sequence, G3.sequence] },
-      { key: 'rechenstrategien', name: 'Rechenstrategien', color: '#8B5CF6', icon: '🧠', generators: [G4.placeValue, G4.rounding] },
+      { key: 'rechenstrategien', name: 'Rechenstrategien', color: '#8B5CF6', icon: '🧠', generators: [G4.placeValue, G4.roundingG4] },
       { key: 'sequence', name: '🎮 Zahlenfolgen - Muster erkennen', color: '#8B5CF6', icon: '🔗', generators: [] },
     ]},
     { key: 'g4_groessen', name: 'Größen und Messen', color: '#F59E0B', icon: '⚖️', topics: [
       { key: 'laenge', name: 'Länge (mm, cm, m, km)', color: '#FBBF24', icon: '📏', generators: [G4.unitLengths, G4.units] },
       { key: 'gewicht', name: 'Gewicht (g, kg, t)', color: '#F59E0B', icon: '⚖️', generators: [G4.units] },
-      { key: 'zeit', name: 'Zeit (s, min, h, Tage)', color: '#EAB308', icon: '⏱️', generators: [G4.units] },
-      { key: 'geld', name: 'Geld (€, ct)', color: '#CA8A04', icon: '💰', generators: [G4.units, G4.word2] },
+      { key: 'zeit', name: 'Zeit (s, min, h, Tage)', color: '#EAB308', icon: '⏱️', generators: [G4.timeWord] },
+      { key: 'geld', name: 'Geld (€, ct)', color: '#CA8A04', icon: '💰', generators: [G4.moneyWord, G4.word2] },
       { key: 'umwandeln', name: 'Einheiten umwandeln', color: '#D97706', icon: '🔄', generators: [G4.units, G4.unitLengths] },
       { key: 'zeichnen', name: '🎮 Zeichnen - Längen und Formen', color: '#06B6D4', icon: '✏️', generators: [] },
       { key: 'messen', name: '🎮 Messen - Mit Lineal', color: '#0EA5E9', icon: '📏', generators: [] },
@@ -1384,8 +1435,8 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g4_geo', name: 'Geometrie', color: '#EC4899', icon: '📐', topics: [
       { key: 'strecken', name: 'Strecken messen & zeichnen', color: '#F472B6', icon: '📏', generators: [G4.geometry] },
-      { key: 'geodreieck', name: 'Geodreieck (Winkel, Parallelen)', color: '#EC4899', icon: '📐', generators: [G4.circleBasics, G4.geometry] },
-      { key: 'zirkel', name: 'Zirkel (Kreis, Radius)', color: '#DB2777', icon: '⭕', generators: [G4.circleBasics] },
+      { key: 'geodreieck', name: 'Geodreieck (Winkel, Parallelen)', color: '#EC4899', icon: '📐', generators: [G4.geometry, G4.geometryB] },
+      { key: 'zirkel', name: 'Zirkel (Kreis, Radius)', color: '#DB2777', icon: '⭕', generators: [G4.circleSimple] },
       { key: 'symmetrie', name: 'Symmetrie & Spiegeln', color: '#BE185D', icon: '🪞', generators: [G4.geometry] },
       { key: 'angle', name: '🎮 Winkel zeichnen & messen', color: '#EF4444', icon: '📐', generators: [] },
       { key: 'circle_draw', name: '🎮 Kreis zeichnen mit Zirkel', color: '#F97316', icon: '⭕', generators: [] },
@@ -1403,7 +1454,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g4_sachaufgaben', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', topics: [
       { key: 'grundAufgaben', name: 'Textaufgaben (Grundrechenarten)', color: '#F87171', icon: '📖', generators: [G4.word1, G4.word2] },
-      { key: 'messAufgaben', name: 'Textaufgaben (Messen)', color: '#EF4444', icon: '📏', generators: [G4.word3, G4.volumeWord] },
+      { key: 'messAufgaben', name: 'Textaufgaben (Messen)', color: '#EF4444', icon: '📏', generators: [G4.word3, G4.volumeWord, G4.moneyWord] },
       { key: 'mehrschritt', name: 'Mehrschrittige Aufgaben', color: '#DC2626', icon: '🔢', generators: [G4.word1, G4.word2, G4.word3] },
     ]},
   ],
