@@ -295,36 +295,36 @@ const LengthMeasurement: React.FC<LengthMeasurementProps> = ({
 
       {/* Feedback + Gombok */}
       {!embedded && (
-      <div className="px-5 pb-5">
-        <AnimatePresence mode="wait">
-          {feedback && (
-            <motion.div
-              key={feedback}
-              className={`flex items-center justify-center gap-2 p-3 rounded-xl font-bold text-base mb-3 ${
-                feedback === 'correct'
-                  ? 'bg-green-100 text-green-700 border-2 border-green-300'
-                  : 'bg-red-50 text-red-600 border-2 border-red-200'
-              }`}
-              initial={{ opacity: 0, y: 10 }}
-              animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0 }}
-            >
-              {feedback === 'correct' ? <Check size={20} /> : <X size={20} />}
-              {feedback === 'correct' ? t.correct : t.incorrect}
-            </motion.div>
-          )}
-        </AnimatePresence>
+        <div className="px-5 pb-5">
+          <AnimatePresence mode="wait">
+            {feedback && (
+              <motion.div
+                key={feedback}
+                className={`flex items-center justify-center gap-2 p-3 rounded-xl font-bold text-base mb-3 ${
+                  feedback === 'correct'
+                    ? 'bg-green-100 text-green-700 border-2 border-green-300'
+                    : 'bg-red-50 text-red-600 border-2 border-red-200'
+                }`}
+                initial={{ opacity: 0, y: 10 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0 }}
+              >
+                {feedback === 'correct' ? <Check size={20} /> : <X size={20} />}
+                {feedback === 'correct' ? t.correct : t.incorrect}
+              </motion.div>
+            )}
+          </AnimatePresence>
 
-        {submitted && (
-          <button
-            onClick={handleReset}
-            className="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-emerald-600 text-white font-bold text-sm hover:bg-emerald-700 active:scale-[0.98] transition-all"
-          >
-            <RotateCcw size={16} />
-            {t.tryAgain}
-          </button>
-        )}
-      </div>
+          {submitted && (
+            <button
+              onClick={handleReset}
+              className="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-emerald-600 text-white font-bold text-sm hover:bg-emerald-700 active:scale-[0.98] transition-all"
+            >
+              <RotateCcw size={16} />
+              {t.tryAgain}
+            </button>
+          )}
+        </div>
       )}
     </motion.div>
   );
