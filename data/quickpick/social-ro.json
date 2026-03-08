@@ -1,0 +1,572 @@
+[
+  {
+    "itemA": "MrBeast (YouTube)",
+    "valueA": 340000000,
+    "emojiA": "🎬",
+    "itemB": "PewDiePie (YouTube)",
+    "valueB": 111000000,
+    "emojiB": "🎮",
+    "unit": "abonați",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Cristiano Ronaldo (IG)",
+    "valueA": 640000000,
+    "emojiA": "⚽",
+    "itemB": "Lionel Messi (IG)",
+    "valueB": 500000000,
+    "emojiB": "⚽",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Kylie Jenner (IG)",
+    "valueA": 400000000,
+    "emojiA": "💄",
+    "itemB": "Selena Gomez (IG)",
+    "valueB": 430000000,
+    "emojiB": "🎤",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "T-Series (YouTube)",
+    "valueA": 275000000,
+    "emojiA": "🇮🇳",
+    "itemB": "MrBeast (YouTube)",
+    "valueB": 340000000,
+    "emojiB": "🎬",
+    "unit": "abonați",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Khaby Lame (TikTok)",
+    "valueA": 162000000,
+    "emojiA": "🤷",
+    "itemB": "Charli D'Amelio (TikTok)",
+    "valueB": 155000000,
+    "emojiB": "💃",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Dude Perfect (YouTube)",
+    "valueA": 60000000,
+    "emojiA": "🏀",
+    "itemB": "Mark Rober (YouTube)",
+    "valueB": 50000000,
+    "emojiB": "🔬",
+    "unit": "abonați",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Instagram (monthly users)",
+    "valueA": 2000000000,
+    "emojiA": "📸",
+    "itemB": "TikTok (monthly users)",
+    "valueB": 1500000000,
+    "emojiB": "🎵",
+    "unit": "utilizatori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "YouTube (daily views)",
+    "valueA": 5000000000,
+    "emojiA": "▶️",
+    "itemB": "TikTok (daily views)",
+    "valueB": 4000000000,
+    "emojiB": "🎵",
+    "unit": "vizionări/zi",
+    "unitIcon": "👀"
+  },
+  {
+    "itemA": "Elon Musk (X/Twitter)",
+    "valueA": 200000000,
+    "emojiA": "🚀",
+    "itemB": "Barack Obama (X/Twitter)",
+    "valueB": 132000000,
+    "emojiB": "🇺🇸",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "The Rock (IG)",
+    "valueA": 395000000,
+    "emojiA": "💪",
+    "itemB": "Kim Kardashian (IG)",
+    "valueB": 365000000,
+    "emojiB": "📱",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Ninja (Twitch peak)",
+    "valueA": 18000000,
+    "emojiA": "🎮",
+    "itemB": "xQc (Twitch)",
+    "valueB": 12000000,
+    "emojiB": "🎮",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Cocomelon (YouTube)",
+    "valueA": 175000000,
+    "emojiA": "🍉",
+    "itemB": "SET India (YouTube)",
+    "valueB": 170000000,
+    "emojiB": "🇮🇳",
+    "unit": "abonați",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "WhatsApp (monthly)",
+    "valueA": 2800000000,
+    "emojiA": "💬",
+    "itemB": "Facebook Messenger",
+    "valueB": 1000000000,
+    "emojiB": "💬",
+    "unit": "utilizatori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Neymar (IG)",
+    "valueA": 230000000,
+    "emojiA": "⚽",
+    "itemB": "Virat Kohli (IG)",
+    "valueB": 270000000,
+    "emojiB": "🏏",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "MrBeast (TikTok)",
+    "valueA": 100000000,
+    "emojiA": "🎬",
+    "itemB": "Bella Poarch (TikTok)",
+    "valueB": 93000000,
+    "emojiB": "🎤",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Reddit (monthly users)",
+    "valueA": 800000000,
+    "emojiA": "🤖",
+    "itemB": "Pinterest (monthly)",
+    "valueB": 500000000,
+    "emojiB": "📌",
+    "unit": "utilizatori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Facebook (monthly users)",
+    "valueA": 3000000000,
+    "emojiA": "📘",
+    "itemB": "YouTube (monthly users)",
+    "valueB": 2500000000,
+    "emojiB": "▶️",
+    "unit": "utilizatori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Taylor Swift (IG)",
+    "valueA": 283000000,
+    "emojiA": "🎤",
+    "itemB": "Ariana Grande (IG)",
+    "valueB": 380000000,
+    "emojiB": "🎤",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Snapchat (daily users)",
+    "valueA": 400000000,
+    "emojiA": "👻",
+    "itemB": "X/Twitter (daily users)",
+    "valueB": 250000000,
+    "emojiB": "🐦",
+    "unit": "utilizatori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "IShowSpeed (YouTube)",
+    "valueA": 30000000,
+    "emojiA": "⚡",
+    "itemB": "KSI (YouTube)",
+    "valueB": 24000000,
+    "emojiB": "🥊",
+    "unit": "abonați",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Baby Shark (YouTube)",
+    "valueA": 14000000000,
+    "emojiA": "🦈",
+    "itemB": "Despacito (YouTube)",
+    "valueB": 8400000000,
+    "emojiB": "🎵",
+    "unit": "views",
+    "unitIcon": "👀"
+  },
+  {
+    "itemA": "MrBeast - Squid Game vid",
+    "valueA": 600000000,
+    "emojiA": "🎬",
+    "itemB": "PewDiePie legtöbb (vid)",
+    "valueB": 250000000,
+    "emojiB": "🎮",
+    "unit": "views",
+    "unitIcon": "👀"
+  },
+  {
+    "itemA": "Cristiano (YouTube)",
+    "valueA": 65000000,
+    "emojiA": "⚽",
+    "itemB": "Messi (YouTube)",
+    "valueB": 5000000,
+    "emojiB": "⚽",
+    "unit": "abonați",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "LinkedIn (users)",
+    "valueA": 1000000000,
+    "emojiA": "💼",
+    "itemB": "Discord (users)",
+    "valueB": 200000000,
+    "emojiB": "🎮",
+    "unit": "înregistrați",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Spotify (monthly users)",
+    "valueA": 600000000,
+    "emojiA": "🎵",
+    "itemB": "Apple Music (users)",
+    "valueB": 100000000,
+    "emojiB": "🎵",
+    "unit": "utilizatori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Billie Eilish (IG)",
+    "valueA": 120000000,
+    "emojiA": "🎤",
+    "itemB": "Dua Lipa (IG)",
+    "valueB": 88000000,
+    "emojiB": "🎤",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Twitch (daily viewers)",
+    "valueA": 30000000,
+    "emojiA": "🎮",
+    "itemB": "YouTube Gaming (daily)",
+    "valueB": 50000000,
+    "emojiB": "▶️",
+    "unit": "viewers",
+    "unitIcon": "👀"
+  },
+  {
+    "itemA": "LeBron James (IG)",
+    "valueA": 160000000,
+    "emojiA": "🏀",
+    "itemB": "Neymar (IG)",
+    "valueB": 230000000,
+    "emojiB": "⚽",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Telegram (monthly)",
+    "valueA": 900000000,
+    "emojiA": "💬",
+    "itemB": "Signal (monthly)",
+    "valueB": 40000000,
+    "emojiB": "🔒",
+    "unit": "utilizatori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Addison Rae (TikTok)",
+    "valueA": 89000000,
+    "emojiA": "💃",
+    "itemB": "Zach King (TikTok)",
+    "valueB": 81000000,
+    "emojiB": "🎩",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Netflix (TikTok)",
+    "valueA": 35000000,
+    "emojiA": "📺",
+    "itemB": "Disney (TikTok)",
+    "valueB": 20000000,
+    "emojiB": "🏰",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "NASA (IG)",
+    "valueA": 100000000,
+    "emojiA": "🚀",
+    "itemB": "National Geographic (IG)",
+    "valueB": 280000000,
+    "emojiB": "📸",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Nike (IG)",
+    "valueA": 305000000,
+    "emojiA": "👟",
+    "itemB": "Adidas (IG)",
+    "valueB": 68000000,
+    "emojiB": "👟",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Real Madrid (IG)",
+    "valueA": 160000000,
+    "emojiA": "⚽",
+    "itemB": "Barcelona (IG)",
+    "valueB": 130000000,
+    "emojiB": "⚽",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Champions League (IG)",
+    "valueA": 100000000,
+    "emojiA": "⚽",
+    "itemB": "NBA (IG)",
+    "valueB": 85000000,
+    "emojiB": "🏀",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Ferrari (IG)",
+    "valueA": 60000000,
+    "emojiA": "🏎️",
+    "itemB": "Lamborghini (IG)",
+    "valueB": 50000000,
+    "emojiB": "🏎️",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "GoPro (YouTube)",
+    "valueA": 11000000,
+    "emojiA": "📹",
+    "itemB": "Red Bull (YouTube)",
+    "valueB": 17000000,
+    "emojiB": "🐂",
+    "unit": "abonați",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Dream (YouTube)",
+    "valueA": 32000000,
+    "emojiA": "🎮",
+    "itemB": "Technoblade (peak YT)",
+    "valueB": 15000000,
+    "emojiB": "🐷",
+    "unit": "abonați",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Logan Paul (YouTube)",
+    "valueA": 23000000,
+    "emojiA": "🥊",
+    "itemB": "Jake Paul (YouTube)",
+    "valueB": 20000000,
+    "emojiB": "🥊",
+    "unit": "abonați",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Kai Cenat (Twitch)",
+    "valueA": 12000000,
+    "emojiA": "🎮",
+    "itemB": "Pokimane (Twitch)",
+    "valueB": 9000000,
+    "emojiB": "🎮",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "JiDion (YouTube)",
+    "valueA": 10000000,
+    "emojiA": "🎬",
+    "itemB": "Adin Ross (peak Twitch)",
+    "valueB": 7000000,
+    "emojiB": "🎮",
+    "unit": "abonați",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Linus Tech Tips (YT)",
+    "valueA": 16000000,
+    "emojiA": "💻",
+    "itemB": "MKBHD (YouTube)",
+    "valueB": 19000000,
+    "emojiB": "📱",
+    "unit": "abonați",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Gordon Ramsay (TikTok)",
+    "valueA": 45000000,
+    "emojiA": "👨‍🍳",
+    "itemB": "Gordon Ramsay (YouTube)",
+    "valueB": 24000000,
+    "emojiB": "👨‍🍳",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "TikTok daily time (avg)",
+    "valueA": 95,
+    "emojiA": "🎵",
+    "itemB": "Instagram daily time",
+    "valueB": 33,
+    "emojiB": "📸",
+    "unit": "minute",
+    "unitIcon": "⏱️"
+  },
+  {
+    "itemA": "YouTube daily time (avg)",
+    "valueA": 48,
+    "emojiA": "▶️",
+    "itemB": "Facebook daily time",
+    "valueB": 31,
+    "emojiB": "📘",
+    "unit": "minute",
+    "unitIcon": "⏱️"
+  },
+  {
+    "itemA": "Threads (users)",
+    "valueA": 200000000,
+    "emojiA": "🧵",
+    "itemB": "Bluesky (users)",
+    "valueB": 25000000,
+    "emojiB": "🦋",
+    "unit": "înregistrați",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "BeReal (downloads)",
+    "valueA": 73000000,
+    "emojiA": "📸",
+    "itemB": "Lemon8 (downloads)",
+    "valueB": 30000000,
+    "emojiB": "🍋",
+    "unit": "descărcări totale",
+    "unitIcon": "📲"
+  },
+  {
+    "itemA": "Most liked IG post (egg)",
+    "valueA": 60000000,
+    "emojiA": "🥚",
+    "itemB": "Most liked tweet",
+    "valueB": 4500000,
+    "emojiB": "🐦",
+    "unit": "aprecieri",
+    "unitIcon": "❤️"
+  },
+  {
+    "itemA": "Most followed TikTok",
+    "valueA": 162000000,
+    "emojiA": "🎵",
+    "itemB": "Most followed IG",
+    "valueB": 640000000,
+    "emojiB": "📸",
+    "unit": "urmăritori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "YouTube premium users",
+    "valueA": 100000000,
+    "emojiA": "▶️",
+    "itemB": "Spotify premium users",
+    "valueB": 240000000,
+    "emojiB": "🎵",
+    "unit": "abonați",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "WeChat (China, monthly)",
+    "valueA": 1300000000,
+    "emojiA": "💬",
+    "itemB": "LINE (Japan, monthly)",
+    "valueB": 95000000,
+    "emojiB": "💬",
+    "unit": "utilizatori",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "TikTok ad revenue 2024",
+    "valueA": 23000000000,
+    "emojiA": "🎵",
+    "itemB": "Instagram ad revenue",
+    "valueB": 50000000000,
+    "emojiB": "📸",
+    "unit": "USD",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Google ad revenue 2024",
+    "valueA": 265000000000,
+    "emojiA": "🔍",
+    "itemB": "Meta ad revenue 2024",
+    "valueB": 160000000000,
+    "emojiB": "📘",
+    "unit": "USD",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Influencer market 2024",
+    "valueA": 24000000000,
+    "emojiA": "📱",
+    "itemB": "Podcast ad market",
+    "valueB": 4000000000,
+    "emojiB": "🎙️",
+    "unit": "USD",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Wikipedia editors (active)",
+    "valueA": 280000,
+    "emojiA": "📖",
+    "itemB": "Reddit moderators",
+    "valueB": 60000,
+    "emojiB": "🤖",
+    "unit": "utilizatori activi",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Stack Overflow questions",
+    "valueA": 24000000,
+    "emojiA": "💻",
+    "itemB": "GitHub repositories",
+    "valueB": 400000000,
+    "emojiB": "🐙",
+    "unit": "total",
+    "unitIcon": "🔢"
+  },
+  {
+    "itemA": "ChatGPT (launch week)",
+    "valueA": 1000000,
+    "emojiA": "🤖",
+    "itemB": "Threads (launch day)",
+    "valueB": 30000000,
+    "emojiB": "🧵",
+    "unit": "înregistrări",
+    "unitIcon": "👥"
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "itemA": "Ronaldo (career goals)",
+    "valueA": 900,
+    "emojiA": "🇵🇹",
+    "itemB": "Messi (career goals)",
+    "valueB": 850,
+    "emojiB": "🇦🇷",
+    "unit": "Tore",
+    "unitIcon": "⚽"
+  },
+  {
+    "itemA": "Ronaldo (Instagram)",
+    "valueA": 650000000,
+    "emojiA": "🇵🇹",
+    "itemB": "Messi (Instagram)",
+    "valueB": 500000000,
+    "emojiB": "🇦🇷",
+    "unit": "Follower",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Brazil (World Cups)",
+    "valueA": 5,
+    "emojiA": "🇧🇷",
+    "itemB": "Germany (World Cups)",
+    "valueB": 4,
+    "emojiB": "🇩🇪",
+    "unit": "Titel",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "Premier League clubs",
+    "valueA": 20,
+    "emojiA": "🇬🇧",
+    "itemB": "La Liga clubs",
+    "valueB": 20,
+    "emojiB": "🇪🇸",
+    "unit": "Teams",
+    "unitIcon": "⚽"
+  },
+  {
+    "itemA": "Mbappé (speed)",
+    "valueA": 36,
+    "emojiA": "🇫🇷",
+    "itemB": "Haaland (speed)",
+    "valueB": 34,
+    "emojiB": "🇳🇴",
+    "unit": "km/h",
+    "unitIcon": "⚡"
+  },
+  {
+    "itemA": "Real Madrid (CL titles)",
+    "valueA": 15,
+    "emojiA": "⚽",
+    "itemB": "AC Milan (CL titles)",
+    "valueB": 7,
+    "emojiB": "⚽",
+    "unit": "Titel",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "Messi (Ballon d'Or)",
+    "valueA": 8,
+    "emojiA": "🇦🇷",
+    "itemB": "Ronaldo (Ballon d'Or)",
+    "valueB": 5,
+    "emojiB": "🇵🇹",
+    "unit": "Auszeichnungen",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "Barcelona (La Liga)",
+    "valueA": 27,
+    "emojiA": "⚽",
+    "itemB": "Real Madrid (La Liga)",
+    "valueB": 36,
+    "emojiB": "⚽",
+    "unit": "Titel",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "World Cup 2022 viewers",
+    "valueA": 1500000000,
+    "emojiA": "🌟",
+    "itemB": "Super Bowl 2024 viewers",
+    "valueB": 120000000,
+    "emojiB": "🌟",
+    "unit": "Zuschauer",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Camp Nou capacity",
+    "valueA": 99354,
+    "emojiA": "⚽",
+    "itemB": "Wembley capacity",
+    "valueB": 90000,
+    "emojiB": "🇬🇧",
+    "unit": "Plätze",
+    "unitIcon": "🏟️"
+  },
+  {
+    "itemA": "Neymar transfer fee",
+    "valueA": 222000000,
+    "emojiA": "🇧🇷",
+    "itemB": "Mbappé transfer fee",
+    "valueB": 180000000,
+    "emojiB": "🇫🇷",
+    "unit": "EUR",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Man Utd (PL titles)",
+    "valueA": 13,
+    "emojiA": "⚽",
+    "itemB": "Liverpool (PL titles)",
+    "valueB": 1,
+    "emojiB": "⚽",
+    "unit": "Titel",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "Haaland (goals 22/23)",
+    "valueA": 52,
+    "emojiA": "🇳🇴",
+    "itemB": "Mbappé (goals 22/23)",
+    "valueB": 41,
+    "emojiB": "🇫🇷",
+    "unit": "Tore",
+    "unitIcon": "⚽"
+  },
+  {
+    "itemA": "FIFA registered players",
+    "valueA": 270000000,
+    "emojiA": "⚽",
+    "itemB": "NBA registered players",
+    "valueB": 450000,
+    "emojiB": "🏀",
+    "unit": "players",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Argentina (Copa América)",
+    "valueA": 16,
+    "emojiA": "🇦🇷",
+    "itemB": "Uruguay (Copa América)",
+    "valueB": 15,
+    "emojiB": "🇺🇾",
+    "unit": "Titel",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "Salah (PL goals)",
+    "valueA": 160,
+    "emojiA": "🇪🇬",
+    "itemB": "Kane (PL goals)",
+    "valueB": 213,
+    "emojiB": "🇬🇧",
+    "unit": "Tore",
+    "unitIcon": "⚽"
+  },
+  {
+    "itemA": "Bernabéu renovation",
+    "valueA": 1700000000,
+    "emojiA": "⚽",
+    "itemB": "Tottenham Stadium",
+    "valueB": 1200000000,
+    "emojiB": "⚽",
+    "unit": "EUR",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Man City squad value",
+    "valueA": 1200000000,
+    "emojiA": "⚽",
+    "itemB": "PSG squad value",
+    "valueB": 900000000,
+    "emojiB": "⚽",
+    "unit": "EUR",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Pelé (career goals)",
+    "valueA": 1283,
+    "emojiA": "🇧🇷",
+    "itemB": "Ronaldo (career goals)",
+    "valueB": 900,
+    "emojiB": "🇵🇹",
+    "unit": "Tore",
+    "unitIcon": "⚽"
+  },
+  {
+    "itemA": "Germany (Euro titles)",
+    "valueA": 3,
+    "emojiA": "🇩🇪",
+    "itemB": "Spain (Euro titles)",
+    "valueB": 4,
+    "emojiB": "🇪🇸",
+    "unit": "Titel",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "Lewandowski (career goals)",
+    "valueA": 655,
+    "emojiA": "🇵🇱",
+    "itemB": "Suárez (career goals)",
+    "valueB": 550,
+    "emojiB": "🇺🇾",
+    "unit": "Tore",
+    "unitIcon": "⚽"
+  },
+  {
+    "itemA": "Mbappé (career goals)",
+    "valueA": 310,
+    "emojiA": "🇫🇷",
+    "itemB": "Haaland (career goals)",
+    "valueB": 270,
+    "emojiB": "🇳🇴",
+    "unit": "Tore",
+    "unitIcon": "⚽"
+  },
+  {
+    "itemA": "Neymar (career goals)",
+    "valueA": 440,
+    "emojiA": "🇧🇷",
+    "itemB": "Benzema (career goals)",
+    "valueB": 435,
+    "emojiB": "🇫🇷",
+    "unit": "Tore",
+    "unitIcon": "⚽"
+  },
+  {
+    "itemA": "Ronaldo (international goals)",
+    "valueA": 130,
+    "emojiA": "🇵🇹",
+    "itemB": "Messi (international goals)",
+    "valueB": 109,
+    "emojiB": "🇦🇷",
+    "unit": "Tore",
+    "unitIcon": "⚽"
+  },
+  {
+    "itemA": "Ali Daei (international goals)",
+    "valueA": 108,
+    "emojiA": "🇮🇷",
+    "itemB": "Modrić (international goals)",
+    "valueB": 25,
+    "emojiB": "🇭🇷",
+    "unit": "Tore",
+    "unitIcon": "⚽"
+  },
+  {
+    "itemA": "Müller (WC goals all-time)",
+    "valueA": 14,
+    "emojiA": "🇩🇪",
+    "itemB": "Ronaldo Nazário (WC goals)",
+    "valueB": 15,
+    "emojiB": "🇧🇷",
+    "unit": "Tore",
+    "unitIcon": "⚽"
+  },
+  {
+    "itemA": "Mbappé (WC 2022 goals)",
+    "valueA": 8,
+    "emojiA": "🇫🇷",
+    "itemB": "Messi (WC 2022 goals)",
+    "valueB": 7,
+    "emojiB": "🇦🇷",
+    "unit": "Tore",
+    "unitIcon": "⚽"
+  },
+  {
+    "itemA": "Lewandowski (Bundesliga goals)",
+    "valueA": 312,
+    "emojiA": "🇵🇱",
+    "itemB": "Gerd Müller (Bundesliga goals)",
+    "valueB": 365,
+    "emojiB": "🇩🇪",
+    "unit": "Tore",
+    "unitIcon": "⚽"
+  },
+  {
+    "itemA": "Messi (La Liga goals)",
+    "valueA": 474,
+    "emojiA": "🇦🇷",
+    "itemB": "Ronaldo (La Liga goals)",
+    "valueB": 311,
+    "emojiB": "🇵🇹",
+    "unit": "Tore",
+    "unitIcon": "⚽"
+  },
+  {
+    "itemA": "Shearer (PL goals all-time)",
+    "valueA": 260,
+    "emojiA": "🇬🇧",
+    "itemB": "Rooney (PL goals all-time)",
+    "valueB": 208,
+    "emojiB": "🇬🇧",
+    "unit": "Tore",
+    "unitIcon": "⚽"
+  },
+  {
+    "itemA": "Coutinho transfer fee",
+    "valueA": 145000000,
+    "emojiA": "🇧🇷",
+    "itemB": "Dembélé transfer fee",
+    "valueB": 135000000,
+    "emojiB": "🇫🇷",
+    "unit": "EUR",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Grealish transfer fee",
+    "valueA": 117000000,
+    "emojiA": "🇬🇧",
+    "itemB": "Lukaku transfer fee",
+    "valueB": 113000000,
+    "emojiB": "🇧🇪",
+    "unit": "EUR",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Félix transfer fee",
+    "valueA": 127000000,
+    "emojiA": "🇵🇹",
+    "itemB": "Hazard transfer fee",
+    "valueB": 115000000,
+    "emojiB": "🇧🇪",
+    "unit": "EUR",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Pogba transfer fee (2016)",
+    "valueA": 105000000,
+    "emojiA": "🇫🇷",
+    "itemB": "Bale transfer fee (2013)",
+    "valueB": 101000000,
+    "emojiB": "🇬🇧",
+    "unit": "EUR",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Signal Iduna Park capacity",
+    "valueA": 81365,
+    "emojiA": "🇩🇪",
+    "itemB": "San Siro capacity",
+    "valueB": 75923,
+    "emojiB": "🇮🇹",
+    "unit": "Plätze",
+    "unitIcon": "🏟️"
+  },
+  {
+    "itemA": "Old Trafford capacity",
+    "valueA": 74310,
+    "emojiA": "🇬🇧",
+    "itemB": "Anfield capacity",
+    "valueB": 61276,
+    "emojiB": "🇬🇧",
+    "unit": "Plätze",
+    "unitIcon": "🏟️"
+  },
+  {
+    "itemA": "Azteca Stadium capacity",
+    "valueA": 87523,
+    "emojiA": "🇲🇽",
+    "itemB": "Maracanã capacity",
+    "valueB": 78838,
+    "emojiB": "🇧🇷",
+    "unit": "Plätze",
+    "unitIcon": "🏟️"
+  },
+  {
+    "itemA": "Rungrado May Day capacity",
+    "valueA": 114000,
+    "emojiA": "🇰🇵",
+    "itemB": "Camp Nou capacity",
+    "valueB": 99354,
+    "emojiB": "⚽",
+    "unit": "Plätze",
+    "unitIcon": "🏟️"
+  },
+  {
+    "itemA": "Allianz Arena capacity",
+    "valueA": 75024,
+    "emojiA": "🇩🇪",
+    "itemB": "Parc des Princes capacity",
+    "valueB": 47929,
+    "emojiB": "🇫🇷",
+    "unit": "Plätze",
+    "unitIcon": "🏟️"
+  },
+  {
+    "itemA": "Italy (World Cups)",
+    "valueA": 4,
+    "emojiA": "🇮🇹",
+    "itemB": "Argentina (World Cups)",
+    "valueB": 3,
+    "emojiB": "🇦🇷",
+    "unit": "Titel",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "France (World Cups)",
+    "valueA": 2,
+    "emojiA": "🇫🇷",
+    "itemB": "Uruguay (World Cups)",
+    "valueB": 2,
+    "emojiB": "🇺🇾",
+    "unit": "Titel",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "Spain (World Cups)",
+    "valueA": 1,
+    "emojiA": "🇪🇸",
+    "itemB": "England (World Cups)",
+    "valueB": 1,
+    "emojiB": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "unit": "Titel",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "Bayern Munich (CL titles)",
+    "valueA": 6,
+    "emojiA": "⚽",
+    "itemB": "Liverpool (CL titles)",
+    "valueB": 6,
+    "emojiB": "⚽",
+    "unit": "Titel",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "Barcelona (CL titles)",
+    "valueA": 5,
+    "emojiA": "⚽",
+    "itemB": "Ajax (CL titles)",
+    "valueB": 4,
+    "emojiB": "⚽",
+    "unit": "Titel",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "Man City (CL titles)",
+    "valueA": 1,
+    "emojiA": "⚽",
+    "itemB": "Chelsea (CL titles)",
+    "valueB": 2,
+    "emojiB": "⚽",
+    "unit": "Titel",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "Inter Milan (CL titles)",
+    "valueA": 3,
+    "emojiA": "⚽",
+    "itemB": "Juventus (CL titles)",
+    "valueB": 2,
+    "emojiB": "⚽",
+    "unit": "Titel",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "Ronaldinho (Ballon d'Or)",
+    "valueA": 1,
+    "emojiA": "🇧🇷",
+    "itemB": "Zidane (Ballon d'Or)",
+    "valueB": 1,
+    "emojiB": "🇫🇷",
+    "unit": "Auszeichnungen",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "Cruyff (Ballon d'Or)",
+    "valueA": 3,
+    "emojiA": "🇳🇱",
+    "itemB": "Platini (Ballon d'Or)",
+    "valueB": 3,
+    "emojiB": "🇫🇷",
+    "unit": "Auszeichnungen",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "Van Basten (Ballon d'Or)",
+    "valueA": 3,
+    "emojiA": "🇳🇱",
+    "itemB": "Beckenbauer (Ballon d'Or)",
+    "valueB": 2,
+    "emojiB": "🇩🇪",
+    "unit": "Auszeichnungen",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "Mbappé (salary/year)",
+    "valueA": 72000000,
+    "emojiA": "🇫🇷",
+    "itemB": "Haaland (salary/year)",
+    "valueB": 52000000,
+    "emojiB": "🇳🇴",
+    "unit": "EUR",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Ronaldo (Al Nassr salary)",
+    "valueA": 200000000,
+    "emojiA": "🇵🇹",
+    "itemB": "Messi (Inter Miami salary)",
+    "valueB": 60000000,
+    "emojiB": "🇦🇷",
+    "unit": "EUR/year",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Neymar (salary peak)",
+    "valueA": 70000000,
+    "emojiA": "🇧🇷",
+    "itemB": "De Bruyne (salary/year)",
+    "valueB": 25000000,
+    "emojiB": "🇧🇪",
+    "unit": "EUR",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Vinícius Jr (salary/year)",
+    "valueA": 40000000,
+    "emojiA": "🇧🇷",
+    "itemB": "Bellingham (salary/year)",
+    "valueB": 30000000,
+    "emojiB": "🇬🇧",
+    "unit": "EUR",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Real Madrid (total trophies)",
+    "valueA": 99,
+    "emojiA": "⚽",
+    "itemB": "Barcelona (total trophies)",
+    "valueB": 98,
+    "emojiB": "⚽",
+    "unit": "Trophäen",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "Bayern Munich (Bundesliga)",
+    "valueA": 33,
+    "emojiA": "⚽",
+    "itemB": "Dortmund (Bundesliga)",
+    "valueB": 8,
+    "emojiB": "⚽",
+    "unit": "Titel",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "Juventus (Serie A)",
+    "valueA": 36,
+    "emojiA": "⚽",
+    "itemB": "Inter Milan (Serie A)",
+    "valueB": 20,
+    "emojiB": "⚽",
+    "unit": "Titel",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "Man City (PL titles)",
+    "valueA": 8,
+    "emojiA": "⚽",
+    "itemB": "Chelsea (PL titles)",
+    "valueB": 5,
+    "emojiB": "⚽",
+    "unit": "Titel",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "Arsenal (PL titles)",
+    "valueA": 3,
+    "emojiA": "⚽",
+    "itemB": "Leicester (PL titles)",
+    "valueB": 1,
+    "emojiB": "⚽",
+    "unit": "Titel",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "PSG (Ligue 1)",
+    "valueA": 12,
+    "emojiA": "⚽",
+    "itemB": "Lyon (Ligue 1)",
+    "valueB": 7,
+    "emojiB": "⚽",
+    "unit": "Titel",
+    "unitIcon": "🏆"
+  },
+  {
+    "itemA": "Adama Traoré (speed)",
+    "valueA": 37,
+    "emojiA": "🇪🇸",
+    "itemB": "Alphonso Davies (speed)",
+    "valueB": 36,
+    "emojiB": "🇨🇦",
+    "unit": "km/h",
+    "unitIcon": "⚡"
+  },
+  {
+    "itemA": "Vinícius Jr (speed)",
+    "valueA": 35,
+    "emojiA": "🇧🇷",
+    "itemB": "Salah (speed)",
+    "valueB": 35,
+    "emojiB": "🇪🇬",
+    "unit": "km/h",
+    "unitIcon": "⚡"
+  },
+  {
+    "itemA": "Real Madrid (members)",
+    "valueA": 99000,
+    "emojiA": "⚽",
+    "itemB": "Barcelona (members)",
+    "valueB": 144000,
+    "emojiB": "⚽",
+    "unit": "Mitglieder",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Bayern Munich (members)",
+    "valueA": 300000,
+    "emojiA": "⚽",
+    "itemB": "Benfica (members)",
+    "valueB": 230000,
+    "emojiB": "⚽",
+    "unit": "Mitglieder",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Real Madrid (revenue/year)",
+    "valueA": 831000000,
+    "emojiA": "⚽",
+    "itemB": "Man Utd (revenue/year)",
+    "valueB": 660000000,
+    "emojiB": "⚽",
+    "unit": "EUR",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Liverpool (revenue/year)",
+    "valueA": 620000000,
+    "emojiA": "⚽",
+    "itemB": "Bayern Munich (revenue/year)",
+    "valueB": 765000000,
+    "emojiB": "⚽",
+    "unit": "EUR",
+    "unitIcon": "💰"
+  }
+]

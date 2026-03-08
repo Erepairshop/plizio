@@ -1,0 +1,622 @@
+[
+  {
+    "itemA": "Minecraft (total sales)",
+    "valueA": 300000000,
+    "emojiA": "⛏️",
+    "itemB": "GTA V (total sales)",
+    "valueB": 200000000,
+    "emojiB": "🚗",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Fortnite (peak players)",
+    "valueA": 350000000,
+    "emojiA": "🔫",
+    "itemB": "PUBG (peak players)",
+    "valueB": 75000000,
+    "emojiB": "🪖",
+    "unit": "registrierte Spieler",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "League of Legends (monthly)",
+    "valueA": 150000000,
+    "emojiA": "⚔️",
+    "itemB": "Valorant (monthly)",
+    "valueB": 28000000,
+    "emojiB": "🎯",
+    "unit": "monatliche Spieler",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Roblox (daily active)",
+    "valueA": 70000000,
+    "emojiA": "🧱",
+    "itemB": "Minecraft (daily active)",
+    "valueB": 40000000,
+    "emojiB": "⛏️",
+    "unit": "tägliche Spieler",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Elden Ring (sales)",
+    "valueA": 25000000,
+    "emojiA": "🗡️",
+    "itemB": "Hogwarts Legacy (sales)",
+    "valueB": 24000000,
+    "emojiB": "🧙",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "FIFA 23 (sales)",
+    "valueA": 30000000,
+    "emojiA": "⚽",
+    "itemB": "NBA 2K24 (sales)",
+    "valueB": 8000000,
+    "emojiB": "🏀",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "The Legend of Zelda: TotK",
+    "valueA": 20000000,
+    "emojiA": "🧝",
+    "itemB": "God of War Ragnarök",
+    "valueB": 15000000,
+    "emojiB": "⚡",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Among Us (peak 2020)",
+    "valueA": 500000000,
+    "emojiA": "🚀",
+    "itemB": "Fall Guys (peak)",
+    "valueB": 50000000,
+    "emojiB": "🫘",
+    "unit": "Downloads",
+    "unitIcon": "📲"
+  },
+  {
+    "itemA": "Call of Duty: Warzone",
+    "valueA": 100000000,
+    "emojiA": "💣",
+    "itemB": "Apex Legends",
+    "valueB": 100000000,
+    "emojiB": "🔥",
+    "unit": "Spieler",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Tetris (all-time sales)",
+    "valueA": 520000000,
+    "emojiA": "🟦",
+    "itemB": "Minecraft (all-time sales)",
+    "valueB": 300000000,
+    "emojiB": "⛏️",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Genshin Impact (revenue)",
+    "valueA": 6000000000,
+    "emojiA": "🌀",
+    "itemB": "Fortnite (revenue)",
+    "valueB": 26000000000,
+    "emojiB": "🔫",
+    "unit": "Gesamtumsatz $",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "The Witcher 3 (sales)",
+    "valueA": 50000000,
+    "emojiA": "🐺",
+    "itemB": "Cyberpunk 2077 (sales)",
+    "valueB": 25000000,
+    "emojiB": "🤖",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Mario Kart 8 (sales)",
+    "valueA": 62000000,
+    "emojiA": "🏎️",
+    "itemB": "Animal Crossing NH",
+    "valueB": 44000000,
+    "emojiB": "🏝️",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Pokémon Scarlet/Violet",
+    "valueA": 24000000,
+    "emojiA": "🔴",
+    "itemB": "Pokémon Sword/Shield",
+    "valueB": 26000000,
+    "emojiB": "🗡️",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Spider-Man 2 PS5",
+    "valueA": 11000000,
+    "emojiA": "🕷️",
+    "itemB": "Spider-Man PS4",
+    "valueB": 33000000,
+    "emojiB": "🕸️",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Red Dead Redemption 2",
+    "valueA": 57000000,
+    "emojiA": "🤠",
+    "itemB": "GTA V",
+    "valueB": 200000000,
+    "emojiB": "🚗",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Diablo IV (launch sales)",
+    "valueA": 10000000,
+    "emojiA": "😈",
+    "itemB": "Baldur's Gate 3 (sales)",
+    "valueB": 15000000,
+    "emojiB": "🐉",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Stardew Valley (sales)",
+    "valueA": 30000000,
+    "emojiA": "🌾",
+    "itemB": "Terraria (sales)",
+    "valueB": 58000000,
+    "emojiB": "🏗️",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Super Smash Bros Ultimate",
+    "valueA": 34000000,
+    "emojiA": "👊",
+    "itemB": "Splatoon 3",
+    "valueB": 12000000,
+    "emojiB": "🦑",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Overwatch 2 (players)",
+    "valueA": 35000000,
+    "emojiA": "🛡️",
+    "itemB": "Counter-Strike 2 (peak)",
+    "valueB": 37000000,
+    "emojiB": "💥",
+    "unit": "Spieler",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Minecraft release year",
+    "valueA": 2011,
+    "emojiA": "⛏️",
+    "itemB": "Fortnite release year",
+    "valueB": 2017,
+    "emojiB": "🔫",
+    "unit": "Jahr",
+    "unitIcon": "📅"
+  },
+  {
+    "itemA": "GTA V release year",
+    "valueA": 2013,
+    "emojiA": "🚗",
+    "itemB": "Red Dead 2 release year",
+    "valueB": 2018,
+    "emojiB": "🤠",
+    "unit": "Jahr",
+    "unitIcon": "📅"
+  },
+  {
+    "itemA": "League of Legends release",
+    "valueA": 2009,
+    "emojiA": "⚔️",
+    "itemB": "Dota 2 release",
+    "valueB": 2013,
+    "emojiB": "🗡️",
+    "unit": "Jahr",
+    "unitIcon": "📅"
+  },
+  {
+    "itemA": "GTA V (Metacritic)",
+    "valueA": 97,
+    "emojiA": "🚗",
+    "itemB": "Elden Ring (Metacritic)",
+    "valueB": 96,
+    "emojiB": "🗡️",
+    "unit": "Bewertung",
+    "unitIcon": "⭐"
+  },
+  {
+    "itemA": "Breath of the Wild (MC)",
+    "valueA": 97,
+    "emojiA": "🧝",
+    "itemB": "Baldur's Gate 3 (MC)",
+    "valueB": 96,
+    "emojiB": "🐉",
+    "unit": "Bewertung",
+    "unitIcon": "⭐"
+  },
+  {
+    "itemA": "The Last of Us (MC)",
+    "valueA": 95,
+    "emojiA": "🍄",
+    "itemB": "God of War 2018 (MC)",
+    "valueB": 94,
+    "emojiB": "⚡",
+    "unit": "Bewertung",
+    "unitIcon": "⭐"
+  },
+  {
+    "itemA": "Minecraft (YouTube)",
+    "valueA": 1000000000000,
+    "emojiA": "⛏️",
+    "itemB": "Fortnite (YouTube)",
+    "valueB": 500000000000,
+    "emojiB": "🔫",
+    "unit": "Gesamtansichten",
+    "unitIcon": "👀"
+  },
+  {
+    "itemA": "Roblox (YouTube)",
+    "valueA": 500000000000,
+    "emojiA": "🧱",
+    "itemB": "GTA V (YouTube)",
+    "valueB": 300000000000,
+    "emojiB": "🚗",
+    "unit": "Gesamtansichten",
+    "unitIcon": "👀"
+  },
+  {
+    "itemA": "Nintendo (founded)",
+    "valueA": 1889,
+    "emojiA": "🎮",
+    "itemB": "Sony PlayStation (founded)",
+    "valueB": 1994,
+    "emojiB": "🎮",
+    "unit": "Jahr",
+    "unitIcon": "📅"
+  },
+  {
+    "itemA": "PS5 (units sold)",
+    "valueA": 55000000,
+    "emojiA": "🎮",
+    "itemB": "Xbox Series X/S",
+    "valueB": 28000000,
+    "emojiB": "🎮",
+    "unit": "verkaufte Einheiten",
+    "unitIcon": "📦"
+  },
+  {
+    "itemA": "Nintendo Switch (sold)",
+    "valueA": 140000000,
+    "emojiA": "🕹️",
+    "itemB": "PS4 (sold)",
+    "valueB": 117000000,
+    "emojiB": "🎮",
+    "unit": "verkaufte Einheiten",
+    "unitIcon": "📦"
+  },
+  {
+    "itemA": "Steam (PC games)",
+    "valueA": 73000,
+    "emojiA": "🖥️",
+    "itemB": "Epic Games Store",
+    "valueB": 2500,
+    "emojiB": "🎮",
+    "unit": "Gesamtspiele",
+    "unitIcon": "📊"
+  },
+  {
+    "itemA": "Steam (peak concurrent)",
+    "valueA": 36000000,
+    "emojiA": "🖥️",
+    "itemB": "Xbox Live (concurrent)",
+    "valueB": 15000000,
+    "emojiB": "🟢",
+    "unit": "Spieler",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Wii Sports (sales)",
+    "valueA": 82900000,
+    "emojiA": "🎳",
+    "itemB": "Wii Fit (sales)",
+    "valueB": 43800000,
+    "emojiB": "🏋️",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Dark Souls series (sales)",
+    "valueA": 35000000,
+    "emojiA": "🗡️",
+    "itemB": "Monster Hunter series",
+    "valueB": 100000000,
+    "emojiB": "🐉",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Halo Infinite (players)",
+    "valueA": 20000000,
+    "emojiA": "🔫",
+    "itemB": "Destiny 2 (players)",
+    "valueB": 40000000,
+    "emojiB": "🌌",
+    "unit": "Gesamtspieler",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Palworld (first month)",
+    "valueA": 25000000,
+    "emojiA": "🐾",
+    "itemB": "Valheim (first month)",
+    "valueB": 10000000,
+    "emojiB": "⚔️",
+    "unit": "Verkäufe",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Lethal Company (peak)",
+    "valueA": 245000,
+    "emojiA": "👻",
+    "itemB": "Phasmophobia (peak)",
+    "valueB": 120000,
+    "emojiB": "🔦",
+    "unit": "gleichzeitig",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Sims 4 (players)",
+    "valueA": 70000000,
+    "emojiA": "🏠",
+    "itemB": "Cities: Skylines (sales)",
+    "valueB": 12000000,
+    "emojiB": "🏙️",
+    "unit": "Gesamtspieler",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Hollow Knight (sales)",
+    "valueA": 8000000,
+    "emojiA": "🪲",
+    "itemB": "Celeste (sales)",
+    "valueB": 2000000,
+    "emojiB": "🍓",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Hades (sales)",
+    "valueA": 6000000,
+    "emojiA": "🔥",
+    "itemB": "Dead Cells (sales)",
+    "valueB": 10000000,
+    "emojiB": "💀",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Resident Evil franchise",
+    "valueA": 150000000,
+    "emojiA": "🧟",
+    "itemB": "Silent Hill franchise",
+    "valueB": 9000000,
+    "emojiB": "🌫️",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Final Fantasy franchise",
+    "valueA": 180000000,
+    "emojiA": "⚔️",
+    "itemB": "Dragon Quest franchise",
+    "valueB": 88000000,
+    "emojiB": "🗡️",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Assassin's Creed franchise",
+    "valueA": 200000000,
+    "emojiA": "🗡️",
+    "itemB": "Far Cry franchise",
+    "valueB": 60000000,
+    "emojiB": "🏝️",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Uncharted franchise",
+    "valueA": 44000000,
+    "emojiA": "🏛️",
+    "itemB": "Tomb Raider franchise",
+    "valueB": 95000000,
+    "emojiB": "🏺",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Sonic franchise (sales)",
+    "valueA": 1600000000,
+    "emojiA": "🦔",
+    "itemB": "Crash Bandicoot",
+    "valueB": 60000000,
+    "emojiB": "🦊",
+    "unit": "verkaufte Einheiten",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Candy Crush (revenue)",
+    "valueA": 20000000000,
+    "emojiA": "🍬",
+    "itemB": "Clash of Clans (revenue)",
+    "valueB": 14000000000,
+    "emojiB": "🏰",
+    "unit": "total $",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Clash Royale (players)",
+    "valueA": 100000000,
+    "emojiA": "👑",
+    "itemB": "Brawl Stars (players)",
+    "valueB": 200000000,
+    "emojiB": "⭐",
+    "unit": "Downloads",
+    "unitIcon": "📲"
+  },
+  {
+    "itemA": "PUBG Mobile (revenue)",
+    "valueA": 9000000000,
+    "emojiA": "🪖",
+    "itemB": "Honor of Kings (revenue)",
+    "valueB": 11000000000,
+    "emojiB": "⚔️",
+    "unit": "total $",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Mortal Kombat franchise",
+    "valueA": 73000000,
+    "emojiA": "🥊",
+    "itemB": "Street Fighter franchise",
+    "valueB": 49000000,
+    "emojiB": "👊",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "The Sims franchise",
+    "valueA": 200000000,
+    "emojiA": "🏠",
+    "itemB": "SimCity franchise",
+    "valueB": 18000000,
+    "emojiB": "🏙️",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Borderlands franchise",
+    "valueA": 77000000,
+    "emojiA": "🔫",
+    "itemB": "Bioshock franchise",
+    "valueB": 38000000,
+    "emojiB": "🔧",
+    "unit": "verkaufte Kopien",
+    "unitIcon": "🎮"
+  },
+  {
+    "itemA": "Forza Horizon 5 (players)",
+    "valueA": 35000000,
+    "emojiA": "🏎️",
+    "itemB": "Gran Turismo 7",
+    "valueB": 10000000,
+    "emojiB": "🏁",
+    "unit": "Spieler",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "FIFA World Cup esport prize",
+    "valueA": 500000,
+    "emojiA": "⚽",
+    "itemB": "LoL Worlds prize pool",
+    "valueB": 2225000,
+    "emojiB": "⚔️",
+    "unit": "USD",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Dota 2 TI prize pool",
+    "valueA": 40000000,
+    "emojiA": "🗡️",
+    "itemB": "Fortnite WC prize pool",
+    "valueB": 30000000,
+    "emojiB": "🔫",
+    "unit": "USD",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Twitch streamers",
+    "valueA": 9000000,
+    "emojiA": "🎮",
+    "itemB": "YouTube Gaming creators",
+    "valueB": 40000000,
+    "emojiB": "▶️",
+    "unit": "active creators",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Nintendo 64 games",
+    "valueA": 388,
+    "emojiA": "🕹️",
+    "itemB": "PS1 games",
+    "valueB": 7918,
+    "emojiB": "🎮",
+    "unit": "Gesamtspiele",
+    "unitIcon": "📊"
+  },
+  {
+    "itemA": "Game Boy (sold)",
+    "valueA": 118690000,
+    "emojiA": "🕹️",
+    "itemB": "PSP (sold)",
+    "valueB": 82000000,
+    "emojiB": "🎮",
+    "unit": "verkaufte Einheiten",
+    "unitIcon": "📦"
+  },
+  {
+    "itemA": "PS2 (sold)",
+    "valueA": 155000000,
+    "emojiA": "🎮",
+    "itemB": "Nintendo DS (sold)",
+    "valueB": 154020000,
+    "emojiB": "🕹️",
+    "unit": "verkaufte Einheiten",
+    "unitIcon": "📦"
+  },
+  {
+    "itemA": "Wii (sold)",
+    "valueA": 101630000,
+    "emojiA": "🕹️",
+    "itemB": "Xbox 360 (sold)",
+    "valueB": 84000000,
+    "emojiB": "🟢",
+    "unit": "verkaufte Einheiten",
+    "unitIcon": "📦"
+  },
+  {
+    "itemA": "Indie game revenue 2023",
+    "valueA": 2000000000,
+    "emojiA": "🎯",
+    "itemB": "AAA game avg budget",
+    "valueB": 200000000,
+    "emojiB": "💰",
+    "unit": "USD",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "GTA VI budget (estimated)",
+    "valueA": 2000000000,
+    "emojiA": "🚗",
+    "itemB": "Cyberpunk 2077 budget",
+    "valueB": 440000000,
+    "emojiB": "🤖",
+    "unit": "USD",
+    "unitIcon": "💰"
+  }
+]
