@@ -1582,7 +1582,6 @@ export default function MathTestPage() {
   ${questionsHtml}
 </div>
 <div class="watermark">PLIZIO</div>
-<script>window.onload = function() { window.print(); };<\/script>
 </body>
 </html>`;
 
@@ -1590,6 +1589,10 @@ export default function MathTestPage() {
       if (win) {
         win.document.write(html);
         win.document.close();
+        // Wait for the document to fully render before printing
+        setTimeout(() => {
+          win.print();
+        }, 500);
       }
     };
 
