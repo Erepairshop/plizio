@@ -422,7 +422,7 @@ function ReflexRushPage() {
   const levelFailed = useCallback(() => {
     stopGame();
     if (isMultiplayer && matchId && !scoreSubmitted) {
-      // Multiplayer: submit 0 score on fail
+      // Multiplayer: submit accumulated score on fail
       setScoreSubmitted(true);
       triggerAvatar("confused", 2000, "confused");
       if (isMix) {
