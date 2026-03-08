@@ -255,7 +255,7 @@ function PingPongPage() {
     const H = () => canvas.height / (window.devicePixelRatio || 1);
 
     const ai = AI_CONFIG[difficulty];
-    const paddleW = () => Math.max(60, Math.min(100, W() * 0.22));
+    const paddleW = () => Math.max(40, Math.min(70, W() * 0.14)); // round paddle hit width
 
     // Game state
     const game: GameState = {
@@ -454,103 +454,137 @@ function PingPongPage() {
       // ─── Render ────────────────────────────────────────
       ctx.clearRect(0, 0, w, h);
 
-      // Background
-      ctx.fillStyle = "#0A0A1A";
+      // Background — warm beige
+      ctx.fillStyle = "#D4B896";
       ctx.fillRect(0, 0, w, h);
 
-      // Table area
-      const tableMargin = w * 0.04;
-      const tableTop = h * 0.05;
-      const tableBottom = h * 0.95;
-      const tableLeft = tableMargin;
-      const tableRight = w - tableMargin;
+      // Table dimensions
+      const tableMarginX = w * 0.12;
+      const tableMarginY = h * 0.12;
+      const tL = tableMarginX;
+      const tR = w - tableMarginX;
+      const tT = tableMarginY;
+      const tB = h - tableMarginY;
+      const tW = tR - tL;
+      const tH = tB - tT;
 
-      // Table border
-      ctx.strokeStyle = "rgba(0, 212, 255, 0.15)";
-      ctx.lineWidth = 2;
-      ctx.strokeRect(tableLeft, tableTop, tableRight - tableLeft, tableBottom - tableTop);
+      // Table shadow
+      ctx.fillStyle = "rgba(0,0,0,0.12)";
+      ctx.fillRect(tL + 4, tT + 4, tW, tH);
 
-      // Center line
-      ctx.setLineDash([8, 8]);
-      ctx.strokeStyle = "rgba(0, 212, 255, 0.2)";
-      ctx.lineWidth = 1;
+      // Table surface — dark green
+      ctx.fillStyle = "#1B7A2B";
+      ctx.fillRect(tL, tT, tW, tH);
+
+      // Table border — black
+      ctx.strokeStyle = "#111";
+      ctx.lineWidth = 3;
+      ctx.strokeRect(tL, tT, tW, tH);
+
+      // White center line (vertical)
+      ctx.strokeStyle = "#FFFFFF";
+      ctx.lineWidth = 2.5;
       ctx.beginPath();
-      ctx.moveTo(tableLeft, h * 0.5);
-      ctx.lineTo(tableRight, h * 0.5);
+      ctx.moveTo(w / 2, tT);
+      ctx.lineTo(w / 2, tB);
       ctx.stroke();
-      ctx.setLineDash([]);
 
-      // Net glow
-      const netGrad = ctx.createLinearGradient(tableLeft, h * 0.5, tableRight, h * 0.5);
-      netGrad.addColorStop(0, "rgba(0, 212, 255, 0)");
-      netGrad.addColorStop(0.5, "rgba(0, 212, 255, 0.08)");
-      netGrad.addColorStop(1, "rgba(0, 212, 255, 0)");
-      ctx.fillStyle = netGrad;
-      ctx.fillRect(tableLeft, h * 0.495, tableRight - tableLeft, h * 0.01);
+      // Net — white horizontal line at center
+      ctx.strokeStyle = "#FFFFFF";
+      ctx.lineWidth = 3;
+      ctx.beginPath();
+      ctx.moveTo(tL - 6, h / 2);
+      ctx.lineTo(tR + 6, h / 2);
+      ctx.stroke();
+      // Net posts
+      ctx.fillStyle = "#555";
+      ctx.fillRect(tL - 8, h / 2 - 4, 6, 8);
+      ctx.fillRect(tR + 2, h / 2 - 4, 6, 8);
 
-      // Paddles
-      const drawPaddle = (x: number, y: number, color: string) => {
-        const px = x * w;
-        const py = y * h;
-        const pwHalf = pw / 2;
-        const ph = PADDLE_HEIGHT;
+      // ─── Draw paddle (table tennis racket shape) ───
+      const paddleRadius = Math.max(18, Math.min(28, w * 0.07));
+      const handleLen = paddleRadius * 0.7;
+      const handleW = paddleRadius * 0.3;
 
-        // Glow
-        ctx.shadowColor = color;
-        ctx.shadowBlur = 15;
-        ctx.fillStyle = color;
+      const drawPaddle = (nx: number, ny: number, headColor: string, handleColor: string, isBottom: boolean) => {
+        const px = tL + nx * tW;
+        const py = tT + ny * tH;
+
+        // Shadow
+        ctx.fillStyle = "rgba(0,0,0,0.2)";
         ctx.beginPath();
-        ctx.roundRect(px - pwHalf, py - ph / 2, pw, ph, 4);
+        ctx.ellipse(px + 2, py + 2, paddleRadius, paddleRadius, 0, 0, Math.PI * 2);
         ctx.fill();
-        ctx.shadowBlur = 0;
 
-        // Highlight
-        const grad = ctx.createLinearGradient(px - pwHalf, py - ph / 2, px - pwHalf, py + ph / 2);
-        grad.addColorStop(0, "rgba(255,255,255,0.3)");
-        grad.addColorStop(1, "rgba(255,255,255,0)");
-        ctx.fillStyle = grad;
+        // Handle
+        ctx.fillStyle = handleColor;
+        ctx.strokeStyle = "#222";
+        ctx.lineWidth = 1.5;
+        const hDir = isBottom ? 1 : -1;
+        const hx = px - handleW / 2;
+        const hy = isBottom ? py + paddleRadius * 0.5 : py - paddleRadius * 0.5 - handleLen;
         ctx.beginPath();
-        ctx.roundRect(px - pwHalf, py - ph / 2, pw, ph, 4);
+        ctx.roundRect(hx, hy, handleW, handleLen, 3);
         ctx.fill();
+        ctx.stroke();
+
+        // Paddle head — circle
+        ctx.fillStyle = headColor;
+        ctx.strokeStyle = "#222";
+        ctx.lineWidth = 2;
+        ctx.beginPath();
+        ctx.arc(px, py, paddleRadius, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.stroke();
+
+        // Rubber texture line
+        ctx.strokeStyle = "rgba(0,0,0,0.15)";
+        ctx.lineWidth = 1;
+        ctx.beginPath();
+        ctx.moveTo(px, py - paddleRadius * 0.7);
+        ctx.lineTo(px, py + paddleRadius * 0.7);
+        ctx.stroke();
       };
 
-      drawPaddle(game.playerX, playerPaddleY, "#00FF88");
-      drawPaddle(game.aiX, aiPaddleY, "#FF2D78");
+      // Map normalized game coords (0..1) to table coords (0..1 within table)
+      const pNormX = (game.playerX - (tL / w)) / (tW / w);
+      const aNormX = (game.aiX - (tL / w)) / (tW / w);
+
+      drawPaddle(
+        Math.max(0.05, Math.min(0.95, pNormX)), 0.88,
+        "#D42020", "#8B1515", true
+      );
+      drawPaddle(
+        Math.max(0.05, Math.min(0.95, aNormX)), 0.12,
+        "#20A0D4", "#156080", false
+      );
 
       // Ball
       if (!game.gameOver) {
-        const bx = game.ballX * w;
-        const by = game.ballY * h;
+        const bNormX = (game.ballX - (tL / w)) / (tW / w);
+        const bNormY = (game.ballY - (tT / h)) / (tH / h);
+        const bx = tL + bNormX * tW;
+        const by = tT + bNormY * tH;
 
-        // Ball trail
-        if (!game.serving) {
-          ctx.globalAlpha = 0.15;
-          ctx.fillStyle = "#00D4FF";
-          const trailLen = 5;
-          for (let i = 1; i <= trailLen; i++) {
-            const tx = bx - game.ballVX * w * i * 2;
-            const ty = by - game.ballVY * h * i * 2;
-            const r = BALL_RADIUS * (1 - i / (trailLen + 1));
-            ctx.beginPath();
-            ctx.arc(tx, ty, r, 0, Math.PI * 2);
-            ctx.fill();
-          }
-          ctx.globalAlpha = 1;
-        }
+        // Ball shadow
+        ctx.fillStyle = "rgba(0,0,0,0.2)";
+        ctx.beginPath();
+        ctx.ellipse(bx + 2, by + 2, BALL_RADIUS + 1, BALL_RADIUS, 0, 0, Math.PI * 2);
+        ctx.fill();
 
-        // Ball glow
-        ctx.shadowColor = "#00D4FF";
-        ctx.shadowBlur = 20;
+        // Ball
         ctx.fillStyle = "#FFFFFF";
+        ctx.strokeStyle = "#888";
+        ctx.lineWidth = 1.5;
         ctx.beginPath();
         ctx.arc(bx, by, BALL_RADIUS, 0, Math.PI * 2);
         ctx.fill();
-        ctx.shadowBlur = 0;
+        ctx.stroke();
 
         // Ball highlight
-        ctx.fillStyle = "rgba(0, 212, 255, 0.4)";
+        ctx.fillStyle = "rgba(255,255,255,0.6)";
         ctx.beginPath();
-        ctx.arc(bx - 2, by - 2, BALL_RADIUS * 0.4, 0, Math.PI * 2);
+        ctx.arc(bx - 2, by - 2, BALL_RADIUS * 0.35, 0, Math.PI * 2);
         ctx.fill();
       }
 
@@ -560,11 +594,8 @@ function PingPongPage() {
         p.x += p.vx * dt;
         p.y += p.vy * dt;
         p.life -= (1 / 60 / p.maxLife) * dt;
-        if (p.life <= 0) {
-          game.particles.splice(i, 1);
-          continue;
-        }
-        ctx.globalAlpha = p.life * 0.8;
+        if (p.life <= 0) { game.particles.splice(i, 1); continue; }
+        ctx.globalAlpha = p.life * 0.7;
         ctx.fillStyle = p.color;
         ctx.beginPath();
         ctx.arc(p.x, p.y, 2 + p.life * 2, 0, Math.PI * 2);
@@ -572,24 +603,41 @@ function PingPongPage() {
       }
       ctx.globalAlpha = 1;
 
-      // Score display
+      // ─── Score badges on sides ───
+      const badgeR = Math.max(18, Math.min(26, w * 0.06));
+      const badgeY = h / 2;
+
+      // Left badge — player (red)
+      const leftBX = tL / 2;
+      ctx.fillStyle = "#FFF";
+      ctx.strokeStyle = "#ccc";
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      ctx.arc(leftBX, badgeY - badgeR * 1.3, badgeR, 0, Math.PI * 2);
+      ctx.fill(); ctx.stroke();
+      ctx.fillStyle = "#D42020";
+      ctx.font = `bold ${Math.round(badgeR)}px system-ui, sans-serif`;
       ctx.textAlign = "center";
-      ctx.font = "bold 28px system-ui, sans-serif";
+      ctx.textBaseline = "middle";
+      ctx.fillText(String(playerScoreRef.current), leftBX, badgeY - badgeR * 1.3);
 
-      // AI score (top)
-      ctx.fillStyle = "rgba(255, 45, 120, 0.6)";
-      ctx.fillText(String(aiScoreRef.current), w / 2, h * 0.25);
+      // Right badge — AI (blue)
+      const rightBX = tR + (w - tR) / 2;
+      ctx.fillStyle = "#FFF";
+      ctx.strokeStyle = "#ccc";
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      ctx.arc(rightBX, badgeY + badgeR * 1.3, badgeR, 0, Math.PI * 2);
+      ctx.fill(); ctx.stroke();
+      ctx.fillStyle = "#20A0D4";
+      ctx.font = `bold ${Math.round(badgeR)}px system-ui, sans-serif`;
+      ctx.fillText(String(aiScoreRef.current), rightBX, badgeY + badgeR * 1.3);
 
-      // Player score (bottom)
-      ctx.fillStyle = "rgba(0, 255, 136, 0.6)";
-      ctx.fillText(String(playerScoreRef.current), w / 2, h * 0.78);
-
-      // Serve indicator
-      if (game.serving && !game.gameOver) {
-        ctx.fillStyle = "rgba(255,255,255,0.3)";
-        ctx.font = "12px system-ui, sans-serif";
-        ctx.fillText("●", game.ballX * w, game.ballY * h);
-      }
+      // Colon
+      ctx.fillStyle = "#888";
+      ctx.font = `bold ${Math.round(badgeR * 0.7)}px system-ui, sans-serif`;
+      ctx.fillText(":", leftBX, badgeY);
+      ctx.fillText(":", rightBX, badgeY);
 
       animFrameRef.current = requestAnimationFrame(loop);
     };
@@ -615,13 +663,13 @@ function PingPongPage() {
   const playerWon = screen === "result" ? ps > as_ : false;
 
   return (
-    <div className="min-h-[100dvh] bg-bg flex flex-col relative overflow-hidden">
+    <div className="min-h-[100dvh] flex flex-col relative overflow-hidden" style={{ background: "#C4A67A" }}>
       {/* Header */}
       <div className="flex items-center justify-between px-4 py-3 relative z-10">
-        <Link href="/" className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 transition-colors">
+        <Link href="/" className="w-8 h-8 flex items-center justify-center rounded-full bg-black/10 text-black/50 hover:bg-black/20 transition-colors">
           <ChevronLeft size={16} />
         </Link>
-        <h1 className="text-white/80 font-bold text-sm">{t.title}</h1>
+        <h1 className="text-black/70 font-bold text-sm">{t.title}</h1>
         <div className="w-8" />
       </div>
 
@@ -655,18 +703,18 @@ function PingPongPage() {
             </motion.div>
 
             <div className="text-center">
-              <h2 className="text-2xl font-black text-white">{t.title}</h2>
-              <p className="text-white/50 text-xs mt-1">{t.firstTo}</p>
+              <h2 className="text-2xl font-black text-black/80">{t.title}</h2>
+              <p className="text-black/40 text-xs mt-1">{t.firstTo}</p>
             </div>
 
-            <p className="text-white/40 text-xs font-bold uppercase tracking-wider">{t.selectDifficulty}</p>
+            <p className="text-black/40 text-xs font-bold uppercase tracking-wider">{t.selectDifficulty}</p>
 
             <div className="flex flex-col gap-3 w-full max-w-xs">
               {(["easy", "medium", "hard"] as Difficulty[]).map((d) => {
                 const colors = {
-                  easy: { bg: "bg-neon-green/10", border: "border-neon-green/30", text: "text-neon-green" },
-                  medium: { bg: "bg-neon-blue/10", border: "border-neon-blue/30", text: "text-neon-blue" },
-                  hard: { bg: "bg-neon-pink/10", border: "border-neon-pink/30", text: "text-neon-pink" },
+                  easy: { bg: "bg-green-600/15", border: "border-green-600/40", text: "text-green-800" },
+                  medium: { bg: "bg-blue-600/15", border: "border-blue-600/40", text: "text-blue-800" },
+                  hard: { bg: "bg-red-600/15", border: "border-red-600/40", text: "text-red-800" },
                 };
                 const c = colors[d];
                 return (
@@ -695,34 +743,35 @@ function PingPongPage() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            {/* HUD */}
-            <div className="absolute top-0 left-0 right-0 z-10 flex items-center justify-between px-4 py-2">
-              <button
-                onClick={() => { setAvatarMood("idle"); setScreen("menu"); }}
-                className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 transition-colors text-lg font-bold"
-              >✕</button>
-              <div className="flex items-center gap-3">
-                {isDeuce && (
-                  <motion.span className="text-gold text-xs font-bold" animate={{ scale: [1, 1.1, 1] }} transition={{ repeat: Infinity, duration: 1 }}>
-                    {t.deuce}
-                  </motion.span>
-                )}
-                {isMatchPoint && (
-                  <motion.span className="text-neon-pink text-xs font-bold" animate={{ scale: [1, 1.1, 1] }} transition={{ repeat: Infinity, duration: 1 }}>
-                    {t.matchPoint}
-                  </motion.span>
-                )}
-              </div>
-              <div className="w-8" />
-            </div>
+            {/* HUD — removed, score is rendered on canvas */}
 
-            {/* Canvas */}
+            {/* Canvas + overlay buttons */}
             <div className="flex-1 relative touch-none">
               <canvas
                 ref={canvasRef}
                 className="absolute inset-0 w-full h-full"
                 style={{ touchAction: "none" }}
               />
+              {/* Exit button */}
+              <button
+                onClick={() => { setAvatarMood("idle"); setScreen("menu"); }}
+                className="absolute top-2 right-2 z-10 px-3 py-1.5 rounded-lg bg-white/90 text-black/70 font-bold text-xs shadow-md hover:bg-white transition-colors"
+              >
+                {lang === "hu" ? "VÉGE" : lang === "de" ? "ENDE" : lang === "ro" ? "SFÂRȘIT" : "END"}
+              </button>
+              {/* Status badges */}
+              {isDeuce && (
+                <motion.div className="absolute top-2 left-1/2 -translate-x-1/2 z-10 px-3 py-1 rounded-full bg-yellow-400 text-black font-bold text-xs shadow"
+                  animate={{ scale: [1, 1.08, 1] }} transition={{ repeat: Infinity, duration: 1 }}>
+                  {t.deuce}
+                </motion.div>
+              )}
+              {isMatchPoint && (
+                <motion.div className="absolute top-2 left-1/2 -translate-x-1/2 z-10 px-3 py-1 rounded-full bg-red-500 text-white font-bold text-xs shadow"
+                  animate={{ scale: [1, 1.08, 1] }} transition={{ repeat: Infinity, duration: 1 }}>
+                  {t.matchPoint}
+                </motion.div>
+              )}
             </div>
           </motion.div>
         )}
@@ -768,8 +817,7 @@ function PingPongPage() {
             </motion.div>
 
             <motion.div
-              className={`text-3xl font-black ${ps > as_ ? "text-neon-green" : "text-neon-pink"}`}
-              style={{ textShadow: `0 0 20px ${ps > as_ ? "rgba(0,255,136,0.4)" : "rgba(255,45,120,0.4)"}` }}
+              className={`text-3xl font-black ${ps > as_ ? "text-green-700" : "text-red-600"}`}
               initial={{ scale: 0.5, opacity: 0 }}
               animate={{ scale: 1, opacity: 1 }}
             >
@@ -778,22 +826,22 @@ function PingPongPage() {
 
             <div className="flex items-center gap-6">
               <div className="flex flex-col items-center">
-                <span className="text-white/50 text-xs">{t.you}</span>
-                <span className="text-2xl font-black text-neon-green">{ps}</span>
+                <span className="text-black/40 text-xs">{t.you}</span>
+                <span className="text-2xl font-black text-red-600">{ps}</span>
               </div>
-              <span className="text-white/20 text-sm font-bold">—</span>
+              <span className="text-black/20 text-sm font-bold">—</span>
               <div className="flex flex-col items-center">
-                <span className="text-white/50 text-xs">{t.ai}</span>
-                <span className="text-2xl font-black text-neon-pink">{as_}</span>
+                <span className="text-black/40 text-xs">{t.ai}</span>
+                <span className="text-2xl font-black text-blue-600">{as_}</span>
               </div>
             </div>
 
             {earnedCard && (
               <div className={`px-3 py-1.5 rounded-lg text-xs font-bold ${
-                earnedCard === "legendary" ? "bg-gold/20 text-gold" :
-                earnedCard === "gold" ? "bg-yellow-500/20 text-yellow-400" :
-                earnedCard === "silver" ? "bg-gray-400/20 text-gray-300" :
-                "bg-amber-700/20 text-amber-600"
+                earnedCard === "legendary" ? "bg-yellow-500/20 text-yellow-700" :
+                earnedCard === "gold" ? "bg-yellow-400/20 text-yellow-600" :
+                earnedCard === "silver" ? "bg-gray-400/20 text-gray-600" :
+                "bg-amber-700/20 text-amber-800"
               }`}>
                 {earnedCard.toUpperCase()} card
               </div>
@@ -802,7 +850,7 @@ function PingPongPage() {
             <div className="flex flex-col gap-2 w-full max-w-xs mt-2">
               <motion.button
                 onClick={() => startGame(difficulty)}
-                className="py-3 rounded-xl bg-neon-blue/15 border border-neon-blue/30 text-neon-blue font-bold text-sm"
+                className="py-3 rounded-xl bg-green-700/15 border border-green-700/40 text-green-800 font-bold text-sm"
                 whileHover={{ scale: 1.02 }}
                 whileTap={{ scale: 0.98 }}
               >
@@ -810,7 +858,7 @@ function PingPongPage() {
               </motion.button>
               <Link
                 href="/"
-                className="py-3 rounded-xl bg-white/5 border border-white/10 text-white/70 font-bold text-sm text-center"
+                className="py-3 rounded-xl bg-black/5 border border-black/10 text-black/50 font-bold text-sm text-center"
               >
                 {t.back}
               </Link>
