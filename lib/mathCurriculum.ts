@@ -1356,6 +1356,8 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'stellenwert', name: 'Stellenwertsystem', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig] },
       { key: 'zahlenstrahl', name: 'Zahlenstrahl & Zahlen ordnen', color: '#3B82F6', icon: '📊', generators: [G4.sequence, G3.sequence] },
       { key: 'runden', name: 'Runden (10er, 100er, 1000er)', color: '#06B6D4', icon: '🔄', generators: [G4.rounding] },
+      { key: 'place_value', name: '🎮 Stellenwerttafel - Interaktiv', color: '#6366F1', icon: '🔢', generators: [] },
+      { key: 'number_line', name: '🎮 Runden am Zahlenstrahl', color: '#14B8A6', icon: '🎯', generators: [] },
     ]},
     { key: 'g4_grundrechenarten', name: 'Grundrechenarten', color: '#10B981', icon: '➕', topics: [
       { key: 'addSub', name: 'Addition & Subtraktion', color: '#34D399', icon: '➕', generators: [G4.writtenAddLarge, G4.writtenSubLarge] },
@@ -1366,6 +1368,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     { key: 'g4_struktur', name: 'Zahlenstruktur und Denken', color: '#8B5CF6', icon: '🧩', topics: [
       { key: 'zahlenfolgen', name: 'Zahlenfolgen & Muster', color: '#A78BFA', icon: '🔗', generators: [G4.sequence, G3.sequence] },
       { key: 'rechenstrategien', name: 'Rechenstrategien', color: '#8B5CF6', icon: '🧠', generators: [G4.placeValue, G4.rounding] },
+      { key: 'sequence', name: '🎮 Zahlenfolgen - Muster erkennen', color: '#8B5CF6', icon: '🔗', generators: [] },
     ]},
     { key: 'g4_groessen', name: 'Größen und Messen', color: '#F59E0B', icon: '⚖️', topics: [
       { key: 'laenge', name: 'Länge (mm, cm, m, km)', color: '#FBBF24', icon: '📏', generators: [G4.unitLengths, G4.units] },
@@ -1373,16 +1376,26 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'zeit', name: 'Zeit (s, min, h, Tage)', color: '#EAB308', icon: '⏱️', generators: [G4.units] },
       { key: 'geld', name: 'Geld (€, ct)', color: '#CA8A04', icon: '💰', generators: [G4.units, G4.word2] },
       { key: 'umwandeln', name: 'Einheiten umwandeln', color: '#D97706', icon: '🔄', generators: [G4.units, G4.unitLengths] },
+      { key: 'zeichnen', name: '🎮 Zeichnen - Längen und Formen', color: '#06B6D4', icon: '✏️', generators: [] },
+      { key: 'messen', name: '🎮 Messen - Mit Lineal', color: '#0EA5E9', icon: '📏', generators: [] },
+      { key: 'uhrzeit', name: '🎮 Uhr lesen - Analog & Digital', color: '#06D6D4', icon: '⏰', generators: [] },
+      { key: 'timeline', name: '🎮 Zeitdauer - Zeitstrahl', color: '#0D9488', icon: '⏱️', generators: [] },
+      { key: 'money', name: '🎮 Geldrechnen - Einkaufen', color: '#22C55E', icon: '💰', generators: [] },
     ]},
     { key: 'g4_geo', name: 'Geometrie', color: '#EC4899', icon: '📐', topics: [
       { key: 'strecken', name: 'Strecken messen & zeichnen', color: '#F472B6', icon: '📏', generators: [G4.geometry] },
       { key: 'geodreieck', name: 'Geodreieck (Winkel, Parallelen)', color: '#EC4899', icon: '📐', generators: [G4.circleBasics, G4.geometry] },
       { key: 'zirkel', name: 'Zirkel (Kreis, Radius)', color: '#DB2777', icon: '⭕', generators: [G4.circleBasics] },
       { key: 'symmetrie', name: 'Symmetrie & Spiegeln', color: '#BE185D', icon: '🪞', generators: [G4.geometry] },
+      { key: 'angle', name: '🎮 Winkel zeichnen & messen', color: '#EF4444', icon: '📐', generators: [] },
+      { key: 'circle_draw', name: '🎮 Kreis zeichnen mit Zirkel', color: '#F97316', icon: '⭕', generators: [] },
+      { key: 'symmetry', name: '🎮 Symmetrie - Spiegeln', color: '#EC4899', icon: '🪞', generators: [] },
     ]},
     { key: 'g4_flaeche', name: 'Fläche und Umfang', color: '#F97316', icon: '📏', topics: [
       { key: 'umfang', name: 'Umfang (Rechteck, Quadrat)', color: '#FB923C', icon: '📏', generators: [G4.geometry, G4.geometryB] },
       { key: 'flaeche', name: 'Fläche (Kästchen zählen)', color: '#F97316', icon: '📐', generators: [G4.geometry, G4.geometryB] },
+      { key: 'grid_area', name: '🎮 Fläche & Umfang - Gitter zählen', color: '#F59E0B', icon: '📐', generators: [] },
+      { key: 'fraction_pizza', name: '🎮 Brüche - Pizza-Darstellung', color: '#F59E0B', icon: '🍕', generators: [] },
     ]},
     { key: 'g4_daten', name: 'Daten und Diagramme', color: '#06B6D4', icon: '📊', topics: [
       { key: 'tabellen', name: 'Tabellen lesen & ausfüllen', color: '#22D3EE', icon: '📈', generators: [G4.word1, G4.word2] },
