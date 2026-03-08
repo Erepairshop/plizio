@@ -10,6 +10,8 @@ interface FractionPizzaAdderProps {
   denominator?: number;
   language?: 'hu' | 'de' | 'en' | 'ro';
   onAnswer: (isCorrect: boolean) => void;
+  embedded?: boolean;
+  onValueChange?: (value: string) => void;
 }
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -75,6 +77,8 @@ const FractionPizzaAdder: React.FC<FractionPizzaAdderProps> = ({
   denominator: propDen,
   language = 'de',
   onAnswer,
+  embedded = false,
+  onValueChange,
 }) => {
   const t = LABELS[language] || LABELS.en;
 
@@ -114,6 +118,10 @@ const FractionPizzaAdder: React.FC<FractionPizzaAdderProps> = ({
   const [feedback, setFeedback] = useState<'correct' | 'incorrect' | null>(null);
   const [submitted, setSubmitted] = useState(false);
 
+  React.useEffect(() => {
+    if (embedded && onValueChange && selected) onValueChange(selected);
+  }, [embedded, onValueChange, selected]);
+
   const CX = 100, CY = 100, R = 80;
 
   const handleSubmit = () => {
@@ -141,15 +149,17 @@ const FractionPizzaAdder: React.FC<FractionPizzaAdderProps> = ({
       animate={{ opacity: 1, y: 0 }}
     >
       {/* Header */}
-      <div className="px-5 pt-5 pb-3">
-        <div className="flex items-center gap-3 mb-1">
-          <div className="w-9 h-9 rounded-xl bg-orange-500 flex items-center justify-center">
-            <PieChart size={18} className="text-white" />
+      {!embedded && (
+        <div className="px-5 pt-5 pb-3">
+          <div className="flex items-center gap-3 mb-1">
+            <div className="w-9 h-9 rounded-xl bg-orange-500 flex items-center justify-center">
+              <PieChart size={18} className="text-white" />
+            </div>
+            <h3 className="text-lg font-extrabold text-slate-800">{t.title}</h3>
           </div>
-          <h3 className="text-lg font-extrabold text-slate-800">{t.title}</h3>
+          <p className="text-sm text-slate-500 ml-12">{t.hint}</p>
         </div>
-        <p className="text-sm text-slate-500 ml-12">{t.hint}</p>
-      </div>
+      )}
 
       {/* Pizza SVG */}
       <div className="flex justify-center px-4 pb-4">

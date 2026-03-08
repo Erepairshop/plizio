@@ -14,6 +14,8 @@ interface GridAreaCounterProps {
   mode?: 'area' | 'perimeter';
   onAnswer: (isCorrect: boolean, answer: number) => void;
   language?: 'hu' | 'de' | 'en' | 'ro';
+  embedded?: boolean;
+  onValueChange?: (value: string) => void;
 }
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -88,6 +90,8 @@ const GridAreaCounter: React.FC<GridAreaCounterProps> = ({
   mode = 'area',
   onAnswer,
   language = 'de',
+  embedded = false,
+  onValueChange,
 }) => {
   const t = LABELS[language] || LABELS.en;
 
@@ -131,6 +135,13 @@ const GridAreaCounter: React.FC<GridAreaCounterProps> = ({
     setSubmitted(false);
   };
 
+  React.useEffect(() => {
+    if (embedded && onValueChange) {
+      const val = inputVal || (clicked.size > 0 ? String(clicked.size) : '');
+      if (val) onValueChange(val);
+    }
+  }, [embedded, onValueChange, inputVal, clicked.size]);
+
   const totalGridW = gridW * (CELL + GAP) - GAP;
   const totalGridH = gridH * (CELL + GAP) - GAP;
 
@@ -142,22 +153,24 @@ const GridAreaCounter: React.FC<GridAreaCounterProps> = ({
       animate={{ opacity: 1, y: 0 }}
     >
       {/* Header */}
-      <div className="px-5 pt-5 pb-3">
-        <div className="flex items-center gap-3 mb-1">
-          <div className="w-9 h-9 rounded-xl bg-amber-500 flex items-center justify-center">
-            <Grid3X3 size={18} className="text-white" />
+      {!embedded && (
+        <div className="px-5 pt-5 pb-3">
+          <div className="flex items-center gap-3 mb-1">
+            <div className="w-9 h-9 rounded-xl bg-amber-500 flex items-center justify-center">
+              <Grid3X3 size={18} className="text-white" />
+            </div>
+            <h3 className="text-lg font-extrabold text-slate-800">
+              {mode === 'area' ? t.areaTitle : t.perimeterTitle}
+            </h3>
           </div>
-          <h3 className="text-lg font-extrabold text-slate-800">
-            {mode === 'area' ? t.areaTitle : t.perimeterTitle}
-          </h3>
+          <p className="text-sm text-slate-500 ml-12">
+            {mode === 'area' ? t.areaHint : t.perimeterHint}
+          </p>
         </div>
-        <p className="text-sm text-slate-500 ml-12">
-          {mode === 'area' ? t.areaHint : t.perimeterHint}
-        </p>
-      </div>
+      )}
 
       {/* Méretek badge */}
-      <div className="flex justify-center gap-3 pb-4">
+      <div className={`flex justify-center gap-3 ${embedded ? 'pb-2' : 'pb-4'}`}>
         <span className="bg-amber-100 text-amber-800 px-3 py-1 rounded-full text-sm font-bold">
           {t.width}: {gridW} cm
         </span>
@@ -167,7 +180,7 @@ const GridAreaCounter: React.FC<GridAreaCounterProps> = ({
       </div>
 
       {/* Grid */}
-      <div className="flex justify-center pb-4 px-4">
+      <div className={`flex justify-center ${embedded ? 'pb-2 px-2' : 'pb-4 px-4'}`}>
         <svg
           width={totalGridW + 20}
           height={totalGridH + 20}
@@ -205,7 +218,7 @@ const GridAreaCounter: React.FC<GridAreaCounterProps> = ({
       </div>
 
       {/* Számláló + Input */}
-      <div className="flex items-center justify-center gap-4 px-5 pb-3">
+      <div className={`flex items-center justify-center gap-4 ${embedded ? 'px-3 pb-2' : 'px-5 pb-3'}`}>
         <span className="text-sm text-slate-500 font-medium">{t.answer}</span>
         {mode === 'area' && clicked.size > 0 && !inputVal && (
           <span className="text-2xl font-black text-amber-600">{clicked.size} {t.unit}</span>
@@ -224,44 +237,46 @@ const GridAreaCounter: React.FC<GridAreaCounterProps> = ({
       </div>
 
       {/* Feedback + Gombok */}
-      <div className="px-5 pb-5">
-        <AnimatePresence mode="wait">
-          {feedback && (
-            <motion.div
-              key={feedback}
-              className={`flex items-center justify-center gap-2 p-3 rounded-xl font-bold text-base mb-3 ${
-                feedback === 'correct'
-                  ? 'bg-green-100 text-green-700 border-2 border-green-300'
-                  : 'bg-red-50 text-red-600 border-2 border-red-200'
-              }`}
-              initial={{ opacity: 0, y: 10 }}
-              animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0 }}
-            >
-              {feedback === 'correct' ? <Check size={20} /> : <X size={20} />}
-              {feedback === 'correct' ? t.correct : t.incorrect}
-            </motion.div>
-          )}
-        </AnimatePresence>
+      {!embedded && (
+        <div className="px-5 pb-5">
+          <AnimatePresence mode="wait">
+            {feedback && (
+              <motion.div
+                key={feedback}
+                className={`flex items-center justify-center gap-2 p-3 rounded-xl font-bold text-base mb-3 ${
+                  feedback === 'correct'
+                    ? 'bg-green-100 text-green-700 border-2 border-green-300'
+                    : 'bg-red-50 text-red-600 border-2 border-red-200'
+                }`}
+                initial={{ opacity: 0, y: 10 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0 }}
+              >
+                {feedback === 'correct' ? <Check size={20} /> : <X size={20} />}
+                {feedback === 'correct' ? t.correct : t.incorrect}
+              </motion.div>
+            )}
+          </AnimatePresence>
 
-        {!submitted ? (
-          <button
-            onClick={handleSubmit}
-            disabled={!inputVal && clicked.size === 0}
-            className="w-full py-3 rounded-xl bg-amber-500 text-white font-bold text-sm hover:bg-amber-600 active:scale-[0.98] transition-all disabled:bg-slate-300 disabled:cursor-not-allowed"
-          >
-            {t.submit}
-          </button>
-        ) : (
-          <button
-            onClick={handleReset}
-            className="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-amber-500 text-white font-bold text-sm hover:bg-amber-600 active:scale-[0.98] transition-all"
-          >
-            <RotateCcw size={16} />
-            {t.tryAgain}
-          </button>
-        )}
-      </div>
+          {!submitted ? (
+            <button
+              onClick={handleSubmit}
+              disabled={!inputVal && clicked.size === 0}
+              className="w-full py-3 rounded-xl bg-amber-500 text-white font-bold text-sm hover:bg-amber-600 active:scale-[0.98] transition-all disabled:bg-slate-300 disabled:cursor-not-allowed"
+            >
+              {t.submit}
+            </button>
+          ) : (
+            <button
+              onClick={handleReset}
+              className="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-amber-500 text-white font-bold text-sm hover:bg-amber-600 active:scale-[0.98] transition-all"
+            >
+              <RotateCcw size={16} />
+              {t.tryAgain}
+            </button>
+          )}
+        </div>
+      )}
     </motion.div>
   );
 };

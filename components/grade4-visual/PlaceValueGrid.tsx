@@ -10,6 +10,8 @@ interface PlaceValueGridProps {
   digits?: number;
   onAnswer: (isCorrect: boolean, answer: number) => void;
   language?: 'hu' | 'de' | 'en' | 'ro';
+  embedded?: boolean;
+  onValueChange?: (value: string) => void;
 }
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -84,6 +86,8 @@ const PlaceValueGrid: React.FC<PlaceValueGridProps> = ({
   digits: propDigits,
   onAnswer,
   language = 'de',
+  embedded = false,
+  onValueChange,
 }) => {
   const t = LABELS[language] || LABELS.en;
 
@@ -151,6 +155,20 @@ const PlaceValueGrid: React.FC<PlaceValueGridProps> = ({
     setSubmitted(false);
   };
 
+  React.useEffect(() => {
+    if (embedded && onValueChange) {
+      if (mode === 'decompose') {
+        const allFilled = activeCols.every(key => inputs[key] !== undefined && inputs[key] !== '');
+        if (allFilled) {
+          const composed = activeCols.map(key => inputs[key] || '0').join('');
+          onValueChange(composed);
+        }
+      } else {
+        if (composeInput.trim()) onValueChange(composeInput.trim());
+      }
+    }
+  }, [embedded, onValueChange, mode, inputs, composeInput, activeCols]);
+
   const canSubmit = mode === 'decompose'
     ? activeCols.some(key => inputs[key] !== undefined && inputs[key] !== '')
     : composeInput.trim() !== '';
@@ -163,19 +181,21 @@ const PlaceValueGrid: React.FC<PlaceValueGridProps> = ({
       animate={{ opacity: 1, y: 0 }}
     >
       {/* Header */}
-      <div className="px-5 pt-5 pb-3">
-        <div className="flex items-center gap-3 mb-1">
-          <div className="w-9 h-9 rounded-xl bg-violet-600 flex items-center justify-center">
-            <Hash size={18} className="text-white" />
+      {!embedded && (
+        <div className="px-5 pt-5 pb-3">
+          <div className="flex items-center gap-3 mb-1">
+            <div className="w-9 h-9 rounded-xl bg-violet-600 flex items-center justify-center">
+              <Hash size={18} className="text-white" />
+            </div>
+            <h3 className="text-lg font-extrabold text-slate-800">
+              {mode === 'decompose' ? t.title : t.compose}
+            </h3>
           </div>
-          <h3 className="text-lg font-extrabold text-slate-800">
-            {mode === 'decompose' ? t.title : t.compose}
-          </h3>
+          <p className="text-sm text-slate-500 ml-12">
+            {mode === 'decompose' ? t.hint : t.composeHint}
+          </p>
         </div>
-        <p className="text-sm text-slate-500 ml-12">
-          {mode === 'decompose' ? t.hint : t.composeHint}
-        </p>
-      </div>
+      )}
 
       {/* Number display (decompose mode) */}
       {mode === 'decompose' && (
@@ -189,7 +209,7 @@ const PlaceValueGrid: React.FC<PlaceValueGridProps> = ({
       )}
 
       {/* Place value table */}
-      <div className="px-4 pb-4">
+      <div className={`${embedded ? 'px-2 pb-2' : 'px-4 pb-4'}`}>
         <div className="bg-white rounded-xl border-2 border-violet-200 overflow-hidden">
           {/* Header row */}
           <div className="flex">
@@ -242,7 +262,7 @@ const PlaceValueGrid: React.FC<PlaceValueGridProps> = ({
 
       {/* Compose input */}
       {mode === 'compose' && (
-        <div className="flex items-center justify-center gap-3 px-5 pb-4">
+        <div className={`flex items-center justify-center gap-3 ${embedded ? 'px-3 pb-2' : 'px-5 pb-4'}`}>
           <span className="text-sm text-slate-500 font-medium">=</span>
           <input
             type="number"
@@ -256,44 +276,46 @@ const PlaceValueGrid: React.FC<PlaceValueGridProps> = ({
       )}
 
       {/* Feedback + Buttons */}
-      <div className="px-5 pb-5">
-        <AnimatePresence mode="wait">
-          {feedback && (
-            <motion.div
-              key={feedback}
-              className={`flex items-center justify-center gap-2 p-3 rounded-xl font-bold text-base mb-3 ${
-                feedback === 'correct'
-                  ? 'bg-green-100 text-green-700 border-2 border-green-300'
-                  : 'bg-red-50 text-red-600 border-2 border-red-200'
-              }`}
-              initial={{ opacity: 0, y: 10 }}
-              animate={{ opacity: 1, y: 0 }}
-              exit={{ opacity: 0 }}
-            >
-              {feedback === 'correct' ? <Check size={20} /> : <X size={20} />}
-              {feedback === 'correct' ? t.correct : t.incorrect}
-            </motion.div>
-          )}
-        </AnimatePresence>
+      {!embedded && (
+        <div className="px-5 pb-5">
+          <AnimatePresence mode="wait">
+            {feedback && (
+              <motion.div
+                key={feedback}
+                className={`flex items-center justify-center gap-2 p-3 rounded-xl font-bold text-base mb-3 ${
+                  feedback === 'correct'
+                    ? 'bg-green-100 text-green-700 border-2 border-green-300'
+                    : 'bg-red-50 text-red-600 border-2 border-red-200'
+                }`}
+                initial={{ opacity: 0, y: 10 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0 }}
+              >
+                {feedback === 'correct' ? <Check size={20} /> : <X size={20} />}
+                {feedback === 'correct' ? t.correct : t.incorrect}
+              </motion.div>
+            )}
+          </AnimatePresence>
 
-        {!submitted ? (
-          <button
-            onClick={handleSubmit}
-            disabled={!canSubmit}
-            className="w-full py-3 rounded-xl bg-violet-600 text-white font-bold text-sm hover:bg-violet-700 active:scale-[0.98] transition-all disabled:bg-slate-300 disabled:cursor-not-allowed"
-          >
-            {t.submit}
-          </button>
-        ) : (
-          <button
-            onClick={handleReset}
-            className="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-violet-600 text-white font-bold text-sm hover:bg-violet-700 active:scale-[0.98] transition-all"
-          >
-            <RotateCcw size={16} />
-            {t.tryAgain}
-          </button>
-        )}
-      </div>
+          {!submitted ? (
+            <button
+              onClick={handleSubmit}
+              disabled={!canSubmit}
+              className="w-full py-3 rounded-xl bg-violet-600 text-white font-bold text-sm hover:bg-violet-700 active:scale-[0.98] transition-all disabled:bg-slate-300 disabled:cursor-not-allowed"
+            >
+              {t.submit}
+            </button>
+          ) : (
+            <button
+              onClick={handleReset}
+              className="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-violet-600 text-white font-bold text-sm hover:bg-violet-700 active:scale-[0.98] transition-all"
+            >
+              <RotateCcw size={16} />
+              {t.tryAgain}
+            </button>
+          )}
+        </div>
+      )}
     </motion.div>
   );
 };

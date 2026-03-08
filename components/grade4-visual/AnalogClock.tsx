@@ -10,6 +10,8 @@ interface AnalogClockProps {
   targetMinute?: number;  // 0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55
   onAnswer: (isCorrect: boolean, hour: number, minute: number) => void;
   language?: 'hu' | 'de' | 'en' | 'ro';
+  embedded?: boolean;
+  onValueChange?: (value: string) => void;
 }
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -59,6 +61,8 @@ const AnalogClock: React.FC<AnalogClockProps> = ({
   targetMinute,
   onAnswer,
   language = 'de',
+  embedded = false,
+  onValueChange,
 }) => {
   const t = LABELS[language] || LABELS.en;
 
@@ -72,6 +76,13 @@ const AnalogClock: React.FC<AnalogClockProps> = ({
   const [selMinute, setSelMinute] = useState<number | null>(null);
   const [feedback, setFeedback] = useState<'correct' | 'incorrect' | null>(null);
   const [submitted, setSubmitted] = useState(false);
+
+  // Embedded mode: report value immediately when both selected
+  React.useEffect(() => {
+    if (embedded && onValueChange && selHour !== null && selMinute !== null) {
+      onValueChange(`${selHour}:${selMinute.toString().padStart(2, '0')}`);
+    }
+  }, [embedded, onValueChange, selHour, selMinute]);
 
   // Szög-kalkuláció
   const hourAngle = ((hour % 12) + minute / 60) * 30 - 90; // fokban, 12 óra = -90°
@@ -106,6 +117,7 @@ const AnalogClock: React.FC<AnalogClockProps> = ({
       animate={{ opacity: 1, y: 0 }}
     >
       {/* Header */}
+      {!embedded && (
       <div className="px-5 pt-5 pb-3">
         <div className="flex items-center gap-3 mb-1">
           <div className="w-9 h-9 rounded-xl bg-violet-500 flex items-center justify-center">
@@ -114,10 +126,11 @@ const AnalogClock: React.FC<AnalogClockProps> = ({
           <h3 className="text-lg font-extrabold text-slate-800">{t.instruction}</h3>
         </div>
       </div>
+      )}
 
       {/* Óra SVG */}
-      <div className="flex justify-center px-4 pb-4">
-        <svg width="240" height="240" viewBox="0 0 240 240" className="drop-shadow-xl">
+      <div className={`flex justify-center ${embedded ? 'px-2 pb-2 pt-2' : 'px-4 pb-4'}`}>
+        <svg width={embedded ? 160 : 240} height={embedded ? 160 : 240} viewBox="0 0 240 240" className="drop-shadow-xl">
           {/* Külső keret */}
           <circle cx={CX} cy={CY} r={R + 8} fill="#e2e8f0" />
           <circle cx={CX} cy={CY} r={R + 4} fill="#f8fafc" />
@@ -206,15 +219,15 @@ const AnalogClock: React.FC<AnalogClockProps> = ({
       </div>
 
       {/* Óra választó */}
-      <div className="px-5 pb-3">
-        <p className="text-xs font-bold text-slate-500 uppercase tracking-wide mb-2">{t.hour}</p>
-        <div className="grid grid-cols-6 gap-1.5">
+      <div className={embedded ? 'px-3 pb-2' : 'px-5 pb-3'}>
+        <p className={`text-xs font-bold text-slate-500 uppercase tracking-wide ${embedded ? 'mb-1' : 'mb-2'}`}>{t.hour}</p>
+        <div className={`grid grid-cols-6 ${embedded ? 'gap-1' : 'gap-1.5'}`}>
           {Array.from({ length: 12 }, (_, i) => i + 1).map((h) => (
             <motion.button
               key={h}
               disabled={submitted}
               onClick={() => { playSelect(); setSelHour(h); }}
-              className={`py-2.5 rounded-xl text-sm font-extrabold transition-all ${
+              className={`${embedded ? 'py-1.5 rounded-lg text-xs' : 'py-2.5 rounded-xl text-sm'} font-extrabold transition-all ${
                 selHour === h
                   ? 'bg-red-500 text-white shadow-lg shadow-red-200 scale-105'
                   : 'bg-white text-slate-700 border border-slate-200 hover:border-red-300 hover:bg-red-50'
@@ -228,15 +241,15 @@ const AnalogClock: React.FC<AnalogClockProps> = ({
       </div>
 
       {/* Perc választó */}
-      <div className="px-5 pb-4">
-        <p className="text-xs font-bold text-slate-500 uppercase tracking-wide mb-2">{t.minute}</p>
-        <div className="grid grid-cols-6 gap-1.5">
+      <div className={embedded ? 'px-3 pb-2' : 'px-5 pb-4'}>
+        <p className={`text-xs font-bold text-slate-500 uppercase tracking-wide ${embedded ? 'mb-1' : 'mb-2'}`}>{t.minute}</p>
+        <div className={`grid grid-cols-6 ${embedded ? 'gap-1' : 'gap-1.5'}`}>
           {MINUTE_OPTIONS.map((m) => (
             <motion.button
               key={m}
               disabled={submitted}
               onClick={() => { playSelect(); setSelMinute(m); }}
-              className={`py-2.5 rounded-xl text-sm font-extrabold transition-all ${
+              className={`${embedded ? 'py-1.5 rounded-lg text-xs' : 'py-2.5 rounded-xl text-sm'} font-extrabold transition-all ${
                 selMinute === m
                   ? 'bg-blue-500 text-white shadow-lg shadow-blue-200 scale-105'
                   : 'bg-white text-slate-700 border border-slate-200 hover:border-blue-300 hover:bg-blue-50'
@@ -251,16 +264,17 @@ const AnalogClock: React.FC<AnalogClockProps> = ({
 
       {/* Kiválasztott idő preview */}
       {selHour !== null && selMinute !== null && !submitted && (
-        <div className="flex justify-center pb-3">
-          <div className="bg-white border-2 border-violet-300 rounded-2xl px-6 py-2 text-center">
-            <span className="text-2xl font-black text-violet-700">
+        <div className={`flex justify-center ${embedded ? 'pb-2' : 'pb-3'}`}>
+          <div className={`bg-white border-2 border-violet-300 ${embedded ? 'rounded-xl px-4 py-1' : 'rounded-2xl px-6 py-2'} text-center`}>
+            <span className={`${embedded ? 'text-lg' : 'text-2xl'} font-black text-violet-700`}>
               {selHour}:{selMinute.toString().padStart(2, '0')}
             </span>
           </div>
         </div>
       )}
 
-      {/* Feedback + Gombok */}
+      {/* Feedback + Gombok — only in standalone mode */}
+      {!embedded && (
       <div className="px-5 pb-5">
         <AnimatePresence mode="wait">
           {feedback && (
@@ -299,6 +313,7 @@ const AnalogClock: React.FC<AnalogClockProps> = ({
           </button>
         )}
       </div>
+      )}
     </motion.div>
   );
 };
