@@ -528,8 +528,8 @@ function PingPongPage() {
       const toX = (nx: number) => tL + nx * tW;
       const toY = (ny: number) => tT + ny * tH;
 
-      // Pixel radius for paddle (circle)
-      const pxR = Math.max(14, Math.min(24, PADDLE_R * Math.min(tW, tH)));
+      // Pixel radius for paddle (circle) — scale with table width for good proportion
+      const pxR = Math.max(18, Math.min(30, tW * 0.07));
 
       // ─── Draw paddle (circle, like air hockey / simple ping pong) ───
       const drawPaddle = (nx: number, ny: number, headColor: string, headDark: string, handleColor: string, isBottom: boolean) => {
