@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Home as HomeIcon, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Home as HomeIcon, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap";
@@ -17,6 +17,11 @@ import AuthModal from "@/components/AuthModal";
 import UsernameModal from "@/components/UsernameModal";
 import { getUsername, hasUsername } from "@/lib/username";
 import { useLang } from "@/components/LanguageProvider";
+import { getGender, type AvatarGender } from "@/lib/gender";
+import { getSkinDef, getActiveSkin } from "@/lib/skins";
+import { getFaceDef, getActiveFace } from "@/lib/faces";
+import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
+import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
 
 interface GameDef {
   id: string;
@@ -76,6 +81,10 @@ const TRANSLATIONS = {
       wordhunt: "Word Hunt",
       numberpath: "Number Path",
       minisudoku: "Mini Sudoku",
+      lightout: "Light Out",
+      numbermerge: "Number Merge",
+      nonogram: "Nonogram",
+      mazerush: "Maze Rush",
       pliziolife: "Plizio Life",
     },
     ui: {
@@ -107,6 +116,10 @@ const TRANSLATIONS = {
       wordhunt: "Szóvadász",
       numberpath: "Számút",
       minisudoku: "Mini Sudoku",
+      lightout: "Light Out",
+      numbermerge: "Number Merge",
+      nonogram: "Nonogram",
+      mazerush: "Maze Rush",
       pliziolife: "Plizio Life",
     },
     ui: {
@@ -138,6 +151,10 @@ const TRANSLATIONS = {
       wordhunt: "Wortjagd",
       numberpath: "Zahlenpfad",
       minisudoku: "Mini Sudoku",
+      lightout: "Light Out",
+      numbermerge: "Number Merge",
+      nonogram: "Nonogram",
+      mazerush: "Maze Rush",
       pliziolife: "Plizio Life",
     },
     ui: {
@@ -169,6 +186,10 @@ const TRANSLATIONS = {
       wordhunt: "Vânătoare de Cuvinte",
       numberpath: "Calea Numerelor",
       minisudoku: "Mini Sudoku",
+      lightout: "Light Out",
+      numbermerge: "Number Merge",
+      nonogram: "Nonogram",
+      mazerush: "Maze Rush",
       pliziolife: "Plizio Life",
     },
     ui: {
@@ -281,13 +302,13 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         color: "#FF2222",
         gradient: "bg-gradient-to-br from-red-500/20 to-rose-500/20",
       },
-      {
-        id: "pliziolife",
-        icon: HomeIcon,
-        nameKey: "pliziolife",
-        color: "#FF2D78",
-        gradient: "bg-gradient-to-br from-pink-500/20 to-purple-500/20",
-      },
+      // {
+      //   id: "pliziolife",
+      //   icon: HomeIcon,
+      //   nameKey: "pliziolife",
+      //   color: "#FF2D78",
+      //   gradient: "bg-gradient-to-br from-pink-500/20 to-purple-500/20",
+      // },
     ],
   },
   {
@@ -331,16 +352,44 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         color: "#00D4FF",
         gradient: "bg-gradient-to-br from-cyan-500/20 to-blue-500/20",
       },
+      {
+        id: "lightout",
+        icon: Lightbulb,
+        nameKey: "lightout",
+        color: "#FFD700",
+        gradient: "bg-gradient-to-br from-yellow-500/20 to-amber-500/20",
+      },
+      {
+        id: "numbermerge",
+        icon: Merge,
+        nameKey: "numbermerge",
+        color: "#FF2D78",
+        gradient: "bg-gradient-to-br from-pink-500/20 to-red-500/20",
+      },
+      {
+        id: "nonogram",
+        icon: Grid3x3,
+        nameKey: "nonogram",
+        color: "#B44DFF",
+        gradient: "bg-gradient-to-br from-purple-500/20 to-indigo-500/20",
+      },
+      {
+        id: "mazerush",
+        icon: Navigation,
+        nameKey: "mazerush",
+        color: "#00D4FF",
+        gradient: "bg-gradient-to-br from-cyan-500/20 to-blue-500/20",
+      },
     ],
   },
 ];
 
-/* Planet positions in the 800x900 viewBox — compact, closer together */
+/* Planet positions in the 500x900 viewBox — optimized for mobile */
 const ISLAND_POSITIONS: Record<string, { cx: number; cy: number; color: string; glow: string }> = {
-  quizreflex: { cx: 250, cy: 260, color: "#00D4FF", glow: "rgba(0,212,255,0.4)" },
-  adventure:  { cx: 550, cy: 310, color: "#00FF88", glow: "rgba(0,255,136,0.4)" },
-  brain:      { cx: 230, cy: 460, color: "#FFD700", glow: "rgba(255,215,0,0.4)" },
-  logic:      { cx: 540, cy: 520, color: "#B44DFF", glow: "rgba(180,77,255,0.4)" },
+  quizreflex: { cx: 155, cy: 250, color: "#00D4FF", glow: "rgba(0,212,255,0.4)" },
+  adventure:  { cx: 365, cy: 320, color: "#00FF88", glow: "rgba(0,255,136,0.4)" },
+  brain:      { cx: 145, cy: 450, color: "#FFD700", glow: "rgba(255,215,0,0.4)" },
+  logic:      { cx: 355, cy: 530, color: "#B44DFF", glow: "rgba(180,77,255,0.4)" },
 };
 
 function categoriesToIslands(categories: CategoryDef[]): Island[] {
@@ -405,7 +454,7 @@ const GAME_TO_CATEGORY: Record<string, string> = {
   kodex: "quizreflex",
   skyclimb: "adventure", citydrive: "adventure", racetrack: "adventure", pliziolife: "adventure",
   mathtest: "brain", deutschtest: "brain",
-  numberpath: "logic", minisudoku: "logic",
+  numberpath: "logic", minisudoku: "logic", lightout: "logic", numbermerge: "logic", nonogram: "logic", mazerush: "logic",
 };
 
 function getLastPlayedCategory(): string | null {
@@ -443,6 +492,19 @@ export default function Home() {
   const [categories, setCategories] = useState<CategoryDef[]>([]);
   const [dailyReward, setDailyReward] = useState<DailyRewardResult | null>(null);
   const [lastCategory, setLastCategory] = useState<string | null>(null);
+
+  // Avatar data for map marker
+  const [gender] = useState<AvatarGender>(getGender());
+  const [activeSkin] = useState(getSkinDef(getActiveSkin()));
+  const [activeFace] = useState(getFaceDef(getActiveFace()));
+  const [activeTop] = useState(() => { const id = getActive("top"); return id ? getTopDef(id) : null; });
+  const [activeBottom] = useState(() => { const id = getActive("bottom"); return id ? getBottomDef(id) : null; });
+  const [activeShoe] = useState(() => { const id = getActive("shoe"); return id ? getShoeDef(id) : null; });
+  const [activeCape] = useState(() => { const id = getActive("cape"); return id ? getCapeDef(id) : null; });
+  const [activeGlasses] = useState(() => { const id = getActive("glasses"); return id ? getGlassesDef(id) : null; });
+  const [activeGloves] = useState(() => { const id = getActive("gloves"); return id ? getGloveDef(id) : null; });
+  const [activeHat] = useState(() => { const id = getActiveHat(); return id ? getHatDef(id) : null; });
+  const [activeTrail] = useState(() => { const id = getActiveTrail(); return id ? getTrailDef(id) : null; });
 
   useEffect(() => {
     setCategories(getCategoriesWithTranslations(lang));
@@ -527,6 +589,19 @@ export default function Home() {
         specialCount={specialCount}
         cardCount={cardCount}
         lastPlayedCategory={lastCategory}
+        avatarProps={{
+          gender,
+          activeSkin,
+          activeFace,
+          activeTop,
+          activeBottom,
+          activeShoe,
+          activeCape,
+          activeGlasses,
+          activeGloves,
+          activeHat,
+          activeTrail,
+        }}
       />
 
       {/* Top bar — nav buttons right, language switcher left */}
@@ -546,7 +621,7 @@ export default function Home() {
           {([
             { href: "/multiplayer", icon: Swords, color: "#FF2D78", border: "border-neon-pink/20", glow: "0 0 12px rgba(255,45,120,0.2)", delay: 0.45 },
             { href: "/profile", icon: User, color: isLoggedIn ? "#00FF88" : "rgba(255,255,255,0.4)", border: isLoggedIn ? "border-neon-green/20" : "border-white/10", glow: isLoggedIn ? "0 0 12px rgba(0,255,136,0.15)" : undefined, delay: 0.5 },
-            { href: "/room", icon: HomeIcon, color: "#00D4FF", border: "border-neon-blue/20", glow: "0 0 12px rgba(0,212,255,0.15)", delay: 0.6 },
+            // { href: "/room", icon: HomeIcon, color: "#00D4FF", border: "border-neon-blue/20", glow: "0 0 12px rgba(0,212,255,0.15)", delay: 0.6 },
             { href: "/shop", icon: Star, color: "#E040FB", border: "border-[#E040FB]/20", glow: "0 0 12px rgba(224,64,251,0.2)", delay: 0.7 },
             { href: "/collection", icon: Trophy, color: "#FFD700", border: "border-gold/20", glow: "0 0 12px rgba(255,215,0,0.2)", delay: 0.8 },
           ] as const).map((btn) => {

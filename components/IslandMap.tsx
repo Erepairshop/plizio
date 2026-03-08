@@ -1,9 +1,13 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useRef, useEffect, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Link from "next/link";
 import { ChevronLeft, type LucideIcon } from "lucide-react";
+import dynamic from "next/dynamic";
+import type { AvatarCompanionProps } from "@/components/AvatarCompanion";
+
+const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
 /* ------------------------------------------------------------------ */
 /* Types                                                               */
@@ -32,6 +36,7 @@ interface IslandMapProps {
   specialCount: number;
   cardCount: number;
   lastPlayedCategory?: string | null;
+  avatarProps?: Partial<AvatarCompanionProps> | null;
 }
 
 /* ------------------------------------------------------------------ */
@@ -39,7 +44,7 @@ interface IslandMapProps {
 /* ------------------------------------------------------------------ */
 const LETTER_COLORS = ["#FF2D78", "#00D4FF", "#00FF88", "#FFD700", "#B44DFF", "#FF2D78"];
 const LETTERS = ["P", "L", "I", "Z", "I", "O"];
-const R = 40; // planet radius — smaller for more room
+const R = 46; // planet radius — bigger for mobile visibility
 
 /* ------------------------------------------------------------------ */
 /* Per-category planet surface details                                 */
@@ -136,14 +141,14 @@ const DEFAULT_THEME: PlanetTheme = {
 function OceanBg() {
   return (
     <g>
-      <rect x={0} y={0} width={800} height={900} fill="#070e1a" />
-      <ellipse cx={400} cy={860} rx={520} ry={200} fill="#0b1729" opacity={0.6} />
+      <rect x={0} y={0} width={500} height={900} fill="#070e1a" />
+      <ellipse cx={250} cy={860} rx={340} ry={200} fill="#0b1729" opacity={0.6} />
       {/* stars */}
       {[
-        { x: 50, y: 25, r: 1.1 }, { x: 160, y: 15, r: 0.7 }, { x: 310, y: 38, r: 0.9 },
-        { x: 490, y: 20, r: 0.6 }, { x: 640, y: 32, r: 1 }, { x: 740, y: 12, r: 0.8 },
-        { x: 100, y: 52, r: 0.5 }, { x: 410, y: 8, r: 1.2 }, { x: 570, y: 48, r: 0.4 },
-        { x: 700, y: 55, r: 0.6 }, { x: 250, y: 60, r: 0.7 },
+        { x: 30, y: 25, r: 1.1 }, { x: 100, y: 15, r: 0.7 }, { x: 200, y: 38, r: 0.9 },
+        { x: 310, y: 20, r: 0.6 }, { x: 420, y: 32, r: 1 }, { x: 470, y: 12, r: 0.8 },
+        { x: 60, y: 52, r: 0.5 }, { x: 260, y: 8, r: 1.2 }, { x: 360, y: 48, r: 0.4 },
+        { x: 450, y: 55, r: 0.6 }, { x: 150, y: 60, r: 0.7 },
       ].map((s, i) => (
         <motion.circle
           key={i} cx={s.x} cy={s.y} r={s.r} fill="rgba(200,220,255,0.35)"
@@ -152,15 +157,15 @@ function OceanBg() {
         />
       ))}
       {/* nebula glow */}
-      <ellipse cx={200} cy={400} rx={180} ry={120} fill="rgba(0,100,255,0.02)" />
-      <ellipse cx={600} cy={600} rx={160} ry={100} fill="rgba(180,77,255,0.015)" />
+      <ellipse cx={130} cy={400} rx={120} ry={100} fill="rgba(0,100,255,0.02)" />
+      <ellipse cx={380} cy={600} rx={100} ry={80} fill="rgba(180,77,255,0.015)" />
       {/* wave lines */}
       {[300, 450, 600, 740].map((y, i) => (
         <motion.path
           key={i}
-          d={`M -40,${y} Q 100,${y - 5} 200,${y} T 400,${y} T 600,${y} T 840,${y}`}
+          d={`M -20,${y} Q 60,${y - 5} 125,${y} T 250,${y} T 375,${y} T 520,${y}`}
           fill="none" stroke="rgba(80,180,255,0.03)" strokeWidth={1}
-          animate={{ x: [0, i % 2 === 0 ? 20 : -20, 0] }}
+          animate={{ x: [0, i % 2 === 0 ? 12 : -12, 0] }}
           transition={{ duration: 10 + i * 2, repeat: Infinity, ease: "easeInOut" }}
         />
       ))}
@@ -185,22 +190,27 @@ function Planet({
 
   return (
     <g className="cursor-pointer" onClick={onClick} role="button" tabIndex={0} aria-label={label}>
-      {/* outer glow */}
+      {/* big soft ambient glow behind planet */}
+      <circle cx={cx} cy={cy} r={R * 2.2} fill={glow} opacity={0.06} />
+      <circle cx={cx} cy={cy} r={R * 1.5} fill={glow} opacity={0.08} />
+
+      {/* outer ring glow */}
       <motion.circle
         cx={cx} cy={cy} r={R + 14}
         fill="none" stroke={glow}
-        strokeWidth={selected ? 2 : 0.8}
-        opacity={selected ? 0.6 : 0.12}
-        animate={{ r: selected ? R + 18 : R + 14, opacity: selected ? 0.6 : 0.12 }}
+        strokeWidth={selected ? 2.5 : 1.2}
+        opacity={selected ? 0.7 : 0.2}
+        animate={{ r: selected ? R + 18 : R + 14, opacity: selected ? 0.7 : 0.2 }}
         transition={{ duration: 0.4 }}
       />
 
       {/* atmosphere glow */}
       <defs>
         <radialGradient id={`pg-${id}`} cx="35%" cy="30%">
-          <stop offset="0%" stopColor={color} stopOpacity={0.45} />
-          <stop offset="50%" stopColor={color} stopOpacity={0.18} />
-          <stop offset="100%" stopColor={color} stopOpacity={0.03} />
+          <stop offset="0%" stopColor={color} stopOpacity={0.6} />
+          <stop offset="40%" stopColor={color} stopOpacity={0.3} />
+          <stop offset="75%" stopColor={color} stopOpacity={0.12} />
+          <stop offset="100%" stopColor={color} stopOpacity={0.04} />
         </radialGradient>
       </defs>
 
@@ -208,7 +218,7 @@ function Planet({
       <motion.circle
         cx={cx} cy={cy} r={R}
         fill={`url(#pg-${id})`}
-        stroke={color} strokeWidth={1.2} strokeOpacity={0.2}
+        stroke={color} strokeWidth={1.5} strokeOpacity={0.35}
         whileHover={{ scale: 1.1 }}
         transition={{ type: "spring", stiffness: 300 }}
       />
@@ -219,22 +229,22 @@ function Planet({
       {/* highlight arc (top-left shine) */}
       <path
         d={`M ${cx - R * 0.5},${cy - R * 0.7} A ${R * 0.8},${R * 0.8} 0 0,1 ${cx + R * 0.3},${cy - R * 0.8}`}
-        fill="none" stroke="rgba(255,255,255,0.12)" strokeWidth={1.5} strokeLinecap="round"
+        fill="none" stroke="rgba(255,255,255,0.2)" strokeWidth={2} strokeLinecap="round"
       />
 
       {/* label below */}
       <text
-        x={cx} y={cy + R + 14}
+        x={cx} y={cy + R + 18}
         textAnchor="middle" fill={color}
-        fontSize={9} fontWeight={700} letterSpacing={1.2}
-        style={{ textTransform: "uppercase" as const, filter: `drop-shadow(0 0 3px ${glow})` }}
+        fontSize={11} fontWeight={800} letterSpacing={1.5}
+        style={{ textTransform: "uppercase" as const, filter: `drop-shadow(0 0 6px ${glow})` }}
       >
         {label}
       </text>
 
       {/* game count badge */}
-      <circle cx={cx + R - 4} cy={cy - R + 4} r={8} fill={color} opacity={0.85} />
-      <text x={cx + R - 4} y={cy - R + 7.5} textAnchor="middle" fill="#fff" fontSize={8} fontWeight={800}>
+      <circle cx={cx + R - 4} cy={cy - R + 4} r={9} fill={color} opacity={0.9} />
+      <text x={cx + R - 4} y={cy - R + 7.5} textAnchor="middle" fill="#fff" fontSize={9} fontWeight={800}>
         {island.games.length}
       </text>
     </g>
@@ -335,33 +345,17 @@ function GamePanel({ island, onClose }: { island: Island; onClose: () => void })
 }
 
 /* ------------------------------------------------------------------ */
-/* Avatar marker on a planet                                           */
+/* SVG glow ring under avatar (stays in SVG)                           */
 /* ------------------------------------------------------------------ */
-function AvatarMarker({ cx, cy, color }: { cx: number; cy: number; color: string }) {
+function AvatarGlow({ cx, cy, color }: { cx: number; cy: number; color: string }) {
   return (
     <motion.g
-      initial={{ opacity: 0, y: 6 }}
-      animate={{ opacity: 1, y: 0 }}
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
       transition={{ delay: 1.2, duration: 0.5 }}
     >
-      {/* Glow under avatar */}
-      <ellipse cx={cx} cy={cy + R - 2} rx={6} ry={2.5} fill={color} opacity={0.3} />
-      {/* Small avatar silhouette */}
-      <g transform={`translate(${cx}, ${cy + R - 16})`}>
-        {/* Body */}
-        <rect x={-4} y={2} width={8} height={10} rx={2} fill="#e8c9a0" opacity={0.9} />
-        {/* Head */}
-        <circle cx={0} cy={-2} r={5} fill="#e8c9a0" opacity={0.9} />
-        {/* Hair */}
-        <path d="M -5,-4 Q -5,-8 0,-8 Q 5,-8 5,-4 L 4,-3 Q 3,-6 0,-6 Q -3,-6 -4,-3 Z" fill="#4a2e10" opacity={0.85} />
-        {/* Eyes */}
-        <circle cx={-1.8} cy={-2.2} r={0.8} fill="#2a2a2a" />
-        <circle cx={1.8} cy={-2.2} r={0.8} fill="#2a2a2a" />
-        {/* Smile */}
-        <path d="M -1.5,0 Q 0,1.5 1.5,0" fill="none" stroke="#b06060" strokeWidth={0.5} />
-        {/* Outline glow */}
-        <circle cx={0} cy={0} r={12} fill="none" stroke={color} strokeWidth={0.6} opacity={0.25} />
-      </g>
+      <ellipse cx={cx} cy={cy + R - 2} rx={8} ry={3} fill={color} opacity={0.3} />
+      <circle cx={cx} cy={cy} r={14} fill="none" stroke={color} strokeWidth={0.6} opacity={0.2} />
     </motion.g>
   );
 }
@@ -369,22 +363,67 @@ function AvatarMarker({ cx, cy, color }: { cx: number; cy: number; color: string
 /* ------------------------------------------------------------------ */
 /* Main — Fullscreen Island Map                                        */
 /* ------------------------------------------------------------------ */
-export default function IslandMap({ islands, username, streak, specialCount, cardCount, lastPlayedCategory }: IslandMapProps) {
+/* ------------------------------------------------------------------ */
+/* Hook: SVG viewBox → DOM pixel position                              */
+/* ------------------------------------------------------------------ */
+function useSvgToDOM(svgRef: React.RefObject<SVGSVGElement | null>, vx: number, vy: number) {
+  const [pos, setPos] = useState<{ left: number; top: number } | null>(null);
+
+  const calc = useCallback(() => {
+    const svg = svgRef.current;
+    if (!svg) return;
+    const rect = svg.getBoundingClientRect();
+    // viewBox 0 0 500 900, xMidYMin meet
+    const scaleW = rect.width / 500;
+    const scaleH = rect.height / 900;
+    const scale = Math.min(scaleW, scaleH);
+    const renderedW = 500 * scale;
+    const renderedH = 900 * scale;
+    const offsetX = (rect.width - renderedW) / 2; // xMid
+    const offsetY = 0; // yMin
+    setPos({
+      left: rect.left + offsetX + vx * scale,
+      top: rect.top + offsetY + vy * scale,
+    });
+  }, [svgRef, vx, vy]);
+
+  useEffect(() => {
+    calc();
+    window.addEventListener("resize", calc);
+    return () => window.removeEventListener("resize", calc);
+  }, [calc]);
+
+  return pos;
+}
+
+export default function IslandMap({ islands, username, streak, specialCount, cardCount, lastPlayedCategory, avatarProps }: IslandMapProps) {
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const selectedIsland = islands.find((i) => i.id === selectedId) ?? null;
+  const svgRef = useRef<SVGSVGElement | null>(null);
+
+  // Find the target planet for the avatar
+  const targetIsland = lastPlayedCategory
+    ? islands.find((i) => i.id === lastPlayedCategory)
+    : islands[0];
+  const avatarSvgX = targetIsland?.cx ?? 0;
+  const avatarSvgY = targetIsland ? targetIsland.cy + R - 18 : 0; // sit on top of planet
+  const avatarPos = useSvgToDOM(svgRef, avatarSvgX, avatarSvgY);
+
+  const AVATAR_SIZE = 52;
 
   return (
     <div className="absolute inset-0 overflow-hidden bg-[#070e1a]" style={{ perspective: "1000px" }}>
       <motion.div
         className="absolute inset-0 flex items-center justify-center"
-        style={{ transformStyle: "preserve-3d", transformOrigin: "center 40%" }}
+        style={{ transformStyle: "preserve-3d", transformOrigin: "center 35%" }}
         animate={{ rotateX: selectedId ? 0 : 8 }}
         transition={{ duration: 0.6, ease: "easeOut" }}
       >
         <svg
-          viewBox="0 0 800 900"
-          preserveAspectRatio="xMidYMid meet"
-          className="w-full h-full max-w-[520px] sm:max-w-none"
+          ref={svgRef}
+          viewBox="0 0 500 900"
+          preserveAspectRatio="xMidYMin meet"
+          className="w-full h-full"
         >
           <OceanBg />
 
@@ -393,10 +432,10 @@ export default function IslandMap({ islands, username, streak, specialCount, car
             {LETTERS.map((letter, i) => (
               <text
                 key={i}
-                x={314 + i * 30}
-                y={88}
+                x={177 + i * 25}
+                y={100}
                 textAnchor="middle"
-                fontSize={34}
+                fontSize={30}
                 fontWeight={900}
                 fill={LETTER_COLORS[i]}
                 style={{ filter: `drop-shadow(0 0 8px ${LETTER_COLORS[i]}50)` }}
@@ -404,33 +443,42 @@ export default function IslandMap({ islands, username, streak, specialCount, car
                 {letter}
               </text>
             ))}
-            <text x={400} y={106} textAnchor="middle" fontSize={7} fontWeight={600} letterSpacing={2.5} fill="rgba(255,255,255,0.2)">
+            <text x={250} y={118} textAnchor="middle" fontSize={8} fontWeight={600} letterSpacing={3} fill="rgba(255,255,255,0.5)">
               PLAY · LEARN · THINK
             </text>
             {username && (
-              <text x={400} y={126} textAnchor="middle" fontSize={10} fontWeight={700} fill="rgba(255,255,255,0.18)" letterSpacing={0.8}>
+              <text x={250} y={138} textAnchor="middle" fontSize={11} fontWeight={700} fill="rgba(255,255,255,0.45)" letterSpacing={0.8}>
                 {username}
               </text>
             )}
           </g>
 
-          {/* Stats */}
+          {/* Stats — centered row */}
           <g>
-            {streak > 0 && (
-              <text x={345} y={150} textAnchor="end" fontSize={10} fontWeight={700} fill="#FFD700" opacity={0.5}>
-                🔥 {streak}
-              </text>
-            )}
-            {specialCount > 0 && (
-              <text x={400} y={150} textAnchor="middle" fontSize={10} fontWeight={700} fill="#E040FB" opacity={0.5}>
-                ⭐ {specialCount}
-              </text>
-            )}
-            {cardCount > 0 && (
-              <text x={455} y={150} textAnchor="start" fontSize={10} fontWeight={700} fill="rgba(255,255,255,0.2)">
-                🃏 {cardCount}
-              </text>
-            )}
+            {(() => {
+              // Build visible stats array, then center them
+              const items: { emoji: string; value: number; color: string }[] = [];
+              if (streak > 0) items.push({ emoji: "🔥", value: streak, color: "#FFD700" });
+              if (specialCount > 0) items.push({ emoji: "⭐", value: specialCount, color: "#E040FB" });
+              if (cardCount > 0) items.push({ emoji: "🃏", value: cardCount, color: "rgba(255,255,255,0.5)" });
+              const gap = 60;
+              const totalW = (items.length - 1) * gap;
+              const startX = 250 - totalW / 2;
+              return items.map((item, i) => (
+                <text
+                  key={i}
+                  x={startX + i * gap}
+                  y={162}
+                  textAnchor="middle"
+                  fontSize={12}
+                  fontWeight={800}
+                  fill={item.color}
+                  opacity={0.8}
+                >
+                  {item.emoji} {item.value}
+                </text>
+              ));
+            })()}
           </g>
 
           <OrbitPaths islands={islands} />
@@ -444,15 +492,35 @@ export default function IslandMap({ islands, username, streak, specialCount, car
             />
           ))}
 
-          {/* Avatar marker on last-played planet */}
-          {(() => {
-            const target = lastPlayedCategory
-              ? islands.find((i) => i.id === lastPlayedCategory)
-              : islands[0];
-            return target ? <AvatarMarker cx={target.cx} cy={target.cy} color={target.color} /> : null;
-          })()}
+          {/* SVG glow under avatar */}
+          {targetIsland && (
+            <AvatarGlow cx={targetIsland.cx} cy={targetIsland.cy} color={targetIsland.color} />
+          )}
         </svg>
       </motion.div>
+
+      {/* DOM overlay: real 3D avatar on the planet */}
+      {avatarProps && targetIsland && avatarPos && (
+        <motion.div
+          className="fixed pointer-events-none z-20"
+          style={{
+            left: avatarPos.left - AVATAR_SIZE / 2,
+            top: avatarPos.top - AVATAR_SIZE * 0.75,
+            width: AVATAR_SIZE,
+            height: AVATAR_SIZE,
+          }}
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ delay: 1.2, duration: 0.5 }}
+        >
+          <AvatarCompanion
+            fixed={false}
+            mood="idle"
+            passThrough={true}
+            {...avatarProps}
+          />
+        </motion.div>
+      )}
 
       <AnimatePresence>
         {selectedIsland && (

@@ -662,11 +662,19 @@ Hozzáadott kérdéstípusok:
 ```tsx
 <button
   onClick={() => { setAvatarMood("idle"); setScreen("expedition"); }}
-  className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/50 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
+  className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
 >✕</button>
 ```
 
 ---
+
+### Szöveg szín szabály — NE HASZNÁLJ SZÜRKE SZÖVEGET!
+
+**FONTOS:** A játékokban a szövegek NE legyenek túl halványak! Minimum opacity értékek:
+- Fő szöveg (címkék, pontszámok, HUD): `text-white/80` vagy világosabb
+- Másodlagos szöveg (alcím, hint, meta info): `text-white/60` minimum
+- Gombok szövege: `text-white/70` minimum
+- **TILOS:** `text-white/20`, `text-white/30`, `text-white/40` — ezek túl szürkék, alig láthatóak!
 
 ### Token-spórolási szabályok (Claude számára)
 - Ha a feladat CLAUDE.md-ben dokumentált fájlt érint → NE olvasd az egész fájlt, csak a szükséges részt (Read offset+limit)
@@ -804,7 +812,7 @@ const SAVE_KEY = "mynewgame_expedition_v1";
 ```tsx
 <button
   onClick={() => { setScreen("expedition"); }} // vagy setGameState("menu")
-  className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/50 hover:bg-white/20 hover:text-white transition-colors"
+  className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors"
 ><X size={14} /></button>
 ```
 → Játék közbeni kilépés MINDIG kell. Ha elfelejted → bug lesz.
@@ -1498,7 +1506,7 @@ onClick={() => {
   <motion.div className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm gap-5 px-6"
     initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
     <motion.div className="text-3xl font-black text-[GAME_COLOR]">{score}/{total}</motion.div>
-    {isMix && <span className="text-white/30 text-xs font-bold uppercase">Round {mixround} ✓</span>}
+    {isMix && <span className="text-white/60 text-xs font-bold uppercase">Round {mixround} ✓</span>}
     <motion.div className="w-10 h-10 border-2 border-[GAME_COLOR] border-t-transparent rounded-full"
       animate={{ rotate: 360 }} transition={{ repeat: Infinity, duration: 1, ease: "linear" }} />
     <span className="text-white/60 text-sm font-medium text-center">
