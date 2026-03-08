@@ -625,7 +625,7 @@ function PingPongPage() {
         <div className="w-8" />
       </div>
 
-      <AnimatePresence mode="wait">
+      <AnimatePresence>
         {/* ── MENU ─────────────────────────────────────── */}
         {screen === "menu" && (
           <motion.div
