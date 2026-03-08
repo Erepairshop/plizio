@@ -91,6 +91,7 @@ const TRANSLATIONS = {
       pingpong: "Table Tennis",
       airhockey: "Air Hockey",
       tennis: "Tennis",
+      squash: "Squash Arcade",
     },
     ui: {
       comingSoon: "COMING SOON",
@@ -131,6 +132,7 @@ const TRANSLATIONS = {
       pingpong: "Asztalitenisz",
       airhockey: "Léghoki",
       tennis: "Tenisz",
+      squash: "Squash Arcade",
     },
     ui: {
       comingSoon: "HAMAROSAN",
@@ -171,6 +173,7 @@ const TRANSLATIONS = {
       pingpong: "Tischtennis",
       airhockey: "Air Hockey",
       tennis: "Tennis",
+      squash: "Squash Arcade",
     },
     ui: {
       comingSoon: "BALD VERFÜGBAR",
@@ -211,6 +214,7 @@ const TRANSLATIONS = {
       pingpong: "Tenis de masă",
       airhockey: "Air Hockey",
       tennis: "Tenis",
+      squash: "Squash Arcade",
     },
     ui: {
       comingSoon: "CÂT CURÂND",
@@ -435,6 +439,13 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         nameKey: "tennis",
         color: "#FFD700",
         gradient: "bg-gradient-to-br from-yellow-500/20 to-amber-500/20",
+      },
+      {
+        id: "squash",
+        icon: Swords,
+        nameKey: "squash",
+        color: "#FF2D78",
+        gradient: "bg-gradient-to-br from-pink-500/20 to-purple-500/20",
       },
     ],
   },
