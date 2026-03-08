@@ -8,8 +8,8 @@ import { getUsername } from "@/lib/username";
 import {
   getMyPendingChallenges, acceptChallenge, declineChallenge,
   subscribeToMatch,
-  type MultiplayerMatch, type GameType, type Difficulty,
-  GAME_LABELS, DIFFICULTY_LABELS,
+  type MultiplayerMatch, type GameType,
+  GAME_LABELS,
 } from "@/lib/multiplayer";
 import { useLang } from "@/components/LanguageProvider";
 import AvatarCompanion from "@/components/AvatarCompanion";
@@ -112,10 +112,15 @@ export default function ChallengeOverlay() {
         const isMix = challenge.match_type === "mix";
         if (isMix && challenge.mix_games) {
           const currentGame = challenge.mix_games[0];
-          router.push(`/${currentGame}?match=${challenge.id}&seed=${challenge.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponent)}&mixround=1`);
+          let url = `/${currentGame}?match=${challenge.id}&seed=${challenge.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponent)}&mixround=1`;
+          if (challenge.difficulty && String(challenge.difficulty).includes(",")) {
+            const levels = String(challenge.difficulty).split(",");
+            if (levels[0] && Number(levels[0]) > 0) url += `&level=${levels[0]}`;
+          }
+          router.push(url);
         } else {
           let url = `/${challenge.game}?match=${challenge.id}&seed=${challenge.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponent)}`;
-          if (challenge.difficulty) url += `&difficulty=${challenge.difficulty}`;
+          if (challenge.difficulty) url += `&level=${challenge.difficulty}`;
           router.push(url);
         }
         setChallenge(null);
@@ -133,7 +138,7 @@ export default function ChallengeOverlay() {
     ? `Mix (${challenge.mix_games?.length || 5} games)`
     : GAME_LABELS[challenge.game as GameType] || challenge.game;
   const diffLabel = challenge.difficulty
-    ? (DIFFICULTY_LABELS[lang] || DIFFICULTY_LABELS.en)[challenge.difficulty as Difficulty]
+    ? (isNaN(Number(challenge.difficulty)) ? String(challenge.difficulty) : `Lv.${challenge.difficulty}`)
     : null;
 
   return (

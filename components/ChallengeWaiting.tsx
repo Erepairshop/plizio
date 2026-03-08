@@ -4,7 +4,7 @@ import { useState, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import { Swords, Loader2, X } from "lucide-react";
 import { useRouter } from "next/navigation";
-import { subscribeToMatch, type MultiplayerMatch, type GameType, type Difficulty, GAME_LABELS, DIFFICULTY_LABELS } from "@/lib/multiplayer";
+import { subscribeToMatch, type MultiplayerMatch, type GameType, GAME_LABELS } from "@/lib/multiplayer";
 import { supabase } from "@/lib/supabase/client";
 import AvatarCompanion from "@/components/AvatarCompanion";
 import { getGender, type AvatarGender } from "@/lib/gender";
@@ -57,7 +57,7 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
     ? `Mix (${match.mix_games?.length || 5} games)`
     : GAME_LABELS[match.game as GameType] || match.game;
   const diffLabel = match.difficulty
-    ? (DIFFICULTY_LABELS[lang] || DIFFICULTY_LABELS.en)[match.difficulty as Difficulty]
+    ? (isNaN(Number(match.difficulty)) ? String(match.difficulty) : `Lv.${match.difficulty}`)
     : null;
 
   // Poll for match status changes (opponent accepts or declines)
@@ -100,10 +100,16 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
     if (countdown <= 0) {
       if (isMix && match.mix_games) {
         const currentGame = match.mix_games[0];
-        router.push(`/${currentGame}?match=${match.id}&seed=${match.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponentName)}&mixround=1`);
+        let url = `/${currentGame}?match=${match.id}&seed=${match.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponentName)}&mixround=1`;
+        // Parse mix levels from difficulty field (comma-separated)
+        if (match.difficulty && String(match.difficulty).includes(",")) {
+          const levels = String(match.difficulty).split(",");
+          if (levels[0] && Number(levels[0]) > 0) url += `&level=${levels[0]}`;
+        }
+        router.push(url);
       } else {
         let url = `/${match.game}?match=${match.id}&seed=${match.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponentName)}`;
-        if (match.difficulty) url += `&difficulty=${match.difficulty}`;
+        if (match.difficulty) url += `&level=${match.difficulty}`;
         router.push(url);
       }
       return;

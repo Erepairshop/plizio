@@ -6,7 +6,7 @@ import { getUsername } from "./username";
 // ─── Types ──────────────────────────────────────────────────
 
 export type MatchStatus = "waiting" | "playing" | "finished";
-export type Difficulty = "easy" | "medium" | "hard";
+export type Difficulty = "easy" | "medium" | "hard";  // legacy
 export type MatchType = "single" | "mix";
 
 export interface MultiplayerMatch {
@@ -77,6 +77,22 @@ export const DIFFICULTY_LABELS = {
   ro: { easy: "Usor", medium: "Mediu", hard: "Greu" },
 } as Record<string, Record<Difficulty, string>>;
 
+// ─── Parse level from match difficulty field ────────────────
+
+export function getMatchLevel(match: MultiplayerMatch, roundIndex?: number): number | null {
+  if (!match.difficulty) return null;
+  const s = String(match.difficulty);
+  if (s.includes(",")) {
+    // Mix: comma-separated levels
+    const parts = s.split(",");
+    const idx = roundIndex ?? 0;
+    const val = parseInt(parts[idx] || "0");
+    return val > 0 ? val : null;
+  }
+  const val = parseInt(s);
+  return isNaN(val) ? null : val;
+}
+
 // ─── Seed generation (both players get identical game) ──────
 
 export function generateSeed(): string {
@@ -88,7 +104,7 @@ export function generateSeed(): string {
 export async function createChallenge(
   game: GameType,
   opponentName: string,
-  options?: { difficulty?: Difficulty; matchType?: MatchType; mixGames?: GameType[] }
+  options?: { difficulty?: Difficulty; level?: number; matchType?: MatchType; mixGames?: GameType[]; mixLevels?: (number | null)[] }
 ): Promise<{ match: MultiplayerMatch | null; error?: string }> {
   const myName = getUsername();
   if (!myName) return { match: null, error: "no_username" };
@@ -118,7 +134,9 @@ export async function createChallenge(
       player2_name: oppData.name,
       player2_id: oppData.user_id,
       seed: generateSeed(),
-      difficulty: options?.difficulty || null,
+      difficulty: isMix && options?.mixLevels
+        ? options.mixLevels.map(l => l ?? 0).join(",")
+        : options?.level ? String(options.level) : (options?.difficulty || null),
       match_type: isMix ? "mix" : "single",
       mix_games: mixGames,
       mix_scores_p1: isMix ? [] : null,

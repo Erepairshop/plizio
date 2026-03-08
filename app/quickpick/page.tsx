@@ -311,38 +311,86 @@ function QuickPickPage() {
     startTimeRef.current = Date.now();
   }, [isMultiplayer, seed, THEME_DATA, questions.length]);
 
-  // Poll for opponent score when waiting (multiplayer)
+  // Poll for opponent completion (multiplayer waiting)
   useEffect(() => {
     if (gameState !== "mix-waiting" || !isMultiplayer || !matchId) return;
-    if (isMix) {
-      // Mix non-finished: redirect back to multiplayer hub
-      const timer = setTimeout(() => router.push("/multiplayer"), 1500);
-      return () => clearTimeout(timer);
-    }
-    // Single match: poll every 2s for opponent done
-    const checkOpp = async () => {
+
+    const checkMatch = async () => {
       const { supabase } = await import("@/lib/supabase/client");
       const { data } = await supabase.from("multiplayer_matches").select("*").eq("id", matchId).single();
       if (!data) return false;
       const isP1 = playerNum === "1";
-      const oppDone = isP1 ? data.player2_done : data.player1_done;
-      const oppScoreVal = isP1 ? data.player2_score : data.player1_score;
-      if (oppDone && oppScoreVal !== null) {
-        setOppFinalScore(oppScoreVal);
-        setGameState("multi-result");
+
+      if (isMix) {
+        // Mix: check if both players done with current round
+        const bothDone = data.mix_round_done_p1 && data.mix_round_done_p2;
+        if (!bothDone) return false;
+        // Both done — advance
+        const adv = await advanceMixRound(matchId);
+        if (adv.finished) {
+          // Final result
+          const p1Scores = (data.mix_scores_p1 || []) as number[];
+          const p2Scores = (data.mix_scores_p2 || []) as number[];
+          const myScores = isP1 ? p1Scores : p2Scores;
+          const oppScores = isP1 ? p2Scores : p1Scores;
+          let myWins = 0, oppWins = 0;
+          for (let i = 0; i < myScores.length; i++) {
+            if (myScores[i] > (oppScores[i] ?? 0)) myWins++;
+            else if (myScores[i] < (oppScores[i] ?? 0)) oppWins++;
+          }
+          setMyFinalScore(myWins);
+          setOppFinalScore(oppWins);
+          setMixFinished(true);
+          // Save one card
+          const newStreak = streak;
+          const rarity = calculateRarity(score, TOTAL_ROUNDS, newStreak, false);
+          saveCard({
+            id: generateCardId(), game: "quickpick", theme: selectedTheme,
+            rarity, score, total: TOTAL_ROUNDS, date: new Date().toISOString(),
+          });
+          window.dispatchEvent(new Event("plizio-cards-changed"));
+          incrementTotalGames();
+          if (score === TOTAL_ROUNDS) incrementPerfectScores();
+          updateStats({ highestStreak: newStreak });
+          setGameState("multi-result");
+          return true;
+        }
+        // Next round — navigate to next game
+        const freshMatch = await supabase.from("multiplayer_matches").select("*").eq("id", matchId).single();
+        const fm = freshMatch.data;
+        if (fm && fm.mix_games) {
+          const nextRound = fm.mix_round || adv.nextRound || 2;
+          const nextGame = (fm.mix_games as string[])[nextRound - 1];
+          let url = `/${nextGame}?match=${matchId}&seed=${fm.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponentName)}&mixround=${nextRound}`;
+          if (fm.difficulty && String(fm.difficulty).includes(",")) {
+            const levels = String(fm.difficulty).split(",");
+            const lv = levels[nextRound - 1];
+            if (lv && Number(lv) > 0) url += `&level=${lv}`;
+          }
+          router.push(url);
+        }
         return true;
+      } else {
+        // Single match: check opponent done
+        const oppDone = isP1 ? data.player2_done : data.player1_done;
+        const oppScoreVal = isP1 ? data.player2_score : data.player1_score;
+        if (oppDone && oppScoreVal !== null) {
+          setOppFinalScore(oppScoreVal);
+          setGameState("multi-result");
+          return true;
+        }
+        return false;
       }
-      return false;
     };
     // Check immediately
-    checkOpp();
-    // Then poll
+    checkMatch();
+    // Then poll every 2s
     const interval = setInterval(async () => {
-      const done = await checkOpp();
+      const done = await checkMatch();
       if (done) clearInterval(interval);
     }, 2000);
     return () => clearInterval(interval);
-  }, [gameState, isMultiplayer, matchId, isMix, playerNum, router]);
+  }, [gameState, isMultiplayer, matchId, isMix, playerNum, router, opponentName, score, streak, selectedTheme]);
 
   const startGame = (themeId: string) => {
     setSelectedTheme(themeId);
@@ -428,44 +476,9 @@ function QuickPickPage() {
         if (isMix && matchId && !scoreSubmitted) {
           // Mix mode: submit round score, NO card save between rounds
           setScoreSubmitted(true);
-          submitMixRoundScore(matchId, finalScore, playerNum === "1").then(async (res) => {
-            if (res.bothDone) {
-              const adv = await advanceMixRound(matchId);
-              if (adv.finished) {
-                // All mix rounds done — show multi-result then card
-                setMixFinished(true);
-                const oppScores = res.roundScores
-                  ? (playerNum === "1" ? res.roundScores.p2 : res.roundScores.p1)
-                  : [];
-                const myScores = res.roundScores
-                  ? (playerNum === "1" ? res.roundScores.p1 : res.roundScores.p2)
-                  : [];
-                let myWins = 0, oppWins = 0;
-                for (let i = 0; i < myScores.length; i++) {
-                  if (myScores[i] > (oppScores[i] ?? 0)) myWins++;
-                  else if (myScores[i] < (oppScores[i] ?? 0)) oppWins++;
-                }
-                setMyFinalScore(myWins);
-                setOppFinalScore(oppWins);
-                // Save one card for the whole mix
-                const rarity = calculateRarity(finalScore, TOTAL_ROUNDS, newStreak, false);
-                saveCard({
-                  id: generateCardId(), game: "quickpick", theme: selectedTheme,
-                  rarity, score: finalScore, total: TOTAL_ROUNDS, date: new Date().toISOString(),
-                });
-                window.dispatchEvent(new Event("plizio-cards-changed"));
-                incrementTotalGames();
-                if (finalScore === TOTAL_ROUNDS) incrementPerfectScores();
-                updateStats({ highestStreak: newStreak });
-                setGameState("multi-result");
-              } else {
-                // More rounds to play — go back to multiplayer hub
-                setGameState("mix-waiting");
-              }
-            } else {
-              // Opponent hasn't finished yet — wait
-              setGameState("mix-waiting");
-            }
+          submitMixRoundScore(matchId, finalScore, playerNum === "1").then(() => {
+            // Go to waiting — polling effect handles advancement
+            setGameState("mix-waiting");
           });
         } else if (isMultiplayer && matchId && !scoreSubmitted) {
           // Single multiplayer match: submit score, then poll for opponent
@@ -836,20 +849,36 @@ function QuickPickPage() {
         )}
       </AnimatePresence>
 
-      {/* Mix waiting — redirect to multiplayer hub */}
+      {/* Waiting for opponent */}
       {gameState === "mix-waiting" && (
         <motion.div
-          className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm gap-4"
+          className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm gap-5 px-6"
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
         >
           <motion.div
-            className="w-8 h-8 border-2 border-neon-blue border-t-transparent rounded-full"
+            className="text-3xl font-black text-neon-blue"
+            style={{ textShadow: "0 0 20px rgba(0,212,255,0.4)" }}
+            initial={{ scale: 0.8 }}
+            animate={{ scale: 1 }}
+          >
+            {score}/{TOTAL_ROUNDS}
+          </motion.div>
+          {isMix && (
+            <span className="text-white/30 text-xs font-bold uppercase">
+              Round {mixround} ✓
+            </span>
+          )}
+          <motion.div
+            className="w-10 h-10 border-2 border-neon-blue border-t-transparent rounded-full"
             animate={{ rotate: 360 }}
             transition={{ repeat: Infinity, duration: 1, ease: "linear" }}
           />
-          <span className="text-white/50 text-sm font-medium">
-            {isMix ? `Round ${mixround} / ✓` : "Waiting..."}
+          <span className="text-white/60 text-sm font-medium text-center">
+            {lang === "hu" ? `Várakozás ${opponentName}-ra...` :
+             lang === "de" ? `Warte auf ${opponentName}...` :
+             lang === "ro" ? `Se așteaptă ${opponentName}...` :
+             `Waiting for ${opponentName}...`}
           </span>
         </motion.div>
       )}

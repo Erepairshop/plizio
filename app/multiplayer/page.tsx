@@ -14,8 +14,8 @@ import { getUsername, hasUsername, searchUsernames } from "@/lib/username";
 import {
   createChallenge, acceptChallenge, declineChallenge, cancelChallenge,
   getMyPendingChallenges, getMySentChallenges, getMyActiveMatches, getMyMatchHistory,
-  type MultiplayerMatch, type GameType, type Difficulty, type MatchType,
-  GAME_LABELS, LEVEL_GAMES, DIFFICULTY_LABELS, getMixStandings,
+  type MultiplayerMatch, type GameType, type MatchType,
+  GAME_LABELS, LEVEL_GAMES, getMixStandings,
 } from "@/lib/multiplayer";
 import ChallengeWaiting from "@/components/ChallengeWaiting";
 
@@ -211,9 +211,10 @@ export default function MultiplayerPage() {
   const [searchResults, setSearchResults] = useState<string[]>([]);
   const [selectedOpponent, setSelectedOpponent] = useState("");
   const [selectedGame, setSelectedGame] = useState<GameType>("quickpick");
-  const [selectedDifficulty, setSelectedDifficulty] = useState<Difficulty>("medium");
+  const [selectedLevel, setSelectedLevel] = useState(5);
   const [matchType, setMatchType] = useState<MatchType>("single");
   const [mixGames, setMixGames] = useState<GameType[]>([]);
+  const [mixLevels, setMixLevels] = useState<(number | null)[]>([]);
   const [sending, setSending] = useState(false);
   const [sentSuccess, setSentSuccess] = useState(false);
   const [sendError, setSendError] = useState("");
@@ -285,12 +286,13 @@ export default function MultiplayerPage() {
     if (matchType === "mix" && mixGames.length < 2) return;
     setSending(true);
     setSendError("");
-    const options: { difficulty?: Difficulty; matchType?: MatchType; mixGames?: GameType[] } = {};
+    const options: { level?: number; matchType?: MatchType; mixGames?: GameType[]; mixLevels?: (number | null)[] } = {};
     if (matchType === "mix") {
       options.matchType = "mix";
       options.mixGames = mixGames;
+      options.mixLevels = mixLevels;
     } else if (LEVEL_GAMES.has(selectedGame)) {
-      options.difficulty = selectedDifficulty;
+      options.level = selectedLevel;
     }
     const { match, error } = await createChallenge(selectedGame, selectedOpponent, options);
     setSending(false);
@@ -498,27 +500,24 @@ export default function MultiplayerPage() {
                     </div>
                   </div>
 
-                  {/* Difficulty selector (only for level-based games) */}
+                  {/* Level selector (only for level-based games) */}
                   {LEVEL_GAMES.has(selectedGame) && (
                     <div className="flex flex-col gap-2">
-                      <span className="text-white/30 text-xs font-bold uppercase tracking-wider">{t.difficulty}</span>
-                      <div className="grid grid-cols-3 gap-2">
-                        {(["easy", "medium", "hard"] as Difficulty[]).map((diff) => {
-                          const diffLabels = DIFFICULTY_LABELS[lang] || DIFFICULTY_LABELS.en;
-                          const isSelected = selectedDifficulty === diff;
-                          const colors = {
-                            easy: isSelected ? "bg-neon-green/15 border-neon-green/40 text-neon-green" : "bg-white/5 border-white/10 text-white/40",
-                            medium: isSelected ? "bg-gold/15 border-gold/40 text-gold" : "bg-white/5 border-white/10 text-white/40",
-                            hard: isSelected ? "bg-neon-pink/15 border-neon-pink/40 text-neon-pink" : "bg-white/5 border-white/10 text-white/40",
-                          };
+                      <span className="text-white/30 text-xs font-bold uppercase tracking-wider">{t.level} {selectedLevel}</span>
+                      <div className="grid grid-cols-9 gap-1">
+                        {Array.from({ length: 9 }, (_, i) => i + 1).map((lv) => {
+                          const isSelected = selectedLevel === lv;
                           return (
                             <button
-                              key={diff}
-                              onClick={() => setSelectedDifficulty(diff)}
-                              className={`flex flex-col items-center gap-1 px-3 py-2.5 rounded-xl border text-xs font-bold transition-all ${colors[diff]}`}
+                              key={lv}
+                              onClick={() => setSelectedLevel(lv)}
+                              className={`flex items-center justify-center py-2 rounded-lg border text-xs font-bold transition-all ${
+                                isSelected
+                                  ? "bg-neon-blue/15 border-neon-blue/40 text-neon-blue"
+                                  : "bg-white/5 border-white/10 text-white/40 hover:border-white/20"
+                              }`}
                             >
-                              <span>{diffLabels[diff]}</span>
-                              <span className="text-[10px] opacity-60">{t.level} {diff === "easy" ? 3 : diff === "medium" ? 5 : 9}</span>
+                              {lv}
                             </button>
                           );
                         })}
@@ -547,6 +546,7 @@ export default function MultiplayerPage() {
                             onClick={() => {
                               if (mixGames.length < 5) {
                                 setMixGames([...mixGames, game]);
+                                setMixLevels([...mixLevels, LEVEL_GAMES.has(game) ? 5 : null]);
                               }
                             }}
                             disabled={mixGames.length >= 5}
@@ -573,21 +573,52 @@ export default function MultiplayerPage() {
                     <div className="flex flex-col gap-1.5 mt-1">
                       {mixGames.map((game, i) => {
                         const Icon = GAME_ICONS[game];
+                        const isLevelGame = LEVEL_GAMES.has(game);
+                        const currentLv = mixLevels[i] ?? 5;
                         return (
-                          <div key={i} className="flex items-center gap-2 bg-white/5 rounded-lg px-3 py-1.5">
-                            <span className="text-white/30 text-[10px] font-bold w-4">{i + 1}.</span>
-                            <Icon size={12} className="text-neon-blue" />
-                            <span className="text-white/70 text-xs flex-1">{GAME_LABELS[game]}</span>
-                            <button
-                              onClick={() => {
-                                const next = [...mixGames];
-                                next.splice(i, 1);
-                                setMixGames(next);
-                              }}
-                              className="text-white/30 hover:text-neon-pink"
-                            >
-                              <X size={12} />
-                            </button>
+                          <div key={i} className="flex flex-col gap-1 bg-white/5 rounded-lg px-3 py-1.5">
+                            <div className="flex items-center gap-2">
+                              <span className="text-white/30 text-[10px] font-bold w-4">{i + 1}.</span>
+                              <Icon size={12} className="text-neon-blue" />
+                              <span className="text-white/70 text-xs flex-1">{GAME_LABELS[game]}</span>
+                              {isLevelGame && (
+                                <span className="text-neon-blue/60 text-[10px] font-bold">Lv.{currentLv}</span>
+                              )}
+                              <button
+                                onClick={() => {
+                                  const next = [...mixGames];
+                                  next.splice(i, 1);
+                                  setMixGames(next);
+                                  const nextLvs = [...mixLevels];
+                                  nextLvs.splice(i, 1);
+                                  setMixLevels(nextLvs);
+                                }}
+                                className="text-white/30 hover:text-neon-pink"
+                              >
+                                <X size={12} />
+                              </button>
+                            </div>
+                            {isLevelGame && (
+                              <div className="flex gap-0.5 ml-6">
+                                {Array.from({ length: 9 }, (_, j) => j + 1).map((lv) => (
+                                  <button
+                                    key={lv}
+                                    onClick={() => {
+                                      const nextLvs = [...mixLevels];
+                                      nextLvs[i] = lv;
+                                      setMixLevels(nextLvs);
+                                    }}
+                                    className={`w-5 h-5 rounded text-[9px] font-bold transition-all ${
+                                      currentLv === lv
+                                        ? "bg-neon-blue/20 border border-neon-blue/40 text-neon-blue"
+                                        : "bg-white/5 text-white/30 hover:text-white/50"
+                                    }`}
+                                  >
+                                    {lv}
+                                  </button>
+                                ))}
+                              </div>
+                            )}
                           </div>
                         );
                       })}
@@ -760,7 +791,7 @@ function ChallengeCard({ match, myName, t, onAccept, onDecline, lang }: {
   const isMix = match.match_type === "mix";
   const Icon = isMix ? Layers : (GAME_ICONS[match.game as GameType] || Gamepad2);
   const diffLabel = match.difficulty
-    ? (DIFFICULTY_LABELS[lang] || DIFFICULTY_LABELS.en)[match.difficulty as Difficulty]
+    ? (isNaN(Number(match.difficulty)) ? String(match.difficulty) : `Lv.${match.difficulty}`)
     : null;
 
   return (
@@ -816,7 +847,7 @@ function MatchCard({ match, myName, t, router, lang }: {
   const Icon = isMix ? Layers : (GAME_ICONS[match.game as GameType] || Gamepad2);
 
   const diffLabel = match.difficulty
-    ? (DIFFICULTY_LABELS[lang] || DIFFICULTY_LABELS.en)[match.difficulty as Difficulty]
+    ? (isNaN(Number(match.difficulty)) ? String(match.difficulty) : `Lv.${match.difficulty}`)
     : null;
 
   // Mix: build URL for current round's game
@@ -824,7 +855,14 @@ function MatchCard({ match, myName, t, router, lang }: {
     if (!isMix || !match.mix_games) return "";
     const round = match.mix_round || 1;
     const currentGame = match.mix_games[round - 1];
-    return `/${currentGame}?match=${match.id}&seed=${match.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponent || "???")}&mixround=${round}`;
+    let url = `/${currentGame}?match=${match.id}&seed=${match.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponent || "???")}&mixround=${round}`;
+    // Parse mix levels from difficulty field
+    if (match.difficulty && String(match.difficulty).includes(",")) {
+      const levels = String(match.difficulty).split(",");
+      const lv = levels[round - 1];
+      if (lv && Number(lv) > 0) url += `&level=${lv}`;
+    }
+    return url;
   };
 
   // Mix standings
@@ -919,7 +957,7 @@ function HistoryCard({ match, myName, t, lang }: {
   const isDraw = myScore === oppScore;
 
   const diffLabel = match.difficulty
-    ? (DIFFICULTY_LABELS[lang] || DIFFICULTY_LABELS.en)[match.difficulty as Difficulty]
+    ? (isNaN(Number(match.difficulty)) ? String(match.difficulty) : `Lv.${match.difficulty}`)
     : null;
 
   return (
