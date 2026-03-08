@@ -255,12 +255,10 @@ function PingPongPage() {
 
     const ai = AI_CONFIG[difficulty];
 
-    // ─── Table layout — vertical table centered on screen ───
-    // The table is PORTRAIT oriented: long side = screen height
-    // Side margins are wider so the table looks like a real table
-    const TABLE_PAD_X = 0.13;  // side margins (wider = narrower table)
-    const TABLE_PAD_TOP = 0.03;
-    const TABLE_PAD_BOT = 0.03;
+    // ─── Table layout — vertical portrait table ───
+    const TABLE_PAD_X = 0.08;
+    const TABLE_PAD_TOP = 0.04;
+    const TABLE_PAD_BOT = 0.04;
 
     const tbl = () => {
       const w = W(), h = H();
@@ -291,13 +289,17 @@ function PingPongPage() {
     };
     gameRef.current = game;
 
-    const PADDLE_Y_PLAYER = 0.88; // normalized Y on table
-    const PADDLE_Y_AI = 0.12;
+    const PADDLE_Y_PLAYER = 0.90;
+    const PADDLE_Y_AI = 0.10;
+
+    // Paddle dimensions (normalized) — horizontal oval
+    const PADDLE_HW = 0.09; // half-width (horizontal)
+    const PADDLE_HH = 0.012; // half-height (vertical, thin)
 
     // Reset ball for serve
     const resetBall = (playerServes: boolean) => {
       game.ballX = 0.5;
-      game.ballY = playerServes ? 0.75 : 0.25;
+      game.ballY = playerServes ? 0.78 : 0.22;
       game.ballVX = 0;
       game.ballVY = 0;
       game.ballSpeed = 0;
@@ -308,7 +310,7 @@ function PingPongPage() {
     };
 
     const launchBall = () => {
-      const baseSpeed = 0.007 + (difficulty === "hard" ? 0.002 : difficulty === "medium" ? 0.001 : 0);
+      const baseSpeed = 0.006 + (difficulty === "hard" ? 0.002 : difficulty === "medium" ? 0.001 : 0);
       game.ballSpeed = baseSpeed;
       const angle = (Math.random() - 0.5) * 0.6;
       game.ballVX = Math.sin(angle) * game.ballSpeed;
@@ -348,7 +350,7 @@ function PingPongPage() {
       const clientX = "touches" in e ? e.touches[0]?.clientX ?? 0 : (e as PointerEvent).clientX;
       const { tL, tW } = tbl();
       const canvasX = (clientX - rect.left) / rect.width * W();
-      playerTargetX = Math.max(0.05, Math.min(0.95, (canvasX - tL) / tW));
+      playerTargetX = Math.max(PADDLE_HW + 0.01, Math.min(1 - PADDLE_HW - 0.01, (canvasX - tL) / tW));
     };
     canvas.addEventListener("pointermove", handlePointer);
     canvas.addEventListener("pointerdown", handlePointer);
@@ -373,16 +375,14 @@ function PingPongPage() {
 
       const { tL, tR, tT, tB, tW, tH, w, h } = tbl();
 
-      // Paddle collision radius in normalized coords
-      const paddleRadius = Math.max(20, Math.min(32, w * 0.08));
-      const hitR = paddleRadius / tW; // normalized hit radius
-
       // Keyboard
-      if (keys.has("ArrowLeft") || keys.has("a")) playerTargetX = Math.max(0.05, playerTargetX - 0.02 * dt);
-      if (keys.has("ArrowRight") || keys.has("d")) playerTargetX = Math.min(0.95, playerTargetX + 0.02 * dt);
+      if (keys.has("ArrowLeft") || keys.has("a")) playerTargetX = Math.max(PADDLE_HW + 0.01, playerTargetX - 0.02 * dt);
+      if (keys.has("ArrowRight") || keys.has("d")) playerTargetX = Math.min(1 - PADDLE_HW - 0.01, playerTargetX + 0.02 * dt);
 
       // Smooth player paddle
       game.playerX += (playerTargetX - game.playerX) * Math.min(1, 0.25 * dt);
+      // Clamp player X within table
+      game.playerX = Math.max(PADDLE_HW + 0.01, Math.min(1 - PADDLE_HW - 0.01, game.playerX));
 
       // AI logic
       if (!game.serving || !game.playerServes) {
@@ -390,9 +390,10 @@ function PingPongPage() {
           ? game.ballX + game.ballVX * ((game.ballY - PADDLE_Y_AI) / Math.max(0.001, -game.ballVY))
             + (Math.random() - 0.5) * ai.predictError / tW
           : game.ballX;
-        const targetX = Math.max(0.05, Math.min(0.95, predictedX + (Math.random() - 0.5) * ai.errorRange));
+        const targetX = Math.max(PADDLE_HW + 0.01, Math.min(1 - PADDLE_HW - 0.01, predictedX + (Math.random() - 0.5) * ai.errorRange));
         game.aiTargetX += (targetX - game.aiTargetX) * ai.reactionDelay * dt;
         game.aiX += (game.aiTargetX - game.aiX) * ai.speed * dt;
+        game.aiX = Math.max(PADDLE_HW + 0.01, Math.min(1 - PADDLE_HW - 0.01, game.aiX));
       }
 
       // Serve delay
@@ -401,48 +402,48 @@ function PingPongPage() {
       }
 
       // Ball physics (all in 0..1 table-normalized coords)
-      const ballR = (BALL_RADIUS + 1) / tW;
-      const ballRY = (BALL_RADIUS + 1) / tH;
+      const ballR = BALL_RADIUS / tW;
+      const ballRY = BALL_RADIUS / tH;
 
       if (!game.serving && !game.gameOver) {
         game.ballX += game.ballVX * dt;
         game.ballY += game.ballVY * dt;
 
-        // Wall bounce
+        // Wall bounce — keep ball strictly inside table
         if (game.ballX < ballR) { game.ballX = ballR; game.ballVX = Math.abs(game.ballVX); }
         if (game.ballX > 1 - ballR) { game.ballX = 1 - ballR; game.ballVX = -Math.abs(game.ballVX); }
 
-        // Player paddle collision (bottom)
-        if (game.ballVY > 0 && game.ballY + ballRY >= PADDLE_Y_PLAYER && game.ballY - ballRY <= PADDLE_Y_PLAYER + hitR) {
+        // Player paddle collision (bottom) — horizontal oval hitbox
+        if (game.ballVY > 0 && game.ballY + ballRY >= PADDLE_Y_PLAYER - PADDLE_HH && game.ballY < PADDLE_Y_PLAYER + PADDLE_HH * 2) {
           const dx = game.ballX - game.playerX;
-          if (Math.abs(dx) <= hitR + ballR) {
-            const hitPos = dx / hitR;
+          if (Math.abs(dx) <= PADDLE_HW + ballR) {
+            const hitPos = dx / PADDLE_HW; // -1..1
             const angle = hitPos * 0.7;
-            game.ballSpeed = Math.min(game.ballSpeed * 1.05, 0.018);
+            game.ballSpeed = Math.min(game.ballSpeed * 1.04, 0.016);
             game.ballVX = Math.sin(angle) * game.ballSpeed;
             game.ballVY = -Math.cos(angle) * game.ballSpeed;
-            game.ballY = PADDLE_Y_PLAYER - ballRY;
+            game.ballY = PADDLE_Y_PLAYER - PADDLE_HH - ballRY;
             game.rallyCount++;
           }
         }
 
-        // AI paddle collision (top)
-        if (game.ballVY < 0 && game.ballY - ballRY <= PADDLE_Y_AI && game.ballY + ballRY >= PADDLE_Y_AI - hitR) {
+        // AI paddle collision (top) — horizontal oval hitbox
+        if (game.ballVY < 0 && game.ballY - ballRY <= PADDLE_Y_AI + PADDLE_HH && game.ballY > PADDLE_Y_AI - PADDLE_HH * 2) {
           const dx = game.ballX - game.aiX;
-          if (Math.abs(dx) <= hitR + ballR) {
-            const hitPos = dx / hitR;
+          if (Math.abs(dx) <= PADDLE_HW + ballR) {
+            const hitPos = dx / PADDLE_HW;
             const angle = hitPos * 0.7;
-            game.ballSpeed = Math.min(game.ballSpeed * 1.05, 0.018);
+            game.ballSpeed = Math.min(game.ballSpeed * 1.04, 0.016);
             game.ballVX = Math.sin(angle) * game.ballSpeed;
             game.ballVY = Math.cos(angle) * game.ballSpeed;
-            game.ballY = PADDLE_Y_AI + ballRY;
+            game.ballY = PADDLE_Y_AI + PADDLE_HH + ballRY;
             game.rallyCount++;
           }
         }
 
-        // Score
-        if (game.ballY < -0.05) scorePoint(true);
-        if (game.ballY > 1.05) scorePoint(false);
+        // Score — ball exits table
+        if (game.ballY < -0.03) scorePoint(true);
+        if (game.ballY > 1.03) scorePoint(false);
       }
 
       // ═══════════════════════════════════════════════════════
@@ -470,9 +471,8 @@ function PingPongPage() {
 
       // ─── Table shadow ───
       ctx.fillStyle = "rgba(0,0,0,0.15)";
-      const shOff = 5;
       ctx.beginPath();
-      ctx.roundRect(tL + shOff, tT + shOff, tW, tH, 4);
+      ctx.roundRect(tL + 5, tT + 5, tW, tH, 6);
       ctx.fill();
 
       // ─── Table surface — rich green with subtle gradient ───
@@ -482,14 +482,14 @@ function PingPongPage() {
       tableGrad.addColorStop(1, "#1A7A28");
       ctx.fillStyle = tableGrad;
       ctx.beginPath();
-      ctx.roundRect(tL, tT, tW, tH, 4);
+      ctx.roundRect(tL, tT, tW, tH, 6);
       ctx.fill();
 
       // Table border — thick dark edge
       ctx.strokeStyle = "#0D3D12";
       ctx.lineWidth = 4;
       ctx.beginPath();
-      ctx.roundRect(tL, tT, tW, tH, 4);
+      ctx.roundRect(tL, tT, tW, tH, 6);
       ctx.stroke();
 
       // White edge lines (inside border)
@@ -498,120 +498,111 @@ function PingPongPage() {
       const inset = 6;
       ctx.strokeRect(tL + inset, tT + inset, tW - inset * 2, tH - inset * 2);
 
-      // ─── Center line (vertical, white) ───
-      ctx.strokeStyle = "rgba(255,255,255,0.8)";
-      ctx.lineWidth = 2;
+      // ─── Center line (vertical divider) ───
+      ctx.strokeStyle = "rgba(255,255,255,0.6)";
+      ctx.lineWidth = 1.5;
       ctx.beginPath();
       ctx.moveTo(tL + tW / 2, tT + inset);
       ctx.lineTo(tL + tW / 2, tB - inset);
       ctx.stroke();
 
-      // ─── Net (horizontal) — thicker with detail ───
+      // ─── Net (horizontal line at table center) ───
       const netY = tT + tH / 2;
       // Net shadow
-      ctx.fillStyle = "rgba(0,0,0,0.08)";
-      ctx.fillRect(tL - 4, netY + 2, tW + 8, 4);
-      // Net body
-      ctx.fillStyle = "#FFFFFF";
-      ctx.fillRect(tL - 4, netY - 2, tW + 8, 4);
-      // Net top edge
+      ctx.fillStyle = "rgba(0,0,0,0.06)";
+      ctx.fillRect(tL, netY + 1.5, tW, 3);
+      // Net body — thin white line
       ctx.fillStyle = "rgba(255,255,255,0.9)";
-      ctx.fillRect(tL - 4, netY - 3, tW + 8, 1.5);
-      // Net mesh pattern
-      ctx.strokeStyle = "rgba(200,200,200,0.4)";
+      ctx.fillRect(tL, netY - 1.5, tW, 3);
+      // Net mesh
+      ctx.strokeStyle = "rgba(180,180,180,0.3)";
       ctx.lineWidth = 0.5;
-      for (let nx = tL; nx < tR; nx += 8) {
+      for (let nx = tL + 6; nx < tR; nx += 6) {
         ctx.beginPath();
-        ctx.moveTo(nx, netY - 2);
-        ctx.lineTo(nx, netY + 2);
+        ctx.moveTo(nx, netY - 1.5);
+        ctx.lineTo(nx, netY + 1.5);
         ctx.stroke();
       }
-      // Net posts
-      ctx.fillStyle = "#444";
-      ctx.strokeStyle = "#222";
+      // Net posts — small circles at edges, outside table
+      ctx.fillStyle = "#555";
+      ctx.beginPath(); ctx.arc(tL - 3, netY, 3.5, 0, Math.PI * 2); ctx.fill();
+      ctx.beginPath(); ctx.arc(tR + 3, netY, 3.5, 0, Math.PI * 2); ctx.fill();
+      ctx.strokeStyle = "#333";
       ctx.lineWidth = 1;
-      ctx.beginPath(); ctx.roundRect(tL - 7, netY - 6, 6, 12, 2); ctx.fill(); ctx.stroke();
-      ctx.beginPath(); ctx.roundRect(tR + 1, netY - 6, 6, 12, 2); ctx.fill(); ctx.stroke();
+      ctx.beginPath(); ctx.arc(tL - 3, netY, 3.5, 0, Math.PI * 2); ctx.stroke();
+      ctx.beginPath(); ctx.arc(tR + 3, netY, 3.5, 0, Math.PI * 2); ctx.stroke();
 
       // ─── Helper: norm to pixel ───
       const toX = (nx: number) => tL + nx * tW;
       const toY = (ny: number) => tT + ny * tH;
 
-      // ─── Draw paddle (detailed table tennis racket) ───
+      // Pixel dimensions for paddle
+      const pxHW = PADDLE_HW * tW;  // half-width in px
+      const pxHH = Math.max(6, PADDLE_HH * tH); // half-height in px (min 6px)
+
+      // ─── Draw paddle (horizontal oval, like top-down view of racket) ───
       const drawPaddle = (nx: number, ny: number, headColor: string, headDark: string, handleColor: string, isBottom: boolean) => {
         const px = toX(nx);
         const py = toY(ny);
-        const r = paddleRadius;
-        const hLen = r * 0.75;
-        const hW = r * 0.32;
 
         // Shadow
-        ctx.fillStyle = "rgba(0,0,0,0.18)";
+        ctx.fillStyle = "rgba(0,0,0,0.15)";
         ctx.beginPath();
-        ctx.ellipse(px + 3, py + 3, r + 1, r, 0, 0, Math.PI * 2);
+        ctx.ellipse(px + 2, py + 2, pxHW + 2, pxHH + 2, 0, 0, Math.PI * 2);
         ctx.fill();
 
-        // Handle
-        const hx = px - hW / 2;
-        const hy = isBottom ? py + r * 0.55 : py - r * 0.55 - hLen;
-        // Handle shadow
-        ctx.fillStyle = "rgba(0,0,0,0.1)";
-        ctx.beginPath();
-        ctx.roundRect(hx + 1, hy + 1, hW, hLen, 3);
-        ctx.fill();
-        // Handle body
-        const handleGrad = ctx.createLinearGradient(hx, hy, hx + hW, hy);
+        // Handle — short bar extending toward the player
+        const hLen = pxHH * 2.5;
+        const hW = pxHW * 0.18;
+        const hx = px - hW;
+        const hy = isBottom ? py + pxHH * 0.4 : py - pxHH * 0.4 - hLen;
+        const handleGrad = ctx.createLinearGradient(hx, hy, hx + hW * 2, hy);
         handleGrad.addColorStop(0, handleColor);
-        handleGrad.addColorStop(0.5, "#A08060");
+        handleGrad.addColorStop(0.5, "#B09070");
         handleGrad.addColorStop(1, handleColor);
         ctx.fillStyle = handleGrad;
         ctx.beginPath();
-        ctx.roundRect(hx, hy, hW, hLen, 3);
+        ctx.roundRect(hx, hy, hW * 2, hLen, 2);
         ctx.fill();
-        ctx.strokeStyle = "rgba(0,0,0,0.25)";
-        ctx.lineWidth = 1;
+        ctx.strokeStyle = "rgba(0,0,0,0.2)";
+        ctx.lineWidth = 0.8;
         ctx.stroke();
 
-        // Paddle head
-        const headGrad = ctx.createRadialGradient(px - r * 0.3, py - r * 0.3, 0, px, py, r);
+        // Paddle head — horizontal ellipse
+        const headGrad = ctx.createRadialGradient(px - pxHW * 0.2, py - pxHH * 0.3, 0, px, py, pxHW);
         headGrad.addColorStop(0, headColor);
         headGrad.addColorStop(0.7, headColor);
         headGrad.addColorStop(1, headDark);
         ctx.fillStyle = headGrad;
         ctx.beginPath();
-        ctx.arc(px, py, r, 0, Math.PI * 2);
+        ctx.ellipse(px, py, pxHW, pxHH, 0, 0, Math.PI * 2);
         ctx.fill();
 
-        // Head border
+        // Border
         ctx.strokeStyle = "#1a1a1a";
-        ctx.lineWidth = 2.5;
+        ctx.lineWidth = 2;
         ctx.stroke();
 
-        // Rubber texture — center line
-        ctx.strokeStyle = "rgba(0,0,0,0.12)";
-        ctx.lineWidth = 1.5;
+        // Center line texture
+        ctx.strokeStyle = "rgba(0,0,0,0.1)";
+        ctx.lineWidth = 1;
         ctx.beginPath();
-        ctx.moveTo(px, py - r * 0.6);
-        ctx.lineTo(px, py + r * 0.6);
+        ctx.moveTo(px, py - pxHH * 0.6);
+        ctx.lineTo(px, py + pxHH * 0.6);
         ctx.stroke();
 
-        // Shine highlight
-        ctx.fillStyle = "rgba(255,255,255,0.15)";
+        // Shine
+        ctx.fillStyle = "rgba(255,255,255,0.12)";
         ctx.beginPath();
-        ctx.ellipse(px - r * 0.2, py - r * 0.25, r * 0.5, r * 0.35, -0.3, 0, Math.PI * 2);
+        ctx.ellipse(px - pxHW * 0.15, py - pxHH * 0.2, pxHW * 0.5, pxHH * 0.4, -0.2, 0, 0);
+        ctx.ellipse(px - pxHW * 0.15, py - pxHH * 0.2, pxHW * 0.5, pxHH * 0.4, -0.2, 0, Math.PI * 2);
         ctx.fill();
       };
 
       // Player paddle (bottom, red)
-      drawPaddle(
-        Math.max(0.08, Math.min(0.92, game.playerX)), PADDLE_Y_PLAYER,
-        "#E02020", "#A01515", "#6B4530", true
-      );
+      drawPaddle(game.playerX, PADDLE_Y_PLAYER, "#E02020", "#A01515", "#6B4530", true);
       // AI paddle (top, blue)
-      drawPaddle(
-        Math.max(0.08, Math.min(0.92, game.aiX)), PADDLE_Y_AI,
-        "#2090D0", "#1568A0", "#6B4530", false
-      );
+      drawPaddle(game.aiX, PADDLE_Y_AI, "#2090D0", "#1568A0", "#6B4530", false);
 
       // ─── Ball ───
       if (!game.gameOver) {
@@ -620,9 +611,9 @@ function PingPongPage() {
         const br = BALL_RADIUS;
 
         // Ball shadow
-        ctx.fillStyle = "rgba(0,0,0,0.15)";
+        ctx.fillStyle = "rgba(0,0,0,0.12)";
         ctx.beginPath();
-        ctx.ellipse(bx + 2, by + 3, br + 1, br * 0.7, 0, 0, Math.PI * 2);
+        ctx.ellipse(bx + 1.5, by + 2, br + 1, br * 0.7, 0, 0, Math.PI * 2);
         ctx.fill();
 
         // Ball body
@@ -637,35 +628,26 @@ function PingPongPage() {
 
         // Ball outline
         ctx.strokeStyle = "#999";
-        ctx.lineWidth = 1;
-        ctx.stroke();
-
-        // Ball seam (horizontal line)
-        ctx.strokeStyle = "rgba(0,0,0,0.08)";
         ctx.lineWidth = 0.8;
-        ctx.beginPath();
-        ctx.moveTo(bx - br * 0.7, by);
-        ctx.lineTo(bx + br * 0.7, by);
         ctx.stroke();
 
         // Shine
-        ctx.fillStyle = "rgba(255,255,255,0.7)";
+        ctx.fillStyle = "rgba(255,255,255,0.6)";
         ctx.beginPath();
         ctx.arc(bx - br * 0.25, by - br * 0.25, br * 0.3, 0, Math.PI * 2);
         ctx.fill();
       }
 
       // ─── Score display — badges on left & right of net ───
-      const badgeR = Math.max(18, Math.min(28, tL * 0.4));
+      const badgeR = Math.max(16, Math.min(24, tL * 0.45));
       const netCY = netY;
       ctx.textAlign = "center";
       ctx.textBaseline = "middle";
 
       const drawBadge = (bx: number, by: number, score: number, color: string) => {
-        // White circle with shadow
         ctx.fillStyle = "#FFF";
         ctx.shadowColor = "rgba(0,0,0,0.2)";
-        ctx.shadowBlur = 6;
+        ctx.shadowBlur = 5;
         ctx.beginPath();
         ctx.arc(bx, by, badgeR, 0, Math.PI * 2);
         ctx.fill();
@@ -673,16 +655,15 @@ function PingPongPage() {
         ctx.strokeStyle = "#ddd";
         ctx.lineWidth = 1.5;
         ctx.stroke();
-        // Score number
         ctx.fillStyle = color;
         ctx.font = `bold ${Math.round(badgeR * 0.85)}px system-ui, sans-serif`;
         ctx.fillText(String(score), bx, by + 1);
       };
 
       // Player score (left side, below net)
-      drawBadge(tL / 2, netCY + badgeR * 1.8, playerScoreRef.current, "#D42020");
+      drawBadge(tL / 2, netCY + badgeR * 2, playerScoreRef.current, "#D42020");
       // AI score (right side, above net)
-      drawBadge(tR + (w - tR) / 2, netCY - badgeR * 1.8, aiScoreRef.current, "#2090D0");
+      drawBadge(tR + (w - tR) / 2, netCY - badgeR * 2, aiScoreRef.current, "#2090D0");
 
       animFrameRef.current = requestAnimationFrame(loop);
     };
@@ -785,15 +766,13 @@ function PingPongPage() {
         {screen === "playing" && (
           <motion.div
             key="playing"
-            className="flex-1 flex flex-col relative"
+            className="fixed inset-0 z-20"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            {/* HUD — removed, score is rendered on canvas */}
-
-            {/* Canvas + overlay buttons */}
-            <div className="flex-1 relative touch-none">
+            {/* Canvas fills entire screen */}
+            <div className="absolute inset-0 touch-none">
               <canvas
                 ref={canvasRef}
                 className="absolute inset-0 w-full h-full"
