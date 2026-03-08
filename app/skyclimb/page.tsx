@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useRef, useCallback, useMemo, Suspense } from "react";
 import { Canvas, useFrame, useThree } from "@react-three/fiber";
+import { Html } from "@react-three/drei";
 import * as THREE from "three";
 import { motion, AnimatePresence } from "framer-motion";
 import { Mountain, Trophy, ArrowUp, RotateCcw, Home, Maximize, Share, Rocket, Shield, Zap, X } from "lucide-react";
@@ -1025,64 +1026,214 @@ function RockDeco({ px, py, pz, s }: { px: number; py: number; pz: number; s: nu
 }
 
 // ─── GHOST PLAYER (opponent in multiplayer) ─────────
-function GhostPlayer({ posRef, name }: { posRef: React.RefObject<{ x: number; y: number; z: number; fa: number; dead?: boolean }>; name: string }) {
+interface GhostAvatarData {
+  bodyColor: string;
+  headColor: string;
+  limbColor: string;
+  shoeColor: string;
+  hairColor: string;
+  gender: string;
+}
+
+function GhostPlayer({ posRef, name, avatarData }: {
+  posRef: React.RefObject<{ x: number; y: number; z: number; fa: number; dead?: boolean }>;
+  name: string;
+  avatarData: GhostAvatarData | null;
+}) {
   const groupRef = useRef<THREE.Group>(null);
+  const bodyGroupRef = useRef<THREE.Group>(null);
+  const leftLegRef = useRef<THREE.Group>(null);
+  const rightLegRef = useRef<THREE.Group>(null);
+  const leftArmRef = useRef<THREE.Group>(null);
+  const rightArmRef = useRef<THREE.Group>(null);
   const targetPos = useRef(new THREE.Vector3(0, 1, 0));
   const targetAngle = useRef(0);
-  const labelRef = useRef<THREE.Group>(null);
+  const prevPos = useRef(new THREE.Vector3(0, 1, 0));
+  const walkCycle = useRef(0);
 
-  useFrame((state) => {
+  const bc = avatarData?.bodyColor || "#6b8fad";
+  const hc = avatarData?.headColor || "#e8c9a0";
+  const lc = avatarData?.limbColor || "#1e3a5f";
+  const sc = avatarData?.shoeColor || "#222222";
+  const hairC = avatarData?.hairColor || "#3b2a1a";
+  const isGirl = avatarData?.gender === "girl";
+  const OP = 0.55; // ghost opacity
+
+  useFrame((_, delta) => {
     if (!groupRef.current || !posRef.current) return;
     const p = posRef.current;
     targetPos.current.set(p.x, p.y, p.z);
     targetAngle.current = p.fa;
 
-    // Smooth interpolation for ghost movement
+    // Smooth interpolation
     groupRef.current.position.lerp(targetPos.current, 0.2);
 
     // Rotate body
-    const body = groupRef.current.children[0] as THREE.Group;
-    if (body) {
-      let diff = targetAngle.current - body.rotation.y;
+    if (bodyGroupRef.current) {
+      let diff = targetAngle.current - bodyGroupRef.current.rotation.y;
       while (diff > Math.PI) diff -= Math.PI * 2;
       while (diff < -Math.PI) diff += Math.PI * 2;
-      body.rotation.y += diff * 0.15;
+      bodyGroupRef.current.rotation.y += diff * 0.15;
     }
 
-    // Billboard nametag
-    if (labelRef.current) {
-      labelRef.current.quaternion.copy(state.camera.quaternion);
+    // Walk animation based on movement
+    const dx = groupRef.current.position.x - prevPos.current.x;
+    const dz = groupRef.current.position.z - prevPos.current.z;
+    const isMoving = Math.abs(dx) > 0.001 || Math.abs(dz) > 0.001;
+    prevPos.current.copy(groupRef.current.position);
+
+    if (isMoving) {
+      walkCycle.current += delta * 10;
+    } else {
+      walkCycle.current *= 0.9;
     }
+    const legSwing = isMoving ? Math.sin(walkCycle.current) * 0.6 : 0;
+    const armSwing = isMoving ? Math.sin(walkCycle.current + Math.PI) * 0.4 : 0;
+
+    if (leftLegRef.current) leftLegRef.current.rotation.x = legSwing;
+    if (rightLegRef.current) rightLegRef.current.rotation.x = -legSwing;
+    if (leftArmRef.current) leftArmRef.current.rotation.x = armSwing;
+    if (rightArmRef.current) rightArmRef.current.rotation.x = -armSwing;
 
     // Fade out if dead
-    if (p.dead) {
-      groupRef.current.visible = false;
-    }
+    if (p.dead) groupRef.current.visible = false;
   });
 
   return (
     <group ref={groupRef} position={[0, 1, 0]}>
-      <group>
-        {/* Ghost body - simple capsule */}
-        <mesh position={[0, 0.5, 0]}>
-          <capsuleGeometry args={[0.2, 0.6, 4, 8]} />
-          <meshStandardMaterial color="#FF2D78" transparent opacity={0.35} emissive="#FF2D78" emissiveIntensity={0.6} />
+      <group ref={bodyGroupRef}>
+        {/* ── BODY (torso) ── */}
+        <mesh position={[0, 0.48, 0]}>
+          <boxGeometry args={[0.38, 0.40, 0.21]} />
+          <meshStandardMaterial color={bc} transparent opacity={OP} emissive={bc} emissiveIntensity={0.15} />
         </mesh>
-        {/* Ghost head */}
-        <mesh position={[0, 0.97, 0]}>
-          <sphereGeometry args={[0.18, 8, 6]} />
-          <meshStandardMaterial color="#FF2D78" transparent opacity={0.4} emissive="#FF2D78" emissiveIntensity={0.8} />
+
+        {/* ── SHOULDERS ── */}
+        <mesh position={[0.21, 0.64, 0]}>
+          <sphereGeometry args={[0.09, 8, 6]} />
+          <meshStandardMaterial color={bc} transparent opacity={OP} />
         </mesh>
-        {/* Glow */}
-        <pointLight position={[0, 0.6, 0]} color="#FF2D78" intensity={1.5} distance={4} />
+        <mesh position={[-0.21, 0.64, 0]}>
+          <sphereGeometry args={[0.09, 8, 6]} />
+          <meshStandardMaterial color={bc} transparent opacity={OP} />
+        </mesh>
+
+        {/* ── ARMS ── */}
+        <group ref={leftArmRef} position={[0.27, 0.58, 0]} rotation={[0.12, 0, -0.15]}>
+          <mesh position={[0, -0.10, 0]}>
+            <cylinderGeometry args={[0.048, 0.055, 0.20, 6]} />
+            <meshStandardMaterial color={hc} transparent opacity={OP} />
+          </mesh>
+          <mesh position={[0, -0.24, 0]}>
+            <sphereGeometry args={[0.055, 8, 6]} />
+            <meshStandardMaterial color={hc} transparent opacity={OP} />
+          </mesh>
+        </group>
+        <group ref={rightArmRef} position={[-0.27, 0.58, 0]} rotation={[0.12, 0, 0.15]}>
+          <mesh position={[0, -0.10, 0]}>
+            <cylinderGeometry args={[0.048, 0.055, 0.20, 6]} />
+            <meshStandardMaterial color={hc} transparent opacity={OP} />
+          </mesh>
+          <mesh position={[0, -0.24, 0]}>
+            <sphereGeometry args={[0.055, 8, 6]} />
+            <meshStandardMaterial color={hc} transparent opacity={OP} />
+          </mesh>
+        </group>
+
+        {/* ── LEGS ── */}
+        <group ref={leftLegRef} position={[0.10, 0.24, 0]}>
+          <mesh position={[0, -0.15, 0]}>
+            <cylinderGeometry args={[0.068, 0.078, 0.30, 6]} />
+            <meshStandardMaterial color={lc} transparent opacity={OP} />
+          </mesh>
+          <mesh position={[0, -0.33, 0.03]}>
+            <boxGeometry args={[0.12, 0.06, 0.18]} />
+            <meshStandardMaterial color={sc} transparent opacity={OP} />
+          </mesh>
+        </group>
+        <group ref={rightLegRef} position={[-0.10, 0.24, 0]}>
+          <mesh position={[0, -0.15, 0]}>
+            <cylinderGeometry args={[0.068, 0.078, 0.30, 6]} />
+            <meshStandardMaterial color={lc} transparent opacity={OP} />
+          </mesh>
+          <mesh position={[0, -0.33, 0.03]}>
+            <boxGeometry args={[0.12, 0.06, 0.18]} />
+            <meshStandardMaterial color={sc} transparent opacity={OP} />
+          </mesh>
+        </group>
+
+        {/* ── NECK ── */}
+        <mesh position={[0, 0.80, 0]}>
+          <cylinderGeometry args={[0.08, 0.095, 0.16, 8]} />
+          <meshStandardMaterial color={hc} transparent opacity={OP} />
+        </mesh>
+
+        {/* ── HEAD ── */}
+        <mesh position={[0, 0.95, 0]}>
+          <sphereGeometry args={[0.18, 14, 10]} />
+          <meshStandardMaterial color={hc} transparent opacity={OP} />
+        </mesh>
+
+        {/* ── HAIR ── */}
+        {isGirl ? (
+          <>
+            <mesh position={[0, 1.03, 0]} scale={[1.04, 0.65, 1.04]}>
+              <sphereGeometry args={[0.18, 12, 8, 0, Math.PI * 2, 0, Math.PI * 0.55]} />
+              <meshStandardMaterial color={hairC} transparent opacity={OP} />
+            </mesh>
+            <mesh position={[-0.13, 0.92, -0.04]} scale={[0.50, 0.65, 0.52]}>
+              <sphereGeometry args={[0.09, 8, 6]} />
+              <meshStandardMaterial color={hairC} transparent opacity={OP} />
+            </mesh>
+            <mesh position={[0.13, 0.92, -0.04]} scale={[0.50, 0.65, 0.52]}>
+              <sphereGeometry args={[0.09, 8, 6]} />
+              <meshStandardMaterial color={hairC} transparent opacity={OP} />
+            </mesh>
+          </>
+        ) : (
+          <>
+            <mesh position={[0, 1.05, 0]} scale={[1.02, 0.55, 1.02]}>
+              <sphereGeometry args={[0.18, 12, 8, 0, Math.PI * 2, 0, Math.PI * 0.45]} />
+              <meshStandardMaterial color={hairC} transparent opacity={OP} />
+            </mesh>
+            <mesh position={[0, 1.16, 0.04]} rotation={[-0.2, 0, 0]} scale={[0.42, 1, 0.36]}>
+              <coneGeometry args={[0.055, 0.12, 5]} />
+              <meshStandardMaterial color={hairC} transparent opacity={OP} />
+            </mesh>
+          </>
+        )}
+
+        {/* ── EYES (simple dots) ── */}
+        <mesh position={[0.065, 0.97, 0.17]}>
+          <sphereGeometry args={[0.018, 8, 8]} />
+          <meshStandardMaterial color="#0A0A1A" transparent opacity={OP} />
+        </mesh>
+        <mesh position={[-0.065, 0.97, 0.17]}>
+          <sphereGeometry args={[0.018, 8, 8]} />
+          <meshStandardMaterial color="#0A0A1A" transparent opacity={OP} />
+        </mesh>
+
+        {/* ── Subtle glow ── */}
+        <pointLight position={[0, 0.6, 0]} color={bc} intensity={0.6} distance={3} />
       </group>
-      {/* Nametag */}
-      <group ref={labelRef} position={[0, 1.5, 0]}>
-        <mesh>
-          <planeGeometry args={[name.length * 0.12 + 0.3, 0.22]} />
-          <meshBasicMaterial color="#000000" transparent opacity={0.5} />
-        </mesh>
-      </group>
+
+      {/* ── Nametag (HTML overlay) ── */}
+      <Html position={[0, 1.35, 0]} center distanceFactor={8} sprite>
+        <div style={{
+          background: "rgba(0,0,0,0.55)",
+          color: "#fff",
+          padding: "2px 8px",
+          borderRadius: 6,
+          fontSize: 11,
+          fontWeight: 700,
+          whiteSpace: "nowrap",
+          userSelect: "none",
+          pointerEvents: "none",
+          border: "1px solid rgba(255,255,255,0.15)",
+        }}>
+          {name}
+        </div>
+      </Html>
     </group>
   );
 }
@@ -1726,7 +1877,7 @@ function FloatingParticles() {
   );
 }
 
-function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, skinId, hatId, trailId, ghostPosRef, ghostName }: {
+function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, skinId, hatId, trailId, ghostPosRef, ghostName, ghostAvatarData }: {
   gameRef: React.RefObject<GameData>;
   onDie: () => void;
   onGoal: () => void;
@@ -1738,6 +1889,7 @@ function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, 
   trailId: string | null;
   ghostPosRef?: React.RefObject<{ x: number; y: number; z: number; fa: number; dead?: boolean }>;
   ghostName?: string;
+  ghostAvatarData?: GhostAvatarData | null;
 }) {
   const g = gameRef.current;
   if (!g) return null;
@@ -1769,7 +1921,7 @@ function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, 
 
       {/* Ghost player (multiplayer opponent) */}
       {ghostPosRef && ghostName && (
-        <GhostPlayer posRef={ghostPosRef} name={ghostName} />
+        <GhostPlayer posRef={ghostPosRef} name={ghostName} avatarData={ghostAvatarData || null} />
       )}
 
       <GameLoop gameRef={gameRef} onDie={onDie} onGoal={onGoal} onWinStart={onWinStart} onPowerUp={onPowerUp} onShieldUsed={onShieldUsed} />
@@ -1912,6 +2064,7 @@ function SkyClimbPage() {
   const [oppDied, setOppDied] = useState(false);
   const [multiResult, setMultiResult] = useState<{ myScore: number; oppScore: number } | null>(null);
   const [scoreSubmitted, setScoreSubmitted] = useState(false);
+  const [ghostAvatarData, setGhostAvatarData] = useState<GhostAvatarData | null>(null);
   const channelRef = useRef<RealtimeChannel | null>(null);
   const ghostPosRef = useRef({ x: 0, y: 1, z: 0, fa: 0, dead: false });
   const broadcastIntervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
@@ -2131,7 +2284,38 @@ function SkyClimbPage() {
       }
     });
 
-    channel.subscribe();
+    channel.on("broadcast", { event: "avatar" }, ({ payload }) => {
+      if (payload.p !== playerNum) {
+        setGhostAvatarData(payload.avatar as GhostAvatarData);
+      }
+    });
+
+    channel.subscribe((status) => {
+      if (status === "SUBSCRIBED") {
+        // Send our avatar appearance to opponent
+        const skin = getSkinDef(getActiveSkin());
+        const hasReal = skin.id !== "default";
+        const topId = getActive("top");
+        const bottomId = getActive("bottom");
+        const shoeId = getActive("shoe");
+        const topD = topId ? getTopDef(topId) : null;
+        const bottomD = bottomId ? getBottomDef(bottomId) : null;
+        const shoeD = shoeId ? getShoeDef(shoeId) : null;
+        const myAvatar: GhostAvatarData = {
+          bodyColor: topD ? topD.color : (hasReal ? skin.bodyColor : "#6b8fad"),
+          headColor: hasReal ? skin.headColor : "#e8c9a0",
+          limbColor: bottomD ? bottomD.color : (hasReal ? skin.limbColor : "#1e3a5f"),
+          shoeColor: shoeD ? shoeD.color : (hasReal ? skin.shoeColor : "#222222"),
+          hairColor: hasReal ? skin.headColor : "#3b2a1a",
+          gender: getGender(),
+        };
+        channel.send({ type: "broadcast", event: "avatar", payload: { p: playerNum, avatar: myAvatar } });
+        // Send again after a delay in case opponent joined late
+        setTimeout(() => {
+          channel.send({ type: "broadcast", event: "avatar", payload: { p: playerNum, avatar: myAvatar } });
+        }, 2000);
+      }
+    });
     channelRef.current = channel;
 
     return () => {
@@ -2464,7 +2648,7 @@ function SkyClimbPage() {
           <Canvas camera={{ fov: 60 }} gl={{ antialias: true }}
             style={{ background: "linear-gradient(180deg, #2a5298 0%, #5b86c7 25%, #87CEEB 50%, #e8d5b7 85%, #f0c27f 100%)", height: "100%", width: "100%" }}>
             <Scene3D gameRef={gameRef} onDie={handleDie} onGoal={handleGoal} onWinStart={handleWinStart} onPowerUp={handlePowerUp} onShieldUsed={handleShieldUsed} skinId={activeSkinId} hatId={activeHatId} trailId={activeTrailId}
-              ghostPosRef={isMultiplayer ? ghostPosRef : undefined} ghostName={isMultiplayer ? opponentName : undefined} />
+              ghostPosRef={isMultiplayer ? ghostPosRef : undefined} ghostName={isMultiplayer ? opponentName : undefined} ghostAvatarData={isMultiplayer ? ghostAvatarData : undefined} />
           </Canvas>
 
           {/* HUD */}
