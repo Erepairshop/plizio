@@ -1392,6 +1392,26 @@ export function getEnglishQuestions(
     }
   }
 
+  // If pool is too small, cycle through existing questions with shuffled options
+  if (pool.length > 0 && pool.length < count) {
+    const base = [...pool];
+    while (pool.length < count) {
+      const q = { ...base[pool.length % base.length] };
+      if (q.type === "mcq" && q.options) {
+        // Reshuffle options for variety
+        const opts = [...q.options];
+        const correctAnswer = opts[q.correct ?? 0];
+        for (let i = opts.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [opts[i], opts[j]] = [opts[j], opts[i]];
+        }
+        q.options = opts;
+        q.correct = opts.indexOf(correctAnswer);
+      }
+      pool.push(q);
+    }
+  }
+
   // Fisher-Yates shuffle
   for (let i = pool.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
