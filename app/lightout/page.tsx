@@ -3,7 +3,7 @@
 import { useState, useEffect, useCallback, useRef, Suspense } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
-import { Lightbulb, Lock, Check, ChevronRight, RotateCcw, X } from "lucide-react";
+import { Lightbulb, Lock, Check, ChevronRight, RotateCcw, X, HelpCircle } from "lucide-react";
 import Link from "next/link";
 import MilestonePopup from "@/components/MilestonePopup";
 import RewardReveal from "@/components/RewardReveal";
@@ -40,6 +40,11 @@ const T = {
     rarity: { bronze: "BRONZE", silver: "SILVER", gold: "GOLD", legendary: "LEGENDARY" },
     card: "CARD", lightsLeft: "lights left",
     waiting: "Waiting for", multiResult: "Results",
+    howToPlay: "How to play?",
+    tutStep1: "Tap any lit cell...",
+    tutStep2: "It toggles itself AND its neighbors!",
+    tutStep3: "Turn ALL lights off to win!",
+    tutGotIt: "Got it!",
   },
   hu: {
     title: "FÉNYOLTÓ",
@@ -54,6 +59,11 @@ const T = {
     rarity: { bronze: "BRONZ", silver: "EZÜST", gold: "ARANY", legendary: "LEGENDÁS" },
     card: "KÁRTYA", lightsLeft: "fény maradt",
     waiting: "Várakozás:", multiResult: "Eredmény",
+    howToPlay: "Hogyan játssz?",
+    tutStep1: "Érintsd meg bármelyik világító cellát...",
+    tutStep2: "Átkapcsolja magát ÉS a szomszédait!",
+    tutStep3: "Oltsd el az ÖSSZES fényt a győzelemhez!",
+    tutGotIt: "Értem!",
   },
   de: {
     title: "LICHT AUS",
@@ -68,6 +78,11 @@ const T = {
     rarity: { bronze: "BRONZE", silver: "SILBER", gold: "GOLD", legendary: "LEGENDÄR" },
     card: "KARTE", lightsLeft: "Lichter übrig",
     waiting: "Warten auf", multiResult: "Ergebnis",
+    howToPlay: "Wie spielt man?",
+    tutStep1: "Tippe auf eine leuchtende Zelle...",
+    tutStep2: "Sie schaltet sich UND ihre Nachbarn um!",
+    tutStep3: "Schalte ALLE Lichter aus, um zu gewinnen!",
+    tutGotIt: "Verstanden!",
   },
   ro: {
     title: "STINGE LUMINA",
@@ -82,6 +97,11 @@ const T = {
     rarity: { bronze: "BRONZ", silver: "ARGINT", gold: "AUR", legendary: "LEGENDAR" },
     card: "CARD", lightsLeft: "lumini rămase",
     waiting: "Așteptare:", multiResult: "Rezultat",
+    howToPlay: "Cum se joacă?",
+    tutStep1: "Apasă pe orice celulă aprinsă...",
+    tutStep2: "Comută ea ȘI vecinii ei!",
+    tutStep3: "Stinge TOATE luminile pentru a câștiga!",
+    tutGotIt: "Am înțeles!",
   },
 };
 
@@ -194,6 +214,171 @@ export default function LightOutPageWrapper() {
   return <Suspense><LightOutPage /></Suspense>;
 }
 
+/* ------------------------------------------------------------------ */
+/* Tutorial overlay — animated demo with hand cursor                    */
+/* ------------------------------------------------------------------ */
+type TLang = typeof T.en;
+
+function TutorialOverlay({ t, onClose }: { t: TLang; onClose: () => void }) {
+  const [step, setStep] = useState(0);
+  // 3x3 demo grid
+  const [demoGrid, setDemoGrid] = useState([
+    false, true,  false,
+    true,  true,  true,
+    false, true,  false,
+  ]);
+  const [cursorPos, setCursorPos] = useState<{ row: number; col: number } | null>(null);
+  const [tapping, setTapping] = useState(false);
+  const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  // Animated sequence: cursor moves to center → taps → shows result
+  useEffect(() => {
+    if (step !== 0) return;
+    // Reset grid to plus pattern
+    setDemoGrid([false, true, false, true, true, true, false, true, false]);
+    setCursorPos(null);
+    setTapping(false);
+
+    // Step 1: cursor appears and moves to center (1,1)
+    const t1 = setTimeout(() => setCursorPos({ row: 1, col: 1 }), 600);
+    // Step 2: tap animation
+    const t2 = setTimeout(() => setTapping(true), 1400);
+    // Step 3: toggle the grid (center cell toggles self + neighbors)
+    const t3 = setTimeout(() => {
+      setTapping(false);
+      // Toggle center (1,1) and its neighbors
+      setDemoGrid([false, false, false, false, false, false, false, false, false]);
+      setStep(1);
+    }, 1800);
+
+    return () => { clearTimeout(t1); clearTimeout(t2); clearTimeout(t3); };
+  }, [step]);
+
+  // After step 1, show "all off" for a moment, then move to step 2
+  useEffect(() => {
+    if (step !== 1) return;
+    const t1 = setTimeout(() => setStep(2), 1500);
+    return () => clearTimeout(t1);
+  }, [step]);
+
+  // Step 2: show a new pattern and demonstrate another tap
+  useEffect(() => {
+    if (step !== 2) return;
+    // Set a new demo pattern
+    setDemoGrid([true, false, true, false, true, false, true, false, true]);
+    setCursorPos(null);
+    setTapping(false);
+
+    const t1 = setTimeout(() => setCursorPos({ row: 0, col: 0 }), 600);
+    const t2 = setTimeout(() => setTapping(true), 1400);
+    const t3 = setTimeout(() => {
+      setTapping(false);
+      // Toggle (0,0) → affects (0,0),(0,1),(1,0)
+      setDemoGrid([false, true, true, true, true, false, true, false, true]);
+      setStep(3);
+    }, 1800);
+
+    return () => { clearTimeout(t1); clearTimeout(t2); clearTimeout(t3); };
+  }, [step]);
+
+  // Step 3: hold result, then loop back
+  useEffect(() => {
+    if (step !== 3) return;
+    const t1 = setTimeout(() => {
+      setCursorPos(null);
+      setStep(4);
+    }, 2000);
+    return () => clearTimeout(t1);
+  }, [step]);
+
+  const stepText = step <= 1 ? t.tutStep1 : step <= 3 ? t.tutStep2 : t.tutStep3;
+
+  return (
+    <motion.div
+      className="fixed inset-0 z-[60] flex flex-col items-center justify-center bg-black/85 backdrop-blur-sm px-6"
+      initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
+      onClick={(e) => { if (e.target === e.currentTarget) onClose(); }}
+    >
+      <motion.div
+        className="bg-[#12122A] border border-white/10 rounded-2xl p-6 max-w-xs w-full flex flex-col items-center gap-5"
+        initial={{ scale: 0.9, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} exit={{ scale: 0.9, opacity: 0 }}
+      >
+        <h3 className="text-lg font-black text-[#00FF88]">{t.howToPlay}</h3>
+
+        {/* Demo grid */}
+        <div className="relative">
+          <div className="grid grid-cols-3 gap-2" style={{ width: "156px" }}>
+            {demoGrid.map((isOn, i) => (
+              <motion.div
+                key={i}
+                className={`w-12 h-12 rounded-lg border-2 flex items-center justify-center ${
+                  isOn ? "bg-[#00FF88]/20 border-[#00FF88]/50" : "bg-white/[0.03] border-white/10"
+                }`}
+                style={isOn ? { boxShadow: "0 0 16px rgba(0,255,136,0.3)" } : {}}
+                animate={{ scale: isOn ? [1, 1.05, 1] : 1 }}
+                transition={{ duration: 0.3 }}
+              >
+                {isOn && <Lightbulb size={20} className="text-[#00FF88]" style={{ filter: "drop-shadow(0 0 4px rgba(0,255,136,0.5))" }} />}
+              </motion.div>
+            ))}
+          </div>
+
+          {/* Animated hand cursor */}
+          <AnimatePresence>
+            {cursorPos && (
+              <motion.div
+                className="absolute pointer-events-none"
+                style={{
+                  left: cursorPos.col * 56 + 24,
+                  top: cursorPos.row * 56 + 28,
+                }}
+                initial={{ opacity: 0, x: 40, y: 40 }}
+                animate={{ opacity: 1, x: 0, y: 0, scale: tapping ? 0.85 : 1 }}
+                exit={{ opacity: 0 }}
+                transition={{ duration: 0.4 }}
+              >
+                <svg width="28" height="32" viewBox="0 0 28 32" fill="none">
+                  <path d="M10 8C10 6.34 11.34 5 13 5s3 1.34 3 3v7h1.5c.83 0 1.5.67 1.5 1.5V22c0 4.42-3.58 8-8 8h-1c-3.87 0-7-3.13-7-7v-4.5c0-.83.67-1.5 1.5-1.5S6 7.67 6 8.5V15h1V8c0-1.66 1.34-3 3-3z" fill="white" fillOpacity="0.9" stroke="rgba(0,255,136,0.6)" strokeWidth="1.5"/>
+                </svg>
+              </motion.div>
+            )}
+          </AnimatePresence>
+        </div>
+
+        {/* Step text */}
+        <AnimatePresence mode="wait">
+          <motion.p
+            key={stepText}
+            className="text-white/80 text-sm text-center font-medium h-10 flex items-center"
+            initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -8 }}
+            transition={{ duration: 0.25 }}
+          >
+            {stepText}
+          </motion.p>
+        </AnimatePresence>
+
+        {/* Replay / Got it */}
+        <div className="flex gap-3">
+          <motion.button
+            onClick={() => setStep(0)}
+            className="px-4 py-2 rounded-xl bg-white/5 border border-white/10 text-white/70 text-sm font-bold"
+            whileTap={{ scale: 0.95 }}
+          >
+            <RotateCcw size={14} />
+          </motion.button>
+          <motion.button
+            onClick={onClose}
+            className="px-5 py-2 rounded-xl bg-[#00FF88]/10 border border-[#00FF88]/30 text-[#00FF88] text-sm font-bold"
+            whileTap={{ scale: 0.95 }}
+          >
+            {t.tutGotIt}
+          </motion.button>
+        </div>
+      </motion.div>
+    </motion.div>
+  );
+}
+
 function LightOutPage() {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
@@ -281,6 +466,7 @@ function LightOutPage() {
 
   // ── Multiplayer state ──
   const [showExitConfirm, setShowExitConfirm] = useState(false);
+  const [showTutorial, setShowTutorial] = useState(false);
   const [oppFinalScore, setOppFinalScore] = useState<number | null>(null);
   const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
   const [mixFinished, setMixFinished] = useState(false);
@@ -445,6 +631,18 @@ function LightOutPage() {
           <div className="text-center px-4 pb-4">
             <h1 className="text-2xl font-black tracking-wider" style={{ color: "#00FF88", filter: "drop-shadow(0 0 8px rgba(0,255,136,0.3))" }}>{t.title}</h1>
             <p className="text-white/60 text-xs mt-1">{t.subtitle}</p>
+          </div>
+
+          {/* How to play button */}
+          <div className="flex justify-center mb-3">
+            <motion.button
+              onClick={() => setShowTutorial(true)}
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-white/5 border border-white/10 text-white/70 text-xs font-medium hover:bg-white/10 transition-colors"
+              whileTap={{ scale: 0.95 }}
+              initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.2 }}
+            >
+              <HelpCircle size={13} /> {t.howToPlay}
+            </motion.button>
           </div>
 
           {/* Avatar */}
@@ -690,6 +888,11 @@ function LightOutPage() {
       {!isMultiplayer && screen === "playing" && (
         <AvatarCompanion fixed mood={avatarMood} jumpTrigger={avatarJump} {...avatarProps} />
       )}
+
+      {/* ── TUTORIAL OVERLAY ── */}
+      <AnimatePresence>
+        {showTutorial && <TutorialOverlay t={t} onClose={() => setShowTutorial(false)} />}
+      </AnimatePresence>
     </main>
   );
 }
