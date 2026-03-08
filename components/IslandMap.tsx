@@ -39,7 +39,7 @@ interface IslandMapProps {
 /* ------------------------------------------------------------------ */
 const LETTER_COLORS = ["#FF2D78", "#00D4FF", "#00FF88", "#FFD700", "#B44DFF", "#FF2D78"];
 const LETTERS = ["P", "L", "I", "Z", "I", "O"];
-const R = 40; // planet radius — smaller for more room
+const R = 46; // planet radius — bigger for mobile visibility
 
 /* ------------------------------------------------------------------ */
 /* Per-category planet surface details                                 */
@@ -136,14 +136,14 @@ const DEFAULT_THEME: PlanetTheme = {
 function OceanBg() {
   return (
     <g>
-      <rect x={0} y={0} width={800} height={900} fill="#070e1a" />
-      <ellipse cx={400} cy={860} rx={520} ry={200} fill="#0b1729" opacity={0.6} />
+      <rect x={0} y={0} width={500} height={900} fill="#070e1a" />
+      <ellipse cx={250} cy={860} rx={340} ry={200} fill="#0b1729" opacity={0.6} />
       {/* stars */}
       {[
-        { x: 50, y: 25, r: 1.1 }, { x: 160, y: 15, r: 0.7 }, { x: 310, y: 38, r: 0.9 },
-        { x: 490, y: 20, r: 0.6 }, { x: 640, y: 32, r: 1 }, { x: 740, y: 12, r: 0.8 },
-        { x: 100, y: 52, r: 0.5 }, { x: 410, y: 8, r: 1.2 }, { x: 570, y: 48, r: 0.4 },
-        { x: 700, y: 55, r: 0.6 }, { x: 250, y: 60, r: 0.7 },
+        { x: 30, y: 25, r: 1.1 }, { x: 100, y: 15, r: 0.7 }, { x: 200, y: 38, r: 0.9 },
+        { x: 310, y: 20, r: 0.6 }, { x: 420, y: 32, r: 1 }, { x: 470, y: 12, r: 0.8 },
+        { x: 60, y: 52, r: 0.5 }, { x: 260, y: 8, r: 1.2 }, { x: 360, y: 48, r: 0.4 },
+        { x: 450, y: 55, r: 0.6 }, { x: 150, y: 60, r: 0.7 },
       ].map((s, i) => (
         <motion.circle
           key={i} cx={s.x} cy={s.y} r={s.r} fill="rgba(200,220,255,0.35)"
@@ -152,15 +152,15 @@ function OceanBg() {
         />
       ))}
       {/* nebula glow */}
-      <ellipse cx={200} cy={400} rx={180} ry={120} fill="rgba(0,100,255,0.02)" />
-      <ellipse cx={600} cy={600} rx={160} ry={100} fill="rgba(180,77,255,0.015)" />
+      <ellipse cx={130} cy={400} rx={120} ry={100} fill="rgba(0,100,255,0.02)" />
+      <ellipse cx={380} cy={600} rx={100} ry={80} fill="rgba(180,77,255,0.015)" />
       {/* wave lines */}
       {[300, 450, 600, 740].map((y, i) => (
         <motion.path
           key={i}
-          d={`M -40,${y} Q 100,${y - 5} 200,${y} T 400,${y} T 600,${y} T 840,${y}`}
+          d={`M -20,${y} Q 60,${y - 5} 125,${y} T 250,${y} T 375,${y} T 520,${y}`}
           fill="none" stroke="rgba(80,180,255,0.03)" strokeWidth={1}
-          animate={{ x: [0, i % 2 === 0 ? 20 : -20, 0] }}
+          animate={{ x: [0, i % 2 === 0 ? 12 : -12, 0] }}
           transition={{ duration: 10 + i * 2, repeat: Infinity, ease: "easeInOut" }}
         />
       ))}
@@ -224,17 +224,17 @@ function Planet({
 
       {/* label below */}
       <text
-        x={cx} y={cy + R + 14}
+        x={cx} y={cy + R + 16}
         textAnchor="middle" fill={color}
-        fontSize={9} fontWeight={700} letterSpacing={1.2}
+        fontSize={10} fontWeight={700} letterSpacing={1.2}
         style={{ textTransform: "uppercase" as const, filter: `drop-shadow(0 0 3px ${glow})` }}
       >
         {label}
       </text>
 
       {/* game count badge */}
-      <circle cx={cx + R - 4} cy={cy - R + 4} r={8} fill={color} opacity={0.85} />
-      <text x={cx + R - 4} y={cy - R + 7.5} textAnchor="middle" fill="#fff" fontSize={8} fontWeight={800}>
+      <circle cx={cx + R - 4} cy={cy - R + 4} r={9} fill={color} opacity={0.85} />
+      <text x={cx + R - 4} y={cy - R + 7.5} textAnchor="middle" fill="#fff" fontSize={9} fontWeight={800}>
         {island.games.length}
       </text>
     </g>
@@ -377,14 +377,14 @@ export default function IslandMap({ islands, username, streak, specialCount, car
     <div className="absolute inset-0 overflow-hidden bg-[#070e1a]" style={{ perspective: "1000px" }}>
       <motion.div
         className="absolute inset-0 flex items-center justify-center"
-        style={{ transformStyle: "preserve-3d", transformOrigin: "center 40%" }}
+        style={{ transformStyle: "preserve-3d", transformOrigin: "center 35%" }}
         animate={{ rotateX: selectedId ? 0 : 8 }}
         transition={{ duration: 0.6, ease: "easeOut" }}
       >
         <svg
-          viewBox="0 0 800 900"
-          preserveAspectRatio="xMidYMid meet"
-          className="w-full h-full max-w-[520px] sm:max-w-none"
+          viewBox="0 0 500 900"
+          preserveAspectRatio="xMidYMin meet"
+          className="w-full h-full"
         >
           <OceanBg />
 
@@ -393,10 +393,10 @@ export default function IslandMap({ islands, username, streak, specialCount, car
             {LETTERS.map((letter, i) => (
               <text
                 key={i}
-                x={314 + i * 30}
-                y={88}
+                x={177 + i * 25}
+                y={100}
                 textAnchor="middle"
-                fontSize={34}
+                fontSize={30}
                 fontWeight={900}
                 fill={LETTER_COLORS[i]}
                 style={{ filter: `drop-shadow(0 0 8px ${LETTER_COLORS[i]}50)` }}
@@ -404,11 +404,11 @@ export default function IslandMap({ islands, username, streak, specialCount, car
                 {letter}
               </text>
             ))}
-            <text x={400} y={106} textAnchor="middle" fontSize={7} fontWeight={600} letterSpacing={2.5} fill="rgba(255,255,255,0.2)">
+            <text x={250} y={116} textAnchor="middle" fontSize={7} fontWeight={600} letterSpacing={2.5} fill="rgba(255,255,255,0.2)">
               PLAY · LEARN · THINK
             </text>
             {username && (
-              <text x={400} y={126} textAnchor="middle" fontSize={10} fontWeight={700} fill="rgba(255,255,255,0.18)" letterSpacing={0.8}>
+              <text x={250} y={134} textAnchor="middle" fontSize={10} fontWeight={700} fill="rgba(255,255,255,0.18)" letterSpacing={0.8}>
                 {username}
               </text>
             )}
@@ -417,17 +417,17 @@ export default function IslandMap({ islands, username, streak, specialCount, car
           {/* Stats */}
           <g>
             {streak > 0 && (
-              <text x={345} y={150} textAnchor="end" fontSize={10} fontWeight={700} fill="#FFD700" opacity={0.5}>
+              <text x={200} y={158} textAnchor="end" fontSize={10} fontWeight={700} fill="#FFD700" opacity={0.5}>
                 🔥 {streak}
               </text>
             )}
             {specialCount > 0 && (
-              <text x={400} y={150} textAnchor="middle" fontSize={10} fontWeight={700} fill="#E040FB" opacity={0.5}>
+              <text x={250} y={158} textAnchor="middle" fontSize={10} fontWeight={700} fill="#E040FB" opacity={0.5}>
                 ⭐ {specialCount}
               </text>
             )}
             {cardCount > 0 && (
-              <text x={455} y={150} textAnchor="start" fontSize={10} fontWeight={700} fill="rgba(255,255,255,0.2)">
+              <text x={300} y={158} textAnchor="start" fontSize={10} fontWeight={700} fill="rgba(255,255,255,0.2)">
                 🃏 {cardCount}
               </text>
             )}

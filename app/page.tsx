@@ -281,13 +281,13 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         color: "#FF2222",
         gradient: "bg-gradient-to-br from-red-500/20 to-rose-500/20",
       },
-      {
-        id: "pliziolife",
-        icon: HomeIcon,
-        nameKey: "pliziolife",
-        color: "#FF2D78",
-        gradient: "bg-gradient-to-br from-pink-500/20 to-purple-500/20",
-      },
+      // {
+      //   id: "pliziolife",
+      //   icon: HomeIcon,
+      //   nameKey: "pliziolife",
+      //   color: "#FF2D78",
+      //   gradient: "bg-gradient-to-br from-pink-500/20 to-purple-500/20",
+      // },
     ],
   },
   {
@@ -335,12 +335,12 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
   },
 ];
 
-/* Planet positions in the 800x900 viewBox — compact, closer together */
+/* Planet positions in the 500x900 viewBox — optimized for mobile */
 const ISLAND_POSITIONS: Record<string, { cx: number; cy: number; color: string; glow: string }> = {
-  quizreflex: { cx: 250, cy: 260, color: "#00D4FF", glow: "rgba(0,212,255,0.4)" },
-  adventure:  { cx: 550, cy: 310, color: "#00FF88", glow: "rgba(0,255,136,0.4)" },
-  brain:      { cx: 230, cy: 460, color: "#FFD700", glow: "rgba(255,215,0,0.4)" },
-  logic:      { cx: 540, cy: 520, color: "#B44DFF", glow: "rgba(180,77,255,0.4)" },
+  quizreflex: { cx: 155, cy: 250, color: "#00D4FF", glow: "rgba(0,212,255,0.4)" },
+  adventure:  { cx: 365, cy: 320, color: "#00FF88", glow: "rgba(0,255,136,0.4)" },
+  brain:      { cx: 145, cy: 450, color: "#FFD700", glow: "rgba(255,215,0,0.4)" },
+  logic:      { cx: 355, cy: 530, color: "#B44DFF", glow: "rgba(180,77,255,0.4)" },
 };
 
 function categoriesToIslands(categories: CategoryDef[]): Island[] {
@@ -546,7 +546,7 @@ export default function Home() {
           {([
             { href: "/multiplayer", icon: Swords, color: "#FF2D78", border: "border-neon-pink/20", glow: "0 0 12px rgba(255,45,120,0.2)", delay: 0.45 },
             { href: "/profile", icon: User, color: isLoggedIn ? "#00FF88" : "rgba(255,255,255,0.4)", border: isLoggedIn ? "border-neon-green/20" : "border-white/10", glow: isLoggedIn ? "0 0 12px rgba(0,255,136,0.15)" : undefined, delay: 0.5 },
-            { href: "/room", icon: HomeIcon, color: "#00D4FF", border: "border-neon-blue/20", glow: "0 0 12px rgba(0,212,255,0.15)", delay: 0.6 },
+            // { href: "/room", icon: HomeIcon, color: "#00D4FF", border: "border-neon-blue/20", glow: "0 0 12px rgba(0,212,255,0.15)", delay: 0.6 },
             { href: "/shop", icon: Star, color: "#E040FB", border: "border-[#E040FB]/20", glow: "0 0 12px rgba(224,64,251,0.2)", delay: 0.7 },
             { href: "/collection", icon: Trophy, color: "#FFD700", border: "border-gold/20", glow: "0 0 12px rgba(255,215,0,0.2)", delay: 0.8 },
           ] as const).map((btn) => {
