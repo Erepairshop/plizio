@@ -17,6 +17,11 @@ import AuthModal from "@/components/AuthModal";
 import UsernameModal from "@/components/UsernameModal";
 import { getUsername, hasUsername } from "@/lib/username";
 import { useLang } from "@/components/LanguageProvider";
+import { getGender, type AvatarGender } from "@/lib/gender";
+import { getSkinDef, getActiveSkin } from "@/lib/skins";
+import { getFaceDef, getActiveFace } from "@/lib/faces";
+import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
+import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
 
 interface GameDef {
   id: string;
@@ -444,6 +449,19 @@ export default function Home() {
   const [dailyReward, setDailyReward] = useState<DailyRewardResult | null>(null);
   const [lastCategory, setLastCategory] = useState<string | null>(null);
 
+  // Avatar data for map marker
+  const [gender] = useState<AvatarGender>(getGender());
+  const [activeSkin] = useState(getSkinDef(getActiveSkin()));
+  const [activeFace] = useState(getFaceDef(getActiveFace()));
+  const [activeTop] = useState(() => { const id = getActive("top"); return id ? getTopDef(id) : null; });
+  const [activeBottom] = useState(() => { const id = getActive("bottom"); return id ? getBottomDef(id) : null; });
+  const [activeShoe] = useState(() => { const id = getActive("shoe"); return id ? getShoeDef(id) : null; });
+  const [activeCape] = useState(() => { const id = getActive("cape"); return id ? getCapeDef(id) : null; });
+  const [activeGlasses] = useState(() => { const id = getActive("glasses"); return id ? getGlassesDef(id) : null; });
+  const [activeGloves] = useState(() => { const id = getActive("gloves"); return id ? getGloveDef(id) : null; });
+  const [activeHat] = useState(() => { const id = getActiveHat(); return id ? getHatDef(id) : null; });
+  const [activeTrail] = useState(() => { const id = getActiveTrail(); return id ? getTrailDef(id) : null; });
+
   useEffect(() => {
     setCategories(getCategoriesWithTranslations(lang));
   }, [lang]);
@@ -527,6 +545,19 @@ export default function Home() {
         specialCount={specialCount}
         cardCount={cardCount}
         lastPlayedCategory={lastCategory}
+        avatarProps={{
+          gender,
+          activeSkin,
+          activeFace,
+          activeTop,
+          activeBottom,
+          activeShoe,
+          activeCape,
+          activeGlasses,
+          activeGloves,
+          activeHat,
+          activeTrail,
+        }}
       />
 
       {/* Top bar — nav buttons right, language switcher left */}

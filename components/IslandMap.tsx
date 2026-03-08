@@ -1,9 +1,13 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useRef, useEffect, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Link from "next/link";
 import { ChevronLeft, type LucideIcon } from "lucide-react";
+import dynamic from "next/dynamic";
+import type { AvatarCompanionProps } from "@/components/AvatarCompanion";
+
+const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
 /* ------------------------------------------------------------------ */
 /* Types                                                               */
@@ -32,6 +36,7 @@ interface IslandMapProps {
   specialCount: number;
   cardCount: number;
   lastPlayedCategory?: string | null;
+  avatarProps?: Partial<AvatarCompanionProps> | null;
 }
 
 /* ------------------------------------------------------------------ */
@@ -335,33 +340,17 @@ function GamePanel({ island, onClose }: { island: Island; onClose: () => void })
 }
 
 /* ------------------------------------------------------------------ */
-/* Avatar marker on a planet                                           */
+/* SVG glow ring under avatar (stays in SVG)                           */
 /* ------------------------------------------------------------------ */
-function AvatarMarker({ cx, cy, color }: { cx: number; cy: number; color: string }) {
+function AvatarGlow({ cx, cy, color }: { cx: number; cy: number; color: string }) {
   return (
     <motion.g
-      initial={{ opacity: 0, y: 6 }}
-      animate={{ opacity: 1, y: 0 }}
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
       transition={{ delay: 1.2, duration: 0.5 }}
     >
-      {/* Glow under avatar */}
-      <ellipse cx={cx} cy={cy + R - 2} rx={6} ry={2.5} fill={color} opacity={0.3} />
-      {/* Small avatar silhouette */}
-      <g transform={`translate(${cx}, ${cy + R - 16})`}>
-        {/* Body */}
-        <rect x={-4} y={2} width={8} height={10} rx={2} fill="#e8c9a0" opacity={0.9} />
-        {/* Head */}
-        <circle cx={0} cy={-2} r={5} fill="#e8c9a0" opacity={0.9} />
-        {/* Hair */}
-        <path d="M -5,-4 Q -5,-8 0,-8 Q 5,-8 5,-4 L 4,-3 Q 3,-6 0,-6 Q -3,-6 -4,-3 Z" fill="#4a2e10" opacity={0.85} />
-        {/* Eyes */}
-        <circle cx={-1.8} cy={-2.2} r={0.8} fill="#2a2a2a" />
-        <circle cx={1.8} cy={-2.2} r={0.8} fill="#2a2a2a" />
-        {/* Smile */}
-        <path d="M -1.5,0 Q 0,1.5 1.5,0" fill="none" stroke="#b06060" strokeWidth={0.5} />
-        {/* Outline glow */}
-        <circle cx={0} cy={0} r={12} fill="none" stroke={color} strokeWidth={0.6} opacity={0.25} />
-      </g>
+      <ellipse cx={cx} cy={cy + R - 2} rx={8} ry={3} fill={color} opacity={0.3} />
+      <circle cx={cx} cy={cy} r={14} fill="none" stroke={color} strokeWidth={0.6} opacity={0.2} />
     </motion.g>
   );
 }
@@ -369,9 +358,53 @@ function AvatarMarker({ cx, cy, color }: { cx: number; cy: number; color: string
 /* ------------------------------------------------------------------ */
 /* Main — Fullscreen Island Map                                        */
 /* ------------------------------------------------------------------ */
-export default function IslandMap({ islands, username, streak, specialCount, cardCount, lastPlayedCategory }: IslandMapProps) {
+/* ------------------------------------------------------------------ */
+/* Hook: SVG viewBox → DOM pixel position                              */
+/* ------------------------------------------------------------------ */
+function useSvgToDOM(svgRef: React.RefObject<SVGSVGElement | null>, vx: number, vy: number) {
+  const [pos, setPos] = useState<{ left: number; top: number } | null>(null);
+
+  const calc = useCallback(() => {
+    const svg = svgRef.current;
+    if (!svg) return;
+    const rect = svg.getBoundingClientRect();
+    // viewBox 0 0 500 900, xMidYMin meet
+    const scaleW = rect.width / 500;
+    const scaleH = rect.height / 900;
+    const scale = Math.min(scaleW, scaleH);
+    const renderedW = 500 * scale;
+    const renderedH = 900 * scale;
+    const offsetX = (rect.width - renderedW) / 2; // xMid
+    const offsetY = 0; // yMin
+    setPos({
+      left: rect.left + offsetX + vx * scale,
+      top: rect.top + offsetY + vy * scale,
+    });
+  }, [svgRef, vx, vy]);
+
+  useEffect(() => {
+    calc();
+    window.addEventListener("resize", calc);
+    return () => window.removeEventListener("resize", calc);
+  }, [calc]);
+
+  return pos;
+}
+
+export default function IslandMap({ islands, username, streak, specialCount, cardCount, lastPlayedCategory, avatarProps }: IslandMapProps) {
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const selectedIsland = islands.find((i) => i.id === selectedId) ?? null;
+  const svgRef = useRef<SVGSVGElement | null>(null);
+
+  // Find the target planet for the avatar
+  const targetIsland = lastPlayedCategory
+    ? islands.find((i) => i.id === lastPlayedCategory)
+    : islands[0];
+  const avatarSvgX = targetIsland?.cx ?? 0;
+  const avatarSvgY = targetIsland ? targetIsland.cy + R - 18 : 0; // sit on top of planet
+  const avatarPos = useSvgToDOM(svgRef, avatarSvgX, avatarSvgY);
+
+  const AVATAR_SIZE = 52;
 
   return (
     <div className="absolute inset-0 overflow-hidden bg-[#070e1a]" style={{ perspective: "1000px" }}>
@@ -382,6 +415,7 @@ export default function IslandMap({ islands, username, streak, specialCount, car
         transition={{ duration: 0.6, ease: "easeOut" }}
       >
         <svg
+          ref={svgRef}
           viewBox="0 0 500 900"
           preserveAspectRatio="xMidYMin meet"
           className="w-full h-full"
@@ -444,15 +478,35 @@ export default function IslandMap({ islands, username, streak, specialCount, car
             />
           ))}
 
-          {/* Avatar marker on last-played planet */}
-          {(() => {
-            const target = lastPlayedCategory
-              ? islands.find((i) => i.id === lastPlayedCategory)
-              : islands[0];
-            return target ? <AvatarMarker cx={target.cx} cy={target.cy} color={target.color} /> : null;
-          })()}
+          {/* SVG glow under avatar */}
+          {targetIsland && (
+            <AvatarGlow cx={targetIsland.cx} cy={targetIsland.cy} color={targetIsland.color} />
+          )}
         </svg>
       </motion.div>
+
+      {/* DOM overlay: real 3D avatar on the planet */}
+      {avatarProps && targetIsland && avatarPos && (
+        <motion.div
+          className="fixed pointer-events-none z-20"
+          style={{
+            left: avatarPos.left - AVATAR_SIZE / 2,
+            top: avatarPos.top - AVATAR_SIZE * 0.75,
+            width: AVATAR_SIZE,
+            height: AVATAR_SIZE,
+          }}
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ delay: 1.2, duration: 0.5 }}
+        >
+          <AvatarCompanion
+            fixed={false}
+            mood="idle"
+            passThrough={true}
+            {...avatarProps}
+          />
+        </motion.div>
+      )}
 
       <AnimatePresence>
         {selectedIsland && (
