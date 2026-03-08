@@ -145,15 +145,7 @@ export function updateBallPhysics(state: SquashGameState): SquashGameState {
     newState.ballVY = -newState.ballVY * 0.92;
   }
 
-  // Left/right wall bounces (side walls)
-  if (newState.ballX - BALL_RADIUS < FRONT_WALL_X) {
-    newState.ballX = FRONT_WALL_X + BALL_RADIUS;
-    newState.ballVX = -newState.ballVX * 0.92;
-  }
-  if (newState.ballX + BALL_RADIUS > BACK_WALL_X) {
-    newState.ballX = BACK_WALL_X - BALL_RADIUS;
-    newState.ballVX = -newState.ballVX * 0.92;
-  }
+  // No front/back wall bouncing — if paddles miss, ball goes through for scoring
 
   // Speed cap
   const speed = Math.sqrt(newState.ballVX ** 2 + newState.ballVY ** 2);
@@ -228,19 +220,37 @@ export function checkPaddleCollision(state: SquashGameState): SquashGameState {
 export function checkScoringConditions(state: SquashGameState): SquashGameState {
   const newState = { ...state };
 
-  // Ball went past back wall without hitting front → AI scores
-  if (newState.ballX > BACK_WALL_X + 50) {
+  // Ball went past player side (right) → AI scores
+  if (newState.ballX > BACK_WALL_X + BALL_RADIUS) {
     newState.aiScore++;
-    newState.gameStatus = newState.aiScore >= WINNING_SCORE ? "lost" : "serving";
-    newState.isPlayerServing = true;
+    if (newState.aiScore >= WINNING_SCORE) {
+      newState.gameStatus = "lost";
+    } else {
+      newState.gameStatus = "serving";
+      newState.isPlayerServing = true;
+      newState.serveStartTime = Date.now();
+      newState.ballX = COURT_WIDTH / 2;
+      newState.ballY = COURT_HEIGHT / 2;
+      newState.ballVX = 0;
+      newState.ballVY = 0;
+    }
     return newState;
   }
 
-  // Ball went past front wall without being hit → Player scores
-  if (newState.ballX < FRONT_WALL_X - 50) {
+  // Ball went past AI side (left) → Player scores
+  if (newState.ballX < FRONT_WALL_X - BALL_RADIUS) {
     newState.playerScore++;
-    newState.gameStatus = newState.playerScore >= WINNING_SCORE ? "won" : "serving";
-    newState.isPlayerServing = false;
+    if (newState.playerScore >= WINNING_SCORE) {
+      newState.gameStatus = "won";
+    } else {
+      newState.gameStatus = "serving";
+      newState.isPlayerServing = false;
+      newState.serveStartTime = Date.now();
+      newState.ballX = COURT_WIDTH / 2;
+      newState.ballY = COURT_HEIGHT / 2;
+      newState.ballVX = 0;
+      newState.ballVY = 0;
+    }
     return newState;
   }
 
@@ -321,11 +331,17 @@ export function processGameFrame(state: SquashGameState, playerY: number, diffic
     newState = updateAI(newState, difficulty);
   }
 
-  if (newState.gameStatus === "serving" && newState.serveStartTime) {
-    const elapsed = Date.now() - newState.serveStartTime;
-    if (elapsed > SERVE_DELAY) {
-      newState.gameStatus = "playing";
+  // Position ball near serving paddle during serve
+  if (newState.gameStatus === "serving") {
+    if (newState.isPlayerServing) {
+      newState.ballX = BACK_WALL_X - 30;
+      newState.ballY = newState.playerY + PADDLE_HEIGHT / 2;
+    } else {
+      newState.ballX = FRONT_WALL_X + 30;
+      newState.ballY = newState.aiY + PADDLE_HEIGHT / 2;
     }
+    newState.ballVX = 0;
+    newState.ballVY = 0;
   }
 
   return newState;
