@@ -624,6 +624,24 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
           </mesh>
         ))}
 
+        {/* Pockets */}
+        <mesh position={[-0.10, 0.44, 0.148]}>
+          <boxGeometry args={[0.068, 0.060, 0.006]} />
+          <meshStandardMaterial color={bodyColor} roughness={0.72} />
+        </mesh>
+        <mesh position={[-0.10, 0.44, 0.150]}>
+          <boxGeometry args={[0.071, 0.063, 0.003]} />
+          <meshStandardMaterial color={topDef?.accent || bodyColor} roughness={0.65} transparent opacity={0.5} />
+        </mesh>
+        <mesh position={[0.10, 0.44, 0.148]}>
+          <boxGeometry args={[0.068, 0.060, 0.006]} />
+          <meshStandardMaterial color={bodyColor} roughness={0.72} />
+        </mesh>
+        <mesh position={[0.10, 0.44, 0.150]}>
+          <boxGeometry args={[0.071, 0.063, 0.003]} />
+          <meshStandardMaterial color={topDef?.accent || bodyColor} roughness={0.65} transparent opacity={0.5} />
+        </mesh>
+
         {/* Belt line */}
         <mesh position={[0, 0.26, 0.02]}>
           <boxGeometry args={[(isGirl ? 0.40 : 0.43) + 0.02, 0.016, 0.27]} />
@@ -642,32 +660,40 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
           <sphereGeometry args={[0.085, 8, 6]} />
         </mesh>
 
-        {/* ── ARMS (upper + forearm, like AvatarCompanion) ── */}
+        {/* ── ARMS (matching AvatarCompanion: upper + elbow bump + forearm + hand) ── */}
         <group ref={leftArmRef} position={[0.28, 0.60, 0]} rotation={[0.12, 0, -0.15]}>
-          <mesh position={[0, -0.11, 0]} material={armMat}>
-            <cylinderGeometry args={[0.052, 0.060, 0.22, 6]} />
+          <mesh position={[0, -0.12, 0]} material={armMat}>
+            <cylinderGeometry args={[0.045, 0.052, 0.24, 6]} />
           </mesh>
-          <group ref={leftForearmRef} position={[0, -0.22, 0]}>
-            <mesh position={[0, -0.08, 0]} material={armMat}>
-              <cylinderGeometry args={[0.045, 0.052, 0.16, 6]} />
+          {/* Elbow bump */}
+          <mesh position={[0, -0.24, -0.01]} scale={[0.72, 0.52, 0.62]} material={armMat}>
+            <sphereGeometry args={[0.052, 8, 6]} />
+          </mesh>
+          <group ref={leftForearmRef} position={[0, -0.24, 0]}>
+            <mesh position={[0, -0.09, 0]} material={armMat}>
+              <cylinderGeometry args={[0.04, 0.045, 0.18, 6]} />
             </mesh>
             {gloveMat
-              ? <mesh position={[0, -0.18, 0]} material={gloveMat}><sphereGeometry args={[0.068, 8, 6]} /></mesh>
-              : <mesh position={[0, -0.18, 0]} material={armMat}><sphereGeometry args={[0.062, 8, 6]} /></mesh>
+              ? <mesh position={[0, -0.20, 0]} material={gloveMat}><sphereGeometry args={[0.065, 8, 6]} /></mesh>
+              : <mesh position={[0, -0.20, 0]} material={armMat}><sphereGeometry args={[0.058, 8, 6]} /></mesh>
             }
           </group>
         </group>
         <group ref={rightArmRef} position={[-0.28, 0.60, 0]} rotation={[0.12, 0, 0.15]}>
-          <mesh position={[0, -0.11, 0]} material={armMat}>
-            <cylinderGeometry args={[0.052, 0.060, 0.22, 6]} />
+          <mesh position={[0, -0.12, 0]} material={armMat}>
+            <cylinderGeometry args={[0.045, 0.052, 0.24, 6]} />
           </mesh>
-          <group ref={rightForearmRef} position={[0, -0.22, 0]}>
-            <mesh position={[0, -0.08, 0]} material={armMat}>
-              <cylinderGeometry args={[0.045, 0.052, 0.16, 6]} />
+          {/* Elbow bump */}
+          <mesh position={[0, -0.24, -0.01]} scale={[0.72, 0.52, 0.62]} material={armMat}>
+            <sphereGeometry args={[0.052, 8, 6]} />
+          </mesh>
+          <group ref={rightForearmRef} position={[0, -0.24, 0]}>
+            <mesh position={[0, -0.09, 0]} material={armMat}>
+              <cylinderGeometry args={[0.04, 0.045, 0.18, 6]} />
             </mesh>
             {gloveMat
-              ? <mesh position={[0, -0.18, 0]} material={gloveMat}><sphereGeometry args={[0.068, 8, 6]} /></mesh>
-              : <mesh position={[0, -0.18, 0]} material={armMat}><sphereGeometry args={[0.062, 8, 6]} /></mesh>
+              ? <mesh position={[0, -0.20, 0]} material={gloveMat}><sphereGeometry args={[0.065, 8, 6]} /></mesh>
+              : <mesh position={[0, -0.20, 0]} material={armMat}><sphereGeometry args={[0.058, 8, 6]} /></mesh>
             }
           </group>
         </group>
@@ -2903,7 +2929,7 @@ function SkyClimbPage() {
           </motion.div>
         )}
         {/* Multi death — waiting for opponent result */}
-        {gameState === "dead" && isMultiplayer && !multiResult && (
+        {gameState === "dead" && isMultiplayer && (!multiResult || multiResult.oppScore === -1) && (
           <motion.div className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm gap-5 px-6"
             initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
             <Mountain size={48} className="text-neon-pink" style={{ filter: "drop-shadow(0 0 15px rgba(255,45,120,0.5))" }} />
