@@ -7,7 +7,7 @@ import {
   Swords, Search, Clock, Trophy, ChevronLeft, Send, X,
   Loader2, Check, XCircle, Gamepad2, Users, Zap, Brain,
   Crosshair, Calculator, Shuffle, Layers, Plus, Minus,
-  Target,
+  Target, Eye, Type, Crown, BookOpen, Grid3x3, Hash,
 } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { getUsername, hasUsername, searchUsernames } from "@/lib/username";
@@ -179,11 +179,18 @@ const T = {
 const GAME_ICONS: Record<GameType, typeof Zap> = {
   quickpick: Zap,
   memoryflash: Brain,
-  reflexgrid: Crosshair,
   mathtest: Calculator,
   wordscramble: Shuffle,
   reflexrush: Target,
   numberrush: Layers,
+  spotdiff: Eye,
+  sequencerush: Hash,
+  wordhunt: Type,
+  milliomos: Crown,
+  kodex: BookOpen,
+  deutschtest: Calculator,
+  numberpath: Grid3x3,
+  minisudoku: Grid3x3,
 };
 
 type Tab = "challenge" | "active" | "history";

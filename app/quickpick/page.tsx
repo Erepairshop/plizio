@@ -12,9 +12,11 @@ import { incrementTotalGames, incrementPerfectScores, updateStats } from "@/lib/
 import MilestonePopup from "@/components/MilestonePopup";
 import { useLang } from "@/components/LanguageProvider";
 import type { Language } from "@/lib/language";
-import { submitScore, abandonMatch } from "@/lib/multiplayer";
+import { submitScore, abandonMatch, submitMixRoundScore, advanceMixRound, subscribeToMatch, type MultiplayerMatch } from "@/lib/multiplayer";
 import MultiplayerExitConfirm from "@/components/MultiplayerExitConfirm";
 import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
+import MultiplayerResult from "@/components/MultiplayerResult";
+import { getUsername } from "@/lib/username";
 
 // English versions (default/fallback)
 import generalDataEn from "@/data/quickpick/general.json";
@@ -181,7 +183,7 @@ const THEME_GRADIENTS: Record<string, string> = {
   movies: "from-red-950/30 to-rose-950/20",
 };
 
-type GameState = "theme-select" | "countdown" | "playing" | "reveal" | "result" | "reward";
+type GameState = "theme-select" | "countdown" | "playing" | "reveal" | "result" | "reward" | "multi-result" | "mix-waiting";
 
 function formatNumber(n: number): string {
   if (n >= 1_000_000_000) return `${(n / 1_000_000_000).toFixed(1)}B`;
@@ -264,7 +266,9 @@ function QuickPickPage() {
   const seed = searchParams.get("seed");
   const playerNum = searchParams.get("p"); // "1" or "2"
   const opponentName = searchParams.get("vs") || "???";
+  const mixround = searchParams.get("mixround");
   const isMultiplayer = !!(matchId && seed);
+  const isMix = !!(isMultiplayer && mixround);
 
   // Get language-specific theme data
   const THEME_DATA = useMemo(() => getThemeDataByLanguage(lang), [lang]);
@@ -281,6 +285,9 @@ function QuickPickPage() {
   const [streak, setStreak] = useState(0);
   const [scoreSubmitted, setScoreSubmitted] = useState(false);
   const [showExitConfirm, setShowExitConfirm] = useState(false);
+  const [oppFinalScore, setOppFinalScore] = useState<number | null>(null);
+  const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
+  const [mixFinished, setMixFinished] = useState(false);
   const startTimeRef = useRef<number>(0);
   const [animatedValueA, setAnimatedValueA] = useState(0);
   const [animatedValueB, setAnimatedValueB] = useState(0);
@@ -303,6 +310,39 @@ function QuickPickPage() {
     setQuestions(shuffled);
     startTimeRef.current = Date.now();
   }, [isMultiplayer, seed, THEME_DATA, questions.length]);
+
+  // Poll for opponent score when waiting (multiplayer)
+  useEffect(() => {
+    if (gameState !== "mix-waiting" || !isMultiplayer || !matchId) return;
+    if (isMix) {
+      // Mix non-finished: redirect back to multiplayer hub
+      const timer = setTimeout(() => router.push("/multiplayer"), 1500);
+      return () => clearTimeout(timer);
+    }
+    // Single match: poll every 2s for opponent done
+    const checkOpp = async () => {
+      const { supabase } = await import("@/lib/supabase/client");
+      const { data } = await supabase.from("multiplayer_matches").select("*").eq("id", matchId).single();
+      if (!data) return false;
+      const isP1 = playerNum === "1";
+      const oppDone = isP1 ? data.player2_done : data.player1_done;
+      const oppScoreVal = isP1 ? data.player2_score : data.player1_score;
+      if (oppDone && oppScoreVal !== null) {
+        setOppFinalScore(oppScoreVal);
+        setGameState("multi-result");
+        return true;
+      }
+      return false;
+    };
+    // Check immediately
+    checkOpp();
+    // Then poll
+    const interval = setInterval(async () => {
+      const done = await checkOpp();
+      if (done) clearInterval(interval);
+    }, 2000);
+    return () => clearInterval(interval);
+  }, [gameState, isMultiplayer, matchId, isMix, playerNum, router]);
 
   const startGame = (themeId: string) => {
     setSelectedTheme(themeId);
@@ -384,26 +424,78 @@ function QuickPickPage() {
         const newStreak = updateStreak();
         setStreak(newStreak);
         const finalScore = score + (correct ? 1 : 0);
-        // Save card and show reward first
-        const rarity = calculateRarity(finalScore, TOTAL_ROUNDS, newStreak, false);
-        saveCard({
-          id: generateCardId(),
-          game: "quickpick",
-          theme: selectedTheme,
-          rarity,
-          score: finalScore,
-          total: TOTAL_ROUNDS,
-          date: new Date().toISOString(),
-        });
-        incrementTotalGames();
-        if (finalScore === TOTAL_ROUNDS) incrementPerfectScores();
-        updateStats({ highestStreak: newStreak });
-        // Submit score in multiplayer
-        if (isMultiplayer && matchId && !scoreSubmitted) {
+
+        if (isMix && matchId && !scoreSubmitted) {
+          // Mix mode: submit round score, NO card save between rounds
+          setScoreSubmitted(true);
+          submitMixRoundScore(matchId, finalScore, playerNum === "1").then(async (res) => {
+            if (res.bothDone) {
+              const adv = await advanceMixRound(matchId);
+              if (adv.finished) {
+                // All mix rounds done — show multi-result then card
+                setMixFinished(true);
+                const oppScores = res.roundScores
+                  ? (playerNum === "1" ? res.roundScores.p2 : res.roundScores.p1)
+                  : [];
+                const myScores = res.roundScores
+                  ? (playerNum === "1" ? res.roundScores.p1 : res.roundScores.p2)
+                  : [];
+                let myWins = 0, oppWins = 0;
+                for (let i = 0; i < myScores.length; i++) {
+                  if (myScores[i] > (oppScores[i] ?? 0)) myWins++;
+                  else if (myScores[i] < (oppScores[i] ?? 0)) oppWins++;
+                }
+                setMyFinalScore(myWins);
+                setOppFinalScore(oppWins);
+                // Save one card for the whole mix
+                const rarity = calculateRarity(finalScore, TOTAL_ROUNDS, newStreak, false);
+                saveCard({
+                  id: generateCardId(), game: "quickpick", theme: selectedTheme,
+                  rarity, score: finalScore, total: TOTAL_ROUNDS, date: new Date().toISOString(),
+                });
+                window.dispatchEvent(new Event("plizio-cards-changed"));
+                incrementTotalGames();
+                if (finalScore === TOTAL_ROUNDS) incrementPerfectScores();
+                updateStats({ highestStreak: newStreak });
+                setGameState("multi-result");
+              } else {
+                // More rounds to play — go back to multiplayer hub
+                setGameState("mix-waiting");
+              }
+            } else {
+              // Opponent hasn't finished yet — wait
+              setGameState("mix-waiting");
+            }
+          });
+        } else if (isMultiplayer && matchId && !scoreSubmitted) {
+          // Single multiplayer match: submit score, then poll for opponent
           setScoreSubmitted(true);
           submitScore(matchId, finalScore, playerNum === "1");
+          // Save card
+          const rarity = calculateRarity(finalScore, TOTAL_ROUNDS, newStreak, false);
+          saveCard({
+            id: generateCardId(), game: "quickpick", theme: selectedTheme,
+            rarity, score: finalScore, total: TOTAL_ROUNDS, date: new Date().toISOString(),
+          });
+          window.dispatchEvent(new Event("plizio-cards-changed"));
+          incrementTotalGames();
+          if (finalScore === TOTAL_ROUNDS) incrementPerfectScores();
+          updateStats({ highestStreak: newStreak });
+          // Wait for opponent score via polling
+          setGameState("mix-waiting");
+        } else {
+          // Solo mode: save card and show reward
+          const rarity = calculateRarity(finalScore, TOTAL_ROUNDS, newStreak, false);
+          saveCard({
+            id: generateCardId(), game: "quickpick", theme: selectedTheme,
+            rarity, score: finalScore, total: TOTAL_ROUNDS, date: new Date().toISOString(),
+          });
+          window.dispatchEvent(new Event("plizio-cards-changed"));
+          incrementTotalGames();
+          if (finalScore === TOTAL_ROUNDS) incrementPerfectScores();
+          updateStats({ highestStreak: newStreak });
+          setGameState("reward");
         }
-        setGameState("reward");
       } else {
         setRound((r) => r + 1);
         setPicked(null);
@@ -744,7 +836,36 @@ function QuickPickPage() {
         )}
       </AnimatePresence>
 
-      {/* Reward Reveal - shows FIRST after game ends */}
+      {/* Mix waiting — redirect to multiplayer hub */}
+      {gameState === "mix-waiting" && (
+        <motion.div
+          className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm gap-4"
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+        >
+          <motion.div
+            className="w-8 h-8 border-2 border-neon-blue border-t-transparent rounded-full"
+            animate={{ rotate: 360 }}
+            transition={{ repeat: Infinity, duration: 1, ease: "linear" }}
+          />
+          <span className="text-white/50 text-sm font-medium">
+            {isMix ? `Round ${mixround} / ✓` : "Waiting..."}
+          </span>
+        </motion.div>
+      )}
+
+      {/* Multiplayer result — win/lose with 2 avatars */}
+      {gameState === "multi-result" && oppFinalScore !== null && (
+        <MultiplayerResult
+          myScore={myFinalScore !== null ? myFinalScore : score}
+          oppScore={oppFinalScore}
+          myName={getUsername() || "???"}
+          oppName={opponentName}
+          onContinue={() => setGameState("reward")}
+        />
+      )}
+
+      {/* Reward Reveal - shows after multi-result (or directly for solo) */}
       {gameState === "reward" && (
         <RewardReveal
           rarity={calculateRarity(score, TOTAL_ROUNDS, streak, false)}

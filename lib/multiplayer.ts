@@ -37,16 +37,27 @@ export interface MultiplayerMatch {
   mix_round_done_p2: boolean;
 }
 
-export type GameType = "quickpick" | "memoryflash" | "reflexgrid" | "mathtest" | "wordscramble" | "reflexrush" | "numberrush";
+export type GameType =
+  | "quickpick" | "memoryflash" | "mathtest" | "wordscramble"
+  | "reflexrush" | "numberrush" | "spotdiff" | "sequencerush"
+  | "wordhunt" | "milliomos" | "kodex" | "deutschtest"
+  | "numberpath" | "minisudoku";
 
 export const GAME_LABELS: Record<GameType, string> = {
   quickpick: "Quick Pick",
   memoryflash: "Memory Flash",
-  reflexgrid: "Reflex Grid",
   mathtest: "Math Test",
   wordscramble: "Word Scramble",
   reflexrush: "Reflex Rush",
   numberrush: "Number Rush",
+  spotdiff: "Spot Diff",
+  sequencerush: "Sequence Rush",
+  wordhunt: "Word Hunt",
+  milliomos: "Milliomos",
+  kodex: "Kodex",
+  deutschtest: "Deutsch Test",
+  numberpath: "Number Path",
+  minisudoku: "Mini Sudoku",
 };
 
 // Games that have level-based difficulty
