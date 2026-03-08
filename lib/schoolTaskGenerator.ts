@@ -684,246 +684,83 @@ function isVisualTopicKey(key: string): boolean {
   return VISUAL_TOPIC_KEYS.has(key);
 }
 
-function generateVisualBlock(
-  topicKey: string,
-  topicName: string,
-  blockIdx: number,
-): SchoolTaskBlock {
+// Helper: generate one visual sub-question with random params
+function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): SubQuestion {
+  const sfx = `${blockIdx}_${subIdx}`;
   switch (topicKey) {
     case 'zeichnen': {
       const targetLength = [3, 4, 5, 6, 7, 8, 9, 10][rnd(0, 7)];
-      return {
-        id: `block_visual_zeichnen_${blockIdx}`,
-        type: 'visual_zeichnen',
-        title: topicName,
-        totalPoints: 1,
-        subQuestions: [{
-          id: `vis_z_${blockIdx}`,
-          answer: targetLength,
-          points: 1,
-          visualType: 'zeichnen',
-          visualData: { type: 'zeichnen', params: { targetLength, unit: 'cm' } },
-        }],
-        data: { targetLength, unit: 'cm' } as VisualZeichnenData,
-      };
+      return { id: `vis_z_${sfx}`, answer: targetLength, points: 1, visualType: 'zeichnen',
+        visualData: { type: 'zeichnen', params: { targetLength, unit: 'cm' } } };
     }
     case 'messen': {
       const targetLength = [3, 4, 5, 6, 7, 8, 9, 10, 11, 12][rnd(0, 9)];
-      return {
-        id: `block_visual_messen_${blockIdx}`,
-        type: 'visual_messen',
-        title: topicName,
-        totalPoints: 1,
-        subQuestions: [{
-          id: `vis_m_${blockIdx}`,
-          answer: targetLength,
-          points: 1,
-          visualType: 'messen',
-          visualData: { type: 'messen', params: { targetLength, unit: 'cm' } },
-        }],
-        data: { targetLength, unit: 'cm' } as VisualMessenData,
-      };
+      return { id: `vis_m_${sfx}`, answer: targetLength, points: 1, visualType: 'messen',
+        visualData: { type: 'messen', params: { targetLength, unit: 'cm' } } };
     }
     case 'uhrzeit': {
       const targetHour = rnd(1, 12);
       const targetMinute = [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55][rnd(0, 11)];
-      return {
-        id: `block_visual_uhrzeit_${blockIdx}`,
-        type: 'visual_uhrzeit',
-        title: topicName,
-        totalPoints: 1,
-        subQuestions: [{
-          id: `vis_u_${blockIdx}`,
-          answer: `${targetHour}:${targetMinute.toString().padStart(2, '0')}`,
-          points: 1,
-          visualType: 'uhrzeit',
-          visualData: { type: 'uhrzeit', params: { targetHour, targetMinute } },
-        }],
-        data: { targetHour, targetMinute } as VisualUhrzeitData,
-      };
+      return { id: `vis_u_${sfx}`, answer: `${targetHour}:${targetMinute.toString().padStart(2, '0')}`, points: 1,
+        visualType: 'uhrzeit', visualData: { type: 'uhrzeit', params: { targetHour, targetMinute } } };
     }
     case 'grid_area': {
-      const w = rnd(3, 7);
-      const h = rnd(2, 5);
+      const w = rnd(3, 7); const h = rnd(2, 5);
       const mode = Math.random() > 0.5 ? 'area' : 'perimeter';
-      const answer = mode === 'area' ? w * h : 2 * (w + h);
-      return {
-        id: `block_visual_grid_area_${blockIdx}`,
-        type: 'visual_grid_area',
-        title: topicName,
-        totalPoints: 1,
-        subQuestions: [{
-          id: `vis_ga_${blockIdx}`,
-          answer,
-          points: 1,
-          visualType: 'grid-area',
-          visualData: { type: 'grid-area', params: { width: w, height: h, mode } },
-        }],
-        data: { width: w, height: h, mode } as VisualGridAreaData,
-      };
+      return { id: `vis_ga_${sfx}`, answer: mode === 'area' ? w * h : 2 * (w + h), points: 1,
+        visualType: 'grid-area', visualData: { type: 'grid-area', params: { width: w, height: h, mode } } };
     }
     case 'place_value': {
       const digits = rnd(4, 6);
-      const min = Math.pow(10, digits - 1);
-      const max = Math.pow(10, digits) - 1;
-      const number = rnd(min, max);
-      return {
-        id: `block_visual_place_value_${blockIdx}`,
-        type: 'visual_place_value',
-        title: topicName,
-        totalPoints: 1,
-        subQuestions: [{
-          id: `vis_pv_${blockIdx}`,
-          answer: number,
-          points: 1,
-          visualType: 'place-value',
-          visualData: { type: 'place-value', params: { number, digits } },
-        }],
-        data: { number, digits } as VisualPlaceValueData,
-      };
+      const number = rnd(Math.pow(10, digits - 1), Math.pow(10, digits) - 1);
+      return { id: `vis_pv_${sfx}`, answer: number, points: 1,
+        visualType: 'place-value', visualData: { type: 'place-value', params: { number, digits } } };
     }
     case 'fraction_pizza': {
       const denominator = [2, 3, 4, 6, 8][rnd(0, 4)];
       const numerator = rnd(1, denominator - 1);
-      return {
-        id: `block_visual_fraction_${blockIdx}`,
-        type: 'visual_fraction_pizza',
-        title: topicName,
-        totalPoints: 1,
-        subQuestions: [{
-          id: `vis_fp_${blockIdx}`,
-          answer: `${numerator}/${denominator}`,
-          points: 1,
-          visualType: 'fraction-pizza',
-          visualData: { type: 'fraction-pizza', params: { numerator, denominator, operation: 'identify' } },
-        }],
-        data: { numerator, denominator, operation: 'identify' } as VisualFractionPizzaData,
-      };
+      return { id: `vis_fp_${sfx}`, answer: `${numerator}/${denominator}`, points: 1,
+        visualType: 'fraction-pizza', visualData: { type: 'fraction-pizza', params: { numerator, denominator, operation: 'identify' } } };
     }
     case 'symmetry': {
-      const gridSize = rnd(4, 6);
-      const pattern: number[][] = [];
+      const gridSize = rnd(4, 6); const pattern: number[][] = [];
       for (let r = 0; r < gridSize; r++) {
-        const row: number[] = [];
-        const half = Math.ceil(gridSize / 2);
+        const row: number[] = []; const half = Math.ceil(gridSize / 2);
         for (let c = 0; c < half; c++) row.push(Math.random() > 0.5 ? 1 : 0);
         for (let c = half; c < gridSize; c++) row.push(row[gridSize - 1 - c]);
         pattern.push(row);
       }
-      return {
-        id: `block_visual_symmetry_${blockIdx}`,
-        type: 'visual_symmetry',
-        title: topicName,
-        totalPoints: 1,
-        subQuestions: [{
-          id: `vis_sym_${blockIdx}`,
-          answer: 'symmetric',
-          points: 1,
-          visualType: 'symmetry',
-          visualData: { type: 'symmetry', params: { gridSize, pattern } },
-        }],
-        data: { gridSize, pattern } as VisualSymmetryData,
-      };
+      return { id: `vis_sym_${sfx}`, answer: 'symmetric', points: 1,
+        visualType: 'symmetry', visualData: { type: 'symmetry', params: { gridSize, pattern } } };
     }
     case 'sequence': {
-      const start = rnd(2, 20);
-      const step = rnd(2, 8);
-      const len = 8;
-      const blanks = 3;
+      const start = rnd(2, 20); const step = rnd(2, 8); const len = 8; const blanks = 3;
       const sequence: number[] = [];
       for (let i = 0; i < len; i++) sequence.push(start + i * step);
-      return {
-        id: `block_visual_sequence_${blockIdx}`,
-        type: 'visual_sequence',
-        title: topicName,
-        totalPoints: 1,
-        subQuestions: [{
-          id: `vis_seq_${blockIdx}`,
-          answer: sequence.slice(len - blanks).join(','),
-          points: 1,
-          visualType: 'sequence',
-          visualData: { type: 'sequence', params: { sequence, rule: `+${step}`, blanks } },
-        }],
-        data: { sequence, rule: `+${step}`, blanks } as VisualSequenceData,
-      };
+      return { id: `vis_seq_${sfx}`, answer: sequence.slice(len - blanks).join(','), points: 1,
+        visualType: 'sequence', visualData: { type: 'sequence', params: { sequence, rule: `+${step}`, blanks } } };
     }
     case 'timeline': {
-      const startHour = rnd(7, 10);
-      const endHour = startHour + rnd(3, 6);
-      const events = [
-        { time: startHour, label: 'Start' },
-        { time: startHour + 1, label: 'Pause' },
-        { time: endHour, label: 'Ende' },
-      ];
-      return {
-        id: `block_visual_timeline_${blockIdx}`,
-        type: 'visual_timeline',
-        title: topicName,
-        totalPoints: 1,
-        subQuestions: [{
-          id: `vis_tl_${blockIdx}`,
-          answer: endHour - startHour,
-          points: 1,
-          visualType: 'timeline',
-          visualData: { type: 'timeline', params: { startHour, endHour, events } },
-        }],
-        data: { startHour, endHour, events } as VisualTimelineData,
-      };
+      const startHour = rnd(7, 10); const endHour = startHour + rnd(3, 6);
+      const events = [{ time: startHour, label: 'Start' }, { time: startHour + 1, label: 'Pause' }, { time: endHour, label: 'Ende' }];
+      return { id: `vis_tl_${sfx}`, answer: endHour - startHour, points: 1,
+        visualType: 'timeline', visualData: { type: 'timeline', params: { startHour, endHour, events } } };
     }
     case 'number_line': {
-      const step = [10, 100, 1000][rnd(0, 2)];
-      const base = rnd(1, 9) * step;
-      const offset = rnd(1, step - 1);
-      const target = base + offset;
-      const roundedTarget = Math.round(target / step) * step;
-      return {
-        id: `block_visual_number_line_${blockIdx}`,
-        type: 'visual_number_line',
-        title: topicName,
-        totalPoints: 1,
-        subQuestions: [{
-          id: `vis_nl_${blockIdx}`,
-          answer: roundedTarget,
-          points: 1,
-          visualType: 'number-line',
-          visualData: { type: 'number-line', params: { min: base, max: base + step, target, mode: 'round' } },
-        }],
-        data: { min: base, max: base + step, target, mode: 'round' } as VisualNumberLineData,
-      };
+      const step = [10, 100, 1000][rnd(0, 2)]; const base = rnd(1, 9) * step;
+      const offset = rnd(1, step - 1); const target = base + offset;
+      return { id: `vis_nl_${sfx}`, answer: Math.round(target / step) * step, points: 1,
+        visualType: 'number-line', visualData: { type: 'number-line', params: { min: base, max: base + step, target, mode: 'round' } } };
     }
     case 'angle': {
       const targetAngle = [30, 45, 60, 90, 120, 135, 150][rnd(0, 6)];
-      return {
-        id: `block_visual_angle_${blockIdx}`,
-        type: 'visual_angle',
-        title: topicName,
-        totalPoints: 1,
-        subQuestions: [{
-          id: `vis_ang_${blockIdx}`,
-          answer: targetAngle,
-          points: 1,
-          visualType: 'angle',
-          visualData: { type: 'angle', params: { targetAngle } },
-        }],
-        data: { targetAngle } as VisualAngleData,
-      };
+      return { id: `vis_ang_${sfx}`, answer: targetAngle, points: 1,
+        visualType: 'angle', visualData: { type: 'angle', params: { targetAngle } } };
     }
     case 'circle_draw': {
       const radius = rnd(2, 6);
-      return {
-        id: `block_visual_circle_${blockIdx}`,
-        type: 'visual_circle_draw',
-        title: topicName,
-        totalPoints: 1,
-        subQuestions: [{
-          id: `vis_cir_${blockIdx}`,
-          answer: radius,
-          points: 1,
-          visualType: 'circle-draw',
-          visualData: { type: 'circle-draw', params: { radius } },
-        }],
-        data: { radius } as VisualCircleDrawData,
-      };
+      return { id: `vis_cir_${sfx}`, answer: radius, points: 1,
+        visualType: 'circle-draw', visualData: { type: 'circle-draw', params: { radius } } };
     }
     case 'money': {
       const items = [
@@ -932,25 +769,42 @@ function generateVisualBlock(
         { name: 'Milch', price: rnd(80, 200) / 100 },
       ].slice(0, rnd(2, 3));
       const total = Math.round(items.reduce((s, i) => s + i.price, 0) * 100) / 100;
-      const budget = Math.ceil(total);
-      return {
-        id: `block_visual_money_${blockIdx}`,
-        type: 'visual_money',
-        title: topicName,
-        totalPoints: 1,
-        subQuestions: [{
-          id: `vis_mon_${blockIdx}`,
-          answer: total,
-          points: 1,
-          visualType: 'money',
-          visualData: { type: 'money', params: { items, budget } },
-        }],
-        data: { items, budget } as VisualMoneyData,
-      };
+      return { id: `vis_mon_${sfx}`, answer: total, points: 1,
+        visualType: 'money', visualData: { type: 'money', params: { items, budget: Math.ceil(total) } } };
     }
     default:
-      return generateVisualBlock('zeichnen', topicName, blockIdx);
+      return generateVisualSub('zeichnen', blockIdx, subIdx);
   }
+}
+
+// Map topicKey → block type
+const VISUAL_TOPIC_TO_TYPE: Record<string, TaskType> = {
+  zeichnen: 'visual_zeichnen', messen: 'visual_messen', uhrzeit: 'visual_uhrzeit',
+  grid_area: 'visual_grid_area', place_value: 'visual_place_value', fraction_pizza: 'visual_fraction_pizza',
+  symmetry: 'visual_symmetry', sequence: 'visual_sequence', timeline: 'visual_timeline',
+  number_line: 'visual_number_line', angle: 'visual_angle', circle_draw: 'visual_circle_draw', money: 'visual_money',
+};
+
+function generateVisualBlock(
+  topicKey: string,
+  topicName: string,
+  blockIdx: number,
+): SchoolTaskBlock {
+  const SUB_COUNT = 3;
+  const subs: SubQuestion[] = [];
+  for (let i = 0; i < SUB_COUNT; i++) {
+    subs.push(generateVisualSub(topicKey, blockIdx, i));
+  }
+  // data = first sub's params (backwards compat for SchoolTaskBlock rendering)
+  const firstParams = subs[0].visualData?.params ?? {};
+  return {
+    id: `block_visual_${topicKey}_${blockIdx}`,
+    type: VISUAL_TOPIC_TO_TYPE[topicKey] || 'visual_zeichnen',
+    title: topicName,
+    totalPoints: SUB_COUNT,
+    subQuestions: subs,
+    data: firstParams as any,
+  };
 }
 
 // ─── AUFGABEN GENERATOR (topic-driven) ───────────────────────────────────────
