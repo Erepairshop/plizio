@@ -255,11 +255,12 @@ function PingPongPage() {
 
     const ai = AI_CONFIG[difficulty];
 
-    // ─── Table layout constants (recalc each frame for responsiveness) ───
-    // All game coords are 0..1 normalized, mapped onto the TABLE area (not full canvas)
-    const TABLE_PAD_X = 0.08; // % of canvas width for side margin
-    const TABLE_PAD_TOP = 0.02;
-    const TABLE_PAD_BOT = 0.02;
+    // ─── Table layout — vertical table centered on screen ───
+    // The table is PORTRAIT oriented: long side = screen height
+    // Side margins are wider so the table looks like a real table
+    const TABLE_PAD_X = 0.13;  // side margins (wider = narrower table)
+    const TABLE_PAD_TOP = 0.03;
+    const TABLE_PAD_BOT = 0.03;
 
     const tbl = () => {
       const w = W(), h = H();
@@ -654,48 +655,34 @@ function PingPongPage() {
         ctx.fill();
       }
 
-      // ─── Score display — badges in corners ───
-      const badgeR = Math.max(16, Math.min(24, w * 0.055));
+      // ─── Score display — badges on left & right of net ───
+      const badgeR = Math.max(18, Math.min(28, tL * 0.4));
+      const netCY = netY;
       ctx.textAlign = "center";
       ctx.textBaseline = "middle";
 
-      // Player score badge (bottom-left)
-      const pBadgeX = tL - badgeR - 4;
-      const pBadgeY = tB - badgeR - 4;
-      if (pBadgeX > badgeR) {
+      const drawBadge = (bx: number, by: number, score: number, color: string) => {
+        // White circle with shadow
         ctx.fillStyle = "#FFF";
-        ctx.shadowColor = "rgba(0,0,0,0.15)";
-        ctx.shadowBlur = 4;
+        ctx.shadowColor = "rgba(0,0,0,0.2)";
+        ctx.shadowBlur = 6;
         ctx.beginPath();
-        ctx.arc(pBadgeX, pBadgeY, badgeR, 0, Math.PI * 2);
+        ctx.arc(bx, by, badgeR, 0, Math.PI * 2);
         ctx.fill();
         ctx.shadowBlur = 0;
         ctx.strokeStyle = "#ddd";
         ctx.lineWidth = 1.5;
         ctx.stroke();
-        ctx.fillStyle = "#D42020";
-        ctx.font = `bold ${Math.round(badgeR * 0.9)}px system-ui, sans-serif`;
-        ctx.fillText(String(playerScoreRef.current), pBadgeX, pBadgeY + 1);
-      }
+        // Score number
+        ctx.fillStyle = color;
+        ctx.font = `bold ${Math.round(badgeR * 0.85)}px system-ui, sans-serif`;
+        ctx.fillText(String(score), bx, by + 1);
+      };
 
-      // AI score badge (top-right)
-      const aBadgeX = tR + badgeR + 4;
-      const aBadgeY = tT + badgeR + 4;
-      if (aBadgeX < w - badgeR) {
-        ctx.fillStyle = "#FFF";
-        ctx.shadowColor = "rgba(0,0,0,0.15)";
-        ctx.shadowBlur = 4;
-        ctx.beginPath();
-        ctx.arc(aBadgeX, aBadgeY, badgeR, 0, Math.PI * 2);
-        ctx.fill();
-        ctx.shadowBlur = 0;
-        ctx.strokeStyle = "#ddd";
-        ctx.lineWidth = 1.5;
-        ctx.stroke();
-        ctx.fillStyle = "#2090D0";
-        ctx.font = `bold ${Math.round(badgeR * 0.9)}px system-ui, sans-serif`;
-        ctx.fillText(String(aiScoreRef.current), aBadgeX, aBadgeY + 1);
-      }
+      // Player score (left side, below net)
+      drawBadge(tL / 2, netCY + badgeR * 1.8, playerScoreRef.current, "#D42020");
+      // AI score (right side, above net)
+      drawBadge(tR + (w - tR) / 2, netCY - badgeR * 1.8, aiScoreRef.current, "#2090D0");
 
       animFrameRef.current = requestAnimationFrame(loop);
     };
@@ -722,14 +709,16 @@ function PingPongPage() {
 
   return (
     <div className="min-h-[100dvh] flex flex-col relative overflow-hidden" style={{ background: "#C4A67A" }}>
-      {/* Header */}
-      <div className="flex items-center justify-between px-4 py-3 relative z-10">
-        <Link href="/" className="w-8 h-8 flex items-center justify-center rounded-full bg-black/10 text-black/50 hover:bg-black/20 transition-colors">
-          <ChevronLeft size={16} />
-        </Link>
-        <h1 className="text-black/70 font-bold text-sm">{t.title}</h1>
-        <div className="w-8" />
-      </div>
+      {/* Header — hidden during playing for max table space */}
+      {screen !== "playing" && (
+        <div className="flex items-center justify-between px-4 py-3 relative z-10">
+          <Link href="/" className="w-8 h-8 flex items-center justify-center rounded-full bg-black/10 text-black/50 hover:bg-black/20 transition-colors">
+            <ChevronLeft size={16} />
+          </Link>
+          <h1 className="text-black/70 font-bold text-sm">{t.title}</h1>
+          <div className="w-8" />
+        </div>
+      )}
 
       <AnimatePresence>
         {/* ── MENU ─────────────────────────────────────── */}
