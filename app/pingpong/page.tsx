@@ -101,8 +101,7 @@ const T = {
 
 // ─── Game Constants ──────────────────────────────────────────
 const WIN_SCORE = 11;
-const PADDLE_HEIGHT = 12;
-const BALL_RADIUS = 7;
+const BALL_RADIUS = 8;
 const SERVE_DELAY = 800; // ms before ball launches after point
 
 // AI difficulty settings
@@ -255,11 +254,25 @@ function PingPongPage() {
     const H = () => canvas.height / (window.devicePixelRatio || 1);
 
     const ai = AI_CONFIG[difficulty];
-    const paddleW = () => Math.max(40, Math.min(70, W() * 0.14)); // round paddle hit width
 
-    // Game state
+    // ─── Table layout constants (recalc each frame for responsiveness) ───
+    // All game coords are 0..1 normalized, mapped onto the TABLE area (not full canvas)
+    const TABLE_PAD_X = 0.08; // % of canvas width for side margin
+    const TABLE_PAD_TOP = 0.02;
+    const TABLE_PAD_BOT = 0.02;
+
+    const tbl = () => {
+      const w = W(), h = H();
+      const tL = w * TABLE_PAD_X;
+      const tR = w * (1 - TABLE_PAD_X);
+      const tT = h * TABLE_PAD_TOP;
+      const tB = h * (1 - TABLE_PAD_BOT);
+      return { tL, tR, tT, tB, tW: tR - tL, tH: tB - tT, w, h };
+    };
+
+    // Game state — all coords in 0..1 (mapped to TABLE area)
     const game: GameState = {
-      playerX: 0.5, // 0..1 normalized
+      playerX: 0.5,
       aiX: 0.5,
       aiTargetX: 0.5,
       ballX: 0.5,
@@ -277,10 +290,13 @@ function PingPongPage() {
     };
     gameRef.current = game;
 
+    const PADDLE_Y_PLAYER = 0.88; // normalized Y on table
+    const PADDLE_Y_AI = 0.12;
+
     // Reset ball for serve
     const resetBall = (playerServes: boolean) => {
       game.ballX = 0.5;
-      game.ballY = playerServes ? 0.85 : 0.15;
+      game.ballY = playerServes ? 0.75 : 0.25;
       game.ballVX = 0;
       game.ballVY = 0;
       game.ballSpeed = 0;
@@ -291,7 +307,7 @@ function PingPongPage() {
     };
 
     const launchBall = () => {
-      const baseSpeed = 0.008 + (difficulty === "hard" ? 0.002 : difficulty === "medium" ? 0.001 : 0);
+      const baseSpeed = 0.007 + (difficulty === "hard" ? 0.002 : difficulty === "medium" ? 0.001 : 0);
       game.ballSpeed = baseSpeed;
       const angle = (Math.random() - 0.5) * 0.6;
       game.ballVX = Math.sin(angle) * game.ballSpeed;
@@ -299,25 +315,9 @@ function PingPongPage() {
       game.serving = false;
     };
 
-    // Spawn particles
-    const spawnParticles = (x: number, y: number, color: string, count: number) => {
-      for (let i = 0; i < count; i++) {
-        const angle = Math.random() * Math.PI * 2;
-        const speed = 0.5 + Math.random() * 2;
-        game.particles.push({
-          x: x * W(), y: y * H(),
-          vx: Math.cos(angle) * speed,
-          vy: Math.sin(angle) * speed,
-          life: 1, maxLife: 0.3 + Math.random() * 0.4,
-          color,
-        });
-      }
-    };
-
     // Score point
     const scorePoint = (playerScored: boolean) => {
       if (game.gameOver) return;
-      spawnParticles(game.ballX, game.ballY, playerScored ? "#00FF88" : "#FF2D78", 15);
 
       if (playerScored) {
         playerScoreRef.current++;
@@ -330,7 +330,6 @@ function PingPongPage() {
       const ps = playerScoreRef.current;
       const as_ = aiScoreRef.current;
 
-      // Win check: first to 11, must lead by 2 if deuce (both >= 10)
       const deuceRule = ps >= 10 && as_ >= 10;
       if ((ps >= WIN_SCORE || as_ >= WIN_SCORE) && (!deuceRule || Math.abs(ps - as_) >= 2)) {
         game.gameOver = true;
@@ -338,16 +337,17 @@ function PingPongPage() {
         return;
       }
 
-      resetBall(!playerScored); // loser serves
+      resetBall(!playerScored);
     };
 
-    // Player input
+    // Player input — maps touch X to table-relative 0..1
     let playerTargetX = 0.5;
     const handlePointer = (e: PointerEvent | TouchEvent) => {
       const rect = canvas.getBoundingClientRect();
       const clientX = "touches" in e ? e.touches[0]?.clientX ?? 0 : (e as PointerEvent).clientX;
-      playerTargetX = (clientX - rect.left) / rect.width;
-      playerTargetX = Math.max(0, Math.min(1, playerTargetX));
+      const { tL, tW } = tbl();
+      const canvasX = (clientX - rect.left) / rect.width * W();
+      playerTargetX = Math.max(0.05, Math.min(0.95, (canvasX - tL) / tW));
     };
     canvas.addEventListener("pointermove", handlePointer);
     canvas.addEventListener("pointerdown", handlePointer);
@@ -367,22 +367,18 @@ function PingPongPage() {
     let lastTime = performance.now();
 
     const loop = (now: number) => {
-      const dt = Math.min((now - lastTime) / 16.67, 3); // cap delta
+      const dt = Math.min((now - lastTime) / 16.67, 3);
       lastTime = now;
 
-      const w = W();
-      const h = H();
-      const pw = paddleW();
-      const halfPw = pw / w / 2;
-      const ballR = BALL_RADIUS / w;
-      const ballRY = BALL_RADIUS / h;
-      const paddleH = PADDLE_HEIGHT / h;
-      const playerPaddleY = 0.9;
-      const aiPaddleY = 0.1;
+      const { tL, tR, tT, tB, tW, tH, w, h } = tbl();
 
-      // Keyboard input
-      if (keys.has("ArrowLeft") || keys.has("a")) playerTargetX = Math.max(0, playerTargetX - 0.02 * dt);
-      if (keys.has("ArrowRight") || keys.has("d")) playerTargetX = Math.min(1, playerTargetX + 0.02 * dt);
+      // Paddle collision radius in normalized coords
+      const paddleRadius = Math.max(20, Math.min(32, w * 0.08));
+      const hitR = paddleRadius / tW; // normalized hit radius
+
+      // Keyboard
+      if (keys.has("ArrowLeft") || keys.has("a")) playerTargetX = Math.max(0.05, playerTargetX - 0.02 * dt);
+      if (keys.has("ArrowRight") || keys.has("d")) playerTargetX = Math.min(0.95, playerTargetX + 0.02 * dt);
 
       // Smooth player paddle
       game.playerX += (playerTargetX - game.playerX) * Math.min(1, 0.25 * dt);
@@ -390,10 +386,10 @@ function PingPongPage() {
       // AI logic
       if (!game.serving || !game.playerServes) {
         const predictedX = game.ballVY < 0
-          ? game.ballX + game.ballVX * ((game.ballY - aiPaddleY) / Math.max(0.001, -game.ballVY))
-            + (Math.random() - 0.5) * ai.predictError / w
+          ? game.ballX + game.ballVX * ((game.ballY - PADDLE_Y_AI) / Math.max(0.001, -game.ballVY))
+            + (Math.random() - 0.5) * ai.predictError / tW
           : game.ballX;
-        const targetX = Math.max(0, Math.min(1, predictedX + (Math.random() - 0.5) * ai.errorRange));
+        const targetX = Math.max(0.05, Math.min(0.95, predictedX + (Math.random() - 0.5) * ai.errorRange));
         game.aiTargetX += (targetX - game.aiTargetX) * ai.reactionDelay * dt;
         game.aiX += (game.aiTargetX - game.aiX) * ai.speed * dt;
       }
@@ -403,241 +399,303 @@ function PingPongPage() {
         launchBall();
       }
 
-      // Ball physics
+      // Ball physics (all in 0..1 table-normalized coords)
+      const ballR = (BALL_RADIUS + 1) / tW;
+      const ballRY = (BALL_RADIUS + 1) / tH;
+
       if (!game.serving && !game.gameOver) {
         game.ballX += game.ballVX * dt;
         game.ballY += game.ballVY * dt;
 
-        // Wall bounce (left/right)
-        if (game.ballX - ballR < 0) { game.ballX = ballR; game.ballVX = Math.abs(game.ballVX); }
-        if (game.ballX + ballR > 1) { game.ballX = 1 - ballR; game.ballVX = -Math.abs(game.ballVX); }
+        // Wall bounce
+        if (game.ballX < ballR) { game.ballX = ballR; game.ballVX = Math.abs(game.ballVX); }
+        if (game.ballX > 1 - ballR) { game.ballX = 1 - ballR; game.ballVX = -Math.abs(game.ballVX); }
 
         // Player paddle collision (bottom)
-        if (game.ballVY > 0 && game.ballY + ballRY >= playerPaddleY - paddleH / 2 && game.ballY + ballRY <= playerPaddleY + paddleH) {
-          const padL = game.playerX - halfPw;
-          const padR = game.playerX + halfPw;
-          if (game.ballX >= padL - ballR && game.ballX <= padR + ballR) {
-            const hitPos = (game.ballX - game.playerX) / halfPw; // -1 to 1
-            const angle = hitPos * 0.7; // max ±0.7 radians
-            const speedBoost = Math.min(game.ballSpeed * 1.05, 0.02);
-            game.ballSpeed = speedBoost;
+        if (game.ballVY > 0 && game.ballY + ballRY >= PADDLE_Y_PLAYER && game.ballY - ballRY <= PADDLE_Y_PLAYER + hitR) {
+          const dx = game.ballX - game.playerX;
+          if (Math.abs(dx) <= hitR + ballR) {
+            const hitPos = dx / hitR;
+            const angle = hitPos * 0.7;
+            game.ballSpeed = Math.min(game.ballSpeed * 1.05, 0.018);
             game.ballVX = Math.sin(angle) * game.ballSpeed;
             game.ballVY = -Math.cos(angle) * game.ballSpeed;
-            game.ballY = playerPaddleY - paddleH / 2 - ballRY;
+            game.ballY = PADDLE_Y_PLAYER - ballRY;
             game.rallyCount++;
-            spawnParticles(game.ballX, game.ballY, "#00D4FF", 5);
           }
         }
 
         // AI paddle collision (top)
-        if (game.ballVY < 0 && game.ballY - ballRY <= aiPaddleY + paddleH / 2 && game.ballY - ballRY >= aiPaddleY - paddleH) {
-          const padL = game.aiX - halfPw;
-          const padR = game.aiX + halfPw;
-          if (game.ballX >= padL - ballR && game.ballX <= padR + ballR) {
-            const hitPos = (game.ballX - game.aiX) / halfPw;
+        if (game.ballVY < 0 && game.ballY - ballRY <= PADDLE_Y_AI && game.ballY + ballRY >= PADDLE_Y_AI - hitR) {
+          const dx = game.ballX - game.aiX;
+          if (Math.abs(dx) <= hitR + ballR) {
+            const hitPos = dx / hitR;
             const angle = hitPos * 0.7;
-            const speedBoost = Math.min(game.ballSpeed * 1.05, 0.02);
-            game.ballSpeed = speedBoost;
+            game.ballSpeed = Math.min(game.ballSpeed * 1.05, 0.018);
             game.ballVX = Math.sin(angle) * game.ballSpeed;
             game.ballVY = Math.cos(angle) * game.ballSpeed;
-            game.ballY = aiPaddleY + paddleH / 2 + ballRY;
+            game.ballY = PADDLE_Y_AI + ballRY;
             game.rallyCount++;
-            spawnParticles(game.ballX, game.ballY, "#FF2D78", 5);
           }
         }
 
-        // Score (ball goes past paddles)
-        if (game.ballY < -0.05) scorePoint(true); // player scored
-        if (game.ballY > 1.05) scorePoint(false); // AI scored
+        // Score
+        if (game.ballY < -0.05) scorePoint(true);
+        if (game.ballY > 1.05) scorePoint(false);
       }
 
-      // ─── Render ────────────────────────────────────────
+      // ═══════════════════════════════════════════════════════
+      //  R E N D E R
+      // ═══════════════════════════════════════════════════════
       ctx.clearRect(0, 0, w, h);
 
-      // Background — warm beige
-      ctx.fillStyle = "#D4B896";
+      // ─── Background — warm wood texture ───
+      const bgGrad = ctx.createLinearGradient(0, 0, 0, h);
+      bgGrad.addColorStop(0, "#C8A46E");
+      bgGrad.addColorStop(0.5, "#D4B07A");
+      bgGrad.addColorStop(1, "#BF9A62");
+      ctx.fillStyle = bgGrad;
       ctx.fillRect(0, 0, w, h);
 
-      // Table dimensions
-      const tableMarginX = w * 0.12;
-      const tableMarginY = h * 0.12;
-      const tL = tableMarginX;
-      const tR = w - tableMarginX;
-      const tT = tableMarginY;
-      const tB = h - tableMarginY;
-      const tW = tR - tL;
-      const tH = tB - tT;
+      // Wood grain lines
+      ctx.strokeStyle = "rgba(0,0,0,0.04)";
+      ctx.lineWidth = 1;
+      for (let i = 0; i < h; i += 12) {
+        ctx.beginPath();
+        ctx.moveTo(0, i + Math.sin(i * 0.05) * 3);
+        ctx.lineTo(w, i + Math.sin(i * 0.05 + 2) * 3);
+        ctx.stroke();
+      }
 
-      // Table shadow
-      ctx.fillStyle = "rgba(0,0,0,0.12)";
-      ctx.fillRect(tL + 4, tT + 4, tW, tH);
-
-      // Table surface — dark green
-      ctx.fillStyle = "#1B7A2B";
-      ctx.fillRect(tL, tT, tW, tH);
-
-      // Table border — black
-      ctx.strokeStyle = "#111";
-      ctx.lineWidth = 3;
-      ctx.strokeRect(tL, tT, tW, tH);
-
-      // White center line (vertical)
-      ctx.strokeStyle = "#FFFFFF";
-      ctx.lineWidth = 2.5;
+      // ─── Table shadow ───
+      ctx.fillStyle = "rgba(0,0,0,0.15)";
+      const shOff = 5;
       ctx.beginPath();
-      ctx.moveTo(w / 2, tT);
-      ctx.lineTo(w / 2, tB);
+      ctx.roundRect(tL + shOff, tT + shOff, tW, tH, 4);
+      ctx.fill();
+
+      // ─── Table surface — rich green with subtle gradient ───
+      const tableGrad = ctx.createLinearGradient(tL, tT, tL, tB);
+      tableGrad.addColorStop(0, "#1A7A28");
+      tableGrad.addColorStop(0.5, "#1E8830");
+      tableGrad.addColorStop(1, "#1A7A28");
+      ctx.fillStyle = tableGrad;
+      ctx.beginPath();
+      ctx.roundRect(tL, tT, tW, tH, 4);
+      ctx.fill();
+
+      // Table border — thick dark edge
+      ctx.strokeStyle = "#0D3D12";
+      ctx.lineWidth = 4;
+      ctx.beginPath();
+      ctx.roundRect(tL, tT, tW, tH, 4);
       ctx.stroke();
 
-      // Net — white horizontal line at center
-      ctx.strokeStyle = "#FFFFFF";
-      ctx.lineWidth = 3;
+      // White edge lines (inside border)
+      ctx.strokeStyle = "rgba(255,255,255,0.7)";
+      ctx.lineWidth = 2;
+      const inset = 6;
+      ctx.strokeRect(tL + inset, tT + inset, tW - inset * 2, tH - inset * 2);
+
+      // ─── Center line (vertical, white) ───
+      ctx.strokeStyle = "rgba(255,255,255,0.8)";
+      ctx.lineWidth = 2;
       ctx.beginPath();
-      ctx.moveTo(tL - 6, h / 2);
-      ctx.lineTo(tR + 6, h / 2);
+      ctx.moveTo(tL + tW / 2, tT + inset);
+      ctx.lineTo(tL + tW / 2, tB - inset);
       ctx.stroke();
+
+      // ─── Net (horizontal) — thicker with detail ───
+      const netY = tT + tH / 2;
+      // Net shadow
+      ctx.fillStyle = "rgba(0,0,0,0.08)";
+      ctx.fillRect(tL - 4, netY + 2, tW + 8, 4);
+      // Net body
+      ctx.fillStyle = "#FFFFFF";
+      ctx.fillRect(tL - 4, netY - 2, tW + 8, 4);
+      // Net top edge
+      ctx.fillStyle = "rgba(255,255,255,0.9)";
+      ctx.fillRect(tL - 4, netY - 3, tW + 8, 1.5);
+      // Net mesh pattern
+      ctx.strokeStyle = "rgba(200,200,200,0.4)";
+      ctx.lineWidth = 0.5;
+      for (let nx = tL; nx < tR; nx += 8) {
+        ctx.beginPath();
+        ctx.moveTo(nx, netY - 2);
+        ctx.lineTo(nx, netY + 2);
+        ctx.stroke();
+      }
       // Net posts
-      ctx.fillStyle = "#555";
-      ctx.fillRect(tL - 8, h / 2 - 4, 6, 8);
-      ctx.fillRect(tR + 2, h / 2 - 4, 6, 8);
+      ctx.fillStyle = "#444";
+      ctx.strokeStyle = "#222";
+      ctx.lineWidth = 1;
+      ctx.beginPath(); ctx.roundRect(tL - 7, netY - 6, 6, 12, 2); ctx.fill(); ctx.stroke();
+      ctx.beginPath(); ctx.roundRect(tR + 1, netY - 6, 6, 12, 2); ctx.fill(); ctx.stroke();
 
-      // ─── Draw paddle (table tennis racket shape) ───
-      const paddleRadius = Math.max(18, Math.min(28, w * 0.07));
-      const handleLen = paddleRadius * 0.7;
-      const handleW = paddleRadius * 0.3;
+      // ─── Helper: norm to pixel ───
+      const toX = (nx: number) => tL + nx * tW;
+      const toY = (ny: number) => tT + ny * tH;
 
-      const drawPaddle = (nx: number, ny: number, headColor: string, handleColor: string, isBottom: boolean) => {
-        const px = tL + nx * tW;
-        const py = tT + ny * tH;
+      // ─── Draw paddle (detailed table tennis racket) ───
+      const drawPaddle = (nx: number, ny: number, headColor: string, headDark: string, handleColor: string, isBottom: boolean) => {
+        const px = toX(nx);
+        const py = toY(ny);
+        const r = paddleRadius;
+        const hLen = r * 0.75;
+        const hW = r * 0.32;
 
         // Shadow
-        ctx.fillStyle = "rgba(0,0,0,0.2)";
+        ctx.fillStyle = "rgba(0,0,0,0.18)";
         ctx.beginPath();
-        ctx.ellipse(px + 2, py + 2, paddleRadius, paddleRadius, 0, 0, Math.PI * 2);
+        ctx.ellipse(px + 3, py + 3, r + 1, r, 0, 0, Math.PI * 2);
         ctx.fill();
 
         // Handle
-        ctx.fillStyle = handleColor;
-        ctx.strokeStyle = "#222";
-        ctx.lineWidth = 1.5;
-        const hDir = isBottom ? 1 : -1;
-        const hx = px - handleW / 2;
-        const hy = isBottom ? py + paddleRadius * 0.5 : py - paddleRadius * 0.5 - handleLen;
+        const hx = px - hW / 2;
+        const hy = isBottom ? py + r * 0.55 : py - r * 0.55 - hLen;
+        // Handle shadow
+        ctx.fillStyle = "rgba(0,0,0,0.1)";
         ctx.beginPath();
-        ctx.roundRect(hx, hy, handleW, handleLen, 3);
+        ctx.roundRect(hx + 1, hy + 1, hW, hLen, 3);
         ctx.fill();
-        ctx.stroke();
-
-        // Paddle head — circle
-        ctx.fillStyle = headColor;
-        ctx.strokeStyle = "#222";
-        ctx.lineWidth = 2;
+        // Handle body
+        const handleGrad = ctx.createLinearGradient(hx, hy, hx + hW, hy);
+        handleGrad.addColorStop(0, handleColor);
+        handleGrad.addColorStop(0.5, "#A08060");
+        handleGrad.addColorStop(1, handleColor);
+        ctx.fillStyle = handleGrad;
         ctx.beginPath();
-        ctx.arc(px, py, paddleRadius, 0, Math.PI * 2);
+        ctx.roundRect(hx, hy, hW, hLen, 3);
         ctx.fill();
-        ctx.stroke();
-
-        // Rubber texture line
-        ctx.strokeStyle = "rgba(0,0,0,0.15)";
+        ctx.strokeStyle = "rgba(0,0,0,0.25)";
         ctx.lineWidth = 1;
-        ctx.beginPath();
-        ctx.moveTo(px, py - paddleRadius * 0.7);
-        ctx.lineTo(px, py + paddleRadius * 0.7);
         ctx.stroke();
+
+        // Paddle head
+        const headGrad = ctx.createRadialGradient(px - r * 0.3, py - r * 0.3, 0, px, py, r);
+        headGrad.addColorStop(0, headColor);
+        headGrad.addColorStop(0.7, headColor);
+        headGrad.addColorStop(1, headDark);
+        ctx.fillStyle = headGrad;
+        ctx.beginPath();
+        ctx.arc(px, py, r, 0, Math.PI * 2);
+        ctx.fill();
+
+        // Head border
+        ctx.strokeStyle = "#1a1a1a";
+        ctx.lineWidth = 2.5;
+        ctx.stroke();
+
+        // Rubber texture — center line
+        ctx.strokeStyle = "rgba(0,0,0,0.12)";
+        ctx.lineWidth = 1.5;
+        ctx.beginPath();
+        ctx.moveTo(px, py - r * 0.6);
+        ctx.lineTo(px, py + r * 0.6);
+        ctx.stroke();
+
+        // Shine highlight
+        ctx.fillStyle = "rgba(255,255,255,0.15)";
+        ctx.beginPath();
+        ctx.ellipse(px - r * 0.2, py - r * 0.25, r * 0.5, r * 0.35, -0.3, 0, Math.PI * 2);
+        ctx.fill();
       };
 
-      // Map normalized game coords (0..1) to table coords (0..1 within table)
-      const pNormX = (game.playerX - (tL / w)) / (tW / w);
-      const aNormX = (game.aiX - (tL / w)) / (tW / w);
-
+      // Player paddle (bottom, red)
       drawPaddle(
-        Math.max(0.05, Math.min(0.95, pNormX)), 0.88,
-        "#D42020", "#8B1515", true
+        Math.max(0.08, Math.min(0.92, game.playerX)), PADDLE_Y_PLAYER,
+        "#E02020", "#A01515", "#6B4530", true
       );
+      // AI paddle (top, blue)
       drawPaddle(
-        Math.max(0.05, Math.min(0.95, aNormX)), 0.12,
-        "#20A0D4", "#156080", false
+        Math.max(0.08, Math.min(0.92, game.aiX)), PADDLE_Y_AI,
+        "#2090D0", "#1568A0", "#6B4530", false
       );
 
-      // Ball
+      // ─── Ball ───
       if (!game.gameOver) {
-        const bNormX = (game.ballX - (tL / w)) / (tW / w);
-        const bNormY = (game.ballY - (tT / h)) / (tH / h);
-        const bx = tL + bNormX * tW;
-        const by = tT + bNormY * tH;
+        const bx = toX(game.ballX);
+        const by = toY(game.ballY);
+        const br = BALL_RADIUS;
 
         // Ball shadow
-        ctx.fillStyle = "rgba(0,0,0,0.2)";
+        ctx.fillStyle = "rgba(0,0,0,0.15)";
         ctx.beginPath();
-        ctx.ellipse(bx + 2, by + 2, BALL_RADIUS + 1, BALL_RADIUS, 0, 0, Math.PI * 2);
+        ctx.ellipse(bx + 2, by + 3, br + 1, br * 0.7, 0, 0, Math.PI * 2);
         ctx.fill();
 
-        // Ball
-        ctx.fillStyle = "#FFFFFF";
-        ctx.strokeStyle = "#888";
-        ctx.lineWidth = 1.5;
+        // Ball body
+        const ballGrad = ctx.createRadialGradient(bx - 2, by - 2, 0, bx, by, br);
+        ballGrad.addColorStop(0, "#FFFFFF");
+        ballGrad.addColorStop(0.8, "#F0F0F0");
+        ballGrad.addColorStop(1, "#D0D0D0");
+        ctx.fillStyle = ballGrad;
         ctx.beginPath();
-        ctx.arc(bx, by, BALL_RADIUS, 0, Math.PI * 2);
+        ctx.arc(bx, by, br, 0, Math.PI * 2);
         ctx.fill();
+
+        // Ball outline
+        ctx.strokeStyle = "#999";
+        ctx.lineWidth = 1;
         ctx.stroke();
 
-        // Ball highlight
-        ctx.fillStyle = "rgba(255,255,255,0.6)";
+        // Ball seam (horizontal line)
+        ctx.strokeStyle = "rgba(0,0,0,0.08)";
+        ctx.lineWidth = 0.8;
         ctx.beginPath();
-        ctx.arc(bx - 2, by - 2, BALL_RADIUS * 0.35, 0, Math.PI * 2);
+        ctx.moveTo(bx - br * 0.7, by);
+        ctx.lineTo(bx + br * 0.7, by);
+        ctx.stroke();
+
+        // Shine
+        ctx.fillStyle = "rgba(255,255,255,0.7)";
+        ctx.beginPath();
+        ctx.arc(bx - br * 0.25, by - br * 0.25, br * 0.3, 0, Math.PI * 2);
         ctx.fill();
       }
 
-      // Particles
-      for (let i = game.particles.length - 1; i >= 0; i--) {
-        const p = game.particles[i];
-        p.x += p.vx * dt;
-        p.y += p.vy * dt;
-        p.life -= (1 / 60 / p.maxLife) * dt;
-        if (p.life <= 0) { game.particles.splice(i, 1); continue; }
-        ctx.globalAlpha = p.life * 0.7;
-        ctx.fillStyle = p.color;
-        ctx.beginPath();
-        ctx.arc(p.x, p.y, 2 + p.life * 2, 0, Math.PI * 2);
-        ctx.fill();
-      }
-      ctx.globalAlpha = 1;
-
-      // ─── Score badges on sides ───
-      const badgeR = Math.max(18, Math.min(26, w * 0.06));
-      const badgeY = h / 2;
-
-      // Left badge — player (red)
-      const leftBX = tL / 2;
-      ctx.fillStyle = "#FFF";
-      ctx.strokeStyle = "#ccc";
-      ctx.lineWidth = 2;
-      ctx.beginPath();
-      ctx.arc(leftBX, badgeY - badgeR * 1.3, badgeR, 0, Math.PI * 2);
-      ctx.fill(); ctx.stroke();
-      ctx.fillStyle = "#D42020";
-      ctx.font = `bold ${Math.round(badgeR)}px system-ui, sans-serif`;
+      // ─── Score display — badges in corners ───
+      const badgeR = Math.max(16, Math.min(24, w * 0.055));
       ctx.textAlign = "center";
       ctx.textBaseline = "middle";
-      ctx.fillText(String(playerScoreRef.current), leftBX, badgeY - badgeR * 1.3);
 
-      // Right badge — AI (blue)
-      const rightBX = tR + (w - tR) / 2;
-      ctx.fillStyle = "#FFF";
-      ctx.strokeStyle = "#ccc";
-      ctx.lineWidth = 2;
-      ctx.beginPath();
-      ctx.arc(rightBX, badgeY + badgeR * 1.3, badgeR, 0, Math.PI * 2);
-      ctx.fill(); ctx.stroke();
-      ctx.fillStyle = "#20A0D4";
-      ctx.font = `bold ${Math.round(badgeR)}px system-ui, sans-serif`;
-      ctx.fillText(String(aiScoreRef.current), rightBX, badgeY + badgeR * 1.3);
+      // Player score badge (bottom-left)
+      const pBadgeX = tL - badgeR - 4;
+      const pBadgeY = tB - badgeR - 4;
+      if (pBadgeX > badgeR) {
+        ctx.fillStyle = "#FFF";
+        ctx.shadowColor = "rgba(0,0,0,0.15)";
+        ctx.shadowBlur = 4;
+        ctx.beginPath();
+        ctx.arc(pBadgeX, pBadgeY, badgeR, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.shadowBlur = 0;
+        ctx.strokeStyle = "#ddd";
+        ctx.lineWidth = 1.5;
+        ctx.stroke();
+        ctx.fillStyle = "#D42020";
+        ctx.font = `bold ${Math.round(badgeR * 0.9)}px system-ui, sans-serif`;
+        ctx.fillText(String(playerScoreRef.current), pBadgeX, pBadgeY + 1);
+      }
 
-      // Colon
-      ctx.fillStyle = "#888";
-      ctx.font = `bold ${Math.round(badgeR * 0.7)}px system-ui, sans-serif`;
-      ctx.fillText(":", leftBX, badgeY);
-      ctx.fillText(":", rightBX, badgeY);
+      // AI score badge (top-right)
+      const aBadgeX = tR + badgeR + 4;
+      const aBadgeY = tT + badgeR + 4;
+      if (aBadgeX < w - badgeR) {
+        ctx.fillStyle = "#FFF";
+        ctx.shadowColor = "rgba(0,0,0,0.15)";
+        ctx.shadowBlur = 4;
+        ctx.beginPath();
+        ctx.arc(aBadgeX, aBadgeY, badgeR, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.shadowBlur = 0;
+        ctx.strokeStyle = "#ddd";
+        ctx.lineWidth = 1.5;
+        ctx.stroke();
+        ctx.fillStyle = "#2090D0";
+        ctx.font = `bold ${Math.round(badgeR * 0.9)}px system-ui, sans-serif`;
+        ctx.fillText(String(aiScoreRef.current), aBadgeX, aBadgeY + 1);
+      }
 
       animFrameRef.current = requestAnimationFrame(loop);
     };
