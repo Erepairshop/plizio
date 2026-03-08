@@ -1078,6 +1078,19 @@ const TITLES: Record<TaskType, Record<string, string>> = {
     hu: 'Töltsd ki a táblázatot!',
     ro: 'Completează tabelul.',
   },
+  visual_zeichnen: { de: 'Zeichne eine Linie.', en: 'Draw a line.', hu: 'Rajzolj vonalat!', ro: 'Desenează o linie.' },
+  visual_messen: { de: 'Miss die Linie.', en: 'Measure the line.', hu: 'Mérd meg a vonalat!', ro: 'Măsoară linia.' },
+  visual_uhrzeit: { de: 'Wie spät ist es?', en: 'What time is it?', hu: 'Hány óra van?', ro: 'Cât este ceasul?' },
+  visual_grid_area: { de: 'Fläche oder Umfang berechnen.', en: 'Calculate area or perimeter.', hu: 'Számold ki a területet vagy kerületet!', ro: 'Calculează aria sau perimetrul.' },
+  visual_place_value: { de: 'Stellenwerte bestimmen.', en: 'Determine place values.', hu: 'Határozd meg a helyiértékeket!', ro: 'Determină valorile poziționale.' },
+  visual_fraction_pizza: { de: 'Bruch erkennen.', en: 'Identify the fraction.', hu: 'Ismerd fel a törtet!', ro: 'Identifică fracția.' },
+  visual_symmetry: { de: 'Spiegle das Muster.', en: 'Mirror the pattern.', hu: 'Tükrözd a mintát!', ro: 'Oglindește modelul.' },
+  visual_sequence: { de: 'Zahlenreihe fortsetzen.', en: 'Continue the sequence.', hu: 'Folytasd a számsort!', ro: 'Continuă șirul.' },
+  visual_timeline: { de: 'Zeitdauer berechnen.', en: 'Calculate duration.', hu: 'Számold ki az időtartamot!', ro: 'Calculează durata.' },
+  visual_number_line: { de: 'Zahl runden.', en: 'Round the number.', hu: 'Kerekítsd a számot!', ro: 'Rotunjește numărul.' },
+  visual_angle: { de: 'Winkel zeichnen.', en: 'Draw the angle.', hu: 'Rajzolj szöget!', ro: 'Desenează unghiul.' },
+  visual_circle_draw: { de: 'Kreis zeichnen.', en: 'Draw a circle.', hu: 'Rajzolj kört!', ro: 'Desenează un cerc.' },
+  visual_money: { de: 'Geld berechnen.', en: 'Calculate the money.', hu: 'Számold ki az összeget!', ro: 'Calculează totalul.' },
 };
 
 function getTitleFor(type: TaskType, cc: string): string {
