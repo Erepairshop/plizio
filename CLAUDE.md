@@ -937,7 +937,7 @@ A user a `~/public_html` mappában van SSH-n, ami egyben a git repo is (`.git` o
 
 **1. parancs - Git pull (out mappa lehúzása):**
 ```bash
-git fetch origin <branch-neve> && git checkout origin/<branch-neve> -- out/
+git fetch origin <branch-neve> && git checkout FETCH_HEAD -- out/
 ```
 
 **2. parancs - Deploy (out tartalmának kimásolása):**
