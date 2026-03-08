@@ -275,7 +275,7 @@ export default function MultiplayerPage() {
   // ─── Send challenge ───────────────────────────────────
   const handleSendChallenge = async () => {
     if (!selectedOpponent) return;
-    if (matchType === "mix" && mixGames.length !== 5) return;
+    if (matchType === "mix" && mixGames.length < 2) return;
     setSending(true);
     setSendError("");
     const options: { difficulty?: Difficulty; matchType?: MatchType; mixGames?: GameType[] } = {};
@@ -524,7 +524,7 @@ export default function MultiplayerPage() {
                 <div className="flex flex-col gap-2">
                   <div className="flex items-center justify-between">
                     <span className="text-white/30 text-xs font-bold uppercase tracking-wider">{t.selectGames}</span>
-                    <span className={`text-xs font-bold ${mixGames.length === 5 ? "text-neon-green" : "text-white/30"}`}>
+                    <span className={`text-xs font-bold ${mixGames.length >= 2 ? "text-neon-green" : "text-white/30"}`}>
                       {mixGames.length}/5 {t.gamesSelected}
                     </span>
                   </div>
@@ -592,7 +592,7 @@ export default function MultiplayerPage() {
               {/* Send button */}
               <motion.button
                 onClick={handleSendChallenge}
-                disabled={!selectedOpponent || sending || (matchType === "mix" && mixGames.length !== 5)}
+                disabled={!selectedOpponent || sending || (matchType === "mix" && mixGames.length < 2)}
                 className="flex items-center justify-center gap-2 py-3 rounded-xl bg-neon-pink/15 border border-neon-pink/40 text-neon-pink font-bold text-sm disabled:opacity-30"
                 whileHover={{ scale: 1.02 }}
                 whileTap={{ scale: 0.98 }}
