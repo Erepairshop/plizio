@@ -7,10 +7,20 @@ import { generateTopicQuestions, getDEThemes, getENThemes, getHUThemes, getROThe
 
 // ─── TYPES ──────────────────────────────────────────────────────────────────
 
+export type VisualQuestionType = 'zeichnen' | 'messen' | 'uhrzeit' | 'grid-area' | 'place-value';
+
+export type VisualQuestionData = {
+  type: VisualQuestionType;
+  params: Record<string, any>; // pl. { targetLength: 5, unit: 'cm' } vagy { targetTime: '3:15' }
+};
+
 export type SubQuestion = {
   id: string;
   answer: number | string;
   points: number;
+  visualType?: VisualQuestionType;
+  visualData?: VisualQuestionData;
+  question?: string; // Optional for visual questions
 };
 
 export type TaskType =

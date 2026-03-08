@@ -455,6 +455,39 @@
             "4-messen-041",
             "4-messen-042"
           ]
+        },
+        {
+          "id": "zeichnen-visuelle",
+          "name": "Zeichnen - Längen und Formen",
+          "color": "#06b6d4",
+          "icon": "✏️",
+          "description": "Interaktiv Linien und Formen zeichnen",
+          "taskFile": null,
+          "isVisual": true,
+          "visualGeneratorKey": "zeichnen",
+          "taskIds": []
+        },
+        {
+          "id": "messen-visuelle",
+          "name": "Messen - Mit Lineal",
+          "color": "#0ea5e9",
+          "icon": "📏",
+          "description": "Linien mit Lineal messen und Länge bestimmen",
+          "taskFile": null,
+          "isVisual": true,
+          "visualGeneratorKey": "messen",
+          "taskIds": []
+        },
+        {
+          "id": "uhrzeit-digital",
+          "name": "Uhr lesen - Analog & Digital",
+          "color": "#06d6d4",
+          "icon": "⏰",
+          "description": "Analoge Uhr lesen und Zeit erkennen",
+          "taskFile": null,
+          "isVisual": true,
+          "visualGeneratorKey": "uhrzeit",
+          "taskIds": []
         }
       ]
     },
