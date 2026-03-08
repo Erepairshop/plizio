@@ -190,22 +190,27 @@ function Planet({
 
   return (
     <g className="cursor-pointer" onClick={onClick} role="button" tabIndex={0} aria-label={label}>
-      {/* outer glow */}
+      {/* big soft ambient glow behind planet */}
+      <circle cx={cx} cy={cy} r={R * 2.2} fill={glow} opacity={0.06} />
+      <circle cx={cx} cy={cy} r={R * 1.5} fill={glow} opacity={0.08} />
+
+      {/* outer ring glow */}
       <motion.circle
         cx={cx} cy={cy} r={R + 14}
         fill="none" stroke={glow}
-        strokeWidth={selected ? 2 : 0.8}
-        opacity={selected ? 0.6 : 0.12}
-        animate={{ r: selected ? R + 18 : R + 14, opacity: selected ? 0.6 : 0.12 }}
+        strokeWidth={selected ? 2.5 : 1.2}
+        opacity={selected ? 0.7 : 0.2}
+        animate={{ r: selected ? R + 18 : R + 14, opacity: selected ? 0.7 : 0.2 }}
         transition={{ duration: 0.4 }}
       />
 
       {/* atmosphere glow */}
       <defs>
         <radialGradient id={`pg-${id}`} cx="35%" cy="30%">
-          <stop offset="0%" stopColor={color} stopOpacity={0.45} />
-          <stop offset="50%" stopColor={color} stopOpacity={0.18} />
-          <stop offset="100%" stopColor={color} stopOpacity={0.03} />
+          <stop offset="0%" stopColor={color} stopOpacity={0.6} />
+          <stop offset="40%" stopColor={color} stopOpacity={0.3} />
+          <stop offset="75%" stopColor={color} stopOpacity={0.12} />
+          <stop offset="100%" stopColor={color} stopOpacity={0.04} />
         </radialGradient>
       </defs>
 
@@ -213,7 +218,7 @@ function Planet({
       <motion.circle
         cx={cx} cy={cy} r={R}
         fill={`url(#pg-${id})`}
-        stroke={color} strokeWidth={1.2} strokeOpacity={0.2}
+        stroke={color} strokeWidth={1.5} strokeOpacity={0.35}
         whileHover={{ scale: 1.1 }}
         transition={{ type: "spring", stiffness: 300 }}
       />
@@ -224,21 +229,21 @@ function Planet({
       {/* highlight arc (top-left shine) */}
       <path
         d={`M ${cx - R * 0.5},${cy - R * 0.7} A ${R * 0.8},${R * 0.8} 0 0,1 ${cx + R * 0.3},${cy - R * 0.8}`}
-        fill="none" stroke="rgba(255,255,255,0.12)" strokeWidth={1.5} strokeLinecap="round"
+        fill="none" stroke="rgba(255,255,255,0.2)" strokeWidth={2} strokeLinecap="round"
       />
 
       {/* label below */}
       <text
-        x={cx} y={cy + R + 16}
+        x={cx} y={cy + R + 18}
         textAnchor="middle" fill={color}
-        fontSize={10} fontWeight={700} letterSpacing={1.2}
-        style={{ textTransform: "uppercase" as const, filter: `drop-shadow(0 0 3px ${glow})` }}
+        fontSize={11} fontWeight={800} letterSpacing={1.5}
+        style={{ textTransform: "uppercase" as const, filter: `drop-shadow(0 0 6px ${glow})` }}
       >
         {label}
       </text>
 
       {/* game count badge */}
-      <circle cx={cx + R - 4} cy={cy - R + 4} r={9} fill={color} opacity={0.85} />
+      <circle cx={cx + R - 4} cy={cy - R + 4} r={9} fill={color} opacity={0.9} />
       <text x={cx + R - 4} y={cy - R + 7.5} textAnchor="middle" fill="#fff" fontSize={9} fontWeight={800}>
         {island.games.length}
       </text>
