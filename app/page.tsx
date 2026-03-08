@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Home as HomeIcon, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Home as HomeIcon, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap";
@@ -84,6 +84,7 @@ const TRANSLATIONS = {
       lightout: "Light Out",
       numbermerge: "Number Merge",
       nonogram: "Nonogram",
+      mazerush: "Maze Rush",
       pliziolife: "Plizio Life",
     },
     ui: {
@@ -118,6 +119,7 @@ const TRANSLATIONS = {
       lightout: "Light Out",
       numbermerge: "Number Merge",
       nonogram: "Nonogram",
+      mazerush: "Maze Rush",
       pliziolife: "Plizio Life",
     },
     ui: {
@@ -152,6 +154,7 @@ const TRANSLATIONS = {
       lightout: "Light Out",
       numbermerge: "Number Merge",
       nonogram: "Nonogram",
+      mazerush: "Maze Rush",
       pliziolife: "Plizio Life",
     },
     ui: {
@@ -186,6 +189,7 @@ const TRANSLATIONS = {
       lightout: "Light Out",
       numbermerge: "Number Merge",
       nonogram: "Nonogram",
+      mazerush: "Maze Rush",
       pliziolife: "Plizio Life",
     },
     ui: {
@@ -369,6 +373,13 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         color: "#B44DFF",
         gradient: "bg-gradient-to-br from-purple-500/20 to-indigo-500/20",
       },
+      {
+        id: "mazerush",
+        icon: Navigation,
+        nameKey: "mazerush",
+        color: "#00D4FF",
+        gradient: "bg-gradient-to-br from-cyan-500/20 to-blue-500/20",
+      },
     ],
   },
 ];
@@ -443,7 +454,7 @@ const GAME_TO_CATEGORY: Record<string, string> = {
   kodex: "quizreflex",
   skyclimb: "adventure", citydrive: "adventure", racetrack: "adventure", pliziolife: "adventure",
   mathtest: "brain", deutschtest: "brain",
-  numberpath: "logic", minisudoku: "logic", lightout: "logic", numbermerge: "logic", nonogram: "logic",
+  numberpath: "logic", minisudoku: "logic", lightout: "logic", numbermerge: "logic", nonogram: "logic", mazerush: "logic",
 };
 
 function getLastPlayedCategory(): string | null {
