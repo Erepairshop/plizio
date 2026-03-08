@@ -229,6 +229,7 @@ const GAME_ICONS: Record<GameType, typeof Zap> = {
   nonogram: Grid3x3,
   mazerush: Navigation,
   pingpong: CircleDot,
+  airhockey: CircleDot,
 };
 
 type Tab = "challenge" | "active" | "history";
