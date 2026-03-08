@@ -7,10 +7,20 @@ import { generateTopicQuestions, getDEThemes, getENThemes, getHUThemes, getROThe
 
 // ─── TYPES ──────────────────────────────────────────────────────────────────
 
+export type VisualQuestionType = 'zeichnen' | 'messen' | 'uhrzeit' | 'grid-area' | 'place-value' | 'fraction-pizza' | 'symmetry' | 'sequence' | 'timeline' | 'number-line' | 'angle' | 'circle-draw' | 'money';
+
+export type VisualQuestionData = {
+  type: VisualQuestionType;
+  params: Record<string, any>; // pl. { targetLength: 5, unit: 'cm' } vagy { targetTime: '3:15' }
+};
+
 export type SubQuestion = {
   id: string;
   answer: number | string;
   points: number;
+  visualType?: VisualQuestionType;
+  visualData?: VisualQuestionData;
+  question?: string; // Optional for visual questions
 };
 
 export type TaskType =
@@ -20,7 +30,20 @@ export type TaskType =
   | 'zahlenreihe'
   | 'sachaufgabe'
   | 'tabelle'
-  | 'aufgaben';
+  | 'aufgaben'
+  | 'visual_zeichnen'
+  | 'visual_messen'
+  | 'visual_uhrzeit'
+  | 'visual_grid_area'
+  | 'visual_place_value'
+  | 'visual_fraction_pizza'
+  | 'visual_symmetry'
+  | 'visual_sequence'
+  | 'visual_timeline'
+  | 'visual_number_line'
+  | 'visual_angle'
+  | 'visual_circle_draw'
+  | 'visual_money';
 
 export type AufgabenItem = {
   question: string;
@@ -76,13 +99,30 @@ export type TabelleData = {
   }[];
 };
 
+// Visual task data types
+export type VisualZeichnenData = { targetLength: number; unit: string };
+export type VisualMessenData = { targetLength: number; unit: string };
+export type VisualUhrzeitData = { targetHour: number; targetMinute: number };
+export type VisualGridAreaData = { width: number; height: number; mode: 'area' | 'perimeter' };
+export type VisualPlaceValueData = { number: number; digits: number };
+export type VisualFractionPizzaData = { numerator: number; denominator: number; operation: 'identify' | 'add' };
+export type VisualSymmetryData = { gridSize: number; pattern: number[][] };
+export type VisualSequenceData = { sequence: number[]; rule: string; blanks: number };
+export type VisualTimelineData = { startHour: number; endHour: number; events: { time: number; label: string }[] };
+export type VisualNumberLineData = { min: number; max: number; target: number; mode: 'round' | 'place' };
+export type VisualAngleData = { targetAngle: number };
+export type VisualCircleDrawData = { radius: number };
+export type VisualMoneyData = { items: { name: string; price: number }[]; budget: number };
+
+export type VisualData = VisualZeichnenData | VisualMessenData | VisualUhrzeitData | VisualGridAreaData | VisualPlaceValueData | VisualFractionPizzaData | VisualSymmetryData | VisualSequenceData | VisualTimelineData | VisualNumberLineData | VisualAngleData | VisualCircleDrawData | VisualMoneyData;
+
 export type SchoolTaskBlock = {
   id: string;
   type: TaskType;
   title: string;
   totalPoints: number;
   subQuestions: SubQuestion[];
-  data: KopfrechnenData | SchriftlichData | HianyData | ZahlenreiheData | SachaufgabeData | TabelleData | AufgabenData;
+  data: KopfrechnenData | SchriftlichData | HianyData | ZahlenreiheData | SachaufgabeData | TabelleData | AufgabenData | VisualData;
 };
 
 export type SchoolTaskAnswers = Record<string, string | number>;
@@ -632,6 +672,141 @@ function generateTabelle(grade: number, cc: string): SchoolTaskBlock {
   };
 }
 
+// ─── VISUAL TASK GENERATORS ──────────────────────────────────────────────────
+
+const VISUAL_TOPIC_KEYS = new Set([
+  'zeichnen', 'messen', 'uhrzeit', 'grid_area', 'place_value',
+  'fraction_pizza', 'symmetry', 'sequence', 'timeline',
+  'number_line', 'angle', 'circle_draw', 'money',
+]);
+
+function isVisualTopicKey(key: string): boolean {
+  return VISUAL_TOPIC_KEYS.has(key);
+}
+
+// Helper: generate one visual sub-question with random params
+function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): SubQuestion {
+  const sfx = `${blockIdx}_${subIdx}`;
+  switch (topicKey) {
+    case 'zeichnen': {
+      const targetLength = [3, 4, 5, 6, 7, 8, 9, 10][rnd(0, 7)];
+      return { id: `vis_z_${sfx}`, answer: targetLength, points: 1, visualType: 'zeichnen',
+        visualData: { type: 'zeichnen', params: { targetLength, unit: 'cm' } } };
+    }
+    case 'messen': {
+      const targetLength = [3, 4, 5, 6, 7, 8, 9, 10, 11, 12][rnd(0, 9)];
+      return { id: `vis_m_${sfx}`, answer: targetLength, points: 1, visualType: 'messen',
+        visualData: { type: 'messen', params: { targetLength, unit: 'cm' } } };
+    }
+    case 'uhrzeit': {
+      const targetHour = rnd(1, 12);
+      const targetMinute = [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55][rnd(0, 11)];
+      return { id: `vis_u_${sfx}`, answer: `${targetHour}:${targetMinute.toString().padStart(2, '0')}`, points: 1,
+        visualType: 'uhrzeit', visualData: { type: 'uhrzeit', params: { targetHour, targetMinute } } };
+    }
+    case 'grid_area': {
+      const w = rnd(3, 7); const h = rnd(2, 5);
+      const mode = Math.random() > 0.5 ? 'area' : 'perimeter';
+      return { id: `vis_ga_${sfx}`, answer: mode === 'area' ? w * h : 2 * (w + h), points: 1,
+        visualType: 'grid-area', visualData: { type: 'grid-area', params: { width: w, height: h, mode } } };
+    }
+    case 'place_value': {
+      const digits = rnd(4, 6);
+      const number = rnd(Math.pow(10, digits - 1), Math.pow(10, digits) - 1);
+      return { id: `vis_pv_${sfx}`, answer: number, points: 1,
+        visualType: 'place-value', visualData: { type: 'place-value', params: { number, digits } } };
+    }
+    case 'fraction_pizza': {
+      const denominator = [2, 3, 4, 6, 8][rnd(0, 4)];
+      const numerator = rnd(1, denominator - 1);
+      return { id: `vis_fp_${sfx}`, answer: `${numerator}/${denominator}`, points: 1,
+        visualType: 'fraction-pizza', visualData: { type: 'fraction-pizza', params: { numerator, denominator, operation: 'identify' } } };
+    }
+    case 'symmetry': {
+      const gridSize = rnd(4, 6); const pattern: number[][] = [];
+      for (let r = 0; r < gridSize; r++) {
+        const row: number[] = []; const half = Math.ceil(gridSize / 2);
+        for (let c = 0; c < half; c++) row.push(Math.random() > 0.5 ? 1 : 0);
+        for (let c = half; c < gridSize; c++) row.push(row[gridSize - 1 - c]);
+        pattern.push(row);
+      }
+      return { id: `vis_sym_${sfx}`, answer: 'symmetric', points: 1,
+        visualType: 'symmetry', visualData: { type: 'symmetry', params: { gridSize, pattern } } };
+    }
+    case 'sequence': {
+      const start = rnd(2, 20); const step = rnd(2, 8); const len = 8; const blanks = 3;
+      const sequence: number[] = [];
+      for (let i = 0; i < len; i++) sequence.push(start + i * step);
+      return { id: `vis_seq_${sfx}`, answer: sequence.slice(len - blanks).join(','), points: 1,
+        visualType: 'sequence', visualData: { type: 'sequence', params: { sequence, rule: `+${step}`, blanks } } };
+    }
+    case 'timeline': {
+      const startHour = rnd(7, 10); const endHour = startHour + rnd(3, 6);
+      const events = [{ time: startHour, label: 'Start' }, { time: startHour + 1, label: 'Pause' }, { time: endHour, label: 'Ende' }];
+      return { id: `vis_tl_${sfx}`, answer: endHour - startHour, points: 1,
+        visualType: 'timeline', visualData: { type: 'timeline', params: { startHour, endHour, events } } };
+    }
+    case 'number_line': {
+      const step = [10, 100, 1000][rnd(0, 2)]; const base = rnd(1, 9) * step;
+      const offset = rnd(1, step - 1); const target = base + offset;
+      return { id: `vis_nl_${sfx}`, answer: Math.round(target / step) * step, points: 1,
+        visualType: 'number-line', visualData: { type: 'number-line', params: { min: base, max: base + step, target, mode: 'round' } } };
+    }
+    case 'angle': {
+      const targetAngle = [30, 45, 60, 90, 120, 135, 150][rnd(0, 6)];
+      return { id: `vis_ang_${sfx}`, answer: targetAngle, points: 1,
+        visualType: 'angle', visualData: { type: 'angle', params: { targetAngle } } };
+    }
+    case 'circle_draw': {
+      const radius = rnd(2, 6);
+      return { id: `vis_cir_${sfx}`, answer: radius, points: 1,
+        visualType: 'circle-draw', visualData: { type: 'circle-draw', params: { radius } } };
+    }
+    case 'money': {
+      const items = [
+        { name: 'Apfel', price: rnd(20, 80) / 100 },
+        { name: 'Brot', price: rnd(100, 300) / 100 },
+        { name: 'Milch', price: rnd(80, 200) / 100 },
+      ].slice(0, rnd(2, 3));
+      const total = Math.round(items.reduce((s, i) => s + i.price, 0) * 100) / 100;
+      return { id: `vis_mon_${sfx}`, answer: total, points: 1,
+        visualType: 'money', visualData: { type: 'money', params: { items, budget: Math.ceil(total) } } };
+    }
+    default:
+      return generateVisualSub('zeichnen', blockIdx, subIdx);
+  }
+}
+
+// Map topicKey → block type
+const VISUAL_TOPIC_TO_TYPE: Record<string, TaskType> = {
+  zeichnen: 'visual_zeichnen', messen: 'visual_messen', uhrzeit: 'visual_uhrzeit',
+  grid_area: 'visual_grid_area', place_value: 'visual_place_value', fraction_pizza: 'visual_fraction_pizza',
+  symmetry: 'visual_symmetry', sequence: 'visual_sequence', timeline: 'visual_timeline',
+  number_line: 'visual_number_line', angle: 'visual_angle', circle_draw: 'visual_circle_draw', money: 'visual_money',
+};
+
+function generateVisualBlock(
+  topicKey: string,
+  topicName: string,
+  blockIdx: number,
+): SchoolTaskBlock {
+  const SUB_COUNT = 3;
+  const subs: SubQuestion[] = [];
+  for (let i = 0; i < SUB_COUNT; i++) {
+    subs.push(generateVisualSub(topicKey, blockIdx, i));
+  }
+  // data = first sub's params (backwards compat for SchoolTaskBlock rendering)
+  const firstParams = subs[0].visualData?.params ?? {};
+  return {
+    id: `block_visual_${topicKey}_${blockIdx}`,
+    type: VISUAL_TOPIC_TO_TYPE[topicKey] || 'visual_zeichnen',
+    title: topicName,
+    totalPoints: SUB_COUNT,
+    subQuestions: subs,
+    data: firstParams as any,
+  };
+}
+
 // ─── AUFGABEN GENERATOR (topic-driven) ───────────────────────────────────────
 
 function generateAufgabenBlock(
@@ -757,6 +932,19 @@ const TITLES: Record<TaskType, Record<string, string>> = {
     hu: 'Töltsd ki a táblázatot!',
     ro: 'Completează tabelul.',
   },
+  visual_zeichnen: { de: 'Zeichne eine Linie.', en: 'Draw a line.', hu: 'Rajzolj vonalat!', ro: 'Desenează o linie.' },
+  visual_messen: { de: 'Miss die Linie.', en: 'Measure the line.', hu: 'Mérd meg a vonalat!', ro: 'Măsoară linia.' },
+  visual_uhrzeit: { de: 'Wie spät ist es?', en: 'What time is it?', hu: 'Hány óra van?', ro: 'Cât este ceasul?' },
+  visual_grid_area: { de: 'Fläche oder Umfang berechnen.', en: 'Calculate area or perimeter.', hu: 'Számold ki a területet vagy kerületet!', ro: 'Calculează aria sau perimetrul.' },
+  visual_place_value: { de: 'Stellenwerte bestimmen.', en: 'Determine place values.', hu: 'Határozd meg a helyiértékeket!', ro: 'Determină valorile poziționale.' },
+  visual_fraction_pizza: { de: 'Bruch erkennen.', en: 'Identify the fraction.', hu: 'Ismerd fel a törtet!', ro: 'Identifică fracția.' },
+  visual_symmetry: { de: 'Spiegle das Muster.', en: 'Mirror the pattern.', hu: 'Tükrözd a mintát!', ro: 'Oglindește modelul.' },
+  visual_sequence: { de: 'Zahlenreihe fortsetzen.', en: 'Continue the sequence.', hu: 'Folytasd a számsort!', ro: 'Continuă șirul.' },
+  visual_timeline: { de: 'Zeitdauer berechnen.', en: 'Calculate duration.', hu: 'Számold ki az időtartamot!', ro: 'Calculează durata.' },
+  visual_number_line: { de: 'Zahl runden.', en: 'Round the number.', hu: 'Kerekítsd a számot!', ro: 'Rotunjește numărul.' },
+  visual_angle: { de: 'Winkel zeichnen.', en: 'Draw the angle.', hu: 'Rajzolj szöget!', ro: 'Desenează unghiul.' },
+  visual_circle_draw: { de: 'Kreis zeichnen.', en: 'Draw a circle.', hu: 'Rajzolj kört!', ro: 'Desenează un cerc.' },
+  visual_money: { de: 'Geld berechnen.', en: 'Calculate the money.', hu: 'Számold ki az összeget!', ro: 'Calculează totalul.' },
 };
 
 function getTitleFor(type: TaskType, cc: string): string {
@@ -796,13 +984,23 @@ function getAllTopicsForGrade(grade: number, cc: string): Array<{ key: string; n
  * Hard       (2/pont): algebra, eq, tri, pyth, sqrt, complex, func, prob, powers
  */
 function getItemsPerPointByKey(topicKey: string): number {
+  // 5 sub-questions: very easy arithmetic (single-step, small numbers)
   const veryEasy = ['add10', 'add20', 'sub20', 'compare', 'missing', 'add100', 'sub100'];
-  const easy     = ['sequence', 'add1000', 'mul'];
-  const hard     = ['algebra', 'eq', 'tri', 'pyth', 'sqrt', 'complex', 'func', 'prob', 'powers'];
+  // 4 sub-questions: easy (sequences, basic multiplication, place value, rounding)
+  const easy     = ['sequence', 'add1000', 'mul', 'grosseZahlen', 'stellenwert', 'zahlenstrahl',
+                    'runden', 'zahlenfolgen', 'rechenstrategien', 'addSub', 'laenge', 'gewicht',
+                    'umwandeln', 'place1k', 'place'];
+  // 2 sub-questions: hard (algebra, equations, multi-step word problems, geometry proofs)
+  const hard     = ['algebra', 'eq', 'tri', 'pyth', 'sqrt', 'complex', 'func', 'prob', 'powers',
+                    'mehrschritt', 'messAufgaben'];
+  // 3 sub-questions: medium (division, fractions, geometry, word problems, units, etc.)
+  // includes: div, units, frac, fracArith, geo, word, pct, neg, ratio, large,
+  //   ueberschlagen, zeit, geld, strecken, geodreieck, zirkel, symmetrie,
+  //   umfang, flaeche, tabellen, diagramme, grundAufgaben, ...
   if (veryEasy.includes(topicKey)) return 5;
   if (easy.includes(topicKey))     return 4;
   if (hard.includes(topicKey))     return 2;
-  return 3; // medium: div, units, place, frac, geo, word, pct, neg, ratio, large, ...
+  return 3;
 }
 
 // ─── MAIN GENERATOR ──────────────────────────────────────────────────────────
@@ -834,15 +1032,24 @@ export function generateSchoolTest(
 
   // Generate exactly 10 blocks, roundrobin across topics.
   // Each block = 1 pont; questions per block depend on topic difficulty.
+  // Visual topics (zeichnen, messen, uhrzeit) get their own visual block generator.
   const blocks: SchoolTaskBlock[] = [];
   for (let i = 0; i < TOTAL_BLOCKS; i++) {
     const topic = effectiveTopics[i % effectiveTopics.length];
-    const questionsInBlock = getItemsPerPointByKey(topic.key); // 2, 3, 4 or 5
-    const block = generateAufgabenBlock(grade, cc, topic.key, topic.name, questionsInBlock, i);
-    // Each block is worth exactly 1 point; questions share it equally
-    const pointPerQ = 1 / questionsInBlock;
-    const newSubQ = block.subQuestions.map(sq => ({ ...sq, points: pointPerQ }));
-    blocks.push({ ...block, totalPoints: 1, subQuestions: newSubQ });
+
+    if (isVisualTopicKey(topic.key)) {
+      // Visual block: 1 interaktív feladat = 1 pont
+      const block = generateVisualBlock(topic.key, topic.name, i);
+      blocks.push(block);
+    } else {
+      // Standard block: szöveges/számolós feladatok
+      const questionsInBlock = getItemsPerPointByKey(topic.key); // 2, 3, 4 or 5
+      const block = generateAufgabenBlock(grade, cc, topic.key, topic.name, questionsInBlock, i);
+      // Each block is worth exactly 1 point; questions share it equally
+      const pointPerQ = 1 / questionsInBlock;
+      const newSubQ = block.subQuestions.map(sq => ({ ...sq, points: pointPerQ }));
+      blocks.push({ ...block, totalPoints: 1, subQuestions: newSubQ });
+    }
   }
 
   return blocks;
