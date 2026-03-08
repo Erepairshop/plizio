@@ -1353,9 +1353,10 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
   4: [
     { key: 'g4_ops', name: 'Zahlen & Rechnen', color: '#3B82F6', icon: '🔢', topics: [
       { key: 'place1k', name: 'Zahlen bis 1000', color: '#93C5FD', icon: '🔢', generators: [G4.placeValue, G3.sequence] },
-      { key: 'place', name: 'Stellenwerte bis 10 000', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.sequence] },
+      { key: 'place', name: 'Stellenwerte bis 1 Million', color: '#60A5FA', icon: '🔢', generators: [G4.largeNumbers, G4.placeValueBig, G4.sequence] },
       { key: 'mul', name: 'Schriftlich Multiplizieren', color: '#34D399', icon: '✖️', generators: [G4.writtenMul, G4.writtenMulB] },
       { key: 'div', name: 'Schriftlich Dividieren', color: '#10B981', icon: '➗', generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit] },
+      { key: 'rounding', name: 'Runden (10er, 100er)', color: '#06B6D4', icon: '🔄', generators: [G4.rounding] },
     ]},
     { key: 'g4_frac', name: 'Bruchrechnung', color: '#8B5CF6', icon: '½', topics: [
       { key: 'frac', name: 'Brüche', color: '#A78BFA', icon: '½', generators: [G4.fraction, G4.fractionB] },
@@ -1363,6 +1364,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g4_geo', name: 'Geometrie & Maßeinheiten', color: '#F59E0B', icon: '📐', topics: [
       { key: 'geo', name: 'Flächeninhalt & Umfang', color: '#FBBF24', icon: '📐', generators: [G4.geometry, G4.geometryB] },
+      { key: 'circle', name: 'Kreis & Geometrie', color: '#F97316', icon: '⭕', generators: [G4.circleBasics] },
       { key: 'units', name: 'Maßeinheiten', color: '#F59E0B', icon: '📏', generators: [G4.units] },
     ]},
     { key: 'g4_word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', topics: [
