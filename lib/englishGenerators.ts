@@ -1,12 +1,15 @@
-// ─── ENGLISH GENERATORS — Procedural question generation for Grades 1–8 ────────────
-// Mirrors deutschGenerators.ts structure
-// Each subtopic generates 30 questions procedurally using seeded RNG
-// Grade 1: 100% MCQ | Grade 2-3: 60% MCQ, 40% Typing | Grade 4-6: 50/50 | Grade 7-8: 40% MCQ, 60% Typing
+// ─── ENGLISH GENERATORS ───────────────────────────────────────────────────────
+// Procedural MCQ + Typing question generators for English ELA curriculum
+// Grade 1-8, all topics: Phonics, Grammar, Vocabulary, Comprehension, etc.
+//
+// Generates 30 questions per subtopic using seeded PRNG for reproducibility.
+// Grade-appropriate mix: G1=100% MCQ, G2-3=60% MCQ/40% Typing, G4-6=50/50, G7-8=40% MCQ/60% Typing
 
-import type { CurriculumQuestion } from "./curriculumTypes";
+import type { CurriculumQuestion, CurriculumMCQ, CurriculumTyping } from "./curriculumTypes";
 
-// ─── SEEDED RNG & UTILITY FUNCTIONS ─────────────────────────────────────────────
+// ─── HELPER FUNCTIONS ──────────────────────────────────────────────────────
 
+/** Seeded PRNG (Mulberry32) */
 function mulberry32(seed: number) {
   return function() {
     seed |= 0;
@@ -17,6 +20,7 @@ function mulberry32(seed: number) {
   };
 }
 
+/** Shuffle array using given RNG */
 function shuffle<T>(arr: T[], rng: () => number): T[] {
   const copy = [...arr];
   for (let i = copy.length - 1; i > 0; i--) {
@@ -26,1023 +30,608 @@ function shuffle<T>(arr: T[], rng: () => number): T[] {
   return copy;
 }
 
-function pickRandom<T>(arr: T[], rng: () => number): T {
+/** Pick random element from array */
+function pick<T>(arr: T[], rng: () => number): T {
   return arr[Math.floor(rng() * arr.length)];
 }
 
-// ─── GRADE 1 GENERATORS (100% MCQ) ──────────────────────────────────────────────
+/** Create MCQ question */
+function createMCQ(
+  topic: string,
+  subtopic: string,
+  question: string,
+  correct: string,
+  wrongOptions: string[]
+): CurriculumMCQ {
+  const seen = new Set<string>();
+  const unique: string[] = [];
+  for (const w of wrongOptions) {
+    if (w !== correct && !seen.has(w)) {
+      seen.add(w);
+      unique.push(w);
+    }
+  }
+  const opts = shuffle([correct, ...unique.slice(0, 3)], Math.random);
+  return {
+    type: "mcq",
+    topic,
+    subtopic,
+    question,
+    options: opts,
+    correct: opts.indexOf(correct)
+  };
+}
+
+/** Create typing question */
+function createTyping(
+  topic: string,
+  subtopic: string,
+  question: string,
+  answer: string | string[]
+): CurriculumTyping {
+  return {
+    type: "typing",
+    topic,
+    subtopic,
+    question,
+    answer
+  };
+}
+
+// ─── DATA LISTS (Grade-specific word banks) ─────────────────────────────────
+
+const GRADE1_WORDS = {
+  shortVowel: ["cat", "dog", "hat", "sun", "bed", "pig", "log", "cup", "top", "sit", "mat", "bat", "bin", "man", "fun"],
+  longVowel: ["cake", "bike", "home", "tree", "blue", "rope", "kite", "nose", "take", "make", "bone", "five", "mine", "stone", "cute"],
+  digraphs: ["ship", "chat", "them", "when", "shop", "chin", "that", "white", "show", "chop", "thin", "what", "sheet", "thick", "wheat"],
+  blends: ["stop", "green", "black", "ground", "place", "tree", "bring", "stand", "small", "cross", "drive", "flags", "strong", "trade", "please"],
+  uppercase: ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O"],
+  lowercase: ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o"]
+};
+
+const GRADE2_WORDS = {
+  sightWords: ["the", "was", "were", "have", "has", "had", "is", "are", "be", "been", "said", "could", "would", "should", "might"],
+  longVowels: ["day", "say", "play", "way", "made", "fade", "shade", "lake", "wake", "take", "feet", "meet", "need", "seed", "keep"],
+  vowelTeams: ["rain", "main", "pain", "boat", "coat", "goat", "seed", "feed", "read", "head", "bread", "thread", "sleep", "deep", "sheep"],
+  prefixes: ["unhappy", "redo", "retake", "unlock", "unfair", "untie", "remake", "refill", "undo", "rerun"],
+  contractions: ["don't", "can't", "won't", "isn't", "aren't", "wasn't", "weren't", "haven't", "hasn't", "hadn't", "doesn't", "didn't", "wouldn't", "shouldn't", "couldn't"]
+};
+
+const GRADE3_WORDS = {
+  plurals: ["cats", "dogs", "boxes", "buses", "glasses", "dishes", "wishes", "brushes", "passes", "patches", "benches", "churches", "peaches", "beaches", "pitches"],
+  regularVerbs: ["play", "played", "playing", "walk", "walked", "walking", "jump", "jumped", "jumping", "laugh", "laughed", "laughing"],
+  irregularVerbs: ["go", "went", "gone", "eat", "ate", "eaten", "see", "saw", "seen", "take", "took", "taken", "write", "wrote", "written"],
+  compounds: ["baseball", "football", "classroom", "something", "someone", "sunlight", "moonlight", "rainbow", "butterfly", "watermelon", "strawberry", "playground", "anybody"],
+  prefixes: ["un-", "re-", "pre-", "dis-", "mis-"],
+  suffixes: ["-ing", "-ed", "-er", "-est", "-ly", "-ness", "-ful", "-less"]
+};
+
+const GRADE4_WORDS = {
+  modals: ["can", "could", "may", "might", "must", "should", "would", "will", "shall"],
+  perfectTenses: ["has been", "have been", "has done", "have done", "has gone", "have gone"],
+  comparatives: ["big", "small", "pretty", "happy", "fast", "slow", "cold", "warm", "beautiful", "ugly"],
+  abstracts: ["courage", "honesty", "kindness", "friendship", "beauty", "justice", "freedom", "wisdom"],
+  figurative: ["metaphor", "simile", "personification", "hyperbole", "alliteration"],
+  homophones: ["to", "two", "too", "there", "their", "they're", "its", "it's", "know", "no"]
+};
+
+const GRADE5_WORDS = {
+  relativePronouns: ["who", "which", "that", "whom", "whose"],
+  subordinatingConj: ["because", "although", "while", "since", "if", "unless", "until", "when", "after", "before"],
+  indefinitePro: ["someone", "something", "anybody", "anything", "nobody", "nothing", "everyone", "everything"],
+  transitiveVerbs: ["give", "send", "tell", "ask", "show", "make", "read", "write", "bring", "take"],
+  intransitiveVerbs: ["go", "come", "arrive", "happen", "sit", "stand", "walk", "run", "jump", "sleep"],
+  abstractNouns: ["education", "happiness", "freedom", "knowledge", "justice", "truth", "courage", "loyalty", "integrity", "dignity"]
+};
+
+const GRADE6_WORDS = {
+  literaryTerms: ["alliteration", "assonance", "consonance", "onomatopoeia", "metonymy", "synecdoche", "oxymoron", "paradox", "irony"],
+  rhetoricalDevices: ["rhetorical question", "repetition", "parallel structure", "antithesis", "chiasmus"],
+  etymology: ["Greek", "Latin", "French", "German", "Norse", "Spanish", "Italian"]
+};
+
+const GRADE7_WORDS = {
+  verbMood: ["indicative", "imperative", "subjunctive", "conditional"],
+  verbVoice: ["active voice", "passive voice", "middle voice"],
+  complexSentences: ["independent clause", "dependent clause", "subordinate clause", "relative clause"],
+  logicalFallacies: ["ad hominem", "straw man", "false dilemma", "begging the question", "appeal to authority"]
+};
+
+const GRADE8_WORDS = {
+  syntax: ["parataxis", "hypotaxis", "anacoluthon", "inversion", "anaphora", "epistrophe"],
+  semantics: ["denotation", "connotation", "semantic field", "collocation", "idiom"],
+  criticalTheory: ["New Historicism", "Marxist Criticism", "Feminist Criticism", "Queer Theory", "Postcolonial Theory"],
+  discourse: ["register", "idiolect", "sociolect", "dialect", "code-switching"]
+};
+
+// ─── HELPER: Grade-based question type decision ─────────────────────────────
+
+function isMCQ(grade: number, rng: () => number): boolean {
+  if (grade === 1) return true; // Grade 1: 100% MCQ
+  if (grade <= 3) return rng() < 0.6; // Grade 2-3: 60% MCQ
+  if (grade <= 6) return rng() < 0.5; // Grade 4-6: 50% MCQ
+  return rng() < 0.4; // Grade 7-8: 40% MCQ
+}
+
+// ─── GRADE 1 GENERATORS ───────────────────────────────────────────────────
 
 export const G1_Generators = {
   phonics_g1: {
-    short_long_vowels_g1: (seed?: number): CurriculumQuestion[] => {
+    short_long_vowels_g1: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const shortVowelWords = [
-        "cat", "dog", "hat", "sun", "bed", "pig", "log", "cup", "bag", "sit",
-        "pen", "net", "fox", "run", "dig", "can", "sat", "map", "but", "wet"
-      ];
-      const longVowelWords = [
-        "cake", "bike", "home", "tree", "blue", "rope", "kite", "nose", "mule", "game",
-        "bike", "gate", "ride", "note", "dune", "hope", "lake", "mate", "cube", "side"
-      ];
-
+      const q: CurriculumQuestion[] = [];
       for (let i = 0; i < 30; i++) {
         const isLong = rng() > 0.5;
-        const words = isLong ? longVowelWords : shortVowelWords;
-        const correct = pickRandom(words, rng);
-        const distractors = isLong
-          ? shuffle(shortVowelWords, rng).slice(0, 3)
-          : shuffle(longVowelWords, rng).slice(0, 3);
-
-        let options = [correct, ...distractors];
-        options = shuffle(options, rng);
-
-        questions.push({
-          type: "mcq",
-          topic: "phonics_g1",
-          subtopic: "short_long_vowels_g1",
-          question: `Which word has a ${isLong ? "LONG" : "SHORT"} vowel sound?`,
-          options,
-          correct: options.indexOf(correct)
-        });
+        const word = pick(isLong ? GRADE1_WORDS.longVowel : GRADE1_WORDS.shortVowel, rng);
+        const wrong = (isLong ? GRADE1_WORDS.shortVowel : GRADE1_WORDS.longVowel).filter(w => w !== word).slice(0, 3);
+        q.push(createMCQ("phonics_g1", "short_long_vowels_g1",
+          `Which word has a ${isLong ? "LONG" : "SHORT"} vowel sound?`, word, wrong));
       }
-
-      return questions;
+      return q;
     },
-
-    digraphs_g1: (seed?: number): CurriculumQuestion[] => {
+    digraphs_g1: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const digraphs = [
-        { digraph: "sh", words: ["ship", "shell", "shop", "show", "shut"], distractors: ["sit", "sat", "sun", "sad", "set"] },
-        { digraph: "ch", words: ["chop", "chat", "chin", "chip", "chew"], distractors: ["cat", "can", "cap", "car", "cab"] },
-        { digraph: "th", words: ["that", "this", "the", "thin", "them"], distractors: ["tan", "tin", "ten", "two", "top"] },
-        { digraph: "wh", words: ["what", "when", "where", "which", "who"], distractors: ["wet", "win", "wig", "wag", "web"] }
-      ];
-
+      const q: CurriculumQuestion[] = [];
+      const pairs = [["sh", "ship"], ["ch", "chat"], ["th", "them"], ["wh", "when"]];
       for (let i = 0; i < 30; i++) {
-        const dg = pickRandom(digraphs, rng);
-        const correct = pickRandom(dg.words, rng);
-        const distractors = shuffle(dg.distractors, rng).slice(0, 3);
-        let options = [dg.digraph, ...distractors.slice(0, 1).map(() => rng() > 0.5 ? "st" : "sp")];
-        options = shuffle(options, rng);
-
-        questions.push({
-          type: "mcq",
-          topic: "phonics_g1",
-          subtopic: "digraphs_g1",
-          question: `Which digraph appears in the word '${correct}'?`,
-          options,
-          correct: options.indexOf(dg.digraph)
-        });
+        const [dg, word] = pick(pairs, rng);
+        const wrong = pairs.filter(p => p[0] !== dg).map(p => p[0]);
+        q.push(createMCQ("phonics_g1", "digraphs_g1",
+          `Which two letters make ONE sound in '${word}'?`, dg, wrong));
       }
-
-      return questions;
+      return q;
     },
-
-    uppercase_lowercase_g1: (seed?: number): CurriculumQuestion[] => {
+    blends_g1: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
-
+      const q: CurriculumQuestion[] = [];
+      const blends = ["st", "sp", "sn", "sl", "sm", "sw", "sk", "sc", "bl", "br", "cl", "cr", "dr", "fr", "gr"];
       for (let i = 0; i < 30; i++) {
-        const letter = pickRandom(letters, rng);
-        const isUppercase = rng() > 0.5;
-
-        const target = isUppercase ? letter : letter.toLowerCase();
-        const distractors = shuffle(letters, rng).slice(0, 3).map(l => isUppercase ? l : l.toLowerCase());
-
-        let options = [target, ...distractors];
-        options = shuffle(options, rng);
-
-        questions.push({
-          type: "mcq",
-          topic: "phonics_g1",
-          subtopic: "uppercase_lowercase_g1",
-          question: `Which is ${isUppercase ? "UPPERCASE" : "lowercase"}?`,
-          options,
-          correct: options.indexOf(target)
-        });
+        const blend = pick(blends, rng);
+        const word = pick(GRADE1_WORDS.blends, rng);
+        const wrong = blends.filter(b => b !== blend).slice(0, 3);
+        q.push(createMCQ("phonics_g1", "blends_g1", `Which blend is in '${word}'?`, blend, wrong));
       }
-
-      return questions;
+      return q;
     },
-
-    syllables_g1: (seed?: number): CurriculumQuestion[] => {
+    uppercase_lowercase_g1: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const wordsByCount = [
-        { count: 1, words: ["cat", "dog", "pen", "sun", "bat", "sit", "run", "cup"] },
-        { count: 2, words: ["butter", "sister", "pencil", "happy", "baby", "table", "apple", "rabbit"] },
-        { count: 3, words: ["butterfly", "elephant", "banana", "camera", "family", "hospital", "yesterday", "animal"] }
-      ];
-
+      const q: CurriculumQuestion[] = [];
       for (let i = 0; i < 30; i++) {
-        const syllGroup = pickRandom(wordsByCount, rng);
-        const correct = pickRandom(syllGroup.words, rng);
-        const distractors = wordsByCount.filter(w => w.count !== syllGroup.count).flatMap(w => w.words).slice(0, 3);
-
-        let options = [String(syllGroup.count), ...distractors.map(w => String(w.split(/[aeiou]/i).filter(x => x).length))];
-        options = shuffle(Array.from(new Set(options)), rng).slice(0, 4);
-
-        questions.push({
-          type: "mcq",
-          topic: "phonics_g1",
-          subtopic: "syllables_g1",
-          question: `How many syllables does the word '${correct}' have?`,
-          options,
-          correct: options.indexOf(String(syllGroup.count))
-        });
+        const idx = Math.floor(rng() * GRADE1_WORDS.uppercase.length);
+        const isUpper = rng() > 0.5;
+        const correct = isUpper ? GRADE1_WORDS.uppercase[idx] : GRADE1_WORDS.lowercase[idx];
+        const wrong = isUpper
+          ? [GRADE1_WORDS.lowercase[idx], pick(GRADE1_WORDS.lowercase, rng), pick(GRADE1_WORDS.lowercase, rng)]
+          : [GRADE1_WORDS.uppercase[idx], pick(GRADE1_WORDS.uppercase, rng), pick(GRADE1_WORDS.uppercase, rng)];
+        q.push(createMCQ("phonics_g1", "uppercase_lowercase_g1",
+          `Which letter is ${isUpper ? "UPPERCASE" : "lowercase"}?`, correct, wrong));
       }
-
-      return questions;
+      return q;
     },
-
-    blends_g1: (seed?: number): CurriculumQuestion[] => {
+    rhyming_g1: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const blends = ["st", "cr", "bl", "tr", "fr", "gr", "pl", "cl", "br", "dr"];
-      const blendWords: Record<string, string[]> = {
-        st: ["stop", "star", "step", "still", "stick"],
-        cr: ["crab", "crop", "crash", "cream", "crisp"],
-        bl: ["blue", "black", "blank", "blend", "block"],
-        tr: ["tree", "truck", "trip", "train", "track"],
-        fr: ["frog", "from", "free", "fruit", "friend"],
-        gr: ["green", "great", "grass", "grind", "grab"],
-        pl: ["play", "place", "plant", "plan", "plane"],
-        cl: ["class", "clean", "clock", "clap", "climb"],
-        br: ["brain", "brown", "break", "bring", "bread"],
-        dr: ["drop", "drink", "dress", "dream", "drive"]
-      };
-
+      const q: CurriculumQuestion[] = [];
+      const rhymes = [["cat", "bat"], ["dog", "log"], ["hat", "mat"], ["sit", "fit"], ["sun", "fun"], ["bed", "red"], ["pig", "dig"]];
       for (let i = 0; i < 30; i++) {
-        const blend = pickRandom(blends, rng);
-        const word = pickRandom(blendWords[blend], rng);
-        const wrongBlends = shuffle(blends.filter(b => b !== blend), rng).slice(0, 3);
-
-        let options = [word, ...wrongBlends.map(b => blendWords[b][0])];
-        options = shuffle(options, rng);
-
-        questions.push({
-          type: "mcq",
-          topic: "phonics_g1",
-          subtopic: "blends_g1",
-          question: `Which word starts with the blend '${blend}'?`,
-          options,
-          correct: options.indexOf(word)
-        });
+        const [w1, w2] = pick(rhymes, rng);
+        const correct = rng() > 0.5 ? w1 : w2;
+        const target = correct === w1 ? w2 : w1;
+        const wrong = rhymes.filter(r => !r.includes(target)).map(r => pick(r, rng)).slice(0, 3);
+        q.push(createMCQ("phonics_g1", "rhyming_g1", `Which word rhymes with '${correct}'?`, target, wrong));
       }
-
-      return questions;
-    },
-
-    rhyming_g1: (seed?: number): CurriculumQuestion[] => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const rhymePairs = [
-        { word: "cat", rhymes: ["bat", "mat", "sat", "rat", "hat"], nonRhymes: ["dog", "sun", "pen", "top"] },
-        { word: "dog", rhymes: ["log", "fog", "hog", "bog", "cog"], nonRhymes: ["cat", "bat", "sun", "pin"] },
-        { word: "tree", rhymes: ["bee", "see", "free", "key", "tea"], nonRhymes: ["cat", "dog", "man", "pig"] },
-        { word: "hen", rhymes: ["pen", "ten", "den", "men", "then"], nonRhymes: ["cat", "dog", "sun", "box"] },
-        { word: "sun", rhymes: ["fun", "run", "bun", "gun", "dun"], nonRhymes: ["cat", "dog", "pen", "hat"] },
-        { word: "king", rhymes: ["ring", "sing", "wing", "thing", "sting"], nonRhymes: ["cat", "dog", "hen", "man"] },
-        { word: "house", rhymes: ["mouse", "louse"], nonRhymes: ["cat", "dog", "sun", "pen"] },
-        { word: "ball", rhymes: ["call", "fall", "tall", "wall", "small"], nonRhymes: ["cat", "dog", "tree", "hen"] }
-      ];
-
-      for (let i = 0; i < 30; i++) {
-        const pair = pickRandom(rhymePairs, rng);
-        const correct = pickRandom(pair.rhymes, rng);
-        const nonRhymes = shuffle(pair.nonRhymes, rng).slice(0, 3);
-
-        let options = [correct, ...nonRhymes];
-        options = shuffle(options, rng);
-
-        questions.push({
-          type: "mcq",
-          topic: "phonics_g1",
-          subtopic: "rhyming_g1",
-          question: `Which word RHYMES with '${pair.word}'?`,
-          options,
-          correct: options.indexOf(correct)
-        });
-      }
-
-      return questions;
-    }
-  },
-
-  words_g1: {
-    sight_words_g1: (seed?: number): CurriculumQuestion[] => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const sightWords = ["the", "a", "is", "and", "to", "in", "of", "that", "it", "with", "for", "on", "was", "at", "as"];
-
-      for (let i = 0; i < 30; i++) {
-        const correct = pickRandom(sightWords, rng);
-        const distractors = shuffle("abcdefghijklmnopqrstuvwxyz".split(""), rng)
-          .slice(0, 3)
-          .map(c => c + (rng() > 0.5 ? "zx" : "qw"));
-
-        let options = [correct, ...distractors];
-        options = shuffle(options, rng);
-
-        questions.push({
-          type: "mcq",
-          topic: "words_g1",
-          subtopic: "sight_words_g1",
-          question: `Which is a common sight word?`,
-          options,
-          correct: options.indexOf(correct)
-        });
-      }
-
-      return questions;
-    },
-
-    nouns_g1: (seed?: number): CurriculumQuestion[] => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const nouns = ["dog", "cat", "house", "tree", "apple", "book", "girl", "boy", "ball", "chair", "table", "flower"];
-      const notNouns = ["run", "jump", "happy", "big", "red", "slow", "fast", "eat", "swim", "walk"];
-
-      for (let i = 0; i < 30; i++) {
-        const correct = pickRandom(nouns, rng);
-        const distractors = shuffle(notNouns, rng).slice(0, 3);
-
-        let options = [correct, ...distractors];
-        options = shuffle(options, rng);
-
-        questions.push({
-          type: "mcq",
-          topic: "words_g1",
-          subtopic: "nouns_g1",
-          question: `Which word is a NOUN?`,
-          options,
-          correct: options.indexOf(correct)
-        });
-      }
-
-      return questions;
-    },
-
-    verbs_g1: (seed?: number): CurriculumQuestion[] => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const verbs = ["jump", "run", "eat", "sleep", "play", "swim", "sing", "dance", "walk", "sit", "stand", "write"];
-      const notVerbs = ["dog", "happy", "red", "house", "tree", "big", "slow", "book"];
-
-      for (let i = 0; i < 30; i++) {
-        const correct = pickRandom(verbs, rng);
-        const distractors = shuffle(notVerbs, rng).slice(0, 3);
-
-        let options = [correct, ...distractors];
-        options = shuffle(options, rng);
-
-        questions.push({
-          type: "mcq",
-          topic: "words_g1",
-          subtopic: "verbs_g1",
-          question: `Which word is a VERB?`,
-          options,
-          correct: options.indexOf(correct)
-        });
-      }
-
-      return questions;
-    },
-
-    articles_g1: (seed?: number): CurriculumQuestion[] => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const vowelWords = ["apple", "egg", "orange", "ant", "owl", "umbrella"];
-      const consonantWords = ["cat", "dog", "house", "sun", "tree", "ball"];
-
-      for (let i = 0; i < 30; i++) {
-        const isVowel = rng() > 0.5;
-        const word = pickRandom(isVowel ? vowelWords : consonantWords, rng);
-        const correct = isVowel ? "an" : "a";
-        const distractors = ["the", "one", "some"];
-
-        let options = [correct, ...distractors];
-        options = shuffle(options, rng);
-
-        questions.push({
-          type: "mcq",
-          topic: "words_g1",
-          subtopic: "articles_g1",
-          question: `Which article correctly fills the blank? '___ ${word}'`,
-          options,
-          correct: options.indexOf(correct)
-        });
-      }
-
-      return questions;
-    },
-
-    compound_words_g1: (seed?: number): CurriculumQuestion[] => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const compounds = ["sunshine", "playground", "raincoat", "classroom", "birthday", "backpack", "grandmother", "football"];
-      const notCompounds = ["happy", "yellow", "beautiful", "friendly", "careful", "wonderful"];
-
-      for (let i = 0; i < 30; i++) {
-        const correct = pickRandom(compounds, rng);
-        const distractors = shuffle(notCompounds, rng).slice(0, 3);
-
-        let options = [correct, ...distractors];
-        options = shuffle(options, rng);
-
-        questions.push({
-          type: "mcq",
-          topic: "words_g1",
-          subtopic: "compound_words_g1",
-          question: `Which is a COMPOUND WORD?`,
-          options,
-          correct: options.indexOf(correct)
-        });
-      }
-
-      return questions;
-    }
-  },
-
-  sentences_g1: {
-    end_punctuation_g1: (seed?: number): CurriculumQuestion[] => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const statements = ["I like cats.", "The sun is yellow.", "She runs fast.", "They play outside."];
-      const questions_list = ["Where do you live?", "What is your name?", "Do you like apples?", "Can you swim?"];
-      const exclamations = ["Watch out!", "Help me!", "That is great!", "I won the game!"];
-
-      for (let i = 0; i < 30; i++) {
-        const type = Math.floor(rng() * 3);
-        let target = "";
-        let punctuation = "";
-
-        if (type === 0) {
-          target = pickRandom(statements, rng);
-          punctuation = ".";
-        } else if (type === 1) {
-          target = pickRandom(questions_list, rng);
-          punctuation = "?";
-        } else {
-          target = pickRandom(exclamations, rng);
-          punctuation = "!";
-        }
-
-        const sentence = target.replace(/[.?!]$/, "");
-        const opts = [".", "?", "!"];
-
-        questions.push({
-          type: "mcq",
-          topic: "sentences_g1",
-          subtopic: "end_punctuation_g1",
-          question: `Which punctuation should end this sentence? '${sentence}'`,
-          options: shuffle(opts, rng),
-          correct: shuffle(opts, rng).indexOf(punctuation)
-        });
-      }
-
-      return questions;
-    },
-
-    capitalization_g1: (seed?: number): CurriculumQuestion[] => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const sentences = [
-        "My dog is big.",
-        "I like to play.",
-        "The cat is sleeping.",
-        "She likes apples.",
-        "He runs fast."
-      ];
-
-      for (let i = 0; i < 30; i++) {
-        const sentence = pickRandom(sentences, rng);
-        const correct = sentence;
-        const distractors = [
-          sentence.toLowerCase(),
-          sentence.toUpperCase(),
-          sentence.split(" ").map((w, i) => i === 0 ? w : w.toLowerCase()).join(" ")
-        ];
-
-        let options = [correct, ...distractors];
-        options = shuffle(options, rng);
-
-        questions.push({
-          type: "mcq",
-          topic: "sentences_g1",
-          subtopic: "capitalization_g1",
-          question: `Which sentence is correctly capitalized?`,
-          options,
-          correct: options.indexOf(correct)
-        });
-      }
-
-      return questions;
-    },
-
-    sentence_vs_not_g1: (seed?: number): CurriculumQuestion[] => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const completeSentences = [
-        "The cat sat on the mat.",
-        "I like apples.",
-        "She runs fast.",
-        "They play outside.",
-        "He reads a book."
-      ];
-
-      const fragments = ["big dog", "ran fast", "red ball", "happy baby", "under the tree"];
-
-      for (let i = 0; i < 30; i++) {
-        const isComplete = rng() > 0.5;
-        const correct = isComplete ? pickRandom(completeSentences, rng) : pickRandom(fragments, rng);
-        const distractors = isComplete
-          ? shuffle(fragments, rng).slice(0, 3)
-          : shuffle(completeSentences, rng).slice(0, 3);
-
-        let options = [correct, ...distractors];
-        options = shuffle(options, rng);
-
-        questions.push({
-          type: "mcq",
-          topic: "sentences_g1",
-          subtopic: "sentence_vs_not_g1",
-          question: `Which is a COMPLETE sentence?`,
-          options,
-          correct: options.indexOf(correct)
-        });
-      }
-
-      return questions;
-    },
-
-    declarative_interrogative_g1: (seed?: number): CurriculumQuestion[] => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const declaratives = ["I live here.", "That is a dog.", "She likes apples.", "The sky is blue.", "He can run."];
-      const interrogatives = ["Where do you live?", "Is that a dog?", "Does she like apples?", "What color is the sky?", "Can he run?"];
-
-      for (let i = 0; i < 30; i++) {
-        const isInterrogative = rng() > 0.5;
-        const correct = isInterrogative ? pickRandom(interrogatives, rng) : pickRandom(declaratives, rng);
-        const distractors = isInterrogative
-          ? shuffle(declaratives, rng).slice(0, 3)
-          : shuffle(interrogatives, rng).slice(0, 3);
-
-        let options = [correct, ...distractors];
-        options = shuffle(options, rng);
-
-        questions.push({
-          type: "mcq",
-          topic: "sentences_g1",
-          subtopic: "declarative_interrogative_g1",
-          question: `Which is an INTERROGATIVE sentence (a question)?`,
-          options,
-          correct: options.indexOf(correct)
-        });
-      }
-
-      return questions;
+      return q;
     }
   }
 };
 
-// ─── GRADE 2 GENERATORS (60% MCQ, 40% Typing) ──────────────────────────────────
+// ─── GRADE 2 GENERATORS ───────────────────────────────────────────────────
 
 export const G2_Generators = {
   pos_g2: {
-    nouns_common_proper_g2: (seed?: number): CurriculumQuestion[] => {
+    nouns_g2: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const commonNouns = ["dog", "city", "river", "mountain", "book", "teacher", "school", "apple"];
-      const properNouns = ["London", "Paris", "John", "Maria", "Amazon", "Everest", "Monday", "December"];
-
+      const q: CurriculumQuestion[] = [];
+      const nouns = ["cat", "dog", "house", "book", "tree", "school", "teacher", "friend"];
+      const notNouns = ["quickly", "run", "happy", "blue", "under"];
       for (let i = 0; i < 30; i++) {
-        const isTyping = i >= 18; // 60% MCQ, 40% Typing
-        const isProper = rng() > 0.5;
-
-        if (isTyping) {
-          const correct = isProper ? pickRandom(properNouns, rng) : pickRandom(commonNouns, rng);
-          questions.push({
-            type: "typing",
-            topic: "pos_g2",
-            subtopic: "nouns_common_proper_g2",
-            question: `Is '${correct}' a ${isProper ? "proper" : "common"} noun? (Answer: yes or no)`,
-            answer: "yes"
-          });
+        if (isMCQ(2, rng)) {
+          const noun = pick(nouns, rng);
+          const wrong = shuffle(notNouns, rng).slice(0, 3);
+          q.push(createMCQ("pos_g2", "nouns_g2", "Which is a NOUN?", noun, wrong));
         } else {
-          const correct = isProper ? pickRandom(properNouns, rng) : pickRandom(commonNouns, rng);
-          const distractors = isProper
-            ? shuffle(commonNouns, rng).slice(0, 3)
-            : shuffle(properNouns, rng).slice(0, 3);
-
-          let options = [correct, ...distractors];
-          options = shuffle(options, rng);
-
-          questions.push({
-            type: "mcq",
-            topic: "pos_g2",
-            subtopic: "nouns_common_proper_g2",
-            question: `Which is a ${isProper ? "PROPER" : "COMMON"} noun?`,
-            options,
-            correct: options.indexOf(correct)
-          });
+          q.push(createTyping("pos_g2", "nouns_g2", "Name a person, place, or thing:", pick(nouns, rng)));
         }
       }
-
-      return questions;
+      return q;
     },
-
-    nouns_plural_g2: (seed?: number): CurriculumQuestion[] => {
+    verbs_g2: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const singularPlural = [
-        { singular: "cat", plural: "cats" },
-        { singular: "child", plural: "children" },
-        { singular: "person", plural: "people" },
-        { singular: "goose", plural: "geese" },
-        { singular: "tooth", plural: "teeth" },
-        { singular: "foot", plural: "feet" },
-        { singular: "box", plural: "boxes" },
-        { singular: "bus", plural: "buses" },
-        { singular: "dish", plural: "dishes" },
-        { singular: "watch", plural: "watches" },
-        { singular: "baby", plural: "babies" },
-        { singular: "strawberry", plural: "strawberries" }
-      ];
-
+      const q: CurriculumQuestion[] = [];
+      const verbs = ["run", "jump", "play", "eat", "sleep", "read", "write", "sing"];
+      const notVerbs = ["happy", "blue", "quickly", "small"];
       for (let i = 0; i < 30; i++) {
-        const isTyping = i >= 18;
-        const pair = pickRandom(singularPlural, rng);
-
-        if (isTyping) {
-          questions.push({
-            type: "typing",
-            topic: "pos_g2",
-            subtopic: "nouns_plural_g2",
-            question: `What is the plural of '${pair.singular}'?`,
-            answer: pair.plural
-          });
+        if (isMCQ(2, rng)) {
+          const verb = pick(verbs, rng);
+          const wrong = shuffle(notVerbs, rng).slice(0, 3);
+          q.push(createMCQ("pos_g2", "verbs_g2", "Which is an ACTION VERB?", verb, wrong));
         } else {
-          const wrongPlurals = shuffle(
-            singularPlural.filter(p => p.singular !== pair.singular),
-            rng
-          )
-            .slice(0, 3)
-            .map(p => p.plural);
-
-          let options = [pair.plural, ...wrongPlurals];
-          options = shuffle(options, rng);
-
-          questions.push({
-            type: "mcq",
-            topic: "pos_g2",
-            subtopic: "nouns_plural_g2",
-            question: `What is the PLURAL of '${pair.singular}'?`,
-            options,
-            correct: options.indexOf(pair.plural)
-          });
+          q.push(createTyping("pos_g2", "verbs_g2", "Write an action verb:", pick(verbs, rng)));
         }
       }
-
-      return questions;
+      return q;
     },
-
-    collective_nouns_g2: (seed?: number): CurriculumQuestion[] => {
+    adjectives_g2: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const collectiveData = [
-        { animal: "birds", collective: "flock", wrong: ["pack", "herd", "school"] },
-        { animal: "wolves", collective: "pack", wrong: ["flock", "herd", "colony"] },
-        { animal: "cows", collective: "herd", wrong: ["pack", "flock", "colony"] },
-        { animal: "fish", collective: "school", wrong: ["pack", "flock", "herd"] },
-        { animal: "bees", collective: "colony", wrong: ["pack", "herd", "swarm"] },
-        { animal: "ants", collective: "colony", wrong: ["pack", "flock", "swarm"] },
-        { animal: "lions", collective: "pride", wrong: ["pack", "herd", "colony"] }
-      ];
-
+      const q: CurriculumQuestion[] = [];
+      const adjs = ["happy", "blue", "small", "big", "fast", "slow", "cold", "warm"];
+      const notAdjs = ["run", "cat", "quickly", "jump"];
       for (let i = 0; i < 30; i++) {
-        const isTyping = i >= 18;
-        const data = pickRandom(collectiveData, rng);
-
-        if (isTyping) {
-          questions.push({
-            type: "typing",
-            topic: "pos_g2",
-            subtopic: "collective_nouns_g2",
-            question: `A group of ${data.animal} is called a...?`,
-            answer: data.collective
-          });
+        if (isMCQ(2, rng)) {
+          const adj = pick(adjs, rng);
+          const wrong = shuffle(notAdjs, rng).slice(0, 3);
+          q.push(createMCQ("pos_g2", "adjectives_g2", "Which is an ADJECTIVE?", adj, wrong));
         } else {
-          let options = [data.collective, ...data.wrong];
-          options = shuffle(options, rng);
-
-          questions.push({
-            type: "mcq",
-            topic: "pos_g2",
-            subtopic: "collective_nouns_g2",
-            question: `What is the COLLECTIVE NOUN for a group of ${data.animal}?`,
-            options,
-            correct: options.indexOf(data.collective)
-          });
+          q.push(createTyping("pos_g2", "adjectives_g2", "Name a describing word:", pick(adjs, rng)));
         }
       }
-
-      return questions;
+      return q;
+    }
+  },
+  spelling_g2: {
+    vowel_patterns_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const longE = ["feet", "meet", "need", "seed", "keep"];
+      const shortE = ["pet", "bed", "red", "wet", "net"];
+      for (let i = 0; i < 30; i++) {
+        const isLong = rng() > 0.5;
+        const word = pick(isLong ? longE : shortE, rng);
+        const wrong = (isLong ? shortE : longE).slice(0, 3);
+        q.push(createMCQ("spelling_g2", "vowel_patterns_g2",
+          `Which word has a ${isLong ? "LONG" : "SHORT"} 'e' sound?`, word, wrong));
+      }
+      return q;
     },
-
-    verbs_g2: (seed?: number): CurriculumQuestion[] => {
+    vowel_teams_g2: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const actionVerbs = ["run", "jump", "eat", "sleep", "play", "sing", "write", "read", "dance", "swim"];
-      const linkingVerbs = ["is", "are", "am", "was", "were", "be", "seem", "feel", "look"];
-
+      const q: CurriculumQuestion[] = [];
+      const teams = [["ai", "rain"], ["ea", "beat"], ["oa", "boat"], ["oo", "moon"]];
       for (let i = 0; i < 30; i++) {
-        const isTyping = i >= 18;
-        const isLinking = rng() > 0.5;
-        const correct = isLinking ? pickRandom(linkingVerbs, rng) : pickRandom(actionVerbs, rng);
-        const distractors = isLinking
-          ? shuffle(actionVerbs, rng).slice(0, 3)
-          : shuffle(linkingVerbs, rng).slice(0, 3);
-
-        if (isTyping) {
-          questions.push({
-            type: "typing",
-            topic: "pos_g2",
-            subtopic: "verbs_g2",
-            question: `Is '${correct}' a ${isLinking ? "linking" : "action"} verb?`,
-            answer: "yes"
-          });
-        } else {
-          let options = [correct, ...distractors];
-          options = shuffle(options, rng);
-
-          questions.push({
-            type: "mcq",
-            topic: "pos_g2",
-            subtopic: "verbs_g2",
-            question: `Which is a ${isLinking ? "LINKING" : "ACTION"} verb?`,
-            options,
-            correct: options.indexOf(correct)
-          });
-        }
+        const [team, word] = pick(teams, rng);
+        const wrong = teams.filter(t => t[0] !== team).map(t => t[0]);
+        q.push(createMCQ("spelling_g2", "vowel_teams_g2", `What vowel team is in '${word}'?`, team, wrong));
       }
-
-      return questions;
+      return q;
     },
-
-    irregular_past_g2: (seed?: number): CurriculumQuestion[] => {
+    contractions_g2: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const irregularVerbs = [
-        { base: "run", past: "ran" },
-        { base: "eat", past: "ate" },
-        { base: "go", past: "went" },
-        { base: "see", past: "saw" },
-        { base: "take", past: "took" },
-        { base: "make", past: "made" },
-        { base: "come", past: "came" },
-        { base: "drink", past: "drank" },
-        { base: "think", past: "thought" },
-        { base: "bring", past: "brought" }
-      ];
-
+      const q: CurriculumQuestion[] = [];
+      const pairs = [["do not", "don't"], ["can not", "can't"], ["will not", "won't"]];
       for (let i = 0; i < 30; i++) {
-        const isTyping = i >= 18;
-        const verb = pickRandom(irregularVerbs, rng);
-
-        if (isTyping) {
-          questions.push({
-            type: "typing",
-            topic: "pos_g2",
-            subtopic: "irregular_past_g2",
-            question: `What is the past tense of '${verb.base}'?`,
-            answer: verb.past
-          });
+        if (isMCQ(2, rng)) {
+          const [expanded, contra] = pick(pairs, rng);
+          const wrong = pairs.filter(p => p[1] !== contra).map(p => p[1]);
+          q.push(createMCQ("spelling_g2", "contractions_g2",
+            `What is the contraction of '${expanded}'?`, contra, wrong));
         } else {
-          const wrongPasts = shuffle(
-            irregularVerbs.filter(v => v.base !== verb.base),
-            rng
-          )
-            .slice(0, 3)
-            .map(v => v.past);
-
-          let options = [verb.past, ...wrongPasts];
-          options = shuffle(options, rng);
-
-          questions.push({
-            type: "mcq",
-            topic: "pos_g2",
-            subtopic: "irregular_past_g2",
-            question: `What is the past tense of '${verb.base}'?`,
-            options,
-            correct: options.indexOf(verb.past)
-          });
+          const [expanded] = pick(pairs, rng);
+          const answer = pairs.find(p => p[0] === expanded)?.[1] || "";
+          q.push(createTyping("spelling_g2", "contractions_g2",
+            `Write the contraction of '${expanded}':`, answer));
         }
       }
-
-      return questions;
-    },
-
-    adj_adv_g2: (seed?: number): CurriculumQuestion[] => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const adverbs = ["quickly", "slowly", "carefully", "happily", "loudly", "softly", "gently", "quietly", "badly"];
-      const adjectives = ["quick", "slow", "careful", "happy", "loud", "soft", "gentle", "quiet", "bad"];
-
-      for (let i = 0; i < 30; i++) {
-        const isTyping = i >= 18;
-        const isAdverb = rng() > 0.5;
-        const correct = isAdverb ? pickRandom(adverbs, rng) : pickRandom(adjectives, rng);
-        const distractors = isAdverb
-          ? shuffle(adjectives, rng).slice(0, 3)
-          : shuffle(adverbs, rng).slice(0, 3);
-
-        if (isTyping) {
-          questions.push({
-            type: "typing",
-            topic: "pos_g2",
-            subtopic: "adj_adv_g2",
-            question: `Is '${correct}' an adjective or adverb?`,
-            answer: isAdverb ? "adverb" : "adjective"
-          });
-        } else {
-          let options = [correct, ...distractors];
-          options = shuffle(options, rng);
-
-          questions.push({
-            type: "mcq",
-            topic: "pos_g2",
-            subtopic: "adj_adv_g2",
-            question: `Which word is an ${isAdverb ? "ADVERB" : "ADJECTIVE"}?`,
-            options,
-            correct: options.indexOf(correct)
-          });
-        }
-      }
-
-      return questions;
-    },
-
-    pronouns_g2: (seed?: number): CurriculumQuestion[] => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const pronouns = ["I", "you", "he", "she", "it", "we", "they", "me", "him", "her", "us", "them"];
-
-      for (let i = 0; i < 30; i++) {
-        const isTyping = i >= 18;
-        const correct = pickRandom(pronouns, rng);
-
-        if (isTyping) {
-          questions.push({
-            type: "typing",
-            topic: "pos_g2",
-            subtopic: "pronouns_g2",
-            question: `Is '${correct}' a pronoun?`,
-            answer: "yes"
-          });
-        } else {
-          const distractors = ["dog", "happy", "run", "apple", "big"];
-          let options = [correct, ...shuffle(distractors, rng).slice(0, 3)];
-          options = shuffle(options, rng);
-
-          questions.push({
-            type: "mcq",
-            topic: "pos_g2",
-            subtopic: "pronouns_g2",
-            question: `Which word is a PRONOUN?`,
-            options,
-            correct: options.indexOf(correct)
-          });
-        }
-      }
-
-      return questions;
+      return q;
     }
   }
 };
 
-// ─── GRADE 3 GENERATORS (60% MCQ, 40% Typing) ──────────────────────────────────
+// ─── GRADE 3 GENERATORS ───────────────────────────────────────────────────
 
 export const G3_Generators = {
-  grammar_g3: {
-    subject_verb_agreement_g3: (seed?: number): CurriculumQuestion[] => {
+  pos_g3: {
+    plurals_g3: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const sentences = [
-        { sentence: "The cat ___ on the mat.", blank: "is", options: ["is", "are"] },
-        { sentence: "The dogs ___ in the yard.", blank: "are", options: ["am", "is", "are"] },
-        { sentence: "She ___ a teacher.", blank: "is", options: ["are", "is"] },
-        { sentence: "They ___ happy.", blank: "are", options: ["is", "are"] },
-        { sentence: "I ___ in school.", blank: "am", options: ["am", "is", "are"] }
-      ];
-
+      const q: CurriculumQuestion[] = [];
+      const pairs = [["cat", "cats"], ["dog", "dogs"], ["box", "boxes"], ["bus", "buses"], ["glass", "glasses"], ["dish", "dishes"]];
       for (let i = 0; i < 30; i++) {
-        const isTyping = i >= 18;
-        const sent = pickRandom(sentences, rng);
-
-        if (isTyping) {
-          questions.push({
-            type: "typing",
-            topic: "grammar_g3",
-            subtopic: "subject_verb_agreement_g3",
-            question: sent.sentence.replace("___", "[_____]"),
-            answer: sent.blank
-          });
+        if (isMCQ(3, rng)) {
+          const [sing, plur] = pick(pairs, rng);
+          const wrong = pairs.filter(p => p[0] !== sing).map(p => p[1]).slice(0, 3);
+          q.push(createMCQ("pos_g3", "plurals_g3", `What is the plural of '${sing}'?`, plur, wrong));
         } else {
-          let options = shuffle(sent.options, rng);
-          questions.push({
-            type: "mcq",
-            topic: "grammar_g3",
-            subtopic: "subject_verb_agreement_g3",
-            question: `Choose the correct verb: ${sent.sentence}`,
-            options,
-            correct: options.indexOf(sent.blank)
-          });
+          const [sing, plur] = pick(pairs, rng);
+          q.push(createTyping("pos_g3", "plurals_g3", `Write the plural of '${sing}':`, plur));
         }
       }
-
-      return questions;
+      return q;
     },
-
-    prefixes_suffixes_g3: (seed?: number): CurriculumQuestion[] => {
+    verbs_past_g3: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const words = [
-        { word: "unhappy", prefix: "un", root: "happy" },
-        { word: "redo", prefix: "re", root: "do" },
-        { word: "running", suffix: "ing", root: "run" },
-        { word: "slowly", suffix: "ly", root: "slow" },
-        { word: "played", suffix: "ed", root: "play" }
-      ];
-
+      const q: CurriculumQuestion[] = [];
+      const verbs = [["play", "played"], ["jump", "jumped"], ["walk", "walked"], ["talk", "talked"]];
       for (let i = 0; i < 30; i++) {
-        const isTyping = i >= 18;
-        const wordData = pickRandom(words, rng);
-
-        if (isTyping) {
-          const isSuffix = wordData.suffix !== undefined;
-          questions.push({
-            type: "typing",
-            topic: "grammar_g3",
-            subtopic: "prefixes_suffixes_g3",
-            question: `What is the ${isSuffix ? "suffix" : "prefix"} in '${wordData.word}'?`,
-            answer: isSuffix ? wordData.suffix! : wordData.prefix!
-          });
+        if (isMCQ(3, rng)) {
+          const [base, past] = pick(verbs, rng);
+          const wrong = verbs.filter(v => v[0] !== base).map(v => v[1]).slice(0, 3);
+          q.push(createMCQ("pos_g3", "verbs_past_g3", `What is the past tense of '${base}'?`, past, wrong));
         } else {
-          const isSuffix = wordData.suffix !== undefined;
-          const affixes = ["un", "re", "ing", "ed", "ly", "ness", "ment"];
-          const distractors = shuffle(
-            affixes.filter(a => a !== (isSuffix ? wordData.suffix : wordData.prefix)),
-            rng
-          ).slice(0, 3);
-
-          let options = [isSuffix ? wordData.suffix! : wordData.prefix!, ...distractors];
-          options = shuffle(options, rng);
-
-          questions.push({
-            type: "mcq",
-            topic: "grammar_g3",
-            subtopic: "prefixes_suffixes_g3",
-            question: `What ${isSuffix ? "suffix" : "prefix"} is in the word '${wordData.word}'?`,
-            options,
-            correct: options.indexOf(isSuffix ? wordData.suffix! : wordData.prefix!)
-          });
+          const [base, past] = pick(verbs, rng);
+          q.push(createTyping("pos_g3", "verbs_past_g3", `Write the past tense of '${base}':`, past));
         }
       }
-
-      return questions;
-    },
-
-    contractions_g3: (seed?: number): CurriculumQuestion[] => {
+      return q;
+    }
+  },
+  vocab_g3: {
+    compound_words_g3: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
-      const contractions = [
-        { contraction: "don't", expanded: "do not" },
-        { contraction: "isn't", expanded: "is not" },
-        { contraction: "can't", expanded: "cannot" },
-        { contraction: "won't", expanded: "will not" },
-        { contraction: "I'm", expanded: "I am" },
-        { contraction: "it's", expanded: "it is" },
-        { contraction: "they're", expanded: "they are" }
-      ];
-
+      const q: CurriculumQuestion[] = [];
+      const compounds = [["base", "ball"], ["foot", "ball"], ["class", "room"], ["sun", "light"], ["rain", "bow"]];
       for (let i = 0; i < 30; i++) {
-        const isTyping = i >= 18;
-        const c = pickRandom(contractions, rng);
-
-        if (isTyping) {
-          const showContraction = rng() > 0.5;
-          if (showContraction) {
-            questions.push({
-              type: "typing",
-              topic: "grammar_g3",
-              subtopic: "contractions_g3",
-              question: `Write the contraction for '${c.expanded}'`,
-              answer: c.contraction
-            });
-          } else {
-            questions.push({
-              type: "typing",
-              topic: "grammar_g3",
-              subtopic: "contractions_g3",
-              question: `What does '${c.contraction}' mean?`,
-              answer: c.expanded
-            });
-          }
+        if (isMCQ(3, rng)) {
+          const [p1, p2] = pick(compounds, rng);
+          const compound = p1 + p2;
+          const wrong = compounds.filter(c => !(c[0] === p1 && c[1] === p2)).map(c => c[0] + c[1]).slice(0, 3);
+          q.push(createMCQ("vocab_g3", "compound_words_g3", "Which is a compound word?", compound, wrong));
         } else {
-          const showContraction = rng() > 0.5;
-          const distractors = shuffle(
-            contractions.filter(x => x.contraction !== c.contraction),
-            rng
-          )
-            .slice(0, 3)
-            .map(x => (showContraction ? x.contraction : x.expanded));
-
-          let options = [showContraction ? c.contraction : c.expanded, ...distractors];
-          options = shuffle(options, rng);
-
-          questions.push({
-            type: "mcq",
-            topic: "grammar_g3",
-            subtopic: "contractions_g3",
-            question: showContraction
-              ? `What is the CONTRACTION for '${c.expanded}'?`
-              : `What does '${c.contraction}' mean?`,
-            options,
-            correct: options.indexOf(showContraction ? c.contraction : c.expanded)
-          });
+          const [p1, p2] = pick(compounds, rng);
+          q.push(createTyping("vocab_g3", "compound_words_g3", `Combine '${p1}' + '${p2}':`, p1 + p2));
         }
       }
-
-      return questions;
+      return q;
     }
   }
 };
 
-// ─── GRADE 4+ GENERATORS (stub examples — full implementation scales similarly) ──
+// ─── GRADE 4 GENERATORS ───────────────────────────────────────────────────
 
 export const G4_Generators = {
-  writing_g4: {
-    sentence_combining_g4: (seed?: number): CurriculumQuestion[] => {
+  pos_g4: {
+    modal_verbs_g4: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const questions: CurriculumQuestion[] = [];
-
+      const q: CurriculumQuestion[] = [];
+      const modals = ["can", "could", "may", "might", "must", "should", "would"];
       for (let i = 0; i < 30; i++) {
-        if (i >= 15) {
-          questions.push({
-            type: "typing",
-            topic: "writing_g4",
-            subtopic: "sentence_combining_g4",
-            question: "Combine these sentences: 'She is tall. She is smart.'",
-            answer: "She is tall and smart."
-          });
+        if (isMCQ(4, rng)) {
+          const modal = pick(modals, rng);
+          const wrong = modals.filter(m => m !== modal).slice(0, 3);
+          q.push(createMCQ("pos_g4", "modal_verbs_g4",
+            "Which modal verb shows possibility?", modal, wrong));
         } else {
-          questions.push({
-            type: "mcq",
-            topic: "writing_g4",
-            subtopic: "sentence_combining_g4",
-            question: "Which combines these best?",
-            options: ["She is tall and smart.", "She tall smart.", "Tall smart she."],
-            correct: 0
-          });
+          q.push(createTyping("pos_g4", "modal_verbs_g4",
+            "Name a modal verb:", pick(modals, rng)));
         }
       }
-
-      return questions;
+      return q;
+    }
+  },
+  figurative_g4: {
+    simile_metaphor_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const examples = [
+        ["like", "The moon is like a pearl", "simile"],
+        ["is", "Time is money", "metaphor"],
+        ["as...as", "He is as brave as a lion", "simile"]
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(4, rng)) {
+          const [_, example, type] = pick(examples, rng);
+          const wrong = ["hyperbole", "alliteration", "personification"];
+          q.push(createMCQ("figurative_g4", "simile_metaphor_g4",
+            `Is this a simile or metaphor? "${example}"`, type, wrong));
+        } else {
+          q.push(createTyping("figurative_g4", "simile_metaphor_g4",
+            "Write a simile (use 'like' or 'as'):",
+            ["The moon is like a pearl", "She runs like a cheetah"]));
+        }
+      }
+      return q;
     }
   }
 };
 
-export const G5_Generators = { writing_g5: { main_idea_g5: (seed?: number): CurriculumQuestion[] => [] } };
-export const G6_Generators = { writing_g6: { tone_purpose_g6: (seed?: number): CurriculumQuestion[] => [] } };
-export const G7_Generators = { writing_g7: { persuasive_g7: (seed?: number): CurriculumQuestion[] => [] } };
-export const G8_Generators = { writing_g8: { essay_analysis_g8: (seed?: number): CurriculumQuestion[] => [] } };
+// ─── GRADE 5 GENERATORS ───────────────────────────────────────────────────
+
+export const G5_Generators = {
+  pos_g5: {
+    relative_pronouns_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const pronouns = ["who", "which", "that", "whom", "whose"];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(5, rng)) {
+          const pro = pick(pronouns, rng);
+          const wrong = pronouns.filter(p => p !== pro).slice(0, 3);
+          q.push(createMCQ("pos_g5", "relative_pronouns_g5",
+            "Which is a relative pronoun?", pro, wrong));
+        } else {
+          q.push(createTyping("pos_g5", "relative_pronouns_g5",
+            "Name a relative pronoun:", pick(pronouns, rng)));
+        }
+      }
+      return q;
+    }
+  },
+  syntax_g5: {
+    complex_sentences_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const conjunctions = ["because", "although", "while", "since", "if"];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(5, rng)) {
+          const conj = pick(conjunctions, rng);
+          const wrong = conjunctions.filter(c => c !== conj).slice(0, 3);
+          q.push(createMCQ("syntax_g5", "complex_sentences_g5",
+            "Which shows cause and effect?", conj, wrong));
+        } else {
+          q.push(createTyping("syntax_g5", "complex_sentences_g5",
+            "Write a complex sentence using 'because':",
+            ["I eat because I am hungry", "Because I am hungry"]));
+        }
+      }
+      return q;
+    }
+  }
+};
+
+// ─── GRADE 6 GENERATORS ───────────────────────────────────────────────────
+
+export const G6_Generators = {
+  syntax_g6: {
+    active_passive_voice_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const pairs = [
+        ["The dog ate the food", "The food was eaten by the dog"],
+        ["She wrote the book", "The book was written by her"]
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(6, rng)) {
+          const [active, passive] = pick(pairs, rng);
+          const wrong = ["It was wrote", "She was written", "The book wrote"];
+          q.push(createMCQ("syntax_g6", "active_passive_voice_g6",
+            `Which is PASSIVE? "${active}"`, passive, wrong));
+        } else {
+          const [active] = pick(pairs, rng);
+          q.push(createTyping("syntax_g6", "active_passive_voice_g6",
+            `Convert to passive: "${active}"`,
+            ["was eaten", "was written"]));
+        }
+      }
+      return q;
+    }
+  },
+  literary_g6: {
+    literary_devices_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const devices = ["alliteration", "metaphor", "simile", "personification", "hyperbole"];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(6, rng)) {
+          const device = pick(devices, rng);
+          const wrong = devices.filter(d => d !== device).slice(0, 3);
+          q.push(createMCQ("literary_g6", "literary_devices_g6",
+            "What device is 'singing softly'?", device, wrong));
+        } else {
+          q.push(createTyping("literary_g6", "literary_devices_g6",
+            "Name a literary device:", pick(devices, rng)));
+        }
+      }
+      return q;
+    }
+  }
+};
+
+// ─── GRADE 7 GENERATORS ───────────────────────────────────────────────────
+
+export const G7_Generators = {
+  syntax_g7: {
+    verb_mood_g7: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const moods = ["indicative", "imperative", "subjunctive", "conditional"];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(7, rng)) {
+          const mood = pick(moods, rng);
+          const wrong = moods.filter(m => m !== mood).slice(0, 3);
+          q.push(createMCQ("syntax_g7", "verb_mood_g7",
+            "Which mood expresses a wish?", mood, wrong));
+        } else {
+          q.push(createTyping("syntax_g7", "verb_mood_g7",
+            "Name a verb mood:", pick(moods, rng)));
+        }
+      }
+      return q;
+    }
+  },
+  rhetoric_g7: {
+    rhetorical_devices_g7: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const devices = ["rhetorical question", "repetition", "parallel structure", "antithesis"];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(7, rng)) {
+          const device = pick(devices, rng);
+          const wrong = devices.filter(d => d !== device).slice(0, 3);
+          q.push(createMCQ("rhetoric_g7", "rhetorical_devices_g7",
+            "What device is 'To be or not to be'?", device, wrong));
+        } else {
+          q.push(createTyping("rhetoric_g7", "rhetorical_devices_g7",
+            "Name a rhetorical device:", pick(devices, rng)));
+        }
+      }
+      return q;
+    }
+  }
+};
+
+// ─── GRADE 8 GENERATORS ───────────────────────────────────────────────────
+
+export const G8_Generators = {
+  syntax_g8: {
+    syntax_devices_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const devices = ["anaphora", "epistrophe", "parataxis", "hypotaxis", "inversion"];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const device = pick(devices, rng);
+          const wrong = devices.filter(d => d !== device).slice(0, 3);
+          q.push(createMCQ("syntax_g8", "syntax_devices_g8",
+            "Which repeats at line beginnings?", device, wrong));
+        } else {
+          q.push(createTyping("syntax_g8", "syntax_devices_g8",
+            "Name a syntactic device:", pick(devices, rng)));
+        }
+      }
+      return q;
+    }
+  },
+  analysis_g8: {
+    critical_theory_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const theories = ["New Historicism", "Marxist Criticism", "Feminist Criticism", "Queer Theory"];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const theory = pick(theories, rng);
+          const wrong = theories.filter(t => t !== theory).slice(0, 3);
+          q.push(createMCQ("analysis_g8", "critical_theory_g8",
+            "Which examines power and class?", theory, wrong));
+        } else {
+          q.push(createTyping("analysis_g8", "critical_theory_g8",
+            "Name a critical theory:", pick(theories, rng)));
+        }
+      }
+      return q;
+    }
+  }
+};
+
+// ─── EXPORT & CONVENIENCE FUNCTION ──────────────────────────────────────────
+
+export const ALL_GENERATORS = {
+  G1: G1_Generators,
+  G2: G2_Generators,
+  G3: G3_Generators,
+  G4: G4_Generators,
+  G5: G5_Generators,
+  G6: G6_Generators,
+  G7: G7_Generators,
+  G8: G8_Generators
+};
+
+/** Get generator by grade and topic.subtopic */
+export function getEnglishGenerator(
+  grade: number,
+  topic: string,
+  subtopic: string
+): ((seed?: number) => CurriculumQuestion[]) | null {
+  const genGrade = ALL_GENERATORS[`G${grade}` as keyof typeof ALL_GENERATORS];
+  if (!genGrade) return null;
+  const genTopic = genGrade[topic as keyof typeof genGrade];
+  if (!genTopic) return null;
+  const genSub = genTopic[subtopic as keyof typeof genTopic];
+  return genSub || null;
+}
