@@ -260,8 +260,8 @@ function PingPongPage() {
     const tbl = () => {
       const w = W(), h = H();
       // Table should always be portrait: aspect ratio ~5:9 (width:height)
-      const maxTH = h * 0.92;
-      const maxTW = w * 0.84;
+      const maxTH = h * 0.76;
+      const maxTW = w * 0.82;
       // Enforce portrait ratio: width should be ~56% of height
       let tW = maxTW;
       let tH = maxTH;
@@ -295,8 +295,8 @@ function PingPongPage() {
     };
     gameRef.current = game;
 
-    const PADDLE_Y_PLAYER = 1.07;  // below table (on the wood)
-    const PADDLE_Y_AI = -0.07;    // above table (on the wood)
+    const PADDLE_Y_PLAYER = 1.05;  // just below table (on the wood)
+    const PADDLE_Y_AI = -0.05;    // just above table (on the wood)
 
     // Paddle dimensions (normalized) — circle
     const PADDLE_R = 0.045; // normalized radius for collision
