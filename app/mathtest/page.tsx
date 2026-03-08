@@ -706,14 +706,18 @@ export default function MathTestPage() {
     const cc = country?.code;
     const langPrefix =
       cc === 'US' || cc === 'GB' ? 'en' :
-      cc === 'AT' || cc === 'CH' ? 'de' : null;
-      // DE, US, GB, RO, HU → Supabase; AT/CH → getDEThemes() generátor (nincs Supabase adatuk)
+      cc === 'DE' || cc === 'AT' || cc === 'CH' ? 'de' :
+      cc === 'RO' ? 'ro' :
+      cc === 'HU' ? 'hu' : null;
+      // All countries use generator-based themes from mathCurriculum.ts
 
     if (langPrefix && selectedGrade) {
       const srcThemes =
         langPrefix === 'en' ? getENThemes(selectedGrade) :
         langPrefix === 'de' ? getDEThemes(selectedGrade) :
-        getROThemes(selectedGrade);
+        langPrefix === 'hu' ? getHUThemes(selectedGrade) :
+        langPrefix === 'ro' ? getROThemes(selectedGrade) :
+        getENThemes(selectedGrade);
       return srcThemes.map(theme => ({
         id: theme.key,
         name: theme.name,
