@@ -886,66 +886,65 @@ export default function MathTestPage() {
 
     {
       // ─── Extract topic blocks from selectedSubtopics (all grades) ──────────
+      // GARANTÁLTAN MINDEGYIK selectedSubtopic bekerül a topicBlocks-ba!
       const topicBlocks: Array<{ key: string; name: string }> = [];
       const topicKeysSeen = new Set<string>();
+      const processedSubtopics = new Set<string>();
 
-      // EN / DE / RO: generator-based topic IDs (format: {lang}_topic_{grade}_{key})
-      const generatorTopicIds = selectedSubtopics.filter(id =>
-        id.startsWith('en_topic_') || id.startsWith('de_topic_') || id.startsWith('ro_topic_')
-      );
-      for (const tid of generatorTopicIds) {
-        const topicKey = tid.split('_').slice(3).join('_');
-        if (!topicKeysSeen.has(topicKey)) {
-          topicKeysSeen.add(topicKey);
-          let name = topicKey;
+      const slugMap = country!.code === 'DE' ? DE_SLUG_TO_KEY : HU_SLUG_TO_KEY;
+
+      // Normalize a slug: remove connector words (-und-, -és-, -and-), collapse dashes
+      const normalizeSlug = (s: string) =>
+        s.replace(/-und-/g, '-').replace(/-és-/g, '-').replace(/-and-/g, '-')
+         .replace(/-\(.*?\)/g, '').replace(/--+/g, '-').replace(/-$/, '');
+
+      // If slug is missing, generate one from the subtopic name
+      const slugifyName = (name: string): string =>
+        name.toLowerCase()
+          .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')
+          .replace(/á/g, 'a').replace(/é/g, 'e').replace(/í/g, 'i').replace(/ó/g, 'o').replace(/ú/g, 'u')
+          .replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '').replace(/--+/g, '-');
+
+      // Build generator topic list for name-based fallback
+      const cc = country!.code;
+      const genThemes = (cc === 'DE' || cc === 'AT' || cc === 'CH') ? getDEThemes(selectedGrade!)
+        : cc === 'HU' ? getHUThemes(selectedGrade!)
+        : cc === 'RO' ? getROThemes(selectedGrade!)
+        : getENThemes(selectedGrade!);
+      const genTopics = genThemes.flatMap(t => t.topics);
+
+      // VÉGIGMEGYÜNK MINDEGYIK selectedSubtopic-on és garantáljuk a feldolgozást
+      for (const subtopicId of selectedSubtopics) {
+        processedSubtopics.add(subtopicId);
+        let key: string | undefined;
+        let name = subtopicId;
+
+        // 1. GENERATOR-ALAPÚ ID: en_topic_X_key, de_topic_X_key, ro_topic_X_key
+        if (subtopicId.startsWith('en_topic_') || subtopicId.startsWith('de_topic_') || subtopicId.startsWith('ro_topic_')) {
+          key = subtopicId.split('_').slice(3).join('_');
+          // Név lekérése a themesből
           for (const theme of resolvedThemes) {
-            const sub = theme.subtopics.find(s => s.id === tid);
+            const sub = theme.subtopics.find(s => s.id === subtopicId);
             if (sub) { name = sub.name; break; }
           }
-          topicBlocks.push({ key: topicKey, name });
-        }
-      }
-
-      // Supabase-based IDs (slug mapping for HU/DE)
-      if (topicBlocks.length === 0) {
-        const slugMap = country!.code === 'DE' ? DE_SLUG_TO_KEY : HU_SLUG_TO_KEY;
-
-        // Normalize a slug: remove connector words (-und-, -és-, -and-), collapse dashes
-        const normalizeSlug = (s: string) =>
-          s.replace(/-und-/g, '-').replace(/-és-/g, '-').replace(/-and-/g, '-')
-           .replace(/-\(.*?\)/g, '').replace(/--+/g, '-').replace(/-$/, '');
-
-        // If slug is missing, generate one from the subtopic name
-        const slugifyName = (name: string): string =>
-          name.toLowerCase()
-            .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')
-            .replace(/á/g, 'a').replace(/é/g, 'e').replace(/í/g, 'i').replace(/ó/g, 'o').replace(/ú/g, 'u')
-            .replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '').replace(/--+/g, '-');
-
-        // Build generator topic list for name-based fallback
-        const cc = country!.code;
-        const genThemes = (cc === 'DE' || cc === 'AT' || cc === 'CH') ? getDEThemes(selectedGrade!)
-          : cc === 'HU' ? getHUThemes(selectedGrade!)
-          : cc === 'RO' ? getROThemes(selectedGrade!)
-          : getENThemes(selectedGrade!);
-        const genTopics = genThemes.flatMap(t => t.topics);
-
-        for (const theme of resolvedThemes) {
-          for (const sub of theme.subtopics) {
-            if (!selectedSubtopics.includes(sub.id)) continue;
-
-            // Effective slug: use DB slug or generate from name
+        } else {
+          // 2. SUPABASE-ALAPÚ ID: slug alapú mapping
+          const sub = resolvedThemes.flatMap(t => t.subtopics).find(s => s.id === subtopicId);
+          if (sub) {
+            name = sub.name;
             const effectiveSlug = sub.slug || (sub.name ? slugifyName(sub.name) : undefined);
 
-            // 1. Exact slug match
-            let key: string | undefined = effectiveSlug ? slugMap[effectiveSlug] : undefined;
+            // a) Exact slug match
+            if (effectiveSlug) {
+              key = slugMap[effectiveSlug];
+            }
 
-            // 2. Normalized slug match
+            // b) Normalized slug match
             if (!key && effectiveSlug) {
               key = slugMap[normalizeSlug(effectiveSlug)];
             }
 
-            // 3. Name-keyword fallback: find generator topic whose name overlaps sub.name
+            // c) Name-keyword fallback: find generator topic whose name overlaps sub.name
             if (!key && sub.name) {
               const subWords = sub.name.toLowerCase().split(/[\s\/\-,]+/).filter(w => w.length > 3);
               for (const gt of genTopics) {
@@ -958,11 +957,28 @@ export default function MathTestPage() {
               }
             }
 
-            if (key) {
-              topicBlocks.push({ key, name: sub.name });
+            // d) FALLBACK: Ha semmi nem működik, ID-ből generálunk egy key-t
+            if (!key) {
+              key = subtopicId
+                .toLowerCase()
+                .replace(/[^a-z0-9]/g, '_')
+                .replace(/_+/g, '_')
+                .slice(0, 20);
+              console.warn(`[MathTest] No generator mapping for subtopic "${name}" (${subtopicId}), using fallback key: ${key}`);
             }
           }
         }
+
+        // Hozzáadás a topicBlocks-hoz (duplikátumok elkerülése)
+        if (key && !topicKeysSeen.has(key)) {
+          topicKeysSeen.add(key);
+          topicBlocks.push({ key, name });
+          console.log(`[MathTest] Added topic: ${key} (${name})`);
+        }
+      }
+
+      if (topicBlocks.length === 0) {
+        console.warn(`[MathTest] Nincs topicBlocks generálva! selectedSubtopics: ${selectedSubtopics.join(', ')}`);
       }
 
       // ─── Generate school test (all grades) ────────────────────────────────
