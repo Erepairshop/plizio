@@ -1351,24 +1351,47 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     ]},
   ],
   4: [
-    { key: 'g4_ops', name: 'Zahlen & Rechnen', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'place1k', name: 'Zahlen bis 1000', color: '#93C5FD', icon: '🔢', generators: [G4.placeValue, G3.sequence] },
-      { key: 'place', name: 'Stellenwerte bis 1 Million', color: '#60A5FA', icon: '🔢', generators: [G4.largeNumbers, G4.placeValueBig, G4.sequence] },
-      { key: 'mul', name: 'Schriftlich Multiplizieren', color: '#34D399', icon: '✖️', generators: [G4.writtenMul, G4.writtenMulB] },
-      { key: 'div', name: 'Schriftlich Dividieren', color: '#10B981', icon: '➗', generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit] },
-      { key: 'rounding', name: 'Runden (10er, 100er)', color: '#06B6D4', icon: '🔄', generators: [G4.rounding] },
+    { key: 'g4_zahlen', name: 'Zahlen und Zahlensystem', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'grosseZahlen', name: 'Große Zahlen (bis 1 000 000)', color: '#93C5FD', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.largeNumbers] },
+      { key: 'stellenwert', name: 'Stellenwertsystem', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig] },
+      { key: 'zahlenstrahl', name: 'Zahlenstrahl & Zahlen ordnen', color: '#3B82F6', icon: '📊', generators: [G4.sequence, G3.sequence] },
+      { key: 'runden', name: 'Runden (10er, 100er, 1000er)', color: '#06B6D4', icon: '🔄', generators: [G4.rounding] },
     ]},
-    { key: 'g4_frac', name: 'Bruchrechnung', color: '#8B5CF6', icon: '½', topics: [
-      { key: 'frac', name: 'Brüche', color: '#A78BFA', icon: '½', generators: [G4.fraction, G4.fractionB] },
-      { key: 'fracArith', name: 'Brüche addieren & subtrahieren', color: '#8B5CF6', icon: '½', generators: [G4.fractionAdd, G4.fractionSub] },
+    { key: 'g4_grundrechenarten', name: 'Grundrechenarten', color: '#10B981', icon: '➕', topics: [
+      { key: 'addSub', name: 'Addition & Subtraktion', color: '#34D399', icon: '➕', generators: [G4.writtenAddLarge, G4.writtenSubLarge] },
+      { key: 'mul', name: 'Multiplikation (schriftlich)', color: '#22C55E', icon: '✖️', generators: [G4.writtenMul, G4.writtenMulB] },
+      { key: 'div', name: 'Division (schriftlich)', color: '#10B981', icon: '➗', generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit] },
+      { key: 'ueberschlagen', name: 'Überschlagen & Kontrolle', color: '#059669', icon: '🎯', generators: [G4.rounding, G4.writtenMul] },
     ]},
-    { key: 'g4_geo', name: 'Geometrie & Maßeinheiten', color: '#F59E0B', icon: '📐', topics: [
-      { key: 'geo', name: 'Flächeninhalt & Umfang', color: '#FBBF24', icon: '📐', generators: [G4.geometry, G4.geometryB] },
-      { key: 'circle', name: 'Kreis & Geometrie', color: '#F97316', icon: '⭕', generators: [G4.circleBasics] },
-      { key: 'units', name: 'Maßeinheiten', color: '#F59E0B', icon: '📏', generators: [G4.units] },
+    { key: 'g4_struktur', name: 'Zahlenstruktur und Denken', color: '#8B5CF6', icon: '🧩', topics: [
+      { key: 'zahlenfolgen', name: 'Zahlenfolgen & Muster', color: '#A78BFA', icon: '🔗', generators: [G4.sequence, G3.sequence] },
+      { key: 'rechenstrategien', name: 'Rechenstrategien', color: '#8B5CF6', icon: '🧠', generators: [G4.placeValue, G4.rounding] },
     ]},
-    { key: 'g4_word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', topics: [
-      { key: 'word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', generators: [G4.word1, G4.word2, G4.word3] },
+    { key: 'g4_groessen', name: 'Größen und Messen', color: '#F59E0B', icon: '⚖️', topics: [
+      { key: 'laenge', name: 'Länge (mm, cm, m, km)', color: '#FBBF24', icon: '📏', generators: [G4.unitLengths, G4.units] },
+      { key: 'gewicht', name: 'Gewicht (g, kg, t)', color: '#F59E0B', icon: '⚖️', generators: [G4.units] },
+      { key: 'zeit', name: 'Zeit (s, min, h, Tage)', color: '#EAB308', icon: '⏱️', generators: [G4.units] },
+      { key: 'geld', name: 'Geld (€, ct)', color: '#CA8A04', icon: '💰', generators: [G4.units, G4.word2] },
+      { key: 'umwandeln', name: 'Einheiten umwandeln', color: '#D97706', icon: '🔄', generators: [G4.units, G4.unitLengths] },
+    ]},
+    { key: 'g4_geo', name: 'Geometrie', color: '#EC4899', icon: '📐', topics: [
+      { key: 'strecken', name: 'Strecken messen & zeichnen', color: '#F472B6', icon: '📏', generators: [G4.geometry] },
+      { key: 'geodreieck', name: 'Geodreieck (Winkel, Parallelen)', color: '#EC4899', icon: '📐', generators: [G4.circleBasics, G4.geometry] },
+      { key: 'zirkel', name: 'Zirkel (Kreis, Radius)', color: '#DB2777', icon: '⭕', generators: [G4.circleBasics] },
+      { key: 'symmetrie', name: 'Symmetrie & Spiegeln', color: '#BE185D', icon: '🪞', generators: [G4.geometry] },
+    ]},
+    { key: 'g4_flaeche', name: 'Fläche und Umfang', color: '#F97316', icon: '📏', topics: [
+      { key: 'umfang', name: 'Umfang (Rechteck, Quadrat)', color: '#FB923C', icon: '📏', generators: [G4.geometry, G4.geometryB] },
+      { key: 'flaeche', name: 'Fläche (Kästchen zählen)', color: '#F97316', icon: '📐', generators: [G4.geometry, G4.geometryB] },
+    ]},
+    { key: 'g4_daten', name: 'Daten und Diagramme', color: '#06B6D4', icon: '📊', topics: [
+      { key: 'tabellen', name: 'Tabellen lesen & ausfüllen', color: '#22D3EE', icon: '📈', generators: [G4.word1, G4.word2] },
+      { key: 'diagramme', name: 'Diagramme lesen & erstellen', color: '#06B6D4', icon: '📊', generators: [G4.word1, G4.word3] },
+    ]},
+    { key: 'g4_sachaufgaben', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', topics: [
+      { key: 'grundAufgaben', name: 'Textaufgaben (Grundrechenarten)', color: '#F87171', icon: '📖', generators: [G4.word1, G4.word2] },
+      { key: 'messAufgaben', name: 'Textaufgaben (Messen)', color: '#EF4444', icon: '📏', generators: [G4.word3, G4.volumeWord] },
+      { key: 'mehrschritt', name: 'Mehrschrittige Aufgaben', color: '#DC2626', icon: '🔢', generators: [G4.word1, G4.word2, G4.word3] },
     ]},
   ],
   5: [

@@ -44,19 +44,6 @@ import {
 } from "@/lib/mathTestGenerator";
 import HierarchicalThemeSelector, { type Theme as ThemeSelectorTheme } from "@/components/HierarchicalThemeSelector";
 import { fetchCurriculum, type CurriculumData } from "@/lib/curriculum/curriculumApi";
-import curriculum1 from "@/data/mathematics/class-1/curriculum.json";
-import curriculum2 from "@/data/mathematics/class-2/curriculum.json";
-import curriculum3 from "@/data/mathematics/class-3/curriculum.json";
-import curriculum4 from "@/data/mathematics/class-4/curriculum.json";
-import curriculum5 from "@/data/mathematics/class-5/curriculum.json";
-import curriculum6 from "@/data/mathematics/class-6/curriculum.json";
-import curriculum7 from "@/data/mathematics/class-7/curriculum.json";
-import curriculum8 from "@/data/mathematics/class-8/curriculum.json";
-
-const CURRICULA: Record<number, typeof curriculum4> = {
-  1: curriculum1, 2: curriculum2, 3: curriculum3, 4: curriculum4,
-  5: curriculum5, 6: curriculum6, 7: curriculum7, 8: curriculum8,
-};
 
 /**
  * Convert Supabase CurriculumData themes to the ThemeSelectorTheme format
@@ -738,7 +725,7 @@ export default function MathTestPage() {
       return mapCurriculumToThemes(supabaseCurriculum);
     }
     return [];
-  }, [supabaseCurriculum]);
+  }, [supabaseCurriculum, country, selectedGrade]);
 
   const handleGradeSelect = (grade: number) => {
     setSelectedGrade(grade);
