@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Home as HomeIcon, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Home as HomeIcon, Medal, CircleDot, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap";
@@ -62,6 +62,7 @@ const TRANSLATIONS = {
       "ADVENTURE": "ADVENTURE",
       "BRAIN": "BRAIN",
       "LOGIC": "LOGIC",
+      "SPORT": "SPORT",
     },
     games: {
       quickpick: "Quick Pick",
@@ -86,6 +87,7 @@ const TRANSLATIONS = {
       nonogram: "Nonogram",
       mazerush: "Maze Rush",
       pliziolife: "Plizio Life",
+      pingpong: "Table Tennis",
     },
     ui: {
       comingSoon: "COMING SOON",
@@ -97,6 +99,7 @@ const TRANSLATIONS = {
       "ADVENTURE": "KALAND",
       "BRAIN": "AGYTRÖSZT",
       "LOGIC": "LOGIKA",
+      "SPORT": "SPORT",
     },
     games: {
       quickpick: "Gyors Választás",
@@ -121,6 +124,7 @@ const TRANSLATIONS = {
       nonogram: "Nonogram",
       mazerush: "Maze Rush",
       pliziolife: "Plizio Life",
+      pingpong: "Asztalitenisz",
     },
     ui: {
       comingSoon: "HAMAROSAN",
@@ -132,6 +136,7 @@ const TRANSLATIONS = {
       "ADVENTURE": "ABENTEUER",
       "BRAIN": "GEHIRN",
       "LOGIC": "LOGIK",
+      "SPORT": "SPORT",
     },
     games: {
       quickpick: "Schnelle Wahl",
@@ -156,6 +161,7 @@ const TRANSLATIONS = {
       nonogram: "Nonogram",
       mazerush: "Maze Rush",
       pliziolife: "Plizio Life",
+      pingpong: "Tischtennis",
     },
     ui: {
       comingSoon: "BALD VERFÜGBAR",
@@ -167,6 +173,7 @@ const TRANSLATIONS = {
       "ADVENTURE": "AVENTURĂ",
       "BRAIN": "CREIER",
       "LOGIC": "LOGICĂ",
+      "SPORT": "SPORT",
     },
     games: {
       quickpick: "Alegere Rapidă",
@@ -191,6 +198,7 @@ const TRANSLATIONS = {
       nonogram: "Nonogram",
       mazerush: "Maze Rush",
       pliziolife: "Plizio Life",
+      pingpong: "Tenis de masă",
     },
     ui: {
       comingSoon: "CÂT CURÂND",
@@ -382,6 +390,20 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
       },
     ],
   },
+  {
+    id: "sport",
+    icon: Medal,
+    color: "#FF6B00",
+    games: [
+      {
+        id: "pingpong",
+        icon: CircleDot,
+        nameKey: "pingpong",
+        color: "#00FF88",
+        gradient: "bg-gradient-to-br from-green-500/20 to-emerald-500/20",
+      },
+    ],
+  },
 ];
 
 /* Planet positions in the 500x900 viewBox — optimized for mobile */
@@ -390,6 +412,7 @@ const ISLAND_POSITIONS: Record<string, { cx: number; cy: number; color: string; 
   adventure:  { cx: 365, cy: 320, color: "#00FF88", glow: "rgba(0,255,136,0.4)" },
   brain:      { cx: 145, cy: 450, color: "#FFD700", glow: "rgba(255,215,0,0.4)" },
   logic:      { cx: 355, cy: 530, color: "#B44DFF", glow: "rgba(180,77,255,0.4)" },
+  sport:      { cx: 250, cy: 650, color: "#FF6B00", glow: "rgba(255,107,0,0.4)" },
 };
 
 function categoriesToIslands(categories: CategoryDef[]): Island[] {
@@ -418,12 +441,13 @@ function getCategoriesWithTranslations(lang: string): CategoryDef[] {
   const currentLang = validLangs.includes(lang as any) ? (lang as typeof validLangs[number]) : 'en';
   const t = TRANSLATIONS[lang as keyof typeof TRANSLATIONS] || TRANSLATIONS.en;
 
-  const categoryKeys: Array<"quizreflex" | "adventure" | "brain" | "logic"> = ["quizreflex", "adventure", "brain", "logic"];
-  const categoryLabels: Record<"quizreflex" | "adventure" | "brain" | "logic", keyof typeof t.categories> = {
+  const categoryKeys: Array<"quizreflex" | "adventure" | "brain" | "logic" | "sport"> = ["quizreflex", "adventure", "brain", "logic", "sport"];
+  const categoryLabels: Record<"quizreflex" | "adventure" | "brain" | "logic" | "sport", keyof typeof t.categories> = {
     quizreflex: "QUIZ & REFLEX",
     adventure: "ADVENTURE",
     brain: "BRAIN",
     logic: "LOGIC",
+    sport: "SPORT",
   };
 
   return CATEGORIES_BASE.map((cat, idx) => {
