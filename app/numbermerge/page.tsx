@@ -386,6 +386,8 @@ function NumberMergePage() {
   const [moveCount, setMoveCount] = useState(0);
   const [earnedCard, setEarnedCard] = useState<CardRarity | null>(null);
   const [animating, setAnimating] = useState(false);
+  const [mergePopups, setMergePopups] = useState<{ id: number; value: number; row: number; col: number }[]>([]);
+  const popupIdRef = useRef(0);
 
   // -- Multiplayer state --
   const [showExitConfirm, setShowExitConfirm] = useState(false);
@@ -463,11 +465,20 @@ function NumberMergePage() {
     setScore(scoreRef.current);
     setMoveCount(moveCountRef.current);
 
+    // Show merge score popups
+    if (scoreGained > 0) {
+      const pops = newTiles.filter(t => t.mergedFrom).map(t => ({
+        id: ++popupIdRef.current, value: t.value, row: t.row, col: t.col,
+      }));
+      setMergePopups(prev => [...prev, ...pops]);
+      setTimeout(() => setMergePopups(prev => prev.filter(p => !pops.find(pp => pp.id === p.id))), 800);
+    }
+
     // Update tiles (before spawn)
     tilesRef.current = newTiles;
     setTiles([...newTiles]);
 
-    // After brief animation delay, spawn new tile
+    // After slide animation, spawn new tile
     setTimeout(() => {
       const spawned = spawnTile(tilesRef.current, cfg.gridSize, rngRef.current);
       if (spawned) {
@@ -494,7 +505,7 @@ function NumberMergePage() {
 
       animatingRef.current = false;
       setAnimating(false);
-    }, 120);
+    }, 180);
   }
 
   function handleWin(finalScore: number) {
@@ -749,31 +760,95 @@ function NumberMergePage() {
                     const cellSize = 100 / cfg.gridSize;
                     const gapPercent = (cellGap / (gridPx)) * 100;
                     const ts = tileStyle(tile.value);
+                    const leftPos = `calc(${tile.col * cellSize}% + ${tile.col * gapPercent / cfg.gridSize}px)`;
+                    const topPos = `calc(${tile.row * cellSize}% + ${tile.row * gapPercent / cfg.gridSize}px)`;
                     return (
                       <motion.div
                         key={tile.id}
-                        className="absolute flex items-center justify-center rounded-lg border-2 font-black select-none"
+                        className="absolute flex items-center justify-center rounded-xl border-2 font-black select-none"
                         style={{
                           width: `calc(${cellSize}% - ${gapPercent * (cfg.gridSize - 1) / cfg.gridSize}px)`,
                           height: `calc(${cellSize}% - ${gapPercent * (cfg.gridSize - 1) / cfg.gridSize}px)`,
                           backgroundColor: ts.bg,
                           borderColor: ts.border,
                           color: ts.text,
-                          boxShadow: ts.glow,
+                          boxShadow: tile.mergedFrom
+                            ? `${ts.glow}, 0 0 40px ${ts.border}88, inset 0 0 20px ${ts.border}33`
+                            : ts.glow,
                           fontSize: tileFontSize(tile.value, cfg.gridSize),
-                          zIndex: tile.mergedFrom ? 10 : 5,
+                          zIndex: tile.mergedFrom ? 10 : tile.isNew ? 8 : 5,
                         }}
-                        initial={tile.isNew ? { scale: 0, opacity: 0 } : false}
+                        initial={
+                          tile.isNew
+                            ? { scale: 0, opacity: 0, left: leftPos, top: topPos }
+                            : false
+                        }
                         animate={{
-                          left: `calc(${tile.col * cellSize}% + ${tile.col * gapPercent / cfg.gridSize}px)`,
-                          top: `calc(${tile.row * cellSize}% + ${tile.row * gapPercent / cfg.gridSize}px)`,
-                          scale: tile.mergedFrom ? [1.15, 1] : tile.isNew ? [0, 1] : 1,
+                          left: leftPos,
+                          top: topPos,
+                          scale: 1,
                           opacity: 1,
                         }}
                         exit={{ scale: 0, opacity: 0 }}
-                        transition={{ duration: 0.1, ease: "easeOut" }}
+                        transition={
+                          tile.isNew
+                            ? { scale: { type: "spring", stiffness: 400, damping: 15, delay: 0.08 }, opacity: { duration: 0.1, delay: 0.08 }, left: { duration: 0 }, top: { duration: 0 } }
+                            : tile.mergedFrom
+                            ? { left: { duration: 0.15, ease: "easeOut" }, top: { duration: 0.15, ease: "easeOut" }, scale: { duration: 0.01 }, opacity: { duration: 0.01 } }
+                            : { left: { duration: 0.15, ease: "easeOut" }, top: { duration: 0.15, ease: "easeOut" }, scale: { duration: 0.01 }, opacity: { duration: 0.01 } }
+                        }
                       >
-                        {tile.value}
+                        {/* Merge burst effect */}
+                        {tile.mergedFrom && (
+                          <motion.div
+                            className="absolute inset-0 rounded-xl"
+                            style={{ border: `2px solid ${ts.border}`, boxShadow: `0 0 30px ${ts.border}66` }}
+                            initial={{ scale: 1, opacity: 0.8 }}
+                            animate={{ scale: 1.6, opacity: 0 }}
+                            transition={{ duration: 0.4, ease: "easeOut" }}
+                          />
+                        )}
+                        {/* Merge scale punch */}
+                        <motion.span
+                          initial={tile.mergedFrom ? { scale: 1.4 } : tile.isNew ? { scale: 0 } : false}
+                          animate={{ scale: 1 }}
+                          transition={
+                            tile.mergedFrom
+                              ? { type: "spring", stiffness: 300, damping: 12 }
+                              : tile.isNew
+                              ? { type: "spring", stiffness: 400, damping: 15, delay: 0.08 }
+                              : { duration: 0 }
+                          }
+                        >
+                          {tile.value}
+                        </motion.span>
+                      </motion.div>
+                    );
+                  })}
+                </AnimatePresence>
+
+                {/* Score popups on merge */}
+                <AnimatePresence>
+                  {mergePopups.map(pop => {
+                    const cellSize = 100 / cfg.gridSize;
+                    const gapPercent = (cellGap / (gridPx)) * 100;
+                    const ts = tileStyle(pop.value);
+                    return (
+                      <motion.div
+                        key={pop.id}
+                        className="absolute pointer-events-none font-black text-xs"
+                        style={{
+                          left: `calc(${pop.col * cellSize}% + ${pop.col * gapPercent / cfg.gridSize}px + ${cellSize / 2}%)`,
+                          color: ts.border,
+                          textShadow: `0 0 8px ${ts.border}88`,
+                          zIndex: 20,
+                        }}
+                        initial={{ top: `calc(${pop.row * cellSize}% + ${pop.row * gapPercent / cfg.gridSize}px)`, opacity: 1, scale: 1.2 }}
+                        animate={{ top: `calc(${pop.row * cellSize}% + ${pop.row * gapPercent / cfg.gridSize}px - 30px)`, opacity: 0, scale: 0.8 }}
+                        exit={{ opacity: 0 }}
+                        transition={{ duration: 0.7, ease: "easeOut" }}
+                      >
+                        +{pop.value}
                       </motion.div>
                     );
                   })}
