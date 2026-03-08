@@ -358,6 +358,8 @@ interface GameData {
   rocketTimer: number;
   // Platform state
   onIce: boolean;
+  // Progress tracking
+  bestHeight: number;
   // Win animation
   winAnim: boolean;
   winAnimTimer: number;
@@ -392,6 +394,7 @@ function createGameData(): GameData {
     magnetTimer: 0,
     rocketTimer: 0,
     onIce: false,
+    bestHeight: 0,
     winAnim: false,
     winAnimTimer: 0,
   };
@@ -424,18 +427,18 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
 
   const gender = useMemo(() => getGender(), []);
   const hasRealSkin = skin.id !== 'default';
-  const hairColor = hasRealSkin ? skin.headColor : '#3b2a1a';
-  const skinHeadColor = hasRealSkin ? skin.headColor : '#e8c9a0';
+  const hairColor = hasRealSkin ? skin.headColor : '#5c3a18';
+  const skinHeadColor = hasRealSkin ? skin.headColor : '#f0d0a8';
   const isGirl = gender === 'girl';
 
   // Trail particle positions
   const trailParticles = useRef<{ x: number; y: number; z: number; life: number }[]>([]);
 
-  // Materials - clothing overrides skin colors where equipped; default skin uses warm fallback colors
-  const bodyColor = topDef ? topDef.color : (hasRealSkin ? skin.bodyColor : '#6b8fad');
-  const legColor = bottomDef ? bottomDef.color : (hasRealSkin ? skin.limbColor : '#1e3a5f');
-  const shoeColor = shoeDef ? shoeDef.color : (hasRealSkin ? skin.shoeColor : '#222222');
-  const armEndColor = gloveDef ? gloveDef.color : (hasRealSkin ? skin.limbColor : '#6b8fad');
+  // Materials - match AvatarCompanion default colors exactly
+  const bodyColor = topDef ? topDef.color : (hasRealSkin ? skin.bodyColor : '#7a9dbd');
+  const legColor = bottomDef ? bottomDef.color : (hasRealSkin ? skin.limbColor : '#3a5a8a');
+  const shoeColor = shoeDef ? shoeDef.color : (hasRealSkin ? skin.shoeColor : '#5a3820');
+  const armEndColor = gloveDef ? gloveDef.color : (hasRealSkin ? skin.limbColor : '#f0d0a8');
 
   const bodyMat = useMemo(() => new THREE.MeshStandardMaterial({
     color: bodyColor, emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity,
@@ -450,7 +453,7 @@ function Character({ gameRef, skinId, hatId, trailId }: { gameRef: React.RefObje
     transparent: skin.id === "ghost", opacity: skin.id === "ghost" ? 0.4 : 1,
   }), [skin, legColor]);
   const armMat = useMemo(() => new THREE.MeshStandardMaterial({
-    color: hasRealSkin ? skin.limbColor : '#e8c9a0', emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity * 0.6,
+    color: hasRealSkin ? skin.limbColor : '#f0d0a8', emissive: skin.emissive, emissiveIntensity: skin.emissiveIntensity * 0.6,
     transparent: skin.id === "ghost", opacity: skin.id === "ghost" ? 0.4 : 1,
   }), [skin]);
   const gloveMat = useMemo(() => gloveDef ? new THREE.MeshStandardMaterial({
@@ -1722,6 +1725,7 @@ function GameLoop({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed 
         g.vy = 0;
         g.onGround = true;
         g.lastGroundY = platTop;
+        if (platTop > g.bestHeight) g.bestHeight = platTop;
 
         if (plat.type === "crumble") plat.touched = true;
         if (plat.type === "ice") g.onIce = true;
@@ -2067,6 +2071,7 @@ function SkyClimbPage() {
   const [ghostAvatarData, setGhostAvatarData] = useState<GhostAvatarData | null>(null);
   const channelRef = useRef<RealtimeChannel | null>(null);
   const ghostPosRef = useRef({ x: 0, y: 1, z: 0, fa: 0, dead: false });
+  const oppHeightRef = useRef(0);
   const broadcastIntervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
   const [isTouchDevice, setIsTouchDevice] = useState(false);
   const gameRef = useRef<GameData>(createGameData());
@@ -2280,6 +2285,7 @@ function SkyClimbPage() {
     channel.on("broadcast", { event: "died" }, ({ payload }) => {
       if (payload.p !== playerNum) {
         ghostPosRef.current = { ...ghostPosRef.current, dead: true };
+        oppHeightRef.current = payload.height ?? 0;
         setOppDied(true);
       }
     });
@@ -2358,12 +2364,13 @@ function SkyClimbPage() {
   // ─── MULTIPLAYER: Handle opponent finishing ────────
   useEffect(() => {
     if (!oppFinished || !isMultiplayer || !matchId || scoreSubmitted) return;
-    // Opponent finished first — I lose
+    // Opponent finished first — I lose, submit my best height
     setScoreSubmitted(true);
     const g = gameRef.current;
+    const myHeight = Math.round(g.bestHeight);
     if (broadcastIntervalRef.current) clearInterval(broadcastIntervalRef.current);
-    submitScore(matchId, 0, playerNum === "1").then(() => {
-      setMultiResult({ myScore: 0, oppScore: g.level });
+    submitScore(matchId, myHeight, playerNum === "1").then(() => {
+      setMultiResult({ myScore: myHeight, oppScore: 999 });
     });
   }, [oppFinished, isMultiplayer, matchId, scoreSubmitted, playerNum]);
 
@@ -2372,20 +2379,20 @@ function SkyClimbPage() {
     if (!oppDied || !isMultiplayer) return;
     setNotification("💀 " + opponentName);
     setTimeout(() => setNotification(null), 2000);
-    // If I already submitted score (finished), update result
+    // If I already submitted score (finished/died), update result with opponent's height
     if (scoreSubmitted && multiResult && multiResult.oppScore === -1) {
-      setMultiResult({ ...multiResult, oppScore: 0 });
+      setMultiResult({ ...multiResult, oppScore: oppHeightRef.current });
     }
   }, [oppDied, isMultiplayer, opponentName, scoreSubmitted, multiResult]);
 
   // ─── MULTIPLAYER: Handle opponent finishing after I died/finished ─
   useEffect(() => {
     if (!oppFinished || !isMultiplayer || !scoreSubmitted) return;
-    // If I already have a result pending (oppScore === -1), update it
+    // Opponent finished the level = score 999
     if (multiResult && multiResult.oppScore === -1) {
-      setMultiResult({ ...multiResult, oppScore: level });
+      setMultiResult({ ...multiResult, oppScore: 999 });
     }
-  }, [oppFinished, isMultiplayer, scoreSubmitted, multiResult, level]);
+  }, [oppFinished, isMultiplayer, scoreSubmitted, multiResult]);
 
   const startGame = useCallback((lvl: number) => {
     // Try fullscreen on Android
@@ -2413,6 +2420,7 @@ function SkyClimbPage() {
     setScoreSubmitted(false);
     setMultiResult(null);
     ghostPosRef.current = { x: 0, y: 1, z: 0, fa: 0, dead: false };
+    oppHeightRef.current = 0;
 
     // Activate shop power-up: sky_extralife gives shield at start
     try {
@@ -2439,28 +2447,28 @@ function SkyClimbPage() {
   const handleDie = useCallback(() => {
     setWinAnimActive(false);
     if (isMultiplayer && matchId && !scoreSubmitted) {
-      // Broadcast death to opponent
+      const g = gameRef.current;
+      const heightScore = Math.round(g.bestHeight);
+      // Broadcast death + height to opponent
       channelRef.current?.send({
         type: "broadcast",
         event: "died",
-        payload: { p: playerNum },
+        payload: { p: playerNum, height: heightScore },
       });
 
-      if (oppDied) {
-        // Both died — draw (score 0 vs 0)
-        setScoreSubmitted(true);
-        submitScore(matchId, 0, playerNum === "1").then(() => {
-          setMultiResult({ myScore: 0, oppScore: 0 });
-        });
-      }
-      // If opponent hasn't died/finished yet, show death screen as normal (can retry)
-      // Actually in realtime race, death = loss unless opponent also dies
-      // Let's auto-submit score 0 on death
-      if (!oppDied && !oppFinished) {
-        setScoreSubmitted(true);
-        submitScore(matchId, 0, playerNum === "1");
-        // Wait for opponent to finish
-      }
+      setScoreSubmitted(true);
+      submitScore(matchId, heightScore, playerNum === "1").then(() => {
+        if (oppDied) {
+          // Both died — compare heights
+          setMultiResult({ myScore: heightScore, oppScore: oppHeightRef.current });
+        } else if (oppFinished) {
+          // Opponent already finished — they win
+          setMultiResult({ myScore: heightScore, oppScore: 999 });
+        } else {
+          // Wait for opponent
+          setMultiResult({ myScore: heightScore, oppScore: -1 });
+        }
+      });
     }
     setGameState("dead");
   }, [isMultiplayer, matchId, scoreSubmitted, playerNum, oppDied, oppFinished]);
@@ -2515,16 +2523,15 @@ function SkyClimbPage() {
         payload: { p: playerNum },
       });
       setScoreSubmitted(true);
-      submitScore(matchId, g.level, playerNum === "1").then(() => {
-        // Check if opponent already finished or died
+      const winScore = 999; // finished = always beats any death height
+      submitScore(matchId, winScore, playerNum === "1").then(() => {
         if (oppDied) {
-          setMultiResult({ myScore: g.level, oppScore: 0 });
+          setMultiResult({ myScore: winScore, oppScore: oppHeightRef.current });
         } else if (oppFinished) {
-          // Both finished — tie? Actually we won because we got here
-          setMultiResult({ myScore: g.level, oppScore: g.level });
+          // Both finished — draw
+          setMultiResult({ myScore: winScore, oppScore: 999 });
         } else {
-          // Wait for opponent
-          setMultiResult({ myScore: g.level, oppScore: -1 }); // -1 = pending
+          setMultiResult({ myScore: winScore, oppScore: -1 });
         }
       });
       setGameState("reward");
@@ -2822,6 +2829,7 @@ function SkyClimbPage() {
             myName={getUsername() || "???"}
             oppName={opponentName}
             onContinue={() => router.push("/multiplayer")}
+            formatScore={(s) => s >= 999 ? "✓" : `${s}m`}
           />
         )}
       </AnimatePresence>
@@ -2896,6 +2904,7 @@ function SkyClimbPage() {
           myName={getUsername() || "???"}
           oppName={opponentName}
           onContinue={() => router.push("/multiplayer")}
+          formatScore={(s) => s >= 999 ? "✓" : `${s}m`}
         />
       )}
 

@@ -24,9 +24,10 @@ interface Props {
   myName: string;
   oppName: string;
   onContinue: () => void;
+  formatScore?: (score: number) => string;
 }
 
-export default function MultiplayerResult({ myScore, oppScore, myName, oppName, onContinue }: Props) {
+export default function MultiplayerResult({ myScore, oppScore, myName, oppName, onContinue, formatScore }: Props) {
   const { lang } = useLang();
   const t = T[lang] || T.en;
 
@@ -100,7 +101,7 @@ export default function MultiplayerResult({ myScore, oppScore, myName, oppName, 
             <div className="flex flex-col items-center">
               <span className="text-white/70 text-xs font-bold truncate max-w-[100px]">{myName}</span>
               <span className="text-2xl font-black" style={{ color: won ? "#00FF88" : lost ? "#FF2D78" : "#00D4FF" }}>
-                {myScore}
+                {formatScore ? formatScore(myScore) : myScore}
               </span>
             </div>
             {won && (
@@ -143,7 +144,7 @@ export default function MultiplayerResult({ myScore, oppScore, myName, oppName, 
             <div className="flex flex-col items-center">
               <span className="text-white/70 text-xs font-bold truncate max-w-[100px]">{oppName}</span>
               <span className="text-2xl font-black" style={{ color: lost ? "#00FF88" : won ? "#FF2D78" : "#00D4FF" }}>
-                {oppScore}
+                {formatScore ? formatScore(oppScore) : oppScore}
               </span>
             </div>
             {lost && (
