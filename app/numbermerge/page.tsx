@@ -40,6 +40,7 @@ const T = {
     rarity: { bronze: "BRONZE", silver: "SILVER", gold: "GOLD", legendary: "LEGENDARY" },
     card: "CARD",
     waiting: "Waiting for", multiResult: "Results",
+    maxTile: "Best tile", needTile: "You needed",
   },
   hu: {
     title: "SZÁM MERGE",
@@ -54,6 +55,7 @@ const T = {
     rarity: { bronze: "BRONZ", silver: "EZ\u00dcST", gold: "ARANY", legendary: "LEGEND\u00c1S" },
     card: "K\u00c1RTYA",
     waiting: "V\u00e1rakoz\u00e1s:", multiResult: "Eredm\u00e9ny",
+    maxTile: "Legjobb csempe", needTile: "Sz\u00fcks\u00e9ges",
   },
   de: {
     title: "ZAHLEN MERGE",
@@ -68,6 +70,7 @@ const T = {
     rarity: { bronze: "BRONZE", silver: "SILBER", gold: "GOLD", legendary: "LEGEND\u00c4R" },
     card: "KARTE",
     waiting: "Warten auf", multiResult: "Ergebnis",
+    maxTile: "Beste Kachel", needTile: "Ben\u00f6tigt",
   },
   ro: {
     title: "NUMBER MERGE",
@@ -82,6 +85,7 @@ const T = {
     rarity: { bronze: "BRONZ", silver: "ARGINT", gold: "AUR", legendary: "LEGENDAR" },
     card: "CARD",
     waiting: "A\u0219teptare:", multiResult: "Rezultat",
+    maxTile: "Cea mai bun\u0103", needTile: "Aveai nevoie de",
   },
 };
 
@@ -927,11 +931,14 @@ function NumberMergePage() {
             <AvatarCompanion fixed={false} mood="disappointed" {...avatarProps} />
           </motion.div>
           <h2 className="text-xl font-black text-red-400">{t.noMoves}</h2>
-          <p className="text-white/60 text-sm">{score} {t.score} · {t.target}: {cfg.target}</p>
+          <div className="flex flex-col items-center gap-1">
+            <p className="text-white/80 text-sm font-bold">{t.maxTile}: <span className="text-[#FFD700]">{maxTile}</span></p>
+            <p className="text-white/60 text-xs">{t.needTile}: <span className="text-white/80">{cfg.target}</span></p>
+          </div>
           <div className="flex gap-3">
             <motion.button
               onClick={() => { setAvatarMood("idle"); setScreen("expedition"); }}
-              className="px-5 py-2.5 rounded-xl bg-white/5 border border-white/10 text-white/60 text-sm font-bold"
+              className="px-5 py-2.5 rounded-xl bg-white/5 border border-white/10 text-white/80 text-sm font-bold"
               whileTap={{ scale: 0.95 }}
             >{t.expeditionMap}</motion.button>
             <motion.button
