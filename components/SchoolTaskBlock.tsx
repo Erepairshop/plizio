@@ -11,6 +11,9 @@ import type {
   SachaufgabeData,
   TabelleData,
   AufgabenData,
+  VisualZeichnenData,
+  VisualMessenData,
+  VisualUhrzeitData,
 } from '@/lib/schoolTaskGenerator';
 import KopfrechnenTask from './task-types/KopfrechnenTask';
 import SchriftlichTask from './task-types/SchriftlichTask';
@@ -19,6 +22,7 @@ import ZahlenreiheTask from './task-types/ZahlenreiheTask';
 import SachaufgabeTask from './task-types/SachaufgabeTask';
 import TabelleTask from './task-types/TabelleTask';
 import AufgabenTask from './task-types/AufgabenTask';
+import { LengthDrawing, LengthMeasurement, AnalogClock } from './grade4-visual';
 
 interface Props {
   block: SchoolTaskBlockType;
@@ -85,6 +89,55 @@ export default function SchoolTaskBlock({
         return <TabelleTask {...commonProps} data={block.data as TabelleData} />;
       case 'aufgaben':
         return <AufgabenTask {...commonProps} data={block.data as AufgabenData} />;
+
+      case 'visual_zeichnen': {
+        const zData = block.data as VisualZeichnenData;
+        const sq = block.subQuestions[0];
+        return (
+          <LengthDrawing
+            targetLength={zData.targetLength}
+            unit={zData.unit}
+            language={(cc === 'DE' || cc === 'AT' || cc === 'CH') ? 'de'
+              : cc === 'HU' ? 'hu' : cc === 'RO' ? 'ro' : 'en'}
+            onAnswer={(isCorrect) => {
+              onChange(sq.id, isCorrect ? String(zData.targetLength) : '0');
+            }}
+          />
+        );
+      }
+      case 'visual_messen': {
+        const mData = block.data as VisualMessenData;
+        const sq = block.subQuestions[0];
+        return (
+          <LengthMeasurement
+            targetLength={mData.targetLength}
+            unit={mData.unit}
+            language={(cc === 'DE' || cc === 'AT' || cc === 'CH') ? 'de'
+              : cc === 'HU' ? 'hu' : cc === 'RO' ? 'ro' : 'en'}
+            onAnswer={(isCorrect) => {
+              onChange(sq.id, isCorrect ? String(mData.targetLength) : '0');
+            }}
+          />
+        );
+      }
+      case 'visual_uhrzeit': {
+        const uData = block.data as VisualUhrzeitData;
+        const sq = block.subQuestions[0];
+        return (
+          <AnalogClock
+            targetHour={uData.targetHour}
+            targetMinute={uData.targetMinute}
+            language={(cc === 'DE' || cc === 'AT' || cc === 'CH') ? 'de'
+              : cc === 'HU' ? 'hu' : cc === 'RO' ? 'ro' : 'en'}
+            onAnswer={(isCorrect) => {
+              onChange(sq.id, isCorrect
+                ? `${uData.targetHour}:${uData.targetMinute.toString().padStart(2, '0')}`
+                : '0');
+            }}
+          />
+        );
+      }
+
       default:
         return null;
     }

@@ -30,7 +30,10 @@ export type TaskType =
   | 'zahlenreihe'
   | 'sachaufgabe'
   | 'tabelle'
-  | 'aufgaben';
+  | 'aufgaben'
+  | 'visual_zeichnen'
+  | 'visual_messen'
+  | 'visual_uhrzeit';
 
 export type AufgabenItem = {
   question: string;
@@ -86,13 +89,19 @@ export type TabelleData = {
   }[];
 };
 
+// Visual task data types
+export type VisualZeichnenData = { targetLength: number; unit: string };
+export type VisualMessenData = { targetLength: number; unit: string };
+export type VisualUhrzeitData = { targetHour: number; targetMinute: number };
+export type VisualData = VisualZeichnenData | VisualMessenData | VisualUhrzeitData;
+
 export type SchoolTaskBlock = {
   id: string;
   type: TaskType;
   title: string;
   totalPoints: number;
   subQuestions: SubQuestion[];
-  data: KopfrechnenData | SchriftlichData | HianyData | ZahlenreiheData | SachaufgabeData | TabelleData | AufgabenData;
+  data: KopfrechnenData | SchriftlichData | HianyData | ZahlenreiheData | SachaufgabeData | TabelleData | AufgabenData | VisualData;
 };
 
 export type SchoolTaskAnswers = Record<string, string | number>;
@@ -642,6 +651,78 @@ function generateTabelle(grade: number, cc: string): SchoolTaskBlock {
   };
 }
 
+// ─── VISUAL TASK GENERATORS ──────────────────────────────────────────────────
+
+const VISUAL_TOPIC_KEYS = new Set(['zeichnen', 'messen', 'uhrzeit']);
+
+function isVisualTopicKey(key: string): boolean {
+  return VISUAL_TOPIC_KEYS.has(key);
+}
+
+function generateVisualBlock(
+  topicKey: string,
+  topicName: string,
+  blockIdx: number,
+): SchoolTaskBlock {
+  switch (topicKey) {
+    case 'zeichnen': {
+      const targetLength = [3, 4, 5, 6, 7, 8, 9, 10][rnd(0, 7)];
+      return {
+        id: `block_visual_zeichnen_${blockIdx}`,
+        type: 'visual_zeichnen',
+        title: topicName,
+        totalPoints: 1,
+        subQuestions: [{
+          id: `vis_z_${blockIdx}`,
+          answer: targetLength,
+          points: 1,
+          visualType: 'zeichnen',
+          visualData: { type: 'zeichnen', params: { targetLength, unit: 'cm' } },
+        }],
+        data: { targetLength, unit: 'cm' } as VisualZeichnenData,
+      };
+    }
+    case 'messen': {
+      const targetLength = [3, 4, 5, 6, 7, 8, 9, 10, 11, 12][rnd(0, 9)];
+      return {
+        id: `block_visual_messen_${blockIdx}`,
+        type: 'visual_messen',
+        title: topicName,
+        totalPoints: 1,
+        subQuestions: [{
+          id: `vis_m_${blockIdx}`,
+          answer: targetLength,
+          points: 1,
+          visualType: 'messen',
+          visualData: { type: 'messen', params: { targetLength, unit: 'cm' } },
+        }],
+        data: { targetLength, unit: 'cm' } as VisualMessenData,
+      };
+    }
+    case 'uhrzeit': {
+      const targetHour = rnd(1, 12);
+      const targetMinute = [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55][rnd(0, 11)];
+      return {
+        id: `block_visual_uhrzeit_${blockIdx}`,
+        type: 'visual_uhrzeit',
+        title: topicName,
+        totalPoints: 1,
+        subQuestions: [{
+          id: `vis_u_${blockIdx}`,
+          answer: `${targetHour}:${targetMinute.toString().padStart(2, '0')}`,
+          points: 1,
+          visualType: 'uhrzeit',
+          visualData: { type: 'uhrzeit', params: { targetHour, targetMinute } },
+        }],
+        data: { targetHour, targetMinute } as VisualUhrzeitData,
+      };
+    }
+    default:
+      // Fallback — shouldn't happen
+      return generateVisualBlock('zeichnen', topicName, blockIdx);
+  }
+}
+
 // ─── AUFGABEN GENERATOR (topic-driven) ───────────────────────────────────────
 
 function generateAufgabenBlock(
@@ -844,15 +925,24 @@ export function generateSchoolTest(
 
   // Generate exactly 10 blocks, roundrobin across topics.
   // Each block = 1 pont; questions per block depend on topic difficulty.
+  // Visual topics (zeichnen, messen, uhrzeit) get their own visual block generator.
   const blocks: SchoolTaskBlock[] = [];
   for (let i = 0; i < TOTAL_BLOCKS; i++) {
     const topic = effectiveTopics[i % effectiveTopics.length];
-    const questionsInBlock = getItemsPerPointByKey(topic.key); // 2, 3, 4 or 5
-    const block = generateAufgabenBlock(grade, cc, topic.key, topic.name, questionsInBlock, i);
-    // Each block is worth exactly 1 point; questions share it equally
-    const pointPerQ = 1 / questionsInBlock;
-    const newSubQ = block.subQuestions.map(sq => ({ ...sq, points: pointPerQ }));
-    blocks.push({ ...block, totalPoints: 1, subQuestions: newSubQ });
+
+    if (isVisualTopicKey(topic.key)) {
+      // Visual block: 1 interaktív feladat = 1 pont
+      const block = generateVisualBlock(topic.key, topic.name, i);
+      blocks.push(block);
+    } else {
+      // Standard block: szöveges/számolós feladatok
+      const questionsInBlock = getItemsPerPointByKey(topic.key); // 2, 3, 4 or 5
+      const block = generateAufgabenBlock(grade, cc, topic.key, topic.name, questionsInBlock, i);
+      // Each block is worth exactly 1 point; questions share it equally
+      const pointPerQ = 1 / questionsInBlock;
+      const newSubQ = block.subQuestions.map(sq => ({ ...sq, points: pointPerQ }));
+      blocks.push({ ...block, totalPoints: 1, subQuestions: newSubQ });
+    }
   }
 
   return blocks;

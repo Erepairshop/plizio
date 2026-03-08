@@ -860,6 +860,9 @@ export default function MathTestPage() {
       'zeit': 'units', 'umrechnung': 'units',
       'tabellen-diagramme': 'geo', 'wahrscheinlichkeit': 'geo', 'datenanalyse': 'geo',
       'brueche': 'frac', 'dezimalzahlen': 'place',
+      // Visual topics (Grade 4)
+      'zeichnen-visuelle': 'zeichnen', 'messen-visuelle': 'messen', 'uhrzeit-digital': 'uhrzeit',
+      'zeichnen': 'zeichnen', 'messen': 'messen', 'uhrzeit': 'uhrzeit',
       // Grade 5
       'grosse-zahlen': 'large', 'rechenregeln': 'ops', 'punkt-vor-strich': 'ops',
       'bruchrechnung': 'frac', 'prozentrechnung': 'pct', 'prozent': 'pct',
