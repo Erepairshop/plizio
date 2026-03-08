@@ -32,28 +32,28 @@ const T = {
     you: "You", ai: "AI", won: "You Won!", lost: "You Lost!",
     playAgain: "Play Again", back: "Back", selectDifficulty: "Select Difficulty",
     firstTo: "First to 7 points", perfect: "PERFECT!", smash: "SMASH!",
-    waitingOpp: "Waiting for",
+    waitingOpp: "Waiting for", tapToServe: "Tap to serve",
   },
   hu: {
     title: "Tenisz", easy: "Könnyű", medium: "Közepes", hard: "Nehéz",
     you: "Te", ai: "AI", won: "Győztél!", lost: "Vesztettél!",
     playAgain: "Újra", back: "Vissza", selectDifficulty: "Válassz nehézséget",
     firstTo: "Először 7 pontig", perfect: "TÖKÉLETES!", smash: "SMASH!",
-    waitingOpp: "Várakozás",
+    waitingOpp: "Várakozás", tapToServe: "Koppints a szervához",
   },
   de: {
     title: "Tennis", easy: "Leicht", medium: "Mittel", hard: "Schwer",
     you: "Du", ai: "KI", won: "Gewonnen!", lost: "Verloren!",
     playAgain: "Nochmal", back: "Zurück", selectDifficulty: "Schwierigkeit wählen",
     firstTo: "Erster bis 7 Punkte", perfect: "PERFEKT!", smash: "SMASH!",
-    waitingOpp: "Warte auf",
+    waitingOpp: "Warte auf", tapToServe: "Tippen zum Aufschlag",
   },
   ro: {
     title: "Tenis", easy: "Ușor", medium: "Mediu", hard: "Greu",
     you: "Tu", ai: "AI", won: "Ai câștigat!", lost: "Ai pierdut!",
     playAgain: "Din nou", back: "Înapoi", selectDifficulty: "Alege dificultatea",
     firstTo: "Primul la 7 puncte", perfect: "PERFECT!", smash: "SMASH!",
-    waitingOpp: "Se așteaptă",
+    waitingOpp: "Se așteaptă", tapToServe: "Atinge pentru serva",
   },
 };
 
@@ -65,7 +65,8 @@ const RACKET_W = 10;
 const RACKET_H = 48;           // taller racket
 const NET_HEIGHT_RATIO = 0.10; // low net — visual only, not blocking
 const COURT_Y_RATIO = 0.62;   // ground at 62% — court takes lower 38%
-const SERVE_DELAY = 600;
+const SERVE_SPEED_MUL = 0.80; // serve is 80% of rally speed
+const SERVE_PAUSE = 1200;     // ms pause after point before serve ready
 
 // Rally speed multipliers
 const RALLY_THRESHOLDS = [
@@ -104,6 +105,7 @@ interface GameState {
   aiRX: number;     // AI racket X normalized
   ball: Ball;
   serving: boolean;
+  serveReady: boolean;  // true = player can tap to serve (pause elapsed)
   serveTimer: number;
   serveSide: "player" | "ai";
   gameOver: boolean;
@@ -351,10 +353,10 @@ function TennisPage() {
     const serveBall = (ball: Ball, serveSide: "player" | "ai") => {
       const baseVx = 0.006 + (difficulty === "hard" ? 0.0015 : difficulty === "medium" ? 0.0008 : 0);
       const dir = serveSide === "player" ? 1 : -1;
-      ball.vx = baseVx * dir;
-      ball.vy = -0.009 - Math.random() * 0.003; // upward arc
+      ball.vx = baseVx * SERVE_SPEED_MUL * dir; // 80% speed on serve
+      ball.vy = -0.011 - Math.random() * 0.002;  // higher arc to clear net
       ball.active = true;
-      ball.lastHitBy = serveSide;
+      ball.lastHitBy = serveSide === "player" ? "player" : "ai";
     };
 
     const rallySpeedMul = (hits: number) => {
@@ -371,6 +373,7 @@ function TennisPage() {
       aiRX: cInit.aiHomeX / cInit.w,
       ball: makeBall("player"),
       serving: true,
+      serveReady: false,
       serveTimer: Date.now(),
       serveSide: "player",
       gameOver: false,
@@ -402,6 +405,7 @@ function TennisPage() {
       game.serveSide = scoredBy === "player" ? "ai" : "player";
       game.ball = makeBall(game.serveSide);
       game.serving = true;
+      game.serveReady = false;
       game.serveTimer = Date.now();
       game.rallyCount = 0;
     };
@@ -422,12 +426,35 @@ function TennisPage() {
       // X: clamp to player side (left half, won't cross net)
       playerTargetX = Math.max(c.playerMinX / c.w, Math.min(c.playerMaxX / c.w, nx / c.w));
     };
+    // Serve trigger — tap/click to serve when serveReady + player's turn
+    const tryServe = () => {
+      if (game.serving && game.serveReady && !game.gameOver) {
+        const isPlayerServe = game.serveSide === "player" || (isMultiplayer && game.serveSide === "ai" && playerNum === "2");
+        if (isPlayerServe) {
+          serveBall(game.ball, game.serveSide);
+          game.serving = false;
+          game.serveReady = false;
+        }
+      }
+    };
+    const handlePointerDown = (e: PointerEvent) => { handlePointer(e); tryServe(); };
     canvas.addEventListener("pointermove", handlePointer);
-    canvas.addEventListener("pointerdown", handlePointer);
+    canvas.addEventListener("pointerdown", handlePointerDown);
     canvas.addEventListener("touchmove", handlePointer as EventListener, { passive: true });
 
     const keys = new Set<string>();
-    const handleKeyDown = (e: KeyboardEvent) => { keys.add(e.key); };
+    const handleKeyDown = (e: KeyboardEvent) => {
+      keys.add(e.key);
+      // Space/Enter to serve
+      if ((e.key === " " || e.key === "Enter") && game.serving && game.serveReady && !game.gameOver) {
+        const isPlayerServe = game.serveSide === "player" || (isMultiplayer && game.serveSide === "ai" && playerNum === "2");
+        if (isPlayerServe) {
+          serveBall(game.ball, game.serveSide);
+          game.serving = false;
+          game.serveReady = false;
+        }
+      }
+    };
     const handleKeyUp = (e: KeyboardEvent) => { keys.delete(e.key); };
     window.addEventListener("keydown", handleKeyDown);
     window.addEventListener("keyup", handleKeyUp);
@@ -491,10 +518,29 @@ function TennisPage() {
         }
       }
 
-      // Serve
-      if (game.serving && Date.now() - game.serveTimer > SERVE_DELAY && !game.gameOver) {
-        serveBall(game.ball, game.serveSide);
-        game.serving = false;
+      // Serve — after pause, mark ready; player taps to serve, AI auto-serves
+      if (game.serving && !game.gameOver) {
+        const elapsed = Date.now() - game.serveTimer;
+        if (!game.serveReady && elapsed > SERVE_PAUSE) {
+          game.serveReady = true;
+        }
+        if (game.serveReady) {
+          // Ball follows serving player's racket position
+          if (game.serveSide === "player") {
+            game.ball.x = game.playerRX + 0.02;
+            game.ball.y = game.playerY - 0.03;
+          } else {
+            game.ball.x = game.aiRX - 0.02;
+            game.ball.y = game.aiY - 0.03;
+          }
+          // AI auto-serves after a brief delay
+          const isAiServe = game.serveSide === "ai" && (!isMultiplayer || playerNum === "1");
+          if (isAiServe && elapsed > SERVE_PAUSE + 600 + Math.random() * 400) {
+            serveBall(game.ball, "ai");
+            game.serving = false;
+            game.serveReady = false;
+          }
+        }
       }
 
       // Ball physics
@@ -812,19 +858,54 @@ function TennisPage() {
         ctx.fill();
       }
 
-      // Serving ball (stationary, above racket)
+      // Serving ball (follows racket, pulsing when ready)
       if (game.serving && !game.gameOver) {
         const bx = ball.x * w, by = ball.y * h;
-        const ballGrad = ctx.createRadialGradient(bx - 2, by - 2, 0, bx, by, BALL_RADIUS);
-        ballGrad.addColorStop(0, "#DDFF44");
-        ballGrad.addColorStop(0.7, "#CDFF00");
-        ballGrad.addColorStop(1, "#88AA00");
-        ctx.fillStyle = ballGrad;
-        ctx.globalAlpha = 0.5 + Math.sin(Date.now() * 0.006) * 0.3;
-        ctx.beginPath();
-        ctx.arc(bx, by, BALL_RADIUS, 0, Math.PI * 2);
-        ctx.fill();
-        ctx.globalAlpha = 1;
+        if (game.serveReady) {
+          // Ball glow when ready
+          const bg = ctx.createRadialGradient(bx, by, 0, bx, by, BALL_RADIUS * 2.5);
+          bg.addColorStop(0, "#CDFF0025");
+          bg.addColorStop(1, "transparent");
+          ctx.fillStyle = bg;
+          ctx.beginPath();
+          ctx.arc(bx, by, BALL_RADIUS * 2.5, 0, Math.PI * 2);
+          ctx.fill();
+
+          // Ball body
+          const ballGrad = ctx.createRadialGradient(bx - 2, by - 2, 0, bx, by, BALL_RADIUS);
+          ballGrad.addColorStop(0, "#DDFF44");
+          ballGrad.addColorStop(0.7, "#CDFF00");
+          ballGrad.addColorStop(1, "#88AA00");
+          ctx.fillStyle = ballGrad;
+          ctx.globalAlpha = 0.6 + Math.sin(Date.now() * 0.008) * 0.35;
+          ctx.beginPath();
+          ctx.arc(bx, by, BALL_RADIUS, 0, Math.PI * 2);
+          ctx.fill();
+          ctx.globalAlpha = 1;
+
+          // "Tap to serve" text — only when it's the human player's serve
+          const isPlayerServe = game.serveSide === "player" || (isMultiplayer && game.serveSide === "ai" && playerNum === "2");
+          if (isPlayerServe) {
+            const pulse = 0.7 + Math.sin(Date.now() * 0.005) * 0.3;
+            ctx.font = `bold ${Math.round(Math.min(14, w * 0.032))}px system-ui`;
+            ctx.textAlign = "center";
+            ctx.textBaseline = "middle";
+            ctx.fillStyle = `rgba(205,255,0,${pulse})`;
+            ctx.fillText(t.tapToServe, w * 0.5, h * 0.18);
+          }
+        } else {
+          // During pause, show faded ball at initial spawn
+          const ballGrad = ctx.createRadialGradient(bx - 2, by - 2, 0, bx, by, BALL_RADIUS);
+          ballGrad.addColorStop(0, "#DDFF44");
+          ballGrad.addColorStop(0.7, "#CDFF00");
+          ballGrad.addColorStop(1, "#88AA00");
+          ctx.fillStyle = ballGrad;
+          ctx.globalAlpha = 0.3;
+          ctx.beginPath();
+          ctx.arc(bx, by, BALL_RADIUS, 0, Math.PI * 2);
+          ctx.fill();
+          ctx.globalAlpha = 1;
+        }
       }
 
       // Rally counter
@@ -900,7 +981,7 @@ function TennisPage() {
     return () => {
       cancelAnimationFrame(animFrameRef.current);
       canvas.removeEventListener("pointermove", handlePointer);
-      canvas.removeEventListener("pointerdown", handlePointer);
+      canvas.removeEventListener("pointerdown", handlePointerDown);
       canvas.removeEventListener("touchmove", handlePointer as EventListener);
       window.removeEventListener("keydown", handleKeyDown);
       window.removeEventListener("keyup", handleKeyUp);
