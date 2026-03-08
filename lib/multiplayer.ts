@@ -6,6 +6,8 @@ import { getUsername } from "./username";
 // ─── Types ──────────────────────────────────────────────────
 
 export type MatchStatus = "waiting" | "playing" | "finished";
+export type Difficulty = "easy" | "medium" | "hard";
+export type MatchType = "single" | "mix";
 
 export interface MultiplayerMatch {
   id: string;
@@ -23,9 +25,19 @@ export interface MultiplayerMatch {
   seed: string;
   created_at: string;
   finished_at: string | null;
+  // Difficulty for level-based games
+  difficulty: Difficulty | null;
+  // Mix match fields
+  match_type: MatchType;
+  mix_games: string[] | null;
+  mix_scores_p1: number[] | null;
+  mix_scores_p2: number[] | null;
+  mix_round: number;
+  mix_round_done_p1: boolean;
+  mix_round_done_p2: boolean;
 }
 
-export type GameType = "quickpick" | "memoryflash" | "reflexgrid" | "mathtest" | "wordscramble";
+export type GameType = "quickpick" | "memoryflash" | "reflexgrid" | "mathtest" | "wordscramble" | "reflexrush" | "numberrush";
 
 export const GAME_LABELS: Record<GameType, string> = {
   quickpick: "Quick Pick",
@@ -33,7 +45,26 @@ export const GAME_LABELS: Record<GameType, string> = {
   reflexgrid: "Reflex Grid",
   mathtest: "Math Test",
   wordscramble: "Word Scramble",
+  reflexrush: "Reflex Rush",
+  numberrush: "Number Rush",
 };
+
+// Games that have level-based difficulty
+export const LEVEL_GAMES: Set<GameType> = new Set(["reflexrush", "numberrush"]);
+
+// Difficulty → level mapping
+export const DIFFICULTY_LEVEL: Record<Difficulty, number> = {
+  easy: 3,
+  medium: 5,
+  hard: 9,
+};
+
+export const DIFFICULTY_LABELS = {
+  en: { easy: "Easy", medium: "Medium", hard: "Hard" },
+  hu: { easy: "Konnyu", medium: "Kozepes", hard: "Nehez" },
+  de: { easy: "Leicht", medium: "Mittel", hard: "Schwer" },
+  ro: { easy: "Usor", medium: "Mediu", hard: "Greu" },
+} as Record<string, Record<Difficulty, string>>;
 
 // ─── Seed generation (both players get identical game) ──────
 
@@ -45,7 +76,8 @@ export function generateSeed(): string {
 
 export async function createChallenge(
   game: GameType,
-  opponentName: string
+  opponentName: string,
+  options?: { difficulty?: Difficulty; matchType?: MatchType; mixGames?: GameType[] }
 ): Promise<{ match: MultiplayerMatch | null; error?: string }> {
   const myName = getUsername();
   if (!myName) return { match: null, error: "no_username" };
@@ -62,16 +94,27 @@ export async function createChallenge(
 
   const { data: { user } } = await supabase.auth.getUser();
 
+  const isMix = options?.matchType === "mix";
+  const mixGames = isMix ? (options?.mixGames || []) : null;
+
   const { data, error } = await supabase
     .from("multiplayer_matches")
     .insert({
-      game,
+      game: isMix ? "mix" : game,
       status: "waiting",
       player1_id: user?.id || null,
       player1_name: myName,
       player2_name: oppData.name,
       player2_id: oppData.user_id,
       seed: generateSeed(),
+      difficulty: options?.difficulty || null,
+      match_type: isMix ? "mix" : "single",
+      mix_games: mixGames,
+      mix_scores_p1: isMix ? [] : null,
+      mix_scores_p2: isMix ? [] : null,
+      mix_round: isMix ? 1 : 0,
+      mix_round_done_p1: false,
+      mix_round_done_p2: false,
     })
     .select()
     .single();
@@ -314,4 +357,117 @@ export async function abandonMatch(matchId: string): Promise<void> {
     .update({ status: "abandoned" })
     .eq("id", matchId)
     .eq("status", "playing");
+}
+
+// ─── Mix match: submit round score ──────────────────────────
+
+export async function submitMixRoundScore(
+  matchId: string,
+  score: number,
+  isPlayer1: boolean
+): Promise<{ ok: boolean; bothDone?: boolean; roundScores?: { p1: number[]; p2: number[] } }> {
+  // Get current match state
+  const { data: match } = await supabase
+    .from("multiplayer_matches")
+    .select("*")
+    .eq("id", matchId)
+    .single();
+
+  if (!match) return { ok: false };
+
+  const doneField = isPlayer1 ? "mix_round_done_p1" : "mix_round_done_p2";
+  const scoresField = isPlayer1 ? "mix_scores_p1" : "mix_scores_p2";
+  const currentScores = (isPlayer1 ? match.mix_scores_p1 : match.mix_scores_p2) as number[] || [];
+  const updatedScores = [...currentScores, score];
+
+  await supabase
+    .from("multiplayer_matches")
+    .update({
+      [scoresField]: updatedScores,
+      [doneField]: true,
+    })
+    .eq("id", matchId);
+
+  // Re-fetch to check if both done
+  const { data: fresh } = await supabase
+    .from("multiplayer_matches")
+    .select("*")
+    .eq("id", matchId)
+    .single();
+
+  if (!fresh) return { ok: true };
+
+  const bothDone = fresh.mix_round_done_p1 && fresh.mix_round_done_p2;
+  return {
+    ok: true,
+    bothDone,
+    roundScores: { p1: fresh.mix_scores_p1 || [], p2: fresh.mix_scores_p2 || [] },
+  };
+}
+
+// ─── Mix match: advance to next round ───────────────────────
+
+export async function advanceMixRound(matchId: string): Promise<{ ok: boolean; finished?: boolean; nextRound?: number }> {
+  const { data: match } = await supabase
+    .from("multiplayer_matches")
+    .select("*")
+    .eq("id", matchId)
+    .single();
+
+  if (!match) return { ok: false };
+
+  const totalRounds = (match.mix_games as string[])?.length || 5;
+  const currentRound = match.mix_round as number;
+
+  if (currentRound >= totalRounds) {
+    // Match finished — determine winner
+    const p1Scores = (match.mix_scores_p1 || []) as number[];
+    const p2Scores = (match.mix_scores_p2 || []) as number[];
+    let p1Wins = 0, p2Wins = 0;
+    for (let i = 0; i < p1Scores.length; i++) {
+      if (p1Scores[i] > p2Scores[i]) p1Wins++;
+      else if (p2Scores[i] > p1Scores[i]) p2Wins++;
+    }
+    const winnerId = p1Wins > p2Wins ? match.player1_id : p2Wins > p1Wins ? match.player2_id : null;
+
+    await supabase
+      .from("multiplayer_matches")
+      .update({
+        status: "finished",
+        winner_id: winnerId,
+        player1_score: p1Wins,
+        player2_score: p2Wins,
+        player1_done: true,
+        player2_done: true,
+        finished_at: new Date().toISOString(),
+      })
+      .eq("id", matchId);
+
+    return { ok: true, finished: true };
+  }
+
+  // Advance to next round
+  const nextRound = currentRound + 1;
+  await supabase
+    .from("multiplayer_matches")
+    .update({
+      mix_round: nextRound,
+      mix_round_done_p1: false,
+      mix_round_done_p2: false,
+      seed: generateSeed(), // new seed for each round
+    })
+    .eq("id", matchId);
+
+  return { ok: true, finished: false, nextRound };
+}
+
+// ─── Get mix round standings ────────────────────────────────
+
+export function getMixStandings(p1Scores: number[], p2Scores: number[]): { p1Wins: number; p2Wins: number } {
+  let p1Wins = 0, p2Wins = 0;
+  for (let i = 0; i < Math.min(p1Scores.length, p2Scores.length); i++) {
+    if (p1Scores[i] > p2Scores[i]) p1Wins++;
+    else if (p2Scores[i] > p1Scores[i]) p2Wins++;
+  }
+  return { p1Wins, p2Wins };
 }

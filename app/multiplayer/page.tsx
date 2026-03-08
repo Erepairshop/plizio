@@ -6,14 +6,16 @@ import { motion, AnimatePresence } from "framer-motion";
 import {
   Swords, Search, Clock, Trophy, ChevronLeft, Send, X,
   Loader2, Check, XCircle, Gamepad2, Users, Zap, Brain,
-  Crosshair, Calculator, Shuffle,
+  Crosshair, Calculator, Shuffle, Layers, Plus, Minus,
+  Target,
 } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { getUsername, hasUsername, searchUsernames } from "@/lib/username";
 import {
   createChallenge, acceptChallenge, declineChallenge, cancelChallenge,
   getMyPendingChallenges, getMySentChallenges, getMyActiveMatches, getMyMatchHistory,
-  type MultiplayerMatch, type GameType, GAME_LABELS,
+  type MultiplayerMatch, type GameType, type Difficulty, type MatchType,
+  GAME_LABELS, LEVEL_GAMES, DIFFICULTY_LABELS, getMixStandings,
 } from "@/lib/multiplayer";
 import ChallengeWaiting from "@/components/ChallengeWaiting";
 
@@ -48,6 +50,15 @@ const T = {
     sent: "Sent",
     score: "Score",
     back: "Back",
+    difficulty: "Difficulty",
+    mixChallenge: "Mix Challenge",
+    mixDesc: "5 games in a row!",
+    selectGames: "Select 5 games",
+    gamesSelected: "games selected",
+    single: "Single Game",
+    mix: "Mix (5 games)",
+    level: "Level",
+    roundOf: "of",
   },
   hu: {
     title: "Multiplayer",
@@ -77,6 +88,15 @@ const T = {
     sent: "Elküldve",
     score: "Pont",
     back: "Vissza",
+    difficulty: "Nehezseg",
+    mixChallenge: "Mix Kihivas",
+    mixDesc: "5 jatek egymas utan!",
+    selectGames: "Valassz 5 jatekot",
+    gamesSelected: "jatek kivalasztva",
+    single: "Egyszeri jatek",
+    mix: "Mix (5 jatek)",
+    level: "Szint",
+    roundOf: "/",
   },
   de: {
     title: "Multiplayer",
@@ -106,6 +126,15 @@ const T = {
     sent: "Gesendet",
     score: "Punkte",
     back: "Zurück",
+    difficulty: "Schwierigkeit",
+    mixChallenge: "Mix Herausforderung",
+    mixDesc: "5 Spiele hintereinander!",
+    selectGames: "Wahle 5 Spiele",
+    gamesSelected: "Spiele gewahlt",
+    single: "Einzelspiel",
+    mix: "Mix (5 Spiele)",
+    level: "Level",
+    roundOf: "von",
   },
   ro: {
     title: "Multiplayer",
@@ -135,6 +164,15 @@ const T = {
     sent: "Trimise",
     score: "Scor",
     back: "Înapoi",
+    difficulty: "Dificultate",
+    mixChallenge: "Provocare Mix",
+    mixDesc: "5 jocuri la rand!",
+    selectGames: "Alege 5 jocuri",
+    gamesSelected: "jocuri selectate",
+    single: "Joc simplu",
+    mix: "Mix (5 jocuri)",
+    level: "Nivel",
+    roundOf: "din",
   },
 };
 
@@ -144,6 +182,8 @@ const GAME_ICONS: Record<GameType, typeof Zap> = {
   reflexgrid: Crosshair,
   mathtest: Calculator,
   wordscramble: Shuffle,
+  reflexrush: Target,
+  numberrush: Layers,
 };
 
 type Tab = "challenge" | "active" | "history";
@@ -164,6 +204,9 @@ export default function MultiplayerPage() {
   const [searchResults, setSearchResults] = useState<string[]>([]);
   const [selectedOpponent, setSelectedOpponent] = useState("");
   const [selectedGame, setSelectedGame] = useState<GameType>("quickpick");
+  const [selectedDifficulty, setSelectedDifficulty] = useState<Difficulty>("medium");
+  const [matchType, setMatchType] = useState<MatchType>("single");
+  const [mixGames, setMixGames] = useState<GameType[]>([]);
   const [sending, setSending] = useState(false);
   const [sentSuccess, setSentSuccess] = useState(false);
   const [sendError, setSendError] = useState("");
@@ -232,9 +275,17 @@ export default function MultiplayerPage() {
   // ─── Send challenge ───────────────────────────────────
   const handleSendChallenge = async () => {
     if (!selectedOpponent) return;
+    if (matchType === "mix" && mixGames.length !== 5) return;
     setSending(true);
     setSendError("");
-    const { match, error } = await createChallenge(selectedGame, selectedOpponent);
+    const options: { difficulty?: Difficulty; matchType?: MatchType; mixGames?: GameType[] } = {};
+    if (matchType === "mix") {
+      options.matchType = "mix";
+      options.mixGames = mixGames;
+    } else if (LEVEL_GAMES.has(selectedGame)) {
+      options.difficulty = selectedDifficulty;
+    }
+    const { match, error } = await createChallenge(selectedGame, selectedOpponent, options);
     setSending(false);
 
     if (match) {
@@ -387,35 +438,161 @@ export default function MultiplayerPage() {
                 </div>
               )}
 
-              {/* Game selector */}
-              <div className="flex flex-col gap-2">
-                <span className="text-white/30 text-xs font-bold uppercase tracking-wider">{t.selectGame}</span>
-                <div className="grid grid-cols-2 gap-2">
-                  {(Object.keys(GAME_LABELS) as GameType[]).map((game) => {
-                    const Icon = GAME_ICONS[game];
-                    const isSelected = selectedGame === game;
-                    return (
-                      <button
-                        key={game}
-                        onClick={() => setSelectedGame(game)}
-                        className={`flex items-center gap-2 px-3 py-2.5 rounded-xl border text-xs font-bold transition-all ${
-                          isSelected
-                            ? "bg-neon-blue/15 border-neon-blue/40 text-neon-blue"
-                            : "bg-white/5 border-white/10 text-white/50 hover:border-white/20"
-                        }`}
-                      >
-                        <Icon size={14} />
-                        {GAME_LABELS[game]}
-                      </button>
-                    );
-                  })}
-                </div>
+              {/* Match type toggle */}
+              <div className="flex gap-2">
+                <button
+                  onClick={() => setMatchType("single")}
+                  className={`flex-1 flex items-center justify-center gap-2 py-2.5 rounded-xl border text-xs font-bold transition-all ${
+                    matchType === "single"
+                      ? "bg-neon-purple/15 border-neon-purple/40 text-neon-purple"
+                      : "bg-white/5 border-white/10 text-white/40"
+                  }`}
+                >
+                  <Gamepad2 size={14} />
+                  {t.single}
+                </button>
+                <button
+                  onClick={() => setMatchType("mix")}
+                  className={`flex-1 flex items-center justify-center gap-2 py-2.5 rounded-xl border text-xs font-bold transition-all ${
+                    matchType === "mix"
+                      ? "bg-neon-purple/15 border-neon-purple/40 text-neon-purple"
+                      : "bg-white/5 border-white/10 text-white/40"
+                  }`}
+                >
+                  <Layers size={14} />
+                  {t.mix}
+                </button>
               </div>
+
+              {matchType === "single" ? (
+                <>
+                  {/* Single game selector */}
+                  <div className="flex flex-col gap-2">
+                    <span className="text-white/30 text-xs font-bold uppercase tracking-wider">{t.selectGame}</span>
+                    <div className="grid grid-cols-2 gap-2">
+                      {(Object.keys(GAME_LABELS) as GameType[]).map((game) => {
+                        const Icon = GAME_ICONS[game];
+                        const isSelected = selectedGame === game;
+                        return (
+                          <button
+                            key={game}
+                            onClick={() => setSelectedGame(game)}
+                            className={`flex items-center gap-2 px-3 py-2.5 rounded-xl border text-xs font-bold transition-all ${
+                              isSelected
+                                ? "bg-neon-blue/15 border-neon-blue/40 text-neon-blue"
+                                : "bg-white/5 border-white/10 text-white/50 hover:border-white/20"
+                            }`}
+                          >
+                            <Icon size={14} />
+                            {GAME_LABELS[game]}
+                          </button>
+                        );
+                      })}
+                    </div>
+                  </div>
+
+                  {/* Difficulty selector (only for level-based games) */}
+                  {LEVEL_GAMES.has(selectedGame) && (
+                    <div className="flex flex-col gap-2">
+                      <span className="text-white/30 text-xs font-bold uppercase tracking-wider">{t.difficulty}</span>
+                      <div className="grid grid-cols-3 gap-2">
+                        {(["easy", "medium", "hard"] as Difficulty[]).map((diff) => {
+                          const diffLabels = DIFFICULTY_LABELS[lang] || DIFFICULTY_LABELS.en;
+                          const isSelected = selectedDifficulty === diff;
+                          const colors = {
+                            easy: isSelected ? "bg-neon-green/15 border-neon-green/40 text-neon-green" : "bg-white/5 border-white/10 text-white/40",
+                            medium: isSelected ? "bg-gold/15 border-gold/40 text-gold" : "bg-white/5 border-white/10 text-white/40",
+                            hard: isSelected ? "bg-neon-pink/15 border-neon-pink/40 text-neon-pink" : "bg-white/5 border-white/10 text-white/40",
+                          };
+                          return (
+                            <button
+                              key={diff}
+                              onClick={() => setSelectedDifficulty(diff)}
+                              className={`flex flex-col items-center gap-1 px-3 py-2.5 rounded-xl border text-xs font-bold transition-all ${colors[diff]}`}
+                            >
+                              <span>{diffLabels[diff]}</span>
+                              <span className="text-[10px] opacity-60">{t.level} {diff === "easy" ? 3 : diff === "medium" ? 5 : 9}</span>
+                            </button>
+                          );
+                        })}
+                      </div>
+                    </div>
+                  )}
+                </>
+              ) : (
+                /* Mix game selector */
+                <div className="flex flex-col gap-2">
+                  <div className="flex items-center justify-between">
+                    <span className="text-white/30 text-xs font-bold uppercase tracking-wider">{t.selectGames}</span>
+                    <span className={`text-xs font-bold ${mixGames.length === 5 ? "text-neon-green" : "text-white/30"}`}>
+                      {mixGames.length}/5 {t.gamesSelected}
+                    </span>
+                  </div>
+                  <div className="grid grid-cols-2 gap-2">
+                    {(Object.keys(GAME_LABELS) as GameType[]).map((game) => {
+                      const Icon = GAME_ICONS[game];
+                      const idx = mixGames.indexOf(game);
+                      const isInMix = idx !== -1;
+                      const count = mixGames.filter((g) => g === game).length;
+                      return (
+                        <div key={game} className="flex items-center gap-1">
+                          <button
+                            onClick={() => {
+                              if (mixGames.length < 5) {
+                                setMixGames([...mixGames, game]);
+                              }
+                            }}
+                            disabled={mixGames.length >= 5}
+                            className={`flex-1 flex items-center gap-2 px-3 py-2.5 rounded-xl border text-xs font-bold transition-all ${
+                              isInMix
+                                ? "bg-neon-blue/15 border-neon-blue/40 text-neon-blue"
+                                : "bg-white/5 border-white/10 text-white/50 hover:border-white/20"
+                            } disabled:opacity-30`}
+                          >
+                            <Icon size={14} />
+                            {GAME_LABELS[game]}
+                            {count > 0 && (
+                              <span className="ml-auto w-5 h-5 rounded-full bg-neon-blue/30 text-neon-blue text-[10px] flex items-center justify-center">
+                                {count}
+                              </span>
+                            )}
+                          </button>
+                        </div>
+                      );
+                    })}
+                  </div>
+                  {/* Mix games order preview */}
+                  {mixGames.length > 0 && (
+                    <div className="flex flex-col gap-1.5 mt-1">
+                      {mixGames.map((game, i) => {
+                        const Icon = GAME_ICONS[game];
+                        return (
+                          <div key={i} className="flex items-center gap-2 bg-white/5 rounded-lg px-3 py-1.5">
+                            <span className="text-white/30 text-[10px] font-bold w-4">{i + 1}.</span>
+                            <Icon size={12} className="text-neon-blue" />
+                            <span className="text-white/70 text-xs flex-1">{GAME_LABELS[game]}</span>
+                            <button
+                              onClick={() => {
+                                const next = [...mixGames];
+                                next.splice(i, 1);
+                                setMixGames(next);
+                              }}
+                              className="text-white/30 hover:text-neon-pink"
+                            >
+                              <X size={12} />
+                            </button>
+                          </div>
+                        );
+                      })}
+                    </div>
+                  )}
+                </div>
+              )}
 
               {/* Send button */}
               <motion.button
                 onClick={handleSendChallenge}
-                disabled={!selectedOpponent || sending}
+                disabled={!selectedOpponent || sending || (matchType === "mix" && mixGames.length !== 5)}
                 className="flex items-center justify-center gap-2 py-3 rounded-xl bg-neon-pink/15 border border-neon-pink/40 text-neon-pink font-bold text-sm disabled:opacity-30"
                 whileHover={{ scale: 1.02 }}
                 whileTap={{ scale: 0.98 }}
@@ -439,6 +616,7 @@ export default function MultiplayerPage() {
                       match={match}
                       myName={myName}
                       t={t}
+                      lang={lang}
                       onAccept={() => {}}
                       onDecline={() => handleDecline(match)}
                     />
@@ -456,6 +634,7 @@ export default function MultiplayerPage() {
                       match={match}
                       myName={myName}
                       t={t}
+                      lang={lang}
                       onAccept={() => handleAccept(match)}
                       onDecline={() => handleDecline(match)}
                     />
@@ -483,7 +662,7 @@ export default function MultiplayerPage() {
                 </div>
               ) : (
                 activeMatches.map((match) => (
-                  <MatchCard key={match.id} match={match} myName={myName} t={t} router={router} />
+                  <MatchCard key={match.id} match={match} myName={myName} t={t} router={router} lang={lang} />
                 ))
               )}
             </motion.div>
@@ -507,7 +686,7 @@ export default function MultiplayerPage() {
                 </div>
               ) : (
                 matchHistory.map((match) => (
-                  <HistoryCard key={match.id} match={match} myName={myName} t={t} />
+                  <HistoryCard key={match.id} match={match} myName={myName} t={t} lang={lang} />
                 ))
               )}
             </motion.div>
@@ -561,16 +740,21 @@ export default function MultiplayerPage() {
 
 // ─── Sub-components ─────────────────────────────────────────
 
-function ChallengeCard({ match, myName, t, onAccept, onDecline }: {
+function ChallengeCard({ match, myName, t, onAccept, onDecline, lang }: {
   match: MultiplayerMatch;
   myName: string;
   t: Record<string, string>;
   onAccept: () => void;
   onDecline: () => void;
+  lang: string;
 }) {
   const isForMe = match.player2_name?.toLowerCase() === myName.toLowerCase();
   const opponentName = isForMe ? match.player1_name : match.player2_name;
-  const Icon = GAME_ICONS[match.game as GameType] || Gamepad2;
+  const isMix = match.match_type === "mix";
+  const Icon = isMix ? Layers : (GAME_ICONS[match.game as GameType] || Gamepad2);
+  const diffLabel = match.difficulty
+    ? (DIFFICULTY_LABELS[lang] || DIFFICULTY_LABELS.en)[match.difficulty as Difficulty]
+    : null;
 
   return (
     <motion.div
@@ -582,7 +766,14 @@ function ChallengeCard({ match, myName, t, onAccept, onDecline }: {
       </div>
       <div className="flex-1 min-w-0">
         <p className="text-white text-sm font-bold truncate">{opponentName}</p>
-        <p className="text-white/30 text-[10px]">{GAME_LABELS[match.game as GameType]}</p>
+        <p className="text-white/30 text-[10px]">
+          {isMix ? `Mix (${match.mix_games?.length || 5} games)` : (
+            <>
+              {GAME_LABELS[match.game as GameType]}
+              {diffLabel && ` — ${diffLabel}`}
+            </>
+          )}
+        </p>
       </div>
       {isForMe ? (
         <div className="flex gap-1.5">
@@ -603,17 +794,42 @@ function ChallengeCard({ match, myName, t, onAccept, onDecline }: {
   );
 }
 
-function MatchCard({ match, myName, t, router }: {
+function MatchCard({ match, myName, t, router, lang }: {
   match: MultiplayerMatch;
   myName: string;
   t: Record<string, string>;
   router: ReturnType<typeof useRouter>;
+  lang: string;
 }) {
   const isP1 = match.player1_name.toLowerCase() === myName.toLowerCase();
   const opponent = isP1 ? match.player2_name : match.player1_name;
   const myDone = isP1 ? match.player1_done : match.player2_done;
   const oppDone = isP1 ? match.player2_done : match.player1_done;
-  const Icon = GAME_ICONS[match.game as GameType] || Gamepad2;
+  const isMix = match.match_type === "mix";
+  const Icon = isMix ? Layers : (GAME_ICONS[match.game as GameType] || Gamepad2);
+
+  const diffLabel = match.difficulty
+    ? (DIFFICULTY_LABELS[lang] || DIFFICULTY_LABELS.en)[match.difficulty as Difficulty]
+    : null;
+
+  // Mix: build URL for current round's game
+  const getMixPlayUrl = () => {
+    if (!isMix || !match.mix_games) return "";
+    const round = match.mix_round || 1;
+    const currentGame = match.mix_games[round - 1];
+    return `/${currentGame}?match=${match.id}&seed=${match.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponent || "???")}&mixround=${round}`;
+  };
+
+  // Mix standings
+  const mixStandings = isMix && match.mix_scores_p1 && match.mix_scores_p2
+    ? getMixStandings(
+        isP1 ? match.mix_scores_p1 : match.mix_scores_p2,
+        isP1 ? match.mix_scores_p2 : match.mix_scores_p1
+      )
+    : null;
+
+  const myMixRoundDone = isMix ? (isP1 ? match.mix_round_done_p1 : match.mix_round_done_p2) : false;
+  const oppMixRoundDone = isMix ? (isP1 ? match.mix_round_done_p2 : match.mix_round_done_p1) : false;
 
   return (
     <div className="bg-card border border-white/10 rounded-xl p-3 flex items-center gap-3">
@@ -625,42 +841,79 @@ function MatchCard({ match, myName, t, router }: {
           {t.you} {t.vs} {opponent}
         </p>
         <p className="text-white/30 text-[10px]">
-          {GAME_LABELS[match.game as GameType]}
-          {myDone && " — ✓ "}
-          {oppDone && ` — ${opponent} ✓`}
+          {isMix ? (
+            <>Mix {match.mix_round || 1}/{match.mix_games?.length || 5}
+              {mixStandings && ` — ${mixStandings.p1Wins}:${mixStandings.p2Wins}`}
+            </>
+          ) : (
+            <>
+              {GAME_LABELS[match.game as GameType]}
+              {diffLabel && ` (${diffLabel})`}
+              {myDone && " — ✓ "}
+              {oppDone && ` — ${opponent} ✓`}
+            </>
+          )}
         </p>
       </div>
-      {!myDone && match.status === "playing" && (
-        <button
-          onClick={() => router.push(`/${match.game}?match=${match.id}&seed=${match.seed}&p=${isP1 ? "1" : "2"}`)}
-          className="px-3 py-1.5 rounded-lg bg-neon-blue/15 border border-neon-blue/30 text-neon-blue text-xs font-bold"
-        >
-          {t.play}
-        </button>
-      )}
-      {myDone && !oppDone && (
-        <div className="flex items-center gap-1 text-white/30 text-[10px]">
-          <Clock size={10} />
-          {t.waiting}
-        </div>
+      {isMix ? (
+        !myMixRoundDone && match.status === "playing" ? (
+          <button
+            onClick={() => router.push(getMixPlayUrl())}
+            className="px-3 py-1.5 rounded-lg bg-neon-blue/15 border border-neon-blue/30 text-neon-blue text-xs font-bold"
+          >
+            {t.play}
+          </button>
+        ) : myMixRoundDone && !oppMixRoundDone ? (
+          <div className="flex items-center gap-1 text-white/30 text-[10px]">
+            <Clock size={10} />
+            {t.waiting}
+          </div>
+        ) : null
+      ) : (
+        <>
+          {!myDone && match.status === "playing" && (
+            <button
+              onClick={() => {
+                let url = `/${match.game}?match=${match.id}&seed=${match.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponent || "???")}`;
+                if (match.difficulty) url += `&difficulty=${match.difficulty}`;
+                router.push(url);
+              }}
+              className="px-3 py-1.5 rounded-lg bg-neon-blue/15 border border-neon-blue/30 text-neon-blue text-xs font-bold"
+            >
+              {t.play}
+            </button>
+          )}
+          {myDone && !oppDone && (
+            <div className="flex items-center gap-1 text-white/30 text-[10px]">
+              <Clock size={10} />
+              {t.waiting}
+            </div>
+          )}
+        </>
       )}
     </div>
   );
 }
 
-function HistoryCard({ match, myName, t }: {
+function HistoryCard({ match, myName, t, lang }: {
   match: MultiplayerMatch;
   myName: string;
   t: Record<string, string>;
+  lang: string;
 }) {
   const isP1 = match.player1_name.toLowerCase() === myName.toLowerCase();
   const opponent = isP1 ? match.player2_name : match.player1_name;
   const myScore = isP1 ? match.player1_score : match.player2_score;
   const oppScore = isP1 ? match.player2_score : match.player1_score;
-  const Icon = GAME_ICONS[match.game as GameType] || Gamepad2;
+  const isMix = match.match_type === "mix";
+  const Icon = isMix ? Layers : (GAME_ICONS[match.game as GameType] || Gamepad2);
 
   const iWon = (myScore ?? 0) > (oppScore ?? 0);
   const isDraw = myScore === oppScore;
+
+  const diffLabel = match.difficulty
+    ? (DIFFICULTY_LABELS[lang] || DIFFICULTY_LABELS.en)[match.difficulty as Difficulty]
+    : null;
 
   return (
     <div className="bg-card border border-white/10 rounded-xl p-3 flex items-center gap-3">
@@ -674,7 +927,15 @@ function HistoryCard({ match, myName, t }: {
           {t.vs} {opponent}
         </p>
         <p className="text-white/30 text-[10px]">
-          {GAME_LABELS[match.game as GameType]} — {myScore ?? 0} : {oppScore ?? 0}
+          {isMix ? (
+            <>Mix — {myScore ?? 0}:{oppScore ?? 0}</>
+          ) : (
+            <>
+              {GAME_LABELS[match.game as GameType]}
+              {diffLabel && ` (${diffLabel})`}
+              {" — "}{myScore ?? 0} : {oppScore ?? 0}
+            </>
+          )}
         </p>
       </div>
       <span className={`text-xs font-bold ${

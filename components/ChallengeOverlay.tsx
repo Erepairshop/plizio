@@ -8,7 +8,8 @@ import { getUsername } from "@/lib/username";
 import {
   getMyPendingChallenges, acceptChallenge, declineChallenge,
   subscribeToMatch,
-  type MultiplayerMatch, type GameType, GAME_LABELS,
+  type MultiplayerMatch, type GameType, type Difficulty,
+  GAME_LABELS, DIFFICULTY_LABELS,
 } from "@/lib/multiplayer";
 import { useLang } from "@/components/LanguageProvider";
 import AvatarCompanion from "@/components/AvatarCompanion";
@@ -108,7 +109,15 @@ export default function ChallengeOverlay() {
       if (challenge) {
         const isP1 = challenge.player1_name.toLowerCase() === myName?.toLowerCase();
         const opponent = (isP1 ? challenge.player2_name : challenge.player1_name) || "???";
-        router.push(`/${challenge.game}?match=${challenge.id}&seed=${challenge.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponent)}`);
+        const isMix = challenge.match_type === "mix";
+        if (isMix && challenge.mix_games) {
+          const currentGame = challenge.mix_games[0];
+          router.push(`/${currentGame}?match=${challenge.id}&seed=${challenge.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponent)}&mixround=1`);
+        } else {
+          let url = `/${challenge.game}?match=${challenge.id}&seed=${challenge.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponent)}`;
+          if (challenge.difficulty) url += `&difficulty=${challenge.difficulty}`;
+          router.push(url);
+        }
         setChallenge(null);
       }
       return;
@@ -119,7 +128,13 @@ export default function ChallengeOverlay() {
 
   if (!challenge) return null;
 
-  const gameLabel = GAME_LABELS[challenge.game as GameType] || challenge.game;
+  const isMix = challenge.match_type === "mix";
+  const gameLabel = isMix
+    ? `Mix (${challenge.mix_games?.length || 5} games)`
+    : GAME_LABELS[challenge.game as GameType] || challenge.game;
+  const diffLabel = challenge.difficulty
+    ? (DIFFICULTY_LABELS[lang] || DIFFICULTY_LABELS.en)[challenge.difficulty as Difficulty]
+    : null;
 
   return (
     <AnimatePresence>
@@ -180,6 +195,7 @@ export default function ChallengeOverlay() {
                   <span className="font-bold text-neon-blue">{challenge.player1_name}</span>
                   {" "}{t.invited}{" "}
                   <span className="font-bold text-neon-green">{gameLabel}</span>
+                  {diffLabel && <span className="text-gold font-bold"> ({diffLabel})</span>}
                 </p>
 
                 <div className="flex gap-3 w-full mt-2">
