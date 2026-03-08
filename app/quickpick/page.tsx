@@ -16,6 +16,7 @@ import { submitScore, abandonMatch, submitMixRoundScore, pollMixRound, subscribe
 import MultiplayerExitConfirm from "@/components/MultiplayerExitConfirm";
 import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
 import MultiplayerResult from "@/components/MultiplayerResult";
+import MixRoundResult from "@/components/MixRoundResult";
 import { getUsername } from "@/lib/username";
 
 // English versions (default/fallback)
@@ -288,6 +289,9 @@ function QuickPickPage() {
   const [oppFinalScore, setOppFinalScore] = useState<number | null>(null);
   const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
   const [mixFinished, setMixFinished] = useState(false);
+  const [roundResult, setRoundResult] = useState<{ myScore: number; oppScore: number; roundNumber: number; totalRounds: number } | null>(null);
+  const [showRoundResult, setShowRoundResult] = useState(false);
+  const nextRoundUrlRef = useRef<string | null>(null);
   const startTimeRef = useRef<number>(0);
   const [animatedValueA, setAnimatedValueA] = useState(0);
   const [animatedValueB, setAnimatedValueB] = useState(0);
@@ -337,7 +341,18 @@ function QuickPickPage() {
           return true;
         }
         if (result.action === "next") {
-          router.push(result.url);
+          // Store round result and show it before navigating
+          if (result.roundScores) {
+            setRoundResult(result.roundScores);
+            setShowRoundResult(true);
+            nextRoundUrlRef.current = result.url;
+            // Auto-navigate after 2.5 seconds
+            setTimeout(() => {
+              router.push(result.url);
+            }, 2500);
+          } else {
+            router.push(result.url);
+          }
           return true;
         }
         return false;
@@ -822,7 +837,7 @@ function QuickPickPage() {
       </AnimatePresence>
 
       {/* Waiting for opponent */}
-      {gameState === "mix-waiting" && (
+      {gameState === "mix-waiting" && !showRoundResult && (
         <motion.div
           className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm gap-5 px-6"
           initial={{ opacity: 0 }}
@@ -837,7 +852,7 @@ function QuickPickPage() {
             {score}/{TOTAL_ROUNDS}
           </motion.div>
           {isMix && (
-            <span className="text-white/30 text-xs font-bold uppercase">
+            <span className="text-white/60 text-xs font-bold uppercase">
               Round {mixround} ✓
             </span>
           )}
@@ -846,13 +861,26 @@ function QuickPickPage() {
             animate={{ rotate: 360 }}
             transition={{ repeat: Infinity, duration: 1, ease: "linear" }}
           />
-          <span className="text-white/60 text-sm font-medium text-center">
+          <span className="text-white/70 text-sm font-medium text-center">
             {lang === "hu" ? `Várakozás ${opponentName}-ra...` :
              lang === "de" ? `Warte auf ${opponentName}...` :
              lang === "ro" ? `Se așteaptă ${opponentName}...` :
              `Waiting for ${opponentName}...`}
           </span>
         </motion.div>
+      )}
+
+      {/* Mix Round Result - shows before navigating to next round */}
+      {showRoundResult && roundResult && (
+        <MixRoundResult
+          roundNumber={roundResult.roundNumber}
+          totalRounds={roundResult.totalRounds}
+          p1Score={playerNum === "1" ? roundResult.myScore : roundResult.oppScore}
+          p2Score={playerNum === "1" ? roundResult.oppScore : roundResult.myScore}
+          p1Name={playerNum === "1" ? (getUsername() || "???") : opponentName}
+          p2Name={playerNum === "1" ? opponentName : (getUsername() || "???")}
+          isWaiting={true}
+        />
       )}
 
       {/* Multiplayer result — win/lose with 2 avatars */}

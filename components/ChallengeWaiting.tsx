@@ -189,7 +189,7 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
 
             <motion.button
               onClick={onCancel}
-              className="mt-4 flex items-center gap-2 px-5 py-2.5 rounded-xl bg-white/5 border border-white/10 text-white/40 font-bold text-xs"
+              className="mt-4 flex items-center gap-2 px-5 py-2.5 rounded-xl bg-white/5 border border-white/10 text-white/70 font-bold text-xs hover:bg-white/10 hover:border-white/20 transition-colors"
               whileHover={{ scale: 1.02 }}
               whileTap={{ scale: 0.98 }}
             >
@@ -206,14 +206,14 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
             initial={{ opacity: 0, scale: 0.8 }}
             animate={{ opacity: 1, scale: 1 }}
           >
-            <p className="text-neon-green font-bold text-lg">{t.accepted}</p>
+            <p className="text-neon-green font-bold text-lg" style={{ textShadow: "0 0 20px rgba(0,255,136,0.4)" }}>{t.accepted}</p>
           </motion.div>
         )}
 
         {/* Countdown phase */}
         {phase === "countdown" && (
           <motion.div className="flex flex-col items-center gap-4">
-            <p className="text-white/50 text-sm font-bold">{t.starting}...</p>
+            <p className="text-white/70 text-sm font-bold">{t.starting}...</p>
             <motion.div
               key={countdown}
               className="text-7xl font-black text-neon-blue"
@@ -224,7 +224,7 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
             >
               {countdown > 0 ? countdown : "GO!"}
             </motion.div>
-            <p className="text-white/30 text-xs">
+            <p className="text-white/60 text-xs">
               {myName} vs {opponentName} — {gameLabel}
             </p>
           </motion.div>
@@ -253,7 +253,7 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
 
             <motion.button
               onClick={onCancel}
-              className="mt-2 px-6 py-2.5 rounded-xl bg-white/5 border border-white/10 text-white/50 font-bold text-sm"
+              className="mt-2 px-6 py-2.5 rounded-xl bg-white/5 border border-white/10 text-white/70 font-bold text-sm hover:bg-white/10 hover:border-white/20 transition-colors"
               whileHover={{ scale: 1.02 }}
               whileTap={{ scale: 0.98 }}
             >

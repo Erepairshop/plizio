@@ -21,7 +21,8 @@ import MilestonePopup from "@/components/MilestonePopup";
 import MultiplayerExitConfirm from "@/components/MultiplayerExitConfirm";
 import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
 import MultiplayerResult from "@/components/MultiplayerResult";
-import { submitScore, abandonMatch } from "@/lib/multiplayer";
+import MixRoundResult from "@/components/MixRoundResult";
+import { submitScore, submitMixRoundScore, abandonMatch, pollMixRound } from "@/lib/multiplayer";
 import { getUsername } from "@/lib/username";
 import { supabase } from "@/lib/supabase/client";
 import type { RealtimeChannel } from "@supabase/supabase-js";
@@ -76,7 +77,7 @@ interface PowerUpItem {
   collected: boolean;
 }
 
-type GameState = "menu" | "playing" | "dead" | "level-complete" | "reward";
+type GameState = "menu" | "playing" | "dead" | "level-complete" | "reward" | "multi-waiting" | "mix-round-result";
 
 // ─── CONSTANTS (TUNED) ──────────────────────────
 const GRAVITY = 0.022;
@@ -2165,7 +2166,10 @@ function SkyClimbPage() {
   const playerNum = searchParams.get("p");
   const opponentName = searchParams.get("vs") || "???";
   const urlLevel = searchParams.get("level");
+  const mixround = searchParams.get("mixround");
   const isMultiplayer = !!matchId;
+  const isMix = !!(isMultiplayer && mixround);
+  const isP1 = playerNum === "1";
 
   const [gameState, setGameState] = useState<GameState>("menu");
   const [level, setLevel] = useState(1);
@@ -2187,10 +2191,14 @@ function SkyClimbPage() {
   const [multiResult, setMultiResult] = useState<{ myScore: number; oppScore: number } | null>(null);
   const [scoreSubmitted, setScoreSubmitted] = useState(false);
   const [ghostAvatarData, setGhostAvatarData] = useState<GhostAvatarData | null>(null);
+  const [roundResult, setRoundResult] = useState<{ myScore: number; oppScore: number; roundNumber: number; totalRounds: number } | null>(null);
+  const [showRoundResult, setShowRoundResult] = useState(false);
   const channelRef = useRef<RealtimeChannel | null>(null);
   const ghostPosRef = useRef({ x: 0, y: 1, z: 0, fa: 0, dead: false });
   const oppHeightRef = useRef(0);
   const broadcastIntervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  const nextRoundUrlRef = useRef<string | null>(null);
+  const multiStartedRef = useRef(false);
   const [isTouchDevice, setIsTouchDevice] = useState(false);
   const gameRef = useRef<GameData>(createGameData());
 
@@ -2487,10 +2495,17 @@ function SkyClimbPage() {
     const g = gameRef.current;
     const myHeight = Math.round(g.bestHeight);
     if (broadcastIntervalRef.current) clearInterval(broadcastIntervalRef.current);
-    submitScore(matchId, myHeight, playerNum === "1").then(() => {
-      setMultiResult({ myScore: myHeight, oppScore: 999 });
-    });
-  }, [oppFinished, isMultiplayer, matchId, scoreSubmitted, playerNum]);
+
+    if (isMix) {
+      submitMixRoundScore(matchId, myHeight, isP1).then(() => {
+        setMultiResult({ myScore: myHeight, oppScore: 999 });
+      });
+    } else {
+      submitScore(matchId, myHeight, isP1).then(() => {
+        setMultiResult({ myScore: myHeight, oppScore: 999 });
+      });
+    }
+  }, [oppFinished, isMultiplayer, matchId, scoreSubmitted, playerNum, isMix, isP1]);
 
   // ─── MULTIPLAYER: Handle opponent dying ────────────
   useEffect(() => {
@@ -2575,7 +2590,8 @@ function SkyClimbPage() {
       });
 
       setScoreSubmitted(true);
-      submitScore(matchId, heightScore, playerNum === "1").then(() => {
+      const submitFn = isMix ? submitMixRoundScore : submitScore;
+      submitFn(matchId, heightScore, isP1).then(() => {
         if (oppDied) {
           // Both died — compare heights
           setMultiResult({ myScore: heightScore, oppScore: oppHeightRef.current });
@@ -2589,7 +2605,7 @@ function SkyClimbPage() {
       });
     }
     setGameState("dead");
-  }, [isMultiplayer, matchId, scoreSubmitted, playerNum, oppDied, oppFinished]);
+  }, [isMultiplayer, matchId, scoreSubmitted, playerNum, oppDied, oppFinished, isMix, isP1]);
 
   const handleWinStart = useCallback(() => {
     setWinAnimActive(true);
@@ -2642,7 +2658,8 @@ function SkyClimbPage() {
       });
       setScoreSubmitted(true);
       const winScore = 999; // finished = always beats any death height
-      submitScore(matchId, winScore, playerNum === "1").then(() => {
+      const submitFn = isMix ? submitMixRoundScore : submitScore;
+      submitFn(matchId, winScore, isP1).then(() => {
         if (oppDied) {
           setMultiResult({ myScore: winScore, oppScore: oppHeightRef.current });
         } else if (oppFinished) {
