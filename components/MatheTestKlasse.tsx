@@ -95,6 +95,8 @@ const GRADE_DATA: Record<number, {
       { icon: "📐", label: "Umfang & Fläche" },
       { icon: "🔢", label: "Zahlen bis 1 Million" },
       { icon: "📏", label: "Größen & Einheiten" },
+      { icon: "🔄", label: "Runden (10er, 100er)" },
+      { icon: "⭕", label: "Kreis & Geometrie" },
     ],
     intro: `Der Mathe Test für Klasse 4 bereitet Viertklässler im Alter von neun bis zehn Jahren auf die Grundschulabschluss-Anforderungen vor. In der vierten Klasse werden die Rechenoperationen erheblich komplexer: Schriftliche Multiplikation und Division mit mehrstelligen Zahlen, erste Brüche und die Berechnung von Umfang und Fläche stehen auf dem Lehrplan. Unser kostenloser Online-Test hilft Kindern, sich gezielt auf Klassenarbeiten vorzubereiten und den Übergang in die weiterführende Schule sicher zu meistern. Alle Themen des vierten Schuljahres sind abgedeckt.`,
     deepDive: [
