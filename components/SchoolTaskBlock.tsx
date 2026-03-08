@@ -14,6 +14,16 @@ import type {
   VisualZeichnenData,
   VisualMessenData,
   VisualUhrzeitData,
+  VisualGridAreaData,
+  VisualPlaceValueData,
+  VisualFractionPizzaData,
+  VisualSymmetryData,
+  VisualSequenceData,
+  VisualTimelineData,
+  VisualNumberLineData,
+  VisualAngleData,
+  VisualCircleDrawData,
+  VisualMoneyData,
 } from '@/lib/schoolTaskGenerator';
 import KopfrechnenTask from './task-types/KopfrechnenTask';
 import SchriftlichTask from './task-types/SchriftlichTask';
@@ -22,7 +32,21 @@ import ZahlenreiheTask from './task-types/ZahlenreiheTask';
 import SachaufgabeTask from './task-types/SachaufgabeTask';
 import TabelleTask from './task-types/TabelleTask';
 import AufgabenTask from './task-types/AufgabenTask';
-import { LengthDrawing, LengthMeasurement, AnalogClock } from './grade4-visual';
+import {
+  LengthDrawing, LengthMeasurement, AnalogClock, GridAreaCounter,
+} from './grade4-visual';
+
+// Lazy imports for Phase 2-4 visual components
+import dynamic from 'next/dynamic';
+const PlaceValueGrid = dynamic(() => import('./grade4-visual/PlaceValueGrid'), { ssr: false });
+const FractionPizzaAdder = dynamic(() => import('./grade4-visual/FractionPizzaAdder'), { ssr: false });
+const SymmetryMirror = dynamic(() => import('./grade4-visual/SymmetryMirror'), { ssr: false });
+const SequenceBuilder = dynamic(() => import('./grade4-visual/SequenceBuilder'), { ssr: false });
+const TimelineDuration = dynamic(() => import('./grade4-visual/TimelineDuration'), { ssr: false });
+const NumberLineRounding = dynamic(() => import('./grade4-visual/NumberLineRounding'), { ssr: false });
+const AngleDrawer = dynamic(() => import('./grade4-visual/AngleDrawer'), { ssr: false });
+const CircleDrawer = dynamic(() => import('./grade4-visual/CircleDrawer'), { ssr: false });
+const MoneyCalculator = dynamic(() => import('./grade4-visual/MoneyCalculator'), { ssr: false });
 
 interface Props {
   block: SchoolTaskBlockType;
@@ -133,6 +157,168 @@ export default function SchoolTaskBlock({
               onChange(sq.id, isCorrect
                 ? `${uData.targetHour}:${uData.targetMinute.toString().padStart(2, '0')}`
                 : '0');
+            }}
+          />
+        );
+      }
+
+      case 'visual_grid_area': {
+        const gaData = block.data as VisualGridAreaData;
+        const sq = block.subQuestions[0];
+        const lang = (cc === 'DE' || cc === 'AT' || cc === 'CH') ? 'de' : cc === 'HU' ? 'hu' : cc === 'RO' ? 'ro' : 'en';
+        return (
+          <GridAreaCounter
+            width={gaData.width}
+            height={gaData.height}
+            mode={gaData.mode}
+            language={lang}
+            onAnswer={(isCorrect, answer) => {
+              onChange(sq.id, isCorrect ? String(sq.answer) : String(answer));
+            }}
+          />
+        );
+      }
+
+      case 'visual_place_value': {
+        const pvData = block.data as VisualPlaceValueData;
+        const sq = block.subQuestions[0];
+        const lang = (cc === 'DE' || cc === 'AT' || cc === 'CH') ? 'de' : cc === 'HU' ? 'hu' : cc === 'RO' ? 'ro' : 'en';
+        return (
+          <PlaceValueGrid
+            number={pvData.number}
+            digits={pvData.digits}
+            language={lang}
+            onAnswer={(isCorrect, answer) => {
+              onChange(sq.id, isCorrect ? String(sq.answer) : String(answer));
+            }}
+          />
+        );
+      }
+
+      case 'visual_fraction_pizza': {
+        const fpData = block.data as VisualFractionPizzaData;
+        const sq = block.subQuestions[0];
+        const lang = (cc === 'DE' || cc === 'AT' || cc === 'CH') ? 'de' : cc === 'HU' ? 'hu' : cc === 'RO' ? 'ro' : 'en';
+        return (
+          <FractionPizzaAdder
+            numerator={fpData.numerator}
+            denominator={fpData.denominator}
+            language={lang}
+            onAnswer={(isCorrect) => {
+              onChange(sq.id, isCorrect ? String(sq.answer) : '0');
+            }}
+          />
+        );
+      }
+
+      case 'visual_symmetry': {
+        const symData = block.data as VisualSymmetryData;
+        const sq = block.subQuestions[0];
+        const lang = (cc === 'DE' || cc === 'AT' || cc === 'CH') ? 'de' : cc === 'HU' ? 'hu' : cc === 'RO' ? 'ro' : 'en';
+        return (
+          <SymmetryMirror
+            gridSize={symData.gridSize}
+            pattern={symData.pattern}
+            language={lang}
+            onAnswer={(isCorrect) => {
+              onChange(sq.id, isCorrect ? 'symmetric' : 'wrong');
+            }}
+          />
+        );
+      }
+
+      case 'visual_sequence': {
+        const seqData = block.data as VisualSequenceData;
+        const sq = block.subQuestions[0];
+        const lang = (cc === 'DE' || cc === 'AT' || cc === 'CH') ? 'de' : cc === 'HU' ? 'hu' : cc === 'RO' ? 'ro' : 'en';
+        return (
+          <SequenceBuilder
+            sequence={seqData.sequence}
+            blanks={seqData.blanks}
+            rule={seqData.rule}
+            language={lang}
+            onAnswer={(isCorrect, answers) => {
+              onChange(sq.id, isCorrect ? String(sq.answer) : answers.join(','));
+            }}
+          />
+        );
+      }
+
+      case 'visual_timeline': {
+        const tlData = block.data as VisualTimelineData;
+        const sq = block.subQuestions[0];
+        const lang = (cc === 'DE' || cc === 'AT' || cc === 'CH') ? 'de' : cc === 'HU' ? 'hu' : cc === 'RO' ? 'ro' : 'en';
+        return (
+          <TimelineDuration
+            startHour={tlData.startHour}
+            endHour={tlData.endHour}
+            events={tlData.events}
+            language={lang}
+            onAnswer={(isCorrect, answer) => {
+              onChange(sq.id, isCorrect ? String(sq.answer) : String(answer));
+            }}
+          />
+        );
+      }
+
+      case 'visual_number_line': {
+        const nlData = block.data as VisualNumberLineData;
+        const sq = block.subQuestions[0];
+        const lang = (cc === 'DE' || cc === 'AT' || cc === 'CH') ? 'de' : cc === 'HU' ? 'hu' : cc === 'RO' ? 'ro' : 'en';
+        return (
+          <NumberLineRounding
+            min={nlData.min}
+            max={nlData.max}
+            target={nlData.target}
+            language={lang}
+            onAnswer={(isCorrect, answer) => {
+              onChange(sq.id, isCorrect ? String(sq.answer) : String(answer));
+            }}
+          />
+        );
+      }
+
+      case 'visual_angle': {
+        const angData = block.data as VisualAngleData;
+        const sq = block.subQuestions[0];
+        const lang = (cc === 'DE' || cc === 'AT' || cc === 'CH') ? 'de' : cc === 'HU' ? 'hu' : cc === 'RO' ? 'ro' : 'en';
+        return (
+          <AngleDrawer
+            targetAngle={angData.targetAngle}
+            language={lang}
+            onAnswer={(isCorrect, answer) => {
+              onChange(sq.id, isCorrect ? String(sq.answer) : String(answer));
+            }}
+          />
+        );
+      }
+
+      case 'visual_circle_draw': {
+        const cirData = block.data as VisualCircleDrawData;
+        const sq = block.subQuestions[0];
+        const lang = (cc === 'DE' || cc === 'AT' || cc === 'CH') ? 'de' : cc === 'HU' ? 'hu' : cc === 'RO' ? 'ro' : 'en';
+        return (
+          <CircleDrawer
+            targetRadius={cirData.radius}
+            language={lang}
+            onAnswer={(isCorrect, answer) => {
+              onChange(sq.id, isCorrect ? String(sq.answer) : String(answer));
+            }}
+          />
+        );
+      }
+
+      case 'visual_money': {
+        const monData = block.data as VisualMoneyData;
+        const sq = block.subQuestions[0];
+        const lang = (cc === 'DE' || cc === 'AT' || cc === 'CH') ? 'de' : cc === 'HU' ? 'hu' : cc === 'RO' ? 'ro' : 'en';
+        return (
+          <MoneyCalculator
+            items={monData.items}
+            budget={monData.budget}
+            language={lang}
+            onAnswer={(isCorrect, answer) => {
+              onChange(sq.id, isCorrect ? String(sq.answer) : String(answer));
             }}
           />
         );

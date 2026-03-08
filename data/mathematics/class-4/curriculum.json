@@ -164,6 +164,50 @@
             "4-zahl-044",
             "4-zahl-045"
           ]
+        },
+        {
+          "id": "stellenwert-visuelle",
+          "name": "Stellenwerttafel - Interaktiv",
+          "color": "#6366f1",
+          "icon": "🔢",
+          "description": "Zahlen in Stellenwerttafel einordnen (HT, ZT, T, H, Z, E)",
+          "taskFile": null,
+          "isVisual": true,
+          "visualGeneratorKey": "place_value",
+          "taskIds": []
+        },
+        {
+          "id": "brueche-visuelle",
+          "name": "Brüche - Pizza-Darstellung",
+          "color": "#f59e0b",
+          "icon": "🍕",
+          "description": "Brüche als Pizzastücke erkennen und bestimmen",
+          "taskFile": null,
+          "isVisual": true,
+          "visualGeneratorKey": "fraction_pizza",
+          "taskIds": []
+        },
+        {
+          "id": "zahlenfolgen-visuelle",
+          "name": "Zahlenfolgen - Muster erkennen",
+          "color": "#8b5cf6",
+          "icon": "🔗",
+          "description": "Zahlenfolgen fortsetzen und Muster erkennen",
+          "taskFile": null,
+          "isVisual": true,
+          "visualGeneratorKey": "sequence",
+          "taskIds": []
+        },
+        {
+          "id": "runden-visuelle",
+          "name": "Runden am Zahlenstrahl",
+          "color": "#14b8a6",
+          "icon": "🎯",
+          "description": "Zahlen auf dem Zahlenstrahl runden",
+          "taskFile": null,
+          "isVisual": true,
+          "visualGeneratorKey": "number_line",
+          "taskIds": []
         }
       ]
     },
@@ -290,6 +334,50 @@
             "4-geom-039",
             "4-geom-040"
           ]
+        },
+        {
+          "id": "flaeche-umfang-visuelle",
+          "name": "Fläche & Umfang - Gitter zählen",
+          "color": "#f59e0b",
+          "icon": "📐",
+          "description": "Fläche durch Kästchenzählen und Umfang berechnen",
+          "taskFile": null,
+          "isVisual": true,
+          "visualGeneratorKey": "grid_area",
+          "taskIds": []
+        },
+        {
+          "id": "symmetrie-visuelle",
+          "name": "Symmetrie - Spiegeln",
+          "color": "#ec4899",
+          "icon": "🪞",
+          "description": "Symmetrische Muster spiegeln und ergänzen",
+          "taskFile": null,
+          "isVisual": true,
+          "visualGeneratorKey": "symmetry",
+          "taskIds": []
+        },
+        {
+          "id": "winkel-visuelle",
+          "name": "Winkel zeichnen & messen",
+          "color": "#ef4444",
+          "icon": "📐",
+          "description": "Winkel mit dem Geodreieck zeichnen und erkennen",
+          "taskFile": null,
+          "isVisual": true,
+          "visualGeneratorKey": "angle",
+          "taskIds": []
+        },
+        {
+          "id": "kreis-visuelle",
+          "name": "Kreis zeichnen mit Zirkel",
+          "color": "#f97316",
+          "icon": "⭕",
+          "description": "Kreise mit bestimmtem Radius zeichnen",
+          "taskFile": null,
+          "isVisual": true,
+          "visualGeneratorKey": "circle_draw",
+          "taskIds": []
         }
       ]
     },
@@ -487,6 +575,28 @@
           "taskFile": null,
           "isVisual": true,
           "visualGeneratorKey": "uhrzeit",
+          "taskIds": []
+        },
+        {
+          "id": "zeitdauer-visuelle",
+          "name": "Zeitdauer berechnen - Zeitstrahl",
+          "color": "#0d9488",
+          "icon": "⏱️",
+          "description": "Zeitdauer auf dem Zeitstrahl berechnen",
+          "taskFile": null,
+          "isVisual": true,
+          "visualGeneratorKey": "timeline",
+          "taskIds": []
+        },
+        {
+          "id": "geld-visuelle",
+          "name": "Geldrechnen - Einkaufen",
+          "color": "#22c55e",
+          "icon": "💰",
+          "description": "Preise zusammenrechnen und Wechselgeld berechnen",
+          "taskFile": null,
+          "isVisual": true,
+          "visualGeneratorKey": "money",
           "taskIds": []
         }
       ]

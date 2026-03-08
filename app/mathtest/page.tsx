@@ -863,6 +863,12 @@ export default function MathTestPage() {
       // Visual topics (Grade 4)
       'zeichnen-visuelle': 'zeichnen', 'messen-visuelle': 'messen', 'uhrzeit-digital': 'uhrzeit',
       'zeichnen': 'zeichnen', 'messen': 'messen', 'uhrzeit': 'uhrzeit',
+      // Phase 2-4 visual topics (Grade 4)
+      'stellenwert-visuelle': 'place_value', 'brueche-visuelle': 'fraction_pizza',
+      'zahlenfolgen-visuelle': 'sequence', 'runden-visuelle': 'number_line',
+      'flaeche-umfang-visuelle': 'grid_area', 'symmetrie-visuelle': 'symmetry',
+      'winkel-visuelle': 'angle', 'kreis-visuelle': 'circle_draw',
+      'zeitdauer-visuelle': 'timeline', 'geld-visuelle': 'money',
       // Grade 5
       'grosse-zahlen': 'large', 'rechenregeln': 'ops', 'punkt-vor-strich': 'ops',
       'bruchrechnung': 'frac', 'prozentrechnung': 'pct', 'prozent': 'pct',
