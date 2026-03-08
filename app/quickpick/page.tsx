@@ -42,6 +42,26 @@ import geographyDataHu from "@/data/quickpick/geography-hu.json";
 import socialDataHu from "@/data/quickpick/social-hu.json";
 import moviesDataHu from "@/data/quickpick/movies-hu.json";
 
+// German versions
+import generalDataDe from "@/data/quickpick/general-de.json";
+import musicDataDe from "@/data/quickpick/music-de.json";
+import footballDataDe from "@/data/quickpick/football-de.json";
+import animeDataDe from "@/data/quickpick/anime-de.json";
+import gamingDataDe from "@/data/quickpick/gaming-de.json";
+import geographyDataDe from "@/data/quickpick/geography-de.json";
+import socialDataDe from "@/data/quickpick/social-de.json";
+import moviesDataDe from "@/data/quickpick/movies-de.json";
+
+// Romanian versions
+import generalDataRo from "@/data/quickpick/general-ro.json";
+import musicDataRo from "@/data/quickpick/music-ro.json";
+import footballDataRo from "@/data/quickpick/football-ro.json";
+import animeDataRo from "@/data/quickpick/anime-ro.json";
+import gamingDataRo from "@/data/quickpick/gaming-ro.json";
+import geographyDataRo from "@/data/quickpick/geography-ro.json";
+import socialDataRo from "@/data/quickpick/social-ro.json";
+import moviesDataRo from "@/data/quickpick/movies-ro.json";
+
 // Function to get theme data by language
 const getThemeDataByLanguage = (lang: Language): Record<string, Question[]> => {
   const langMap: Record<Language, Record<string, Question[]>> = {
@@ -66,24 +86,24 @@ const getThemeDataByLanguage = (lang: Language): Record<string, Question[]> => {
       movies: moviesDataHu as Question[],
     },
     de: {
-      general: generalDataEn as Question[],
-      music: musicDataEn as Question[],
-      football: footballDataEn as Question[],
-      anime: animeDataEn as Question[],
-      gaming: gamingDataEn as Question[],
-      geography: geographyDataEn as Question[],
-      social: socialDataEn as Question[],
-      movies: moviesDataEn as Question[],
+      general: generalDataDe as Question[],
+      music: musicDataDe as Question[],
+      football: footballDataDe as Question[],
+      anime: animeDataDe as Question[],
+      gaming: gamingDataDe as Question[],
+      geography: geographyDataDe as Question[],
+      social: socialDataDe as Question[],
+      movies: moviesDataDe as Question[],
     },
     ro: {
-      general: generalDataEn as Question[],
-      music: musicDataEn as Question[],
-      football: footballDataEn as Question[],
-      anime: animeDataEn as Question[],
-      gaming: gamingDataEn as Question[],
-      geography: geographyDataEn as Question[],
-      social: socialDataEn as Question[],
-      movies: moviesDataEn as Question[],
+      general: generalDataRo as Question[],
+      music: musicDataRo as Question[],
+      football: footballDataRo as Question[],
+      anime: animeDataRo as Question[],
+      gaming: gamingDataRo as Question[],
+      geography: geographyDataRo as Question[],
+      social: socialDataRo as Question[],
+      movies: moviesDataRo as Question[],
     },
   };
 

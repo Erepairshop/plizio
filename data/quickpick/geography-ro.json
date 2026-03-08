@@ -1,0 +1,612 @@
+[
+  {
+    "itemA": "Oroszország (terület)",
+    "valueA": 17098242,
+    "emojiA": "🇷🇺",
+    "itemB": "Kanada (terület)",
+    "valueB": 9984670,
+    "emojiB": "🇨🇦",
+    "unit": "km²",
+    "unitIcon": "🗺️"
+  },
+  {
+    "itemA": "India (lakosság)",
+    "valueA": 1440000000,
+    "emojiA": "🇮🇳",
+    "itemB": "Kína (lakosság)",
+    "valueB": 1425000000,
+    "emojiB": "🇨🇳",
+    "unit": "oameni",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "USA (GDP)",
+    "valueA": 27000,
+    "emojiA": "🇺🇸",
+    "itemB": "Kína (GDP)",
+    "valueB": 18500,
+    "emojiB": "🇨🇳",
+    "unit": "miliarde $",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Brazília (terület)",
+    "valueA": 8515767,
+    "emojiA": "🇧🇷",
+    "itemB": "Ausztrália (terület)",
+    "valueB": 7692024,
+    "emojiB": "🇦🇺",
+    "unit": "km²",
+    "unitIcon": "🗺️"
+  },
+  {
+    "itemA": "Japán (lakosság)",
+    "valueA": 124000000,
+    "emojiA": "🇯🇵",
+    "itemB": "Németország (lakosság)",
+    "valueB": 84000000,
+    "emojiB": "🇩🇪",
+    "unit": "oameni",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Nílus (hossz)",
+    "valueA": 6650,
+    "emojiA": "🏜️",
+    "itemB": "Amazonas (hossz)",
+    "valueB": 6400,
+    "emojiB": "🌿",
+    "unit": "km",
+    "unitIcon": "🌊"
+  },
+  {
+    "itemA": "Mount Everest",
+    "valueA": 8849,
+    "emojiA": "🏔️",
+    "itemB": "K2",
+    "valueB": 8611,
+    "emojiB": "⛰️",
+    "unit": "metri",
+    "unitIcon": "📏"
+  },
+  {
+    "itemA": "Szahara (terület)",
+    "valueA": 9200000,
+    "emojiA": "🏜️",
+    "itemB": "Antarktika (terület)",
+    "valueB": 14000000,
+    "emojiB": "🧊",
+    "unit": "km²",
+    "unitIcon": "🗺️"
+  },
+  {
+    "itemA": "Kaszpi-tenger",
+    "valueA": 371000,
+    "emojiA": "🌊",
+    "itemB": "Felső-tó (Superior)",
+    "valueB": 82100,
+    "emojiB": "💧",
+    "unit": "km²",
+    "unitIcon": "🗺️"
+  },
+  {
+    "itemA": "Tokió (lakosság)",
+    "valueA": 37400000,
+    "emojiA": "🇯🇵",
+    "itemB": "New York (lakosság)",
+    "valueB": 18800000,
+    "emojiB": "🇺🇸",
+    "unit": "fő (metro)",
+    "unitIcon": "🏙️"
+  },
+  {
+    "itemA": "Indonézia (szigetek)",
+    "valueA": 17508,
+    "emojiA": "🇮🇩",
+    "itemB": "Fülöp-szigetek",
+    "valueB": 7641,
+    "emojiB": "🇵🇭",
+    "unit": "insulă",
+    "unitIcon": "🏝️"
+  },
+  {
+    "itemA": "Bajkál-tó (mélység)",
+    "valueA": 1642,
+    "emojiA": "🇷🇺",
+    "itemB": "Tanganyika-tó (mélység)",
+    "valueB": 1470,
+    "emojiB": "🌍",
+    "unit": "metri",
+    "unitIcon": "📏"
+  },
+  {
+    "itemA": "Mexikóváros (magasság)",
+    "valueA": 2240,
+    "emojiA": "🇲🇽",
+    "itemB": "Bogotá (magasság)",
+    "valueB": 2640,
+    "emojiB": "🇨🇴",
+    "unit": "metri",
+    "unitIcon": "📏"
+  },
+  {
+    "itemA": "Mongólia (népsűrűség)",
+    "valueA": 2,
+    "emojiA": "🇲🇳",
+    "itemB": "Kanada (népsűrűség)",
+    "valueB": 4,
+    "emojiB": "🇨🇦",
+    "unit": "oameni/km²",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Norvégia (HDI)",
+    "valueA": 961,
+    "emojiA": "🇳🇴",
+    "itemB": "Svájc (HDI)",
+    "valueB": 962,
+    "emojiB": "🇨🇭",
+    "unit": "HDI × 1000",
+    "unitIcon": "📊"
+  },
+  {
+    "itemA": "Franciaország (turizmus)",
+    "valueA": 90000000,
+    "emojiA": "🇫🇷",
+    "itemB": "Spanyolország (turizmus)",
+    "valueB": 85000000,
+    "emojiB": "🇪🇸",
+    "unit": "turiști/an",
+    "unitIcon": "✈️"
+  },
+  {
+    "itemA": "Magyarország (terület)",
+    "valueA": 93030,
+    "emojiA": "🇭🇺",
+    "itemB": "Portugália (terület)",
+    "valueB": 92212,
+    "emojiB": "🇵🇹",
+    "unit": "km²",
+    "unitIcon": "🗺️"
+  },
+  {
+    "itemA": "Budapest (lakosság)",
+    "valueA": 1750000,
+    "emojiA": "🇭🇺",
+    "itemB": "Bécs (lakosság)",
+    "valueB": 1980000,
+    "emojiB": "🇦🇹",
+    "unit": "oameni",
+    "unitIcon": "🏙️"
+  },
+  {
+    "itemA": "Egyesült Királyság (GDP)",
+    "valueA": 3300,
+    "emojiA": "🇬🇧",
+    "itemB": "India (GDP)",
+    "valueB": 3700,
+    "emojiB": "🇮🇳",
+    "unit": "miliarde $",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Mexikó (lakosság)",
+    "valueA": 130000000,
+    "emojiA": "🇲🇽",
+    "itemB": "Etiópia (lakosság)",
+    "valueB": 126000000,
+    "emojiB": "🇪🇹",
+    "unit": "oameni",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Csendes-óceán (terület)",
+    "valueA": 165250000,
+    "emojiA": "🌊",
+    "itemB": "Atlanti-óceán (terület)",
+    "valueB": 106460000,
+    "emojiB": "🌊",
+    "unit": "km²",
+    "unitIcon": "🗺️"
+  },
+  {
+    "itemA": "Mariana-árok (mély)",
+    "valueA": 10994,
+    "emojiA": "🌊",
+    "itemB": "Tonga-árok (mély)",
+    "valueB": 10882,
+    "emojiB": "🌊",
+    "unit": "metri",
+    "unitIcon": "📏"
+  },
+  {
+    "itemA": "Grönland (terület)",
+    "valueA": 2166086,
+    "emojiA": "🧊",
+    "itemB": "Új-Guinea (terület)",
+    "valueB": 786000,
+    "emojiB": "🌴",
+    "unit": "km²",
+    "unitIcon": "🗺️"
+  },
+  {
+    "itemA": "Vatikán (terület)",
+    "valueA": 0.44,
+    "emojiA": "🇻🇦",
+    "itemB": "Monaco (terület)",
+    "valueB": 2.02,
+    "emojiB": "🇲🇨",
+    "unit": "km²",
+    "unitIcon": "🗺️"
+  },
+  {
+    "itemA": "Duna (hossz)",
+    "valueA": 2850,
+    "emojiA": "🌊",
+    "itemB": "Rajna (hossz)",
+    "valueB": 1230,
+    "emojiB": "🌊",
+    "unit": "km",
+    "unitIcon": "📏"
+  },
+  {
+    "itemA": "Izland (gejzírek)",
+    "valueA": 600,
+    "emojiA": "🇮🇸",
+    "itemB": "Yellowstone (gejzírek)",
+    "valueB": 500,
+    "emojiB": "🇺🇸",
+    "unit": "geyzer activ",
+    "unitIcon": "♨️"
+  },
+  {
+    "itemA": "Nigéria (lakosság)",
+    "valueA": 220000000,
+    "emojiA": "🇳🇬",
+    "itemB": "Brazília (lakosság)",
+    "valueB": 215000000,
+    "emojiB": "🇧🇷",
+    "unit": "oameni",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Szingapúr (népsűrűség)",
+    "valueA": 8358,
+    "emojiA": "🇸🇬",
+    "itemB": "Monaco (népsűrűség)",
+    "valueB": 26337,
+    "emojiB": "🇲🇨",
+    "unit": "oameni/km²",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Katar (GDP/fő)",
+    "valueA": 87660,
+    "emojiA": "🇶🇦",
+    "itemB": "Luxemburg (GDP/fő)",
+    "valueB": 126600,
+    "emojiB": "🇱🇺",
+    "unit": "USD",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Pakisztán (lakosság)",
+    "valueA": 240000000,
+    "emojiA": "🇵🇰",
+    "itemB": "Indonézia (lakosság)",
+    "valueB": 277000000,
+    "emojiB": "🇮🇩",
+    "unit": "oameni",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Angel-vízesés (magas)",
+    "valueA": 979,
+    "emojiA": "🌊",
+    "itemB": "Niagara-vízesés (magas)",
+    "valueB": 51,
+    "emojiB": "💧",
+    "unit": "metri",
+    "unitIcon": "📏"
+  },
+  {
+    "itemA": "Viktória-tó (terület)",
+    "valueA": 68870,
+    "emojiA": "🌍",
+    "itemB": "Balaton (terület)",
+    "valueB": 594,
+    "emojiB": "🇭🇺",
+    "unit": "km²",
+    "unitIcon": "🗺️"
+  },
+  {
+    "itemA": "Kína (terület)",
+    "valueA": 9596961,
+    "emojiA": "🇨🇳",
+    "itemB": "USA (terület)",
+    "valueB": 9833517,
+    "emojiB": "🇺🇸",
+    "unit": "km²",
+    "unitIcon": "🗺️"
+  },
+  {
+    "itemA": "Szudán (terület)",
+    "valueA": 1886068,
+    "emojiA": "🇸🇩",
+    "itemB": "Líbia (terület)",
+    "valueB": 1759540,
+    "emojiB": "🇱🇾",
+    "unit": "km²",
+    "unitIcon": "🗺️"
+  },
+  {
+    "itemA": "Algéria (terület)",
+    "valueA": 2381741,
+    "emojiA": "🇩🇿",
+    "itemB": "Kongó (terület)",
+    "valueB": 2344858,
+    "emojiB": "🇨🇩",
+    "unit": "km²",
+    "unitIcon": "🗺️"
+  },
+  {
+    "itemA": "Argentína (terület)",
+    "valueA": 2780400,
+    "emojiA": "🇦🇷",
+    "itemB": "Kazahsztán (terület)",
+    "valueB": 2724900,
+    "emojiB": "🇰🇿",
+    "unit": "km²",
+    "unitIcon": "🗺️"
+  },
+  {
+    "itemA": "London (lakosság)",
+    "valueA": 9500000,
+    "emojiA": "🇬🇧",
+    "itemB": "Párizs (lakosság)",
+    "valueB": 2100000,
+    "emojiB": "🇫🇷",
+    "unit": "oameni",
+    "unitIcon": "🏙️"
+  },
+  {
+    "itemA": "Shanghai (lakosság)",
+    "valueA": 29000000,
+    "emojiA": "🇨🇳",
+    "itemB": "Mumbai (lakosság)",
+    "valueB": 21000000,
+    "emojiB": "🇮🇳",
+    "unit": "fő (metro)",
+    "unitIcon": "🏙️"
+  },
+  {
+    "itemA": "Moszkva (lakosság)",
+    "valueA": 12600000,
+    "emojiA": "🇷🇺",
+    "itemB": "Isztambul (lakosság)",
+    "valueB": 16000000,
+    "emojiB": "🇹🇷",
+    "unit": "oameni",
+    "unitIcon": "🏙️"
+  },
+  {
+    "itemA": "São Paulo (lakosság)",
+    "valueA": 22400000,
+    "emojiA": "🇧🇷",
+    "itemB": "Kairó (lakosság)",
+    "valueB": 22000000,
+    "emojiB": "🇪🇬",
+    "unit": "fő (metro)",
+    "unitIcon": "🏙️"
+  },
+  {
+    "itemA": "Finnország (tavak)",
+    "valueA": 188000,
+    "emojiA": "🇫🇮",
+    "itemB": "Svédország (tavak)",
+    "valueB": 100000,
+    "emojiB": "🇸🇪",
+    "unit": "numărul de lacuri",
+    "unitIcon": "💧"
+  },
+  {
+    "itemA": "Japán (szigetek)",
+    "valueA": 6852,
+    "emojiA": "🇯🇵",
+    "itemB": "Görögország (szigetek)",
+    "valueB": 6000,
+    "emojiB": "🇬🇷",
+    "unit": "insulă",
+    "unitIcon": "🏝️"
+  },
+  {
+    "itemA": "Etna (magasság)",
+    "valueA": 3357,
+    "emojiA": "🌋",
+    "itemB": "Fudzsijama (magasság)",
+    "valueB": 3776,
+    "emojiB": "🗻",
+    "unit": "metri",
+    "unitIcon": "📏"
+  },
+  {
+    "itemA": "Szuezi-csatorna (hossz)",
+    "valueA": 193,
+    "emojiA": "🚢",
+    "itemB": "Panama-csatorna (hossz)",
+    "valueB": 82,
+    "emojiB": "🚢",
+    "unit": "km",
+    "unitIcon": "📏"
+  },
+  {
+    "itemA": "Ausztrália (lakosság)",
+    "valueA": 26000000,
+    "emojiA": "🇦🇺",
+    "itemB": "Románia (lakosság)",
+    "valueB": 19000000,
+    "emojiB": "🇷🇴",
+    "unit": "oameni",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Lengyelország (terület)",
+    "valueA": 312696,
+    "emojiA": "🇵🇱",
+    "itemB": "Olaszország (terület)",
+    "valueB": 301340,
+    "emojiB": "🇮🇹",
+    "unit": "km²",
+    "unitIcon": "🗺️"
+  },
+  {
+    "itemA": "Szlovákia (lakosság)",
+    "valueA": 5450000,
+    "emojiA": "🇸🇰",
+    "itemB": "Horvátország (lakosság)",
+    "valueB": 3860000,
+    "emojiB": "🇭🇷",
+    "unit": "oameni",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Ausztria (terület)",
+    "valueA": 83879,
+    "emojiA": "🇦🇹",
+    "itemB": "Csehország (terület)",
+    "valueB": 78871,
+    "emojiB": "🇨🇿",
+    "unit": "km²",
+    "unitIcon": "🗺️"
+  },
+  {
+    "itemA": "Svájc (lakosság)",
+    "valueA": 8800000,
+    "emojiA": "🇨🇭",
+    "itemB": "Szerbia (lakosság)",
+    "valueB": 6650000,
+    "emojiB": "🇷🇸",
+    "unit": "oameni",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Izland (terület)",
+    "valueA": 103000,
+    "emojiA": "🇮🇸",
+    "itemB": "Magyarország (terület)",
+    "valueB": 93030,
+    "emojiB": "🇭🇺",
+    "unit": "km²",
+    "unitIcon": "🗺️"
+  },
+  {
+    "itemA": "Dél-Korea (GDP)",
+    "valueA": 1700,
+    "emojiA": "🇰🇷",
+    "itemB": "Ausztrália (GDP)",
+    "valueB": 1700,
+    "emojiB": "🇦🇺",
+    "unit": "miliarde $",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Németország (GDP)",
+    "valueA": 4400,
+    "emojiA": "🇩🇪",
+    "itemB": "Japán (GDP)",
+    "valueB": 4200,
+    "emojiB": "🇯🇵",
+    "unit": "miliarde $",
+    "unitIcon": "💰"
+  },
+  {
+    "itemA": "Antarktisz (jég vastagsága)",
+    "valueA": 2160,
+    "emojiA": "🧊",
+    "itemB": "Grönland jég",
+    "valueB": 1500,
+    "emojiB": "🇬🇱",
+    "unit": "méter (átlag)",
+    "unitIcon": "📏"
+  },
+  {
+    "itemA": "Volga (hossz)",
+    "valueA": 3530,
+    "emojiA": "🇷🇺",
+    "itemB": "Duna (hossz)",
+    "valueB": 2850,
+    "emojiB": "🌊",
+    "unit": "km",
+    "unitIcon": "📏"
+  },
+  {
+    "itemA": "Mont Blanc (magas)",
+    "valueA": 4808,
+    "emojiA": "🇫🇷",
+    "itemB": "Matterhorn (magas)",
+    "valueB": 4478,
+    "emojiB": "🇨🇭",
+    "unit": "metri",
+    "unitIcon": "📏"
+  },
+  {
+    "itemA": "Titicaca-tó (magas)",
+    "valueA": 3812,
+    "emojiA": "🇧🇴",
+    "itemB": "Holt-tenger (alacsony)",
+    "valueB": -430,
+    "emojiB": "🇮🇱",
+    "unit": "méter tszf",
+    "unitIcon": "📏"
+  },
+  {
+    "itemA": "Bermuda háromszög",
+    "valueA": 1300000,
+    "emojiA": "🔺",
+    "itemB": "Magyarország (terület)",
+    "valueB": 93030,
+    "emojiB": "🇭🇺",
+    "unit": "km²",
+    "unitIcon": "🗺️"
+  },
+  {
+    "itemA": "Bangladesh (népsűrűség)",
+    "valueA": 1265,
+    "emojiA": "🇧🇩",
+    "itemB": "India (népsűrűség)",
+    "valueB": 464,
+    "emojiB": "🇮🇳",
+    "unit": "oameni/km²",
+    "unitIcon": "👥"
+  },
+  {
+    "itemA": "Olaszország (turizmus)",
+    "valueA": 57000000,
+    "emojiA": "🇮🇹",
+    "itemB": "Görögország (turizmus)",
+    "valueB": 33000000,
+    "emojiB": "🇬🇷",
+    "unit": "turiști/an",
+    "unitIcon": "✈️"
+  },
+  {
+    "itemA": "Törökország (turizmus)",
+    "valueA": 56000000,
+    "emojiA": "🇹🇷",
+    "itemB": "Egyiptom (turizmus)",
+    "valueB": 15000000,
+    "emojiB": "🇪🇬",
+    "unit": "turiști/an",
+    "unitIcon": "✈️"
+  },
+  {
+    "itemA": "Szahara hőmérséklet (max)",
+    "valueA": 58,
+    "emojiA": "🏜️",
+    "itemB": "Antarktika (min)",
+    "valueB": -89,
+    "emojiB": "🧊",
+    "unit": "°C",
+    "unitIcon": "🌡️"
+  }
+]

@@ -1,9 +1,19 @@
 // ─── ENGLISH TEST — ELA CURRICULUM (US Common Core, Grade 1–8) ────────────────
 // Structure mirrors deutschCurriculum.ts.
 // ONE example question per subtopic — expand manually.
-// TODO: Add generator functions (like deutschGenerators) for dynamic questions.
+// Procedural questions generated via englishGenerators.ts
 
 import type { CurriculumTheme, CurriculumQuestion, GradeMark } from "./curriculumTypes";
+import {
+  G1_Generators,
+  G2_Generators,
+  G3_Generators,
+  G4_Generators,
+  G5_Generators,
+  G6_Generators,
+  G7_Generators,
+  G8_Generators,
+} from "./englishGenerators";
 
 // ─── TYPE ALIASES (compatible with deutschCurriculum.ts structure) ────────────
 
@@ -1332,6 +1342,18 @@ export const ENGLISH_CURRICULUM: Record<number, EnglishTheme[]> = {
   5: G5, 6: G6, 7: G7, 8: G8,
 };
 
+/** Generator mapping by grade */
+const GENERATOR_MAP: Record<number, Record<string, Record<string, (seed?: number) => CurriculumQuestion[]>>> = {
+  1: G1_Generators,
+  2: G2_Generators,
+  3: G3_Generators,
+  4: G4_Generators,
+  5: G5_Generators,
+  6: G6_Generators,
+  7: G7_Generators,
+  8: G8_Generators,
+};
+
 /** Returns shuffled questions from selected subtopics (max count). */
 export function getEnglishQuestions(
   grade: number,
@@ -1340,11 +1362,32 @@ export function getEnglishQuestions(
 ): EnglishQuestion[] {
   const themes = ENGLISH_CURRICULUM[grade] ?? [];
   const pool: EnglishQuestion[] = [];
+  const generators = GENERATOR_MAP[grade];
+
+  if (!generators) {
+    return [];
+  }
 
   for (const theme of themes) {
     for (const sub of theme.subtopics) {
       if (selectedSubtopicIds.includes(sub.id)) {
-        pool.push(...sub.questions);
+        // Try to get the generator function for this topic/subtopic
+        const topicGenerators = generators[theme.id];
+        if (topicGenerators) {
+          const generatorFn = topicGenerators[sub.id];
+          if (generatorFn && typeof generatorFn === "function") {
+            // Call the generator with a random seed for variation
+            const seed = Math.floor(Math.random() * 1000000);
+            const generated = generatorFn(seed);
+            pool.push(...generated);
+          } else {
+            // Fallback to hardcoded questions if generator doesn't exist
+            pool.push(...sub.questions);
+          }
+        } else {
+          // Fallback to hardcoded questions if topic generators don't exist
+          pool.push(...sub.questions);
+        }
       }
     }
   }

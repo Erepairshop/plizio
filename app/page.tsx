@@ -77,6 +77,7 @@ const TRANSLATIONS = {
       citydrive: "City Drive",
       mathtest: "Math Test",
       deutschtest: "Deutsch Test",
+      englishtest: "English Test",
       racetrack: "Racetrack",
       sequencerush: "Sequence Rush",
       wordhunt: "Word Hunt",
@@ -90,6 +91,7 @@ const TRANSLATIONS = {
       pingpong: "Table Tennis",
       airhockey: "Air Hockey",
       tennis: "Tennis",
+      squash: "Squash Arcade",
     },
     ui: {
       comingSoon: "COMING SOON",
@@ -116,6 +118,7 @@ const TRANSLATIONS = {
       citydrive: "Város Vezetés",
       mathtest: "Matematika Teszt",
       deutschtest: "Német Teszt",
+      englishtest: "Angol Teszt",
       racetrack: "Pályaverseny",
       sequencerush: "Szekvencia Roham",
       wordhunt: "Szóvadász",
@@ -129,6 +132,7 @@ const TRANSLATIONS = {
       pingpong: "Asztalitenisz",
       airhockey: "Léghoki",
       tennis: "Tenisz",
+      squash: "Squash Arcade",
     },
     ui: {
       comingSoon: "HAMAROSAN",
@@ -155,6 +159,7 @@ const TRANSLATIONS = {
       citydrive: "Stadtfahrt",
       mathtest: "Mathematiktest",
       deutschtest: "Deutsch Test",
+      englishtest: "English Test",
       racetrack: "Rennstrecke",
       sequencerush: "Sequenz Rush",
       wordhunt: "Wortjagd",
@@ -168,6 +173,7 @@ const TRANSLATIONS = {
       pingpong: "Tischtennis",
       airhockey: "Air Hockey",
       tennis: "Tennis",
+      squash: "Squash Arcade",
     },
     ui: {
       comingSoon: "BALD VERFÜGBAR",
@@ -194,6 +200,7 @@ const TRANSLATIONS = {
       citydrive: "Conducere în Oraș",
       mathtest: "Test de Matematică",
       deutschtest: "Test de Germană",
+      englishtest: "Test de Engleză",
       racetrack: "Circuit de curse",
       sequencerush: "Sequence Rush",
       wordhunt: "Vânătoare de Cuvinte",
@@ -207,6 +214,7 @@ const TRANSLATIONS = {
       pingpong: "Tenis de masă",
       airhockey: "Air Hockey",
       tennis: "Tenis",
+      squash: "Squash Arcade",
     },
     ui: {
       comingSoon: "CÂT CURÂND",
@@ -347,6 +355,14 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         gradient: "bg-gradient-to-br from-cyan-500/20 to-blue-500/20",
         langOnly: "de",
       },
+      {
+        id: "englishtest",
+        icon: PenLine,
+        nameKey: "englishtest",
+        color: "#3B82F6",
+        gradient: "bg-gradient-to-br from-blue-500/20 to-indigo-500/20",
+        langOnly: "en",
+      },
     ],
   },
   {
@@ -424,6 +440,13 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         color: "#FFD700",
         gradient: "bg-gradient-to-br from-yellow-500/20 to-amber-500/20",
       },
+      {
+        id: "squash",
+        icon: Swords,
+        nameKey: "squash",
+        color: "#FF2D78",
+        gradient: "bg-gradient-to-br from-pink-500/20 to-purple-500/20",
+      },
     ],
   },
 ];
@@ -499,7 +522,7 @@ const GAME_TO_CATEGORY: Record<string, string> = {
   sequencerush: "quizreflex", wordhunt: "quizreflex", milliomos: "quizreflex",
   kodex: "quizreflex",
   skyclimb: "adventure", citydrive: "adventure", racetrack: "adventure", pliziolife: "adventure",
-  mathtest: "brain", deutschtest: "brain",
+  mathtest: "brain", deutschtest: "brain", englishtest: "brain",
   numberpath: "logic", minisudoku: "logic", lightout: "logic", numbermerge: "logic", nonogram: "logic", mazerush: "logic",
   pingpong: "sport", airhockey: "sport", tennis: "sport",
 };
