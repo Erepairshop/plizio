@@ -1,6 +1,7 @@
 "use client";
 
-import { useState, useEffect, useCallback, useRef } from "react";
+import { useState, useEffect, useCallback, useRef, Suspense } from "react";
+import { useSearchParams, useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { Zap, Home, RotateCcw, Lock, Check, ChevronRight } from "lucide-react";
 import Link from "next/link";
@@ -16,6 +17,11 @@ import { getActiveFace, getFaceDef } from "@/lib/faces";
 import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
 import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
 import { useLang } from "@/components/LanguageProvider";
+import MultiplayerExitConfirm from "@/components/MultiplayerExitConfirm";
+import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
+import { submitScore, abandonMatch, submitMixRoundScore, pollMixRound } from "@/lib/multiplayer";
+import { getUsername } from "@/lib/username";
+import MultiplayerResult from "@/components/MultiplayerResult";
 
 // ─── i18n ────────────────────────────────────────────────────────────────────
 
@@ -156,7 +162,7 @@ const TRANSLATIONS = {
 
 // ─── Types ──────────────────────────────────────────────────────────────────
 
-type Screen = "expedition" | "playing" | "reward" | "levelComplete" | "levelFailed";
+type Screen = "expedition" | "playing" | "reward" | "levelComplete" | "levelFailed" | "multi-waiting" | "multi-result";
 type CellType = "idle" | "green" | "gold" | "red" | "lightning" | "bomb" | "trapgreen";
 type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory" | "surprised" | "confused" | "laughing";
 
@@ -258,9 +264,25 @@ function calcRarity(timeLeft: number, duration: number, level: number): CardRari
 
 // ─── Main Component ───────────────────────────────────────────────────────────
 
-export default function ReflexRushPage() {
+export default function ReflexRushPageWrapper() {
+  return <Suspense><ReflexRushPage /></Suspense>;
+}
+
+function ReflexRushPage() {
   const { lang } = useLang();
   const t = TRANSLATIONS[lang as keyof typeof TRANSLATIONS] ?? TRANSLATIONS.en;
+  const searchParams = useSearchParams();
+  const router = useRouter();
+
+  // ── Multiplayer params ───────────────────────────────────────────────────────
+  const matchId = searchParams.get("match");
+  const seed = searchParams.get("seed");
+  const playerNum = searchParams.get("p");
+  const opponentName = searchParams.get("vs") || "???";
+  const urlLevel = searchParams.get("level");
+  const mixround = searchParams.get("mixround");
+  const isMultiplayer = !!matchId;
+  const isMix = !!mixround;
 
   // ── Avatar ──────────────────────────────────────────────────────────────────
   const [avatarGender,  setAvatarGender]  = useState<AvatarGender>("girl");
@@ -306,6 +328,17 @@ export default function ReflexRushPage() {
 
   useEffect(() => { setSave(loadSave()); }, []);
 
+  // Auto-start multiplayer at specified level
+  const multiStarted = useRef(false);
+  useEffect(() => {
+    if (isMultiplayer && urlLevel && !multiStarted.current) {
+      multiStarted.current = true;
+      const lv = Math.min(9, Math.max(1, parseInt(urlLevel) || 1));
+      // Small delay to ensure component is mounted
+      setTimeout(() => startLevel(lv), 100);
+    }
+  }, [isMultiplayer, urlLevel]); // eslint-disable-line react-hooks/exhaustive-deps
+
   // ── Game state ───────────────────────────────────────────────────────────────
   const [grid, setGrid]               = useState<CellType[]>(Array(9).fill("idle"));
   const [score, setScore]             = useState(0);
@@ -316,6 +349,13 @@ export default function ReflexRushPage() {
   const [earnedCard, setEarnedCard]   = useState<CardRarity | null>(null);
   const [trapFlash,  setTrapFlash]    = useState<Set<number>>(new Set());
   const level10FailsRef = useRef(0);
+
+  // ── Multiplayer state ──────────────────────────────────────────────────────
+  const [showExitConfirm, setShowExitConfirm] = useState(false);
+  const [oppFinalScore, setOppFinalScore] = useState<number | null>(null);
+  const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
+  const [mixFinished, setMixFinished] = useState(false);
+  const [scoreSubmitted, setScoreSubmitted] = useState(false);
 
   const gridRef       = useRef<CellType[]>([]);
   const scoreRef      = useRef(0);
@@ -342,6 +382,29 @@ export default function ReflexRushPage() {
   const levelSuccess = useCallback((finalScore: number, finalTimeLeft: number) => {
     stopGame();
     const cfg = cfgRef.current;
+
+    if (isMultiplayer && matchId && !scoreSubmitted) {
+      // Multiplayer: submit score, skip expedition save
+      setScoreSubmitted(true);
+      const rarity: CardRarity = calcRarity(finalTimeLeft, cfg.duration, cfg.level);
+      saveCard({ id: generateCardId(), game: "reflexrush", theme: `level${cfg.level}`, rarity, score: finalScore, total: cfg.target, date: new Date().toISOString() });
+      window.dispatchEvent(new Event("plizio-cards-changed"));
+      incrementTotalGames();
+      setEarnedCard(rarity);
+      triggerAvatar("happy", 99999, "victory");
+
+      if (isMix) {
+        submitMixRoundScore(matchId, finalScore, playerNum === "1").then(() => {
+          setScreen("multi-waiting");
+        });
+      } else {
+        submitScore(matchId, finalScore, playerNum === "1").then(() => {
+          setScreen("multi-waiting");
+        });
+      }
+      return;
+    }
+
     const rarity: CardRarity = cfg.level === 10 ? "legendary" : calcRarity(finalTimeLeft, cfg.duration, cfg.level);
     saveCard({ id: generateCardId(), game: "reflexrush", theme: `level${cfg.level}`, rarity, score: finalScore, total: cfg.target, date: new Date().toISOString() });
     incrementTotalGames();
@@ -354,14 +417,29 @@ export default function ReflexRushPage() {
     });
     triggerAvatar(cfg.level === 10 ? "happy" : "happy", 99999, cfg.level === 10 ? "victory" : "happy");
     setScreen("reward");
-  }, [stopGame]);
+  }, [stopGame, isMultiplayer, matchId, isMix, playerNum, scoreSubmitted]);
 
   const levelFailed = useCallback(() => {
     stopGame();
+    if (isMultiplayer && matchId && !scoreSubmitted) {
+      // Multiplayer: submit accumulated score on fail
+      setScoreSubmitted(true);
+      triggerAvatar("confused", 2000, "confused");
+      if (isMix) {
+        submitMixRoundScore(matchId, scoreRef.current, playerNum === "1").then(() => {
+          setScreen("multi-waiting");
+        });
+      } else {
+        submitScore(matchId, scoreRef.current, playerNum === "1").then(() => {
+          setScreen("multi-waiting");
+        });
+      }
+      return;
+    }
     if (cfgRef.current.level === 10) level10FailsRef.current++;
     triggerAvatar("confused", 2000, "confused");
     setScreen("levelFailed");
-  }, [stopGame]);
+  }, [stopGame, isMultiplayer, matchId, isMix, playerNum, scoreSubmitted]);
 
   const scheduleSpawn = useCallback(() => {
     if (!gameActiveRef.current) return;
@@ -472,6 +550,48 @@ export default function ReflexRushPage() {
     return () => { if (timerRef.current) { clearInterval(timerRef.current); timerRef.current = null; } };
   }, [screen, scheduleSpawn, levelSuccess, levelFailed]);
 
+  // ── Multiplayer: poll for opponent ──────────────────────────────────────────
+  useEffect(() => {
+    if (screen !== "multi-waiting" || !isMultiplayer || !matchId) return;
+    const isP1 = playerNum === "1";
+
+    const checkMatch = async () => {
+      if (isMix) {
+        const result = await pollMixRound(matchId, parseInt(mixround || "1"), isP1, opponentName);
+        if (result.action === "finished") {
+          setMyFinalScore(result.myWins);
+          setOppFinalScore(result.oppWins);
+          setMixFinished(true);
+          setScreen("multi-result");
+          return true;
+        }
+        if (result.action === "next") {
+          router.push(result.url);
+          return true;
+        }
+        return false;
+      } else {
+        const { supabase } = await import("@/lib/supabase/client");
+        const { data } = await supabase.from("multiplayer_matches").select("*").eq("id", matchId).single();
+        if (!data) return false;
+        const oppDone = isP1 ? data.player2_done : data.player1_done;
+        const oppScoreVal = isP1 ? data.player2_score : data.player1_score;
+        if (oppDone && oppScoreVal !== null) {
+          setOppFinalScore(oppScoreVal);
+          setScreen("multi-result");
+          return true;
+        }
+        return false;
+      }
+    };
+    checkMatch();
+    const interval = setInterval(async () => {
+      const done = await checkMatch();
+      if (done) clearInterval(interval);
+    }, 2000);
+    return () => clearInterval(interval);
+  }, [screen, isMultiplayer, matchId, isMix, playerNum, router, opponentName, mixround]);
+
   const cfg = LEVELS[activeLevel - 1];
 
   const avatarProps = {
@@ -507,7 +627,7 @@ export default function ReflexRushPage() {
       </AnimatePresence>
 
       {/* ── EXPEDITION ─────────────────────────────────────────────────────────── */}
-      {screen === "expedition" && (
+      {screen === "expedition" && !isMultiplayer && (
         <div className="flex flex-col min-h-screen pb-24">
           <div className="flex items-center justify-between p-4 pt-6">
             <Link href="/" className="flex items-center gap-2 text-white/60 hover:text-white transition-colors">
@@ -631,7 +751,10 @@ export default function ReflexRushPage() {
         <div className="flex flex-col min-h-screen">
           <div className="flex items-center justify-between px-4 pt-4 pb-2">
             <button
-              onClick={() => { setAvatarMood("idle"); setScreen("expedition"); }}
+              onClick={() => {
+                if (isMultiplayer) { setShowExitConfirm(true); }
+                else { setAvatarMood("idle"); setScreen("expedition"); }
+              }}
               className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/50 hover:bg-white/20 hover:text-white transition-colors text-lg font-bold"
             >✕</button>
             <div className="flex flex-col items-start">
@@ -833,6 +956,63 @@ export default function ReflexRushPage() {
             </Link>
           </div>
         </div>
+      )}
+
+      {/* ── MULTI WAITING ──────────────────────────────────────────────────────── */}
+      {screen === "multi-waiting" && (
+        <motion.div
+          className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm gap-5 px-6"
+          initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+        >
+          <motion.div
+            className="text-3xl font-black text-[#FF6B00]"
+            style={{ textShadow: "0 0 20px rgba(255,107,0,0.4)" }}
+            initial={{ scale: 0.8 }} animate={{ scale: 1 }}
+          >
+            {score}/{cfg.target}
+          </motion.div>
+          {isMix && (
+            <span className="text-white/30 text-xs font-bold uppercase">
+              Round {mixround} ✓
+            </span>
+          )}
+          <motion.div
+            className="w-10 h-10 border-2 border-[#FF6B00] border-t-transparent rounded-full"
+            animate={{ rotate: 360 }}
+            transition={{ repeat: Infinity, duration: 1, ease: "linear" }}
+          />
+          <span className="text-white/60 text-sm font-medium text-center">
+            {lang === "hu" ? `Várakozás ${opponentName}-ra...` :
+             lang === "de" ? `Warte auf ${opponentName}...` :
+             lang === "ro" ? `Se așteaptă ${opponentName}...` :
+             `Waiting for ${opponentName}...`}
+          </span>
+        </motion.div>
+      )}
+
+      {/* ── MULTI RESULT ───────────────────────────────────────────────────────── */}
+      {screen === "multi-result" && oppFinalScore !== null && (
+        <MultiplayerResult
+          myScore={myFinalScore !== null ? myFinalScore : score}
+          oppScore={oppFinalScore}
+          myName={getUsername() || "???"}
+          oppName={opponentName}
+          onContinue={() => router.push("/multiplayer")}
+        />
+      )}
+
+      {/* Multiplayer overlays */}
+      {isMultiplayer && matchId && (
+        <>
+          <MultiplayerExitConfirm
+            open={showExitConfirm}
+            onStay={() => setShowExitConfirm(false)}
+            onLeave={() => { abandonMatch(matchId); router.push("/multiplayer"); }}
+          />
+          {screen === "playing" && (
+            <MultiplayerAbandonNotice matchId={matchId} opponentName={opponentName} />
+          )}
+        </>
       )}
     </div>
   );

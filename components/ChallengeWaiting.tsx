@@ -52,20 +52,28 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
     ? match.player2_name
     : match.player1_name) || "???";
   const isP1 = match.player1_name.toLowerCase() === myName.toLowerCase();
-  const gameLabel = GAME_LABELS[match.game as GameType] || match.game;
+  const isMix = match.match_type === "mix";
+  const gameLabel = isMix
+    ? `Mix (${match.mix_games?.length || 5} games)`
+    : GAME_LABELS[match.game as GameType] || match.game;
+  const diffLabel = match.difficulty
+    ? (isNaN(Number(match.difficulty)) ? String(match.difficulty) : `Lv.${match.difficulty}`)
+    : null;
 
-  // Poll for match status changes (opponent accepts)
+  // Poll for match status changes (opponent accepts or declines)
   useEffect(() => {
     if (phase !== "waiting") return;
 
     const checkStatus = async () => {
-      const { data } = await supabase
+      const { data, error } = await supabase
         .from("multiplayer_matches")
         .select("status")
         .eq("id", match.id)
         .single();
 
-      if (data?.status === "playing") {
+      if (error || !data) return;
+
+      if (data.status === "playing") {
         setPhase("accepted");
         setAvatarMood("happy");
         setTimeout(() => {
@@ -73,14 +81,16 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
           setAvatarMood("victory");
           setCountdown(3);
         }, 1000);
-      } else if (data?.status === "declined" || data?.status === "cancelled") {
+      } else if (data.status === "declined" || data.status === "cancelled" || data.status === "abandoned") {
         setPhase("declined");
         setAvatarMood("disappointed");
       }
     };
 
+    // Check immediately on mount
     checkStatus();
-    const interval = setInterval(checkStatus, 2000);
+    // Poll frequently to catch declines quickly
+    const interval = setInterval(checkStatus, 1500);
     return () => clearInterval(interval);
   }, [match.id, phase]);
 
@@ -88,12 +98,25 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
   useEffect(() => {
     if (phase !== "countdown") return;
     if (countdown <= 0) {
-      router.push(`/${match.game}?match=${match.id}&seed=${match.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponentName)}`);
+      if (isMix && match.mix_games) {
+        const currentGame = match.mix_games[0];
+        let url = `/${currentGame}?match=${match.id}&seed=${match.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponentName)}&mixround=1`;
+        // Parse mix levels from difficulty field (comma-separated)
+        if (match.difficulty && String(match.difficulty).includes(",")) {
+          const levels = String(match.difficulty).split(",");
+          if (levels[0] && Number(levels[0]) > 0) url += `&level=${levels[0]}`;
+        }
+        router.push(url);
+      } else {
+        let url = `/${match.game}?match=${match.id}&seed=${match.seed}&p=${isP1 ? "1" : "2"}&vs=${encodeURIComponent(opponentName)}`;
+        if (match.difficulty) url += `&level=${match.difficulty}`;
+        router.push(url);
+      }
       return;
     }
     const timer = setTimeout(() => setCountdown((c) => c - 1), 1000);
     return () => clearTimeout(timer);
-  }, [phase, countdown, match, isP1, router]);
+  }, [phase, countdown, match, isP1, isMix, router, opponentName]);
 
   return (
     <motion.div
@@ -139,7 +162,10 @@ export default function ChallengeWaiting({ match, myName, onCancel }: Props) {
           >
             <div className="flex items-center gap-2">
               <Swords size={18} className="text-neon-pink" style={{ filter: "drop-shadow(0 0 8px rgba(255,45,120,0.4))" }} />
-              <span className="text-white/60 text-xs font-bold uppercase tracking-wider">{gameLabel}</span>
+              <span className="text-white/60 text-xs font-bold uppercase tracking-wider">
+                {gameLabel}
+                {diffLabel && <span className="text-gold"> ({diffLabel})</span>}
+              </span>
             </div>
 
             <div className="flex items-center gap-3">

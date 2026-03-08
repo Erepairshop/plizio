@@ -1,6 +1,7 @@
 "use client";
 
-import { useState, useEffect, useRef, useCallback } from "react";
+import { useState, useEffect, useRef, useCallback, Suspense } from "react";
+import { useSearchParams, useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { Grid3X3, Home, RotateCcw, Lock, Check, ChevronRight, Lightbulb, Undo2 } from "lucide-react";
 import Link from "next/link";
@@ -16,6 +17,11 @@ import { getActiveFace, getFaceDef } from "@/lib/faces";
 import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
 import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
 import { useLang } from "@/components/LanguageProvider";
+import MultiplayerExitConfirm from "@/components/MultiplayerExitConfirm";
+import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
+import { submitScore, abandonMatch, submitMixRoundScore, pollMixRound } from "@/lib/multiplayer";
+import { getUsername } from "@/lib/username";
+import MultiplayerResult from "@/components/MultiplayerResult";
 
 // ─── i18n ─────────────────────────────────────────────────────────────────────
 const T = {
@@ -256,13 +262,30 @@ function loadSave(): MSSave {
 }
 function writeSave(s: MSSave) { localStorage.setItem(SAVE_KEY, JSON.stringify(s)); }
 
-type Screen = "expedition" | "playing" | "reward" | "levelComplete" | "levelFailed";
+type Screen = "expedition" | "playing" | "reward" | "levelComplete" | "levelFailed" | "multi-waiting" | "multi-result";
 type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory" | "surprised" | "confused" | "laughing";
 
 // ─── Main Component ────────────────────────────────────────────────────────────
-export default function MiniSudokuPage() {
+
+export default function MiniSudokuPageWrapper() {
+  return <Suspense><MiniSudokuPage /></Suspense>;
+}
+
+function MiniSudokuPage() {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
+  const searchParams = useSearchParams();
+  const router = useRouter();
+
+  // ── Multiplayer params ───────────────────────────────────────────────────────
+  const matchId = searchParams.get("match");
+  const seed = searchParams.get("seed");
+  const playerNum = searchParams.get("p");
+  const opponentName = searchParams.get("vs") || "???";
+  const urlLevel = searchParams.get("level");
+  const mixround = searchParams.get("mixround");
+  const isMultiplayer = !!matchId;
+  const isMix = !!mixround;
 
   // ── Avatar ─────────────────────────────────────────────────────────────────
   const [avatarGender,  setAvatarGender]  = useState<AvatarGender>("girl");
@@ -309,6 +332,16 @@ export default function MiniSudokuPage() {
 
   useEffect(() => { setSave(loadSave()); }, []);
 
+  // Auto-start multiplayer at specified level
+  const multiStarted = useRef(false);
+  useEffect(() => {
+    if (isMultiplayer && urlLevel && !multiStarted.current) {
+      multiStarted.current = true;
+      const lv = Math.min(9, Math.max(1, parseInt(urlLevel) || 1));
+      setTimeout(() => startLevel(lv), 100);
+    }
+  }, [isMultiplayer, urlLevel]); // eslint-disable-line react-hooks/exhaustive-deps
+
   // ── Game state ──────────────────────────────────────────────────────────────
   const [solution,    setSolution]   = useState<number[]>([]);
   const [puzzle,      setPuzzle]     = useState<number[]>([]); // 0 = empty
@@ -322,6 +355,55 @@ export default function MiniSudokuPage() {
   const [history,     setHistory]    = useState<number[][]>([]); // undo stack
   const [hintFlash,   setHintFlash]  = useState<number | null>(null);
   const [noteToast,   setNoteToast]  = useState<string | null>(null);
+
+  // ── Multiplayer state ──────────────────────────────────────────────────────
+  const [showExitConfirm, setShowExitConfirm] = useState(false);
+  const [oppFinalScore, setOppFinalScore] = useState<number | null>(null);
+  const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
+  const [mixFinished, setMixFinished] = useState(false);
+  const [scoreSubmitted, setScoreSubmitted] = useState(false);
+
+  // ── Multiplayer: poll for opponent ──────────────────────────────────────────
+  useEffect(() => {
+    if (screen !== "multi-waiting" || !isMultiplayer || !matchId) return;
+    const isP1 = playerNum === "1";
+
+    const checkMatch = async () => {
+      if (isMix) {
+        const result = await pollMixRound(matchId, parseInt(mixround || "1"), isP1, opponentName);
+        if (result.action === "finished") {
+          setMyFinalScore(result.myWins);
+          setOppFinalScore(result.oppWins);
+          setMixFinished(true);
+          setScreen("multi-result");
+          return true;
+        }
+        if (result.action === "next") {
+          router.push(result.url);
+          return true;
+        }
+        return false;
+      } else {
+        const { supabase } = await import("@/lib/supabase/client");
+        const { data } = await supabase.from("multiplayer_matches").select("*").eq("id", matchId).single();
+        if (!data) return false;
+        const oppDone = isP1 ? data.player2_done : data.player1_done;
+        const oppScoreVal = isP1 ? data.player2_score : data.player1_score;
+        if (oppDone && oppScoreVal !== null) {
+          setOppFinalScore(oppScoreVal);
+          setScreen("multi-result");
+          return true;
+        }
+        return false;
+      }
+    };
+    checkMatch();
+    const interval = setInterval(async () => {
+      const done = await checkMatch();
+      if (done) clearInterval(interval);
+    }, 2000);
+    return () => clearInterval(interval);
+  }, [screen, isMultiplayer, matchId, isMix, playerNum, router, opponentName, mixround]);
 
   const cfgRef         = useRef<SudokuLevel>(LEVELS[0]);
   const timerRef       = useRef<ReturnType<typeof setInterval> | null>(null);
@@ -342,8 +424,32 @@ export default function MiniSudokuPage() {
   function handleWin(finalMistakes: number) {
     stopTimer();
     const cfg = cfgRef.current;
+    const finalScore = cfg.size * cfg.size - finalMistakes;
+
+    if (isMultiplayer && matchId && !scoreSubmitted) {
+      // Multiplayer: submit score, skip expedition save
+      setScoreSubmitted(true);
+      const rarity = calcRarity(finalMistakes, timeLeftRef.current, cfg.timeLimit, cfg.level);
+      saveCard({ id: generateCardId(), game: "minisudoku", rarity, score: finalScore, total: cfg.size * cfg.size, date: new Date().toISOString() });
+      window.dispatchEvent(new Event("plizio-cards-changed"));
+      incrementTotalGames();
+      setEarnedCard(rarity);
+      triggerAvatar("happy", 99999, "victory");
+
+      if (isMix) {
+        submitMixRoundScore(matchId, finalScore, playerNum === "1").then(() => {
+          setScreen("multi-waiting");
+        });
+      } else {
+        submitScore(matchId, finalScore, playerNum === "1").then(() => {
+          setScreen("multi-waiting");
+        });
+      }
+      return;
+    }
+
     const rarity = calcRarity(finalMistakes, timeLeftRef.current, cfg.timeLimit, cfg.level);
-    saveCard({ id: generateCardId(), game: "minisudoku", rarity, score: cfg.size * cfg.size - finalMistakes, total: cfg.size * cfg.size, date: new Date().toISOString() });
+    saveCard({ id: generateCardId(), game: "minisudoku", rarity, score: finalScore, total: cfg.size * cfg.size, date: new Date().toISOString() });
     setEarnedCard(rarity);
     incrementTotalGames();
     triggerAvatar(cfg.level === 10 ? "victory" : "happy", 3000, cfg.level === 10 ? "victory" : "happy");
@@ -359,6 +465,22 @@ export default function MiniSudokuPage() {
 
   function handleGameOver(reason: "timeout" | "mistakes") {
     stopTimer();
+    if (isMultiplayer && matchId && !scoreSubmitted) {
+      setScoreSubmitted(true);
+      const cfg = cfgRef.current;
+      const finalScore = cfg.size * cfg.size - mistakesRef.current;
+      triggerAvatar("confused", 2000, "confused");
+      if (isMix) {
+        submitMixRoundScore(matchId, finalScore, playerNum === "1").then(() => {
+          setScreen("multi-waiting");
+        });
+      } else {
+        submitScore(matchId, finalScore, playerNum === "1").then(() => {
+          setScreen("multi-waiting");
+        });
+      }
+      return;
+    }
     triggerAvatar("disappointed", 3000);
     setScreen("levelFailed");
   }
@@ -534,8 +656,59 @@ export default function MiniSudokuPage() {
     jumpTrigger: avatarJump,
   };
 
+  // ─── MULTI WAITING SCREEN ──────────────────────────────────────────────────
+  if (screen === "multi-waiting") {
+    const cfg = cfgRef.current;
+    const finalScore = cfg.size * cfg.size - mistakes;
+    return (
+      <motion.div
+        className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm gap-5 px-6"
+        initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+      >
+        <motion.div
+          className="text-3xl font-black text-[#00FF88]"
+          style={{ textShadow: "0 0 20px rgba(0,255,136,0.4)" }}
+          initial={{ scale: 0.8 }} animate={{ scale: 1 }}
+        >
+          {finalScore}/{cfg.size * cfg.size}
+        </motion.div>
+        {isMix && (
+          <span className="text-white/30 text-xs font-bold uppercase">
+            Round {mixround} ✓
+          </span>
+        )}
+        <motion.div
+          className="w-10 h-10 border-2 border-[#00FF88] border-t-transparent rounded-full"
+          animate={{ rotate: 360 }}
+          transition={{ repeat: Infinity, duration: 1, ease: "linear" }}
+        />
+        <span className="text-white/60 text-sm font-medium text-center">
+          {lang === "hu" ? `Várakozás ${opponentName}-ra...` :
+           lang === "de" ? `Warte auf ${opponentName}...` :
+           lang === "ro" ? `Se așteaptă ${opponentName}...` :
+           `Waiting for ${opponentName}...`}
+        </span>
+      </motion.div>
+    );
+  }
+
+  // ─── MULTI RESULT SCREEN ─────────────────────────────────────────────────
+  if (screen === "multi-result" && oppFinalScore !== null) {
+    const cfg = cfgRef.current;
+    const finalScore = cfg.size * cfg.size - mistakes;
+    return (
+      <MultiplayerResult
+        myScore={myFinalScore !== null ? myFinalScore : finalScore}
+        oppScore={oppFinalScore}
+        myName={getUsername() || "???"}
+        oppName={opponentName}
+        onContinue={() => router.push("/multiplayer")}
+      />
+    );
+  }
+
   // ─── EXPEDITION SCREEN ─────────────────────────────────────────────────────
-  if (screen === "expedition") {
+  if (screen === "expedition" && !isMultiplayer) {
     return (
       <div className="min-h-screen bg-[#0A0A1A] text-white select-none">
         <AvatarCompanion {...avatarProps} fixed />
@@ -680,7 +853,10 @@ export default function MiniSudokuPage() {
         {/* Header */}
         <div className="flex items-center justify-between p-3 pt-5">
           <button
-            onClick={() => { stopTimer(); setScreen("expedition"); }}
+            onClick={() => {
+              if (isMultiplayer) { setShowExitConfirm(true); }
+              else { stopTimer(); setScreen("expedition"); }
+            }}
             className="flex items-center gap-1 text-white/50 hover:text-white transition-colors"
           >
             <Home size={18} /><span className="text-xs font-bold">{t.expeditionMap}</span>
@@ -879,6 +1055,18 @@ export default function MiniSudokuPage() {
             </motion.div>
           )}
         </AnimatePresence>
+
+        {/* Multiplayer overlays */}
+        {isMultiplayer && matchId && (
+          <>
+            <MultiplayerExitConfirm
+              open={showExitConfirm}
+              onStay={() => setShowExitConfirm(false)}
+              onLeave={() => { stopTimer(); abandonMatch(matchId); router.push("/multiplayer"); }}
+            />
+            <MultiplayerAbandonNotice matchId={matchId} opponentName={opponentName} />
+          </>
+        )}
       </div>
     );
   }

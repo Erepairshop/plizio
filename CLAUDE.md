@@ -379,6 +379,56 @@ activeLevel: number; completedLevels: number[]
 
 ---
 
+### Sky Climb (`app/skyclimb/page.tsx`) — state térkép
+
+**localStorage:** nincs expedition mentés (szintek nem mentődnek)
+
+**GameState:** `"menu" | "playing" | "dead" | "level-complete" | "reward"`
+
+**Pontozás:** magasság (height) méterben. Szint teljesítés = cél platform elérése.
+
+**Multiplayer architektúra:**
+
+**Broadcast channel:** `skyclimb-${matchId}` (Supabase Realtime)
+
+| Event | Payload | Küldés | Fogadás |
+|-------|---------|--------|---------|
+| `pos` | `{ p, x, y, z, fa }` | 120ms-enként (playing) | Ghost pozíció frissítés |
+| `died` | `{ p, height }` | Halálkor | `oppDied=true`, ghost eltűnik |
+| `finished` | `{ p }` | Cél elérésekor | `oppFinished=true` |
+| `avatar` | `{ p, avatar: GhostAvatarData }` | Subscribe-kor + 2s delay | Ghost kinézet renderelés |
+
+**GhostAvatarData:** `{ bodyColor, headColor, limbColor, shoeColor, hairColor, gender }`
+- Ghost opacity: 0.55 (55% átlátszó)
+- Pozíció interpoláció: `lerp(target, 0.2)` frame-enként
+- Halálkor: `visible = false`
+
+**multiResult score értékek:**
+| oppScore | Jelentés |
+|----------|---------|
+| `-1` | Várakozás az ellenfélre |
+| `999` | Ellenfél teljesítette a szintet |
+| `>= 0` | Ellenfél meghalt ezen a magasságon |
+
+**multiResult flow:**
+```
+I die/finish → submitScore() → setMultiResult({ myScore, oppScore: -1 })
+  → oppDied/oppFinished later → setMultiResult({ ..., oppScore: actual })
+  → MultiplayerResult megjelenik
+```
+
+**⚠️ KRITIKUS bug fix (2026-03-08):**
+A dead+waiting screen feltétele `(!multiResult || multiResult.oppScore === -1)` kell legyen, NEM `!multiResult`! Különben a `submitScore().then()` által beállított `oppScore:-1` eltünteti a várakozó képernyőt és sötét marad.
+
+**Reward flow multi módban:**
+- `reward` → ha `oppScore !== -1` → `level-complete` (→ MultiplayerResult)
+- `reward` → ha `oppScore === -1` → `dead` (várakozó spinner)
+
+**LEVEL_GAMES:** ✅ Igen, szintek 1-9 választhatók (10 nem)
+**Determinisztikus:** ✅ `generateLevel(lvl, matchSeed)` — mindkét játékos ugyanazokat a platformokat kapja
+
+---
+
 ### Kártya csererendszer (`app/collection/page.tsx`)
 - `MICRO_PER_CARD`: legendary=60, gold=6, silver=3, bronze=2 · `MICRO_PER_STAR`=60
 - Átváltás: 1 legendary=1⭐, 10 gold=1⭐, 20 silver=1⭐, 30 bronze=1⭐
@@ -1300,30 +1350,201 @@ playing → abandoned   (valaki kilep: abandonMatch)
 
 ### Jatek multi-kompatibilita — checklist
 
-Jelenleg multi-kompatibilis jatekok: **quickpick**
+**Jelenleg multi-kompatibilis jatekok:**
+quickpick, reflexrush, numberrush, sequencerush, wordhunt, numberpath, minisudoku, wordscramble
 
-Uj jatek multi-kompatibilissa tetele:
-1. Import: `submitScore, abandonMatch` from `@/lib/multiplayer`
-2. Import: `MultiplayerExitConfirm`, `MultiplayerAbandonNotice`
-3. URL params olvasasa: `match`, `seed`, `p` (player num), `vs` (opponent name)
-4. Seeded PRNG hasznalata a kerdesek generalasahoz (`seed` alapjan)
-5. Kilépés gomb multi modban → `setShowExitConfirm(true)` (NEM Link!)
-6. Jatek vegen → `submitScore(matchId, score, playerNum === "1")`
-7. Renderben:
-   ```tsx
-   {isMultiplayer && matchId && (
-     <>
-       <MultiplayerExitConfirm
-         open={showExitConfirm}
-         onStay={() => setShowExitConfirm(false)}
-         onLeave={() => { abandonMatch(matchId); router.push("/multiplayer"); }}
-       />
-       {gameState === "playing" && (
-         <MultiplayerAbandonNotice matchId={matchId} opponentName={opponentName} />
-       )}
-     </>
-   )}
-   ```
+**Level-alapu jatekok (`LEVEL_GAMES` set):**
+reflexrush, numberrush, sequencerush, wordhunt, numberpath, minisudoku, wordscramble
+→ Ezeknel a multiplayer kihivasnal level valaszto jelenik meg (1-9, 10-es NEM valaszthato)
+→ URL-ben `&level=X` parameterrel erkezik a jatek oldalra
+
+---
+
+#### Uj jatek multi-kompatibilissa tetele — TELJES checklist:
+
+**1. Importok hozzaadasa:**
+```tsx
+import { Suspense } from "react";
+import { useSearchParams, useRouter } from "next/navigation";
+import MultiplayerExitConfirm from "@/components/MultiplayerExitConfirm";
+import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
+import MultiplayerResult from "@/components/MultiplayerResult";
+import { submitScore, abandonMatch, submitMixRoundScore, pollMixRound } from "@/lib/multiplayer";
+import { getUsername } from "@/lib/username";
+```
+
+**2. Suspense wrapper (kotelezo `useSearchParams` miatt):**
+```tsx
+export default function MyGamePageWrapper() {
+  return <Suspense><MyGamePage /></Suspense>;
+}
+function MyGamePage() { /* ... */ }
+```
+
+**3. URL parameterek olvasasa:**
+```tsx
+const searchParams = useSearchParams();
+const router = useRouter();
+const matchId = searchParams.get("match");
+const playerNum = searchParams.get("p");
+const opponentName = searchParams.get("vs") || "???";
+const urlLevel = searchParams.get("level");
+const mixround = searchParams.get("mixround");
+const isMultiplayer = !!matchId;
+const isMix = !!mixround;
+```
+
+**4. Multiplayer state valtozok:**
+```tsx
+const [showExitConfirm, setShowExitConfirm] = useState(false);
+const [oppFinalScore, setOppFinalScore] = useState<number | null>(null);
+const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
+const [mixFinished, setMixFinished] = useState(false);
+const [scoreSubmitted, setScoreSubmitted] = useState(false);
+```
+
+**5. Screen type bovitese:**
+```tsx
+type Screen = "expedition" | "playing" | "reward" | "levelComplete" | "levelFailed"
+  | "multi-waiting" | "multi-result";
+```
+
+**6. Auto-start multiplayer modban (expedition kihagyasa):**
+```tsx
+const multiStarted = useRef(false);
+useEffect(() => {
+  if (isMultiplayer && urlLevel && !multiStarted.current) {
+    multiStarted.current = true;
+    const lv = Math.min(9, Math.max(1, parseInt(urlLevel) || 1));
+    setTimeout(() => startLevel(lv), 100);
+  }
+}, [isMultiplayer, urlLevel]); // eslint-disable-line react-hooks/exhaustive-deps
+```
+
+**7. Expedition elrejtese multi modban:**
+```tsx
+{screen === "expedition" && !isMultiplayer && ( /* ... */ )}
+```
+
+**8. Win handler (levelSuccess) — multi ag:**
+```tsx
+if (isMultiplayer && matchId && !scoreSubmitted) {
+  setScoreSubmitted(true);
+  // Kartya mentes + incrementTotalGames itt is kell!
+  if (isMix) {
+    submitMixRoundScore(matchId, finalScore, playerNum === "1").then(() => setScreen("multi-waiting"));
+  } else {
+    submitScore(matchId, finalScore, playerNum === "1").then(() => setScreen("multi-waiting"));
+  }
+  return;
+}
+// ... eredeti solo logika ...
+```
+
+**9. Fail handler (levelFailed) — multi ag:**
+```tsx
+if (isMultiplayer && matchId && !scoreSubmitted) {
+  setScoreSubmitted(true);
+  if (isMix) {
+    submitMixRoundScore(matchId, currentScore, playerNum === "1").then(() => setScreen("multi-waiting"));
+  } else {
+    submitScore(matchId, currentScore, playerNum === "1").then(() => setScreen("multi-waiting"));
+  }
+  return;
+}
+```
+
+**10. Polling effect (multi-waiting):**
+```tsx
+useEffect(() => {
+  if (screen !== "multi-waiting" || !isMultiplayer || !matchId) return;
+  const isP1 = playerNum === "1";
+  const checkMatch = async () => {
+    if (isMix) {
+      const result = await pollMixRound(matchId, parseInt(mixround || "1"), isP1, opponentName);
+      if (result.action === "finished") {
+        setMyFinalScore(result.myWins); setOppFinalScore(result.oppWins);
+        setMixFinished(true); setScreen("multi-result"); return true;
+      }
+      if (result.action === "next") { router.push(result.url); return true; }
+      return false;
+    } else {
+      const { supabase } = await import("@/lib/supabase/client");
+      const { data } = await supabase.from("multiplayer_matches").select("*").eq("id", matchId).single();
+      if (!data) return false;
+      const oppDone = isP1 ? data.player2_done : data.player1_done;
+      const oppScore = isP1 ? data.player2_score : data.player1_score;
+      if (oppDone && oppScore !== null) { setOppFinalScore(oppScore); setScreen("multi-result"); return true; }
+      return false;
+    }
+  };
+  checkMatch();
+  const interval = setInterval(async () => { if (await checkMatch()) clearInterval(interval); }, 2000);
+  return () => clearInterval(interval);
+}, [screen, isMultiplayer, matchId, isMix, playerNum, router, opponentName, mixround]);
+```
+
+**11. Kilepes gomb (playing screen) — multi:**
+```tsx
+onClick={() => {
+  if (isMultiplayer) setShowExitConfirm(true);
+  else { /* eredeti: setScreen("expedition") */ }
+}}
+```
+
+**12. Multi-waiting render:**
+```tsx
+{screen === "multi-waiting" && (
+  <motion.div className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm gap-5 px-6"
+    initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+    <motion.div className="text-3xl font-black text-[GAME_COLOR]">{score}/{total}</motion.div>
+    {isMix && <span className="text-white/30 text-xs font-bold uppercase">Round {mixround} ✓</span>}
+    <motion.div className="w-10 h-10 border-2 border-[GAME_COLOR] border-t-transparent rounded-full"
+      animate={{ rotate: 360 }} transition={{ repeat: Infinity, duration: 1, ease: "linear" }} />
+    <span className="text-white/60 text-sm font-medium text-center">
+      {lang === "hu" ? `Várakozás ${opponentName}-ra...` : `Waiting for ${opponentName}...`}
+    </span>
+  </motion.div>
+)}
+```
+
+**13. Multi-result render:**
+```tsx
+{screen === "multi-result" && oppFinalScore !== null && (
+  <MultiplayerResult
+    myScore={myFinalScore !== null ? myFinalScore : score}
+    oppScore={oppFinalScore}
+    myName={getUsername() || "???"}
+    oppName={opponentName}
+    onContinue={() => router.push("/multiplayer")}
+  />
+)}
+```
+
+**14. Exit confirm + abandon overlays (JSX vegen):**
+```tsx
+{isMultiplayer && matchId && (
+  <>
+    <MultiplayerExitConfirm open={showExitConfirm}
+      onStay={() => setShowExitConfirm(false)}
+      onLeave={() => { abandonMatch(matchId); router.push("/multiplayer"); }} />
+    {screen === "playing" && <MultiplayerAbandonNotice matchId={matchId} opponentName={opponentName} />}
+  </>
+)}
+```
+
+**15. lib/multiplayer.ts regisztracio:**
+- `GameType` union-ba add hozza az uj jatek route-jat
+- `GAME_LABELS`-be add hozza a megjelenito nevet
+- Ha level-alapu: `LEVEL_GAMES` set-be is add hozza
+
+---
+
+**⚠️ Mix round race condition — KRITIKUS szabaly:**
+- Csak Player 1 (`p=1`) hivja az `advanceMixRound()` fuggvenyt
+- Player 2 a `pollMixRound()` helperrel figyeli a kor szam valtozasat
+- Ha mindketten hivjak → P1 reseteli a done flageket → P2 orokre varakozik!
+- A `pollMixRound()` helper ezt automatikusan kezeli
 
 ### GAME_LABELS (multiplayer.ts)
 
