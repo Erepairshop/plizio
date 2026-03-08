@@ -295,8 +295,8 @@ function PingPongPage() {
     };
     gameRef.current = game;
 
-    const PADDLE_Y_PLAYER = 0.85;
-    const PADDLE_Y_AI = 0.15;
+    const PADDLE_Y_PLAYER = 1.07;  // below table (on the wood)
+    const PADDLE_Y_AI = -0.07;    // above table (on the wood)
 
     // Paddle dimensions (normalized) — circle
     const PADDLE_R = 0.045; // normalized radius for collision
@@ -450,9 +450,9 @@ function PingPongPage() {
           }
         }
 
-        // Score — ball exits table
-        if (game.ballY < -0.03) scorePoint(true);
-        if (game.ballY > 1.03) scorePoint(false);
+        // Score — ball exits past the paddles
+        if (game.ballY < -0.15) scorePoint(true);
+        if (game.ballY > 1.15) scorePoint(false);
       }
 
       // ═══════════════════════════════════════════════════════
