@@ -1,11 +1,12 @@
 "use client";
 
-import { useState, useEffect, useRef, useCallback, useMemo } from "react";
+import { useState, useEffect, useRef, useCallback, useMemo, Suspense } from "react";
 import { Canvas, useFrame, useThree } from "@react-three/fiber";
 import * as THREE from "three";
 import { motion, AnimatePresence } from "framer-motion";
 import { Mountain, Trophy, ArrowUp, RotateCcw, Home, Maximize, Share, Rocket, Shield, Zap, X } from "lucide-react";
 import Link from "next/link";
+import { useSearchParams, useRouter } from "next/navigation";
 import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, type CardRarity } from "@/lib/cards";
 import { getSkinDef, getActiveSkin } from "@/lib/skins";
@@ -15,6 +16,31 @@ import { getFaceDef, getActiveFace } from "@/lib/faces";
 import { getGender } from "@/lib/gender";
 import { incrementTotalGames, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
+import MultiplayerExitConfirm from "@/components/MultiplayerExitConfirm";
+import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
+import MultiplayerResult from "@/components/MultiplayerResult";
+import { submitScore, abandonMatch } from "@/lib/multiplayer";
+import { getUsername } from "@/lib/username";
+import { supabase } from "@/lib/supabase/client";
+import type { RealtimeChannel } from "@supabase/supabase-js";
+
+// ─── SEEDED PRNG ────────────────────────────────
+function mulberry32(seed: number) {
+  return function () {
+    seed |= 0;
+    seed = (seed + 0x6d2b79f5) | 0;
+    let t = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+    t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+function hashSeed(str: string): number {
+  let h = 0;
+  for (let i = 0; i < str.length; i++) {
+    h = ((h << 5) - h + str.charCodeAt(i)) | 0;
+  }
+  return h;
+}
 
 // ─── TYPES ──────────────────────────────────────
 interface Platform3D {
@@ -69,7 +95,8 @@ const MAGNET_PULL = 0.006;
 const WIN_ANIM_FRAMES = 90;
 
 // ─── LEVEL GENERATION (CONNECTED PATH) ─────────────
-function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: number; powerUps: PowerUpItem[] } {
+function generateLevel(level: number, seed?: string): { platforms: Platform3D[]; goalIdx: number; powerUps: PowerUpItem[] } {
+  const rng = seed ? mulberry32(hashSeed(seed + "-" + level)) : () => Math.random();
   const platforms: Platform3D[] = [];
   const difficulty = Math.min(level, 10);
 
@@ -81,9 +108,9 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
     p.trees = [];
     for (let i = 0; i < count; i++) {
       p.trees.push({
-        ox: (Math.random() - 0.5) * Math.max(p.w - 2, 1),
-        oz: (Math.random() - 0.5) * Math.max(p.d - 2, 1),
-        s: 0.6 + Math.random() * 0.6,
+        ox: (rng() - 0.5) * Math.max(p.w - 2, 1),
+        oz: (rng() - 0.5) * Math.max(p.d - 2, 1),
+        s: 0.6 + rng() * 0.6,
       });
     }
   }
@@ -92,9 +119,9 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
     p.rocks = [];
     for (let i = 0; i < count; i++) {
       p.rocks.push({
-        ox: (Math.random() - 0.5) * Math.max(p.w - 1, 0.5),
-        oz: (Math.random() - 0.5) * Math.max(p.d - 1, 0.5),
-        s: 0.2 + Math.random() * 0.4,
+        ox: (rng() - 0.5) * Math.max(p.w - 1, 0.5),
+        oz: (rng() - 0.5) * Math.max(p.d - 1, 0.5),
+        s: 0.2 + rng() * 0.4,
       });
     }
   }
@@ -109,36 +136,36 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
   const segCount = 8 + level * 2;
 
   for (let s = 0; s < segCount; s++) {
-    const roll = Math.random();
+    const roll = rng();
 
     // Lateral shift increases with difficulty for zigzag paths
-    const lateralShift = difficulty >= 3 ? (Math.random() - 0.5) * (1.5 + difficulty * 0.3) : (Math.random() - 0.5) * 0.4;
+    const lateralShift = difficulty >= 3 ? (rng() - 0.5) * (1.5 + difficulty * 0.3) : (rng() - 0.5) * 0.4;
 
     if (s < 2 || (s % 4 === 0 && roll < 0.35)) {
       // ── GROUND REST AREA ──
-      const depth = 5 + Math.random() * 3;
-      const w = 6 + Math.random() * 3;
-      const h = 1 + Math.random() * 0.5;
-      surfY += 0.6 + Math.random() * 0.4;
+      const depth = 5 + rng() * 3;
+      const w = 6 + rng() * 3;
+      const h = 1 + rng() * 0.5;
+      surfY += 0.6 + rng() * 0.4;
       cx += lateralShift;
 
-      const gap = 0.5 + Math.random() * 0.3;
+      const gap = 0.5 + rng() * 0.3;
       const centerZ = edgeZ + gap + depth / 2;
       const p: Platform3D = {
         x: cx, y: surfY - h / 2, z: centerZ,
         w, d: depth, h, type: "ground",
       };
-      addTrees(p, 1 + Math.floor(Math.random() * 2));
-      addRocks(p, Math.floor(Math.random() * 2));
+      addTrees(p, 1 + Math.floor(rng() * 2));
+      addRocks(p, Math.floor(rng() * 2));
       platforms.push(p);
       edgeZ = centerZ + depth / 2;
     } else if (roll < 0.40) {
       // ── GAP JUMP — wider platforms, manageable gaps ──
       const gap = 0.8 + difficulty * 0.06;
-      const d = 4 + Math.random() * 2;
-      const w = 4 + Math.random() * 2;
-      const h = 0.6 + Math.random() * 0.4;
-      surfY += 0.3 + Math.random() * 0.5;
+      const d = 4 + rng() * 2;
+      const w = 4 + rng() * 2;
+      const h = 0.6 + rng() * 0.4;
+      surfY += 0.3 + rng() * 0.5;
       cx += lateralShift * 1.5;
 
       const centerZ = edgeZ + gap + d / 2;
@@ -146,21 +173,21 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
         x: cx, y: surfY - h / 2, z: centerZ,
         w, d, h, type: "rock",
       };
-      addRocks(p, Math.floor(Math.random() * 2));
+      addRocks(p, Math.floor(rng() * 2));
       platforms.push(p);
       edgeZ = centerZ + d / 2;
     } else if (roll < 0.58) {
       // ── STAIRCASE — zigzag steps at higher levels ──
-      const steps = 3 + Math.floor(Math.random() * 3);
+      const steps = 3 + Math.floor(rng() * 3);
       const zigzag = difficulty >= 4;
       for (let i = 0; i < steps; i++) {
-        const stepD = 2.5 + Math.random() * 1.0;
-        const stepW = 3.5 + Math.random() * 1.5;
-        const stepH = 0.4 + Math.random() * 0.3;
-        surfY += 0.5 + Math.random() * 0.3;
-        cx += zigzag ? ((i % 2 === 0 ? 1 : -1) * (1.0 + Math.random() * 0.8)) : (Math.random() - 0.5) * 0.7;
+        const stepD = 2.5 + rng() * 1.0;
+        const stepW = 3.5 + rng() * 1.5;
+        const stepH = 0.4 + rng() * 0.3;
+        surfY += 0.5 + rng() * 0.3;
+        cx += zigzag ? ((i % 2 === 0 ? 1 : -1) * (1.0 + rng() * 0.8)) : (rng() - 0.5) * 0.7;
 
-        const gap = 0.3 + Math.random() * 0.2;
+        const gap = 0.3 + rng() * 0.2;
         const centerZ = edgeZ + gap + stepD / 2;
         platforms.push({
           x: cx, y: surfY - stepH / 2, z: centerZ,
@@ -170,15 +197,15 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
       }
     } else if (roll < 0.68) {
       // ── BRIDGE — slightly wider ──
-      const bLen = 4 + Math.random() * 4;
+      const bLen = 4 + rng() * 4;
       const bH = 0.3;
-      surfY += 0.2 + Math.random() * 0.2;
+      surfY += 0.2 + rng() * 0.2;
       cx += lateralShift * 0.5;
 
       const centerZ = edgeZ + bLen / 2;
       platforms.push({
         x: cx, y: surfY - bH / 2, z: centerZ,
-        w: 2.2 + Math.random() * 0.6, d: bLen, h: bH, type: "bridge",
+        w: 2.2 + rng() * 0.6, d: bLen, h: bH, type: "bridge",
       });
       edgeZ = centerZ + bLen / 2;
     } else if (difficulty >= 3 && roll < 0.78) {
@@ -192,18 +219,18 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
         x: cx, y: surfY - 0.2, z: centerZ, w: 3.5, d: 3.5, h: 0.4,
         type: "moving",
         origX: cx, origZ: centerZ,
-        moveAxis: Math.random() > 0.5 ? "x" : "z",
-        moveRange: 1.2 + Math.random() * 1.2,
+        moveAxis: rng() > 0.5 ? "x" : "z",
+        moveRange: 1.2 + rng() * 1.2,
         moveSpeed: 0.35 + difficulty * 0.08,
         deltaX: 0, deltaZ: 0,
       });
       edgeZ = centerZ + 1.75;
     } else if (difficulty >= 4 && roll < 0.88) {
       // ── CRUMBLE PLATFORMS ──
-      const count = 2 + Math.floor(Math.random() * 2);
+      const count = 2 + Math.floor(rng() * 2);
       for (let i = 0; i < count; i++) {
-        surfY += 0.3 + Math.random() * 0.3;
-        cx += (Math.random() - 0.5) * 1.5;
+        surfY += 0.3 + rng() * 0.3;
+        cx += (rng() - 0.5) * 1.5;
         const pD = 3;
 
         const centerZ = edgeZ + 0.6 + pD / 2;
@@ -216,11 +243,11 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
       }
     } else if (difficulty >= 5 && roll < 0.93) {
       // ── FLOATING SPHERES / SMALL ISLANDS — high level challenge ──
-      const count = 2 + Math.floor(Math.random() * 3);
+      const count = 2 + Math.floor(rng() * 3);
       for (let i = 0; i < count; i++) {
-        surfY += 0.4 + Math.random() * 0.5;
-        cx += ((i % 2 === 0 ? 1 : -1) * (1.5 + Math.random() * 1.5));
-        const size = 1.8 + Math.random() * 1.2;
+        surfY += 0.4 + rng() * 0.5;
+        cx += ((i % 2 === 0 ? 1 : -1) * (1.5 + rng() * 1.5));
+        const size = 1.8 + rng() * 1.2;
 
         const centerZ = edgeZ + 1.0 + size / 2;
         platforms.push({
@@ -232,12 +259,12 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
       }
     } else if (level >= 10 && roll < 0.96) {
       // ── ICE PLATFORMS (level 10+) — slippery, low friction ──
-      const count = 2 + Math.floor(Math.random() * 3);
+      const count = 2 + Math.floor(rng() * 3);
       for (let i = 0; i < count; i++) {
-        surfY += 0.3 + Math.random() * 0.4;
-        cx += (Math.random() - 0.5) * 2.5;
-        const d = 3 + Math.random() * 2;
-        const w = 3 + Math.random() * 2;
+        surfY += 0.3 + rng() * 0.4;
+        cx += (rng() - 0.5) * 2.5;
+        const d = 3 + rng() * 2;
+        const w = 3 + rng() * 2;
         const centerZ = edgeZ + 0.6 + d / 2;
         platforms.push({
           x: cx, y: surfY - 0.15, z: centerZ,
@@ -248,11 +275,11 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
       }
     } else if (level >= 15) {
       // ── BOUNCE PLATFORMS (level 15+) — bounce you up high ──
-      const count = 2 + Math.floor(Math.random() * 2);
+      const count = 2 + Math.floor(rng() * 2);
       for (let i = 0; i < count; i++) {
-        surfY += 0.8 + Math.random() * 0.6;
-        cx += ((i % 2 === 0 ? 1 : -1) * (1.2 + Math.random() * 1.5));
-        const size = 2.2 + Math.random() * 1.0;
+        surfY += 0.8 + rng() * 0.6;
+        cx += ((i % 2 === 0 ? 1 : -1) * (1.2 + rng() * 1.5));
+        const size = 2.2 + rng() * 1.0;
         const centerZ = edgeZ + 1.2 + size / 2;
         platforms.push({
           x: cx, y: surfY - 0.15, z: centerZ,
@@ -285,13 +312,13 @@ function generateLevel(level: number): { platforms: Platform3D[]; goalIdx: numbe
   const candidates = platforms.slice(2, -1).filter(p => p.type !== "crumble" && p.type !== "moving");
 
   if (candidates.length > 0) {
-    const idx = Math.floor(Math.random() * candidates.length);
+    const idx = Math.floor(rng() * candidates.length);
     const plat = candidates[idx];
     powerUps.push({
-      x: plat.x + (Math.random() - 0.5) * Math.max(plat.w - 2, 0.5),
+      x: plat.x + (rng() - 0.5) * Math.max(plat.w - 2, 0.5),
       y: plat.y + plat.h / 2 + 1.2,
-      z: plat.z + (Math.random() - 0.5) * Math.max(plat.d - 2, 0.5),
-      type: availableTypes[Math.floor(Math.random() * availableTypes.length)],
+      z: plat.z + (rng() - 0.5) * Math.max(plat.d - 2, 0.5),
+      type: availableTypes[Math.floor(rng() * availableTypes.length)],
       collected: false,
     });
   }
@@ -997,6 +1024,69 @@ function RockDeco({ px, py, pz, s }: { px: number; py: number; pz: number; s: nu
   );
 }
 
+// ─── GHOST PLAYER (opponent in multiplayer) ─────────
+function GhostPlayer({ posRef, name }: { posRef: React.RefObject<{ x: number; y: number; z: number; fa: number; dead?: boolean }>; name: string }) {
+  const groupRef = useRef<THREE.Group>(null);
+  const targetPos = useRef(new THREE.Vector3(0, 1, 0));
+  const targetAngle = useRef(0);
+  const labelRef = useRef<THREE.Group>(null);
+
+  useFrame((state) => {
+    if (!groupRef.current || !posRef.current) return;
+    const p = posRef.current;
+    targetPos.current.set(p.x, p.y, p.z);
+    targetAngle.current = p.fa;
+
+    // Smooth interpolation for ghost movement
+    groupRef.current.position.lerp(targetPos.current, 0.2);
+
+    // Rotate body
+    const body = groupRef.current.children[0] as THREE.Group;
+    if (body) {
+      let diff = targetAngle.current - body.rotation.y;
+      while (diff > Math.PI) diff -= Math.PI * 2;
+      while (diff < -Math.PI) diff += Math.PI * 2;
+      body.rotation.y += diff * 0.15;
+    }
+
+    // Billboard nametag
+    if (labelRef.current) {
+      labelRef.current.quaternion.copy(state.camera.quaternion);
+    }
+
+    // Fade out if dead
+    if (p.dead) {
+      groupRef.current.visible = false;
+    }
+  });
+
+  return (
+    <group ref={groupRef} position={[0, 1, 0]}>
+      <group>
+        {/* Ghost body - simple capsule */}
+        <mesh position={[0, 0.5, 0]}>
+          <capsuleGeometry args={[0.2, 0.6, 4, 8]} />
+          <meshStandardMaterial color="#FF2D78" transparent opacity={0.35} emissive="#FF2D78" emissiveIntensity={0.6} />
+        </mesh>
+        {/* Ghost head */}
+        <mesh position={[0, 0.97, 0]}>
+          <sphereGeometry args={[0.18, 8, 6]} />
+          <meshStandardMaterial color="#FF2D78" transparent opacity={0.4} emissive="#FF2D78" emissiveIntensity={0.8} />
+        </mesh>
+        {/* Glow */}
+        <pointLight position={[0, 0.6, 0]} color="#FF2D78" intensity={1.5} distance={4} />
+      </group>
+      {/* Nametag */}
+      <group ref={labelRef} position={[0, 1.5, 0]}>
+        <mesh>
+          <planeGeometry args={[name.length * 0.12 + 0.3, 0.22]} />
+          <meshBasicMaterial color="#000000" transparent opacity={0.5} />
+        </mesh>
+      </group>
+    </group>
+  );
+}
+
 // ─── PLATFORM MESH ──────────────────────────────────
 function PlatformMesh({ plat, gameRef, isGoal }: { plat: Platform3D; gameRef: React.RefObject<GameData>; isGoal: boolean }) {
   const meshRef = useRef<THREE.Mesh>(null);
@@ -1636,7 +1726,7 @@ function FloatingParticles() {
   );
 }
 
-function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, skinId, hatId, trailId }: {
+function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, skinId, hatId, trailId, ghostPosRef, ghostName }: {
   gameRef: React.RefObject<GameData>;
   onDie: () => void;
   onGoal: () => void;
@@ -1646,6 +1736,8 @@ function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, 
   skinId: string;
   hatId: string | null;
   trailId: string | null;
+  ghostPosRef?: React.RefObject<{ x: number; y: number; z: number; fa: number; dead?: boolean }>;
+  ghostName?: string;
 }) {
   const g = gameRef.current;
   if (!g) return null;
@@ -1674,6 +1766,11 @@ function Scene3D({ gameRef, onDie, onGoal, onWinStart, onPowerUp, onShieldUsed, 
       ))}
 
       <Character gameRef={gameRef} skinId={skinId} hatId={hatId} trailId={trailId} />
+
+      {/* Ghost player (multiplayer opponent) */}
+      {ghostPosRef && ghostName && (
+        <GhostPlayer posRef={ghostPosRef} name={ghostName} />
+      )}
 
       <GameLoop gameRef={gameRef} onDie={onDie} onGoal={onGoal} onWinStart={onWinStart} onPowerUp={onPowerUp} onShieldUsed={onShieldUsed} />
     </>
@@ -1782,7 +1879,20 @@ function isIOS(): boolean {
 }
 
 // ─── MAIN COMPONENT ─────────────────────────────────
-export default function SkyClimbPage() {
+export default function SkyClimbPageWrapper() {
+  return <Suspense><SkyClimbPage /></Suspense>;
+}
+
+function SkyClimbPage() {
+  const searchParams = useSearchParams();
+  const router = useRouter();
+  const matchId = searchParams.get("match");
+  const matchSeed = searchParams.get("seed");
+  const playerNum = searchParams.get("p");
+  const opponentName = searchParams.get("vs") || "???";
+  const urlLevel = searchParams.get("level");
+  const isMultiplayer = !!matchId;
+
   const [gameState, setGameState] = useState<GameState>("menu");
   const [level, setLevel] = useState(1);
   const [highestLevel, setHighestLevel] = useState(1);
@@ -1795,6 +1905,16 @@ export default function SkyClimbPage() {
   const [activeSkinId, setActiveSkinId] = useState("default");
   const [activeHatId, setActiveHatId] = useState<string | null>(null);
   const [activeTrailId, setActiveTrailId] = useState<string | null>(null);
+
+  // ─── MULTIPLAYER STATE ──────────────────────────
+  const [showExitConfirm, setShowExitConfirm] = useState(false);
+  const [oppFinished, setOppFinished] = useState(false);
+  const [oppDied, setOppDied] = useState(false);
+  const [multiResult, setMultiResult] = useState<{ myScore: number; oppScore: number } | null>(null);
+  const [scoreSubmitted, setScoreSubmitted] = useState(false);
+  const channelRef = useRef<RealtimeChannel | null>(null);
+  const ghostPosRef = useRef({ x: 0, y: 1, z: 0, fa: 0, dead: false });
+  const broadcastIntervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
   const [isTouchDevice, setIsTouchDevice] = useState(false);
   const gameRef = useRef<GameData>(createGameData());
 
@@ -1984,6 +2104,105 @@ export default function SkyClimbPage() {
     };
   }, [gameState]);
 
+  // ─── MULTIPLAYER: Supabase broadcast channel ───────
+  useEffect(() => {
+    if (!isMultiplayer || !matchId) return;
+
+    const channel = supabase.channel(`skyclimb-${matchId}`, {
+      config: { broadcast: { self: false } },
+    });
+
+    channel.on("broadcast", { event: "pos" }, ({ payload }) => {
+      if (payload.p !== playerNum) {
+        ghostPosRef.current = { x: payload.x, y: payload.y, z: payload.z, fa: payload.fa, dead: false };
+      }
+    });
+
+    channel.on("broadcast", { event: "finished" }, ({ payload }) => {
+      if (payload.p !== playerNum) {
+        setOppFinished(true);
+      }
+    });
+
+    channel.on("broadcast", { event: "died" }, ({ payload }) => {
+      if (payload.p !== playerNum) {
+        ghostPosRef.current = { ...ghostPosRef.current, dead: true };
+        setOppDied(true);
+      }
+    });
+
+    channel.subscribe();
+    channelRef.current = channel;
+
+    return () => {
+      supabase.removeChannel(channel);
+      channelRef.current = null;
+    };
+  }, [isMultiplayer, matchId, playerNum]);
+
+  // ─── MULTIPLAYER: Broadcast position ~8/sec ────────
+  useEffect(() => {
+    if (!isMultiplayer || gameState !== "playing" || !channelRef.current) return;
+
+    const interval = setInterval(() => {
+      const g = gameRef.current;
+      if (g.dead || g.levelComplete) return;
+      channelRef.current?.send({
+        type: "broadcast",
+        event: "pos",
+        payload: { p: playerNum, x: g.px, y: g.py, z: g.pz, fa: g.facingAngle },
+      });
+    }, 120);
+
+    broadcastIntervalRef.current = interval;
+    return () => {
+      clearInterval(interval);
+      broadcastIntervalRef.current = null;
+    };
+  }, [isMultiplayer, gameState, playerNum]);
+
+  // ─── MULTIPLAYER: Auto-start when URL has level ────
+  const multiStarted = useRef(false);
+  useEffect(() => {
+    if (isMultiplayer && urlLevel && !multiStarted.current) {
+      multiStarted.current = true;
+      const lv = Math.min(9, Math.max(1, parseInt(urlLevel) || 1));
+      setTimeout(() => startGame(lv), 100);
+    }
+  }, [isMultiplayer, urlLevel]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  // ─── MULTIPLAYER: Handle opponent finishing ────────
+  useEffect(() => {
+    if (!oppFinished || !isMultiplayer || !matchId || scoreSubmitted) return;
+    // Opponent finished first — I lose
+    setScoreSubmitted(true);
+    const g = gameRef.current;
+    if (broadcastIntervalRef.current) clearInterval(broadcastIntervalRef.current);
+    submitScore(matchId, 0, playerNum === "1").then(() => {
+      setMultiResult({ myScore: 0, oppScore: g.level });
+    });
+  }, [oppFinished, isMultiplayer, matchId, scoreSubmitted, playerNum]);
+
+  // ─── MULTIPLAYER: Handle opponent dying ────────────
+  useEffect(() => {
+    if (!oppDied || !isMultiplayer) return;
+    setNotification("💀 " + opponentName);
+    setTimeout(() => setNotification(null), 2000);
+    // If I already submitted score (finished), update result
+    if (scoreSubmitted && multiResult && multiResult.oppScore === -1) {
+      setMultiResult({ ...multiResult, oppScore: 0 });
+    }
+  }, [oppDied, isMultiplayer, opponentName, scoreSubmitted, multiResult]);
+
+  // ─── MULTIPLAYER: Handle opponent finishing after I died/finished ─
+  useEffect(() => {
+    if (!oppFinished || !isMultiplayer || !scoreSubmitted) return;
+    // If I already have a result pending (oppScore === -1), update it
+    if (multiResult && multiResult.oppScore === -1) {
+      setMultiResult({ ...multiResult, oppScore: level });
+    }
+  }, [oppFinished, isMultiplayer, scoreSubmitted, multiResult, level]);
+
   const startGame = useCallback((lvl: number) => {
     // Try fullscreen on Android
     if (!isStandalone()) {
@@ -1993,7 +2212,9 @@ export default function SkyClimbPage() {
       (screen.orientation as { lock?: (o: string) => Promise<void> })?.lock?.("portrait").catch(() => {});
     } catch {}
 
-    const { platforms, goalIdx, powerUps } = generateLevel(lvl);
+    // Use seed for deterministic levels in multiplayer
+    const seed = isMultiplayer ? matchSeed || undefined : undefined;
+    const { platforms, goalIdx, powerUps } = generateLevel(lvl, seed);
     const g = gameRef.current;
     Object.assign(g, createGameData());
     g.platforms = platforms;
@@ -2001,6 +2222,13 @@ export default function SkyClimbPage() {
     g.powerUps = powerUps;
     g.level = lvl;
     g.py = 1;
+
+    // Reset multiplayer state
+    setOppFinished(false);
+    setOppDied(false);
+    setScoreSubmitted(false);
+    setMultiResult(null);
+    ghostPosRef.current = { x: 0, y: 1, z: 0, fa: 0, dead: false };
 
     // Activate shop power-up: sky_extralife gives shield at start
     try {
@@ -2026,8 +2254,32 @@ export default function SkyClimbPage() {
 
   const handleDie = useCallback(() => {
     setWinAnimActive(false);
+    if (isMultiplayer && matchId && !scoreSubmitted) {
+      // Broadcast death to opponent
+      channelRef.current?.send({
+        type: "broadcast",
+        event: "died",
+        payload: { p: playerNum },
+      });
+
+      if (oppDied) {
+        // Both died — draw (score 0 vs 0)
+        setScoreSubmitted(true);
+        submitScore(matchId, 0, playerNum === "1").then(() => {
+          setMultiResult({ myScore: 0, oppScore: 0 });
+        });
+      }
+      // If opponent hasn't died/finished yet, show death screen as normal (can retry)
+      // Actually in realtime race, death = loss unless opponent also dies
+      // Let's auto-submit score 0 on death
+      if (!oppDied && !oppFinished) {
+        setScoreSubmitted(true);
+        submitScore(matchId, 0, playerNum === "1");
+        // Wait for opponent to finish
+      }
+    }
     setGameState("dead");
-  }, []);
+  }, [isMultiplayer, matchId, scoreSubmitted, playerNum, oppDied, oppFinished]);
 
   const handleWinStart = useCallback(() => {
     setWinAnimActive(true);
@@ -2064,13 +2316,38 @@ export default function SkyClimbPage() {
       total: g.level,
       date: new Date().toISOString(),
     });
+    window.dispatchEvent(new Event("plizio-cards-changed"));
     const newHighest = Math.max(g.level, parseInt(localStorage.getItem("plizio_skyclimb_highest") || "1"));
     localStorage.setItem("plizio_skyclimb_highest", newHighest.toString());
     setHighestLevel(newHighest);
     incrementTotalGames();
     updateStats({ skyHighestLevel: newHighest });
+
+    if (isMultiplayer && matchId && !scoreSubmitted) {
+      // Broadcast finish to opponent
+      channelRef.current?.send({
+        type: "broadcast",
+        event: "finished",
+        payload: { p: playerNum },
+      });
+      setScoreSubmitted(true);
+      submitScore(matchId, g.level, playerNum === "1").then(() => {
+        // Check if opponent already finished or died
+        if (oppDied) {
+          setMultiResult({ myScore: g.level, oppScore: 0 });
+        } else if (oppFinished) {
+          // Both finished — tie? Actually we won because we got here
+          setMultiResult({ myScore: g.level, oppScore: g.level });
+        } else {
+          // Wait for opponent
+          setMultiResult({ myScore: g.level, oppScore: -1 }); // -1 = pending
+        }
+      });
+      setGameState("reward");
+      return;
+    }
     setGameState("reward");
-  }, []);
+  }, [isMultiplayer, matchId, scoreSubmitted, playerNum, oppDied, oppFinished]);
 
   const handleFullscreenBtn = useCallback(() => {
     if (isIOS()) {
@@ -2082,8 +2359,8 @@ export default function SkyClimbPage() {
 
   return (
     <main className="flex flex-col items-center justify-center bg-bg relative overflow-hidden" style={{ minHeight: "100dvh", height: "100dvh", width: "100vw", overscrollBehavior: "none" }}>
-      {/* Menu */}
-      {gameState === "menu" && (
+      {/* Menu (hidden in multiplayer) */}
+      {gameState === "menu" && !isMultiplayer && (
         <motion.div className="flex flex-col items-center gap-6" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
           <Mountain size={48} className="text-neon-green" style={{ filter: "drop-shadow(0 0 15px rgba(0,255,136,0.5))" }} />
           <div className="flex flex-wrap items-center justify-center gap-2 max-w-xs">
@@ -2186,22 +2463,37 @@ export default function SkyClimbPage() {
         <div className="fixed inset-0 touch-none" style={{ height: "100dvh", width: "100vw" }}>
           <Canvas camera={{ fov: 60 }} gl={{ antialias: true }}
             style={{ background: "linear-gradient(180deg, #2a5298 0%, #5b86c7 25%, #87CEEB 50%, #e8d5b7 85%, #f0c27f 100%)", height: "100%", width: "100%" }}>
-            <Scene3D gameRef={gameRef} onDie={handleDie} onGoal={handleGoal} onWinStart={handleWinStart} onPowerUp={handlePowerUp} onShieldUsed={handleShieldUsed} skinId={activeSkinId} hatId={activeHatId} trailId={activeTrailId} />
+            <Scene3D gameRef={gameRef} onDie={handleDie} onGoal={handleGoal} onWinStart={handleWinStart} onPowerUp={handlePowerUp} onShieldUsed={handleShieldUsed} skinId={activeSkinId} hatId={activeHatId} trailId={activeTrailId}
+              ghostPosRef={isMultiplayer ? ghostPosRef : undefined} ghostName={isMultiplayer ? opponentName : undefined} />
           </Canvas>
 
           {/* HUD */}
           <div className="fixed top-2 left-0 right-0 z-10 flex items-start justify-between px-3 pointer-events-none" style={{ paddingTop: "env(safe-area-inset-top, 8px)" }}>
-            {/* Home button */}
-            <Link href="/">
-              <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2.5 pointer-events-auto cursor-pointer hover:bg-black/60 transition-colors">
+            {/* Home/Exit button */}
+            {isMultiplayer ? (
+              <button onClick={() => setShowExitConfirm(true)}
+                className="bg-black/40 backdrop-blur-sm rounded-xl p-2.5 pointer-events-auto cursor-pointer hover:bg-black/60 transition-colors">
                 <X size={16} className="text-white/60" />
-              </div>
-            </Link>
+              </button>
+            ) : (
+              <Link href="/">
+                <div className="bg-black/40 backdrop-blur-sm rounded-xl p-2.5 pointer-events-auto cursor-pointer hover:bg-black/60 transition-colors">
+                  <X size={16} className="text-white/60" />
+                </div>
+              </Link>
+            )}
 
-            {/* Level display */}
-            <div className="bg-black/40 backdrop-blur-sm rounded-xl px-4 py-2 flex items-center gap-3">
-              <Mountain size={14} className="text-neon-green" />
-              <span className="text-white/80 font-mono text-sm font-bold">LVL {level}</span>
+            {/* Level display + VS indicator */}
+            <div className="flex flex-col items-center gap-1">
+              <div className="bg-black/40 backdrop-blur-sm rounded-xl px-4 py-2 flex items-center gap-3">
+                <Mountain size={14} className="text-neon-green" />
+                <span className="text-white/80 font-mono text-sm font-bold">LVL {level}</span>
+              </div>
+              {isMultiplayer && (
+                <div className="bg-neon-pink/20 backdrop-blur-sm rounded-lg px-3 py-1 border border-neon-pink/30">
+                  <span className="text-neon-pink text-[10px] font-bold">VS {opponentName}</span>
+                </div>
+              )}
             </div>
 
             {/* Power-up indicators */}
@@ -2302,7 +2594,7 @@ export default function SkyClimbPage() {
 
       {/* Death */}
       <AnimatePresence>
-        {gameState === "dead" && (
+        {gameState === "dead" && !isMultiplayer && (
           <motion.div className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/70 backdrop-blur-sm px-4 gap-6"
             initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
             <motion.div initial={{ scale: 2, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ type: "spring" }}>
@@ -2327,17 +2619,49 @@ export default function SkyClimbPage() {
             </motion.div>
           </motion.div>
         )}
+        {/* Multi death — waiting for opponent result */}
+        {gameState === "dead" && isMultiplayer && !multiResult && (
+          <motion.div className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm gap-5 px-6"
+            initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            <Mountain size={48} className="text-neon-pink" style={{ filter: "drop-shadow(0 0 15px rgba(255,45,120,0.5))" }} />
+            <span className="text-neon-pink font-black text-lg">FELL!</span>
+            <motion.div className="w-10 h-10 border-2 border-neon-pink border-t-transparent rounded-full"
+              animate={{ rotate: 360 }} transition={{ repeat: Infinity, duration: 1, ease: "linear" }} />
+            <span className="text-white/50 text-sm">Waiting for {opponentName}...</span>
+          </motion.div>
+        )}
+        {/* Multi result overlay */}
+        {isMultiplayer && multiResult && multiResult.oppScore !== -1 && (
+          <MultiplayerResult
+            myScore={multiResult.myScore}
+            oppScore={multiResult.oppScore}
+            myName={getUsername() || "???"}
+            oppName={opponentName}
+            onContinue={() => router.push("/multiplayer")}
+          />
+        )}
       </AnimatePresence>
 
       {/* Reward */}
       {gameState === "reward" && (
         <RewardReveal rarity={rewardRarity} game="skyclimb" score={level} total={level}
-          onDone={() => setGameState("level-complete")} />
+          onDone={() => {
+            if (isMultiplayer) {
+              // In multi, after reward go to waiting or result
+              if (multiResult && multiResult.oppScore !== -1) {
+                setGameState("level-complete"); // triggers multi-result via the AnimatePresence above
+              } else {
+                setGameState("dead"); // reuse dead screen as waiting state
+              }
+            } else {
+              setGameState("level-complete");
+            }
+          }} />
       )}
 
-      {/* Level complete */}
+      {/* Level complete (solo only — multi uses MultiplayerResult) */}
       <AnimatePresence>
-        {gameState === "level-complete" && (
+        {gameState === "level-complete" && !isMultiplayer && (
           <motion.div className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/70 backdrop-blur-sm px-4 gap-6"
             initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
             <motion.div initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ type: "spring" }}>
@@ -2367,6 +2691,43 @@ export default function SkyClimbPage() {
           </motion.div>
         )}
       </AnimatePresence>
+
+      {/* Multiplayer: waiting for opponent after I won */}
+      {isMultiplayer && gameState === "level-complete" && multiResult && multiResult.oppScore === -1 && (
+        <motion.div className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-black/80 backdrop-blur-sm gap-5 px-6"
+          initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+          <Mountain size={48} className="text-neon-green" style={{ filter: "drop-shadow(0 0 15px rgba(0,255,136,0.5))" }} />
+          <span className="text-neon-green font-black text-lg">LVL {level} ✓</span>
+          <motion.div className="w-10 h-10 border-2 border-neon-green border-t-transparent rounded-full"
+            animate={{ rotate: 360 }} transition={{ repeat: Infinity, duration: 1, ease: "linear" }} />
+          <span className="text-white/50 text-sm">Waiting for {opponentName}...</span>
+        </motion.div>
+      )}
+
+      {/* Multiplayer: result after both done from level-complete */}
+      {isMultiplayer && gameState === "level-complete" && multiResult && multiResult.oppScore !== -1 && (
+        <MultiplayerResult
+          myScore={multiResult.myScore}
+          oppScore={multiResult.oppScore}
+          myName={getUsername() || "???"}
+          oppName={opponentName}
+          onContinue={() => router.push("/multiplayer")}
+        />
+      )}
+
+      {/* Multiplayer overlays */}
+      {isMultiplayer && matchId && (
+        <>
+          <MultiplayerExitConfirm
+            open={showExitConfirm}
+            onStay={() => setShowExitConfirm(false)}
+            onLeave={() => { abandonMatch(matchId); router.push("/multiplayer"); }}
+          />
+          {gameState === "playing" && (
+            <MultiplayerAbandonNotice matchId={matchId} opponentName={opponentName} />
+          )}
+        </>
+      )}
     </main>
   );
 }

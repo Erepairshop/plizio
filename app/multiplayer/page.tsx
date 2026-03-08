@@ -7,7 +7,7 @@ import {
   Swords, Search, Clock, Trophy, ChevronLeft, Send, X,
   Loader2, Check, XCircle, Gamepad2, Users, Zap, Brain,
   Crosshair, Calculator, Shuffle, Layers, Plus, Minus,
-  Target, Eye, Type, Crown, BookOpen, Grid3x3, Hash,
+  Target, Eye, Type, Crown, BookOpen, Grid3x3, Hash, Mountain,
 } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { getUsername, hasUsername, searchUsernames } from "@/lib/username";
@@ -191,6 +191,7 @@ const GAME_ICONS: Record<GameType, typeof Zap> = {
   deutschtest: Calculator,
   numberpath: Grid3x3,
   minisudoku: Grid3x3,
+  skyclimb: Mountain,
 };
 
 type Tab = "challenge" | "active" | "history";
