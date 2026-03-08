@@ -851,7 +851,7 @@ function QuickPickPage() {
                 animate={{ opacity: [0.15, 0.3, 0.15] }}
                 transition={{ repeat: Infinity, duration: 2 }}
               >
-                TAP
+                {t.tap}
               </motion.div>
             )}
 
@@ -945,7 +945,7 @@ function QuickPickPage() {
           opponentMood={oppMood}
           totalRounds={TOTAL_ROUNDS}
           isVisible={gameState === "playing" || gameState === "reveal"}
-          scoreJustIncreased={oppScore > (oppFinalScore ?? 0)}
+          scoreJustIncreased={false}
         />
       )}
 

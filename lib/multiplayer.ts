@@ -38,15 +38,14 @@ export interface MultiplayerMatch {
 }
 
 export type GameType =
-  | "quickpick" | "memoryflash" | "mathtest" | "wordscramble"
+  | "quickpick" | "memoryflash" | "wordscramble"
   | "reflexrush" | "numberrush" | "spotdiff" | "sequencerush"
-  | "wordhunt" | "milliomos" | "kodex" | "deutschtest"
+  | "wordhunt" | "milliomos" | "kodex"
   | "numberpath" | "minisudoku" | "skyclimb" | "lightout" | "numbermerge" | "nonogram" | "mazerush";
 
 export const GAME_LABELS: Record<GameType, string> = {
   quickpick: "Quick Pick",
   memoryflash: "Memory Flash",
-  mathtest: "Math Test",
   wordscramble: "Word Scramble",
   reflexrush: "Reflex Rush",
   numberrush: "Number Rush",
@@ -55,7 +54,6 @@ export const GAME_LABELS: Record<GameType, string> = {
   wordhunt: "Word Hunt",
   milliomos: "Milliomos",
   kodex: "Kodex",
-  deutschtest: "Deutsch Test",
   numberpath: "Number Path",
   minisudoku: "Mini Sudoku",
   skyclimb: "Sky Climb",

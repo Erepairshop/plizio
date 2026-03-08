@@ -6,7 +6,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import {
   Swords, Search, Clock, Trophy, ChevronLeft, Send, X,
   Loader2, Check, XCircle, Gamepad2, Users, Zap, Brain,
-  Crosshair, Calculator, Shuffle, Layers, Plus, Minus,
+  Crosshair, Shuffle, Layers, Plus, Minus,
   Target, Eye, Type, Crown, BookOpen, Grid3x3, Hash, Mountain, Lightbulb, Merge, Navigation,
 } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
@@ -179,7 +179,6 @@ const T = {
 const GAME_ICONS: Record<GameType, typeof Zap> = {
   quickpick: Zap,
   memoryflash: Brain,
-  mathtest: Calculator,
   wordscramble: Shuffle,
   reflexrush: Target,
   numberrush: Layers,
@@ -188,7 +187,6 @@ const GAME_ICONS: Record<GameType, typeof Zap> = {
   wordhunt: Type,
   milliomos: Crown,
   kodex: BookOpen,
-  deutschtest: Calculator,
   numberpath: Grid3x3,
   minisudoku: Grid3x3,
   skyclimb: Mountain,
