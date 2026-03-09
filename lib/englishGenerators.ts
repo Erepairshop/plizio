@@ -1224,6 +1224,39 @@ export const G5_Generators = {
         }
       }
       return q;
+    },
+    synonyms_antonyms_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const wordData = [
+        { word: "ancient", synonym: "old", antonym: "modern" },
+        { word: "brilliant", synonym: "bright", antonym: "dull" },
+        { word: "humble", synonym: "modest", antonym: "proud" },
+        { word: "scarce", synonym: "rare", antonym: "abundant" },
+        { word: "feeble", synonym: "weak", antonym: "strong" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(5, rng)) {
+          const wordSet = pick(wordData, rng);
+          const isAntonym = rng() > 0.5;
+          if (isAntonym) {
+            const wrong = wordData.filter(w => w.word !== wordSet.word).map(w => w.antonym).slice(0, 3);
+            q.push(createMCQ("vocab_g5", "synonyms_antonyms_g5",
+              `What is the ANTONYM of '${wordSet.word}'?`, wordSet.antonym, wrong));
+          } else {
+            const wrong = wordData.filter(w => w.word !== wordSet.word).map(w => w.synonym).slice(0, 3);
+            q.push(createMCQ("vocab_g5", "synonyms_antonyms_g5",
+              `What is the SYNONYM of '${wordSet.word}'?`, wordSet.synonym, wrong));
+          }
+        } else {
+          const wordSet = pick(wordData, rng);
+          const isAntonym = rng() > 0.5;
+          q.push(createTyping("vocab_g5", "synonyms_antonyms_g5",
+            `Name a ${isAntonym ? "antonym" : "synonym"} of '${wordSet.word}':`,
+            isAntonym ? wordSet.antonym : wordSet.synonym));
+        }
+      }
+      return q;
     }
   },
   grammar_g5: {
