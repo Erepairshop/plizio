@@ -104,7 +104,7 @@ export default function SchoolTaskBlock({
       case 'timeline':
         return <TimelineDuration startHour={p.startHour} endHour={p.endHour} events={p.events} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       case 'number-line':
-        return <NumberLineRounding min={p.min} max={p.max} target={p.target} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+        return <NumberLineRounding min={p.min} max={p.max} target={p.target} language={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
       case 'angle':
         return <AngleDrawer targetAngle={p.targetAngle} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       case 'circle-draw':

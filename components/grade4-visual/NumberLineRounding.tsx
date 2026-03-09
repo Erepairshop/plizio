@@ -149,8 +149,8 @@ const NumberLineRounding: React.FC<NumberLineRoundingProps> = ({
       </div>
 
       {/* Number line SVG */}
-      <div className="px-4 pb-4">
-        <svg viewBox={`0 0 ${W} 130`} className="w-full" style={{ maxHeight: 150 }}>
+      <div className="px-4 pb-4 overflow-x-auto">
+        <svg viewBox={`0 0 ${W} 130`} className="w-full h-auto" style={{ minWidth: 350, minHeight: 140 }}>
           {/* Main line */}
           <line x1={PAD - 10} y1={lineY} x2={W - PAD + 10} y2={lineY}
             stroke="#64748b" strokeWidth={3} strokeLinecap="round" />
