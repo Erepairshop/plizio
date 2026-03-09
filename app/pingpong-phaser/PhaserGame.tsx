@@ -57,6 +57,7 @@ class PingPongScene extends Phaser.Scene {
   // Trail & impact effects
   private trailGfx!: Phaser.GameObjects.Graphics;
   private impactGfx!: Phaser.GameObjects.Graphics;
+  private ballShadowGfx!: Phaser.GameObjects.Graphics;
   private trailPositions: { x: number; y: number }[] = [];
   private impacts: { x: number; y: number; age: number; color: number }[] = [];
   private readonly TRAIL_LEN = 8;
@@ -75,7 +76,7 @@ class PingPongScene extends Phaser.Scene {
   preload() {
     const g = this.make.graphics({ x: 0, y: 0 });
 
-    // Ball
+    // Ball with improved glow
     g.fillStyle(0xffffff);
     g.fillCircle(12, 12, 12);
     g.fillStyle(0xdddddd, 0.35);
@@ -83,7 +84,7 @@ class PingPongScene extends Phaser.Scene {
     g.generateTexture("ball", 24, 24);
     g.clear();
 
-    // Player paddle (red, circle center at 22,22)
+    // Player paddle (red) with dot texture pattern
     g.fillStyle(0x5a1a1a);
     g.fillCircle(22, 22, 22);
     g.fillStyle(0xcc1515);
@@ -92,6 +93,13 @@ class PingPongScene extends Phaser.Scene {
     g.fillCircle(22, 22, 12);
     g.fillStyle(0xffffff, 0.22);
     g.fillCircle(16, 16, 8);
+    // Dot texture pattern on rubber surface
+    g.fillStyle(0x8b1515, 0.4);
+    for (let i = 0; i < 5; i++) {
+      for (let j = 0; j < 4; j++) {
+        g.fillCircle(8 + i * 3, 10 + j * 3, 0.8);
+      }
+    }
     g.fillStyle(0x8b6340);
     g.fillRoundedRect(17, 42, 10, 20, 3);
     g.fillStyle(0xa07850, 0.7);
@@ -99,7 +107,7 @@ class PingPongScene extends Phaser.Scene {
     g.generateTexture("playerPaddle", 44, 64);
     g.clear();
 
-    // AI paddle (blue, circle center at 22,40)
+    // AI paddle (blue) with dot texture pattern
     g.fillStyle(0x0d2d55);
     g.fillCircle(22, 40, 22);
     g.fillStyle(0x1060cc);
@@ -108,6 +116,13 @@ class PingPongScene extends Phaser.Scene {
     g.fillCircle(22, 40, 12);
     g.fillStyle(0xffffff, 0.22);
     g.fillCircle(16, 34, 8);
+    // Dot texture pattern on rubber surface
+    g.fillStyle(0x0d4d88, 0.4);
+    for (let i = 0; i < 5; i++) {
+      for (let j = 0; j < 4; j++) {
+        g.fillCircle(8 + i * 3, 30 + j * 3, 0.8);
+      }
+    }
     g.fillStyle(0x8b6340);
     g.fillRoundedRect(17, 2, 10, 20, 3);
     g.fillStyle(0xa07850, 0.7);
@@ -115,10 +130,16 @@ class PingPongScene extends Phaser.Scene {
     g.generateTexture("aiPaddle", 44, 64);
     g.clear();
 
-    // Particle dot
+    // Particle dot (improved for sparks)
     g.fillStyle(0xffffff);
     g.fillCircle(4, 4, 4);
     g.generateTexture("particle", 8, 8);
+    g.clear();
+
+    // Spark particle (bright yellow/white)
+    g.fillStyle(0xffff99);
+    g.fillCircle(3, 3, 3);
+    g.generateTexture("spark", 6, 6);
     g.destroy();
   }
 
@@ -131,13 +152,38 @@ class PingPongScene extends Phaser.Scene {
     const tL = (W - tW) / 2;
     const tT = (H - tH) / 2;
 
-    // Background & table — NO border line (bug fix: remove strokeRect)
+    // Background
     this.add.rectangle(W / 2, H / 2, W, H, 0x0a0a1a);
-    this.add.rectangle(W / 2, H / 2, tW, tH, 0x0e2d1e).setAlpha(0.95);
 
-    // Center line & net marker
-    this.add.rectangle(W / 2, H / 2, tW, 2, 0x00ff88).setAlpha(0.35);
+    // Table with gradient (lighter top, darker bottom green)
+    const tableGradient = this.add.graphics();
+    tableGradient.fillStyle(0x0d3a24, 1.0);
+    tableGradient.fillRect(tL, tT, tW, tH / 2);
+    tableGradient.fillStyle(0x081c14, 1.0);
+    tableGradient.fillRect(tL, tT + tH / 2, tW, tH / 2);
+
+    // Subtle table texture (very faint noise pattern)
+    const textureGfx = this.add.graphics();
+    textureGfx.fillStyle(0x000000, 0.03);
+    for (let i = 0; i < 80; i++) {
+      const rx = Phaser.Math.Between(Math.floor(tL), Math.floor(tL + tW));
+      const ry = Phaser.Math.Between(Math.floor(tT), Math.floor(tT + tH));
+      const rw = Phaser.Math.Between(2, 6);
+      textureGfx.fillRect(rx, ry, rw, rw);
+    }
+
+    // Center line with glow effect
+    const centerLineGlow = this.add.graphics();
+    centerLineGlow.fillStyle(0x00ff88, 0.08);
+    centerLineGlow.fillRect(W / 2 - 3, tT, 6, tH);
+    centerLineGlow.fillStyle(0x00ff88, 0.12);
+    centerLineGlow.fillRect(W / 2 - 1, tT, 2, tH);
+
+    // Net marker with shadow
     this.add.rectangle(W / 2, H / 2, 4, tH * 0.06, 0xffffff).setAlpha(0.9);
+    const netShadow = this.add.graphics();
+    netShadow.fillStyle(0x000000, 0.15);
+    netShadow.fillRect(W / 2 - 2, H / 2 + 2, 4, tH * 0.08);
 
     // Very faint lane lines (no outer border)
     const lg = this.add.graphics();
@@ -145,25 +191,57 @@ class PingPongScene extends Phaser.Scene {
     lg.lineBetween(tL + tW * 0.333, tT, tL + tW * 0.333, tT + tH);
     lg.lineBetween(tL + tW * 0.667, tT, tL + tW * 0.667, tT + tH);
 
+    // Soft vignette effect (darker edges)
+    const vignetteGfx = this.add.graphics();
+    vignetteGfx.fillStyle(0x000000, 0);
+    vignetteGfx.fillRect(0, 0, W, H);
+    vignetteGfx.setDepth(5);
+    // Create radial vignette mask effect
+    const vignetteGraphics = this.make.graphics({ x: W / 2, y: H / 2 });
+    vignetteGraphics.fillStyle(0x000000, 0.2);
+    vignetteGraphics.fillCircle(0, 0, Math.min(W, H) * 0.4);
+
+    // Ball shadow (will be updated in update loop)
+    this.ballShadowGfx = this.add.graphics();
+
     // Effect layers (below ball)
     this.trailGfx = this.add.graphics();
     this.impactGfx = this.add.graphics();
 
     // Paddles — scale so visual radius = PADDLE_R
     const SCALE = this.PADDLE_R / 20;
+
+    // Paddle shadows (soft ellipse under paddles)
+    const playerShadow = this.add.graphics();
+    playerShadow.fillStyle(0x000000, 0.25);
+    playerShadow.fillEllipse(W / 2, tT + tH * 0.86, 32, 8);
+    playerShadow.setDepth(4);
+
+    const aiShadow = this.add.graphics();
+    aiShadow.fillStyle(0x000000, 0.25);
+    aiShadow.fillEllipse(W / 2, tT + tH * 0.14, 32, 8);
+    aiShadow.setDepth(4);
+
     this.player = this.add.image(W / 2, tT + tH * 0.84, "playerPaddle")
       .setOrigin(0.5, 22 / 64)
-      .setScale(SCALE);
+      .setScale(SCALE)
+      .setDepth(15);
     this.ai = this.add.image(W / 2, tT + tH * 0.16, "aiPaddle")
       .setOrigin(0.5, 40 / 64)
-      .setScale(SCALE);
+      .setScale(SCALE)
+      .setDepth(15);
+
+    // Ball glow effect (subtle halo)
+    const ballGlowGfx = this.add.graphics();
+    ballGlowGfx.setDepth(8);
 
     // Ball
     this.ball = this.physics.add.image(W / 2, H / 2, "ball");
     this.ball.setCircle(12);
     this.ball.setBounce(1, 1);
     this.ball.setCollideWorldBounds(false);
-    this.ball.setDepth(10);
+    this.ball.setDepth(11);
+    this.ball.setTint(0xffffff);
 
     // Particles
     this.particles = this.add.particles(0, 0, "particle", {
@@ -175,12 +253,19 @@ class PingPongScene extends Phaser.Scene {
     });
     this.particles.setDepth(20);
 
-    // Score
-    this.scoreTxt = this.add.text(W / 2, tT - 28, "0 : 0", {
-      fontSize: "22px",
+    // Modern scoreboard with player colors (minimalist large numbers)
+    this.scoreTxt = this.add.text(W / 2, tT - 35, "0 : 0", {
+      fontSize: "48px",
       fontFamily: "monospace",
       color: "#ffffff",
-    }).setOrigin(0.5).setDepth(30);
+      fontStyle: "bold",
+    }).setOrigin(0.5).setDepth(30).setLetterSpacing(8);
+
+    // Scoreboard background (subtle)
+    const scoreboardBg = this.add.graphics();
+    scoreboardBg.fillStyle(0x000000, 0.2);
+    scoreboardBg.fillRoundedRect(W / 2 - 100, tT - 55, 200, 40, 8);
+    scoreboardBg.setDepth(29);
 
     // Feature 3: tap-to-serve hint text
     this.serveTxt = this.add.text(W / 2, H / 2, "TAP  /  SPACE", {
@@ -276,11 +361,26 @@ class PingPongScene extends Phaser.Scene {
     this.applyVelocity(vx, vy);
   }
 
-  // Feature 7: Hit feedback
+  // Feature 7: Hit feedback with sparks
   private onHit(x: number, y: number, color: number) {
     this.particles.setPosition(x, y);
     this.particles.setParticleTint(color);
     this.particles.explode(10);
+
+    // Hit spark effect (brief bright flash)
+    const sparkEmitter = this.add.particles(0, 0, "spark", {
+      speed: { min: 100, max: 250 },
+      scale: { start: 1.2, end: 0 },
+      lifespan: 250,
+      quantity: 8,
+      emitting: false,
+    });
+    sparkEmitter.setPosition(x, y);
+    sparkEmitter.setParticleTint(0xffff99);
+    sparkEmitter.explode(8);
+    sparkEmitter.setDepth(12);
+    this.time.delayedCall(300, () => sparkEmitter.destroy());
+
     this.impacts.push({ x, y, age: 0, color });
     // Feature 7: reduced shake (was 0.006 / 70ms → 0.003 / 50ms to prevent jitter feel)
     this.cameras.main.shake(50, 0.003);
@@ -354,6 +454,22 @@ class PingPongScene extends Phaser.Scene {
     if (this.waitingForServe && Phaser.Input.Keyboard.JustDown(this.spaceKey)) {
       this.launchBall();
     }
+
+    // ─── Ball glow effect ─────────────────────────────────────────────
+    const ballGlowCanvas = this.make.graphics({ x: this.ball.x, y: this.ball.y });
+    ballGlowCanvas.fillStyle(0xffffff, 0.08);
+    ballGlowCanvas.fillCircle(0, 0, 20);
+    ballGlowCanvas.fillStyle(0xffffff, 0.04);
+    ballGlowCanvas.fillCircle(0, 0, 28);
+    ballGlowCanvas.setDepth(9);
+
+    // ─── Ball shadow on table ─────────────────────────────────────────
+    const tableY = tT + tH;
+    const shadowScale = Math.max(0.3, 1 - Math.abs(this.ball.y - tableY) / 150);
+    this.ballShadowGfx.clear();
+    this.ballShadowGfx.fillStyle(0x000000, 0.2 * shadowScale);
+    this.ballShadowGfx.fillEllipse(this.ball.x, tableY - 2, 16 * shadowScale, 6 * shadowScale);
+    this.ballShadowGfx.setDepth(5);
 
     // ─── Trail ───────────────────────────────────────────────────────
     if (!this.serving && !this.waitingForServe) {
@@ -510,6 +626,23 @@ class PingPongScene extends Phaser.Scene {
 
         this.hitCooldown = this.HIT_COOLDOWN_MS;
         this.onHit(bx, by, 0xcc1515);
+
+        // Paddle hit animation (grows 5-10% briefly)
+        const origScale = this.player.scale;
+        this.tweens.add({
+          targets: this.player,
+          scale: origScale * 1.08,
+          duration: 80,
+          ease: "Quad.Out",
+          onComplete: () => {
+            this.tweens.add({
+              targets: this.player,
+              scale: origScale,
+              duration: 100,
+              ease: "Quad.In",
+            });
+          },
+        });
       }
     }
 
@@ -549,6 +682,23 @@ class PingPongScene extends Phaser.Scene {
 
         this.hitCooldown = this.HIT_COOLDOWN_MS;
         this.onHit(bx, by, 0x2080e8);
+
+        // Paddle hit animation (grows 5-10% briefly)
+        const origScaleAI = this.ai.scale;
+        this.tweens.add({
+          targets: this.ai,
+          scale: origScaleAI * 1.08,
+          duration: 80,
+          ease: "Quad.Out",
+          onComplete: () => {
+            this.tweens.add({
+              targets: this.ai,
+              scale: origScaleAI,
+              duration: 100,
+              ease: "Quad.In",
+            });
+          },
+        });
       }
     }
 
