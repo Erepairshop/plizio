@@ -112,8 +112,17 @@ const T = {
 
 // ─── Game Constants ──────────────────────────────────────────
 const WIN_SCORE = 11;
-const BALL_RADIUS = 10;
+const BALL_RADIUS = 13;
 const SERVE_DELAY = 800;
+const GRAVITY = 0.0007;
+const VZ_SERVE = 0.013;
+const BOUNCE_DAMP = 0.62;
+const PLAYER_Y_MIN = 0.55;
+const PLAYER_Y_MAX = 0.95;
+const AI_Y_MIN = 0.05;
+const AI_Y_MAX = 0.45;
+const PLAYER_Y_DEFAULT = 0.88;
+const AI_Y_DEFAULT = 0.12;
 
 // AI difficulty settings
 const AI_CONFIG = {
@@ -161,6 +170,9 @@ interface Ball {
   vx: number; vy: number;
   speed: number;
   curveForce: number; // for curve powerup
+  z: number;          // height above table (0 = on table)
+  vz: number;         // vertical velocity upward
+  lastHitter: "player" | "ai" | null;
 }
 
 // ─── Main Component ──────────────────────────────────────────
@@ -430,8 +442,8 @@ function PingPongPage() {
     // ─── Table layout ───
     const tbl = () => {
       const w = W(), h = H();
-      const maxTH = h * 0.76;
-      const maxTW = w * 0.82;
+      const maxTH = h * 0.70;
+      const maxTW = w * 0.74;
       let tW = maxTW;
       let tH = maxTH;
       if (tW > tH * 0.56) tW = tH * 0.56;
@@ -446,9 +458,12 @@ function PingPongPage() {
     // Game state
     const game: GameState = {
       playerX: 0.5,
+      playerY: PLAYER_Y_DEFAULT,
       aiX: 0.5,
+      aiY: AI_Y_DEFAULT,
       aiTargetX: 0.5,
-      balls: [{ x: 0.5, y: 0.5, vx: 0, vy: 0, speed: 0, curveForce: 0 }],
+      aiTargetY: AI_Y_DEFAULT,
+      balls: [{ x: 0.5, y: 0.5, vx: 0, vy: 0, speed: 0, curveForce: 0, z: 0, vz: 0, lastHitter: null }],
       serving: true,
       serveTimer: 0,
       playerServes: true,
@@ -456,6 +471,7 @@ function PingPongPage() {
       particles: [],
       gameOver: false,
       lastHitTime: 0,
+      bounceRipples: [],
       // Powerup state
       powerup: null,
       activePowerup: null,
@@ -466,13 +482,11 @@ function PingPongPage() {
     };
     gameRef.current = game;
 
-    const PADDLE_Y_PLAYER = 1.05;
-    const PADDLE_Y_AI = -0.05;
     const PADDLE_R = 0.045;
 
     // Reset ball for serve
     const resetBall = (playerServes: boolean) => {
-      game.balls = [{ x: 0.5, y: playerServes ? 0.78 : 0.22, vx: 0, vy: 0, speed: 0, curveForce: 0 }];
+      game.balls = [{ x: 0.5, y: playerServes ? 0.78 : 0.22, vx: 0, vy: 0, speed: 0, curveForce: 0, z: 0, vz: 0, lastHitter: null }];
       game.serving = true;
       game.serveTimer = Date.now();
       game.playerServes = playerServes;
@@ -480,12 +494,14 @@ function PingPongPage() {
     };
 
     const launchBall = () => {
-      const baseSpeed = 0.006 + (difficulty === "hard" ? 0.002 : difficulty === "medium" ? 0.001 : 0);
+      const baseSpeed = 0.009 + (difficulty === "hard" ? 0.003 : difficulty === "medium" ? 0.0015 : 0);
       const ball = game.balls[0];
       ball.speed = baseSpeed;
       const angle = (Math.random() - 0.5) * 0.6;
       ball.vx = Math.sin(angle) * ball.speed;
       ball.vy = game.playerServes ? -ball.speed * Math.cos(angle) : ball.speed * Math.cos(angle);
+      ball.vz = VZ_SERVE;
+      ball.z = 0;
       game.serving = false;
     };
 
@@ -570,6 +586,9 @@ function PingPongPage() {
           vy: b.vy,
           speed: b.speed,
           curveForce: 0,
+          z: b.z,
+          vz: b.vz,
+          lastHitter: b.lastHitter,
         });
       } else if (pu.type === "bigpaddle") {
         if (hitBy === "player") game.playerPaddleScale = 1.8;
@@ -583,12 +602,17 @@ function PingPongPage() {
 
     // Player input
     let playerTargetX = 0.5;
+    let playerTargetY = PLAYER_Y_DEFAULT;
     const handlePointer = (e: PointerEvent | TouchEvent) => {
       const rect = canvas.getBoundingClientRect();
       const clientX = "touches" in e ? e.touches[0]?.clientX ?? 0 : (e as PointerEvent).clientX;
-      const { tL, tW } = tbl();
+      const clientY = "touches" in e ? e.touches[0]?.clientY ?? 0 : (e as PointerEvent).clientY;
+      const { tL, tW, tT, tH } = tbl();
       const canvasX = (clientX - rect.left) / rect.width * W();
+      const canvasY = (clientY - rect.top) / rect.height * H();
       playerTargetX = Math.max(PADDLE_R + 0.01, Math.min(1 - PADDLE_R - 0.01, (canvasX - tL) / tW));
+      const rawY = (canvasY - tT) / tH;
+      playerTargetY = Math.max(PLAYER_Y_MIN, Math.min(PLAYER_Y_MAX, rawY));
     };
     canvas.addEventListener("pointermove", handlePointer);
     canvas.addEventListener("pointerdown", handlePointer);
@@ -619,10 +643,14 @@ function PingPongPage() {
       // Keyboard
       if (keys.has("ArrowLeft") || keys.has("a")) playerTargetX = Math.max(PADDLE_R + 0.01, playerTargetX - 0.02 * dt);
       if (keys.has("ArrowRight") || keys.has("d")) playerTargetX = Math.min(1 - PADDLE_R - 0.01, playerTargetX + 0.02 * dt);
+      if (keys.has("ArrowUp") || keys.has("w")) playerTargetY = Math.max(PLAYER_Y_MIN, playerTargetY - 0.015 * dt);
+      if (keys.has("ArrowDown") || keys.has("s")) playerTargetY = Math.min(PLAYER_Y_MAX, playerTargetY + 0.015 * dt);
 
       // Smooth player paddle
       game.playerX += (playerTargetX - game.playerX) * Math.min(1, 0.25 * dt);
       game.playerX = Math.max(PADDLE_R + 0.01, Math.min(1 - PADDLE_R - 0.01, game.playerX));
+      game.playerY += (playerTargetY - game.playerY) * Math.min(1, 0.25 * dt);
+      game.playerY = Math.max(PLAYER_Y_MIN, Math.min(PLAYER_Y_MAX, game.playerY));
 
       // AI logic (solo) or opponent paddle (multi)
       if (isMultiplayer) {
@@ -631,13 +659,22 @@ function PingPongPage() {
       } else {
         if (!game.serving || !game.playerServes) {
           const predictedX = game.balls[0].vy < 0
-            ? game.balls[0].x + game.balls[0].vx * ((game.balls[0].y - PADDLE_Y_AI) / Math.max(0.001, -game.balls[0].vy))
+            ? game.balls[0].x + game.balls[0].vx * ((game.balls[0].y - game.aiY) / Math.max(0.001, -game.balls[0].vy))
               + (Math.random() - 0.5) * ai.predictError / tW
             : game.balls[0].x;
           const targetX = Math.max(PADDLE_R + 0.01, Math.min(1 - PADDLE_R - 0.01, predictedX + (Math.random() - 0.5) * ai.errorRange));
           game.aiTargetX += (targetX - game.aiTargetX) * ai.reactionDelay * dt;
           game.aiX += (game.aiTargetX - game.aiX) * ai.speed * dt;
           game.aiX = Math.max(PADDLE_R + 0.01, Math.min(1 - PADDLE_R - 0.01, game.aiX));
+          // Y movement: track ball Y when ball is in AI's half
+          if (game.balls[0].vy < 0) {
+            const targetY = Math.max(AI_Y_MIN, Math.min(AI_Y_MAX, game.balls[0].y + (Math.random() - 0.5) * ai.errorRange));
+            game.aiTargetY += (targetY - game.aiTargetY) * ai.reactionDelay * dt;
+          } else {
+            game.aiTargetY += (AI_Y_DEFAULT - game.aiTargetY) * 0.02 * dt;
+          }
+          game.aiY += (game.aiTargetY - game.aiY) * ai.speed * dt;
+          game.aiY = Math.max(AI_Y_MIN, Math.min(AI_Y_MAX, game.aiY));
         }
       }
 
@@ -671,7 +708,7 @@ function PingPongPage() {
         if (game.activePowerup && Date.now() - game.activePowerup.activatedAt > game.activePowerup.duration) {
           // Remove effects
           if (game.activePowerup.type === "speed") {
-            const baseSpeed = 0.006 + (difficulty === "hard" ? 0.002 : difficulty === "medium" ? 0.001 : 0);
+            const baseSpeed = 0.009 + (difficulty === "hard" ? 0.003 : difficulty === "medium" ? 0.0015 : 0);
             for (const ball of game.balls) {
               const dir = Math.atan2(ball.vy, ball.vx);
               ball.speed = Math.max(baseSpeed, ball.speed * 0.65);
@@ -705,27 +742,49 @@ function PingPongPage() {
           ball.x += ball.vx * dt;
           ball.y += ball.vy * dt;
 
+          // Z physics — ball height above table
+          ball.vz -= GRAVITY * dt;
+          ball.z += ball.vz * dt;
+          if (ball.z <= 0 && ball.vz < 0) {
+            ball.z = 0;
+            ball.vz = Math.abs(ball.vz) * BOUNCE_DAMP;
+            // Create ripple on table if ball is within table bounds
+            if (ball.x >= 0 && ball.x <= 1 && ball.y >= 0 && ball.y <= 1) {
+              game.bounceRipples.push({ x: ball.x, y: ball.y, age: 0 });
+            }
+          }
+
           // Curve effect
           if (ball.curveForce !== 0) {
             ball.vx += ball.curveForce * dt;
           }
 
-          // Wall bounce
-          if (ball.x < ballR) { ball.x = ballR; ball.vx = Math.abs(ball.vx); }
-          if (ball.x > 1 - ballR) { ball.x = 1 - ballR; ball.vx = -Math.abs(ball.vx); }
+          // Side exit — no wall bounce, ball can leave the table from the sides
+          if (ball.x < -ballR || ball.x > 1 + ballR) {
+            if (bi === 0) {
+              // The player who last hit it loses the point (hit it wide)
+              scorePoint(ball.lastHitter === "ai"); // if AI hit it out, player scores
+            } else {
+              ballsToRemove.push(bi);
+            }
+            continue;
+          }
 
           // Player paddle collision
           {
             const dx = ball.x - game.playerX;
-            const dy = ball.y - PADDLE_Y_PLAYER;
+            const dy = ball.y - game.playerY;
             const dist = Math.sqrt(dx * dx + dy * dy);
             if (ball.vy > 0 && dist <= playerR + ballR) {
               const hitPos = dx / playerR;
               const angle = hitPos * 0.7;
-              ball.speed = Math.min(ball.speed * 1.04, 0.016);
+              ball.speed = Math.min(ball.speed * 1.04, 0.022);
               ball.vx = Math.sin(angle) * ball.speed;
               ball.vy = -Math.cos(angle) * ball.speed;
-              ball.y = PADDLE_Y_PLAYER - playerR - ballRY;
+              ball.y = game.playerY - playerR - ballRY;
+              ball.vz = VZ_SERVE;
+              ball.z = Math.max(ball.z, 0);
+              ball.lastHitter = "player";
               game.rallyCount++;
             }
           }
@@ -733,15 +792,18 @@ function PingPongPage() {
           // AI paddle collision
           {
             const dx = ball.x - game.aiX;
-            const dy = ball.y - PADDLE_Y_AI;
+            const dy = ball.y - game.aiY;
             const dist = Math.sqrt(dx * dx + dy * dy);
             if (ball.vy < 0 && dist <= aiR + ballR) {
               const hitPos = dx / aiR;
               const angle = hitPos * 0.7;
-              ball.speed = Math.min(ball.speed * 1.04, 0.016);
+              ball.speed = Math.min(ball.speed * 1.04, 0.022);
               ball.vx = Math.sin(angle) * ball.speed;
               ball.vy = Math.cos(angle) * ball.speed;
-              ball.y = PADDLE_Y_AI + aiR + ballRY;
+              ball.y = game.aiY + aiR + ballRY;
+              ball.vz = VZ_SERVE;
+              ball.z = Math.max(ball.z, 0);
+              ball.lastHitter = "ai";
               game.rallyCount++;
             }
           }
@@ -752,15 +814,12 @@ function PingPongPage() {
             const pdy = ball.y - game.powerup.y;
             const pdist = Math.sqrt(pdx * pdx + pdy * pdy);
             if (pdist < 0.04 + ballR) {
-              const hitBy = ball.vy > 0 ? "ai" : "player"; // ball moving down = last hit by AI
-              // Actually: if ball going down → player will catch it → "player" perspective
-              // Simplify: whoever's half the ball is closer to
               const whoActivated = ball.y > 0.5 ? "player" : "ai";
               activatePowerup(game.powerup, whoActivated);
             }
           }
 
-          // Score — ball exits past paddles
+          // Score — ball exits past table ends
           if (ball.y < -0.15) {
             if (bi === 0) scorePoint(true);
             else ballsToRemove.push(bi);
@@ -770,6 +829,10 @@ function PingPongPage() {
             else ballsToRemove.push(bi);
           }
         }
+
+        // Advance ripple ages and cull old ones
+        for (const r of game.bounceRipples) r.age += dt;
+        game.bounceRipples = game.bounceRipples.filter(r => r.age < 22);
 
         // Remove extra balls that went off screen
         for (let i = ballsToRemove.length - 1; i >= 0; i--) {
@@ -849,6 +912,30 @@ function PingPongPage() {
       // ─── Helper: norm to pixel ───
       const toX = (nx: number) => tL + nx * tW;
       const toY = (ny: number) => tT + ny * tH;
+
+      // ─── Bounce ripples on table surface ───
+      for (const ripple of game.bounceRipples) {
+        const rx = toX(ripple.x);
+        const ry = toY(ripple.y);
+        const maxAge = 22;
+        const progress = Math.min(1, ripple.age / maxAge);
+        // Flash at impact point
+        if (ripple.age < 5) {
+          const flashAlpha = (1 - ripple.age / 5) * 0.55;
+          ctx.fillStyle = `rgba(255,255,210,${flashAlpha})`;
+          ctx.beginPath();
+          ctx.arc(rx, ry, tW * 0.022, 0, Math.PI * 2);
+          ctx.fill();
+        }
+        // Expanding flat ring (ellipse = perspective on table)
+        const ringAlpha = Math.max(0, (1 - progress) * 0.40);
+        const ripR = tW * 0.08 * progress;
+        ctx.strokeStyle = `rgba(255,255,255,${ringAlpha})`;
+        ctx.lineWidth = Math.max(0.5, 2.5 * (1 - progress));
+        ctx.beginPath();
+        ctx.ellipse(rx, ry, ripR, ripR * 0.30, 0, 0, Math.PI * 2);
+        ctx.stroke();
+      }
 
       // ─── Draw Powerup Icon on table ───
       if (game.powerup && !game.powerup.active) {
@@ -952,27 +1039,39 @@ function PingPongPage() {
       };
 
       // Player paddle (bottom, red)
-      drawPaddle(game.playerX, PADDLE_Y_PLAYER, "#E02020", "#A01515", "#6B4530", true, game.playerPaddleScale);
+      drawPaddle(game.playerX, game.playerY, "#E02020", "#A01515", "#6B4530", true, game.playerPaddleScale);
       // AI/opponent paddle (top, blue)
-      drawPaddle(game.aiX, PADDLE_Y_AI, "#2090D0", "#1568A0", "#6B4530", false, game.aiPaddleScale);
+      drawPaddle(game.aiX, game.aiY, "#2090D0", "#1568A0", "#6B4530", false, game.aiPaddleScale);
 
       // ─── Balls ───
       if (!game.gameOver) {
         for (const ball of game.balls) {
           const bx = toX(ball.x);
           const by = toY(ball.y);
-          const br = BALL_RADIUS;
+          // Ball appears larger when higher (top-down: closer to camera)
+          const zScale = 1 + ball.z * 1.3;
+          const br = BALL_RADIUS * zScale;
+          // Shadow offset grows with height
+          const shadowOffX = ball.z * 22;
+          const shadowOffY = ball.z * 12;
+          const shadowAlpha = Math.max(0.05, 0.18 - ball.z * 0.14);
 
-          // Ball shadow
-          ctx.fillStyle = "rgba(0,0,0,0.12)";
+          // Ball shadow on table (offset + spread by height)
+          ctx.fillStyle = `rgba(0,0,0,${shadowAlpha})`;
           ctx.beginPath();
-          ctx.ellipse(bx + 1.5, by + 2, br + 1, br * 0.7, 0, 0, Math.PI * 2);
+          ctx.ellipse(
+            bx + shadowOffX + 1.5,
+            by + shadowOffY + 2,
+            (BALL_RADIUS + 2) * (1 + ball.z * 0.6),
+            (BALL_RADIUS * 0.65) * (1 + ball.z * 0.4),
+            0, 0, Math.PI * 2
+          );
           ctx.fill();
 
           // Ball body
-          const ballGrad = ctx.createRadialGradient(bx - 2, by - 2, 0, bx, by, br);
+          const ballGrad = ctx.createRadialGradient(bx - br * 0.2, by - br * 0.2, 0, bx, by, br);
           ballGrad.addColorStop(0, "#FFFFFF");
-          ballGrad.addColorStop(0.8, "#F0F0F0");
+          ballGrad.addColorStop(0.75, "#F0F0F0");
           ballGrad.addColorStop(1, "#D0D0D0");
           ctx.fillStyle = ballGrad;
           ctx.beginPath();
@@ -987,7 +1086,7 @@ function PingPongPage() {
           // Shine
           ctx.fillStyle = "rgba(255,255,255,0.6)";
           ctx.beginPath();
-          ctx.arc(bx - br * 0.25, by - br * 0.25, br * 0.3, 0, Math.PI * 2);
+          ctx.arc(bx - br * 0.25, by - br * 0.25, br * 0.28, 0, Math.PI * 2);
           ctx.fill();
 
           // Speed trail effect
@@ -1374,8 +1473,11 @@ function PingPongPage() {
 // ─── Game State Type ─────────────────────────────────────────
 interface GameState {
   playerX: number;
+  playerY: number;
   aiX: number;
+  aiY: number;
   aiTargetX: number;
+  aiTargetY: number;
   balls: Ball[];
   serving: boolean;
   serveTimer: number;
@@ -1384,6 +1486,7 @@ interface GameState {
   particles: Particle[];
   gameOver: boolean;
   lastHitTime: number;
+  bounceRipples: Array<{ x: number; y: number; age: number }>;
   // Powerup
   powerup: Powerup | null;
   activePowerup: Powerup | null;
