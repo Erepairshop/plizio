@@ -1929,7 +1929,7 @@ export function qG1Wochentage(i: number, countryCode: string): { question: strin
   };
   const dayList = days[lang];
   const day = dayList[i];
-  const nextDay = dayList[i + 1];
+  const nextDay = dayList[(i + 1) % 7];
   let question: string;
   switch (lang) {
     case "DE": question = `Welcher Tag kommt nach ${day}?`; break;

@@ -402,7 +402,7 @@ const G1: Record<string, Generator> = {
     return q(qLaenger(a, b, cc), b, t("g1Laenger", cc));
   },
   wochentage: (cc) => {
-    const i = randInt(0, 5);
+    const i = randInt(0, 6);
     const { question, answer } = qG1Wochentage(i, cc);
     return qs(question, answer, t("g1Wochentage", cc));
   },
