@@ -1991,14 +1991,14 @@ export function qG1WeightB(a: number, b: number, countryCode: string): string {
   }
 }
 
-// Weight comparison — variant C: how much heavier
+/// Weight comparison — variant C: named objects, how many kg is the heavier one
 export function qG1WeightC(a: number, b: number, countryCode: string): string {
   const lang = getLang(countryCode);
   switch (lang) {
-    case "DE": return `Der Rucksack wiegt ${b} kg, die Tasche ${a} kg. Wie viel schwerer ist der Rucksack?`;
-    case "EN": return `The backpack weighs ${b} kg, the bag weighs ${a} kg. How much heavier is the backpack?`;
-    case "RO": return `Rucsacul cântărește ${b} kg, geanta ${a} kg. Cu cât este mai greu rucsacul?`;
-    default:   return `A hátizsák ${b} kg, a táska ${a} kg. Mennyivel nehezebb a hátizsák?`;
+    case "DE": return `Der Rucksack wiegt ${b} kg, die Tasche ${a} kg. Wie viele kg wiegt das schwerere Objekt?`;
+    case "EN": return `The backpack weighs ${b} kg, the bag weighs ${a} kg. How many kg does the heavier object weigh?`;
+    case "RO": return `Rucsacul cântărește ${b} kg, geanta ${a} kg. Câte kg cântărește obiectul mai greu?`;
+    default:   return `A hátizsák ${b} kg, a táska ${a} kg. Hány kg a nehezebb tárgy?`;
   }
 }
 
@@ -2013,14 +2013,14 @@ export function qG1VolumeB(a: number, b: number, countryCode: string): string {
   }
 }
 
-// Volume comparison — variant C: how much more
+/// Volume comparison — variant C: named containers, how many litres in the fuller one
 export function qG1VolumeC(a: number, b: number, countryCode: string): string {
   const lang = getLang(countryCode);
   switch (lang) {
-    case "DE": return `Krug A hat ${b} l, Krug B hat ${a} l. Wie viele Liter mehr hat Krug A?`;
-    case "EN": return `Jug A has ${b} l, Jug B has ${a} l. How many more litres does Jug A have?`;
-    case "RO": return `Ulciorul A are ${b} l, ulciorul B are ${a} l. Cu câți litri mai mult are A?`;
-    default:   return `A korsóban ${b} l, B korsóban ${a} l van. Mennyivel több van A-ban?`;
+    case "DE": return `Eimer A hat ${b} l Wasser, Eimer B hat ${a} l. Wie viele Liter hat der vollere Eimer?`;
+    case "EN": return `Bucket A has ${b} l of water, Bucket B has ${a} l. How many litres does the fuller bucket have?`;
+    case "RO": return `Găleata A are ${b} l de apă, găleata B are ${a} l. Câți litri are găleata mai plină?`;
+    default:   return `Az A vödörben ${b} l víz van, a B vödörben ${a} l. Hány liter van a teltebbikben?`;
   }
 }
 

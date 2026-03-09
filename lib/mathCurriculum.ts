@@ -436,14 +436,14 @@ const G1: Record<string, Generator> = {
     const a = randInt(1, 12), b = a + randInt(1, 8);
     const v = Math.floor(Math.random() * 3);
     if (v === 1) return q(qG1WeightB(a, b, cc), a, t("g1Weight", cc));
-    if (v === 2) return q(qG1WeightC(a, b, cc), b - a, t("g1Weight", cc));
+    if (v === 2) return q(qG1WeightC(a, b, cc), b, t("g1Weight", cc));
     return q(qG1Weight(a, b, cc), b, t("g1Weight", cc));
   },
   volume: (cc) => {
     const a = randInt(1, 8), b = a + randInt(1, 5);
     const v = Math.floor(Math.random() * 3);
     if (v === 1) return q(qG1VolumeB(a, b, cc), a, t("g1Volume", cc));
-    if (v === 2) return q(qG1VolumeC(a, b, cc), b - a, t("g1Volume", cc));
+    if (v === 2) return q(qG1VolumeC(a, b, cc), b, t("g1Volume", cc));
     return q(qG1Volume(a, b, cc), b, t("g1Volume", cc));
   },
   pattern: (cc) => {
