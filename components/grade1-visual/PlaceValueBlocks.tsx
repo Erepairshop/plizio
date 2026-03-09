@@ -1,10 +1,19 @@
 'use client';
 
 import React, { useState } from 'react';
+import type { Language } from '@/lib/language';
+
+const T = {
+  tens: { hu: "Hány tízes (oszlop) van?", de: "Wie viele Zehner (Stangen) gibt es?", en: "How many tens (columns) are there?", ro: "Câte zeci (coloane) sunt?" },
+  ones: { hu: "Hány egyes (kocka) van?", de: "Wie viele Einer (Würfel) gibt es?", en: "How many ones (cubes) are there?", ro: "Câte unități (cuburi) sunt?" },
+  total: { hu: "Melyik szám ez?", de: "Welche Zahl ist das?", en: "What number is this?", ro: "Ce număr este acesta?" },
+  correct: { hu: "Szuper!", de: "Super!", en: "Great!", ro: "Super!" },
+} as const;
 
 interface Props {
   number: number;
   question: 'tens' | 'ones' | 'total';
+  lang?: Language;
   embedded?: boolean;
   onValueChange?: (val: string) => void;
   onAnswer?: (correct: boolean) => void;
@@ -12,8 +21,9 @@ interface Props {
 
 const PlaceValueBlocks: React.FC<Props> = ({ 
   number, 
-  question, 
-  embedded = false, 
+  question,
+  lang = 'en',
+  embedded = false,
   onValueChange, 
   onAnswer 
 }) => {
@@ -49,9 +59,9 @@ const PlaceValueBlocks: React.FC<Props> = ({
   };
 
   const labelMap = {
-    tens: 'Hány tízes (oszlop) van?',
-    ones: 'Hány egyes (kocka) van?',
-    total: 'Melyik szám ez?'
+    tens: T.tens[lang],
+    ones: T.ones[lang],
+    total: T.total[lang],
   };
 
   return (
@@ -109,7 +119,7 @@ const PlaceValueBlocks: React.FC<Props> = ({
         />
 
         {!embedded && isCorrect && (
-          <span className="text-[#00FF88] text-xs font-bold uppercase tracking-widest">Szuper! ✨</span>
+          <span className="text-[#00FF88] text-xs font-bold uppercase tracking-widest">{T.correct[lang]} ✨</span>
         )}
       </div>
     </div>

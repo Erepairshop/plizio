@@ -1,6 +1,12 @@
 'use client';
 
 import React, { useState } from 'react';
+import type { Language } from '@/lib/language';
+
+const T = {
+  label: { hu: "Melyik számra mutat a nyíl?", de: "Auf welche Zahl zeigt der Pfeil?", en: "Which number does the arrow point to?", ro: "La ce număr arată săgeata?" },
+  correct: { hu: "Ügyes vagy!", de: "Super!", en: "Well done!", ro: "Bravo!" },
+} as const;
 
 interface Props {
   /** A számegyenes kezdőértéke (pl. 0) */
@@ -11,6 +17,7 @@ interface Props {
   step: number;
   /** A megjelölt szám amit a gyereknek be kell írnia */
   markedValue: number;
+  lang?: Language;
   embedded?: boolean;
   onValueChange?: (val: string) => void;
   onAnswer?: (correct: boolean) => void;
@@ -20,8 +27,9 @@ const NumberLineMarker: React.FC<Props> = ({
   min, 
   max, 
   step, 
-  markedValue, 
-  embedded = false, 
+  markedValue,
+  lang = 'en',
+  embedded = false,
   onValueChange, 
   onAnswer 
 }) => {
@@ -99,7 +107,7 @@ const NumberLineMarker: React.FC<Props> = ({
       <div className="flex flex-col items-center gap-3">
         {!embedded && (
           <label className="text-white/50 text-[10px] uppercase tracking-[0.2em] font-bold">
-            Melyik számra mutat a nyíl?
+            {T.label[lang]}
           </label>
         )}
         
@@ -117,7 +125,7 @@ const NumberLineMarker: React.FC<Props> = ({
         />
 
         {!embedded && isCorrect && (
-          <span className="text-green-400 text-xs font-bold animate-bounce">Ügyes vagy! 🚀</span>
+          <span className="text-green-400 text-xs font-bold animate-bounce">{T.correct[lang]} 🚀</span>
         )}
       </div>
     </div>

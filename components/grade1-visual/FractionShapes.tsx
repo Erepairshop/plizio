@@ -1,11 +1,17 @@
 'use client';
 
 import React, { useState } from 'react';
+import type { Language } from '@/lib/language';
+
+const T = {
+  label: { hu: "Hány részt színeztünk ki?", de: "Wie viele Teile sind eingefärbt?", en: "How many parts are colored?", ro: "Câte părți sunt colorate?" },
+} as const;
 
 interface Props {
   shape: 'pizza' | 'rectangle' | 'circle';
   totalParts: number;
   coloredParts: number;
+  lang?: Language;
   embedded?: boolean;
   onValueChange?: (val: string) => void;
   onAnswer?: (correct: boolean) => void;
@@ -14,8 +20,9 @@ interface Props {
 const FractionShapes: React.FC<Props> = ({ 
   shape, 
   totalParts, 
-  coloredParts, 
-  embedded = false, 
+  coloredParts,
+  lang = 'en',
+  embedded = false,
   onValueChange, 
   onAnswer 
 }) => {
@@ -113,7 +120,7 @@ const FractionShapes: React.FC<Props> = ({
       <div className="flex flex-col items-center gap-3">
         {!embedded && (
           <label className="text-white/50 text-[10px] uppercase tracking-widest font-bold">
-            Hány részt színeztünk ki?
+            {T.label[lang]}
           </label>
         )}
         

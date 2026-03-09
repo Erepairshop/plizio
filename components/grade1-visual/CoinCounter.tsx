@@ -1,12 +1,16 @@
 'use client';
 
 import React, { useState } from 'react';
+import type { Language } from '@/lib/language';
+
+const T = {
+  label: { hu: "Összesen mennyi pénz ez?", de: "Wie viel Geld ist das insgesamt?", en: "How much money is this in total?", ro: "Câți bani sunt în total?" },
+} as const;
 
 interface Props {
-  /** Érmék listája: [{value: 2, count: 3}, {value: 1, count: 2}] */
   coins: { value: number; count: number }[];
-  /** Pénznem (megjelenítéshez) */
   currency?: '€' | 'Ft' | '$';
+  lang?: Language;
   embedded?: boolean;
   onValueChange?: (val: string) => void;
   onAnswer?: (correct: boolean) => void;
@@ -14,8 +18,9 @@ interface Props {
 
 const CoinCounter: React.FC<Props> = ({ 
   coins, 
-  currency = '€', 
-  embedded = false, 
+  currency = '€',
+  lang = 'en',
+  embedded = false,
   onValueChange, 
   onAnswer 
 }) => {
@@ -91,7 +96,7 @@ const CoinCounter: React.FC<Props> = ({
       <div className="flex flex-col items-center gap-3">
         {!embedded && (
           <label className="text-white/50 text-[10px] uppercase tracking-[0.2em] font-bold">
-            Összesen mennyi pénz ez?
+            {T.label[lang]}
           </label>
         )}
         

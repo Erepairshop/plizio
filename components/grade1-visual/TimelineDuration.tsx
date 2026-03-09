@@ -1,10 +1,17 @@
 'use client';
 
 import React, { useState } from 'react';
+import type { Language } from '@/lib/language';
+
+const T = {
+  label: { hu: "Hány óra telt el összesen?", de: "Wie viele Stunden sind vergangen?", en: "How many hours have passed?", ro: "Câte ore au trecut?" },
+  unit: { hu: "óra", de: "Std.", en: "hrs", ro: "ore" },
+} as const;
 
 interface Props {
   startHour: number;
   endHour: number;
+  lang?: Language;
   embedded?: boolean;
   onValueChange?: (val: string) => void;
   onAnswer?: (correct: boolean) => void;
@@ -12,8 +19,9 @@ interface Props {
 
 const TimelineDuration: React.FC<Props> = ({ 
   startHour, 
-  endHour, 
-  embedded = false, 
+  endHour,
+  lang = 'en',
+  embedded = false,
   onValueChange, 
   onAnswer 
 }) => {
@@ -92,7 +100,7 @@ const TimelineDuration: React.FC<Props> = ({
       <div className="flex flex-col items-center gap-4">
         {!embedded && (
           <label className="text-white/50 text-[10px] uppercase tracking-widest font-bold">
-            Hány óra telt el összesen?
+            {T.label[lang]}
           </label>
         )}
         
@@ -110,7 +118,7 @@ const TimelineDuration: React.FC<Props> = ({
                 'border-white/10 focus:border-[#FFD700]'}
             `}
           />
-          <span className="text-white/40 font-bold uppercase tracking-tighter">óra</span>
+          <span className="text-white/40 font-bold uppercase tracking-tighter">{T.unit[lang]}</span>
         </div>
       </div>
     </div>

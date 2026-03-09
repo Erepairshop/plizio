@@ -1,18 +1,24 @@
 'use client';
 
 import React, { useState } from 'react';
+import type { Language } from '@/lib/language';
+
+const T = {
+  count: { hu: "Hány lila négyzetet látsz?", de: "Wie viele lila Quadrate siehst du?", en: "How many purple squares do you see?", ro: "Câte pătrate mov vezi?" },
+  empty: { hu: "Hány sötét négyzet maradt?", de: "Wie viele dunkle Quadrate sind übrig?", en: "How many dark squares are left?", ro: "Câte pătrate întunecate au rămas?" },
+  correct: { hu: "Pontosan!", de: "Genau!", en: "Exactly!", ro: "Exact!" },
+} as const;
 
 interface Props {
-  /** 2D boolean rács — true = színezett cella */
   grid: boolean[][];
-  /** Mit kérdezünk: "count" = hány színezett, "empty" = hány üres */
   question: 'count' | 'empty';
+  lang?: Language;
   embedded?: boolean;
   onValueChange?: (val: string) => void;
   onAnswer?: (correct: boolean) => void;
 }
 
-const GridCounter: React.FC<Props> = ({ grid, question, embedded = false, onValueChange, onAnswer }) => {
+const GridCounter: React.FC<Props> = ({ grid, question, lang = 'en', embedded = false, onValueChange, onAnswer }) => {
   const [userInput, setUserInput] = useState('');
   const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
 
@@ -71,7 +77,7 @@ const GridCounter: React.FC<Props> = ({ grid, question, embedded = false, onValu
       <div className="flex flex-col items-center gap-3">
         {!embedded && (
           <label className="text-white/50 text-[10px] uppercase tracking-[0.2em] font-bold text-center">
-            {question === 'count' ? 'Hány lila négyzetet látsz?' : 'Hány sötét négyzet maradt?'}
+            {T[question][lang]}
           </label>
         )}
         
@@ -93,7 +99,7 @@ const GridCounter: React.FC<Props> = ({ grid, question, embedded = false, onValu
 
         {!embedded && isCorrect && (
           <span className="text-[#B44DFF] text-xs font-bold uppercase tracking-widest animate-pulse">
-            Pontosan! 👾
+            {T.correct[lang]} 👾
           </span>
         )}
       </div>

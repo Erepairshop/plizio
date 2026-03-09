@@ -1,16 +1,23 @@
 'use client';
 
 import React, { useState } from 'react';
+import type { Language } from '@/lib/language';
+
+const T = {
+  label: { hu: "Hány óra van?", de: "Wie spät ist es?", en: "What time is it?", ro: "Cât este ceasul?" },
+  correct: { hu: "Helyes válasz!", de: "Richtige Antwort!", en: "Correct!", ro: "Corect!" },
+} as const;
 
 interface Props {
   hour: number;        // 1-12
   minute: number;      // 0, 5, 10, 15... (5 percenként)
+  lang?: Language;
   embedded?: boolean;
   onValueChange?: (val: string) => void;
   onAnswer?: (correct: boolean) => void;
 }
 
-const AnalogClock: React.FC<Props> = ({ hour, minute, embedded = false, onValueChange, onAnswer }) => {
+const AnalogClock: React.FC<Props> = ({ hour, minute, lang = 'en', embedded = false, onValueChange, onAnswer }) => {
   const [userInput, setUserInput] = useState('');
   const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
 
@@ -110,7 +117,7 @@ const AnalogClock: React.FC<Props> = ({ hour, minute, embedded = false, onValueC
       <div className="flex flex-col items-center gap-3">
         {!embedded && (
           <label className="text-white/50 text-[10px] uppercase tracking-[0.2em] font-bold">
-            Hány óra van?
+            {T.label[lang]}
           </label>
         )}
         
@@ -128,7 +135,7 @@ const AnalogClock: React.FC<Props> = ({ hour, minute, embedded = false, onValueC
         />
         
         {!embedded && isCorrect && (
-          <span className="text-green-400 text-xs font-bold tracking-tight">Helyes válasz! ✨</span>
+          <span className="text-green-400 text-xs font-bold tracking-tight">{T.correct[lang]} ✨</span>
         )}
       </div>
     </div>

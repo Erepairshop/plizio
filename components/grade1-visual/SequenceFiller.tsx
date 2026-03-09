@@ -1,11 +1,17 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
+import type { Language } from '@/lib/language';
+
+const T = {
+  label: { hu: "Folytasd a számsort!", de: "Setze die Zahlenreihe fort!", en: "Continue the number sequence!", ro: "Continuă șirul de numere!" },
+  correct: { hu: "Rájöttél a szabályra!", de: "Du hast die Regel erkannt!", en: "You found the pattern!", ro: "Ai descoperit regula!" },
+} as const;
 
 interface Props {
   sequence: (number | null)[];
-  /** A helyes válaszok sorrendben (pl. [6, 10]) */
   answers: number[];
+  lang?: Language;
   embedded?: boolean;
   onValueChange?: (val: string) => void;
   onAnswer?: (correct: boolean) => void;
@@ -13,8 +19,9 @@ interface Props {
 
 const SequenceFiller: React.FC<Props> = ({ 
   sequence, 
-  answers, 
-  embedded = false, 
+  answers,
+  lang = 'en',
+  embedded = false,
   onValueChange, 
   onAnswer 
 }) => {
@@ -57,7 +64,7 @@ const SequenceFiller: React.FC<Props> = ({
       
       {!embedded && (
         <label className="text-white/50 text-[10px] uppercase tracking-[0.2em] font-bold">
-          Folytasd a számsort!
+          {T.label[lang]}
         </label>
       )}
 
@@ -101,7 +108,7 @@ const SequenceFiller: React.FC<Props> = ({
 
       {!embedded && isCorrect && (
         <div className="flex items-center gap-2 text-[#00FF88] font-bold animate-bounce">
-          <span>Rájöttél a szabályra! 🌟</span>
+          <span>{T.correct[lang]} 🌟</span>
         </div>
       )}
     </div>
