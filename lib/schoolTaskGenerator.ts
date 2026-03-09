@@ -12,7 +12,10 @@ export type VisualQuestionType = 'zeichnen' | 'messen' | 'uhrzeit' | 'grid-area'
   | 'g1-dots' | 'g1-dice' | 'g1-fingers' | 'g1-compare' | 'g1-predecessor' | 'g1-successor'
   | 'g1-addition-pics' | 'g1-subtraction-pics' | 'g1-decompose' | 'g1-completion'
   | 'g1-shapes' | 'g1-directions' | 'g1-patterns'
-  | 'g1-length' | 'g1-weight' | 'g1-volume' | 'g1-shopping' | 'g1-wordproblem';
+  | 'g1-length' | 'g1-weight' | 'g1-volume' | 'g1-shopping' | 'g1-wordproblem'
+  | 'g3-place-value' | 'g3-pattern' | 'g3-scale' | 'g3-shape' | 'g3-barchart'
+  | 'g3-compose' | 'g3-add-objects' | 'g3-sub-objects' | 'g3-mul-group' | 'g3-mul-array' | 'g3-div-share'
+  | 'g3-nl-sub' | 'g3-rightangle' | 'g3-perim-concept' | 'g3-area-compare';
 
 export type VisualQuestionData = {
   type: VisualQuestionType;
@@ -74,7 +77,22 @@ export type TaskType =
   | 'visual_g1_weight'
   | 'visual_g1_volume'
   | 'visual_g1_shopping'
-  | 'visual_g1_wordproblem';
+  | 'visual_g1_wordproblem'
+  | 'visual_g3_place_value'
+  | 'visual_g3_pattern'
+  | 'visual_g3_scale'
+  | 'visual_g3_shape'
+  | 'visual_g3_barchart'
+  | 'visual_g3_compose'
+  | 'visual_g3_add_objects'
+  | 'visual_g3_sub_objects'
+  | 'visual_g3_mul_group'
+  | 'visual_g3_mul_array'
+  | 'visual_g3_div_share'
+  | 'visual_g3_nl_sub'
+  | 'visual_g3_rightangle'
+  | 'visual_g3_perim_concept'
+  | 'visual_g3_area_compare';
 
 export type AufgabenItem = {
   question: string;
@@ -713,6 +731,14 @@ const VISUAL_TOPIC_KEYS = new Set([
   'g1_sequence', 'g1_coins', 'g1_timeline', 'g1_fraction',
   // Grade 2 visual topics
   'g2_clock', 'g2_strecken', 'g2_zahlstr', 'g2_stellenwert', 'g2_money',
+  // Grade 3 visual topics — new components
+  'g3_stellenwert', 'g3_pattern', 'g3_scale', 'g3_shapes_vis', 'g3_barchart',
+  'g3_compose', 'g3_add_obj', 'g3_sub_obj', 'g3_nl_sub',
+  'g3_mul_grp', 'g3_mul_arr', 'g3_div_shr',
+  'g3_rightangle', 'g3_perim_vis', 'g3_area_cmp',
+  // Grade 3 visual topics — reuse existing components
+  'g3_zahlstr', 'g3_laenge', 'g3_strecken', 'g3_zeit', 'g3_geld',
+  'g3_geo_messen', 'g3_perim', 'g3_area',
 ]);
 
 function isVisualTopicKey(key: string): boolean {
@@ -919,6 +945,162 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
       return { id: `vis_g2mon_${sfx}`, answer, points: 1,
         visualType: 'money', visualData: { type: 'money', params: { items, budget, mode } } };
     }
+    // ── Grade 3 visual components ──────────────────────────────────────────
+    case 'g3_stellenwert': {
+      const n = rnd(100, 999);
+      const pos = (['hundreds', 'tens', 'ones'] as const)[rnd(0, 2)];
+      const ans = pos === 'hundreds' ? Math.floor(n / 100) : pos === 'tens' ? Math.floor((n % 100) / 10) : n % 10;
+      return { id: `vis_g3sv_${sfx}`, answer: ans, points: 1,
+        visualType: 'g3-place-value', visualData: { type: 'g3-place-value', params: { number: n, question: pos } } };
+    }
+    case 'g3_zahlstr': {
+      // 0–1000 number line, step=100
+      const marked = rnd(1, 9) * 100 + rnd(1, 99);
+      return { id: `vis_g3nl_${sfx}`, answer: marked, points: 1,
+        visualType: 'g1-number-line', visualData: { type: 'g1-number-line', params: { min: 0, max: 1000, step: 100, markedValue: marked } } };
+    }
+    case 'g3_pattern': {
+      const period = rnd(2, 3) as 2 | 3;
+      const allColors = ['red', 'blue', 'green', 'yellow', 'purple'];
+      const colors = allColors.slice(0, period);
+      const len = 6;
+      const blanks = 2;
+      const sequence: string[] = [];
+      for (let i = 0; i < len; i++) sequence.push(colors[i % period]);
+      return { id: `vis_g3pat_${sfx}`, answer: sequence.slice(len - blanks).join(','), points: 1,
+        visualType: 'g3-pattern', visualData: { type: 'g3-pattern', params: { sequence, period, blanks } } };
+    }
+    case 'g3_laenge': {
+      const targetLength = rnd(5, 20);
+      return { id: `vis_g3l_${sfx}`, answer: targetLength, points: 1, visualType: 'messen',
+        visualData: { type: 'messen', params: { targetLength, unit: 'cm' } } };
+    }
+    case 'g3_strecken': {
+      const targetLength = rnd(3, 15);
+      return { id: `vis_g3st_${sfx}`, answer: targetLength, points: 1, visualType: 'zeichnen',
+        visualData: { type: 'zeichnen', params: { targetLength, unit: 'cm' } } };
+    }
+    case 'g3_zeit': {
+      const hour = rnd(1, 12);
+      const minute = [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55][rnd(0, 11)];
+      return { id: `vis_g3z_${sfx}`, answer: `${hour}:${String(minute).padStart(2, '0')}`, points: 1,
+        visualType: 'uhrzeit', visualData: { type: 'uhrzeit', params: { targetHour: hour, targetMinute: minute } } };
+    }
+    case 'g3_geld': {
+      const gitems = [
+        { name: 'Brot', price: rnd(100, 300) / 100 },
+        { name: 'Milch', price: rnd(80, 200) / 100 },
+        { name: 'Käse', price: rnd(150, 400) / 100 },
+      ].slice(0, rnd(2, 3));
+      const gtotal = Math.round(gitems.reduce((s, i) => s + i.price, 0) * 100) / 100;
+      const gmode = Math.random() > 0.5 ? 'change' as const : 'total' as const;
+      const gbudget = Math.ceil(gtotal);
+      const gans = gmode === 'change' ? Math.round((gbudget - gtotal) * 100) / 100 : gtotal;
+      return { id: `vis_g3mon_${sfx}`, answer: gans, points: 1,
+        visualType: 'money', visualData: { type: 'money', params: { items: gitems, budget: gbudget, mode: gmode } } };
+    }
+    case 'g3_scale': {
+      const wA = rnd(1, 9) * 100 + rnd(0, 9) * 10;
+      const wB = rnd(1, 9) * 100 + rnd(0, 9) * 10;
+      const scAns = wA > wB ? 'heavier' : wA < wB ? 'lighter' : 'equal';
+      return { id: `vis_g3sc_${sfx}`, answer: scAns, points: 1,
+        visualType: 'g3-scale', visualData: { type: 'g3-scale', params: { weightA: wA, weightB: wB, unitA: 'g', unitB: 'g' } } };
+    }
+    case 'g3_shapes_vis': {
+      const shapeList = ['square', 'rectangle', 'triangle', 'circle', 'hexagon', 'pentagon'];
+      const target = shapeList[rnd(0, shapeList.length - 1)];
+      const distractors = shapeList.filter((s) => s !== target).sort(() => Math.random() - 0.5).slice(0, 3);
+      const options = [target, ...distractors].sort(() => Math.random() - 0.5);
+      return { id: `vis_g3sh_${sfx}`, answer: target, points: 1,
+        visualType: 'g3-shape', visualData: { type: 'g3-shape', params: { target, options } } };
+    }
+    case 'g3_geo_messen': {
+      const targetLength = rnd(3, 12);
+      return { id: `vis_g3gm_${sfx}`, answer: targetLength, points: 1, visualType: 'messen',
+        visualData: { type: 'messen', params: { targetLength, unit: 'cm' } } };
+    }
+    case 'g3_perim': {
+      const pw = rnd(2, 7), ph = rnd(2, 5);
+      return { id: `vis_g3perim_${sfx}`, answer: 2 * (pw + ph), points: 1,
+        visualType: 'grid-area', visualData: { type: 'grid-area', params: { width: pw, height: ph, mode: 'perimeter' } } };
+    }
+    case 'g3_area': {
+      const aw = rnd(2, 6), ah = rnd(2, 5);
+      return { id: `vis_g3area_${sfx}`, answer: aw * ah, points: 1,
+        visualType: 'grid-area', visualData: { type: 'grid-area', params: { width: aw, height: ah, mode: 'area' } } };
+    }
+    case 'g3_barchart': {
+      const bcCats = [
+        { name: 'A', value: rnd(2, 10) },
+        { name: 'B', value: rnd(2, 10) },
+        { name: 'C', value: rnd(2, 10) },
+        { name: 'D', value: rnd(2, 10) },
+      ];
+      const bcTarget = rnd(0, 3);
+      return { id: `vis_g3bc_${sfx}`, answer: bcCats[bcTarget].value, points: 1,
+        visualType: 'g3-barchart', visualData: { type: 'g3-barchart', params: { categories: bcCats, targetIdx: bcTarget } } };
+    }
+    case 'g3_compose': {
+      const h = rnd(1, 3), t = rnd(0, 9), o = rnd(0, 9);
+      return { id: `vis_g3cmp_${sfx}`, answer: h * 100 + t * 10 + o, points: 1,
+        visualType: 'g3-compose', visualData: { type: 'g3-compose', params: { hundreds: h, tens: t, ones: o } } };
+    }
+    case 'g3_add_obj': {
+      const a = rnd(2, 8), b = rnd(2, 8);
+      const icons = ['🍎', '⭐', '🌸', '🟡', '🔵'];
+      const icon = icons[rnd(0, icons.length - 1)];
+      return { id: `vis_g3ao_${sfx}`, answer: a + b, points: 1,
+        visualType: 'g3-add-objects', visualData: { type: 'g3-add-objects', params: { mode: 'add', groupA: a, groupB: b, icon } } };
+    }
+    case 'g3_sub_obj': {
+      const tot = rnd(6, 15), rem = rnd(2, Math.min(tot - 1, 7));
+      const icons2 = ['🍎', '⭐', '🌸', '🟡', '🔵'];
+      const icon2 = icons2[rnd(0, icons2.length - 1)];
+      return { id: `vis_g3so_${sfx}`, answer: tot - rem, points: 1,
+        visualType: 'g3-sub-objects', visualData: { type: 'g3-sub-objects', params: { mode: 'sub', groupA: tot, groupB: rem, icon: icon2 } } };
+    }
+    case 'g3_nl_sub': {
+      const nlStep = rnd(2, 5), nlSteps = rnd(2, 4), nlStart = nlStep * nlSteps + rnd(2, 5);
+      return { id: `vis_g3nls_${sfx}`, answer: nlStart - nlStep * nlSteps, points: 1,
+        visualType: 'g3-nl-sub', visualData: { type: 'g3-nl-sub', params: { start: nlStart, stepSize: nlStep, steps: nlSteps } } };
+    }
+    case 'g3_mul_grp': {
+      const mgRows = rnd(2, 5), mgCols = rnd(2, 5);
+      const icons3 = ['🍎', '⭐', '🌸', '🟡'];
+      const icon3 = icons3[rnd(0, icons3.length - 1)];
+      return { id: `vis_g3mg_${sfx}`, answer: mgRows * mgCols, points: 1,
+        visualType: 'g3-mul-group', visualData: { type: 'g3-mul-group', params: { mode: 'mul', groupA: mgRows, groupB: mgCols, icon: icon3 } } };
+    }
+    case 'g3_mul_arr': {
+      const maRows = rnd(2, 6), maCols = rnd(2, 6);
+      return { id: `vis_g3ma_${sfx}`, answer: maRows * maCols, points: 1,
+        visualType: 'g3-mul-array', visualData: { type: 'g3-mul-array', params: { rows: maRows, cols: maCols } } };
+    }
+    case 'g3_div_shr': {
+      const divPlates = rnd(2, 4), divPer = rnd(2, 5), divTotal = divPlates * divPer;
+      const icons4 = ['🍎', '⭐', '🌸', '🟡'];
+      const icon4 = icons4[rnd(0, icons4.length - 1)];
+      return { id: `vis_g3ds_${sfx}`, answer: divPer, points: 1,
+        visualType: 'g3-div-share', visualData: { type: 'g3-div-share', params: { mode: 'div', groupA: divTotal, groupB: divPlates, icon: icon4 } } };
+    }
+    case 'g3_rightangle': {
+      const types = ['right', 'acute', 'obtuse'] as const;
+      const atype = types[rnd(0, 2)];
+      return { id: `vis_g3ra_${sfx}`, answer: atype, points: 1,
+        visualType: 'g3-rightangle', visualData: { type: 'g3-rightangle', params: { angleType: atype } } };
+    }
+    case 'g3_perim_vis': {
+      const pvW = rnd(2, 8), pvH = rnd(2, 6);
+      return { id: `vis_g3pv_${sfx}`, answer: 2 * (pvW + pvH), points: 1,
+        visualType: 'g3-perim-concept', visualData: { type: 'g3-perim-concept', params: { width: pvW, height: pvH } } };
+    }
+    case 'g3_area_cmp': {
+      const acA = { width: rnd(2, 5), height: rnd(2, 5) };
+      const acB = { width: rnd(2, 5), height: rnd(2, 5) };
+      const acAns = acA.width * acA.height > acB.width * acB.height ? 'A' : acA.width * acA.height < acB.width * acB.height ? 'B' : 'equal';
+      return { id: `vis_g3ac_${sfx}`, answer: acAns, points: 1,
+        visualType: 'g3-area-compare', visualData: { type: 'g3-area-compare', params: { shapeA: acA, shapeB: acB } } };
+    }
     default:
       return generateVisualSub('zeichnen', blockIdx, subIdx);
   }
@@ -936,6 +1118,31 @@ const VISUAL_TOPIC_TO_TYPE: Record<string, TaskType> = {
   // Grade 2 visual topics → reuse existing visual types
   g2_clock: 'visual_uhrzeit', g2_strecken: 'visual_messen',
   g2_zahlstr: 'visual_g1_number_line', g2_stellenwert: 'visual_g1_place_value', g2_money: 'visual_money',
+  // Grade 3 visual topics — new types
+  g3_stellenwert: 'visual_g3_place_value',
+  g3_pattern:     'visual_g3_pattern',
+  g3_scale:       'visual_g3_scale',
+  g3_shapes_vis:  'visual_g3_shape',
+  g3_barchart:    'visual_g3_barchart',
+  g3_compose:     'visual_g3_compose',
+  g3_add_obj:     'visual_g3_add_objects',
+  g3_sub_obj:     'visual_g3_sub_objects',
+  g3_nl_sub:      'visual_g3_nl_sub',
+  g3_mul_grp:     'visual_g3_mul_group',
+  g3_mul_arr:     'visual_g3_mul_array',
+  g3_div_shr:     'visual_g3_div_share',
+  g3_rightangle:  'visual_g3_rightangle',
+  g3_perim_vis:   'visual_g3_perim_concept',
+  g3_area_cmp:    'visual_g3_area_compare',
+  // Grade 3 visual topics — reuse existing types
+  g3_zahlstr:     'visual_g1_number_line',
+  g3_laenge:      'visual_messen',
+  g3_strecken:    'visual_zeichnen',
+  g3_zeit:        'visual_uhrzeit',
+  g3_geld:        'visual_money',
+  g3_geo_messen:  'visual_messen',
+  g3_perim:       'visual_grid_area',
+  g3_area:        'visual_grid_area',
 };
 
 function generateVisualBlock(
@@ -1128,6 +1335,22 @@ const TITLES: Record<TaskType, Record<string, string>> = {
   visual_g1_volume: { de: 'Mengen vergleichen', en: 'Compare Amounts', hu: 'Mennyiség összehasonlítása', ro: 'Compararea volumelor' },
   visual_g1_shopping: { de: 'Einkaufen', en: 'Shopping', hu: 'Bevásárlás', ro: 'Cumpărături' },
   visual_g1_wordproblem: { de: 'Textaufgabe', en: 'Word Problem', hu: 'Szöveges feladat', ro: 'Problemă cu text' },
+  // Grade 3 new visual types
+  visual_g3_place_value:   { de: 'Stellenwerttafel (Hunderte/Zehner/Einer).', en: 'Place Value Blocks (hundreds/tens/ones).', hu: 'Helyiérték-tábla (százas/tízes/egyes).', ro: 'Tabela valorii poziționale (sute/zeci/unități).' },
+  visual_g3_pattern:       { de: 'Muster fortsetzen.', en: 'Continue the pattern.', hu: 'Folytasd a mintát!', ro: 'Continuă modelul.' },
+  visual_g3_scale:         { de: 'Balkenwaage ablesen.', en: 'Read the balance scale.', hu: 'Olvasd le a mérleget!', ro: 'Citește balanța.' },
+  visual_g3_shape:         { de: 'Welche Form ist das?', en: 'Which shape is this?', hu: 'Melyik alakzat ez?', ro: 'Ce formă este aceasta?' },
+  visual_g3_barchart:      { de: 'Balkendiagramm ablesen.', en: 'Read the bar chart.', hu: 'Olvasd le az oszlopdiagramot!', ro: 'Citește diagrama cu bare.' },
+  visual_g3_compose:       { de: 'Zahl aus Blöcken zusammensetzen.', en: 'Compose a number from blocks.', hu: 'Szám összeállítása blokkokból.', ro: 'Compune un număr din blocuri.' },
+  visual_g3_add_objects:   { de: 'Addition mit Gegenständen.', en: 'Addition with objects.', hu: 'Tárgyakkal összeadás.', ro: 'Adunare cu obiecte.' },
+  visual_g3_sub_objects:   { de: 'Subtraktion mit Gegenständen.', en: 'Subtraction with objects.', hu: 'Tárgyakkal kivonás.', ro: 'Scădere cu obiecte.' },
+  visual_g3_nl_sub:        { de: 'Rückwärts auf dem Zahlenstrahl.', en: 'Backward jumps on the number line.', hu: 'Visszalépés a számegyenesen.', ro: 'Pași înapoi pe axa numerică.' },
+  visual_g3_mul_group:     { de: 'Gruppen zählen (Multiplikation).', en: 'Counting groups (multiplication).', hu: 'Csoportok számlálása (szorzás).', ro: 'Numărarea grupurilor (înmulțire).' },
+  visual_g3_mul_array:     { de: 'Array-Modell der Multiplikation.', en: 'Array model of multiplication.', hu: 'Szorzás tömbmodell.', ro: 'Modelul matriceal al înmulțirii.' },
+  visual_g3_div_share:     { de: 'Teilen auf Teller.', en: 'Sharing onto plates.', hu: 'Osztás tányérokra.', ro: 'Împărțire pe farfurii.' },
+  visual_g3_rightangle:    { de: 'Welcher Winkeltyp?', en: 'What type of angle?', hu: 'Milyen szög ez?', ro: 'Ce tip de unghi?' },
+  visual_g3_perim_concept: { de: 'Umfang berechnen.', en: 'Calculate the perimeter.', hu: 'Kerület kiszámítása.', ro: 'Calculează perimetrul.' },
+  visual_g3_area_compare:  { de: 'Flächen vergleichen.', en: 'Compare areas.', hu: 'Területek összehasonlítása.', ro: 'Compararea suprafețelor.' },
 };
 
 function getTitleFor(type: TaskType, cc: string): string {
