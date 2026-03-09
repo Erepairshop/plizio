@@ -1771,6 +1771,32 @@ export const G7_Generators = {
         }
       }
       return q;
+    },
+    analogies_g7: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const analogyData = [
+        { pair1: "author", pair2: "book", pair3: "composer", answer: "symphony", wrong: ["note", "musician", "instrument"] },
+        { pair1: "painter", pair2: "canvas", pair3: "sculptor", answer: "marble", wrong: ["chisel", "clay", "statue"] },
+        { pair1: "teacher", pair2: "student", pair3: "coach", answer: "athlete", wrong: ["training", "sport", "gym"] },
+        { pair1: "veterinarian", pair2: "animal", pair3: "dentist", answer: "teeth", wrong: ["patient", "mouth", "decay"] },
+        { pair1: "architect", pair2: "building", pair3: "engineer", answer: "bridge", wrong: ["concrete", "design", "structure"] },
+        { pair1: "chef", pair2: "restaurant", pair3: "conductor", answer: "orchestra", wrong: ["music", "instrument", "concert"] }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(7, rng)) {
+          const data = pick(analogyData, rng);
+          q.push(createMCQ("vocab_g7", "analogies_g7",
+            `${data.pair1} is to ${data.pair2} as ${data.pair3} is to ___?`,
+            data.answer, data.wrong));
+        } else {
+          const data = pick(analogyData, rng);
+          q.push(createTyping("vocab_g7", "analogies_g7",
+            `${data.pair1} : ${data.pair2} :: ${data.pair3} : ___`,
+            data.answer));
+        }
+      }
+      return q;
     }
   },
   punctuation_g7: {
