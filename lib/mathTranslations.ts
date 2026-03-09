@@ -1925,6 +1925,101 @@ export function qG1Volume(a: number, b: number, countryCode: string): string {
   }
 }
 
+// Weight comparison — variant B: which is lighter
+export function qG1WeightB(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Was ist leichter: ${a} kg oder ${b} kg?`;
+    case "EN": return `Which is lighter: ${a} kg or ${b} kg?`;
+    case "RO": return `Care este mai ușor: ${a} kg sau ${b} kg?`;
+    default:   return `Melyik könnyebb: ${a} kg vagy ${b} kg?`;
+  }
+}
+
+// Weight comparison — variant C: how much heavier
+export function qG1WeightC(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Der Rucksack wiegt ${b} kg, die Tasche ${a} kg. Wie viel schwerer ist der Rucksack?`;
+    case "EN": return `The backpack weighs ${b} kg, the bag weighs ${a} kg. How much heavier is the backpack?`;
+    case "RO": return `Rucsacul cântărește ${b} kg, geanta ${a} kg. Cu cât este mai greu rucsacul?`;
+    default:   return `A hátizsák ${b} kg, a táska ${a} kg. Mennyivel nehezebb a hátizsák?`;
+  }
+}
+
+// Volume comparison — variant B: which holds less
+export function qG1VolumeB(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Welcher Behälter fasst weniger: einer mit ${a} l oder einer mit ${b} l?`;
+    case "EN": return `Which container holds less: one with ${a} l or one with ${b} l?`;
+    case "RO": return `Care recipient ține mai puțin: unul cu ${a} l sau unul cu ${b} l?`;
+    default:   return `Melyik tartályba fér kevesebb: ${a} l-es vagy ${b} l-es?`;
+  }
+}
+
+// Volume comparison — variant C: how much more
+export function qG1VolumeC(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Krug A hat ${b} l, Krug B hat ${a} l. Wie viele Liter mehr hat Krug A?`;
+    case "EN": return `Jug A has ${b} l, Jug B has ${a} l. How many more litres does Jug A have?`;
+    case "RO": return `Ulciorul A are ${b} l, ulciorul B are ${a} l. Cu câți litri mai mult are A?`;
+    default:   return `A korsóban ${b} l, B korsóban ${a} l van. Mennyivel több van A-ban?`;
+  }
+}
+
+// G1 word problems — extra scenarios (word6-word10)
+export function wpBirds(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Auf einem Ast sitzen ${a} Vögel. ${b} fliegen weg. Wie viele bleiben?`;
+    case "EN": return `${a} birds are sitting on a branch. ${b} fly away. How many are left?`;
+    case "RO": return `Pe o creangă stau ${a} păsări. ${b} zboară. Câte rămân?`;
+    default:   return `Egy ágon ${a} madár ül. ${b} elrepül. Hány marad?`;
+  }
+}
+
+export function wpGifts(name: string, a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${name} hat ${a} Geschenke bekommen. ${name} verschenkt ${b} davon. Wie viele hat ${name} noch?`;
+    case "EN": return `${name} received ${a} gifts. ${name} gives away ${b} of them. How many does ${name} have left?`;
+    case "RO": return `${name} a primit ${a} cadouri. Dă ${b} mai departe. Câte îi mai rămân?`;
+    default:   return `${name} ${a} ajándékot kapott. Ebből ${b}-t továbbad. Hány marad ${name}-nál?`;
+  }
+}
+
+export function wpFlowers(a: number, colorA: string, b: number, colorB: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Im Garten blühen ${a} ${colorA} und ${b} ${colorB} Blumen. Wie viele Blumen sind es insgesamt?`;
+    case "EN": return `In the garden there are ${a} ${colorA} and ${b} ${colorB} flowers. How many flowers in total?`;
+    case "RO": return `În grădină sunt ${a} flori ${colorA} și ${b} flori ${colorB}. Câte flori sunt în total?`;
+    default:   return `A kertben ${a} ${colorA} és ${b} ${colorB} virág nyílik. Összesen hány virág?`;
+  }
+}
+
+export function wpShared(total: number, name: string, share: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${name} und ein Freund haben zusammen ${total} Bücher. ${name} hat ${share}. Wie viele hat der Freund?`;
+    case "EN": return `${name} and a friend have ${total} books altogether. ${name} has ${share}. How many does the friend have?`;
+    case "RO": return `${name} și un prieten au ${total} cărți împreună. ${name} are ${share}. Câte are prietenul?`;
+    default:   return `${name}-nek és egy barátjának összesen ${total} könyve van. ${name}-nek ${share} van. Hány van a barátjának?`;
+  }
+}
+
+export function wpSteps(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Max geht ${a} Stufen hoch, dann noch ${b} Stufen. Wie viele Stufen ist er insgesamt gestiegen?`;
+    case "EN": return `Max climbs ${a} steps, then ${b} more. How many steps did Max climb in total?`;
+    case "RO": return `Max urcă ${a} trepte, apoi încă ${b}. Câte trepte a urcat în total?`;
+    default:   return `Max ${a} lépcsőt megy fel, majd még ${b}-t. Összesen hány lépcsőt mászott meg?`;
+  }
+}
+
 // Pattern continuation
 export function qG1Pattern(seq: string[], countryCode: string): string {
   const lang = getLang(countryCode);

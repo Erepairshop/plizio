@@ -6,6 +6,7 @@
 import {
   t, getTranslatedPeriodLabel, getNames, getItems, getCurrency,
   qCompare, wpHasFruit, wpLostItems, wpColoredItems, wpAte, wpBus,
+  wpBirds, wpGifts, wpFlowers, wpShared, wpSteps,
   wpSchool, wpBought, wpEachGets, wpShare,
   qHowManyCmInM, qHowManyGInKg, qHowManyMinInH, qMetersInCm, qHoursInMin,
   qMlInL, qLiterToMl, qKmToM, qTonToKg, qLiterToDl,
@@ -33,7 +34,8 @@ import {
   qG1GridCount, qG1GridEmpty, qG1Sequence, qG1Coins, qG1Timeline, qG1Fraction,
   qVorgaenger, qNachfolger, qZaehlen, qTauschaufgabe, qZahlzerlegung,
   qVerdoppeln, qHalbieren, qShapeCorners, qLaenger, qG1Wochentage,
-  qG1Spatial, qG1Weight, qG1Volume, qG1Pattern, qG1NumberOrder, qG1DataTable,
+  qG1Spatial, qG1Weight, qG1WeightB, qG1WeightC, qG1Volume, qG1VolumeB, qG1VolumeC,
+  qG1Pattern, qG1NumberOrder, qG1DataTable,
   qRoundTo10, qRoundTo100,
   qCircleCircumference, qCircleArea,
   qMeanOf, qMedianOf,
@@ -249,6 +251,32 @@ const G1: Record<string, Generator> = {
     const a = randInt(3, 8), b = randInt(2, 6);
     return q(wpBus(a, b, cc), a + b, t("wordProblem", cc), 0, true);
   },
+  word6: (cc) => {
+    const a = randInt(5, 12), b = randInt(1, a - 2);
+    return q(wpBirds(a, b, cc), a - b, t("wordProblem", cc), 0, true);
+  },
+  word7: (cc) => {
+    const names = getNames(cc);
+    const name = pick(names.girls);
+    const a = randInt(4, 10), b = randInt(1, a - 1);
+    return q(wpGifts(name, a, b, cc), a - b, t("wordProblem", cc), 0, true);
+  },
+  word8: (cc) => {
+    const items = getItems(cc);
+    const colorA = items.red, colorB = items.blue;
+    const a = randInt(2, 8), b = randInt(1, 7);
+    return q(wpFlowers(a, colorA, b, colorB, cc), a + b, t("wordProblem", cc), 0, true);
+  },
+  word9: (cc) => {
+    const names = getNames(cc);
+    const name = pick(names.boys);
+    const total = randInt(6, 14), share = randInt(2, total - 1);
+    return q(wpShared(total, name, share, cc), total - share, t("wordProblem", cc), 0, true);
+  },
+  word10: (cc) => {
+    const a = randInt(3, 9), b = randInt(2, 8);
+    return q(wpSteps(a, b, cc), a + b, t("wordProblem", cc), 0, true);
+  },
   evenOdd: (cc) => {
     return Math.random() < 0.5
       ? (() => { const n = randInt(1, 9) * 2; return q(qNextEven(n, cc), n + 2, t("evenOdd", cc)); })()
@@ -404,10 +432,16 @@ const G1: Record<string, Generator> = {
   },
   weight: (cc) => {
     const a = randInt(1, 12), b = a + randInt(1, 8);
+    const v = Math.floor(Math.random() * 3);
+    if (v === 1) return q(qG1WeightB(a, b, cc), a, t("g1Weight", cc));
+    if (v === 2) return q(qG1WeightC(a, b, cc), b - a, t("g1Weight", cc));
     return q(qG1Weight(a, b, cc), b, t("g1Weight", cc));
   },
   volume: (cc) => {
     const a = randInt(1, 8), b = a + randInt(1, 5);
+    const v = Math.floor(Math.random() * 3);
+    if (v === 1) return q(qG1VolumeB(a, b, cc), a, t("g1Volume", cc));
+    if (v === 2) return q(qG1VolumeC(a, b, cc), b - a, t("g1Volume", cc));
     return q(qG1Volume(a, b, cc), b, t("g1Volume", cc));
   },
   pattern: (cc) => {
@@ -1213,7 +1247,7 @@ const GRADES_1_4: Record<number, Record<number, PeriodTopics>> = {
     2: { current: [G1.add10, G1.add10b, G1.sub10, G1.sub10b, G1.missing10sub, G1.evenOdd, G1.placeValue], review: [G1.compare] },
     3: { current: [G1.add20, G1.add20b, G1.sub20, G1.sub20b, G1.clock1, G1.numberLine, G1.gridCount], review: [G1.add10, G1.sub10, G1.missing10] },
     4: { current: [G1.add20, G1.sub20, G1.word1, G1.word2, G1.word3, G1.clockQuarter, G1.sequence, G1.coins], review: [G1.add10, G1.sub10, G1.compare] },
-    5: { current: [G1.add20, G1.add20b, G1.sub20, G1.sub20b, G1.word1, G1.word2, G1.word3, G1.word4, G1.word5, G1.compare, G1.missing10, G1.missing10sub, G1.clockQuarter, G1.evenOdd, G1.timeline, G1.fraction, G1.coins], review: [G1.add10, G1.sub10] },
+    5: { current: [G1.add20, G1.add20b, G1.sub20, G1.sub20b, G1.word1, G1.word2, G1.word3, G1.word4, G1.word5, G1.word6, G1.word7, G1.word8, G1.word9, G1.word10, G1.compare, G1.missing10, G1.missing10sub, G1.clockQuarter, G1.evenOdd, G1.timeline, G1.fraction, G1.coins], review: [G1.add10, G1.sub10] },
   },
   2: {
     1: { current: [G2.add100tens, G2.sub100tens, G2.add100, G2.missing100, G2.evenOdd], review: [G1.add20, G1.sub20] },
@@ -1436,7 +1470,7 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g1_wochentage', name: 'Days of the week', color: '#FB7185', icon: '📅', generators: [G1.wochentage] },
       { key: 'g1_coins',      name: 'Coins · Simple shopping', color: '#FFD700', icon: '🪙', generators: [G1.coins] },
       { key: 'g1_data',       name: 'Simple data (tables)', color: '#E879F9', icon: '📊', generators: [G1.dataTable] },
-      { key: 'word',          name: 'Story problems', color: '#C026D3', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
+      { key: 'word',          name: 'Story problems', color: '#C026D3', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5, G1.word6, G1.word7, G1.word8, G1.word9, G1.word10] },
     ]},
   ],
   2: [
@@ -1608,7 +1642,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g1_wochentage', name: 'Wochentage', color: '#FB7185', icon: '📅', generators: [G1.wochentage] },
       { key: 'g1_coins',      name: 'Münzen · Einfaches Einkaufen', color: '#FFD700', icon: '🪙', generators: [G1.coins] },
       { key: 'g1_data',       name: 'Einfache Daten (Tabellen)', color: '#E879F9', icon: '📊', generators: [G1.dataTable] },
-      { key: 'word',          name: 'Sachaufgaben', color: '#C026D3', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
+      { key: 'word',          name: 'Sachaufgaben', color: '#C026D3', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5, G1.word6, G1.word7, G1.word8, G1.word9, G1.word10] },
     ]},
   ],
   2: [
@@ -1818,7 +1852,7 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g1_wochentage', name: 'A hét napjai', color: '#FB7185', icon: '📅', generators: [G1.wochentage] },
       { key: 'g1_coins',      name: 'Érmék · Egyszerű vásárlás', color: '#FFD700', icon: '🪙', generators: [G1.coins] },
       { key: 'g1_data',       name: 'Egyszerű adatok (táblázatok)', color: '#E879F9', icon: '📊', generators: [G1.dataTable] },
-      { key: 'word',          name: 'Szöveges feladatok', color: '#C026D3', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
+      { key: 'word',          name: 'Szöveges feladatok', color: '#C026D3', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5, G1.word6, G1.word7, G1.word8, G1.word9, G1.word10] },
     ]},
   ],
   2: [
@@ -1986,7 +2020,7 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g1_wochentage', name: 'Zilele săptămânii', color: '#FB7185', icon: '📅', generators: [G1.wochentage] },
       { key: 'g1_coins',      name: 'Monede · Cumpărături simple', color: '#FFD700', icon: '🪙', generators: [G1.coins] },
       { key: 'g1_data',       name: 'Date simple (tabele)', color: '#E879F9', icon: '📊', generators: [G1.dataTable] },
-      { key: 'word',          name: 'Probleme', color: '#C026D3', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
+      { key: 'word',          name: 'Probleme', color: '#C026D3', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5, G1.word6, G1.word7, G1.word8, G1.word9, G1.word10] },
     ]},
   ],
   2: [
