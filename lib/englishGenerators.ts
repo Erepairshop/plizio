@@ -443,6 +443,29 @@ export const G2_Generators = {
         }
       }
       return q;
+    },
+    dictionary_skills_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const wordData = [
+        { word: "bat", definitions: ["stick used in baseball", "flying mammal"], correct: "baseball stick or flying animal" },
+        { word: "bank", definitions: ["financial institution", "side of river"], correct: "place for money or river edge" },
+        { word: "jam", definitions: ["sticky preserve", "stuck together"], correct: "fruit spread or stuck" },
+        { word: "fair", definitions: ["just and equal", "carnival or festival"], correct: "just or festival event" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(2, rng)) {
+          const data = pick(wordData, rng);
+          const wrong = wordData.filter(w => w !== data).map(w => w.correct).slice(0, 3);
+          q.push(createMCQ("vocab_g2", "dictionary_skills_g2",
+            `'${data.word}' has how many different meanings?`, "multiple", ["one", "two", "three"]));
+        } else {
+          const data = pick(wordData, rng);
+          q.push(createTyping("vocab_g2", "dictionary_skills_g2",
+            `Name a meaning of '${data.word}':`, data.definitions[0]));
+        }
+      }
+      return q;
     }
   },
   spelling_g2: {
