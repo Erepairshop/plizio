@@ -152,7 +152,8 @@ function AirHockeyPage() {
   const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
   const [scoreSubmitted, setScoreSubmitted] = useState(false);
   const broadcastChannelRef = useRef<RealtimeChannel | null>(null);
-  const oppPaddleRef = useRef({ x: 0.5, y: 0.15 });
+  // P1's AI starts at y=0.25 (top), P2's AI starts at y=0.75 (bottom)
+  const oppPaddleRef = useRef({ x: 0.5, y: (playerNum === "2") ? 0.75 : 0.25 });
   const scoreSubmittedRef = useRef(false);
 
   const canvasRef = useRef<HTMLCanvasElement>(null);
@@ -225,8 +226,8 @@ function AirHockeyPage() {
     const channel = supabase.channel(`airhockey-${matchId}`, { config: { broadcast: { self: false } } });
     channel.on("broadcast", { event: "paddlePos" }, (payload) => {
       if (payload.payload.p !== playerNum) {
-        // Flip Y: opponent's bottom (y≈0.75) → our top AI position (y≈0.25)
-        oppPaddleRef.current = { x: payload.payload.x, y: 1 - payload.payload.y };
+        // No Y-flip: same rink orientation for both. P1=bottom, P2=top, same coords.
+        oppPaddleRef.current = { x: payload.payload.x, y: payload.payload.y };
       }
     });
 
@@ -238,18 +239,20 @@ function AirHockeyPage() {
         const { pucks, ps1, ps2, serving, playerPaddleScale, aiPaddleScale, playerShield, aiShield } = payload.payload;
         if (pucks?.length > 0) {
           if (game.pucks.length !== pucks.length) {
-            // Puck count changed — hard reset
+            // Puck count changed — hard reset (no Y-flip: same view for both players)
             game.pucks = (pucks as {x:number,y:number,vx:number,vy:number,speed:number}[]).map(p => ({
-              x: p.x, y: 1 - p.y, vx: p.vx, vy: -p.vy, speed: p.speed,
+              x: p.x, y: p.y, vx: p.vx, vy: p.vy, speed: p.speed,
             }));
           } else {
-            // Lerp position, snap velocity (dead-reckoning correction)
+            // Lerp position, snap velocity (dead-reckoning correction, no Y-flip)
             for (let i = 0; i < pucks.length; i++) {
               const s = (pucks as {x:number,y:number,vx:number,vy:number,speed:number}[])[i];
               const b = game.pucks[i];
-              b.x = b.x + (s.x - b.x) * 0.4;
-              b.y = b.y + ((1 - s.y) - b.y) * 0.4;
-              b.vx = s.vx; b.vy = -s.vy; b.speed = s.speed;
+              const dx = s.x - b.x, dy = s.y - b.y;
+              const dist = Math.sqrt(dx*dx + dy*dy);
+              if (dist > 0.12) { b.x = s.x; b.y = s.y; } // snap on large jump
+              else { b.x += dx * 0.4; b.y += dy * 0.4; }
+              b.vx = s.vx; b.vy = s.vy; b.speed = s.speed;
             }
           }
         }
@@ -392,9 +395,9 @@ function AirHockeyPage() {
       return { rL, rT, rW, rH, rR: rL + rW, rB: rT + rH, w, h };
     };
 
-    // Normalized coords: 0..1 within rink
+    // Normalized coords: 0..1 within rink. P2 starts at top half (y=0.25).
     const game: GameState = {
-      playerX: 0.5, playerY: 0.75,
+      playerX: 0.5, playerY: (isMultiplayer && playerNum === "2") ? 0.25 : 0.75,
       aiX: 0.5, aiY: 0.25,
       pucks: [{ x: 0.5, y: 0.5, vx: 0, vy: 0, speed: 0 }],
       serving: true, serveTimer: Date.now(),
@@ -496,8 +499,9 @@ function AirHockeyPage() {
       }
     };
 
-    // Player input — free movement within bottom half
-    let playerTarget = { x: 0.5, y: 0.75 };
+    // Player input — P1 controls bottom half, P2 controls top half
+    const isP2 = isMultiplayer && playerNum === "2";
+    let playerTarget = { x: 0.5, y: isP2 ? 0.25 : 0.75 };
     const handlePointer = (e: PointerEvent | TouchEvent) => {
       const rect = canvas.getBoundingClientRect();
       const clientX = "touches" in e ? e.touches[0]?.clientX ?? 0 : (e as PointerEvent).clientX;
@@ -507,7 +511,11 @@ function AirHockeyPage() {
       const ny = ((clientY - rect.top) / rect.height * r.h - r.rT) / r.rH;
       const pr = padR();
       playerTarget.x = Math.max(pr, Math.min(1 - pr, nx));
-      playerTarget.y = Math.max(0.52, Math.min(1 - padRY(), ny)); // only bottom half
+      if (isP2) {
+        playerTarget.y = Math.max(padRY(), Math.min(0.48, ny)); // top half for P2
+      } else {
+        playerTarget.y = Math.max(0.52, Math.min(1 - padRY(), ny)); // bottom half for P1/solo
+      }
     };
     canvas.addEventListener("pointermove", handlePointer);
     canvas.addEventListener("pointerdown", handlePointer);
@@ -535,8 +543,8 @@ function AirHockeyPage() {
       // Keyboard
       if (keys.has("ArrowLeft") || keys.has("a")) playerTarget.x = Math.max(pr, playerTarget.x - 0.02 * dt);
       if (keys.has("ArrowRight") || keys.has("d")) playerTarget.x = Math.min(1 - pr, playerTarget.x + 0.02 * dt);
-      if (keys.has("ArrowUp") || keys.has("w")) playerTarget.y = Math.max(0.52, playerTarget.y - 0.02 * dt);
-      if (keys.has("ArrowDown") || keys.has("s")) playerTarget.y = Math.min(1 - prY, playerTarget.y + 0.02 * dt);
+      if (keys.has("ArrowUp") || keys.has("w")) playerTarget.y = Math.max(isP2 ? prY : 0.52, playerTarget.y - 0.02 * dt);
+      if (keys.has("ArrowDown") || keys.has("s")) playerTarget.y = Math.min(isP2 ? 0.48 : 1 - prY, playerTarget.y + 0.02 * dt);
 
       // Smooth player paddle movement
       game.playerX += (playerTarget.x - game.playerX) * Math.min(1, 0.3 * dt);

@@ -318,12 +318,19 @@ function PingPongPage() {
               speed: b.speed ?? 0, curveForce: 0, lastHitter: null, lastBounceSide: null,
             }));
           } else {
-            // Lerp position toward server (avoids hard snap), snap velocity immediately
+            // Snap on large corrections (paddle hit happened), lerp on small drift
             for (let i = 0; i < synced.length; i++) {
               const s = synced[i];
               const b = game.balls[i];
-              b.x = b.x + (s.x - b.x) * 0.4;
-              b.y = b.y + ((1 - s.y) - b.y) * 0.4;
+              const targetY = 1 - s.y;
+              const dx = s.x - b.x, dy = targetY - b.y;
+              const dist = Math.sqrt(dx*dx + dy*dy);
+              if (dist > 0.12) {
+                // Large jump = P1 hit happened → snap immediately
+                b.x = s.x; b.y = targetY;
+              } else {
+                b.x += dx * 0.35; b.y += dy * 0.35;
+              }
               b.vx = s.vx;
               b.vy = -s.vy;
               b.z = s.z;
@@ -845,6 +852,12 @@ function PingPongPage() {
           ball.vz -= GRAVITY * dt;
           ball.z += ball.vz * dt;
           if (ball.z <= 0 && ball.vz < 0) { ball.z = 0; ball.vz = Math.abs(ball.vz) * BOUNCE_DAMP; }
+          // Side walls: bounce visually (P1 may score off-side, but we don't know which side)
+          if (ball.x < -0.05) { ball.x = -0.05; ball.vx = Math.abs(ball.vx); }
+          if (ball.x > 1.05) { ball.x = 1.05; ball.vx = -Math.abs(ball.vx); }
+          // Clamp y so ball stays visible — sync will correct actual position
+          if (ball.y < -0.2) ball.y = -0.2;
+          if (ball.y > 1.2) ball.y = 1.2;
         }
       }
       if (!game.serving && !game.gameOver && (!isMultiplayer || playerNum === "1")) {
