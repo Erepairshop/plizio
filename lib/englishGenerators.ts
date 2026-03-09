@@ -184,11 +184,24 @@ export const G1_Generators = {
     blends_g1: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const blendWords: [string, string][] = [["st","stop"],["st","stand"],["gr","green"],["bl","black"],["gr","ground"],["pl","place"],["tr","tree"],["br","bring"],["sm","small"],["cr","cross"],["dr","drive"],["fl","flags"],["tr","trade"],["pl","please"]];
+      // Pre-paired: each blend with its valid words (VALIDÁLT — minden szó valóban tartalmazza a blend-et)
+      const blendData = [
+        { blend: "st", words: ["stop", "stand", "step", "star", "study", "stone", "stick", "strong"] },
+        { blend: "gr", words: ["green", "ground", "grade", "great", "grab", "graph", "grass", "grow"] },
+        { blend: "bl", words: ["black", "blue", "block", "blink", "blend", "blanket", "blurry"] },
+        { blend: "pl", words: ["place", "play", "plant", "plane", "please", "plan", "plot", "plum"] },
+        { blend: "tr", words: ["tree", "trade", "train", "track", "try", "truck", "trash", "treat"] },
+        { blend: "dr", words: ["drive", "drop", "draw", "dragon", "dress", "drink", "dream", "drip"] },
+        { blend: "br", words: ["bring", "bread", "break", "bridge", "bright", "branch", "brick", "brown"] },
+        { blend: "fl", words: ["flags", "flag", "flash", "float", "floor", "fly", "flip", "flow"] },
+        { blend: "cr", words: ["cross", "cry", "crown", "crash", "create", "cream", "crop", "crawl"] },
+        { blend: "sm", words: ["small", "smart", "smile", "smoke", "smooth", "smell"] },
+      ];
       for (let i = 0; i < 30; i++) {
-        const [blend, word] = pick(blendWords, rng);
-        const wrong = blendWords.filter(b => b[0] !== blend).map(b => b[0]).slice(0, 3);
-        q.push(createMCQ("phonics_g1", "blends_g1", `Which blend starts '${word}'?`, blend, wrong));
+        const blendSet = pick(blendData, rng);
+        const word = pick(blendSet.words, rng);
+        const wrong = blendData.filter(b => b.blend !== blendSet.blend).map(b => b.blend).slice(0, 3);
+        q.push(createMCQ("phonics_g1", "blends_g1", `Which blend starts '${word}'?`, blendSet.blend, wrong));
       }
       return q;
     },
@@ -389,14 +402,24 @@ export const G4_Generators = {
     modal_verbs_g4: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const modals = ["can", "could", "may", "might", "must", "should", "would"];
+      // Pre-paired: modal with its valid sentence contexts (VALIDÁLT — szöveg-modal megfelelés)
+      const modalData = [
+        { modal: "can", sentences: ["I ___ swim.", "You ___ help.", "She ___ run fast.", "Dogs ___ bark."] },
+        { modal: "could", sentences: ["She ___ help us.", "I ___ swim when I was younger.", "He ___ run faster then.", "They ___ dance well."] },
+        { modal: "may", sentences: ["You ___ leave now.", "I ___ go to the party?", "She ___ have a second piece."] },
+        { modal: "might", sentences: ["It ___ rain tomorrow.", "They ___ come later.", "I ___ be late.", "He ___ win the race."] },
+        { modal: "must", sentences: ["You ___ study hard.", "We ___ arrive on time.", "She ___ finish her homework.", "Everyone ___ follow rules."] },
+        { modal: "should", sentences: ["You ___ rest.", "He ___ practice more.", "We ___ call our parents.", "I ___ drink water."] },
+        { modal: "would", sentences: ["I ___ like tea.", "She ___ prefer coffee.", "They ___ enjoy the movie.", "We ___ help if we could."] },
+      ];
+      const modals = modalData.map(m => m.modal);
       for (let i = 0; i < 30; i++) {
         if (isMCQ(4, rng)) {
-          const modal = pick(modals, rng);
-          const wrong = modals.filter(m => m !== modal).slice(0, 3);
-          const sentences: Record<string, string> = { can:"I ___ swim.", could:"She ___ help us.", may:"You ___ leave now.", might:"It ___ rain.", must:"You ___ study.", should:"You ___ rest.", would:"I ___ like tea." };
+          const modalSet = pick(modalData, rng);
+          const sentence = pick(modalSet.sentences, rng);
+          const wrong = modals.filter(m => m !== modalSet.modal).slice(0, 3);
           q.push(createMCQ("pos_g4", "modal_verbs_g4",
-            `Fill in: "${sentences[modal] || "I ___ help."}"`, modal, wrong));
+            `Fill in: "${sentence}"`, modalSet.modal, wrong));
         } else {
           q.push(createTyping("pos_g4", "modal_verbs_g4",
             "Name a modal verb:", pick(modals, rng)));
@@ -506,14 +529,22 @@ export const G6_Generators = {
     literary_devices_g6: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const devices = ["alliteration", "metaphor", "simile", "personification", "hyperbole"];
+      // Pre-paired: device with valid examples (VALIDÁLT — példa valóban azt az elemet mutatja)
+      const deviceData = [
+        { device: "alliteration", examples: ["'Peter Piper picked peppers'", "'Sally sells seashells'", "'The big brown bear'", "'Silly Sally swam swiftly'"] },
+        { device: "metaphor", examples: ["'Time is money'", "'The world is a stage'", "'His heart is ice'", "'She is a flower'"] },
+        { device: "simile", examples: ["'Fast as lightning'", "'Bright like a star'", "'Heavy as lead'", "'Sleep like a baby'"] },
+        { device: "personification", examples: ["'The wind whispered'", "'The stars danced'", "'The tree swayed gracefully'", "'The sun smiled down'"] },
+        { device: "hyperbole", examples: ["'I've told you a million times'", "'I'm dying of hunger'", "'That's the best thing ever'", "'I could sleep for a year'"] },
+      ];
+      const devices = deviceData.map(d => d.device);
       for (let i = 0; i < 30; i++) {
         if (isMCQ(6, rng)) {
-          const device = pick(devices, rng);
-          const wrong = devices.filter(d => d !== device).slice(0, 3);
-          const examples: Record<string, string> = { alliteration:"'Peter Piper picked peppers'", metaphor:"'Time is money'", simile:"'Fast as lightning'", personification:"'The wind whispered'", hyperbole:"'I've told you a million times'" };
+          const deviceSet = pick(deviceData, rng);
+          const example = pick(deviceSet.examples, rng);
+          const wrong = devices.filter(d => d !== deviceSet.device).slice(0, 3);
           q.push(createMCQ("literary_g6", "literary_devices_g6",
-            `What device is ${examples[device] || "'The stars danced'"}?`, device, wrong));
+            `What device is ${example}?`, deviceSet.device, wrong));
         } else {
           q.push(createTyping("literary_g6", "literary_devices_g6",
             "Name a literary device:", pick(devices, rng)));
@@ -531,14 +562,21 @@ export const G7_Generators = {
     verb_mood_g7: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const moods = ["indicative", "imperative", "subjunctive", "conditional"];
+      // Pre-paired: mood with valid descriptions & examples (VALIDÁLT — leírás a mood-nak megfelelő)
+      const moodData = [
+        { mood: "indicative", descriptions: ["states a fact", "declares reality", "makes a statement of truth", "presents what is true"], examples: ["'The cat is sleeping.'", "'She went to school.'", "'It rains today.'"] },
+        { mood: "imperative", descriptions: ["gives a command", "makes a request", "tells someone what to do", "issues an instruction"], examples: ["'Go to bed!'", "'Please help me.'", "'Sit down now!'"] },
+        { mood: "subjunctive", descriptions: ["expresses a wish or hypothetical", "shows doubt or contrary fact", "uses 'if' or 'were'", "expresses desire or condition"], examples: ["'If I were you...'", "'I wish it were Friday.'", "'Though he be poor...'"] },
+        { mood: "conditional", descriptions: ["depends on a condition", "uses 'would' or 'could'", "expresses hypothetical result", "shows if-then relationship"], examples: ["'If you study, you would pass.'", "'I would help if I could.'", "'They would come if invited.'"] },
+      ];
+      const moods = moodData.map(m => m.mood);
       for (let i = 0; i < 30; i++) {
         if (isMCQ(7, rng)) {
-          const mood = pick(moods, rng);
-          const wrong = moods.filter(m => m !== mood).slice(0, 3);
-          const moodExamples: Record<string, string> = { indicative:"states a fact", imperative:"gives a command", subjunctive:"expresses a wish or hypothetical", conditional:"depends on a condition" };
+          const moodSet = pick(moodData, rng);
+          const description = pick(moodSet.descriptions, rng);
+          const wrong = moods.filter(m => m !== moodSet.mood).slice(0, 3);
           q.push(createMCQ("syntax_g7", "verb_mood_g7",
-            `Which mood ${moodExamples[mood] || "expresses a wish"}?`, mood, wrong));
+            `Which mood ${description}?`, moodSet.mood, wrong));
         } else {
           q.push(createTyping("syntax_g7", "verb_mood_g7",
             "Name a verb mood:", pick(moods, rng)));
@@ -595,14 +633,21 @@ export const G8_Generators = {
     critical_theory_g8: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const theories = ["New Historicism", "Marxist Criticism", "Feminist Criticism", "Queer Theory"];
+      // Pre-paired: theory with valid descriptions (VALIDÁLT — leírás valóban azt a teóriát jellemzi)
+      const theoryData = [
+        { theory: "New Historicism", descriptions: ["examines texts in historical context", "connects literature to its time period", "studies historical events alongside texts", "analyzes cultural and social conditions"] },
+        { theory: "Marxist Criticism", descriptions: ["analyzes power, class, and economics", "focuses on wealth inequality", "examines working-class perspectives", "studies capital and labor relations"] },
+        { theory: "Feminist Criticism", descriptions: ["examines gender roles and representation", "studies women's perspectives in texts", "analyzes how women are portrayed", "focuses on gender equality issues"] },
+        { theory: "Queer Theory", descriptions: ["challenges norms of gender and sexuality", "questions traditional identity categories", "examines LGBTQ+ perspectives", "disrupts conventional thinking about sexuality"] },
+      ];
+      const theories = theoryData.map(t => t.theory);
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
-          const theory = pick(theories, rng);
-          const wrong = theories.filter(t => t !== theory).slice(0, 3);
-          const theoryDesc: Record<string, string> = { "New Historicism":"examines texts in historical context", "Marxist Criticism":"analyzes power, class, and economics", "Feminist Criticism":"examines gender roles and representation", "Queer Theory":"challenges norms of gender and sexuality" };
+          const theorySet = pick(theoryData, rng);
+          const description = pick(theorySet.descriptions, rng);
+          const wrong = theories.filter(t => t !== theorySet.theory).slice(0, 3);
           q.push(createMCQ("analysis_g8", "critical_theory_g8",
-            `Which theory ${theoryDesc[theory] || "examines social structures"}?`, theory, wrong));
+            `Which theory ${description}?`, theorySet.theory, wrong));
         } else {
           q.push(createTyping("analysis_g8", "critical_theory_g8",
             "Name a critical theory:", pick(theories, rng)));
