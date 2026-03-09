@@ -212,6 +212,7 @@ function PingPongPage() {
   const broadcastChannelRef = useRef<RealtimeChannel | null>(null);
   const oppPaddleXRef = useRef(0.5);
   const oppPaddleYRef = useRef(AI_Y_DEFAULT);
+  const scoreSubmittedRef = useRef(false);
 
   // Canvas ref
   const canvasRef = useRef<HTMLCanvasElement>(null);
@@ -294,17 +295,56 @@ function PingPongPage() {
     channel.on("broadcast", { event: "paddlePos" }, (payload) => {
       if (payload.payload.p !== playerNum) {
         oppPaddleXRef.current = payload.payload.x;
-        // Flip Y coordinate: opponent's bottom (y≈0.88) becomes our top (y≈0.12)
+        // Flip Y: opponent's bottom (y≈0.88) → our top (y≈0.12)
         if (payload.payload.y !== undefined) {
           oppPaddleYRef.current = 1 - payload.payload.y;
         }
       }
     });
 
-    channel.on("broadcast", { event: "scored" }, (payload) => {
-      if (payload.payload.p !== playerNum) {
-        // Opponent scored — update our display
-        // We trust the physics on each client, but sync score for UI
+    // P2 receives authoritative ball state from P1
+    let gameOverHandled = false;
+    channel.on("broadcast", { event: "ballSync" }, (payload) => {
+      if (playerNum !== "1" && gameRef.current) {
+        const game = gameRef.current;
+        const { balls, ps1, ps2, serving, ripples } = payload.payload;
+        // Apply ball positions with y-flip for P2's mirrored perspective
+        if (balls?.length > 0) {
+          game.balls = (balls as {x:number,y:number,vx:number,vy:number,z:number,vz:number}[]).map(b => ({
+            x: b.x, y: 1 - b.y, vx: b.vx, vy: -b.vy, z: b.z, vz: b.vz,
+            speed: 0, curveForce: 0, lastHitter: null, lastBounceSide: null,
+          }));
+        }
+        if (typeof serving === "boolean") game.serving = serving;
+        // P2 displays ps2 as their score, ps1 as opponent
+        if (ps1 !== undefined && ps2 !== undefined) {
+          playerScoreRef.current = ps2;
+          aiScoreRef.current = ps1;
+          setPlayerScore(ps2);
+          setAiScore(ps1);
+        }
+        // Ripples from P1 (y-flipped)
+        if (ripples?.length > 0) {
+          for (const r of (ripples as {x:number,y:number}[])) {
+            game.bounceRipples.push({ x: r.x, y: 1 - r.y, age: 0 });
+          }
+        }
+      }
+    });
+
+    // P2 receives game-over signal from P1 — skip waiting screen entirely
+    channel.on("broadcast", { event: "gameOver" }, (payload) => {
+      if (playerNum !== "1" && !gameOverHandled) {
+        gameOverHandled = true;
+        const { p1score, p2score } = payload.payload as {p1score:number, p2score:number};
+        if (gameRef.current) gameRef.current.gameOver = true;
+        if (matchId && !scoreSubmittedRef.current) {
+          scoreSubmittedRef.current = true;
+          submitScore(matchId, p2score, false);
+        }
+        setMyFinalScore(p2score);
+        setOppFinalScore(p1score);
+        setScreen("multi-result");
       }
     });
 
@@ -356,28 +396,23 @@ function PingPongPage() {
 
   // ─── Handle Win ──────────────────────────────────────────
   const handleGameEnd = useCallback((won: boolean, myScore: number, oppScore: number) => {
-    // Multiplayer: submit score
-    if (isMultiplayer && matchId && !scoreSubmitted) {
+    // Multiplayer (P1 only — P2 receives gameOver broadcast)
+    if (isMultiplayer && matchId && playerNum === "1" && !scoreSubmitted) {
       setScoreSubmitted(true);
-      const finalScore = won ? myScore : -myScore; // positive = won
-      if (isMix) {
-        submitMixRoundScore(matchId, myScore, playerNum === "1");
-      } else {
-        submitScore(matchId, myScore, playerNum === "1");
-      }
-
-      // Still save card for multiplayer
+      scoreSubmittedRef.current = true;
+      // Submit P1's score to Supabase (fire-and-forget)
+      submitScore(matchId, myScore, true);
+      // Broadcast final scores to P2 so they can show result immediately
+      broadcastChannelRef.current?.send({
+        type: "broadcast",
+        event: "gameOver",
+        payload: { p1score: myScore, p2score: oppScore },
+      });
+      // Save card
       if (won) {
         const streak = updateStreak();
         const rarity = calculateRarity(myScore, WIN_SCORE, streak, false);
-        saveCard({
-          id: generateCardId(),
-          game: "pingpong",
-          rarity,
-          score: myScore,
-          total: WIN_SCORE,
-          date: new Date().toISOString(),
-        });
+        saveCard({ id: generateCardId(), game: "pingpong", rarity, score: myScore, total: WIN_SCORE, date: new Date().toISOString() });
         window.dispatchEvent(new Event("plizio-cards-changed"));
         setEarnedCard(rarity);
       }
@@ -386,8 +421,9 @@ function PingPongPage() {
       const newMs = checkNewMilestones();
       if (newMs.length > 0) setMilestones(newMs.map(m => m.id));
       setMyFinalScore(myScore);
+      setOppFinalScore(oppScore);
       setAvatarMood(won ? "victory" : "disappointed");
-      setScreen("multi-waiting");
+      setScreen("multi-result"); // direct result, no waiting
       return;
     }
 
@@ -623,8 +659,8 @@ function PingPongPage() {
     };
     const handlePointerDown = (e: PointerEvent | TouchEvent) => {
       handlePointer(e);
-      // Tap to serve — player must tap to launch their serve
-      if (game.serving && game.playerServes) launchBall();
+      // Tap to serve — only for solo or P1 in multiplayer
+      if (game.serving && game.playerServes && (!isMultiplayer || playerNum === "1")) launchBall();
     };
     canvas.addEventListener("pointermove", handlePointer);
     canvas.addEventListener("pointerdown", handlePointerDown);
@@ -638,8 +674,9 @@ function PingPongPage() {
     window.addEventListener("keydown", handleKeyDown);
     window.addEventListener("keyup", handleKeyUp);
 
-    // Multiplayer: broadcast paddle position
+    // Multiplayer: broadcast paddle position + ball state
     let broadcastTimer = 0;
+    let newRipplesSinceLast: {x:number,y:number}[] = [];
 
     // Initial serve
     resetBall(true);
@@ -695,7 +732,7 @@ function PingPongPage() {
         }
       }
 
-      // Broadcast paddle position
+      // Broadcast: paddle position (both players) + ball state (P1 only)
       if (isMultiplayer && broadcastChannelRef.current) {
         broadcastTimer += dt;
         if (broadcastTimer > 4) { // ~every 66ms
@@ -705,20 +742,35 @@ function PingPongPage() {
             event: "paddlePos",
             payload: { p: playerNum, x: game.playerX, y: game.playerY },
           });
+          // P1 is authoritative: broadcast ball state + scores to P2
+          if (playerNum === "1") {
+            broadcastChannelRef.current.send({
+              type: "broadcast",
+              event: "ballSync",
+              payload: {
+                balls: game.balls.map(b => ({ x: b.x, y: b.y, vx: b.vx, vy: b.vy, z: b.z, vz: b.vz })),
+                ps1: playerScoreRef.current,
+                ps2: aiScoreRef.current,
+                serving: game.serving,
+                ripples: newRipplesSinceLast,
+              },
+            });
+            newRipplesSinceLast = [];
+          }
         }
       }
 
-      // Serve handling
-      if (game.serving && !game.gameOver) {
+      // Serve handling — P1 is authoritative; P2 just renders received ball state
+      if (game.serving && !game.gameOver && (!isMultiplayer || playerNum === "1")) {
         const serveBall = game.balls[0];
         if (game.playerServes) {
           // Ball follows paddle so player sees exactly what they'll hit
           serveBall.x = game.playerX;
           serveBall.y = game.playerY - PADDLE_R - BALL_RADIUS / tW - 0.01;
-          // Auto-serve fallback after 3 s
+          // Auto-serve fallback after 3 s (player normally taps to serve)
           if (Date.now() - game.serveTimer > 3000) launchBall();
         } else {
-          // AI serve: auto-launch after short delay
+          // AI/opponent serve: auto-launch after short delay
           if (Date.now() - game.serveTimer > SERVE_DELAY) launchBall();
         }
       }
@@ -763,7 +815,14 @@ function PingPongPage() {
       const playerR = visualPaddleR * game.playerPaddleScale;
       const aiR = visualPaddleR * game.aiPaddleScale;
 
-      if (!game.serving && !game.gameOver) {
+      // Ripple aging runs for all players (P2 receives ripples via ballSync)
+      if (!game.gameOver) {
+        for (const r of game.bounceRipples) r.age += dt;
+        game.bounceRipples = game.bounceRipples.filter(r => r.age < 28);
+      }
+
+      // Ball physics — P1 is authoritative in multiplayer; P2 skips this entirely
+      if (!game.serving && !game.gameOver && (!isMultiplayer || playerNum === "1")) {
         const ballsToRemove: number[] = [];
 
         for (let bi = 0; bi < game.balls.length; bi++) {
@@ -780,6 +839,7 @@ function PingPongPage() {
             // Create ripple on table if ball is within table bounds
             if (ball.x >= 0 && ball.x <= 1 && ball.y >= 0 && ball.y <= 1) {
               game.bounceRipples.push({ x: ball.x, y: ball.y, age: 0 });
+              if (isMultiplayer && playerNum === "1") newRipplesSinceLast.push({ x: ball.x, y: ball.y });
               // Double-bounce rule: ball bounced twice on same side → other side scores
               const bounceSide: "player" | "ai" = ball.y >= 0.5 ? "player" : "ai";
               if (ball.lastBounceSide === bounceSide) {
@@ -868,10 +928,6 @@ function PingPongPage() {
             else ballsToRemove.push(bi);
           }
         }
-
-        // Advance ripple ages and cull old ones
-        for (const r of game.bounceRipples) r.age += dt;
-        game.bounceRipples = game.bounceRipples.filter(r => r.age < 28);
 
         // Remove extra balls that went off screen
         for (let i = ballsToRemove.length - 1; i >= 0; i--) {
