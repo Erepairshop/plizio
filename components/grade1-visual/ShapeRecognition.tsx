@@ -92,7 +92,6 @@ const ShapeRecognition: React.FC<ShapeRecognitionProps> = ({
 
   const renderShape = (shapeType: ShapeType, size: number = 120) => {
     const containerSize = size;
-    const radius = size / 2;
     const halfSize = size / 2;
 
     switch (shapeType) {

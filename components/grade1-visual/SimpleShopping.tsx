@@ -13,6 +13,7 @@ interface Props {
 const LABELS = {
   hu: {
     title: 'Bevásárlás',
+    question: 'Elegendő érméd van a megvásárláshoz?',
     coins: 'érme',
     total: 'Összesen:',
     have: 'Van nálad:',
@@ -24,6 +25,7 @@ const LABELS = {
   },
   de: {
     title: 'Einkaufen',
+    question: 'Hast du genug Münzen zum Kaufen?',
     coins: 'Münze',
     total: 'Preis:',
     have: 'Du hast:',
@@ -35,6 +37,7 @@ const LABELS = {
   },
   en: {
     title: 'Shopping',
+    question: 'Do you have enough coins to buy it?',
     coins: 'coin',
     total: 'Price:',
     have: 'You have:',
@@ -46,6 +49,7 @@ const LABELS = {
   },
   ro: {
     title: 'Cumpărături',
+    question: 'Ai destule monede să cumperi?',
     coins: 'monedă',
     total: 'Preț:',
     have: 'Ai:',
@@ -124,9 +128,7 @@ export default function SimpleShopping({ lang, embedded = false, onValueChange, 
 
       {/* Question */}
       <div className="text-center text-sm font-bold text-slate-700">
-        {embedded
-          ? `${question.price} vs ${question.userCoins}?`
-          : `Elegendő érméd van a megvásárláshoz?`}
+        {labels.question}
       </div>
 
       {/* Answer Buttons */}

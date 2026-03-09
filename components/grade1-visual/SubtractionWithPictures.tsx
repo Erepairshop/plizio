@@ -15,24 +15,28 @@ const LABELS = {
   hu: {
     title: 'Kivonás képekkel',
     hint: 'Vond ki a képeket!',
+    check: 'Ellenőrzés',
     correct: 'Helyes! ✓',
     incorrect: 'Nem jó. Próbáld újra!',
   },
   de: {
     title: 'Subtraktion mit Bildern',
     hint: 'Subtrahiere die Bilder!',
+    check: 'Prüfen',
     correct: 'Richtig! ✓',
     incorrect: 'Falsch. Versuche nochmal!',
   },
   en: {
     title: 'Subtraction with Pictures',
     hint: 'Subtract the pictures!',
+    check: 'Check',
     correct: 'Correct! ✓',
     incorrect: 'Wrong. Try again!',
   },
   ro: {
     title: 'Scădere cu imagini',
     hint: 'Scade imaginile!',
+    check: 'Verifică',
     correct: 'Corect! ✓',
     incorrect: 'Greșit. Încearcă din nou!',
   },
@@ -161,7 +165,7 @@ const SubtractionWithPictures: React.FC<SubtractionWithPicturesProps> = ({
           disabled={!userAnswer}
           className="w-full px-4 py-2 bg-red-500 text-white font-bold rounded-lg hover:bg-red-600 disabled:bg-slate-300 disabled:cursor-not-allowed transition active:scale-95"
         >
-          ✓ Check
+          ✓ {t.check}
         </button>
       </div>
 

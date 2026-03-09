@@ -13,6 +13,7 @@ interface Props {
 const LABELS = {
   hu: {
     title: 'Mennyiség összehasonlítása',
+    question: 'Az A pohárban több vagy kevesebb folyadék van, mint B-ben?',
     more: 'Több',
     less: 'Kevesebb',
     equal: 'Egyenlő',
@@ -22,6 +23,7 @@ const LABELS = {
   },
   de: {
     title: 'Menge vergleichen',
+    question: 'Hat Glas A mehr oder weniger Flüssigkeit als B?',
     more: 'Mehr',
     less: 'Weniger',
     equal: 'Gleich',
@@ -31,6 +33,7 @@ const LABELS = {
   },
   en: {
     title: 'Volume Comparison',
+    question: 'Does glass A have more or less liquid than B?',
     more: 'More',
     less: 'Less',
     equal: 'Equal',
@@ -40,6 +43,7 @@ const LABELS = {
   },
   ro: {
     title: 'Compararea volumului',
+    question: 'Paharul A are mai mult sau mai puțin lichid decât B?',
     more: 'Mai mult',
     less: 'Mai puțin',
     equal: 'Egal',
@@ -119,7 +123,7 @@ export default function VolumeComparison({ lang, embedded = false, onValueChange
 
       {/* Question */}
       <div className="text-center text-sm font-bold text-slate-700">
-        {embedded ? 'A vs B?' : 'Az A-ban több vagy kevesebb folyadék van, mint B-ben?'}
+        {labels.question}
       </div>
 
       {/* Answer Buttons */}

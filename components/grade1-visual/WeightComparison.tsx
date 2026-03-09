@@ -13,6 +13,7 @@ interface Props {
 const LABELS = {
   hu: {
     title: 'Súly összehasonlítása',
+    question: 'A nehezebb vagy könnyebb, mint B?',
     heavier: 'Nehezebb',
     lighter: 'Könnyebb',
     equal: 'Egyenlő',
@@ -22,6 +23,7 @@ const LABELS = {
   },
   de: {
     title: 'Gewicht vergleichen',
+    question: 'Ist A schwerer oder leichter als B?',
     heavier: 'Schwerer',
     lighter: 'Leichter',
     equal: 'Gleich',
@@ -31,6 +33,7 @@ const LABELS = {
   },
   en: {
     title: 'Weight Comparison',
+    question: 'Is A heavier or lighter than B?',
     heavier: 'Heavier',
     lighter: 'Lighter',
     equal: 'Equal',
@@ -40,6 +43,7 @@ const LABELS = {
   },
   ro: {
     title: 'Compararea greutății',
+    question: 'A este mai greu sau mai ușor decât B?',
     heavier: 'Mai greu',
     lighter: 'Mai ușor',
     equal: 'Egal',
@@ -133,7 +137,7 @@ export default function WeightComparison({ lang, embedded = false, onValueChange
 
       {/* Question */}
       <div className="text-center text-sm font-bold text-slate-700">
-        {embedded ? `${question.a} vs ${question.b}?` : `A nehezebb vagy könnyebb, mint B?`}
+        {labels.question}
       </div>
 
       {/* Answer Buttons */}

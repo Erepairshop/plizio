@@ -2,7 +2,7 @@
 
 import React, { useState, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Check, X, Plus, Equal } from 'lucide-react';
+import { Check, X } from 'lucide-react';
 
 interface AdditionWithPicturesProps {
   lang?: 'hu' | 'de' | 'en' | 'ro';
@@ -15,24 +15,28 @@ const LABELS = {
   hu: {
     title: 'Összeadás képekkel',
     hint: 'Összeadj meg a képeket!',
+    check: 'Ellenőrzés',
     correct: 'Helyes! ✓',
     incorrect: 'Nem jó. Próbáld újra!',
   },
   de: {
     title: 'Addition mit Bildern',
     hint: 'Addiere die Bilder!',
+    check: 'Prüfen',
     correct: 'Richtig! ✓',
     incorrect: 'Falsch. Versuche nochmal!',
   },
   en: {
     title: 'Addition with Pictures',
     hint: 'Add up the pictures!',
+    check: 'Check',
     correct: 'Correct! ✓',
     incorrect: 'Wrong. Try again!',
   },
   ro: {
     title: 'Adunare cu imagini',
     hint: 'Adună imaginile!',
+    check: 'Verifică',
     correct: 'Corect! ✓',
     incorrect: 'Greșit. Încearcă din nou!',
   },
@@ -171,7 +175,7 @@ const AdditionWithPictures: React.FC<AdditionWithPicturesProps> = ({
           disabled={!userAnswer}
           className="w-full px-4 py-2 bg-orange-500 text-white font-bold rounded-lg hover:bg-orange-600 disabled:bg-slate-300 disabled:cursor-not-allowed transition active:scale-95"
         >
-          ✓ Check
+          ✓ {t.check}
         </button>
       </div>
 
