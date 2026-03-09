@@ -1,5 +1,13 @@
+Options -Indexes
+RewriteEngine On
+
+# ─── _next/ → next_static/ ───────────────────────────────────────────────────
+# Cloudflare Transform Rule is supposed to do this, but this is a server-level
+# fallback. Works even if Cloudflare rule is off/broken.
+RewriteCond %{REQUEST_URI} ^/_next/(.*)$
+RewriteRule ^_next/(.*)$ /next_static/$1 [L,QSA]
+
 # ─── HTML: soha ne cache-elje Cloudflare / böngésző ─────────────────────────
-# (Next.js chunk nevek build-enként változnak, régi HTML + új chunk = 404)
 <FilesMatch "\.(html|htm)$">
     Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
     Header set Pragma "no-cache"
@@ -7,7 +15,6 @@
 </FilesMatch>
 
 # ─── JS/CSS/font: 1 évig cache-elhető ────────────────────────────────────────
-# (content-hash-elt fájlnevek → biztonságos hosszú cache)
 <FilesMatch "\.(js|css|woff2|woff|ttf|eot|svg|png|jpg|jpeg|gif|ico|webp|avif)$">
     Header set Cache-Control "public, max-age=31536000, immutable"
 </FilesMatch>
