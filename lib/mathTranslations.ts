@@ -111,12 +111,44 @@ const topicNames: Record<Lang, Record<string, string>> = {
     g1Timeline: "időtartam (órák)",
     g1Fraction: "részek számolása",
     evenOdd: "páros / páratlan",
+    g1Zaehlen: "számolás 0–10",
+    g1Vorgaenger: "előző / következő szám",
+    g1Tausch: "felcserélés / visszafordítás",
+    g1Zahlzerlegung: "számfelbontás",
+    g1Verdoppeln: "kétszereselés",
+    g1Halbieren: "felezés",
+    g1Shapes: "alakzatok",
+    g1Laenger: "hosszabb / rövidebb",
+    g1Wochentage: "napok",
+    g1PlaceValue20: "tízes és egyes (11–20)",
+    g1Spatial: "térbeli irányok",
+    g1Weight: "súly összehasonlítás",
+    g1Volume: "térfogat összehasonlítás",
+    g1Pattern: "minta folytatás",
+    g1NumberOrder: "számok sorrendje",
+    g1DataTable: "adatok olvasása",
+    g1VisualCount: "vizuális számolás",
     statistics: "statisztika",
     volume: "térfogat",
     rounding10: "kerekítés 10-esre",
     rounding100: "kerekítés 100-asra",
     fractionDiffDenom: "tört különböző nevezővel",
     systemEq: "egyenletrendszer",
+    addNoCarry: "összeadás átlépés nélkül",
+    addCarry: "összeadás tízes átlépéssel",
+    add3nums: "három szám összeadása",
+    subNoCarry: "kivonás kölcsönzés nélkül",
+    subCarry: "kivonás kölcsönzéssel",
+    mulRepeated: "szorzás mint összeadás",
+    mulGroup: "csoportok számlálása",
+    divShare: "egyenlő elosztás",
+    divMulRel: "szorzás és osztás kapcsolata",
+    weightGKg: "gramm és kilogramm",
+    moneyEuroCent: "euró és cent",
+    shapeBasic: "síkidomok",
+    perimeterBasic: "egyszerű kerület",
+    stellenwert2: "tízes és egyes",
+    zahlzerlegung2: "számfelbontás 100-ig",
   },
   DE: {
     addition: "Addition",
@@ -197,12 +229,44 @@ const topicNames: Record<Lang, Record<string, string>> = {
     g1Timeline: "Zeitdauer (Stunden)",
     g1Fraction: "Teile zählen",
     evenOdd: "gerade / ungerade",
+    g1Zaehlen: "Zählen bis 10",
+    g1Vorgaenger: "Vorgänger / Nachfolger",
+    g1Tausch: "Tausch- und Umkehraufgaben",
+    g1Zahlzerlegung: "Zahlzerlegung",
+    g1Verdoppeln: "Verdoppeln",
+    g1Halbieren: "Halbieren",
+    g1Shapes: "Formen",
+    g1Laenger: "länger / kürzer",
+    g1Wochentage: "Wochentage",
+    g1PlaceValue20: "Zehner und Einer (11–20)",
+    g1Spatial: "Richtungen",
+    g1Weight: "Gewicht vergleichen",
+    g1Volume: "Mengen vergleichen",
+    g1Pattern: "Muster fortsetzen",
+    g1NumberOrder: "Zahlen ordnen",
+    g1DataTable: "Daten lesen",
+    g1VisualCount: "Mengen erkennen",
     statistics: "Statistik",
     volume: "Volumen",
     rounding10: "Runden auf Zehner",
     rounding100: "Runden auf Hunderter",
     fractionDiffDenom: "Brüche mit versch. Nenner",
     systemEq: "Gleichungssystem",
+    addNoCarry: "Addition ohne Zehnerübergang",
+    addCarry: "Addition mit Zehnerübergang",
+    add3nums: "Drei Zahlen addieren",
+    subNoCarry: "Subtraktion ohne Zehnerübergang",
+    subCarry: "Subtraktion mit Zehnerübergang",
+    mulRepeated: "Multiplikation als Wiederholung",
+    mulGroup: "Gruppenweise zählen",
+    divShare: "Gleiches Aufteilen",
+    divMulRel: "Zusammenhang × und ÷",
+    weightGKg: "Gramm und Kilogramm",
+    moneyEuroCent: "Euro und Cent",
+    shapeBasic: "Ebene Figuren",
+    perimeterBasic: "Einfacher Umfang",
+    stellenwert2: "Zehner und Einer",
+    zahlzerlegung2: "Zahlenzerlegung bis 100",
   },
   EN: {
     addition: "addition",
@@ -283,12 +347,44 @@ const topicNames: Record<Lang, Record<string, string>> = {
     g1Timeline: "time duration (hours)",
     g1Fraction: "counting parts",
     evenOdd: "even / odd",
+    g1Zaehlen: "counting to 10",
+    g1Vorgaenger: "before / after",
+    g1Tausch: "swap / inverse tasks",
+    g1Zahlzerlegung: "number bonds",
+    g1Verdoppeln: "doubling",
+    g1Halbieren: "halving",
+    g1Shapes: "shapes",
+    g1Laenger: "longer / shorter",
+    g1Wochentage: "days of the week",
+    g1PlaceValue20: "tens and ones (11–20)",
+    g1Spatial: "directions",
+    g1Weight: "weight comparison",
+    g1Volume: "volume comparison",
+    g1Pattern: "pattern continuation",
+    g1NumberOrder: "number ordering",
+    g1DataTable: "reading data",
+    g1VisualCount: "visual counting",
     statistics: "statistics",
     volume: "volume",
     rounding10: "rounding to 10",
     rounding100: "rounding to 100",
     fractionDiffDenom: "fractions (unlike denominators)",
     systemEq: "systems of equations",
+    addNoCarry: "addition without carrying",
+    addCarry: "addition with carrying",
+    add3nums: "adding three numbers",
+    subNoCarry: "subtraction without borrowing",
+    subCarry: "subtraction with borrowing",
+    mulRepeated: "multiplication as repeated addition",
+    mulGroup: "counting groups",
+    divShare: "equal sharing",
+    divMulRel: "multiplication–division relationship",
+    weightGKg: "grams and kilograms",
+    moneyEuroCent: "euro and cents",
+    shapeBasic: "flat shapes",
+    perimeterBasic: "simple perimeter",
+    stellenwert2: "tens and ones",
+    zahlzerlegung2: "number decomposition to 100",
   },
   RO: {
     addition: "adunare",
@@ -369,12 +465,44 @@ const topicNames: Record<Lang, Record<string, string>> = {
     g1Timeline: "durată (ore)",
     g1Fraction: "numărarea părților",
     evenOdd: "par / impar",
+    g1Zaehlen: "numărare până la 10",
+    g1Vorgaenger: "înainte / după",
+    g1Tausch: "comutativitate / inversare",
+    g1Zahlzerlegung: "descompunerea numerelor",
+    g1Verdoppeln: "dublare",
+    g1Halbieren: "înjumătățire",
+    g1Shapes: "forme geometrice",
+    g1Laenger: "mai lung / mai scurt",
+    g1Wochentage: "zilele săptămânii",
+    g1PlaceValue20: "zeci și unități (11–20)",
+    g1Spatial: "direcții spațiale",
+    g1Weight: "comparare greutăți",
+    g1Volume: "comparare volume",
+    g1Pattern: "continuarea tiparului",
+    g1NumberOrder: "ordonarea numerelor",
+    g1DataTable: "citirea datelor",
+    g1VisualCount: "numărare vizuală",
     statistics: "statistică",
     volume: "volum",
     rounding10: "rotunjire la 10",
     rounding100: "rotunjire la 100",
     fractionDiffDenom: "fracții cu numitori diferiți",
     systemEq: "sistem de ecuații",
+    addNoCarry: "adunare fără transport",
+    addCarry: "adunare cu transport",
+    add3nums: "adunarea a trei numere",
+    subNoCarry: "scădere fără împrumut",
+    subCarry: "scădere cu împrumut",
+    mulRepeated: "înmulțire repetată",
+    mulGroup: "numărare în grupuri",
+    divShare: "împărțire egală",
+    divMulRel: "legătura înmulțire–împărțire",
+    weightGKg: "grame și kilograme",
+    moneyEuroCent: "euro și cenți",
+    shapeBasic: "forme plane",
+    perimeterBasic: "perimetru simplu",
+    stellenwert2: "zeci și unități",
+    zahlzerlegung2: "descompunere până la 100",
   },
 };
 
@@ -1281,6 +1409,61 @@ export function wpDrinksPerWeek(cups: number, mlPerCup: number, countryCode: str
   }
 }
 
+// Volume word — variant B: container fill remaining
+export function wpContainerFill(total: number, filled: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Eimer fasst ${total} l. Es sind bereits ${filled} l drin. Wie viele Liter fehlen noch bis er voll ist?`;
+    case "EN": return `A bucket holds ${total} l. It already has ${filled} l in it. How many more litres are needed to fill it?`;
+    case "RO": return `O găleată ține ${total} l. Deja are ${filled} l înăuntru. Câți litri mai lipsesc?`;
+    default:   return `Egy vödör ${total} l-t bír. Már ${filled} l van benne. Mennyi kell még, hogy tele legyen?`;
+  }
+}
+
+// Volume word — variant C: bottles total in litres
+export function wpBottleTotal(bottles: number, mlEach: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${bottles} Flaschen, jede ${mlEach} ml. Wie viele Liter sind das insgesamt?`;
+    case "EN": return `${bottles} bottles, each ${mlEach} ml. How many litres in total?`;
+    case "RO": return `${bottles} sticle, fiecare ${mlEach} ml. Câți litri sunt în total?`;
+    default:   return `${bottles} üveg, mindegyik ${mlEach} ml. Összesen hány liter?`;
+  }
+}
+
+// Money word — variant B: budget remaining after purchase
+export function wpBudgetLeft(budget: number, price: number, currency: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Du hast ${budget} ${currency}. Du kaufst ein Heft für ${price} ${currency}. Wie viel Geld hast du noch?`;
+    case "EN": return `You have ${budget} ${currency}. You buy a notebook for ${price} ${currency}. How much money do you have left?`;
+    case "RO": return `Ai ${budget} ${currency}. Cumperi un caiet pentru ${price} ${currency}. Cât îți mai rămâne?`;
+    default:   return `${budget} ${currency}-d van. Veszel egy füzetet ${price} ${currency}-ért. Mennyi marad?`;
+  }
+}
+
+// Money word — variant C: two items total cost
+export function wpTwoItemsCost(price1: number, price2: number, currency: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Buch kostet ${price1} ${currency}, ein Lineal ${price2} ${currency}. Was kosten beide zusammen?`;
+    case "EN": return `A book costs ${price1} ${currency}, a ruler costs ${price2} ${currency}. How much do both cost together?`;
+    case "RO": return `O carte costă ${price1} ${currency}, o riglă ${price2} ${currency}. Cât costă ambele împreună?`;
+    default:   return `Egy könyv ${price1} ${currency}, egy vonalzó ${price2} ${currency}. Mennyibe kerül a kettő együtt?`;
+  }
+}
+
+// Lengths word — variant B: fence perimeter
+export function wpFenceLength(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Garten ist ${a} m lang und ${b} m breit. Wie viele Meter Zaun braucht man, um ihn einzuzäunen?`;
+    case "EN": return `A garden is ${a} m long and ${b} m wide. How many metres of fencing are needed to go around it?`;
+    case "RO": return `O grădină are ${a} m lungime și ${b} m lățime. Câți metri de gard sunt necesari?`;
+    default:   return `Egy kert ${a} m hosszú és ${b} m széles. Hány méter kerítés kell köré?`;
+  }
+}
+
 // ─── NUMBER WALL / ZAHLENMAUER / SZÁMPIRAMIS ─────────────────────────────
 // Pyramid: each brick = sum of two below. Bottom row given, ask for top.
 
@@ -1694,6 +1877,299 @@ export function qG1Fraction(totalParts: number, coloredParts: number, shape: str
   }
 }
 
+// ─── GRADE 1 NEW GENERATORS — TEMPLATE FUNCTIONS ────────────────────────────
+
+// Vorgänger (predecessor)
+export function qVorgaenger(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Welche Zahl kommt vor ${n}?`;
+    case "EN": return `Which number comes before ${n}?`;
+    case "RO": return `Ce număr vine înaintea lui ${n}?`;
+    default:   return `Melyik szám van ${n} előtt?`;
+  }
+}
+
+// Nachfolger (successor)
+export function qNachfolger(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Welche Zahl kommt nach ${n}?`;
+    case "EN": return `Which number comes after ${n}?`;
+    case "RO": return `Ce număr vine după ${n}?`;
+    default:   return `Melyik szám van ${n} után?`;
+  }
+}
+
+// Zählen (counting objects with emoji)
+export function qZaehlen(items: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Zähle: ${items}. Wie viele sind es?`;
+    case "EN": return `Count: ${items}. How many are there?`;
+    case "RO": return `Numără: ${items}. Câte sunt?`;
+    default:   return `Számold meg: ${items}. Hány van?`;
+  }
+}
+
+// Tauschaufgabe (commutative property)
+export function qTauschaufgabe(a: number, b: number, sum: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${a} + ${b} = ${sum}. Was ergibt ${b} + ${a}?`;
+    case "EN": return `${a} + ${b} = ${sum}. What is ${b} + ${a}?`;
+    case "RO": return `${a} + ${b} = ${sum}. Cât este ${b} + ${a}?`;
+    default:   return `${a} + ${b} = ${sum}. Mennyi ${b} + ${a}?`;
+  }
+}
+
+// Zahlzerlegung (number decomposition)
+export function qZahlzerlegung(total: number, part1: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ergänze: ${total} = ${part1} + ?`;
+    case "EN": return `Complete: ${total} = ${part1} + ?`;
+    case "RO": return `Completează: ${total} = ${part1} + ?`;
+    default:   return `Egészítsd ki: ${total} = ${part1} + ?`;
+  }
+}
+
+// Verdoppeln (doubling)
+export function qVerdoppeln(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Verdopple: ${n} + ${n} = ?`;
+    case "EN": return `Double it: ${n} + ${n} = ?`;
+    case "RO": return `Dublează: ${n} + ${n} = ?`;
+    default:   return `Kétszeresit: ${n} + ${n} = ?`;
+  }
+}
+
+// Halbieren (halving)
+export function qHalbieren(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Halbiere: Die Hälfte von ${n} ist?`;
+    case "EN": return `Halve it: Half of ${n} is?`;
+    case "RO": return `Înjumătățește: Jumătatea lui ${n} este?`;
+    default:   return `Felezd: ${n} fele mennyi?`;
+  }
+}
+
+// Shape corners
+export function qShapeCorners(shapeName: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Wie viele Ecken hat ein ${shapeName}?`;
+    case "EN": return `How many corners does a ${shapeName} have?`;
+    case "RO": return `Câte colțuri are un ${shapeName}?`;
+    default:   return `Hány sarka van egy ${shapeName}-nek?`;
+  }
+}
+
+// Length comparison
+export function qLaenger(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Welcher Stab ist länger: ${a} cm oder ${b} cm?`;
+    case "EN": return `Which stick is longer: ${a} cm or ${b} cm?`;
+    case "RO": return `Care bețișor este mai lung: ${a} cm sau ${b} cm?`;
+    default:   return `Melyik pálca hosszabb: ${a} cm vagy ${b} cm?`;
+  }
+}
+
+// Days of the week
+export function qG1Wochentage(i: number, countryCode: string): { question: string; answer: string } {
+  const lang = getLang(countryCode);
+  const days: Record<Lang, string[]> = {
+    DE: ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"],
+    EN: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    HU: ["Hétfő", "Kedd", "Szerda", "Csütörtök", "Péntek", "Szombat", "Vasárnap"],
+    RO: ["Luni", "Marți", "Miercuri", "Joi", "Vineri", "Sâmbătă", "Duminică"],
+  };
+  const dayList = days[lang];
+  const day = dayList[i];
+  const nextDay = dayList[(i + 1) % 7];
+  let question: string;
+  switch (lang) {
+    case "DE": question = `Welcher Tag kommt nach ${day}?`; break;
+    case "EN": question = `Which day comes after ${day}?`; break;
+    case "RO": question = `Care zi urmează după ${day}?`; break;
+    default:   question = `Melyik nap jön ${day} után?`;
+  }
+  return { question, answer: nextDay };
+}
+
+// Spatial directions (opposite direction questions)
+export function qG1Spatial(dir: string, opposite: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const dirNames: Record<Lang, Record<string, string>> = {
+    HU: { oben: "fent", unten: "lent", links: "balra", rechts: "jobbra", vorne: "előtt", hinten: "mögött" },
+    DE: { oben: "oben", unten: "unten", links: "links", rechts: "rechts", vorne: "vorne", hinten: "hinten" },
+    EN: { oben: "above", unten: "below", links: "left", rechts: "right", vorne: "in front", hinten: "behind" },
+    RO: { oben: "deasupra", unten: "dedesubt", links: "stânga", rechts: "dreapta", vorne: "în față", hinten: "în spate" },
+  };
+  const d = dirNames[lang][dir] || dir;
+  switch (lang) {
+    case "DE": return `Was ist das Gegenteil von „${d}"?`;
+    case "EN": return `What is the opposite of "${d}"?`;
+    case "RO": return `Care este opusul lui „${d}"?`;
+    default:   return `Mi az ellentéte: „${d}"?`;
+  }
+}
+
+// Weight comparison
+export function qG1Weight(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Was ist schwerer: ${a} kg oder ${b} kg?`;
+    case "EN": return `Which is heavier: ${a} kg or ${b} kg?`;
+    case "RO": return `Care este mai greu: ${a} kg sau ${b} kg?`;
+    default:   return `Melyik nehezebb: ${a} kg vagy ${b} kg?`;
+  }
+}
+
+// Volume comparison
+export function qG1Volume(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Welcher Behälter fasst mehr: einer mit ${a} l oder einer mit ${b} l?`;
+    case "EN": return `Which container holds more: one with ${a} l or one with ${b} l?`;
+    case "RO": return `Care recipient ține mai mult: unul cu ${a} l sau unul cu ${b} l?`;
+    default:   return `Melyik tartályba fér több: ${a} l-es vagy ${b} l-es?`;
+  }
+}
+
+// Weight comparison — variant B: which is lighter
+export function qG1WeightB(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Was ist leichter: ${a} kg oder ${b} kg?`;
+    case "EN": return `Which is lighter: ${a} kg or ${b} kg?`;
+    case "RO": return `Care este mai ușor: ${a} kg sau ${b} kg?`;
+    default:   return `Melyik könnyebb: ${a} kg vagy ${b} kg?`;
+  }
+}
+
+/// Weight comparison — variant C: named objects, how many kg is the heavier one
+export function qG1WeightC(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Der Rucksack wiegt ${b} kg, die Tasche ${a} kg. Wie viele kg wiegt das schwerere Objekt?`;
+    case "EN": return `The backpack weighs ${b} kg, the bag weighs ${a} kg. How many kg does the heavier object weigh?`;
+    case "RO": return `Rucsacul cântărește ${b} kg, geanta ${a} kg. Câte kg cântărește obiectul mai greu?`;
+    default:   return `A hátizsák ${b} kg, a táska ${a} kg. Hány kg a nehezebb tárgy?`;
+  }
+}
+
+// Volume comparison — variant B: which holds less
+export function qG1VolumeB(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Welcher Behälter fasst weniger: einer mit ${a} l oder einer mit ${b} l?`;
+    case "EN": return `Which container holds less: one with ${a} l or one with ${b} l?`;
+    case "RO": return `Care recipient ține mai puțin: unul cu ${a} l sau unul cu ${b} l?`;
+    default:   return `Melyik tartályba fér kevesebb: ${a} l-es vagy ${b} l-es?`;
+  }
+}
+
+/// Volume comparison — variant C: named containers, how many litres in the fuller one
+export function qG1VolumeC(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Eimer A hat ${b} l Wasser, Eimer B hat ${a} l. Wie viele Liter hat der vollere Eimer?`;
+    case "EN": return `Bucket A has ${b} l of water, Bucket B has ${a} l. How many litres does the fuller bucket have?`;
+    case "RO": return `Găleata A are ${b} l de apă, găleata B are ${a} l. Câți litri are găleata mai plină?`;
+    default:   return `Az A vödörben ${b} l víz van, a B vödörben ${a} l. Hány liter van a teltebbikben?`;
+  }
+}
+
+// G1 word problems — extra scenarios (word6-word10)
+export function wpBirds(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Auf einem Ast sitzen ${a} Vögel. ${b} fliegen weg. Wie viele bleiben?`;
+    case "EN": return `${a} birds are sitting on a branch. ${b} fly away. How many are left?`;
+    case "RO": return `Pe o creangă stau ${a} păsări. ${b} zboară. Câte rămân?`;
+    default:   return `Egy ágon ${a} madár ül. ${b} elrepül. Hány marad?`;
+  }
+}
+
+export function wpGifts(name: string, a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${name} hat ${a} Geschenke bekommen. ${name} verschenkt ${b} davon. Wie viele hat ${name} noch?`;
+    case "EN": return `${name} received ${a} gifts. ${name} gives away ${b} of them. How many does ${name} have left?`;
+    case "RO": return `${name} a primit ${a} cadouri. Dă ${b} mai departe. Câte îi mai rămân?`;
+    default:   return `${name} ${a} ajándékot kapott. Ebből ${b}-t továbbad. Hány marad ${name}-nál?`;
+  }
+}
+
+export function wpFlowers(a: number, colorA: string, b: number, colorB: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Im Garten blühen ${a} ${colorA} und ${b} ${colorB} Blumen. Wie viele Blumen sind es insgesamt?`;
+    case "EN": return `In the garden there are ${a} ${colorA} and ${b} ${colorB} flowers. How many flowers in total?`;
+    case "RO": return `În grădină sunt ${a} flori ${colorA} și ${b} flori ${colorB}. Câte flori sunt în total?`;
+    default:   return `A kertben ${a} ${colorA} és ${b} ${colorB} virág nyílik. Összesen hány virág?`;
+  }
+}
+
+export function wpShared(total: number, name: string, share: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${name} und ein Freund haben zusammen ${total} Bücher. ${name} hat ${share}. Wie viele hat der Freund?`;
+    case "EN": return `${name} and a friend have ${total} books altogether. ${name} has ${share}. How many does the friend have?`;
+    case "RO": return `${name} și un prieten au ${total} cărți împreună. ${name} are ${share}. Câte are prietenul?`;
+    default:   return `${name}-nek és egy barátjának összesen ${total} könyve van. ${name}-nek ${share} van. Hány van a barátjának?`;
+  }
+}
+
+export function wpSteps(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Max geht ${a} Stufen hoch, dann noch ${b} Stufen. Wie viele Stufen ist er insgesamt gestiegen?`;
+    case "EN": return `Max climbs ${a} steps, then ${b} more. How many steps did Max climb in total?`;
+    case "RO": return `Max urcă ${a} trepte, apoi încă ${b}. Câte trepte a urcat în total?`;
+    default:   return `Max ${a} lépcsőt megy fel, majd még ${b}-t. Összesen hány lépcsőt mászott meg?`;
+  }
+}
+
+// Pattern continuation
+export function qG1Pattern(seq: string[], countryCode: string): string {
+  const lang = getLang(countryCode);
+  const shown = seq.join(" ");
+  switch (lang) {
+    case "DE": return `Setze das Muster fort: ${shown} — Was kommt als nächstes?`;
+    case "EN": return `Continue the pattern: ${shown} — What comes next?`;
+    case "RO": return `Continuă tiparul: ${shown} — Ce urmează?`;
+    default:   return `Folytasd a mintát: ${shown} — Mi jön ezután?`;
+  }
+}
+
+// Number ordering
+export function qG1NumberOrder(nums: number[], countryCode: string): string {
+  const lang = getLang(countryCode);
+  const shown = nums.join(", ");
+  switch (lang) {
+    case "DE": return `Ordne die Zahlen von klein nach groß: ${shown} → ? (Antwort z.B. 2,5,8)`;
+    case "EN": return `Order from smallest to largest: ${shown} → ? (e.g. 2,5,8)`;
+    case "RO": return `Ordonează crescător: ${shown} → ? (ex. 2,5,8)`;
+    default:   return `Rendezd növekvő sorrendbe: ${shown} → ? (pl. 2,5,8)`;
+  }
+}
+
+// Simple data reading (instead of table)
+export function qG1DataTable(a: number, b: number, itemA: string, itemB: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `In einer Tüte sind ${a} ${itemA} und ${b} ${itemB}. Wie viele sind es insgesamt?`;
+    case "EN": return `In a bag: ${a} ${itemA} and ${b} ${itemB}. How many in total?`;
+    case "RO": return `Într-o pungă: ${a} ${itemA} și ${b} ${itemB}. Câte sunt în total?`;
+    default:   return `Egy zacskóban: ${a} ${itemA} és ${b} ${itemB}. Összesen hány?`;
+  }
+}
+
 // Rounding
 export function qRoundTo10(n: number, countryCode: string): string {
   const lang = getLang(countryCode);
@@ -1957,5 +2433,142 @@ export function qChangeBack(item: string, price: number, paid: number, currency:
     case "EN": return `A ${item} costs ${price} ${currency}. You pay with ${paid} ${currency}. How much change do you get?`;
     case "RO": return `Un ${item} costă ${price} ${currency}. Plătești cu ${paid} ${currency}. Cât rest primești?`;
     default:   return `Egy ${item} ára ${price} ${currency}. ${paid} ${currency}-val fizetsz. Mennyi visszajáró jár?`;
+  }
+}
+
+// ─── GRADE 2 NEW GENERATORS — TEMPLATE FUNCTIONS ────────────────────────────
+
+// Place value: how many Zehner
+export function qHowManyZehner(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Wie viele Zehner hat die Zahl ${n}?`;
+    case "EN": return `How many tens does the number ${n} have?`;
+    case "RO": return `Câte zeci are numărul ${n}?`;
+    default:   return `Hány tízes van a ${n} számban?`;
+  }
+}
+
+// Place value: how many Einer
+export function qHowManyEiner(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Wie viele Einer hat die Zahl ${n}?`;
+    case "EN": return `How many ones does the number ${n} have?`;
+    case "RO": return `Câte unități are numărul ${n}?`;
+    default:   return `Hány egyes van a ${n} számban?`;
+  }
+}
+
+// Number decomposition variant A: n = tens + ?
+export function qZahlzerlegungA(n: number, tens: number, ones: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${n} = ${tens} + ?`;
+    case "EN": return `${n} = ${tens} + ?`;
+    case "RO": return `${n} = ${tens} + ?`;
+    default:   return `${n} = ${tens} + ?`;
+  }
+}
+
+// Number decomposition variant B: n = ? + ones
+export function qZahlzerlegungB(n: number, tens: number, ones: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${n} = ? + ${ones}`;
+    case "EN": return `${n} = ? + ${ones}`;
+    case "RO": return `${n} = ? + ${ones}`;
+    default:   return `${n} = ? + ${ones}`;
+  }
+}
+
+// Multiplication as repeated addition: groups + each → "3+3+3 = 3 × ?"
+export function qMulAsAddition(groups: number, each: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const repeated = Array(groups).fill(each).join(" + ");
+  switch (lang) {
+    case "DE": return `${repeated} = ${groups} × ?`;
+    case "EN": return `${repeated} = ${groups} × ?`;
+    case "RO": return `${repeated} = ${groups} × ?`;
+    default:   return `${repeated} = ${groups} × ?`;
+  }
+}
+
+// Visual multiplication: groups of each
+export function wpGroupsOf(groups: number, each: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Es gibt ${groups} Gruppen mit je ${each} Kindern. Wie viele Kinder sind es insgesamt?`;
+    case "EN": return `There are ${groups} groups of ${each} children each. How many children in total?`;
+    case "RO": return `Sunt ${groups} grupe cu câte ${each} copii. Câți copii sunt în total?`;
+    default:   return `${groups} csoport van, mindegyikben ${each} gyerek. Összesen hány gyerek?`;
+  }
+}
+
+// Division–multiplication relationship
+export function qDivMulRelation(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const product = a * b;
+  switch (lang) {
+    case "DE": return `${a} × ${b} = ${product}. Also: ${product} ÷ ${a} = ?`;
+    case "EN": return `${a} × ${b} = ${product}. So: ${product} ÷ ${a} = ?`;
+    case "RO": return `${a} × ${b} = ${product}. Deci: ${product} ÷ ${a} = ?`;
+    default:   return `${a} × ${b} = ${product}. Tehát: ${product} ÷ ${a} = ?`;
+  }
+}
+
+// Money: how many cents in 1 euro
+export function qHowManyCentInEuro(countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Wie viele Cent hat 1 Euro?`;
+    case "EN": return `How many cents are in 1 euro?`;
+    case "RO": return `Câți cenți are 1 euro?`;
+    default:   return `Hány cent van 1 euróban?`;
+  }
+}
+
+// Money: euros to cents
+export function qEuroToCent(euros: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${euros} Euro = ? Cent`;
+    case "EN": return `${euros} euros = ? cents`;
+    case "RO": return `${euros} euro = ? cenți`;
+    default:   return `${euros} euró = ? cent`;
+  }
+}
+
+// Weight: kg to grams
+export function qKgToG(kg: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${kg} kg = ? g`;
+    case "EN": return `${kg} kg = ? g`;
+    case "RO": return `${kg} kg = ? g`;
+    default:   return `${kg} kg = ? g`;
+  }
+}
+
+// Time word problem: school day
+export function wpSchoolDay(startH: number, durationH: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const end = startH + durationH;
+  switch (lang) {
+    case "DE": return `Der Unterricht beginnt um ${startH}:00 Uhr und dauert ${durationH} Stunden. Um wie viel Uhr endet er?`;
+    case "EN": return `School starts at ${startH}:00 and lasts ${durationH} hours. What time does it end?`;
+    case "RO": return `Școala începe la ora ${startH}:00 și durează ${durationH} ore. La ce oră se termină?`;
+    default:   return `Az iskola ${startH}:00-kor kezdődik és ${durationH} óráig tart. Mikor ér véget?`;
+  }
+}
+
+// Shape names for G2
+export function getShapeNamesG2(countryCode: string): { square: string; rectangle: string; triangle: string; circle: string } {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return { square: "Quadrat", rectangle: "Rechteck", triangle: "Dreieck", circle: "Kreis" };
+    case "EN": return { square: "square", rectangle: "rectangle", triangle: "triangle", circle: "circle" };
+    case "RO": return { square: "pătrat", rectangle: "dreptunghi", triangle: "triunghi", circle: "cerc" };
+    default:   return { square: "négyzet", rectangle: "téglalap", triangle: "háromszög", circle: "kör" };
   }
 }

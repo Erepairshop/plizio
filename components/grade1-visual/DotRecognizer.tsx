@@ -15,24 +15,28 @@ const LABELS = {
   hu: {
     title: 'Hány pont van?',
     hint: 'Számlálj meg a pontokat!',
+    check: 'Ellenőrzés',
     correct: 'Helyes! 🎉',
     incorrect: 'Nem jó. Próbáld újra!',
   },
   de: {
     title: 'Wie viele Punkte?',
     hint: 'Zähle die Punkte!',
+    check: 'Prüfen',
     correct: 'Richtig! 🎉',
     incorrect: 'Falsch. Versuche nochmal!',
   },
   en: {
     title: 'How many dots?',
     hint: 'Count the dots!',
+    check: 'Check',
     correct: 'Correct! 🎉',
     incorrect: 'Wrong. Try again!',
   },
   ro: {
     title: 'Câte puncte?',
     hint: 'Numără punctele!',
+    check: 'Verifică',
     correct: 'Corect! 🎉',
     incorrect: 'Greșit. Încearcă din nou!',
   },
@@ -190,7 +194,7 @@ const DotRecognizer: React.FC<DotRecognizerProps> = ({
           disabled={!userAnswer}
           className="w-full px-4 py-2 bg-purple-500 text-white font-bold rounded-lg hover:bg-purple-600 disabled:bg-slate-300 disabled:cursor-not-allowed transition active:scale-95"
         >
-          ✓ Check
+          ✓ {t.check}
         </button>
       </div>
 

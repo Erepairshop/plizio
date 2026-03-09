@@ -148,6 +148,7 @@ export default function WordProblemG1({ lang, embedded = false, onValueChange, o
           onChange={(e) => {
             setUserInput(e.target.value);
             setFeedback(null);
+            if (embedded) onValueChange?.(e.target.value.trim());
           }}
           className="w-16 px-2 py-2 border-2 border-slate-300 rounded-lg text-center font-bold text-slate-700 focus:outline-none focus:border-blue-500"
           placeholder="?"
