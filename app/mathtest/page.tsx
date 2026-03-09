@@ -43,7 +43,6 @@ import {
   type Test as ThemeBasedTest,
 } from "@/lib/mathTestGenerator";
 import HierarchicalThemeSelector, { type Theme as ThemeSelectorTheme } from "@/components/HierarchicalThemeSelector";
-import Grade1TopicSelector from "@/components/Grade1TopicSelector";
 import { fetchCurriculum, type CurriculumData } from "@/lib/curriculum/curriculumApi";
 
 /**
@@ -711,7 +710,7 @@ export default function MathTestPage() {
         name: theme.name,
         color: theme.color,
         icon: theme.icon,
-        description: theme.name,
+        description: theme.topics.map(t => t.name).join(' · '),
         subtopics: theme.topics.map(topic => ({
           id: `${langPrefix}_topic_${selectedGrade}_${topic.key}`,
           name: topic.name,
@@ -920,8 +919,8 @@ export default function MathTestPage() {
         let key: string | undefined;
         let name = subtopicId;
 
-        // 1. GENERATOR-ALAPÚ ID: en_topic_X_key, de_topic_X_key, ro_topic_X_key
-        if (subtopicId.startsWith('en_topic_') || subtopicId.startsWith('de_topic_') || subtopicId.startsWith('ro_topic_')) {
+        // 1. GENERATOR-ALAPÚ ID: en_topic_X_key, de_topic_X_key, ro_topic_X_key, hu_topic_X_key
+        if (subtopicId.startsWith('en_topic_') || subtopicId.startsWith('de_topic_') || subtopicId.startsWith('ro_topic_') || subtopicId.startsWith('hu_topic_')) {
           key = subtopicId.split('_').slice(3).join('_');
           // Név lekérése a themesből
           for (const theme of resolvedThemes) {
@@ -1262,42 +1261,9 @@ export default function MathTestPage() {
     return 'en';
   };
 
-  if (gameState === "theme-select" && country && selectedGrade === 1) {
-    return (
-      <>
-        <main className="min-h-screen relative overflow-hidden bg-bg">
-          <Scene3D />
-          <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4 py-8 gap-8">
-            {/* Back Button */}
-            <motion.div className="absolute top-6 left-6 md:top-8 md:left-8" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-              <motion.button
-                onClick={() => setGameState("grade-select")}
-                className="p-2 rounded-full hover:bg-white/10 transition-colors"
-                whileHover={{ scale: 1.1 }}
-                whileTap={{ scale: 0.95 }}
-              >
-                <ArrowLeft size={24} className="text-white" />
-              </motion.button>
-            </motion.div>
-
-            {/* Grade 1 Topic Selector */}
-            <Grade1TopicSelector
-              selectedTopics={selectedSubtopics}
-              onTopicToggle={handleSubtopicToggle}
-              onStartTest={handleStartMultiThemeTest}
-              loading={generatingTest}
-              lang={langCode(country.code)}
-            />
-          </div>
-        </main>
-        <AvatarCompanion mood={avatarMood} gender={avatarGender} activeSkin={avatarSkin} activeFace={avatarFace} activeTop={avatarTop} activeBottom={avatarBottom} activeShoe={avatarShoe} activeCape={avatarCape} activeGlasses={avatarGlasses} activeGloves={avatarGloves} activeHat={avatarHat} activeTrail={avatarTrail} />
-      </>
-    );
-  }
-
   // ─── THEME SELECT SCREEN (Hierarchical) ─────────────────────────────
 
-  if (gameState === "theme-select" && country && selectedGrade && selectedGrade !== 1 && testType) {
+  if (gameState === "theme-select" && country && selectedGrade && testType) {
     return (
       <>
         <main className="min-h-screen relative overflow-hidden bg-bg">
