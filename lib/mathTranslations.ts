@@ -111,6 +111,16 @@ const topicNames: Record<Lang, Record<string, string>> = {
     g1Timeline: "időtartam (órák)",
     g1Fraction: "részek számolása",
     evenOdd: "páros / páratlan",
+    g1Zaehlen: "számolás 0–10",
+    g1Vorgaenger: "előző / következő szám",
+    g1Tausch: "felcserélés / visszafordítás",
+    g1Zahlzerlegung: "számfelbontás",
+    g1Verdoppeln: "kétszereselés",
+    g1Halbieren: "felezés",
+    g1Shapes: "alakzatok",
+    g1Laenger: "hosszabb / rövidebb",
+    g1Wochentage: "napok",
+    g1PlaceValue20: "tízes és egyes (11–20)",
     statistics: "statisztika",
     volume: "térfogat",
     rounding10: "kerekítés 10-esre",
@@ -197,6 +207,16 @@ const topicNames: Record<Lang, Record<string, string>> = {
     g1Timeline: "Zeitdauer (Stunden)",
     g1Fraction: "Teile zählen",
     evenOdd: "gerade / ungerade",
+    g1Zaehlen: "Zählen bis 10",
+    g1Vorgaenger: "Vorgänger / Nachfolger",
+    g1Tausch: "Tausch- und Umkehraufgaben",
+    g1Zahlzerlegung: "Zahlzerlegung",
+    g1Verdoppeln: "Verdoppeln",
+    g1Halbieren: "Halbieren",
+    g1Shapes: "Formen",
+    g1Laenger: "länger / kürzer",
+    g1Wochentage: "Wochentage",
+    g1PlaceValue20: "Zehner und Einer (11–20)",
     statistics: "Statistik",
     volume: "Volumen",
     rounding10: "Runden auf Zehner",
@@ -283,6 +303,16 @@ const topicNames: Record<Lang, Record<string, string>> = {
     g1Timeline: "time duration (hours)",
     g1Fraction: "counting parts",
     evenOdd: "even / odd",
+    g1Zaehlen: "counting to 10",
+    g1Vorgaenger: "before / after",
+    g1Tausch: "swap / inverse tasks",
+    g1Zahlzerlegung: "number bonds",
+    g1Verdoppeln: "doubling",
+    g1Halbieren: "halving",
+    g1Shapes: "shapes",
+    g1Laenger: "longer / shorter",
+    g1Wochentage: "days of the week",
+    g1PlaceValue20: "tens and ones (11–20)",
     statistics: "statistics",
     volume: "volume",
     rounding10: "rounding to 10",
@@ -369,6 +399,16 @@ const topicNames: Record<Lang, Record<string, string>> = {
     g1Timeline: "durată (ore)",
     g1Fraction: "numărarea părților",
     evenOdd: "par / impar",
+    g1Zaehlen: "numărare până la 10",
+    g1Vorgaenger: "înainte / după",
+    g1Tausch: "comutativitate / inversare",
+    g1Zahlzerlegung: "descompunerea numerelor",
+    g1Verdoppeln: "dublare",
+    g1Halbieren: "înjumătățire",
+    g1Shapes: "forme geometrice",
+    g1Laenger: "mai lung / mai scurt",
+    g1Wochentage: "zilele săptămânii",
+    g1PlaceValue20: "zeci și unități (11–20)",
     statistics: "statistică",
     volume: "volum",
     rounding10: "rotunjire la 10",
@@ -1692,6 +1732,129 @@ export function qG1Fraction(totalParts: number, coloredParts: number, shape: str
     case "RO": return `Un ${sn} este împărțit în ${totalParts} părți egale. ${coloredParts} părți sunt colorate. Câte părți sunt colorate?`;
     default:   return `Egy ${sn} ${totalParts} egyenlő részre van osztva. ${coloredParts} rész ki van színezve. Hány részt színeztünk ki?`;
   }
+}
+
+// ─── GRADE 1 NEW GENERATORS — TEMPLATE FUNCTIONS ────────────────────────────
+
+// Vorgänger (predecessor)
+export function qVorgaenger(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Welche Zahl kommt vor ${n}?`;
+    case "EN": return `Which number comes before ${n}?`;
+    case "RO": return `Ce număr vine înaintea lui ${n}?`;
+    default:   return `Melyik szám van ${n} előtt?`;
+  }
+}
+
+// Nachfolger (successor)
+export function qNachfolger(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Welche Zahl kommt nach ${n}?`;
+    case "EN": return `Which number comes after ${n}?`;
+    case "RO": return `Ce număr vine după ${n}?`;
+    default:   return `Melyik szám van ${n} után?`;
+  }
+}
+
+// Zählen (counting objects with emoji)
+export function qZaehlen(items: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Zähle: ${items}. Wie viele sind es?`;
+    case "EN": return `Count: ${items}. How many are there?`;
+    case "RO": return `Numără: ${items}. Câte sunt?`;
+    default:   return `Számold meg: ${items}. Hány van?`;
+  }
+}
+
+// Tauschaufgabe (commutative property)
+export function qTauschaufgabe(a: number, b: number, sum: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${a} + ${b} = ${sum}. Was ergibt ${b} + ${a}?`;
+    case "EN": return `${a} + ${b} = ${sum}. What is ${b} + ${a}?`;
+    case "RO": return `${a} + ${b} = ${sum}. Cât este ${b} + ${a}?`;
+    default:   return `${a} + ${b} = ${sum}. Mennyi ${b} + ${a}?`;
+  }
+}
+
+// Zahlzerlegung (number decomposition)
+export function qZahlzerlegung(total: number, part1: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ergänze: ${total} = ${part1} + ?`;
+    case "EN": return `Complete: ${total} = ${part1} + ?`;
+    case "RO": return `Completează: ${total} = ${part1} + ?`;
+    default:   return `Egészítsd ki: ${total} = ${part1} + ?`;
+  }
+}
+
+// Verdoppeln (doubling)
+export function qVerdoppeln(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Verdopple: ${n} + ${n} = ?`;
+    case "EN": return `Double it: ${n} + ${n} = ?`;
+    case "RO": return `Dublează: ${n} + ${n} = ?`;
+    default:   return `Kétszeresit: ${n} + ${n} = ?`;
+  }
+}
+
+// Halbieren (halving)
+export function qHalbieren(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Halbiere: Die Hälfte von ${n} ist?`;
+    case "EN": return `Halve it: Half of ${n} is?`;
+    case "RO": return `Înjumătățește: Jumătatea lui ${n} este?`;
+    default:   return `Felezd: ${n} fele mennyi?`;
+  }
+}
+
+// Shape corners
+export function qShapeCorners(shapeName: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Wie viele Ecken hat ein ${shapeName}?`;
+    case "EN": return `How many corners does a ${shapeName} have?`;
+    case "RO": return `Câte colțuri are un ${shapeName}?`;
+    default:   return `Hány sarka van egy ${shapeName}-nek?`;
+  }
+}
+
+// Length comparison
+export function qLaenger(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Welcher Stab ist länger: ${a} cm oder ${b} cm?`;
+    case "EN": return `Which stick is longer: ${a} cm or ${b} cm?`;
+    case "RO": return `Care bețișor este mai lung: ${a} cm sau ${b} cm?`;
+    default:   return `Melyik pálca hosszabb: ${a} cm vagy ${b} cm?`;
+  }
+}
+
+// Days of the week
+export function qG1Wochentage(i: number, countryCode: string): { question: string; answer: string } {
+  const lang = getLang(countryCode);
+  const days: Record<Lang, string[]> = {
+    DE: ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"],
+    EN: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    HU: ["Hétfő", "Kedd", "Szerda", "Csütörtök", "Péntek", "Szombat", "Vasárnap"],
+    RO: ["Luni", "Marți", "Miercuri", "Joi", "Vineri", "Sâmbătă", "Duminică"],
+  };
+  const dayList = days[lang];
+  const day = dayList[i];
+  const nextDay = dayList[i + 1];
+  let question: string;
+  switch (lang) {
+    case "DE": question = `Welcher Tag kommt nach ${day}?`; break;
+    case "EN": question = `Which day comes after ${day}?`; break;
+    case "RO": question = `Care zi urmează după ${day}?`; break;
+    default:   question = `Melyik nap jön ${day} után?`;
+  }
+  return { question, answer: nextDay };
 }
 
 // Rounding

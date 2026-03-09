@@ -31,6 +31,8 @@ import {
   qClockFullHour, qClockMinutes, qClockHalfPast, qClockQuarterPast,
   qG1ClockQuarter, qG1NumberLine, qG1PlaceValueTens, qG1PlaceValueOnes, qG1PlaceValueTotal,
   qG1GridCount, qG1GridEmpty, qG1Sequence, qG1Coins, qG1Timeline, qG1Fraction,
+  qVorgaenger, qNachfolger, qZaehlen, qTauschaufgabe, qZahlzerlegung,
+  qVerdoppeln, qHalbieren, qShapeCorners, qLaenger, qG1Wochentage,
   qRoundTo10, qRoundTo100,
   qCircleCircumference, qCircleArea,
   qMeanOf, qMedianOf,
@@ -318,6 +320,68 @@ const G1: Record<string, Generator> = {
     const coloredParts = randInt(1, totalParts);
     const shape = pick(["pizza", "rectangle", "circle"]);
     return q(qG1Fraction(totalParts, coloredParts, shape, cc), coloredParts, t("g1Fraction", cc));
+  },
+  // ── New G1 generators ──
+  vorgaenger: (cc) => {
+    const n = randInt(2, 20);
+    return q(qVorgaenger(n, cc), n - 1, t("g1Vorgaenger", cc));
+  },
+  nachfolger: (cc) => {
+    const n = randInt(0, 19);
+    return q(qNachfolger(n, cc), n + 1, t("g1Vorgaenger", cc));
+  },
+  zaehlen: (cc) => {
+    const emojis = ["⭐", "🍎", "🔵", "🌟", "🐶", "🌸", "🎈", "🐱", "🍓", "🦋"];
+    const emoji = pick(emojis);
+    const count = randInt(1, 10);
+    const row = Array(count).fill(emoji).join(" ");
+    return q(qZaehlen(row, cc), count, t("g1Zaehlen", cc));
+  },
+  tausch: (cc) => {
+    const a = randInt(1, 8), b = randInt(1, 9 - a);
+    return q(qTauschaufgabe(a, b, a + b, cc), a + b, t("g1Tausch", cc));
+  },
+  zahlzerlegung: (cc) => {
+    const total = randInt(3, 10);
+    const part1 = randInt(1, total - 1);
+    return q(qZahlzerlegung(total, part1, cc), total - part1, t("g1Zahlzerlegung", cc));
+  },
+  verdoppeln: (cc) => {
+    const n = randInt(1, 9);
+    return q(qVerdoppeln(n, cc), n * 2, t("g1Verdoppeln", cc));
+  },
+  halbieren: (cc) => {
+    const n = randInt(1, 9) * 2;
+    return q(qHalbieren(n, cc), n / 2, t("g1Halbieren", cc));
+  },
+  shapes: (cc) => {
+    const lang = getLang(cc);
+    const shapeData: Array<{ DE: string; EN: string; HU: string; RO: string; corners: number }> = [
+      { DE: "Dreieck", EN: "triangle", HU: "háromszög", RO: "triunghi", corners: 3 },
+      { DE: "Quadrat", EN: "square", HU: "négyzet", RO: "pătrat", corners: 4 },
+      { DE: "Rechteck", EN: "rectangle", HU: "téglalap", RO: "dreptunghi", corners: 4 },
+      { DE: "Kreis", EN: "circle", HU: "kör", RO: "cerc", corners: 0 },
+    ];
+    const shape = pick(shapeData);
+    const shapeName = shape[lang as "DE" | "EN" | "HU" | "RO"] || shape.EN;
+    return q(qShapeCorners(shapeName, cc), shape.corners, t("g1Shapes", cc));
+  },
+  laenger: (cc) => {
+    const a = randInt(1, 8), b = a + randInt(1, 5);
+    return q(qLaenger(a, b, cc), b, t("g1Laenger", cc));
+  },
+  wochentage: (cc) => {
+    const i = randInt(0, 5);
+    const { question, answer } = qG1Wochentage(i, cc);
+    return qs(question, answer, t("g1Wochentage", cc));
+  },
+  placeValue20: (cc) => {
+    const n = randInt(11, 20);
+    const tens = Math.floor(n / 10), ones = n % 10;
+    const r = Math.random();
+    if (r < 0.33) return q(qG1PlaceValueTens(n, cc), tens, t("g1PlaceValue20", cc));
+    if (r < 0.66) return q(qG1PlaceValueOnes(n, cc), ones, t("g1PlaceValue20", cc));
+    return q(qG1PlaceValueTotal(tens, ones, cc), n, t("g1PlaceValue20", cc));
   },
 };
 
@@ -1280,27 +1344,38 @@ export interface ENThemeDef {
 
 const EN_THEMES: Record<number, ENThemeDef[]> = {
   1: [
-    { key: 'g1_numbers', name: 'Numbers & Addition', color: '#3B82F6', icon: '➕', topics: [
-      { key: 'add10', name: 'Addition to 10', color: '#60A5FA', icon: '➕', generators: [G1.add10, G1.add10b, G1.missing10] },
-      { key: 'add20', name: 'Addition to 20', color: '#3B82F6', icon: '➕', generators: [G1.add20, G1.add20b] },
-      { key: 'compare', name: 'Comparing Numbers', color: '#2563EB', icon: '🔢', generators: [G1.compare] },
+    { key: 'g1_zahlen', name: 'Numbers & Number System', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'g1_zaehlen', name: 'Counting 0–10', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen, G1.gridCount] },
+      { key: 'g1_compare', name: 'Comparing Numbers', color: '#2563EB', icon: '⚖️', generators: [G1.compare] },
+      { key: 'g1_pred_succ', name: 'Before · After · Number Line', color: '#1D4ED8', icon: '📏', generators: [G1.vorgaenger, G1.nachfolger, G1.numberLine] },
     ]},
-    { key: 'g1_sub', name: 'Subtraction', color: '#EF4444', icon: '➖', topics: [
-      { key: 'sub10', name: 'Subtraction to 10', color: '#F87171', icon: '➖', generators: [G1.sub10, G1.sub10b, G1.missing10sub] },
-      { key: 'sub20', name: 'Subtraction to 20', color: '#EF4444', icon: '➖', generators: [G1.sub20, G1.sub20b] },
+    { key: 'g1_zahlen20', name: 'Numbers to 20', color: '#06B6D4', icon: '🔟', topics: [
+      { key: 'g1_place_value20', name: 'Tens and Ones', color: '#0891B2', icon: '🧱', generators: [G1.placeValue20] },
     ]},
-    { key: 'g1_word', name: 'Word Problems', color: '#8B5CF6', icon: '📖', topics: [
-      { key: 'word', name: 'Story Problems', color: '#8B5CF6', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
+    { key: 'g1_rechnen', name: 'Basic Operations', color: '#EF4444', icon: '➕', topics: [
+      { key: 'add10', name: 'Addition to 10', color: '#F87171', icon: '➕', generators: [G1.add10, G1.add10b] },
+      { key: 'sub10', name: 'Subtraction to 10', color: '#EF4444', icon: '➖', generators: [G1.sub10, G1.sub10b] },
+      { key: 'add20', name: 'Addition to 20', color: '#DC2626', icon: '➕', generators: [G1.add20, G1.add20b] },
+      { key: 'sub20', name: 'Subtraction to 20', color: '#B91C1C', icon: '➖', generators: [G1.sub20, G1.sub20b] },
+      { key: 'g1_tausch', name: 'Swap & Inverse Tasks', color: '#F59E0B', icon: '🔄', generators: [G1.tausch, G1.missing10, G1.missing10sub] },
     ]},
-    { key: 'g1_visual', name: 'Visual Tasks', color: '#F59E0B', icon: '🎨', topics: [
-      { key: 'g1_clock', name: 'Read the Clock', color: '#FF2D78', icon: '🕐', generators: [G1.clockQuarter] },
-      { key: 'g1_number_line', name: 'Number Line', color: '#00D4FF', icon: '📏', generators: [G1.numberLine] },
-      { key: 'g1_place_value', name: 'Place Values', color: '#00FF88', icon: '🧱', generators: [G1.placeValue] },
-      { key: 'g1_grid_count', name: 'Count Squares', color: '#B44DFF', icon: '🟪', generators: [G1.gridCount] },
-      { key: 'g1_sequence', name: 'Number Sequence', color: '#00D4FF', icon: '🔢', generators: [G1.sequence] },
-      { key: 'g1_coins', name: 'Count Coins', color: '#FFD700', icon: '🪙', generators: [G1.coins] },
-      { key: 'g1_timeline', name: 'Time Duration', color: '#FF2D78', icon: '⏱️', generators: [G1.timeline] },
-      { key: 'g1_fraction', name: 'Count Parts', color: '#B44DFF', icon: '🍕', generators: [G1.fraction] },
+    { key: 'g1_struktur', name: 'Understanding Numbers', color: '#8B5CF6', icon: '🧩', topics: [
+      { key: 'g1_zahlzerlegung', name: 'Number Bonds', color: '#A78BFA', icon: '🧩', generators: [G1.zahlzerlegung] },
+      { key: 'g1_verdoppeln', name: 'Doubling', color: '#8B5CF6', icon: '✌️', generators: [G1.verdoppeln] },
+      { key: 'g1_halbieren', name: 'Halving', color: '#7C3AED', icon: '✂️', generators: [G1.halbieren] },
+      { key: 'g1_sequence', name: 'Number Sequences', color: '#6D28D9', icon: '🔢', generators: [G1.sequence, G1.evenOdd] },
+    ]},
+    { key: 'g1_geo', name: 'Geometry & Spatial', color: '#10B981', icon: '🔷', topics: [
+      { key: 'g1_shapes', name: 'Shapes', color: '#34D399', icon: '🔷', generators: [G1.shapes] },
+    ]},
+    { key: 'g1_messen', name: 'Measurement', color: '#F59E0B', icon: '📏', topics: [
+      { key: 'g1_laenger', name: 'Longer · Shorter', color: '#FBBF24', icon: '📏', generators: [G1.laenger] },
+    ]},
+    { key: 'g1_alltag', name: 'Everyday Math', color: '#FF2D78', icon: '🌍', topics: [
+      { key: 'g1_clock', name: 'Telling Time', color: '#FF2D78', icon: '🕐', generators: [G1.clockQuarter] },
+      { key: 'g1_wochentage', name: 'Days of the Week', color: '#FB7185', icon: '📅', generators: [G1.wochentage] },
+      { key: 'g1_coins', name: 'Coins & Money', color: '#FFD700', icon: '🪙', generators: [G1.coins] },
+      { key: 'word', name: 'Story Problems', color: '#C026D3', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
     ]},
   ],
   2: [
@@ -1431,27 +1506,38 @@ export function getENThemes(grade: number): ENThemeDef[] {
 
 const DE_THEMES: Record<number, ENThemeDef[]> = {
   1: [
-    { key: 'g1_add', name: 'Addition', color: '#3B82F6', icon: '➕', topics: [
-      { key: 'add10', name: 'Addition bis 10', color: '#60A5FA', icon: '➕', generators: [G1.add10, G1.add10b, G1.missing10] },
-      { key: 'add20', name: 'Addition bis 20', color: '#3B82F6', icon: '➕', generators: [G1.add20, G1.add20b] },
-      { key: 'compare', name: 'Zahlen vergleichen', color: '#2563EB', icon: '🔢', generators: [G1.compare] },
+    { key: 'g1_zahlen', name: 'Zahlen und Zahlensystem', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'g1_zaehlen', name: 'Zahlen 0–10', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen, G1.gridCount] },
+      { key: 'g1_compare', name: 'Zahlen vergleichen', color: '#2563EB', icon: '⚖️', generators: [G1.compare] },
+      { key: 'g1_pred_succ', name: 'Vorgänger · Nachfolger · Zahlenstrahl', color: '#1D4ED8', icon: '📏', generators: [G1.vorgaenger, G1.nachfolger, G1.numberLine] },
     ]},
-    { key: 'g1_sub', name: 'Subtraktion', color: '#EF4444', icon: '➖', topics: [
-      { key: 'sub10', name: 'Subtraktion bis 10', color: '#F87171', icon: '➖', generators: [G1.sub10, G1.sub10b, G1.missing10sub] },
-      { key: 'sub20', name: 'Subtraktion bis 20', color: '#EF4444', icon: '➖', generators: [G1.sub20, G1.sub20b] },
+    { key: 'g1_zahlen20', name: 'Zahlen bis 20', color: '#06B6D4', icon: '🔟', topics: [
+      { key: 'g1_place_value20', name: 'Zehner und Einer', color: '#0891B2', icon: '🧱', generators: [G1.placeValue20] },
     ]},
-    { key: 'g1_word', name: 'Textaufgaben', color: '#8B5CF6', icon: '📖', topics: [
-      { key: 'word', name: 'Sachaufgaben', color: '#8B5CF6', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
+    { key: 'g1_rechnen', name: 'Rechnen', color: '#EF4444', icon: '➕', topics: [
+      { key: 'add10', name: 'Addition bis 10', color: '#F87171', icon: '➕', generators: [G1.add10, G1.add10b] },
+      { key: 'sub10', name: 'Subtraktion bis 10', color: '#EF4444', icon: '➖', generators: [G1.sub10, G1.sub10b] },
+      { key: 'add20', name: 'Addition bis 20', color: '#DC2626', icon: '➕', generators: [G1.add20, G1.add20b] },
+      { key: 'sub20', name: 'Subtraktion bis 20', color: '#B91C1C', icon: '➖', generators: [G1.sub20, G1.sub20b] },
+      { key: 'g1_tausch', name: 'Tausch- und Umkehraufgaben', color: '#F59E0B', icon: '🔄', generators: [G1.tausch, G1.missing10, G1.missing10sub] },
     ]},
-    { key: 'g1_visual', name: 'Anschaulich', color: '#F59E0B', icon: '🎨', topics: [
-      { key: 'g1_clock', name: 'Uhrzeit ablesen', color: '#FF2D78', icon: '🕐', generators: [G1.clockQuarter] },
-      { key: 'g1_number_line', name: 'Zahlenstrahl', color: '#00D4FF', icon: '📏', generators: [G1.numberLine] },
-      { key: 'g1_place_value', name: 'Stellenwerte', color: '#00FF88', icon: '🧱', generators: [G1.placeValue] },
-      { key: 'g1_grid_count', name: 'Kästchen zählen', color: '#B44DFF', icon: '🟪', generators: [G1.gridCount] },
-      { key: 'g1_sequence', name: 'Zahlenreihe', color: '#00D4FF', icon: '🔢', generators: [G1.sequence] },
-      { key: 'g1_coins', name: 'Münzen zählen', color: '#FFD700', icon: '🪙', generators: [G1.coins] },
-      { key: 'g1_timeline', name: 'Zeitdauer', color: '#FF2D78', icon: '⏱️', generators: [G1.timeline] },
-      { key: 'g1_fraction', name: 'Teile zählen', color: '#B44DFF', icon: '🍕', generators: [G1.fraction] },
+    { key: 'g1_struktur', name: 'Zahlen verstehen', color: '#8B5CF6', icon: '🧩', topics: [
+      { key: 'g1_zahlzerlegung', name: 'Zahlzerlegung', color: '#A78BFA', icon: '🧩', generators: [G1.zahlzerlegung] },
+      { key: 'g1_verdoppeln', name: 'Verdoppeln', color: '#8B5CF6', icon: '✌️', generators: [G1.verdoppeln] },
+      { key: 'g1_halbieren', name: 'Halbieren', color: '#7C3AED', icon: '✂️', generators: [G1.halbieren] },
+      { key: 'g1_sequence', name: 'Zahlenfolgen', color: '#6D28D9', icon: '🔢', generators: [G1.sequence, G1.evenOdd] },
+    ]},
+    { key: 'g1_geo', name: 'Geometrie und Raumorientierung', color: '#10B981', icon: '🔷', topics: [
+      { key: 'g1_shapes', name: 'Formen', color: '#34D399', icon: '🔷', generators: [G1.shapes] },
+    ]},
+    { key: 'g1_messen', name: 'Messen und Größen', color: '#F59E0B', icon: '📏', topics: [
+      { key: 'g1_laenger', name: 'Länger · Kürzer', color: '#FBBF24', icon: '📏', generators: [G1.laenger] },
+    ]},
+    { key: 'g1_alltag', name: 'Mathematik im Alltag', color: '#FF2D78', icon: '🌍', topics: [
+      { key: 'g1_clock', name: 'Uhrzeit', color: '#FF2D78', icon: '🕐', generators: [G1.clockQuarter] },
+      { key: 'g1_wochentage', name: 'Wochentage', color: '#FB7185', icon: '📅', generators: [G1.wochentage] },
+      { key: 'g1_coins', name: 'Münzen und Geld', color: '#FFD700', icon: '🪙', generators: [G1.coins] },
+      { key: 'word', name: 'Sachaufgaben', color: '#C026D3', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
     ]},
   ],
   2: [
@@ -1620,27 +1706,38 @@ export function getDEThemes(grade: number): ENThemeDef[] {
 
 const HU_THEMES: Record<number, ENThemeDef[]> = {
   1: [
-    { key: 'g1_add', name: 'Összeadás', color: '#3B82F6', icon: '➕', topics: [
-      { key: 'add10', name: 'Összeadás 10-ig', color: '#60A5FA', icon: '➕', generators: [G1.add10, G1.add10b, G1.missing10] },
-      { key: 'add20', name: 'Összeadás 20-ig', color: '#3B82F6', icon: '➕', generators: [G1.add20, G1.add20b] },
-      { key: 'compare', name: 'Számok összehasonlítása', color: '#2563EB', icon: '🔢', generators: [G1.compare] },
+    { key: 'g1_zahlen', name: 'Számok és számrendszer', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'g1_zaehlen', name: 'Számok 0–10', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen, G1.gridCount] },
+      { key: 'g1_compare', name: 'Számok összehasonlítása', color: '#2563EB', icon: '⚖️', generators: [G1.compare] },
+      { key: 'g1_pred_succ', name: 'Előző · Következő · Számegyenes', color: '#1D4ED8', icon: '📏', generators: [G1.vorgaenger, G1.nachfolger, G1.numberLine] },
     ]},
-    { key: 'g1_sub', name: 'Kivonás', color: '#EF4444', icon: '➖', topics: [
-      { key: 'sub10', name: 'Kivonás 10-ig', color: '#F87171', icon: '➖', generators: [G1.sub10, G1.sub10b, G1.missing10sub] },
-      { key: 'sub20', name: 'Kivonás 20-ig', color: '#EF4444', icon: '➖', generators: [G1.sub20, G1.sub20b] },
+    { key: 'g1_zahlen20', name: 'Számkör bővítése (20-ig)', color: '#06B6D4', icon: '🔟', topics: [
+      { key: 'g1_place_value20', name: 'Tízes és egyes', color: '#0891B2', icon: '🧱', generators: [G1.placeValue20] },
     ]},
-    { key: 'g1_word', name: 'Szöveges feladatok', color: '#8B5CF6', icon: '📖', topics: [
-      { key: 'word', name: 'Szöveges feladatok', color: '#8B5CF6', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
+    { key: 'g1_rechnen', name: 'Alapműveletek', color: '#EF4444', icon: '➕', topics: [
+      { key: 'add10', name: 'Összeadás 10-ig', color: '#F87171', icon: '➕', generators: [G1.add10, G1.add10b] },
+      { key: 'sub10', name: 'Kivonás 10-ig', color: '#EF4444', icon: '➖', generators: [G1.sub10, G1.sub10b] },
+      { key: 'add20', name: 'Összeadás 20-ig', color: '#DC2626', icon: '➕', generators: [G1.add20, G1.add20b] },
+      { key: 'sub20', name: 'Kivonás 20-ig', color: '#B91C1C', icon: '➖', generators: [G1.sub20, G1.sub20b] },
+      { key: 'g1_tausch', name: 'Felcserélés és visszafordítás', color: '#F59E0B', icon: '🔄', generators: [G1.tausch, G1.missing10, G1.missing10sub] },
     ]},
-    { key: 'g1_visual', name: 'Szemléltető feladatok', color: '#F59E0B', icon: '🎨', topics: [
+    { key: 'g1_struktur', name: 'Számstruktúra', color: '#8B5CF6', icon: '🧩', topics: [
+      { key: 'g1_zahlzerlegung', name: 'Számfelbontás', color: '#A78BFA', icon: '🧩', generators: [G1.zahlzerlegung] },
+      { key: 'g1_verdoppeln', name: 'Kétszereselés', color: '#8B5CF6', icon: '✌️', generators: [G1.verdoppeln] },
+      { key: 'g1_halbieren', name: 'Felezés', color: '#7C3AED', icon: '✂️', generators: [G1.halbieren] },
+      { key: 'g1_sequence', name: 'Számsorok', color: '#6D28D9', icon: '🔢', generators: [G1.sequence, G1.evenOdd] },
+    ]},
+    { key: 'g1_geo', name: 'Geometria és térbeli tájékozódás', color: '#10B981', icon: '🔷', topics: [
+      { key: 'g1_shapes', name: 'Alakzatok', color: '#34D399', icon: '🔷', generators: [G1.shapes] },
+    ]},
+    { key: 'g1_messen', name: 'Mérések és mennyiségek', color: '#F59E0B', icon: '📏', topics: [
+      { key: 'g1_laenger', name: 'Hosszabb · Rövidebb', color: '#FBBF24', icon: '📏', generators: [G1.laenger] },
+    ]},
+    { key: 'g1_alltag', name: 'Mindennapi matematika', color: '#FF2D78', icon: '🌍', topics: [
       { key: 'g1_clock', name: 'Óra leolvasása', color: '#FF2D78', icon: '🕐', generators: [G1.clockQuarter] },
-      { key: 'g1_number_line', name: 'Számegyenes', color: '#00D4FF', icon: '📏', generators: [G1.numberLine] },
-      { key: 'g1_place_value', name: 'Helyiértékek', color: '#00FF88', icon: '🧱', generators: [G1.placeValue] },
-      { key: 'g1_grid_count', name: 'Négyzetek számolása', color: '#B44DFF', icon: '🟪', generators: [G1.gridCount] },
-      { key: 'g1_sequence', name: 'Számsor', color: '#00D4FF', icon: '🔢', generators: [G1.sequence] },
-      { key: 'g1_coins', name: 'Érmék számolása', color: '#FFD700', icon: '🪙', generators: [G1.coins] },
-      { key: 'g1_timeline', name: 'Időtartam', color: '#FF2D78', icon: '⏱️', generators: [G1.timeline] },
-      { key: 'g1_fraction', name: 'Részek számolása', color: '#B44DFF', icon: '🍕', generators: [G1.fraction] },
+      { key: 'g1_wochentage', name: 'A hét napjai', color: '#FB7185', icon: '📅', generators: [G1.wochentage] },
+      { key: 'g1_coins', name: 'Érmék és pénz', color: '#FFD700', icon: '🪙', generators: [G1.coins] },
+      { key: 'word', name: 'Szöveges feladatok', color: '#C026D3', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
     ]},
   ],
   2: [
@@ -1767,27 +1864,38 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
 
 const RO_THEMES: Record<number, ENThemeDef[]> = {
   1: [
-    { key: 'g1_add', name: 'Adunare', color: '#3B82F6', icon: '➕', topics: [
-      { key: 'add10', name: 'Adunare până la 10', color: '#60A5FA', icon: '➕', generators: [G1.add10, G1.add10b, G1.missing10] },
-      { key: 'add20', name: 'Adunare până la 20', color: '#3B82F6', icon: '➕', generators: [G1.add20, G1.add20b] },
-      { key: 'compare', name: 'Compararea numerelor', color: '#2563EB', icon: '🔢', generators: [G1.compare] },
+    { key: 'g1_zahlen', name: 'Numere și sistemul numeric', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'g1_zaehlen', name: 'Numere 0–10', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen, G1.gridCount] },
+      { key: 'g1_compare', name: 'Compararea numerelor', color: '#2563EB', icon: '⚖️', generators: [G1.compare] },
+      { key: 'g1_pred_succ', name: 'Înainte · După · Dreapta numerelor', color: '#1D4ED8', icon: '📏', generators: [G1.vorgaenger, G1.nachfolger, G1.numberLine] },
     ]},
-    { key: 'g1_sub', name: 'Scădere', color: '#EF4444', icon: '➖', topics: [
-      { key: 'sub10', name: 'Scădere până la 10', color: '#F87171', icon: '➖', generators: [G1.sub10, G1.sub10b, G1.missing10sub] },
-      { key: 'sub20', name: 'Scădere până la 20', color: '#EF4444', icon: '➖', generators: [G1.sub20, G1.sub20b] },
+    { key: 'g1_zahlen20', name: 'Numere până la 20', color: '#06B6D4', icon: '🔟', topics: [
+      { key: 'g1_place_value20', name: 'Zeci și unități', color: '#0891B2', icon: '🧱', generators: [G1.placeValue20] },
     ]},
-    { key: 'g1_word', name: 'Probleme', color: '#8B5CF6', icon: '📖', topics: [
-      { key: 'word', name: 'Probleme', color: '#8B5CF6', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
+    { key: 'g1_rechnen', name: 'Operații de bază', color: '#EF4444', icon: '➕', topics: [
+      { key: 'add10', name: 'Adunare până la 10', color: '#F87171', icon: '➕', generators: [G1.add10, G1.add10b] },
+      { key: 'sub10', name: 'Scădere până la 10', color: '#EF4444', icon: '➖', generators: [G1.sub10, G1.sub10b] },
+      { key: 'add20', name: 'Adunare până la 20', color: '#DC2626', icon: '➕', generators: [G1.add20, G1.add20b] },
+      { key: 'sub20', name: 'Scădere până la 20', color: '#B91C1C', icon: '➖', generators: [G1.sub20, G1.sub20b] },
+      { key: 'g1_tausch', name: 'Comutativitate și operații inverse', color: '#F59E0B', icon: '🔄', generators: [G1.tausch, G1.missing10, G1.missing10sub] },
     ]},
-    { key: 'g1_visual', name: 'Sarcini vizuale', color: '#F59E0B', icon: '🎨', topics: [
+    { key: 'g1_struktur', name: 'Înțelegerea numerelor', color: '#8B5CF6', icon: '🧩', topics: [
+      { key: 'g1_zahlzerlegung', name: 'Descompunerea numerelor', color: '#A78BFA', icon: '🧩', generators: [G1.zahlzerlegung] },
+      { key: 'g1_verdoppeln', name: 'Dublare', color: '#8B5CF6', icon: '✌️', generators: [G1.verdoppeln] },
+      { key: 'g1_halbieren', name: 'Înjumătățire', color: '#7C3AED', icon: '✂️', generators: [G1.halbieren] },
+      { key: 'g1_sequence', name: 'Șiruri de numere', color: '#6D28D9', icon: '🔢', generators: [G1.sequence, G1.evenOdd] },
+    ]},
+    { key: 'g1_geo', name: 'Geometrie și orientare spațială', color: '#10B981', icon: '🔷', topics: [
+      { key: 'g1_shapes', name: 'Forme geometrice', color: '#34D399', icon: '🔷', generators: [G1.shapes] },
+    ]},
+    { key: 'g1_messen', name: 'Măsurători și mărimi', color: '#F59E0B', icon: '📏', topics: [
+      { key: 'g1_laenger', name: 'Mai lung · Mai scurt', color: '#FBBF24', icon: '📏', generators: [G1.laenger] },
+    ]},
+    { key: 'g1_alltag', name: 'Matematica în viața de zi cu zi', color: '#FF2D78', icon: '🌍', topics: [
       { key: 'g1_clock', name: 'Citirea ceasului', color: '#FF2D78', icon: '🕐', generators: [G1.clockQuarter] },
-      { key: 'g1_number_line', name: 'Dreapta numerelor', color: '#00D4FF', icon: '📏', generators: [G1.numberLine] },
-      { key: 'g1_place_value', name: 'Valori poziționale', color: '#00FF88', icon: '🧱', generators: [G1.placeValue] },
-      { key: 'g1_grid_count', name: 'Numără pătratele', color: '#B44DFF', icon: '🟪', generators: [G1.gridCount] },
-      { key: 'g1_sequence', name: 'Șir de numere', color: '#00D4FF', icon: '🔢', generators: [G1.sequence] },
-      { key: 'g1_coins', name: 'Numără monedele', color: '#FFD700', icon: '🪙', generators: [G1.coins] },
-      { key: 'g1_timeline', name: 'Durata timpului', color: '#FF2D78', icon: '⏱️', generators: [G1.timeline] },
-      { key: 'g1_fraction', name: 'Numără părțile', color: '#B44DFF', icon: '🍕', generators: [G1.fraction] },
+      { key: 'g1_wochentage', name: 'Zilele săptămânii', color: '#FB7185', icon: '📅', generators: [G1.wochentage] },
+      { key: 'g1_coins', name: 'Monede și bani', color: '#FFD700', icon: '🪙', generators: [G1.coins] },
+      { key: 'word', name: 'Probleme', color: '#C026D3', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
     ]},
   ],
   2: [
