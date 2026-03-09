@@ -985,6 +985,22 @@ export const G4_Generators = {
         }
       }
       return q;
+    },
+    homophones_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const homophoneData = [
+        { correct: "meat", sentence: "We had ___ for dinner.", wrong: ["meet", "mete"] },
+        { correct: "knight", sentence: "The ___ fought bravely.", wrong: ["night", "knite"] },
+        { correct: "hear", sentence: "Can you ___ me?", wrong: ["here", "heer"] },
+        { correct: "brake", sentence: "Step on the ___ to stop.", wrong: ["break", "brak"] },
+        { correct: "wear", sentence: "I ___ a jacket.", wrong: ["where", "ware"] }
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(homophoneData, rng);
+        q.push(createMCQ("vocab_g4", "homophones_g4", `Fill in: "${data.sentence}"`, data.correct, data.wrong));
+      }
+      return q;
     }
   },
   grammar_g4: {
