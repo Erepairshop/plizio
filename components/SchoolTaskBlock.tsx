@@ -125,7 +125,7 @@ export default function SchoolTaskBlock({
       case 'g1-coins':
         return <G1CoinCounter coins={p.coins} currency={p.currency} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
       case 'g1-timeline':
-        return <G1TimelineDuration startHour={p.startHour} endHour={p.endHour} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+        return <G1TimelineDuration startHour={p.startHour} endHour={p.endHour} lang={lang} embedded onValueChange={vc} />;
       case 'g1-fraction':
         return <G1FractionShapes shape={p.shape} totalParts={p.totalParts} coloredParts={p.coloredParts} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
       default:
