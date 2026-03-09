@@ -252,18 +252,19 @@ function Planet({
   island,
   selected,
   onClick,
-  floatOffset,
+  index,
 }: {
   island: Island;
   selected: boolean;
   onClick: () => void;
-  floatOffset: number;  // unique offset for floating animation per planet
+  index: number;
 }) {
   const { cx, cy, color, glow, label, id } = island;
   const theme = PLANET_THEMES[id] ?? DEFAULT_THEME;
 
-  // Idle floating Y offset
-  const floatY = cy + floatOffset;
+  // Float duration/delay unique per planet — no RAF loop, no React re-renders
+  const floatDuration = 3.2 + index * 0.4;
+  const floatDelay = index * 0.9;
 
   return (
     <motion.g
@@ -272,15 +273,15 @@ function Planet({
       role="button"
       tabIndex={0}
       aria-label={label}
-      animate={{ y: floatOffset }}
-      transition={{ duration: 0 }} // instant — floatOffset is animated externally
+      animate={{ y: [0, -3, 0, 3, 0] }}
+      transition={{ duration: floatDuration, repeat: Infinity, ease: "easeInOut", delay: floatDelay }}
     >
       {/* big soft ambient glow behind planet */}
       <motion.circle
         cx={cx} cy={cy} r={R * 2.2}
         fill={glow}
         animate={{ opacity: [0.05, 0.08, 0.05] }}
-        transition={{ duration: 4 + floatOffset * 0.5, repeat: Infinity, ease: "easeInOut" }}
+        transition={{ duration: 4 + index * 0.3, repeat: Infinity, ease: "easeInOut" }}
       />
       <circle cx={cx} cy={cy} r={R * 1.5} fill={glow} opacity={0.08} />
 
@@ -292,7 +293,7 @@ function Planet({
           r: [R + 18, R + 24, R + 18],
           opacity: [0.06, 0.15, 0.06],
         }}
-        transition={{ duration: 5, repeat: Infinity, ease: "easeInOut", delay: floatOffset * 0.3 }}
+        transition={{ duration: 5, repeat: Infinity, ease: "easeInOut", delay: floatDelay * 0.3 }}
       />
 
       {/* outer ring glow — enhanced on selected */}
@@ -539,32 +540,8 @@ function useSvgToDOM(svgRef: React.RefObject<SVGSVGElement | null>, vx: number, 
 }
 
 /* ------------------------------------------------------------------ */
-/* Planet idle float animation (returns offset per planet index)        */
-/* ------------------------------------------------------------------ */
-function usePlanetFloats(count: number) {
-  const [offsets, setOffsets] = useState<number[]>(() => new Array(count).fill(0));
-  const frameRef = useRef(0);
-
-  useEffect(() => {
-    let raf: number;
-    const startTime = performance.now();
-    const loop = (now: number) => {
-      const t = (now - startTime) / 1000;
-      const newOffsets = new Array(count).fill(0).map((_, i) => {
-        // Each planet has a unique phase and slightly different speed
-        const phase = i * 1.3;
-        const speed = 0.3 + i * 0.05;
-        return Math.sin(t * speed + phase) * 3; // +-3px float
-      });
-      setOffsets(newOffsets);
-      raf = requestAnimationFrame(loop);
-    };
-    raf = requestAnimationFrame(loop);
-    return () => cancelAnimationFrame(raf);
-  }, [count]);
-
-  return offsets;
-}
+/* Planet idle float animation — moved into Planet itself via Framer    */
+/* Motion's built-in animate (no React re-renders every frame)          */
 
 /* ------------------------------------------------------------------ */
 /* Card flash effect — listens for plizio-cards-changed event          */
@@ -621,9 +598,6 @@ export default function IslandMap({ islands, username, streak, specialCount, car
     window.addEventListener("mousemove", handler);
     return () => window.removeEventListener("mousemove", handler);
   }, []);
-
-  // Planet idle float
-  const floatOffsets = usePlanetFloats(islands.length);
 
   // Avatar smooth movement
   const prevTargetRef = useRef<{ cx: number; cy: number } | null>(null);
@@ -747,7 +721,7 @@ export default function IslandMap({ islands, username, streak, specialCount, car
                 island={island}
                 selected={selectedId === island.id}
                 onClick={() => setSelectedId(selectedId === island.id ? null : island.id)}
-                floatOffset={floatOffsets[idx] ?? 0}
+                index={idx}
               />
             </g>
           ))}
