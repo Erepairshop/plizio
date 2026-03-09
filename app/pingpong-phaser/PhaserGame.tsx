@@ -560,11 +560,21 @@ class PingPongScene extends Phaser.Scene {
       this.ai.y = Phaser.Math.Clamp(this.ai.y + (aiDY / aiDist) * aiMove, tT + R, tT + tH * 0.48 - R);
     }
 
-    // ─── Ball boundaries ──────────────────────────────────────────────
+    // ─── Ball boundaries with side bounce zone (Feature 1) ──────────────
     const bx = this.ball.x;
     const by = this.ball.y;
     const br = 12;
+    const SIDE_BOUNCE_ZONE = 20; // invisible wall bounce zone
 
+    // Feature 1: Side bounce zone (soft wall)
+    if (bx - br < tL + SIDE_BOUNCE_ZONE && this.ball.body!.velocity.x < 0) {
+      this.ball.body!.velocity.x = Math.abs(this.ball.body!.velocity.x) * 0.8;
+    }
+    if (bx + br > tL + tW - SIDE_BOUNCE_ZONE && this.ball.body!.velocity.x > 0) {
+      this.ball.body!.velocity.x = -Math.abs(this.ball.body!.velocity.x) * 0.8;
+    }
+
+    // Hard boundaries (score point)
     if (bx - br < tL || bx + br > tL + tW) {
       this.scorePoint(by < tT + tH * 0.5);
       return;
@@ -588,16 +598,26 @@ class PingPongScene extends Phaser.Scene {
         // Feature 1: 4.5% acceleration per rally, capped at 1.7×
         const baseSpeed = this.ballSpeed * Math.min(1 + this.rallyCount * 0.045, 1.70);
 
-        // Feature 2: angle from hit position on paddle (left/right)
+        // Feature 10: Paddle shape trick + Feature 3: Center bias
+        // Curved collider logic: edges deflect less, center redirects more
         const hitFrac = Phaser.Math.Clamp(dxP / HR, -1, 1);
-        const angle = hitFrac * 60;
+        const hitFracAbs = Math.abs(hitFrac);
 
-        // Feature 11: edge boost — faster at paddle edges
-        const edgeFactor = 1 + Math.abs(hitFrac) * 0.15;
+        // Feature 7: Paddle edge weakening - reduce angle at edges
+        const edgeWeaken = 1 - hitFracAbs * 0.3; // 100% at center, 70% at edges
+        let angle = hitFrac * 60 * edgeWeaken;
+
+        // Feature 3: Paddle center direction - center hits go more straight/slightly up
+        if (hitFracAbs < 0.3) {
+          angle *= 0.5; // Center of paddle redirects more neutrally
+        }
+
+        // Feature 4: Edge nerf - reduce speed at edges (was boost, now it's nerfed)
+        const edgeFactor = 1 - hitFracAbs * 0.25; // Reduced from boost to 75-100%
         const speed = baseSpeed * edgeFactor;
 
-        // Feature 5: ±2.5° random bounce
-        const randAngle = angle + Phaser.Math.FloatBetween(-2.5, 2.5);
+        // Feature 5: Random deviation ±2-4° (expanded from ±2.5°)
+        const randAngle = angle + Phaser.Math.FloatBetween(-3.5, 3.5);
 
         let newVx = Math.sin(Phaser.Math.DegToRad(randAngle)) * speed;
         let newVy = -Math.abs(Math.cos(Phaser.Math.DegToRad(randAngle)) * speed);
@@ -609,6 +629,34 @@ class PingPongScene extends Phaser.Scene {
 
         // Ensure ball moves away from player paddle (must go up)
         if (newVy > -60) newVy = -60;
+
+        // Feature 2: Angle limitation - prevent too horizontal shots
+        const horizontalRatio = Math.abs(newVx) / (Math.abs(newVy) + 0.01);
+        if (horizontalRatio > 2.0) {
+          // Too horizontal, boost Y component
+          const magnitude = Math.sqrt(newVx * newVx + newVy * newVy);
+          const newAngle = Math.atan2(newVx, newVy);
+          const maxHorizRatio = 1.8;
+          const newVyAdjusted = magnitude / Math.sqrt(1 + maxHorizRatio * maxHorizRatio);
+          const newVxAdjusted = newVyAdjusted * maxHorizRatio * Math.sign(newVx);
+          newVx = newVxAdjusted;
+          newVy = -Math.abs(newVyAdjusted);
+        }
+
+        // Feature 8: Max horizontal speed limit
+        const MAX_HORZ_SPEED = speed * 0.9;
+        if (Math.abs(newVx) > MAX_HORZ_SPEED) {
+          newVx = Math.sign(newVx) * MAX_HORZ_SPEED;
+        }
+
+        // Feature 6: Center bias - if ball very close to edge, pull back slightly
+        const edgeBuffer = 25;
+        if (bx < tL + edgeBuffer && newVx < 0) {
+          newVx *= 0.6; // Weaken leftward velocity near left edge
+        }
+        if (bx > tL + tW - edgeBuffer && newVx > 0) {
+          newVx *= 0.6; // Weaken rightward velocity near right edge
+        }
 
         // Push ball cleanly out of hitbox
         this.ball.y = this.player.y - HR - br - 2;
@@ -654,17 +702,58 @@ class PingPongScene extends Phaser.Scene {
         this.rallyCount++;
 
         const baseSpeed = this.ballSpeed * Math.min(1 + this.rallyCount * 0.045, 1.70);
+
+        // Feature 10: Paddle shape trick + Feature 3: Center bias (same as player)
         const hitFrac = Phaser.Math.Clamp(dxA / HR, -1, 1);
-        const angle = hitFrac * 60;
-        const edgeFactor = 1 + Math.abs(hitFrac) * 0.15;
+        const hitFracAbs = Math.abs(hitFrac);
+
+        // Feature 7: Paddle edge weakening
+        const edgeWeaken = 1 - hitFracAbs * 0.3;
+        let angle = hitFrac * 60 * edgeWeaken;
+
+        // Feature 3: Paddle center direction
+        if (hitFracAbs < 0.3) {
+          angle *= 0.5;
+        }
+
+        // Feature 4: Edge nerf (reduce speed at edges)
+        const edgeFactor = 1 - hitFracAbs * 0.25;
         const speed = baseSpeed * edgeFactor;
-        const randAngle = angle + Phaser.Math.FloatBetween(-2.5, 2.5);
+
+        // Feature 5: Random deviation ±2-4°
+        const randAngle = angle + Phaser.Math.FloatBetween(-3.5, 3.5);
 
         let newVx = Math.sin(Phaser.Math.DegToRad(randAngle)) * speed;
         let newVy = Math.abs(Math.cos(Phaser.Math.DegToRad(randAngle)) * speed);
 
         // Ensure ball moves away from AI paddle (must go down)
         if (newVy < 60) newVy = 60;
+
+        // Feature 2: Angle limitation - prevent too horizontal shots
+        const horizontalRatio = Math.abs(newVx) / (Math.abs(newVy) + 0.01);
+        if (horizontalRatio > 2.0) {
+          const magnitude = Math.sqrt(newVx * newVx + newVy * newVy);
+          const maxHorizRatio = 1.8;
+          const newVyAdjusted = magnitude / Math.sqrt(1 + maxHorizRatio * maxHorizRatio);
+          const newVxAdjusted = newVyAdjusted * maxHorizRatio * Math.sign(newVx);
+          newVx = newVxAdjusted;
+          newVy = Math.abs(newVyAdjusted);
+        }
+
+        // Feature 8: Max horizontal speed limit
+        const MAX_HORZ_SPEED = speed * 0.9;
+        if (Math.abs(newVx) > MAX_HORZ_SPEED) {
+          newVx = Math.sign(newVx) * MAX_HORZ_SPEED;
+        }
+
+        // Feature 6: Center bias - if ball very close to edge, pull back slightly
+        const edgeBuffer = 25;
+        if (bx < tL + edgeBuffer && newVx < 0) {
+          newVx *= 0.6;
+        }
+        if (bx > tL + tW - edgeBuffer && newVx > 0) {
+          newVx *= 0.6;
+        }
 
         // Push ball cleanly out of hitbox
         this.ball.y = this.ai.y + HR + br + 2;
@@ -700,6 +789,16 @@ class PingPongScene extends Phaser.Scene {
           },
         });
       }
+    }
+
+    // Feature 9: Field edge "magnet" – subtle pull back toward center if too close to sides
+    const fieldEdgeThreshold = 40;
+    const magnetStrength = 50;
+    if (bx < tL + fieldEdgeThreshold && curVx < 0) {
+      this.ball.body!.velocity.x += magnetStrength * dt;
+    }
+    if (bx > tL + tW - fieldEdgeThreshold && curVx > 0) {
+      this.ball.body!.velocity.x -= magnetStrength * dt;
     }
 
     // Suppress unused variable warning (curVx used for momentum via playerVelX)
