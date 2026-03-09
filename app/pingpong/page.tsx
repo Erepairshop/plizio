@@ -308,12 +308,29 @@ function PingPongPage() {
       if (playerNum !== "1" && gameRef.current) {
         const game = gameRef.current;
         const { balls, ps1, ps2, serving, ripples } = payload.payload;
-        // Apply ball positions with y-flip for P2's mirrored perspective
+        // Apply ball state from P1 — y-flip for P2's mirrored view, smooth-correct position
         if (balls?.length > 0) {
-          game.balls = (balls as {x:number,y:number,vx:number,vy:number,z:number,vz:number}[]).map(b => ({
-            x: b.x, y: 1 - b.y, vx: b.vx, vy: -b.vy, z: b.z, vz: b.vz,
-            speed: 0, curveForce: 0, lastHitter: null, lastBounceSide: null,
-          }));
+          const synced = (balls as {x:number,y:number,vx:number,vy:number,z:number,vz:number,speed?:number}[]);
+          if (game.balls.length !== synced.length) {
+            // Ball count changed (double powerup) — hard reset
+            game.balls = synced.map(b => ({
+              x: b.x, y: 1 - b.y, vx: b.vx, vy: -b.vy, z: b.z, vz: b.vz,
+              speed: b.speed ?? 0, curveForce: 0, lastHitter: null, lastBounceSide: null,
+            }));
+          } else {
+            // Lerp position toward server (avoids hard snap), snap velocity immediately
+            for (let i = 0; i < synced.length; i++) {
+              const s = synced[i];
+              const b = game.balls[i];
+              b.x = b.x + (s.x - b.x) * 0.4;
+              b.y = b.y + ((1 - s.y) - b.y) * 0.4;
+              b.vx = s.vx;
+              b.vy = -s.vy;
+              b.z = s.z;
+              b.vz = s.vz;
+              b.speed = s.speed ?? b.speed;
+            }
+          }
         }
         if (typeof serving === "boolean") game.serving = serving;
         // P2 displays ps2 as their score, ps1 as opponent
@@ -737,7 +754,7 @@ function PingPongPage() {
       // Broadcast: paddle position (both players) + ball state (P1 only)
       if (isMultiplayer && broadcastChannelRef.current) {
         broadcastTimer += dt;
-        if (broadcastTimer > 4) { // ~every 66ms
+        if (broadcastTimer > 2) { // ~every 33ms (30fps sync)
           broadcastTimer = 0;
           broadcastChannelRef.current.send({
             type: "broadcast",
@@ -750,7 +767,7 @@ function PingPongPage() {
               type: "broadcast",
               event: "ballSync",
               payload: {
-                balls: game.balls.map(b => ({ x: b.x, y: b.y, vx: b.vx, vy: b.vy, z: b.z, vz: b.vz })),
+                balls: game.balls.map(b => ({ x: b.x, y: b.y, vx: b.vx, vy: b.vy, z: b.z, vz: b.vz, speed: b.speed })),
                 ps1: playerScoreRef.current,
                 ps2: aiScoreRef.current,
                 serving: game.serving,
@@ -819,7 +836,17 @@ function PingPongPage() {
         game.bounceRipples = game.bounceRipples.filter(r => r.age < 28);
       }
 
-      // Ball physics — P1 is authoritative in multiplayer; P2 skips this entirely
+      // Ball physics — P1 is authoritative in multiplayer; P2 extrapolates between sync frames
+      if (!game.serving && !game.gameOver && isMultiplayer && playerNum !== "1") {
+        // P2: dead-reckoning — keep ball moving smoothly between server sync updates
+        for (const ball of game.balls) {
+          ball.x += ball.vx * dt;
+          ball.y += ball.vy * dt;
+          ball.vz -= GRAVITY * dt;
+          ball.z += ball.vz * dt;
+          if (ball.z <= 0 && ball.vz < 0) { ball.z = 0; ball.vz = Math.abs(ball.vz) * BOUNCE_DAMP; }
+        }
+      }
       if (!game.serving && !game.gameOver && (!isMultiplayer || playerNum === "1")) {
         const ballsToRemove: number[] = [];
 
