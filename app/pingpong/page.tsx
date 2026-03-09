@@ -173,6 +173,7 @@ interface Ball {
   z: number;          // height above table (0 = on table)
   vz: number;         // vertical velocity upward
   lastHitter: "player" | "ai" | null;
+  lastBounceSide: "player" | "ai" | null; // which half last bounced (for double-bounce rule)
 }
 
 // ─── Main Component ──────────────────────────────────────────
@@ -468,7 +469,7 @@ function PingPongPage() {
       aiY: AI_Y_DEFAULT,
       aiTargetX: 0.5,
       aiTargetY: AI_Y_DEFAULT,
-      balls: [{ x: 0.5, y: 0.5, vx: 0, vy: 0, speed: 0, curveForce: 0, z: 0, vz: 0, lastHitter: null }],
+      balls: [{ x: 0.5, y: 0.5, vx: 0, vy: 0, speed: 0, curveForce: 0, z: 0, vz: 0, lastHitter: null, lastBounceSide: null }],
       serving: true,
       serveTimer: 0,
       playerServes: true,
@@ -491,7 +492,7 @@ function PingPongPage() {
 
     // Reset ball for serve
     const resetBall = (playerServes: boolean) => {
-      game.balls = [{ x: 0.5, y: playerServes ? 0.78 : 0.22, vx: 0, vy: 0, speed: 0, curveForce: 0, z: 0, vz: 0, lastHitter: null }];
+      game.balls = [{ x: 0.5, y: playerServes ? 0.78 : 0.22, vx: 0, vy: 0, speed: 0, curveForce: 0, z: 0, vz: 0, lastHitter: null, lastBounceSide: null }];
       game.serving = true;
       game.serveTimer = Date.now();
       game.playerServes = playerServes;
@@ -594,6 +595,7 @@ function PingPongPage() {
           z: b.z,
           vz: b.vz,
           lastHitter: b.lastHitter,
+          lastBounceSide: null,
         });
       } else if (pu.type === "bigpaddle") {
         if (hitBy === "player") game.playerPaddleScale = 1.8;
@@ -619,8 +621,14 @@ function PingPongPage() {
       const rawY = (canvasY - tT) / tH;
       playerTargetY = Math.max(PLAYER_Y_MIN, Math.min(PLAYER_Y_MAX, rawY));
     };
+    const handlePointerDown = (e: PointerEvent | TouchEvent) => {
+      handlePointer(e);
+      // Tap to serve — player must tap to launch their serve
+      if (game.serving && game.playerServes) launchBall();
+    };
     canvas.addEventListener("pointermove", handlePointer);
-    canvas.addEventListener("pointerdown", handlePointer);
+    canvas.addEventListener("pointerdown", handlePointerDown);
+    canvas.addEventListener("touchstart", handlePointerDown as EventListener, { passive: true });
     canvas.addEventListener("touchmove", handlePointer as EventListener, { passive: true });
 
     // Keyboard
@@ -650,6 +658,8 @@ function PingPongPage() {
       if (keys.has("ArrowRight") || keys.has("d")) playerTargetX = Math.min(1 - PADDLE_R - 0.01, playerTargetX + 0.02 * dt);
       if (keys.has("ArrowUp") || keys.has("w")) playerTargetY = Math.max(PLAYER_Y_MIN, playerTargetY - 0.015 * dt);
       if (keys.has("ArrowDown") || keys.has("s")) playerTargetY = Math.min(PLAYER_Y_MAX, playerTargetY + 0.015 * dt);
+      // Space/Enter to serve
+      if ((keys.has(" ") || keys.has("Enter")) && game.serving && game.playerServes) { launchBall(); keys.delete(" "); keys.delete("Enter"); }
 
       // Smooth player paddle
       game.playerX += (playerTargetX - game.playerX) * Math.min(1, 0.25 * dt);
@@ -698,9 +708,19 @@ function PingPongPage() {
         }
       }
 
-      // Serve delay
-      if (game.serving && Date.now() - game.serveTimer > SERVE_DELAY && !game.gameOver) {
-        launchBall();
+      // Serve handling
+      if (game.serving && !game.gameOver) {
+        const serveBall = game.balls[0];
+        if (game.playerServes) {
+          // Ball follows paddle so player sees exactly what they'll hit
+          serveBall.x = game.playerX;
+          serveBall.y = game.playerY - PADDLE_R - BALL_RADIUS / tW - 0.01;
+          // Auto-serve fallback after 3 s
+          if (Date.now() - game.serveTimer > 3000) launchBall();
+        } else {
+          // AI serve: auto-launch after short delay
+          if (Date.now() - game.serveTimer > SERVE_DELAY) launchBall();
+        }
       }
 
       // ─── Powerup management ────────────────────────────
@@ -738,8 +758,10 @@ function PingPongPage() {
       // Ball physics
       const ballR = BALL_RADIUS / tW;
       const ballRY = BALL_RADIUS / tH;
-      const playerR = PADDLE_R * game.playerPaddleScale;
-      const aiR = PADDLE_R * game.aiPaddleScale;
+      // Visual paddle radius in normalized coords — matches what player sees
+      const visualPaddleR = Math.max(18, Math.min(30, tW * 0.07)) / tW;
+      const playerR = visualPaddleR * game.playerPaddleScale;
+      const aiR = visualPaddleR * game.aiPaddleScale;
 
       if (!game.serving && !game.gameOver) {
         const ballsToRemove: number[] = [];
@@ -758,6 +780,14 @@ function PingPongPage() {
             // Create ripple on table if ball is within table bounds
             if (ball.x >= 0 && ball.x <= 1 && ball.y >= 0 && ball.y <= 1) {
               game.bounceRipples.push({ x: ball.x, y: ball.y, age: 0 });
+              // Double-bounce rule: ball bounced twice on same side → other side scores
+              const bounceSide: "player" | "ai" = ball.y >= 0.5 ? "player" : "ai";
+              if (ball.lastBounceSide === bounceSide) {
+                // Second bounce on same side
+                if (bi === 0) { scorePoint(bounceSide === "ai"); continue; }
+                else { ballsToRemove.push(bi); continue; }
+              }
+              ball.lastBounceSide = bounceSide;
             }
           }
 
@@ -792,6 +822,7 @@ function PingPongPage() {
               ball.vz = VZ_SERVE;
               ball.z = Math.max(ball.z, 0);
               ball.lastHitter = "player";
+              ball.lastBounceSide = null;
               game.rallyCount++;
             }
           }
@@ -811,6 +842,7 @@ function PingPongPage() {
               ball.vz = VZ_SERVE;
               ball.z = Math.max(ball.z, 0);
               ball.lastHitter = "ai";
+              ball.lastBounceSide = null;
               game.rallyCount++;
             }
           }
@@ -839,7 +871,7 @@ function PingPongPage() {
 
         // Advance ripple ages and cull old ones
         for (const r of game.bounceRipples) r.age += dt;
-        game.bounceRipples = game.bounceRipples.filter(r => r.age < 22);
+        game.bounceRipples = game.bounceRipples.filter(r => r.age < 28);
 
         // Remove extra balls that went off screen
         for (let i = ballsToRemove.length - 1; i >= 0; i--) {
@@ -924,24 +956,40 @@ function PingPongPage() {
       for (const ripple of game.bounceRipples) {
         const rx = toX(ripple.x);
         const ry = toY(ripple.y);
-        const maxAge = 22;
+        const maxAge = 28;
         const progress = Math.min(1, ripple.age / maxAge);
-        // Flash at impact point
-        if (ripple.age < 5) {
-          const flashAlpha = (1 - ripple.age / 5) * 0.55;
-          ctx.fillStyle = `rgba(255,255,210,${flashAlpha})`;
+        // Bright impact flash
+        if (ripple.age < 7) {
+          const flashAlpha = (1 - ripple.age / 7) * 0.80;
+          const flashR = tW * 0.038 * (1 - ripple.age / 14);
+          ctx.fillStyle = `rgba(255,255,180,${flashAlpha})`;
           ctx.beginPath();
-          ctx.arc(rx, ry, tW * 0.022, 0, Math.PI * 2);
+          ctx.arc(rx, ry, flashR, 0, Math.PI * 2);
+          ctx.fill();
+          // Inner white dot
+          ctx.fillStyle = `rgba(255,255,255,${flashAlpha * 0.7})`;
+          ctx.beginPath();
+          ctx.arc(rx, ry, flashR * 0.4, 0, Math.PI * 2);
           ctx.fill();
         }
-        // Expanding flat ring (ellipse = perspective on table)
-        const ringAlpha = Math.max(0, (1 - progress) * 0.40);
-        const ripR = tW * 0.08 * progress;
-        ctx.strokeStyle = `rgba(255,255,255,${ringAlpha})`;
-        ctx.lineWidth = Math.max(0.5, 2.5 * (1 - progress));
+        // Expanding flat ellipse ring (perspective on table)
+        const ringAlpha = Math.max(0, (1 - progress) * 0.55);
+        const ripR = tW * 0.14 * progress;
+        ctx.strokeStyle = `rgba(255,255,200,${ringAlpha})`;
+        ctx.lineWidth = Math.max(0.5, 3.5 * (1 - progress));
         ctx.beginPath();
-        ctx.ellipse(rx, ry, ripR, ripR * 0.30, 0, 0, Math.PI * 2);
+        ctx.ellipse(rx, ry, ripR, ripR * 0.32, 0, 0, Math.PI * 2);
         ctx.stroke();
+        // Second fading ring slightly behind
+        if (progress > 0.2) {
+          const ring2R = tW * 0.09 * progress;
+          const ring2Alpha = Math.max(0, (1 - progress) * 0.25);
+          ctx.strokeStyle = `rgba(255,255,255,${ring2Alpha})`;
+          ctx.lineWidth = 1;
+          ctx.beginPath();
+          ctx.ellipse(rx, ry, ring2R, ring2R * 0.32, 0, 0, Math.PI * 2);
+          ctx.stroke();
+        }
       }
 
       // ─── Draw Powerup Icon on table ───
@@ -1198,7 +1246,8 @@ function PingPongPage() {
     return () => {
       cancelAnimationFrame(animFrameRef.current);
       canvas.removeEventListener("pointermove", handlePointer);
-      canvas.removeEventListener("pointerdown", handlePointer);
+      canvas.removeEventListener("pointerdown", handlePointerDown);
+      canvas.removeEventListener("touchstart", handlePointerDown as EventListener);
       canvas.removeEventListener("touchmove", handlePointer as EventListener);
       window.removeEventListener("keydown", handleKeyDown);
       window.removeEventListener("keyup", handleKeyUp);
