@@ -1040,6 +1040,36 @@ export const G4_Generators = {
         }
       }
       return q;
+    },
+    confused_words_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const confusedData = [
+        { correct: "their", sentence: "The students finished ___ homework.", wrong: ["there", "they're"] },
+        { correct: "its", sentence: "The dog wagged ___ tail.", wrong: ["it's", "its'"] },
+        { correct: "to", sentence: "I went ___ the store.", wrong: ["too", "two"] },
+        { correct: "be", sentence: "I want to ___ a teacher.", wrong: ["bee", "bea"] },
+        { correct: "your", sentence: "___ book is on the shelf.", wrong: ["you're", "your's"] }
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(confusedData, rng);
+        q.push(createMCQ("grammar_g4", "confused_words_g4", `Fill in: "${data.sentence}"`, data.correct, data.wrong));
+      }
+      return q;
+    },
+    commas_compound_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const commaData = [
+        { correct: "I like apples, but she likes oranges.", wrong: ["I like apples but she likes oranges.", "I like apples, and but she likes oranges.", "I like apples but, she likes oranges."] },
+        { correct: "He studied hard, so he passed the test.", wrong: ["He studied hard so he passed the test.", "He studied hard, so he, passed the test.", "He studied, hard so he passed the test."] },
+        { correct: "She wanted to go, yet she stayed home.", wrong: ["She wanted to go yet she stayed home.", "She wanted, to go yet she stayed home.", "She wanted to go yet, she stayed home."] }
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(commaData, rng);
+        q.push(createMCQ("grammar_g4", "commas_compound_g4", "Which sentence has correct commas?", data.correct, data.wrong));
+      }
+      return q;
     }
   }
 };
@@ -1197,6 +1227,26 @@ export const G5_Generators = {
         } else {
           const data = pick(corrData, rng);
           q.push(createTyping("grammar_g5", "correlative_conj_g5", `Name a correlative conjunction pair:`, pick(["either...or", "neither...nor", "both...and"], rng)));
+        }
+      }
+      return q;
+    },
+    combining_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const pairData = [
+        { sent1: "The cat was black.", sent2: "It had blue eyes.", combined: "The black cat had blue eyes." },
+        { sent1: "She likes pizza.", sent2: "She likes pasta.", combined: "She likes both pizza and pasta." },
+        { sent1: "He ran fast.", sent2: "He was tired.", combined: "Although he was tired, he ran fast." }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(5, rng)) {
+          const data = pick(pairData, rng);
+          const wrong = pairData.filter(p => p !== data).map(p => p.combined).slice(0, 3);
+          q.push(createMCQ("grammar_g5", "combining_g5", `Combine: "${data.sent1}" + "${data.sent2}"`, data.combined, wrong));
+        } else {
+          const data = pick(pairData, rng);
+          q.push(createTyping("grammar_g5", "combining_g5", `Combine these sentences: "${data.sent1}" "${data.sent2}"`, data.combined));
         }
       }
       return q;
