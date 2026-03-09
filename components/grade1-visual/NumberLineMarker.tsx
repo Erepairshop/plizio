@@ -62,10 +62,10 @@ const NumberLineMarker: React.FC<Props> = ({
     <div className={`flex flex-col items-center gap-10 w-full ${embedded ? 'p-2' : 'p-10 bg-[#1a1a2e] rounded-3xl shadow-xl'}`}>
 
       {/* NUMBER LINE */}
-      <div className="relative w-full max-w-[600px] h-24">
+      <div className={`relative w-full h-24 ${embedded ? '' : 'max-w-[600px]'}`}>
 
         {/* main line */}
-        <div className="absolute top-10 left-0 right-0 h-[2px] bg-white/40" />
+        <div className={`absolute top-10 left-0 right-0 h-[2px] ${embedded ? 'bg-slate-400' : 'bg-white/40'}`} />
 
         {/* ticks */}
         {ticks.map(num => {
@@ -79,9 +79,9 @@ const NumberLineMarker: React.FC<Props> = ({
               style={{ left: `${pos}%`, transform: 'translateX(-50%)' }}
             >
 
-              <div className={`w-[2px] ${num % 5 === 0 ? 'h-6 bg-white/70' : 'h-4 bg-white/40'}`} />
+              <div className={`w-[2px] ${num % 5 === 0 ? (embedded ? 'h-6 bg-slate-600' : 'h-6 bg-white/70') : (embedded ? 'h-4 bg-slate-400' : 'h-4 bg-white/40')}`} />
 
-              <span className="text-white/70 text-sm mt-1 font-mono">
+              <span className={`${embedded ? 'text-slate-700' : 'text-white/70'} text-sm mt-1 font-mono`}>
                 {num}
               </span>
 
@@ -125,12 +125,15 @@ const NumberLineMarker: React.FC<Props> = ({
           value={userInput}
           onChange={(e) => handleChange(e.target.value)}
           className={`
-            w-24 text-center text-2xl font-bold py-2 bg-[#2a2a4a] border-2 rounded-xl text-white outline-none transition
+            w-24 text-center text-2xl font-bold py-2 border-2 rounded-xl outline-none transition
+            ${embedded
+              ? 'bg-slate-100 text-slate-800 border-slate-300 focus:border-blue-500'
+              : 'bg-[#2a2a4a] text-white border-white/10 focus:border-[#00D4FF]'}
             ${(!embedded && isCorrect === true)
               ? 'border-green-500 shadow-[0_0_12px_rgba(34,197,94,0.4)]'
               : (!embedded && isCorrect === false)
                 ? 'border-red-500 shadow-[0_0_12px_rgba(239,68,68,0.4)]'
-                : 'border-white/10 focus:border-[#00D4FF]'}
+                : ''}
           `}
         />
 

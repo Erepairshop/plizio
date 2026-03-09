@@ -104,7 +104,7 @@ export default function SchoolTaskBlock({
       case 'timeline':
         return <TimelineDuration startHour={p.startHour} endHour={p.endHour} events={p.events} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       case 'number-line':
-        return <NumberLineRounding min={p.min} max={p.max} target={p.target} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+        return <NumberLineRounding min={p.min} max={p.max} target={p.target} language={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
       case 'angle':
         return <AngleDrawer targetAngle={p.targetAngle} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       case 'circle-draw':
@@ -113,21 +113,21 @@ export default function SchoolTaskBlock({
         return <MoneyCalculator items={p.items} budget={p.budget} mode={p.mode} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       // Grade 1 visual components
       case 'g1-clock':
-        return <G1AnalogClock hour={p.hour} minute={p.minute} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+        return <G1AnalogClock hour={p.hour} minute={p.minute} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
       case 'g1-number-line':
-        return <G1NumberLineMarker min={p.min} max={p.max} step={p.step} markedValue={p.markedValue} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+        return <G1NumberLineMarker min={p.min} max={p.max} step={p.step} markedValue={p.markedValue} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
       case 'g1-place-value':
-        return <G1PlaceValueBlocks number={p.number} question={p.question} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+        return <G1PlaceValueBlocks number={p.number} question={p.question} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
       case 'g1-grid-count':
-        return <G1GridCounter grid={p.grid} question={p.question} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+        return <G1GridCounter grid={p.grid} question={p.question} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
       case 'g1-sequence':
-        return <G1SequenceFiller sequence={p.sequence} answers={p.answers} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+        return <G1SequenceFiller sequence={p.sequence} answers={p.answers} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
       case 'g1-coins':
-        return <G1CoinCounter coins={p.coins} currency={p.currency} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+        return <G1CoinCounter coins={p.coins} currency={p.currency} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
       case 'g1-timeline':
-        return <G1TimelineDuration startHour={p.startHour} endHour={p.endHour} lang={lang} embedded onValueChange={vc} />;
+        return <G1TimelineDuration startHour={p.startHour} endHour={p.endHour} lang={lang} embedded={true} onValueChange={vc} />;
       case 'g1-fraction':
-        return <G1FractionShapes shape={p.shape} totalParts={p.totalParts} coloredParts={p.coloredParts} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+        return <G1FractionShapes shape={p.shape} totalParts={p.totalParts} coloredParts={p.coloredParts} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
       default:
         return null;
     }
