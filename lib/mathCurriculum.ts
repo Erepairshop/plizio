@@ -29,6 +29,8 @@ import {
   wpDrinksPerWeek, qOrderOfOpsReminder,
   qNextEven, qNextOdd, qIsEvenOrOdd,
   qClockFullHour, qClockMinutes, qClockHalfPast, qClockQuarterPast,
+  qG1ClockQuarter, qG1NumberLine, qG1PlaceValueTens, qG1PlaceValueOnes, qG1PlaceValueTotal,
+  qG1GridCount, qG1GridEmpty, qG1Sequence, qG1Coins, qG1Timeline, qG1Fraction,
   qRoundTo10, qRoundTo100,
   qCircleCircumference, qCircleArea,
   qMeanOf, qMedianOf,
@@ -165,6 +167,10 @@ function q(question: string, correctAnswer: number, topic: string, minOpt = 0, i
   return { question, correctAnswer, options: generateOptions(correctAnswer, minOpt), topic, isWordProblem };
 }
 
+function qs(question: string, correctAnswer: string, topic: string, isWordProblem = false): MathQuestion {
+  return { question, correctAnswer, options: [], topic, isWordProblem };
+}
+
 function pick<T>(arr: T[]): T {
   return arr[randInt(0, arr.length - 1)];
 }
@@ -252,6 +258,66 @@ const G1: Record<string, Generator> = {
     }
     const h = randInt(1, 12);
     return q(qClockFullHour(h, cc), h, t("clockReading", cc));
+  },
+  // ── G1 Visual topic text-based generators ──
+  clockQuarter: (cc) => {
+    const h = randInt(1, 12);
+    const m = pick([0, 15, 30, 45]);
+    return qs(qG1ClockQuarter(h, m, cc), `${h}:${String(m).padStart(2, "0")}`, t("clockReading", cc));
+  },
+  numberLine: (cc) => {
+    const min = 0, max = 20, step = 1;
+    const marked = randInt(min, max);
+    return q(qG1NumberLine(min, max, marked, cc), marked, t("g1NumberLine", cc));
+  },
+  placeValue: (cc) => {
+    const n = randInt(11, 99);
+    const tens = Math.floor(n / 10), ones = n % 10;
+    const r = Math.random();
+    if (r < 0.33) return q(qG1PlaceValueTens(n, cc), tens, t("g1PlaceValue", cc));
+    if (r < 0.66) return q(qG1PlaceValueOnes(n, cc), ones, t("g1PlaceValue", cc));
+    return q(qG1PlaceValueTotal(tens, ones, cc), n, t("g1PlaceValue", cc));
+  },
+  gridCount: (cc) => {
+    const rows = randInt(3, 5), cols = randInt(3, 5);
+    const total = rows * cols;
+    const colored = randInt(Math.floor(total * 0.3), Math.floor(total * 0.7));
+    const empty = total - colored;
+    if (Math.random() < 0.5) {
+      return q(qG1GridCount(rows, cols, colored, cc), colored, t("g1GridCount", cc));
+    }
+    return q(qG1GridEmpty(rows, cols, empty, cc), empty, t("g1GridCount", cc));
+  },
+  sequence: (cc) => {
+    const start = randInt(1, 5), step = randInt(1, 3);
+    const full = Array.from({ length: 6 }, (_, i) => start + i * step);
+    const miss1 = randInt(2, 3), miss2 = randInt(4, 5);
+    const shown = full.map((v, i) => (i === miss1 || i === miss2) ? "?" : String(v)).join(", ");
+    const answer = `${full[miss1]},${full[miss2]}`;
+    return qs(qG1Sequence(shown, cc), answer, t("g1Sequence", cc));
+  },
+  coins: (cc) => {
+    const cur = getCurrency(cc);
+    const coinTypes = [
+      { value: 1, count: randInt(1, 4) },
+      { value: 2, count: randInt(1, 3) },
+      { value: 5, count: randInt(0, 2) },
+    ].filter(c => c.count > 0);
+    const total = coinTypes.reduce((s, c) => s + c.value * c.count, 0);
+    const desc = coinTypes.map(c => `${c.count}×${c.value}${cur}`).join(" + ");
+    return q(qG1Coins(desc, cur, cc), total, t("g1Coins", cc));
+  },
+  timeline: (cc) => {
+    const startH = randInt(7, 16);
+    const diff = randInt(1, 4);
+    const endH = startH + diff;
+    return q(qG1Timeline(startH, endH, cc), diff, t("g1Timeline", cc));
+  },
+  fraction: (cc) => {
+    const totalParts = randInt(2, 4);
+    const coloredParts = randInt(1, totalParts);
+    const shape = pick(["pizza", "rectangle", "circle"]);
+    return q(qG1Fraction(totalParts, coloredParts, shape, cc), coloredParts, t("g1Fraction", cc));
   },
 };
 
@@ -1029,10 +1095,10 @@ interface PeriodTopics {
 const GRADES_1_4: Record<number, Record<number, PeriodTopics>> = {
   1: {
     1: { current: [G1.add10, G1.add10b, G1.compare, G1.missing10, G1.evenOdd], review: [] },
-    2: { current: [G1.add10, G1.add10b, G1.sub10, G1.sub10b, G1.missing10sub, G1.evenOdd], review: [G1.compare] },
-    3: { current: [G1.add20, G1.add20b, G1.sub20, G1.sub20b, G1.clock1], review: [G1.add10, G1.sub10, G1.missing10] },
-    4: { current: [G1.add20, G1.sub20, G1.word1, G1.word2, G1.word3, G1.clock1], review: [G1.add10, G1.sub10, G1.compare] },
-    5: { current: [G1.add20, G1.add20b, G1.sub20, G1.sub20b, G1.word1, G1.word2, G1.word3, G1.word4, G1.word5, G1.compare, G1.missing10, G1.missing10sub, G1.clock1, G1.evenOdd], review: [G1.add10, G1.sub10] },
+    2: { current: [G1.add10, G1.add10b, G1.sub10, G1.sub10b, G1.missing10sub, G1.evenOdd, G1.placeValue], review: [G1.compare] },
+    3: { current: [G1.add20, G1.add20b, G1.sub20, G1.sub20b, G1.clock1, G1.numberLine, G1.gridCount], review: [G1.add10, G1.sub10, G1.missing10] },
+    4: { current: [G1.add20, G1.sub20, G1.word1, G1.word2, G1.word3, G1.clockQuarter, G1.sequence, G1.coins], review: [G1.add10, G1.sub10, G1.compare] },
+    5: { current: [G1.add20, G1.add20b, G1.sub20, G1.sub20b, G1.word1, G1.word2, G1.word3, G1.word4, G1.word5, G1.compare, G1.missing10, G1.missing10sub, G1.clockQuarter, G1.evenOdd, G1.timeline, G1.fraction, G1.coins], review: [G1.add10, G1.sub10] },
   },
   2: {
     1: { current: [G2.add100tens, G2.sub100tens, G2.add100, G2.missing100, G2.evenOdd], review: [G1.add20, G1.sub20] },
@@ -1226,6 +1292,16 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
     { key: 'g1_word', name: 'Word Problems', color: '#8B5CF6', icon: '📖', topics: [
       { key: 'word', name: 'Story Problems', color: '#8B5CF6', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
     ]},
+    { key: 'g1_visual', name: 'Visual Tasks', color: '#F59E0B', icon: '🎨', topics: [
+      { key: 'g1_clock', name: 'Read the Clock', color: '#FF2D78', icon: '🕐', generators: [G1.clockQuarter] },
+      { key: 'g1_number_line', name: 'Number Line', color: '#00D4FF', icon: '📏', generators: [G1.numberLine] },
+      { key: 'g1_place_value', name: 'Place Values', color: '#00FF88', icon: '🧱', generators: [G1.placeValue] },
+      { key: 'g1_grid_count', name: 'Count Squares', color: '#B44DFF', icon: '🟪', generators: [G1.gridCount] },
+      { key: 'g1_sequence', name: 'Number Sequence', color: '#00D4FF', icon: '🔢', generators: [G1.sequence] },
+      { key: 'g1_coins', name: 'Count Coins', color: '#FFD700', icon: '🪙', generators: [G1.coins] },
+      { key: 'g1_timeline', name: 'Time Duration', color: '#FF2D78', icon: '⏱️', generators: [G1.timeline] },
+      { key: 'g1_fraction', name: 'Count Parts', color: '#B44DFF', icon: '🍕', generators: [G1.fraction] },
+    ]},
   ],
   2: [
     { key: 'g2_arith', name: 'Addition & Subtraction', color: '#3B82F6', icon: '🔢', topics: [
@@ -1366,6 +1442,16 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g1_word', name: 'Textaufgaben', color: '#8B5CF6', icon: '📖', topics: [
       { key: 'word', name: 'Sachaufgaben', color: '#8B5CF6', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
+    ]},
+    { key: 'g1_visual', name: 'Anschaulich', color: '#F59E0B', icon: '🎨', topics: [
+      { key: 'g1_clock', name: 'Uhrzeit ablesen', color: '#FF2D78', icon: '🕐', generators: [G1.clockQuarter] },
+      { key: 'g1_number_line', name: 'Zahlenstrahl', color: '#00D4FF', icon: '📏', generators: [G1.numberLine] },
+      { key: 'g1_place_value', name: 'Stellenwerte', color: '#00FF88', icon: '🧱', generators: [G1.placeValue] },
+      { key: 'g1_grid_count', name: 'Kästchen zählen', color: '#B44DFF', icon: '🟪', generators: [G1.gridCount] },
+      { key: 'g1_sequence', name: 'Zahlenreihe', color: '#00D4FF', icon: '🔢', generators: [G1.sequence] },
+      { key: 'g1_coins', name: 'Münzen zählen', color: '#FFD700', icon: '🪙', generators: [G1.coins] },
+      { key: 'g1_timeline', name: 'Zeitdauer', color: '#FF2D78', icon: '⏱️', generators: [G1.timeline] },
+      { key: 'g1_fraction', name: 'Teile zählen', color: '#B44DFF', icon: '🍕', generators: [G1.fraction] },
     ]},
   ],
   2: [
@@ -1546,6 +1632,16 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
     { key: 'g1_word', name: 'Szöveges feladatok', color: '#8B5CF6', icon: '📖', topics: [
       { key: 'word', name: 'Szöveges feladatok', color: '#8B5CF6', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
     ]},
+    { key: 'g1_visual', name: 'Szemléltető feladatok', color: '#F59E0B', icon: '🎨', topics: [
+      { key: 'g1_clock', name: 'Óra leolvasása', color: '#FF2D78', icon: '🕐', generators: [G1.clockQuarter] },
+      { key: 'g1_number_line', name: 'Számegyenes', color: '#00D4FF', icon: '📏', generators: [G1.numberLine] },
+      { key: 'g1_place_value', name: 'Helyiértékek', color: '#00FF88', icon: '🧱', generators: [G1.placeValue] },
+      { key: 'g1_grid_count', name: 'Négyzetek számolása', color: '#B44DFF', icon: '🟪', generators: [G1.gridCount] },
+      { key: 'g1_sequence', name: 'Számsor', color: '#00D4FF', icon: '🔢', generators: [G1.sequence] },
+      { key: 'g1_coins', name: 'Érmék számolása', color: '#FFD700', icon: '🪙', generators: [G1.coins] },
+      { key: 'g1_timeline', name: 'Időtartam', color: '#FF2D78', icon: '⏱️', generators: [G1.timeline] },
+      { key: 'g1_fraction', name: 'Részek számolása', color: '#B44DFF', icon: '🍕', generators: [G1.fraction] },
+    ]},
   ],
   2: [
     { key: 'g2_arith', name: 'Számolás 100-ig', color: '#3B82F6', icon: '🔢', topics: [
@@ -1682,6 +1778,16 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g1_word', name: 'Probleme', color: '#8B5CF6', icon: '📖', topics: [
       { key: 'word', name: 'Probleme', color: '#8B5CF6', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
+    ]},
+    { key: 'g1_visual', name: 'Sarcini vizuale', color: '#F59E0B', icon: '🎨', topics: [
+      { key: 'g1_clock', name: 'Citirea ceasului', color: '#FF2D78', icon: '🕐', generators: [G1.clockQuarter] },
+      { key: 'g1_number_line', name: 'Dreapta numerelor', color: '#00D4FF', icon: '📏', generators: [G1.numberLine] },
+      { key: 'g1_place_value', name: 'Valori poziționale', color: '#00FF88', icon: '🧱', generators: [G1.placeValue] },
+      { key: 'g1_grid_count', name: 'Numără pătratele', color: '#B44DFF', icon: '🟪', generators: [G1.gridCount] },
+      { key: 'g1_sequence', name: 'Șir de numere', color: '#00D4FF', icon: '🔢', generators: [G1.sequence] },
+      { key: 'g1_coins', name: 'Numără monedele', color: '#FFD700', icon: '🪙', generators: [G1.coins] },
+      { key: 'g1_timeline', name: 'Durata timpului', color: '#FF2D78', icon: '⏱️', generators: [G1.timeline] },
+      { key: 'g1_fraction', name: 'Numără părțile', color: '#B44DFF', icon: '🍕', generators: [G1.fraction] },
     ]},
   ],
   2: [
@@ -1944,7 +2050,7 @@ export function generateKlassenarbeit(grade: number, period?: number, countryCod
           name: "Bonus",
           questionCount: 1,
           pointsPerQuestion: 1,
-          generators: [G1.missing10sub],
+          generators: [G1.clockQuarter, G1.placeValue, G1.timeline, G1.fraction],
         },
       };
       break;
