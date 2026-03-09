@@ -4751,10 +4751,10 @@ export const G8_Generators = {
             const askFormal = rng() > 0.5;
             if (askFormal) {
               q.push(createMCQ("vocab_g8", "word_nuances_g8",
-                `Which word has the MOST FORMAL tone? ${data.words.join(", ")}`, data.mostFormal, data.wrong));
+                `Which word has the MOST FORMAL tone? ${data.words.join(", ")}`, data.mostFormal!, data.wrong));
             } else {
               q.push(createMCQ("vocab_g8", "word_nuances_g8",
-                `Which word has the LEAST FORMAL tone? ${data.words.join(", ")}`, data.leastFormal, data.wrong));
+                `Which word has the LEAST FORMAL tone? ${data.words.join(", ")}`, data.leastFormal!, data.wrong));
             }
           } else {
             q.push(createMCQ("vocab_g8", "word_nuances_g8",
@@ -4765,7 +4765,7 @@ export const G8_Generators = {
           const data = pick(nuanceData, rng);
           if ("mostFormal" in data) {
             q.push(createTyping("vocab_g8", "word_nuances_g8",
-              `Which is most FORMAL: ${data.words.join(", ")}?`, data.mostFormal));
+              `Which is most FORMAL: ${data.words.join(", ")}?`, data.mostFormal!));
           } else {
             q.push(createTyping("vocab_g8", "word_nuances_g8",
               `Which has the most POSITIVE connotation: ${data.words.join(", ")}?`, data.positive!));
