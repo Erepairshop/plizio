@@ -62,7 +62,7 @@ const NumberLineMarker: React.FC<Props> = ({
     <div className={`flex flex-col items-center gap-10 w-full ${embedded ? 'p-2' : 'p-10 bg-[#1a1a2e] rounded-3xl shadow-xl'}`}>
 
       {/* NUMBER LINE */}
-      <div className="relative w-full max-w-[600px] h-24">
+      <div className={`relative w-full h-24 ${embedded ? '' : 'max-w-[600px]'}`}>
 
         {/* main line */}
         <div className="absolute top-10 left-0 right-0 h-[2px] bg-white/40" />
