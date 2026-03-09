@@ -7,7 +7,8 @@ import { generateTopicQuestions, getDEThemes, getENThemes, getHUThemes, getROThe
 
 // ─── TYPES ──────────────────────────────────────────────────────────────────
 
-export type VisualQuestionType = 'zeichnen' | 'messen' | 'uhrzeit' | 'grid-area' | 'place-value' | 'fraction-pizza' | 'symmetry' | 'sequence' | 'timeline' | 'number-line' | 'angle' | 'circle-draw' | 'money';
+export type VisualQuestionType = 'zeichnen' | 'messen' | 'uhrzeit' | 'grid-area' | 'place-value' | 'fraction-pizza' | 'symmetry' | 'sequence' | 'timeline' | 'number-line' | 'angle' | 'circle-draw' | 'money'
+  | 'g1-clock' | 'g1-number-line' | 'g1-place-value' | 'g1-grid-count' | 'g1-sequence' | 'g1-coins' | 'g1-timeline' | 'g1-fraction';
 
 export type VisualQuestionData = {
   type: VisualQuestionType;
@@ -43,7 +44,15 @@ export type TaskType =
   | 'visual_number_line'
   | 'visual_angle'
   | 'visual_circle_draw'
-  | 'visual_money';
+  | 'visual_money'
+  | 'visual_g1_clock'
+  | 'visual_g1_number_line'
+  | 'visual_g1_place_value'
+  | 'visual_g1_grid_count'
+  | 'visual_g1_sequence'
+  | 'visual_g1_coins'
+  | 'visual_g1_timeline'
+  | 'visual_g1_fraction';
 
 export type AufgabenItem = {
   question: string;
@@ -678,6 +687,8 @@ const VISUAL_TOPIC_KEYS = new Set([
   'zeichnen', 'messen', 'uhrzeit', 'grid_area', 'place_value',
   'fraction_pizza', 'symmetry', 'sequence', 'timeline',
   'number_line', 'angle', 'circle_draw', 'money',
+  'g1_clock', 'g1_number_line', 'g1_place_value', 'g1_grid_count',
+  'g1_sequence', 'g1_coins', 'g1_timeline', 'g1_fraction',
 ]);
 
 function isVisualTopicKey(key: string): boolean {
@@ -775,6 +786,73 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
       return { id: `vis_mon_${sfx}`, answer, points: 1,
         visualType: 'money', visualData: { type: 'money', params: { items, budget, mode } } };
     }
+    // ── Grade 1 visual components ──────────────────────────────────────
+    case 'g1_clock': {
+      const hour = rnd(1, 12);
+      const minute = [0, 15, 30, 45][rnd(0, 3)]; // G1: only quarter hours
+      return { id: `vis_g1c_${sfx}`, answer: `${hour}:${String(minute).padStart(2, '0')}`, points: 1,
+        visualType: 'g1-clock', visualData: { type: 'g1-clock', params: { hour, minute } } };
+    }
+    case 'g1_number_line': {
+      const max = 20; const step = 1;
+      const marked = rnd(1, 19);
+      return { id: `vis_g1nl_${sfx}`, answer: marked, points: 1,
+        visualType: 'g1-number-line', visualData: { type: 'g1-number-line', params: { min: 0, max, step, markedValue: marked } } };
+    }
+    case 'g1_place_value': {
+      const num = rnd(11, 99);
+      const q = (['tens', 'ones', 'total'] as const)[rnd(0, 2)];
+      const ans = q === 'tens' ? Math.floor(num / 10) : q === 'ones' ? num % 10 : num;
+      return { id: `vis_g1pv_${sfx}`, answer: ans, points: 1,
+        visualType: 'g1-place-value', visualData: { type: 'g1-place-value', params: { number: num, question: q } } };
+    }
+    case 'g1_grid_count': {
+      const rows = rnd(3, 5); const cols = rnd(3, 5);
+      const grid: boolean[][] = [];
+      for (let r = 0; r < rows; r++) {
+        const row: boolean[] = [];
+        for (let c = 0; c < cols; c++) row.push(Math.random() > 0.4);
+        grid.push(row);
+      }
+      const colored = grid.flat().filter(Boolean).length;
+      return { id: `vis_g1gc_${sfx}`, answer: colored, points: 1,
+        visualType: 'g1-grid-count', visualData: { type: 'g1-grid-count', params: { grid, question: 'count' } } };
+    }
+    case 'g1_sequence': {
+      const start = rnd(1, 5); const step2 = rnd(1, 3); const len = 6;
+      const seq: (number | null)[] = [];
+      const answers: number[] = [];
+      for (let i = 0; i < len; i++) {
+        const val = start + i * step2;
+        if (i === len - 2 || i === len - 1) { seq.push(null); answers.push(val); }
+        else seq.push(val);
+      }
+      return { id: `vis_g1sq_${sfx}`, answer: answers.join(','), points: 1,
+        visualType: 'g1-sequence', visualData: { type: 'g1-sequence', params: { sequence: seq, answers } } };
+    }
+    case 'g1_coins': {
+      const coinValues = [1, 2, 5];
+      const coins: { value: number; count: number }[] = [];
+      const numTypes = rnd(2, 3);
+      for (let i = 0; i < numTypes; i++) {
+        coins.push({ value: coinValues[i], count: rnd(1, 4) });
+      }
+      const total = coins.reduce((s, c) => s + c.value * c.count, 0);
+      return { id: `vis_g1co_${sfx}`, answer: total, points: 1,
+        visualType: 'g1-coins', visualData: { type: 'g1-coins', params: { coins, currency: '€' } } };
+    }
+    case 'g1_timeline': {
+      const startH = rnd(7, 11); const endH = startH + rnd(1, 4);
+      return { id: `vis_g1tl_${sfx}`, answer: endH - startH, points: 1,
+        visualType: 'g1-timeline', visualData: { type: 'g1-timeline', params: { startHour: startH, endHour: endH } } };
+    }
+    case 'g1_fraction': {
+      const totalParts = [2, 3, 4][rnd(0, 2)];
+      const coloredParts = rnd(1, totalParts);
+      const shape = (['pizza', 'rectangle', 'circle'] as const)[rnd(0, 2)];
+      return { id: `vis_g1fr_${sfx}`, answer: coloredParts, points: 1,
+        visualType: 'g1-fraction', visualData: { type: 'g1-fraction', params: { shape, totalParts, coloredParts } } };
+    }
     default:
       return generateVisualSub('zeichnen', blockIdx, subIdx);
   }
@@ -786,6 +864,9 @@ const VISUAL_TOPIC_TO_TYPE: Record<string, TaskType> = {
   grid_area: 'visual_grid_area', place_value: 'visual_place_value', fraction_pizza: 'visual_fraction_pizza',
   symmetry: 'visual_symmetry', sequence: 'visual_sequence', timeline: 'visual_timeline',
   number_line: 'visual_number_line', angle: 'visual_angle', circle_draw: 'visual_circle_draw', money: 'visual_money',
+  g1_clock: 'visual_g1_clock', g1_number_line: 'visual_g1_number_line', g1_place_value: 'visual_g1_place_value',
+  g1_grid_count: 'visual_g1_grid_count', g1_sequence: 'visual_g1_sequence', g1_coins: 'visual_g1_coins',
+  g1_timeline: 'visual_g1_timeline', g1_fraction: 'visual_g1_fraction',
 };
 
 function generateVisualBlock(
@@ -948,6 +1029,14 @@ const TITLES: Record<TaskType, Record<string, string>> = {
   visual_angle: { de: 'Winkel zeichnen.', en: 'Draw the angle.', hu: 'Rajzolj szöget!', ro: 'Desenează unghiul.' },
   visual_circle_draw: { de: 'Kreis zeichnen.', en: 'Draw a circle.', hu: 'Rajzolj kört!', ro: 'Desenează un cerc.' },
   visual_money: { de: 'Geld berechnen.', en: 'Calculate the money.', hu: 'Számold ki az összeget!', ro: 'Calculează totalul.' },
+  visual_g1_clock: { de: 'Wie spät ist es?', en: 'What time is it?', hu: 'Hány óra van?', ro: 'Cât este ceasul?' },
+  visual_g1_number_line: { de: 'Zahlenstrahl lesen.', en: 'Read the number line.', hu: 'Olvasd le a számegyenest!', ro: 'Citește dreapta numerelor.' },
+  visual_g1_place_value: { de: 'Stellenwerte bestimmen.', en: 'Determine place values.', hu: 'Határozd meg a helyiértékeket!', ro: 'Determină valorile poziționale.' },
+  visual_g1_grid_count: { de: 'Zähle die Kästchen.', en: 'Count the squares.', hu: 'Számold meg a négyzeteket!', ro: 'Numără pătratele.' },
+  visual_g1_sequence: { de: 'Zahlenreihe fortsetzen.', en: 'Continue the sequence.', hu: 'Folytasd a számsort!', ro: 'Continuă șirul.' },
+  visual_g1_coins: { de: 'Münzen zählen.', en: 'Count the coins.', hu: 'Számold össze az érméket!', ro: 'Numără monedele.' },
+  visual_g1_timeline: { de: 'Zeitdauer berechnen.', en: 'Calculate the duration.', hu: 'Számold ki az időtartamot!', ro: 'Calculează durata.' },
+  visual_g1_fraction: { de: 'Teile zählen.', en: 'Count the parts.', hu: 'Számold meg a részeket!', ro: 'Numără părțile.' },
 };
 
 function getTitleFor(type: TaskType, cc: string): string {
