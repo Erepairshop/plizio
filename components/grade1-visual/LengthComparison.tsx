@@ -13,6 +13,7 @@ interface Props {
 const LABELS = {
   hu: {
     title: 'Hossz összehasonlítása',
+    question: 'Az A hosszabb vagy rövidebb, mint a B?',
     longer: 'Hosszabb',
     shorter: 'Rövidebb',
     equal: 'Egyenlő',
@@ -22,6 +23,7 @@ const LABELS = {
   },
   de: {
     title: 'Länge vergleichen',
+    question: 'Ist A länger oder kürzer als B?',
     longer: 'Länger',
     shorter: 'Kürzer',
     equal: 'Gleich',
@@ -31,6 +33,7 @@ const LABELS = {
   },
   en: {
     title: 'Length Comparison',
+    question: 'Is A longer or shorter than B?',
     longer: 'Longer',
     shorter: 'Shorter',
     equal: 'Equal',
@@ -40,6 +43,7 @@ const LABELS = {
   },
   ro: {
     title: 'Compararea lungimii',
+    question: 'A este mai lung sau mai scurt decât B?',
     longer: 'Mai lung',
     shorter: 'Mai scurt',
     equal: 'Egal',
@@ -116,7 +120,7 @@ export default function LengthComparison({ lang, embedded = false, onValueChange
 
       {/* Question */}
       <div className="text-center text-sm font-bold text-slate-700">
-        {embedded ? 'A vs B?' : 'Az A hosszabb vagy rövidebb, mint a B?'}
+        {labels.question}
       </div>
 
       {/* Answer Buttons */}

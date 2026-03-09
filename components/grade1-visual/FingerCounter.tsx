@@ -15,24 +15,28 @@ const LABELS = {
   hu: {
     title: 'Hány ujj van felfelé?',
     hint: 'Számlálj meg az ujjakat!',
+    check: 'Ellenőrzés',
     correct: 'Helyes! 👍',
     incorrect: 'Nem jó. Próbáld újra!',
   },
   de: {
     title: 'Wie viele Finger?',
     hint: 'Zähle die Finger!',
+    check: 'Prüfen',
     correct: 'Richtig! 👍',
     incorrect: 'Falsch. Versuche nochmal!',
   },
   en: {
     title: 'How many fingers?',
     hint: 'Count the fingers!',
+    check: 'Check',
     correct: 'Correct! 👍',
     incorrect: 'Wrong. Try again!',
   },
   ro: {
     title: 'Câți degete?',
     hint: 'Numără degetele!',
+    check: 'Verifică',
     correct: 'Corect! 👍',
     incorrect: 'Greșit. Încearcă din nou!',
   },
@@ -179,7 +183,7 @@ const FingerCounter: React.FC<FingerCounterProps> = ({
           disabled={!userAnswer}
           className="w-full px-4 py-2 bg-pink-500 text-white font-bold rounded-lg hover:bg-pink-600 disabled:bg-slate-300 disabled:cursor-not-allowed transition active:scale-95"
         >
-          ✓ Check
+          ✓ {t.check}
         </button>
       </div>
 
