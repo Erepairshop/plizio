@@ -1502,6 +1502,28 @@ export const G6_Generators = {
         }
       }
       return q;
+    },
+    academic_vocab_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const wordData = [
+        { word: "curriculum", meaning: "courses offered by a school" },
+        { word: "diverse", meaning: "varied or different" },
+        { word: "analyze", meaning: "examine closely and in detail" },
+        { word: "hypothesis", meaning: "proposed explanation" },
+        { word: "evaluate", meaning: "assess the value or quality" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(6, rng)) {
+          const data = pick(wordData, rng);
+          const wrong = ["irrelevant", "temporal", "hypothetical"].slice(0, 3);
+          q.push(createMCQ("vocab_g6", "academic_vocab_g6", `What does '${data.word}' mean?`, data.meaning, wrong));
+        } else {
+          const data = pick(wordData, rng);
+          q.push(createTyping("vocab_g6", "academic_vocab_g6", `Define '${data.word}':`, data.meaning));
+        }
+      }
+      return q;
     }
   },
   grammar_g6: {
