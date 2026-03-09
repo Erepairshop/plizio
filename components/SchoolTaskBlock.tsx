@@ -65,6 +65,13 @@ const G1ShapeRecognition = dynamic(() => import('./grade1-visual/ShapeRecognitio
 const G1SpatialDirections = dynamic(() => import('./grade1-visual/SpatialDirections'), { ssr: false });
 const G1PatternCompletion = dynamic(() => import('./grade1-visual/PatternCompletion'), { ssr: false });
 
+// Grade 1 Phase 4 - Measurements & Everyday Math
+const G1LengthComparison = dynamic(() => import('./grade1-visual/LengthComparison'), { ssr: false });
+const G1WeightComparison = dynamic(() => import('./grade1-visual/WeightComparison'), { ssr: false });
+const G1VolumeComparison = dynamic(() => import('./grade1-visual/VolumeComparison'), { ssr: false });
+const G1SimpleShopping = dynamic(() => import('./grade1-visual/SimpleShopping'), { ssr: false });
+const G1WordProblemG1 = dynamic(() => import('./grade1-visual/WordProblemG1'), { ssr: false });
+
 interface Props {
   block: SchoolTaskBlockType;
   blockIndex: number;
@@ -176,6 +183,17 @@ export default function SchoolTaskBlock({
         return <G1SpatialDirections lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
       case 'g1-patterns':
         return <G1PatternCompletion lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      // Phase 4 - Measurements & Everyday Math
+      case 'g1-length':
+        return <G1LengthComparison lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-weight':
+        return <G1WeightComparison lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-volume':
+        return <G1VolumeComparison lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-shopping':
+        return <G1SimpleShopping lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-wordproblem':
+        return <G1WordProblemG1 lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
       default:
         return null;
     }

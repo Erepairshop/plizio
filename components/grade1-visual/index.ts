@@ -26,3 +26,10 @@ export { default as NumberCompletion } from './NumberCompletion';
 export { default as ShapeRecognition } from './ShapeRecognition';
 export { default as SpatialDirections } from './SpatialDirections';
 export { default as PatternCompletion } from './PatternCompletion';
+
+// Phase 4 - Measurements & Everyday Math
+export { default as LengthComparison } from './LengthComparison';
+export { default as WeightComparison } from './WeightComparison';
+export { default as VolumeComparison } from './VolumeComparison';
+export { default as SimpleShopping } from './SimpleShopping';
+export { default as WordProblemG1 } from './WordProblemG1';

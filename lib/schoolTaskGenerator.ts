@@ -11,7 +11,8 @@ export type VisualQuestionType = 'zeichnen' | 'messen' | 'uhrzeit' | 'grid-area'
   | 'g1-clock' | 'g1-number-line' | 'g1-place-value' | 'g1-grid-count' | 'g1-sequence' | 'g1-coins' | 'g1-timeline' | 'g1-fraction'
   | 'g1-dots' | 'g1-dice' | 'g1-fingers' | 'g1-compare' | 'g1-predecessor' | 'g1-successor'
   | 'g1-addition-pics' | 'g1-subtraction-pics' | 'g1-decompose' | 'g1-completion'
-  | 'g1-shapes' | 'g1-directions' | 'g1-patterns';
+  | 'g1-shapes' | 'g1-directions' | 'g1-patterns'
+  | 'g1-length' | 'g1-weight' | 'g1-volume' | 'g1-shopping' | 'g1-wordproblem';
 
 export type VisualQuestionData = {
   type: VisualQuestionType;
@@ -68,7 +69,12 @@ export type TaskType =
   | 'visual_g1_completion'
   | 'visual_g1_shapes'
   | 'visual_g1_directions'
-  | 'visual_g1_patterns';
+  | 'visual_g1_patterns'
+  | 'visual_g1_length'
+  | 'visual_g1_weight'
+  | 'visual_g1_volume'
+  | 'visual_g1_shopping'
+  | 'visual_g1_wordproblem';
 
 export type AufgabenItem = {
   question: string;
@@ -1069,6 +1075,12 @@ const TITLES: Record<TaskType, Record<string, string>> = {
   visual_g1_shapes: { de: 'Welche Form ist es?', en: 'What shape is it?', hu: 'Melyik forma?', ro: 'Care este forma?' },
   visual_g1_directions: { de: 'Welche Richtung?', en: 'Which direction?', hu: 'Melyik irány?', ro: 'Care direcție?' },
   visual_g1_patterns: { de: 'Welches Element kommt nächst?', en: 'What comes next?', hu: 'Mely elem jön következő?', ro: 'Ce vine în continuare?' },
+  // Phase 4 - Measurements & Everyday Math
+  visual_g1_length: { de: 'Längen vergleichen', en: 'Compare Lengths', hu: 'Hossz összehasonlítása', ro: 'Compararea lungimilor' },
+  visual_g1_weight: { de: 'Gewichte vergleichen', en: 'Compare Weights', hu: 'Súly összehasonlítása', ro: 'Compararea greutăților' },
+  visual_g1_volume: { de: 'Mengen vergleichen', en: 'Compare Amounts', hu: 'Mennyiség összehasonlítása', ro: 'Compararea volumelor' },
+  visual_g1_shopping: { de: 'Einkaufen', en: 'Shopping', hu: 'Bevásárlás', ro: 'Cumpărături' },
+  visual_g1_wordproblem: { de: 'Textaufgabe', en: 'Word Problem', hu: 'Szöveges feladat', ro: 'Problemă cu text' },
 };
 
 function getTitleFor(type: TaskType, cc: string): string {
