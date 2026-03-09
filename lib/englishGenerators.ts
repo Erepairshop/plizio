@@ -292,6 +292,30 @@ export const G1_Generators = {
       }
       return q;
     }
+  },
+  sentences_g1: {
+    declarative_interrogative_g1: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { text: "What is your name?", type: "interrogative" },
+        { text: "The cat is sleeping.", type: "declarative" },
+        { text: "Do you like apples?", type: "interrogative" },
+        { text: "She runs very fast.", type: "declarative" },
+        { text: "Where do you live?", type: "interrogative" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(1, rng)) {
+          const sent = pick(sentenceData, rng);
+          const wrong = sentenceData.filter(s => s.type !== sent.type).map(s => s.type).slice(0, 3);
+          q.push(createMCQ("sentences_g1", "declarative_interrogative_g1", `Is this statement or question? "${sent.text}"`, sent.type, wrong));
+        } else {
+          const sent = pick(sentenceData, rng);
+          q.push(createTyping("sentences_g1", "declarative_interrogative_g1", "Name: declarative or interrogative:", pick(["declarative", "interrogative"], rng)));
+        }
+      }
+      return q;
+    }
   }
 };
 
@@ -468,6 +492,28 @@ export const G2_Generators = {
     }
   },
   grammar_g2: {
+    adj_adv_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const pairs = [
+        { adj: "happy", adv: "happily", context: "She was ___.", type: "adj" },
+        { adj: "quick", adv: "quickly", context: "He ran ___.", type: "adv" },
+        { adj: "beautiful", adv: "beautifully", context: "The flowers are ___.", type: "adj" },
+        { adj: "slow", adv: "slowly", context: "She spoke ___.", type: "adv" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(2, rng)) {
+          const pair = pick(pairs, rng);
+          const word = pair.type === "adj" ? pair.adj : pair.adv;
+          const wrong = pairs.filter(p => (p.type === "adj" ? p.adj : p.adv) !== word).map(p => p.type === "adj" ? p.adj : p.adv).slice(0, 3);
+          q.push(createMCQ("grammar_g2", "adj_adv_g2", `Fill in: "${pair.context}"`, word, wrong));
+        } else {
+          const pair = pick(pairs, rng);
+          q.push(createTyping("grammar_g2", "adj_adv_g2", `Name an adverb form of '${pair.adj}':`, pair.adv));
+        }
+      }
+      return q;
+    },
     collective_nouns_g2: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
@@ -797,6 +843,28 @@ export const G3_Generators = {
         } else {
           const data = pick(conjData, rng);
           q.push(createTyping("grammar_g3", "conjunctions_g3", `Fill in: "${data.sentence}"`, data.conj));
+        }
+      }
+      return q;
+    },
+    adverbs_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const advData = [
+        { adv: "quickly", word: "quick", context: "She ran ___." },
+        { adv: "slowly", word: "slow", context: "He walked ___." },
+        { adv: "happily", word: "happy", context: "They danced ___." },
+        { adv: "carefully", word: "careful", context: "She climbed ___." },
+        { adv: "loudly", word: "loud", context: "He shouted ___." }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(3, rng)) {
+          const data = pick(advData, rng);
+          const wrong = advData.filter(d => d.adv !== data.adv).map(d => d.adv).slice(0, 3);
+          q.push(createMCQ("grammar_g3", "adverbs_g3", `Fill in: "${data.context}"`, data.adv, wrong));
+        } else {
+          const data = pick(advData, rng);
+          q.push(createTyping("grammar_g3", "adverbs_g3", `Make an adverb from '${data.word}':`, data.adv));
         }
       }
       return q;
