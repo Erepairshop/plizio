@@ -233,6 +233,65 @@ export const G1_Generators = {
       }
       return q;
     }
+  },
+  grammar_g1: {
+    articles_g1: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { sentence: "___ cat is sleeping.", answer: "A", wrong: ["The", "An", "Is"] },
+        { sentence: "___ elephant is large.", answer: "An", wrong: ["A", "The", "It"] },
+        { sentence: "___ book on the shelf is mine.", answer: "The", wrong: ["A", "An", "That"] },
+        { sentence: "I see ___ apple and ___ orange.", answer: "an|an", wrong: ["a|a", "the|the", "an|a"] },
+        { sentence: "___ dog barked at the mailman.", answer: "A", wrong: ["The", "An", "This"] }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(1, rng)) {
+          const sent = pick(sentenceData, rng);
+          q.push(createMCQ("grammar_g1", "articles_g1", `Fill in: "${sent.sentence}"`, sent.answer, sent.wrong));
+        } else {
+          const sent = pick(sentenceData, rng);
+          q.push(createTyping("grammar_g1", "articles_g1", `Fill in: "${sent.sentence}"`, sent.answer));
+        }
+      }
+      return q;
+    },
+    capitalization_g1: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { wrong: "the cat sat on the mat.", correct: "The cat sat on the mat.", word: "The" },
+        { wrong: "my name is john.", correct: "My name is John.", word: "John" },
+        { wrong: "she lives in new york.", correct: "She lives in New York.", word: "New York" },
+        { wrong: "monday is the first day.", correct: "Monday is the first day.", word: "Monday" },
+        { wrong: "i like to play.", correct: "I like to play.", word: "I" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        const sent = pick(sentenceData, rng);
+        const correct = sent.correct;
+        const wrong = [sent.wrong, shuffle(sentenceData, rng)[0].correct, shuffle(sentenceData, rng)[0].correct].slice(0, 3);
+        q.push(createMCQ("grammar_g1", "capitalization_g1", `Which sentence is capitalized correctly?`, correct, wrong));
+      }
+      return q;
+    }
+  },
+  writing_g1: {
+    compound_words_g1: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const pairs = [["sun", "flower", "sunflower"], ["rain", "bow", "rainbow"], ["foot", "ball", "football"], ["some", "one", "someone"], ["any", "thing", "anything"], ["back", "ground", "background"]];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(1, rng)) {
+          const [w1, w2, compound] = pick(pairs, rng);
+          const wrong = pairs.filter(p => p[2] !== compound).map(p => p[2]).slice(0, 3);
+          q.push(createMCQ("writing_g1", "compound_words_g1", `What compound word is made from '${w1}' and '${w2}'?`, compound, wrong));
+        } else {
+          const [w1, w2, compound] = pick(pairs, rng);
+          q.push(createTyping("writing_g1", "compound_words_g1", `Make a compound word from '${w1}' and '${w2}':`, compound));
+        }
+      }
+      return q;
+    }
   }
 };
 
@@ -403,6 +462,31 @@ export const G2_Generators = {
           const answer = pairs.find(p => p[0] === expanded)?.[1] || "";
           q.push(createTyping("spelling_g2", "contractions_g2",
             `Write the contraction of '${expanded}':`, answer));
+        }
+      }
+      return q;
+    }
+  },
+  grammar_g2: {
+    collective_nouns_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const collectiveData = [
+        { noun: "flock", context: "A ___ of birds flew overhead.", singular: "birds" },
+        { noun: "pack", context: "A ___ of wolves howled in the forest.", singular: "wolves" },
+        { noun: "school", context: "A ___ of fish swam together.", singular: "fish" },
+        { noun: "herd", context: "A ___ of cows stood in the field.", singular: "cows" },
+        { noun: "colony", context: "A ___ of ants built a nest.", singular: "ants" },
+        { noun: "team", context: "A ___ of players won the game.", singular: "players" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(2, rng)) {
+          const data = pick(collectiveData, rng);
+          const wrong = collectiveData.filter(d => d.noun !== data.noun).map(d => d.noun).slice(0, 3);
+          q.push(createMCQ("grammar_g2", "collective_nouns_g2", `Fill in: "${data.context}"`, data.noun, wrong));
+        } else {
+          const data = pick(collectiveData, rng);
+          q.push(createTyping("grammar_g2", "collective_nouns_g2", `Name a collective noun for ${data.singular}:`, data.noun));
         }
       }
       return q;
@@ -677,6 +761,46 @@ export const G3_Generators = {
       }
       return q;
     }
+  },
+  grammar_g3: {
+    abstract_nouns_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const abstractNouns = ["love", "happiness", "courage", "friendship", "freedom", "beauty", "kindness"];
+      const concreteNouns = ["table", "dog", "book", "pencil", "flower", "car", "house"];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(3, rng)) {
+          const abstract = pick(abstractNouns, rng);
+          const wrong = shuffle(concreteNouns, rng).slice(0, 3);
+          q.push(createMCQ("grammar_g3", "abstract_nouns_g3", "Which is an ABSTRACT noun?", abstract, wrong));
+        } else {
+          q.push(createTyping("grammar_g3", "abstract_nouns_g3", "Name an abstract noun (idea, feeling, quality):", pick(abstractNouns, rng)));
+        }
+      }
+      return q;
+    },
+    conjunctions_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const conjData = [
+        { conj: "and", sentence: "I like apples ___ oranges.", example: "I like apples and oranges." },
+        { conj: "but", sentence: "I wanted to go ___ it rained.", example: "I wanted to go but it rained." },
+        { conj: "or", sentence: "Do you want cake ___ ice cream?", example: "Do you want cake or ice cream?" },
+        { conj: "because", sentence: "I stayed home ___ I was sick.", example: "I stayed home because I was sick." },
+        { conj: "so", sentence: "He studied hard ___ he passed the test.", example: "He studied hard so he passed the test." }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(3, rng)) {
+          const data = pick(conjData, rng);
+          const wrong = conjData.filter(d => d.conj !== data.conj).map(d => d.conj).slice(0, 3);
+          q.push(createMCQ("grammar_g3", "conjunctions_g3", `Fill in: "${data.sentence}"`, data.conj, wrong));
+        } else {
+          const data = pick(conjData, rng);
+          q.push(createTyping("grammar_g3", "conjunctions_g3", `Fill in: "${data.sentence}"`, data.conj));
+        }
+      }
+      return q;
+    }
   }
 };
 
@@ -790,6 +914,61 @@ export const G4_Generators = {
         } else {
           const sentSet = pick(sentenceData, rng);
           q.push(createTyping("vocab_g4", "context_clues_g4", sentSet.sentence, sentSet.answer));
+        }
+      }
+      return q;
+    }
+  },
+  grammar_g4: {
+    capitalization_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { wrong: "the united states is a country.", correct: "The United States is a country." },
+        { wrong: "i like dr. smith because he is kind.", correct: "I like Dr. Smith because he is kind." },
+        { wrong: "she was born on monday in july.", correct: "She was born on Monday in July." },
+        { wrong: "we read the book 'alice in wonderland'.", correct: "We read the book 'Alice in Wonderland'." }
+      ];
+      for (let i = 0; i < 30; i++) {
+        const sent = pick(sentenceData, rng);
+        const wrong = shuffle(sentenceData.filter(s => s !== sent), rng).map(s => s.correct).slice(0, 3);
+        q.push(createMCQ("grammar_g4", "capitalization_g4", "Which sentence has correct capitalization?", sent.correct, wrong));
+      }
+      return q;
+    },
+    adjective_order_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const orders = [
+        { correct: "a small red apple", wrong: ["a red small apple", "a apple small red", "a red apple small"] },
+        { correct: "three big wooden chairs", wrong: ["three wooden big chairs", "wooden three big chairs", "big three wooden chairs"] },
+        { correct: "an old leather jacket", wrong: ["a leather old jacket", "an old jacket leather", "leather an old jacket"] },
+        { correct: "two soft blue pillows", wrong: ["two blue soft pillows", "soft two blue pillows", "blue two soft pillows"] }
+      ];
+      for (let i = 0; i < 30; i++) {
+        const order = pick(orders, rng);
+        q.push(createMCQ("grammar_g4", "adjective_order_g4", "Which has the CORRECT adjective order?", order.correct, order.wrong));
+      }
+      return q;
+    },
+    compound_sentences_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { text: "I wanted to go to the beach, and she wanted to stay home.", type: "compound" },
+        { text: "He studied hard, so he got a good grade.", type: "compound" },
+        { text: "The dog was hungry, but there was no food.", type: "compound" },
+        { text: "She ran quickly.", type: "simple" },
+        { text: "They played in the park.", type: "simple" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(4, rng)) {
+          const sent = pick(sentenceData, rng);
+          const wrong = sentenceData.filter(s => s.type !== sent.type).map(s => s.type).slice(0, 3);
+          q.push(createMCQ("grammar_g4", "compound_sentences_g4", `Is this SIMPLE or COMPOUND? "${sent.text}"`, sent.type, wrong));
+        } else {
+          const sent = pick(sentenceData, rng);
+          q.push(createTyping("grammar_g4", "compound_sentences_g4", "Name a type: simple or compound:", pick(["simple", "compound"], rng)));
         }
       }
       return q;
