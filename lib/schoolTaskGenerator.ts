@@ -8,7 +8,11 @@ import { generateTopicQuestions, getDEThemes, getENThemes, getHUThemes, getROThe
 // ─── TYPES ──────────────────────────────────────────────────────────────────
 
 export type VisualQuestionType = 'zeichnen' | 'messen' | 'uhrzeit' | 'grid-area' | 'place-value' | 'fraction-pizza' | 'symmetry' | 'sequence' | 'timeline' | 'number-line' | 'angle' | 'circle-draw' | 'money'
-  | 'g1-clock' | 'g1-number-line' | 'g1-place-value' | 'g1-grid-count' | 'g1-sequence' | 'g1-coins' | 'g1-timeline' | 'g1-fraction';
+  | 'g1-clock' | 'g1-number-line' | 'g1-place-value' | 'g1-grid-count' | 'g1-sequence' | 'g1-coins' | 'g1-timeline' | 'g1-fraction'
+  | 'g1-dots' | 'g1-dice' | 'g1-fingers' | 'g1-compare' | 'g1-predecessor' | 'g1-successor'
+  | 'g1-addition-pics' | 'g1-subtraction-pics' | 'g1-decompose' | 'g1-completion'
+  | 'g1-shapes' | 'g1-directions' | 'g1-patterns'
+  | 'g1-length' | 'g1-weight' | 'g1-volume' | 'g1-shopping' | 'g1-wordproblem';
 
 export type VisualQuestionData = {
   type: VisualQuestionType;
@@ -52,7 +56,25 @@ export type TaskType =
   | 'visual_g1_sequence'
   | 'visual_g1_coins'
   | 'visual_g1_timeline'
-  | 'visual_g1_fraction';
+  | 'visual_g1_fraction'
+  | 'visual_g1_dots'
+  | 'visual_g1_dice'
+  | 'visual_g1_fingers'
+  | 'visual_g1_compare'
+  | 'visual_g1_predecessor'
+  | 'visual_g1_successor'
+  | 'visual_g1_addition_pics'
+  | 'visual_g1_subtraction_pics'
+  | 'visual_g1_decompose'
+  | 'visual_g1_completion'
+  | 'visual_g1_shapes'
+  | 'visual_g1_directions'
+  | 'visual_g1_patterns'
+  | 'visual_g1_length'
+  | 'visual_g1_weight'
+  | 'visual_g1_volume'
+  | 'visual_g1_shopping'
+  | 'visual_g1_wordproblem';
 
 export type AufgabenItem = {
   question: string;
@@ -1037,6 +1059,28 @@ const TITLES: Record<TaskType, Record<string, string>> = {
   visual_g1_coins: { de: 'Münzen zählen.', en: 'Count the coins.', hu: 'Számold össze az érméket!', ro: 'Numără monedele.' },
   visual_g1_timeline: { de: 'Zeitdauer berechnen.', en: 'Calculate the duration.', hu: 'Számold ki az időtartamot!', ro: 'Calculează durata.' },
   visual_g1_fraction: { de: 'Teile zählen.', en: 'Count the parts.', hu: 'Számold meg a részeket!', ro: 'Numără părțile.' },
+  // Phase 1 - Numbers & Recognition
+  visual_g1_dots: { de: 'Wie viele Punkte?', en: 'How many dots?', hu: 'Hány pont van?', ro: 'Câte puncte?' },
+  visual_g1_dice: { de: 'Welche Zahl zeigt der Würfel?', en: 'What number is on the dice?', hu: 'Mi a dobókocka száma?', ro: 'Ce număr are zarul?' },
+  visual_g1_fingers: { de: 'Wie viele Finger?', en: 'How many fingers?', hu: 'Hány ujj van felfelé?', ro: 'Câți degete?' },
+  visual_g1_compare: { de: 'Größer oder kleiner?', en: 'Greater or less than?', hu: 'Nagyobb vagy kisebb?', ro: 'Mai mare sau mai mic?' },
+  visual_g1_predecessor: { de: 'Welche Zahl kommt davor?', en: 'What number comes before?', hu: 'Mi az előző szám?', ro: 'Ce număr vine înainte?' },
+  visual_g1_successor: { de: 'Welche Zahl kommt danach?', en: 'What number comes after?', hu: 'Mi a következő szám?', ro: 'Ce număr vine după?' },
+  // Phase 2 - Operations with Pictures
+  visual_g1_addition_pics: { de: 'Addition mit Bildern', en: 'Addition with Pictures', hu: 'Összeadás képekkel', ro: 'Adunare cu imagini' },
+  visual_g1_subtraction_pics: { de: 'Subtraktion mit Bildern', en: 'Subtraction with Pictures', hu: 'Kivonás képekkel', ro: 'Scădere cu imagini' },
+  visual_g1_decompose: { de: 'Zahlzerlegung', en: 'Number Decomposition', hu: 'Szám szétbontása', ro: 'Descompunerea numărului' },
+  visual_g1_completion: { de: 'Ergänze die Zahl!', en: 'Complete the Number!', hu: 'Egészítsd ki a számsort!', ro: 'Completează numărul!' },
+  // Phase 3 - Geometry & Spatial
+  visual_g1_shapes: { de: 'Welche Form ist es?', en: 'What shape is it?', hu: 'Melyik forma?', ro: 'Care este forma?' },
+  visual_g1_directions: { de: 'Welche Richtung?', en: 'Which direction?', hu: 'Melyik irány?', ro: 'Care direcție?' },
+  visual_g1_patterns: { de: 'Welches Element kommt nächst?', en: 'What comes next?', hu: 'Mely elem jön következő?', ro: 'Ce vine în continuare?' },
+  // Phase 4 - Measurements & Everyday Math
+  visual_g1_length: { de: 'Längen vergleichen', en: 'Compare Lengths', hu: 'Hossz összehasonlítása', ro: 'Compararea lungimilor' },
+  visual_g1_weight: { de: 'Gewichte vergleichen', en: 'Compare Weights', hu: 'Súly összehasonlítása', ro: 'Compararea greutăților' },
+  visual_g1_volume: { de: 'Mengen vergleichen', en: 'Compare Amounts', hu: 'Mennyiség összehasonlítása', ro: 'Compararea volumelor' },
+  visual_g1_shopping: { de: 'Einkaufen', en: 'Shopping', hu: 'Bevásárlás', ro: 'Cumpărături' },
+  visual_g1_wordproblem: { de: 'Textaufgabe', en: 'Word Problem', hu: 'Szöveges feladat', ro: 'Problemă cu text' },
 };
 
 function getTitleFor(type: TaskType, cc: string): string {

@@ -46,6 +46,32 @@ const G1CoinCounter = dynamic(() => import('./grade1-visual/CoinCounter'), { ssr
 const G1TimelineDuration = dynamic(() => import('./grade1-visual/TimelineDuration'), { ssr: false });
 const G1FractionShapes = dynamic(() => import('./grade1-visual/FractionShapes'), { ssr: false });
 
+// Grade 1 Phase 1 - Numbers & Recognition
+const G1DotRecognizer = dynamic(() => import('./grade1-visual/DotRecognizer'), { ssr: false });
+const G1DiceRecognizer = dynamic(() => import('./grade1-visual/DiceRecognizer'), { ssr: false });
+const G1FingerCounter = dynamic(() => import('./grade1-visual/FingerCounter'), { ssr: false });
+const G1NumberComparison = dynamic(() => import('./grade1-visual/NumberComparison'), { ssr: false });
+const G1PredecessorFinder = dynamic(() => import('./grade1-visual/PredecessorFinder'), { ssr: false });
+const G1SuccessorFinder = dynamic(() => import('./grade1-visual/SuccessorFinder'), { ssr: false });
+
+// Grade 1 Phase 2 - Operations with Pictures
+const G1AdditionWithPictures = dynamic(() => import('./grade1-visual/AdditionWithPictures'), { ssr: false });
+const G1SubtractionWithPictures = dynamic(() => import('./grade1-visual/SubtractionWithPictures'), { ssr: false });
+const G1NumberDecomposition = dynamic(() => import('./grade1-visual/NumberDecomposition'), { ssr: false });
+const G1NumberCompletion = dynamic(() => import('./grade1-visual/NumberCompletion'), { ssr: false });
+
+// Grade 1 Phase 3 - Geometry & Spatial
+const G1ShapeRecognition = dynamic(() => import('./grade1-visual/ShapeRecognition'), { ssr: false });
+const G1SpatialDirections = dynamic(() => import('./grade1-visual/SpatialDirections'), { ssr: false });
+const G1PatternCompletion = dynamic(() => import('./grade1-visual/PatternCompletion'), { ssr: false });
+
+// Grade 1 Phase 4 - Measurements & Everyday Math
+const G1LengthComparison = dynamic(() => import('./grade1-visual/LengthComparison'), { ssr: false });
+const G1WeightComparison = dynamic(() => import('./grade1-visual/WeightComparison'), { ssr: false });
+const G1VolumeComparison = dynamic(() => import('./grade1-visual/VolumeComparison'), { ssr: false });
+const G1SimpleShopping = dynamic(() => import('./grade1-visual/SimpleShopping'), { ssr: false });
+const G1WordProblemG1 = dynamic(() => import('./grade1-visual/WordProblemG1'), { ssr: false });
+
 interface Props {
   block: SchoolTaskBlockType;
   blockIndex: number;
@@ -128,6 +154,46 @@ export default function SchoolTaskBlock({
         return <G1TimelineDuration startHour={p.startHour} endHour={p.endHour} lang={lang} embedded={true} onValueChange={vc} />;
       case 'g1-fraction':
         return <G1FractionShapes shape={p.shape} totalParts={p.totalParts} coloredParts={p.coloredParts} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      // Phase 1 - Numbers & Recognition
+      case 'g1-dots':
+        return <G1DotRecognizer lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-dice':
+        return <G1DiceRecognizer lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-fingers':
+        return <G1FingerCounter lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-compare':
+        return <G1NumberComparison lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-predecessor':
+        return <G1PredecessorFinder lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-successor':
+        return <G1SuccessorFinder lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      // Phase 2 - Operations with Pictures
+      case 'g1-addition-pics':
+        return <G1AdditionWithPictures lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-subtraction-pics':
+        return <G1SubtractionWithPictures lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-decompose':
+        return <G1NumberDecomposition lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-completion':
+        return <G1NumberCompletion lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      // Phase 3 - Geometry & Spatial
+      case 'g1-shapes':
+        return <G1ShapeRecognition lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-directions':
+        return <G1SpatialDirections lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-patterns':
+        return <G1PatternCompletion lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      // Phase 4 - Measurements & Everyday Math
+      case 'g1-length':
+        return <G1LengthComparison lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-weight':
+        return <G1WeightComparison lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-volume':
+        return <G1VolumeComparison lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-shopping':
+        return <G1SimpleShopping lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-wordproblem':
+        return <G1WordProblemG1 lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
       default:
         return null;
     }
