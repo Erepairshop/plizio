@@ -3,6 +3,7 @@
 // Generates questions based on grade + current period + country
 // No duplicate questions in a single test
 
+import type { VisualData } from "./mathQuestionUtils";
 import {
   t, getTranslatedPeriodLabel, getNames, getItems, getCurrency,
   qCompare, wpHasFruit, wpLostItems, wpColoredItems, wpAte, wpBus,
@@ -54,7 +55,7 @@ import {
   qHowManyZehner, qHowManyEiner, qZahlzerlegungA, qZahlzerlegungB,
   qMulAsAddition, wpGroupsOf, qDivMulRelation,
   qHowManyCentInEuro, qEuroToCent, qKgToG, wpSchoolDay, getShapeNamesG2,
-  qFillInSign, qComposeFromParts, qCountAdd, qCountSub, qMulRows, qPatternNext, qChartMore, wpVisualShare,
+  qFillInSign, qComposeFromParts, qCountAdd, qCountSub, qMulRows, qPatternNext, qShapePatternQuestion, qChartMore, wpVisualShare,
   getLang,
 } from "./mathTranslations";
 
@@ -67,6 +68,7 @@ export interface MathQuestion {
   section?: string;      // Klassenarbeit szekció (Kopfrechnen, Schriftlich, Sachaufgaben, Geometrie, Bonus)
   maxPoints?: number;    // Max pont az adott kérdésre
   hasStringOptions?: boolean; // true if options contain symbols like <, >, =
+  visualData?: VisualData;   // G2 visual SVG data
 }
 
 // ─── REALISTIC KLASSENARBEIT FORMAT (Grouped Tasks) ─────────────────────────────
@@ -182,8 +184,13 @@ function qs(question: string, correctAnswer: string, topic: string, isWordProble
   return { question, correctAnswer, options: [], topic, isWordProblem };
 }
 
-function qstr(question: string, correctAnswer: string, topic: string, options: string[], isWordProblem = false): MathQuestion {
-  return { question, correctAnswer, options, topic, isWordProblem, hasStringOptions: true };
+function qstr(question: string, correctAnswer: string, topic: string, options: string[], isWordProblem = false, visualData?: VisualData): MathQuestion {
+  return { question, correctAnswer, options, topic, isWordProblem, hasStringOptions: true, ...(visualData ? { visualData } : {}) };
+}
+
+function qvis(question: string, correctAnswer: number, topic: string, visual: VisualData): MathQuestion {
+  const opts = generateOptions(correctAnswer, 0);
+  return { question, correctAnswer, options: opts, topic, isWordProblem: false, visualData: visual };
 }
 
 function pick<T>(arr: T[]): T {
@@ -740,54 +747,51 @@ const G2: Record<string, Generator> = {
     const tens = randInt(1, 9), ones = randInt(1, 9);
     return q(qComposeFromParts(tens, ones, cc), tens * 10 + ones, t("composeNumber", cc));
   },
-  // ── NEW G2: Visual emoji counting — addition ──
+  // ── NEW G2: Visual emoji counting — addition (SVG) ──
   countAdd: (cc) => {
-    const emojis = ["🍎", "🍊", "🍋", "🍇", "🍓", "⭐", "🌸", "🍬", "🎈", "🌟"];
-    const emoji = pick(emojis);
+    const emoji = "●";
     const a = randInt(2, 6), b = randInt(1, 5);
-    return q(qCountAdd(a, emoji, b, cc), a + b, t("countObjects", cc));
+    return qvis(qCountAdd(a, emoji, b, cc), a + b, t("countObjects", cc),
+      { type: "object-add", emoji, groupA: a, groupB: b });
   },
-  // ── NEW G2: Visual emoji counting — subtraction ──
+  // ── NEW G2: Visual emoji counting — subtraction (SVG) ──
   countSub: (cc) => {
-    const emojis = ["🍪", "🍕", "🎈", "🌟", "🍭", "🍎", "🍊", "🍬"];
-    const emoji = pick(emojis);
+    const emoji = "●";
     const total = randInt(5, 12), removed = randInt(2, Math.min(5, total - 1));
-    return q(qCountSub(total, emoji, removed, cc), total - removed, t("countObjects", cc));
+    return qvis(qCountSub(total, emoji, removed, cc), total - removed, t("countObjects", cc),
+      { type: "object-sub", emoji, total, removed });
   },
-  // ── NEW G2: Visual multiplication (rows × columns) ──
+  // ── NEW G2: Visual multiplication (rows × columns, SVG) ──
   mulVisual: (cc) => {
-    const emojis = ["🍎", "⭐", "🌸", "🌟", "🎈", "🍊", "🍋"];
-    const emoji = pick(emojis);
+    const emoji = "●";
     const rows = randInt(2, 5), each = pick([2, 3, 4, 5]);
-    return q(qMulRows(rows, each, emoji, cc), rows * each, t("mulVisual", cc));
+    return qvis(qMulRows(rows, each, emoji, cc), rows * each, t("mulVisual", cc),
+      { type: "object-array", emoji, rows, cols: each });
   },
-  // ── NEW G2: Visual division (equal sharing) with emoji ──
+  // ── NEW G2: Visual division (equal sharing, SVG) ──
   divVisual: (cc) => {
-    const emojis = ["🍬", "🍪", "🍎", "🌟", "🎈"];
-    const emoji = pick(emojis);
+    const emoji = "●";
     const divisor = pick([2, 3, 4, 5]), result = randInt(2, 5);
-    return q(wpVisualShare(divisor * result, emoji, divisor, cc), result, t("divShare", cc), 0, true);
+    const total = divisor * result;
+    return qvis(wpVisualShare(total, emoji, divisor, cc), result, t("divShare", cc),
+      { type: "object-share", emoji, total, groups: divisor });
   },
-  // ── NEW G2: Shape/color pattern continuation ──
+  // ── NEW G2: Shape/color pattern continuation (SVG) ──
   patternG2: (cc) => {
-    const patterns = [
-      { seq: "🟦🟩🟦🟩🟦", next: "🟩" },
-      { seq: "🔴🔵🔴🔵🔴", next: "🔵" },
-      { seq: "⭐🌙⭐🌙⭐", next: "🌙" },
-      { seq: "🔺🔷🔺🔷🔺", next: "🔷" },
-      { seq: "🟨🟥🟨🟥🟨", next: "🟥" },
-      { seq: "🌸🌼🌸🌼🌸", next: "🌼" },
-      { seq: "🔵🔵🔴🔵🔵🔴🔵🔵", next: "🔴" },
-      { seq: "🟦🟦🟩🟦🟦🟩🟦🟦", next: "🟩" },
+    type PatternEntry = { shapes: string[]; next: string; wrong1: string; wrong2: string };
+    const patterns: PatternEntry[] = [
+      { shapes: ["sq-blue","cir-green","sq-blue","cir-green","sq-blue"], next: "cir-green", wrong1: "sq-green", wrong2: "cir-blue" },
+      { shapes: ["cir-red","cir-blue","cir-red","cir-blue","cir-red"], next: "cir-blue", wrong1: "cir-red", wrong2: "sq-blue" },
+      { shapes: ["sq-yellow","sq-red","sq-yellow","sq-red","sq-yellow"], next: "sq-red", wrong1: "sq-yellow", wrong2: "cir-red" },
+      { shapes: ["tri-blue","tri-green","tri-blue","tri-green","tri-blue"], next: "tri-green", wrong1: "tri-blue", wrong2: "cir-green" },
+      { shapes: ["cir-purple","sq-blue","cir-purple","sq-blue","cir-purple"], next: "sq-blue", wrong1: "cir-blue", wrong2: "sq-purple" },
+      { shapes: ["sq-blue","sq-blue","cir-green","sq-blue","sq-blue","cir-green","sq-blue","sq-blue"], next: "cir-green", wrong1: "sq-blue", wrong2: "tri-green" },
+      { shapes: ["tri-red","sq-yellow","tri-red","sq-yellow","tri-red"], next: "sq-yellow", wrong1: "tri-yellow", wrong2: "sq-red" },
+      { shapes: ["cir-blue","tri-blue","cir-blue","tri-blue","cir-blue"], next: "tri-blue", wrong1: "cir-blue", wrong2: "sq-blue" },
     ];
     const p = pick(patterns);
-    // Get the 2 unique symbols as wrong options
-    const allSymbols = ["🟦", "🟩", "🔴", "🔵", "⭐", "🌙", "🔺", "🔷", "🟨", "🟥", "🌸", "🌼"];
-    const wrongSymbols = allSymbols.filter(s => s !== p.next && !p.seq.includes(s));
-    const wrong1 = pick(wrongSymbols);
-    const otherInSeq = [...new Set(p.seq.split("").filter((_, i) => p.seq.slice(i, i + 2).length === 2))];
-    const otherOpt = p.seq.includes(p.next === "🟩" ? "🟦" : p.next) ? (p.next === "🟩" ? "🟦" : "🟦") : wrong1;
-    return qstr(qPatternNext(p.seq, cc), p.next, t("patternContinue", cc), [p.next, otherOpt, wrong1]);
+    return qstr(qShapePatternQuestion(cc), p.next, t("patternContinue", cc), [p.next, p.wrong1, p.wrong2],
+      false, { type: "shape-pattern", shapes: [...p.shapes, "?"] });
   },
   // ── NEW G2: Number line (Zahlenstrahl) with larger steps ──
   numberLineG2: (cc) => {

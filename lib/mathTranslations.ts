@@ -2674,6 +2674,17 @@ export function qPatternNext(sequence: string, countryCode: string): string {
   }
 }
 
+// Shape pattern question (SVG visual — no sequence text needed)
+export function qShapePatternQuestion(countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return "Was kommt als nächstes? (Muster fortsetzen)";
+    case "EN": return "What comes next? (Continue the pattern)";
+    case "RO": return "Ce urmează? (Continuă modelul)";
+    default:   return "Mi jön ezután? (Folytasd a mintát)";
+  }
+}
+
 // Chart reading: which fruit appears more?
 export function qChartMore(nameA: string, countA: number, nameB: string, countB: number, countryCode: string): string {
   const lang = getLang(countryCode);

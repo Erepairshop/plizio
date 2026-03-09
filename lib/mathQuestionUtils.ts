@@ -3,13 +3,25 @@
  * Automatically detects and enhances question types
  */
 
+// ─── VISUAL DATA TYPE ─────────────────────────────
+// Used by G2 visual generators to attach SVG-renderable data to a question
+
+export type VisualData =
+  | { type: "object-add";   emoji: string; groupA: number; groupB: number }
+  | { type: "object-sub";   emoji: string; total: number;  removed: number }
+  | { type: "object-array"; emoji: string; rows: number;   cols: number }
+  | { type: "object-share"; emoji: string; total: number;  groups: number }
+  | { type: "shape-pattern"; shapes: string[] };  // full sequence incl. "?"
+
 export interface ExtendedMathQuestion {
   question: string;
-  correctAnswer: number;
-  options: number[];
+  correctAnswer: number | string;
+  options: (number | string)[];
   topic: string;
   isWordProblem: boolean;
-  type?: 'text' | 'geometry' | 'table' | 'diagram' | 'calculation';
+  hasStringOptions?: boolean;
+  type?: 'text' | 'geometry' | 'table' | 'diagram' | 'calculation' | 'visual';
+  visualData?: VisualData;
   imageData?: {
     type: 'svg' | 'url';
     content: string;
@@ -52,7 +64,9 @@ export function convertToExtendedQuestion(question: any): ExtendedMathQuestion {
     options: question.options,
     topic: question.topic,
     isWordProblem: question.isWordProblem || false,
+    hasStringOptions: question.hasStringOptions,
     type: detectedType,
+    visualData: question.visualData,
     imageData: question.imageData,
     tableData: question.tableData,
     diagramData: question.diagramData,
@@ -63,5 +77,5 @@ export function convertToExtendedQuestion(question: any): ExtendedMathQuestion {
  * Determine if a question should use the visual display component
  */
 export function isVisualQuestion(question: ExtendedMathQuestion): boolean {
-  return !!(question.imageData || question.diagramData || question.tableData);
+  return !!(question.visualData || question.imageData || question.diagramData || question.tableData);
 }
