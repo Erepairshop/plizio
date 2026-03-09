@@ -689,6 +689,8 @@ function PingPongPage() {
       lastTime = now;
 
       const { tL, tR, tT, tB, tW, tH, w, h } = tbl();
+      // Pixel-space paddle radius (matches visual render) — used for both serve and collision
+      const paddlePxR = Math.max(18, Math.min(30, tW * 0.07));
 
       // Keyboard
       if (keys.has("ArrowLeft") || keys.has("a")) playerTargetX = Math.max(PADDLE_R + 0.01, playerTargetX - 0.02 * dt);
@@ -766,7 +768,7 @@ function PingPongPage() {
         if (game.playerServes) {
           // Ball follows paddle so player sees exactly what they'll hit
           serveBall.x = game.playerX;
-          serveBall.y = game.playerY - PADDLE_R - BALL_RADIUS / tW - 0.01;
+          serveBall.y = game.playerY - (paddlePxR * game.playerPaddleScale + BALL_RADIUS) / tH - 0.005;
           // Auto-serve fallback after 3 s (player normally taps to serve)
           if (Date.now() - game.serveTimer > 3000) launchBall();
         } else {
@@ -810,10 +812,6 @@ function PingPongPage() {
       // Ball physics
       const ballR = BALL_RADIUS / tW;
       const ballRY = BALL_RADIUS / tH;
-      // Visual paddle radius in normalized coords — matches what player sees
-      const visualPaddleR = Math.max(18, Math.min(30, tW * 0.07)) / tW;
-      const playerR = visualPaddleR * game.playerPaddleScale;
-      const aiR = visualPaddleR * game.aiPaddleScale;
 
       // Ripple aging runs for all players (P2 receives ripples via ballSync)
       if (!game.gameOver) {
@@ -867,18 +865,19 @@ function PingPongPage() {
             continue;
           }
 
-          // Player paddle collision
+          // Player paddle collision — pixel-space distance, requires ball bounced in player half first
           {
-            const dx = ball.x - game.playerX;
-            const dy = ball.y - game.playerY;
-            const dist = Math.sqrt(dx * dx + dy * dy);
-            if (ball.vy > 0 && dist <= playerR + ballR) {
-              const hitPos = dx / playerR;
+            const dxPx = (ball.x - game.playerX) * tW;
+            const dyPx = (ball.y - game.playerY) * tH;
+            const distPx = Math.sqrt(dxPx * dxPx + dyPx * dyPx);
+            const playerHitR = paddlePxR * game.playerPaddleScale;
+            if (ball.vy > 0 && ball.lastBounceSide === "player" && distPx <= playerHitR + BALL_RADIUS) {
+              const hitPos = dxPx / playerHitR;
               const angle = hitPos * 0.7;
               ball.speed = Math.min(ball.speed * 1.04, 0.022);
               ball.vx = Math.sin(angle) * ball.speed;
               ball.vy = -Math.cos(angle) * ball.speed;
-              ball.y = game.playerY - playerR - ballRY;
+              ball.y = game.playerY - (playerHitR + BALL_RADIUS) / tH;
               ball.vz = VZ_SERVE;
               ball.z = Math.max(ball.z, 0);
               ball.lastHitter = "player";
@@ -887,18 +886,19 @@ function PingPongPage() {
             }
           }
 
-          // AI paddle collision
+          // AI paddle collision — pixel-space distance, requires ball bounced in AI half first
           {
-            const dx = ball.x - game.aiX;
-            const dy = ball.y - game.aiY;
-            const dist = Math.sqrt(dx * dx + dy * dy);
-            if (ball.vy < 0 && dist <= aiR + ballR) {
-              const hitPos = dx / aiR;
+            const dxPx = (ball.x - game.aiX) * tW;
+            const dyPx = (ball.y - game.aiY) * tH;
+            const distPx = Math.sqrt(dxPx * dxPx + dyPx * dyPx);
+            const aiHitR = paddlePxR * game.aiPaddleScale;
+            if (ball.vy < 0 && ball.lastBounceSide === "ai" && distPx <= aiHitR + BALL_RADIUS) {
+              const hitPos = dxPx / aiHitR;
               const angle = hitPos * 0.7;
               ball.speed = Math.min(ball.speed * 1.04, 0.022);
               ball.vx = Math.sin(angle) * ball.speed;
               ball.vy = Math.cos(angle) * ball.speed;
-              ball.y = game.aiY + aiR + ballRY;
+              ball.y = game.aiY + (aiHitR + BALL_RADIUS) / tH;
               ball.vz = VZ_SERVE;
               ball.z = Math.max(ball.z, 0);
               ball.lastHitter = "ai";
