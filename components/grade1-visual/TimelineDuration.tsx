@@ -49,57 +49,76 @@ const TimelineDuration: React.FC<Props> = ({
     }
   };
 
-  // Óra ikon SVG komponens (Pink Neon)
-  const ClockIcon = ({ x }: { x: number }) => (
-    <g transform={`translate(${x - 15}, 20)`}>
-      <circle cx="15" cy="15" r="14" stroke="#FF2D78" strokeWidth="2" fill="#1a1a2e" />
-      <line x1="15" y1="15" x2="15" y2="8" stroke="#FF2D78" strokeWidth="2" strokeLinecap="round" />
-      <line x1="15" y1="15" x2="20" y2="15" stroke="#FF2D78" strokeWidth="2" strokeLinecap="round" />
-    </g>
-  );
+  // Dinamikus Óra Ikon: a mutatók az aktuális órát jelzik
+  const ClockIcon = ({ x, hour }: { x: number; hour: number }) => {
+    const rotation = (hour % 12) * 30; // 360 fok / 12 óra = 30 fok/óra
+    return (
+      <g transform={`translate(${x - 20}, 15)`}>
+        <circle cx="20" cy="20" r="18" stroke="#FF2D78" strokeWidth="2.5" fill="#1a1a2e" />
+        {/* Kismutató (Óra) */}
+        <line 
+          x1="20" y1="20" x2="20" y2="10" 
+          stroke="#FF2D78" strokeWidth="3" strokeLinecap="round" 
+          transform={`rotate(${rotation}, 20, 20)`}
+        />
+        {/* Nagymutató (Perc - fixen 12-esen) */}
+        <line x1="20" y1="20" x2="20" y2="6" stroke="#FF2D78" strokeWidth="1.5" strokeLinecap="round" />
+      </g>
+    );
+  };
 
   return (
-    <div className={`flex flex-col items-center gap-8 w-full ${embedded ? 'p-2' : 'p-10 bg-[#1a1a2e] rounded-3xl shadow-xl'}`}>
+    <div className={`flex flex-col items-center gap-4 w-full ${embedded ? 'p-2' : 'p-10 bg-[#1a1a2e] rounded-3xl shadow-xl'}`}>
       
-      <div className="relative w-full h-40 max-w-md">
-        <svg width="100%" height="100%" viewBox="0 0 400 120">
-          {/* Fő Idővonal */}
-          <line x1="40" y1="80" x2="360" y2="80" stroke="#00D4FF" strokeWidth="3" strokeOpacity="0.4" strokeLinecap="round" />
+      <div className="relative w-full h-44 max-w-md">
+        <svg width="100%" height="100%" viewBox="0 0 400 140">
+          {/* Idővonal */}
+          <line x1="40" y1="100" x2="360" y2="100" stroke="#00D4FF" strokeWidth="3" strokeOpacity="0.3" strokeLinecap="round" />
           
-          {/* Start Pont */}
-          <ClockIcon x={40} />
-          <text x="40" y="65" fill="white" fontSize="14" fontWeight="bold" textAnchor="middle" className="font-mono">
+          {/* Start fázis */}
+          <ClockIcon x={40} hour={startHour} />
+          <text x="40" y="75" fill="white" fontSize="14" fontWeight="bold" textAnchor="middle" className="font-mono">
             {startHour}:00
           </text>
-          <circle cx="40" cy="80" r="5" fill="#00D4FF" className="shadow-[0_0_8px_#00D4FF]" />
+          <circle cx="40" cy="100" r="5" fill="#00D4FF" />
 
-          {/* End Pont */}
-          <ClockIcon x={360} />
-          <text x="360" y="65" fill="white" fontSize="14" fontWeight="bold" textAnchor="middle" className="font-mono">
+          {/* Vége fázis */}
+          <ClockIcon x={360} hour={endHour} />
+          <text x="360" y="75" fill="white" fontSize="14" fontWeight="bold" textAnchor="middle" className="font-mono">
             {endHour}:00
           </text>
-          <circle cx="360" cy="80" r="5" fill="#00D4FF" />
+          <circle cx="360" cy="100" r="5" fill="#00D4FF" />
 
-          {/* Összekötő Ív és Kérdőjel */}
+          {/* Sárga ív */}
           <path 
-            d="M 40 80 Q 200 10 360 80" 
+            d="M 40 90 Q 200 0 360 90" 
             fill="none" 
             stroke="#FFD700" 
             strokeWidth="3" 
             strokeDasharray="8 4" 
-            strokeOpacity="0.6"
+            strokeOpacity="0.8"
           />
-          <g transform="translate(185, 35)">
-            <circle cx="15" cy="15" r="18" fill="#1a1a2e" stroke="#FFD700" strokeWidth="2" />
-            <text x="15" y="21" fill="#FFD700" fontSize="18" fontWeight="bold" textAnchor="middle">?</text>
+
+          {/* SEGÍTSÉG: Pöttyök a számoláshoz (Pedagógiai javítás) */}
+          {Array.from({ length: duration }).map((_, i) => {
+            const step = 320 / duration;
+            const xPos = 40 + (i + 0.5) * step;
+            return (
+              <circle key={i} cx={xPos} cy="60" r="4" fill="#FFD700" className="animate-pulse" style={{ animationDelay: `${i * 0.2}s` }} />
+            );
+          })}
+
+          {/* Középső kérdőjel kör */}
+          <g transform="translate(182, 15)">
+            <circle cx="18" cy="18" r="20" fill="#1a1a2e" stroke="#FFD700" strokeWidth="3" />
+            <text x="18" y="25" fill="#FFD700" fontSize="22" fontWeight="bold" textAnchor="middle">?</text>
           </g>
         </svg>
       </div>
 
-      {/* Input Szekció */}
-      <div className="flex flex-col items-center gap-4">
+      <div className="flex flex-col items-center gap-3">
         {!embedded && (
-          <label className="text-white/50 text-[10px] uppercase tracking-widest font-bold">
+          <label className="text-white/50 text-xs uppercase tracking-widest font-bold">
             {T.label[lang]}
           </label>
         )}
