@@ -72,6 +72,13 @@ const G1VolumeComparison = dynamic(() => import('./grade1-visual/VolumeCompariso
 const G1SimpleShopping = dynamic(() => import('./grade1-visual/SimpleShopping'), { ssr: false });
 const G1WordProblemG1 = dynamic(() => import('./grade1-visual/WordProblemG1'), { ssr: false });
 
+// Grade 3 visual components
+const G3PlaceValue = dynamic(() => import('./grade3-visual/G3PlaceValue'), { ssr: false });
+const G3PatternBlocks = dynamic(() => import('./grade3-visual/G3PatternBlocks'), { ssr: false });
+const G3BalanceScale = dynamic(() => import('./grade3-visual/G3BalanceScale'), { ssr: false });
+const G3ShapePick = dynamic(() => import('./grade3-visual/G3ShapePick'), { ssr: false });
+const G3BarChart = dynamic(() => import('./grade3-visual/G3BarChart'), { ssr: false });
+
 interface Props {
   block: SchoolTaskBlockType;
   blockIndex: number;
@@ -194,6 +201,17 @@ export default function SchoolTaskBlock({
         return <G1SimpleShopping lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
       case 'g1-wordproblem':
         return <G1WordProblemG1 lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      // Grade 3 visual components
+      case 'g3-place-value':
+        return <G3PlaceValue number={p.number} question={p.question} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g3-pattern':
+        return <G3PatternBlocks sequence={p.sequence} period={p.period} blanks={p.blanks} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g3-scale':
+        return <G3BalanceScale weightA={p.weightA} weightB={p.weightB} unitA={p.unitA} unitB={p.unitB} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g3-shape':
+        return <G3ShapePick target={p.target} options={p.options} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g3-barchart':
+        return <G3BarChart categories={p.categories} targetIdx={p.targetIdx} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
       default:
         return null;
     }
@@ -253,7 +271,12 @@ export default function SchoolTaskBlock({
       case 'visual_g1_sequence':
       case 'visual_g1_coins':
       case 'visual_g1_timeline':
-      case 'visual_g1_fraction': {
+      case 'visual_g1_fraction':
+      case 'visual_g3_place_value':
+      case 'visual_g3_pattern':
+      case 'visual_g3_scale':
+      case 'visual_g3_shape':
+      case 'visual_g3_barchart': {
         return (
           <div className="space-y-3">
             {block.subQuestions.map((sq, idx) => (

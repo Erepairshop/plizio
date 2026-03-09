@@ -997,6 +997,110 @@ const G3: Record<string, Generator> = {
     const n = randInt(1, 29) * 100 + randInt(1, 99);
     return q(qRoundTo100(n, cc), Math.round(n / 100) * 100, t("rounding100", cc));
   },
+  // ── New G3 generators (12-category redesign) ──────────────────────────
+  compare1000: (cc) => {
+    const a = randInt(100, 998), b = randInt(a + 1, Math.min(a + 300, 999));
+    return q(qCompare(a, b, cc), b, t("comparison", cc));
+  },
+  pred1000: (cc) => {
+    const n = randInt(101, 999);
+    const lang = getLang(cc);
+    const texts: Record<string, string> = { DE: `Vorgänger von ${n}?`, EN: `Predecessor of ${n}?`, HU: `${n} elő szomszédja?`, RO: `Predecesorul lui ${n}?` };
+    return q(texts[lang] || texts.DE, n - 1, t("neighborNumber", cc));
+  },
+  succ1000: (cc) => {
+    const n = randInt(100, 998);
+    const lang = getLang(cc);
+    const texts: Record<string, string> = { DE: `Nachfolger von ${n}?`, EN: `Successor of ${n}?`, HU: `${n} utó szomszédja?`, RO: `Succesorul lui ${n}?` };
+    return q(texts[lang] || texts.DE, n + 1, t("neighborNumber", cc));
+  },
+  decompose: (cc) => {
+    const h = randInt(1, 9), z = randInt(0, 9), e = randInt(0, 9);
+    const n = h * 100 + z * 10 + e;
+    const lang = getLang(cc);
+    const texts: Record<string, string> = { DE: `Wie viele Hunderter hat die Zahl ${n}?`, EN: `How many hundreds does ${n} have?`, HU: `Hány százas van a ${n} számban?`, RO: `Câte sute are numărul ${n}?` };
+    return q(texts[lang] || texts.DE, h, t("placeValue", cc));
+  },
+  compose: (cc) => {
+    const h = randInt(1, 9), z = randInt(1, 9), e = randInt(1, 9);
+    const lang = getLang(cc);
+    const texts: Record<string, string> = { DE: `${h} Hunderter + ${z} Zehner + ${e} Einer = ?`, EN: `${h} hundreds + ${z} tens + ${e} ones = ?`, HU: `${h} százas + ${z} tízes + ${e} egyes = ?`, RO: `${h} sute + ${z} zeci + ${e} unități = ?` };
+    return q(texts[lang] || texts.DE, h * 100 + z * 10 + e, t("placeValue", cc));
+  },
+  placeVal1000: (cc) => {
+    const n = randInt(100, 999);
+    const pos = pick(['hundreds', 'tens', 'ones'] as const);
+    const ans = pos === 'hundreds' ? Math.floor(n / 100) : pos === 'tens' ? Math.floor((n % 100) / 10) : n % 10;
+    return q(qPlaceValue(n, pos, cc), ans, t("placeValue", cc));
+  },
+  add3nums: (cc) => {
+    const a = randInt(100, 350), b = randInt(100, 300), c = randInt(10, Math.min(200, 999 - a - b));
+    return q(`${a} + ${b} + ${c} = ?`, a + b + c, t("addition1000", cc));
+  },
+  mulRepeated: (cc) => {
+    const a = randInt(2, 5), b = randInt(2, 9);
+    return q(qMulAsAddition(a, b, cc), a * b, t("multTable", cc));
+  },
+  mulLarge: (cc) => {
+    const a = randInt(2, 9);
+    const factor = pick([10, 100] as const);
+    return q(`${a} × ${factor} = ?`, a * factor, t("multTable", cc));
+  },
+  divRelMul: (cc) => {
+    const a = randInt(2, 9), b = randInt(2, 9);
+    return q(qDivMulRelation(a * b, a, cc), b, t("division", cc));
+  },
+  divRemainder: (cc) => {
+    const divisor = pick([2, 3, 4, 5, 6] as const);
+    const quotient = randInt(2, 8);
+    const remainder = randInt(1, divisor - 1);
+    const dividend = divisor * quotient + remainder;
+    const lang = getLang(cc);
+    const texts: Record<string, string> = { DE: `${dividend} ÷ ${divisor}: Was ist der Rest?`, EN: `${dividend} ÷ ${divisor}: What is the remainder?`, HU: `${dividend} ÷ ${divisor}: mennyi a maradék?`, RO: `${dividend} ÷ ${divisor}: care este restul?` };
+    return q(texts[lang] || texts.DE, remainder, t("division", cc));
+  },
+  perimCalc: (cc) => {
+    const w = randInt(2, 10), h = randInt(2, 10);
+    return q(qRectPerimeter(w, h, cc), 2 * (w + h), t("perimeter", cc), 0, true);
+  },
+  areaCalc: (cc) => {
+    const w = randInt(2, 8), h = randInt(2, 8);
+    return q(qRectArea(w, h, cc), w * h, t("area", cc), 0, true);
+  },
+  barChartRead: (cc) => {
+    const vals = [randInt(2, 12), randInt(2, 12), randInt(2, 12), randInt(2, 12)];
+    const lang = getLang(cc);
+    const labels: Record<string, string[]> = {
+      DE: ['Äpfel', 'Birnen', 'Kirschen', 'Bananen'],
+      EN: ['Apples', 'Pears', 'Cherries', 'Bananas'],
+      HU: ['Alma', 'Körte', 'Cseresznye', 'Banán'],
+      RO: ['Mere', 'Pere', 'Cireșe', 'Banane'],
+    };
+    const names = labels[lang] || labels.DE;
+    const texts: Record<string, string> = {
+      DE: `Balkendiagramm: ${names[0]}:${vals[0]}, ${names[1]}:${vals[1]}, ${names[2]}:${vals[2]}, ${names[3]}:${vals[3]}. Wie viele ${names[0]}?`,
+      EN: `Bar chart: ${names[0]}:${vals[0]}, ${names[1]}:${vals[1]}, ${names[2]}:${vals[2]}, ${names[3]}:${vals[3]}. How many ${names[0]}?`,
+      HU: `Oszlopdiagram: ${names[0]}:${vals[0]}, ${names[1]}:${vals[1]}, ${names[2]}:${vals[2]}, ${names[3]}:${vals[3]}. Hány ${names[0]}?`,
+      RO: `Diagramă: ${names[0]}:${vals[0]}, ${names[1]}:${vals[1]}, ${names[2]}:${vals[2]}, ${names[3]}:${vals[3]}. Câte ${names[0]}?`,
+    };
+    return q(texts[lang] || texts.DE, vals[0], t("g1DataTable", cc));
+  },
+  shapeProp: (cc) => {
+    const shapes = [
+      { name: { DE: 'Dreieck', EN: 'triangle', HU: 'háromszög', RO: 'triunghi' }, corners: 3 },
+      { name: { DE: 'Viereck', EN: 'quadrilateral', HU: 'négyszög', RO: 'patrulater' }, corners: 4 },
+      { name: { DE: 'Sechseck', EN: 'hexagon', HU: 'hatszög', RO: 'hexagon' }, corners: 6 },
+    ];
+    const s = pick(shapes);
+    const lang = getLang(cc);
+    const texts: Record<string, string> = {
+      DE: `Wie viele Ecken hat ein ${s.name.DE}?`,
+      EN: `How many corners does a ${s.name.EN} have?`,
+      HU: `Hány csúcsa van egy ${s.name.HU}nak?`,
+      RO: `Câte colțuri are un ${s.name.RO}?`,
+    };
+    return q(texts[lang] || texts.DE, s.corners, t("geometry", cc));
+  },
 };
 
 // ─── GRADE 4 GENERATORS ─────────────────────────────
@@ -1629,11 +1733,11 @@ const GRADES_1_4: Record<number, Record<number, PeriodTopics>> = {
     5: { current: [G2.mul2510, G2.mul2510b, G2.div2510, G2.mulTable34, G2.missingMulFactor, G2.word1, G2.word2, G2.word3, G2.word4, G2.wordAddG2, G2.wordSubG2, G2.wordMulG2, G2.wordDivG2, G2.wordMoneyG2, G2.wordTimeG2, G2.moneyChangeG2, G2.units, G2.ampmClock, G2.clock2, G2.sequence, G2.rounding10, G2.mulVisual, G2.divVisual, G2.patternG2, G2.chartG2, G2.compare100, G2.halving, G2.doubling, G2.perimeterSimple, G2.shapeBasic, G2.moneyEuroCent, G2.weightGKg, G2.lengthMeasure], review: [G2.add100, G2.sub100] },
   },
   3: {
-    1: { current: [G3.add1000, G3.add1000b, G3.sub1000, G3.rounding100], review: [G2.add100, G2.sub100, G2.mul2510] },
-    2: { current: [G3.add1000, G3.sub1000, G3.writtenAdd, G3.sequence, G3.rounding100], review: [G2.mul2510, G2.div2510] },
-    3: { current: [G3.mul, G3.mulB, G3.div, G3.divB, G3.missingMul, G3.clock3], review: [G3.add1000, G3.sub1000] },
-    4: { current: [G3.writtenAdd, G3.writtenSub, G3.mul, G3.div, G3.missingMul, G3.clock3], review: [G3.divB, G3.sequence] },
-    5: { current: [G3.word1, G3.word2, G3.word3, G3.units, G3.clock3, G3.mul, G3.mulB, G3.div, G3.divB, G3.rounding100], review: [G3.writtenAdd, G3.writtenSub, G3.sequence] },
+    1: { current: [G3.add1000, G3.add1000b, G3.sub1000, G3.rounding100, G3.compare1000, G3.pred1000, G3.succ1000, G3.decompose, G3.compose], review: [G2.add100, G2.sub100, G2.mul2510] },
+    2: { current: [G3.add1000, G3.sub1000, G3.writtenAdd, G3.sequence, G3.rounding100, G3.add3nums, G3.placeVal1000], review: [G2.mul2510, G2.div2510] },
+    3: { current: [G3.mul, G3.mulB, G3.div, G3.divB, G3.missingMul, G3.clock3, G3.mulRepeated, G3.mulLarge, G3.divRelMul], review: [G3.add1000, G3.sub1000] },
+    4: { current: [G3.writtenAdd, G3.writtenSub, G3.mul, G3.div, G3.missingMul, G3.clock3, G3.divRemainder, G3.perimCalc], review: [G3.divB, G3.sequence] },
+    5: { current: [G3.word1, G3.word2, G3.word3, G3.units, G3.clock3, G3.mul, G3.mulB, G3.div, G3.divB, G3.rounding100, G3.areaCalc, G3.barChartRead], review: [G3.writtenAdd, G3.writtenSub, G3.sequence] },
   },
   4: {
     1: { current: [G4.placeValue, G4.writtenMul, G4.writtenMulB, G4.sequence, G4.geometry, G4.roundingG4], review: [G3.mul, G3.div, G3.writtenAdd] },
@@ -1917,20 +2021,70 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
     ]},
   ],
   3: [
-    { key: 'g3_arith', name: 'Large Numbers', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'add1000', name: 'Addition to 1000', color: '#60A5FA', icon: '➕', generators: [G3.add1000, G3.add1000b, G3.writtenAdd] },
-      { key: 'sub1000', name: 'Subtraction to 1000', color: '#EF4444', icon: '➖', generators: [G3.sub1000, G3.writtenSub] },
-      { key: 'sequence', name: 'Number Sequences', color: '#2563EB', icon: '🔢', generators: [G3.sequence] },
+    { key: 'g3_numbers', name: 'Numbers & Number System (0–1000)', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'g3_read_write',  name: 'Reading & Writing Numbers',       color: '#60A5FA', icon: '🔢', generators: [G3.compare1000, G3.pred1000, G3.succ1000] },
+      { key: 'g3_compare_t',  name: 'Comparing & Ordering',             color: '#93C5FD', icon: '🔢', generators: [G3.compare1000] },
+      { key: 'g3_place_val',  name: 'Place Value & Decomposition',      color: '#BFDBFE', icon: '🧱', generators: [G3.decompose, G3.compose, G3.placeVal1000] },
+      { key: 'g3_neighbors',  name: 'Neighbors & Number Line',          color: '#DBEAFE', icon: '📊', generators: [G3.pred1000, G3.succ1000] },
+      { key: 'g3_stellenwert', name: '🎮 Place Value Blocks – Interactive', color: '#6366F1', icon: '🧱', generators: [] },
+      { key: 'g3_zahlstr',    name: '🎮 Number Line 0–1000',            color: '#14B8A6', icon: '📊', generators: [] },
     ]},
-    { key: 'g3_mul', name: 'Multiplication & Division', color: '#10B981', icon: '✖️', topics: [
-      { key: 'mul', name: 'Multiplication', color: '#34D399', icon: '✖️', generators: [G3.mul, G3.mulB, G3.missingMul] },
-      { key: 'div', name: 'Division', color: '#10B981', icon: '➗', generators: [G3.div, G3.divB] },
+    { key: 'g3_add_cat', name: 'Addition', color: '#10B981', icon: '➕', topics: [
+      { key: 'g3_add_mental',  name: 'Mental Addition to 1000',         color: '#34D399', icon: '➕', generators: [G3.add1000, G3.add1000b] },
+      { key: 'g3_add_written', name: 'Written Addition & 3 Addends',    color: '#6EE7B7', icon: '➕', generators: [G3.writtenAdd, G3.add3nums] },
     ]},
-    { key: 'g3_word', name: 'Word Problems', color: '#8B5CF6', icon: '📖', topics: [
-      { key: 'word', name: 'Story Problems', color: '#8B5CF6', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
+    { key: 'g3_sub_cat', name: 'Subtraction', color: '#EF4444', icon: '➖', topics: [
+      { key: 'g3_sub_mental',  name: 'Mental Subtraction to 1000',      color: '#F87171', icon: '➖', generators: [G3.sub1000, G3.sub1000b] },
+      { key: 'g3_sub_written', name: 'Written Subtraction',             color: '#FCA5A5', icon: '➖', generators: [G3.writtenSub] },
     ]},
-    { key: 'g3_measure', name: 'Measurement', color: '#F59E0B', icon: '📏', topics: [
-      { key: 'units', name: 'Units & Measurement', color: '#FBBF24', icon: '📏', generators: [G3.units, G3.ampmClock] },
+    { key: 'g3_mul_cat', name: 'Multiplication', color: '#F59E0B', icon: '✖️', topics: [
+      { key: 'g3_mul_table',   name: 'Multiplication Table',            color: '#FBBF24', icon: '✖️', generators: [G3.mul, G3.mulB, G3.missingMul] },
+      { key: 'g3_mul_groups',  name: 'Repeated Addition & Larger',      color: '#FDE68A', icon: '✖️', generators: [G3.mulRepeated, G3.mulLarge] },
+    ]},
+    { key: 'g3_div_cat', name: 'Division', color: '#8B5CF6', icon: '➗', topics: [
+      { key: 'g3_div_basic',   name: 'Basic Division',                  color: '#A78BFA', icon: '➗', generators: [G3.div, G3.divB] },
+      { key: 'g3_div_rem',     name: 'Division with Remainder',         color: '#C4B5FD', icon: '➗', generators: [G3.divRelMul, G3.divRemainder] },
+    ]},
+    { key: 'g3_patterns_cat', name: 'Number Patterns & Logic', color: '#64748B', icon: '🔗', topics: [
+      { key: 'g3_sequence_t',  name: 'Number Sequences',                color: '#94A3B8', icon: '🔗', generators: [G3.sequence] },
+      { key: 'g3_missing_t',  name: 'Missing Numbers',                  color: '#CBD5E1', icon: '🔍', generators: [G3.missingMul] },
+      { key: 'g3_pattern',    name: '🎮 Pattern Blocks – Interactive',  color: '#7C3AED', icon: '🧩', generators: [] },
+    ]},
+    { key: 'g3_units_cat', name: 'Measurement', color: '#06B6D4', icon: '📏', topics: [
+      { key: 'g3_length_t',    name: 'Length (mm, cm, m, km)',          color: '#67E8F9', icon: '📏', generators: [G3.units] },
+      { key: 'g3_weight_t',    name: 'Weight (g, kg)',                  color: '#22D3EE', icon: '⚖️', generators: [G3.units] },
+      { key: 'g3_time_t',      name: 'Time (hours, minutes)',           color: '#06B6D4', icon: '🕐', generators: [G3.clock3, G3.units] },
+      { key: 'g3_money_t',     name: 'Money (euro, cents)',             color: '#0891B2', icon: '💰', generators: [G3.word1] },
+      { key: 'g3_laenge',     name: '🎮 Measure with Ruler',            color: '#0EA5E9', icon: '📏', generators: [] },
+      { key: 'g3_strecken',   name: '🎮 Draw a Line Segment',           color: '#38BDF8', icon: '✏️', generators: [] },
+      { key: 'g3_zeit',       name: '🎮 Read the Clock',                color: '#7DD3FC', icon: '🕐', generators: [] },
+      { key: 'g3_geld',       name: '🎮 Money Calculator',              color: '#BAE6FD', icon: '💰', generators: [] },
+      { key: 'g3_scale',      name: '🎮 Balance Scale – Weight',        color: '#60A5FA', icon: '⚖️', generators: [] },
+    ]},
+    { key: 'g3_geo_cat', name: 'Geometry', color: '#EC4899', icon: '📐', topics: [
+      { key: 'g3_shapes_t',    name: 'Shapes & Properties',             color: '#F472B6', icon: '🔷', generators: [G3.shapeProp, G3.perimCalc] },
+      { key: 'g3_angles_t',    name: 'Right Angles',                    color: '#FB7185', icon: '📐', generators: [G3.shapeProp] },
+      { key: 'g3_shapes_vis',  name: '🎮 Shape Recognition – Interactive', color: '#F43F5E', icon: '🔷', generators: [] },
+      { key: 'g3_geo_messen',  name: '🎮 Measure Line Segments',        color: '#FB923C', icon: '📏', generators: [] },
+    ]},
+    { key: 'g3_perim_cat', name: 'Perimeter', color: '#F97316', icon: '📐', topics: [
+      { key: 'g3_perim_text',  name: 'Perimeter of Rectangles & Squares', color: '#FB923C', icon: '📐', generators: [G3.perimCalc] },
+      { key: 'g3_perim',      name: '🎮 Perimeter on Grid',             color: '#FDBA74', icon: '📐', generators: [] },
+    ]},
+    { key: 'g3_area_cat', name: 'Area', color: '#84CC16', icon: '⬜', topics: [
+      { key: 'g3_area_text',   name: 'Area (rectangles)',               color: '#BEF264', icon: '⬜', generators: [G3.areaCalc] },
+      { key: 'g3_area',       name: '🎮 Count Squares on Grid',         color: '#D9F99D', icon: '⬜', generators: [] },
+    ]},
+    { key: 'g3_data_cat', name: 'Data & Charts', color: '#A855F7', icon: '📊', topics: [
+      { key: 'g3_tables_t',    name: 'Tables & Data',                   color: '#C084FC', icon: '📊', generators: [G3.barChartRead] },
+      { key: 'g3_barchart',   name: '🎮 Bar Chart Reading – Interactive', color: '#E9D5FF', icon: '📊', generators: [] },
+    ]},
+    { key: 'g3_word_cat', name: 'Word Problems', color: '#DC2626', icon: '📖', topics: [
+      { key: 'g3_word_add_t',  name: 'Addition Word Problems',          color: '#F87171', icon: '📖', generators: [G3.word1, G3.add1000] },
+      { key: 'g3_word_sub_t',  name: 'Subtraction Word Problems',       color: '#FCA5A5', icon: '📖', generators: [G3.word1, G3.sub1000] },
+      { key: 'g3_word_mul_t',  name: 'Multiplication Word Problems',    color: '#F87171', icon: '📖', generators: [G3.word2] },
+      { key: 'g3_word_div_t',  name: 'Division Word Problems',          color: '#FCA5A5', icon: '📖', generators: [G3.word3] },
+      { key: 'g3_word_multi_t', name: 'Multi-step Problems',            color: '#F87171', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
     ]},
   ],
   4: [
@@ -2143,20 +2297,70 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     ]},
   ],
   3: [
-    { key: 'g3_arith', name: 'Große Zahlen', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'add1000', name: 'Addition bis 1000', color: '#60A5FA', icon: '➕', generators: [G3.add1000, G3.add1000b, G3.writtenAdd] },
-      { key: 'sub1000', name: 'Subtraktion bis 1000', color: '#EF4444', icon: '➖', generators: [G3.sub1000, G3.writtenSub] },
-      { key: 'sequence', name: 'Zahlenfolgen', color: '#2563EB', icon: '🔢', generators: [G3.sequence] },
+    { key: 'g3_numbers', name: 'Zahlen und Zahlensystem (0–1000)', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'g3_read_write',  name: 'Zahlen lesen & schreiben',             color: '#60A5FA', icon: '🔢', generators: [G3.compare1000, G3.pred1000, G3.succ1000] },
+      { key: 'g3_compare_t',  name: 'Zahlen vergleichen & ordnen',           color: '#93C5FD', icon: '🔢', generators: [G3.compare1000] },
+      { key: 'g3_place_val',  name: 'Stellenwert & Zerlegung',               color: '#BFDBFE', icon: '🧱', generators: [G3.decompose, G3.compose, G3.placeVal1000] },
+      { key: 'g3_neighbors',  name: 'Nachbarzahlen & Zahlenstrahl',          color: '#DBEAFE', icon: '📊', generators: [G3.pred1000, G3.succ1000] },
+      { key: 'g3_stellenwert', name: '🎮 Stellenwerttafel – Interaktiv',     color: '#6366F1', icon: '🧱', generators: [] },
+      { key: 'g3_zahlstr',    name: '🎮 Zahlenstrahl 0–1000',                color: '#14B8A6', icon: '📊', generators: [] },
     ]},
-    { key: 'g3_mul', name: 'Einmaleins & Division', color: '#10B981', icon: '✖️', topics: [
-      { key: 'mul', name: 'Multiplizieren', color: '#34D399', icon: '✖️', generators: [G3.mul, G3.mulB, G3.missingMul] },
-      { key: 'div', name: 'Dividieren', color: '#10B981', icon: '➗', generators: [G3.div, G3.divB] },
+    { key: 'g3_add_cat', name: 'Addition', color: '#10B981', icon: '➕', topics: [
+      { key: 'g3_add_mental',  name: 'Kopfrechnen: Addition bis 1000',       color: '#34D399', icon: '➕', generators: [G3.add1000, G3.add1000b] },
+      { key: 'g3_add_written', name: 'Schriftliche Addition & 3 Summanden',  color: '#6EE7B7', icon: '➕', generators: [G3.writtenAdd, G3.add3nums] },
     ]},
-    { key: 'g3_word', name: 'Sachaufgaben', color: '#8B5CF6', icon: '📖', topics: [
-      { key: 'word', name: 'Sachaufgaben', color: '#8B5CF6', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
+    { key: 'g3_sub_cat', name: 'Subtraktion', color: '#EF4444', icon: '➖', topics: [
+      { key: 'g3_sub_mental',  name: 'Kopfrechnen: Subtraktion bis 1000',    color: '#F87171', icon: '➖', generators: [G3.sub1000, G3.sub1000b] },
+      { key: 'g3_sub_written', name: 'Schriftliche Subtraktion',             color: '#FCA5A5', icon: '➖', generators: [G3.writtenSub] },
     ]},
-    { key: 'g3_measure', name: 'Größen & Einheiten', color: '#F59E0B', icon: '📏', topics: [
-      { key: 'units', name: 'Maßeinheiten', color: '#FBBF24', icon: '📏', generators: [G3.units] },
+    { key: 'g3_mul_cat', name: 'Multiplikation', color: '#F59E0B', icon: '✖️', topics: [
+      { key: 'g3_mul_table',   name: 'Einmaleins',                           color: '#FBBF24', icon: '✖️', generators: [G3.mul, G3.mulB, G3.missingMul] },
+      { key: 'g3_mul_groups',  name: 'Wiederholte Addition & größere Zahlen', color: '#FDE68A', icon: '✖️', generators: [G3.mulRepeated, G3.mulLarge] },
+    ]},
+    { key: 'g3_div_cat', name: 'Division', color: '#8B5CF6', icon: '➗', topics: [
+      { key: 'g3_div_basic',   name: 'Grundlegende Division',               color: '#A78BFA', icon: '➗', generators: [G3.div, G3.divB] },
+      { key: 'g3_div_rem',     name: 'Division mit Rest',                   color: '#C4B5FD', icon: '➗', generators: [G3.divRelMul, G3.divRemainder] },
+    ]},
+    { key: 'g3_patterns_cat', name: 'Muster & Logik', color: '#64748B', icon: '🔗', topics: [
+      { key: 'g3_sequence_t',  name: 'Zahlenfolgen',                        color: '#94A3B8', icon: '🔗', generators: [G3.sequence] },
+      { key: 'g3_missing_t',  name: 'Fehlende Zahlen',                      color: '#CBD5E1', icon: '🔍', generators: [G3.missingMul] },
+      { key: 'g3_pattern',    name: '🎮 Musterblöcke – Interaktiv',         color: '#7C3AED', icon: '🧩', generators: [] },
+    ]},
+    { key: 'g3_units_cat', name: 'Größen & Einheiten', color: '#06B6D4', icon: '📏', topics: [
+      { key: 'g3_length_t',    name: 'Länge (mm, cm, m, km)',               color: '#67E8F9', icon: '📏', generators: [G3.units] },
+      { key: 'g3_weight_t',    name: 'Gewicht (g, kg)',                     color: '#22D3EE', icon: '⚖️', generators: [G3.units] },
+      { key: 'g3_time_t',      name: 'Zeit (Stunden, Minuten)',             color: '#06B6D4', icon: '🕐', generators: [G3.clock3, G3.units] },
+      { key: 'g3_money_t',     name: 'Geld (Euro, Cent)',                   color: '#0891B2', icon: '💰', generators: [G3.word1] },
+      { key: 'g3_laenge',     name: '🎮 Messen mit Lineal',                 color: '#0EA5E9', icon: '📏', generators: [] },
+      { key: 'g3_strecken',   name: '🎮 Strecke zeichnen',                  color: '#38BDF8', icon: '✏️', generators: [] },
+      { key: 'g3_zeit',       name: '🎮 Uhr ablesen',                       color: '#7DD3FC', icon: '🕐', generators: [] },
+      { key: 'g3_geld',       name: '🎮 Geldrechnen',                       color: '#BAE6FD', icon: '💰', generators: [] },
+      { key: 'g3_scale',      name: '🎮 Balkenwaage – Gewicht',             color: '#60A5FA', icon: '⚖️', generators: [] },
+    ]},
+    { key: 'g3_geo_cat', name: 'Geometrie', color: '#EC4899', icon: '📐', topics: [
+      { key: 'g3_shapes_t',    name: 'Formen & Eigenschaften',              color: '#F472B6', icon: '🔷', generators: [G3.shapeProp, G3.perimCalc] },
+      { key: 'g3_angles_t',    name: 'Rechte Winkel',                       color: '#FB7185', icon: '📐', generators: [G3.shapeProp] },
+      { key: 'g3_shapes_vis',  name: '🎮 Formenerkennung – Interaktiv',     color: '#F43F5E', icon: '🔷', generators: [] },
+      { key: 'g3_geo_messen',  name: '🎮 Strecken messen',                  color: '#FB923C', icon: '📏', generators: [] },
+    ]},
+    { key: 'g3_perim_cat', name: 'Umfang', color: '#F97316', icon: '📐', topics: [
+      { key: 'g3_perim_text',  name: 'Umfang von Rechtecken & Quadraten',   color: '#FB923C', icon: '📐', generators: [G3.perimCalc] },
+      { key: 'g3_perim',      name: '🎮 Umfang am Gitter',                  color: '#FDBA74', icon: '📐', generators: [] },
+    ]},
+    { key: 'g3_area_cat', name: 'Flächeninhalt', color: '#84CC16', icon: '⬜', topics: [
+      { key: 'g3_area_text',   name: 'Flächeninhalt (Rechtecke)',            color: '#BEF264', icon: '⬜', generators: [G3.areaCalc] },
+      { key: 'g3_area',       name: '🎮 Kästchen zählen',                   color: '#D9F99D', icon: '⬜', generators: [] },
+    ]},
+    { key: 'g3_data_cat', name: 'Daten & Diagramme', color: '#A855F7', icon: '📊', topics: [
+      { key: 'g3_tables_t',    name: 'Tabellen & Daten',                    color: '#C084FC', icon: '📊', generators: [G3.barChartRead] },
+      { key: 'g3_barchart',   name: '🎮 Balkendiagramm – Interaktiv',       color: '#E9D5FF', icon: '📊', generators: [] },
+    ]},
+    { key: 'g3_word_cat', name: 'Sachaufgaben', color: '#DC2626', icon: '📖', topics: [
+      { key: 'g3_word_add_t',  name: 'Additionsaufgaben',                   color: '#F87171', icon: '📖', generators: [G3.word1, G3.add1000] },
+      { key: 'g3_word_sub_t',  name: 'Subtraktionsaufgaben',                color: '#FCA5A5', icon: '📖', generators: [G3.word1, G3.sub1000] },
+      { key: 'g3_word_mul_t',  name: 'Multiplikationsaufgaben',             color: '#F87171', icon: '📖', generators: [G3.word2] },
+      { key: 'g3_word_div_t',  name: 'Divisionsaufgaben',                   color: '#FCA5A5', icon: '📖', generators: [G3.word3] },
+      { key: 'g3_word_multi_t', name: 'Mehrstufige Aufgaben',               color: '#F87171', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
     ]},
   ],
   4: [
@@ -2400,20 +2604,70 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
     ]},
   ],
   3: [
-    { key: 'g3_arith', name: 'Nagy számok', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'add1000', name: 'Összeadás 1000-ig', color: '#60A5FA', icon: '➕', generators: [G3.add1000, G3.add1000b, G3.writtenAdd] },
-      { key: 'sub1000', name: 'Kivonás 1000-ig', color: '#EF4444', icon: '➖', generators: [G3.sub1000, G3.writtenSub] },
-      { key: 'sequence', name: 'Számsorozatok', color: '#2563EB', icon: '🔢', generators: [G3.sequence] },
+    { key: 'g3_numbers', name: 'Számok és számrendszer (0–1000)', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'g3_read_write',  name: 'Számok olvasása, írása',               color: '#60A5FA', icon: '🔢', generators: [G3.compare1000, G3.pred1000, G3.succ1000] },
+      { key: 'g3_compare_t',  name: 'Összehasonlítás, sorrendje',            color: '#93C5FD', icon: '🔢', generators: [G3.compare1000] },
+      { key: 'g3_place_val',  name: 'Helyiérték, felbontás, összeállítás',   color: '#BFDBFE', icon: '🧱', generators: [G3.decompose, G3.compose, G3.placeVal1000] },
+      { key: 'g3_neighbors',  name: 'Szomszéd számok, számegyenes',          color: '#DBEAFE', icon: '📊', generators: [G3.pred1000, G3.succ1000] },
+      { key: 'g3_stellenwert', name: '🎮 Helyiérték-tábla – Interaktív',     color: '#6366F1', icon: '🧱', generators: [] },
+      { key: 'g3_zahlstr',    name: '🎮 Számegyenes 0–1000',                 color: '#14B8A6', icon: '📊', generators: [] },
     ]},
-    { key: 'g3_mul', name: 'Szorzás & Osztás', color: '#10B981', icon: '✖️', topics: [
-      { key: 'mul', name: 'Szorzás', color: '#34D399', icon: '✖️', generators: [G3.mul, G3.mulB, G3.missingMul] },
-      { key: 'div', name: 'Osztás', color: '#10B981', icon: '➗', generators: [G3.div, G3.divB] },
+    { key: 'g3_add_cat', name: 'Összeadás', color: '#10B981', icon: '➕', topics: [
+      { key: 'g3_add_mental',  name: 'Fejben: összeadás 1000-ig',            color: '#34D399', icon: '➕', generators: [G3.add1000, G3.add1000b] },
+      { key: 'g3_add_written', name: 'Írásbeli összeadás, több tag',         color: '#6EE7B7', icon: '➕', generators: [G3.writtenAdd, G3.add3nums] },
     ]},
-    { key: 'g3_word', name: 'Szöveges feladatok', color: '#8B5CF6', icon: '📖', topics: [
-      { key: 'word', name: 'Szöveges feladatok', color: '#8B5CF6', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
+    { key: 'g3_sub_cat', name: 'Kivonás', color: '#EF4444', icon: '➖', topics: [
+      { key: 'g3_sub_mental',  name: 'Fejben: kivonás 1000-ig',              color: '#F87171', icon: '➖', generators: [G3.sub1000, G3.sub1000b] },
+      { key: 'g3_sub_written', name: 'Írásbeli kivonás',                     color: '#FCA5A5', icon: '➖', generators: [G3.writtenSub] },
     ]},
-    { key: 'g3_measure', name: 'Mértékegységek', color: '#F59E0B', icon: '📏', topics: [
-      { key: 'units', name: 'Mértékegységek', color: '#FBBF24', icon: '📏', generators: [G3.units] },
+    { key: 'g3_mul_cat', name: 'Szorzás', color: '#F59E0B', icon: '✖️', topics: [
+      { key: 'g3_mul_table',   name: 'Szorzótábla',                          color: '#FBBF24', icon: '✖️', generators: [G3.mul, G3.mulB, G3.missingMul] },
+      { key: 'g3_mul_groups',  name: 'Ismételt összeadás, nagyobb számok',   color: '#FDE68A', icon: '✖️', generators: [G3.mulRepeated, G3.mulLarge] },
+    ]},
+    { key: 'g3_div_cat', name: 'Osztás', color: '#8B5CF6', icon: '➗', topics: [
+      { key: 'g3_div_basic',   name: 'Alaposztás',                           color: '#A78BFA', icon: '➗', generators: [G3.div, G3.divB] },
+      { key: 'g3_div_rem',     name: 'Maradékos osztás',                     color: '#C4B5FD', icon: '➗', generators: [G3.divRelMul, G3.divRemainder] },
+    ]},
+    { key: 'g3_patterns_cat', name: 'Számminták és logika', color: '#64748B', icon: '🔗', topics: [
+      { key: 'g3_sequence_t',  name: 'Sorozatok',                            color: '#94A3B8', icon: '🔗', generators: [G3.sequence] },
+      { key: 'g3_missing_t',  name: 'Hiányzó számok',                        color: '#CBD5E1', icon: '🔍', generators: [G3.missingMul] },
+      { key: 'g3_pattern',    name: '🎮 Mintafelismerés – Interaktív',       color: '#7C3AED', icon: '🧩', generators: [] },
+    ]},
+    { key: 'g3_units_cat', name: 'Mértékegységek', color: '#06B6D4', icon: '📏', topics: [
+      { key: 'g3_length_t',    name: 'Hossz (mm, cm, m, km)',                color: '#67E8F9', icon: '📏', generators: [G3.units] },
+      { key: 'g3_weight_t',    name: 'Súly (g, kg)',                         color: '#22D3EE', icon: '⚖️', generators: [G3.units] },
+      { key: 'g3_time_t',      name: 'Idő (óra, perc)',                      color: '#06B6D4', icon: '🕐', generators: [G3.clock3, G3.units] },
+      { key: 'g3_money_t',     name: 'Pénz (euró, cent)',                    color: '#0891B2', icon: '💰', generators: [G3.word1] },
+      { key: 'g3_laenge',     name: '🎮 Mérés vonalzóval',                   color: '#0EA5E9', icon: '📏', generators: [] },
+      { key: 'g3_strecken',   name: '🎮 Szakasz rajzolása',                  color: '#38BDF8', icon: '✏️', generators: [] },
+      { key: 'g3_zeit',       name: '🎮 Óra leolvasása',                     color: '#7DD3FC', icon: '🕐', generators: [] },
+      { key: 'g3_geld',       name: '🎮 Pénzszámítás',                       color: '#BAE6FD', icon: '💰', generators: [] },
+      { key: 'g3_scale',      name: '🎮 Mérleg – Súly',                      color: '#60A5FA', icon: '⚖️', generators: [] },
+    ]},
+    { key: 'g3_geo_cat', name: 'Geometria', color: '#EC4899', icon: '📐', topics: [
+      { key: 'g3_shapes_t',    name: 'Alakzatok és tulajdonságaik',          color: '#F472B6', icon: '🔷', generators: [G3.shapeProp, G3.perimCalc] },
+      { key: 'g3_angles_t',    name: 'Derékszög',                            color: '#FB7185', icon: '📐', generators: [G3.shapeProp] },
+      { key: 'g3_shapes_vis',  name: '🎮 Alakzat-felismerés – Interaktív',   color: '#F43F5E', icon: '🔷', generators: [] },
+      { key: 'g3_geo_messen',  name: '🎮 Szakasz mérése',                    color: '#FB923C', icon: '📏', generators: [] },
+    ]},
+    { key: 'g3_perim_cat', name: 'Kerület', color: '#F97316', icon: '📐', topics: [
+      { key: 'g3_perim_text',  name: 'Téglalap és négyzet kerülete',         color: '#FB923C', icon: '📐', generators: [G3.perimCalc] },
+      { key: 'g3_perim',      name: '🎮 Kerület rácson',                     color: '#FDBA74', icon: '📐', generators: [] },
+    ]},
+    { key: 'g3_area_cat', name: 'Terület', color: '#84CC16', icon: '⬜', topics: [
+      { key: 'g3_area_text',   name: 'Terület (téglalapok)',                 color: '#BEF264', icon: '⬜', generators: [G3.areaCalc] },
+      { key: 'g3_area',       name: '🎮 Négyzetszámlálás',                   color: '#D9F99D', icon: '⬜', generators: [] },
+    ]},
+    { key: 'g3_data_cat', name: 'Diagramok és adatok', color: '#A855F7', icon: '📊', topics: [
+      { key: 'g3_tables_t',    name: 'Táblázatok és adatok',                 color: '#C084FC', icon: '📊', generators: [G3.barChartRead] },
+      { key: 'g3_barchart',   name: '🎮 Oszlopdiagram – Interaktív',         color: '#E9D5FF', icon: '📊', generators: [] },
+    ]},
+    { key: 'g3_word_cat', name: 'Szöveges feladatok', color: '#DC2626', icon: '📖', topics: [
+      { key: 'g3_word_add_t',  name: 'Összeadásos feladatok',                color: '#F87171', icon: '📖', generators: [G3.word1, G3.add1000] },
+      { key: 'g3_word_sub_t',  name: 'Kivonásos feladatok',                  color: '#FCA5A5', icon: '📖', generators: [G3.word1, G3.sub1000] },
+      { key: 'g3_word_mul_t',  name: 'Szorzásos feladatok',                  color: '#F87171', icon: '📖', generators: [G3.word2] },
+      { key: 'g3_word_div_t',  name: 'Osztásos feladatok',                   color: '#FCA5A5', icon: '📖', generators: [G3.word3] },
+      { key: 'g3_word_multi_t', name: 'Több lépéses feladatok',              color: '#F87171', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
     ]},
   ],
   4: [
@@ -2615,20 +2869,70 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
     ]},
   ],
   3: [
-    { key: 'g3_arith', name: 'Numere mari', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'add1000', name: 'Adunare până la 1000', color: '#60A5FA', icon: '➕', generators: [G3.add1000, G3.add1000b, G3.writtenAdd] },
-      { key: 'sub1000', name: 'Scădere până la 1000', color: '#EF4444', icon: '➖', generators: [G3.sub1000, G3.writtenSub] },
-      { key: 'sequence', name: 'Șiruri de numere', color: '#2563EB', icon: '🔢', generators: [G3.sequence] },
+    { key: 'g3_numbers', name: 'Numere și sistem numeric (0–1000)', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'g3_read_write',  name: 'Citirea și scrierea numerelor',         color: '#60A5FA', icon: '🔢', generators: [G3.compare1000, G3.pred1000, G3.succ1000] },
+      { key: 'g3_compare_t',  name: 'Compararea și ordonarea',               color: '#93C5FD', icon: '🔢', generators: [G3.compare1000] },
+      { key: 'g3_place_val',  name: 'Valoarea cifrelor & descompunere',       color: '#BFDBFE', icon: '🧱', generators: [G3.decompose, G3.compose, G3.placeVal1000] },
+      { key: 'g3_neighbors',  name: 'Vecinii numerelor & axa numerică',       color: '#DBEAFE', icon: '📊', generators: [G3.pred1000, G3.succ1000] },
+      { key: 'g3_stellenwert', name: '🎮 Tabela valorii poziționale – Interactiv', color: '#6366F1', icon: '🧱', generators: [] },
+      { key: 'g3_zahlstr',    name: '🎮 Axa numerică 0–1000',                color: '#14B8A6', icon: '📊', generators: [] },
     ]},
-    { key: 'g3_mul', name: 'Înmulțire & Împărțire', color: '#10B981', icon: '✖️', topics: [
-      { key: 'mul', name: 'Înmulțire', color: '#34D399', icon: '✖️', generators: [G3.mul, G3.mulB, G3.missingMul] },
-      { key: 'div', name: 'Împărțire', color: '#10B981', icon: '➗', generators: [G3.div, G3.divB] },
+    { key: 'g3_add_cat', name: 'Adunare', color: '#10B981', icon: '➕', topics: [
+      { key: 'g3_add_mental',  name: 'Adunare mentală până la 1000',         color: '#34D399', icon: '➕', generators: [G3.add1000, G3.add1000b] },
+      { key: 'g3_add_written', name: 'Adunare în scris & 3 termeni',         color: '#6EE7B7', icon: '➕', generators: [G3.writtenAdd, G3.add3nums] },
     ]},
-    { key: 'g3_word', name: 'Probleme', color: '#8B5CF6', icon: '📖', topics: [
-      { key: 'word', name: 'Probleme', color: '#8B5CF6', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
+    { key: 'g3_sub_cat', name: 'Scădere', color: '#EF4444', icon: '➖', topics: [
+      { key: 'g3_sub_mental',  name: 'Scădere mentală până la 1000',         color: '#F87171', icon: '➖', generators: [G3.sub1000, G3.sub1000b] },
+      { key: 'g3_sub_written', name: 'Scădere în scris',                     color: '#FCA5A5', icon: '➖', generators: [G3.writtenSub] },
     ]},
-    { key: 'g3_measure', name: 'Unități de măsură', color: '#F59E0B', icon: '📏', topics: [
-      { key: 'units', name: 'Unități de măsură', color: '#FBBF24', icon: '📏', generators: [G3.units] },
+    { key: 'g3_mul_cat', name: 'Înmulțire', color: '#F59E0B', icon: '✖️', topics: [
+      { key: 'g3_mul_table',   name: 'Tabla înmulțirii',                     color: '#FBBF24', icon: '✖️', generators: [G3.mul, G3.mulB, G3.missingMul] },
+      { key: 'g3_mul_groups',  name: 'Adunare repetată & numere mari',       color: '#FDE68A', icon: '✖️', generators: [G3.mulRepeated, G3.mulLarge] },
+    ]},
+    { key: 'g3_div_cat', name: 'Împărțire', color: '#8B5CF6', icon: '➗', topics: [
+      { key: 'g3_div_basic',   name: 'Împărțire de bază',                    color: '#A78BFA', icon: '➗', generators: [G3.div, G3.divB] },
+      { key: 'g3_div_rem',     name: 'Împărțire cu rest',                    color: '#C4B5FD', icon: '➗', generators: [G3.divRelMul, G3.divRemainder] },
+    ]},
+    { key: 'g3_patterns_cat', name: 'Modele & Logică', color: '#64748B', icon: '🔗', topics: [
+      { key: 'g3_sequence_t',  name: 'Șiruri de numere',                     color: '#94A3B8', icon: '🔗', generators: [G3.sequence] },
+      { key: 'g3_missing_t',  name: 'Numere lipsă',                          color: '#CBD5E1', icon: '🔍', generators: [G3.missingMul] },
+      { key: 'g3_pattern',    name: '🎮 Blocuri de model – Interactiv',      color: '#7C3AED', icon: '🧩', generators: [] },
+    ]},
+    { key: 'g3_units_cat', name: 'Unități de măsură', color: '#06B6D4', icon: '📏', topics: [
+      { key: 'g3_length_t',    name: 'Lungime (mm, cm, m, km)',              color: '#67E8F9', icon: '📏', generators: [G3.units] },
+      { key: 'g3_weight_t',    name: 'Greutate (g, kg)',                     color: '#22D3EE', icon: '⚖️', generators: [G3.units] },
+      { key: 'g3_time_t',      name: 'Timp (ore, minute)',                   color: '#06B6D4', icon: '🕐', generators: [G3.clock3, G3.units] },
+      { key: 'g3_money_t',     name: 'Bani (euro, cenți)',                   color: '#0891B2', icon: '💰', generators: [G3.word1] },
+      { key: 'g3_laenge',     name: '🎮 Măsurare cu rigla',                  color: '#0EA5E9', icon: '📏', generators: [] },
+      { key: 'g3_strecken',   name: '🎮 Desenează un segment',               color: '#38BDF8', icon: '✏️', generators: [] },
+      { key: 'g3_zeit',       name: '🎮 Citește ceasul',                     color: '#7DD3FC', icon: '🕐', generators: [] },
+      { key: 'g3_geld',       name: '🎮 Calcul cu bani',                     color: '#BAE6FD', icon: '💰', generators: [] },
+      { key: 'g3_scale',      name: '🎮 Balanță – Greutate',                 color: '#60A5FA', icon: '⚖️', generators: [] },
+    ]},
+    { key: 'g3_geo_cat', name: 'Geometrie', color: '#EC4899', icon: '📐', topics: [
+      { key: 'g3_shapes_t',    name: 'Forme & proprietăți',                  color: '#F472B6', icon: '🔷', generators: [G3.shapeProp, G3.perimCalc] },
+      { key: 'g3_angles_t',    name: 'Unghi drept',                          color: '#FB7185', icon: '📐', generators: [G3.shapeProp] },
+      { key: 'g3_shapes_vis',  name: '🎮 Recunoaștere forme – Interactiv',   color: '#F43F5E', icon: '🔷', generators: [] },
+      { key: 'g3_geo_messen',  name: '🎮 Măsurare segmente',                 color: '#FB923C', icon: '📏', generators: [] },
+    ]},
+    { key: 'g3_perim_cat', name: 'Perimetru', color: '#F97316', icon: '📐', topics: [
+      { key: 'g3_perim_text',  name: 'Perimetrul dreptunghiurilor & pătratelor', color: '#FB923C', icon: '📐', generators: [G3.perimCalc] },
+      { key: 'g3_perim',      name: '🎮 Perimetru pe grilă',                 color: '#FDBA74', icon: '📐', generators: [] },
+    ]},
+    { key: 'g3_area_cat', name: 'Arie', color: '#84CC16', icon: '⬜', topics: [
+      { key: 'g3_area_text',   name: 'Aria dreptunghiurilor',                color: '#BEF264', icon: '⬜', generators: [G3.areaCalc] },
+      { key: 'g3_area',       name: '🎮 Numărare pătrate pe grilă',          color: '#D9F99D', icon: '⬜', generators: [] },
+    ]},
+    { key: 'g3_data_cat', name: 'Date & Diagrame', color: '#A855F7', icon: '📊', topics: [
+      { key: 'g3_tables_t',    name: 'Tabele și date',                       color: '#C084FC', icon: '📊', generators: [G3.barChartRead] },
+      { key: 'g3_barchart',   name: '🎮 Diagramă cu bare – Interactiv',      color: '#E9D5FF', icon: '📊', generators: [] },
+    ]},
+    { key: 'g3_word_cat', name: 'Probleme', color: '#DC2626', icon: '📖', topics: [
+      { key: 'g3_word_add_t',  name: 'Probleme de adunare',                  color: '#F87171', icon: '📖', generators: [G3.word1, G3.add1000] },
+      { key: 'g3_word_sub_t',  name: 'Probleme de scădere',                  color: '#FCA5A5', icon: '📖', generators: [G3.word1, G3.sub1000] },
+      { key: 'g3_word_mul_t',  name: 'Probleme de înmulțire',                color: '#F87171', icon: '📖', generators: [G3.word2] },
+      { key: 'g3_word_div_t',  name: 'Probleme de împărțire',                color: '#FCA5A5', icon: '📖', generators: [G3.word3] },
+      { key: 'g3_word_multi_t', name: 'Probleme în mai mulți pași',          color: '#F87171', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
     ]},
   ],
   4: [
