@@ -4,7 +4,6 @@ import React, { useState } from 'react';
 import type { Language } from '@/lib/language';
 
 const T = {
-  label: { hu: "Hány óra telt el összesen?", de: "Wie viele Stunden sind vergangen?", en: "How many hours have passed?", ro: "Câte ore au trecut?" },
   unit: { hu: "óra", de: "Std.", en: "hrs", ro: "ore" },
 } as const;
 
@@ -14,131 +13,115 @@ interface Props {
   lang?: Language;
   embedded?: boolean;
   onValueChange?: (val: string) => void;
-  onAnswer?: (correct: boolean) => void;
 }
 
 const TimelineDuration: React.FC<Props> = ({ 
-  startHour, 
-  endHour,
-  lang = 'en',
-  embedded = false,
-  onValueChange, 
-  onAnswer 
+  startHour, endHour, lang = 'hu', embedded = false, onValueChange 
 }) => {
   const [userInput, setUserInput] = useState('');
-  const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
-
   const duration = endHour - startHour;
-  const correctAnswer = String(duration);
 
-  const handleChange = (val: string) => {
-    const cleanVal = val.replace(/\D/g, '');
-    setUserInput(cleanVal);
-    onValueChange?.(cleanVal);
-
-    if (!embedded) {
-      if (cleanVal === correctAnswer) {
-        setIsCorrect(true);
-        onAnswer?.(true);
-      } else if (cleanVal.length >= correctAnswer.length) {
-        setIsCorrect(false);
-        onAnswer?.(false);
-      } else {
-        setIsCorrect(null);
-      }
-    }
-  };
-
-  // Dinamikus Óra Ikon: a mutatók az aktuális órát jelzik
-  const ClockIcon = ({ x, hour }: { x: number; hour: number }) => {
-    const rotation = (hour % 12) * 30; // 360 fok / 12 óra = 30 fok/óra
+  // Ultra-részletes óra ikon
+  const HDClock = ({ hour, color, label }: { hour: number; color: string; label: string }) => {
+    const rotH = (hour % 12) * 30;
     return (
-      <g transform={`translate(${x - 20}, 15)`}>
-        <circle cx="20" cy="20" r="18" stroke="#FF2D78" strokeWidth="2.5" fill="#1a1a2e" />
-        {/* Kismutató (Óra) */}
-        <line 
-          x1="20" y1="20" x2="20" y2="10" 
-          stroke="#FF2D78" strokeWidth="3" strokeLinecap="round" 
-          transform={`rotate(${rotation}, 20, 20)`}
-        />
-        {/* Nagymutató (Perc - fixen 12-esen) */}
-        <line x1="20" y1="20" x2="20" y2="6" stroke="#FF2D78" strokeWidth="1.5" strokeLinecap="round" />
+      <g>
+        {/* Külső díszítő gyűrű */}
+        <circle r="32" fill={color} opacity="0.05" />
+        <circle r="26" fill="#12122A" stroke={color} strokeWidth="2.5" />
+        
+        {/* Óra jelzések (12, 3, 6, 9) */}
+        {[0, 90, 180, 270].map(deg => (
+          <line key={deg} y1="-22" y2="-18" stroke="white" strokeWidth="1" opacity="0.4" transform={`rotate(${deg})`} />
+        ))}
+        
+        {/* Mutatók árnyékkal */}
+        <line y1="2" y2="-14" stroke="black" strokeWidth="4" opacity="0.3" strokeLinecap="round" transform={`rotate(${rotH})`} />
+        <line y1="0" y2="-14" stroke={color} strokeWidth="3" strokeLinecap="round" transform={`rotate(${rotH})`} />
+        <line y1="0" y2="-20" stroke="white" strokeWidth="1.5" strokeLinecap="round" />
+        <circle r="2.5" fill="white" />
+
+        {/* Feliratok az óra alatt */}
+        <text y="45" fill="white" fontSize="14" fontWeight="900" textAnchor="middle">{hour}:00</text>
+        <text y="60" fill={color} fontSize="9" fontWeight="bold" textAnchor="middle" opacity="0.8" className="uppercase tracking-tighter">{label}</text>
       </g>
     );
   };
 
   return (
-    <div className={`flex flex-col items-center gap-4 w-full ${embedded ? 'p-2' : 'p-10 bg-[#1a1a2e] rounded-3xl shadow-xl'}`}>
-      
-      <div className="relative w-full h-44 max-w-md">
-        <svg width="100%" height="100%" viewBox="0 0 400 140">
-          {/* Idővonal */}
-          <line x1="40" y1="100" x2="360" y2="100" stroke="#00D4FF" strokeWidth="3" strokeOpacity="0.3" strokeLinecap="round" />
+    <div className={`flex flex-col items-center w-full ${embedded ? 'p-0' : 'p-4'}`}>
+      <div className="relative w-full h-[180px] max-w-[500px]">
+        <svg viewBox="0 0 500 180" className="w-full h-full">
+          {/* Alap vonal háttérben */}
+          <line x1="60" y1="130" x2="440" y2="130" stroke="white" strokeWidth="1" strokeDasharray="2 4" opacity="0.1" />
           
-          {/* Start fázis */}
-          <ClockIcon x={40} hour={startHour} />
-          <text x="40" y="75" fill="white" fontSize="14" fontWeight="bold" textAnchor="middle" className="font-mono">
-            {startHour}:00
-          </text>
-          <circle cx="40" cy="100" r="5" fill="#00D4FF" />
+          {/* Az idővonal aktív szakasza */}
+          <line x1="80" y1="130" x2="420" y2="130" stroke="#00D4FF" strokeWidth="4" strokeLinecap="round" className="drop-shadow-[0_0_8px_#00D4FF]" />
 
-          {/* Vége fázis */}
-          <ClockIcon x={360} hour={endHour} />
-          <text x="360" y="75" fill="white" fontSize="14" fontWeight="bold" textAnchor="middle" className="font-mono">
-            {endHour}:00
-          </text>
-          <circle cx="360" cy="100" r="5" fill="#00D4FF" />
-
-          {/* Sárga ív */}
-          <path 
-            d="M 40 90 Q 200 0 360 90" 
-            fill="none" 
-            stroke="#FFD700" 
-            strokeWidth="3" 
-            strokeDasharray="8 4" 
-            strokeOpacity="0.8"
-          />
-
-          {/* SEGÍTSÉG: Pöttyök a számoláshoz (Pedagógiai javítás) */}
+          {/* UGRÁSOK (Béka-ugrás módszer) - Ez segít a gyereknek számolni! */}
           {Array.from({ length: duration }).map((_, i) => {
-            const step = 320 / duration;
-            const xPos = 40 + (i + 0.5) * step;
+            const stepWidth = 340 / duration;
+            const startX = 80 + i * stepWidth;
+            const endX = 80 + (i + 1) * stepWidth;
             return (
-              <circle key={i} cx={xPos} cy="60" r="4" fill="#FFD700" className="animate-pulse" style={{ animationDelay: `${i * 0.2}s` }} />
+              <path 
+                key={i}
+                d={`M ${startX} 120 Q ${(startX + endX) / 2} 70 ${endX} 120`}
+                fill="none"
+                stroke="#FFD700"
+                strokeWidth="2.5"
+                strokeDasharray="5 3"
+                opacity={0.6}
+              />
             );
           })}
 
-          {/* Középső kérdőjel kör */}
-          <g transform="translate(182, 15)">
-            <circle cx="18" cy="18" r="20" fill="#1a1a2e" stroke="#FFD700" strokeWidth="3" />
-            <text x="18" y="25" fill="#FFD700" fontSize="22" fontWeight="bold" textAnchor="middle">?</text>
+          {/* Óra egységek jelölése a vonalon */}
+          {Array.from({ length: duration + 1 }).map((_, i) => {
+            const x = 80 + i * (340 / duration);
+            return (
+              <g key={i} transform={`translate(${x}, 130)`}>
+                <circle r="4" fill="#00D4FF" />
+                <text y="20" fill="white" fontSize="10" opacity="0.4" textAnchor="middle" fontWeight="bold">
+                  {startHour + i}h
+                </text>
+              </g>
+            );
+          })}
+
+          {/* A két nagy óra */}
+          <g transform="translate(80, 50)">
+            <HDClock hour={startHour} color="#FF2D78" label="START" />
+          </g>
+          <g transform="translate(420, 50)">
+            <HDClock hour={endHour} color="#00FF88" label="STOP" />
+          </g>
+
+          {/* Központi kérdőjel "vibráló" effekttel */}
+          <g transform="translate(250, 40)">
+             <circle r="22" fill="#FFD700" className="animate-pulse" />
+             <text y="8" fill="#000" fontSize="24" fontWeight="900" textAnchor="middle">?</text>
           </g>
         </svg>
       </div>
 
-      <div className="flex flex-col items-center gap-3">
-        {!embedded && (
-          <label className="text-white/50 text-xs uppercase tracking-widest font-bold">
-            {T.label[lang]}
-          </label>
-        )}
-        
-        <div className="flex items-center gap-3">
-          <input
+      {/* Input Mező */}
+      <div className="flex items-center gap-4 mt-6 bg-[#1a1a2e] p-4 rounded-3xl border border-white/10 shadow-2xl">
+         <input
             type="text"
             inputMode="numeric"
-            placeholder="?"
             value={userInput}
-            onChange={(e) => handleChange(e.target.value)}
-            className={`
-              w-24 text-center text-3xl font-mono py-2 bg-[#2a2a4a] border-2 rounded-xl text-white outline-none transition-all
-              ${(!embedded && isCorrect === true) ? 'border-green-500 shadow-[0_0_15px_rgba(34,197,94,0.4)]' : 
-                (!embedded && isCorrect === false) ? 'border-red-500 shadow-[0_0_15px_rgba(239,68,68,0.4)]' : 
-                'border-white/10 focus:border-[#FFD700]'}
-            `}
+            onChange={(e) => {
+              const v = e.target.value.replace(/\D/g, '');
+              setUserInput(v);
+              onValueChange?.(v);
+            }}
+            className="w-24 text-center text-4xl font-black bg-transparent text-[#FFD700] caret-white outline-none"
+            placeholder="?"
+            autoFocus
           />
-          <span className="text-white/40 font-bold uppercase tracking-tighter">{T.unit[lang]}</span>
-        </div>
+          <div className="h-10 w-[2px] bg-white/10" />
+          <span className="text-white/60 font-bold text-lg uppercase tracking-widest">{T.unit[lang]}</span>
       </div>
     </div>
   );
