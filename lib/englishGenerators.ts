@@ -2090,151 +2090,568 @@ export const G4_Generators = {
 
 export const G5_Generators = {
   pos_g5: {
-    relative_pronouns_g5: (seed?: number) => {
+    conjunctions_g5: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const pronouns = ["who", "which", "that", "whom", "whose"];
+      const subConj = [
+        { conj: "although", sentence: "___ it was cold, she wore a dress.", type: "subordinating" },
+        { conj: "because", sentence: "He stayed home ___ he was sick.", type: "subordinating" },
+        { conj: "while", sentence: "___ I was sleeping, it started to rain.", type: "subordinating" },
+        { conj: "unless", sentence: "You can't go ___ you finish your homework.", type: "subordinating" },
+        { conj: "since", sentence: "___ you asked nicely, I'll help you.", type: "subordinating" },
+        { conj: "if", sentence: "I'll come ___ you invite me.", type: "subordinating" },
+        { conj: "until", sentence: "Wait here ___ I get back.", type: "subordinating" },
+        { conj: "after", sentence: "___ the movie ended, we went home.", type: "subordinating" },
+        { conj: "before", sentence: "Wash your hands ___ you eat.", type: "subordinating" },
+        { conj: "when", sentence: "Call me ___ you arrive.", type: "subordinating" },
+      ];
+      const coordConj = ["and", "but", "or", "so", "yet", "for", "nor"];
       for (let i = 0; i < 30; i++) {
+        const variant = Math.floor(rng() * 3);
         if (isMCQ(5, rng)) {
-          const pro = pick(pronouns, rng);
-          const wrong = pronouns.filter(p => p !== pro).slice(0, 3);
-          q.push(createMCQ("pos_g5", "relative_pronouns_g5",
-            "Which is a relative pronoun?", pro, wrong));
+          if (variant === 0) {
+            const data = pick(subConj, rng);
+            const wrong = subConj.filter(c => c.conj !== data.conj).map(c => c.conj).slice(0, 3);
+            q.push(createMCQ("pos_g5", "conjunctions_g5",
+              `Which SUBORDINATING conjunction best fills the blank? "${data.sentence}"`, data.conj, wrong));
+          } else if (variant === 1) {
+            const data = pick(subConj, rng);
+            q.push(createMCQ("pos_g5", "conjunctions_g5",
+              `Is '${data.conj}' a coordinating or subordinating conjunction?`, "subordinating",
+              ["coordinating", "correlative", "adverbial"]));
+          } else {
+            const coord = pick(coordConj, rng);
+            q.push(createMCQ("pos_g5", "conjunctions_g5",
+              `Is '${coord}' a coordinating or subordinating conjunction?`, "coordinating",
+              ["subordinating", "correlative", "preposition"]));
+          }
         } else {
-          q.push(createTyping("pos_g5", "relative_pronouns_g5",
-            "Name a relative pronoun:", pick(pronouns, rng)));
+          if (variant === 0) {
+            const data = pick(subConj, rng);
+            q.push(createTyping("pos_g5", "conjunctions_g5",
+              `Fill in the subordinating conjunction: "${data.sentence}"`, data.conj));
+          } else {
+            q.push(createTyping("pos_g5", "conjunctions_g5",
+              "Name a subordinating conjunction:", pick(subConj, rng).conj));
+          }
+        }
+      }
+      return q;
+    },
+    interjections_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const interjData = [
+        { word: "Wow", emotion: "amazement", sentence: "___! That was incredible!", wrong: ["Run", "The", "Quickly"] },
+        { word: "Ouch", emotion: "pain", sentence: "___! I stubbed my toe!", wrong: ["Walk", "Happy", "Slowly"] },
+        { word: "Hooray", emotion: "joy", sentence: "___! We won the game!", wrong: ["Sad", "Because", "Very"] },
+        { word: "Yikes", emotion: "surprise", sentence: "___! There's a spider!", wrong: ["Slow", "He", "Jumped"] },
+        { word: "Alas", emotion: "sorrow", sentence: "___! The good times have ended.", wrong: ["Run", "Very", "Happy"] },
+        { word: "Bravo", emotion: "approval", sentence: "___! What a great performance!", wrong: ["Walk", "Sad", "Under"] },
+        { word: "Oops", emotion: "mistake", sentence: "___! I dropped the plate.", wrong: ["The", "Quickly", "Happy"] },
+        { word: "Hurrah", emotion: "excitement", sentence: "___! School is out for summer!", wrong: ["Run", "Blue", "Under"] },
+        { word: "Phew", emotion: "relief", sentence: "___! That was a close call.", wrong: ["Fast", "Because", "Green"] },
+        { word: "Shh", emotion: "quieting", sentence: "___! The baby is sleeping.", wrong: ["Loud", "Run", "Big"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(interjData, rng);
+        if (isMCQ(5, rng)) {
+          const variant = Math.floor(rng() * 3);
+          if (variant === 0) {
+            q.push(createMCQ("pos_g5", "interjections_g5",
+              `Which word is an INTERJECTION? "${data.sentence}"`, data.word, data.wrong));
+          } else if (variant === 1) {
+            q.push(createMCQ("pos_g5", "interjections_g5",
+              `What emotion does the interjection '${data.word}!' express?`, data.emotion,
+              interjData.filter(d => d.word !== data.word).map(d => d.emotion).slice(0, 3)));
+          } else {
+            q.push(createMCQ("pos_g5", "interjections_g5",
+              `Which interjection best fills the blank? "${data.sentence}"`, data.word,
+              interjData.filter(d => d.word !== data.word).map(d => d.word).slice(0, 3)));
+          }
+        } else {
+          if (rng() > 0.5) {
+            q.push(createTyping("pos_g5", "interjections_g5",
+              `What interjection expresses ${data.emotion}?`, data.word));
+          } else {
+            q.push(createTyping("pos_g5", "interjections_g5",
+              `What emotion does '${data.word}!' express?`, data.emotion));
+          }
+        }
+      }
+      return q;
+    },
+    perfect_tenses_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const tenseData = [
+        { tense: "present perfect", sentence: "She has finished her homework.", helper: "has/have + past participle" },
+        { tense: "present perfect", sentence: "They have traveled to France.", helper: "has/have + past participle" },
+        { tense: "present perfect", sentence: "I have eaten lunch already.", helper: "has/have + past participle" },
+        { tense: "past perfect", sentence: "She had already left when I arrived.", helper: "had + past participle" },
+        { tense: "past perfect", sentence: "They had finished dinner before the movie started.", helper: "had + past participle" },
+        { tense: "past perfect", sentence: "He had studied hard before the test.", helper: "had + past participle" },
+        { tense: "future perfect", sentence: "By Friday, I will have completed the project.", helper: "will have + past participle" },
+        { tense: "future perfect", sentence: "She will have graduated by next June.", helper: "will have + past participle" },
+        { tense: "future perfect", sentence: "They will have arrived by noon.", helper: "will have + past participle" },
+      ];
+      const allTenses = ["present perfect", "past perfect", "future perfect", "simple past", "simple present"];
+      const fillBlanks = [
+        { sentence: "She ___ (finish) her homework already.", answer: "has finished", tense: "present perfect" },
+        { sentence: "By the time he arrived, we ___ (leave).", answer: "had left", tense: "past perfect" },
+        { sentence: "By next week, they ___ (complete) the project.", answer: "will have completed", tense: "future perfect" },
+        { sentence: "I ___ (visit) Paris three times.", answer: "have visited", tense: "present perfect" },
+        { sentence: "She ___ (read) the book before the test.", answer: "had read", tense: "past perfect" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const variant = Math.floor(rng() * 3);
+        if (isMCQ(5, rng)) {
+          if (variant === 0) {
+            const data = pick(tenseData, rng);
+            const wrong = allTenses.filter(t => t !== data.tense).slice(0, 3);
+            q.push(createMCQ("pos_g5", "perfect_tenses_g5",
+              `What tense is used in: "${data.sentence}"?`, data.tense, wrong));
+          } else if (variant === 1) {
+            const data = pick(tenseData, rng);
+            q.push(createMCQ("pos_g5", "perfect_tenses_g5",
+              `The ${data.tense} tense is formed with:`, data.helper,
+              ["was + verb", "will + verb", "verb + -ed", "is + verb + -ing"]));
+          } else {
+            const fb = pick(fillBlanks, rng);
+            const wrong = fillBlanks.filter(f => f.answer !== fb.answer).map(f => f.answer).slice(0, 3);
+            q.push(createMCQ("pos_g5", "perfect_tenses_g5",
+              `Fill in the correct form: "${fb.sentence}"`, fb.answer, wrong));
+          }
+        } else {
+          if (variant === 0) {
+            const data = pick(tenseData, rng);
+            q.push(createTyping("pos_g5", "perfect_tenses_g5",
+              `What tense is: "${data.sentence}"?`, data.tense));
+          } else {
+            const fb = pick(fillBlanks, rng);
+            q.push(createTyping("pos_g5", "perfect_tenses_g5",
+              `Fill in the correct perfect tense form: "${fb.sentence}"`, fb.answer));
+          }
+        }
+      }
+      return q;
+    },
+    tense_shifts_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const shiftData = [
+        { sentence: "She walked in and sits down.", hasShift: true, fix: "She walked in and sat down." },
+        { sentence: "He runs to the store and bought milk.", hasShift: true, fix: "He ran to the store and bought milk." },
+        { sentence: "The dog barked and then runs away.", hasShift: true, fix: "The dog barked and then ran away." },
+        { sentence: "I was reading when she calls me.", hasShift: true, fix: "I was reading when she called me." },
+        { sentence: "She is cooking dinner and watches TV.", hasShift: true, fix: "She is cooking dinner and watching TV." },
+        { sentence: "They played outside and came home at six.", hasShift: false, fix: "" },
+        { sentence: "She walks to school and eats lunch there.", hasShift: false, fix: "" },
+        { sentence: "He will study tonight and will take the test tomorrow.", hasShift: false, fix: "" },
+        { sentence: "We went swimming and then we ate ice cream.", hasShift: false, fix: "" },
+        { sentence: "The teacher explains the lesson and assigns homework.", hasShift: false, fix: "" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(shiftData, rng);
+        if (isMCQ(5, rng)) {
+          if (rng() > 0.5) {
+            q.push(createMCQ("pos_g5", "tense_shifts_g5",
+              `Does this sentence have an INCORRECT tense shift? "${data.sentence}"`,
+              data.hasShift ? "yes" : "no", data.hasShift ? ["no", "cannot tell", "maybe"] : ["yes", "cannot tell", "maybe"]));
+          } else if (data.hasShift) {
+            const wrong = shiftData.filter(d => d.hasShift && d.fix !== data.fix).map(d => d.fix).slice(0, 2);
+            wrong.push(data.sentence);
+            q.push(createMCQ("pos_g5", "tense_shifts_g5",
+              `Which CORRECTLY fixes the tense shift? "${data.sentence}"`, data.fix, wrong));
+          } else {
+            const shifted = pick(shiftData.filter(d => d.hasShift), rng);
+            q.push(createMCQ("pos_g5", "tense_shifts_g5",
+              "Which sentence has an INCORRECT tense shift?", shifted.sentence,
+              shiftData.filter(d => !d.hasShift).map(d => d.sentence).slice(0, 3)));
+          }
+        } else {
+          if (data.hasShift) {
+            q.push(createTyping("pos_g5", "tense_shifts_g5",
+              `Fix the tense shift: "${data.sentence}"`, data.fix));
+          } else {
+            q.push(createTyping("pos_g5", "tense_shifts_g5",
+              `Does this sentence have a tense shift? (yes/no) "${data.sentence}"`, "no"));
+          }
+        }
+      }
+      return q;
+    },
+    correlative_conj_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const corrData = [
+        { pair: "either...or", first: "either", second: "or", sentence: "___ you study hard ___ you will fail." },
+        { pair: "neither...nor", first: "neither", second: "nor", sentence: "___ the teacher ___ the students could solve it." },
+        { pair: "both...and", first: "both", second: "and", sentence: "___ Sarah ___ Tom passed the test." },
+        { pair: "not only...but also", first: "not only", second: "but also", sentence: "He is ___ smart ___ kind." },
+        { pair: "whether...or", first: "whether", second: "or", sentence: "I don't know ___ to go ___ to stay." },
+      ];
+      const allPairs = corrData.map(c => c.pair);
+      for (let i = 0; i < 30; i++) {
+        const data = pick(corrData, rng);
+        if (isMCQ(5, rng)) {
+          const variant = Math.floor(rng() * 3);
+          if (variant === 0) {
+            const wrong = allPairs.filter(p => p !== data.pair).slice(0, 3);
+            q.push(createMCQ("pos_g5", "correlative_conj_g5",
+              `Which correlative conjunction pair fills the blanks? "${data.sentence}"`, data.pair, wrong));
+          } else if (variant === 1) {
+            q.push(createMCQ("pos_g5", "correlative_conj_g5",
+              "Which is a CORRELATIVE conjunction pair?", data.pair,
+              ["because...so", "and...but", "if...then", "since...when"]));
+          } else {
+            q.push(createMCQ("pos_g5", "correlative_conj_g5",
+              `What is the second part of '${data.first}...'?`, data.second,
+              corrData.filter(c => c.second !== data.second).map(c => c.second).slice(0, 3)));
+          }
+        } else {
+          if (rng() > 0.5) {
+            q.push(createTyping("pos_g5", "correlative_conj_g5",
+              `Complete the pair: '${data.first}...'`, data.second));
+          } else {
+            q.push(createTyping("pos_g5", "correlative_conj_g5",
+              "Name a correlative conjunction pair:", pick(allPairs, rng)));
+          }
         }
       }
       return q;
     }
   },
-  syntax_g5: {
+  sentences_g5: {
     complex_sentences_g5: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const conjunctions = ["because", "although", "while", "since", "if"];
+      const sentenceTypes = [
+        { sentence: "Although it was raining, she went outside.", type: "complex" },
+        { sentence: "She went outside.", type: "simple" },
+        { sentence: "She went outside, and it started raining.", type: "compound" },
+        { sentence: "Because he was tired, he went to bed, and his mom turned off the light.", type: "compound-complex" },
+        { sentence: "When the bell rings, students leave the classroom.", type: "complex" },
+        { sentence: "I will go if you come with me.", type: "complex" },
+        { sentence: "The cat sat on the mat.", type: "simple" },
+        { sentence: "The sun set, and the stars appeared.", type: "compound" },
+        { sentence: "Since it was late, we left early, but Tom stayed behind.", type: "compound-complex" },
+        { sentence: "Unless you hurry, you will miss the bus.", type: "complex" },
+      ];
+      const allTypes = ["simple", "compound", "complex", "compound-complex"];
       for (let i = 0; i < 30; i++) {
+        const data = pick(sentenceTypes, rng);
         if (isMCQ(5, rng)) {
-          const conj = pick(conjunctions, rng);
-          const wrong = conjunctions.filter(c => c !== conj).slice(0, 3);
-          q.push(createMCQ("syntax_g5", "complex_sentences_g5",
-            "Which shows cause and effect?", conj, wrong));
+          if (rng() > 0.5) {
+            const wrong = allTypes.filter(t => t !== data.type).slice(0, 3);
+            q.push(createMCQ("sentences_g5", "complex_sentences_g5",
+              `What type of sentence is this? "${data.sentence}"`, data.type, wrong));
+          } else {
+            const complexOnly = sentenceTypes.filter(s => s.type === "complex");
+            const notComplex = sentenceTypes.filter(s => s.type !== "complex");
+            const correct = pick(complexOnly, rng);
+            const wrongSents = shuffle(notComplex, rng).slice(0, 3).map(s => s.sentence);
+            q.push(createMCQ("sentences_g5", "complex_sentences_g5",
+              "Which is a COMPLEX sentence?", correct.sentence, wrongSents));
+          }
         } else {
-          q.push(createTyping("syntax_g5", "complex_sentences_g5",
-            "Write a complex sentence using 'because':",
-            ["I eat because I am hungry", "Because I am hungry"]));
+          q.push(createTyping("sentences_g5", "complex_sentences_g5",
+            `What type of sentence? (simple/compound/complex/compound-complex) "${data.sentence}"`, data.type));
         }
       }
       return q;
     },
+    intro_clauses_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const introData = [
+        { correct: "When I got home, I ate dinner.", incorrect: "When I got home I ate dinner.", intro: "When I got home" },
+        { correct: "After the game ended, we went out to eat.", incorrect: "After the game ended we went out to eat.", intro: "After the game ended" },
+        { correct: "Because it was raining, we stayed inside.", incorrect: "Because it was raining we stayed inside.", intro: "Because it was raining" },
+        { correct: "Before you leave, please lock the door.", incorrect: "Before you leave please lock the door.", intro: "Before you leave" },
+        { correct: "If you study hard, you will pass the test.", incorrect: "If you study hard you will pass the test.", intro: "If you study hard" },
+        { correct: "Although she was tired, she finished her work.", incorrect: "Although she was tired she finished her work.", intro: "Although she was tired" },
+        { correct: "During the summer, we visit our grandparents.", incorrect: "During the summer we visit our grandparents.", intro: "During the summer" },
+        { correct: "While waiting for the bus, I read a book.", incorrect: "While waiting for the bus I read a book.", intro: "While waiting for the bus" },
+        { correct: "In the morning, the birds sing loudly.", incorrect: "In the morning the birds sing loudly.", intro: "In the morning" },
+        { correct: "Since you asked, I'll tell you the truth.", incorrect: "Since you asked I'll tell you the truth.", intro: "Since you asked" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(introData, rng);
+        if (isMCQ(5, rng)) {
+          if (rng() > 0.5) {
+            q.push(createMCQ("sentences_g5", "intro_clauses_g5",
+              "Which sentence correctly uses a comma after the introductory clause?",
+              data.correct, [data.incorrect,
+                pick(introData.filter(d => d !== data), rng).incorrect,
+                pick(introData.filter(d => d !== data), rng).incorrect]));
+          } else {
+            q.push(createMCQ("sentences_g5", "intro_clauses_g5",
+              `What is the introductory clause in: "${data.correct}"?`, data.intro,
+              introData.filter(d => d.intro !== data.intro).map(d => d.intro).slice(0, 3)));
+          }
+        } else {
+          if (rng() > 0.5) {
+            q.push(createTyping("sentences_g5", "intro_clauses_g5",
+              `Add the missing comma: "${data.incorrect}"`, data.correct));
+          } else {
+            q.push(createTyping("sentences_g5", "intro_clauses_g5",
+              `What is the introductory element in: "${data.correct}"?`, data.intro));
+          }
+        }
+      }
+      return q;
+    },
+    combining_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const combineData = [
+        { sent1: "The cat was black.", sent2: "It had blue eyes.", combined: "The black cat had blue eyes." },
+        { sent1: "She likes pizza.", sent2: "She likes pasta.", combined: "She likes both pizza and pasta." },
+        { sent1: "He ran fast.", sent2: "He was tired.", combined: "Although he was tired, he ran fast." },
+        { sent1: "The movie was long.", sent2: "The movie was boring.", combined: "The movie was long and boring." },
+        { sent1: "We went to the park.", sent2: "We played soccer.", combined: "We went to the park and played soccer." },
+        { sent1: "It was raining.", sent2: "She went for a walk.", combined: "Even though it was raining, she went for a walk." },
+        { sent1: "He studied all night.", sent2: "He passed the exam.", combined: "Because he studied all night, he passed the exam." },
+        { sent1: "The book was interesting.", sent2: "I finished it quickly.", combined: "The book was so interesting that I finished it quickly." },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(combineData, rng);
+        if (isMCQ(5, rng)) {
+          const wrong = combineData.filter(c => c.combined !== data.combined).map(c => c.combined).slice(0, 3);
+          q.push(createMCQ("sentences_g5", "combining_g5",
+            `Best way to combine: "${data.sent1}" + "${data.sent2}"?`, data.combined, wrong));
+        } else {
+          q.push(createTyping("sentences_g5", "combining_g5",
+            `Combine: "${data.sent1}" "${data.sent2}"`, data.combined));
+        }
+      }
+      return q;
+    }
+  },
+  spelling_g5: {
     commas_g5: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const commaData = [
-        { text: "I like apples, oranges, and bananas.", rule: "items in a list", correct: true },
-        { text: "I like apples oranges and bananas.", rule: "items in a list", correct: false },
-        { text: "On Monday, we went to the park.", rule: "intro clause", correct: true },
-        { text: "On Monday we went to the park.", rule: "intro clause", correct: false },
-        { text: "She ran quickly, and he walked slowly.", rule: "joining clauses", correct: true },
-        { text: "She ran quickly and he walked slowly.", rule: "joining clauses", correct: false },
+      const commaRules = [
+        { correct: "I bought apples, oranges, and bananas.", incorrect: "I bought apples oranges and bananas.", rule: "items in a series" },
+        { correct: "She packed shirts, pants, and shoes.", incorrect: "She packed shirts pants and shoes.", rule: "items in a series" },
+        { correct: "After the movie, we went to dinner.", incorrect: "After the movie we went to dinner.", rule: "after introductory element" },
+        { correct: "Running quickly, the dog chased the cat.", incorrect: "Running quickly the dog chased the cat.", rule: "after introductory phrase" },
+        { correct: "My sister, who lives in Texas, is visiting.", incorrect: "My sister who lives in Texas is visiting.", rule: "nonessential clause" },
+        { correct: "The tall, dark building loomed ahead.", incorrect: "The tall dark building loomed ahead.", rule: "coordinate adjectives" },
+        { correct: "Yes, I would like some water.", incorrect: "Yes I would like some water.", rule: "after introductory word" },
+        { correct: "We went hiking, and then we had a picnic.", incorrect: "We went hiking and then we had a picnic.", rule: "compound sentence" },
+        { correct: "Dear Mom, I miss you very much.", incorrect: "Dear Mom I miss you very much.", rule: "after greeting" },
+        { correct: "The test is on March 5, 2026.", incorrect: "The test is on March 5 2026.", rule: "in dates" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(commaRules, rng);
+        if (isMCQ(5, rng)) {
+          if (rng() > 0.5) {
+            q.push(createMCQ("spelling_g5", "commas_g5",
+              "Which sentence uses commas correctly?", data.correct,
+              [data.incorrect,
+                pick(commaRules.filter(r => r !== data), rng).incorrect,
+                pick(commaRules.filter(r => r !== data), rng).incorrect]));
+          } else {
+            q.push(createMCQ("spelling_g5", "commas_g5",
+              `What comma rule applies in: "${data.correct}"?`, data.rule,
+              commaRules.filter(r => r.rule !== data.rule).map(r => r.rule).slice(0, 3)));
+          }
+        } else {
+          if (rng() > 0.5) {
+            q.push(createTyping("spelling_g5", "commas_g5",
+              `Add commas where needed: "${data.incorrect}"`, data.correct));
+          } else {
+            q.push(createTyping("spelling_g5", "commas_g5",
+              `What comma rule applies? "${data.correct}"`, data.rule));
+          }
+        }
+      }
+      return q;
+    },
+    titles_italics_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const titleData = [
+        { title: "Harry Potter", type: "book", format: "italics or underline" },
+        { title: "The Lion King", type: "movie", format: "italics or underline" },
+        { title: "Time", type: "magazine", format: "italics or underline" },
+        { title: "The Star-Spangled Banner", type: "song", format: "quotation marks" },
+        { title: "The Road Not Taken", type: "poem", format: "quotation marks" },
+        { title: "My Summer Vacation", type: "short story", format: "quotation marks" },
+        { title: "The New York Times", type: "newspaper", format: "italics or underline" },
+        { title: "Minecraft", type: "video game", format: "italics or underline" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(titleData, rng);
+        if (isMCQ(5, rng)) {
+          if (rng() > 0.5) {
+            q.push(createMCQ("spelling_g5", "titles_italics_g5",
+              `How should a ${data.type} title be written?`, data.format,
+              ["in bold", "in all capitals", data.format === "italics or underline" ? "quotation marks" : "italics or underline", "in parentheses"]));
+          } else {
+            q.push(createMCQ("spelling_g5", "titles_italics_g5",
+              `'${data.title}' is a ${data.type}. How should it be formatted?`, data.format,
+              ["in bold", "in all capitals", "no special formatting", data.format === "italics or underline" ? "quotation marks" : "italics or underline"]));
+          }
+        } else {
+          q.push(createTyping("spelling_g5", "titles_italics_g5",
+            `How should a ${data.type} title like '${data.title}' be formatted? (italics or underline / quotation marks)`, data.format));
+        }
+      }
+      return q;
+    },
+    apostrophes_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const possessiveData = [
+        { noun: "dog", type: "singular", possessive: "dog's", example: "The dog's bone is hidden." },
+        { noun: "cat", type: "singular", possessive: "cat's", example: "The cat's tail is fluffy." },
+        { noun: "children", type: "irregular plural", possessive: "children's", example: "The children's books are on the shelf." },
+        { noun: "dogs", type: "regular plural", possessive: "dogs'", example: "The dogs' barking was loud." },
+        { noun: "James", type: "singular ending in s", possessive: "James's", example: "James's car is red." },
+        { noun: "women", type: "irregular plural", possessive: "women's", example: "The women's team won." },
+        { noun: "teachers", type: "regular plural", possessive: "teachers'", example: "The teachers' lounge is upstairs." },
+        { noun: "baby", type: "singular", possessive: "baby's", example: "The baby's toy fell on the floor." },
+      ];
+      const contractionData = [
+        { contraction: "it's", expansion: "it is", confused: "its", sentence: "___ raining outside." },
+        { contraction: "they're", expansion: "they are", confused: "their", sentence: "___ going to the park." },
+        { contraction: "you're", expansion: "you are", confused: "your", sentence: "___ my best friend." },
+        { contraction: "who's", expansion: "who is", confused: "whose", sentence: "___ coming to dinner?" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const variant = Math.floor(rng() * 3);
+        if (isMCQ(5, rng)) {
+          if (variant === 0) {
+            const data = pick(possessiveData, rng);
+            const wrong = possessiveData.filter(d => d.possessive !== data.possessive).map(d => d.possessive).slice(0, 3);
+            q.push(createMCQ("spelling_g5", "apostrophes_g5",
+              `What is the possessive form of '${data.noun}' (${data.type})?`, data.possessive, wrong));
+          } else if (variant === 1) {
+            const data = pick(contractionData, rng);
+            q.push(createMCQ("spelling_g5", "apostrophes_g5",
+              `Fill in: "${data.sentence}" (meaning: ${data.expansion})`, data.contraction,
+              [data.confused, "its'", "there"]));
+          } else {
+            const data = pick(possessiveData, rng);
+            const wrongSentences = possessiveData.filter(d => d !== data).map(d =>
+              d.example.replace(d.possessive, d.noun + "s")).slice(0, 3);
+            q.push(createMCQ("spelling_g5", "apostrophes_g5",
+              "Which sentence uses the apostrophe correctly?", data.example, wrongSentences));
+          }
+        } else {
+          if (variant === 0) {
+            const data = pick(possessiveData, rng);
+            q.push(createTyping("spelling_g5", "apostrophes_g5",
+              `Write the possessive form of '${data.noun}' (${data.type}):`, data.possessive));
+          } else {
+            const data = pick(contractionData, rng);
+            q.push(createTyping("spelling_g5", "apostrophes_g5",
+              `What does '${data.contraction}' stand for?`, data.expansion));
+          }
+        }
+      }
+      return q;
+    },
+    spelling_strategies_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const strategyData = [
+        { rule: "i before e except after c", examples: ["receive", "ceiling", "deceive"] },
+        { rule: "drop silent e before -ing", examples: ["make to making", "write to writing", "hope to hoping"] },
+        { rule: "double final consonant (CVC)", examples: ["run to running", "stop to stopping", "swim to swimming"] },
+        { rule: "change y to i before suffix", examples: ["carry to carried", "baby to babies", "study to studied"] },
+        { rule: "add -es after s, sh, ch, x, z", examples: ["box to boxes", "wish to wishes", "church to churches"] },
+      ];
+      const misspelledPairs = [
+        { wrong: "recieve", correct: "receive", rule: "i before e except after c" },
+        { wrong: "belive", correct: "believe", rule: "i before e" },
+        { wrong: "runing", correct: "running", rule: "double final consonant (CVC)" },
+        { wrong: "stoping", correct: "stopping", rule: "double final consonant (CVC)" },
+        { wrong: "happyness", correct: "happiness", rule: "change y to i before suffix" },
+        { wrong: "beautifull", correct: "beautiful", rule: "suffix -ful has one l" },
+        { wrong: "writting", correct: "writing", rule: "drop silent e before -ing" },
+        { wrong: "occured", correct: "occurred", rule: "double final consonant (CVC)" },
+        { wrong: "definately", correct: "definitely", rule: "no a in definitely" },
+        { wrong: "seperate", correct: "separate", rule: "separate has a in the middle" },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(5, rng)) {
-          const commaSet = pick(commaData, rng);
-          const correctAnswer = commaSet.correct ? "correct" : "incorrect";
-          const wrong = commaData.filter(c => c.correct !== commaSet.correct).map(c => c.correct ? "correct" : "incorrect").slice(0, 3);
-          q.push(createMCQ("syntax_g5", "commas_g5",
-            `Is this comma usage correct? "${commaSet.text}"`, correctAnswer, wrong));
+          const variant = Math.floor(rng() * 3);
+          if (variant === 0) {
+            const data = pick(misspelledPairs, rng);
+            q.push(createMCQ("spelling_g5", "spelling_strategies_g5",
+              "Which is spelled correctly?", data.correct,
+              [data.wrong, pick(misspelledPairs.filter(m => m !== data), rng).wrong,
+                pick(misspelledPairs.filter(m => m !== data), rng).wrong]));
+          } else if (variant === 1) {
+            const data = pick(strategyData, rng);
+            const example = pick(data.examples, rng);
+            const wrong = strategyData.filter(s => s.rule !== data.rule).map(s => s.rule).slice(0, 3);
+            q.push(createMCQ("spelling_g5", "spelling_strategies_g5",
+              `Which spelling rule applies to '${example}'?`, data.rule, wrong));
+          } else {
+            const data = pick(misspelledPairs, rng);
+            q.push(createMCQ("spelling_g5", "spelling_strategies_g5",
+              `What spelling rule helps with '${data.correct}'?`, data.rule,
+              misspelledPairs.filter(m => m.rule !== data.rule).map(m => m.rule).slice(0, 3)));
+          }
         } else {
-          const commaSet = pick(commaData, rng);
-          const answer = commaSet.correct ? "correct" : "incorrect";
-          q.push(createTyping("syntax_g5", "commas_g5",
-            `Is comma usage here correct or incorrect? "${commaSet.text}"`, answer));
+          const data = pick(misspelledPairs, rng);
+          q.push(createTyping("spelling_g5", "spelling_strategies_g5",
+            `Correct the misspelling: '${data.wrong}'`, data.correct));
         }
       }
       return q;
     }
   },
   vocab_g5: {
-    greek_latin_roots_g5: (seed?: number) => {
+    greek_latin_g5: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
       const rootData = [
-        { root: "aqua", meaning: "water", examples: ["aquarium", "aquatic", "aqueduct"] },
-        { root: "geo", meaning: "earth", examples: ["geography", "geology", "geometry"] },
-        { root: "bio", meaning: "life", examples: ["biography", "biology", "biosphere"] },
-        { root: "photo", meaning: "light", examples: ["photograph", "photosynthesis", "photocopier"] },
-        { root: "chron", meaning: "time", examples: ["chronological", "chronicle", "synchronize"] },
-        { root: "graph", meaning: "write", examples: ["biography", "geography", "paragraph"] },
+        { root: "port", origin: "Latin", meaning: "carry", examples: ["transport", "portable", "export", "import"] },
+        { root: "aqua", origin: "Latin", meaning: "water", examples: ["aquarium", "aquatic", "aqueduct"] },
+        { root: "geo", origin: "Greek", meaning: "earth", examples: ["geography", "geology", "geometry"] },
+        { root: "bio", origin: "Greek", meaning: "life", examples: ["biography", "biology", "biosphere"] },
+        { root: "photo", origin: "Greek", meaning: "light", examples: ["photograph", "photosynthesis", "photon"] },
+        { root: "chron", origin: "Greek", meaning: "time", examples: ["chronological", "chronicle", "synchronize"] },
+        { root: "graph", origin: "Greek", meaning: "write", examples: ["autograph", "paragraph", "graphite"] },
+        { root: "tele", origin: "Greek", meaning: "far", examples: ["telephone", "television", "telescope"] },
+        { root: "aud", origin: "Latin", meaning: "hear", examples: ["audience", "audio", "auditorium"] },
+        { root: "vis", origin: "Latin", meaning: "see", examples: ["visible", "vision", "visual"] },
+        { root: "dict", origin: "Latin", meaning: "say", examples: ["dictionary", "dictate", "predict"] },
+        { root: "scrib", origin: "Latin", meaning: "write", examples: ["describe", "script", "manuscript"] },
       ];
       for (let i = 0; i < 30; i++) {
+        const data = pick(rootData, rng);
+        const example = pick(data.examples, rng);
         if (isMCQ(5, rng)) {
-          const rootSet = pick(rootData, rng);
-          const example = pick(rootSet.examples, rng);
-          const wrong = rootData.filter(r => r.root !== rootSet.root).map(r => r.meaning).slice(0, 3);
-          q.push(createMCQ("vocab_g5", "greek_latin_roots_g5",
-            `What does the root '${rootSet.root}' mean in '${example}'?`, rootSet.meaning, wrong));
-        } else {
-          const rootSet = pick(rootData, rng);
-          q.push(createTyping("vocab_g5", "greek_latin_roots_g5",
-            `What does the root '${rootSet.root}' mean?`, rootSet.meaning));
-        }
-      }
-      return q;
-    },
-    figurative_language_g5: (seed?: number) => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const q: CurriculumQuestion[] = [];
-      const figData = [
-        { phrase: "'The world is my oyster'", device: "metaphor", meaning: "everything is possible for me" },
-        { phrase: "'She is as quiet as a mouse'", device: "simile", meaning: "very quiet" },
-        { phrase: "'The trees danced in the wind'", device: "personification", meaning: "trees moved gracefully" },
-        { phrase: "'I've told you a million times'", device: "hyperbole", meaning: "I've told you many times" },
-        { phrase: "'The rain poured down'", device: "onomatopoeia", meaning: "rain fell heavily" },
-      ];
-      for (let i = 0; i < 30; i++) {
-        if (isMCQ(5, rng)) {
-          const figSet = pick(figData, rng);
-          const wrong = figData.filter(f => f.device !== figSet.device).map(f => f.device).slice(0, 3);
-          q.push(createMCQ("vocab_g5", "figurative_language_g5",
-            `What figurative device is ${figSet.phrase}?`, figSet.device, wrong));
-        } else {
-          const figSet = pick(figData, rng);
-          q.push(createTyping("vocab_g5", "figurative_language_g5",
-            `What figurative device is ${figSet.phrase}?`, figSet.device));
-        }
-      }
-      return q;
-    },
-    synonyms_antonyms_g5: (seed?: number) => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const q: CurriculumQuestion[] = [];
-      const wordData = [
-        { word: "ancient", synonym: "old", antonym: "modern" },
-        { word: "brilliant", synonym: "bright", antonym: "dull" },
-        { word: "humble", synonym: "modest", antonym: "proud" },
-        { word: "scarce", synonym: "rare", antonym: "abundant" },
-        { word: "feeble", synonym: "weak", antonym: "strong" }
-      ];
-      for (let i = 0; i < 30; i++) {
-        if (isMCQ(5, rng)) {
-          const wordSet = pick(wordData, rng);
-          const isAntonym = rng() > 0.5;
-          if (isAntonym) {
-            const wrong = wordData.filter(w => w.word !== wordSet.word).map(w => w.antonym).slice(0, 3);
-            q.push(createMCQ("vocab_g5", "synonyms_antonyms_g5",
-              `What is the ANTONYM of '${wordSet.word}'?`, wordSet.antonym, wrong));
+          const variant = Math.floor(rng() * 3);
+          if (variant === 0) {
+            const wrong = rootData.filter(r => r.meaning !== data.meaning).map(r => r.meaning).slice(0, 3);
+            q.push(createMCQ("vocab_g5", "greek_latin_g5",
+              `The ${data.origin} root '${data.root}' means:`, data.meaning, wrong));
+          } else if (variant === 1) {
+            const wrong = rootData.filter(r => r.root !== data.root).map(r => r.root).slice(0, 3);
+            q.push(createMCQ("vocab_g5", "greek_latin_g5",
+              `Which root means '${data.meaning}'?`, data.root, wrong));
           } else {
-            const wrong = wordData.filter(w => w.word !== wordSet.word).map(w => w.synonym).slice(0, 3);
-            q.push(createMCQ("vocab_g5", "synonyms_antonyms_g5",
-              `What is the SYNONYM of '${wordSet.word}'?`, wordSet.synonym, wrong));
+            const wrong = rootData.filter(r => r.meaning !== data.meaning).map(r => r.meaning).slice(0, 3);
+            q.push(createMCQ("vocab_g5", "greek_latin_g5",
+              `What does the root in '${example}' mean?`, data.meaning, wrong));
           }
         } else {
-          const wordSet = pick(wordData, rng);
-          const isAntonym = rng() > 0.5;
-          q.push(createTyping("vocab_g5", "synonyms_antonyms_g5",
-            `Name a ${isAntonym ? "antonym" : "synonym"} of '${wordSet.word}':`,
-            isAntonym ? wordSet.antonym : wordSet.synonym));
+          if (rng() > 0.5) {
+            q.push(createTyping("vocab_g5", "greek_latin_g5",
+              `What does the root '${data.root}' mean?`, data.meaning));
+          } else {
+            q.push(createTyping("vocab_g5", "greek_latin_g5",
+              `What root in '${example}' means '${data.meaning}'?`, data.root));
+          }
         }
       }
       return q;
@@ -2243,105 +2660,142 @@ export const G5_Generators = {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
       const affixData = [
-        { affix: "multi", word: "multilingual", meaning: "many languages" },
-        { affix: "trans", word: "translate", meaning: "carry across" },
-        { affix: "ible/able", word: "responsible", meaning: "able to respond" },
-        { affix: "ment", word: "agreement", meaning: "state of agreeing" },
-        { affix: "ity", word: "stability", meaning: "quality of being stable" }
+        { affix: "un-", type: "prefix", meaning: "not", word: "unhappy", def: "not happy" },
+        { affix: "re-", type: "prefix", meaning: "again", word: "rewrite", def: "write again" },
+        { affix: "dis-", type: "prefix", meaning: "not or opposite", word: "disagree", def: "not agree" },
+        { affix: "mis-", type: "prefix", meaning: "wrong", word: "misspell", def: "spell wrongly" },
+        { affix: "pre-", type: "prefix", meaning: "before", word: "preview", def: "view before" },
+        { affix: "-tion", type: "suffix", meaning: "act or state of", word: "celebration", def: "act of celebrating" },
+        { affix: "-ment", type: "suffix", meaning: "state or result of", word: "agreement", def: "state of agreeing" },
+        { affix: "-ness", type: "suffix", meaning: "state of being", word: "happiness", def: "state of being happy" },
+        { affix: "-able", type: "suffix", meaning: "able to be", word: "comfortable", def: "able to provide comfort" },
+        { affix: "-ful", type: "suffix", meaning: "full of", word: "beautiful", def: "full of beauty" },
+        { affix: "-less", type: "suffix", meaning: "without", word: "careless", def: "without care" },
       ];
       for (let i = 0; i < 30; i++) {
+        const data = pick(affixData, rng);
         if (isMCQ(5, rng)) {
-          const data = pick(affixData, rng);
-          const wrong = ["prefix", "suffix", "root"].slice(0, 3);
-          q.push(createMCQ("vocab_g5", "prefixes_suffixes_g5",
-            `What does '${data.affix}' contribute to the meaning of '${data.word}'?`, data.meaning, wrong));
+          const variant = Math.floor(rng() * 3);
+          if (variant === 0) {
+            const wrong = affixData.filter(a => a.meaning !== data.meaning).map(a => a.meaning).slice(0, 3);
+            q.push(createMCQ("vocab_g5", "prefixes_suffixes_g5",
+              `What does the ${data.type} '${data.affix}' mean?`, data.meaning, wrong));
+          } else if (variant === 1) {
+            const wrong = affixData.filter(a => a.def !== data.def).map(a => a.def).slice(0, 3);
+            q.push(createMCQ("vocab_g5", "prefixes_suffixes_g5",
+              `What does '${data.word}' mean?`, data.def, wrong));
+          } else {
+            q.push(createMCQ("vocab_g5", "prefixes_suffixes_g5",
+              `Is '${data.affix}' a prefix or suffix?`, data.type,
+              [data.type === "prefix" ? "suffix" : "prefix", "root word", "conjunction"]));
+          }
         } else {
-          const data = pick(affixData, rng);
-          q.push(createTyping("vocab_g5", "prefixes_suffixes_g5",
-            `What does '${data.affix}' mean in '${data.word}'?`, data.meaning));
-        }
-      }
-      return q;
-    }
-  },
-  grammar_g5: {
-    apostrophes_g5: (seed?: number) => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const q: CurriculumQuestion[] = [];
-      const apostropheData = [
-        { correct: "The cat's tail is fluffy.", wrong: ["The cats tail is fluffy.", "The cats' tail is fluffy.", "The catsss tail is fluffy."] },
-        { correct: "The children's books are on the shelf.", wrong: ["The children books are on the shelf.", "The childrens books are on the shelf.", "The childs books are on the shelf."] },
-        { correct: "Sarah's pencil is red.", wrong: ["Sarahs pencil is red.", "Sarah pencil is red.", "Sarah's' pencil is red."] },
-        { correct: "The dogs' barking was loud.", wrong: ["The dogs barking was loud.", "The dogs's barking was loud.", "The dog's barking was loud."] }
-      ];
-      for (let i = 0; i < 30; i++) {
-        const data = pick(apostropheData, rng);
-        q.push(createMCQ("grammar_g5", "apostrophes_g5", "Which sentence uses apostrophes correctly?", data.correct, data.wrong));
-      }
-      return q;
-    },
-    correlative_conj_g5: (seed?: number) => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const q: CurriculumQuestion[] = [];
-      const corrData = [
-        { pair: "either...or", sentence: "___ you like apples ___ you like oranges.", wrong: ["neither...nor", "both...and", "not only...but also"] },
-        { pair: "neither...nor", sentence: "___ John ___ Mary can come to the party.", wrong: ["either...or", "both...and", "not only...but also"] },
-        { pair: "both...and", sentence: "___ Sarah ___ Tom passed the test.", wrong: ["either...or", "neither...nor", "not only...but also"] },
-        { pair: "not only...but also", sentence: "He is ___ smart ___ hardworking.", wrong: ["either...or", "both...and", "neither...nor"] }
-      ];
-      for (let i = 0; i < 30; i++) {
-        if (isMCQ(5, rng)) {
-          const data = pick(corrData, rng);
-          q.push(createMCQ("grammar_g5", "correlative_conj_g5", `Fill in: "${data.sentence}"`, data.pair, data.wrong));
-        } else {
-          const data = pick(corrData, rng);
-          q.push(createTyping("grammar_g5", "correlative_conj_g5", `Name a correlative conjunction pair:`, pick(["either...or", "neither...nor", "both...and"], rng)));
+          if (rng() > 0.5) {
+            q.push(createTyping("vocab_g5", "prefixes_suffixes_g5",
+              `What does the ${data.type} '${data.affix}' mean?`, data.meaning));
+          } else {
+            q.push(createTyping("vocab_g5", "prefixes_suffixes_g5",
+              `What does '${data.word}' mean? (${data.affix} = ${data.meaning})`, data.def));
+          }
         }
       }
       return q;
     },
-    combining_g5: (seed?: number) => {
+    figurative_language_g5: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const pairData = [
-        { sent1: "The cat was black.", sent2: "It had blue eyes.", combined: "The black cat had blue eyes." },
-        { sent1: "She likes pizza.", sent2: "She likes pasta.", combined: "She likes both pizza and pasta." },
-        { sent1: "He ran fast.", sent2: "He was tired.", combined: "Although he was tired, he ran fast." }
+      const figData = [
+        { phrase: "The world is a stage.", device: "metaphor" },
+        { phrase: "She is as brave as a lion.", device: "simile" },
+        { phrase: "The wind whispered through the trees.", device: "personification" },
+        { phrase: "I've told you a million times!", device: "hyperbole" },
+        { phrase: "The bees buzzed in the garden.", device: "onomatopoeia" },
+        { phrase: "Life is a roller coaster.", device: "metaphor" },
+        { phrase: "He was as cool as a cucumber.", device: "simile" },
+        { phrase: "The sun smiled down on us.", device: "personification" },
+        { phrase: "This bag weighs a ton!", device: "hyperbole" },
+        { phrase: "The thunder clapped overhead.", device: "onomatopoeia" },
+        { phrase: "Time is money.", device: "metaphor" },
+        { phrase: "Her smile was like sunshine.", device: "simile" },
+        { phrase: "The flowers danced in the breeze.", device: "personification" },
+        { phrase: "I could eat a horse!", device: "hyperbole" },
+        { phrase: "The snake hissed at the cat.", device: "onomatopoeia" },
       ];
+      const proverbData = [
+        { proverb: "Don't bite the hand that feeds you.", meaning: "don't harm those who help you" },
+        { proverb: "The early bird catches the worm.", meaning: "arriving early gives an advantage" },
+        { proverb: "Actions speak louder than words.", meaning: "what you do matters more than what you say" },
+        { proverb: "Don't count your chickens before they hatch.", meaning: "don't assume success before it happens" },
+        { proverb: "A penny saved is a penny earned.", meaning: "saving money is as valuable as earning it" },
+      ];
+      const allDevices = ["metaphor", "simile", "personification", "hyperbole", "onomatopoeia"];
       for (let i = 0; i < 30; i++) {
+        const useProverb = rng() < 0.2;
         if (isMCQ(5, rng)) {
-          const data = pick(pairData, rng);
-          const wrong = pairData.filter(p => p !== data).map(p => p.combined).slice(0, 3);
-          q.push(createMCQ("grammar_g5", "combining_g5", `Combine: "${data.sent1}" + "${data.sent2}"`, data.combined, wrong));
+          if (useProverb) {
+            const data = pick(proverbData, rng);
+            const wrong = proverbData.filter(p => p.meaning !== data.meaning).map(p => p.meaning).slice(0, 3);
+            q.push(createMCQ("vocab_g5", "figurative_language_g5",
+              `What does the proverb mean? "${data.proverb}"`, data.meaning, wrong));
+          } else {
+            const data = pick(figData, rng);
+            const wrong = allDevices.filter(d => d !== data.device).slice(0, 3);
+            q.push(createMCQ("vocab_g5", "figurative_language_g5",
+              `What figurative device is used? "${data.phrase}"`, data.device, wrong));
+          }
         } else {
-          const data = pick(pairData, rng);
-          q.push(createTyping("grammar_g5", "combining_g5", `Combine these sentences: "${data.sent1}" "${data.sent2}"`, data.combined));
+          if (useProverb) {
+            const data = pick(proverbData, rng);
+            q.push(createTyping("vocab_g5", "figurative_language_g5",
+              `What does this proverb mean? "${data.proverb}"`, data.meaning));
+          } else {
+            const data = pick(figData, rng);
+            q.push(createTyping("vocab_g5", "figurative_language_g5",
+              `What figurative device is: "${data.phrase}"?`, data.device));
+          }
         }
       }
       return q;
-    }
-  },
-  literary_g5: {
-    theme_g5: (seed?: number) => {
+    },
+    connotation_denotation_g5: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const themeData = [
-        { excerpt: "The boy worked hard every day and achieved his dreams despite many obstacles.", theme: "perseverance" },
-        { excerpt: "The friends stuck together through good times and bad, always supporting each other.", theme: "friendship" },
-        { excerpt: "She realized that money couldn't buy happiness; she found joy in simple things.", theme: "material things aren't everything" },
-        { excerpt: "He forgave his enemy and found peace, understanding that revenge brings more pain.", theme: "forgiveness" },
-        { excerpt: "The lost child learned to find her way home by trusting herself and her instincts.", theme: "self-reliance" }
+      const wordSets = [
+        { denotation: "spending little money", positive: "thrifty", negative: "cheap", neutral: "economical" },
+        { denotation: "thin body type", positive: "slender", negative: "skinny", neutral: "thin" },
+        { denotation: "not moving quickly", positive: "leisurely", negative: "sluggish", neutral: "slow" },
+        { denotation: "having strong opinions", positive: "confident", negative: "stubborn", neutral: "firm" },
+        { denotation: "talking a lot", positive: "outgoing", negative: "chatty", neutral: "talkative" },
+        { denotation: "old in age", positive: "mature", negative: "old", neutral: "elderly" },
+        { denotation: "having a lot of interest", positive: "curious", negative: "nosy", neutral: "inquisitive" },
+        { denotation: "using few words", positive: "concise", negative: "blunt", neutral: "brief" },
+        { denotation: "not afraid", positive: "courageous", negative: "reckless", neutral: "bold" },
       ];
       for (let i = 0; i < 30; i++) {
+        const data = pick(wordSets, rng);
         if (isMCQ(5, rng)) {
-          const data = pick(themeData, rng);
-          const wrong = ["conflict", "suspense", "mystery"].slice(0, 3);
-          q.push(createMCQ("literary_g5", "theme_g5",
-            `What is the theme shown in this passage? "${data.excerpt}"`, data.theme, wrong));
+          const variant = Math.floor(rng() * 3);
+          if (variant === 0) {
+            q.push(createMCQ("vocab_g5", "connotation_denotation_g5",
+              `Which word meaning '${data.denotation}' has a POSITIVE connotation?`, data.positive,
+              [data.negative, data.neutral, pick(wordSets.filter(w => w !== data), rng).negative]));
+          } else if (variant === 1) {
+            q.push(createMCQ("vocab_g5", "connotation_denotation_g5",
+              `Which word meaning '${data.denotation}' has a NEGATIVE connotation?`, data.negative,
+              [data.positive, data.neutral, pick(wordSets.filter(w => w !== data), rng).positive]));
+          } else {
+            q.push(createMCQ("vocab_g5", "connotation_denotation_g5",
+              `'${data.positive}' and '${data.negative}' both mean '${data.denotation}.' Which is more positive?`,
+              data.positive, [data.negative, "both are equal", "neither"]));
+          }
         } else {
-          const data = pick(themeData, rng);
-          q.push(createTyping("literary_g5", "theme_g5",
-            `Identify the theme: "${data.excerpt}"`, data.theme));
+          if (rng() > 0.5) {
+            q.push(createTyping("vocab_g5", "connotation_denotation_g5",
+              `Does '${data.negative}' have a positive or negative connotation?`, "negative"));
+          } else {
+            q.push(createTyping("vocab_g5", "connotation_denotation_g5",
+              `Does '${data.positive}' have a positive or negative connotation?`, "positive"));
+          }
         }
       }
       return q;
@@ -2352,76 +2806,227 @@ export const G5_Generators = {
 // ─── GRADE 6 GENERATORS ───────────────────────────────────────────────────
 
 export const G6_Generators = {
-  syntax_g6: {
-    active_passive_voice_g6: (seed?: number) => {
+  grammar_g6: {
+    pronoun_cases_g6: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const pairs = [
-        ["The dog ate the food", "The food was eaten by the dog"],
-        ["She wrote the book", "The book was written by her"]
+      const caseData = [
+        { sentence: "The teacher gave ___ the homework.", correct: "him", case_name: "objective", wrong: ["he", "his", "himself"] },
+        { sentence: "___ went to the store.", correct: "She", case_name: "subjective", wrong: ["Her", "Hers", "Herself"] },
+        { sentence: "The prize belongs to ___.", correct: "them", case_name: "objective", wrong: ["they", "their", "themselves"] },
+        { sentence: "___ and I went to the park.", correct: "He", case_name: "subjective", wrong: ["Him", "His", "Himself"] },
+        { sentence: "Please give the book to ___.", correct: "me", case_name: "objective", wrong: ["I", "my", "myself"] },
+        { sentence: "The package is for ___.", correct: "us", case_name: "objective", wrong: ["we", "our", "ourselves"] },
+        { sentence: "___ wrote the letter.", correct: "I", case_name: "subjective", wrong: ["Me", "My", "Myself"] },
+        { sentence: "The dog followed ___ home.", correct: "her", case_name: "objective", wrong: ["she", "hers", "herself"] },
+      ];
+      const pronounCases = [
+        { pronoun: "I", case_name: "subjective" }, { pronoun: "me", case_name: "objective" }, { pronoun: "my", case_name: "possessive" },
+        { pronoun: "he", case_name: "subjective" }, { pronoun: "him", case_name: "objective" }, { pronoun: "his", case_name: "possessive" },
+        { pronoun: "she", case_name: "subjective" }, { pronoun: "her", case_name: "objective" }, { pronoun: "hers", case_name: "possessive" },
+        { pronoun: "they", case_name: "subjective" }, { pronoun: "them", case_name: "objective" }, { pronoun: "their", case_name: "possessive" },
+        { pronoun: "we", case_name: "subjective" }, { pronoun: "us", case_name: "objective" }, { pronoun: "our", case_name: "possessive" },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(6, rng)) {
-          const [active, passive] = pick(pairs, rng);
-          const wrong = ["It was wrote", "She was written", "The book wrote"];
-          q.push(createMCQ("syntax_g6", "active_passive_voice_g6",
-            `Which is PASSIVE? "${active}"`, passive, wrong));
+          if (rng() > 0.4) {
+            const data = pick(caseData, rng);
+            q.push(createMCQ("grammar_g6", "pronoun_cases_g6",
+              `Which pronoun (${data.case_name} case) fills the blank? "${data.sentence}"`, data.correct, data.wrong));
+          } else {
+            const pc = pick(pronounCases, rng);
+            const wrong = ["subjective", "objective", "possessive"].filter(c => c !== pc.case_name);
+            q.push(createMCQ("grammar_g6", "pronoun_cases_g6",
+              `What case is the pronoun '${pc.pronoun}'?`, pc.case_name, wrong));
+          }
         } else {
-          const [active] = pick(pairs, rng);
-          q.push(createTyping("syntax_g6", "active_passive_voice_g6",
-            `Convert to passive: "${active}"`,
-            ["was eaten", "was written"]));
-        }
-      }
-      return q;
-    }
-  },
-  literary_g6: {
-    literary_devices_g6: (seed?: number) => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const q: CurriculumQuestion[] = [];
-      // Pre-paired: device with valid examples (VALIDÁLT — példa valóban azt az elemet mutatja)
-      const deviceData = [
-        { device: "alliteration", examples: ["'Peter Piper picked peppers'", "'Sally sells seashells'", "'The big brown bear'", "'Silly Sally swam swiftly'"] },
-        { device: "metaphor", examples: ["'Time is money'", "'The world is a stage'", "'His heart is ice'", "'She is a flower'"] },
-        { device: "simile", examples: ["'Fast as lightning'", "'Bright like a star'", "'Heavy as lead'", "'Sleep like a baby'"] },
-        { device: "personification", examples: ["'The wind whispered'", "'The stars danced'", "'The tree swayed gracefully'", "'The sun smiled down'"] },
-        { device: "hyperbole", examples: ["'I've told you a million times'", "'I'm dying of hunger'", "'That's the best thing ever'", "'I could sleep for a year'"] },
-      ];
-      const devices = deviceData.map(d => d.device);
-      for (let i = 0; i < 30; i++) {
-        if (isMCQ(6, rng)) {
-          const deviceSet = pick(deviceData, rng);
-          const example = pick(deviceSet.examples, rng);
-          const wrong = devices.filter(d => d !== deviceSet.device).slice(0, 3);
-          q.push(createMCQ("literary_g6", "literary_devices_g6",
-            `What device is ${example}?`, deviceSet.device, wrong));
-        } else {
-          q.push(createTyping("literary_g6", "literary_devices_g6",
-            "Name a literary device:", pick(devices, rng)));
+          if (rng() > 0.5) {
+            const data = pick(caseData, rng);
+            q.push(createTyping("grammar_g6", "pronoun_cases_g6",
+              `Fill in the ${data.case_name} pronoun: "${data.sentence}"`, data.correct));
+          } else {
+            const pc = pick(pronounCases, rng);
+            q.push(createTyping("grammar_g6", "pronoun_cases_g6",
+              `What case is '${pc.pronoun}'? (subjective/objective/possessive)`, pc.case_name));
+          }
         }
       }
       return q;
     },
-    character_traits_g6: (seed?: number) => {
+    intensive_pronouns_g6: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const characterData = [
-        { description: "She always helps others and shows kindness.", trait: "compassionate", wrong: ["selfish", "arrogant", "lazy"] },
-        { description: "He never gives up, even when faced with challenges.", trait: "determined", wrong: ["fearful", "stubborn", "weak"] },
-        { description: "She speaks truthfully and keeps her promises.", trait: "honest", wrong: ["deceitful", "unreliable", "sneaky"] },
-        { description: "He remains calm and thinks carefully before acting.", trait: "wise", wrong: ["impulsive", "foolish", "hasty"] },
-        { description: "She faces difficult situations with courage.", trait: "brave", wrong: ["timid", "cowardly", "nervous"] }
+      const intensiveData = [
+        { correct: "She herself baked the cake.", wrong: "Herself baked the cake.", pronoun: "herself", emphasizes: "She" },
+        { correct: "I myself saw the accident.", wrong: "Myself saw the accident.", pronoun: "myself", emphasizes: "I" },
+        { correct: "The president himself signed the letter.", wrong: "Himself signed the letter.", pronoun: "himself", emphasizes: "The president" },
+        { correct: "They themselves admitted the mistake.", wrong: "Themselves admitted the mistake.", pronoun: "themselves", emphasizes: "They" },
+        { correct: "We ourselves painted the room.", wrong: "Ourselves painted the room.", pronoun: "ourselves", emphasizes: "We" },
+        { correct: "You yourself said it was fine.", wrong: "Yourself said it was fine.", pronoun: "yourself", emphasizes: "You" },
+      ];
+      const reflexiveData = [
+        { sentence: "She hurt herself.", type: "reflexive", reason: "the pronoun receives the action" },
+        { sentence: "He taught himself to play guitar.", type: "reflexive", reason: "the pronoun receives the action" },
+        { sentence: "She herself wrote the poem.", type: "intensive", reason: "the pronoun emphasizes the subject" },
+        { sentence: "The king himself visited the village.", type: "intensive", reason: "the pronoun emphasizes the subject" },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(6, rng)) {
-          const data = pick(characterData, rng);
-          q.push(createMCQ("literary_g6", "character_traits_g6",
-            `What character trait does this show? "${data.description}"`, data.trait, data.wrong));
+          const variant = Math.floor(rng() * 3);
+          if (variant === 0) {
+            const data = pick(intensiveData, rng);
+            q.push(createMCQ("grammar_g6", "intensive_pronouns_g6",
+              "Which sentence uses an INTENSIVE pronoun correctly?", data.correct,
+              [data.wrong, pick(intensiveData.filter(d => d !== data), rng).wrong,
+                pick(intensiveData.filter(d => d !== data), rng).wrong]));
+          } else if (variant === 1) {
+            const data = pick(reflexiveData, rng);
+            q.push(createMCQ("grammar_g6", "intensive_pronouns_g6",
+              `Is the -self pronoun in this sentence REFLEXIVE or INTENSIVE? "${data.sentence}"`, data.type,
+              [data.type === "intensive" ? "reflexive" : "intensive", "possessive", "demonstrative"]));
+          } else {
+            const data = pick(intensiveData, rng);
+            q.push(createMCQ("grammar_g6", "intensive_pronouns_g6",
+              `In "${data.correct}", what does '${data.pronoun}' emphasize?`, data.emphasizes,
+              ["the object", "the verb", "the adverb"]));
+          }
         } else {
-          const data = pick(characterData, rng);
-          q.push(createTyping("literary_g6", "character_traits_g6",
-            `Identify the trait: "${data.description}"`, data.trait));
+          if (rng() > 0.5) {
+            const data = pick(reflexiveData, rng);
+            q.push(createTyping("grammar_g6", "intensive_pronouns_g6",
+              `Is the -self pronoun REFLEXIVE or INTENSIVE? "${data.sentence}"`, data.type));
+          } else {
+            const data = pick(intensiveData, rng);
+            q.push(createTyping("grammar_g6", "intensive_pronouns_g6",
+              `What intensive pronoun fits? "___ baked the cake." (emphasizing she)`, data.pronoun));
+          }
+        }
+      }
+      return q;
+    },
+    pronoun_agreement_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const agreementData = [
+        { correct: "Each student must bring their notebook.", incorrect: "Each student must bring its notebook.", rule: "singular indefinite uses their (accepted)" },
+        { correct: "The team celebrated their victory.", incorrect: "The team celebrated its victory.", rule: "collective noun with plural sense" },
+        { correct: "Everyone should do their best.", incorrect: "Everyone should do his best.", rule: "gender-neutral singular they" },
+        { correct: "Neither of the boys brought his lunch.", incorrect: "Neither of the boys brought their lunch.", rule: "neither + singular pronoun" },
+        { correct: "The dogs wagged their tails.", incorrect: "The dogs wagged its tails.", rule: "plural subject needs plural pronoun" },
+        { correct: "Somebody left their bag here.", incorrect: "Somebody left his bag here.", rule: "indefinite pronoun with their" },
+        { correct: "Both girls finished their homework.", incorrect: "Both girls finished her homework.", rule: "both needs plural pronoun" },
+        { correct: "The cat cleaned its paws.", incorrect: "The cat cleaned their paws.", rule: "singular animal uses its" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(agreementData, rng);
+        if (isMCQ(6, rng)) {
+          if (rng() > 0.5) {
+            q.push(createMCQ("grammar_g6", "pronoun_agreement_g6",
+              "Which sentence has correct pronoun-antecedent agreement?", data.correct,
+              [data.incorrect,
+                pick(agreementData.filter(d => d !== data), rng).incorrect,
+                pick(agreementData.filter(d => d !== data), rng).incorrect]));
+          } else {
+            q.push(createMCQ("grammar_g6", "pronoun_agreement_g6",
+              `Why is this correct? "${data.correct}"`, data.rule,
+              agreementData.filter(d => d.rule !== data.rule).map(d => d.rule).slice(0, 3)));
+          }
+        } else {
+          if (rng() > 0.5) {
+            q.push(createTyping("grammar_g6", "pronoun_agreement_g6",
+              `Fix the pronoun agreement: "${data.incorrect}"`, data.correct));
+          } else {
+            q.push(createTyping("grammar_g6", "pronoun_agreement_g6",
+              `Is this correct? (yes/no) "${data.correct}"`, "yes"));
+          }
+        }
+      }
+      return q;
+    },
+    pronoun_shifts_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const shiftData = [
+        { sentence: "When one exercises, you feel better.", hasShift: true, fix: "When one exercises, one feels better.", problem: "shifts from one to you" },
+        { sentence: "When you exercise, you feel better.", hasShift: false, fix: "" },
+        { sentence: "If a student studies, they will succeed.", hasShift: false, fix: "" },
+        { sentence: "When a person votes, you make a difference.", hasShift: true, fix: "When a person votes, they make a difference.", problem: "shifts from a person to you" },
+        { sentence: "I love hiking because you get fresh air.", hasShift: true, fix: "I love hiking because I get fresh air.", problem: "shifts from I to you" },
+        { sentence: "We went to the store, and you could find everything.", hasShift: true, fix: "We went to the store, and we could find everything.", problem: "shifts from we to you" },
+        { sentence: "She likes reading because she learns new things.", hasShift: false, fix: "" },
+        { sentence: "They practice daily, and you can see improvement.", hasShift: true, fix: "They practice daily, and they can see improvement.", problem: "shifts from they to you" },
+        { sentence: "He studies hard, and he gets good grades.", hasShift: false, fix: "" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(shiftData, rng);
+        if (isMCQ(6, rng)) {
+          if (rng() > 0.5) {
+            q.push(createMCQ("grammar_g6", "pronoun_shifts_g6",
+              `Does this sentence have an inappropriate pronoun shift? "${data.sentence}"`,
+              data.hasShift ? "yes" : "no", data.hasShift ? ["no", "cannot tell", "maybe"] : ["yes", "cannot tell", "maybe"]));
+          } else if (data.hasShift) {
+            const wrong = shiftData.filter(d => d.hasShift && d.fix !== data.fix).map(d => d.fix).slice(0, 2);
+            wrong.push(data.sentence);
+            q.push(createMCQ("grammar_g6", "pronoun_shifts_g6",
+              `Which fixes the pronoun shift? "${data.sentence}"`, data.fix, wrong));
+          } else {
+            const shifted = pick(shiftData.filter(d => d.hasShift), rng);
+            q.push(createMCQ("grammar_g6", "pronoun_shifts_g6",
+              "Which sentence has an INAPPROPRIATE pronoun shift?", shifted.sentence,
+              shiftData.filter(d => !d.hasShift).map(d => d.sentence).slice(0, 3)));
+          }
+        } else {
+          if (data.hasShift) {
+            q.push(createTyping("grammar_g6", "pronoun_shifts_g6",
+              `Fix the pronoun shift: "${data.sentence}"`, data.fix));
+          } else {
+            q.push(createTyping("grammar_g6", "pronoun_shifts_g6",
+              `Does this sentence have a pronoun shift? (yes/no) "${data.sentence}"`, "no"));
+          }
+        }
+      }
+      return q;
+    },
+    sentence_patterns_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const patternData = [
+        { original: "She sat down. She was tired. She was hungry.", revised: "Tired and hungry, she sat down.", technique: "combining with participial phrase" },
+        { original: "The dog barked. The dog ran. The dog jumped.", revised: "The dog barked, ran, and jumped.", technique: "combining predicates" },
+        { original: "He is smart. He studies hard. He gets good grades.", revised: "Because he is smart and studies hard, he gets good grades.", technique: "subordination" },
+        { original: "It was raining. We stayed inside. We played games.", revised: "Since it was raining, we stayed inside and played games.", technique: "subordination with predicate combining" },
+        { original: "The sunset was beautiful. It had red and orange colors.", revised: "The sunset, with its red and orange colors, was beautiful.", technique: "embedding with appositives" },
+        { original: "She opened the door. She saw a surprise.", revised: "Opening the door, she saw a surprise.", technique: "participial phrase" },
+      ];
+      const sentenceStarts = [
+        { type: "subject first", example: "The dog ran across the yard.", label: "subject-verb" },
+        { type: "adverb first", example: "Quickly, the dog ran across the yard.", label: "adverb opening" },
+        { type: "prepositional phrase", example: "Across the yard, the dog ran.", label: "prepositional phrase opening" },
+        { type: "participial phrase", example: "Running fast, the dog crossed the yard.", label: "participial phrase opening" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(6, rng)) {
+          if (rng() > 0.5) {
+            const data = pick(patternData, rng);
+            const wrong = patternData.filter(p => p.revised !== data.revised).map(p => p.revised).slice(0, 3);
+            q.push(createMCQ("grammar_g6", "sentence_patterns_g6",
+              `Which revision VARIES the sentence pattern? Original: "${data.original}"`, data.revised, wrong));
+          } else {
+            const data = pick(sentenceStarts, rng);
+            const wrong = sentenceStarts.filter(s => s.label !== data.label).map(s => s.label).slice(0, 3);
+            q.push(createMCQ("grammar_g6", "sentence_patterns_g6",
+              `What type of opening does this sentence use? "${data.example}"`, data.label, wrong));
+          }
+        } else {
+          if (rng() > 0.5) {
+            const data = pick(patternData, rng);
+            q.push(createTyping("grammar_g6", "sentence_patterns_g6",
+              `Combine into one varied sentence: "${data.original}"`, data.revised));
+          } else {
+            const data = pick(patternData, rng);
+            q.push(createTyping("grammar_g6", "sentence_patterns_g6",
+              `What technique was used? "${data.original}" became "${data.revised}"`, data.technique));
+          }
         }
       }
       return q;
@@ -2431,23 +3036,56 @@ export const G6_Generators = {
     synonyms_homographs_g6: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const wordPairData = [
-        { pair: "brilliant", syn1: "bright", syn2: "intelligent", sentence: "The ___ light filled the room." },
-        { pair: "graceful", syn1: "elegant", syn2: "moving with poise", sentence: "She was a ___ dancer." },
-        { pair: "profound", syn1: "deep", syn2: "wise and meaningful", sentence: "He made a ___ observation about life." },
-        { pair: "vivid", syn1: "bright colors", syn2: "clear and sharp", sentence: "She had a ___ memory of the event." },
+      const homographData = [
+        { word: "bat", meaning1: "a flying mammal", meaning2: "a stick for hitting a ball" },
+        { word: "bark", meaning1: "the sound a dog makes", meaning2: "the outer covering of a tree" },
+        { word: "lead", meaning1: "to guide or show the way", meaning2: "a heavy metal" },
+        { word: "bow", meaning1: "to bend forward", meaning2: "a weapon for shooting arrows" },
+        { word: "tear", meaning1: "a drop from the eye", meaning2: "to rip apart" },
+        { word: "wind", meaning1: "moving air", meaning2: "to turn or twist" },
+        { word: "close", meaning1: "near", meaning2: "to shut" },
+        { word: "dove", meaning1: "a type of bird", meaning2: "past tense of dive" },
+        { word: "present", meaning1: "a gift", meaning2: "to show or introduce" },
+        { word: "record", meaning1: "a written account", meaning2: "to capture on video or audio" },
+      ];
+      const synData = [
+        { word: "brilliant", synonym: "bright", context: "The ___ light filled the room." },
+        { word: "graceful", synonym: "elegant", context: "She was a ___ dancer." },
+        { word: "profound", synonym: "deep", context: "He made a ___ observation." },
+        { word: "vivid", synonym: "bright", context: "She had a ___ memory of the event." },
+        { word: "meticulous", synonym: "careful", context: "She was ___ in her work." },
       ];
       for (let i = 0; i < 30; i++) {
+        const useHomograph = rng() > 0.4;
         if (isMCQ(6, rng)) {
-          const wordSet = pick(wordPairData, rng);
-          const synonym = pick([wordSet.syn1, wordSet.syn2], rng);
-          const wrong = ["opposite meaning", "unknown word", "too difficult"].slice(0, 3);
-          q.push(createMCQ("vocab_g6", "synonyms_homographs_g6",
-            `What is a synonym of '${wordSet.pair}' in context?`, synonym, wrong));
+          if (useHomograph) {
+            const data = pick(homographData, rng);
+            if (rng() > 0.5) {
+              const wrong = homographData.filter(h => h.word !== data.word).map(h => `${h.word} (${h.meaning1})`).slice(0, 3);
+              q.push(createMCQ("vocab_g6", "synonyms_homographs_g6",
+                `Which pair are HOMOGRAPHS (same spelling, different meaning)?`,
+                `${data.word} (${data.meaning1}) / ${data.word} (${data.meaning2})`, wrong));
+            } else {
+              q.push(createMCQ("vocab_g6", "synonyms_homographs_g6",
+                `The word '${data.word}' is a homograph. Which is one of its meanings?`, data.meaning1,
+                homographData.filter(h => h.word !== data.word).map(h => h.meaning1).slice(0, 3)));
+            }
+          } else {
+            const data = pick(synData, rng);
+            const wrong = synData.filter(s => s.synonym !== data.synonym).map(s => s.synonym).slice(0, 3);
+            q.push(createMCQ("vocab_g6", "synonyms_homographs_g6",
+              `What is a synonym of '${data.word}' in: "${data.context}"?`, data.synonym, wrong));
+          }
         } else {
-          const wordSet = pick(wordPairData, rng);
-          q.push(createTyping("vocab_g6", "synonyms_homographs_g6",
-            `What is a synonym of '${wordSet.pair}'?`, [wordSet.syn1, wordSet.syn2]));
+          if (useHomograph) {
+            const data = pick(homographData, rng);
+            q.push(createTyping("vocab_g6", "synonyms_homographs_g6",
+              `Give one meaning of the homograph '${data.word}':`, [data.meaning1, data.meaning2]));
+          } else {
+            const data = pick(synData, rng);
+            q.push(createTyping("vocab_g6", "synonyms_homographs_g6",
+              `What is a synonym of '${data.word}'?`, data.synonym));
+          }
         }
       }
       return q;
@@ -2456,52 +3094,75 @@ export const G6_Generators = {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
       const analogyData = [
-        { analogy: "Hand is to arm as foot is to", answer: "leg", wrong: ["shoe", "toe", "ankle"] },
-        { analogy: "Teacher is to student as doctor is to", answer: "patient", wrong: ["hospital", "nurse", "medicine"] },
-        { analogy: "Book is to author as painting is to", answer: "artist", wrong: ["canvas", "museum", "brush"] },
-        { analogy: "Small is to big as cold is to", answer: "hot", wrong: ["warm", "cool", "ice"] },
-        { analogy: "Puppy is to dog as kitten is to", answer: "cat", wrong: ["mouse", "animal", "pet"] },
-        { analogy: "Inch is to foot as second is to", answer: "minute", wrong: ["hour", "day", "time"] },
+        { analogy: "Hand is to arm as foot is to ___.", answer: "leg", wrong: ["shoe", "toe", "ankle"], relationship: "part to whole" },
+        { analogy: "Teacher is to student as doctor is to ___.", answer: "patient", wrong: ["hospital", "nurse", "medicine"], relationship: "person to recipient" },
+        { analogy: "Book is to author as painting is to ___.", answer: "artist", wrong: ["canvas", "museum", "brush"], relationship: "creation to creator" },
+        { analogy: "Small is to big as cold is to ___.", answer: "hot", wrong: ["warm", "cool", "ice"], relationship: "antonym" },
+        { analogy: "Puppy is to dog as kitten is to ___.", answer: "cat", wrong: ["mouse", "animal", "pet"], relationship: "young to adult" },
+        { analogy: "Inch is to foot as second is to ___.", answer: "minute", wrong: ["hour", "day", "time"], relationship: "smaller unit to larger unit" },
+        { analogy: "Pen is to write as knife is to ___.", answer: "cut", wrong: ["sharp", "fork", "slice"], relationship: "tool to function" },
+        { analogy: "Eye is to see as ear is to ___.", answer: "hear", wrong: ["sound", "nose", "music"], relationship: "organ to function" },
+        { analogy: "Fish is to swim as bird is to ___.", answer: "fly", wrong: ["wing", "nest", "feather"], relationship: "animal to movement" },
+        { analogy: "Glove is to hand as sock is to ___.", answer: "foot", wrong: ["shoe", "leg", "toe"], relationship: "clothing to body part" },
       ];
       for (let i = 0; i < 30; i++) {
+        const data = pick(analogyData, rng);
         if (isMCQ(6, rng)) {
-          const analogySet = pick(analogyData, rng);
-          q.push(createMCQ("vocab_g6", "analogies_g6",
-            analogySet.analogy, analogySet.answer, analogySet.wrong));
+          if (rng() > 0.3) {
+            q.push(createMCQ("vocab_g6", "analogies_g6", data.analogy, data.answer, data.wrong));
+          } else {
+            q.push(createMCQ("vocab_g6", "analogies_g6",
+              `What is the RELATIONSHIP in: "${data.analogy}"`, data.relationship,
+              analogyData.filter(a => a.relationship !== data.relationship).map(a => a.relationship).slice(0, 3)));
+          }
         } else {
-          const analogySet = pick(analogyData, rng);
-          q.push(createTyping("vocab_g6", "analogies_g6",
-            analogySet.analogy, analogySet.answer));
+          q.push(createTyping("vocab_g6", "analogies_g6", data.analogy, data.answer));
         }
       }
       return q;
     },
-    synonyms_antonyms_g6: (seed?: number) => {
+    connotation_g6: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const wordData = [
-        { word: "meticulous", synonym: "careful", antonym: "careless" },
-        { word: "tenacious", synonym: "persistent", antonym: "quitter" },
-        { word: "benevolent", synonym: "kind", antonym: "cruel" },
-        { word: "sagacious", synonym: "wise", antonym: "foolish" }
+      const connotData = [
+        { words: ["stubborn", "firm", "determined", "confident"], most_negative: "stubborn", most_positive: "confident", denotation: "not easily changing one's mind" },
+        { words: ["cheap", "thrifty", "stingy", "economical"], most_negative: "stingy", most_positive: "thrifty", denotation: "careful with money" },
+        { words: ["nosy", "curious", "inquisitive", "prying"], most_negative: "prying", most_positive: "inquisitive", denotation: "wanting to know things" },
+        { words: ["childish", "youthful", "immature", "playful"], most_negative: "childish", most_positive: "youthful", denotation: "having qualities of youth" },
+        { words: ["skinny", "slender", "scrawny", "lean"], most_negative: "scrawny", most_positive: "slender", denotation: "thin body type" },
+        { words: ["chatty", "talkative", "articulate", "gossipy"], most_negative: "gossipy", most_positive: "articulate", denotation: "speaking a lot" },
+        { words: ["aggressive", "assertive", "pushy", "bold"], most_negative: "pushy", most_positive: "bold", denotation: "taking strong action" },
+        { words: ["old", "vintage", "ancient", "outdated"], most_negative: "outdated", most_positive: "vintage", denotation: "not new" },
       ];
       for (let i = 0; i < 30; i++) {
+        const data = pick(connotData, rng);
         if (isMCQ(6, rng)) {
-          const wordSet = pick(wordData, rng);
-          const isAntonym = rng() > 0.5;
-          if (isAntonym) {
-            const wrong = wordData.filter(w => w.word !== wordSet.word).map(w => w.antonym).slice(0, 3);
-            q.push(createMCQ("vocab_g6", "synonyms_antonyms_g6", `What is the ANTONYM of '${wordSet.word}'?`, wordSet.antonym, wrong));
+          const variant = Math.floor(rng() * 3);
+          if (variant === 0) {
+            q.push(createMCQ("vocab_g6", "connotation_g6",
+              `Which word has the most NEGATIVE connotation?`, data.most_negative,
+              data.words.filter(w => w !== data.most_negative).slice(0, 3)));
+          } else if (variant === 1) {
+            q.push(createMCQ("vocab_g6", "connotation_g6",
+              `Which word has the most POSITIVE connotation?`, data.most_positive,
+              data.words.filter(w => w !== data.most_positive).slice(0, 3)));
           } else {
-            const wrong = wordData.filter(w => w.word !== wordSet.word).map(w => w.synonym).slice(0, 3);
-            q.push(createMCQ("vocab_g6", "synonyms_antonyms_g6", `What is the SYNONYM of '${wordSet.word}'?`, wordSet.synonym, wrong));
+            const word = pick(data.words, rng);
+            const isNeg = word === data.most_negative;
+            const isPos = word === data.most_positive;
+            const connotation = isNeg ? "negative" : isPos ? "positive" : "neutral";
+            q.push(createMCQ("vocab_g6", "connotation_g6",
+              `What connotation does '${word}' have?`, connotation,
+              ["positive", "negative", "neutral"].filter(c => c !== connotation)));
           }
         } else {
-          const wordSet = pick(wordData, rng);
-          const isAntonym = rng() > 0.5;
-          q.push(createTyping("vocab_g6", "synonyms_antonyms_g6",
-            `Name a ${isAntonym ? "antonym" : "synonym"} of '${wordSet.word}':`,
-            isAntonym ? wordSet.antonym : wordSet.synonym));
+          if (rng() > 0.5) {
+            q.push(createTyping("vocab_g6", "connotation_g6",
+              `Which has the most negative connotation: ${data.words.join(", ")}?`, data.most_negative));
+          } else {
+            q.push(createTyping("vocab_g6", "connotation_g6",
+              `Which has the most positive connotation: ${data.words.join(", ")}?`, data.most_positive));
+          }
         }
       }
       return q;
@@ -2510,58 +3171,374 @@ export const G6_Generators = {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
       const wordData = [
-        { word: "curriculum", meaning: "courses offered by a school" },
-        { word: "diverse", meaning: "varied or different" },
-        { word: "analyze", meaning: "examine closely and in detail" },
-        { word: "hypothesis", meaning: "proposed explanation" },
-        { word: "evaluate", meaning: "assess the value or quality" }
+        { word: "analyze", meaning: "examine closely and in detail", context: "science", sentence: "We need to ___ the data from the experiment." },
+        { word: "evaluate", meaning: "assess the value or quality", context: "any subject", sentence: "The teacher asked us to ___ the author's argument." },
+        { word: "hypothesis", meaning: "a proposed explanation to be tested", context: "science", sentence: "Our ___ was that plants grow faster with more light." },
+        { word: "democracy", meaning: "government by the people", context: "social studies", sentence: "The United States is a ___." },
+        { word: "diverse", meaning: "varied or different", context: "social studies", sentence: "Our school has a ___ student body." },
+        { word: "conclude", meaning: "to reach a decision by reasoning", context: "any subject", sentence: "Based on the evidence, we can ___ that the theory is correct." },
+        { word: "infer", meaning: "to deduce from evidence", context: "reading", sentence: "We can ___ from the clues that the character is nervous." },
+        { word: "perspective", meaning: "a point of view", context: "reading/social studies", sentence: "The author writes from a first-person ___." },
+        { word: "elaborate", meaning: "to explain in more detail", context: "writing", sentence: "Please ___ on your answer with examples." },
+        { word: "significant", meaning: "important or meaningful", context: "any subject", sentence: "The discovery was ___ for medical science." },
       ];
       for (let i = 0; i < 30; i++) {
+        const data = pick(wordData, rng);
         if (isMCQ(6, rng)) {
-          const data = pick(wordData, rng);
-          const wrong = ["irrelevant", "temporal", "hypothetical"].slice(0, 3);
-          q.push(createMCQ("vocab_g6", "academic_vocab_g6", `What does '${data.word}' mean?`, data.meaning, wrong));
+          const variant = Math.floor(rng() * 3);
+          if (variant === 0) {
+            const wrong = wordData.filter(w => w.meaning !== data.meaning).map(w => w.meaning).slice(0, 3);
+            q.push(createMCQ("vocab_g6", "academic_vocab_g6",
+              `What does '${data.word}' mean?`, data.meaning, wrong));
+          } else if (variant === 1) {
+            const wrong = wordData.filter(w => w.word !== data.word).map(w => w.word).slice(0, 3);
+            q.push(createMCQ("vocab_g6", "academic_vocab_g6",
+              `Which word means '${data.meaning}'?`, data.word, wrong));
+          } else {
+            const wrong = wordData.filter(w => w.word !== data.word).map(w => w.word).slice(0, 3);
+            q.push(createMCQ("vocab_g6", "academic_vocab_g6",
+              `Fill in: "${data.sentence}"`, data.word, wrong));
+          }
         } else {
-          const data = pick(wordData, rng);
-          q.push(createTyping("vocab_g6", "academic_vocab_g6", `Define '${data.word}':`, data.meaning));
+          if (rng() > 0.5) {
+            q.push(createTyping("vocab_g6", "academic_vocab_g6",
+              `Define '${data.word}':`, data.meaning));
+          } else {
+            q.push(createTyping("vocab_g6", "academic_vocab_g6",
+              `What academic word means '${data.meaning}'?`, data.word));
+          }
+        }
+      }
+      return q;
+    },
+    greek_latin_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const rootData = [
+        { root: "graph", origin: "Greek", meaning: "write", examples: ["biography", "autograph", "paragraph", "graphite"] },
+        { root: "auto", origin: "Greek", meaning: "self", examples: ["automobile", "automatic", "autobiography", "autonomy"] },
+        { root: "bene", origin: "Latin", meaning: "good", examples: ["benefit", "benevolent", "benediction", "benign"] },
+        { root: "mal", origin: "Latin", meaning: "bad", examples: ["malfunction", "malicious", "malnutrition", "malware"] },
+        { root: "micro", origin: "Greek", meaning: "small", examples: ["microscope", "microphone", "microbe", "microchip"] },
+        { root: "macro", origin: "Greek", meaning: "large", examples: ["macroeconomics", "macroscopic", "macro"] },
+        { root: "cred", origin: "Latin", meaning: "believe", examples: ["credit", "incredible", "credentials", "creed"] },
+        { root: "rupt", origin: "Latin", meaning: "break", examples: ["interrupt", "erupt", "bankrupt", "corrupt"] },
+        { root: "spect", origin: "Latin", meaning: "look", examples: ["inspect", "spectacle", "respect", "perspective"] },
+        { root: "tract", origin: "Latin", meaning: "pull or drag", examples: ["attract", "tractor", "extract", "subtract"] },
+        { root: "morph", origin: "Greek", meaning: "form or shape", examples: ["metamorphosis", "morphology", "amorphous"] },
+        { root: "path", origin: "Greek", meaning: "feeling", examples: ["sympathy", "empathy", "apathy", "pathetic"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(rootData, rng);
+        const example = pick(data.examples, rng);
+        if (isMCQ(6, rng)) {
+          if (rng() > 0.5) {
+            const wrong = rootData.filter(r => r.meaning !== data.meaning).map(r => r.meaning).slice(0, 3);
+            q.push(createMCQ("vocab_g6", "greek_latin_g6",
+              `The ${data.origin} root '${data.root}' means:`, data.meaning, wrong));
+          } else {
+            const wrong = rootData.filter(r => r.root !== data.root).map(r => r.root).slice(0, 3);
+            q.push(createMCQ("vocab_g6", "greek_latin_g6",
+              `What root in '${example}' means '${data.meaning}'?`, data.root, wrong));
+          }
+        } else {
+          if (rng() > 0.5) {
+            q.push(createTyping("vocab_g6", "greek_latin_g6",
+              `What does the root '${data.root}' mean?`, data.meaning));
+          } else {
+            q.push(createTyping("vocab_g6", "greek_latin_g6",
+              `What ${data.origin} root in '${example}' means '${data.meaning}'?`, data.root));
+          }
         }
       }
       return q;
     }
   },
-  grammar_g6: {
-    articles_g6: (seed?: number) => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const q: CurriculumQuestion[] = [];
-      const articleData = [
-        { correct: "I saw a movie and an apple.", wrong: ["I saw a movie and a apple.", "I saw an movie and an apple.", "I saw the movie and the apple."] },
-        { correct: "The teacher gave the class their homework.", wrong: ["A teacher gave a class their homework.", "An teacher gave an class their homework.", "The teacher gave a class their homework."] },
-        { correct: "She is an engineer and a musician.", wrong: ["She is a engineer and a musician.", "She is the engineer and the musician.", "She is an engineer and an musician."] }
-      ];
-      for (let i = 0; i < 30; i++) {
-        const data = pick(articleData, rng);
-        q.push(createMCQ("grammar_g6", "articles_g6", "Which sentence uses articles correctly?", data.correct, data.wrong));
-      }
-      return q;
-    },
+  structures_g6: {
     clauses_g6: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
       const clauseData = [
-        { type: "dependent", example: "because it was raining", id: "dep1" },
-        { type: "dependent", example: "when she arrived", id: "dep2" },
-        { type: "independent", example: "The dog barked loudly", id: "ind1" },
-        { type: "independent", example: "He studied all night", id: "ind2" }
+        { clause: "because she was tired", type: "dependent", reason: "starts with subordinating conjunction, cannot stand alone" },
+        { clause: "when the bell rang", type: "dependent", reason: "starts with subordinating conjunction" },
+        { clause: "although he studied hard", type: "dependent", reason: "starts with subordinating conjunction" },
+        { clause: "if it rains tomorrow", type: "dependent", reason: "starts with subordinating conjunction" },
+        { clause: "while we were eating", type: "dependent", reason: "starts with subordinating conjunction" },
+        { clause: "The dog barked loudly", type: "independent", reason: "expresses a complete thought" },
+        { clause: "He studied all night", type: "independent", reason: "expresses a complete thought" },
+        { clause: "She finished the project", type: "independent", reason: "expresses a complete thought" },
+        { clause: "The sun was shining brightly", type: "independent", reason: "expresses a complete thought" },
+        { clause: "They won the championship", type: "independent", reason: "expresses a complete thought" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(clauseData, rng);
+        if (isMCQ(6, rng)) {
+          if (rng() > 0.5) {
+            q.push(createMCQ("structures_g6", "clauses_g6",
+              `Is this an INDEPENDENT or DEPENDENT clause? "${data.clause}"`, data.type,
+              [data.type === "independent" ? "dependent" : "independent", "phrase", "fragment"]));
+          } else {
+            const depClauses = clauseData.filter(c => c.type === "dependent");
+            const indClauses = clauseData.filter(c => c.type === "independent");
+            const target = rng() > 0.5 ? "dependent" : "independent";
+            const correct = pick(target === "dependent" ? depClauses : indClauses, rng);
+            const wrongPool = target === "dependent" ? indClauses : depClauses;
+            q.push(createMCQ("structures_g6", "clauses_g6",
+              `Which is a ${target.toUpperCase()} clause?`, correct.clause,
+              wrongPool.map(c => c.clause).slice(0, 3)));
+          }
+        } else {
+          q.push(createTyping("structures_g6", "clauses_g6",
+            `Is this independent or dependent? "${data.clause}"`, data.type));
+        }
+      }
+      return q;
+    },
+    complex_sentences_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentTypes = [
+        { sentence: "She went home.", type: "simple" },
+        { sentence: "She went home, and he stayed at school.", type: "compound" },
+        { sentence: "Although it rained, she went outside.", type: "complex" },
+        { sentence: "Although it rained, she went out, and she got wet.", type: "compound-complex" },
+        { sentence: "The cat sat on the mat while the dog slept.", type: "complex" },
+        { sentence: "He ran, she walked, and they arrived together.", type: "compound" },
+        { sentence: "Because the road was icy, he drove slowly, but he still skidded.", type: "compound-complex" },
+        { sentence: "If you study, you will pass the test.", type: "complex" },
+        { sentence: "She sang and he danced.", type: "compound" },
+        { sentence: "When the alarm rang, everyone evacuated, and the firefighters arrived.", type: "compound-complex" },
+      ];
+      const allTypes = ["simple", "compound", "complex", "compound-complex"];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(sentTypes, rng);
+        if (isMCQ(6, rng)) {
+          const wrong = allTypes.filter(t => t !== data.type).slice(0, 3);
+          q.push(createMCQ("structures_g6", "complex_sentences_g6",
+            `What type of sentence? "${data.sentence}"`, data.type, wrong));
+        } else {
+          q.push(createTyping("structures_g6", "complex_sentences_g6",
+            `Identify: simple, compound, complex, or compound-complex? "${data.sentence}"`, data.type));
+        }
+      }
+      return q;
+    },
+    relative_clauses_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const relData = [
+        { sentence: "The book that I read was great.", relClause: "that I read", pronoun: "that", type: "restrictive" },
+        { sentence: "My sister, who lives in Texas, is visiting.", relClause: "who lives in Texas", pronoun: "who", type: "nonrestrictive" },
+        { sentence: "The car which was parked outside is mine.", relClause: "which was parked outside", pronoun: "which", type: "restrictive" },
+        { sentence: "The teacher whose class I enjoy teaches math.", relClause: "whose class I enjoy", pronoun: "whose", type: "restrictive" },
+        { sentence: "The movie, which won an Oscar, is now on TV.", relClause: "which won an Oscar", pronoun: "which", type: "nonrestrictive" },
+        { sentence: "The girl whom I met yesterday is very kind.", relClause: "whom I met yesterday", pronoun: "whom", type: "restrictive" },
+        { sentence: "The city where I was born is beautiful.", relClause: "where I was born", pronoun: "where", type: "restrictive" },
+        { sentence: "My dog, who is very old, still loves to play.", relClause: "who is very old", pronoun: "who", type: "nonrestrictive" },
+      ];
+      const relPronouns = ["who", "whom", "whose", "which", "that", "where"];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(relData, rng);
+        if (isMCQ(6, rng)) {
+          const variant = Math.floor(rng() * 3);
+          if (variant === 0) {
+            const hasClauses = relData.filter(r => r.sentence !== data.sentence);
+            const noClauses = ["I read a great book.", "My sister is visiting.", "The car is mine."];
+            q.push(createMCQ("structures_g6", "relative_clauses_g6",
+              "Which sentence contains a RELATIVE CLAUSE?", data.sentence,
+              noClauses.slice(0, 3)));
+          } else if (variant === 1) {
+            q.push(createMCQ("structures_g6", "relative_clauses_g6",
+              `What is the relative clause in: "${data.sentence}"?`, data.relClause,
+              relData.filter(r => r.relClause !== data.relClause).map(r => r.relClause).slice(0, 3)));
+          } else {
+            const wrong = relPronouns.filter(p => p !== data.pronoun).slice(0, 3);
+            q.push(createMCQ("structures_g6", "relative_clauses_g6",
+              `Which relative pronoun is used in: "${data.sentence}"?`, data.pronoun, wrong));
+          }
+        } else {
+          if (rng() > 0.5) {
+            q.push(createTyping("structures_g6", "relative_clauses_g6",
+              `Identify the relative clause in: "${data.sentence}"`, data.relClause));
+          } else {
+            q.push(createTyping("structures_g6", "relative_clauses_g6",
+              `What relative pronoun is used in: "${data.sentence}"?`, data.pronoun));
+          }
+        }
+      }
+      return q;
+    }
+  },
+  word_formation_g6: {
+    prefixes_suffixes_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const affixData = [
+        { affix: "-tion", type: "suffix", base: "celebrate", result: "celebration", meaning: "act of celebrating" },
+        { affix: "-ment", type: "suffix", base: "achieve", result: "achievement", meaning: "result of achieving" },
+        { affix: "-ness", type: "suffix", base: "dark", result: "darkness", meaning: "state of being dark" },
+        { affix: "-ity", type: "suffix", base: "equal", result: "equality", meaning: "state of being equal" },
+        { affix: "-ous", type: "suffix", base: "courage", result: "courageous", meaning: "full of courage" },
+        { affix: "-ive", type: "suffix", base: "create", result: "creative", meaning: "having the quality of creating" },
+        { affix: "inter-", type: "prefix", base: "national", result: "international", meaning: "between nations" },
+        { affix: "anti-", type: "prefix", base: "social", result: "antisocial", meaning: "against social behavior" },
+        { affix: "over-", type: "prefix", base: "react", result: "overreact", meaning: "react too much" },
+        { affix: "under-", type: "prefix", base: "estimate", result: "underestimate", meaning: "estimate too low" },
+        { affix: "semi-", type: "prefix", base: "circle", result: "semicircle", meaning: "half a circle" },
+        { affix: "trans-", type: "prefix", base: "form", result: "transform", meaning: "change form" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(affixData, rng);
+        if (isMCQ(6, rng)) {
+          const variant = Math.floor(rng() * 3);
+          if (variant === 0) {
+            const wrong = affixData.filter(a => a.result !== data.result).map(a => a.result).slice(0, 3);
+            q.push(createMCQ("word_formation_g6", "prefixes_suffixes_g6",
+              `What does adding '${data.affix}' to '${data.base}' create?`, data.result, wrong));
+          } else if (variant === 1) {
+            const wrong = affixData.filter(a => a.meaning !== data.meaning).map(a => a.meaning).slice(0, 3);
+            q.push(createMCQ("word_formation_g6", "prefixes_suffixes_g6",
+              `What does '${data.result}' mean?`, data.meaning, wrong));
+          } else {
+            q.push(createMCQ("word_formation_g6", "prefixes_suffixes_g6",
+              `Is '${data.affix}' a prefix or suffix?`, data.type,
+              [data.type === "prefix" ? "suffix" : "prefix", "root", "base word"]));
+          }
+        } else {
+          if (rng() > 0.5) {
+            q.push(createTyping("word_formation_g6", "prefixes_suffixes_g6",
+              `Add '${data.affix}' to '${data.base}':`, data.result));
+          } else {
+            q.push(createTyping("word_formation_g6", "prefixes_suffixes_g6",
+              `What does '${data.result}' mean?`, data.meaning));
+          }
+        }
+      }
+      return q;
+    },
+    root_words_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const rootData = [
+        { root: "rupt", meaning: "break", examples: ["interrupt", "erupt", "bankrupt", "corrupt", "disrupt"] },
+        { root: "struct", meaning: "build", examples: ["construct", "instruct", "structure", "destroy", "obstruct"] },
+        { root: "ject", meaning: "throw", examples: ["project", "reject", "inject", "eject", "object"] },
+        { root: "duc/duct", meaning: "lead", examples: ["conduct", "produce", "introduce", "reduce", "educate"] },
+        { root: "mit/miss", meaning: "send", examples: ["transmit", "mission", "submit", "permit", "dismiss"] },
+        { root: "scrib/script", meaning: "write", examples: ["describe", "script", "manuscript", "subscribe", "inscription"] },
+        { root: "port", meaning: "carry", examples: ["transport", "import", "export", "portable", "report"] },
+        { root: "form", meaning: "shape", examples: ["transform", "uniform", "reform", "inform", "formula"] },
+        { root: "vers/vert", meaning: "turn", examples: ["reverse", "convert", "universe", "invert", "divert"] },
+        { root: "cap/cept", meaning: "take or seize", examples: ["capture", "accept", "concept", "capable", "intercept"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(rootData, rng);
+        const example = pick(data.examples, rng);
+        if (isMCQ(6, rng)) {
+          if (rng() > 0.5) {
+            const wrong = rootData.filter(r => r.meaning !== data.meaning).map(r => r.meaning).slice(0, 3);
+            q.push(createMCQ("word_formation_g6", "root_words_g6",
+              `The root '${data.root}' (as in '${example}') means:`, data.meaning, wrong));
+          } else {
+            const wrong = rootData.filter(r => r.root !== data.root).map(r => r.root).slice(0, 3);
+            q.push(createMCQ("word_formation_g6", "root_words_g6",
+              `Which root means '${data.meaning}'?`, data.root, wrong));
+          }
+        } else {
+          if (rng() > 0.5) {
+            q.push(createTyping("word_formation_g6", "root_words_g6",
+              `What does the root '${data.root}' mean?`, data.meaning));
+          } else {
+            q.push(createTyping("word_formation_g6", "root_words_g6",
+              `What root in '${example}' means '${data.meaning}'?`, data.root));
+          }
+        }
+      }
+      return q;
+    }
+  },
+  punctuation_g6: {
+    commas_dashes_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const punctData = [
+        { sentence: "The event (held annually) was canceled.", mark: "parentheses", purpose: "adds nonessential information" },
+        { sentence: "The event, held annually, was canceled.", mark: "commas", purpose: "sets off nonessential information" },
+        { sentence: "The event — held annually — was canceled.", mark: "dashes", purpose: "emphasizes nonessential information" },
+        { sentence: "She bought three things: eggs, milk, and bread.", mark: "colon", purpose: "introduces a list" },
+        { sentence: "It was a well-known fact.", mark: "hyphen", purpose: "joins compound adjective" },
+        { sentence: "My brother — the tall one — won the race.", mark: "dashes", purpose: "emphasizes an aside" },
+        { sentence: "The results (see Table 1) were surprising.", mark: "parentheses", purpose: "adds a reference" },
+        { sentence: "There's one thing I need: sleep.", mark: "colon", purpose: "introduces an explanation" },
+        { sentence: "The red, white, and blue flag flew high.", mark: "commas", purpose: "separates items in a series" },
+        { sentence: "The self-driving car was impressive.", mark: "hyphen", purpose: "joins compound adjective" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(punctData, rng);
+        if (isMCQ(6, rng)) {
+          if (rng() > 0.5) {
+            q.push(createMCQ("punctuation_g6", "commas_dashes_g6",
+              `What punctuation is used in: "${data.sentence}"?`, data.mark,
+              ["parentheses", "dashes", "commas", "colon", "hyphen"].filter(m => m !== data.mark).slice(0, 3)));
+          } else {
+            q.push(createMCQ("punctuation_g6", "commas_dashes_g6",
+              `What is the PURPOSE of the ${data.mark} in: "${data.sentence}"?`, data.purpose,
+              punctData.filter(p => p.purpose !== data.purpose).map(p => p.purpose).slice(0, 3)));
+          }
+        } else {
+          if (rng() > 0.5) {
+            q.push(createTyping("punctuation_g6", "commas_dashes_g6",
+              `What punctuation mark is used in: "${data.sentence}"?`, data.mark));
+          } else {
+            q.push(createTyping("punctuation_g6", "commas_dashes_g6",
+              `What is the purpose of ${data.mark} in: "${data.sentence}"?`, data.purpose));
+          }
+        }
+      }
+      return q;
+    },
+    punct_effect_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const effectData = [
+        { mark: "exclamation mark", effect: "expresses strong emotion or emphasis", example: "What an amazing goal!" },
+        { mark: "question mark", effect: "asks a question or creates uncertainty", example: "Did you really see that?" },
+        { mark: "ellipsis", effect: "shows a pause or trailing off", example: "I wonder if..." },
+        { mark: "semicolon", effect: "connects closely related independent clauses", example: "She studied all night; she passed the exam." },
+        { mark: "colon", effect: "introduces what follows", example: "He had one goal: to win." },
+        { mark: "dash", effect: "adds emphasis or interruption", example: "He was going to win — or so he thought." },
+        { mark: "period", effect: "ends a statement with finality", example: "It was over." },
+        { mark: "comma", effect: "creates a brief pause", example: "Slowly, carefully, she opened the box." },
+      ];
+      const sentPairs = [
+        { with_mark: "Stop!", without: "Stop.", difference: "The exclamation mark adds urgency and emotion." },
+        { with_mark: "She was beautiful...", without: "She was beautiful.", difference: "The ellipsis creates mystery and suggests more to come." },
+        { with_mark: "He won — barely.", without: "He won, barely.", difference: "The dash adds dramatic emphasis." },
+        { with_mark: "Really?", without: "Really.", difference: "The question mark changes a statement to a question showing doubt." },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(6, rng)) {
-          const clause = pick(clauseData, rng);
-          const typeLabel = clause.type === "independent" ? "INDEPENDENT" : "DEPENDENT";
-          const wrong = clauseData.filter(c => c.type !== clause.type).map(c => c.type).slice(0, 3);
-          q.push(createMCQ("grammar_g6", "clauses_g6", `Is this an ${typeLabel} clause? "${clause.example}"`, clause.type, wrong));
+          if (rng() > 0.4) {
+            const data = pick(effectData, rng);
+            const wrong = effectData.filter(e => e.effect !== data.effect).map(e => e.effect).slice(0, 3);
+            q.push(createMCQ("punctuation_g6", "punct_effect_g6",
+              `What effect does a ${data.mark} create?`, data.effect, wrong));
+          } else {
+            const data = pick(sentPairs, rng);
+            q.push(createMCQ("punctuation_g6", "punct_effect_g6",
+              `What is the difference between "${data.with_mark}" and "${data.without}"?`, data.difference,
+              sentPairs.filter(s => s.difference !== data.difference).map(s => s.difference).slice(0, 3)));
+          }
         } else {
-          const clause = pick(clauseData, rng);
-          q.push(createTyping("grammar_g6", "clauses_g6", "Name a type of clause: independent or dependent:", pick(["independent", "dependent"], rng)));
+          if (rng() > 0.5) {
+            const data = pick(effectData, rng);
+            q.push(createTyping("punctuation_g6", "punct_effect_g6",
+              `What effect does a ${data.mark} create in: "${data.example}"?`, data.effect));
+          } else {
+            const data = pick(effectData, rng);
+            q.push(createTyping("punctuation_g6", "punct_effect_g6",
+              `Which punctuation mark ${data.effect}?`, data.mark));
+          }
         }
       }
       return q;
@@ -3156,187 +4133,87 @@ export const G7_Generators = {
 // ─── GRADE 8 GENERATORS ───────────────────────────────────────────────────
 
 export const G8_Generators = {
-  syntax_g8: {
-    syntax_devices_g8: (seed?: number) => {
+  complex_grammar_g8: {
+    verbals_g8: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const devices = ["anaphora", "epistrophe", "parataxis", "hypotaxis", "inversion"];
-      for (let i = 0; i < 30; i++) {
-        if (isMCQ(8, rng)) {
-          const device = pick(devices, rng);
-          const wrong = devices.filter(d => d !== device).slice(0, 3);
-          q.push(createMCQ("syntax_g8", "syntax_devices_g8",
-            "Which repeats at line beginnings?", device, wrong));
-        } else {
-          q.push(createTyping("syntax_g8", "syntax_devices_g8",
-            "Name a syntactic device:", pick(devices, rng)));
-        }
-      }
-      return q;
-    }
-  },
-  analysis_g8: {
-    critical_theory_g8: (seed?: number) => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const q: CurriculumQuestion[] = [];
-      // Pre-paired: theory with valid descriptions (VALIDÁLT — leírás valóban azt a teóriát jellemzi)
-      const theoryData = [
-        { theory: "New Historicism", descriptions: ["examines texts in historical context", "connects literature to its time period", "studies historical events alongside texts", "analyzes cultural and social conditions"] },
-        { theory: "Marxist Criticism", descriptions: ["analyzes power, class, and economics", "focuses on wealth inequality", "examines working-class perspectives", "studies capital and labor relations"] },
-        { theory: "Feminist Criticism", descriptions: ["examines gender roles and representation", "studies women's perspectives in texts", "analyzes how women are portrayed", "focuses on gender equality issues"] },
-        { theory: "Queer Theory", descriptions: ["challenges norms of gender and sexuality", "questions traditional identity categories", "examines LGBTQ+ perspectives", "disrupts conventional thinking about sexuality"] },
-      ];
-      const theories = theoryData.map(t => t.theory);
-      for (let i = 0; i < 30; i++) {
-        if (isMCQ(8, rng)) {
-          const theorySet = pick(theoryData, rng);
-          const description = pick(theorySet.descriptions, rng);
-          const wrong = theories.filter(t => t !== theorySet.theory).slice(0, 3);
-          q.push(createMCQ("analysis_g8", "critical_theory_g8",
-            `Which theory ${description}?`, theorySet.theory, wrong));
-        } else {
-          q.push(createTyping("analysis_g8", "critical_theory_g8",
-            "Name a critical theory:", pick(theories, rng)));
-        }
-      }
-      return q;
-    }
-  },
-  vocab_g8: {
-    greek_latin_advanced_g8: (seed?: number) => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const q: CurriculumQuestion[] = [];
-      const rootData = [
-        { root: "morph", meaning: "shape or form", examples: ["metamorphosis", "morphology", "anthropomorphic"] },
-        { root: "psych", meaning: "mind", examples: ["psychology", "psychotic", "psychoanalysis"] },
-        { root: "path", meaning: "feeling or disease", examples: ["empathy", "apathy", "pathology"] },
-        { root: "arch", meaning: "ancient or chief", examples: ["archaeology", "architect", "monarch"] },
-        { root: "scop", meaning: "to see or look", examples: ["telescope", "microscope", "horoscope"] },
-        { root: "logue", meaning: "word or study", examples: ["dialogue", "monologue", "catalog"] },
+      const verbalData = [
+        { sentence: "To win is her goal.", verbal: "To win", type: "infinitive used as a noun (subject)", wrong: ["gerund", "participle", "adverb"] },
+        { sentence: "Swimming is great exercise.", verbal: "Swimming", type: "gerund (subject)", wrong: ["infinitive", "participle", "adjective"] },
+        { sentence: "The broken vase lay on the floor.", verbal: "broken", type: "participle (adjective)", wrong: ["gerund", "infinitive", "adverb"] },
+        { sentence: "She wants to leave early.", verbal: "to leave early", type: "infinitive (direct object)", wrong: ["gerund", "participle", "noun"] },
+        { sentence: "Reading novels is her favorite hobby.", verbal: "Reading novels", type: "gerund (subject)", wrong: ["infinitive", "participle", "adjective"] },
+        { sentence: "The howling wind kept us awake.", verbal: "howling", type: "participle (adjective)", wrong: ["gerund", "infinitive", "adverb"] },
+        { sentence: "He decided to study medicine.", verbal: "to study medicine", type: "infinitive (direct object)", wrong: ["gerund", "participle", "noun"] },
+        { sentence: "She enjoys painting landscapes.", verbal: "painting landscapes", type: "gerund (direct object)", wrong: ["infinitive", "participle", "adjective"] },
+        { sentence: "Confused by the directions, he stopped.", verbal: "Confused by the directions", type: "participle (modifier)", wrong: ["gerund", "infinitive", "adverb"] },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
-          const rootSet = pick(rootData, rng);
-          const example = pick(rootSet.examples, rng);
-          const wrong = rootData.filter(r => r.root !== rootSet.root).map(r => r.meaning).slice(0, 3);
-          q.push(createMCQ("vocab_g8", "greek_latin_advanced_g8",
-            `What does the root '${rootSet.root}' mean in '${example}'?`, rootSet.meaning, wrong));
+          const data = pick(verbalData, rng);
+          q.push(createMCQ("complex_grammar_g8", "verbals_g8",
+            `In "${data.sentence}", "${data.verbal}" is a:`, data.type, data.wrong));
         } else {
-          const rootSet = pick(rootData, rng);
-          q.push(createTyping("vocab_g8", "greek_latin_advanced_g8",
-            `What does '${rootSet.root}' mean?`, rootSet.meaning));
+          const data = pick(verbalData, rng);
+          q.push(createTyping("complex_grammar_g8", "verbals_g8",
+            `What type of verbal is "${data.verbal}" in: "${data.sentence}"?`, data.type));
         }
       }
       return q;
     },
-    context_clues_advanced_g8: (seed?: number) => {
+    participial_modifiers_g8: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const sentenceData = [
-        { sentence: "'His obsequious behavior, always flattering and submissive, made others uncomfortable.' What does 'obsequious' mean?", answer: "overly flattering and submissive", wrong: ["confident", "rude", "independent"] },
-        { sentence: "'The author's verbose writing style, full of unnecessary words and lengthy descriptions, became tedious.' What does 'verbose' mean?", answer: "using too many words", wrong: ["concise", "poetic", "creative"] },
-        { sentence: "'Her sanguine outlook, despite evidence to the contrary, remained optimistic.' What does 'sanguine' mean?", answer: "optimistic and hopeful", wrong: ["pessimistic", "angry", "confused"] },
+      const partData = [
+        { correct: "Singing loudly, she walked down the street.", dangling: "Singing loudly, the street seemed empty.", issue: "dangling modifier (street can't sing)" },
+        { correct: "Exhausted from the race, the runner sat down.", dangling: "Exhausted from the race, the bench looked inviting.", issue: "dangling modifier (bench can't be exhausted)" },
+        { correct: "Having finished the exam, the students left.", dangling: "Having finished the exam, the room was empty.", issue: "dangling modifier (room can't finish exam)" },
+        { correct: "Amazed by the view, she took a photograph.", dangling: "Amazed by the view, the camera started clicking.", issue: "dangling modifier (camera can't be amazed)" },
+        { correct: "Walking through the park, I noticed the flowers.", dangling: "Walking through the park, the flowers were beautiful.", issue: "dangling modifier (flowers can't walk)" },
+        { correct: "Covered in snow, the children built a snowman.", dangling: "Covered in snow, the day was perfect for play.", issue: "dangling modifier (day can't be covered in snow)" },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
-          const sentSet = pick(sentenceData, rng);
-          q.push(createMCQ("vocab_g8", "context_clues_advanced_g8", sentSet.sentence, sentSet.answer, sentSet.wrong));
-        } else {
-          const sentSet = pick(sentenceData, rng);
-          q.push(createTyping("vocab_g8", "context_clues_advanced_g8", sentSet.sentence, sentSet.answer));
-        }
-      }
-      return q;
-    },
-    synonyms_antonyms_g8: (seed?: number) => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const q: CurriculumQuestion[] = [];
-      const wordData = [
-        { word: "obfuscate", synonym: "obscure", antonym: "clarify" },
-        { word: "perfunctory", synonym: "cursory", antonym: "thorough" },
-        { word: "taciturn", synonym: "reticent", antonym: "verbose" },
-        { word: "magnanimous", synonym: "generous", antonym: "petty" }
-      ];
-      for (let i = 0; i < 30; i++) {
-        if (isMCQ(8, rng)) {
-          const wordSet = pick(wordData, rng);
-          const isAntonym = rng() > 0.5;
-          if (isAntonym) {
-            const wrong = wordData.filter(w => w.word !== wordSet.word).map(w => w.antonym).slice(0, 3);
-            q.push(createMCQ("vocab_g8", "synonyms_antonyms_g8", `What is the ANTONYM of '${wordSet.word}'?`, wordSet.antonym, wrong));
+          const data = pick(partData, rng);
+          const askCorrect = rng() > 0.5;
+          if (askCorrect) {
+            q.push(createMCQ("complex_grammar_g8", "participial_modifiers_g8",
+              "Which sentence uses a participial phrase CORRECTLY (no dangling modifier)?", data.correct,
+              [data.dangling, "The street, singing loudly, seemed empty.", "Singing loudly the street."]));
           } else {
-            const wrong = wordData.filter(w => w.word !== wordSet.word).map(w => w.synonym).slice(0, 3);
-            q.push(createMCQ("vocab_g8", "synonyms_antonyms_g8", `What is the SYNONYM of '${wordSet.word}'?`, wordSet.synonym, wrong));
+            q.push(createMCQ("complex_grammar_g8", "participial_modifiers_g8",
+              `What is wrong with: "${data.dangling}"?`, data.issue,
+              ["run-on sentence", "comma splice", "sentence fragment"]));
           }
         } else {
-          const wordSet = pick(wordData, rng);
-          const isAntonym = rng() > 0.5;
-          q.push(createTyping("vocab_g8", "synonyms_antonyms_g8",
-            `Name a ${isAntonym ? "antonym" : "synonym"} of '${wordSet.word}':`,
-            isAntonym ? wordSet.antonym : wordSet.synonym));
+          const data = pick(partData, rng);
+          q.push(createTyping("complex_grammar_g8", "participial_modifiers_g8",
+            `Correct the dangling modifier: "${data.dangling}"`, data.correct));
         }
       }
       return q;
     },
-    academic_vocab_g8: (seed?: number) => {
+    absolute_phrases_g8: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const wordData = [
-        { word: "paradigm", meaning: "a typical example or pattern", context: "Kuhn introduced a new ___ in science." },
-        { word: "facilitate", meaning: "to make easier", context: "Technology can ___ communication." },
-        { word: "pragmatic", meaning: "practical and realistic", context: "We need a ___ approach to solve this problem." },
-        { word: "inherent", meaning: "built-in or natural", context: "There is an ___ risk in any investment." },
-        { word: "synthesize", meaning: "to combine parts into a whole", context: "The researcher will ___ the findings." }
+      const phraseData = [
+        { sentence: "His homework finished, he went to bed.", absolute: "His homework finished", wrong: ["he went to bed", "His homework", "finished"] },
+        { sentence: "The storm having passed, we ventured outside.", absolute: "The storm having passed", wrong: ["we ventured outside", "The storm", "having passed"] },
+        { sentence: "All things considered, she made a wise choice.", absolute: "All things considered", wrong: ["she made a wise choice", "All things", "a wise choice"] },
+        { sentence: "Weather permitting, we will have a picnic.", absolute: "Weather permitting", wrong: ["we will have a picnic", "a picnic", "permitting"] },
+        { sentence: "Her voice trembling, she began her speech.", absolute: "Her voice trembling", wrong: ["she began her speech", "Her voice", "trembling"] },
+        { sentence: "The sun having set, we lit the campfire.", absolute: "The sun having set", wrong: ["we lit the campfire", "the campfire", "having set"] },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
-          const data = pick(wordData, rng);
-          const wrong = ["irrelevant", "temporal", "hypothetical"].slice(0, 3);
-          q.push(createMCQ("vocab_g8", "academic_vocab_g8", `What does '${data.word}' mean?`, data.meaning, wrong));
+          const data = pick(phraseData, rng);
+          q.push(createMCQ("complex_grammar_g8", "absolute_phrases_g8",
+            `Which is the ABSOLUTE PHRASE in: "${data.sentence}"?`, data.absolute, data.wrong));
         } else {
-          const data = pick(wordData, rng);
-          q.push(createTyping("vocab_g8", "academic_vocab_g8", `Define '${data.word}':`, data.meaning));
+          const data = pick(phraseData, rng);
+          q.push(createTyping("complex_grammar_g8", "absolute_phrases_g8",
+            `Identify the absolute phrase in: "${data.sentence}"`, data.absolute));
         }
-      }
-      return q;
-    },
-    nuances_g8: (seed?: number) => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const q: CurriculumQuestion[] = [];
-      const nuanceData = [
-        { sentence: "'Slender' vs 'scrawny' - She has a ___ figure (positive connotation).", answer: "slender", wrong: ["scrawny"] },
-        { sentence: "'Modest' vs 'humble' - He was ___ about his achievements (slightly different meaning).", answer: "modest", wrong: ["humble"] },
-        { sentence: "'Inquisitive' vs 'nosy' - The child was ___ about nature (positive connotation).", answer: "inquisitive", wrong: ["nosy"] },
-        { sentence: "'Thrifty' vs 'stingy' - She is ___ with her money (positive connotation).", answer: "thrifty", wrong: ["stingy"] },
-        { sentence: "'Determined' vs 'stubborn' - He remained ___ despite obstacles (positive).", answer: "determined", wrong: ["stubborn"] }
-      ];
-      for (let i = 0; i < 30; i++) {
-        if (isMCQ(8, rng)) {
-          const data = pick(nuanceData, rng);
-          const wrongOptions = [...data.wrong, "neutral", "irrelevant"].slice(0, 3);
-          q.push(createMCQ("vocab_g8", "nuances_g8",
-            `Which word fits best? ${data.sentence}`, data.answer, wrongOptions));
-        } else {
-          const data = pick(nuanceData, rng);
-          q.push(createTyping("vocab_g8", "nuances_g8",
-            `Complete: ${data.sentence}`, data.answer));
-        }
-      }
-      return q;
-    }
-  },
-  grammar_g8: {
-    dashes_g8: (seed?: number) => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const q: CurriculumQuestion[] = [];
-      const dashData = [
-        { correct: "The author—known for his wit—published a new book.", wrong: ["The author—known for his wit published a new book.", "The author known for his wit—published a new book.", "The author—known for his wit—published, a new book."] },
-        { correct: "She wanted three things—honesty, loyalty, and respect.", wrong: ["She wanted three things—honesty loyalty and respect.", "She wanted three things: honesty, loyalty, and respect.", "She wanted three things,—honesty, loyalty, and respect."] },
-        { correct: "The storm—which lasted for hours—caused damage.", wrong: ["The storm which lasted for hours caused damage.", "The storm—which lasted for hours caused damage.", "The storm, which lasted for hours, caused damage."] }
-      ];
-      for (let i = 0; i < 30; i++) {
-        const data = pick(dashData, rng);
-        q.push(createMCQ("grammar_g8", "dashes_g8", "Which uses em dashes correctly?", data.correct, data.wrong));
       }
       return q;
     },
@@ -3346,7 +4223,11 @@ export const G8_Generators = {
       const voiceData = [
         { active: "The scientist discovered a new element.", passive: "A new element was discovered by the scientist." },
         { active: "The chef prepared a delicious meal.", passive: "A delicious meal was prepared by the chef." },
-        { active: "The committee approved the proposal.", passive: "The proposal was approved by the committee." }
+        { active: "The committee approved the proposal.", passive: "The proposal was approved by the committee." },
+        { active: "The dog chased the cat.", passive: "The cat was chased by the dog." },
+        { active: "She wrote the report.", passive: "The report was written by her." },
+        { active: "The storm destroyed several buildings.", passive: "Several buildings were destroyed by the storm." },
+        { active: "The teacher assigned homework.", passive: "Homework was assigned by the teacher." },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
@@ -3354,157 +4235,546 @@ export const G8_Generators = {
           const isActive = rng() > 0.5;
           const sent = isActive ? voice.active : voice.passive;
           const type = isActive ? "active" : "passive";
-          q.push(createMCQ("grammar_g8", "active_passive_g8", `Identify the voice: "${sent}"`, type, ["active", "passive"].filter(v => v !== type)));
+          q.push(createMCQ("complex_grammar_g8", "active_passive_g8",
+            `Identify the voice: "${sent}"`, type, ["active", "passive"].filter(v => v !== type)));
         } else {
           const voice = pick(voiceData, rng);
-          const isActive = rng() > 0.5;
-          const sent = isActive ? voice.active : voice.passive;
-          const type = isActive ? "active" : "passive";
-          q.push(createTyping("grammar_g8", "active_passive_g8", `Is this active or passive? "${sent}"`, type));
+          const toPassive = rng() > 0.5;
+          if (toPassive) {
+            q.push(createTyping("complex_grammar_g8", "active_passive_g8",
+              `Convert to PASSIVE: "${voice.active}"`, voice.passive));
+          } else {
+            q.push(createTyping("complex_grammar_g8", "active_passive_g8",
+              `Convert to ACTIVE: "${voice.passive}"`, voice.active));
+          }
         }
       }
       return q;
     },
-    absolute_phrases_g8: (seed?: number) => {
+    subjunctive_g8: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const phraseData = [
-        { sentence: "The storm having passed, we ventured outside.", meaning: "With the storm passed, we went out" },
-        { sentence: "All things considered, she made a wise choice.", meaning: "When we think about everything, the choice was wise" },
-        { sentence: "The work complete, they celebrated.", meaning: "After the work was done, they celebrated" },
-        { sentence: "Weather permitting, we'll have a picnic tomorrow.", meaning: "If the weather allows, we'll have a picnic" },
-        { sentence: "His patience exhausted, he finally spoke up.", meaning: "After losing patience, he finally spoke" }
+      const subjData = [
+        { correct: "If I were you, I would apologize.", incorrect: "If I was you, I would apologize.", rule: "subjunctive 'were' after 'if' for unreal conditions" },
+        { correct: "I wish she were here.", incorrect: "I wish she was here.", rule: "subjunctive 'were' after 'wish'" },
+        { correct: "The teacher insisted that he study harder.", incorrect: "The teacher insisted that he studies harder.", rule: "base form after verbs of demand/suggestion" },
+        { correct: "It is essential that she be present.", incorrect: "It is essential that she is present.", rule: "base form after 'it is essential that'" },
+        { correct: "If he were taller, he could reach the shelf.", incorrect: "If he was taller, he could reach the shelf.", rule: "subjunctive 'were' for hypothetical" },
+        { correct: "I suggest that he take the early train.", incorrect: "I suggest that he takes the early train.", rule: "base form after 'suggest'" },
+        { correct: "If it were possible, I would travel the world.", incorrect: "If it was possible, I would travel the world.", rule: "subjunctive 'were' for wishes" },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
-          const data = pick(phraseData, rng);
-          const wrong = ["participial phrase", "appositional phrase", "prepositional phrase"].slice(0, 3);
-          q.push(createMCQ("grammar_g8", "absolute_phrases_g8",
-            `Identify the absolute phrase: "${data.sentence}"`, "absolute phrase", wrong));
+          const data = pick(subjData, rng);
+          q.push(createMCQ("complex_grammar_g8", "subjunctive_g8",
+            "Which sentence uses the SUBJUNCTIVE mood correctly?", data.correct,
+            [data.incorrect, "If I am you, I would apologize.", "If I be you, I would apologize."]));
         } else {
-          const data = pick(phraseData, rng);
-          q.push(createTyping("grammar_g8", "absolute_phrases_g8",
-            `What does the absolute phrase mean in: "${data.sentence}"?`, data.meaning));
+          const data = pick(subjData, rng);
+          q.push(createTyping("complex_grammar_g8", "subjunctive_g8",
+            `What rule explains the subjunctive in: "${data.correct}"?`, data.rule));
         }
       }
       return q;
     },
-    appositives_g8: (seed?: number) => {
+    voice_mood_shifts_g8: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const sentenceData = [
-        { correct: "My friend Sarah, the soccer player, won the championship.", noun: "Sarah", appositive: "the soccer player" },
-        { correct: "The novel 'Pride and Prejudice,' a classic romance, was published in 1813.", noun: "Pride and Prejudice", appositive: "a classic romance" },
-        { correct: "Dr. Martinez, our history teacher, assigned a research project.", noun: "Dr. Martinez", appositive: "our history teacher" },
-        { correct: "Paris, the capital of France, is famous for its art.", noun: "Paris", appositive: "the capital of France" }
+      const shiftData = [
+        { inconsistent: "She made the cake, and the dishes were washed by her.", consistent: "She made the cake and washed the dishes.", error: "voice shift (active to passive)" },
+        { inconsistent: "The report was written by the student, and she presented it.", consistent: "The student wrote the report and presented it.", error: "voice shift (passive to active)" },
+        { inconsistent: "Study for the test, and you should review your notes.", consistent: "Study for the test and review your notes.", error: "mood shift (imperative to indicative)" },
+        { inconsistent: "If I were rich, I will buy a mansion.", consistent: "If I were rich, I would buy a mansion.", error: "mood shift (subjunctive to indicative)" },
+        { inconsistent: "He ran the race and was awarded a medal by the judges.", consistent: "He ran the race and the judges awarded him a medal.", error: "voice shift (active to passive)" },
+        { inconsistent: "Please sit down, and you should be quiet.", consistent: "Please sit down and be quiet.", error: "mood shift (imperative to indicative)" },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
-          const data = pick(sentenceData, rng);
-          const wrong = data.correct.split(",").filter(p => p.trim() !== data.appositive.trim()).slice(0, 3);
-          q.push(createMCQ("grammar_g8", "appositives_g8",
-            `Which appositive correctly renames the noun in: "${data.correct}"?`, data.appositive, wrong));
+          const data = pick(shiftData, rng);
+          const askWhich = rng() > 0.5;
+          if (askWhich) {
+            q.push(createMCQ("complex_grammar_g8", "voice_mood_shifts_g8",
+              "Which sentence has an INCONSISTENT voice or mood shift?", data.inconsistent,
+              [data.consistent, "She made the cake and washed the dishes.", "They ran and played outside."]));
+          } else {
+            q.push(createMCQ("complex_grammar_g8", "voice_mood_shifts_g8",
+              `What error is in: "${data.inconsistent}"?`, data.error,
+              ["voice shift (active to passive)", "mood shift (imperative to indicative)", "mood shift (subjunctive to indicative)", "voice shift (passive to active)"].filter(e => e !== data.error).slice(0, 3)));
+          }
         } else {
-          const data = pick(sentenceData, rng);
-          q.push(createTyping("grammar_g8", "appositives_g8",
-            `What is the appositive phrase in: "${data.correct}"?`, data.appositive));
+          const data = pick(shiftData, rng);
+          q.push(createTyping("complex_grammar_g8", "voice_mood_shifts_g8",
+            `Correct the shift: "${data.inconsistent}"`, data.consistent));
         }
       }
       return q;
     },
-    clausal_complements_g8: (seed?: number) => {
-      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
-      const q: CurriculumQuestion[] = [];
-      const clauseData = [
-        { sentence: "The teacher explained what the assignment required.", complement: "what the assignment required", type: "noun clause" },
-        { sentence: "She hoped that he would arrive on time.", complement: "that he would arrive on time", type: "noun clause" },
-        { sentence: "We discovered where the lost key was hiding.", complement: "where the lost key was hiding", type: "noun clause" },
-        { sentence: "His comment that rain was coming proved accurate.", complement: "that rain was coming", type: "appositive clause" },
-        { sentence: "The fact that she succeeded shows her determination.", complement: "that she succeeded", type: "appositive clause" }
-      ];
-      for (let i = 0; i < 30; i++) {
-        if (isMCQ(8, rng)) {
-          const data = pick(clauseData, rng);
-          const wrong = ["prepositional phrase", "participial phrase", "absolute phrase"].slice(0, 3);
-          q.push(createMCQ("grammar_g8", "clausal_complements_g8",
-            `In "${data.sentence}", the complement clause is:`, data.complement, wrong));
-        } else {
-          const data = pick(clauseData, rng);
-          q.push(createTyping("grammar_g8", "clausal_complements_g8",
-            `Identify the clause in: "${data.sentence}"`, data.complement));
-        }
-      }
-      return q;
-    }
   },
-  punctuation_g8: {
-    semicolons_colons_g8: (seed?: number) => {
+  writing_g8: {
+    argumentative_g8: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const data = [
-        { correct: "She had many talents: singing, dancing, and painting.", rule: "colon before a list" },
-        { correct: "He studied for hours; therefore, he passed the test.", rule: "semicolon between independent clauses" },
-        { correct: "The schedule was as follows: Monday at 10, Tuesday at 2.", rule: "colon introducing a series" },
-        { correct: "I bought groceries; she cooked dinner.", rule: "semicolon joining independent clauses" }
+      const argData = [
+        { question: "What is the purpose of a CLAIM in an argumentative essay?", answer: "to state the writer's main position", wrong: ["to provide background information", "to list counterarguments", "to summarize the story"] },
+        { question: "What is a COUNTERCLAIM?", answer: "an opposing argument that the writer addresses", wrong: ["a supporting detail", "the thesis statement", "the conclusion"] },
+        { question: "Which provides the STRONGEST evidence in an argument?", answer: "a statistic from a reliable study", wrong: ["a personal opinion", "an emotional appeal", "a popular saying"] },
+        { question: "What should a REBUTTAL do?", answer: "respond to and refute the counterclaim", wrong: ["repeat the thesis", "introduce a new topic", "end the essay"] },
+        { question: "Where does the THESIS typically appear?", answer: "at the end of the introduction paragraph", wrong: ["in the conclusion", "in the middle of the essay", "in the title"] },
+        { question: "What is the purpose of a TRANSITION in argumentative writing?", answer: "to connect ideas and guide the reader", wrong: ["to introduce new evidence", "to state the claim", "to summarize the essay"] },
+        { question: "Which is an example of ETHOS (ethical appeal)?", answer: "citing a respected expert in the field", wrong: ["using emotional language", "presenting statistics", "telling a personal story"] },
+        { question: "Which is an example of LOGOS (logical appeal)?", answer: "presenting data and logical reasoning", wrong: ["sharing a sad story", "using vivid imagery", "quoting a celebrity"] },
       ];
       for (let i = 0; i < 30; i++) {
-        const item = pick(data, rng);
-        const wrong = data.filter(d => d !== item).map(d => d.correct).slice(0, 3);
-        q.push(createMCQ("punctuation_g8", "semicolons_colons_g8", "Which sentence uses semicolons/colons correctly?", item.correct, wrong));
+        if (isMCQ(8, rng)) {
+          const data = pick(argData, rng);
+          q.push(createMCQ("writing_g8", "argumentative_g8", data.question, data.answer, data.wrong));
+        } else {
+          const data = pick(argData, rng);
+          q.push(createTyping("writing_g8", "argumentative_g8", data.question, data.answer));
+        }
       }
       return q;
-    }
+    },
+    informational_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const infoData = [
+        { question: "The PRIMARY purpose of informational writing is to:", answer: "explain or inform the reader", wrong: ["entertain with a story", "persuade the reader to agree", "express personal feelings"] },
+        { question: "Which text structure presents events in time order?", answer: "chronological order", wrong: ["cause and effect", "compare and contrast", "problem and solution"] },
+        { question: "What is a TOPIC SENTENCE?", answer: "the main idea of a paragraph", wrong: ["the first sentence of any essay", "the thesis statement", "a concluding thought"] },
+        { question: "Which is a feature of INFORMATIONAL writing?", answer: "headings and subheadings to organize information", wrong: ["dialogue between characters", "rhyme and meter", "a narrative arc"] },
+        { question: "What does 'synthesizing sources' mean?", answer: "combining information from multiple sources into a unified explanation", wrong: ["copying from one source", "paraphrasing a single author", "writing a bibliography"] },
+        { question: "Which is an example of a PRIMARY source?", answer: "a diary entry from a historical figure", wrong: ["a textbook summary", "a Wikipedia article", "a documentary film"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(infoData, rng);
+          q.push(createMCQ("writing_g8", "informational_g8", data.question, data.answer, data.wrong));
+        } else {
+          const data = pick(infoData, rng);
+          q.push(createTyping("writing_g8", "informational_g8", data.question, data.answer));
+        }
+      }
+      return q;
+    },
+    narrative_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const narrData = [
+        { question: "Which element is MOST important in narrative writing?", answer: "plot with a beginning, conflict, and resolution", wrong: ["a clear thesis statement", "factual data and evidence", "counterarguments"] },
+        { question: "What is the CLIMAX of a story?", answer: "the turning point or most intense moment", wrong: ["the beginning", "the conclusion", "the setting description"] },
+        { question: "What does PACING refer to in narrative writing?", answer: "how quickly or slowly events unfold", wrong: ["the number of characters", "the length of paragraphs", "the font size"] },
+        { question: "Which technique develops a character's personality?", answer: "showing their actions, thoughts, and dialogue", wrong: ["listing their physical features only", "stating their age", "describing the weather"] },
+        { question: "What is FORESHADOWING?", answer: "hints about events that will happen later in the story", wrong: ["a flashback to the past", "the moral of the story", "the setting description"] },
+        { question: "What is the purpose of DIALOGUE in narrative writing?", answer: "to reveal character and advance the plot", wrong: ["to fill space", "to list facts", "to state the thesis"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(narrData, rng);
+          q.push(createMCQ("writing_g8", "narrative_g8", data.question, data.answer, data.wrong));
+        } else {
+          const data = pick(narrData, rng);
+          q.push(createTyping("writing_g8", "narrative_g8", data.question, data.answer));
+        }
+      }
+      return q;
+    },
+    report_story_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const compData = [
+        { question: "Which feature belongs to a REPORT, not a story?", answer: "topic sentences with factual evidence", wrong: ["dialogue between characters", "a narrative arc with rising action", "a first-person narrator"] },
+        { question: "Which uses OBJECTIVE language?", answer: "The experiment yielded conclusive results.", wrong: ["I felt the experiment was amazing!", "The incredible experiment blew my mind.", "Everyone loved the experiment."] },
+        { question: "A report typically uses which point of view?", answer: "third person (he, she, it, they)", wrong: ["first person (I, we)", "second person (you)", "mixed perspectives"] },
+        { question: "Which organizational pattern is most common in reports?", answer: "logical categories with headings", wrong: ["chronological narrative", "stream of consciousness", "flashbacks"] },
+        { question: "What distinguishes a story's CONCLUSION from a report's?", answer: "a story resolves the conflict; a report summarizes findings", wrong: ["they are identical", "reports have no conclusion", "stories never end"] },
+        { question: "Which sentence belongs in a STORY, not a report?", answer: "'She felt her heart racing as she opened the door.'", wrong: ["'The data indicates a 15% increase.'", "'Three factors contributed to the outcome.'", "'The population grew steadily from 2010 to 2020.'"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(compData, rng);
+          q.push(createMCQ("writing_g8", "report_story_g8", data.question, data.answer, data.wrong));
+        } else {
+          const data = pick(compData, rng);
+          q.push(createTyping("writing_g8", "report_story_g8", data.question, data.answer));
+        }
+      }
+      return q;
+    },
   },
   literature_g8: {
+    point_of_view_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const povData = [
+        { text: "I walked into the room and saw my old friend.", pov: "first person", wrong: ["second person", "third person limited", "third person omniscient"] },
+        { text: "You open the door and step into the darkness.", pov: "second person", wrong: ["first person", "third person limited", "third person omniscient"] },
+        { text: "She wondered if he would ever understand her feelings.", pov: "third person limited", wrong: ["first person", "second person", "third person omniscient"] },
+        { text: "Sarah felt nervous. Meanwhile, across town, Jake was excited about his plan.", pov: "third person omniscient", wrong: ["first person", "second person", "third person limited"] },
+        { text: "We decided to take the longer route through the forest.", pov: "first person", wrong: ["second person", "third person limited", "third person omniscient"] },
+        { text: "He sat alone, thinking about his choices, unaware that she was watching.", pov: "third person omniscient", wrong: ["first person", "second person", "third person limited"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(povData, rng);
+          q.push(createMCQ("literature_g8", "point_of_view_g8",
+            `What point of view? "${data.text}"`, data.pov, data.wrong));
+        } else {
+          const data = pick(povData, rng);
+          q.push(createTyping("literature_g8", "point_of_view_g8",
+            `Identify the point of view: "${data.text}"`, data.pov));
+        }
+      }
+      return q;
+    },
+    genres_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const genreData = [
+        { description: "A story with supernatural creatures like vampires and werewolves.", genre: "horror/fantasy", wrong: ["realistic fiction", "biography", "historical fiction"] },
+        { description: "A text that explains the life of a real person.", genre: "biography", wrong: ["fantasy", "science fiction", "mystery"] },
+        { description: "A story set in the future with advanced technology.", genre: "science fiction", wrong: ["historical fiction", "mystery", "biography"] },
+        { description: "A play written in verse about a hero's downfall.", genre: "tragedy", wrong: ["comedy", "mystery", "memoir"] },
+        { description: "A story where the main character solves a crime.", genre: "mystery", wrong: ["romance", "fantasy", "biography"] },
+        { description: "A personal account of the author's own life.", genre: "memoir/autobiography", wrong: ["biography", "fiction", "fantasy"] },
+        { description: "A story that uses humor and ends happily.", genre: "comedy", wrong: ["tragedy", "horror", "mystery"] },
+        { description: "A story set during a real historical period.", genre: "historical fiction", wrong: ["science fiction", "fantasy", "mystery"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(genreData, rng);
+          q.push(createMCQ("literature_g8", "genres_g8",
+            `What genre? "${data.description}"`, data.genre, data.wrong));
+        } else {
+          const data = pick(genreData, rng);
+          q.push(createTyping("literature_g8", "genres_g8",
+            `Name the genre: "${data.description}"`, data.genre));
+        }
+      }
+      return q;
+    },
     allusion_irony_g8: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const literaryData = [
-        { text: "He is a real Sherlock Holmes.", type: "allusion", example: "reference to detective" },
-        { text: "The traffic was moving at a snail's pace.", type: "irony", example: "metaphor for slowness" },
-        { text: "She said 'What wonderful weather!' during a thunderstorm.", type: "irony", example: "opposite meaning" },
-        { text: "He's a regular Romeo when it comes to romance.", type: "allusion", example: "reference to lover" },
-        { text: "The prison guard was a real humanitarian.", type: "irony", example: "sarcastic" }
+      const litData = [
+        { text: "He is a real Sherlock Holmes when it comes to solving puzzles.", device: "allusion", wrong: ["verbal irony", "situational irony", "satire"] },
+        { text: "She said 'What wonderful weather!' during a thunderstorm.", device: "verbal irony", wrong: ["allusion", "situational irony", "satire"] },
+        { text: "A fire station burns down.", device: "situational irony", wrong: ["verbal irony", "allusion", "satire"] },
+        { text: "He's a regular Romeo when it comes to romance.", device: "allusion", wrong: ["verbal irony", "situational irony", "satire"] },
+        { text: "The pilot had a fear of heights.", device: "situational irony", wrong: ["verbal irony", "allusion", "dramatic irony"] },
+        { text: "A news article exaggerates politicians' behavior to mock them.", device: "satire", wrong: ["allusion", "verbal irony", "situational irony"] },
+        { text: "She opened her Pandora's box of old memories.", device: "allusion", wrong: ["verbal irony", "satire", "situational irony"] },
+        { text: "The audience knows the killer is behind the door, but the character does not.", device: "dramatic irony", wrong: ["verbal irony", "situational irony", "allusion"] },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
-          const data = pick(literaryData, rng);
-          const wrong = ["metaphor", "simile", "hyperbole"].slice(0, 3);
+          const data = pick(litData, rng);
           q.push(createMCQ("literature_g8", "allusion_irony_g8",
-            `Is this allusion or irony? "${data.text}"`, data.type, wrong));
+            `Identify the literary device: "${data.text}"`, data.device, data.wrong));
         } else {
-          const data = pick(literaryData, rng);
+          const data = pick(litData, rng);
           q.push(createTyping("literature_g8", "allusion_irony_g8",
-            `Identify: "${data.text}"`, data.type));
+            `What device is used? "${data.text}"`, data.device));
         }
       }
       return q;
     },
-    assonance_consonance_g8: (seed?: number) => {
+    theme_g8: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const soundData = [
-        { text: "The light of the kite", device: "assonance", vowel: "long i sound" },
-        { text: "She sells seashells by the seashore", device: "sibilance", sound: "s consonant" },
-        { text: "The wind whistled through the willows", device: "consonance", consonant: "w consonant" },
-        { text: "Fleet feet sweep by sleeping soldiers", device: "consonance", consonant: "f and s sounds" },
-        { text: "The sad, sweet scent of summer", device: "assonance", vowel: "short e sound" }
+      const themeData = [
+        { question: "The THEME of a story is best described as:", answer: "the central message or life lesson", wrong: ["the plot summary", "the setting of the story", "the main character's name"] },
+        { question: "Which is a THEME (not a topic)?", answer: "True friendship requires sacrifice.", wrong: ["friendship", "the beach", "a dog"] },
+        { question: "How is theme DIFFERENT from the topic?", answer: "theme is the message about the topic; topic is just the subject", wrong: ["they are the same thing", "topic is more specific", "theme is stated directly"] },
+        { question: "In a story where a character overcomes fear, a likely theme is:", answer: "courage means acting despite being afraid", wrong: ["fear is always bad", "everyone is afraid", "fear makes you weak"] },
+        { question: "Where is the theme usually STATED in a text?", answer: "it is usually implied, not directly stated", wrong: ["in the title", "in the first sentence", "in the last paragraph"] },
+        { question: "Which detail would BEST support a theme about perseverance?", answer: "a character failing multiple times but continuing to try", wrong: ["a beautiful sunset", "a character eating lunch", "a description of a house"] },
+        { question: "A story about a character who lies and loses friends likely has the theme:", answer: "honesty builds trust and relationships", wrong: ["lying is sometimes necessary", "friends are not important", "everyone lies"] },
       ];
       for (let i = 0; i < 30; i++) {
         if (isMCQ(8, rng)) {
-          const data = pick(soundData, rng);
-          const wrong = ["alliteration", "onomatopoeia", "rhyme"].slice(0, 3);
-          q.push(createMCQ("literature_g8", "assonance_consonance_g8",
-            `What sound device is used in: "${data.text}"?`, data.device, wrong));
+          const data = pick(themeData, rng);
+          q.push(createMCQ("literature_g8", "theme_g8", data.question, data.answer, data.wrong));
         } else {
-          const data = pick(soundData, rng);
-          q.push(createTyping("literature_g8", "assonance_consonance_g8",
-            `Identify the sound device: "${data.text}"`, data.device));
+          const data = pick(themeData, rng);
+          q.push(createTyping("literature_g8", "theme_g8", data.question, data.answer));
         }
       }
       return q;
-    }
-  }
+    },
+  },
+  style_g8: {
+    formal_register_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const regData = [
+        { formal: "The committee has approved the proposal.", informal: "They said yes to the idea.", wrong: ["The committee was like, yeah, sure.", "Yep, the plan got approved.", "They totally said yes."] },
+        { formal: "I would like to request a meeting.", informal: "Can we meet up?", wrong: ["Hey, let's chat.", "Wanna hang?", "We should totally meet."] },
+        { formal: "The results indicate a significant improvement.", informal: "Things got way better.", wrong: ["Stuff improved a ton.", "It's like, so much better now.", "The numbers are crazy good."] },
+        { formal: "Furthermore, the evidence supports this conclusion.", informal: "Also, the proof backs this up.", wrong: ["Plus, it totally checks out.", "And yeah, it's true.", "So basically it works."] },
+        { formal: "We respectfully disagree with the findings.", informal: "We don't agree with that.", wrong: ["That's totally wrong.", "Nah, we disagree.", "No way that's right."] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(regData, rng);
+          q.push(createMCQ("style_g8", "formal_register_g8",
+            "Which sentence uses FORMAL register?", data.formal, [data.informal, ...data.wrong.slice(0, 2)]));
+        } else {
+          const data = pick(regData, rng);
+          q.push(createTyping("style_g8", "formal_register_g8",
+            `Rewrite formally: "${data.informal}"`, data.formal));
+        }
+      }
+      return q;
+    },
+    academic_vs_conv_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const acData = [
+        { academic: "The data suggests a correlation between the variables.", conversational: "The numbers kind of match up.", wrong: ["It seems like they go together.", "The stats look the same.", "Stuff is related I guess."] },
+        { academic: "The protagonist undergoes significant character development.", conversational: "The main character really changes a lot.", wrong: ["The guy totally transforms.", "He's like a different person.", "The character changes or whatever."] },
+        { academic: "The author employs vivid imagery to convey the setting.", conversational: "The writer uses cool descriptions for the place.", wrong: ["The author paints a pretty picture.", "The writer makes you see stuff.", "Cool words describe the setting."] },
+        { academic: "Research indicates that exercise improves cognitive function.", conversational: "Studies show working out helps your brain.", wrong: ["Exercise is good for thinking.", "Working out makes you smarter.", "Moving around helps your head."] },
+        { academic: "The evidence substantiates the hypothesis.", conversational: "The proof backs up the guess.", wrong: ["The facts check out.", "It proves the idea.", "Everything matches up."] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(acData, rng);
+          q.push(createMCQ("style_g8", "academic_vs_conv_g8",
+            "Which phrase is more appropriate in ACADEMIC writing?", data.academic,
+            [data.conversational, ...data.wrong.slice(0, 2)]));
+        } else {
+          const data = pick(acData, rng);
+          q.push(createTyping("style_g8", "academic_vs_conv_g8",
+            `Rewrite in academic style: "${data.conversational}"`, data.academic));
+        }
+      }
+      return q;
+    },
+    domain_vocab_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const domainData = [
+        { domain: "biology", term: "mitosis", general: "cell division", wrong: ["growth", "change", "split"] },
+        { domain: "chemistry", term: "oxidation", general: "chemical reaction with oxygen", wrong: ["burning", "rusting", "melting"] },
+        { domain: "literature", term: "protagonist", general: "main character", wrong: ["hero", "villain", "narrator"] },
+        { domain: "mathematics", term: "coefficient", general: "the number multiplied by a variable", wrong: ["answer", "total", "equation"] },
+        { domain: "history", term: "imperialism", general: "a policy of extending power over other nations", wrong: ["war", "trade", "exploration"] },
+        { domain: "music", term: "crescendo", general: "gradually getting louder", wrong: ["rhythm", "melody", "tempo"] },
+        { domain: "computer science", term: "algorithm", general: "a step-by-step procedure for solving a problem", wrong: ["a computer program", "a math equation", "a code language"] },
+        { domain: "earth science", term: "erosion", general: "the gradual wearing away of land by natural forces", wrong: ["earthquake", "volcano", "flooding"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(domainData, rng);
+          q.push(createMCQ("style_g8", "domain_vocab_g8",
+            `In a ${data.domain} essay, which term is DOMAIN-SPECIFIC?`, data.term, data.wrong));
+        } else {
+          const data = pick(domainData, rng);
+          q.push(createTyping("style_g8", "domain_vocab_g8",
+            `Define the ${data.domain} term '${data.term}':`, data.general));
+        }
+      }
+      return q;
+    },
+  },
+  punctuation_g8: {
+    ellipsis_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const ellData = [
+        { question: "An ELLIPSIS (...) is used to indicate:", answer: "an omission or trailing thought", wrong: ["a strong exclamation", "the end of a sentence", "a question"] },
+        { question: "Which uses an ellipsis CORRECTLY?", answer: "'I wonder if... never mind.'", wrong: ["'I wonder if. never mind.'", "'I wonder if, never mind.'", "'I wonder if; never mind.'"] },
+        { question: "In quoting, an ellipsis shows that:", answer: "words have been left out from the original text", wrong: ["the quote is paraphrased", "the speaker paused", "the quote is a lie"] },
+        { question: "'She looked at him and said, \"Well...\"' The ellipsis here suggests:", answer: "hesitation or an unfinished thought", wrong: ["anger", "excitement", "a complete thought"] },
+        { question: "How many dots are in a standard ellipsis?", answer: "three", wrong: ["two", "four", "one"] },
+        { question: "Which is the CORRECT way to write an ellipsis in formal writing?", answer: "three spaced periods: . . .", wrong: ["three dots with no spaces: ...", "four dots: ....", "two dots: .."] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(ellData, rng);
+          q.push(createMCQ("punctuation_g8", "ellipsis_g8", data.question, data.answer, data.wrong));
+        } else {
+          const data = pick(ellData, rng);
+          q.push(createTyping("punctuation_g8", "ellipsis_g8", data.question, data.answer));
+        }
+      }
+      return q;
+    },
+    dashes_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const dashData = [
+        { correct: "She had one goal\u2014to win.", incorrect: "She had one goal-to win.", rule: "em dash for emphasis before a dramatic element" },
+        { correct: "The author\u2014known for his wit\u2014published a new book.", incorrect: "The author, known for his wit, published a new book.", rule: "em dashes for stronger parenthetical" },
+        { correct: "She wanted three things\u2014honesty, loyalty, and respect.", incorrect: "She wanted three things: honesty, loyalty, and respect.", rule: "em dash to introduce a list with emphasis" },
+        { correct: "The answer\u2014surprisingly\u2014was no.", incorrect: "The answer surprisingly was no.", rule: "em dashes around an interjection" },
+        { correct: "He was determined\u2014nothing would stop him.", incorrect: "He was determined, nothing would stop him.", rule: "em dash to connect dramatic independent clauses" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(dashData, rng);
+          q.push(createMCQ("punctuation_g8", "dashes_g8",
+            "Which correctly uses an EM DASH?", data.correct,
+            [data.incorrect, "She had one goal...to win.", "She had one goal; to win."]));
+        } else {
+          const data = pick(dashData, rng);
+          q.push(createTyping("punctuation_g8", "dashes_g8",
+            `What rule applies in: "${data.correct}"?`, data.rule));
+        }
+      }
+      return q;
+    },
+    commas_complex_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const commaData = [
+        { correct: "My teacher, Mr. Smith, is very kind.", wrong: ["My teacher Mr. Smith, is very kind.", "My teacher, Mr. Smith is very kind.", "My teacher Mr. Smith is very kind."] },
+        { correct: "After the long, exhausting hike, we rested.", wrong: ["After the long exhausting hike we rested.", "After, the long exhausting hike, we rested.", "After the long, exhausting hike we rested."] },
+        { correct: "The book, which was published in 1920, became a classic.", wrong: ["The book which was published in 1920 became a classic.", "The book, which was published in 1920 became a classic.", "The book which, was published in 1920, became a classic."] },
+        { correct: "Yes, I believe that is correct.", wrong: ["Yes I believe that is correct.", "Yes I believe, that is correct.", "Yes, I believe, that is correct."] },
+        { correct: "However, the results were inconclusive.", wrong: ["However the results were inconclusive.", "However the results, were inconclusive.", "However, the results, were inconclusive."] },
+        { correct: "She visited Paris, France; London, England; and Rome, Italy.", wrong: ["She visited Paris France, London England, and Rome Italy.", "She visited Paris, France, London, England, and Rome, Italy.", "She visited Paris France; London England; and Rome Italy."] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(commaData, rng);
+        q.push(createMCQ("punctuation_g8", "commas_complex_g8",
+          "Which sentence uses commas CORRECTLY in a complex structure?", data.correct, data.wrong));
+      }
+      return q;
+    },
+  },
+  vocab_g8: {
+    greek_latin_adv_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const rootData = [
+        { root: "chron", meaning: "time", examples: ["chronology", "chronic", "synchronize"], wrong: ["place", "people", "thought"] },
+        { root: "morph", meaning: "shape or form", examples: ["metamorphosis", "morphology", "amorphous"], wrong: ["time", "mind", "light"] },
+        { root: "path", meaning: "feeling or suffering", examples: ["empathy", "apathy", "pathology"], wrong: ["shape", "mind", "time"] },
+        { root: "psych", meaning: "mind or soul", examples: ["psychology", "psyche", "psychiatry"], wrong: ["body", "time", "shape"] },
+        { root: "bene", meaning: "good or well", examples: ["benefit", "benevolent", "benediction"], wrong: ["bad", "small", "large"] },
+        { root: "mal", meaning: "bad or evil", examples: ["malice", "malfunction", "malevolent"], wrong: ["good", "large", "time"] },
+        { root: "scrib/script", meaning: "to write", examples: ["manuscript", "inscription", "prescribe"], wrong: ["to read", "to speak", "to think"] },
+        { root: "spec/spect", meaning: "to look or see", examples: ["spectator", "inspect", "perspective"], wrong: ["to hear", "to touch", "to write"] },
+        { root: "dict", meaning: "to say or speak", examples: ["dictate", "predict", "verdict"], wrong: ["to write", "to see", "to think"] },
+        { root: "aud", meaning: "to hear", examples: ["audience", "audible", "auditorium"], wrong: ["to see", "to speak", "to write"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(rootData, rng);
+          const example = pick(data.examples, rng);
+          q.push(createMCQ("vocab_g8", "greek_latin_adv_g8",
+            `The root '${data.root}' (as in '${example}') means:`, data.meaning, data.wrong));
+        } else {
+          const data = pick(rootData, rng);
+          q.push(createTyping("vocab_g8", "greek_latin_adv_g8",
+            `What does the root '${data.root}' mean?`, data.meaning));
+        }
+      }
+      return q;
+    },
+    context_clues_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const clueData = [
+        { sentence: "The scientist's hypothesis, or educated guess, was later proven correct.", word: "hypothesis", meaning: "an educated guess", clueType: "appositive (definition after comma)", wrong: ["a proven fact", "a random thought", "a final answer"] },
+        { sentence: "Unlike her gregarious sister, Maria was shy and reserved.", word: "gregarious", meaning: "outgoing and sociable", clueType: "antonym/contrast clue (unlike)", wrong: ["quiet and shy", "angry and loud", "smart and studious"] },
+        { sentence: "The parched earth, cracked and dry from weeks without rain, needed water.", word: "parched", meaning: "extremely dry", clueType: "description/explanation clue", wrong: ["wet and muddy", "cold and frozen", "green and lush"] },
+        { sentence: "She was so elated after winning the award that she couldn't stop smiling.", word: "elated", meaning: "extremely happy and excited", clueType: "cause/effect clue", wrong: ["sad and disappointed", "angry and frustrated", "tired and bored"] },
+        { sentence: "The teacher used a mnemonic device, like 'ROY G BIV' for rainbow colors, to help students remember.", word: "mnemonic", meaning: "a memory aid or trick", clueType: "example clue", wrong: ["a punishment", "a test question", "a textbook"] },
+        { sentence: "His verbose speech, filled with unnecessary repetition and overly long sentences, bored the audience.", word: "verbose", meaning: "using too many words", clueType: "description clue", wrong: ["brief and clear", "exciting and engaging", "quiet and soft"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(clueData, rng);
+          const askMeaning = rng() > 0.4;
+          if (askMeaning) {
+            q.push(createMCQ("vocab_g8", "context_clues_g8",
+              `Based on context, '${data.word}' in "${data.sentence}" means:`, data.meaning, data.wrong));
+          } else {
+            q.push(createMCQ("vocab_g8", "context_clues_g8",
+              `What TYPE of context clue helps define '${data.word}'?`, data.clueType,
+              ["no clue is given", "root word clue", "illustration clue"]));
+          }
+        } else {
+          const data = pick(clueData, rng);
+          q.push(createTyping("vocab_g8", "context_clues_g8",
+            `Use context to define '${data.word}': "${data.sentence}"`, data.meaning));
+        }
+      }
+      return q;
+    },
+    figurative_adv_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const figData = [
+        { text: "'Oh great, another Monday!' (said sarcastically)", device: "verbal irony", wrong: ["a pun", "an allusion", "personification"] },
+        { text: "'I'm reading about anti-gravity. It's impossible to put down!'", device: "pun", wrong: ["verbal irony", "allusion", "hyperbole"] },
+        { text: "'She opened Pandora's box when she asked that question.'", device: "allusion", wrong: ["verbal irony", "pun", "metaphor"] },
+        { text: "'Time flies when you're having fun' — but time doesn't really fly!", device: "personification", wrong: ["verbal irony", "pun", "allusion"] },
+        { text: "'He met his Waterloo in the final exam.'", device: "allusion", wrong: ["pun", "verbal irony", "simile"] },
+        { text: "'I used to be a banker, but I lost interest.'", device: "pun", wrong: ["verbal irony", "allusion", "metaphor"] },
+        { text: "'Nice job!' (said to someone who just dropped all the plates)", device: "verbal irony", wrong: ["pun", "allusion", "hyperbole"] },
+        { text: "'He's a real Einstein' (said about someone who did something foolish)", device: "verbal irony", wrong: ["allusion only", "pun", "simile"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(figData, rng);
+          q.push(createMCQ("vocab_g8", "figurative_adv_g8",
+            `What figurative device? ${data.text}`, data.device, data.wrong));
+        } else {
+          const data = pick(figData, rng);
+          q.push(createTyping("vocab_g8", "figurative_adv_g8",
+            `Identify the figurative device: ${data.text}`, data.device));
+        }
+      }
+      return q;
+    },
+    word_nuances_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const nuanceData = [
+        { words: ["commence", "start", "begin", "kick off"], mostFormal: "commence", leastFormal: "kick off", wrong: ["start", "begin"] },
+        { words: ["residence", "home", "house", "pad"], mostFormal: "residence", leastFormal: "pad", wrong: ["home", "house"] },
+        { words: ["inquire", "ask", "question", "grill"], mostFormal: "inquire", leastFormal: "grill", wrong: ["ask", "question"] },
+        { words: ["deceased", "dead", "passed away", "gone"], mostFormal: "deceased", leastFormal: "gone", wrong: ["dead", "passed away"] },
+        { words: ["intoxicated", "drunk", "tipsy", "wasted"], mostFormal: "intoxicated", leastFormal: "wasted", wrong: ["drunk", "tipsy"] },
+        { words: ["perspire", "sweat", "glow"], mostFormal: "perspire", leastFormal: "sweat", wrong: ["glow"] },
+        { words: ["famished", "hungry", "starving", "peckish"], mostFormal: "famished", leastFormal: "peckish", wrong: ["hungry", "starving"] },
+        { words: ["slender", "thin", "skinny", "scrawny"], positive: "slender", negative: "scrawny", neutral: "thin", wrong: ["skinny"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(nuanceData, rng);
+          if ("mostFormal" in data) {
+            const askFormal = rng() > 0.5;
+            if (askFormal) {
+              q.push(createMCQ("vocab_g8", "word_nuances_g8",
+                `Which word has the MOST FORMAL tone? ${data.words.join(", ")}`, data.mostFormal, data.wrong));
+            } else {
+              q.push(createMCQ("vocab_g8", "word_nuances_g8",
+                `Which word has the LEAST FORMAL tone? ${data.words.join(", ")}`, data.leastFormal, data.wrong));
+            }
+          } else {
+            q.push(createMCQ("vocab_g8", "word_nuances_g8",
+              `Which word has a POSITIVE connotation? ${data.words.join(", ")}`, data.positive!,
+              [data.negative!, data.neutral!, ...data.wrong]));
+          }
+        } else {
+          const data = pick(nuanceData, rng);
+          if ("mostFormal" in data) {
+            q.push(createTyping("vocab_g8", "word_nuances_g8",
+              `Which is most FORMAL: ${data.words.join(", ")}?`, data.mostFormal));
+          } else {
+            q.push(createTyping("vocab_g8", "word_nuances_g8",
+              `Which has the most POSITIVE connotation: ${data.words.join(", ")}?`, data.positive!));
+          }
+        }
+      }
+      return q;
+    },
+  },
 };
 
 // ─── EXPORT & CONVENIENCE FUNCTION ──────────────────────────────────────────
