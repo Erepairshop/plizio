@@ -521,7 +521,7 @@ const G2: Record<string, Generator> = {
   },
   word3: (cc) => {
     const items = getItems(cc);
-    const a = randInt(2, 5), b = 5;
+    const a = randInt(2, 5), b = pick([2, 5, 10]);
     return q(wpEachGets(a, b, pick(items.sweets), cc), a * b, t("wordProblem", cc), 0, true);
   },
   word4: (cc) => {
@@ -625,10 +625,8 @@ const G2: Record<string, Generator> = {
     return q(`${a} + ${b} = ?`, a + b, t("addCarry", cc));
   },
   add3nums: (cc) => {
-    const a = randInt(10, 35), b = randInt(5, 25), c = randInt(5, 20);
-    const sum = a + b + c;
-    if (sum > 100) return q(`${a} + ${b} + ${c} = ?`, a + b + c, t("add3nums", cc));
-    return q(`${a} + ${b} + ${c} = ?`, sum, t("add3nums", cc));
+    const a = randInt(5, 30), b = randInt(5, 25), c = randInt(2, 15);
+    return q(`${a} + ${b} + ${c} = ?`, a + b + c, t("add3nums", cc));
   },
   wordAddG2: (cc) => {
     const names = getNames(cc); const items = getItems(cc);
@@ -795,8 +793,9 @@ const G2: Record<string, Generator> = {
   },
   // ── NEW G2: Number line (Zahlenstrahl) with larger steps ──
   numberLineG2: (cc) => {
-    const step = pick([10, 20, 25, 5]);
-    const start = randInt(0, 3) * step;
+    const step = pick([5, 10, 20]);
+    const maxStart = Math.floor((100 - 4 * step) / step) * step;
+    const start = randInt(0, Math.max(0, maxStart / step)) * step;
     const count = 4;
     const seq = Array.from({ length: count }, (_, i) => start + i * step);
     return q(qNextInSequence(seq.join(" → "), cc), start + count * step, t("numberLine2", cc));
@@ -815,14 +814,105 @@ const G2: Record<string, Generator> = {
     const b = randInt(5, 30);
     return q(qMissingInEquation(`${a} + ? = ${a + b}`, cc), b, t("missingNumber", cc));
   },
-  // ── NEW G2: Number line — place a number ──
+  // ── NEW G2: Number line — find the missing number in the middle ──
   numberLinePlace: (cc) => {
     const step = pick([2, 5, 10]);
-    const pos = randInt(1, 4);
-    const start = 0;
-    const seq = Array.from({ length: 5 }, (_, i) => i === pos ? "?" : start + i * step);
-    const questionSeq = seq.join(" – ");
-    return q(qNextInSequence(`0 – ${step * 1} – ${step * 2} – ${step * 3} – ?`, cc), step * 4, t("numberLine2", cc));
+    const start = randInt(0, 5) * step;
+    const hiddenPos = pick([1, 2, 3]); // hide a middle position (not first/last)
+    const values = [0, 1, 2, 3, 4].map(i => start + i * step);
+    const seq = values.map((v, i) => (i === hiddenPos ? "?" : `${v}`));
+    const answer = values[hiddenPos];
+    return q(qMissingInEquation(seq.join(" – "), cc), answer, t("numberLine2", cc));
+  },
+  // ── G2: Halving (Halbieren) ──
+  halving: (cc) => {
+    const n = randInt(1, 25) * 2; // even numbers 2–50
+    return q(qHalbieren(n, cc), n / 2, t("g1Halbieren", cc));
+  },
+  // ── G2: Doubling (Verdoppeln) ──
+  doubling: (cc) => {
+    const n = randInt(2, 49);
+    return q(qVerdoppeln(n, cc), n * 2, t("g1Verdoppeln", cc));
+  },
+  // ── G2: Missing subtrahend (a − ? = b) ──
+  missingSubtrahend: (cc) => {
+    const b = randInt(5, 40), diff = randInt(5, 35);
+    const a = b + diff;
+    return q(qMissingInEquation(`${a} − ? = ${b}`, cc), diff, t("missingNumber", cc));
+  },
+  // ── G2: Times tables ×3 and ×4 ──
+  mulTable34: (cc) => {
+    const m = pick([3, 4]), b = randInt(1, 10);
+    return pick([
+      () => q(`${m} × ${b} = ?`, m * b, t("multiplication", cc)),
+      () => q(`${b} × ${m} = ?`, m * b, t("multiplication", cc)),
+    ])();
+  },
+  // ── G2: Missing multiplication factor (? × m = product) ──
+  missingMulFactor: (cc) => {
+    const m = pick([2, 5, 10]), result = randInt(1, 10);
+    const product = m * result;
+    return pick([
+      () => q(qMissingInEquation(`? × ${m} = ${product}`, cc), result, t("missingNumber", cc)),
+      () => q(qMissingInEquation(`${m} × ? = ${product}`, cc), result, t("missingNumber", cc)),
+    ])();
+  },
+  // ── G2: Order numbers smallest to largest (up to 99) ──
+  numberOrderG2: (cc) => {
+    const nums = [randInt(10, 90), randInt(10, 90), randInt(10, 90)];
+    while (nums[0] === nums[1]) nums[1] = randInt(10, 90);
+    while (nums[2] === nums[0] || nums[2] === nums[1]) nums[2] = randInt(10, 90);
+    const sorted = [...nums].sort((a, b) => a - b);
+    return qs(qG1NumberOrder(nums, cc), sorted.join(","), t("g1NumberOrder", cc));
+  },
+  // ── G2: Length in cm (addition context) ──
+  lengthMeasure: (cc) => {
+    const lang = getLang(cc);
+    const a = randInt(5, 40), b = randInt(5, 30);
+    const item1 = lang === "DE" ? "Bleistift" : lang === "HU" ? "ceruza" : lang === "RO" ? "creion" : "pencil";
+    const item2 = lang === "DE" ? "Lineal" : lang === "HU" ? "vonalzó" : lang === "RO" ? "riglă" : "ruler";
+    const question = lang === "DE"
+      ? `Ein ${item1} ist ${a} cm lang, ein ${item2} ist ${b} cm. Wie lang sind beide zusammen?`
+      : lang === "HU"
+      ? `Egy ${item1} ${a} cm, egy ${item2} ${b} cm. Mennyi a kettő együtt?`
+      : lang === "RO"
+      ? `Un ${item1} are ${a} cm, o ${item2} are ${b} cm. Cât fac împreună?`
+      : `A ${item1} is ${a} cm long, a ${item2} is ${b} cm. How long are they together?`;
+    return q(question, a + b, t("units", cc), 0, true);
+  },
+  // ── G2: Place value — how many tens and ones ──
+  placeValueG2: (cc) => pick([
+    () => { const n = randInt(11, 99); return q(qHowManyZehner(n, cc), Math.floor(n / 10), t("stellenwert2", cc)); },
+    () => { const n = randInt(11, 99); return q(qHowManyEiner(n, cc), n % 10, t("stellenwert2", cc)); },
+    () => { const tens = randInt(1,9), ones = randInt(1,9); const n = tens*10+ones; return q(qZahlzerlegungA(n, tens*10, ones, cc), ones, t("zahlzerlegung2", cc)); },
+    () => { const tens = randInt(1,9), ones = randInt(1,9); const n = tens*10+ones; return q(qZahlzerlegungB(n, tens*10, ones, cc), tens*10, t("zahlzerlegung2", cc)); },
+  ])(),
+  // ── G2: Neighbor numbers (predecessor + successor) ──
+  neighborG2: (cc) => {
+    const n = randInt(10, 89);
+    return pick([
+      () => q(qVorgaenger(n, cc), n - 1, t("neighborNumber", cc)),
+      () => q(qNachfolger(n, cc), n + 1, t("neighborNumber", cc)),
+    ])();
+  },
+  // ── G2: Money — change calculation ──
+  moneyChangeG2: (cc) => {
+    const items = getItems(cc); const cur = getCurrency(cc);
+    const price = pick([10, 15, 20, 25, 30, 35, 40, 45]);
+    const paid = price <= 45 ? 50 : 100;
+    return q(qChangeBack(pick(items.sweets), price, paid, cur, cc), paid - price, t("wordProblem", cc), 0, true);
+  },
+  // ── G2: Simple clock reading — digital → what time is it ──
+  clockSimpleG2: (cc) => {
+    if (cc === "US") {
+      const h = randInt(7, 11), addH = randInt(1, 4);
+      return q(qAmPmAddHours(h, addH, true, cc), h + addH <= 12 ? h + addH : h + addH - 12, t("ampmTime", cc), 0, true);
+    }
+    return pick([
+      () => { const h = randInt(1, 12); return q(qClockFullHour(h, cc), h, t("clockReading", cc)); },
+      () => { const h = randInt(1, 11); return q(qClockHalfPast(h, cc), 30, t("clockReading", cc)); },
+      () => { const h = randInt(1, 11); return q(qClockQuarterPast(h, cc), 15, t("clockReading", cc)); },
+    ])();
   },
 };
 
@@ -1532,11 +1622,11 @@ const GRADES_1_4: Record<number, Record<number, PeriodTopics>> = {
     5: { current: [G1.add20, G1.add20b, G1.sub20, G1.sub20b, G1.word1, G1.word2, G1.word3, G1.word4, G1.word5, G1.word6, G1.word7, G1.word8, G1.word9, G1.word10, G1.compare, G1.missing10, G1.missing10sub, G1.clockQuarter, G1.evenOdd, G1.timeline, G1.fraction, G1.coins], review: [G1.add10, G1.sub10] },
   },
   2: {
-    1: { current: [G2.add100tens, G2.sub100tens, G2.add100, G2.missing100, G2.evenOdd, G2.compare100, G2.composeNumber, G2.numberLineG2, G2.countAdd], review: [G1.add20, G1.sub20] },
-    2: { current: [G2.add100tens, G2.sub100tens, G2.add100, G2.add100b, G2.sequence, G2.evenOdd, G2.compare100, G2.composeNumber, G2.countAdd, G2.countSub], review: [G1.add20, G1.sub20] },
-    3: { current: [G2.add100, G2.add100b, G2.sub100, G2.sub100b, G2.units, G2.rounding10, G2.countAdd, G2.countSub, G2.missingAddend, G2.chartG2], review: [G2.add100tens, G2.sub100tens] },
-    4: { current: [G2.mul2510, G2.mul2510b, G2.add100, G2.sub100, G2.clock2, G2.rounding10, G2.mulVisual, G2.divVisual, G2.patternG2], review: [G2.add100tens, G2.sequence] },
-    5: { current: [G2.mul2510, G2.mul2510b, G2.div2510, G2.word1, G2.word2, G2.word3, G2.word4, G2.units, G2.clock2, G2.sequence, G2.rounding10, G2.mulVisual, G2.divVisual, G2.patternG2, G2.chartG2, G2.compare100], review: [G2.add100, G2.sub100] },
+    1: { current: [G2.add100tens, G2.sub100tens, G2.add100, G2.missing100, G2.evenOdd, G2.compare100, G2.composeNumber, G2.numberLineG2, G2.countAdd, G2.placeValueG2, G2.neighborG2, G2.halving, G2.doubling, G2.vorgaenger2, G2.nachfolger2], review: [G1.add20, G1.sub20] },
+    2: { current: [G2.add100tens, G2.sub100tens, G2.add100, G2.add100b, G2.addOhne, G2.subOhne, G2.sequence, G2.evenOdd, G2.compare100, G2.composeNumber, G2.countAdd, G2.countSub, G2.halving, G2.doubling, G2.missingSubtrahend, G2.numberOrderG2, G2.numberLinePlace, G2.zahlzerlegung2, G2.nachbarzahlen], review: [G1.add20, G1.sub20] },
+    3: { current: [G2.add100, G2.add100b, G2.sub100, G2.sub100b, G2.addOhne, G2.addMit, G2.subOhne, G2.subMit, G2.add3nums, G2.units, G2.rounding10, G2.countAdd, G2.countSub, G2.missingAddend, G2.missingSubtrahend, G2.chartG2, G2.halving, G2.doubling, G2.lengthMeasure, G2.wordAddG2, G2.wordSubG2, G2.numberOrderG2], review: [G2.add100tens, G2.sub100tens] },
+    4: { current: [G2.mul2510, G2.mul2510b, G2.mulTable34, G2.mulRepeated, G2.mulGroup, G2.add100, G2.sub100, G2.clock2, G2.clockSimpleG2, G2.rounding10, G2.mulVisual, G2.divVisual, G2.divShare, G2.divMulRel, G2.patternG2, G2.missingMulFactor, G2.shapeBasic, G2.weightGKg], review: [G2.add100tens, G2.sequence] },
+    5: { current: [G2.mul2510, G2.mul2510b, G2.div2510, G2.mulTable34, G2.missingMulFactor, G2.word1, G2.word2, G2.word3, G2.word4, G2.wordAddG2, G2.wordSubG2, G2.wordMulG2, G2.wordDivG2, G2.wordMoneyG2, G2.wordTimeG2, G2.moneyChangeG2, G2.units, G2.ampmClock, G2.clock2, G2.sequence, G2.rounding10, G2.mulVisual, G2.divVisual, G2.patternG2, G2.chartG2, G2.compare100, G2.halving, G2.doubling, G2.perimeterSimple, G2.shapeBasic, G2.moneyEuroCent, G2.weightGKg, G2.lengthMeasure], review: [G2.add100, G2.sub100] },
   },
   3: {
     1: { current: [G3.add1000, G3.add1000b, G3.sub1000, G3.rounding100], review: [G2.add100, G2.sub100, G2.mul2510] },
