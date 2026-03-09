@@ -103,6 +103,13 @@ const topicNames: Record<Lang, Record<string, string>> = {
     lcmGcd: "LKKT / LNKO",
     inequality: "egyenlőtlenség",
     clockReading: "óraolvasás",
+    g1NumberLine: "számegyenes",
+    g1PlaceValue: "helyiérték",
+    g1GridCount: "négyzetek számolása",
+    g1Sequence: "számsor",
+    g1Coins: "érmék számolása",
+    g1Timeline: "időtartam (órák)",
+    g1Fraction: "részek számolása",
     evenOdd: "páros / páratlan",
     statistics: "statisztika",
     volume: "térfogat",
@@ -182,6 +189,13 @@ const topicNames: Record<Lang, Record<string, string>> = {
     lcmGcd: "kgV / ggT",
     inequality: "Ungleichungen",
     clockReading: "Uhrzeit",
+    g1NumberLine: "Zahlenstrahl",
+    g1PlaceValue: "Stellenwert",
+    g1GridCount: "Kästchen zählen",
+    g1Sequence: "Zahlenreihe",
+    g1Coins: "Münzen zählen",
+    g1Timeline: "Zeitdauer (Stunden)",
+    g1Fraction: "Teile zählen",
     evenOdd: "gerade / ungerade",
     statistics: "Statistik",
     volume: "Volumen",
@@ -261,6 +275,13 @@ const topicNames: Record<Lang, Record<string, string>> = {
     lcmGcd: "LCM / GCD",
     inequality: "inequalities",
     clockReading: "clock reading",
+    g1NumberLine: "number line",
+    g1PlaceValue: "place value",
+    g1GridCount: "counting squares",
+    g1Sequence: "number sequence",
+    g1Coins: "counting coins",
+    g1Timeline: "time duration (hours)",
+    g1Fraction: "counting parts",
     evenOdd: "even / odd",
     statistics: "statistics",
     volume: "volume",
@@ -340,6 +361,13 @@ const topicNames: Record<Lang, Record<string, string>> = {
     lcmGcd: "c.m.m.m.c / c.m.m.d.c",
     inequality: "inecuații",
     clockReading: "citirea orei",
+    g1NumberLine: "dreapta numerelor",
+    g1PlaceValue: "valoare pozițională",
+    g1GridCount: "numărarea pătratelor",
+    g1Sequence: "șir de numere",
+    g1Coins: "numărarea monedelor",
+    g1Timeline: "durată (ore)",
+    g1Fraction: "numărarea părților",
     evenOdd: "par / impar",
     statistics: "statistică",
     volume: "volum",
@@ -1543,6 +1571,126 @@ export function qClockQuarterPast(h: number, countryCode: string): string {
     case "EN": return `It is quarter past ${h}. How many minutes past ${h}?`;
     case "RO": return `Este un sfert după ora ${h}. Câte minute?`;
     default:   return `Negyed ${h + 1} van. Hány perccel múlt el ${h} óra?`;
+  }
+}
+
+// ─── GRADE 1 VISUAL TOPIC TEXT GENERATORS ─────────────────────────────
+
+export function qG1ClockQuarter(h: number, m: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const mt = m === 0 ? "" : m === 15 ? "15" : m === 30 ? "30" : "45";
+  const timeStr = `${h}:${String(m).padStart(2, "0")}`;
+  switch (lang) {
+    case "DE": return `Die Uhr zeigt ${timeStr}. Wie viel Uhr ist es? (Schreibe H:MM)`;
+    case "EN": return `The clock shows ${timeStr}. What time is it? (Write H:MM)`;
+    case "RO": return `Ceasul arată ${timeStr}. Ce oră este? (Scrie H:MM)`;
+    default:   return `Az óra ${timeStr}-t mutat. Hány óra van? (Írd H:MM formában)`;
+  }
+}
+
+export function qG1NumberLine(min: number, max: number, marked: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Auf dem Zahlenstrahl von ${min} bis ${max} zeigt der Pfeil auf welche Zahl?`;
+    case "EN": return `On the number line from ${min} to ${max}, what number does the arrow point to?`;
+    case "RO": return `Pe dreapta numerelor de la ${min} la ${max}, la ce număr arată săgeata?`;
+    default:   return `A számegyenesen ${min}-tól ${max}-ig a nyíl melyik számra mutat?`;
+  }
+}
+
+export function qG1PlaceValueTens(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${n} hat wie viele Zehner?`;
+    case "EN": return `How many tens does ${n} have?`;
+    case "RO": return `Câte zeci are ${n}?`;
+    default:   return `${n}-nek hány tízese van?`;
+  }
+}
+
+export function qG1PlaceValueOnes(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${n} hat wie viele Einer?`;
+    case "EN": return `How many ones does ${n} have?`;
+    case "RO": return `Câte unități are ${n}?`;
+    default:   return `${n}-nek hány egyesre van?`;
+  }
+}
+
+export function qG1PlaceValueTotal(tens: number, ones: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${tens} Zehner und ${ones} Einer = ?`;
+    case "EN": return `${tens} tens and ${ones} ones = ?`;
+    case "RO": return `${tens} zeci și ${ones} unități = ?`;
+    default:   return `${tens} tízes és ${ones} egyes = ?`;
+  }
+}
+
+export function qG1GridCount(rows: number, cols: number, colored: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Im ${rows}×${cols} Raster sind farbige Kästchen. Wie viele sind eingefärbt?`;
+    case "EN": return `In the ${rows}×${cols} grid, how many squares are colored?`;
+    case "RO": return `În grila ${rows}×${cols}, câte pătrate sunt colorate?`;
+    default:   return `A ${rows}×${cols} rácsban hány négyzet van kiszínezve?`;
+  }
+}
+
+export function qG1GridEmpty(rows: number, cols: number, empty: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Im ${rows}×${cols} Raster, wie viele Kästchen sind NICHT eingefärbt?`;
+    case "EN": return `In the ${rows}×${cols} grid, how many squares are NOT colored?`;
+    case "RO": return `În grila ${rows}×${cols}, câte pătrate NU sunt colorate?`;
+    default:   return `A ${rows}×${cols} rácsban hány négyzet NINCS kiszínezve?`;
+  }
+}
+
+export function qG1Sequence(shown: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Setze die Zahlenreihe fort: ${shown}`;
+    case "EN": return `Continue the number sequence: ${shown}`;
+    case "RO": return `Continuă șirul de numere: ${shown}`;
+    default:   return `Folytasd a számsort: ${shown}`;
+  }
+}
+
+export function qG1Coins(coinDesc: string, currency: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Du hast ${coinDesc}. Wie viel Geld ist das insgesamt? (in ${currency})`;
+    case "EN": return `You have ${coinDesc}. How much money is that in total? (in ${currency})`;
+    case "RO": return `Ai ${coinDesc}. Câți bani ai în total? (în ${currency})`;
+    default:   return `Van ${coinDesc}. Összesen mennyi pénzed van? (${currency}-ban)`;
+  }
+}
+
+export function qG1Timeline(startH: number, endH: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Von ${startH}:00 bis ${endH}:00 — wie viele Stunden sind vergangen?`;
+    case "EN": return `From ${startH}:00 to ${endH}:00 — how many hours have passed?`;
+    case "RO": return `De la ${startH}:00 la ${endH}:00 — câte ore au trecut?`;
+    default:   return `${startH}:00-tól ${endH}:00-ig — hány óra telt el?`;
+  }
+}
+
+export function qG1Fraction(totalParts: number, coloredParts: number, shape: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const shapeNames: Record<string, Record<string, string>> = {
+    pizza: { DE: "Pizza", EN: "pizza", RO: "pizza", HU: "pizza" },
+    circle: { DE: "Kreis", EN: "circle", RO: "cerc", HU: "kör" },
+    rectangle: { DE: "Rechteck", EN: "rectangle", RO: "dreptunghi", HU: "téglalap" },
+  };
+  const sn = shapeNames[shape]?.[lang] || shape;
+  switch (lang) {
+    case "DE": return `Ein ${sn} ist in ${totalParts} gleiche Teile geteilt. ${coloredParts} Teile sind eingefärbt. Wie viele Teile sind eingefärbt?`;
+    case "EN": return `A ${sn} is divided into ${totalParts} equal parts. ${coloredParts} parts are colored. How many parts are colored?`;
+    case "RO": return `Un ${sn} este împărțit în ${totalParts} părți egale. ${coloredParts} părți sunt colorate. Câte părți sunt colorate?`;
+    default:   return `Egy ${sn} ${totalParts} egyenlő részre van osztva. ${coloredParts} rész ki van színezve. Hány részt színeztünk ki?`;
   }
 }
 
