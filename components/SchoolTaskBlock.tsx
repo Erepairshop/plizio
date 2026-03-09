@@ -54,6 +54,12 @@ const G1NumberComparison = dynamic(() => import('./grade1-visual/NumberCompariso
 const G1PredecessorFinder = dynamic(() => import('./grade1-visual/PredecessorFinder'), { ssr: false });
 const G1SuccessorFinder = dynamic(() => import('./grade1-visual/SuccessorFinder'), { ssr: false });
 
+// Grade 1 Phase 2 - Operations with Pictures
+const G1AdditionWithPictures = dynamic(() => import('./grade1-visual/AdditionWithPictures'), { ssr: false });
+const G1SubtractionWithPictures = dynamic(() => import('./grade1-visual/SubtractionWithPictures'), { ssr: false });
+const G1NumberDecomposition = dynamic(() => import('./grade1-visual/NumberDecomposition'), { ssr: false });
+const G1NumberCompletion = dynamic(() => import('./grade1-visual/NumberCompletion'), { ssr: false });
+
 interface Props {
   block: SchoolTaskBlockType;
   blockIndex: number;
@@ -149,6 +155,15 @@ export default function SchoolTaskBlock({
         return <G1PredecessorFinder lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
       case 'g1-successor':
         return <G1SuccessorFinder lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      // Phase 2 - Operations with Pictures
+      case 'g1-addition-pics':
+        return <G1AdditionWithPictures lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-subtraction-pics':
+        return <G1SubtractionWithPictures lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-decompose':
+        return <G1NumberDecomposition lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-completion':
+        return <G1NumberCompletion lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
       default:
         return null;
     }

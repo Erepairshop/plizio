@@ -9,7 +9,8 @@ import { generateTopicQuestions, getDEThemes, getENThemes, getHUThemes, getROThe
 
 export type VisualQuestionType = 'zeichnen' | 'messen' | 'uhrzeit' | 'grid-area' | 'place-value' | 'fraction-pizza' | 'symmetry' | 'sequence' | 'timeline' | 'number-line' | 'angle' | 'circle-draw' | 'money'
   | 'g1-clock' | 'g1-number-line' | 'g1-place-value' | 'g1-grid-count' | 'g1-sequence' | 'g1-coins' | 'g1-timeline' | 'g1-fraction'
-  | 'g1-dots' | 'g1-dice' | 'g1-fingers' | 'g1-compare' | 'g1-predecessor' | 'g1-successor';
+  | 'g1-dots' | 'g1-dice' | 'g1-fingers' | 'g1-compare' | 'g1-predecessor' | 'g1-successor'
+  | 'g1-addition-pics' | 'g1-subtraction-pics' | 'g1-decompose' | 'g1-completion';
 
 export type VisualQuestionData = {
   type: VisualQuestionType;
@@ -59,7 +60,11 @@ export type TaskType =
   | 'visual_g1_fingers'
   | 'visual_g1_compare'
   | 'visual_g1_predecessor'
-  | 'visual_g1_successor';
+  | 'visual_g1_successor'
+  | 'visual_g1_addition_pics'
+  | 'visual_g1_subtraction_pics'
+  | 'visual_g1_decompose'
+  | 'visual_g1_completion';
 
 export type AufgabenItem = {
   question: string;
@@ -1051,6 +1056,11 @@ const TITLES: Record<TaskType, Record<string, string>> = {
   visual_g1_compare: { de: 'Größer oder kleiner?', en: 'Greater or less than?', hu: 'Nagyobb vagy kisebb?', ro: 'Mai mare sau mai mic?' },
   visual_g1_predecessor: { de: 'Welche Zahl kommt davor?', en: 'What number comes before?', hu: 'Mi az előző szám?', ro: 'Ce număr vine înainte?' },
   visual_g1_successor: { de: 'Welche Zahl kommt danach?', en: 'What number comes after?', hu: 'Mi a következő szám?', ro: 'Ce număr vine după?' },
+  // Phase 2 - Operations with Pictures
+  visual_g1_addition_pics: { de: 'Addition mit Bildern', en: 'Addition with Pictures', hu: 'Összeadás képekkel', ro: 'Adunare cu imagini' },
+  visual_g1_subtraction_pics: { de: 'Subtraktion mit Bildern', en: 'Subtraction with Pictures', hu: 'Kivonás képekkel', ro: 'Scădere cu imagini' },
+  visual_g1_decompose: { de: 'Zahlzerlegung', en: 'Number Decomposition', hu: 'Szám szétbontása', ro: 'Descompunerea numărului' },
+  visual_g1_completion: { de: 'Ergänze die Zahl!', en: 'Complete the Number!', hu: 'Egészítsd ki a számsort!', ro: 'Completează numărul!' },
 };
 
 function getTitleFor(type: TaskType, cc: string): string {

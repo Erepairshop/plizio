@@ -15,3 +15,9 @@ export { default as FingerCounter } from './FingerCounter';
 export { default as NumberComparison } from './NumberComparison';
 export { default as PredecessorFinder } from './PredecessorFinder';
 export { default as SuccessorFinder } from './SuccessorFinder';
+
+// Phase 2 - Operations with Pictures
+export { default as AdditionWithPictures } from './AdditionWithPictures';
+export { default as SubtractionWithPictures } from './SubtractionWithPictures';
+export { default as NumberDecomposition } from './NumberDecomposition';
+export { default as NumberCompletion } from './NumberCompletion';
