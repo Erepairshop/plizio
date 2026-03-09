@@ -338,6 +338,30 @@ export const G2_Generators = {
       return q;
     }
   },
+  vocab_g2: {
+    context_clues_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { sentence: "'The ancient ruins were very old.' What does 'ancient' mean?", answer: "very old", wrong: ["very new", "very big", "very far"] },
+        { sentence: "'She spoke in a loud, thunderous voice.' What does 'thunderous' mean?", answer: "very loud", wrong: ["very soft", "very high", "very strange"] },
+        { sentence: "'The athlete was very swift and fast.' What does 'swift' mean?", answer: "fast", wrong: ["strong", "tall", "slow"] },
+        { sentence: "'He is a loyal friend who is always there for me.' What does 'loyal' mean?", answer: "faithful and true", wrong: ["funny", "smart", "rich"] },
+        { sentence: "'The scarce resources were hard to find.' What does 'scarce' mean?", answer: "rare and hard to find", wrong: ["common and easy", "expensive", "valuable"] },
+        { sentence: "'She felt elated when she won the prize.' What does 'elated' mean?", answer: "very happy", wrong: ["very sad", "very tired", "very scared"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(2, rng)) {
+          const sentSet = pick(sentenceData, rng);
+          q.push(createMCQ("vocab_g2", "context_clues_g2", sentSet.sentence, sentSet.answer, sentSet.wrong));
+        } else {
+          const sentSet = pick(sentenceData, rng);
+          q.push(createTyping("vocab_g2", "context_clues_g2", sentSet.sentence, sentSet.answer));
+        }
+      }
+      return q;
+    }
+  },
   spelling_g2: {
     vowel_patterns_g2: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
@@ -532,6 +556,109 @@ export const G3_Generators = {
       return q;
     }
   },
+  spelling_g3: {
+    prefixes_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const prefixData = [
+        { prefix: "un-", meaning: "not", examples: ["unhappy", "unclean", "unsafe"] },
+        { prefix: "re-", meaning: "again", examples: ["redo", "restart", "rebuild"] },
+        { prefix: "pre-", meaning: "before", examples: ["preview", "preschool", "prepare"] },
+        { prefix: "dis-", meaning: "not / opposite", examples: ["disagree", "dislike", "disconnect"] },
+        { prefix: "mis-", meaning: "wrong", examples: ["misspell", "misunderstand", "miscount"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(3, rng)) {
+          const prefixSet = pick(prefixData, rng);
+          const example = pick(prefixSet.examples, rng);
+          const wrong = prefixData.filter(p => p.prefix !== prefixSet.prefix).map(p => p.meaning).slice(0, 3);
+          q.push(createMCQ("spelling_g3", "prefixes_g3",
+            `What does the prefix '${prefixSet.prefix}' mean in '${example}'?`, prefixSet.meaning, wrong));
+        } else {
+          const prefixSet = pick(prefixData, rng);
+          q.push(createTyping("spelling_g3", "prefixes_g3",
+            `What does the prefix '${prefixSet.prefix}' mean?`, prefixSet.meaning));
+        }
+      }
+      return q;
+    },
+    suffixes_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const suffixData = [
+        { suffix: "-ness", meaning: "state or quality of", examples: ["happiness", "darkness", "kindness"] },
+        { suffix: "-ful", meaning: "full of", examples: ["hopeful", "careful", "beautiful"] },
+        { suffix: "-less", meaning: "without", examples: ["hopeless", "careless", "helpless"] },
+        { suffix: "-ly", meaning: "in a manner of", examples: ["quickly", "slowly", "happily"] },
+        { suffix: "-ing", meaning: "action or process", examples: ["running", "playing", "singing"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(3, rng)) {
+          const suffixSet = pick(suffixData, rng);
+          const example = pick(suffixSet.examples, rng);
+          const wrong = suffixData.filter(s => s.suffix !== suffixSet.suffix).map(s => s.meaning).slice(0, 3);
+          q.push(createMCQ("spelling_g3", "suffixes_g3",
+            `What does the suffix '${suffixSet.suffix}' mean in '${example}'?`, suffixSet.meaning, wrong));
+        } else {
+          const suffixSet = pick(suffixData, rng);
+          q.push(createTyping("spelling_g3", "suffixes_g3",
+            `What does the suffix '${suffixSet.suffix}' mean?`, suffixSet.meaning));
+        }
+      }
+      return q;
+    },
+    homophones_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const homophoneData = [
+        { pair: "there/their/they're", correct: "they're", sentence: "'___ going to the park.' Which is correct?" },
+        { pair: "to/two/too", correct: "too", sentence: "'I want to go ___.'" },
+        { pair: "know/no", correct: "know", sentence: "'Do you ___ the answer?'" },
+        { pair: "right/write", correct: "write", sentence: "'Please ___ your name here.'" },
+        { pair: "hear/here", correct: "here", sentence: "'Come ___, please.'" },
+        { pair: "sea/see", correct: "see", sentence: "'I can ___ the mountains.'" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(3, rng)) {
+          const homoSet = pick(homophoneData, rng);
+          const options = homoSet.pair.split("/");
+          const wrong = options.filter(o => o !== homoSet.correct).slice(0, 3);
+          q.push(createMCQ("spelling_g3", "homophones_g3", homoSet.sentence, homoSet.correct, wrong));
+        } else {
+          const homoSet = pick(homophoneData, rng);
+          q.push(createTyping("spelling_g3", "homophones_g3", homoSet.sentence, homoSet.correct));
+        }
+      }
+      return q;
+    },
+    word_families_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const familyData = [
+        { family: "play", related: ["play", "player", "played", "playing"], root: "play" },
+        { family: "run", related: ["run", "runner", "ran", "running"], root: "run" },
+        { family: "happy", related: ["happy", "happily", "happiness", "unhappy"], root: "happy" },
+        { family: "teach", related: ["teach", "teacher", "taught", "teaching"], root: "teach" },
+        { family: "jump", related: ["jump", "jumped", "jumper", "jumping"], root: "jump" },
+        { family: "kind", related: ["kind", "kindly", "kindness", "unkind"], root: "kind" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(3, rng)) {
+          const familySet = pick(familyData, rng);
+          const word = pick(familySet.related, rng);
+          const question = `Which word is in the same word family as '${word}'?`;
+          const otherWords = familySet.related.filter(w => w !== word);
+          const wrong = familyData.filter(f => f.root !== familySet.root).map(f => pick(f.related, rng)).slice(0, 3);
+          q.push(createMCQ("spelling_g3", "word_families_g3", question, pick(otherWords, rng), wrong));
+        } else {
+          const familySet = pick(familyData, rng);
+          q.push(createTyping("spelling_g3", "word_families_g3",
+            `Name a word in the family of '${familySet.root}':`, pick(familySet.related, rng)));
+        }
+      }
+      return q;
+    }
+  },
   vocab_g3: {
     compound_words_g3: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
@@ -609,6 +736,64 @@ export const G4_Generators = {
       }
       return q;
     }
+  },
+  vocab_g4: {
+    synonyms_antonyms_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const wordData = [
+        { word: "big", synonym: "large", antonym: "small" },
+        { word: "fast", synonym: "quick", antonym: "slow" },
+        { word: "happy", synonym: "joyful", antonym: "sad" },
+        { word: "hot", synonym: "warm", antonym: "cold" },
+        { word: "clean", synonym: "tidy", antonym: "dirty" },
+        { word: "begin", synonym: "start", antonym: "end" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(4, rng)) {
+          const wordSet = pick(wordData, rng);
+          const isAntoym = rng() > 0.5;
+          if (isAntoym) {
+            const wrong = wordData.filter(w => w.word !== wordSet.word).map(w => w.antonym).slice(0, 3);
+            q.push(createMCQ("vocab_g4", "synonyms_antonyms_g4",
+              `What is the ANTONYM of '${wordSet.word}'?`, wordSet.antonym, wrong));
+          } else {
+            const wrong = wordData.filter(w => w.word !== wordSet.word).map(w => w.synonym).slice(0, 3);
+            q.push(createMCQ("vocab_g4", "synonyms_antonyms_g4",
+              `What is the SYNONYM of '${wordSet.word}'?`, wordSet.synonym, wrong));
+          }
+        } else {
+          const wordSet = pick(wordData, rng);
+          const isAntonym = rng() > 0.5;
+          const answer = isAntonym ? wordSet.antonym : wordSet.synonym;
+          const label = isAntonym ? "antonym" : "synonym";
+          q.push(createTyping("vocab_g4", "synonyms_antonyms_g4",
+            `Write a ${label} of '${wordSet.word}':`, answer));
+        }
+      }
+      return q;
+    },
+    context_clues_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { sentence: "'The teacher gave praise for the excellent work.' What does 'praise' mean?", answer: "approval and encouragement", wrong: ["criticism", "punishment", "confusion"] },
+        { sentence: "'The path was winding and twisted.' What does 'winding' mean?", answer: "curving and turning", wrong: ["straight", "short", "broken"] },
+        { sentence: "'She was astute and clever in her decisions.' What does 'astute' mean?", answer: "smart and perceptive", wrong: ["lazy", "confused", "stubborn"] },
+        { sentence: "'The desolate landscape had no trees or people.' What does 'desolate' mean?", answer: "empty and lonely", wrong: ["crowded", "beautiful", "hilly"] },
+        { sentence: "'He was tenacious and refused to give up.' What does 'tenacious' mean?", answer: "persistent and determined", wrong: ["lazy", "weak", "careless"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(4, rng)) {
+          const sentSet = pick(sentenceData, rng);
+          q.push(createMCQ("vocab_g4", "context_clues_g4", sentSet.sentence, sentSet.answer, sentSet.wrong));
+        } else {
+          const sentSet = pick(sentenceData, rng);
+          q.push(createTyping("vocab_g4", "context_clues_g4", sentSet.sentence, sentSet.answer));
+        }
+      }
+      return q;
+    }
   }
 };
 
@@ -680,6 +865,58 @@ export const G5_Generators = {
       }
       return q;
     }
+  },
+  vocab_g5: {
+    greek_latin_roots_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const rootData = [
+        { root: "aqua", meaning: "water", examples: ["aquarium", "aquatic", "aqueduct"] },
+        { root: "geo", meaning: "earth", examples: ["geography", "geology", "geometry"] },
+        { root: "bio", meaning: "life", examples: ["biography", "biology", "biosphere"] },
+        { root: "photo", meaning: "light", examples: ["photograph", "photosynthesis", "photocopier"] },
+        { root: "chron", meaning: "time", examples: ["chronological", "chronicle", "synchronize"] },
+        { root: "graph", meaning: "write", examples: ["biography", "geography", "paragraph"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(5, rng)) {
+          const rootSet = pick(rootData, rng);
+          const example = pick(rootSet.examples, rng);
+          const wrong = rootData.filter(r => r.root !== rootSet.root).map(r => r.meaning).slice(0, 3);
+          q.push(createMCQ("vocab_g5", "greek_latin_roots_g5",
+            `What does the root '${rootSet.root}' mean in '${example}'?`, rootSet.meaning, wrong));
+        } else {
+          const rootSet = pick(rootData, rng);
+          q.push(createTyping("vocab_g5", "greek_latin_roots_g5",
+            `What does the root '${rootSet.root}' mean?`, rootSet.meaning));
+        }
+      }
+      return q;
+    },
+    figurative_language_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const figData = [
+        { phrase: "'The world is my oyster'", device: "metaphor", meaning: "everything is possible for me" },
+        { phrase: "'She is as quiet as a mouse'", device: "simile", meaning: "very quiet" },
+        { phrase: "'The trees danced in the wind'", device: "personification", meaning: "trees moved gracefully" },
+        { phrase: "'I've told you a million times'", device: "hyperbole", meaning: "I've told you many times" },
+        { phrase: "'The rain poured down'", device: "onomatopoeia", meaning: "rain fell heavily" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(5, rng)) {
+          const figSet = pick(figData, rng);
+          const wrong = figData.filter(f => f.device !== figSet.device).map(f => f.device).slice(0, 3);
+          q.push(createMCQ("vocab_g5", "figurative_language_g5",
+            `What figurative device is ${figSet.phrase}?`, figSet.device, wrong));
+        } else {
+          const figSet = pick(figData, rng);
+          q.push(createTyping("vocab_g5", "figurative_language_g5",
+            `What figurative device is ${figSet.phrase}?`, figSet.device));
+        }
+      }
+      return q;
+    }
   }
 };
 
@@ -737,6 +974,56 @@ export const G6_Generators = {
       }
       return q;
     }
+  },
+  vocab_g6: {
+    synonyms_homographs_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const wordPairData = [
+        { pair: "brilliant", syn1: "bright", syn2: "intelligent", sentence: "The ___ light filled the room." },
+        { pair: "graceful", syn1: "elegant", syn2: "moving with poise", sentence: "She was a ___ dancer." },
+        { pair: "profound", syn1: "deep", syn2: "wise and meaningful", sentence: "He made a ___ observation about life." },
+        { pair: "vivid", syn1: "bright colors", syn2: "clear and sharp", sentence: "She had a ___ memory of the event." },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(6, rng)) {
+          const wordSet = pick(wordPairData, rng);
+          const synonym = pick([wordSet.syn1, wordSet.syn2], rng);
+          const wrong = ["opposite meaning", "unknown word", "too difficult"].slice(0, 3);
+          q.push(createMCQ("vocab_g6", "synonyms_homographs_g6",
+            `What is a synonym of '${wordSet.pair}' in context?`, synonym, wrong));
+        } else {
+          const wordSet = pick(wordPairData, rng);
+          q.push(createTyping("vocab_g6", "synonyms_homographs_g6",
+            `What is a synonym of '${wordSet.pair}'?`, [wordSet.syn1, wordSet.syn2]));
+        }
+      }
+      return q;
+    },
+    analogies_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const analogyData = [
+        { analogy: "Hand is to arm as foot is to", answer: "leg", wrong: ["shoe", "toe", "ankle"] },
+        { analogy: "Teacher is to student as doctor is to", answer: "patient", wrong: ["hospital", "nurse", "medicine"] },
+        { analogy: "Book is to author as painting is to", answer: "artist", wrong: ["canvas", "museum", "brush"] },
+        { analogy: "Small is to big as cold is to", answer: "hot", wrong: ["warm", "cool", "ice"] },
+        { analogy: "Puppy is to dog as kitten is to", answer: "cat", wrong: ["mouse", "animal", "pet"] },
+        { analogy: "Inch is to foot as second is to", answer: "minute", wrong: ["hour", "day", "time"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(6, rng)) {
+          const analogySet = pick(analogyData, rng);
+          q.push(createMCQ("vocab_g6", "analogies_g6",
+            analogySet.analogy, analogySet.answer, analogySet.wrong));
+        } else {
+          const analogySet = pick(analogyData, rng);
+          q.push(createTyping("vocab_g6", "analogies_g6",
+            analogySet.analogy, analogySet.answer));
+        }
+      }
+      return q;
+    }
   }
 };
 
@@ -789,6 +1076,65 @@ export const G7_Generators = {
       }
       return q;
     }
+  },
+  vocab_g7: {
+    figurative_language_g7: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const figData = [
+        { phrase: "'Her voice dripped with sarcasm'", device: "metaphor", meaning: "her tone was mocking" },
+        { phrase: "'The city is a jungle'", device: "metaphor", meaning: "the city is wild and chaotic" },
+        { phrase: "'As silent as the grave'", device: "simile", meaning: "completely silent" },
+        { phrase: "'His words were poison'", device: "metaphor", meaning: "his words were harmful" },
+        { phrase: "'The wind whispered secrets'", device: "personification", meaning: "the breeze made soft sounds" },
+        { phrase: "'I have a million things to do'", device: "hyperbole", meaning: "I have very many things to do" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(7, rng)) {
+          const figSet = pick(figData, rng);
+          const wrong = figData.filter(f => f.device !== figSet.device).map(f => f.device).slice(0, 3);
+          q.push(createMCQ("vocab_g7", "figurative_language_g7",
+            `What figurative device is ${figSet.phrase}?`, figSet.device, wrong));
+        } else {
+          const figSet = pick(figData, rng);
+          q.push(createTyping("vocab_g7", "figurative_language_g7",
+            `What device is ${figSet.phrase}?`, figSet.device));
+        }
+      }
+      return q;
+    },
+    connotation_denotation_g7: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const wordData = [
+        { word: "persistent", denotation: "continuing despite difficulty", connotation: "positive (determined)" },
+        { word: "stubborn", denotation: "refusing to change", connotation: "negative (inflexible)" },
+        { word: "thrifty", denotation: "spending carefully", connotation: "positive (wise)" },
+        { word: "stingy", denotation: "spending very little", connotation: "negative (miserly)" },
+        { word: "curious", denotation: "wanting to know", connotation: "positive (inquisitive)" },
+        { word: "nosy", denotation: "showing interest in others' affairs", connotation: "negative (intrusive)" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(7, rng)) {
+          const wordSet = pick(wordData, rng);
+          const isConnotation = rng() > 0.5;
+          if (isConnotation) {
+            const wrong = ["neutral meaning", "dictionary definition", "literal sense"].slice(0, 3);
+            q.push(createMCQ("vocab_g7", "connotation_denotation_g7",
+              `What is the CONNOTATION of '${wordSet.word}'?`, wordSet.connotation, wrong));
+          } else {
+            const wrong = ["emotional feeling", "implied meaning", "cultural sense"].slice(0, 3);
+            q.push(createMCQ("vocab_g7", "connotation_denotation_g7",
+              `What is the DENOTATION of '${wordSet.word}'?`, wordSet.denotation, wrong));
+          }
+        } else {
+          const wordSet = pick(wordData, rng);
+          q.push(createTyping("vocab_g7", "connotation_denotation_g7",
+            `What does '${wordSet.word}' literally mean (denotation)?`, wordSet.denotation));
+        }
+      }
+      return q;
+    }
   }
 };
 
@@ -836,6 +1182,53 @@ export const G8_Generators = {
         } else {
           q.push(createTyping("analysis_g8", "critical_theory_g8",
             "Name a critical theory:", pick(theories, rng)));
+        }
+      }
+      return q;
+    }
+  },
+  vocab_g8: {
+    greek_latin_advanced_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const rootData = [
+        { root: "morph", meaning: "shape or form", examples: ["metamorphosis", "morphology", "anthropomorphic"] },
+        { root: "psych", meaning: "mind", examples: ["psychology", "psychotic", "psychoanalysis"] },
+        { root: "path", meaning: "feeling or disease", examples: ["empathy", "apathy", "pathology"] },
+        { root: "arch", meaning: "ancient or chief", examples: ["archaeology", "architect", "monarch"] },
+        { root: "scop", meaning: "to see or look", examples: ["telescope", "microscope", "horoscope"] },
+        { root: "logue", meaning: "word or study", examples: ["dialogue", "monologue", "catalog"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const rootSet = pick(rootData, rng);
+          const example = pick(rootSet.examples, rng);
+          const wrong = rootData.filter(r => r.root !== rootSet.root).map(r => r.meaning).slice(0, 3);
+          q.push(createMCQ("vocab_g8", "greek_latin_advanced_g8",
+            `What does the root '${rootSet.root}' mean in '${example}'?`, rootSet.meaning, wrong));
+        } else {
+          const rootSet = pick(rootData, rng);
+          q.push(createTyping("vocab_g8", "greek_latin_advanced_g8",
+            `What does '${rootSet.root}' mean?`, rootSet.meaning));
+        }
+      }
+      return q;
+    },
+    context_clues_advanced_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { sentence: "'His obsequious behavior, always flattering and submissive, made others uncomfortable.' What does 'obsequious' mean?", answer: "overly flattering and submissive", wrong: ["confident", "rude", "independent"] },
+        { sentence: "'The author's verbose writing style, full of unnecessary words and lengthy descriptions, became tedious.' What does 'verbose' mean?", answer: "using too many words", wrong: ["concise", "poetic", "creative"] },
+        { sentence: "'Her sanguine outlook, despite evidence to the contrary, remained optimistic.' What does 'sanguine' mean?", answer: "optimistic and hopeful", wrong: ["pessimistic", "angry", "confused"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const sentSet = pick(sentenceData, rng);
+          q.push(createMCQ("vocab_g8", "context_clues_advanced_g8", sentSet.sentence, sentSet.answer, sentSet.wrong));
+        } else {
+          const sentSet = pick(sentenceData, rng);
+          q.push(createTyping("vocab_g8", "context_clues_advanced_g8", sentSet.sentence, sentSet.answer));
         }
       }
       return q;
