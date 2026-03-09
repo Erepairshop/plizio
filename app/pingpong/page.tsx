@@ -112,8 +112,17 @@ const T = {
 
 // ─── Game Constants ──────────────────────────────────────────
 const WIN_SCORE = 11;
-const BALL_RADIUS = 10;
+const BALL_RADIUS = 13;
 const SERVE_DELAY = 800;
+const GRAVITY = 0.0007;
+const VZ_SERVE = 0.013;
+const BOUNCE_DAMP = 0.62;
+const PLAYER_Y_MIN = 0.55;
+const PLAYER_Y_MAX = 0.95;
+const AI_Y_MIN = 0.05;
+const AI_Y_MAX = 0.45;
+const PLAYER_Y_DEFAULT = 0.88;
+const AI_Y_DEFAULT = 0.12;
 
 // AI difficulty settings
 const AI_CONFIG = {
@@ -161,6 +170,10 @@ interface Ball {
   vx: number; vy: number;
   speed: number;
   curveForce: number; // for curve powerup
+  z: number;          // height above table (0 = on table)
+  vz: number;         // vertical velocity upward
+  lastHitter: "player" | "ai" | null;
+  lastBounceSide: "player" | "ai" | null; // which half last bounced (for double-bounce rule)
 }
 
 // ─── Main Component ──────────────────────────────────────────
@@ -198,6 +211,8 @@ function PingPongPage() {
   const [scoreSubmitted, setScoreSubmitted] = useState(false);
   const broadcastChannelRef = useRef<RealtimeChannel | null>(null);
   const oppPaddleXRef = useRef(0.5);
+  const oppPaddleYRef = useRef(AI_Y_DEFAULT);
+  const scoreSubmittedRef = useRef(false);
 
   // Canvas ref
   const canvasRef = useRef<HTMLCanvasElement>(null);
@@ -280,13 +295,56 @@ function PingPongPage() {
     channel.on("broadcast", { event: "paddlePos" }, (payload) => {
       if (payload.payload.p !== playerNum) {
         oppPaddleXRef.current = payload.payload.x;
+        // Flip Y: opponent's bottom (y≈0.88) → our top (y≈0.12)
+        if (payload.payload.y !== undefined) {
+          oppPaddleYRef.current = 1 - payload.payload.y;
+        }
       }
     });
 
-    channel.on("broadcast", { event: "scored" }, (payload) => {
-      if (payload.payload.p !== playerNum) {
-        // Opponent scored — update our display
-        // We trust the physics on each client, but sync score for UI
+    // P2 receives authoritative ball state from P1
+    let gameOverHandled = false;
+    channel.on("broadcast", { event: "ballSync" }, (payload) => {
+      if (playerNum !== "1" && gameRef.current) {
+        const game = gameRef.current;
+        const { balls, ps1, ps2, serving, ripples } = payload.payload;
+        // Apply ball positions with y-flip for P2's mirrored perspective
+        if (balls?.length > 0) {
+          game.balls = (balls as {x:number,y:number,vx:number,vy:number,z:number,vz:number}[]).map(b => ({
+            x: b.x, y: 1 - b.y, vx: b.vx, vy: -b.vy, z: b.z, vz: b.vz,
+            speed: 0, curveForce: 0, lastHitter: null, lastBounceSide: null,
+          }));
+        }
+        if (typeof serving === "boolean") game.serving = serving;
+        // P2 displays ps2 as their score, ps1 as opponent
+        if (ps1 !== undefined && ps2 !== undefined) {
+          playerScoreRef.current = ps2;
+          aiScoreRef.current = ps1;
+          setPlayerScore(ps2);
+          setAiScore(ps1);
+        }
+        // Ripples from P1 (y-flipped)
+        if (ripples?.length > 0) {
+          for (const r of (ripples as {x:number,y:number}[])) {
+            game.bounceRipples.push({ x: r.x, y: 1 - r.y, age: 0 });
+          }
+        }
+      }
+    });
+
+    // P2 receives game-over signal from P1 — skip waiting screen entirely
+    channel.on("broadcast", { event: "gameOver" }, (payload) => {
+      if (playerNum !== "1" && !gameOverHandled) {
+        gameOverHandled = true;
+        const { p1score, p2score } = payload.payload as {p1score:number, p2score:number};
+        if (gameRef.current) gameRef.current.gameOver = true;
+        if (matchId && !scoreSubmittedRef.current) {
+          scoreSubmittedRef.current = true;
+          submitScore(matchId, p2score, false);
+        }
+        setMyFinalScore(p2score);
+        setOppFinalScore(p1score);
+        setScreen("multi-result");
       }
     });
 
@@ -338,28 +396,23 @@ function PingPongPage() {
 
   // ─── Handle Win ──────────────────────────────────────────
   const handleGameEnd = useCallback((won: boolean, myScore: number, oppScore: number) => {
-    // Multiplayer: submit score
-    if (isMultiplayer && matchId && !scoreSubmitted) {
+    // Multiplayer (P1 only — P2 receives gameOver broadcast)
+    if (isMultiplayer && matchId && playerNum === "1" && !scoreSubmitted) {
       setScoreSubmitted(true);
-      const finalScore = won ? myScore : -myScore; // positive = won
-      if (isMix) {
-        submitMixRoundScore(matchId, myScore, playerNum === "1");
-      } else {
-        submitScore(matchId, myScore, playerNum === "1");
-      }
-
-      // Still save card for multiplayer
+      scoreSubmittedRef.current = true;
+      // Submit P1's score to Supabase (fire-and-forget)
+      submitScore(matchId, myScore, true);
+      // Broadcast final scores to P2 so they can show result immediately
+      broadcastChannelRef.current?.send({
+        type: "broadcast",
+        event: "gameOver",
+        payload: { p1score: myScore, p2score: oppScore },
+      });
+      // Save card
       if (won) {
         const streak = updateStreak();
         const rarity = calculateRarity(myScore, WIN_SCORE, streak, false);
-        saveCard({
-          id: generateCardId(),
-          game: "pingpong",
-          rarity,
-          score: myScore,
-          total: WIN_SCORE,
-          date: new Date().toISOString(),
-        });
+        saveCard({ id: generateCardId(), game: "pingpong", rarity, score: myScore, total: WIN_SCORE, date: new Date().toISOString() });
         window.dispatchEvent(new Event("plizio-cards-changed"));
         setEarnedCard(rarity);
       }
@@ -368,8 +421,9 @@ function PingPongPage() {
       const newMs = checkNewMilestones();
       if (newMs.length > 0) setMilestones(newMs.map(m => m.id));
       setMyFinalScore(myScore);
+      setOppFinalScore(oppScore);
       setAvatarMood(won ? "victory" : "disappointed");
-      setScreen("multi-waiting");
+      setScreen("multi-result"); // direct result, no waiting
       return;
     }
 
@@ -430,8 +484,8 @@ function PingPongPage() {
     // ─── Table layout ───
     const tbl = () => {
       const w = W(), h = H();
-      const maxTH = h * 0.76;
-      const maxTW = w * 0.82;
+      const maxTH = h * 0.70;
+      const maxTW = w * 0.74;
       let tW = maxTW;
       let tH = maxTH;
       if (tW > tH * 0.56) tW = tH * 0.56;
@@ -446,9 +500,12 @@ function PingPongPage() {
     // Game state
     const game: GameState = {
       playerX: 0.5,
+      playerY: PLAYER_Y_DEFAULT,
       aiX: 0.5,
+      aiY: AI_Y_DEFAULT,
       aiTargetX: 0.5,
-      balls: [{ x: 0.5, y: 0.5, vx: 0, vy: 0, speed: 0, curveForce: 0 }],
+      aiTargetY: AI_Y_DEFAULT,
+      balls: [{ x: 0.5, y: 0.5, vx: 0, vy: 0, speed: 0, curveForce: 0, z: 0, vz: 0, lastHitter: null, lastBounceSide: null }],
       serving: true,
       serveTimer: 0,
       playerServes: true,
@@ -456,6 +513,7 @@ function PingPongPage() {
       particles: [],
       gameOver: false,
       lastHitTime: 0,
+      bounceRipples: [],
       // Powerup state
       powerup: null,
       activePowerup: null,
@@ -466,13 +524,11 @@ function PingPongPage() {
     };
     gameRef.current = game;
 
-    const PADDLE_Y_PLAYER = 1.05;
-    const PADDLE_Y_AI = -0.05;
     const PADDLE_R = 0.045;
 
     // Reset ball for serve
     const resetBall = (playerServes: boolean) => {
-      game.balls = [{ x: 0.5, y: playerServes ? 0.78 : 0.22, vx: 0, vy: 0, speed: 0, curveForce: 0 }];
+      game.balls = [{ x: 0.5, y: playerServes ? 0.78 : 0.22, vx: 0, vy: 0, speed: 0, curveForce: 0, z: 0, vz: 0, lastHitter: null, lastBounceSide: null }];
       game.serving = true;
       game.serveTimer = Date.now();
       game.playerServes = playerServes;
@@ -480,12 +536,14 @@ function PingPongPage() {
     };
 
     const launchBall = () => {
-      const baseSpeed = 0.006 + (difficulty === "hard" ? 0.002 : difficulty === "medium" ? 0.001 : 0);
+      const baseSpeed = 0.009 + (difficulty === "hard" ? 0.003 : difficulty === "medium" ? 0.0015 : 0);
       const ball = game.balls[0];
       ball.speed = baseSpeed;
       const angle = (Math.random() - 0.5) * 0.6;
       ball.vx = Math.sin(angle) * ball.speed;
       ball.vy = game.playerServes ? -ball.speed * Math.cos(angle) : ball.speed * Math.cos(angle);
+      ball.vz = VZ_SERVE;
+      ball.z = 0;
       game.serving = false;
     };
 
@@ -570,6 +628,10 @@ function PingPongPage() {
           vy: b.vy,
           speed: b.speed,
           curveForce: 0,
+          z: b.z,
+          vz: b.vz,
+          lastHitter: b.lastHitter,
+          lastBounceSide: null,
         });
       } else if (pu.type === "bigpaddle") {
         if (hitBy === "player") game.playerPaddleScale = 1.8;
@@ -583,15 +645,26 @@ function PingPongPage() {
 
     // Player input
     let playerTargetX = 0.5;
+    let playerTargetY = PLAYER_Y_DEFAULT;
     const handlePointer = (e: PointerEvent | TouchEvent) => {
       const rect = canvas.getBoundingClientRect();
       const clientX = "touches" in e ? e.touches[0]?.clientX ?? 0 : (e as PointerEvent).clientX;
-      const { tL, tW } = tbl();
+      const clientY = "touches" in e ? e.touches[0]?.clientY ?? 0 : (e as PointerEvent).clientY;
+      const { tL, tW, tT, tH } = tbl();
       const canvasX = (clientX - rect.left) / rect.width * W();
+      const canvasY = (clientY - rect.top) / rect.height * H();
       playerTargetX = Math.max(PADDLE_R + 0.01, Math.min(1 - PADDLE_R - 0.01, (canvasX - tL) / tW));
+      const rawY = (canvasY - tT) / tH;
+      playerTargetY = Math.max(PLAYER_Y_MIN, Math.min(PLAYER_Y_MAX, rawY));
+    };
+    const handlePointerDown = (e: PointerEvent | TouchEvent) => {
+      handlePointer(e);
+      // Tap to serve — only for solo or P1 in multiplayer
+      if (game.serving && game.playerServes && (!isMultiplayer || playerNum === "1")) launchBall();
     };
     canvas.addEventListener("pointermove", handlePointer);
-    canvas.addEventListener("pointerdown", handlePointer);
+    canvas.addEventListener("pointerdown", handlePointerDown);
+    canvas.addEventListener("touchstart", handlePointerDown as EventListener, { passive: true });
     canvas.addEventListener("touchmove", handlePointer as EventListener, { passive: true });
 
     // Keyboard
@@ -601,8 +674,9 @@ function PingPongPage() {
     window.addEventListener("keydown", handleKeyDown);
     window.addEventListener("keyup", handleKeyUp);
 
-    // Multiplayer: broadcast paddle position
+    // Multiplayer: broadcast paddle position + ball state
     let broadcastTimer = 0;
+    let newRipplesSinceLast: {x:number,y:number}[] = [];
 
     // Initial serve
     resetBall(true);
@@ -615,33 +689,52 @@ function PingPongPage() {
       lastTime = now;
 
       const { tL, tR, tT, tB, tW, tH, w, h } = tbl();
+      // Pixel-space paddle radius (matches visual render) — used for both serve and collision
+      const paddlePxR = Math.max(18, Math.min(30, tW * 0.07));
 
       // Keyboard
       if (keys.has("ArrowLeft") || keys.has("a")) playerTargetX = Math.max(PADDLE_R + 0.01, playerTargetX - 0.02 * dt);
       if (keys.has("ArrowRight") || keys.has("d")) playerTargetX = Math.min(1 - PADDLE_R - 0.01, playerTargetX + 0.02 * dt);
+      if (keys.has("ArrowUp") || keys.has("w")) playerTargetY = Math.max(PLAYER_Y_MIN, playerTargetY - 0.015 * dt);
+      if (keys.has("ArrowDown") || keys.has("s")) playerTargetY = Math.min(PLAYER_Y_MAX, playerTargetY + 0.015 * dt);
+      // Space/Enter to serve
+      if ((keys.has(" ") || keys.has("Enter")) && game.serving && game.playerServes) { launchBall(); keys.delete(" "); keys.delete("Enter"); }
 
       // Smooth player paddle
       game.playerX += (playerTargetX - game.playerX) * Math.min(1, 0.25 * dt);
       game.playerX = Math.max(PADDLE_R + 0.01, Math.min(1 - PADDLE_R - 0.01, game.playerX));
+      game.playerY += (playerTargetY - game.playerY) * Math.min(1, 0.25 * dt);
+      game.playerY = Math.max(PLAYER_Y_MIN, Math.min(PLAYER_Y_MAX, game.playerY));
 
       // AI logic (solo) or opponent paddle (multi)
       if (isMultiplayer) {
         // In multiplayer, AI side is controlled by opponent
         game.aiX += (oppPaddleXRef.current - game.aiX) * Math.min(1, 0.3 * dt);
+        game.aiY += (oppPaddleYRef.current - game.aiY) * Math.min(1, 0.3 * dt);
+        game.aiY = Math.max(AI_Y_MIN, Math.min(AI_Y_MAX, game.aiY));
       } else {
         if (!game.serving || !game.playerServes) {
           const predictedX = game.balls[0].vy < 0
-            ? game.balls[0].x + game.balls[0].vx * ((game.balls[0].y - PADDLE_Y_AI) / Math.max(0.001, -game.balls[0].vy))
+            ? game.balls[0].x + game.balls[0].vx * ((game.balls[0].y - game.aiY) / Math.max(0.001, -game.balls[0].vy))
               + (Math.random() - 0.5) * ai.predictError / tW
             : game.balls[0].x;
           const targetX = Math.max(PADDLE_R + 0.01, Math.min(1 - PADDLE_R - 0.01, predictedX + (Math.random() - 0.5) * ai.errorRange));
           game.aiTargetX += (targetX - game.aiTargetX) * ai.reactionDelay * dt;
           game.aiX += (game.aiTargetX - game.aiX) * ai.speed * dt;
           game.aiX = Math.max(PADDLE_R + 0.01, Math.min(1 - PADDLE_R - 0.01, game.aiX));
+          // Y movement: track ball Y when ball is in AI's half
+          if (game.balls[0].vy < 0) {
+            const targetY = Math.max(AI_Y_MIN, Math.min(AI_Y_MAX, game.balls[0].y + (Math.random() - 0.5) * ai.errorRange));
+            game.aiTargetY += (targetY - game.aiTargetY) * ai.reactionDelay * dt;
+          } else {
+            game.aiTargetY += (AI_Y_DEFAULT - game.aiTargetY) * 0.02 * dt;
+          }
+          game.aiY += (game.aiTargetY - game.aiY) * ai.speed * dt;
+          game.aiY = Math.max(AI_Y_MIN, Math.min(AI_Y_MAX, game.aiY));
         }
       }
 
-      // Broadcast paddle position
+      // Broadcast: paddle position (both players) + ball state (P1 only)
       if (isMultiplayer && broadcastChannelRef.current) {
         broadcastTimer += dt;
         if (broadcastTimer > 4) { // ~every 66ms
@@ -649,14 +742,39 @@ function PingPongPage() {
           broadcastChannelRef.current.send({
             type: "broadcast",
             event: "paddlePos",
-            payload: { p: playerNum, x: game.playerX },
+            payload: { p: playerNum, x: game.playerX, y: game.playerY },
           });
+          // P1 is authoritative: broadcast ball state + scores to P2
+          if (playerNum === "1") {
+            broadcastChannelRef.current.send({
+              type: "broadcast",
+              event: "ballSync",
+              payload: {
+                balls: game.balls.map(b => ({ x: b.x, y: b.y, vx: b.vx, vy: b.vy, z: b.z, vz: b.vz })),
+                ps1: playerScoreRef.current,
+                ps2: aiScoreRef.current,
+                serving: game.serving,
+                ripples: newRipplesSinceLast,
+              },
+            });
+            newRipplesSinceLast = [];
+          }
         }
       }
 
-      // Serve delay
-      if (game.serving && Date.now() - game.serveTimer > SERVE_DELAY && !game.gameOver) {
-        launchBall();
+      // Serve handling — P1 is authoritative; P2 just renders received ball state
+      if (game.serving && !game.gameOver && (!isMultiplayer || playerNum === "1")) {
+        const serveBall = game.balls[0];
+        if (game.playerServes) {
+          // Ball follows paddle so player sees exactly what they'll hit
+          serveBall.x = game.playerX;
+          serveBall.y = game.playerY - (paddlePxR * game.playerPaddleScale + BALL_RADIUS) / tH - 0.005;
+          // Auto-serve fallback after 3 s (player normally taps to serve)
+          if (Date.now() - game.serveTimer > 3000) launchBall();
+        } else {
+          // AI/opponent serve: auto-launch after short delay
+          if (Date.now() - game.serveTimer > SERVE_DELAY) launchBall();
+        }
       }
 
       // ─── Powerup management ────────────────────────────
@@ -671,7 +789,7 @@ function PingPongPage() {
         if (game.activePowerup && Date.now() - game.activePowerup.activatedAt > game.activePowerup.duration) {
           // Remove effects
           if (game.activePowerup.type === "speed") {
-            const baseSpeed = 0.006 + (difficulty === "hard" ? 0.002 : difficulty === "medium" ? 0.001 : 0);
+            const baseSpeed = 0.009 + (difficulty === "hard" ? 0.003 : difficulty === "medium" ? 0.0015 : 0);
             for (const ball of game.balls) {
               const dir = Math.atan2(ball.vy, ball.vx);
               ball.speed = Math.max(baseSpeed, ball.speed * 0.65);
@@ -694,10 +812,15 @@ function PingPongPage() {
       // Ball physics
       const ballR = BALL_RADIUS / tW;
       const ballRY = BALL_RADIUS / tH;
-      const playerR = PADDLE_R * game.playerPaddleScale;
-      const aiR = PADDLE_R * game.aiPaddleScale;
 
-      if (!game.serving && !game.gameOver) {
+      // Ripple aging runs for all players (P2 receives ripples via ballSync)
+      if (!game.gameOver) {
+        for (const r of game.bounceRipples) r.age += dt;
+        game.bounceRipples = game.bounceRipples.filter(r => r.age < 28);
+      }
+
+      // Ball physics — P1 is authoritative in multiplayer; P2 skips this entirely
+      if (!game.serving && !game.gameOver && (!isMultiplayer || playerNum === "1")) {
         const ballsToRemove: number[] = [];
 
         for (let bi = 0; bi < game.balls.length; bi++) {
@@ -705,43 +828,81 @@ function PingPongPage() {
           ball.x += ball.vx * dt;
           ball.y += ball.vy * dt;
 
+          // Z physics — ball height above table
+          ball.vz -= GRAVITY * dt;
+          ball.z += ball.vz * dt;
+          if (ball.z <= 0 && ball.vz < 0) {
+            ball.z = 0;
+            ball.vz = Math.abs(ball.vz) * BOUNCE_DAMP;
+            // Create ripple on table if ball is within table bounds
+            if (ball.x >= 0 && ball.x <= 1 && ball.y >= 0 && ball.y <= 1) {
+              game.bounceRipples.push({ x: ball.x, y: ball.y, age: 0 });
+              if (isMultiplayer && playerNum === "1") newRipplesSinceLast.push({ x: ball.x, y: ball.y });
+              // Double-bounce rule: ball bounced twice on same side → other side scores
+              const bounceSide: "player" | "ai" = ball.y >= 0.5 ? "player" : "ai";
+              if (ball.lastBounceSide === bounceSide) {
+                // Second bounce on same side
+                if (bi === 0) { scorePoint(bounceSide === "ai"); continue; }
+                else { ballsToRemove.push(bi); continue; }
+              }
+              ball.lastBounceSide = bounceSide;
+            }
+          }
+
           // Curve effect
           if (ball.curveForce !== 0) {
             ball.vx += ball.curveForce * dt;
           }
 
-          // Wall bounce
-          if (ball.x < ballR) { ball.x = ballR; ball.vx = Math.abs(ball.vx); }
-          if (ball.x > 1 - ballR) { ball.x = 1 - ballR; ball.vx = -Math.abs(ball.vx); }
+          // Side exit — no wall bounce, ball can leave the table from the sides
+          if (ball.x < -ballR || ball.x > 1 + ballR) {
+            if (bi === 0) {
+              // The player who last hit it loses the point (hit it wide)
+              scorePoint(ball.lastHitter === "ai"); // if AI hit it out, player scores
+            } else {
+              ballsToRemove.push(bi);
+            }
+            continue;
+          }
 
-          // Player paddle collision
+          // Player paddle collision — pixel-space distance, requires ball bounced in player half first
           {
-            const dx = ball.x - game.playerX;
-            const dy = ball.y - PADDLE_Y_PLAYER;
-            const dist = Math.sqrt(dx * dx + dy * dy);
-            if (ball.vy > 0 && dist <= playerR + ballR) {
-              const hitPos = dx / playerR;
+            const dxPx = (ball.x - game.playerX) * tW;
+            const dyPx = (ball.y - game.playerY) * tH;
+            const distPx = Math.sqrt(dxPx * dxPx + dyPx * dyPx);
+            const playerHitR = paddlePxR * game.playerPaddleScale;
+            if (ball.vy > 0 && ball.lastBounceSide === "player" && distPx <= playerHitR + BALL_RADIUS) {
+              const hitPos = dxPx / playerHitR;
               const angle = hitPos * 0.7;
-              ball.speed = Math.min(ball.speed * 1.04, 0.016);
+              ball.speed = Math.min(ball.speed * 1.04, 0.022);
               ball.vx = Math.sin(angle) * ball.speed;
               ball.vy = -Math.cos(angle) * ball.speed;
-              ball.y = PADDLE_Y_PLAYER - playerR - ballRY;
+              ball.y = game.playerY - (playerHitR + BALL_RADIUS) / tH;
+              ball.vz = VZ_SERVE;
+              ball.z = Math.max(ball.z, 0);
+              ball.lastHitter = "player";
+              ball.lastBounceSide = null;
               game.rallyCount++;
             }
           }
 
-          // AI paddle collision
+          // AI paddle collision — pixel-space distance, requires ball bounced in AI half first
           {
-            const dx = ball.x - game.aiX;
-            const dy = ball.y - PADDLE_Y_AI;
-            const dist = Math.sqrt(dx * dx + dy * dy);
-            if (ball.vy < 0 && dist <= aiR + ballR) {
-              const hitPos = dx / aiR;
+            const dxPx = (ball.x - game.aiX) * tW;
+            const dyPx = (ball.y - game.aiY) * tH;
+            const distPx = Math.sqrt(dxPx * dxPx + dyPx * dyPx);
+            const aiHitR = paddlePxR * game.aiPaddleScale;
+            if (ball.vy < 0 && ball.lastBounceSide === "ai" && distPx <= aiHitR + BALL_RADIUS) {
+              const hitPos = dxPx / aiHitR;
               const angle = hitPos * 0.7;
-              ball.speed = Math.min(ball.speed * 1.04, 0.016);
+              ball.speed = Math.min(ball.speed * 1.04, 0.022);
               ball.vx = Math.sin(angle) * ball.speed;
               ball.vy = Math.cos(angle) * ball.speed;
-              ball.y = PADDLE_Y_AI + aiR + ballRY;
+              ball.y = game.aiY + (aiHitR + BALL_RADIUS) / tH;
+              ball.vz = VZ_SERVE;
+              ball.z = Math.max(ball.z, 0);
+              ball.lastHitter = "ai";
+              ball.lastBounceSide = null;
               game.rallyCount++;
             }
           }
@@ -752,15 +913,12 @@ function PingPongPage() {
             const pdy = ball.y - game.powerup.y;
             const pdist = Math.sqrt(pdx * pdx + pdy * pdy);
             if (pdist < 0.04 + ballR) {
-              const hitBy = ball.vy > 0 ? "ai" : "player"; // ball moving down = last hit by AI
-              // Actually: if ball going down → player will catch it → "player" perspective
-              // Simplify: whoever's half the ball is closer to
               const whoActivated = ball.y > 0.5 ? "player" : "ai";
               activatePowerup(game.powerup, whoActivated);
             }
           }
 
-          // Score — ball exits past paddles
+          // Score — ball exits past table ends
           if (ball.y < -0.15) {
             if (bi === 0) scorePoint(true);
             else ballsToRemove.push(bi);
@@ -849,6 +1007,46 @@ function PingPongPage() {
       // ─── Helper: norm to pixel ───
       const toX = (nx: number) => tL + nx * tW;
       const toY = (ny: number) => tT + ny * tH;
+
+      // ─── Bounce ripples on table surface ───
+      for (const ripple of game.bounceRipples) {
+        const rx = toX(ripple.x);
+        const ry = toY(ripple.y);
+        const maxAge = 28;
+        const progress = Math.min(1, ripple.age / maxAge);
+        // Bright impact flash
+        if (ripple.age < 7) {
+          const flashAlpha = (1 - ripple.age / 7) * 0.80;
+          const flashR = tW * 0.038 * (1 - ripple.age / 14);
+          ctx.fillStyle = `rgba(255,255,180,${flashAlpha})`;
+          ctx.beginPath();
+          ctx.arc(rx, ry, flashR, 0, Math.PI * 2);
+          ctx.fill();
+          // Inner white dot
+          ctx.fillStyle = `rgba(255,255,255,${flashAlpha * 0.7})`;
+          ctx.beginPath();
+          ctx.arc(rx, ry, flashR * 0.4, 0, Math.PI * 2);
+          ctx.fill();
+        }
+        // Expanding flat ellipse ring (perspective on table)
+        const ringAlpha = Math.max(0, (1 - progress) * 0.55);
+        const ripR = tW * 0.14 * progress;
+        ctx.strokeStyle = `rgba(255,255,200,${ringAlpha})`;
+        ctx.lineWidth = Math.max(0.5, 3.5 * (1 - progress));
+        ctx.beginPath();
+        ctx.ellipse(rx, ry, ripR, ripR * 0.32, 0, 0, Math.PI * 2);
+        ctx.stroke();
+        // Second fading ring slightly behind
+        if (progress > 0.2) {
+          const ring2R = tW * 0.09 * progress;
+          const ring2Alpha = Math.max(0, (1 - progress) * 0.25);
+          ctx.strokeStyle = `rgba(255,255,255,${ring2Alpha})`;
+          ctx.lineWidth = 1;
+          ctx.beginPath();
+          ctx.ellipse(rx, ry, ring2R, ring2R * 0.32, 0, 0, Math.PI * 2);
+          ctx.stroke();
+        }
+      }
 
       // ─── Draw Powerup Icon on table ───
       if (game.powerup && !game.powerup.active) {
@@ -952,27 +1150,39 @@ function PingPongPage() {
       };
 
       // Player paddle (bottom, red)
-      drawPaddle(game.playerX, PADDLE_Y_PLAYER, "#E02020", "#A01515", "#6B4530", true, game.playerPaddleScale);
+      drawPaddle(game.playerX, game.playerY, "#E02020", "#A01515", "#6B4530", true, game.playerPaddleScale);
       // AI/opponent paddle (top, blue)
-      drawPaddle(game.aiX, PADDLE_Y_AI, "#2090D0", "#1568A0", "#6B4530", false, game.aiPaddleScale);
+      drawPaddle(game.aiX, game.aiY, "#2090D0", "#1568A0", "#6B4530", false, game.aiPaddleScale);
 
       // ─── Balls ───
       if (!game.gameOver) {
         for (const ball of game.balls) {
           const bx = toX(ball.x);
           const by = toY(ball.y);
-          const br = BALL_RADIUS;
+          // Ball appears larger when higher (top-down: closer to camera)
+          const zScale = 1 + ball.z * 1.3;
+          const br = BALL_RADIUS * zScale;
+          // Shadow offset grows with height
+          const shadowOffX = ball.z * 22;
+          const shadowOffY = ball.z * 12;
+          const shadowAlpha = Math.max(0.05, 0.18 - ball.z * 0.14);
 
-          // Ball shadow
-          ctx.fillStyle = "rgba(0,0,0,0.12)";
+          // Ball shadow on table (offset + spread by height)
+          ctx.fillStyle = `rgba(0,0,0,${shadowAlpha})`;
           ctx.beginPath();
-          ctx.ellipse(bx + 1.5, by + 2, br + 1, br * 0.7, 0, 0, Math.PI * 2);
+          ctx.ellipse(
+            bx + shadowOffX + 1.5,
+            by + shadowOffY + 2,
+            (BALL_RADIUS + 2) * (1 + ball.z * 0.6),
+            (BALL_RADIUS * 0.65) * (1 + ball.z * 0.4),
+            0, 0, Math.PI * 2
+          );
           ctx.fill();
 
           // Ball body
-          const ballGrad = ctx.createRadialGradient(bx - 2, by - 2, 0, bx, by, br);
+          const ballGrad = ctx.createRadialGradient(bx - br * 0.2, by - br * 0.2, 0, bx, by, br);
           ballGrad.addColorStop(0, "#FFFFFF");
-          ballGrad.addColorStop(0.8, "#F0F0F0");
+          ballGrad.addColorStop(0.75, "#F0F0F0");
           ballGrad.addColorStop(1, "#D0D0D0");
           ctx.fillStyle = ballGrad;
           ctx.beginPath();
@@ -987,7 +1197,7 @@ function PingPongPage() {
           // Shine
           ctx.fillStyle = "rgba(255,255,255,0.6)";
           ctx.beginPath();
-          ctx.arc(bx - br * 0.25, by - br * 0.25, br * 0.3, 0, Math.PI * 2);
+          ctx.arc(bx - br * 0.25, by - br * 0.25, br * 0.28, 0, Math.PI * 2);
           ctx.fill();
 
           // Speed trail effect
@@ -1092,7 +1302,8 @@ function PingPongPage() {
     return () => {
       cancelAnimationFrame(animFrameRef.current);
       canvas.removeEventListener("pointermove", handlePointer);
-      canvas.removeEventListener("pointerdown", handlePointer);
+      canvas.removeEventListener("pointerdown", handlePointerDown);
+      canvas.removeEventListener("touchstart", handlePointerDown as EventListener);
       canvas.removeEventListener("touchmove", handlePointer as EventListener);
       window.removeEventListener("keydown", handleKeyDown);
       window.removeEventListener("keyup", handleKeyUp);
@@ -1374,8 +1585,11 @@ function PingPongPage() {
 // ─── Game State Type ─────────────────────────────────────────
 interface GameState {
   playerX: number;
+  playerY: number;
   aiX: number;
+  aiY: number;
   aiTargetX: number;
+  aiTargetY: number;
   balls: Ball[];
   serving: boolean;
   serveTimer: number;
@@ -1384,6 +1598,7 @@ interface GameState {
   particles: Particle[];
   gameOver: boolean;
   lastHitTime: number;
+  bounceRipples: Array<{ x: number; y: number; age: number }>;
   // Powerup
   powerup: Powerup | null;
   activePowerup: Powerup | null;
