@@ -1760,6 +1760,36 @@ export const G8_Generators = {
         }
       }
       return q;
+    },
+    synonyms_antonyms_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const wordData = [
+        { word: "obfuscate", synonym: "obscure", antonym: "clarify" },
+        { word: "perfunctory", synonym: "cursory", antonym: "thorough" },
+        { word: "taciturn", synonym: "reticent", antonym: "verbose" },
+        { word: "magnanimous", synonym: "generous", antonym: "petty" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const wordSet = pick(wordData, rng);
+          const isAntonym = rng() > 0.5;
+          if (isAntonym) {
+            const wrong = wordData.filter(w => w.word !== wordSet.word).map(w => w.antonym).slice(0, 3);
+            q.push(createMCQ("vocab_g8", "synonyms_antonyms_g8", `What is the ANTONYM of '${wordSet.word}'?`, wordSet.antonym, wrong));
+          } else {
+            const wrong = wordData.filter(w => w.word !== wordSet.word).map(w => w.synonym).slice(0, 3);
+            q.push(createMCQ("vocab_g8", "synonyms_antonyms_g8", `What is the SYNONYM of '${wordSet.word}'?`, wordSet.synonym, wrong));
+          }
+        } else {
+          const wordSet = pick(wordData, rng);
+          const isAntonym = rng() > 0.5;
+          q.push(createTyping("vocab_g8", "synonyms_antonyms_g8",
+            `Name a ${isAntonym ? "antonym" : "synonym"} of '${wordSet.word}':`,
+            isAntonym ? wordSet.antonym : wordSet.synonym));
+        }
+      }
+      return q;
     }
   },
   grammar_g8: {
