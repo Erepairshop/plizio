@@ -1600,6 +1600,36 @@ export const G7_Generators = {
         }
       }
       return q;
+    },
+    synonyms_antonyms_g7: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const wordData = [
+        { word: "nefarious", synonym: "villainous", antonym: "virtuous" },
+        { word: "ephemeral", synonym: "fleeting", antonym: "permanent" },
+        { word: "voracious", synonym: "greedy", antonym: "abstemious" },
+        { word: "serene", synonym: "tranquil", antonym: "chaotic" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(7, rng)) {
+          const wordSet = pick(wordData, rng);
+          const isAntonym = rng() > 0.5;
+          if (isAntonym) {
+            const wrong = wordData.filter(w => w.word !== wordSet.word).map(w => w.antonym).slice(0, 3);
+            q.push(createMCQ("vocab_g7", "synonyms_antonyms_g7", `What is the ANTONYM of '${wordSet.word}'?`, wordSet.antonym, wrong));
+          } else {
+            const wrong = wordData.filter(w => w.word !== wordSet.word).map(w => w.synonym).slice(0, 3);
+            q.push(createMCQ("vocab_g7", "synonyms_antonyms_g7", `What is the SYNONYM of '${wordSet.word}'?`, wordSet.synonym, wrong));
+          }
+        } else {
+          const wordSet = pick(wordData, rng);
+          const isAntonym = rng() > 0.5;
+          q.push(createTyping("vocab_g7", "synonyms_antonyms_g7",
+            `Name a ${isAntonym ? "antonym" : "synonym"} of '${wordSet.word}':`,
+            isAntonym ? wordSet.antonym : wordSet.synonym));
+        }
+      }
+      return q;
     }
   },
   punctuation_g7: {
