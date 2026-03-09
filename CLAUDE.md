@@ -1,5 +1,13 @@
 # CLAUDE.md - Projekt utasítások
 
+## ⚠️ TOKEN-SPÓROLÁS — LEGFONTOSABB SZABÁLY ⚠️
+
+**NE HASZNÁLJ Agent tool-t ha elkerülhető!** Az Agent tool NAGYON DRÁGA (minden agent teljes kontextust fogyaszt).
+- Egyszerű keresés → használj Grep/Glob közvetlenül
+- Kód írás → írd magad vagy használj Node.js scriptet (`node -e "..."`) ami generálja a kódot
+- Párhuzamos munka → inkább szekvenciálisan, de olcsón
+- **KIVÉTEL:** Ha a feladat TÉNYLEG komplex és független (pl. 2 teljesen különálló fájl), AKKOR használhatsz agent-et
+
 ## Repo struktúra
 
 A repo tisztán van szervezve:
