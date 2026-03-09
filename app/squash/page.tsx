@@ -86,7 +86,7 @@ function SquashPage() {
 
   // Game state
   const [gameState, setGameState] = useState<SquashGameState>(initializeGame());
-  const [mouseY, setMouseY] = useState(COURT_HEIGHT / 2 - PADDLE_HEIGHT / 2);
+  const mouseYRef = useRef(COURT_HEIGHT / 2 - PADDLE_HEIGHT / 2);
   const [bestScore, setBestScore] = useState(0);
 
   // Multiplayer state
@@ -94,6 +94,7 @@ function SquashPage() {
   const [scoreSubmitted, setScoreSubmitted] = useState(false);
   const [oppFinalScore, setOppFinalScore] = useState<number | null>(null);
   const [earnedCard, setEarnedCard] = useState<"bronze" | "silver" | "gold" | "legendary" | null>(null);
+  const [gameResult, setGameResult] = useState<"won" | "lost">("won");
 
   // Avatar state
   const [gender] = useState<AvatarGender>(getGender());
@@ -168,7 +169,7 @@ function SquashPage() {
 
     const gameLoop = () => {
       setGameState((prev) => {
-        let newState = processGameFrame(prev, mouseY, difficulty);
+        let newState = processGameFrame(prev, mouseYRef.current, difficulty);
 
         // AI serve
         if (newState.gameStatus === "serving" && !newState.isPlayerServing) {
@@ -179,7 +180,7 @@ function SquashPage() {
         }
 
         // Draw
-        drawGame(ctx, newState, mouseY);
+        drawGame(ctx, newState, mouseYRef.current);
 
         return newState;
       });
@@ -194,7 +195,8 @@ function SquashPage() {
         cancelAnimationFrame(animationFrameRef.current);
       }
     };
-  }, [screen, mouseY, difficulty]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [screen, difficulty]);
 
   // ============================================================================
   // HANDLE GAME END
@@ -215,7 +217,8 @@ function SquashPage() {
       }
 
       // Single player: save card + show reward
-      const rarity: "bronze" | "silver" | "gold" | "legendary" = "bronze"; // Squash always bronze for now
+      const streak = 0;
+      const rarity = calculateRarity(playerScore, WINNING_SCORE, streak, false);
       const card = {
         id: generateCardId(),
         game: "squash",
@@ -228,7 +231,7 @@ function SquashPage() {
       saveCard(card);
       window.dispatchEvent(new Event("plizio-cards-changed"));
       incrementTotalGames();
-      incrementPerfectScores();
+      if (gameState.aiScore === 0) incrementPerfectScores();
 
       // Update best score
       const newBest = Math.max(bestScore, playerScore);
@@ -238,6 +241,7 @@ function SquashPage() {
       // Check milestones (globally handled by MilestonePopup)
       checkNewMilestones();
 
+      setGameResult("won");
       setEarnedCard(rarity);
       setScreen("reward");
     } else if (gameState.gameStatus === "lost") {
@@ -248,8 +252,24 @@ function SquashPage() {
         return;
       }
 
-      // Single player: show loss
-      setScreen("lost");
+      // Single player: save card + show loss
+      const lossRarity = calculateRarity(gameState.playerScore, WINNING_SCORE, 0, false);
+      const lossCard = {
+        id: generateCardId(),
+        game: "squash",
+        theme: difficulty,
+        rarity: lossRarity,
+        score: gameState.playerScore,
+        total: WINNING_SCORE,
+        date: new Date().toISOString(),
+      };
+      saveCard(lossCard);
+      window.dispatchEvent(new Event("plizio-cards-changed"));
+      incrementTotalGames();
+      checkNewMilestones();
+      setGameResult("lost");
+      setEarnedCard(lossRarity);
+      setScreen("reward");
     }
   }, [gameState.gameStatus, screen, isMultiplayer, matchId, scoreSubmitted, playerNum, bestScore]);
 
@@ -291,16 +311,19 @@ function SquashPage() {
     const canvas = canvasRef.current;
     if (!canvas) return;
     const rect = canvas.getBoundingClientRect();
-    const y = e.clientY - rect.top;
-    setMouseY(Math.max(0, Math.min(y - PADDLE_HEIGHT / 2, COURT_HEIGHT - PADDLE_HEIGHT)));
+    const scaleY = COURT_HEIGHT / rect.height;
+    const y = (e.clientY - rect.top) * scaleY;
+    mouseYRef.current = Math.max(0, Math.min(y - PADDLE_HEIGHT / 2, COURT_HEIGHT - PADDLE_HEIGHT));
   };
 
   const handleTouchMove = (e: React.TouchEvent<HTMLCanvasElement>) => {
+    e.preventDefault();
     const canvas = canvasRef.current;
     if (!canvas) return;
     const rect = canvas.getBoundingClientRect();
-    const y = e.touches[0].clientY - rect.top;
-    setMouseY(Math.max(0, Math.min(y - PADDLE_HEIGHT / 2, COURT_HEIGHT - PADDLE_HEIGHT)));
+    const scaleY = COURT_HEIGHT / rect.height;
+    const y = (e.touches[0].clientY - rect.top) * scaleY;
+    mouseYRef.current = Math.max(0, Math.min(y - PADDLE_HEIGHT / 2, COURT_HEIGHT - PADDLE_HEIGHT));
   };
 
   const handleCanvasClick = () => {
@@ -469,7 +492,8 @@ function SquashPage() {
             onClick={handleCanvasClick}
             onMouseMove={handleMouseMove}
             onTouchMove={handleTouchMove}
-            className="border-4 border-cyan-400/50 rounded-lg shadow-2xl cursor-none bg-black"
+            className="border-4 border-cyan-400/50 rounded-lg shadow-2xl cursor-none bg-black w-full max-w-[600px]"
+            style={{ aspectRatio: `${COURT_WIDTH}/${COURT_HEIGHT}`, touchAction: "none" }}
           />
 
           {/* HUD */}
@@ -514,7 +538,7 @@ function SquashPage() {
           game="squash"
           score={gameState.playerScore}
           total={WINNING_SCORE}
-          onDone={() => setScreen("won")}
+          onDone={() => setScreen(gameResult)}
         />
       )}
 
@@ -643,7 +667,7 @@ function SquashPage() {
 // CANVAS RENDERING FUNCTION
 // ============================================================================
 
-function drawGame(ctx: CanvasRenderingContext2D, gameState: SquashGameState, mouseY: number) {
+function drawGame(ctx: CanvasRenderingContext2D, gameState: SquashGameState, playerY: number) {
   // Clear court
   ctx.fillStyle = "#0a0a1a";
   ctx.fillRect(0, 0, COURT_WIDTH, COURT_HEIGHT);
@@ -686,13 +710,13 @@ function drawGame(ctx: CanvasRenderingContext2D, gameState: SquashGameState, mou
   // Player paddle (bottom-right) - CYAN
   const playerPaddleX = BACK_WALL_X - PADDLE_WIDTH - 10;
   ctx.fillStyle = "#00ff88";
-  ctx.fillRect(playerPaddleX, mouseY, PADDLE_WIDTH, PADDLE_HEIGHT);
+  ctx.fillRect(playerPaddleX, playerY, PADDLE_WIDTH, PADDLE_HEIGHT);
   // Glow
   ctx.shadowColor = "#00ff88";
   ctx.shadowBlur = 10;
   ctx.strokeStyle = "#00ff88";
   ctx.lineWidth = 2;
-  ctx.strokeRect(playerPaddleX, mouseY, PADDLE_WIDTH, PADDLE_HEIGHT);
+  ctx.strokeRect(playerPaddleX, playerY, PADDLE_WIDTH, PADDLE_HEIGHT);
   ctx.shadowBlur = 0;
 
   // AI paddle (top-left) - PURPLE

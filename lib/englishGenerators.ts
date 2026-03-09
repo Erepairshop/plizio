@@ -184,12 +184,11 @@ export const G1_Generators = {
     blends_g1: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
-      const blends = ["st", "sp", "sn", "sl", "sm", "sw", "sk", "sc", "bl", "br", "cl", "cr", "dr", "fr", "gr"];
+      const blendWords: [string, string][] = [["st","stop"],["st","stand"],["gr","green"],["bl","black"],["gr","ground"],["pl","place"],["tr","tree"],["br","bring"],["sm","small"],["cr","cross"],["dr","drive"],["fl","flags"],["tr","trade"],["pl","please"]];
       for (let i = 0; i < 30; i++) {
-        const blend = pick(blends, rng);
-        const word = pick(GRADE1_WORDS.blends, rng);
-        const wrong = blends.filter(b => b !== blend).slice(0, 3);
-        q.push(createMCQ("phonics_g1", "blends_g1", `Which blend is in '${word}'?`, blend, wrong));
+        const [blend, word] = pick(blendWords, rng);
+        const wrong = blendWords.filter(b => b[0] !== blend).map(b => b[0]).slice(0, 3);
+        q.push(createMCQ("phonics_g1", "blends_g1", `Which blend starts '${word}'?`, blend, wrong));
       }
       return q;
     },
@@ -395,8 +394,9 @@ export const G4_Generators = {
         if (isMCQ(4, rng)) {
           const modal = pick(modals, rng);
           const wrong = modals.filter(m => m !== modal).slice(0, 3);
+          const sentences: Record<string, string> = { can:"I ___ swim.", could:"She ___ help us.", may:"You ___ leave now.", might:"It ___ rain.", must:"You ___ study.", should:"You ___ rest.", would:"I ___ like tea." };
           q.push(createMCQ("pos_g4", "modal_verbs_g4",
-            "Which modal verb shows possibility?", modal, wrong));
+            `Fill in: "${sentences[modal] || "I ___ help."}"`, modal, wrong));
         } else {
           q.push(createTyping("pos_g4", "modal_verbs_g4",
             "Name a modal verb:", pick(modals, rng)));
@@ -511,8 +511,9 @@ export const G6_Generators = {
         if (isMCQ(6, rng)) {
           const device = pick(devices, rng);
           const wrong = devices.filter(d => d !== device).slice(0, 3);
+          const examples: Record<string, string> = { alliteration:"'Peter Piper picked peppers'", metaphor:"'Time is money'", simile:"'Fast as lightning'", personification:"'The wind whispered'", hyperbole:"'I've told you a million times'" };
           q.push(createMCQ("literary_g6", "literary_devices_g6",
-            "What device is 'singing softly'?", device, wrong));
+            `What device is ${examples[device] || "'The stars danced'"}?`, device, wrong));
         } else {
           q.push(createTyping("literary_g6", "literary_devices_g6",
             "Name a literary device:", pick(devices, rng)));
@@ -535,8 +536,9 @@ export const G7_Generators = {
         if (isMCQ(7, rng)) {
           const mood = pick(moods, rng);
           const wrong = moods.filter(m => m !== mood).slice(0, 3);
+          const moodExamples: Record<string, string> = { indicative:"states a fact", imperative:"gives a command", subjunctive:"expresses a wish or hypothetical", conditional:"depends on a condition" };
           q.push(createMCQ("syntax_g7", "verb_mood_g7",
-            "Which mood expresses a wish?", mood, wrong));
+            `Which mood ${moodExamples[mood] || "expresses a wish"}?`, mood, wrong));
         } else {
           q.push(createTyping("syntax_g7", "verb_mood_g7",
             "Name a verb mood:", pick(moods, rng)));
@@ -554,8 +556,9 @@ export const G7_Generators = {
         if (isMCQ(7, rng)) {
           const device = pick(devices, rng);
           const wrong = devices.filter(d => d !== device).slice(0, 3);
+          const rhetExamples: Record<string, string> = { "rhetorical question":"'Isn't it obvious?'", repetition:"'Never, never, never give up'", "parallel structure":"'I came, I saw, I conquered'", antithesis:"'It was the best of times, it was the worst of times'" };
           q.push(createMCQ("rhetoric_g7", "rhetorical_devices_g7",
-            "What device is 'To be or not to be'?", device, wrong));
+            `What device is ${rhetExamples[device] || "'To be or not to be'"}?`, device, wrong));
         } else {
           q.push(createTyping("rhetoric_g7", "rhetorical_devices_g7",
             "Name a rhetorical device:", pick(devices, rng)));
@@ -597,8 +600,9 @@ export const G8_Generators = {
         if (isMCQ(8, rng)) {
           const theory = pick(theories, rng);
           const wrong = theories.filter(t => t !== theory).slice(0, 3);
+          const theoryDesc: Record<string, string> = { "New Historicism":"examines texts in historical context", "Marxist Criticism":"analyzes power, class, and economics", "Feminist Criticism":"examines gender roles and representation", "Queer Theory":"challenges norms of gender and sexuality" };
           q.push(createMCQ("analysis_g8", "critical_theory_g8",
-            "Which examines power and class?", theory, wrong));
+            `Which theory ${theoryDesc[theory] || "examines social structures"}?`, theory, wrong));
         } else {
           q.push(createTyping("analysis_g8", "critical_theory_g8",
             "Name a critical theory:", pick(theories, rng)));
