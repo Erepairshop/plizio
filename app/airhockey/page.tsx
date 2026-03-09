@@ -497,6 +497,8 @@ function AirHockeyPage() {
     };
 
     // Player input — free movement within bottom half
+    // P2 has the canvas rotated 180°, so X must be inverted for natural control
+    const isP2 = isMultiplayer && playerNum !== "1";
     let playerTarget = { x: 0.5, y: 0.75 };
     const handlePointer = (e: PointerEvent | TouchEvent) => {
       const rect = canvas.getBoundingClientRect();
@@ -506,7 +508,8 @@ function AirHockeyPage() {
       const nx = ((clientX - rect.left) / rect.width * r.w - r.rL) / r.rW;
       const ny = ((clientY - rect.top) / rect.height * r.h - r.rT) / r.rH;
       const pr = padR();
-      playerTarget.x = Math.max(pr, Math.min(1 - pr, nx));
+      // For P2: canvas is rotated 180°, so invert X so left=left feels natural
+      playerTarget.x = Math.max(pr, Math.min(1 - pr, isP2 ? 1 - nx : nx));
       playerTarget.y = Math.max(0.52, Math.min(1 - padRY(), ny)); // only bottom half
     };
     canvas.addEventListener("pointermove", handlePointer);
@@ -532,9 +535,9 @@ function AirHockeyPage() {
       const pr = padR(), prY = padRY();
       const pkR = pR(), pkRY = pRY();
 
-      // Keyboard
-      if (keys.has("ArrowLeft") || keys.has("a")) playerTarget.x = Math.max(pr, playerTarget.x - 0.02 * dt);
-      if (keys.has("ArrowRight") || keys.has("d")) playerTarget.x = Math.min(1 - pr, playerTarget.x + 0.02 * dt);
+      // Keyboard (P2: X directions are inverted to match the rotated canvas)
+      if (keys.has("ArrowLeft") || keys.has("a")) playerTarget.x = Math.max(pr, playerTarget.x + (isP2 ? 0.02 : -0.02) * dt);
+      if (keys.has("ArrowRight") || keys.has("d")) playerTarget.x = Math.min(1 - pr, playerTarget.x + (isP2 ? -0.02 : 0.02) * dt);
       if (keys.has("ArrowUp") || keys.has("w")) playerTarget.y = Math.max(0.52, playerTarget.y - 0.02 * dt);
       if (keys.has("ArrowDown") || keys.has("s")) playerTarget.y = Math.min(1 - prY, playerTarget.y + 0.02 * dt);
 
@@ -1085,7 +1088,8 @@ function AirHockeyPage() {
         {screen === "playing" && (
           <motion.div key="playing" className="fixed inset-0 z-20" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
             <div className="absolute inset-0 touch-none">
-              <canvas ref={canvasRef} className="absolute inset-0 w-full h-full" style={{ touchAction: "none" }} />
+              <canvas ref={canvasRef} className="absolute inset-0 w-full h-full"
+                style={{ touchAction: "none", transform: isMultiplayer && playerNum !== "1" ? "rotate(180deg)" : undefined }} />
               <button onClick={() => { if (isMultiplayer) setShowExitConfirm(true); else { setAvatarMood("idle"); setScreen("menu"); } }}
                 className="absolute top-2 right-2 z-10 px-3 py-1.5 rounded-lg bg-white/10 text-white/70 font-bold text-xs backdrop-blur-sm hover:bg-white/20 transition-colors">
                 {lang === "hu" ? "VÉGE" : lang === "de" ? "ENDE" : lang === "ro" ? "SFÂRȘIT" : "END"}
