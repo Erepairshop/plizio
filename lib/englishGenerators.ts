@@ -1284,6 +1284,30 @@ export const G5_Generators = {
         }
       }
       return q;
+    },
+    prefixes_suffixes_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const affixData = [
+        { affix: "multi", word: "multilingual", meaning: "many languages" },
+        { affix: "trans", word: "translate", meaning: "carry across" },
+        { affix: "ible/able", word: "responsible", meaning: "able to respond" },
+        { affix: "ment", word: "agreement", meaning: "state of agreeing" },
+        { affix: "ity", word: "stability", meaning: "quality of being stable" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(5, rng)) {
+          const data = pick(affixData, rng);
+          const wrong = ["prefix", "suffix", "root"].slice(0, 3);
+          q.push(createMCQ("vocab_g5", "prefixes_suffixes_g5",
+            `What does '${data.affix}' contribute to the meaning of '${data.word}'?`, data.meaning, wrong));
+        } else {
+          const data = pick(affixData, rng);
+          q.push(createTyping("vocab_g5", "prefixes_suffixes_g5",
+            `What does '${data.affix}' mean in '${data.word}'?`, data.meaning));
+        }
+      }
+      return q;
     }
   },
   grammar_g5: {
