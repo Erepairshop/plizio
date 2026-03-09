@@ -134,6 +134,21 @@ const topicNames: Record<Lang, Record<string, string>> = {
     rounding100: "kerekítés 100-asra",
     fractionDiffDenom: "tört különböző nevezővel",
     systemEq: "egyenletrendszer",
+    addNoCarry: "összeadás átlépés nélkül",
+    addCarry: "összeadás tízes átlépéssel",
+    add3nums: "három szám összeadása",
+    subNoCarry: "kivonás kölcsönzés nélkül",
+    subCarry: "kivonás kölcsönzéssel",
+    mulRepeated: "szorzás mint összeadás",
+    mulGroup: "csoportok számlálása",
+    divShare: "egyenlő elosztás",
+    divMulRel: "szorzás és osztás kapcsolata",
+    weightGKg: "gramm és kilogramm",
+    moneyEuroCent: "euró és cent",
+    shapeBasic: "síkidomok",
+    perimeterBasic: "egyszerű kerület",
+    stellenwert2: "tízes és egyes",
+    zahlzerlegung2: "számfelbontás 100-ig",
   },
   DE: {
     addition: "Addition",
@@ -237,6 +252,21 @@ const topicNames: Record<Lang, Record<string, string>> = {
     rounding100: "Runden auf Hunderter",
     fractionDiffDenom: "Brüche mit versch. Nenner",
     systemEq: "Gleichungssystem",
+    addNoCarry: "Addition ohne Zehnerübergang",
+    addCarry: "Addition mit Zehnerübergang",
+    add3nums: "Drei Zahlen addieren",
+    subNoCarry: "Subtraktion ohne Zehnerübergang",
+    subCarry: "Subtraktion mit Zehnerübergang",
+    mulRepeated: "Multiplikation als Wiederholung",
+    mulGroup: "Gruppenweise zählen",
+    divShare: "Gleiches Aufteilen",
+    divMulRel: "Zusammenhang × und ÷",
+    weightGKg: "Gramm und Kilogramm",
+    moneyEuroCent: "Euro und Cent",
+    shapeBasic: "Ebene Figuren",
+    perimeterBasic: "Einfacher Umfang",
+    stellenwert2: "Zehner und Einer",
+    zahlzerlegung2: "Zahlenzerlegung bis 100",
   },
   EN: {
     addition: "addition",
@@ -340,6 +370,21 @@ const topicNames: Record<Lang, Record<string, string>> = {
     rounding100: "rounding to 100",
     fractionDiffDenom: "fractions (unlike denominators)",
     systemEq: "systems of equations",
+    addNoCarry: "addition without carrying",
+    addCarry: "addition with carrying",
+    add3nums: "adding three numbers",
+    subNoCarry: "subtraction without borrowing",
+    subCarry: "subtraction with borrowing",
+    mulRepeated: "multiplication as repeated addition",
+    mulGroup: "counting groups",
+    divShare: "equal sharing",
+    divMulRel: "multiplication–division relationship",
+    weightGKg: "grams and kilograms",
+    moneyEuroCent: "euro and cents",
+    shapeBasic: "flat shapes",
+    perimeterBasic: "simple perimeter",
+    stellenwert2: "tens and ones",
+    zahlzerlegung2: "number decomposition to 100",
   },
   RO: {
     addition: "adunare",
@@ -443,6 +488,21 @@ const topicNames: Record<Lang, Record<string, string>> = {
     rounding100: "rotunjire la 100",
     fractionDiffDenom: "fracții cu numitori diferiți",
     systemEq: "sistem de ecuații",
+    addNoCarry: "adunare fără transport",
+    addCarry: "adunare cu transport",
+    add3nums: "adunarea a trei numere",
+    subNoCarry: "scădere fără împrumut",
+    subCarry: "scădere cu împrumut",
+    mulRepeated: "înmulțire repetată",
+    mulGroup: "numărare în grupuri",
+    divShare: "împărțire egală",
+    divMulRel: "legătura înmulțire–împărțire",
+    weightGKg: "grame și kilograme",
+    moneyEuroCent: "euro și cenți",
+    shapeBasic: "forme plane",
+    perimeterBasic: "perimetru simplu",
+    stellenwert2: "zeci și unități",
+    zahlzerlegung2: "descompunere până la 100",
   },
 };
 
@@ -2373,5 +2433,142 @@ export function qChangeBack(item: string, price: number, paid: number, currency:
     case "EN": return `A ${item} costs ${price} ${currency}. You pay with ${paid} ${currency}. How much change do you get?`;
     case "RO": return `Un ${item} costă ${price} ${currency}. Plătești cu ${paid} ${currency}. Cât rest primești?`;
     default:   return `Egy ${item} ára ${price} ${currency}. ${paid} ${currency}-val fizetsz. Mennyi visszajáró jár?`;
+  }
+}
+
+// ─── GRADE 2 NEW GENERATORS — TEMPLATE FUNCTIONS ────────────────────────────
+
+// Place value: how many Zehner
+export function qHowManyZehner(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Wie viele Zehner hat die Zahl ${n}?`;
+    case "EN": return `How many tens does the number ${n} have?`;
+    case "RO": return `Câte zeci are numărul ${n}?`;
+    default:   return `Hány tízes van a ${n} számban?`;
+  }
+}
+
+// Place value: how many Einer
+export function qHowManyEiner(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Wie viele Einer hat die Zahl ${n}?`;
+    case "EN": return `How many ones does the number ${n} have?`;
+    case "RO": return `Câte unități are numărul ${n}?`;
+    default:   return `Hány egyes van a ${n} számban?`;
+  }
+}
+
+// Number decomposition variant A: n = tens + ?
+export function qZahlzerlegungA(n: number, tens: number, ones: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${n} = ${tens} + ?`;
+    case "EN": return `${n} = ${tens} + ?`;
+    case "RO": return `${n} = ${tens} + ?`;
+    default:   return `${n} = ${tens} + ?`;
+  }
+}
+
+// Number decomposition variant B: n = ? + ones
+export function qZahlzerlegungB(n: number, tens: number, ones: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${n} = ? + ${ones}`;
+    case "EN": return `${n} = ? + ${ones}`;
+    case "RO": return `${n} = ? + ${ones}`;
+    default:   return `${n} = ? + ${ones}`;
+  }
+}
+
+// Multiplication as repeated addition: groups + each → "3+3+3 = 3 × ?"
+export function qMulAsAddition(groups: number, each: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const repeated = Array(groups).fill(each).join(" + ");
+  switch (lang) {
+    case "DE": return `${repeated} = ${groups} × ?`;
+    case "EN": return `${repeated} = ${groups} × ?`;
+    case "RO": return `${repeated} = ${groups} × ?`;
+    default:   return `${repeated} = ${groups} × ?`;
+  }
+}
+
+// Visual multiplication: groups of each
+export function wpGroupsOf(groups: number, each: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Es gibt ${groups} Gruppen mit je ${each} Kindern. Wie viele Kinder sind es insgesamt?`;
+    case "EN": return `There are ${groups} groups of ${each} children each. How many children in total?`;
+    case "RO": return `Sunt ${groups} grupe cu câte ${each} copii. Câți copii sunt în total?`;
+    default:   return `${groups} csoport van, mindegyikben ${each} gyerek. Összesen hány gyerek?`;
+  }
+}
+
+// Division–multiplication relationship
+export function qDivMulRelation(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const product = a * b;
+  switch (lang) {
+    case "DE": return `${a} × ${b} = ${product}. Also: ${product} ÷ ${a} = ?`;
+    case "EN": return `${a} × ${b} = ${product}. So: ${product} ÷ ${a} = ?`;
+    case "RO": return `${a} × ${b} = ${product}. Deci: ${product} ÷ ${a} = ?`;
+    default:   return `${a} × ${b} = ${product}. Tehát: ${product} ÷ ${a} = ?`;
+  }
+}
+
+// Money: how many cents in 1 euro
+export function qHowManyCentInEuro(countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Wie viele Cent hat 1 Euro?`;
+    case "EN": return `How many cents are in 1 euro?`;
+    case "RO": return `Câți cenți are 1 euro?`;
+    default:   return `Hány cent van 1 euróban?`;
+  }
+}
+
+// Money: euros to cents
+export function qEuroToCent(euros: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${euros} Euro = ? Cent`;
+    case "EN": return `${euros} euros = ? cents`;
+    case "RO": return `${euros} euro = ? cenți`;
+    default:   return `${euros} euró = ? cent`;
+  }
+}
+
+// Weight: kg to grams
+export function qKgToG(kg: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${kg} kg = ? g`;
+    case "EN": return `${kg} kg = ? g`;
+    case "RO": return `${kg} kg = ? g`;
+    default:   return `${kg} kg = ? g`;
+  }
+}
+
+// Time word problem: school day
+export function wpSchoolDay(startH: number, durationH: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const end = startH + durationH;
+  switch (lang) {
+    case "DE": return `Der Unterricht beginnt um ${startH}:00 Uhr und dauert ${durationH} Stunden. Um wie viel Uhr endet er?`;
+    case "EN": return `School starts at ${startH}:00 and lasts ${durationH} hours. What time does it end?`;
+    case "RO": return `Școala începe la ora ${startH}:00 și durează ${durationH} ore. La ce oră se termină?`;
+    default:   return `Az iskola ${startH}:00-kor kezdődik és ${durationH} óráig tart. Mikor ér véget?`;
+  }
+}
+
+// Shape names for G2
+export function getShapeNamesG2(countryCode: string): { square: string; rectangle: string; triangle: string; circle: string } {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return { square: "Quadrat", rectangle: "Rechteck", triangle: "Dreieck", circle: "Kreis" };
+    case "EN": return { square: "square", rectangle: "rectangle", triangle: "triangle", circle: "circle" };
+    case "RO": return { square: "pătrat", rectangle: "dreptunghi", triangle: "triunghi", circle: "cerc" };
+    default:   return { square: "négyzet", rectangle: "téglalap", triangle: "háromszög", circle: "kör" };
   }
 }
