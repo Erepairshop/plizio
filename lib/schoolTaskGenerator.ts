@@ -8,7 +8,8 @@ import { generateTopicQuestions, getDEThemes, getENThemes, getHUThemes, getROThe
 // ─── TYPES ──────────────────────────────────────────────────────────────────
 
 export type VisualQuestionType = 'zeichnen' | 'messen' | 'uhrzeit' | 'grid-area' | 'place-value' | 'fraction-pizza' | 'symmetry' | 'sequence' | 'timeline' | 'number-line' | 'angle' | 'circle-draw' | 'money'
-  | 'g1-clock' | 'g1-number-line' | 'g1-place-value' | 'g1-grid-count' | 'g1-sequence' | 'g1-coins' | 'g1-timeline' | 'g1-fraction';
+  | 'g1-clock' | 'g1-number-line' | 'g1-place-value' | 'g1-grid-count' | 'g1-sequence' | 'g1-coins' | 'g1-timeline' | 'g1-fraction'
+  | 'g1-dots' | 'g1-dice' | 'g1-fingers' | 'g1-compare' | 'g1-predecessor' | 'g1-successor';
 
 export type VisualQuestionData = {
   type: VisualQuestionType;
@@ -52,7 +53,13 @@ export type TaskType =
   | 'visual_g1_sequence'
   | 'visual_g1_coins'
   | 'visual_g1_timeline'
-  | 'visual_g1_fraction';
+  | 'visual_g1_fraction'
+  | 'visual_g1_dots'
+  | 'visual_g1_dice'
+  | 'visual_g1_fingers'
+  | 'visual_g1_compare'
+  | 'visual_g1_predecessor'
+  | 'visual_g1_successor';
 
 export type AufgabenItem = {
   question: string;
@@ -1037,6 +1044,13 @@ const TITLES: Record<TaskType, Record<string, string>> = {
   visual_g1_coins: { de: 'Münzen zählen.', en: 'Count the coins.', hu: 'Számold össze az érméket!', ro: 'Numără monedele.' },
   visual_g1_timeline: { de: 'Zeitdauer berechnen.', en: 'Calculate the duration.', hu: 'Számold ki az időtartamot!', ro: 'Calculează durata.' },
   visual_g1_fraction: { de: 'Teile zählen.', en: 'Count the parts.', hu: 'Számold meg a részeket!', ro: 'Numără părțile.' },
+  // Phase 1 - Numbers & Recognition
+  visual_g1_dots: { de: 'Wie viele Punkte?', en: 'How many dots?', hu: 'Hány pont van?', ro: 'Câte puncte?' },
+  visual_g1_dice: { de: 'Welche Zahl zeigt der Würfel?', en: 'What number is on the dice?', hu: 'Mi a dobókocka száma?', ro: 'Ce număr are zarul?' },
+  visual_g1_fingers: { de: 'Wie viele Finger?', en: 'How many fingers?', hu: 'Hány ujj van felfelé?', ro: 'Câți degete?' },
+  visual_g1_compare: { de: 'Größer oder kleiner?', en: 'Greater or less than?', hu: 'Nagyobb vagy kisebb?', ro: 'Mai mare sau mai mic?' },
+  visual_g1_predecessor: { de: 'Welche Zahl kommt davor?', en: 'What number comes before?', hu: 'Mi az előző szám?', ro: 'Ce număr vine înainte?' },
+  visual_g1_successor: { de: 'Welche Zahl kommt danach?', en: 'What number comes after?', hu: 'Mi a következő szám?', ro: 'Ce număr vine după?' },
 };
 
 function getTitleFor(type: TaskType, cc: string): string {

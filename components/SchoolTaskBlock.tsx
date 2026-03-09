@@ -46,6 +46,14 @@ const G1CoinCounter = dynamic(() => import('./grade1-visual/CoinCounter'), { ssr
 const G1TimelineDuration = dynamic(() => import('./grade1-visual/TimelineDuration'), { ssr: false });
 const G1FractionShapes = dynamic(() => import('./grade1-visual/FractionShapes'), { ssr: false });
 
+// Grade 1 Phase 1 - Numbers & Recognition
+const G1DotRecognizer = dynamic(() => import('./grade1-visual/DotRecognizer'), { ssr: false });
+const G1DiceRecognizer = dynamic(() => import('./grade1-visual/DiceRecognizer'), { ssr: false });
+const G1FingerCounter = dynamic(() => import('./grade1-visual/FingerCounter'), { ssr: false });
+const G1NumberComparison = dynamic(() => import('./grade1-visual/NumberComparison'), { ssr: false });
+const G1PredecessorFinder = dynamic(() => import('./grade1-visual/PredecessorFinder'), { ssr: false });
+const G1SuccessorFinder = dynamic(() => import('./grade1-visual/SuccessorFinder'), { ssr: false });
+
 interface Props {
   block: SchoolTaskBlockType;
   blockIndex: number;
@@ -128,6 +136,19 @@ export default function SchoolTaskBlock({
         return <G1TimelineDuration startHour={p.startHour} endHour={p.endHour} lang={lang} embedded={true} onValueChange={vc} />;
       case 'g1-fraction':
         return <G1FractionShapes shape={p.shape} totalParts={p.totalParts} coloredParts={p.coloredParts} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      // Phase 1 - Numbers & Recognition
+      case 'g1-dots':
+        return <G1DotRecognizer lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-dice':
+        return <G1DiceRecognizer lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-fingers':
+        return <G1FingerCounter lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-compare':
+        return <G1NumberComparison lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-predecessor':
+        return <G1PredecessorFinder lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-successor':
+        return <G1SuccessorFinder lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
       default:
         return null;
     }
