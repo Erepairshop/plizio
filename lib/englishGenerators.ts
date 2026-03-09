@@ -1703,6 +1703,28 @@ export const G7_Generators = {
         }
       }
       return q;
+    },
+    academic_vocab_g7: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const wordData = [
+        { word: "substantiate", meaning: "provide evidence for" },
+        { word: "methodology", meaning: "system of methods used" },
+        { word: "coherent", meaning: "logical and consistent" },
+        { word: "extrapolate", meaning: "infer from known data" },
+        { word: "juxtapose", meaning: "place side by side" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(7, rng)) {
+          const data = pick(wordData, rng);
+          const wrong = ["irrelevant", "temporal", "hypothetical"].slice(0, 3);
+          q.push(createMCQ("vocab_g7", "academic_vocab_g7", `What does '${data.word}' mean?`, data.meaning, wrong));
+        } else {
+          const data = pick(wordData, rng);
+          q.push(createTyping("vocab_g7", "academic_vocab_g7", `Define '${data.word}':`, data.meaning));
+        }
+      }
+      return q;
     }
   },
   punctuation_g7: {
