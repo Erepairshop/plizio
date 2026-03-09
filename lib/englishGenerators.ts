@@ -1016,6 +1016,33 @@ export const G4_Generators = {
         q.push(createMCQ("vocab_g4", "homophones_g4", `Fill in: "${data.sentence}"`, data.correct, data.wrong));
       }
       return q;
+    },
+    prefixes_suffixes_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const affixData = [
+        { prefix: "un", word: "unhappy", meaning: "not happy" },
+        { prefix: "re", word: "retake", meaning: "take again" },
+        { suffix: "ful", word: "colorful", meaning: "full of color" },
+        { suffix: "less", word: "hopeless", meaning: "without hope" },
+        { prefix: "dis", word: "disagree", meaning: "not agree" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(4, rng)) {
+          const data = pick(affixData, rng);
+          const affix = "prefix" in data ? data.prefix : data.suffix;
+          const isPrefix = "prefix" in data;
+          const wrong = ["prefix", "suffix", "root"].filter(x => x !== (isPrefix ? "prefix" : "suffix"));
+          q.push(createMCQ("vocab_g4", "prefixes_suffixes_g4",
+            `Is '${affix}' a prefix or suffix in '${data.word}'?`, isPrefix ? "prefix" : "suffix", wrong));
+        } else {
+          const data = pick(affixData, rng);
+          const affix = "prefix" in data ? data.prefix : data.suffix;
+          q.push(createTyping("vocab_g4", "prefixes_suffixes_g4",
+            `What does the affix '${affix}' mean in '${data.word}'?`, data.meaning));
+        }
+      }
+      return q;
     }
   },
   grammar_g4: {
