@@ -559,6 +559,23 @@ export const G2_Generators = {
         }
       }
       return q;
+    },
+    basic_punctuation_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { correct: "Are you ready?", wrong: ["Are you ready.", "Are you ready", "are you ready?"] },
+        { correct: "Watch out!", wrong: ["Watch out.", "Watch out", "watch out!"] },
+        { correct: "I like cats.", wrong: ["I like cats", "I like cats!", "i like cats."] },
+        { correct: "Where is my book?", wrong: ["Where is my book.", "Where is my book", "where is my book?"] },
+        { correct: "What a beautiful day!", wrong: ["What a beautiful day.", "What a beautiful day", "what a beautiful day!"] }
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(sentenceData, rng);
+        q.push(createMCQ("grammar_g2", "basic_punctuation_g2",
+          "Which sentence has the correct punctuation?", data.correct, data.wrong));
+      }
+      return q;
     }
   }
 };
@@ -677,6 +694,31 @@ export const G3_Generators = {
         } else {
           const advSet = pick(advData, rng);
           q.push(createTyping("pos_g3", "adverbs_g3", `Form an adverb from '${advSet.adjective}':`, advSet.adverb));
+        }
+      }
+      return q;
+    },
+    present_progressive_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const progressiveData = [
+        { verb: "run", progressive: "is running", context: "The dog ___ in the park." },
+        { verb: "eat", progressive: "is eating", context: "She ___ lunch." },
+        { verb: "play", progressive: "is playing", context: "They ___ soccer." },
+        { verb: "read", progressive: "is reading", context: "He ___ a book." },
+        { verb: "sleep", progressive: "is sleeping", context: "The baby ___ peacefully." },
+        { verb: "jump", progressive: "is jumping", context: "The boy ___ on the trampoline." }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(3, rng)) {
+          const data = pick(progressiveData, rng);
+          const wrong = progressiveData.filter(d => d.verb !== data.verb).map(d => d.progressive).slice(0, 3);
+          q.push(createMCQ("pos_g3", "present_progressive_g3",
+            `Fill in: "${data.context}"`, data.progressive, wrong));
+        } else {
+          const data = pick(progressiveData, rng);
+          q.push(createTyping("pos_g3", "present_progressive_g3",
+            `Write the present progressive of '${data.verb}':`, data.progressive));
         }
       }
       return q;
@@ -929,6 +971,22 @@ export const G3_Generators = {
         }
       }
       return q;
+    },
+    compound_sentences_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { correct: "I like cats, and I like dogs too.", wrong: ["I like cats and I like dogs too.", "I like cats. and I like dogs too.", "I like cats, I like dogs too."] },
+        { correct: "It was cold, but we played outside.", wrong: ["It was cold but we played outside.", "It was cold. but we played outside.", "It was cold, we played outside."] },
+        { correct: "She can run fast, or she can walk slow.", wrong: ["She can run fast or she can walk slow.", "She can run fast, and she can walk slow.", "She can run fast she can walk slow."] },
+        { correct: "He studied hard, so he passed the test.", wrong: ["He studied hard so he passed the test.", "He studied hard, and he passed the test.", "He studied hard he passed the test."] }
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(sentenceData, rng);
+        q.push(createMCQ("grammar_g3", "compound_sentences_g3",
+          "Which sentence is written correctly?", data.correct, data.wrong));
+      }
+      return q;
     }
   }
 };
@@ -985,6 +1043,31 @@ export const G4_Generators = {
           q.push(createTyping("figurative_g4", "simile_metaphor_g4",
             "Write a simile (use 'like' or 'as'):",
             ["The moon is like a pearl", "She runs like a cheetah"]));
+        }
+      }
+      return q;
+    },
+    idioms_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const idiomData = [
+        { idiom: "raining cats and dogs", meaning: "raining very heavily" },
+        { idiom: "break a leg", meaning: "good luck" },
+        { idiom: "piece of cake", meaning: "something easy" },
+        { idiom: "hit the books", meaning: "study hard" },
+        { idiom: "let the cat out of the bag", meaning: "reveal a secret" },
+        { idiom: "once in a blue moon", meaning: "very rarely" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(4, rng)) {
+          const data = pick(idiomData, rng);
+          const wrong = idiomData.filter(d => d.idiom !== data.idiom).map(d => d.meaning).slice(0, 3);
+          q.push(createMCQ("figurative_g4", "idioms_g4",
+            `What does '${data.idiom}' mean?`, data.meaning, wrong));
+        } else {
+          const data = pick(idiomData, rng);
+          q.push(createTyping("figurative_g4", "idioms_g4",
+            `What does this idiom mean? "${data.idiom}"`, data.meaning));
         }
       }
       return q;
@@ -1412,6 +1495,32 @@ export const G5_Generators = {
       }
       return q;
     }
+  },
+  literary_g5: {
+    theme_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const themeData = [
+        { excerpt: "The boy worked hard every day and achieved his dreams despite many obstacles.", theme: "perseverance" },
+        { excerpt: "The friends stuck together through good times and bad, always supporting each other.", theme: "friendship" },
+        { excerpt: "She realized that money couldn't buy happiness; she found joy in simple things.", theme: "material things aren't everything" },
+        { excerpt: "He forgave his enemy and found peace, understanding that revenge brings more pain.", theme: "forgiveness" },
+        { excerpt: "The lost child learned to find her way home by trusting herself and her instincts.", theme: "self-reliance" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(5, rng)) {
+          const data = pick(themeData, rng);
+          const wrong = ["conflict", "suspense", "mystery"].slice(0, 3);
+          q.push(createMCQ("literary_g5", "theme_g5",
+            `What is the theme shown in this passage? "${data.excerpt}"`, data.theme, wrong));
+        } else {
+          const data = pick(themeData, rng);
+          q.push(createTyping("literary_g5", "theme_g5",
+            `Identify the theme: "${data.excerpt}"`, data.theme));
+        }
+      }
+      return q;
+    }
   }
 };
 
@@ -1465,6 +1574,29 @@ export const G6_Generators = {
         } else {
           q.push(createTyping("literary_g6", "literary_devices_g6",
             "Name a literary device:", pick(devices, rng)));
+        }
+      }
+      return q;
+    },
+    character_traits_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const characterData = [
+        { description: "She always helps others and shows kindness.", trait: "compassionate", wrong: ["selfish", "arrogant", "lazy"] },
+        { description: "He never gives up, even when faced with challenges.", trait: "determined", wrong: ["fearful", "stubborn", "weak"] },
+        { description: "She speaks truthfully and keeps her promises.", trait: "honest", wrong: ["deceitful", "unreliable", "sneaky"] },
+        { description: "He remains calm and thinks carefully before acting.", trait: "wise", wrong: ["impulsive", "foolish", "hasty"] },
+        { description: "She faces difficult situations with courage.", trait: "brave", wrong: ["timid", "cowardly", "nervous"] }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(6, rng)) {
+          const data = pick(characterData, rng);
+          q.push(createMCQ("literary_g6", "character_traits_g6",
+            `What character trait does this show? "${data.description}"`, data.trait, data.wrong));
+        } else {
+          const data = pick(characterData, rng);
+          q.push(createTyping("literary_g6", "character_traits_g6",
+            `Identify the trait: "${data.description}"`, data.trait));
         }
       }
       return q;
@@ -2028,6 +2160,30 @@ export const G8_Generators = {
         }
       }
       return q;
+    },
+    nuances_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const nuanceData = [
+        { sentence: "'Slender' vs 'scrawny' - She has a ___ figure (positive connotation).", answer: "slender", wrong: ["scrawny"] },
+        { sentence: "'Modest' vs 'humble' - He was ___ about his achievements (slightly different meaning).", answer: "modest", wrong: ["humble"] },
+        { sentence: "'Inquisitive' vs 'nosy' - The child was ___ about nature (positive connotation).", answer: "inquisitive", wrong: ["nosy"] },
+        { sentence: "'Thrifty' vs 'stingy' - She is ___ with her money (positive connotation).", answer: "thrifty", wrong: ["stingy"] },
+        { sentence: "'Determined' vs 'stubborn' - He remained ___ despite obstacles (positive).", answer: "determined", wrong: ["stubborn"] }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(nuanceData, rng);
+          const wrongOptions = [...data.wrong, "neutral", "irrelevant"].slice(0, 3);
+          q.push(createMCQ("vocab_g8", "nuances_g8",
+            `Which word fits best? ${data.sentence}`, data.answer, wrongOptions));
+        } else {
+          const data = pick(nuanceData, rng);
+          q.push(createTyping("vocab_g8", "nuances_g8",
+            `Complete: ${data.sentence}`, data.answer));
+        }
+      }
+      return q;
     }
   },
   grammar_g8: {
@@ -2066,6 +2222,77 @@ export const G8_Generators = {
           const sent = isActive ? voice.active : voice.passive;
           const type = isActive ? "active" : "passive";
           q.push(createTyping("grammar_g8", "active_passive_g8", `Is this active or passive? "${sent}"`, type));
+        }
+      }
+      return q;
+    },
+    absolute_phrases_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const phraseData = [
+        { sentence: "The storm having passed, we ventured outside.", meaning: "With the storm passed, we went out" },
+        { sentence: "All things considered, she made a wise choice.", meaning: "When we think about everything, the choice was wise" },
+        { sentence: "The work complete, they celebrated.", meaning: "After the work was done, they celebrated" },
+        { sentence: "Weather permitting, we'll have a picnic tomorrow.", meaning: "If the weather allows, we'll have a picnic" },
+        { sentence: "His patience exhausted, he finally spoke up.", meaning: "After losing patience, he finally spoke" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(phraseData, rng);
+          const wrong = ["participial phrase", "appositional phrase", "prepositional phrase"].slice(0, 3);
+          q.push(createMCQ("grammar_g8", "absolute_phrases_g8",
+            `Identify the absolute phrase: "${data.sentence}"`, "absolute phrase", wrong));
+        } else {
+          const data = pick(phraseData, rng);
+          q.push(createTyping("grammar_g8", "absolute_phrases_g8",
+            `What does the absolute phrase mean in: "${data.sentence}"?`, data.meaning));
+        }
+      }
+      return q;
+    },
+    appositives_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { correct: "My friend Sarah, the soccer player, won the championship.", noun: "Sarah", appositive: "the soccer player" },
+        { correct: "The novel 'Pride and Prejudice,' a classic romance, was published in 1813.", noun: "Pride and Prejudice", appositive: "a classic romance" },
+        { correct: "Dr. Martinez, our history teacher, assigned a research project.", noun: "Dr. Martinez", appositive: "our history teacher" },
+        { correct: "Paris, the capital of France, is famous for its art.", noun: "Paris", appositive: "the capital of France" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(sentenceData, rng);
+          const wrong = data.correct.split(",").filter(p => p.trim() !== data.appositive.trim()).slice(0, 3);
+          q.push(createMCQ("grammar_g8", "appositives_g8",
+            `Which appositive correctly renames the noun in: "${data.correct}"?`, data.appositive, wrong));
+        } else {
+          const data = pick(sentenceData, rng);
+          q.push(createTyping("grammar_g8", "appositives_g8",
+            `What is the appositive phrase in: "${data.correct}"?`, data.appositive));
+        }
+      }
+      return q;
+    },
+    clausal_complements_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const clauseData = [
+        { sentence: "The teacher explained what the assignment required.", complement: "what the assignment required", type: "noun clause" },
+        { sentence: "She hoped that he would arrive on time.", complement: "that he would arrive on time", type: "noun clause" },
+        { sentence: "We discovered where the lost key was hiding.", complement: "where the lost key was hiding", type: "noun clause" },
+        { sentence: "His comment that rain was coming proved accurate.", complement: "that rain was coming", type: "appositive clause" },
+        { sentence: "The fact that she succeeded shows her determination.", complement: "that she succeeded", type: "appositive clause" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(clauseData, rng);
+          const wrong = ["prepositional phrase", "participial phrase", "absolute phrase"].slice(0, 3);
+          q.push(createMCQ("grammar_g8", "clausal_complements_g8",
+            `In "${data.sentence}", the complement clause is:`, data.complement, wrong));
+        } else {
+          const data = pick(clauseData, rng);
+          q.push(createTyping("grammar_g8", "clausal_complements_g8",
+            `Identify the clause in: "${data.sentence}"`, data.complement));
         }
       }
       return q;
@@ -2110,6 +2337,30 @@ export const G8_Generators = {
           const data = pick(literaryData, rng);
           q.push(createTyping("literature_g8", "allusion_irony_g8",
             `Identify: "${data.text}"`, data.type));
+        }
+      }
+      return q;
+    },
+    assonance_consonance_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const soundData = [
+        { text: "The light of the kite", device: "assonance", vowel: "long i sound" },
+        { text: "She sells seashells by the seashore", device: "sibilance", sound: "s consonant" },
+        { text: "The wind whistled through the willows", device: "consonance", consonant: "w consonant" },
+        { text: "Fleet feet sweep by sleeping soldiers", device: "consonance", consonant: "f and s sounds" },
+        { text: "The sad, sweet scent of summer", device: "assonance", vowel: "short e sound" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(soundData, rng);
+          const wrong = ["alliteration", "onomatopoeia", "rhyme"].slice(0, 3);
+          q.push(createMCQ("literature_g8", "assonance_consonance_g8",
+            `What sound device is used in: "${data.text}"?`, data.device, wrong));
+        } else {
+          const data = pick(soundData, rng);
+          q.push(createTyping("literature_g8", "assonance_consonance_g8",
+            `Identify the sound device: "${data.text}"`, data.device));
         }
       }
       return q;
