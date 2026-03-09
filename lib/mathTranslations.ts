@@ -149,6 +149,13 @@ const topicNames: Record<Lang, Record<string, string>> = {
     perimeterBasic: "egyszerű kerület",
     stellenwert2: "tízes és egyes",
     zahlzerlegung2: "számfelbontás 100-ig",
+    compare100: "összehasonlítás 100-ig",
+    countObjects: "tárgyak számlálása",
+    mulVisual: "szemléletes szorzás",
+    patternContinue: "minta folytatás",
+    chartReading: "ábra olvasás",
+    numberLine2: "számegyenes 100-ig",
+    composeNumber: "szám összerakása",
   },
   DE: {
     addition: "Addition",
@@ -267,6 +274,13 @@ const topicNames: Record<Lang, Record<string, string>> = {
     perimeterBasic: "Einfacher Umfang",
     stellenwert2: "Zehner und Einer",
     zahlzerlegung2: "Zahlenzerlegung bis 100",
+    compare100: "Vergleichen bis 100",
+    countObjects: "Gegenstände zählen",
+    mulVisual: "Anschauliches Multiplizieren",
+    patternContinue: "Muster fortsetzen",
+    chartReading: "Diagramm lesen",
+    numberLine2: "Zahlenstrahl bis 100",
+    composeNumber: "Zahl zusammensetzen",
   },
   EN: {
     addition: "addition",
@@ -385,6 +399,13 @@ const topicNames: Record<Lang, Record<string, string>> = {
     perimeterBasic: "simple perimeter",
     stellenwert2: "tens and ones",
     zahlzerlegung2: "number decomposition to 100",
+    compare100: "comparison to 100",
+    countObjects: "counting objects",
+    mulVisual: "visual multiplication",
+    patternContinue: "pattern continuation",
+    chartReading: "reading charts",
+    numberLine2: "number line to 100",
+    composeNumber: "compose a number",
   },
   RO: {
     addition: "adunare",
@@ -503,6 +524,13 @@ const topicNames: Record<Lang, Record<string, string>> = {
     perimeterBasic: "perimetru simplu",
     stellenwert2: "zeci și unități",
     zahlzerlegung2: "descompunere până la 100",
+    compare100: "comparare până la 100",
+    countObjects: "numărarea obiectelor",
+    mulVisual: "înmulțire vizuală",
+    patternContinue: "continuarea tiparului",
+    chartReading: "citirea graficelor",
+    numberLine2: "dreapta numerelor până la 100",
+    composeNumber: "compunerea unui număr",
   },
 };
 
@@ -2570,5 +2598,114 @@ export function getShapeNamesG2(countryCode: string): { square: string; rectangl
     case "EN": return { square: "square", rectangle: "rectangle", triangle: "triangle", circle: "circle" };
     case "RO": return { square: "pătrat", rectangle: "dreptunghi", triangle: "triunghi", circle: "cerc" };
     default:   return { square: "négyzet", rectangle: "téglalap", triangle: "háromszög", circle: "kör" };
+  }
+}
+
+// ─── G2 NEW QUESTION HELPERS ─────────────────────────────
+
+// Comparison with sign: "46 ☐ 64" → fill in <, >, or =
+export function qFillInSign(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${a} ☐ ${b}  (< , > oder =)`;
+    case "EN": return `${a} ☐ ${b}  (< , > or =)`;
+    case "RO": return `${a} ☐ ${b}  (< , > sau =)`;
+    default:   return `${a} ☐ ${b}  (< , > vagy =)`;
+  }
+}
+
+// Compose number from tens + ones: "3 tízes + 4 egyes = ?"
+export function qComposeFromParts(tens: number, ones: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${tens} Zehner + ${ones} Einer = ?`;
+    case "EN": return `${tens} tens + ${ones} ones = ?`;
+    case "RO": return `${tens} zeci + ${ones} unități = ?`;
+    default:   return `${tens} tízes + ${ones} egyes = ?`;
+  }
+}
+
+// Visual emoji counting addition: "🍎🍎🍎 + 🍎🍎 = ?"
+export function qCountAdd(a: number, emoji: string, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const groupA = emoji.repeat(a);
+  const groupB = emoji.repeat(b);
+  switch (lang) {
+    case "DE": return `${groupA} + ${groupB} = ?`;
+    case "EN": return `${groupA} + ${groupB} = ?`;
+    case "RO": return `${groupA} + ${groupB} = ?`;
+    default:   return `${groupA} + ${groupB} = ?`;
+  }
+}
+
+// Visual emoji counting subtraction: "🍪🍪🍪🍪🍪, 2 eltűnik → mennyi marad?"
+export function qCountSub(total: number, emoji: string, removed: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const allItems = emoji.repeat(total);
+  switch (lang) {
+    case "DE": return `${allItems}  ${removed} verschwinden → wie viele bleiben?`;
+    case "EN": return `${allItems}  ${removed} disappear → how many are left?`;
+    case "RO": return `${allItems}  ${removed} dispar → câte rămân?`;
+    default:   return `${allItems}  ${removed} eltűnik → mennyi marad?`;
+  }
+}
+
+// Visual multiplication: rows of emoji "🍎🍎 / 🍎🍎 / 🍎🍎 = ? × ?"
+export function qMulRows(rows: number, each: number, emoji: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const rowStr = emoji.repeat(each);
+  const grid = Array(rows).fill(rowStr).join("  ");
+  switch (lang) {
+    case "DE": return `${grid}   ${rows} × ${each} = ?`;
+    case "EN": return `${grid}   ${rows} × ${each} = ?`;
+    case "RO": return `${grid}   ${rows} × ${each} = ?`;
+    default:   return `${grid}   ${rows} × ${each} = ?`;
+  }
+}
+
+// Shape/color pattern next element: "🟦🟩🟦🟩🟦 ?"
+export function qPatternNext(sequence: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${sequence} ?  Was kommt als nächstes?`;
+    case "EN": return `${sequence} ?  What comes next?`;
+    case "RO": return `${sequence} ?  Ce urmează?`;
+    default:   return `${sequence} ?  Mi jön ezután?`;
+  }
+}
+
+// Shape pattern question (SVG visual — no sequence text needed)
+export function qShapePatternQuestion(countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return "Was kommt als nächstes? (Muster fortsetzen)";
+    case "EN": return "What comes next? (Continue the pattern)";
+    case "RO": return "Ce urmează? (Continuă modelul)";
+    default:   return "Mi jön ezután? (Folytasd a mintát)";
+  }
+}
+
+// Chart reading: which fruit appears more?
+export function qChartMore(nameA: string, countA: number, nameB: string, countB: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const barA = "█".repeat(countA);
+  const barB = "█".repeat(countB);
+  switch (lang) {
+    case "DE": return `${nameA}: ${barA} (${countA})  ${nameB}: ${barB} (${countB})  Wie viele ${nameA} gibt es?`;
+    case "EN": return `${nameA}: ${barA} (${countA})  ${nameB}: ${barB} (${countB})  How many ${nameA} are there?`;
+    case "RO": return `${nameA}: ${barA} (${countA})  ${nameB}: ${barB} (${countB})  Câte ${nameA} sunt?`;
+    default:   return `${nameA}: ${barA} (${countA})  ${nameB}: ${barB} (${countB})  Hány ${nameA} van?`;
+  }
+}
+
+// Word problem: visual sharing of items
+export function wpVisualShare(total: number, emoji: string, kids: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const items = emoji.repeat(Math.min(total, 12));
+  switch (lang) {
+    case "DE": return `${items}  ${total} Stück werden gleichmäßig auf ${kids} Kinder verteilt. Wie viele bekommt jedes Kind?`;
+    case "EN": return `${items}  ${total} items shared equally among ${kids} children. How many does each child get?`;
+    case "RO": return `${items}  ${total} obiecte împărțite egal între ${kids} copii. Câte primește fiecare?`;
+    default:   return `${items}  ${total} darabot ${kids} gyerek közt osztanak el egyenlően. Mindenki hányat kap?`;
   }
 }

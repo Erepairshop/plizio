@@ -3,6 +3,7 @@
 // Generates questions based on grade + current period + country
 // No duplicate questions in a single test
 
+import type { VisualData } from "./mathQuestionUtils";
 import {
   t, getTranslatedPeriodLabel, getNames, getItems, getCurrency,
   qCompare, wpHasFruit, wpLostItems, wpColoredItems, wpAte, wpBus,
@@ -54,6 +55,7 @@ import {
   qHowManyZehner, qHowManyEiner, qZahlzerlegungA, qZahlzerlegungB,
   qMulAsAddition, wpGroupsOf, qDivMulRelation,
   qHowManyCentInEuro, qEuroToCent, qKgToG, wpSchoolDay, getShapeNamesG2,
+  qFillInSign, qComposeFromParts, qCountAdd, qCountSub, qMulRows, qPatternNext, qShapePatternQuestion, qChartMore, wpVisualShare,
   getLang,
 } from "./mathTranslations";
 
@@ -66,6 +68,7 @@ export interface MathQuestion {
   section?: string;      // Klassenarbeit szekció (Kopfrechnen, Schriftlich, Sachaufgaben, Geometrie, Bonus)
   maxPoints?: number;    // Max pont az adott kérdésre
   hasStringOptions?: boolean; // true if options contain symbols like <, >, =
+  visualData?: VisualData;   // G2 visual SVG data
 }
 
 // ─── REALISTIC KLASSENARBEIT FORMAT (Grouped Tasks) ─────────────────────────────
@@ -179,6 +182,15 @@ function q(question: string, correctAnswer: number, topic: string, minOpt = 0, i
 
 function qs(question: string, correctAnswer: string, topic: string, isWordProblem = false): MathQuestion {
   return { question, correctAnswer, options: [], topic, isWordProblem };
+}
+
+function qstr(question: string, correctAnswer: string, topic: string, options: string[], isWordProblem = false, visualData?: VisualData): MathQuestion {
+  return { question, correctAnswer, options, topic, isWordProblem, hasStringOptions: true, ...(visualData ? { visualData } : {}) };
+}
+
+function qvis(question: string, correctAnswer: number, topic: string, visual: VisualData): MathQuestion {
+  const opts = generateOptions(correctAnswer, 0);
+  return { question, correctAnswer, options: opts, topic, isWordProblem: false, visualData: visual };
 }
 
 function pick<T>(arr: T[]): T {
@@ -509,7 +521,7 @@ const G2: Record<string, Generator> = {
   },
   word3: (cc) => {
     const items = getItems(cc);
-    const a = randInt(2, 5), b = 5;
+    const a = randInt(2, 5), b = pick([2, 5, 10]);
     return q(wpEachGets(a, b, pick(items.sweets), cc), a * b, t("wordProblem", cc), 0, true);
   },
   word4: (cc) => {
@@ -613,10 +625,8 @@ const G2: Record<string, Generator> = {
     return q(`${a} + ${b} = ?`, a + b, t("addCarry", cc));
   },
   add3nums: (cc) => {
-    const a = randInt(10, 35), b = randInt(5, 25), c = randInt(5, 20);
-    const sum = a + b + c;
-    if (sum > 100) return q(`${a} + ${b} + ${c} = ?`, a + b + c, t("add3nums", cc));
-    return q(`${a} + ${b} + ${c} = ?`, sum, t("add3nums", cc));
+    const a = randInt(5, 30), b = randInt(5, 25), c = randInt(2, 15);
+    return q(`${a} + ${b} + ${c} = ?`, a + b + c, t("add3nums", cc));
   },
   wordAddG2: (cc) => {
     const names = getNames(cc); const items = getItems(cc);
@@ -716,6 +726,194 @@ const G2: Record<string, Generator> = {
     () => { const a = randInt(2, 10); return q(qSquarePerimeter(a, cc), 4 * a, t("perimeterBasic", cc)); },
     () => { const a = randInt(3, 8), b = randInt(2, 6); return q(qRectPerimeter(a, b, cc), 2 * (a + b), t("perimeterBasic", cc)); },
   ])(),
+  // ── NEW G2: Number comparison with sign ──
+  compare100: (cc) => {
+    const a = randInt(10, 89), diff = randInt(1, 20);
+    const b = a + diff;
+    // Mostly <, >, occasionally = (same number both sides)
+    const useEqual = Math.random() < 0.15;
+    if (useEqual) {
+      const n = randInt(11, 99);
+      return qstr(qFillInSign(n, n, cc), "=", t("compare100", cc), ["<", ">", "="]);
+    }
+    return Math.random() > 0.5
+      ? qstr(qFillInSign(a, b, cc), "<", t("compare100", cc), ["<", ">", "="])
+      : qstr(qFillInSign(b, a, cc), ">", t("compare100", cc), ["<", ">", "="]);
+  },
+  // ── NEW G2: Compose number from tens + ones ──
+  composeNumber: (cc) => {
+    const tens = randInt(1, 9), ones = randInt(1, 9);
+    return q(qComposeFromParts(tens, ones, cc), tens * 10 + ones, t("composeNumber", cc));
+  },
+  // ── NEW G2: Visual emoji counting — addition (SVG) ──
+  countAdd: (cc) => {
+    const emoji = "●";
+    const a = randInt(2, 6), b = randInt(1, 5);
+    return qvis(qCountAdd(a, emoji, b, cc), a + b, t("countObjects", cc),
+      { type: "object-add", emoji, groupA: a, groupB: b });
+  },
+  // ── NEW G2: Visual emoji counting — subtraction (SVG) ──
+  countSub: (cc) => {
+    const emoji = "●";
+    const total = randInt(5, 12), removed = randInt(2, Math.min(5, total - 1));
+    return qvis(qCountSub(total, emoji, removed, cc), total - removed, t("countObjects", cc),
+      { type: "object-sub", emoji, total, removed });
+  },
+  // ── NEW G2: Visual multiplication (rows × columns, SVG) ──
+  mulVisual: (cc) => {
+    const emoji = "●";
+    const rows = randInt(2, 5), each = pick([2, 3, 4, 5]);
+    return qvis(qMulRows(rows, each, emoji, cc), rows * each, t("mulVisual", cc),
+      { type: "object-array", emoji, rows, cols: each });
+  },
+  // ── NEW G2: Visual division (equal sharing, SVG) ──
+  divVisual: (cc) => {
+    const emoji = "●";
+    const divisor = pick([2, 3, 4, 5]), result = randInt(2, 5);
+    const total = divisor * result;
+    return qvis(wpVisualShare(total, emoji, divisor, cc), result, t("divShare", cc),
+      { type: "object-share", emoji, total, groups: divisor });
+  },
+  // ── NEW G2: Shape/color pattern continuation (SVG) ──
+  patternG2: (cc) => {
+    type PatternEntry = { shapes: string[]; next: string; wrong1: string; wrong2: string };
+    const patterns: PatternEntry[] = [
+      { shapes: ["sq-blue","cir-green","sq-blue","cir-green","sq-blue"], next: "cir-green", wrong1: "sq-green", wrong2: "cir-blue" },
+      { shapes: ["cir-red","cir-blue","cir-red","cir-blue","cir-red"], next: "cir-blue", wrong1: "cir-red", wrong2: "sq-blue" },
+      { shapes: ["sq-yellow","sq-red","sq-yellow","sq-red","sq-yellow"], next: "sq-red", wrong1: "sq-yellow", wrong2: "cir-red" },
+      { shapes: ["tri-blue","tri-green","tri-blue","tri-green","tri-blue"], next: "tri-green", wrong1: "tri-blue", wrong2: "cir-green" },
+      { shapes: ["cir-purple","sq-blue","cir-purple","sq-blue","cir-purple"], next: "sq-blue", wrong1: "cir-blue", wrong2: "sq-purple" },
+      { shapes: ["sq-blue","sq-blue","cir-green","sq-blue","sq-blue","cir-green","sq-blue","sq-blue"], next: "cir-green", wrong1: "sq-blue", wrong2: "tri-green" },
+      { shapes: ["tri-red","sq-yellow","tri-red","sq-yellow","tri-red"], next: "sq-yellow", wrong1: "tri-yellow", wrong2: "sq-red" },
+      { shapes: ["cir-blue","tri-blue","cir-blue","tri-blue","cir-blue"], next: "tri-blue", wrong1: "cir-blue", wrong2: "sq-blue" },
+    ];
+    const p = pick(patterns);
+    return qstr(qShapePatternQuestion(cc), p.next, t("patternContinue", cc), [p.next, p.wrong1, p.wrong2],
+      false, { type: "shape-pattern", shapes: [...p.shapes, "?"] });
+  },
+  // ── NEW G2: Number line (Zahlenstrahl) with larger steps ──
+  numberLineG2: (cc) => {
+    const step = pick([5, 10, 20]);
+    const maxStart = Math.floor((100 - 4 * step) / step) * step;
+    const start = randInt(0, Math.max(0, maxStart / step)) * step;
+    const count = 4;
+    const seq = Array.from({ length: count }, (_, i) => start + i * step);
+    return q(qNextInSequence(seq.join(" → "), cc), start + count * step, t("numberLine2", cc));
+  },
+  // ── NEW G2: Simple bar chart reading ──
+  chartG2: (cc) => {
+    const items = getItems(cc);
+    const fruits = items.fruits;
+    const nameA = pick(fruits), nameB = pick(fruits.filter(f => f !== nameA) as string[]);
+    const countA = randInt(4, 9), countB = randInt(1, countA - 1);
+    return q(qChartMore(nameA, countA, nameB, countB, cc), countA, t("chartReading", cc));
+  },
+  // ── NEW G2: Missing addend (fill-in-the-blank addition) ──
+  missingAddend: (cc) => {
+    const a = pick([10, 20, 30, 40, 50]);
+    const b = randInt(5, 30);
+    return q(qMissingInEquation(`${a} + ? = ${a + b}`, cc), b, t("missingNumber", cc));
+  },
+  // ── NEW G2: Number line — find the missing number in the middle ──
+  numberLinePlace: (cc) => {
+    const step = pick([2, 5, 10]);
+    const start = randInt(0, 5) * step;
+    const hiddenPos = pick([1, 2, 3]); // hide a middle position (not first/last)
+    const values = [0, 1, 2, 3, 4].map(i => start + i * step);
+    const seq = values.map((v, i) => (i === hiddenPos ? "?" : `${v}`));
+    const answer = values[hiddenPos];
+    return q(qMissingInEquation(seq.join(" – "), cc), answer, t("numberLine2", cc));
+  },
+  // ── G2: Halving (Halbieren) ──
+  halving: (cc) => {
+    const n = randInt(1, 25) * 2; // even numbers 2–50
+    return q(qHalbieren(n, cc), n / 2, t("g1Halbieren", cc));
+  },
+  // ── G2: Doubling (Verdoppeln) ──
+  doubling: (cc) => {
+    const n = randInt(2, 49);
+    return q(qVerdoppeln(n, cc), n * 2, t("g1Verdoppeln", cc));
+  },
+  // ── G2: Missing subtrahend (a − ? = b) ──
+  missingSubtrahend: (cc) => {
+    const b = randInt(5, 40), diff = randInt(5, 35);
+    const a = b + diff;
+    return q(qMissingInEquation(`${a} − ? = ${b}`, cc), diff, t("missingNumber", cc));
+  },
+  // ── G2: Times tables ×3 and ×4 ──
+  mulTable34: (cc) => {
+    const m = pick([3, 4]), b = randInt(1, 10);
+    return pick([
+      () => q(`${m} × ${b} = ?`, m * b, t("multiplication", cc)),
+      () => q(`${b} × ${m} = ?`, m * b, t("multiplication", cc)),
+    ])();
+  },
+  // ── G2: Missing multiplication factor (? × m = product) ──
+  missingMulFactor: (cc) => {
+    const m = pick([2, 5, 10]), result = randInt(1, 10);
+    const product = m * result;
+    return pick([
+      () => q(qMissingInEquation(`? × ${m} = ${product}`, cc), result, t("missingNumber", cc)),
+      () => q(qMissingInEquation(`${m} × ? = ${product}`, cc), result, t("missingNumber", cc)),
+    ])();
+  },
+  // ── G2: Order numbers smallest to largest (up to 99) ──
+  numberOrderG2: (cc) => {
+    const nums = [randInt(10, 90), randInt(10, 90), randInt(10, 90)];
+    while (nums[0] === nums[1]) nums[1] = randInt(10, 90);
+    while (nums[2] === nums[0] || nums[2] === nums[1]) nums[2] = randInt(10, 90);
+    const sorted = [...nums].sort((a, b) => a - b);
+    return qs(qG1NumberOrder(nums, cc), sorted.join(","), t("g1NumberOrder", cc));
+  },
+  // ── G2: Length in cm (addition context) ──
+  lengthMeasure: (cc) => {
+    const lang = getLang(cc);
+    const a = randInt(5, 40), b = randInt(5, 30);
+    const item1 = lang === "DE" ? "Bleistift" : lang === "HU" ? "ceruza" : lang === "RO" ? "creion" : "pencil";
+    const item2 = lang === "DE" ? "Lineal" : lang === "HU" ? "vonalzó" : lang === "RO" ? "riglă" : "ruler";
+    const question = lang === "DE"
+      ? `Ein ${item1} ist ${a} cm lang, ein ${item2} ist ${b} cm. Wie lang sind beide zusammen?`
+      : lang === "HU"
+      ? `Egy ${item1} ${a} cm, egy ${item2} ${b} cm. Mennyi a kettő együtt?`
+      : lang === "RO"
+      ? `Un ${item1} are ${a} cm, o ${item2} are ${b} cm. Cât fac împreună?`
+      : `A ${item1} is ${a} cm long, a ${item2} is ${b} cm. How long are they together?`;
+    return q(question, a + b, t("units", cc), 0, true);
+  },
+  // ── G2: Place value — how many tens and ones ──
+  placeValueG2: (cc) => pick([
+    () => { const n = randInt(11, 99); return q(qHowManyZehner(n, cc), Math.floor(n / 10), t("stellenwert2", cc)); },
+    () => { const n = randInt(11, 99); return q(qHowManyEiner(n, cc), n % 10, t("stellenwert2", cc)); },
+    () => { const tens = randInt(1,9), ones = randInt(1,9); const n = tens*10+ones; return q(qZahlzerlegungA(n, tens*10, ones, cc), ones, t("zahlzerlegung2", cc)); },
+    () => { const tens = randInt(1,9), ones = randInt(1,9); const n = tens*10+ones; return q(qZahlzerlegungB(n, tens*10, ones, cc), tens*10, t("zahlzerlegung2", cc)); },
+  ])(),
+  // ── G2: Neighbor numbers (predecessor + successor) ──
+  neighborG2: (cc) => {
+    const n = randInt(10, 89);
+    return pick([
+      () => q(qVorgaenger(n, cc), n - 1, t("neighborNumber", cc)),
+      () => q(qNachfolger(n, cc), n + 1, t("neighborNumber", cc)),
+    ])();
+  },
+  // ── G2: Money — change calculation ──
+  moneyChangeG2: (cc) => {
+    const items = getItems(cc); const cur = getCurrency(cc);
+    const price = pick([10, 15, 20, 25, 30, 35, 40, 45]);
+    const paid = price <= 45 ? 50 : 100;
+    return q(qChangeBack(pick(items.sweets), price, paid, cur, cc), paid - price, t("wordProblem", cc), 0, true);
+  },
+  // ── G2: Simple clock reading — digital → what time is it ──
+  clockSimpleG2: (cc) => {
+    if (cc === "US") {
+      const h = randInt(7, 11), addH = randInt(1, 4);
+      return q(qAmPmAddHours(h, addH, true, cc), h + addH <= 12 ? h + addH : h + addH - 12, t("ampmTime", cc), 0, true);
+    }
+    return pick([
+      () => { const h = randInt(1, 12); return q(qClockFullHour(h, cc), h, t("clockReading", cc)); },
+      () => { const h = randInt(1, 11); return q(qClockHalfPast(h, cc), 30, t("clockReading", cc)); },
+      () => { const h = randInt(1, 11); return q(qClockQuarterPast(h, cc), 15, t("clockReading", cc)); },
+    ])();
+  },
 };
 
 // ─── GRADE 3 GENERATORS ─────────────────────────────
@@ -1424,11 +1622,11 @@ const GRADES_1_4: Record<number, Record<number, PeriodTopics>> = {
     5: { current: [G1.add20, G1.add20b, G1.sub20, G1.sub20b, G1.word1, G1.word2, G1.word3, G1.word4, G1.word5, G1.word6, G1.word7, G1.word8, G1.word9, G1.word10, G1.compare, G1.missing10, G1.missing10sub, G1.clockQuarter, G1.evenOdd, G1.timeline, G1.fraction, G1.coins], review: [G1.add10, G1.sub10] },
   },
   2: {
-    1: { current: [G2.add100tens, G2.sub100tens, G2.add100, G2.missing100, G2.evenOdd], review: [G1.add20, G1.sub20] },
-    2: { current: [G2.add100tens, G2.sub100tens, G2.add100, G2.add100b, G2.sequence, G2.evenOdd], review: [G1.add20, G1.sub20] },
-    3: { current: [G2.add100, G2.add100b, G2.sub100, G2.sub100b, G2.units, G2.rounding10], review: [G2.add100tens, G2.sub100tens] },
-    4: { current: [G2.mul2510, G2.mul2510b, G2.add100, G2.sub100, G2.clock2, G2.rounding10], review: [G2.add100tens, G2.sequence] },
-    5: { current: [G2.mul2510, G2.mul2510b, G2.div2510, G2.word1, G2.word2, G2.word3, G2.word4, G2.units, G2.clock2, G2.sequence, G2.rounding10], review: [G2.add100, G2.sub100] },
+    1: { current: [G2.add100tens, G2.sub100tens, G2.add100, G2.missing100, G2.evenOdd, G2.compare100, G2.composeNumber, G2.numberLineG2, G2.countAdd, G2.placeValueG2, G2.neighborG2, G2.halving, G2.doubling, G2.vorgaenger2, G2.nachfolger2], review: [G1.add20, G1.sub20] },
+    2: { current: [G2.add100tens, G2.sub100tens, G2.add100, G2.add100b, G2.addOhne, G2.subOhne, G2.sequence, G2.evenOdd, G2.compare100, G2.composeNumber, G2.countAdd, G2.countSub, G2.halving, G2.doubling, G2.missingSubtrahend, G2.numberOrderG2, G2.numberLinePlace, G2.zahlzerlegung2, G2.nachbarzahlen], review: [G1.add20, G1.sub20] },
+    3: { current: [G2.add100, G2.add100b, G2.sub100, G2.sub100b, G2.addOhne, G2.addMit, G2.subOhne, G2.subMit, G2.add3nums, G2.units, G2.rounding10, G2.countAdd, G2.countSub, G2.missingAddend, G2.missingSubtrahend, G2.chartG2, G2.halving, G2.doubling, G2.lengthMeasure, G2.wordAddG2, G2.wordSubG2, G2.numberOrderG2], review: [G2.add100tens, G2.sub100tens] },
+    4: { current: [G2.mul2510, G2.mul2510b, G2.mulTable34, G2.mulRepeated, G2.mulGroup, G2.add100, G2.sub100, G2.clock2, G2.clockSimpleG2, G2.rounding10, G2.mulVisual, G2.divVisual, G2.divShare, G2.divMulRel, G2.patternG2, G2.missingMulFactor, G2.shapeBasic, G2.weightGKg], review: [G2.add100tens, G2.sequence] },
+    5: { current: [G2.mul2510, G2.mul2510b, G2.div2510, G2.mulTable34, G2.missingMulFactor, G2.word1, G2.word2, G2.word3, G2.word4, G2.wordAddG2, G2.wordSubG2, G2.wordMulG2, G2.wordDivG2, G2.wordMoneyG2, G2.wordTimeG2, G2.moneyChangeG2, G2.units, G2.ampmClock, G2.clock2, G2.sequence, G2.rounding10, G2.mulVisual, G2.divVisual, G2.patternG2, G2.chartG2, G2.compare100, G2.halving, G2.doubling, G2.perimeterSimple, G2.shapeBasic, G2.moneyEuroCent, G2.weightGKg, G2.lengthMeasure], review: [G2.add100, G2.sub100] },
   },
   3: {
     1: { current: [G3.add1000, G3.add1000b, G3.sub1000, G3.rounding100], review: [G2.add100, G2.sub100, G2.mul2510] },
@@ -1649,41 +1847,48 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
   ],
   2: [
     { key: 'g2_numbers', name: 'Numbers & Number System', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'g2_zahlen100',    name: 'Numbers to 100',                    color: '#60A5FA', icon: '💯', generators: [G2.vorgaenger2, G2.nachfolger2, G2.add100tens] },
-      { key: 'g2_compare',     name: 'Read · Write · Compare · Order',    color: '#93C5FD', icon: '⚖️', generators: [G2.nachbarzahlen, G2.stellenwert2] },
+      { key: 'g2_zahlen100',    name: 'Numbers to 100',                    color: '#60A5FA', icon: '💯', generators: [G2.vorgaenger2, G2.nachfolger2, G2.add100tens, G2.compare100, G2.composeNumber] },
+      { key: 'g2_compare',     name: 'Read · Write · Compare · Order',    color: '#93C5FD', icon: '⚖️', generators: [G2.nachbarzahlen, G2.stellenwert2, G2.compare100] },
       { key: 'g2_vorgaenger',  name: 'Predecessor / Successor',           color: '#BFDBFE', icon: '◀▶', generators: [G2.vorgaenger2, G2.nachfolger2] },
       { key: 'g2_nachbarn',    name: 'Neighbour Numbers',                 color: '#BFDBFE', icon: '🔢', generators: [G2.nachbarzahlen] },
-      { key: 'g2_stellenwert', name: 'Tens and Ones',                     color: '#93C5FD', icon: '📊', generators: [G2.stellenwert2] },
-      { key: 'g2_zerlegung',   name: 'Number Decomposition',              color: '#BFDBFE', icon: '🧩', generators: [G2.zahlzerlegung2] },
-      { key: 'g2_zahlstr',     name: 'Number Line',                       color: '#BFDBFE', icon: '📏', generators: [G2.sequence, G2.missing100] },
+      { key: 'g2_stellenwert', name: 'Tens and Ones',                     color: '#93C5FD', icon: '📊', generators: [G2.stellenwert2, G2.composeNumber] },
+      { key: 'g2_zerlegung',   name: 'Number Decomposition',              color: '#BFDBFE', icon: '🧩', generators: [G2.zahlzerlegung2, G2.composeNumber] },
+      { key: 'g2_zahlstr',     name: 'Number Line',                       color: '#BFDBFE', icon: '📏', generators: [G2.sequence, G2.missing100, G2.numberLineG2] },
+      { key: 'g2_compare_sign', name: 'Comparison with Signs (< > =)',    color: '#93C5FD', icon: '⚖️', generators: [G2.compare100] },
     ]},
     { key: 'g2_addition', name: 'Addition', color: '#10B981', icon: '➕', topics: [
       { key: 'g2_add_kopf',  name: 'Mental Addition',               color: '#34D399', icon: '🧠', generators: [G2.add100tens, G2.addOhne] },
       { key: 'g2_add_ohne',  name: 'Addition without Carrying',     color: '#6EE7B7', icon: '➕', generators: [G2.addOhne] },
       { key: 'g2_add_mit',   name: 'Addition with Carrying',        color: '#6EE7B7', icon: '➕', generators: [G2.addMit] },
       { key: 'g2_add3',      name: 'Adding Three Numbers',          color: '#A7F3D0', icon: '➕', generators: [G2.add3nums] },
+      { key: 'g2_add_visual', name: 'Visual Addition (counting objects)', color: '#BBF7D0', icon: '🍎', generators: [G2.countAdd] },
       { key: 'g2_add_word',  name: 'Word Problems',                 color: '#D1FAE5', icon: '📖', generators: [G2.wordAddG2, G2.word1] },
+      { key: 'g2_missing_add', name: 'Missing Addend',              color: '#6EE7B7', icon: '❓', generators: [G2.missingAddend, G2.missing100] },
     ]},
     { key: 'g2_subtraction', name: 'Subtraction', color: '#EF4444', icon: '➖', topics: [
       { key: 'g2_sub_kopf',  name: 'Mental Subtraction',              color: '#FCA5A5', icon: '🧠', generators: [G2.sub100tens, G2.subOhne] },
       { key: 'g2_sub_ohne',  name: 'Subtraction without Borrowing',   color: '#FCA5A5', icon: '➖', generators: [G2.subOhne] },
       { key: 'g2_sub_mit',   name: 'Subtraction with Borrowing',      color: '#F87171', icon: '➖', generators: [G2.subMit] },
+      { key: 'g2_sub_visual', name: 'Visual Subtraction (counting objects)', color: '#FECACA', icon: '🍪', generators: [G2.countSub] },
       { key: 'g2_sub_word',  name: 'Word Problems',                   color: '#FEE2E2', icon: '📖', generators: [G2.wordSubG2, G2.word2] },
     ]},
     { key: 'g2_mul', name: 'Multiplication (basics)', color: '#F59E0B', icon: '✖️', topics: [
       { key: 'g2_mul_rep',    name: 'Multiplication as Repeated Addition', color: '#FCD34D', icon: '🔄', generators: [G2.mulRepeated] },
       { key: 'g2_mul_simple', name: 'Times Tables ×2, ×5, ×10',            color: '#FDE68A', icon: '✖️', generators: [G2.mul2510, G2.mul2510b] },
+      { key: 'g2_mul_visual', name: 'Visual Multiplication (arrays)',       color: '#FEF3C7', icon: '🎯', generators: [G2.mulVisual, G2.mulGroup] },
       { key: 'g2_mul_group',  name: 'Counting Groups',                     color: '#FEF3C7', icon: '🎯', generators: [G2.mulGroup, G2.wordMulG2] },
     ]},
     { key: 'g2_div', name: 'Division (basics)', color: '#8B5CF6', icon: '➗', topics: [
-      { key: 'g2_div_share',  name: 'Equal Sharing',                        color: '#A78BFA', icon: '🍕', generators: [G2.divShare] },
+      { key: 'g2_div_share',  name: 'Equal Sharing',                        color: '#A78BFA', icon: '🍕', generators: [G2.divShare, G2.divVisual] },
+      { key: 'g2_div_visual', name: 'Visual Division (sharing)',             color: '#C4B5FD', icon: '🍬', generators: [G2.divVisual] },
       { key: 'g2_div_rel',    name: 'Multiplication–Division Relationship', color: '#C4B5FD', icon: '🔗', generators: [G2.divMulRel] },
       { key: 'g2_div_simple', name: 'Simple Division',                      color: '#DDD6FE', icon: '➗', generators: [G2.div2510, G2.wordDivG2] },
     ]},
     { key: 'g2_structure', name: 'Number Structure & Thinking', color: '#06B6D4', icon: '🧩', topics: [
-      { key: 'g2_seq',     name: 'Number Sequences',          color: '#22D3EE', icon: '🔢', generators: [G2.sequence] },
-      { key: 'g2_missing', name: 'Patterns · Missing Numbers', color: '#67E8F9', icon: '❓', generators: [G2.missing100, G2.evenOdd] },
-      { key: 'g2_round',   name: 'Calculation Strategies',    color: '#A5F3FC', icon: '🎯', generators: [G2.rounding10, G2.missing100] },
+      { key: 'g2_seq',     name: 'Number Sequences',            color: '#22D3EE', icon: '🔢', generators: [G2.sequence, G2.numberLineG2] },
+      { key: 'g2_pattern', name: 'Shape & Colour Patterns',     color: '#67E8F9', icon: '🟦', generators: [G2.patternG2] },
+      { key: 'g2_missing', name: 'Patterns · Missing Numbers',  color: '#67E8F9', icon: '❓', generators: [G2.missing100, G2.evenOdd, G2.missingAddend] },
+      { key: 'g2_round',   name: 'Calculation Strategies',      color: '#A5F3FC', icon: '🎯', generators: [G2.rounding10, G2.missing100] },
     ]},
     { key: 'g2_measure', name: 'Measurements', color: '#EC4899', icon: '📏', topics: [
       { key: 'g2_length',  name: 'Length (cm, m)',   color: '#F9A8D4', icon: '📏', generators: [G2.units] },
@@ -1698,9 +1903,9 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
     { key: 'g2_perimeter', name: 'Perimeter (basics)', color: '#F97316', icon: '📐', topics: [
       { key: 'g2_perim', name: 'Simple Perimeter', color: '#FB923C', icon: '📐', generators: [G2.perimeterSimple] },
     ]},
-    { key: 'g2_data', name: 'Data', color: '#A855F7', icon: '📊', topics: [
-      { key: 'g2_tables',   name: 'Tables',  color: '#C084FC', icon: '📊', generators: [G2.word1, G2.word4] },
-      { key: 'g2_diagrams', name: 'Charts',  color: '#D8B4FE', icon: '📈', generators: [G2.sequence, G2.evenOdd] },
+    { key: 'g2_data', name: 'Data & Charts', color: '#A855F7', icon: '📊', topics: [
+      { key: 'g2_tables',   name: 'Tables',   color: '#C084FC', icon: '📊', generators: [G2.word1, G2.word4] },
+      { key: 'g2_diagrams', name: 'Charts',   color: '#D8B4FE', icon: '📈', generators: [G2.chartG2] },
     ]},
     { key: 'g2_word', name: 'Word Problems', color: '#64748B', icon: '📖', topics: [
       { key: 'g2_word_add',   name: 'Addition Problems',        color: '#94A3B8', icon: '📖', generators: [G2.wordAddG2, G2.word1] },
@@ -1868,41 +2073,48 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
   ],
   2: [
     { key: 'g2_numbers', name: 'Zahlen und Zahlensystem', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'g2_zahlen100',    name: 'Zahlen bis 100',                              color: '#60A5FA', icon: '💯', generators: [G2.vorgaenger2, G2.nachfolger2, G2.add100tens] },
-      { key: 'g2_compare',     name: 'Zahlen lesen · schreiben · vergleichen · ordnen', color: '#93C5FD', icon: '⚖️', generators: [G2.nachbarzahlen, G2.stellenwert2] },
+      { key: 'g2_zahlen100',    name: 'Zahlen bis 100',                              color: '#60A5FA', icon: '💯', generators: [G2.vorgaenger2, G2.nachfolger2, G2.add100tens, G2.compare100, G2.composeNumber] },
+      { key: 'g2_compare',     name: 'Zahlen lesen · schreiben · vergleichen · ordnen', color: '#93C5FD', icon: '⚖️', generators: [G2.nachbarzahlen, G2.stellenwert2, G2.compare100] },
       { key: 'g2_vorgaenger',  name: 'Vorgänger / Nachfolger',                      color: '#BFDBFE', icon: '◀▶', generators: [G2.vorgaenger2, G2.nachfolger2] },
       { key: 'g2_nachbarn',    name: 'Nachbarzahlen',                               color: '#BFDBFE', icon: '🔢', generators: [G2.nachbarzahlen] },
-      { key: 'g2_stellenwert', name: 'Stellenwertsystem',                           color: '#93C5FD', icon: '📊', generators: [G2.stellenwert2] },
-      { key: 'g2_zerlegung',   name: 'Zahlzerlegung',                               color: '#BFDBFE', icon: '🧩', generators: [G2.zahlzerlegung2] },
-      { key: 'g2_zahlstr',     name: 'Zahlenstrahl',                                color: '#BFDBFE', icon: '📏', generators: [G2.sequence, G2.missing100] },
+      { key: 'g2_stellenwert', name: 'Stellenwertsystem',                           color: '#93C5FD', icon: '📊', generators: [G2.stellenwert2, G2.composeNumber] },
+      { key: 'g2_zerlegung',   name: 'Zahlzerlegung',                               color: '#BFDBFE', icon: '🧩', generators: [G2.zahlzerlegung2, G2.composeNumber] },
+      { key: 'g2_zahlstr',     name: 'Zahlenstrahl',                                color: '#BFDBFE', icon: '📏', generators: [G2.sequence, G2.missing100, G2.numberLineG2] },
+      { key: 'g2_compare_sign', name: 'Vergleichen mit Zeichen (< > =)',            color: '#93C5FD', icon: '⚖️', generators: [G2.compare100] },
     ]},
     { key: 'g2_addition', name: 'Addition', color: '#10B981', icon: '➕', topics: [
       { key: 'g2_add_kopf',  name: 'Kopfrechnen',                     color: '#34D399', icon: '🧠', generators: [G2.add100tens, G2.addOhne] },
       { key: 'g2_add_ohne',  name: 'Addition ohne Zehnerübergang',    color: '#6EE7B7', icon: '➕', generators: [G2.addOhne] },
       { key: 'g2_add_mit',   name: 'Addition mit Zehnerübergang',     color: '#6EE7B7', icon: '➕', generators: [G2.addMit] },
       { key: 'g2_add3',      name: 'Mehr Zahlen addieren',            color: '#A7F3D0', icon: '➕', generators: [G2.add3nums] },
+      { key: 'g2_add_visual', name: 'Anschauliche Addition (Objekte zählen)', color: '#BBF7D0', icon: '🍎', generators: [G2.countAdd] },
       { key: 'g2_add_word',  name: 'Sachaufgaben',                    color: '#D1FAE5', icon: '📖', generators: [G2.wordAddG2, G2.word1] },
+      { key: 'g2_missing_add', name: 'Ergänzen (Lücke füllen)',       color: '#6EE7B7', icon: '❓', generators: [G2.missingAddend, G2.missing100] },
     ]},
     { key: 'g2_subtraction', name: 'Subtraktion', color: '#EF4444', icon: '➖', topics: [
       { key: 'g2_sub_kopf',  name: 'Kopfrechnen',                          color: '#FCA5A5', icon: '🧠', generators: [G2.sub100tens, G2.subOhne] },
       { key: 'g2_sub_ohne',  name: 'Subtraktion ohne Zehnerübergang',      color: '#FCA5A5', icon: '➖', generators: [G2.subOhne] },
       { key: 'g2_sub_mit',   name: 'Subtraktion mit Zehnerübergang',       color: '#F87171', icon: '➖', generators: [G2.subMit] },
+      { key: 'g2_sub_visual', name: 'Anschauliche Subtraktion (Objekte zählen)', color: '#FECACA', icon: '🍪', generators: [G2.countSub] },
       { key: 'g2_sub_word',  name: 'Sachaufgaben',                         color: '#FEE2E2', icon: '📖', generators: [G2.wordSubG2, G2.word2] },
     ]},
     { key: 'g2_mul', name: 'Multiplikation', color: '#F59E0B', icon: '✖️', topics: [
       { key: 'g2_mul_rep',    name: 'Multiplikation als wiederholte Addition', color: '#FCD34D', icon: '🔄', generators: [G2.mulRepeated] },
       { key: 'g2_mul_simple', name: 'Einmaleins (×2, ×5, ×10)',               color: '#FDE68A', icon: '✖️', generators: [G2.mul2510, G2.mul2510b] },
+      { key: 'g2_mul_visual', name: 'Anschauliche Multiplikation (Arrays)',   color: '#FEF3C7', icon: '🎯', generators: [G2.mulVisual, G2.mulGroup] },
       { key: 'g2_mul_group',  name: 'Bildhafte Aufgaben',                     color: '#FEF3C7', icon: '🎯', generators: [G2.mulGroup, G2.wordMulG2] },
     ]},
     { key: 'g2_div', name: 'Division', color: '#8B5CF6', icon: '➗', topics: [
-      { key: 'g2_div_share',  name: 'Gleiches Aufteilen',              color: '#A78BFA', icon: '🍕', generators: [G2.divShare] },
+      { key: 'g2_div_share',  name: 'Gleiches Aufteilen',              color: '#A78BFA', icon: '🍕', generators: [G2.divShare, G2.divVisual] },
+      { key: 'g2_div_visual', name: 'Anschauliches Teilen',            color: '#C4B5FD', icon: '🍬', generators: [G2.divVisual] },
       { key: 'g2_div_rel',    name: 'Zusammenhang Mal und Geteilt',    color: '#C4B5FD', icon: '🔗', generators: [G2.divMulRel] },
       { key: 'g2_div_simple', name: 'Einfache Division',               color: '#DDD6FE', icon: '➗', generators: [G2.div2510, G2.wordDivG2] },
     ]},
     { key: 'g2_structure', name: 'Zahlenstruktur und Denken', color: '#06B6D4', icon: '🧩', topics: [
-      { key: 'g2_seq',     name: 'Zahlenfolgen',                 color: '#22D3EE', icon: '🔢', generators: [G2.sequence] },
-      { key: 'g2_missing', name: 'Muster erkennen · fehlende Zahl', color: '#67E8F9', icon: '❓', generators: [G2.missing100, G2.evenOdd] },
-      { key: 'g2_round',   name: 'Rechenstrategien',             color: '#A5F3FC', icon: '🎯', generators: [G2.rounding10, G2.missing100] },
+      { key: 'g2_seq',     name: 'Zahlenfolgen',                    color: '#22D3EE', icon: '🔢', generators: [G2.sequence, G2.numberLineG2] },
+      { key: 'g2_pattern', name: 'Form- und Farbmuster',            color: '#67E8F9', icon: '🟦', generators: [G2.patternG2] },
+      { key: 'g2_missing', name: 'Muster erkennen · fehlende Zahl', color: '#67E8F9', icon: '❓', generators: [G2.missing100, G2.evenOdd, G2.missingAddend] },
+      { key: 'g2_round',   name: 'Rechenstrategien',                color: '#A5F3FC', icon: '🎯', generators: [G2.rounding10, G2.missing100] },
     ]},
     { key: 'g2_measure', name: 'Größen und Einheiten', color: '#EC4899', icon: '📏', topics: [
       { key: 'g2_length',  name: 'Länge (cm, m)',       color: '#F9A8D4', icon: '📏', generators: [G2.units] },
@@ -1917,9 +2129,9 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     { key: 'g2_perimeter', name: 'Umfang', color: '#F97316', icon: '📐', topics: [
       { key: 'g2_perim', name: 'Umfang einfacher Figuren', color: '#FB923C', icon: '📐', generators: [G2.perimeterSimple] },
     ]},
-    { key: 'g2_data', name: 'Daten', color: '#A855F7', icon: '📊', topics: [
+    { key: 'g2_data', name: 'Daten und Diagramme', color: '#A855F7', icon: '📊', topics: [
       { key: 'g2_tables',   name: 'Tabellen',   color: '#C084FC', icon: '📊', generators: [G2.word1, G2.word4] },
-      { key: 'g2_diagrams', name: 'Diagramme',  color: '#D8B4FE', icon: '📈', generators: [G2.sequence, G2.evenOdd] },
+      { key: 'g2_diagrams', name: 'Diagramme',  color: '#D8B4FE', icon: '📈', generators: [G2.chartG2] },
     ]},
     { key: 'g2_word', name: 'Sachaufgaben', color: '#64748B', icon: '📖', topics: [
       { key: 'g2_word_add',   name: 'Additionsaufgaben',       color: '#94A3B8', icon: '📖', generators: [G2.wordAddG2, G2.word1] },

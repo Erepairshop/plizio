@@ -5,6 +5,12 @@ import { motion } from 'framer-motion';
 import { Pencil, ChevronUp } from 'lucide-react';
 import DraftPanel from './draft/DraftPanel';
 import { getDraftT } from './draft/draftI18n';
+import type { VisualData } from '@/lib/mathQuestionUtils';
+import ObjectGroupAdd from './math-visual/ObjectGroupAdd';
+import ObjectGroupSub from './math-visual/ObjectGroupSub';
+import ObjectArray from './math-visual/ObjectArray';
+import ObjectShare from './math-visual/ObjectShare';
+import ShapePattern from './math-visual/ShapePattern';
 
 interface ExtendedMathQuestion {
   question: string;
@@ -12,8 +18,10 @@ interface ExtendedMathQuestion {
   options: (number | string)[];
   topic: string;
   isWordProblem: boolean;
+  hasStringOptions?: boolean;
+  visualData?: VisualData;
   // New optional fields for rich content
-  type?: 'text' | 'geometry' | 'table' | 'diagram' | 'calculation';
+  type?: 'text' | 'geometry' | 'table' | 'diagram' | 'calculation' | 'visual';
   imageData?: {
     type: 'svg' | 'url';
     content: string; // SVG as string or URL
@@ -46,6 +54,32 @@ interface MathQuestionDisplayProps {
   questionId?: string;
   /** Country code for language-aware UI strings */
   countryCode?: string;
+}
+
+// Small shape icon for pattern answer options
+const SHAPE_COLORS: Record<string, string> = {
+  blue: "#3b82f6", green: "#10b981", red: "#ef4444", yellow: "#f59e0b", purple: "#a855f7",
+};
+function ShapeOptionIcon({ code }: { code: string }) {
+  const [shape, colorKey] = code.split("-");
+  const fill = SHAPE_COLORS[colorKey] || "#6b7280";
+  const s = 22;
+  if (shape === "cir") return (
+    <svg width={s} height={s} viewBox="0 0 24 24">
+      <circle cx={12} cy={12} r={10} fill={fill} opacity={0.85} />
+    </svg>
+  );
+  if (shape === "sq") return (
+    <svg width={s} height={s} viewBox="0 0 24 24">
+      <rect x={2} y={2} width={20} height={20} rx={3} fill={fill} opacity={0.85} />
+    </svg>
+  );
+  if (shape === "tri") return (
+    <svg width={s} height={s} viewBox="0 0 24 24">
+      <polygon points="12,2 22,22 2,22" fill={fill} opacity={0.85} />
+    </svg>
+  );
+  return <span>{code}</span>;
 }
 
 // SVG Geometry: Rect with dimensions
@@ -208,6 +242,27 @@ export default function MathQuestionDisplay({
           <DraftPanel testId={testId} questionId={questionId} countryCode={countryCode} />
         </div>
 
+      {/* G2 Visual SVG */}
+      {question.visualData && (
+        <div className="my-4 flex justify-center">
+          {question.visualData.type === 'object-add' && (
+            <ObjectGroupAdd groupA={question.visualData.groupA} groupB={question.visualData.groupB} />
+          )}
+          {question.visualData.type === 'object-sub' && (
+            <ObjectGroupSub total={question.visualData.total} removed={question.visualData.removed} />
+          )}
+          {question.visualData.type === 'object-array' && (
+            <ObjectArray rows={question.visualData.rows} cols={question.visualData.cols} />
+          )}
+          {question.visualData.type === 'object-share' && (
+            <ObjectShare total={question.visualData.total} groups={question.visualData.groups} />
+          )}
+          {question.visualData.type === 'shape-pattern' && (
+            <ShapePattern shapes={question.visualData.shapes} />
+          )}
+        </div>
+      )}
+
       {/* Geometry Diagram */}
       {question.type === 'geometry' && question.imageData && (
         <div className="my-6">
@@ -336,7 +391,8 @@ export default function MathQuestionDisplay({
         <>
           {/* Multiple Choice Options */}
           {(() => {
-            const isCompact = question.options.every(o => typeof o === 'string' && String(o).length <= 3);
+            const isShapePattern = question.visualData?.type === 'shape-pattern';
+            const isCompact = isShapePattern || question.options.every(o => typeof o === 'string' && String(o).length <= 3);
             return (
             <div className={isCompact ? "flex flex-wrap gap-2 mt-4" : "space-y-3 mt-8"}>
               {question.options.map((option, idx) => {
@@ -355,7 +411,7 @@ export default function MathQuestionDisplay({
                 <motion.button
                   key={idx}
                   onClick={() => onSelectAnswer(idx)}
-                  className={`${isCompact ? 'flex-1 min-w-[50px] py-1.5 px-2' : 'w-full p-4'} rounded-lg border-2 transition-all font-bold text-gray-800 ${
+                  className={`${isCompact ? 'flex-1 min-w-[50px] py-2 px-3' : 'w-full p-4'} rounded-lg border-2 transition-all font-bold text-gray-800 ${
                     isSelected ? selectedClass : correctHighlight
                   }`}
                   whileHover={{ scale: 1.02 }}
@@ -373,7 +429,10 @@ export default function MathQuestionDisplay({
                         {isSelected && <div className="w-3 h-3 bg-white rounded-full" />}
                       </div>
                     )}
-                    <span className={typeof option === 'string' ? (isCompact ? 'text-lg' : 'text-2xl') : ''}>{option}</span>
+                    {isShapePattern
+                      ? <ShapeOptionIcon code={String(option)} />
+                      : <span className={typeof option === 'string' ? (isCompact ? 'text-lg' : 'text-2xl') : ''}>{option}</span>
+                    }
                   </div>
                 </motion.button>
                 );
