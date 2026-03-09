@@ -1088,7 +1088,8 @@ Sziget 1 (Hegyvdek):
 Minden feladat végén:
 1. Futtasd le a `npx next build` parancsot (`npm run build` nem működik)
 2. Az `out/` mappa automatikusan generálódik
-3. Commitold és pushold az `out/` mappát is
+3. **KÖTELEZŐ:** `git add -f out/` — az `/out/` `.gitignore`-ban van, ezért force-add kell!
+4. Commitold és pushold az `out/` mappát is
 
 Szabályok:
 - Minden kód módosítás után MINDIG buildelj (`npm run build`)
