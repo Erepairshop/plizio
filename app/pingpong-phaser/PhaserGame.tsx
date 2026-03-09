@@ -40,7 +40,6 @@ class PingPongScene extends Phaser.Scene {
 
   // State
   private serving = true;
-  private serveTimer = 0;
   private ballSpeed = 350;
   private rallyCount = 0;
   private gameOver = false;
@@ -173,7 +172,9 @@ class PingPongScene extends Phaser.Scene {
     this.data.set("paddleH", paddleH);
 
     // Serve after 1 second
-    this.serveTimer = this.time.now + 1000;
+    this.time.delayedCall(1000, () => {
+      if (!this.gameOver) this.serve();
+    });
   }
 
   private serve() {
