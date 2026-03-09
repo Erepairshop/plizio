@@ -544,8 +544,8 @@ function AirHockeyPage() {
 
       // AI movement
       if (isMultiplayer) {
-        game.aiX += (oppPaddleRef.current.x - game.aiX) * Math.min(1, 0.3 * dt);
-        game.aiY += (oppPaddleRef.current.y - game.aiY) * Math.min(1, 0.3 * dt);
+        game.aiX += (oppPaddleRef.current.x - game.aiX) * Math.min(1, 0.5 * dt);
+        game.aiY += (oppPaddleRef.current.y - game.aiY) * Math.min(1, 0.5 * dt);
       } else {
         const puck = game.pucks[0];
         const targetX = puck.vy < 0 ? puck.x + (Math.random() - 0.5) * ai.predict : 0.5;
@@ -613,7 +613,7 @@ function AirHockeyPage() {
       const aiPRY = prY * game.aiPaddleScale;
 
       if (!game.serving && !game.gameOver && isMultiplayer && playerNum !== "1") {
-        // P2: extrapolate puck movement only (no collision, no scoring)
+        // P2: extrapolate puck movement + local collision prediction for responsiveness
         for (const puck of game.pucks) {
           puck.x += puck.vx * dt;
           puck.y += puck.vy * dt;
@@ -622,6 +622,41 @@ function AirHockeyPage() {
           if (puck.x > 1 - pkR) { puck.x = 1 - pkR; puck.vx = -Math.abs(puck.vx); }
           if (puck.y < pkRY) { puck.y = pkRY; puck.vy = Math.abs(puck.vy); }
           if (puck.y > 1 - pkRY) { puck.y = 1 - pkRY; puck.vy = -Math.abs(puck.vy); }
+
+          // Local collision prediction — player paddle (P2's own paddle at bottom)
+          {
+            const dx = (puck.x - game.playerX);
+            const dy = (puck.y - game.playerY);
+            const normDx = dx / (playerPR + pkR);
+            const normDy = dy / (playerPRY + pkRY);
+            const dist = Math.sqrt(normDx * normDx + normDy * normDy);
+            if (dist < 1 && puck.vy > 0) {
+              const angle = Math.atan2(dy, dx);
+              const minSpeed = 0.004;
+              puck.speed = Math.max(minSpeed, Math.min(puck.speed * 1.08, 0.018));
+              puck.vx = Math.cos(angle) * puck.speed;
+              puck.vy = Math.sin(angle) * puck.speed;
+              puck.x = game.playerX + Math.cos(angle) * (playerPR + pkR) * 1.01;
+              puck.y = game.playerY + Math.sin(angle) * (playerPRY + pkRY) * 1.01;
+            }
+          }
+          // Local collision prediction — AI paddle (opponent's paddle at top)
+          {
+            const dx = (puck.x - game.aiX);
+            const dy = (puck.y - game.aiY);
+            const normDx = dx / (aiPR + pkR);
+            const normDy = dy / (aiPRY + pkRY);
+            const dist = Math.sqrt(normDx * normDx + normDy * normDy);
+            if (dist < 1 && puck.vy < 0) {
+              const angle = Math.atan2(dy, dx);
+              const minSpeed = 0.004;
+              puck.speed = Math.max(minSpeed, Math.min(puck.speed * 1.08, 0.018));
+              puck.vx = Math.cos(angle) * puck.speed;
+              puck.vy = Math.sin(angle) * puck.speed;
+              puck.x = game.aiX + Math.cos(angle) * (aiPR + pkR) * 1.01;
+              puck.y = game.aiY + Math.sin(angle) * (aiPRY + pkRY) * 1.01;
+            }
+          }
         }
       }
       if (!game.serving && !game.gameOver && (!isMultiplayer || playerNum === "1")) {

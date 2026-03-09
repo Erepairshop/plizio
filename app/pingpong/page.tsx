@@ -523,6 +523,7 @@ function PingPongPage() {
       aiTargetX: 0.5,
       aiTargetY: AI_Y_DEFAULT,
       balls: [{ x: 0.5, y: 0.5, vx: 0, vy: 0, speed: 0, curveForce: 0, z: 0, vz: 0, lastHitter: null, lastBounceSide: null }],
+      deadBalls: [],
       serving: true,
       serveTimer: 0,
       playerServes: true,
@@ -725,9 +726,9 @@ function PingPongPage() {
 
       // AI logic (solo) or opponent paddle (multi)
       if (isMultiplayer) {
-        // In multiplayer, AI side is controlled by opponent
-        game.aiX += (oppPaddleXRef.current - game.aiX) * Math.min(1, 0.3 * dt);
-        game.aiY += (oppPaddleYRef.current - game.aiY) * Math.min(1, 0.3 * dt);
+        // In multiplayer, AI side is controlled by opponent — fast lerp for responsiveness
+        game.aiX += (oppPaddleXRef.current - game.aiX) * Math.min(1, 0.5 * dt);
+        game.aiY += (oppPaddleYRef.current - game.aiY) * Math.min(1, 0.5 * dt);
         game.aiY = Math.max(AI_Y_MIN, Math.min(AI_Y_MAX, game.aiY));
       } else {
         if (!game.serving || !game.playerServes) {
@@ -838,13 +839,48 @@ function PingPongPage() {
 
       // Ball physics — P1 is authoritative in multiplayer; P2 extrapolates between sync frames
       if (!game.serving && !game.gameOver && isMultiplayer && playerNum !== "1") {
-        // P2: dead-reckoning — keep ball moving smoothly between server sync updates
+        // P2: dead-reckoning + local collision prediction for responsive paddle hits
         for (const ball of game.balls) {
           ball.x += ball.vx * dt;
           ball.y += ball.vy * dt;
           ball.vz -= GRAVITY * dt;
           ball.z += ball.vz * dt;
           if (ball.z <= 0 && ball.vz < 0) { ball.z = 0; ball.vz = Math.abs(ball.vz) * BOUNCE_DAMP; }
+
+          // Local collision prediction — player paddle (P2's own paddle at bottom)
+          {
+            const dxPx = (ball.x - game.playerX) * tW;
+            const dyPx = (ball.y - game.playerY) * tH;
+            const distPx = Math.sqrt(dxPx * dxPx + dyPx * dyPx);
+            const playerHitR = paddlePxR * game.playerPaddleScale;
+            if (ball.vy > 0 && distPx <= playerHitR + BALL_RADIUS) {
+              const hitPos = dxPx / playerHitR;
+              const angle = hitPos * 0.7;
+              const spd = Math.min((ball.speed || 0.009) * 1.04, 0.022);
+              ball.vx = Math.sin(angle) * spd;
+              ball.vy = -Math.cos(angle) * spd;
+              ball.y = game.playerY - (playerHitR + BALL_RADIUS) / tH;
+              ball.vz = VZ_SERVE;
+              ball.z = Math.max(ball.z, 0);
+            }
+          }
+          // Local collision prediction — AI paddle (opponent's paddle at top)
+          {
+            const dxPx = (ball.x - game.aiX) * tW;
+            const dyPx = (ball.y - game.aiY) * tH;
+            const distPx = Math.sqrt(dxPx * dxPx + dyPx * dyPx);
+            const aiHitR = paddlePxR * game.aiPaddleScale;
+            if (ball.vy < 0 && distPx <= aiHitR + BALL_RADIUS) {
+              const hitPos = dxPx / aiHitR;
+              const angle = hitPos * 0.7;
+              const spd = Math.min((ball.speed || 0.009) * 1.04, 0.022);
+              ball.vx = Math.sin(angle) * spd;
+              ball.vy = Math.cos(angle) * spd;
+              ball.y = game.aiY + (aiHitR + BALL_RADIUS) / tH;
+              ball.vz = VZ_SERVE;
+              ball.z = Math.max(ball.z, 0);
+            }
+          }
         }
       }
       if (!game.serving && !game.gameOver && (!isMultiplayer || playerNum === "1")) {
@@ -883,9 +919,14 @@ function PingPongPage() {
 
           // Side exit — no wall bounce, ball can leave the table from the sides
           if (ball.x < -ballR || ball.x > 1 + ballR) {
+            // Spawn a dead ball that continues rendering as it falls away
+            game.deadBalls.push({
+              x: ball.x, y: ball.y, z: Math.max(ball.z, 0),
+              vx: ball.vx * 0.7, vy: ball.vy * 0.3, vz: -0.003,
+              age: 0,
+            });
             if (bi === 0) {
-              // The player who last hit it loses the point (hit it wide)
-              scorePoint(ball.lastHitter === "ai"); // if AI hit it out, player scores
+              scorePoint(ball.lastHitter === "ai");
             } else {
               ballsToRemove.push(bi);
             }
@@ -947,10 +988,20 @@ function PingPongPage() {
 
           // Score — ball exits past table ends
           if (ball.y < -0.15) {
+            game.deadBalls.push({
+              x: ball.x, y: ball.y, z: Math.max(ball.z, 0),
+              vx: ball.vx * 0.5, vy: ball.vy * 0.5, vz: -0.003,
+              age: 0,
+            });
             if (bi === 0) scorePoint(true);
             else ballsToRemove.push(bi);
           }
           if (ball.y > 1.15) {
+            game.deadBalls.push({
+              x: ball.x, y: ball.y, z: Math.max(ball.z, 0),
+              vx: ball.vx * 0.5, vy: ball.vy * 0.5, vz: -0.003,
+              age: 0,
+            });
             if (bi === 0) scorePoint(false);
             else ballsToRemove.push(bi);
           }
@@ -961,6 +1012,16 @@ function PingPongPage() {
           game.balls.splice(ballsToRemove[i], 1);
         }
       }
+
+      // Dead ball physics — falling off table animation
+      for (const db of game.deadBalls) {
+        db.x += db.vx * dt;
+        db.y += db.vy * dt;
+        db.vz -= 0.002 * dt; // heavy gravity for falling effect
+        db.z += db.vz * dt;
+        db.age += dt;
+      }
+      game.deadBalls = game.deadBalls.filter(db => db.age < 40 && db.z > -2);
 
       // ═══════════════════════════════════════════════════════
       //  R E N D E R
@@ -1237,6 +1298,43 @@ function PingPongPage() {
             ctx.stroke();
           }
         }
+      }
+
+      // ─── Dead balls (falling off table animation) ───
+      for (const db of game.deadBalls) {
+        const bx = toX(db.x);
+        const by = toY(db.y);
+        const fadeAlpha = Math.max(0, 1 - db.age / 40);
+        // Ball shrinks as it falls below table level
+        const fallScale = Math.max(0.3, 1 + db.z * 0.8);
+        const br = BALL_RADIUS * fallScale;
+
+        ctx.save();
+        ctx.globalAlpha = fadeAlpha;
+
+        // Shadow (fades and grows diffuse as ball falls)
+        if (db.z > -0.5) {
+          const shadowAlpha = Math.max(0, 0.12 - Math.abs(db.z) * 0.1);
+          ctx.fillStyle = `rgba(0,0,0,${shadowAlpha})`;
+          ctx.beginPath();
+          ctx.ellipse(bx + 2, by + 3, BALL_RADIUS + 4, BALL_RADIUS * 0.5, 0, 0, Math.PI * 2);
+          ctx.fill();
+        }
+
+        // Ball body
+        const ballGrad = ctx.createRadialGradient(bx - br * 0.2, by - br * 0.2, 0, bx, by, br);
+        ballGrad.addColorStop(0, "#FFFFFF");
+        ballGrad.addColorStop(0.75, "#F0F0F0");
+        ballGrad.addColorStop(1, "#D0D0D0");
+        ctx.fillStyle = ballGrad;
+        ctx.beginPath();
+        ctx.arc(bx, by, br, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.strokeStyle = "#999";
+        ctx.lineWidth = 0.8;
+        ctx.stroke();
+
+        ctx.restore();
       }
 
       // ─── Score display ───
@@ -1610,6 +1708,12 @@ function PingPongPage() {
 }
 
 // ─── Game State Type ─────────────────────────────────────────
+interface DeadBall {
+  x: number; y: number; z: number;
+  vx: number; vy: number; vz: number;
+  age: number; // frames since death
+}
+
 interface GameState {
   playerX: number;
   playerY: number;
@@ -1618,6 +1722,7 @@ interface GameState {
   aiTargetX: number;
   aiTargetY: number;
   balls: Ball[];
+  deadBalls: DeadBall[];
   serving: boolean;
   serveTimer: number;
   playerServes: boolean;
