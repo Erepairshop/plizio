@@ -806,6 +806,21 @@ export const G3_Generators = {
         }
       }
       return q;
+    },
+    homophones_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const pairs = [
+        { correct: "to", wrong: ["too", "two"], context: "I want to go ___ the park." },
+        { correct: "be", wrong: ["bee", "bea"], context: "I want to ___ a teacher." },
+        { correct: "there", wrong: ["their", "they're"], context: "Look over ___." },
+        { correct: "write", wrong: ["right", "rite"], context: "I like to ___ stories." }
+      ];
+      for (let i = 0; i < 30; i++) {
+        const pair = pick(pairs, rng);
+        q.push(createMCQ("vocab_g3", "homophones_g3", `Fill in: "${pair.context}"`, pair.correct, pair.wrong));
+      }
+      return q;
     }
   },
   grammar_g3: {
