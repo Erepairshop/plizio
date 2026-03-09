@@ -906,6 +906,29 @@ export const G3_Generators = {
         }
       }
       return q;
+    },
+    word_relationships_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const pairData = [
+        { word1: "happy", word2: "sad", type: "antonyms", context: "opposite meanings" },
+        { word1: "big", word2: "large", type: "synonyms", context: "similar meanings" },
+        { word1: "run", word2: "fast", type: "unrelated", context: "different parts of speech" },
+        { word1: "cat", word2: "pet", type: "related", context: "one is a type of the other" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(3, rng)) {
+          const data = pick(pairData, rng);
+          const wrong = pairData.filter(p => p !== data).map(p => p.type).slice(0, 3);
+          q.push(createMCQ("vocab_g3", "word_relationships_g3",
+            `How are '${data.word1}' and '${data.word2}' related?`, data.type, wrong));
+        } else {
+          const data = pick(pairData, rng);
+          q.push(createTyping("vocab_g3", "word_relationships_g3",
+            `How are '${data.word1}' and '${data.word2}' related?`, data.type));
+        }
+      }
+      return q;
     }
   }
 };
