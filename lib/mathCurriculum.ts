@@ -1226,6 +1226,16 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
     { key: 'g1_word', name: 'Word Problems', color: '#8B5CF6', icon: '📖', topics: [
       { key: 'word', name: 'Story Problems', color: '#8B5CF6', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
     ]},
+    { key: 'g1_visual', name: 'Visual Tasks', color: '#F59E0B', icon: '🎨', topics: [
+      { key: 'g1_clock', name: 'Read the Clock', color: '#FF2D78', icon: '🕐', generators: [] },
+      { key: 'g1_number_line', name: 'Number Line', color: '#00D4FF', icon: '📏', generators: [] },
+      { key: 'g1_place_value', name: 'Place Values', color: '#00FF88', icon: '🧱', generators: [] },
+      { key: 'g1_grid_count', name: 'Count Squares', color: '#B44DFF', icon: '🟪', generators: [] },
+      { key: 'g1_sequence', name: 'Number Sequence', color: '#00D4FF', icon: '🔢', generators: [] },
+      { key: 'g1_coins', name: 'Count Coins', color: '#FFD700', icon: '🪙', generators: [] },
+      { key: 'g1_timeline', name: 'Time Duration', color: '#FF2D78', icon: '⏱️', generators: [] },
+      { key: 'g1_fraction', name: 'Count Parts', color: '#B44DFF', icon: '🍕', generators: [] },
+    ]},
   ],
   2: [
     { key: 'g2_arith', name: 'Addition & Subtraction', color: '#3B82F6', icon: '🔢', topics: [
@@ -1366,6 +1376,16 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g1_word', name: 'Textaufgaben', color: '#8B5CF6', icon: '📖', topics: [
       { key: 'word', name: 'Sachaufgaben', color: '#8B5CF6', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
+    ]},
+    { key: 'g1_visual', name: 'Anschaulich', color: '#F59E0B', icon: '🎨', topics: [
+      { key: 'g1_clock', name: 'Uhrzeit ablesen', color: '#FF2D78', icon: '🕐', generators: [] },
+      { key: 'g1_number_line', name: 'Zahlenstrahl', color: '#00D4FF', icon: '📏', generators: [] },
+      { key: 'g1_place_value', name: 'Stellenwerte', color: '#00FF88', icon: '🧱', generators: [] },
+      { key: 'g1_grid_count', name: 'Kästchen zählen', color: '#B44DFF', icon: '🟪', generators: [] },
+      { key: 'g1_sequence', name: 'Zahlenreihe', color: '#00D4FF', icon: '🔢', generators: [] },
+      { key: 'g1_coins', name: 'Münzen zählen', color: '#FFD700', icon: '🪙', generators: [] },
+      { key: 'g1_timeline', name: 'Zeitdauer', color: '#FF2D78', icon: '⏱️', generators: [] },
+      { key: 'g1_fraction', name: 'Teile zählen', color: '#B44DFF', icon: '🍕', generators: [] },
     ]},
   ],
   2: [
@@ -1546,6 +1566,16 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
     { key: 'g1_word', name: 'Szöveges feladatok', color: '#8B5CF6', icon: '📖', topics: [
       { key: 'word', name: 'Szöveges feladatok', color: '#8B5CF6', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
     ]},
+    { key: 'g1_visual', name: 'Szemléltető feladatok', color: '#F59E0B', icon: '🎨', topics: [
+      { key: 'g1_clock', name: 'Óra leolvasása', color: '#FF2D78', icon: '🕐', generators: [] },
+      { key: 'g1_number_line', name: 'Számegyenes', color: '#00D4FF', icon: '📏', generators: [] },
+      { key: 'g1_place_value', name: 'Helyiértékek', color: '#00FF88', icon: '🧱', generators: [] },
+      { key: 'g1_grid_count', name: 'Négyzetek számolása', color: '#B44DFF', icon: '🟪', generators: [] },
+      { key: 'g1_sequence', name: 'Számsor', color: '#00D4FF', icon: '🔢', generators: [] },
+      { key: 'g1_coins', name: 'Érmék számolása', color: '#FFD700', icon: '🪙', generators: [] },
+      { key: 'g1_timeline', name: 'Időtartam', color: '#FF2D78', icon: '⏱️', generators: [] },
+      { key: 'g1_fraction', name: 'Részek számolása', color: '#B44DFF', icon: '🍕', generators: [] },
+    ]},
   ],
   2: [
     { key: 'g2_arith', name: 'Számolás 100-ig', color: '#3B82F6', icon: '🔢', topics: [
@@ -1682,6 +1712,16 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g1_word', name: 'Probleme', color: '#8B5CF6', icon: '📖', topics: [
       { key: 'word', name: 'Probleme', color: '#8B5CF6', icon: '📖', generators: [G1.word1, G1.word2, G1.word3, G1.word4, G1.word5] },
+    ]},
+    { key: 'g1_visual', name: 'Sarcini vizuale', color: '#F59E0B', icon: '🎨', topics: [
+      { key: 'g1_clock', name: 'Citirea ceasului', color: '#FF2D78', icon: '🕐', generators: [] },
+      { key: 'g1_number_line', name: 'Dreapta numerelor', color: '#00D4FF', icon: '📏', generators: [] },
+      { key: 'g1_place_value', name: 'Valori poziționale', color: '#00FF88', icon: '🧱', generators: [] },
+      { key: 'g1_grid_count', name: 'Numără pătratele', color: '#B44DFF', icon: '🟪', generators: [] },
+      { key: 'g1_sequence', name: 'Șir de numere', color: '#00D4FF', icon: '🔢', generators: [] },
+      { key: 'g1_coins', name: 'Numără monedele', color: '#FFD700', icon: '🪙', generators: [] },
+      { key: 'g1_timeline', name: 'Durata timpului', color: '#FF2D78', icon: '⏱️', generators: [] },
+      { key: 'g1_fraction', name: 'Numără părțile', color: '#B44DFF', icon: '🍕', generators: [] },
     ]},
   ],
   2: [
