@@ -60,6 +60,11 @@ const G1SubtractionWithPictures = dynamic(() => import('./grade1-visual/Subtract
 const G1NumberDecomposition = dynamic(() => import('./grade1-visual/NumberDecomposition'), { ssr: false });
 const G1NumberCompletion = dynamic(() => import('./grade1-visual/NumberCompletion'), { ssr: false });
 
+// Grade 1 Phase 3 - Geometry & Spatial
+const G1ShapeRecognition = dynamic(() => import('./grade1-visual/ShapeRecognition'), { ssr: false });
+const G1SpatialDirections = dynamic(() => import('./grade1-visual/SpatialDirections'), { ssr: false });
+const G1PatternCompletion = dynamic(() => import('./grade1-visual/PatternCompletion'), { ssr: false });
+
 interface Props {
   block: SchoolTaskBlockType;
   blockIndex: number;
@@ -164,6 +169,13 @@ export default function SchoolTaskBlock({
         return <G1NumberDecomposition lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
       case 'g1-completion':
         return <G1NumberCompletion lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      // Phase 3 - Geometry & Spatial
+      case 'g1-shapes':
+        return <G1ShapeRecognition lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-directions':
+        return <G1SpatialDirections lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
+      case 'g1-patterns':
+        return <G1PatternCompletion lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
       default:
         return null;
     }

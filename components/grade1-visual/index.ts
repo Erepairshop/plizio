@@ -21,3 +21,8 @@ export { default as AdditionWithPictures } from './AdditionWithPictures';
 export { default as SubtractionWithPictures } from './SubtractionWithPictures';
 export { default as NumberDecomposition } from './NumberDecomposition';
 export { default as NumberCompletion } from './NumberCompletion';
+
+// Phase 3 - Geometry & Spatial
+export { default as ShapeRecognition } from './ShapeRecognition';
+export { default as SpatialDirections } from './SpatialDirections';
+export { default as PatternCompletion } from './PatternCompletion';

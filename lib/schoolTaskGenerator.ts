@@ -10,7 +10,8 @@ import { generateTopicQuestions, getDEThemes, getENThemes, getHUThemes, getROThe
 export type VisualQuestionType = 'zeichnen' | 'messen' | 'uhrzeit' | 'grid-area' | 'place-value' | 'fraction-pizza' | 'symmetry' | 'sequence' | 'timeline' | 'number-line' | 'angle' | 'circle-draw' | 'money'
   | 'g1-clock' | 'g1-number-line' | 'g1-place-value' | 'g1-grid-count' | 'g1-sequence' | 'g1-coins' | 'g1-timeline' | 'g1-fraction'
   | 'g1-dots' | 'g1-dice' | 'g1-fingers' | 'g1-compare' | 'g1-predecessor' | 'g1-successor'
-  | 'g1-addition-pics' | 'g1-subtraction-pics' | 'g1-decompose' | 'g1-completion';
+  | 'g1-addition-pics' | 'g1-subtraction-pics' | 'g1-decompose' | 'g1-completion'
+  | 'g1-shapes' | 'g1-directions' | 'g1-patterns';
 
 export type VisualQuestionData = {
   type: VisualQuestionType;
@@ -64,7 +65,10 @@ export type TaskType =
   | 'visual_g1_addition_pics'
   | 'visual_g1_subtraction_pics'
   | 'visual_g1_decompose'
-  | 'visual_g1_completion';
+  | 'visual_g1_completion'
+  | 'visual_g1_shapes'
+  | 'visual_g1_directions'
+  | 'visual_g1_patterns';
 
 export type AufgabenItem = {
   question: string;
@@ -1061,6 +1065,10 @@ const TITLES: Record<TaskType, Record<string, string>> = {
   visual_g1_subtraction_pics: { de: 'Subtraktion mit Bildern', en: 'Subtraction with Pictures', hu: 'Kivonás képekkel', ro: 'Scădere cu imagini' },
   visual_g1_decompose: { de: 'Zahlzerlegung', en: 'Number Decomposition', hu: 'Szám szétbontása', ro: 'Descompunerea numărului' },
   visual_g1_completion: { de: 'Ergänze die Zahl!', en: 'Complete the Number!', hu: 'Egészítsd ki a számsort!', ro: 'Completează numărul!' },
+  // Phase 3 - Geometry & Spatial
+  visual_g1_shapes: { de: 'Welche Form ist es?', en: 'What shape is it?', hu: 'Melyik forma?', ro: 'Care este forma?' },
+  visual_g1_directions: { de: 'Welche Richtung?', en: 'Which direction?', hu: 'Melyik irány?', ro: 'Care direcție?' },
+  visual_g1_patterns: { de: 'Welches Element kommt nächst?', en: 'What comes next?', hu: 'Mely elem jön következő?', ro: 'Ce vine în continuare?' },
 };
 
 function getTitleFor(type: TaskType, cc: string): string {
