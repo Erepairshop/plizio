@@ -711,6 +711,8 @@ const VISUAL_TOPIC_KEYS = new Set([
   'number_line', 'angle', 'circle_draw', 'money',
   'g1_clock', 'g1_number_line', 'g1_place_value', 'g1_grid_count',
   'g1_sequence', 'g1_coins', 'g1_timeline', 'g1_fraction',
+  // Grade 2 visual topics
+  'g2_clock', 'g2_strecken', 'g2_zahlstr', 'g2_stellenwert', 'g2_money',
 ]);
 
 function isVisualTopicKey(key: string): boolean {
@@ -875,6 +877,48 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
       return { id: `vis_g1fr_${sfx}`, answer: coloredParts, points: 1,
         visualType: 'g1-fraction', visualData: { type: 'g1-fraction', params: { shape, totalParts, coloredParts } } };
     }
+    // ── Grade 2 visual components ──────────────────────────────────────────
+    case 'g2_clock': {
+      // G2: 5-minute intervals (vs G1's quarter-hours)
+      const hour = rnd(1, 12);
+      const minute = [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55][rnd(0, 11)];
+      return { id: `vis_g2c_${sfx}`, answer: `${hour}:${String(minute).padStart(2, '0')}`, points: 1,
+        visualType: 'uhrzeit', visualData: { type: 'uhrzeit', params: { targetHour: hour, targetMinute: minute } } };
+    }
+    case 'g2_strecken': {
+      // G2: measure a line segment in cm
+      const targetLength = [3, 4, 5, 6, 7, 8, 9, 10, 11, 12][rnd(0, 9)];
+      return { id: `vis_g2s_${sfx}`, answer: targetLength, points: 1, visualType: 'messen',
+        visualData: { type: 'messen', params: { targetLength, unit: 'cm' } } };
+    }
+    case 'g2_zahlstr': {
+      // G2: number line 0–100, multiples of 10 marked, find the marked value
+      const marked = rnd(1, 9) * 10 + rnd(1, 9);
+      return { id: `vis_g2nl_${sfx}`, answer: marked, points: 1,
+        visualType: 'g1-number-line', visualData: { type: 'g1-number-line', params: { min: 0, max: 100, step: 10, markedValue: marked } } };
+    }
+    case 'g2_stellenwert': {
+      // G2: tens and ones place value for numbers 11–99
+      const num = rnd(11, 99);
+      const q = (['tens', 'ones', 'total'] as const)[rnd(0, 2)];
+      const ans = q === 'tens' ? Math.floor(num / 10) : q === 'ones' ? num % 10 : num;
+      return { id: `vis_g2pv_${sfx}`, answer: ans, points: 1,
+        visualType: 'g1-place-value', visualData: { type: 'g1-place-value', params: { number: num, question: q } } };
+    }
+    case 'g2_money': {
+      // G2: simple euro/cent money calculation
+      const items = [
+        { name: 'Apfel', price: rnd(20, 80) / 100 },
+        { name: 'Brot', price: rnd(100, 200) / 100 },
+        { name: 'Milch', price: rnd(80, 150) / 100 },
+      ].slice(0, rnd(2, 3));
+      const total = Math.round(items.reduce((s, i) => s + i.price, 0) * 100) / 100;
+      const mode = Math.random() > 0.5 ? 'change' as const : 'total' as const;
+      const budget = Math.ceil(total);
+      const answer = mode === 'change' ? Math.round((budget - total) * 100) / 100 : total;
+      return { id: `vis_g2mon_${sfx}`, answer, points: 1,
+        visualType: 'money', visualData: { type: 'money', params: { items, budget, mode } } };
+    }
     default:
       return generateVisualSub('zeichnen', blockIdx, subIdx);
   }
@@ -889,6 +933,9 @@ const VISUAL_TOPIC_TO_TYPE: Record<string, TaskType> = {
   g1_clock: 'visual_g1_clock', g1_number_line: 'visual_g1_number_line', g1_place_value: 'visual_g1_place_value',
   g1_grid_count: 'visual_g1_grid_count', g1_sequence: 'visual_g1_sequence', g1_coins: 'visual_g1_coins',
   g1_timeline: 'visual_g1_timeline', g1_fraction: 'visual_g1_fraction',
+  // Grade 2 visual topics → reuse existing visual types
+  g2_clock: 'visual_uhrzeit', g2_strecken: 'visual_messen',
+  g2_zahlstr: 'visual_g1_number_line', g2_stellenwert: 'visual_g1_place_value', g2_money: 'visual_money',
 };
 
 function generateVisualBlock(
