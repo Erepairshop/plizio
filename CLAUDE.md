@@ -657,6 +657,23 @@ Minden grade-nél (G1-G8) ugyanezeket a lépéseket kell követni:
 
 ---
 
+### Game Engine-ek (npm csomagok)
+
+| Csomag | Verzió | Mire | Példa játék |
+|--------|--------|------|-------------|
+| `phaser` | ^3.90.0 | 2D játék engine (physics, sprites, input, particles) | `/pingpong-phaser` |
+| `planck` | — (TODO) | Realisztikus 2D fizika (Box2D port) — labda, autó szimulációk | pingpong, squash, citydrive |
+| `matter-js` | — (TODO) | 2D fizika — ütközés alapú puzzle játékokhoz | puzzle, darabok esnek |
+
+**Mikor melyiket:**
+- **Phaser**: komplett játék engine kell (rendering + fizika + input egyben)
+- **Planck.js**: csak realisztikus fizika kell (pl. pontosabb labda pattogás, gravitáció súlyponttal)
+- **Matter.js**: puzzle játék ahol tárgyak esnek/ütköznek egymással
+
+**Next.js integráció:** Mindhárom browser-only → `dynamic(() => import(...), { ssr: false })` kötelező!
+
+---
+
 ### Egyéb lib fájlok (kevésbé érintett területek)
 
 | Fájl | Leírás |
