@@ -153,6 +153,7 @@ function AirHockeyPage() {
   const [scoreSubmitted, setScoreSubmitted] = useState(false);
   const broadcastChannelRef = useRef<RealtimeChannel | null>(null);
   const oppPaddleRef = useRef({ x: 0.5, y: 0.15 });
+  const scoreSubmittedRef = useRef(false);
 
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const gameRef = useRef<GameState | null>(null);
@@ -205,7 +206,7 @@ function AirHockeyPage() {
     setDifficulty(diff);
     setPlayerScore(0); setAiScore(0);
     playerScoreRef.current = 0; aiScoreRef.current = 0;
-    setAvatarMood("idle"); setScoreSubmitted(false);
+    setAvatarMood("idle"); setScoreSubmitted(false); scoreSubmittedRef.current = false;
     setScreen("playing");
   }, []);
 
@@ -224,7 +225,63 @@ function AirHockeyPage() {
     const channel = supabase.channel(`airhockey-${matchId}`, { config: { broadcast: { self: false } } });
     channel.on("broadcast", { event: "paddlePos" }, (payload) => {
       if (payload.payload.p !== playerNum) {
-        oppPaddleRef.current = { x: payload.payload.x, y: payload.payload.y };
+        // Flip Y: opponent's bottom (y≈0.75) → our top AI position (y≈0.25)
+        oppPaddleRef.current = { x: payload.payload.x, y: 1 - payload.payload.y };
+      }
+    });
+
+    // P2 receives authoritative puck state from P1
+    let gameOverHandled = false;
+    channel.on("broadcast", { event: "puckSync" }, (payload) => {
+      if (playerNum !== "1" && gameRef.current) {
+        const game = gameRef.current;
+        const { pucks, ps1, ps2, serving, playerPaddleScale, aiPaddleScale, playerShield, aiShield } = payload.payload;
+        if (pucks?.length > 0) {
+          if (game.pucks.length !== pucks.length) {
+            // Puck count changed — hard reset
+            game.pucks = (pucks as {x:number,y:number,vx:number,vy:number,speed:number}[]).map(p => ({
+              x: p.x, y: 1 - p.y, vx: p.vx, vy: -p.vy, speed: p.speed,
+            }));
+          } else {
+            // Lerp position, snap velocity (dead-reckoning correction)
+            for (let i = 0; i < pucks.length; i++) {
+              const s = (pucks as {x:number,y:number,vx:number,vy:number,speed:number}[])[i];
+              const b = game.pucks[i];
+              b.x = b.x + (s.x - b.x) * 0.4;
+              b.y = b.y + ((1 - s.y) - b.y) * 0.4;
+              b.vx = s.vx; b.vy = -s.vy; b.speed = s.speed;
+            }
+          }
+        }
+        if (typeof serving === "boolean") game.serving = serving;
+        // P2 shows ps2 as their score, ps1 as opponent
+        if (ps1 !== undefined && ps2 !== undefined) {
+          playerScoreRef.current = ps2; aiScoreRef.current = ps1;
+          setPlayerScore(ps2); setAiScore(ps1);
+        }
+        // Swap scales/shields: P1's player = P2's AI and vice versa
+        if (playerPaddleScale !== undefined) game.aiPaddleScale = playerPaddleScale;
+        if (aiPaddleScale !== undefined) game.playerPaddleScale = aiPaddleScale;
+        if (playerShield !== undefined) game.aiShield = playerShield;
+        if (aiShield !== undefined) game.playerShield = aiShield;
+      }
+    });
+
+    // P1 sends game-over signal → P2 submits score + shows result
+    channel.on("broadcast", { event: "gameOver" }, (payload) => {
+      if (playerNum !== "1" && !gameOverHandled) {
+        gameOverHandled = true;
+        const { p1score, p2score } = payload.payload as { p1score: number; p2score: number };
+        if (gameRef.current) gameRef.current.gameOver = true;
+        const won = p2score > p1score;
+        if (matchId && !scoreSubmittedRef.current) {
+          scoreSubmittedRef.current = true;
+          if (isMix) submitMixRoundScore(matchId, p2score, false);
+          else submitScore(matchId, p2score, false);
+        }
+        setMyFinalScore(p2score); setOppFinalScore(p1score);
+        setScreen("multi-result");
+        setAvatarMood(won ? "victory" : "disappointed");
       }
     });
     channel.subscribe();
@@ -259,7 +316,7 @@ function AirHockeyPage() {
   // Handle game end
   const handleGameEnd = useCallback((won: boolean, myScore: number, oppScore: number) => {
     if (isMultiplayer && matchId && !scoreSubmitted) {
-      setScoreSubmitted(true);
+      setScoreSubmitted(true); scoreSubmittedRef.current = true;
       if (isMix) submitMixRoundScore(matchId, myScore, playerNum === "1");
       else submitScore(matchId, myScore, playerNum === "1");
       if (won) {
@@ -393,6 +450,13 @@ function AirHockeyPage() {
       const ps = playerScoreRef.current, as_ = aiScoreRef.current;
       if (ps >= WIN_SCORE || as_ >= WIN_SCORE) {
         game.gameOver = true;
+        // In multiplayer, P1 signals game-over to P2 before calling handleGameEnd
+        if (isMultiplayer && playerNum === "1" && broadcastChannelRef.current) {
+          broadcastChannelRef.current.send({
+            type: "broadcast", event: "gameOver",
+            payload: { p1score: ps, p2score: as_ },
+          });
+        }
         setTimeout(() => handleGameEnd(ps > as_, ps, as_), 800);
         return;
       }
@@ -492,25 +556,40 @@ function AirHockeyPage() {
         game.aiY = Math.max(prY, Math.min(0.48, game.aiY));
       }
 
-      // Broadcast paddle pos
+      // Broadcast — paddle pos + P1 puck sync (~33ms)
       if (isMultiplayer && broadcastChannelRef.current) {
         broadcastTimer += dt;
-        if (broadcastTimer > 4) {
+        if (broadcastTimer > 2) {
           broadcastTimer = 0;
           broadcastChannelRef.current.send({
             type: "broadcast", event: "paddlePos",
             payload: { p: playerNum, x: game.playerX, y: game.playerY },
           });
+          if (playerNum === "1") {
+            broadcastChannelRef.current.send({
+              type: "broadcast", event: "puckSync",
+              payload: {
+                pucks: game.pucks.map(p => ({ x: p.x, y: p.y, vx: p.vx, vy: p.vy, speed: p.speed })),
+                ps1: playerScoreRef.current,
+                ps2: aiScoreRef.current,
+                serving: game.serving,
+                playerPaddleScale: game.playerPaddleScale,
+                aiPaddleScale: game.aiPaddleScale,
+                playerShield: game.playerShield,
+                aiShield: game.aiShield,
+              },
+            });
+          }
         }
       }
 
-      // Serve
-      if (game.serving && Date.now() - game.serveTimer > SERVE_DELAY && !game.gameOver) {
+      // Serve — P1 authoritative in multiplayer
+      if (game.serving && Date.now() - game.serveTimer > SERVE_DELAY && !game.gameOver && (!isMultiplayer || playerNum === "1")) {
         launchPuck();
       }
 
-      // Powerup management
-      if (!game.gameOver && !game.serving) {
+      // Powerup management — P1 authoritative in multiplayer
+      if (!game.gameOver && !game.serving && (!isMultiplayer || playerNum === "1")) {
         if (!game.powerup && !game.activePowerup && Date.now() >= game.nextPowerupTime) {
           spawnPowerup();
           game.nextPowerupTime = Date.now() + PU_SPAWN_MIN + Math.random() * (PU_SPAWN_MAX - PU_SPAWN_MIN);
@@ -527,13 +606,25 @@ function AirHockeyPage() {
         }
       }
 
-      // Puck physics
+      // Puck physics — P1 is authoritative; P2 dead-reckons between syncs
       const playerPR = pr * game.playerPaddleScale;
       const playerPRY = prY * game.playerPaddleScale;
       const aiPR = pr * game.aiPaddleScale;
       const aiPRY = prY * game.aiPaddleScale;
 
-      if (!game.serving && !game.gameOver) {
+      if (!game.serving && !game.gameOver && isMultiplayer && playerNum !== "1") {
+        // P2: extrapolate puck movement only (no collision, no scoring)
+        for (const puck of game.pucks) {
+          puck.x += puck.vx * dt;
+          puck.y += puck.vy * dt;
+          puck.vx *= 0.9995; puck.vy *= 0.9995;
+          if (puck.x < pkR) { puck.x = pkR; puck.vx = Math.abs(puck.vx); }
+          if (puck.x > 1 - pkR) { puck.x = 1 - pkR; puck.vx = -Math.abs(puck.vx); }
+          if (puck.y < pkRY) { puck.y = pkRY; puck.vy = Math.abs(puck.vy); }
+          if (puck.y > 1 - pkRY) { puck.y = 1 - pkRY; puck.vy = -Math.abs(puck.vy); }
+        }
+      }
+      if (!game.serving && !game.gameOver && (!isMultiplayer || playerNum === "1")) {
         const toRemove: number[] = [];
         for (let bi = 0; bi < game.pucks.length; bi++) {
           const puck = game.pucks[bi];
