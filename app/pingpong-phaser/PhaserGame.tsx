@@ -1,0 +1,587 @@
+"use client";
+
+import Phaser from "phaser";
+import { useEffect, useRef } from "react";
+
+type Difficulty = "easy" | "medium" | "hard";
+
+interface Props {
+  difficulty: Difficulty;
+  onGameEnd: (won: boolean, myScore: number, oppScore: number) => void;
+}
+
+class PingPongScene extends Phaser.Scene {
+  private player!: Phaser.GameObjects.Image;
+  private ai!: Phaser.GameObjects.Image;
+  private ball!: Phaser.Physics.Arcade.Image;
+
+  private playerScore = 0;
+  private aiScore = 0;
+  private scoreTxt!: Phaser.GameObjects.Text;
+  private serveTxt!: Phaser.GameObjects.Text;
+  private WIN_SCORE = 11;
+
+  private aiSpeed = 300;
+  private aiError = 40;
+
+  private cursors!: Phaser.Types.Input.Keyboard.CursorKeys;
+  private wasd!: Record<string, Phaser.Input.Keyboard.Key>;
+  private spaceKey!: Phaser.Input.Keyboard.Key;
+
+  private touchX = -1;
+  private touchY = -1;
+
+  private serving = true;
+  private waitingForServe = false; // tap-to-serve state
+  private playerServes = true;
+  private ballSpeed = 350;
+  private rallyCount = 0;
+  private gameOver = false;
+
+  // Feature 8: Paddle visual radius vs larger hitbox
+  private readonly PADDLE_R = 28; // visual radius
+  private readonly HITBOX_R = 36; // bigger hitbox – easier to hit
+
+  // Feature 4: Paddle momentum tracking
+  private playerPrevX = 0;
+  private playerPrevY = 0;
+  private playerVelX = 0;
+  private playerVelY = 0;
+
+  // Flickering fix: hit cooldown prevents multi-trigger
+  private hitCooldown = 0;
+  private readonly HIT_COOLDOWN_MS = 160;
+
+  private particles!: Phaser.GameObjects.Particles.ParticleEmitter;
+
+  // Trail & impact effects
+  private trailGfx!: Phaser.GameObjects.Graphics;
+  private impactGfx!: Phaser.GameObjects.Graphics;
+  private trailPositions: { x: number; y: number }[] = [];
+  private impacts: { x: number; y: number; age: number; color: number }[] = [];
+  private readonly TRAIL_LEN = 8;
+  private readonly IMPACT_DUR = 200;
+
+  // Feature 6: speed limits
+  private readonly MAX_SPEED = 680;
+  // Feature 9: never too horizontal
+  private readonly MIN_Y_SPEED = 90;
+
+  public onGameEnd!: (won: boolean, myScore: number, oppScore: number) => void;
+  public difficulty!: Difficulty;
+
+  constructor() { super({ key: "PingPongScene" }); }
+
+  preload() {
+    const g = this.make.graphics({ x: 0, y: 0 });
+
+    // Ball
+    g.fillStyle(0xffffff);
+    g.fillCircle(12, 12, 12);
+    g.fillStyle(0xdddddd, 0.35);
+    g.fillCircle(8, 8, 5);
+    g.generateTexture("ball", 24, 24);
+    g.clear();
+
+    // Player paddle (red, circle center at 22,22)
+    g.fillStyle(0x5a1a1a);
+    g.fillCircle(22, 22, 22);
+    g.fillStyle(0xcc1515);
+    g.fillCircle(22, 22, 20);
+    g.fillStyle(0xe83030);
+    g.fillCircle(22, 22, 12);
+    g.fillStyle(0xffffff, 0.22);
+    g.fillCircle(16, 16, 8);
+    g.fillStyle(0x8b6340);
+    g.fillRoundedRect(17, 42, 10, 20, 3);
+    g.fillStyle(0xa07850, 0.7);
+    g.fillRoundedRect(19, 43, 4, 18, 2);
+    g.generateTexture("playerPaddle", 44, 64);
+    g.clear();
+
+    // AI paddle (blue, circle center at 22,40)
+    g.fillStyle(0x0d2d55);
+    g.fillCircle(22, 40, 22);
+    g.fillStyle(0x1060cc);
+    g.fillCircle(22, 40, 20);
+    g.fillStyle(0x2080e8);
+    g.fillCircle(22, 40, 12);
+    g.fillStyle(0xffffff, 0.22);
+    g.fillCircle(16, 34, 8);
+    g.fillStyle(0x8b6340);
+    g.fillRoundedRect(17, 2, 10, 20, 3);
+    g.fillStyle(0xa07850, 0.7);
+    g.fillRoundedRect(19, 3, 4, 18, 2);
+    g.generateTexture("aiPaddle", 44, 64);
+    g.clear();
+
+    // Particle dot
+    g.fillStyle(0xffffff);
+    g.fillCircle(4, 4, 4);
+    g.generateTexture("particle", 8, 8);
+    g.destroy();
+  }
+
+  create() {
+    const W = this.scale.width;
+    const H = this.scale.height;
+
+    const tW = Math.min(W * 0.80, 340);
+    const tH = tW / 0.56;
+    const tL = (W - tW) / 2;
+    const tT = (H - tH) / 2;
+
+    // Background & table — NO border line (bug fix: remove strokeRect)
+    this.add.rectangle(W / 2, H / 2, W, H, 0x0a0a1a);
+    this.add.rectangle(W / 2, H / 2, tW, tH, 0x0e2d1e).setAlpha(0.95);
+
+    // Center line & net marker
+    this.add.rectangle(W / 2, H / 2, tW, 2, 0x00ff88).setAlpha(0.35);
+    this.add.rectangle(W / 2, H / 2, 4, tH * 0.06, 0xffffff).setAlpha(0.9);
+
+    // Very faint lane lines (no outer border)
+    const lg = this.add.graphics();
+    lg.lineStyle(1, 0x00ff88, 0.10);
+    lg.lineBetween(tL + tW * 0.333, tT, tL + tW * 0.333, tT + tH);
+    lg.lineBetween(tL + tW * 0.667, tT, tL + tW * 0.667, tT + tH);
+
+    // Effect layers (below ball)
+    this.trailGfx = this.add.graphics();
+    this.impactGfx = this.add.graphics();
+
+    // Paddles — scale so visual radius = PADDLE_R
+    const SCALE = this.PADDLE_R / 20;
+    this.player = this.add.image(W / 2, tT + tH * 0.84, "playerPaddle")
+      .setOrigin(0.5, 22 / 64)
+      .setScale(SCALE);
+    this.ai = this.add.image(W / 2, tT + tH * 0.16, "aiPaddle")
+      .setOrigin(0.5, 40 / 64)
+      .setScale(SCALE);
+
+    // Ball
+    this.ball = this.physics.add.image(W / 2, H / 2, "ball");
+    this.ball.setCircle(12);
+    this.ball.setBounce(1, 1);
+    this.ball.setCollideWorldBounds(false);
+    this.ball.setDepth(10);
+
+    // Particles
+    this.particles = this.add.particles(0, 0, "particle", {
+      speed: { min: 70, max: 200 },
+      scale: { start: 1.0, end: 0 },
+      lifespan: 320,
+      quantity: 10,
+      emitting: false,
+    });
+    this.particles.setDepth(20);
+
+    // Score
+    this.scoreTxt = this.add.text(W / 2, tT - 28, "0 : 0", {
+      fontSize: "22px",
+      fontFamily: "monospace",
+      color: "#ffffff",
+    }).setOrigin(0.5).setDepth(30);
+
+    // Feature 3: tap-to-serve hint text
+    this.serveTxt = this.add.text(W / 2, H / 2, "TAP  /  SPACE", {
+      fontSize: "13px",
+      fontFamily: "monospace",
+      color: "#00ff88",
+    }).setOrigin(0.5).setAlpha(0.85).setDepth(30).setVisible(false);
+
+    // Input
+    this.cursors = this.input.keyboard!.createCursorKeys();
+    this.wasd = {
+      up:    this.input.keyboard!.addKey(Phaser.Input.Keyboard.KeyCodes.W),
+      down:  this.input.keyboard!.addKey(Phaser.Input.Keyboard.KeyCodes.S),
+      left:  this.input.keyboard!.addKey(Phaser.Input.Keyboard.KeyCodes.A),
+      right: this.input.keyboard!.addKey(Phaser.Input.Keyboard.KeyCodes.D),
+    };
+    this.spaceKey = this.input.keyboard!.addKey(Phaser.Input.Keyboard.KeyCodes.SPACE);
+
+    this.input.on("pointerdown", (p: Phaser.Input.Pointer) => {
+      this.touchX = p.x; this.touchY = p.y;
+      if (this.waitingForServe) this.launchBall();
+    });
+    this.input.on("pointermove", (p: Phaser.Input.Pointer) => {
+      if (p.isDown) { this.touchX = p.x; this.touchY = p.y; }
+    });
+    this.input.on("pointerup", () => { this.touchX = -1; this.touchY = -1; });
+
+    // AI difficulty
+    const cfgs = {
+      easy:   { speed: 210, error: 65 },
+      medium: { speed: 330, error: 30 },
+      hard:   { speed: 480, error: 8 },
+    };
+    const cfg = cfgs[this.difficulty] ?? cfgs.medium;
+    this.aiSpeed = cfg.speed;
+    this.aiError = cfg.error;
+
+    this.data.set("tL", tL);
+    this.data.set("tT", tT);
+    this.data.set("tW", tW);
+    this.data.set("tH", tH);
+
+    this.playerPrevX = W / 2;
+    this.playerPrevY = tT + tH * 0.84;
+
+    // Delay then show serve prompt (no auto-launch)
+    this.time.delayedCall(500, () => { if (!this.gameOver) this.serve(); });
+  }
+
+  // Position ball and wait for player input (feature 3 – tap to serve)
+  private serve() {
+    const W = this.scale.width;
+    const tT: number = this.data.get("tT");
+    const tH: number = this.data.get("tH");
+
+    this.playerServes = Math.random() > 0.5;
+    this.trailPositions = [];
+    this.serving = true;
+    this.hitCooldown = 0;
+    this.ball.setVelocity(0, 0);
+    this.ball.setScale(1, 1);
+    this.ball.setPosition(W / 2, this.playerServes ? tT + tH * 0.72 : tT + tH * 0.28);
+
+    // Show blinking "tap to serve" text
+    this.waitingForServe = true;
+    this.tweens.killTweensOf(this.serveTxt);
+    this.serveTxt.setPosition(W / 2, this.ball.y + (this.playerServes ? 48 : -48));
+    this.serveTxt.setAlpha(0.85);
+    this.serveTxt.setVisible(true);
+    this.tweens.add({
+      targets: this.serveTxt,
+      alpha: { from: 0.85, to: 0.15 },
+      duration: 550,
+      yoyo: true,
+      repeat: -1,
+    });
+  }
+
+  private launchBall() {
+    if (!this.waitingForServe || this.gameOver) return;
+    this.waitingForServe = false;
+    this.serving = false;
+    this.tweens.killTweensOf(this.serveTxt);
+    this.serveTxt.setVisible(false);
+    this.serveTxt.setAlpha(0.85);
+    this.rallyCount = 0;
+    this.hitCooldown = 0;
+
+    const angle = Phaser.Math.Between(-38, 38);
+    const dirY = this.playerServes ? -1 : 1;
+    const vx = Math.sin(Phaser.Math.DegToRad(angle)) * this.ballSpeed;
+    const vy = dirY * Math.cos(Phaser.Math.DegToRad(angle)) * this.ballSpeed;
+    this.applyVelocity(vx, vy);
+  }
+
+  // Feature 7: Hit feedback
+  private onHit(x: number, y: number, color: number) {
+    this.particles.setPosition(x, y);
+    this.particles.setParticleTint(color);
+    this.particles.explode(10);
+    this.impacts.push({ x, y, age: 0, color });
+    // Feature 7: reduced shake (was 0.006 / 70ms → 0.003 / 50ms to prevent jitter feel)
+    this.cameras.main.shake(50, 0.003);
+  }
+
+  // Feature 6 & 9: Clamp speed, ensure min Y velocity
+  private applyVelocity(vx: number, vy: number) {
+    // 9. Prevent too-horizontal shots
+    if (Math.abs(vy) < this.MIN_Y_SPEED) {
+      vy = vy >= 0 ? this.MIN_Y_SPEED : -this.MIN_Y_SPEED;
+    }
+    // 6. Max speed cap
+    const speed = Math.sqrt(vx * vx + vy * vy);
+    if (speed > this.MAX_SPEED) {
+      const s = this.MAX_SPEED / speed;
+      vx *= s;
+      vy *= s;
+    }
+    this.ball.setVelocity(vx, vy);
+  }
+
+  private scorePoint(playerScored: boolean) {
+    const W = this.scale.width;
+    const tT: number = this.data.get("tT");
+    const tH: number = this.data.get("tH");
+
+    if (playerScored) {
+      this.playerScore++;
+      this.onHit(W / 2, tT + tH * 0.15, 0x00d4ff);
+    } else {
+      this.aiScore++;
+      this.onHit(W / 2, tT + tH * 0.85, 0xe83030);
+    }
+
+    this.scoreTxt.setText(`${this.playerScore} : ${this.aiScore}`);
+
+    const pWin = this.playerScore >= this.WIN_SCORE && (this.playerScore - this.aiScore) >= 2;
+    const aWin = this.aiScore >= this.WIN_SCORE && (this.aiScore - this.playerScore) >= 2;
+    if (pWin || aWin) {
+      this.gameOver = true;
+      this.ball.setVelocity(0, 0);
+      this.time.delayedCall(800, () => { this.onGameEnd(pWin, this.playerScore, this.aiScore); });
+      return;
+    }
+
+    this.serving = true;
+    this.waitingForServe = false;
+    this.ball.setVelocity(0, 0);
+    this.ball.setScale(1, 1);
+    this.trailPositions = [];
+    this.ball.setPosition(W / 2, tT + tH * 0.5);
+    this.time.delayedCall(500, () => { if (!this.gameOver) this.serve(); });
+  }
+
+  update(_time: number, delta: number) {
+    if (this.gameOver) return;
+
+    const tL: number = this.data.get("tL");
+    const tT: number = this.data.get("tT");
+    const tW: number = this.data.get("tW");
+    const tH: number = this.data.get("tH");
+    const R = this.PADDLE_R;
+    const HR = this.HITBOX_R;
+    const dt = delta / 1000;
+    const SPEED = 520;
+
+    // Hit cooldown tick
+    if (this.hitCooldown > 0) this.hitCooldown -= delta;
+
+    // Space bar to serve
+    if (this.waitingForServe && Phaser.Input.Keyboard.JustDown(this.spaceKey)) {
+      this.launchBall();
+    }
+
+    // ─── Trail ───────────────────────────────────────────────────────
+    if (!this.serving && !this.waitingForServe) {
+      this.trailPositions.push({ x: this.ball.x, y: this.ball.y });
+      if (this.trailPositions.length > this.TRAIL_LEN) this.trailPositions.shift();
+    }
+
+    this.trailGfx.clear();
+    for (let i = 0; i < this.trailPositions.length; i++) {
+      const t = i / this.trailPositions.length;
+      const alpha = t * 0.5;
+      const r = 5 + t * 7;
+      const pos = this.trailPositions[i];
+      this.trailGfx.fillStyle(0xffffff, alpha);
+      this.trailGfx.fillCircle(pos.x, pos.y, r);
+    }
+
+    // ─── Impact lines ─────────────────────────────────────────────────
+    this.impactGfx.clear();
+    this.impacts = this.impacts.filter(imp => imp.age < this.IMPACT_DUR);
+    for (const imp of this.impacts) {
+      const t = imp.age / this.IMPACT_DUR;
+      const alpha = (1 - t) * 0.85;
+      const startR = 15 + t * 8;
+      const endR = startR + 10 + t * 14;
+      const lineW = 2 - t * 1.2;
+      this.impactGfx.lineStyle(Math.max(0.5, lineW), imp.color, alpha);
+      for (let a = 0; a < 6; a++) {
+        const ang = (a / 6) * Math.PI * 2;
+        this.impactGfx.lineBetween(
+          imp.x + Math.cos(ang) * startR,
+          imp.y + Math.sin(ang) * startR,
+          imp.x + Math.cos(ang) * endR,
+          imp.y + Math.sin(ang) * endR,
+        );
+      }
+      imp.age += delta;
+    }
+
+    if (this.serving || this.waitingForServe) return;
+
+    // ─── Paddle velocity tracking (feature 4 momentum) ────────────────
+    // Calculate before moving, so we capture last-frame velocity
+    this.playerVelX = (this.player.x - this.playerPrevX) / Math.max(dt, 0.001);
+    this.playerVelY = (this.player.y - this.playerPrevY) / Math.max(dt, 0.001);
+
+    // ─── Player movement ──────────────────────────────────────────────
+    if (this.cursors.left.isDown || this.wasd.left.isDown) {
+      this.player.x = Math.max(tL + R, this.player.x - SPEED * dt);
+    }
+    if (this.cursors.right.isDown || this.wasd.right.isDown) {
+      this.player.x = Math.min(tL + tW - R, this.player.x + SPEED * dt);
+    }
+    if (this.cursors.up.isDown || this.wasd.up.isDown) {
+      this.player.y = Math.max(tT + tH * 0.52 + R, this.player.y - SPEED * dt);
+    }
+    if (this.cursors.down.isDown || this.wasd.down.isDown) {
+      this.player.y = Math.min(tT + tH - R, this.player.y + SPEED * dt);
+    }
+
+    // Feature 3 & 10: Touch with smoothing + slight prediction
+    if (this.touchX >= 0 && this.touchY >= 0) {
+      const dx = this.touchX - this.player.x;
+      const dy = this.touchY - this.player.y;
+      // Feature 10: predict slightly ahead (extrapolate 10% of delta toward target)
+      const predX = this.touchX + dx * 0.10;
+      const predY = this.touchY + dy * 0.10;
+      const tx = Phaser.Math.Clamp(predX, tL + R, tL + tW - R);
+      const ty = Phaser.Math.Clamp(predY, tT + tH * 0.52 + R, tT + tH - R);
+      // Feature 3: lerp smoothing (0.40 = slightly smoother than before)
+      this.player.x = Phaser.Math.Linear(this.player.x, tx, 0.40);
+      this.player.y = Phaser.Math.Linear(this.player.y, ty, 0.40);
+    }
+
+    // Save position for next-frame velocity calculation
+    this.playerPrevX = this.player.x;
+    this.playerPrevY = this.player.y;
+
+    // ─── AI movement ──────────────────────────────────────────────────
+    const predictX = this.ball.x + (Math.random() - 0.5) * this.aiError;
+    const predictY = this.ball.y + (Math.random() - 0.5) * this.aiError * 0.4;
+    const aiDX = predictX - this.ai.x;
+    const aiDY = predictY - this.ai.y;
+    const aiDist = Math.sqrt(aiDX * aiDX + aiDY * aiDY);
+    if (aiDist > 2) {
+      const aiMove = Math.min(this.aiSpeed * dt, aiDist);
+      this.ai.x = Phaser.Math.Clamp(this.ai.x + (aiDX / aiDist) * aiMove, tL + R, tL + tW - R);
+      this.ai.y = Phaser.Math.Clamp(this.ai.y + (aiDY / aiDist) * aiMove, tT + R, tT + tH * 0.48 - R);
+    }
+
+    // ─── Ball boundaries ──────────────────────────────────────────────
+    const bx = this.ball.x;
+    const by = this.ball.y;
+    const br = 12;
+
+    if (bx - br < tL || bx + br > tL + tW) {
+      this.scorePoint(by < tT + tH * 0.5);
+      return;
+    }
+    if (by - br < tT) { this.scorePoint(true); return; }
+    if (by + br > tT + tH) { this.scorePoint(false); return; }
+
+    // Skip collision checks during cooldown (flickering fix)
+    if (this.hitCooldown > 0) return;
+
+    const curVy = this.ball.body!.velocity.y;
+    const curVx = this.ball.body!.velocity.x;
+
+    // ─── Collision: Player ────────────────────────────────────────────
+    if (curVy > 0) {
+      const dxP = bx - this.player.x;
+      const dyP = by - this.player.y;
+      if (Math.sqrt(dxP * dxP + dyP * dyP) < HR + br) {
+        this.rallyCount++;
+
+        // Feature 1: 4.5% acceleration per rally, capped at 1.7×
+        const baseSpeed = this.ballSpeed * Math.min(1 + this.rallyCount * 0.045, 1.70);
+
+        // Feature 2: angle from hit position on paddle (left/right)
+        const hitFrac = Phaser.Math.Clamp(dxP / HR, -1, 1);
+        const angle = hitFrac * 60;
+
+        // Feature 11: edge boost — faster at paddle edges
+        const edgeFactor = 1 + Math.abs(hitFrac) * 0.15;
+        const speed = baseSpeed * edgeFactor;
+
+        // Feature 5: ±2.5° random bounce
+        const randAngle = angle + Phaser.Math.FloatBetween(-2.5, 2.5);
+
+        let newVx = Math.sin(Phaser.Math.DegToRad(randAngle)) * speed;
+        let newVy = -Math.abs(Math.cos(Phaser.Math.DegToRad(randAngle)) * speed);
+
+        // Feature 4: paddle momentum spin
+        // paddle moving up (playerVelY < 0) → adds upward boost to return
+        newVy += this.playerVelY * 0.20;
+        newVx += this.playerVelX * 0.10;
+
+        // Ensure ball moves away from player paddle (must go up)
+        if (newVy > -60) newVy = -60;
+
+        // Push ball cleanly out of hitbox
+        this.ball.y = this.player.y - HR - br - 2;
+        this.applyVelocity(newVx, newVy);
+
+        // Feature 12: squash-stretch on hit
+        this.ball.setScale(1.4, 0.65);
+        this.tweens.add({
+          targets: this.ball,
+          scaleX: 1,
+          scaleY: 1,
+          duration: 130,
+          ease: "Back.Out",
+        });
+
+        this.hitCooldown = this.HIT_COOLDOWN_MS;
+        this.onHit(bx, by, 0xcc1515);
+      }
+    }
+
+    // ─── Collision: AI ────────────────────────────────────────────────
+    if (curVy < 0) {
+      const dxA = bx - this.ai.x;
+      const dyA = by - this.ai.y;
+      if (Math.sqrt(dxA * dxA + dyA * dyA) < HR + br) {
+        this.rallyCount++;
+
+        const baseSpeed = this.ballSpeed * Math.min(1 + this.rallyCount * 0.045, 1.70);
+        const hitFrac = Phaser.Math.Clamp(dxA / HR, -1, 1);
+        const angle = hitFrac * 60;
+        const edgeFactor = 1 + Math.abs(hitFrac) * 0.15;
+        const speed = baseSpeed * edgeFactor;
+        const randAngle = angle + Phaser.Math.FloatBetween(-2.5, 2.5);
+
+        let newVx = Math.sin(Phaser.Math.DegToRad(randAngle)) * speed;
+        let newVy = Math.abs(Math.cos(Phaser.Math.DegToRad(randAngle)) * speed);
+
+        // Ensure ball moves away from AI paddle (must go down)
+        if (newVy < 60) newVy = 60;
+
+        // Push ball cleanly out of hitbox
+        this.ball.y = this.ai.y + HR + br + 2;
+        this.applyVelocity(newVx, newVy);
+
+        // Feature 12: squash-stretch
+        this.ball.setScale(1.4, 0.65);
+        this.tweens.add({
+          targets: this.ball,
+          scaleX: 1,
+          scaleY: 1,
+          duration: 130,
+          ease: "Back.Out",
+        });
+
+        this.hitCooldown = this.HIT_COOLDOWN_MS;
+        this.onHit(bx, by, 0x2080e8);
+      }
+    }
+
+    // Suppress unused variable warning (curVx used for momentum via playerVelX)
+    void curVx;
+  }
+}
+
+// ─── React wrapper ─────────────────────────────────────────────────────────
+export default function PhaserGame({ difficulty, onGameEnd }: Props) {
+  const containerRef = useRef<HTMLDivElement>(null);
+  const gameRef = useRef<Phaser.Game | null>(null);
+
+  useEffect(() => {
+    if (!containerRef.current) return;
+    const scene = new PingPongScene();
+    scene.onGameEnd = onGameEnd;
+    scene.difficulty = difficulty;
+
+    gameRef.current = new Phaser.Game({
+      type: Phaser.AUTO,
+      width: containerRef.current.clientWidth || 400,
+      height: containerRef.current.clientHeight || 600,
+      backgroundColor: "#0a0a1a",
+      parent: containerRef.current,
+      physics: { default: "arcade", arcade: { gravity: { x: 0, y: 0 }, debug: false } },
+      scene,
+      scale: { mode: Phaser.Scale.RESIZE, autoCenter: Phaser.Scale.CENTER_BOTH },
+      input: { activePointers: 2 },
+    });
+
+    return () => { gameRef.current?.destroy(true); gameRef.current = null; };
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
+
+  return <div ref={containerRef} className="w-full h-full" />;
+}
