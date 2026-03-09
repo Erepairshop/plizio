@@ -1096,6 +1096,43 @@ export const G5_Generators = {
       }
       return q;
     }
+  },
+  grammar_g5: {
+    apostrophes_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const apostropheData = [
+        { correct: "The cat's tail is fluffy.", wrong: ["The cats tail is fluffy.", "The cats' tail is fluffy.", "The catsss tail is fluffy."] },
+        { correct: "The children's books are on the shelf.", wrong: ["The children books are on the shelf.", "The childrens books are on the shelf.", "The childs books are on the shelf."] },
+        { correct: "Sarah's pencil is red.", wrong: ["Sarahs pencil is red.", "Sarah pencil is red.", "Sarah's' pencil is red."] },
+        { correct: "The dogs' barking was loud.", wrong: ["The dogs barking was loud.", "The dogs's barking was loud.", "The dog's barking was loud."] }
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(apostropheData, rng);
+        q.push(createMCQ("grammar_g5", "apostrophes_g5", "Which sentence uses apostrophes correctly?", data.correct, data.wrong));
+      }
+      return q;
+    },
+    correlative_conj_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const corrData = [
+        { pair: "either...or", sentence: "___ you like apples ___ you like oranges.", wrong: ["neither...nor", "both...and", "not only...but also"] },
+        { pair: "neither...nor", sentence: "___ John ___ Mary can come to the party.", wrong: ["either...or", "both...and", "not only...but also"] },
+        { pair: "both...and", sentence: "___ Sarah ___ Tom passed the test.", wrong: ["either...or", "neither...nor", "not only...but also"] },
+        { pair: "not only...but also", sentence: "He is ___ smart ___ hardworking.", wrong: ["either...or", "both...and", "neither...nor"] }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(5, rng)) {
+          const data = pick(corrData, rng);
+          q.push(createMCQ("grammar_g5", "correlative_conj_g5", `Fill in: "${data.sentence}"`, data.pair, data.wrong));
+        } else {
+          const data = pick(corrData, rng);
+          q.push(createTyping("grammar_g5", "correlative_conj_g5", `Name a correlative conjunction pair:`, pick(["either...or", "neither...nor", "both...and"], rng)));
+        }
+      }
+      return q;
+    }
   }
 };
 
@@ -1199,6 +1236,44 @@ export const G6_Generators = {
           const analogySet = pick(analogyData, rng);
           q.push(createTyping("vocab_g6", "analogies_g6",
             analogySet.analogy, analogySet.answer));
+        }
+      }
+      return q;
+    }
+  },
+  grammar_g6: {
+    articles_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const articleData = [
+        { correct: "I saw a movie and an apple.", wrong: ["I saw a movie and a apple.", "I saw an movie and an apple.", "I saw the movie and the apple."] },
+        { correct: "The teacher gave the class their homework.", wrong: ["A teacher gave a class their homework.", "An teacher gave an class their homework.", "The teacher gave a class their homework."] },
+        { correct: "She is an engineer and a musician.", wrong: ["She is a engineer and a musician.", "She is the engineer and the musician.", "She is an engineer and an musician."] }
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(articleData, rng);
+        q.push(createMCQ("grammar_g6", "articles_g6", "Which sentence uses articles correctly?", data.correct, data.wrong));
+      }
+      return q;
+    },
+    clauses_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const clauseData = [
+        { type: "dependent", example: "because it was raining", id: "dep1" },
+        { type: "dependent", example: "when she arrived", id: "dep2" },
+        { type: "independent", example: "The dog barked loudly", id: "ind1" },
+        { type: "independent", example: "He studied all night", id: "ind2" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(6, rng)) {
+          const clause = pick(clauseData, rng);
+          const typeLabel = clause.type === "independent" ? "INDEPENDENT" : "DEPENDENT";
+          const wrong = clauseData.filter(c => c.type !== clause.type).map(c => c.type).slice(0, 3);
+          q.push(createMCQ("grammar_g6", "clauses_g6", `Is this an ${typeLabel} clause? "${clause.example}"`, clause.type, wrong));
+        } else {
+          const clause = pick(clauseData, rng);
+          q.push(createTyping("grammar_g6", "clauses_g6", "Name a type of clause: independent or dependent:", pick(["independent", "dependent"], rng)));
         }
       }
       return q;
@@ -1314,6 +1389,38 @@ export const G7_Generators = {
       }
       return q;
     }
+  },
+  punctuation_g7: {
+    dashes_hyphens_g7: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const dashData = [
+        { correct: "She wanted to go—but decided to stay.", meaning: "em dash for emphasis" },
+        { correct: "The well-known author arrived.", meaning: "hyphen in compound adjective" },
+        { correct: "The following items—books, pens, and paper—were on sale.", meaning: "em dashes for appositive" },
+        { correct: "My twenty-three-year-old sister is a teacher.", meaning: "hyphens in compound numbers" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(dashData, rng);
+        const wrong = dashData.filter(d => d !== data).map(d => d.correct).slice(0, 3);
+        q.push(createMCQ("punctuation_g7", "dashes_hyphens_g7", "Which uses dashes/hyphens correctly?", data.correct, wrong));
+      }
+      return q;
+    },
+    commas_phrases_g7: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const commaData = [
+        { correct: "Feeling tired, she went to bed early.", wrong: ["Feeling tired she went to bed early.", "Feeling, tired she went to bed early.", "Feeling tired, she went, to bed early."] },
+        { correct: "Standing on the corner, we waited for the bus.", wrong: ["Standing on the corner we waited for the bus.", "Standing, on the corner we waited for the bus.", "Standing on the corner, we, waited for the bus."] },
+        { correct: "The student, having finished her work, left early.", wrong: ["The student having finished her work left early.", "The student, having finished her work left early.", "The student having finished, her work, left early."] }
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(commaData, rng);
+        q.push(createMCQ("punctuation_g7", "commas_phrases_g7", "Which uses commas with phrases correctly?", data.correct, data.wrong));
+      }
+      return q;
+    }
   }
 };
 
@@ -1409,6 +1516,65 @@ export const G8_Generators = {
           const sentSet = pick(sentenceData, rng);
           q.push(createTyping("vocab_g8", "context_clues_advanced_g8", sentSet.sentence, sentSet.answer));
         }
+      }
+      return q;
+    }
+  },
+  grammar_g8: {
+    dashes_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const dashData = [
+        { correct: "The author—known for his wit—published a new book.", wrong: ["The author—known for his wit published a new book.", "The author known for his wit—published a new book.", "The author—known for his wit—published, a new book."] },
+        { correct: "She wanted three things—honesty, loyalty, and respect.", wrong: ["She wanted three things—honesty loyalty and respect.", "She wanted three things: honesty, loyalty, and respect.", "She wanted three things,—honesty, loyalty, and respect."] },
+        { correct: "The storm—which lasted for hours—caused damage.", wrong: ["The storm which lasted for hours caused damage.", "The storm—which lasted for hours caused damage.", "The storm, which lasted for hours, caused damage."] }
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(dashData, rng);
+        q.push(createMCQ("grammar_g8", "dashes_g8", "Which uses em dashes correctly?", data.correct, data.wrong));
+      }
+      return q;
+    },
+    active_passive_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const voiceData = [
+        { active: "The scientist discovered a new element.", passive: "A new element was discovered by the scientist." },
+        { active: "The chef prepared a delicious meal.", passive: "A delicious meal was prepared by the chef." },
+        { active: "The committee approved the proposal.", passive: "The proposal was approved by the committee." }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const voice = pick(voiceData, rng);
+          const isActive = rng() > 0.5;
+          const sent = isActive ? voice.active : voice.passive;
+          const type = isActive ? "active" : "passive";
+          q.push(createMCQ("grammar_g8", "active_passive_g8", `Identify the voice: "${sent}"`, type, ["active", "passive"].filter(v => v !== type)));
+        } else {
+          const voice = pick(voiceData, rng);
+          const isActive = rng() > 0.5;
+          const sent = isActive ? voice.active : voice.passive;
+          const type = isActive ? "active" : "passive";
+          q.push(createTyping("grammar_g8", "active_passive_g8", `Is this active or passive? "${sent}"`, type));
+        }
+      }
+      return q;
+    }
+  },
+  punctuation_g8: {
+    semicolons_colons_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const data = [
+        { correct: "She had many talents: singing, dancing, and painting.", rule: "colon before a list" },
+        { correct: "He studied for hours; therefore, he passed the test.", rule: "semicolon between independent clauses" },
+        { correct: "The schedule was as follows: Monday at 10, Tuesday at 2.", rule: "colon introducing a series" },
+        { correct: "I bought groceries; she cooked dinner.", rule: "semicolon joining independent clauses" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        const item = pick(data, rng);
+        const wrong = data.filter(d => d !== item).map(d => d.correct).slice(0, 3);
+        q.push(createMCQ("punctuation_g8", "semicolons_colons_g8", "Which sentence uses semicolons/colons correctly?", item.correct, wrong));
       }
       return q;
     }
