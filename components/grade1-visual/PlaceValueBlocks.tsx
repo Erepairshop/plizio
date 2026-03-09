@@ -3,32 +3,117 @@
 import React, { useState } from 'react';
 
 interface Props {
-  /** A szám amit vizuálisan megjelenítünk (pl. 47) */
   number: number;
-  /** Mit kérdezünk: "tens" = hány tízes van, "ones" = hány egyes, "total" = mi a szám */
   question: 'tens' | 'ones' | 'total';
   embedded?: boolean;
   onValueChange?: (val: string) => void;
   onAnswer?: (correct: boolean) => void;
 }
 
-// Tízesek = hosszú pálcika (10 pöttyből), egyesek = kis pötty
-// Pl. 47 = 4 pálcika + 7 pötty
-//
-// Válasz formátum: szám stringként
-// question="tens" → correctAnswer = String(Math.floor(number / 10))   pl. "4"
-// question="ones" → correctAnswer = String(number % 10)               pl. "7"
-// question="total" → correctAnswer = String(number)                   pl. "47"
-//
-// Vizuálisan:
-// - Bal oldalon: tízesek (függőleges téglalap, 10 kicsi kör benne)
-// - Jobb oldalon: egyesek (kicsi körök)
-// - Szín: tízesek #00D4FF (neon-blue), egyesek #00FF88 (neon-green)
-// - Input mező alul
+const PlaceValueBlocks: React.FC<Props> = ({ 
+  number, 
+  question, 
+  embedded = false, 
+  onValueChange, 
+  onAnswer 
+}) => {
+  const [userInput, setUserInput] = useState('');
+  const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
 
-const PlaceValueBlocks: React.FC<Props> = ({ number, question, embedded = false, onValueChange, onAnswer }) => {
-  // TODO
-  return <div>PlaceValueBlocks — TODO</div>;
+  const tens = Math.floor(number / 10);
+  const ones = number % 10;
+
+  const getCorrectAnswer = () => {
+    if (question === 'tens') return String(tens);
+    if (question === 'ones') return String(ones);
+    return String(number);
+  };
+
+  const handleChange = (val: string) => {
+    const cleanVal = val.replace(/\D/g, ''); // Csak számok
+    setUserInput(cleanVal);
+    onValueChange?.(cleanVal);
+
+    if (!embedded) {
+      const correct = getCorrectAnswer();
+      if (cleanVal === correct) {
+        setIsCorrect(true);
+        onAnswer?.(true);
+      } else if (cleanVal.length >= correct.length) {
+        setIsCorrect(false);
+        onAnswer?.(false);
+      } else {
+        setIsCorrect(null);
+      }
+    }
+  };
+
+  const labelMap = {
+    tens: 'Hány tízes (oszlop) van?',
+    ones: 'Hány egyes (kocka) van?',
+    total: 'Melyik szám ez?'
+  };
+
+  return (
+    <div className={`flex flex-col items-center gap-8 w-full ${embedded ? 'p-2' : 'p-8 bg-[#1a1a2e] rounded-3xl shadow-xl'}`}>
+      
+      {/* Vizuális Megjelenítés */}
+      <div className="flex items-end gap-12 min-h-[160px] p-6 bg-[#0f0f1e] rounded-2xl border border-white/5 shadow-inner">
+        
+        {/* Tízesek szekció (Oszlopok) */}
+        <div className="flex gap-2">
+          {[...Array(tens)].map((_, i) => (
+            <div 
+              key={`ten-${i}`} 
+              className="w-5 h-32 bg-[#00D4FF]/20 border-2 border-[#00D4FF] rounded-sm flex flex-col justify-between p-[1px] shadow-[0_0_10px_rgba(0,212,255,0.3)]"
+            >
+              {[...Array(10)].map((_, dot) => (
+                <div key={dot} className="w-full h-[10%] border-b border-[#00D4FF]/30 last:border-0" />
+              ))}
+            </div>
+          ))}
+          {tens === 0 && <div className="h-32 w-1 border-l border-white/5" />}
+        </div>
+
+        {/* Egyesek szekció (Kockák) */}
+        <div className="grid grid-cols-2 gap-2 h-fit">
+          {[...Array(ones)].map((_, i) => (
+            <div 
+              key={`one-${i}`} 
+              className="w-5 h-5 bg-[#00FF88]/20 border-2 border-[#00FF88] rounded-sm shadow-[0_0_8px_rgba(0,255,136,0.3)]"
+            />
+          ))}
+        </div>
+      </div>
+
+      {/* Input Szekció */}
+      <div className="flex flex-col items-center gap-3">
+        {!embedded && (
+          <label className="text-white/50 text-[10px] uppercase tracking-[0.2em] font-bold text-center">
+            {labelMap[question]}
+          </label>
+        )}
+        
+        <input
+          type="text"
+          inputMode="numeric"
+          placeholder="?"
+          value={userInput}
+          onChange={(e) => handleChange(e.target.value)}
+          className={`
+            w-24 text-center text-3xl font-mono py-2 bg-[#2a2a4a] border-2 rounded-xl text-white outline-none transition-all
+            ${(!embedded && isCorrect === true) ? 'border-green-500 shadow-[0_0_15px_rgba(34,197,94,0.4)]' : 
+              (!embedded && isCorrect === false) ? 'border-red-500 shadow-[0_0_15px_rgba(239,68,68,0.4)]' : 
+              'border-white/10 focus:border-[#00D4FF]'}
+          `}
+        />
+
+        {!embedded && isCorrect && (
+          <span className="text-[#00FF88] text-xs font-bold uppercase tracking-widest">Szuper! ✨</span>
+        )}
+      </div>
+    </div>
+  );
 };
 
 export default PlaceValueBlocks;
