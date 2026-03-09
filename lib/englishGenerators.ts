@@ -1663,6 +1663,55 @@ export const G7_Generators = {
       }
       return q;
     }
+  },
+  literature_g7: {
+    cause_effect_g7: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const causeEffectData = [
+        { cause: "Because it was raining", effect: "we stayed indoors", relationship: "cause-effect" },
+        { cause: "Since she studied hard", effect: "she passed the test", relationship: "cause-effect" },
+        { cause: "As a result of the accident", effect: "the road was closed", relationship: "cause-effect" },
+        { cause: "Due to the snow", effect: "school was cancelled", relationship: "cause-effect" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(7, rng)) {
+          const data = pick(causeEffectData, rng);
+          const wrong = ["purpose", "comparison", "contrast"];
+          q.push(createMCQ("literature_g7", "cause_effect_g7",
+            `What is the relationship: "${data.cause}" and "${data.effect}"?`, data.relationship, wrong));
+        } else {
+          const data = pick(causeEffectData, rng);
+          q.push(createTyping("literature_g7", "cause_effect_g7",
+            `Identify: "${data.cause}" then "${data.effect}"`, data.relationship));
+        }
+      }
+      return q;
+    },
+    clause_types_g7: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const clauseData = [
+        { text: "Although it was late, he continued working.", type: "concessive" },
+        { text: "If you study, you will succeed.", type: "conditional" },
+        { text: "Since she left, nothing has been the same.", type: "temporal" },
+        { text: "Unless you call ahead, we cannot reserve a table.", type: "conditional" },
+        { text: "While he was reading, she was cooking.", type: "temporal" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(7, rng)) {
+          const data = pick(clauseData, rng);
+          const wrong = clauseData.filter(c => c.type !== data.type).map(c => c.type).slice(0, 3);
+          q.push(createMCQ("literature_g7", "clause_types_g7",
+            `What type of clause? "${data.text}"`, data.type, wrong));
+        } else {
+          const data = pick(clauseData, rng);
+          q.push(createTyping("literature_g7", "clause_types_g7",
+            `Identify clause type: "${data.text}"`, data.type));
+        }
+      }
+      return q;
+    }
   }
 };
 
@@ -1790,6 +1839,28 @@ export const G8_Generators = {
         }
       }
       return q;
+    },
+    academic_vocab_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const wordData = [
+        { word: "paradigm", meaning: "a typical example or pattern", context: "Kuhn introduced a new ___ in science." },
+        { word: "facilitate", meaning: "to make easier", context: "Technology can ___ communication." },
+        { word: "pragmatic", meaning: "practical and realistic", context: "We need a ___ approach to solve this problem." },
+        { word: "inherent", meaning: "built-in or natural", context: "There is an ___ risk in any investment." },
+        { word: "synthesize", meaning: "to combine parts into a whole", context: "The researcher will ___ the findings." }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(wordData, rng);
+          const wrong = ["irrelevant", "temporal", "hypothetical"].slice(0, 3);
+          q.push(createMCQ("vocab_g8", "academic_vocab_g8", `What does '${data.word}' mean?`, data.meaning, wrong));
+        } else {
+          const data = pick(wordData, rng);
+          q.push(createTyping("vocab_g8", "academic_vocab_g8", `Define '${data.word}':`, data.meaning));
+        }
+      }
+      return q;
     }
   },
   grammar_g8: {
@@ -1847,6 +1918,32 @@ export const G8_Generators = {
         const item = pick(data, rng);
         const wrong = data.filter(d => d !== item).map(d => d.correct).slice(0, 3);
         q.push(createMCQ("punctuation_g8", "semicolons_colons_g8", "Which sentence uses semicolons/colons correctly?", item.correct, wrong));
+      }
+      return q;
+    }
+  },
+  literature_g8: {
+    allusion_irony_g8: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const literaryData = [
+        { text: "He is a real Sherlock Holmes.", type: "allusion", example: "reference to detective" },
+        { text: "The traffic was moving at a snail's pace.", type: "irony", example: "metaphor for slowness" },
+        { text: "She said 'What wonderful weather!' during a thunderstorm.", type: "irony", example: "opposite meaning" },
+        { text: "He's a regular Romeo when it comes to romance.", type: "allusion", example: "reference to lover" },
+        { text: "The prison guard was a real humanitarian.", type: "irony", example: "sarcastic" }
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(8, rng)) {
+          const data = pick(literaryData, rng);
+          const wrong = ["metaphor", "simile", "hyperbole"].slice(0, 3);
+          q.push(createMCQ("literature_g8", "allusion_irony_g8",
+            `Is this allusion or irony? "${data.text}"`, data.type, wrong));
+        } else {
+          const data = pick(literaryData, rng);
+          q.push(createTyping("literature_g8", "allusion_irony_g8",
+            `Identify: "${data.text}"`, data.type));
+        }
       }
       return q;
     }
