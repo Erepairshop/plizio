@@ -27,7 +27,9 @@ import {
   qFunctionValue, qYIntercept,
   qNextInSequence, qMissingInEquation,
   wpShelfRows, wpClassGroups, wpBuyMultiple, wpFruitTotal, wpCollectionDiff,
-  wpDrinksPerWeek, qOrderOfOpsReminder,
+  wpDrinksPerWeek, wpContainerFill, wpBottleTotal,
+  wpBudgetLeft, wpTwoItemsCost, wpFenceLength,
+  qOrderOfOpsReminder,
   qNextEven, qNextOdd, qIsEvenOrOdd,
   qClockFullHour, qClockMinutes, qClockHalfPast, qClockQuarterPast,
   qG1ClockQuarter, qG1NumberLine, qG1PlaceValueTens, qG1PlaceValueOnes, qG1PlaceValueTotal,
@@ -698,12 +700,20 @@ const G4: Record<string, Generator> = {
       () => { const l = randInt(2, 5); return q(qLiterToMl(l, cc), l * 1000, t("unitConversion", cc)); },
     ])();
   },
-  volumeWord: (cc) => {
-    // Ensure integer liter result: cups=2 → 3500ml=3.5L (bad), cups=4 → 7000ml=7L (good)
-    const cups = pick([4, 8]); const ml = 250;
-    const totalMlWeek = cups * ml * 7;
-    return q(wpDrinksPerWeek(cups, ml, cc), totalMlWeek / 1000, t("volumeUnits", cc), 0, true);
-  },
+  volumeWord: (cc) => pick([
+    () => {
+      const cups = pick([4, 8]); const ml = 250;
+      return q(wpDrinksPerWeek(cups, ml, cc), cups * ml * 7 / 1000, t("volumeUnits", cc), 0, true);
+    },
+    () => {
+      const total = pick([10, 15, 20]); const filled = pick([3, 5, 7]);
+      return q(wpContainerFill(total, filled, cc), total - filled, t("volumeUnits", cc), 0, true);
+    },
+    () => {
+      const bottles = pick([4, 6, 8]); const mlEach = pick([500, 250]);
+      return q(wpBottleTotal(bottles, mlEach, cc), bottles * mlEach / 1000, t("volumeUnits", cc), 0, true);
+    },
+  ])(),
   sequence: (cc) => {
     const type = pick(["add", "mul"]);
     if (type === "mul") {
@@ -717,20 +727,21 @@ const G4: Record<string, Generator> = {
     const seq = [start, start + step, start + 2 * step, start + 3 * step];
     return q(qNextInSequence(seq.join(" → "), cc), start + 4 * step, t("numberSequence", cc));
   },
-  word1: (cc) => {
-    const b = pick([3, 4, 5, 6]); const r = randInt(4, 8);
-    return q(wpClassGroups(b * r, b, cc), r, t("wordProblem", cc), 0, true);
-  },
-  word2: (cc) => {
-    const items = getItems(cc); const cur = getCurrency(cc);
-    const price = randInt(12, 30); const cnt = randInt(2, 5);
-    return q(wpBuyMultiple(items.notebook, price, cnt, cur, cc), price * cnt, t("wordProblem", cc), 0, true);
-  },
-  word3: (cc) => {
-    const items = getItems(cc);
-    const d = pick([2, 3, 4, 5]); const r = randInt(3, 8);
-    return q(wpShare(d * r, d, r, items.candy, cc), r, t("wordProblem", cc), 0, true);
-  },
+  word1: (cc) => pick([
+    () => { const b = pick([3, 4, 5, 6]); const r = randInt(4, 8); return q(wpClassGroups(b * r, b, cc), r, t("wordProblem", cc), 0, true); },
+    () => { const rows = pick([3, 4, 5]); const perRow = randInt(4, 9); return q(wpShelfRows(rows, perRow, getItems(cc).book, cc), rows * perRow, t("wordProblem", cc), 0, true); },
+    () => { const cnt = randInt(2, 5); const price = randInt(8, 20); return q(wpBuyMultiple(getItems(cc).pencil, price, cnt, getCurrency(cc), cc), price * cnt, t("wordProblem", cc), 0, true); },
+  ])(),
+  word2: (cc) => pick([
+    () => { const items = getItems(cc); const cur = getCurrency(cc); const price = randInt(12, 30); const cnt = randInt(2, 5); return q(wpBuyMultiple(items.notebook, price, cnt, cur, cc), price * cnt, t("wordProblem", cc), 0, true); },
+    () => { const items = getItems(cc); const cur = getCurrency(cc); const price = randInt(8, 20); const cnt = randInt(2, 5); return q(wpBuyMultiple(items.pencil, price, cnt, cur, cc), price * cnt, t("wordProblem", cc), 0, true); },
+    () => { const items = getItems(cc); const cur = getCurrency(cc); const price = randInt(3, 12); const cnt = randInt(3, 6); return q(wpBuyMultiple(items.eraser, price, cnt, cur, cc), price * cnt, t("wordProblem", cc), 0, true); },
+  ])(),
+  word3: (cc) => pick([
+    () => { const items = getItems(cc); const d = pick([2, 3, 4, 5]); const r = randInt(3, 8); return q(wpShare(d * r, d, r, items.candy, cc), r, t("wordProblem", cc), 0, true); },
+    () => { const items = getItems(cc); const d = pick([3, 4, 6]); const r = randInt(2, 6); return q(wpShare(d * r, d, r, items.book, cc), r, t("wordProblem", cc), 0, true); },
+    () => { const b = pick([4, 5, 6]); const r = randInt(3, 7); return q(wpClassGroups(b * r, b, cc), r, t("wordProblem", cc), 0, true); },
+  ])(),
   fraction: (cc) => pick([
     () => q(qHowManyQuartersInWhole(cc), 4, t("fractions", cc)),
     () => q(qHowManyHalvesInWhole(cc), 2, t("fractions", cc)),
@@ -804,12 +815,11 @@ const G4: Record<string, Generator> = {
       () => { const km = randInt(2, 5); return q(qKmToM(km, cc), km * 1000, t("unitConversion", cc)); },
     ])();
   },
-  unitLengthsWord: (cc) => {
-    const laps = randInt(2, 5);
-    const distPerLap = pick([500, 1000, 2000]);
-    const totalDist = laps * distPerLap;
-    return q(qRunnerLaps(distPerLap, totalDist, cc), laps, t("wordProblem", cc), 0, true);
-  },
+  unitLengthsWord: (cc) => pick([
+    () => { const laps = randInt(2, 5); const distPerLap = pick([500, 1000, 2000]); return q(qRunnerLaps(distPerLap, laps * distPerLap, cc), laps, t("wordProblem", cc), 0, true); },
+    () => { const a = randInt(4, 12), b = randInt(3, 10); return q(wpFenceLength(a, b, cc), 2 * (a + b), t("wordProblem", cc), 0, true); },
+    () => { const km = randInt(2, 6); const m = randInt(1, 9) * 100; return q(`${km} km und ${m} m = ? m`, km * 1000 + m, t("unitConversion", cc)); },
+  ])(),
   circleBasics: (cc) => pick([
     () => { const r = randInt(2, 8); return q(qCircleCircumference(r, cc), Math.round(2 * Math.PI * r), t("geometry", cc)); },
     () => { const r = randInt(2, 8); return q(qCircleArea(r, cc), Math.round(Math.PI * r * r), t("geometry", cc)); },
@@ -851,11 +861,23 @@ const G4: Record<string, Generator> = {
     () => { const min = pick([60, 120, 180]); return q(qMinutesToHours(min, cc), min / 60, t("timeCalc", cc)); },
   ])(),
   // Grade 4 money word problems
-  moneyWord: (cc) => {
-    const items = getItems(cc); const cur = getCurrency(cc);
-    const price = randInt(2, 15); const paid = price + randInt(1, 10);
-    return q(qChangeBack(items.notebook, price, paid, cur, cc), paid - price, t("wordProblem", cc), 0, true);
-  },
+  moneyWord: (cc) => pick([
+    () => {
+      const items = getItems(cc); const cur = getCurrency(cc);
+      const price = randInt(2, 15); const paid = price + randInt(1, 10);
+      return q(qChangeBack(items.notebook, price, paid, cur, cc), paid - price, t("wordProblem", cc), 0, true);
+    },
+    () => {
+      const cur = getCurrency(cc);
+      const budget = pick([10, 15, 20]); const price = randInt(3, budget - 2);
+      return q(wpBudgetLeft(budget, price, cur, cc), budget - price, t("wordProblem", cc), 0, true);
+    },
+    () => {
+      const cur = getCurrency(cc);
+      const p1 = randInt(3, 8), p2 = randInt(2, 6);
+      return q(wpTwoItemsCost(p1, p2, cur, cc), p1 + p2, t("wordProblem", cc), 0, true);
+    },
+  ])(),
 };
 
 // ─── GRADE 5 GENERATORS ─────────────────────────────

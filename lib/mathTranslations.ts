@@ -1349,6 +1349,61 @@ export function wpDrinksPerWeek(cups: number, mlPerCup: number, countryCode: str
   }
 }
 
+// Volume word — variant B: container fill remaining
+export function wpContainerFill(total: number, filled: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Eimer fasst ${total} l. Es sind bereits ${filled} l drin. Wie viele Liter fehlen noch bis er voll ist?`;
+    case "EN": return `A bucket holds ${total} l. It already has ${filled} l in it. How many more litres are needed to fill it?`;
+    case "RO": return `O găleată ține ${total} l. Deja are ${filled} l înăuntru. Câți litri mai lipsesc?`;
+    default:   return `Egy vödör ${total} l-t bír. Már ${filled} l van benne. Mennyi kell még, hogy tele legyen?`;
+  }
+}
+
+// Volume word — variant C: bottles total in litres
+export function wpBottleTotal(bottles: number, mlEach: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${bottles} Flaschen, jede ${mlEach} ml. Wie viele Liter sind das insgesamt?`;
+    case "EN": return `${bottles} bottles, each ${mlEach} ml. How many litres in total?`;
+    case "RO": return `${bottles} sticle, fiecare ${mlEach} ml. Câți litri sunt în total?`;
+    default:   return `${bottles} üveg, mindegyik ${mlEach} ml. Összesen hány liter?`;
+  }
+}
+
+// Money word — variant B: budget remaining after purchase
+export function wpBudgetLeft(budget: number, price: number, currency: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Du hast ${budget} ${currency}. Du kaufst ein Heft für ${price} ${currency}. Wie viel Geld hast du noch?`;
+    case "EN": return `You have ${budget} ${currency}. You buy a notebook for ${price} ${currency}. How much money do you have left?`;
+    case "RO": return `Ai ${budget} ${currency}. Cumperi un caiet pentru ${price} ${currency}. Cât îți mai rămâne?`;
+    default:   return `${budget} ${currency}-d van. Veszel egy füzetet ${price} ${currency}-ért. Mennyi marad?`;
+  }
+}
+
+// Money word — variant C: two items total cost
+export function wpTwoItemsCost(price1: number, price2: number, currency: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Buch kostet ${price1} ${currency}, ein Lineal ${price2} ${currency}. Was kosten beide zusammen?`;
+    case "EN": return `A book costs ${price1} ${currency}, a ruler costs ${price2} ${currency}. How much do both cost together?`;
+    case "RO": return `O carte costă ${price1} ${currency}, o riglă ${price2} ${currency}. Cât costă ambele împreună?`;
+    default:   return `Egy könyv ${price1} ${currency}, egy vonalzó ${price2} ${currency}. Mennyibe kerül a kettő együtt?`;
+  }
+}
+
+// Lengths word — variant B: fence perimeter
+export function wpFenceLength(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Garten ist ${a} m lang und ${b} m breit. Wie viele Meter Zaun braucht man, um ihn einzuzäunen?`;
+    case "EN": return `A garden is ${a} m long and ${b} m wide. How many metres of fencing are needed to go around it?`;
+    case "RO": return `O grădină are ${a} m lungime și ${b} m lățime. Câți metri de gard sunt necesari?`;
+    default:   return `Egy kert ${a} m hosszú és ${b} m széles. Hány méter kerítés kell köré?`;
+  }
+}
+
 // ─── NUMBER WALL / ZAHLENMAUER / SZÁMPIRAMIS ─────────────────────────────
 // Pyramid: each brick = sum of two below. Bottom row given, ask for top.
 
