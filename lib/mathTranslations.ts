@@ -121,6 +121,13 @@ const topicNames: Record<Lang, Record<string, string>> = {
     g1Laenger: "hosszabb / rövidebb",
     g1Wochentage: "napok",
     g1PlaceValue20: "tízes és egyes (11–20)",
+    g1Spatial: "térbeli irányok",
+    g1Weight: "súly összehasonlítás",
+    g1Volume: "térfogat összehasonlítás",
+    g1Pattern: "minta folytatás",
+    g1NumberOrder: "számok sorrendje",
+    g1DataTable: "adatok olvasása",
+    g1VisualCount: "vizuális számolás",
     statistics: "statisztika",
     volume: "térfogat",
     rounding10: "kerekítés 10-esre",
@@ -217,6 +224,13 @@ const topicNames: Record<Lang, Record<string, string>> = {
     g1Laenger: "länger / kürzer",
     g1Wochentage: "Wochentage",
     g1PlaceValue20: "Zehner und Einer (11–20)",
+    g1Spatial: "Richtungen",
+    g1Weight: "Gewicht vergleichen",
+    g1Volume: "Mengen vergleichen",
+    g1Pattern: "Muster fortsetzen",
+    g1NumberOrder: "Zahlen ordnen",
+    g1DataTable: "Daten lesen",
+    g1VisualCount: "Mengen erkennen",
     statistics: "Statistik",
     volume: "Volumen",
     rounding10: "Runden auf Zehner",
@@ -313,6 +327,13 @@ const topicNames: Record<Lang, Record<string, string>> = {
     g1Laenger: "longer / shorter",
     g1Wochentage: "days of the week",
     g1PlaceValue20: "tens and ones (11–20)",
+    g1Spatial: "directions",
+    g1Weight: "weight comparison",
+    g1Volume: "volume comparison",
+    g1Pattern: "pattern continuation",
+    g1NumberOrder: "number ordering",
+    g1DataTable: "reading data",
+    g1VisualCount: "visual counting",
     statistics: "statistics",
     volume: "volume",
     rounding10: "rounding to 10",
@@ -409,6 +430,13 @@ const topicNames: Record<Lang, Record<string, string>> = {
     g1Laenger: "mai lung / mai scurt",
     g1Wochentage: "zilele săptămânii",
     g1PlaceValue20: "zeci și unități (11–20)",
+    g1Spatial: "direcții spațiale",
+    g1Weight: "comparare greutăți",
+    g1Volume: "comparare volume",
+    g1Pattern: "continuarea tiparului",
+    g1NumberOrder: "ordonarea numerelor",
+    g1DataTable: "citirea datelor",
+    g1VisualCount: "numărare vizuală",
     statistics: "statistică",
     volume: "volum",
     rounding10: "rotunjire la 10",
@@ -1855,6 +1883,81 @@ export function qG1Wochentage(i: number, countryCode: string): { question: strin
     default:   question = `Melyik nap jön ${day} után?`;
   }
   return { question, answer: nextDay };
+}
+
+// Spatial directions (opposite direction questions)
+export function qG1Spatial(dir: string, opposite: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const dirNames: Record<Lang, Record<string, string>> = {
+    HU: { oben: "fent", unten: "lent", links: "balra", rechts: "jobbra", vorne: "előtt", hinten: "mögött" },
+    DE: { oben: "oben", unten: "unten", links: "links", rechts: "rechts", vorne: "vorne", hinten: "hinten" },
+    EN: { oben: "above", unten: "below", links: "left", rechts: "right", vorne: "in front", hinten: "behind" },
+    RO: { oben: "deasupra", unten: "dedesubt", links: "stânga", rechts: "dreapta", vorne: "în față", hinten: "în spate" },
+  };
+  const d = dirNames[lang][dir] || dir;
+  switch (lang) {
+    case "DE": return `Was ist das Gegenteil von „${d}"?`;
+    case "EN": return `What is the opposite of "${d}"?`;
+    case "RO": return `Care este opusul lui „${d}"?`;
+    default:   return `Mi az ellentéte: „${d}"?`;
+  }
+}
+
+// Weight comparison
+export function qG1Weight(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Was ist schwerer: ${a} kg oder ${b} kg?`;
+    case "EN": return `Which is heavier: ${a} kg or ${b} kg?`;
+    case "RO": return `Care este mai greu: ${a} kg sau ${b} kg?`;
+    default:   return `Melyik nehezebb: ${a} kg vagy ${b} kg?`;
+  }
+}
+
+// Volume comparison
+export function qG1Volume(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Welcher Behälter fasst mehr: einer mit ${a} l oder einer mit ${b} l?`;
+    case "EN": return `Which container holds more: one with ${a} l or one with ${b} l?`;
+    case "RO": return `Care recipient ține mai mult: unul cu ${a} l sau unul cu ${b} l?`;
+    default:   return `Melyik tartályba fér több: ${a} l-es vagy ${b} l-es?`;
+  }
+}
+
+// Pattern continuation
+export function qG1Pattern(seq: string[], countryCode: string): string {
+  const lang = getLang(countryCode);
+  const shown = seq.join(" ");
+  switch (lang) {
+    case "DE": return `Setze das Muster fort: ${shown} — Was kommt als nächstes?`;
+    case "EN": return `Continue the pattern: ${shown} — What comes next?`;
+    case "RO": return `Continuă tiparul: ${shown} — Ce urmează?`;
+    default:   return `Folytasd a mintát: ${shown} — Mi jön ezután?`;
+  }
+}
+
+// Number ordering
+export function qG1NumberOrder(nums: number[], countryCode: string): string {
+  const lang = getLang(countryCode);
+  const shown = nums.join(", ");
+  switch (lang) {
+    case "DE": return `Ordne die Zahlen von klein nach groß: ${shown} → ? (Antwort z.B. 2,5,8)`;
+    case "EN": return `Order from smallest to largest: ${shown} → ? (e.g. 2,5,8)`;
+    case "RO": return `Ordonează crescător: ${shown} → ? (ex. 2,5,8)`;
+    default:   return `Rendezd növekvő sorrendbe: ${shown} → ? (pl. 2,5,8)`;
+  }
+}
+
+// Simple data reading (instead of table)
+export function qG1DataTable(a: number, b: number, itemA: string, itemB: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `In einer Tüte sind ${a} ${itemA} und ${b} ${itemB}. Wie viele sind es insgesamt?`;
+    case "EN": return `In a bag: ${a} ${itemA} and ${b} ${itemB}. How many in total?`;
+    case "RO": return `Într-o pungă: ${a} ${itemA} și ${b} ${itemB}. Câte sunt în total?`;
+    default:   return `Egy zacskóban: ${a} ${itemA} és ${b} ${itemB}. Összesen hány?`;
+  }
 }
 
 // Rounding
