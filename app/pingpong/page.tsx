@@ -210,6 +210,7 @@ function PingPongPage() {
   const [scoreSubmitted, setScoreSubmitted] = useState(false);
   const broadcastChannelRef = useRef<RealtimeChannel | null>(null);
   const oppPaddleXRef = useRef(0.5);
+  const oppPaddleYRef = useRef(AI_Y_DEFAULT);
 
   // Canvas ref
   const canvasRef = useRef<HTMLCanvasElement>(null);
@@ -292,6 +293,10 @@ function PingPongPage() {
     channel.on("broadcast", { event: "paddlePos" }, (payload) => {
       if (payload.payload.p !== playerNum) {
         oppPaddleXRef.current = payload.payload.x;
+        // Flip Y coordinate: opponent's bottom (y≈0.88) becomes our top (y≈0.12)
+        if (payload.payload.y !== undefined) {
+          oppPaddleYRef.current = 1 - payload.payload.y;
+        }
       }
     });
 
@@ -656,6 +661,8 @@ function PingPongPage() {
       if (isMultiplayer) {
         // In multiplayer, AI side is controlled by opponent
         game.aiX += (oppPaddleXRef.current - game.aiX) * Math.min(1, 0.3 * dt);
+        game.aiY += (oppPaddleYRef.current - game.aiY) * Math.min(1, 0.3 * dt);
+        game.aiY = Math.max(AI_Y_MIN, Math.min(AI_Y_MAX, game.aiY));
       } else {
         if (!game.serving || !game.playerServes) {
           const predictedX = game.balls[0].vy < 0
@@ -686,7 +693,7 @@ function PingPongPage() {
           broadcastChannelRef.current.send({
             type: "broadcast",
             event: "paddlePos",
-            payload: { p: playerNum, x: game.playerX },
+            payload: { p: playerNum, x: game.playerX, y: game.playerY },
           });
         }
       }
