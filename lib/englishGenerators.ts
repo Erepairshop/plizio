@@ -240,6 +240,30 @@ export const G1_Generators = {
 
 export const G2_Generators = {
   pos_g2: {
+    pronouns_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const pronounData = [
+        { pronoun: "myself", type: "reflexive", sentences: ["I hurt ___ yesterday.", "I talked to ___ in the mirror."] },
+        { pronoun: "yourself", type: "reflexive", sentences: ["You did that ___.", "Did you introduce ___ to him?"] },
+        { pronoun: "himself", type: "reflexive", sentences: ["He cleaned ___ up.", "He told ___ a story."] },
+        { pronoun: "herself", type: "reflexive", sentences: ["She enjoyed ___ at the party.", "She is proud of ___."] },
+        { pronoun: "itself", type: "reflexive", sentences: ["The cat licked ___ clean.", "The dog hurt ___."] },
+        { pronoun: "ourselves", type: "reflexive", sentences: ["We taught ___ to swim.", "We prepared ___ for the test."] },
+        { pronoun: "themselves", type: "reflexive", sentences: ["They enjoyed ___ very much.", "They helped ___ out."] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(2, rng)) {
+          const pronSet = pick(pronounData, rng);
+          const wrong = pronounData.filter(p => p.pronoun !== pronSet.pronoun).map(p => p.pronoun).slice(0, 3);
+          const sentence = pick(pronSet.sentences, rng);
+          q.push(createMCQ("pos_g2", "pronouns_g2", `Fill in: "${sentence}"`, pronSet.pronoun, wrong));
+        } else {
+          q.push(createTyping("pos_g2", "pronouns_g2", "Name a reflexive pronoun:", pick(pronounData, rng).pronoun));
+        }
+      }
+      return q;
+    },
     nouns_g2: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
@@ -284,6 +308,31 @@ export const G2_Generators = {
           q.push(createMCQ("pos_g2", "adjectives_g2", "Which is an ADJECTIVE?", adj, wrong));
         } else {
           q.push(createTyping("pos_g2", "adjectives_g2", "Name a describing word:", pick(adjs, rng)));
+        }
+      }
+      return q;
+    },
+    simple_compound_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { text: "I like cats.", type: "simple" },
+        { text: "She plays soccer.", type: "simple" },
+        { text: "The dog barked.", type: "simple" },
+        { text: "I like cats, and she likes dogs.", type: "compound" },
+        { text: "He can play guitar, but I play piano.", type: "compound" },
+        { text: "We went to the park, so we had fun.", type: "compound" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(2, rng)) {
+          const sentSet = pick(sentenceData, rng);
+          const wrong = sentenceData.filter(s => s.type !== sentSet.type).map(s => s.type).slice(0, 3);
+          const typeLabel = sentSet.type === "simple" ? "SIMPLE" : "COMPOUND";
+          q.push(createMCQ("sentences_g2", "simple_compound_g2",
+            `Is this a ${typeLabel} sentence? "${sentSet.text}"`, sentSet.type, wrong));
+        } else {
+          q.push(createTyping("sentences_g2", "simple_compound_g2",
+            "Name a type of sentence:", pick(["simple", "compound"], rng)));
         }
       }
       return q;
@@ -357,6 +406,35 @@ export const G3_Generators = {
       }
       return q;
     },
+    verb_tenses_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const verbData = [
+        { verb: "go", past: "went", future: "will go", present: "goes" },
+        { verb: "eat", past: "ate", future: "will eat", present: "eats" },
+        { verb: "play", past: "played", future: "will play", present: "plays" },
+        { verb: "run", past: "ran", future: "will run", present: "runs" },
+        { verb: "see", past: "saw", future: "will see", present: "sees" },
+        { verb: "make", past: "made", future: "will make", present: "makes" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(3, rng)) {
+          const verbSet = pick(verbData, rng);
+          const tenseKey = pick(["past", "future", "present"], rng);
+          const tenseValue = verbSet[tenseKey as keyof typeof verbSet];
+          const tenseLabels = { past: "PAST", future: "FUTURE", present: "PRESENT" };
+          const wrongTenses = (["past", "future", "present"] as const).filter(t => t !== tenseKey).map(t => verbSet[t]).slice(0, 3);
+          q.push(createMCQ("pos_g3", "verb_tenses_g3",
+            `Which is the ${tenseLabels[tenseKey as keyof typeof tenseLabels]} tense of '${verbSet.verb}'?`, tenseValue, wrongTenses));
+        } else {
+          const verbSet = pick(verbData, rng);
+          const tenseKey = pick(["past", "future", "present"], rng);
+          const answer = verbSet[tenseKey as keyof typeof verbSet];
+          q.push(createTyping("pos_g3", "verb_tenses_g3", `Write the ${tenseKey} tense of '${verbSet.verb}':`, answer));
+        }
+      }
+      return q;
+    },
     verbs_past_g3: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
       const q: CurriculumQuestion[] = [];
@@ -369,6 +447,86 @@ export const G3_Generators = {
         } else {
           const [base, past] = pick(verbs, rng);
           q.push(createTyping("pos_g3", "verbs_past_g3", `Write the past tense of '${base}':`, past));
+        }
+      }
+      return q;
+    },
+    adj_comparative_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const adjData = [
+        { adj: "big", comparative: "bigger", superlative: "biggest" },
+        { adj: "small", comparative: "smaller", superlative: "smallest" },
+        { adj: "fast", comparative: "faster", superlative: "fastest" },
+        { adj: "slow", comparative: "slower", superlative: "slowest" },
+        { adj: "hot", comparative: "hotter", superlative: "hottest" },
+        { adj: "cold", comparative: "colder", superlative: "coldest" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(3, rng)) {
+          const adjSet = pick(adjData, rng);
+          const formType = pick(["comparative", "superlative"], rng);
+          const formValue = adjSet[formType as keyof typeof adjSet];
+          const otherForm = formType === "comparative" ? adjSet.superlative : adjSet.comparative;
+          const formLabel = formType === "comparative" ? "COMPARATIVE" : "SUPERLATIVE";
+          q.push(createMCQ("pos_g3", "adj_comparative_g3",
+            `Which is the ${formLabel} form of '${adjSet.adj}'?`, formValue, [otherForm, adjSet.adj, "more " + adjSet.adj]));
+        } else {
+          const adjSet = pick(adjData, rng);
+          const formType = pick(["comparative", "superlative"], rng);
+          const answer = adjSet[formType as keyof typeof adjSet];
+          q.push(createTyping("pos_g3", "adj_comparative_g3", `Write the ${formType} of '${adjSet.adj}':`, answer));
+        }
+      }
+      return q;
+    },
+    adverbs_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const advData = [
+        { adverb: "quickly", adjective: "quick", sentence: "She ran ___." },
+        { adverb: "slowly", adjective: "slow", sentence: "He walked ___." },
+        { adverb: "loudly", adjective: "loud", sentence: "She spoke ___." },
+        { adverb: "happily", adjective: "happy", sentence: "They played ___." },
+        { adverb: "carefully", adjective: "careful", sentence: "She drove ___." },
+        { adverb: "easily", adjective: "easy", sentence: "He won ___." },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(3, rng)) {
+          const advSet = pick(advData, rng);
+          const wrong = advData.filter(a => a.adverb !== advSet.adverb).map(a => a.adverb).slice(0, 3);
+          q.push(createMCQ("pos_g3", "adverbs_g3",
+            `Fill in: "${advSet.sentence}"`, advSet.adverb, wrong));
+        } else {
+          const advSet = pick(advData, rng);
+          q.push(createTyping("pos_g3", "adverbs_g3", `Form an adverb from '${advSet.adjective}':`, advSet.adverb));
+        }
+      }
+      return q;
+    }
+  },
+  sentences_g3: {
+    simple_compound_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { text: "The cat sat on the mat.", type: "simple" },
+        { text: "She walked to school.", type: "simple" },
+        { text: "I like apples, and she likes oranges.", type: "compound" },
+        { text: "We went to the park, but it was rainy.", type: "compound" },
+        { text: "He studied hard, so he passed the test.", type: "compound" },
+        { text: "The dog ran fast.", type: "simple" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(3, rng)) {
+          const sentSet = pick(sentenceData, rng);
+          const typeLabel = sentSet.type === "simple" ? "SIMPLE" : "COMPOUND";
+          const wrong = sentenceData.filter(s => s.type !== sentSet.type).map(s => s.type).slice(0, 3);
+          q.push(createMCQ("sentences_g3", "simple_compound_g3",
+            `Is this a ${typeLabel} or compound sentence? "${sentSet.text}"`, sentSet.type, wrong));
+        } else {
+          q.push(createTyping("sentences_g3", "simple_compound_g3",
+            "Name a sentence type:", pick(["simple", "compound"], rng)));
         }
       }
       return q;
@@ -491,6 +649,33 @@ export const G5_Generators = {
           q.push(createTyping("syntax_g5", "complex_sentences_g5",
             "Write a complex sentence using 'because':",
             ["I eat because I am hungry", "Because I am hungry"]));
+        }
+      }
+      return q;
+    },
+    commas_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const commaData = [
+        { text: "I like apples, oranges, and bananas.", rule: "items in a list", correct: true },
+        { text: "I like apples oranges and bananas.", rule: "items in a list", correct: false },
+        { text: "On Monday, we went to the park.", rule: "intro clause", correct: true },
+        { text: "On Monday we went to the park.", rule: "intro clause", correct: false },
+        { text: "She ran quickly, and he walked slowly.", rule: "joining clauses", correct: true },
+        { text: "She ran quickly and he walked slowly.", rule: "joining clauses", correct: false },
+      ];
+      for (let i = 0; i < 30; i++) {
+        if (isMCQ(5, rng)) {
+          const commaSet = pick(commaData, rng);
+          const correctAnswer = commaSet.correct ? "correct" : "incorrect";
+          const wrong = commaData.filter(c => c.correct !== commaSet.correct).map(c => c.correct ? "correct" : "incorrect").slice(0, 3);
+          q.push(createMCQ("syntax_g5", "commas_g5",
+            `Is this comma usage correct? "${commaSet.text}"`, correctAnswer, wrong));
+        } else {
+          const commaSet = pick(commaData, rng);
+          const answer = commaSet.correct ? "correct" : "incorrect";
+          q.push(createTyping("syntax_g5", "commas_g5",
+            `Is comma usage here correct or incorrect? "${commaSet.text}"`, answer));
         }
       }
       return q;
