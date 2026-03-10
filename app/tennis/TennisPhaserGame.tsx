@@ -492,22 +492,23 @@ class TennisScene extends Phaser.Scene {
   private setupInput() {
     this.cursors = this.input.keyboard!.createCursorKeys();
 
+    // Touch direction: tap LEFT of player → move left, tap RIGHT → move right
+    // This works regardless of where on screen the player is positioned
+    const getTouchDir = (px: number): -1 | 0 | 1 => {
+      if (px < this.playerX - 15) return -1;
+      if (px > this.playerX + 15) return 1;
+      return 0;
+    };
+
     this.input.on("pointermove", (p: Phaser.Input.Pointer) => {
       if (!p.isDown) return;
-      // Big touch zones: left 40% = move left, right 40% = move right (middle 20% = neutral)
-      const zone = p.x / GW;
-      if (zone < 0.4) this.touchDir = -1;
-      else if (zone > 0.6) this.touchDir = 1;
-      else this.touchDir = 0;
+      this.touchDir = getTouchDir(p.x);
     });
     this.input.on("pointerdown", (p: Phaser.Input.Pointer) => {
       // Track swipe start for swipe smash detection
       this.swipeStartY = p.y;
       this.swipeStartTime = this.time.now;
-      const zone = p.x / GW;
-      if (zone < 0.4) this.touchDir = -1;
-      else if (zone > 0.6) this.touchDir = 1;
-      else this.touchDir = 0;
+      this.touchDir = getTouchDir(p.x);
     });
     this.input.on("pointerup", (p: Phaser.Input.Pointer) => {
       this.touchDir = 0;
@@ -767,6 +768,9 @@ class TennisScene extends Phaser.Scene {
           const t = disc > 0 ? (-bvy + Math.sqrt(disc)) / gravity : 0.25;
           const predictedX = this.ball.x + bvx * Math.min(t, 0.8);
           this.aiTargetX = Phaser.Math.Clamp(predictedX + errorOffset, AI_MIN_X, AI_MAX_X);
+        } else {
+          // Ball on player's side → return to ready position (center of AI half)
+          this.aiTargetX = GW * 0.72;
         }
         this.aiTargetTimer = 300;
       }
