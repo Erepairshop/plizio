@@ -217,43 +217,87 @@ class SquashScene extends Phaser.Scene {
     const g = this.courtGfx;
     g.clear();
 
-    // Court floor
-    g.fillStyle(0x0a1f0a, 1);
-    g.fillRect(this.WL, this.FWY, this.WR - this.WL, this.BY - this.FWY);
+    const { WL, WR, FWY, BY, DANGER_Y } = this;
+    const cw   = WR - WL;
+    const ch   = BY - FWY;
+    const midY = FWY + ch * 0.55;
 
-    // Danger zone (lower 22%) — subtle red tint
-    g.fillStyle(0xff2d78, 0.04);
-    g.fillRect(this.WL, this.DANGER_Y, this.WR - this.WL, this.BY - this.DANGER_Y);
-    g.lineStyle(1, 0xff2d78, 0.20);
-    g.lineBetween(this.WL, this.DANGER_Y, this.WR, this.DANGER_Y);
+    // ── 1. FLOOR GRADIENT (top light → bottom dark via 16 strips) ──────────
+    const STRIPS = 16;
+    const sh = ch / STRIPS;
+    for (let i = 0; i < STRIPS; i++) {
+      const t   = i / (STRIPS - 1);          // 0 = top, 1 = bottom
+      const lum = Phaser.Math.Linear(0x1a, 0x08, t);  // 0x1a → 0x08
+      const col = (lum << 16) | (Math.round(lum * 1.9) << 8) | lum;
+      g.fillStyle(col, 1);
+      g.fillRect(WL, FWY + i * sh, cw, sh + 1); // +1 to avoid sub-pixel gap
+    }
 
-    // Service line
-    const midY = this.FWY + (this.BY - this.FWY) * 0.55;
-    g.lineStyle(1.5, 0x00ff88, 0.10);
-    g.lineBetween(this.WL, midY, this.WR, midY);
+    // ── 2. SIDE WALL BANDS (translucent inner vertical strips) ─────────────
+    const bandW = Math.round(cw * 0.045);
+    g.fillStyle(0x00ff88, 0.04);
+    g.fillRect(WL,        FWY, bandW, ch);
+    g.fillRect(WR - bandW, FWY, bandW, ch);
 
-    // Front wall (top)
-    g.lineStyle(14, 0x00ff88, 0.10);
-    g.lineBetween(this.WL, this.FWY, this.WR, this.FWY);
-    g.lineStyle(5, 0x00ff88, 1.0);
-    g.lineBetween(this.WL, this.FWY, this.WR, this.FWY);
+    // ── 3. DANGER ZONE RECTANGLE ───────────────────────────────────────────
+    g.fillStyle(0xff2d78, 0.07);
+    g.fillRect(WL, DANGER_Y, cw, BY - DANGER_Y);
+    // Danger zone top edge glow strip
+    g.fillStyle(0xff2d78, 0.18);
+    g.fillRect(WL, DANGER_Y - 1, cw, 3);
 
-    // Side walls
-    g.lineStyle(4, 0x00cc66, 0.65);
-    g.lineBetween(this.WL, this.FWY, this.WL, this.BY);
-    g.lineBetween(this.WR, this.FWY, this.WR, this.BY);
+    // ── 4. SERVICE LINE ────────────────────────────────────────────────────
+    g.lineStyle(1, 0x00ff88, 0.12);
+    g.lineBetween(WL, midY, WR, midY);
 
-    // Floor line
-    g.lineStyle(3, 0x336633, 0.45);
-    g.lineBetween(this.WL, this.BY, this.WR, this.BY);
+    // ── 5. FRONT WALL — glow halo + bright line + shadow strip below ───────
+    // Wide diffuse halo
+    g.lineStyle(18, 0x00ff88, 0.07);
+    g.lineBetween(WL, FWY, WR, FWY);
+    // Medium soft glow
+    g.lineStyle(9, 0x00ff88, 0.18);
+    g.lineBetween(WL, FWY, WR, FWY);
+    // Sharp bright line
+    g.lineStyle(2.5, 0x00ff88, 1.0);
+    g.lineBetween(WL, FWY, WR, FWY);
+    // Shadow strip below front wall (depth illusion)
+    g.fillStyle(0x000000, 0.18);
+    g.fillRect(WL, FWY + 1, cw, 8);
 
-    this.add.text(this.WL + 6, this.FWY - 18, "FRONT WALL", {
-      fontSize: "9px", color: "#00ff8866", fontFamily: "monospace", fontStyle: "bold",
+    // ── 6. SIDE WALLS — bright line + inner shadow ─────────────────────────
+    // Outer bright edge
+    g.lineStyle(3, 0x00ee77, 0.80);
+    g.lineBetween(WL, FWY, WL, BY);
+    g.lineBetween(WR, FWY, WR, BY);
+    // Inner shadow strip for depth
+    g.fillStyle(0x000000, 0.12);
+    g.fillRect(WL + 3, FWY, 6, ch);
+    g.fillRect(WR - 9, FWY, 6, ch);
+
+    // ── 7. COURT FRAME BOTTOM — dimmer floor line ──────────────────────────
+    g.lineStyle(2, 0x224422, 0.55);
+    g.lineBetween(WL, BY, WR, BY);
+
+    // ── 8. LABELS ──────────────────────────────────────────────────────────
+    // Front wall label — icon + text
+    this.add.text(WL + bandW + 6, FWY - 20, "▲ FRONT WALL", {
+      fontSize: "8px", color: "#00ff8899",
+      fontFamily: "monospace", fontStyle: "bold",
+      stroke: "#00220022", strokeThickness: 2,
     }).setDepth(10);
 
-    this.add.text(this.WR - 8, this.DANGER_Y - 14, "+2 ZONE", {
-      fontSize: "8px", color: "#ff2d7855", fontFamily: "monospace", fontStyle: "bold",
+    // Danger zone label — icon + score hint
+    this.add.text(WR - bandW - 6, DANGER_Y - 16, "⚡ +2 ZONE", {
+      fontSize: "8px", color: "#ff2d78cc",
+      fontFamily: "monospace", fontStyle: "bold",
+      stroke: "#22000022", strokeThickness: 2,
     }).setOrigin(1, 0).setDepth(10);
+
+    // Service line label (faint, center)
+    this.add.text((WL + WR) / 2, midY + 3, "SERVICE LINE", {
+      fontSize: "7px", color: "#00ff8833",
+      fontFamily: "monospace",
+    }).setOrigin(0.5, 0).setDepth(10);
   }
 
   // ── updateLivesDisplay ────────────────────────────────────────────────────
