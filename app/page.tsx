@@ -90,7 +90,6 @@ const TRANSLATIONS = {
       pliziolife: "Plizio Life",
       pingpong: "Table Tennis",
       airhockey: "Air Hockey",
-      tennis: "Tennis",
       squash: "Squash Arcade",
     },
     ui: {
@@ -131,7 +130,6 @@ const TRANSLATIONS = {
       pliziolife: "Plizio Life",
       pingpong: "Asztalitenisz",
       airhockey: "Léghoki",
-      tennis: "Tenisz",
       squash: "Squash Arcade",
     },
     ui: {
@@ -172,7 +170,6 @@ const TRANSLATIONS = {
       pliziolife: "Plizio Life",
       pingpong: "Tischtennis",
       airhockey: "Air Hockey",
-      tennis: "Tennis",
       squash: "Squash Arcade",
     },
     ui: {
@@ -213,7 +210,6 @@ const TRANSLATIONS = {
       pliziolife: "Plizio Life",
       pingpong: "Tenis de masă",
       airhockey: "Air Hockey",
-      tennis: "Tenis",
       squash: "Squash Arcade",
     },
     ui: {
@@ -434,13 +430,6 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         gradient: "bg-gradient-to-br from-cyan-500/20 to-blue-500/20",
       },
       {
-        id: "tennis",
-        icon: CircleDot,
-        nameKey: "tennis",
-        color: "#FFD700",
-        gradient: "bg-gradient-to-br from-yellow-500/20 to-amber-500/20",
-      },
-      {
         id: "squash",
         icon: Swords,
         nameKey: "squash",
@@ -524,7 +513,7 @@ const GAME_TO_CATEGORY: Record<string, string> = {
   skyclimb: "adventure", citydrive: "adventure", racetrack: "adventure", pliziolife: "adventure",
   mathtest: "brain", deutschtest: "brain", englishtest: "brain",
   numberpath: "logic", minisudoku: "logic", lightout: "logic", numbermerge: "logic", nonogram: "logic", mazerush: "logic",
-  pingpong: "sport", airhockey: "sport", tennis: "sport",
+  pingpong: "sport", airhockey: "sport",
 };
 
 function getLastPlayedCategory(): string | null {
