@@ -34,11 +34,11 @@ class SquashScene extends Phaser.Scene {
   private readonly SPEED_PER_5 = 0.05;  // +5% speed every 5 paddle hits
 
   // ── Paddle constants ──────────────────────────────────────────────────────
-  private readonly PAD_W         = 110;
-  private readonly PAD_H         = 14;
-  private readonly PAD_LERP_KB   = 0.28;  // keyboard smoothing factor (per frame)
-  private readonly PAD_LERP_TCH  = 0.22;  // touch/mouse smoothing factor
-  private readonly PAD_MAX_SPEED = 640;   // px/s hard cap on paddle velocity
+  private readonly PAD_W         = 92;   // visual half-width (was 110, ~17% smaller)
+  private readonly PAD_H         = 12;   // visual height  (was 14, slightly slimmer)
+  private readonly PAD_HIT_W     = 115;  // hitbox half-width — larger than sprite
+  private readonly PAD_LERP      = 0.25;  // lerp factor: paddle.x → target (smooth following)
+  private readonly PAD_MAX_SPEED = 800;   // px/s hard speed cap (realistic + fair)
 
   // ── State objects ─────────────────────────────────────────────────────────
   private ball!:         Phaser.GameObjects.Arc;
@@ -56,7 +56,13 @@ class SquashScene extends Phaser.Scene {
   private padX       = 0;    // actual rendered paddle center
   private padTargetX = 0;    // desired position (driven by input)
   private padPrevX   = 0;    // previous frame position
-  private padVelX    = 0;    // measured paddle velocity (for spin)
+  private padVelX    = 0;    // measured paddle velocity (for spin + momentum)
+
+  // ── Paddle squish (hit feel) ───────────────────────────────────────────────
+  private padSquish       = 1.0;   // current width scale (1.0 = normal)
+  private squishElapsed   = 0;     // ms remaining in squish animation
+  private readonly SQUISH_DUR = 200;   // ms: total squish+return duration
+  private readonly SQUISH_AMT = 0.14;  // how much wider: 1.0 → 1.14 → 1.0
 
   // ── Ball state machine ────────────────────────────────────────────────────
   private ballState: BallState = "toward_wall";
@@ -345,28 +351,33 @@ class SquashScene extends Phaser.Scene {
     return this.MAX_ANGLE;
   }
 
-  // ── smoothPaddle — lerp movement with max-speed clamp ────────────────────
+  // ── smoothPaddle ─────────────────────────────────────────────────────────
+  // 1. Input drives padTargetX (keyboard: step, touch: direct)
+  // 2. padX = lerp(padX, padTargetX, 0.25)  ← smooth following, no jerking
+  // 3. Speed cap: padX can't move more than PAD_MAX_SPEED px/s per frame
+  // 4. Edge clamping: paddle never exits left/right walls
   private smoothPaddle(dt: number) {
-    const { WL, WR, PAD_W, PAD_LERP_KB, PAD_LERP_TCH, PAD_MAX_SPEED } = this;
+    const { WL, WR, PAD_W, PAD_LERP, PAD_MAX_SPEED } = this;
     const padMin = WL + PAD_W;
     const padMax = WR - PAD_W;
 
-    // Drive padTargetX via input
+    // ── 1. Drive target ───────────────────────────────────────────────────
     const kbStep = PAD_MAX_SPEED * dt;
     if (this.leftKey.isDown  || this.aKey.isDown)  this.padTargetX -= kbStep;
     if (this.rightKey.isDown || this.dKey.isDown)  this.padTargetX += kbStep;
-    if (this.touchX >= 0) {
-      this.padTargetX = Phaser.Math.Linear(this.padTargetX, this.touchX, PAD_LERP_TCH);
-    }
+    if (this.touchX >= 0) this.padTargetX = this.touchX;  // direct touch target
+
+    // ── 2. Edge clamp on target ───────────────────────────────────────────
     this.padTargetX = Phaser.Math.Clamp(this.padTargetX, padMin, padMax);
 
-    // Lerp actual padX toward target (keyboard uses faster lerp)
-    const lerpFactor = this.touchX >= 0 ? PAD_LERP_TCH : PAD_LERP_KB;
-    const newPadX = Phaser.Math.Linear(this.padX, this.padTargetX, lerpFactor);
+    // ── 3. Smooth lerp: paddle.x = lerp(paddle.x, target, 0.25) ──────────
+    const newPadX = Phaser.Math.Linear(this.padX, this.padTargetX, PAD_LERP);
 
-    // Clamp velocity so paddle can't teleport
+    // ── 4. Speed cap — prevents gap-jump on large pointer jumps ──────────
     const maxDelta = PAD_MAX_SPEED * dt;
     this.padX = Phaser.Math.Clamp(newPadX, this.padX - maxDelta, this.padX + maxDelta);
+
+    // ── 5. Hard edge clamp on actual position ─────────────────────────────
     this.padX = Phaser.Math.Clamp(this.padX, padMin, padMax);
   }
 
@@ -383,6 +394,13 @@ class SquashScene extends Phaser.Scene {
     this.smoothPaddle(dt);
     this.padVelX = (this.padX - this.padPrevX) / Math.max(dt, 0.001);
 
+    // ── Squish animation: peak on hit, decay linearly back to 1.0 ────────
+    if (this.squishElapsed > 0) {
+      this.squishElapsed = Math.max(0, this.squishElapsed - delta);
+      const t = this.squishElapsed / this.SQUISH_DUR;   // 1 → 0
+      this.padSquish = 1.0 + this.SQUISH_AMT * t;       // 1.14 → 1.0
+    }
+
     // ── Draw paddle (full visual: shadow, glow, body, highlights) ────────
     const { PAD_H, BY } = this;
     const padY     = BY - PAD_H - 6;
@@ -393,8 +411,8 @@ class SquashScene extends Phaser.Scene {
     this.hitWindowGfx.clear();
     if (isWindow) {
       this.hitWindowGfx.lineStyle(1.5, 0x00ff88, 0.28);
-      this.hitWindowGfx.lineBetween(this.padX - this.PAD_W, padY - 52, this.padX - this.PAD_W, padY);
-      this.hitWindowGfx.lineBetween(this.padX + this.PAD_W, padY - 52, this.padX + this.PAD_W, padY);
+      this.hitWindowGfx.lineBetween(this.padX - this.PAD_HIT_W, padY - 52, this.padX - this.PAD_HIT_W, padY);
+      this.hitWindowGfx.lineBetween(this.padX + this.PAD_HIT_W, padY - 52, this.padX + this.PAD_HIT_W, padY);
     }
 
     // ── SERVING PHASE ────────────────────────────────────────────────────
@@ -463,12 +481,12 @@ class SquashScene extends Phaser.Scene {
       // Moving upward
       this.ballState = "toward_wall";
     } else {
-      // Moving downward — check if inside strike zone
+      // Moving downward — check if inside strike zone (uses PAD_HIT_W, wider than sprite)
       const inZone = (
         this.by + BALL_R >= padTop - HIT_ZONE_H &&
         this.by - BALL_R <= padTop + PAD_H + 4 &&
-        this.bx + BALL_R >= this.padX - this.PAD_W &&
-        this.bx - BALL_R <= this.padX + this.PAD_W
+        this.bx + BALL_R >= this.padX - this.PAD_HIT_W &&
+        this.bx - BALL_R <= this.padX + this.PAD_HIT_W
       );
       this.ballState = inZone ? "hit_window" : "return";
     }
@@ -549,6 +567,9 @@ class SquashScene extends Phaser.Scene {
 
     this.by          = padTop - this.BALL_R - 2;
     this.hitCooldown = 180;
+    // Squish: paddle instantly widens, then eases back to 1.0
+    this.padSquish      = 1.0 + this.SQUISH_AMT;
+    this.squishElapsed  = this.SQUISH_DUR;
     this.spawnRipple(this.bx, this.by, 0x00d4ff);
     this.triggerHitFlash(this.bx, padTop);
     this.cameras.main.shake(16, 0.003);
@@ -720,44 +741,47 @@ class SquashScene extends Phaser.Scene {
     g.clear();
 
     const bodyColor = isWindow ? 0x00ff88 : 0x00d4ff;
-    const glowAlpha = isWindow ? 1.8 : 1.0;  // intensify glow in hit_window
+    const glowAlpha = isWindow ? 1.8 : 1.0;
 
-    // ── 1. Court shadow — ellipse just below paddle ───────────────────────
+    // renderPW: paddle half-width WITH squish applied (makes body wider on hit)
+    const rpw = Math.round(pw * this.padSquish);
+
+    // ── 1. Court shadow ───────────────────────────────────────────────────
     g.fillStyle(0x000000, 0.22);
-    g.fillEllipse(px, padY + ph + 5, pw * 2 + 14, 7);
+    g.fillEllipse(px, padY + ph + 5, rpw * 2 + 14, 7);
 
-    // ── 2. Neon glow — three expanding halos ─────────────────────────────
+    // ── 2. Neon glow (halos scale with squish) ────────────────────────────
     g.fillStyle(bodyColor, 0.05 * glowAlpha);
-    g.fillRoundedRect(px - pw - 20, padY - 12, (pw + 20) * 2, ph + 24, 14);
+    g.fillRoundedRect(px - rpw - 20, padY - 12, (rpw + 20) * 2, ph + 24, 14);
 
     g.fillStyle(bodyColor, 0.10 * glowAlpha);
-    g.fillRoundedRect(px - pw - 11, padY - 7,  (pw + 11) * 2, ph + 14, 10);
+    g.fillRoundedRect(px - rpw - 11, padY - 7,  (rpw + 11) * 2, ph + 14, 10);
 
     g.fillStyle(bodyColor, 0.20 * glowAlpha);
-    g.fillRoundedRect(px - pw - 4,  padY - 3,  (pw + 4)  * 2, ph + 6,  8);
+    g.fillRoundedRect(px - rpw - 4,  padY - 3,  (rpw + 4)  * 2, ph + 6,  8);
 
     // ── 3. Paddle body ────────────────────────────────────────────────────
     g.fillStyle(bodyColor, 1.0);
-    g.fillRoundedRect(px - pw, padY, pw * 2, ph, 7);
+    g.fillRoundedRect(px - rpw, padY, rpw * 2, ph, 7);
 
-    // ── 4. Edge darkening — left and right 35% ────────────────────────────
-    const edgeW = Math.round(pw * 0.70);   // each side width
+    // ── 4. Edge darkening ─────────────────────────────────────────────────
+    const edgeW = Math.round(rpw * 0.70);
     g.fillStyle(0x000000, 0.22);
-    g.fillRoundedRect(px - pw,          padY, edgeW, ph, { tl: 7, tr: 0, bl: 7, br: 0 });
-    g.fillRoundedRect(px + pw - edgeW,  padY, edgeW, ph, { tl: 0, tr: 7, bl: 0, br: 7 });
+    g.fillRoundedRect(px - rpw,          padY, edgeW, ph, { tl: 7, tr: 0, bl: 7, br: 0 });
+    g.fillRoundedRect(px + rpw - edgeW,  padY, edgeW, ph, { tl: 0, tr: 7, bl: 0, br: 7 });
 
-    // ── 5. Center zone — lighter stripe (middle 45%) ──────────────────────
-    const centerW = Math.round(pw * 0.90);
+    // ── 5. Center zone lighter stripe ─────────────────────────────────────
+    const centerW = Math.round(rpw * 0.90);
     g.fillStyle(0xffffff, 0.18);
     g.fillRoundedRect(px - centerW / 2, padY, centerW, ph, 5);
 
-    // ── 6. Top highlight — bright thin strip (fényes felső él) ───────────
+    // ── 6. Top highlight ──────────────────────────────────────────────────
     g.fillStyle(0xffffff, 0.55);
-    g.fillRoundedRect(px - pw + 10, padY + 2, pw * 2 - 20, 3, 2);
+    g.fillRoundedRect(px - rpw + 10, padY + 2, rpw * 2 - 20, 3, 2);
 
-    // ── 7. Bottom shadow — darker thin strip ─────────────────────────────
+    // ── 7. Bottom shadow strip ────────────────────────────────────────────
     g.fillStyle(0x000000, 0.28);
-    g.fillRoundedRect(px - pw + 6, padY + ph - 4, pw * 2 - 12, 4, 2);
+    g.fillRoundedRect(px - rpw + 6, padY + ph - 4, rpw * 2 - 12, 4, 2);
   }
 
   // ── triggerHitFlash — energy wave on paddle at impact ─────────────────────
