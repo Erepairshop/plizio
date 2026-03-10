@@ -468,7 +468,8 @@ class TennisScene extends Phaser.Scene {
     this.ball.setVisible(true);
     if (playerServes) {
       this.ball.setPosition(this.playerX, GROUND_Y - 55);
-      const angle = Phaser.Math.DegToRad(Phaser.Math.Between(-20, 20));
+      const aim = (this.playerX - (GW * 0.22)) / (NET_X - GW * 0.22);
+      const angle = Phaser.Math.DegToRad(Phaser.Math.Linear(-30, 30, aim));
       const speed = 380 + Math.random() * 60;
       this.ball.setVelocity(
         Math.sin(angle) * speed + 260,
@@ -646,7 +647,8 @@ class TennisScene extends Phaser.Scene {
       if (this.aiTargetTimer <= 0) {
         if (this.ball.x > NET_X || bvx > 0) {
           const errorOffset = (Math.random() - 0.5) * aiCfg.error;
-          this.aiTargetX = Phaser.Math.Clamp(this.ball.x + errorOffset, AI_MIN_X, AI_MAX_X);
+          const predictedX = this.ball.x + (bvx * 0.25);
+          this.aiTargetX = Phaser.Math.Clamp(predictedX + errorOffset, AI_MIN_X, AI_MAX_X);
         }
         this.aiTargetTimer = 300;
       }
@@ -765,6 +767,12 @@ class TennisScene extends Phaser.Scene {
       onComplete: () => hitRing.destroy(),
     });
 
+    // Smash slow motion
+    if (isSmash) {
+      this.time.timeScale = 0.6;
+      this.time.delayedCall(120, () => { this.time.timeScale = 1; });
+    }
+
     // Camera shake (stronger for smash)
     this.cameras.main.shake(isSmash ? 80 : 22, isSmash ? 0.01 : 0.003);
 
@@ -775,9 +783,18 @@ class TennisScene extends Phaser.Scene {
       duration: 100, ease: "Back.Out",
     });
 
+    // Spin (random side variation)
+    const spin = Phaser.Math.FloatBetween(-40, 40);
+    body.velocity.x += spin;
+
     // Speed increase per rally (5% per hit)
     body.velocity.x *= 1.05;
     body.velocity.y *= 1.05;
+
+    // Speed cap
+    const maxSpeed = 650;
+    body.velocity.x = Phaser.Math.Clamp(body.velocity.x, -maxSpeed, maxSpeed);
+    body.velocity.y = Phaser.Math.Clamp(body.velocity.y, -maxSpeed, maxSpeed);
   }
 }
 
