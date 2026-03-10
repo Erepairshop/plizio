@@ -4,7 +4,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Mail, Lock, X, Star } from "lucide-react";
 import { signUpWithEmail, signInWithEmail, signInWithGoogle } from "@/lib/auth";
-import { uploadToSupabase } from "@/lib/sync";
+import { uploadToSupabase, syncToSupabase } from "@/lib/sync";
 import { addSpecialCards } from "@/lib/specialCards";
 import { syncUsernameToSupabase } from "@/lib/username";
 
@@ -40,10 +40,9 @@ export default function AuthModal({ onClose, onSuccess, mode: initialMode = "log
       } else {
         const data = await signInWithEmail(email, password);
         if (data.user) {
-          // Sync data from Supabase
-          const { downloadFromSupabase } = await import("@/lib/sync");
-          await downloadFromSupabase(data.user.id);
-          syncUsernameToSupabase(data.user.id).catch(() => {});
+          // Teljes kétirányú sync: download (szerver adatok visszaállítása) + upload (helyi adat mentése)
+          // syncToSupabase kezeli a dirty flag-et, username prioritást és a race conditiont
+          await syncToSupabase(data.user.id);
           onSuccess();
         }
       }
