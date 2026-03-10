@@ -16,6 +16,7 @@ const SQUASH_T = {
     niceRally: "🎯 NICE RALLY!", hotStreak: "🔥 HOT STREAK! x10",
     rallyMaster: "⚡ RALLY MASTER! x20", chaosMode: "💀 CHAOS MODE! x30",
     insanity: "🌀 INSANITY! x45", minPaddle: "😈 MINIMUM PADDLE!",
+    ghostBall: "👻 GHOST BALL! x60", darkness: "🌑 DARKNESS! x70",
     cornerShot: "🎯 CORNER SHOT! +5", danger: "DANGER!",
     gameOver: "GAME OVER", scoreLbl: "Score:", bestRallyLbl: "Best Rally:",
     maxAngleLbl: "Max Angle:", speedLbl: "SPEED",
@@ -27,6 +28,7 @@ const SQUASH_T = {
     niceRally: "🎯 SZÉP MENET!", hotStreak: "🔥 TŰZ MENET! x10",
     rallyMaster: "⚡ MENETMESTER! x20", chaosMode: "💀 KÁOSZ MÓD! x30",
     insanity: "🌀 ŐRÜLET! x45", minPaddle: "😈 MINIMUM ÜTŐ!",
+    ghostBall: "👻 KAMU LABDA! x60", darkness: "🌑 SÖTÉTSÉG! x70",
     cornerShot: "🎯 SAROKLÖVÉS! +5", danger: "VESZÉLY!",
     gameOver: "JÁTÉK VÉGE", scoreLbl: "Pont:", bestRallyLbl: "Legjobb menet:",
     maxAngleLbl: "Max szög:", speedLbl: "SEBESSÉG",
@@ -38,6 +40,7 @@ const SQUASH_T = {
     niceRally: "🎯 TOLLER BALLWECHSEL!", hotStreak: "🔥 HEISSE SERIE! x10",
     rallyMaster: "⚡ BALLWECHSEL-MEISTER! x20", chaosMode: "💀 CHAOS-MODUS! x30",
     insanity: "🌀 WAHNSINN! x45", minPaddle: "😈 MINIMAL-SCHLÄGER!",
+    ghostBall: "👻 GEISTBALL! x60", darkness: "🌑 DUNKELHEIT! x70",
     cornerShot: "🎯 ECKSCHUSS! +5", danger: "GEFAHR!",
     gameOver: "SPIEL VORBEI", scoreLbl: "Punkte:", bestRallyLbl: "Bester Ballwechsel:",
     maxAngleLbl: "Max Winkel:", speedLbl: "TEMPO",
@@ -49,6 +52,7 @@ const SQUASH_T = {
     niceRally: "🎯 SCHIMB FRUMOS!", hotStreak: "🔥 SERIE CALDĂ! x10",
     rallyMaster: "⚡ MAESTRUL SCHIMBULUI! x20", chaosMode: "💀 MOD HAOS! x30",
     insanity: "🌀 NEBUNIE! x45", minPaddle: "😈 PALETĂ MINIMĂ!",
+    ghostBall: "👻 MINGE FANTOMĂ! x60", darkness: "🌑 ÎNTUNERIC! x70",
     cornerShot: "🎯 LOV DE COLȚ! +5", danger: "PERICOL!",
     gameOver: "JOC TERMINAT", scoreLbl: "Scor:", bestRallyLbl: "Cel mai bun schimb:",
     maxAngleLbl: "Unghi maxim:", speedLbl: "VITEZĂ",
@@ -138,6 +142,13 @@ class SquashScene extends Phaser.Scene {
   private serving      = true;
   private missPhase: "none" | "rolling" = "none";
   private inDangerZone = false;
+
+  // ── Post-50 hell mechanics ────────────────────────────────────────────────
+  private padAlpha       = 1.0;
+  private padInvisTimer  = 4000;
+  private padInvisActive = false;
+  private ghosts: Array<{ gfx: Phaser.GameObjects.Graphics; x: number; y: number; vx: number; vy: number; life: number }> = [];
+  private darkOverlay!:  Phaser.GameObjects.Graphics;
 
   private trail: { x: number; y: number }[] = [];
 
@@ -236,6 +247,9 @@ class SquashScene extends Phaser.Scene {
       repeat: -1,
       ease: "Sine.InOut",
     });
+
+    // Dark overlay (above court floor, below trail/ball/paddle)
+    this.darkOverlay = this.add.graphics().setDepth(1);
 
     // Trail, ball, paddle, hit-window indicator, combo bar, edge glow
     this.edgeGlowGfx  = this.add.graphics().setDepth(2);
@@ -382,6 +396,12 @@ class SquashScene extends Phaser.Scene {
     this.PAD_W        = this.BASE_PAD_W;  // restore paddle size each round
     this.padSquish    = 1.0;              // reset squish animation
     this.squishElapsed = 0;
+    this.padAlpha      = 1.0;
+    this.padInvisTimer  = 4000;
+    this.padInvisActive = false;
+    this.ghosts.forEach(g => g.gfx.destroy());
+    this.ghosts = [];
+    this.darkOverlay.clear();
     this.ballZ        = 0;
     this.ballVZ       = 0;
     this.vx = 0;
@@ -504,6 +524,22 @@ class SquashScene extends Phaser.Scene {
     const isWindow = this.ballState === "hit_window";
     this.drawPaddle(padY, isWindow);
 
+    // ── Paddle invisibility (rally 50+) ───────────────────────────────────
+    if (this.rally >= 50 && !this.serving) {
+      this.padInvisTimer -= delta;
+      if (!this.padInvisActive && this.padInvisTimer <= 0) {
+        this.padInvisActive = true;
+        this.padInvisTimer  = 800;
+      } else if (this.padInvisActive && this.padInvisTimer <= 0) {
+        this.padInvisActive = false;
+        this.padInvisTimer  = Math.max(1500, 4000 - (this.rally - 50) * 40);
+      }
+      this.padAlpha = Phaser.Math.Linear(this.padAlpha, this.padInvisActive ? 0.05 : 1.0, 0.12);
+    } else {
+      this.padAlpha = 1.0;
+    }
+    this.paddleGfx.setAlpha(this.padAlpha);
+
     // ── Hit-window indicator: pulsing vertical guides ────────────────────
     this.hitWindowGfx.clear();
     if (isWindow) {
@@ -527,6 +563,16 @@ class SquashScene extends Phaser.Scene {
 
     // ── Combo bar (below rally text) ─────────────────────────────────────
     this.drawComboBar(time);
+
+    // ── Dark overlay (rally 70+) — covers floor/walls, ball+paddle stay lit ─
+    if (this.rally >= 70) {
+      const darkAlpha = Math.min((this.rally - 70) / 30 * 0.82, 0.82);
+      this.darkOverlay.clear();
+      this.darkOverlay.fillStyle(0x000000, darkAlpha);
+      this.darkOverlay.fillRect(0, 0, this.scale.width, this.scale.height);
+    } else {
+      this.darkOverlay.clear();
+    }
 
     // ── Screen edge danger glow ───────────────────────────────────────────
     this.edgeGlowGfx.clear();
@@ -612,6 +658,25 @@ class SquashScene extends Phaser.Scene {
       this.trailGfx.fillCircle(this.trail[i].x, this.trail[i].y, this.BALL_R * (0.3 + t * 0.7));
     }
 
+    // ── Ghost balls update (rally 60+) ────────────────────────────────────
+    if (this.ghosts.length > 0) {
+      const alive: typeof this.ghosts = [];
+      for (const ghost of this.ghosts) {
+        ghost.x   += ghost.vx * dt;
+        ghost.y   += ghost.vy * dt;
+        ghost.life -= delta;
+        if (ghost.life > 0 && ghost.y < this.BY + 20) {
+          ghost.gfx.clear();
+          ghost.gfx.fillStyle(0xffd700, (ghost.life / 700) * 0.6);
+          ghost.gfx.fillCircle(ghost.x, ghost.y, this.BALL_R);
+          alive.push(ghost);
+        } else {
+          ghost.gfx.destroy();
+        }
+      }
+      this.ghosts = alive;
+    }
+
     this.ball.x = this.bx;
     this.ball.y = this.by - this.ballZ;   // visual Y offset by Z
 
@@ -669,6 +734,18 @@ class SquashScene extends Phaser.Scene {
       this.vy = Math.abs(Math.cos(ang1) * spd0); // must be positive (return)
       this.ballState = "return";
       this.clampBallAngle();
+      // ── Ghost decoy (rally 60+): spawn fake ball heading different direction ─
+      if (this.rally >= 60) {
+        const gAng = Phaser.Math.FloatBetween(-50, 50);
+        const gSpd = Math.hypot(this.vx, this.vy) * Phaser.Math.FloatBetween(0.85, 1.15);
+        const gg   = this.add.graphics().setDepth(5);
+        this.ghosts.push({
+          gfx: gg, x: this.bx, y: this.by,
+          vx: Math.sin(Phaser.Math.DegToRad(gAng)) * gSpd,
+          vy: Math.abs(Math.cos(Phaser.Math.DegToRad(gAng))) * gSpd,
+          life: 700,
+        });
+      }
       // ── Skill shot: corner zones (within 60px of side wall, top of front wall)
       const isCorner = (this.bx < this.WL + 60 || this.bx > this.WR - 60);
       if (isCorner) {
@@ -831,6 +908,8 @@ class SquashScene extends Phaser.Scene {
     if (this.rally === 20) this.showMilestoneBanner(this.tr.rallyMaster, "#ffcc00");
     if (this.rally === 30) this.showMilestoneBanner(this.tr.chaosMode,   "#ff4444");
     if (this.rally === 45) this.showMilestoneBanner(this.tr.insanity,    "#ff00ff");
+    if (this.rally === 60) this.showMilestoneBanner(this.tr.ghostBall,  "#dd88ff");
+    if (this.rally === 70) this.showMilestoneBanner(this.tr.darkness,   "#cc88ff");
   }
 
   // ── triggerMiss ───────────────────────────────────────────────────────────
@@ -931,6 +1010,10 @@ class SquashScene extends Phaser.Scene {
     this.trail = [];
     this.trailGfx.clear();
     this.hitWindowGfx.clear();
+    this.ghosts.forEach(g => g.gfx.destroy());
+    this.ghosts = [];
+    this.darkOverlay.clear();
+    this.paddleGfx.setAlpha(1);
 
     const W = this.scale.width;
     const H = this.scale.height;
