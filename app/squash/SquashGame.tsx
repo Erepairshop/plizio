@@ -8,261 +8,356 @@ interface Props {
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
-// GameScene
+// SquashScene  —  természetes squash nézet: front wall FELÜL, játékos ALUL
 // ─────────────────────────────────────────────────────────────────────────────
 class SquashScene extends Phaser.Scene {
-  // Court layout (populated in create from scale)
-  private FWX = 60;   // front wall x
-  private PX  = 420;  // paddle x
-  private WT  = 80;   // wall top y
-  private WB  = 520;  // wall bottom y
 
-  private readonly BALL_R    = 11;
-  private readonly PADDLE_W  = 14;
-  private readonly PADDLE_H  = 90;
-  private readonly BALL_SPEED = 380;
-  private readonly PADDLE_SPEED = 520;
+  // ── Court boundaries (set in create) ──────────────────────────────────────
+  private FWY = 0;   // front wall Y (top)
+  private BY  = 0;   // back / player zone Y (bottom)
+  private WL  = 0;   // left wall X
+  private WR  = 0;   // right wall X
 
+  // ── Ball constants ────────────────────────────────────────────────────────
+  private readonly BALL_R        = 10;
+  private readonly BASE_SPEED    = 420;
+  private readonly MAX_SPEED     = 780;
+  private readonly MIN_VY        = 140;   // minimum vertical component (prevent flat shots)
+  private readonly ACCEL_PER_HIT = 0.013; // speed mult per hit (capped at MAX_SPEED)
+
+  // ── Paddle constants ──────────────────────────────────────────────────────
+  private readonly PAD_W  = 110;  // half-width of paddle
+  private readonly PAD_H  = 14;   // thickness
+  private readonly PAD_SPEED = 600;
+  private readonly HIT_ZONE = 55; // px above paddle top where ball can be hit
+
+  // ── State ─────────────────────────────────────────────────────────────────
   private ball!: Phaser.GameObjects.Arc;
-  private ballBody!: Phaser.Types.Physics.Arcade.GameObjectWithBody;
   private paddleGfx!: Phaser.GameObjects.Graphics;
+  private trailGfx!: Phaser.GameObjects.Graphics;
+  private courtGfx!: Phaser.GameObjects.Graphics;
 
-  private paddleY = 300;
-  private vx = 0;
+  private bx = 0;  // ball position
+  private by = 0;
+  private vx = 0;  // ball velocity
   private vy = 0;
 
-  private score = 0;
-  private scoreTxt!: Phaser.GameObjects.Text;
-  private gameOver = false;
-  private hitCooldown = 0;
+  private padX = 0;        // paddle center x
+  private padPrevX = 0;    // for velocity tracking
+  private padVelX  = 0;
 
-  // Trail
-  private trailGfx!: Phaser.GameObjects.Graphics;
+  private rally     = 0;
+  private bestRally = 0;
+  private hitCooldown  = 0;
+  private gameOver     = false;
+  private launching    = true;  // waiting for first launch
+
   private trail: { x: number; y: number }[] = [];
 
-  private cursors!: Phaser.Types.Input.Keyboard.CursorKeys;
-  private wKey!: Phaser.Input.Keyboard.Key;
-  private sKey!: Phaser.Input.Keyboard.Key;
-  private touchY = -1;
+  // ── HUD ───────────────────────────────────────────────────────────────────
+  private rallyTxt!: Phaser.GameObjects.Text;
+  private bestTxt!:  Phaser.GameObjects.Text;
+
+  // ── Input ─────────────────────────────────────────────────────────────────
+  private leftKey!:  Phaser.Input.Keyboard.Key;
+  private rightKey!: Phaser.Input.Keyboard.Key;
+  private aKey!:     Phaser.Input.Keyboard.Key;
+  private dKey!:     Phaser.Input.Keyboard.Key;
+  private touchX = -1;
 
   public onGameEnd!: (score: number) => void;
 
   constructor() { super({ key: "SquashScene" }); }
 
   // ── preload ────────────────────────────────────────────────────────────────
-  preload() {
-    // nothing — we draw everything with Graphics
-  }
+  preload() { /* all drawn via Graphics */ }
 
-  // ── create ─────────────────────────────────────────────────────────────────
+  // ── create ────────────────────────────────────────────────────────────────
   create() {
     const W = this.scale.width;
     const H = this.scale.height;
 
-    // Responsive court
-    this.FWX = Math.round(W * 0.10);
-    this.PX  = Math.round(W * 0.87);
-    this.WT  = Math.round(H * 0.12);
-    this.WB  = Math.round(H * 0.88);
-    this.paddleY = (this.WT + this.WB) / 2;
+    // Court bounds (responsive)
+    this.FWY = Math.round(H * 0.09);
+    this.BY  = Math.round(H * 0.91);
+    this.WL  = Math.round(W * 0.04);
+    this.WR  = Math.round(W * 0.96);
+    this.padX  = W / 2;
+    this.padPrevX = W / 2;
+    this.bx    = W / 2;
+    this.by    = this.BY - 60;
 
-    // ── Background ──────────────────────────────────────────────────────────
+    // ── Background ────────────────────────────────────────────────────────
     this.add.rectangle(W / 2, H / 2, W, H, 0x050f05);
 
-    // Court floor fill
-    const court = this.add.graphics();
-    court.fillStyle(0x0a1f0a, 1);
-    court.fillRect(this.FWX, this.WT, this.PX + this.PADDLE_W - this.FWX, this.WB - this.WT);
+    // ── Court fill ────────────────────────────────────────────────────────
+    this.courtGfx = this.add.graphics();
+    this.drawCourt();
 
-    // Service line (mid-court reference)
-    const midX = this.FWX + (this.PX - this.FWX) * 0.55;
-    court.lineStyle(1.5, 0x00ff88, 0.12);
-    court.lineBetween(midX, this.WT, midX, this.WB);
-
-    // ── Front wall ──────────────────────────────────────────────────────────
-    const fwGfx = this.add.graphics();
-    // outer glow
-    fwGfx.lineStyle(12, 0x00ff88, 0.12);
-    fwGfx.lineBetween(this.FWX, this.WT, this.FWX, this.WB);
-    // main line
-    fwGfx.lineStyle(6, 0x00ff88, 0.9);
-    fwGfx.lineBetween(this.FWX, this.WT, this.FWX, this.WB);
-
-    // Label
-    this.add.text(this.FWX + 6, this.WT - 18, "FRONT WALL", {
-      fontSize: "9px", color: "#00ff8866", fontFamily: "monospace", fontStyle: "bold",
-    });
-
-    // ── Side walls (top & bottom) ────────────────────────────────────────────
-    const wallGfx = this.add.graphics();
-    wallGfx.lineStyle(4, 0x00cc66, 0.7);
-    wallGfx.lineBetween(this.FWX, this.WT, this.PX + this.PADDLE_W + 10, this.WT);
-    wallGfx.lineBetween(this.FWX, this.WB, this.PX + this.PADDLE_W + 10, this.WB);
-
-    // ── Score display ────────────────────────────────────────────────────────
-    this.add.text(W / 2, 22, "RALLY", {
-      fontSize: "10px", fontFamily: "monospace", color: "#ffffff55", fontStyle: "bold",
+    // ── HUD ───────────────────────────────────────────────────────────────
+    // Rally counter (center top)
+    this.add.text(W / 2, 20, "RALLY", {
+      fontSize: "10px", fontFamily: "monospace",
+      color: "#ffffff55", fontStyle: "bold",
     }).setOrigin(0.5).setDepth(10);
 
-    this.scoreTxt = this.add.text(W / 2, 42, "0", {
-      fontSize: "40px", fontFamily: "monospace", color: "#ffffff", fontStyle: "bold",
+    this.rallyTxt = this.add.text(W / 2, 38, "0", {
+      fontSize: "36px", fontFamily: "monospace",
+      color: "#ffffff", fontStyle: "bold",
     }).setOrigin(0.5).setDepth(10);
 
-    // ── Trail gfx ───────────────────────────────────────────────────────────
-    this.trailGfx = this.add.graphics();
-    this.trailGfx.setDepth(3);
+    // Best rally (top right)
+    this.add.text(W - 12, 20, "BEST", {
+      fontSize: "9px", fontFamily: "monospace",
+      color: "#ffffff44", fontStyle: "bold",
+    }).setOrigin(1, 0).setDepth(10);
 
-    // ── Ball (Arc — no physics, manual movement) ─────────────────────────────
-    this.ball = this.add.arc(
-      this.FWX + (this.PX - this.FWX) * 0.35,
-      (this.WT + this.WB) / 2,
-      this.BALL_R,
-      0, 360,
-      false,
-      0xffd700,
-      1,
-    );
+    this.bestTxt = this.add.text(W - 12, 32, "0", {
+      fontSize: "22px", fontFamily: "monospace",
+      color: "#ffd70088", fontStyle: "bold",
+    }).setOrigin(1, 0).setDepth(10);
+
+    // ── Trail & ball ──────────────────────────────────────────────────────
+    this.trailGfx = this.add.graphics().setDepth(3);
+
+    this.ball = this.add.arc(this.bx, this.by, this.BALL_R, 0, 360, false, 0xffd700, 1);
     this.ball.setDepth(6);
 
-    // ── Paddle graphics (drawn every frame) ─────────────────────────────────
-    this.paddleGfx = this.add.graphics();
-    this.paddleGfx.setDepth(7);
+    // ── Paddle ────────────────────────────────────────────────────────────
+    this.paddleGfx = this.add.graphics().setDepth(7);
 
-    // ── Input ───────────────────────────────────────────────────────────────
-    this.cursors = this.input.keyboard!.createCursorKeys();
-    this.wKey = this.input.keyboard!.addKey(Phaser.Input.Keyboard.KeyCodes.W);
-    this.sKey = this.input.keyboard!.addKey(Phaser.Input.Keyboard.KeyCodes.S);
+    // ── Input ─────────────────────────────────────────────────────────────
+    this.leftKey  = this.input.keyboard!.addKey(Phaser.Input.Keyboard.KeyCodes.LEFT);
+    this.rightKey = this.input.keyboard!.addKey(Phaser.Input.Keyboard.KeyCodes.RIGHT);
+    this.aKey     = this.input.keyboard!.addKey(Phaser.Input.Keyboard.KeyCodes.A);
+    this.dKey     = this.input.keyboard!.addKey(Phaser.Input.Keyboard.KeyCodes.D);
 
-    this.input.on("pointermove", (p: Phaser.Input.Pointer) => { this.touchY = p.y; });
-    this.input.on("pointerdown", (p: Phaser.Input.Pointer) => { this.touchY = p.y; });
-    this.input.on("pointerup",   ()                         => { this.touchY = -1;  });
+    this.input.on("pointermove", (p: Phaser.Input.Pointer) => { if (p.isDown) this.touchX = p.x; });
+    this.input.on("pointerdown", (p: Phaser.Input.Pointer) => { this.touchX = p.x; });
+    this.input.on("pointerup",   ()                         => { this.touchX = -1; });
 
-    // ── Launch ball after short delay ────────────────────────────────────────
-    this.time.delayedCall(700, () => this.launchBall());
+    // ── Launch after short delay ───────────────────────────────────────────
+    this.time.delayedCall(600, () => {
+      this.launching = false;
+      this.launchBall();
+    });
+  }
+
+  // ── drawCourt ─────────────────────────────────────────────────────────────
+  private drawCourt() {
+    const W = this.scale.width;
+    const H = this.scale.height;
+    const g = this.courtGfx;
+    g.clear();
+
+    // Court floor
+    g.fillStyle(0x0a1f0a, 1);
+    g.fillRect(this.WL, this.FWY, this.WR - this.WL, this.BY - this.FWY);
+
+    // Service/half-court line
+    const midY = this.FWY + (this.BY - this.FWY) * 0.55;
+    g.lineStyle(1.5, 0x00ff88, 0.10);
+    g.lineBetween(this.WL, midY, this.WR, midY);
+
+    // ── Front wall (top) — prominent ──────────────────────────────────────
+    // outer glow
+    g.lineStyle(14, 0x00ff88, 0.10);
+    g.lineBetween(this.WL, this.FWY, this.WR, this.FWY);
+    // main
+    g.lineStyle(5, 0x00ff88, 1.0);
+    g.lineBetween(this.WL, this.FWY, this.WR, this.FWY);
+
+    // ── Side walls ────────────────────────────────────────────────────────
+    g.lineStyle(4, 0x00cc66, 0.65);
+    g.lineBetween(this.WL, this.FWY, this.WL, this.BY);
+    g.lineBetween(this.WR, this.FWY, this.WR, this.BY);
+
+    // Floor line (bottom boundary)
+    g.lineStyle(3, 0x336633, 0.45);
+    g.lineBetween(this.WL, this.BY, this.WR, this.BY);
+
+    // Label
+    this.add.text(this.WL + 6, this.FWY - 18, "FRONT WALL", {
+      fontSize: "9px", color: "#00ff8866", fontFamily: "monospace", fontStyle: "bold",
+    }).setDepth(10);
   }
 
   // ── launchBall ────────────────────────────────────────────────────────────
   private launchBall() {
-    const angle = Phaser.Math.FloatBetween(-20, 20);
-    this.vx = -Math.cos(Phaser.Math.DegToRad(angle)) * this.BALL_SPEED;
-    this.vy =  Math.sin(Phaser.Math.DegToRad(angle)) * this.BALL_SPEED;
+    // Launch toward front wall (upward) with slight horizontal angle
+    const angle = Phaser.Math.FloatBetween(-22, 22);
+    const spd = this.BASE_SPEED;
+    this.vx =  Math.sin(Phaser.Math.DegToRad(angle)) * spd;
+    this.vy = -Math.cos(Phaser.Math.DegToRad(angle)) * spd; // upward = negative Y
+    this.ensureMinVY();
+  }
+
+  // ── ensureMinVY — prevent nearly horizontal shots ──────────────────────
+  private ensureMinVY() {
+    if (Math.abs(this.vy) < this.MIN_VY) {
+      this.vy = this.vy >= 0 ? this.MIN_VY : -this.MIN_VY;
+    }
+    // Cap total speed
+    const spd = Math.hypot(this.vx, this.vy);
+    if (spd > this.MAX_SPEED) {
+      const s = this.MAX_SPEED / spd;
+      this.vx *= s;
+      this.vy *= s;
+    }
   }
 
   // ── update ────────────────────────────────────────────────────────────────
   update(_time: number, delta: number) {
     if (this.gameOver) return;
 
-    const dt = delta / 1000;
-    const { FWX, PX, WT, WB, BALL_R, PADDLE_W, PADDLE_H, PADDLE_SPEED } = this;
+    const dt = Math.min(delta / 1000, 0.033); // clamp to 30fps min — prevents tunneling
 
     if (this.hitCooldown > 0) this.hitCooldown -= delta;
 
-    // ── Paddle input ─────────────────────────────────────────────────────────
-    if (this.cursors.up.isDown || this.wKey.isDown) {
-      this.paddleY -= PADDLE_SPEED * dt;
-    }
-    if (this.cursors.down.isDown || this.sKey.isDown) {
-      this.paddleY += PADDLE_SPEED * dt;
-    }
-    if (this.touchY >= 0) {
-      this.paddleY = Phaser.Math.Linear(this.paddleY, this.touchY, 0.28);
-    }
-    this.paddleY = Phaser.Math.Clamp(this.paddleY, WT + PADDLE_H / 2, WB - PADDLE_H / 2);
+    // ── Track paddle velocity ────────────────────────────────────────────
+    this.padVelX  = (this.padX - this.padPrevX) / Math.max(dt, 0.001);
+    this.padPrevX = this.padX;
 
-    // ── Draw paddle ──────────────────────────────────────────────────────────
+    // ── Paddle input ─────────────────────────────────────────────────────
+    const { PAD_W, PAD_SPEED, WL, WR } = this;
+    const padMin = WL + PAD_W;
+    const padMax = WR - PAD_W;
+
+    if (this.leftKey.isDown  || this.aKey.isDown)  this.padX -= PAD_SPEED * dt;
+    if (this.rightKey.isDown || this.dKey.isDown)  this.padX += PAD_SPEED * dt;
+    if (this.touchX >= 0) {
+      this.padX = Phaser.Math.Linear(this.padX, this.touchX, 0.30);
+    }
+    this.padX = Phaser.Math.Clamp(this.padX, padMin, padMax);
+
+    // ── Draw paddle ──────────────────────────────────────────────────────
     this.paddleGfx.clear();
-    const px0 = PX - PADDLE_W / 2;
-    const py0 = this.paddleY - PADDLE_H / 2;
+    const { PAD_H, BY } = this;
+    const padY = BY - PAD_H - 6;
     // glow
     this.paddleGfx.fillStyle(0x00d4ff, 0.12);
-    this.paddleGfx.fillRoundedRect(px0 - 6, py0 - 4, PADDLE_W + 12, PADDLE_H + 8, 8);
-    // paddle body
+    this.paddleGfx.fillRoundedRect(this.padX - PAD_W - 6, padY - 4, (PAD_W + 6) * 2, PAD_H + 8, 7);
+    // body
     this.paddleGfx.fillStyle(0x00d4ff, 1);
-    this.paddleGfx.fillRoundedRect(px0, py0, PADDLE_W, PADDLE_H, 5);
+    this.paddleGfx.fillRoundedRect(this.padX - PAD_W, padY, PAD_W * 2, PAD_H, 5);
     // highlight
     this.paddleGfx.fillStyle(0xffffff, 0.25);
-    this.paddleGfx.fillRoundedRect(px0 + 2, py0 + 4, 4, PADDLE_H - 8, 3);
+    this.paddleGfx.fillRoundedRect(this.padX - PAD_W + 6, padY + 2, PAD_W * 2 - 12, 4, 2);
 
-    // ── Move ball ────────────────────────────────────────────────────────────
-    this.ball.x += this.vx * dt;
-    this.ball.y += this.vy * dt;
+    // ── Move ball ────────────────────────────────────────────────────────
+    if (!this.launching) {
+      this.bx += this.vx * dt;
+      this.by += this.vy * dt;
+    }
 
     // Trail
-    this.trail.push({ x: this.ball.x, y: this.ball.y });
-    if (this.trail.length > 10) this.trail.shift();
+    this.trail.push({ x: this.bx, y: this.by });
+    if (this.trail.length > 12) this.trail.shift();
     this.trailGfx.clear();
     for (let i = 0; i < this.trail.length; i++) {
       const t = i / this.trail.length;
-      this.trailGfx.fillStyle(0xffd700, t * 0.4);
-      this.trailGfx.fillCircle(this.trail[i].x, this.trail[i].y, BALL_R * t);
+      this.trailGfx.fillStyle(0xffd700, t * 0.35);
+      this.trailGfx.fillCircle(this.trail[i].x, this.trail[i].y, this.BALL_R * (0.3 + t * 0.7));
     }
 
-    const bx = this.ball.x;
-    const by = this.ball.y;
+    this.ball.x = this.bx;
+    this.ball.y = this.by;
 
-    // ── Front wall bounce (left) ─────────────────────────────────────────────
-    if (bx - BALL_R <= FWX && this.vx < 0) {
-      this.ball.x = FWX + BALL_R;
-      this.vx = Math.abs(this.vx);
-      this.spawnRipple(FWX, by, 0x00ff88);
-    }
+    const { BALL_R, FWY, HIT_ZONE } = this;
 
-    // ── Top wall ────────────────────────────────────────────────────────────
-    if (by - BALL_R <= WT && this.vy < 0) {
-      this.ball.y = WT + BALL_R;
+    // ── Front wall bounce (TOP) ──────────────────────────────────────────
+    if (this.by - BALL_R <= FWY && this.vy < 0) {
+      this.by = FWY + BALL_R;
       this.vy = Math.abs(this.vy);
+      // small random deviation on wall
+      this.vx += Phaser.Math.FloatBetween(-18, 18);
+      this.ensureMinVY();
+      this.spawnRipple(this.bx, FWY, 0x00ff88);
     }
 
-    // ── Bottom wall ──────────────────────────────────────────────────────────
-    if (by + BALL_R >= WB && this.vy > 0) {
-      this.ball.y = WB - BALL_R;
-      this.vy = -Math.abs(this.vy);
+    // ── Left wall ────────────────────────────────────────────────────────
+    if (this.bx - BALL_R <= WL && this.vx < 0) {
+      this.bx = WL + BALL_R;
+      this.vx = Math.abs(this.vx);
+      // Sidewall correction: if ball bouncing back and forth horizontally, add downward push
+      if (Math.abs(this.vy) < this.MIN_VY) this.vy = this.MIN_VY;
+      this.spawnRipple(WL, this.by, 0x336633);
     }
 
-    // ── Paddle collision ─────────────────────────────────────────────────────
-    const paddleLeft   = PX - PADDLE_W / 2;
-    const paddleTop    = this.paddleY - PADDLE_H / 2;
-    const paddleBottom = this.paddleY + PADDLE_H / 2;
+    // ── Right wall ───────────────────────────────────────────────────────
+    if (this.bx + BALL_R >= WR && this.vx > 0) {
+      this.bx = WR - BALL_R;
+      this.vx = -Math.abs(this.vx);
+      if (Math.abs(this.vy) < this.MIN_VY) this.vy = this.MIN_VY;
+      this.spawnRipple(WR, this.by, 0x336633);
+    }
 
-    if (
-      bx + BALL_R >= paddleLeft &&
-      bx - BALL_R <= PX + PADDLE_W / 2 &&
-      by + BALL_R >= paddleTop &&
-      by - BALL_R <= paddleBottom &&
-      this.vx > 0 &&
+    // ── Paddle collision ─────────────────────────────────────────────────
+    // Hit zone: ball coming DOWN (vy > 0), within HIT_ZONE above paddle top
+    const padTop    = padY;
+    const padBottom = padY + PAD_H;
+    const padLeft   = this.padX - PAD_W;
+    const padRight  = this.padX + PAD_W;
+
+    const inHitZone = (
+      this.vy > 0 &&
+      this.by + BALL_R >= padTop - HIT_ZONE &&
+      this.by - BALL_R <= padBottom + 4 &&
+      this.bx + BALL_R >= padLeft &&
+      this.bx - BALL_R <= padRight &&
       this.hitCooldown <= 0
-    ) {
-      this.score++;
-      this.scoreTxt.setText(String(this.score));
+    );
 
-      // Angle based on hit position (-1 top, 0 center, +1 bottom)
-      const hitFrac = Phaser.Math.Clamp((by - this.paddleY) / (PADDLE_H / 2), -1, 1);
-      // Speed increases slightly each rally
-      const speed = Math.min(this.BALL_SPEED * (1 + this.score * 0.012), this.BALL_SPEED * 1.8);
-      const maxAngle = 55;
+    if (inHitZone) {
+      this.rally++;
+      this.rallyTxt.setText(String(this.rally));
+      if (this.rally > this.bestRally) {
+        this.bestRally = this.rally;
+        this.bestTxt.setText(String(this.bestRally));
+      }
+
+      // Speed with progression
+      const spd = Math.min(
+        this.BASE_SPEED * (1 + this.rally * this.ACCEL_PER_HIT),
+        this.MAX_SPEED
+      );
+
+      // Angle: based on horizontal offset from paddle center (-1 left, +1 right)
+      const hitFrac = Phaser.Math.Clamp((this.bx - this.padX) / PAD_W, -1, 1);
+      const maxAngle = 50;
       const bounceAngle = hitFrac * maxAngle;
-      this.vx = -Math.cos(Phaser.Math.DegToRad(bounceAngle)) * speed;
-      this.vy =  Math.sin(Phaser.Math.DegToRad(bounceAngle)) * speed;
 
-      // Push ball out of paddle
-      this.ball.x = paddleLeft - BALL_R - 2;
+      this.vx = Math.sin(Phaser.Math.DegToRad(bounceAngle)) * spd;
+      this.vy = -Math.cos(Phaser.Math.DegToRad(bounceAngle)) * spd; // upward
 
-      this.hitCooldown = 150;
-      this.spawnRipple(PX, by, 0x00d4ff);
-      this.cameras.main.shake(20, 0.003);
+      // Paddle momentum adds spin
+      const spin = Phaser.Math.Clamp(this.padVelX * 0.12, -70, 70);
+      this.vx += spin;
 
-      // Score pop animation
+      // Small random deviation
+      this.vx += Phaser.Math.FloatBetween(-12, 12);
+
+      this.ensureMinVY();
+
+      // Push ball clear of paddle
+      this.by = padTop - BALL_R - 2;
+
+      this.hitCooldown = 160;
+      this.spawnRipple(this.bx, this.by, 0x00d4ff);
+      this.cameras.main.shake(18, 0.003);
+
+      // Rally pop
       this.tweens.add({
-        targets: this.scoreTxt,
-        scaleX: 1.3, scaleY: 1.3,
-        duration: 80,
+        targets: this.rallyTxt,
+        scaleX: 1.35, scaleY: 1.35,
+        duration: 70,
         yoyo: true,
         ease: "Back.Out",
       });
     }
 
-    // ── Ball exits right → missed → game over ────────────────────────────────
-    if (bx > PX + 80) {
+    // ── Miss — ball exits bottom ─────────────────────────────────────────
+    if (this.by - BALL_R > BY + 60) {
       this.endGame();
     }
   }
@@ -279,22 +374,27 @@ class SquashScene extends Phaser.Scene {
     const W = this.scale.width;
     const H = this.scale.height;
 
-    // Overlay
     const overlay = this.add.graphics();
-    overlay.fillStyle(0x000000, 0.55);
+    overlay.fillStyle(0x000000, 0.58);
     overlay.fillRect(0, 0, W, H);
     overlay.setDepth(15);
 
-    this.add.text(W / 2, H / 2 - 40, "MISS!", {
+    this.add.text(W / 2, H / 2 - 55, "MISS!", {
       fontSize: "52px", fontFamily: "monospace",
       color: "#ff2d78", fontStyle: "bold",
     }).setOrigin(0.5).setDepth(20);
 
-    this.add.text(W / 2, H / 2 + 18, `Rally: ${this.score}`, {
-      fontSize: "26px", fontFamily: "monospace", color: "#ffffff",
+    this.add.text(W / 2, H / 2 + 4, `Rally: ${this.rally}`, {
+      fontSize: "28px", fontFamily: "monospace", color: "#ffffff",
     }).setOrigin(0.5).setDepth(20);
 
-    this.time.delayedCall(1400, () => this.onGameEnd(this.score));
+    if (this.rally >= this.bestRally && this.rally > 0) {
+      this.add.text(W / 2, H / 2 + 44, "🏆 New Best!", {
+        fontSize: "18px", fontFamily: "monospace", color: "#ffd700",
+      }).setOrigin(0.5).setDepth(20);
+    }
+
+    this.time.delayedCall(1400, () => this.onGameEnd(this.rally));
   }
 
   // ── spawnRipple ───────────────────────────────────────────────────────────
@@ -305,8 +405,8 @@ class SquashScene extends Phaser.Scene {
     gfx.setDepth(8);
     this.tweens.add({
       targets: gfx,
-      alpha: 0, scaleX: 3, scaleY: 3,
-      duration: 300,
+      alpha: 0, scaleX: 3.5, scaleY: 3.5,
+      duration: 280,
       ease: "Quad.Out",
       onComplete: () => gfx.destroy(),
     });
@@ -327,12 +427,11 @@ export default function SquashGame({ onGameEnd }: Props) {
     scene.onGameEnd = onGameEnd;
 
     gameRef.current = new Phaser.Game({
-      type: Phaser.AUTO,
-      width:           containerRef.current.clientWidth  || 480,
-      height:          containerRef.current.clientHeight || 640,
+      type:            Phaser.AUTO,
+      width:           containerRef.current.clientWidth  || 390,
+      height:          containerRef.current.clientHeight || 680,
       backgroundColor: "#050f05",
       parent:          containerRef.current,
-      physics: { default: "arcade", arcade: { gravity: { x: 0, y: 0 }, debug: false } },
       scene,
       scale: { mode: Phaser.Scale.RESIZE, autoCenter: Phaser.Scale.CENTER_BOTH },
       input: { activePointers: 2 },

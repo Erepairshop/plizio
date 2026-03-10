@@ -25,8 +25,8 @@ const T = {
     rally: "Rally",
     playAgain: "Play Again",
     back: "Back",
-    tip: "Move with arrow keys, WASD or touch",
-    hitFrontWall: "Hit the front wall and keep the rally going!",
+    tip: "Move left/right with arrows, A/D or touch",
+    hitFrontWall: "Hit the front wall — keep the rally going!",
   },
   hu: {
     title: "Squash",
@@ -36,8 +36,8 @@ const T = {
     rally: "Menet",
     playAgain: "Újra",
     back: "Vissza",
-    tip: "Irányítsd nyilakkal, WASD-dal vagy érintéssel",
-    hitFrontWall: "Üsd az első falnak és tartsd a menetet!",
+    tip: "Mozogj bal/jobb nyilakkal, A/D-vel vagy érintéssel",
+    hitFrontWall: "Üsd az első falnak — tartsd a menetet!",
   },
   de: {
     title: "Squash",
@@ -47,8 +47,8 @@ const T = {
     rally: "Ballwechsel",
     playAgain: "Nochmal",
     back: "Zurück",
-    tip: "Steuern mit Pfeiltasten, WASD oder Touch",
-    hitFrontWall: "Triff die Vorderwand und halte den Ballwechsel am Laufen!",
+    tip: "Links/Rechts mit Pfeiltasten, A/D oder Touch",
+    hitFrontWall: "Triff die Vorderwand — halte den Ballwechsel am Laufen!",
   },
   ro: {
     title: "Squash",
@@ -58,8 +58,8 @@ const T = {
     rally: "Schimb",
     playAgain: "Din nou",
     back: "Înapoi",
-    tip: "Mișcă cu săgeți, WASD sau atingere",
-    hitFrontWall: "Lovește peretele din față și ține schimbul în desfășurare!",
+    tip: "Mișcă stânga/dreapta cu săgeți, A/D sau atingere",
+    hitFrontWall: "Lovește peretele din față — ține schimbul în desfășurare!",
   },
 };
 
