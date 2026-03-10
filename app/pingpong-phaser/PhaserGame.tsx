@@ -158,7 +158,7 @@ class PingPongScene extends Phaser.Scene {
     const W = this.scale.width;
     const H = this.scale.height;
 
-    const tW = Math.min(W * 0.70, 290);
+    const tW = Math.min(W * 0.84, 348);
     const tH = tW / 0.56;
     const tL = (W - tW) / 2;
     const tT = (H - tH) / 2;
@@ -503,6 +503,8 @@ class PingPongScene extends Phaser.Scene {
   update(_time: number, delta: number) {
     if (this.gameOver) return;
 
+    const W = this.scale.width;
+    const H = this.scale.height;
     const tL: number = this.data.get("tL");
     const tT: number = this.data.get("tT");
     const tW: number = this.data.get("tW");
@@ -615,16 +617,16 @@ class PingPongScene extends Phaser.Scene {
 
     // ─── Player movement ──────────────────────────────────────────────
     if (this.cursors.left.isDown || this.wasd.left.isDown) {
-      this.player.x = Math.max(tL + R, this.player.x - SPEED * dt);
+      this.player.x = Math.max(R, this.player.x - SPEED * dt);
     }
     if (this.cursors.right.isDown || this.wasd.right.isDown) {
-      this.player.x = Math.min(tL + tW - R, this.player.x + SPEED * dt);
+      this.player.x = Math.min(W - R, this.player.x + SPEED * dt);
     }
     if (this.cursors.up.isDown || this.wasd.up.isDown) {
-      this.player.y = Math.max(tT + tH * 0.52 + R, this.player.y - SPEED * dt);
+      this.player.y = Math.max(tT + tH * 0.50 + R, this.player.y - SPEED * dt);
     }
     if (this.cursors.down.isDown || this.wasd.down.isDown) {
-      this.player.y = Math.min(tT + tH - R, this.player.y + SPEED * dt);
+      this.player.y = Math.min(H - R, this.player.y + SPEED * dt);
     }
 
     // Feature 3 & 10: Touch with smoothing + slight prediction
@@ -634,8 +636,8 @@ class PingPongScene extends Phaser.Scene {
       // Feature 10: predict slightly ahead (extrapolate 10% of delta toward target)
       const predX = this.touchX + dx * 0.10;
       const predY = this.touchY + dy * 0.10;
-      const tx = Phaser.Math.Clamp(predX, tL + R, tL + tW - R);
-      const ty = Phaser.Math.Clamp(predY, tT + tH * 0.52 + R, tT + tH - R);
+      const tx = Phaser.Math.Clamp(predX, R, W - R);
+      const ty = Phaser.Math.Clamp(predY, tT + tH * 0.50 + R, H - R);
       // Feature 3: lerp smoothing (0.40 = slightly smoother than before)
       this.player.x = Phaser.Math.Linear(this.player.x, tx, 0.40);
       this.player.y = Phaser.Math.Linear(this.player.y, ty, 0.40);
@@ -678,8 +680,8 @@ class PingPongScene extends Phaser.Scene {
     const aiDist = Math.sqrt(aiDX * aiDX + aiDY * aiDY);
     if (aiDist > 2) {
       const aiMove = Math.min(aiMoveSpeed * dt, aiDist);
-      this.ai.x = Phaser.Math.Clamp(this.ai.x + (aiDX / aiDist) * aiMove, tL + R, tL + tW - R);
-      this.ai.y = Phaser.Math.Clamp(this.ai.y + (aiDY / aiDist) * aiMove, tT + R, tT + tH * 0.48 - R);
+      this.ai.x = Phaser.Math.Clamp(this.ai.x + (aiDX / aiDist) * aiMove, R, W - R);
+      this.ai.y = Phaser.Math.Clamp(this.ai.y + (aiDY / aiDist) * aiMove, R, tT + tH * 0.48 - R);
     }
 
     // ─── Ball boundaries ──────────────────────────────────────────────
