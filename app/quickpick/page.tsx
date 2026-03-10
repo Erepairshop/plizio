@@ -7,7 +7,7 @@ import { Crosshair, Trophy, CheckCircle, XCircle, ArrowUp, Flame, Globe, Music, 
 import Link from "next/link";
 import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
-import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
+import { calculateRarity, saveCard, generateCardId, type CardRarity } from "@/lib/cards";
 import { incrementTotalGames, incrementPerfectScores, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
 import { useLang } from "@/components/LanguageProvider";
@@ -270,6 +270,11 @@ function updateStreak(): number {
 }
 
 const TOTAL_ROUNDS = 10;
+// Időbónusz paraméterek (láthatatlan a játékos számára)
+const EXPECTED_TIME = 30; // másodperc — ennél gyorsabb = bónusz
+const TIME_BONUS_PER_SEC = 10; // pont/másodperc
+const TIME_BONUS_MAX = 150; // max 150 pont bónusz
+const MAX_SCORE = TOTAL_ROUNDS * 100 + TIME_BONUS_MAX; // 1150
 
 export default function QuickPickPageWrapper() {
   return (
@@ -312,6 +317,7 @@ function QuickPickPage() {
   const [oppFinalScore, setOppFinalScore] = useState<number | null>(null);
   const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
   const [mixFinished, setMixFinished] = useState(false);
+  const [earnedRarity, setEarnedRarity] = useState<CardRarity>("bronze");
   const [roundResult, setRoundResult] = useState<{ myScore: number; oppScore: number; roundNumber: number; totalRounds: number } | null>(null);
   const [showRoundResult, setShowRoundResult] = useState(false);
   const [oppScore, setOppScore] = useState(0);
@@ -401,11 +407,13 @@ function QuickPickPage() {
           setMyFinalScore(result.myWins);
           setOppFinalScore(result.oppWins);
           setMixFinished(true);
-          // Save one card for the whole mix
-          const rarity = calculateRarity(score, TOTAL_ROUNDS, streak, 85);
+          // Save one card for the whole mix (time elapsed unknown here, use score-only rarity)
+          const mixRarity: CardRarity = score === TOTAL_ROUNDS && streak >= 3
+            ? "legendary"
+            : calculateRarity(score * 100, MAX_SCORE, streak, 85);
           saveCard({
             id: generateCardId(), game: "quickpick", theme: selectedTheme,
-            rarity, score, total: TOTAL_ROUNDS, date: new Date().toISOString(),
+            rarity: mixRarity, score, total: TOTAL_ROUNDS, date: new Date().toISOString(),
           });
           window.dispatchEvent(new Event("plizio-cards-changed"));
           incrementTotalGames();
@@ -534,6 +542,13 @@ function QuickPickPage() {
         setStreak(newStreak);
         const finalScore = score + (correct ? 1 : 0);
 
+        // Időbónusz számítás (láthatatlan)
+        const timeBonus = Math.min(TIME_BONUS_MAX, Math.max(0, (EXPECTED_TIME - elapsed) * TIME_BONUS_PER_SEC));
+        const combinedScore = finalScore * 100 + timeBonus;
+        const rarity: CardRarity = finalScore === TOTAL_ROUNDS && newStreak >= 3
+          ? "legendary"
+          : calculateRarity(combinedScore, MAX_SCORE, newStreak, 85);
+
         if (isMix && matchId && !scoreSubmitted) {
           // Mix mode: submit round score, NO card save between rounds
           setScoreSubmitted(true);
@@ -546,7 +561,7 @@ function QuickPickPage() {
           setScoreSubmitted(true);
           submitScore(matchId, finalScore, playerNum === "1");
           // Save card
-          const rarity = calculateRarity(finalScore, TOTAL_ROUNDS, newStreak, 85);
+          setEarnedRarity(rarity);
           saveCard({
             id: generateCardId(), game: "quickpick", theme: selectedTheme,
             rarity, score: finalScore, total: TOTAL_ROUNDS, date: new Date().toISOString(),
@@ -559,7 +574,7 @@ function QuickPickPage() {
           setGameState("mix-waiting");
         } else {
           // Solo mode: save card and show reward
-          const rarity = calculateRarity(finalScore, TOTAL_ROUNDS, newStreak, 85);
+          setEarnedRarity(rarity);
           saveCard({
             id: generateCardId(), game: "quickpick", theme: selectedTheme,
             rarity, score: finalScore, total: TOTAL_ROUNDS, date: new Date().toISOString(),
@@ -983,7 +998,7 @@ function QuickPickPage() {
       {/* Reward Reveal - shows after multi-result (or directly for solo) */}
       {gameState === "reward" && (
         <RewardReveal
-          rarity={calculateRarity(score, TOTAL_ROUNDS, streak, 85)}
+          rarity={earnedRarity}
           game="quickpick"
           score={score}
           total={TOTAL_ROUNDS}

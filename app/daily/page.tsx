@@ -6,7 +6,7 @@ import { Calendar, Trophy, CheckCircle, XCircle, ArrowUp, Flame, Lock, X } from 
 import Link from "next/link";
 import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
-import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
+import { calculateRarity, saveCard, generateCardId, type CardRarity } from "@/lib/cards";
 import generalData from "@/data/quickpick/general.json";
 import musicData from "@/data/quickpick/music.json";
 import footballData from "@/data/quickpick/football.json";
@@ -80,12 +80,16 @@ function saveDailyResult(score: number, total: number): void {
 }
 
 const TOTAL_ROUNDS = 10;
+const DAILY_EXPECTED_TIME = 30; // másodperc
+const DAILY_TIME_BONUS_MAX = 150;
+const DAILY_MAX_SCORE = TOTAL_ROUNDS * 100 + DAILY_TIME_BONUS_MAX;
 
 export default function DailyChallengePage() {
   const [gameState, setGameState] = useState<GameState>("intro");
   const [countdown, setCountdown] = useState(3);
   const [round, setRound] = useState(0);
   const [score, setScore] = useState(0);
+  const [earnedRarity, setEarnedRarity] = useState<CardRarity>("bronze");
   const [questions, setQuestions] = useState<Question[]>([]);
   const [picked, setPicked] = useState<"A" | "B" | null>(null);
   const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
@@ -167,7 +171,11 @@ export default function DailyChallengePage() {
         setTotalTime(elapsed);
         const finalScore = score + (correct ? 1 : 0);
         saveDailyResult(finalScore, TOTAL_ROUNDS);
-        const rarity = calculateRarity(finalScore, TOTAL_ROUNDS, 0, 85);
+        // Időbónusz (láthatatlan)
+        const dailyBonus = Math.min(DAILY_TIME_BONUS_MAX, Math.max(0, (DAILY_EXPECTED_TIME - elapsed) * 10));
+        const dailyCombined = finalScore * 100 + dailyBonus;
+        const rarity: CardRarity = calculateRarity(dailyCombined, DAILY_MAX_SCORE, 0, 85);
+        setEarnedRarity(rarity);
         saveCard({
           id: generateCardId(),
           game: "daily",
@@ -458,7 +466,7 @@ export default function DailyChallengePage() {
       {/* Reward */}
       {gameState === "reward" && (
         <RewardReveal
-          rarity={calculateRarity(score, TOTAL_ROUNDS, 0, 85)}
+          rarity={earnedRarity}
           game="daily"
           score={score}
           total={TOTAL_ROUNDS}

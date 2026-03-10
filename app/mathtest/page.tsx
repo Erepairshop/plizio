@@ -642,7 +642,13 @@ export default function MathTestPage() {
 
     const streak = updateStreak();
     updateStats({ highestStreak: streak });
-    const rarity = calculateRarity(gradeResult.score, gradeResult.total, streak, 85);
+    // Időbónusz (láthatatlan): 60s várható idő, max 150 pont
+    const mathTimeBonus = Math.min(150, Math.max(0, (60 - elapsedTime) * 10));
+    const mathMaxScore = gradeResult.total * 100 + 150;
+    const mathCombined = gradeResult.score * 100 + mathTimeBonus;
+    const rarity: CardRarity = gradeResult.score === gradeResult.total && streak >= 3
+      ? "legendary"
+      : calculateRarity(mathCombined, mathMaxScore, streak, 85);
     setCardRarity(rarity);
 
     saveCard({
