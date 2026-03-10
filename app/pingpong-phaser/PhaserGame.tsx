@@ -42,6 +42,22 @@ class PingPongScene extends Phaser.Scene {
   private readonly PADDLE_R = 17; // SCALE=0.85 → visual diameter ~68px
   private readonly HITBOX_R = 24; // slightly generous hitbox for touch
 
+  // Feature 4: Paddle momentum tracking
+  private playerPrevX = 0;
+  private playerPrevY = 0;
+  private playerVelX = 0;
+  private playerVelY = 0;
+
+  // AI smooth target (recalculated once per ball approach, not every frame)
+  private aiFixedTargetX = -1;
+  private aiLastBallVySign = 0;
+
+  // AI velocity tracking (same as player)
+  private aiPrevX = 0;
+  private aiPrevY = 0;
+  private aiVelX = 0;
+  private aiVelY = 0;
+
   // Swipe smash
   private swipeStartY = 0;
   private swipeStartTime = 0;
@@ -49,12 +65,6 @@ class PingPongScene extends Phaser.Scene {
   // Rally combo
   private combo = 0;
   private comboTxt!: Phaser.GameObjects.Text;
-
-  // Feature 4: Paddle momentum tracking
-  private playerPrevX = 0;
-  private playerPrevY = 0;
-  private playerVelX = 0;
-  private playerVelY = 0;
 
   // Flickering fix: hit cooldown prevents multi-trigger
   private hitCooldown = 0;
@@ -102,7 +112,7 @@ class PingPongScene extends Phaser.Scene {
     g.generateTexture("ball", 36, 36);
     g.clear();
 
-    // Player paddle (red) with dot texture pattern - MODERNIZED (larger, more detail)
+    // Player paddle (red) — circle at y=40, handle below y=82-122 (symmetric with AI)
     g.fillStyle(0x5a1a1a);
     g.fillCircle(40, 40, 40);
     g.fillStyle(0xcc1515);
@@ -111,21 +121,20 @@ class PingPongScene extends Phaser.Scene {
     g.fillCircle(40, 40, 28);
     g.fillStyle(0xffffff, 0.25);
     g.fillCircle(32, 32, 14);
-    // Dot texture pattern on rubber surface (larger)
     g.fillStyle(0x8b1515, 0.4);
     for (let i = 0; i < 7; i++) {
-      for (let j = 0; j < 6; j++) {
-        g.fillCircle(12 + i * 4, 14 + j * 4, 1.2);
+      for (let j = 0; j < 5; j++) {
+        g.fillCircle(12 + i * 4, 16 + j * 4, 1.2);
       }
     }
     g.fillStyle(0x8b6340);
-    g.fillRoundedRect(30, 75, 20, 35, 4);
+    g.fillRoundedRect(30, 82, 20, 40, 4);
     g.fillStyle(0xa07850, 0.7);
-    g.fillRoundedRect(34, 78, 12, 30, 3);
+    g.fillRoundedRect(34, 85, 12, 34, 3);
     g.generateTexture("playerPaddle", 80, 130);
     g.clear();
 
-    // AI paddle (blue) — vertical mirror of player (circle at y=90, handle at top)
+    // AI paddle (blue) — circle at y=90, handle above y=8-48 (mirror of player)
     g.fillStyle(0x0d2d55);
     g.fillCircle(40, 90, 40);
     g.fillStyle(0x1060cc);
@@ -134,18 +143,16 @@ class PingPongScene extends Phaser.Scene {
     g.fillCircle(40, 90, 28);
     g.fillStyle(0xffffff, 0.25);
     g.fillCircle(32, 82, 14);
-    // Dot texture (mirrored position relative to circle center)
     g.fillStyle(0x0d4d88, 0.4);
     for (let i = 0; i < 7; i++) {
-      for (let j = 0; j < 6; j++) {
+      for (let j = 0; j < 5; j++) {
         g.fillCircle(12 + i * 4, 66 + j * 4, 1.2);
       }
     }
-    // Handle at top (mirror of player's handle at bottom)
     g.fillStyle(0x8b6340);
-    g.fillRoundedRect(30, 20, 20, 35, 4);
+    g.fillRoundedRect(30, 8, 20, 40, 4);
     g.fillStyle(0xa07850, 0.7);
-    g.fillRoundedRect(34, 23, 12, 30, 3);
+    g.fillRoundedRect(34, 11, 12, 34, 3);
     g.generateTexture("aiPaddle", 80, 130);
     g.clear();
 
@@ -166,7 +173,7 @@ class PingPongScene extends Phaser.Scene {
     const W = this.scale.width;
     const H = this.scale.height;
 
-    const tW = Math.min(W * 0.80, 340);
+    const tW = Math.min(W * 0.84, 348);
     const tH = tW / 0.56;
     const tL = (W - tW) / 2;
     const tT = (H - tH) / 2;
@@ -174,11 +181,11 @@ class PingPongScene extends Phaser.Scene {
     // Background
     this.add.rectangle(W / 2, H / 2, W, H, 0x0a0a1a);
 
-    // Table with gradient (lighter top, darker bottom green)
+    // Table with gradient (classic TT green)
     const tableGradient = this.add.graphics();
-    tableGradient.fillStyle(0x0d3a24, 1.0);
+    tableGradient.fillStyle(0x1e7a3e, 1.0);
     tableGradient.fillRect(tL, tT, tW, tH / 2);
-    tableGradient.fillStyle(0x081c14, 1.0);
+    tableGradient.fillStyle(0x196033, 1.0);
     tableGradient.fillRect(tL, tT + tH / 2, tW, tH / 2);
 
     // Subtle table texture (very faint noise pattern)
@@ -191,30 +198,23 @@ class PingPongScene extends Phaser.Scene {
       textureGfx.fillRect(rx, ry, rw, rw);
     }
 
-    // Center line with glow effect
-    const centerLineGlow = this.add.graphics();
-    centerLineGlow.fillStyle(0x00ff88, 0.08);
-    centerLineGlow.fillRect(W / 2 - 3, tT, 6, tH);
-    centerLineGlow.fillStyle(0x00ff88, 0.12);
-    centerLineGlow.fillRect(W / 2 - 1, tT, 2, tH);
+    // Table border (white lines)
+    const borderGfx = this.add.graphics();
+    borderGfx.lineStyle(3, 0xffffff, 0.95);
+    borderGfx.strokeRect(tL, tT, tW, tH);
 
-    // Net marker with shadow
-    this.add.rectangle(W / 2, H / 2, 4, tH * 0.06, 0xffffff).setAlpha(0.9);
-    const netShadow = this.add.graphics();
-    netShadow.fillStyle(0x000000, 0.15);
-    netShadow.fillRect(W / 2 - 2, H / 2 + 2, 4, tH * 0.08);
+    // Net: horizontal white line at center
+    const netGfx = this.add.graphics();
+    netGfx.lineStyle(4, 0xffffff, 0.95);
+    netGfx.lineBetween(tL, tT + tH / 2, tL + tW, tT + tH / 2);
+    // Net shadow
+    netGfx.lineStyle(2, 0x000000, 0.18);
+    netGfx.lineBetween(tL, tT + tH / 2 + 3, tL + tW, tT + tH / 2 + 3);
 
-    // MODERNIZED: Larger, more visible grid lines (avoids paddle zones)
-    const lg = this.add.graphics();
-    lg.lineStyle(2.5, 0x00ff88, 0.18); // increased thickness and visibility
-    // Left lane
-    lg.lineBetween(tL + tW * 0.333, tT + tH * 0.22, tL + tW * 0.333, tT + tH * 0.78);
-    // Right lane
-    lg.lineBetween(tL + tW * 0.667, tT + tH * 0.22, tL + tW * 0.667, tT + tH * 0.78);
-    // Horizontal grid lines (major)
-    lg.lineStyle(1.5, 0x00ff88, 0.12);
-    lg.lineBetween(tL, tT + tH * 0.40, tL + tW, tT + tH * 0.40);
-    lg.lineBetween(tL, tT + tH * 0.60, tL + tW, tT + tH * 0.60);
+    // Center service line: vertical, full table height
+    const centerLineGfx = this.add.graphics();
+    centerLineGfx.lineStyle(2, 0xffffff, 0.75);
+    centerLineGfx.lineBetween(tL + tW / 2, tT, tL + tW / 2, tT + tH);
 
     // Soft vignette effect (darker edges)
     const vignetteGfx = this.add.graphics();
@@ -243,11 +243,11 @@ class PingPongScene extends Phaser.Scene {
     this.aiShadow.setDepth(4);
 
     this.player = this.add.image(W / 2, tT + tH * 0.84, "playerPaddle")
-      .setOrigin(0.5, 40 / 130) // adjusted for larger paddle
+      .setOrigin(0.5, 40 / 130) // circle center at y=40 in 130px texture
       .setScale(SCALE)
       .setDepth(15);
     this.ai = this.add.image(W / 2, tT + tH * 0.16, "aiPaddle")
-      .setOrigin(0.5, 90 / 130) // circle center at y=90 in 130px texture
+      .setOrigin(0.5, 90 / 130) // circle center at y=90 in 130px texture (mirror of player)
       .setScale(SCALE)
       .setDepth(15);
 
@@ -302,9 +302,11 @@ class PingPongScene extends Phaser.Scene {
     }).setOrigin(0.5).setAlpha(0.85).setDepth(30).setVisible(false);
 
     // Rally combo display
-    this.comboTxt = this.add.text(W / 2, tT + tH * 0.62, "", {
-      fontSize: "22px", fontFamily: "monospace", color: "#00ff88",
-      fontStyle: "bold", stroke: "#000", strokeThickness: 3,
+    this.comboTxt = this.add.text(W / 2, tT - 80, "", {
+      fontSize: "22px",
+      fontFamily: "monospace",
+      color: "#00ff88",
+      fontStyle: "bold",
     }).setOrigin(0.5).setDepth(30).setAlpha(0);
 
     // Input
@@ -318,21 +320,18 @@ class PingPongScene extends Phaser.Scene {
     this.spaceKey = this.input.keyboard!.addKey(Phaser.Input.Keyboard.KeyCodes.SPACE);
 
     this.input.on("pointerdown", (p: Phaser.Input.Pointer) => {
-      this.swipeStartY = p.y;
-      this.swipeStartTime = this.time.now;
       this.touchX = p.x; this.touchY = p.y;
+      this.swipeStartY = p.y;
+      this.swipeStartTime = Date.now();
       if (this.waitingForServe) this.launchBall();
     });
     this.input.on("pointermove", (p: Phaser.Input.Pointer) => {
       if (p.isDown) { this.touchX = p.x; this.touchY = p.y; }
     });
     this.input.on("pointerup", (p: Phaser.Input.Pointer) => {
-      // Swipe smash: fast downward swipe (finger swings down toward ball)
-      const swipeDy = p.y - this.swipeStartY;
-      const swipeDt = this.time.now - this.swipeStartTime;
-      if (swipeDy > 70 && swipeDt < 300) {
-        this.swipeSmashReady = true;
-      }
+      const swipeDy = this.swipeStartY - p.y; // positive = upward swipe toward AI
+      const swipeDt = Date.now() - this.swipeStartTime;
+      if (swipeDy > 60 && swipeDt < 300) this.swipeSmashReady = true;
       this.touchX = -1; this.touchY = -1;
     });
 
@@ -353,27 +352,14 @@ class PingPongScene extends Phaser.Scene {
 
     this.playerPrevX = W / 2;
     this.playerPrevY = tT + tH * 0.84;
+    this.aiPrevX = W / 2;
+    this.aiPrevY = tT + tH * 0.16;
 
     // Delay then show serve prompt (no auto-launch)
     this.time.delayedCall(500, () => { if (!this.gameOver) this.serve(); });
   }
 
   // Position ball and wait for player input (feature 3 – tap to serve)
-  // ─── Combo Display ──────────────────────────────────────────────────────────
-  private updateComboDisplay(bx: number, by: number) {
-    if (this.combo < 2) { this.comboTxt.setAlpha(0); return; }
-    const colors = ["#00ff88", "#ffd700", "#ff8800", "#ff2d78", "#b44dff"];
-    const colorIdx = Math.min(Math.floor((this.combo - 2) / 2), colors.length - 1);
-    this.comboTxt
-      .setText(`x${this.combo} COMBO!`)
-      .setColor(colors[colorIdx])
-      .setAlpha(1)
-      .setPosition(bx, by - 40);
-    this.tweens.killTweensOf(this.comboTxt);
-    this.comboTxt.setScale(1.3);
-    this.tweens.add({ targets: this.comboTxt, scaleX: 1, scaleY: 1, duration: 200, ease: "Back.Out" });
-  }
-
   private serve() {
     const W = this.scale.width;
     const tT: number = this.data.get("tT");
@@ -442,7 +428,7 @@ class PingPongScene extends Phaser.Scene {
     this.time.delayedCall(300, () => sparkEmitter.destroy());
 
     this.impacts.push({ x, y, age: 0, color });
-    this.cameras.main.shake(30, 0.0008); // very subtle — just a hint of impact
+    this.cameras.main.shake(50, 0.003);
   }
 
   // Feature 6 & 9: Clamp speed, ensure min Y velocity
@@ -496,12 +482,33 @@ class PingPongScene extends Phaser.Scene {
     });
   }
 
+  private updateComboDisplay() {
+    if (this.combo < 2) { this.comboTxt.setAlpha(0); return; }
+    const colors = ["#00ff88", "#ffd700", "#ff8c00", "#ff2d78", "#b44dff"];
+    const ci = Math.min(this.combo - 2, colors.length - 1);
+    this.comboTxt.setText(`x${this.combo} COMBO`);
+    this.comboTxt.setColor(colors[ci]);
+    this.comboTxt.setAlpha(1);
+    this.tweens.killTweensOf(this.comboTxt);
+    this.comboTxt.setScale(1.3);
+    this.tweens.add({ targets: this.comboTxt, scale: 1, duration: 200, ease: "Back.Out" });
+  }
+
   private scorePoint(playerScored: boolean) {
     const W = this.scale.width;
     const tL: number = this.data.get("tL");
     const tT: number = this.data.get("tT");
     const tW: number = this.data.get("tW");
     const tH: number = this.data.get("tH");
+
+    // Combo reset + haptic
+    this.combo = 0;
+    this.comboTxt.setAlpha(0);
+    if (playerScored) {
+      navigator.vibrate?.([60, 40, 120]);
+    } else {
+      navigator.vibrate?.(80);
+    }
 
     // Table flash effect on score
     const flashColor = playerScored ? 0x00d4ff : 0xe83030;
@@ -517,11 +524,6 @@ class PingPongScene extends Phaser.Scene {
       duration: 350,
       ease: "Quad.Out",
     });
-
-    // Reset combo + haptic on score
-    this.combo = 0;
-    this.comboTxt.setAlpha(0).setText("");
-    navigator.vibrate?.(playerScored ? [60, 40, 120] : 80);
 
     if (playerScored) {
       this.playerScore++;
@@ -554,15 +556,14 @@ class PingPongScene extends Phaser.Scene {
   update(_time: number, delta: number) {
     if (this.gameOver) return;
 
+    const W = this.scale.width;
+    const H = this.scale.height;
     const tL: number = this.data.get("tL");
     const tT: number = this.data.get("tT");
     const tW: number = this.data.get("tW");
     const tH: number = this.data.get("tH");
     const R = this.PADDLE_R;
-    // Big touch zones: larger hitbox on touch devices
-    const HR = this.input.activePointer.wasTouch
-      ? Math.round(this.HITBOX_R * 1.6)
-      : this.HITBOX_R;
+    const HR = this.input.activePointer?.wasTouch ? 32 : this.HITBOX_R;
     const dt = delta / 1000;
     const SPEED = 520;
 
@@ -585,7 +586,7 @@ class PingPongScene extends Phaser.Scene {
 
     // ─── Ball height simulation (for shadow scaling) ──────────────────
     // Ball is "in the air" between the two bounce lines; peaks at center
-    const bounceLineAI = tT + tH * 0.30;
+    const bounceLineAI = tT + tH * 0.38;
     const bounceLinePlayer = tT + tH * 0.70;
     const ballCenterY = tT + tH * 0.50;
     let ballZ = 0;
@@ -669,16 +670,16 @@ class PingPongScene extends Phaser.Scene {
 
     // ─── Player movement ──────────────────────────────────────────────
     if (this.cursors.left.isDown || this.wasd.left.isDown) {
-      this.player.x = Math.max(tL + R, this.player.x - SPEED * dt);
+      this.player.x = Math.max(R, this.player.x - SPEED * dt);
     }
     if (this.cursors.right.isDown || this.wasd.right.isDown) {
-      this.player.x = Math.min(tL + tW - R, this.player.x + SPEED * dt);
+      this.player.x = Math.min(W - R, this.player.x + SPEED * dt);
     }
     if (this.cursors.up.isDown || this.wasd.up.isDown) {
-      this.player.y = Math.max(tT + tH * 0.52 + R, this.player.y - SPEED * dt);
+      this.player.y = Math.max(tT + tH * 0.50 + R, this.player.y - SPEED * dt);
     }
     if (this.cursors.down.isDown || this.wasd.down.isDown) {
-      this.player.y = Math.min(tT + tH - R, this.player.y + SPEED * dt);
+      this.player.y = Math.min(H - R, this.player.y + SPEED * dt);
     }
 
     // Feature 3 & 10: Touch with smoothing + slight prediction
@@ -688,16 +689,20 @@ class PingPongScene extends Phaser.Scene {
       // Feature 10: predict slightly ahead (extrapolate 10% of delta toward target)
       const predX = this.touchX + dx * 0.10;
       const predY = this.touchY + dy * 0.10;
-      const tx = Phaser.Math.Clamp(predX, tL + R, tL + tW - R);
-      const ty = Phaser.Math.Clamp(predY, tT + tH * 0.52 + R, tT + tH - R);
+      const tx = Phaser.Math.Clamp(predX, R, W - R);
+      const ty = Phaser.Math.Clamp(predY, tT + tH * 0.50 + R, H - R);
       // Feature 3: lerp smoothing (0.40 = slightly smoother than before)
       this.player.x = Phaser.Math.Linear(this.player.x, tx, 0.40);
       this.player.y = Phaser.Math.Linear(this.player.y, ty, 0.40);
     }
 
-    // Save position for next-frame velocity calculation
+    // Save player position for next-frame velocity calculation
     this.playerPrevX = this.player.x;
     this.playerPrevY = this.player.y;
+
+    // ─── AI velocity tracking (before AI moves)
+    this.aiVelX = (this.ai.x - this.aiPrevX) / Math.max(dt, 0.001);
+    this.aiVelY = (this.ai.y - this.aiPrevY) / Math.max(dt, 0.001);
 
     // ─── AI movement — predict intercept or return home ───────────────
     const ballVyAI = this.ball.body!.velocity.y;
@@ -710,19 +715,28 @@ class PingPongScene extends Phaser.Scene {
     let aiMoveSpeed: number;
 
     if (ballVyAI < -20) {
-      // Ball heading toward AI — predict X intercept
-      const aiIntercept = tT + tH * 0.18; // where AI likes to hit from
-      const timeToReach = Math.abs((this.ball.y - aiIntercept) / (ballVyAI + 0.01));
-      const predictedX = this.ball.x + ballVxAI * timeToReach;
-      aiTargetX = Phaser.Math.Clamp(
-        predictedX + (Math.random() - 0.5) * this.aiError,
-        tL + R, tL + tW - R,
-      );
-      aiTargetY = aiIntercept;
+      // Ball heading toward AI — recalculate target only once per approach
+      const curSign = -1;
+      if (this.aiLastBallVySign !== curSign) {
+        this.aiLastBallVySign = curSign;
+        const aiIntercept = tT + tH * 0.18;
+        const timeToReach = Math.abs((this.ball.y - aiIntercept) / (ballVyAI + 0.01));
+        const predictedX = this.ball.x + ballVxAI * timeToReach;
+        this.aiFixedTargetX = Phaser.Math.Clamp(
+          predictedX + (Math.random() - 0.5) * this.aiError,
+          R, W - R,
+        );
+      }
+      aiTargetX = this.aiFixedTargetX;
+      aiTargetY = tT + tH * 0.18;
       aiMoveSpeed = this.aiSpeed;
     } else {
-      // Ball heading away — glide back to home position
-      aiTargetX = aiHomeX + (Math.random() - 0.5) * this.aiError * 0.5;
+      // Ball heading away — glide back to home position (fixed, no random jitter)
+      if (this.aiLastBallVySign !== 1) {
+        this.aiLastBallVySign = 1;
+        this.aiFixedTargetX = aiHomeX;
+      }
+      aiTargetX = this.aiFixedTargetX;
       aiTargetY = aiHomeY;
       aiMoveSpeed = this.aiSpeed * 0.65; // slower return
     }
@@ -732,9 +746,13 @@ class PingPongScene extends Phaser.Scene {
     const aiDist = Math.sqrt(aiDX * aiDX + aiDY * aiDY);
     if (aiDist > 2) {
       const aiMove = Math.min(aiMoveSpeed * dt, aiDist);
-      this.ai.x = Phaser.Math.Clamp(this.ai.x + (aiDX / aiDist) * aiMove, tL + R, tL + tW - R);
-      this.ai.y = Phaser.Math.Clamp(this.ai.y + (aiDY / aiDist) * aiMove, tT + R, tT + tH * 0.48 - R);
+      this.ai.x = Phaser.Math.Clamp(this.ai.x + (aiDX / aiDist) * aiMove, R, W - R);
+      this.ai.y = Phaser.Math.Clamp(this.ai.y + (aiDY / aiDist) * aiMove, R, tT + tH * 0.48 - R);
     }
+
+    // Save AI position for next-frame velocity calculation
+    this.aiPrevX = this.ai.x;
+    this.aiPrevY = this.ai.y;
 
     // ─── Ball boundaries ──────────────────────────────────────────────
     const bx = this.ball.x;
@@ -802,6 +820,17 @@ class PingPongScene extends Phaser.Scene {
         newVx += spinX;
         newVy += spinY;
 
+        // Paddle speed boost: fast swing → 5% extra power
+        const paddleSwingSpeed = Math.abs(this.playerVelY);
+        if (paddleSwingSpeed > 10) {
+          newVx *= 1.05;
+          newVy *= 1.05;
+        }
+
+        // Clamp each component to ±600
+        newVx = Phaser.Math.Clamp(newVx, -600, 600);
+        newVy = Phaser.Math.Clamp(newVy, -600, 0);
+
         // Minimum vertical speed (must go upward with enough force)
         if (newVy > -100) newVy = -100;
 
@@ -834,20 +863,26 @@ class PingPongScene extends Phaser.Scene {
           newVx = -Math.abs(newVx) * 0.25;
         }
 
-        // Swipe smash: boost power
+        // Swipe smash boost
         if (this.swipeSmashReady) {
-          newVy = -Math.abs(newVy) * 1.35;
-          newVx *= 1.2;
+          newVx *= 1.4;
+          newVy = Math.min(newVy * 1.3, -100);
           this.swipeSmashReady = false;
           navigator.vibrate?.([80, 30, 80]);
-          const st = this.add.text(bx, by - 30, "POWER SMASH!", {
-            fontSize: "17px", fontFamily: "monospace",
-            color: "#ff2d78", fontStyle: "bold", stroke: "#000", strokeThickness: 3,
-          }).setOrigin(0.5).setDepth(45);
-          this.tweens.add({ targets: st, y: st.y - 50, alpha: 0, duration: 700, onComplete: () => st.destroy() });
+          const smashTxt = this.add.text(bx, by - 30, "POWER SMASH!", {
+            fontSize: "18px", fontFamily: "monospace", color: "#ff2d78", fontStyle: "bold",
+          }).setOrigin(0.5).setDepth(35);
+          this.tweens.add({
+            targets: smashTxt, y: smashTxt.y - 40, alpha: 0, duration: 700, ease: "Quad.Out",
+            onComplete: () => smashTxt.destroy(),
+          });
         } else {
           navigator.vibrate?.(40);
         }
+
+        // Combo
+        this.combo++;
+        this.updateComboDisplay();
 
         // Push ball cleanly out of hitbox
         this.ball.y = this.player.y - HR - br - 2;
@@ -867,10 +902,6 @@ class PingPongScene extends Phaser.Scene {
         this.mustBounce = true;      // ball must bounce in AI half before AI can hit
         this.bounceTriggered = false;
         this.onHit(bx, by, 0xcc1515);
-
-        // Rally combo
-        this.combo++;
-        this.updateComboDisplay(bx, by);
 
         // Paddle hit animation (grows 5-10% briefly)
         const origScale = this.player.scale;
@@ -929,11 +960,22 @@ class PingPongScene extends Phaser.Scene {
         let newVx = Math.sin(Phaser.Math.DegToRad(randAngle)) * speed;
         let newVy = Math.abs(Math.cos(Phaser.Math.DegToRad(randAngle)) * speed);
 
-        // Spin limit: cap momentum contribution
-        const spinX = Phaser.Math.Clamp(0, -55, 55); // AI has no tracked momentum
-        const spinY = Phaser.Math.Clamp(0, -75, 75);
-        newVx += spinX;
-        newVy += spinY;
+        // AI paddle momentum contribution
+        const aiSpinX = Phaser.Math.Clamp(this.aiVelX * 0.10, -55, 55);
+        const aiSpinY = Phaser.Math.Clamp(this.aiVelY * 0.20, -75, 75);
+        newVx += aiSpinX;
+        newVy += aiSpinY;
+
+        // Paddle speed boost: fast AI swing → 5% extra power
+        const aiSwingSpeed = Math.abs(this.aiVelY);
+        if (aiSwingSpeed > 10) {
+          newVx *= 1.05;
+          newVy *= 1.05;
+        }
+
+        // Clamp each component to ±600
+        newVx = Phaser.Math.Clamp(newVx, -600, 600);
+        newVy = Phaser.Math.Clamp(newVy, 0, 600);
 
         // Minimum vertical speed (must go downward with enough force)
         if (newVy < 100) newVy = 100;
@@ -966,6 +1008,10 @@ class PingPongScene extends Phaser.Scene {
         if (bx > tL + tW - autoCorrectZone && newVx > 0) {
           newVx = -Math.abs(newVx) * 0.25;
         }
+
+        // Combo increment on AI hit
+        this.combo++;
+        this.updateComboDisplay();
 
         // Push ball cleanly out of hitbox
         this.ball.y = this.ai.y + HR + br + 2;
