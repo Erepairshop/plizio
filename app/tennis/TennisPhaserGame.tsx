@@ -49,9 +49,11 @@ class TennisScene extends Phaser.Scene {
   private serveRight = false; // who served last (true = player, false = ai)
   private aiTargetX = GW * 0.78;
   private aiTargetTimer = 0;
+  private rally = 0;
 
   // UI
   private scoreTxt!: Phaser.GameObjects.Text;
+  private rallyTxt!: Phaser.GameObjects.Text;
   private ballShadow!: Phaser.GameObjects.Graphics;
 
   // Input
@@ -424,6 +426,11 @@ class TennisScene extends Phaser.Scene {
       fontSize: "14px", fontFamily: "monospace", color: "#4488ff", fontStyle: "bold",
     }).setOrigin(0.5).setDepth(30);
 
+    // Rally counter
+    this.rallyTxt = this.add.text(NET_X, 60, "", {
+      fontSize: "16px", fontFamily: "monospace", color: "#ffffff",
+    }).setOrigin(0.5).setDepth(30).setAlpha(0.8);
+
     // Controls hint
     this.add.text(NET_X, GH - 12, "← → arrow keys  /  tap left side", {
       fontSize: "11px", fontFamily: "monospace", color: "#ffffff",
@@ -512,6 +519,17 @@ class TennisScene extends Phaser.Scene {
     // Slight vx variation on bounce
     const body = this.ball.body as Phaser.Physics.Arcade.Body;
     body.velocity.x *= (1 + Phaser.Math.FloatBetween(-0.04, 0.04));
+
+    // Bounce particles
+    const particles = this.add.particles(this.ball.x, GROUND_Y, "tdot", {
+      speed: { min: 20, max: 120 },
+      angle: { min: 220, max: 320 },
+      lifespan: 300,
+      quantity: 8,
+      scale: { start: 0.6, end: 0 },
+    });
+    particles.setDepth(12);
+    this.time.delayedCall(350, () => particles.destroy());
   }
 
   // ─── Score ──────────────────────────────────────────────────────────────────
@@ -521,10 +539,18 @@ class TennisScene extends Phaser.Scene {
     this.ball.setVelocity(0, 0);
     this.ball.setVisible(false);
 
+    // Reset rally
+    this.rally = 0;
+    this.rallyTxt.setText("");
+
     if (scorer === "player") this.playerScore++;
     else this.aiScore++;
 
     this.scoreTxt.setText(`${this.playerScore} • ${this.aiScore}`);
+
+    // Crowd reaction: flash + shake
+    this.cameras.main.shake(120, 0.004);
+    this.cameras.main.flash(200, 255, 255, 255, false);
 
     // Flash overlay
     const flash = this.add.graphics();
@@ -690,8 +716,13 @@ class TennisScene extends Phaser.Scene {
     if (isPlayer) this.hitCooldown = 550;
     else this.aiHitCooldown = 550;
 
+    // Rally counter
+    this.rally++;
+    this.rallyTxt.setText("RALLY: " + this.rally);
+
     const body = this.ball.body as Phaser.Physics.Arcade.Body;
-    const speed = 390 + Math.random() * 80;
+    const isSmash = this.ball.y < GROUND_Y - 120;
+    const speed = isSmash ? 520 : 390 + Math.random() * 80;
 
     if (isPlayer) {
       // Direction based on player X position in their half
@@ -734,8 +765,8 @@ class TennisScene extends Phaser.Scene {
       onComplete: () => hitRing.destroy(),
     });
 
-    // Subtle camera shake
-    this.cameras.main.shake(22, 0.003);
+    // Camera shake (stronger for smash)
+    this.cameras.main.shake(isSmash ? 80 : 22, isSmash ? 0.01 : 0.003);
 
     // Ball squash on hit
     this.ball.setScale(1.5, 0.62);
@@ -743,6 +774,10 @@ class TennisScene extends Phaser.Scene {
       targets: this.ball, scaleX: 1, scaleY: 1,
       duration: 100, ease: "Back.Out",
     });
+
+    // Speed increase per rally (5% per hit)
+    body.velocity.x *= 1.05;
+    body.velocity.y *= 1.05;
   }
 }
 
