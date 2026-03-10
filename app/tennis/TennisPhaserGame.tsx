@@ -13,7 +13,7 @@ interface Props {
 // ─── Constants ────────────────────────────────────────────────────────────────
 const GW = 900;
 const GH = 540;
-const GROUND_Y = 360;
+const GROUND_Y = 420;
 const NET_X = GW / 2;
 const NET_TOP_Y = GROUND_Y - 75;
 const WIN_SCORE = 5;
@@ -35,7 +35,7 @@ class TennisScene extends Phaser.Scene {
   private aiRacketImg!: Phaser.GameObjects.Image;
 
   // State
-  private playerX = GW * 0.22;
+  private playerX = GW * 0.30;
   private aiX = GW * 0.78;
   private playerScore = 0;
   private aiScore = 0;
@@ -448,12 +448,12 @@ class TennisScene extends Phaser.Scene {
     // Score panel
     const scoreBg = this.add.graphics();
     scoreBg.fillStyle(0x000000, 0.5);
-    scoreBg.fillRoundedRect(NET_X - 62, 6, 124, 46, 10);
+    scoreBg.fillRoundedRect(NET_X - 62, 10, 124, 56, 10);
     scoreBg.lineStyle(2, 0xffffff, 0.25);
-    scoreBg.strokeRoundedRect(NET_X - 62, 6, 124, 46, 10);
+    scoreBg.strokeRoundedRect(NET_X - 62, 10, 124, 56, 10);
     scoreBg.setDepth(28);
 
-    this.scoreTxt = this.add.text(NET_X, 40, "0 • 0", {
+    this.scoreTxt = this.add.text(NET_X, 55, "0 • 0", {
       fontSize: "30px",
       fontFamily: "monospace",
       color: "#ffffff",
@@ -476,7 +476,7 @@ class TennisScene extends Phaser.Scene {
     }).setOrigin(0.5).setDepth(30).setAlpha(0.8);
 
     // Combo display (left side, player area)
-    this.comboTxt = this.add.text(GW * 0.22, GH * 0.18, "", {
+    this.comboTxt = this.add.text(GW * 0.30, GH * 0.18, "", {
       fontSize: "20px", fontFamily: "monospace", color: "#00ff88",
       fontStyle: "bold", stroke: "#000", strokeThickness: 3,
     }).setOrigin(0.5).setDepth(30).setAlpha(0);
@@ -557,7 +557,7 @@ class TennisScene extends Phaser.Scene {
     this.ball.setVisible(true);
     if (playerServes) {
       this.ball.setPosition(this.playerX, GROUND_Y - 55);
-      const aim = (this.playerX - (GW * 0.22)) / (NET_X - GW * 0.22);
+      const aim = (this.playerX - (GW * 0.30)) / (NET_X - GW * 0.30);
       const angle = Phaser.Math.DegToRad(Phaser.Math.Linear(-30, 30, aim));
       const speed = 300 + this.servePower * 3;
       this.servePower = 0;
@@ -731,7 +731,7 @@ class TennisScene extends Phaser.Scene {
       this.servePower = Math.min(100, this.servePower + 2);
     }
 
-    const PLAYER_SPEED = this.dashTimer > 0 ? 520 : 295;
+    const PLAYER_SPEED = this.dashTimer > 0 ? 520 : 380;
     const PLAYER_MIN_X = 82;
     const PLAYER_MAX_X = NET_X - 36;
     const AI_MIN_X = NET_X + 36;
@@ -792,7 +792,7 @@ class TennisScene extends Phaser.Scene {
       const dist = Math.sqrt(dx * dx + dy * dy);
 
       // Hit: ball on player's side — bigger radius on touch devices
-      const hitRadius = this.input.activePointer.wasTouch ? 80 : 56;
+      const hitRadius = this.input.activePointer.wasTouch ? 90 : 56;
       if (dist < hitRadius && bx < NET_X - 10) {
         this.hitBall("player", dist);
       }
@@ -1047,7 +1047,7 @@ export default function TennisPhaserGame({ difficulty, onGameEnd }: Props) {
       },
       scene,
       scale: {
-        mode: Phaser.Scale.RESIZE,
+        mode: Phaser.Scale.FIT,
         autoCenter: Phaser.Scale.CENTER_BOTH,
       },
     };
