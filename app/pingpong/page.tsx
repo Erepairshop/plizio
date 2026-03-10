@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useEffect } from "react";
 import dynamic from "next/dynamic";
 import { motion, AnimatePresence } from "framer-motion";
 import Link from "next/link";
@@ -90,7 +90,7 @@ const DIFFICULTY_COLORS: Record<Difficulty, string> = {
   hard: "#ff2d78",
 };
 
-export default function PingPongPage() {
+export default function PingPongPhaserPage() {
   const { lang } = useLang();
   const t = (T[lang as keyof typeof T] || T.en) as typeof T.en;
 
@@ -101,6 +101,19 @@ export default function PingPongPage() {
   const [earnedCard, setEarnedCard] = useState<CardRarity | null>(null);
   const [_milestones, setMilestones] = useState<string[]>([]);
 
+  // Landscape detection: ping pong is portrait → rotate when landscape
+  const [isLandscape, setIsLandscape] = useState(false);
+  useEffect(() => {
+    const check = () => setIsLandscape(window.innerWidth > window.innerHeight);
+    check();
+    window.addEventListener("resize", check);
+    window.addEventListener("orientationchange", check);
+    return () => {
+      window.removeEventListener("resize", check);
+      window.removeEventListener("orientationchange", check);
+    };
+  }, []);
+
   const handleGameEnd = useCallback((won: boolean, myScore: number, oppScore: number) => {
     setPlayerScore(myScore);
     setAiScore(oppScore);
@@ -108,7 +121,7 @@ export default function PingPongPage() {
     if (won) {
       const streak = (() => {
         try {
-          const raw = localStorage.getItem("pingpong_streak");
+          const raw = localStorage.getItem("pingpong_phaser_streak");
           if (!raw) return 0;
           const { count, lastDate } = JSON.parse(raw);
           const today = new Date().toISOString().slice(0, 10);
@@ -121,14 +134,14 @@ export default function PingPongPage() {
       // Update streak
       const today = new Date().toISOString().slice(0, 10);
       try {
-        const raw = localStorage.getItem("pingpong_streak");
+        const raw = localStorage.getItem("pingpong_phaser_streak");
         if (raw) {
           const { count, lastDate } = JSON.parse(raw);
           const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
           const newCount = lastDate === today ? count : (lastDate === yesterday ? count + 1 : 1);
-          localStorage.setItem("pingpong_streak", JSON.stringify({ count: newCount, lastDate: today }));
+          localStorage.setItem("pingpong_phaser_streak", JSON.stringify({ count: newCount, lastDate: today }));
         } else {
-          localStorage.setItem("pingpong_streak", JSON.stringify({ count: 1, lastDate: today }));
+          localStorage.setItem("pingpong_phaser_streak", JSON.stringify({ count: 1, lastDate: today }));
         }
       } catch {}
 
@@ -209,19 +222,34 @@ export default function PingPongPage() {
 
       {/* ─── GAME ─────────────────────────────────────────────── */}
       {screen === "playing" && (
-        <div className="fixed inset-0 flex flex-col">
+        <div className="fixed inset-0 bg-black">
           {/* Exit button */}
-          <div className="absolute top-3 left-3 z-10">
+          <div className="absolute top-3 left-3 z-20">
             <button
               onClick={() => setScreen("menu")}
               className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 transition-colors text-sm font-bold"
             >✕</button>
           </div>
-          <PhaserGame
-            key={`${difficulty}-${Date.now()}`}
-            difficulty={difficulty}
-            onGameEnd={handleGameEnd}
-          />
+          {/* Landscape mode: rotate container so portrait game fills landscape screen */}
+          <div
+            style={isLandscape ? {
+              position: "absolute",
+              width: "100vh",
+              height: "100vw",
+              top: "50%",
+              left: "50%",
+              transform: "translate(-50%, -50%) rotate(-90deg)",
+            } : {
+              position: "absolute",
+              inset: 0,
+            }}
+          >
+            <PhaserGame
+              key={`${difficulty}-${Date.now()}`}
+              difficulty={difficulty}
+              onGameEnd={handleGameEnd}
+            />
+          </div>
         </div>
       )}
 
@@ -229,7 +257,7 @@ export default function PingPongPage() {
       {screen === "reward" && earnedCard && (
         <RewardReveal
           rarity={earnedCard}
-          game="pingpong"
+          game="pingpong-phaser"
           score={playerScore}
           total={11}
           onDone={() => setScreen("result")}
