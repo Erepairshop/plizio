@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useEffect } from "react";
 import dynamic from "next/dynamic";
 import { motion, AnimatePresence } from "framer-motion";
 import Link from "next/link";
@@ -144,6 +144,18 @@ export default function TennisPage() {
     setScreen("reward");
   }, [getStreak, updateStreak]);
 
+  const [isPortrait, setIsPortrait] = useState(false);
+  useEffect(() => {
+    const check = () => setIsPortrait(window.innerHeight > window.innerWidth);
+    check();
+    window.addEventListener("resize", check);
+    window.addEventListener("orientationchange", check);
+    return () => {
+      window.removeEventListener("resize", check);
+      window.removeEventListener("orientationchange", check);
+    };
+  }, []);
+
   const startGame = useCallback((diff: Difficulty) => {
     setDifficulty(diff);
     setPlayerScore(0);
@@ -152,7 +164,7 @@ export default function TennisPage() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-[#0A0A1A] flex flex-col items-center justify-center p-4">
+    <div className={screen === "playing" ? "fixed inset-0 bg-black z-50" : "min-h-screen bg-[#0A0A1A] flex flex-col items-center justify-center p-4"}>
       <AnimatePresence mode="wait">
 
         {/* ── MENU ─────────────────────────────────────────────────────────── */}
@@ -214,26 +226,29 @@ export default function TennisPage() {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
-            className="w-full max-w-3xl"
+            className="fixed inset-0 bg-black"
           >
-            {/* Top bar */}
-            <div className="flex justify-between items-center mb-2">
-              <button
-                onClick={() => setScreen("menu")}
-                className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-sm font-bold"
-              >
-                ✕
-              </button>
-              <span className="text-white/40 text-xs font-bold uppercase tracking-wider">
-                {t.vs}
-              </span>
-              <div className="w-8" />
-            </div>
+            {/* Exit button — floating top-left */}
+            <button
+              onClick={() => setScreen("menu")}
+              className="absolute top-4 left-4 z-20 w-8 h-8 flex items-center justify-center rounded-full bg-black/40 text-white/70 hover:bg-black/60 hover:text-white transition-colors text-sm font-bold"
+            >
+              ✕
+            </button>
 
-            {/* Phaser canvas */}
+            {/* Portrait mode: rotate container 90° so game fills landscape inside portrait */}
             <div
-              className="w-full rounded-xl overflow-hidden"
-              style={{ aspectRatio: "720/420" }}
+              style={isPortrait ? {
+                position: "absolute",
+                width: "100vh",
+                height: "100vw",
+                top: "50%",
+                left: "50%",
+                transform: "translate(-50%, -50%) rotate(90deg)",
+              } : {
+                position: "absolute",
+                inset: 0,
+              }}
             >
               <TennisPhaserGame
                 difficulty={difficulty}
