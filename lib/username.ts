@@ -78,20 +78,40 @@ export async function linkUsernameToUser(userId: string): Promise<void> {
 
 /**
  * Sync username to Supabase on login/register.
- * If the name doesn't exist in the table yet, insert it.
- * If it exists without user_id, link it.
+ * PRIORITY: if the userId already has a username on the server, restore it locally.
+ * This prevents a locally-typed "TempName" from overwriting the user's real username.
  */
 export async function syncUsernameToSupabase(userId: string): Promise<void> {
+  // FIRST: check if this userId already has a username on the server
+  const { data: serverLinked } = await supabase
+    .from("usernames")
+    .select("id, name")
+    .eq("user_id", userId)
+    .limit(1)
+    .maybeSingle();
+
+  if (serverLinked) {
+    // Server is authoritative — restore the real username locally
+    localStorage.setItem(USERNAME_KEY, serverLinked.name);
+    localStorage.setItem(USERNAME_ID_KEY, serverLinked.id);
+    await supabase
+      .from("usernames")
+      .update({ last_seen: new Date().toISOString() })
+      .eq("id", serverLinked.id);
+    return;
+  }
+
+  // No server username for this userId yet — link/register the local username
   const name = getUsername();
   if (!name) return;
 
-  // Check if name already exists
+  // Check if name already exists in the table (registered anonymously)
   const { data: existing } = await supabase
     .from("usernames")
     .select("id, user_id")
     .eq("name", name)
     .limit(1)
-    .single();
+    .maybeSingle();
 
   if (existing) {
     // Name exists — link to user if not yet linked
@@ -101,7 +121,6 @@ export async function syncUsernameToSupabase(userId: string): Promise<void> {
         .update({ user_id: userId, last_seen: new Date().toISOString() })
         .eq("id", existing.id);
     } else {
-      // Just update last_seen
       await supabase
         .from("usernames")
         .update({ last_seen: new Date().toISOString() })
@@ -109,7 +128,7 @@ export async function syncUsernameToSupabase(userId: string): Promise<void> {
     }
     localStorage.setItem(USERNAME_ID_KEY, existing.id);
   } else {
-    // Name doesn't exist in Supabase yet — insert it
+    // Insert new username linked to this user
     const { data } = await supabase
       .from("usernames")
       .insert({ name, display_name: name, user_id: userId })

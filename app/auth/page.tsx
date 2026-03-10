@@ -55,10 +55,10 @@ export default function AuthPage() {
         await signUp(email, password);
       } else {
         const data = await signIn(email, password);
-        // Sync data from Supabase after login (stars, streak, skins, etc.)
+        // Teljes kétirányú sync: download + upload (helyi vendég adatok sem vesznek el)
         if (data.user) {
-          const { downloadFromSupabase } = await import("@/lib/sync");
-          await downloadFromSupabase(data.user.id).catch(() => {});
+          const { syncToSupabase } = await import("@/lib/sync");
+          await syncToSupabase(data.user.id).catch(() => {});
         }
       }
       router.push("/mathtest/");

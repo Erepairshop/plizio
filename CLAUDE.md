@@ -56,12 +56,28 @@ A repo tisztán van szervezve:
 ```ts
 type CardRarity = "bronze" | "silver" | "gold" | "legendary"
 interface GameCard { id: string; game: string; theme?: string; rarity: CardRarity; score: number; total: number; date: string }
-// calculateRarity(score, total, streak, allowGold=true):
+// calculateRarity(score, total, streak, allowGold: boolean | number = true):
 //   pct===100 && streak>=3 → legendary
-//   allowGold && effectivePct>=95 → gold
+//   allowGold=false → soha nem gold
+//   allowGold=true → goldThreshold=95 (effectivePct>=95 → gold)
+//   allowGold=szám → goldThreshold=szám (pl. 85 → effectivePct>=85 → gold)
 //   effectivePct>=70 → silver; else bronze
 //   streakBonus = min(streak*2, 15); effectivePct = pct + streakBonus
 ```
+
+**Időbónusz rendszer (2026-03-10) — quiz játékokhoz, láthatatlan a játékosnak:**
+```ts
+// finalScore = helyes × 100 + max(0, (várható_idő - elapsed) × szorzó)
+// calculateRarity(finalScore, maxScore, streak, 85)
+// A játékos továbbra is helyes/összes-t lát a képernyőn
+```
+
+| Játék | Várható idő | Szorzó | Max bónusz | maxScore |
+|-------|------------|--------|-----------|---------|
+| Quick Pick | 30s | 10 | 150 | 1150 |
+| Math Test | 60s | 10 | 150 | 1150 |
+| Daily | 30s | 10 | 150 | 1150 |
+| Milliomos | 90s | 5 | 100 | 1600 |
 
 **Kártya ritkaság szabályok játékonként:**
 | Játék | Gold lehetséges? | Legendary lehetséges? |
@@ -70,19 +86,20 @@ interface GameCard { id: string; game: string; theme?: string; rarity: CardRarit
 | Number Rush | ✅ level 4-től | ✅ level 10 win |
 | Kodex | ❌ `calculateRarity(..., false)` | ✅ level 10 win |
 | Sky Climb | ❌ `calculateRarity(..., false)` | ❌ |
-| Quick Pick | ❌ `calculateRarity(..., false)` | ❌ |
-| Math Test | ❌ `calculateRarity(..., false)` | ❌ |
-| Milliomos | ❌ `calculateRarity(..., false)` | ❌ |
+| Quick Pick | ✅ `calculateRarity(combined, 1150, streak, 85)` | ✅ 100%+streak≥3 |
+| Math Test | ✅ `calculateRarity(combined, maxScore, streak, 85)` | ✅ 100%+streak≥3 |
+| Milliomos | ✅ `calculateRarity(combined, 1600, streak, 85)` | ✅ 15/15+streak≥3 |
+| Daily | ✅ `calculateRarity(combined, 1150, 0, 85)` | ❌ (streak=0 always) |
 | Word Scramble | ❌ `calculateRarity(..., false)` | ❌ |
 | Spot Diff | ❌ `calculateRarity(..., false)` | ❌ |
 | Memory Flash | ❌ `calculateRarity(..., false)` | ❌ |
 | Race Track | ❌ `calculateRarity(..., false)` | ❌ |
 | City Drive | ❌ `calculateRarity(..., false)` | ❌ |
-| Daily | ❌ `calculateRarity(..., false)` | ❌ |
 | Deutsch Test | ❌ `calculateRarity(..., false)` | ❌ |
+| English Test | ❌ `calculateRarity(..., false)` | ❌ |
 
-**SZABÁLY:** Level-alapú játékok (Reflex/Number Rush) saját `calcRarity()` függvényt használnak (time-based).
-Összes többi játék: `calculateRarity(score, total, streak, false)` — **sosem ad gold-ot**.
+**SZABÁLY:** Oktatási/tanulási játékok (Deutsch/English Test, Spot Diff stb.): időbónusz NÉLKÜL.
+Level-alapú játékok (Reflex/Number Rush): saját `calcRarity()` függvény (time-based).
 
 **`lib/milestones.ts`**
 ```ts
@@ -712,7 +729,7 @@ Minden grade-nél (G1-G8) ugyanezeket a lépéseket kell követni:
 2. **`opengraph-image.tsx`** — static exportnál NE használd (font fetch elbukik)
 3. **`npm run build`** — NEM MŰKÖDIK, mindig `npx next build`
 4. **Avatar + scale:0 animáció** — Three.js canvas törik (lásd AvatarCompanion szekció)
-5. **calculateRarity 4. param** — non-level játékoknál mindig `false`-t adj át
+5. **calculateRarity 4. param** — non-level játékoknál SOHA ne adj `false`-t! Most `false` helyett `85`-öt használunk (gold 85% felett). Csak oktatási játékoknál (Deutsch/English Test) marad `false`.
 6. **`downloadFromSupabase` (sync.ts)** — NE írja felül a helyi active_skin-t ha már van! Csak ha `localStorage.getItem("plizio_active_skin") === null` (fresh browser). Egyébként a shop-ban aktivált skin elvész navigáció után.
 7. **`special_cards` sync — NE használj `Math.max` kölcsönözhető egyenlegnél!**
    - `Math.max(local, server)` csak monoton növekvő értéknél helyes (pl. totalGames). Egyenlegnél (ami csökkenhet vásárlásnál) **örökre visszaállítja** a régi értéket bármely eszközön ami a régi értéket tárolta lokálisan.
@@ -721,6 +738,12 @@ Minden grade-nél (G1-G8) ugyanezeket a lépéseket kell követni:
      - `downloadFromSupabase()`: ha `dirty=false` → szerver értékét veszi direktben (nem Math.max!); ha `dirty=true` → megtartja a lokálist
      - `uploadToSupabase()`: sikeres feltöltés után törli: `localStorage.removeItem("plizio_stars_dirty")`
    - **Általános szabály:** Ha egy érték CSÖKKENHET (vásárlás, elköltés), `Math.max` helyett dirty flag kell. Ha csak nőhet (statisztikák), `Math.max` helyes.
+   - **Login flow:** Login esetén MINDIG `syncToSupabase(userId)`-t hívj (nem csak `downloadFromSupabase`-t)! A bidirectionális sync biztosítja, hogy a vendégként gyűjtött csillagok sem vesznek el (upload after download).
+8. **`syncUsernameToSupabase` — szerver username prioritás (2026-03-10)**
+   - Új eszközön gépelt "TempName" NE írja felül a fiók igazi felhasználónevét!
+   - `syncUsernameToSupabase(userId)` ELŐSZÖR lekéri a szerveren lévő username-t (`WHERE user_id = userId`). Ha van → visszaállítja lokálisan. Ha nincs → linkeli a helyi username-t.
+   - TILOS: local username-t linkelni a userId-hoz anélkül, hogy előbb megnéznénk van-e már linkelt username!
+9. **Username modal timing** — NE jelenjen meg azonnal az első látogatásnál! Csak ha `stats.totalGames > 0` (legalább 1 játék után). Lásd `app/page.tsx` username check.
 8. **Bútor árnyék `cy={0}` doboz bútoroknál** — Az izometrikus 3D forma alja (y=0 front vertex) és a shadow között rés keletkezik → LEBEGÉS illúzió. Doboz bútoroknál `cy={-4}` kell! Lapos talpúaknál (lámpa, növény) `cy={0}` helyes.
 9. **Bútor `+ TILE_H/2` offset RoomRenderer-ben** — NE használj TILE_H/2 offsetet a bútor y pozíciónál! A tile KÖZEPE a helyes vizuális padlószint. `y = gridToScreen().y` — semmi offset!
 10. **Bútor forgatás SVG `rotate()`-tel** — NE használj SVG `rotate(90°)` bútorforgatáshoz! Az fejjel lefelé fordítja 2D-ben. Helyette: `scale(-1, 1)` tükrözés (izometrikus forgatás illúzió).

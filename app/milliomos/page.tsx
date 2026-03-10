@@ -1,12 +1,12 @@
 "use client";
 
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Crown, Trophy, X, Gem, Shield, Scissors, SkipForward } from "lucide-react";
 import Link from "next/link";
 import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
-import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
+import { calculateRarity, saveCard, generateCardId, type CardRarity } from "@/lib/cards";
 import { incrementTotalGames, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
 import allQuestions from "@/data/milliomos/questions.json";
@@ -104,6 +104,9 @@ export default function MilliomosPage() {
   const [showLadder, setShowLadder] = useState(false);
   const [bestLevel, setBestLevel] = useState(0);
 
+  const startTimeRef = useRef<number>(0);
+  const [earnedRarity, setEarnedRarity] = useState<CardRarity>("bronze");
+
   // Lifelines
   const [hasFiftyFifty, setHasFiftyFifty] = useState(true);
   const [hasSecondFiftyFifty, setHasSecondFiftyFifty] = useState(false);
@@ -164,6 +167,7 @@ export default function MilliomosPage() {
       setTimeout(() => setShopNotification(null), 2500);
     }
 
+    startTimeRef.current = Date.now();
     setGameState("playing");
   };
 
@@ -237,7 +241,15 @@ export default function MilliomosPage() {
     // Only give a card if at least 3 correct answers
     if (finalLevel >= 3) {
       const score = finalLevel;
-      const rarity = calculateRarity(score, 15, newStreak, false);
+      // Időbónusz: 90s várható idő, 5 pont/mp, max 100
+      const mmElapsed = Math.round((Date.now() - startTimeRef.current) / 1000);
+      const mmBonus = Math.min(100, Math.max(0, (90 - mmElapsed) * 5));
+      const mmMaxScore = 15 * 100 + 100;
+      const mmCombined = score * 100 + mmBonus;
+      const rarity: CardRarity = score === 15 && newStreak >= 3
+        ? "legendary"
+        : calculateRarity(mmCombined, mmMaxScore, newStreak, 85);
+      setEarnedRarity(rarity);
       saveCard({
         id: generateCardId(),
         game: "milliomos",
@@ -660,7 +672,7 @@ export default function MilliomosPage() {
 
       {gameState === "reward" && (
         <RewardReveal
-          rarity={calculateRarity(level, 15, streak, false)}
+          rarity={earnedRarity}
           game="milliomos"
           score={level}
           total={15}

@@ -41,12 +41,14 @@ export function getRarityConfig(rarity: CardRarity) {
   return RARITY_CONFIG[rarity];
 }
 
-export function calculateRarity(score: number, total: number, streak: number, allowGold = true): CardRarity {
+// allowGold: false = soha nem gold, true = 95% felett gold, szám = egyedi küszöb (pl. 85)
+export function calculateRarity(score: number, total: number, streak: number, allowGold: boolean | number = true): CardRarity {
   const pct = (score / total) * 100;
   const streakBonus = Math.min(streak * 2, 15);
   const effectivePct = pct + streakBonus;
   if (pct === 100 && streak >= 3) return "legendary";
-  if (allowGold && effectivePct >= 95) return "gold";
+  const goldThreshold = allowGold === false ? Infinity : allowGold === true ? 95 : allowGold;
+  if (effectivePct >= goldThreshold) return "gold";
   if (effectivePct >= 70) return "silver";
   return "bronze";
 }

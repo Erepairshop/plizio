@@ -592,9 +592,12 @@ export default function Home() {
       setSpecialCount(getSpecialCardCount());
       setDailyReward(reward);
     }
-    // Check username
+    // Check username — csak akkor kérdezzük, ha már játszott legalább 1 játékot
     if (!hasUsername()) {
-      setShowUsernameModal(true);
+      const stats = getStats();
+      if (stats.totalGames > 0) {
+        setShowUsernameModal(true);
+      }
     } else {
       setUsernameState(getUsername());
     }
