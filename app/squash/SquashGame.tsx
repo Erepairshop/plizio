@@ -383,28 +383,18 @@ class SquashScene extends Phaser.Scene {
     this.smoothPaddle(dt);
     this.padVelX = (this.padX - this.padPrevX) / Math.max(dt, 0.001);
 
-    // ── Draw paddle (colour changes in hit_window) ────────────────────────
-    this.paddleGfx.clear();
+    // ── Draw paddle (full visual: shadow, glow, body, highlights) ────────
     const { PAD_H, BY } = this;
     const padY     = BY - PAD_H - 6;
     const isWindow = this.ballState === "hit_window";
-    const padColor = isWindow ? 0x00ff88 : 0x00d4ff;
+    this.drawPaddle(padY, isWindow);
 
-    this.paddleGfx.fillStyle(padColor, 0.14);
-    this.paddleGfx.fillRoundedRect(this.padX - this.PAD_W - 6, padY - 4, (this.PAD_W + 6) * 2, PAD_H + 8, 7);
-    this.paddleGfx.fillStyle(padColor, 1);
-    this.paddleGfx.fillRoundedRect(this.padX - this.PAD_W, padY, this.PAD_W * 2, PAD_H, 5);
-    this.paddleGfx.fillStyle(0xffffff, 0.25);
-    this.paddleGfx.fillRoundedRect(this.padX - this.PAD_W + 6, padY + 2, this.PAD_W * 2 - 12, 4, 2);
-
-    // Hit window arc — glowing bracket above paddle when window is open
+    // Hit-window indicator: subtle vertical side guides
     this.hitWindowGfx.clear();
     if (isWindow) {
-      this.hitWindowGfx.lineStyle(2, 0x00ff88, 0.55);
-      this.hitWindowGfx.strokeRect(
-        this.padX - this.PAD_W, padY - 55,
-        this.PAD_W * 2, 55,
-      );
+      this.hitWindowGfx.lineStyle(1.5, 0x00ff88, 0.28);
+      this.hitWindowGfx.lineBetween(this.padX - this.PAD_W, padY - 52, this.padX - this.PAD_W, padY);
+      this.hitWindowGfx.lineBetween(this.padX + this.PAD_W, padY - 52, this.padX + this.PAD_W, padY);
     }
 
     // ── SERVING PHASE ────────────────────────────────────────────────────
@@ -560,6 +550,7 @@ class SquashScene extends Phaser.Scene {
     this.by          = padTop - this.BALL_R - 2;
     this.hitCooldown = 180;
     this.spawnRipple(this.bx, this.by, 0x00d4ff);
+    this.triggerHitFlash(this.bx, padTop);
     this.cameras.main.shake(16, 0.003);
 
     // Scoring: +1 normal, +2 if ball was in danger zone
@@ -709,6 +700,101 @@ class SquashScene extends Phaser.Scene {
     }
 
     this.time.delayedCall(1500, () => this.onGameEnd(this.score));
+  }
+
+  // ── drawPaddle — full layered visual ─────────────────────────────────────
+  // Layer order (all in one Graphics object, drawn bottom→top):
+  //   1. court shadow ellipse
+  //   2. outer soft glow  (3 layers, alpha widens in hit_window)
+  //   3. solid body
+  //   4. edge darkening (left/right 35%)
+  //   5. center zone lighter stripe
+  //   6. top highlight strip
+  //   7. bottom shadow strip
+  private drawPaddle(padY: number, isWindow: boolean) {
+    const g  = this.paddleGfx;
+    const px = this.padX;
+    const pw = this.PAD_W;
+    const ph = this.PAD_H;
+
+    g.clear();
+
+    const bodyColor = isWindow ? 0x00ff88 : 0x00d4ff;
+    const glowAlpha = isWindow ? 1.8 : 1.0;  // intensify glow in hit_window
+
+    // ── 1. Court shadow — ellipse just below paddle ───────────────────────
+    g.fillStyle(0x000000, 0.22);
+    g.fillEllipse(px, padY + ph + 5, pw * 2 + 14, 7);
+
+    // ── 2. Neon glow — three expanding halos ─────────────────────────────
+    g.fillStyle(bodyColor, 0.05 * glowAlpha);
+    g.fillRoundedRect(px - pw - 20, padY - 12, (pw + 20) * 2, ph + 24, 14);
+
+    g.fillStyle(bodyColor, 0.10 * glowAlpha);
+    g.fillRoundedRect(px - pw - 11, padY - 7,  (pw + 11) * 2, ph + 14, 10);
+
+    g.fillStyle(bodyColor, 0.20 * glowAlpha);
+    g.fillRoundedRect(px - pw - 4,  padY - 3,  (pw + 4)  * 2, ph + 6,  8);
+
+    // ── 3. Paddle body ────────────────────────────────────────────────────
+    g.fillStyle(bodyColor, 1.0);
+    g.fillRoundedRect(px - pw, padY, pw * 2, ph, 7);
+
+    // ── 4. Edge darkening — left and right 35% ────────────────────────────
+    const edgeW = Math.round(pw * 0.70);   // each side width
+    g.fillStyle(0x000000, 0.22);
+    g.fillRoundedRect(px - pw,          padY, edgeW, ph, { tl: 7, tr: 0, bl: 7, br: 0 });
+    g.fillRoundedRect(px + pw - edgeW,  padY, edgeW, ph, { tl: 0, tr: 7, bl: 0, br: 7 });
+
+    // ── 5. Center zone — lighter stripe (middle 45%) ──────────────────────
+    const centerW = Math.round(pw * 0.90);
+    g.fillStyle(0xffffff, 0.18);
+    g.fillRoundedRect(px - centerW / 2, padY, centerW, ph, 5);
+
+    // ── 6. Top highlight — bright thin strip (fényes felső él) ───────────
+    g.fillStyle(0xffffff, 0.55);
+    g.fillRoundedRect(px - pw + 10, padY + 2, pw * 2 - 20, 3, 2);
+
+    // ── 7. Bottom shadow — darker thin strip ─────────────────────────────
+    g.fillStyle(0x000000, 0.28);
+    g.fillRoundedRect(px - pw + 6, padY + ph - 4, pw * 2 - 12, 4, 2);
+  }
+
+  // ── triggerHitFlash — energy wave on paddle at impact ─────────────────────
+  // Creates: horizontal expanding oval + impact ring
+  private triggerHitFlash(hitX: number, padY: number) {
+    const { PAD_H } = this;
+    const cy = padY + PAD_H / 2;  // vertical centre of paddle
+
+    // Horizontal energy wave (expands left-right from hit point)
+    const wave = this.add.graphics().setDepth(9);
+    wave.lineStyle(3, 0xffffff, 0.90);
+    wave.lineBetween(hitX - 12, cy, hitX + 12, cy);
+
+    this.tweens.add({
+      targets: wave,
+      scaleX: 10,
+      scaleY: 1.8,
+      alpha: 0,
+      duration: 280,
+      ease: "Cubic.Out",
+      onComplete: () => wave.destroy(),
+    });
+
+    // Impact ring (expands and fades)
+    const ring = this.add.graphics().setDepth(9);
+    ring.lineStyle(2.5, 0x00d4ff, 0.95);
+    ring.strokeCircle(hitX, cy, 7);
+
+    this.tweens.add({
+      targets: ring,
+      scaleX: 4.5,
+      scaleY: 3.5,
+      alpha: 0,
+      duration: 230,
+      ease: "Quad.Out",
+      onComplete: () => ring.destroy(),
+    });
   }
 
   // ── spawnRipple ───────────────────────────────────────────────────────────
