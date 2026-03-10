@@ -147,7 +147,7 @@ class PingPongScene extends Phaser.Scene {
     const W = this.scale.width;
     const H = this.scale.height;
 
-    const tW = Math.min(W * 0.80, 340);
+    const tW = Math.min(W * 0.70, 290);
     const tH = tW / 0.56;
     const tL = (W - tW) / 2;
     const tT = (H - tH) / 2;
@@ -155,11 +155,11 @@ class PingPongScene extends Phaser.Scene {
     // Background
     this.add.rectangle(W / 2, H / 2, W, H, 0x0a0a1a);
 
-    // Table with gradient (lighter top, darker bottom green)
+    // Table with gradient (classic TT green)
     const tableGradient = this.add.graphics();
-    tableGradient.fillStyle(0x0d3a24, 1.0);
+    tableGradient.fillStyle(0x1e7a3e, 1.0);
     tableGradient.fillRect(tL, tT, tW, tH / 2);
-    tableGradient.fillStyle(0x081c14, 1.0);
+    tableGradient.fillStyle(0x196033, 1.0);
     tableGradient.fillRect(tL, tT + tH / 2, tW, tH / 2);
 
     // Subtle table texture (very faint noise pattern)
@@ -172,30 +172,23 @@ class PingPongScene extends Phaser.Scene {
       textureGfx.fillRect(rx, ry, rw, rw);
     }
 
-    // Center line with glow effect
-    const centerLineGlow = this.add.graphics();
-    centerLineGlow.fillStyle(0x00ff88, 0.08);
-    centerLineGlow.fillRect(W / 2 - 3, tT, 6, tH);
-    centerLineGlow.fillStyle(0x00ff88, 0.12);
-    centerLineGlow.fillRect(W / 2 - 1, tT, 2, tH);
+    // Table border (white lines)
+    const borderGfx = this.add.graphics();
+    borderGfx.lineStyle(3, 0xffffff, 0.95);
+    borderGfx.strokeRect(tL, tT, tW, tH);
 
-    // Net marker with shadow
-    this.add.rectangle(W / 2, H / 2, 4, tH * 0.06, 0xffffff).setAlpha(0.9);
-    const netShadow = this.add.graphics();
-    netShadow.fillStyle(0x000000, 0.15);
-    netShadow.fillRect(W / 2 - 2, H / 2 + 2, 4, tH * 0.08);
+    // Net: horizontal white line at center
+    const netGfx = this.add.graphics();
+    netGfx.lineStyle(4, 0xffffff, 0.95);
+    netGfx.lineBetween(tL, tT + tH / 2, tL + tW, tT + tH / 2);
+    // Net shadow
+    netGfx.lineStyle(2, 0x000000, 0.18);
+    netGfx.lineBetween(tL, tT + tH / 2 + 3, tL + tW, tT + tH / 2 + 3);
 
-    // MODERNIZED: Larger, more visible grid lines (avoids paddle zones)
-    const lg = this.add.graphics();
-    lg.lineStyle(2.5, 0x00ff88, 0.18); // increased thickness and visibility
-    // Left lane
-    lg.lineBetween(tL + tW * 0.333, tT + tH * 0.22, tL + tW * 0.333, tT + tH * 0.78);
-    // Right lane
-    lg.lineBetween(tL + tW * 0.667, tT + tH * 0.22, tL + tW * 0.667, tT + tH * 0.78);
-    // Horizontal grid lines (major)
-    lg.lineStyle(1.5, 0x00ff88, 0.12);
-    lg.lineBetween(tL, tT + tH * 0.40, tL + tW, tT + tH * 0.40);
-    lg.lineBetween(tL, tT + tH * 0.60, tL + tW, tT + tH * 0.60);
+    // Center service line: vertical, full table height
+    const centerLineGfx = this.add.graphics();
+    centerLineGfx.lineStyle(2, 0xffffff, 0.75);
+    centerLineGfx.lineBetween(tL + tW / 2, tT, tL + tW / 2, tT + tH);
 
     // Soft vignette effect (darker edges)
     const vignetteGfx = this.add.graphics();
@@ -528,10 +521,10 @@ class PingPongScene extends Phaser.Scene {
 
     // ─── Player movement ──────────────────────────────────────────────
     if (this.cursors.left.isDown || this.wasd.left.isDown) {
-      this.player.x = Math.max(tL + R, this.player.x - SPEED * dt);
+      this.player.x = Math.max(R, this.player.x - SPEED * dt);
     }
     if (this.cursors.right.isDown || this.wasd.right.isDown) {
-      this.player.x = Math.min(tL + tW - R, this.player.x + SPEED * dt);
+      this.player.x = Math.min(this.scale.width - R, this.player.x + SPEED * dt);
     }
     if (this.cursors.up.isDown || this.wasd.up.isDown) {
       this.player.y = Math.max(tT + tH * 0.52 + R, this.player.y - SPEED * dt);
@@ -547,7 +540,7 @@ class PingPongScene extends Phaser.Scene {
       // Feature 10: predict slightly ahead (extrapolate 10% of delta toward target)
       const predX = this.touchX + dx * 0.10;
       const predY = this.touchY + dy * 0.10;
-      const tx = Phaser.Math.Clamp(predX, tL + R, tL + tW - R);
+      const tx = Phaser.Math.Clamp(predX, R, this.scale.width - R);
       const ty = Phaser.Math.Clamp(predY, tT + tH * 0.52 + R, tT + tH - R);
       // Feature 3: lerp smoothing (0.40 = slightly smoother than before)
       this.player.x = Phaser.Math.Linear(this.player.x, tx, 0.40);
