@@ -52,6 +52,7 @@ class TennisScene extends Phaser.Scene {
   private rally = 0;
   private dashTimer = 0;
   private aiStyle = Phaser.Math.Between(0, 2);
+  private trailTimer = 0;
 
   // UI
   private scoreTxt!: Phaser.GameObjects.Text;
@@ -560,6 +561,18 @@ class TennisScene extends Phaser.Scene {
     const body = this.ball.body as Phaser.Physics.Arcade.Body;
     body.velocity.x *= (1 + Phaser.Math.FloatBetween(-0.04, 0.04));
 
+    // Court skid (fast ball)
+    if (Math.abs(body.velocity.x) > 350) {
+      const skid = this.add.graphics();
+      skid.fillStyle(0xffffff, 0.4);
+      skid.fillEllipse(this.ball.x, GROUND_Y, 20, 6);
+      skid.setDepth(10);
+      this.tweens.add({
+        targets: skid, alpha: 0, scaleX: 2,
+        duration: 300, onComplete: () => skid.destroy(),
+      });
+    }
+
     // Bounce particles
     const particles = this.add.particles(this.ball.x, GROUND_Y, "tdot", {
       speed: { min: 20, max: 120 },
@@ -616,6 +629,14 @@ class TennisScene extends Phaser.Scene {
         duration: 850, ease: "Quad.Out",
         onComplete: () => pt.destroy(),
       });
+    });
+
+    // Character celebration jump
+    const celebCont = scorer === "player" ? this.playerCont : this.aiCont;
+    this.tweens.killTweensOf(celebCont);
+    this.tweens.add({
+      targets: celebCont, y: GROUND_Y - 22,
+      duration: 180, ease: "Quad.Out", yoyo: true,
     });
 
     // Excited racket wave
@@ -743,6 +764,18 @@ class TennisScene extends Phaser.Scene {
       if (by < -150) { this.scorePoint(bx < NET_X ? "ai" : "player"); return; }
     }
 
+    // ─── Ball trail ───────────────────────────────────────────────────────────
+    this.trailTimer -= delta;
+    if (this.trailTimer <= 0 && this.ballInPlay && this.ball.visible) {
+      this.trailTimer = 40;
+      const trail = this.add.image(this.ball.x, this.ball.y, "tdot")
+        .setScale(1.2).setAlpha(0.4).setDepth(19).setTint(0xd4e84a);
+      this.tweens.add({
+        targets: trail, alpha: 0, scaleX: 0.3, scaleY: 0.3,
+        duration: 300, onComplete: () => trail.destroy(),
+      });
+    }
+
     // ─── Ball shadow ──────────────────────────────────────────────────────────
     this.ballShadow.clear();
     if (this.ballInPlay && this.ball.visible) {
@@ -824,10 +857,19 @@ class TennisScene extends Phaser.Scene {
       onComplete: () => hitRing.destroy(),
     });
 
-    // Smash slow motion
+    // Smash slow motion + label
     if (isSmash) {
       this.time.timeScale = 0.6;
       this.time.delayedCall(120, () => { this.time.timeScale = 1; });
+
+      const smashTxt = this.add.text(this.ball.x, this.ball.y - 40, "SMASH!", {
+        fontSize: "20px", fontFamily: "monospace",
+        color: "#ffdd00", stroke: "#000000", strokeThickness: 4,
+      }).setOrigin(0.5).setDepth(40);
+      this.tweens.add({
+        targets: smashTxt, y: smashTxt.y - 40, alpha: 0,
+        duration: 600, onComplete: () => smashTxt.destroy(),
+      });
     }
 
     // Camera shake (stronger for smash)
