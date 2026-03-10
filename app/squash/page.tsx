@@ -160,7 +160,7 @@ export default function SquashPage() {
           rarity={earnedCard}
           game="squash"
           score={finalScore}
-          total={30}
+          total={0}
           onDone={() => setScreen("result")}
         />
       )}
