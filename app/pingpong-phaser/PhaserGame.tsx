@@ -52,6 +52,12 @@ class PingPongScene extends Phaser.Scene {
   private aiFixedTargetX = -1;
   private aiLastBallVySign = 0;
 
+  // AI velocity tracking (same as player)
+  private aiPrevX = 0;
+  private aiPrevY = 0;
+  private aiVelX = 0;
+  private aiVelY = 0;
+
   // Flickering fix: hit cooldown prevents multi-trigger
   private hitCooldown = 0;
   private readonly HIT_COOLDOWN_MS = 160;
@@ -98,7 +104,7 @@ class PingPongScene extends Phaser.Scene {
     g.generateTexture("ball", 36, 36);
     g.clear();
 
-    // Player paddle (red) with dot texture pattern - MODERNIZED (larger, more detail)
+    // Player paddle (red) — circle at y=40, handle below y=82-122 (symmetric with AI)
     g.fillStyle(0x5a1a1a);
     g.fillCircle(40, 40, 40);
     g.fillStyle(0xcc1515);
@@ -107,41 +113,38 @@ class PingPongScene extends Phaser.Scene {
     g.fillCircle(40, 40, 28);
     g.fillStyle(0xffffff, 0.25);
     g.fillCircle(32, 32, 14);
-    // Dot texture pattern on rubber surface (larger)
     g.fillStyle(0x8b1515, 0.4);
     for (let i = 0; i < 7; i++) {
-      for (let j = 0; j < 6; j++) {
-        g.fillCircle(12 + i * 4, 14 + j * 4, 1.2);
+      for (let j = 0; j < 5; j++) {
+        g.fillCircle(12 + i * 4, 16 + j * 4, 1.2);
       }
     }
     g.fillStyle(0x8b6340);
-    g.fillRoundedRect(30, 75, 20, 35, 4);
+    g.fillRoundedRect(30, 82, 20, 40, 4);
     g.fillStyle(0xa07850, 0.7);
-    g.fillRoundedRect(34, 78, 12, 30, 3);
+    g.fillRoundedRect(34, 85, 12, 34, 3);
     g.generateTexture("playerPaddle", 80, 130);
     g.clear();
 
-    // AI paddle (blue) — circle at y=65, handle at top y=20-55
+    // AI paddle (blue) — circle at y=90, handle above y=8-48 (mirror of player)
     g.fillStyle(0x0d2d55);
-    g.fillCircle(40, 65, 40);
+    g.fillCircle(40, 90, 40);
     g.fillStyle(0x1060cc);
-    g.fillCircle(40, 65, 38);
+    g.fillCircle(40, 90, 38);
     g.fillStyle(0x2080e8);
-    g.fillCircle(40, 65, 28);
+    g.fillCircle(40, 90, 28);
     g.fillStyle(0xffffff, 0.25);
-    g.fillCircle(32, 57, 14);
-    // Dot texture (mirrored position relative to circle center)
+    g.fillCircle(32, 82, 14);
     g.fillStyle(0x0d4d88, 0.4);
     for (let i = 0; i < 7; i++) {
-      for (let j = 0; j < 6; j++) {
-        g.fillCircle(12 + i * 4, 50 + j * 4, 1.2);
+      for (let j = 0; j < 5; j++) {
+        g.fillCircle(12 + i * 4, 66 + j * 4, 1.2);
       }
     }
-    // Handle at top
     g.fillStyle(0x8b6340);
-    g.fillRoundedRect(30, 20, 20, 35, 4);
+    g.fillRoundedRect(30, 8, 20, 40, 4);
     g.fillStyle(0xa07850, 0.7);
-    g.fillRoundedRect(34, 23, 12, 30, 3);
+    g.fillRoundedRect(34, 11, 12, 34, 3);
     g.generateTexture("aiPaddle", 80, 130);
     g.clear();
 
@@ -232,11 +235,11 @@ class PingPongScene extends Phaser.Scene {
     this.aiShadow.setDepth(4);
 
     this.player = this.add.image(W / 2, tT + tH * 0.84, "playerPaddle")
-      .setOrigin(0.5, 40 / 130) // adjusted for larger paddle
+      .setOrigin(0.5, 40 / 130) // circle center at y=40 in 130px texture
       .setScale(SCALE)
       .setDepth(15);
     this.ai = this.add.image(W / 2, tT + tH * 0.16, "aiPaddle")
-      .setOrigin(0.5, 65 / 130) // circle center at y=65 in 130px texture
+      .setOrigin(0.5, 90 / 130) // circle center at y=90 in 130px texture (mirror of player)
       .setScale(SCALE)
       .setDepth(15);
 
@@ -326,6 +329,8 @@ class PingPongScene extends Phaser.Scene {
 
     this.playerPrevX = W / 2;
     this.playerPrevY = tT + tH * 0.84;
+    this.aiPrevX = W / 2;
+    this.aiPrevY = tT + tH * 0.16;
 
     // Delay then show serve prompt (no auto-launch)
     this.time.delayedCall(500, () => { if (!this.gameOver) this.serve(); });
@@ -647,9 +652,13 @@ class PingPongScene extends Phaser.Scene {
       this.player.y = Phaser.Math.Linear(this.player.y, ty, 0.40);
     }
 
-    // Save position for next-frame velocity calculation
+    // Save player position for next-frame velocity calculation
     this.playerPrevX = this.player.x;
     this.playerPrevY = this.player.y;
+
+    // ─── AI velocity tracking (before AI moves)
+    this.aiVelX = (this.ai.x - this.aiPrevX) / Math.max(dt, 0.001);
+    this.aiVelY = (this.ai.y - this.aiPrevY) / Math.max(dt, 0.001);
 
     // ─── AI movement — predict intercept or return home ───────────────
     const ballVyAI = this.ball.body!.velocity.y;
@@ -696,6 +705,10 @@ class PingPongScene extends Phaser.Scene {
       this.ai.x = Phaser.Math.Clamp(this.ai.x + (aiDX / aiDist) * aiMove, R, W - R);
       this.ai.y = Phaser.Math.Clamp(this.ai.y + (aiDY / aiDist) * aiMove, R, tT + tH * 0.48 - R);
     }
+
+    // Save AI position for next-frame velocity calculation
+    this.aiPrevX = this.ai.x;
+    this.aiPrevY = this.ai.y;
 
     // ─── Ball boundaries ──────────────────────────────────────────────
     const bx = this.ball.x;
@@ -762,6 +775,17 @@ class PingPongScene extends Phaser.Scene {
         const spinY = Phaser.Math.Clamp(this.playerVelY * 0.20, -75, 75);
         newVx += spinX;
         newVy += spinY;
+
+        // Paddle speed boost: fast swing → 5% extra power
+        const paddleSwingSpeed = Math.abs(this.playerVelY);
+        if (paddleSwingSpeed > 10) {
+          newVx *= 1.05;
+          newVy *= 1.05;
+        }
+
+        // Clamp each component to ±600
+        newVx = Phaser.Math.Clamp(newVx, -600, 600);
+        newVy = Phaser.Math.Clamp(newVy, -600, 0);
 
         // Minimum vertical speed (must go upward with enough force)
         if (newVy > -100) newVy = -100;
@@ -871,11 +895,22 @@ class PingPongScene extends Phaser.Scene {
         let newVx = Math.sin(Phaser.Math.DegToRad(randAngle)) * speed;
         let newVy = Math.abs(Math.cos(Phaser.Math.DegToRad(randAngle)) * speed);
 
-        // Spin limit: cap momentum contribution
-        const spinX = Phaser.Math.Clamp(0, -55, 55); // AI has no tracked momentum
-        const spinY = Phaser.Math.Clamp(0, -75, 75);
-        newVx += spinX;
-        newVy += spinY;
+        // AI paddle momentum contribution
+        const aiSpinX = Phaser.Math.Clamp(this.aiVelX * 0.10, -55, 55);
+        const aiSpinY = Phaser.Math.Clamp(this.aiVelY * 0.20, -75, 75);
+        newVx += aiSpinX;
+        newVy += aiSpinY;
+
+        // Paddle speed boost: fast AI swing → 5% extra power
+        const aiSwingSpeed = Math.abs(this.aiVelY);
+        if (aiSwingSpeed > 10) {
+          newVx *= 1.05;
+          newVy *= 1.05;
+        }
+
+        // Clamp each component to ±600
+        newVx = Phaser.Math.Clamp(newVx, -600, 600);
+        newVy = Phaser.Math.Clamp(newVy, 0, 600);
 
         // Minimum vertical speed (must go downward with enough force)
         if (newVy < 100) newVy = 100;
