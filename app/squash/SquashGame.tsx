@@ -644,6 +644,7 @@ class SquashScene extends Phaser.Scene {
       } else {
         this.spawnRipple(this.bx, FWY, 0x00ff88);
         this.addScoreSilent(1);  // wall = +1, no popup
+        this.cameras.main.flash(38, 0, 180, 120, false);
       }
     }
 
@@ -658,6 +659,7 @@ class SquashScene extends Phaser.Scene {
       this.clampBallAngle();
       this.spawnRipple(this.WL, this.by, 0x336633);
       this.addScoreSilent(1);
+      this.cameras.main.flash(32, 0, 160, 100, false);
     }
 
     // ── Right wall ────────────────────────────────────────────────────────
@@ -671,6 +673,7 @@ class SquashScene extends Phaser.Scene {
       this.clampBallAngle();
       this.spawnRipple(this.WR, this.by, 0x336633);
       this.addScoreSilent(1);
+      this.cameras.main.flash(32, 0, 160, 100, false);
     }
 
     // ── Near-miss detection ───────────────────────────────────────────────
@@ -681,8 +684,8 @@ class SquashScene extends Phaser.Scene {
       Math.abs(this.bx - this.padX) < this.PAD_HIT_W + 40
     );
     if (nearMiss && this.hitCooldown <= 0) {
-      this.cameras.main.zoomTo(1.05, 80);
-      this.time.delayedCall(120, () => this.cameras.main.zoomTo(1, 120));
+      this.cameras.main.zoomTo(1.08, 70);
+      this.time.delayedCall(110, () => this.cameras.main.zoomTo(1, 130));
     }
 
     // ── Paddle hit — ONLY when ballState === "hit_window" ────────────────
@@ -747,6 +750,8 @@ class SquashScene extends Phaser.Scene {
     this.squishElapsed  = this.SQUISH_DUR;
     this.triggerHitFlash(this.bx, padTop);
     this.cameras.main.shake(16, 0.003);
+    // Screen flash on paddle hit — cyan energy burst
+    this.cameras.main.flash(55, 0, 220, 180, false);
 
     if (perfect) {
       // Perfect hit: extra speed boost, gold ripples, bigger score
