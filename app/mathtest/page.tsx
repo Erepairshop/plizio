@@ -642,7 +642,7 @@ export default function MathTestPage() {
 
     const streak = updateStreak();
     updateStats({ highestStreak: streak });
-    const rarity = calculateRarity(gradeResult.score, gradeResult.total, streak, false);
+    const rarity = calculateRarity(gradeResult.score, gradeResult.total, streak, 85);
     setCardRarity(rarity);
 
     saveCard({

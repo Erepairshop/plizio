@@ -96,7 +96,7 @@ export default function MemoryFlashPage() {
         // Save card and show reward first
         const finalScore = score + (correct ? (round + 1) : 0);
         const ms = TOTAL_ROUNDS * (TOTAL_ROUNDS + 1) / 2;
-        const rarity = calculateRarity(finalScore, ms, 0, false);
+        const rarity = calculateRarity(finalScore, ms, 0, 85);
         saveCard({
           id: generateCardId(),
           game: "memoryflash",
@@ -353,7 +353,7 @@ export default function MemoryFlashPage() {
       {/* Reward - shows FIRST */}
       {gameState === "reward" && (
         <RewardReveal
-          rarity={calculateRarity(score, maxScore, 0, false)}
+          rarity={calculateRarity(score, maxScore, 0, 85)}
           game="memoryflash"
           score={score}
           total={maxScore}

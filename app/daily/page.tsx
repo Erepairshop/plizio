@@ -167,7 +167,7 @@ export default function DailyChallengePage() {
         setTotalTime(elapsed);
         const finalScore = score + (correct ? 1 : 0);
         saveDailyResult(finalScore, TOTAL_ROUNDS);
-        const rarity = calculateRarity(finalScore, TOTAL_ROUNDS, 0, false);
+        const rarity = calculateRarity(finalScore, TOTAL_ROUNDS, 0, 85);
         saveCard({
           id: generateCardId(),
           game: "daily",
@@ -458,7 +458,7 @@ export default function DailyChallengePage() {
       {/* Reward */}
       {gameState === "reward" && (
         <RewardReveal
-          rarity={calculateRarity(score, TOTAL_ROUNDS, 0, false)}
+          rarity={calculateRarity(score, TOTAL_ROUNDS, 0, 85)}
           game="daily"
           score={score}
           total={TOTAL_ROUNDS}

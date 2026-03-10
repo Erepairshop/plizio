@@ -402,7 +402,7 @@ function QuickPickPage() {
           setOppFinalScore(result.oppWins);
           setMixFinished(true);
           // Save one card for the whole mix
-          const rarity = calculateRarity(score, TOTAL_ROUNDS, streak, false);
+          const rarity = calculateRarity(score, TOTAL_ROUNDS, streak, 85);
           saveCard({
             id: generateCardId(), game: "quickpick", theme: selectedTheme,
             rarity, score, total: TOTAL_ROUNDS, date: new Date().toISOString(),
@@ -546,7 +546,7 @@ function QuickPickPage() {
           setScoreSubmitted(true);
           submitScore(matchId, finalScore, playerNum === "1");
           // Save card
-          const rarity = calculateRarity(finalScore, TOTAL_ROUNDS, newStreak, false);
+          const rarity = calculateRarity(finalScore, TOTAL_ROUNDS, newStreak, 85);
           saveCard({
             id: generateCardId(), game: "quickpick", theme: selectedTheme,
             rarity, score: finalScore, total: TOTAL_ROUNDS, date: new Date().toISOString(),
@@ -559,7 +559,7 @@ function QuickPickPage() {
           setGameState("mix-waiting");
         } else {
           // Solo mode: save card and show reward
-          const rarity = calculateRarity(finalScore, TOTAL_ROUNDS, newStreak, false);
+          const rarity = calculateRarity(finalScore, TOTAL_ROUNDS, newStreak, 85);
           saveCard({
             id: generateCardId(), game: "quickpick", theme: selectedTheme,
             rarity, score: finalScore, total: TOTAL_ROUNDS, date: new Date().toISOString(),
@@ -983,7 +983,7 @@ function QuickPickPage() {
       {/* Reward Reveal - shows after multi-result (or directly for solo) */}
       {gameState === "reward" && (
         <RewardReveal
-          rarity={calculateRarity(score, TOTAL_ROUNDS, streak, false)}
+          rarity={calculateRarity(score, TOTAL_ROUNDS, streak, 85)}
           game="quickpick"
           score={score}
           total={TOTAL_ROUNDS}

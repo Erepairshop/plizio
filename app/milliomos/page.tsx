@@ -237,7 +237,7 @@ export default function MilliomosPage() {
     // Only give a card if at least 3 correct answers
     if (finalLevel >= 3) {
       const score = finalLevel;
-      const rarity = calculateRarity(score, 15, newStreak, false);
+      const rarity = calculateRarity(score, 15, newStreak, 85);
       saveCard({
         id: generateCardId(),
         game: "milliomos",
@@ -660,7 +660,7 @@ export default function MilliomosPage() {
 
       {gameState === "reward" && (
         <RewardReveal
-          rarity={calculateRarity(level, 15, streak, false)}
+          rarity={calculateRarity(level, 15, streak, 85)}
           game="milliomos"
           score={level}
           total={15}
