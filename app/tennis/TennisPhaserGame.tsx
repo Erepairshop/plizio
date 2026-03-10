@@ -60,6 +60,10 @@ class TennisScene extends Phaser.Scene {
   private lastHitter: "player" | "ai" | null = null;
   // Rally combo
   private combo = 0;
+  // Hit zone indicator
+  private hitZoneGfx!: Phaser.GameObjects.Graphics;
+  private swipeHintTxt!: Phaser.GameObjects.Text;
+  private wasInHitZone = false;
 
   // UI
   private scoreTxt!: Phaser.GameObjects.Text;
@@ -409,6 +413,16 @@ class TennisScene extends Phaser.Scene {
     // Ball shadow
     this.ballShadow = this.add.graphics();
     this.ballShadow.setDepth(7);
+
+    // Hit zone ring (shows when ball is hittable)
+    this.hitZoneGfx = this.add.graphics().setDepth(14);
+
+    // "SWIPE!" hint text
+    this.swipeHintTxt = this.add.text(0, 0, "SWIPE!", {
+      fontSize: "18px", fontFamily: "monospace",
+      color: "#00ff88", fontStyle: "bold",
+      stroke: "#000", strokeThickness: 3,
+    }).setOrigin(0.5).setDepth(32).setAlpha(0);
   }
 
   // ─── Players ────────────────────────────────────────────────────────────────
@@ -480,7 +494,7 @@ class TennisScene extends Phaser.Scene {
     }).setOrigin(0.5).setDepth(30).setAlpha(0);
 
     // Controls hint
-    this.add.text(NET_X, GH - 12, "← → arrow keys  /  tap left/right to move", {
+    this.add.text(NET_X, GH - 12, "Swipe to hit  •  swipe direction = shot angle  •  up swipe = lob", {
       fontSize: "11px", fontFamily: "monospace", color: "#ffffff",
     }).setOrigin(0.5).setAlpha(0.45).setDepth(30);
   }
@@ -494,7 +508,8 @@ class TennisScene extends Phaser.Scene {
       this.swipeStart = { x: p.x, y: p.y, time: this.time.now };
     });
 
-    // On release: calculate swipe direction + speed → store as pendingSwipe (valid 700ms)
+    // On release: calculate swipe direction + speed → store as pendingSwipe (valid 800ms)
+    // Quick tap (dist < 18, elapsed < 250ms) also registers as a straight hit
     this.input.on("pointerup", (p: Phaser.Input.Pointer) => {
       if (!this.swipeStart) return;
       const dx = p.x - this.swipeStart.x;
@@ -504,7 +519,11 @@ class TennisScene extends Phaser.Scene {
       const speed = dist / elapsed * 1000; // pixels/sec
       if (dist > 18) {
         this.pendingSwipe = { dx, dy, speed };
-        this.swipeClearTimer = 700;
+        this.swipeClearTimer = 800;
+      } else if (elapsed < 280) {
+        // Quick tap → straight shot (no directional bias)
+        this.pendingSwipe = { dx: 1, dy: 0, speed: 650 };
+        this.swipeClearTimer = 800;
       }
       this.swipeStart = null;
     });
@@ -756,8 +775,44 @@ class TennisScene extends Phaser.Scene {
 
     this.aiCont.x = this.aiX;
 
+    // ─── Hit zone indicator + SWIPE hint ─────────────────────────────────────
+    this.hitZoneGfx.clear();
+    if (this.ballInPlay && !this.gameOver && this.hitCooldown <= 0) {
+      const bx = this.ball.x;
+      const by = this.ball.y;
+      const dx = bx - this.playerX;
+      const dy = by - (GROUND_Y - 45);
+      const dist = Math.sqrt(dx * dx + dy * dy);
+      const hitRadius = this.input.activePointer.wasTouch ? 90 : 56;
+      const inZone = dist < hitRadius * 2.2 && bx < NET_X - 10;
+
+      if (inZone) {
+        // Pulsing green ring around player
+        const pulse = 0.25 + 0.2 * Math.sin(_time / 90);
+        this.hitZoneGfx.lineStyle(3, 0x00ff88, pulse);
+        this.hitZoneGfx.strokeCircle(this.playerX, GROUND_Y - 45, hitRadius);
+        // "SWIPE!" hint: first time entering zone
+        if (!this.wasInHitZone) {
+          this.wasInHitZone = true;
+          this.swipeHintTxt.setPosition(this.playerX, GROUND_Y - 100);
+          this.tweens.killTweensOf(this.swipeHintTxt);
+          this.swipeHintTxt.setAlpha(1).setScale(1.2);
+          this.tweens.add({
+            targets: this.swipeHintTxt,
+            scaleX: 1, scaleY: 1, alpha: 0,
+            duration: 600, delay: 200, ease: "Quad.In",
+          });
+        }
+      } else {
+        this.wasInHitZone = false;
+      }
+    } else {
+      this.wasInHitZone = false;
+    }
+
     // ─── Hit detection: Player ────────────────────────────────────────────────
-    if (this.ballInPlay && this.hitCooldown <= 0) {
+    // ONLY hit when player swipes/taps (pendingSwipe set) — not auto-hit!
+    if (this.ballInPlay && this.hitCooldown <= 0 && this.pendingSwipe) {
       const bx = this.ball.x;
       const by = this.ball.y;
       const dx = bx - this.playerX;
