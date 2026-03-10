@@ -341,37 +341,24 @@ class TennisScene extends Phaser.Scene {
     court.fillStyle(0x1e6a15);
     court.fillRect(0, GROUND_Y, GW, GH - GROUND_Y);
 
-    // Subtle court shadow at net
-    court.fillStyle(0x000000, 0.06);
-    court.fillRect(NET_X - 30, 250, 60, GROUND_Y - 250);
+    // Subtle center shadow line
+    court.fillStyle(0x000000, 0.04);
+    court.fillRect(NET_X - 4, 250, 8, GROUND_Y - 250);
   }
 
   // ─── Net ────────────────────────────────────────────────────────────────────
+  // Side-view: only a thin center service line + small shadow — no full net mesh
   private drawNet() {
     const net = this.add.graphics();
     net.setDepth(9);
 
-    // Posts
-    net.fillStyle(0xdddddd);
-    net.fillRect(48, NET_TOP_Y - 5, 7, GROUND_Y - NET_TOP_Y + 5);
-    net.fillRect(GW - 55, NET_TOP_Y - 5, 7, GROUND_Y - NET_TOP_Y + 5);
+    // Thin center divider line (service T on the ground)
+    net.lineStyle(2, 0xffffff, 0.65);
+    net.lineBetween(NET_X, GROUND_Y - 68, NET_X, GROUND_Y - 2);
 
-    // Top tape
-    net.fillStyle(0xffffff);
-    net.fillRect(55, NET_TOP_Y, GW - 110, 6);
-
-    // Net mesh
-    net.lineStyle(1, 0xffffff, 0.45);
-    for (let x = 66; x < GW - 66; x += 13) {
-      net.lineBetween(x, NET_TOP_Y + 6, x, GROUND_Y - 1);
-    }
-    for (let y = NET_TOP_Y + 10; y < GROUND_Y; y += 10) {
-      net.lineBetween(55, y, GW - 55, y);
-    }
-
-    // Center strap
-    net.fillStyle(0xcccccc);
-    net.fillRect(NET_X - 3, NET_TOP_Y, 6, GROUND_Y - NET_TOP_Y);
+    // Small shadow beneath the center line to suggest depth
+    net.lineStyle(3, 0x000000, 0.10);
+    net.lineBetween(NET_X, GROUND_Y - 2, NET_X, GROUND_Y + 2);
   }
 
   // ─── Physics Setup ──────────────────────────────────────────────────────────
@@ -382,9 +369,10 @@ class TennisScene extends Phaser.Scene {
     this.groundBody.setAlpha(0);
     this.groundBody.refreshBody();
 
-    // Net static body
-    this.netBody = this.physics.add.staticImage(NET_X, NET_TOP_Y + (GROUND_Y - NET_TOP_Y) / 2, "__DEFAULT");
-    this.netBody.setDisplaySize(18, GROUND_Y - NET_TOP_Y);
+    // Net static body — thin, low barrier (side-view: ~30px tall near ground)
+    const NET_COLLIDER_H = 30;
+    this.netBody = this.physics.add.staticImage(NET_X, GROUND_Y - NET_COLLIDER_H / 2, "__DEFAULT");
+    this.netBody.setDisplaySize(10, NET_COLLIDER_H);
     this.netBody.setAlpha(0);
     this.netBody.refreshBody();
 
