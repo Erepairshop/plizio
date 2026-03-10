@@ -38,9 +38,9 @@ class PingPongScene extends Phaser.Scene {
   private rallyCount = 0;
   private gameOver = false;
 
-  // Feature 8: Paddle visual radius vs larger hitbox
-  private readonly PADDLE_R = 48; // visual radius (increased from 28 for modern look)
-  private readonly HITBOX_R = 56; // bigger hitbox – easier to hit
+  // Paddle sizes (PADDLE_R controls scale: visual radius = 2 * PADDLE_R when texture r=40)
+  private readonly PADDLE_R = 22; // → SCALE=1.1 → visual diameter ~88px (was 48 → 192px!)
+  private readonly HITBOX_R = 30; // slightly larger than visual for touch forgiveness
 
   // Feature 4: Paddle momentum tracking
   private playerPrevX = 0;
@@ -62,6 +62,12 @@ class PingPongScene extends Phaser.Scene {
   private impacts: { x: number; y: number; age: number; color: number }[] = [];
   private readonly TRAIL_LEN = 8;
   private readonly IMPACT_DUR = 200;
+
+  // Dynamic visuals (updated every frame)
+  private playerShadow!: Phaser.GameObjects.Graphics;
+  private aiShadow!: Phaser.GameObjects.Graphics;
+  private ballGlowGfx!: Phaser.GameObjects.Graphics;
+  private flashGfx!: Phaser.GameObjects.Graphics;
 
   // Feature 6: speed limits
   private readonly MAX_SPEED = 680;
@@ -217,16 +223,11 @@ class PingPongScene extends Phaser.Scene {
     // Paddles — scale so visual radius = PADDLE_R
     const SCALE = this.PADDLE_R / 20;
 
-    // MODERNIZED: Larger paddle shadows with subtle glow effect
-    const playerShadow = this.add.graphics();
-    playerShadow.fillStyle(0xcc1515, 0.12); // color-tinted shadow
-    playerShadow.fillEllipse(W / 2, tT + tH * 0.88, 60, 14);
-    playerShadow.setDepth(4);
-
-    const aiShadow = this.add.graphics();
-    aiShadow.fillStyle(0x2080e8, 0.12); // color-tinted shadow
-    aiShadow.fillEllipse(W / 2, tT + tH * 0.12, 60, 14);
-    aiShadow.setDepth(4);
+    // Paddle shadows — dynamic, updated every frame to follow paddles
+    this.playerShadow = this.add.graphics();
+    this.playerShadow.setDepth(4);
+    this.aiShadow = this.add.graphics();
+    this.aiShadow.setDepth(4);
 
     this.player = this.add.image(W / 2, tT + tH * 0.84, "playerPaddle")
       .setOrigin(0.5, 40 / 130) // adjusted for larger paddle
@@ -237,9 +238,14 @@ class PingPongScene extends Phaser.Scene {
       .setScale(SCALE)
       .setDepth(15);
 
-    // Ball glow effect (subtle halo)
-    const ballGlowGfx = this.add.graphics();
-    ballGlowGfx.setDepth(8);
+    // Ball glow (updated each frame — single persistent object)
+    this.ballGlowGfx = this.add.graphics();
+    this.ballGlowGfx.setDepth(8);
+
+    // Score flash overlay (drawn on scorePoint)
+    this.flashGfx = this.add.graphics();
+    this.flashGfx.setDepth(50);
+    this.flashGfx.setAlpha(0);
 
     // Ball (MODERNIZED: larger collision radius)
     this.ball = this.physics.add.image(W / 2, H / 2, "ball");
@@ -412,8 +418,25 @@ class PingPongScene extends Phaser.Scene {
 
   private scorePoint(playerScored: boolean) {
     const W = this.scale.width;
+    const tL: number = this.data.get("tL");
     const tT: number = this.data.get("tT");
+    const tW: number = this.data.get("tW");
     const tH: number = this.data.get("tH");
+
+    // Table flash effect on score
+    const flashColor = playerScored ? 0x00d4ff : 0xe83030;
+    const flashY = playerScored ? tT : tT + tH / 2;
+    this.flashGfx.clear();
+    this.flashGfx.fillStyle(flashColor, 1);
+    this.flashGfx.fillRect(tL, flashY, tW, tH / 2);
+    this.tweens.killTweensOf(this.flashGfx);
+    this.flashGfx.setAlpha(0.18);
+    this.tweens.add({
+      targets: this.flashGfx,
+      alpha: 0,
+      duration: 350,
+      ease: "Quad.Out",
+    });
 
     if (playerScored) {
       this.playerScore++;
@@ -463,23 +486,30 @@ class PingPongScene extends Phaser.Scene {
       this.launchBall();
     }
 
-    // ─── MODERNIZED: Ball glow effect (larger, more vibrant) ─────────────────────────────────────────────
-    const ballGlowCanvas = this.make.graphics({ x: this.ball.x, y: this.ball.y });
-    ballGlowCanvas.fillStyle(0xffffff, 0.15);
-    ballGlowCanvas.fillCircle(0, 0, 32);
-    ballGlowCanvas.fillStyle(0xffffff, 0.08);
-    ballGlowCanvas.fillCircle(0, 0, 42);
-    ballGlowCanvas.fillStyle(0x00d4ff, 0.06);
-    ballGlowCanvas.fillCircle(0, 0, 52);
-    ballGlowCanvas.setDepth(9);
+    // ─── Ball glow (reuse single Graphics object — no memory leak) ───────
+    const bxG = this.ball.x;
+    const byG = this.ball.y;
+    this.ballGlowGfx.clear();
+    this.ballGlowGfx.fillStyle(0xffffff, 0.10);
+    this.ballGlowGfx.fillCircle(bxG, byG, 20);
+    this.ballGlowGfx.fillStyle(0x00d4ff, 0.05);
+    this.ballGlowGfx.fillCircle(bxG, byG, 30);
 
     // ─── Ball shadow on table ─────────────────────────────────────────
     const tableY = tT + tH;
     const shadowScale = Math.max(0.3, 1 - Math.abs(this.ball.y - tableY) / 150);
     this.ballShadowGfx.clear();
-    this.ballShadowGfx.fillStyle(0x000000, 0.2 * shadowScale);
-    this.ballShadowGfx.fillEllipse(this.ball.x, tableY - 2, 16 * shadowScale, 6 * shadowScale);
+    this.ballShadowGfx.fillStyle(0x000000, 0.20 * shadowScale);
+    this.ballShadowGfx.fillEllipse(this.ball.x, tableY - 2, 14 * shadowScale, 5 * shadowScale);
     this.ballShadowGfx.setDepth(5);
+
+    // ─── Paddle shadows (follow paddles every frame) ──────────────────
+    this.playerShadow.clear();
+    this.playerShadow.fillStyle(0xcc1515, 0.18);
+    this.playerShadow.fillEllipse(this.player.x, this.player.y + 6, 52, 10);
+    this.aiShadow.clear();
+    this.aiShadow.fillStyle(0x2080e8, 0.18);
+    this.aiShadow.fillEllipse(this.ai.x, this.ai.y - 6, 52, 10);
 
     // ─── Trail ───────────────────────────────────────────────────────
     if (!this.serving && !this.waitingForServe) {
