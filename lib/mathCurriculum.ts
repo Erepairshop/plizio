@@ -962,6 +962,8 @@ const G3: Record<string, Generator> = {
   ampmClock: (cc) => {
     if (cc !== "US") return pick([
       () => { const a = randInt(2, 9), b = randInt(2, 9); return q(qMissingInEquation(`${a} × ? = ${a * b}`, cc), b, t("missingNumber", cc)); },
+      () => { const a = randInt(2, 9), b = randInt(2, 9); return q(qMissingInEquation(`? × ${b} = ${a * b}`, cc), a, t("missingNumber", cc)); },
+      () => { const step = pick([3, 4, 6, 9]); const start = step * randInt(1, 4); const seq = [start, start + step, start + 2 * step, start + 3 * step]; return q(qNextInSequence(seq.join(' → '), cc), start + 4 * step, t("numberSequence", cc)); },
     ])();
     return pick([
       () => { const startH = randInt(7, 10), endH = randInt(1, 3); return q(qAmPmElapsed(startH, endH, cc), 12 - startH + endH, t("ampmTime", cc), 0, true); },
@@ -972,16 +974,72 @@ const G3: Record<string, Generator> = {
   },
   word1: (cc) => {
     const items = getItems(cc);
+    const type = pick([0, 1, 2]);
+    if (type === 1) {
+      // Shelf/box counting: total items in boxes
+      const boxes = randInt(3, 6), perBox = randInt(30, 80);
+      const lang = getLang(cc);
+      const item = pick(items.fruits);
+      const texts: Record<string, string> = {
+        DE: `Es gibt ${boxes} Kisten mit je ${perBox} ${item}. Wie viele ${item} sind es insgesamt?`,
+        EN: `There are ${boxes} boxes with ${perBox} ${item} each. How many ${item} in total?`,
+        HU: `${boxes} ládában ${perBox}-${perBox} ${item} van. Hány ${item} van összesen?`,
+        RO: `Există ${boxes} lăzi cu câte ${perBox} ${item}. Câte ${item} sunt în total?`,
+      };
+      return q(texts[lang] || texts.DE, boxes * perBox, t("wordProblem", cc), 0, true);
+    }
+    if (type === 2) {
+      // Distance/travel: two legs of a journey
+      const a = randInt(120, 350), b = randInt(80, 250);
+      const lang = getLang(cc);
+      const texts: Record<string, string> = {
+        DE: `Ein Bus fährt ${a} km und dann noch ${b} km. Wie viele km fährt er insgesamt?`,
+        EN: `A bus travels ${a} km and then ${b} more km. How many km in total?`,
+        HU: `Egy busz ${a} km-t megy, majd még ${b} km-t. Hány km-t tesz meg összesen?`,
+        RO: `Un autobuz parcurge ${a} km și apoi încă ${b} km. Câți km parcurge în total?`,
+      };
+      return q(texts[lang] || texts.DE, a + b, t("wordProblem", cc), 0, true);
+    }
+    // Original: two fruit types in a shop
     const a = randInt(120, 400), b = randInt(100, 300);
     return q(wpFruitTotal(a, pick(items.fruits), b, pick(items.fruits), cc), a + b, t("wordProblem", cc), 0, true);
   },
   word2: (cc) => {
     const items = getItems(cc);
+    const type = pick([0, 1]);
+    if (type === 1) {
+      // Money: buying items
+      const price = randInt(3, 9), count = randInt(3, 7);
+      const item = pick(items.fruits);
+      const lang = getLang(cc);
+      const cur = getCurrency(cc);
+      const texts: Record<string, string> = {
+        DE: `${item} kosten ${price} ${cur} pro Stück. Wie viel kosten ${count} ${item}?`,
+        EN: `${item} cost ${price} ${cur} each. How much do ${count} ${item} cost?`,
+        HU: `Egy ${item} ${price} ${cur}. Mennyibe kerül ${count} darab?`,
+        RO: `Un ${item} costă ${price} ${cur}. Cât costă ${count} ${item}?`,
+      };
+      return q(texts[lang] || texts.DE, price * count, t("wordProblem", cc), 0, true);
+    }
     const a = randInt(3, 7), b = randInt(3, 8);
     return q(wpShelfRows(a, b, items.book, cc), a * b, t("wordProblem", cc), 0, true);
   },
   word3: (cc) => {
     const items = getItems(cc);
+    const type = pick([0, 1]);
+    if (type === 1) {
+      // Remainder: how many left after giving away
+      const total = randInt(100, 300), given = randInt(50, total - 20);
+      const lang = getLang(cc);
+      const item = pick(items.fruits);
+      const texts: Record<string, string> = {
+        DE: `Ein Laden hatte ${total} ${item}. Es wurden ${given} verkauft. Wie viele sind noch übrig?`,
+        EN: `A shop had ${total} ${item}. ${given} were sold. How many are left?`,
+        HU: `Egy boltban ${total} ${item} volt. Eladtak ${given} darabot. Hány maradt?`,
+        RO: `Un magazin avea ${total} ${item}. S-au vândut ${given}. Câte au rămas?`,
+      };
+      return q(texts[lang] || texts.DE, total - given, t("wordProblem", cc), 0, true);
+    }
     const d = pick([2, 3, 4, 6]); const r = randInt(3, 8);
     return q(wpShare(d * r, d, r, items.candy, cc), r, t("wordProblem", cc), 0, true);
   },
@@ -1077,13 +1135,14 @@ const G3: Record<string, Generator> = {
       RO: ['Mere', 'Pere', 'Cireșe', 'Banane'],
     };
     const names = labels[lang] || labels.DE;
+    const askIdx = randInt(0, 3); // ask about random item, not always the first
     const texts: Record<string, string> = {
-      DE: `Balkendiagramm: ${names[0]}:${vals[0]}, ${names[1]}:${vals[1]}, ${names[2]}:${vals[2]}, ${names[3]}:${vals[3]}. Wie viele ${names[0]}?`,
-      EN: `Bar chart: ${names[0]}:${vals[0]}, ${names[1]}:${vals[1]}, ${names[2]}:${vals[2]}, ${names[3]}:${vals[3]}. How many ${names[0]}?`,
-      HU: `Oszlopdiagram: ${names[0]}:${vals[0]}, ${names[1]}:${vals[1]}, ${names[2]}:${vals[2]}, ${names[3]}:${vals[3]}. Hány ${names[0]}?`,
-      RO: `Diagramă: ${names[0]}:${vals[0]}, ${names[1]}:${vals[1]}, ${names[2]}:${vals[2]}, ${names[3]}:${vals[3]}. Câte ${names[0]}?`,
+      DE: `Balkendiagramm: ${names[0]}:${vals[0]}, ${names[1]}:${vals[1]}, ${names[2]}:${vals[2]}, ${names[3]}:${vals[3]}. Wie viele ${names[askIdx]}?`,
+      EN: `Bar chart: ${names[0]}:${vals[0]}, ${names[1]}:${vals[1]}, ${names[2]}:${vals[2]}, ${names[3]}:${vals[3]}. How many ${names[askIdx]}?`,
+      HU: `Oszlopdiagram: ${names[0]}:${vals[0]}, ${names[1]}:${vals[1]}, ${names[2]}:${vals[2]}, ${names[3]}:${vals[3]}. Hány ${names[askIdx]}?`,
+      RO: `Diagramă: ${names[0]}:${vals[0]}, ${names[1]}:${vals[1]}, ${names[2]}:${vals[2]}, ${names[3]}:${vals[3]}. Câte ${names[askIdx]}?`,
     };
-    return q(texts[lang] || texts.DE, vals[0], t("g1DataTable", cc));
+    return q(texts[lang] || texts.DE, vals[askIdx], t("g1DataTable", cc));
   },
   shapeProp: (cc) => {
     const shapes = [
@@ -1733,11 +1792,16 @@ const GRADES_1_4: Record<number, Record<number, PeriodTopics>> = {
     5: { current: [G2.mul2510, G2.mul2510b, G2.div2510, G2.mulTable34, G2.missingMulFactor, G2.word1, G2.word2, G2.word3, G2.word4, G2.wordAddG2, G2.wordSubG2, G2.wordMulG2, G2.wordDivG2, G2.wordMoneyG2, G2.wordTimeG2, G2.moneyChangeG2, G2.units, G2.ampmClock, G2.clock2, G2.sequence, G2.rounding10, G2.mulVisual, G2.divVisual, G2.patternG2, G2.chartG2, G2.compare100, G2.halving, G2.doubling, G2.perimeterSimple, G2.shapeBasic, G2.moneyEuroCent, G2.weightGKg, G2.lengthMeasure], review: [G2.add100, G2.sub100] },
   },
   3: {
-    1: { current: [G3.add1000, G3.add1000b, G3.sub1000, G3.rounding100, G3.compare1000, G3.pred1000, G3.succ1000, G3.decompose, G3.compose], review: [G2.add100, G2.sub100, G2.mul2510] },
-    2: { current: [G3.add1000, G3.sub1000, G3.writtenAdd, G3.sequence, G3.rounding100, G3.add3nums, G3.placeVal1000], review: [G2.mul2510, G2.div2510] },
-    3: { current: [G3.mul, G3.mulB, G3.div, G3.divB, G3.missingMul, G3.clock3, G3.mulRepeated, G3.mulLarge, G3.divRelMul], review: [G3.add1000, G3.sub1000] },
-    4: { current: [G3.writtenAdd, G3.writtenSub, G3.mul, G3.div, G3.missingMul, G3.clock3, G3.divRemainder, G3.perimCalc], review: [G3.divB, G3.sequence] },
-    5: { current: [G3.word1, G3.word2, G3.word3, G3.units, G3.clock3, G3.mul, G3.mulB, G3.div, G3.divB, G3.rounding100, G3.areaCalc, G3.barChartRead], review: [G3.writtenAdd, G3.writtenSub, G3.sequence] },
+    // Period 1: Zahlenraum 1000 — place value, ordering, rounding
+    1: { current: [G3.add1000, G3.sub1000, G3.rounding100, G3.compare1000, G3.pred1000, G3.succ1000, G3.decompose, G3.compose, G3.placeVal1000], review: [G2.add100, G2.sub100, G2.mul2510] },
+    // Period 2: Written arithmetic, sequences, place value deepening
+    2: { current: [G3.writtenAdd, G3.writtenSub, G3.add1000, G3.sub1000, G3.sequence, G3.rounding100, G3.add3nums, G3.placeVal1000, G3.compare1000], review: [G2.mul2510, G2.div2510] },
+    // Period 3: Multiplication tables, division, time
+    3: { current: [G3.mul, G3.mulB, G3.div, G3.divB, G3.missingMul, G3.clock3, G3.mulRepeated, G3.mulLarge, G3.divRelMul, G3.divRemainder], review: [G3.add1000, G3.sub1000] },
+    // Period 4: Written ops + geometry (perimeter+area) + time
+    4: { current: [G3.writtenAdd, G3.writtenSub, G3.mul, G3.div, G3.missingMul, G3.clock3, G3.divRemainder, G3.perimCalc, G3.areaCalc, G3.shapeProp], review: [G3.divB, G3.sequence] },
+    // Period 5: Word problems, units, data, all geometry, review
+    5: { current: [G3.word1, G3.word2, G3.word3, G3.units, G3.clock3, G3.mul, G3.div, G3.rounding100, G3.areaCalc, G3.perimCalc, G3.barChartRead, G3.shapeProp], review: [G3.writtenAdd, G3.writtenSub, G3.sequence] },
   },
   4: {
     1: { current: [G4.placeValue, G4.writtenMul, G4.writtenMulB, G4.sequence, G4.geometry, G4.roundingG4], review: [G3.mul, G3.div, G3.writtenAdd] },
@@ -3127,18 +3191,17 @@ export function generateTest(grade: number, period?: number, countryCode?: strin
     return false;
   }
 
-  // Generate current topic questions - rotate through generators
-  const currentGens = topics.current;
+  // Generate current topic questions - shuffle first for topic variety
+  const currentGens = shuffleArray([...topics.current]);
   for (let i = 0; i < currentCount; i++) {
-    const gen = currentGens[i % currentGens.length];
-    addUnique(gen);
+    addUnique(currentGens[i % currentGens.length]);
   }
 
-  // Generate review questions
-  const reviewGens = topics.review.length > 0 ? topics.review : currentGens;
+  // Generate review questions - shuffle for variety
+  const reviewPool = topics.review.length > 0 ? topics.review : topics.current;
+  const reviewGens = shuffleArray([...reviewPool]);
   for (let i = 0; i < reviewCount; i++) {
-    const gen = reviewGens[i % reviewGens.length];
-    addUnique(gen);
+    addUnique(reviewGens[i % reviewGens.length]);
   }
 
   return shuffleArray(questions);
@@ -3247,13 +3310,15 @@ export function generateKlassenarbeit(grade: number, period?: number, countryCod
           name: "Arithmetics",
           questionCount: 2,
           pointsPerQuestion: 1,
-          generators: [G3.add1000, G3.add1000b, G3.sub1000, G3.writtenAdd],
+          // Alternating: add (i=0) → sub/writtenAdd (i=1)
+          generators: [G3.add1000, G3.sub1000, G3.writtenAdd, G3.sub1000b],
         },
         multiplication: {
           name: "Multiplication",
           questionCount: 2,
           pointsPerQuestion: 2,
-          generators: [G3.mul, G3.mulB, G3.div, G3.divB],
+          // Alternating: mul (i=0) → div (i=1)
+          generators: [G3.mul, G3.div, G3.mulB, G3.divB],
         },
         wordproblems: {
           name: "Word Problems",
@@ -3265,13 +3330,14 @@ export function generateKlassenarbeit(grade: number, period?: number, countryCod
           name: "Geometry",
           questionCount: 2,
           pointsPerQuestion: 2,
-          generators: [G3.units],
+          // Real geometry: perimeter, area, shape properties
+          generators: [G3.perimCalc, G3.areaCalc, G3.shapeProp],
         },
         bonus: {
           name: "Bonus",
           questionCount: 1,
           pointsPerQuestion: 1,
-          generators: [G3.sequence, G3.missingMul],
+          generators: [G3.sequence, G3.missingMul, G3.rounding100],
         },
       };
       break;
@@ -3842,12 +3908,13 @@ export function generateTestWithMeta(grade: number, period?: number, countryCode
     return false;
   }
 
-  const currentGens = topics.current;
+  const currentGens = shuffleArray([...topics.current]);
   for (let i = 0; i < currentCount; i++) {
     addUnique(currentGens[i % currentGens.length]);
   }
 
-  const reviewGens = topics.review.length > 0 ? topics.review : currentGens;
+  const reviewPool2 = topics.review.length > 0 ? topics.review : topics.current;
+  const reviewGens = shuffleArray([...reviewPool2]);
   for (let i = 0; i < reviewCount; i++) {
     addUnique(reviewGens[i % reviewGens.length]);
   }
