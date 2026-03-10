@@ -42,6 +42,14 @@ class PingPongScene extends Phaser.Scene {
   private readonly PADDLE_R = 17; // SCALE=0.85 → visual diameter ~68px
   private readonly HITBOX_R = 24; // slightly generous hitbox for touch
 
+  // Swipe smash
+  private swipeStartY = 0;
+  private swipeStartTime = 0;
+  private swipeSmashReady = false;
+  // Rally combo
+  private combo = 0;
+  private comboTxt!: Phaser.GameObjects.Text;
+
   // Feature 4: Paddle momentum tracking
   private playerPrevX = 0;
   private playerPrevY = 0;
@@ -293,6 +301,12 @@ class PingPongScene extends Phaser.Scene {
       color: "#00ff88",
     }).setOrigin(0.5).setAlpha(0.85).setDepth(30).setVisible(false);
 
+    // Rally combo display
+    this.comboTxt = this.add.text(W / 2, tT + tH * 0.62, "", {
+      fontSize: "22px", fontFamily: "monospace", color: "#00ff88",
+      fontStyle: "bold", stroke: "#000", strokeThickness: 3,
+    }).setOrigin(0.5).setDepth(30).setAlpha(0);
+
     // Input
     this.cursors = this.input.keyboard!.createCursorKeys();
     this.wasd = {
@@ -304,13 +318,23 @@ class PingPongScene extends Phaser.Scene {
     this.spaceKey = this.input.keyboard!.addKey(Phaser.Input.Keyboard.KeyCodes.SPACE);
 
     this.input.on("pointerdown", (p: Phaser.Input.Pointer) => {
+      this.swipeStartY = p.y;
+      this.swipeStartTime = this.time.now;
       this.touchX = p.x; this.touchY = p.y;
       if (this.waitingForServe) this.launchBall();
     });
     this.input.on("pointermove", (p: Phaser.Input.Pointer) => {
       if (p.isDown) { this.touchX = p.x; this.touchY = p.y; }
     });
-    this.input.on("pointerup", () => { this.touchX = -1; this.touchY = -1; });
+    this.input.on("pointerup", (p: Phaser.Input.Pointer) => {
+      // Swipe smash: fast downward swipe (finger swings down toward ball)
+      const swipeDy = p.y - this.swipeStartY;
+      const swipeDt = this.time.now - this.swipeStartTime;
+      if (swipeDy > 70 && swipeDt < 300) {
+        this.swipeSmashReady = true;
+      }
+      this.touchX = -1; this.touchY = -1;
+    });
 
     // AI difficulty
     const cfgs = {
@@ -335,6 +359,21 @@ class PingPongScene extends Phaser.Scene {
   }
 
   // Position ball and wait for player input (feature 3 – tap to serve)
+  // ─── Combo Display ──────────────────────────────────────────────────────────
+  private updateComboDisplay(bx: number, by: number) {
+    if (this.combo < 2) { this.comboTxt.setAlpha(0); return; }
+    const colors = ["#00ff88", "#ffd700", "#ff8800", "#ff2d78", "#b44dff"];
+    const colorIdx = Math.min(Math.floor((this.combo - 2) / 2), colors.length - 1);
+    this.comboTxt
+      .setText(`x${this.combo} COMBO!`)
+      .setColor(colors[colorIdx])
+      .setAlpha(1)
+      .setPosition(bx, by - 40);
+    this.tweens.killTweensOf(this.comboTxt);
+    this.comboTxt.setScale(1.3);
+    this.tweens.add({ targets: this.comboTxt, scaleX: 1, scaleY: 1, duration: 200, ease: "Back.Out" });
+  }
+
   private serve() {
     const W = this.scale.width;
     const tT: number = this.data.get("tT");
@@ -479,6 +518,11 @@ class PingPongScene extends Phaser.Scene {
       ease: "Quad.Out",
     });
 
+    // Reset combo + haptic on score
+    this.combo = 0;
+    this.comboTxt.setAlpha(0).setText("");
+    navigator.vibrate?.(playerScored ? [60, 40, 120] : 80);
+
     if (playerScored) {
       this.playerScore++;
       this.onHit(W / 2, tT + tH * 0.15, 0x00d4ff);
@@ -515,7 +559,10 @@ class PingPongScene extends Phaser.Scene {
     const tW: number = this.data.get("tW");
     const tH: number = this.data.get("tH");
     const R = this.PADDLE_R;
-    const HR = this.HITBOX_R;
+    // Big touch zones: larger hitbox on touch devices
+    const HR = this.input.activePointer.wasTouch
+      ? Math.round(this.HITBOX_R * 1.6)
+      : this.HITBOX_R;
     const dt = delta / 1000;
     const SPEED = 520;
 
@@ -787,6 +834,21 @@ class PingPongScene extends Phaser.Scene {
           newVx = -Math.abs(newVx) * 0.25;
         }
 
+        // Swipe smash: boost power
+        if (this.swipeSmashReady) {
+          newVy = -Math.abs(newVy) * 1.35;
+          newVx *= 1.2;
+          this.swipeSmashReady = false;
+          navigator.vibrate?.([80, 30, 80]);
+          const st = this.add.text(bx, by - 30, "POWER SMASH!", {
+            fontSize: "17px", fontFamily: "monospace",
+            color: "#ff2d78", fontStyle: "bold", stroke: "#000", strokeThickness: 3,
+          }).setOrigin(0.5).setDepth(45);
+          this.tweens.add({ targets: st, y: st.y - 50, alpha: 0, duration: 700, onComplete: () => st.destroy() });
+        } else {
+          navigator.vibrate?.(40);
+        }
+
         // Push ball cleanly out of hitbox
         this.ball.y = this.player.y - HR - br - 2;
         this.applyVelocity(newVx, newVy);
@@ -805,6 +867,10 @@ class PingPongScene extends Phaser.Scene {
         this.mustBounce = true;      // ball must bounce in AI half before AI can hit
         this.bounceTriggered = false;
         this.onHit(bx, by, 0xcc1515);
+
+        // Rally combo
+        this.combo++;
+        this.updateComboDisplay(bx, by);
 
         // Paddle hit animation (grows 5-10% briefly)
         const origScale = this.player.scale;
