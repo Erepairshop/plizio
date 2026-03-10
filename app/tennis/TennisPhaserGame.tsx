@@ -474,7 +474,7 @@ class TennisScene extends Phaser.Scene {
     // Rally counter
     this.rallyTxt = this.add.text(NET_X, 80, "", {
       fontSize: "16px", fontFamily: "monospace", color: "#ffffff",
-    }).setOrigin(0.5).setDepth(30).setAlpha(0.8);
+    }).setOrigin(0.5).setDepth(30).setAlpha(1.0);
 
     // Combo display (left side, player area)
     this.comboTxt = this.add.text(GW * 0.30, GH * 0.18, "", {
@@ -520,7 +520,7 @@ class TennisScene extends Phaser.Scene {
       // Swipe smash: fast downward swipe within 300ms
       const swipeDy = p.y - this.swipeStartY;
       const swipeDt = this.time.now - this.swipeStartTime;
-      if (swipeDy > 70 && swipeDt < 300) {
+      if (swipeDy > 120 && swipeDt < 300) {
         this.swipeSmashReady = true;
       }
     });
@@ -538,8 +538,8 @@ class TennisScene extends Phaser.Scene {
       this.chargingServe = false;
     });
 
-    // Fullscreen on first touch (app-like experience)
-    this.input.on("pointerdown", () => {
+    // Fullscreen on first touch only (app-like experience)
+    this.input.once("pointerdown", () => {
       if (!this.scale.isFullscreen) {
         this.scale.startFullscreen();
       }
@@ -828,7 +828,7 @@ class TennisScene extends Phaser.Scene {
     // ─── Ball trail ───────────────────────────────────────────────────────────
     this.trailTimer -= delta;
     if (this.trailTimer <= 0 && this.ballInPlay && this.ball.visible) {
-      this.trailTimer = 40;
+      this.trailTimer = 75;
       const trail = this.add.image(this.ball.x, this.ball.y, "tdot")
         .setScale(1.2).setAlpha(0.4).setDepth(19).setTint(0xd4e84a);
       this.tweens.add({
@@ -969,8 +969,8 @@ class TennisScene extends Phaser.Scene {
 
     // Smash slow motion + label
     if (isSmash) {
-      this.time.timeScale = 0.6;
-      this.time.delayedCall(120, () => { this.time.timeScale = 1; });
+      this.physics.world.timeScale = 0.6;
+      this.time.delayedCall(120, () => { this.physics.world.timeScale = 1; });
 
       const smashTxt = this.add.text(this.ball.x, this.ball.y - 40, "SMASH!", {
         fontSize: "20px", fontFamily: "monospace",
