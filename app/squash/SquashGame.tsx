@@ -539,7 +539,12 @@ class SquashScene extends Phaser.Scene {
     if (this.by - BALL_R <= FWY && this.vy < 0) {
       this.by = FWY + BALL_R;
       this.vy = Math.abs(this.vy);
-      this.vx += Phaser.Math.FloatBetween(-15, 15);
+      // Random angle deflection ±8° — makes rally unpredictable
+      const spd0 = Math.hypot(this.vx, this.vy);
+      const ang0 = Math.atan2(this.vx, this.vy); // angle from vertical
+      const ang1 = ang0 + Phaser.Math.DegToRad(Phaser.Math.FloatBetween(-8, 8));
+      this.vx = Math.sin(ang1) * spd0;
+      this.vy = Math.abs(Math.cos(ang1) * spd0); // must be positive (return)
       this.ballState = "return";
       this.clampBallAngle();
       this.spawnRipple(this.bx, FWY, 0x00ff88);
@@ -550,6 +555,10 @@ class SquashScene extends Phaser.Scene {
     if (this.bx - BALL_R <= this.WL && this.vx < 0) {
       this.bx = this.WL + BALL_R;
       this.vx = Math.abs(this.vx);
+      // Side wall: small extra nudge inward + 1.08× speed burst
+      this.vx *= 1.08;
+      this.vy *= 1.08;
+      this.vx += Phaser.Math.FloatBetween(10, 30); // kick away from wall
       this.clampBallAngle();
       this.spawnRipple(this.WL, this.by, 0x336633);
       this.addScoreSilent(1);
@@ -559,6 +568,10 @@ class SquashScene extends Phaser.Scene {
     if (this.bx + BALL_R >= this.WR && this.vx > 0) {
       this.bx = this.WR - BALL_R;
       this.vx = -Math.abs(this.vx);
+      // Side wall: small extra nudge inward + 1.08× speed burst
+      this.vx *= 1.08;
+      this.vy *= 1.08;
+      this.vx -= Phaser.Math.FloatBetween(10, 30); // kick away from wall
       this.clampBallAngle();
       this.spawnRipple(this.WR, this.by, 0x336633);
       this.addScoreSilent(1);
@@ -584,12 +597,12 @@ class SquashScene extends Phaser.Scene {
       this.bestTxt.setText(String(this.bestRally));
     }
 
-    // ── Rally dynamics: speed progression every 5 hits ───────────────────
-    const newMult    = 1 + Math.floor(this.rally / 5) * this.SPEED_PER_5;
-    const cappedMult = Math.min(newMult, this.MAX_SPEED / this.BASE_SPEED);
+    // ── Rally dynamics: +5% speed every hit (compound) ───────────────────
+    const cappedMult = Math.min(this.speedMult * (1 + this.SPEED_PER_5), this.MAX_SPEED / this.BASE_SPEED);
     if (cappedMult > this.speedMult) {
       this.speedMult = cappedMult;
-      this.flashSpeedUp();
+      // Flash every 5 hits to signal milestone
+      if (this.rally % 5 === 0) this.flashSpeedUp();
     }
 
     // ── Ball velocity after hit ───────────────────────────────────────────
