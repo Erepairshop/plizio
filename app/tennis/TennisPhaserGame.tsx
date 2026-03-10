@@ -11,8 +11,8 @@ interface Props {
 }
 
 // ─── Constants ────────────────────────────────────────────────────────────────
-const GW = 720;
-const GH = 420;
+const GW = 900;
+const GH = 540;
 const GROUND_Y = 360;
 const NET_X = GW / 2;
 const NET_TOP_Y = GROUND_Y - 75;
@@ -53,6 +53,8 @@ class TennisScene extends Phaser.Scene {
   private dashTimer = 0;
   private aiStyle = Phaser.Math.Between(0, 2);
   private trailTimer = 0;
+  private servePower = 0;
+  private chargingServe = false;
 
   // UI
   private scoreTxt!: Phaser.GameObjects.Text;
@@ -444,7 +446,7 @@ class TennisScene extends Phaser.Scene {
     scoreBg.strokeRoundedRect(NET_X - 62, 6, 124, 46, 10);
     scoreBg.setDepth(28);
 
-    this.scoreTxt = this.add.text(NET_X, 28, "0 • 0", {
+    this.scoreTxt = this.add.text(NET_X, 40, "0 • 0", {
       fontSize: "30px",
       fontFamily: "monospace",
       color: "#ffffff",
@@ -462,7 +464,7 @@ class TennisScene extends Phaser.Scene {
     }).setOrigin(0.5).setDepth(30);
 
     // Rally counter
-    this.rallyTxt = this.add.text(NET_X, 60, "", {
+    this.rallyTxt = this.add.text(NET_X, 80, "", {
       fontSize: "16px", fontFamily: "monospace", color: "#ffffff",
     }).setOrigin(0.5).setDepth(30).setAlpha(0.8);
 
@@ -477,14 +479,21 @@ class TennisScene extends Phaser.Scene {
     this.cursors = this.input.keyboard!.createCursorKeys();
 
     this.input.on("pointermove", (p: Phaser.Input.Pointer) => {
-      if (p.isDown && p.x < NET_X) {
-        this.touchTargetX = Phaser.Math.Clamp(p.x, 80, NET_X - 35);
+      if (!p.isDown) return;
+      if (p.x < GW / 2) {
+        this.playerX -= 6;
+      } else {
+        this.playerX += 6;
       }
+      this.touchTargetX = Phaser.Math.Clamp(this.playerX, 80, NET_X - 35);
     });
     this.input.on("pointerdown", (p: Phaser.Input.Pointer) => {
-      if (p.x < NET_X) {
-        this.touchTargetX = Phaser.Math.Clamp(p.x, 80, NET_X - 35);
+      if (p.x < GW / 2) {
+        this.playerX -= 6;
+      } else {
+        this.playerX += 6;
       }
+      this.touchTargetX = Phaser.Math.Clamp(this.playerX, 80, NET_X - 35);
     });
     this.input.on("pointerup", () => {
       this.touchTargetX = -1;
@@ -493,6 +502,21 @@ class TennisScene extends Phaser.Scene {
     // Dash (SPACE)
     this.input.keyboard!.on("keydown-SPACE", () => {
       this.dashTimer = 320;
+    });
+
+    // Serve power charge (UP hold)
+    this.input.keyboard!.on("keydown-UP", () => {
+      this.chargingServe = true;
+    });
+    this.input.keyboard!.on("keyup-UP", () => {
+      this.chargingServe = false;
+    });
+
+    // Fullscreen on first touch (app-like experience)
+    this.input.on("pointerdown", () => {
+      if (!this.scale.isFullscreen) {
+        this.scale.startFullscreen();
+      }
     });
   }
 
@@ -510,7 +534,8 @@ class TennisScene extends Phaser.Scene {
       this.ball.setPosition(this.playerX, GROUND_Y - 55);
       const aim = (this.playerX - (GW * 0.22)) / (NET_X - GW * 0.22);
       const angle = Phaser.Math.DegToRad(Phaser.Math.Linear(-30, 30, aim));
-      const speed = 380 + Math.random() * 60;
+      const speed = 300 + this.servePower * 3;
+      this.servePower = 0;
       this.ball.setVelocity(
         Math.sin(angle) * speed + 260,
         -380 - Math.random() * 70
@@ -672,6 +697,11 @@ class TennisScene extends Phaser.Scene {
     if (this.aiHitCooldown > 0) this.aiHitCooldown -= delta;
     if (this.dashTimer > 0) this.dashTimer -= delta;
 
+    // Serve power charging
+    if (this.chargingServe && !this.ballInPlay) {
+      this.servePower = Math.min(100, this.servePower + 2);
+    }
+
     const PLAYER_SPEED = this.dashTimer > 0 ? 520 : 295;
     const PLAYER_MIN_X = 82;
     const PLAYER_MAX_X = NET_X - 36;
@@ -823,6 +853,15 @@ class TennisScene extends Phaser.Scene {
       const rad = Phaser.Math.DegToRad(angleDeg);
       body.velocity.x = Math.sin(rad) * speed + speed * 0.65;
       body.velocity.y = -(420 + Math.random() * 80);
+      // Topspin: UP key → aggressive upward arc
+      if (this.cursors.up!.isDown) {
+        body.velocity.y -= 120;
+      }
+      // Slice: DOWN key → slow tricky ball
+      if (this.cursors.down!.isDown) {
+        body.velocity.x *= 0.8;
+        body.velocity.y += 120;
+      }
       // Push out of hitbox
       this.ball.x = Math.max(this.playerX + 22, this.ball.x);
     } else {
@@ -831,6 +870,10 @@ class TennisScene extends Phaser.Scene {
       const rad = Phaser.Math.DegToRad(angleDeg);
       body.velocity.x = Math.sin(rad) * speed - speed * 0.65;
       body.velocity.y = -(420 + Math.random() * 80);
+      // AI mistake: 5% chance of a weak hit
+      if (Math.random() < 0.05) {
+        body.velocity.x *= 0.4;
+      }
       this.ball.x = Math.min(this.aiX - 22, this.ball.x);
     }
 
@@ -895,6 +938,18 @@ class TennisScene extends Phaser.Scene {
       body.velocity.y -= 120;
     }
 
+    // Crowd cheer on long rallies
+    if (this.rally > 8) {
+      const cheer = this.add.text(GW / 2, 120, "WOW!", {
+        fontSize: "22px", fontFamily: "monospace",
+        color: "#ffff66", stroke: "#000", strokeThickness: 4,
+      }).setOrigin(0.5).setDepth(40);
+      this.tweens.add({
+        targets: cheer, alpha: 0, duration: 800,
+        onComplete: () => cheer.destroy(),
+      });
+    }
+
     // Speed cap
     const maxSpeed = 700;
     body.velocity.x = Phaser.Math.Clamp(body.velocity.x, -maxSpeed, maxSpeed);
@@ -926,7 +981,7 @@ export default function TennisPhaserGame({ difficulty, onGameEnd }: Props) {
       },
       scene,
       scale: {
-        mode: Phaser.Scale.FIT,
+        mode: Phaser.Scale.RESIZE,
         autoCenter: Phaser.Scale.CENTER_BOTH,
       },
     };
@@ -939,5 +994,5 @@ export default function TennisPhaserGame({ difficulty, onGameEnd }: Props) {
     };
   }, [difficulty, onGameEnd]);
 
-  return <div ref={ref} style={{ width: "100%", height: "100%" }} />;
+  return <div ref={ref} style={{ width: "100vw", height: "100vh" }} />;
 }
