@@ -47,6 +47,8 @@ class TennisScene extends Phaser.Scene {
   private lastBounceSide: "left" | "right" = "left";
   private touchTargetX = -1;
   private serveRight = false; // who served last (true = player, false = ai)
+  private aiTargetX = GW * 0.78;
+  private aiTargetTimer = 0;
 
   // UI
   private scoreTxt!: Phaser.GameObjects.Text;
@@ -355,7 +357,11 @@ class TennisScene extends Phaser.Scene {
 
     // Colliders
     this.physics.add.collider(this.ball, this.groundBody, () => this.onGroundBounce());
-    this.physics.add.collider(this.ball, this.netBody);
+    this.physics.add.collider(this.ball, this.netBody, () => {
+      if (this.ballInPlay && !this.gameOver) {
+        this.scorePoint(this.ball.x < NET_X ? "ai" : "player");
+      }
+    });
 
     // Ball shadow
     this.ballShadow = this.add.graphics();
@@ -609,14 +615,18 @@ class TennisScene extends Phaser.Scene {
       }[this.difficulty];
 
       const bvx = (this.ball.body as Phaser.Physics.Arcade.Body).velocity.x;
-      // Move toward ball when it's on AI side or coming toward AI
-      if (this.ball.x > NET_X || bvx > 0) {
-        const errorOffset = (Math.random() - 0.5) * aiCfg.error;
-        const target = Phaser.Math.Clamp(this.ball.x + errorOffset, AI_MIN_X, AI_MAX_X);
-        const dx = target - this.aiX;
-        const move = aiCfg.speed * dt;
-        this.aiX += Math.sign(dx) * Math.min(Math.abs(dx), move);
+      // Update target every 300ms to avoid per-frame jitter
+      this.aiTargetTimer -= delta;
+      if (this.aiTargetTimer <= 0) {
+        if (this.ball.x > NET_X || bvx > 0) {
+          const errorOffset = (Math.random() - 0.5) * aiCfg.error;
+          this.aiTargetX = Phaser.Math.Clamp(this.ball.x + errorOffset, AI_MIN_X, AI_MAX_X);
+        }
+        this.aiTargetTimer = 300;
       }
+      const dx = this.aiTargetX - this.aiX;
+      const move = aiCfg.speed * dt;
+      this.aiX += Math.sign(dx) * Math.min(Math.abs(dx), move);
     }
 
     this.aiCont.x = this.aiX;
@@ -631,7 +641,7 @@ class TennisScene extends Phaser.Scene {
       const dist = Math.sqrt(dx * dx + dy * dy);
 
       // Hit: ball on player's side, near player
-      if (dist < 52 && bx < NET_X - 18 && (bvx <= 30 || dist < 32)) {
+      if (dist < 56 && bx < NET_X - 10) {
         this.hitBall("player");
       }
     }
@@ -645,7 +655,7 @@ class TennisScene extends Phaser.Scene {
       const dy = by - (GROUND_Y - 28);
       const dist = Math.sqrt(dx * dx + dy * dy);
 
-      if (dist < 56 && bx > NET_X + 18 && (bvx >= -30 || dist < 34)) {
+      if (dist < 60 && bx > NET_X + 10) {
         this.hitBall("ai");
       }
     }
@@ -689,7 +699,7 @@ class TennisScene extends Phaser.Scene {
       const angleDeg = Phaser.Math.Linear(-32, 32, posRatio) + Phaser.Math.FloatBetween(-6, 6);
       const rad = Phaser.Math.DegToRad(angleDeg);
       body.velocity.x = Math.sin(rad) * speed + speed * 0.45;
-      body.velocity.y = -(speed * 0.88 + Math.random() * 55);
+      body.velocity.y = Phaser.Math.Clamp(-(speed * 0.75 + Math.random() * 40), -550, -280);
       // Push out of hitbox
       this.ball.x = Math.max(this.playerX + 22, this.ball.x);
     } else {
@@ -697,7 +707,7 @@ class TennisScene extends Phaser.Scene {
       const angleDeg = Phaser.Math.Linear(32, -32, posRatio) + Phaser.Math.FloatBetween(-6, 6);
       const rad = Phaser.Math.DegToRad(angleDeg);
       body.velocity.x = Math.sin(rad) * speed - speed * 0.45;
-      body.velocity.y = -(speed * 0.88 + Math.random() * 55);
+      body.velocity.y = Phaser.Math.Clamp(-(speed * 0.75 + Math.random() * 40), -550, -280);
       this.ball.x = Math.min(this.aiX - 22, this.ball.x);
     }
 
