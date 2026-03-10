@@ -77,8 +77,8 @@ export default function SquashPage() {
     setFinalScore(score);
     incrementTotalGames();
 
-    // score / 30 reference — never gold (false)
-    const rarity = calculateRarity(Math.min(score, 30), 30, 0, false);
+    // score reference: wall hits + paddle hits → max ~80 for rarity cap
+    const rarity = calculateRarity(Math.min(score, 80), 80, 0, false);
     saveCard({
       id: generateCardId(),
       game: "squash",
@@ -177,7 +177,7 @@ export default function SquashPage() {
               <h2 className="text-3xl font-black text-white">{t.missed}</h2>
               <p className="text-[#00ff88] text-2xl font-black mt-3">
                 {finalScore}{" "}
-                <span className="text-white/50 text-base font-normal">{t.rally}</span>
+                <span className="text-white/50 text-base font-normal">pts</span>
               </p>
             </div>
 
