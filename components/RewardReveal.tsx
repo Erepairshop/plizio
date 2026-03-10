@@ -136,7 +136,7 @@ export default function RewardReveal({ rarity, game, score, total, onDone }: Rew
               animate={revealed ? { opacity: 1, y: 0 } : {}}
               transition={{ delay: 1 }}
             >
-              {score}/{total}
+              {total > 0 ? `${score}/${total}` : score}
             </motion.div>
 
             {/* Date */}
