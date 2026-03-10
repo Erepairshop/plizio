@@ -570,27 +570,20 @@ class PingPongScene extends Phaser.Scene {
       this.ai.y = Phaser.Math.Clamp(this.ai.y + (aiDY / aiDist) * aiMove, tT + R, tT + tH * 0.48 - R);
     }
 
-    // ─── Ball boundaries with side bounce zone (Feature 1) ──────────────
+    // ─── Ball boundaries ──────────────────────────────────────────────
     const bx = this.ball.x;
     const by = this.ball.y;
     const br = 18; // increased from 12 (modernized)
-    const SIDE_BOUNCE_ZONE = 24; // adjusted for larger ball
 
-    // Feature 1: Side bounce zone (soft wall)
-    if (bx - br < tL + SIDE_BOUNCE_ZONE && this.ball.body!.velocity.x < 0) {
-      this.ball.body!.velocity.x = Math.abs(this.ball.body!.velocity.x) * 0.8;
-    }
-    if (bx + br > tL + tW - SIDE_BOUNCE_ZONE && this.ball.body!.velocity.x > 0) {
-      this.ball.body!.velocity.x = -Math.abs(this.ball.body!.velocity.x) * 0.8;
-    }
+    // Ball must visibly exit the table before scoring (40px past the edge)
+    const OUT_MARGIN = 40;
 
-    // Hard boundaries (score point)
-    if (bx - br < tL || bx + br > tL + tW) {
+    if (bx < tL - OUT_MARGIN || bx > tL + tW + OUT_MARGIN) {
       this.scorePoint(by < tT + tH * 0.5);
       return;
     }
-    if (by - br < tT) { this.scorePoint(true); return; }
-    if (by + br > tT + tH) { this.scorePoint(false); return; }
+    if (by < tT - OUT_MARGIN) { this.scorePoint(true); return; }
+    if (by > tT + tH + OUT_MARGIN) { this.scorePoint(false); return; }
 
     // Skip collision checks during cooldown (flickering fix)
     if (this.hitCooldown > 0) return;
@@ -801,17 +794,7 @@ class PingPongScene extends Phaser.Scene {
       }
     }
 
-    // Feature 9: Field edge "magnet" – subtle pull back toward center if too close to sides
-    const fieldEdgeThreshold = 40;
-    const magnetStrength = 50;
-    if (bx < tL + fieldEdgeThreshold && curVx < 0) {
-      this.ball.body!.velocity.x += magnetStrength * dt;
-    }
-    if (bx > tL + tW - fieldEdgeThreshold && curVx > 0) {
-      this.ball.body!.velocity.x -= magnetStrength * dt;
-    }
-
-    // Suppress unused variable warning (curVx used for momentum via playerVelX)
+    // Suppress unused variable warning
     void curVx;
   }
 }
