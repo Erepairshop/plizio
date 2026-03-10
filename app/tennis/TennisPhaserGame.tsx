@@ -47,12 +47,13 @@ class TennisScene extends Phaser.Scene {
   private lastBounceSide: "left" | "right" = "left";
   private touchDir: -1 | 0 | 1 = 0;
   private lastShakeTime = 0;
-  private serveRight = false; // who served last (true = player, false = ai)
   private aiTargetX = GW * 0.78;
   private aiTargetTimer = 0;
   private rally = 0;
   private dashTimer = 0;
   private aiStyle = Phaser.Math.Between(0, 2);
+  private aiCfg!: { speed: number; error: number };
+  private lastCheerRally = -999;
   private trailTimer = 0;
   private servePower = 0;
   private chargingServe = false;
@@ -194,6 +195,15 @@ class TennisScene extends Phaser.Scene {
         });
       },
     });
+
+    // Pre-compute AI config (difficulty + style) once per match
+    const diffMul = { easy: 0.72, medium: 1.0, hard: 1.32 }[this.difficulty];
+    const aiStyles = [
+      { speed: 240 * diffMul, error: 62 },
+      { speed: 300 * diffMul, error: 32 },
+      { speed: 260 * diffMul, error: 14 },
+    ];
+    this.aiCfg = aiStyles[this.aiStyle];
 
     this.time.delayedCall(800, () => this.serve(true));
   }
@@ -392,8 +402,8 @@ class TennisScene extends Phaser.Scene {
     this.physics.add.collider(this.ball, this.netBody, () => {
       if (!this.ballInPlay || this.gameOver) return;
       const body = this.ball.body as Phaser.Physics.Arcade.Body;
-      // Graze: nearly horizontal → slow down but stay in play
-      if (Math.abs(body.velocity.y) < 200) {
+      // Graze: nearly horizontal AND moving downward → slow down but stay in play
+      if (Math.abs(body.velocity.y) < 200 && body.velocity.y > 0) {
         body.velocity.x *= 0.6;
         body.velocity.y *= -0.4;
         // Visual: net shake effect
@@ -546,7 +556,7 @@ class TennisScene extends Phaser.Scene {
   // ─── Serve ──────────────────────────────────────────────────────────────────
   private serve(playerServes: boolean) {
     if (this.gameOver) return;
-    this.serveRight = playerServes;
+    this.swipeSmashReady = false;
     this.bounceCount = 0;
     this.hitCooldown = 0;
     this.aiHitCooldown = 0;
@@ -643,6 +653,7 @@ class TennisScene extends Phaser.Scene {
     // Reset rally + combo
     this.rally = 0;
     this.combo = 0;
+    this.lastCheerRally = -999;
     this.rallyTxt.setText("");
     this.comboTxt.setAlpha(0).setText("");
     // Haptic on point
@@ -752,15 +763,7 @@ class TennisScene extends Phaser.Scene {
 
     // ─── AI movement ──────────────────────────────────────────────────────────
     if (this.ballInPlay) {
-      // AI personality (randomized per match) × difficulty multiplier
-      const diffMul = { easy: 0.72, medium: 1.0, hard: 1.32 }[this.difficulty];
-      const aiStyles = [
-        { speed: 240 * diffMul, error: 62 },  // aggressive rusher
-        { speed: 300 * diffMul, error: 32 },  // balanced
-        { speed: 260 * diffMul, error: 14 },  // precise but slower
-      ];
-      const aiCfg = aiStyles[this.aiStyle];
-
+      const aiCfg = this.aiCfg;
       const bvx = (this.ball.body as Phaser.Physics.Arcade.Body).velocity.x;
       // Update target every 300ms to avoid per-frame jitter
       this.aiTargetTimer -= delta;
@@ -790,7 +793,6 @@ class TennisScene extends Phaser.Scene {
     if (this.ballInPlay && this.hitCooldown <= 0) {
       const bx = this.ball.x;
       const by = this.ball.y;
-      const bvx = (this.ball.body as Phaser.Physics.Arcade.Body).velocity.x;
       const dx = bx - this.playerX;
       const dy = by - (GROUND_Y - 45);
       const dist = Math.sqrt(dx * dx + dy * dy);
@@ -806,7 +808,6 @@ class TennisScene extends Phaser.Scene {
     if (this.ballInPlay && this.aiHitCooldown <= 0) {
       const bx = this.ball.x;
       const by = this.ball.y;
-      const bvx = (this.ball.body as Phaser.Physics.Arcade.Body).velocity.x;
       const dx = bx - this.aiX;
       const dy = by - (GROUND_Y - 45);
       const dist = Math.sqrt(dx * dx + dy * dy);
@@ -970,7 +971,7 @@ class TennisScene extends Phaser.Scene {
     const hitX = isPlayer ? this.playerX + 26 : this.aiX - 26;
     const hitRing = this.add.graphics();
     hitRing.lineStyle(2.5, isPlayer ? 0x00d4ff : 0xff4455, 0.85);
-    hitRing.strokeCircle(hitX, GROUND_Y - 28, 16);
+    hitRing.strokeCircle(hitX, GROUND_Y - 45, 16);
     hitRing.setDepth(25);
     this.tweens.add({
       targets: hitRing, alpha: 0, scaleX: 2.4, scaleY: 2.4,
@@ -1019,8 +1020,9 @@ class TennisScene extends Phaser.Scene {
       body.velocity.y -= 120;
     }
 
-    // Crowd cheer on long rallies
-    if (this.rally > 8) {
+    // Crowd cheer on long rallies (once every 6 hits after rally > 8)
+    if (this.rally > 8 && this.rally - this.lastCheerRally >= 6) {
+      this.lastCheerRally = this.rally;
       const cheer = this.add.text(GW / 2, 120, "WOW!", {
         fontSize: "22px", fontFamily: "monospace",
         color: "#ffff66", stroke: "#000", strokeThickness: 4,
@@ -1075,5 +1077,5 @@ export default function TennisPhaserGame({ difficulty, onGameEnd }: Props) {
     };
   }, [difficulty, onGameEnd]);
 
-  return <div ref={ref} style={{ width: "100%", height: "100%", position: "absolute", inset: 0 }} />;
+  return <div ref={ref} style={{ width: "100%", height: "100%", position: "absolute", inset: 0, overflow: "hidden" }} />;
 }
