@@ -141,14 +141,16 @@ export default function SquashPage() {
 
       {/* ─── GAME ─────────────────────────────────────────────── */}
       {screen === "playing" && (
-        <div className="fixed inset-0 flex flex-col">
-          <div className="absolute top-3 left-3 z-10">
-            <button
-              onClick={() => setScreen("menu")}
-              className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 transition-colors text-sm font-bold"
-            >✕</button>
+        <div className="fixed inset-0 flex items-center justify-center bg-[#050f05]">
+          <div className="relative w-full max-w-[420px] h-full max-h-screen">
+            <div className="absolute top-3 left-3 z-10">
+              <button
+                onClick={() => setScreen("menu")}
+                className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 transition-colors text-sm font-bold"
+              >✕</button>
+            </div>
+            <SquashGame key={gameKey} onGameEnd={handleGameEnd} />
           </div>
-          <SquashGame key={gameKey} onGameEnd={handleGameEnd} />
         </div>
       )}
 

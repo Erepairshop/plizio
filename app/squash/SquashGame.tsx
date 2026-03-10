@@ -34,10 +34,10 @@ class SquashScene extends Phaser.Scene {
   private readonly SPEED_PER_5 = 0.05;  // +5% speed every 5 paddle hits
 
   // ── Paddle constants ──────────────────────────────────────────────────────
-  private PAD_W                  = 92;   // visual half-width — shrinks with rally
-  private readonly BASE_PAD_W   = 92;   // reset value
+  private PAD_W                  = 68;   // visual half-width — shrinks with rally
+  private readonly BASE_PAD_W   = 68;   // reset value
   private readonly PAD_H         = 12;   // visual height  (was 14, slightly slimmer)
-  private readonly PAD_HIT_W     = 115;  // hitbox half-width — larger than sprite
+  private readonly PAD_HIT_W     = 88;   // hitbox half-width — larger than sprite
   private readonly PAD_LERP      = 0.25;  // lerp factor: paddle.x → target (smooth following)
   private readonly PAD_MAX_SPEED = 800;   // px/s hard speed cap (realistic + fair)
 
@@ -346,6 +346,8 @@ class SquashScene extends Phaser.Scene {
     this.rally        = 0;
     this.rallyTxt.setText("0");
     this.PAD_W        = this.BASE_PAD_W;  // restore paddle size each round
+    this.padSquish    = 1.0;              // reset squish animation
+    this.squishElapsed = 0;
     this.ballZ        = 0;
     this.ballVZ       = 0;
     this.vx = 0;
@@ -644,7 +646,6 @@ class SquashScene extends Phaser.Scene {
       } else {
         this.spawnRipple(this.bx, FWY, 0x00ff88);
         this.addScoreSilent(1);  // wall = +1, no popup
-        this.cameras.main.flash(18, 0, 80, 55, false);
       }
     }
 
@@ -748,8 +749,6 @@ class SquashScene extends Phaser.Scene {
     this.squishElapsed  = this.SQUISH_DUR;
     this.triggerHitFlash(this.bx, padTop);
     this.cameras.main.shake(16, 0.003);
-    // Screen flash on paddle hit — subtle cyan energy burst
-    this.cameras.main.flash(28, 0, 100, 80, false);
 
     if (perfect) {
       // Perfect hit: extra speed boost, gold ripples, bigger score
@@ -768,10 +767,10 @@ class SquashScene extends Phaser.Scene {
     }
     this.inDangerZone = false;
 
-    // ── Paddle shrink with rally — gradual: rally 0→50 = 100%→50% size ──
+    // ── Paddle shrink with rally — gradual: rally 0→50 = 100%→37% size ──
     const prevPadW = this.PAD_W;
-    const halfBase  = Math.round(this.BASE_PAD_W * 0.5);  // 46px minimum
-    this.PAD_W = Math.max(halfBase, Math.round(this.BASE_PAD_W * (1 - Math.min(this.rally, 50) / 50 * 0.5)));
+    const MIN_PAD_W = 25;  // absolute minimum half-width (50px total)
+    this.PAD_W = Math.max(MIN_PAD_W, Math.round(this.BASE_PAD_W * (1 - Math.min(this.rally, 50) / 50 * 0.63)));
     if (this.PAD_W < prevPadW && this.rally === 50) {
       this.showMilestoneBanner("😈 MINIMUM PADDLE!", "#ff6600");
     }
@@ -864,7 +863,6 @@ class SquashScene extends Phaser.Scene {
     this.speedTxt.setText(`SPEED +${pct}%`);
 
     this.showMilestoneBanner(`SPEED +${pct}%`, "#ffaa00");
-    this.cameras.main.flash(50, 120, 80, 0, false);
   }
 
   // ── showMilestoneBanner ───────────────────────────────────────────────────
