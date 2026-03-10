@@ -1076,9 +1076,14 @@ Minden feladat végén:
 Szabályok:
 - Minden kód módosítás után MINDIG buildelj (`npm run build`)
 - Az `out/` mappát MINDIG commitold és pushold
+- **NE használj `git add -f out/`** — az `out/` mappa NEM szerepel a `.gitignore`-ban, tehát simán `git add out/` elegendő
 - A deploy parancsban MINDIG töröld a régi `_next/` és `next_static/` mappát először, majd nevezd át: `rm -rf _next next_static && cp -r out/* . && mv _next next_static && rm -rf out`
   - Ez azért fontos, mert a JS chunk fájlnevek minden buildnél változnak
   - Ha nem törlöd, régi és új chunk fájlok keverednek, és elromlik az oldal
+
+**⚠️ KRITIKUS — chunk fájlok 404 hibája:**
+- Az `/out/` NEM lehet a `.gitignore`-ban! Ha benne van, a `git checkout -- out/` a szerveren nem húzza le megbízhatóan az `out/_next/` alkönyvtárat, és a chunk JS fájlok 404-et adnak.
+- Ha valaki visszarakja az `/out/`-ot a `.gitignore`-ba → azonnal vedd ki!
 
 ---
 
