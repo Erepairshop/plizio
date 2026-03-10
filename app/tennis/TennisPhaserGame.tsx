@@ -55,10 +55,17 @@ class TennisScene extends Phaser.Scene {
   private trailTimer = 0;
   private servePower = 0;
   private chargingServe = false;
+  // Swipe smash
+  private swipeStartY = 0;
+  private swipeStartTime = 0;
+  private swipeSmashReady = false;
+  // Rally combo
+  private combo = 0;
 
   // UI
   private scoreTxt!: Phaser.GameObjects.Text;
   private rallyTxt!: Phaser.GameObjects.Text;
+  private comboTxt!: Phaser.GameObjects.Text;
   private ballShadow!: Phaser.GameObjects.Graphics;
 
   // Input
@@ -468,8 +475,14 @@ class TennisScene extends Phaser.Scene {
       fontSize: "16px", fontFamily: "monospace", color: "#ffffff",
     }).setOrigin(0.5).setDepth(30).setAlpha(0.8);
 
+    // Combo display (left side, player area)
+    this.comboTxt = this.add.text(GW * 0.22, GH * 0.18, "", {
+      fontSize: "20px", fontFamily: "monospace", color: "#00ff88",
+      fontStyle: "bold", stroke: "#000", strokeThickness: 3,
+    }).setOrigin(0.5).setDepth(30).setAlpha(0);
+
     // Controls hint
-    this.add.text(NET_X, GH - 12, "← → arrow keys  /  tap left side", {
+    this.add.text(NET_X, GH - 12, "← → arrow keys  /  tap left/right to move", {
       fontSize: "11px", fontFamily: "monospace", color: "#ffffff",
     }).setOrigin(0.5).setAlpha(0.45).setDepth(30);
   }
@@ -480,23 +493,35 @@ class TennisScene extends Phaser.Scene {
 
     this.input.on("pointermove", (p: Phaser.Input.Pointer) => {
       if (!p.isDown) return;
-      if (p.x < GW / 2) {
-        this.playerX -= 6;
-      } else {
-        this.playerX += 6;
+      // Big touch zones: left 40% = move left, right 40% = move right (middle 20% = neutral)
+      const zone = p.x / GW;
+      if (zone < 0.4) {
+        this.playerX -= 8;
+      } else if (zone > 0.6) {
+        this.playerX += 8;
       }
       this.touchTargetX = Phaser.Math.Clamp(this.playerX, 80, NET_X - 35);
     });
     this.input.on("pointerdown", (p: Phaser.Input.Pointer) => {
-      if (p.x < GW / 2) {
-        this.playerX -= 6;
-      } else {
-        this.playerX += 6;
+      // Track swipe start for swipe smash detection
+      this.swipeStartY = p.y;
+      this.swipeStartTime = this.time.now;
+      const zone = p.x / GW;
+      if (zone < 0.4) {
+        this.playerX -= 8;
+      } else if (zone > 0.6) {
+        this.playerX += 8;
       }
       this.touchTargetX = Phaser.Math.Clamp(this.playerX, 80, NET_X - 35);
     });
-    this.input.on("pointerup", () => {
+    this.input.on("pointerup", (p: Phaser.Input.Pointer) => {
       this.touchTargetX = -1;
+      // Swipe smash: fast downward swipe within 300ms
+      const swipeDy = p.y - this.swipeStartY;
+      const swipeDt = this.time.now - this.swipeStartTime;
+      if (swipeDy > 70 && swipeDt < 300) {
+        this.swipeSmashReady = true;
+      }
     });
 
     // Dash (SPACE)
@@ -617,9 +642,13 @@ class TennisScene extends Phaser.Scene {
     this.ball.setVelocity(0, 0);
     this.ball.setVisible(false);
 
-    // Reset rally
+    // Reset rally + combo
     this.rally = 0;
+    this.combo = 0;
     this.rallyTxt.setText("");
+    this.comboTxt.setAlpha(0).setText("");
+    // Haptic on point
+    navigator.vibrate?.(scorer === "player" ? [60, 40, 120] : 80);
 
     if (scorer === "player") this.playerScore++;
     else this.aiScore++;
@@ -762,8 +791,9 @@ class TennisScene extends Phaser.Scene {
       const dy = by - (GROUND_Y - 28);
       const dist = Math.sqrt(dx * dx + dy * dy);
 
-      // Hit: ball on player's side, near player
-      if (dist < 56 && bx < NET_X - 10) {
+      // Hit: ball on player's side — bigger radius on touch devices
+      const hitRadius = this.input.activePointer.wasTouch ? 80 : 56;
+      if (dist < hitRadius && bx < NET_X - 10) {
         this.hitBall("player", dist);
       }
     }
@@ -818,15 +848,36 @@ class TennisScene extends Phaser.Scene {
     }
   }
 
+  // ─── Combo Display ──────────────────────────────────────────────────────────
+  private updateComboDisplay() {
+    if (this.combo < 2) { this.comboTxt.setAlpha(0); return; }
+    const colors = ["#00ff88", "#ffd700", "#ff8800", "#ff2d78", "#b44dff"];
+    const colorIdx = Math.min(Math.floor((this.combo - 2) / 2), colors.length - 1);
+    this.comboTxt
+      .setText(`x${this.combo} COMBO!`)
+      .setColor(colors[colorIdx])
+      .setAlpha(1);
+    this.tweens.killTweensOf(this.comboTxt);
+    this.comboTxt.setScale(1.3);
+    this.tweens.add({
+      targets: this.comboTxt, scaleX: 1, scaleY: 1,
+      duration: 200, ease: "Back.Out",
+    });
+  }
+
   // ─── Hit Ball ───────────────────────────────────────────────────────────────
   private hitBall(hitter: "player" | "ai", dist: number) {
     const isPlayer = hitter === "player";
     if (isPlayer) this.hitCooldown = 550;
     else this.aiHitCooldown = 550;
 
-    // Rally counter
+    // Rally counter + combo
     this.rally++;
     this.rallyTxt.setText("RALLY: " + this.rally);
+    if (isPlayer) {
+      this.combo++;
+      this.updateComboDisplay();
+    }
 
     const body = this.ball.body as Phaser.Physics.Arcade.Body;
     const isSmash = this.ball.y < GROUND_Y - 120;
@@ -861,6 +912,21 @@ class TennisScene extends Phaser.Scene {
       if (this.cursors.down!.isDown) {
         body.velocity.x *= 0.8;
         body.velocity.y += 120;
+      }
+      // Swipe smash: fast touch downward swipe → power smash
+      if (this.swipeSmashReady) {
+        body.velocity.x *= 1.4;
+        body.velocity.y -= 200;
+        this.swipeSmashReady = false;
+        navigator.vibrate?.([80, 30, 80]);
+        const st = this.add.text(this.playerX, GROUND_Y - 100, "SWIPE SMASH!", {
+          fontSize: "18px", fontFamily: "monospace",
+          color: "#ff2d78", fontStyle: "bold", stroke: "#000", strokeThickness: 3,
+        }).setOrigin(0.5).setDepth(45);
+        this.tweens.add({ targets: st, y: st.y - 50, alpha: 0, duration: 700, onComplete: () => st.destroy() });
+      } else {
+        // Normal hit haptic
+        navigator.vibrate?.(40);
       }
       // Push out of hitbox
       this.ball.x = Math.max(this.playerX + 22, this.ball.x);
