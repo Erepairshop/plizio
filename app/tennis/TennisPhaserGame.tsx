@@ -474,7 +474,8 @@ class TennisScene extends Phaser.Scene {
     // Rally counter
     this.rallyTxt = this.add.text(NET_X, 80, "", {
       fontSize: "16px", fontFamily: "monospace", color: "#ffffff",
-    }).setOrigin(0.5).setDepth(30).setAlpha(1.0);
+      stroke: "#000000", strokeThickness: 3,
+    }).setOrigin(0.5).setDepth(30);
 
     // Combo display (left side, player area)
     this.comboTxt = this.add.text(GW * 0.30, GH * 0.18, "", {
@@ -805,10 +806,10 @@ class TennisScene extends Phaser.Scene {
       const by = this.ball.y;
       const bvx = (this.ball.body as Phaser.Physics.Arcade.Body).velocity.x;
       const dx = bx - this.aiX;
-      const dy = by - (GROUND_Y - 28);
+      const dy = by - (GROUND_Y - 45);
       const dist = Math.sqrt(dx * dx + dy * dy);
 
-      if (dist < 70 && bx > NET_X + 20) {
+      if (dist < 80 && bx > NET_X + 20) {
         this.hitBall("ai", dist);
       }
     }
@@ -878,10 +879,14 @@ class TennisScene extends Phaser.Scene {
     if (isPlayer) {
       this.combo++;
       this.updateComboDisplay();
+    } else {
+      // AI hit resets player combo streak
+      this.combo = 0;
+      this.comboTxt.setAlpha(0).setText("");
     }
 
     const body = this.ball.body as Phaser.Physics.Arcade.Body;
-    const isSmash = this.ball.y < GROUND_Y - 120;
+    const isSmash = this.ball.y < GROUND_Y - 160;
     const perfectHit = isPlayer && dist < 28;
     const speed = perfectHit ? 580 : isSmash ? 540 : Phaser.Math.Between(430, 520);
 
@@ -929,8 +934,10 @@ class TennisScene extends Phaser.Scene {
         // Normal hit haptic
         navigator.vibrate?.(40);
       }
-      // Push out of hitbox
-      this.ball.x = Math.max(this.playerX + 22, this.ball.x);
+      // Push out of hitbox (only if ball hasn't already passed the player)
+      if (this.ball.x < this.playerX + 22) {
+        this.ball.x = this.playerX + 22;
+      }
     } else {
       const posRatio = (this.aiX - (NET_X + 36)) / (GW - 82 - (NET_X + 36));
       const angleDeg = Phaser.Math.Linear(32, -32, posRatio) + Phaser.Math.FloatBetween(-6, 6);
