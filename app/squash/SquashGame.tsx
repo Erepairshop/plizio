@@ -34,7 +34,8 @@ class SquashScene extends Phaser.Scene {
   private readonly SPEED_PER_5 = 0.05;  // +5% speed every 5 paddle hits
 
   // ── Paddle constants ──────────────────────────────────────────────────────
-  private readonly PAD_W         = 92;   // visual half-width (was 110, ~17% smaller)
+  private PAD_W                  = 92;   // visual half-width — shrinks with rally
+  private readonly BASE_PAD_W   = 92;   // reset value
   private readonly PAD_H         = 12;   // visual height  (was 14, slightly slimmer)
   private readonly PAD_HIT_W     = 115;  // hitbox half-width — larger than sprite
   private readonly PAD_LERP      = 0.25;  // lerp factor: paddle.x → target (smooth following)
@@ -337,6 +338,7 @@ class SquashScene extends Phaser.Scene {
     this.inDangerZone = false;
     this.rally        = 0;
     this.rallyTxt.setText("0");
+    this.PAD_W        = this.BASE_PAD_W;  // restore paddle size each round
     this.vx = 0;
     this.vy = 0;
     this.trail = [];
@@ -547,8 +549,18 @@ class SquashScene extends Phaser.Scene {
       this.vy = Math.abs(Math.cos(ang1) * spd0); // must be positive (return)
       this.ballState = "return";
       this.clampBallAngle();
-      this.spawnRipple(this.bx, FWY, 0x00ff88);
-      this.addScoreSilent(1);  // wall = +1, no popup
+      // ── Skill shot: corner zones (within 60px of side wall, top of front wall)
+      const isCorner = (this.bx < this.WL + 60 || this.bx > this.WR - 60);
+      if (isCorner) {
+        this.spawnRipple(this.bx, FWY, 0xffaa00);   // gold ripple
+        this.spawnRipple(this.bx, FWY, 0xff6600);
+        this.addScorePopup(5, this.bx, FWY - 20, false);
+        this.showMilestoneBanner("🎯 CORNER SHOT! +5", "#ffaa00");
+        this.cameras.main.shake(20, 0.005);
+      } else {
+        this.spawnRipple(this.bx, FWY, 0x00ff88);
+        this.addScoreSilent(1);  // wall = +1, no popup
+      }
     }
 
     // ── Left wall ─────────────────────────────────────────────────────────
@@ -575,6 +587,18 @@ class SquashScene extends Phaser.Scene {
       this.clampBallAngle();
       this.spawnRipple(this.WR, this.by, 0x336633);
       this.addScoreSilent(1);
+    }
+
+    // ── Near-miss detection ───────────────────────────────────────────────
+    const nearMiss = (
+      this.by + BALL_R >= padTop - HIT_ZONE_H &&
+      this.by - BALL_R <= padTop + PAD_H + 4 &&
+      Math.abs(this.bx - this.padX) > this.PAD_HIT_W &&
+      Math.abs(this.bx - this.padX) < this.PAD_HIT_W + 40
+    );
+    if (nearMiss && this.hitCooldown <= 0) {
+      this.cameras.main.zoomTo(1.05, 80);
+      this.time.delayedCall(120, () => this.cameras.main.zoomTo(1, 120));
     }
 
     // ── Paddle hit — ONLY when ballState === "hit_window" ────────────────
@@ -605,6 +629,9 @@ class SquashScene extends Phaser.Scene {
       if (this.rally % 5 === 0) this.flashSpeedUp();
     }
 
+    // ── Perfect hit detection (center 25% of paddle) ─────────────────────
+    const perfect = Math.abs(this.bx - this.padX) < this.PAD_W * 0.25;
+
     // ── Ball velocity after hit ───────────────────────────────────────────
     const spd      = Math.min(this.BASE_SPEED * this.speedMult, this.MAX_SPEED);
     const hitFrac  = Phaser.Math.Clamp((this.bx - this.padX) / this.PAD_W, -1, 1);
@@ -614,8 +641,8 @@ class SquashScene extends Phaser.Scene {
     this.vx = Math.sin(Phaser.Math.DegToRad(hitAngle)) * spd;
     this.vy = -Math.cos(Phaser.Math.DegToRad(hitAngle)) * spd; // upward
 
-    // Paddle momentum spin
-    const spin = Phaser.Math.Clamp(this.padVelX * 0.12, -65, 65);
+    // Paddle momentum spin — 0.18 for stronger swing feel
+    const spin = Phaser.Math.Clamp(this.padVelX * 0.18, -80, 80);
     this.vx += spin;
     this.vx += Phaser.Math.FloatBetween(-10, 10);
 
@@ -627,15 +654,38 @@ class SquashScene extends Phaser.Scene {
     // Squish: paddle instantly widens, then eases back to 1.0
     this.padSquish      = 1.0 + this.SQUISH_AMT;
     this.squishElapsed  = this.SQUISH_DUR;
-    this.spawnRipple(this.bx, this.by, 0x00d4ff);
     this.triggerHitFlash(this.bx, padTop);
     this.cameras.main.shake(16, 0.003);
 
-    // Scoring: +1 normal, +2 if ball was in danger zone
-    const bonus = this.inDangerZone;
-    const pts   = bonus ? 2 : 1;
-    this.addScorePopup(pts, this.bx, this.by - 22, bonus);
+    if (perfect) {
+      // Perfect hit: extra speed boost, gold ripples, bigger score
+      this.speedMult = Math.min(this.speedMult + 0.05, this.MAX_SPEED / this.BASE_SPEED);
+      this.spawnRipple(this.bx, this.by, 0xffdd00);
+      this.spawnRipple(this.bx, this.by + 6, 0xffaa00);
+      const bonus = this.inDangerZone;
+      const pts   = bonus ? 4 : 3;   // perfect: 3 or 4 pts
+      this.addScorePopup(pts, this.bx, this.by - 28, true);
+      this.cameras.main.shake(22, 0.005);
+    } else {
+      this.spawnRipple(this.bx, this.by, 0x00d4ff);
+      const bonus = this.inDangerZone;
+      const pts   = bonus ? 2 : 1;
+      this.addScorePopup(pts, this.bx, this.by - 22, bonus);
+    }
     this.inDangerZone = false;
+
+    // ── Paddle shrink with rally ──────────────────────────────────────────
+    const prevPadW = this.PAD_W;
+    if      (this.rally > 40) this.PAD_W = 70;
+    else if (this.rally > 20) this.PAD_W = 80;
+    else                      this.PAD_W = this.BASE_PAD_W;
+    if (this.PAD_W < prevPadW) {
+      // Visual feedback when paddle shrinks
+      this.showMilestoneBanner(
+        this.rally > 40 ? "😈 PADDLE SHRUNK TO 70!" : "😅 PADDLE SHRUNK TO 80!",
+        "#ff6600"
+      );
+    }
 
     // Rally pulse
     this.tweens.add({
