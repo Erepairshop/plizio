@@ -747,7 +747,7 @@ class TennisScene extends Phaser.Scene {
       const dy = by - (GROUND_Y - 28);
       const dist = Math.sqrt(dx * dx + dy * dy);
 
-      if (dist < 60 && bx > NET_X + 10) {
+      if (dist < 70 && bx > NET_X + 20) {
         this.hitBall("ai", dist);
       }
     }
@@ -801,7 +801,7 @@ class TennisScene extends Phaser.Scene {
     const body = this.ball.body as Phaser.Physics.Arcade.Body;
     const isSmash = this.ball.y < GROUND_Y - 120;
     const perfectHit = isPlayer && dist < 28;
-    const speed = perfectHit ? 560 : isSmash ? 520 : 390 + Math.random() * 80;
+    const speed = perfectHit ? 580 : isSmash ? 540 : Phaser.Math.Between(430, 520);
 
     // Perfect hit flash
     if (perfectHit) {
@@ -821,16 +821,16 @@ class TennisScene extends Phaser.Scene {
       const posRatio = (this.playerX - 82) / (NET_X - 36 - 82);
       const angleDeg = Phaser.Math.Linear(-32, 32, posRatio) + Phaser.Math.FloatBetween(-6, 6);
       const rad = Phaser.Math.DegToRad(angleDeg);
-      body.velocity.x = Math.sin(rad) * speed + speed * 0.45;
-      body.velocity.y = Phaser.Math.Clamp(-(speed * 0.75 + Math.random() * 40), -550, -280);
+      body.velocity.x = Math.sin(rad) * speed + speed * 0.65;
+      body.velocity.y = -(420 + Math.random() * 80);
       // Push out of hitbox
       this.ball.x = Math.max(this.playerX + 22, this.ball.x);
     } else {
       const posRatio = (this.aiX - (NET_X + 36)) / (GW - 82 - (NET_X + 36));
       const angleDeg = Phaser.Math.Linear(32, -32, posRatio) + Phaser.Math.FloatBetween(-6, 6);
       const rad = Phaser.Math.DegToRad(angleDeg);
-      body.velocity.x = Math.sin(rad) * speed - speed * 0.45;
-      body.velocity.y = Phaser.Math.Clamp(-(speed * 0.75 + Math.random() * 40), -550, -280);
+      body.velocity.x = Math.sin(rad) * speed - speed * 0.65;
+      body.velocity.y = -(420 + Math.random() * 80);
       this.ball.x = Math.min(this.aiX - 22, this.ball.x);
     }
 
@@ -890,10 +890,15 @@ class TennisScene extends Phaser.Scene {
     body.velocity.x *= 1.05;
     body.velocity.y *= 1.05;
 
+    // Net lift: ha közel a hálóhoz, extra emелés
+    if (Math.abs(this.ball.x - NET_X) < 120) {
+      body.velocity.y -= 120;
+    }
+
     // Speed cap
-    const maxSpeed = 650;
+    const maxSpeed = 700;
     body.velocity.x = Phaser.Math.Clamp(body.velocity.x, -maxSpeed, maxSpeed);
-    body.velocity.y = Phaser.Math.Clamp(body.velocity.y, -maxSpeed, maxSpeed);
+    body.velocity.y = Phaser.Math.Clamp(body.velocity.y, -maxSpeed, -280);
   }
 }
 
