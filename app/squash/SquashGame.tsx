@@ -34,7 +34,8 @@ class SquashScene extends Phaser.Scene {
   private readonly SPEED_PER_5 = 0.05;  // +5% speed every 5 paddle hits
 
   // ── Paddle constants ──────────────────────────────────────────────────────
-  private readonly PAD_W         = 92;   // visual half-width (was 110, ~17% smaller)
+  private PAD_W                  = 92;   // visual half-width — shrinks with rally
+  private readonly BASE_PAD_W   = 92;   // reset value
   private readonly PAD_H         = 12;   // visual height  (was 14, slightly slimmer)
   private readonly PAD_HIT_W     = 115;  // hitbox half-width — larger than sprite
   private readonly PAD_LERP      = 0.25;  // lerp factor: paddle.x → target (smooth following)
@@ -46,11 +47,16 @@ class SquashScene extends Phaser.Scene {
   private trailGfx!:     Phaser.GameObjects.Graphics;
   private courtGfx!:     Phaser.GameObjects.Graphics;
   private hitWindowGfx!: Phaser.GameObjects.Graphics;  // hit window indicator
+  private comboBarGfx!:  Phaser.GameObjects.Graphics;  // rally combo bar
+  private edgeGlowGfx!:  Phaser.GameObjects.Graphics;  // danger zone screen edge
 
   private bx = 0;  // ball position
   private by = 0;
   private vx = 0;  // ball velocity
   private vy = 0;
+  // Fake-Z depth: ballZ=0 = on court, ballZ>0 = in the air, shadow scales with it
+  private ballZ  = 0;   // current height above court (px)
+  private ballVZ = 0;   // vertical Z velocity (positive = rising)
 
   // ── Paddle state (smoothed) ───────────────────────────────────────────────
   private padX       = 0;    // actual rendered paddle center
@@ -186,12 +192,14 @@ class SquashScene extends Phaser.Scene {
       ease: "Sine.InOut",
     });
 
-    // Trail, ball, paddle, hit-window indicator
+    // Trail, ball, paddle, hit-window indicator, combo bar, edge glow
+    this.edgeGlowGfx  = this.add.graphics().setDepth(2);
     this.trailGfx     = this.add.graphics().setDepth(3);
     this.hitWindowGfx = this.add.graphics().setDepth(4);
     this.ball         = this.add.arc(0, 0, this.BALL_R, 0, 360, false, 0xffd700, 1);
     this.ball.setDepth(6);
     this.paddleGfx    = this.add.graphics().setDepth(7);
+    this.comboBarGfx  = this.add.graphics().setDepth(11);
 
     // Input
     this.leftKey  = this.input.keyboard!.addKey(Phaser.Input.Keyboard.KeyCodes.LEFT);
@@ -337,6 +345,9 @@ class SquashScene extends Phaser.Scene {
     this.inDangerZone = false;
     this.rally        = 0;
     this.rallyTxt.setText("0");
+    this.PAD_W        = this.BASE_PAD_W;  // restore paddle size each round
+    this.ballZ        = 0;
+    this.ballVZ       = 0;
     this.vx = 0;
     this.vy = 0;
     this.trail = [];
@@ -423,6 +434,12 @@ class SquashScene extends Phaser.Scene {
 
     // ── 5. Hard edge clamp on actual position ─────────────────────────────
     this.padX = Phaser.Math.Clamp(this.padX, padMin, padMax);
+
+    // ── 6. Pressure Zone: danger zone = wobbly paddle control ─────────────
+    if (this.inDangerZone && !this.serving) {
+      this.padTargetX += Phaser.Math.FloatBetween(-6, 6);
+      this.padVelX    *= 0.95;
+    }
   }
 
   // ── update ────────────────────────────────────────────────────────────────
@@ -451,12 +468,48 @@ class SquashScene extends Phaser.Scene {
     const isWindow = this.ballState === "hit_window";
     this.drawPaddle(padY, isWindow);
 
-    // Hit-window indicator: subtle vertical side guides
+    // ── Hit-window indicator: pulsing vertical guides ────────────────────
     this.hitWindowGfx.clear();
     if (isWindow) {
-      this.hitWindowGfx.lineStyle(1.5, 0x00ff88, 0.28);
-      this.hitWindowGfx.lineBetween(this.padX - this.PAD_HIT_W, padY - 52, this.padX - this.PAD_HIT_W, padY);
-      this.hitWindowGfx.lineBetween(this.padX + this.PAD_HIT_W, padY - 52, this.padX + this.PAD_HIT_W, padY);
+      const pulse = 0.18 + Math.sin(time * 0.012) * 0.12;   // 0.06 – 0.30
+      const scale = 1 + Math.sin(time * 0.012) * 0.04;       // 0.96 – 1.04
+      const guideH = 52 * scale;
+      this.hitWindowGfx.lineStyle(2, 0x00ff88, pulse);
+      this.hitWindowGfx.lineBetween(this.padX - this.PAD_HIT_W, padY - guideH, this.padX - this.PAD_HIT_W, padY);
+      this.hitWindowGfx.lineBetween(this.padX + this.PAD_HIT_W, padY - guideH, this.padX + this.PAD_HIT_W, padY);
+      // Soft horizontal arc at top of window
+      this.hitWindowGfx.lineStyle(1, 0x00ff88, pulse * 0.5);
+      this.hitWindowGfx.lineBetween(this.padX - this.PAD_HIT_W, padY - guideH, this.padX + this.PAD_HIT_W, padY - guideH);
+    }
+
+    // ── Danger zone pulsing glow — when ball is inside ───────────────────
+    if (this.inDangerZone && !this.serving) {
+      const dPulse = 0.06 + Math.sin(time * 0.018) * 0.05;
+      this.hitWindowGfx.fillStyle(0xff2d78, dPulse);
+      this.hitWindowGfx.fillRect(this.WL, this.DANGER_Y, this.WR - this.WL, this.BY - this.DANGER_Y);
+    }
+
+    // ── Combo bar (below rally text) ─────────────────────────────────────
+    this.drawComboBar(time);
+
+    // ── Screen edge danger glow ───────────────────────────────────────────
+    this.edgeGlowGfx.clear();
+    if (this.inDangerZone && !this.serving) {
+      const W = this.scale.width;
+      const H = this.scale.height;
+      const ep = 0.07 + Math.sin(time * 0.018) * 0.05;
+      // Red vignette on all four edges
+      for (let i = 0; i < 4; i++) {
+        this.edgeGlowGfx.fillStyle(0xff2d78, ep * (1 - i * 0.22));
+        this.edgeGlowGfx.fillRect(0, H - (i + 1) * 12, W, 12);
+      }
+    }
+
+    // ── Score text color: danger = warmer red ─────────────────────────────
+    if (this.inDangerZone && !this.serving) {
+      this.scoreTxt.setColor("#ff8844");
+    } else {
+      this.scoreTxt.setColor("#00ff88");
     }
 
     // ── SERVING PHASE ────────────────────────────────────────────────────
@@ -498,10 +551,24 @@ class SquashScene extends Phaser.Scene {
     this.bx += this.vx * dt;
     this.by += this.vy * dt;
 
-    // Trail (colour shifts warmer in hit_window)
-    this.trail.push({ x: this.bx, y: this.by });
-    if (this.trail.length > 12) this.trail.shift();
+    // ── Trail + shadow drawn together in trailGfx ────────────────────────
     this.trailGfx.clear();
+
+    // ── Fake-Z: ball launches up on hit, gravity pulls it back ───────────
+    this.ballZ  += this.ballVZ * dt;
+    this.ballVZ -= 1800 * dt;   // Z gravity (stronger = snappier arc)
+    if (this.ballZ <= 0) { this.ballZ = 0; this.ballVZ = 0; }
+    // Shadow: grows with Z, offset slightly down
+    const shadowScale = 1 + this.ballZ * 0.012;
+    const shadowAlpha = Math.max(0.10, 0.30 - this.ballZ * 0.004);
+    this.trailGfx.fillStyle(0x000000, shadowAlpha);
+    this.trailGfx.fillEllipse(this.bx, this.by + this.BALL_R + 2, this.BALL_R * 2.6 * shadowScale, this.BALL_R * 0.9);
+
+    // ── Trail — dynamic length based on speed ────────────────────────────
+    const spd2d = Math.hypot(this.vx, this.vy);
+    const maxTrail = Phaser.Math.Clamp(Math.floor(spd2d / 80), 6, 16);
+    this.trail.push({ x: this.bx, y: this.by });
+    if (this.trail.length > maxTrail) this.trail.shift();
     const trailColor = isWindow ? 0x00ff88 : 0xffd700;
     for (let i = 0; i < this.trail.length; i++) {
       const t = i / this.trail.length;
@@ -510,12 +577,30 @@ class SquashScene extends Phaser.Scene {
     }
 
     this.ball.x = this.bx;
-    this.ball.y = this.by;
+    this.ball.y = this.by - this.ballZ;   // visual Y offset by Z
 
     const { BALL_R, FWY, DANGER_Y } = this;
 
     // Danger zone tracking
     if (this.by > DANGER_Y) this.inDangerZone = true;
+
+    // ── Rally tension + Mercy Chaos ───────────────────────────────────────
+    if (this.rally > 25) {
+      const tensionFactor = 1 + 0.03 * dt;   // ~3% / second extra push
+      const newSpd = Math.hypot(this.vx * tensionFactor, this.vy * tensionFactor);
+      if (newSpd <= this.MAX_SPEED) {
+        this.vx *= tensionFactor;
+        this.vy *= tensionFactor;
+      }
+    }
+    // Mercy Chaos: rally>30 = speed pulse per hit; rally>45 = random drift
+    if (this.rally > 30) {
+      this.vx *= 1 + 0.03 * dt;
+      this.vy *= 1 + 0.03 * dt;
+    }
+    if (this.rally > 45) {
+      this.vx += Phaser.Math.FloatBetween(-120, 120) * dt;
+    }
 
     // ── Ball state transitions ────────────────────────────────────────────
     const HIT_ZONE_H = 60;   // px above paddle top
@@ -539,16 +624,28 @@ class SquashScene extends Phaser.Scene {
     if (this.by - BALL_R <= FWY && this.vy < 0) {
       this.by = FWY + BALL_R;
       this.vy = Math.abs(this.vy);
-      // Random angle deflection ±8° — makes rally unpredictable
+      // Chaos Drift: deflection grows with rally (±2° at rally 0, ±18° at rally 30+)
+      const chaos = Phaser.Math.Clamp(this.rally * 0.6, 2, 18);
       const spd0 = Math.hypot(this.vx, this.vy);
       const ang0 = Math.atan2(this.vx, this.vy); // angle from vertical
-      const ang1 = ang0 + Phaser.Math.DegToRad(Phaser.Math.FloatBetween(-8, 8));
+      const ang1 = ang0 + Phaser.Math.DegToRad(Phaser.Math.FloatBetween(-chaos, chaos));
       this.vx = Math.sin(ang1) * spd0;
       this.vy = Math.abs(Math.cos(ang1) * spd0); // must be positive (return)
       this.ballState = "return";
       this.clampBallAngle();
-      this.spawnRipple(this.bx, FWY, 0x00ff88);
-      this.addScoreSilent(1);  // wall = +1, no popup
+      // ── Skill shot: corner zones (within 60px of side wall, top of front wall)
+      const isCorner = (this.bx < this.WL + 60 || this.bx > this.WR - 60);
+      if (isCorner) {
+        this.spawnRipple(this.bx, FWY, 0xffaa00);   // gold ripple
+        this.spawnRipple(this.bx, FWY, 0xff6600);
+        this.addScorePopup(5, this.bx, FWY - 20, false);
+        this.showMilestoneBanner("🎯 CORNER SHOT! +5", "#ffaa00");
+        this.cameras.main.shake(20, 0.005);
+      } else {
+        this.spawnRipple(this.bx, FWY, 0x00ff88);
+        this.addScoreSilent(1);  // wall = +1, no popup
+        this.cameras.main.flash(38, 0, 180, 120, false);
+      }
     }
 
     // ── Left wall ─────────────────────────────────────────────────────────
@@ -562,6 +659,7 @@ class SquashScene extends Phaser.Scene {
       this.clampBallAngle();
       this.spawnRipple(this.WL, this.by, 0x336633);
       this.addScoreSilent(1);
+      this.cameras.main.flash(32, 0, 160, 100, false);
     }
 
     // ── Right wall ────────────────────────────────────────────────────────
@@ -575,6 +673,19 @@ class SquashScene extends Phaser.Scene {
       this.clampBallAngle();
       this.spawnRipple(this.WR, this.by, 0x336633);
       this.addScoreSilent(1);
+      this.cameras.main.flash(32, 0, 160, 100, false);
+    }
+
+    // ── Near-miss detection ───────────────────────────────────────────────
+    const nearMiss = (
+      this.by + BALL_R >= padTop - HIT_ZONE_H &&
+      this.by - BALL_R <= padTop + PAD_H + 4 &&
+      Math.abs(this.bx - this.padX) > this.PAD_HIT_W &&
+      Math.abs(this.bx - this.padX) < this.PAD_HIT_W + 40
+    );
+    if (nearMiss && this.hitCooldown <= 0) {
+      this.cameras.main.zoomTo(1.08, 70);
+      this.time.delayedCall(110, () => this.cameras.main.zoomTo(1, 130));
     }
 
     // ── Paddle hit — ONLY when ballState === "hit_window" ────────────────
@@ -605,6 +716,9 @@ class SquashScene extends Phaser.Scene {
       if (this.rally % 5 === 0) this.flashSpeedUp();
     }
 
+    // ── Perfect hit detection (center 25% of paddle) ─────────────────────
+    const perfect = Math.abs(this.bx - this.padX) < this.PAD_W * 0.25;
+
     // ── Ball velocity after hit ───────────────────────────────────────────
     const spd      = Math.min(this.BASE_SPEED * this.speedMult, this.MAX_SPEED);
     const hitFrac  = Phaser.Math.Clamp((this.bx - this.padX) / this.PAD_W, -1, 1);
@@ -614,8 +728,13 @@ class SquashScene extends Phaser.Scene {
     this.vx = Math.sin(Phaser.Math.DegToRad(hitAngle)) * spd;
     this.vy = -Math.cos(Phaser.Math.DegToRad(hitAngle)) * spd; // upward
 
-    // Paddle momentum spin
-    const spin = Phaser.Math.Clamp(this.padVelX * 0.12, -65, 65);
+    // Edge shot: outer 20% of paddle = sharper angle (riskier but rewarding)
+    if (Math.abs(hitFrac) > 0.8) {
+      this.vx *= 1.3;
+    }
+
+    // Paddle momentum spin — 0.18 for stronger swing feel
+    const spin = Phaser.Math.Clamp(this.padVelX * 0.18, -80, 80);
     this.vx += spin;
     this.vx += Phaser.Math.FloatBetween(-10, 10);
 
@@ -623,19 +742,46 @@ class SquashScene extends Phaser.Scene {
     this.clampBallAngle();
 
     this.by          = padTop - this.BALL_R - 2;
+    this.ballZ       = 0;
+    this.ballVZ      = 220 + spd * 0.12;  // bigger hit = bigger Z arc
     this.hitCooldown = 180;
     // Squish: paddle instantly widens, then eases back to 1.0
     this.padSquish      = 1.0 + this.SQUISH_AMT;
     this.squishElapsed  = this.SQUISH_DUR;
-    this.spawnRipple(this.bx, this.by, 0x00d4ff);
     this.triggerHitFlash(this.bx, padTop);
     this.cameras.main.shake(16, 0.003);
+    // Screen flash on paddle hit — cyan energy burst
+    this.cameras.main.flash(55, 0, 220, 180, false);
 
-    // Scoring: +1 normal, +2 if ball was in danger zone
-    const bonus = this.inDangerZone;
-    const pts   = bonus ? 2 : 1;
-    this.addScorePopup(pts, this.bx, this.by - 22, bonus);
+    if (perfect) {
+      // Perfect hit: extra speed boost, gold ripples, bigger score
+      this.speedMult = Math.min(this.speedMult + 0.05, this.MAX_SPEED / this.BASE_SPEED);
+      this.spawnRipple(this.bx, this.by, 0xffdd00);
+      this.spawnRipple(this.bx, this.by + 6, 0xffaa00);
+      const bonus = this.inDangerZone;
+      const pts   = bonus ? 4 : 3;   // perfect: 3 or 4 pts
+      this.addScorePopup(pts, this.bx, this.by - 28, true);
+      this.cameras.main.shake(22, 0.005);
+    } else {
+      this.spawnRipple(this.bx, this.by, 0x00d4ff);
+      const bonus = this.inDangerZone;
+      const pts   = bonus ? 2 : 1;
+      this.addScorePopup(pts, this.bx, this.by - 22, bonus);
+    }
     this.inDangerZone = false;
+
+    // ── Paddle shrink with rally ──────────────────────────────────────────
+    const prevPadW = this.PAD_W;
+    if      (this.rally > 40) this.PAD_W = 70;
+    else if (this.rally > 20) this.PAD_W = 80;
+    else                      this.PAD_W = this.BASE_PAD_W;
+    if (this.PAD_W < prevPadW) {
+      // Visual feedback when paddle shrinks
+      this.showMilestoneBanner(
+        this.rally > 40 ? "😈 PADDLE SHRUNK TO 70!" : "😅 PADDLE SHRUNK TO 80!",
+        "#ff6600"
+      );
+    }
 
     // Rally pulse
     this.tweens.add({
@@ -646,9 +792,19 @@ class SquashScene extends Phaser.Scene {
       ease: "Back.Out",
     });
 
-    // Rally milestone banners (10 / 20)
-    if (this.rally === 10) this.showMilestoneBanner("RALLY x10 — WIDER ANGLES!", "#00d4ff");
-    if (this.rally === 20) this.showMilestoneBanner("RALLY x20 — MAXIMUM CHAOS!", "#ff2d78");
+    // ── Rally color: white → green → yellow → red ────────────────────────
+    const rallyColor =
+      this.rally >= 30 ? "#ff4444" :
+      this.rally >= 20 ? "#ffcc00" :
+      this.rally >= 10 ? "#00ff88" : "#ffffff99";
+    this.rallyTxt.setColor(rallyColor);
+
+    // ── Rally milestone banners ───────────────────────────────────────────
+    if (this.rally ===  5) this.showMilestoneBanner("🎯 NICE RALLY!", "#ffffff");
+    if (this.rally === 10) this.showMilestoneBanner("🔥 HOT STREAK! x10", "#00d4ff");
+    if (this.rally === 20) this.showMilestoneBanner("⚡ RALLY MASTER! x20", "#ffcc00");
+    if (this.rally === 30) this.showMilestoneBanner("💀 CHAOS MODE! x30", "#ff4444");
+    if (this.rally === 45) this.showMilestoneBanner("🌀 INSANITY! x45", "#ff00ff");
   }
 
   // ── triggerMiss ───────────────────────────────────────────────────────────
@@ -682,6 +838,15 @@ class SquashScene extends Phaser.Scene {
   private addScorePopup(pts: number, x: number, y: number, isDanger: boolean) {
     this.score += pts;
     this.scoreTxt.setText(String(this.score));
+
+    // Score text pop: scale 1 → 1.25 → 1
+    this.tweens.add({
+      targets: this.scoreTxt,
+      scaleX: 1.25, scaleY: 1.25,
+      duration: 70,
+      yoyo: true,
+      ease: "Back.Out",
+    });
 
     const label = isDanger ? `+${pts} DANGER!` : `+${pts}`;
     const color = isDanger ? "#ff2d78" : "#ffd700";
@@ -869,13 +1034,71 @@ class SquashScene extends Phaser.Scene {
 
     this.tweens.add({
       targets: ring,
-      scaleX: 4.5,
-      scaleY: 3.5,
-      alpha: 0,
-      duration: 230,
+      scaleX: 4.5, scaleY: 3.5,
+      alpha: 0, duration: 230,
       ease: "Quad.Out",
       onComplete: () => ring.destroy(),
     });
+
+    // Spark burst: 6 lines radiating outward
+    const sparkAngles = [0, 60, 120, 180, 240, 300];
+    sparkAngles.forEach(deg => {
+      const rad = Phaser.Math.DegToRad(deg);
+      const len = 10;
+      const spark = this.add.graphics().setDepth(9);
+      spark.lineStyle(1.5, 0xffffff, 0.9);
+      spark.lineBetween(hitX, cy, hitX + Math.cos(rad) * len, cy + Math.sin(rad) * len);
+      this.tweens.add({
+        targets: spark,
+        x: Math.cos(rad) * 18,
+        y: Math.sin(rad) * 12,
+        scaleX: 0.2, scaleY: 0.2,
+        alpha: 0, duration: 220,
+        ease: "Quad.Out",
+        onComplete: () => spark.destroy(),
+      });
+    });
+  }
+
+  // ── drawComboBar — rally progress bar below rally number ──────────────────
+  private drawComboBar(time: number) {
+    const g    = this.comboBarGfx;
+    const W    = this.scale.width;
+    const cx   = W * 0.25;
+    const barY = 54;          // just below the rally number
+    const barW = 56;          // total bar width (half)
+    const segs = 10;
+    const segW = (barW * 2) / segs;
+    const gap  = 2;
+
+    g.clear();
+
+    for (let i = 0; i < segs; i++) {
+      const filled = i < Math.min(this.rally, segs);
+      const sx     = cx - barW + i * segW;
+
+      // Filled color tier
+      const col =
+        this.rally >= 30 ? 0xff4444 :
+        this.rally >= 20 ? 0xffcc00 :
+        this.rally >= 10 ? 0x00ff88 : 0x5599ff;
+
+      if (filled) {
+        // Glow halo behind segment (rally 10+)
+        if (this.rally >= 10) {
+          const glowAlpha = this.rally >= 20
+            ? 0.15 + Math.sin(time * 0.012) * 0.10   // pulsing at 20+
+            : 0.10;
+          g.fillStyle(col, glowAlpha);
+          g.fillRect(sx - 1, barY - 1, segW - gap + 2, 6);
+        }
+        g.fillStyle(col, 0.90);
+        g.fillRect(sx, barY, segW - gap, 4);
+      } else {
+        g.fillStyle(0xffffff, 0.08);
+        g.fillRect(sx, barY, segW - gap, 4);
+      }
+    }
   }
 
   // ── spawnRipple ───────────────────────────────────────────────────────────
