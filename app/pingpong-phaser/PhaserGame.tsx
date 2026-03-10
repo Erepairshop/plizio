@@ -601,64 +601,71 @@ class PingPongScene extends Phaser.Scene {
         // Feature 1: 4.5% acceleration per rally, capped at 1.7×
         const baseSpeed = this.ballSpeed * Math.min(1 + this.rallyCount * 0.045, 1.70);
 
-        // Feature 10: Paddle shape trick + Feature 3: Center bias
-        // Curved collider logic: edges deflect less, center redirects more
+        // Curve paddle logic: non-linear mapping (power curve — edges less extreme)
         const hitFrac = Phaser.Math.Clamp(dxP / HR, -1, 1);
         const hitFracAbs = Math.abs(hitFrac);
+        const curvedFrac = Math.sign(hitFrac) * Math.pow(hitFracAbs, 1.35);
 
-        // Feature 7: Paddle edge weakening - reduce angle at edges
-        const edgeWeaken = 1 - hitFracAbs * 0.3; // 100% at center, 70% at edges
-        let angle = hitFrac * 60 * edgeWeaken;
+        // Edge soft zone: extra dampening for outer 25% of paddle
+        const edgeSoftZone = hitFracAbs > 0.75 ? 1 - (hitFracAbs - 0.75) * 1.6 : 1.0;
 
-        // Feature 3: Paddle center direction - center hits go more straight/slightly up
-        if (hitFracAbs < 0.3) {
-          angle *= 0.5; // Center of paddle redirects more neutrally
+        // Edge dampening: 100% center → ~50% at full edge
+        const edgeWeaken = (1 - hitFracAbs * 0.45) * edgeSoftZone;
+
+        // Max angle ±60° (enforced via edgeWeaken + later clamps)
+        let angle = curvedFrac * 60 * edgeWeaken;
+
+        // Center bias: middle 35% of paddle → angle pulled toward straight
+        if (hitFracAbs < 0.35) {
+          angle *= 0.42;
         }
 
-        // Feature 4: Edge nerf - reduce speed at edges (was boost, now it's nerfed)
-        const edgeFactor = 1 - hitFracAbs * 0.25; // Reduced from boost to 75-100%
+        // Speed reduction at edges
+        const edgeFactor = 1 - hitFracAbs * 0.30;
         const speed = baseSpeed * edgeFactor;
 
-        // Feature 5: Random deviation ±2-4° (expanded from ±2.5°)
-        const randAngle = angle + Phaser.Math.FloatBetween(-3.5, 3.5);
+        // Random deviation ±3°
+        const randAngle = angle + Phaser.Math.FloatBetween(-3, 3);
 
         let newVx = Math.sin(Phaser.Math.DegToRad(randAngle)) * speed;
         let newVy = -Math.abs(Math.cos(Phaser.Math.DegToRad(randAngle)) * speed);
 
-        // Feature 4: paddle momentum spin
-        // paddle moving up (playerVelY < 0) → adds upward boost to return
-        newVy += this.playerVelY * 0.20;
-        newVx += this.playerVelX * 0.10;
+        // Spin limit: cap paddle momentum contribution
+        const spinX = Phaser.Math.Clamp(this.playerVelX * 0.10, -55, 55);
+        const spinY = Phaser.Math.Clamp(this.playerVelY * 0.20, -75, 75);
+        newVx += spinX;
+        newVy += spinY;
 
-        // Ensure ball moves away from player paddle (must go up)
-        if (newVy > -60) newVy = -60;
+        // Minimum vertical speed (must go upward with enough force)
+        if (newVy > -100) newVy = -100;
 
-        // Feature 2: Angle limitation - prevent too horizontal shots
+        // Angle smoothing: dampen horizontal component 18% toward straight
+        newVx *= 0.82;
+
+        // Horizontal ratio limit: max 1.3 (tighter than before)
         const horizontalRatio = Math.abs(newVx) / (Math.abs(newVy) + 0.01);
-        if (horizontalRatio > 2.0) {
-          // Too horizontal, boost Y component
+        if (horizontalRatio > 1.4) {
           const magnitude = Math.sqrt(newVx * newVx + newVy * newVy);
-          const newAngle = Math.atan2(newVx, newVy);
-          const maxHorizRatio = 1.8;
+          const maxHorizRatio = 1.3;
           const newVyAdjusted = magnitude / Math.sqrt(1 + maxHorizRatio * maxHorizRatio);
           const newVxAdjusted = newVyAdjusted * maxHorizRatio * Math.sign(newVx);
           newVx = newVxAdjusted;
           newVy = -Math.abs(newVyAdjusted);
         }
 
-        // Feature 8: Max horizontal speed limit
-        const MAX_HORZ_SPEED = speed * 0.9;
+        // Clamp horizontal velocity: hard cap at 68% of ball speed
+        const MAX_HORZ_SPEED = speed * 0.68;
         if (Math.abs(newVx) > MAX_HORZ_SPEED) {
           newVx = Math.sign(newVx) * MAX_HORZ_SPEED;
         }
 
-        // Feature 6: Center bias - if ball very close to edge, pull back slightly
-        const edgeBuffer = 25;
-        if (bx < tL + edgeBuffer && newVx < 0) {
-          newVx *= 0.6; // Weaken leftward velocity near left edge
+        // Auto correction: ball near table edge → redirect inward
+        const autoCorrectZone = 45;
+        if (bx < tL + autoCorrectZone && newVx < 0) {
+          newVx = Math.abs(newVx) * 0.25;
         }
-        if (bx > tL + tW - edgeBuffer && newVx > 0) {
-          newVx *= 0.6; // Weaken rightward velocity near right edge
+        if (bx > tL + tW - autoCorrectZone && newVx > 0) {
+          newVx = -Math.abs(newVx) * 0.25;
         }
 
         // Push ball cleanly out of hitbox
@@ -706,56 +713,71 @@ class PingPongScene extends Phaser.Scene {
 
         const baseSpeed = this.ballSpeed * Math.min(1 + this.rallyCount * 0.045, 1.70);
 
-        // Feature 10: Paddle shape trick + Feature 3: Center bias (same as player)
+        // Curve paddle logic: non-linear mapping (power curve — edges less extreme)
         const hitFrac = Phaser.Math.Clamp(dxA / HR, -1, 1);
         const hitFracAbs = Math.abs(hitFrac);
+        const curvedFrac = Math.sign(hitFrac) * Math.pow(hitFracAbs, 1.35);
 
-        // Feature 7: Paddle edge weakening
-        const edgeWeaken = 1 - hitFracAbs * 0.3;
-        let angle = hitFrac * 60 * edgeWeaken;
+        // Edge soft zone: extra dampening for outer 25% of paddle
+        const edgeSoftZone = hitFracAbs > 0.75 ? 1 - (hitFracAbs - 0.75) * 1.6 : 1.0;
 
-        // Feature 3: Paddle center direction
-        if (hitFracAbs < 0.3) {
-          angle *= 0.5;
+        // Edge dampening: 100% center → ~50% at full edge
+        const edgeWeaken = (1 - hitFracAbs * 0.45) * edgeSoftZone;
+
+        // Max angle ±60°
+        let angle = curvedFrac * 60 * edgeWeaken;
+
+        // Center bias: middle 35% → angle pulled toward straight
+        if (hitFracAbs < 0.35) {
+          angle *= 0.42;
         }
 
-        // Feature 4: Edge nerf (reduce speed at edges)
-        const edgeFactor = 1 - hitFracAbs * 0.25;
+        // Speed reduction at edges
+        const edgeFactor = 1 - hitFracAbs * 0.30;
         const speed = baseSpeed * edgeFactor;
 
-        // Feature 5: Random deviation ±2-4°
-        const randAngle = angle + Phaser.Math.FloatBetween(-3.5, 3.5);
+        // Random deviation ±3°
+        const randAngle = angle + Phaser.Math.FloatBetween(-3, 3);
 
         let newVx = Math.sin(Phaser.Math.DegToRad(randAngle)) * speed;
         let newVy = Math.abs(Math.cos(Phaser.Math.DegToRad(randAngle)) * speed);
 
-        // Ensure ball moves away from AI paddle (must go down)
-        if (newVy < 60) newVy = 60;
+        // Spin limit: cap momentum contribution
+        const spinX = Phaser.Math.Clamp(0, -55, 55); // AI has no tracked momentum
+        const spinY = Phaser.Math.Clamp(0, -75, 75);
+        newVx += spinX;
+        newVy += spinY;
 
-        // Feature 2: Angle limitation - prevent too horizontal shots
+        // Minimum vertical speed (must go downward with enough force)
+        if (newVy < 100) newVy = 100;
+
+        // Angle smoothing: dampen horizontal component 18% toward straight
+        newVx *= 0.82;
+
+        // Horizontal ratio limit: max 1.3
         const horizontalRatio = Math.abs(newVx) / (Math.abs(newVy) + 0.01);
-        if (horizontalRatio > 2.0) {
+        if (horizontalRatio > 1.4) {
           const magnitude = Math.sqrt(newVx * newVx + newVy * newVy);
-          const maxHorizRatio = 1.8;
+          const maxHorizRatio = 1.3;
           const newVyAdjusted = magnitude / Math.sqrt(1 + maxHorizRatio * maxHorizRatio);
           const newVxAdjusted = newVyAdjusted * maxHorizRatio * Math.sign(newVx);
           newVx = newVxAdjusted;
           newVy = Math.abs(newVyAdjusted);
         }
 
-        // Feature 8: Max horizontal speed limit
-        const MAX_HORZ_SPEED = speed * 0.9;
+        // Clamp horizontal velocity: hard cap at 68% of ball speed
+        const MAX_HORZ_SPEED = speed * 0.68;
         if (Math.abs(newVx) > MAX_HORZ_SPEED) {
           newVx = Math.sign(newVx) * MAX_HORZ_SPEED;
         }
 
-        // Feature 6: Center bias - if ball very close to edge, pull back slightly
-        const edgeBuffer = 25;
-        if (bx < tL + edgeBuffer && newVx < 0) {
-          newVx *= 0.6;
+        // Auto correction: ball near table edge → redirect inward
+        const autoCorrectZone = 45;
+        if (bx < tL + autoCorrectZone && newVx < 0) {
+          newVx = Math.abs(newVx) * 0.25;
         }
-        if (bx > tL + tW - edgeBuffer && newVx > 0) {
-          newVx *= 0.6;
+        if (bx > tL + tW - autoCorrectZone && newVx > 0) {
+          newVx = -Math.abs(newVx) * 0.25;
         }
 
         // Push ball cleanly out of hitbox
