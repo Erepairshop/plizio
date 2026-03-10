@@ -994,5 +994,5 @@ export default function TennisPhaserGame({ difficulty, onGameEnd }: Props) {
     };
   }, [difficulty, onGameEnd]);
 
-  return <div ref={ref} style={{ width: "100vw", height: "100vh" }} />;
+  return <div ref={ref} style={{ width: "100%", height: "100%", position: "absolute", inset: 0 }} />;
 }

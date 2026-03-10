@@ -152,7 +152,7 @@ export default function TennisPage() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-[#0A0A1A] flex flex-col items-center justify-center p-4">
+    <div className={screen === "playing" ? "fixed inset-0 bg-black z-50" : "min-h-screen bg-[#0A0A1A] flex flex-col items-center justify-center p-4"}>
       <AnimatePresence mode="wait">
 
         {/* ── MENU ─────────────────────────────────────────────────────────── */}
@@ -214,32 +214,21 @@ export default function TennisPage() {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
-            className="w-full max-w-3xl"
+            className="fixed inset-0"
           >
-            {/* Top bar */}
-            <div className="flex justify-between items-center mb-2">
-              <button
-                onClick={() => setScreen("menu")}
-                className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 hover:text-white transition-colors text-sm font-bold"
-              >
-                ✕
-              </button>
-              <span className="text-white/40 text-xs font-bold uppercase tracking-wider">
-                {t.vs}
-              </span>
-              <div className="w-8" />
-            </div>
-
-            {/* Phaser canvas */}
-            <div
-              className="w-full rounded-xl overflow-hidden"
-              style={{ aspectRatio: "720/420" }}
+            {/* Exit button — floating top-left */}
+            <button
+              onClick={() => setScreen("menu")}
+              className="absolute top-4 left-4 z-10 w-8 h-8 flex items-center justify-center rounded-full bg-black/40 text-white/70 hover:bg-black/60 hover:text-white transition-colors text-sm font-bold"
             >
-              <TennisPhaserGame
-                difficulty={difficulty}
-                onGameEnd={handleGameEnd}
-              />
-            </div>
+              ✕
+            </button>
+
+            {/* Phaser canvas — full screen */}
+            <TennisPhaserGame
+              difficulty={difficulty}
+              onGameEnd={handleGameEnd}
+            />
           </motion.div>
         )}
 
