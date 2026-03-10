@@ -430,6 +430,12 @@ class SquashScene extends Phaser.Scene {
 
     // ── 5. Hard edge clamp on actual position ─────────────────────────────
     this.padX = Phaser.Math.Clamp(this.padX, padMin, padMax);
+
+    // ── 6. Pressure Zone: danger zone = wobbly paddle control ─────────────
+    if (this.inDangerZone && !this.serving) {
+      this.padTargetX += Phaser.Math.FloatBetween(-6, 6);
+      this.padVelX    *= 0.95;
+    }
   }
 
   // ── update ────────────────────────────────────────────────────────────────
@@ -551,7 +557,7 @@ class SquashScene extends Phaser.Scene {
     // Danger zone tracking
     if (this.by > DANGER_Y) this.inDangerZone = true;
 
-    // ── Rally tension: per-frame micro-acceleration above rally 25 ────────
+    // ── Rally tension + Mercy Chaos ───────────────────────────────────────
     if (this.rally > 25) {
       const tensionFactor = 1 + 0.03 * dt;   // ~3% / second extra push
       const newSpd = Math.hypot(this.vx * tensionFactor, this.vy * tensionFactor);
@@ -559,6 +565,14 @@ class SquashScene extends Phaser.Scene {
         this.vx *= tensionFactor;
         this.vy *= tensionFactor;
       }
+    }
+    // Mercy Chaos: rally>30 = speed pulse per hit; rally>45 = random drift
+    if (this.rally > 30) {
+      this.vx *= 1 + 0.03 * dt;
+      this.vy *= 1 + 0.03 * dt;
+    }
+    if (this.rally > 45) {
+      this.vx += Phaser.Math.FloatBetween(-120, 120) * dt;
     }
 
     // ── Ball state transitions ────────────────────────────────────────────
@@ -583,10 +597,11 @@ class SquashScene extends Phaser.Scene {
     if (this.by - BALL_R <= FWY && this.vy < 0) {
       this.by = FWY + BALL_R;
       this.vy = Math.abs(this.vy);
-      // Random angle deflection ±8° — makes rally unpredictable
+      // Chaos Drift: deflection grows with rally (±2° at rally 0, ±18° at rally 30+)
+      const chaos = Phaser.Math.Clamp(this.rally * 0.6, 2, 18);
       const spd0 = Math.hypot(this.vx, this.vy);
       const ang0 = Math.atan2(this.vx, this.vy); // angle from vertical
-      const ang1 = ang0 + Phaser.Math.DegToRad(Phaser.Math.FloatBetween(-8, 8));
+      const ang1 = ang0 + Phaser.Math.DegToRad(Phaser.Math.FloatBetween(-chaos, chaos));
       this.vx = Math.sin(ang1) * spd0;
       this.vy = Math.abs(Math.cos(ang1) * spd0); // must be positive (return)
       this.ballState = "return";
@@ -682,6 +697,11 @@ class SquashScene extends Phaser.Scene {
 
     this.vx = Math.sin(Phaser.Math.DegToRad(hitAngle)) * spd;
     this.vy = -Math.cos(Phaser.Math.DegToRad(hitAngle)) * spd; // upward
+
+    // Edge shot: outer 20% of paddle = sharper angle (riskier but rewarding)
+    if (Math.abs(hitFrac) > 0.8) {
+      this.vx *= 1.3;
+    }
 
     // Paddle momentum spin — 0.18 for stronger swing feel
     const spin = Phaser.Math.Clamp(this.padVelX * 0.18, -80, 80);
