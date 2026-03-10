@@ -39,8 +39,8 @@ class PingPongScene extends Phaser.Scene {
   private gameOver = false;
 
   // Feature 8: Paddle visual radius vs larger hitbox
-  private readonly PADDLE_R = 28; // visual radius
-  private readonly HITBOX_R = 36; // bigger hitbox – easier to hit
+  private readonly PADDLE_R = 48; // visual radius (increased from 28 for modern look)
+  private readonly HITBOX_R = 56; // bigger hitbox – easier to hit
 
   // Feature 4: Paddle momentum tracking
   private playerPrevX = 0;
@@ -57,6 +57,7 @@ class PingPongScene extends Phaser.Scene {
   // Trail & impact effects
   private trailGfx!: Phaser.GameObjects.Graphics;
   private impactGfx!: Phaser.GameObjects.Graphics;
+  private ballShadowGfx!: Phaser.GameObjects.Graphics;
   private trailPositions: { x: number; y: number }[] = [];
   private impacts: { x: number; y: number; age: number; color: number }[] = [];
   private readonly TRAIL_LEN = 8;
@@ -75,50 +76,70 @@ class PingPongScene extends Phaser.Scene {
   preload() {
     const g = this.make.graphics({ x: 0, y: 0 });
 
-    // Ball
+    // Ball with improved glow (MODERNIZED: increased size)
     g.fillStyle(0xffffff);
-    g.fillCircle(12, 12, 12);
-    g.fillStyle(0xdddddd, 0.35);
-    g.fillCircle(8, 8, 5);
-    g.generateTexture("ball", 24, 24);
+    g.fillCircle(18, 18, 18);
+    g.fillStyle(0xdddddd, 0.40);
+    g.fillCircle(12, 12, 8);
+    g.generateTexture("ball", 36, 36);
     g.clear();
 
-    // Player paddle (red, circle center at 22,22)
+    // Player paddle (red) with dot texture pattern - MODERNIZED (larger, more detail)
     g.fillStyle(0x5a1a1a);
-    g.fillCircle(22, 22, 22);
+    g.fillCircle(40, 40, 40);
     g.fillStyle(0xcc1515);
-    g.fillCircle(22, 22, 20);
+    g.fillCircle(40, 40, 38);
     g.fillStyle(0xe83030);
-    g.fillCircle(22, 22, 12);
-    g.fillStyle(0xffffff, 0.22);
-    g.fillCircle(16, 16, 8);
+    g.fillCircle(40, 40, 28);
+    g.fillStyle(0xffffff, 0.25);
+    g.fillCircle(32, 32, 14);
+    // Dot texture pattern on rubber surface (larger)
+    g.fillStyle(0x8b1515, 0.4);
+    for (let i = 0; i < 7; i++) {
+      for (let j = 0; j < 6; j++) {
+        g.fillCircle(12 + i * 4, 14 + j * 4, 1.2);
+      }
+    }
     g.fillStyle(0x8b6340);
-    g.fillRoundedRect(17, 42, 10, 20, 3);
+    g.fillRoundedRect(30, 75, 20, 35, 4);
     g.fillStyle(0xa07850, 0.7);
-    g.fillRoundedRect(19, 43, 4, 18, 2);
-    g.generateTexture("playerPaddle", 44, 64);
+    g.fillRoundedRect(34, 78, 12, 30, 3);
+    g.generateTexture("playerPaddle", 80, 130);
     g.clear();
 
-    // AI paddle (blue, circle center at 22,40)
+    // AI paddle (blue) with dot texture pattern - MODERNIZED (larger, more detail)
     g.fillStyle(0x0d2d55);
-    g.fillCircle(22, 40, 22);
+    g.fillCircle(40, 65, 40);
     g.fillStyle(0x1060cc);
-    g.fillCircle(22, 40, 20);
+    g.fillCircle(40, 65, 38);
     g.fillStyle(0x2080e8);
-    g.fillCircle(22, 40, 12);
-    g.fillStyle(0xffffff, 0.22);
-    g.fillCircle(16, 34, 8);
+    g.fillCircle(40, 65, 28);
+    g.fillStyle(0xffffff, 0.25);
+    g.fillCircle(32, 57, 14);
+    // Dot texture pattern on rubber surface (larger)
+    g.fillStyle(0x0d4d88, 0.4);
+    for (let i = 0; i < 7; i++) {
+      for (let j = 0; j < 6; j++) {
+        g.fillCircle(12 + i * 4, 50 + j * 4, 1.2);
+      }
+    }
     g.fillStyle(0x8b6340);
-    g.fillRoundedRect(17, 2, 10, 20, 3);
+    g.fillRoundedRect(30, 20, 20, 35, 4);
     g.fillStyle(0xa07850, 0.7);
-    g.fillRoundedRect(19, 3, 4, 18, 2);
-    g.generateTexture("aiPaddle", 44, 64);
+    g.fillRoundedRect(34, 23, 12, 30, 3);
+    g.generateTexture("aiPaddle", 80, 130);
     g.clear();
 
-    // Particle dot
+    // Particle dot (improved for sparks)
     g.fillStyle(0xffffff);
     g.fillCircle(4, 4, 4);
     g.generateTexture("particle", 8, 8);
+    g.clear();
+
+    // Spark particle (bright yellow/white)
+    g.fillStyle(0xffff99);
+    g.fillCircle(3, 3, 3);
+    g.generateTexture("spark", 6, 6);
     g.destroy();
   }
 
@@ -131,19 +152,63 @@ class PingPongScene extends Phaser.Scene {
     const tL = (W - tW) / 2;
     const tT = (H - tH) / 2;
 
-    // Background & table — NO border line (bug fix: remove strokeRect)
+    // Background
     this.add.rectangle(W / 2, H / 2, W, H, 0x0a0a1a);
-    this.add.rectangle(W / 2, H / 2, tW, tH, 0x0e2d1e).setAlpha(0.95);
 
-    // Center line & net marker
-    this.add.rectangle(W / 2, H / 2, tW, 2, 0x00ff88).setAlpha(0.35);
+    // Table with gradient (lighter top, darker bottom green)
+    const tableGradient = this.add.graphics();
+    tableGradient.fillStyle(0x0d3a24, 1.0);
+    tableGradient.fillRect(tL, tT, tW, tH / 2);
+    tableGradient.fillStyle(0x081c14, 1.0);
+    tableGradient.fillRect(tL, tT + tH / 2, tW, tH / 2);
+
+    // Subtle table texture (very faint noise pattern)
+    const textureGfx = this.add.graphics();
+    textureGfx.fillStyle(0x000000, 0.03);
+    for (let i = 0; i < 80; i++) {
+      const rx = Phaser.Math.Between(Math.floor(tL), Math.floor(tL + tW));
+      const ry = Phaser.Math.Between(Math.floor(tT), Math.floor(tT + tH));
+      const rw = Phaser.Math.Between(2, 6);
+      textureGfx.fillRect(rx, ry, rw, rw);
+    }
+
+    // Center line with glow effect
+    const centerLineGlow = this.add.graphics();
+    centerLineGlow.fillStyle(0x00ff88, 0.08);
+    centerLineGlow.fillRect(W / 2 - 3, tT, 6, tH);
+    centerLineGlow.fillStyle(0x00ff88, 0.12);
+    centerLineGlow.fillRect(W / 2 - 1, tT, 2, tH);
+
+    // Net marker with shadow
     this.add.rectangle(W / 2, H / 2, 4, tH * 0.06, 0xffffff).setAlpha(0.9);
+    const netShadow = this.add.graphics();
+    netShadow.fillStyle(0x000000, 0.15);
+    netShadow.fillRect(W / 2 - 2, H / 2 + 2, 4, tH * 0.08);
 
-    // Very faint lane lines (no outer border)
+    // MODERNIZED: Larger, more visible grid lines (avoids paddle zones)
     const lg = this.add.graphics();
-    lg.lineStyle(1, 0x00ff88, 0.10);
-    lg.lineBetween(tL + tW * 0.333, tT, tL + tW * 0.333, tT + tH);
-    lg.lineBetween(tL + tW * 0.667, tT, tL + tW * 0.667, tT + tH);
+    lg.lineStyle(2.5, 0x00ff88, 0.18); // increased thickness and visibility
+    // Left lane
+    lg.lineBetween(tL + tW * 0.333, tT + tH * 0.22, tL + tW * 0.333, tT + tH * 0.78);
+    // Right lane
+    lg.lineBetween(tL + tW * 0.667, tT + tH * 0.22, tL + tW * 0.667, tT + tH * 0.78);
+    // Horizontal grid lines (major)
+    lg.lineStyle(1.5, 0x00ff88, 0.12);
+    lg.lineBetween(tL, tT + tH * 0.40, tL + tW, tT + tH * 0.40);
+    lg.lineBetween(tL, tT + tH * 0.60, tL + tW, tT + tH * 0.60);
+
+    // Soft vignette effect (darker edges)
+    const vignetteGfx = this.add.graphics();
+    vignetteGfx.fillStyle(0x000000, 0);
+    vignetteGfx.fillRect(0, 0, W, H);
+    vignetteGfx.setDepth(5);
+    // Create radial vignette mask effect
+    const vignetteGraphics = this.make.graphics({ x: W / 2, y: H / 2 });
+    vignetteGraphics.fillStyle(0x000000, 0.2);
+    vignetteGraphics.fillCircle(0, 0, Math.min(W, H) * 0.4);
+
+    // Ball shadow (will be updated in update loop)
+    this.ballShadowGfx = this.add.graphics();
 
     // Effect layers (below ball)
     this.trailGfx = this.add.graphics();
@@ -151,19 +216,38 @@ class PingPongScene extends Phaser.Scene {
 
     // Paddles — scale so visual radius = PADDLE_R
     const SCALE = this.PADDLE_R / 20;
-    this.player = this.add.image(W / 2, tT + tH * 0.84, "playerPaddle")
-      .setOrigin(0.5, 22 / 64)
-      .setScale(SCALE);
-    this.ai = this.add.image(W / 2, tT + tH * 0.16, "aiPaddle")
-      .setOrigin(0.5, 40 / 64)
-      .setScale(SCALE);
 
-    // Ball
+    // MODERNIZED: Larger paddle shadows with subtle glow effect
+    const playerShadow = this.add.graphics();
+    playerShadow.fillStyle(0xcc1515, 0.12); // color-tinted shadow
+    playerShadow.fillEllipse(W / 2, tT + tH * 0.88, 60, 14);
+    playerShadow.setDepth(4);
+
+    const aiShadow = this.add.graphics();
+    aiShadow.fillStyle(0x2080e8, 0.12); // color-tinted shadow
+    aiShadow.fillEllipse(W / 2, tT + tH * 0.12, 60, 14);
+    aiShadow.setDepth(4);
+
+    this.player = this.add.image(W / 2, tT + tH * 0.84, "playerPaddle")
+      .setOrigin(0.5, 40 / 130) // adjusted for larger paddle
+      .setScale(SCALE)
+      .setDepth(15);
+    this.ai = this.add.image(W / 2, tT + tH * 0.16, "aiPaddle")
+      .setOrigin(0.5, 65 / 130) // adjusted for larger paddle
+      .setScale(SCALE)
+      .setDepth(15);
+
+    // Ball glow effect (subtle halo)
+    const ballGlowGfx = this.add.graphics();
+    ballGlowGfx.setDepth(8);
+
+    // Ball (MODERNIZED: larger collision radius)
     this.ball = this.physics.add.image(W / 2, H / 2, "ball");
-    this.ball.setCircle(12);
+    this.ball.setCircle(18); // increased from 12
     this.ball.setBounce(1, 1);
     this.ball.setCollideWorldBounds(false);
-    this.ball.setDepth(10);
+    this.ball.setDepth(11);
+    this.ball.setTint(0xffffff);
 
     // Particles
     this.particles = this.add.particles(0, 0, "particle", {
@@ -175,12 +259,21 @@ class PingPongScene extends Phaser.Scene {
     });
     this.particles.setDepth(20);
 
-    // Score
-    this.scoreTxt = this.add.text(W / 2, tT - 28, "0 : 0", {
-      fontSize: "22px",
+    // MODERNIZED: Larger scoreboard with vibrant styling
+    this.scoreTxt = this.add.text(W / 2, tT - 40, "0 : 0", {
+      fontSize: "68px",
       fontFamily: "monospace",
       color: "#ffffff",
-    }).setOrigin(0.5).setDepth(30);
+      fontStyle: "bold",
+    }).setOrigin(0.5).setDepth(30).setLetterSpacing(12);
+
+    // Scoreboard background (more prominent with glow)
+    const scoreboardBg = this.add.graphics();
+    scoreboardBg.fillStyle(0x000000, 0.4);
+    scoreboardBg.fillRoundedRect(W / 2 - 130, tT - 65, 260, 50, 12);
+    scoreboardBg.lineStyle(2, 0x00d4ff, 0.3);
+    scoreboardBg.strokeRoundedRect(W / 2 - 130, tT - 65, 260, 50, 12);
+    scoreboardBg.setDepth(29);
 
     // Feature 3: tap-to-serve hint text
     this.serveTxt = this.add.text(W / 2, H / 2, "TAP  /  SPACE", {
@@ -276,11 +369,26 @@ class PingPongScene extends Phaser.Scene {
     this.applyVelocity(vx, vy);
   }
 
-  // Feature 7: Hit feedback
+  // Feature 7: Hit feedback with sparks
   private onHit(x: number, y: number, color: number) {
     this.particles.setPosition(x, y);
     this.particles.setParticleTint(color);
     this.particles.explode(10);
+
+    // Hit spark effect (brief bright flash)
+    const sparkEmitter = this.add.particles(0, 0, "spark", {
+      speed: { min: 100, max: 250 },
+      scale: { start: 1.2, end: 0 },
+      lifespan: 250,
+      quantity: 8,
+      emitting: false,
+    });
+    sparkEmitter.setPosition(x, y);
+    sparkEmitter.setParticleTint(0xffff99);
+    sparkEmitter.explode(8);
+    sparkEmitter.setDepth(12);
+    this.time.delayedCall(300, () => sparkEmitter.destroy());
+
     this.impacts.push({ x, y, age: 0, color });
     // Feature 7: reduced shake (was 0.006 / 70ms → 0.003 / 50ms to prevent jitter feel)
     this.cameras.main.shake(50, 0.003);
@@ -354,6 +462,24 @@ class PingPongScene extends Phaser.Scene {
     if (this.waitingForServe && Phaser.Input.Keyboard.JustDown(this.spaceKey)) {
       this.launchBall();
     }
+
+    // ─── MODERNIZED: Ball glow effect (larger, more vibrant) ─────────────────────────────────────────────
+    const ballGlowCanvas = this.make.graphics({ x: this.ball.x, y: this.ball.y });
+    ballGlowCanvas.fillStyle(0xffffff, 0.15);
+    ballGlowCanvas.fillCircle(0, 0, 32);
+    ballGlowCanvas.fillStyle(0xffffff, 0.08);
+    ballGlowCanvas.fillCircle(0, 0, 42);
+    ballGlowCanvas.fillStyle(0x00d4ff, 0.06);
+    ballGlowCanvas.fillCircle(0, 0, 52);
+    ballGlowCanvas.setDepth(9);
+
+    // ─── Ball shadow on table ─────────────────────────────────────────
+    const tableY = tT + tH;
+    const shadowScale = Math.max(0.3, 1 - Math.abs(this.ball.y - tableY) / 150);
+    this.ballShadowGfx.clear();
+    this.ballShadowGfx.fillStyle(0x000000, 0.2 * shadowScale);
+    this.ballShadowGfx.fillEllipse(this.ball.x, tableY - 2, 16 * shadowScale, 6 * shadowScale);
+    this.ballShadowGfx.setDepth(5);
 
     // ─── Trail ───────────────────────────────────────────────────────
     if (!this.serving && !this.waitingForServe) {
@@ -444,11 +570,21 @@ class PingPongScene extends Phaser.Scene {
       this.ai.y = Phaser.Math.Clamp(this.ai.y + (aiDY / aiDist) * aiMove, tT + R, tT + tH * 0.48 - R);
     }
 
-    // ─── Ball boundaries ──────────────────────────────────────────────
+    // ─── Ball boundaries with side bounce zone (Feature 1) ──────────────
     const bx = this.ball.x;
     const by = this.ball.y;
-    const br = 12;
+    const br = 18; // increased from 12 (modernized)
+    const SIDE_BOUNCE_ZONE = 24; // adjusted for larger ball
 
+    // Feature 1: Side bounce zone (soft wall)
+    if (bx - br < tL + SIDE_BOUNCE_ZONE && this.ball.body!.velocity.x < 0) {
+      this.ball.body!.velocity.x = Math.abs(this.ball.body!.velocity.x) * 0.8;
+    }
+    if (bx + br > tL + tW - SIDE_BOUNCE_ZONE && this.ball.body!.velocity.x > 0) {
+      this.ball.body!.velocity.x = -Math.abs(this.ball.body!.velocity.x) * 0.8;
+    }
+
+    // Hard boundaries (score point)
     if (bx - br < tL || bx + br > tL + tW) {
       this.scorePoint(by < tT + tH * 0.5);
       return;
@@ -472,16 +608,26 @@ class PingPongScene extends Phaser.Scene {
         // Feature 1: 4.5% acceleration per rally, capped at 1.7×
         const baseSpeed = this.ballSpeed * Math.min(1 + this.rallyCount * 0.045, 1.70);
 
-        // Feature 2: angle from hit position on paddle (left/right)
+        // Feature 10: Paddle shape trick + Feature 3: Center bias
+        // Curved collider logic: edges deflect less, center redirects more
         const hitFrac = Phaser.Math.Clamp(dxP / HR, -1, 1);
-        const angle = hitFrac * 60;
+        const hitFracAbs = Math.abs(hitFrac);
 
-        // Feature 11: edge boost — faster at paddle edges
-        const edgeFactor = 1 + Math.abs(hitFrac) * 0.15;
+        // Feature 7: Paddle edge weakening - reduce angle at edges
+        const edgeWeaken = 1 - hitFracAbs * 0.3; // 100% at center, 70% at edges
+        let angle = hitFrac * 60 * edgeWeaken;
+
+        // Feature 3: Paddle center direction - center hits go more straight/slightly up
+        if (hitFracAbs < 0.3) {
+          angle *= 0.5; // Center of paddle redirects more neutrally
+        }
+
+        // Feature 4: Edge nerf - reduce speed at edges (was boost, now it's nerfed)
+        const edgeFactor = 1 - hitFracAbs * 0.25; // Reduced from boost to 75-100%
         const speed = baseSpeed * edgeFactor;
 
-        // Feature 5: ±2.5° random bounce
-        const randAngle = angle + Phaser.Math.FloatBetween(-2.5, 2.5);
+        // Feature 5: Random deviation ±2-4° (expanded from ±2.5°)
+        const randAngle = angle + Phaser.Math.FloatBetween(-3.5, 3.5);
 
         let newVx = Math.sin(Phaser.Math.DegToRad(randAngle)) * speed;
         let newVy = -Math.abs(Math.cos(Phaser.Math.DegToRad(randAngle)) * speed);
@@ -493,6 +639,34 @@ class PingPongScene extends Phaser.Scene {
 
         // Ensure ball moves away from player paddle (must go up)
         if (newVy > -60) newVy = -60;
+
+        // Feature 2: Angle limitation - prevent too horizontal shots
+        const horizontalRatio = Math.abs(newVx) / (Math.abs(newVy) + 0.01);
+        if (horizontalRatio > 2.0) {
+          // Too horizontal, boost Y component
+          const magnitude = Math.sqrt(newVx * newVx + newVy * newVy);
+          const newAngle = Math.atan2(newVx, newVy);
+          const maxHorizRatio = 1.8;
+          const newVyAdjusted = magnitude / Math.sqrt(1 + maxHorizRatio * maxHorizRatio);
+          const newVxAdjusted = newVyAdjusted * maxHorizRatio * Math.sign(newVx);
+          newVx = newVxAdjusted;
+          newVy = -Math.abs(newVyAdjusted);
+        }
+
+        // Feature 8: Max horizontal speed limit
+        const MAX_HORZ_SPEED = speed * 0.9;
+        if (Math.abs(newVx) > MAX_HORZ_SPEED) {
+          newVx = Math.sign(newVx) * MAX_HORZ_SPEED;
+        }
+
+        // Feature 6: Center bias - if ball very close to edge, pull back slightly
+        const edgeBuffer = 25;
+        if (bx < tL + edgeBuffer && newVx < 0) {
+          newVx *= 0.6; // Weaken leftward velocity near left edge
+        }
+        if (bx > tL + tW - edgeBuffer && newVx > 0) {
+          newVx *= 0.6; // Weaken rightward velocity near right edge
+        }
 
         // Push ball cleanly out of hitbox
         this.ball.y = this.player.y - HR - br - 2;
@@ -510,6 +684,23 @@ class PingPongScene extends Phaser.Scene {
 
         this.hitCooldown = this.HIT_COOLDOWN_MS;
         this.onHit(bx, by, 0xcc1515);
+
+        // Paddle hit animation (grows 5-10% briefly)
+        const origScale = this.player.scale;
+        this.tweens.add({
+          targets: this.player,
+          scale: origScale * 1.08,
+          duration: 80,
+          ease: "Quad.Out",
+          onComplete: () => {
+            this.tweens.add({
+              targets: this.player,
+              scale: origScale,
+              duration: 100,
+              ease: "Quad.In",
+            });
+          },
+        });
       }
     }
 
@@ -521,17 +712,58 @@ class PingPongScene extends Phaser.Scene {
         this.rallyCount++;
 
         const baseSpeed = this.ballSpeed * Math.min(1 + this.rallyCount * 0.045, 1.70);
+
+        // Feature 10: Paddle shape trick + Feature 3: Center bias (same as player)
         const hitFrac = Phaser.Math.Clamp(dxA / HR, -1, 1);
-        const angle = hitFrac * 60;
-        const edgeFactor = 1 + Math.abs(hitFrac) * 0.15;
+        const hitFracAbs = Math.abs(hitFrac);
+
+        // Feature 7: Paddle edge weakening
+        const edgeWeaken = 1 - hitFracAbs * 0.3;
+        let angle = hitFrac * 60 * edgeWeaken;
+
+        // Feature 3: Paddle center direction
+        if (hitFracAbs < 0.3) {
+          angle *= 0.5;
+        }
+
+        // Feature 4: Edge nerf (reduce speed at edges)
+        const edgeFactor = 1 - hitFracAbs * 0.25;
         const speed = baseSpeed * edgeFactor;
-        const randAngle = angle + Phaser.Math.FloatBetween(-2.5, 2.5);
+
+        // Feature 5: Random deviation ±2-4°
+        const randAngle = angle + Phaser.Math.FloatBetween(-3.5, 3.5);
 
         let newVx = Math.sin(Phaser.Math.DegToRad(randAngle)) * speed;
         let newVy = Math.abs(Math.cos(Phaser.Math.DegToRad(randAngle)) * speed);
 
         // Ensure ball moves away from AI paddle (must go down)
         if (newVy < 60) newVy = 60;
+
+        // Feature 2: Angle limitation - prevent too horizontal shots
+        const horizontalRatio = Math.abs(newVx) / (Math.abs(newVy) + 0.01);
+        if (horizontalRatio > 2.0) {
+          const magnitude = Math.sqrt(newVx * newVx + newVy * newVy);
+          const maxHorizRatio = 1.8;
+          const newVyAdjusted = magnitude / Math.sqrt(1 + maxHorizRatio * maxHorizRatio);
+          const newVxAdjusted = newVyAdjusted * maxHorizRatio * Math.sign(newVx);
+          newVx = newVxAdjusted;
+          newVy = Math.abs(newVyAdjusted);
+        }
+
+        // Feature 8: Max horizontal speed limit
+        const MAX_HORZ_SPEED = speed * 0.9;
+        if (Math.abs(newVx) > MAX_HORZ_SPEED) {
+          newVx = Math.sign(newVx) * MAX_HORZ_SPEED;
+        }
+
+        // Feature 6: Center bias - if ball very close to edge, pull back slightly
+        const edgeBuffer = 25;
+        if (bx < tL + edgeBuffer && newVx < 0) {
+          newVx *= 0.6;
+        }
+        if (bx > tL + tW - edgeBuffer && newVx > 0) {
+          newVx *= 0.6;
+        }
 
         // Push ball cleanly out of hitbox
         this.ball.y = this.ai.y + HR + br + 2;
@@ -549,7 +781,34 @@ class PingPongScene extends Phaser.Scene {
 
         this.hitCooldown = this.HIT_COOLDOWN_MS;
         this.onHit(bx, by, 0x2080e8);
+
+        // Paddle hit animation (grows 5-10% briefly)
+        const origScaleAI = this.ai.scale;
+        this.tweens.add({
+          targets: this.ai,
+          scale: origScaleAI * 1.08,
+          duration: 80,
+          ease: "Quad.Out",
+          onComplete: () => {
+            this.tweens.add({
+              targets: this.ai,
+              scale: origScaleAI,
+              duration: 100,
+              ease: "Quad.In",
+            });
+          },
+        });
       }
+    }
+
+    // Feature 9: Field edge "magnet" – subtle pull back toward center if too close to sides
+    const fieldEdgeThreshold = 40;
+    const magnetStrength = 50;
+    if (bx < tL + fieldEdgeThreshold && curVx < 0) {
+      this.ball.body!.velocity.x += magnetStrength * dt;
+    }
+    if (bx > tL + tW - fieldEdgeThreshold && curVx > 0) {
+      this.ball.body!.velocity.x -= magnetStrength * dt;
     }
 
     // Suppress unused variable warning (curVx used for momentum via playerVelX)
