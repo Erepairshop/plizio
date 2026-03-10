@@ -45,22 +45,19 @@ class TennisScene extends Phaser.Scene {
   private aiHitCooldown = 0;
   private bounceCount = 0;
   private lastBounceSide: "left" | "right" = "left";
-  private touchDir: -1 | 0 | 1 = 0;
   private lastShakeTime = 0;
   private aiTargetX = GW * 0.78;
   private aiTargetTimer = 0;
   private rally = 0;
-  private dashTimer = 0;
   private aiStyle = Phaser.Math.Between(0, 2);
   private aiCfg!: { speed: number; error: number };
   private lastCheerRally = -999;
   private trailTimer = 0;
-  private servePower = 0;
-  private chargingServe = false;
-  // Swipe smash
-  private swipeStartY = 0;
-  private swipeStartTime = 0;
-  private swipeSmashReady = false;
+  // Swipe-to-hit
+  private swipeStart: { x: number; y: number; time: number } | null = null;
+  private pendingSwipe: { dx: number; dy: number; speed: number } | null = null;
+  private swipeClearTimer = 0;
+  private lastHitter: "player" | "ai" | null = null;
   // Rally combo
   private combo = 0;
 
@@ -492,72 +489,43 @@ class TennisScene extends Phaser.Scene {
   private setupInput() {
     this.cursors = this.input.keyboard!.createCursorKeys();
 
-    // Touch direction: tap LEFT of player → move left, tap RIGHT → move right
-    // This works regardless of where on screen the player is positioned
-    const getTouchDir = (px: number): -1 | 0 | 1 => {
-      if (px < this.playerX - 15) return -1;
-      if (px > this.playerX + 15) return 1;
-      return 0;
-    };
-
-    this.input.on("pointermove", (p: Phaser.Input.Pointer) => {
-      if (!p.isDown) return;
-      this.touchDir = getTouchDir(p.x);
-    });
+    // Swipe-to-hit: record swipe start
     this.input.on("pointerdown", (p: Phaser.Input.Pointer) => {
-      // Track swipe start for swipe smash detection
-      this.swipeStartY = p.y;
-      this.swipeStartTime = this.time.now;
-      this.touchDir = getTouchDir(p.x);
+      this.swipeStart = { x: p.x, y: p.y, time: this.time.now };
     });
+
+    // On release: calculate swipe direction + speed → store as pendingSwipe (valid 700ms)
     this.input.on("pointerup", (p: Phaser.Input.Pointer) => {
-      this.touchDir = 0;
-      // Swipe smash: fast downward swipe within 300ms, not a horizontal scroll
-      const swipeDy = p.y - this.swipeStartY;
-      const swipeDx = Math.abs(p.x - p.downX);
-      const swipeDt = this.time.now - this.swipeStartTime;
-      if (swipeDy > 120 && swipeDt < 300 && swipeDy > swipeDx * 2) {
-        this.swipeSmashReady = true;
+      if (!this.swipeStart) return;
+      const dx = p.x - this.swipeStart.x;
+      const dy = p.y - this.swipeStart.y;
+      const elapsed = Math.max(1, this.time.now - this.swipeStart.time);
+      const dist = Math.sqrt(dx * dx + dy * dy);
+      const speed = dist / elapsed * 1000; // pixels/sec
+      if (dist > 18) {
+        this.pendingSwipe = { dx, dy, speed };
+        this.swipeClearTimer = 700;
       }
-    });
-
-    // Dash (SPACE)
-    this.input.keyboard!.on("keydown-SPACE", () => {
-      this.dashTimer = 320;
-    });
-
-    // Serve power charge (UP hold)
-    this.input.keyboard!.on("keydown-UP", () => {
-      this.chargingServe = true;
-    });
-    this.input.keyboard!.on("keyup-UP", () => {
-      this.chargingServe = false;
-    });
-
-    // Fullscreen on first touch only (app-like experience)
-    this.input.once("pointerdown", () => {
-      if (!this.scale.isFullscreen) {
-        this.scale.startFullscreen();
-      }
+      this.swipeStart = null;
     });
   }
 
   // ─── Serve ──────────────────────────────────────────────────────────────────
   private serve(playerServes: boolean) {
     if (this.gameOver) return;
-    this.swipeSmashReady = false;
     this.bounceCount = 0;
     this.hitCooldown = 0;
     this.aiHitCooldown = 0;
+    this.lastHitter = playerServes ? "player" : "ai";
+    this.pendingSwipe = null;
+    this.swipeClearTimer = 0;
     this.ballInPlay = true;
 
     this.ball.setVisible(true);
     if (playerServes) {
       this.ball.setPosition(this.playerX, GROUND_Y - 55);
-      const aim = (this.playerX - (GW * 0.30)) / (NET_X - GW * 0.30);
-      const angle = Phaser.Math.DegToRad(Phaser.Math.Linear(-30, 30, aim));
-      const speed = 300 + this.servePower * 3;
-      this.servePower = 0;
+      const angle = Phaser.Math.DegToRad(Phaser.Math.Between(-15, 15));
+      const speed = 300;
       this.ball.setVelocity(
         Math.sin(angle) * speed + 260,
         -460 - Math.random() * 80
@@ -725,27 +693,34 @@ class TennisScene extends Phaser.Scene {
 
     if (this.hitCooldown > 0) this.hitCooldown -= delta;
     if (this.aiHitCooldown > 0) this.aiHitCooldown -= delta;
-    if (this.dashTimer > 0) this.dashTimer -= delta;
 
-    // Serve power charging
-    if (this.chargingServe && !this.ballInPlay) {
-      this.servePower = Math.min(100, this.servePower + 2);
+    // Swipe pending timer
+    if (this.swipeClearTimer > 0) {
+      this.swipeClearTimer -= delta;
+      if (this.swipeClearTimer <= 0) this.pendingSwipe = null;
     }
 
-    const PLAYER_SPEED = this.dashTimer > 0 ? 480 : 380;
+    const PLAYER_SPEED = 400;
     const PLAYER_MIN_X = 82;
     const PLAYER_MAX_X = NET_X - 36;
     const AI_MIN_X = NET_X + 36;
     const AI_MAX_X = GW - 82;
 
-    // ─── Player movement ──────────────────────────────────────────────────────
-    const leftDown = this.cursors.left!.isDown;
-    const rightDown = this.cursors.right!.isDown;
-
-    if (leftDown || this.touchDir === -1) {
-      this.playerX = Math.max(PLAYER_MIN_X, this.playerX - PLAYER_SPEED * dt);
-    } else if (rightDown || this.touchDir === 1) {
-      this.playerX = Math.min(PLAYER_MAX_X, this.playerX + PLAYER_SPEED * dt);
+    // ─── Player auto-movement ─────────────────────────────────────────────────
+    if (this.ballInPlay) {
+      if (this.ball.x < NET_X) {
+        // Ball on player's side: auto-move toward the ball
+        const targetX = Phaser.Math.Clamp(this.ball.x, PLAYER_MIN_X, PLAYER_MAX_X);
+        const dx = targetX - this.playerX;
+        const move = PLAYER_SPEED * dt;
+        this.playerX += Math.sign(dx) * Math.min(Math.abs(dx), move);
+      } else {
+        // Ball on AI's side: drift back to ready position
+        const readyX = GW * 0.28;
+        const dx = readyX - this.playerX;
+        this.playerX += Math.sign(dx) * Math.min(Math.abs(dx), PLAYER_SPEED * 0.45 * dt);
+      }
+      this.playerX = Phaser.Math.Clamp(this.playerX, PLAYER_MIN_X, PLAYER_MAX_X);
     }
 
     this.playerCont.x = this.playerX;
@@ -816,11 +791,22 @@ class TennisScene extends Phaser.Scene {
       const bx = this.ball.x;
       const by = this.ball.y;
 
-      if (bx < 36) { this.scorePoint("ai"); return; }
-      if (bx > GW - 36) { this.scorePoint("player"); return; }
-      if (by > GH + 30) { this.scorePoint(bx < NET_X ? "ai" : "player"); return; }
-      // Ball bounced over and past the net without landing (extremely high shot)
-      if (by < -150) { this.scorePoint(bx < NET_X ? "ai" : "player"); return; }
+      // Who last hit → they lose if ball goes out
+      if (bx < 36 || bx > GW - 36) {
+        const loser = this.lastHitter ?? (bx < NET_X ? "player" : "ai");
+        this.scorePoint(loser === "player" ? "ai" : "player");
+        return;
+      }
+      if (by > GH + 40) {
+        const loser = this.lastHitter ?? (bx < NET_X ? "player" : "ai");
+        this.scorePoint(loser === "player" ? "ai" : "player");
+        return;
+      }
+      if (by < -160) {
+        const loser = this.lastHitter ?? (bx < NET_X ? "player" : "ai");
+        this.scorePoint(loser === "player" ? "ai" : "player");
+        return;
+      }
     }
 
     // ─── Ball trail ───────────────────────────────────────────────────────────
@@ -869,6 +855,7 @@ class TennisScene extends Phaser.Scene {
     const isPlayer = hitter === "player";
     if (isPlayer) this.hitCooldown = 550;
     else this.aiHitCooldown = 550;
+    this.lastHitter = hitter;
 
     // Rally counter + combo
     this.rally++;
@@ -901,40 +888,49 @@ class TennisScene extends Phaser.Scene {
     }
 
     if (isPlayer) {
-      // Direction based on player X position in their half
-      const posRatio = (this.playerX - 82) / (NET_X - 36 - 82);
-      const angleDeg = Phaser.Math.Linear(-32, 32, posRatio) + Phaser.Math.FloatBetween(-6, 6);
-      const rad = Phaser.Math.DegToRad(angleDeg);
-      body.velocity.x = Math.sin(rad) * speed + speed * 0.65;
-      body.velocity.y = -(520 + Math.random() * 100);
-      // Topspin: UP key → aggressive upward arc
-      if (this.cursors.up!.isDown) {
-        body.velocity.y -= 120;
+      // ── Swipe → shot direction ───────────────────────────────────────────
+      let angleDeg = 0;   // default: straight toward center
+      let isLob = false;
+      let speedMult = 1.0;
+
+      if (this.pendingSwipe) {
+        const { dx, dy, speed: swipeSpeed } = this.pendingSwipe;
+        const absDx = Math.abs(dx);
+        const absDy = Math.abs(dy);
+
+        // Lob: strong upward swipe
+        if (dy < -55 && absDy > absDx) {
+          isLob = true;
+        } else {
+          // Horizontal direction → cross court or down the line
+          if (dx > 60)       angleDeg = 28;   // hard right
+          else if (dx > 25)  angleDeg = 15;   // gentle right
+          else if (dx < -60) angleDeg = -28;  // hard left
+          else if (dx < -25) angleDeg = -15;  // gentle left
+          // else: straight (0°)
+        }
+
+        // Power scales with swipe speed: 600px/s = normal, 1200px/s = max
+        speedMult = Phaser.Math.Clamp(swipeSpeed / 700, 0.82, 1.38);
+
+        this.pendingSwipe = null;
+        this.swipeClearTimer = 0;
       }
-      // Slice: DOWN key → slow tricky ball
-      if (this.cursors.down!.isDown) {
-        body.velocity.x *= 0.8;
-        body.velocity.y += 120;
-      }
-      // Swipe smash: fast touch downward swipe → power smash
-      if (this.swipeSmashReady) {
-        body.velocity.x *= 1.4;
-        body.velocity.y -= 200;
-        this.swipeSmashReady = false;
-        navigator.vibrate?.([80, 30, 80]);
-        const st = this.add.text(this.playerX, GROUND_Y - 100, "SWIPE SMASH!", {
-          fontSize: "18px", fontFamily: "monospace",
-          color: "#ff2d78", fontStyle: "bold", stroke: "#000", strokeThickness: 3,
-        }).setOrigin(0.5).setDepth(45);
-        this.tweens.add({ targets: st, y: st.y - 50, alpha: 0, duration: 700, onComplete: () => st.destroy() });
-      } else {
-        // Normal hit haptic
-        navigator.vibrate?.(40);
-      }
-      // Push out of hitbox (only if ball hasn't already passed the player)
-      if (this.ball.x < this.playerX + 22) {
-        this.ball.x = this.playerX + 22;
-      }
+
+      const finalSpeed = speed * speedMult;
+      const rad = Phaser.Math.DegToRad(angleDeg + Phaser.Math.FloatBetween(-4, 4));
+      body.velocity.x = Math.sin(rad) * finalSpeed + finalSpeed * 0.65;
+      body.velocity.y = isLob ? -760 : -(510 + Math.random() * 90);
+
+      // Topspin: UP key (desktop)
+      if (this.cursors.up!.isDown) body.velocity.y -= 110;
+      // Slice: DOWN key (desktop)
+      if (this.cursors.down!.isDown) { body.velocity.x *= 0.78; body.velocity.y += 110; }
+
+      navigator.vibrate?.(isLob ? [30, 20, 60] : 38);
+
+      // Push out of hitbox
+      if (this.ball.x < this.playerX + 22) this.ball.x = this.playerX + 22;
     } else {
       const posRatio = (this.aiX - (NET_X + 36)) / (GW - 82 - (NET_X + 36));
       const angleDeg = Phaser.Math.Linear(32, -32, posRatio) + Phaser.Math.FloatBetween(-6, 6);
