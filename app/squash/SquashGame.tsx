@@ -52,6 +52,9 @@ class SquashScene extends Phaser.Scene {
   private by = 0;
   private vx = 0;  // ball velocity
   private vy = 0;
+  // Fake-Z depth: ballZ=0 = on court, ballZ>0 = in the air, shadow scales with it
+  private ballZ  = 0;   // current height above court (px)
+  private ballVZ = 0;   // vertical Z velocity (positive = rising)
 
   // ── Paddle state (smoothed) ───────────────────────────────────────────────
   private padX       = 0;    // actual rendered paddle center
@@ -339,6 +342,8 @@ class SquashScene extends Phaser.Scene {
     this.rally        = 0;
     this.rallyTxt.setText("0");
     this.PAD_W        = this.BASE_PAD_W;  // restore paddle size each round
+    this.ballZ        = 0;
+    this.ballVZ       = 0;
     this.vx = 0;
     this.vy = 0;
     this.trail = [];
@@ -453,12 +458,25 @@ class SquashScene extends Phaser.Scene {
     const isWindow = this.ballState === "hit_window";
     this.drawPaddle(padY, isWindow);
 
-    // Hit-window indicator: subtle vertical side guides
+    // ── Hit-window indicator: pulsing vertical guides ────────────────────
     this.hitWindowGfx.clear();
     if (isWindow) {
-      this.hitWindowGfx.lineStyle(1.5, 0x00ff88, 0.28);
-      this.hitWindowGfx.lineBetween(this.padX - this.PAD_HIT_W, padY - 52, this.padX - this.PAD_HIT_W, padY);
-      this.hitWindowGfx.lineBetween(this.padX + this.PAD_HIT_W, padY - 52, this.padX + this.PAD_HIT_W, padY);
+      const pulse = 0.18 + Math.sin(time * 0.012) * 0.12;   // 0.06 – 0.30
+      const scale = 1 + Math.sin(time * 0.012) * 0.04;       // 0.96 – 1.04
+      const guideH = 52 * scale;
+      this.hitWindowGfx.lineStyle(2, 0x00ff88, pulse);
+      this.hitWindowGfx.lineBetween(this.padX - this.PAD_HIT_W, padY - guideH, this.padX - this.PAD_HIT_W, padY);
+      this.hitWindowGfx.lineBetween(this.padX + this.PAD_HIT_W, padY - guideH, this.padX + this.PAD_HIT_W, padY);
+      // Soft horizontal arc at top of window
+      this.hitWindowGfx.lineStyle(1, 0x00ff88, pulse * 0.5);
+      this.hitWindowGfx.lineBetween(this.padX - this.PAD_HIT_W, padY - guideH, this.padX + this.PAD_HIT_W, padY - guideH);
+    }
+
+    // ── Danger zone pulsing glow — when ball is inside ───────────────────
+    if (this.inDangerZone && !this.serving) {
+      const dPulse = 0.06 + Math.sin(time * 0.018) * 0.05;
+      this.hitWindowGfx.fillStyle(0xff2d78, dPulse);
+      this.hitWindowGfx.fillRect(this.WL, this.DANGER_Y, this.WR - this.WL, this.BY - this.DANGER_Y);
     }
 
     // ── SERVING PHASE ────────────────────────────────────────────────────
@@ -500,10 +518,24 @@ class SquashScene extends Phaser.Scene {
     this.bx += this.vx * dt;
     this.by += this.vy * dt;
 
-    // Trail (colour shifts warmer in hit_window)
-    this.trail.push({ x: this.bx, y: this.by });
-    if (this.trail.length > 12) this.trail.shift();
+    // ── Trail + shadow drawn together in trailGfx ────────────────────────
     this.trailGfx.clear();
+
+    // ── Fake-Z: ball launches up on hit, gravity pulls it back ───────────
+    this.ballZ  += this.ballVZ * dt;
+    this.ballVZ -= 1800 * dt;   // Z gravity (stronger = snappier arc)
+    if (this.ballZ <= 0) { this.ballZ = 0; this.ballVZ = 0; }
+    // Shadow: grows with Z, offset slightly down
+    const shadowScale = 1 + this.ballZ * 0.012;
+    const shadowAlpha = Math.max(0.10, 0.30 - this.ballZ * 0.004);
+    this.trailGfx.fillStyle(0x000000, shadowAlpha);
+    this.trailGfx.fillEllipse(this.bx, this.by + this.BALL_R + 2, this.BALL_R * 2.6 * shadowScale, this.BALL_R * 0.9);
+
+    // ── Trail — dynamic length based on speed ────────────────────────────
+    const spd2d = Math.hypot(this.vx, this.vy);
+    const maxTrail = Phaser.Math.Clamp(Math.floor(spd2d / 80), 6, 16);
+    this.trail.push({ x: this.bx, y: this.by });
+    if (this.trail.length > maxTrail) this.trail.shift();
     const trailColor = isWindow ? 0x00ff88 : 0xffd700;
     for (let i = 0; i < this.trail.length; i++) {
       const t = i / this.trail.length;
@@ -512,12 +544,22 @@ class SquashScene extends Phaser.Scene {
     }
 
     this.ball.x = this.bx;
-    this.ball.y = this.by;
+    this.ball.y = this.by - this.ballZ;   // visual Y offset by Z
 
     const { BALL_R, FWY, DANGER_Y } = this;
 
     // Danger zone tracking
     if (this.by > DANGER_Y) this.inDangerZone = true;
+
+    // ── Rally tension: per-frame micro-acceleration above rally 25 ────────
+    if (this.rally > 25) {
+      const tensionFactor = 1 + 0.03 * dt;   // ~3% / second extra push
+      const newSpd = Math.hypot(this.vx * tensionFactor, this.vy * tensionFactor);
+      if (newSpd <= this.MAX_SPEED) {
+        this.vx *= tensionFactor;
+        this.vy *= tensionFactor;
+      }
+    }
 
     // ── Ball state transitions ────────────────────────────────────────────
     const HIT_ZONE_H = 60;   // px above paddle top
@@ -650,6 +692,8 @@ class SquashScene extends Phaser.Scene {
     this.clampBallAngle();
 
     this.by          = padTop - this.BALL_R - 2;
+    this.ballZ       = 0;
+    this.ballVZ      = 220 + spd * 0.12;  // bigger hit = bigger Z arc
     this.hitCooldown = 180;
     // Squish: paddle instantly widens, then eases back to 1.0
     this.padSquish      = 1.0 + this.SQUISH_AMT;
