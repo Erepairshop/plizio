@@ -45,7 +45,8 @@ class TennisScene extends Phaser.Scene {
   private aiHitCooldown = 0;
   private bounceCount = 0;
   private lastBounceSide: "left" | "right" = "left";
-  private touchTargetX = -1;
+  private touchDir: -1 | 0 | 1 = 0;
+  private lastShakeTime = 0;
   private serveRight = false; // who served last (true = player, false = ai)
   private aiTargetX = GW * 0.78;
   private aiTargetTimer = 0;
@@ -497,31 +498,26 @@ class TennisScene extends Phaser.Scene {
       if (!p.isDown) return;
       // Big touch zones: left 40% = move left, right 40% = move right (middle 20% = neutral)
       const zone = p.x / GW;
-      if (zone < 0.4) {
-        this.playerX -= 8;
-      } else if (zone > 0.6) {
-        this.playerX += 8;
-      }
-      this.touchTargetX = Phaser.Math.Clamp(this.playerX, 80, NET_X - 35);
+      if (zone < 0.4) this.touchDir = -1;
+      else if (zone > 0.6) this.touchDir = 1;
+      else this.touchDir = 0;
     });
     this.input.on("pointerdown", (p: Phaser.Input.Pointer) => {
       // Track swipe start for swipe smash detection
       this.swipeStartY = p.y;
       this.swipeStartTime = this.time.now;
       const zone = p.x / GW;
-      if (zone < 0.4) {
-        this.playerX -= 8;
-      } else if (zone > 0.6) {
-        this.playerX += 8;
-      }
-      this.touchTargetX = Phaser.Math.Clamp(this.playerX, 80, NET_X - 35);
+      if (zone < 0.4) this.touchDir = -1;
+      else if (zone > 0.6) this.touchDir = 1;
+      else this.touchDir = 0;
     });
     this.input.on("pointerup", (p: Phaser.Input.Pointer) => {
-      this.touchTargetX = -1;
-      // Swipe smash: fast downward swipe within 300ms
+      this.touchDir = 0;
+      // Swipe smash: fast downward swipe within 300ms, not a horizontal scroll
       const swipeDy = p.y - this.swipeStartY;
+      const swipeDx = Math.abs(p.x - p.downX);
       const swipeDt = this.time.now - this.swipeStartTime;
-      if (swipeDy > 120 && swipeDt < 300) {
+      if (swipeDy > 120 && swipeDt < 300 && swipeDy > swipeDx * 2) {
         this.swipeSmashReady = true;
       }
     });
@@ -630,7 +626,7 @@ class TennisScene extends Phaser.Scene {
       speed: { min: 20, max: 120 },
       angle: { min: 220, max: 320 },
       lifespan: 300,
-      quantity: 8,
+      quantity: 4,
       scale: { start: 0.6, end: 0 },
     });
     particles.setDepth(12);
@@ -657,8 +653,11 @@ class TennisScene extends Phaser.Scene {
 
     this.scoreTxt.setText(`${this.playerScore} • ${this.aiScore}`);
 
-    // Crowd reaction: flash + shake
-    this.cameras.main.shake(120, 0.004);
+    // Crowd reaction: flash + shake (guard against stacking)
+    if (this.time.now - this.lastShakeTime > 200) {
+      this.cameras.main.shake(120, 0.004);
+      this.lastShakeTime = this.time.now;
+    }
     this.cameras.main.flash(200, 255, 255, 255, false);
 
     // Flash overlay
@@ -743,14 +742,10 @@ class TennisScene extends Phaser.Scene {
     const leftDown = this.cursors.left!.isDown;
     const rightDown = this.cursors.right!.isDown;
 
-    if (leftDown) {
+    if (leftDown || this.touchDir === -1) {
       this.playerX = Math.max(PLAYER_MIN_X, this.playerX - PLAYER_SPEED * dt);
-    } else if (rightDown) {
+    } else if (rightDown || this.touchDir === 1) {
       this.playerX = Math.min(PLAYER_MAX_X, this.playerX + PLAYER_SPEED * dt);
-    } else if (this.touchTargetX > 0) {
-      const dx = this.touchTargetX - this.playerX;
-      const move = PLAYER_SPEED * dt;
-      this.playerX += Math.sign(dx) * Math.min(Math.abs(dx), move);
     }
 
     this.playerCont.x = this.playerX;
@@ -989,8 +984,11 @@ class TennisScene extends Phaser.Scene {
       });
     }
 
-    // Camera shake (stronger for smash)
-    this.cameras.main.shake(isSmash ? 80 : 22, isSmash ? 0.01 : 0.003);
+    // Camera shake (stronger for smash, guard against stacking)
+    if (this.time.now - this.lastShakeTime > 200) {
+      this.cameras.main.shake(isSmash ? 80 : 22, isSmash ? 0.01 : 0.003);
+      this.lastShakeTime = this.time.now;
+    }
 
     // Ball squash on hit
     this.ball.setScale(1.5, 0.62);
@@ -1003,9 +1001,9 @@ class TennisScene extends Phaser.Scene {
     const spin = Phaser.Math.FloatBetween(-40, 40);
     body.velocity.x += spin;
 
-    // Speed increase per rally (5% per hit)
-    body.velocity.x *= 1.05;
-    body.velocity.y *= 1.05;
+    // Speed increase per rally (2% per hit — subtle escalation)
+    body.velocity.x *= 1.02;
+    body.velocity.y *= 1.02;
 
     // Net lift: ha közel a hálóhoz, extra emелés
     if (Math.abs(this.ball.x - NET_X) < 120) {
