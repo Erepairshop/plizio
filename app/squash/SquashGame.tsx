@@ -5,7 +5,57 @@ import { useEffect, useRef } from "react";
 
 interface Props {
   onGameEnd: (score: number) => void;
+  lang?: string;
 }
+
+// ── Translations ──────────────────────────────────────────────────────────────
+const SQUASH_T = {
+  en: {
+    tapToServe: "TAP TO SERVE", frontWall: "▲ FRONT WALL",
+    plusZone: "⚡ +2 ZONE", serviceLine: "SERVICE LINE",
+    niceRally: "🎯 NICE RALLY!", hotStreak: "🔥 HOT STREAK! x10",
+    rallyMaster: "⚡ RALLY MASTER! x20", chaosMode: "💀 CHAOS MODE! x30",
+    insanity: "🌀 INSANITY! x45", minPaddle: "😈 MINIMUM PADDLE!",
+    cornerShot: "🎯 CORNER SHOT! +5", danger: "DANGER!",
+    gameOver: "GAME OVER", scoreLbl: "Score:", bestRallyLbl: "Best Rally:",
+    maxAngleLbl: "Max Angle:", speedLbl: "SPEED",
+    rallyTitle: "RALLY", bestTitle: "BEST", scoreTitle: "SCORE",
+  },
+  hu: {
+    tapToServe: "ÉRINTSD MEG A TÁLALÁSHOZ", frontWall: "▲ ELÜLSŐ FAL",
+    plusZone: "⚡ +2 ZÓNA", serviceLine: "TÁLALÓVONAL",
+    niceRally: "🎯 SZÉP MENET!", hotStreak: "🔥 TŰZ MENET! x10",
+    rallyMaster: "⚡ MENETMESTER! x20", chaosMode: "💀 KÁOSZ MÓD! x30",
+    insanity: "🌀 ŐRÜLET! x45", minPaddle: "😈 MINIMUM ÜTŐ!",
+    cornerShot: "🎯 SAROKLÖVÉS! +5", danger: "VESZÉLY!",
+    gameOver: "JÁTÉK VÉGE", scoreLbl: "Pont:", bestRallyLbl: "Legjobb menet:",
+    maxAngleLbl: "Max szög:", speedLbl: "SEBESSÉG",
+    rallyTitle: "MENET", bestTitle: "LEGJOBB", scoreTitle: "PONT",
+  },
+  de: {
+    tapToServe: "TIPPEN ZUM AUFSCHLAG", frontWall: "▲ VORDERWAND",
+    plusZone: "⚡ +2 ZONE", serviceLine: "AUFSCHLAGLINIE",
+    niceRally: "🎯 TOLLER BALLWECHSEL!", hotStreak: "🔥 HEISSE SERIE! x10",
+    rallyMaster: "⚡ BALLWECHSEL-MEISTER! x20", chaosMode: "💀 CHAOS-MODUS! x30",
+    insanity: "🌀 WAHNSINN! x45", minPaddle: "😈 MINIMAL-SCHLÄGER!",
+    cornerShot: "🎯 ECKSCHUSS! +5", danger: "GEFAHR!",
+    gameOver: "SPIEL VORBEI", scoreLbl: "Punkte:", bestRallyLbl: "Bester Ballwechsel:",
+    maxAngleLbl: "Max Winkel:", speedLbl: "TEMPO",
+    rallyTitle: "BALLWECHSEL", bestTitle: "BEST", scoreTitle: "PUNKTE",
+  },
+  ro: {
+    tapToServe: "ATINGE PENTRU SERVICIU", frontWall: "▲ PERETE FRONTAL",
+    plusZone: "⚡ +2 ZONĂ", serviceLine: "LINIA DE SERVICIU",
+    niceRally: "🎯 SCHIMB FRUMOS!", hotStreak: "🔥 SERIE CALDĂ! x10",
+    rallyMaster: "⚡ MAESTRUL SCHIMBULUI! x20", chaosMode: "💀 MOD HAOS! x30",
+    insanity: "🌀 NEBUNIE! x45", minPaddle: "😈 PALETĂ MINIMĂ!",
+    cornerShot: "🎯 LOV DE COLȚ! +5", danger: "PERICOL!",
+    gameOver: "JOC TERMINAT", scoreLbl: "Scor:", bestRallyLbl: "Cel mai bun schimb:",
+    maxAngleLbl: "Unghi maxim:", speedLbl: "VITEZĂ",
+    rallyTitle: "SCHIMB", bestTitle: "CEL MAI BUN", scoreTitle: "SCOR",
+  },
+} as const;
+type SquashLang = keyof typeof SQUASH_T;
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Ball state machine
@@ -77,8 +127,10 @@ class SquashScene extends Phaser.Scene {
   private rally       = 0;
   private bestRally   = 0;
   private score       = 0;
-  private lives       = 3;
   private speedMult   = 1.0;
+
+  public lang: string = "en";
+  private get tr() { return SQUASH_T[(this.lang as SquashLang)] ?? SQUASH_T.en; }
 
   // ── Phase flags ───────────────────────────────────────────────────────────
   private hitCooldown  = 0;
@@ -95,7 +147,6 @@ class SquashScene extends Phaser.Scene {
   private scoreTxt!:  Phaser.GameObjects.Text;
   private serveTxt!:  Phaser.GameObjects.Text;
   private speedTxt!:  Phaser.GameObjects.Text;
-  private heartsTxt!: Phaser.GameObjects.Text;
 
   // ── Input ─────────────────────────────────────────────────────────────────
   private leftKey!:  Phaser.Input.Keyboard.Key;
@@ -135,7 +186,7 @@ class SquashScene extends Phaser.Scene {
     this.drawCourt();
 
     // ── HUD ──────────────────────────────────────────────────────────────
-    this.add.text(W / 2, 12, "SCORE", {
+    this.add.text(W / 2, 12, this.tr.scoreTitle, {
       fontSize: "9px", fontFamily: "monospace",
       color: "#ffffff55", fontStyle: "bold",
     }).setOrigin(0.5).setDepth(10);
@@ -145,7 +196,7 @@ class SquashScene extends Phaser.Scene {
       color: "#00ff88", fontStyle: "bold",
     }).setOrigin(0.5).setDepth(10);
 
-    this.add.text(W * 0.25, 12, "RALLY", {
+    this.add.text(W * 0.25, 12, this.tr.rallyTitle, {
       fontSize: "9px", fontFamily: "monospace",
       color: "#ffffff44", fontStyle: "bold",
     }).setOrigin(0.5).setDepth(10);
@@ -155,7 +206,7 @@ class SquashScene extends Phaser.Scene {
       color: "#ffffff70", fontStyle: "bold",
     }).setOrigin(0.5).setDepth(10);
 
-    this.add.text(W - 12, 12, "BEST", {
+    this.add.text(W - 12, 12, this.tr.bestTitle, {
       fontSize: "9px", fontFamily: "monospace",
       color: "#ffffff44", fontStyle: "bold",
     }).setOrigin(1, 0).setDepth(10);
@@ -165,12 +216,6 @@ class SquashScene extends Phaser.Scene {
       color: "#ffd70088", fontStyle: "bold",
     }).setOrigin(1, 0).setDepth(10);
 
-    // Lives (top left)
-    this.heartsTxt = this.add.text(12, 14, "", {
-      fontSize: "16px", fontFamily: "monospace",
-    }).setDepth(10);
-    this.updateLivesDisplay();
-
     // Speed indicator
     this.speedTxt = this.add.text(W - 12, 48, "", {
       fontSize: "9px", fontFamily: "monospace",
@@ -178,7 +223,7 @@ class SquashScene extends Phaser.Scene {
     }).setOrigin(1, 0).setDepth(10);
 
     // Serve prompt
-    this.serveTxt = this.add.text(W / 2, H * 0.64, "TAP TO SERVE", {
+    this.serveTxt = this.add.text(W / 2, H * 0.64, this.tr.tapToServe, {
       fontSize: "15px", fontFamily: "monospace",
       color: "#00d4ffcc", fontStyle: "bold",
     }).setOrigin(0.5).setDepth(15);
@@ -287,33 +332,22 @@ class SquashScene extends Phaser.Scene {
     g.lineBetween(WL, BY, WR, BY);
 
     // ── 8. LABELS ──────────────────────────────────────────────────────────
-    // Front wall label — icon + text
-    this.add.text(WL + bandW + 6, FWY - 20, "▲ FRONT WALL", {
+    this.add.text(WL + bandW + 6, FWY - 20, this.tr.frontWall, {
       fontSize: "8px", color: "#00ff8899",
       fontFamily: "monospace", fontStyle: "bold",
       stroke: "#00220022", strokeThickness: 2,
     }).setDepth(10);
 
-    // Danger zone label — icon + score hint
-    this.add.text(WR - bandW - 6, DANGER_Y - 16, "⚡ +2 ZONE", {
+    this.add.text(WR - bandW - 6, DANGER_Y - 16, this.tr.plusZone, {
       fontSize: "8px", color: "#ff2d78cc",
       fontFamily: "monospace", fontStyle: "bold",
       stroke: "#22000022", strokeThickness: 2,
     }).setOrigin(1, 0).setDepth(10);
 
-    // Service line label (faint, center)
-    this.add.text((WL + WR) / 2, midY + 3, "SERVICE LINE", {
+    this.add.text((WL + WR) / 2, midY + 3, this.tr.serviceLine, {
       fontSize: "7px", color: "#00ff8833",
       fontFamily: "monospace",
     }).setOrigin(0.5, 0).setDepth(10);
-  }
-
-  // ── updateLivesDisplay ────────────────────────────────────────────────────
-  private updateLivesDisplay() {
-    let s = "";
-    for (let i = 0; i < 3; i++) s += i < this.lives ? "♥ " : "· ";
-    this.heartsTxt.setText(s.trim());
-    this.heartsTxt.setColor(this.lives > 1 ? "#ff2d78" : "#ff6666");
   }
 
   // ── positionBallOnPaddle ──────────────────────────────────────────────────
@@ -641,7 +675,7 @@ class SquashScene extends Phaser.Scene {
         this.spawnRipple(this.bx, FWY, 0xffaa00);   // gold ripple
         this.spawnRipple(this.bx, FWY, 0xff6600);
         this.addScorePopup(5, this.bx, FWY - 20, false);
-        this.showMilestoneBanner("🎯 CORNER SHOT! +5", "#ffaa00");
+        this.showMilestoneBanner(this.tr.cornerShot, "#ffaa00");
         this.cameras.main.shake(20, 0.005);
       } else {
         this.spawnRipple(this.bx, FWY, 0x00ff88);
@@ -772,7 +806,7 @@ class SquashScene extends Phaser.Scene {
     const MIN_PAD_W = 25;  // absolute minimum half-width (50px total)
     this.PAD_W = Math.max(MIN_PAD_W, Math.round(this.BASE_PAD_W * (1 - Math.min(this.rally, 50) / 50 * 0.63)));
     if (this.PAD_W < prevPadW && this.rally === 50) {
-      this.showMilestoneBanner("😈 MINIMUM PADDLE!", "#ff6600");
+      this.showMilestoneBanner(this.tr.minPaddle, "#ff6600");
     }
 
     // Rally pulse
@@ -792,11 +826,11 @@ class SquashScene extends Phaser.Scene {
     this.rallyTxt.setColor(rallyColor);
 
     // ── Rally milestone banners ───────────────────────────────────────────
-    if (this.rally ===  5) this.showMilestoneBanner("🎯 NICE RALLY!", "#ffffff");
-    if (this.rally === 10) this.showMilestoneBanner("🔥 HOT STREAK! x10", "#00d4ff");
-    if (this.rally === 20) this.showMilestoneBanner("⚡ RALLY MASTER! x20", "#ffcc00");
-    if (this.rally === 30) this.showMilestoneBanner("💀 CHAOS MODE! x30", "#ff4444");
-    if (this.rally === 45) this.showMilestoneBanner("🌀 INSANITY! x45", "#ff00ff");
+    if (this.rally ===  5) this.showMilestoneBanner(this.tr.niceRally,   "#ffffff");
+    if (this.rally === 10) this.showMilestoneBanner(this.tr.hotStreak,   "#00d4ff");
+    if (this.rally === 20) this.showMilestoneBanner(this.tr.rallyMaster, "#ffcc00");
+    if (this.rally === 30) this.showMilestoneBanner(this.tr.chaosMode,   "#ff4444");
+    if (this.rally === 45) this.showMilestoneBanner(this.tr.insanity,    "#ff00ff");
   }
 
   // ── triggerMiss ───────────────────────────────────────────────────────────
@@ -840,7 +874,7 @@ class SquashScene extends Phaser.Scene {
       ease: "Back.Out",
     });
 
-    const label = isDanger ? `+${pts} DANGER!` : `+${pts}`;
+    const label = isDanger ? `+${pts} ${this.tr.danger}` : `+${pts}`;
     const color = isDanger ? "#ff2d78" : "#ffd700";
     const size  = isDanger ? "14px" : "12px";
 
@@ -858,11 +892,9 @@ class SquashScene extends Phaser.Scene {
 
   // ── flashSpeedUp ──────────────────────────────────────────────────────────
   private flashSpeedUp() {
-    const W   = this.scale.width;
     const pct = Math.round((this.speedMult - 1) * 100);
-    this.speedTxt.setText(`SPEED +${pct}%`);
-
-    this.showMilestoneBanner(`SPEED +${pct}%`, "#ffaa00");
+    this.speedTxt.setText(`${this.tr.speedLbl} +${pct}%`);
+    this.showMilestoneBanner(`${this.tr.speedLbl} +${pct}%`, "#ffaa00");
   }
 
   // ── showMilestoneBanner ───────────────────────────────────────────────────
@@ -878,8 +910,8 @@ class SquashScene extends Phaser.Scene {
     this.tweens.add({
       targets: banner,
       alpha: 1, y: yE,
-      duration: 180,
-      yoyo: true, hold: 380,
+      duration: 220,
+      yoyo: true, hold: 1200,
       ease: "Quad.Out",
       onComplete: () => banner.destroy(),
     });
@@ -887,15 +919,8 @@ class SquashScene extends Phaser.Scene {
 
   // ── handleLifeLost ────────────────────────────────────────────────────────
   private handleLifeLost() {
-    this.lives--;
-    this.updateLivesDisplay();
     this.cameras.main.shake(35, 0.010);
-
-    if (this.lives <= 0) {
-      this.endGame();
-    } else {
-      this.time.delayedCall(320, () => this.resetToServe());
-    }
+    this.endGame();
   }
 
   // ── endGame ───────────────────────────────────────────────────────────────
@@ -915,20 +940,20 @@ class SquashScene extends Phaser.Scene {
     overlay.fillRect(0, 0, W, H);
     overlay.setDepth(15);
 
-    this.add.text(W / 2, H / 2 - 75, "GAME OVER", {
+    this.add.text(W / 2, H / 2 - 75, this.tr.gameOver, {
       fontSize: "40px", fontFamily: "monospace", color: "#ff2d78", fontStyle: "bold",
     }).setOrigin(0.5).setDepth(20);
 
-    this.add.text(W / 2, H / 2 - 16, `Score: ${this.score}`, {
+    this.add.text(W / 2, H / 2 - 16, `${this.tr.scoreLbl} ${this.score}`, {
       fontSize: "32px", fontFamily: "monospace", color: "#00ff88", fontStyle: "bold",
     }).setOrigin(0.5).setDepth(20);
 
-    this.add.text(W / 2, H / 2 + 28, `Best Rally: ${this.bestRally}`, {
+    this.add.text(W / 2, H / 2 + 28, `${this.tr.bestRallyLbl} ${this.bestRally}`, {
       fontSize: "17px", fontFamily: "monospace", color: "#ffffff70",
     }).setOrigin(0.5).setDepth(20);
 
     if (this.bestRally >= 10) {
-      this.add.text(W / 2, H / 2 + 56, `Max Angle: ${this.getDynamicMaxAngle()}°`, {
+      this.add.text(W / 2, H / 2 + 56, `${this.tr.maxAngleLbl} ${this.getDynamicMaxAngle()}°`, {
         fontSize: "12px", fontFamily: "monospace", color: "#ffaa0055",
       }).setOrigin(0.5).setDepth(20);
     }
@@ -1111,7 +1136,7 @@ class SquashScene extends Phaser.Scene {
 // ─────────────────────────────────────────────────────────────────────────────
 // React wrapper
 // ─────────────────────────────────────────────────────────────────────────────
-export default function SquashGame({ onGameEnd }: Props) {
+export default function SquashGame({ onGameEnd, lang = "en" }: Props) {
   const containerRef = useRef<HTMLDivElement>(null);
   const gameRef      = useRef<Phaser.Game | null>(null);
 
@@ -1120,6 +1145,7 @@ export default function SquashGame({ onGameEnd }: Props) {
 
     const scene = new SquashScene();
     scene.onGameEnd = onGameEnd;
+    scene.lang = lang;
 
     gameRef.current = new Phaser.Game({
       type:            Phaser.AUTO,

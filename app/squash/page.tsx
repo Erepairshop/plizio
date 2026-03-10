@@ -149,7 +149,7 @@ export default function SquashPage() {
                 className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 transition-colors text-sm font-bold"
               >✕</button>
             </div>
-            <SquashGame key={gameKey} onGameEnd={handleGameEnd} />
+            <SquashGame key={gameKey} onGameEnd={handleGameEnd} lang={lang} />
           </div>
         </div>
       )}
