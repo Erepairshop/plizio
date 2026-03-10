@@ -47,6 +47,8 @@ class SquashScene extends Phaser.Scene {
   private trailGfx!:     Phaser.GameObjects.Graphics;
   private courtGfx!:     Phaser.GameObjects.Graphics;
   private hitWindowGfx!: Phaser.GameObjects.Graphics;  // hit window indicator
+  private comboBarGfx!:  Phaser.GameObjects.Graphics;  // rally combo bar
+  private edgeGlowGfx!:  Phaser.GameObjects.Graphics;  // danger zone screen edge
 
   private bx = 0;  // ball position
   private by = 0;
@@ -190,12 +192,14 @@ class SquashScene extends Phaser.Scene {
       ease: "Sine.InOut",
     });
 
-    // Trail, ball, paddle, hit-window indicator
+    // Trail, ball, paddle, hit-window indicator, combo bar, edge glow
+    this.edgeGlowGfx  = this.add.graphics().setDepth(2);
     this.trailGfx     = this.add.graphics().setDepth(3);
     this.hitWindowGfx = this.add.graphics().setDepth(4);
     this.ball         = this.add.arc(0, 0, this.BALL_R, 0, 360, false, 0xffd700, 1);
     this.ball.setDepth(6);
     this.paddleGfx    = this.add.graphics().setDepth(7);
+    this.comboBarGfx  = this.add.graphics().setDepth(11);
 
     // Input
     this.leftKey  = this.input.keyboard!.addKey(Phaser.Input.Keyboard.KeyCodes.LEFT);
@@ -485,6 +489,29 @@ class SquashScene extends Phaser.Scene {
       this.hitWindowGfx.fillRect(this.WL, this.DANGER_Y, this.WR - this.WL, this.BY - this.DANGER_Y);
     }
 
+    // ── Combo bar (below rally text) ─────────────────────────────────────
+    this.drawComboBar(time);
+
+    // ── Screen edge danger glow ───────────────────────────────────────────
+    this.edgeGlowGfx.clear();
+    if (this.inDangerZone && !this.serving) {
+      const W = this.scale.width;
+      const H = this.scale.height;
+      const ep = 0.07 + Math.sin(time * 0.018) * 0.05;
+      // Red vignette on all four edges
+      for (let i = 0; i < 4; i++) {
+        this.edgeGlowGfx.fillStyle(0xff2d78, ep * (1 - i * 0.22));
+        this.edgeGlowGfx.fillRect(0, H - (i + 1) * 12, W, 12);
+      }
+    }
+
+    // ── Score text color: danger = warmer red ─────────────────────────────
+    if (this.inDangerZone && !this.serving) {
+      this.scoreTxt.setColor("#ff8844");
+    } else {
+      this.scoreTxt.setColor("#00ff88");
+    }
+
     // ── SERVING PHASE ────────────────────────────────────────────────────
     if (this.serving) {
       this.bx = this.padX;
@@ -760,9 +787,19 @@ class SquashScene extends Phaser.Scene {
       ease: "Back.Out",
     });
 
-    // Rally milestone banners (10 / 20)
-    if (this.rally === 10) this.showMilestoneBanner("RALLY x10 — WIDER ANGLES!", "#00d4ff");
-    if (this.rally === 20) this.showMilestoneBanner("RALLY x20 — MAXIMUM CHAOS!", "#ff2d78");
+    // ── Rally color: white → green → yellow → red ────────────────────────
+    const rallyColor =
+      this.rally >= 30 ? "#ff4444" :
+      this.rally >= 20 ? "#ffcc00" :
+      this.rally >= 10 ? "#00ff88" : "#ffffff99";
+    this.rallyTxt.setColor(rallyColor);
+
+    // ── Rally milestone banners ───────────────────────────────────────────
+    if (this.rally ===  5) this.showMilestoneBanner("🎯 NICE RALLY!", "#ffffff");
+    if (this.rally === 10) this.showMilestoneBanner("🔥 HOT STREAK! x10", "#00d4ff");
+    if (this.rally === 20) this.showMilestoneBanner("⚡ RALLY MASTER! x20", "#ffcc00");
+    if (this.rally === 30) this.showMilestoneBanner("💀 CHAOS MODE! x30", "#ff4444");
+    if (this.rally === 45) this.showMilestoneBanner("🌀 INSANITY! x45", "#ff00ff");
   }
 
   // ── triggerMiss ───────────────────────────────────────────────────────────
@@ -796,6 +833,15 @@ class SquashScene extends Phaser.Scene {
   private addScorePopup(pts: number, x: number, y: number, isDanger: boolean) {
     this.score += pts;
     this.scoreTxt.setText(String(this.score));
+
+    // Score text pop: scale 1 → 1.25 → 1
+    this.tweens.add({
+      targets: this.scoreTxt,
+      scaleX: 1.25, scaleY: 1.25,
+      duration: 70,
+      yoyo: true,
+      ease: "Back.Out",
+    });
 
     const label = isDanger ? `+${pts} DANGER!` : `+${pts}`;
     const color = isDanger ? "#ff2d78" : "#ffd700";
@@ -983,13 +1029,71 @@ class SquashScene extends Phaser.Scene {
 
     this.tweens.add({
       targets: ring,
-      scaleX: 4.5,
-      scaleY: 3.5,
-      alpha: 0,
-      duration: 230,
+      scaleX: 4.5, scaleY: 3.5,
+      alpha: 0, duration: 230,
       ease: "Quad.Out",
       onComplete: () => ring.destroy(),
     });
+
+    // Spark burst: 6 lines radiating outward
+    const sparkAngles = [0, 60, 120, 180, 240, 300];
+    sparkAngles.forEach(deg => {
+      const rad = Phaser.Math.DegToRad(deg);
+      const len = 10;
+      const spark = this.add.graphics().setDepth(9);
+      spark.lineStyle(1.5, 0xffffff, 0.9);
+      spark.lineBetween(hitX, cy, hitX + Math.cos(rad) * len, cy + Math.sin(rad) * len);
+      this.tweens.add({
+        targets: spark,
+        x: Math.cos(rad) * 18,
+        y: Math.sin(rad) * 12,
+        scaleX: 0.2, scaleY: 0.2,
+        alpha: 0, duration: 220,
+        ease: "Quad.Out",
+        onComplete: () => spark.destroy(),
+      });
+    });
+  }
+
+  // ── drawComboBar — rally progress bar below rally number ──────────────────
+  private drawComboBar(time: number) {
+    const g    = this.comboBarGfx;
+    const W    = this.scale.width;
+    const cx   = W * 0.25;
+    const barY = 54;          // just below the rally number
+    const barW = 56;          // total bar width (half)
+    const segs = 10;
+    const segW = (barW * 2) / segs;
+    const gap  = 2;
+
+    g.clear();
+
+    for (let i = 0; i < segs; i++) {
+      const filled = i < Math.min(this.rally, segs);
+      const sx     = cx - barW + i * segW;
+
+      // Filled color tier
+      const col =
+        this.rally >= 30 ? 0xff4444 :
+        this.rally >= 20 ? 0xffcc00 :
+        this.rally >= 10 ? 0x00ff88 : 0x5599ff;
+
+      if (filled) {
+        // Glow halo behind segment (rally 10+)
+        if (this.rally >= 10) {
+          const glowAlpha = this.rally >= 20
+            ? 0.15 + Math.sin(time * 0.012) * 0.10   // pulsing at 20+
+            : 0.10;
+          g.fillStyle(col, glowAlpha);
+          g.fillRect(sx - 1, barY - 1, segW - gap + 2, 6);
+        }
+        g.fillStyle(col, 0.90);
+        g.fillRect(sx, barY, segW - gap, 4);
+      } else {
+        g.fillStyle(0xffffff, 0.08);
+        g.fillRect(sx, barY, segW - gap, 4);
+      }
+    }
   }
 
   // ── spawnRipple ───────────────────────────────────────────────────────────
