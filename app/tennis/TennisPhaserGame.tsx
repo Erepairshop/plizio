@@ -381,8 +381,8 @@ class TennisScene extends Phaser.Scene {
     // Ball
     this.ball = this.physics.add.image(NET_X, 260, "tball");
     (this.ball.body as Phaser.Physics.Arcade.Body).setCircle(14);
-    this.ball.setBounce(0.62, 0.62);
-    this.ball.setDrag(18, 0);
+    this.ball.setBounce(0.55, 0.75);
+    this.ball.setDrag(20, 5);
     this.ball.setMaxVelocity(620, 850);
     this.ball.setDepth(20);
     this.ball.setVisible(false);
@@ -561,7 +561,7 @@ class TennisScene extends Phaser.Scene {
       this.servePower = 0;
       this.ball.setVelocity(
         Math.sin(angle) * speed + 260,
-        -380 - Math.random() * 70
+        -460 - Math.random() * 80
       );
       this.lastBounceSide = "left";
     } else {
@@ -570,7 +570,7 @@ class TennisScene extends Phaser.Scene {
       const speed = 360 + Math.random() * 60;
       this.ball.setVelocity(
         Math.sin(angle) * speed - 260,
-        -380 - Math.random() * 70
+        -460 - Math.random() * 80
       );
       this.lastBounceSide = "right";
     }
@@ -767,7 +767,14 @@ class TennisScene extends Phaser.Scene {
       if (this.aiTargetTimer <= 0) {
         if (this.ball.x > NET_X || bvx > 0) {
           const errorOffset = (Math.random() - 0.5) * aiCfg.error;
-          const predictedX = this.ball.x + (bvx * 0.25);
+          // Estimate landing X using kinematic projection
+          const bvy = (this.ball.body as Phaser.Physics.Arcade.Body).velocity.y;
+          const gravity = 900;
+          const dy = GROUND_Y - 45 - this.ball.y;
+          // t = (-bvy + sqrt(bvy² + 2*g*dy)) / g
+          const disc = bvy * bvy + 2 * gravity * dy;
+          const t = disc > 0 ? (-bvy + Math.sqrt(disc)) / gravity : 0.25;
+          const predictedX = this.ball.x + bvx * Math.min(t, 0.8);
           this.aiTargetX = Phaser.Math.Clamp(predictedX + errorOffset, AI_MIN_X, AI_MAX_X);
         }
         this.aiTargetTimer = 300;
@@ -804,7 +811,9 @@ class TennisScene extends Phaser.Scene {
       const dy = by - (GROUND_Y - 45);
       const dist = Math.sqrt(dx * dx + dy * dy);
 
-      if (dist < 80 && bx > NET_X + 20) {
+      // Only hit when ball is within reachable height window
+      const inHeightWindow = by > GROUND_Y - 200 && by < GROUND_Y + 10;
+      if (dist < 80 && bx > NET_X + 20 && inHeightWindow) {
         this.hitBall("ai", dist);
       }
     }
@@ -904,7 +913,7 @@ class TennisScene extends Phaser.Scene {
       const angleDeg = Phaser.Math.Linear(-32, 32, posRatio) + Phaser.Math.FloatBetween(-6, 6);
       const rad = Phaser.Math.DegToRad(angleDeg);
       body.velocity.x = Math.sin(rad) * speed + speed * 0.65;
-      body.velocity.y = -(420 + Math.random() * 80);
+      body.velocity.y = -(520 + Math.random() * 100);
       // Topspin: UP key → aggressive upward arc
       if (this.cursors.up!.isDown) {
         body.velocity.y -= 120;
@@ -938,7 +947,7 @@ class TennisScene extends Phaser.Scene {
       const angleDeg = Phaser.Math.Linear(32, -32, posRatio) + Phaser.Math.FloatBetween(-6, 6);
       const rad = Phaser.Math.DegToRad(angleDeg);
       body.velocity.x = Math.sin(rad) * speed - speed * 0.65;
-      body.velocity.y = -(420 + Math.random() * 80);
+      body.velocity.y = -(520 + Math.random() * 100);
       // AI mistake: 5% chance of a weak hit
       if (Math.random() < 0.05) {
         body.velocity.x *= 0.4;
