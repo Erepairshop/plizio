@@ -48,6 +48,10 @@ class PingPongScene extends Phaser.Scene {
   private playerVelX = 0;
   private playerVelY = 0;
 
+  // AI smooth target (recalculated once per ball approach, not every frame)
+  private aiFixedTargetX = -1;
+  private aiLastBallVySign = 0;
+
   // Flickering fix: hit cooldown prevents multi-trigger
   private hitCooldown = 0;
   private readonly HIT_COOLDOWN_MS = 160;
@@ -533,7 +537,7 @@ class PingPongScene extends Phaser.Scene {
 
     // ─── Ball height simulation (for shadow scaling) ──────────────────
     // Ball is "in the air" between the two bounce lines; peaks at center
-    const bounceLineAI = tT + tH * 0.30;
+    const bounceLineAI = tT + tH * 0.38;
     const bounceLinePlayer = tT + tH * 0.70;
     const ballCenterY = tT + tH * 0.50;
     let ballZ = 0;
@@ -658,19 +662,28 @@ class PingPongScene extends Phaser.Scene {
     let aiMoveSpeed: number;
 
     if (ballVyAI < -20) {
-      // Ball heading toward AI — predict X intercept
-      const aiIntercept = tT + tH * 0.18; // where AI likes to hit from
-      const timeToReach = Math.abs((this.ball.y - aiIntercept) / (ballVyAI + 0.01));
-      const predictedX = this.ball.x + ballVxAI * timeToReach;
-      aiTargetX = Phaser.Math.Clamp(
-        predictedX + (Math.random() - 0.5) * this.aiError,
-        tL + R, tL + tW - R,
-      );
-      aiTargetY = aiIntercept;
+      // Ball heading toward AI — recalculate target only once per approach
+      const curSign = -1;
+      if (this.aiLastBallVySign !== curSign) {
+        this.aiLastBallVySign = curSign;
+        const aiIntercept = tT + tH * 0.18;
+        const timeToReach = Math.abs((this.ball.y - aiIntercept) / (ballVyAI + 0.01));
+        const predictedX = this.ball.x + ballVxAI * timeToReach;
+        this.aiFixedTargetX = Phaser.Math.Clamp(
+          predictedX + (Math.random() - 0.5) * this.aiError,
+          R, W - R,
+        );
+      }
+      aiTargetX = this.aiFixedTargetX;
+      aiTargetY = tT + tH * 0.18;
       aiMoveSpeed = this.aiSpeed;
     } else {
-      // Ball heading away — glide back to home position
-      aiTargetX = aiHomeX + (Math.random() - 0.5) * this.aiError * 0.5;
+      // Ball heading away — glide back to home position (fixed, no random jitter)
+      if (this.aiLastBallVySign !== 1) {
+        this.aiLastBallVySign = 1;
+        this.aiFixedTargetX = aiHomeX;
+      }
+      aiTargetX = this.aiFixedTargetX;
       aiTargetY = aiHomeY;
       aiMoveSpeed = this.aiSpeed * 0.65; // slower return
     }
