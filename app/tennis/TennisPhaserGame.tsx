@@ -247,8 +247,9 @@ class TennisScene extends Phaser.Scene {
     const hatCols = [0xff3333, 0x3355ff, 0xff9900, 0x33aa33, 0xaa33aa, 0xffdd00, 0xff6699, 0x00cccc];
 
     // Upper row spectators
-    for (let i = 0; i < 28; i++) {
-      const cx = 13 + i * 25;
+    const spectatorCount = Math.floor(GW / 40);
+    for (let i = 0; i < spectatorCount; i++) {
+      const cx = 13 + i * (GW / spectatorCount);
       const cy = 126;
       const skin = skinTones[i % skinTones.length];
       const hat = hatCols[i % hatCols.length];
@@ -267,8 +268,8 @@ class TennisScene extends Phaser.Scene {
     }
 
     // Lower row spectators
-    for (let i = 0; i < 28; i++) {
-      const cx = 13 + i * 25;
+    for (let i = 0; i < spectatorCount; i++) {
+      const cx = 13 + i * (GW / spectatorCount);
       const cy = 190;
       const skin = skinTones[(i + 3) % skinTones.length];
       const hat = hatCols[(i + 4) % hatCols.length];
@@ -372,7 +373,7 @@ class TennisScene extends Phaser.Scene {
 
     // Net static body
     this.netBody = this.physics.add.staticImage(NET_X, NET_TOP_Y + (GROUND_Y - NET_TOP_Y) / 2, "__DEFAULT");
-    this.netBody.setDisplaySize(8, GROUND_Y - NET_TOP_Y);
+    this.netBody.setDisplaySize(18, GROUND_Y - NET_TOP_Y);
     this.netBody.setAlpha(0);
     this.netBody.refreshBody();
 
@@ -731,7 +732,7 @@ class TennisScene extends Phaser.Scene {
       this.servePower = Math.min(100, this.servePower + 2);
     }
 
-    const PLAYER_SPEED = this.dashTimer > 0 ? 520 : 380;
+    const PLAYER_SPEED = this.dashTimer > 0 ? 480 : 380;
     const PLAYER_MIN_X = 82;
     const PLAYER_MAX_X = NET_X - 36;
     const AI_MIN_X = NET_X + 36;
@@ -788,7 +789,7 @@ class TennisScene extends Phaser.Scene {
       const by = this.ball.y;
       const bvx = (this.ball.body as Phaser.Physics.Arcade.Body).velocity.x;
       const dx = bx - this.playerX;
-      const dy = by - (GROUND_Y - 28);
+      const dy = by - (GROUND_Y - 45);
       const dist = Math.sqrt(dx * dx + dy * dy);
 
       // Hit: ball on player's side — bigger radius on touch devices
@@ -1047,7 +1048,7 @@ export default function TennisPhaserGame({ difficulty, onGameEnd }: Props) {
       },
       scene,
       scale: {
-        mode: Phaser.Scale.FIT,
+        mode: Phaser.Scale.ENVELOP,
         autoCenter: Phaser.Scale.CENTER_BOTH,
       },
     };
