@@ -56,6 +56,9 @@ import {
   qMulAsAddition, wpGroupsOf, qDivMulRelation,
   qHowManyCentInEuro, qEuroToCent, qKgToG, wpSchoolDay, getShapeNamesG2,
   qFillInSign, qComposeFromParts, qCountAdd, qCountSub, qMulRows, qPatternNext, qShapePatternQuestion, qChartMore, wpVisualShare,
+  qRightAngleDeg, qStraightAngleDeg, qFullAngleDeg, qComplementToRight, qAngleSumTriangle,
+  qRightAnglesInShape, qSymmetryAxes, qAngleType,
+  qErgaenzeAuf10000, qRoundTo10000, qWeightConvert,
   getLang,
 } from "./mathTranslations";
 
@@ -1373,7 +1376,90 @@ const G4: Record<string, Generator> = {
     () => { const h = randInt(1, 3); return q(qHoursToMinutes(h, cc), h * 60, t("timeCalc", cc)); },
     () => { const min = pick([60, 120, 180]); return q(qMinutesToHours(min, cc), min / 60, t("timeCalc", cc)); },
   ])(),
-  // Grade 4 money word problems
+  // ─── Grade 4: Rechnen bis 10 000 ──────────────────────
+  addTo10000: (cc) => {
+    let a: number, b: number;
+    do { a = randInt(1000, 8500); b = randInt(500, 9000 - a); } while (a + b > 10000 || a + b < 5000);
+    return q(`${a} + ${b} = ?`, a + b, t("writtenAdd", cc));
+  },
+  subTo10000: (cc) => {
+    const a = randInt(4000, 10000);
+    const b = randInt(500, Math.min(a - 500, 5000));
+    return q(`${a} − ${b} = ?`, a - b, t("writtenSub", cc));
+  },
+  mentalAdd10000: (cc) => pick([
+    () => { const a = randInt(1, 7) * 1000, b = (randInt(1, 9 - a / 1000)) * 1000; return q(`${a} + ${b} = ?`, a + b, t("writtenAdd", cc)); },
+    () => { const a = randInt(1, 8) * 1000, b = randInt(1, 9) * 100; return q(`${a} + ${b} = ?`, a + b, t("writtenAdd", cc)); },
+    () => { const a = randInt(2, 9) * 1000; return q(`${a} + ${10000 - a} = ?`, 10000, t("writtenAdd", cc)); },
+    () => { const a = randInt(3, 8) * 1000; return q(`10 000 − ${a} = ?`, 10000 - a, t("writtenSub", cc)); },
+  ])(),
+  ergaenze10000: (cc) => {
+    const part = randInt(1, 9) * 1000 - randInt(0, 5) * 100;
+    return q(qErgaenzeAuf10000(part, cc), 10000 - part, t("writtenAdd", cc));
+  },
+  // ─── Grade 4: Rechnen bis 100 000 ─────────────────────
+  addTo100000: (cc) => {
+    let a: number, b: number;
+    do { a = randInt(10000, 80000); b = randInt(5000, 90000 - a); } while (a + b > 100000 || a + b < 50000);
+    return q(`${a} + ${b} = ?`, a + b, t("writtenAdd", cc));
+  },
+  subTo100000: (cc) => {
+    const a = randInt(40000, 100000);
+    const b = randInt(5000, Math.min(a - 5000, 60000));
+    return q(`${a} − ${b} = ?`, a - b, t("writtenSub", cc));
+  },
+  roundTo10000: (cc) => {
+    const n = randInt(11000, 99000);
+    return q(qRoundTo10000(n, cc), Math.round(n / 10000) * 10000, t("rounding", cc));
+  },
+  // ─── Grade 4: focused Perimeter / Area ────────────────
+  perimeterOnly: (cc) => pick([
+    () => { const a = randInt(3, 12), b = randInt(3, 10); return q(qRectPerimeter(a, b, cc), 2 * (a + b), t("geometry", cc)); },
+    () => { const a = randInt(3, 14); return q(qSquarePerimeter(a, cc), 4 * a, t("geometry", cc)); },
+  ])(),
+  areaOnly: (cc) => pick([
+    () => { const a = randInt(3, 12), b = randInt(3, 10); return q(qRectArea(a, b, cc), a * b, t("geometry", cc)); },
+    () => { const a = randInt(3, 12); return q(qSquareArea(a, cc), a * a, t("geometry", cc)); },
+  ])(),
+  // ─── Grade 4: weight conversions only ─────────────────
+  weightOnly: (cc) => pick([
+    () => { const kg = randInt(2, 9); return q(qWeightConvert(kg, "kg", "g", cc), kg * 1000, t("unitConversion", cc)); },
+    () => { const ton = randInt(2, 5); return q(qWeightConvert(ton, "t", "kg", cc), ton * 1000, t("unitConversion", cc)); },
+    () => { const g = pick([2000, 3000, 4000, 5000]); return q(qWeightConvert(g, "g", "kg", cc), g / 1000, t("unitConversion", cc)); },
+  ])(),
+  // ─── Grade 4: Winkel & Geodreieck ─────────────────────
+  winkelTyp: (cc) => pick([
+    () => q(qRightAngleDeg(cc), 90, t("geometry", cc)),
+    () => q(qStraightAngleDeg(cc), 180, t("geometry", cc)),
+    () => q(qFullAngleDeg(cc), 360, t("geometry", cc)),
+    () => { const a = pick([20, 30, 40, 45, 50, 60, 70, 80]); return q(qComplementToRight(a, cc), 90 - a, t("geometry", cc)); },
+    () => q(qAngleSumTriangle(cc), 180, t("geometry", cc)),
+    () => q(qRightAnglesInShape("rectangle", cc), 4, t("geometry", cc)),
+    () => q(qRightAnglesInShape("square", cc), 4, t("geometry", cc)),
+  ])(),
+  // angle type: 1=spitz, 2=recht, 3=stumpf
+  winkelKlasse: (cc) => pick([
+    () => { const a = pick([20, 30, 45, 60, 75, 80]); return q(qAngleType(a, cc), 1, t("geometry", cc)); },
+    () => q(qAngleType(90, cc), 2, t("geometry", cc)),
+    () => { const a = pick([100, 110, 120, 135, 150]); return q(qAngleType(a, cc), 3, t("geometry", cc)); },
+  ])(),
+  dreieckWinkel: (cc) => pick([
+    () => {
+      const pairs = [[40, 60], [50, 70], [30, 80], [45, 90], [60, 60], [35, 75]];
+      const [a, b] = pick(pairs);
+      return q(qTriangleThirdAngle(a, b, cc), 180 - a - b, t("geometry", cc));
+    },
+    () => q(qEquilateralAngle(cc), 60, t("geometry", cc)),
+    () => { const base = pick([40, 50, 55, 65, 70]); return q(qIsoscelesApex(base, cc), 180 - 2 * base, t("geometry", cc)); },
+    () => q(qAngleSumTriangle(cc), 180, t("geometry", cc)),
+  ])(),
+  symmetrieAchsen: (cc) => pick([
+    () => q(qSymmetryAxes("square", cc), 4, t("geometry", cc)),
+    () => q(qSymmetryAxes("rectangle", cc), 2, t("geometry", cc)),
+    () => q(qSymmetryAxes("equilateralTriangle", cc), 3, t("geometry", cc)),
+    () => q(qSymmetryAxes("isoscelesTriangle", cc), 1, t("geometry", cc)),
+  ])(),
+  // ─── Grade 4 money word problems ──────────────────────
   moneyWord: (cc) => pick([
     () => {
       const items = getItems(cc); const cur = getCurrency(cc);
@@ -2173,7 +2259,9 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'fracArith', name: 'Fraction Arithmetic', color: '#8B5CF6', icon: '½', generators: [G4.fractionAdd, G4.fractionSub] },
     ]},
     { key: 'g4_geo', name: 'Geometry & Measurement', color: '#F59E0B', icon: '📐', topics: [
-      { key: 'geo', name: 'Geometry', color: '#FBBF24', icon: '📐', generators: [G4.geometry, G4.geometryB] },
+      { key: 'geo', name: 'Perimeter & Area', color: '#FBBF24', icon: '📐', generators: [G4.geometry, G4.geometryB] },
+      { key: 'angles', name: 'Angles', color: '#EC4899', icon: '📐', generators: [G4.winkelTyp, G4.winkelKlasse, G4.dreieckWinkel] },
+      { key: 'symmetry_en', name: 'Symmetry', color: '#BE185D', icon: '🪞', generators: [G4.symmetrieAchsen] },
       { key: 'units', name: 'Units', color: '#F59E0B', icon: '📏', generators: [G4.units] },
     ]},
     { key: 'g4_word', name: 'Word Problems', color: '#EF4444', icon: '📖', topics: [
@@ -2450,29 +2538,41 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
   4: [
     { key: 'g4_zahlen', name: 'Zahlen und Zahlensystem', color: '#3B82F6', icon: '🔢', topics: [
       { key: 'grosseZahlen', name: 'Große Zahlen (bis 1 000 000)', color: '#93C5FD', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.largeNumbers] },
-      { key: 'stellenwert', name: 'Stellenwertsystem', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig] },
-      { key: 'zahlenstrahl', name: 'Zahlenstrahl & Zahlen ordnen', color: '#3B82F6', icon: '📊', generators: [G4.sequence, G3.sequence] },
-      { key: 'runden', name: 'Runden (10er, 100er, 1000er)', color: '#06B6D4', icon: '🔄', generators: [G4.roundingG4] },
+      { key: 'stellenwert', name: 'Stellenwertsystem', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.largeNumbers] },
+      { key: 'zahlenstrahl', name: 'Zahlenstrahl & Zahlen ordnen', color: '#3B82F6', icon: '📊', generators: [G4.sequence, G4.roundingG4, G3.sequence] },
+      { key: 'runden', name: 'Runden (10er, 100er, 1000er, 10 000er)', color: '#06B6D4', icon: '🔄', generators: [G4.roundingG4, G4.roundTo10000] },
       { key: 'place_value', name: '🎮 Stellenwerttafel - Interaktiv', color: '#6366F1', icon: '🔢', generators: [] },
       { key: 'number_line', name: '🎮 Runden am Zahlenstrahl', color: '#14B8A6', icon: '🎯', generators: [] },
     ]},
+    { key: 'g4_rechnen10000', name: 'Rechnen bis 10 000', color: '#0EA5E9', icon: '🔢', topics: [
+      { key: 'add10000', name: 'Addition bis 10 000', color: '#38BDF8', icon: '➕', generators: [G4.addTo10000, G4.mentalAdd10000] },
+      { key: 'sub10000', name: 'Subtraktion bis 10 000', color: '#0EA5E9', icon: '➖', generators: [G4.subTo10000, G4.mentalAdd10000] },
+      { key: 'ergaenzen10000', name: 'Ergänzen auf 10 000', color: '#0284C7', icon: '🎯', generators: [G4.ergaenze10000] },
+      { key: 'kopfrechn10000', name: 'Kopfrechnen (runde Zahlen)', color: '#0369A1', icon: '🧠', generators: [G4.mentalAdd10000] },
+    ]},
+    { key: 'g4_rechnen100000', name: 'Rechnen bis 100 000', color: '#6366F1', icon: '🔢', topics: [
+      { key: 'add100000', name: 'Addition bis 100 000', color: '#818CF8', icon: '➕', generators: [G4.addTo100000, G4.writtenAddLarge] },
+      { key: 'sub100000', name: 'Subtraktion bis 100 000', color: '#6366F1', icon: '➖', generators: [G4.subTo100000, G4.writtenSubLarge] },
+      { key: 'stellen100000', name: 'Stellenwert bis 100 000', color: '#4F46E5', icon: '🔢', generators: [G4.placeValueBig, G4.largeNumbers] },
+      { key: 'runden100000', name: 'Runden auf 10 000er', color: '#4338CA', icon: '🔄', generators: [G4.roundTo10000, G4.roundingG4] },
+    ]},
     { key: 'g4_grundrechenarten', name: 'Grundrechenarten', color: '#10B981', icon: '➕', topics: [
-      { key: 'addSub', name: 'Addition & Subtraktion', color: '#34D399', icon: '➕', generators: [G4.writtenAddLarge, G4.writtenSubLarge] },
+      { key: 'addSub', name: 'Addition & Subtraktion (schriftlich)', color: '#34D399', icon: '➕', generators: [G4.addTo10000, G4.subTo10000, G4.addTo100000, G4.subTo100000] },
       { key: 'mul', name: 'Multiplikation (schriftlich)', color: '#22C55E', icon: '✖️', generators: [G4.writtenMul, G4.writtenMulB] },
       { key: 'div', name: 'Division (schriftlich)', color: '#10B981', icon: '➗', generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit] },
-      { key: 'ueberschlagen', name: 'Überschlagen & Kontrolle', color: '#059669', icon: '🎯', generators: [G4.roundingG4, G4.writtenMul] },
+      { key: 'ueberschlagen', name: 'Überschlagen & Schätzen', color: '#059669', icon: '🎯', generators: [G4.roundingG4, G4.roundTo10000, G4.mentalAdd10000] },
     ]},
     { key: 'g4_struktur', name: 'Zahlenstruktur und Denken', color: '#8B5CF6', icon: '🧩', topics: [
       { key: 'zahlenfolgen', name: 'Zahlenfolgen & Muster', color: '#A78BFA', icon: '🔗', generators: [G4.sequence, G3.sequence] },
-      { key: 'rechenstrategien', name: 'Rechenstrategien', color: '#8B5CF6', icon: '🧠', generators: [G4.placeValue, G4.roundingG4] },
+      { key: 'rechenstrategien', name: 'Rechenstrategien (Ergänzen, Kopfrechnen)', color: '#8B5CF6', icon: '🧠', generators: [G4.ergaenze10000, G4.mentalAdd10000, G4.roundingG4] },
       { key: 'sequence', name: '🎮 Zahlenfolgen - Muster erkennen', color: '#8B5CF6', icon: '🔗', generators: [] },
     ]},
     { key: 'g4_groessen', name: 'Größen und Messen', color: '#F59E0B', icon: '⚖️', topics: [
-      { key: 'laenge', name: 'Länge (mm, cm, m, km)', color: '#FBBF24', icon: '📏', generators: [G4.unitLengths, G4.units] },
-      { key: 'gewicht', name: 'Gewicht (g, kg, t)', color: '#F59E0B', icon: '⚖️', generators: [G4.units] },
+      { key: 'laenge', name: 'Länge (mm, cm, m, km)', color: '#FBBF24', icon: '📏', generators: [G4.unitLengths, G4.unitLengthsWord] },
+      { key: 'gewicht', name: 'Gewicht (g, kg, t)', color: '#F59E0B', icon: '⚖️', generators: [G4.weightOnly] },
       { key: 'zeit', name: 'Zeit (s, min, h, Tage)', color: '#EAB308', icon: '⏱️', generators: [G4.timeWord] },
-      { key: 'geld', name: 'Geld (€, ct)', color: '#CA8A04', icon: '💰', generators: [G4.moneyWord, G4.word2] },
-      { key: 'umwandeln', name: 'Einheiten umwandeln', color: '#D97706', icon: '🔄', generators: [G4.units, G4.unitLengths] },
+      { key: 'geld', name: 'Geld (€, ct)', color: '#CA8A04', icon: '💰', generators: [G4.moneyWord] },
+      { key: 'umwandeln', name: 'Einheiten umwandeln', color: '#D97706', icon: '🔄', generators: [G4.units, G4.unitLengths, G4.weightOnly] },
       { key: 'zeichnen', name: '🎮 Zeichnen - Längen und Formen', color: '#06B6D4', icon: '✏️', generators: [] },
       { key: 'messen', name: '🎮 Messen - Mit Lineal', color: '#0EA5E9', icon: '📏', generators: [] },
       { key: 'uhrzeit', name: '🎮 Uhr lesen - Analog & Digital', color: '#06D6D4', icon: '⏰', generators: [] },
@@ -2480,27 +2580,27 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'money', name: '🎮 Geldrechnen - Einkaufen', color: '#22C55E', icon: '💰', generators: [] },
     ]},
     { key: 'g4_geo', name: 'Geometrie', color: '#EC4899', icon: '📐', topics: [
-      { key: 'strecken', name: 'Strecken messen & zeichnen', color: '#F472B6', icon: '📏', generators: [G4.geometry] },
-      { key: 'geodreieck', name: 'Geodreieck (Winkel, Parallelen)', color: '#EC4899', icon: '📐', generators: [G4.geometry, G4.geometryB] },
+      { key: 'strecken', name: 'Strecken messen & zeichnen', color: '#F472B6', icon: '📏', generators: [G4.perimeterOnly, G4.areaOnly] },
+      { key: 'geodreieck', name: 'Geodreieck (Winkel, Parallelen)', color: '#EC4899', icon: '📐', generators: [G4.winkelTyp, G4.winkelKlasse, G4.dreieckWinkel] },
       { key: 'zirkel', name: 'Zirkel (Kreis, Radius)', color: '#DB2777', icon: '⭕', generators: [G4.circleSimple] },
-      { key: 'symmetrie', name: 'Symmetrie & Spiegeln', color: '#BE185D', icon: '🪞', generators: [G4.geometry] },
+      { key: 'symmetrie', name: 'Symmetrie & Spiegeln', color: '#BE185D', icon: '🪞', generators: [G4.symmetrieAchsen] },
       { key: 'angle', name: '🎮 Winkel zeichnen & messen', color: '#EF4444', icon: '📐', generators: [] },
       { key: 'circle_draw', name: '🎮 Kreis zeichnen mit Zirkel', color: '#F97316', icon: '⭕', generators: [] },
       { key: 'symmetry', name: '🎮 Symmetrie - Spiegeln', color: '#EC4899', icon: '🪞', generators: [] },
     ]},
     { key: 'g4_flaeche', name: 'Fläche und Umfang', color: '#F97316', icon: '📏', topics: [
-      { key: 'umfang', name: 'Umfang (Rechteck, Quadrat)', color: '#FB923C', icon: '📏', generators: [G4.geometry, G4.geometryB] },
-      { key: 'flaeche', name: 'Fläche (Kästchen zählen)', color: '#F97316', icon: '📐', generators: [G4.geometry, G4.geometryB] },
+      { key: 'umfang', name: 'Umfang (Rechteck, Quadrat)', color: '#FB923C', icon: '📏', generators: [G4.perimeterOnly] },
+      { key: 'flaeche', name: 'Fläche berechnen', color: '#F97316', icon: '📐', generators: [G4.areaOnly] },
       { key: 'grid_area', name: '🎮 Fläche & Umfang - Gitter zählen', color: '#F59E0B', icon: '📐', generators: [] },
       { key: 'fraction_pizza', name: '🎮 Brüche - Pizza-Darstellung', color: '#F59E0B', icon: '🍕', generators: [] },
     ]},
     { key: 'g4_daten', name: 'Daten und Diagramme', color: '#06B6D4', icon: '📊', topics: [
-      { key: 'tabellen', name: 'Tabellen lesen & ausfüllen', color: '#22D3EE', icon: '📈', generators: [G4.word1, G4.word2] },
-      { key: 'diagramme', name: 'Diagramme lesen & erstellen', color: '#06B6D4', icon: '📊', generators: [G4.word1, G4.word3] },
+      { key: 'tabellen', name: 'Tabellen lesen & ausfüllen', color: '#22D3EE', icon: '📈', generators: [G4.word1, G4.word2, G4.word3] },
+      { key: 'diagramme', name: 'Diagramme lesen & erstellen', color: '#06B6D4', icon: '📊', generators: [G4.word1, G4.word3, G4.volumeWord] },
     ]},
     { key: 'g4_sachaufgaben', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', topics: [
-      { key: 'grundAufgaben', name: 'Textaufgaben (Grundrechenarten)', color: '#F87171', icon: '📖', generators: [G4.word1, G4.word2] },
-      { key: 'messAufgaben', name: 'Textaufgaben (Messen)', color: '#EF4444', icon: '📏', generators: [G4.word3, G4.volumeWord, G4.moneyWord] },
+      { key: 'grundAufgaben', name: 'Textaufgaben (Grundrechenarten)', color: '#F87171', icon: '📖', generators: [G4.word1, G4.word2, G4.word3] },
+      { key: 'messAufgaben', name: 'Textaufgaben (Messen & Geld)', color: '#EF4444', icon: '📏', generators: [G4.volumeWord, G4.moneyWord, G4.unitLengthsWord] },
       { key: 'mehrschritt', name: 'Mehrschrittige Aufgaben', color: '#DC2626', icon: '🔢', generators: [G4.word1, G4.word2, G4.word3] },
     ]},
   ],
@@ -2777,6 +2877,8 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g4_geo', name: 'Geometria & Mértékegységek', color: '#F59E0B', icon: '📐', topics: [
       { key: 'geo', name: 'Terület & Kerület', color: '#FBBF24', icon: '📐', generators: [G4.geometry, G4.geometryB] },
+      { key: 'szogek', name: 'Szögek', color: '#EC4899', icon: '📐', generators: [G4.winkelTyp, G4.winkelKlasse, G4.dreieckWinkel] },
+      { key: 'szimmetria', name: 'Szimmetria', color: '#BE185D', icon: '🪞', generators: [G4.symmetrieAchsen] },
       { key: 'units', name: 'Mértékegységek', color: '#F59E0B', icon: '📏', generators: [G4.units] },
     ]},
     { key: 'g4_word', name: 'Szöveges feladatok', color: '#EF4444', icon: '📖', topics: [
@@ -3052,6 +3154,8 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g4_geo', name: 'Geometrie & Unități', color: '#F59E0B', icon: '📐', topics: [
       { key: 'geo', name: 'Arie & Perimetru', color: '#FBBF24', icon: '📐', generators: [G4.geometry, G4.geometryB] },
+      { key: 'unghiuri', name: 'Unghiuri', color: '#EC4899', icon: '📐', generators: [G4.winkelTyp, G4.winkelKlasse, G4.dreieckWinkel] },
+      { key: 'simetrie', name: 'Simetrie', color: '#BE185D', icon: '🪞', generators: [G4.symmetrieAchsen] },
       { key: 'units', name: 'Unități de măsură', color: '#F59E0B', icon: '📏', generators: [G4.units] },
     ]},
     { key: 'g4_word', name: 'Probleme', color: '#EF4444', icon: '📖', topics: [
