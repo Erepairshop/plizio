@@ -868,6 +868,12 @@ const G2: Record<string, Generator> = {
     const sorted = [...nums].sort((a, b) => a - b);
     return qs(qG1NumberOrder(nums, cc), sorted.join(","), t("g1NumberOrder", cc));
   },
+  // ── G2: Length unit conversions (cm ↔ m only) ──
+  lengthConvert: (cc) => pick([
+    () => q(qHowManyCmInM(cc), 100, t("units", cc)),
+    () => { const m = randInt(2, 5); return q(qMetersInCm(m, cc), m * 100, t("units", cc)); },
+    () => { const cm = pick([200, 300, 400]); const lang = getLang(cc); const texts: Record<string, string> = { DE: `${cm} cm = ? m`, EN: `${cm} cm = ? m`, HU: `${cm} cm = ? m`, RO: `${cm} cm = ? m` }; return q(texts[lang] || texts.DE, cm / 100, t("units", cc)); },
+  ])(),
   // ── G2: Length in cm (addition context) ──
   lengthMeasure: (cc) => {
     const lang = getLang(cc);
@@ -1163,9 +1169,111 @@ const G3: Record<string, Generator> = {
     };
     return q(texts[lang] || texts.DE, s.corners, t("geometry", cc));
   },
+  // ─── G3: focused unit generators (length / weight / time) ────────────────
+  lengthUnits: (cc) => pick([
+    () => q(qHowManyCmInM(cc), 100, t("units", cc)),
+    () => { const m = randInt(2, 6); return q(qMetersInCm(m, cc), m * 100, t("units", cc)); },
+    () => { const cm = pick([200, 300, 400, 500]); const lang = getLang(cc); const texts: Record<string, string> = { DE: `${cm} cm = ? m`, EN: `${cm} cm = ? m`, HU: `${cm} cm = ? m`, RO: `${cm} cm = ? m` }; return q(texts[lang] || texts.DE, cm / 100, t("units", cc)); },
+    () => q(qKmToM(1, cc), 1000, t("unitConversion", cc)),
+    () => { const km = randInt(2, 5); return q(qKmToM(km, cc), km * 1000, t("unitConversion", cc)); },
+  ])(),
+  weightUnits: (cc) => pick([
+    () => q(qHowManyGInKg(cc), 1000, t("units", cc)),
+    () => { const kg = randInt(2, 5); return q(qKgToG(kg, cc), kg * 1000, t("units", cc)); },
+    () => { const g = pick([2000, 3000, 4000, 5000]); const lang = getLang(cc); const texts: Record<string, string> = { DE: `${g} g = ? kg`, EN: `${g} g = ? kg`, HU: `${g} g = ? kg`, RO: `${g} g = ? kg` }; return q(texts[lang] || texts.DE, g / 1000, t("units", cc)); },
+    () => q(qMlInL(cc), 1000, t("units", cc)),
+  ])(),
+  timeUnits: (cc) => pick([
+    () => q(qHowManyMinInH(cc), 60, t("units", cc)),
+    () => { const h = randInt(2, 4); return q(qHoursInMin(h, cc), h * 60, t("units", cc)); },
+    () => { const lang = getLang(cc); const texts: Record<string, string> = { DE: "Wie viele Stunden hat ein Tag?", EN: "How many hours are in a day?", HU: "Hány óra van egy napban?", RO: "Câte ore are o zi?" }; return q(texts[lang] || texts.DE, 24, t("units", cc)); },
+    () => { const lang = getLang(cc); const texts: Record<string, string> = { DE: "Wie viele Tage hat eine Woche?", EN: "How many days are in a week?", HU: "Hány nap van egy hétben?", RO: "Câte zile are o săptămână?" }; return q(texts[lang] || texts.DE, 7, t("units", cc)); },
+  ])(),
+  // ─── G3: money word problems ──────────────────────────────────────────────
+  moneyWord3: (cc) => {
+    const items = getItems(cc);
+    const cur = getCurrency(cc);
+    const lang = getLang(cc);
+    return pick([
+      () => {
+        const price = randInt(3, 9), count = randInt(2, 5);
+        const item = pick(items.fruits);
+        const texts: Record<string, string> = {
+          DE: `${item} kostet ${price} ${cur}. Wie viel kosten ${count} ${item}?`,
+          EN: `${item} costs ${price} ${cur}. How much do ${count} ${item} cost?`,
+          HU: `Egy ${item} ${price} ${cur}. Mennyibe kerül ${count} db?`,
+          RO: `Un ${item} costă ${price} ${cur}. Cât costă ${count} ${item}?`,
+        };
+        return q(texts[lang] || texts.DE, price * count, t("wordProblem", cc), 0, true);
+      },
+      () => {
+        const paid = pick([10, 20, 50]), price = randInt(3, paid - 1);
+        const item = pick(items.fruits);
+        const texts: Record<string, string> = {
+          DE: `Du kaufst ${item} für ${price} ${cur} und zahlst ${paid} ${cur}. Wie viel Wechselgeld bekommst du?`,
+          EN: `You buy ${item} for ${price} ${cur} and pay ${paid} ${cur}. How much change do you get?`,
+          HU: `Vásárolsz ${item}-t ${price} ${cur}-ért és ${paid} ${cur}-t fizetsz. Mennyi a visszajáró?`,
+          RO: `Cumperi ${item} cu ${price} ${cur} și plătești ${paid} ${cur}. Câți bani primești rest?`,
+        };
+        return q(texts[lang] || texts.DE, paid - price, t("wordProblem", cc), 0, true);
+      },
+    ])();
+  },
+  // ─── G3: subtraction word problems ───────────────────────────────────────
+  wordSub: (cc) => {
+    const items = getItems(cc);
+    const lang = getLang(cc);
+    return pick([
+      () => {
+        const total = randInt(150, 500), sold = randInt(50, total - 30);
+        const item = pick(items.fruits);
+        const texts: Record<string, string> = {
+          DE: `Ein Geschäft hatte ${total} ${item}. Es wurden ${sold} verkauft. Wie viele sind noch übrig?`,
+          EN: `A shop had ${total} ${item}. ${sold} were sold. How many are left?`,
+          HU: `Egy boltban ${total} db ${item} volt. Eladtak ${sold} db-ot. Hány maradt?`,
+          RO: `Un magazin avea ${total} ${item}. S-au vândut ${sold}. Câte au rămas?`,
+        };
+        return q(texts[lang] || texts.DE, total - sold, t("wordProblem", cc), 0, true);
+      },
+      () => {
+        const total = randInt(200, 600), driven = randInt(50, total - 30);
+        const texts: Record<string, string> = {
+          DE: `Ein Auto muss ${total} km fahren. Es hat schon ${driven} km zurückgelegt. Wie viele km fehlen noch?`,
+          EN: `A car must travel ${total} km. It has already covered ${driven} km. How many km remain?`,
+          HU: `Egy autó ${total} km-t kell tegyen meg. Már megtett ${driven} km-t. Mennyi van hátra?`,
+          RO: `O mașină trebuie să parcurgă ${total} km. A parcurs deja ${driven} km. Câți km mai sunt?`,
+        };
+        return q(texts[lang] || texts.DE, total - driven, t("wordProblem", cc), 0, true);
+      },
+      () => {
+        const total = randInt(100, 300), given = randInt(30, total - 20);
+        const item = pick(items.fruits);
+        const texts: Record<string, string> = {
+          DE: `${total} ${item} werden geerntet. ${given} werden verschenkt. Wie viele bleiben übrig?`,
+          EN: `${total} ${item} are harvested. ${given} are given away. How many are left?`,
+          HU: `Leszedtek ${total} db ${item}-t. Szétosztottak ${given} db-ot. Mennyi maradt?`,
+          RO: `S-au cules ${total} ${item}. S-au dăruit ${given}. Câte au rămas?`,
+        };
+        return q(texts[lang] || texts.DE, total - given, t("wordProblem", cc), 0, true);
+      },
+    ])();
+  },
+  // ─── G3: missing number in addition / subtraction ────────────────────────
+  missingAddSub: (cc) => pick([
+    () => { const a = randInt(100, 600), b = randInt(50, 300); return q(qMissingInEquation(`${a} + ? = ${a + b}`, cc), b, t("missingNumber", cc)); },
+    () => { const a = randInt(200, 800), b = randInt(50, 300); return q(qMissingInEquation(`${a} - ? = ${a - b}`, cc), b, t("missingNumber", cc)); },
+    () => { const b = randInt(100, 400), res = randInt(100, 400); return q(qMissingInEquation(`? + ${b} = ${b + res}`, cc), res, t("missingNumber", cc)); },
+    () => { const total = randInt(300, 900), rest = randInt(100, total - 50); return q(qMissingInEquation(`? - ${rest} = ${total - rest}`, cc), total, t("missingNumber", cc)); },
+  ])(),
+  // ─── G3: angle / rechter Winkel questions ────────────────────────────────
+  rechterWinkel: (cc) => pick([
+    () => q(qRightAngleDeg(cc), 90, t("geometry", cc)),
+    () => q(qRightAnglesInShape("rectangle", cc), 4, t("geometry", cc)),
+    () => q(qRightAnglesInShape("square", cc), 4, t("geometry", cc)),
+    () => { const a = pick([30, 45, 60, 80]); return q(qAngleType(a, cc), 1, t("geometry", cc)); },
+    () => { const a = pick([100, 120, 135]); return q(qAngleType(a, cc), 3, t("geometry", cc)); },
+  ])(),
 };
-
-// ─── GRADE 4 GENERATORS ─────────────────────────────
 
 const G4: Record<string, Generator> = {
   placeValue: (cc) => {
@@ -2345,7 +2453,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
   1: [
     { key: 'g1_zahlen', name: 'Zahlen und Zahlensystem', color: '#3B82F6', icon: '🔢', topics: [
       { key: 'g1_count',   name: 'Zahlen erkennen · Zählen', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen, G1.gridCount] },
-      { key: 'g1_visual',  name: 'Punkte · Würfel · Finger · Bilder', color: '#93C5FD', icon: '🎲', generators: [G1.zaehlen, G1.gridCount] },
+      { key: 'g1_visual',  name: 'Punkte · Würfel · Finger · Bilder', color: '#93C5FD', icon: '🎲', generators: [G1.gridCount, G1.coins, G1.fraction] },
       { key: 'g1_compare', name: 'Größer · Kleiner · Gleich · Ordnung', color: '#2563EB', icon: '⚖️', generators: [G1.compare, G1.numberOrder] },
       { key: 'g1_pos',     name: 'Vorgänger · Nachfolger · Zahlenstrahl', color: '#1D4ED8', icon: '📏', generators: [G1.vorgaenger, G1.nachfolger, G1.numberLine] },
     ]},
@@ -2354,10 +2462,10 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g1_place_value20', name: 'Zehner und Einer  (14 = 1Z + 4E)', color: '#0891B2', icon: '🧱', generators: [G1.placeValue20] },
     ]},
     { key: 'g1_rechnen', name: 'Rechnen', color: '#EF4444', icon: '➕', topics: [
-      { key: 'g1_addpics', name: 'Addition mit Bildern', color: '#FCA5A5', icon: '🖼️', generators: [G1.zaehlen, G1.add10, G1.add10b] },
-      { key: 'add10',      name: 'Addition bis 10', color: '#F87171', icon: '➕', generators: [G1.add10, G1.add10b] },
+      { key: 'g1_addpics', name: 'Addition mit Bildern', color: '#FCA5A5', icon: '🖼️', generators: [G1.gridCount, G1.add10, G1.add10b] },
+      { key: 'add10',      name: 'Addition bis 10', color: '#F87171', icon: '➕', generators: [G1.add10, G1.add10b, G1.missing10] },
       { key: 'add20',      name: 'Addition bis 20', color: '#DC2626', icon: '➕', generators: [G1.add20, G1.add20b] },
-      { key: 'g1_subpics', name: 'Subtraktion mit Bildern', color: '#FCA5A5', icon: '🖼️', generators: [G1.zaehlen, G1.sub10, G1.sub10b] },
+      { key: 'g1_subpics', name: 'Subtraktion mit Bildern', color: '#FCA5A5', icon: '🖼️', generators: [G1.gridCount, G1.sub10, G1.sub10b] },
       { key: 'sub10',      name: 'Subtraktion bis 10', color: '#EF4444', icon: '➖', generators: [G1.sub10, G1.sub10b] },
       { key: 'sub20',      name: 'Subtraktion bis 20', color: '#B91C1C', icon: '➖', generators: [G1.sub20, G1.sub20b] },
       { key: 'g1_tausch',  name: 'Tausch- und Umkehraufgaben', color: '#F59E0B', icon: '🔄', generators: [G1.tausch, G1.missing10, G1.missing10sub] },
@@ -2417,7 +2525,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     { key: 'g2_mul', name: 'Multiplikation', color: '#F59E0B', icon: '✖️', topics: [
       { key: 'g2_mul_rep',    name: 'Multiplikation als wiederholte Addition', color: '#FCD34D', icon: '🔄', generators: [G2.mulRepeated] },
       { key: 'g2_mul_simple', name: 'Einmaleins (×2, ×5, ×10)',               color: '#FDE68A', icon: '✖️', generators: [G2.mul2510, G2.mul2510b] },
-      { key: 'g2_mul_visual', name: 'Anschauliche Multiplikation (Arrays)',   color: '#FEF3C7', icon: '🎯', generators: [G2.mulVisual, G2.mulGroup] },
+      { key: 'g2_mul_visual', name: 'Anschauliche Multiplikation (Arrays)',   color: '#FEF3C7', icon: '🎯', generators: [G2.mulVisual, G2.mulRepeated] },
       { key: 'g2_mul_group',  name: 'Bildhafte Aufgaben',                     color: '#FEF3C7', icon: '🎯', generators: [G2.mulGroup, G2.wordMulG2] },
     ]},
     { key: 'g2_div', name: 'Division', color: '#8B5CF6', icon: '➗', topics: [
@@ -2430,24 +2538,24 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g2_seq',     name: 'Zahlenfolgen',                    color: '#22D3EE', icon: '🔢', generators: [G2.sequence, G2.numberLineG2] },
       { key: 'g2_pattern', name: 'Form- und Farbmuster',            color: '#67E8F9', icon: '🟦', generators: [G2.patternG2] },
       { key: 'g2_missing', name: 'Muster erkennen · fehlende Zahl', color: '#67E8F9', icon: '❓', generators: [G2.missing100, G2.evenOdd, G2.missingAddend] },
-      { key: 'g2_round',   name: 'Rechenstrategien',                color: '#A5F3FC', icon: '🎯', generators: [G2.rounding10, G2.missing100] },
+      { key: 'g2_round',   name: 'Rechenstrategien (Verdoppeln, Halbieren, Runden)', color: '#A5F3FC', icon: '🎯', generators: [G2.rounding10, G2.doubling, G2.halving] },
     ]},
     { key: 'g2_measure', name: 'Größen und Einheiten', color: '#EC4899', icon: '📏', topics: [
-      { key: 'g2_length',  name: 'Länge (cm, m)',       color: '#F9A8D4', icon: '📏', generators: [G2.units] },
+      { key: 'g2_length',  name: 'Länge (cm, m)',       color: '#F9A8D4', icon: '📏', generators: [G2.lengthConvert, G2.lengthMeasure] },
       { key: 'g2_weight',  name: 'Gewicht (g, kg)',     color: '#F9A8D4', icon: '⚖️', generators: [G2.weightGKg] },
       { key: 'g2_clock',   name: 'Uhr lesen',           color: '#FBCFE8', icon: '🕐', generators: [G2.clock2] },
       { key: 'g2_money',   name: 'Geld (Euro und Cent)',color: '#FCE7F3', icon: '💶', generators: [G2.moneyEuroCent, G2.wordMoneyG2] },
     ]},
     { key: 'g2_geometry', name: 'Geometrie', color: '#84CC16', icon: '🔷', topics: [
       { key: 'g2_shapes',   name: 'Formen',    color: '#BEF264', icon: '🔷', generators: [G2.shapeBasic] },
-      { key: 'g2_strecken', name: 'Strecken',  color: '#D9F99D', icon: '📐', generators: [G2.perimeterSimple] },
+      { key: 'g2_strecken', name: 'Strecken messen (cm, m)', color: '#D9F99D', icon: '📐', generators: [G2.lengthConvert, G2.lengthMeasure] },
     ]},
     { key: 'g2_perimeter', name: 'Umfang', color: '#F97316', icon: '📐', topics: [
       { key: 'g2_perim', name: 'Umfang einfacher Figuren', color: '#FB923C', icon: '📐', generators: [G2.perimeterSimple] },
     ]},
     { key: 'g2_data', name: 'Daten und Diagramme', color: '#A855F7', icon: '📊', topics: [
-      { key: 'g2_tables',   name: 'Tabellen',   color: '#C084FC', icon: '📊', generators: [G2.word1, G2.word4] },
-      { key: 'g2_diagrams', name: 'Diagramme',  color: '#D8B4FE', icon: '📈', generators: [G2.chartG2] },
+      { key: 'g2_tables',   name: 'Tabellen',   color: '#C084FC', icon: '📊', generators: [G2.chartG2, G2.word4] },
+      { key: 'g2_diagrams', name: 'Diagramme',  color: '#D8B4FE', icon: '📈', generators: [G2.chartG2, G2.word1] },
     ]},
     { key: 'g2_word', name: 'Sachaufgaben', color: '#64748B', icon: '📖', topics: [
       { key: 'g2_word_add',   name: 'Additionsaufgaben',       color: '#94A3B8', icon: '📖', generators: [G2.wordAddG2, G2.word1] },
@@ -2492,14 +2600,14 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g3_patterns_cat', name: 'Muster & Logik', color: '#64748B', icon: '🔗', topics: [
       { key: 'g3_sequence_t',  name: 'Zahlenfolgen',                        color: '#94A3B8', icon: '🔗', generators: [G3.sequence] },
-      { key: 'g3_missing_t',  name: 'Fehlende Zahlen',                      color: '#CBD5E1', icon: '🔍', generators: [G3.missingMul] },
+      { key: 'g3_missing_t',  name: 'Fehlende Zahlen (+ − ×)',              color: '#CBD5E1', icon: '🔍', generators: [G3.missingMul, G3.missingAddSub] },
       { key: 'g3_pattern',    name: '🎮 Musterblöcke – Interaktiv',         color: '#7C3AED', icon: '🧩', generators: [] },
     ]},
     { key: 'g3_units_cat', name: 'Größen & Einheiten', color: '#06B6D4', icon: '📏', topics: [
-      { key: 'g3_length_t',    name: 'Länge (mm, cm, m, km)',               color: '#67E8F9', icon: '📏', generators: [G3.units] },
-      { key: 'g3_weight_t',    name: 'Gewicht (g, kg)',                     color: '#22D3EE', icon: '⚖️', generators: [G3.units] },
-      { key: 'g3_time_t',      name: 'Zeit (Stunden, Minuten)',             color: '#06B6D4', icon: '🕐', generators: [G3.clock3, G3.units] },
-      { key: 'g3_money_t',     name: 'Geld (Euro, Cent)',                   color: '#0891B2', icon: '💰', generators: [G3.word1] },
+      { key: 'g3_length_t',    name: 'Länge (mm, cm, m, km)',               color: '#67E8F9', icon: '📏', generators: [G3.lengthUnits] },
+      { key: 'g3_weight_t',    name: 'Gewicht (g, kg)',                     color: '#22D3EE', icon: '⚖️', generators: [G3.weightUnits] },
+      { key: 'g3_time_t',      name: 'Zeit (Stunden, Minuten)',             color: '#06B6D4', icon: '🕐', generators: [G3.clock3, G3.timeUnits] },
+      { key: 'g3_money_t',     name: 'Geld (Euro, Cent)',                   color: '#0891B2', icon: '💰', generators: [G3.moneyWord3, G3.word2] },
       { key: 'g3_laenge',     name: '🎮 Messen mit Lineal',                 color: '#0EA5E9', icon: '📏', generators: [] },
       { key: 'g3_strecken',   name: '🎮 Strecke zeichnen',                  color: '#38BDF8', icon: '✏️', generators: [] },
       { key: 'g3_zeit',       name: '🎮 Uhr ablesen',                       color: '#7DD3FC', icon: '🕐', generators: [] },
@@ -2508,7 +2616,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g3_geo_cat', name: 'Geometrie', color: '#EC4899', icon: '📐', topics: [
       { key: 'g3_shapes_t',    name: 'Formen & Eigenschaften',              color: '#F472B6', icon: '🔷', generators: [G3.shapeProp, G3.perimCalc] },
-      { key: 'g3_angles_t',    name: 'Rechte Winkel',                       color: '#FB7185', icon: '📐', generators: [G3.shapeProp] },
+      { key: 'g3_angles_t',    name: 'Rechte Winkel & Winkelarten',         color: '#FB7185', icon: '📐', generators: [G3.rechterWinkel] },
       { key: 'g3_shapes_vis',  name: '🎮 Formenerkennung – Interaktiv',     color: '#F43F5E', icon: '🔷', generators: [] },
       { key: 'g3_geo_messen',  name: '🎮 Strecken messen',                  color: '#FB923C', icon: '📏', generators: [] },
       { key: 'g3_rightangle',  name: '🎮 Winkelarten erkennen',             color: '#FDA4AF', icon: '📐', generators: [] },
@@ -2528,8 +2636,8 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g3_barchart',   name: '🎮 Balkendiagramm – Interaktiv',       color: '#E9D5FF', icon: '📊', generators: [] },
     ]},
     { key: 'g3_word_cat', name: 'Sachaufgaben', color: '#DC2626', icon: '📖', topics: [
-      { key: 'g3_word_add_t',  name: 'Additionsaufgaben',                   color: '#F87171', icon: '📖', generators: [G3.word1, G3.add1000] },
-      { key: 'g3_word_sub_t',  name: 'Subtraktionsaufgaben',                color: '#FCA5A5', icon: '📖', generators: [G3.word1, G3.sub1000] },
+      { key: 'g3_word_add_t',  name: 'Additionsaufgaben',                   color: '#F87171', icon: '📖', generators: [G3.word1] },
+      { key: 'g3_word_sub_t',  name: 'Subtraktionsaufgaben',                color: '#FCA5A5', icon: '📖', generators: [G3.wordSub, G3.word3] },
       { key: 'g3_word_mul_t',  name: 'Multiplikationsaufgaben',             color: '#F87171', icon: '📖', generators: [G3.word2] },
       { key: 'g3_word_div_t',  name: 'Divisionsaufgaben',                   color: '#FCA5A5', icon: '📖', generators: [G3.word3] },
       { key: 'g3_word_multi_t', name: 'Mehrstufige Aufgaben',               color: '#F87171', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
