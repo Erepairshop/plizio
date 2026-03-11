@@ -2698,6 +2698,139 @@ export function qChartMore(nameA: string, countA: number, nameB: string, countB:
   }
 }
 
+// ─── ARITHMETIC RANGE HELPERS (Grade 4) ───────────────
+
+export function qErgaenzeAuf10000(part: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${part} + ? = 10 000`;
+    case "EN": return `${part} + ? = 10,000`;
+    case "RO": return `${part} + ? = 10 000`;
+    default:   return `${part} + ? = 10 000`;
+  }
+}
+
+export function qRoundTo10000(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Runde ${n} auf den nächsten Zehntausender.`;
+    case "EN": return `Round ${n} to the nearest 10,000.`;
+    case "RO": return `Rotunjește ${n} la zece mii.`;
+    default:   return `Kerekítsd ${n}-t a legközelebbi 10 000-esre!`;
+  }
+}
+
+export function qWeightConvert(val: number, from: string, to: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const units: Record<string, Record<string, string>> = {
+    g:  { DE: "g",    EN: "g",    RO: "g",    HU: "g" },
+    kg: { DE: "kg",   EN: "kg",   RO: "kg",   HU: "kg" },
+    t:  { DE: "t",    EN: "t",    RO: "t",    HU: "t" },
+  };
+  const f = units[from]?.[lang] ?? from;
+  const t2 = units[to]?.[lang] ?? to;
+  switch (lang) {
+    case "DE": return `${val} ${f} = ? ${t2}`;
+    case "EN": return `${val} ${f} = ? ${t2}`;
+    case "RO": return `${val} ${f} = ? ${t2}`;
+    default:   return `${val} ${f} = ? ${t2}`;
+  }
+}
+
+// ─── ANGLE / GEOMETRY (Grade 4) ───────────────────────
+
+export function qRightAngleDeg(countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return "Wie viele Grad hat ein rechter Winkel?";
+    case "EN": return "How many degrees is a right angle?";
+    case "RO": return "Câte grade are un unghi drept?";
+    default:   return "Hány fokos a derékszög?";
+  }
+}
+
+export function qStraightAngleDeg(countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return "Wie viele Grad hat ein gestreckter Winkel?";
+    case "EN": return "How many degrees is a straight angle?";
+    case "RO": return "Câte grade are un unghi plat?";
+    default:   return "Hány fokos a nyújtott szög?";
+  }
+}
+
+export function qFullAngleDeg(countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return "Wie viele Grad hat ein Vollwinkel?";
+    case "EN": return "How many degrees is a full rotation?";
+    case "RO": return "Câte grade are un unghi complet?";
+    default:   return "Hány fokos a teljes szög (körülfordulás)?";
+  }
+}
+
+export function qComplementToRight(a: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Wie viele Grad fehlen bei ${a}° bis zum rechten Winkel (90°)?`;
+    case "EN": return `How many degrees are missing from ${a}° to make a right angle (90°)?`;
+    case "RO": return `Câte grade lipsesc de la ${a}° pentru a completa un unghi drept (90°)?`;
+    default:   return `Hány fok hiányzik ${a}°-hoz, hogy derékszög (90°) legyen?`;
+  }
+}
+
+export function qAngleSumTriangle(countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return "Wie groß ist die Winkelsumme in einem Dreieck?";
+    case "EN": return "What is the sum of all angles in a triangle?";
+    case "RO": return "Cât este suma unghiurilor unui triunghi?";
+    default:   return "Mekkora egy háromszög szögeinek összege?";
+  }
+}
+
+export function qRightAnglesInShape(shape: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const shapes: Record<string, Record<string, string>> = {
+    rectangle: { DE: "einem Rechteck", EN: "a rectangle", RO: "un dreptunghi", HU: "a téglalapnak" },
+    square:    { DE: "einem Quadrat",   EN: "a square",    RO: "un pătrat",    HU: "a négyzetnek" },
+  };
+  const s = shapes[shape]?.[lang] ?? shapes[shape]?.["EN"] ?? shape;
+  switch (lang) {
+    case "DE": return `Wie viele rechte Winkel hat ${s}?`;
+    case "EN": return `How many right angles does ${s} have?`;
+    case "RO": return `Câte unghiuri drepte are ${s}?`;
+    default:   return `Hány derékszöge van ${s}?`;
+  }
+}
+
+export function qSymmetryAxes(shape: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const shapes: Record<string, Record<string, string>> = {
+    square:             { DE: "ein Quadrat",               EN: "a square",               RO: "un pătrat",               HU: "a négyzet" },
+    rectangle:          { DE: "ein Rechteck",              EN: "a rectangle",             RO: "un dreptunghi",           HU: "a téglalap" },
+    equilateralTriangle:{ DE: "ein gleichseitiges Dreieck",EN: "an equilateral triangle", RO: "un triunghi echilateral", HU: "a szabályos háromszög" },
+    isoscelesTriangle:  { DE: "ein gleichschenkliges Dreieck", EN: "an isosceles triangle", RO: "un triunghi isoscel", HU: "az egyenlő szárú háromszög" },
+  };
+  const s = shapes[shape]?.[lang] ?? shapes[shape]?.["EN"] ?? shape;
+  switch (lang) {
+    case "DE": return `Wie viele Symmetrieachsen hat ${s}?`;
+    case "EN": return `How many lines of symmetry does ${s} have?`;
+    case "RO": return `Câte axe de simetrie are ${s}?`;
+    default:   return `Hány szimmetriatengelye van ${s}nak?`;
+  }
+}
+
+export function qAngleType(a: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Winkel beträgt ${a}°. Ist er spitz (1), recht (2) oder stumpf (3)?`;
+    case "EN": return `An angle is ${a}°. Is it acute (1), right (2), or obtuse (3)?`;
+    case "RO": return `Un unghi este ${a}°. Este ascuțit (1), drept (2) sau obtuz (3)?`;
+    default:   return `Egy szög ${a}°. Hegyesszög (1), derékszög (2) vagy tompaszög (3)?`;
+  }
+}
+
 // Word problem: visual sharing of items
 export function wpVisualShare(total: number, emoji: string, kids: number, countryCode: string): string {
   const lang = getLang(countryCode);
