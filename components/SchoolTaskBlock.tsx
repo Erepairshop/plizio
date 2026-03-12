@@ -39,6 +39,11 @@ const FractionEquivalent = dynamic(() => import('./grade5-visual/FractionEquival
 const DecimalPlaceValue = dynamic(() => import('./grade5-visual/DecimalPlaceValue'), { ssr: false });
 const DecimalNumberLine = dynamic(() => import('./grade5-visual/DecimalNumberLine'), { ssr: false });
 const BalanceScale = dynamic(() => import('./grade5-visual/BalanceScale'), { ssr: false });
+const ShapeProperties = dynamic(() => import('./grade5-visual/ShapeProperties'), { ssr: false });
+const AngleClassify = dynamic(() => import('./grade5-visual/AngleClassify'), { ssr: false });
+const PerimeterCalc = dynamic(() => import('./grade5-visual/PerimeterCalc'), { ssr: false });
+const AreaGrid = dynamic(() => import('./grade5-visual/AreaGrid'), { ssr: false });
+const BarChartRead = dynamic(() => import('./grade5-visual/BarChartRead'), { ssr: false });
 const FractionPizzaAdder = dynamic(() => import('./grade4-visual/FractionPizzaAdder'), { ssr: false });
 const SymmetryMirror = dynamic(() => import('./grade4-visual/SymmetryMirror'), { ssr: false });
 const SequenceBuilder = dynamic(() => import('./grade4-visual/SequenceBuilder'), { ssr: false });
@@ -184,6 +189,16 @@ export default function SchoolTaskBlock({
         return <DecimalNumberLine rangeStart={p.rangeStart} rangeEnd={p.rangeEnd} target={p.target} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       case 'g5-balance-scale':
         return <BalanceScale leftWeights={p.leftWeights} rightWeight={p.rightWeight} unit={p.unit} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-shape-props':
+        return <ShapeProperties shapeId={p.shapeId} askProperty={p.askProperty} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-angle-classify':
+        return <AngleClassify degrees={p.degrees} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-perimeter':
+        return <PerimeterCalc shapeType={p.shapeType} sides={p.sides} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-area-grid':
+        return <AreaGrid width={p.width} height={p.height} shapeType={p.shapeType} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-barchart':
+        return <BarChartRead data={p.data} questionType={p.questionType} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       // Grade 1 visual components
       case 'g1-clock':
         return <G1AnalogClock hour={p.hour} minute={p.minute} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
