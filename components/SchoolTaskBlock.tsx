@@ -34,6 +34,11 @@ const NumberLinePlace = dynamic(() => import('./grade5-visual/NumberLinePlace'),
 const LargeNumberRounding = dynamic(() => import('./grade5-visual/LargeNumberRounding'), { ssr: false });
 const MultiplicationArray = dynamic(() => import('./grade5-visual/MultiplicationArray'), { ssr: false });
 const DivisionShare = dynamic(() => import('./grade5-visual/DivisionShare'), { ssr: false });
+const FractionCompare = dynamic(() => import('./grade5-visual/FractionCompare'), { ssr: false });
+const FractionEquivalent = dynamic(() => import('./grade5-visual/FractionEquivalent'), { ssr: false });
+const DecimalPlaceValue = dynamic(() => import('./grade5-visual/DecimalPlaceValue'), { ssr: false });
+const DecimalNumberLine = dynamic(() => import('./grade5-visual/DecimalNumberLine'), { ssr: false });
+const BalanceScale = dynamic(() => import('./grade5-visual/BalanceScale'), { ssr: false });
 const FractionPizzaAdder = dynamic(() => import('./grade4-visual/FractionPizzaAdder'), { ssr: false });
 const SymmetryMirror = dynamic(() => import('./grade4-visual/SymmetryMirror'), { ssr: false });
 const SequenceBuilder = dynamic(() => import('./grade4-visual/SequenceBuilder'), { ssr: false });
@@ -169,6 +174,16 @@ export default function SchoolTaskBlock({
         return <MultiplicationArray rows={p.rows} cols={p.cols} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       case 'g5-division-share':
         return <DivisionShare total={p.total} groups={p.groups} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-frac-compare':
+        return <FractionCompare fracA={p.fracA} fracB={p.fracB} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-frac-equiv':
+        return <FractionEquivalent baseNum={p.baseNum} baseDen={p.baseDen} multiplier={p.multiplier} hidePart={p.hidePart} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-decimal-place':
+        return <DecimalPlaceValue number={p.number} decimalPlaces={p.decimalPlaces} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-decimal-line':
+        return <DecimalNumberLine rangeStart={p.rangeStart} rangeEnd={p.rangeEnd} target={p.target} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-balance-scale':
+        return <BalanceScale leftWeights={p.leftWeights} rightWeight={p.rightWeight} unit={p.unit} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       // Grade 1 visual components
       case 'g1-clock':
         return <G1AnalogClock hour={p.hour} minute={p.minute} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
