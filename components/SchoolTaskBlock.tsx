@@ -27,6 +27,13 @@ import {
 // Lazy imports for Phase 2-4 visual components
 import dynamic from 'next/dynamic';
 const PlaceValueGrid = dynamic(() => import('./grade4-visual/PlaceValueGrid'), { ssr: false });
+
+// Grade 5 visual components
+const PlaceValueTableMillion = dynamic(() => import('./grade5-visual/PlaceValueTableMillion'), { ssr: false });
+const NumberLinePlace = dynamic(() => import('./grade5-visual/NumberLinePlace'), { ssr: false });
+const LargeNumberRounding = dynamic(() => import('./grade5-visual/LargeNumberRounding'), { ssr: false });
+const MultiplicationArray = dynamic(() => import('./grade5-visual/MultiplicationArray'), { ssr: false });
+const DivisionShare = dynamic(() => import('./grade5-visual/DivisionShare'), { ssr: false });
 const FractionPizzaAdder = dynamic(() => import('./grade4-visual/FractionPizzaAdder'), { ssr: false });
 const SymmetryMirror = dynamic(() => import('./grade4-visual/SymmetryMirror'), { ssr: false });
 const SequenceBuilder = dynamic(() => import('./grade4-visual/SequenceBuilder'), { ssr: false });
@@ -151,6 +158,17 @@ export default function SchoolTaskBlock({
         return <CircleDrawer targetRadius={p.radius} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       case 'money':
         return <MoneyCalculator items={p.items} budget={p.budget} mode={p.mode} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      // Grade 5 visual components
+      case 'g5-place-million':
+        return <PlaceValueTableMillion number={p.number} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-number-line':
+        return <NumberLinePlace rangeStart={p.rangeStart} rangeEnd={p.rangeEnd} target={p.target} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-rounding-large':
+        return <LargeNumberRounding target={p.target} step={p.step} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-mul-array':
+        return <MultiplicationArray rows={p.rows} cols={p.cols} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-division-share':
+        return <DivisionShare total={p.total} groups={p.groups} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       // Grade 1 visual components
       case 'g1-clock':
         return <G1AnalogClock hour={p.hour} minute={p.minute} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
