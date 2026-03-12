@@ -18,7 +18,8 @@ export type VisualQuestionType = 'zeichnen' | 'messen' | 'uhrzeit' | 'grid-area'
   | 'g3-nl-sub' | 'g3-rightangle' | 'g3-perim-concept' | 'g3-area-compare'
   | 'g5-place-million' | 'g5-number-line' | 'g5-rounding-large' | 'g5-mul-array' | 'g5-division-share'
   | 'g5-frac-compare' | 'g5-frac-equiv' | 'g5-decimal-place' | 'g5-decimal-line' | 'g5-balance-scale'
-  | 'g5-shape-props' | 'g5-angle-classify' | 'g5-perimeter' | 'g5-area-grid' | 'g5-barchart';
+  | 'g5-shape-props' | 'g5-angle-classify' | 'g5-perimeter' | 'g5-area-grid' | 'g5-barchart'
+  | 'g5-symmetry' | 'g5-unit-convert' | 'g5-nl-arith' | 'g5-word-problem';
 
 export type VisualQuestionData = {
   type: VisualQuestionType;

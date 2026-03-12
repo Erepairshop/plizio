@@ -44,6 +44,10 @@ const AngleClassify = dynamic(() => import('./grade5-visual/AngleClassify'), { s
 const PerimeterCalc = dynamic(() => import('./grade5-visual/PerimeterCalc'), { ssr: false });
 const AreaGrid = dynamic(() => import('./grade5-visual/AreaGrid'), { ssr: false });
 const BarChartRead = dynamic(() => import('./grade5-visual/BarChartRead'), { ssr: false });
+const SymmetryGrid = dynamic(() => import('./grade5-visual/SymmetryGrid'), { ssr: false });
+const UnitConverter = dynamic(() => import('./grade5-visual/UnitConverter'), { ssr: false });
+const NumberLineArith = dynamic(() => import('./grade5-visual/NumberLineArith'), { ssr: false });
+const WordProblemVisual = dynamic(() => import('./grade5-visual/WordProblemVisual'), { ssr: false });
 const FractionPizzaAdder = dynamic(() => import('./grade4-visual/FractionPizzaAdder'), { ssr: false });
 const SymmetryMirror = dynamic(() => import('./grade4-visual/SymmetryMirror'), { ssr: false });
 const SequenceBuilder = dynamic(() => import('./grade4-visual/SequenceBuilder'), { ssr: false });
@@ -199,6 +203,14 @@ export default function SchoolTaskBlock({
         return <AreaGrid width={p.width} height={p.height} shapeType={p.shapeType} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       case 'g5-barchart':
         return <BarChartRead data={p.data} questionType={p.questionType} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-symmetry':
+        return <SymmetryGrid axis={p.axis} sourcePoints={p.sourcePoints} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-unit-convert':
+        return <UnitConverter category={p.category} from={p.from} to={p.to} value={p.value} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-nl-arith':
+        return <NumberLineArith start={p.start} operand={p.operand} operation={p.operation} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-word-problem':
+        return <WordProblemVisual problemId={p.problemId} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       // Grade 1 visual components
       case 'g1-clock':
         return <G1AnalogClock hour={p.hour} minute={p.minute} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
