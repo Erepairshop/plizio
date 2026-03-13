@@ -145,7 +145,11 @@ const PlaceValueTableMillion: React.FC<PlaceValueTableMillionProps> = ({
             {activePlaces.map(p => (
               <div key={p.key} className="flex-1 text-center py-1 border-r last:border-r-0 border-indigo-100">
                 <span className="text-[9px] font-bold text-indigo-400">
-                  {p.factor >= 1000000 ? '1 Mio' : p.factor >= 1000 ? `${p.factor / 1000}K` : p.factor}
+                  {p.factor >= 1000000
+                    ? (language === 'en' ? '1M' : '1 Mio')
+                    : p.factor >= 1000
+                    ? `${p.factor / 1000}${language === 'en' ? 'K' : language === 'hu' ? 'E' : 'T'}`
+                    : p.factor}
                 </span>
               </div>
             ))}

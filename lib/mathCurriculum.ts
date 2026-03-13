@@ -2115,6 +2115,107 @@ const G5: Record<string, Generator> = {
     return q(prompts[lang] ?? prompts.EN, x, t("geometry", cc));
   },
 
+  // ── Negative numbers (EU Grade 5: DE/AT/CH) ──────────
+  negativeIntro: (cc) => {
+    const lang = getLang(cc);
+    const a = randInt(1, 12), b = randInt(a + 1, a + 8);
+    const prompts: Record<string,string> = {
+      DE: `${a} - ${b} = ?`,
+      EN: `${a} - ${b} = ?`,
+      HU: `${a} - ${b} = ?`,
+      RO: `${a} - ${b} = ?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, a - b, t("negativeNumbers", cc), -50);
+  },
+
+  negativeNumberLine: (cc) => {
+    const lang = getLang(cc);
+    const n = randInt(-10, -1);
+    const add = randInt(1, 6);
+    const result = n + add;
+    const prompts: Record<string,string> = {
+      DE: `(${n}) + ${add} = ?`,
+      EN: `(${n}) + ${add} = ?`,
+      HU: `(${n}) + ${add} = ?`,
+      RO: `(${n}) + ${add} = ?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, result, t("negativeNumbers", cc), -50);
+  },
+
+  negativeTemp: (cc) => {
+    const lang = getLang(cc);
+    const morning = -randInt(2, 8);
+    const rise = randInt(3, 12);
+    const afternoon = morning + rise;
+    const prompts: Record<string,string> = {
+      DE: `Morgens: ${morning}°C. Im Laufe des Tages steigt es um ${rise}°C. Wie warm ist es nachmittags?`,
+      EN: `Morning temperature: ${morning}°C. It rises by ${rise}°C during the day. What is the afternoon temperature?`,
+      HU: `Reggel ${morning}°C. A nap folyamán ${rise}°C-ot emelkedik a hőmérséklet. Mennyi délután?`,
+      RO: `Dimineața: ${morning}°C. Temperatura crește cu ${rise}°C în timpul zilei. Cât este după-amiaza?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, afternoon, t("negativeNumbers", cc), 0, true);
+  },
+
+  negativeDiff: (cc) => {
+    const lang = getLang(cc);
+    const a = -randInt(2, 8), b = randInt(2, 8);
+    const prompts: Record<string,string> = {
+      DE: `Welche Zahl liegt zwischen ${a} und ${b} genau in der Mitte? (Differenz)`,
+      EN: `What is the difference between ${b} and ${a}?`,
+      HU: `Mi a különbség ${b} és ${a} között?`,
+      RO: `Care este diferența dintre ${b} și ${a}?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, b - a, t("negativeNumbers", cc), -50);
+  },
+
+  // ── Volume (US Grade 5 + EU) ───────────────────────────
+  volumeCuboid: (cc) => {
+    const lang = getLang(cc);
+    const l = randInt(2, 8), w = randInt(2, 6), h = randInt(2, 5);
+    const vol = l * w * h;
+    const unit = cc === "US" ? "in" : "cm";
+    const volUnit = cc === "US" ? "in³" : "cm³";
+    const prompts: Record<string,string> = {
+      DE: `Ein Quader hat Länge ${l} cm, Breite ${w} cm, Höhe ${h} cm. Wie groß ist das Volumen (in cm³)?`,
+      EN: cc === "US"
+        ? `A rectangular prism is ${l} in long, ${w} in wide, and ${h} in tall. What is its volume (in³)?`
+        : `A cuboid is ${l} cm × ${w} cm × ${h} cm. What is its volume (cm³)?`,
+      HU: `Egy téglatest hossza ${l} cm, szélessége ${w} cm, magassága ${h} cm. Mekkora a térfogata (cm³)?`,
+      RO: `Un paralelipiped are lungimea ${l} cm, lățimea ${w} cm, înălțimea ${h} cm. Care este volumul (cm³)?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, vol, t("geometry", cc));
+  },
+
+  volumeCube: (cc) => {
+    const lang = getLang(cc);
+    const a = randInt(2, 6);
+    const vol = a * a * a;
+    const prompts: Record<string,string> = {
+      DE: `Ein Würfel hat die Kantenlänge ${a} cm. Was ist sein Volumen (cm³)?`,
+      EN: cc === "US"
+        ? `A cube has a side length of ${a} in. What is its volume (in³)?`
+        : `A cube has side length ${a} cm. What is its volume (cm³)?`,
+      HU: `Egy kocka élhossza ${a} cm. Mekkora a térfogata (cm³)?`,
+      RO: `Un cub are latura de ${a} cm. Care este volumul său (cm³)?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, vol, t("geometry", cc));
+  },
+
+  volumeWord: (cc) => {
+    const lang = getLang(cc);
+    const l = randInt(3, 8), w = randInt(2, 5), h = randInt(2, 4);
+    const vol = l * w * h;
+    const prompts: Record<string,string> = {
+      DE: `Eine Kiste ist ${l} cm lang, ${w} cm breit und ${h} cm hoch. Wie viel cm³ fasst sie?`,
+      EN: cc === "US"
+        ? `A box is ${l} in long, ${w} in wide, and ${h} in tall. How many cubic inches does it hold?`
+        : `A box is ${l} cm long, ${w} cm wide and ${h} cm tall. How many cm³ does it hold?`,
+      HU: `Egy doboz ${l} cm hosszú, ${w} cm széles és ${h} cm magas. Hány cm³-t fog be?`,
+      RO: `O cutie are lungimea ${l} cm, lățimea ${w} cm și înălțimea ${h} cm. Câți cm³ încape?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, vol, t("geometry", cc), 0, true);
+  },
+
   // ── Statistics ────────────────────────────────────────
   chartRead: (cc) => {
     const lang = getLang(cc);
@@ -2979,6 +3080,11 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_word_time',  name: 'Time Word Problems',                          color: '#991B1B', icon: '⏱️', generators: [G5.unitTime, G5.wordTravel] },
       { key: 'g5_word_money', name: 'Money Word Problems',                         color: '#7F1D1D', icon: '💶', generators: [G5.wordDiscount, G5.unitMoney, G5.percentWord] },
     ]},
+    { key: 'g5_volume', name: 'Volume', color: '#0EA5E9', icon: '📦', topics: [
+      { key: 'g5_vol_cube',    name: 'Volume of a Cube',                           color: '#38BDF8', icon: '🟦', generators: [G5.volumeCube] },
+      { key: 'g5_vol_cuboid',  name: 'Volume of a Rectangular Prism',              color: '#0EA5E9', icon: '📦', generators: [G5.volumeCuboid] },
+      { key: 'g5_vol_word',    name: 'Volume Word Problems',                       color: '#0284C7', icon: '📖', generators: [G5.volumeWord] },
+    ]},
   ],
   6: [
     { key: 'g6_neg', name: 'Negative Numbers', color: '#6366F1', icon: '➖', topics: [
@@ -3434,6 +3540,16 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_word_time',  name: 'Zeitaufgaben',                         color: '#991B1B', icon: '⏱️', generators: [G5.unitTime, G5.wordTravel] },
       { key: 'g5_word_money', name: 'Geldaufgaben',                         color: '#7F1D1D', icon: '💶', generators: [G5.wordDiscount, G5.unitMoney, G5.percentWord] },
     ]},
+    { key: 'g5_volumen', name: 'Volumen', color: '#0EA5E9', icon: '📦', topics: [
+      { key: 'g5_vol_cube',   name: 'Volumen eines Würfels',               color: '#38BDF8', icon: '🟦', generators: [G5.volumeCube] },
+      { key: 'g5_vol_cuboid', name: 'Volumen eines Quaders',               color: '#0EA5E9', icon: '📦', generators: [G5.volumeCuboid] },
+      { key: 'g5_vol_word',   name: 'Sachaufgaben zum Volumen',            color: '#0284C7', icon: '📖', generators: [G5.volumeWord] },
+    ]},
+    { key: 'g5_neg_de', name: 'Negative Zahlen (Einführung)', color: '#8B5CF6', icon: '➖', topics: [
+      { key: 'g5_neg_intro',  name: 'Negative Zahlen – Einführung',        color: '#A78BFA', icon: '➖', generators: [G5.negativeIntro, G5.negativeNumberLine] },
+      { key: 'g5_neg_temp',   name: 'Temperaturaufgaben',                  color: '#8B5CF6', icon: '🌡️', generators: [G5.negativeTemp] },
+      { key: 'g5_neg_diff',   name: 'Abstände auf der Zahlengeraden',      color: '#7C3AED', icon: '↔️', generators: [G5.negativeDiff] },
+    ]},
   ],
   6: [
     { key: 'g6_neg', name: 'Negative Zahlen', color: '#6366F1', icon: '➖', topics: [
@@ -3834,6 +3950,16 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_word_time',  name: 'Időszámítás',                               color: '#991B1B', icon: '⏱️', generators: [G5.wordTravel, G5.unitTime] },
       { key: 'g5_word_money', name: 'Pénzszámítás',                              color: '#7F1D1D', icon: '💶', generators: [G5.wordAdd, G5.wordSub, G5.unitMoney] },
     ]},
+    { key: 'g5_terfogat', name: 'Térfogat', color: '#0EA5E9', icon: '📦', topics: [
+      { key: 'g5_vol_cube',   name: 'Kocka térfogata',                         color: '#38BDF8', icon: '🟦', generators: [G5.volumeCube] },
+      { key: 'g5_vol_cuboid', name: 'Téglatest térfogata',                     color: '#0EA5E9', icon: '📦', generators: [G5.volumeCuboid] },
+      { key: 'g5_vol_word',   name: 'Szöveges feladatok – térfogat',           color: '#0284C7', icon: '📖', generators: [G5.volumeWord] },
+    ]},
+    { key: 'g5_neg_hu', name: 'Negatív számok (bevezetés)', color: '#8B5CF6', icon: '➖', topics: [
+      { key: 'g5_neg_intro',  name: 'Negatív számok – bevezetés',              color: '#A78BFA', icon: '➖', generators: [G5.negativeIntro, G5.negativeNumberLine] },
+      { key: 'g5_neg_temp',   name: 'Hőmérséklet-feladatok',                   color: '#8B5CF6', icon: '🌡️', generators: [G5.negativeTemp] },
+      { key: 'g5_neg_diff',   name: 'Távolságok a számegyenesen',              color: '#7C3AED', icon: '↔️', generators: [G5.negativeDiff] },
+    ]},
   ],
   6: [
     { key: 'g6_neg', name: 'Negatív számok', color: '#6366F1', icon: '➖', topics: [
@@ -4229,6 +4355,16 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_word_multi', name: 'Probleme cu mai mulți pași',                 color: '#B91C1C', icon: '🔗', generators: [G5.wordFence, G5.wordTravel, G5.wordMul, G5.wordDiv] },
       { key: 'g5_word_time',  name: 'Probleme cu timp',                           color: '#991B1B', icon: '⏱️', generators: [G5.wordTravel, G5.unitTime] },
       { key: 'g5_word_money', name: 'Probleme cu bani',                           color: '#7F1D1D', icon: '💶', generators: [G5.wordAdd, G5.wordSub, G5.unitMoney] },
+    ]},
+    { key: 'g5_volum', name: 'Volum', color: '#0EA5E9', icon: '📦', topics: [
+      { key: 'g5_vol_cube',   name: 'Volumul unui cub',                       color: '#38BDF8', icon: '🟦', generators: [G5.volumeCube] },
+      { key: 'g5_vol_cuboid', name: 'Volumul unui paralelipiped',              color: '#0EA5E9', icon: '📦', generators: [G5.volumeCuboid] },
+      { key: 'g5_vol_word',   name: 'Probleme cu volum',                      color: '#0284C7', icon: '📖', generators: [G5.volumeWord] },
+    ]},
+    { key: 'g5_neg_ro', name: 'Numere negative (introducere)', color: '#8B5CF6', icon: '➖', topics: [
+      { key: 'g5_neg_intro',  name: 'Numere negative – introducere',          color: '#A78BFA', icon: '➖', generators: [G5.negativeIntro, G5.negativeNumberLine] },
+      { key: 'g5_neg_temp',   name: 'Probleme cu temperaturi',                color: '#8B5CF6', icon: '🌡️', generators: [G5.negativeTemp] },
+      { key: 'g5_neg_diff',   name: 'Distanțe pe axa numerelor',              color: '#7C3AED', icon: '↔️', generators: [G5.negativeDiff] },
     ]},
   ],
   6: [

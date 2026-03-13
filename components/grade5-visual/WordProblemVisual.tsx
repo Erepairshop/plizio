@@ -14,10 +14,10 @@ interface WordProblemVisualProps {
 }
 
 const LABELS: Record<string, Record<string, string>> = {
-  hu: { title: 'Szöveges feladat', hint: 'Olvasd el figyelmesen és számítsd ki!', submit: 'Ellenőrzés', correct: 'Helyes!', incorrect: 'Nem jó. Próbáld újra!', tryAgain: 'Újra', yourAnswer: 'Válaszod:' },
-  de: { title: 'Textaufgabe', hint: 'Lies genau und rechne aus!', submit: 'Prüfen', correct: 'Richtig!', incorrect: 'Falsch. Nochmal!', tryAgain: 'Nochmal', yourAnswer: 'Deine Antwort:' },
-  en: { title: 'Word problem', hint: 'Read carefully and calculate!', submit: 'Check', correct: 'Correct!', incorrect: 'Not right. Try again!', tryAgain: 'Retry', yourAnswer: 'Your answer:' },
-  ro: { title: 'Problemă cu text', hint: 'Citește cu atenție și calculează!', submit: 'Verificare', correct: 'Corect!', incorrect: 'Greșit. Încearcă din nou!', tryAgain: 'Din nou', yourAnswer: 'Răspunsul tău:' },
+  hu: { title: 'Szöveges feladat', hint: 'Olvasd el figyelmesen és számítsd ki!', submit: 'Ellenőrzés', correct: 'Helyes!', incorrect: 'Nem jó. Próbáld újra!', tryAgain: 'Újra', yourAnswer: 'Válaszod:', showHint: '💡 Segítség', hideHint: '🙈 Elrejt' },
+  de: { title: 'Textaufgabe', hint: 'Lies genau und rechne aus!', submit: 'Prüfen', correct: 'Richtig!', incorrect: 'Falsch. Nochmal!', tryAgain: 'Nochmal', yourAnswer: 'Deine Antwort:', showHint: '💡 Hinweis', hideHint: '🙈 Verbergen' },
+  en: { title: 'Word problem', hint: 'Read carefully and calculate!', submit: 'Check', correct: 'Correct!', incorrect: 'Not right. Try again!', tryAgain: 'Retry', yourAnswer: 'Your answer:', showHint: '💡 Hint', hideHint: '🙈 Hide hint' },
+  ro: { title: 'Problemă cu text', hint: 'Citește cu atenție și calculează!', submit: 'Verificare', correct: 'Corect!', incorrect: 'Greșit. Încearcă din nou!', tryAgain: 'Din nou', yourAnswer: 'Răspunsul tău:', showHint: '💡 Indiciu', hideHint: '🙈 Ascunde' },
 };
 
 type Problem = {
@@ -168,7 +168,7 @@ const WordProblemVisual: React.FC<WordProblemVisualProps> = ({
             onClick={() => { playClick(); setShowHint(h => !h); }}
             className="text-xs font-bold text-amber-700 bg-amber-100 px-3 py-1 rounded-full border border-amber-200 hover:bg-amber-200 transition-all"
           >
-            {showHint ? '🙈 Hinweis verbergen' : '💡 Hinweis'}
+            {showHint ? t.hideHint : t.showHint}
           </button>
         </div>
       )}
