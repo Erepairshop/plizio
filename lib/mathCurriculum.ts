@@ -3886,6 +3886,7 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g6_pct_base',     name: 'Find the Base  (?% of □ = X)',       color: '#DB2777', icon: '🔍', generators: [G6.percentBase] },
       { key: 'g6_pct_change',   name: 'Percent Increase & Decrease',        color: '#BE185D', icon: '📈', generators: [G6.percentIncrease, G6.percentDecrease] },
       { key: 'g6_pct_word',     name: 'Percent Word Problems',              color: '#9D174D', icon: '📖', generators: [G6.percentDiscount, G6.percentTax] },
+      { key: 'g6_percent_bar',  name: 'Percent of 100 Grid  🔢',            color: '#F472B6', icon: '🔢', generators: [G6.percentCalc] },
     ]},
     { key: 'g6_ratio', name: 'Ratios & Proportions', color: '#10B981', icon: '⚡', topics: [
       { key: 'g6_ratio_concept', name: 'Ratio Concept  (a:b)',              color: '#6EE7B7', icon: '⚡', generators: [G6.ratio] },
@@ -3893,6 +3894,7 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g6_ratio_3',       name: 'Rule of Three  (unit rate)',         color: '#10B981', icon: '3️⃣', generators: [G6.ruleOfThree] },
       { key: 'g6_ratio_inv',     name: 'Inverse Proportion',                color: '#059669', icon: '↔️', generators: [G6.inverseRatio] },
       { key: 'g6_ratio_split',   name: 'Sharing in a Ratio',                color: '#047857', icon: '📊', generators: [G6.ratioSplit] },
+      { key: 'g6_ratio_table',   name: 'Ratio Table – Fill In  ⊞',          color: '#34D399', icon: '⊞', generators: [G6.ratioMissing] },
       { key: 'g6_speed',         name: 'Speed · Distance · Time',           color: '#065F46', icon: '🚗', generators: [G6.speed, G6.speedTime] },
     ]},
     { key: 'g6_algebra', name: 'Algebra', color: '#3B82F6', icon: 'x', topics: [
@@ -3908,12 +3910,15 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g6_surface',       name: 'Surface Area of a Box',              color: '#B45309', icon: '📦', generators: [G6.surfaceBox] },
       { key: 'g6_volume',        name: 'Volume  (prisms & cubes)',           color: '#92400E', icon: '🧊', generators: [G6.volume] },
       { key: 'g6_coord4q',       name: 'Coordinate Plane (4 quadrants)',     color: '#CA8A04', icon: '🗺️', generators: [G6.coord4Q] },
+      { key: 'g6_trapezoid_area', name: 'Trapezoid Area – Visual 📐',        color: '#FCD34D', icon: '⏢', generators: [G6.areaTrapezoid] },
+      { key: 'g6_coord_4q',      name: 'Coordinate Quadrant – Visual 🗺️',   color: '#F59E0B', icon: '🗺️', generators: [G6.coord4Q] },
     ]},
     { key: 'g6_stats', name: 'Statistics', color: '#14B8A6', icon: '📊', topics: [
       { key: 'g6_stat_mean',     name: 'Mean (average)',                     color: '#5EEAD4', icon: '📊', generators: [G6.mean] },
       { key: 'g6_stat_median',   name: 'Median',                             color: '#14B8A6', icon: '📈', generators: [G6.median] },
       { key: 'g6_stat_mode',     name: 'Mode',                               color: '#0D9488', icon: '🎯', generators: [G6.modeGen] },
       { key: 'g6_stat_range',    name: 'Range',                              color: '#0F766E', icon: '↔️', generators: [G6.rangeGen] },
+      { key: 'g6_pie_chart',     name: 'Pie Chart – Reading % 🥧',           color: '#2DD4BF', icon: '🥧', generators: [G6.mean] },
     ]},
     { key: 'g6_word', name: 'Word Problems', color: '#EF4444', icon: '📖', topics: [
       { key: 'g6_word_neg',      name: 'Word Problems · Negative Numbers',  color: '#FCA5A5', icon: '🌡️', generators: [G6.negTemp, G6.negDebt] },
@@ -4391,12 +4396,14 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g6_pct_base',     name: 'Grundwert  (?% von □ = X)',                color: '#DB2777', icon: '🔍', generators: [G6.percentBase] },
       { key: 'g6_pct_change',   name: 'Prozentuale Zu-/Abnahme',                 color: '#BE185D', icon: '📈', generators: [G6.percentIncrease, G6.percentDecrease] },
       { key: 'g6_pct_word',     name: 'Sachaufgaben Prozent (Rabatt, MwSt.)',     color: '#9D174D', icon: '📖', generators: [G6.percentDiscount, G6.percentTax] },
+      { key: 'g6_percent_bar',  name: 'Hunderterfeld ablesen 🔢',                 color: '#F472B6', icon: '🔢', generators: [G6.percentCalc] },
     ]},
     { key: 'g6_ratio', name: 'Verhältnis & Proportionen', color: '#10B981', icon: '⚡', topics: [
       { key: 'g6_ratio_concept', name: 'Verhältnis (a:b)',                        color: '#6EE7B7', icon: '⚡', generators: [G6.ratio] },
       { key: 'g6_ratio_missing', name: 'Proportionen  (a:b = c:?)',               color: '#34D399', icon: '🔄', generators: [G6.ratioMissing] },
       { key: 'g6_ratio_3',       name: 'Dreisatz (einfach und umgekehrt)',         color: '#10B981', icon: '3️⃣', generators: [G6.ruleOfThree, G6.inverseRatio] },
       { key: 'g6_ratio_split',   name: 'Aufteilen im Verhältnis',                  color: '#059669', icon: '📊', generators: [G6.ratioSplit] },
+      { key: 'g6_ratio_table',   name: 'Verhältnistabelle ausfüllen ⊞',           color: '#34D399', icon: '⊞', generators: [G6.ratioMissing] },
       { key: 'g6_speed',         name: 'Geschwindigkeit · Weg · Zeit',             color: '#065F46', icon: '🚗', generators: [G6.speed, G6.speedTime, G6.wordTrain] },
     ]},
     { key: 'g6_algebra', name: 'Algebra', color: '#3B82F6', icon: 'x', topics: [
@@ -4412,12 +4419,15 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g6_surface',       name: 'Oberfläche eines Quaders',                color: '#B45309', icon: '📦', generators: [G6.surfaceBox] },
       { key: 'g6_volume',        name: 'Volumen  (Quader & Würfel)',               color: '#92400E', icon: '🧊', generators: [G6.volume] },
       { key: 'g6_coord4q',       name: 'Koordinatensystem (alle 4 Quadranten)',   color: '#CA8A04', icon: '🗺️', generators: [G6.coord4Q] },
+      { key: 'g6_trapezoid_area', name: 'Trapezfläche – Visuell 📐',              color: '#FCD34D', icon: '⏢', generators: [G6.areaTrapezoid] },
+      { key: 'g6_coord_4q',      name: 'Koordinatenquadrant – Visuell 🗺️',       color: '#F59E0B', icon: '🗺️', generators: [G6.coord4Q] },
     ]},
     { key: 'g6_stats', name: 'Statistik', color: '#14B8A6', icon: '📊', topics: [
       { key: 'g6_stat_mean',     name: 'Mittelwert (Durchschnitt)',                color: '#5EEAD4', icon: '📊', generators: [G6.mean] },
       { key: 'g6_stat_median',   name: 'Median',                                  color: '#14B8A6', icon: '📈', generators: [G6.median] },
       { key: 'g6_stat_mode',     name: 'Modus (häufigster Wert)',                 color: '#0D9488', icon: '🎯', generators: [G6.modeGen] },
       { key: 'g6_stat_range',    name: 'Spannweite',                              color: '#0F766E', icon: '↔️', generators: [G6.rangeGen] },
+      { key: 'g6_pie_chart',     name: 'Kreisdiagramm ablesen 🥧',                color: '#2DD4BF', icon: '🥧', generators: [G6.mean] },
     ]},
     { key: 'g6_word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', topics: [
       { key: 'g6_word_neg',      name: 'Sachaufgaben · Negative Zahlen',          color: '#FCA5A5', icon: '🌡️', generators: [G6.negTemp, G6.negDebt] },
@@ -4840,12 +4850,14 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g6_pct_base',     name: 'Alapszám keresése  (□ ?%-a = X)',     color: '#DB2777', icon: '🔍', generators: [G6.percentBase] },
       { key: 'g6_pct_change',   name: 'Százalékos növekedés/csökkenés',      color: '#BE185D', icon: '📈', generators: [G6.percentIncrease, G6.percentDecrease] },
       { key: 'g6_pct_word',     name: 'Szöveges feladatok (kedvezmény, áfa)', color: '#9D174D', icon: '📖', generators: [G6.percentDiscount, G6.percentTax] },
+      { key: 'g6_percent_bar',  name: 'Százalék a százsárból 🔢',            color: '#F472B6', icon: '🔢', generators: [G6.percentCalc] },
     ]},
     { key: 'g6_ratio', name: 'Arány & Arányosság', color: '#10B981', icon: '⚡', topics: [
       { key: 'g6_ratio_concept', name: 'Arány fogalma (a:b)',                 color: '#6EE7B7', icon: '⚡', generators: [G6.ratio] },
       { key: 'g6_ratio_missing', name: 'Arányos számítás  (a:b = c:?)',      color: '#34D399', icon: '🔄', generators: [G6.ratioMissing] },
       { key: 'g6_ratio_3',       name: 'Egyenes & fordított arányosság',     color: '#10B981', icon: '3️⃣', generators: [G6.ruleOfThree, G6.inverseRatio] },
       { key: 'g6_ratio_split',   name: 'Arányos felosztás',                  color: '#059669', icon: '📊', generators: [G6.ratioSplit] },
+      { key: 'g6_ratio_table',   name: 'Aránytábla kitöltése ⊞',            color: '#34D399', icon: '⊞', generators: [G6.ratioMissing] },
       { key: 'g6_speed',         name: 'Sebesség · Út · Idő',               color: '#065F46', icon: '🚗', generators: [G6.speed, G6.speedTime, G6.wordTrain] },
     ]},
     { key: 'g6_algebra', name: 'Algebra', color: '#3B82F6', icon: 'x', topics: [
@@ -4861,12 +4873,15 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g6_surface',       name: 'Téglatest felszíne',                 color: '#B45309', icon: '📦', generators: [G6.surfaceBox] },
       { key: 'g6_volume',        name: 'Térfogat  (téglatest & kocka)',      color: '#92400E', icon: '🧊', generators: [G6.volume] },
       { key: 'g6_coord4q',       name: 'Koordináta-rendszer (4 negyed)',     color: '#CA8A04', icon: '🗺️', generators: [G6.coord4Q] },
+      { key: 'g6_trapezoid_area', name: 'Trapéz területe – Vizuális 📐',    color: '#FCD34D', icon: '⏢', generators: [G6.areaTrapezoid] },
+      { key: 'g6_coord_4q',      name: 'Koordináta-negyed – Vizuális 🗺️',  color: '#F59E0B', icon: '🗺️', generators: [G6.coord4Q] },
     ]},
     { key: 'g6_stats', name: 'Statisztika', color: '#14B8A6', icon: '📊', topics: [
       { key: 'g6_stat_mean',     name: 'Átlag (középérték)',                  color: '#5EEAD4', icon: '📊', generators: [G6.mean] },
       { key: 'g6_stat_median',   name: 'Medián',                             color: '#14B8A6', icon: '📈', generators: [G6.median] },
       { key: 'g6_stat_mode',     name: 'Módusz (leggyakoribb érték)',        color: '#0D9488', icon: '🎯', generators: [G6.modeGen] },
       { key: 'g6_stat_range',    name: 'Terjedelem',                         color: '#0F766E', icon: '↔️', generators: [G6.rangeGen] },
+      { key: 'g6_pie_chart',     name: 'Kördiagram olvasása 🥧',             color: '#2DD4BF', icon: '🥧', generators: [G6.mean] },
     ]},
     { key: 'g6_word', name: 'Szöveges feladatok', color: '#EF4444', icon: '📖', topics: [
       { key: 'g6_word_neg',      name: 'Szöveges · negatív számok',          color: '#FCA5A5', icon: '🌡️', generators: [G6.negTemp, G6.negDebt] },
@@ -5285,12 +5300,14 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g6_pct_base',     name: 'Baza  (?% din □ = X)',                  color: '#DB2777', icon: '🔍', generators: [G6.percentBase] },
       { key: 'g6_pct_change',   name: 'Creștere/scădere procentuală',         color: '#BE185D', icon: '📈', generators: [G6.percentIncrease, G6.percentDecrease] },
       { key: 'g6_pct_word',     name: 'Probleme (reducere, TVA)',              color: '#9D174D', icon: '📖', generators: [G6.percentDiscount, G6.percentTax] },
+      { key: 'g6_percent_bar',  name: 'Procente din grila 100 🔢',            color: '#F472B6', icon: '🔢', generators: [G6.percentCalc] },
     ]},
     { key: 'g6_ratio', name: 'Rapoarte & Proporții', color: '#10B981', icon: '⚡', topics: [
       { key: 'g6_ratio_concept', name: 'Raportul (a:b)',                       color: '#6EE7B7', icon: '⚡', generators: [G6.ratio] },
       { key: 'g6_ratio_missing', name: 'Proporții  (a:b = c:?)',               color: '#34D399', icon: '🔄', generators: [G6.ratioMissing] },
       { key: 'g6_ratio_3',       name: 'Regula de trei simplă & inversă',     color: '#10B981', icon: '3️⃣', generators: [G6.ruleOfThree, G6.inverseRatio] },
       { key: 'g6_ratio_split',   name: 'Împărțire în raport',                 color: '#059669', icon: '📊', generators: [G6.ratioSplit] },
+      { key: 'g6_ratio_table',   name: 'Tabel proporțional – completare ⊞',  color: '#34D399', icon: '⊞', generators: [G6.ratioMissing] },
       { key: 'g6_speed',         name: 'Viteză · Distanță · Timp',            color: '#065F46', icon: '🚗', generators: [G6.speed, G6.speedTime, G6.wordTrain] },
     ]},
     { key: 'g6_algebra', name: 'Algebră', color: '#3B82F6', icon: 'x', topics: [
@@ -5306,12 +5323,15 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g6_surface',       name: 'Suprafața paralelipipedului',          color: '#B45309', icon: '📦', generators: [G6.surfaceBox] },
       { key: 'g6_volume',        name: 'Volum  (paralelipiped & cub)',         color: '#92400E', icon: '🧊', generators: [G6.volume] },
       { key: 'g6_coord4q',       name: 'Sistemul de coordonate (4 cadrane)',   color: '#CA8A04', icon: '🗺️', generators: [G6.coord4Q] },
+      { key: 'g6_trapezoid_area', name: 'Aria trapezului – Vizual 📐',        color: '#FCD34D', icon: '⏢', generators: [G6.areaTrapezoid] },
+      { key: 'g6_coord_4q',      name: 'Cadranul coordonatelor – Vizual 🗺️', color: '#F59E0B', icon: '🗺️', generators: [G6.coord4Q] },
     ]},
     { key: 'g6_stats', name: 'Statistică', color: '#14B8A6', icon: '📊', topics: [
       { key: 'g6_stat_mean',     name: 'Medie (valoare medie)',                color: '#5EEAD4', icon: '📊', generators: [G6.mean] },
       { key: 'g6_stat_median',   name: 'Mediană',                             color: '#14B8A6', icon: '📈', generators: [G6.median] },
       { key: 'g6_stat_mode',     name: 'Modul (valoarea cea mai frecventă)',  color: '#0D9488', icon: '🎯', generators: [G6.modeGen] },
       { key: 'g6_stat_range',    name: 'Intervalul (max − min)',               color: '#0F766E', icon: '↔️', generators: [G6.rangeGen] },
+      { key: 'g6_pie_chart',     name: 'Diagramă circulară 🥧',               color: '#2DD4BF', icon: '🥧', generators: [G6.mean] },
     ]},
     { key: 'g6_word', name: 'Probleme', color: '#EF4444', icon: '📖', topics: [
       { key: 'g6_word_neg',      name: 'Probleme · numere negative',           color: '#FCA5A5', icon: '🌡️', generators: [G6.negTemp, G6.negDebt] },
