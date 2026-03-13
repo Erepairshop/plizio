@@ -1213,7 +1213,9 @@ const G2: Record<string, Generator> = {
     };
     const p = pick(patterns);
     const next = toLabel(p.next), wrong1 = toLabel(p.wrong1), wrong2 = toLabel(p.wrong2);
-    return qstr(qShapePatternQuestion(cc), next, t("patternContinue", cc), [next, wrong1, wrong2],
+    // Include the pattern sequence in the question text so it's visible without a visual component
+    const patternStr = p.shapes.map(toLabel).join(' – ') + ' – ?';
+    return qstr(patternStr, next, t("patternContinue", cc), [next, wrong1, wrong2],
       false, { type: "shape-pattern", shapes: [...p.shapes, "?"] });
   },
   // ── NEW G2: Number line (Zahlenstrahl) with larger steps ──
