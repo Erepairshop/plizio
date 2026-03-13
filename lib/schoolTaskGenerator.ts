@@ -1212,11 +1212,26 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
         visualType: 'g5-balance-scale', visualData: { type: 'g5-balance-scale', params: { leftWeights: weights, rightWeight: total, unit: 'g' } } };
     }
     case 'g5_shape_vis': {
-      const shapes = ['triangle', 'square', 'rectangle', 'pentagon', 'hexagon', 'rhombus'];
+      const shapes = ['triangle', 'right_triangle', 'square', 'rectangle', 'parallelogram', 'trapezoid', 'pentagon', 'hexagon', 'rhombus'];
       const shapeId = shapes[rnd(0, shapes.length - 1)];
-      const sideMap: Record<string, number> = { triangle: 3, square: 4, rectangle: 4, pentagon: 5, hexagon: 6, rhombus: 4 };
-      const askProperty = Math.random() > 0.5 ? 'sides' : 'angles';
-      return { id: `vis_g5shp_${sfx}`, answer: String(sideMap[shapeId]), points: 1,
+      const shapeData: Record<string, { sides: number; rightAngles: number; parallelPairs: number }> = {
+        triangle:      { sides: 3, rightAngles: 0, parallelPairs: 0 },
+        right_triangle:{ sides: 3, rightAngles: 1, parallelPairs: 0 },
+        square:        { sides: 4, rightAngles: 4, parallelPairs: 2 },
+        rectangle:     { sides: 4, rightAngles: 4, parallelPairs: 2 },
+        parallelogram: { sides: 4, rightAngles: 0, parallelPairs: 2 },
+        trapezoid:     { sides: 4, rightAngles: 0, parallelPairs: 1 },
+        pentagon:      { sides: 5, rightAngles: 0, parallelPairs: 0 },
+        hexagon:       { sides: 6, rightAngles: 0, parallelPairs: 3 },
+        rhombus:       { sides: 4, rightAngles: 0, parallelPairs: 2 },
+      };
+      const props = ['sides', 'right_angles', 'parallel_pairs'] as const;
+      const askProperty = props[rnd(0, props.length - 1)];
+      const sd = shapeData[shapeId];
+      const answerNum = askProperty === 'right_angles' ? sd.rightAngles
+        : askProperty === 'parallel_pairs' ? sd.parallelPairs
+        : sd.sides;
+      return { id: `vis_g5shp_${sfx}`, answer: String(answerNum), points: 1,
         visualType: 'g5-shape-props', visualData: { type: 'g5-shape-props', params: { shapeId, askProperty } } };
     }
     case 'g5_angle_vis': {
