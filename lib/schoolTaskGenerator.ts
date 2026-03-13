@@ -1145,20 +1145,23 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
         visualType: 'g5-number-line', visualData: { type: 'g5-number-line', params: { rangeStart, rangeEnd, target } } };
     }
     case 'g5_rounding_vis': {
-      const steps = [1000, 10000, 100000];
-      const step = steps[rnd(0, 2)];
-      const target = rnd(1, 9) * step + rnd(1, step - 1);
+      // Grade 5: round to 10000 or 100000 (5-6 digit numbers)
+      const steps = [10000, 100000];
+      const step = steps[rnd(0, 1)];
+      const target = rnd(2, 18) * step + rnd(1, step - 1);
       const answer = Math.round(target / step) * step;
       return { id: `vis_g5rv_${sfx}`, answer: String(answer), points: 1,
         visualType: 'g5-rounding-large', visualData: { type: 'g5-rounding-large', params: { target, step } } };
     }
     case 'g5_mul_array': {
-      const rows = rnd(3, 9), cols = rnd(3, 9);
+      // Grade 5: 2-digit × 1-digit (e.g. 12×4, 15×6) — still visual but harder
+      const rows = rnd(10, 15), cols = rnd(2, 6);
       return { id: `vis_g5ma_${sfx}`, answer: String(rows * cols), points: 1,
         visualType: 'g5-mul-array', visualData: { type: 'g5-mul-array', params: { rows, cols } } };
     }
     case 'g5_div_share': {
-      const groups = rnd(2, 6), perGroup = rnd(3, 8);
+      // Grade 5: larger totals, 2-digit ÷ 1-digit (e.g. 72÷8, 56÷7)
+      const groups = rnd(4, 9), perGroup = rnd(6, 12);
       const total = groups * perGroup;
       return { id: `vis_g5dsh_${sfx}`, answer: String(perGroup), points: 1,
         visualType: 'g5-division-share', visualData: { type: 'g5-division-share', params: { total, groups } } };
@@ -1182,12 +1185,15 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
         visualType: 'g5-frac-equiv', visualData: { type: 'g5-frac-equiv', params: { baseNum, baseDen, multiplier, hidePart } } };
     }
     case 'g5_decimal_place_vis': {
-      const dp = Math.random() > 0.5 ? 1 : 2;
-      const ones = rnd(1, 9), t1 = rnd(1, 9), t2 = rnd(1, 9);
-      const num = dp === 1 ? parseFloat(`${ones}.${t1}`) : parseFloat(`${ones}.${t1}${t2}`);
-      const answer = dp === 1 ? `${ones}${t1}` : `${ones}${t1}${t2}`;
+      // Grade 5: 2-digit integer part + 2 decimal places (e.g. 23.47)
+      const intPart = rnd(10, 99);
+      const t1 = rnd(1, 9), t2 = rnd(1, 9);
+      const num = parseFloat(`${intPart}.${t1}${t2}`);
+      const tens = Math.floor(intPart / 10);
+      const onesDigit = intPart % 10;
+      const answer = `${tens}${onesDigit}${t1}${t2}`;
       return { id: `vis_g5dp_${sfx}`, answer, points: 1,
-        visualType: 'g5-decimal-place', visualData: { type: 'g5-decimal-place', params: { number: num, decimalPlaces: dp as 1 | 2 } } };
+        visualType: 'g5-decimal-place', visualData: { type: 'g5-decimal-place', params: { number: num, decimalPlaces: 2 } } };
     }
     case 'g5_decimal_line_vis': {
       const rangeStart = rnd(0, 8);
@@ -1228,13 +1234,15 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
         visualType: 'g5-perimeter', visualData: { type: 'g5-perimeter', params: { shapeType, sides } } };
     }
     case 'g5_area_vis': {
-      const w = rnd(2, 12), h = rnd(2, 10);
+      // Grade 5: larger dimensions
+      const w = rnd(5, 20), h = rnd(4, 15);
       return { id: `vis_g5area_${sfx}`, answer: String(w * h), points: 1,
         visualType: 'g5-area-grid', visualData: { type: 'g5-area-grid', params: { width: w, height: h, shapeType: 'rectangle' } } };
     }
     case 'g5_barchart_vis': {
       const labels = ['A', 'B', 'C', 'D'];
-      const data = labels.map(label => ({ label, value: rnd(2, 15) }));
+      // Grade 5: values in 10-60 range (multiples of 5)
+      const data = labels.map(label => ({ label, value: rnd(2, 12) * 5 }));
       const qtypes: Array<'max' | 'min' | 'total' | 'diff'> = ['max', 'min', 'total', 'diff'];
       const questionType = qtypes[rnd(0, 3)];
       const vals = data.map(d => d.value);
@@ -1281,8 +1289,10 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
     }
     case 'g5_nl_arith': {
       const operation: 'add' | 'sub' = Math.random() > 0.5 ? 'add' : 'sub';
-      const operand = rnd(1, 10) * 100;
-      const start = operation === 'sub' ? rnd(10, 50) * 100 + operand : rnd(5, 50) * 100;
+      // Grade 5: 5-digit numbers, jump by thousands
+      const operand = rnd(1, 9) * 1000;
+      const startBase = rnd(10, 90) * 1000;
+      const start = operation === 'sub' ? startBase + operand : startBase;
       const answer = operation === 'add' ? start + operand : start - operand;
       return { id: `vis_g5nla_${sfx}`, answer: String(answer), points: 1,
         visualType: 'g5-nl-arith', visualData: { type: 'g5-nl-arith', params: { start, operand, operation } } };
