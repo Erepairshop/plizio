@@ -754,6 +754,7 @@ const VISUAL_TOPIC_KEYS = new Set([
   'number_line', 'angle', 'circle_draw', 'money',
   'g1_clock', 'g1_number_line', 'g1_place_value', 'g1_grid_count',
   'g1_sequence', 'g1_coins', 'g1_timeline', 'g1_fraction',
+  'g1_visual',  // combined: grid_count + coins + fraction (Punkte · Würfel · Finger · Bilder)
   // Grade 2 visual topics
   'g2_clock', 'g2_strecken', 'g2_zahlstr', 'g2_stellenwert', 'g2_money',
   // Grade 3 visual topics — new components
@@ -936,6 +937,12 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
       const shape = (['pizza', 'rectangle', 'circle'] as const)[rnd(0, 2)];
       return { id: `vis_g1fr_${sfx}`, answer: coloredParts, points: 1,
         visualType: 'g1-fraction', visualData: { type: 'g1-fraction', params: { shape, totalParts, coloredParts } } };
+    }
+    case 'g1_visual': {
+      // Combined block: sub 0=grid counting, sub 1=coins, sub 2=fraction
+      // Each sub-question uses its own visual component
+      const subTypes = ['g1_grid_count', 'g1_coins', 'g1_fraction'] as const;
+      return generateVisualSub(subTypes[subIdx % subTypes.length], blockIdx, subIdx);
     }
     // ── Grade 2 visual components ──────────────────────────────────────────
     case 'g2_clock': {
@@ -1350,6 +1357,7 @@ const VISUAL_TOPIC_TO_TYPE: Record<string, TaskType> = {
   g1_clock: 'visual_g1_clock', g1_number_line: 'visual_g1_number_line', g1_place_value: 'visual_g1_place_value',
   g1_grid_count: 'visual_g1_grid_count', g1_sequence: 'visual_g1_sequence', g1_coins: 'visual_g1_coins',
   g1_timeline: 'visual_g1_timeline', g1_fraction: 'visual_g1_fraction',
+  g1_visual: 'visual_g1_grid_count',  // combined topic — sub-questions each get their own visualType
   // Grade 2 visual topics → reuse existing visual types
   g2_clock: 'visual_uhrzeit', g2_strecken: 'visual_messen',
   g2_zahlstr: 'visual_g1_number_line', g2_stellenwert: 'visual_g1_place_value', g2_money: 'visual_money',
