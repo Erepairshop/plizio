@@ -5670,31 +5670,31 @@ export function generateKlassenarbeit(grade: number, period?: number, countryCod
           name: "Arithmetics",
           questionCount: 2,
           pointsPerQuestion: 1,
-          generators: [G6.negative, G6.negativeB, G6.negativeC],
+          generators: [G6.negative, G6.negSub, G6.negMul, G6.negAbsolute],
         },
         fractions: {
           name: "Fractions",
           questionCount: 2,
           pointsPerQuestion: 2,
-          generators: [G6.fractionMul, G6.fractionDiv],
+          generators: [G6.fractionMul, G6.fracMulFrac, G6.fractionDiv, G6.fracToPercent],
         },
         ratios: {
           name: "Ratios & Speed",
           questionCount: 2,
           pointsPerQuestion: 2,
-          generators: [G6.ratio, G6.speed, G6.percentCalc],
+          generators: [G6.ratio, G6.ratioMissing, G6.ruleOfThree, G6.speed],
         },
         geometry: {
           name: "Geometry",
           questionCount: 2,
           pointsPerQuestion: 2,
-          generators: [G6.areaTriangle, G6.areaSquare],
+          generators: [G6.areaTriangle, G6.areaParallelogram, G6.areaTrapezoid, G6.circle],
         },
         bonus: {
           name: "Bonus",
           questionCount: 1,
           pointsPerQuestion: 1,
-          generators: [G6.percentDiscount, G6.wordTrain],
+          generators: [G6.percentCalc, G6.percentDiscount, G6.equation1, G6.mean],
         },
       };
       break;

@@ -20,7 +20,8 @@ export type VisualQuestionType = 'zeichnen' | 'messen' | 'uhrzeit' | 'grid-area'
   | 'g5-frac-compare' | 'g5-frac-equiv' | 'g5-decimal-place' | 'g5-decimal-line' | 'g5-balance-scale'
   | 'g5-shape-props' | 'g5-angle-classify' | 'g5-perimeter' | 'g5-area-grid' | 'g5-barchart'
   | 'g5-symmetry' | 'g5-unit-convert' | 'g5-nl-arith' | 'g5-word-problem'
-  | 'g5-neg-line' | 'g5-volume-cuboid';
+  | 'g5-neg-line' | 'g5-volume-cuboid'
+  | 'g6-coord-4q' | 'g6-pie-chart' | 'g6-ratio-table' | 'g6-trapezoid-area' | 'g6-percent-bar';
 
 export type VisualQuestionData = {
   type: VisualQuestionType;
@@ -117,7 +118,12 @@ export type TaskType =
   | 'visual_g5_unit_convert'
   | 'visual_g5_nl_arith'
   | 'visual_g5_neg_line'
-  | 'visual_g5_volume_cuboid';
+  | 'visual_g5_volume_cuboid'
+  | 'visual_g6_coord_4q'
+  | 'visual_g6_pie_chart'
+  | 'visual_g6_ratio_table'
+  | 'visual_g6_trapezoid'
+  | 'visual_g6_percent_bar';
 
 export type AufgabenItem = {
   question: string;
@@ -775,6 +781,8 @@ const VISUAL_TOPIC_KEYS = new Set([
   'g5_perim_vis', 'g5_area_vis', 'g5_barchart_vis',
   'g5_symmetry_vis', 'g5_unit_convert', 'g5_nl_arith',
   'g5_neg_line', 'g5_vol_cuboid',
+  // Grade 6 visual topics
+  'g6_coord_4q', 'g6_pie_chart', 'g6_ratio_table', 'g6_trapezoid_area', 'g6_percent_bar',
 ]);
 
 function isVisualTopicKey(key: string): boolean {
@@ -1344,6 +1352,46 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
       return { id: `vis_g5nla_${sfx}`, answer: String(answer), points: 1,
         visualType: 'g5-nl-arith', visualData: { type: 'g5-nl-arith', params: { start, operand, operation } } };
     }
+    case 'g6_coord_4q': {
+      const candidates = [-4, -3, -2, -1, 1, 2, 3, 4];
+      const x = candidates[rnd(0, candidates.length - 1)];
+      const y = candidates[rnd(0, candidates.length - 1)];
+      const q = x > 0 && y > 0 ? 1 : x < 0 && y > 0 ? 2 : x < 0 && y < 0 ? 3 : 4;
+      return { id: `vis_g6cq_${sfx}`, answer: String(q), points: 1,
+        visualType: 'g6-coord-4q', visualData: { type: 'g6-coord-4q', params: { pointX: x, pointY: y } } };
+    }
+    case 'g6_pie_chart': {
+      const distros = [[50,30,20],[40,35,25],[60,25,15],[40,30,20,10],[25,25,25,25],[50,20,20,10],[45,30,15,10]];
+      const vals = distros[rnd(0, distros.length - 1)];
+      const COLORS = ['#6366f1','#10b981','#f59e0b','#ef4444'];
+      const slices = vals.map((v, i) => ({ label: `S${i+1}`, value: v, color: COLORS[i % COLORS.length] }));
+      const tIdx = rnd(0, slices.length - 1);
+      return { id: `vis_g6pc_${sfx}`, answer: String(vals[tIdx]), points: 1,
+        visualType: 'g6-pie-chart', visualData: { type: 'g6-pie-chart', params: { slices, targetIndex: tIdx } } };
+    }
+    case 'g6_ratio_table': {
+      const unit = rnd(2, 8);
+      const qtyLen = rnd(3, 4);
+      const quantities = Array.from({ length: qtyLen }, (_, i) => i + 1);
+      const hiddenIdx = rnd(0, qtyLen - 1);
+      return { id: `vis_g6rt_${sfx}`, answer: String(quantities[hiddenIdx] * unit), points: 1,
+        visualType: 'g6-ratio-table', visualData: { type: 'g6-ratio-table', params: { unitValue: unit, quantities, hiddenIdx } } };
+    }
+    case 'g6_trapezoid_area': {
+      const shape: 'trapezoid' | 'parallelogram' = Math.random() > 0.5 ? 'trapezoid' : 'parallelogram';
+      const a = rnd(3, 10);
+      const b = shape === 'trapezoid' ? a + rnd(1, 5) : a;
+      const h = rnd(2, 7);
+      const area = shape === 'trapezoid' ? ((a + b) / 2) * h : a * h;
+      return { id: `vis_g6ta_${sfx}`, answer: String(area), points: 1,
+        visualType: 'g6-trapezoid-area', visualData: { type: 'g6-trapezoid-area', params: { baseA: a, baseB: b, height: h, shapeType: shape } } };
+    }
+    case 'g6_percent_bar': {
+      const pcts = [10, 20, 25, 30, 40, 50, 60, 70, 75, 80];
+      const pct = pcts[rnd(0, pcts.length - 1)];
+      return { id: `vis_g6pb_${sfx}`, answer: String(pct), points: 1,
+        visualType: 'g6-percent-bar', visualData: { type: 'g6-percent-bar', params: { percentage: pct } } };
+    }
     default:
       return generateVisualSub('zeichnen', blockIdx, subIdx);
   }
@@ -1408,6 +1456,12 @@ const VISUAL_TOPIC_TO_TYPE: Record<string, TaskType> = {
   g5_nl_arith:         'visual_g5_nl_arith',
   g5_neg_line:         'visual_g5_neg_line',
   g5_vol_cuboid:       'visual_g5_volume_cuboid',
+  // Grade 6 visual topics
+  g6_coord_4q:         'visual_g6_coord_4q',
+  g6_pie_chart:        'visual_g6_pie_chart',
+  g6_ratio_table:      'visual_g6_ratio_table',
+  g6_trapezoid_area:   'visual_g6_trapezoid',
+  g6_percent_bar:      'visual_g6_percent_bar',
 };
 
 function generateVisualBlock(
@@ -1647,6 +1701,12 @@ const TITLES: Record<TaskType, Record<string, string>> = {
   visual_g5_nl_arith:      { de: 'Rechnen am Zahlenstrahl.', en: 'Arithmetic on number line.', hu: 'Számolás számegyenesen.', ro: 'Calcul pe axa numerică.' },
   visual_g5_neg_line:      { de: 'Rechnen mit negativen Zahlen.', en: 'Calculate with negative numbers.', hu: 'Számolás negatív számokkal.', ro: 'Calcul cu numere negative.' },
   visual_g5_volume_cuboid: { de: 'Volumen des Quaders berechnen.', en: 'Calculate the volume of a cuboid.', hu: 'Téglatest térfogatának kiszámítása.', ro: 'Calculează volumul paralelipipedului.' },
+  // Grade 6 visual types
+  visual_g6_coord_4q:   { de: 'Koordinatensystem: Quadrant bestimmen.', en: 'Coordinate plane: identify the quadrant.', hu: 'Koordinátasík: negyed meghatározása.', ro: 'Plan de coordonate: identifică cadranul.' },
+  visual_g6_pie_chart:  { de: 'Kreisdiagramm auswerten.', en: 'Read the pie chart.', hu: 'Kördiagram olvasása.', ro: 'Citește diagrama circulară.' },
+  visual_g6_ratio_table:{ de: 'Verhältnistabelle ausfüllen.', en: 'Complete the ratio table.', hu: 'Aránytábla kitöltése.', ro: 'Completează tabelul proporțional.' },
+  visual_g6_trapezoid:  { de: 'Flächeninhalt des Trapezes berechnen.', en: 'Calculate the trapezoid area.', hu: 'Trapéz területének kiszámítása.', ro: 'Calculează aria trapezului.' },
+  visual_g6_percent_bar:{ de: 'Prozent im Hunderterfeld ablesen.', en: 'Read percent from the hundred grid.', hu: 'Százalék leolvasása a százsárból.', ro: 'Citește procentul din grila de 100.' },
 };
 
 function getTitleFor(type: TaskType, cc: string): string {

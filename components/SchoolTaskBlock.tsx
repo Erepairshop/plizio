@@ -59,6 +59,13 @@ const AngleDrawer = dynamic(() => import('./grade4-visual/AngleDrawer'), { ssr: 
 const CircleDrawer = dynamic(() => import('./grade4-visual/CircleDrawer'), { ssr: false });
 const MoneyCalculator = dynamic(() => import('./grade4-visual/MoneyCalculator'), { ssr: false });
 
+// Grade 6 visual components
+const G6CoordPlane4Q = dynamic(() => import('./grade6-visual/CoordPlane4Q'), { ssr: false });
+const G6PieChartRead = dynamic(() => import('./grade6-visual/PieChartRead'), { ssr: false });
+const G6RatioTableFill = dynamic(() => import('./grade6-visual/RatioTableFill'), { ssr: false });
+const G6TrapezoidAreaCalc = dynamic(() => import('./grade6-visual/TrapezoidAreaCalc'), { ssr: false });
+const G6PercentBar = dynamic(() => import('./grade6-visual/PercentBar'), { ssr: false });
+
 // Grade 1 visual components
 const G1AnalogClock = dynamic(() => import('./grade1-visual/AnalogClock'), { ssr: false });
 const G1NumberLineMarker = dynamic(() => import('./grade1-visual/NumberLineMarker'), { ssr: false });
@@ -217,6 +224,17 @@ export default function SchoolTaskBlock({
         return <NegativeNumberLine startNum={p.startNum} addNum={p.addNum} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       case 'g5-volume-cuboid':
         return <VolumeCuboid length={p.length} width={p.width} height={p.height} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      // Grade 6 visual components
+      case 'g6-coord-4q':
+        return <G6CoordPlane4Q pointX={p.pointX} pointY={p.pointY} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g6-pie-chart':
+        return <G6PieChartRead slices={p.slices} targetIndex={p.targetIndex} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g6-ratio-table':
+        return <G6RatioTableFill unitValue={p.unitValue} quantities={p.quantities} hiddenIdx={p.hiddenIdx} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g6-trapezoid-area':
+        return <G6TrapezoidAreaCalc baseA={p.baseA} baseB={p.baseB} height={p.height} shapeType={p.shapeType} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g6-percent-bar':
+        return <G6PercentBar percentage={p.percentage} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       // Grade 1 visual components
       case 'g1-clock':
         return <G1AnalogClock hour={p.hour} minute={p.minute} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
@@ -397,7 +415,14 @@ export default function SchoolTaskBlock({
       case 'visual_g5_barchart':
       case 'visual_g5_symmetry':
       case 'visual_g5_unit_convert':
-      case 'visual_g5_nl_arith': {
+      case 'visual_g5_nl_arith':
+      case 'visual_g5_neg_line':
+      case 'visual_g5_volume_cuboid':
+      case 'visual_g6_coord_4q':
+      case 'visual_g6_pie_chart':
+      case 'visual_g6_ratio_table':
+      case 'visual_g6_trapezoid':
+      case 'visual_g6_percent_bar': {
         return (
           <div className="space-y-3">
             {block.subQuestions.map((sq, idx) => (
