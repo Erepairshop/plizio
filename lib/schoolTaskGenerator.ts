@@ -1031,10 +1031,12 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
         visualType: 'uhrzeit', visualData: { type: 'uhrzeit', params: { targetHour: hour, targetMinute: minute } } };
     }
     case 'g3_geld': {
+      // Grade 3: use "friendly" prices (multiples of 0.10) for feasible mental math
+      const gPrices = [0.50, 0.80, 1.00, 1.20, 1.50, 1.80, 2.00, 2.20, 2.50, 3.00, 3.50, 4.00];
       const gitems = [
-        { name: 'Brot', price: rnd(100, 300) / 100 },
-        { name: 'Milch', price: rnd(80, 200) / 100 },
-        { name: 'Käse', price: rnd(150, 400) / 100 },
+        { name: 'Brot',  price: gPrices[rnd(0, gPrices.length - 1)] },
+        { name: 'Milch', price: gPrices[rnd(0, gPrices.length - 1)] },
+        { name: 'Käse',  price: gPrices[rnd(0, gPrices.length - 1)] },
       ].slice(0, rnd(2, 3));
       const gtotal = Math.round(gitems.reduce((s, i) => s + i.price, 0) * 100) / 100;
       const gmode = Math.random() > 0.5 ? 'change' as const : 'total' as const;
