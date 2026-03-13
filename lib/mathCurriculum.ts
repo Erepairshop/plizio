@@ -1079,7 +1079,7 @@ const G2: Record<string, Generator> = {
   },
   // ── Division ──
   divShare: (cc) => {
-    const divisor = pick([2, 5, 10]), result = randInt(1, 10);
+    const divisor = pick([2, 5, 10]), result = randInt(2, 10); // min 2: avoid trivial "1 each"
     const items = getItems(cc);
     return q(wpShare(divisor * result, divisor, result, pick(items.fruits), cc), result, t("divShare", cc), 0, true);
   },
@@ -3188,7 +3188,7 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g2_mul_group',  name: 'Counting Groups',                     color: '#FEF3C7', icon: '🎯', generators: [G2.mulGroup, G2.wordMulG2] },
     ]},
     { key: 'g2_div', name: 'Division (basics)', color: '#8B5CF6', icon: '➗', topics: [
-      { key: 'g2_div_share',  name: 'Equal Sharing',                        color: '#A78BFA', icon: '🍕', generators: [G2.divShare, G2.divVisual] },
+      { key: 'g2_div_share',  name: 'Equal Sharing',                        color: '#A78BFA', icon: '🍕', generators: [G2.divShare] },
       { key: 'g2_div_visual', name: 'Visual Division (sharing)',             color: '#C4B5FD', icon: '🍬', generators: [G2.divVisual] },
       { key: 'g2_div_rel',    name: 'Multiplication–Division Relationship', color: '#C4B5FD', icon: '🔗', generators: [G2.divMulRel] },
       { key: 'g2_div_simple', name: 'Simple Division',                      color: '#DDD6FE', icon: '➗', generators: [G2.div2510, G2.wordDivG2] },
@@ -3600,7 +3600,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g2_mul_group',  name: 'Bildhafte Aufgaben',                     color: '#FEF3C7', icon: '🎯', generators: [G2.mulGroup, G2.wordMulG2] },
     ]},
     { key: 'g2_div', name: 'Division', color: '#8B5CF6', icon: '➗', topics: [
-      { key: 'g2_div_share',  name: 'Gleiches Aufteilen',              color: '#A78BFA', icon: '🍕', generators: [G2.divShare, G2.divVisual] },
+      { key: 'g2_div_share',  name: 'Gleiches Aufteilen',              color: '#A78BFA', icon: '🍕', generators: [G2.divShare] },
       { key: 'g2_div_visual', name: 'Anschauliches Teilen',            color: '#C4B5FD', icon: '🍬', generators: [G2.divVisual] },
       { key: 'g2_div_rel',    name: 'Zusammenhang Mal und Geteilt',    color: '#C4B5FD', icon: '🔗', generators: [G2.divMulRel] },
       { key: 'g2_div_simple', name: 'Einfache Division',               color: '#DDD6FE', icon: '➗', generators: [G2.div2510, G2.wordDivG2] },
