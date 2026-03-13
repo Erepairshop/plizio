@@ -127,6 +127,9 @@ const DecimalPlaceValue: React.FC<DecimalPlaceValueProps> = ({
         </div>
       )}
 
+      {/* Instruction */}
+      <p className="text-xs font-semibold text-center text-slate-500 px-5 pt-3 pb-1">{t.hint}</p>
+
       {/* Number display */}
       <div className="flex justify-center pb-4 pt-2">
         <div className="bg-white border-2 border-teal-400 rounded-2xl px-8 py-3 shadow-sm">

@@ -7,7 +7,7 @@ import { playCorrect, playIncorrect, playClick } from '@/lib/soundEffects';
 
 interface ShapePropertiesProps {
   shapeId?: string;
-  askProperty?: 'sides' | 'angles' | 'name';
+  askProperty?: 'sides' | 'angles' | 'right_angles' | 'parallel_pairs';
   language?: 'hu' | 'de' | 'en' | 'ro';
   onAnswer: (isCorrect: boolean, answer: string) => void;
   embedded?: boolean;
@@ -15,10 +15,10 @@ interface ShapePropertiesProps {
 }
 
 const LABELS: Record<string, Record<string, string>> = {
-  hu: { title: 'Síkidomok tulajdonságai', hint: 'Válaszd ki a helyes választ!', submit: 'Ellenőrzés', correct: 'Helyes!', incorrect: 'Nem jó. Próbáld újra!', tryAgain: 'Újra', sides: 'Hány oldala van?', angles: 'Hány szöge van?', name: 'Mi a neve?' },
-  de: { title: 'Eigenschaften von Figuren', hint: 'Wähle die richtige Antwort!', submit: 'Prüfen', correct: 'Richtig!', incorrect: 'Falsch. Nochmal!', tryAgain: 'Nochmal', sides: 'Wie viele Seiten hat die Figur?', angles: 'Wie viele Winkel hat die Figur?', name: 'Wie heißt die Figur?' },
-  en: { title: 'Shape properties', hint: 'Choose the correct answer!', submit: 'Check', correct: 'Correct!', incorrect: 'Not right. Try again!', tryAgain: 'Retry', sides: 'How many sides does the shape have?', angles: 'How many angles does the shape have?', name: 'What is the name of the shape?' },
-  ro: { title: 'Proprietăți ale figurilor', hint: 'Alege răspunsul corect!', submit: 'Verificare', correct: 'Corect!', incorrect: 'Greșit. Încearcă din nou!', tryAgain: 'Din nou', sides: 'Câte laturi are figura?', angles: 'Câte unghiuri are figura?', name: 'Cum se numește figura?' },
+  hu: { title: 'Síkidomok tulajdonságai', hint: 'Válaszd ki a helyes választ!', submit: 'Ellenőrzés', correct: 'Helyes!', incorrect: 'Nem jó. Próbáld újra!', tryAgain: 'Újra', sides: 'Hány oldala van?', angles: 'Hány szöge van?', right_angles: 'Hány derékszöge van?', parallel_pairs: 'Hány pár párhuzamos oldala van?' },
+  de: { title: 'Eigenschaften von Figuren', hint: 'Wähle die richtige Antwort!', submit: 'Prüfen', correct: 'Richtig!', incorrect: 'Falsch. Nochmal!', tryAgain: 'Nochmal', sides: 'Wie viele Seiten hat die Figur?', angles: 'Wie viele Winkel hat die Figur?', right_angles: 'Wie viele rechte Winkel hat die Figur?', parallel_pairs: 'Wie viele Paare paralleler Seiten hat die Figur?' },
+  en: { title: 'Shape properties', hint: 'Choose the correct answer!', submit: 'Check', correct: 'Correct!', incorrect: 'Not right. Try again!', tryAgain: 'Retry', sides: 'How many sides does the shape have?', angles: 'How many angles does the shape have?', right_angles: 'How many right angles does the shape have?', parallel_pairs: 'How many pairs of parallel sides does the shape have?' },
+  ro: { title: 'Proprietăți ale figurilor', hint: 'Alege răspunsul corect!', submit: 'Verificare', correct: 'Corect!', incorrect: 'Greșit. Încearcă din nou!', tryAgain: 'Din nou', sides: 'Câte laturi are figura?', angles: 'Câte unghiuri are figura?', right_angles: 'Câte unghiuri drepte are figura?', parallel_pairs: 'Câte perechi de laturi paralele are figura?' },
 };
 
 const SHAPE_NAMES: Record<string, Record<string, string>> = {
@@ -30,13 +30,16 @@ const SHAPE_NAMES: Record<string, Record<string, string>> = {
   rhombus:    { hu: 'Rombusz',      de: 'Raute',      en: 'Rhombus',    ro: 'Romb' },
 };
 
-const SHAPES: Record<string, { sides: number; svgPath: string; viewBox: string }> = {
-  triangle:  { sides: 3, viewBox: '0 0 120 110', svgPath: 'M60,10 L110,100 L10,100 Z' },
-  square:    { sides: 4, viewBox: '0 0 110 110', svgPath: 'M15,15 L95,15 L95,95 L15,95 Z' },
-  rectangle: { sides: 4, viewBox: '0 0 150 100', svgPath: 'M10,20 L140,20 L140,80 L10,80 Z' },
-  pentagon:  { sides: 5, viewBox: '0 0 120 115', svgPath: 'M60,8 L112,44 L92,104 L28,104 L8,44 Z' },
-  hexagon:   { sides: 6, viewBox: '0 0 120 110', svgPath: 'M60,5 L107,30 L107,80 L60,105 L13,80 L13,30 Z' },
-  rhombus:   { sides: 4, viewBox: '0 0 120 110', svgPath: 'M60,5 L115,55 L60,105 L5,55 Z' },
+const SHAPES: Record<string, { sides: number; rightAngles: number; parallelPairs: number; svgPath: string; viewBox: string }> = {
+  triangle:      { sides: 3, rightAngles: 0, parallelPairs: 0, viewBox: '0 0 120 110', svgPath: 'M60,10 L110,100 L10,100 Z' },
+  right_triangle:{ sides: 3, rightAngles: 1, parallelPairs: 0, viewBox: '0 0 120 110', svgPath: 'M10,100 L110,100 L10,20 Z' },
+  square:        { sides: 4, rightAngles: 4, parallelPairs: 2, viewBox: '0 0 110 110', svgPath: 'M15,15 L95,15 L95,95 L15,95 Z' },
+  rectangle:     { sides: 4, rightAngles: 4, parallelPairs: 2, viewBox: '0 0 150 100', svgPath: 'M10,20 L140,20 L140,80 L10,80 Z' },
+  parallelogram: { sides: 4, rightAngles: 0, parallelPairs: 2, viewBox: '0 0 150 100', svgPath: 'M30,80 L140,80 L120,20 L10,20 Z' },
+  trapezoid:     { sides: 4, rightAngles: 0, parallelPairs: 1, viewBox: '0 0 150 100', svgPath: 'M25,80 L125,80 L100,20 L50,20 Z' },
+  pentagon:      { sides: 5, rightAngles: 0, parallelPairs: 0, viewBox: '0 0 120 115', svgPath: 'M60,8 L112,44 L92,104 L28,104 L8,44 Z' },
+  hexagon:       { sides: 6, rightAngles: 0, parallelPairs: 3, viewBox: '0 0 120 110', svgPath: 'M60,5 L107,30 L107,80 L60,105 L13,80 L13,30 Z' },
+  rhombus:       { sides: 4, rightAngles: 0, parallelPairs: 2, viewBox: '0 0 120 110', svgPath: 'M60,5 L115,55 L60,105 L5,55 Z' },
 };
 
 function makeNameChoices(correct: string, lang: string): string[] {
@@ -68,23 +71,18 @@ const ShapeProperties: React.FC<ShapePropertiesProps> = ({
   const { shapeId, askProperty, correctAnswer, choices, question } = useMemo(() => {
     const ids = Object.keys(SHAPES);
     const sid = propShape ?? ids[Math.floor(Math.random() * ids.length)];
-    const props: Array<'sides' | 'angles' | 'name'> = ['sides', 'angles', 'name'];
+    const props: Array<'sides' | 'angles' | 'right_angles' | 'parallel_pairs'> = ['sides', 'angles', 'right_angles', 'parallel_pairs'];
     const ask = propAsk ?? props[Math.floor(Math.random() * props.length)];
     const shape = SHAPES[sid];
 
-    let correct: string;
-    let ch: string[];
+    let correctNum: number;
+    if (ask === 'right_angles') correctNum = shape.rightAngles;
+    else if (ask === 'parallel_pairs') correctNum = shape.parallelPairs;
+    else correctNum = shape.sides; // sides and angles same for polygons
 
-    if (ask === 'name') {
-      correct = SHAPE_NAMES[sid][language] ?? SHAPE_NAMES[sid].en;
-      ch = makeNameChoices(sid, language);
-    } else {
-      // sides and angles are the same for polygons
-      correct = String(shape.sides);
-      ch = makeNumberChoices(shape.sides).map(String);
-    }
-
-    const q = ask === 'name' ? t.name : ask === 'sides' ? t.sides : t.angles;
+    const correct = String(correctNum);
+    const ch = makeNumberChoices(correctNum).map(String);
+    const q = t[ask as keyof typeof t] ?? t.sides;
     return { shapeId: sid, askProperty: ask, correctAnswer: correct, choices: ch, question: q };
   }, [propShape, propAsk, language]); // eslint-disable-line react-hooks/exhaustive-deps
 

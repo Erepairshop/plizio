@@ -613,6 +613,117 @@ Nincs részleges pontszám, nincs tolerance. A vizuális komponens felelőssége
 1. `components/grade4-visual/MyVisual.tsx` — `embedded`, `onValueChange` prop támogatás
 2. `lib/schoolTaskGenerator.ts` — `generateVisualSub()` switch-be új case + `VISUAL_TOPIC_TO_TYPE` map
 3. `components/SchoolTaskBlock.tsx` — `renderVisualComponent()` switch-be új case + import
+
+---
+
+## VIZUÁLIS KOMPONENS FEJLESZTÉSI SZABÁLYOK (Grade 5-8)
+
+> Tanult tapasztalatok a Grade 5 vizuális komponensek fejlesztéséből (2026-03-13)
+> **Kötelező betartani minden új grade vizuális komponensnél!**
+
+### 1. Embedded mód — instruction szöveg KÖTELEZŐ
+
+**⚠️ KRITIKUS:** Embedded módban az egész header (`{!embedded && ...}` guard) el van rejtve. Ha az instruction szöveg CSAK a headerben van, a tanuló nem látja mit kell csinálnia!
+
+**Szabály:** Minden vizuális komponensben legyen instruction/hint szöveg a BODY-ban is (guardon kívül), közvetlenül a choices/input elem előtt:
+```tsx
+{/* Instruction — always visible, even in embedded mode */}
+<p className="text-xs font-semibold text-center text-slate-500 px-5 pb-2">{t.hint}</p>
+```
+
+**Kivételek (önmagukban érthetőek):**
+- `BarChartRead` — van `{question}` a body-ban (max/min/total/diff specifikus kérdés)
+- `AreaGrid`, `PerimeterCalc` — van `{t.question}` a body-ban
+- `MultiplicationArray` — rows × cols = ? badge önmagában érthető
+- `DivisionShare` — total ÷ groups = ? badge önmagában érthető
+- `NumberLineArith` — az egyenlet (`start + operand = ?`) mindig látszik
+- `UnitConverter` — az egyenlet (`5 km = ? m`) mindig látszik
+- `LargeNumberRounding` — a roundTo badge + vizuális helyzet egyértelmű
+- `WordProblemVisual` — a szöveges feladat mindig látszik
+
+### 2. i18n — SOHA ne legyen hardcoded szöveg
+
+Minden felhasználói szöveg a `LABELS` objektumban kell legyen, mind a 4 nyelven (hu/de/en/ro).
+
+**Tipikus hibák:**
+- Hardcoded HU string JSX-ben: `"eredeti"`, `"tükrözött"` → legyen `t.original`, `t.reflected`
+- Hardcoded DE string: `"Hinweis verbergen"` → legyen `t.hideHint`
+- Vegyes language pl. faktornál: `'1 Mio'` → nyelv-specifikus ternary
+
+**Ellenőrzés:** Keresés JSX-ben: `grep -n '"[a-záéíóöőüű]' ComponentName.tsx` — ha találsz idézőjeles Magyar/Német szöveget, az gyanús.
+
+### 3. Embedded grading — language-independent answer
+
+**⚠️ KRITIKUS:** Az `onValueChange` által küldött érték ÉS a `schoolTaskGenerator`-ban tárolt `answer` UGYANOLYAN formátumban kell legyen.
+
+**Helyes:** numerikus válasz `String(number)` — pl. `"4"`, `"120"`, `"-3"`
+**Helyes:** language-independent key — pl. `"acute"`, `"left"`, `"right"`
+**HIBÁS:** fordított label string — pl. `"Hegyesszög"` (HU), `"Spitzer Winkel"` (DE)
+
+**Fix pattern ha MCQ fordított labeleket mutat:**
+```tsx
+// useMemo-ban: reverse map fordított label → key
+const l2k = Object.fromEntries(typeKeys.map(k => [types[k], k]));
+// onValueChange-kor: key küldése
+onValueChangeRef.current(labelToKey[selected] ?? selected);
+```
+
+### 4. Teljes regisztrációs checklist (minden új G5+ vizuális komponensnél)
+
+```
+□ components/grade5-visual/MyVisual.tsx létrehozva
+    - embedded prop + onValueChange support
+    - instruction szöveg a body-ban ({t.hint} a choices előtt)
+    - LABELS: mind 4 nyelv (hu/de/en/ro) kitöltve
+    - onValueChange: language-independent answer küldés
+
+□ lib/schoolTaskGenerator.ts
+    - VisualQuestionType union-ba: | 'g5-my-visual'
+    - TaskType union-ba: | 'visual_g5_my_visual'
+    - VISUAL_TOPIC_KEYS Set-be: 'g5_my_topic'
+    - generateVisualSub() switch: case 'g5_my_topic': { ... }
+    - VISUAL_TOPIC_TO_TYPE map: g5_my_topic: 'visual_g5_my_visual'
+    - TASK_TITLES map: visual_g5_my_visual: { de: ..., en: ..., hu: ..., ro: ... }
+
+□ components/SchoolTaskBlock.tsx
+    - dynamic import hozzáadva
+    - renderVisualComponent() switch: case 'g5-my-visual': return <MyVisual ...>
+```
+
+### 5. Vizuális komponens stílus konvenciók
+
+**Gradient háttér** (komponensenként egyedi szín):
+```tsx
+style={{ background: 'linear-gradient(135deg, #fdf4ff 0%, #f3e8ff 50%, #ede9fe 100%)' }}
+```
+
+**Gomb stílus (MCQ):** `py-3 rounded-xl font-extrabold text-base border-2`
+- Normal: `bg-white border-slate-200 text-slate-700`
+- Selected: color from `COLORS[i % COLORS.length]` = `['#3b82f6', '#10b981', '#f59e0b', '#ef4444']`
+- Correct (submitted): `bg-green-500 border-green-500 text-white`
+- Wrong selected: `bg-red-100 border-red-300 text-red-600 opacity-70`
+
+**Header ikon:** `w-9 h-9 rounded-xl bg-COLOR-600 flex items-center justify-center`
+
+**SVG wrapper:** `bg-white rounded-2xl shadow-sm border border-COLOR-100 p-3`
+
+### 6. Új grade topik hozzáadása — mathCurriculum.ts
+
+**Lépések (EN_THEMES, DE_THEMES, HU_THEMES, RO_THEMES mindegyikéhez):**
+1. Generátor függvények írása `G6`/`G7`/`G8` objektumba
+2. Topik blokk hozzáadása az adott grade-hez (color, icon, topics tömb)
+3. `CURRICULUM[N]` periódusok frissítése (5 periódus, current+review)
+4. `generateKlassenarbeit()` switch case N: szekciók hozzáadása
+
+**Generátor tesztelés (kötelező mielőtt commitolsz):**
+```ts
+// Minden generátort 10× tesztelj:
+for (let i = 0; i < 10; i++) console.log(G6.myGen("DE"));
+// Ellenőrizd: nincs tört eredmény, nincs hardcoded EN szöveg, nem túl nehéz
+// US country code teszt is: G6.myGen("US")
+```
+
+**Vizuális topik → új komponens:** ha a topik igényli (pl. negatív számegyenes, térfogat), kövesd a fenti regisztrációs checklisten!
 4. Válasz formátumnak egyeznie kell: amit az `onValueChange` küld === amit `sq.answer` tartalmaz (string-ként)
 
 **⚠️ Gyakori hibák vizuális komponenseknél:**

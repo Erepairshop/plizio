@@ -15,10 +15,10 @@ interface SymmetryGridProps {
 }
 
 const LABELS: Record<string, Record<string, string>> = {
-  hu: { title: 'Tükrözés', hint: 'Rajzold meg a kék alak tükörképét a szaggatott vonal másik oldalán!', submit: 'Ellenőrzés', correct: 'Helyes!', incorrect: 'Nem egészen. Próbáld újra!', tryAgain: 'Újra', axis: 'tengellyel', clear: 'Törlés' },
-  de: { title: 'Spiegelung', hint: 'Zeichne das Spiegelbild der blauen Figur auf der anderen Seite der gestrichelten Linie!', submit: 'Prüfen', correct: 'Richtig!', incorrect: 'Nicht ganz. Nochmal!', tryAgain: 'Nochmal', axis: 'Achse', clear: 'Löschen' },
-  en: { title: 'Reflection', hint: 'Draw the mirror image of the blue shape on the other side of the dashed line!', submit: 'Check', correct: 'Correct!', incorrect: 'Not quite. Try again!', tryAgain: 'Retry', axis: 'axis', clear: 'Clear' },
-  ro: { title: 'Simetrie', hint: 'Desenează imaginea în oglindă a figurii albastre de cealaltă parte a liniei punctate!', submit: 'Verificare', correct: 'Corect!', incorrect: 'Nu chiar. Încearcă din nou!', tryAgain: 'Din nou', axis: 'axă', clear: 'Șterge' },
+  hu: { title: 'Tükrözés', hint: 'Rajzold meg a kék alak tükörképét a szaggatott vonal másik oldalán!', submit: 'Ellenőrzés', correct: 'Helyes!', incorrect: 'Nem egészen. Próbáld újra!', tryAgain: 'Újra', axis: 'tengellyel', clear: 'Törlés', original: 'eredeti', reflected: 'tükrözött' },
+  de: { title: 'Spiegelung', hint: 'Zeichne das Spiegelbild der blauen Figur auf der anderen Seite der gestrichelten Linie!', submit: 'Prüfen', correct: 'Richtig!', incorrect: 'Nicht ganz. Nochmal!', tryAgain: 'Nochmal', axis: 'Achse', clear: 'Löschen', original: 'Original', reflected: 'Spiegelbild' },
+  en: { title: 'Reflection', hint: 'Draw the mirror image of the blue shape on the other side of the dashed line!', submit: 'Check', correct: 'Correct!', incorrect: 'Not quite. Try again!', tryAgain: 'Retry', axis: 'axis', clear: 'Clear', original: 'original', reflected: 'reflected' },
+  ro: { title: 'Simetrie', hint: 'Desenează imaginea în oglindă a figurii albastre de cealaltă parte a liniei punctate!', submit: 'Verificare', correct: 'Corect!', incorrect: 'Nu chiar. Încearcă din nou!', tryAgain: 'Din nou', axis: 'axă', clear: 'Șterge', original: 'original', reflected: 'reflectat' },
 };
 
 const GRID = 9; // 9×9 grid
@@ -194,15 +194,18 @@ const SymmetryGrid: React.FC<SymmetryGridProps> = ({
         </div>
       </div>
 
+      {/* Instruction */}
+      <p className="text-xs font-semibold text-center text-slate-500 px-5 pb-2">{t.hint}</p>
+
       {/* Legend */}
       <div className="flex justify-center gap-4 pb-3 flex-wrap px-4">
         <div className="flex items-center gap-1.5">
           <div className="w-4 h-4 rounded bg-blue-500" />
-          <span className="text-xs font-bold text-slate-500">eredeti</span>
+          <span className="text-xs font-bold text-slate-500">{t.original}</span>
         </div>
         <div className="flex items-center gap-1.5">
           <div className="w-4 h-4 rounded bg-cyan-400" />
-          <span className="text-xs font-bold text-slate-500">tükrözött</span>
+          <span className="text-xs font-bold text-slate-500">{t.reflected}</span>
         </div>
       </div>
 
