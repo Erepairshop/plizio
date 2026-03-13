@@ -113,8 +113,15 @@ const AngleDrawer: React.FC<AngleDrawerProps> = ({
     setUserAngle(pointerToAngle(e));
   };
 
+  const toleranceRef = useRef(tolerance);
+  toleranceRef.current = tolerance;
+  const targetAngleRef = useRef(targetAngle);
+  targetAngleRef.current = targetAngle;
+
   const handlePointerUp = () => {
     setDragging(false);
+    // Snap to exact target when within tolerance — ensures embedded grading works
+    setUserAngle(prev => Math.abs(prev - targetAngleRef.current) <= toleranceRef.current ? targetAngleRef.current : prev);
   };
 
   const handleSubmit = () => {

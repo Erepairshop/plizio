@@ -191,9 +191,17 @@ const FractionPizzaAdder: React.FC<FractionPizzaAdderProps> = ({
           {/* Center dot */}
           <circle cx={CX} cy={CY} r={4} fill="#d4a76a" />
 
-          {/* Info badge */}
+          {/* Info badge — German singular/plural: "1 farbiges Stück" vs "2 farbige Stücke" */}
           <text x={CX} y={CY + R + 16} textAnchor="middle" fontSize={11} fontWeight={700} fill="#92400e">
-            {numerator} {t.slicesColored} / {denominator} {t.slicesTotal}
+            {numerator} {
+              language === 'de' ? (numerator === 1 ? 'farbiges Stück' : 'farbige Stücke') :
+              language === 'en' ? (numerator === 1 ? 'colored slice' : 'colored slices') :
+              t.slicesColored
+            } / {denominator} {
+              language === 'de' ? (denominator === 1 ? 'Stück insgesamt' : 'Stücke insgesamt') :
+              language === 'en' ? (denominator === 1 ? 'slice total' : 'slices total') :
+              t.slicesTotal
+            }
           </text>
         </svg>
       </div>

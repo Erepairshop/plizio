@@ -111,9 +111,11 @@ const LengthMeasurement: React.FC<LengthMeasurementProps> = ({
   onValueChangeRef.current = onValueChange;
   React.useEffect(() => {
     if (embedded && onValueChangeRef.current && measuredLength !== null && measuredLength > 0) {
-      onValueChangeRef.current(String(measuredLength));
+      // Snap to target when within tolerance so embedded grading string-comparison works
+      const snapped = Math.abs(measuredLength - actualLength) <= tolerance ? actualLength : measuredLength;
+      onValueChangeRef.current(String(snapped));
     }
-  }, [embedded, measuredLength]);
+  }, [embedded, measuredLength, actualLength, tolerance]);
 
   // ─── Pointer → cm ───
   const pointerToCm = useCallback((e: React.MouseEvent | React.TouchEvent) => {

@@ -122,7 +122,11 @@ const MoneyCalculator: React.FC<MoneyCalculatorProps> = ({
   const onValueChangeRef = useRef(onValueChange);
   onValueChangeRef.current = onValueChange;
   React.useEffect(() => {
-    if (embedded && onValueChangeRef.current && inputVal.trim()) onValueChangeRef.current(inputVal.trim());
+    if (embedded && onValueChangeRef.current && inputVal.trim()) {
+      // Send parsed numeric string so it matches String(sq.answer) in gradeSchoolTest
+      const parsed = parseFloat(inputVal.replace(',', '.'));
+      if (!isNaN(parsed)) onValueChangeRef.current(String(Math.round(parsed * 100) / 100));
+    }
   }, [embedded, inputVal]);
 
   const handleSubmit = () => {

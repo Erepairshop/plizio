@@ -119,8 +119,15 @@ const CircleDrawer: React.FC<CircleDrawerProps> = ({
     setUserRadius(pointerToRadius(e));
   };
 
+  const toleranceRef = useRef(tolerance);
+  toleranceRef.current = tolerance;
+  const targetRadiusRef = useRef(targetRadius);
+  targetRadiusRef.current = targetRadius;
+
   const handlePointerUp = () => {
     setDragging(false);
+    // Snap to exact target when within tolerance — ensures embedded grading works
+    setUserRadius(prev => Math.abs(prev - targetRadiusRef.current) <= toleranceRef.current ? targetRadiusRef.current : prev);
   };
 
   const handleSubmit = () => {
