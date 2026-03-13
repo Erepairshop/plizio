@@ -50,6 +50,7 @@ import {
   qVorgaenger, qNachfolger, qZaehlen, qTauschaufgabe, qZahlzerlegung,
   qVerdoppeln, qHalbieren, qShapeCorners, qLaenger, qG1Wochentage,
   qG1Spatial, qG1Weight, qG1WeightB, qG1WeightC, qG1Volume, qG1VolumeB, qG1VolumeC,
+  qG1VolumeD, qG1VolumeE, qG1VolumeFits, qG1VolumeFillUp, qG1VolumePool,
   qG1Pattern, qG1NumberOrder, qG1DataTable,
   qRoundTo10, qRoundTo100,
   qCircleCircumference, qCircleArea,
@@ -803,19 +804,38 @@ const G1: Record<string, Generator> = {
     return q(qG1Weight(a, b, cc), b, t("g1Weight", cc));
   },
   volume: (cc) => {
-    const a = randInt(1, 8), b = a + randInt(1, 5);
-    const v = Math.floor(Math.random() * 3);
-    if (v === 1) return q(qG1VolumeB(a, b, cc), a, t("g1Volume", cc));
-    if (v === 2) return q(qG1VolumeC(a, b, cc), b, t("g1Volume", cc));
-    return q(qG1Volume(a, b, cc), b, t("g1Volume", cc));
+    return pick([
+      () => { const a = randInt(1, 8), b = a + randInt(1, 5); return q(qG1Volume(a, b, cc), b, t("g1Volume", cc)); },
+      () => { const a = randInt(1, 8), b = a + randInt(1, 5); return q(qG1VolumeB(a, b, cc), a, t("g1Volume", cc)); },
+      () => { const a = randInt(1, 8), b = a + randInt(1, 5); return q(qG1VolumeC(a, b, cc), b, t("g1Volume", cc)); },
+      () => { const g = randInt(1, 5), bt = g + randInt(1, 6); return q(qG1VolumeD(g, bt, cc), bt, t("g1Volume", cc)); },
+      () => { const cn = randInt(2, 6), bk = cn + randInt(1, 5); return q(qG1VolumeE(cn, bk, cc), cn, t("g1Volume", cc)); },
+      () => {
+        const fits = Math.random() < 0.5;
+        const avail = randInt(4, 12);
+        const needed = fits ? randInt(2, avail) : avail + randInt(1, 4);
+        const lang = getLang(cc);
+        const yes = lang === "DE" ? "Ja" : lang === "EN" ? "Yes" : lang === "RO" ? "Da" : "Igen";
+        const no  = lang === "DE" ? "Nein" : lang === "EN" ? "No" : lang === "RO" ? "Nu" : "Nem";
+        const ans = fits ? yes : no;
+        return qstr(qG1VolumeFits(avail, needed, cc), ans, t("g1Volume", cc), [yes, no]);
+      },
+      () => { const cap = randInt(5, 12), cur = randInt(1, cap - 1); return q(qG1VolumeFillUp(cap, cur, cc), cap - cur, t("g1Volume", cc)); },
+      () => { const pool = randInt(6, 15), tub = randInt(3, pool - 1); return q(qG1VolumePool(pool, tub, cc), pool, t("g1Volume", cc)); },
+    ])();
   },
   pattern: (cc) => {
-    const pairs = [["🔴","🔵"],["⭐","🌙"],["🟦","🟨"],["🔺","⭕"],["🌸","🍀"],["🐱","🐶"]];
-    const pair = pick(pairs);
+    const allPairs = [["🔴","🔵"],["⭐","🌙"],["🟦","🟨"],["🔺","⭕"],["🌸","🍀"],["🐱","🐶"]];
+    const pairIdx = Math.floor(Math.random() * allPairs.length);
+    const pair = allPairs[pairIdx];
     // Show 4 elements (2 pairs), ask for the 5th
     const seq = [pair[0], pair[1], pair[0], pair[1]];
     const next = pair[0]; // 5th element = first of pair
-    return qs(qG1Pattern(seq, cc), next, t("g1Pattern", cc));
+    // Build 4 options: correct + 3 distractors from other pairs
+    const otherEmojis = allPairs.filter((_, i) => i !== pairIdx).flatMap(p => p);
+    const distractors = [pair[1], otherEmojis[0], otherEmojis[2]];
+    const options = [next, ...distractors].sort(() => Math.random() - 0.5);
+    return qstr(qG1Pattern(seq, cc), next, t("g1Pattern", cc), options);
   },
   numberOrder: (cc) => {
     const nums = [randInt(1, 15), randInt(1, 15), randInt(1, 15)];

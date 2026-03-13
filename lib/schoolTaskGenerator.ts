@@ -1706,8 +1706,6 @@ function getItemsPerPointByKey(topicKey: string): number {
  * 2 témakör → 5-5 blokk (roundrobin)
  * 3 témakör → 4-3-3 blokk (roundrobin)
  */
-const TOTAL_BLOCKS = 10;
-
 export function generateSchoolTest(
   grade: number,
   countryCode: string,
@@ -1722,12 +1720,15 @@ export function generateSchoolTest(
 
   if (effectiveTopics.length === 0) return [];
 
+  // Dynamic block count: 10 for up to 10 topics, +1 per extra topic beyond 10
+  const TOTAL_BLOCKS = Math.max(10, effectiveTopics.length);
+
   // Derive global constraint from all selected topics.
   // Ha pl. a tanuló kiválasztotta az "összeadás 1-10-ig" témakört, akkor az összes
   // többi topic is maximum 10-es számokig generál feladatot.
   const constraint = deriveTopicConstraint(effectiveTopics.map(t => t.key));
 
-  // Generate exactly 10 blocks, roundrobin across topics.
+  // Generate TOTAL_BLOCKS blocks, roundrobin across topics.
   // Each block = 1 pont; questions per block depend on topic difficulty.
   // Visual topics (zeichnen, messen, uhrzeit) get their own visual block generator.
   const blocks: SchoolTaskBlock[] = [];

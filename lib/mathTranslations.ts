@@ -2112,6 +2112,63 @@ export function qG1VolumeC(a: number, b: number, countryCode: string): string {
   }
 }
 
+// Volume comparison — variant D: named containers (glass vs bottle)
+export function qG1VolumeD(glassL: number, bottleL: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Glas fasst ${glassL} dl, eine Flasche fasst ${bottleL} dl. Was fasst mehr?`;
+    case "EN": return `A glass holds ${glassL} dl, a bottle holds ${bottleL} dl. Which holds more?`;
+    case "RO": return `Un pahar încape ${glassL} dl, o sticlă încape ${bottleL} dl. Care încape mai mult?`;
+    default:   return `Egy pohárba ${glassL} dl fér, egy üvegbe ${bottleL} dl. Melyik a nagyobb?`;
+  }
+}
+
+// Volume comparison — variant E: watering can vs bucket
+export function qG1VolumeE(canL: number, bucketL: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Die Gießkanne fasst ${canL} l, der Eimer fasst ${bucketL} l. Was fasst weniger?`;
+    case "EN": return `The watering can holds ${canL} l, the bucket holds ${bucketL} l. Which holds less?`;
+    case "RO": return `Stropitoarea are ${canL} l, găleata are ${bucketL} l. Care are mai puțin?`;
+    default:   return `A locsolókannába ${canL} l fér, a vödörbe ${bucketL} l. Melyikbe fér kevesebb?`;
+  }
+}
+
+// Volume comparison — variant F: fits or not
+export function qG1VolumeFits(available: number, needed: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const fits = available >= needed;
+  // answer will be displayed as yes/no — caller stores 1 (yes) or 0 (no)
+  switch (lang) {
+    case "DE": return `Kannst du ${needed} l Wasser in einen ${available}-Liter-Behälter füllen?`;
+    case "EN": return `Can you fill ${needed} l of water into a ${available}-litre container?`;
+    case "RO": return `Poți umple ${needed} l de apă într-un recipient de ${available} litri?`;
+    default:   return `Belefér-e ${needed} l víz egy ${available} literes tartályba?`;
+  }
+}
+
+// Volume — variant G: how much more to fill up
+export function qG1VolumeFillUp(capacity: number, current: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Eimer fasst ${capacity} l. Er enthält schon ${current} l Wasser. Wie viele Liter fehlen noch, um ihn zu füllen?`;
+    case "EN": return `A bucket holds ${capacity} l. It already has ${current} l of water. How many more litres are needed to fill it?`;
+    case "RO": return `O găleată are ${capacity} l. Are deja ${current} l de apă. Câți litri mai lipsesc pentru a o umple?`;
+    default:   return `Egy vödör ${capacity} l vizet bír. Már van benne ${current} l. Hány liter kell még, hogy tele legyen?`;
+  }
+}
+
+// Volume — variant H: pool/bathtub comparison
+export function qG1VolumePool(poolL: number, tubL: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Kinderbecken fasst ${poolL} l, eine Badewanne fasst ${tubL} l. Was fasst mehr?`;
+    case "EN": return `A paddling pool holds ${poolL} l, a bathtub holds ${tubL} l. Which holds more?`;
+    case "RO": return `O piscină pentru copii are ${poolL} l, cada de baie are ${tubL} l. Care are mai mult?`;
+    default:   return `Egy gyerekmedencébe ${poolL} l fér, a fürdőkádba ${tubL} l. Melyikbe fér több?`;
+  }
+}
+
 // G1 word problems — extra scenarios (word6-word10)
 export function wpBirds(a: number, b: number, countryCode: string): string {
   const lang = getLang(countryCode);
