@@ -71,8 +71,14 @@ const NumberLineRounding: React.FC<NumberLineRoundingProps> = ({
 
   const { min, max, target, step, correctAnswer } = useMemo(() => {
     const stepOptions = [10, 100, 1000];
-    const s = stepOptions[Math.floor(Math.random() * stepOptions.length)];
-    const base = (Math.floor(Math.random() * 9) + 1) * s;
+    // Derive step from props when provided (min/max define the rounding interval)
+    let s: number;
+    if (propMin !== undefined && propMax !== undefined) {
+      s = propMax - propMin;
+    } else {
+      s = stepOptions[Math.floor(Math.random() * stepOptions.length)];
+    }
+    const base = (propMin !== undefined) ? propMin : (Math.floor(Math.random() * 9) + 1) * s;
     const offset = Math.floor(Math.random() * (s - 1)) + 1;
     const t = propTarget ?? (base + offset);
     const mn = propMin ?? base;

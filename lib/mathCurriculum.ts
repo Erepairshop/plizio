@@ -63,7 +63,7 @@ import {
   qSystemEq,
   qRoundTo1000,
   qCircleRadiusFromDiameter, qCircleDiameterFromRadius,
-  qTimeElapsed, qHoursToMinutes, qMinutesToHours,
+  qTimeElapsed, qHoursToMinutes, qMinutesToHours, qHoursMinutesToMinutes, qElapsedMinutes,
   qRunnerLaps, qChangeBack,
   qHowManyZehner, qHowManyEiner, qZahlzerlegungA, qZahlzerlegungB,
   qMulAsAddition, wpGroupsOf, qDivMulRelation,
@@ -1789,8 +1789,14 @@ const G4: Record<string, Generator> = {
   },
   placeValueBig: (cc) => {
     const n = randInt(10000, 99999);
-    const d = Math.floor((n % 10000) / 1000); // ten-thousands digit
-    return q(qPlaceValue(n, "thousands", cc), d, t("placeValue", cc));
+    const positions = [
+      { key: "ten-thousands", val: Math.floor(n / 10000) },
+      { key: "thousands",     val: Math.floor((n % 10000) / 1000) },
+      { key: "hundreds",      val: Math.floor((n % 1000) / 100) },
+      { key: "tens",          val: Math.floor((n % 100) / 10) },
+    ];
+    const p = pick(positions);
+    return q(qPlaceValue(n, p.key, cc), p.val, t("placeValue", cc));
   },
   writtenMul: (cc) => { const a = randInt(12, 50), b = randInt(2, 9); return q(`${a} × ${b} = ?`, a * b, t("writtenMul", cc)); },
   writtenMulB: (cc) => { const a = randInt(11, 30), b = randInt(3, 7); return q(`${a} × ${b} = ?`, a * b, t("writtenMul", cc)); },
@@ -1964,7 +1970,7 @@ const G4: Record<string, Generator> = {
   ])(),
   // Grade 4-appropriate: simple circle/geometry without π
   circleSimple: (cc) => pick([
-    () => { const d = randInt(4, 16); return q(qCircleRadiusFromDiameter(d, cc), d / 2, t("geometry", cc)); },
+    () => { const d = randInt(2, 8) * 2; return q(qCircleRadiusFromDiameter(d, cc), d / 2, t("geometry", cc)); },
     () => { const r = randInt(2, 8); return q(qCircleDiameterFromRadius(r, cc), r * 2, t("geometry", cc)); },
   ])(),
   // Grade 4 fractions: only halves and quarters (2 and 4 denominators)
@@ -1992,11 +1998,22 @@ const G4: Record<string, Generator> = {
     () => { const n = randInt(10, 999); return q(qRoundTo100(n, cc), Math.round(n / 100) * 100, t("rounding", cc)); },
     () => { const n = randInt(100, 9999); return q(qRoundTo1000(n, cc), Math.round(n / 1000) * 1000, t("rounding", cc)); },
   ])(),
-  // Grade 4 time word problems
+  // Grade 4 time word problems (Grade 4-appropriate difficulty)
   timeWord: (cc) => pick([
     () => { const start = randInt(8, 14), dur = randInt(1, 4); return q(qTimeElapsed(start, dur, cc), start + dur, t("timeCalc", cc)); },
-    () => { const h = randInt(1, 3); return q(qHoursToMinutes(h, cc), h * 60, t("timeCalc", cc)); },
-    () => { const min = pick([60, 120, 180]); return q(qMinutesToHours(min, cc), min / 60, t("timeCalc", cc)); },
+    // mixed h+min → total minutes (e.g. "1 Stunde 25 Minuten = ? Minuten")
+    () => { const h = randInt(1, 3), min = pick([5, 10, 15, 20, 25, 30, 35, 40, 45, 50]); return q(qHoursMinutesToMinutes(h, min, cc), h * 60 + min, t("timeCalc", cc)); },
+    // elapsed time in minutes between two clock times
+    () => {
+      const startH = randInt(8, 12), startMin = pick([0, 15, 30]);
+      const durMin = pick([45, 60, 75, 90, 105, 120]);
+      const totalStartMin = startH * 60 + startMin;
+      const endTotalMin = totalStartMin + durMin;
+      const endH = Math.floor(endTotalMin / 60), endMin = endTotalMin % 60;
+      return q(qElapsedMinutes(startH, startMin, endH, endMin, cc), durMin, t("timeCalc", cc));
+    },
+    // more h+min combinations (larger values, Grade 4 range)
+    () => { const h = randInt(2, 5), min = pick([20, 30, 45]); return q(qHoursMinutesToMinutes(h, min, cc), h * 60 + min, t("timeCalc", cc)); },
   ])(),
   // ─── Grade 4: Rechnen bis 10 000 ──────────────────────
   addTo10000: (cc) => {

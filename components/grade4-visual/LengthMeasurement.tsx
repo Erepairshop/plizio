@@ -83,13 +83,14 @@ const LengthMeasurement: React.FC<LengthMeasurementProps> = ({
   const svgRef = useRef<SVGSVGElement>(null);
 
   // Aktuális mérendő vonal hossza
-  const actualLength = useMemo(
-    () => targetLength ?? (Math.floor(Math.random() * 12) + 3),
-    [targetLength],
-  );
+  const { actualLength, lineStartCm } = useMemo(() => {
+    const len = targetLength ?? (Math.floor(Math.random() * 10) + 3);
+    // Vary start position so both endpoints require measurement (1–3 cm)
+    const maxStart = Math.min(3, RULER_CM - len - 1);
+    const start = Math.max(1, Math.floor(Math.random() * (maxStart + 1)));
+    return { actualLength: len, lineStartCm: start };
+  }, [targetLength]);
 
-  // A vonal mindig 2 cm-nél kezdődik (hogy ne legyen triviális)
-  const lineStartCm = 2;
   const lineEndCm = lineStartCm + actualLength;
 
   // ─── State ───
