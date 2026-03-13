@@ -17,6 +17,8 @@ interface DraftTranslations {
   tabDivision: string;
   tabFree: string;
   tabFreeShort: string;
+  tabCalc: string;
+  tabCalcShort: string;
 
   // Shared button titles
   addRow: string;
@@ -48,6 +50,8 @@ const T: Record<DraftLang, DraftTranslations> = {
     tabDivision: "Osztás",
     tabFree: "Szabadkézi",
     tabFreeShort: "Vázlat",
+    tabCalc: "Lépések",
+    tabCalcShort: "=",
     addRow: "Sor hozzáadása",
     removeRow: "Utolsó sor törlése",
     clearAll: "Mindent töröl",
@@ -69,6 +73,8 @@ const T: Record<DraftLang, DraftTranslations> = {
     tabDivision: "Division",
     tabFree: "Freihand",
     tabFreeShort: "Skizze",
+    tabCalc: "Schritte",
+    tabCalcShort: "=",
     addRow: "Zeile hinzufügen",
     removeRow: "Letzte Zeile löschen",
     clearAll: "Alles löschen",
@@ -90,6 +96,8 @@ const T: Record<DraftLang, DraftTranslations> = {
     tabDivision: "Division",
     tabFree: "Freehand",
     tabFreeShort: "Sketch",
+    tabCalc: "Steps",
+    tabCalcShort: "=",
     addRow: "Add row",
     removeRow: "Remove last row",
     clearAll: "Clear all",
@@ -111,6 +119,8 @@ const T: Record<DraftLang, DraftTranslations> = {
     tabDivision: "Împărțire",
     tabFree: "Liber",
     tabFreeShort: "Schiță",
+    tabCalc: "Pași",
+    tabCalcShort: "=",
     addRow: "Adaugă rând",
     removeRow: "Șterge ultimul rând",
     clearAll: "Șterge tot",

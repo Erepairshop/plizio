@@ -1,6 +1,8 @@
 'use client';
 
-import React from 'react';
+import React, { useState } from 'react';
+import { Pencil, ChevronUp } from 'lucide-react';
+import DraftPanel from './draft/DraftPanel';
 import type {
   SchoolTaskBlock as SchoolTaskBlockType,
   SchoolTaskAnswers,
@@ -137,6 +139,7 @@ export default function SchoolTaskBlock({
   cc = 'DE',
 }: Props) {
   const circleNum = CIRCLE_NUMS[blockIndex] || `${blockIndex + 1}.`;
+  const [draftOpen, setDraftOpen] = useState(false);
 
   // Build correctAnswers map for this block
   const correctAnswers: Record<string, string | number> = {};
@@ -488,7 +491,33 @@ export default function SchoolTaskBlock({
         >
           {isGrading ? `${Math.round((earnedPoints ?? 0) * 10) / 10} / ` : ''}{block.totalPoints} P.
         </span>
+
+        {/* Draft toggle button — hidden for visual blocks */}
+        {!isGrading && !block.type.startsWith('visual_') && (
+          <button
+            onClick={() => setDraftOpen((v) => !v)}
+            className={`flex-shrink-0 p-1 rounded transition-colors ${
+              draftOpen
+                ? 'bg-amber-100 border border-amber-300 text-amber-700'
+                : 'bg-amber-50 hover:bg-amber-100 border border-amber-200 text-amber-500'
+            }`}
+            title={draftOpen ? 'Piszkozat elrejtése' : 'Piszkozat'}
+          >
+            {draftOpen ? <ChevronUp size={12} /> : <Pencil size={12} />}
+          </button>
+        )}
       </div>
+
+      {/* Draft Panel */}
+      {!isGrading && draftOpen && (
+        <div className="pl-9 mb-3">
+          <DraftPanel
+            testId="schooltest"
+            questionId={`block_${blockIndex}`}
+            countryCode={cc}
+          />
+        </div>
+      )}
 
       {/* Task body */}
       <div className="pl-9">
