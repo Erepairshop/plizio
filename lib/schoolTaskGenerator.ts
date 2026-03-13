@@ -1003,8 +1003,10 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
     }
     case 'g3_pattern': {
       const period = rnd(2, 3) as 2 | 3;
-      const allColors = ['red', 'blue', 'green', 'yellow', 'purple'];
-      const colors = allColors.slice(0, period);
+      const allColors = ['red', 'blue', 'green', 'yellow', 'purple', 'orange'];
+      // Randomize starting color so each sub-question uses different combinations
+      const startIdx = rnd(0, allColors.length - 1);
+      const colors = Array.from({ length: period }, (_, k) => allColors[(startIdx + k) % allColors.length]);
       const len = 6;
       const blanks = 2;
       const sequence: string[] = [];
@@ -1109,14 +1111,16 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
         visualType: 'g3-nl-sub', visualData: { type: 'g3-nl-sub', params: { start: nlStart, stepSize: nlStep, steps: nlSteps } } };
     }
     case 'g3_mul_grp': {
-      const mgRows = rnd(2, 5), mgCols = rnd(2, 5);
+      // Ensure at least one dimension >= 3 so min product is 6 (Grade 3 appropriate)
+      const mgRows = rnd(2, 6), mgCols = mgRows === 2 ? rnd(3, 6) : rnd(2, 6);
       const icons3 = ['🍎', '⭐', '🌸', '🟡'];
       const icon3 = icons3[rnd(0, icons3.length - 1)];
       return { id: `vis_g3mg_${sfx}`, answer: mgRows * mgCols, points: 1,
         visualType: 'g3-mul-group', visualData: { type: 'g3-mul-group', params: { mode: 'mul', groupA: mgRows, groupB: mgCols, icon: icon3 } } };
     }
     case 'g3_mul_arr': {
-      const maRows = rnd(2, 6), maCols = rnd(2, 6);
+      // Ensure at least one dimension >= 3 so product is >= 6 (Grade 3 appropriate)
+      const maRows = rnd(2, 8), maCols = maRows === 2 ? rnd(3, 8) : rnd(2, 8);
       return { id: `vis_g3ma_${sfx}`, answer: maRows * maCols, points: 1,
         visualType: 'g3-mul-array', visualData: { type: 'g3-mul-array', params: { rows: maRows, cols: maCols } } };
     }
