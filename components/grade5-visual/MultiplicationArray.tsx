@@ -17,7 +17,7 @@ interface MultiplicationArrayProps {
 const LABELS: Record<string, Record<string, string>> = {
   hu: {
     title: 'Hány pontot látsz összesen?',
-    hint: 'Számold meg a sorokat és az oszlopokat, majd szorozzz!',
+    hint: 'Számold meg a sorokat és az oszlopokat, majd szorozz!',
     submit: 'Ellenőrzés',
     correct: 'Helyes! Szuper!',
     incorrect: 'Nem jó. Próbáld újra!',

@@ -48,6 +48,8 @@ const SymmetryGrid = dynamic(() => import('./grade5-visual/SymmetryGrid'), { ssr
 const UnitConverter = dynamic(() => import('./grade5-visual/UnitConverter'), { ssr: false });
 const NumberLineArith = dynamic(() => import('./grade5-visual/NumberLineArith'), { ssr: false });
 const WordProblemVisual = dynamic(() => import('./grade5-visual/WordProblemVisual'), { ssr: false });
+const NegativeNumberLine = dynamic(() => import('./grade5-visual/NegativeNumberLine'), { ssr: false });
+const VolumeCuboid = dynamic(() => import('./grade5-visual/VolumeCuboid'), { ssr: false });
 const FractionPizzaAdder = dynamic(() => import('./grade4-visual/FractionPizzaAdder'), { ssr: false });
 const SymmetryMirror = dynamic(() => import('./grade4-visual/SymmetryMirror'), { ssr: false });
 const SequenceBuilder = dynamic(() => import('./grade4-visual/SequenceBuilder'), { ssr: false });
@@ -211,6 +213,10 @@ export default function SchoolTaskBlock({
         return <NumberLineArith start={p.start} operand={p.operand} operation={p.operation} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       case 'g5-word-problem':
         return <WordProblemVisual problemId={p.problemId} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-neg-line':
+        return <NegativeNumberLine startNum={p.startNum} addNum={p.addNum} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-volume-cuboid':
+        return <VolumeCuboid length={p.length} width={p.width} height={p.height} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       // Grade 1 visual components
       case 'g1-clock':
         return <G1AnalogClock hour={p.hour} minute={p.minute} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;

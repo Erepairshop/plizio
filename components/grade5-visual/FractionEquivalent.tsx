@@ -151,6 +151,9 @@ const FractionEquivalent: React.FC<FractionEquivalentProps> = ({
         </div>
       )}
 
+      {/* Instruction */}
+      <p className="text-xs font-semibold text-center text-slate-500 px-5 pb-2">{t.missing}</p>
+
       {/* Visual bars */}
       <div className="px-4 pb-3 flex flex-col gap-2">
         <FractionBar num={baseNum} den={baseDen} color="#4f46e5" />

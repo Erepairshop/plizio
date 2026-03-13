@@ -194,6 +194,9 @@ const SymmetryGrid: React.FC<SymmetryGridProps> = ({
         </div>
       </div>
 
+      {/* Instruction */}
+      <p className="text-xs font-semibold text-center text-slate-500 px-5 pb-2">{t.hint}</p>
+
       {/* Legend */}
       <div className="flex justify-center gap-4 pb-3 flex-wrap px-4">
         <div className="flex items-center gap-1.5">

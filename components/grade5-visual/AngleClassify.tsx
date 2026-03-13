@@ -169,6 +169,9 @@ const AngleClassify: React.FC<AngleClassifyProps> = ({
         </div>
       </div>
 
+      {/* Instruction */}
+      <p className="text-xs font-semibold text-center text-slate-500 px-5 pb-2">{t.hint}</p>
+
       {/* Choices */}
       <div className="px-4 pb-4 grid grid-cols-2 gap-2">
         {choices.map((val, i) => {

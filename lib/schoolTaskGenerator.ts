@@ -19,7 +19,8 @@ export type VisualQuestionType = 'zeichnen' | 'messen' | 'uhrzeit' | 'grid-area'
   | 'g5-place-million' | 'g5-number-line' | 'g5-rounding-large' | 'g5-mul-array' | 'g5-division-share'
   | 'g5-frac-compare' | 'g5-frac-equiv' | 'g5-decimal-place' | 'g5-decimal-line' | 'g5-balance-scale'
   | 'g5-shape-props' | 'g5-angle-classify' | 'g5-perimeter' | 'g5-area-grid' | 'g5-barchart'
-  | 'g5-symmetry' | 'g5-unit-convert' | 'g5-nl-arith' | 'g5-word-problem';
+  | 'g5-symmetry' | 'g5-unit-convert' | 'g5-nl-arith' | 'g5-word-problem'
+  | 'g5-neg-line' | 'g5-volume-cuboid';
 
 export type VisualQuestionData = {
   type: VisualQuestionType;
@@ -114,7 +115,9 @@ export type TaskType =
   | 'visual_g5_barchart'
   | 'visual_g5_symmetry'
   | 'visual_g5_unit_convert'
-  | 'visual_g5_nl_arith';
+  | 'visual_g5_nl_arith'
+  | 'visual_g5_neg_line'
+  | 'visual_g5_volume_cuboid';
 
 export type AufgabenItem = {
   question: string;
@@ -769,6 +772,7 @@ const VISUAL_TOPIC_KEYS = new Set([
   'g5_balance_vis', 'g5_shape_vis', 'g5_angle_vis',
   'g5_perim_vis', 'g5_area_vis', 'g5_barchart_vis',
   'g5_symmetry_vis', 'g5_unit_convert', 'g5_nl_arith',
+  'g5_neg_line', 'g5_vol_cuboid',
 ]);
 
 function isVisualTopicKey(key: string): boolean {
@@ -1240,6 +1244,26 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
       return { id: `vis_g5ang_${sfx}`, answer, points: 1,
         visualType: 'g5-angle-classify', visualData: { type: 'g5-angle-classify', params: { degrees } } };
     }
+    case 'g5_neg_line': {
+      // startNum: -8..+8, addNum: signed so result crosses or is negative
+      const startNum = rnd(-8, 8);
+      const addOptions: number[] = [];
+      for (let a = -8; a <= 8; a++) {
+        if (a === 0) continue;
+        const r = startNum + a;
+        if (r >= -10 && r <= 10) addOptions.push(a);
+      }
+      const addNum = addOptions[rnd(0, addOptions.length - 1)] ?? -3;
+      const answer = String(startNum + addNum);
+      return { id: `vis_g5neg_${sfx}`, answer, points: 1,
+        visualType: 'g5-neg-line', visualData: { type: 'g5-neg-line', params: { startNum, addNum } } };
+    }
+    case 'g5_vol_cuboid': {
+      const l = rnd(2, 5), w = rnd(2, 5), h = rnd(2, 4);
+      const answer = String(l * w * h);
+      return { id: `vis_g5vol_${sfx}`, answer, points: 1,
+        visualType: 'g5-volume-cuboid', visualData: { type: 'g5-volume-cuboid', params: { length: l, width: w, height: h } } };
+    }
     case 'g5_perim_vis': {
       const w = rnd(2, 12), h = rnd(2, 12);
       const shapeType = Math.random() > 0.5 ? 'rectangle' : 'square';
@@ -1373,6 +1397,8 @@ const VISUAL_TOPIC_TO_TYPE: Record<string, TaskType> = {
   g5_symmetry_vis:     'visual_g5_symmetry',
   g5_unit_convert:     'visual_g5_unit_convert',
   g5_nl_arith:         'visual_g5_nl_arith',
+  g5_neg_line:         'visual_g5_neg_line',
+  g5_vol_cuboid:       'visual_g5_volume_cuboid',
 };
 
 function generateVisualBlock(
@@ -1600,6 +1626,8 @@ const TITLES: Record<TaskType, Record<string, string>> = {
   visual_g5_symmetry:      { de: 'Spiegelung zeichnen.', en: 'Draw the reflection.', hu: 'Rajzold meg a tükörképet.', ro: 'Desenează reflecția.' },
   visual_g5_unit_convert:  { de: 'Maßeinheit umrechnen.', en: 'Convert the unit.', hu: 'Mértékegység átváltása.', ro: 'Convertește unitatea.' },
   visual_g5_nl_arith:      { de: 'Rechnen am Zahlenstrahl.', en: 'Arithmetic on number line.', hu: 'Számolás számegyenesen.', ro: 'Calcul pe axa numerică.' },
+  visual_g5_neg_line:      { de: 'Rechnen mit negativen Zahlen.', en: 'Calculate with negative numbers.', hu: 'Számolás negatív számokkal.', ro: 'Calcul cu numere negative.' },
+  visual_g5_volume_cuboid: { de: 'Volumen des Quaders berechnen.', en: 'Calculate the volume of a cuboid.', hu: 'Téglatest térfogatának kiszámítása.', ro: 'Calculează volumul paralelipipedului.' },
 };
 
 function getTitleFor(type: TaskType, cc: string): string {

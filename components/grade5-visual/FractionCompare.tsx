@@ -182,6 +182,9 @@ const FractionCompare: React.FC<FractionCompareProps> = ({
         </div>
       )}
 
+      {/* Instruction */}
+      <p className="text-xs font-semibold text-center text-slate-500 px-5 pb-2">{t.hint}</p>
+
       {/* Two fraction sides */}
       <div className="px-4 pb-4 flex gap-3">
         {renderSide(fracA, 'left', '#7c3aed')}
