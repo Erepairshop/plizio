@@ -192,6 +192,7 @@ export const TOPIC_NUMBER_RANGE: Partial<Record<string, number>> = {
   'g2_mul_group': 100, 'g2_mul_visual': 100, 'g2_div_share': 100,
   'g2_round': 100, 'g2_length': 100, 'g2_time': 100, 'g2_weights': 100,
   'g2_tables': 100, 'g2_diagrams': 100, 'g2_word_add': 100, 'g2_word_sub': 100, 'g2_word_mul': 100,
+  'g2_word_money': 100, 'g2_word_div': 100,
   // Grade 3 — 1-1000
   'add1000': 1000, 'sub1000': 1000, 'add1000b': 1000, 'sub1000b': 1000,
   'g3_add': 1000, 'g3_sub': 1000, 'g3_add_kopf': 1000, 'g3_sub_kopf': 1000,
@@ -232,6 +233,7 @@ const TOPIC_OPERATION_TYPE: Partial<Record<string, 'add' | 'sub' | 'mul' | 'div'
   // Word problems
   'word': 'word', 'g2_add_word': 'word', 'g2_sub_word': 'word',
   'g2_word_add': 'word', 'g2_word_sub': 'word', 'g2_word_mul': 'word',
+  'g2_word_money': 'word', 'g2_word_div': 'word',
   'g3_word': 'word', 'g4_word': 'word',
 };
 
@@ -3213,7 +3215,7 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g2_perim', name: 'Simple Perimeter', color: '#FB923C', icon: '📐', generators: [G2.perimeterSimple] },
     ]},
     { key: 'g2_data', name: 'Data & Charts', color: '#A855F7', icon: '📊', topics: [
-      { key: 'g2_tables',   name: 'Tables',   color: '#C084FC', icon: '📊', generators: [G2.word1, G2.word4] },
+      { key: 'g2_tables',   name: 'Tables',   color: '#C084FC', icon: '📊', generators: [G2.chartG2] },
       { key: 'g2_diagrams', name: 'Charts',   color: '#D8B4FE', icon: '📈', generators: [G2.chartG2] },
     ]},
     { key: 'g2_word', name: 'Word Problems', color: '#64748B', icon: '📖', topics: [
@@ -3221,7 +3223,7 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g2_word_sub',   name: 'Subtraction Problems',     color: '#CBD5E1', icon: '📖', generators: [G2.wordSubG2, G2.word2] },
       { key: 'g2_word_mul',   name: 'Multiplication Problems',  color: '#94A3B8', icon: '📖', generators: [G2.wordMulG2, G2.word3] },
       { key: 'g2_word_div',   name: 'Division Problems',        color: '#CBD5E1', icon: '📖', generators: [G2.wordDivG2] },
-      { key: 'g2_word_money', name: 'Money Problems',           color: '#94A3B8', icon: '📖', generators: [G2.wordMoneyG2, G2.word4] },
+      { key: 'g2_word_money', name: 'Money Problems',           color: '#94A3B8', icon: '📖', generators: [G2.wordMoneyG2, G2.moneyEuroCent] },
       { key: 'g2_word_time',  name: 'Time Problems',            color: '#CBD5E1', icon: '📖', generators: [G2.wordTimeG2] },
     ]},
   ],
@@ -3625,15 +3627,15 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g2_perim', name: 'Umfang einfacher Figuren', color: '#FB923C', icon: '📐', generators: [G2.perimeterSimple] },
     ]},
     { key: 'g2_data', name: 'Daten und Diagramme', color: '#A855F7', icon: '📊', topics: [
-      { key: 'g2_tables',   name: 'Tabellen',   color: '#C084FC', icon: '📊', generators: [G2.chartG2, G2.word4] },
-      { key: 'g2_diagrams', name: 'Diagramme',  color: '#D8B4FE', icon: '📈', generators: [G2.chartG2, G2.word1] },
+      { key: 'g2_tables',   name: 'Tabellen',   color: '#C084FC', icon: '📊', generators: [G2.chartG2] },
+      { key: 'g2_diagrams', name: 'Diagramme',  color: '#D8B4FE', icon: '📈', generators: [G2.chartG2] },
     ]},
     { key: 'g2_word', name: 'Sachaufgaben', color: '#64748B', icon: '📖', topics: [
       { key: 'g2_word_add',   name: 'Additionsaufgaben',       color: '#94A3B8', icon: '📖', generators: [G2.wordAddG2, G2.word1] },
       { key: 'g2_word_sub',   name: 'Subtraktionsaufgaben',    color: '#CBD5E1', icon: '📖', generators: [G2.wordSubG2, G2.word2] },
       { key: 'g2_word_mul',   name: 'Multiplikationsaufgaben', color: '#94A3B8', icon: '📖', generators: [G2.wordMulG2, G2.word3] },
       { key: 'g2_word_div',   name: 'Divisionsaufgaben',       color: '#CBD5E1', icon: '📖', generators: [G2.wordDivG2] },
-      { key: 'g2_word_money', name: 'Geldaufgaben',            color: '#94A3B8', icon: '📖', generators: [G2.wordMoneyG2, G2.word4] },
+      { key: 'g2_word_money', name: 'Geldaufgaben',            color: '#94A3B8', icon: '📖', generators: [G2.wordMoneyG2, G2.moneyEuroCent] },
       { key: 'g2_word_time',  name: 'Zeitaufgaben',            color: '#CBD5E1', icon: '📖', generators: [G2.wordTimeG2] },
     ]},
   ],
@@ -4083,15 +4085,15 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g2_perim', name: 'Umfang egyszerű alakzatoknál', color: '#FB923C', icon: '📐', generators: [G2.perimeterSimple] },
     ]},
     { key: 'g2_data', name: 'Adatok', color: '#A855F7', icon: '📊', topics: [
-      { key: 'g2_tables',   name: 'Tabellen',   color: '#C084FC', icon: '📊', generators: [G2.word1, G2.word4] },
-      { key: 'g2_diagrams', name: 'Diagramme',  color: '#D8B4FE', icon: '📈', generators: [G2.sequence, G2.evenOdd] },
+      { key: 'g2_tables',   name: 'Tabellen',   color: '#C084FC', icon: '📊', generators: [G2.chartG2] },
+      { key: 'g2_diagrams', name: 'Diagramme',  color: '#D8B4FE', icon: '📈', generators: [G2.chartG2] },
     ]},
     { key: 'g2_word', name: 'Szöveges feladatok', color: '#64748B', icon: '📖', topics: [
       { key: 'g2_word_add',   name: 'Összeadásos feladatok',            color: '#94A3B8', icon: '📖', generators: [G2.wordAddG2, G2.word1] },
       { key: 'g2_word_sub',   name: 'Kivonásos feladatok',              color: '#CBD5E1', icon: '📖', generators: [G2.wordSubG2, G2.word2] },
       { key: 'g2_word_mul',   name: 'Szorzásos feladatok',              color: '#94A3B8', icon: '📖', generators: [G2.wordMulG2, G2.word3] },
       { key: 'g2_word_div',   name: 'Osztásos feladatok',               color: '#CBD5E1', icon: '📖', generators: [G2.wordDivG2] },
-      { key: 'g2_word_money', name: 'Pénzes feladatok',                 color: '#94A3B8', icon: '📖', generators: [G2.wordMoneyG2, G2.word4] },
+      { key: 'g2_word_money', name: 'Pénzes feladatok',                 color: '#94A3B8', icon: '📖', generators: [G2.wordMoneyG2, G2.moneyEuroCent] },
       { key: 'g2_word_time',  name: 'Idővel kapcsolatos feladatok',     color: '#CBD5E1', icon: '📖', generators: [G2.wordTimeG2] },
     ]},
   ],
@@ -4489,15 +4491,15 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g2_perim', name: 'Perimetrul figurilor simple', color: '#FB923C', icon: '📐', generators: [G2.perimeterSimple] },
     ]},
     { key: 'g2_data', name: 'Date', color: '#A855F7', icon: '📊', topics: [
-      { key: 'g2_tables',   name: 'Tabele',   color: '#C084FC', icon: '📊', generators: [G2.word1, G2.word4] },
-      { key: 'g2_diagrams', name: 'Diagrame', color: '#D8B4FE', icon: '📈', generators: [G2.sequence, G2.evenOdd] },
+      { key: 'g2_tables',   name: 'Tabele',   color: '#C084FC', icon: '📊', generators: [G2.chartG2] },
+      { key: 'g2_diagrams', name: 'Diagrame', color: '#D8B4FE', icon: '📈', generators: [G2.chartG2] },
     ]},
     { key: 'g2_word', name: 'Probleme', color: '#64748B', icon: '📖', topics: [
       { key: 'g2_word_add',   name: 'Probleme de adunare',    color: '#94A3B8', icon: '📖', generators: [G2.wordAddG2, G2.word1] },
       { key: 'g2_word_sub',   name: 'Probleme de scădere',    color: '#CBD5E1', icon: '📖', generators: [G2.wordSubG2, G2.word2] },
       { key: 'g2_word_mul',   name: 'Probleme de înmulțire',  color: '#94A3B8', icon: '📖', generators: [G2.wordMulG2, G2.word3] },
       { key: 'g2_word_div',   name: 'Probleme de împărțire',  color: '#CBD5E1', icon: '📖', generators: [G2.wordDivG2] },
-      { key: 'g2_word_money', name: 'Probleme cu bani',        color: '#94A3B8', icon: '📖', generators: [G2.wordMoneyG2, G2.word4] },
+      { key: 'g2_word_money', name: 'Probleme cu bani',        color: '#94A3B8', icon: '📖', generators: [G2.wordMoneyG2, G2.moneyEuroCent] },
       { key: 'g2_word_time',  name: 'Probleme cu timp',        color: '#CBD5E1', icon: '📖', generators: [G2.wordTimeG2] },
     ]},
   ],
