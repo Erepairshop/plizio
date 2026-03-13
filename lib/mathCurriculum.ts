@@ -1676,13 +1676,439 @@ const G5: Record<string, Generator> = {
     if (Math.random() < 0.5) {
       return q(qFractionAddDiff(an, ad, bn, bd, lcm, cc), num, t("fractionDiffDenom", cc));
     } else {
-      // subtraction: pick where result is positive
       const subPairs: [number, number, number, number, number, number][] = [
         [3,4,1,2,4,1],[5,6,1,3,6,3],[3,4,1,4,4,2],[2,3,1,6,6,3],[5,6,2,3,6,1],
       ];
       const [san, sad, sbn, sbd, slcm, snum] = pick(subPairs);
       return q(qFractionSubDiff(san, sad, sbn, sbd, slcm, cc), snum, t("fractionDiffDenom", cc));
     }
+  },
+
+  // ── Large number operations ──────────────────────────
+  readLargeNum: (cc) => {
+    const placeNames: Record<string, string[]> = {
+      DE: ["Einer", "Zehner", "Hunderter", "Tausender", "Zehntausender", "Hunderttausender"],
+      EN: ["ones", "tens", "hundreds", "thousands", "ten-thousands", "hundred-thousands"],
+      HU: ["egyesek", "tízesek", "százasok", "ezresek", "tízezresek", "százezresek"],
+      RO: ["unități", "zeci", "sute", "mii", "zeci de mii", "sute de mii"],
+    };
+    const lang = getLang(cc);
+    const names = placeNames[lang] ?? placeNames.EN;
+    const placeIdx = randInt(0, 5);
+    const digits = [randInt(1,9), randInt(0,9), randInt(0,9), randInt(0,9), randInt(0,9), randInt(0,9)];
+    const n = digits[5]*100000 + digits[4]*10000 + digits[3]*1000 + digits[2]*100 + digits[1]*10 + digits[0];
+    const digit = digits[placeIdx];
+    const formatted = n.toLocaleString("de-DE");
+    const prompts: Record<string, string> = {
+      DE: `Die Zahl ist ${formatted}. Welche Ziffer steht an der ${names[placeIdx]}-Stelle?`,
+      EN: `The number is ${n.toLocaleString("en-US")}. What digit is in the ${names[placeIdx]} place?`,
+      HU: `A szám: ${formatted}. Melyik számjegy áll a ${names[placeIdx]} helyén?`,
+      RO: `Numărul este ${formatted}. Ce cifră se află pe poziția ${names[placeIdx]}?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, digit, t("rounding", cc));
+  },
+
+  compareNums: (cc) => {
+    const lang = getLang(cc);
+    const a = randInt(10000, 999999);
+    let b = randInt(10000, 999999);
+    while (b === a) b = randInt(10000, 999999);
+    const bigger = Math.max(a, b);
+    const prompts: Record<string, string> = {
+      DE: `Welche Zahl ist größer: ${a.toLocaleString("de-DE")} oder ${b.toLocaleString("de-DE")}? (Gib die größere Zahl ein)`,
+      EN: `Which number is greater: ${a.toLocaleString("en-US")} or ${b.toLocaleString("en-US")}? (Enter the larger number)`,
+      HU: `Melyik szám nagyobb: ${a.toLocaleString("de-DE")} vagy ${b.toLocaleString("de-DE")}? (Írd be a nagyobb számot)`,
+      RO: `Care număr este mai mare: ${a.toLocaleString("de-DE")} sau ${b.toLocaleString("de-DE")}? (Scrie numărul mai mare)`,
+    };
+    return q(prompts[lang] ?? prompts.EN, bigger, t("rounding", cc));
+  },
+
+  addLarge: (cc) => {
+    const lang = getLang(cc);
+    const a = randInt(10000, 99999);
+    const b = randInt(10000, 99999);
+    const aFmt = a.toLocaleString("de-DE");
+    const bFmt = b.toLocaleString("de-DE");
+    const prompts: Record<string, string> = {
+      DE: `${aFmt} + ${bFmt} = ?`, EN: `${aFmt} + ${bFmt} = ?`, HU: `${aFmt} + ${bFmt} = ?`, RO: `${aFmt} + ${bFmt} = ?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, a + b, t("addition", cc));
+  },
+
+  subLarge: (cc) => {
+    const lang = getLang(cc);
+    const b = randInt(10000, 80000);
+    const a = b + randInt(5000, 50000);
+    const aFmt = a.toLocaleString("de-DE");
+    const bFmt = b.toLocaleString("de-DE");
+    const prompts: Record<string, string> = {
+      DE: `${aFmt} − ${bFmt} = ?`, EN: `${aFmt} − ${bFmt} = ?`, HU: `${aFmt} − ${bFmt} = ?`, RO: `${aFmt} − ${bFmt} = ?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, a - b, t("subtraction", cc));
+  },
+
+  addComplement100k: (cc) => {
+    const lang = getLang(cc);
+    const part = randInt(1, 9) * 10000 + randInt(0, 9) * 1000;
+    const rest = 100000 - part;
+    const prompts: Record<string, string> = {
+      DE: `${part.toLocaleString("de-DE")} + ? = 100 000`, EN: `${part.toLocaleString("en-US")} + ? = 100,000`,
+      HU: `${part.toLocaleString("de-DE")} + ? = 100 000`, RO: `${part.toLocaleString("de-DE")} + ? = 100 000`,
+    };
+    return q(prompts[lang] ?? prompts.EN, rest, t("addition", cc));
+  },
+
+  // ── Multiplication ───────────────────────────────────
+  mulTwoDigit: (cc) => {
+    const lang = getLang(cc);
+    const a = randInt(11, 49), b = randInt(11, 29);
+    const prompts: Record<string, string> = {
+      DE: `${a} × ${b} = ?`, EN: `${a} × ${b} = ?`, HU: `${a} × ${b} = ?`, RO: `${a} × ${b} = ?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, a * b, t("multiplication", cc));
+  },
+
+  mulThreeOne: (cc) => {
+    const lang = getLang(cc);
+    const a = randInt(101, 499), b = randInt(3, 9);
+    const prompts: Record<string, string> = {
+      DE: `${a} × ${b} = ?`, EN: `${a} × ${b} = ?`, HU: `${a} × ${b} = ?`, RO: `${a} × ${b} = ?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, a * b, t("multiplication", cc));
+  },
+
+  mulPow10: (cc) => {
+    const lang = getLang(cc);
+    const a = randInt(2, 99);
+    const pow = pick([10, 100, 1000]);
+    const powStr = pow === 1000 ? "1 000" : pow.toString();
+    const prompts: Record<string, string> = {
+      DE: `${a} × ${powStr} = ?`, EN: `${a} × ${pow.toLocaleString("en-US")} = ?`,
+      HU: `${a} × ${powStr} = ?`, RO: `${a} × ${powStr} = ?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, a * pow, t("multiplication", cc));
+  },
+
+  // ── Division ─────────────────────────────────────────
+  divRemainder: (cc) => {
+    const lang = getLang(cc);
+    const divisor = randInt(3, 9), quotient = randInt(5, 15), remainder = randInt(1, divisor - 1);
+    const dividend = divisor * quotient + remainder;
+    const prompts: Record<string, string> = {
+      DE: `${dividend} ÷ ${divisor}: Was ist der Rest?`,
+      EN: `${dividend} ÷ ${divisor}: What is the remainder?`,
+      HU: `${dividend} ÷ ${divisor}: Mennyi a maradék?`,
+      RO: `${dividend} ÷ ${divisor}: Care este restul?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, remainder, t("division", cc));
+  },
+
+  divLong: (cc) => {
+    const lang = getLang(cc);
+    const divisor = randInt(3, 9), quotient = randInt(20, 99);
+    const dividend = divisor * quotient;
+    const prompts: Record<string, string> = {
+      DE: `${dividend} ÷ ${divisor} = ?`, EN: `${dividend} ÷ ${divisor} = ?`,
+      HU: `${dividend} ÷ ${divisor} = ?`, RO: `${dividend} ÷ ${divisor} = ?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, quotient, t("division", cc));
+  },
+
+  divPow10: (cc) => {
+    const lang = getLang(cc);
+    const pow = pick([10, 100]);
+    const result = randInt(3, 99);
+    const dividend = result * pow;
+    const prompts: Record<string, string> = {
+      DE: `${dividend.toLocaleString("de-DE")} ÷ ${pow} = ?`,
+      EN: `${dividend.toLocaleString("en-US")} ÷ ${pow} = ?`,
+      HU: `${dividend.toLocaleString("de-DE")} ÷ ${pow} = ?`,
+      RO: `${dividend.toLocaleString("de-DE")} ÷ ${pow} = ?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, result, t("division", cc));
+  },
+
+  // ── Decimals ─────────────────────────────────────────
+  decimalRead: (cc) => {
+    const lang = getLang(cc);
+    const whole = randInt(0, 9), tenth = randInt(0, 9), hundredth = randInt(0, 9);
+    const n = whole + tenth / 10 + hundredth / 100;
+    const nStr = n.toFixed(2).replace(".", ",");
+    const place = pick(["tenths", "hundredths"]);
+    const digit = place === "tenths" ? tenth : hundredth;
+    const placeNames: Record<string, Record<string, string>> = {
+      tenths:     { DE: "Zehntel",     EN: "tenths",     HU: "tizedek",     RO: "zecimi" },
+      hundredths: { DE: "Hundertstel", EN: "hundredths", HU: "századok",     RO: "sutimi" },
+    };
+    const pn = placeNames[place][lang] ?? placeNames[place].EN;
+    const prompts: Record<string, string> = {
+      DE: `Die Zahl ist ${nStr}. Welche Ziffer steht an der ${pn}-Stelle?`,
+      EN: `The number is ${n.toFixed(2)}. What digit is in the ${pn} place?`,
+      HU: `A szám: ${nStr}. Melyik számjegy áll a ${pn} helyén?`,
+      RO: `Numărul este ${nStr}. Ce cifră se află pe locul ${pn}?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, digit, t("decimals", cc));
+  },
+
+  decimalAdd: (cc) => {
+    const lang = getLang(cc);
+    const a = randInt(1, 9) + randInt(0, 9) / 10;
+    const b = randInt(1, 9) + randInt(0, 9) / 10;
+    const result = Math.round((a + b) * 10) / 10;
+    const aStr = a.toFixed(1).replace(".", ",");
+    const bStr = b.toFixed(1).replace(".", ",");
+    const prompts: Record<string, string> = {
+      DE: `${aStr} + ${bStr} = ?`, EN: `${a.toFixed(1)} + ${b.toFixed(1)} = ?`,
+      HU: `${aStr} + ${bStr} = ?`, RO: `${aStr} + ${bStr} = ?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, result, t("decimals", cc));
+  },
+
+  decimalSub: (cc) => {
+    const lang = getLang(cc);
+    const b = randInt(1, 5) + randInt(0, 9) / 10;
+    const a = b + randInt(1, 4) + randInt(0, 9) / 10;
+    const result = Math.round((a - b) * 10) / 10;
+    const aStr = a.toFixed(1).replace(".", ",");
+    const bStr = b.toFixed(1).replace(".", ",");
+    const prompts: Record<string, string> = {
+      DE: `${aStr} − ${bStr} = ?`, EN: `${a.toFixed(1)} − ${b.toFixed(1)} = ?`,
+      HU: `${aStr} − ${bStr} = ?`, RO: `${aStr} − ${bStr} = ?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, result, t("decimals", cc));
+  },
+
+  decimalCompare: (cc) => {
+    const lang = getLang(cc);
+    const a = (randInt(0, 9) + randInt(0, 9) / 10 + randInt(0, 9) / 100);
+    const b = (randInt(0, 9) + randInt(0, 9) / 10 + randInt(0, 9) / 100);
+    const bigger = Math.round(Math.max(a, b) * 100) / 100;
+    const aStr = a.toFixed(2).replace(".", ",");
+    const bStr = b.toFixed(2).replace(".", ",");
+    const prompts: Record<string, string> = {
+      DE: `Welche Zahl ist größer: ${aStr} oder ${bStr}? (Gib die größere Zahl ein, mit 2 Nachkommastellen)`,
+      EN: `Which is greater: ${a.toFixed(2)} or ${b.toFixed(2)}? (Enter the larger number)`,
+      HU: `Melyik nagyobb: ${aStr} vagy ${bStr}? (Írd be a nagyobb számot)`,
+      RO: `Care este mai mare: ${aStr} sau ${bStr}? (Scrie numărul mai mare)`,
+    };
+    return q(prompts[lang] ?? prompts.EN, bigger, t("decimals", cc));
+  },
+
+  decimalRound: (cc) => {
+    const lang = getLang(cc);
+    const d = randInt(1, 9) + randInt(1, 9) / 10;
+    const rounded = Math.round(d);
+    const dStr = d.toFixed(1).replace(".", ",");
+    const prompts: Record<string, string> = {
+      DE: `Runde ${dStr} auf die nächste ganze Zahl.`,
+      EN: `Round ${d.toFixed(1)} to the nearest whole number.`,
+      HU: `Kerekítsd ${dStr}-t a legközelebbi egész számra!`,
+      RO: `Rotunjește ${dStr} la cel mai apropiat număr întreg.`,
+    };
+    return q(prompts[lang] ?? prompts.EN, rounded, t("rounding", cc));
+  },
+
+  // ── Unit conversions ─────────────────────────────────
+  unitLength: (cc) => {
+    return pick([
+      () => { const km = randInt(1, 8); return q(qKmToM(km, cc), km * 1000, t("unitConversion", cc)); },
+      () => { const m = randInt(2, 9); return q(qMetersInCm(m, cc), m * 100, t("unitConversion", cc)); },
+      () => { const n = randInt(1, 5) * 1000; const lang = getLang(cc); const prompts: Record<string,string> = { DE: `${n.toLocaleString("de-DE")} m = ? km`, EN: `${n.toLocaleString("en-US")} m = ? km`, HU: `${n.toLocaleString("de-DE")} m = ? km`, RO: `${n.toLocaleString("de-DE")} m = ? km` }; return q(prompts[lang] ?? prompts.EN, n / 1000, t("unitConversion", cc)); },
+    ])();
+  },
+
+  unitMass: (cc) => {
+    return pick([
+      () => { const kg = randInt(1, 8); return q(qKgToG(kg, cc), kg * 1000, t("unitConversion", cc)); },
+      () => { const t2 = randInt(1, 5); return q(qTonToKg(t2, cc), t2 * 1000, t("unitConversion", cc)); },
+      () => { return q(qWeightConvert(randInt(1, 6) * 500, "g", "kg", cc), randInt(1, 6) * 500 / 1000, t("unitConversion", cc)); },
+    ])();
+  },
+
+  unitTime: (cc) => {
+    return pick([
+      () => { const h = randInt(1, 5); return q(qHoursToMinutes(h, cc), h * 60, t("unitConversion", cc)); },
+      () => { const min = pick([30, 60, 90, 120, 180]); return q(qMinutesToHours(min, cc), min / 60, t("unitConversion", cc)); },
+      () => { const start = randInt(7, 20); const dur = randInt(1, 4); return q(qTimeElapsed(start, dur, cc), (start + dur) % 24, t("unitConversion", cc)); },
+    ])();
+  },
+
+  unitMoney: (cc) => {
+    const lang = getLang(cc);
+    const cur = getCurrency(cc);
+    return pick([
+      () => {
+        const euros = randInt(1, 20);
+        const cent = euros * 100;
+        const prompts: Record<string,string> = {
+          DE: `${euros} € = ? Cent`, EN: `${euros} ${cur} = ? cents`, HU: `${euros} euró = ? cent`, RO: `${euros} euro = ? cenți`,
+        };
+        return q(prompts[lang] ?? prompts.EN, cent, t("unitConversion", cc));
+      },
+      () => {
+        const cent = randInt(1, 10) * 50;
+        const euros = cent / 100;
+        const prompts: Record<string,string> = {
+          DE: `${cent} Cent = ? €`, EN: `${cent} cents = ? ${cur}`, HU: `${cent} cent = ? euró`, RO: `${cent} cenți = ? euro`,
+        };
+        return q(prompts[lang] ?? prompts.EN, euros, t("unitConversion", cc));
+      },
+    ])();
+  },
+
+  // ── Percent ──────────────────────────────────────────
+  percent20: (cc) => { const n = randInt(2, 10) * 100; return q(qPercentOf(n, 20, cc), n / 5, t("percent", cc)); },
+  percent75: (cc) => { const n = randInt(1, 8) * 100; return q(qPercentOf(n, 75, cc), n * 3 / 4, t("percent", cc)); },
+  percent5:  (cc) => { const n = randInt(2, 10) * 100; return q(qPercentOf(n, 5, cc), n / 20, t("percent", cc)); },
+
+  percentWord: (cc) => {
+    const cur = getCurrency(cc);
+    const n = randInt(2, 8) * 100;
+    const p = pick([10, 20, 25, 50]);
+    return q(wpSavings(n, p, cur, cc), n * p / 100, t("percent", cc), 0, true);
+  },
+
+  // ── Word problems ─────────────────────────────────────
+  wordAdd: (cc) => {
+    return pick([
+      () => {
+        const cur = getCurrency(cc);
+        const p1 = randInt(3, 9) * 100, p2 = randInt(2, 7) * 100;
+        return q(wpTwoItemsCost(p1, p2, cur, cc), p1 + p2, t("wordProblem", cc), 0, true);
+      },
+      () => {
+        const items = getItems(cc);
+        const a = randInt(200, 800), b = randInt(200, 800);
+        return q(wpFruitTotal(a, items.fruits[0], b, items.fruits[1], cc), a + b, t("wordProblem", cc), 0, true);
+      },
+    ])();
+  },
+
+  wordSub: (cc) => {
+    return pick([
+      () => {
+        const items = getItems(cc); const cur = getCurrency(cc);
+        const budget = randInt(5, 15) * 100, price = randInt(2, 8) * 100;
+        return q(wpBudgetLeft(budget, price, cur, cc), budget - price, t("wordProblem", cc), 0, true);
+      },
+      () => {
+        const items = getItems(cc);
+        const total = randInt(300, 800), eaten = randInt(50, 150);
+        return q(wpContainerFill(total, total - eaten, cc), eaten, t("wordProblem", cc), 0, true);
+      },
+    ])();
+  },
+
+  wordMul: (cc) => {
+    return pick([
+      () => {
+        const items = getItems(cc); const cur = getCurrency(cc);
+        const price = randInt(3, 15) * 100, count = randInt(3, 8);
+        return q(wpBuyMultiple(items.fruits[0], price, count, cur, cc), price * count, t("wordProblem", cc), 0, true);
+      },
+      () => {
+        const items = getItems(cc);
+        const rows = randInt(3, 8), perRow = randInt(4, 12);
+        return q(wpShelfRows(rows, perRow, items.book, cc), rows * perRow, t("wordProblem", cc), 0, true);
+      },
+    ])();
+  },
+
+  wordDiv: (cc) => {
+    return pick([
+      () => {
+        const items = getItems(cc);
+        const kids = randInt(3, 8), each = randInt(4, 12);
+        return q(wpShare(kids * each, kids, each, items.candy, cc), each, t("wordProblem", cc), 0, true);
+      },
+      () => {
+        const groups = randInt(3, 7), perGroup = randInt(4, 9);
+        return q(wpClassGroups(groups * perGroup, groups, cc), perGroup, t("wordProblem", cc), 0, true);
+      },
+    ])();
+  },
+
+  wordTravel: (cc) => {
+    return pick([
+      () => {
+        const speed = pick([40, 50, 60, 80, 100]);
+        const time = randInt(2, 5);
+        return q(wpTravel(speed * time, speed, cc), time, t("wordProblem", cc), 0, true);
+      },
+      () => {
+        const km = randInt(3, 8) * 10; const h = pick([2, 3, 4]);
+        return q(wpAvgSpeed(km * h, h, cc), km, t("wordProblem", cc), 0, true);
+      },
+    ])();
+  },
+
+  wordFence: (cc) => {
+    const a = randInt(4, 15), b = randInt(4, 15);
+    return q(wpFenceLength(a, b, cc), 2 * (a + b), t("wordProblem", cc), 0, true);
+  },
+
+  // ── Geometry ─────────────────────────────────────────
+  triangleAreaG5: (cc) => {
+    const base = randInt(3, 14), h = randInt(3, 10);
+    // ensure integer result
+    const b = base % 2 === 0 ? base : base + 1;
+    return q(qTriangleArea(b, h, cc), (b * h) / 2, t("geometry", cc));
+  },
+
+  squareAreaG5: (cc) => {
+    const a = randInt(3, 15);
+    return q(qSquareArea(a, cc), a * a, t("geometry", cc));
+  },
+
+  coordRead: (cc) => {
+    const lang = getLang(cc);
+    const x = randInt(1, 9), y = randInt(1, 9);
+    const prompts: Record<string,string> = {
+      DE: `Ein Punkt liegt bei x=${x}, y=${y}. Was ist seine x-Koordinate?`,
+      EN: `A point is at x=${x}, y=${y}. What is its x-coordinate?`,
+      HU: `Egy pont koordinátái: x=${x}, y=${y}. Mi az x-koordinátája?`,
+      RO: `Un punct se află la x=${x}, y=${y}. Care este coordonata x?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, x, t("geometry", cc));
+  },
+
+  // ── Statistics ────────────────────────────────────────
+  chartRead: (cc) => {
+    const lang = getLang(cc);
+    const categories = ["A", "B", "C", "D"];
+    const values = categories.map(() => randInt(2, 12) * 5);
+    const maxIdx = values.indexOf(Math.max(...values));
+    const valList = categories.map((c, i) => `${c}:${values[i]}`).join(", ");
+    const prompts: Record<string,string> = {
+      DE: `Balkendiagramm-Werte (${valList}). Was ist der Höchstwert?`,
+      EN: `Bar chart values (${valList}). What is the highest value?`,
+      HU: `Oszlopdiagram értékei (${valList}). Mi a legnagyobb érték?`,
+      RO: `Valorile diagramei (${valList}). Care este valoarea maximă?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, values[maxIdx], t("statistics", cc));
+  },
+
+  calcMean: (cc) => {
+    const count = pick([3, 4, 5]);
+    const step = randInt(2, 8);
+    const nums = Array.from({ length: count }, (_, i) => step * (i + 1));
+    const mean = nums.reduce((s, n) => s + n, 0) / count;
+    return q(qMeanOf(nums, cc), mean, t("mean", cc));
+  },
+
+  // ── Mixed number helpers ──────────────────────────────
+  mixedNumber: (cc) => {
+    const lang = getLang(cc);
+    const whole = randInt(1, 5), num = randInt(1, 3), den = pick([4, 5, 6, 8]);
+    // convert to improper fraction
+    const numerator = whole * den + num;
+    const prompts: Record<string,string> = {
+      DE: `${whole} ${num}/${den} = ?/${den} (als unechten Bruch)`,
+      EN: `${whole} ${num}/${den} = ?/${den} (as an improper fraction)`,
+      HU: `${whole} ${num}/${den} = ?/${den} (vegyes törtként)`,
+      RO: `${whole} ${num}/${den} = ?/${den} (ca fracție improprie)`,
+    };
+    return q(prompts[lang] ?? prompts.EN, numerator, t("fractionAdd", cc));
   },
 };
 
@@ -2377,19 +2803,138 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
     ]},
   ],
   5: [
-    { key: 'g5_ops', name: 'Numbers & Operations', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'large', name: 'Large Numbers & Rounding', color: '#60A5FA', icon: '🔢', generators: [G5.largeNumbers, G5.roundHundreds] },
-      { key: 'ops', name: 'Order of Operations', color: '#2563EB', icon: '🔢', generators: [G5.orderOfOps, G5.orderOfOpsB, G5.orderOfOpsC, G5.orderOfOpsD] },
+    { key: 'g5_vis_numbers', name: 'Visual: Numbers & Place Value', color: '#3B82F6', icon: '🖼️', topics: [
+      { key: 'g5_place_million',    name: 'Place Value Table (millions)',          color: '#60A5FA', icon: '🔢', generators: [G5.readLargeNum] },
+      { key: 'g5_number_line_vis',  name: 'Number Line – large numbers',           color: '#93C5FD', icon: '📏', generators: [G5.largeNumbers] },
+      { key: 'g5_rounding_vis',     name: 'Rounding – visual',                     color: '#2563EB', icon: '🎯', generators: [G5.roundHundreds] },
+      { key: 'g5_nl_arith',         name: 'Number Line Arithmetic',                color: '#1D4ED8', icon: '➕', generators: [G5.addLarge, G5.subLarge] },
     ]},
-    { key: 'g5_frac', name: 'Fractions & Percent', color: '#8B5CF6', icon: '½', topics: [
-      { key: 'frac', name: 'Fractions', color: '#A78BFA', icon: '½', generators: [G5.fractionAdd, G5.fractionSub] },
-      { key: 'pct', name: 'Percentages', color: '#8B5CF6', icon: '%', generators: [G5.percent10, G5.percent50, G5.percent25] },
+    { key: 'g5_vis_ops', name: 'Visual: Operations', color: '#10B981', icon: '🖼️', topics: [
+      { key: 'g5_mul_array',        name: 'Multiplication Array',                  color: '#6EE7B7', icon: '✖️', generators: [G5.mulTwoDigit] },
+      { key: 'g5_div_share',        name: 'Division – sharing',                    color: '#10B981', icon: '➗', generators: [G5.divLong] },
+      { key: 'g5_balance_vis',      name: 'Balance Scale',                         color: '#059669', icon: '⚖️', generators: [G5.addLarge] },
     ]},
-    { key: 'g5_geo', name: 'Geometry', color: '#F59E0B', icon: '📐', topics: [
-      { key: 'geo', name: 'Area & Perimeter', color: '#FBBF24', icon: '📐', generators: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter] },
+    { key: 'g5_vis_frac', name: 'Visual: Fractions & Decimals', color: '#6366F1', icon: '🖼️', topics: [
+      { key: 'g5_frac_compare_vis', name: 'Fraction Comparison – visual',          color: '#818CF8', icon: '½', generators: [G5.fractionAdd] },
+      { key: 'g5_frac_equiv_vis',   name: 'Equivalent Fractions – visual',         color: '#A5B4FC', icon: '🔄', generators: [G5.fractionAdd] },
+      { key: 'g5_decimal_place_vis',name: 'Decimal Place Value – visual',          color: '#6366F1', icon: '🔟', generators: [G5.decimalRead] },
+      { key: 'g5_decimal_line_vis', name: 'Decimal Number Line',                   color: '#4F46E5', icon: '📏', generators: [G5.decimalRead] },
+    ]},
+    { key: 'g5_vis_geo', name: 'Visual: Geometry', color: '#EAB308', icon: '🖼️', topics: [
+      { key: 'g5_shape_vis',        name: 'Shape Properties – visual',             color: '#FDE047', icon: '🔷', generators: [G5.geoRectArea] },
+      { key: 'g5_angle_vis',        name: 'Angle Classification – visual',         color: '#EAB308', icon: '∠', generators: [G4.winkelTyp] },
+      { key: 'g5_perim_vis',        name: 'Perimeter – visual',                    color: '#CA8A04', icon: '🔲', generators: [G5.geoRectPerimeter] },
+      { key: 'g5_area_vis',         name: 'Area – grid',                           color: '#A16207', icon: '⬛', generators: [G5.geoRectArea] },
+      { key: 'g5_symmetry_vis',     name: 'Symmetry – reflection',                 color: '#854D0E', icon: '🪞', generators: [G4.symmetrieAchsen] },
+    ]},
+    { key: 'g5_vis_data', name: 'Visual: Data & Units', color: '#10B981', icon: '🖼️', topics: [
+      { key: 'g5_barchart_vis',     name: 'Bar Chart Reading',                     color: '#6EE7B7', icon: '📊', generators: [G5.chartRead] },
+      { key: 'g5_unit_convert',     name: 'Unit Conversion – visual',              color: '#10B981', icon: '📏', generators: [G5.unitLength] },
+    ]},
+    { key: 'g5_zahlen', name: 'Numbers & Number System', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'g5_z_million',  name: 'Natural Numbers up to 1,000,000',            color: '#60A5FA', icon: '🔢', generators: [G5.largeNumbers, G5.readLargeNum, G5.compareNums] },
+      { key: 'g5_z_read',    name: 'Reading and Writing Numbers',                  color: '#93C5FD', icon: '📝', generators: [G5.readLargeNum, G5.largeNumbers] },
+      { key: 'g5_z_compare', name: 'Comparing Numbers  (< · > · =)',               color: '#2563EB', icon: '⚖️', generators: [G5.compareNums, G5.largeNumbers] },
+      { key: 'g5_z_order',   name: 'Ordering Numbers',                             color: '#1D4ED8', icon: '📊', generators: [G5.compareNums, G5.largeNumbers, G5.readLargeNum] },
+      { key: 'g5_z_place',   name: 'Place Value',                                  color: '#3B82F6', icon: '🧱', generators: [G5.readLargeNum, G5.largeNumbers] },
+      { key: 'g5_z_expand',  name: 'Expanded Form',                               color: '#60A5FA', icon: '🧩', generators: [G5.readLargeNum, G5.largeNumbers] },
+      { key: 'g5_z_line',    name: 'Number Line',                                  color: '#93C5FD', icon: '📏', generators: [G5.largeNumbers, G5.compareNums] },
+      { key: 'g5_z_neighbor','name': 'Neighboring Numbers',                        color: '#BFDBFE', icon: '↔️', generators: [G5.largeNumbers, G5.addLarge] },
+    ]},
+    { key: 'g5_round', name: 'Rounding & Estimation', color: '#06B6D4', icon: '🎯', topics: [
+      { key: 'g5_rnd_10',    name: 'Rounding to Tens',                             color: '#22D3EE', icon: '🎯', generators: [G5.roundHundreds, G5.decimalRound] },
+      { key: 'g5_rnd_100',   name: 'Rounding to Hundreds',                         color: '#06B6D4', icon: '🎯', generators: [G5.roundHundreds] },
+      { key: 'g5_rnd_1000',  name: 'Rounding to Thousands',                        color: '#0891B2', icon: '🎯', generators: [G5.largeNumbers, G5.roundHundreds] },
+      { key: 'g5_rnd_large', name: 'Rounding to Larger Places (10,000 · 100,000)', color: '#0E7490', icon: '🎯', generators: [G5.largeNumbers, G5.roundHundreds] },
+      { key: 'g5_rnd_dec',   name: 'Rounding Decimals',                            color: '#155E75', icon: '🤔', generators: [G5.decimalRound] },
+    ]},
+    { key: 'g5_add', name: 'Addition', color: '#EF4444', icon: '➕', topics: [
+      { key: 'g5_add_mental', name: 'Mental Addition',                             color: '#FCA5A5', icon: '🧠', generators: [G5.addLarge, G5.addComplement100k] },
+      { key: 'g5_add_written','name': 'Written Addition',                          color: '#EF4444', icon: '➕', generators: [G5.addLarge] },
+      { key: 'g5_add_compl',  name: 'Complement to 100,000',                      color: '#DC2626', icon: '✅', generators: [G5.addComplement100k] },
+      { key: 'g5_add_word',   name: 'Word Problem (Addition)',                     color: '#B91C1C', icon: '📖', generators: [G5.wordAdd, G5.wordFence] },
+    ]},
+    { key: 'g5_sub', name: 'Subtraction', color: '#F97316', icon: '➖', topics: [
+      { key: 'g5_sub_mental', name: 'Mental Subtraction',                          color: '#FDBA74', icon: '🧠', generators: [G5.subLarge] },
+      { key: 'g5_sub_written','name': 'Written Subtraction',                       color: '#F97316', icon: '➖', generators: [G5.subLarge] },
+      { key: 'g5_sub_check',  name: 'Checking (Proof)',                            color: '#EA580C', icon: '✅', generators: [G5.subLarge, G5.addComplement100k] },
+      { key: 'g5_sub_word',   name: 'Word Problem (Subtraction)',                  color: '#C2410C', icon: '📖', generators: [G5.wordSub] },
+    ]},
+    { key: 'g5_mul', name: 'Multiplication', color: '#10B981', icon: '✖️', topics: [
+      { key: 'g5_mul_mental', name: 'Mental Multiplication',                       color: '#6EE7B7', icon: '🧠', generators: [G5.orderOfOps, G5.mulPow10] },
+      { key: 'g5_mul_written','name': 'Written Multiplication (multi-digit)',       color: '#10B981', icon: '✖️', generators: [G5.mulTwoDigit, G5.mulThreeOne] },
+      { key: 'g5_mul_round',  name: 'Multiplying Round Numbers  (20 × 30)',        color: '#059669', icon: '🔄', generators: [G5.mulPow10, G5.orderOfOps] },
+      { key: 'g5_mul_pow10',  name: '×10, ×100, ×1000',                            color: '#047857', icon: '🔟', generators: [G5.mulPow10] },
+      { key: 'g5_mul_word',   name: 'Word Problem (Multiplication)',               color: '#065F46', icon: '📖', generators: [G5.wordMul] },
+    ]},
+    { key: 'g5_div', name: 'Division', color: '#8B5CF6', icon: '➗', topics: [
+      { key: 'g5_div_mental', name: 'Mental Division',                             color: '#C4B5FD', icon: '🧠', generators: [G5.divLong, G5.divPow10] },
+      { key: 'g5_div_rem',    name: 'Division with Remainder',                     color: '#A78BFA', icon: '➗', generators: [G5.divRemainder] },
+      { key: 'g5_div_written','name': 'Written Division',                          color: '#8B5CF6', icon: '📝', generators: [G5.divLong] },
+      { key: 'g5_div_pow10',  name: '÷10, ÷100',                                  color: '#7C3AED', icon: '🔟', generators: [G5.divPow10] },
+      { key: 'g5_div_word',   name: 'Word Problem (Division)',                     color: '#6D28D9', icon: '📖', generators: [G5.wordDiv] },
+    ]},
+    { key: 'g5_frac', name: 'Fractions', color: '#6366F1', icon: '½', topics: [
+      { key: 'g5_frac_concept', name: 'Numerator and Denominator',                 color: '#818CF8', icon: '½', generators: [G5.fractionAdd, G5.fractionSub] },
+      { key: 'g5_frac_mixed',   name: 'Mixed Numbers',                             color: '#A5B4FC', icon: '🍕', generators: [G5.mixedNumber, G5.fractionAdd] },
+      { key: 'g5_frac_compare', name: 'Comparing Fractions',                       color: '#6366F1', icon: '⚖️', generators: [G5.fractionAdd, G5.fractionSub, G5.fractionDiff] },
+      { key: 'g5_frac_simplify','name': 'Simplifying Fractions',                   color: '#4F46E5', icon: '✂️', generators: [G5.gcd, G5.lcm] },
+      { key: 'g5_frac_equiv',   name: 'Equivalent Fractions  (2/4 = 1/2)',         color: '#4338CA', icon: '🔄', generators: [G5.lcm, G5.fractionAdd] },
+      { key: 'g5_frac_addsub',  name: 'Adding and Subtracting Fractions',          color: '#3730A3', icon: '➕', generators: [G5.fractionAdd, G5.fractionSub, G5.fractionDiff] },
+    ]},
+    { key: 'g5_decimal', name: 'Decimal Numbers', color: '#14B8A6', icon: '🔟', topics: [
+      { key: 'g5_dec_concept', name: 'Reading and Writing Decimals',               color: '#5EEAD4', icon: '📝', generators: [G5.decimalRead] },
+      { key: 'g5_dec_compare', name: 'Comparing Decimals',                         color: '#14B8A6', icon: '⚖️', generators: [G5.decimalCompare, G5.decimalRead] },
+      { key: 'g5_dec_line',    name: 'Decimals on the Number Line',                color: '#0D9488', icon: '📏', generators: [G5.decimalCompare, G5.decimalRead] },
+      { key: 'g5_dec_add',     name: 'Adding Decimals',                            color: '#0F766E', icon: '➕', generators: [G5.decimalAdd] },
+      { key: 'g5_dec_sub',     name: 'Subtracting Decimals',                       color: '#115E59', icon: '➖', generators: [G5.decimalSub] },
+    ]},
+    { key: 'g5_units', name: 'Units of Measurement', color: '#F59E0B', icon: '📏', topics: [
+      { key: 'g5_units_len',  name: 'Length  (km · m · cm · mm)',                  color: '#FCD34D', icon: '📏', generators: [G5.unitLength] },
+      { key: 'g5_units_mass', name: 'Weight/Mass  (t · kg · g)',                   color: '#FBBF24', icon: '⚖️', generators: [G5.unitMass] },
+      { key: 'g5_units_time', name: 'Time  (h · min · s)',                         color: '#F59E0B', icon: '⏱️', generators: [G5.unitTime] },
+      { key: 'g5_units_area', name: 'Area Units  (m² · cm²)',                      color: '#D97706', icon: '⬜', generators: [G5.geoRectArea, G5.squareAreaG5] },
+      { key: 'g5_units_money','name': 'Money  (€ · cents)',                        color: '#B45309', icon: '💶', generators: [G5.unitMoney, G5.wordDiscount] },
+    ]},
+    { key: 'g5_geo', name: 'Geometry', color: '#EAB308', icon: '📐', topics: [
+      { key: 'g5_geo_shapes', name: 'Properties of Shapes',                        color: '#FDE047', icon: '🔷', generators: [G5.geoRectArea, G5.geoRectPerimeter, G5.triangleAreaG5] },
+      { key: 'g5_geo_coord',  name: 'Coordinate System',                           color: '#EAB308', icon: '🗺️', generators: [G5.coordRead] },
+      { key: 'g5_geo_nets',   name: 'Nets and Views',                              color: '#CA8A04', icon: '📦', generators: [G5.geoRectArea, G5.squareAreaG5] },
+    ]},
+    { key: 'g5_angles', name: 'Angles', color: '#6366F1', icon: '∠', topics: [
+      { key: 'g5_ang_concept', name: 'Angle Concepts',                             color: '#818CF8', icon: '∠', generators: [G4.winkelTyp, G4.winkelKlasse] },
+      { key: 'g5_ang_types',   name: 'Types of Angles  (acute · right · obtuse)',  color: '#6366F1', icon: '📐', generators: [G4.winkelKlasse, G4.winkelTyp] },
+      { key: 'g5_ang_measure', name: 'Measuring Angles',                           color: '#4F46E5', icon: '📏', generators: [G4.winkelTyp, G4.dreieckWinkel] },
+      { key: 'g5_ang_draw',    name: 'Drawing Angles',                             color: '#4338CA', icon: '✏️', generators: [G4.dreieckWinkel, G4.winkelTyp] },
+    ]},
+    { key: 'g5_perim', name: 'Perimeter', color: '#34D399', icon: '🔲', topics: [
+      { key: 'g5_peri_shapes', name: 'Perimeter of Shapes',                        color: '#6EE7B7', icon: '🔲', generators: [G5.geoRectPerimeter, G5.geoSquarePerimeter, G5.wordFence] },
+      { key: 'g5_peri_rect',   name: 'Rectangle and Square Perimeter',            color: '#34D399', icon: '⬜', generators: [G5.geoRectPerimeter, G5.geoSquarePerimeter] },
+      { key: 'g5_peri_comp',   name: 'Compound Shapes',                           color: '#059669', icon: '🔷', generators: [G5.geoRectPerimeter, G5.wordFence] },
+    ]},
+    { key: 'g5_area', name: 'Area', color: '#FBBF24', icon: '⬛', topics: [
+      { key: 'g5_area_rect',   name: 'Area of a Rectangle',                        color: '#FBBF24', icon: '⬜', generators: [G5.geoRectArea] },
+      { key: 'g5_area_square', name: 'Area of a Square',                           color: '#F59E0B', icon: '🟨', generators: [G5.squareAreaG5] },
+      { key: 'g5_area_tri',    name: 'Area of a Triangle',                         color: '#D97706', icon: '🔺', generators: [G5.triangleAreaG5] },
+      { key: 'g5_area_conv',   name: 'Converting Area Units  (m² ↔ cm²)',          color: '#B45309', icon: '🔄', generators: [G5.geoRectArea, G5.squareAreaG5] },
+    ]},
+    { key: 'g5_symmetry', name: 'Reflection & Symmetry', color: '#EC4899', icon: '🔄', topics: [
+      { key: 'g5_sym_axis',    name: 'Lines of Symmetry',                          color: '#F9A8D4', icon: '🔄', generators: [G4.symmetrieAchsen] },
+      { key: 'g5_sym_reflect', name: 'Reflecting Shapes',                          color: '#EC4899', icon: '🪞', generators: [G4.symmetrieAchsen] },
+    ]},
+    { key: 'g5_stats', name: 'Charts & Statistics', color: '#10B981', icon: '📊', topics: [
+      { key: 'g5_stat_read',  name: 'Reading and Interpreting Charts',             color: '#6EE7B7', icon: '📊', generators: [G5.chartRead] },
+      { key: 'g5_stat_mean',  name: 'Mean (Average)',                              color: '#10B981', icon: '📈', generators: [G5.calcMean, G5.mean] },
+      { key: 'g5_stat_table', name: 'Tables and Frequencies',                      color: '#059669', icon: '📋', generators: [G5.chartRead, G5.calcMean] },
     ]},
     { key: 'g5_word', name: 'Word Problems', color: '#EF4444', icon: '📖', topics: [
-      { key: 'word', name: 'Story Problems', color: '#EF4444', icon: '📖', generators: [G5.wordDiscount, G5.wordOps] },
+      { key: 'g5_word_add',   name: 'Word Problems · Addition',                    color: '#FCA5A5', icon: '➕', generators: [G5.wordAdd, G5.wordFence] },
+      { key: 'g5_word_sub',   name: 'Word Problems · Subtraction',                 color: '#F87171', icon: '➖', generators: [G5.wordSub] },
+      { key: 'g5_word_mul',   name: 'Word Problems · Multiplication',              color: '#EF4444', icon: '✖️', generators: [G5.wordMul] },
+      { key: 'g5_word_div',   name: 'Word Problems · Division',                    color: '#DC2626', icon: '➗', generators: [G5.wordDiv] },
+      { key: 'g5_word_travel',name: 'Travel & Speed Problems',                     color: '#B91C1C', icon: '🚂', generators: [G5.wordTravel] },
+      { key: 'g5_word_time',  name: 'Time Word Problems',                          color: '#991B1B', icon: '⏱️', generators: [G5.unitTime, G5.wordTravel] },
+      { key: 'g5_word_money', name: 'Money Word Problems',                         color: '#7F1D1D', icon: '💶', generators: [G5.wordDiscount, G5.unitMoney, G5.percentWord] },
     ]},
   ],
   6: [
@@ -2713,32 +3258,138 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     ]},
   ],
   5: [
-    { key: 'g5_ops', name: 'Zahlen & Terme', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'large', name: 'Große Zahlen & Runden', color: '#60A5FA', icon: '🔢', generators: [G5.largeNumbers, G5.roundHundreds] },
-      { key: 'ops', name: 'Punkt vor Strich', color: '#2563EB', icon: '🔢', generators: [G5.orderOfOps, G5.orderOfOpsB, G5.orderOfOpsC, G5.orderOfOpsD] },
+    { key: 'g5_vis_numbers', name: 'Visuell: Zahlen & Stellenwert', color: '#3B82F6', icon: '🖼️', topics: [
+      { key: 'g5_place_million',    name: 'Stellenwertgitter (Millionen)',          color: '#60A5FA', icon: '🔢', generators: [G5.readLargeNum] },
+      { key: 'g5_number_line_vis',  name: 'Zahlenstrahl – große Zahlen',            color: '#93C5FD', icon: '📏', generators: [G5.largeNumbers] },
+      { key: 'g5_rounding_vis',     name: 'Runden – visuell',                       color: '#2563EB', icon: '🎯', generators: [G5.roundHundreds] },
+      { key: 'g5_nl_arith',         name: 'Zahlenstrahl – Rechnen',                 color: '#1D4ED8', icon: '➕', generators: [G5.addLarge, G5.subLarge] },
     ]},
-    { key: 'g5_frac', name: 'Brüche & Prozent', color: '#8B5CF6', icon: '½', topics: [
-      { key: 'frac', name: 'Brüche addieren & subtrahieren', color: '#A78BFA', icon: '½', generators: [G5.fractionAdd, G5.fractionSub] },
-      { key: 'pct', name: 'Prozentrechnung', color: '#8B5CF6', icon: '%', generators: [G5.percent10, G5.percent50, G5.percent25] },
+    { key: 'g5_vis_ops', name: 'Visuell: Rechenoperationen', color: '#10B981', icon: '🖼️', topics: [
+      { key: 'g5_mul_array',        name: 'Multiplikationsgitter',                  color: '#6EE7B7', icon: '✖️', generators: [G5.mulTwoDigit] },
+      { key: 'g5_div_share',        name: 'Division – Aufteilen',                   color: '#10B981', icon: '➗', generators: [G5.divLong] },
+      { key: 'g5_balance_vis',      name: 'Waage – Gleichgewicht',                  color: '#059669', icon: '⚖️', generators: [G5.addLarge] },
     ]},
-    { key: 'g5_geo', name: 'Geometrie', color: '#F59E0B', icon: '📐', topics: [
-      { key: 'geo', name: 'Flächeninhalt & Umfang', color: '#FBBF24', icon: '📐', generators: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter] },
-      { key: 'g5_figuren', name: 'Figureigenschaften – visuell', color: '#F59E0B', icon: '🎮', generators: [] },
-      { key: 'g5_winkelarten', name: 'Winkelarten – visuell', color: '#FB923C', icon: '🎮', generators: [] },
-      { key: 'g5_umfang', name: 'Umfang – visuell', color: '#FBBF24', icon: '🎮', generators: [] },
-      { key: 'g5_flaeche_gitter', name: 'Flächeninhalt – Gitter', color: '#FDE68A', icon: '🎮', generators: [] },
-      { key: 'g5_spiegelung', name: 'Spiegelung – visuell', color: '#FEF3C7', icon: '🎮', generators: [] },
+    { key: 'g5_vis_frac', name: 'Visuell: Brüche & Dezimalen', color: '#6366F1', icon: '🖼️', topics: [
+      { key: 'g5_frac_compare_vis', name: 'Brüche vergleichen – visuell',           color: '#818CF8', icon: '½', generators: [G5.fractionAdd] },
+      { key: 'g5_frac_equiv_vis',   name: 'Gleichwertige Brüche – visuell',         color: '#A5B4FC', icon: '🔄', generators: [G5.fractionAdd] },
+      { key: 'g5_decimal_place_vis',name: 'Dezimalzahlen – Stellenwert',            color: '#6366F1', icon: '🔟', generators: [G5.decimalRead] },
+      { key: 'g5_decimal_line_vis', name: 'Dezimalzahlen am Zahlenstrahl',          color: '#4F46E5', icon: '📏', generators: [G5.decimalRead] },
+    ]},
+    { key: 'g5_vis_geo', name: 'Visuell: Geometrie', color: '#EAB308', icon: '🖼️', topics: [
+      { key: 'g5_shape_vis',        name: 'Figureigenschaften – visuell',           color: '#FDE047', icon: '🔷', generators: [G5.geoRectArea] },
+      { key: 'g5_angle_vis',        name: 'Winkelarten – visuell',                  color: '#EAB308', icon: '∠', generators: [G4.winkelTyp] },
+      { key: 'g5_perim_vis',        name: 'Umfang – visuell',                       color: '#CA8A04', icon: '🔲', generators: [G5.geoRectPerimeter] },
+      { key: 'g5_area_vis',         name: 'Flächeninhalt – Gitter',                 color: '#A16207', icon: '⬛', generators: [G5.geoRectArea] },
+      { key: 'g5_symmetry_vis',     name: 'Spiegelung – visuell',                   color: '#854D0E', icon: '🪞', generators: [G4.symmetrieAchsen] },
+    ]},
+    { key: 'g5_vis_data', name: 'Visuell: Daten & Einheiten', color: '#10B981', icon: '🖼️', topics: [
+      { key: 'g5_barchart_vis',     name: 'Säulendiagramm lesen',                   color: '#6EE7B7', icon: '📊', generators: [G5.chartRead] },
+      { key: 'g5_unit_convert',     name: 'Maßeinheiten – visuell',                 color: '#10B981', icon: '📏', generators: [G5.unitLength] },
+    ]},
+    { key: 'g5_zahlen', name: 'Zahlen und Zahlensystem', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'g5_z_million',  name: 'Natürliche Zahlen bis 1 000 000',      color: '#60A5FA', icon: '🔢', generators: [G5.largeNumbers, G5.readLargeNum, G5.compareNums] },
+      { key: 'g5_z_read',    name: 'Zahlen lesen und schreiben',             color: '#93C5FD', icon: '📝', generators: [G5.readLargeNum, G5.largeNumbers] },
+      { key: 'g5_z_compare', name: 'Zahlen vergleichen  (< · > · =)',       color: '#2563EB', icon: '⚖️', generators: [G5.compareNums, G5.largeNumbers] },
+      { key: 'g5_z_order',   name: 'Zahlen ordnen',                          color: '#1D4ED8', icon: '📊', generators: [G5.compareNums, G5.largeNumbers, G5.readLargeNum] },
+      { key: 'g5_z_place',   name: 'Stellenwerte',                           color: '#3B82F6', icon: '🧱', generators: [G5.readLargeNum, G5.largeNumbers] },
+      { key: 'g5_z_expand',  name: 'Zahlen zerlegen  (Stellenwertschreibweise)', color: '#60A5FA', icon: '🧩', generators: [G5.readLargeNum, G5.largeNumbers] },
+      { key: 'g5_z_line',    name: 'Zahlenstrahl',                           color: '#93C5FD', icon: '📏', generators: [G5.largeNumbers, G5.compareNums] },
+      { key: 'g5_z_neighbor','name': 'Vor- und Nachfolger',                  color: '#BFDBFE', icon: '↔️', generators: [G5.largeNumbers, G5.addLarge] },
+    ]},
+    { key: 'g5_round', name: 'Runden und Schätzen', color: '#06B6D4', icon: '🎯', topics: [
+      { key: 'g5_rnd_10',    name: 'Runden auf Zehner',                      color: '#22D3EE', icon: '🎯', generators: [G5.roundHundreds, G5.decimalRound] },
+      { key: 'g5_rnd_100',   name: 'Runden auf Hunderter',                   color: '#06B6D4', icon: '🎯', generators: [G5.roundHundreds] },
+      { key: 'g5_rnd_1000',  name: 'Runden auf Tausender',                   color: '#0891B2', icon: '🎯', generators: [G5.largeNumbers, G5.roundHundreds] },
+      { key: 'g5_rnd_large', name: 'Runden auf größere Stellen (10 000, 100 000)', color: '#0E7490', icon: '🎯', generators: [G5.largeNumbers, G5.roundHundreds] },
+      { key: 'g5_rnd_dec',   name: 'Dezimalzahlen runden',                   color: '#155E75', icon: '🤔', generators: [G5.decimalRound] },
+    ]},
+    { key: 'g5_add', name: 'Addition', color: '#EF4444', icon: '➕', topics: [
+      { key: 'g5_add_mental', name: 'Kopfrechnen (Addition)',                 color: '#FCA5A5', icon: '🧠', generators: [G5.addLarge, G5.addComplement100k] },
+      { key: 'g5_add_written','name': 'Schriftliche Addition',                color: '#EF4444', icon: '➕', generators: [G5.addLarge] },
+      { key: 'g5_add_compl',  name: 'Ergänzen auf 100 000',                  color: '#DC2626', icon: '✅', generators: [G5.addComplement100k] },
+      { key: 'g5_add_word',   name: 'Sachaufgabe (Addition)',                 color: '#B91C1C', icon: '📖', generators: [G5.wordAdd, G5.wordFence] },
+    ]},
+    { key: 'g5_sub', name: 'Subtraktion', color: '#F97316', icon: '➖', topics: [
+      { key: 'g5_sub_mental', name: 'Kopfrechnen (Subtraktion)',              color: '#FDBA74', icon: '🧠', generators: [G5.subLarge] },
+      { key: 'g5_sub_written','name': 'Schriftliche Subtraktion',             color: '#F97316', icon: '➖', generators: [G5.subLarge] },
+      { key: 'g5_sub_check',  name: 'Probe und Überprüfen',                  color: '#EA580C', icon: '✅', generators: [G5.subLarge, G5.addComplement100k] },
+      { key: 'g5_sub_word',   name: 'Sachaufgabe (Subtraktion)',              color: '#C2410C', icon: '📖', generators: [G5.wordSub] },
+    ]},
+    { key: 'g5_mul', name: 'Multiplikation', color: '#10B981', icon: '✖️', topics: [
+      { key: 'g5_mul_mental', name: 'Kopfrechnen (Multiplikation)',           color: '#6EE7B7', icon: '🧠', generators: [G5.orderOfOps, G5.mulPow10] },
+      { key: 'g5_mul_written','name': 'Schriftliche Multiplikation',          color: '#10B981', icon: '✖️', generators: [G5.mulTwoDigit, G5.mulThreeOne] },
+      { key: 'g5_mul_round',  name: 'Runde Zahlen multiplizieren (20 · 30)', color: '#059669', icon: '🔄', generators: [G5.mulPow10, G5.orderOfOps] },
+      { key: 'g5_mul_pow10',  name: '×10, ×100, ×1000',                      color: '#047857', icon: '🔟', generators: [G5.mulPow10] },
+      { key: 'g5_mul_word',   name: 'Sachaufgabe (Multiplikation)',           color: '#065F46', icon: '📖', generators: [G5.wordMul] },
+    ]},
+    { key: 'g5_div', name: 'Division', color: '#8B5CF6', icon: '➗', topics: [
+      { key: 'g5_div_mental', name: 'Kopfrechnen (Division)',                 color: '#C4B5FD', icon: '🧠', generators: [G5.divLong, G5.divPow10] },
+      { key: 'g5_div_rem',    name: 'Division mit Rest',                      color: '#A78BFA', icon: '➗', generators: [G5.divRemainder] },
+      { key: 'g5_div_written','name': 'Schriftliche Division',                color: '#8B5CF6', icon: '📝', generators: [G5.divLong] },
+      { key: 'g5_div_pow10',  name: '÷10, ÷100',                             color: '#7C3AED', icon: '🔟', generators: [G5.divPow10] },
+      { key: 'g5_div_word',   name: 'Sachaufgabe (Division)',                 color: '#6D28D9', icon: '📖', generators: [G5.wordDiv] },
+    ]},
+    { key: 'g5_frac', name: 'Brüche', color: '#6366F1', icon: '½', topics: [
+      { key: 'g5_frac_concept', name: 'Zähler und Nenner',                   color: '#818CF8', icon: '½', generators: [G5.fractionAdd, G5.fractionSub] },
+      { key: 'g5_frac_mixed',   name: 'Gemischte Zahlen',                    color: '#A5B4FC', icon: '🍕', generators: [G5.mixedNumber, G5.fractionAdd] },
+      { key: 'g5_frac_compare', name: 'Brüche vergleichen',                  color: '#6366F1', icon: '⚖️', generators: [G5.fractionAdd, G5.fractionSub, G5.fractionDiff] },
+      { key: 'g5_frac_simplify','name': 'Brüche kürzen (Vereinfachen)',       color: '#4F46E5', icon: '✂️', generators: [G5.gcd, G5.lcm] },
+      { key: 'g5_frac_equiv',   name: 'Gleichwertige Brüche  (2/4 = 1/2)',   color: '#4338CA', icon: '🔄', generators: [G5.lcm, G5.fractionAdd] },
+      { key: 'g5_frac_addsub',  name: 'Brüche addieren und subtrahieren',    color: '#3730A3', icon: '➕', generators: [G5.fractionAdd, G5.fractionSub, G5.fractionDiff] },
+    ]},
+    { key: 'g5_decimal', name: 'Dezimalzahlen', color: '#14B8A6', icon: '🔟', topics: [
+      { key: 'g5_dec_concept', name: 'Dezimalzahlen lesen und schreiben',    color: '#5EEAD4', icon: '📝', generators: [G5.decimalRead] },
+      { key: 'g5_dec_compare', name: 'Dezimalzahlen vergleichen',            color: '#14B8A6', icon: '⚖️', generators: [G5.decimalCompare, G5.decimalRead] },
+      { key: 'g5_dec_line',    name: 'Dezimalzahlen am Zahlenstrahl',        color: '#0D9488', icon: '📏', generators: [G5.decimalCompare, G5.decimalRead] },
+      { key: 'g5_dec_add',     name: 'Dezimalzahlen addieren',               color: '#0F766E', icon: '➕', generators: [G5.decimalAdd] },
+      { key: 'g5_dec_sub',     name: 'Dezimalzahlen subtrahieren',           color: '#115E59', icon: '➖', generators: [G5.decimalSub] },
+    ]},
+    { key: 'g5_units', name: 'Maßeinheiten', color: '#F59E0B', icon: '📏', topics: [
+      { key: 'g5_units_len',  name: 'Längenmaße  (km · m · cm · mm)',        color: '#FCD34D', icon: '📏', generators: [G5.unitLength] },
+      { key: 'g5_units_mass', name: 'Gewicht/Masse  (t · kg · g)',           color: '#FBBF24', icon: '⚖️', generators: [G5.unitMass] },
+      { key: 'g5_units_time', name: 'Zeitmaße  (h · min · s)',               color: '#F59E0B', icon: '⏱️', generators: [G5.unitTime] },
+      { key: 'g5_units_area', name: 'Flächenmaße  (m² · cm²)',              color: '#D97706', icon: '⬜', generators: [G5.geoRectArea, G5.squareAreaG5] },
+      { key: 'g5_units_money','name': 'Geldrechnung  (€ · Cent)',            color: '#B45309', icon: '💶', generators: [G5.unitMoney, G5.wordDiscount] },
+    ]},
+    { key: 'g5_geo', name: 'Geometrie', color: '#EAB308', icon: '📐', topics: [
+      { key: 'g5_geo_shapes', name: 'Eigenschaften ebener Figuren',          color: '#FDE047', icon: '🔷', generators: [G5.geoRectArea, G5.geoRectPerimeter, G5.triangleAreaG5] },
+      { key: 'g5_geo_coord',  name: 'Koordinatensystem',                     color: '#EAB308', icon: '🗺️', generators: [G5.coordRead] },
+      { key: 'g5_geo_nets',   name: 'Netze und Ansichten',                   color: '#CA8A04', icon: '📦', generators: [G5.geoRectArea, G5.squareAreaG5] },
+    ]},
+    { key: 'g5_angles', name: 'Winkel', color: '#6366F1', icon: '∠', topics: [
+      { key: 'g5_ang_concept', name: 'Winkel: Grundbegriffe',                color: '#818CF8', icon: '∠', generators: [G4.winkelTyp, G4.winkelKlasse] },
+      { key: 'g5_ang_types',   name: 'Winkelarten  (spitz · recht · stumpf)', color: '#6366F1', icon: '📐', generators: [G4.winkelKlasse, G4.winkelTyp] },
+      { key: 'g5_ang_measure', name: 'Winkel messen (Geodreieck)',           color: '#4F46E5', icon: '📏', generators: [G4.winkelTyp, G4.dreieckWinkel] },
+      { key: 'g5_ang_draw',    name: 'Winkel zeichnen',                      color: '#4338CA', icon: '✏️', generators: [G4.dreieckWinkel, G4.winkelTyp] },
+    ]},
+    { key: 'g5_perim', name: 'Umfang', color: '#34D399', icon: '🔲', topics: [
+      { key: 'g5_peri_shapes', name: 'Umfang von Figuren',                   color: '#6EE7B7', icon: '🔲', generators: [G5.geoRectPerimeter, G5.geoSquarePerimeter, G5.wordFence] },
+      { key: 'g5_peri_rect',   name: 'Umfang Rechteck und Quadrat',         color: '#34D399', icon: '⬜', generators: [G5.geoRectPerimeter, G5.geoSquarePerimeter] },
+      { key: 'g5_peri_comp',   name: 'Zusammengesetzte Figuren',            color: '#059669', icon: '🔷', generators: [G5.geoRectPerimeter, G5.wordFence] },
+    ]},
+    { key: 'g5_area', name: 'Flächeninhalt', color: '#FBBF24', icon: '⬛', topics: [
+      { key: 'g5_area_rect',   name: 'Flächeninhalt Rechteck',               color: '#FBBF24', icon: '⬜', generators: [G5.geoRectArea] },
+      { key: 'g5_area_square', name: 'Flächeninhalt Quadrat',                color: '#F59E0B', icon: '🟨', generators: [G5.squareAreaG5] },
+      { key: 'g5_area_tri',    name: 'Flächeninhalt Dreieck',                color: '#D97706', icon: '🔺', generators: [G5.triangleAreaG5] },
+      { key: 'g5_area_conv',   name: 'Flächenmaße umrechnen  (m² ↔ cm²)',   color: '#B45309', icon: '🔄', generators: [G5.geoRectArea, G5.squareAreaG5] },
+    ]},
+    { key: 'g5_symmetry', name: 'Spiegelung und Symmetrie', color: '#EC4899', icon: '🔄', topics: [
+      { key: 'g5_sym_axis',    name: 'Symmetrieachsen',                      color: '#F9A8D4', icon: '🔄', generators: [G4.symmetrieAchsen] },
+      { key: 'g5_sym_reflect', name: 'Figuren spiegeln',                     color: '#EC4899', icon: '🪞', generators: [G4.symmetrieAchsen] },
+    ]},
+    { key: 'g5_stats', name: 'Diagramme und Statistik', color: '#10B981', icon: '📊', topics: [
+      { key: 'g5_stat_read',  name: 'Diagramme lesen und auswerten',        color: '#6EE7B7', icon: '📊', generators: [G5.chartRead] },
+      { key: 'g5_stat_mean',  name: 'Mittelwert (Durchschnitt)',            color: '#10B981', icon: '📈', generators: [G5.calcMean, G5.mean] },
+      { key: 'g5_stat_table', name: 'Tabellen und Häufigkeiten',            color: '#059669', icon: '📋', generators: [G5.chartRead, G5.calcMean] },
     ]},
     { key: 'g5_word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', topics: [
-      { key: 'word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', generators: [G5.wordDiscount, G5.wordOps] },
-    ]},
-    { key: 'g5_data', name: 'Daten & Diagramme', color: '#06B6D4', icon: '📊', topics: [
-      { key: 'g5_barchart', name: 'Säulendiagramm lesen', color: '#22D3EE', icon: '🎮', generators: [] },
-    ]},
-    { key: 'g5_visual', name: 'Visuelle Aufgaben', color: '#EC4899', icon: '🎮', topics: [
-      { key: 'g5_masseinheiten', name: 'Maßeinheiten – visuell', color: '#F472B6', icon: '🎮', generators: [] },
-      { key: 'g5_mul_gitter', name: 'Multiplikationsgitter', color: '#FB7185', icon: '🎮', generators: [] },
-      { key: 'g5_division', name: 'Division – Aufteilen', color: '#F43F5E', icon: '🎮', generators: [] },
+      { key: 'g5_word_add',   name: 'Sachaufgaben · Addition',              color: '#FCA5A5', icon: '➕', generators: [G5.wordAdd, G5.wordFence] },
+      { key: 'g5_word_sub',   name: 'Sachaufgaben · Subtraktion',           color: '#F87171', icon: '➖', generators: [G5.wordSub] },
+      { key: 'g5_word_mul',   name: 'Sachaufgaben · Multiplikation',        color: '#EF4444', icon: '✖️', generators: [G5.wordMul] },
+      { key: 'g5_word_div',   name: 'Sachaufgaben · Division',              color: '#DC2626', icon: '➗', generators: [G5.wordDiv] },
+      { key: 'g5_word_travel',name: 'Weg-Zeit-Aufgaben',                    color: '#B91C1C', icon: '🚂', generators: [G5.wordTravel] },
+      { key: 'g5_word_time',  name: 'Zeitaufgaben',                         color: '#991B1B', icon: '⏱️', generators: [G5.unitTime, G5.wordTravel] },
+      { key: 'g5_word_money', name: 'Geldaufgaben',                         color: '#7F1D1D', icon: '💶', generators: [G5.wordDiscount, G5.unitMoney, G5.percentWord] },
     ]},
   ],
   6: [
@@ -3007,19 +3658,138 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
     ]},
   ],
   5: [
-    { key: 'g5_ops', name: 'Számok & Kifejezések', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'large', name: 'Nagy számok & Kerekítés', color: '#60A5FA', icon: '🔢', generators: [G5.largeNumbers, G5.roundHundreds] },
-      { key: 'ops', name: 'Műveleti sorrend', color: '#2563EB', icon: '🔢', generators: [G5.orderOfOps, G5.orderOfOpsB, G5.orderOfOpsC, G5.orderOfOpsD] },
+    { key: 'g5_vis_numbers', name: 'Vizuális: Számok és helyiérték', color: '#3B82F6', icon: '🖼️', topics: [
+      { key: 'g5_place_million',    name: 'Helyiértéktábla (milliók)',                color: '#60A5FA', icon: '🔢', generators: [G5.readLargeNum] },
+      { key: 'g5_number_line_vis',  name: 'Számegyenes – nagy számok',               color: '#93C5FD', icon: '📏', generators: [G5.largeNumbers] },
+      { key: 'g5_rounding_vis',     name: 'Kerekítés – vizuálisan',                  color: '#2563EB', icon: '🎯', generators: [G5.roundHundreds] },
+      { key: 'g5_nl_arith',         name: 'Számegyenes – számolás',                  color: '#1D4ED8', icon: '➕', generators: [G5.addLarge, G5.subLarge] },
     ]},
-    { key: 'g5_frac', name: 'Törtek & Százalék', color: '#8B5CF6', icon: '½', topics: [
-      { key: 'frac', name: 'Törtek összeadása & kivonása', color: '#A78BFA', icon: '½', generators: [G5.fractionAdd, G5.fractionSub] },
-      { key: 'pct', name: 'Százalékszámítás', color: '#8B5CF6', icon: '%', generators: [G5.percent10, G5.percent50, G5.percent25] },
+    { key: 'g5_vis_ops', name: 'Vizuális: Műveletek', color: '#10B981', icon: '🖼️', topics: [
+      { key: 'g5_mul_array',        name: 'Szorzótábla rács',                        color: '#6EE7B7', icon: '✖️', generators: [G5.mulTwoDigit] },
+      { key: 'g5_div_share',        name: 'Osztás – szétosztás',                     color: '#10B981', icon: '➗', generators: [G5.divLong] },
+      { key: 'g5_balance_vis',      name: 'Mérleg – egyensúly',                      color: '#059669', icon: '⚖️', generators: [G5.addLarge] },
     ]},
-    { key: 'g5_geo', name: 'Geometria', color: '#F59E0B', icon: '📐', topics: [
-      { key: 'geo', name: 'Terület & Kerület', color: '#FBBF24', icon: '📐', generators: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter] },
+    { key: 'g5_vis_frac', name: 'Vizuális: Törtek és tizedes számok', color: '#6366F1', icon: '🖼️', topics: [
+      { key: 'g5_frac_compare_vis', name: 'Törtek összehasonlítása – vizuálisan',    color: '#818CF8', icon: '½', generators: [G5.fractionAdd] },
+      { key: 'g5_frac_equiv_vis',   name: 'Egyenértékű törtek – vizuálisan',         color: '#A5B4FC', icon: '🔄', generators: [G5.fractionAdd] },
+      { key: 'g5_decimal_place_vis',name: 'Tizedes számok – helyiérték',             color: '#6366F1', icon: '🔟', generators: [G5.decimalRead] },
+      { key: 'g5_decimal_line_vis', name: 'Tizedes számok számegyenesen',            color: '#4F46E5', icon: '📏', generators: [G5.decimalRead] },
+    ]},
+    { key: 'g5_vis_geo', name: 'Vizuális: Geometria', color: '#EAB308', icon: '🖼️', topics: [
+      { key: 'g5_shape_vis',        name: 'Síkidom tulajdonságai – vizuálisan',      color: '#FDE047', icon: '🔷', generators: [G5.geoRectArea] },
+      { key: 'g5_angle_vis',        name: 'Szögtípusok – vizuálisan',               color: '#EAB308', icon: '∠', generators: [G4.winkelTyp] },
+      { key: 'g5_perim_vis',        name: 'Kerület – vizuálisan',                   color: '#CA8A04', icon: '🔲', generators: [G5.geoRectPerimeter] },
+      { key: 'g5_area_vis',         name: 'Terület – rácsos',                       color: '#A16207', icon: '⬛', generators: [G5.geoRectArea] },
+      { key: 'g5_symmetry_vis',     name: 'Tükrözés – vizuálisan',                  color: '#854D0E', icon: '🪞', generators: [G4.symmetrieAchsen] },
+    ]},
+    { key: 'g5_vis_data', name: 'Vizuális: Adatok és mértékegységek', color: '#10B981', icon: '🖼️', topics: [
+      { key: 'g5_barchart_vis',     name: 'Oszlopdiagram olvasása',                 color: '#6EE7B7', icon: '📊', generators: [G5.chartRead] },
+      { key: 'g5_unit_convert',     name: 'Mértékegységek – vizuálisan',            color: '#10B981', icon: '📏', generators: [G5.unitLength] },
+    ]},
+    { key: 'g5_zahlen', name: 'Számok és számrendszer', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'g5_z_million',  name: 'Természetes számok millióig',                color: '#60A5FA', icon: '🔢', generators: [G5.largeNumbers, G5.readLargeNum, G5.compareNums] },
+      { key: 'g5_z_read',    name: 'Számok olvasása és írása',                    color: '#93C5FD', icon: '📝', generators: [G5.readLargeNum] },
+      { key: 'g5_z_compare', name: 'Összehasonlítás  (< · > · =)',                color: '#2563EB', icon: '⚖️', generators: [G5.compareNums] },
+      { key: 'g5_z_order',   name: 'Rendezés',                                    color: '#1D4ED8', icon: '📊', generators: [G5.compareNums, G5.readLargeNum] },
+      { key: 'g5_z_place',   name: 'Helyiérték',                                  color: '#3B82F6', icon: '🧱', generators: [G5.readLargeNum, G5.compareNums] },
+      { key: 'g5_z_expand',  name: 'Felbontás helyiértékek szerint',              color: '#60A5FA', icon: '🧩', generators: [G5.readLargeNum, G5.addLarge] },
+      { key: 'g5_z_line',    name: 'Számegyenes',                                 color: '#93C5FD', icon: '📏', generators: [G5.readLargeNum, G5.compareNums] },
+      { key: 'g5_z_neighbor','name': 'Szomszédos számok',                         color: '#BFDBFE', icon: '↔️', generators: [G5.readLargeNum] },
+    ]},
+    { key: 'g5_round', name: 'Kerekítés és becslés', color: '#06B6D4', icon: '🎯', topics: [
+      { key: 'g5_rnd_10',    name: 'Kerekítés tízesre',                           color: '#22D3EE', icon: '🎯', generators: [G5.roundHundreds, G5.decimalRound] },
+      { key: 'g5_rnd_100',   name: 'Kerekítés százasra',                          color: '#06B6D4', icon: '🎯', generators: [G5.roundHundreds, G5.decimalRound] },
+      { key: 'g5_rnd_1000',  name: 'Kerekítés ezresre',                           color: '#0891B2', icon: '🎯', generators: [G5.roundHundreds] },
+      { key: 'g5_rnd_large', name: 'Kerekítés nagyobb helyiértékre (10 000, 100 000)', color: '#0E7490', icon: '🎯', generators: [G5.roundHundreds] },
+      { key: 'g5_rnd_est',   name: 'Becslés',                                     color: '#155E75', icon: '🤔', generators: [G5.roundHundreds, G5.compareNums] },
+    ]},
+    { key: 'g5_add', name: 'Összeadás', color: '#EF4444', icon: '➕', topics: [
+      { key: 'g5_add_mental', name: 'Fejben összeadás',                           color: '#FCA5A5', icon: '🧠', generators: [G5.addLarge, G5.addComplement100k] },
+      { key: 'g5_add_written','name': 'Írásbeli összeadás',                       color: '#EF4444', icon: '➕', generators: [G5.addLarge] },
+      { key: 'g5_add_check',  name: 'Ellenőrzés (próba)',                         color: '#DC2626', icon: '✅', generators: [G5.addLarge, G5.subLarge] },
+      { key: 'g5_add_word',   name: 'Szöveges feladat (összeadás)',               color: '#B91C1C', icon: '📖', generators: [G5.wordAdd] },
+    ]},
+    { key: 'g5_sub', name: 'Kivonás', color: '#F97316', icon: '➖', topics: [
+      { key: 'g5_sub_mental', name: 'Fejben kivonás',                             color: '#FDBA74', icon: '🧠', generators: [G5.subLarge] },
+      { key: 'g5_sub_written','name': 'Írásbeli kivonás',                         color: '#F97316', icon: '➖', generators: [G5.subLarge] },
+      { key: 'g5_sub_check',  name: 'Ellenőrzés (próba)',                         color: '#EA580C', icon: '✅', generators: [G5.subLarge, G5.addLarge] },
+      { key: 'g5_sub_word',   name: 'Szöveges feladat (kivonás)',                 color: '#C2410C', icon: '📖', generators: [G5.wordSub] },
+    ]},
+    { key: 'g5_mul', name: 'Szorzás', color: '#10B981', icon: '✖️', topics: [
+      { key: 'g5_mul_mental', name: 'Fejbeli szorzás',                            color: '#6EE7B7', icon: '🧠', generators: [G5.mulTwoDigit, G5.mulPow10] },
+      { key: 'g5_mul_written','name': 'Írásbeli szorzás (többjegyű)',              color: '#10B981', icon: '✖️', generators: [G5.mulTwoDigit, G5.mulThreeOne] },
+      { key: 'g5_mul_round',  name: 'Kerek számok szorzása  (20 × 30)',           color: '#059669', icon: '🔄', generators: [G5.mulPow10] },
+      { key: 'g5_mul_pow10',  name: '×10, ×100, ×1000',                           color: '#047857', icon: '🔟', generators: [G5.mulPow10] },
+      { key: 'g5_mul_word',   name: 'Szöveges feladat (szorzás)',                 color: '#065F46', icon: '📖', generators: [G5.wordMul] },
+    ]},
+    { key: 'g5_div', name: 'Osztás', color: '#8B5CF6', icon: '➗', topics: [
+      { key: 'g5_div_mental', name: 'Fejbeli osztás',                             color: '#C4B5FD', icon: '🧠', generators: [G5.divLong, G5.divPow10] },
+      { key: 'g5_div_rem',    name: 'Maradékos osztás',                           color: '#A78BFA', icon: '➗', generators: [G5.divRemainder] },
+      { key: 'g5_div_written','name': 'Írásbeli osztás',                          color: '#8B5CF6', icon: '📝', generators: [G5.divLong] },
+      { key: 'g5_div_pow10',  name: '÷10, ÷100',                                 color: '#7C3AED', icon: '🔟', generators: [G5.divPow10] },
+      { key: 'g5_div_word',   name: 'Szöveges feladat (osztás)',                  color: '#6D28D9', icon: '📖', generators: [G5.wordDiv] },
+    ]},
+    { key: 'g5_frac', name: 'Törtek', color: '#6366F1', icon: '½', topics: [
+      { key: 'g5_frac_concept', name: 'Számlál és nevező',                        color: '#818CF8', icon: '½', generators: [G5.fractionAdd, G5.mixedNumber] },
+      { key: 'g5_frac_visual',  name: 'Törtek ábrázolása',                        color: '#A5B4FC', icon: '🍕', generators: [G5.fractionAdd, G5.mixedNumber] },
+      { key: 'g5_frac_compare', name: 'Törtek összehasonlítása',                  color: '#6366F1', icon: '⚖️', generators: [G5.fractionAdd, G5.fractionSub] },
+      { key: 'g5_frac_simplify','name': 'Egyszerűsítés',                          color: '#4F46E5', icon: '✂️', generators: [G5.gcd] },
+      { key: 'g5_frac_equiv',   name: 'Egyenlő törtek  (2/4 = 1/2)',              color: '#4338CA', icon: '🔄', generators: [G5.fractionAdd, G5.mixedNumber] },
+      { key: 'g5_frac_addsub',  name: 'Törtek összeadása és kivonása',            color: '#3730A3', icon: '➕', generators: [G5.fractionAdd, G5.fractionSub, G5.fractionDiff] },
+    ]},
+    { key: 'g5_decimal', name: 'Tizedes számok', color: '#14B8A6', icon: '🔟', topics: [
+      { key: 'g5_dec_concept', name: 'Tizedes számok fogalma, olvasása, írása',   color: '#5EEAD4', icon: '📝', generators: [G5.decimalRead] },
+      { key: 'g5_dec_compare', name: 'Tizedes számok összehasonlítása',           color: '#14B8A6', icon: '⚖️', generators: [G5.decimalCompare] },
+      { key: 'g5_dec_line',    name: 'Tizedes számok a számegyenesen',            color: '#0D9488', icon: '📏', generators: [G5.decimalRead, G5.decimalCompare] },
+      { key: 'g5_dec_add',     name: 'Tizedes számok összeadása',                 color: '#0F766E', icon: '➕', generators: [G5.decimalAdd] },
+      { key: 'g5_dec_sub',     name: 'Tizedes számok kivonása',                   color: '#115E59', icon: '➖', generators: [G5.decimalSub] },
+    ]},
+    { key: 'g5_units', name: 'Mértékegységek', color: '#F59E0B', icon: '📏', topics: [
+      { key: 'g5_units_len',  name: 'Hossz  (km · m · cm · mm)',                 color: '#FCD34D', icon: '📏', generators: [G5.unitLength] },
+      { key: 'g5_units_mass', name: 'Súly/Tömeg  (t · kg · g)',                  color: '#FBBF24', icon: '⚖️', generators: [G5.unitMass] },
+      { key: 'g5_units_time', name: 'Idő  (év · hónap · hét · nap · h · perc · s)', color: '#F59E0B', icon: '⏱️', generators: [G5.unitTime] },
+      { key: 'g5_units_area', name: 'Terület  (m² · cm²)',                       color: '#D97706', icon: '⬜', generators: [G5.geoRectArea, G5.squareAreaG5] },
+      { key: 'g5_units_money','name': 'Pénz  (Ft · fillér  /  € · cent)',        color: '#B45309', icon: '💶', generators: [G5.unitMoney, G5.wordAdd] },
+    ]},
+    { key: 'g5_geo', name: 'Geometria', color: '#EAB308', icon: '📐', topics: [
+      { key: 'g5_geo_shapes', name: 'Síkidomok tulajdonságai',                    color: '#FDE047', icon: '🔷', generators: [G5.triangleAreaG5, G5.squareAreaG5] },
+      { key: 'g5_geo_coord',  name: 'Koordináta-rendszer',                        color: '#EAB308', icon: '🗺️', generators: [G5.coordRead] },
+      { key: 'g5_geo_nets',   name: 'Hálók és nézetek',                           color: '#CA8A04', icon: '📦', generators: [G5.geoRectArea, G5.squareAreaG5] },
+    ]},
+    { key: 'g5_angles', name: 'Szögek', color: '#6366F1', icon: '∠', topics: [
+      { key: 'g5_ang_concept', name: 'Szög fogalma',                              color: '#818CF8', icon: '∠', generators: [G4.winkelTyp] },
+      { key: 'g5_ang_types',   name: 'Szögtípusok  (hegyesszög · derékszög · tompaszög)', color: '#6366F1', icon: '📐', generators: [G4.winkelKlasse] },
+      { key: 'g5_ang_measure', name: 'Szögek mérése',                             color: '#4F46E5', icon: '📏', generators: [G4.winkelTyp] },
+      { key: 'g5_ang_draw',    name: 'Szögek szerkesztése',                       color: '#4338CA', icon: '✏️', generators: [G4.dreieckWinkel] },
+    ]},
+    { key: 'g5_perim', name: 'Kerület', color: '#34D399', icon: '🔲', topics: [
+      { key: 'g5_peri_shapes', name: 'Síkidomok kerülete',                        color: '#6EE7B7', icon: '🔲', generators: [G5.geoRectPerimeter, G5.geoSquarePerimeter] },
+      { key: 'g5_peri_rect',   name: 'Téglalap és négyzet kerülete',             color: '#34D399', icon: '⬜', generators: [G5.geoRectPerimeter] },
+      { key: 'g5_peri_comp',   name: 'Összetett alakzatok kerülete',             color: '#059669', icon: '🔷', generators: [G5.geoRectPerimeter, G5.geoSquarePerimeter] },
+    ]},
+    { key: 'g5_area', name: 'Terület', color: '#FBBF24', icon: '⬛', topics: [
+      { key: 'g5_area_sqcm',  name: 'Négyzetcentiméter  (cm²)',                  color: '#FDE68A', icon: '⬛', generators: [G5.geoRectArea] },
+      { key: 'g5_area_rect',  name: 'Téglalap területe',                         color: '#FBBF24', icon: '⬜', generators: [G5.geoRectArea] },
+      { key: 'g5_area_square','name': 'Négyzet területe',                        color: '#F59E0B', icon: '🟨', generators: [G5.squareAreaG5] },
+      { key: 'g5_area_conv',  name: 'Területmértékek váltása  (m² ↔ cm²)',       color: '#D97706', icon: '🔄', generators: [G5.unitLength, G5.geoRectArea] },
+    ]},
+    { key: 'g5_symmetry', name: 'Tükrözés és szimmetria', color: '#EC4899', icon: '🔄', topics: [
+      { key: 'g5_sym_axis',    name: 'Szimmetriatengely',                         color: '#F9A8D4', icon: '🔄', generators: [G4.symmetrieAchsen] },
+      { key: 'g5_sym_reflect', name: 'Tükrözés',                                  color: '#EC4899', icon: '🪞', generators: [G4.symmetrieAchsen] },
+    ]},
+    { key: 'g5_stats', name: 'Diagramok és statisztika', color: '#10B981', icon: '📊', topics: [
+      { key: 'g5_stat_read',  name: 'Diagramok olvasása és értelmezése',         color: '#6EE7B7', icon: '📊', generators: [G5.chartRead, G5.calcMean] },
+      { key: 'g5_stat_mean',  name: 'Átlag (középérték)',                         color: '#10B981', icon: '📈', generators: [G5.calcMean] },
+      { key: 'g5_stat_table', name: 'Táblázatok és gyakoriság',                  color: '#059669', icon: '📋', generators: [G5.chartRead, G5.mean] },
     ]},
     { key: 'g5_word', name: 'Szöveges feladatok', color: '#EF4444', icon: '📖', topics: [
-      { key: 'word', name: 'Szöveges feladatok', color: '#EF4444', icon: '📖', generators: [G5.wordDiscount, G5.wordOps] },
+      { key: 'g5_word_add',   name: 'Szöveges feladatok · összeadás',            color: '#FCA5A5', icon: '➕', generators: [G5.wordAdd] },
+      { key: 'g5_word_sub',   name: 'Szöveges feladatok · kivonás',              color: '#F87171', icon: '➖', generators: [G5.wordSub] },
+      { key: 'g5_word_mul',   name: 'Szöveges feladatok · szorzás',              color: '#EF4444', icon: '✖️', generators: [G5.wordMul] },
+      { key: 'g5_word_div',   name: 'Szöveges feladatok · osztás',               color: '#DC2626', icon: '➗', generators: [G5.wordDiv] },
+      { key: 'g5_word_multi', name: 'Többlépéses feladatok',                     color: '#B91C1C', icon: '🔗', generators: [G5.wordFence, G5.wordTravel, G5.wordMul, G5.wordDiv] },
+      { key: 'g5_word_time',  name: 'Időszámítás',                               color: '#991B1B', icon: '⏱️', generators: [G5.wordTravel, G5.unitTime] },
+      { key: 'g5_word_money', name: 'Pénzszámítás',                              color: '#7F1D1D', icon: '💶', generators: [G5.wordAdd, G5.wordSub, G5.unitMoney] },
     ]},
   ],
   6: [
@@ -3284,19 +4054,138 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
     ]},
   ],
   5: [
-    { key: 'g5_ops', name: 'Numere & Expresii', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'large', name: 'Numere mari & Rotunjire', color: '#60A5FA', icon: '🔢', generators: [G5.largeNumbers, G5.roundHundreds] },
-      { key: 'ops', name: 'Ordinea operațiilor', color: '#2563EB', icon: '🔢', generators: [G5.orderOfOps, G5.orderOfOpsB, G5.orderOfOpsC, G5.orderOfOpsD] },
+    { key: 'g5_vis_numbers', name: 'Vizual: Numere și valoare pozițională', color: '#3B82F6', icon: '🖼️', topics: [
+      { key: 'g5_place_million',    name: 'Tabel valoare pozițională (milioane)',    color: '#60A5FA', icon: '🔢', generators: [G5.readLargeNum] },
+      { key: 'g5_number_line_vis',  name: 'Axă numerică – numere mari',             color: '#93C5FD', icon: '📏', generators: [G5.largeNumbers] },
+      { key: 'g5_rounding_vis',     name: 'Rotunjire – vizual',                     color: '#2563EB', icon: '🎯', generators: [G5.roundHundreds] },
+      { key: 'g5_nl_arith',         name: 'Axă numerică – calcul',                  color: '#1D4ED8', icon: '➕', generators: [G5.addLarge, G5.subLarge] },
     ]},
-    { key: 'g5_frac', name: 'Fracții & Procente', color: '#8B5CF6', icon: '½', topics: [
-      { key: 'frac', name: 'Adunare & scădere fracții', color: '#A78BFA', icon: '½', generators: [G5.fractionAdd, G5.fractionSub] },
-      { key: 'pct', name: 'Calcul procentual', color: '#8B5CF6', icon: '%', generators: [G5.percent10, G5.percent50, G5.percent25] },
+    { key: 'g5_vis_ops', name: 'Vizual: Operații', color: '#10B981', icon: '🖼️', topics: [
+      { key: 'g5_mul_array',        name: 'Rețea de înmulțire',                     color: '#6EE7B7', icon: '✖️', generators: [G5.mulTwoDigit] },
+      { key: 'g5_div_share',        name: 'Împărțire – distribuire',                color: '#10B981', icon: '➗', generators: [G5.divLong] },
+      { key: 'g5_balance_vis',      name: 'Balanță – echilibru',                    color: '#059669', icon: '⚖️', generators: [G5.addLarge] },
     ]},
-    { key: 'g5_geo', name: 'Geometrie', color: '#F59E0B', icon: '📐', topics: [
-      { key: 'geo', name: 'Arie & Perimetru', color: '#FBBF24', icon: '📐', generators: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter] },
+    { key: 'g5_vis_frac', name: 'Vizual: Fracții și zecimale', color: '#6366F1', icon: '🖼️', topics: [
+      { key: 'g5_frac_compare_vis', name: 'Compararea fracțiilor – vizual',         color: '#818CF8', icon: '½', generators: [G5.fractionAdd] },
+      { key: 'g5_frac_equiv_vis',   name: 'Fracții echivalente – vizual',           color: '#A5B4FC', icon: '🔄', generators: [G5.fractionAdd] },
+      { key: 'g5_decimal_place_vis',name: 'Zecimale – valoare pozițională',         color: '#6366F1', icon: '🔟', generators: [G5.decimalRead] },
+      { key: 'g5_decimal_line_vis', name: 'Zecimale pe axa numerică',               color: '#4F46E5', icon: '📏', generators: [G5.decimalRead] },
+    ]},
+    { key: 'g5_vis_geo', name: 'Vizual: Geometrie', color: '#EAB308', icon: '🖼️', topics: [
+      { key: 'g5_shape_vis',        name: 'Proprietăți figuri – vizual',            color: '#FDE047', icon: '🔷', generators: [G5.geoRectArea] },
+      { key: 'g5_angle_vis',        name: 'Tipuri de unghiuri – vizual',            color: '#EAB308', icon: '∠', generators: [G4.winkelTyp] },
+      { key: 'g5_perim_vis',        name: 'Perimetru – vizual',                     color: '#CA8A04', icon: '🔲', generators: [G5.geoRectPerimeter] },
+      { key: 'g5_area_vis',         name: 'Arie – pe grilă',                        color: '#A16207', icon: '⬛', generators: [G5.geoRectArea] },
+      { key: 'g5_symmetry_vis',     name: 'Simetrie – vizual',                      color: '#854D0E', icon: '🪞', generators: [G4.symmetrieAchsen] },
+    ]},
+    { key: 'g5_vis_data', name: 'Vizual: Date și unități de măsură', color: '#10B981', icon: '🖼️', topics: [
+      { key: 'g5_barchart_vis',     name: 'Citirea diagramelor cu bare',            color: '#6EE7B7', icon: '📊', generators: [G5.chartRead] },
+      { key: 'g5_unit_convert',     name: 'Unități de măsură – vizual',             color: '#10B981', icon: '📏', generators: [G5.unitLength] },
+    ]},
+    { key: 'g5_zahlen', name: 'Numere și sistemul numeric', color: '#3B82F6', icon: '🔢', topics: [
+      { key: 'g5_z_million',  name: 'Numere naturale până la 1 000 000',           color: '#60A5FA', icon: '🔢', generators: [G5.largeNumbers, G5.readLargeNum, G5.compareNums] },
+      { key: 'g5_z_read',    name: 'Citirea și scrierea numerelor',                color: '#93C5FD', icon: '📝', generators: [G5.readLargeNum] },
+      { key: 'g5_z_compare', name: 'Compararea numerelor  (< · > · =)',            color: '#2563EB', icon: '⚖️', generators: [G5.compareNums] },
+      { key: 'g5_z_order',   name: 'Ordonarea numerelor',                          color: '#1D4ED8', icon: '📊', generators: [G5.compareNums, G5.readLargeNum] },
+      { key: 'g5_z_place',   name: 'Valoarea pozițională',                         color: '#3B82F6', icon: '🧱', generators: [G5.readLargeNum, G5.compareNums] },
+      { key: 'g5_z_expand',  name: 'Descompunerea numerelor',                      color: '#60A5FA', icon: '🧩', generators: [G5.readLargeNum, G5.addLarge] },
+      { key: 'g5_z_line',    name: 'Axa numerelor',                               color: '#93C5FD', icon: '📏', generators: [G5.readLargeNum, G5.compareNums] },
+      { key: 'g5_z_neighbor','name': 'Vecinii unui număr',                         color: '#BFDBFE', icon: '↔️', generators: [G5.readLargeNum] },
+    ]},
+    { key: 'g5_round', name: 'Rotunjire și estimare', color: '#06B6D4', icon: '🎯', topics: [
+      { key: 'g5_rnd_10',    name: 'Rotunjire la zeci',                            color: '#22D3EE', icon: '🎯', generators: [G5.roundHundreds, G5.decimalRound] },
+      { key: 'g5_rnd_100',   name: 'Rotunjire la sute',                            color: '#06B6D4', icon: '🎯', generators: [G5.roundHundreds, G5.decimalRound] },
+      { key: 'g5_rnd_1000',  name: 'Rotunjire la mii',                             color: '#0891B2', icon: '🎯', generators: [G5.roundHundreds] },
+      { key: 'g5_rnd_large', name: 'Rotunjire la ordine superioare (10 000, 100 000)', color: '#0E7490', icon: '🎯', generators: [G5.roundHundreds] },
+      { key: 'g5_rnd_est',   name: 'Estimare',                                     color: '#155E75', icon: '🤔', generators: [G5.roundHundreds, G5.compareNums] },
+    ]},
+    { key: 'g5_add', name: 'Adunare', color: '#EF4444', icon: '➕', topics: [
+      { key: 'g5_add_mental', name: 'Calcul mintal (adunare)',                     color: '#FCA5A5', icon: '🧠', generators: [G5.addLarge, G5.addComplement100k] },
+      { key: 'g5_add_written','name': 'Adunare scrisă',                            color: '#EF4444', icon: '➕', generators: [G5.addLarge] },
+      { key: 'g5_add_check',  name: 'Verificare (probă)',                          color: '#DC2626', icon: '✅', generators: [G5.addLarge, G5.subLarge] },
+      { key: 'g5_add_word',   name: 'Problemă (adunare)',                          color: '#B91C1C', icon: '📖', generators: [G5.wordAdd] },
+    ]},
+    { key: 'g5_sub', name: 'Scădere', color: '#F97316', icon: '➖', topics: [
+      { key: 'g5_sub_mental', name: 'Calcul mintal (scădere)',                     color: '#FDBA74', icon: '🧠', generators: [G5.subLarge] },
+      { key: 'g5_sub_written','name': 'Scădere scrisă',                            color: '#F97316', icon: '➖', generators: [G5.subLarge] },
+      { key: 'g5_sub_check',  name: 'Verificare (probă)',                          color: '#EA580C', icon: '✅', generators: [G5.subLarge, G5.addLarge] },
+      { key: 'g5_sub_word',   name: 'Problemă (scădere)',                          color: '#C2410C', icon: '📖', generators: [G5.wordSub] },
+    ]},
+    { key: 'g5_mul', name: 'Înmulțire', color: '#10B981', icon: '✖️', topics: [
+      { key: 'g5_mul_mental', name: 'Calcul mintal (înmulțire)',                   color: '#6EE7B7', icon: '🧠', generators: [G5.mulTwoDigit, G5.mulPow10] },
+      { key: 'g5_mul_written','name': 'Înmulțire scrisă (mai multe cifre)',         color: '#10B981', icon: '✖️', generators: [G5.mulTwoDigit, G5.mulThreeOne] },
+      { key: 'g5_mul_round',  name: 'Înmulțirea numerelor rotunde  (20 × 30)',     color: '#059669', icon: '🔄', generators: [G5.mulPow10] },
+      { key: 'g5_mul_pow10',  name: '×10, ×100, ×1000',                            color: '#047857', icon: '🔟', generators: [G5.mulPow10] },
+      { key: 'g5_mul_word',   name: 'Problemă (înmulțire)',                        color: '#065F46', icon: '📖', generators: [G5.wordMul] },
+    ]},
+    { key: 'g5_div', name: 'Împărțire', color: '#8B5CF6', icon: '➗', topics: [
+      { key: 'g5_div_mental', name: 'Calcul mintal (împărțire)',                   color: '#C4B5FD', icon: '🧠', generators: [G5.divLong, G5.divPow10] },
+      { key: 'g5_div_rem',    name: 'Împărțire cu rest',                           color: '#A78BFA', icon: '➗', generators: [G5.divRemainder] },
+      { key: 'g5_div_written','name': 'Împărțire scrisă',                          color: '#8B5CF6', icon: '📝', generators: [G5.divLong] },
+      { key: 'g5_div_pow10',  name: '÷10, ÷100',                                  color: '#7C3AED', icon: '🔟', generators: [G5.divPow10] },
+      { key: 'g5_div_word',   name: 'Problemă (împărțire)',                        color: '#6D28D9', icon: '📖', generators: [G5.wordDiv] },
+    ]},
+    { key: 'g5_frac', name: 'Fracții', color: '#6366F1', icon: '½', topics: [
+      { key: 'g5_frac_concept', name: 'Numărător și numitor',                      color: '#818CF8', icon: '½', generators: [G5.fractionAdd, G5.mixedNumber] },
+      { key: 'g5_frac_visual',  name: 'Reprezentarea fracțiilor',                  color: '#A5B4FC', icon: '🍕', generators: [G5.fractionAdd, G5.mixedNumber] },
+      { key: 'g5_frac_compare', name: 'Compararea fracțiilor',                     color: '#6366F1', icon: '⚖️', generators: [G5.fractionAdd, G5.fractionSub] },
+      { key: 'g5_frac_simplify','name': 'Simplificarea fracțiilor',                color: '#4F46E5', icon: '✂️', generators: [G5.gcd] },
+      { key: 'g5_frac_equiv',   name: 'Fracții echivalente  (2/4 = 1/2)',          color: '#4338CA', icon: '🔄', generators: [G5.fractionAdd, G5.mixedNumber] },
+      { key: 'g5_frac_addsub',  name: 'Adunare și scădere fracții',               color: '#3730A3', icon: '➕', generators: [G5.fractionAdd, G5.fractionSub, G5.fractionDiff] },
+    ]},
+    { key: 'g5_decimal', name: 'Numere zecimale', color: '#14B8A6', icon: '🔟', topics: [
+      { key: 'g5_dec_concept', name: 'Citirea și scrierea zecimalelor',            color: '#5EEAD4', icon: '📝', generators: [G5.decimalRead] },
+      { key: 'g5_dec_compare', name: 'Compararea zecimalelor',                     color: '#14B8A6', icon: '⚖️', generators: [G5.decimalCompare] },
+      { key: 'g5_dec_line',    name: 'Zecimale pe axa numerelor',                 color: '#0D9488', icon: '📏', generators: [G5.decimalRead, G5.decimalCompare] },
+      { key: 'g5_dec_add',     name: 'Adunare zecimale',                           color: '#0F766E', icon: '➕', generators: [G5.decimalAdd] },
+      { key: 'g5_dec_sub',     name: 'Scădere zecimale',                           color: '#115E59', icon: '➖', generators: [G5.decimalSub] },
+    ]},
+    { key: 'g5_units', name: 'Unități de măsură', color: '#F59E0B', icon: '📏', topics: [
+      { key: 'g5_units_len',  name: 'Lungime  (km · m · cm · mm)',                color: '#FCD34D', icon: '📏', generators: [G5.unitLength] },
+      { key: 'g5_units_mass', name: 'Greutate/Masă  (t · kg · g)',                color: '#FBBF24', icon: '⚖️', generators: [G5.unitMass] },
+      { key: 'g5_units_time', name: 'Timp  (an · lună · săpt. · zi · h · min · s)', color: '#F59E0B', icon: '⏱️', generators: [G5.unitTime] },
+      { key: 'g5_units_area', name: 'Arii  (m² · cm²)',                           color: '#D97706', icon: '⬜', generators: [G5.geoRectArea, G5.squareAreaG5] },
+      { key: 'g5_units_money','name': 'Bani  (lei · bani  /  € · cenți)',         color: '#B45309', icon: '💶', generators: [G5.unitMoney, G5.wordAdd] },
+    ]},
+    { key: 'g5_geo', name: 'Geometrie', color: '#EAB308', icon: '📐', topics: [
+      { key: 'g5_geo_shapes', name: 'Proprietățile figurilor plane',               color: '#FDE047', icon: '🔷', generators: [G5.triangleAreaG5, G5.squareAreaG5] },
+      { key: 'g5_geo_coord',  name: 'Sistemul de coordonate',                      color: '#EAB308', icon: '🗺️', generators: [G5.coordRead] },
+      { key: 'g5_geo_nets',   name: 'Rețele și vedere',                           color: '#CA8A04', icon: '📦', generators: [G5.geoRectArea, G5.squareAreaG5] },
+    ]},
+    { key: 'g5_angles', name: 'Unghiuri', color: '#6366F1', icon: '∠', topics: [
+      { key: 'g5_ang_concept', name: 'Noțiunea de unghi',                          color: '#818CF8', icon: '∠', generators: [G4.winkelTyp] },
+      { key: 'g5_ang_types',   name: 'Tipuri de unghiuri  (ascuțit · drept · obtuz)', color: '#6366F1', icon: '📐', generators: [G4.winkelKlasse] },
+      { key: 'g5_ang_measure', name: 'Măsurarea unghiurilor',                      color: '#4F46E5', icon: '📏', generators: [G4.winkelTyp] },
+      { key: 'g5_ang_draw',    name: 'Desenarea unghiurilor',                      color: '#4338CA', icon: '✏️', generators: [G4.dreieckWinkel] },
+    ]},
+    { key: 'g5_perim', name: 'Perimetru', color: '#34D399', icon: '🔲', topics: [
+      { key: 'g5_peri_shapes', name: 'Perimetrul figurilor',                       color: '#6EE7B7', icon: '🔲', generators: [G5.geoRectPerimeter, G5.geoSquarePerimeter] },
+      { key: 'g5_peri_rect',   name: 'Perimetrul dreptunghiului și pătratului',   color: '#34D399', icon: '⬜', generators: [G5.geoRectPerimeter] },
+      { key: 'g5_peri_comp',   name: 'Figuri compuse',                            color: '#059669', icon: '🔷', generators: [G5.geoRectPerimeter, G5.geoSquarePerimeter] },
+    ]},
+    { key: 'g5_area', name: 'Arie', color: '#FBBF24', icon: '⬛', topics: [
+      { key: 'g5_area_sqcm',  name: 'Centimetru pătrat  (cm²)',                   color: '#FDE68A', icon: '⬛', generators: [G5.geoRectArea] },
+      { key: 'g5_area_rect',  name: 'Aria dreptunghiului',                        color: '#FBBF24', icon: '⬜', generators: [G5.geoRectArea] },
+      { key: 'g5_area_square','name': 'Aria pătratului',                          color: '#F59E0B', icon: '🟨', generators: [G5.squareAreaG5] },
+      { key: 'g5_area_conv',  name: 'Conversii arii  (m² ↔ cm²)',                 color: '#D97706', icon: '🔄', generators: [G5.unitLength, G5.geoRectArea] },
+    ]},
+    { key: 'g5_symmetry', name: 'Reflexie și simetrie', color: '#EC4899', icon: '🔄', topics: [
+      { key: 'g5_sym_axis',    name: 'Axe de simetrie',                            color: '#F9A8D4', icon: '🔄', generators: [G4.symmetrieAchsen] },
+      { key: 'g5_sym_reflect', name: 'Reflexia figurilor',                         color: '#EC4899', icon: '🪞', generators: [G4.symmetrieAchsen] },
+    ]},
+    { key: 'g5_stats', name: 'Diagrame și statistică', color: '#10B981', icon: '📊', topics: [
+      { key: 'g5_stat_read',  name: 'Citirea și interpretarea diagramelor',        color: '#6EE7B7', icon: '📊', generators: [G5.chartRead, G5.calcMean] },
+      { key: 'g5_stat_mean',  name: 'Medie (valoare medie)',                       color: '#10B981', icon: '📈', generators: [G5.calcMean] },
+      { key: 'g5_stat_table', name: 'Tabele și frecvențe',                         color: '#059669', icon: '📋', generators: [G5.chartRead, G5.mean] },
     ]},
     { key: 'g5_word', name: 'Probleme', color: '#EF4444', icon: '📖', topics: [
-      { key: 'word', name: 'Probleme', color: '#EF4444', icon: '📖', generators: [G5.wordDiscount, G5.wordOps] },
+      { key: 'g5_word_add',   name: 'Probleme · adunare',                         color: '#FCA5A5', icon: '➕', generators: [G5.wordAdd] },
+      { key: 'g5_word_sub',   name: 'Probleme · scădere',                         color: '#F87171', icon: '➖', generators: [G5.wordSub] },
+      { key: 'g5_word_mul',   name: 'Probleme · înmulțire',                       color: '#EF4444', icon: '✖️', generators: [G5.wordMul] },
+      { key: 'g5_word_div',   name: 'Probleme · împărțire',                       color: '#DC2626', icon: '➗', generators: [G5.wordDiv] },
+      { key: 'g5_word_multi', name: 'Probleme cu mai mulți pași',                 color: '#B91C1C', icon: '🔗', generators: [G5.wordFence, G5.wordTravel, G5.wordMul, G5.wordDiv] },
+      { key: 'g5_word_time',  name: 'Probleme cu timp',                           color: '#991B1B', icon: '⏱️', generators: [G5.wordTravel, G5.unitTime] },
+      { key: 'g5_word_money', name: 'Probleme cu bani',                           color: '#7F1D1D', icon: '💶', generators: [G5.wordAdd, G5.wordSub, G5.unitMoney] },
     ]},
   ],
   6: [

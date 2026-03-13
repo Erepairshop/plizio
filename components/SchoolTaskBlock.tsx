@@ -27,6 +27,27 @@ import {
 // Lazy imports for Phase 2-4 visual components
 import dynamic from 'next/dynamic';
 const PlaceValueGrid = dynamic(() => import('./grade4-visual/PlaceValueGrid'), { ssr: false });
+
+// Grade 5 visual components
+const PlaceValueTableMillion = dynamic(() => import('./grade5-visual/PlaceValueTableMillion'), { ssr: false });
+const NumberLinePlace = dynamic(() => import('./grade5-visual/NumberLinePlace'), { ssr: false });
+const LargeNumberRounding = dynamic(() => import('./grade5-visual/LargeNumberRounding'), { ssr: false });
+const MultiplicationArray = dynamic(() => import('./grade5-visual/MultiplicationArray'), { ssr: false });
+const DivisionShare = dynamic(() => import('./grade5-visual/DivisionShare'), { ssr: false });
+const FractionCompare = dynamic(() => import('./grade5-visual/FractionCompare'), { ssr: false });
+const FractionEquivalent = dynamic(() => import('./grade5-visual/FractionEquivalent'), { ssr: false });
+const DecimalPlaceValue = dynamic(() => import('./grade5-visual/DecimalPlaceValue'), { ssr: false });
+const DecimalNumberLine = dynamic(() => import('./grade5-visual/DecimalNumberLine'), { ssr: false });
+const BalanceScale = dynamic(() => import('./grade5-visual/BalanceScale'), { ssr: false });
+const ShapeProperties = dynamic(() => import('./grade5-visual/ShapeProperties'), { ssr: false });
+const AngleClassify = dynamic(() => import('./grade5-visual/AngleClassify'), { ssr: false });
+const PerimeterCalc = dynamic(() => import('./grade5-visual/PerimeterCalc'), { ssr: false });
+const AreaGrid = dynamic(() => import('./grade5-visual/AreaGrid'), { ssr: false });
+const BarChartRead = dynamic(() => import('./grade5-visual/BarChartRead'), { ssr: false });
+const SymmetryGrid = dynamic(() => import('./grade5-visual/SymmetryGrid'), { ssr: false });
+const UnitConverter = dynamic(() => import('./grade5-visual/UnitConverter'), { ssr: false });
+const NumberLineArith = dynamic(() => import('./grade5-visual/NumberLineArith'), { ssr: false });
+const WordProblemVisual = dynamic(() => import('./grade5-visual/WordProblemVisual'), { ssr: false });
 const FractionPizzaAdder = dynamic(() => import('./grade4-visual/FractionPizzaAdder'), { ssr: false });
 const SymmetryMirror = dynamic(() => import('./grade4-visual/SymmetryMirror'), { ssr: false });
 const SequenceBuilder = dynamic(() => import('./grade4-visual/SequenceBuilder'), { ssr: false });
@@ -151,6 +172,45 @@ export default function SchoolTaskBlock({
         return <CircleDrawer targetRadius={p.radius} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       case 'money':
         return <MoneyCalculator items={p.items} budget={p.budget} mode={p.mode} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      // Grade 5 visual components
+      case 'g5-place-million':
+        return <PlaceValueTableMillion number={p.number} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-number-line':
+        return <NumberLinePlace rangeStart={p.rangeStart} rangeEnd={p.rangeEnd} target={p.target} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-rounding-large':
+        return <LargeNumberRounding target={p.target} step={p.step} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-mul-array':
+        return <MultiplicationArray rows={p.rows} cols={p.cols} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-division-share':
+        return <DivisionShare total={p.total} groups={p.groups} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-frac-compare':
+        return <FractionCompare fracA={p.fracA} fracB={p.fracB} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-frac-equiv':
+        return <FractionEquivalent baseNum={p.baseNum} baseDen={p.baseDen} multiplier={p.multiplier} hidePart={p.hidePart} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-decimal-place':
+        return <DecimalPlaceValue number={p.number} decimalPlaces={p.decimalPlaces} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-decimal-line':
+        return <DecimalNumberLine rangeStart={p.rangeStart} rangeEnd={p.rangeEnd} target={p.target} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-balance-scale':
+        return <BalanceScale leftWeights={p.leftWeights} rightWeight={p.rightWeight} unit={p.unit} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-shape-props':
+        return <ShapeProperties shapeId={p.shapeId} askProperty={p.askProperty} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-angle-classify':
+        return <AngleClassify degrees={p.degrees} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-perimeter':
+        return <PerimeterCalc shapeType={p.shapeType} sides={p.sides} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-area-grid':
+        return <AreaGrid width={p.width} height={p.height} shapeType={p.shapeType} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-barchart':
+        return <BarChartRead data={p.data} questionType={p.questionType} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-symmetry':
+        return <SymmetryGrid axis={p.axis} sourcePoints={p.sourcePoints} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-unit-convert':
+        return <UnitConverter category={p.category} from={p.from} to={p.to} value={p.value} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-nl-arith':
+        return <NumberLineArith start={p.start} operand={p.operand} operation={p.operation} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-word-problem':
+        return <WordProblemVisual problemId={p.problemId} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       // Grade 1 visual components
       case 'g1-clock':
         return <G1AnalogClock hour={p.hour} minute={p.minute} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
@@ -313,16 +373,7 @@ export default function SchoolTaskBlock({
       case 'visual_g3_nl_sub':
       case 'visual_g3_rightangle':
       case 'visual_g3_perim_concept':
-      case 'visual_g3_area_compare':
-      case 'visual_g5_figuren':
-      case 'visual_g5_winkelarten':
-      case 'visual_g5_umfang':
-      case 'visual_g5_flaeche':
-      case 'visual_g5_spiegelung':
-      case 'visual_g5_barchart':
-      case 'visual_g5_mass':
-      case 'visual_g5_mul_gitter':
-      case 'visual_g5_division': {
+      case 'visual_g3_area_compare': {
         return (
           <div className="space-y-3">
             {block.subQuestions.map((sq, idx) => (
