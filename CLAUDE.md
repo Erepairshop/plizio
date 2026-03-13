@@ -785,6 +785,100 @@ Minden grade-nél (G1-G8) ugyanezeket a lépéseket kell követni:
 
 ---
 
+#### Szöveges feladatok (word problems) — természetesség szabályai (2026-03-13)
+
+> **Cél:** a feladatok ne érezzék magukat generáltnak. Egy valódi tanár által írt feladat érzete kell.
+
+**⚠️ TILOS:** Egyetlen template-et egyetlen generátorhoz kötni!
+```ts
+// ROSSZ — minden hívásnál ugyanaz a struktúra:
+word1: (cc) => { ... return q(wpHasFruit(name, fruit, a, b, cc), ...); }
+// JÓ — minden hívásnál random választ egy pool-ból:
+word1: (cc) => { return pick([ () => wpHasFruit(...), () => wpFoundInNature(...), ... ])(); }
+```
+
+**Pick-pool mérete:** min. 4 variáns / generátor (G1: 9 variáns, G2: 3-4 variáns).
+
+**Természetesség-ellenőrző lista:**
+- [ ] Minden variáns más helyszínen játszódik (erdő, piac, játszótér, otthon, iskola...)
+- [ ] Más a kérdés-megfogalmazás ("Hány van most?", "Hány maradt?", "Hányan játszanak?", "Hányat talált összesen?")
+- [ ] Legalább 2 feladat nem "Névnek X db van, kap/veszt Y-t" struktúrájú
+- [ ] Van legalább 1 "helyszín-beágyazó" mondat (pl. "A játszótéren...", "Ma Anna születésnapja...")
+- [ ] Mind a 4 nyelven olvasod el legalább 1 variánst — DE angolul hangzik-e? HU magyarosan?
+
+**Meglévő wpXxx template-ek gyors összefoglalója (G1-G3):**
+| Kontextus | Összeadás template-ek | Kivonás template-ek |
+|-----------|----------------------|---------------------|
+| Gyümölcs/étel | `wpHasFruit`, `wpMarketBasket` | `wpAte`, `wpPickedRipeFruit`, `wpSoldAtMarket` |
+| Természet/sétálás | `wpFoundInNature` | `wpBirdsOnFence`, `wpBirds` |
+| Közlekedés | `wpBus`, `wpKidsJoined` | `wpGotOffBus` |
+| Otthon/személyes | `wpFilledBag`, `wpCoinsInBank`, `wpBuiltTower`, `wpCollectedStickers`, `wpBirthdayPresents`, `wpSchoolSupplies` | `wpAteFromPlate`, `wpGavePencils`, `wpUsedPaper`, `wpGifts`, `wpLostItems` |
+| Iskola/sport | `wpBookshelf`, `wpSportsDay`, `wpSwimmingPool` | `wpKidsWentHome`, `wpSchoolTrip`, `wpBakery`, `wpLibraryReturn` |
+| G2+ összetett | `wpSchool`, `wpClassroomTable`, `wpGardenFlowers` | `wpSavingsGoal`, `wpBought` |
+| G3+ | `wpBikeTrip`, `wpBoxesInWarehouse`, `wpSchoolCafe` | `wpFruitShop` |
+
+**Új template hozzáadása — szabályok:**
+1. Minden template-nek van `cc: string` paramétere → `getLang(cc)` → 4 nyelv switch
+2. Neve `wp` prefixszel kezdődik (word problem), nem `q` (question)
+3. Export a `mathTranslations.ts`-ből, import a `mathCurriculum.ts`-be
+4. Hivatkozás: add hozzá a CLAUDE.md fenti táblázatához is
+5. Ellenőrzés: olvasd el mind a 4 nyelvű verziót — nem elég gépileg fordítani!
+
+**Amit kerülj:**
+- Ugyanaz a névcsere-séma (`${name} hat ${a} ${item}`) minden template-ben
+- "darab" / "Stück" / "pieces" generic counter 3+ egymást követő template-ben
+- Kérdés mindig ugyanolyan szavakkal ("Wie viele sind es insgesamt?" minden DE mondatban)
+
+---
+
+#### Topic constraint rendszer — dokumentáció (2026-03-13)
+
+**Fájl:** `lib/mathCurriculum.ts` — `TOPIC_NUMBER_RANGE`, `TOPIC_OPERATION_TYPE`, constraint factory-k
+
+**Hogyan működik:**
+1. Tanuló kiválaszt topicokat (pl. `add10` + `word`)
+2. `deriveTopicConstraint(topicKeys)` → legkisebb `maxNumber` a kiválasztott topicok közt
+3. `generateTopicQuestions(grade, topicKey, cc, count, constraint)` → ha a topic natív számai nagyobbak, constrained generátort használ
+
+**Compatibility guard (2026-03-13):**
+Ha `topicMaxN >= constraint.maxNumber × 5` → a constraint NEM alkalmazható erre a topicra.
+Példa: `g2_zahlen100` (100-as számok) + `constraint.maxNumber=10` → az 5× szabály miatt az eredeti 100-as generátor fut, nem a constrained.
+```ts
+const isIncompatible = topicMaxN !== undefined && topicMaxN >= constraint.maxNumber * 5;
+if (needsConstraint && !isIncompatible) { /* alkalmaz constrained generátort */ }
+```
+
+**Constrained generátor factory-k:**
+| Factory | Mikor hívódik | Mit csinál |
+|---------|--------------|-----------|
+| `makeConstrainedAddGen(maxN)` | `opType === 'add'` | `a+b ≤ maxN` összeadás |
+| `makeConstrainedSubGen(maxN)` | `opType === 'sub'` | `a-b ≥ 0` kivonás |
+| `makeConstrainedMixedGen(maxN)` | `opType === 'mixed'` | mix: add + sub + missing |
+| `makeConstrainedMulGen(maxN)` | `opType === 'mul'` (maxN≥4) | szorzás maxN-en belül |
+| `makeConstrainedWordGen(maxN)` | `opType === 'word'` | **valódi narratív** szöveg maxN-en belül |
+
+**`makeConstrainedWordGen` sajátosságai:**
+- Összeadásnál: `a + b ≤ maxN` biztosított
+- Kivonásnál: `a - b ≥ 1` biztosított
+- Minden nyelvhez 3 különböző narratív szöveg van beépítve (nem csak `a+b=?`)
+- Nem importál extra wpXxx függvényeket (körköröss függőség elkerülése)
+
+**`TOPIC_NUMBER_RANGE` bővítése (ha új topicot adsz hozzá):**
+```ts
+// Formátum: 'topicKey': maxNumber
+'g3_add': 1000,   // Grade 3 összeadás, 1000-es számkörben
+'g4_word': 9999,  // Grade 4 szöveges, max 4 jegyű számok
+```
+→ Ha nincs bejegyezve → constraint esetén `makeConstrainedMixedGen` fut fallbackként
+
+**`TOPIC_OPERATION_TYPE` bővítése:**
+```ts
+'my_new_topic': 'add',   // 'add'|'sub'|'mul'|'div'|'mixed'|'word'
+```
+→ Ha nincs bejegyezve → `'word'` fallback (makeConstrainedWordGen fut)
+
+---
+
 ### Egyéb lib fájlok (kevésbé érintett területek)
 
 | Fájl | Leírás |
