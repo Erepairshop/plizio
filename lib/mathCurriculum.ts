@@ -185,6 +185,13 @@ export const TOPIC_NUMBER_RANGE: Partial<Record<string, number>> = {
   'g2_add3': 100, 'g2_add_visual': 100, 'g2_sub_visual': 100,
   'g2_mul_simple': 100, 'mul2510': 100, 'mul2510b': 100,
   'g2_div_simple': 100, 'div2510': 100,
+  // Grade 2 — topics missing from map caused constraint override (fixed 2026-03-13)
+  'g2_missing_add': 100, 'g2_mul_rep': 100, 'g2_seq': 100, 'g2_missing': 100,
+  'g2_zahlen100_r': 100, 'g2_compare': 100, 'g2_vorgaenger': 100, 'g2_nachbarn': 100,
+  'g2_zerlegung': 100, 'g2_add_word': 100, 'g2_sub_word': 100,
+  'g2_mul_group': 100, 'g2_mul_visual': 100, 'g2_div_share': 100,
+  'g2_round': 100, 'g2_length': 100, 'g2_time': 100, 'g2_weights': 100,
+  'g2_tables': 100, 'g2_diagrams': 100, 'g2_word_add': 100, 'g2_word_sub': 100, 'g2_word_mul': 100,
   // Grade 3 — 1-1000
   'add1000': 1000, 'sub1000': 1000, 'add1000b': 1000, 'sub1000b': 1000,
   'g3_add': 1000, 'g3_sub': 1000, 'g3_add_kopf': 1000, 'g3_sub_kopf': 1000,
@@ -969,7 +976,7 @@ const G2: Record<string, Generator> = {
     ])();
   },
   rounding10: (cc) => {
-    const n = randInt(2, 18) * 10 + randInt(1, 9);
+    const n = randInt(1, 9) * 10 + randInt(1, 9); // max 99 — stays within G2 range (0-100)
     return q(qRoundTo10(n, cc), Math.round(n / 10) * 10, t("rounding10", cc));
   },
   // ── Number system (new G2) ──
@@ -1000,9 +1007,9 @@ const G2: Record<string, Generator> = {
   },
   // ── Addition variants ──
   addOhne: (cc) => {
-    // ohne Zehnerübergang: ones(a) + ones(b) <= 9
-    const aOnes = randInt(0, 8);
-    const bOnes = randInt(0, 9 - aOnes);
+    // ohne Zehnerübergang: ones(a) + ones(b) <= 9, both must have non-zero ones (no trivial +10/+20)
+    const aOnes = randInt(1, 7); // min 1 so a is never a round number
+    const bOnes = randInt(1, 9 - aOnes); // min 1 so b is never a round number
     const aTens = randInt(1, 7) * 10;
     const bTens = randInt(1, Math.floor((90 - aTens) / 10)) * 10;
     const a = aTens + aOnes, b = bTens + bOnes;
@@ -1180,8 +1187,29 @@ const G2: Record<string, Generator> = {
       { shapes: ["tri-red","sq-yellow","tri-red","sq-yellow","tri-red"], next: "sq-yellow", wrong1: "tri-yellow", wrong2: "sq-red" },
       { shapes: ["cir-blue","tri-blue","cir-blue","tri-blue","cir-blue"], next: "tri-blue", wrong1: "cir-blue", wrong2: "sq-blue" },
     ];
+    // Translate internal shape IDs to human-readable names for MCQ display
+    const lang = getLang(cc);
+    const shapeNames: Record<string, Record<string, string>> = {
+      DE: { sq: 'Quadrat', cir: 'Kreis', tri: 'Dreieck' },
+      EN: { sq: 'square', cir: 'circle', tri: 'triangle' },
+      HU: { sq: 'négyzet', cir: 'kör', tri: 'háromszög' },
+      RO: { sq: 'pătrat', cir: 'cerc', tri: 'triunghi' },
+    };
+    const colorNames: Record<string, Record<string, string>> = {
+      DE: { blue: 'blau', green: 'grün', red: 'rot', yellow: 'gelb', purple: 'lila' },
+      EN: { blue: 'blue', green: 'green', red: 'red', yellow: 'yellow', purple: 'purple' },
+      HU: { blue: 'kék', green: 'zöld', red: 'piros', yellow: 'sárga', purple: 'lila' },
+      RO: { blue: 'albastru', green: 'verde', red: 'roșu', yellow: 'galben', purple: 'mov' },
+    };
+    const toLabel = (id: string) => {
+      const [shape, color] = id.split('-');
+      const s = (shapeNames[lang] || shapeNames.EN)[shape] || shape;
+      const c = (colorNames[lang] || colorNames.EN)[color] || color;
+      return `${c} ${s}`;
+    };
     const p = pick(patterns);
-    return qstr(qShapePatternQuestion(cc), p.next, t("patternContinue", cc), [p.next, p.wrong1, p.wrong2],
+    const next = toLabel(p.next), wrong1 = toLabel(p.wrong1), wrong2 = toLabel(p.wrong2);
+    return qstr(qShapePatternQuestion(cc), next, t("patternContinue", cc), [next, wrong1, wrong2],
       false, { type: "shape-pattern", shapes: [...p.shapes, "?"] });
   },
   // ── NEW G2: Number line (Zahlenstrahl) with larger steps ──
