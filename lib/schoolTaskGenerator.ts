@@ -1134,8 +1134,16 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
         visualType: 'g3-div-share', visualData: { type: 'g3-div-share', params: { mode: 'div', groupA: divTotal, groupB: divPlates, icon: icon4 } } };
     }
     case 'g3_rightangle': {
-      const types = ['right', 'acute', 'obtuse'] as const;
-      const atype = types[rnd(0, 2)];
+      // Use subIdx to ensure all 3 angle types appear in the same block (no duplicates)
+      const anglePerm = [
+        ['right', 'acute', 'obtuse'],
+        ['acute', 'obtuse', 'right'],
+        ['obtuse', 'right', 'acute'],
+        ['right', 'obtuse', 'acute'],
+        ['acute', 'right', 'obtuse'],
+        ['obtuse', 'acute', 'right'],
+      ] as const;
+      const atype = anglePerm[blockIdx % 6][subIdx % 3];
       return { id: `vis_g3ra_${sfx}`, answer: atype, points: 1,
         visualType: 'g3-rightangle', visualData: { type: 'g3-rightangle', params: { angleType: atype } } };
     }

@@ -31,7 +31,7 @@ export default function G3PerimeterConcept({ width, height, lang, embedded = fal
   const scale = Math.min(180 / width, 120 / height, 20);
   const svgW = width * scale;
   const svgH = height * scale;
-  const PAD = 30;
+  const PAD = 46;  // large enough for "10 cm" label (textAnchor="end" at x=PAD-8)
   const totalW = svgW + PAD * 2;
   const totalH = svgH + PAD * 2;
 
