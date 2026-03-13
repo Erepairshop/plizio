@@ -51,7 +51,7 @@ const AngleClassify: React.FC<AngleClassifyProps> = ({
   const t = LABELS[language] ?? LABELS.en;
   const types = ANGLE_TYPES[language] ?? ANGLE_TYPES.en;
 
-  const { degrees, angleType, correctAnswer, choices } = useMemo(() => {
+  const { degrees, angleType, correctAnswer, choices, labelToKey } = useMemo(() => {
     // Candidate angles by type
     const pools = {
       acute:    [20, 30, 45, 55, 65, 75],
@@ -70,7 +70,9 @@ const AngleClassify: React.FC<AngleClassifyProps> = ({
     const correct = types[at];
     // Make 4 choices (the 4 basic types, shuffled)
     const ch = typeKeys.map(k => types[k]).sort(() => Math.random() - 0.5);
-    return { degrees: deg, angleType: at, correctAnswer: correct, choices: ch };
+    // Reverse map: translated label → language-independent key (for embedded grading)
+    const l2k = Object.fromEntries(typeKeys.map(k => [types[k], k]));
+    return { degrees: deg, angleType: at, correctAnswer: correct, choices: ch, labelToKey: l2k };
   }, [propDeg, language]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const [selected, setSelected] = useState<string | null>(null);
@@ -81,9 +83,10 @@ const AngleClassify: React.FC<AngleClassifyProps> = ({
   onValueChangeRef.current = onValueChange;
   React.useEffect(() => {
     if (embedded && onValueChangeRef.current && selected !== null) {
-      onValueChangeRef.current(String(selected));
+      // Send language-independent key so embedded grading matches generator answer
+      onValueChangeRef.current(labelToKey[selected] ?? selected);
     }
-  }, [embedded, selected]);
+  }, [embedded, selected, labelToKey]);
 
   const handleSelect = (val: string) => {
     if (submitted) return;
