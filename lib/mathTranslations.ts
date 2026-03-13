@@ -3442,3 +3442,276 @@ export function wpVisualShare(total: number, emoji: string, kids: number, countr
     default:   return `${items}  ${total} darabot ${kids} gyerek közt osztanak el egyenlően. Mindenki hányat kap?`;
   }
 }
+
+// ─── GRADE 6 HELPERS ─────────────────────────────
+
+export function qAbsoluteValue(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `|${n}| = ?`;
+    case "EN": return `|${n}| = ?`;
+    case "RO": return `|${n}| = ?`;
+    default:   return `|${n}| = ?`;
+  }
+}
+
+export function qNegCompare(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Welche Zahl ist größer: ${a} oder ${b}?`;
+    case "EN": return `Which number is greater: ${a} or ${b}?`;
+    case "RO": return `Care număr este mai mare: ${a} sau ${b}?`;
+    default:   return `Melyik szám nagyobb: ${a} vagy ${b}?`;
+  }
+}
+
+export function qFracMulFrac(an: number, ad: number, bn: number, bd: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const q = `${an}/${ad} × ${bn}/${bd} = ?`;
+  switch (lang) {
+    case "DE": return `${an}/${ad} · ${bn}/${bd} = ?`;
+    case "EN": return q;
+    case "RO": return q;
+    default:   return q;
+  }
+}
+
+export function qFracDivFrac(an: number, ad: number, bn: number, bd: number, countryCode: string): string {
+  const q = `${an}/${ad} ÷ ${bn}/${bd} = ?`;
+  return q;
+}
+
+export function qFracToPercent(n: number, d: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${n}/${d} = ? %`;
+    case "EN": return `${n}/${d} = ? %`;
+    case "RO": return `${n}/${d} = ? %`;
+    default:   return `${n}/${d} = ? %`;
+  }
+}
+
+export function qPercentToFrac(p: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${p}% als Bruch (im Nenner 100): ${p}/? = vereinfacht ?`;
+    case "EN": return `Write ${p}% as a fraction in simplest form.  ${p}/100 = ?`;
+    case "RO": return `Scrie ${p}% ca fracție simplificată. ${p}/100 = ?`;
+    default:   return `Írd törtalakra: ${p}% = ${p}/100 = ?`;
+  }
+}
+
+export function qRatioMissing(a: number, b: number, c: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${a} : ${b} = ${c} : ?`;
+    case "EN": return `${a} : ${b} = ${c} : ?`;
+    case "RO": return `${a} : ${b} = ${c} : ?`;
+    default:   return `${a} : ${b} = ${c} : ?`;
+  }
+}
+
+export function qRuleOfThree(price: number, qty: number, targetQty: number, cur: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${qty} Stück kosten ${price} ${cur}. Was kosten ${targetQty} Stück?`;
+    case "EN": return `${qty} items cost ${price} ${cur}. How much do ${targetQty} items cost?`;
+    case "RO": return `${qty} bucăți costă ${price} ${cur}. Cât costă ${targetQty} bucăți?`;
+    default:   return `${qty} darab ára ${price} ${cur}. Mennyibe kerül ${targetQty} darab?`;
+  }
+}
+
+export function qInverseRatio(workers: number, days: number, newWorkers: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${workers} Arbeiter brauchen ${days} Tage. Wie viele Tage brauchen ${newWorkers} Arbeiter für dieselbe Arbeit?`;
+    case "EN": return `${workers} workers take ${days} days. How many days do ${newWorkers} workers need for the same job?`;
+    case "RO": return `${workers} muncitori lucrează ${days} zile. Câte zile lucrează ${newWorkers} muncitori?`;
+    default:   return `${workers} munkásnak ${days} nap kell. ${newWorkers} munkásnak hány nap kell ugyanahhoz?`;
+  }
+}
+
+export function qSpeedTime(distance: number, speed: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Eine Strecke von ${distance} km wird mit ${speed} km/h zurückgelegt. Wie viele Stunden dauert die Fahrt?`;
+    case "EN": return `A journey of ${distance} km at ${speed} km/h. How many hours does it take?`;
+    case "RO": return `O distanță de ${distance} km se parcurge cu ${speed} km/h. Câte ore durează?`;
+    default:   return `${distance} km-t ${speed} km/h sebességgel tesznek meg. Hány óráig tart?`;
+  }
+}
+
+export function qPercentWhat(part: number, whole: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${part} ist wie viel Prozent von ${whole}?`;
+    case "EN": return `${part} is what percent of ${whole}?`;
+    case "RO": return `${part} reprezintă câte procente din ${whole}?`;
+    default:   return `${part} hány százaléka ${whole}-nak?`;
+  }
+}
+
+export function qPercentBase(pct: number, result: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${pct}% von welcher Zahl ergibt ${result}?`;
+    case "EN": return `${pct}% of what number equals ${result}?`;
+    case "RO": return `${pct}% din ce număr dă ${result}?`;
+    default:   return `${result} egy szám ${pct} százaléka. Mi az a szám?`;
+  }
+}
+
+export function qPercentIncrease(base: number, pct: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${base} wird um ${pct}% erhöht. Was ist das Ergebnis?`;
+    case "EN": return `${base} increased by ${pct}%. What is the result?`;
+    case "RO": return `${base} se mărește cu ${pct}%. Care este rezultatul?`;
+    default:   return `${base}-t ${pct}%-kal növelik. Mi lesz az eredmény?`;
+  }
+}
+
+export function qPercentDecrease(base: number, pct: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${base} wird um ${pct}% verringert. Was ist das Ergebnis?`;
+    case "EN": return `${base} decreased by ${pct}%. What is the result?`;
+    case "RO": return `${base} se micșorează cu ${pct}%. Care este rezultatul?`;
+    default:   return `${base}-t ${pct}%-kal csökkentik. Mi lesz az eredmény?`;
+  }
+}
+
+export function qExprEval(coeff: number, add: number, val: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const expr = coeff === 1 ? `x + ${add}` : `${coeff}x + ${add}`;
+  switch (lang) {
+    case "DE": return `Berechne ${expr} für x = ${val}.`;
+    case "EN": return `Evaluate ${expr} when x = ${val}.`;
+    case "RO": return `Calculează ${expr} pentru x = ${val}.`;
+    default:   return `Számítsd ki: ${expr}, ha x = ${val}!`;
+  }
+}
+
+export function qEquation1Step(op: string, n: number, result: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const eqn = op === "add" ? `x + ${n} = ${result}` : op === "sub" ? `x − ${n} = ${result}` : op === "mul" ? `${n}x = ${result}` : `x / ${n} = ${result}`;
+  switch (lang) {
+    case "DE": return `Löse die Gleichung: ${eqn}`;
+    case "EN": return `Solve: ${eqn}`;
+    case "RO": return `Rezolvă ecuația: ${eqn}`;
+    default:   return `Oldd meg: ${eqn}`;
+  }
+}
+
+export function qEquation2Step(a: number, b: number, result: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const eqn = b >= 0 ? `${a}x + ${b} = ${result}` : `${a}x − ${Math.abs(b)} = ${result}`;
+  switch (lang) {
+    case "DE": return `Löse die Gleichung: ${eqn}`;
+    case "EN": return `Solve: ${eqn}`;
+    case "RO": return `Rezolvă ecuația: ${eqn}`;
+    default:   return `Oldd meg: ${eqn}`;
+  }
+}
+
+export function qAreaParallelogram(b: number, h: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Parallelogramm hat Grundseite ${b} cm und Höhe ${h} cm. Wie groß ist der Flächeninhalt?`;
+    case "EN": return `A parallelogram has base ${b} cm and height ${h} cm. What is its area?`;
+    case "RO": return `Un paralelogram are baza ${b} cm și înălțimea ${h} cm. Care este aria?`;
+    default:   return `Egy paralelogramma alapja ${b} cm, magassága ${h} cm. Mekkora a területe?`;
+  }
+}
+
+export function qAreaTrapezoid(a: number, b: number, h: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Trapez hat die parallelen Seiten ${a} cm und ${b} cm, Höhe ${h} cm. Berechne den Flächeninhalt.`;
+    case "EN": return `A trapezoid has parallel sides ${a} cm and ${b} cm, height ${h} cm. Calculate its area.`;
+    case "RO": return `Un trapez are bazele de ${a} cm și ${b} cm, înălțimea ${h} cm. Calculează aria.`;
+    default:   return `Egy trapéz párhuzamos oldalai ${a} cm és ${b} cm, magassága ${h} cm. Számítsd ki a területét!`;
+  }
+}
+
+export function qSurfaceBox(a: number, b: number, c: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Quader hat die Maße ${a} cm × ${b} cm × ${c} cm. Wie groß ist die Oberfläche?`;
+    case "EN": return `A rectangular prism has dimensions ${a} cm × ${b} cm × ${c} cm. What is its surface area?`;
+    case "RO": return `Un paralelipiped are dimensiunile ${a} cm × ${b} cm × ${c} cm. Care este suprafața?`;
+    default:   return `Egy téglatest méretei: ${a} cm × ${b} cm × ${c} cm. Mekkora a felszíne?`;
+  }
+}
+
+export function qCoord4Q(x: number, y: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Punkt P liegt bei (${x} | ${y}). In welchem Quadranten liegt P?`;
+    case "EN": return `Point P is at (${x}, ${y}). In which quadrant is P?`;
+    case "RO": return `Punctul P se află la (${x}; ${y}). În ce cadran se află?`;
+    default:   return `A P pont koordinátái (${x}; ${y}). Melyik negyedben van P?`;
+  }
+}
+
+export function qMode(nums: number[], countryCode: string): string {
+  const lang = getLang(countryCode);
+  const list = nums.join(", ");
+  switch (lang) {
+    case "DE": return `Finde den Modus (häufigster Wert): ${list}`;
+    case "EN": return `Find the mode (most frequent value): ${list}`;
+    case "RO": return `Găsește modul (valoarea cea mai frecventă): ${list}`;
+    default:   return `Melyik szám fordul elő legtöbbször? ${list}`;
+  }
+}
+
+export function qRange(nums: number[], countryCode: string): string {
+  const lang = getLang(countryCode);
+  const list = nums.join(", ");
+  switch (lang) {
+    case "DE": return `Wie groß ist die Spannweite dieser Datenmenge? ${list}`;
+    case "EN": return `What is the range of this data set? ${list}`;
+    case "RO": return `Care este intervalul acestui set de date? ${list}`;
+    default:   return `Mekkora a terjedelem? ${list}`;
+  }
+}
+
+export function wpNegTemp(warm: number, cold: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Tagsüber waren es ${warm}°C, nachts sank die Temperatur auf ${cold}°C. Um wie viel Grad ist die Temperatur gesunken?`;
+    case "EN": return `During the day it was ${warm}°C, at night it dropped to ${cold}°C. How many degrees did the temperature fall?`;
+    case "RO": return `Ziua temperatura era ${warm}°C, noaptea a scăzut la ${cold}°C. Cu câte grade a scăzut?`;
+    default:   return `Nappal ${warm}°C volt, éjjel ${cold}°C-ra süllyedt. Mennyit csökkent a hőmérséklet?`;
+  }
+}
+
+export function wpRatioSplit(total: number, a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${total} wird im Verhältnis ${a}:${b} aufgeteilt. Wie groß ist der größere Teil?`;
+    case "EN": return `${total} is split in the ratio ${a}:${b}. What is the larger share?`;
+    case "RO": return `${total} se împarte în raportul ${a}:${b}. Care este partea mai mare?`;
+    default:   return `${total}-t ${a}:${b} arányban osztják el. Mekkora a nagyobb rész?`;
+  }
+}
+
+export function wpPercentTax(price: number, pct: number, cur: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Produkt kostet ${price} ${cur} (ohne Steuer). Die Mehrwertsteuer beträgt ${pct}%. Wie viel zahlst du insgesamt?`;
+    case "EN": return `A product costs ${price} ${cur} before tax. The sales tax is ${pct}%. How much do you pay in total?`;
+    case "RO": return `Un produs costă ${price} ${cur} fără TVA. TVA este ${pct}%. Cât plătești în total?`;
+    default:   return `Egy termék ára ${price} ${cur} (adó nélkül). Az áfa ${pct}%. Mennyit fizetsz összesen?`;
+  }
+}
+
+export function wpNegDebt(earned: number, spent: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Anna hat ${earned} € gespart, aber ${spent} € ausgegeben. Wie viel hat sie jetzt (negativ = Schulden)?`;
+    case "EN": return `Anna saved ${earned} € but spent ${spent} €. How much does she have now (negative = debt)?`;
+    case "RO": return `Ana a economisit ${earned} € dar a cheltuit ${spent} €. Cât are acum (negativ = datorie)?`;
+    default:   return `Anna ${earned} €-t spórolt, de ${spent} €-t költött. Mennyi van most (negatív = adósság)?`;
+  }
+}
