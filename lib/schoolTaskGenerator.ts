@@ -1088,14 +1088,16 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
         visualType: 'g3-compose', visualData: { type: 'g3-compose', params: { hundreds: h, tens: t, ones: o } } };
     }
     case 'g3_add_obj': {
-      const a = rnd(2, 8), b = rnd(2, 8);
+      // Grade 3: 2-digit addends (teens range), groups of 5 visually readable
+      const a = rnd(10, 15), b = rnd(8, 14);
       const icons = ['🍎', '⭐', '🌸', '🟡', '🔵'];
       const icon = icons[rnd(0, icons.length - 1)];
       return { id: `vis_g3ao_${sfx}`, answer: a + b, points: 1,
         visualType: 'g3-add-objects', visualData: { type: 'g3-add-objects', params: { mode: 'add', groupA: a, groupB: b, icon } } };
     }
     case 'g3_sub_obj': {
-      const tot = rnd(6, 15), rem = rnd(2, Math.min(tot - 1, 7));
+      // Grade 3: 2-digit totals, result also 2-digit
+      const tot = rnd(16, 25), rem = rnd(5, Math.min(tot - 8, 12));
       const icons2 = ['🍎', '⭐', '🌸', '🟡', '🔵'];
       const icon2 = icons2[rnd(0, icons2.length - 1)];
       return { id: `vis_g3so_${sfx}`, answer: tot - rem, points: 1,
