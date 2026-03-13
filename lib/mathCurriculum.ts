@@ -2803,6 +2803,34 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
     ]},
   ],
   5: [
+    { key: 'g5_vis_numbers', name: 'Visual: Numbers & Place Value', color: '#3B82F6', icon: '🖼️', topics: [
+      { key: 'g5_place_million',    name: 'Place Value Table (millions)',          color: '#60A5FA', icon: '🔢', generators: [G5.readLargeNum] },
+      { key: 'g5_number_line_vis',  name: 'Number Line – large numbers',           color: '#93C5FD', icon: '📏', generators: [G5.largeNumbers] },
+      { key: 'g5_rounding_vis',     name: 'Rounding – visual',                     color: '#2563EB', icon: '🎯', generators: [G5.roundHundreds] },
+      { key: 'g5_nl_arith',         name: 'Number Line Arithmetic',                color: '#1D4ED8', icon: '➕', generators: [G5.addLarge, G5.subLarge] },
+    ]},
+    { key: 'g5_vis_ops', name: 'Visual: Operations', color: '#10B981', icon: '🖼️', topics: [
+      { key: 'g5_mul_array',        name: 'Multiplication Array',                  color: '#6EE7B7', icon: '✖️', generators: [G5.mulTwoDigit] },
+      { key: 'g5_div_share',        name: 'Division – sharing',                    color: '#10B981', icon: '➗', generators: [G5.divLong] },
+      { key: 'g5_balance_vis',      name: 'Balance Scale',                         color: '#059669', icon: '⚖️', generators: [G5.addLarge] },
+    ]},
+    { key: 'g5_vis_frac', name: 'Visual: Fractions & Decimals', color: '#6366F1', icon: '🖼️', topics: [
+      { key: 'g5_frac_compare_vis', name: 'Fraction Comparison – visual',          color: '#818CF8', icon: '½', generators: [G5.fractionAdd] },
+      { key: 'g5_frac_equiv_vis',   name: 'Equivalent Fractions – visual',         color: '#A5B4FC', icon: '🔄', generators: [G5.fractionAdd] },
+      { key: 'g5_decimal_place_vis',name: 'Decimal Place Value – visual',          color: '#6366F1', icon: '🔟', generators: [G5.decimalRead] },
+      { key: 'g5_decimal_line_vis', name: 'Decimal Number Line',                   color: '#4F46E5', icon: '📏', generators: [G5.decimalRead] },
+    ]},
+    { key: 'g5_vis_geo', name: 'Visual: Geometry', color: '#EAB308', icon: '🖼️', topics: [
+      { key: 'g5_shape_vis',        name: 'Shape Properties – visual',             color: '#FDE047', icon: '🔷', generators: [G5.geoRectArea] },
+      { key: 'g5_angle_vis',        name: 'Angle Classification – visual',         color: '#EAB308', icon: '∠', generators: [G4.winkelTyp] },
+      { key: 'g5_perim_vis',        name: 'Perimeter – visual',                    color: '#CA8A04', icon: '🔲', generators: [G5.geoRectPerimeter] },
+      { key: 'g5_area_vis',         name: 'Area – grid',                           color: '#A16207', icon: '⬛', generators: [G5.geoRectArea] },
+      { key: 'g5_symmetry_vis',     name: 'Symmetry – reflection',                 color: '#854D0E', icon: '🪞', generators: [G4.symmetrieAchsen] },
+    ]},
+    { key: 'g5_vis_data', name: 'Visual: Data & Units', color: '#10B981', icon: '🖼️', topics: [
+      { key: 'g5_barchart_vis',     name: 'Bar Chart Reading',                     color: '#6EE7B7', icon: '📊', generators: [G5.chartRead] },
+      { key: 'g5_unit_convert',     name: 'Unit Conversion – visual',              color: '#10B981', icon: '📏', generators: [G5.unitLength] },
+    ]},
     { key: 'g5_zahlen', name: 'Numbers & Number System', color: '#3B82F6', icon: '🔢', topics: [
       { key: 'g5_z_million',  name: 'Natural Numbers up to 1,000,000',            color: '#60A5FA', icon: '🔢', generators: [G5.largeNumbers, G5.readLargeNum, G5.compareNums] },
       { key: 'g5_z_read',    name: 'Reading and Writing Numbers',                  color: '#93C5FD', icon: '📝', generators: [G5.readLargeNum, G5.largeNumbers] },
@@ -3230,6 +3258,34 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     ]},
   ],
   5: [
+    { key: 'g5_vis_numbers', name: 'Visuell: Zahlen & Stellenwert', color: '#3B82F6', icon: '🖼️', topics: [
+      { key: 'g5_place_million',    name: 'Stellenwertgitter (Millionen)',          color: '#60A5FA', icon: '🔢', generators: [G5.readLargeNum] },
+      { key: 'g5_number_line_vis',  name: 'Zahlenstrahl – große Zahlen',            color: '#93C5FD', icon: '📏', generators: [G5.largeNumbers] },
+      { key: 'g5_rounding_vis',     name: 'Runden – visuell',                       color: '#2563EB', icon: '🎯', generators: [G5.roundHundreds] },
+      { key: 'g5_nl_arith',         name: 'Zahlenstrahl – Rechnen',                 color: '#1D4ED8', icon: '➕', generators: [G5.addLarge, G5.subLarge] },
+    ]},
+    { key: 'g5_vis_ops', name: 'Visuell: Rechenoperationen', color: '#10B981', icon: '🖼️', topics: [
+      { key: 'g5_mul_array',        name: 'Multiplikationsgitter',                  color: '#6EE7B7', icon: '✖️', generators: [G5.mulTwoDigit] },
+      { key: 'g5_div_share',        name: 'Division – Aufteilen',                   color: '#10B981', icon: '➗', generators: [G5.divLong] },
+      { key: 'g5_balance_vis',      name: 'Waage – Gleichgewicht',                  color: '#059669', icon: '⚖️', generators: [G5.addLarge] },
+    ]},
+    { key: 'g5_vis_frac', name: 'Visuell: Brüche & Dezimalen', color: '#6366F1', icon: '🖼️', topics: [
+      { key: 'g5_frac_compare_vis', name: 'Brüche vergleichen – visuell',           color: '#818CF8', icon: '½', generators: [G5.fractionAdd] },
+      { key: 'g5_frac_equiv_vis',   name: 'Gleichwertige Brüche – visuell',         color: '#A5B4FC', icon: '🔄', generators: [G5.fractionAdd] },
+      { key: 'g5_decimal_place_vis',name: 'Dezimalzahlen – Stellenwert',            color: '#6366F1', icon: '🔟', generators: [G5.decimalRead] },
+      { key: 'g5_decimal_line_vis', name: 'Dezimalzahlen am Zahlenstrahl',          color: '#4F46E5', icon: '📏', generators: [G5.decimalRead] },
+    ]},
+    { key: 'g5_vis_geo', name: 'Visuell: Geometrie', color: '#EAB308', icon: '🖼️', topics: [
+      { key: 'g5_shape_vis',        name: 'Figureigenschaften – visuell',           color: '#FDE047', icon: '🔷', generators: [G5.geoRectArea] },
+      { key: 'g5_angle_vis',        name: 'Winkelarten – visuell',                  color: '#EAB308', icon: '∠', generators: [G4.winkelTyp] },
+      { key: 'g5_perim_vis',        name: 'Umfang – visuell',                       color: '#CA8A04', icon: '🔲', generators: [G5.geoRectPerimeter] },
+      { key: 'g5_area_vis',         name: 'Flächeninhalt – Gitter',                 color: '#A16207', icon: '⬛', generators: [G5.geoRectArea] },
+      { key: 'g5_symmetry_vis',     name: 'Spiegelung – visuell',                   color: '#854D0E', icon: '🪞', generators: [G4.symmetrieAchsen] },
+    ]},
+    { key: 'g5_vis_data', name: 'Visuell: Daten & Einheiten', color: '#10B981', icon: '🖼️', topics: [
+      { key: 'g5_barchart_vis',     name: 'Säulendiagramm lesen',                   color: '#6EE7B7', icon: '📊', generators: [G5.chartRead] },
+      { key: 'g5_unit_convert',     name: 'Maßeinheiten – visuell',                 color: '#10B981', icon: '📏', generators: [G5.unitLength] },
+    ]},
     { key: 'g5_zahlen', name: 'Zahlen und Zahlensystem', color: '#3B82F6', icon: '🔢', topics: [
       { key: 'g5_z_million',  name: 'Natürliche Zahlen bis 1 000 000',      color: '#60A5FA', icon: '🔢', generators: [G5.largeNumbers, G5.readLargeNum, G5.compareNums] },
       { key: 'g5_z_read',    name: 'Zahlen lesen und schreiben',             color: '#93C5FD', icon: '📝', generators: [G5.readLargeNum, G5.largeNumbers] },
@@ -3602,6 +3658,34 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
     ]},
   ],
   5: [
+    { key: 'g5_vis_numbers', name: 'Vizuális: Számok és helyiérték', color: '#3B82F6', icon: '🖼️', topics: [
+      { key: 'g5_place_million',    name: 'Helyiértéktábla (milliók)',                color: '#60A5FA', icon: '🔢', generators: [G5.readLargeNum] },
+      { key: 'g5_number_line_vis',  name: 'Számegyenes – nagy számok',               color: '#93C5FD', icon: '📏', generators: [G5.largeNumbers] },
+      { key: 'g5_rounding_vis',     name: 'Kerekítés – vizuálisan',                  color: '#2563EB', icon: '🎯', generators: [G5.roundHundreds] },
+      { key: 'g5_nl_arith',         name: 'Számegyenes – számolás',                  color: '#1D4ED8', icon: '➕', generators: [G5.addLarge, G5.subLarge] },
+    ]},
+    { key: 'g5_vis_ops', name: 'Vizuális: Műveletek', color: '#10B981', icon: '🖼️', topics: [
+      { key: 'g5_mul_array',        name: 'Szorzótábla rács',                        color: '#6EE7B7', icon: '✖️', generators: [G5.mulTwoDigit] },
+      { key: 'g5_div_share',        name: 'Osztás – szétosztás',                     color: '#10B981', icon: '➗', generators: [G5.divLong] },
+      { key: 'g5_balance_vis',      name: 'Mérleg – egyensúly',                      color: '#059669', icon: '⚖️', generators: [G5.addLarge] },
+    ]},
+    { key: 'g5_vis_frac', name: 'Vizuális: Törtek és tizedes számok', color: '#6366F1', icon: '🖼️', topics: [
+      { key: 'g5_frac_compare_vis', name: 'Törtek összehasonlítása – vizuálisan',    color: '#818CF8', icon: '½', generators: [G5.fractionAdd] },
+      { key: 'g5_frac_equiv_vis',   name: 'Egyenértékű törtek – vizuálisan',         color: '#A5B4FC', icon: '🔄', generators: [G5.fractionAdd] },
+      { key: 'g5_decimal_place_vis',name: 'Tizedes számok – helyiérték',             color: '#6366F1', icon: '🔟', generators: [G5.decimalRead] },
+      { key: 'g5_decimal_line_vis', name: 'Tizedes számok számegyenesen',            color: '#4F46E5', icon: '📏', generators: [G5.decimalRead] },
+    ]},
+    { key: 'g5_vis_geo', name: 'Vizuális: Geometria', color: '#EAB308', icon: '🖼️', topics: [
+      { key: 'g5_shape_vis',        name: 'Síkidom tulajdonságai – vizuálisan',      color: '#FDE047', icon: '🔷', generators: [G5.geoRectArea] },
+      { key: 'g5_angle_vis',        name: 'Szögtípusok – vizuálisan',               color: '#EAB308', icon: '∠', generators: [G4.winkelTyp] },
+      { key: 'g5_perim_vis',        name: 'Kerület – vizuálisan',                   color: '#CA8A04', icon: '🔲', generators: [G5.geoRectPerimeter] },
+      { key: 'g5_area_vis',         name: 'Terület – rácsos',                       color: '#A16207', icon: '⬛', generators: [G5.geoRectArea] },
+      { key: 'g5_symmetry_vis',     name: 'Tükrözés – vizuálisan',                  color: '#854D0E', icon: '🪞', generators: [G4.symmetrieAchsen] },
+    ]},
+    { key: 'g5_vis_data', name: 'Vizuális: Adatok és mértékegységek', color: '#10B981', icon: '🖼️', topics: [
+      { key: 'g5_barchart_vis',     name: 'Oszlopdiagram olvasása',                 color: '#6EE7B7', icon: '📊', generators: [G5.chartRead] },
+      { key: 'g5_unit_convert',     name: 'Mértékegységek – vizuálisan',            color: '#10B981', icon: '📏', generators: [G5.unitLength] },
+    ]},
     { key: 'g5_zahlen', name: 'Számok és számrendszer', color: '#3B82F6', icon: '🔢', topics: [
       { key: 'g5_z_million',  name: 'Természetes számok millióig',                color: '#60A5FA', icon: '🔢', generators: [G5.largeNumbers, G5.readLargeNum, G5.compareNums] },
       { key: 'g5_z_read',    name: 'Számok olvasása és írása',                    color: '#93C5FD', icon: '📝', generators: [G5.readLargeNum] },
@@ -3970,6 +4054,34 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
     ]},
   ],
   5: [
+    { key: 'g5_vis_numbers', name: 'Vizual: Numere și valoare pozițională', color: '#3B82F6', icon: '🖼️', topics: [
+      { key: 'g5_place_million',    name: 'Tabel valoare pozițională (milioane)',    color: '#60A5FA', icon: '🔢', generators: [G5.readLargeNum] },
+      { key: 'g5_number_line_vis',  name: 'Axă numerică – numere mari',             color: '#93C5FD', icon: '📏', generators: [G5.largeNumbers] },
+      { key: 'g5_rounding_vis',     name: 'Rotunjire – vizual',                     color: '#2563EB', icon: '🎯', generators: [G5.roundHundreds] },
+      { key: 'g5_nl_arith',         name: 'Axă numerică – calcul',                  color: '#1D4ED8', icon: '➕', generators: [G5.addLarge, G5.subLarge] },
+    ]},
+    { key: 'g5_vis_ops', name: 'Vizual: Operații', color: '#10B981', icon: '🖼️', topics: [
+      { key: 'g5_mul_array',        name: 'Rețea de înmulțire',                     color: '#6EE7B7', icon: '✖️', generators: [G5.mulTwoDigit] },
+      { key: 'g5_div_share',        name: 'Împărțire – distribuire',                color: '#10B981', icon: '➗', generators: [G5.divLong] },
+      { key: 'g5_balance_vis',      name: 'Balanță – echilibru',                    color: '#059669', icon: '⚖️', generators: [G5.addLarge] },
+    ]},
+    { key: 'g5_vis_frac', name: 'Vizual: Fracții și zecimale', color: '#6366F1', icon: '🖼️', topics: [
+      { key: 'g5_frac_compare_vis', name: 'Compararea fracțiilor – vizual',         color: '#818CF8', icon: '½', generators: [G5.fractionAdd] },
+      { key: 'g5_frac_equiv_vis',   name: 'Fracții echivalente – vizual',           color: '#A5B4FC', icon: '🔄', generators: [G5.fractionAdd] },
+      { key: 'g5_decimal_place_vis',name: 'Zecimale – valoare pozițională',         color: '#6366F1', icon: '🔟', generators: [G5.decimalRead] },
+      { key: 'g5_decimal_line_vis', name: 'Zecimale pe axa numerică',               color: '#4F46E5', icon: '📏', generators: [G5.decimalRead] },
+    ]},
+    { key: 'g5_vis_geo', name: 'Vizual: Geometrie', color: '#EAB308', icon: '🖼️', topics: [
+      { key: 'g5_shape_vis',        name: 'Proprietăți figuri – vizual',            color: '#FDE047', icon: '🔷', generators: [G5.geoRectArea] },
+      { key: 'g5_angle_vis',        name: 'Tipuri de unghiuri – vizual',            color: '#EAB308', icon: '∠', generators: [G4.winkelTyp] },
+      { key: 'g5_perim_vis',        name: 'Perimetru – vizual',                     color: '#CA8A04', icon: '🔲', generators: [G5.geoRectPerimeter] },
+      { key: 'g5_area_vis',         name: 'Arie – pe grilă',                        color: '#A16207', icon: '⬛', generators: [G5.geoRectArea] },
+      { key: 'g5_symmetry_vis',     name: 'Simetrie – vizual',                      color: '#854D0E', icon: '🪞', generators: [G4.symmetrieAchsen] },
+    ]},
+    { key: 'g5_vis_data', name: 'Vizual: Date și unități de măsură', color: '#10B981', icon: '🖼️', topics: [
+      { key: 'g5_barchart_vis',     name: 'Citirea diagramelor cu bare',            color: '#6EE7B7', icon: '📊', generators: [G5.chartRead] },
+      { key: 'g5_unit_convert',     name: 'Unități de măsură – vizual',             color: '#10B981', icon: '📏', generators: [G5.unitLength] },
+    ]},
     { key: 'g5_zahlen', name: 'Numere și sistemul numeric', color: '#3B82F6', icon: '🔢', topics: [
       { key: 'g5_z_million',  name: 'Numere naturale până la 1 000 000',           color: '#60A5FA', icon: '🔢', generators: [G5.largeNumbers, G5.readLargeNum, G5.compareNums] },
       { key: 'g5_z_read',    name: 'Citirea și scrierea numerelor',                color: '#93C5FD', icon: '📝', generators: [G5.readLargeNum] },
