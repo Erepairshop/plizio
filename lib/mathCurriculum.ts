@@ -1910,6 +1910,14 @@ const G5: Record<string, Generator> = {
 
   // ── Unit conversions ─────────────────────────────────
   unitLength: (cc) => {
+    if (cc === "US") {
+      return pick([
+        () => { const ft = randInt(1, 8); const lang = getLang(cc); return q(`${ft} foot = ? inches`, ft * 12, t("unitConversion", cc)); },
+        () => { const yd = randInt(1, 5); return q(`${yd} yard${yd > 1 ? 's' : ''} = ? feet`, yd * 3, t("unitConversion", cc)); },
+        () => { const mi = randInt(1, 4); return q(`${mi} mile${mi > 1 ? 's' : ''} = ? feet (1 mile = 5,280 feet)`, mi * 5280, t("unitConversion", cc)); },
+        () => { const inch = pick([12, 24, 36]); return q(`${inch} inches = ? feet`, inch / 12, t("unitConversion", cc)); },
+      ])();
+    }
     return pick([
       () => { const km = randInt(1, 8); return q(qKmToM(km, cc), km * 1000, t("unitConversion", cc)); },
       () => { const m = randInt(2, 9); return q(qMetersInCm(m, cc), m * 100, t("unitConversion", cc)); },
@@ -1918,6 +1926,13 @@ const G5: Record<string, Generator> = {
   },
 
   unitMass: (cc) => {
+    if (cc === "US") {
+      return pick([
+        () => { const lb = randInt(1, 8); return q(`${lb} pound${lb > 1 ? 's' : ''} = ? ounces (1 pound = 16 oz)`, lb * 16, t("unitConversion", cc)); },
+        () => { const oz = pick([16, 32, 48, 64]); return q(`${oz} ounces = ? pounds`, oz / 16, t("unitConversion", cc)); },
+        () => { const ton = randInt(1, 4); return q(`${ton} ton${ton > 1 ? 's' : ''} = ? pounds (1 ton = 2,000 lbs)`, ton * 2000, t("unitConversion", cc)); },
+      ])();
+    }
     return pick([
       () => { const kg = randInt(1, 8); return q(qKgToG(kg, cc), kg * 1000, t("unitConversion", cc)); },
       () => { const t2 = randInt(1, 5); return q(qTonToKg(t2, cc), t2 * 1000, t("unitConversion", cc)); },
@@ -1926,6 +1941,13 @@ const G5: Record<string, Generator> = {
   },
 
   unitTime: (cc) => {
+    if (cc === "US") {
+      return pick([
+        () => { const h = randInt(1, 5); return q(qHoursToMinutes(h, cc), h * 60, t("unitConversion", cc)); },
+        () => { const startH = randInt(8, 11); const dur = randInt(1, 4); const endH = startH + dur; return q(`School starts at ${startH} AM and lasts ${dur} hour${dur > 1 ? 's' : ''}. What time does it end? (Enter hour, 1-12)`, endH > 12 ? endH - 12 : endH, t("unitConversion", cc)); },
+        () => { const h = randInt(2, 6); const amH = randInt(8, 11); return q(`It is ${amH} AM. What time will it be in ${h} hours? (Enter hour, 1-12)`, amH + h > 12 ? amH + h - 12 : amH + h, t("unitConversion", cc)); },
+      ])();
+    }
     return pick([
       () => { const h = randInt(1, 5); return q(qHoursToMinutes(h, cc), h * 60, t("unitConversion", cc)); },
       () => { const min = pick([30, 60, 90, 120, 180]); return q(qMinutesToHours(min, cc), min / 60, t("unitConversion", cc)); },
@@ -1936,23 +1958,30 @@ const G5: Record<string, Generator> = {
   unitMoney: (cc) => {
     const lang = getLang(cc);
     const cur = getCurrency(cc);
+    const isUS = cc === "US";
     return pick([
       () => {
-        const euros = randInt(1, 20);
-        const cent = euros * 100;
+        const dollars = randInt(1, 20);
+        const cents = dollars * 100;
         const prompts: Record<string,string> = {
-          DE: `${euros} € = ? Cent`, EN: `${euros} ${cur} = ? cents`, HU: `${euros} euró = ? cent`, RO: `${euros} euro = ? cenți`,
+          DE: `${dollars} € = ? Cent`, EN: isUS ? `${dollars} dollar${dollars > 1 ? 's' : ''} = ? cents` : `${dollars} ${cur} = ? cents`,
+          HU: `${dollars} euró = ? cent`, RO: `${dollars} euro = ? cenți`,
         };
-        return q(prompts[lang] ?? prompts.EN, cent, t("unitConversion", cc));
+        return q(prompts[lang] ?? prompts.EN, cents, t("unitConversion", cc));
       },
       () => {
-        const cent = randInt(1, 10) * 50;
-        const euros = cent / 100;
+        const cents = randInt(1, 10) * 50;
+        const dollars = cents / 100;
         const prompts: Record<string,string> = {
-          DE: `${cent} Cent = ? €`, EN: `${cent} cents = ? ${cur}`, HU: `${cent} cent = ? euró`, RO: `${cent} cenți = ? euro`,
+          DE: `${cents} Cent = ? €`, EN: isUS ? `${cents} cents = ? dollars` : `${cents} cents = ? ${cur}`,
+          HU: `${cents} cent = ? euró`, RO: `${cents} cenți = ? euro`,
         };
-        return q(prompts[lang] ?? prompts.EN, euros, t("unitConversion", cc));
+        return q(prompts[lang] ?? prompts.EN, dollars, t("unitConversion", cc));
       },
+      ...(isUS ? [() => {
+        const quarters = randInt(2, 8);
+        return q(`${quarters} quarters = ? cents (1 quarter = 25 cents)`, quarters * 25, t("unitConversion", cc));
+      }] : []),
     ])();
   },
 
@@ -2029,6 +2058,20 @@ const G5: Record<string, Generator> = {
   },
 
   wordTravel: (cc) => {
+    if (cc === "US") {
+      return pick([
+        () => {
+          const speed = pick([30, 40, 50, 60, 65]);
+          const time = randInt(2, 5);
+          const dist = speed * time;
+          return q(`A car drives at ${speed} mph for ${time} hours. How many miles does it travel?`, dist, t("wordProblem", cc), 0, true);
+        },
+        () => {
+          const miles = randInt(3, 8) * 10; const h = pick([2, 3, 4]);
+          return q(`A train travels ${miles * h} miles in ${h} hours. What is its average speed in mph?`, miles, t("wordProblem", cc), 0, true);
+        },
+      ])();
+    }
     return pick([
       () => {
         const speed = pick([40, 50, 60, 80, 100]);
