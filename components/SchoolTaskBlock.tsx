@@ -48,6 +48,8 @@ const SymmetryGrid = dynamic(() => import('./grade5-visual/SymmetryGrid'), { ssr
 const UnitConverter = dynamic(() => import('./grade5-visual/UnitConverter'), { ssr: false });
 const NumberLineArith = dynamic(() => import('./grade5-visual/NumberLineArith'), { ssr: false });
 const WordProblemVisual = dynamic(() => import('./grade5-visual/WordProblemVisual'), { ssr: false });
+const NegativeNumberLine = dynamic(() => import('./grade5-visual/NegativeNumberLine'), { ssr: false });
+const VolumeCuboid = dynamic(() => import('./grade5-visual/VolumeCuboid'), { ssr: false });
 const FractionPizzaAdder = dynamic(() => import('./grade4-visual/FractionPizzaAdder'), { ssr: false });
 const SymmetryMirror = dynamic(() => import('./grade4-visual/SymmetryMirror'), { ssr: false });
 const SequenceBuilder = dynamic(() => import('./grade4-visual/SequenceBuilder'), { ssr: false });
@@ -211,6 +213,10 @@ export default function SchoolTaskBlock({
         return <NumberLineArith start={p.start} operand={p.operand} operation={p.operation} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       case 'g5-word-problem':
         return <WordProblemVisual problemId={p.problemId} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-neg-line':
+        return <NegativeNumberLine startNum={p.startNum} addNum={p.addNum} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g5-volume-cuboid':
+        return <VolumeCuboid length={p.length} width={p.width} height={p.height} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       // Grade 1 visual components
       case 'g1-clock':
         return <G1AnalogClock hour={p.hour} minute={p.minute} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
@@ -373,7 +379,25 @@ export default function SchoolTaskBlock({
       case 'visual_g3_nl_sub':
       case 'visual_g3_rightangle':
       case 'visual_g3_perim_concept':
-      case 'visual_g3_area_compare': {
+      case 'visual_g3_area_compare':
+      case 'visual_g5_place_million':
+      case 'visual_g5_number_line':
+      case 'visual_g5_rounding':
+      case 'visual_g5_mul_array':
+      case 'visual_g5_div_share':
+      case 'visual_g5_frac_compare':
+      case 'visual_g5_frac_equiv':
+      case 'visual_g5_decimal_place':
+      case 'visual_g5_decimal_line':
+      case 'visual_g5_balance':
+      case 'visual_g5_shape_props':
+      case 'visual_g5_angle':
+      case 'visual_g5_perimeter':
+      case 'visual_g5_area':
+      case 'visual_g5_barchart':
+      case 'visual_g5_symmetry':
+      case 'visual_g5_unit_convert':
+      case 'visual_g5_nl_arith': {
         return (
           <div className="space-y-3">
             {block.subQuestions.map((sq, idx) => (

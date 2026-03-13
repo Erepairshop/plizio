@@ -16,10 +16,10 @@ interface AreaGridProps {
 }
 
 const LABELS: Record<string, Record<string, string>> = {
-  hu: { title: 'Terület kiszámítása', hint: 'Számold meg a négyzetcentimétereket!', submit: 'Ellenőrzés', correct: 'Helyes!', incorrect: 'Nem jó. Próbáld újra!', tryAgain: 'Újra', question: 'Hány négyzetcentiméter a területe?', unit: 'cm²', yourAnswer: 'Terület =' },
-  de: { title: 'Fläche berechnen', hint: 'Zähle die Quadratzentimeter!', submit: 'Prüfen', correct: 'Richtig!', incorrect: 'Falsch. Nochmal!', tryAgain: 'Nochmal', question: 'Wie viele Quadratzentimeter hat die Fläche?', unit: 'cm²', yourAnswer: 'Fläche =' },
-  en: { title: 'Calculate area', hint: 'Count the square centimetres!', submit: 'Check', correct: 'Correct!', incorrect: 'Not right. Try again!', tryAgain: 'Retry', question: 'How many square centimetres is the area?', unit: 'cm²', yourAnswer: 'Area =' },
-  ro: { title: 'Calculează aria', hint: 'Numără centimetrii pătrați!', submit: 'Verificare', correct: 'Corect!', incorrect: 'Greșit. Încearcă din nou!', tryAgain: 'Din nou', question: 'Câți centimetri pătrați are suprafața?', unit: 'cm²', yourAnswer: 'Arie =' },
+  hu: { title: 'Terület kiszámítása', hint: 'Számold meg a négyzetcentimétereket!', submit: 'Ellenőrzés', correct: 'Helyes!', incorrect: 'Nem jó. Próbáld újra!', tryAgain: 'Újra', question: 'Hány négyzetcentiméter a területe?', unit: 'cm²', yourAnswer: 'Terület =', cellUnit: '1 mező = 1' },
+  de: { title: 'Fläche berechnen', hint: 'Zähle die Quadratzentimeter!', submit: 'Prüfen', correct: 'Richtig!', incorrect: 'Falsch. Nochmal!', tryAgain: 'Nochmal', question: 'Wie viele Quadratzentimeter hat die Fläche?', unit: 'cm²', yourAnswer: 'Fläche =', cellUnit: '1 Feld = 1' },
+  en: { title: 'Calculate area', hint: 'Count the square centimetres!', submit: 'Check', correct: 'Correct!', incorrect: 'Not right. Try again!', tryAgain: 'Retry', question: 'How many square centimetres is the area?', unit: 'cm²', yourAnswer: 'Area =', cellUnit: '1 cell = 1' },
+  ro: { title: 'Calculează aria', hint: 'Numără centimetrii pătrați!', submit: 'Verificare', correct: 'Corect!', incorrect: 'Greșit. Încearcă din nou!', tryAgain: 'Din nou', question: 'Câți centimetri pătrați are suprafața?', unit: 'cm²', yourAnswer: 'Arie =', cellUnit: '1 celulă = 1' },
 };
 
 // Grid cell model: filled cells = area
@@ -165,7 +165,7 @@ const AreaGrid: React.FC<AreaGridProps> = ({
       {/* cm² unit reminder */}
       <div className="flex justify-center pb-2">
         <span className="text-xs font-bold text-orange-700 bg-orange-100 px-3 py-1 rounded-full border border-orange-200">
-          1 mező = 1 {t.unit}
+          {t.cellUnit} {t.unit}
         </span>
       </div>
 

@@ -5,6 +5,9 @@ import type { Language } from '@/lib/language';
 
 const T = {
   unit: { hu: "óra", de: "Std.", en: "hrs", ro: "ore" },
+  label: { hu: "Hány óra telt el?", de: "Wie viele Stunden sind vergangen?", en: "How many hours passed?", ro: "Câte ore au trecut?" },
+  start: { hu: "START", de: "START", en: "START", ro: "START" },
+  stop: { hu: "STOP", de: "STOP", en: "STOP", ro: "STOP" },
 } as const;
 
 interface Props {
@@ -91,10 +94,10 @@ const TimelineDuration: React.FC<Props> = ({
 
           {/* A két nagy óra */}
           <g transform="translate(80, 50)">
-            <HDClock hour={startHour} color="#FF2D78" label="START" />
+            <HDClock hour={startHour} color="#FF2D78" label={T.start[lang]} />
           </g>
           <g transform="translate(420, 50)">
-            <HDClock hour={endHour} color="#00FF88" label="STOP" />
+            <HDClock hour={endHour} color="#00FF88" label={T.stop[lang]} />
           </g>
 
           {/* Központi kérdőjel "vibráló" effekttel */}
@@ -105,8 +108,13 @@ const TimelineDuration: React.FC<Props> = ({
         </svg>
       </div>
 
+      {/* Instruction */}
+      <p className={`text-xs font-semibold text-center px-2 pt-2 ${embedded ? 'text-slate-500' : 'text-white/50 uppercase tracking-[0.2em]'}`}>
+        {T.label[lang]}
+      </p>
+
       {/* Input Mező */}
-      <div className="flex items-center gap-4 mt-6 bg-[#1a1a2e] p-4 rounded-3xl border border-white/10 shadow-2xl">
+      <div className="flex items-center gap-4 mt-2 bg-[#1a1a2e] p-4 rounded-3xl border border-white/10 shadow-2xl">
          <input
             type="text"
             inputMode="numeric"

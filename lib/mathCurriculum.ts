@@ -8,6 +8,18 @@ import {
   t, getTranslatedPeriodLabel, getNames, getItems, getCurrency,
   qCompare, wpHasFruit, wpLostItems, wpColoredItems, wpAte, wpBus,
   wpBirds, wpGifts, wpFlowers, wpShared, wpSteps,
+  wpFoundInNature, wpBirthdayPresents, wpFilledBag, wpKidsJoined, wpCoinsInBank,
+  wpMarketBasket, wpBuiltTower, wpCollectedStickers, wpSchoolSupplies,
+  wpKidsWentHome, wpAteFromPlate, wpGavePencils, wpBirdsOnFence,
+  wpUsedPaper, wpGotOffBus, wpPickedRipeFruit, wpSoldAtMarket,
+  wpCompareToys, wpMissingBalls, wpBookshelf,
+  wpClassroomTable, wpSavingsGoal, wpBakery, wpLibraryReturn, wpSchoolTrip,
+  wpSwimmingPool, wpGardenFlowers, wpSportsDay,
+  wpBikeTrip, wpBoxesInWarehouse, wpSchoolCafe, wpFruitShop,
+  wpOrchardRows, wpBooksOrdered, wpCityTrip, wpTruckDelivery, wpEventOrganizer,
+  wpFactoryProduction, wpStampCollection, wpSchoolMeal, wpWarehouseStock,
+  wpConstructionBricks, wpConferenceSeats, wpBookPublisher, wpSchoolRenovation,
+  wpFarmHarvest, wpSportArena, wpCarRentalFleet, wpSchoolSupplyOrder, wpTrainJourney,
   wpSchool, wpBought, wpEachGets, wpShare,
   qHowManyCmInM, qHowManyGInKg, qHowManyMinInH, qMetersInCm, qHoursInMin,
   qMlInL, qLiterToMl, qKmToM, qTonToKg, qLiterToDl,
@@ -38,6 +50,7 @@ import {
   qVorgaenger, qNachfolger, qZaehlen, qTauschaufgabe, qZahlzerlegung,
   qVerdoppeln, qHalbieren, qShapeCorners, qLaenger, qG1Wochentage,
   qG1Spatial, qG1Weight, qG1WeightB, qG1WeightC, qG1Volume, qG1VolumeB, qG1VolumeC,
+  qG1VolumeD, qG1VolumeE, qG1VolumeFits, qG1VolumeFillUp, qG1VolumePool,
   qG1Pattern, qG1NumberOrder, qG1DataTable,
   qRoundTo10, qRoundTo100,
   qCircleCircumference, qCircleArea,
@@ -145,6 +158,264 @@ export interface RealisticKlassenarbeit {
   tasks: GroupedTask[];
 }
 
+// ─── TOPIC CONSTRAINT SYSTEM ────────────────────────────────────────────────
+// Ha a tanuló kiválaszt egy "szám-tartomány-jelző" témakört (pl. "összeadás 1-10-ig"),
+// a rendszer automatikusan leszűkíti az összes többi kiválasztott témakör generátorait
+// ugyanarra a tartományra. Így a fogalmak között teljes összefüggés van.
+
+export interface TopicConstraint {
+  maxNumber: number;
+}
+
+/**
+ * Melyik topic key mekkora számtartományt "jelent"?
+ * Ha egy tanuló kiválaszt egy ilyen témát, a constraint ebből az értékből fog szármnazni.
+ */
+export const TOPIC_NUMBER_RANGE: Partial<Record<string, number>> = {
+  // Grade 1 — 1-10
+  'add10': 10, 'sub10': 10, 'missing10': 10, 'missing10sub': 10,
+  'g1_count': 10, 'g1_addpics': 10, 'g1_subpics': 10,
+  'g1_zahlzerlegung': 10, 'g1_ergaenzen': 10, 'g1_verdoppeln': 10, 'g1_halbieren': 10,
+  // Grade 1 — 1-20
+  'add20': 20, 'sub20': 20, 'g1_num1120': 20, 'g1_place_value20': 20, 'g1_tausch': 20,
+  // Grade 2 — 1-100
+  'add100': 100, 'sub100': 100, 'add100b': 100, 'sub100b': 100,
+  'g2_zahlen100': 100, 'g2_add_ohne': 100, 'g2_add_mit': 100,
+  'g2_sub_ohne': 100, 'g2_sub_mit': 100, 'g2_add_kopf': 100, 'g2_sub_kopf': 100,
+  'g2_add3': 100, 'g2_add_visual': 100, 'g2_sub_visual': 100,
+  'g2_mul_simple': 100, 'mul2510': 100, 'mul2510b': 100,
+  'g2_div_simple': 100, 'div2510': 100,
+  // Grade 2 — topics missing from map caused constraint override (fixed 2026-03-13)
+  'g2_missing_add': 100, 'g2_mul_rep': 100, 'g2_seq': 100, 'g2_missing': 100,
+  'g2_zahlen100_r': 100, 'g2_compare': 100, 'g2_vorgaenger': 100, 'g2_nachbarn': 100,
+  'g2_zerlegung': 100, 'g2_add_word': 100, 'g2_sub_word': 100,
+  'g2_mul_group': 100, 'g2_mul_visual': 100, 'g2_div_share': 100,
+  'g2_round': 100, 'g2_length': 100, 'g2_time': 100, 'g2_weights': 100,
+  'g2_tables': 100, 'g2_diagrams': 100, 'g2_word_add': 100, 'g2_word_sub': 100, 'g2_word_mul': 100,
+  // Grade 3 — 1-1000
+  'add1000': 1000, 'sub1000': 1000, 'add1000b': 1000, 'sub1000b': 1000,
+  'g3_add': 1000, 'g3_sub': 1000, 'g3_add_kopf': 1000, 'g3_sub_kopf': 1000,
+  'g3_mul': 1000, 'g3_div': 1000, 'mul': 1000,
+  // Grade 4 — 1-10000
+  'add10000': 10000, 'sub10000': 10000,
+  'g4_add': 10000, 'g4_sub': 10000, 'g4_mul': 10000, 'g4_div': 10000,
+  // Grade 5 — általános számok (nincs explicit maxNumber, de ismerjük az összeadás/kivonást)
+  'g5_add': 100000, 'g5_sub': 100000,
+};
+
+/**
+ * Melyik topic key milyen számtani műveletet végez?
+ * Ez alapján választjuk ki a constrained generátorokat.
+ */
+const TOPIC_OPERATION_TYPE: Partial<Record<string, 'add' | 'sub' | 'mul' | 'div' | 'mixed' | 'word'>> = {
+  // Addition topics
+  'add10': 'add', 'add20': 'add', 'add100': 'add', 'add100b': 'add',
+  'add1000': 'add', 'add1000b': 'add', 'add10000': 'add',
+  'g1_addpics': 'add', 'g2_add_ohne': 'add', 'g2_add_mit': 'add',
+  'g2_add_kopf': 'add', 'g2_add3': 'add', 'g2_add_visual': 'add',
+  'g3_add': 'add', 'g3_add_kopf': 'add', 'g4_add': 'add', 'g5_add': 'add',
+  // Subtraction topics
+  'sub10': 'sub', 'sub20': 'sub', 'sub100': 'sub', 'sub100b': 'sub',
+  'sub1000': 'sub', 'sub1000b': 'sub',
+  'g1_subpics': 'sub', 'g2_sub_ohne': 'sub', 'g2_sub_mit': 'sub',
+  'g2_sub_kopf': 'sub', 'g2_sub_visual': 'sub',
+  'g3_sub': 'sub', 'g3_sub_kopf': 'sub', 'g4_sub': 'sub', 'g5_sub': 'sub',
+  // Mixed / missing number
+  'missing10': 'mixed', 'missing10sub': 'mixed',
+  'g1_zahlzerlegung': 'mixed', 'g1_ergaenzen': 'mixed', 'g1_tausch': 'mixed',
+  'g2_missing_add': 'mixed', 'g2_seq': 'mixed', 'g2_missing': 'mixed',
+  // Multiplication
+  'mul2510': 'mul', 'mul2510b': 'mul', 'g2_mul_simple': 'mul', 'g2_mul_rep': 'mul',
+  'mul': 'mul', 'g3_mul': 'mul', 'g4_mul': 'mul',
+  // Division
+  'div2510': 'div', 'g2_div_simple': 'div', 'g3_div': 'div', 'g4_div': 'div',
+  // Word problems
+  'word': 'word', 'g2_add_word': 'word', 'g2_sub_word': 'word',
+  'g2_word_add': 'word', 'g2_word_sub': 'word', 'g2_word_mul': 'word',
+  'g3_word': 'word', 'g4_word': 'word',
+};
+
+/**
+ * Elveszi az összes kiválasztott topic key-ből a legszigorúbb (legkisebb maxNumber) constraintet.
+ * Ha nincs egyetlen range-jelző topic sem, null-t ad vissza (nincs constraint).
+ */
+export function deriveTopicConstraint(topicKeys: string[]): TopicConstraint | null {
+  const ranges = topicKeys
+    .map(k => TOPIC_NUMBER_RANGE[k])
+    .filter((r): r is number => r !== undefined);
+  if (ranges.length === 0) return null;
+  return { maxNumber: Math.min(...ranges) };
+}
+
+// ─── CONSTRAINED GENERATOR FACTORIES ───────────────────────────────────────
+// Ezeket akkor használjuk, ha egy topic meghaladja a constraint maxNumber értékét.
+
+function makeConstrainedAddGen(maxN: number): (cc: string) => MathQuestion {
+  return (cc: string) => {
+    const safeMax = Math.max(maxN, 3);
+    const a = randInt(1, safeMax - 1);
+    const b = randInt(1, safeMax - a);
+    return { question: `${a} + ${b} = ?`, correctAnswer: a + b, options: generateOptionsC(a + b, 0, safeMax + 2), topic: 'addition', isWordProblem: false };
+  };
+}
+
+function makeConstrainedSubGen(maxN: number): (cc: string) => MathQuestion {
+  return (cc: string) => {
+    const safeMax = Math.max(maxN, 3);
+    const a = randInt(2, safeMax);
+    const b = randInt(1, a - 1);
+    return { question: `${a} - ${b} = ?`, correctAnswer: a - b, options: generateOptionsC(a - b, 0, safeMax), topic: 'subtraction', isWordProblem: false };
+  };
+}
+
+function makeConstrainedMixedGen(maxN: number): (cc: string) => MathQuestion {
+  return (cc: string) => {
+    const safeMax = Math.max(maxN, 3);
+    if (Math.random() < 0.5) {
+      const a = randInt(1, safeMax - 1);
+      const b = randInt(1, safeMax - a);
+      return { question: `${a} + ${b} = ?`, correctAnswer: a + b, options: generateOptionsC(a + b, 0, safeMax + 2), topic: 'addition', isWordProblem: false };
+    } else {
+      const a = randInt(2, safeMax);
+      const b = randInt(1, a - 1);
+      const missing = randInt(0, 1) === 0;
+      if (missing) {
+        return { question: `${a} - ? = ${a - b}`, correctAnswer: b, options: generateOptionsC(b, 0, safeMax), topic: 'missingNumber', isWordProblem: false };
+      }
+      return { question: `${a} - ${b} = ?`, correctAnswer: a - b, options: generateOptionsC(a - b, 0, safeMax), topic: 'subtraction', isWordProblem: false };
+    }
+  };
+}
+
+function makeConstrainedMulGen(maxN: number): (cc: string) => MathQuestion {
+  return (cc: string) => {
+    const maxFactor = Math.min(10, Math.floor(Math.sqrt(maxN)));
+    const a = randInt(1, maxFactor);
+    const b = randInt(1, Math.min(10, Math.floor(maxN / a)));
+    return { question: `${a} × ${b} = ?`, correctAnswer: a * b, options: generateOptionsC(a * b, 0, maxN + 5), topic: 'multiplication', isWordProblem: false };
+  };
+}
+
+// Constrained word problem generator — valódi narratív szöveges feladatok maxN-en belül.
+// Ezeket akkor használjuk, ha a 'word' topic meghaladja a constraint maxNumber értékét.
+// Az import körkörös függőség elkerülése miatt itt lokálisan duplikáljuk a szükséges hívásokat.
+function makeConstrainedWordGen(maxN: number): (cc: string) => MathQuestion {
+  return (cc: string) => {
+    // Kezelt módszerek: addition, subtraction, comparison
+    const scenario = randInt(0, 5);
+    const a = randInt(2, Math.max(2, Math.floor(maxN * 0.7)));
+    const b = scenario < 3
+      ? randInt(1, Math.min(maxN - a, Math.max(1, maxN - a)))   // add: a+b ≤ maxN
+      : randInt(1, a - 1 > 0 ? a - 1 : 1);                      // sub: a-b ≥ 1
+    const answer = scenario < 3 ? a + b : a - b;
+    const safeA = Math.max(2, a), safeB = Math.max(1, b);
+    // Beépített mini narratívák — nem importálunk, mert az import körre megy
+    const lang = getLang(cc);
+    const addStories: Record<string, string[]> = {
+      DE: [
+        `Im Korb liegen ${safeA} Äpfel. Mama legt noch ${safeB} dazu. Wie viele sind es jetzt?`,
+        `${safeA} Kinder spielen Fangen. Dann kommen ${safeB} weitere dazu. Wie viele spielen jetzt?`,
+        `In der Tasche sind ${safeA} Stifte. ${safeB} kommen noch hinzu. Wie viele Stifte sind es jetzt?`,
+      ],
+      EN: [
+        `There are ${safeA} apples in the basket. Mum adds ${safeB} more. How many are there now?`,
+        `${safeA} children are playing tag. ${safeB} more join in. How many are playing now?`,
+        `There are ${safeA} pencils in the bag. ${safeB} more are put in. How many pencils are there now?`,
+      ],
+      RO: [
+        `În coș sunt ${safeA} mere. Mama mai pune ${safeB}. Câte sunt acum?`,
+        `${safeA} copii se joacă. Vin încă ${safeB}. Câți copii se joacă acum?`,
+        `În geantă sunt ${safeA} creioane. Se mai pun ${safeB}. Câte creioane sunt acum?`,
+      ],
+      HU: [
+        `A kosárban ${safeA} alma van. Anyu betesz még ${safeB}-t. Hány alma van most?`,
+        `${safeA} gyerek játszik fogócskát. Jön még ${safeB}. Hányan játszanak most?`,
+        `A táskában ${safeA} ceruza van. Beletesznek még ${safeB}-t. Hány ceruza van most?`,
+      ],
+    };
+    const subStories: Record<string, string[]> = {
+      DE: [
+        `Auf dem Teller lagen ${safeA} Kekse. ${safeB} wurden gegessen. Wie viele sind noch da?`,
+        `Im Bus saßen ${safeA} Personen. An der Haltestelle stiegen ${safeB} aus. Wie viele sind noch im Bus?`,
+        `${safeA} Vögel saßen auf dem Ast. ${safeB} flogen davon. Wie viele sitzen noch dort?`,
+      ],
+      EN: [
+        `There were ${safeA} cookies on the plate. ${safeB} were eaten. How many are left?`,
+        `${safeA} people were on the bus. ${safeB} got off. How many are still on the bus?`,
+        `${safeA} birds were sitting on the branch. ${safeB} flew away. How many are still there?`,
+      ],
+      RO: [
+        `Pe farfurie erau ${safeA} biscuiți. S-au mâncat ${safeB}. Câți au rămas?`,
+        `În autobuz erau ${safeA} persoane. Au coborât ${safeB}. Câte persoane mai sunt?`,
+        `${safeA} păsări stăteau pe creangă. ${safeB} au zburat. Câte mai sunt?`,
+      ],
+      HU: [
+        `A tányéron ${safeA} keksz volt. Megettünk ${safeB}-t. Hány maradt?`,
+        `A buszon ${safeA} ember ült. ${safeB} leszállt. Hányan maradtak?`,
+        `${safeA} madár ült az ágon. ${safeB} elrepült. Hány maradt?`,
+      ],
+    };
+    const stories = scenario < 3 ? addStories : subStories;
+    const pool = stories[lang] || stories['HU'];
+    const text = pool[randInt(0, pool.length - 1)];
+    return { question: text, correctAnswer: answer, options: generateOptionsC(answer, 0, maxN + 3), topic: 'wordProblem', isWordProblem: true };
+  };
+}
+
+// Helper: generate 4 distinct options centered around `correct` within [minVal, maxVal]
+function generateOptionsC(correct: number, minVal: number, maxVal: number): number[] {
+  const opts = new Set<number>([correct]);
+  const spread = Math.max(2, Math.ceil(Math.abs(correct) * 0.3) + 1);
+  let attempts = 0;
+  while (opts.size < 4 && attempts < 80) {
+    const offset = randInt(1, spread) * (Math.random() > 0.5 ? 1 : -1);
+    const wrong = correct + offset;
+    if (wrong >= minVal && wrong <= maxVal && wrong !== correct) opts.add(wrong);
+    attempts++;
+  }
+  let fill = 1;
+  while (opts.size < 4) {
+    if (correct + fill <= maxVal && !opts.has(correct + fill)) opts.add(correct + fill);
+    else if (correct - fill >= minVal && !opts.has(correct - fill)) opts.add(correct - fill);
+    fill++;
+  }
+  const arr = [...opts];
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+/**
+ * Adott topic key-hez és constraint-hez visszaadja a constrained generátorokat.
+ * Ha a topic-hoz nincs explicit constrained generator (pl. geometria), null-t ad vissza.
+ */
+function getConstrainedGenerators(
+  topicKey: string,
+  constraint: TopicConstraint
+): ((cc: string) => MathQuestion)[] | null {
+  const opType = TOPIC_OPERATION_TYPE[topicKey];
+  if (!opType) return null; // Nem számtani topic (geometria, óra, stb.) → nem constraináljuk
+
+  const maxN = constraint.maxNumber;
+  switch (opType) {
+    case 'add':
+      return [makeConstrainedAddGen(maxN)];
+    case 'sub':
+      return [makeConstrainedSubGen(maxN)];
+    case 'mixed':
+      return [makeConstrainedMixedGen(maxN)];
+    case 'mul':
+      if (maxN < 4) return [makeConstrainedAddGen(maxN)]; // túl kicsi a szorzáshoz
+      return [makeConstrainedMulGen(maxN)];
+    case 'word':
+      return [makeConstrainedWordGen(maxN)];
+    default:
+      return null;
+  }
+}
+
 // ─── HELPERS ─────────────────────────────
 
 function randInt(min: number, max: number): number {
@@ -181,6 +452,16 @@ function generateOptions(correct: number, minVal: number = 0): number[] {
 
 function q(question: string, correctAnswer: number, topic: string, minOpt = 0, isWordProblem = false): MathQuestion {
   return { question, correctAnswer, options: generateOptions(correctAnswer, minOpt), topic, isWordProblem };
+}
+
+// qd = q with pedagogically meaningful distractors
+// Preferred distractors are used first; remainder filled by generateOptions
+function qd(question: string, correct: number, topic: string, distractors: number[], isWordProblem = false, minVal = 0): MathQuestion {
+  const opts = new Set<number>([correct]);
+  for (const d of distractors) { if (d !== correct && d >= minVal && opts.size < 4) opts.add(d); }
+  const gen = generateOptions(correct, minVal);
+  for (const b of gen) { if (opts.size < 4) opts.add(b); }
+  return { question, correctAnswer: correct, options: shuffleArray([...opts]), topic, isWordProblem };
 }
 
 function qs(question: string, correctAnswer: string, topic: string, isWordProblem = false): MathQuestion {
@@ -239,76 +520,136 @@ const G1: Record<string, Generator> = {
   },
   missing10: (cc) => {
     const a = randInt(1, 7), b = randInt(1, 9 - a);
-    return q(qMissingInEquation(`${a} + ? = ${a + b}`, cc), b, t("missingNumber", cc));
+    // Typical errors: writes the total (a+b), writes the known part (a), off by 1
+    return qd(qMissingInEquation(`${a} + ? = ${a + b}`, cc), b, t("missingNumber", cc), [a + b, a, b + 1]);
   },
   missing10sub: (cc) => {
     const a = randInt(4, 10), b = randInt(1, a - 1);
-    return q(qMissingInEquation(`${a} - ? = ${a - b}`, cc), b, t("missingNumber", cc));
+    // Typical errors: writes minuend (a), writes the result (a-b), off by 1
+    return qd(qMissingInEquation(`${a} - ? = ${a - b}`, cc), b, t("missingNumber", cc), [a, a - b, b + 1]);
   },
+  // G1 szöveges feladatok — nagy pool, sok különböző kontextus és megfogalmazás
   word1: (cc) => {
-    const names = getNames(cc); const items = getItems(cc);
-    const name = pick(names.girls); const fruit = pick(items.fruits);
-    const a = randInt(2, 7), b = randInt(1, 8 - a);
-    return q(wpHasFruit(name, fruit, a, b, cc), a + b, t("wordProblem", cc), 0, true);
+    // Addition pool: 9 különböző "összeadásos" forgatókönyv
+    const ns = getNames(cc), it = getItems(cc);
+    return pick([
+      () => { const nm = pick(ns.girls), fr = pick(it.fruits), a = randInt(2,7), b = randInt(1,8-a); return q(wpHasFruit(nm,fr,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), fr = pick(it.fruits), a = randInt(2,6), b = randInt(1,7-a); return q(wpFoundInNature(nm,fr,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.girls), st = it.sticker, a = randInt(2,5), b = randInt(1,5); return q(wpBirthdayPresents(nm,st,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const fr = pick(it.fruits), a = randInt(3,6), b = randInt(2,6); return q(wpFilledBag(fr,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(3,8), b = randInt(2,5); return q(wpKidsJoined(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.girls), a = randInt(2,6), b = randInt(1,5); return q(wpCoinsInBank(nm,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), a = randInt(2,6), b = randInt(1,5); return q(wpBuiltTower(nm,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.girls), a = randInt(2,5), b = randInt(1,5); return q(wpCollectedStickers(nm,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), a = randInt(3,8), b = randInt(2,6); return q(wpSteps(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+    ])();
   },
   word2: (cc) => {
-    const names = getNames(cc); const items = getItems(cc);
-    const name = pick(names.boys); const toy = pick(items.toys);
-    const a = randInt(4, 10), b = randInt(1, a - 1);
-    return q(wpLostItems(name, toy, a, b, cc), a - b, t("wordProblem", cc), 0, true);
+    // Subtraction pool: 8 különböző "kivonásos" forgatókönyv
+    const ns = getNames(cc), it = getItems(cc);
+    return pick([
+      () => { const nm = pick(ns.boys), toy = pick(it.toys), a = randInt(4,10), b = randInt(1,a-1); return q(wpLostItems(nm,toy,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.girls), sw = pick(it.sweets), a = randInt(5,9), b = randInt(1,a-1); return q(wpAteFromPlate(nm,sw,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), a = randInt(4,9), b = randInt(1,a-1); return q(wpGavePencils(nm,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(5,10), b = randInt(1,a-1); return q(wpBirdsOnFence(a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.girls), a = randInt(4,10), b = randInt(1,a-1); return q(wpGifts(nm,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), a = randInt(5,9), b = randInt(1,a-1); return q(wpUsedPaper(nm,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(5,10), b = randInt(1,a-1); return q(wpBirds(a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const fr = pick(it.fruits), a = randInt(6,10), b = randInt(1,a-2); return q(wpSoldAtMarket(fr,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+    ])();
   },
   word3: (cc) => {
-    const items = getItems(cc);
-    const a = randInt(3, 9), b = randInt(2, 8);
-    return q(wpColoredItems(items.red, a, items.blue, b, items.pencil, cc), a + b, t("wordProblem", cc), 0, true);
+    // Mixed addition pool — különböző tárgyak, helyzetekszínek
+    const it = getItems(cc), ns = getNames(cc);
+    return pick([
+      () => { const a = randInt(3,9), b = randInt(2,8); return q(wpColoredItems(it.red,a,it.blue,b,it.pencil,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(2,8), b = randInt(1,7); return q(wpFlowers(a,it.red,b,it.blue,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), a = randInt(2,6), b = randInt(1,6); return q(wpSchoolSupplies(nm,it.pencil,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(3,6), b = randInt(2,6); return q(wpMarketBasket(it.fruits[0],a,it.fruits[1],b,cc), a+b, t("wordProblem",cc),0,true); },
+    ])();
   },
   word4: (cc) => {
-    const items = getItems(cc);
-    const a = randInt(5, 14), b = randInt(1, a - 2);
-    return q(wpAte(a, b, pick(items.sweets), cc), a - b, t("wordProblem", cc), 0, true);
+    // Subtraction pool — konkrét tárgyak elfogyasztása, elvesztése
+    const it = getItems(cc), ns = getNames(cc);
+    return pick([
+      () => { const sw = pick(it.sweets), a = randInt(5,9), b = randInt(1,a-2); return q(wpAte(a,b,sw,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const fr = pick(it.fruits), nm = pick(ns.girls), a = randInt(5,9), b = randInt(1,a-1); return q(wpPickedRipeFruit(nm,fr,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(5,10), b = randInt(1,a-2); return q(wpKidsWentHome(a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const fr = pick(it.fruits), a = randInt(5,9), b = randInt(1,a-2); return q(wpSoldAtMarket(fr,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+    ])();
   },
   word5: (cc) => {
-    const a = randInt(3, 8), b = randInt(2, 6);
-    return q(wpBus(a, b, cc), a + b, t("wordProblem", cc), 0, true);
+    // Transport / movement stories
+    const ns = getNames(cc);
+    return pick([
+      () => { const a = randInt(3,8), b = randInt(2,6); return q(wpBus(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(4,9), b = randInt(2,5); return q(wpKidsJoined(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(5,9), b = randInt(1,a-1); return q(wpGotOffBus(a,b,cc), a-b, t("wordProblem",cc),0,true); },
+    ])();
   },
   word6: (cc) => {
-    const a = randInt(5, 12), b = randInt(1, a - 2);
-    return q(wpBirds(a, b, cc), a - b, t("wordProblem", cc), 0, true);
+    // Nature / outdoors stories
+    const ns = getNames(cc), it = getItems(cc);
+    return pick([
+      () => { const a = randInt(5,10), b = randInt(1,a-1); return q(wpBirds(a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(5,9), b = randInt(2,a-1); return q(wpBirdsOnFence(a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), fr = pick(it.fruits), a = randInt(4,9), b = randInt(1,a-2); return q(wpPickedRipeFruit(nm,fr,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.girls), fr = pick(it.fruits), a = randInt(2,5), b = randInt(1,5); return q(wpFoundInNature(nm,fr,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+    ])();
   },
   word7: (cc) => {
-    const names = getNames(cc);
-    const name = pick(names.girls);
-    const a = randInt(4, 10), b = randInt(1, a - 1);
-    return q(wpGifts(name, a, b, cc), a - b, t("wordProblem", cc), 0, true);
+    // Possessions — giving / losing / sharing
+    const ns = getNames(cc), it = getItems(cc);
+    return pick([
+      () => { const nm = pick(ns.girls), a = randInt(4,9), b = randInt(1,a-1); return q(wpGifts(nm,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), toy = pick(it.toys), a = randInt(4,9), b = randInt(1,a-1); return q(wpLostItems(nm,toy,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.girls), a = randInt(4,9), b = randInt(1,a-1); return q(wpGavePencils(nm,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const total = randInt(6,10), share = randInt(2,total-2); const nm = pick(ns.boys); return q(wpShared(total,nm,share,cc), total-share, t("wordProblem",cc),0,true); },
+    ])();
   },
   word8: (cc) => {
-    const items = getItems(cc);
-    const colorA = items.red, colorB = items.blue;
-    const a = randInt(2, 8), b = randInt(1, 7);
-    return q(wpFlowers(a, colorA, b, colorB, cc), a + b, t("wordProblem", cc), 0, true);
+    // Home / family stories — addition
+    const ns = getNames(cc), it = getItems(cc);
+    return pick([
+      () => { const a = randInt(2,8), b = randInt(1,7); return q(wpFlowers(a,it.red,b,it.blue,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.girls), fr = pick(it.fruits), a = randInt(2,5), b = randInt(1,5); return q(wpBirthdayPresents(nm,fr,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), a = randInt(2,5), b = randInt(1,4); return q(wpCoinsInBank(nm,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const fr = pick(it.fruits), a = randInt(3,6), b = randInt(2,5); return q(wpFilledBag(fr,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+    ])();
   },
   word9: (cc) => {
-    const names = getNames(cc);
-    const name = pick(names.boys);
-    const total = randInt(6, 14), share = randInt(2, total - 1);
-    return q(wpShared(total, name, share, cc), total - share, t("wordProblem", cc), 0, true);
+    // Comparison / missing number stories
+    const ns = getNames(cc), it = getItems(cc);
+    return pick([
+      () => { const nm = pick(ns.boys), total = randInt(6,10), share = randInt(2,total-2); return q(wpShared(total,nm,share,cc), total-share, t("wordProblem",cc),0,true); },
+      () => { const nmA = pick(ns.girls), nmB = pick(ns.boys), toy = pick(it.toys), a = randInt(3,8), b = randInt(2,7); return q(wpBookshelf(nmA,a,nmB,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const fr = pick(it.fruits), tot = randInt(6,10), left = randInt(2,tot-2); return q(wpMissingBalls(fr,tot,left,cc), tot-left, t("wordProblem",cc),0,true); },
+    ])();
   },
   word10: (cc) => {
-    const a = randInt(3, 9), b = randInt(2, 8);
-    return q(wpSteps(a, b, cc), a + b, t("wordProblem", cc), 0, true);
+    // Mixed final pool — változatos
+    const ns = getNames(cc), it = getItems(cc);
+    return pick([
+      () => { const a = randInt(3,8), b = randInt(2,7); return q(wpSteps(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), a = randInt(2,6), b = randInt(2,5); return q(wpBuiltTower(nm,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(3,8), b = randInt(2,6); return q(wpKidsJoined(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(3,8), b = randInt(1,7); return q(wpColoredItems(it.red,a,it.blue,b,it.sticker,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.girls), st = it.sticker, a = randInt(2,5), b = randInt(2,5); return q(wpCollectedStickers(nm,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+    ])();
   },
   evenOdd: (cc) => {
     return Math.random() < 0.5
-      ? (() => { const n = randInt(1, 9) * 2; return q(qNextEven(n, cc), n + 2, t("evenOdd", cc)); })()
-      : (() => { const n = randInt(0, 8) * 2 + 1; return q(qNextOdd(n, cc), n + 2, t("evenOdd", cc)); })();
+      // Typical errors: n+1 (next number, wrong parity), n+3 (jumped one too many), n (same number)
+      ? (() => { const n = randInt(1, 9) * 2; return qd(qNextEven(n, cc), n + 2, t("evenOdd", cc), [n + 1, n + 3, n]); })()
+      : (() => { const n = randInt(0, 8) * 2 + 1; return qd(qNextOdd(n, cc), n + 2, t("evenOdd", cc), [n + 1, n + 3, n]); })();
   },
   clock1: (cc) => {
-    if (cc === "US") {
-      const h = randInt(1, 12);
-      return q(qClockFullHour(h, cc), h, t("clockReading", cc));
-    }
     const h = randInt(1, 12);
-    return q(qClockFullHour(h, cc), h, t("clockReading", cc));
+    // Typical errors: ±1 hour (miscounting), opposite side of clock (6 hours off)
+    const hPrev = h > 1 ? h - 1 : 12;
+    const hNext = h < 12 ? h + 1 : 1;
+    const hOpp = h <= 6 ? h + 6 : h - 6;
+    return qd(qClockFullHour(h, cc), h, t("clockReading", cc), [hPrev, hNext, hOpp]);
   },
   // ── G1 Visual topic text-based generators ──
   clockQuarter: (cc) => {
@@ -317,17 +658,26 @@ const G1: Record<string, Generator> = {
     return qs(qG1ClockQuarter(h, m, cc), `${h}:${String(m).padStart(2, "0")}`, t("clockReading", cc));
   },
   numberLine: (cc) => {
-    const min = 0, max = 20, step = 1;
-    const marked = randInt(min, max);
-    return q(qG1NumberLine(min, max, marked, cc), marked, t("g1NumberLine", cc));
+    // "between" question — tests number line concept without needing a visual
+    const n = randInt(1, 19);
+    const lang = getLang(cc);
+    let question: string;
+    switch (lang) {
+      case "DE": question = `Welche Zahl liegt genau zwischen ${n - 1} und ${n + 1}?`; break;
+      case "EN": question = `Which number is exactly between ${n - 1} and ${n + 1}?`; break;
+      case "RO": question = `Ce număr se află exact între ${n - 1} și ${n + 1}?`; break;
+      default:   question = `Melyik szám van pontosan ${n - 1} és ${n + 1} között?`; break;
+    }
+    return q(question, n, t("g1NumberLine", cc));
   },
   placeValue: (cc) => {
     const n = randInt(11, 99);
     const tens = Math.floor(n / 10), ones = n % 10;
     const r = Math.random();
-    if (r < 0.33) return q(qG1PlaceValueTens(n, cc), tens, t("g1PlaceValue", cc));
-    if (r < 0.66) return q(qG1PlaceValueOnes(n, cc), ones, t("g1PlaceValue", cc));
-    return q(qG1PlaceValueTotal(tens, ones, cc), n, t("g1PlaceValue", cc));
+    // Typical errors: writes whole number, confuses tens/ones digit, off by 1
+    if (r < 0.33) return qd(qG1PlaceValueTens(n, cc), tens, t("g1PlaceValue", cc), [n, ones || tens + 2, tens + 1]);
+    if (r < 0.66) return qd(qG1PlaceValueOnes(n, cc), ones, t("g1PlaceValue", cc), [n, tens, ones + 1]);
+    return qd(qG1PlaceValueTotal(tens, ones, cc), n, t("g1PlaceValue", cc), [tens, ones, n + 1]);
   },
   gridCount: (cc) => {
     const rows = randInt(3, 5), cols = randInt(3, 5);
@@ -356,19 +706,26 @@ const G1: Record<string, Generator> = {
     ].filter(c => c.count > 0);
     const total = coinTypes.reduce((s, c) => s + c.value * c.count, 0);
     const desc = coinTypes.map(c => `${c.count}×${c.value}${cur}`).join(" + ");
-    return q(qG1Coins(desc, cur, cc), total, t("g1Coins", cc));
+    // Typical errors: missed one smallest coin (-minVal), counted one extra (+1), off by 1
+    const minCoinVal = coinTypes.reduce((m, c) => Math.min(m, c.value), 99);
+    return qd(qG1Coins(desc, cur, cc), total, t("g1Coins", cc), [total - 1, total + 1, Math.max(1, total - minCoinVal)], false, 1);
   },
   timeline: (cc) => {
     const startH = randInt(7, 16);
     const diff = randInt(1, 4);
     const endH = startH + diff;
-    return q(qG1Timeline(startH, endH, cc), diff, t("g1Timeline", cc));
+    // Typical errors: writes end hour, writes start hour, off by 1
+    return qd(qG1Timeline(startH, endH, cc), diff, t("g1Timeline", cc), [endH, startH, diff + 1], false, 1);
   },
   fraction: (cc) => {
     const totalParts = randInt(2, 4);
     const coloredParts = randInt(1, totalParts);
     const shape = pick(["pizza", "rectangle", "circle"]);
-    return q(qG1Fraction(totalParts, coloredParts, shape, cc), coloredParts, t("g1Fraction", cc));
+    // Typical errors: writes total parts, counts uncolored parts, off by 1
+    const uncolored = totalParts - coloredParts;
+    const d2 = uncolored > 0 ? uncolored : Math.max(1, coloredParts - 1);
+    const d3 = coloredParts < totalParts ? coloredParts + 1 : Math.max(1, coloredParts - 1);
+    return qd(qG1Fraction(totalParts, coloredParts, shape, cc), coloredParts, t("g1Fraction", cc), [totalParts, d2, d3], false, 1);
   },
   // ── New G1 generators ──
   vorgaenger: (cc) => {
@@ -393,15 +750,19 @@ const G1: Record<string, Generator> = {
   zahlzerlegung: (cc) => {
     const total = randInt(3, 10);
     const part1 = randInt(1, total - 1);
-    return q(qZahlzerlegung(total, part1, cc), total - part1, t("g1Zahlzerlegung", cc));
+    const correct = total - part1;
+    // Typical errors: writes the given part (part1), writes total, off by 1
+    return qd(qZahlzerlegung(total, part1, cc), correct, t("g1Zahlzerlegung", cc), [part1, total, correct + 1]);
   },
   verdoppeln: (cc) => {
     const n = randInt(1, 9);
-    return q(qVerdoppeln(n, cc), n * 2, t("g1Verdoppeln", cc));
+    // Typical error: writes n (didn't double), ±1 (miscounting)
+    return qd(qVerdoppeln(n, cc), n * 2, t("g1Verdoppeln", cc), [n, n * 2 - 1, n * 2 + 1]);
   },
   halbieren: (cc) => {
     const n = randInt(1, 9) * 2;
-    return q(qHalbieren(n, cc), n / 2, t("g1Halbieren", cc));
+    // Typical error: writes n (didn't halve), ±1 (miscounting)
+    return qd(qHalbieren(n, cc), n / 2, t("g1Halbieren", cc), [n, Math.max(1, n / 2 - 1), n / 2 + 1]);
   },
   shapes: (cc) => {
     const lang = getLang(cc);
@@ -428,9 +789,9 @@ const G1: Record<string, Generator> = {
     const n = randInt(11, 20);
     const tens = Math.floor(n / 10), ones = n % 10;
     const r = Math.random();
-    if (r < 0.33) return q(qG1PlaceValueTens(n, cc), tens, t("g1PlaceValue20", cc));
-    if (r < 0.66) return q(qG1PlaceValueOnes(n, cc), ones, t("g1PlaceValue20", cc));
-    return q(qG1PlaceValueTotal(tens, ones, cc), n, t("g1PlaceValue20", cc));
+    if (r < 0.33) return qd(qG1PlaceValueTens(n, cc), tens, t("g1PlaceValue20", cc), [n, ones || tens + 2, tens + 1]);
+    if (r < 0.66) return qd(qG1PlaceValueOnes(n, cc), ones, t("g1PlaceValue20", cc), [n, tens, ones + 1]);
+    return qd(qG1PlaceValueTotal(tens, ones, cc), n, t("g1PlaceValue20", cc), [tens, ones, n + 1]);
   },
   // ── NEW G1 generators ──
   spatial: (cc) => {
@@ -458,19 +819,38 @@ const G1: Record<string, Generator> = {
     return q(qG1Weight(a, b, cc), b, t("g1Weight", cc));
   },
   volume: (cc) => {
-    const a = randInt(1, 8), b = a + randInt(1, 5);
-    const v = Math.floor(Math.random() * 3);
-    if (v === 1) return q(qG1VolumeB(a, b, cc), a, t("g1Volume", cc));
-    if (v === 2) return q(qG1VolumeC(a, b, cc), b, t("g1Volume", cc));
-    return q(qG1Volume(a, b, cc), b, t("g1Volume", cc));
+    return pick([
+      () => { const a = randInt(1, 8), b = a + randInt(1, 5); return q(qG1Volume(a, b, cc), b, t("g1Volume", cc)); },
+      () => { const a = randInt(1, 8), b = a + randInt(1, 5); return q(qG1VolumeB(a, b, cc), a, t("g1Volume", cc)); },
+      () => { const a = randInt(1, 8), b = a + randInt(1, 5); return q(qG1VolumeC(a, b, cc), b, t("g1Volume", cc)); },
+      () => { const g = randInt(1, 5), bt = g + randInt(1, 6); return q(qG1VolumeD(g, bt, cc), bt, t("g1Volume", cc)); },
+      () => { const cn = randInt(2, 6), bk = cn + randInt(1, 5); return q(qG1VolumeE(cn, bk, cc), cn, t("g1Volume", cc)); },
+      () => {
+        const fits = Math.random() < 0.5;
+        const avail = randInt(4, 12);
+        const needed = fits ? randInt(2, avail) : avail + randInt(1, 4);
+        const lang = getLang(cc);
+        const yes = lang === "DE" ? "Ja" : lang === "EN" ? "Yes" : lang === "RO" ? "Da" : "Igen";
+        const no  = lang === "DE" ? "Nein" : lang === "EN" ? "No" : lang === "RO" ? "Nu" : "Nem";
+        const ans = fits ? yes : no;
+        return qstr(qG1VolumeFits(avail, needed, cc), ans, t("g1Volume", cc), [yes, no]);
+      },
+      () => { const cap = randInt(5, 12), cur = randInt(1, cap - 1); return q(qG1VolumeFillUp(cap, cur, cc), cap - cur, t("g1Volume", cc)); },
+      () => { const pool = randInt(6, 15), tub = randInt(3, pool - 1); return q(qG1VolumePool(pool, tub, cc), pool, t("g1Volume", cc)); },
+    ])();
   },
   pattern: (cc) => {
-    const pairs = [["🔴","🔵"],["⭐","🌙"],["🟦","🟨"],["🔺","⭕"],["🌸","🍀"],["🐱","🐶"]];
-    const pair = pick(pairs);
+    const allPairs = [["🔴","🔵"],["⭐","🌙"],["🟦","🟨"],["🔺","⭕"],["🌸","🍀"],["🐱","🐶"]];
+    const pairIdx = Math.floor(Math.random() * allPairs.length);
+    const pair = allPairs[pairIdx];
     // Show 4 elements (2 pairs), ask for the 5th
     const seq = [pair[0], pair[1], pair[0], pair[1]];
     const next = pair[0]; // 5th element = first of pair
-    return qs(qG1Pattern(seq, cc), next, t("g1Pattern", cc));
+    // Build 4 options: correct + 3 distractors from other pairs
+    const otherEmojis = allPairs.filter((_, i) => i !== pairIdx).flatMap(p => p);
+    const distractors = [pair[1], otherEmojis[0], otherEmojis[2]];
+    const options = [next, ...distractors].sort(() => Math.random() - 0.5);
+    return qstr(qG1Pattern(seq, cc), next, t("g1Pattern", cc), options);
   },
   numberOrder: (cc) => {
     const nums = [randInt(1, 15), randInt(1, 15), randInt(1, 15)];
@@ -513,24 +893,41 @@ const G2: Record<string, Generator> = {
     return q(qMissingInEquation(`${a} + ? = ${a + b}`, cc), b, t("missingNumber", cc));
   },
   word1: (cc) => {
-    const a = randInt(20, 50), b = randInt(10, 40);
-    return q(wpSchool(a, b, cc), a + b, t("wordProblem", cc), 0, true);
+    // G2 addition pool — 1-100 számokon belül
+    const ns = getNames(cc), it = getItems(cc);
+    return pick([
+      () => { const a = randInt(20,50), b = randInt(10,40); return q(wpSchool(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(20,55), b = randInt(10,40); return q(wpClassroomTable(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(25,50), b = randInt(10,40); return q(wpSwimmingPool(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(15,40), b = randInt(10,35); return q(wpSportsDay(pick(ns.girls),a,pick(ns.boys),b,cc), a+b, t("wordProblem",cc),0,true); },
+    ])();
   },
   word2: (cc) => {
-    const names = getNames(cc); const items = getItems(cc); const cur = getCurrency(cc);
-    const name = pick(names.girls);
-    const a = randInt(30, 80), b = randInt(10, a - 5);
-    return q(wpBought(name, items.eraser, a, b, cur, cc), a - b, t("wordProblem", cc), 0, true);
+    // G2 subtraction / money pool
+    const ns = getNames(cc), it = getItems(cc), cur = getCurrency(cc);
+    return pick([
+      () => { const nm = pick(ns.girls), a = randInt(30,80), b = randInt(10,a-5); return q(wpBought(nm,it.eraser,a,b,cur,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), has = randInt(20,60), needs = has + randInt(10,30); return q(wpSavingsGoal(nm,has,needs,cc), needs-has, t("wordProblem",cc),0,true); },
+      () => { const total = randInt(30,80), gone = randInt(5,total-5); return q(wpSchoolTrip(total,gone,cc), total-gone, t("wordProblem",cc),0,true); },
+      () => { const baked = randInt(40,80), sold = randInt(10,baked-10); return q(wpBakery(it.sweets[0],baked,sold,cc), baked-sold, t("wordProblem",cc),0,true); },
+    ])();
   },
   word3: (cc) => {
-    const items = getItems(cc);
-    const a = randInt(2, 5), b = pick([2, 5, 10]);
-    return q(wpEachGets(a, b, pick(items.sweets), cc), a * b, t("wordProblem", cc), 0, true);
+    // G2 multiplication pool
+    const it = getItems(cc), ns = getNames(cc);
+    return pick([
+      () => { const a = randInt(2,5), b = pick([2,5,10]); return q(wpEachGets(a,b,pick(it.sweets),cc), a*b, t("wordProblem",cc),0,true); },
+      () => { const r = randInt(3,6), p = pick([2,5,10]); return q(wpGardenFlowers(r,p,cc), r*p, t("wordProblem",cc),0,true); },
+    ])();
   },
   word4: (cc) => {
-    const names = getNames(cc); const items = getItems(cc);
-    const a = randInt(2, 5) * 10, b = randInt(2, 4) * 10;
-    return q(wpCollectionDiff(pick(names.boys), a, pick(names.girls), b, items.sticker, cc), Math.abs(a - b), t("wordProblem", cc), 0, true);
+    // G2 comparison / difference pool
+    const ns = getNames(cc), it = getItems(cc);
+    return pick([
+      () => { const a = randInt(2,5)*10, b = randInt(2,4)*10; return q(wpCollectionDiff(pick(ns.boys),a,pick(ns.girls),b,it.sticker,cc), Math.abs(a-b), t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), borrowed = randInt(4,8), returned = randInt(1,borrowed-1); return q(wpLibraryReturn(nm,borrowed,returned,cc), borrowed-returned, t("wordProblem",cc),0,true); },
+      () => { const nmA = pick(ns.girls), nmB = pick(ns.boys), a = randInt(20,50), b = randInt(10,45); return q(wpCompareToys(nmA,a,nmB,b,it.sticker,cc), Math.abs(a-b), t("wordProblem",cc),0,true); },
+    ])();
   },
   units: (cc) => {
     if (cc === "US") return pick([
@@ -579,7 +976,7 @@ const G2: Record<string, Generator> = {
     ])();
   },
   rounding10: (cc) => {
-    const n = randInt(2, 18) * 10 + randInt(1, 9);
+    const n = randInt(1, 9) * 10 + randInt(1, 9); // max 99 — stays within G2 range (0-100)
     return q(qRoundTo10(n, cc), Math.round(n / 10) * 10, t("rounding10", cc));
   },
   // ── Number system (new G2) ──
@@ -610,9 +1007,9 @@ const G2: Record<string, Generator> = {
   },
   // ── Addition variants ──
   addOhne: (cc) => {
-    // ohne Zehnerübergang: ones(a) + ones(b) <= 9
-    const aOnes = randInt(0, 8);
-    const bOnes = randInt(0, 9 - aOnes);
+    // ohne Zehnerübergang: ones(a) + ones(b) <= 9, both must have non-zero ones (no trivial +10/+20)
+    const aOnes = randInt(1, 7); // min 1 so a is never a round number
+    const bOnes = randInt(1, 9 - aOnes); // min 1 so b is never a round number
     const aTens = randInt(1, 7) * 10;
     const bTens = randInt(1, Math.floor((90 - aTens) / 10)) * 10;
     const a = aTens + aOnes, b = bTens + bOnes;
@@ -751,14 +1148,16 @@ const G2: Record<string, Generator> = {
   // ── NEW G2: Visual emoji counting — addition (SVG) ──
   countAdd: (cc) => {
     const emoji = "●";
-    const a = randInt(2, 6), b = randInt(1, 5);
+    const a = randInt(5, 12);
+    const b = randInt(3, Math.min(8, 20 - a)); // a+b ≤ 20, G2 range
     return qvis(qCountAdd(a, emoji, b, cc), a + b, t("countObjects", cc),
       { type: "object-add", emoji, groupA: a, groupB: b });
   },
   // ── NEW G2: Visual emoji counting — subtraction (SVG) ──
   countSub: (cc) => {
     const emoji = "●";
-    const total = randInt(5, 12), removed = randInt(2, Math.min(5, total - 1));
+    const total = randInt(10, 20);
+    const removed = randInt(3, Math.min(8, total - 2)); // at least 2 remain
     return qvis(qCountSub(total, emoji, removed, cc), total - removed, t("countObjects", cc),
       { type: "object-sub", emoji, total, removed });
   },
@@ -790,8 +1189,29 @@ const G2: Record<string, Generator> = {
       { shapes: ["tri-red","sq-yellow","tri-red","sq-yellow","tri-red"], next: "sq-yellow", wrong1: "tri-yellow", wrong2: "sq-red" },
       { shapes: ["cir-blue","tri-blue","cir-blue","tri-blue","cir-blue"], next: "tri-blue", wrong1: "cir-blue", wrong2: "sq-blue" },
     ];
+    // Translate internal shape IDs to human-readable names for MCQ display
+    const lang = getLang(cc);
+    const shapeNames: Record<string, Record<string, string>> = {
+      DE: { sq: 'Quadrat', cir: 'Kreis', tri: 'Dreieck' },
+      EN: { sq: 'square', cir: 'circle', tri: 'triangle' },
+      HU: { sq: 'négyzet', cir: 'kör', tri: 'háromszög' },
+      RO: { sq: 'pătrat', cir: 'cerc', tri: 'triunghi' },
+    };
+    const colorNames: Record<string, Record<string, string>> = {
+      DE: { blue: 'blau', green: 'grün', red: 'rot', yellow: 'gelb', purple: 'lila' },
+      EN: { blue: 'blue', green: 'green', red: 'red', yellow: 'yellow', purple: 'purple' },
+      HU: { blue: 'kék', green: 'zöld', red: 'piros', yellow: 'sárga', purple: 'lila' },
+      RO: { blue: 'albastru', green: 'verde', red: 'roșu', yellow: 'galben', purple: 'mov' },
+    };
+    const toLabel = (id: string) => {
+      const [shape, color] = id.split('-');
+      const s = (shapeNames[lang] || shapeNames.EN)[shape] || shape;
+      const c = (colorNames[lang] || colorNames.EN)[color] || color;
+      return `${c} ${s}`;
+    };
     const p = pick(patterns);
-    return qstr(qShapePatternQuestion(cc), p.next, t("patternContinue", cc), [p.next, p.wrong1, p.wrong2],
+    const next = toLabel(p.next), wrong1 = toLabel(p.wrong1), wrong2 = toLabel(p.wrong2);
+    return qstr(qShapePatternQuestion(cc), next, t("patternContinue", cc), [next, wrong1, wrong2],
       false, { type: "shape-pattern", shapes: [...p.shapes, "?"] });
   },
   // ── NEW G2: Number line (Zahlenstrahl) with larger steps ──
@@ -981,76 +1401,36 @@ const G3: Record<string, Generator> = {
       () => { const startH = randInt(9, 11), endH = randInt(1, 4); return q(qAmPmElapsed(startH, endH, cc), 12 - startH + endH, t("ampmTime", cc), 0, true); },
     ])();
   },
+  // G3 szöteges feladatok — nagy pick-pool, 100-999 számkörben
   word1: (cc) => {
-    const items = getItems(cc);
-    const type = pick([0, 1, 2]);
-    if (type === 1) {
-      // Shelf/box counting: total items in boxes
-      const boxes = randInt(3, 6), perBox = randInt(30, 80);
-      const lang = getLang(cc);
-      const item = pick(items.fruits);
-      const texts: Record<string, string> = {
-        DE: `Es gibt ${boxes} Kisten mit je ${perBox} ${item}. Wie viele ${item} sind es insgesamt?`,
-        EN: `There are ${boxes} boxes with ${perBox} ${item} each. How many ${item} in total?`,
-        HU: `${boxes} ládában ${perBox}-${perBox} ${item} van. Hány ${item} van összesen?`,
-        RO: `Există ${boxes} lăzi cu câte ${perBox} ${item}. Câte ${item} sunt în total?`,
-      };
-      return q(texts[lang] || texts.DE, boxes * perBox, t("wordProblem", cc), 0, true);
-    }
-    if (type === 2) {
-      // Distance/travel: two legs of a journey
-      const a = randInt(120, 350), b = randInt(80, 250);
-      const lang = getLang(cc);
-      const texts: Record<string, string> = {
-        DE: `Ein Bus fährt ${a} km und dann noch ${b} km. Wie viele km fährt er insgesamt?`,
-        EN: `A bus travels ${a} km and then ${b} more km. How many km in total?`,
-        HU: `Egy busz ${a} km-t megy, majd még ${b} km-t. Hány km-t tesz meg összesen?`,
-        RO: `Un autobuz parcurge ${a} km și apoi încă ${b} km. Câți km parcurge în total?`,
-      };
-      return q(texts[lang] || texts.DE, a + b, t("wordProblem", cc), 0, true);
-    }
-    // Original: two fruit types in a shop
-    const a = randInt(120, 400), b = randInt(100, 300);
-    return q(wpFruitTotal(a, pick(items.fruits), b, pick(items.fruits), cc), a + b, t("wordProblem", cc), 0, true);
+    const it = getItems(cc), ns = getNames(cc);
+    return pick([
+      () => { const a = randInt(120,400), b = randInt(100,300); return q(wpFruitTotal(a,pick(it.fruits),b,pick(it.fruits),cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(120,350), b = randInt(80,250); return q(wpBikeTrip(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const r = randInt(4,8), p = randInt(30,80); return q(wpOrchardRows(r,p,pick(it.fruits),cc), r*p, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), a = randInt(150,400), b = randInt(80,300); return q(wpBooksOrdered(nm,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const cities = [["Pécs","Győr"],["Berlin","München"],["Cluj","Brașov"],["London","Bristol"]]; const [cA,cB] = pick(cities); const a = randInt(120,350), b = randInt(80,250); return q(wpCityTrip(cA,cB,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(200,600), b = randInt(100,400); const nm = pick([...ns.girls,...ns.boys]); return q(wpEventOrganizer(nm,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+    ])();
   },
   word2: (cc) => {
-    const items = getItems(cc);
-    const type = pick([0, 1]);
-    if (type === 1) {
-      // Money: buying items
-      const price = randInt(3, 9), count = randInt(3, 7);
-      const item = pick(items.fruits);
-      const lang = getLang(cc);
-      const cur = getCurrency(cc);
-      const texts: Record<string, string> = {
-        DE: `${item} kosten ${price} ${cur} pro Stück. Wie viel kosten ${count} ${item}?`,
-        EN: `${item} cost ${price} ${cur} each. How much do ${count} ${item} cost?`,
-        HU: `Egy ${item} ${price} ${cur}. Mennyibe kerül ${count} darab?`,
-        RO: `Un ${item} costă ${price} ${cur}. Cât costă ${count} ${item}?`,
-      };
-      return q(texts[lang] || texts.DE, price * count, t("wordProblem", cc), 0, true);
-    }
-    const a = randInt(3, 7), b = randInt(3, 8);
-    return q(wpShelfRows(a, b, items.book, cc), a * b, t("wordProblem", cc), 0, true);
+    const it = getItems(cc);
+    return pick([
+      () => { const a = randInt(3,7), b = randInt(3,8); return q(wpShelfRows(a,b,it.book,cc), a*b, t("wordProblem",cc),0,true); },
+      () => { const loads = randInt(4,8), perLoad = randInt(30,80); return q(wpTruckDelivery(loads,perLoad,it.fruits[0],cc), loads*perLoad, t("wordProblem",cc),0,true); },
+      () => { const days = randInt(4,6), perDay = randInt(50,120); return q(wpFactoryProduction(days,perDay,cc), days*perDay, t("wordProblem",cc),0,true); },
+      () => { const boxes = randInt(3,6), perBox = randInt(30,80); return q(wpBoxesInWarehouse(boxes,perBox,it.fruits[0],cc), boxes*perBox, t("wordProblem",cc),0,true); },
+      () => { const students = randInt(20,50), price = randInt(3,8); return q(wpSchoolCafe(students,price,cc), students*price, t("wordProblem",cc),0,true); },
+    ])();
   },
   word3: (cc) => {
-    const items = getItems(cc);
-    const type = pick([0, 1]);
-    if (type === 1) {
-      // Remainder: how many left after giving away
-      const total = randInt(100, 300), given = randInt(50, total - 20);
-      const lang = getLang(cc);
-      const item = pick(items.fruits);
-      const texts: Record<string, string> = {
-        DE: `Ein Laden hatte ${total} ${item}. Es wurden ${given} verkauft. Wie viele sind noch übrig?`,
-        EN: `A shop had ${total} ${item}. ${given} were sold. How many are left?`,
-        HU: `Egy boltban ${total} ${item} volt. Eladtak ${given} darabot. Hány maradt?`,
-        RO: `Un magazin avea ${total} ${item}. S-au vândut ${given}. Câte au rămas?`,
-      };
-      return q(texts[lang] || texts.DE, total - given, t("wordProblem", cc), 0, true);
-    }
-    const d = pick([2, 3, 4, 6]); const r = randInt(3, 8);
-    return q(wpShare(d * r, d, r, items.candy, cc), r, t("wordProblem", cc), 0, true);
+    const it = getItems(cc), ns = getNames(cc);
+    return pick([
+      () => { const d = pick([2,3,4,6]), r = randInt(3,8); return q(wpShare(d*r,d,r,it.candy,cc), r, t("wordProblem",cc),0,true); },
+      () => { const total = randInt(100,300), given = randInt(50,total-20); return q(wpWarehouseStock(total,0,given,cc), total-given, t("wordProblem",cc),0,true); },
+      () => { const nmA = pick(ns.girls), a = randInt(150,450), nmB = pick(ns.boys), b = randInt(100,400); return q(wpStampCollection(nmA,a,nmB,b,cc), Math.abs(a-b), t("wordProblem",cc),0,true); },
+      () => { const students = randInt(80,200), days = 5, price = randInt(3,6); return q(wpSchoolMeal(students,days,price,cc), students*days*price, t("wordProblem",cc),0,true); },
+    ])();
   },
   clock3: (cc) => {
     if (cc === "US") {
@@ -1351,21 +1731,35 @@ const G4: Record<string, Generator> = {
     const seq = [start, start + step, start + 2 * step, start + 3 * step];
     return q(qNextInSequence(seq.join(" → "), cc), start + 4 * step, t("numberSequence", cc));
   },
-  word1: (cc) => pick([
-    () => { const b = pick([3, 4, 5, 6]); const r = randInt(4, 8); return q(wpClassGroups(b * r, b, cc), r, t("wordProblem", cc), 0, true); },
-    () => { const rows = pick([3, 4, 5]); const perRow = randInt(4, 9); return q(wpShelfRows(rows, perRow, getItems(cc).book, cc), rows * perRow, t("wordProblem", cc), 0, true); },
-    () => { const cnt = randInt(2, 5); const price = randInt(8, 20); return q(wpBuyMultiple(getItems(cc).pencil, price, cnt, getCurrency(cc), cc), price * cnt, t("wordProblem", cc), 0, true); },
-  ])(),
-  word2: (cc) => pick([
-    () => { const items = getItems(cc); const cur = getCurrency(cc); const price = randInt(12, 30); const cnt = randInt(2, 5); return q(wpBuyMultiple(items.notebook, price, cnt, cur, cc), price * cnt, t("wordProblem", cc), 0, true); },
-    () => { const items = getItems(cc); const cur = getCurrency(cc); const price = randInt(8, 20); const cnt = randInt(2, 5); return q(wpBuyMultiple(items.pencil, price, cnt, cur, cc), price * cnt, t("wordProblem", cc), 0, true); },
-    () => { const items = getItems(cc); const cur = getCurrency(cc); const price = randInt(3, 12); const cnt = randInt(3, 6); return q(wpBuyMultiple(items.eraser, price, cnt, cur, cc), price * cnt, t("wordProblem", cc), 0, true); },
-  ])(),
-  word3: (cc) => pick([
-    () => { const items = getItems(cc); const d = pick([2, 3, 4, 5]); const r = randInt(3, 8); return q(wpShare(d * r, d, r, items.candy, cc), r, t("wordProblem", cc), 0, true); },
-    () => { const items = getItems(cc); const d = pick([3, 4, 6]); const r = randInt(2, 6); return q(wpShare(d * r, d, r, items.book, cc), r, t("wordProblem", cc), 0, true); },
-    () => { const b = pick([4, 5, 6]); const r = randInt(3, 7); return q(wpClassGroups(b * r, b, cc), r, t("wordProblem", cc), 0, true); },
-  ])(),
+  // G4 szöteges feladatok — nagy pick-pool, 1000-9999 számkörben, változatos kontextusok
+  word1: (cc) => {
+    const it = getItems(cc), cur = getCurrency(cc);
+    return pick([
+      () => { const rows = randInt(20,60), perRow = randInt(20,60); return q(wpConferenceSeats(rows,perRow,cc), rows*perRow, t("wordProblem",cc),0,true); },
+      () => { const books = randInt(500,2000), price = randInt(8,20); return q(wpBookPublisher(books,price,cc), books*price, t("wordProblem",cc),0,true); },
+      () => { const cars = randInt(5,15), days = randInt(3,7), ppd = randInt(30,80); return q(wpCarRentalFleet(cars,days,ppd,cc), cars*days*ppd, t("wordProblem",cc),0,true); },
+      () => { const packs = randInt(20,50), ppk = randInt(15,40); return q(wpSchoolSupplyOrder(packs*ppk,packs,ppk,cc), packs*ppk, t("wordProblem",cc),0,true); },
+      () => { const b = pick([3,4,5,6]), r = randInt(40,80); return q(wpClassGroups(b*r,b,cc), r, t("wordProblem",cc),0,true); },
+    ])();
+  },
+  word2: (cc) => {
+    const it = getItems(cc), cur = getCurrency(cc);
+    return pick([
+      () => { const rooms = randInt(8,20), cost = randInt(80,250); return q(wpSchoolRenovation(rooms,cost,cc), rooms*cost, t("wordProblem",cc),0,true); },
+      () => { const dist = randInt(50,200), ticket = randInt(10,30), pass = randInt(50,150); return q(wpTrainJourney(dist,ticket,pass,cc), ticket*pass, t("wordProblem",cc),0,true); },
+      () => { const cnt = randInt(3,8), price = randInt(80,300); return q(wpBuyMultiple(it.notebook,price,cnt,cur,cc), price*cnt, t("wordProblem",cc),0,true); },
+      () => { const rows = randInt(5,12), perRow = randInt(8,20); return q(wpShelfRows(rows,perRow,it.book,cc), rows*perRow, t("wordProblem",cc),0,true); },
+    ])();
+  },
+  word3: (cc) => {
+    const it = getItems(cc);
+    return pick([
+      () => { const d = pick([2,3,4,5]), r = randInt(30,80); return q(wpShare(d*r,d,r,it.candy,cc), r, t("wordProblem",cc),0,true); },
+      () => { const fields = randInt(4,8), perField = randInt(300,800), sold = randInt(200,600); return q(wpFarmHarvest(fields,perField,sold,cc), fields*perField-sold, t("wordProblem",cc),0,true); },
+      () => { const stands = randInt(4,8), perStand = randInt(200,600), empty = randInt(50,200); return q(wpSportArena(stands,perStand,empty,cc), stands*perStand-empty, t("wordProblem",cc),0,true); },
+      () => { const b = pick([4,5,6]), r = randInt(30,70); return q(wpClassGroups(b*r,b,cc), r, t("wordProblem",cc),0,true); },
+    ])();
+  },
   fraction: (cc) => pick([
     () => q(qHowManyQuartersInWhole(cc), 4, t("fractions", cc)),
     () => q(qHowManyHalvesInWhole(cc), 2, t("fractions", cc)),
@@ -1910,6 +2304,14 @@ const G5: Record<string, Generator> = {
 
   // ── Unit conversions ─────────────────────────────────
   unitLength: (cc) => {
+    if (cc === "US") {
+      return pick([
+        () => { const ft = randInt(1, 8); const lang = getLang(cc); return q(`${ft} foot = ? inches`, ft * 12, t("unitConversion", cc)); },
+        () => { const yd = randInt(1, 5); return q(`${yd} yard${yd > 1 ? 's' : ''} = ? feet`, yd * 3, t("unitConversion", cc)); },
+        () => { const mi = randInt(1, 4); return q(`${mi} mile${mi > 1 ? 's' : ''} = ? feet (1 mile = 5,280 feet)`, mi * 5280, t("unitConversion", cc)); },
+        () => { const inch = pick([12, 24, 36]); return q(`${inch} inches = ? feet`, inch / 12, t("unitConversion", cc)); },
+      ])();
+    }
     return pick([
       () => { const km = randInt(1, 8); return q(qKmToM(km, cc), km * 1000, t("unitConversion", cc)); },
       () => { const m = randInt(2, 9); return q(qMetersInCm(m, cc), m * 100, t("unitConversion", cc)); },
@@ -1918,6 +2320,13 @@ const G5: Record<string, Generator> = {
   },
 
   unitMass: (cc) => {
+    if (cc === "US") {
+      return pick([
+        () => { const lb = randInt(1, 8); return q(`${lb} pound${lb > 1 ? 's' : ''} = ? ounces (1 pound = 16 oz)`, lb * 16, t("unitConversion", cc)); },
+        () => { const oz = pick([16, 32, 48, 64]); return q(`${oz} ounces = ? pounds`, oz / 16, t("unitConversion", cc)); },
+        () => { const ton = randInt(1, 4); return q(`${ton} ton${ton > 1 ? 's' : ''} = ? pounds (1 ton = 2,000 lbs)`, ton * 2000, t("unitConversion", cc)); },
+      ])();
+    }
     return pick([
       () => { const kg = randInt(1, 8); return q(qKgToG(kg, cc), kg * 1000, t("unitConversion", cc)); },
       () => { const t2 = randInt(1, 5); return q(qTonToKg(t2, cc), t2 * 1000, t("unitConversion", cc)); },
@@ -1926,6 +2335,13 @@ const G5: Record<string, Generator> = {
   },
 
   unitTime: (cc) => {
+    if (cc === "US") {
+      return pick([
+        () => { const h = randInt(1, 5); return q(qHoursToMinutes(h, cc), h * 60, t("unitConversion", cc)); },
+        () => { const startH = randInt(8, 11); const dur = randInt(1, 4); const endH = startH + dur; return q(`School starts at ${startH} AM and lasts ${dur} hour${dur > 1 ? 's' : ''}. What time does it end? (Enter hour, 1-12)`, endH > 12 ? endH - 12 : endH, t("unitConversion", cc)); },
+        () => { const h = randInt(2, 6); const amH = randInt(8, 11); return q(`It is ${amH} AM. What time will it be in ${h} hours? (Enter hour, 1-12)`, amH + h > 12 ? amH + h - 12 : amH + h, t("unitConversion", cc)); },
+      ])();
+    }
     return pick([
       () => { const h = randInt(1, 5); return q(qHoursToMinutes(h, cc), h * 60, t("unitConversion", cc)); },
       () => { const min = pick([30, 60, 90, 120, 180]); return q(qMinutesToHours(min, cc), min / 60, t("unitConversion", cc)); },
@@ -1936,23 +2352,30 @@ const G5: Record<string, Generator> = {
   unitMoney: (cc) => {
     const lang = getLang(cc);
     const cur = getCurrency(cc);
+    const isUS = cc === "US";
     return pick([
       () => {
-        const euros = randInt(1, 20);
-        const cent = euros * 100;
+        const dollars = randInt(1, 20);
+        const cents = dollars * 100;
         const prompts: Record<string,string> = {
-          DE: `${euros} € = ? Cent`, EN: `${euros} ${cur} = ? cents`, HU: `${euros} euró = ? cent`, RO: `${euros} euro = ? cenți`,
+          DE: `${dollars} € = ? Cent`, EN: isUS ? `${dollars} dollar${dollars > 1 ? 's' : ''} = ? cents` : `${dollars} ${cur} = ? cents`,
+          HU: `${dollars} euró = ? cent`, RO: `${dollars} euro = ? cenți`,
         };
-        return q(prompts[lang] ?? prompts.EN, cent, t("unitConversion", cc));
+        return q(prompts[lang] ?? prompts.EN, cents, t("unitConversion", cc));
       },
       () => {
-        const cent = randInt(1, 10) * 50;
-        const euros = cent / 100;
+        const cents = randInt(1, 10) * 50;
+        const dollars = cents / 100;
         const prompts: Record<string,string> = {
-          DE: `${cent} Cent = ? €`, EN: `${cent} cents = ? ${cur}`, HU: `${cent} cent = ? euró`, RO: `${cent} cenți = ? euro`,
+          DE: `${cents} Cent = ? €`, EN: isUS ? `${cents} cents = ? dollars` : `${cents} cents = ? ${cur}`,
+          HU: `${cents} cent = ? euró`, RO: `${cents} cenți = ? euro`,
         };
-        return q(prompts[lang] ?? prompts.EN, euros, t("unitConversion", cc));
+        return q(prompts[lang] ?? prompts.EN, dollars, t("unitConversion", cc));
       },
+      ...(isUS ? [() => {
+        const quarters = randInt(2, 8);
+        return q(`${quarters} quarters = ? cents (1 quarter = 25 cents)`, quarters * 25, t("unitConversion", cc));
+      }] : []),
     ])();
   },
 
@@ -1970,65 +2393,62 @@ const G5: Record<string, Generator> = {
 
   // ── Word problems ─────────────────────────────────────
   wordAdd: (cc) => {
+    const it = getItems(cc), cur = getCurrency(cc), ns = getNames(cc);
     return pick([
-      () => {
-        const cur = getCurrency(cc);
-        const p1 = randInt(3, 9) * 100, p2 = randInt(2, 7) * 100;
-        return q(wpTwoItemsCost(p1, p2, cur, cc), p1 + p2, t("wordProblem", cc), 0, true);
-      },
-      () => {
-        const items = getItems(cc);
-        const a = randInt(200, 800), b = randInt(200, 800);
-        return q(wpFruitTotal(a, items.fruits[0], b, items.fruits[1], cc), a + b, t("wordProblem", cc), 0, true);
-      },
+      () => { const p1 = randInt(3,9)*100, p2 = randInt(2,7)*100; return q(wpTwoItemsCost(p1,p2,cur,cc), p1+p2, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(200,800), b = randInt(200,800); return q(wpFruitTotal(a,it.fruits[0],b,it.fruits[1],cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(500,2000), b = randInt(300,1500); return q(wpBikeTrip(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), a = randInt(400,1200), b = randInt(300,900); return q(wpBooksOrdered(nm,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const adults = randInt(300,1200), children = randInt(200,800), nm = pick(ns.girls); return q(wpEventOrganizer(nm,adults,children,cc), adults+children, t("wordProblem",cc),0,true); },
     ])();
   },
 
   wordSub: (cc) => {
+    const it = getItems(cc), cur = getCurrency(cc), ns = getNames(cc);
     return pick([
-      () => {
-        const items = getItems(cc); const cur = getCurrency(cc);
-        const budget = randInt(5, 15) * 100, price = randInt(2, 8) * 100;
-        return q(wpBudgetLeft(budget, price, cur, cc), budget - price, t("wordProblem", cc), 0, true);
-      },
-      () => {
-        const items = getItems(cc);
-        const total = randInt(300, 800), eaten = randInt(50, 150);
-        return q(wpContainerFill(total, total - eaten, cc), eaten, t("wordProblem", cc), 0, true);
-      },
+      () => { const budget = randInt(5,15)*100, price = randInt(2,8)*100; return q(wpBudgetLeft(budget,price,cur,cc), budget-price, t("wordProblem",cc),0,true); },
+      () => { const total = randInt(300,800), eaten = randInt(50,150); return q(wpContainerFill(total,total-eaten,cc), eaten, t("wordProblem",cc),0,true); },
+      () => { const init = randInt(800,2000), recv = randInt(200,600), sent = randInt(300,init+recv-200); return q(wpWarehouseStock(init,recv,sent,cc), init+recv-sent, t("wordProblem",cc),0,true); },
+      () => { const nmA = pick(ns.girls), a = randInt(500,1500), nmB = pick(ns.boys), b = randInt(300,1200); return q(wpStampCollection(nmA,a,nmB,b,cc), Math.abs(a-b), t("wordProblem",cc),0,true); },
     ])();
   },
 
   wordMul: (cc) => {
+    const it = getItems(cc), cur = getCurrency(cc);
     return pick([
-      () => {
-        const items = getItems(cc); const cur = getCurrency(cc);
-        const price = randInt(3, 15) * 100, count = randInt(3, 8);
-        return q(wpBuyMultiple(items.fruits[0], price, count, cur, cc), price * count, t("wordProblem", cc), 0, true);
-      },
-      () => {
-        const items = getItems(cc);
-        const rows = randInt(3, 8), perRow = randInt(4, 12);
-        return q(wpShelfRows(rows, perRow, items.book, cc), rows * perRow, t("wordProblem", cc), 0, true);
-      },
+      () => { const price = randInt(3,15)*100, count = randInt(3,8); return q(wpBuyMultiple(it.fruits[0],price,count,cur,cc), price*count, t("wordProblem",cc),0,true); },
+      () => { const rows = randInt(3,8), perRow = randInt(4,12); return q(wpShelfRows(rows,perRow,it.book,cc), rows*perRow, t("wordProblem",cc),0,true); },
+      () => { const books = randInt(200,800), price = randInt(12,30); return q(wpBookPublisher(books,price,cc), books*price, t("wordProblem",cc),0,true); },
+      () => { const days = randInt(5,10), perDay = randInt(80,200); return q(wpFactoryProduction(days,perDay,cc), days*perDay, t("wordProblem",cc),0,true); },
+      () => { const cars = randInt(4,10), days = randInt(2,5), ppd = randInt(40,100); return q(wpCarRentalFleet(cars,days,ppd,cc), cars*days*ppd, t("wordProblem",cc),0,true); },
     ])();
   },
 
   wordDiv: (cc) => {
+    const it = getItems(cc);
     return pick([
-      () => {
-        const items = getItems(cc);
-        const kids = randInt(3, 8), each = randInt(4, 12);
-        return q(wpShare(kids * each, kids, each, items.candy, cc), each, t("wordProblem", cc), 0, true);
-      },
-      () => {
-        const groups = randInt(3, 7), perGroup = randInt(4, 9);
-        return q(wpClassGroups(groups * perGroup, groups, cc), perGroup, t("wordProblem", cc), 0, true);
-      },
+      () => { const kids = randInt(3,8), each = randInt(4,12); return q(wpShare(kids*each,kids,each,it.candy,cc), each, t("wordProblem",cc),0,true); },
+      () => { const groups = randInt(3,7), perGroup = randInt(4,9); return q(wpClassGroups(groups*perGroup,groups,cc), perGroup, t("wordProblem",cc),0,true); },
+      () => { const loads = randInt(4,8), perLoad = randInt(50,150); const total = loads*perLoad; return q(wpTruckDelivery(loads,perLoad,it.fruits[0],cc), total, t("wordProblem",cc),0,true); },
+      () => { const rooms = randInt(4,8), cost = randInt(150,400); return q(wpSchoolRenovation(rooms,cost,cc), rooms*cost, t("wordProblem",cc),0,true); },
     ])();
   },
 
   wordTravel: (cc) => {
+    if (cc === "US") {
+      return pick([
+        () => {
+          const speed = pick([30, 40, 50, 60, 65]);
+          const time = randInt(2, 5);
+          const dist = speed * time;
+          return q(`A car drives at ${speed} mph for ${time} hours. How many miles does it travel?`, dist, t("wordProblem", cc), 0, true);
+        },
+        () => {
+          const miles = randInt(3, 8) * 10; const h = pick([2, 3, 4]);
+          return q(`A train travels ${miles * h} miles in ${h} hours. What is its average speed in mph?`, miles, t("wordProblem", cc), 0, true);
+        },
+      ])();
+    }
     return pick([
       () => {
         const speed = pick([40, 50, 60, 80, 100]);
@@ -2070,6 +2490,107 @@ const G5: Record<string, Generator> = {
       RO: `Un punct se află la x=${x}, y=${y}. Care este coordonata x?`,
     };
     return q(prompts[lang] ?? prompts.EN, x, t("geometry", cc));
+  },
+
+  // ── Negative numbers (EU Grade 5: DE/AT/CH) ──────────
+  negativeIntro: (cc) => {
+    const lang = getLang(cc);
+    const a = randInt(1, 12), b = randInt(a + 1, a + 8);
+    const prompts: Record<string,string> = {
+      DE: `${a} - ${b} = ?`,
+      EN: `${a} - ${b} = ?`,
+      HU: `${a} - ${b} = ?`,
+      RO: `${a} - ${b} = ?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, a - b, t("negativeNumbers", cc), -50);
+  },
+
+  negativeNumberLine: (cc) => {
+    const lang = getLang(cc);
+    const n = randInt(-10, -1);
+    const add = randInt(1, 6);
+    const result = n + add;
+    const prompts: Record<string,string> = {
+      DE: `(${n}) + ${add} = ?`,
+      EN: `(${n}) + ${add} = ?`,
+      HU: `(${n}) + ${add} = ?`,
+      RO: `(${n}) + ${add} = ?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, result, t("negativeNumbers", cc), -50);
+  },
+
+  negativeTemp: (cc) => {
+    const lang = getLang(cc);
+    const morning = -randInt(2, 8);
+    const rise = randInt(3, 12);
+    const afternoon = morning + rise;
+    const prompts: Record<string,string> = {
+      DE: `Morgens: ${morning}°C. Im Laufe des Tages steigt es um ${rise}°C. Wie warm ist es nachmittags?`,
+      EN: `Morning temperature: ${morning}°C. It rises by ${rise}°C during the day. What is the afternoon temperature?`,
+      HU: `Reggel ${morning}°C. A nap folyamán ${rise}°C-ot emelkedik a hőmérséklet. Mennyi délután?`,
+      RO: `Dimineața: ${morning}°C. Temperatura crește cu ${rise}°C în timpul zilei. Cât este după-amiaza?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, afternoon, t("negativeNumbers", cc), 0, true);
+  },
+
+  negativeDiff: (cc) => {
+    const lang = getLang(cc);
+    const a = -randInt(2, 8), b = randInt(2, 8);
+    const prompts: Record<string,string> = {
+      DE: `Welche Zahl liegt zwischen ${a} und ${b} genau in der Mitte? (Differenz)`,
+      EN: `What is the difference between ${b} and ${a}?`,
+      HU: `Mi a különbség ${b} és ${a} között?`,
+      RO: `Care este diferența dintre ${b} și ${a}?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, b - a, t("negativeNumbers", cc), -50);
+  },
+
+  // ── Volume (US Grade 5 + EU) ───────────────────────────
+  volumeCuboid: (cc) => {
+    const lang = getLang(cc);
+    const l = randInt(2, 8), w = randInt(2, 6), h = randInt(2, 5);
+    const vol = l * w * h;
+    const unit = cc === "US" ? "in" : "cm";
+    const volUnit = cc === "US" ? "in³" : "cm³";
+    const prompts: Record<string,string> = {
+      DE: `Ein Quader hat Länge ${l} cm, Breite ${w} cm, Höhe ${h} cm. Wie groß ist das Volumen (in cm³)?`,
+      EN: cc === "US"
+        ? `A rectangular prism is ${l} in long, ${w} in wide, and ${h} in tall. What is its volume (in³)?`
+        : `A cuboid is ${l} cm × ${w} cm × ${h} cm. What is its volume (cm³)?`,
+      HU: `Egy téglatest hossza ${l} cm, szélessége ${w} cm, magassága ${h} cm. Mekkora a térfogata (cm³)?`,
+      RO: `Un paralelipiped are lungimea ${l} cm, lățimea ${w} cm, înălțimea ${h} cm. Care este volumul (cm³)?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, vol, t("geometry", cc));
+  },
+
+  volumeCube: (cc) => {
+    const lang = getLang(cc);
+    const a = randInt(2, 6);
+    const vol = a * a * a;
+    const prompts: Record<string,string> = {
+      DE: `Ein Würfel hat die Kantenlänge ${a} cm. Was ist sein Volumen (cm³)?`,
+      EN: cc === "US"
+        ? `A cube has a side length of ${a} in. What is its volume (in³)?`
+        : `A cube has side length ${a} cm. What is its volume (cm³)?`,
+      HU: `Egy kocka élhossza ${a} cm. Mekkora a térfogata (cm³)?`,
+      RO: `Un cub are latura de ${a} cm. Care este volumul său (cm³)?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, vol, t("geometry", cc));
+  },
+
+  volumeWord: (cc) => {
+    const lang = getLang(cc);
+    const l = randInt(3, 8), w = randInt(2, 5), h = randInt(2, 4);
+    const vol = l * w * h;
+    const prompts: Record<string,string> = {
+      DE: `Eine Kiste ist ${l} cm lang, ${w} cm breit und ${h} cm hoch. Wie viel cm³ fasst sie?`,
+      EN: cc === "US"
+        ? `A box is ${l} in long, ${w} in wide, and ${h} in tall. How many cubic inches does it hold?`
+        : `A box is ${l} cm long, ${w} cm wide and ${h} cm tall. How many cm³ does it hold?`,
+      HU: `Egy doboz ${l} cm hosszú, ${w} cm széles és ${h} cm magas. Hány cm³-t fog be?`,
+      RO: `O cutie are lungimea ${l} cm, lățimea ${w} cm și înălțimea ${h} cm. Câți cm³ încape?`,
+    };
+    return q(prompts[lang] ?? prompts.EN, vol, t("geometry", cc), 0, true);
   },
 
   // ── Statistics ────────────────────────────────────────
@@ -2590,8 +3111,8 @@ export interface ENThemeDef {
 const EN_THEMES: Record<number, ENThemeDef[]> = {
   1: [
     { key: 'g1_zahlen', name: 'Numbers & Number System', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'g1_count',   name: 'Number recognition · Counting', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen, G1.gridCount] },
-      { key: 'g1_visual',  name: 'Dots · Dice · Fingers · Objects', color: '#93C5FD', icon: '🎲', generators: [G1.zaehlen, G1.gridCount] },
+      { key: 'g1_count',   name: 'Number recognition · Counting', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen] },
+      { key: 'g1_visual',  name: 'Dots · Dice · Fingers · Objects', color: '#93C5FD', icon: '🎲', generators: [G1.zaehlen] },
       { key: 'g1_compare', name: 'Bigger · Smaller · Equal · Order', color: '#2563EB', icon: '⚖️', generators: [G1.compare, G1.numberOrder] },
       { key: 'g1_pos',     name: 'Before · After · Number Line', color: '#1D4ED8', icon: '📏', generators: [G1.vorgaenger, G1.nachfolger, G1.numberLine] },
     ]},
@@ -2936,6 +3457,11 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_word_time',  name: 'Time Word Problems',                          color: '#991B1B', icon: '⏱️', generators: [G5.unitTime, G5.wordTravel] },
       { key: 'g5_word_money', name: 'Money Word Problems',                         color: '#7F1D1D', icon: '💶', generators: [G5.wordDiscount, G5.unitMoney, G5.percentWord] },
     ]},
+    { key: 'g5_volume', name: 'Volume', color: '#0EA5E9', icon: '📦', topics: [
+      { key: 'g5_vol_cube',    name: 'Volume of a Cube',                           color: '#38BDF8', icon: '🟦', generators: [G5.volumeCube] },
+      { key: 'g5_vol_cuboid',  name: 'Volume of a Rectangular Prism',              color: '#0EA5E9', icon: '📦', generators: [G5.volumeCuboid] },
+      { key: 'g5_vol_word',    name: 'Volume Word Problems',                       color: '#0284C7', icon: '📖', generators: [G5.volumeWord] },
+    ]},
   ],
   6: [
     { key: 'g6_neg', name: 'Negative Numbers', color: '#6366F1', icon: '➖', topics: [
@@ -2997,8 +3523,8 @@ export function getENThemes(grade: number): ENThemeDef[] {
 const DE_THEMES: Record<number, ENThemeDef[]> = {
   1: [
     { key: 'g1_zahlen', name: 'Zahlen und Zahlensystem', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'g1_count',   name: 'Zahlen erkennen · Zählen', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen, G1.gridCount] },
-      { key: 'g1_visual',  name: 'Punkte · Würfel · Finger · Bilder', color: '#93C5FD', icon: '🎲', generators: [G1.gridCount, G1.coins, G1.fraction] },
+      { key: 'g1_count',   name: 'Zahlen erkennen · Zählen', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen] },
+      { key: 'g1_visual',  name: 'Punkte · Würfel · Finger · Bilder', color: '#93C5FD', icon: '🎲', generators: [G1.zaehlen, G1.coins, G1.fraction] },
       { key: 'g1_compare', name: 'Größer · Kleiner · Gleich · Ordnung', color: '#2563EB', icon: '⚖️', generators: [G1.compare, G1.numberOrder] },
       { key: 'g1_pos',     name: 'Vorgänger · Nachfolger · Zahlenstrahl', color: '#1D4ED8', icon: '📏', generators: [G1.vorgaenger, G1.nachfolger, G1.numberLine] },
     ]},
@@ -3007,10 +3533,10 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g1_place_value20', name: 'Zehner und Einer  (14 = 1Z + 4E)', color: '#0891B2', icon: '🧱', generators: [G1.placeValue20] },
     ]},
     { key: 'g1_rechnen', name: 'Rechnen', color: '#EF4444', icon: '➕', topics: [
-      { key: 'g1_addpics', name: 'Addition mit Bildern', color: '#FCA5A5', icon: '🖼️', generators: [G1.gridCount, G1.add10, G1.add10b] },
+      { key: 'g1_addpics', name: 'Addition mit Bildern', color: '#FCA5A5', icon: '🖼️', generators: [G2.countAdd, G1.zaehlen, G1.add10, G1.add10b] },
       { key: 'add10',      name: 'Addition bis 10', color: '#F87171', icon: '➕', generators: [G1.add10, G1.add10b, G1.missing10] },
       { key: 'add20',      name: 'Addition bis 20', color: '#DC2626', icon: '➕', generators: [G1.add20, G1.add20b] },
-      { key: 'g1_subpics', name: 'Subtraktion mit Bildern', color: '#FCA5A5', icon: '🖼️', generators: [G1.gridCount, G1.sub10, G1.sub10b] },
+      { key: 'g1_subpics', name: 'Subtraktion mit Bildern', color: '#FCA5A5', icon: '🖼️', generators: [G2.countSub, G1.zaehlen, G1.sub10, G1.sub10b] },
       { key: 'sub10',      name: 'Subtraktion bis 10', color: '#EF4444', icon: '➖', generators: [G1.sub10, G1.sub10b] },
       { key: 'sub20',      name: 'Subtraktion bis 20', color: '#B91C1C', icon: '➖', generators: [G1.sub20, G1.sub20b] },
       { key: 'g1_tausch',  name: 'Tausch- und Umkehraufgaben', color: '#F59E0B', icon: '🔄', generators: [G1.tausch, G1.missing10, G1.missing10sub] },
@@ -3391,6 +3917,16 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_word_time',  name: 'Zeitaufgaben',                         color: '#991B1B', icon: '⏱️', generators: [G5.unitTime, G5.wordTravel] },
       { key: 'g5_word_money', name: 'Geldaufgaben',                         color: '#7F1D1D', icon: '💶', generators: [G5.wordDiscount, G5.unitMoney, G5.percentWord] },
     ]},
+    { key: 'g5_volumen', name: 'Volumen', color: '#0EA5E9', icon: '📦', topics: [
+      { key: 'g5_vol_cube',   name: 'Volumen eines Würfels',               color: '#38BDF8', icon: '🟦', generators: [G5.volumeCube] },
+      { key: 'g5_vol_cuboid', name: 'Volumen eines Quaders',               color: '#0EA5E9', icon: '📦', generators: [G5.volumeCuboid] },
+      { key: 'g5_vol_word',   name: 'Sachaufgaben zum Volumen',            color: '#0284C7', icon: '📖', generators: [G5.volumeWord] },
+    ]},
+    { key: 'g5_neg_de', name: 'Negative Zahlen (Einführung)', color: '#8B5CF6', icon: '➖', topics: [
+      { key: 'g5_neg_intro',  name: 'Negative Zahlen – Einführung',        color: '#A78BFA', icon: '➖', generators: [G5.negativeIntro, G5.negativeNumberLine] },
+      { key: 'g5_neg_temp',   name: 'Temperaturaufgaben',                  color: '#8B5CF6', icon: '🌡️', generators: [G5.negativeTemp] },
+      { key: 'g5_neg_diff',   name: 'Abstände auf der Zahlengeraden',      color: '#7C3AED', icon: '↔️', generators: [G5.negativeDiff] },
+    ]},
   ],
   6: [
     { key: 'g6_neg', name: 'Negative Zahlen', color: '#6366F1', icon: '➖', topics: [
@@ -3452,8 +3988,8 @@ export function getDEThemes(grade: number): ENThemeDef[] {
 const HU_THEMES: Record<number, ENThemeDef[]> = {
   1: [
     { key: 'g1_zahlen', name: 'Számok és számrendszer', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'g1_count',   name: 'Számok felismerése · Mennyiségek számolása', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen, G1.gridCount] },
-      { key: 'g1_visual',  name: 'Pontok · Dobókocka · Ujjak · Képek', color: '#93C5FD', icon: '🎲', generators: [G1.zaehlen, G1.gridCount] },
+      { key: 'g1_count',   name: 'Számok felismerése · Mennyiségek számolása', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen] },
+      { key: 'g1_visual',  name: 'Pontok · Dobókocka · Ujjak · Képek', color: '#93C5FD', icon: '🎲', generators: [G1.zaehlen] },
       { key: 'g1_compare', name: 'Nagyobb · Kisebb · Egyenlő · Sorrend', color: '#2563EB', icon: '⚖️', generators: [G1.compare, G1.numberOrder] },
       { key: 'g1_pos',     name: 'Előző · Következő · Számegyenes', color: '#1D4ED8', icon: '📏', generators: [G1.vorgaenger, G1.nachfolger, G1.numberLine] },
     ]},
@@ -3791,6 +4327,16 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_word_time',  name: 'Időszámítás',                               color: '#991B1B', icon: '⏱️', generators: [G5.wordTravel, G5.unitTime] },
       { key: 'g5_word_money', name: 'Pénzszámítás',                              color: '#7F1D1D', icon: '💶', generators: [G5.wordAdd, G5.wordSub, G5.unitMoney] },
     ]},
+    { key: 'g5_terfogat', name: 'Térfogat', color: '#0EA5E9', icon: '📦', topics: [
+      { key: 'g5_vol_cube',   name: 'Kocka térfogata',                         color: '#38BDF8', icon: '🟦', generators: [G5.volumeCube] },
+      { key: 'g5_vol_cuboid', name: 'Téglatest térfogata',                     color: '#0EA5E9', icon: '📦', generators: [G5.volumeCuboid] },
+      { key: 'g5_vol_word',   name: 'Szöveges feladatok – térfogat',           color: '#0284C7', icon: '📖', generators: [G5.volumeWord] },
+    ]},
+    { key: 'g5_neg_hu', name: 'Negatív számok (bevezetés)', color: '#8B5CF6', icon: '➖', topics: [
+      { key: 'g5_neg_intro',  name: 'Negatív számok – bevezetés',              color: '#A78BFA', icon: '➖', generators: [G5.negativeIntro, G5.negativeNumberLine] },
+      { key: 'g5_neg_temp',   name: 'Hőmérséklet-feladatok',                   color: '#8B5CF6', icon: '🌡️', generators: [G5.negativeTemp] },
+      { key: 'g5_neg_diff',   name: 'Távolságok a számegyenesen',              color: '#7C3AED', icon: '↔️', generators: [G5.negativeDiff] },
+    ]},
   ],
   6: [
     { key: 'g6_neg', name: 'Negatív számok', color: '#6366F1', icon: '➖', topics: [
@@ -3848,8 +4394,8 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
 const RO_THEMES: Record<number, ENThemeDef[]> = {
   1: [
     { key: 'g1_zahlen', name: 'Numere și sistemul numeric', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'g1_count',   name: 'Recunoaștere · Numărare', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen, G1.gridCount] },
-      { key: 'g1_visual',  name: 'Puncte · Zar · Degete · Imagini', color: '#93C5FD', icon: '🎲', generators: [G1.zaehlen, G1.gridCount] },
+      { key: 'g1_count',   name: 'Recunoaștere · Numărare', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen] },
+      { key: 'g1_visual',  name: 'Puncte · Zar · Degete · Imagini', color: '#93C5FD', icon: '🎲', generators: [G1.zaehlen] },
       { key: 'g1_compare', name: 'Mai mare · Mai mic · Egal · Ordine', color: '#2563EB', icon: '⚖️', generators: [G1.compare, G1.numberOrder] },
       { key: 'g1_pos',     name: 'Înainte · După · Dreapta numerelor', color: '#1D4ED8', icon: '📏', generators: [G1.vorgaenger, G1.nachfolger, G1.numberLine] },
     ]},
@@ -4187,6 +4733,16 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_word_time',  name: 'Probleme cu timp',                           color: '#991B1B', icon: '⏱️', generators: [G5.wordTravel, G5.unitTime] },
       { key: 'g5_word_money', name: 'Probleme cu bani',                           color: '#7F1D1D', icon: '💶', generators: [G5.wordAdd, G5.wordSub, G5.unitMoney] },
     ]},
+    { key: 'g5_volum', name: 'Volum', color: '#0EA5E9', icon: '📦', topics: [
+      { key: 'g5_vol_cube',   name: 'Volumul unui cub',                       color: '#38BDF8', icon: '🟦', generators: [G5.volumeCube] },
+      { key: 'g5_vol_cuboid', name: 'Volumul unui paralelipiped',              color: '#0EA5E9', icon: '📦', generators: [G5.volumeCuboid] },
+      { key: 'g5_vol_word',   name: 'Probleme cu volum',                      color: '#0284C7', icon: '📖', generators: [G5.volumeWord] },
+    ]},
+    { key: 'g5_neg_ro', name: 'Numere negative (introducere)', color: '#8B5CF6', icon: '➖', topics: [
+      { key: 'g5_neg_intro',  name: 'Numere negative – introducere',          color: '#A78BFA', icon: '➖', generators: [G5.negativeIntro, G5.negativeNumberLine] },
+      { key: 'g5_neg_temp',   name: 'Probleme cu temperaturi',                color: '#8B5CF6', icon: '🌡️', generators: [G5.negativeTemp] },
+      { key: 'g5_neg_diff',   name: 'Distanțe pe axa numerelor',              color: '#7C3AED', icon: '↔️', generators: [G5.negativeDiff] },
+    ]},
   ],
   6: [
     { key: 'g6_neg', name: 'Numere negative', color: '#6366F1', icon: '➖', topics: [
@@ -4256,16 +4812,40 @@ function getThemesForCC(grade: number, countryCode: string): ENThemeDef[] {
   return EN_THEMES[grade] || [];
 }
 
-export function generateTopicQuestions(grade: number, topicKey: string, countryCode: string, count = 10): MathQuestion[] {
+export function generateTopicQuestions(
+  grade: number,
+  topicKey: string,
+  countryCode: string,
+  count = 10,
+  constraint?: TopicConstraint
+): MathQuestion[] {
   const themes = getThemesForCC(grade, countryCode);
   for (const theme of themes) {
     for (const topic of theme.topics) {
       if (topic.key === topicKey) {
+        // Meghatározzuk a tényleges generátorokat — ha van constraint és a topic meghaladja,
+        // akkor constrained generátorokat használunk az eredeti helyett.
+        let generators = topic.generators as ((cc: string) => MathQuestion)[];
+        if (constraint) {
+          const topicMaxN = TOPIC_NUMBER_RANGE[topicKey];
+          const needsConstraint = topicMaxN === undefined || topicMaxN > constraint.maxNumber;
+
+          // Compatibility guard: ha a topic minimálisan szükséges számai jóval nagyobbak
+          // a constraintnél, akkor a constraint nem alkalmazható (pl. place_value_100 + maxN=10).
+          // Ezekre NEM alkalmazzuk a constraintet — inkább az eredeti generátorok futnak.
+          const isIncompatible = topicMaxN !== undefined && topicMaxN >= constraint.maxNumber * 5;
+
+          if (needsConstraint && !isIncompatible) {
+            const constrained = getConstrainedGenerators(topicKey, constraint);
+            if (constrained) generators = constrained;
+          }
+        }
+
         const pool: MathQuestion[] = [];
         const seen = new Set<string>();
         let attempts = 0;
-        while (pool.length < count && attempts < count * 5) {
-          const gen = pick(topic.generators);
+        while (pool.length < count && attempts < count * 8) {
+          const gen = pick(generators);
           const q = gen(countryCode);
           if (!seen.has(q.question)) { seen.add(q.question); pool.push(q); }
           attempts++;

@@ -375,6 +375,7 @@ export default function MathTestPage() {
   const [klassenarbeitStartTime, setKlassenarbeitStartTime] = useState<number | null>(null);
   const [klassenarbeitTimeLeft, setKlassenarbeitTimeLeft] = useState(1800); // 30 * 60 = 1800 seconds
   const klassenarbeitTimerRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  const klassenarbeitMaxTimeRef = useRef(40 * 60); // default 40 minutes, updated dynamically
 
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
@@ -493,8 +494,8 @@ export default function MathTestPage() {
 
     // Calculate remaining time based on elapsed time since start
     const calculateTimeLeft = () => {
-      const elapsed = Math.floor((Date.now() - startTime) / 1000);
-      const remaining = Math.max(0, 1800 - elapsed); // 30 * 60 = 1800 seconds
+      const elapsed = Math.floor((Date.now() - startTime!) / 1000);
+      const remaining = Math.max(0, klassenarbeitMaxTimeRef.current - elapsed);
       return remaining;
     };
 
@@ -780,6 +781,7 @@ export default function MathTestPage() {
     // ─── Initialize timer (all grades) ──────────────────
     const now = Date.now();
     setKlassenarbeitStartTime(now);
+    klassenarbeitMaxTimeRef.current = 40 * 60; // will be updated after tasks are generated
     setKlassenarbeitTimeLeft(40 * 60);
     localStorage.setItem("klassenarbeitStartTime", now.toString());
 
@@ -993,6 +995,11 @@ export default function MathTestPage() {
         country?.code || 'DE',
         topicBlocks.length > 0 ? topicBlocks : undefined
       );
+      // Dynamic timer: 40 min base + 3 min per extra block beyond 10
+      const extraBlocks = Math.max(0, tasks.length - 10);
+      const dynamicMaxTime = 40 * 60 + extraBlocks * 3 * 60;
+      klassenarbeitMaxTimeRef.current = dynamicMaxTime;
+      setKlassenarbeitTimeLeft(dynamicMaxTime);
       setSchoolTasks(tasks);
       setSchoolAnswers({});
       setRealisticKlassenarbeit(null);
@@ -1024,6 +1031,7 @@ export default function MathTestPage() {
     // ─── Initialize Klassenarbeit timer (40 minutes for theme-based tests) ─────────────────────
     const now = Date.now();
     setKlassenarbeitStartTime(now);
+    klassenarbeitMaxTimeRef.current = 40 * 60;
     setKlassenarbeitTimeLeft(40 * 60); // 40 minutes = 2400 seconds
     localStorage.setItem("klassenarbeitStartTime", now.toString());
 

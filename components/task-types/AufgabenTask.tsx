@@ -46,6 +46,45 @@ export default function AufgabenTask({
         const parts = item.question.split('___');
         const hasInlineBlank = parts.length > 1;
 
+        // MCQ (hasStringOptions) — emoji/string buttons
+        if (item.options && item.options.length > 0) {
+          const userVal = String(answers[sqId] ?? '');
+          const correct = String(correctAnswers[sqId] ?? '');
+          return (
+            <div key={idx} className="flex flex-col gap-2 mt-1">
+              <div className="flex items-baseline gap-1">
+                <span className="text-slate-400 text-xs font-bold select-none mr-0.5">{idx + 1}.</span>
+                <span className="text-sm text-slate-800" style={{ fontFamily: "'Caveat', cursive, sans-serif", fontSize: '15px' }}>{item.question}</span>
+              </div>
+              <div className="flex flex-wrap gap-2 pl-5">
+                {item.options.map((opt) => {
+                  const isSelected = userVal === opt;
+                  const isCorrect = isGrading && opt === correct;
+                  const isWrongSelected = isGrading && isSelected && opt !== correct;
+                  return (
+                    <button
+                      key={opt}
+                      type="button"
+                      disabled={isGrading}
+                      onClick={() => !isGrading && onChange(sqId, opt)}
+                      className={`
+                        px-3 py-1.5 rounded-lg text-lg font-bold border-2 transition-all
+                        ${isCorrect ? 'bg-green-500 border-green-500 text-white' : ''}
+                        ${isWrongSelected ? 'bg-red-100 border-red-300 text-red-500 line-through opacity-70' : ''}
+                        ${!isGrading && isSelected && !isCorrect && !isWrongSelected ? 'bg-indigo-100 border-indigo-400 text-indigo-700' : ''}
+                        ${!isGrading && !isSelected ? 'bg-white border-slate-200 text-slate-700 hover:border-indigo-300' : ''}
+                        ${isGrading && !isCorrect && !isWrongSelected ? 'bg-white border-slate-200 text-slate-400' : ''}
+                      `}
+                    >
+                      {opt}
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+          );
+        }
+
         return (
           <div key={idx} className="flex flex-wrap items-baseline gap-1">
             <span className="text-slate-400 text-xs font-bold select-none mr-0.5">

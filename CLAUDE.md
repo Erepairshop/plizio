@@ -613,6 +613,117 @@ Nincs részleges pontszám, nincs tolerance. A vizuális komponens felelőssége
 1. `components/grade4-visual/MyVisual.tsx` — `embedded`, `onValueChange` prop támogatás
 2. `lib/schoolTaskGenerator.ts` — `generateVisualSub()` switch-be új case + `VISUAL_TOPIC_TO_TYPE` map
 3. `components/SchoolTaskBlock.tsx` — `renderVisualComponent()` switch-be új case + import
+
+---
+
+## VIZUÁLIS KOMPONENS FEJLESZTÉSI SZABÁLYOK (Grade 5-8)
+
+> Tanult tapasztalatok a Grade 5 vizuális komponensek fejlesztéséből (2026-03-13)
+> **Kötelező betartani minden új grade vizuális komponensnél!**
+
+### 1. Embedded mód — instruction szöveg KÖTELEZŐ
+
+**⚠️ KRITIKUS:** Embedded módban az egész header (`{!embedded && ...}` guard) el van rejtve. Ha az instruction szöveg CSAK a headerben van, a tanuló nem látja mit kell csinálnia!
+
+**Szabály:** Minden vizuális komponensben legyen instruction/hint szöveg a BODY-ban is (guardon kívül), közvetlenül a choices/input elem előtt:
+```tsx
+{/* Instruction — always visible, even in embedded mode */}
+<p className="text-xs font-semibold text-center text-slate-500 px-5 pb-2">{t.hint}</p>
+```
+
+**Kivételek (önmagukban érthetőek):**
+- `BarChartRead` — van `{question}` a body-ban (max/min/total/diff specifikus kérdés)
+- `AreaGrid`, `PerimeterCalc` — van `{t.question}` a body-ban
+- `MultiplicationArray` — rows × cols = ? badge önmagában érthető
+- `DivisionShare` — total ÷ groups = ? badge önmagában érthető
+- `NumberLineArith` — az egyenlet (`start + operand = ?`) mindig látszik
+- `UnitConverter` — az egyenlet (`5 km = ? m`) mindig látszik
+- `LargeNumberRounding` — a roundTo badge + vizuális helyzet egyértelmű
+- `WordProblemVisual` — a szöveges feladat mindig látszik
+
+### 2. i18n — SOHA ne legyen hardcoded szöveg
+
+Minden felhasználói szöveg a `LABELS` objektumban kell legyen, mind a 4 nyelven (hu/de/en/ro).
+
+**Tipikus hibák:**
+- Hardcoded HU string JSX-ben: `"eredeti"`, `"tükrözött"` → legyen `t.original`, `t.reflected`
+- Hardcoded DE string: `"Hinweis verbergen"` → legyen `t.hideHint`
+- Vegyes language pl. faktornál: `'1 Mio'` → nyelv-specifikus ternary
+
+**Ellenőrzés:** Keresés JSX-ben: `grep -n '"[a-záéíóöőüű]' ComponentName.tsx` — ha találsz idézőjeles Magyar/Német szöveget, az gyanús.
+
+### 3. Embedded grading — language-independent answer
+
+**⚠️ KRITIKUS:** Az `onValueChange` által küldött érték ÉS a `schoolTaskGenerator`-ban tárolt `answer` UGYANOLYAN formátumban kell legyen.
+
+**Helyes:** numerikus válasz `String(number)` — pl. `"4"`, `"120"`, `"-3"`
+**Helyes:** language-independent key — pl. `"acute"`, `"left"`, `"right"`
+**HIBÁS:** fordított label string — pl. `"Hegyesszög"` (HU), `"Spitzer Winkel"` (DE)
+
+**Fix pattern ha MCQ fordított labeleket mutat:**
+```tsx
+// useMemo-ban: reverse map fordított label → key
+const l2k = Object.fromEntries(typeKeys.map(k => [types[k], k]));
+// onValueChange-kor: key küldése
+onValueChangeRef.current(labelToKey[selected] ?? selected);
+```
+
+### 4. Teljes regisztrációs checklist (minden új G5+ vizuális komponensnél)
+
+```
+□ components/grade5-visual/MyVisual.tsx létrehozva
+    - embedded prop + onValueChange support
+    - instruction szöveg a body-ban ({t.hint} a choices előtt)
+    - LABELS: mind 4 nyelv (hu/de/en/ro) kitöltve
+    - onValueChange: language-independent answer küldés
+
+□ lib/schoolTaskGenerator.ts
+    - VisualQuestionType union-ba: | 'g5-my-visual'
+    - TaskType union-ba: | 'visual_g5_my_visual'
+    - VISUAL_TOPIC_KEYS Set-be: 'g5_my_topic'
+    - generateVisualSub() switch: case 'g5_my_topic': { ... }
+    - VISUAL_TOPIC_TO_TYPE map: g5_my_topic: 'visual_g5_my_visual'
+    - TASK_TITLES map: visual_g5_my_visual: { de: ..., en: ..., hu: ..., ro: ... }
+
+□ components/SchoolTaskBlock.tsx
+    - dynamic import hozzáadva
+    - renderVisualComponent() switch: case 'g5-my-visual': return <MyVisual ...>
+```
+
+### 5. Vizuális komponens stílus konvenciók
+
+**Gradient háttér** (komponensenként egyedi szín):
+```tsx
+style={{ background: 'linear-gradient(135deg, #fdf4ff 0%, #f3e8ff 50%, #ede9fe 100%)' }}
+```
+
+**Gomb stílus (MCQ):** `py-3 rounded-xl font-extrabold text-base border-2`
+- Normal: `bg-white border-slate-200 text-slate-700`
+- Selected: color from `COLORS[i % COLORS.length]` = `['#3b82f6', '#10b981', '#f59e0b', '#ef4444']`
+- Correct (submitted): `bg-green-500 border-green-500 text-white`
+- Wrong selected: `bg-red-100 border-red-300 text-red-600 opacity-70`
+
+**Header ikon:** `w-9 h-9 rounded-xl bg-COLOR-600 flex items-center justify-center`
+
+**SVG wrapper:** `bg-white rounded-2xl shadow-sm border border-COLOR-100 p-3`
+
+### 6. Új grade topik hozzáadása — mathCurriculum.ts
+
+**Lépések (EN_THEMES, DE_THEMES, HU_THEMES, RO_THEMES mindegyikéhez):**
+1. Generátor függvények írása `G6`/`G7`/`G8` objektumba
+2. Topik blokk hozzáadása az adott grade-hez (color, icon, topics tömb)
+3. `CURRICULUM[N]` periódusok frissítése (5 periódus, current+review)
+4. `generateKlassenarbeit()` switch case N: szekciók hozzáadása
+
+**Generátor tesztelés (kötelező mielőtt commitolsz):**
+```ts
+// Minden generátort 10× tesztelj:
+for (let i = 0; i < 10; i++) console.log(G6.myGen("DE"));
+// Ellenőrizd: nincs tört eredmény, nincs hardcoded EN szöveg, nem túl nehéz
+// US country code teszt is: G6.myGen("US")
+```
+
+**Vizuális topik → új komponens:** ha a topik igényli (pl. negatív számegyenes, térfogat), kövesd a fenti regisztrációs checklisten!
 4. Válasz formátumnak egyeznie kell: amit az `onValueChange` küld === amit `sq.answer` tartalmaz (string-ként)
 
 **⚠️ Gyakori hibák vizuális komponenseknél:**
@@ -671,6 +782,100 @@ Minden grade-nél (G1-G8) ugyanezeket a lépéseket kell követni:
 - `mathTranslations.ts` — minden szöveges generátor 4 nyelven (DE/EN/HU/RO)
 - Topic nevek a `TOPIC_NAMES` map-ben
 - `qFunctionName()` segédfüggvények
+
+---
+
+#### Szöveges feladatok (word problems) — természetesség szabályai (2026-03-13)
+
+> **Cél:** a feladatok ne érezzék magukat generáltnak. Egy valódi tanár által írt feladat érzete kell.
+
+**⚠️ TILOS:** Egyetlen template-et egyetlen generátorhoz kötni!
+```ts
+// ROSSZ — minden hívásnál ugyanaz a struktúra:
+word1: (cc) => { ... return q(wpHasFruit(name, fruit, a, b, cc), ...); }
+// JÓ — minden hívásnál random választ egy pool-ból:
+word1: (cc) => { return pick([ () => wpHasFruit(...), () => wpFoundInNature(...), ... ])(); }
+```
+
+**Pick-pool mérete:** min. 4 variáns / generátor (G1: 9 variáns, G2: 3-4 variáns).
+
+**Természetesség-ellenőrző lista:**
+- [ ] Minden variáns más helyszínen játszódik (erdő, piac, játszótér, otthon, iskola...)
+- [ ] Más a kérdés-megfogalmazás ("Hány van most?", "Hány maradt?", "Hányan játszanak?", "Hányat talált összesen?")
+- [ ] Legalább 2 feladat nem "Névnek X db van, kap/veszt Y-t" struktúrájú
+- [ ] Van legalább 1 "helyszín-beágyazó" mondat (pl. "A játszótéren...", "Ma Anna születésnapja...")
+- [ ] Mind a 4 nyelven olvasod el legalább 1 variánst — DE angolul hangzik-e? HU magyarosan?
+
+**Meglévő wpXxx template-ek gyors összefoglalója (G1-G3):**
+| Kontextus | Összeadás template-ek | Kivonás template-ek |
+|-----------|----------------------|---------------------|
+| Gyümölcs/étel | `wpHasFruit`, `wpMarketBasket` | `wpAte`, `wpPickedRipeFruit`, `wpSoldAtMarket` |
+| Természet/sétálás | `wpFoundInNature` | `wpBirdsOnFence`, `wpBirds` |
+| Közlekedés | `wpBus`, `wpKidsJoined` | `wpGotOffBus` |
+| Otthon/személyes | `wpFilledBag`, `wpCoinsInBank`, `wpBuiltTower`, `wpCollectedStickers`, `wpBirthdayPresents`, `wpSchoolSupplies` | `wpAteFromPlate`, `wpGavePencils`, `wpUsedPaper`, `wpGifts`, `wpLostItems` |
+| Iskola/sport | `wpBookshelf`, `wpSportsDay`, `wpSwimmingPool` | `wpKidsWentHome`, `wpSchoolTrip`, `wpBakery`, `wpLibraryReturn` |
+| G2+ összetett | `wpSchool`, `wpClassroomTable`, `wpGardenFlowers` | `wpSavingsGoal`, `wpBought` |
+| G3+ | `wpBikeTrip`, `wpBoxesInWarehouse`, `wpSchoolCafe` | `wpFruitShop` |
+
+**Új template hozzáadása — szabályok:**
+1. Minden template-nek van `cc: string` paramétere → `getLang(cc)` → 4 nyelv switch
+2. Neve `wp` prefixszel kezdődik (word problem), nem `q` (question)
+3. Export a `mathTranslations.ts`-ből, import a `mathCurriculum.ts`-be
+4. Hivatkozás: add hozzá a CLAUDE.md fenti táblázatához is
+5. Ellenőrzés: olvasd el mind a 4 nyelvű verziót — nem elég gépileg fordítani!
+
+**Amit kerülj:**
+- Ugyanaz a névcsere-séma (`${name} hat ${a} ${item}`) minden template-ben
+- "darab" / "Stück" / "pieces" generic counter 3+ egymást követő template-ben
+- Kérdés mindig ugyanolyan szavakkal ("Wie viele sind es insgesamt?" minden DE mondatban)
+
+---
+
+#### Topic constraint rendszer — dokumentáció (2026-03-13)
+
+**Fájl:** `lib/mathCurriculum.ts` — `TOPIC_NUMBER_RANGE`, `TOPIC_OPERATION_TYPE`, constraint factory-k
+
+**Hogyan működik:**
+1. Tanuló kiválaszt topicokat (pl. `add10` + `word`)
+2. `deriveTopicConstraint(topicKeys)` → legkisebb `maxNumber` a kiválasztott topicok közt
+3. `generateTopicQuestions(grade, topicKey, cc, count, constraint)` → ha a topic natív számai nagyobbak, constrained generátort használ
+
+**Compatibility guard (2026-03-13):**
+Ha `topicMaxN >= constraint.maxNumber × 5` → a constraint NEM alkalmazható erre a topicra.
+Példa: `g2_zahlen100` (100-as számok) + `constraint.maxNumber=10` → az 5× szabály miatt az eredeti 100-as generátor fut, nem a constrained.
+```ts
+const isIncompatible = topicMaxN !== undefined && topicMaxN >= constraint.maxNumber * 5;
+if (needsConstraint && !isIncompatible) { /* alkalmaz constrained generátort */ }
+```
+
+**Constrained generátor factory-k:**
+| Factory | Mikor hívódik | Mit csinál |
+|---------|--------------|-----------|
+| `makeConstrainedAddGen(maxN)` | `opType === 'add'` | `a+b ≤ maxN` összeadás |
+| `makeConstrainedSubGen(maxN)` | `opType === 'sub'` | `a-b ≥ 0` kivonás |
+| `makeConstrainedMixedGen(maxN)` | `opType === 'mixed'` | mix: add + sub + missing |
+| `makeConstrainedMulGen(maxN)` | `opType === 'mul'` (maxN≥4) | szorzás maxN-en belül |
+| `makeConstrainedWordGen(maxN)` | `opType === 'word'` | **valódi narratív** szöveg maxN-en belül |
+
+**`makeConstrainedWordGen` sajátosságai:**
+- Összeadásnál: `a + b ≤ maxN` biztosított
+- Kivonásnál: `a - b ≥ 1` biztosított
+- Minden nyelvhez 3 különböző narratív szöveg van beépítve (nem csak `a+b=?`)
+- Nem importál extra wpXxx függvényeket (körköröss függőség elkerülése)
+
+**`TOPIC_NUMBER_RANGE` bővítése (ha új topicot adsz hozzá):**
+```ts
+// Formátum: 'topicKey': maxNumber
+'g3_add': 1000,   // Grade 3 összeadás, 1000-es számkörben
+'g4_word': 9999,  // Grade 4 szöveges, max 4 jegyű számok
+```
+→ Ha nincs bejegyezve → constraint esetén `makeConstrainedMixedGen` fut fallbackként
+
+**`TOPIC_OPERATION_TYPE` bővítése:**
+```ts
+'my_new_topic': 'add',   // 'add'|'sub'|'mul'|'div'|'mixed'|'word'
+```
+→ Ha nincs bejegyezve → `'word'` fallback (makeConstrainedWordGen fut)
 
 ---
 

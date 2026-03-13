@@ -62,11 +62,9 @@ const SequenceFiller: React.FC<Props> = ({
   return (
     <div className={`flex flex-col items-center gap-8 w-full ${embedded ? 'p-2' : 'p-10 bg-[#1a1a2e] rounded-3xl shadow-xl'}`}>
       
-      {!embedded && (
-        <label className="text-white/50 text-[10px] uppercase tracking-[0.2em] font-bold">
-          {T.label[lang]}
-        </label>
-      )}
+      <p className={`text-xs font-semibold text-center px-2 pb-1 ${embedded ? 'text-slate-500' : 'text-white/50 uppercase tracking-[0.2em]'}`}>
+        {T.label[lang]}
+      </p>
 
       <div className="flex flex-wrap justify-center gap-4">
         {sequence.map((num, idx) => {

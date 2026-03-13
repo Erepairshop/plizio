@@ -3,7 +3,7 @@
  * Generálja a feladatblokkokat osztálynak és országnak megfelelően
  */
 
-import { generateTopicQuestions, getDEThemes, getENThemes, getHUThemes, getROThemes } from './mathCurriculum';
+import { generateTopicQuestions, getDEThemes, getENThemes, getHUThemes, getROThemes, deriveTopicConstraint, TopicConstraint } from './mathCurriculum';
 
 // ─── TYPES ──────────────────────────────────────────────────────────────────
 
@@ -19,7 +19,8 @@ export type VisualQuestionType = 'zeichnen' | 'messen' | 'uhrzeit' | 'grid-area'
   | 'g5-place-million' | 'g5-number-line' | 'g5-rounding-large' | 'g5-mul-array' | 'g5-division-share'
   | 'g5-frac-compare' | 'g5-frac-equiv' | 'g5-decimal-place' | 'g5-decimal-line' | 'g5-balance-scale'
   | 'g5-shape-props' | 'g5-angle-classify' | 'g5-perimeter' | 'g5-area-grid' | 'g5-barchart'
-  | 'g5-symmetry' | 'g5-unit-convert' | 'g5-nl-arith' | 'g5-word-problem';
+  | 'g5-symmetry' | 'g5-unit-convert' | 'g5-nl-arith' | 'g5-word-problem'
+  | 'g5-neg-line' | 'g5-volume-cuboid';
 
 export type VisualQuestionData = {
   type: VisualQuestionType;
@@ -114,11 +115,14 @@ export type TaskType =
   | 'visual_g5_barchart'
   | 'visual_g5_symmetry'
   | 'visual_g5_unit_convert'
-  | 'visual_g5_nl_arith';
+  | 'visual_g5_nl_arith'
+  | 'visual_g5_neg_line'
+  | 'visual_g5_volume_cuboid';
 
 export type AufgabenItem = {
   question: string;
   answer: number | string;
+  options?: string[]; // for MCQ questions (hasStringOptions)
 };
 export type AufgabenData = { items: AufgabenItem[] };
 
@@ -751,6 +755,7 @@ const VISUAL_TOPIC_KEYS = new Set([
   'number_line', 'angle', 'circle_draw', 'money',
   'g1_clock', 'g1_number_line', 'g1_place_value', 'g1_grid_count',
   'g1_sequence', 'g1_coins', 'g1_timeline', 'g1_fraction',
+  'g1_visual',  // combined: grid_count + coins + fraction (Punkte · Würfel · Finger · Bilder)
   // Grade 2 visual topics
   'g2_clock', 'g2_strecken', 'g2_zahlstr', 'g2_stellenwert', 'g2_money',
   // Grade 3 visual topics — new components
@@ -769,6 +774,7 @@ const VISUAL_TOPIC_KEYS = new Set([
   'g5_balance_vis', 'g5_shape_vis', 'g5_angle_vis',
   'g5_perim_vis', 'g5_area_vis', 'g5_barchart_vis',
   'g5_symmetry_vis', 'g5_unit_convert', 'g5_nl_arith',
+  'g5_neg_line', 'g5_vol_cuboid',
 ]);
 
 function isVisualTopicKey(key: string): boolean {
@@ -869,7 +875,7 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
     // ── Grade 1 visual components ──────────────────────────────────────
     case 'g1_clock': {
       const hour = rnd(1, 12);
-      const minute = [0, 15, 30, 45][rnd(0, 3)]; // G1: only quarter hours
+      const minute = [0, 30][rnd(0, 1)]; // G1: volle + halbe Stunden only (topic name says so)
       return { id: `vis_g1c_${sfx}`, answer: `${hour}:${String(minute).padStart(2, '0')}`, points: 1,
         visualType: 'g1-clock', visualData: { type: 'g1-clock', params: { hour, minute } } };
     }
@@ -933,6 +939,12 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
       return { id: `vis_g1fr_${sfx}`, answer: coloredParts, points: 1,
         visualType: 'g1-fraction', visualData: { type: 'g1-fraction', params: { shape, totalParts, coloredParts } } };
     }
+    case 'g1_visual': {
+      // Combined block: sub 0=grid counting, sub 1=coins, sub 2=fraction
+      // Each sub-question uses its own visual component
+      const subTypes = ['g1_grid_count', 'g1_coins', 'g1_fraction'] as const;
+      return generateVisualSub(subTypes[subIdx % subTypes.length], blockIdx, subIdx);
+    }
     // ── Grade 2 visual components ──────────────────────────────────────────
     case 'g2_clock': {
       // G2: 5-minute intervals (vs G1's quarter-hours)
@@ -948,8 +960,8 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
         visualData: { type: 'messen', params: { targetLength, unit: 'cm' } } };
     }
     case 'g2_zahlstr': {
-      // G2: number line 0–100, multiples of 10 marked, find the marked value
-      const marked = rnd(1, 9) * 10 + rnd(1, 9);
+      // G2: number line 0–100, arrow always on a tick mark (multiple of 10)
+      const marked = rnd(1, 9) * 10;
       return { id: `vis_g2nl_${sfx}`, answer: marked, points: 1,
         visualType: 'g1-number-line', visualData: { type: 'g1-number-line', params: { min: 0, max: 100, step: 10, markedValue: marked } } };
     }
@@ -984,8 +996,8 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
         visualType: 'g3-place-value', visualData: { type: 'g3-place-value', params: { number: n, question: pos } } };
     }
     case 'g3_zahlstr': {
-      // 0–1000 number line, step=100
-      const marked = rnd(1, 9) * 100 + rnd(1, 99);
+      // 0–1000 number line, arrow always on a tick mark (multiple of 100)
+      const marked = rnd(1, 9) * 100;
       return { id: `vis_g3nl_${sfx}`, answer: marked, points: 1,
         visualType: 'g1-number-line', visualData: { type: 'g1-number-line', params: { min: 0, max: 1000, step: 100, markedValue: marked } } };
     }
@@ -1145,20 +1157,23 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
         visualType: 'g5-number-line', visualData: { type: 'g5-number-line', params: { rangeStart, rangeEnd, target } } };
     }
     case 'g5_rounding_vis': {
-      const steps = [1000, 10000, 100000];
-      const step = steps[rnd(0, 2)];
-      const target = rnd(1, 9) * step + rnd(1, step - 1);
+      // Grade 5: round to 10000 or 100000 (5-6 digit numbers)
+      const steps = [10000, 100000];
+      const step = steps[rnd(0, 1)];
+      const target = rnd(2, 18) * step + rnd(1, step - 1);
       const answer = Math.round(target / step) * step;
       return { id: `vis_g5rv_${sfx}`, answer: String(answer), points: 1,
         visualType: 'g5-rounding-large', visualData: { type: 'g5-rounding-large', params: { target, step } } };
     }
     case 'g5_mul_array': {
-      const rows = rnd(3, 9), cols = rnd(3, 9);
+      // Grade 5: 2-digit × 1-digit (e.g. 12×4, 15×6) — still visual but harder
+      const rows = rnd(10, 15), cols = rnd(2, 6);
       return { id: `vis_g5ma_${sfx}`, answer: String(rows * cols), points: 1,
         visualType: 'g5-mul-array', visualData: { type: 'g5-mul-array', params: { rows, cols } } };
     }
     case 'g5_div_share': {
-      const groups = rnd(2, 6), perGroup = rnd(3, 8);
+      // Grade 5: larger totals, 2-digit ÷ 1-digit (e.g. 72÷8, 56÷7)
+      const groups = rnd(4, 9), perGroup = rnd(6, 12);
       const total = groups * perGroup;
       return { id: `vis_g5dsh_${sfx}`, answer: String(perGroup), points: 1,
         visualType: 'g5-division-share', visualData: { type: 'g5-division-share', params: { total, groups } } };
@@ -1182,12 +1197,15 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
         visualType: 'g5-frac-equiv', visualData: { type: 'g5-frac-equiv', params: { baseNum, baseDen, multiplier, hidePart } } };
     }
     case 'g5_decimal_place_vis': {
-      const dp = Math.random() > 0.5 ? 1 : 2;
-      const ones = rnd(1, 9), t1 = rnd(1, 9), t2 = rnd(1, 9);
-      const num = dp === 1 ? parseFloat(`${ones}.${t1}`) : parseFloat(`${ones}.${t1}${t2}`);
-      const answer = dp === 1 ? `${ones}${t1}` : `${ones}${t1}${t2}`;
+      // Grade 5: 2-digit integer part + 2 decimal places (e.g. 23.47)
+      const intPart = rnd(10, 99);
+      const t1 = rnd(1, 9), t2 = rnd(1, 9);
+      const num = parseFloat(`${intPart}.${t1}${t2}`);
+      const tens = Math.floor(intPart / 10);
+      const onesDigit = intPart % 10;
+      const answer = `${tens}${onesDigit}${t1}${t2}`;
       return { id: `vis_g5dp_${sfx}`, answer, points: 1,
-        visualType: 'g5-decimal-place', visualData: { type: 'g5-decimal-place', params: { number: num, decimalPlaces: dp as 1 | 2 } } };
+        visualType: 'g5-decimal-place', visualData: { type: 'g5-decimal-place', params: { number: num, decimalPlaces: 2 } } };
     }
     case 'g5_decimal_line_vis': {
       const rangeStart = rnd(0, 8);
@@ -1206,11 +1224,26 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
         visualType: 'g5-balance-scale', visualData: { type: 'g5-balance-scale', params: { leftWeights: weights, rightWeight: total, unit: 'g' } } };
     }
     case 'g5_shape_vis': {
-      const shapes = ['triangle', 'square', 'rectangle', 'pentagon', 'hexagon', 'rhombus'];
+      const shapes = ['triangle', 'right_triangle', 'square', 'rectangle', 'parallelogram', 'trapezoid', 'pentagon', 'hexagon', 'rhombus'];
       const shapeId = shapes[rnd(0, shapes.length - 1)];
-      const sideMap: Record<string, number> = { triangle: 3, square: 4, rectangle: 4, pentagon: 5, hexagon: 6, rhombus: 4 };
-      const askProperty = Math.random() > 0.5 ? 'sides' : 'angles';
-      return { id: `vis_g5shp_${sfx}`, answer: String(sideMap[shapeId]), points: 1,
+      const shapeData: Record<string, { sides: number; rightAngles: number; parallelPairs: number }> = {
+        triangle:      { sides: 3, rightAngles: 0, parallelPairs: 0 },
+        right_triangle:{ sides: 3, rightAngles: 1, parallelPairs: 0 },
+        square:        { sides: 4, rightAngles: 4, parallelPairs: 2 },
+        rectangle:     { sides: 4, rightAngles: 4, parallelPairs: 2 },
+        parallelogram: { sides: 4, rightAngles: 0, parallelPairs: 2 },
+        trapezoid:     { sides: 4, rightAngles: 0, parallelPairs: 1 },
+        pentagon:      { sides: 5, rightAngles: 0, parallelPairs: 0 },
+        hexagon:       { sides: 6, rightAngles: 0, parallelPairs: 3 },
+        rhombus:       { sides: 4, rightAngles: 0, parallelPairs: 2 },
+      };
+      const props = ['sides', 'right_angles', 'parallel_pairs'] as const;
+      const askProperty = props[rnd(0, props.length - 1)];
+      const sd = shapeData[shapeId];
+      const answerNum = askProperty === 'right_angles' ? sd.rightAngles
+        : askProperty === 'parallel_pairs' ? sd.parallelPairs
+        : sd.sides;
+      return { id: `vis_g5shp_${sfx}`, answer: String(answerNum), points: 1,
         visualType: 'g5-shape-props', visualData: { type: 'g5-shape-props', params: { shapeId, askProperty } } };
     }
     case 'g5_angle_vis': {
@@ -1218,6 +1251,26 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
       const [degrees, answer] = angleOptions[rnd(0, angleOptions.length - 1)];
       return { id: `vis_g5ang_${sfx}`, answer, points: 1,
         visualType: 'g5-angle-classify', visualData: { type: 'g5-angle-classify', params: { degrees } } };
+    }
+    case 'g5_neg_line': {
+      // startNum: -8..+8, addNum: signed so result crosses or is negative
+      const startNum = rnd(-8, 8);
+      const addOptions: number[] = [];
+      for (let a = -8; a <= 8; a++) {
+        if (a === 0) continue;
+        const r = startNum + a;
+        if (r >= -10 && r <= 10) addOptions.push(a);
+      }
+      const addNum = addOptions[rnd(0, addOptions.length - 1)] ?? -3;
+      const answer = String(startNum + addNum);
+      return { id: `vis_g5neg_${sfx}`, answer, points: 1,
+        visualType: 'g5-neg-line', visualData: { type: 'g5-neg-line', params: { startNum, addNum } } };
+    }
+    case 'g5_vol_cuboid': {
+      const l = rnd(2, 5), w = rnd(2, 5), h = rnd(2, 4);
+      const answer = String(l * w * h);
+      return { id: `vis_g5vol_${sfx}`, answer, points: 1,
+        visualType: 'g5-volume-cuboid', visualData: { type: 'g5-volume-cuboid', params: { length: l, width: w, height: h } } };
     }
     case 'g5_perim_vis': {
       const w = rnd(2, 12), h = rnd(2, 12);
@@ -1228,13 +1281,15 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
         visualType: 'g5-perimeter', visualData: { type: 'g5-perimeter', params: { shapeType, sides } } };
     }
     case 'g5_area_vis': {
-      const w = rnd(2, 12), h = rnd(2, 10);
+      // Grade 5: larger dimensions
+      const w = rnd(5, 20), h = rnd(4, 15);
       return { id: `vis_g5area_${sfx}`, answer: String(w * h), points: 1,
         visualType: 'g5-area-grid', visualData: { type: 'g5-area-grid', params: { width: w, height: h, shapeType: 'rectangle' } } };
     }
     case 'g5_barchart_vis': {
       const labels = ['A', 'B', 'C', 'D'];
-      const data = labels.map(label => ({ label, value: rnd(2, 15) }));
+      // Grade 5: values in 10-60 range (multiples of 5)
+      const data = labels.map(label => ({ label, value: rnd(2, 12) * 5 }));
       const qtypes: Array<'max' | 'min' | 'total' | 'diff'> = ['max', 'min', 'total', 'diff'];
       const questionType = qtypes[rnd(0, 3)];
       const vals = data.map(d => d.value);
@@ -1281,8 +1336,10 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
     }
     case 'g5_nl_arith': {
       const operation: 'add' | 'sub' = Math.random() > 0.5 ? 'add' : 'sub';
-      const operand = rnd(1, 10) * 100;
-      const start = operation === 'sub' ? rnd(10, 50) * 100 + operand : rnd(5, 50) * 100;
+      // Grade 5: 5-digit numbers, jump by thousands
+      const operand = rnd(1, 9) * 1000;
+      const startBase = rnd(10, 90) * 1000;
+      const start = operation === 'sub' ? startBase + operand : startBase;
       const answer = operation === 'add' ? start + operand : start - operand;
       return { id: `vis_g5nla_${sfx}`, answer: String(answer), points: 1,
         visualType: 'g5-nl-arith', visualData: { type: 'g5-nl-arith', params: { start, operand, operation } } };
@@ -1301,6 +1358,7 @@ const VISUAL_TOPIC_TO_TYPE: Record<string, TaskType> = {
   g1_clock: 'visual_g1_clock', g1_number_line: 'visual_g1_number_line', g1_place_value: 'visual_g1_place_value',
   g1_grid_count: 'visual_g1_grid_count', g1_sequence: 'visual_g1_sequence', g1_coins: 'visual_g1_coins',
   g1_timeline: 'visual_g1_timeline', g1_fraction: 'visual_g1_fraction',
+  g1_visual: 'visual_g1_grid_count',  // combined topic — sub-questions each get their own visualType
   // Grade 2 visual topics → reuse existing visual types
   g2_clock: 'visual_uhrzeit', g2_strecken: 'visual_messen',
   g2_zahlstr: 'visual_g1_number_line', g2_stellenwert: 'visual_g1_place_value', g2_money: 'visual_money',
@@ -1348,6 +1406,8 @@ const VISUAL_TOPIC_TO_TYPE: Record<string, TaskType> = {
   g5_symmetry_vis:     'visual_g5_symmetry',
   g5_unit_convert:     'visual_g5_unit_convert',
   g5_nl_arith:         'visual_g5_nl_arith',
+  g5_neg_line:         'visual_g5_neg_line',
+  g5_vol_cuboid:       'visual_g5_volume_cuboid',
 };
 
 function generateVisualBlock(
@@ -1380,18 +1440,28 @@ function generateAufgabenBlock(
   topicKey: string,
   topicName: string,
   itemCount: number,
-  blockIdx: number
+  blockIdx: number,
+  constraint?: TopicConstraint
 ): SchoolTaskBlock {
-  const pool = generateTopicQuestions(grade, topicKey, cc, itemCount + 5);
+  const pool = generateTopicQuestions(grade, topicKey, cc, itemCount + 10, constraint);
   const items: AufgabenItem[] = [];
   const subQuestions: SubQuestion[] = [];
   const seen = new Set<string>();
+  const seenTemplates = new Set<string>(); // normalized: digits→_ to prevent same-story repetition (word problems only)
 
   for (const q of pool) {
     if (items.length >= itemCount) break;
-    if (!seen.has(q.question)) {
+    // Template dedup only for word problems (same story + diff numbers = repetitive)
+    // NOT for data/arithmetic where diff numbers = genuinely different question
+    const templateKey = q.isWordProblem ? q.question.replace(/\d+/g, '_').trim() : q.question;
+    if (!seen.has(q.question) && !seenTemplates.has(templateKey)) {
       seen.add(q.question);
-      const item: AufgabenItem = { question: q.question, answer: q.correctAnswer };
+      seenTemplates.add(templateKey);
+      const item: AufgabenItem = {
+        question: q.question,
+        answer: q.correctAnswer,
+        ...(q.hasStringOptions && q.options ? { options: q.options as string[] } : {}),
+      };
       items.push(item);
       subQuestions.push({
         id: `auf_${blockIdx}_${items.length - 1}`,
@@ -1575,6 +1645,8 @@ const TITLES: Record<TaskType, Record<string, string>> = {
   visual_g5_symmetry:      { de: 'Spiegelung zeichnen.', en: 'Draw the reflection.', hu: 'Rajzold meg a tükörképet.', ro: 'Desenează reflecția.' },
   visual_g5_unit_convert:  { de: 'Maßeinheit umrechnen.', en: 'Convert the unit.', hu: 'Mértékegység átváltása.', ro: 'Convertește unitatea.' },
   visual_g5_nl_arith:      { de: 'Rechnen am Zahlenstrahl.', en: 'Arithmetic on number line.', hu: 'Számolás számegyenesen.', ro: 'Calcul pe axa numerică.' },
+  visual_g5_neg_line:      { de: 'Rechnen mit negativen Zahlen.', en: 'Calculate with negative numbers.', hu: 'Számolás negatív számokkal.', ro: 'Calcul cu numere negative.' },
+  visual_g5_volume_cuboid: { de: 'Volumen des Quaders berechnen.', en: 'Calculate the volume of a cuboid.', hu: 'Téglatest térfogatának kiszámítása.', ro: 'Calculează volumul paralelipipedului.' },
 };
 
 function getTitleFor(type: TaskType, cc: string): string {
@@ -1644,8 +1716,6 @@ function getItemsPerPointByKey(topicKey: string): number {
  * 2 témakör → 5-5 blokk (roundrobin)
  * 3 témakör → 4-3-3 blokk (roundrobin)
  */
-const TOTAL_BLOCKS = 10;
-
 export function generateSchoolTest(
   grade: number,
   countryCode: string,
@@ -1660,7 +1730,15 @@ export function generateSchoolTest(
 
   if (effectiveTopics.length === 0) return [];
 
-  // Generate exactly 10 blocks, roundrobin across topics.
+  // Dynamic block count: 10 for up to 10 topics, +1 per extra topic beyond 10
+  const TOTAL_BLOCKS = Math.max(10, effectiveTopics.length);
+
+  // Derive global constraint from all selected topics.
+  // Ha pl. a tanuló kiválasztotta az "összeadás 1-10-ig" témakört, akkor az összes
+  // többi topic is maximum 10-es számokig generál feladatot.
+  const constraint = deriveTopicConstraint(effectiveTopics.map(t => t.key));
+
+  // Generate TOTAL_BLOCKS blocks, roundrobin across topics.
   // Each block = 1 pont; questions per block depend on topic difficulty.
   // Visual topics (zeichnen, messen, uhrzeit) get their own visual block generator.
   const blocks: SchoolTaskBlock[] = [];
@@ -1674,7 +1752,7 @@ export function generateSchoolTest(
     } else {
       // Standard block: szöveges/számolós feladatok
       const questionsInBlock = getItemsPerPointByKey(topic.key); // 2, 3, 4 or 5
-      const block = generateAufgabenBlock(grade, cc, topic.key, topic.name, questionsInBlock, i);
+      const block = generateAufgabenBlock(grade, cc, topic.key, topic.name, questionsInBlock, i, constraint ?? undefined);
       // Each block is worth exactly 1 point; questions share it equally
       const pointPerQ = 1 / questionsInBlock;
       const newSubQ = block.subQuestions.map(sq => ({ ...sq, points: pointPerQ }));
