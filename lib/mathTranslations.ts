@@ -817,10 +817,10 @@ export function qAmPmActivityEnd(startH: number, durH: number, countryCode: stri
 // ─── PLACE VALUE ─────────────────────────────
 
 const placeValueNames: Record<Lang, Record<string, string>> = {
-  HU: { ones: "egyes", tens: "tízes", hundreds: "százas", thousands: "ezres" },
-  DE: { ones: "Einer", tens: "Zehner", hundreds: "Hunderter", thousands: "Tausender" },
-  EN: { ones: "ones", tens: "tens", hundreds: "hundreds", thousands: "thousands" },
-  RO: { ones: "unități", tens: "zeci", hundreds: "sute", thousands: "mii" },
+  HU: { ones: "egyes", tens: "tízes", hundreds: "százas", thousands: "ezres", "ten-thousands": "tízezres", "hundred-thousands": "százezres" },
+  DE: { ones: "Einer", tens: "Zehner", hundreds: "Hunderter", thousands: "Tausender", "ten-thousands": "Zehntausender", "hundred-thousands": "Hunderttausender" },
+  EN: { ones: "ones", tens: "tens", hundreds: "hundreds", thousands: "thousands", "ten-thousands": "ten-thousands", "hundred-thousands": "hundred-thousands" },
+  RO: { ones: "unități", tens: "zeci", hundreds: "sute", thousands: "mii", "ten-thousands": "zeci de mii", "hundred-thousands": "sute de mii" },
 };
 
 export function qPlaceValue(n: number, place: string, countryCode: string): string {
@@ -3020,6 +3020,30 @@ export function qMinutesToHours(min: number, countryCode: string): string {
   }
 }
 
+// Grade 4: mixed hours+minutes → total minutes (e.g. "2 Std. 35 Min. = ? Min.")
+export function qHoursMinutesToMinutes(h: number, min: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${h} Stunde${h > 1 ? 'n' : ''} ${min} Minuten = ? Minuten`;
+    case "EN": return `${h} hour${h > 1 ? 's' : ''} ${min} minutes = ? minutes`;
+    case "RO": return `${h} or${h > 1 ? 'e' : 'ă'} ${min} minute = ? minute`;
+    default:   return `${h} óra ${min} perc = ? perc`;
+  }
+}
+
+// Grade 4: elapsed time in minutes between two clock times (whole hours only, clean result)
+export function qElapsedMinutes(startH: number, startMin: number, endH: number, endMin: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const fmtDE = (h: number, m: number) => `${h}:${String(m).padStart(2, '0')} Uhr`;
+  const fmtEN = (h: number, m: number) => `${h}:${String(m).padStart(2, '0')}`;
+  switch (lang) {
+    case "DE": return `Von ${fmtDE(startH, startMin)} bis ${fmtDE(endH, endMin)}: Wie viele Minuten?`;
+    case "EN": return `From ${fmtEN(startH, startMin)} to ${fmtEN(endH, endMin)}: how many minutes?`;
+    case "RO": return `De la ${fmtEN(startH, startMin)} până la ${fmtEN(endH, endMin)}: câte minute?`;
+    default:   return `${fmtEN(startH, startMin)}-tól ${fmtEN(endH, endMin)}-ig hány perc?`;
+  }
+}
+
 export function qRunnerLaps(distPerLap: number, totalDist: number, countryCode: string): string {
   const lang = getLang(countryCode);
   switch (lang) {
@@ -3368,8 +3392,8 @@ export function qAngleSumTriangle(countryCode: string): string {
 export function qRightAnglesInShape(shape: string, countryCode: string): string {
   const lang = getLang(countryCode);
   const shapes: Record<string, Record<string, string>> = {
-    rectangle: { DE: "einem Rechteck", EN: "a rectangle", RO: "un dreptunghi", HU: "a téglalapnak" },
-    square:    { DE: "einem Quadrat",   EN: "a square",    RO: "un pătrat",    HU: "a négyzetnek" },
+    rectangle: { DE: "ein Rechteck", EN: "a rectangle", RO: "un dreptunghi", HU: "a téglalapnak" },
+    square:    { DE: "ein Quadrat",   EN: "a square",    RO: "un pătrat",    HU: "a négyzetnek" },
   };
   const s = shapes[shape]?.[lang] ?? shapes[shape]?.["EN"] ?? shape;
   switch (lang) {
