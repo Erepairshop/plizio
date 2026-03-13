@@ -373,7 +373,25 @@ export default function SchoolTaskBlock({
       case 'visual_g3_nl_sub':
       case 'visual_g3_rightangle':
       case 'visual_g3_perim_concept':
-      case 'visual_g3_area_compare': {
+      case 'visual_g3_area_compare':
+      case 'visual_g5_place_million':
+      case 'visual_g5_number_line':
+      case 'visual_g5_rounding':
+      case 'visual_g5_mul_array':
+      case 'visual_g5_div_share':
+      case 'visual_g5_frac_compare':
+      case 'visual_g5_frac_equiv':
+      case 'visual_g5_decimal_place':
+      case 'visual_g5_decimal_line':
+      case 'visual_g5_balance':
+      case 'visual_g5_shape_props':
+      case 'visual_g5_angle':
+      case 'visual_g5_perimeter':
+      case 'visual_g5_area':
+      case 'visual_g5_barchart':
+      case 'visual_g5_symmetry':
+      case 'visual_g5_unit_convert':
+      case 'visual_g5_nl_arith': {
         return (
           <div className="space-y-3">
             {block.subQuestions.map((sq, idx) => (
