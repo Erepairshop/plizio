@@ -2723,9 +2723,22 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g5_geo', name: 'Geometrie', color: '#F59E0B', icon: '📐', topics: [
       { key: 'geo', name: 'Flächeninhalt & Umfang', color: '#FBBF24', icon: '📐', generators: [G5.geoRectPerimeter, G5.geoRectArea, G5.geoSquarePerimeter] },
+      { key: 'g5_figuren', name: 'Figureigenschaften – visuell', color: '#F59E0B', icon: '🎮', generators: [] },
+      { key: 'g5_winkelarten', name: 'Winkelarten – visuell', color: '#FB923C', icon: '🎮', generators: [] },
+      { key: 'g5_umfang', name: 'Umfang – visuell', color: '#FBBF24', icon: '🎮', generators: [] },
+      { key: 'g5_flaeche_gitter', name: 'Flächeninhalt – Gitter', color: '#FDE68A', icon: '🎮', generators: [] },
+      { key: 'g5_spiegelung', name: 'Spiegelung – visuell', color: '#FEF3C7', icon: '🎮', generators: [] },
     ]},
     { key: 'g5_word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', topics: [
       { key: 'word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', generators: [G5.wordDiscount, G5.wordOps] },
+    ]},
+    { key: 'g5_data', name: 'Daten & Diagramme', color: '#06B6D4', icon: '📊', topics: [
+      { key: 'g5_barchart', name: 'Säulendiagramm lesen', color: '#22D3EE', icon: '🎮', generators: [] },
+    ]},
+    { key: 'g5_visual', name: 'Visuelle Aufgaben', color: '#EC4899', icon: '🎮', topics: [
+      { key: 'g5_masseinheiten', name: 'Maßeinheiten – visuell', color: '#F472B6', icon: '🎮', generators: [] },
+      { key: 'g5_mul_gitter', name: 'Multiplikationsgitter', color: '#FB7185', icon: '🎮', generators: [] },
+      { key: 'g5_division', name: 'Division – Aufteilen', color: '#F43F5E', icon: '🎮', generators: [] },
     ]},
   ],
   6: [

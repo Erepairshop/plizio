@@ -92,7 +92,16 @@ export type TaskType =
   | 'visual_g3_nl_sub'
   | 'visual_g3_rightangle'
   | 'visual_g3_perim_concept'
-  | 'visual_g3_area_compare';
+  | 'visual_g3_area_compare'
+  | 'visual_g5_figuren'
+  | 'visual_g5_winkelarten'
+  | 'visual_g5_umfang'
+  | 'visual_g5_flaeche'
+  | 'visual_g5_spiegelung'
+  | 'visual_g5_barchart'
+  | 'visual_g5_mass'
+  | 'visual_g5_mul_gitter'
+  | 'visual_g5_division';
 
 export type AufgabenItem = {
   question: string;
@@ -739,6 +748,9 @@ const VISUAL_TOPIC_KEYS = new Set([
   // Grade 3 visual topics — reuse existing components
   'g3_zahlstr', 'g3_laenge', 'g3_strecken', 'g3_zeit', 'g3_geld',
   'g3_geo_messen', 'g3_perim', 'g3_area',
+  // Grade 5 visual topics
+  'g5_figuren', 'g5_winkelarten', 'g5_umfang', 'g5_flaeche_gitter',
+  'g5_spiegelung', 'g5_barchart', 'g5_masseinheiten', 'g5_mul_gitter', 'g5_division',
 ]);
 
 function isVisualTopicKey(key: string): boolean {
@@ -1101,6 +1113,70 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
       return { id: `vis_g3ac_${sfx}`, answer: acAns, points: 1,
         visualType: 'g3-area-compare', visualData: { type: 'g3-area-compare', params: { shapeA: acA, shapeB: acB } } };
     }
+    // ─── Grade 5 visual topics ───────────────────────────────────────────────
+    case 'g5_figuren': {
+      const shapeList = ['square', 'rectangle', 'triangle', 'circle', 'hexagon', 'pentagon'];
+      const target = shapeList[rnd(0, shapeList.length - 1)];
+      const distractors = shapeList.filter((s) => s !== target).sort(() => Math.random() - 0.5).slice(0, 3);
+      const options = [target, ...distractors].sort(() => Math.random() - 0.5);
+      return { id: `vis_g5fig_${sfx}`, answer: target, points: 1,
+        visualType: 'g3-shape', visualData: { type: 'g3-shape', params: { target, options } } };
+    }
+    case 'g5_winkelarten': {
+      const types = ['right', 'acute', 'obtuse'] as const;
+      const atype = types[rnd(0, 2)];
+      return { id: `vis_g5ang_${sfx}`, answer: atype, points: 1,
+        visualType: 'g3-rightangle', visualData: { type: 'g3-rightangle', params: { angleType: atype } } };
+    }
+    case 'g5_umfang': {
+      const uw = rnd(3, 12), uh = rnd(2, 8);
+      return { id: `vis_g5um_${sfx}`, answer: 2 * (uw + uh), points: 1,
+        visualType: 'grid-area', visualData: { type: 'grid-area', params: { width: uw, height: uh, mode: 'perimeter' } } };
+    }
+    case 'g5_flaeche_gitter': {
+      const fw = rnd(3, 10), fh = rnd(2, 8);
+      return { id: `vis_g5fl_${sfx}`, answer: fw * fh, points: 1,
+        visualType: 'grid-area', visualData: { type: 'grid-area', params: { width: fw, height: fh, mode: 'area' } } };
+    }
+    case 'g5_spiegelung': {
+      const gsz = [4, 6][rnd(0, 1)]; const sPattern: number[][] = [];
+      for (let r = 0; r < gsz; r++) {
+        const row: number[] = []; const half = gsz / 2;
+        for (let c = 0; c < half; c++) row.push(Math.random() > 0.5 ? 1 : 0);
+        for (let c = half; c < gsz; c++) row.push(0);
+        sPattern.push(row);
+      }
+      return { id: `vis_g5sym_${sfx}`, answer: 'symmetric', points: 1,
+        visualType: 'symmetry', visualData: { type: 'symmetry', params: { gridSize: gsz, pattern: sPattern } } };
+    }
+    case 'g5_barchart': {
+      const bcCats5 = [
+        { name: 'A', value: rnd(10, 50) },
+        { name: 'B', value: rnd(10, 50) },
+        { name: 'C', value: rnd(10, 50) },
+        { name: 'D', value: rnd(10, 50) },
+      ];
+      const bcTarget5 = rnd(0, 3);
+      return { id: `vis_g5bc_${sfx}`, answer: bcCats5[bcTarget5].value, points: 1,
+        visualType: 'g3-barchart', visualData: { type: 'g3-barchart', params: { categories: bcCats5, targetIdx: bcTarget5 } } };
+    }
+    case 'g5_masseinheiten': {
+      const tLen5 = rnd(5, 15);
+      return { id: `vis_g5mass_${sfx}`, answer: tLen5, points: 1, visualType: 'messen',
+        visualData: { type: 'messen', params: { targetLength: tLen5, unit: 'cm' } } };
+    }
+    case 'g5_mul_gitter': {
+      const mgR5 = rnd(3, 9), mgC5 = rnd(3, 9);
+      return { id: `vis_g5mul_${sfx}`, answer: mgR5 * mgC5, points: 1,
+        visualType: 'g3-mul-array', visualData: { type: 'g3-mul-array', params: { rows: mgR5, cols: mgC5 } } };
+    }
+    case 'g5_division': {
+      const divP5 = rnd(2, 6), divPer5 = rnd(3, 8), divTotal5 = divP5 * divPer5;
+      const icons5 = ['🍎', '⭐', '🌸', '🟡'];
+      const icon5 = icons5[rnd(0, icons5.length - 1)];
+      return { id: `vis_g5div_${sfx}`, answer: divPer5, points: 1,
+        visualType: 'g3-div-share', visualData: { type: 'g3-div-share', params: { mode: 'div', groupA: divTotal5, groupB: divP5, icon: icon5 } } };
+    }
     default:
       return generateVisualSub('zeichnen', blockIdx, subIdx);
   }
@@ -1143,6 +1219,16 @@ const VISUAL_TOPIC_TO_TYPE: Record<string, TaskType> = {
   g3_geo_messen:  'visual_messen',
   g3_perim:       'visual_grid_area',
   g3_area:        'visual_grid_area',
+  // Grade 5 visual topics
+  g5_figuren:       'visual_g5_figuren',
+  g5_winkelarten:   'visual_g5_winkelarten',
+  g5_umfang:        'visual_g5_umfang',
+  g5_flaeche_gitter: 'visual_g5_flaeche',
+  g5_spiegelung:    'visual_g5_spiegelung',
+  g5_barchart:      'visual_g5_barchart',
+  g5_masseinheiten: 'visual_g5_mass',
+  g5_mul_gitter:    'visual_g5_mul_gitter',
+  g5_division:      'visual_g5_division',
 };
 
 function generateVisualBlock(
@@ -1351,6 +1437,16 @@ const TITLES: Record<TaskType, Record<string, string>> = {
   visual_g3_rightangle:    { de: 'Welcher Winkeltyp?', en: 'What type of angle?', hu: 'Milyen szög ez?', ro: 'Ce tip de unghi?' },
   visual_g3_perim_concept: { de: 'Umfang berechnen.', en: 'Calculate the perimeter.', hu: 'Kerület kiszámítása.', ro: 'Calculează perimetrul.' },
   visual_g3_area_compare:  { de: 'Flächen vergleichen.', en: 'Compare areas.', hu: 'Területek összehasonlítása.', ro: 'Compararea suprafețelor.' },
+  // Grade 5 visual types
+  visual_g5_figuren:    { de: 'Figureigenschaften erkennen.', en: 'Identify shape properties.', hu: 'Alakzat felismerése.', ro: 'Identifică proprietățile formei.' },
+  visual_g5_winkelarten: { de: 'Welcher Winkeltyp?', en: 'What type of angle?', hu: 'Milyen szög?', ro: 'Ce tip de unghi?' },
+  visual_g5_umfang:     { de: 'Umfang berechnen.', en: 'Calculate the perimeter.', hu: 'Kerület kiszámítása.', ro: 'Calculează perimetrul.' },
+  visual_g5_flaeche:    { de: 'Fläche im Gitter zählen.', en: 'Count area on the grid.', hu: 'Rácson területszámlálás.', ro: 'Numără aria pe grilă.' },
+  visual_g5_spiegelung: { de: 'Spiegle das Muster.', en: 'Mirror the pattern.', hu: 'Tükrözd a mintát!', ro: 'Oglindește modelul.' },
+  visual_g5_barchart:   { de: 'Säulendiagramm ablesen.', en: 'Read the bar chart.', hu: 'Olvasd le az oszlopdiagramot!', ro: 'Citește diagrama cu coloane.' },
+  visual_g5_mass:       { de: 'Strecke messen.', en: 'Measure the line.', hu: 'Mérd meg a vonalat!', ro: 'Măsoară linia.' },
+  visual_g5_mul_gitter: { de: 'Multiplikation im Gitter.', en: 'Multiplication grid.', hu: 'Szorzás rácson.', ro: 'Grilă de înmulțire.' },
+  visual_g5_division:   { de: 'Teilen aufteilen.', en: 'Division by sharing.', hu: 'Osztás szétválasztással.', ro: 'Împărțire prin distribuire.' },
 };
 
 function getTitleFor(type: TaskType, cc: string): string {

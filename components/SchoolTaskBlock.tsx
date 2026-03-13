@@ -313,7 +313,16 @@ export default function SchoolTaskBlock({
       case 'visual_g3_nl_sub':
       case 'visual_g3_rightangle':
       case 'visual_g3_perim_concept':
-      case 'visual_g3_area_compare': {
+      case 'visual_g3_area_compare':
+      case 'visual_g5_figuren':
+      case 'visual_g5_winkelarten':
+      case 'visual_g5_umfang':
+      case 'visual_g5_flaeche':
+      case 'visual_g5_spiegelung':
+      case 'visual_g5_barchart':
+      case 'visual_g5_mass':
+      case 'visual_g5_mul_gitter':
+      case 'visual_g5_division': {
         return (
           <div className="space-y-3">
             {block.subQuestions.map((sq, idx) => (
