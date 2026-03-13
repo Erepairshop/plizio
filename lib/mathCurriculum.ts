@@ -651,9 +651,17 @@ const G1: Record<string, Generator> = {
     return qs(qG1ClockQuarter(h, m, cc), `${h}:${String(m).padStart(2, "0")}`, t("clockReading", cc));
   },
   numberLine: (cc) => {
-    const min = 0, max = 20, step = 1;
-    const marked = randInt(min, max);
-    return q(qG1NumberLine(min, max, marked, cc), marked, t("g1NumberLine", cc));
+    // "between" question — tests number line concept without needing a visual
+    const n = randInt(1, 19);
+    const lang = getLang(cc);
+    let question: string;
+    switch (lang) {
+      case "DE": question = `Welche Zahl liegt genau zwischen ${n - 1} und ${n + 1}?`; break;
+      case "EN": question = `Which number is exactly between ${n - 1} and ${n + 1}?`; break;
+      case "RO": question = `Ce număr se află exact între ${n - 1} și ${n + 1}?`; break;
+      default:   question = `Melyik szám van pontosan ${n - 1} és ${n + 1} között?`; break;
+    }
+    return q(question, n, t("g1NumberLine", cc));
   },
   placeValue: (cc) => {
     const n = randInt(11, 99);
