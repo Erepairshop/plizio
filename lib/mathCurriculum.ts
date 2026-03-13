@@ -507,7 +507,7 @@ type Generator = (cc: string) => MathQuestion;
 
 const G1: Record<string, Generator> = {
   add10: (cc) => { const a = randInt(1, 8), b = randInt(1, 9 - a); return q(`${a} + ${b} = ?`, a + b, t("addition", cc)); },
-  add10b: (cc) => { const a = randInt(0, 5), b = randInt(2, 9 - a); return q(`${b} + ${a} = ?`, a + b, t("addition", cc)); },
+  add10b: (cc) => { const a = randInt(1, 5), b = randInt(2, 9 - a); return q(`${b} + ${a} = ?`, a + b, t("addition", cc)); },
   sub10: (cc) => { const a = randInt(3, 10), b = randInt(1, a - 1); return q(`${a} - ${b} = ?`, a - b, t("subtraction", cc)); },
   sub10b: (cc) => { const a = randInt(5, 10), b = randInt(1, a); return q(`${a} - ${b} = ?`, a - b, t("subtraction", cc)); },
   add20: (cc) => { const a = randInt(10, 15), b = randInt(1, 19 - a); return q(`${a} + ${b} = ?`, a + b, t("addition20", cc)); },
@@ -741,7 +741,7 @@ const G1: Record<string, Generator> = {
   zaehlen: (cc) => {
     const emojis = ["⭐", "🍎", "🔵", "🌟", "🐶", "🌸", "🎈", "🐱", "🍓", "🦋"];
     const emoji = pick(emojis);
-    const count = randInt(1, 10);
+    const count = randInt(2, 10);
     const row = Array(count).fill(emoji).join(" ");
     return q(qZaehlen(row, cc), count, t("g1Zaehlen", cc));
   },
@@ -3121,21 +3121,21 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g1_pos',     name: 'Before · After · Number Line', color: '#1D4ED8', icon: '📏', generators: [G1.vorgaenger, G1.nachfolger, G1.numberLine] },
     ]},
     { key: 'g1_zahlen20', name: 'Numbers to 20', color: '#06B6D4', icon: '🔟', topics: [
-      { key: 'g1_num1120',      name: 'Numbers 11–20', color: '#22D3EE', icon: '🔟', generators: [G1.zaehlen, G1.placeValue20] },
+      { key: 'g1_num1120',      name: 'Numbers 11–20', color: '#22D3EE', icon: '🔟', generators: [G1.placeValue20] },
       { key: 'g1_place_value20', name: 'Tens and Ones  (14 = 1 ten + 4 ones)', color: '#0891B2', icon: '🧱', generators: [G1.placeValue20] },
     ]},
     { key: 'g1_rechnen', name: 'Basic Operations', color: '#EF4444', icon: '➕', topics: [
-      { key: 'g1_addpics', name: 'Addition with pictures', color: '#FCA5A5', icon: '🖼️', generators: [G1.zaehlen, G1.add10, G1.add10b] },
+      { key: 'g1_addpics', name: 'Addition with pictures', color: '#FCA5A5', icon: '🖼️', generators: [G2.countAdd] },
       { key: 'add10',      name: 'Addition to 10', color: '#F87171', icon: '➕', generators: [G1.add10, G1.add10b] },
       { key: 'add20',      name: 'Addition to 20', color: '#DC2626', icon: '➕', generators: [G1.add20, G1.add20b] },
-      { key: 'g1_subpics', name: 'Subtraction with pictures', color: '#FCA5A5', icon: '🖼️', generators: [G1.zaehlen, G1.sub10, G1.sub10b] },
+      { key: 'g1_subpics', name: 'Subtraction with pictures', color: '#FCA5A5', icon: '🖼️', generators: [G2.countSub] },
       { key: 'sub10',      name: 'Subtraction to 10', color: '#EF4444', icon: '➖', generators: [G1.sub10, G1.sub10b] },
       { key: 'sub20',      name: 'Subtraction to 20', color: '#B91C1C', icon: '➖', generators: [G1.sub20, G1.sub20b] },
-      { key: 'g1_tausch',  name: 'Swap tasks · Inverse tasks', color: '#F59E0B', icon: '🔄', generators: [G1.tausch, G1.missing10, G1.missing10sub] },
+      { key: 'g1_tausch',  name: 'Swap tasks · Inverse tasks', color: '#F59E0B', icon: '🔄', generators: [G1.tausch] },
     ]},
     { key: 'g1_struktur', name: 'Number Structure', color: '#8B5CF6', icon: '🧩', topics: [
       { key: 'g1_zahlzerlegung', name: 'Number bonds  (5 = 2 + 3)', color: '#A78BFA', icon: '🧩', generators: [G1.zahlzerlegung] },
-      { key: 'g1_ergaenzen',     name: 'Fill the gap  (5 + __ = 10)', color: '#7C3AED', icon: '❓', generators: [G1.missing10, G1.missing10sub] },
+      { key: 'g1_ergaenzen',     name: 'Fill the gap  (5 + __ = 10)', color: '#7C3AED', icon: '❓', generators: [G1.missing10] },
       { key: 'g1_verdoppeln',    name: 'Doubling  (3 + 3 = ?)', color: '#8B5CF6', icon: '✌️', generators: [G1.verdoppeln] },
       { key: 'g1_halbieren',     name: 'Halving  (6 → 3)', color: '#6D28D9', icon: '✂️', generators: [G1.halbieren] },
       { key: 'g1_sequence',      name: 'Number sequences  (2–4–6–?)', color: '#5B21B6', icon: '➡️', generators: [G1.sequence, G1.evenOdd] },
@@ -3533,21 +3533,21 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g1_pos',     name: 'Vorgänger · Nachfolger · Zahlenstrahl', color: '#1D4ED8', icon: '📏', generators: [G1.vorgaenger, G1.nachfolger, G1.numberLine] },
     ]},
     { key: 'g1_zahlen20', name: 'Zahlen bis 20', color: '#06B6D4', icon: '🔟', topics: [
-      { key: 'g1_num1120',       name: 'Zahlen 11–20', color: '#22D3EE', icon: '🔟', generators: [G1.zaehlen, G1.placeValue20] },
+      { key: 'g1_num1120',       name: 'Zahlen 11–20', color: '#22D3EE', icon: '🔟', generators: [G1.placeValue20] },
       { key: 'g1_place_value20', name: 'Zehner und Einer  (14 = 1Z + 4E)', color: '#0891B2', icon: '🧱', generators: [G1.placeValue20] },
     ]},
     { key: 'g1_rechnen', name: 'Rechnen', color: '#EF4444', icon: '➕', topics: [
-      { key: 'g1_addpics', name: 'Addition mit Bildern', color: '#FCA5A5', icon: '🖼️', generators: [G2.countAdd, G1.zaehlen, G1.add10, G1.add10b] },
-      { key: 'add10',      name: 'Addition bis 10', color: '#F87171', icon: '➕', generators: [G1.add10, G1.add10b, G1.missing10] },
+      { key: 'g1_addpics', name: 'Addition mit Bildern', color: '#FCA5A5', icon: '🖼️', generators: [G2.countAdd] },
+      { key: 'add10',      name: 'Addition bis 10', color: '#F87171', icon: '➕', generators: [G1.add10, G1.add10b] },
       { key: 'add20',      name: 'Addition bis 20', color: '#DC2626', icon: '➕', generators: [G1.add20, G1.add20b] },
-      { key: 'g1_subpics', name: 'Subtraktion mit Bildern', color: '#FCA5A5', icon: '🖼️', generators: [G2.countSub, G1.zaehlen, G1.sub10, G1.sub10b] },
+      { key: 'g1_subpics', name: 'Subtraktion mit Bildern', color: '#FCA5A5', icon: '🖼️', generators: [G2.countSub] },
       { key: 'sub10',      name: 'Subtraktion bis 10', color: '#EF4444', icon: '➖', generators: [G1.sub10, G1.sub10b] },
       { key: 'sub20',      name: 'Subtraktion bis 20', color: '#B91C1C', icon: '➖', generators: [G1.sub20, G1.sub20b] },
-      { key: 'g1_tausch',  name: 'Tausch- und Umkehraufgaben', color: '#F59E0B', icon: '🔄', generators: [G1.tausch, G1.missing10, G1.missing10sub] },
+      { key: 'g1_tausch',  name: 'Tausch- und Umkehraufgaben', color: '#F59E0B', icon: '🔄', generators: [G1.tausch] },
     ]},
     { key: 'g1_struktur', name: 'Zahlen verstehen', color: '#8B5CF6', icon: '🧩', topics: [
       { key: 'g1_zahlzerlegung', name: 'Zahlzerlegung  (5 = 2 + 3)', color: '#A78BFA', icon: '🧩', generators: [G1.zahlzerlegung] },
-      { key: 'g1_ergaenzen',     name: 'Ergänzen  (5 + __ = 10)', color: '#7C3AED', icon: '❓', generators: [G1.missing10, G1.missing10sub] },
+      { key: 'g1_ergaenzen',     name: 'Ergänzen  (5 + __ = 10)', color: '#7C3AED', icon: '❓', generators: [G1.missing10] },
       { key: 'g1_verdoppeln',    name: 'Verdoppeln  (3 + 3 = ?)', color: '#8B5CF6', icon: '✌️', generators: [G1.verdoppeln] },
       { key: 'g1_halbieren',     name: 'Halbieren  (6 → 3)', color: '#6D28D9', icon: '✂️', generators: [G1.halbieren] },
       { key: 'g1_sequence',      name: 'Zahlenfolgen  (2–4–6–?)', color: '#5B21B6', icon: '➡️', generators: [G1.sequence, G1.evenOdd] },
@@ -3998,21 +3998,21 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g1_pos',     name: 'Előző · Következő · Számegyenes', color: '#1D4ED8', icon: '📏', generators: [G1.vorgaenger, G1.nachfolger, G1.numberLine] },
     ]},
     { key: 'g1_zahlen20', name: 'Számkör bővítése (20-ig)', color: '#06B6D4', icon: '🔟', topics: [
-      { key: 'g1_num1120',       name: 'Számok 11–20', color: '#22D3EE', icon: '🔟', generators: [G1.zaehlen, G1.placeValue20] },
+      { key: 'g1_num1120',       name: 'Számok 11–20', color: '#22D3EE', icon: '🔟', generators: [G1.placeValue20] },
       { key: 'g1_place_value20', name: 'Tízes és egyes  (14 = 1T + 4E)', color: '#0891B2', icon: '🧱', generators: [G1.placeValue20] },
     ]},
     { key: 'g1_rechnen', name: 'Alapműveletek', color: '#EF4444', icon: '➕', topics: [
-      { key: 'g1_addpics', name: 'Összeadás képekkel', color: '#FCA5A5', icon: '🖼️', generators: [G1.zaehlen, G1.add10, G1.add10b] },
+      { key: 'g1_addpics', name: 'Összeadás képekkel', color: '#FCA5A5', icon: '🖼️', generators: [G2.countAdd] },
       { key: 'add10',      name: 'Összeadás 10-ig', color: '#F87171', icon: '➕', generators: [G1.add10, G1.add10b] },
       { key: 'add20',      name: 'Összeadás 20-ig', color: '#DC2626', icon: '➕', generators: [G1.add20, G1.add20b] },
-      { key: 'g1_subpics', name: 'Kivonás képekkel', color: '#FCA5A5', icon: '🖼️', generators: [G1.zaehlen, G1.sub10, G1.sub10b] },
+      { key: 'g1_subpics', name: 'Kivonás képekkel', color: '#FCA5A5', icon: '🖼️', generators: [G2.countSub] },
       { key: 'sub10',      name: 'Kivonás 10-ig', color: '#EF4444', icon: '➖', generators: [G1.sub10, G1.sub10b] },
       { key: 'sub20',      name: 'Kivonás 20-ig', color: '#B91C1C', icon: '➖', generators: [G1.sub20, G1.sub20b] },
-      { key: 'g1_tausch',  name: 'Felcserélés · Visszafordítás', color: '#F59E0B', icon: '🔄', generators: [G1.tausch, G1.missing10, G1.missing10sub] },
+      { key: 'g1_tausch',  name: 'Felcserélés · Visszafordítás', color: '#F59E0B', icon: '🔄', generators: [G1.tausch] },
     ]},
     { key: 'g1_struktur', name: 'Számstruktúra', color: '#8B5CF6', icon: '🧩', topics: [
       { key: 'g1_zahlzerlegung', name: 'Számfelbontás  (5 = 2 + 3)', color: '#A78BFA', icon: '🧩', generators: [G1.zahlzerlegung] },
-      { key: 'g1_ergaenzen',     name: 'Egészítsd ki!  (5 + __ = 10)', color: '#7C3AED', icon: '❓', generators: [G1.missing10, G1.missing10sub] },
+      { key: 'g1_ergaenzen',     name: 'Egészítsd ki!  (5 + __ = 10)', color: '#7C3AED', icon: '❓', generators: [G1.missing10] },
       { key: 'g1_verdoppeln',    name: 'Kétszereselés  (3 + 3 = ?)', color: '#8B5CF6', icon: '✌️', generators: [G1.verdoppeln] },
       { key: 'g1_halbieren',     name: 'Felezés  (6 → 3)', color: '#6D28D9', icon: '✂️', generators: [G1.halbieren] },
       { key: 'g1_sequence',      name: 'Számsorok  (2–4–6–?)', color: '#5B21B6', icon: '➡️', generators: [G1.sequence, G1.evenOdd] },
@@ -4404,21 +4404,21 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g1_pos',     name: 'Înainte · După · Dreapta numerelor', color: '#1D4ED8', icon: '📏', generators: [G1.vorgaenger, G1.nachfolger, G1.numberLine] },
     ]},
     { key: 'g1_zahlen20', name: 'Numere până la 20', color: '#06B6D4', icon: '🔟', topics: [
-      { key: 'g1_num1120',       name: 'Numere 11–20', color: '#22D3EE', icon: '🔟', generators: [G1.zaehlen, G1.placeValue20] },
+      { key: 'g1_num1120',       name: 'Numere 11–20', color: '#22D3EE', icon: '🔟', generators: [G1.placeValue20] },
       { key: 'g1_place_value20', name: 'Zeci și unități  (14 = 1Z + 4U)', color: '#0891B2', icon: '🧱', generators: [G1.placeValue20] },
     ]},
     { key: 'g1_rechnen', name: 'Operații de bază', color: '#EF4444', icon: '➕', topics: [
-      { key: 'g1_addpics', name: 'Adunare cu imagini', color: '#FCA5A5', icon: '🖼️', generators: [G1.zaehlen, G1.add10, G1.add10b] },
+      { key: 'g1_addpics', name: 'Adunare cu imagini', color: '#FCA5A5', icon: '🖼️', generators: [G2.countAdd] },
       { key: 'add10',      name: 'Adunare până la 10', color: '#F87171', icon: '➕', generators: [G1.add10, G1.add10b] },
       { key: 'add20',      name: 'Adunare până la 20', color: '#DC2626', icon: '➕', generators: [G1.add20, G1.add20b] },
-      { key: 'g1_subpics', name: 'Scădere cu imagini', color: '#FCA5A5', icon: '🖼️', generators: [G1.zaehlen, G1.sub10, G1.sub10b] },
+      { key: 'g1_subpics', name: 'Scădere cu imagini', color: '#FCA5A5', icon: '🖼️', generators: [G2.countSub] },
       { key: 'sub10',      name: 'Scădere până la 10', color: '#EF4444', icon: '➖', generators: [G1.sub10, G1.sub10b] },
       { key: 'sub20',      name: 'Scădere până la 20', color: '#B91C1C', icon: '➖', generators: [G1.sub20, G1.sub20b] },
-      { key: 'g1_tausch', name: 'Comutativitate și operații inverse', color: '#F59E0B', icon: '🔄', generators: [G1.tausch, G1.missing10, G1.missing10sub] },
+      { key: 'g1_tausch', name: 'Comutativitate și operații inverse', color: '#F59E0B', icon: '🔄', generators: [G1.tausch] },
     ]},
     { key: 'g1_struktur', name: 'Înțelegerea numerelor', color: '#8B5CF6', icon: '🧩', topics: [
       { key: 'g1_zahlzerlegung', name: 'Descompunerea numerelor  (5 = 2 + 3)', color: '#A78BFA', icon: '🧩', generators: [G1.zahlzerlegung] },
-      { key: 'g1_ergaenzen',     name: 'Completează!  (5 + __ = 10)', color: '#7C3AED', icon: '❓', generators: [G1.missing10, G1.missing10sub] },
+      { key: 'g1_ergaenzen',     name: 'Completează!  (5 + __ = 10)', color: '#7C3AED', icon: '❓', generators: [G1.missing10] },
       { key: 'g1_verdoppeln',    name: 'Dublare  (3 + 3 = ?)', color: '#8B5CF6', icon: '✌️', generators: [G1.verdoppeln] },
       { key: 'g1_halbieren',     name: 'Înjumătățire  (6 → 3)', color: '#6D28D9', icon: '✂️', generators: [G1.halbieren] },
       { key: 'g1_sequence',      name: 'Șiruri de numere  (2–4–6–?)', color: '#5B21B6', icon: '➡️', generators: [G1.sequence, G1.evenOdd] },
@@ -4837,7 +4837,7 @@ export function generateTopicQuestions(
           // Compatibility guard: ha a topic minimálisan szükséges számai jóval nagyobbak
           // a constraintnél, akkor a constraint nem alkalmazható (pl. place_value_100 + maxN=10).
           // Ezekre NEM alkalmazzuk a constraintet — inkább az eredeti generátorok futnak.
-          const isIncompatible = topicMaxN !== undefined && topicMaxN >= constraint.maxNumber * 5;
+          const isIncompatible = topicMaxN !== undefined && topicMaxN >= constraint.maxNumber * 2;
 
           if (needsConstraint && !isIncompatible) {
             const constrained = getConstrainedGenerators(topicKey, constraint);
