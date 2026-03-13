@@ -1148,14 +1148,16 @@ const G2: Record<string, Generator> = {
   // ── NEW G2: Visual emoji counting — addition (SVG) ──
   countAdd: (cc) => {
     const emoji = "●";
-    const a = randInt(2, 6), b = randInt(1, 5);
+    const a = randInt(5, 12);
+    const b = randInt(3, Math.min(8, 20 - a)); // a+b ≤ 20, G2 range
     return qvis(qCountAdd(a, emoji, b, cc), a + b, t("countObjects", cc),
       { type: "object-add", emoji, groupA: a, groupB: b });
   },
   // ── NEW G2: Visual emoji counting — subtraction (SVG) ──
   countSub: (cc) => {
     const emoji = "●";
-    const total = randInt(5, 12), removed = randInt(2, Math.min(5, total - 1));
+    const total = randInt(10, 20);
+    const removed = randInt(3, Math.min(8, total - 2)); // at least 2 remain
     return qvis(qCountSub(total, emoji, removed, cc), total - removed, t("countObjects", cc),
       { type: "object-sub", emoji, total, removed });
   },
