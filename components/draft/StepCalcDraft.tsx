@@ -100,6 +100,34 @@ function StepCalcDraft({ countryCode = "DE" }: StepCalcDraftProps) {
     inputRef.current?.focus();
   }, []);
 
+  const appendToInput = useCallback((ch: string) => {
+    setInput((prev) => {
+      if (ch === "⌫") return prev.slice(0, -1);
+      if (ch === "=") {
+        // Trigger submit via the current input + ch logic
+        return prev;
+      }
+      return prev + ch;
+    });
+    if (ch !== "⌫") inputRef.current?.focus();
+  }, []);
+
+  // Submit via operator button "=" tap
+  const handleEqualsBtn = useCallback(() => {
+    const expr = input.trim();
+    if (!expr) return;
+    const result = safeEval(expr);
+    if (result === null) {
+      setShake(true);
+      setTimeout(() => setShake(false), 400);
+      return;
+    }
+    setSteps((prev) => [...prev, { expr, result }]);
+    setInput("");
+  }, [input]);
+
+  const OPS = ["+", "−", "×", "÷", "(", ")", "⌫"];
+
   return (
     <div className="rounded-xl border border-gray-200 bg-gray-50/50 overflow-hidden">
       {/* Steps list */}
@@ -134,7 +162,7 @@ function StepCalcDraft({ countryCode = "DE" }: StepCalcDraftProps) {
         <input
           ref={inputRef}
           type="text"
-          inputMode="decimal"
+          inputMode="numeric"
           value={input}
           onChange={(e) => setInput(e.target.value)}
           onKeyDown={handleKeyDown}
@@ -145,7 +173,6 @@ function StepCalcDraft({ countryCode = "DE" }: StepCalcDraftProps) {
           autoComplete="off"
           autoCorrect="off"
         />
-        <span className="text-[10px] text-gray-300 flex-shrink-0 hidden sm:block">{t.hint}</span>
         {steps.length > 0 && (
           <button
             onClick={handleClear}
@@ -156,6 +183,37 @@ function StepCalcDraft({ countryCode = "DE" }: StepCalcDraftProps) {
             <Trash2 size={12} />
           </button>
         )}
+      </div>
+
+      {/* Operator buttons — always visible, essential on mobile */}
+      <div className="border-t border-gray-100 flex items-center bg-gray-50/80 px-2 py-1.5 gap-1">
+        {OPS.map((op) => (
+          <button
+            key={op}
+            onPointerDown={(e) => {
+              e.preventDefault(); // don't blur input
+              appendToInput(op === "−" ? "-" : op === "×" ? "*" : op === "÷" ? "/" : op);
+            }}
+            className={`flex-1 py-1.5 rounded-lg text-sm font-bold transition-colors select-none ${
+              op === "⌫"
+                ? "text-red-500 bg-red-50 hover:bg-red-100"
+                : "text-indigo-700 bg-indigo-50 hover:bg-indigo-100"
+            }`}
+            tabIndex={-1}
+          >
+            {op}
+          </button>
+        ))}
+        <button
+          onPointerDown={(e) => {
+            e.preventDefault();
+            handleEqualsBtn();
+          }}
+          className="flex-1 py-1.5 rounded-lg text-sm font-black text-white bg-indigo-600 hover:bg-indigo-700 transition-colors select-none"
+          tabIndex={-1}
+        >
+          =
+        </button>
       </div>
     </div>
   );
