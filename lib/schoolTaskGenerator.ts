@@ -875,7 +875,7 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
     // ── Grade 1 visual components ──────────────────────────────────────
     case 'g1_clock': {
       const hour = rnd(1, 12);
-      const minute = [0, 15, 30, 45][rnd(0, 3)]; // G1: only quarter hours
+      const minute = [0, 30][rnd(0, 1)]; // G1: volle + halbe Stunden only (topic name says so)
       return { id: `vis_g1c_${sfx}`, answer: `${hour}:${String(minute).padStart(2, '0')}`, points: 1,
         visualType: 'g1-clock', visualData: { type: 'g1-clock', params: { hour, minute } } };
     }
@@ -1447,11 +1447,13 @@ function generateAufgabenBlock(
   const items: AufgabenItem[] = [];
   const subQuestions: SubQuestion[] = [];
   const seen = new Set<string>();
-  const seenTemplates = new Set<string>(); // normalized: digits→_ to prevent same-story repetition
+  const seenTemplates = new Set<string>(); // normalized: digits→_ to prevent same-story repetition (word problems only)
 
   for (const q of pool) {
     if (items.length >= itemCount) break;
-    const templateKey = q.question.replace(/\d+/g, '_').trim();
+    // Template dedup only for word problems (same story + diff numbers = repetitive)
+    // NOT for data/arithmetic where diff numbers = genuinely different question
+    const templateKey = q.isWordProblem ? q.question.replace(/\d+/g, '_').trim() : q.question;
     if (!seen.has(q.question) && !seenTemplates.has(templateKey)) {
       seen.add(q.question);
       seenTemplates.add(templateKey);
