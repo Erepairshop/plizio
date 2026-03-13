@@ -3475,10 +3475,10 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g1_place_value20', name: 'Zehner und Einer  (14 = 1Z + 4E)', color: '#0891B2', icon: '🧱', generators: [G1.placeValue20] },
     ]},
     { key: 'g1_rechnen', name: 'Rechnen', color: '#EF4444', icon: '➕', topics: [
-      { key: 'g1_addpics', name: 'Addition mit Bildern', color: '#FCA5A5', icon: '🖼️', generators: [G1.gridCount, G1.add10, G1.add10b] },
+      { key: 'g1_addpics', name: 'Addition mit Bildern', color: '#FCA5A5', icon: '🖼️', generators: [G2.countAdd, G1.zaehlen, G1.add10, G1.add10b] },
       { key: 'add10',      name: 'Addition bis 10', color: '#F87171', icon: '➕', generators: [G1.add10, G1.add10b, G1.missing10] },
       { key: 'add20',      name: 'Addition bis 20', color: '#DC2626', icon: '➕', generators: [G1.add20, G1.add20b] },
-      { key: 'g1_subpics', name: 'Subtraktion mit Bildern', color: '#FCA5A5', icon: '🖼️', generators: [G1.gridCount, G1.sub10, G1.sub10b] },
+      { key: 'g1_subpics', name: 'Subtraktion mit Bildern', color: '#FCA5A5', icon: '🖼️', generators: [G2.countSub, G1.zaehlen, G1.sub10, G1.sub10b] },
       { key: 'sub10',      name: 'Subtraktion bis 10', color: '#EF4444', icon: '➖', generators: [G1.sub10, G1.sub10b] },
       { key: 'sub20',      name: 'Subtraktion bis 20', color: '#B91C1C', icon: '➖', generators: [G1.sub20, G1.sub20b] },
       { key: 'g1_tausch',  name: 'Tausch- und Umkehraufgaben', color: '#F59E0B', icon: '🔄', generators: [G1.tausch, G1.missing10, G1.missing10sub] },
