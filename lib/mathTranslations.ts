@@ -3368,8 +3368,8 @@ export function qAngleSumTriangle(countryCode: string): string {
 export function qRightAnglesInShape(shape: string, countryCode: string): string {
   const lang = getLang(countryCode);
   const shapes: Record<string, Record<string, string>> = {
-    rectangle: { DE: "einem Rechteck", EN: "a rectangle", RO: "un dreptunghi", HU: "a téglalapnak" },
-    square:    { DE: "einem Quadrat",   EN: "a square",    RO: "un pătrat",    HU: "a négyzetnek" },
+    rectangle: { DE: "ein Rechteck", EN: "a rectangle", RO: "un dreptunghi", HU: "a téglalapnak" },
+    square:    { DE: "ein Quadrat",   EN: "a square",    RO: "un pătrat",    HU: "a négyzetnek" },
   };
   const s = shapes[shape]?.[lang] ?? shapes[shape]?.["EN"] ?? shape;
   switch (lang) {

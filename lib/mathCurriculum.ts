@@ -1411,7 +1411,6 @@ const G3: Record<string, Generator> = {
     return pick([
       () => { const a = randInt(120,400), b = randInt(100,300); return q(wpFruitTotal(a,pick(it.fruits),b,pick(it.fruits),cc), a+b, t("wordProblem",cc),0,true); },
       () => { const a = randInt(120,350), b = randInt(80,250); return q(wpBikeTrip(a,b,cc), a+b, t("wordProblem",cc),0,true); },
-      () => { const r = randInt(4,8), p = randInt(30,80); return q(wpOrchardRows(r,p,pick(it.fruits),cc), r*p, t("wordProblem",cc),0,true); },
       () => { const nm = pick(ns.boys), a = randInt(150,400), b = randInt(80,300); return q(wpBooksOrdered(nm,a,b,cc), a+b, t("wordProblem",cc),0,true); },
       () => { const cities = [["Pécs","Győr"],["Berlin","München"],["Cluj","Brașov"],["London","Bristol"]]; const [cA,cB] = pick(cities); const a = randInt(120,350), b = randInt(80,250); return q(wpCityTrip(cA,cB,a,b,cc), a+b, t("wordProblem",cc),0,true); },
       () => { const a = randInt(200,600), b = randInt(100,400); const nm = pick([...ns.girls,...ns.boys]); return q(wpEventOrganizer(nm,a,b,cc), a+b, t("wordProblem",cc),0,true); },
@@ -1512,11 +1511,11 @@ const G3: Record<string, Generator> = {
   },
   perimCalc: (cc) => {
     const w = randInt(2, 10), h = randInt(2, 10);
-    return q(qRectPerimeter(w, h, cc), 2 * (w + h), t("perimeter", cc), 0, true);
+    return q(qRectPerimeter(w, h, cc), 2 * (w + h), t("perimeter", cc));
   },
   areaCalc: (cc) => {
     const w = randInt(2, 8), h = randInt(2, 8);
-    return q(qRectArea(w, h, cc), w * h, t("area", cc), 0, true);
+    return q(qRectArea(w, h, cc), w * h, t("area", cc));
   },
   barChartRead: (cc) => {
     const vals = [randInt(2, 12), randInt(2, 12), randInt(2, 12), randInt(2, 12)];
@@ -1565,7 +1564,7 @@ const G3: Record<string, Generator> = {
     () => q(qHowManyGInKg(cc), 1000, t("units", cc)),
     () => { const kg = randInt(2, 5); return q(qKgToG(kg, cc), kg * 1000, t("units", cc)); },
     () => { const g = pick([2000, 3000, 4000, 5000]); const lang = getLang(cc); const texts: Record<string, string> = { DE: `${g} g = ? kg`, EN: `${g} g = ? kg`, HU: `${g} g = ? kg`, RO: `${g} g = ? kg` }; return q(texts[lang] || texts.DE, g / 1000, t("units", cc)); },
-    () => q(qMlInL(cc), 1000, t("units", cc)),
+    () => { const kg = randInt(6, 10); return q(qKgToG(kg, cc), kg * 1000, t("units", cc)); },
   ])(),
   timeUnits: (cc) => pick([
     () => q(qHowManyMinInH(cc), 60, t("units", cc)),
@@ -1591,7 +1590,7 @@ const G3: Record<string, Generator> = {
         return q(texts[lang] || texts.DE, price * count, t("wordProblem", cc), 0, true);
       },
       () => {
-        const paid = pick([10, 20, 50]), price = randInt(3, paid - 1);
+        const paid = pick([5, 10, 20]), price = randInt(2, paid - 2);
         const item = pick(items.fruits);
         const texts: Record<string, string> = {
           DE: `Du kaufst ${item} für ${price} ${cur} und zahlst ${paid} ${cur}. Wie viel Wechselgeld bekommst du?`,
@@ -1657,6 +1656,123 @@ const G3: Record<string, Generator> = {
     () => { const a = pick([30, 45, 60, 80]); return q(qAngleType(a, cc), 1, t("geometry", cc)); },
     () => { const a = pick([100, 120, 135]); return q(qAngleType(a, cc), 3, t("geometry", cc)); },
   ])(),
+  // ─── G3: pure division word problems ─────────────────────────────────────
+  wordDiv: (cc) => {
+    const it = getItems(cc), ns = getNames(cc);
+    const lang = getLang(cc);
+    return pick([
+      // Sharing into equal baskets/plates
+      () => {
+        const d = pick([2,3,4,5,6]), r = randInt(4,9);
+        const item = pick(it.fruits);
+        const texts: Record<string,string> = {
+          DE: `${d*r} ${item} werden gleichmäßig auf ${d} Körbe verteilt. Wie viele ${item} sind in jedem Korb?`,
+          EN: `${d*r} ${item} are shared equally into ${d} baskets. How many ${item} are in each basket?`,
+          HU: `${d*r} db ${item}-t egyenlően ${d} kosárba osztják. Hány kerül minden kosárba?`,
+          RO: `${d*r} ${item} sunt împărțiți în ${d} coșuri în mod egal. Câte sunt în fiecare coș?`,
+        };
+        return q(texts[lang] || texts.DE, r, t("wordProblem", cc), 0, true);
+      },
+      // Dividing children into equal groups
+      () => {
+        const d = pick([3,4,5,6]), r = randInt(4,8);
+        const total = d * r;
+        const texts: Record<string,string> = {
+          DE: `${total} Kinder werden in ${d} gleiche Gruppen eingeteilt. Wie viele Kinder sind in jeder Gruppe?`,
+          EN: `${total} children are divided into ${d} equal groups. How many are in each group?`,
+          HU: `${total} gyereket ${d} egyenlő csoportra osztanak. Hány gyerek van minden csoportban?`,
+          RO: `${total} copii sunt împărțiți în ${d} grupe egale. Câți copii sunt în fiecare grupă?`,
+        };
+        return q(texts[lang] || texts.DE, r, t("wordProblem", cc), 0, true);
+      },
+      // Chairs arranged in equal rows
+      () => {
+        const d = pick([3,4,5,6,7]), r = randInt(4,8);
+        const total = d * r;
+        const texts: Record<string,string> = {
+          DE: `${total} Stühle werden in ${d} gleiche Reihen aufgestellt. Wie viele Stühle sind in einer Reihe?`,
+          EN: `${total} chairs are arranged in ${d} equal rows. How many chairs are in each row?`,
+          HU: `${total} széket ${d} egyenlő sorba rendeznek. Hány szék van egy sorban?`,
+          RO: `${total} scaune sunt aranjate în ${d} rânduri egale. Câte scaune sunt în fiecare rând?`,
+        };
+        return q(texts[lang] || texts.DE, r, t("wordProblem", cc), 0, true);
+      },
+      // Packing items into boxes of equal size
+      () => {
+        const d = pick([4,5,6,8]), r = randInt(3,7);
+        const item = pick(it.fruits);
+        const total = d * r;
+        const texts: Record<string,string> = {
+          DE: `${total} ${item} werden in Kisten zu je ${d} Stück verpackt. Wie viele Kisten braucht man?`,
+          EN: `${total} ${item} are packed into boxes of ${d}. How many boxes are needed?`,
+          HU: `${total} db ${item}-t ${d} darabos ládákba csomagolnak. Hány láda szükséges?`,
+          RO: `${total} ${item} sunt ambalate în cutii de câte ${d}. Câte cutii sunt necesare?`,
+        };
+        return q(texts[lang] || texts.DE, r, t("wordProblem", cc), 0, true);
+      },
+    ])();
+  },
+  // ─── G3: multi-step word problems (2 operations) ─────────────────────────
+  wordMulti: (cc) => {
+    const it = getItems(cc), ns = getNames(cc);
+    const lang = getLang(cc);
+    return pick([
+      // Buy packs, then give some away → packs × each − give
+      () => {
+        const packs = randInt(3,6), each = randInt(5,9);
+        const total = packs * each;
+        const give = randInt(3, Math.min(total - 5, 15));
+        const nm = pick(ns.girls);
+        const item = pick(it.fruits);
+        const texts: Record<string,string> = {
+          DE: `${nm} kauft ${packs} Packungen mit je ${each} ${item}. Sie verschenkt ${give} ${item}. Wie viele ${item} hat sie noch?`,
+          EN: `${nm} buys ${packs} packs of ${each} ${item}. She gives away ${give} ${item}. How many does she have left?`,
+          HU: `${nm} vesz ${packs} csomagot, mindegyikben ${each} db ${item} van. Ajándékba ad ${give} db-ot. Hány marad?`,
+          RO: `${nm} cumpără ${packs} pachete a câte ${each} ${item}. Dăruiește ${give} ${item}. Câte mai are?`,
+        };
+        return q(texts[lang] || texts.DE, total - give, t("wordProblem", cc), 0, true);
+      },
+      // Warehouse: start + new boxes arrive → start + boxes × each
+      () => {
+        const start = randInt(50, 120), boxes = randInt(3, 6), each = randInt(8, 15);
+        const texts: Record<string,string> = {
+          DE: `Im Lager lagen ${start} Pakete. Es kamen ${boxes} neue Kisten mit je ${each} Paketen dazu. Wie viele Pakete gibt es jetzt?`,
+          EN: `The warehouse had ${start} packages. ${boxes} new crates with ${each} packages each arrived. How many packages are there now?`,
+          HU: `A raktárban ${start} csomag volt. Érkezett ${boxes} új láda, mindegyikben ${each} csomag. Hány csomag van most?`,
+          RO: `Depozitul avea ${start} pachete. Au sosit ${boxes} cutii noi cu câte ${each} pachete. Câte pachete sunt acum?`,
+        };
+        return q(texts[lang] || texts.DE, start + boxes * each, t("wordProblem", cc), 0, true);
+      },
+      // Give equal amounts to friends then count remaining → start − friends × each
+      () => {
+        const friends = randInt(4, 7), each = randInt(5, 9);
+        const start = friends * each + randInt(10, 30);
+        const nm = pick(ns.girls);
+        const item = pick(it.fruits);
+        const texts: Record<string,string> = {
+          DE: `${nm} hat ${start} ${item}. Sie gibt je ${each} ${item} an ${friends} Freundinnen. Wie viele ${item} hat sie noch?`,
+          EN: `${nm} has ${start} ${item}. She gives ${each} ${item} to each of ${friends} friends. How many ${item} does she have left?`,
+          HU: `${nm}nak ${start} db ${item}-je van. ${friends} barátnőjének egyenként ${each} db-ot ad. Hány ${item}-je marad?`,
+          RO: `${nm} are ${start} ${item}. Dă câte ${each} ${item} fiecăreia din ${friends} prietene. Câte ${item} mai are?`,
+        };
+        return q(texts[lang] || texts.DE, start - friends * each, t("wordProblem", cc), 0, true);
+      },
+      // Two fruit groups shared equally → (a + b) ÷ d (ensure divisible)
+      () => {
+        const d = pick([3,4,5,6]);
+        const ra = randInt(2, 6), rb = randInt(2, 6);
+        const a = ra * d, b = rb * d;
+        const itemA = pick(it.fruits), itemB = pick(it.fruits);
+        const texts: Record<string,string> = {
+          DE: `In einem Korb sind ${a} ${itemA} und ${b} ${itemB}. Sie werden auf ${d} Kinder gleichmäßig verteilt. Wie viele Früchte bekommt jedes Kind?`,
+          EN: `A basket has ${a} ${itemA} and ${b} ${itemB}. They are shared equally among ${d} children. How many fruits does each child get?`,
+          HU: `Egy kosárban ${a} db ${itemA} és ${b} db ${itemB} van. ${d} gyerek között egyenlően osztják el. Hány gyümölcsöt kap minden gyerek?`,
+          RO: `Într-un coș sunt ${a} ${itemA} și ${b} ${itemB}. Se împart egal între ${d} copii. Câte fructe primește fiecare copil?`,
+        };
+        return q(texts[lang] || texts.DE, (a + b) / d, t("wordProblem", cc), 0, true);
+      },
+    ])();
+  },
 };
 
 const G4: Record<string, Generator> = {
@@ -3258,7 +3374,7 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g3_div_cat', name: 'Division', color: '#8B5CF6', icon: '➗', topics: [
       { key: 'g3_div_basic',   name: 'Basic Division',                  color: '#A78BFA', icon: '➗', generators: [G3.div, G3.divB] },
-      { key: 'g3_div_rem',     name: 'Division with Remainder',         color: '#C4B5FD', icon: '➗', generators: [G3.divRelMul, G3.divRemainder] },
+      { key: 'g3_div_rem',     name: 'Division with Remainder',         color: '#C4B5FD', icon: '➗', generators: [G3.divRemainder] },
       { key: 'g3_div_shr',    name: '🎮 Sharing Objects onto Plates',  color: '#DDD6FE', icon: '➗', generators: [] },
     ]},
     { key: 'g3_patterns_cat', name: 'Number Patterns & Logic', color: '#64748B', icon: '🔗', topics: [
@@ -3300,10 +3416,10 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g3_word_cat', name: 'Word Problems', color: '#DC2626', icon: '📖', topics: [
       { key: 'g3_word_add_t',  name: 'Addition Word Problems',          color: '#F87171', icon: '📖', generators: [G3.word1, G3.add1000] },
-      { key: 'g3_word_sub_t',  name: 'Subtraction Word Problems',       color: '#FCA5A5', icon: '📖', generators: [G3.word1, G3.sub1000] },
+      { key: 'g3_word_sub_t',  name: 'Subtraction Word Problems',       color: '#FCA5A5', icon: '📖', generators: [G3.wordSub] },
       { key: 'g3_word_mul_t',  name: 'Multiplication Word Problems',    color: '#F87171', icon: '📖', generators: [G3.word2] },
-      { key: 'g3_word_div_t',  name: 'Division Word Problems',          color: '#FCA5A5', icon: '📖', generators: [G3.word3] },
-      { key: 'g3_word_multi_t', name: 'Multi-step Problems',            color: '#F87171', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
+      { key: 'g3_word_div_t',  name: 'Division Word Problems',          color: '#FCA5A5', icon: '📖', generators: [G3.wordDiv] },
+      { key: 'g3_word_multi_t', name: 'Multi-step Problems',            color: '#F87171', icon: '📖', generators: [G3.word1, G3.wordDiv, G3.wordMulti] },
     ]},
   ],
   4: [
@@ -3670,7 +3786,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g3_div_cat', name: 'Division', color: '#8B5CF6', icon: '➗', topics: [
       { key: 'g3_div_basic',   name: 'Grundlegende Division',               color: '#A78BFA', icon: '➗', generators: [G3.div, G3.divB] },
-      { key: 'g3_div_rem',     name: 'Division mit Rest',                   color: '#C4B5FD', icon: '➗', generators: [G3.divRelMul, G3.divRemainder] },
+      { key: 'g3_div_rem',     name: 'Division mit Rest',                   color: '#C4B5FD', icon: '➗', generators: [G3.divRemainder] },
       { key: 'g3_div_shr',    name: '🎮 Gegenstände auf Teller verteilen',  color: '#DDD6FE', icon: '➗', generators: [] },
     ]},
     { key: 'g3_patterns_cat', name: 'Muster & Logik', color: '#64748B', icon: '🔗', topics: [
@@ -3712,10 +3828,10 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g3_word_cat', name: 'Sachaufgaben', color: '#DC2626', icon: '📖', topics: [
       { key: 'g3_word_add_t',  name: 'Additionsaufgaben',                   color: '#F87171', icon: '📖', generators: [G3.word1] },
-      { key: 'g3_word_sub_t',  name: 'Subtraktionsaufgaben',                color: '#FCA5A5', icon: '📖', generators: [G3.wordSub, G3.word3] },
+      { key: 'g3_word_sub_t',  name: 'Subtraktionsaufgaben',                color: '#FCA5A5', icon: '📖', generators: [G3.wordSub] },
       { key: 'g3_word_mul_t',  name: 'Multiplikationsaufgaben',             color: '#F87171', icon: '📖', generators: [G3.word2] },
-      { key: 'g3_word_div_t',  name: 'Divisionsaufgaben',                   color: '#FCA5A5', icon: '📖', generators: [G3.word3] },
-      { key: 'g3_word_multi_t', name: 'Mehrstufige Aufgaben',               color: '#F87171', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
+      { key: 'g3_word_div_t',  name: 'Divisionsaufgaben',                   color: '#FCA5A5', icon: '📖', generators: [G3.wordDiv] },
+      { key: 'g3_word_multi_t', name: 'Mehrstufige Aufgaben',               color: '#F87171', icon: '📖', generators: [G3.word1, G3.wordDiv, G3.wordMulti] },
     ]},
   ],
   4: [
@@ -4128,7 +4244,7 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g3_div_cat', name: 'Osztás', color: '#8B5CF6', icon: '➗', topics: [
       { key: 'g3_div_basic',   name: 'Alaposztás',                           color: '#A78BFA', icon: '➗', generators: [G3.div, G3.divB] },
-      { key: 'g3_div_rem',     name: 'Maradékos osztás',                     color: '#C4B5FD', icon: '➗', generators: [G3.divRelMul, G3.divRemainder] },
+      { key: 'g3_div_rem',     name: 'Maradékos osztás',                     color: '#C4B5FD', icon: '➗', generators: [G3.divRemainder] },
       { key: 'g3_div_shr',    name: '🎮 Osztás tányérokra',                  color: '#DDD6FE', icon: '➗', generators: [] },
     ]},
     { key: 'g3_patterns_cat', name: 'Számminták és logika', color: '#64748B', icon: '🔗', topics: [
@@ -4170,10 +4286,10 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g3_word_cat', name: 'Szöveges feladatok', color: '#DC2626', icon: '📖', topics: [
       { key: 'g3_word_add_t',  name: 'Összeadásos feladatok',                color: '#F87171', icon: '📖', generators: [G3.word1, G3.add1000] },
-      { key: 'g3_word_sub_t',  name: 'Kivonásos feladatok',                  color: '#FCA5A5', icon: '📖', generators: [G3.word1, G3.sub1000] },
+      { key: 'g3_word_sub_t',  name: 'Kivonásos feladatok',                  color: '#FCA5A5', icon: '📖', generators: [G3.wordSub] },
       { key: 'g3_word_mul_t',  name: 'Szorzásos feladatok',                  color: '#F87171', icon: '📖', generators: [G3.word2] },
-      { key: 'g3_word_div_t',  name: 'Osztásos feladatok',                   color: '#FCA5A5', icon: '📖', generators: [G3.word3] },
-      { key: 'g3_word_multi_t', name: 'Több lépéses feladatok',              color: '#F87171', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
+      { key: 'g3_word_div_t',  name: 'Osztásos feladatok',                   color: '#FCA5A5', icon: '📖', generators: [G3.wordDiv] },
+      { key: 'g3_word_multi_t', name: 'Több lépéses feladatok',              color: '#F87171', icon: '📖', generators: [G3.word1, G3.wordDiv, G3.wordMulti] },
     ]},
   ],
   4: [
@@ -4534,7 +4650,7 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g3_div_cat', name: 'Împărțire', color: '#8B5CF6', icon: '➗', topics: [
       { key: 'g3_div_basic',   name: 'Împărțire de bază',                    color: '#A78BFA', icon: '➗', generators: [G3.div, G3.divB] },
-      { key: 'g3_div_rem',     name: 'Împărțire cu rest',                    color: '#C4B5FD', icon: '➗', generators: [G3.divRelMul, G3.divRemainder] },
+      { key: 'g3_div_rem',     name: 'Împărțire cu rest',                    color: '#C4B5FD', icon: '➗', generators: [G3.divRemainder] },
       { key: 'g3_div_shr',    name: '🎮 Împarte pe farfurii',                color: '#DDD6FE', icon: '➗', generators: [] },
     ]},
     { key: 'g3_patterns_cat', name: 'Modele & Logică', color: '#64748B', icon: '🔗', topics: [
@@ -4576,10 +4692,10 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g3_word_cat', name: 'Probleme', color: '#DC2626', icon: '📖', topics: [
       { key: 'g3_word_add_t',  name: 'Probleme de adunare',                  color: '#F87171', icon: '📖', generators: [G3.word1, G3.add1000] },
-      { key: 'g3_word_sub_t',  name: 'Probleme de scădere',                  color: '#FCA5A5', icon: '📖', generators: [G3.word1, G3.sub1000] },
+      { key: 'g3_word_sub_t',  name: 'Probleme de scădere',                  color: '#FCA5A5', icon: '📖', generators: [G3.wordSub] },
       { key: 'g3_word_mul_t',  name: 'Probleme de înmulțire',                color: '#F87171', icon: '📖', generators: [G3.word2] },
-      { key: 'g3_word_div_t',  name: 'Probleme de împărțire',                color: '#FCA5A5', icon: '📖', generators: [G3.word3] },
-      { key: 'g3_word_multi_t', name: 'Probleme în mai mulți pași',          color: '#F87171', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
+      { key: 'g3_word_div_t',  name: 'Probleme de împărțire',                color: '#FCA5A5', icon: '📖', generators: [G3.wordDiv] },
+      { key: 'g3_word_multi_t', name: 'Probleme în mai mulți pași',          color: '#F87171', icon: '📖', generators: [G3.word1, G3.wordDiv, G3.wordMulti] },
     ]},
   ],
   4: [
