@@ -8,6 +8,14 @@ import {
   t, getTranslatedPeriodLabel, getNames, getItems, getCurrency,
   qCompare, wpHasFruit, wpLostItems, wpColoredItems, wpAte, wpBus,
   wpBirds, wpGifts, wpFlowers, wpShared, wpSteps,
+  wpFoundInNature, wpBirthdayPresents, wpFilledBag, wpKidsJoined, wpCoinsInBank,
+  wpMarketBasket, wpBuiltTower, wpCollectedStickers, wpSchoolSupplies,
+  wpKidsWentHome, wpAteFromPlate, wpGavePencils, wpBirdsOnFence,
+  wpUsedPaper, wpGotOffBus, wpPickedRipeFruit, wpSoldAtMarket,
+  wpCompareToys, wpMissingBalls, wpBookshelf,
+  wpClassroomTable, wpSavingsGoal, wpBakery, wpLibraryReturn, wpSchoolTrip,
+  wpSwimmingPool, wpGardenFlowers, wpSportsDay,
+  wpBikeTrip, wpBoxesInWarehouse, wpSchoolCafe, wpFruitShop,
   wpSchool, wpBought, wpEachGets, wpShare,
   qHowManyCmInM, qHowManyGInKg, qHowManyMinInH, qMetersInCm, qHoursInMin,
   qMlInL, qLiterToMl, qKmToM, qTonToKg, qLiterToDl,
@@ -170,11 +178,17 @@ export const TOPIC_NUMBER_RANGE: Partial<Record<string, number>> = {
   'g2_zahlen100': 100, 'g2_add_ohne': 100, 'g2_add_mit': 100,
   'g2_sub_ohne': 100, 'g2_sub_mit': 100, 'g2_add_kopf': 100, 'g2_sub_kopf': 100,
   'g2_add3': 100, 'g2_add_visual': 100, 'g2_sub_visual': 100,
-  'g2_mul_simple': 100, 'mul2510': 100,
+  'g2_mul_simple': 100, 'mul2510': 100, 'mul2510b': 100,
+  'g2_div_simple': 100, 'div2510': 100,
   // Grade 3 — 1-1000
   'add1000': 1000, 'sub1000': 1000, 'add1000b': 1000, 'sub1000b': 1000,
+  'g3_add': 1000, 'g3_sub': 1000, 'g3_add_kopf': 1000, 'g3_sub_kopf': 1000,
+  'g3_mul': 1000, 'g3_div': 1000, 'mul': 1000,
   // Grade 4 — 1-10000
   'add10000': 10000, 'sub10000': 10000,
+  'g4_add': 10000, 'g4_sub': 10000, 'g4_mul': 10000, 'g4_div': 10000,
+  // Grade 5 — általános számok (nincs explicit maxNumber, de ismerjük az összeadás/kivonást)
+  'g5_add': 100000, 'g5_sub': 100000,
 };
 
 /**
@@ -187,20 +201,26 @@ const TOPIC_OPERATION_TYPE: Partial<Record<string, 'add' | 'sub' | 'mul' | 'div'
   'add1000': 'add', 'add1000b': 'add', 'add10000': 'add',
   'g1_addpics': 'add', 'g2_add_ohne': 'add', 'g2_add_mit': 'add',
   'g2_add_kopf': 'add', 'g2_add3': 'add', 'g2_add_visual': 'add',
+  'g3_add': 'add', 'g3_add_kopf': 'add', 'g4_add': 'add', 'g5_add': 'add',
   // Subtraction topics
   'sub10': 'sub', 'sub20': 'sub', 'sub100': 'sub', 'sub100b': 'sub',
   'sub1000': 'sub', 'sub1000b': 'sub',
   'g1_subpics': 'sub', 'g2_sub_ohne': 'sub', 'g2_sub_mit': 'sub',
   'g2_sub_kopf': 'sub', 'g2_sub_visual': 'sub',
+  'g3_sub': 'sub', 'g3_sub_kopf': 'sub', 'g4_sub': 'sub', 'g5_sub': 'sub',
   // Mixed / missing number
   'missing10': 'mixed', 'missing10sub': 'mixed',
   'g1_zahlzerlegung': 'mixed', 'g1_ergaenzen': 'mixed', 'g1_tausch': 'mixed',
-  'g2_missing_add': 'mixed',
+  'g2_missing_add': 'mixed', 'g2_seq': 'mixed', 'g2_missing': 'mixed',
   // Multiplication
   'mul2510': 'mul', 'mul2510b': 'mul', 'g2_mul_simple': 'mul', 'g2_mul_rep': 'mul',
+  'mul': 'mul', 'g3_mul': 'mul', 'g4_mul': 'mul',
+  // Division
+  'div2510': 'div', 'g2_div_simple': 'div', 'g3_div': 'div', 'g4_div': 'div',
   // Word problems
   'word': 'word', 'g2_add_word': 'word', 'g2_sub_word': 'word',
-  'g2_word_add': 'word', 'g2_word_sub': 'word',
+  'g2_word_add': 'word', 'g2_word_sub': 'word', 'g2_word_mul': 'word',
+  'g3_word': 'word', 'g4_word': 'word',
 };
 
 /**
@@ -264,6 +284,72 @@ function makeConstrainedMulGen(maxN: number): (cc: string) => MathQuestion {
   };
 }
 
+// Constrained word problem generator — valódi narratív szöveges feladatok maxN-en belül.
+// Ezeket akkor használjuk, ha a 'word' topic meghaladja a constraint maxNumber értékét.
+// Az import körkörös függőség elkerülése miatt itt lokálisan duplikáljuk a szükséges hívásokat.
+function makeConstrainedWordGen(maxN: number): (cc: string) => MathQuestion {
+  return (cc: string) => {
+    // Kezelt módszerek: addition, subtraction, comparison
+    const scenario = randInt(0, 5);
+    const a = randInt(2, Math.max(2, Math.floor(maxN * 0.7)));
+    const b = scenario < 3
+      ? randInt(1, Math.min(maxN - a, Math.max(1, maxN - a)))   // add: a+b ≤ maxN
+      : randInt(1, a - 1 > 0 ? a - 1 : 1);                      // sub: a-b ≥ 1
+    const answer = scenario < 3 ? a + b : a - b;
+    const safeA = Math.max(2, a), safeB = Math.max(1, b);
+    // Beépített mini narratívák — nem importálunk, mert az import körre megy
+    const lang = getLang(cc);
+    const addStories: Record<string, string[]> = {
+      DE: [
+        `Im Korb liegen ${safeA} Äpfel. Mama legt noch ${safeB} dazu. Wie viele sind es jetzt?`,
+        `${safeA} Kinder spielen Fangen. Dann kommen ${safeB} weitere dazu. Wie viele spielen jetzt?`,
+        `In der Tasche sind ${safeA} Stifte. ${safeB} kommen noch hinzu. Wie viele Stifte sind es jetzt?`,
+      ],
+      EN: [
+        `There are ${safeA} apples in the basket. Mum adds ${safeB} more. How many are there now?`,
+        `${safeA} children are playing tag. ${safeB} more join in. How many are playing now?`,
+        `There are ${safeA} pencils in the bag. ${safeB} more are put in. How many pencils are there now?`,
+      ],
+      RO: [
+        `În coș sunt ${safeA} mere. Mama mai pune ${safeB}. Câte sunt acum?`,
+        `${safeA} copii se joacă. Vin încă ${safeB}. Câți copii se joacă acum?`,
+        `În geantă sunt ${safeA} creioane. Se mai pun ${safeB}. Câte creioane sunt acum?`,
+      ],
+      HU: [
+        `A kosárban ${safeA} alma van. Anyu betesz még ${safeB}-t. Hány alma van most?`,
+        `${safeA} gyerek játszik fogócskát. Jön még ${safeB}. Hányan játszanak most?`,
+        `A táskában ${safeA} ceruza van. Beletesznek még ${safeB}-t. Hány ceruza van most?`,
+      ],
+    };
+    const subStories: Record<string, string[]> = {
+      DE: [
+        `Auf dem Teller lagen ${safeA} Kekse. ${safeB} wurden gegessen. Wie viele sind noch da?`,
+        `Im Bus saßen ${safeA} Personen. An der Haltestelle stiegen ${safeB} aus. Wie viele sind noch im Bus?`,
+        `${safeA} Vögel saßen auf dem Ast. ${safeB} flogen davon. Wie viele sitzen noch dort?`,
+      ],
+      EN: [
+        `There were ${safeA} cookies on the plate. ${safeB} were eaten. How many are left?`,
+        `${safeA} people were on the bus. ${safeB} got off. How many are still on the bus?`,
+        `${safeA} birds were sitting on the branch. ${safeB} flew away. How many are still there?`,
+      ],
+      RO: [
+        `Pe farfurie erau ${safeA} biscuiți. S-au mâncat ${safeB}. Câți au rămas?`,
+        `În autobuz erau ${safeA} persoane. Au coborât ${safeB}. Câte persoane mai sunt?`,
+        `${safeA} păsări stăteau pe creangă. ${safeB} au zburat. Câte mai sunt?`,
+      ],
+      HU: [
+        `A tányéron ${safeA} keksz volt. Megettünk ${safeB}-t. Hány maradt?`,
+        `A buszon ${safeA} ember ült. ${safeB} leszállt. Hányan maradtak?`,
+        `${safeA} madár ült az ágon. ${safeB} elrepült. Hány maradt?`,
+      ],
+    };
+    const stories = scenario < 3 ? addStories : subStories;
+    const pool = stories[lang] || stories['HU'];
+    const text = pool[randInt(0, pool.length - 1)];
+    return { question: text, correctAnswer: answer, options: generateOptionsC(answer, 0, maxN + 3), topic: 'wordProblem', isWordProblem: true };
+  };
+}
+
 // Helper: generate 4 distinct options centered around `correct` within [minVal, maxVal]
 function generateOptionsC(correct: number, minVal: number, maxVal: number): number[] {
   const opts = new Set<number>([correct]);
@@ -312,8 +398,7 @@ function getConstrainedGenerators(
       if (maxN < 4) return [makeConstrainedAddGen(maxN)]; // túl kicsi a szorzáshoz
       return [makeConstrainedMulGen(maxN)];
     case 'word':
-      // Szöveges feladatoknál inkább vegyes constraintet használunk
-      return [makeConstrainedMixedGen(maxN)];
+      return [makeConstrainedWordGen(maxN)];
     default:
       return null;
   }
@@ -431,57 +516,114 @@ const G1: Record<string, Generator> = {
     // Typical errors: writes minuend (a), writes the result (a-b), off by 1
     return qd(qMissingInEquation(`${a} - ? = ${a - b}`, cc), b, t("missingNumber", cc), [a, a - b, b + 1]);
   },
+  // G1 szöveges feladatok — nagy pool, sok különböző kontextus és megfogalmazás
   word1: (cc) => {
-    const names = getNames(cc); const items = getItems(cc);
-    const name = pick(names.girls); const fruit = pick(items.fruits);
-    const a = randInt(2, 7), b = randInt(1, 8 - a);
-    return q(wpHasFruit(name, fruit, a, b, cc), a + b, t("wordProblem", cc), 0, true);
+    // Addition pool: 9 különböző "összeadásos" forgatókönyv
+    const ns = getNames(cc), it = getItems(cc);
+    return pick([
+      () => { const nm = pick(ns.girls), fr = pick(it.fruits), a = randInt(2,7), b = randInt(1,8-a); return q(wpHasFruit(nm,fr,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), fr = pick(it.fruits), a = randInt(2,6), b = randInt(1,7-a); return q(wpFoundInNature(nm,fr,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.girls), st = it.sticker, a = randInt(2,5), b = randInt(1,5); return q(wpBirthdayPresents(nm,st,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const fr = pick(it.fruits), a = randInt(3,6), b = randInt(2,6); return q(wpFilledBag(fr,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(3,8), b = randInt(2,5); return q(wpKidsJoined(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.girls), a = randInt(2,6), b = randInt(1,5); return q(wpCoinsInBank(nm,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), a = randInt(2,6), b = randInt(1,5); return q(wpBuiltTower(nm,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.girls), a = randInt(2,5), b = randInt(1,5); return q(wpCollectedStickers(nm,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), a = randInt(3,8), b = randInt(2,6); return q(wpSteps(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+    ])();
   },
   word2: (cc) => {
-    const names = getNames(cc); const items = getItems(cc);
-    const name = pick(names.boys); const toy = pick(items.toys);
-    const a = randInt(4, 10), b = randInt(1, a - 1);
-    return q(wpLostItems(name, toy, a, b, cc), a - b, t("wordProblem", cc), 0, true);
+    // Subtraction pool: 8 különböző "kivonásos" forgatókönyv
+    const ns = getNames(cc), it = getItems(cc);
+    return pick([
+      () => { const nm = pick(ns.boys), toy = pick(it.toys), a = randInt(4,10), b = randInt(1,a-1); return q(wpLostItems(nm,toy,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.girls), sw = pick(it.sweets), a = randInt(5,9), b = randInt(1,a-1); return q(wpAteFromPlate(nm,sw,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), a = randInt(4,9), b = randInt(1,a-1); return q(wpGavePencils(nm,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(5,10), b = randInt(1,a-1); return q(wpBirdsOnFence(a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.girls), a = randInt(4,10), b = randInt(1,a-1); return q(wpGifts(nm,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), a = randInt(5,9), b = randInt(1,a-1); return q(wpUsedPaper(nm,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(5,10), b = randInt(1,a-1); return q(wpBirds(a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const fr = pick(it.fruits), a = randInt(6,10), b = randInt(1,a-2); return q(wpSoldAtMarket(fr,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+    ])();
   },
   word3: (cc) => {
-    const items = getItems(cc);
-    const a = randInt(3, 9), b = randInt(2, 8);
-    return q(wpColoredItems(items.red, a, items.blue, b, items.pencil, cc), a + b, t("wordProblem", cc), 0, true);
+    // Mixed addition pool — különböző tárgyak, helyzetekszínek
+    const it = getItems(cc), ns = getNames(cc);
+    return pick([
+      () => { const a = randInt(3,9), b = randInt(2,8); return q(wpColoredItems(it.red,a,it.blue,b,it.pencil,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(2,8), b = randInt(1,7); return q(wpFlowers(a,it.red,b,it.blue,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), a = randInt(2,6), b = randInt(1,6); return q(wpSchoolSupplies(nm,it.pencil,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(3,6), b = randInt(2,6); return q(wpMarketBasket(it.fruits[0],a,it.fruits[1],b,cc), a+b, t("wordProblem",cc),0,true); },
+    ])();
   },
   word4: (cc) => {
-    const items = getItems(cc);
-    const a = randInt(5, 14), b = randInt(1, a - 2);
-    return q(wpAte(a, b, pick(items.sweets), cc), a - b, t("wordProblem", cc), 0, true);
+    // Subtraction pool — konkrét tárgyak elfogyasztása, elvesztése
+    const it = getItems(cc), ns = getNames(cc);
+    return pick([
+      () => { const sw = pick(it.sweets), a = randInt(5,9), b = randInt(1,a-2); return q(wpAte(a,b,sw,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const fr = pick(it.fruits), nm = pick(ns.girls), a = randInt(5,9), b = randInt(1,a-1); return q(wpPickedRipeFruit(nm,fr,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(5,10), b = randInt(1,a-2); return q(wpKidsWentHome(a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const fr = pick(it.fruits), a = randInt(5,9), b = randInt(1,a-2); return q(wpSoldAtMarket(fr,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+    ])();
   },
   word5: (cc) => {
-    const a = randInt(3, 8), b = randInt(2, 6);
-    return q(wpBus(a, b, cc), a + b, t("wordProblem", cc), 0, true);
+    // Transport / movement stories
+    const ns = getNames(cc);
+    return pick([
+      () => { const a = randInt(3,8), b = randInt(2,6); return q(wpBus(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(4,9), b = randInt(2,5); return q(wpKidsJoined(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(5,9), b = randInt(1,a-1); return q(wpGotOffBus(a,b,cc), a-b, t("wordProblem",cc),0,true); },
+    ])();
   },
   word6: (cc) => {
-    const a = randInt(5, 12), b = randInt(1, a - 2);
-    return q(wpBirds(a, b, cc), a - b, t("wordProblem", cc), 0, true);
+    // Nature / outdoors stories
+    const ns = getNames(cc), it = getItems(cc);
+    return pick([
+      () => { const a = randInt(5,10), b = randInt(1,a-1); return q(wpBirds(a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(5,9), b = randInt(2,a-1); return q(wpBirdsOnFence(a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), fr = pick(it.fruits), a = randInt(4,9), b = randInt(1,a-2); return q(wpPickedRipeFruit(nm,fr,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.girls), fr = pick(it.fruits), a = randInt(2,5), b = randInt(1,5); return q(wpFoundInNature(nm,fr,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+    ])();
   },
   word7: (cc) => {
-    const names = getNames(cc);
-    const name = pick(names.girls);
-    const a = randInt(4, 10), b = randInt(1, a - 1);
-    return q(wpGifts(name, a, b, cc), a - b, t("wordProblem", cc), 0, true);
+    // Possessions — giving / losing / sharing
+    const ns = getNames(cc), it = getItems(cc);
+    return pick([
+      () => { const nm = pick(ns.girls), a = randInt(4,9), b = randInt(1,a-1); return q(wpGifts(nm,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), toy = pick(it.toys), a = randInt(4,9), b = randInt(1,a-1); return q(wpLostItems(nm,toy,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.girls), a = randInt(4,9), b = randInt(1,a-1); return q(wpGavePencils(nm,a,b,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const total = randInt(6,10), share = randInt(2,total-2); const nm = pick(ns.boys); return q(wpShared(total,nm,share,cc), total-share, t("wordProblem",cc),0,true); },
+    ])();
   },
   word8: (cc) => {
-    const items = getItems(cc);
-    const colorA = items.red, colorB = items.blue;
-    const a = randInt(2, 8), b = randInt(1, 7);
-    return q(wpFlowers(a, colorA, b, colorB, cc), a + b, t("wordProblem", cc), 0, true);
+    // Home / family stories — addition
+    const ns = getNames(cc), it = getItems(cc);
+    return pick([
+      () => { const a = randInt(2,8), b = randInt(1,7); return q(wpFlowers(a,it.red,b,it.blue,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.girls), fr = pick(it.fruits), a = randInt(2,5), b = randInt(1,5); return q(wpBirthdayPresents(nm,fr,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), a = randInt(2,5), b = randInt(1,4); return q(wpCoinsInBank(nm,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const fr = pick(it.fruits), a = randInt(3,6), b = randInt(2,5); return q(wpFilledBag(fr,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+    ])();
   },
   word9: (cc) => {
-    const names = getNames(cc);
-    const name = pick(names.boys);
-    const total = randInt(6, 14), share = randInt(2, total - 1);
-    return q(wpShared(total, name, share, cc), total - share, t("wordProblem", cc), 0, true);
+    // Comparison / missing number stories
+    const ns = getNames(cc), it = getItems(cc);
+    return pick([
+      () => { const nm = pick(ns.boys), total = randInt(6,10), share = randInt(2,total-2); return q(wpShared(total,nm,share,cc), total-share, t("wordProblem",cc),0,true); },
+      () => { const nmA = pick(ns.girls), nmB = pick(ns.boys), toy = pick(it.toys), a = randInt(3,8), b = randInt(2,7); return q(wpBookshelf(nmA,a,nmB,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const fr = pick(it.fruits), tot = randInt(6,10), left = randInt(2,tot-2); return q(wpMissingBalls(fr,tot,left,cc), tot-left, t("wordProblem",cc),0,true); },
+    ])();
   },
   word10: (cc) => {
-    const a = randInt(3, 9), b = randInt(2, 8);
-    return q(wpSteps(a, b, cc), a + b, t("wordProblem", cc), 0, true);
+    // Mixed final pool — változatos
+    const ns = getNames(cc), it = getItems(cc);
+    return pick([
+      () => { const a = randInt(3,8), b = randInt(2,7); return q(wpSteps(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), a = randInt(2,6), b = randInt(2,5); return q(wpBuiltTower(nm,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(3,8), b = randInt(2,6); return q(wpKidsJoined(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(3,8), b = randInt(1,7); return q(wpColoredItems(it.red,a,it.blue,b,it.sticker,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.girls), st = it.sticker, a = randInt(2,5), b = randInt(2,5); return q(wpCollectedStickers(nm,a,b,cc), a+b, t("wordProblem",cc),0,true); },
+    ])();
   },
   evenOdd: (cc) => {
     return Math.random() < 0.5
@@ -712,24 +854,41 @@ const G2: Record<string, Generator> = {
     return q(qMissingInEquation(`${a} + ? = ${a + b}`, cc), b, t("missingNumber", cc));
   },
   word1: (cc) => {
-    const a = randInt(20, 50), b = randInt(10, 40);
-    return q(wpSchool(a, b, cc), a + b, t("wordProblem", cc), 0, true);
+    // G2 addition pool — 1-100 számokon belül
+    const ns = getNames(cc), it = getItems(cc);
+    return pick([
+      () => { const a = randInt(20,50), b = randInt(10,40); return q(wpSchool(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(20,55), b = randInt(10,40); return q(wpClassroomTable(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(25,50), b = randInt(10,40); return q(wpSwimmingPool(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(15,40), b = randInt(10,35); return q(wpSportsDay(pick(ns.girls),a,pick(ns.boys),b,cc), a+b, t("wordProblem",cc),0,true); },
+    ])();
   },
   word2: (cc) => {
-    const names = getNames(cc); const items = getItems(cc); const cur = getCurrency(cc);
-    const name = pick(names.girls);
-    const a = randInt(30, 80), b = randInt(10, a - 5);
-    return q(wpBought(name, items.eraser, a, b, cur, cc), a - b, t("wordProblem", cc), 0, true);
+    // G2 subtraction / money pool
+    const ns = getNames(cc), it = getItems(cc), cur = getCurrency(cc);
+    return pick([
+      () => { const nm = pick(ns.girls), a = randInt(30,80), b = randInt(10,a-5); return q(wpBought(nm,it.eraser,a,b,cur,cc), a-b, t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), has = randInt(20,60), needs = has + randInt(10,30); return q(wpSavingsGoal(nm,has,needs,cc), needs-has, t("wordProblem",cc),0,true); },
+      () => { const total = randInt(30,80), gone = randInt(5,total-5); return q(wpSchoolTrip(total,gone,cc), total-gone, t("wordProblem",cc),0,true); },
+      () => { const baked = randInt(40,80), sold = randInt(10,baked-10); return q(wpBakery(it.sweets[0],baked,sold,cc), baked-sold, t("wordProblem",cc),0,true); },
+    ])();
   },
   word3: (cc) => {
-    const items = getItems(cc);
-    const a = randInt(2, 5), b = pick([2, 5, 10]);
-    return q(wpEachGets(a, b, pick(items.sweets), cc), a * b, t("wordProblem", cc), 0, true);
+    // G2 multiplication pool
+    const it = getItems(cc), ns = getNames(cc);
+    return pick([
+      () => { const a = randInt(2,5), b = pick([2,5,10]); return q(wpEachGets(a,b,pick(it.sweets),cc), a*b, t("wordProblem",cc),0,true); },
+      () => { const r = randInt(3,6), p = pick([2,5,10]); return q(wpGardenFlowers(r,p,cc), r*p, t("wordProblem",cc),0,true); },
+    ])();
   },
   word4: (cc) => {
-    const names = getNames(cc); const items = getItems(cc);
-    const a = randInt(2, 5) * 10, b = randInt(2, 4) * 10;
-    return q(wpCollectionDiff(pick(names.boys), a, pick(names.girls), b, items.sticker, cc), Math.abs(a - b), t("wordProblem", cc), 0, true);
+    // G2 comparison / difference pool
+    const ns = getNames(cc), it = getItems(cc);
+    return pick([
+      () => { const a = randInt(2,5)*10, b = randInt(2,4)*10; return q(wpCollectionDiff(pick(ns.boys),a,pick(ns.girls),b,it.sticker,cc), Math.abs(a-b), t("wordProblem",cc),0,true); },
+      () => { const nm = pick(ns.boys), borrowed = randInt(4,8), returned = randInt(1,borrowed-1); return q(wpLibraryReturn(nm,borrowed,returned,cc), borrowed-returned, t("wordProblem",cc),0,true); },
+      () => { const nmA = pick(ns.girls), nmB = pick(ns.boys), a = randInt(20,50), b = randInt(10,45); return q(wpCompareToys(nmA,a,nmB,b,it.sticker,cc), Math.abs(a-b), t("wordProblem",cc),0,true); },
+    ])();
   },
   units: (cc) => {
     if (cc === "US") return pick([
@@ -4651,7 +4810,13 @@ export function generateTopicQuestions(
         if (constraint) {
           const topicMaxN = TOPIC_NUMBER_RANGE[topicKey];
           const needsConstraint = topicMaxN === undefined || topicMaxN > constraint.maxNumber;
-          if (needsConstraint) {
+
+          // Compatibility guard: ha a topic minimálisan szükséges számai jóval nagyobbak
+          // a constraintnél, akkor a constraint nem alkalmazható (pl. place_value_100 + maxN=10).
+          // Ezekre NEM alkalmazzuk a constraintet — inkább az eredeti generátorok futnak.
+          const isIncompatible = topicMaxN !== undefined && topicMaxN >= constraint.maxNumber * 5;
+
+          if (needsConstraint && !isIncompatible) {
             const constrained = getConstrainedGenerators(topicKey, constraint);
             if (constrained) generators = constrained;
           }

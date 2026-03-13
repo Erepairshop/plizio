@@ -2163,6 +2163,340 @@ export function wpSteps(a: number, b: number, countryCode: string): string {
   }
 }
 
+// ─── EXTRA WORD PROBLEM TEMPLATES — GRADE 1 ADDITION ─────────────────────────
+// Ezek a template-ek természetesebb, változatosabb szövegeket adnak.
+
+export function wpFoundInNature(name: string, item: string, a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${name} geht mit der Familie spazieren. Auf dem Weg findet ${name} zuerst ${a} ${item}, dann noch ${b}. Wie viele hat ${name} insgesamt gefunden?`;
+    case "EN": return `${name} is out for a walk. Along the way, ${name} first finds ${a} ${item}, then ${b} more. How many has ${name} found altogether?`;
+    case "RO": return `${name} merge la plimbare cu familia. Pe drum, găsește mai întâi ${a} ${item}, apoi încă ${b}. Câte a găsit în total?`;
+    default:   return `${name} sétálni megy a családdal. Útközben talál ${a} ${item}t, majd talál még ${b} darabot. Hányat talált összesen?`;
+  }
+}
+
+export function wpBirthdayPresents(name: string, item: string, a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Heute ist ${name}s Geburtstag! Von Mama bekommt ${name} ${a} ${item} und von Papa noch ${b}. Wie viele hat ${name} jetzt insgesamt?`;
+    case "EN": return `Today is ${name}'s birthday! ${name} gets ${a} ${item} from mum and ${b} more from dad. How many does ${name} have altogether?`;
+    case "RO": return `Astăzi e ziua lui/ei ${name}! De la mama primește ${a} ${item}, iar de la tata încă ${b}. Câte are ${name} acum?`;
+    default:   return `Ma ${name} születésnapja! Anyától kap ${a} ${item}t, apától még ${b} darabot. Hány ${item}ja van összesen?`;
+  }
+}
+
+export function wpFilledBag(item: string, a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `In der Tasche waren schon ${a} ${item}. Dann habe ich noch ${b} mehr hineingelegt. Wie viele ${item} sind jetzt in der Tasche?`;
+    case "EN": return `There were already ${a} ${item} in the bag. Then I put in ${b} more. How many ${item} are in the bag now?`;
+    case "RO": return `În geantă erau deja ${a} ${item}. Am mai pus încă ${b}. Câte ${item} sunt acum în geantă?`;
+    default:   return `A táskában már volt ${a} ${item}. Még beletettem ${b} darabot. Hány ${item} van most a táskában?`;
+  }
+}
+
+export function wpKidsJoined(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Auf dem Spielplatz spielten ${a} Kinder Fangen. Dann kamen noch ${b} Kinder dazu. Wie viele Kinder spielen jetzt zusammen?`;
+    case "EN": return `${a} children were playing tag at the playground. Then ${b} more children joined. How many children are playing now?`;
+    case "RO": return `Pe terenul de joacă se jucau ${a} copii de-a v-ați ascunselea. Au mai venit ${b} copii. Câți copii se joacă acum?`;
+    default:   return `A játszótéren ${a} gyerek játszott fogócskát. Jött még ${b} gyerek. Hányan játszanak most?`;
+  }
+}
+
+export function wpCoinsInBank(name: string, a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${name} hat ${a} Münzen ins Sparschwein gesteckt. Heute steckt ${name} noch ${b} weitere hinein. Wie viele Münzen sind jetzt im Sparschwein?`;
+    case "EN": return `${name} put ${a} coins into the piggy bank. Today ${name} puts in ${b} more. How many coins are in the piggy bank now?`;
+    case "RO": return `${name} a pus ${a} monede în pușculiță. Azi mai pune încă ${b}. Câte monede sunt acum în pușculiță?`;
+    default:   return `${name} ${a} érmét tett a malacperselybe. Ma még betett ${b}-t. Hány érme van most a perselyben?`;
+  }
+}
+
+export function wpMarketBasket(item1: string, a: number, item2: string, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Auf dem Markt kauft Mama ${a} ${item1} und ${b} ${item2}. Wie viele Sachen hat sie insgesamt eingekauft?`;
+    case "EN": return `At the market, mum buys ${a} ${item1} and ${b} ${item2}. How many things did she buy altogether?`;
+    case "RO": return `La piață, mama cumpără ${a} ${item1} și ${b} ${item2}. Câte lucruri a cumpărat în total?`;
+    default:   return `A piacon anyuka vásárolt ${a} ${item1}t és ${b} ${item2}t. Összesen hány dolgot vett?`;
+  }
+}
+
+export function wpBuiltTower(name: string, a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${name} baut einen Turm aus Bauklötzen. Zuerst legt ${name} ${a} Klötze hin, dann noch ${b} weitere. Wie viele Klötze hat der Turm jetzt?`;
+    case "EN": return `${name} is building a tower with blocks. First ${name} places ${a} blocks, then adds ${b} more. How many blocks does the tower have now?`;
+    case "RO": return `${name} construiește un turn din cuburi. Mai întâi pune ${a} cuburi, apoi mai adaugă ${b}. Câte cuburi are turnul acum?`;
+    default:   return `${name} kockatornyot épít. Először letesz ${a} kockát, majd rárak még ${b}-t. Hány kocka van most a toronyban?`;
+  }
+}
+
+export function wpCollectedStickers(name: string, a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${name} sammelt Sticker. In dieser Woche hat ${name} ${a} Sticker bekommen, letzte Woche waren es ${b}. Wie viele Sticker hat ${name} zusammen?`;
+    case "EN": return `${name} collects stickers. This week ${name} got ${a} stickers, and last week ${b}. How many stickers does ${name} have in total?`;
+    case "RO": return `${name} colecționează abțibilduri. Săptămâna aceasta a primit ${a}, săptămâna trecută ${b}. Câte abțibilduri are în total?`;
+    default:   return `${name} matricákat gyűjt. Ezen a héten kapott ${a} matricát, a múlt héten ${b}-t. Hány matricája van összesen?`;
+  }
+}
+
+export function wpSchoolSupplies(name: string, item: string, a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${name} legt ${a} ${item} in das Mäppchen. Mama legt noch ${b} dazu. Wie viele ${item} sind jetzt im Mäppchen?`;
+    case "EN": return `${name} puts ${a} ${item}s in the pencil case. Mum adds ${b} more. How many ${item}s are in the pencil case now?`;
+    case "RO": return `${name} pune ${a} ${item} în penar. Mama mai pune încă ${b}. Câte ${item} sunt acum în penar?`;
+    default:   return `${name} ${a} ${item}t tesz a tolltartóba. Anyu még beletesz ${b} darabot. Hány ${item} van most a tolltartóban?`;
+  }
+}
+
+// ─── EXTRA WORD PROBLEM TEMPLATES — GRADE 1 SUBTRACTION ──────────────────────
+
+export function wpKidsWentHome(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Auf dem Spielplatz spielten ${a} Kinder. Als es dunkel wurde, gingen ${b} nach Hause. Wie viele Kinder sind noch auf dem Spielplatz?`;
+    case "EN": return `${a} children were playing at the playground. When it got dark, ${b} went home. How many children are still at the playground?`;
+    case "RO": return `Pe terenul de joacă se jucau ${a} copii. Când s-a întunecat, ${b} au plecat acasă. Câți copii au mai rămas?`;
+    default:   return `A játszótéren ${a} gyerek játszott. Amikor besötétedett, ${b} hazament. Hány gyerek maradt még a játszótéren?`;
+  }
+}
+
+export function wpAteFromPlate(name: string, item: string, a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Auf dem Teller lagen ${a} ${item}. ${name} hat ${b} davon gegessen. Wie viele ${item} sind noch auf dem Teller?`;
+    case "EN": return `There were ${a} ${item} on the plate. ${name} ate ${b} of them. How many ${item} are left on the plate?`;
+    case "RO": return `Pe farfurie erau ${a} ${item}. ${name} a mâncat ${b}. Câte ${item} au rămas pe farfurie?`;
+    default:   return `A tányéron volt ${a} ${item}. ${name} megett ${b} darabot. Hány ${item} maradt a tányéron?`;
+  }
+}
+
+export function wpGavePencils(name: string, a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${name} hatte ${a} Buntstifte. ${name} hat ${b} davon an einen Freund verschenkt. Wie viele Buntstifte hat ${name} noch?`;
+    case "EN": return `${name} had ${a} coloured pencils. ${name} gave ${b} to a friend. How many coloured pencils does ${name} have left?`;
+    case "RO": return `${name} avea ${a} creioane colorate. I-a dat ${b} unui prieten. Câte creioane colorate îi mai rămân?`;
+    default:   return `${name} ${a} színes ceruzával rendelkezett. ${b} darabot odaajándékozott a barátjának. Hány színes ceruzája maradt?`;
+  }
+}
+
+export function wpBirdsOnFence(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Auf dem Zaun saßen ${a} Vögel. Ein lautes Geräusch erschreckte sie, und ${b} flogen davon. Wie viele Vögel sitzen noch auf dem Zaun?`;
+    case "EN": return `${a} birds were sitting on the fence. A loud noise scared them, and ${b} flew away. How many birds are still on the fence?`;
+    case "RO": return `Pe gard stăteau ${a} păsări. Un zgomot puternic le-a speriat și ${b} au zburat. Câte păsări au mai rămas pe gard?`;
+    default:   return `A kerítésen ${a} madár ült. Egy hangos zajra megijedt ${b}, és elrepült. Hány madár maradt még a kerítésen?`;
+  }
+}
+
+export function wpUsedPaper(name: string, a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${name} hatte ${a} Blatt Papier. Für die Mal-Aufgabe hat ${name} ${b} Blatt benutzt. Wie viele Blatt Papier hat ${name} noch?`;
+    case "EN": return `${name} had ${a} sheets of paper. ${name} used ${b} sheets for drawing. How many sheets of paper does ${name} have left?`;
+    case "RO": return `${name} avea ${a} foi de hârtie. A folosit ${b} foi pentru desen. Câte foi de hârtie îi mai rămân?`;
+    default:   return `${name} ${a} lap rajzpapírral rendelkezett. Rajzoláshoz felhasználta ${b} lapot. Hány lapja maradt?`;
+  }
+}
+
+export function wpGotOffBus(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Im Bus saßen ${a} Fahrgäste. An der nächsten Haltestelle stiegen ${b} aus. Wie viele Fahrgäste sind noch im Bus?`;
+    case "EN": return `There were ${a} passengers on the bus. At the next stop, ${b} got off. How many passengers are still on the bus?`;
+    case "RO": return `În autobuz erau ${a} pasageri. La stația următoare au coborât ${b}. Câți pasageri mai sunt în autobuz?`;
+    default:   return `A buszon ${a} utas ült. A következő megállóban leszállt ${b} utas. Hány utas maradt még a buszon?`;
+  }
+}
+
+export function wpPickedRipeFruit(name: string, item: string, a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Am Baum hingen ${a} ${item}. ${name} hat die ${b} reifsten gepflückt. Wie viele ${item} hängen noch am Baum?`;
+    case "EN": return `There were ${a} ${item} on the tree. ${name} picked the ${b} ripest ones. How many ${item} are still on the tree?`;
+    case "RO": return `În pom erau ${a} ${item}. ${name} a cules cele mai coapte ${b}. Câte ${item} mai sunt în pom?`;
+    default:   return `A fán ${a} ${item} lógott. ${name} leszedett belőle ${b} legérettebbet. Hány ${item} maradt még a fán?`;
+  }
+}
+
+export function wpSoldAtMarket(item: string, a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Am Marktstand waren morgens ${a} ${item}. Bis Mittag wurden ${b} verkauft. Wie viele ${item} sind noch übrig?`;
+    case "EN": return `There were ${a} ${item} at the market stall in the morning. By noon, ${b} were sold. How many ${item} are left?`;
+    case "RO": return `Dimineața la tarabă erau ${a} ${item}. Până la prânz s-au vândut ${b}. Câte ${item} au mai rămas?`;
+    default:   return `Az árusnál reggel ${a} ${item} volt. Délig eladott ${b} darabot. Hány ${item} maradt még?`;
+  }
+}
+
+// ─── EXTRA WORD PROBLEM TEMPLATES — GRADE 1 COMPARISON / MIXED ───────────────
+
+export function wpCompareToys(nameA: string, a: number, nameB: string, b: number, item: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${nameA} hat ${a} ${item} und ${nameB} hat ${b} ${item}. Wer hat mehr, und wie viele mehr?`;
+    case "EN": return `${nameA} has ${a} ${item} and ${nameB} has ${b} ${item}. Who has more, and by how many?`;
+    case "RO": return `${nameA} are ${a} ${item}, iar ${nameB} are ${b}. Cine are mai mult și cu câte?`;
+    default:   return `${nameA} ${a} ${item}ja van, ${nameB}-nek ${b}. Kinek van több, és mennyivel több?`;
+  }
+}
+
+export function wpMissingBalls(item: string, total: number, left: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const gone = total - left;
+  switch (lang) {
+    case "DE": return `Im Korb waren ${total} ${item}. Jetzt sind noch ${left} da. Wie viele ${item} fehlen?`;
+    case "EN": return `There were ${total} ${item} in the basket. Now only ${left} are left. How many ${item} are missing?`;
+    case "RO": return `În coș erau ${total} ${item}. Acum mai sunt ${left}. Câte ${item} lipsesc?`;
+    default:   return `A kosárban ${total} ${item} volt. Most már csak ${left} darab van. Hány ${item} hiányzik?`;
+  }
+}
+
+export function wpBookshelf(nameA: string, a: number, nameB: string, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${nameA} hat ${a} Bücher gelesen, ${nameB} hat ${b} gelesen. Wie viele Bücher haben sie zusammen gelesen?`;
+    case "EN": return `${nameA} has read ${a} books and ${nameB} has read ${b}. How many books have they read together?`;
+    case "RO": return `${nameA} a citit ${a} cărți, ${nameB} a citit ${b}. Câte cărți au citit împreună?`;
+    default:   return `${nameA} ${a} könyvet olvasott el, ${nameB} ${b}-t. Összesen hány könyvet olvastak el?`;
+  }
+}
+
+// ─── EXTRA WORD PROBLEM TEMPLATES — GRADE 2 ──────────────────────────────────
+
+export function wpClassroomTable(boys: number, girls: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Am Tisch in der Klasse sitzen ${boys} Jungen und ${girls} Mädchen. Wie viele Kinder sitzen insgesamt am Tisch?`;
+    case "EN": return `At the classroom table there are ${boys} boys and ${girls} girls. How many children are sitting at the table in total?`;
+    case "RO": return `La masa din clasă stau ${boys} băieți și ${girls} fete. Câți copii stau la masă în total?`;
+    default:   return `Az osztály asztalánál ${boys} fiú és ${girls} lány ül. Összesen hány gyerek ül az asztalnál?`;
+  }
+}
+
+export function wpSavingsGoal(name: string, has: number, needs: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const missing = needs - has;
+  switch (lang) {
+    case "DE": return `${name} möchte ein Spielzeug kaufen, das ${needs} € kostet. ${name} hat schon ${has} € gespart. Wie viel Geld fehlt noch?`;
+    case "EN": return `${name} wants to buy a toy that costs ${needs}€. ${name} has already saved ${has}€. How much more money is needed?`;
+    case "RO": return `${name} vrea să cumpere o jucărie care costă ${needs} €. ${name} a economisit deja ${has} €. Câți bani îi mai lipsesc?`;
+    default:   return `${name} szeretne venni egy ${needs} €-s játékot. Már ${has} €-t gyűjtött össze. Mennyit kell még spórolnia?`;
+  }
+}
+
+export function wpBakery(item: string, baked: number, sold: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Die Bäckerei hat heute ${baked} ${item} gebacken. Bis Mittag wurden ${sold} verkauft. Wie viele ${item} sind noch in der Auslage?`;
+    case "EN": return `The bakery baked ${baked} ${item} today. By noon, ${sold} were sold. How many ${item} are still on display?`;
+    case "RO": return `Brutăria a copt ${baked} ${item} azi. Până la prânz s-au vândut ${sold}. Câte ${item} mai sunt la raft?`;
+    default:   return `A pékség ma ${baked} ${item}t sütött. Délig eladott ${sold} darabot. Hány ${item} maradt még a polcon?`;
+  }
+}
+
+export function wpLibraryReturn(name: string, borrowed: number, returned: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${name} hat aus der Bücherei ${borrowed} Bücher ausgeliehen. ${name} hat schon ${returned} zurückgebracht. Wie viele Bücher muss ${name} noch zurückbringen?`;
+    case "EN": return `${name} borrowed ${borrowed} books from the library. ${name} has already returned ${returned}. How many books does ${name} still need to return?`;
+    case "RO": return `${name} a împrumutat ${borrowed} cărți de la bibliotecă. A returnat deja ${returned}. Câte cărți mai trebuie să returneze?`;
+    default:   return `${name} ${borrowed} könyvet kölcsönzött a könyvtárból. Már visszavitt ${returned} darabot. Hány könyvet kell még visszavinnie?`;
+  }
+}
+
+export function wpSchoolTrip(total: number, gone: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Die Klasse macht einen Ausflug. ${total} Kinder sind angemeldet, aber ${gone} sind krank geblieben. Wie viele Kinder fahren mit?`;
+    case "EN": return `The class is going on a school trip. ${total} children signed up, but ${gone} are ill. How many children are going on the trip?`;
+    case "RO": return `Clasa face o excursie. ${total} copii s-au înscris, dar ${gone} sunt bolnavi. Câți copii merg la excursie?`;
+    default:   return `Az osztály kirándulást tervez. ${total} gyerek iratkozott fel, de ${gone} beteg lett. Hány gyerek megy el a kirándulásra?`;
+  }
+}
+
+export function wpSwimmingPool(morning: number, afternoon: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Am Vormittag kamen ${morning} Kinder ins Schwimmbad. Am Nachmittag kamen noch ${afternoon} dazu. Wie viele Kinder waren insgesamt dort?`;
+    case "EN": return `In the morning, ${morning} children came to the swimming pool. In the afternoon, ${afternoon} more arrived. How many children were there in total?`;
+    case "RO": return `Dimineața au venit la piscină ${morning} copii. După-amiază au mai venit ${afternoon}. Câți copii au fost în total?`;
+    default:   return `Délelőtt ${morning} gyerek ment az uszodába. Délután érkezett még ${afternoon}. Összesen hány gyerek fordult meg ott?`;
+  }
+}
+
+export function wpGardenFlowers(rows: number, perRow: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Im Garten gibt es ${rows} Beete. In jedem Beet stehen ${perRow} Blumen. Wie viele Blumen sind es insgesamt?`;
+    case "EN": return `The garden has ${rows} flowerbeds. Each flowerbed has ${perRow} flowers. How many flowers are there in total?`;
+    case "RO": return `Grădina are ${rows} straturi de flori. Fiecare strat are ${perRow} flori. Câte flori sunt în total?`;
+    default:   return `A kertben ${rows} virágágy van. Minden virágágyban ${perRow} virág nő. Összesen hány virág van a kertben?`;
+  }
+}
+
+export function wpSportsDay(teamA: string, scoreA: number, teamB: string, scoreB: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Beim Sportfest erzielte ${teamA} ${scoreA} Punkte und ${teamB} erzielte ${scoreB} Punkte. Wie viele Punkte haben beide Teams zusammen?`;
+    case "EN": return `At the sports day, ${teamA} scored ${scoreA} points and ${teamB} scored ${scoreB}. How many points did both teams score together?`;
+    case "RO": return `La ziua sportului, ${teamA} a obținut ${scoreA} puncte iar ${teamB} ${scoreB}. Câte puncte au obținut ambele echipe împreună?`;
+    default:   return `A sportnapon ${teamA} csapata ${scoreA} pontot szerzett, ${teamB} csapata ${scoreB}-t. Összesen hány pontot szereztek a csapatok?`;
+  }
+}
+
+// ─── EXTRA WORD PROBLEM TEMPLATES — GRADE 3 ──────────────────────────────────
+
+export function wpBikeTrip(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Familie Schmidt fährt mit dem Fahrrad. Am Vormittag legen sie ${a} km zurück, am Nachmittag ${b} km. Wie viele Kilometer sind sie insgesamt gefahren?`;
+    case "EN": return `The Smith family goes cycling. They cycle ${a} km in the morning and ${b} km in the afternoon. How many kilometres did they cycle in total?`;
+    case "RO": return `Familia Ionescu merge cu bicicleta. Dimineața parcurg ${a} km, după-amiază ${b} km. Câți kilometri au parcurs în total?`;
+    default:   return `A Kovács család kerékpároznni megy. Délelőtt ${a} km-t tesznek meg, délután ${b} km-t. Összesen hány kilométert tekertek?`;
+  }
+}
+
+export function wpBoxesInWarehouse(boxes: number, perBox: number, item: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Im Lager stehen ${boxes} Kisten. In jeder Kiste befinden sich ${perBox} ${item}. Wie viele ${item} gibt es im Lager insgesamt?`;
+    case "EN": return `There are ${boxes} boxes in the warehouse. Each box holds ${perBox} ${item}. How many ${item} are in the warehouse altogether?`;
+    case "RO": return `În depozit sunt ${boxes} cutii. Fiecare cutie conține ${perBox} ${item}. Câte ${item} sunt în depozit în total?`;
+    default:   return `A raktárban ${boxes} láda áll. Minden ládában ${perBox} ${item} van. Összesen hány ${item} van a raktárban?`;
+  }
+}
+
+export function wpSchoolCafe(students: number, price: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `In der Schulkantine kaufen ${students} Schüler je ein Mittagessen für ${price} €. Wie viel Geld zahlen sie insgesamt?`;
+    case "EN": return `${students} students each buy lunch for ${price}€ in the school cafeteria. How much do they pay altogether?`;
+    case "RO": return `${students} elevi cumpără fiecare un prânz de ${price} € la cantina școlii. Cât plătesc în total?`;
+    default:   return `Az iskolai büfében ${students} tanuló vásárol, mindenki ${price} €-ért ebédet. Összesen mennyit fizetnek?`;
+  }
+}
+
+export function wpFruitShop(item: string, price: number, amount: number, paid: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const cost = price * amount;
+  switch (lang) {
+    case "DE": return `${amount} kg ${item} kosten je ${price} €. Wie viel kostet alles zusammen?`;
+    case "EN": return `${item} cost ${price}€ per kg. How much do ${amount} kg cost altogether?`;
+    case "RO": return `${item} costă ${price} €/kg. Cât costă ${amount} kg în total?`;
+    default:   return `${item} kilója ${price} €. Mennyibe kerül ${amount} kg összesen?`;
+  }
+}
+
 // Pattern continuation
 export function qG1Pattern(seq: string[], countryCode: string): string {
   const lang = getLang(countryCode);
