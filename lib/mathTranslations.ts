@@ -2497,6 +2497,191 @@ export function wpFruitShop(item: string, price: number, amount: number, paid: n
   }
 }
 
+// ─── EXTRA WORD PROBLEM TEMPLATES — GRADE 3 (100-999 számokon) ───────────────
+
+export function wpOrchardRows(rows: number, perRow: number, item: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Im Obstgarten stehen ${rows} Reihen ${item}-Bäume. In jeder Reihe wachsen ${perRow} Bäume. Wie viele ${item}-Bäume gibt es insgesamt?`;
+    case "EN": return `The orchard has ${rows} rows of ${item} trees. Each row has ${perRow} trees. How many ${item} trees are there in total?`;
+    case "RO": return `Livada are ${rows} rânduri de pomi cu ${item}. Fiecare rând are ${perRow} pomi. Câți pomi sunt în total?`;
+    default:   return `A gyümölcsösben ${rows} sor ${item}fa áll. Minden sorban ${perRow} fa van. Összesen hány ${item}fa van?`;
+  }
+}
+
+export function wpBooksOrdered(name: string, a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Die Bücherei von ${name} hat in diesem Monat ${a} neue Bücher bekommen und letzten Monat ${b}. Wie viele Bücher kamen insgesamt an?`;
+    case "EN": return `${name}'s library received ${a} new books this month and ${b} last month. How many books arrived in total?`;
+    case "RO": return `Biblioteca din ${name} a primit ${a} cărți noi luna aceasta și ${b} luna trecută. Câte cărți au sosit în total?`;
+    default:   return `A ${name}i könyvtár ebben a hónapban ${a} új könyvet kapott, a múlt hónapban ${b}-t. Összesen hány könyv érkezett?`;
+  }
+}
+
+export function wpCityTrip(cityA: string, cityB: string, a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Von ${cityA} nach ${cityB} sind es ${a} km. Dann fährt man noch ${b} km weiter bis zum Ziel. Wie viele Kilometer sind es insgesamt?`;
+    case "EN": return `From ${cityA} to ${cityB} is ${a} km. Then it's another ${b} km to the destination. How many kilometres is that altogether?`;
+    case "RO": return `De la ${cityA} la ${cityB} sunt ${a} km. Apoi mai sunt ${b} km până la destinație. Câți km sunt în total?`;
+    default:   return `${cityA}-tól ${cityB}-ig ${a} km az út. Onnan a célállomásig még ${b} km van. Összesen hány km az egész út?`;
+  }
+}
+
+export function wpTruckDelivery(loads: number, perLoad: number, item: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Lastwagen transportiert pro Fahrt ${perLoad} ${item}. Er macht ${loads} Fahrten. Wie viele ${item} werden insgesamt geliefert?`;
+    case "EN": return `A truck carries ${perLoad} ${item} per trip. It makes ${loads} trips. How many ${item} are delivered in total?`;
+    case "RO": return `Un camion transportă ${perLoad} ${item} pe cursă. Face ${loads} curse. Câte ${item} sunt livrate în total?`;
+    default:   return `Egy teherautó fuvaronként ${perLoad} ${item}t szállít. ${loads} fuvarral végez. Összesen hány ${item}t szállít?`;
+  }
+}
+
+export function wpEventOrganizer(name: string, adults: number, children: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Beim Fest in ${name} waren ${adults} Erwachsene und ${children} Kinder. Wie viele Besucher kamen insgesamt?`;
+    case "EN": return `At the ${name} festival there were ${adults} adults and ${children} children. How many visitors were there in total?`;
+    case "RO": return `La serbarea din ${name} au fost ${adults} adulți și ${children} copii. Câți vizitatori au fost în total?`;
+    default:   return `A ${name}i ünnepségen ${adults} felnőtt és ${children} gyerek vett részt. Összesen hányan látogattak el?`;
+  }
+}
+
+export function wpFactoryProduction(days: number, perDay: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Eine Fabrik produziert täglich ${perDay} Stück. Wie viele Stück werden in ${days} Tagen produziert?`;
+    case "EN": return `A factory produces ${perDay} items per day. How many items are produced in ${days} days?`;
+    case "RO": return `O fabrică produce ${perDay} bucăți pe zi. Câte bucăți se produc în ${days} zile?`;
+    default:   return `Egy gyár naponta ${perDay} darabot gyárt. Hány darabot gyárt ${days} nap alatt?`;
+  }
+}
+
+export function wpStampCollection(nameA: string, a: number, nameB: string, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${nameA} hat ${a} Briefmarken gesammelt und ${nameB} hat ${b} gesammelt. Um wie viele Briefmarken hat ${nameA} mehr?`;
+    case "EN": return `${nameA} has collected ${a} stamps and ${nameB} has collected ${b}. How many more stamps does ${nameA} have?`;
+    case "RO": return `${nameA} a colecționat ${a} timbre, iar ${nameB} ${b}. Cu câte timbre are mai mult ${nameA}?`;
+    default:   return `${nameA} ${a} bélyeget gyűjtött, ${nameB} pedig ${b}-t. ${nameA}-nak mennyivel több bélyege van?`;
+  }
+}
+
+export function wpSchoolMeal(students: number, days: number, price: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const cur = getLang(countryCode) === "DE" ? "€" : getLang(countryCode) === "EN" ? "€" : "€";
+  switch (lang) {
+    case "DE": return `In der Schulwoche (${days} Tage) essen täglich ${students} Schüler in der Kantine. Ein Essen kostet ${price} ${cur}. Wie viel zahlen die Schüler insgesamt in einer Woche?`;
+    case "EN": return `During the school week (${days} days), ${students} pupils eat in the cafeteria each day. A meal costs ${price}€. How much do the pupils pay altogether in a week?`;
+    case "RO": return `În săptămâna școlară (${days} zile), ${students} elevi mănâncă zilnic la cantină. Un prânz costă ${price} €. Cât plătesc elevii în total într-o săptămână?`;
+    default:   return `Az iskolai héten (${days} nap) naponta ${students} tanuló étkezik a menzán. Egy ebéd ${price} €. Összesen mennyit fizetnek a tanulók egy héten?`;
+  }
+}
+
+export function wpWarehouseStock(initial: number, received: number, sold: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Im Lager waren ${initial} Pakete. Es kamen noch ${received} dazu. Dann wurden ${sold} verschickt. Wie viele Pakete sind noch im Lager?`;
+    case "EN": return `There were ${initial} packages in the warehouse. ${received} more arrived. Then ${sold} were dispatched. How many packages are left in the warehouse?`;
+    case "RO": return `În depozit erau ${initial} pachete. Au mai venit ${received}. Apoi s-au expediat ${sold}. Câte pachete au mai rămas?`;
+    default:   return `A raktárban ${initial} csomag volt. Érkezett még ${received}. Majd elküldtek ${sold} darabot. Hány csomag maradt a raktárban?`;
+  }
+}
+
+// ─── EXTRA WORD PROBLEM TEMPLATES — GRADE 4 (1000-9999 számokon) ─────────────
+
+export function wpConstructionBricks(bricks: number, price: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Für eine Mauer werden ${bricks} Ziegel benötigt. Ein Ziegel kostet ${price} Cent. Wie viel kosten alle Ziegel zusammen?`;
+    case "EN": return `A wall needs ${bricks} bricks. Each brick costs ${price} pence. How much do all the bricks cost altogether?`;
+    case "RO": return `Pentru un zid sunt necesare ${bricks} cărămizi. O cărămidă costă ${price} bani. Cât costă toate cărămizile împreună?`;
+    default:   return `Egy falhoz ${bricks} tégla kell. Egy tégla ${price} fillér. Mennyibe kerül az összes tégla?`;
+  }
+}
+
+export function wpConferenceSeats(rows: number, perRow: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `In der Konzerthalle gibt es ${rows} Sitzreihen. Jede Reihe hat ${perRow} Sitze. Wie viele Sitzplätze gibt es insgesamt?`;
+    case "EN": return `The concert hall has ${rows} rows of seats. Each row has ${perRow} seats. How many seats are there in total?`;
+    case "RO": return `Sala de concerte are ${rows} rânduri de scaune. Fiecare rând are ${perRow} scaune. Câte locuri sunt în total?`;
+    default:   return `A koncertteremben ${rows} üléssor van. Minden sorban ${perRow} szék áll. Összesen hány ülőhely van?`;
+  }
+}
+
+export function wpBookPublisher(books: number, price: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Verlag druckt ${books} Exemplare eines neuen Buches. Jedes Buch kostet ${price} €. Wie viel Einnahmen bekommt der Verlag, wenn alle verkauft werden?`;
+    case "EN": return `A publisher prints ${books} copies of a new book. Each copy costs ${price}€. How much does the publisher earn if all copies are sold?`;
+    case "RO": return `O editură tipărește ${books} exemplare ale unei cărți noi. Fiecare exemplar costă ${price} €. Cât câștigă editura dacă se vând toate?`;
+    default:   return `Egy kiadó ${books} példányt nyomtat egy új könyvből. Minden könyv ${price} €-ba kerül. Mennyi bevétele lesz a kiadónak, ha mindent elad?`;
+  }
+}
+
+export function wpSchoolRenovation(rooms: number, costPerRoom: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Eine Schule renoviert ${rooms} Klassenzimmer. Jedes Zimmer kostet ${costPerRoom} €. Wie viel kostet die gesamte Renovierung?`;
+    case "EN": return `A school renovates ${rooms} classrooms. Each room costs ${costPerRoom}€. How much does the full renovation cost?`;
+    case "RO": return `O școală renovează ${rooms} săli de clasă. Fiecare sală costă ${costPerRoom} €. Cât costă renovarea totală?`;
+    default:   return `Egy iskola ${rooms} termet felújít. Egy terem felújítása ${costPerRoom} €-ba kerül. Mennyibe kerül az egész felújítás?`;
+  }
+}
+
+export function wpFarmHarvest(fields: number, perField: number, sold: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Bauer hat ${fields} Felder. Auf jedem Feld erntet er ${perField} kg Weizen. ${sold} kg werden sofort verkauft. Wie viel kg Weizen behält er?`;
+    case "EN": return `A farmer has ${fields} fields. He harvests ${perField} kg of wheat from each field. ${sold} kg are sold straight away. How many kg of wheat does he keep?`;
+    case "RO": return `Un fermier are ${fields} câmpuri. De pe fiecare câmp recoltează ${perField} kg de grâu. ${sold} kg se vând imediat. Câți kg de grâu păstrează?`;
+    default:   return `Egy gazdának ${fields} mezője van. Mindegyikről ${perField} kg búzát arat. ${sold} kg-ot azonnal elad. Hány kg búzát tart meg?`;
+  }
+}
+
+export function wpSportArena(stands: number, perStand: number, empty: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Das Stadion hat ${stands} Tribünen mit je ${perStand} Sitzen. Beim Spiel blieben ${empty} Plätze frei. Wie viele Zuschauer waren im Stadion?`;
+    case "EN": return `The stadium has ${stands} stands with ${perStand} seats each. During the game, ${empty} seats were empty. How many spectators were in the stadium?`;
+    case "RO": return `Stadionul are ${stands} tribune cu câte ${perStand} locuri. La meci, ${empty} locuri au rămas libere. Câți spectatori au fost la stadion?`;
+    default:   return `A stadionnak ${stands} lelátója van, mindegyiken ${perStand} szék. A mérkőzésen ${empty} szék maradt üres. Hány néző volt a stadionban?`;
+  }
+}
+
+export function wpCarRentalFleet(cars: number, days: number, pricePerDay: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Eine Autovermietung vermietet ${cars} Autos für je ${days} Tage. Ein Auto kostet ${pricePerDay} € pro Tag. Wie viel verdient die Vermietung insgesamt?`;
+    case "EN": return `A car rental company rents out ${cars} cars for ${days} days each. A car costs ${pricePerDay}€ per day. How much does the company earn in total?`;
+    case "RO": return `O firmă de închirieri auto închiriază ${cars} mașini pentru câte ${days} zile. O mașină costă ${pricePerDay} €/zi. Cât câștigă firma în total?`;
+    default:   return `Egy autókölcsönző ${cars} autót ad ki ${days} napra. Egy autó napidíja ${pricePerDay} €. Összesen mennyit keres a kölcsönző?`;
+  }
+}
+
+export function wpSchoolSupplyOrder(items: number, packs: number, pricePerPack: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Die Schule bestellt ${packs} Pakete Kopierpapier. Jedes Paket kostet ${pricePerPack} €. Wie viel kostet die Bestellung insgesamt?`;
+    case "EN": return `The school orders ${packs} reams of paper. Each ream costs ${pricePerPack}€. How much does the order cost in total?`;
+    case "RO": return `Școala comandă ${packs} topuri de hârtie. Fiecare top costă ${pricePerPack} €. Cât costă comanda în total?`;
+    default:   return `Az iskola ${packs} csomag fénymásolópapírt rendel. Egy csomag ${pricePerPack} €. Mennyibe kerül a rendelés összesen?`;
+  }
+}
+
+export function wpTrainJourney(distance: number, ticketPrice: number, passengers: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Zug fährt ${distance} km. Das Ticket kostet ${ticketPrice} € pro Person. ${passengers} Fahrgäste steigen ein. Wie viel Einnahmen hat die Bahn für diese Fahrt?`;
+    case "EN": return `A train travels ${distance} km. A ticket costs ${ticketPrice}€ per person. ${passengers} passengers board. How much does the train earn for this journey?`;
+    case "RO": return `Un tren parcurge ${distance} km. Biletul costă ${ticketPrice} € de persoană. Urcă ${passengers} pasageri. Câți bani încasează trenul pentru această cursă?`;
+    default:   return `Egy vonat ${distance} km-t tesz meg. Egy jegy ${ticketPrice} €. ${passengers} utas száll fel. Mennyi bevétele lesz a vasútnak ezen a járaton?`;
+  }
+}
+
 // Pattern continuation
 export function qG1Pattern(seq: string[], countryCode: string): string {
   const lang = getLang(countryCode);
