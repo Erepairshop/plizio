@@ -122,6 +122,7 @@ export type TaskType =
 export type AufgabenItem = {
   question: string;
   answer: number | string;
+  options?: string[]; // for MCQ questions (hasStringOptions)
 };
 export type AufgabenData = { items: AufgabenItem[] };
 
@@ -1442,16 +1443,23 @@ function generateAufgabenBlock(
   blockIdx: number,
   constraint?: TopicConstraint
 ): SchoolTaskBlock {
-  const pool = generateTopicQuestions(grade, topicKey, cc, itemCount + 5, constraint);
+  const pool = generateTopicQuestions(grade, topicKey, cc, itemCount + 10, constraint);
   const items: AufgabenItem[] = [];
   const subQuestions: SubQuestion[] = [];
   const seen = new Set<string>();
+  const seenTemplates = new Set<string>(); // normalized: digits→_ to prevent same-story repetition
 
   for (const q of pool) {
     if (items.length >= itemCount) break;
-    if (!seen.has(q.question)) {
+    const templateKey = q.question.replace(/\d+/g, '_').trim();
+    if (!seen.has(q.question) && !seenTemplates.has(templateKey)) {
       seen.add(q.question);
-      const item: AufgabenItem = { question: q.question, answer: q.correctAnswer };
+      seenTemplates.add(templateKey);
+      const item: AufgabenItem = {
+        question: q.question,
+        answer: q.correctAnswer,
+        ...(q.hasStringOptions && q.options ? { options: q.options as string[] } : {}),
+      };
       items.push(item);
       subQuestions.push({
         id: `auf_${blockIdx}_${items.length - 1}`,

@@ -3073,8 +3073,8 @@ export interface ENThemeDef {
 const EN_THEMES: Record<number, ENThemeDef[]> = {
   1: [
     { key: 'g1_zahlen', name: 'Numbers & Number System', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'g1_count',   name: 'Number recognition · Counting', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen, G1.gridCount] },
-      { key: 'g1_visual',  name: 'Dots · Dice · Fingers · Objects', color: '#93C5FD', icon: '🎲', generators: [G1.zaehlen, G1.gridCount] },
+      { key: 'g1_count',   name: 'Number recognition · Counting', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen] },
+      { key: 'g1_visual',  name: 'Dots · Dice · Fingers · Objects', color: '#93C5FD', icon: '🎲', generators: [G1.zaehlen] },
       { key: 'g1_compare', name: 'Bigger · Smaller · Equal · Order', color: '#2563EB', icon: '⚖️', generators: [G1.compare, G1.numberOrder] },
       { key: 'g1_pos',     name: 'Before · After · Number Line', color: '#1D4ED8', icon: '📏', generators: [G1.vorgaenger, G1.nachfolger, G1.numberLine] },
     ]},
@@ -3485,8 +3485,8 @@ export function getENThemes(grade: number): ENThemeDef[] {
 const DE_THEMES: Record<number, ENThemeDef[]> = {
   1: [
     { key: 'g1_zahlen', name: 'Zahlen und Zahlensystem', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'g1_count',   name: 'Zahlen erkennen · Zählen', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen, G1.gridCount] },
-      { key: 'g1_visual',  name: 'Punkte · Würfel · Finger · Bilder', color: '#93C5FD', icon: '🎲', generators: [G1.gridCount, G1.coins, G1.fraction] },
+      { key: 'g1_count',   name: 'Zahlen erkennen · Zählen', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen] },
+      { key: 'g1_visual',  name: 'Punkte · Würfel · Finger · Bilder', color: '#93C5FD', icon: '🎲', generators: [G1.zaehlen, G1.coins, G1.fraction] },
       { key: 'g1_compare', name: 'Größer · Kleiner · Gleich · Ordnung', color: '#2563EB', icon: '⚖️', generators: [G1.compare, G1.numberOrder] },
       { key: 'g1_pos',     name: 'Vorgänger · Nachfolger · Zahlenstrahl', color: '#1D4ED8', icon: '📏', generators: [G1.vorgaenger, G1.nachfolger, G1.numberLine] },
     ]},
@@ -3950,8 +3950,8 @@ export function getDEThemes(grade: number): ENThemeDef[] {
 const HU_THEMES: Record<number, ENThemeDef[]> = {
   1: [
     { key: 'g1_zahlen', name: 'Számok és számrendszer', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'g1_count',   name: 'Számok felismerése · Mennyiségek számolása', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen, G1.gridCount] },
-      { key: 'g1_visual',  name: 'Pontok · Dobókocka · Ujjak · Képek', color: '#93C5FD', icon: '🎲', generators: [G1.zaehlen, G1.gridCount] },
+      { key: 'g1_count',   name: 'Számok felismerése · Mennyiségek számolása', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen] },
+      { key: 'g1_visual',  name: 'Pontok · Dobókocka · Ujjak · Képek', color: '#93C5FD', icon: '🎲', generators: [G1.zaehlen] },
       { key: 'g1_compare', name: 'Nagyobb · Kisebb · Egyenlő · Sorrend', color: '#2563EB', icon: '⚖️', generators: [G1.compare, G1.numberOrder] },
       { key: 'g1_pos',     name: 'Előző · Következő · Számegyenes', color: '#1D4ED8', icon: '📏', generators: [G1.vorgaenger, G1.nachfolger, G1.numberLine] },
     ]},
@@ -4356,8 +4356,8 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
 const RO_THEMES: Record<number, ENThemeDef[]> = {
   1: [
     { key: 'g1_zahlen', name: 'Numere și sistemul numeric', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'g1_count',   name: 'Recunoaștere · Numărare', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen, G1.gridCount] },
-      { key: 'g1_visual',  name: 'Puncte · Zar · Degete · Imagini', color: '#93C5FD', icon: '🎲', generators: [G1.zaehlen, G1.gridCount] },
+      { key: 'g1_count',   name: 'Recunoaștere · Numărare', color: '#60A5FA', icon: '🔢', generators: [G1.zaehlen] },
+      { key: 'g1_visual',  name: 'Puncte · Zar · Degete · Imagini', color: '#93C5FD', icon: '🎲', generators: [G1.zaehlen] },
       { key: 'g1_compare', name: 'Mai mare · Mai mic · Egal · Ordine', color: '#2563EB', icon: '⚖️', generators: [G1.compare, G1.numberOrder] },
       { key: 'g1_pos',     name: 'Înainte · După · Dreapta numerelor', color: '#1D4ED8', icon: '📏', generators: [G1.vorgaenger, G1.nachfolger, G1.numberLine] },
     ]},
