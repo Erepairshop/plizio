@@ -112,12 +112,9 @@ const NumberLineMarker: React.FC<Props> = ({
 
       {/* INPUT */}
       <div className="flex flex-col items-center gap-3">
-
-        {!embedded && (
-          <label className="text-white/60 text-xs font-bold tracking-wide">
-            {T.label[lang]}
-          </label>
-        )}
+        <p className={`text-xs font-semibold text-center px-2 pb-1 ${embedded ? 'text-slate-500' : 'text-white/60'}`}>
+          {T.label[lang]}
+        </p>
 
         <input
           type="number"

@@ -118,11 +118,9 @@ const FractionShapes: React.FC<Props> = ({
       </div>
 
       <div className="flex flex-col items-center gap-3">
-        {!embedded && (
-          <label className="text-white/50 text-[10px] uppercase tracking-widest font-bold">
-            {T.label[lang]}
-          </label>
-        )}
+        <p className={`text-xs font-semibold text-center px-2 pb-1 ${embedded ? 'text-slate-500' : 'text-white/50 uppercase tracking-widest'}`}>
+          {T.label[lang]}
+        </p>
         
         <input
           type="text"
