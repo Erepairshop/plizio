@@ -15,7 +15,11 @@ export type VisualQuestionType = 'zeichnen' | 'messen' | 'uhrzeit' | 'grid-area'
   | 'g1-length' | 'g1-weight' | 'g1-volume' | 'g1-shopping' | 'g1-wordproblem'
   | 'g3-place-value' | 'g3-pattern' | 'g3-scale' | 'g3-shape' | 'g3-barchart'
   | 'g3-compose' | 'g3-add-objects' | 'g3-sub-objects' | 'g3-mul-group' | 'g3-mul-array' | 'g3-div-share'
-  | 'g3-nl-sub' | 'g3-rightangle' | 'g3-perim-concept' | 'g3-area-compare';
+  | 'g3-nl-sub' | 'g3-rightangle' | 'g3-perim-concept' | 'g3-area-compare'
+  | 'g5-place-million' | 'g5-number-line' | 'g5-rounding-large' | 'g5-mul-array' | 'g5-division-share'
+  | 'g5-frac-compare' | 'g5-frac-equiv' | 'g5-decimal-place' | 'g5-decimal-line' | 'g5-balance-scale'
+  | 'g5-shape-props' | 'g5-angle-classify' | 'g5-perimeter' | 'g5-area-grid' | 'g5-barchart'
+  | 'g5-symmetry' | 'g5-unit-convert' | 'g5-nl-arith' | 'g5-word-problem';
 
 export type VisualQuestionData = {
   type: VisualQuestionType;
@@ -92,7 +96,25 @@ export type TaskType =
   | 'visual_g3_nl_sub'
   | 'visual_g3_rightangle'
   | 'visual_g3_perim_concept'
-  | 'visual_g3_area_compare';
+  | 'visual_g3_area_compare'
+  | 'visual_g5_place_million'
+  | 'visual_g5_number_line'
+  | 'visual_g5_rounding'
+  | 'visual_g5_mul_array'
+  | 'visual_g5_div_share'
+  | 'visual_g5_frac_compare'
+  | 'visual_g5_frac_equiv'
+  | 'visual_g5_decimal_place'
+  | 'visual_g5_decimal_line'
+  | 'visual_g5_balance'
+  | 'visual_g5_shape_props'
+  | 'visual_g5_angle'
+  | 'visual_g5_perimeter'
+  | 'visual_g5_area'
+  | 'visual_g5_barchart'
+  | 'visual_g5_symmetry'
+  | 'visual_g5_unit_convert'
+  | 'visual_g5_nl_arith';
 
 export type AufgabenItem = {
   question: string;
@@ -739,6 +761,14 @@ const VISUAL_TOPIC_KEYS = new Set([
   // Grade 3 visual topics — reuse existing components
   'g3_zahlstr', 'g3_laenge', 'g3_strecken', 'g3_zeit', 'g3_geld',
   'g3_geo_messen', 'g3_perim', 'g3_area',
+  // Grade 5 visual topics
+  'g5_place_million', 'g5_number_line_vis', 'g5_rounding_vis',
+  'g5_mul_array', 'g5_div_share',
+  'g5_frac_compare_vis', 'g5_frac_equiv_vis',
+  'g5_decimal_place_vis', 'g5_decimal_line_vis',
+  'g5_balance_vis', 'g5_shape_vis', 'g5_angle_vis',
+  'g5_perim_vis', 'g5_area_vis', 'g5_barchart_vis',
+  'g5_symmetry_vis', 'g5_unit_convert', 'g5_nl_arith',
 ]);
 
 function isVisualTopicKey(key: string): boolean {
@@ -1101,6 +1131,162 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
       return { id: `vis_g3ac_${sfx}`, answer: acAns, points: 1,
         visualType: 'g3-area-compare', visualData: { type: 'g3-area-compare', params: { shapeA: acA, shapeB: acB } } };
     }
+    // ── Grade 5 visual components ──────────────────────────────────────────
+    case 'g5_place_million': {
+      const num = rnd(100000, 9999999);
+      return { id: `vis_g5pm_${sfx}`, answer: String(num), points: 1,
+        visualType: 'g5-place-million', visualData: { type: 'g5-place-million', params: { number: num } } };
+    }
+    case 'g5_number_line_vis': {
+      const rangeStart = rnd(0, 8) * 100000;
+      const rangeEnd = rangeStart + 100000;
+      const target = rangeStart + rnd(1, 9) * 10000;
+      return { id: `vis_g5nl_${sfx}`, answer: String(target), points: 1,
+        visualType: 'g5-number-line', visualData: { type: 'g5-number-line', params: { rangeStart, rangeEnd, target } } };
+    }
+    case 'g5_rounding_vis': {
+      const steps = [1000, 10000, 100000];
+      const step = steps[rnd(0, 2)];
+      const target = rnd(1, 9) * step + rnd(1, step - 1);
+      const answer = Math.round(target / step) * step;
+      return { id: `vis_g5rv_${sfx}`, answer: String(answer), points: 1,
+        visualType: 'g5-rounding-large', visualData: { type: 'g5-rounding-large', params: { target, step } } };
+    }
+    case 'g5_mul_array': {
+      const rows = rnd(3, 9), cols = rnd(3, 9);
+      return { id: `vis_g5ma_${sfx}`, answer: String(rows * cols), points: 1,
+        visualType: 'g5-mul-array', visualData: { type: 'g5-mul-array', params: { rows, cols } } };
+    }
+    case 'g5_div_share': {
+      const groups = rnd(2, 6), perGroup = rnd(3, 8);
+      const total = groups * perGroup;
+      return { id: `vis_g5dsh_${sfx}`, answer: String(perGroup), points: 1,
+        visualType: 'g5-division-share', visualData: { type: 'g5-division-share', params: { total, groups } } };
+    }
+    case 'g5_frac_compare_vis': {
+      const dens = [2, 3, 4, 6, 8];
+      const denA = dens[rnd(0, 4)], denB = dens[rnd(0, 4)];
+      const numA = rnd(1, denA - 1), numB = rnd(1, denB - 1);
+      const valA = numA / denA, valB = numB / denB;
+      const answer = valA > valB ? 'left' : valA < valB ? 'right' : 'left';
+      return { id: `vis_g5fc_${sfx}`, answer, points: 1,
+        visualType: 'g5-frac-compare', visualData: { type: 'g5-frac-compare', params: { fracA: [numA, denA], fracB: [numB, denB] } } };
+    }
+    case 'g5_frac_equiv_vis': {
+      const baseDen = [2, 3, 4][rnd(0, 2)];
+      const baseNum = rnd(1, baseDen - 1);
+      const multiplier = rnd(2, 5);
+      const hidePart = Math.random() > 0.5 ? 'numerator' : 'denominator';
+      const answer = hidePart === 'numerator' ? baseNum * multiplier : baseDen * multiplier;
+      return { id: `vis_g5fe_${sfx}`, answer: String(answer), points: 1,
+        visualType: 'g5-frac-equiv', visualData: { type: 'g5-frac-equiv', params: { baseNum, baseDen, multiplier, hidePart } } };
+    }
+    case 'g5_decimal_place_vis': {
+      const dp = Math.random() > 0.5 ? 1 : 2;
+      const ones = rnd(1, 9), t1 = rnd(1, 9), t2 = rnd(1, 9);
+      const num = dp === 1 ? parseFloat(`${ones}.${t1}`) : parseFloat(`${ones}.${t1}${t2}`);
+      const answer = dp === 1 ? `${ones}${t1}` : `${ones}${t1}${t2}`;
+      return { id: `vis_g5dp_${sfx}`, answer, points: 1,
+        visualType: 'g5-decimal-place', visualData: { type: 'g5-decimal-place', params: { number: num, decimalPlaces: dp as 1 | 2 } } };
+    }
+    case 'g5_decimal_line_vis': {
+      const rangeStart = rnd(0, 8);
+      const rangeEnd = rangeStart + 1;
+      const tenths = rnd(1, 9);
+      const target = rangeStart + tenths / 10;
+      return { id: `vis_g5dl_${sfx}`, answer: String(target), points: 1,
+        visualType: 'g5-decimal-line', visualData: { type: 'g5-decimal-line', params: { rangeStart, rangeEnd, target } } };
+    }
+    case 'g5_balance_vis': {
+      const nLeft = rnd(2, 4);
+      const weights: number[] = [];
+      for (let i = 0; i < nLeft; i++) weights.push(rnd(1, 8) * 50);
+      const total = weights.reduce((a, b) => a + b, 0);
+      return { id: `vis_g5bs_${sfx}`, answer: String(total), points: 1,
+        visualType: 'g5-balance-scale', visualData: { type: 'g5-balance-scale', params: { leftWeights: weights, rightWeight: total, unit: 'g' } } };
+    }
+    case 'g5_shape_vis': {
+      const shapes = ['triangle', 'square', 'rectangle', 'pentagon', 'hexagon', 'rhombus'];
+      const shapeId = shapes[rnd(0, shapes.length - 1)];
+      const sideMap: Record<string, number> = { triangle: 3, square: 4, rectangle: 4, pentagon: 5, hexagon: 6, rhombus: 4 };
+      const askProperty = Math.random() > 0.5 ? 'sides' : 'angles';
+      return { id: `vis_g5shp_${sfx}`, answer: String(sideMap[shapeId]), points: 1,
+        visualType: 'g5-shape-props', visualData: { type: 'g5-shape-props', params: { shapeId, askProperty } } };
+    }
+    case 'g5_angle_vis': {
+      const angleOptions: Array<[number, string]> = [[30,'acute'],[45,'acute'],[60,'acute'],[90,'right'],[120,'obtuse'],[135,'obtuse'],[150,'obtuse']];
+      const [degrees, answer] = angleOptions[rnd(0, angleOptions.length - 1)];
+      return { id: `vis_g5ang_${sfx}`, answer, points: 1,
+        visualType: 'g5-angle-classify', visualData: { type: 'g5-angle-classify', params: { degrees } } };
+    }
+    case 'g5_perim_vis': {
+      const w = rnd(2, 12), h = rnd(2, 12);
+      const shapeType = Math.random() > 0.5 ? 'rectangle' : 'square';
+      const sides = shapeType === 'square' ? [w, w, w, w] : [w, h, w, h];
+      const answer = sides.reduce((a, b) => a + b, 0);
+      return { id: `vis_g5peri_${sfx}`, answer: String(answer), points: 1,
+        visualType: 'g5-perimeter', visualData: { type: 'g5-perimeter', params: { shapeType, sides } } };
+    }
+    case 'g5_area_vis': {
+      const w = rnd(2, 12), h = rnd(2, 10);
+      return { id: `vis_g5area_${sfx}`, answer: String(w * h), points: 1,
+        visualType: 'g5-area-grid', visualData: { type: 'g5-area-grid', params: { width: w, height: h, shapeType: 'rectangle' } } };
+    }
+    case 'g5_barchart_vis': {
+      const labels = ['A', 'B', 'C', 'D'];
+      const data = labels.map(label => ({ label, value: rnd(2, 15) }));
+      const qtypes: Array<'max' | 'min' | 'total' | 'diff'> = ['max', 'min', 'total', 'diff'];
+      const questionType = qtypes[rnd(0, 3)];
+      const vals = data.map(d => d.value);
+      const answer = questionType === 'max' ? Math.max(...vals)
+        : questionType === 'min' ? Math.min(...vals)
+        : questionType === 'total' ? vals.reduce((a, b) => a + b, 0)
+        : Math.max(...vals) - Math.min(...vals);
+      return { id: `vis_g5bc_${sfx}`, answer: String(answer), points: 1,
+        visualType: 'g5-barchart', visualData: { type: 'g5-barchart', params: { data, questionType } } };
+    }
+    case 'g5_symmetry_vis': {
+      const axis: 'vertical' | 'horizontal' = Math.random() > 0.5 ? 'vertical' : 'horizontal';
+      const AXIS = 4;
+      const srcSet = new Set<string>();
+      const nPts = rnd(3, 5);
+      while (srcSet.size < nPts) {
+        const r = rnd(0, 8);
+        const c = rnd(0, 8);
+        const isSourceSide = axis === 'vertical' ? c < AXIS : r < AXIS;
+        if (!isSourceSide) continue;
+        srcSet.add(`${r}:${c}`);
+      }
+      const sourcePoints: [number, number][] = [...srcSet].map(s => s.split(':').map(Number) as [number, number]);
+      const reflected: [number, number][] = sourcePoints.map(([r, c]) =>
+        axis === 'vertical' ? [r, 2 * AXIS - c] as [number, number] : [2 * AXIS - r, c] as [number, number]
+      );
+      const answer = reflected.map(p => p.join(':')).sort().join(',');
+      return { id: `vis_g5sym_${sfx}`, answer, points: 1,
+        visualType: 'g5-symmetry', visualData: { type: 'g5-symmetry', params: { axis, sourcePoints } } };
+    }
+    case 'g5_unit_convert': {
+      const rules = [
+        { category: 'length', from: 'km', to: 'm',  factor: 1000 },
+        { category: 'length', from: 'm',  to: 'cm', factor: 100 },
+        { category: 'mass',   from: 'kg', to: 'g',  factor: 1000 },
+        { category: 'mass',   from: 't',  to: 'kg', factor: 1000 },
+        { category: 'capacity', from: 'l', to: 'ml', factor: 1000 },
+        { category: 'capacity', from: 'l', to: 'dl', factor: 10 },
+      ];
+      const rule = rules[rnd(0, rules.length - 1)];
+      const value = rnd(1, 9);
+      return { id: `vis_g5uc_${sfx}`, answer: String(value * rule.factor), points: 1,
+        visualType: 'g5-unit-convert', visualData: { type: 'g5-unit-convert', params: { category: rule.category, from: rule.from, to: rule.to, value } } };
+    }
+    case 'g5_nl_arith': {
+      const operation: 'add' | 'sub' = Math.random() > 0.5 ? 'add' : 'sub';
+      const operand = rnd(1, 10) * 100;
+      const start = operation === 'sub' ? rnd(10, 50) * 100 + operand : rnd(5, 50) * 100;
+      const answer = operation === 'add' ? start + operand : start - operand;
+      return { id: `vis_g5nla_${sfx}`, answer: String(answer), points: 1,
+        visualType: 'g5-nl-arith', visualData: { type: 'g5-nl-arith', params: { start, operand, operation } } };
+    }
     default:
       return generateVisualSub('zeichnen', blockIdx, subIdx);
   }
@@ -1143,6 +1329,25 @@ const VISUAL_TOPIC_TO_TYPE: Record<string, TaskType> = {
   g3_geo_messen:  'visual_messen',
   g3_perim:       'visual_grid_area',
   g3_area:        'visual_grid_area',
+  // Grade 5 visual topics
+  g5_place_million:    'visual_g5_place_million',
+  g5_number_line_vis:  'visual_g5_number_line',
+  g5_rounding_vis:     'visual_g5_rounding',
+  g5_mul_array:        'visual_g5_mul_array',
+  g5_div_share:        'visual_g5_div_share',
+  g5_frac_compare_vis: 'visual_g5_frac_compare',
+  g5_frac_equiv_vis:   'visual_g5_frac_equiv',
+  g5_decimal_place_vis:'visual_g5_decimal_place',
+  g5_decimal_line_vis: 'visual_g5_decimal_line',
+  g5_balance_vis:      'visual_g5_balance',
+  g5_shape_vis:        'visual_g5_shape_props',
+  g5_angle_vis:        'visual_g5_angle',
+  g5_perim_vis:        'visual_g5_perimeter',
+  g5_area_vis:         'visual_g5_area',
+  g5_barchart_vis:     'visual_g5_barchart',
+  g5_symmetry_vis:     'visual_g5_symmetry',
+  g5_unit_convert:     'visual_g5_unit_convert',
+  g5_nl_arith:         'visual_g5_nl_arith',
 };
 
 function generateVisualBlock(
@@ -1351,6 +1556,25 @@ const TITLES: Record<TaskType, Record<string, string>> = {
   visual_g3_rightangle:    { de: 'Welcher Winkeltyp?', en: 'What type of angle?', hu: 'Milyen szög ez?', ro: 'Ce tip de unghi?' },
   visual_g3_perim_concept: { de: 'Umfang berechnen.', en: 'Calculate the perimeter.', hu: 'Kerület kiszámítása.', ro: 'Calculează perimetrul.' },
   visual_g3_area_compare:  { de: 'Flächen vergleichen.', en: 'Compare areas.', hu: 'Területek összehasonlítása.', ro: 'Compararea suprafețelor.' },
+  // Grade 5 visual types
+  visual_g5_place_million: { de: 'Stellenwerte bestimmen.', en: 'Identify place values.', hu: 'Helyiérték meghatározása.', ro: 'Identifică valoarea pozițională.' },
+  visual_g5_number_line:   { de: 'Zahl am Zahlenstrahl finden.', en: 'Find number on number line.', hu: 'Szám meghatározása számegyenesen.', ro: 'Găsește numărul pe axă.' },
+  visual_g5_rounding:      { de: 'Zahl runden.', en: 'Round the number.', hu: 'Kerekítsd a számot.', ro: 'Rotunjește numărul.' },
+  visual_g5_mul_array:     { de: 'Multiplikation als Rechteck.', en: 'Multiplication array.', hu: 'Szorzás téglalap-modell.', ro: 'Înmulțire ca dreptunghi.' },
+  visual_g5_div_share:     { de: 'Division durch Aufteilen.', en: 'Division by sharing.', hu: 'Osztás csoportosítással.', ro: 'Împărțire prin distribuire.' },
+  visual_g5_frac_compare:  { de: 'Brüche vergleichen.', en: 'Compare fractions.', hu: 'Törtek összehasonlítása.', ro: 'Compară fracțiile.' },
+  visual_g5_frac_equiv:    { de: 'Gleichwertige Brüche finden.', en: 'Find equivalent fraction.', hu: 'Egyenértékű tört meghatározása.', ro: 'Găsește fracția echivalentă.' },
+  visual_g5_decimal_place: { de: 'Dezimalstellen bestimmen.', en: 'Identify decimal places.', hu: 'Tizedes helyiérték meghatározása.', ro: 'Identifică locul zecimalei.' },
+  visual_g5_decimal_line:  { de: 'Dezimalzahl am Zahlenstrahl.', en: 'Decimal on number line.', hu: 'Tizedes szám a számegyenesen.', ro: 'Zecimala pe axă.' },
+  visual_g5_balance:       { de: 'Waage ins Gleichgewicht bringen.', en: 'Balance the scale.', hu: 'Egyensúlyozd a mérleget.', ro: 'Echilibrează balanța.' },
+  visual_g5_shape_props:   { de: 'Eigenschaften der Figur bestimmen.', en: 'Identify shape properties.', hu: 'Alakzat tulajdonságainak meghatározása.', ro: 'Identifică proprietățile figurii.' },
+  visual_g5_angle:         { de: 'Winkelart bestimmen.', en: 'Classify the angle.', hu: 'Szög típusának meghatározása.', ro: 'Clasifică unghiul.' },
+  visual_g5_perimeter:     { de: 'Umfang berechnen.', en: 'Calculate the perimeter.', hu: 'Kerület kiszámítása.', ro: 'Calculează perimetrul.' },
+  visual_g5_area:          { de: 'Fläche im Gitter zählen.', en: 'Count grid area.', hu: 'Terület számolása rácson.', ro: 'Numără aria pe grilă.' },
+  visual_g5_barchart:      { de: 'Säulendiagramm auswerten.', en: 'Read the bar chart.', hu: 'Oszlopdiagram olvasása.', ro: 'Citește diagrama cu bare.' },
+  visual_g5_symmetry:      { de: 'Spiegelung zeichnen.', en: 'Draw the reflection.', hu: 'Rajzold meg a tükörképet.', ro: 'Desenează reflecția.' },
+  visual_g5_unit_convert:  { de: 'Maßeinheit umrechnen.', en: 'Convert the unit.', hu: 'Mértékegység átváltása.', ro: 'Convertește unitatea.' },
+  visual_g5_nl_arith:      { de: 'Rechnen am Zahlenstrahl.', en: 'Arithmetic on number line.', hu: 'Számolás számegyenesen.', ro: 'Calcul pe axa numerică.' },
 };
 
 function getTitleFor(type: TaskType, cc: string): string {
