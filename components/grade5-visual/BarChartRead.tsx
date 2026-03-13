@@ -115,10 +115,12 @@ const BarChartRead: React.FC<BarChartReadProps> = ({
 
   // SVG chart dimensions
   const maxVal = Math.max(...data.map(d => d.value));
-  const CHART_H = 120, CHART_W = 260;
+  const CHART_H = 140, CHART_W = 260;
   const BAR_GAP = 8;
   const BAR_W = Math.floor((CHART_W - BAR_GAP * (data.length + 1)) / data.length);
-  const SCALE = CHART_H / (maxVal + 1);
+  // Y-axis: at most 6 gridlines regardless of maxVal
+  const yStep = maxVal <= 10 ? 1 : maxVal <= 30 ? 5 : maxVal <= 60 ? 10 : 20;
+  const SCALE = CHART_H / (maxVal + yStep);
   const YPAD = 20;
 
   return (
@@ -143,21 +145,23 @@ const BarChartRead: React.FC<BarChartReadProps> = ({
       {/* Bar chart SVG */}
       <div className="flex justify-center px-4 py-3 overflow-x-auto">
         <div className="bg-white rounded-2xl shadow-sm border border-sky-100 p-3 inline-block">
-          <svg viewBox={`0 0 ${CHART_W + 30} ${CHART_H + YPAD + 30}`} style={{ width: CHART_W + 30, height: CHART_H + YPAD + 30 }}>
-            {/* Y-axis gridlines */}
-            {Array.from({ length: maxVal + 1 }, (_, i) => i).map(v => {
-              const y = YPAD + CHART_H - v * SCALE;
-              return (
-                <g key={v}>
-                  <line x1={28} y1={y} x2={CHART_W + 28} y2={y} stroke="#e2e8f0" strokeWidth={1} />
-                  <text x={24} y={y + 4} textAnchor="end" fontSize={9} fill="#94a3b8" fontWeight={600}>{v}</text>
-                </g>
-              );
-            })}
+          <svg viewBox={`0 0 ${CHART_W + 36} ${CHART_H + YPAD + 30}`} style={{ width: CHART_W + 36, height: CHART_H + YPAD + 30 }}>
+            {/* Y-axis gridlines — only every yStep */}
+            {Array.from({ length: Math.ceil(maxVal / yStep) + 1 }, (_, i) => i * yStep)
+              .filter(v => v <= maxVal + yStep)
+              .map(v => {
+                const y = YPAD + CHART_H - v * SCALE;
+                return (
+                  <g key={v}>
+                    <line x1={34} y1={y} x2={CHART_W + 34} y2={y} stroke="#e2e8f0" strokeWidth={1} />
+                    <text x={30} y={y + 4} textAnchor="end" fontSize={9} fill="#94a3b8" fontWeight={600}>{v}</text>
+                  </g>
+                );
+              })}
             {/* Bars */}
             {data.map((d, i) => {
               const barH = d.value * SCALE;
-              const x = 30 + BAR_GAP + i * (BAR_W + BAR_GAP);
+              const x = 36 + BAR_GAP + i * (BAR_W + BAR_GAP);
               const y = YPAD + CHART_H - barH;
               const color = BAR_COLORS[i % BAR_COLORS.length];
               const isHov = hoveredBar === i;
@@ -183,9 +187,9 @@ const BarChartRead: React.FC<BarChartReadProps> = ({
               );
             })}
             {/* X axis */}
-            <line x1={28} y1={YPAD + CHART_H} x2={CHART_W + 28} y2={YPAD + CHART_H} stroke="#cbd5e1" strokeWidth={2} />
+            <line x1={34} y1={YPAD + CHART_H} x2={CHART_W + 34} y2={YPAD + CHART_H} stroke="#cbd5e1" strokeWidth={2} />
             {/* Y axis */}
-            <line x1={28} y1={YPAD} x2={28} y2={YPAD + CHART_H} stroke="#cbd5e1" strokeWidth={2} />
+            <line x1={34} y1={YPAD} x2={34} y2={YPAD + CHART_H} stroke="#cbd5e1" strokeWidth={2} />
           </svg>
         </div>
       </div>
