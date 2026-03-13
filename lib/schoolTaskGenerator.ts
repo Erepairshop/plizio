@@ -960,8 +960,8 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
         visualData: { type: 'messen', params: { targetLength, unit: 'cm' } } };
     }
     case 'g2_zahlstr': {
-      // G2: number line 0–100, multiples of 10 marked, find the marked value
-      const marked = rnd(1, 9) * 10 + rnd(1, 9);
+      // G2: number line 0–100, arrow always on a tick mark (multiple of 10)
+      const marked = rnd(1, 9) * 10;
       return { id: `vis_g2nl_${sfx}`, answer: marked, points: 1,
         visualType: 'g1-number-line', visualData: { type: 'g1-number-line', params: { min: 0, max: 100, step: 10, markedValue: marked } } };
     }
@@ -996,8 +996,8 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
         visualType: 'g3-place-value', visualData: { type: 'g3-place-value', params: { number: n, question: pos } } };
     }
     case 'g3_zahlstr': {
-      // 0–1000 number line, step=100
-      const marked = rnd(1, 9) * 100 + rnd(1, 99);
+      // 0–1000 number line, arrow always on a tick mark (multiple of 100)
+      const marked = rnd(1, 9) * 100;
       return { id: `vis_g3nl_${sfx}`, answer: marked, points: 1,
         visualType: 'g1-number-line', visualData: { type: 'g1-number-line', params: { min: 0, max: 1000, step: 100, markedValue: marked } } };
     }
