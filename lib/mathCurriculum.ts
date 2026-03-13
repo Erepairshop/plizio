@@ -183,6 +183,16 @@ function q(question: string, correctAnswer: number, topic: string, minOpt = 0, i
   return { question, correctAnswer, options: generateOptions(correctAnswer, minOpt), topic, isWordProblem };
 }
 
+// qd = q with pedagogically meaningful distractors
+// Preferred distractors are used first; remainder filled by generateOptions
+function qd(question: string, correct: number, topic: string, distractors: number[], isWordProblem = false, minVal = 0): MathQuestion {
+  const opts = new Set<number>([correct]);
+  for (const d of distractors) { if (d !== correct && d >= minVal && opts.size < 4) opts.add(d); }
+  const gen = generateOptions(correct, minVal);
+  for (const b of gen) { if (opts.size < 4) opts.add(b); }
+  return { question, correctAnswer: correct, options: shuffleArray([...opts]), topic, isWordProblem };
+}
+
 function qs(question: string, correctAnswer: string, topic: string, isWordProblem = false): MathQuestion {
   return { question, correctAnswer, options: [], topic, isWordProblem };
 }
@@ -239,11 +249,13 @@ const G1: Record<string, Generator> = {
   },
   missing10: (cc) => {
     const a = randInt(1, 7), b = randInt(1, 9 - a);
-    return q(qMissingInEquation(`${a} + ? = ${a + b}`, cc), b, t("missingNumber", cc));
+    // Typical errors: writes the total (a+b), writes the known part (a), off by 1
+    return qd(qMissingInEquation(`${a} + ? = ${a + b}`, cc), b, t("missingNumber", cc), [a + b, a, b + 1]);
   },
   missing10sub: (cc) => {
     const a = randInt(4, 10), b = randInt(1, a - 1);
-    return q(qMissingInEquation(`${a} - ? = ${a - b}`, cc), b, t("missingNumber", cc));
+    // Typical errors: writes minuend (a), writes the result (a-b), off by 1
+    return qd(qMissingInEquation(`${a} - ? = ${a - b}`, cc), b, t("missingNumber", cc), [a, a - b, b + 1]);
   },
   word1: (cc) => {
     const names = getNames(cc); const items = getItems(cc);
@@ -299,16 +311,17 @@ const G1: Record<string, Generator> = {
   },
   evenOdd: (cc) => {
     return Math.random() < 0.5
-      ? (() => { const n = randInt(1, 9) * 2; return q(qNextEven(n, cc), n + 2, t("evenOdd", cc)); })()
-      : (() => { const n = randInt(0, 8) * 2 + 1; return q(qNextOdd(n, cc), n + 2, t("evenOdd", cc)); })();
+      // Typical errors: n+1 (next number, wrong parity), n+3 (jumped one too many), n (same number)
+      ? (() => { const n = randInt(1, 9) * 2; return qd(qNextEven(n, cc), n + 2, t("evenOdd", cc), [n + 1, n + 3, n]); })()
+      : (() => { const n = randInt(0, 8) * 2 + 1; return qd(qNextOdd(n, cc), n + 2, t("evenOdd", cc), [n + 1, n + 3, n]); })();
   },
   clock1: (cc) => {
-    if (cc === "US") {
-      const h = randInt(1, 12);
-      return q(qClockFullHour(h, cc), h, t("clockReading", cc));
-    }
     const h = randInt(1, 12);
-    return q(qClockFullHour(h, cc), h, t("clockReading", cc));
+    // Typical errors: ±1 hour (miscounting), opposite side of clock (6 hours off)
+    const hPrev = h > 1 ? h - 1 : 12;
+    const hNext = h < 12 ? h + 1 : 1;
+    const hOpp = h <= 6 ? h + 6 : h - 6;
+    return qd(qClockFullHour(h, cc), h, t("clockReading", cc), [hPrev, hNext, hOpp]);
   },
   // ── G1 Visual topic text-based generators ──
   clockQuarter: (cc) => {
@@ -325,9 +338,10 @@ const G1: Record<string, Generator> = {
     const n = randInt(11, 99);
     const tens = Math.floor(n / 10), ones = n % 10;
     const r = Math.random();
-    if (r < 0.33) return q(qG1PlaceValueTens(n, cc), tens, t("g1PlaceValue", cc));
-    if (r < 0.66) return q(qG1PlaceValueOnes(n, cc), ones, t("g1PlaceValue", cc));
-    return q(qG1PlaceValueTotal(tens, ones, cc), n, t("g1PlaceValue", cc));
+    // Typical errors: writes whole number, confuses tens/ones digit, off by 1
+    if (r < 0.33) return qd(qG1PlaceValueTens(n, cc), tens, t("g1PlaceValue", cc), [n, ones || tens + 2, tens + 1]);
+    if (r < 0.66) return qd(qG1PlaceValueOnes(n, cc), ones, t("g1PlaceValue", cc), [n, tens, ones + 1]);
+    return qd(qG1PlaceValueTotal(tens, ones, cc), n, t("g1PlaceValue", cc), [tens, ones, n + 1]);
   },
   gridCount: (cc) => {
     const rows = randInt(3, 5), cols = randInt(3, 5);
@@ -356,19 +370,26 @@ const G1: Record<string, Generator> = {
     ].filter(c => c.count > 0);
     const total = coinTypes.reduce((s, c) => s + c.value * c.count, 0);
     const desc = coinTypes.map(c => `${c.count}×${c.value}${cur}`).join(" + ");
-    return q(qG1Coins(desc, cur, cc), total, t("g1Coins", cc));
+    // Typical errors: missed one smallest coin (-minVal), counted one extra (+1), off by 1
+    const minCoinVal = coinTypes.reduce((m, c) => Math.min(m, c.value), 99);
+    return qd(qG1Coins(desc, cur, cc), total, t("g1Coins", cc), [total - 1, total + 1, Math.max(1, total - minCoinVal)], false, 1);
   },
   timeline: (cc) => {
     const startH = randInt(7, 16);
     const diff = randInt(1, 4);
     const endH = startH + diff;
-    return q(qG1Timeline(startH, endH, cc), diff, t("g1Timeline", cc));
+    // Typical errors: writes end hour, writes start hour, off by 1
+    return qd(qG1Timeline(startH, endH, cc), diff, t("g1Timeline", cc), [endH, startH, diff + 1], false, 1);
   },
   fraction: (cc) => {
     const totalParts = randInt(2, 4);
     const coloredParts = randInt(1, totalParts);
     const shape = pick(["pizza", "rectangle", "circle"]);
-    return q(qG1Fraction(totalParts, coloredParts, shape, cc), coloredParts, t("g1Fraction", cc));
+    // Typical errors: writes total parts, counts uncolored parts, off by 1
+    const uncolored = totalParts - coloredParts;
+    const d2 = uncolored > 0 ? uncolored : Math.max(1, coloredParts - 1);
+    const d3 = coloredParts < totalParts ? coloredParts + 1 : Math.max(1, coloredParts - 1);
+    return qd(qG1Fraction(totalParts, coloredParts, shape, cc), coloredParts, t("g1Fraction", cc), [totalParts, d2, d3], false, 1);
   },
   // ── New G1 generators ──
   vorgaenger: (cc) => {
@@ -393,15 +414,19 @@ const G1: Record<string, Generator> = {
   zahlzerlegung: (cc) => {
     const total = randInt(3, 10);
     const part1 = randInt(1, total - 1);
-    return q(qZahlzerlegung(total, part1, cc), total - part1, t("g1Zahlzerlegung", cc));
+    const correct = total - part1;
+    // Typical errors: writes the given part (part1), writes total, off by 1
+    return qd(qZahlzerlegung(total, part1, cc), correct, t("g1Zahlzerlegung", cc), [part1, total, correct + 1]);
   },
   verdoppeln: (cc) => {
     const n = randInt(1, 9);
-    return q(qVerdoppeln(n, cc), n * 2, t("g1Verdoppeln", cc));
+    // Typical error: writes n (didn't double), ±1 (miscounting)
+    return qd(qVerdoppeln(n, cc), n * 2, t("g1Verdoppeln", cc), [n, n * 2 - 1, n * 2 + 1]);
   },
   halbieren: (cc) => {
     const n = randInt(1, 9) * 2;
-    return q(qHalbieren(n, cc), n / 2, t("g1Halbieren", cc));
+    // Typical error: writes n (didn't halve), ±1 (miscounting)
+    return qd(qHalbieren(n, cc), n / 2, t("g1Halbieren", cc), [n, Math.max(1, n / 2 - 1), n / 2 + 1]);
   },
   shapes: (cc) => {
     const lang = getLang(cc);
@@ -428,9 +453,9 @@ const G1: Record<string, Generator> = {
     const n = randInt(11, 20);
     const tens = Math.floor(n / 10), ones = n % 10;
     const r = Math.random();
-    if (r < 0.33) return q(qG1PlaceValueTens(n, cc), tens, t("g1PlaceValue20", cc));
-    if (r < 0.66) return q(qG1PlaceValueOnes(n, cc), ones, t("g1PlaceValue20", cc));
-    return q(qG1PlaceValueTotal(tens, ones, cc), n, t("g1PlaceValue20", cc));
+    if (r < 0.33) return qd(qG1PlaceValueTens(n, cc), tens, t("g1PlaceValue20", cc), [n, ones || tens + 2, tens + 1]);
+    if (r < 0.66) return qd(qG1PlaceValueOnes(n, cc), ones, t("g1PlaceValue20", cc), [n, tens, ones + 1]);
+    return qd(qG1PlaceValueTotal(tens, ones, cc), n, t("g1PlaceValue20", cc), [tens, ones, n + 1]);
   },
   // ── NEW G1 generators ──
   spatial: (cc) => {
