@@ -58,7 +58,7 @@ export const CHECKPOINT_MAP: Record<string, string[]> = {
 
 export const CHECKPOINT_TOPICS: Record<string, string[]> = {
   test1: ["g1_count", "g1_compare", "g1_tausch", "g1_zahlzerlegung", "g1_ergaenzen", "g1_subpics"],
-  test2: ["g1_verdoppeln", "g1_halbieren", "g1_num1120", "g1_place_value20", "g1_ergaenzen"],
+  test2: ["g1_verdoppeln", "g1_halbieren", "g1_num1120", "g1_place_value20", "add20", "sub20"],
   test3: ["g1_shapes", "g1_spatial", "g1_clock", "g1_coins", "g1_weight", "g1_volume"],
 };
 
@@ -128,8 +128,8 @@ export const G1_ISLANDS: IslandDef[] = [
   {
     id: "i6",
     name: { en: "Word Problems", hu: "Szöveges feladatok", de: "Sachaufgaben", ro: "Probleme cu text" },
-    icon: "📖", color: "#FFD700", sortRange: [1, 10],
-    topicKeys: ["g1_tausch", "g1_zahlzerlegung", "sub10", "add10"],
+    icon: "📖", color: "#FFD700", sortRange: [1, 20],
+    topicKeys: ["word", "add20", "sub20"],
     missions: [
       { id: "m1", gameType: "orbit-quiz", icon: "🚀", label: { en: "Story Quiz A",  hu: "Szöveges A",    de: "Sachaufgaben A",  ro: "Probleme A"    } },
       { id: "m2", gameType: "orbit-quiz", icon: "🚀", label: { en: "Story Quiz B",  hu: "Szöveges B",    de: "Sachaufgaben B",  ro: "Probleme B"    } },
@@ -165,7 +165,7 @@ export const G1_ISLANDS: IslandDef[] = [
     id: "i9",
     name: { en: "Data & Patterns", hu: "Adatok & Sorozatok", de: "Daten & Muster", ro: "Date & Tipare" },
     icon: "📊", color: "#E879F9", sortRange: [1, 20],
-    topicKeys: ["g1_data", "g1_sequence", "g1_count"],
+    topicKeys: ["g1_data", "g1_sequence", "word"],
     missions: [
       { id: "m1", gameType: "orbit-quiz",   icon: "🚀", label: { en: "Data Quiz",    hu: "Adat kvíz",     de: "Datenquiz",       ro: "Quiz date"      } },
       { id: "m2", gameType: "gravity-sort", icon: "🌪️", label: { en: "Sort Numbers", hu: "Számrendezés",  de: "Zahlen sortieren", ro: "Sortează"       } },
