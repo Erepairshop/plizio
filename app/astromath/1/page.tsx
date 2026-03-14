@@ -68,12 +68,14 @@ type Screen =
   | "star-match"
   | "gravity-sort"
   | "black-hole"
+  | "number-duel"
   | "mission-done"
   | "island-done"
   | "reward"
   | "checkpoint-intro"
   | "checkpoint-quiz"
-  | "checkpoint-done";
+  | "checkpoint-done"
+  | "rocket-launch";
 
 // ─── Translations ──────────────────────────────────────────────────────────────
 const T = {
@@ -87,8 +89,11 @@ const T = {
     selectAnswer: "Select the correct answer", questionOf: "Question",
     gradeLabel: "Grade 1 · Space Adventure", islandMap: "Island Map",
     checkpointTitle: "Checkpoint Test",
-    missionLabels: { "orbit-quiz": "Number Quiz", "star-match": "Star Match", "gravity-sort": "Sort!", "black-hole": "Black Hole" },
+    missionLabels: { "orbit-quiz": "Number Quiz", "star-match": "Star Match", "gravity-sort": "Sort!", "black-hole": "Black Hole", "number-duel": "Number Duel" },
     testTopics: { test1: "Counting & Operations", test2: "Numbers to 20", test3: "Shapes & Measurement" },
+    duelBigger: "Which is BIGGER?", duelSmaller: "Which is SMALLER?",
+    rocketTitle: "Rocket Launch!", rocketDesc: "Warm up for the test — answer fast!", rocketFuel: "Fuel", rocketReady: "🚀 Ready for launch!",
+    rocketContinue: "Start the Test",
   },
   hu: {
     back: "Vissza", next: "Következő", start: "Kezdés", done: "Kész!", correct: "Helyes!", wrong: "Téves!",
@@ -100,8 +105,11 @@ const T = {
     selectAnswer: "Válaszd ki a helyes választ", questionOf: "Kérdés",
     gradeLabel: "1. osztály · Ûrkaland", islandMap: "Szigettérkép",
     checkpointTitle: "Checkpoint teszt",
-    missionLabels: { "orbit-quiz": "Számkvíz", "star-match": "Csillagpárosítás", "gravity-sort": "Rendezés!", "black-hole": "Fekete lyuk" },
+    missionLabels: { "orbit-quiz": "Számkvíz", "star-match": "Csillagpárosítás", "gravity-sort": "Rendezés!", "black-hole": "Fekete lyuk", "number-duel": "Szám-párharc" },
     testTopics: { test1: "Számolás és műveletek", test2: "Számok 20-ig", test3: "Alakzatok és mérések" },
+    duelBigger: "Melyik NAGYOBB?", duelSmaller: "Melyik KISEBB?",
+    rocketTitle: "Rakéta indítás!", rocketDesc: "Melegítés a teszthez — válaszolj gyorsan!", rocketFuel: "Üzemanyag", rocketReady: "🚀 Kész az indításra!",
+    rocketContinue: "Teszt indítása",
   },
   de: {
     back: "Zurück", next: "Weiter", start: "Start", done: "Fertig!", correct: "Richtig!", wrong: "Falsch!",
@@ -113,8 +121,11 @@ const T = {
     selectAnswer: "Wähle die richtige Antwort", questionOf: "Frage",
     gradeLabel: "Klasse 1 · Weltraumabenteuer", islandMap: "Inselkarte",
     checkpointTitle: "Checkpoint-Test",
-    missionLabels: { "orbit-quiz": "Zahlenquiz", "star-match": "Sternenpaare", "gravity-sort": "Sortieren!", "black-hole": "Schwarzes Loch" },
+    missionLabels: { "orbit-quiz": "Zahlenquiz", "star-match": "Sternenpaare", "gravity-sort": "Sortieren!", "black-hole": "Schwarzes Loch", "number-duel": "Zahlen-Duell" },
     testTopics: { test1: "Zählen & Rechnen", test2: "Zahlen bis 20", test3: "Formen & Messen" },
+    duelBigger: "Welche ist GRÖSSER?", duelSmaller: "Welche ist KLEINER?",
+    rocketTitle: "Raketenstart!", rocketDesc: "Aufwärmen für den Test — antworte schnell!", rocketFuel: "Treibstoff", rocketReady: "🚀 Startbereit!",
+    rocketContinue: "Test starten",
   },
   ro: {
     back: "Înapoi", next: "Înainte", start: "Start", done: "Gata!", correct: "Corect!", wrong: "Greșit!",
@@ -126,8 +137,11 @@ const T = {
     selectAnswer: "Alege răspunsul corect", questionOf: "Întrebarea",
     gradeLabel: "Clasa 1 · Aventură spațială", islandMap: "Harta insulelor",
     checkpointTitle: "Test checkpoint",
-    missionLabels: { "orbit-quiz": "Quiz numere", "star-match": "Perechi stele", "gravity-sort": "Sortare!", "black-hole": "Gaura neagră" },
+    missionLabels: { "orbit-quiz": "Quiz numere", "star-match": "Perechi stele", "gravity-sort": "Sortare!", "black-hole": "Gaura neagră", "number-duel": "Duel numere" },
     testTopics: { test1: "Numărare & Operații", test2: "Numere până la 20", test3: "Forme & Măsurare" },
+    duelBigger: "Care este MAI MARE?", duelSmaller: "Care este MAI MIC?",
+    rocketTitle: "Lansarea rachetei!", rocketDesc: "Încălzire pentru test — răspunde rapid!", rocketFuel: "Combustibil", rocketReady: "🚀 Gata de lansare!",
+    rocketContinue: "Pornește testul",
   },
 } as const;
 
@@ -739,6 +753,289 @@ function StarMatch({ questions, color, onDone }: {
   );
 }
 
+// ─── Number Duel ───────────────────────────────────────────────────────────────
+function randInt(lo: number, hi: number) { return Math.floor(Math.random() * (hi - lo + 1)) + lo; }
+
+function genDuelPair(range: [number, number]): [number, number] {
+  const [lo, hi] = range;
+  let a = randInt(lo, hi), b = randInt(lo, hi);
+  while (a === b) b = randInt(lo, hi);
+  return [a, b];
+}
+
+function NumberDuel({ sortRange, color, onDone }: {
+  sortRange: [number, number]; color: string; onDone: (score: number, total: number) => void;
+}) {
+  const { lang } = useLang();
+  const t = T[lang as keyof typeof T] ?? T.en;
+  const ROUNDS = 10;
+  const [round, setRound] = useState(0);
+  const [correct, setCorrect] = useState(0);
+  const [pair, setPair] = useState<[number, number]>(() => genDuelPair(sortRange));
+  const [askBigger, setAskBigger] = useState(() => Math.random() > 0.5);
+  const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
+  const lockRef = useRef(false);
+
+  const question = askBigger ? t.duelBigger : t.duelSmaller;
+  const correctAnswer = askBigger ? Math.max(...pair) : Math.min(...pair);
+
+  // Auto-read question
+  useEffect(() => { speak(question, lang); }, [round]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  const tap = useCallback((val: number) => {
+    if (lockRef.current || feedback) return;
+    lockRef.current = true;
+    const isRight = val === correctAnswer;
+    const newCorrect = isRight ? correct + 1 : correct;
+    setFeedback(isRight ? "correct" : "wrong");
+    setTimeout(() => {
+      const nextRound = round + 1;
+      if (nextRound >= ROUNDS) {
+        onDone(newCorrect, ROUNDS);
+      } else {
+        setRound(nextRound);
+        setPair(genDuelPair(sortRange));
+        setAskBigger(Math.random() > 0.5);
+        setFeedback(null);
+        lockRef.current = false;
+      }
+    }, feedback === null ? (isRight ? 600 : 900) : 600);
+  }, [feedback, correct, correctAnswer, round, sortRange, onDone]);
+
+  return (
+    <div className="flex flex-col gap-5 w-full max-w-sm mx-auto items-center">
+      {/* Progress bar */}
+      <div className="flex gap-1.5 w-full">
+        {Array.from({ length: ROUNDS }).map((_, i) => (
+          <div key={i} className="flex-1 h-2 rounded-full"
+            style={{ background: i < round ? "#00FF88" : i === round ? color : "rgba(255,255,255,0.12)" }} />
+        ))}
+      </div>
+
+      {/* Score */}
+      <div className="text-white/40 text-xs font-bold">{round + 1} / {ROUNDS}</div>
+
+      {/* Question */}
+      <AnimatePresence mode="wait">
+        <motion.div key={round}
+          initial={{ opacity: 0, y: -10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: 10 }}
+          className="flex items-center gap-2">
+          <p className="text-xl font-black text-white text-center">{question}</p>
+          <SpeakButton text={question} lang={lang} size={16} />
+        </motion.div>
+      </AnimatePresence>
+
+      {/* Two number buttons */}
+      <AnimatePresence mode="wait">
+        <motion.div key={`pair-${round}`}
+          initial={{ scale: 0.8, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}
+          className="flex gap-6 items-center justify-center w-full">
+          {pair.map((num, i) => {
+            const isCorrect = feedback && num === correctAnswer;
+            const isWrong = feedback === "wrong" && num !== correctAnswer;
+            return (
+              <motion.button key={i} onClick={() => tap(num)}
+                className="w-28 h-28 rounded-3xl font-black text-5xl flex items-center justify-center"
+                style={{
+                  background: isCorrect ? "rgba(0,255,136,0.25)" : isWrong ? "rgba(255,50,50,0.18)" : `${color}18`,
+                  border: `3px solid ${isCorrect ? "#00FF88" : isWrong ? "#FF4444" : color}`,
+                  color: isCorrect ? "#00FF88" : isWrong ? "#FF6666" : "#fff",
+                  boxShadow: isCorrect ? "0 0 20px rgba(0,255,136,0.4)" : isWrong ? "0 0 20px rgba(255,50,50,0.3)" : `0 0 15px ${color}33`,
+                }}
+                whileTap={!feedback ? { scale: 0.92 } : {}}>
+                {num}
+              </motion.button>
+            );
+          })}
+        </motion.div>
+      </AnimatePresence>
+
+      {/* Feedback */}
+      <AnimatePresence>
+        {feedback && (
+          <motion.div initial={{ opacity: 0, scale: 0.7 }} animate={{ opacity: 1, scale: 1 }}
+            className="text-2xl font-black"
+            style={{ color: feedback === "correct" ? "#00FF88" : "#FF6666" }}>
+            {feedback === "correct" ? "✓ " + t.correct : "✗ " + t.wrong}
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      {/* Score so far */}
+      <div className="text-white/30 text-sm">{correct}/{round + (feedback ? 1 : 0)}</div>
+    </div>
+  );
+}
+
+// ─── Rocket Launch (Speed Quiz — warm-up before checkpoint) ────────────────────
+const ROCKET_ROUNDS = 7;
+const ROCKET_TIME = 3; // seconds per question
+
+function RocketLaunch({ questions, color, onDone }: {
+  questions: MathQuestion[]; color: string; onDone: (score: number, total: number) => void;
+}) {
+  const { lang } = useLang();
+  const t = T[lang as keyof typeof T] ?? T.en;
+  const [idx, setIdx] = useState(0);
+  const [timeLeft, setTimeLeft] = useState(ROCKET_TIME);
+  const [answered, setAnswered] = useState<"correct" | "wrong" | "timeout" | null>(null);
+  const [fuelFilled, setFuelFilled] = useState(0);
+  const [done, setDone] = useState(false);
+  const scoreRef = useRef(0);
+  const lockRef = useRef(false);
+
+  const q = questions[idx];
+  const opts = q?.options?.slice(0, 2) ?? []; // only 2 options for speed
+
+  // Auto-read question
+  useEffect(() => {
+    if (q?.question && !done) speak(q.question, lang);
+  }, [idx]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  // Timer
+  useEffect(() => {
+    if (answered || done) return;
+    if (timeLeft <= 0) {
+      advance("timeout");
+      return;
+    }
+    const id = setTimeout(() => setTimeLeft((t) => t - 0.05), 50);
+    return () => clearTimeout(id);
+  }, [timeLeft, answered, done]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  const advance = useCallback((result: "correct" | "wrong" | "timeout") => {
+    if (lockRef.current) return;
+    lockRef.current = true;
+    setAnswered(result);
+    if (result === "correct") {
+      scoreRef.current += 1;
+      setFuelFilled((f) => f + 1);
+    }
+    setTimeout(() => {
+      const nextIdx = idx + 1;
+      if (nextIdx >= ROCKET_ROUNDS) {
+        setDone(true);
+      } else {
+        setIdx(nextIdx);
+        setTimeLeft(ROCKET_TIME);
+        setAnswered(null);
+        lockRef.current = false;
+      }
+    }, result === "correct" ? 500 : 700);
+  }, [idx]);
+
+  const tap = useCallback((opt: number | string) => {
+    if (lockRef.current || answered) return;
+    const isRight = String(opt) === String(q?.correctAnswer);
+    advance(isRight ? "correct" : "wrong");
+  }, [answered, q, advance]);
+
+  if (done) {
+    return (
+      <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
+        className="flex flex-col items-center gap-6 w-full max-w-sm mx-auto text-center">
+        {/* Rocket */}
+        <motion.div className="text-7xl"
+          animate={{ y: [0, -20, 0] }} transition={{ duration: 1.5, repeat: Infinity, ease: "easeInOut" }}>
+          🚀
+        </motion.div>
+        <div>
+          <p className="text-white font-black text-2xl">{t.rocketReady}</p>
+          <p className="text-white/50 text-sm mt-2">{scoreRef.current}/{ROCKET_ROUNDS} {t.rocketFuel}</p>
+        </div>
+        {/* Fuel meter */}
+        <div className="w-full h-4 bg-white/10 rounded-full overflow-hidden">
+          <motion.div className="h-full rounded-full"
+            style={{ background: `linear-gradient(90deg, ${color}, #00FF88)` }}
+            initial={{ width: 0 }}
+            animate={{ width: `${(scoreRef.current / ROCKET_ROUNDS) * 100}%` }}
+            transition={{ duration: 0.8, ease: "easeOut" }} />
+        </div>
+        <motion.button onClick={() => onDone(scoreRef.current, ROCKET_ROUNDS)}
+          className="w-full py-4 rounded-2xl font-black text-white text-base flex items-center justify-center gap-2"
+          style={{ background: `linear-gradient(135deg, ${color}66, ${color}bb)`, border: `2px solid ${color}` }}
+          whileTap={{ scale: 0.97 }}>
+          {t.rocketContinue} <ChevronRight size={20} />
+        </motion.button>
+      </motion.div>
+    );
+  }
+
+  if (!q) return null;
+  const timePct = (timeLeft / ROCKET_TIME) * 100;
+  const timerColor = timePct > 50 ? "#00FF88" : timePct > 25 ? "#FFD700" : "#FF4444";
+
+  return (
+    <div className="flex flex-col gap-4 w-full max-w-sm mx-auto items-center">
+      {/* Fuel bar (score) */}
+      <div className="w-full flex items-center gap-2">
+        <span className="text-white/40 text-xs font-bold whitespace-nowrap">🚀 {t.rocketFuel}</span>
+        <div className="flex-1 h-3 bg-white/10 rounded-full overflow-hidden">
+          <motion.div className="h-full rounded-full transition-all duration-300"
+            style={{ width: `${(fuelFilled / ROCKET_ROUNDS) * 100}%`, background: `linear-gradient(90deg, ${color}, #00FF88)` }} />
+        </div>
+        <span className="text-white/50 text-xs font-bold">{fuelFilled}/{ROCKET_ROUNDS}</span>
+      </div>
+
+      {/* Timer bar */}
+      <div className="w-full h-2 bg-white/10 rounded-full overflow-hidden">
+        <motion.div className="h-full rounded-full transition-colors"
+          style={{ width: `${timePct}%`, background: timerColor }} />
+      </div>
+
+      {/* Question */}
+      <AnimatePresence mode="wait">
+        <motion.div key={idx}
+          initial={{ opacity: 0, x: 30 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -30 }}
+          className="w-full rounded-3xl p-6 min-h-[110px] flex flex-col items-center justify-center gap-2 text-center"
+          style={{ background: `${color}12`, border: `2px solid ${color}30` }}>
+          <p className="text-2xl font-black text-white">{q.question}</p>
+          <SpeakButton text={q.question} lang={lang} size={16} />
+        </motion.div>
+      </AnimatePresence>
+
+      {/* 2 big answer buttons */}
+      <div className="flex gap-3 w-full">
+        {opts.map((opt, i) => {
+          const isThis = answered && String(opt) === String(q?.options?.[i]);
+          const isRight = String(opt) === String(q?.correctAnswer);
+          let bg = `${color}18`;
+          let border = `${color}44`;
+          if (answered) {
+            if (isRight) { bg = "rgba(0,255,136,0.25)"; border = "#00FF88"; }
+            else if (isThis && !isRight) { bg = "rgba(255,50,50,0.18)"; border = "#FF4444"; }
+          }
+          return (
+            <motion.button key={i} onClick={() => tap(opt)}
+              className="flex-1 py-6 rounded-2xl font-black text-3xl flex items-center justify-center"
+              style={{ background: bg, border: `2.5px solid ${border}`, color: "#fff" }}
+              whileTap={!answered ? { scale: 0.93 } : {}}>
+              {String(opt)}
+            </motion.button>
+          );
+        })}
+      </div>
+
+      {/* Feedback flash */}
+      <AnimatePresence>
+        {answered && answered !== "timeout" && (
+          <motion.div initial={{ opacity: 0, scale: 0.7 }} animate={{ opacity: 1, scale: 1 }}
+            className="text-xl font-black"
+            style={{ color: answered === "correct" ? "#00FF88" : "#FF6666" }}>
+            {answered === "correct" ? "⚡ " + t.correct : "✗ " + t.wrong}
+          </motion.div>
+        )}
+        {answered === "timeout" && (
+          <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+            className="text-xl font-black text-white/40">⏱</motion.div>
+        )}
+      </AnimatePresence>
+
+      <div className="text-white/30 text-xs">{idx + 1}/{ROCKET_ROUNDS}</div>
+    </div>
+  );
+}
+
 // ─── Mission Done screen ───────────────────────────────────────────────────────
 function MissionDoneScreen({ mission, island, score, total, onContinue }: {
   mission: MissionDef; island: IslandDef; score: number; total: number; onContinue: () => void;
@@ -875,6 +1172,12 @@ export default function AstroMathG1Page() {
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
+    if (mission.gameType === "number-duel" || mission.gameType === "gravity-sort") {
+      // No questions needed — uses sortRange directly
+      setQuestions([]);
+      setScreen(mission.gameType as Screen);
+      return;
+    }
     // star-match needs 20 (5 rounds × 5 pairs); quiz games need 10
     const qCount = mission.gameType === "star-match" ? 20 : 10;
     const qs = generateIslandQuestions(activeIsland, lang as Lang, qCount);
@@ -921,8 +1224,11 @@ export default function AstroMathG1Page() {
   // ── Checkpoint ───────────────────────────────────────────────────────────────
   const startCheckpoint = useCallback((testId: string) => {
     setActiveTestId(testId);
-    setScreen("checkpoint-intro");
-  }, []);
+    // Generate rocket-launch warm-up questions from checkpoint topics
+    const qs = generateCheckpointQuestions(testId, lang as Lang, ROCKET_ROUNDS);
+    setQuestions(qs);
+    setScreen("rocket-launch");
+  }, [lang]);
 
   const startCheckpointQuiz = useCallback(() => {
     if (!activeTestId) return;
@@ -1120,11 +1426,35 @@ export default function AstroMathG1Page() {
         {screen === "star-match" && questions.length > 0 && (
           <StarMatch questions={questions} color={bgColor} onDone={handleMissionDone} />
         )}
+        {screen === "number-duel" && activeIsland && (
+          <NumberDuel sortRange={activeIsland.sortRange} color={bgColor} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match"].includes(screen)) return gameScreen;
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel"].includes(screen)) return gameScreen;
+
+  // ─── ROCKET LAUNCH (checkpoint warm-up) ──────────────────────────────────────
+  if (screen === "rocket-launch" && activeTestId) {
+    return (
+      <div className="min-h-screen flex flex-col relative overflow-hidden"
+        style={{ background: "radial-gradient(ellipse at 50% 0%, rgba(255,165,0,0.18) 0%, #060614 55%)" }}>
+        <Starfield />
+        <div className="relative z-10 flex items-center gap-3 px-4 pt-5 pb-3">
+          <button onClick={goToMap} className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={14} /></button>
+          <div className="flex-1">
+            <p className="text-white font-black text-sm">{t.rocketTitle}</p>
+            <p className="text-white/40 text-[10px]">{t.rocketDesc}</p>
+          </div>
+        </div>
+        <div className="relative z-10 flex-1 flex flex-col justify-center px-4 pb-6">
+          <RocketLaunch questions={questions} color="#FF9500"
+            onDone={() => setScreen("checkpoint-intro")} />
+        </div>
+      </div>
+    );
+  }
 
   // ─── MISSION DONE ────────────────────────────────────────────────────────────
   if (screen === "mission-done" && activeIsland && activeMission) {

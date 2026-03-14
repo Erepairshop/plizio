@@ -5,7 +5,7 @@ import { generateTopicQuestions, type MathQuestion } from "./mathCurriculum";
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
-export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hole";
+export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hole" | "number-duel";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }
@@ -72,7 +72,7 @@ export const G1_ISLANDS: IslandDef[] = [
     topicKeys: ["g1_count", "g1_compare", "g1_pos"],
     missions: [
       { id: "m1", gameType: "orbit-quiz",   icon: "🚀", label: { en: "Number Quiz",    hu: "Számkvíz",        de: "Zahlenquiz",     ro: "Quiz numere"   } },
-      { id: "m2", gameType: "gravity-sort", icon: "🌪️", label: { en: "Sort Numbers",   hu: "Számrendezés",    de: "Zahlen sortieren", ro: "Sortează"    } },
+      { id: "m2", gameType: "number-duel",  icon: "⚔️", label: { en: "Number Duel",    hu: "Szám-párharc",    de: "Zahlen-Duell",   ro: "Duel numere"   } },
       { id: "m3", gameType: "star-match",   icon: "⭐", label: { en: "Star Match",     hu: "Csillagpárosítás", de: "Sternenpaare",   ro: "Perechi stele" } },
     ],
     svgX: 160, svgY: 530,
@@ -120,7 +120,7 @@ export const G1_ISLANDS: IslandDef[] = [
     topicKeys: ["g1_num1120", "g1_place_value20", "g1_sequence"],
     missions: [
       { id: "m1", gameType: "orbit-quiz",   icon: "🚀", label: { en: "Numbers Quiz",   hu: "Számkvíz",     de: "Zahlenquiz",       ro: "Quiz numere"    } },
-      { id: "m2", gameType: "gravity-sort", icon: "🌪️", label: { en: "Sort to 20",     hu: "Rendezés 20-ig", de: "Bis 20 sortieren", ro: "Sortează la 20" } },
+      { id: "m2", gameType: "number-duel",  icon: "⚔️", label: { en: "Number Duel",    hu: "Szám-párharc", de: "Zahlen-Duell",     ro: "Duel numere"    } },
       { id: "m3", gameType: "black-hole",   icon: "🕳️", label: { en: "Black Hole",     hu: "Fekete lyuk",  de: "Schwarzes Loch",   ro: "Gaura neagră"   } },
     ],
     svgX: 220, svgY: 195,
