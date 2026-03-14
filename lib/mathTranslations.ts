@@ -1953,13 +1953,14 @@ export function qZaehlen(items: string, countryCode: string): string {
 }
 
 // Tauschaufgabe (commutative property)
+/** Inverse task: gives a+b=sum, asks sum−a (answer = b). Avoids trivial same-answer repetition. */
 export function qTauschaufgabe(a: number, b: number, sum: number, countryCode: string): string {
   const lang = getLang(countryCode);
   switch (lang) {
-    case "DE": return `${a} + ${b} = ${sum}. Was ergibt ${b} + ${a}?`;
-    case "EN": return `${a} + ${b} = ${sum}. What is ${b} + ${a}?`;
-    case "RO": return `${a} + ${b} = ${sum}. Cât este ${b} + ${a}?`;
-    default:   return `${a} + ${b} = ${sum}. Mennyi ${b} + ${a}?`;
+    case "DE": return `${a} + ${b} = ${sum}. Was ergibt ${sum} − ${a}?`;
+    case "EN": return `${a} + ${b} = ${sum}. What is ${sum} − ${a}?`;
+    case "RO": return `${a} + ${b} = ${sum}. Cât este ${sum} − ${a}?`;
+    default:   return `${a} + ${b} = ${sum}. Mennyi ${sum} − ${a}?`;
   }
 }
 

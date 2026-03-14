@@ -2075,6 +2075,9 @@ export default function MathTestPage() {
                       testId={`test_${selectedGrade}_${testType}`}
                       questionId={`q_${qi}`}
                       countryCode={country?.code}
+                      speakLang={selectedGrade && selectedGrade <= 2
+                        ? ({ DE: "de-DE", HU: "hu-HU", US: "en-US", GB: "en-GB", RO: "ro-RO" }[country?.code ?? ""] ?? undefined)
+                        : undefined}
                     />
 
                     {/* Inline grading pencil - shows on the question currently being graded */}

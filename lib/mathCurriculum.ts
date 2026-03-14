@@ -759,8 +759,13 @@ const G1: Record<string, Generator> = {
     return q(qZaehlen(row, cc), count, t("g1Zaehlen", cc));
   },
   tausch: (cc) => {
-    const a = randInt(1, 8), b = randInt(1, 9 - a);
-    return q(qTauschaufgabe(a, b, a + b, cc), a + b, t("g1Tausch", cc));
+    // Ensure a !== b so the question isn't trivially "same number"
+    let a = randInt(1, 7), b = randInt(1, 9 - a);
+    while (a === b) { a = randInt(1, 7); b = randInt(1, 9 - a); }
+    const sum = a + b;
+    // Answer = b; distractors: a (swap confusion), sum (adds instead), b+1 / b-1
+    return qd(qTauschaufgabe(a, b, sum, cc), b, t("g1Tausch", cc),
+      [a, sum, b + 1 <= 9 ? b + 1 : b - 1]);
   },
   zahlzerlegung: (cc) => {
     const total = randInt(3, 10);

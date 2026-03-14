@@ -54,6 +54,8 @@ interface MathQuestionDisplayProps {
   questionId?: string;
   /** Country code for language-aware UI strings */
   countryCode?: string;
+  /** If set, show a TTS speak button for the question (use BCP-47 lang tag, e.g. "de-DE") */
+  speakLang?: string;
 }
 
 // Small shape icon for pattern answer options
@@ -189,6 +191,16 @@ function TableDisplay({ data }: { data: { headers: string[]; rows: (string | num
   );
 }
 
+function speakText(text: string, bcp47: string) {
+  if (typeof window === "undefined" || !window.speechSynthesis) return;
+  window.speechSynthesis.cancel();
+  const utt = new SpeechSynthesisUtterance(text);
+  utt.lang = bcp47;
+  utt.rate = 0.88;
+  utt.pitch = 1.1;
+  window.speechSynthesis.speak(utt);
+}
+
 export default function MathQuestionDisplay({
   question,
   selectedAnswer,
@@ -200,6 +212,7 @@ export default function MathQuestionDisplay({
   testId = "test",
   questionId = "q0",
   countryCode = "DE",
+  speakLang,
 }: MathQuestionDisplayProps) {
   const isEN = countryCode === "US" || countryCode === "GB";
   const correctWord = isEN ? 'Correct!' : countryCode === 'HU' ? 'Helyes!' : countryCode === 'RO' ? 'Corect!' : 'Richtig!';
@@ -217,6 +230,18 @@ export default function MathQuestionDisplay({
         {/* Question Header */}
         <div className="mb-4 pb-0 border-none flex items-start justify-between gap-4">
           <h3 className="text-lg md:text-xl font-black text-gray-800 flex-1">{question.question}</h3>
+
+          {/* TTS speak button (grade 1-2 only) */}
+          {speakLang && (
+            <motion.button
+              onClick={() => speakText(question.question, speakLang)}
+              className="flex-shrink-0 w-9 h-9 flex items-center justify-center rounded-full bg-blue-50 hover:bg-blue-100 border border-blue-200 text-blue-500 transition-colors"
+              whileTap={{ scale: 0.9 }}
+              title="Vorlesen"
+            >
+              🔊
+            </motion.button>
+          )}
 
           {/* Draft toggle button */}
           <motion.button
