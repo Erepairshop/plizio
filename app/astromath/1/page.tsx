@@ -550,99 +550,149 @@ function GravitySort({ sortRange, color, onDone }: {
 }
 
 // ─── Star Match ────────────────────────────────────────────────────────────────
+// Tap-to-pair: questions visible on left, shuffled answers on right.
+// Tap a question → it gets selected (highlighted). Then tap the matching answer.
+// Correct → both turn green. Wrong → both flash red, deselect.
+const SM_LABELS = {
+  en: { hint: "Tap a question, then tap the matching answer", pairs: "pairs" },
+  hu: { hint: "Koppints egy kérdésre, majd a helyes válaszra", pairs: "pár" },
+  de: { hint: "Tippe auf eine Aufgabe, dann auf die passende Antwort", pairs: "Paare" },
+  ro: { hint: "Atinge o întrebare, apoi răspunsul potrivit", pairs: "perechi" },
+};
+
 function StarMatch({ questions, color, onDone }: {
   questions: MathQuestion[]; color: string; onDone: (score: number, total: number) => void;
 }) {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
+  const sl = SM_LABELS[lang as keyof typeof SM_LABELS] ?? SM_LABELS.en;
   const pairs = generateMatchPairs(questions);
 
-  // Build 6 cards: 3 left (questions), 3 right (answers), shuffled
-  const allCards = [
-    ...pairs.map((p, i) => ({ id: `q${i}`, text: p.left,  pairIdx: i, side: "q" as const })),
-    ...pairs.map((p, i) => ({ id: `a${i}`, text: p.right, pairIdx: i, side: "a" as const })),
-  ];
-  const [cards] = useState(() => {
-    const a = [...allCards].sort(() => Math.random() - 0.5);
-    return a;
-  });
+  // Right column: shuffled answer indices
+  const [answerOrder] = useState(() =>
+    [...pairs.map((_, i) => i)].sort(() => Math.random() - 0.5)
+  );
 
-  const [flipped, setFlipped] = useState<string[]>([]);
-  const [matched, setMatched] = useState<string[]>([]);
-  const [wrong, setWrong] = useState<string[]>([]);
+  const [selectedQ, setSelectedQ] = useState<number | null>(null); // selected question index
+  const [matched, setMatched] = useState<Set<number>>(new Set());  // matched pair indices
+  const [wrongQ, setWrongQ] = useState<number | null>(null);       // flash red on question
+  const [wrongA, setWrongA] = useState<number | null>(null);       // flash red on answer
   const [done, setDone] = useState(false);
   const lockRef = useRef(false);
 
-  const tap = useCallback((cardId: string) => {
-    if (lockRef.current || matched.includes(cardId) || flipped.includes(cardId)) return;
-    const newFlipped = [...flipped, cardId];
-    setFlipped(newFlipped);
-    // Read the card text aloud when flipped
-    const card = cards.find((c) => c.id === cardId);
-    if (card) speak(card.text, lang);
-
-    if (newFlipped.length === 2) {
-      lockRef.current = true;
-      const [a, b] = newFlipped.map((id) => cards.find((c) => c.id === id)!);
-      const isMatch = a.pairIdx === b.pairIdx && a.side !== b.side;
-
-      setTimeout(() => {
-        if (isMatch) {
-          const newMatched = [...matched, a.id, b.id];
-          setMatched(newMatched);
-          setFlipped([]);
-          if (newMatched.length === cards.length) setDone(true);
-        } else {
-          setWrong(newFlipped);
-          setTimeout(() => { setFlipped([]); setWrong([]); }, 500);
-        }
-        lockRef.current = false;
-      }, isMatch ? 300 : 700);
-    }
-  }, [flipped, matched, cards]);
-
   useEffect(() => {
     if (done) {
-      const timer = setTimeout(() => onDone(3, 3), 1200);
+      const timer = setTimeout(() => onDone(matched.size, pairs.length), 1200);
       return () => clearTimeout(timer);
     }
-  }, [done, onDone]);
+  }, [done, onDone, matched.size, pairs.length]);
+
+  const tapQuestion = useCallback((idx: number) => {
+    if (lockRef.current || matched.has(idx)) return;
+    speak(pairs[idx].left, lang);
+    setSelectedQ(idx === selectedQ ? null : idx);
+  }, [selectedQ, matched, pairs, lang]);
+
+  const tapAnswer = useCallback((pairIdx: number) => {
+    if (lockRef.current || matched.has(pairIdx)) return;
+    speak(pairs[pairIdx].right, lang);
+
+    if (selectedQ === null) {
+      // No question selected — select the corresponding question
+      setSelectedQ(pairIdx);
+      return;
+    }
+
+    if (selectedQ === pairIdx) {
+      // Correct match!
+      const newMatched = new Set(matched);
+      newMatched.add(pairIdx);
+      setMatched(newMatched);
+      setSelectedQ(null);
+      if (newMatched.size === pairs.length) setDone(true);
+    } else {
+      // Wrong — flash red
+      lockRef.current = true;
+      setWrongQ(selectedQ);
+      setWrongA(pairIdx);
+      setTimeout(() => {
+        setSelectedQ(null);
+        setWrongQ(null);
+        setWrongA(null);
+        lockRef.current = false;
+      }, 700);
+    }
+  }, [selectedQ, matched, pairs, lang]);
 
   return (
-    <div className="flex flex-col gap-4 w-full max-w-sm mx-auto items-center">
-      <div className="text-white/60 text-sm font-medium">
-        {matched.length / 2}/{pairs.length} {t.missions}
+    <div className="flex flex-col gap-4 w-full max-w-sm mx-auto">
+      {/* Instruction + progress */}
+      <div className="flex items-center justify-between">
+        <p className="text-white/50 text-xs font-medium">{sl.hint}</p>
+        <span className="text-white/60 text-xs font-bold flex-shrink-0 ml-2">
+          {matched.size}/{pairs.length}
+        </span>
       </div>
 
       {done && (
         <motion.div initial={{ scale: 0 }} animate={{ scale: 1 }}
-          className="text-xl font-black" style={{ color: "#00FF88" }}>
+          className="text-center text-xl font-black" style={{ color: "#00FF88" }}>
           {t.allMatched} ⭐
         </motion.div>
       )}
 
-      <div className="grid grid-cols-2 gap-2.5 w-full">
-        {cards.map((card) => {
-          const isFlipped = flipped.includes(card.id) || matched.includes(card.id);
-          const isMatched = matched.includes(card.id);
-          const isWrongCard = wrong.includes(card.id);
+      {/* Two columns: questions | answers */}
+      <div className="grid grid-cols-2 gap-3">
+        {/* Left: questions in order */}
+        <div className="flex flex-col gap-2">
+          {pairs.map((pair, i) => {
+            const isMatched = matched.has(i);
+            const isSelected = selectedQ === i;
+            const isWrong = wrongQ === i;
+            return (
+              <motion.button key={i} onClick={() => tapQuestion(i)}
+                disabled={isMatched}
+                className="rounded-2xl px-3 py-4 text-sm font-bold text-center min-h-[64px] flex items-center justify-center leading-snug"
+                style={{
+                  background: isMatched ? "rgba(0,255,136,0.18)"
+                    : isWrong ? "rgba(255,50,50,0.18)"
+                    : isSelected ? `${color}30`
+                    : "rgba(255,255,255,0.05)",
+                  border: `2px solid ${isMatched ? "#00FF88" : isWrong ? "#FF4444" : isSelected ? color : "rgba(255,255,255,0.12)"}`,
+                  color: isMatched ? "#00FF88" : isWrong ? "#FF6666" : isSelected ? "#fff" : "rgba(255,255,255,0.80)",
+                  boxShadow: isSelected ? `0 0 12px ${color}55` : "none",
+                }}
+                whileTap={!isMatched ? { scale: 0.95 } : {}}>
+                {isMatched ? "✓" : pair.left}
+              </motion.button>
+            );
+          })}
+        </div>
 
-          return (
-            <motion.button key={card.id} onClick={() => tap(card.id)}
-              className="rounded-2xl py-4 px-3 text-sm font-bold text-center min-h-[60px] flex items-center justify-center"
-              style={{
-                background: isMatched ? "rgba(0,255,136,0.2)"
-                  : isWrongCard ? "rgba(255,50,50,0.15)"
-                  : isFlipped ? `${color}25`
-                  : "rgba(255,255,255,0.05)",
-                border: `2px solid ${isMatched ? "#00FF88" : isWrongCard ? "#FF4444" : isFlipped ? color : "rgba(255,255,255,0.1)"}`,
-                color: isFlipped ? "#fff" : "rgba(255,255,255,0.4)",
-              }}
-              whileTap={!isMatched ? { scale: 0.95 } : {}}>
-              {isFlipped ? card.text : "⭐"}
-            </motion.button>
-          );
-        })}
+        {/* Right: answers shuffled */}
+        <div className="flex flex-col gap-2">
+          {answerOrder.map((pairIdx) => {
+            const isMatched = matched.has(pairIdx);
+            const isWrong = wrongA === pairIdx;
+            const isHighlighted = selectedQ !== null && !isMatched;
+            return (
+              <motion.button key={pairIdx} onClick={() => tapAnswer(pairIdx)}
+                disabled={isMatched}
+                className="rounded-2xl px-3 py-4 text-lg font-black text-center min-h-[64px] flex items-center justify-center"
+                style={{
+                  background: isMatched ? "rgba(0,255,136,0.18)"
+                    : isWrong ? "rgba(255,50,50,0.18)"
+                    : isHighlighted ? "rgba(255,255,255,0.10)"
+                    : "rgba(255,255,255,0.05)",
+                  border: `2px solid ${isMatched ? "#00FF88" : isWrong ? "#FF4444" : isHighlighted ? "rgba(255,255,255,0.30)" : "rgba(255,255,255,0.12)"}`,
+                  color: isMatched ? "#00FF88" : isWrong ? "#FF6666" : "#fff",
+                }}
+                whileTap={!isMatched ? { scale: 0.95 } : {}}>
+                {isMatched ? "✓" : pairs[pairIdx].right}
+              </motion.button>
+            );
+          })}
+        </div>
       </div>
     </div>
   );
