@@ -1158,6 +1158,18 @@ export default function Layout({ children }: { children: React.ReactNode }) {
 
 ---
 
+## Google Indexing API — manuális futtatás
+
+Ha a user kéri a Google indexelés futtatását (pl. "indexelj", "küldd be a sitemapot"), küldj copy-paste kész parancsot:
+
+```bash
+/opt/alt/alt-nodejs18/root/usr/bin/node scripts/google-index.mjs
+```
+
+A script automatikusan felismeri a szerver vs dev környezetet és megtalálja a sitemapokat.
+
+---
+
 ## SSH Pull + Deploy parancs minden feladat végén
 
 **FONTOS:** Minden feladat befejezésekor küldj a felhasználónak 2 copy-paste kész parancsot.
