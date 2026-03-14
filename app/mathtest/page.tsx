@@ -2007,6 +2007,9 @@ export default function MathTestPage() {
                       }
                       isGrading={isGrading}
                       cc={country?.code || 'DE'}
+                      speakLang={selectedGrade && selectedGrade <= 2
+                        ? ({ DE: "de-DE", HU: "hu-HU", US: "en-US", GB: "en-GB", RO: "ro-RO" }[country?.code ?? ""] ?? undefined)
+                        : undefined}
                     />
                   ))}
                 </div>

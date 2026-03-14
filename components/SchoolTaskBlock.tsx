@@ -144,6 +144,16 @@ interface Props {
   onChange: (subQuestionId: string, value: string | number) => void;
   isGrading: boolean;
   cc?: string;
+  /** BCP-47 lang tag for TTS (grade 1-2 only). If set, shows 🔊 button. */
+  speakLang?: string;
+}
+
+function speakText(text: string, bcp47: string) {
+  if (typeof window === "undefined" || !window.speechSynthesis) return;
+  window.speechSynthesis.cancel();
+  const utt = new SpeechSynthesisUtterance(text);
+  utt.lang = bcp47; utt.rate = 0.88; utt.pitch = 1.1;
+  window.speechSynthesis.speak(utt);
 }
 
 // Circle numbers ①②③…
@@ -156,6 +166,7 @@ export default function SchoolTaskBlock({
   onChange,
   isGrading,
   cc = 'DE',
+  speakLang,
 }: Props) {
   const circleNum = CIRCLE_NUMS[blockIndex] || `${blockIndex + 1}.`;
   const [draftOpen, setDraftOpen] = useState(false);
@@ -534,6 +545,15 @@ export default function SchoolTaskBlock({
         <span className="font-bold text-slate-800 text-sm flex-1">
           {block.title}
         </span>
+
+        {/* TTS button (grade 1-2 only) */}
+        {speakLang && !isGrading && (
+          <button
+            onClick={() => speakText(block.title, speakLang)}
+            className="flex-shrink-0 w-7 h-7 flex items-center justify-center rounded-full bg-blue-50 hover:bg-blue-100 border border-blue-200 text-blue-500 text-sm transition-colors"
+            title="Vorlesen"
+          >🔊</button>
+        )}
 
         {/* Points badge */}
         <span

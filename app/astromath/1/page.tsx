@@ -268,22 +268,27 @@ function OrbitQuiz({ questions, color, onDone }: {
     if (q?.question) speak(q.question, lang);
   }, [idx, q?.question, lang]);
 
+  const scoreRef = useRef(0); // track score without stale closure
+
   const confirm = useCallback((opt: number | string) => {
     if (confirmed) return;
     setSelected(opt);
     setConfirmed(true);
-    if (String(opt) === String(q?.correctAnswer)) setScore((s) => s + 1);
+    if (String(opt) === String(q?.correctAnswer)) {
+      scoreRef.current += 1;
+      setScore(scoreRef.current);
+    }
   }, [confirmed, q]);
 
   const next = useCallback(() => {
     if (idx + 1 >= questions.length) {
-      onDone(isCorrect ? score + 1 : score, questions.length);
+      onDone(scoreRef.current, questions.length); // use ref — no double-count
     } else {
       setIdx((i) => i + 1);
       setSelected(null);
       setConfirmed(false);
     }
-  }, [idx, questions.length, score, isCorrect, onDone]);
+  }, [idx, questions.length, onDone]);
 
   if (!q) return null;
 
@@ -373,17 +378,22 @@ function BlackHole({ questions, color, onDone }: {
     if (q?.question) speak(q.question, lang);
   }, [idx, q?.question, lang]);
 
+  const scoreRef = useRef(0);
+
   const confirm = useCallback((opt: number | string) => {
     if (confirmed) return;
     setSelected(opt);
     setConfirmed(true);
-    if (String(opt) === String(q?.correctAnswer)) setScore((s) => s + 1);
+    if (String(opt) === String(q?.correctAnswer)) {
+      scoreRef.current += 1;
+      setScore(scoreRef.current);
+    }
   }, [confirmed, q]);
 
   const next = useCallback(() => {
-    if (idx + 1 >= questions.length) onDone(isCorrect ? score + 1 : score, questions.length);
+    if (idx + 1 >= questions.length) onDone(scoreRef.current, questions.length);
     else { setIdx((i) => i + 1); setSelected(null); setConfirmed(false); }
-  }, [idx, questions.length, score, isCorrect, onDone]);
+  }, [idx, questions.length, onDone]);
 
   if (!q) return null;
   const opts = q.options ?? [];
@@ -865,7 +875,9 @@ export default function AstroMathG1Page() {
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
-    const qs = generateIslandQuestions(activeIsland, lang as Lang, 20);
+    // star-match needs 20 (5 rounds × 5 pairs); quiz games need 10
+    const qCount = mission.gameType === "star-match" ? 20 : 10;
+    const qs = generateIslandQuestions(activeIsland, lang as Lang, qCount);
     setQuestions(qs);
     setScreen(mission.gameType as Screen);
   }, [activeIsland, lang]);
