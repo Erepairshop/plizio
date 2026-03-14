@@ -2898,7 +2898,8 @@ const G6: Record<string, Generator> = {
     ])();
   },
   negAbsolute: (cc) => {
-    const n = randInt(-15, 15);
+    // Bias toward negative inputs — |14|=14 is trivial, |-7|=7 teaches the concept
+    const n = Math.random() < 0.75 ? randInt(-15, -1) : randInt(1, 15);
     return q(qAbsoluteValue(n, cc), Math.abs(n), t("negativeNumbers", cc));
   },
   negCompare: (cc) => {
@@ -2918,7 +2919,7 @@ const G6: Record<string, Generator> = {
   // ── FRACTIONS (deeper) ──
   fractionMul: (cc) => {
     const d = pick([2, 3, 4, 5]);
-    const n = randInt(1, d);
+    const n = randInt(1, d - 1); // ensure proper fraction (n < d)
     const w = randInt(2, 6) * d;
     return q(`${n}/${d} × ${w} = ?`, (n * w) / d, t("fractionMul", cc));
   },
@@ -2932,9 +2933,14 @@ const G6: Record<string, Generator> = {
     return qs(qFracMulFrac(an, ad, bn, bd, cc), ansStr, t("fractionMul", cc));
   },
   fractionDiv: (cc) => {
-    const n = randInt(4, 12);
-    const d = pick([2, 3, 4]);
-    return q(`${n} ÷ ${d} = ?`, Math.floor(n / d), t("fractionDiv", cc));
+    // fraction ÷ whole number — pre-computed for clean answers
+    const cases: [string, string][] = [
+      ["1/2 ÷ 2", "1/4"], ["3/4 ÷ 3", "1/4"], ["2/3 ÷ 2", "1/3"],
+      ["3/5 ÷ 3", "1/5"], ["4/5 ÷ 4", "1/5"], ["5/6 ÷ 5", "1/6"],
+      ["1/3 ÷ 3", "1/9"], ["3/4 ÷ 6", "1/8"], ["2/3 ÷ 4", "1/6"],
+    ];
+    const [question, answer] = pick(cases);
+    return qs(`${question} = ?`, answer, t("fractionDiv", cc));
   },
   fracDivFrac: (cc) => {
     // a/b ÷ c/d = (a*d)/(b*c) in lowest terms — pre-computed for clean answers
@@ -2946,11 +2952,19 @@ const G6: Record<string, Generator> = {
     return qs(qFracDivFrac(an, ad, bn, bd, cc), ansStr, t("fractionDiv", cc));
   },
   fractionDiff: (cc) => {
-    const pairs: [number, number, number, number, number, number][] = [
-      [1,2,1,3,6,5],[1,3,1,4,12,7],[1,2,1,4,4,3],[2,3,1,6,6,5],[3,4,1,2,4,5],
+    // G6: no denominator hint — student must find common denominator themselves
+    const addCases: [string, string][] = [
+      ["1/2 + 1/3", "5/6"], ["1/3 + 1/4", "7/12"], ["1/4 + 1/2", "3/4"],
+      ["2/3 + 1/6", "5/6"], ["1/6 + 1/3", "1/2"], ["3/8 + 1/8", "1/2"],
+      ["1/2 + 1/6", "2/3"], ["5/6 + 1/6", "1"],
     ];
-    const [an, ad, bn, bd, lcm, num] = pick(pairs);
-    return q(qFractionAddDiff(an, ad, bn, bd, lcm, cc), num, t("fractionDiffDenom", cc));
+    const subCases: [string, string][] = [
+      ["3/4 - 1/2", "1/4"], ["5/6 - 1/3", "1/2"], ["2/3 - 1/6", "1/2"],
+      ["5/6 - 2/3", "1/6"], ["7/8 - 3/8", "1/2"], ["3/4 - 1/4", "1/2"],
+      ["5/6 - 1/6", "2/3"], ["7/12 - 1/4", "1/3"],
+    ];
+    const [question, answer] = Math.random() < 0.5 ? pick(addCases) : pick(subCases);
+    return qs(`${question} = ?`, answer, t("fractionDiffDenom", cc));
   },
   fracToPercent: (cc) => {
     const pairs: [number, number, number][] = [
@@ -3024,8 +3038,9 @@ const G6: Record<string, Generator> = {
   },
   percentDiscount: (cc) => {
     const cur = getCurrency(cc);
+    const item = pick([getItems(cc).shoe, getItems(cc).laptop]);
     const orig = randInt(100, 500); const disc = pick([10, 20, 25, 50]);
-    return q(wpDiscount("", orig, disc, cur, cc), orig - orig * disc / 100, t("percentCalc", cc), 0, true);
+    return q(wpDiscount(item, orig, disc, cur, cc), orig - orig * disc / 100, t("percentCalc", cc), 0, true);
   },
   percentTax: (cc) => {
     const cur = getCurrency(cc);
@@ -3096,11 +3111,16 @@ const G6: Record<string, Generator> = {
 
   // ── STATISTICS ──
   mean: (cc) => {
-    const step = randInt(2, 9);
-    const count = pick([3, 4, 5]);
-    const niceNums = Array.from({ length: count }, (_, i) => step * (i + 1));
-    const avg = niceNums.reduce((s, n) => s + n, 0) / count;
-    return q(qMeanOf(niceNums, cc), avg, t("mean", cc));
+    // Use pre-selected non-arithmetic datasets with integer means
+    const datasets: [number[], number][] = [
+      [[4, 6, 8], 6], [[3, 7, 5, 9], 6], [[2, 4, 6, 8, 10], 6],
+      [[5, 8, 3, 12, 7], 7], [[1, 5, 9, 13], 7], [[6, 9, 12, 9], 9],
+      [[4, 7, 13], 8], [[2, 6, 10, 14], 8], [[3, 5, 10, 8, 4], 6],
+      [[5, 7, 9, 11, 13], 9], [[6, 2, 10, 6], 6], [[8, 4, 12, 8], 8],
+    ];
+    const [rawNums, avg] = pick(datasets);
+    const shuffled = [...rawNums].sort(() => Math.random() - 0.5);
+    return q(qMeanOf(shuffled, cc), avg, t("mean", cc));
   },
   median: (cc) => {
     const count = pick([3, 5]);
@@ -3110,7 +3130,12 @@ const G6: Record<string, Generator> = {
   modeGen: (cc) => {
     const base = pick([2, 3, 4, 5, 6, 7]);
     const mode = base;
-    const others = Array.from({ length: 3 }, () => { let n; do { n = randInt(1, 10); } while (n === mode); return n; });
+    // Ensure all other numbers are unique (no accidental second mode)
+    const others: number[] = [];
+    while (others.length < 3) {
+      const n = randInt(1, 10);
+      if (n !== mode && !others.includes(n)) others.push(n);
+    }
     const nums = [mode, mode, ...others].sort(() => Math.random() - 0.5);
     return q(qMode(nums, cc), mode, t("statistics", cc));
   },
@@ -3126,7 +3151,8 @@ const G6: Record<string, Generator> = {
     return q(wpDiscount(getItems(cc).shoe, price, disc, cur, cc), price - price * disc / 100, t("wordProblem", cc), 0, true);
   },
   wordTrain: (cc) => {
-    const km = randInt(60, 120); const h = pick([2, 3, 4]);
+    // Use clean round speeds to avoid non-round results
+    const km = pick([40, 50, 60, 70, 80, 90, 100, 120]); const h = pick([2, 3, 4]);
     return q(wpAvgSpeed(km * h, h, cc), km, t("wordProblem", cc), 0, true);
   },
 };
