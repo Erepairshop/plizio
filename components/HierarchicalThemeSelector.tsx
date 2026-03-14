@@ -33,6 +33,8 @@ interface UILabels {
   startTest: string;
   generating: string;
   topicAreas: string;
+  selectAllText?: string;
+  selectAllVisual?: string;
 }
 
 const DEFAULT_LABELS: UILabels = {
@@ -44,6 +46,8 @@ const DEFAULT_LABELS: UILabels = {
   startTest: "Teszt indítása",
   generating: "Generálás...",
   topicAreas: "Tématerületek",
+  selectAllText: "Összes szöveges",
+  selectAllVisual: "Összes képes",
 };
 
 interface HierarchicalThemeSelectorProps {
@@ -98,6 +102,32 @@ export default function HierarchicalThemeSelector({
   };
 
   const totalSubtopics = themes.reduce((sum, theme) => sum + theme.subtopics.length, 0);
+  const allSubtopics = themes.flatMap(t => t.subtopics);
+  const isVisual = (id: string) => id.endsWith('_visual');
+
+  const handleSelectAllText = () => {
+    const textIds = allSubtopics.filter(s => !isVisual(s.id)).map(s => s.id);
+    // Deselect all visual first, then select all text
+    allSubtopics.forEach(s => {
+      if (isVisual(s.id) && selectedSubtopics.includes(s.id)) onSubtopicToggle(s.id);
+    });
+    textIds.forEach(id => {
+      if (!selectedSubtopics.includes(id)) onSubtopicToggle(id);
+    });
+  };
+
+  const handleSelectAllVisual = () => {
+    const visualIds = allSubtopics.filter(s => isVisual(s.id)).map(s => s.id);
+    // Deselect all text first, then select all visual
+    allSubtopics.forEach(s => {
+      if (!isVisual(s.id) && selectedSubtopics.includes(s.id)) onSubtopicToggle(s.id);
+    });
+    visualIds.forEach(id => {
+      if (!selectedSubtopics.includes(id)) onSubtopicToggle(id);
+    });
+  };
+
+  const hasVisualTopics = allSubtopics.some(s => isVisual(s.id));
 
   return (
     <motion.div
@@ -108,7 +138,27 @@ export default function HierarchicalThemeSelector({
       {/* Header */}
       <div className="text-center mb-2 md:mb-4">
         <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-white mb-2">{labels.selectTopics}</h2>
-        <p className="text-white/50 text-xs sm:text-sm">{labels.selectTopicsSub}</p>
+        <p className="text-white/50 text-xs sm:text-sm mb-3">{labels.selectTopicsSub}</p>
+        {hasVisualTopics && (
+          <div className="flex justify-center gap-2 mt-2">
+            <motion.button
+              onClick={handleSelectAllText}
+              className="px-3 py-1.5 rounded-lg bg-blue-500/20 border border-blue-400/40 text-blue-300 text-xs font-bold hover:bg-blue-500/30 transition-all"
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+            >
+              📝 {labels.selectAllText ?? 'Összes szöveges'}
+            </motion.button>
+            <motion.button
+              onClick={handleSelectAllVisual}
+              className="px-3 py-1.5 rounded-lg bg-purple-500/20 border border-purple-400/40 text-purple-300 text-xs font-bold hover:bg-purple-500/30 transition-all"
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+            >
+              🖼️ {labels.selectAllVisual ?? 'Összes képes'}
+            </motion.button>
+          </div>
+        )}
       </div>
 
       {/* Themes List */}

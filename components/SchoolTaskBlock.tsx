@@ -73,6 +73,9 @@ const G7PythagoreanVisual = dynamic(() => import('./grade7-visual/PythagoreanVis
 const G7TriangleAngles = dynamic(() => import('./grade7-visual/TriangleAngles'), { ssr: false });
 const G7InequalityLine = dynamic(() => import('./grade7-visual/InequalityLine'), { ssr: false });
 const G7PowerGrid = dynamic(() => import('./grade7-visual/PowerGrid'), { ssr: false });
+const G7CircleVisual = dynamic(() => import('./grade7-visual/CircleVisual'), { ssr: false });
+const G7CylinderVolume = dynamic(() => import('./grade7-visual/CylinderVolume'), { ssr: false });
+const G7StatisticsVisual = dynamic(() => import('./grade7-visual/StatisticsVisual'), { ssr: false });
 
 // Grade 1 visual components
 const G1AnalogClock = dynamic(() => import('./grade1-visual/AnalogClock'), { ssr: false });
@@ -253,6 +256,12 @@ export default function SchoolTaskBlock({
         return <G7InequalityLine subQuestions={[{ expression: p.expression, isGt: p.isGt, answer: p.answer, solution: p.solution }]} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
       case 'g7-power-grid':
         return <G7PowerGrid subQuestions={[{ n: p.n, type: p.type, answer: p.answer }]} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g7-circle':
+        return <G7CircleVisual subQuestions={[{ r: p.r, findArea: p.findArea, answer: p.answer }]} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g7-cylinder-volume':
+        return <G7CylinderVolume subQuestions={[{ r: p.r, h: p.h, answer: p.answer }]} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g7-statistics':
+        return <G7StatisticsVisual subQuestions={[{ data: p.data, statType: p.statType, answer: p.answer }]} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
       // Grade 1 visual components
       case 'g1-clock':
         return <G1AnalogClock hour={p.hour} minute={p.minute} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
@@ -444,7 +453,10 @@ export default function SchoolTaskBlock({
       case 'visual_g7_pythagorean':
       case 'visual_g7_triangle_angles':
       case 'visual_g7_inequality_line':
-      case 'visual_g7_power_grid': {
+      case 'visual_g7_power_grid':
+      case 'visual_g7_circle':
+      case 'visual_g7_cylinder_volume':
+      case 'visual_g7_statistics': {
         return (
           <div className="space-y-3">
             {block.subQuestions.map((sq, idx) => (

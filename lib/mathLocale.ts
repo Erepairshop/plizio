@@ -38,6 +38,8 @@ export interface CountryConfig {
     guest: string;
     exit: string;
     topicAreas: string;
+    selectAllText: string;
+    selectAllVisual: string;
     dateLocale: string;
     // PDF & result screen translations
     subject: string;       // Math subject name for PDF header
@@ -87,6 +89,8 @@ const HU: CountryConfig = {
     guest: "Vendég",
     exit: "Kilépés",
     topicAreas: "Tématerületek",
+    selectAllText: "Összes szöveges",
+    selectAllVisual: "Összes képes",
     dateLocale: "hu-HU",
     subject: "MATEMATIKA DOLGOZAT",
     pointsUnit: "pont",
@@ -138,6 +142,8 @@ const US: CountryConfig = {
     guest: "Guest",
     exit: "Exit",
     topicAreas: "Topic areas",
+    selectAllText: "All text topics",
+    selectAllVisual: "All visual topics",
     dateLocale: "en-US",
     subject: "MATH TEST",
     pointsUnit: "pts",
@@ -188,6 +194,8 @@ const DE: CountryConfig = {
     guest: "Gast",
     exit: "Beenden",
     topicAreas: "Themenbereiche",
+    selectAllText: "Alle Textaufgaben",
+    selectAllVisual: "Alle visuellen",
     dateLocale: "de-DE",
     subject: "MATHEMATIK ARBEIT",
     pointsUnit: "Pkt.",
@@ -237,6 +245,8 @@ const GB: CountryConfig = {
     guest: "Guest",
     exit: "Exit",
     topicAreas: "Topic areas",
+    selectAllText: "All text topics",
+    selectAllVisual: "All visual topics",
     dateLocale: "en-GB",
     subject: "MATHS TEST",
     pointsUnit: "pts",
@@ -288,6 +298,8 @@ const RO: CountryConfig = {
     guest: "Invitat",
     exit: "Ieșire",
     topicAreas: "Domenii tematice",
+    selectAllText: "Toate textuale",
+    selectAllVisual: "Toate vizuale",
     dateLocale: "ro-RO",
     subject: "TEST DE MATEMATICĂ",
     pointsUnit: "pct.",
@@ -337,6 +349,8 @@ const AT: CountryConfig = {
     guest: "Gast",
     exit: "Beenden",
     topicAreas: "Themenbereiche",
+    selectAllText: "Alle Textaufgaben",
+    selectAllVisual: "Alle visuellen",
     dateLocale: "de-AT",
     subject: "MATHEMATIK SCHULARBEIT",
     pointsUnit: "Pkt.",
@@ -388,6 +402,8 @@ const CH: CountryConfig = {
     guest: "Gast",
     exit: "Beenden",
     topicAreas: "Themenbereiche",
+    selectAllText: "Alle Textaufgaben",
+    selectAllVisual: "Alle visuellen",
     dateLocale: "de-CH",
     subject: "MATHEMATIK PRÜFUNG",
     pointsUnit: "Pkt.",

@@ -22,7 +22,8 @@ export type VisualQuestionType = 'zeichnen' | 'messen' | 'uhrzeit' | 'grid-area'
   | 'g5-symmetry' | 'g5-unit-convert' | 'g5-nl-arith' | 'g5-word-problem'
   | 'g5-neg-line' | 'g5-volume-cuboid'
   | 'g6-coord-4q' | 'g6-pie-chart' | 'g6-ratio-table' | 'g6-trapezoid-area' | 'g6-percent-bar'
-  | 'g7-pythagorean' | 'g7-triangle-angles' | 'g7-inequality-line' | 'g7-power-grid';
+  | 'g7-pythagorean' | 'g7-triangle-angles' | 'g7-inequality-line' | 'g7-power-grid'
+  | 'g7-circle' | 'g7-cylinder-volume' | 'g7-statistics';
 
 export type VisualQuestionData = {
   type: VisualQuestionType;
@@ -128,7 +129,10 @@ export type TaskType =
   | 'visual_g7_pythagorean'
   | 'visual_g7_triangle_angles'
   | 'visual_g7_inequality_line'
-  | 'visual_g7_power_grid';
+  | 'visual_g7_power_grid'
+  | 'visual_g7_circle'
+  | 'visual_g7_cylinder_volume'
+  | 'visual_g7_statistics';
 
 export type AufgabenItem = {
   question: string;
@@ -790,6 +794,7 @@ const VISUAL_TOPIC_KEYS = new Set([
   'g6_coord_4q', 'g6_pie_chart', 'g6_ratio_table', 'g6_trapezoid_area', 'g6_percent_bar',
   // Grade 7 visual topics
   'g7_pyth_visual', 'g7_tri_visual', 'g7_ineq_visual', 'g7_powers_visual',
+  'g7_circle_visual', 'g7_cyl_visual', 'g7_stats_visual',
 ]);
 
 function isVisualTopicKey(key: string): boolean {
@@ -1449,6 +1454,47 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
           visualType: 'g7-power-grid', visualData: { type: 'g7-power-grid', params: { n, type: 'cube', answer: n*n*n } } };
       }
     }
+    case 'g7_circle_visual': {
+      const radii = [3,4,5,6,7,8];
+      const r = radii[rnd(0, radii.length - 1)];
+      const findArea = Math.random() > 0.5;
+      const pi = 3.14;
+      const ans = findArea ? Math.round(pi * r * r * 100) / 100 : Math.round(2 * pi * r * 100) / 100;
+      return { id: `vis_g7ci_${sfx}`, answer: String(ans), points: 1,
+        visualType: 'g7-circle', visualData: { type: 'g7-circle', params: { r, findArea, answer: ans } } };
+    }
+    case 'g7_cyl_visual': {
+      const rVals = [2,3,4,5];
+      const hVals = [4,5,6,7,8,10];
+      const r = rVals[rnd(0, rVals.length - 1)];
+      const h = hVals[rnd(0, hVals.length - 1)];
+      const pi = 3.14;
+      const ans = Math.round(pi * r * r * h * 100) / 100;
+      return { id: `vis_g7cv_${sfx}`, answer: String(ans), points: 1,
+        visualType: 'g7-cylinder-volume', visualData: { type: 'g7-cylinder-volume', params: { r, h, answer: ans } } };
+    }
+    case 'g7_stats_visual': {
+      const statTypes: Array<'median'|'mode'|'range'> = ['median', 'mode', 'range'];
+      const statType = statTypes[rnd(0, statTypes.length - 1)];
+      let data: number[];
+      let answer: number;
+      if (statType === 'median') {
+        data = Array.from({ length: 7 }, () => rnd(1, 15));
+        const sorted = [...data].sort((a, b) => a - b);
+        answer = sorted[3];
+      } else if (statType === 'mode') {
+        const base = Array.from({ length: 5 }, () => rnd(1, 10));
+        const modeVal = rnd(1, 10);
+        data = [...base, modeVal, modeVal];
+        answer = modeVal;
+        data.sort(() => Math.random() - 0.5);
+      } else {
+        data = Array.from({ length: 6 }, () => rnd(1, 20));
+        answer = Math.max(...data) - Math.min(...data);
+      }
+      return { id: `vis_g7st_${sfx}`, answer: String(answer), points: 1,
+        visualType: 'g7-statistics', visualData: { type: 'g7-statistics', params: { data, statType, answer } } };
+    }
     default:
       return generateVisualSub('zeichnen', blockIdx, subIdx);
   }
@@ -1524,6 +1570,9 @@ const VISUAL_TOPIC_TO_TYPE: Record<string, TaskType> = {
   g7_tri_visual:       'visual_g7_triangle_angles',
   g7_ineq_visual:      'visual_g7_inequality_line',
   g7_powers_visual:    'visual_g7_power_grid',
+  g7_circle_visual:    'visual_g7_circle',
+  g7_cyl_visual:       'visual_g7_cylinder_volume',
+  g7_stats_visual:     'visual_g7_statistics',
 };
 
 function generateVisualBlock(
@@ -1774,6 +1823,9 @@ const TITLES: Record<TaskType, Record<string, string>> = {
   visual_g7_triangle_angles:  { de: 'Fehlenden Dreieckswinkel berechnen.', en: 'Find the missing triangle angle.', hu: 'Háromszög hiányzó szögének kiszámítása.', ro: 'Calculează unghiul lipsă al triunghiului.' },
   visual_g7_inequality_line:  { de: 'Ungleichung auf dem Zahlenstrahl lösen.', en: 'Solve inequality on the number line.', hu: 'Egyenlőtlenség megoldása számegyenesen.', ro: 'Rezolvă inecuația pe dreapta numerelor.' },
   visual_g7_power_grid:       { de: 'Potenz im Gitter visualisieren.', en: 'Visualize powers on a grid.', hu: 'Hatványok vizualizálása rácson.', ro: 'Vizualizează puteri pe grilă.' },
+  visual_g7_circle:           { de: 'Kreisumfang / -fläche berechnen.', en: 'Calculate circle circumference / area.', hu: 'Kör kerülete / területe.', ro: 'Calculează circumferința / aria cercului.' },
+  visual_g7_cylinder_volume:  { de: 'Volumen eines Zylinders berechnen.', en: 'Calculate cylinder volume.', hu: 'Henger térfogatának kiszámítása.', ro: 'Calculează volumul cilindrului.' },
+  visual_g7_statistics:       { de: 'Median / Modus / Spannweite bestimmen.', en: 'Find median / mode / range.', hu: 'Medián / módusz / terjedelem meghatározása.', ro: 'Determină mediana / modul / amplitudinea.' },
 };
 
 function getTitleFor(type: TaskType, cc: string): string {

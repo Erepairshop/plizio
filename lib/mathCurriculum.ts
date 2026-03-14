@@ -4192,17 +4192,20 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g7_geo_circle', name: 'Circumference  C = 2πr',                      color: '#38BDF8', icon: '⭕', generators: [G7.circleG7] },
       { key: 'g7_geo_circA',  name: 'Area of a Circle  A = πr²',                  color: '#0EA5E9', icon: '🔵', generators: [G7.circleG7] },
       { key: 'g7_geo_surf',   name: 'Surface Area of a Box  2(ab + bc + ac)',      color: '#0284C7', icon: '📦', generators: [G7.surfaceBox7] },
+      { key: 'g7_circle_visual', name: 'Circle – Visual  ⭕',                      color: '#7DD3FC', icon: '⭕', generators: [G7.circleG7] },
     ]},
     { key: 'g7_vol', name: 'Volume', color: '#F97316', icon: '📦', topics: [
       { key: 'g7_vol_box',   name: 'Volume of a Box  (l × w × h)',                 color: '#FDBA74', icon: '📦', generators: [G7.volume7] },
       { key: 'g7_vol_cube',  name: 'Volume of a Cube  (a³)',                       color: '#F97316', icon: '🧊', generators: [G7.volume7] },
       { key: 'g7_vol_cyl',   name: 'Volume of a Cylinder  (πr²h)',                 color: '#EA580C', icon: '🥫', generators: [G7.cylinderVol] },
+      { key: 'g7_cyl_visual', name: 'Cylinder Volume – Visual  🥫',                color: '#FED7AA', icon: '🥫', generators: [G7.cylinderVol] },
     ]},
     { key: 'g7_stats', name: 'Statistics', color: '#06B6D4', icon: '📊', topics: [
       { key: 'g7_stat_median', name: 'Median of a Data Set',                       color: '#67E8F9', icon: '📊', generators: [G7.statsMedian7] },
       { key: 'g7_stat_mode',   name: 'Mode (most frequent value)',                 color: '#22D3EE', icon: '🎯', generators: [G7.statsMode7] },
       { key: 'g7_stat_range',  name: 'Range (max − min)',                          color: '#06B6D4', icon: '↔️', generators: [G7.statsRange7] },
       { key: 'g7_stat_mean',   name: 'Mean (average) Review',                     color: '#0891B2', icon: '📈', generators: [G6.mean] },
+      { key: 'g7_stats_visual', name: 'Statistics – Visual  📊',                  color: '#A5F3FC', icon: '📊', generators: [G7.statsMedian7] },
     ]},
     { key: 'g7_word', name: 'Word Problems', color: '#EF4444', icon: '📖', topics: [
       { key: 'g7_word_eq',    name: 'Word Problems · Equations',                   color: '#FCA5A5', icon: '=',  generators: [G7.equationWord] },
@@ -4752,17 +4755,20 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g7_geo_circle', name: 'Kreisumfang  U = 2πr',                        color: '#38BDF8', icon: '⭕', generators: [G7.circleG7] },
       { key: 'g7_geo_circA',  name: 'Kreisfläche  A = πr²',                        color: '#0EA5E9', icon: '🔵', generators: [G7.circleG7] },
       { key: 'g7_geo_surf',   name: 'Oberfläche eines Quaders  2(ab + bc + ac)',   color: '#0284C7', icon: '📦', generators: [G7.surfaceBox7] },
+      { key: 'g7_circle_visual', name: 'Kreis – Visuell  ⭕',                      color: '#7DD3FC', icon: '⭕', generators: [G7.circleG7] },
     ]},
     { key: 'g7_vol', name: 'Volumen', color: '#F97316', icon: '📦', topics: [
       { key: 'g7_vol_box',   name: 'Volumen eines Quaders  (l × b × h)',           color: '#FDBA74', icon: '📦', generators: [G7.volume7] },
       { key: 'g7_vol_cube',  name: 'Volumen eines Würfels  (a³)',                  color: '#F97316', icon: '🧊', generators: [G7.volume7] },
       { key: 'g7_vol_cyl',   name: 'Volumen eines Zylinders  (πr²h)',              color: '#EA580C', icon: '🥫', generators: [G7.cylinderVol] },
+      { key: 'g7_cyl_visual', name: 'Zylindervolumen – Visuell  🥫',               color: '#FED7AA', icon: '🥫', generators: [G7.cylinderVol] },
     ]},
     { key: 'g7_stats', name: 'Statistik', color: '#06B6D4', icon: '📊', topics: [
       { key: 'g7_stat_median', name: 'Median einer Datenmenge',                    color: '#67E8F9', icon: '📊', generators: [G7.statsMedian7] },
       { key: 'g7_stat_mode',   name: 'Modalwert (häufigster Wert)',                color: '#22D3EE', icon: '🎯', generators: [G7.statsMode7] },
       { key: 'g7_stat_range',  name: 'Spannweite (Max − Min)',                     color: '#06B6D4', icon: '↔️', generators: [G7.statsRange7] },
       { key: 'g7_stat_mean',   name: 'Mittelwert (Wiederholung)',                  color: '#0891B2', icon: '📈', generators: [G6.mean] },
+      { key: 'g7_stats_visual', name: 'Statistik – Visuell  📊',                  color: '#A5F3FC', icon: '📊', generators: [G7.statsMedian7] },
     ]},
     { key: 'g7_word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', topics: [
       { key: 'g7_word_eq',    name: 'Sachaufgaben · Gleichungen',                  color: '#FCA5A5', icon: '=',  generators: [G7.equationWord] },
@@ -5257,17 +5263,20 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g7_geo_circle', name: 'Kerület  K = 2πr',                            color: '#38BDF8', icon: '⭕', generators: [G7.circleG7] },
       { key: 'g7_geo_circA',  name: 'Körterület  T = πr²',                        color: '#0EA5E9', icon: '🔵', generators: [G7.circleG7] },
       { key: 'g7_geo_surf',   name: 'Téglatest felszíne  2(ab + bc + ac)',         color: '#0284C7', icon: '📦', generators: [G7.surfaceBox7] },
+      { key: 'g7_circle_visual', name: 'Kör – Vizuális  ⭕',                       color: '#7DD3FC', icon: '⭕', generators: [G7.circleG7] },
     ]},
     { key: 'g7_vol', name: 'Térfogat', color: '#F97316', icon: '📦', topics: [
       { key: 'g7_vol_box',   name: 'Téglatest térfogata  (a × b × c)',            color: '#FDBA74', icon: '📦', generators: [G7.volume7] },
       { key: 'g7_vol_cube',  name: 'Kocka térfogata  (a³)',                        color: '#F97316', icon: '🧊', generators: [G7.volume7] },
       { key: 'g7_vol_cyl',   name: 'Henger térfogata  (πr²h)',                    color: '#EA580C', icon: '🥫', generators: [G7.cylinderVol] },
+      { key: 'g7_cyl_visual', name: 'Henger térfogat – Vizuális  🥫',             color: '#FED7AA', icon: '🥫', generators: [G7.cylinderVol] },
     ]},
     { key: 'g7_stats', name: 'Statisztika', color: '#06B6D4', icon: '📊', topics: [
       { key: 'g7_stat_median', name: 'Medián meghatározása',                       color: '#67E8F9', icon: '📊', generators: [G7.statsMedian7] },
       { key: 'g7_stat_mode',   name: 'Módusz (leggyakoribb érték)',                color: '#22D3EE', icon: '🎯', generators: [G7.statsMode7] },
       { key: 'g7_stat_range',  name: 'Terjedelem (max − min)',                     color: '#06B6D4', icon: '↔️', generators: [G7.statsRange7] },
       { key: 'g7_stat_mean',   name: 'Átlag (ismétlés)',                           color: '#0891B2', icon: '📈', generators: [G6.mean] },
+      { key: 'g7_stats_visual', name: 'Statisztika – Vizuális  📊',               color: '#A5F3FC', icon: '📊', generators: [G7.statsMedian7] },
     ]},
     { key: 'g7_word', name: 'Szöveges feladatok', color: '#EF4444', icon: '📖', topics: [
       { key: 'g7_word_eq',    name: 'Szöveges feladatok · Egyenletek',            color: '#FCA5A5', icon: '=',  generators: [G7.equationWord] },
@@ -5758,17 +5767,20 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g7_geo_circle', name: 'Circumferința cercului  C = 2πr',             color: '#38BDF8', icon: '⭕', generators: [G7.circleG7] },
       { key: 'g7_geo_circA',  name: 'Aria cercului  A = πr²',                      color: '#0EA5E9', icon: '🔵', generators: [G7.circleG7] },
       { key: 'g7_geo_surf',   name: 'Aria totală a unui paralelipiped',             color: '#0284C7', icon: '📦', generators: [G7.surfaceBox7] },
+      { key: 'g7_circle_visual', name: 'Cerc – Vizual  ⭕',                        color: '#7DD3FC', icon: '⭕', generators: [G7.circleG7] },
     ]},
     { key: 'g7_vol', name: 'Volum', color: '#F97316', icon: '📦', topics: [
       { key: 'g7_vol_box',   name: 'Volumul paralelipipedului  (l × b × h)',       color: '#FDBA74', icon: '📦', generators: [G7.volume7] },
       { key: 'g7_vol_cube',  name: 'Volumul cubului  (a³)',                         color: '#F97316', icon: '🧊', generators: [G7.volume7] },
       { key: 'g7_vol_cyl',   name: 'Volumul cilindrului  (πr²h)',                  color: '#EA580C', icon: '🥫', generators: [G7.cylinderVol] },
+      { key: 'g7_cyl_visual', name: 'Volum cilindru – Vizual  🥫',                 color: '#FED7AA', icon: '🥫', generators: [G7.cylinderVol] },
     ]},
     { key: 'g7_stats', name: 'Statistică', color: '#06B6D4', icon: '📊', topics: [
       { key: 'g7_stat_median', name: 'Mediana unui șir de date',                   color: '#67E8F9', icon: '📊', generators: [G7.statsMedian7] },
       { key: 'g7_stat_mode',   name: 'Modul (valoarea cea mai frecventă)',          color: '#22D3EE', icon: '🎯', generators: [G7.statsMode7] },
       { key: 'g7_stat_range',  name: 'Amplitudinea (max − min)',                   color: '#06B6D4', icon: '↔️', generators: [G7.statsRange7] },
       { key: 'g7_stat_mean',   name: 'Media aritmetică (recapitulare)',             color: '#0891B2', icon: '📈', generators: [G6.mean] },
+      { key: 'g7_stats_visual', name: 'Statistică – Vizual  📊',                  color: '#A5F3FC', icon: '📊', generators: [G7.statsMedian7] },
     ]},
     { key: 'g7_word', name: 'Probleme', color: '#EF4444', icon: '📖', topics: [
       { key: 'g7_word_eq',    name: 'Probleme · Ecuații',                          color: '#FCA5A5', icon: '=',  generators: [G7.equationWord] },
