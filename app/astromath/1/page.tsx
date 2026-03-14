@@ -14,7 +14,7 @@ import {
   G1_ISLANDS, CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang,
   loadG1Progress, saveG1Progress, type G1Progress,
   isMissionDone, isIslandDone, isIslandUnlocked, isCheckpointUnlocked, isCheckpointDone,
-  completeMission, completeTest,
+  completeMission, completeTest, islandTotalStars,
   generateIslandQuestions, generateCheckpointQuestions, generateSortRound, generateMatchPairs,
 } from "@/lib/astromath";
 
@@ -231,11 +231,16 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
                 ))}
               </g>
             )}
-            {/* Number label */}
-            <text x={island.svgX} y={island.svgY + 46} textAnchor="middle" fontSize={9} fontWeight="bold"
-              fill={unlocked ? island.color : "rgba(255,255,255,0.2)"}>
-              {idx + 1}
-            </text>
+            {/* Star count below island */}
+            {unlocked && (() => {
+              const total = islandTotalStars(progress, island.id);
+              return (
+                <text x={island.svgX} y={island.svgY + 46} textAnchor="middle" fontSize={9} fontWeight="bold"
+                  fill={total === 9 ? "#FFD700" : island.color}>
+                  {total > 0 ? `${"⭐".repeat(Math.min(total, 3))} ${total}/9` : `${idx + 1}`}
+                </text>
+              );
+            })()}
           </g>
         );
       })}
@@ -834,7 +839,7 @@ export default function AstroMathG1Page() {
   const t = T[lang as keyof typeof T] ?? T.en;
 
   const [screen, setScreen] = useState<Screen>("island-map");
-  const [progress, setProgress] = useState<G1Progress>({ completedMissions: [], completedIslands: [], completedTests: [] });
+  const [progress, setProgress] = useState<G1Progress>({ completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} });
   const [activeIsland, setActiveIsland] = useState<IslandDef | null>(null);
   const [activeMission, setActiveMission] = useState<MissionDef | null>(null);
   const [activeTestId, setActiveTestId] = useState<string | null>(null);
@@ -870,8 +875,11 @@ export default function AstroMathG1Page() {
     if (!activeIsland || !activeMission) return;
     setMissionScore({ score, total });
 
+    const pct = total > 0 ? Math.round((score / total) * 100) : 0;
+    const stars = pct >= 80 ? 3 : pct >= 60 ? 2 : 1;
+
     const wasIslandDone = progress.completedIslands.includes(activeIsland.id);
-    const newProgress = completeMission(progress, activeIsland.id, activeMission.id);
+    const newProgress = completeMission(progress, activeIsland.id, activeMission.id, stars);
     const isNowIslandDone = newProgress.completedIslands.includes(activeIsland.id);
     setJustUnlockedIsland(!wasIslandDone && isNowIslandDone);
     saveG1Progress(newProgress);
@@ -1017,11 +1025,28 @@ export default function AstroMathG1Page() {
           <h2 className="font-black text-white text-base">{activeIsland.icon} {activeIsland.name[lang as Lang] ?? activeIsland.name.en}</h2>
           <div className="w-9" />
         </div>
+        {/* Island total stars summary */}
+        {(() => {
+          const total = islandTotalStars(progress, activeIsland.id);
+          if (total === 0) return null;
+          return (
+            <div className="relative z-10 flex items-center justify-center gap-1 pb-1">
+              {Array.from({ length: 9 }).map((_, i) => (
+                <span key={i} className="text-sm" style={{ opacity: i < total ? 1 : 0.18 }}>
+                  {i < total ? "⭐" : "✩"}
+                </span>
+              ))}
+              <span className="text-white/40 text-xs ml-1">{total}/9</span>
+            </div>
+          );
+        })()}
         <div className="relative z-10 flex-1 flex flex-col px-5 gap-3 pb-6">
           {activeIsland.missions.map((mission, idx) => {
             const done = isMissionDone(progress, activeIsland.id, mission.id);
             const prevDone = idx === 0 || isMissionDone(progress, activeIsland.id, activeIsland.missions[idx - 1].id);
             const locked = !prevDone;
+            const mKey = `${activeIsland.id}_${mission.id}`;
+            const bestStars = (progress.missionStars ?? {})[mKey] ?? 0;
             return (
               <motion.button key={mission.id} onClick={() => !locked && startMission(mission)} disabled={locked}
                 className="flex items-center gap-4 rounded-2xl px-4 py-4"
@@ -1031,12 +1056,21 @@ export default function AstroMathG1Page() {
                   opacity: locked ? 0.45 : 1,
                 }}
                 whileTap={!locked ? { scale: 0.97 } : {}}>
-                <span className="text-2xl">{locked ? "🔒" : done ? "✅" : mission.icon}</span>
+                <span className="text-2xl">{locked ? "🔒" : mission.icon}</span>
                 <div className="flex-1 text-left">
                   <p className="font-bold text-sm text-white/90">{mission.label[lang as Lang] ?? mission.label.en}</p>
                   <p className="text-[11px] text-white/40">{t.mission} {idx + 1}</p>
                 </div>
-                {done && <Check size={16} style={{ color: bgColor }} />}
+                {/* Stars (best result) */}
+                {done && (
+                  <div className="flex gap-0.5">
+                    {[1, 2, 3].map((s) => (
+                      <span key={s} className="text-base leading-none" style={{ opacity: s <= bestStars ? 1 : 0.2 }}>
+                        {s <= bestStars ? "⭐" : "✩"}
+                      </span>
+                    ))}
+                  </div>
+                )}
                 {!done && !locked && <ChevronRight size={16} className="text-white/30" />}
               </motion.button>
             );

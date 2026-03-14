@@ -33,6 +33,7 @@ export interface G1Progress {
   completedMissions: string[];  // "i1_m1", "i1_m2", …
   completedIslands: string[];   // "i1", "i2", …
   completedTests: string[];     // "test1", "test2", "test3"
+  missionStars: Record<string, number>; // "i1_m1" → 1|2|3 (best result)
 }
 
 export interface SortRound {
@@ -181,7 +182,7 @@ export function loadG1Progress(): G1Progress {
     const raw = localStorage.getItem(G1_SAVE_KEY);
     if (raw) return JSON.parse(raw) as G1Progress;
   } catch {}
-  return { completedMissions: [], completedIslands: [], completedTests: [] };
+  return { completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} };
 }
 
 export function saveG1Progress(p: G1Progress): void {
@@ -210,12 +211,24 @@ export function isCheckpointDone(progress: G1Progress, testId: string): boolean 
   return progress.completedTests.includes(testId);
 }
 
-export function completeMission(progress: G1Progress, islandId: string, missionId: string): G1Progress {
+export function completeMission(
+  progress: G1Progress,
+  islandId: string,
+  missionId: string,
+  stars: number = 1,
+): G1Progress {
   const key = `${islandId}_${missionId}`;
-  if (progress.completedMissions.includes(key)) return progress;
-  const updated = { ...progress, completedMissions: [...progress.completedMissions, key] };
+  const prev = progress.missionStars ?? {};
+  const bestStars = Math.max(stars, prev[key] ?? 0);
+  const updated: G1Progress = {
+    ...progress,
+    completedMissions: progress.completedMissions.includes(key)
+      ? progress.completedMissions
+      : [...progress.completedMissions, key],
+    missionStars: { ...prev, [key]: bestStars },
+  };
 
-  // Check if all 3 missions for this island are done
+  // Check if all missions for this island are done
   const island = G1_ISLANDS.find((i) => i.id === islandId)!;
   const allMissionsDone = island.missions.every((m) =>
     updated.completedMissions.includes(`${islandId}_${m.id}`)
@@ -224,6 +237,14 @@ export function completeMission(progress: G1Progress, islandId: string, missionI
     updated.completedIslands = [...updated.completedIslands, islandId];
   }
   return updated;
+}
+
+/** Sum of best stars for all missions on an island (max 9 = 3 missions × 3 stars) */
+export function islandTotalStars(progress: G1Progress, islandId: string): number {
+  const island = G1_ISLANDS.find((i) => i.id === islandId);
+  if (!island) return 0;
+  const stars = progress.missionStars ?? {};
+  return island.missions.reduce((sum, m) => sum + (stars[`${islandId}_${m.id}`] ?? 0), 0);
 }
 
 export function completeTest(progress: G1Progress, testId: string): G1Progress {
