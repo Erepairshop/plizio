@@ -588,7 +588,7 @@ const SM_LABELS = {
   de: { hint: "Aufgabe antippen, dann die passende Antwort", round: "Runde" },
   ro: { hint: "Atinge întrebarea, apoi răspunsul potrivit", round: "Rundă" },
 };
-const SM_TOTAL_ROUNDS = 5;
+const SM_TOTAL_ROUNDS = 3;
 
 function buildRound(questions: MathQuestion[], offset: number) {
   // Each round takes a different slice of 5 from shuffled questions
@@ -1179,7 +1179,7 @@ export default function AstroMathG1Page() {
       return;
     }
     // star-match needs 20 (5 rounds × 5 pairs); quiz games need 10
-    const qCount = mission.gameType === "star-match" ? 20 : 10;
+    const qCount = mission.gameType === "star-match" ? 15 : 10;
     const qs = generateIslandQuestions(activeIsland, lang as Lang, qCount);
     setQuestions(qs);
     setScreen(mission.gameType as Screen);
