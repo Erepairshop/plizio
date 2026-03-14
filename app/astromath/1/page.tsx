@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect, useCallback, useRef, useMemo } from "react";
+import { useState, useEffect, useCallback, useRef, useMemo, memo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { Home, X, ChevronRight, ChevronLeft, Check, Volume2 } from "lucide-react";
@@ -41,6 +41,14 @@ const LANG_TTS_PARAMS: Record<string, { rate: number; pitch: number }> = {
 
 // Cache the chosen voice per BCP-47 code so we don't re-scan every time
 const voiceCache: Record<string, SpeechSynthesisVoice | null> = {};
+
+// Bust voice cache when the browser finishes loading voices (Safari / iOS needs this)
+if (typeof window !== "undefined" && window.speechSynthesis) {
+  window.speechSynthesis.onvoiceschanged = () => {
+    Object.keys(voiceCache).forEach((k) => delete voiceCache[k]);
+    window.speechSynthesis.getVoices(); // eagerly populate
+  };
+}
 
 function getBestVoice(bcp47: string): SpeechSynthesisVoice | null {
   if (bcp47 in voiceCache) return voiceCache[bcp47];
@@ -120,6 +128,7 @@ function SpeakButton({ text, lang, size = 18 }: { text: string; lang: string; si
   return (
     <motion.button
       onClick={(e) => { e.stopPropagation(); speak(text, lang); }}
+      aria-label="Speak question"
       className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 active:bg-white/30 transition-colors flex-shrink-0"
       whileTap={{ scale: 0.9 }}>
       <Volume2 size={size} />
@@ -435,7 +444,7 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
 }
 
 // ─── Orbit Quiz ────────────────────────────────────────────────────────────────
-function OrbitQuiz({ questions, color, onDone, onCorrect, onWrong }: {
+const OrbitQuiz = memo(function OrbitQuiz({ questions, color, onDone, onCorrect, onWrong }: {
   questions: MathQuestion[]; color: string; onDone: (score: number, total: number) => void;
   onCorrect?: () => void; onWrong?: () => void;
 }) {
@@ -547,10 +556,10 @@ function OrbitQuiz({ questions, color, onDone, onCorrect, onWrong }: {
       </AnimatePresence>
     </div>
   );
-}
+});
 
 // ─── Black Hole (same as OrbitQuiz, different styling) ─────────────────────────
-function BlackHole({ questions, color, onDone, onCorrect, onWrong }: {
+const BlackHole = memo(function BlackHole({ questions, color, onDone, onCorrect, onWrong }: {
   questions: MathQuestion[]; color: string; onDone: (score: number, total: number) => void;
   onCorrect?: () => void; onWrong?: () => void;
 }) {
@@ -656,10 +665,10 @@ function BlackHole({ questions, color, onDone, onCorrect, onWrong }: {
       </AnimatePresence>
     </div>
   );
-}
+});
 
 // ─── Gravity Sort ──────────────────────────────────────────────────────────────
-function GravitySort({ sortRange, color, onDone }: {
+const GravitySort = memo(function GravitySort({ sortRange, color, onDone }: {
   sortRange: [number, number]; color: string; onDone: (score: number, total: number) => void;
 }) {
   const { lang } = useLang();
@@ -757,7 +766,7 @@ function GravitySort({ sortRange, color, onDone }: {
       </AnimatePresence>
     </div>
   );
-}
+});
 
 // ─── Star Match ────────────────────────────────────────────────────────────────
 // 5 rounds × 5 pairs. Each round: tap a question (left) → tap matching answer (right).
@@ -778,7 +787,7 @@ function buildRound(questions: MathQuestion[], offset: number) {
   return { pairs, answerOrder };
 }
 
-function StarMatch({ questions, color, onDone }: {
+const StarMatch = memo(function StarMatch({ questions, color, onDone }: {
   questions: MathQuestion[]; color: string; onDone: (score: number, total: number) => void;
 }) {
   const { lang } = useLang();
@@ -931,7 +940,7 @@ function StarMatch({ questions, color, onDone }: {
       </div>
     </div>
   );
-}
+});
 
 // ─── Number Duel ───────────────────────────────────────────────────────────────
 function randInt(lo: number, hi: number) { return Math.floor(Math.random() * (hi - lo + 1)) + lo; }
@@ -943,7 +952,7 @@ function genDuelPair(range: [number, number]): [number, number] {
   return [a, b];
 }
 
-function NumberDuel({ sortRange, color, onDone }: {
+const NumberDuel = memo(function NumberDuel({ sortRange, color, onDone }: {
   sortRange: [number, number]; color: string; onDone: (score: number, total: number) => void;
 }) {
   const { lang } = useLang();
@@ -1046,13 +1055,13 @@ function NumberDuel({ sortRange, color, onDone }: {
       <div className="text-white/30 text-sm">{correct}/{round + (feedback ? 1 : 0)}</div>
     </div>
   );
-}
+});
 
 // ─── Rocket Launch (Speed Quiz — warm-up before checkpoint) ────────────────────
 const ROCKET_ROUNDS = 7;
 const ROCKET_TIME = 5; // seconds per question
 
-function RocketLaunch({ questions, color, onDone }: {
+const RocketLaunch = memo(function RocketLaunch({ questions, color, onDone }: {
   questions: MathQuestion[]; color: string; onDone: (score: number, total: number) => void;
 }) {
   const { lang } = useLang();
@@ -1062,6 +1071,7 @@ function RocketLaunch({ questions, color, onDone }: {
   const [answered, setAnswered] = useState<"correct" | "wrong" | "timeout" | null>(null);
   const [fuelFilled, setFuelFilled] = useState(0);
   const [done, setDone] = useState(false);
+  const [tappedOpt, setTappedOpt] = useState<string | null>(null);
   const scoreRef = useRef(0);
   const lockRef = useRef(false);
 
@@ -1080,7 +1090,7 @@ function RocketLaunch({ questions, color, onDone }: {
   // Auto-read question
   useEffect(() => {
     if (q?.question && !done) speak(q.question, lang);
-  }, [idx]); // eslint-disable-line react-hooks/exhaustive-deps
+  }, [idx, q, lang]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Timer
   useEffect(() => {
@@ -1109,6 +1119,7 @@ function RocketLaunch({ questions, color, onDone }: {
         setIdx(nextIdx);
         setTimeLeft(ROCKET_TIME);
         setAnswered(null);
+        setTappedOpt(null);
         lockRef.current = false;
       }
     }, result === "correct" ? 500 : 700);
@@ -1116,6 +1127,7 @@ function RocketLaunch({ questions, color, onDone }: {
 
   const tap = useCallback((opt: number | string) => {
     if (lockRef.current || answered) return;
+    setTappedOpt(String(opt));
     const isRight = String(opt) === String(q?.correctAnswer);
     advance(isRight ? "correct" : "wrong");
   }, [answered, q, advance]);
@@ -1187,7 +1199,7 @@ function RocketLaunch({ questions, color, onDone }: {
       {/* 2 big answer buttons */}
       <div className="flex gap-3 w-full">
         {opts.map((opt, i) => {
-          const isThis = answered && String(opt) === String(q?.options?.[i]);
+          const isThis = !!answered && String(opt) === tappedOpt;
           const isRight = String(opt) === String(q?.correctAnswer);
           let bg = `${color}18`;
           let border = `${color}44`;
@@ -1224,7 +1236,7 @@ function RocketLaunch({ questions, color, onDone }: {
       <div className="text-white/30 text-xs">{idx + 1}/{ROCKET_ROUNDS}</div>
     </div>
   );
-}
+});
 
 // ─── Mission Done screen ───────────────────────────────────────────────────────
 function MissionDoneScreen({ mission, island, score, total, onContinue }: {
@@ -1381,6 +1393,8 @@ export default function AstroMathG1Page() {
     // Place avatar at last completed island (or i1)
     const lastDone = [...G1_ISLANDS].reverse().find(i => p.completedIslands.includes(i.id));
     if (lastDone) setAvatarIslandId(lastDone.id);
+    // Cleanup walk timer on unmount
+    return () => { if (walkTimerRef.current) clearTimeout(walkTimerRef.current); };
   }, []);
 
   // ── Island selected ──────────────────────────────────────────────────────────
