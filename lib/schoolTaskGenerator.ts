@@ -20,7 +20,12 @@ export type VisualQuestionType = 'zeichnen' | 'messen' | 'uhrzeit' | 'grid-area'
   | 'g5-frac-compare' | 'g5-frac-equiv' | 'g5-decimal-place' | 'g5-decimal-line' | 'g5-balance-scale'
   | 'g5-shape-props' | 'g5-angle-classify' | 'g5-perimeter' | 'g5-area-grid' | 'g5-barchart'
   | 'g5-symmetry' | 'g5-unit-convert' | 'g5-nl-arith' | 'g5-word-problem'
-  | 'g5-neg-line' | 'g5-volume-cuboid';
+  | 'g5-neg-line' | 'g5-volume-cuboid'
+  | 'g6-coord-4q' | 'g6-pie-chart' | 'g6-ratio-table' | 'g6-trapezoid-area' | 'g6-percent-bar'
+  | 'g7-pythagorean' | 'g7-triangle-angles' | 'g7-inequality-line' | 'g7-power-grid'
+  | 'g7-circle' | 'g7-cylinder-volume' | 'g7-statistics'
+  | 'g8-function-graph' | 'g8-probability-tree' | 'g8-quadratic-sqrt' | 'g8-systems-balance'
+  | 'g8-transformation-grid' | 'g8-statistics-histogram' | 'g8-cylinder-surface' | 'g8-inequality-line';
 
 export type VisualQuestionData = {
   type: VisualQuestionType;
@@ -117,7 +122,27 @@ export type TaskType =
   | 'visual_g5_unit_convert'
   | 'visual_g5_nl_arith'
   | 'visual_g5_neg_line'
-  | 'visual_g5_volume_cuboid';
+  | 'visual_g5_volume_cuboid'
+  | 'visual_g6_coord_4q'
+  | 'visual_g6_pie_chart'
+  | 'visual_g6_ratio_table'
+  | 'visual_g6_trapezoid'
+  | 'visual_g6_percent_bar'
+  | 'visual_g7_pythagorean'
+  | 'visual_g7_triangle_angles'
+  | 'visual_g7_inequality_line'
+  | 'visual_g7_power_grid'
+  | 'visual_g7_circle'
+  | 'visual_g7_cylinder_volume'
+  | 'visual_g7_statistics'
+  | 'visual_g8_function_graph'
+  | 'visual_g8_probability_tree'
+  | 'visual_g8_quadratic_sqrt'
+  | 'visual_g8_systems_balance'
+  | 'visual_g8_transformation_grid'
+  | 'visual_g8_statistics_histogram'
+  | 'visual_g8_cylinder_surface'
+  | 'visual_g8_inequality_line';
 
 export type AufgabenItem = {
   question: string;
@@ -775,6 +800,14 @@ const VISUAL_TOPIC_KEYS = new Set([
   'g5_perim_vis', 'g5_area_vis', 'g5_barchart_vis',
   'g5_symmetry_vis', 'g5_unit_convert', 'g5_nl_arith',
   'g5_neg_line', 'g5_vol_cuboid',
+  // Grade 6 visual topics
+  'g6_coord_4q', 'g6_pie_chart', 'g6_ratio_table', 'g6_trapezoid_area', 'g6_percent_bar',
+  // Grade 7 visual topics
+  'g7_pyth_visual', 'g7_tri_visual', 'g7_ineq_visual', 'g7_powers_visual',
+  'g7_circle_visual', 'g7_cyl_visual', 'g7_stats_visual',
+  // Grade 8 visual topics
+  'g8_func_visual', 'g8_prob_tree_visual', 'g8_sqrt_visual', 'g8_sys_visual',
+  'g8_trans_visual', 'g8_stat_visual', 'g8_cyl_surface_visual', 'g8_ineq_visual',
 ]);
 
 function isVisualTopicKey(key: string): boolean {
@@ -1344,6 +1377,247 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
       return { id: `vis_g5nla_${sfx}`, answer: String(answer), points: 1,
         visualType: 'g5-nl-arith', visualData: { type: 'g5-nl-arith', params: { start, operand, operation } } };
     }
+    case 'g6_coord_4q': {
+      const candidates = [-4, -3, -2, -1, 1, 2, 3, 4];
+      const x = candidates[rnd(0, candidates.length - 1)];
+      const y = candidates[rnd(0, candidates.length - 1)];
+      const q = x > 0 && y > 0 ? 1 : x < 0 && y > 0 ? 2 : x < 0 && y < 0 ? 3 : 4;
+      return { id: `vis_g6cq_${sfx}`, answer: String(q), points: 1,
+        visualType: 'g6-coord-4q', visualData: { type: 'g6-coord-4q', params: { pointX: x, pointY: y } } };
+    }
+    case 'g6_pie_chart': {
+      const distros = [[50,30,20],[40,35,25],[60,25,15],[40,30,20,10],[25,25,25,25],[50,20,20,10],[45,30,15,10]];
+      const vals = distros[rnd(0, distros.length - 1)];
+      const COLORS = ['#6366f1','#10b981','#f59e0b','#ef4444'];
+      const slices = vals.map((v, i) => ({ label: `S${i+1}`, value: v, color: COLORS[i % COLORS.length] }));
+      const tIdx = rnd(0, slices.length - 1);
+      return { id: `vis_g6pc_${sfx}`, answer: String(vals[tIdx]), points: 1,
+        visualType: 'g6-pie-chart', visualData: { type: 'g6-pie-chart', params: { slices, targetIndex: tIdx } } };
+    }
+    case 'g6_ratio_table': {
+      const unit = rnd(2, 8);
+      const qtyLen = rnd(3, 4);
+      const quantities = Array.from({ length: qtyLen }, (_, i) => i + 1);
+      const hiddenIdx = rnd(0, qtyLen - 1);
+      return { id: `vis_g6rt_${sfx}`, answer: String(quantities[hiddenIdx] * unit), points: 1,
+        visualType: 'g6-ratio-table', visualData: { type: 'g6-ratio-table', params: { unitValue: unit, quantities, hiddenIdx } } };
+    }
+    case 'g6_trapezoid_area': {
+      const shape: 'trapezoid' | 'parallelogram' = Math.random() > 0.5 ? 'trapezoid' : 'parallelogram';
+      const a = rnd(3, 10);
+      const b = shape === 'trapezoid' ? a + rnd(1, 5) : a;
+      const h = rnd(2, 7);
+      const area = shape === 'trapezoid' ? ((a + b) / 2) * h : a * h;
+      return { id: `vis_g6ta_${sfx}`, answer: String(area), points: 1,
+        visualType: 'g6-trapezoid-area', visualData: { type: 'g6-trapezoid-area', params: { baseA: a, baseB: b, height: h, shapeType: shape } } };
+    }
+    case 'g6_percent_bar': {
+      const pcts = [10, 20, 25, 30, 40, 50, 60, 70, 75, 80];
+      const pct = pcts[rnd(0, pcts.length - 1)];
+      return { id: `vis_g6pb_${sfx}`, answer: String(pct), points: 1,
+        visualType: 'g6-percent-bar', visualData: { type: 'g6-percent-bar', params: { percentage: pct } } };
+    }
+    // ─── Grade 7 visual generators ────────────────────────────────────────────
+    case 'g7_pyth_visual': {
+      const triples: [number,number,number,boolean][] = [
+        [3,4,5,true],[5,12,13,true],[8,15,17,true],
+        [6,8,10,false],[9,12,15,false],[13,5,12,false],
+      ];
+      const [x,y,z,findC] = triples[rnd(0, triples.length - 1)];
+      const [a,b,ans] = findC ? [x,y,z] : [x,z,y];
+      return { id: `vis_g7py_${sfx}`, answer: String(ans), points: 1,
+        visualType: 'g7-pythagorean', visualData: { type: 'g7-pythagorean', params: { a, b, findC, answer: ans } } };
+    }
+    case 'g7_tri_visual': {
+      const combos: [number,number][] = [[60,80],[45,75],[30,110],[55,65],[40,90],[70,50],[35,105]];
+      const [ang1, ang2] = combos[rnd(0, combos.length - 1)];
+      const ans = 180 - ang1 - ang2;
+      return { id: `vis_g7ta_${sfx}`, answer: String(ans), points: 1,
+        visualType: 'g7-triangle-angles', visualData: { type: 'g7-triangle-angles', params: { a: ang1, b: ang2, answer: ans } } };
+    }
+    case 'g7_ineq_visual': {
+      const isGt = Math.random() > 0.5;
+      const coef = rnd(2, 4);
+      const xVal = rnd(2, 7);
+      if (isGt) {
+        const bVal = rnd(1, 8);
+        const cVal = coef * xVal + bVal - 1;
+        const expr = `${coef}x + ${bVal} > ${cVal}`;
+        return { id: `vis_g7il_${sfx}`, answer: String(xVal), points: 1,
+          visualType: 'g7-inequality-line', visualData: { type: 'g7-inequality-line', params: { expression: expr, isGt: true, answer: xVal, solution: (cVal - bVal) / coef } } };
+      } else {
+        const bVal = rnd(1, 6);
+        const cVal = coef * xVal - bVal + 1;
+        const expr = `${coef}x − ${bVal} < ${cVal}`;
+        return { id: `vis_g7il_${sfx}`, answer: String(xVal), points: 1,
+          visualType: 'g7-inequality-line', visualData: { type: 'g7-inequality-line', params: { expression: expr, isGt: false, answer: xVal, solution: (cVal + bVal) / coef } } };
+      }
+    }
+    case 'g7_powers_visual': {
+      const squares = [3,4,5,6,7];
+      const cubes = [2,3,4];
+      const isSquare = Math.random() > 0.4;
+      if (isSquare) {
+        const n = squares[rnd(0, squares.length - 1)];
+        return { id: `vis_g7pg_${sfx}`, answer: String(n*n), points: 1,
+          visualType: 'g7-power-grid', visualData: { type: 'g7-power-grid', params: { n, type: 'square', answer: n*n } } };
+      } else {
+        const n = cubes[rnd(0, cubes.length - 1)];
+        return { id: `vis_g7pg_${sfx}`, answer: String(n*n*n), points: 1,
+          visualType: 'g7-power-grid', visualData: { type: 'g7-power-grid', params: { n, type: 'cube', answer: n*n*n } } };
+      }
+    }
+    case 'g7_circle_visual': {
+      const radii = [3,4,5,6,7,8];
+      const r = radii[rnd(0, radii.length - 1)];
+      const findArea = Math.random() > 0.5;
+      const pi = 3.14;
+      const ans = findArea ? Math.round(pi * r * r * 100) / 100 : Math.round(2 * pi * r * 100) / 100;
+      return { id: `vis_g7ci_${sfx}`, answer: String(ans), points: 1,
+        visualType: 'g7-circle', visualData: { type: 'g7-circle', params: { r, findArea, answer: ans } } };
+    }
+    case 'g7_cyl_visual': {
+      const rVals = [2,3,4,5];
+      const hVals = [4,5,6,7,8,10];
+      const r = rVals[rnd(0, rVals.length - 1)];
+      const h = hVals[rnd(0, hVals.length - 1)];
+      const pi = 3.14;
+      const ans = Math.round(pi * r * r * h * 100) / 100;
+      return { id: `vis_g7cv_${sfx}`, answer: String(ans), points: 1,
+        visualType: 'g7-cylinder-volume', visualData: { type: 'g7-cylinder-volume', params: { r, h, answer: ans } } };
+    }
+    case 'g7_stats_visual': {
+      const statTypes: Array<'median'|'mode'|'range'> = ['median', 'mode', 'range'];
+      const statType = statTypes[rnd(0, statTypes.length - 1)];
+      let data: number[];
+      let answer: number;
+      if (statType === 'median') {
+        data = Array.from({ length: 7 }, () => rnd(1, 15));
+        const sorted = [...data].sort((a, b) => a - b);
+        answer = sorted[3];
+      } else if (statType === 'mode') {
+        const base = Array.from({ length: 5 }, () => rnd(1, 10));
+        const modeVal = rnd(1, 10);
+        data = [...base, modeVal, modeVal];
+        answer = modeVal;
+        data.sort(() => Math.random() - 0.5);
+      } else {
+        data = Array.from({ length: 6 }, () => rnd(1, 20));
+        answer = Math.max(...data) - Math.min(...data);
+      }
+      return { id: `vis_g7st_${sfx}`, answer: String(answer), points: 1,
+        visualType: 'g7-statistics', visualData: { type: 'g7-statistics', params: { data, statType, answer } } };
+    }
+    // ─── Grade 8 visual generators ────────────────────────────────────────────
+    case 'g8_func_visual': {
+      const slopes = [1, 2, -1, -2, 3, -3];
+      const intercepts = [0, 1, -1, 2, -2, 3];
+      const m = slopes[rnd(0, slopes.length - 1)];
+      const b = intercepts[rnd(0, intercepts.length - 1)];
+      const x = rnd(1, 4);
+      const answer = m * x + b;
+      return { id: `vis_g8fg_${sfx}`, answer: String(answer), points: 1,
+        visualType: 'g8-function-graph', visualData: { type: 'g8-function-graph', params: { subQuestions: [{ m, b, x, answer }] } } };
+    }
+    case 'g8_prob_tree_visual': {
+      const p1 = [30, 40, 50, 60, 70][rnd(0, 4)];
+      const p2 = [30, 40, 50, 60, 70][rnd(0, 4)];
+      const types: Array<'both'|'neither'|'atLeastOne'> = ['both', 'neither', 'atLeastOne'];
+      const questionType = types[rnd(0, 2)];
+      const p1d = p1 / 100, p2d = p2 / 100;
+      const q1 = 1 - p1d, q2 = 1 - p2d;
+      const answer = questionType === 'both' ? Math.round(p1d * p2d * 100)
+        : questionType === 'neither' ? Math.round(q1 * q2 * 100)
+        : Math.round((1 - q1 * q2) * 100);
+      return { id: `vis_g8pt_${sfx}`, answer: String(answer), points: 1,
+        visualType: 'g8-probability-tree', visualData: { type: 'g8-probability-tree', params: { subQuestions: [{ p1, p2, questionType, answer, label1: 'A', label2: 'B' }] } } };
+    }
+    case 'g8_sqrt_visual': {
+      const perfectSquares = [4, 9, 16, 25, 36, 49];
+      const nonPerfect = [5, 8, 10, 12, 15, 18, 20, 24, 28];
+      const usePerfect = Math.random() > 0.5;
+      if (usePerfect) {
+        const n = perfectSquares[rnd(0, perfectSquares.length - 1)];
+        const answer = Math.sqrt(n);
+        return { id: `vis_g8sq_${sfx}`, answer: String(answer), points: 1,
+          visualType: 'g8-quadratic-sqrt', visualData: { type: 'g8-quadratic-sqrt', params: { subQuestions: [{ n, mode: 'perfect', answer }] } } };
+      } else {
+        const n = nonPerfect[rnd(0, nonPerfect.length - 1)];
+        const answer = Math.floor(Math.sqrt(n));
+        return { id: `vis_g8sq_${sfx}`, answer: String(answer), points: 1,
+          visualType: 'g8-quadratic-sqrt', visualData: { type: 'g8-quadratic-sqrt', params: { subQuestions: [{ n, mode: 'estimate', answer }] } } };
+      }
+    }
+    case 'g8_sys_visual': {
+      const xVals = [2, 3, 4, 5, 6, 7];
+      const yVals = [1, 2, 3, 4, 5];
+      const xVal = xVals[rnd(0, xVals.length - 1)];
+      const yVal = yVals[rnd(0, yVals.length - 1)];
+      const sum = xVal + yVal;
+      const diff = xVal - yVal;
+      const eq1 = `x+y=${sum}`;
+      const eq2 = `x-y=${diff}`;
+      return { id: `vis_g8sb_${sfx}`, answer: String(xVal), points: 1,
+        visualType: 'g8-systems-balance', visualData: { type: 'g8-systems-balance', params: { subQuestions: [{ eq1, eq2, answer: xVal, xVal, yVal }] } } };
+    }
+    case 'g8_trans_visual': {
+      const transforms: Array<'translate'|'reflectX'|'reflectY'> = ['translate', 'reflectX', 'reflectY'];
+      const transform = transforms[rnd(0, 2)];
+      const x = [1, 2, 3][rnd(0, 2)];
+      const y = [1, 2, 3][rnd(0, 2)];
+      let answer: number;
+      let dx = 0, dy = 0;
+      if (transform === 'translate') {
+        dx = rnd(1, 3); dy = rnd(-2, 2);
+        answer = x + dx;
+      } else if (transform === 'reflectX') {
+        answer = -y;
+      } else {
+        answer = -x;
+      }
+      return { id: `vis_g8tg_${sfx}`, answer: String(answer), points: 1,
+        visualType: 'g8-transformation-grid', visualData: { type: 'g8-transformation-grid', params: { subQuestions: [{ x, y, transform, dx, dy, answer }] } } };
+    }
+    case 'g8_stat_visual': {
+      const n = rnd(3, 5);
+      const data = Array.from({ length: n }, () => rnd(1, 8));
+      const labels = ['A', 'B', 'C', 'D', 'E'].slice(0, n);
+      const mode: 'mean' | 'median' = Math.random() > 0.5 ? 'mean' : 'median';
+      let answer: number;
+      if (mode === 'mean') {
+        answer = Math.round(data.reduce((a, b) => a + b, 0) / n);
+      } else {
+        const sorted = [...data].sort((a, b) => a - b);
+        answer = sorted[Math.floor(n / 2)];
+      }
+      return { id: `vis_g8sh_${sfx}`, answer: String(answer), points: 1,
+        visualType: 'g8-statistics-histogram', visualData: { type: 'g8-statistics-histogram', params: { subQuestions: [{ data, labels, mode, answer }] } } };
+    }
+    case 'g8_cyl_surface_visual': {
+      const rVals = [2, 3, 4];
+      const hVals = [3, 4, 5, 6];
+      const r = rVals[rnd(0, rVals.length - 1)];
+      const h = hVals[rnd(0, hVals.length - 1)];
+      const cylMode: 'volume'|'surface' = Math.random() > 0.5 ? 'volume' : 'surface';
+      // π ≈ 3 for student calculations
+      const answer = cylMode === 'volume' ? 3 * r * r * h : 2 * 3 * r * (r + h);
+      return { id: `vis_g8cs_${sfx}`, answer: String(answer), points: 1,
+        visualType: 'g8-cylinder-surface', visualData: { type: 'g8-cylinder-surface', params: { subQuestions: [{ r, h, mode: cylMode, answer }] } } };
+    }
+    case 'g8_ineq_visual': {
+      const coefs = [1, 2, 3];
+      const coef = coefs[rnd(0, coefs.length - 1)];
+      const xVal = rnd(1, 5);
+      const ops: Array<'>='|'<='|'>'|'<'> = ['>=', '<=', '>', '<'];
+      const op = ops[rnd(0, 3)];
+      const bVal = rnd(0, 4);
+      const rhs = coef * xVal + bVal - (op === '>=' || op === '>' ? 0 : 0);
+      const direction: 'right' | 'left' = op === '>=' || op === '>' ? 'right' : 'left';
+      const lhs = coef === 1 ? `x + ${bVal}` : `${coef}x + ${bVal}`;
+      return { id: `vis_g8il_${sfx}`, answer: String(xVal), points: 1,
+        visualType: 'g8-inequality-line', visualData: { type: 'g8-inequality-line', params: { subQuestions: [{ lhs, op, rhs, answer: xVal, direction }] } } };
+    }
+
     default:
       return generateVisualSub('zeichnen', blockIdx, subIdx);
   }
@@ -1408,6 +1682,29 @@ const VISUAL_TOPIC_TO_TYPE: Record<string, TaskType> = {
   g5_nl_arith:         'visual_g5_nl_arith',
   g5_neg_line:         'visual_g5_neg_line',
   g5_vol_cuboid:       'visual_g5_volume_cuboid',
+  // Grade 6 visual topics
+  g6_coord_4q:         'visual_g6_coord_4q',
+  g6_pie_chart:        'visual_g6_pie_chart',
+  g6_ratio_table:      'visual_g6_ratio_table',
+  g6_trapezoid_area:   'visual_g6_trapezoid',
+  g6_percent_bar:      'visual_g6_percent_bar',
+  // Grade 7 visual topics
+  g7_pyth_visual:      'visual_g7_pythagorean',
+  g7_tri_visual:       'visual_g7_triangle_angles',
+  g7_ineq_visual:      'visual_g7_inequality_line',
+  g7_powers_visual:    'visual_g7_power_grid',
+  g7_circle_visual:    'visual_g7_circle',
+  g7_cyl_visual:       'visual_g7_cylinder_volume',
+  g7_stats_visual:     'visual_g7_statistics',
+  // Grade 8 visual topics
+  g8_func_visual:          'visual_g8_function_graph',
+  g8_prob_tree_visual:     'visual_g8_probability_tree',
+  g8_sqrt_visual:          'visual_g8_quadratic_sqrt',
+  g8_sys_visual:           'visual_g8_systems_balance',
+  g8_trans_visual:         'visual_g8_transformation_grid',
+  g8_stat_visual:          'visual_g8_statistics_histogram',
+  g8_cyl_surface_visual:   'visual_g8_cylinder_surface',
+  g8_ineq_visual:          'visual_g8_inequality_line',
 };
 
 function generateVisualBlock(
@@ -1647,6 +1944,29 @@ const TITLES: Record<TaskType, Record<string, string>> = {
   visual_g5_nl_arith:      { de: 'Rechnen am Zahlenstrahl.', en: 'Arithmetic on number line.', hu: 'Számolás számegyenesen.', ro: 'Calcul pe axa numerică.' },
   visual_g5_neg_line:      { de: 'Rechnen mit negativen Zahlen.', en: 'Calculate with negative numbers.', hu: 'Számolás negatív számokkal.', ro: 'Calcul cu numere negative.' },
   visual_g5_volume_cuboid: { de: 'Volumen des Quaders berechnen.', en: 'Calculate the volume of a cuboid.', hu: 'Téglatest térfogatának kiszámítása.', ro: 'Calculează volumul paralelipipedului.' },
+  // Grade 6 visual types
+  visual_g6_coord_4q:   { de: 'Koordinatensystem: Quadrant bestimmen.', en: 'Coordinate plane: identify the quadrant.', hu: 'Koordinátasík: negyed meghatározása.', ro: 'Plan de coordonate: identifică cadranul.' },
+  visual_g6_pie_chart:  { de: 'Kreisdiagramm auswerten.', en: 'Read the pie chart.', hu: 'Kördiagram olvasása.', ro: 'Citește diagrama circulară.' },
+  visual_g6_ratio_table:{ de: 'Verhältnistabelle ausfüllen.', en: 'Complete the ratio table.', hu: 'Aránytábla kitöltése.', ro: 'Completează tabelul proporțional.' },
+  visual_g6_trapezoid:  { de: 'Flächeninhalt des Trapezes berechnen.', en: 'Calculate the trapezoid area.', hu: 'Trapéz területének kiszámítása.', ro: 'Calculează aria trapezului.' },
+  visual_g6_percent_bar:{ de: 'Prozent im Hunderterfeld ablesen.', en: 'Read percent from the hundred grid.', hu: 'Százalék leolvasása a százsárból.', ro: 'Citește procentul din grila de 100.' },
+  // Grade 7 visual types
+  visual_g7_pythagorean:      { de: 'Satz des Pythagoras – fehlende Seite berechnen.', en: 'Pythagorean theorem – find the missing side.', hu: 'Pitagorasz-tétel – hiányzó oldal kiszámítása.', ro: 'Teorema lui Pitagora – calculează latura lipsă.' },
+  visual_g7_triangle_angles:  { de: 'Fehlenden Dreieckswinkel berechnen.', en: 'Find the missing triangle angle.', hu: 'Háromszög hiányzó szögének kiszámítása.', ro: 'Calculează unghiul lipsă al triunghiului.' },
+  visual_g7_inequality_line:  { de: 'Ungleichung auf dem Zahlenstrahl lösen.', en: 'Solve inequality on the number line.', hu: 'Egyenlőtlenség megoldása számegyenesen.', ro: 'Rezolvă inecuația pe dreapta numerelor.' },
+  visual_g7_power_grid:       { de: 'Potenz im Gitter visualisieren.', en: 'Visualize powers on a grid.', hu: 'Hatványok vizualizálása rácson.', ro: 'Vizualizează puteri pe grilă.' },
+  visual_g7_circle:           { de: 'Kreisumfang / -fläche berechnen.', en: 'Calculate circle circumference / area.', hu: 'Kör kerülete / területe.', ro: 'Calculează circumferința / aria cercului.' },
+  visual_g7_cylinder_volume:  { de: 'Volumen eines Zylinders berechnen.', en: 'Calculate cylinder volume.', hu: 'Henger térfogatának kiszámítása.', ro: 'Calculează volumul cilindrului.' },
+  visual_g7_statistics:       { de: 'Median / Modus / Spannweite bestimmen.', en: 'Find median / mode / range.', hu: 'Medián / módusz / terjedelem meghatározása.', ro: 'Determină mediana / modul / amplitudinea.' },
+  // Grade 8 visual titles
+  visual_g8_function_graph:       { de: 'Lineare Funktion ablesen.', en: 'Read linear function graph.', hu: 'Lineáris függvény leolvasása.', ro: 'Citește funcția liniară din grafic.' },
+  visual_g8_probability_tree:     { de: 'Baumdiagramm auswerten.', en: 'Evaluate probability tree.', hu: 'Valószínűségi fa kiértékelése.', ro: 'Evaluează diagrama arbore.' },
+  visual_g8_quadratic_sqrt:       { de: 'Wurzel am Zahlenstrahl.', en: 'Square root on number line.', hu: 'Négyzetgyök a számegyenesen.', ro: 'Radical pe dreapta numerică.' },
+  visual_g8_systems_balance:      { de: 'Gleichungssystem – Waage.', en: 'Systems of equations – balance.', hu: 'Egyenletrendszer – mérleg.', ro: 'Sistem de ecuații – balanță.' },
+  visual_g8_transformation_grid:  { de: 'Transformation im Koordinatensystem.', en: 'Transformation in coordinate grid.', hu: 'Transzformáció koordináta-rendszerben.', ro: 'Transformare în sistemul de coordonate.' },
+  visual_g8_statistics_histogram: { de: 'Histogramm auswerten.', en: 'Read statistics histogram.', hu: 'Hisztogram kiértékelése.', ro: 'Citește histograma statistică.' },
+  visual_g8_cylinder_surface:     { de: 'Zylinder: Oberfläche / Volumen.', en: 'Cylinder surface area / volume.', hu: 'Henger felszíne / térfogata.', ro: 'Aria / volumul cilindrului.' },
+  visual_g8_inequality_line:      { de: 'Ungleichung am Zahlenstrahl.', en: 'Inequality on number line.', hu: 'Egyenlőtlenség a számegyenesen.', ro: 'Inecuație pe dreapta numerică.' },
 };
 
 function getTitleFor(type: TaskType, cc: string): string {

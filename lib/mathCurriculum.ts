@@ -61,9 +61,15 @@ import {
   qInequalityGt, qInequalityLt,
   qVolumeBox, qVolumeCube, qVolumeCylinder,
   qSystemEq,
+  qSqrtEstimate, qSqrtSimplify, qQuadraticSimple, qQuadraticShifted,
+  qFuncSlope, qFuncNegSlope, qFuncFindEq,
+  qSystemSubst, qProbComplementary, qProbTwoEvents, qProbAtLeastOne,
+  qStatsMean8, qStatsVarianceSimple,
+  qTranslatePoint, qReflectPointX, qReflectPointY, qScaleFactor, qSurfaceCylinder,
+  qRotate90, wpSystemWord, wpSpeedSystem,
   qRoundTo1000,
   qCircleRadiusFromDiameter, qCircleDiameterFromRadius,
-  qTimeElapsed, qHoursToMinutes, qMinutesToHours,
+  qTimeElapsed, qHoursToMinutes, qMinutesToHours, qHoursMinutesToMinutes, qElapsedMinutes,
   qRunnerLaps, qChangeBack,
   qHowManyZehner, qHowManyEiner, qZahlzerlegungA, qZahlzerlegungB,
   qMulAsAddition, wpGroupsOf, qDivMulRelation,
@@ -72,6 +78,13 @@ import {
   qRightAngleDeg, qStraightAngleDeg, qFullAngleDeg, qComplementToRight, qAngleSumTriangle,
   qRightAnglesInShape, qSymmetryAxes, qAngleType,
   qErgaenzeAuf10000, qRoundTo10000, qWeightConvert,
+  qAbsoluteValue, qNegCompare, qFracMulFrac, qFracDivFrac, qFracToPercent,
+  qRatioMissing, qRuleOfThree, qInverseRatio, qSpeedTime,
+  qPercentWhat, qPercentBase, qPercentIncrease, qPercentDecrease,
+  qExprEval, qEquation1Step, qEquation2Step,
+  qAreaParallelogram, qAreaTrapezoid, qSurfaceBox, qCoord4Q,
+  qMode, qRange,
+  wpNegTemp, wpRatioSplit, wpPercentTax, wpNegDebt,
   getLang,
 } from "./mathTranslations";
 
@@ -1411,7 +1424,6 @@ const G3: Record<string, Generator> = {
     return pick([
       () => { const a = randInt(120,400), b = randInt(100,300); return q(wpFruitTotal(a,pick(it.fruits),b,pick(it.fruits),cc), a+b, t("wordProblem",cc),0,true); },
       () => { const a = randInt(120,350), b = randInt(80,250); return q(wpBikeTrip(a,b,cc), a+b, t("wordProblem",cc),0,true); },
-      () => { const r = randInt(4,8), p = randInt(30,80); return q(wpOrchardRows(r,p,pick(it.fruits),cc), r*p, t("wordProblem",cc),0,true); },
       () => { const nm = pick(ns.boys), a = randInt(150,400), b = randInt(80,300); return q(wpBooksOrdered(nm,a,b,cc), a+b, t("wordProblem",cc),0,true); },
       () => { const cities = [["Pécs","Győr"],["Berlin","München"],["Cluj","Brașov"],["London","Bristol"]]; const [cA,cB] = pick(cities); const a = randInt(120,350), b = randInt(80,250); return q(wpCityTrip(cA,cB,a,b,cc), a+b, t("wordProblem",cc),0,true); },
       () => { const a = randInt(200,600), b = randInt(100,400); const nm = pick([...ns.girls,...ns.boys]); return q(wpEventOrganizer(nm,a,b,cc), a+b, t("wordProblem",cc),0,true); },
@@ -1512,11 +1524,11 @@ const G3: Record<string, Generator> = {
   },
   perimCalc: (cc) => {
     const w = randInt(2, 10), h = randInt(2, 10);
-    return q(qRectPerimeter(w, h, cc), 2 * (w + h), t("perimeter", cc), 0, true);
+    return q(qRectPerimeter(w, h, cc), 2 * (w + h), t("perimeter", cc));
   },
   areaCalc: (cc) => {
     const w = randInt(2, 8), h = randInt(2, 8);
-    return q(qRectArea(w, h, cc), w * h, t("area", cc), 0, true);
+    return q(qRectArea(w, h, cc), w * h, t("area", cc));
   },
   barChartRead: (cc) => {
     const vals = [randInt(2, 12), randInt(2, 12), randInt(2, 12), randInt(2, 12)];
@@ -1565,7 +1577,7 @@ const G3: Record<string, Generator> = {
     () => q(qHowManyGInKg(cc), 1000, t("units", cc)),
     () => { const kg = randInt(2, 5); return q(qKgToG(kg, cc), kg * 1000, t("units", cc)); },
     () => { const g = pick([2000, 3000, 4000, 5000]); const lang = getLang(cc); const texts: Record<string, string> = { DE: `${g} g = ? kg`, EN: `${g} g = ? kg`, HU: `${g} g = ? kg`, RO: `${g} g = ? kg` }; return q(texts[lang] || texts.DE, g / 1000, t("units", cc)); },
-    () => q(qMlInL(cc), 1000, t("units", cc)),
+    () => { const kg = randInt(6, 10); return q(qKgToG(kg, cc), kg * 1000, t("units", cc)); },
   ])(),
   timeUnits: (cc) => pick([
     () => q(qHowManyMinInH(cc), 60, t("units", cc)),
@@ -1591,7 +1603,7 @@ const G3: Record<string, Generator> = {
         return q(texts[lang] || texts.DE, price * count, t("wordProblem", cc), 0, true);
       },
       () => {
-        const paid = pick([10, 20, 50]), price = randInt(3, paid - 1);
+        const paid = pick([5, 10, 20]), price = randInt(2, paid - 2);
         const item = pick(items.fruits);
         const texts: Record<string, string> = {
           DE: `Du kaufst ${item} für ${price} ${cur} und zahlst ${paid} ${cur}. Wie viel Wechselgeld bekommst du?`,
@@ -1657,6 +1669,123 @@ const G3: Record<string, Generator> = {
     () => { const a = pick([30, 45, 60, 80]); return q(qAngleType(a, cc), 1, t("geometry", cc)); },
     () => { const a = pick([100, 120, 135]); return q(qAngleType(a, cc), 3, t("geometry", cc)); },
   ])(),
+  // ─── G3: pure division word problems ─────────────────────────────────────
+  wordDiv: (cc) => {
+    const it = getItems(cc), ns = getNames(cc);
+    const lang = getLang(cc);
+    return pick([
+      // Sharing into equal baskets/plates
+      () => {
+        const d = pick([2,3,4,5,6]), r = randInt(4,9);
+        const item = pick(it.fruits);
+        const texts: Record<string,string> = {
+          DE: `${d*r} ${item} werden gleichmäßig auf ${d} Körbe verteilt. Wie viele ${item} sind in jedem Korb?`,
+          EN: `${d*r} ${item} are shared equally into ${d} baskets. How many ${item} are in each basket?`,
+          HU: `${d*r} db ${item}-t egyenlően ${d} kosárba osztják. Hány kerül minden kosárba?`,
+          RO: `${d*r} ${item} sunt împărțiți în ${d} coșuri în mod egal. Câte sunt în fiecare coș?`,
+        };
+        return q(texts[lang] || texts.DE, r, t("wordProblem", cc), 0, true);
+      },
+      // Dividing children into equal groups
+      () => {
+        const d = pick([3,4,5,6]), r = randInt(4,8);
+        const total = d * r;
+        const texts: Record<string,string> = {
+          DE: `${total} Kinder werden in ${d} gleiche Gruppen eingeteilt. Wie viele Kinder sind in jeder Gruppe?`,
+          EN: `${total} children are divided into ${d} equal groups. How many are in each group?`,
+          HU: `${total} gyereket ${d} egyenlő csoportra osztanak. Hány gyerek van minden csoportban?`,
+          RO: `${total} copii sunt împărțiți în ${d} grupe egale. Câți copii sunt în fiecare grupă?`,
+        };
+        return q(texts[lang] || texts.DE, r, t("wordProblem", cc), 0, true);
+      },
+      // Chairs arranged in equal rows
+      () => {
+        const d = pick([3,4,5,6,7]), r = randInt(4,8);
+        const total = d * r;
+        const texts: Record<string,string> = {
+          DE: `${total} Stühle werden in ${d} gleiche Reihen aufgestellt. Wie viele Stühle sind in einer Reihe?`,
+          EN: `${total} chairs are arranged in ${d} equal rows. How many chairs are in each row?`,
+          HU: `${total} széket ${d} egyenlő sorba rendeznek. Hány szék van egy sorban?`,
+          RO: `${total} scaune sunt aranjate în ${d} rânduri egale. Câte scaune sunt în fiecare rând?`,
+        };
+        return q(texts[lang] || texts.DE, r, t("wordProblem", cc), 0, true);
+      },
+      // Packing items into boxes of equal size
+      () => {
+        const d = pick([4,5,6,8]), r = randInt(3,7);
+        const item = pick(it.fruits);
+        const total = d * r;
+        const texts: Record<string,string> = {
+          DE: `${total} ${item} werden in Kisten zu je ${d} Stück verpackt. Wie viele Kisten braucht man?`,
+          EN: `${total} ${item} are packed into boxes of ${d}. How many boxes are needed?`,
+          HU: `${total} db ${item}-t ${d} darabos ládákba csomagolnak. Hány láda szükséges?`,
+          RO: `${total} ${item} sunt ambalate în cutii de câte ${d}. Câte cutii sunt necesare?`,
+        };
+        return q(texts[lang] || texts.DE, r, t("wordProblem", cc), 0, true);
+      },
+    ])();
+  },
+  // ─── G3: multi-step word problems (2 operations) ─────────────────────────
+  wordMulti: (cc) => {
+    const it = getItems(cc), ns = getNames(cc);
+    const lang = getLang(cc);
+    return pick([
+      // Buy packs, then give some away → packs × each − give
+      () => {
+        const packs = randInt(3,6), each = randInt(5,9);
+        const total = packs * each;
+        const give = randInt(3, Math.min(total - 5, 15));
+        const nm = pick(ns.girls);
+        const item = pick(it.fruits);
+        const texts: Record<string,string> = {
+          DE: `${nm} kauft ${packs} Packungen mit je ${each} ${item}. Sie verschenkt ${give} ${item}. Wie viele ${item} hat sie noch?`,
+          EN: `${nm} buys ${packs} packs of ${each} ${item}. She gives away ${give} ${item}. How many does she have left?`,
+          HU: `${nm} vesz ${packs} csomagot, mindegyikben ${each} db ${item} van. Ajándékba ad ${give} db-ot. Hány marad?`,
+          RO: `${nm} cumpără ${packs} pachete a câte ${each} ${item}. Dăruiește ${give} ${item}. Câte mai are?`,
+        };
+        return q(texts[lang] || texts.DE, total - give, t("wordProblem", cc), 0, true);
+      },
+      // Warehouse: start + new boxes arrive → start + boxes × each
+      () => {
+        const start = randInt(50, 120), boxes = randInt(3, 6), each = randInt(8, 15);
+        const texts: Record<string,string> = {
+          DE: `Im Lager lagen ${start} Pakete. Es kamen ${boxes} neue Kisten mit je ${each} Paketen dazu. Wie viele Pakete gibt es jetzt?`,
+          EN: `The warehouse had ${start} packages. ${boxes} new crates with ${each} packages each arrived. How many packages are there now?`,
+          HU: `A raktárban ${start} csomag volt. Érkezett ${boxes} új láda, mindegyikben ${each} csomag. Hány csomag van most?`,
+          RO: `Depozitul avea ${start} pachete. Au sosit ${boxes} cutii noi cu câte ${each} pachete. Câte pachete sunt acum?`,
+        };
+        return q(texts[lang] || texts.DE, start + boxes * each, t("wordProblem", cc), 0, true);
+      },
+      // Give equal amounts to friends then count remaining → start − friends × each
+      () => {
+        const friends = randInt(4, 7), each = randInt(5, 9);
+        const start = friends * each + randInt(10, 30);
+        const nm = pick(ns.girls);
+        const item = pick(it.fruits);
+        const texts: Record<string,string> = {
+          DE: `${nm} hat ${start} ${item}. Sie gibt je ${each} ${item} an ${friends} Freundinnen. Wie viele ${item} hat sie noch?`,
+          EN: `${nm} has ${start} ${item}. She gives ${each} ${item} to each of ${friends} friends. How many ${item} does she have left?`,
+          HU: `${nm}nak ${start} db ${item}-je van. ${friends} barátnőjének egyenként ${each} db-ot ad. Hány ${item}-je marad?`,
+          RO: `${nm} are ${start} ${item}. Dă câte ${each} ${item} fiecăreia din ${friends} prietene. Câte ${item} mai are?`,
+        };
+        return q(texts[lang] || texts.DE, start - friends * each, t("wordProblem", cc), 0, true);
+      },
+      // Two fruit groups shared equally → (a + b) ÷ d (ensure divisible)
+      () => {
+        const d = pick([3,4,5,6]);
+        const ra = randInt(2, 6), rb = randInt(2, 6);
+        const a = ra * d, b = rb * d;
+        const itemA = pick(it.fruits), itemB = pick(it.fruits);
+        const texts: Record<string,string> = {
+          DE: `In einem Korb sind ${a} ${itemA} und ${b} ${itemB}. Sie werden auf ${d} Kinder gleichmäßig verteilt. Wie viele Früchte bekommt jedes Kind?`,
+          EN: `A basket has ${a} ${itemA} and ${b} ${itemB}. They are shared equally among ${d} children. How many fruits does each child get?`,
+          HU: `Egy kosárban ${a} db ${itemA} és ${b} db ${itemB} van. ${d} gyerek között egyenlően osztják el. Hány gyümölcsöt kap minden gyerek?`,
+          RO: `Într-un coș sunt ${a} ${itemA} și ${b} ${itemB}. Se împart egal între ${d} copii. Câte fructe primește fiecare copil?`,
+        };
+        return q(texts[lang] || texts.DE, (a + b) / d, t("wordProblem", cc), 0, true);
+      },
+    ])();
+  },
 };
 
 const G4: Record<string, Generator> = {
@@ -1673,8 +1802,14 @@ const G4: Record<string, Generator> = {
   },
   placeValueBig: (cc) => {
     const n = randInt(10000, 99999);
-    const d = Math.floor((n % 10000) / 1000); // ten-thousands digit
-    return q(qPlaceValue(n, "thousands", cc), d, t("placeValue", cc));
+    const positions = [
+      { key: "ten-thousands", val: Math.floor(n / 10000) },
+      { key: "thousands",     val: Math.floor((n % 10000) / 1000) },
+      { key: "hundreds",      val: Math.floor((n % 1000) / 100) },
+      { key: "tens",          val: Math.floor((n % 100) / 10) },
+    ];
+    const p = pick(positions);
+    return q(qPlaceValue(n, p.key, cc), p.val, t("placeValue", cc));
   },
   writtenMul: (cc) => { const a = randInt(12, 50), b = randInt(2, 9); return q(`${a} × ${b} = ?`, a * b, t("writtenMul", cc)); },
   writtenMulB: (cc) => { const a = randInt(11, 30), b = randInt(3, 7); return q(`${a} × ${b} = ?`, a * b, t("writtenMul", cc)); },
@@ -1848,7 +1983,7 @@ const G4: Record<string, Generator> = {
   ])(),
   // Grade 4-appropriate: simple circle/geometry without π
   circleSimple: (cc) => pick([
-    () => { const d = randInt(4, 16); return q(qCircleRadiusFromDiameter(d, cc), d / 2, t("geometry", cc)); },
+    () => { const d = randInt(2, 8) * 2; return q(qCircleRadiusFromDiameter(d, cc), d / 2, t("geometry", cc)); },
     () => { const r = randInt(2, 8); return q(qCircleDiameterFromRadius(r, cc), r * 2, t("geometry", cc)); },
   ])(),
   // Grade 4 fractions: only halves and quarters (2 and 4 denominators)
@@ -1876,11 +2011,22 @@ const G4: Record<string, Generator> = {
     () => { const n = randInt(10, 999); return q(qRoundTo100(n, cc), Math.round(n / 100) * 100, t("rounding", cc)); },
     () => { const n = randInt(100, 9999); return q(qRoundTo1000(n, cc), Math.round(n / 1000) * 1000, t("rounding", cc)); },
   ])(),
-  // Grade 4 time word problems
+  // Grade 4 time word problems (Grade 4-appropriate difficulty)
   timeWord: (cc) => pick([
     () => { const start = randInt(8, 14), dur = randInt(1, 4); return q(qTimeElapsed(start, dur, cc), start + dur, t("timeCalc", cc)); },
-    () => { const h = randInt(1, 3); return q(qHoursToMinutes(h, cc), h * 60, t("timeCalc", cc)); },
-    () => { const min = pick([60, 120, 180]); return q(qMinutesToHours(min, cc), min / 60, t("timeCalc", cc)); },
+    // mixed h+min → total minutes (e.g. "1 Stunde 25 Minuten = ? Minuten")
+    () => { const h = randInt(1, 3), min = pick([5, 10, 15, 20, 25, 30, 35, 40, 45, 50]); return q(qHoursMinutesToMinutes(h, min, cc), h * 60 + min, t("timeCalc", cc)); },
+    // elapsed time in minutes between two clock times
+    () => {
+      const startH = randInt(8, 12), startMin = pick([0, 15, 30]);
+      const durMin = pick([45, 60, 75, 90, 105, 120]);
+      const totalStartMin = startH * 60 + startMin;
+      const endTotalMin = totalStartMin + durMin;
+      const endH = Math.floor(endTotalMin / 60), endMin = endTotalMin % 60;
+      return q(qElapsedMinutes(startH, startMin, endH, endMin, cc), durMin, t("timeCalc", cc));
+    },
+    // more h+min combinations (larger values, Grade 4 range)
+    () => { const h = randInt(2, 5), min = pick([20, 30, 45]); return q(qHoursMinutesToMinutes(h, min, cc), h * 60 + min, t("timeCalc", cc)); },
   ])(),
   // ─── Grade 4: Rechnen bis 10 000 ──────────────────────
   addTo10000: (cc) => {
@@ -1989,9 +2135,26 @@ const G4: Record<string, Generator> = {
 
 const G5: Record<string, Generator> = {
   largeNumbers: (cc) => {
+    const lang = getLang(cc);
     const n = randInt(10000, 99999);
-    const rounded = Math.round(n / 1000) * 1000;
-    return q(qNextInSequence(`${n.toLocaleString()} ≈ ?`, cc).replace("→ ?", ""), rounded, t("rounding", cc));
+    const roundTo = pick([1000, 10000]);
+    const rounded = Math.round(n / roundTo) * roundTo;
+    const stepLabel: Record<string, [string, string]> = {
+      DE: ["Tausender", "Zehntausender"],
+      EN: ["thousand", "ten thousand"],
+      HU: ["ezresre", "tízezresre"],
+      RO: ["mie", "zeci de mii"],
+    };
+    const [lbl1000, lbl10000] = stepLabel[lang] ?? stepLabel.EN;
+    const lbl = roundTo === 1000 ? lbl1000 : lbl10000;
+    const nFmt = n.toLocaleString("de-DE");
+    const prompts: Record<string, string> = {
+      DE: `Runde ${nFmt} auf die nächsten ${lbl}.`,
+      EN: `Round ${n.toLocaleString("en-US")} to the nearest ${lbl}.`,
+      HU: `Kerekítsd ${nFmt}-t a legközelebbi ${lbl}!`,
+      RO: `Rotunjește ${nFmt} la cel mai apropiat ${lbl}.`,
+    };
+    return q(prompts[lang] ?? prompts.EN, rounded, t("rounding", cc));
   },
   roundHundreds: (cc) => {
     const n = randInt(1000, 9999);
@@ -2092,8 +2255,9 @@ const G5: Record<string, Generator> = {
     };
     const lang = getLang(cc);
     const names = placeNames[lang] ?? placeNames.EN;
-    const placeIdx = randInt(0, 5);
-    const digits = [randInt(1,9), randInt(0,9), randInt(0,9), randInt(0,9), randInt(0,9), randInt(0,9)];
+    // Grade 5: focus on Tausender and above (index 3-5); allow Hunderter (2) but not Einer/Zehner
+    const placeIdx = pick([2, 3, 3, 4, 4, 5, 5]);
+    const digits = [randInt(1,9), randInt(1,9), randInt(1,9), randInt(1,9), randInt(1,9), randInt(1,9)];
     const n = digits[5]*100000 + digits[4]*10000 + digits[3]*1000 + digits[2]*100 + digits[1]*10 + digits[0];
     const digit = digits[placeIdx];
     const formatted = n.toLocaleString("de-DE");
@@ -2383,6 +2547,35 @@ const G5: Record<string, Generator> = {
     ])();
   },
 
+  // ── Area unit conversion (m² ↔ cm²) ─────────────────
+  areaUnitConvert: (cc) => {
+    const lang = getLang(cc);
+    return pick([
+      () => {
+        const m2 = randInt(1, 9);
+        const cm2 = m2 * 10000;
+        const prompts: Record<string,string> = {
+          DE: `${m2} m² = ? cm²`,
+          EN: `${m2} m² = ? cm²`,
+          HU: `${m2} m² = ? cm²`,
+          RO: `${m2} m² = ? cm²`,
+        };
+        return q(prompts[lang] ?? prompts.EN, cm2, t("unitConversion", cc));
+      },
+      () => {
+        const cm2 = randInt(1, 9) * 10000;
+        const m2 = cm2 / 10000;
+        const prompts: Record<string,string> = {
+          DE: `${cm2.toLocaleString("de-DE")} cm² = ? m²`,
+          EN: `${cm2.toLocaleString("en-US")} cm² = ? m²`,
+          HU: `${cm2.toLocaleString("de-DE")} cm² = ? m²`,
+          RO: `${cm2.toLocaleString("de-DE")} cm² = ? m²`,
+        };
+        return q(prompts[lang] ?? prompts.EN, m2, t("unitConversion", cc));
+      },
+    ])();
+  },
+
   // ── Percent ──────────────────────────────────────────
   percent20: (cc) => { const n = randInt(2, 10) * 100; return q(qPercentOf(n, 20, cc), n / 5, t("percent", cc)); },
   percent75: (cc) => { const n = randInt(1, 8) * 100; return q(qPercentOf(n, 75, cc), n * 3 / 4, t("percent", cc)); },
@@ -2401,7 +2594,7 @@ const G5: Record<string, Generator> = {
     return pick([
       () => { const p1 = randInt(3,9)*100, p2 = randInt(2,7)*100; return q(wpTwoItemsCost(p1,p2,cur,cc), p1+p2, t("wordProblem",cc),0,true); },
       () => { const a = randInt(200,800), b = randInt(200,800); return q(wpFruitTotal(a,it.fruits[0],b,it.fruits[1],cc), a+b, t("wordProblem",cc),0,true); },
-      () => { const a = randInt(500,2000), b = randInt(300,1500); return q(wpBikeTrip(a,b,cc), a+b, t("wordProblem",cc),0,true); },
+      () => { const a = randInt(15,80), b = randInt(8,45); return q(wpBikeTrip(a,b,cc), a+b, t("wordProblem",cc),0,true); },
       () => { const nm = pick(ns.boys), a = randInt(400,1200), b = randInt(300,900); return q(wpBooksOrdered(nm,a,b,cc), a+b, t("wordProblem",cc),0,true); },
       () => { const adults = randInt(300,1200), children = randInt(200,800), nm = pick(ns.girls); return q(wpEventOrganizer(nm,adults,children,cc), adults+children, t("wordProblem",cc),0,true); },
     ])();
@@ -2430,11 +2623,34 @@ const G5: Record<string, Generator> = {
 
   wordDiv: (cc) => {
     const it = getItems(cc);
+    const lang = getLang(cc);
     return pick([
       () => { const kids = randInt(3,8), each = randInt(4,12); return q(wpShare(kids*each,kids,each,it.candy,cc), each, t("wordProblem",cc),0,true); },
       () => { const groups = randInt(3,7), perGroup = randInt(4,9); return q(wpClassGroups(groups*perGroup,groups,cc), perGroup, t("wordProblem",cc),0,true); },
-      () => { const loads = randInt(4,8), perLoad = randInt(50,150); const total = loads*perLoad; return q(wpTruckDelivery(loads,perLoad,it.fruits[0],cc), total, t("wordProblem",cc),0,true); },
-      () => { const rooms = randInt(4,8), cost = randInt(150,400); return q(wpSchoolRenovation(rooms,cost,cc), rooms*cost, t("wordProblem",cc),0,true); },
+      () => {
+        // proper division: total ÷ trips = per trip
+        const trips = randInt(4,8), perTrip = randInt(50,150);
+        const total = trips * perTrip;
+        const pr: Record<string,string> = {
+          DE: `Ein Lastwagen liefert insgesamt ${total} kg in ${trips} Fahrten gleicher Ladung. Wie viel kg lädt er pro Fahrt?`,
+          EN: `A truck delivers ${total} kg in ${trips} equal trips. How many kg does it carry per trip?`,
+          HU: `Egy teherautó összesen ${total} kg-ot szállít ${trips} egyforma fuvarban. Hány kg-ot visz fuvaronként?`,
+          RO: `Un camion livrează ${total} kg în ${trips} curse egale. Câte kg transportă pe cursă?`,
+        };
+        return q(pr[lang] ?? pr.EN, perTrip, t("wordProblem",cc),0,true);
+      },
+      () => {
+        // proper division: total ÷ rooms = cost per room
+        const rooms = randInt(4,8), cost = randInt(150,400);
+        const total = rooms * cost;
+        const pr: Record<string,string> = {
+          DE: `Die Renovierung von ${rooms} Klassenzimmern kostet insgesamt ${total} €. Was kostet die Renovierung je Zimmer?`,
+          EN: `Renovating ${rooms} classrooms costs ${total} € in total. What does each room cost?`,
+          HU: `${rooms} terem felújítása összesen ${total} €-ba kerül. Mennyibe kerül egy terem?`,
+          RO: `Renovarea a ${rooms} săli de clasă costă ${total} € în total. Cât costă fiecare sală?`,
+        };
+        return q(pr[lang] ?? pr.EN, cost, t("wordProblem",cc),0,true);
+      },
     ])();
   },
 
@@ -2487,13 +2703,19 @@ const G5: Record<string, Generator> = {
   coordRead: (cc) => {
     const lang = getLang(cc);
     const x = randInt(1, 9), y = randInt(1, 9);
+    const askX = Math.random() < 0.5;
+    const answer = askX ? x : y;
+    const coordLabel = askX
+      ? { DE: "x", EN: "x", HU: "x", RO: "x" }
+      : { DE: "y", EN: "y", HU: "y", RO: "y" };
+    const coord = coordLabel[lang] ?? "x";
     const prompts: Record<string,string> = {
-      DE: `Ein Punkt liegt bei x=${x}, y=${y}. Was ist seine x-Koordinate?`,
-      EN: `A point is at x=${x}, y=${y}. What is its x-coordinate?`,
-      HU: `Egy pont koordinátái: x=${x}, y=${y}. Mi az x-koordinátája?`,
-      RO: `Un punct se află la x=${x}, y=${y}. Care este coordonata x?`,
+      DE: `Ein Punkt P liegt bei (${x}|${y}). Wie lautet die ${coord}-Koordinate?`,
+      EN: `A point P is at (${x}, ${y}). What is the ${coord}-coordinate?`,
+      HU: `Egy P pont koordinátái: (${x}; ${y}). Mi a(z) ${coord}-koordináta értéke?`,
+      RO: `Punctul P se află la (${x}; ${y}). Care este coordonata ${coord}?`,
     };
-    return q(prompts[lang] ?? prompts.EN, x, t("geometry", cc));
+    return q(prompts[lang] ?? prompts.EN, answer, t("geometry", cc));
   },
 
   // ── Negative numbers (EU Grade 5: DE/AT/CH) ──────────
@@ -2601,16 +2823,33 @@ const G5: Record<string, Generator> = {
   chartRead: (cc) => {
     const lang = getLang(cc);
     const categories = ["A", "B", "C", "D"];
-    const values = categories.map(() => randInt(2, 12) * 5);
-    const maxIdx = values.indexOf(Math.max(...values));
+    let values = categories.map(() => randInt(2, 11) * 5);
+    // ensure the maximum is unique (no tie) and not all equal
+    let attempts = 0;
+    while (attempts++ < 20) {
+      const max = Math.max(...values);
+      if (values.filter(v => v === max).length === 1) break;
+      const idx = randInt(0, 3);
+      values[idx] = randInt(2, 11) * 5;
+    }
+    const maxVal = Math.max(...values);
+    const minVal = Math.min(...values);
+    // alternate between max and min questions for variety
+    const askMax = Math.random() < 0.7;
+    const answer = askMax ? maxVal : minVal;
     const valList = categories.map((c, i) => `${c}:${values[i]}`).join(", ");
-    const prompts: Record<string,string> = {
+    const prompts: Record<string,string> = askMax ? {
       DE: `Balkendiagramm-Werte (${valList}). Was ist der Höchstwert?`,
       EN: `Bar chart values (${valList}). What is the highest value?`,
       HU: `Oszlopdiagram értékei (${valList}). Mi a legnagyobb érték?`,
       RO: `Valorile diagramei (${valList}). Care este valoarea maximă?`,
+    } : {
+      DE: `Balkendiagramm-Werte (${valList}). Was ist der Mindestwert?`,
+      EN: `Bar chart values (${valList}). What is the lowest value?`,
+      HU: `Oszlopdiagram értékei (${valList}). Mi a legkisebb érték?`,
+      RO: `Valorile diagramei (${valList}). Care este valoarea minimă?`,
     };
-    return q(prompts[lang] ?? prompts.EN, values[maxIdx], t("statistics", cc));
+    return q(prompts[lang] ?? prompts.EN, answer, t("statistics", cc));
   },
 
   calcMean: (cc) => {
@@ -2640,71 +2879,16 @@ const G5: Record<string, Generator> = {
 // ─── GRADE 6 GENERATORS ─────────────────────────────
 
 const G6: Record<string, Generator> = {
+  // ── NEGATIVE NUMBERS ──
   negative: (cc) => { const a = randInt(1, 10), b = randInt(a + 1, 20); return q(`${a} - ${b} = ?`, a - b, t("negativeNumbers", cc), -50); },
   negativeB: (cc) => { const a = randInt(-10, -1), b = randInt(1, 10); return q(`(${a}) + ${b} = ?`, a + b, t("negativeNumbers", cc), -50); },
   negativeC: (cc) => { const a = randInt(-10, -1), b = randInt(-10, -1); return q(`(${a}) + (${b}) = ?`, a + b, t("negativeNumbers", cc), -50); },
-  fractionMul: (cc) => {
-    const d = pick([2, 3, 4, 5]);
-    const n = randInt(1, d);
-    const w = randInt(2, 6) * d;
-    return q(`${n}/${d} × ${w} = ?`, (n * w) / d, t("fractionMul", cc));
-  },
-  fractionDiv: (cc) => {
-    const n = randInt(4, 12);
-    const d = pick([2, 3, 4]);
-    return q(`${n} ÷ ${d} = ?`, Math.floor(n / d), t("fractionDiv", cc));
-  },
-  ratio: (cc) => {
-    const ratio = randInt(2, 5); const smaller = randInt(2, 6);
-    return q(qRatioSmallLarge(ratio, smaller, cc), smaller * ratio, t("ratio", cc));
-  },
-  speed: (cc) => {
-    const speed = randInt(3, 8) * 10; const time = randInt(2, 5);
-    return q(qSpeedDistance(speed, time, "km", cc), speed * time, t("ratio", cc));
-  },
-  percentCalc: (cc) => {
-    const base = pick([200, 300, 400, 500, 600, 800, 1000]); const p = pick([5, 10, 15, 20, 25]);
-    return q(qPercentOf(base, p, cc), base * p / 100, t("percentCalc", cc));
-  },
-  percentDiscount: (cc) => {
-    const cur = getCurrency(cc);
-    const orig = randInt(100, 500); const disc = pick([10, 20, 25, 50]);
-    return q(wpDiscount("", orig, disc, cur, cc), orig - orig * disc / 100, t("percentCalc", cc), 0, true);
-  },
-  areaTriangle: (cc) => {
-    const a = randInt(3, 10), h = randInt(3, 10);
-    return q(qTriangleArea(a, h, cc), (a * h) / 2, t("area", cc));
-  },
-  areaSquare: (cc) => {
-    const a = randInt(3, 12);
-    return q(qSquareArea(a, cc), a * a, t("area", cc));
-  },
-  wordShoe: (cc) => {
-    const cur = getCurrency(cc);
-    const price = randInt(5, 20) * 100; const disc = pick([10, 20, 25]);
-    return q(wpDiscount(getItems(cc).shoe, price, disc, cur, cc), price - price * disc / 100, t("wordProblem", cc), 0, true);
-  },
-  wordTrain: (cc) => {
-    const km = randInt(60, 120); const h = pick([2, 3, 4]);
-    return q(wpAvgSpeed(km * h, h, cc), km, t("wordProblem", cc), 0, true);
-  },
-  circle: (cc) => {
+  negSub: (cc) => {
     return pick([
-      () => { const r = randInt(2, 8); return q(qCircleCircumference(r, cc), 2 * 3 * r, t("circle", cc)); },
-      () => { const r = randInt(2, 7); return q(qCircleArea(r, cc), 3 * r * r, t("circle", cc)); },
+      () => { const a = randInt(-10, -1), b = randInt(1, 8); return q(`(${a}) − ${b} = ?`, a - b, t("negativeNumbers", cc), -50); },
+      () => { const a = randInt(1, 10), b = randInt(1, 10); return q(`(−${a}) − ${b} = ?`, -a - b, t("negativeNumbers", cc), -50); },
+      () => { const a = randInt(-8, -1), b = randInt(a, -1); return q(`${b} − (${a}) = ?`, b - a, t("negativeNumbers", cc)); },
     ])();
-  },
-  mean: (cc) => {
-    const step = randInt(2, 9);
-    const count = pick([3, 4, 5]);
-    const niceNums = Array.from({ length: count }, (_, i) => step * (i + 1));
-    const mean = niceNums.reduce((s, n) => s + n, 0) / count;
-    return q(qMeanOf(niceNums, cc), mean, t("mean", cc));
-  },
-  median: (cc) => {
-    const count = pick([3, 5]);
-    const sorted = Array.from({ length: count }, (_, i) => randInt(1, 5) + i * randInt(1, 4));
-    return q(qMedianOf(sorted, cc), sorted[Math.floor(count / 2)], t("statistics", cc));
   },
   negMul: (cc) => {
     return pick([
@@ -2713,6 +2897,54 @@ const G6: Record<string, Generator> = {
       () => { const a = randInt(2, 8), b = randInt(2, 6); return q(`${a * b} ÷ (−${b}) = ?`, -a, t("negativeNumbers", cc), -50); },
     ])();
   },
+  negAbsolute: (cc) => {
+    const n = randInt(-15, 15);
+    return q(qAbsoluteValue(n, cc), Math.abs(n), t("negativeNumbers", cc));
+  },
+  negCompare: (cc) => {
+    const a = randInt(-10, -1), b = randInt(-10, -1);
+    const larger = Math.max(a, b);
+    return q(qNegCompare(a, b, cc), larger, t("negativeNumbers", cc), -50);
+  },
+  negTemp: (cc) => {
+    const warm = randInt(5, 18), cold = randInt(-12, -1);
+    return q(wpNegTemp(warm, cold, cc), warm - cold, t("negativeNumbers", cc), 0, true);
+  },
+  negDebt: (cc) => {
+    const earned = randInt(10, 40) * 5, spent = randInt(earned + 10, earned + 60);
+    return q(wpNegDebt(earned, spent, cc), earned - spent, t("wordProblem", cc), 0, true);
+  },
+
+  // ── FRACTIONS (deeper) ──
+  fractionMul: (cc) => {
+    const d = pick([2, 3, 4, 5]);
+    const n = randInt(1, d);
+    const w = randInt(2, 6) * d;
+    return q(`${n}/${d} × ${w} = ?`, (n * w) / d, t("fractionMul", cc));
+  },
+  fracMulFrac: (cc) => {
+    // pairs: [an, ad, bn, bd] → result in lowest terms rn/rd
+    const cases: [number,number,number,number,number,number][] = [
+      [1,2,1,3,1,6],[1,2,2,3,1,3],[2,3,3,4,1,2],[3,4,2,3,1,2],[1,3,3,5,1,5],[2,5,1,2,1,5],
+    ];
+    const [an, ad, bn, bd, sn, sd] = pick(cases);
+    const ansStr = sd === 1 ? `${sn}` : `${sn}/${sd}`;
+    return qs(qFracMulFrac(an, ad, bn, bd, cc), ansStr, t("fractionMul", cc));
+  },
+  fractionDiv: (cc) => {
+    const n = randInt(4, 12);
+    const d = pick([2, 3, 4]);
+    return q(`${n} ÷ ${d} = ?`, Math.floor(n / d), t("fractionDiv", cc));
+  },
+  fracDivFrac: (cc) => {
+    // a/b ÷ c/d = (a*d)/(b*c) in lowest terms — pre-computed for clean answers
+    const cases: [number,number,number,number,number,number][] = [
+      [1,2,1,4,2,1],[3,4,3,8,2,1],[2,3,1,3,2,1],[3,4,1,4,3,1],[4,5,2,5,2,1],[3,5,1,5,3,1],
+    ];
+    const [an, ad, bn, bd, sn, sd] = pick(cases);
+    const ansStr = sd === 1 ? `${sn}` : `${sn}/${sd}`;
+    return qs(qFracDivFrac(an, ad, bn, bd, cc), ansStr, t("fractionDiv", cc));
+  },
   fractionDiff: (cc) => {
     const pairs: [number, number, number, number, number, number][] = [
       [1,2,1,3,6,5],[1,3,1,4,12,7],[1,2,1,4,4,3],[2,3,1,6,6,5],[3,4,1,2,4,5],
@@ -2720,11 +2952,182 @@ const G6: Record<string, Generator> = {
     const [an, ad, bn, bd, lcm, num] = pick(pairs);
     return q(qFractionAddDiff(an, ad, bn, bd, lcm, cc), num, t("fractionDiffDenom", cc));
   },
+  fracToPercent: (cc) => {
+    const pairs: [number, number, number][] = [
+      [1,2,50],[1,4,25],[3,4,75],[1,5,20],[2,5,40],[3,5,60],[4,5,80],[1,10,10],[3,10,30],
+    ];
+    const [n, d, pct] = pick(pairs);
+    return q(qFracToPercent(n, d, cc), pct, t("percentCalc", cc));
+  },
+
+  // ── RATIOS & PROPORTIONS ──
+  ratio: (cc) => {
+    const ratio = randInt(2, 5); const smaller = randInt(2, 6);
+    return q(qRatioSmallLarge(ratio, smaller, cc), smaller * ratio, t("ratio", cc));
+  },
+  ratioMissing: (cc) => {
+    const a = pick([1, 2, 3, 4]), b = pick([3, 4, 5, 6]);
+    const mult = pick([2, 3, 4, 5]);
+    const c = a * mult;
+    return q(qRatioMissing(a, b, c, cc), b * mult, t("ratio", cc));
+  },
+  ruleOfThree: (cc) => {
+    const cur = getCurrency(cc);
+    const unitPrice = randInt(3, 15), qty = pick([3, 4, 5, 6]);
+    const target = randInt(qty + 1, qty + 8);
+    return q(qRuleOfThree(unitPrice * qty, qty, target, cur, cc), unitPrice * target, t("ratio", cc), 0, true);
+  },
+  inverseRatio: (cc) => {
+    const workers = pick([2, 3, 4, 6]), days = pick([6, 8, 12, 18]);
+    const work = workers * days;
+    const newW = pick([workers + 1, workers * 2, workers + 3].filter(n => n !== workers && work % n === 0));
+    const newD = work / newW;
+    return q(qInverseRatio(workers, days, newW, cc), newD, t("ratio", cc), 0, true);
+  },
+  speed: (cc) => {
+    const speed = randInt(3, 8) * 10; const time = randInt(2, 5);
+    return q(qSpeedDistance(speed, time, "km", cc), speed * time, t("ratio", cc));
+  },
+  speedTime: (cc) => {
+    const speed = pick([60, 80, 100, 120]); const time = pick([2, 3, 4]);
+    return q(qSpeedTime(speed * time, speed, cc), time, t("ratio", cc));
+  },
+  ratioSplit: (cc) => {
+    const a = randInt(1, 4), b = randInt(a + 1, 6);
+    const total = (a + b) * randInt(2, 6);
+    const larger = Math.round(total * b / (a + b));
+    return q(wpRatioSplit(total, a, b, cc), larger, t("ratio", cc), 0, true);
+  },
+
+  // ── PERCENTAGES ──
+  percentCalc: (cc) => {
+    const base = pick([200, 300, 400, 500, 600, 800, 1000]); const p = pick([5, 10, 15, 20, 25]);
+    return q(qPercentOf(base, p, cc), base * p / 100, t("percentCalc", cc));
+  },
+  percentWhat: (cc) => {
+    const p = pick([10, 20, 25, 50]), base = pick([80, 100, 120, 200, 400]);
+    const part = base * p / 100;
+    return q(qPercentWhat(part, base, cc), p, t("percentCalc", cc));
+  },
+  percentBase: (cc) => {
+    const p = pick([10, 20, 25, 50]), base = pick([40, 80, 100, 120, 200]);
+    const result = base * p / 100;
+    return q(qPercentBase(p, result, cc), base, t("percentCalc", cc));
+  },
+  percentIncrease: (cc) => {
+    const base = pick([100, 200, 300, 400, 500]), pct = pick([10, 20, 25, 50]);
+    return q(qPercentIncrease(base, pct, cc), base + base * pct / 100, t("percentCalc", cc));
+  },
+  percentDecrease: (cc) => {
+    const base = pick([100, 200, 300, 400, 500]), pct = pick([10, 20, 25, 50]);
+    return q(qPercentDecrease(base, pct, cc), base - base * pct / 100, t("percentCalc", cc));
+  },
+  percentDiscount: (cc) => {
+    const cur = getCurrency(cc);
+    const orig = randInt(100, 500); const disc = pick([10, 20, 25, 50]);
+    return q(wpDiscount("", orig, disc, cur, cc), orig - orig * disc / 100, t("percentCalc", cc), 0, true);
+  },
+  percentTax: (cc) => {
+    const cur = getCurrency(cc);
+    const price = randInt(5, 20) * 10, pct = pick([10, 20, 25]);
+    return q(wpPercentTax(price, pct, cur, cc), price + price * pct / 100, t("percentCalc", cc), 0, true);
+  },
+
+  // ── ALGEBRA ──
+  exprEval: (cc) => {
+    return pick([
+      () => { const c = randInt(2, 5), a = randInt(1, 8), x = randInt(1, 6); return q(qExprEval(c, a, x, cc), c * x + a, t("algebra", cc)); },
+      () => { const c = randInt(2, 4), a = randInt(2, 9), x = randInt(2, 5); return q(qExprEval(c, a, x, cc), c * x + a, t("algebra", cc)); },
+    ])();
+  },
+  equation1: (cc) => {
+    return pick([
+      () => { const n = randInt(3, 12), r = randInt(5, 20); return q(qEquation1Step("add", n, r + n, cc), r, t("algebra", cc)); },
+      () => { const n = randInt(2, 9), r = randInt(3, 15); return q(qEquation1Step("sub", n, r - n, cc), r, t("algebra", cc)); },
+      () => { const n = randInt(2, 8), r = randInt(2, 6); return q(qEquation1Step("mul", n, n * r, cc), r, t("algebra", cc)); },
+      () => { const n = pick([2, 3, 4, 5]), r = randInt(2, 7); return q(qEquation1Step("div", n, r, cc), r * n, t("algebra", cc)); },
+    ])();
+  },
+  equation2: (cc) => {
+    const a = pick([2, 3, 4]), b = pick([1, 2, 3, 4, 5]), x = randInt(1, 8);
+    const result = a * x + b;
+    return q(qEquation2Step(a, b, result, cc), x, t("algebra", cc));
+  },
+
+  // ── GEOMETRY ──
+  areaTriangle: (cc) => {
+    const a = randInt(3, 10), h = randInt(3, 10);
+    return q(qTriangleArea(a, h, cc), (a * h) / 2, t("area", cc));
+  },
+  areaParallelogram: (cc) => {
+    const b = randInt(3, 12), h = randInt(2, 8);
+    return q(qAreaParallelogram(b, h, cc), b * h, t("area", cc));
+  },
+  areaTrapezoid: (cc) => {
+    const a = randInt(4, 10), b = randInt(a + 2, 14), h = randInt(3, 8);
+    return q(qAreaTrapezoid(a, b, h, cc), ((a + b) * h) / 2, t("area", cc));
+  },
+  areaSquare: (cc) => {
+    const a = randInt(3, 12);
+    return q(qSquareArea(a, cc), a * a, t("area", cc));
+  },
+  circle: (cc) => {
+    return pick([
+      () => { const r = randInt(2, 8); return q(qCircleCircumference(r, cc), 2 * 3 * r, t("circle", cc)); },
+      () => { const r = randInt(2, 7); return q(qCircleArea(r, cc), 3 * r * r, t("circle", cc)); },
+    ])();
+  },
+  surfaceBox: (cc) => {
+    const a = randInt(2, 6), b = randInt(2, 6), c = randInt(2, 5);
+    return q(qSurfaceBox(a, b, c, cc), 2 * (a * b + b * c + a * c), t("area", cc));
+  },
   volume: (cc) => {
     return pick([
       () => { const a = randInt(2, 6), b = randInt(2, 6), c = randInt(2, 6); return q(qVolumeBox(a, b, c, cc), a * b * c, t("volume", cc)); },
       () => { const a = randInt(2, 6); return q(qVolumeCube(a, cc), a * a * a, t("volume", cc)); },
     ])();
+  },
+  coord4Q: (cc) => {
+    const x = pick([-4, -3, -2, -1, 1, 2, 3, 4]);
+    const y = pick([-4, -3, -2, -1, 1, 2, 3, 4]);
+    const quadrant = x > 0 && y > 0 ? 1 : x < 0 && y > 0 ? 2 : x < 0 && y < 0 ? 3 : 4;
+    return q(qCoord4Q(x, y, cc), quadrant, t("geometry", cc));
+  },
+
+  // ── STATISTICS ──
+  mean: (cc) => {
+    const step = randInt(2, 9);
+    const count = pick([3, 4, 5]);
+    const niceNums = Array.from({ length: count }, (_, i) => step * (i + 1));
+    const avg = niceNums.reduce((s, n) => s + n, 0) / count;
+    return q(qMeanOf(niceNums, cc), avg, t("mean", cc));
+  },
+  median: (cc) => {
+    const count = pick([3, 5]);
+    const sorted = Array.from({ length: count }, (_, i) => randInt(1, 5) + i * randInt(1, 4));
+    return q(qMedianOf(sorted, cc), sorted[Math.floor(count / 2)], t("statistics", cc));
+  },
+  modeGen: (cc) => {
+    const base = pick([2, 3, 4, 5, 6, 7]);
+    const mode = base;
+    const others = Array.from({ length: 3 }, () => { let n; do { n = randInt(1, 10); } while (n === mode); return n; });
+    const nums = [mode, mode, ...others].sort(() => Math.random() - 0.5);
+    return q(qMode(nums, cc), mode, t("statistics", cc));
+  },
+  rangeGen: (cc) => {
+    const nums = Array.from({ length: pick([4, 5, 6]) }, () => randInt(2, 20));
+    return q(qRange(nums, cc), Math.max(...nums) - Math.min(...nums), t("statistics", cc));
+  },
+
+  // ── WORD PROBLEMS ──
+  wordShoe: (cc) => {
+    const cur = getCurrency(cc);
+    const price = randInt(5, 20) * 100; const disc = pick([10, 20, 25]);
+    return q(wpDiscount(getItems(cc).shoe, price, disc, cur, cc), price - price * disc / 100, t("wordProblem", cc), 0, true);
+  },
+  wordTrain: (cc) => {
+    const km = randInt(60, 120); const h = pick([2, 3, 4]);
+    return q(wpAvgSpeed(km * h, h, cc), km, t("wordProblem", cc), 0, true);
   },
 };
 
@@ -2819,13 +3222,274 @@ const G7: Record<string, Generator> = {
       () => { const a = randInt(2, 6); return q(qVolumeCube(a, cc), a * a * a, t("volume", cc)); },
     ])();
   },
+  powerExpr: (cc) => {
+    return pick([
+      () => { const a = randInt(2,7), b = randInt(2,5); return q(`${a}² + ${b}² = ?`, a*a + b*b, t("powers", cc)); },
+      () => { const a = randInt(2,5), b = randInt(2,4); return q(`${a}² + ${b}³ = ?`, a*a + b*b*b, t("powers", cc)); },
+      () => { const a = randInt(3,8), b = randInt(2,Math.min(a-1,6)); return q(`${a}² − ${b}² = ?`, a*a - b*b, t("powers", cc)); },
+    ])();
+  },
+  powerNeg: (cc) => {
+    const b = randInt(2,5);
+    return q(`(−${b})² = ?`, b*b, t("powers", cc));
+  },
+  algebraExpand: (cc) => {
+    const a = randInt(2,5), b = randInt(1,6), c = randInt(1,6);
+    const lang = getLang(cc);
+    let qStr: string;
+    switch(lang) {
+      case "DE": qStr = `Klammer auflösen: ${a}(${b} + ${c}) = ?`; break;
+      case "RO": qStr = `Aplică proprietatea: ${a}(${b} + ${c}) = ?`; break;
+      case "EN": qStr = `Expand: ${a}(${b} + ${c}) = ?`; break;
+      default:   qStr = `Szorozzál be: ${a}(${b} + ${c}) = ?`; break;
+    }
+    return q(qStr, a * (b + c), t("algebra", cc));
+  },
+  algebraEval: (cc) => {
+    const x = randInt(1,5), a = randInt(2,4), b = randInt(1,8);
+    return q(qIfAEquals("x", x, `${a}x + ${b}`, cc), a*x + b, t("algebra", cc));
+  },
+  equationFrac: (cc) => {
+    const a = pick([2,3,4,5]), b = randInt(1,6), ans = randInt(2,8);
+    const x = ans * a;
+    const rhsVal = ans + b;
+    const lang = getLang(cc);
+    let qStr: string;
+    switch(lang) {
+      case "DE": qStr = `x/${a} + ${b} = ${rhsVal}. Wie groß ist x?`; break;
+      case "RO": qStr = `x/${a} + ${b} = ${rhsVal}. Cât este x?`; break;
+      case "EN": qStr = `x/${a} + ${b} = ${rhsVal}. What is x?`; break;
+      default:   qStr = `x/${a} + ${b} = ${rhsVal}. Mennyi x?`; break;
+    }
+    return q(qStr, x, t("equations", cc));
+  },
+  equationTwoSide: (cc) => {
+    const c = randInt(1,2), a = c + randInt(1,2), b = randInt(1,10), x = randInt(2,7);
+    const d = (a-c)*x + b;
+    return q(qSolveX(`${a}x + ${b} = ${c}x + ${d}.`, cc), x, t("equations", cc));
+  },
+  equationWord: (cc) => {
+    return pick([
+      () => {
+        const weekly = randInt(3,8), fixed = randInt(10,30);
+        const weeks = randInt(4,10);
+        const total = weekly * weeks + fixed;
+        const lang = getLang(cc);
+        let qStr: string;
+        switch(lang) {
+          case "DE": qStr = `Ein Mitglied zahlt ${fixed}€ Aufnahmegebühr und dann ${weekly}€ pro Woche. Wieviele Wochen ist er Mitglied, wenn er ${total}€ gesamt zahlt?`; break;
+          case "RO": qStr = `O persoană plătește ${fixed}€ taxă de înscriere și ${weekly}€ pe săptămână. Câte săptămâni este membră dacă plătește total ${total}€?`; break;
+          case "EN": qStr = `A club charges a ${fixed}€ joining fee plus ${weekly}€ per week. For how many weeks is someone a member if they pay ${total}€ in total?`; break;
+          default:   qStr = `Egy klub ${fixed}€ belépési díjat és heti ${weekly}€-t kér. Hány hétig tag valaki, ha összesen ${total}€-t fizet?`; break;
+        }
+        return q(qStr, weeks, t("equations", cc), 0, true);
+      },
+      () => {
+        const x = randInt(4,10), times = randInt(2,4), extra = randInt(2,8);
+        const total = times * x + extra;
+        const lang = getLang(cc);
+        let qStr: string;
+        switch(lang) {
+          case "DE": qStr = `Das ${times}-fache einer Zahl plus ${extra} ist ${total}. Welche Zahl ist es?`; break;
+          case "RO": qStr = `De ${times} ori un număr plus ${extra} este ${total}. Care este numărul?`; break;
+          case "EN": qStr = `${times} times a number plus ${extra} equals ${total}. What is the number?`; break;
+          default:   qStr = `Egy szám ${times}-szorosa plusz ${extra} egyenlő ${total}. Mi a szám?`; break;
+        }
+        return q(qStr, x, t("equations", cc), 0, true);
+      },
+    ])();
+  },
+  inequalityWord: (cc) => {
+    const price = randInt(3,8), budget = randInt(20,40);
+    const maxItems = Math.floor(budget / price);
+    const lang = getLang(cc);
+    let qStr: string;
+    switch(lang) {
+      case "DE": qStr = `Ein Heft kostet ${price}€. Du hast ${budget}€. Wie viele Hefte kannst du höchstens kaufen?`; break;
+      case "RO": qStr = `Un caiet costă ${price}€. Ai ${budget}€. Câte caiete poți cumpăra cel mult?`; break;
+      case "EN": qStr = `A notebook costs ${price}€. You have ${budget}€. What is the maximum number of notebooks you can buy?`; break;
+      default:   qStr = `Egy füzet ${price}€. Neked van ${budget}€. Legfeljebb hány füzetet vehetsz?`; break;
+    }
+    return q(qStr, maxItems, t("inequality", cc), 0, true);
+  },
+  extAngle: (cc) => {
+    const a = randInt(30,70), b = randInt(30,70);
+    const ext = a + b;
+    const lang = getLang(cc);
+    let qStr: string;
+    switch(lang) {
+      case "DE": qStr = `Ein Außenwinkel eines Dreiecks ist ${ext}°. Ein nicht anliegender Innenwinkel ist ${a}°. Wie groß ist der andere?`; break;
+      case "RO": qStr = `Un unghi exterior al unui triunghi este ${ext}°. Un unghi interior opus este ${a}°. Cât este celălalt?`; break;
+      case "EN": qStr = `An exterior angle of a triangle is ${ext}°. One non-adjacent interior angle is ${a}°. What is the other?`; break;
+      default:   qStr = `Egy háromszög külső szöge ${ext}°. Az egyik nem szomszédos belső szög ${a}°. Mekkora a másik?`; break;
+    }
+    return q(qStr, b, t("triangles", cc));
+  },
+  triangleWord: (cc) => {
+    return pick([
+      () => {
+        const side = randInt(6,15), base = randInt(4,side*2-2);
+        const perim = 2*side + base;
+        const lang = getLang(cc);
+        let qStr: string;
+        switch(lang) {
+          case "DE": qStr = `Ein gleichschenkliges Dreieck hat gleiche Seiten von je ${side} cm und eine Grundseite von ${base} cm. Wie groß ist der Umfang?`; break;
+          case "RO": qStr = `Un triunghi isoscel are laturile egale de ${side} cm și baza de ${base} cm. Cât este perimetrul?`; break;
+          case "EN": qStr = `An isosceles triangle has equal sides of ${side} cm and a base of ${base} cm. What is the perimeter?`; break;
+          default:   qStr = `Egy egyenlő szárú háromszög szárai ${side} cm, alapja ${base} cm. Mekkora a kerülete?`; break;
+        }
+        return q(qStr, perim, t("triangles", cc), 0, true);
+      },
+      () => {
+        const a = randInt(30,70), b = randInt(30,140-a);
+        return q(qTriangleThirdAngle(a, b, cc), 180-a-b, t("triangles", cc));
+      },
+    ])();
+  },
+  pythagWord: (cc) => {
+    return pick([
+      () => {
+        const pairs: [number,number,number][] = [[6,8,10],[5,12,13],[8,15,17],[9,12,15]];
+        const [dist, h, ladder] = pick(pairs);
+        const lang = getLang(cc);
+        let qStr: string;
+        switch(lang) {
+          case "DE": qStr = `Eine ${ladder} m lange Leiter lehnt an einer Wand. Der Fuß ist ${dist} m von der Wand entfernt. Wie hoch reicht die Leiter?`; break;
+          case "RO": qStr = `O scară de ${ladder} m este sprijinită de un zid. Piciorul scării este la ${dist} m de zid. La ce înălțime ajunge?`; break;
+          case "EN": qStr = `A ${ladder} m ladder leans against a wall. The foot is ${dist} m from the wall. How high does it reach?`; break;
+          default:   qStr = `Egy ${ladder} m hosszú létra fölnek van támasztva. Talpa ${dist} m-re van a faltól. Milyen magasra ér?`; break;
+        }
+        return q(qStr, h, t("pythagoras", cc), 0, true);
+      },
+      () => {
+        const rects: [number,number,number][] = [[3,4,5],[5,12,13],[6,8,10],[8,15,17]];
+        const [a,b,c] = pick(rects);
+        const lang = getLang(cc);
+        let qStr: string;
+        switch(lang) {
+          case "DE": qStr = `Ein Rechteck ist ${a} m × ${b} m. Wie lang ist die Diagonale?`; break;
+          case "RO": qStr = `Un dreptunghi este ${a} m × ${b} m. Cât este diagonala?`; break;
+          case "EN": qStr = `A rectangle is ${a} m × ${b} m. How long is the diagonal?`; break;
+          default:   qStr = `Egy téglalap ${a} m × ${b} m. Mekkora az átlója?`; break;
+        }
+        return q(qStr, c, t("pythagoras", cc), 0, true);
+      },
+    ])();
+  },
+  circleG7: (cc) => {
+    return pick([
+      () => { const r = randInt(2,8); return q(qCircleCircumference(r, cc), Math.round(2 * Math.PI * r * 100)/100, t("circles", cc)); },
+      () => { const r = randInt(2,6); return q(qCircleArea(r, cc), Math.round(Math.PI * r * r * 100)/100, t("circles", cc)); },
+    ])();
+  },
+  cylinderVol: (cc) => {
+    const r = randInt(2,5), h = randInt(3,8);
+    return q(qVolumeCylinder(r, h, cc), Math.round(Math.PI * r * r * h * 10)/10, t("volume", cc));
+  },
+  surfaceBox7: (cc) => {
+    const a = randInt(2,7), b = randInt(2,7), c = randInt(2,7);
+    return q(qSurfaceBox(a, b, c, cc), 2*(a*b + b*c + a*c), t("geometry", cc));
+  },
+  statsMedian7: (cc) => {
+    const nums = Array.from({length: 5}, () => randInt(1,20)).sort((x,y)=>x-y) as number[];
+    return q(qMedianOf(nums, cc), nums[2], t("statistics", cc));
+  },
+  statsMode7: (cc) => {
+    const base = Array.from({length: 4}, () => randInt(1,10)) as number[];
+    const mode = pick(base);
+    const nums = [...base, mode].sort((x,y)=>x-y) as number[];
+    return q(qMode(nums, cc), mode, t("statistics", cc));
+  },
+  statsRange7: (cc) => {
+    const nums = Array.from({length: 5}, () => randInt(1,30)).sort((x,y)=>x-y) as number[];
+    return q(qRange(nums, cc), nums[4] - nums[0], t("statistics", cc));
+  },
+  wordTravel7: (cc) => {
+    return pick([
+      () => {
+        const speed = randInt(40,100), time = randInt(2,5);
+        const unit = getLang(cc) === "EN" ? "miles" : "km";
+        return q(qSpeedDistance(speed, time, unit, cc), speed*time, t("wordProblem", cc), 0, true);
+      },
+      () => {
+        const pairs: [number,number,number][] = [[80,40,2],[100,50,2],[120,60,2],[150,75,2],[200,100,2],[120,40,3],[180,60,3]];
+        const [dist, speed, h] = pick(pairs);
+        const lang = getLang(cc);
+        let qStr: string;
+        switch(lang) {
+          case "DE": qStr = `Ein Auto fährt ${dist} km mit ${speed} km/h. Wie viele Stunden braucht es?`; break;
+          case "RO": qStr = `O mașină parcurge ${dist} km cu ${speed} km/h. Câte ore durează?`; break;
+          case "EN": qStr = `A car travels ${dist} km at ${speed} km/h. How many hours does it take?`; break;
+          default:   qStr = `Egy autó ${dist} km-t tesz meg ${speed} km/h sebességgel. Hány óra alatt?`; break;
+        }
+        return q(qStr, h, t("wordProblem", cc), 0, true);
+      },
+    ])();
+  },
+  wordRatio7: (cc) => {
+    const a = randInt(1,5), b = randInt(1,5);
+    const total = randInt(3,8) * (a+b);
+    const partA = total * a / (a+b);
+    const lang = getLang(cc);
+    let qStr: string;
+    switch(lang) {
+      case "DE": qStr = `${total}€ werden im Verhältnis ${a}:${b} aufgeteilt. Wie viel erhält der erste Teil?`; break;
+      case "RO": qStr = `${total}€ se împarte în raportul ${a}:${b}. Cât primește prima parte?`; break;
+      case "EN": qStr = `${total}€ is split in the ratio ${a}:${b}. How much does the first part get?`; break;
+      default:   qStr = `${total}€-t ${a}:${b} arányban osztanak el. Mennyi jut az első részre?`; break;
+    }
+    return q(qStr, partA, t("wordProblem", cc), 0, true);
+  },
 };
 
 // ─── GRADE 8 GENERATORS ─────────────────────────────
 
 const G8: Record<string, Generator> = {
-  sqrt: (cc) => { const n = pick([4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144]); return q(`√${n} = ?`, Math.sqrt(n), t("squareRoot", cc)); },
-  sqrtExpr: (cc) => { const a = randInt(2, 8); const b = randInt(1, 5); return q(`√${a * a} + ${b} × 2 = ?`, a + b * 2, t("squareRoot", cc)); },
+  // ── Square Roots ──────────────────────────────────────────────────────────
+  sqrt: (cc) => { const n = pick([4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169]); return q(`√${n} = ?`, Math.sqrt(n), t("squareRoot", cc)); },
+  sqrtExpr: (cc) => {
+    return pick([
+      () => { const a = randInt(2, 8); const b = randInt(1, 5); return q(`√${a * a} + ${b} × 2 = ?`, a + b * 2, t("squareRoot", cc)); },
+      () => { const a = randInt(2, 7); const b = randInt(2, 6); return q(`√${a * a} + √${b * b} = ?`, a + b, t("squareRoot", cc)); },
+      () => { const a = randInt(2, 8); const c = randInt(1, 3); return q(`${c} × √${a * a} = ?`, c * a, t("squareRoot", cc)); },
+    ])();
+  },
+  sqrtEstimate: (cc) => {
+    // Pick a non-perfect-square between 5 and 99
+    const candidates = [2, 3, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 32, 35, 37, 40, 45, 50, 52, 55, 60, 63, 72, 75, 80, 85, 90, 95, 98];
+    const n = pick(candidates);
+    const lo = Math.floor(Math.sqrt(n));
+    const hi = lo + 1;
+    return q(qSqrtEstimate(n, lo, hi, cc), lo, t("squareRoot", cc));
+  },
+  sqrtSimplify: (cc) => {
+    // √(a²·b) = a√b, simple cases
+    const cases: [number, number, number][] = [[8,2,2],[12,2,3],[18,3,2],[20,2,5],[27,3,3],[32,4,2],[45,3,5],[50,5,2],[72,6,2],[75,5,3],[98,7,2]];
+    const [n, a, b] = pick(cases);
+    return q(qSqrtSimplify(n, a, b, cc), a, t("squareRoot", cc));
+  },
+
+  // ── Quadratic Equations ───────────────────────────────────────────────────
+  quadSimple: (cc) => {
+    const x = pick([2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]);
+    return q(qQuadraticSimple(x * x, cc), x, t("quadratic", cc));
+  },
+  quadShifted: (cc) => {
+    const a = randInt(1, 4);
+    const x = randInt(1, 5);
+    return q(qQuadraticShifted(a, (x + a) * (x + a), x, cc), x, t("quadratic", cc));
+  },
+  quadEval: (cc) => {
+    const x = randInt(1, 6); const a = randInt(1, 4); const b = randInt(1, 8);
+    return q(qIfAEquals("x", x, `${a}x² + ${b}`, cc), a * x * x + b, t("quadratic", cc), -100);
+  },
+  quadDiff: (cc) => {
+    // Difference of squares: a² - b² = (a+b)(a-b), verify with numbers
+    const a = randInt(3, 8), b = randInt(1, a - 1);
+    return q(`${a}² - ${b}² = ?`, a * a - b * b, t("quadratic", cc));
+  },
+
+  // ── Equations ─────────────────────────────────────────────────────────────
   eqTwoSide: (cc) => {
     const x = randInt(2, 8);
     const a = randInt(3, 6); const c = randInt(1, a - 1);
@@ -2839,16 +3503,145 @@ const G8: Record<string, Generator> = {
     const b = randInt(1, 15);
     return q(qSolveX(`${a}x - ${b} = ${a * x - b}.`, cc), x, t("equations", cc));
   },
+  eqFrac8: (cc) => {
+    // x/a + b = c → x = (c-b)*a
+    const a = randInt(2, 5), b = randInt(1, 8), c = randInt(b + 1, b + 5);
+    const x = (c - b) * a;
+    return q(qSolveX(`x/${a} + ${b} = ${c}.`, cc), x, t("equations", cc));
+  },
+  eqWord8: (cc) => {
+    return pick([
+      () => {
+        const x = randInt(3, 12), add = randInt(5, 20);
+        const names = getNames(cc);
+        const lang = getLang(cc);
+        const n = names.girls[0], total = 2 * x + add;
+        switch(lang) {
+          case "DE": return q(`${n} denkt an eine Zahl. Verdoppelt plus ${add} ist ${total}. Welche Zahl?`, x, t("equations", cc), 0, true);
+          case "EN": return q(`${n} thinks of a number. Doubled plus ${add} equals ${total}. What is the number?`, x, t("equations", cc), 0, true);
+          case "RO": return q(`${n} se gândește la un număr. Dublul plus ${add} este ${total}. Ce număr este?`, x, t("equations", cc), 0, true);
+          default:   return q(`${n} egy számra gondol. Megduplázva plusz ${add} az ${total}. Melyik szám ez?`, x, t("equations", cc), 0, true);
+        }
+      },
+      () => {
+        const age = randInt(8, 20), diff = randInt(3, 15);
+        const names = getNames(cc);
+        const lang = getLang(cc);
+        const parentAge = age + diff;
+        const n = names.girls[1];
+        switch(lang) {
+          case "DE": return q(`${n} ist ${diff} Jahre älter als ihr Kind (${age} Jahre). Wie alt ist ${n}?`, parentAge, t("equations", cc), 0, true);
+          case "EN": return q(`${n} is ${diff} years older than their child (${age} years old). How old is ${n}?`, parentAge, t("equations", cc), 0, true);
+          case "RO": return q(`${n} este cu ${diff} ani mai în vârstă decât copilul lor (${age} ani). Câți ani are ${n}?`, parentAge, t("equations", cc), 0, true);
+          default:   return q(`${n} ${diff} évvel idősebb a gyerekénél (${age} éves). Hány éves ${n}?`, parentAge, t("equations", cc), 0, true);
+        }
+      },
+    ])();
+  },
+
+  // ── Systems of Equations ──────────────────────────────────────────────────
+  systemEq: (cc) => {
+    const x = randInt(3, 10), y = randInt(2, x - 1);
+    const s1 = x + y, s2 = x - y;
+    return q(qSystemEq(1, 1, s1, 1, -1, s2, cc), x, t("systemEq", cc));
+  },
+  systemEqB: (cc) => {
+    // 2x + y = s1, x + y = s2  →  x = s1 - s2
+    const x = randInt(2, 8), y = randInt(1, 10);
+    const s1 = 2 * x + y, s2 = x + y;
+    return q(qSolveX(`2x + y = ${s1} és x + y = ${s2}. x = ?`, cc), x, t("systemEq", cc));
+  },
+  systemWord: (cc) => {
+    const x = randInt(5, 15), diff = randInt(2, 8);
+    const y = x - diff;
+    const total = x + y;
+    const names = getNames(cc);
+    return q(wpSystemWord(names.girls[0], names.boys[0], total, diff, cc), x, t("systemEq", cc), 0, true);
+  },
+  systemGraphical: (cc) => {
+    // Given two linear functions, find intersection x
+    const m1 = randInt(1, 3), b1 = randInt(0, 5);
+    const m2 = randInt(m1 + 1, m1 + 3), b2 = randInt(b1 + 1, b1 + 6);
+    // intersection: m1*x + b1 = m2*x + b2 → x = (b2-b1)/(m1-m2)
+    // use m1 < m2, b1 < b2 → x is negative, so let's flip
+    // Actually: m1*x+b1 = m2*x+b2 → (m1-m2)x = b2-b1 → x = (b2-b1)/(m1-m2) = negative
+    // Let's use: b1 > b2, so m2*x+b2 = m1*x+b1 → x = (b1-b2)/(m2-m1) positive
+    const b1a = randInt(6, 15), b2a = randInt(1, 5);
+    const m1a = randInt(1, 2), m2a = m1a + randInt(1, 2);
+    const xInt = (b1a - b2a) / (m2a - m1a);
+    if (!Number.isInteger(xInt) || xInt <= 0 || xInt > 10) {
+      // fallback to simple system
+      const xa = randInt(2, 7), ya = randInt(1, 5);
+      return q(qSystemEq(1, 1, xa + ya, 1, -1, xa - ya, cc), xa, t("systemEq", cc));
+    }
+    const lang = getLang(cc);
+    let qStr: string;
+    switch(lang) {
+      case "DE": qStr = `Wo schneiden sich f(x) = ${m1a}x + ${b1a} und g(x) = ${m2a}x + ${b2a}? x = ?`; break;
+      case "EN": qStr = `Where do f(x) = ${m1a}x + ${b1a} and g(x) = ${m2a}x + ${b2a} intersect? x = ?`; break;
+      case "RO": qStr = `Unde se intersectează f(x) = ${m1a}x + ${b1a} și g(x) = ${m2a}x + ${b2a}? x = ?`; break;
+      default:   qStr = `Hol metszi egymást az f(x) = ${m1a}x + ${b1a} és g(x) = ${m2a}x + ${b2a}? x = ?`; break;
+    }
+    return q(qStr, xInt, t("systemEq", cc));
+  },
+
+  // ── Linear Functions ──────────────────────────────────────────────────────
   funcValue: (cc) => {
     const m = randInt(1, 5), b = randInt(-5, 10), x = randInt(1, 6);
     return q(qFunctionValue(m, b, x, cc), m * x + b, t("functions", cc), -100);
+  },
+  funcNegSlope: (cc) => {
+    const m = -randInt(1, 4), b = randInt(2, 12), x = randInt(1, 5);
+    return q(qFuncNegSlope(m, b, x, cc), m * x + b, t("functions", cc), -100);
   },
   funcIntercept: (cc) => {
     const m = randInt(2, 4), b = randInt(1, 10);
     return q(qYIntercept(m, b, cc), b, t("functions", cc));
   },
+  funcSlope: (cc) => {
+    // Two points → slope
+    const m = pick([-3, -2, -1, 1, 2, 3, 4]);
+    const x1 = randInt(0, 3), y1 = randInt(0, 6);
+    const dx = randInt(1, 3);
+    const x2 = x1 + dx, y2 = y1 + m * dx;
+    return q(qFuncSlope(x1, y1, x2, y2, cc), m, t("functions", cc));
+  },
+  funcFindEq: (cc) => {
+    // Point + slope → y-intercept
+    const m = randInt(1, 3);
+    const x1 = randInt(1, 4), y1 = randInt(2, 10);
+    const b = y1 - m * x1;
+    if (b < 0 || b > 15) {
+      // fallback
+      const m2 = 2, x2 = 1, y2 = 5, b2 = 3;
+      return q(qFuncFindEq(x2, y2, m2, b2, cc), b2, t("functions", cc));
+    }
+    return q(qFuncFindEq(x1, y1, m, b, cc), b, t("functions", cc));
+  },
+  funcWord: (cc) => {
+    return pick([
+      () => {
+        const rate = randInt(2, 8), fixed = randInt(5, 20);
+        const hours = randInt(3, 8);
+        const lang = getLang(cc);
+        const cost = fixed + rate * hours;
+        switch(lang) {
+          case "DE": return q(`Grundgebühr ${fixed}€, dann ${rate}€/Stunde. Kosten nach ${hours} Stunden?`, cost, t("functions", cc), 0, true);
+          case "EN": return q(`Base fee ${fixed}€, then ${rate}€/hour. Total cost after ${hours} hours?`, cost, t("functions", cc), 0, true);
+          case "RO": return q(`Taxă fixă ${fixed}€, apoi ${rate}€/oră. Cost total după ${hours} ore?`, cost, t("functions", cc), 0, true);
+          default:   return q(`Alapdíj ${fixed}€, majd ${rate}€/óra. Mennyi a költség ${hours} óra után?`, cost, t("functions", cc), 0, true);
+        }
+      },
+      () => {
+        const m = randInt(2, 5), b = randInt(3, 15), x = randInt(2, 6);
+        return q(qFunctionValue(m, b, x, cc), m * x + b, t("functions", cc), -100);
+      },
+    ])();
+  },
+
+  // ── Probability ───────────────────────────────────────────────────────────
   probBall: (cc) => {
-    const total = pick([6, 8, 10, 12]); const good = randInt(1, total / 2);
+    const total = pick([6, 8, 10, 12]); const good = randInt(1, Math.floor(total / 2));
     const items = getItems(cc);
     return q(qBallProb(total, good, items.red, cc), Math.round(good / total * 100), t("probability", cc));
   },
@@ -2860,36 +3653,132 @@ const G8: Record<string, Generator> = {
     } else if (type === 1) {
       return q(qDiceProbEven(cc), 50, t("probability", cc));
     } else {
-      const n = pick([3, 4]); // P(>3)=50%, P(>4)=33%
+      const n = pick([3, 4]);
       return q(qDiceProbMore(n, cc), Math.round((6 - n) / 6 * 100), t("probability", cc));
     }
   },
   probCoin: (cc) => {
     return q(Math.random() < 0.5 ? qCoinProb(cc) : qCoinProbTails(cc), 50, t("probability", cc));
   },
-  complexPow: (cc) => {
-    const a = randInt(2, 6); const sq = pick([16, 25, 36, 49]);
-    return q(`${a}² + √${sq} = ?`, a * a + Math.sqrt(sq), t("complex", cc));
+  probComplementary: (cc) => {
+    const p = pick([10, 20, 25, 30, 40, 60, 70, 75, 80]);
+    return q(qProbComplementary(p, cc), 100 - p, t("probability", cc));
   },
-  complexExpr: (cc) => {
-    const a = randInt(3, 8); const b = randInt(2, 5);
-    return q(qIfAEquals("x", a, `x² - ${b}x`, cc), a * a - b * a, t("complex", cc), -100);
+  probTwoEvents: (cc) => {
+    // P(A∩B) = P(A)·P(B) for independent events, nice numbers
+    const cases: [number, number][] = [[50, 50], [50, 25], [50, 20], [25, 40], [20, 50], [10, 50]];
+    const [p1, p2] = pick(cases);
+    return q(qProbTwoEvents(p1, p2, cc), Math.round(p1 * p2 / 100), t("probability", cc));
   },
-  wordTravel: (cc) => {
-    const v = randInt(40, 80); const tt = randInt(2, 5);
-    return q(wpTravel(v * tt, v, cc), tt, t("wordProblem", cc), 0, true);
+  probAtLeastOne: (cc) => {
+    // P(A∪B) = P(A) + P(B) - P(A)·P(B) for independent events
+    // Use simple cases: P(neither) = (1-p1)(1-p2), at least one = 1 - that
+    const cases: [number, number, number][] = [[50, 50, 75], [50, 25, 62], [25, 25, 43], [10, 10, 19]];
+    const [p1, p2, res] = pick(cases);
+    return q(qProbAtLeastOne(p1, p2, cc), res, t("probability", cc));
   },
-  wordPrice: (cc) => {
-    const cur = getCurrency(cc);
-    const p = pick([10, 15, 20, 25]); const orig = randInt(4, 12) * 100;
-    return q(wpPriceIncrease(getItems(cc).laptop, orig, p, cur, cc), orig + orig * p / 100, t("wordProblem", cc), 0, true);
+  probFreq: (cc) => {
+    // Relative frequency from experiment
+    const total = pick([20, 25, 40, 50, 100]);
+    const hits = randInt(Math.floor(total * 0.1), Math.floor(total * 0.5));
+    const lang = getLang(cc);
+    let qStr: string;
+    switch(lang) {
+      case "DE": qStr = `In ${total} Würfen landet ein Objekt ${hits}× auf der Seite. Relative Häufigkeit (%) = ?`; break;
+      case "EN": qStr = `In ${total} trials an object lands on a side ${hits} times. Relative frequency (%) = ?`; break;
+      case "RO": qStr = `În ${total} aruncări un obiect cade pe față de ${hits} ori. Frecvența relativă (%) = ?`; break;
+      default:   qStr = `${total} kísérletből ${hits}×-szer esik egy oldalra. Relatív gyakoriság (%) = ?`; break;
+    }
+    return q(qStr, Math.round(hits / total * 100), t("probability", cc));
   },
-  systemEq: (cc) => {
-    // x + y = s1, x - y = s2  →  x = (s1+s2)/2
-    const x = randInt(3, 10), y = randInt(2, x - 1);
-    const s1 = x + y, s2 = x - y;
-    return q(qSystemEq(1, 1, s1, 1, -1, s2, cc), x, t("systemEq", cc));
+
+  // ── Statistics ────────────────────────────────────────────────────────────
+  statsMean8: (cc) => {
+    const nums = Array.from({length: 6}, () => randInt(2, 20));
+    const mean = Math.round(nums.reduce((a, b) => a + b, 0) / nums.length);
+    // rebuild so mean is exact integer
+    const sum = mean * 6;
+    const base = Array.from({length: 5}, () => randInt(2, 18));
+    const last = sum - base.reduce((a, b) => a + b, 0);
+    if (last < 1 || last > 25) {
+      // fallback
+      const s = [4, 6, 8, 10, 12, 14];
+      return q(qStatsMean8(s, cc), 9, t("statistics", cc));
+    }
+    const data = [...base, last].sort((a, b) => a - b);
+    return q(qStatsMean8(data, cc), mean, t("statistics", cc));
   },
+  statsMedian8: (cc) => {
+    const nums = Array.from({length: 7}, () => randInt(1, 25)).sort((a, b) => a - b);
+    return q(qMedianOf(nums, cc), nums[3], t("statistics", cc));
+  },
+  statsMode8: (cc) => {
+    const base = Array.from({length: 5}, () => randInt(1, 15));
+    const mode = pick(base);
+    const nums = [...base, mode, mode].sort((a, b) => a - b);
+    return q(qMode(nums, cc), mode, t("statistics", cc));
+  },
+  statsRange8: (cc) => {
+    const nums = Array.from({length: 6}, () => randInt(1, 40)).sort((a, b) => a - b);
+    return q(qRange(nums, cc), nums[5] - nums[0], t("statistics", cc));
+  },
+  statsBarChart: (cc) => {
+    // Read a bar chart → find category with highest value
+    const lang = getLang(cc);
+    const vals = [randInt(3, 9), randInt(3, 9), randInt(3, 9), randInt(3, 9)];
+    const maxVal = Math.max(...vals);
+    let qStr: string;
+    switch(lang) {
+      case "DE": qStr = `Säulendiagramm: A=${vals[0]}, B=${vals[1]}, C=${vals[2]}, D=${vals[3]}. Was ist der Mittelwert (gerundet)?`; break;
+      case "EN": qStr = `Bar chart: A=${vals[0]}, B=${vals[1]}, C=${vals[2]}, D=${vals[3]}. What is the mean (rounded)?`; break;
+      case "RO": qStr = `Diagramă: A=${vals[0]}, B=${vals[1]}, C=${vals[2]}, D=${vals[3]}. Care este media (rotunjit)?`; break;
+      default:   qStr = `Oszlopdiagram: A=${vals[0]}, B=${vals[1]}, C=${vals[2]}, D=${vals[3]}. Mennyi az átlag (kerekítve)?`; break;
+    }
+    const mean = Math.round((vals[0]+vals[1]+vals[2]+vals[3])/4);
+    return q(qStr, mean, t("statistics", cc));
+  },
+
+  // ── Transformations ───────────────────────────────────────────────────────
+  translatePoint: (cc) => {
+    const x = randInt(1, 5), y = randInt(1, 5);
+    const dx = pick([-3, -2, -1, 1, 2, 3, 4]);
+    const dy = pick([-3, -2, -1, 1, 2, 3]);
+    return q(qTranslatePoint(x, y, dx, dy, cc), x + dx, t("transformation", cc));
+  },
+  reflectX: (cc) => {
+    const x = randInt(1, 6), y = randInt(1, 6);
+    return q(qReflectPointX(x, y, cc), -y, t("transformation", cc));
+  },
+  reflectY: (cc) => {
+    const x = randInt(1, 6), y = randInt(1, 6);
+    return q(qReflectPointY(x, y, cc), -x, t("transformation", cc));
+  },
+  rotate90: (cc) => {
+    // Rotate (x, y) 90° CCW around origin → (-y, x); new y = x
+    const x = randInt(1, 6), y = randInt(1, 6);
+    return q(qRotate90(x, y, cc), x, t("transformation", cc));
+  },
+  scaleFactor: (cc) => {
+    const factor = pick([2, 3, 4]);
+    const orig = randInt(3, 8);
+    return q(qScaleFactor(orig, orig * factor, cc), factor, t("transformation", cc));
+  },
+
+  // ── Surface Area ──────────────────────────────────────────────────────────
+  surfaceCylinder: (cc) => {
+    const r = randInt(2, 5), h = randInt(3, 8);
+    return q(qSurfaceCylinder(r, h, cc), 2 * 3 * r * h, t("surfaceArea", cc));
+  },
+  surfaceBox8: (cc) => {
+    const a = randInt(2, 6), b = randInt(2, 6), c = randInt(2, 6);
+    return q(qSurfaceBox(a, b, c, cc), 2 * (a * b + b * c + a * c), t("surfaceArea", cc));
+  },
+  volumeCylinder: (cc) => {
+    const r = randInt(2, 5), h = randInt(2, 8);
+    return q(qVolumeCylinder(r, h, cc), 3 * r * r * h, t("volume", cc));
+  },
+
+  // ── Inequalities ──────────────────────────────────────────────────────────
   inequality8: (cc) => {
     return pick([
       () => {
@@ -2904,9 +3793,73 @@ const G8: Record<string, Generator> = {
       },
     ])();
   },
-  volumeCylinder: (cc) => {
-    const r = randInt(2, 5), h = randInt(2, 8);
-    return q(qVolumeCylinder(r, h, cc), 3 * r * r * h, t("volume", cc));
+  inequalityCompound: (cc) => {
+    // a < 3x + b < c type, find x range
+    const x1 = randInt(1, 5), x2 = x1 + randInt(2, 4);
+    const a2 = randInt(2, 3);
+    const b2 = randInt(1, 5);
+    const lo = a2 * x1 + b2 - 1, hi = a2 * x2 + b2 + 1;
+    const lang = getLang(cc);
+    let qStr: string;
+    switch(lang) {
+      case "DE": qStr = `Löse: ${lo} < ${a2}x + ${b2} < ${hi}. Kleinster ganzzahliger Wert von x?`; break;
+      case "EN": qStr = `Solve: ${lo} < ${a2}x + ${b2} < ${hi}. Smallest integer value of x?`; break;
+      case "RO": qStr = `Rezolvă: ${lo} < ${a2}x + ${b2} < ${hi}. Cel mai mic x întreg?`; break;
+      default:   qStr = `Oldd meg: ${lo} < ${a2}x + ${b2} < ${hi}. Legkisebb egész x értéke?`; break;
+    }
+    return q(qStr, x1, t("inequality", cc));
+  },
+
+  // ── Complex Expressions ───────────────────────────────────────────────────
+  complexPow: (cc) => {
+    const a = randInt(2, 6); const sq = pick([16, 25, 36, 49]);
+    return q(`${a}² + √${sq} = ?`, a * a + Math.sqrt(sq), t("complex", cc));
+  },
+  complexExpr: (cc) => {
+    const a = randInt(3, 8); const b = randInt(2, 5);
+    return q(qIfAEquals("x", a, `x² - ${b}x`, cc), a * a - b * a, t("complex", cc), -100);
+  },
+  complexMixed: (cc) => {
+    // √n + a² = ?
+    const a = randInt(2, 6);
+    const sq = pick([4, 9, 16, 25, 36]);
+    return q(`√${sq} + ${a}² = ?`, Math.sqrt(sq) + a * a, t("complex", cc));
+  },
+
+  // ── Word Problems ─────────────────────────────────────────────────────────
+  wordTravel: (cc) => {
+    const v = randInt(40, 80); const tt = randInt(2, 5);
+    return q(wpTravel(v * tt, v, cc), tt, t("wordProblem", cc), 0, true);
+  },
+  wordPrice: (cc) => {
+    const cur = getCurrency(cc);
+    const p = pick([10, 15, 20, 25]); const orig = randInt(4, 12) * 100;
+    return q(wpPriceIncrease(getItems(cc).laptop, orig, p, cur, cc), orig + orig * p / 100, t("wordProblem", cc), 0, true);
+  },
+  wordDiscount: (cc) => {
+    const cur = getCurrency(cc);
+    const p = pick([10, 20, 25, 30, 50]); const orig = randInt(4, 20) * 10;
+    return q(wpDiscount(getItems(cc).laptop, orig, p, cur, cc), orig - orig * p / 100, t("wordProblem", cc), 0, true);
+  },
+  wordSpeedSystem: (cc) => {
+    // Catch-up problem
+    const v1 = pick([80, 90, 100]), v2 = pick([50, 60, 70]);
+    if (v1 <= v2) {
+      return q(wpTravel(240, 80, cc), 3, t("wordProblem", cc), 0, true);
+    }
+    const d = pick([30, 40, 60]);
+    const t2 = d / (v1 - v2);
+    if (!Number.isInteger(t2)) {
+      return q(wpTravel(240, 80, cc), 3, t("wordProblem", cc), 0, true);
+    }
+    return q(wpSpeedSystem(d, d, v1, v2, cc), t2, t("wordProblem", cc), 0, true);
+  },
+  wordSystem2: (cc) => {
+    const x = randInt(5, 18), diff = randInt(2, 6);
+    const y = x - diff;
+    const total = x + y;
+    const names = getNames(cc);
+    return q(wpSystemWord(names.girls[0], names.boys[0], total, diff, cc), x, t("wordProblem", cc), 0, true);
   },
 };
 
@@ -2987,11 +3940,11 @@ const CURRICULUM_HU: Record<number, Record<number, PeriodTopics>> = {
     5: { current: [G7.pythag34, G7.pythag68, G7.pythagLeg13, G7.pythagLeg10, G7.wordThink, G7.wordSquare, G7.equation, G7.equationB, G7.volume7], review: [G7.power2, G7.power3, G7.algebraSub, G7.triangleAngle] },
   },
   8: {
-    1: { current: [G8.sqrt, G8.sqrtExpr, G8.eqTwoSide, G8.inequality8], review: [G7.power2, G7.equation] },
-    2: { current: [G8.eqTwoSide, G8.eqSimple, G8.funcValue, G8.systemEq, G8.inequality8], review: [G8.sqrt] },
-    3: { current: [G8.funcValue, G8.funcIntercept, G8.probBall, G8.probCoin, G8.systemEq], review: [G8.sqrt, G8.eqTwoSide] },
-    4: { current: [G8.probBall, G8.probDice, G8.probCoin, G8.complexPow, G8.volumeCylinder], review: [G8.funcValue] },
-    5: { current: [G8.complexPow, G8.complexExpr, G8.wordTravel, G8.wordPrice, G8.probBall, G8.probCoin, G8.systemEq, G8.volumeCylinder], review: [G8.sqrt, G8.eqTwoSide, G8.funcValue] },
+    1: { current: [G8.sqrt, G8.sqrtExpr, G8.sqrtEstimate, G8.quadSimple, G8.eqTwoSide, G8.inequality8], review: [G7.power2, G7.equation] },
+    2: { current: [G8.eqTwoSide, G8.eqSimple, G8.eqFrac8, G8.funcValue, G8.funcSlope, G8.systemEq, G8.inequality8], review: [G8.sqrt, G8.quadSimple] },
+    3: { current: [G8.funcValue, G8.funcNegSlope, G8.funcIntercept, G8.funcSlope, G8.probBall, G8.probCoin, G8.probComplementary, G8.systemEq, G8.systemEqB], review: [G8.sqrt, G8.eqTwoSide] },
+    4: { current: [G8.probBall, G8.probDice, G8.probTwoEvents, G8.probComplementary, G8.statsMean8, G8.statsMedian8, G8.complexPow, G8.volumeCylinder, G8.translatePoint, G8.reflectX], review: [G8.funcValue, G8.systemEq] },
+    5: { current: [G8.complexPow, G8.complexExpr, G8.complexMixed, G8.wordTravel, G8.wordPrice, G8.wordSystem2, G8.probBall, G8.probAtLeastOne, G8.systemEq, G8.volumeCylinder, G8.surfaceCylinder, G8.statsMean8, G8.scaleFactor], review: [G8.sqrt, G8.eqTwoSide, G8.funcValue, G8.quadSimple] },
   },
 };
 
@@ -3025,11 +3978,11 @@ const CURRICULUM_DE: Record<number, Record<number, PeriodTopics>> = {
     5: { current: [G7.pythag34, G7.pythag68, G7.pythagLeg13, G7.pythagLeg10, G7.wordThink, G7.wordSquare, G7.equation, G7.equationB, G7.volume7], review: [G7.power2, G7.power3, G7.algebraSub, G7.triangleAngle] },
   },
   8: {
-    1: { current: [G8.sqrt, G8.sqrtExpr, G8.eqTwoSide, G6.circle, G6.mean], review: [G7.power2, G7.equation] },
-    2: { current: [G8.eqTwoSide, G8.eqSimple, G8.funcValue, G8.systemEq, G6.circle, G6.median], review: [G8.sqrt] },
-    3: { current: [G8.funcValue, G8.funcIntercept, G8.probBall, G8.probCoin, G6.mean, G6.median, G6.circle], review: [G8.sqrt, G8.eqTwoSide] },
-    4: { current: [G8.probBall, G8.probDice, G8.probCoin, G8.complexPow, G8.volumeCylinder, G6.circle], review: [G8.funcValue] },
-    5: { current: [G8.complexPow, G8.complexExpr, G8.wordTravel, G8.wordPrice, G8.probBall, G8.systemEq, G8.volumeCylinder, G6.circle, G6.mean], review: [G8.sqrt, G8.eqTwoSide, G8.funcValue] },
+    1: { current: [G8.sqrt, G8.sqrtExpr, G8.sqrtEstimate, G8.quadSimple, G8.eqTwoSide, G6.circle, G6.mean, G8.statsMean8], review: [G7.power2, G7.equation] },
+    2: { current: [G8.eqTwoSide, G8.eqSimple, G8.eqFrac8, G8.funcValue, G8.funcSlope, G8.systemEq, G6.circle, G6.median, G8.statsMedian8], review: [G8.sqrt, G8.quadSimple] },
+    3: { current: [G8.funcValue, G8.funcNegSlope, G8.funcIntercept, G8.probBall, G8.probCoin, G8.probComplementary, G6.mean, G6.median, G6.circle, G8.systemEqB], review: [G8.sqrt, G8.eqTwoSide] },
+    4: { current: [G8.probBall, G8.probDice, G8.probTwoEvents, G8.complexPow, G8.volumeCylinder, G8.surfaceCylinder, G8.translatePoint, G8.reflectX, G6.circle], review: [G8.funcValue, G8.systemEq] },
+    5: { current: [G8.complexPow, G8.complexExpr, G8.wordTravel, G8.wordPrice, G8.wordSystem2, G8.probBall, G8.probAtLeastOne, G8.systemEq, G8.volumeCylinder, G6.circle, G6.mean, G8.scaleFactor, G8.statsMean8], review: [G8.sqrt, G8.eqTwoSide, G8.funcValue] },
   },
 };
 
@@ -3063,11 +4016,11 @@ const CURRICULUM_RO: Record<number, Record<number, PeriodTopics>> = {
     5: { current: [G7.pythag34, G7.pythag68, G7.pythagLeg13, G7.pythagLeg10, G7.wordThink, G7.wordSquare, G7.equation, G7.equationB, G7.volume7], review: [G7.power2, G7.power3, G7.algebraSub, G7.triangleAngle] },
   },
   8: {
-    1: { current: [G8.sqrt, G8.sqrtExpr, G8.eqTwoSide, G8.inequality8, G6.mean], review: [G7.power2, G7.equation] },
-    2: { current: [G8.eqTwoSide, G8.eqSimple, G8.funcValue, G8.systemEq, G8.inequality8, G6.median], review: [G8.sqrt] },
-    3: { current: [G8.funcValue, G8.funcIntercept, G8.probBall, G8.probCoin, G8.systemEq, G6.mean], review: [G8.sqrt, G8.eqTwoSide] },
-    4: { current: [G8.probBall, G8.probDice, G8.probCoin, G8.complexPow, G8.volumeCylinder, G8.inequality8], review: [G8.funcValue] },
-    5: { current: [G8.complexPow, G8.complexExpr, G8.wordTravel, G8.wordPrice, G8.probBall, G8.probCoin, G8.systemEq, G8.volumeCylinder], review: [G8.sqrt, G8.eqTwoSide, G8.funcValue] },
+    1: { current: [G8.sqrt, G8.sqrtExpr, G8.sqrtEstimate, G8.quadSimple, G8.eqTwoSide, G8.inequality8, G6.mean, G8.statsMean8], review: [G7.power2, G7.equation] },
+    2: { current: [G8.eqTwoSide, G8.eqSimple, G8.eqFrac8, G8.funcValue, G8.funcSlope, G8.systemEq, G8.inequality8, G6.median, G8.statsMedian8], review: [G8.sqrt, G8.quadSimple] },
+    3: { current: [G8.funcValue, G8.funcNegSlope, G8.funcIntercept, G8.probBall, G8.probCoin, G8.probComplementary, G8.systemEq, G8.systemEqB, G6.mean], review: [G8.sqrt, G8.eqTwoSide] },
+    4: { current: [G8.probBall, G8.probDice, G8.probTwoEvents, G8.complexPow, G8.volumeCylinder, G8.surfaceCylinder, G8.inequality8, G8.translatePoint, G8.reflectX], review: [G8.funcValue, G8.systemEq] },
+    5: { current: [G8.complexPow, G8.complexExpr, G8.wordTravel, G8.wordPrice, G8.wordSystem2, G8.probBall, G8.probAtLeastOne, G8.probCoin, G8.systemEq, G8.volumeCylinder, G8.statsMean8, G8.scaleFactor], review: [G8.sqrt, G8.eqTwoSide, G8.funcValue] },
   },
 };
 
@@ -3258,7 +4211,7 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g3_div_cat', name: 'Division', color: '#8B5CF6', icon: '➗', topics: [
       { key: 'g3_div_basic',   name: 'Basic Division',                  color: '#A78BFA', icon: '➗', generators: [G3.div, G3.divB] },
-      { key: 'g3_div_rem',     name: 'Division with Remainder',         color: '#C4B5FD', icon: '➗', generators: [G3.divRelMul, G3.divRemainder] },
+      { key: 'g3_div_rem',     name: 'Division with Remainder',         color: '#C4B5FD', icon: '➗', generators: [G3.divRemainder] },
       { key: 'g3_div_shr',    name: '🎮 Sharing Objects onto Plates',  color: '#DDD6FE', icon: '➗', generators: [] },
     ]},
     { key: 'g3_patterns_cat', name: 'Number Patterns & Logic', color: '#64748B', icon: '🔗', topics: [
@@ -3300,10 +4253,10 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g3_word_cat', name: 'Word Problems', color: '#DC2626', icon: '📖', topics: [
       { key: 'g3_word_add_t',  name: 'Addition Word Problems',          color: '#F87171', icon: '📖', generators: [G3.word1, G3.add1000] },
-      { key: 'g3_word_sub_t',  name: 'Subtraction Word Problems',       color: '#FCA5A5', icon: '📖', generators: [G3.word1, G3.sub1000] },
+      { key: 'g3_word_sub_t',  name: 'Subtraction Word Problems',       color: '#FCA5A5', icon: '📖', generators: [G3.wordSub] },
       { key: 'g3_word_mul_t',  name: 'Multiplication Word Problems',    color: '#F87171', icon: '📖', generators: [G3.word2] },
-      { key: 'g3_word_div_t',  name: 'Division Word Problems',          color: '#FCA5A5', icon: '📖', generators: [G3.word3] },
-      { key: 'g3_word_multi_t', name: 'Multi-step Problems',            color: '#F87171', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
+      { key: 'g3_word_div_t',  name: 'Division Word Problems',          color: '#FCA5A5', icon: '📖', generators: [G3.wordDiv] },
+      { key: 'g3_word_multi_t', name: 'Multi-step Problems',            color: '#F87171', icon: '📖', generators: [G3.word1, G3.wordDiv, G3.wordMulti] },
     ]},
   ],
   4: [
@@ -3340,8 +4293,8 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_balance_vis',      name: 'Balance Scale',                         color: '#059669', icon: '⚖️', generators: [G5.addLarge] },
     ]},
     { key: 'g5_vis_frac', name: 'Visual: Fractions & Decimals', color: '#6366F1', icon: '🖼️', topics: [
-      { key: 'g5_frac_compare_vis', name: 'Fraction Comparison – visual',          color: '#818CF8', icon: '½', generators: [G5.fractionAdd] },
-      { key: 'g5_frac_equiv_vis',   name: 'Equivalent Fractions – visual',         color: '#A5B4FC', icon: '🔄', generators: [G5.fractionAdd] },
+      { key: 'g5_frac_compare_vis', name: 'Fraction Comparison – visual',          color: '#818CF8', icon: '½', generators: [G5.fractionDiff, G5.lcm] },
+      { key: 'g5_frac_equiv_vis',   name: 'Equivalent Fractions – visual',         color: '#A5B4FC', icon: '🔄', generators: [G5.lcm] },
       { key: 'g5_decimal_place_vis',name: 'Decimal Place Value – visual',          color: '#6366F1', icon: '🔟', generators: [G5.decimalRead] },
       { key: 'g5_decimal_line_vis', name: 'Decimal Number Line',                   color: '#4F46E5', icon: '📏', generators: [G5.decimalRead] },
     ]},
@@ -3357,27 +4310,27 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_unit_convert',     name: 'Unit Conversion – visual',              color: '#10B981', icon: '📏', generators: [G5.unitLength] },
     ]},
     { key: 'g5_zahlen', name: 'Numbers & Number System', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'g5_z_million',  name: 'Natural Numbers up to 1,000,000',            color: '#60A5FA', icon: '🔢', generators: [G5.largeNumbers, G5.readLargeNum, G5.compareNums] },
-      { key: 'g5_z_read',    name: 'Reading and Writing Numbers',                  color: '#93C5FD', icon: '📝', generators: [G5.readLargeNum, G5.largeNumbers] },
-      { key: 'g5_z_compare', name: 'Comparing Numbers  (< · > · =)',               color: '#2563EB', icon: '⚖️', generators: [G5.compareNums, G5.largeNumbers] },
-      { key: 'g5_z_order',   name: 'Ordering Numbers',                             color: '#1D4ED8', icon: '📊', generators: [G5.compareNums, G5.largeNumbers, G5.readLargeNum] },
-      { key: 'g5_z_place',   name: 'Place Value',                                  color: '#3B82F6', icon: '🧱', generators: [G5.readLargeNum, G5.largeNumbers] },
-      { key: 'g5_z_expand',  name: 'Expanded Form',                               color: '#60A5FA', icon: '🧩', generators: [G5.readLargeNum, G5.largeNumbers] },
-      { key: 'g5_z_line',    name: 'Number Line',                                  color: '#93C5FD', icon: '📏', generators: [G5.largeNumbers, G5.compareNums] },
-      { key: 'g5_z_neighbor','name': 'Neighboring Numbers',                        color: '#BFDBFE', icon: '↔️', generators: [G5.largeNumbers, G5.addLarge] },
+      { key: 'g5_z_million',  name: 'Natural Numbers up to 1,000,000',            color: '#60A5FA', icon: '🔢', generators: [G5.readLargeNum, G5.compareNums] },
+      { key: 'g5_z_read',    name: 'Reading and Writing Numbers',                  color: '#93C5FD', icon: '📝', generators: [G5.readLargeNum, G5.compareNums] },
+      { key: 'g5_z_compare', name: 'Comparing Numbers  (< · > · =)',               color: '#2563EB', icon: '⚖️', generators: [G5.compareNums, G5.readLargeNum] },
+      { key: 'g5_z_order',   name: 'Ordering Numbers',                             color: '#1D4ED8', icon: '📊', generators: [G5.compareNums, G5.readLargeNum] },
+      { key: 'g5_z_place',   name: 'Place Value',                                  color: '#3B82F6', icon: '🧱', generators: [G5.readLargeNum] },
+      { key: 'g5_z_expand',  name: 'Expanded Form',                               color: '#60A5FA', icon: '🧩', generators: [G5.readLargeNum, G5.addLarge] },
+      { key: 'g5_z_line',    name: 'Number Line',                                  color: '#93C5FD', icon: '📏', generators: [G5.compareNums, G5.addLarge] },
+      { key: 'g5_z_neighbor','name': 'Neighboring Numbers',                        color: '#BFDBFE', icon: '↔️', generators: [G5.addLarge, G5.subLarge] },
     ]},
     { key: 'g5_round', name: 'Rounding & Estimation', color: '#06B6D4', icon: '🎯', topics: [
       { key: 'g5_rnd_10',    name: 'Rounding to Tens',                             color: '#22D3EE', icon: '🎯', generators: [G5.roundHundreds, G5.decimalRound] },
       { key: 'g5_rnd_100',   name: 'Rounding to Hundreds',                         color: '#06B6D4', icon: '🎯', generators: [G5.roundHundreds] },
       { key: 'g5_rnd_1000',  name: 'Rounding to Thousands',                        color: '#0891B2', icon: '🎯', generators: [G5.largeNumbers, G5.roundHundreds] },
-      { key: 'g5_rnd_large', name: 'Rounding to Larger Places (10,000 · 100,000)', color: '#0E7490', icon: '🎯', generators: [G5.largeNumbers, G5.roundHundreds] },
+      { key: 'g5_rnd_large', name: 'Rounding to Larger Places (10,000 · 100,000)', color: '#0E7490', icon: '🎯', generators: [G5.largeNumbers] },
       { key: 'g5_rnd_dec',   name: 'Rounding Decimals',                            color: '#155E75', icon: '🤔', generators: [G5.decimalRound] },
     ]},
     { key: 'g5_add', name: 'Addition', color: '#EF4444', icon: '➕', topics: [
       { key: 'g5_add_mental', name: 'Mental Addition',                             color: '#FCA5A5', icon: '🧠', generators: [G5.addLarge, G5.addComplement100k] },
       { key: 'g5_add_written','name': 'Written Addition',                          color: '#EF4444', icon: '➕', generators: [G5.addLarge] },
       { key: 'g5_add_compl',  name: 'Complement to 100,000',                      color: '#DC2626', icon: '✅', generators: [G5.addComplement100k] },
-      { key: 'g5_add_word',   name: 'Word Problem (Addition)',                     color: '#B91C1C', icon: '📖', generators: [G5.wordAdd, G5.wordFence] },
+      { key: 'g5_add_word',   name: 'Word Problem (Addition)',                     color: '#B91C1C', icon: '📖', generators: [G5.wordAdd] },
     ]},
     { key: 'g5_sub', name: 'Subtraction', color: '#F97316', icon: '➖', topics: [
       { key: 'g5_sub_mental', name: 'Mental Subtraction',                          color: '#FDBA74', icon: '🧠', generators: [G5.subLarge] },
@@ -3386,9 +4339,9 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_sub_word',   name: 'Word Problem (Subtraction)',                  color: '#C2410C', icon: '📖', generators: [G5.wordSub] },
     ]},
     { key: 'g5_mul', name: 'Multiplication', color: '#10B981', icon: '✖️', topics: [
-      { key: 'g5_mul_mental', name: 'Mental Multiplication',                       color: '#6EE7B7', icon: '🧠', generators: [G5.orderOfOps, G5.mulPow10] },
+      { key: 'g5_mul_mental', name: 'Mental Multiplication',                       color: '#6EE7B7', icon: '🧠', generators: [G5.mulTwoDigit, G5.mulPow10] },
       { key: 'g5_mul_written','name': 'Written Multiplication (multi-digit)',       color: '#10B981', icon: '✖️', generators: [G5.mulTwoDigit, G5.mulThreeOne] },
-      { key: 'g5_mul_round',  name: 'Multiplying Round Numbers  (20 × 30)',        color: '#059669', icon: '🔄', generators: [G5.mulPow10, G5.orderOfOps] },
+      { key: 'g5_mul_round',  name: 'Multiplying Round Numbers  (20 × 30)',        color: '#059669', icon: '🔄', generators: [G5.mulPow10, G5.mulTwoDigit] },
       { key: 'g5_mul_pow10',  name: '×10, ×100, ×1000',                            color: '#047857', icon: '🔟', generators: [G5.mulPow10] },
       { key: 'g5_mul_word',   name: 'Word Problem (Multiplication)',               color: '#065F46', icon: '📖', generators: [G5.wordMul] },
     ]},
@@ -3400,11 +4353,11 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_div_word',   name: 'Word Problem (Division)',                     color: '#6D28D9', icon: '📖', generators: [G5.wordDiv] },
     ]},
     { key: 'g5_frac', name: 'Fractions', color: '#6366F1', icon: '½', topics: [
-      { key: 'g5_frac_concept', name: 'Numerator and Denominator',                 color: '#818CF8', icon: '½', generators: [G5.fractionAdd, G5.fractionSub] },
-      { key: 'g5_frac_mixed',   name: 'Mixed Numbers',                             color: '#A5B4FC', icon: '🍕', generators: [G5.mixedNumber, G5.fractionAdd] },
-      { key: 'g5_frac_compare', name: 'Comparing Fractions',                       color: '#6366F1', icon: '⚖️', generators: [G5.fractionAdd, G5.fractionSub, G5.fractionDiff] },
+      { key: 'g5_frac_concept', name: 'Numerator and Denominator',                 color: '#818CF8', icon: '½', generators: [G5.mixedNumber, G5.fractionSub] },
+      { key: 'g5_frac_mixed',   name: 'Mixed Numbers',                             color: '#A5B4FC', icon: '🍕', generators: [G5.mixedNumber] },
+      { key: 'g5_frac_compare', name: 'Comparing Fractions',                       color: '#6366F1', icon: '⚖️', generators: [G5.fractionDiff, G5.lcm] },
       { key: 'g5_frac_simplify','name': 'Simplifying Fractions',                   color: '#4F46E5', icon: '✂️', generators: [G5.gcd, G5.lcm] },
-      { key: 'g5_frac_equiv',   name: 'Equivalent Fractions  (2/4 = 1/2)',         color: '#4338CA', icon: '🔄', generators: [G5.lcm, G5.fractionAdd] },
+      { key: 'g5_frac_equiv',   name: 'Equivalent Fractions  (2/4 = 1/2)',         color: '#4338CA', icon: '🔄', generators: [G5.lcm] },
       { key: 'g5_frac_addsub',  name: 'Adding and Subtracting Fractions',          color: '#3730A3', icon: '➕', generators: [G5.fractionAdd, G5.fractionSub, G5.fractionDiff] },
     ]},
     { key: 'g5_decimal', name: 'Decimal Numbers', color: '#14B8A6', icon: '🔟', topics: [
@@ -3418,13 +4371,13 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_units_len',  name: 'Length  (km · m · cm · mm)',                  color: '#FCD34D', icon: '📏', generators: [G5.unitLength] },
       { key: 'g5_units_mass', name: 'Weight/Mass  (t · kg · g)',                   color: '#FBBF24', icon: '⚖️', generators: [G5.unitMass] },
       { key: 'g5_units_time', name: 'Time  (h · min · s)',                         color: '#F59E0B', icon: '⏱️', generators: [G5.unitTime] },
-      { key: 'g5_units_area', name: 'Area Units  (m² · cm²)',                      color: '#D97706', icon: '⬜', generators: [G5.geoRectArea, G5.squareAreaG5] },
+      { key: 'g5_units_area', name: 'Area Units  (m² · cm²)',                      color: '#D97706', icon: '⬜', generators: [G5.areaUnitConvert] },
       { key: 'g5_units_money','name': 'Money  (€ · cents)',                        color: '#B45309', icon: '💶', generators: [G5.unitMoney, G5.wordDiscount] },
     ]},
     { key: 'g5_geo', name: 'Geometry', color: '#EAB308', icon: '📐', topics: [
       { key: 'g5_geo_shapes', name: 'Properties of Shapes',                        color: '#FDE047', icon: '🔷', generators: [G5.geoRectArea, G5.geoRectPerimeter, G5.triangleAreaG5] },
       { key: 'g5_geo_coord',  name: 'Coordinate System',                           color: '#EAB308', icon: '🗺️', generators: [G5.coordRead] },
-      { key: 'g5_geo_nets',   name: 'Nets and Views',                              color: '#CA8A04', icon: '📦', generators: [G5.geoRectArea, G5.squareAreaG5] },
+      { key: 'g5_geo_nets',   name: 'Nets and Views',                              color: '#CA8A04', icon: '📦', generators: [G5.triangleAreaG5, G5.squareAreaG5] },
     ]},
     { key: 'g5_angles', name: 'Angles', color: '#6366F1', icon: '∠', topics: [
       { key: 'g5_ang_concept', name: 'Angle Concepts',                             color: '#818CF8', icon: '∠', generators: [G4.winkelTyp, G4.winkelKlasse] },
@@ -3441,7 +4394,7 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_area_rect',   name: 'Area of a Rectangle',                        color: '#FBBF24', icon: '⬜', generators: [G5.geoRectArea] },
       { key: 'g5_area_square', name: 'Area of a Square',                           color: '#F59E0B', icon: '🟨', generators: [G5.squareAreaG5] },
       { key: 'g5_area_tri',    name: 'Area of a Triangle',                         color: '#D97706', icon: '🔺', generators: [G5.triangleAreaG5] },
-      { key: 'g5_area_conv',   name: 'Converting Area Units  (m² ↔ cm²)',          color: '#B45309', icon: '🔄', generators: [G5.geoRectArea, G5.squareAreaG5] },
+      { key: 'g5_area_conv',   name: 'Converting Area Units  (m² ↔ cm²)',          color: '#B45309', icon: '🔄', generators: [G5.areaUnitConvert] },
     ]},
     { key: 'g5_symmetry', name: 'Reflection & Symmetry', color: '#EC4899', icon: '🔄', topics: [
       { key: 'g5_sym_axis',    name: 'Lines of Symmetry',                          color: '#F9A8D4', icon: '🔄', generators: [G4.symmetrieAchsen] },
@@ -3453,7 +4406,7 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_stat_table', name: 'Tables and Frequencies',                      color: '#059669', icon: '📋', generators: [G5.chartRead, G5.calcMean] },
     ]},
     { key: 'g5_word', name: 'Word Problems', color: '#EF4444', icon: '📖', topics: [
-      { key: 'g5_word_add',   name: 'Word Problems · Addition',                    color: '#FCA5A5', icon: '➕', generators: [G5.wordAdd, G5.wordFence] },
+      { key: 'g5_word_add',   name: 'Word Problems · Addition',                    color: '#FCA5A5', icon: '➕', generators: [G5.wordAdd] },
       { key: 'g5_word_sub',   name: 'Word Problems · Subtraction',                 color: '#F87171', icon: '➖', generators: [G5.wordSub] },
       { key: 'g5_word_mul',   name: 'Word Problems · Multiplication',              color: '#EF4444', icon: '✖️', generators: [G5.wordMul] },
       { key: 'g5_word_div',   name: 'Word Problems · Division',                    color: '#DC2626', icon: '➗', generators: [G5.wordDiv] },
@@ -3469,51 +4422,218 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
   ],
   6: [
     { key: 'g6_neg', name: 'Negative Numbers', color: '#6366F1', icon: '➖', topics: [
-      { key: 'neg', name: 'Negative Numbers', color: '#818CF8', icon: '➖', generators: [G6.negative, G6.negativeB, G6.negativeC] },
+      { key: 'g6_neg_addsub',   name: 'Adding & Subtracting Negatives',     color: '#818CF8', icon: '➖', generators: [G6.negative, G6.negativeB, G6.negativeC, G6.negSub] },
+      { key: 'g6_neg_mul',      name: 'Multiplying & Dividing Negatives',   color: '#6366F1', icon: '✖️', generators: [G6.negMul] },
+      { key: 'g6_neg_abs',      name: 'Absolute Value  |−5|',               color: '#4F46E5', icon: '|n|', generators: [G6.negAbsolute] },
+      { key: 'g6_neg_compare',  name: 'Comparing Negative Numbers',         color: '#4338CA', icon: '⚖️', generators: [G6.negCompare] },
+      { key: 'g6_neg_word',     name: 'Negative Numbers in Context',        color: '#3730A3', icon: '🌡️', generators: [G6.negTemp, G6.negDebt] },
     ]},
-    { key: 'g6_frac', name: 'Fractions & Percent', color: '#8B5CF6', icon: '½', topics: [
-      { key: 'frac', name: 'Fraction Multiplication & Division', color: '#A78BFA', icon: '½', generators: [G6.fractionMul, G6.fractionDiv] },
-      { key: 'pct', name: 'Percentages', color: '#8B5CF6', icon: '%', generators: [G6.percentCalc, G6.percentDiscount] },
+    { key: 'g6_frac', name: 'Fractions', color: '#8B5CF6', icon: '½', topics: [
+      { key: 'g6_frac_mul',     name: 'Fraction × Whole Number',            color: '#A78BFA', icon: '½', generators: [G6.fractionMul] },
+      { key: 'g6_frac_mulfrac', name: 'Fraction × Fraction',                color: '#8B5CF6', icon: '✖️', generators: [G6.fracMulFrac] },
+      { key: 'g6_frac_div',     name: 'Fraction ÷ Whole Number',            color: '#7C3AED', icon: '➗', generators: [G6.fractionDiv] },
+      { key: 'g6_frac_divfrac', name: 'Fraction ÷ Fraction',                color: '#6D28D9', icon: '➗', generators: [G6.fracDivFrac] },
+      { key: 'g6_frac_diff',    name: 'Unlike Denominators  (+/−)',         color: '#5B21B6', icon: '±', generators: [G6.fractionDiff] },
+      { key: 'g6_frac_pct',     name: 'Fraction ↔ Percent',                 color: '#4C1D95', icon: '%', generators: [G6.fracToPercent] },
     ]},
-    { key: 'g6_ratio', name: 'Ratios & Speed', color: '#10B981', icon: '⚡', topics: [
-      { key: 'ratio', name: 'Ratios & Proportions', color: '#34D399', icon: '⚡', generators: [G6.ratio, G6.speed] },
+    { key: 'g6_pct', name: 'Percentages', color: '#EC4899', icon: '%', topics: [
+      { key: 'g6_pct_of',       name: 'Percent of a Number  (20% of 80)',   color: '#F9A8D4', icon: '%', generators: [G6.percentCalc] },
+      { key: 'g6_pct_what',     name: 'What Percent?  (X is ?% of Y)',      color: '#EC4899', icon: '?%', generators: [G6.percentWhat] },
+      { key: 'g6_pct_base',     name: 'Find the Base  (?% of □ = X)',       color: '#DB2777', icon: '🔍', generators: [G6.percentBase] },
+      { key: 'g6_pct_change',   name: 'Percent Increase & Decrease',        color: '#BE185D', icon: '📈', generators: [G6.percentIncrease, G6.percentDecrease] },
+      { key: 'g6_pct_word',     name: 'Percent Word Problems',              color: '#9D174D', icon: '📖', generators: [G6.percentDiscount, G6.percentTax] },
+      { key: 'g6_percent_bar',  name: 'Percent of 100 Grid  🔢',            color: '#F472B6', icon: '🔢', generators: [G6.percentCalc] },
+    ]},
+    { key: 'g6_ratio', name: 'Ratios & Proportions', color: '#10B981', icon: '⚡', topics: [
+      { key: 'g6_ratio_concept', name: 'Ratio Concept  (a:b)',              color: '#6EE7B7', icon: '⚡', generators: [G6.ratio] },
+      { key: 'g6_ratio_missing', name: 'Proportional Reasoning  (a:b=c:?)', color: '#34D399', icon: '🔄', generators: [G6.ratioMissing] },
+      { key: 'g6_ratio_3',       name: 'Rule of Three  (unit rate)',         color: '#10B981', icon: '3️⃣', generators: [G6.ruleOfThree] },
+      { key: 'g6_ratio_inv',     name: 'Inverse Proportion',                color: '#059669', icon: '↔️', generators: [G6.inverseRatio] },
+      { key: 'g6_ratio_split',   name: 'Sharing in a Ratio',                color: '#047857', icon: '📊', generators: [G6.ratioSplit] },
+      { key: 'g6_ratio_table',   name: 'Ratio Table – Fill In  ⊞',          color: '#34D399', icon: '⊞', generators: [G6.ratioMissing] },
+      { key: 'g6_speed',         name: 'Speed · Distance · Time',           color: '#065F46', icon: '🚗', generators: [G6.speed, G6.speedTime] },
+    ]},
+    { key: 'g6_algebra', name: 'Algebra', color: '#3B82F6', icon: 'x', topics: [
+      { key: 'g6_alg_eval',      name: 'Evaluating Expressions  (3x + 2)',  color: '#93C5FD', icon: 'x', generators: [G6.exprEval] },
+      { key: 'g6_alg_eq1',       name: '1-Step Equations  (x + 5 = 12)',    color: '#3B82F6', icon: '=', generators: [G6.equation1] },
+      { key: 'g6_alg_eq2',       name: '2-Step Equations  (2x + 3 = 11)',   color: '#2563EB', icon: '=', generators: [G6.equation2] },
     ]},
     { key: 'g6_geo', name: 'Geometry', color: '#F59E0B', icon: '📐', topics: [
-      { key: 'geo', name: 'Area (triangles & squares)', color: '#FBBF24', icon: '📐', generators: [G6.areaTriangle, G6.areaSquare] },
+      { key: 'g6_area_tri',      name: 'Area of Triangles',                  color: '#FDE047', icon: '🔺', generators: [G6.areaTriangle] },
+      { key: 'g6_area_para',     name: 'Area of Parallelograms',             color: '#FBBF24', icon: '▱', generators: [G6.areaParallelogram] },
+      { key: 'g6_area_trap',     name: 'Area of Trapezoids',                 color: '#F59E0B', icon: '⏢', generators: [G6.areaTrapezoid] },
+      { key: 'g6_circle',        name: 'Circle  (circumference & area)',     color: '#D97706', icon: '⭕', generators: [G6.circle] },
+      { key: 'g6_surface',       name: 'Surface Area of a Box',              color: '#B45309', icon: '📦', generators: [G6.surfaceBox] },
+      { key: 'g6_volume',        name: 'Volume  (prisms & cubes)',           color: '#92400E', icon: '🧊', generators: [G6.volume] },
+      { key: 'g6_coord4q',       name: 'Coordinate Plane (4 quadrants)',     color: '#CA8A04', icon: '🗺️', generators: [G6.coord4Q] },
+      { key: 'g6_trapezoid_area', name: 'Trapezoid Area – Visual 📐',        color: '#FCD34D', icon: '⏢', generators: [G6.areaTrapezoid] },
+      { key: 'g6_coord_4q',      name: 'Coordinate Quadrant – Visual 🗺️',   color: '#F59E0B', icon: '🗺️', generators: [G6.coord4Q] },
+    ]},
+    { key: 'g6_stats', name: 'Statistics', color: '#14B8A6', icon: '📊', topics: [
+      { key: 'g6_stat_mean',     name: 'Mean (average)',                     color: '#5EEAD4', icon: '📊', generators: [G6.mean] },
+      { key: 'g6_stat_median',   name: 'Median',                             color: '#14B8A6', icon: '📈', generators: [G6.median] },
+      { key: 'g6_stat_mode',     name: 'Mode',                               color: '#0D9488', icon: '🎯', generators: [G6.modeGen] },
+      { key: 'g6_stat_range',    name: 'Range',                              color: '#0F766E', icon: '↔️', generators: [G6.rangeGen] },
+      { key: 'g6_pie_chart',     name: 'Pie Chart – Reading % 🥧',           color: '#2DD4BF', icon: '🥧', generators: [G6.mean] },
     ]},
     { key: 'g6_word', name: 'Word Problems', color: '#EF4444', icon: '📖', topics: [
-      { key: 'word', name: 'Story Problems', color: '#EF4444', icon: '📖', generators: [G6.wordShoe, G6.wordTrain] },
+      { key: 'g6_word_neg',      name: 'Word Problems · Negative Numbers',  color: '#FCA5A5', icon: '🌡️', generators: [G6.negTemp, G6.negDebt] },
+      { key: 'g6_word_ratio',    name: 'Word Problems · Ratios',            color: '#F87171', icon: '⚡', generators: [G6.ruleOfThree, G6.ratioSplit] },
+      { key: 'g6_word_pct',      name: 'Word Problems · Percentages',       color: '#EF4444', icon: '%', generators: [G6.percentDiscount, G6.percentTax] },
+      { key: 'g6_word_speed',    name: 'Word Problems · Speed',             color: '#DC2626', icon: '🚗', generators: [G6.wordTrain, G6.speedTime] },
     ]},
   ],
   7: [
-    { key: 'g7_algebra', name: 'Algebra', color: '#6366F1', icon: 'x', topics: [
-      { key: 'powers', name: 'Powers & Exponents', color: '#818CF8', icon: '²', generators: [G7.power2, G7.power3, G7.power10] },
-      { key: 'algebra', name: 'Algebraic Expressions', color: '#6366F1', icon: 'x', generators: [G7.algebraSub, G7.algebraSimp, G7.algebraMul] },
+    { key: 'g7_powers', name: 'Powers & Exponents', color: '#6366F1', icon: '²', topics: [
+      { key: 'g7_pow_sq',   name: 'Squaring Integers  (n²)',                       color: '#818CF8', icon: '²',  generators: [G7.power2] },
+      { key: 'g7_pow_cube', name: 'Cubing Integers  (n³)',                          color: '#6366F1', icon: '³',  generators: [G7.power3] },
+      { key: 'g7_pow_ten',  name: 'Powers of 10  (10², 10³, 10⁴)',                  color: '#4F46E5', icon: '🔟', generators: [G7.power10] },
+      { key: 'g7_pow_expr', name: 'Expressions with Powers  (a² + b³)',             color: '#4338CA', icon: '✖️', generators: [G7.powerExpr] },
+      { key: 'g7_pow_neg',  name: 'Negative Bases  ((−n)²)',                        color: '#3730A3', icon: '−²', generators: [G7.powerNeg, G7.power2] },
+      { key: 'g7_powers_visual', name: 'Powers Grid – Visual  🟪',                  color: '#6366F1', icon: '🟪', generators: [G7.power2, G7.power3] },
     ]},
-    { key: 'g7_eq', name: 'Equations', color: '#8B5CF6', icon: '=', topics: [
-      { key: 'eq', name: 'Solving Equations', color: '#A78BFA', icon: '=', generators: [G7.equation, G7.equationB] },
+    { key: 'g7_alg', name: 'Algebraic Expressions', color: '#8B5CF6', icon: 'x', topics: [
+      { key: 'g7_alg_eval',    name: 'Evaluating Expressions  (3x + 5, x = 2)',    color: '#A78BFA', icon: 'x',  generators: [G7.algebraEval, G7.algebraSub] },
+      { key: 'g7_alg_collect', name: 'Collecting Like Terms  (4x + 2x = ?x)',      color: '#8B5CF6', icon: '🔗', generators: [G7.algebraSimp] },
+      { key: 'g7_alg_expand',  name: 'Expanding Brackets  a(b + c)',               color: '#7C3AED', icon: '()', generators: [G7.algebraExpand] },
+      { key: 'g7_alg_mul',     name: 'Multiplying Terms  (ax)(bx) = ?x²',          color: '#6D28D9', icon: '✖️', generators: [G7.algebraMul] },
     ]},
-    { key: 'g7_geo', name: 'Geometry & Triangles', color: '#F59E0B', icon: '📐', topics: [
-      { key: 'tri', name: 'Triangle Angles', color: '#FBBF24', icon: '🔺', generators: [G7.triangleAngle, G7.equilateral, G7.isosceles] },
-      { key: 'pyth', name: 'Pythagorean Theorem', color: '#F59E0B', icon: '📐', generators: [G7.pythag34, G7.pythag68, G7.pythagLeg13, G7.pythagLeg10] },
+    { key: 'g7_eq', name: 'Equations', color: '#EC4899', icon: '=', topics: [
+      { key: 'g7_eq_1step',   name: '1-Step Equations  (ax + b = c)',              color: '#F9A8D4', icon: '=',  generators: [G7.equation] },
+      { key: 'g7_eq_2step',   name: '2-Step Equations  (ax − b = c)',              color: '#EC4899', icon: '=',  generators: [G7.equationB] },
+      { key: 'g7_eq_frac',    name: 'Equations with Fractions  (x/a + b = c)',     color: '#DB2777', icon: '½',  generators: [G7.equationFrac] },
+      { key: 'g7_eq_twoside', name: 'Variable on Both Sides  (ax + b = cx + d)',   color: '#BE185D', icon: '⇔',  generators: [G7.equationTwoSide] },
+      { key: 'g7_eq_word',    name: 'Equation Word Problems',                      color: '#9D174D', icon: '📖', generators: [G7.equationWord] },
+    ]},
+    { key: 'g7_ineq', name: 'Inequalities', color: '#14B8A6', icon: '>', topics: [
+      { key: 'g7_ineq_gt',   name: 'Solve  ax + b > c  (smallest integer)',        color: '#5EEAD4', icon: '>',  generators: [G7.inequality] },
+      { key: 'g7_ineq_lt',   name: 'Solve  ax − b < c  (largest integer)',         color: '#14B8A6', icon: '<',  generators: [G7.inequality] },
+      { key: 'g7_ineq_word', name: 'Inequality Word Problems',                     color: '#0D9488', icon: '📖', generators: [G7.inequalityWord] },
+      { key: 'g7_ineq_visual', name: 'Inequality Number Line – Visual  📏',        color: '#14B8A6', icon: '📏', generators: [G7.inequality] },
+    ]},
+    { key: 'g7_tri', name: 'Triangles', color: '#F59E0B', icon: '🔺', topics: [
+      { key: 'g7_tri_sum',   name: 'Angle Sum Theorem  (180°)',                    color: '#FDE047', icon: '∑',  generators: [G7.triangleAngle] },
+      { key: 'g7_tri_equi',  name: 'Equilateral Triangles  (60° each)',            color: '#FBBF24', icon: '△',  generators: [G7.equilateral] },
+      { key: 'g7_tri_iso',   name: 'Isosceles Triangles  (apex angle)',            color: '#F59E0B', icon: '🔺', generators: [G7.isosceles] },
+      { key: 'g7_tri_ext',   name: 'Exterior Angles',                              color: '#D97706', icon: '↗️', generators: [G7.extAngle] },
+      { key: 'g7_tri_word',  name: 'Triangle Word Problems',                       color: '#B45309', icon: '📖', generators: [G7.triangleWord] },
+      { key: 'g7_tri_visual', name: 'Triangle Angles – Visual  🔺',                color: '#FBBF24', icon: '🔺', generators: [G7.triangleAngle] },
+    ]},
+    { key: 'g7_pyth', name: 'Pythagorean Theorem', color: '#10B981', icon: '📐', topics: [
+      { key: 'g7_pyth_hyp',  name: 'Find the Hypotenuse  (a² + b² = c²)',         color: '#6EE7B7', icon: '📐', generators: [G7.pythag34, G7.pythag68] },
+      { key: 'g7_pyth_leg',  name: 'Find a Leg  (c² − a² = b²)',                  color: '#34D399', icon: '📐', generators: [G7.pythagLeg13, G7.pythagLeg10] },
+      { key: 'g7_pyth_mixed','name': 'Mixed Pythagorean Questions',                color: '#10B981', icon: '✳️', generators: [G7.pythag34, G7.pythagLeg13] },
+      { key: 'g7_pyth_word', name: 'Word Problems  (ladder, diagonal)',            color: '#059669', icon: '📖', generators: [G7.pythagWord] },
+      { key: 'g7_pyth_visual', name: 'Pythagorean Theorem – Visual  📐',           color: '#34D399', icon: '📐', generators: [G7.pythag34, G7.pythagLeg13] },
+    ]},
+    { key: 'g7_geo', name: 'Area & Circle Geometry', color: '#0EA5E9', icon: '⭕', topics: [
+      { key: 'g7_geo_circle', name: 'Circumference  C = 2πr',                      color: '#38BDF8', icon: '⭕', generators: [G7.circleG7] },
+      { key: 'g7_geo_circA',  name: 'Area of a Circle  A = πr²',                  color: '#0EA5E9', icon: '🔵', generators: [G7.circleG7] },
+      { key: 'g7_geo_surf',   name: 'Surface Area of a Box  2(ab + bc + ac)',      color: '#0284C7', icon: '📦', generators: [G7.surfaceBox7] },
+      { key: 'g7_circle_visual', name: 'Circle – Visual  ⭕',                      color: '#7DD3FC', icon: '⭕', generators: [G7.circleG7] },
+    ]},
+    { key: 'g7_vol', name: 'Volume', color: '#F97316', icon: '📦', topics: [
+      { key: 'g7_vol_box',   name: 'Volume of a Box  (l × w × h)',                 color: '#FDBA74', icon: '📦', generators: [G7.volume7] },
+      { key: 'g7_vol_cube',  name: 'Volume of a Cube  (a³)',                       color: '#F97316', icon: '🧊', generators: [G7.volume7] },
+      { key: 'g7_vol_cyl',   name: 'Volume of a Cylinder  (πr²h)',                 color: '#EA580C', icon: '🥫', generators: [G7.cylinderVol] },
+      { key: 'g7_cyl_visual', name: 'Cylinder Volume – Visual  🥫',                color: '#FED7AA', icon: '🥫', generators: [G7.cylinderVol] },
+    ]},
+    { key: 'g7_stats', name: 'Statistics', color: '#06B6D4', icon: '📊', topics: [
+      { key: 'g7_stat_median', name: 'Median of a Data Set',                       color: '#67E8F9', icon: '📊', generators: [G7.statsMedian7] },
+      { key: 'g7_stat_mode',   name: 'Mode (most frequent value)',                 color: '#22D3EE', icon: '🎯', generators: [G7.statsMode7] },
+      { key: 'g7_stat_range',  name: 'Range (max − min)',                          color: '#06B6D4', icon: '↔️', generators: [G7.statsRange7] },
+      { key: 'g7_stat_mean',   name: 'Mean (average) Review',                     color: '#0891B2', icon: '📈', generators: [G6.mean] },
+      { key: 'g7_stats_visual', name: 'Statistics – Visual  📊',                  color: '#A5F3FC', icon: '📊', generators: [G7.statsMedian7] },
     ]},
     { key: 'g7_word', name: 'Word Problems', color: '#EF4444', icon: '📖', topics: [
-      { key: 'word', name: 'Story Problems', color: '#EF4444', icon: '📖', generators: [G7.wordThink, G7.wordSquare] },
+      { key: 'g7_word_eq',    name: 'Word Problems · Equations',                   color: '#FCA5A5', icon: '=',  generators: [G7.equationWord] },
+      { key: 'g7_word_geo',   name: 'Word Problems · Geometry',                   color: '#F87171', icon: '📐', generators: [G7.triangleWord, G7.pythagWord] },
+      { key: 'g7_word_speed', name: 'Word Problems · Speed & Travel',             color: '#EF4444', icon: '🚗', generators: [G7.wordTravel7] },
+      { key: 'g7_word_ratio', name: 'Word Problems · Ratios',                     color: '#DC2626', icon: '⚡', generators: [G7.wordRatio7] },
+      { key: 'g7_word_alg',   name: 'Word Problems · Algebra',                   color: '#B91C1C', icon: 'x',  generators: [G7.wordThink, G7.wordSquare] },
     ]},
   ],
   8: [
-    { key: 'g8_algebra', name: 'Algebra & Roots', color: '#6366F1', icon: '√', topics: [
-      { key: 'sqrt', name: 'Square Roots', color: '#818CF8', icon: '√', generators: [G8.sqrt, G8.sqrtExpr] },
-      { key: 'complex', name: 'Complex Expressions', color: '#6366F1', icon: 'x²', generators: [G8.complexPow, G8.complexExpr] },
+    { key: 'g8_sqrt', name: 'Square Roots & Surds', color: '#6366F1', icon: '√', topics: [
+      { key: 'g8_sqrt_basic',    name: 'Perfect Square Roots  (√36 = ?)',             color: '#818CF8', icon: '√',  generators: [G8.sqrt] },
+      { key: 'g8_sqrt_expr',     name: 'Root Expressions  (√25 + 3×2)',               color: '#6366F1', icon: '√+', generators: [G8.sqrtExpr] },
+      { key: 'g8_sqrt_estimate', name: 'Estimate √n Between Integers',                 color: '#4F46E5', icon: '≈',  generators: [G8.sqrtEstimate] },
+      { key: 'g8_sqrt_simplify', name: 'Simplify √n  (√50 = 5√2, find 5)',            color: '#4338CA', icon: '√x', generators: [G8.sqrtSimplify] },
+      { key: 'g8_sqrt_visual',   name: 'Square Root Number Line – Visual  📏',        color: '#818CF8', icon: '📏', generators: [G8.sqrt, G8.sqrtEstimate] },
     ]},
-    { key: 'g8_eq', name: 'Equations', color: '#8B5CF6', icon: '=', topics: [
-      { key: 'eq', name: 'Solving Equations', color: '#A78BFA', icon: '=', generators: [G8.eqSimple, G8.eqTwoSide] },
+    { key: 'g8_quad', name: 'Quadratic Equations', color: '#8B5CF6', icon: 'x²', topics: [
+      { key: 'g8_quad_simple',   name: 'Solve  x² = n  (positive root)',              color: '#A78BFA', icon: 'x²', generators: [G8.quadSimple] },
+      { key: 'g8_quad_shifted',  name: 'Solve  (x+a)² = b',                           color: '#7C3AED', icon: '(x+a)²', generators: [G8.quadShifted] },
+      { key: 'g8_quad_eval',     name: 'Evaluate  ax² + b  (substitute x)',           color: '#6D28D9', icon: 'f(x)', generators: [G8.quadEval] },
+      { key: 'g8_quad_diff',     name: 'Difference of Squares  a² − b²',             color: '#5B21B6', icon: '²−²', generators: [G8.quadDiff] },
+      { key: 'g8_quad_visual',   name: 'Quadratic – Visual  📐',                     color: '#A78BFA', icon: '📐', generators: [G8.quadSimple, G8.quadEval] },
     ]},
-    { key: 'g8_func', name: 'Functions', color: '#10B981', icon: 'f(x)', topics: [
-      { key: 'func', name: 'Linear Functions', color: '#34D399', icon: 'f(x)', generators: [G8.funcValue, G8.funcIntercept] },
+    { key: 'g8_eq', name: 'Equations', color: '#EC4899', icon: '=', topics: [
+      { key: 'g8_eq_simple',    name: '2-Step Equations  (ax − b = c)',               color: '#F9A8D4', icon: '=',  generators: [G8.eqSimple] },
+      { key: 'g8_eq_twoside',   name: 'Variable on Both Sides  (ax+b = cx+d)',        color: '#EC4899', icon: '⇔',  generators: [G8.eqTwoSide] },
+      { key: 'g8_eq_frac',      name: 'Equations with Fractions  (x/a + b = c)',      color: '#DB2777', icon: '½',  generators: [G8.eqFrac8] },
+      { key: 'g8_eq_word',      name: 'Equation Word Problems',                       color: '#9D174D', icon: '📖', generators: [G8.eqWord8] },
+      { key: 'g8_ineq_basic',   name: 'Inequalities  ax+b > c / ax−b < c',           color: '#BE185D', icon: '>',  generators: [G8.inequality8] },
+      { key: 'g8_ineq_compound','name': 'Compound Inequalities  a < ax+b < c',        color: '#9D174D', icon: '‹›', generators: [G8.inequalityCompound] },
+      { key: 'g8_ineq_visual',  name: 'Inequality Number Line – Visual  📏',         color: '#F9A8D4', icon: '📏', generators: [G8.inequality8] },
+    ]},
+    { key: 'g8_system', name: 'Systems of Equations', color: '#0EA5E9', icon: '⇄', topics: [
+      { key: 'g8_sys_add',      name: 'Add/Subtract Method  (x+y=n, x−y=m)',         color: '#38BDF8', icon: '⊕',  generators: [G8.systemEq] },
+      { key: 'g8_sys_coeffs',   name: 'Systems with Coefficients  (2x+y=n)',          color: '#0EA5E9', icon: '×',  generators: [G8.systemEqB] },
+      { key: 'g8_sys_graph',    name: 'Graphical Intersection  f(x) = g(x)',          color: '#0284C7', icon: '📈', generators: [G8.systemGraphical] },
+      { key: 'g8_sys_word',     name: 'System Word Problems',                         color: '#0369A1', icon: '📖', generators: [G8.systemWord, G8.wordSystem2] },
+      { key: 'g8_sys_visual',   name: 'Systems Visual – Balance Scale  ⚖️',          color: '#BAE6FD', icon: '⚖️', generators: [G8.systemEq, G8.systemEqB] },
+    ]},
+    { key: 'g8_func', name: 'Linear Functions', color: '#10B981', icon: 'f(x)', topics: [
+      { key: 'g8_func_value',   name: 'Evaluate  f(x) = mx + b',                     color: '#6EE7B7', icon: 'f(x)', generators: [G8.funcValue] },
+      { key: 'g8_func_neg',     name: 'Negative Slope  f(x) = −mx + b',              color: '#34D399', icon: '↘️', generators: [G8.funcNegSlope] },
+      { key: 'g8_func_slope',   name: 'Calculate Slope from Two Points  m = Δy/Δx',  color: '#10B981', icon: 'm',  generators: [G8.funcSlope] },
+      { key: 'g8_func_intercept','name': 'y-Intercept  f(0) = b',                    color: '#059669', icon: 'b',  generators: [G8.funcIntercept] },
+      { key: 'g8_func_eq',      name: 'Find the Equation  (point + slope → b)',      color: '#047857', icon: '✏️', generators: [G8.funcFindEq] },
+      { key: 'g8_func_word',    name: 'Function Word Problems  (cost, rate)',         color: '#065F46', icon: '📖', generators: [G8.funcWord] },
+      { key: 'g8_func_visual',  name: 'Function Graph – Visual  📈',                 color: '#A7F3D0', icon: '📈', generators: [G8.funcValue, G8.funcSlope] },
     ]},
     { key: 'g8_prob', name: 'Probability', color: '#F59E0B', icon: '🎲', topics: [
-      { key: 'prob', name: 'Probability', color: '#FBBF24', icon: '🎲', generators: [G8.probBall, G8.probDice, G8.probCoin] },
+      { key: 'g8_prob_basic',   name: 'Basic Probability  (balls, coins, dice)',      color: '#FDE047', icon: '🎲', generators: [G8.probBall, G8.probDice, G8.probCoin] },
+      { key: 'g8_prob_comp',    name: 'Complementary Events  P(A\') = 1 − P(A)',     color: '#FBBF24', icon: 'A\'', generators: [G8.probComplementary] },
+      { key: 'g8_prob_two',     name: 'Independent Events  P(A and B)',               color: '#F59E0B', icon: '∩',  generators: [G8.probTwoEvents] },
+      { key: 'g8_prob_atleast', name: 'At Least One  P(A or B)',                      color: '#D97706', icon: '∪',  generators: [G8.probAtLeastOne] },
+      { key: 'g8_prob_freq',    name: 'Relative Frequency from Experiments',          color: '#B45309', icon: '📊', generators: [G8.probFreq] },
+      { key: 'g8_prob_visual',  name: 'Probability Tree – Visual  🌳',               color: '#FEF3C7', icon: '🌳', generators: [G8.probBall, G8.probTwoEvents] },
+    ]},
+    { key: 'g8_stats', name: 'Statistics', color: '#06B6D4', icon: '📊', topics: [
+      { key: 'g8_stat_mean',    name: 'Mean (Arithmetic Average)',                    color: '#67E8F9', icon: '📊', generators: [G8.statsMean8] },
+      { key: 'g8_stat_median',  name: 'Median of a Data Set',                        color: '#22D3EE', icon: '📊', generators: [G8.statsMedian8] },
+      { key: 'g8_stat_mode',    name: 'Mode (Most Frequent Value)',                   color: '#06B6D4', icon: '🎯', generators: [G8.statsMode8] },
+      { key: 'g8_stat_range',   name: 'Range (Max − Min)',                            color: '#0891B2', icon: '↔️', generators: [G8.statsRange8] },
+      { key: 'g8_stat_chart',   name: 'Reading Bar Charts & Averages',               color: '#0E7490', icon: '📈', generators: [G8.statsBarChart] },
+      { key: 'g8_stat_visual',  name: 'Statistics Histogram – Visual  📊',           color: '#A5F3FC', icon: '📊', generators: [G8.statsMean8, G8.statsMedian8] },
+    ]},
+    { key: 'g8_transform', name: 'Transformations', color: '#F97316', icon: '🔄', topics: [
+      { key: 'g8_trans_translate', name: 'Translation of Points  (x+dx, y+dy)',      color: '#FDBA74', icon: '→',  generators: [G8.translatePoint] },
+      { key: 'g8_trans_reflectX',  name: 'Reflection across X-axis  (x, −y)',        color: '#F97316', icon: '↕️', generators: [G8.reflectX] },
+      { key: 'g8_trans_reflectY',  name: 'Reflection across Y-axis  (−x, y)',        color: '#EA580C', icon: '↔️', generators: [G8.reflectY] },
+      { key: 'g8_trans_rotate',    name: 'Rotation 90° Around Origin',               color: '#C2410C', icon: '↺',  generators: [G8.rotate90] },
+      { key: 'g8_trans_scale',     name: 'Scale Factor / Enlargement',               color: '#9A3412', icon: '⤢',  generators: [G8.scaleFactor] },
+      { key: 'g8_trans_visual',    name: 'Transformations on Grid – Visual  🗺️',    color: '#FED7AA', icon: '🗺️', generators: [G8.translatePoint, G8.reflectX] },
+    ]},
+    { key: 'g8_geo', name: 'Geometry & Mensuration', color: '#EF4444', icon: '📐', topics: [
+      { key: 'g8_geo_cyl',      name: 'Volume of Cylinder  πr²h',                    color: '#FCA5A5', icon: '🥫', generators: [G8.volumeCylinder] },
+      { key: 'g8_geo_surf_cyl', name: 'Lateral Surface Area  2πrh',                  color: '#F87171', icon: '🔵', generators: [G8.surfaceCylinder] },
+      { key: 'g8_geo_surf_box', name: 'Surface Area of a Cuboid  2(ab+bc+ac)',       color: '#EF4444', icon: '📦', generators: [G8.surfaceBox8] },
+      { key: 'g8_geo_cyl_visual','name': 'Cylinder Surface – Visual  🥫',            color: '#FEE2E2', icon: '🥫', generators: [G8.volumeCylinder, G8.surfaceCylinder] },
+    ]},
+    { key: 'g8_word', name: 'Word Problems', color: '#84CC16', icon: '📖', topics: [
+      { key: 'g8_word_eq',      name: 'Word Problems · Equations',                   color: '#BEF264', icon: '=',  generators: [G8.eqWord8] },
+      { key: 'g8_word_system',  name: 'Word Problems · Systems',                     color: '#A3E635', icon: '⇄',  generators: [G8.systemWord, G8.wordSystem2] },
+      { key: 'g8_word_func',    name: 'Word Problems · Functions',                   color: '#84CC16', icon: 'f',  generators: [G8.funcWord] },
+      { key: 'g8_word_prob',    name: 'Word Problems · Probability',                 color: '#65A30D', icon: '🎲', generators: [G8.probFreq, G8.probComplementary] },
+      { key: 'g8_word_travel',  name: 'Word Problems · Travel & Speed',              color: '#4D7C0F', icon: '🚗', generators: [G8.wordTravel, G8.wordSpeedSystem] },
+      { key: 'g8_word_price',   name: 'Word Problems · Price & Discount',            color: '#365314', icon: '💰', generators: [G8.wordPrice, G8.wordDiscount] },
+    ]},
+    { key: 'g8_complex', name: 'Mixed Expressions', color: '#7C3AED', icon: 'x²√', topics: [
+      { key: 'g8_cplx_pow',     name: 'Powers + Roots  (a² + √n)',                   color: '#8B5CF6', icon: '²√', generators: [G8.complexPow, G8.complexMixed] },
+      { key: 'g8_cplx_expr',    name: 'Evaluating Complex Expressions',              color: '#7C3AED', icon: 'f(x)', generators: [G8.complexExpr] },
     ]},
   ],
 };
@@ -3670,7 +4790,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g3_div_cat', name: 'Division', color: '#8B5CF6', icon: '➗', topics: [
       { key: 'g3_div_basic',   name: 'Grundlegende Division',               color: '#A78BFA', icon: '➗', generators: [G3.div, G3.divB] },
-      { key: 'g3_div_rem',     name: 'Division mit Rest',                   color: '#C4B5FD', icon: '➗', generators: [G3.divRelMul, G3.divRemainder] },
+      { key: 'g3_div_rem',     name: 'Division mit Rest',                   color: '#C4B5FD', icon: '➗', generators: [G3.divRemainder] },
       { key: 'g3_div_shr',    name: '🎮 Gegenstände auf Teller verteilen',  color: '#DDD6FE', icon: '➗', generators: [] },
     ]},
     { key: 'g3_patterns_cat', name: 'Muster & Logik', color: '#64748B', icon: '🔗', topics: [
@@ -3712,10 +4832,10 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g3_word_cat', name: 'Sachaufgaben', color: '#DC2626', icon: '📖', topics: [
       { key: 'g3_word_add_t',  name: 'Additionsaufgaben',                   color: '#F87171', icon: '📖', generators: [G3.word1] },
-      { key: 'g3_word_sub_t',  name: 'Subtraktionsaufgaben',                color: '#FCA5A5', icon: '📖', generators: [G3.wordSub, G3.word3] },
+      { key: 'g3_word_sub_t',  name: 'Subtraktionsaufgaben',                color: '#FCA5A5', icon: '📖', generators: [G3.wordSub] },
       { key: 'g3_word_mul_t',  name: 'Multiplikationsaufgaben',             color: '#F87171', icon: '📖', generators: [G3.word2] },
-      { key: 'g3_word_div_t',  name: 'Divisionsaufgaben',                   color: '#FCA5A5', icon: '📖', generators: [G3.word3] },
-      { key: 'g3_word_multi_t', name: 'Mehrstufige Aufgaben',               color: '#F87171', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
+      { key: 'g3_word_div_t',  name: 'Divisionsaufgaben',                   color: '#FCA5A5', icon: '📖', generators: [G3.wordDiv] },
+      { key: 'g3_word_multi_t', name: 'Mehrstufige Aufgaben',               color: '#F87171', icon: '📖', generators: [G3.word1, G3.wordDiv, G3.wordMulti] },
     ]},
   ],
   4: [
@@ -3800,8 +4920,8 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_balance_vis',      name: 'Waage – Gleichgewicht',                  color: '#059669', icon: '⚖️', generators: [G5.addLarge] },
     ]},
     { key: 'g5_vis_frac', name: 'Visuell: Brüche & Dezimalen', color: '#6366F1', icon: '🖼️', topics: [
-      { key: 'g5_frac_compare_vis', name: 'Brüche vergleichen – visuell',           color: '#818CF8', icon: '½', generators: [G5.fractionAdd] },
-      { key: 'g5_frac_equiv_vis',   name: 'Gleichwertige Brüche – visuell',         color: '#A5B4FC', icon: '🔄', generators: [G5.fractionAdd] },
+      { key: 'g5_frac_compare_vis', name: 'Brüche vergleichen – visuell',           color: '#818CF8', icon: '½', generators: [G5.fractionDiff, G5.lcm] },
+      { key: 'g5_frac_equiv_vis',   name: 'Gleichwertige Brüche – visuell',         color: '#A5B4FC', icon: '🔄', generators: [G5.lcm] },
       { key: 'g5_decimal_place_vis',name: 'Dezimalzahlen – Stellenwert',            color: '#6366F1', icon: '🔟', generators: [G5.decimalRead] },
       { key: 'g5_decimal_line_vis', name: 'Dezimalzahlen am Zahlenstrahl',          color: '#4F46E5', icon: '📏', generators: [G5.decimalRead] },
     ]},
@@ -3817,27 +4937,27 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_unit_convert',     name: 'Maßeinheiten – visuell',                 color: '#10B981', icon: '📏', generators: [G5.unitLength] },
     ]},
     { key: 'g5_zahlen', name: 'Zahlen und Zahlensystem', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'g5_z_million',  name: 'Natürliche Zahlen bis 1 000 000',      color: '#60A5FA', icon: '🔢', generators: [G5.largeNumbers, G5.readLargeNum, G5.compareNums] },
-      { key: 'g5_z_read',    name: 'Zahlen lesen und schreiben',             color: '#93C5FD', icon: '📝', generators: [G5.readLargeNum, G5.largeNumbers] },
-      { key: 'g5_z_compare', name: 'Zahlen vergleichen  (< · > · =)',       color: '#2563EB', icon: '⚖️', generators: [G5.compareNums, G5.largeNumbers] },
-      { key: 'g5_z_order',   name: 'Zahlen ordnen',                          color: '#1D4ED8', icon: '📊', generators: [G5.compareNums, G5.largeNumbers, G5.readLargeNum] },
-      { key: 'g5_z_place',   name: 'Stellenwerte',                           color: '#3B82F6', icon: '🧱', generators: [G5.readLargeNum, G5.largeNumbers] },
-      { key: 'g5_z_expand',  name: 'Zahlen zerlegen  (Stellenwertschreibweise)', color: '#60A5FA', icon: '🧩', generators: [G5.readLargeNum, G5.largeNumbers] },
-      { key: 'g5_z_line',    name: 'Zahlenstrahl',                           color: '#93C5FD', icon: '📏', generators: [G5.largeNumbers, G5.compareNums] },
-      { key: 'g5_z_neighbor','name': 'Vor- und Nachfolger',                  color: '#BFDBFE', icon: '↔️', generators: [G5.largeNumbers, G5.addLarge] },
+      { key: 'g5_z_million',  name: 'Natürliche Zahlen bis 1 000 000',      color: '#60A5FA', icon: '🔢', generators: [G5.readLargeNum, G5.compareNums] },
+      { key: 'g5_z_read',    name: 'Zahlen lesen und schreiben',             color: '#93C5FD', icon: '📝', generators: [G5.readLargeNum, G5.compareNums] },
+      { key: 'g5_z_compare', name: 'Zahlen vergleichen  (< · > · =)',       color: '#2563EB', icon: '⚖️', generators: [G5.compareNums, G5.readLargeNum] },
+      { key: 'g5_z_order',   name: 'Zahlen ordnen',                          color: '#1D4ED8', icon: '📊', generators: [G5.compareNums, G5.readLargeNum] },
+      { key: 'g5_z_place',   name: 'Stellenwerte',                           color: '#3B82F6', icon: '🧱', generators: [G5.readLargeNum] },
+      { key: 'g5_z_expand',  name: 'Zahlen zerlegen  (Stellenwertschreibweise)', color: '#60A5FA', icon: '🧩', generators: [G5.readLargeNum, G5.addLarge] },
+      { key: 'g5_z_line',    name: 'Zahlenstrahl',                           color: '#93C5FD', icon: '📏', generators: [G5.compareNums, G5.addLarge] },
+      { key: 'g5_z_neighbor','name': 'Vor- und Nachfolger',                  color: '#BFDBFE', icon: '↔️', generators: [G5.addLarge, G5.subLarge] },
     ]},
     { key: 'g5_round', name: 'Runden und Schätzen', color: '#06B6D4', icon: '🎯', topics: [
       { key: 'g5_rnd_10',    name: 'Runden auf Zehner',                      color: '#22D3EE', icon: '🎯', generators: [G5.roundHundreds, G5.decimalRound] },
       { key: 'g5_rnd_100',   name: 'Runden auf Hunderter',                   color: '#06B6D4', icon: '🎯', generators: [G5.roundHundreds] },
       { key: 'g5_rnd_1000',  name: 'Runden auf Tausender',                   color: '#0891B2', icon: '🎯', generators: [G5.largeNumbers, G5.roundHundreds] },
-      { key: 'g5_rnd_large', name: 'Runden auf größere Stellen (10 000, 100 000)', color: '#0E7490', icon: '🎯', generators: [G5.largeNumbers, G5.roundHundreds] },
+      { key: 'g5_rnd_large', name: 'Runden auf größere Stellen (10 000, 100 000)', color: '#0E7490', icon: '🎯', generators: [G5.largeNumbers] },
       { key: 'g5_rnd_dec',   name: 'Dezimalzahlen runden',                   color: '#155E75', icon: '🤔', generators: [G5.decimalRound] },
     ]},
     { key: 'g5_add', name: 'Addition', color: '#EF4444', icon: '➕', topics: [
       { key: 'g5_add_mental', name: 'Kopfrechnen (Addition)',                 color: '#FCA5A5', icon: '🧠', generators: [G5.addLarge, G5.addComplement100k] },
       { key: 'g5_add_written','name': 'Schriftliche Addition',                color: '#EF4444', icon: '➕', generators: [G5.addLarge] },
       { key: 'g5_add_compl',  name: 'Ergänzen auf 100 000',                  color: '#DC2626', icon: '✅', generators: [G5.addComplement100k] },
-      { key: 'g5_add_word',   name: 'Sachaufgabe (Addition)',                 color: '#B91C1C', icon: '📖', generators: [G5.wordAdd, G5.wordFence] },
+      { key: 'g5_add_word',   name: 'Sachaufgabe (Addition)',                 color: '#B91C1C', icon: '📖', generators: [G5.wordAdd] },
     ]},
     { key: 'g5_sub', name: 'Subtraktion', color: '#F97316', icon: '➖', topics: [
       { key: 'g5_sub_mental', name: 'Kopfrechnen (Subtraktion)',              color: '#FDBA74', icon: '🧠', generators: [G5.subLarge] },
@@ -3846,9 +4966,9 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_sub_word',   name: 'Sachaufgabe (Subtraktion)',              color: '#C2410C', icon: '📖', generators: [G5.wordSub] },
     ]},
     { key: 'g5_mul', name: 'Multiplikation', color: '#10B981', icon: '✖️', topics: [
-      { key: 'g5_mul_mental', name: 'Kopfrechnen (Multiplikation)',           color: '#6EE7B7', icon: '🧠', generators: [G5.orderOfOps, G5.mulPow10] },
+      { key: 'g5_mul_mental', name: 'Kopfrechnen (Multiplikation)',           color: '#6EE7B7', icon: '🧠', generators: [G5.mulTwoDigit, G5.mulPow10] },
       { key: 'g5_mul_written','name': 'Schriftliche Multiplikation',          color: '#10B981', icon: '✖️', generators: [G5.mulTwoDigit, G5.mulThreeOne] },
-      { key: 'g5_mul_round',  name: 'Runde Zahlen multiplizieren (20 · 30)', color: '#059669', icon: '🔄', generators: [G5.mulPow10, G5.orderOfOps] },
+      { key: 'g5_mul_round',  name: 'Runde Zahlen multiplizieren (20 · 30)', color: '#059669', icon: '🔄', generators: [G5.mulPow10, G5.mulTwoDigit] },
       { key: 'g5_mul_pow10',  name: '×10, ×100, ×1000',                      color: '#047857', icon: '🔟', generators: [G5.mulPow10] },
       { key: 'g5_mul_word',   name: 'Sachaufgabe (Multiplikation)',           color: '#065F46', icon: '📖', generators: [G5.wordMul] },
     ]},
@@ -3860,11 +4980,11 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_div_word',   name: 'Sachaufgabe (Division)',                 color: '#6D28D9', icon: '📖', generators: [G5.wordDiv] },
     ]},
     { key: 'g5_frac', name: 'Brüche', color: '#6366F1', icon: '½', topics: [
-      { key: 'g5_frac_concept', name: 'Zähler und Nenner',                   color: '#818CF8', icon: '½', generators: [G5.fractionAdd, G5.fractionSub] },
-      { key: 'g5_frac_mixed',   name: 'Gemischte Zahlen',                    color: '#A5B4FC', icon: '🍕', generators: [G5.mixedNumber, G5.fractionAdd] },
-      { key: 'g5_frac_compare', name: 'Brüche vergleichen',                  color: '#6366F1', icon: '⚖️', generators: [G5.fractionAdd, G5.fractionSub, G5.fractionDiff] },
+      { key: 'g5_frac_concept', name: 'Zähler und Nenner',                   color: '#818CF8', icon: '½', generators: [G5.mixedNumber, G5.fractionSub] },
+      { key: 'g5_frac_mixed',   name: 'Gemischte Zahlen',                    color: '#A5B4FC', icon: '🍕', generators: [G5.mixedNumber] },
+      { key: 'g5_frac_compare', name: 'Brüche vergleichen',                  color: '#6366F1', icon: '⚖️', generators: [G5.fractionDiff, G5.lcm] },
       { key: 'g5_frac_simplify','name': 'Brüche kürzen (Vereinfachen)',       color: '#4F46E5', icon: '✂️', generators: [G5.gcd, G5.lcm] },
-      { key: 'g5_frac_equiv',   name: 'Gleichwertige Brüche  (2/4 = 1/2)',   color: '#4338CA', icon: '🔄', generators: [G5.lcm, G5.fractionAdd] },
+      { key: 'g5_frac_equiv',   name: 'Gleichwertige Brüche  (2/4 = 1/2)',   color: '#4338CA', icon: '🔄', generators: [G5.lcm] },
       { key: 'g5_frac_addsub',  name: 'Brüche addieren und subtrahieren',    color: '#3730A3', icon: '➕', generators: [G5.fractionAdd, G5.fractionSub, G5.fractionDiff] },
     ]},
     { key: 'g5_decimal', name: 'Dezimalzahlen', color: '#14B8A6', icon: '🔟', topics: [
@@ -3878,13 +4998,13 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_units_len',  name: 'Längenmaße  (km · m · cm · mm)',        color: '#FCD34D', icon: '📏', generators: [G5.unitLength] },
       { key: 'g5_units_mass', name: 'Gewicht/Masse  (t · kg · g)',           color: '#FBBF24', icon: '⚖️', generators: [G5.unitMass] },
       { key: 'g5_units_time', name: 'Zeitmaße  (h · min · s)',               color: '#F59E0B', icon: '⏱️', generators: [G5.unitTime] },
-      { key: 'g5_units_area', name: 'Flächenmaße  (m² · cm²)',              color: '#D97706', icon: '⬜', generators: [G5.geoRectArea, G5.squareAreaG5] },
+      { key: 'g5_units_area', name: 'Flächenmaße  (m² · cm²)',              color: '#D97706', icon: '⬜', generators: [G5.areaUnitConvert] },
       { key: 'g5_units_money','name': 'Geldrechnung  (€ · Cent)',            color: '#B45309', icon: '💶', generators: [G5.unitMoney, G5.wordDiscount] },
     ]},
     { key: 'g5_geo', name: 'Geometrie', color: '#EAB308', icon: '📐', topics: [
       { key: 'g5_geo_shapes', name: 'Eigenschaften ebener Figuren',          color: '#FDE047', icon: '🔷', generators: [G5.geoRectArea, G5.geoRectPerimeter, G5.triangleAreaG5] },
       { key: 'g5_geo_coord',  name: 'Koordinatensystem',                     color: '#EAB308', icon: '🗺️', generators: [G5.coordRead] },
-      { key: 'g5_geo_nets',   name: 'Netze und Ansichten',                   color: '#CA8A04', icon: '📦', generators: [G5.geoRectArea, G5.squareAreaG5] },
+      { key: 'g5_geo_nets',   name: 'Netze und Ansichten',                   color: '#CA8A04', icon: '📦', generators: [G5.triangleAreaG5, G5.squareAreaG5] },
     ]},
     { key: 'g5_angles', name: 'Winkel', color: '#6366F1', icon: '∠', topics: [
       { key: 'g5_ang_concept', name: 'Winkel: Grundbegriffe',                color: '#818CF8', icon: '∠', generators: [G4.winkelTyp, G4.winkelKlasse] },
@@ -3901,7 +5021,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_area_rect',   name: 'Flächeninhalt Rechteck',               color: '#FBBF24', icon: '⬜', generators: [G5.geoRectArea] },
       { key: 'g5_area_square', name: 'Flächeninhalt Quadrat',                color: '#F59E0B', icon: '🟨', generators: [G5.squareAreaG5] },
       { key: 'g5_area_tri',    name: 'Flächeninhalt Dreieck',                color: '#D97706', icon: '🔺', generators: [G5.triangleAreaG5] },
-      { key: 'g5_area_conv',   name: 'Flächenmaße umrechnen  (m² ↔ cm²)',   color: '#B45309', icon: '🔄', generators: [G5.geoRectArea, G5.squareAreaG5] },
+      { key: 'g5_area_conv',   name: 'Flächenmaße umrechnen  (m² ↔ cm²)',   color: '#B45309', icon: '🔄', generators: [G5.areaUnitConvert] },
     ]},
     { key: 'g5_symmetry', name: 'Spiegelung und Symmetrie', color: '#EC4899', icon: '🔄', topics: [
       { key: 'g5_sym_axis',    name: 'Symmetrieachsen',                      color: '#F9A8D4', icon: '🔄', generators: [G4.symmetrieAchsen] },
@@ -3913,7 +5033,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_stat_table', name: 'Tabellen und Häufigkeiten',            color: '#059669', icon: '📋', generators: [G5.chartRead, G5.calcMean] },
     ]},
     { key: 'g5_word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', topics: [
-      { key: 'g5_word_add',   name: 'Sachaufgaben · Addition',              color: '#FCA5A5', icon: '➕', generators: [G5.wordAdd, G5.wordFence] },
+      { key: 'g5_word_add',   name: 'Sachaufgaben · Addition',              color: '#FCA5A5', icon: '➕', generators: [G5.wordAdd] },
       { key: 'g5_word_sub',   name: 'Sachaufgaben · Subtraktion',           color: '#F87171', icon: '➖', generators: [G5.wordSub] },
       { key: 'g5_word_mul',   name: 'Sachaufgaben · Multiplikation',        color: '#EF4444', icon: '✖️', generators: [G5.wordMul] },
       { key: 'g5_word_div',   name: 'Sachaufgaben · Division',              color: '#DC2626', icon: '➗', generators: [G5.wordDiv] },
@@ -3934,51 +5054,209 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
   ],
   6: [
     { key: 'g6_neg', name: 'Negative Zahlen', color: '#6366F1', icon: '➖', topics: [
-      { key: 'neg', name: 'Negative Zahlen', color: '#818CF8', icon: '➖', generators: [G6.negative, G6.negativeB, G6.negativeC] },
+      { key: 'g6_neg_addsub',   name: 'Addieren & Subtrahieren negativer Zahlen', color: '#818CF8', icon: '➖', generators: [G6.negative, G6.negativeB, G6.negativeC, G6.negSub] },
+      { key: 'g6_neg_mul',      name: 'Multiplizieren & Dividieren (negativ)',    color: '#6366F1', icon: '✖️', generators: [G6.negMul] },
+      { key: 'g6_neg_abs',      name: 'Betrag einer Zahl  |−5|',                 color: '#4F46E5', icon: '|n|', generators: [G6.negAbsolute] },
+      { key: 'g6_neg_compare',  name: 'Negative Zahlen vergleichen',              color: '#4338CA', icon: '⚖️', generators: [G6.negCompare] },
+      { key: 'g6_neg_word',     name: 'Sachaufgaben (Temperatur, Schulden)',      color: '#3730A3', icon: '🌡️', generators: [G6.negTemp, G6.negDebt] },
     ]},
-    { key: 'g6_frac', name: 'Brüche & Prozent', color: '#8B5CF6', icon: '½', topics: [
-      { key: 'frac', name: 'Brüche multiplizieren & dividieren', color: '#A78BFA', icon: '½', generators: [G6.fractionMul, G6.fractionDiv] },
-      { key: 'pct', name: 'Prozentrechnung', color: '#8B5CF6', icon: '%', generators: [G6.percentCalc, G6.percentDiscount] },
+    { key: 'g6_frac', name: 'Brüche', color: '#8B5CF6', icon: '½', topics: [
+      { key: 'g6_frac_mul',     name: 'Bruch × ganze Zahl',                      color: '#A78BFA', icon: '½', generators: [G6.fractionMul] },
+      { key: 'g6_frac_mulfrac', name: 'Bruch × Bruch',                           color: '#8B5CF6', icon: '✖️', generators: [G6.fracMulFrac] },
+      { key: 'g6_frac_div',     name: 'Bruch ÷ ganze Zahl',                      color: '#7C3AED', icon: '➗', generators: [G6.fractionDiv] },
+      { key: 'g6_frac_divfrac', name: 'Bruch ÷ Bruch',                           color: '#6D28D9', icon: '➗', generators: [G6.fracDivFrac] },
+      { key: 'g6_frac_diff',    name: 'Ungleiche Nenner  (+/−)',                  color: '#5B21B6', icon: '±', generators: [G6.fractionDiff] },
+      { key: 'g6_frac_pct',     name: 'Bruch ↔ Prozent',                         color: '#4C1D95', icon: '%', generators: [G6.fracToPercent] },
     ]},
-    { key: 'g6_ratio', name: 'Verhältnis & Geschwindigkeit', color: '#10B981', icon: '⚡', topics: [
-      { key: 'ratio', name: 'Verhältnisse & Proportionen', color: '#34D399', icon: '⚡', generators: [G6.ratio, G6.speed] },
+    { key: 'g6_pct', name: 'Prozentrechnung', color: '#EC4899', icon: '%', topics: [
+      { key: 'g6_pct_of',       name: 'Prozentwert  (20% von 80)',                color: '#F9A8D4', icon: '%', generators: [G6.percentCalc] },
+      { key: 'g6_pct_what',     name: 'Prozentsatz  (X ist ?% von Y)',            color: '#EC4899', icon: '?%', generators: [G6.percentWhat] },
+      { key: 'g6_pct_base',     name: 'Grundwert  (?% von □ = X)',                color: '#DB2777', icon: '🔍', generators: [G6.percentBase] },
+      { key: 'g6_pct_change',   name: 'Prozentuale Zu-/Abnahme',                 color: '#BE185D', icon: '📈', generators: [G6.percentIncrease, G6.percentDecrease] },
+      { key: 'g6_pct_word',     name: 'Sachaufgaben Prozent (Rabatt, MwSt.)',     color: '#9D174D', icon: '📖', generators: [G6.percentDiscount, G6.percentTax] },
+      { key: 'g6_percent_bar',  name: 'Hunderterfeld ablesen 🔢',                 color: '#F472B6', icon: '🔢', generators: [G6.percentCalc] },
+    ]},
+    { key: 'g6_ratio', name: 'Verhältnis & Proportionen', color: '#10B981', icon: '⚡', topics: [
+      { key: 'g6_ratio_concept', name: 'Verhältnis (a:b)',                        color: '#6EE7B7', icon: '⚡', generators: [G6.ratio] },
+      { key: 'g6_ratio_missing', name: 'Proportionen  (a:b = c:?)',               color: '#34D399', icon: '🔄', generators: [G6.ratioMissing] },
+      { key: 'g6_ratio_3',       name: 'Dreisatz (einfach und umgekehrt)',         color: '#10B981', icon: '3️⃣', generators: [G6.ruleOfThree, G6.inverseRatio] },
+      { key: 'g6_ratio_split',   name: 'Aufteilen im Verhältnis',                  color: '#059669', icon: '📊', generators: [G6.ratioSplit] },
+      { key: 'g6_ratio_table',   name: 'Verhältnistabelle ausfüllen ⊞',           color: '#34D399', icon: '⊞', generators: [G6.ratioMissing] },
+      { key: 'g6_speed',         name: 'Geschwindigkeit · Weg · Zeit',             color: '#065F46', icon: '🚗', generators: [G6.speed, G6.speedTime, G6.wordTrain] },
+    ]},
+    { key: 'g6_algebra', name: 'Algebra', color: '#3B82F6', icon: 'x', topics: [
+      { key: 'g6_alg_eval',      name: 'Terme berechnen  (3x + 2 für x = 4)',     color: '#93C5FD', icon: 'x', generators: [G6.exprEval] },
+      { key: 'g6_alg_eq1',       name: 'Einfache Gleichungen  (x + 5 = 12)',      color: '#3B82F6', icon: '=', generators: [G6.equation1] },
+      { key: 'g6_alg_eq2',       name: 'Zweischrittige Gleichungen  (2x+3=11)',   color: '#2563EB', icon: '=', generators: [G6.equation2] },
     ]},
     { key: 'g6_geo', name: 'Geometrie', color: '#F59E0B', icon: '📐', topics: [
-      { key: 'geo', name: 'Flächeninhalt (Dreiecke & Vierecke)', color: '#FBBF24', icon: '📐', generators: [G6.areaTriangle, G6.areaSquare] },
+      { key: 'g6_area_tri',      name: 'Flächeninhalt Dreieck',                   color: '#FDE047', icon: '🔺', generators: [G6.areaTriangle] },
+      { key: 'g6_area_para',     name: 'Flächeninhalt Parallelogramm',            color: '#FBBF24', icon: '▱', generators: [G6.areaParallelogram] },
+      { key: 'g6_area_trap',     name: 'Flächeninhalt Trapez',                    color: '#F59E0B', icon: '⏢', generators: [G6.areaTrapezoid] },
+      { key: 'g6_circle',        name: 'Kreis  (Umfang & Flächeninhalt)',          color: '#D97706', icon: '⭕', generators: [G6.circle] },
+      { key: 'g6_surface',       name: 'Oberfläche eines Quaders',                color: '#B45309', icon: '📦', generators: [G6.surfaceBox] },
+      { key: 'g6_volume',        name: 'Volumen  (Quader & Würfel)',               color: '#92400E', icon: '🧊', generators: [G6.volume] },
+      { key: 'g6_coord4q',       name: 'Koordinatensystem (alle 4 Quadranten)',   color: '#CA8A04', icon: '🗺️', generators: [G6.coord4Q] },
+      { key: 'g6_trapezoid_area', name: 'Trapezfläche – Visuell 📐',              color: '#FCD34D', icon: '⏢', generators: [G6.areaTrapezoid] },
+      { key: 'g6_coord_4q',      name: 'Koordinatenquadrant – Visuell 🗺️',       color: '#F59E0B', icon: '🗺️', generators: [G6.coord4Q] },
+    ]},
+    { key: 'g6_stats', name: 'Statistik', color: '#14B8A6', icon: '📊', topics: [
+      { key: 'g6_stat_mean',     name: 'Mittelwert (Durchschnitt)',                color: '#5EEAD4', icon: '📊', generators: [G6.mean] },
+      { key: 'g6_stat_median',   name: 'Median',                                  color: '#14B8A6', icon: '📈', generators: [G6.median] },
+      { key: 'g6_stat_mode',     name: 'Modus (häufigster Wert)',                 color: '#0D9488', icon: '🎯', generators: [G6.modeGen] },
+      { key: 'g6_stat_range',    name: 'Spannweite',                              color: '#0F766E', icon: '↔️', generators: [G6.rangeGen] },
+      { key: 'g6_pie_chart',     name: 'Kreisdiagramm ablesen 🥧',                color: '#2DD4BF', icon: '🥧', generators: [G6.mean] },
     ]},
     { key: 'g6_word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', topics: [
-      { key: 'word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', generators: [G6.wordShoe, G6.wordTrain] },
+      { key: 'g6_word_neg',      name: 'Sachaufgaben · Negative Zahlen',          color: '#FCA5A5', icon: '🌡️', generators: [G6.negTemp, G6.negDebt] },
+      { key: 'g6_word_ratio',    name: 'Sachaufgaben · Verhältnis',               color: '#F87171', icon: '⚡', generators: [G6.ruleOfThree, G6.ratioSplit] },
+      { key: 'g6_word_pct',      name: 'Sachaufgaben · Prozent',                  color: '#EF4444', icon: '%', generators: [G6.percentDiscount, G6.percentTax] },
+      { key: 'g6_word_speed',    name: 'Sachaufgaben · Geschwindigkeit',          color: '#DC2626', icon: '🚗', generators: [G6.wordTrain, G6.speedTime] },
     ]},
   ],
   7: [
-    { key: 'g7_algebra', name: 'Potenzen & Algebra', color: '#6366F1', icon: 'x', topics: [
-      { key: 'powers', name: 'Potenzen', color: '#818CF8', icon: '²', generators: [G7.power2, G7.power3, G7.power10] },
-      { key: 'algebra', name: 'Terme vereinfachen', color: '#6366F1', icon: 'x', generators: [G7.algebraSub, G7.algebraSimp, G7.algebraMul] },
+    { key: 'g7_powers', name: 'Potenzen', color: '#6366F1', icon: '²', topics: [
+      { key: 'g7_pow_sq',   name: 'Quadratzahlen  (n²)',                           color: '#818CF8', icon: '²',  generators: [G7.power2] },
+      { key: 'g7_pow_cube', name: 'Kubikzahlen  (n³)',                             color: '#6366F1', icon: '³',  generators: [G7.power3] },
+      { key: 'g7_pow_ten',  name: 'Zehnerpotenzen  (10², 10³)',                    color: '#4F46E5', icon: '🔟', generators: [G7.power10] },
+      { key: 'g7_pow_expr', name: 'Rechenausdrücke mit Potenzen',                  color: '#4338CA', icon: '✖️', generators: [G7.powerExpr] },
+      { key: 'g7_pow_neg',  name: 'Negative Basis  ((−n)²)',                       color: '#3730A3', icon: '−²', generators: [G7.powerNeg, G7.power2] },
+      { key: 'g7_powers_visual', name: 'Potenzen – Visuell  🟪',                   color: '#6366F1', icon: '🟪', generators: [G7.power2, G7.power3] },
     ]},
-    { key: 'g7_eq', name: 'Gleichungen', color: '#8B5CF6', icon: '=', topics: [
-      { key: 'eq', name: 'Gleichungen lösen', color: '#A78BFA', icon: '=', generators: [G7.equation, G7.equationB] },
+    { key: 'g7_alg', name: 'Terme & Algebra', color: '#8B5CF6', icon: 'x', topics: [
+      { key: 'g7_alg_eval',    name: 'Terme berechnen  (3x + 5, x = 2)',           color: '#A78BFA', icon: 'x',  generators: [G7.algebraEval, G7.algebraSub] },
+      { key: 'g7_alg_collect', name: 'Gleichartige Terme  (4x + 2x = ?x)',         color: '#8B5CF6', icon: '🔗', generators: [G7.algebraSimp] },
+      { key: 'g7_alg_expand',  name: 'Klammer auflösen  a(b + c)',                 color: '#7C3AED', icon: '()', generators: [G7.algebraExpand] },
+      { key: 'g7_alg_mul',     name: 'Terme multiplizieren  (ax)(bx) = ?x²',      color: '#6D28D9', icon: '✖️', generators: [G7.algebraMul] },
     ]},
-    { key: 'g7_geo', name: 'Geometrie & Dreiecke', color: '#F59E0B', icon: '📐', topics: [
-      { key: 'tri', name: 'Dreieckswinkel', color: '#FBBF24', icon: '🔺', generators: [G7.triangleAngle, G7.equilateral, G7.isosceles] },
-      { key: 'pyth', name: 'Satz des Pythagoras', color: '#F59E0B', icon: '📐', generators: [G7.pythag34, G7.pythag68, G7.pythagLeg13, G7.pythagLeg10] },
+    { key: 'g7_eq', name: 'Gleichungen', color: '#EC4899', icon: '=', topics: [
+      { key: 'g7_eq_1step',   name: 'Einfache Gleichungen  (ax + b = c)',          color: '#F9A8D4', icon: '=',  generators: [G7.equation] },
+      { key: 'g7_eq_2step',   name: 'Zweischrittige Gleichungen  (ax − b = c)',    color: '#EC4899', icon: '=',  generators: [G7.equationB] },
+      { key: 'g7_eq_frac',    name: 'Gleichungen mit Brüchen  (x/a + b = c)',      color: '#DB2777', icon: '½',  generators: [G7.equationFrac] },
+      { key: 'g7_eq_twoside', name: 'Variable auf beiden Seiten  (ax + b = cx)',   color: '#BE185D', icon: '⇔',  generators: [G7.equationTwoSide] },
+      { key: 'g7_eq_word',    name: 'Gleichungsaufgaben (Sachaufgaben)',            color: '#9D174D', icon: '📖', generators: [G7.equationWord] },
+    ]},
+    { key: 'g7_ineq', name: 'Ungleichungen', color: '#14B8A6', icon: '>', topics: [
+      { key: 'g7_ineq_gt',   name: 'ax + b > c  (kleinste ganze Zahl)',            color: '#5EEAD4', icon: '>',  generators: [G7.inequality] },
+      { key: 'g7_ineq_lt',   name: 'ax − b < c  (größte ganze Zahl)',              color: '#14B8A6', icon: '<',  generators: [G7.inequality] },
+      { key: 'g7_ineq_word', name: 'Ungleichungs-Sachaufgaben',                    color: '#0D9488', icon: '📖', generators: [G7.inequalityWord] },
+      { key: 'g7_ineq_visual', name: 'Ungleichung Zahlenstrahl – Visuell  📏',     color: '#14B8A6', icon: '📏', generators: [G7.inequality] },
+    ]},
+    { key: 'g7_tri', name: 'Dreiecke', color: '#F59E0B', icon: '🔺', topics: [
+      { key: 'g7_tri_sum',   name: 'Winkelsumme  (180°)',                          color: '#FDE047', icon: '∑',  generators: [G7.triangleAngle] },
+      { key: 'g7_tri_equi',  name: 'Gleichseitiges Dreieck  (je 60°)',             color: '#FBBF24', icon: '△',  generators: [G7.equilateral] },
+      { key: 'g7_tri_iso',   name: 'Gleichschenkliges Dreieck  (Spitzenwinkel)',   color: '#F59E0B', icon: '🔺', generators: [G7.isosceles] },
+      { key: 'g7_tri_ext',   name: 'Außenwinkel',                                  color: '#D97706', icon: '↗️', generators: [G7.extAngle] },
+      { key: 'g7_tri_word',  name: 'Dreieck-Sachaufgaben',                         color: '#B45309', icon: '📖', generators: [G7.triangleWord] },
+      { key: 'g7_tri_visual', name: 'Dreieckswinkel – Visuell  🔺',                color: '#FBBF24', icon: '🔺', generators: [G7.triangleAngle] },
+    ]},
+    { key: 'g7_pyth', name: 'Satz des Pythagoras', color: '#10B981', icon: '📐', topics: [
+      { key: 'g7_pyth_hyp',  name: 'Hypotenuse berechnen  (a² + b² = c²)',        color: '#6EE7B7', icon: '📐', generators: [G7.pythag34, G7.pythag68] },
+      { key: 'g7_pyth_leg',  name: 'Kathete berechnen  (c² − a² = b²)',           color: '#34D399', icon: '📐', generators: [G7.pythagLeg13, G7.pythagLeg10] },
+      { key: 'g7_pyth_mixed','name': 'Gemischte Pythagoras-Aufgaben',              color: '#10B981', icon: '✳️', generators: [G7.pythag34, G7.pythagLeg13] },
+      { key: 'g7_pyth_word', name: 'Pythagoras Sachaufgaben  (Leiter, Diagonale)', color: '#059669', icon: '📖', generators: [G7.pythagWord] },
+      { key: 'g7_pyth_visual', name: 'Pythagoras – Visuell  📐',                   color: '#34D399', icon: '📐', generators: [G7.pythag34, G7.pythagLeg13] },
+    ]},
+    { key: 'g7_geo', name: 'Flächen & Kreise', color: '#0EA5E9', icon: '⭕', topics: [
+      { key: 'g7_geo_circle', name: 'Kreisumfang  U = 2πr',                        color: '#38BDF8', icon: '⭕', generators: [G7.circleG7] },
+      { key: 'g7_geo_circA',  name: 'Kreisfläche  A = πr²',                        color: '#0EA5E9', icon: '🔵', generators: [G7.circleG7] },
+      { key: 'g7_geo_surf',   name: 'Oberfläche eines Quaders  2(ab + bc + ac)',   color: '#0284C7', icon: '📦', generators: [G7.surfaceBox7] },
+      { key: 'g7_circle_visual', name: 'Kreis – Visuell  ⭕',                      color: '#7DD3FC', icon: '⭕', generators: [G7.circleG7] },
+    ]},
+    { key: 'g7_vol', name: 'Volumen', color: '#F97316', icon: '📦', topics: [
+      { key: 'g7_vol_box',   name: 'Volumen eines Quaders  (l × b × h)',           color: '#FDBA74', icon: '📦', generators: [G7.volume7] },
+      { key: 'g7_vol_cube',  name: 'Volumen eines Würfels  (a³)',                  color: '#F97316', icon: '🧊', generators: [G7.volume7] },
+      { key: 'g7_vol_cyl',   name: 'Volumen eines Zylinders  (πr²h)',              color: '#EA580C', icon: '🥫', generators: [G7.cylinderVol] },
+      { key: 'g7_cyl_visual', name: 'Zylindervolumen – Visuell  🥫',               color: '#FED7AA', icon: '🥫', generators: [G7.cylinderVol] },
+    ]},
+    { key: 'g7_stats', name: 'Statistik', color: '#06B6D4', icon: '📊', topics: [
+      { key: 'g7_stat_median', name: 'Median einer Datenmenge',                    color: '#67E8F9', icon: '📊', generators: [G7.statsMedian7] },
+      { key: 'g7_stat_mode',   name: 'Modalwert (häufigster Wert)',                color: '#22D3EE', icon: '🎯', generators: [G7.statsMode7] },
+      { key: 'g7_stat_range',  name: 'Spannweite (Max − Min)',                     color: '#06B6D4', icon: '↔️', generators: [G7.statsRange7] },
+      { key: 'g7_stat_mean',   name: 'Mittelwert (Wiederholung)',                  color: '#0891B2', icon: '📈', generators: [G6.mean] },
+      { key: 'g7_stats_visual', name: 'Statistik – Visuell  📊',                  color: '#A5F3FC', icon: '📊', generators: [G7.statsMedian7] },
     ]},
     { key: 'g7_word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', topics: [
-      { key: 'word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', generators: [G7.wordThink, G7.wordSquare] },
+      { key: 'g7_word_eq',    name: 'Sachaufgaben · Gleichungen',                  color: '#FCA5A5', icon: '=',  generators: [G7.equationWord] },
+      { key: 'g7_word_geo',   name: 'Sachaufgaben · Geometrie',                   color: '#F87171', icon: '📐', generators: [G7.triangleWord, G7.pythagWord] },
+      { key: 'g7_word_speed', name: 'Sachaufgaben · Geschwindigkeit',              color: '#EF4444', icon: '🚗', generators: [G7.wordTravel7] },
+      { key: 'g7_word_ratio', name: 'Sachaufgaben · Verhältnisse',                color: '#DC2626', icon: '⚡', generators: [G7.wordRatio7] },
+      { key: 'g7_word_alg',   name: 'Sachaufgaben · Algebra',                     color: '#B91C1C', icon: 'x',  generators: [G7.wordThink, G7.wordSquare] },
     ]},
   ],
   8: [
-    { key: 'g8_algebra', name: 'Algebra & Wurzeln', color: '#6366F1', icon: '√', topics: [
-      { key: 'sqrt', name: 'Quadratwurzeln', color: '#818CF8', icon: '√', generators: [G8.sqrt, G8.sqrtExpr] },
-      { key: 'complex', name: 'Terme & Ausdrücke', color: '#6366F1', icon: 'x²', generators: [G8.complexPow, G8.complexExpr] },
+    { key: 'g8_sqrt', name: 'Quadratwurzeln & Surds', color: '#6366F1', icon: '√', topics: [
+      { key: 'g8_sqrt_basic',    name: 'Quadratwurzeln  (√36 = ?)',                  color: '#818CF8', icon: '√',  generators: [G8.sqrt] },
+      { key: 'g8_sqrt_expr',     name: 'Terme mit Wurzeln  (√25 + 3×2)',             color: '#6366F1', icon: '√+', generators: [G8.sqrtExpr] },
+      { key: 'g8_sqrt_estimate', name: 'Wurzel abschätzen (zwischen welchen Zahlen)',  color: '#4F46E5', icon: '≈',  generators: [G8.sqrtEstimate] },
+      { key: 'g8_sqrt_simplify', name: 'Wurzel vereinfachen  (√50 = 5√2, finde 5)', color: '#4338CA', icon: '√x', generators: [G8.sqrtSimplify] },
+      { key: 'g8_sqrt_visual',   name: 'Wurzel auf dem Zahlenstrahl – Visuell  📏', color: '#818CF8', icon: '📏', generators: [G8.sqrt, G8.sqrtEstimate] },
     ]},
-    { key: 'g8_eq', name: 'Gleichungen', color: '#8B5CF6', icon: '=', topics: [
-      { key: 'eq', name: 'Gleichungen lösen', color: '#A78BFA', icon: '=', generators: [G8.eqSimple, G8.eqTwoSide] },
+    { key: 'g8_quad', name: 'Quadratische Gleichungen', color: '#8B5CF6', icon: 'x²', topics: [
+      { key: 'g8_quad_simple',   name: 'Löse  x² = n  (positive Lösung)',            color: '#A78BFA', icon: 'x²', generators: [G8.quadSimple] },
+      { key: 'g8_quad_shifted',  name: 'Löse  (x+a)² = b',                           color: '#7C3AED', icon: '(x+a)²', generators: [G8.quadShifted] },
+      { key: 'g8_quad_eval',     name: 'Auswerten  ax² + b  (x einsetzen)',           color: '#6D28D9', icon: 'f(x)', generators: [G8.quadEval] },
+      { key: 'g8_quad_diff',     name: 'Differenz zweier Quadrate  a² − b²',         color: '#5B21B6', icon: '²−²', generators: [G8.quadDiff] },
+      { key: 'g8_quad_visual',   name: 'Quadratische Gleichung – Visuell  📐',      color: '#A78BFA', icon: '📐', generators: [G8.quadSimple, G8.quadEval] },
     ]},
-    { key: 'g8_func', name: 'Funktionen', color: '#10B981', icon: 'f(x)', topics: [
-      { key: 'func', name: 'Lineare Funktionen', color: '#34D399', icon: 'f(x)', generators: [G8.funcValue, G8.funcIntercept] },
+    { key: 'g8_eq', name: 'Gleichungen', color: '#EC4899', icon: '=', topics: [
+      { key: 'g8_eq_simple',    name: 'Zweischrittige Gleichungen  (ax − b = c)',     color: '#F9A8D4', icon: '=',  generators: [G8.eqSimple] },
+      { key: 'g8_eq_twoside',   name: 'Variable auf beiden Seiten  (ax+b = cx+d)',   color: '#EC4899', icon: '⇔',  generators: [G8.eqTwoSide] },
+      { key: 'g8_eq_frac',      name: 'Gleichungen mit Brüchen  (x/a + b = c)',      color: '#DB2777', icon: '½',  generators: [G8.eqFrac8] },
+      { key: 'g8_eq_word',      name: 'Gleichungs-Sachaufgaben',                     color: '#9D174D', icon: '📖', generators: [G8.eqWord8] },
+      { key: 'g8_ineq_basic',   name: 'Ungleichungen  ax+b > c / ax−b < c',         color: '#BE185D', icon: '>',  generators: [G8.inequality8] },
+      { key: 'g8_ineq_compound','name': 'Doppelte Ungleichung  a < ax+b < c',        color: '#9D174D', icon: '‹›', generators: [G8.inequalityCompound] },
+      { key: 'g8_ineq_visual',  name: 'Ungleichung Zahlenstrahl – Visuell  📏',     color: '#F9A8D4', icon: '📏', generators: [G8.inequality8] },
+    ]},
+    { key: 'g8_system', name: 'Gleichungssysteme', color: '#0EA5E9', icon: '⇄', topics: [
+      { key: 'g8_sys_add',      name: 'Additions-/Subtraktionsmethode  (x+y, x−y)', color: '#38BDF8', icon: '⊕',  generators: [G8.systemEq] },
+      { key: 'g8_sys_coeffs',   name: 'Systeme mit Koeffizienten  (2x+y=n)',         color: '#0EA5E9', icon: '×',  generators: [G8.systemEqB] },
+      { key: 'g8_sys_graph',    name: 'Grafischer Schnittpunkt  f(x) = g(x)',        color: '#0284C7', icon: '📈', generators: [G8.systemGraphical] },
+      { key: 'g8_sys_word',     name: 'Gleichungssystem-Sachaufgaben',               color: '#0369A1', icon: '📖', generators: [G8.systemWord] },
+      { key: 'g8_sys_visual',   name: 'Gleichungssystem – Waage Visuell  ⚖️',       color: '#BAE6FD', icon: '⚖️', generators: [G8.systemEq, G8.systemEqB] },
+    ]},
+    { key: 'g8_func', name: 'Lineare Funktionen', color: '#10B981', icon: 'f(x)', topics: [
+      { key: 'g8_func_value',   name: 'Funktionswert berechnen  f(x) = mx + b',      color: '#6EE7B7', icon: 'f(x)', generators: [G8.funcValue] },
+      { key: 'g8_func_neg',     name: 'Negative Steigung  f(x) = −mx + b',           color: '#34D399', icon: '↘️', generators: [G8.funcNegSlope] },
+      { key: 'g8_func_slope',   name: 'Steigung aus zwei Punkten  m = Δy/Δx',        color: '#10B981', icon: 'm',  generators: [G8.funcSlope] },
+      { key: 'g8_func_intercept','name': 'y-Achsenabschnitt  f(0) = b',              color: '#059669', icon: 'b',  generators: [G8.funcIntercept] },
+      { key: 'g8_func_eq',      name: 'Gleichung bestimmen  (Punkt + Steigung → b)', color: '#047857', icon: '✏️', generators: [G8.funcFindEq] },
+      { key: 'g8_func_word',    name: 'Funktions-Sachaufgaben  (Kosten, Tarif)',      color: '#065F46', icon: '📖', generators: [G8.funcWord] },
+      { key: 'g8_func_visual',  name: 'Funktionsgraph – Visuell  📈',                color: '#A7F3D0', icon: '📈', generators: [G8.funcValue, G8.funcSlope] },
     ]},
     { key: 'g8_prob', name: 'Wahrscheinlichkeit', color: '#F59E0B', icon: '🎲', topics: [
-      { key: 'prob', name: 'Wahrscheinlichkeitsrechnung', color: '#FBBF24', icon: '🎲', generators: [G8.probBall, G8.probDice, G8.probCoin] },
+      { key: 'g8_prob_basic',   name: 'Grundwahrscheinlichkeit  (Kugeln, Münze, Würfel)', color: '#FDE047', icon: '🎲', generators: [G8.probBall, G8.probDice, G8.probCoin] },
+      { key: 'g8_prob_comp',    name: 'Gegenwahrscheinlichkeit  P(Ā) = 1 − P(A)',    color: '#FBBF24', icon: 'Ā',  generators: [G8.probComplementary] },
+      { key: 'g8_prob_two',     name: 'Unabhängige Ereignisse  P(A und B)',           color: '#F59E0B', icon: '∩',  generators: [G8.probTwoEvents] },
+      { key: 'g8_prob_atleast', name: 'Mindestens eines  P(A oder B)',                color: '#D97706', icon: '∪',  generators: [G8.probAtLeastOne] },
+      { key: 'g8_prob_freq',    name: 'Relative Häufigkeit aus Versuchen',            color: '#B45309', icon: '📊', generators: [G8.probFreq] },
+      { key: 'g8_prob_visual',  name: 'Baumdiagramm – Visuell  🌳',                  color: '#FEF3C7', icon: '🌳', generators: [G8.probBall, G8.probTwoEvents] },
+    ]},
+    { key: 'g8_stats', name: 'Statistik', color: '#06B6D4', icon: '📊', topics: [
+      { key: 'g8_stat_mean',    name: 'Arithmetisches Mittel (Mittelwert)',            color: '#67E8F9', icon: '📊', generators: [G8.statsMean8] },
+      { key: 'g8_stat_median',  name: 'Median einer Datenmenge',                      color: '#22D3EE', icon: '📊', generators: [G8.statsMedian8] },
+      { key: 'g8_stat_mode',    name: 'Modalwert (häufigster Wert)',                  color: '#06B6D4', icon: '🎯', generators: [G8.statsMode8] },
+      { key: 'g8_stat_range',   name: 'Spannweite (Max − Min)',                       color: '#0891B2', icon: '↔️', generators: [G8.statsRange8] },
+      { key: 'g8_stat_chart',   name: 'Säulendiagramm lesen & Mittelwert',           color: '#0E7490', icon: '📈', generators: [G8.statsBarChart] },
+      { key: 'g8_stat_visual',  name: 'Histogramm / Säulendiagramm – Visuell  📊',  color: '#A5F3FC', icon: '📊', generators: [G8.statsMean8, G8.statsMedian8] },
+    ]},
+    { key: 'g8_transform', name: 'Geometrische Transformationen', color: '#F97316', icon: '🔄', topics: [
+      { key: 'g8_trans_translate', name: 'Verschiebung (Translation) von Punkten',    color: '#FDBA74', icon: '→',  generators: [G8.translatePoint] },
+      { key: 'g8_trans_reflectX',  name: 'Spiegelung an der x-Achse  (x, −y)',       color: '#F97316', icon: '↕️', generators: [G8.reflectX] },
+      { key: 'g8_trans_reflectY',  name: 'Spiegelung an der y-Achse  (−x, y)',       color: '#EA580C', icon: '↔️', generators: [G8.reflectY] },
+      { key: 'g8_trans_rotate',    name: 'Drehung 90° um den Ursprung',               color: '#C2410C', icon: '↺',  generators: [G8.rotate90] },
+      { key: 'g8_trans_scale',     name: 'Maßstabsfaktor / Streckung',               color: '#9A3412', icon: '⤢',  generators: [G8.scaleFactor] },
+      { key: 'g8_trans_visual',    name: 'Transformationen im Koordinatensystem  🗺️', color: '#FED7AA', icon: '🗺️', generators: [G8.translatePoint, G8.reflectX] },
+    ]},
+    { key: 'g8_geo', name: 'Geometrie & Körper', color: '#EF4444', icon: '📐', topics: [
+      { key: 'g8_geo_cyl',      name: 'Volumen Zylinder  πr²h',                      color: '#FCA5A5', icon: '🥫', generators: [G8.volumeCylinder] },
+      { key: 'g8_geo_surf_cyl', name: 'Mantelfläche Zylinder  2πrh',                 color: '#F87171', icon: '🔵', generators: [G8.surfaceCylinder] },
+      { key: 'g8_geo_surf_box', name: 'Oberfläche Quader  2(ab+bc+ac)',              color: '#EF4444', icon: '📦', generators: [G8.surfaceBox8] },
+      { key: 'g8_geo_cyl_visual','name': 'Zylinder Oberfläche – Visuell  🥫',        color: '#FEE2E2', icon: '🥫', generators: [G8.volumeCylinder, G8.surfaceCylinder] },
+    ]},
+    { key: 'g8_complex', name: 'Gemischte Terme', color: '#7C3AED', icon: 'x²√', topics: [
+      { key: 'g8_cplx_pow',     name: 'Potenzen + Wurzeln  (a² + √n)',               color: '#8B5CF6', icon: '²√', generators: [G8.complexPow, G8.complexMixed] },
+      { key: 'g8_cplx_expr',    name: 'Auswerten gemischter Terme',                  color: '#7C3AED', icon: 'f(x)', generators: [G8.complexExpr] },
     ]},
   ],
 };
@@ -4128,7 +5406,7 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g3_div_cat', name: 'Osztás', color: '#8B5CF6', icon: '➗', topics: [
       { key: 'g3_div_basic',   name: 'Alaposztás',                           color: '#A78BFA', icon: '➗', generators: [G3.div, G3.divB] },
-      { key: 'g3_div_rem',     name: 'Maradékos osztás',                     color: '#C4B5FD', icon: '➗', generators: [G3.divRelMul, G3.divRemainder] },
+      { key: 'g3_div_rem',     name: 'Maradékos osztás',                     color: '#C4B5FD', icon: '➗', generators: [G3.divRemainder] },
       { key: 'g3_div_shr',    name: '🎮 Osztás tányérokra',                  color: '#DDD6FE', icon: '➗', generators: [] },
     ]},
     { key: 'g3_patterns_cat', name: 'Számminták és logika', color: '#64748B', icon: '🔗', topics: [
@@ -4170,10 +5448,10 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g3_word_cat', name: 'Szöveges feladatok', color: '#DC2626', icon: '📖', topics: [
       { key: 'g3_word_add_t',  name: 'Összeadásos feladatok',                color: '#F87171', icon: '📖', generators: [G3.word1, G3.add1000] },
-      { key: 'g3_word_sub_t',  name: 'Kivonásos feladatok',                  color: '#FCA5A5', icon: '📖', generators: [G3.word1, G3.sub1000] },
+      { key: 'g3_word_sub_t',  name: 'Kivonásos feladatok',                  color: '#FCA5A5', icon: '📖', generators: [G3.wordSub] },
       { key: 'g3_word_mul_t',  name: 'Szorzásos feladatok',                  color: '#F87171', icon: '📖', generators: [G3.word2] },
-      { key: 'g3_word_div_t',  name: 'Osztásos feladatok',                   color: '#FCA5A5', icon: '📖', generators: [G3.word3] },
-      { key: 'g3_word_multi_t', name: 'Több lépéses feladatok',              color: '#F87171', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
+      { key: 'g3_word_div_t',  name: 'Osztásos feladatok',                   color: '#FCA5A5', icon: '📖', generators: [G3.wordDiv] },
+      { key: 'g3_word_multi_t', name: 'Több lépéses feladatok',              color: '#F87171', icon: '📖', generators: [G3.word1, G3.wordDiv, G3.wordMulti] },
     ]},
   ],
   4: [
@@ -4210,8 +5488,8 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_balance_vis',      name: 'Mérleg – egyensúly',                      color: '#059669', icon: '⚖️', generators: [G5.addLarge] },
     ]},
     { key: 'g5_vis_frac', name: 'Vizuális: Törtek és tizedes számok', color: '#6366F1', icon: '🖼️', topics: [
-      { key: 'g5_frac_compare_vis', name: 'Törtek összehasonlítása – vizuálisan',    color: '#818CF8', icon: '½', generators: [G5.fractionAdd] },
-      { key: 'g5_frac_equiv_vis',   name: 'Egyenértékű törtek – vizuálisan',         color: '#A5B4FC', icon: '🔄', generators: [G5.fractionAdd] },
+      { key: 'g5_frac_compare_vis', name: 'Törtek összehasonlítása – vizuálisan',    color: '#818CF8', icon: '½', generators: [G5.fractionDiff, G5.lcm] },
+      { key: 'g5_frac_equiv_vis',   name: 'Egyenértékű törtek – vizuálisan',         color: '#A5B4FC', icon: '🔄', generators: [G5.lcm] },
       { key: 'g5_decimal_place_vis',name: 'Tizedes számok – helyiérték',             color: '#6366F1', icon: '🔟', generators: [G5.decimalRead] },
       { key: 'g5_decimal_line_vis', name: 'Tizedes számok számegyenesen',            color: '#4F46E5', icon: '📏', generators: [G5.decimalRead] },
     ]},
@@ -4270,11 +5548,11 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_div_word',   name: 'Szöveges feladat (osztás)',                  color: '#6D28D9', icon: '📖', generators: [G5.wordDiv] },
     ]},
     { key: 'g5_frac', name: 'Törtek', color: '#6366F1', icon: '½', topics: [
-      { key: 'g5_frac_concept', name: 'Számlál és nevező',                        color: '#818CF8', icon: '½', generators: [G5.fractionAdd, G5.mixedNumber] },
-      { key: 'g5_frac_visual',  name: 'Törtek ábrázolása',                        color: '#A5B4FC', icon: '🍕', generators: [G5.fractionAdd, G5.mixedNumber] },
-      { key: 'g5_frac_compare', name: 'Törtek összehasonlítása',                  color: '#6366F1', icon: '⚖️', generators: [G5.fractionAdd, G5.fractionSub] },
+      { key: 'g5_frac_concept', name: 'Számlál és nevező',                        color: '#818CF8', icon: '½', generators: [G5.mixedNumber, G5.fractionSub] },
+      { key: 'g5_frac_visual',  name: 'Törtek ábrázolása',                        color: '#A5B4FC', icon: '🍕', generators: [G5.mixedNumber] },
+      { key: 'g5_frac_compare', name: 'Törtek összehasonlítása',                  color: '#6366F1', icon: '⚖️', generators: [G5.fractionDiff, G5.lcm] },
       { key: 'g5_frac_simplify','name': 'Egyszerűsítés',                          color: '#4F46E5', icon: '✂️', generators: [G5.gcd] },
-      { key: 'g5_frac_equiv',   name: 'Egyenlő törtek  (2/4 = 1/2)',              color: '#4338CA', icon: '🔄', generators: [G5.fractionAdd, G5.mixedNumber] },
+      { key: 'g5_frac_equiv',   name: 'Egyenlő törtek  (2/4 = 1/2)',              color: '#4338CA', icon: '🔄', generators: [G5.lcm] },
       { key: 'g5_frac_addsub',  name: 'Törtek összeadása és kivonása',            color: '#3730A3', icon: '➕', generators: [G5.fractionAdd, G5.fractionSub, G5.fractionDiff] },
     ]},
     { key: 'g5_decimal', name: 'Tizedes számok', color: '#14B8A6', icon: '🔟', topics: [
@@ -4288,13 +5566,13 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_units_len',  name: 'Hossz  (km · m · cm · mm)',                 color: '#FCD34D', icon: '📏', generators: [G5.unitLength] },
       { key: 'g5_units_mass', name: 'Súly/Tömeg  (t · kg · g)',                  color: '#FBBF24', icon: '⚖️', generators: [G5.unitMass] },
       { key: 'g5_units_time', name: 'Idő  (év · hónap · hét · nap · h · perc · s)', color: '#F59E0B', icon: '⏱️', generators: [G5.unitTime] },
-      { key: 'g5_units_area', name: 'Terület  (m² · cm²)',                       color: '#D97706', icon: '⬜', generators: [G5.geoRectArea, G5.squareAreaG5] },
+      { key: 'g5_units_area', name: 'Terület  (m² · cm²)',                       color: '#D97706', icon: '⬜', generators: [G5.areaUnitConvert] },
       { key: 'g5_units_money','name': 'Pénz  (Ft · fillér  /  € · cent)',        color: '#B45309', icon: '💶', generators: [G5.unitMoney, G5.wordAdd] },
     ]},
     { key: 'g5_geo', name: 'Geometria', color: '#EAB308', icon: '📐', topics: [
       { key: 'g5_geo_shapes', name: 'Síkidomok tulajdonságai',                    color: '#FDE047', icon: '🔷', generators: [G5.triangleAreaG5, G5.squareAreaG5] },
       { key: 'g5_geo_coord',  name: 'Koordináta-rendszer',                        color: '#EAB308', icon: '🗺️', generators: [G5.coordRead] },
-      { key: 'g5_geo_nets',   name: 'Hálók és nézetek',                           color: '#CA8A04', icon: '📦', generators: [G5.geoRectArea, G5.squareAreaG5] },
+      { key: 'g5_geo_nets',   name: 'Hálók és nézetek',                           color: '#CA8A04', icon: '📦', generators: [G5.triangleAreaG5, G5.squareAreaG5] },
     ]},
     { key: 'g5_angles', name: 'Szögek', color: '#6366F1', icon: '∠', topics: [
       { key: 'g5_ang_concept', name: 'Szög fogalma',                              color: '#818CF8', icon: '∠', generators: [G4.winkelTyp] },
@@ -4311,7 +5589,7 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_area_sqcm',  name: 'Négyzetcentiméter  (cm²)',                  color: '#FDE68A', icon: '⬛', generators: [G5.geoRectArea] },
       { key: 'g5_area_rect',  name: 'Téglalap területe',                         color: '#FBBF24', icon: '⬜', generators: [G5.geoRectArea] },
       { key: 'g5_area_square','name': 'Négyzet területe',                        color: '#F59E0B', icon: '🟨', generators: [G5.squareAreaG5] },
-      { key: 'g5_area_conv',  name: 'Területmértékek váltása  (m² ↔ cm²)',       color: '#D97706', icon: '🔄', generators: [G5.unitLength, G5.geoRectArea] },
+      { key: 'g5_area_conv',  name: 'Területmértékek váltása  (m² ↔ cm²)',       color: '#D97706', icon: '🔄', generators: [G5.areaUnitConvert] },
     ]},
     { key: 'g5_symmetry', name: 'Tükrözés és szimmetria', color: '#EC4899', icon: '🔄', topics: [
       { key: 'g5_sym_axis',    name: 'Szimmetriatengely',                         color: '#F9A8D4', icon: '🔄', generators: [G4.symmetrieAchsen] },
@@ -4344,51 +5622,209 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
   ],
   6: [
     { key: 'g6_neg', name: 'Negatív számok', color: '#6366F1', icon: '➖', topics: [
-      { key: 'neg', name: 'Negatív számok', color: '#818CF8', icon: '➖', generators: [G6.negative, G6.negativeB, G6.negativeC] },
+      { key: 'g6_neg_addsub',   name: 'Összeadás & kivonás (negatív)',         color: '#818CF8', icon: '➖', generators: [G6.negative, G6.negativeB, G6.negativeC, G6.negSub] },
+      { key: 'g6_neg_mul',      name: 'Szorzás & osztás (negatív)',            color: '#6366F1', icon: '✖️', generators: [G6.negMul] },
+      { key: 'g6_neg_abs',      name: 'Abszolút érték  |−5|',                 color: '#4F46E5', icon: '|n|', generators: [G6.negAbsolute] },
+      { key: 'g6_neg_compare',  name: 'Negatív számok összehasonlítása',      color: '#4338CA', icon: '⚖️', generators: [G6.negCompare] },
+      { key: 'g6_neg_word',     name: 'Szöveges feladatok (hőmérséklet)',     color: '#3730A3', icon: '🌡️', generators: [G6.negTemp, G6.negDebt] },
     ]},
-    { key: 'g6_frac', name: 'Törtek & Százalék', color: '#8B5CF6', icon: '½', topics: [
-      { key: 'frac', name: 'Törtek szorzása & osztása', color: '#A78BFA', icon: '½', generators: [G6.fractionMul, G6.fractionDiv] },
-      { key: 'pct', name: 'Százalékszámítás', color: '#8B5CF6', icon: '%', generators: [G6.percentCalc, G6.percentDiscount] },
+    { key: 'g6_frac', name: 'Törtek', color: '#8B5CF6', icon: '½', topics: [
+      { key: 'g6_frac_mul',     name: 'Tört × egész szám',                    color: '#A78BFA', icon: '½', generators: [G6.fractionMul] },
+      { key: 'g6_frac_mulfrac', name: 'Tört × tört',                          color: '#8B5CF6', icon: '✖️', generators: [G6.fracMulFrac] },
+      { key: 'g6_frac_div',     name: 'Tört ÷ egész szám',                    color: '#7C3AED', icon: '➗', generators: [G6.fractionDiv] },
+      { key: 'g6_frac_divfrac', name: 'Tört ÷ tört',                          color: '#6D28D9', icon: '➗', generators: [G6.fracDivFrac] },
+      { key: 'g6_frac_diff',    name: 'Különböző nevezők (+/−)',              color: '#5B21B6', icon: '±', generators: [G6.fractionDiff] },
+      { key: 'g6_frac_pct',     name: 'Tört ↔ Százalék',                     color: '#4C1D95', icon: '%', generators: [G6.fracToPercent] },
     ]},
-    { key: 'g6_ratio', name: 'Arány & Sebesség', color: '#10B981', icon: '⚡', topics: [
-      { key: 'ratio', name: 'Arány & Arányosság', color: '#34D399', icon: '⚡', generators: [G6.ratio, G6.speed] },
+    { key: 'g6_pct', name: 'Százalékszámítás', color: '#EC4899', icon: '%', topics: [
+      { key: 'g6_pct_of',       name: 'Százalékérték  (20% -a 80-nak)',      color: '#F9A8D4', icon: '%', generators: [G6.percentCalc] },
+      { key: 'g6_pct_what',     name: 'Százalék meghatározása  (X az Y ?%-a)', color: '#EC4899', icon: '?%', generators: [G6.percentWhat] },
+      { key: 'g6_pct_base',     name: 'Alapszám keresése  (□ ?%-a = X)',     color: '#DB2777', icon: '🔍', generators: [G6.percentBase] },
+      { key: 'g6_pct_change',   name: 'Százalékos növekedés/csökkenés',      color: '#BE185D', icon: '📈', generators: [G6.percentIncrease, G6.percentDecrease] },
+      { key: 'g6_pct_word',     name: 'Szöveges feladatok (kedvezmény, áfa)', color: '#9D174D', icon: '📖', generators: [G6.percentDiscount, G6.percentTax] },
+      { key: 'g6_percent_bar',  name: 'Százalék a százsárból 🔢',            color: '#F472B6', icon: '🔢', generators: [G6.percentCalc] },
+    ]},
+    { key: 'g6_ratio', name: 'Arány & Arányosság', color: '#10B981', icon: '⚡', topics: [
+      { key: 'g6_ratio_concept', name: 'Arány fogalma (a:b)',                 color: '#6EE7B7', icon: '⚡', generators: [G6.ratio] },
+      { key: 'g6_ratio_missing', name: 'Arányos számítás  (a:b = c:?)',      color: '#34D399', icon: '🔄', generators: [G6.ratioMissing] },
+      { key: 'g6_ratio_3',       name: 'Egyenes & fordított arányosság',     color: '#10B981', icon: '3️⃣', generators: [G6.ruleOfThree, G6.inverseRatio] },
+      { key: 'g6_ratio_split',   name: 'Arányos felosztás',                  color: '#059669', icon: '📊', generators: [G6.ratioSplit] },
+      { key: 'g6_ratio_table',   name: 'Aránytábla kitöltése ⊞',            color: '#34D399', icon: '⊞', generators: [G6.ratioMissing] },
+      { key: 'g6_speed',         name: 'Sebesség · Út · Idő',               color: '#065F46', icon: '🚗', generators: [G6.speed, G6.speedTime, G6.wordTrain] },
+    ]},
+    { key: 'g6_algebra', name: 'Algebra', color: '#3B82F6', icon: 'x', topics: [
+      { key: 'g6_alg_eval',      name: 'Kifejezések kiértékelése  (3x+2)',   color: '#93C5FD', icon: '=', generators: [G6.exprEval] },
+      { key: 'g6_alg_eq1',       name: 'Egylépéses egyenletek  (x+5=12)',    color: '#3B82F6', icon: '=', generators: [G6.equation1] },
+      { key: 'g6_alg_eq2',       name: 'Kétlépéses egyenletek  (2x+3=11)',  color: '#2563EB', icon: '=', generators: [G6.equation2] },
     ]},
     { key: 'g6_geo', name: 'Geometria', color: '#F59E0B', icon: '📐', topics: [
-      { key: 'geo', name: 'Terület (háromszög & négyzet)', color: '#FBBF24', icon: '📐', generators: [G6.areaTriangle, G6.areaSquare] },
+      { key: 'g6_area_tri',      name: 'Háromszög területe',                 color: '#FDE047', icon: '🔺', generators: [G6.areaTriangle] },
+      { key: 'g6_area_para',     name: 'Paralelogramma területe',            color: '#FBBF24', icon: '▱', generators: [G6.areaParallelogram] },
+      { key: 'g6_area_trap',     name: 'Trapéz területe',                    color: '#F59E0B', icon: '⏢', generators: [G6.areaTrapezoid] },
+      { key: 'g6_circle',        name: 'Kör  (kerület & terület)',           color: '#D97706', icon: '⭕', generators: [G6.circle] },
+      { key: 'g6_surface',       name: 'Téglatest felszíne',                 color: '#B45309', icon: '📦', generators: [G6.surfaceBox] },
+      { key: 'g6_volume',        name: 'Térfogat  (téglatest & kocka)',      color: '#92400E', icon: '🧊', generators: [G6.volume] },
+      { key: 'g6_coord4q',       name: 'Koordináta-rendszer (4 negyed)',     color: '#CA8A04', icon: '🗺️', generators: [G6.coord4Q] },
+      { key: 'g6_trapezoid_area', name: 'Trapéz területe – Vizuális 📐',    color: '#FCD34D', icon: '⏢', generators: [G6.areaTrapezoid] },
+      { key: 'g6_coord_4q',      name: 'Koordináta-negyed – Vizuális 🗺️',  color: '#F59E0B', icon: '🗺️', generators: [G6.coord4Q] },
+    ]},
+    { key: 'g6_stats', name: 'Statisztika', color: '#14B8A6', icon: '📊', topics: [
+      { key: 'g6_stat_mean',     name: 'Átlag (középérték)',                  color: '#5EEAD4', icon: '📊', generators: [G6.mean] },
+      { key: 'g6_stat_median',   name: 'Medián',                             color: '#14B8A6', icon: '📈', generators: [G6.median] },
+      { key: 'g6_stat_mode',     name: 'Módusz (leggyakoribb érték)',        color: '#0D9488', icon: '🎯', generators: [G6.modeGen] },
+      { key: 'g6_stat_range',    name: 'Terjedelem',                         color: '#0F766E', icon: '↔️', generators: [G6.rangeGen] },
+      { key: 'g6_pie_chart',     name: 'Kördiagram olvasása 🥧',             color: '#2DD4BF', icon: '🥧', generators: [G6.mean] },
     ]},
     { key: 'g6_word', name: 'Szöveges feladatok', color: '#EF4444', icon: '📖', topics: [
-      { key: 'word', name: 'Szöveges feladatok', color: '#EF4444', icon: '📖', generators: [G6.wordShoe, G6.wordTrain] },
+      { key: 'g6_word_neg',      name: 'Szöveges · negatív számok',          color: '#FCA5A5', icon: '🌡️', generators: [G6.negTemp, G6.negDebt] },
+      { key: 'g6_word_ratio',    name: 'Szöveges · arányosság',              color: '#F87171', icon: '⚡', generators: [G6.ruleOfThree, G6.ratioSplit] },
+      { key: 'g6_word_pct',      name: 'Szöveges · százalék',               color: '#EF4444', icon: '%', generators: [G6.percentDiscount, G6.percentTax] },
+      { key: 'g6_word_speed',    name: 'Szöveges · sebesség',               color: '#DC2626', icon: '🚗', generators: [G6.wordTrain, G6.speedTime] },
     ]},
   ],
   7: [
-    { key: 'g7_algebra', name: 'Hatványok & Algebra', color: '#6366F1', icon: 'x', topics: [
-      { key: 'powers', name: 'Hatványok', color: '#818CF8', icon: '²', generators: [G7.power2, G7.power3, G7.power10] },
-      { key: 'algebra', name: 'Kifejezések egyszerűsítése', color: '#6366F1', icon: 'x', generators: [G7.algebraSub, G7.algebraSimp, G7.algebraMul] },
+    { key: 'g7_powers', name: 'Hatványok', color: '#6366F1', icon: '²', topics: [
+      { key: 'g7_pow_sq',   name: 'Négyzetszámok  (n²)',                           color: '#818CF8', icon: '²',  generators: [G7.power2] },
+      { key: 'g7_pow_cube', name: 'Köbszámok  (n³)',                               color: '#6366F1', icon: '³',  generators: [G7.power3] },
+      { key: 'g7_pow_ten',  name: 'Tíz hatványai  (10², 10³)',                     color: '#4F46E5', icon: '🔟', generators: [G7.power10] },
+      { key: 'g7_pow_expr', name: 'Hatványos kifejezések  (a² + b³)',              color: '#4338CA', icon: '✖️', generators: [G7.powerExpr] },
+      { key: 'g7_pow_neg',  name: 'Negatív alap  ((−n)²)',                         color: '#3730A3', icon: '−²', generators: [G7.powerNeg, G7.power2] },
+      { key: 'g7_powers_visual', name: 'Hatványok – Vizuális  🟪',                 color: '#6366F1', icon: '🟪', generators: [G7.power2, G7.power3] },
     ]},
-    { key: 'g7_eq', name: 'Egyenletek', color: '#8B5CF6', icon: '=', topics: [
-      { key: 'eq', name: 'Egyenletek megoldása', color: '#A78BFA', icon: '=', generators: [G7.equation, G7.equationB] },
+    { key: 'g7_alg', name: 'Algebrai kifejezések', color: '#8B5CF6', icon: 'x', topics: [
+      { key: 'g7_alg_eval',    name: 'Kifejezések kiértékelése  (3x + 5, x = 2)', color: '#A78BFA', icon: 'x',  generators: [G7.algebraEval, G7.algebraSub] },
+      { key: 'g7_alg_collect', name: 'Hasonló tagok összevonása  (4x + 2x)',       color: '#8B5CF6', icon: '🔗', generators: [G7.algebraSimp] },
+      { key: 'g7_alg_expand',  name: 'Zárójelek felbontása  a(b + c)',             color: '#7C3AED', icon: '()', generators: [G7.algebraExpand] },
+      { key: 'g7_alg_mul',     name: 'Tagok szorzása  (ax)(bx) = ?x²',            color: '#6D28D9', icon: '✖️', generators: [G7.algebraMul] },
     ]},
-    { key: 'g7_geo', name: 'Geometria & Háromszögek', color: '#F59E0B', icon: '📐', topics: [
-      { key: 'tri', name: 'Háromszögek szögei', color: '#FBBF24', icon: '🔺', generators: [G7.triangleAngle, G7.equilateral, G7.isosceles] },
-      { key: 'pyth', name: 'Pitagorasz-tétel', color: '#F59E0B', icon: '📐', generators: [G7.pythag34, G7.pythag68, G7.pythagLeg13, G7.pythagLeg10] },
+    { key: 'g7_eq', name: 'Egyenletek', color: '#EC4899', icon: '=', topics: [
+      { key: 'g7_eq_1step',   name: 'Egyszerű egyenletek  (ax + b = c)',           color: '#F9A8D4', icon: '=',  generators: [G7.equation] },
+      { key: 'g7_eq_2step',   name: 'Kétlépéses egyenletek  (ax − b = c)',         color: '#EC4899', icon: '=',  generators: [G7.equationB] },
+      { key: 'g7_eq_frac',    name: 'Törtes egyenletek  (x/a + b = c)',            color: '#DB2777', icon: '½',  generators: [G7.equationFrac] },
+      { key: 'g7_eq_twoside', name: 'Ismeretlen mindkét oldalon  (ax + b = cx)',   color: '#BE185D', icon: '⇔',  generators: [G7.equationTwoSide] },
+      { key: 'g7_eq_word',    name: 'Szöveges egyenletek',                         color: '#9D174D', icon: '📖', generators: [G7.equationWord] },
+    ]},
+    { key: 'g7_ineq', name: 'Egyenlőtlenségek', color: '#14B8A6', icon: '>', topics: [
+      { key: 'g7_ineq_gt',   name: 'ax + b > c  (legkisebb egész)',               color: '#5EEAD4', icon: '>',  generators: [G7.inequality] },
+      { key: 'g7_ineq_lt',   name: 'ax − b < c  (legnagyobb egész)',              color: '#14B8A6', icon: '<',  generators: [G7.inequality] },
+      { key: 'g7_ineq_word', name: 'Szöveges egyenlőtlenségek',                   color: '#0D9488', icon: '📖', generators: [G7.inequalityWord] },
+      { key: 'g7_ineq_visual', name: 'Egyenlőtlenség számegyenesen – Vizuális 📏', color: '#14B8A6', icon: '📏', generators: [G7.inequality] },
+    ]},
+    { key: 'g7_tri', name: 'Háromszögek', color: '#F59E0B', icon: '🔺', topics: [
+      { key: 'g7_tri_sum',   name: 'Szögeösszeg-tétel  (180°)',                   color: '#FDE047', icon: '∑',  generators: [G7.triangleAngle] },
+      { key: 'g7_tri_equi',  name: 'Szabályos háromszög  (minden szög 60°)',      color: '#FBBF24', icon: '△',  generators: [G7.equilateral] },
+      { key: 'g7_tri_iso',   name: 'Egyenlő szárú háromszög  (csúcsszög)',        color: '#F59E0B', icon: '🔺', generators: [G7.isosceles] },
+      { key: 'g7_tri_ext',   name: 'Külső szögek',                                color: '#D97706', icon: '↗️', generators: [G7.extAngle] },
+      { key: 'g7_tri_word',  name: 'Szöveges háromszög-feladatok',                color: '#B45309', icon: '📖', generators: [G7.triangleWord] },
+      { key: 'g7_tri_visual', name: 'Háromszög szögei – Vizuális  🔺',             color: '#FBBF24', icon: '🔺', generators: [G7.triangleAngle] },
+    ]},
+    { key: 'g7_pyth', name: 'Pitagorasz-tétel', color: '#10B981', icon: '📐', topics: [
+      { key: 'g7_pyth_hyp',  name: 'Átfogó kiszámítása  (a² + b² = c²)',         color: '#6EE7B7', icon: '📐', generators: [G7.pythag34, G7.pythag68] },
+      { key: 'g7_pyth_leg',  name: 'Befogó kiszámítása  (c² − a² = b²)',         color: '#34D399', icon: '📐', generators: [G7.pythagLeg13, G7.pythagLeg10] },
+      { key: 'g7_pyth_mixed','name': 'Vegyes Pitagorasz-feladatok',               color: '#10B981', icon: '✳️', generators: [G7.pythag34, G7.pythagLeg13] },
+      { key: 'g7_pyth_word', name: 'Szöveges feladatok  (létra, átló)',           color: '#059669', icon: '📖', generators: [G7.pythagWord] },
+      { key: 'g7_pyth_visual', name: 'Pitagorasz – Vizuális  📐',                 color: '#34D399', icon: '📐', generators: [G7.pythag34, G7.pythagLeg13] },
+    ]},
+    { key: 'g7_geo', name: 'Területek & Kör', color: '#0EA5E9', icon: '⭕', topics: [
+      { key: 'g7_geo_circle', name: 'Kerület  K = 2πr',                            color: '#38BDF8', icon: '⭕', generators: [G7.circleG7] },
+      { key: 'g7_geo_circA',  name: 'Körterület  T = πr²',                        color: '#0EA5E9', icon: '🔵', generators: [G7.circleG7] },
+      { key: 'g7_geo_surf',   name: 'Téglatest felszíne  2(ab + bc + ac)',         color: '#0284C7', icon: '📦', generators: [G7.surfaceBox7] },
+      { key: 'g7_circle_visual', name: 'Kör – Vizuális  ⭕',                       color: '#7DD3FC', icon: '⭕', generators: [G7.circleG7] },
+    ]},
+    { key: 'g7_vol', name: 'Térfogat', color: '#F97316', icon: '📦', topics: [
+      { key: 'g7_vol_box',   name: 'Téglatest térfogata  (a × b × c)',            color: '#FDBA74', icon: '📦', generators: [G7.volume7] },
+      { key: 'g7_vol_cube',  name: 'Kocka térfogata  (a³)',                        color: '#F97316', icon: '🧊', generators: [G7.volume7] },
+      { key: 'g7_vol_cyl',   name: 'Henger térfogata  (πr²h)',                    color: '#EA580C', icon: '🥫', generators: [G7.cylinderVol] },
+      { key: 'g7_cyl_visual', name: 'Henger térfogat – Vizuális  🥫',             color: '#FED7AA', icon: '🥫', generators: [G7.cylinderVol] },
+    ]},
+    { key: 'g7_stats', name: 'Statisztika', color: '#06B6D4', icon: '📊', topics: [
+      { key: 'g7_stat_median', name: 'Medián meghatározása',                       color: '#67E8F9', icon: '📊', generators: [G7.statsMedian7] },
+      { key: 'g7_stat_mode',   name: 'Módusz (leggyakoribb érték)',                color: '#22D3EE', icon: '🎯', generators: [G7.statsMode7] },
+      { key: 'g7_stat_range',  name: 'Terjedelem (max − min)',                     color: '#06B6D4', icon: '↔️', generators: [G7.statsRange7] },
+      { key: 'g7_stat_mean',   name: 'Átlag (ismétlés)',                           color: '#0891B2', icon: '📈', generators: [G6.mean] },
+      { key: 'g7_stats_visual', name: 'Statisztika – Vizuális  📊',               color: '#A5F3FC', icon: '📊', generators: [G7.statsMedian7] },
     ]},
     { key: 'g7_word', name: 'Szöveges feladatok', color: '#EF4444', icon: '📖', topics: [
-      { key: 'word', name: 'Szöveges feladatok', color: '#EF4444', icon: '📖', generators: [G7.wordThink, G7.wordSquare] },
+      { key: 'g7_word_eq',    name: 'Szöveges feladatok · Egyenletek',            color: '#FCA5A5', icon: '=',  generators: [G7.equationWord] },
+      { key: 'g7_word_geo',   name: 'Szöveges feladatok · Geometria',             color: '#F87171', icon: '📐', generators: [G7.triangleWord, G7.pythagWord] },
+      { key: 'g7_word_speed', name: 'Szöveges feladatok · Sebesség & Utazás',     color: '#EF4444', icon: '🚗', generators: [G7.wordTravel7] },
+      { key: 'g7_word_ratio', name: 'Szöveges feladatok · Arányok',               color: '#DC2626', icon: '⚡', generators: [G7.wordRatio7] },
+      { key: 'g7_word_alg',   name: 'Szöveges feladatok · Algebra',               color: '#B91C1C', icon: 'x',  generators: [G7.wordThink, G7.wordSquare] },
     ]},
   ],
   8: [
-    { key: 'g8_algebra', name: 'Algebra & Gyökök', color: '#6366F1', icon: '√', topics: [
-      { key: 'sqrt', name: 'Négyzetgyökök', color: '#818CF8', icon: '√', generators: [G8.sqrt, G8.sqrtExpr] },
-      { key: 'complex', name: 'Összetett kifejezések', color: '#6366F1', icon: 'x²', generators: [G8.complexPow, G8.complexExpr] },
+    { key: 'g8_sqrt', name: 'Négyzetgyökök & Surds', color: '#6366F1', icon: '√', topics: [
+      { key: 'g8_sqrt_basic',    name: 'Négyzetgyökök  (√36 = ?)',                   color: '#818CF8', icon: '√',  generators: [G8.sqrt] },
+      { key: 'g8_sqrt_expr',     name: 'Gyök-kifejezések  (√25 + 3×2)',              color: '#6366F1', icon: '√+', generators: [G8.sqrtExpr] },
+      { key: 'g8_sqrt_estimate', name: 'Gyök becslése (melyik egészek közé esik)',    color: '#4F46E5', icon: '≈',  generators: [G8.sqrtEstimate] },
+      { key: 'g8_sqrt_simplify', name: 'Gyök egyszerűsítés  (√50 = 5√2, add meg 5)', color: '#4338CA', icon: '√x', generators: [G8.sqrtSimplify] },
+      { key: 'g8_sqrt_visual',   name: 'Gyök a számegyenesen – Vizuális  📏',       color: '#818CF8', icon: '📏', generators: [G8.sqrt, G8.sqrtEstimate] },
     ]},
-    { key: 'g8_eq', name: 'Egyenletek', color: '#8B5CF6', icon: '=', topics: [
-      { key: 'eq', name: 'Egyenletek megoldása', color: '#A78BFA', icon: '=', generators: [G8.eqSimple, G8.eqTwoSide] },
+    { key: 'g8_quad', name: 'Másodfokú egyenletek', color: '#8B5CF6', icon: 'x²', topics: [
+      { key: 'g8_quad_simple',   name: 'Oldd meg: x² = n  (pozitív megoldás)',       color: '#A78BFA', icon: 'x²', generators: [G8.quadSimple] },
+      { key: 'g8_quad_shifted',  name: 'Oldd meg: (x+a)² = b',                      color: '#7C3AED', icon: '(x+a)²', generators: [G8.quadShifted] },
+      { key: 'g8_quad_eval',     name: 'Kiértékelés  ax² + b  (x behelyettesítése)', color: '#6D28D9', icon: 'f(x)', generators: [G8.quadEval] },
+      { key: 'g8_quad_diff',     name: 'Négyzetszámok különbsége  a² − b²',         color: '#5B21B6', icon: '²−²', generators: [G8.quadDiff] },
+      { key: 'g8_quad_visual',   name: 'Másodfokú egyenlet – Vizuális  📐',         color: '#A78BFA', icon: '📐', generators: [G8.quadSimple, G8.quadEval] },
     ]},
-    { key: 'g8_func', name: 'Függvények', color: '#10B981', icon: 'f(x)', topics: [
-      { key: 'func', name: 'Lineáris függvények', color: '#34D399', icon: 'f(x)', generators: [G8.funcValue, G8.funcIntercept] },
+    { key: 'g8_eq', name: 'Egyenletek', color: '#EC4899', icon: '=', topics: [
+      { key: 'g8_eq_simple',    name: '2-lépéses egyenletek  (ax − b = c)',           color: '#F9A8D4', icon: '=',  generators: [G8.eqSimple] },
+      { key: 'g8_eq_twoside',   name: 'Ismeretlen mindkét oldalon  (ax+b = cx+d)',   color: '#EC4899', icon: '⇔',  generators: [G8.eqTwoSide] },
+      { key: 'g8_eq_frac',      name: 'Törteket tartalmazó egyenletek  (x/a + b = c)', color: '#DB2777', icon: '½',  generators: [G8.eqFrac8] },
+      { key: 'g8_eq_word',      name: 'Szöveges egyenlet-feladatok',                 color: '#9D174D', icon: '📖', generators: [G8.eqWord8] },
+      { key: 'g8_ineq_basic',   name: 'Egyenlőtlenségek  ax+b > c / ax−b < c',      color: '#BE185D', icon: '>',  generators: [G8.inequality8] },
+      { key: 'g8_ineq_compound','name': 'Kétoldalú egyenlőtlenség  a < ax+b < c',   color: '#9D174D', icon: '‹›', generators: [G8.inequalityCompound] },
+      { key: 'g8_ineq_visual',  name: 'Egyenlőtlenség számegyenesen – Vizuális  📏', color: '#F9A8D4', icon: '📏', generators: [G8.inequality8] },
+    ]},
+    { key: 'g8_system', name: 'Egyenletrendszerek', color: '#0EA5E9', icon: '⇄', topics: [
+      { key: 'g8_sys_add',      name: 'Összeadásos módszer  (x+y=n, x−y=m)',         color: '#38BDF8', icon: '⊕',  generators: [G8.systemEq] },
+      { key: 'g8_sys_coeffs',   name: 'Együtthatós rendszerek  (2x+y=n)',             color: '#0EA5E9', icon: '×',  generators: [G8.systemEqB] },
+      { key: 'g8_sys_graph',    name: 'Grafikus metszéspontja  f(x) = g(x)',         color: '#0284C7', icon: '📈', generators: [G8.systemGraphical] },
+      { key: 'g8_sys_word',     name: 'Szöveges egyenletrendszer-feladatok',         color: '#0369A1', icon: '📖', generators: [G8.systemWord] },
+      { key: 'g8_sys_visual',   name: 'Egyenletrendszer – Mérleg Vizuális  ⚖️',     color: '#BAE6FD', icon: '⚖️', generators: [G8.systemEq, G8.systemEqB] },
+    ]},
+    { key: 'g8_func', name: 'Lineáris függvények', color: '#10B981', icon: 'f(x)', topics: [
+      { key: 'g8_func_value',   name: 'Függvényérték  f(x) = mx + b',                color: '#6EE7B7', icon: 'f(x)', generators: [G8.funcValue] },
+      { key: 'g8_func_neg',     name: 'Negatív meredekség  f(x) = −mx + b',          color: '#34D399', icon: '↘️', generators: [G8.funcNegSlope] },
+      { key: 'g8_func_slope',   name: 'Meredekség két pontból  m = Δy/Δx',           color: '#10B981', icon: 'm',  generators: [G8.funcSlope] },
+      { key: 'g8_func_intercept','name': 'Tengelymetszet  f(0) = b',                 color: '#059669', icon: 'b',  generators: [G8.funcIntercept] },
+      { key: 'g8_func_eq',      name: 'Egyenlet meghatározása  (pont + m → b)',      color: '#047857', icon: '✏️', generators: [G8.funcFindEq] },
+      { key: 'g8_func_word',    name: 'Szöveges függvény-feladatok  (díj, arány)',   color: '#065F46', icon: '📖', generators: [G8.funcWord] },
+      { key: 'g8_func_visual',  name: 'Függvénygraf – Vizuális  📈',                 color: '#A7F3D0', icon: '📈', generators: [G8.funcValue, G8.funcSlope] },
     ]},
     { key: 'g8_prob', name: 'Valószínűség', color: '#F59E0B', icon: '🎲', topics: [
-      { key: 'prob', name: 'Valószínűségszámítás', color: '#FBBF24', icon: '🎲', generators: [G8.probBall, G8.probDice, G8.probCoin] },
+      { key: 'g8_prob_basic',   name: 'Alap valószínűség  (golyók, érme, kocka)',    color: '#FDE047', icon: '🎲', generators: [G8.probBall, G8.probDice, G8.probCoin] },
+      { key: 'g8_prob_comp',    name: 'Ellentétes esemény  P(A\') = 1 − P(A)',       color: '#FBBF24', icon: 'A\'', generators: [G8.probComplementary] },
+      { key: 'g8_prob_two',     name: 'Független események  P(A és B)',               color: '#F59E0B', icon: '∩',  generators: [G8.probTwoEvents] },
+      { key: 'g8_prob_atleast', name: 'Legalább egy  P(A vagy B)',                    color: '#D97706', icon: '∪',  generators: [G8.probAtLeastOne] },
+      { key: 'g8_prob_freq',    name: 'Relatív gyakoriság kísérletekből',             color: '#B45309', icon: '📊', generators: [G8.probFreq] },
+      { key: 'g8_prob_visual',  name: 'Valószínűségi fa – Vizuális  🌳',             color: '#FEF3C7', icon: '🌳', generators: [G8.probBall, G8.probTwoEvents] },
+    ]},
+    { key: 'g8_stats', name: 'Statisztika', color: '#06B6D4', icon: '📊', topics: [
+      { key: 'g8_stat_mean',    name: 'Átlag (számtani közép)',                       color: '#67E8F9', icon: '📊', generators: [G8.statsMean8] },
+      { key: 'g8_stat_median',  name: 'Medián',                                      color: '#22D3EE', icon: '📊', generators: [G8.statsMedian8] },
+      { key: 'g8_stat_mode',    name: 'Módusz (leggyakoribb érték)',                  color: '#06B6D4', icon: '🎯', generators: [G8.statsMode8] },
+      { key: 'g8_stat_range',   name: 'Szórás-terjedelem (max − min)',                color: '#0891B2', icon: '↔️', generators: [G8.statsRange8] },
+      { key: 'g8_stat_chart',   name: 'Oszlopdiagram olvasása & átlag',              color: '#0E7490', icon: '📈', generators: [G8.statsBarChart] },
+      { key: 'g8_stat_visual',  name: 'Hisztogram / Oszlopdiagram – Vizuális  📊',  color: '#A5F3FC', icon: '📊', generators: [G8.statsMean8, G8.statsMedian8] },
+    ]},
+    { key: 'g8_transform', name: 'Geometriai transzformációk', color: '#F97316', icon: '🔄', topics: [
+      { key: 'g8_trans_translate', name: 'Eltolás (vektor szerinti transzláció)',      color: '#FDBA74', icon: '→',  generators: [G8.translatePoint] },
+      { key: 'g8_trans_reflectX',  name: 'Tükrözés az x-tengelyre  (x, −y)',         color: '#F97316', icon: '↕️', generators: [G8.reflectX] },
+      { key: 'g8_trans_reflectY',  name: 'Tükrözés az y-tengelyre  (−x, y)',         color: '#EA580C', icon: '↔️', generators: [G8.reflectY] },
+      { key: 'g8_trans_rotate',    name: 'Forgatás 90°-kal az origó körül',           color: '#C2410C', icon: '↺',  generators: [G8.rotate90] },
+      { key: 'g8_trans_scale',     name: 'Nagyítási arány / hasonlóság',             color: '#9A3412', icon: '⤢',  generators: [G8.scaleFactor] },
+      { key: 'g8_trans_visual',    name: 'Transzformáció koordináta-rendszerben  🗺️', color: '#FED7AA', icon: '🗺️', generators: [G8.translatePoint, G8.reflectX] },
+    ]},
+    { key: 'g8_geo', name: 'Geometria & Testek', color: '#EF4444', icon: '📐', topics: [
+      { key: 'g8_geo_cyl',      name: 'Henger térfogata  πr²h',                      color: '#FCA5A5', icon: '🥫', generators: [G8.volumeCylinder] },
+      { key: 'g8_geo_surf_cyl', name: 'Henger palástja  2πrh',                       color: '#F87171', icon: '🔵', generators: [G8.surfaceCylinder] },
+      { key: 'g8_geo_surf_box', name: 'Téglatest felszíne  2(ab+bc+ac)',             color: '#EF4444', icon: '📦', generators: [G8.surfaceBox8] },
+      { key: 'g8_geo_cyl_visual','name': 'Henger felszíne – Vizuális  🥫',           color: '#FEE2E2', icon: '🥫', generators: [G8.volumeCylinder, G8.surfaceCylinder] },
+    ]},
+    { key: 'g8_complex', name: 'Vegyes kifejezések', color: '#7C3AED', icon: 'x²√', topics: [
+      { key: 'g8_cplx_pow',     name: 'Hatványok + Gyökök  (a² + √n)',               color: '#8B5CF6', icon: '²√', generators: [G8.complexPow, G8.complexMixed] },
+      { key: 'g8_cplx_expr',    name: 'Vegyes kifejezések kiértékelése',             color: '#7C3AED', icon: 'f(x)', generators: [G8.complexExpr] },
     ]},
   ],
 };
@@ -4534,7 +5970,7 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g3_div_cat', name: 'Împărțire', color: '#8B5CF6', icon: '➗', topics: [
       { key: 'g3_div_basic',   name: 'Împărțire de bază',                    color: '#A78BFA', icon: '➗', generators: [G3.div, G3.divB] },
-      { key: 'g3_div_rem',     name: 'Împărțire cu rest',                    color: '#C4B5FD', icon: '➗', generators: [G3.divRelMul, G3.divRemainder] },
+      { key: 'g3_div_rem',     name: 'Împărțire cu rest',                    color: '#C4B5FD', icon: '➗', generators: [G3.divRemainder] },
       { key: 'g3_div_shr',    name: '🎮 Împarte pe farfurii',                color: '#DDD6FE', icon: '➗', generators: [] },
     ]},
     { key: 'g3_patterns_cat', name: 'Modele & Logică', color: '#64748B', icon: '🔗', topics: [
@@ -4576,10 +6012,10 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g3_word_cat', name: 'Probleme', color: '#DC2626', icon: '📖', topics: [
       { key: 'g3_word_add_t',  name: 'Probleme de adunare',                  color: '#F87171', icon: '📖', generators: [G3.word1, G3.add1000] },
-      { key: 'g3_word_sub_t',  name: 'Probleme de scădere',                  color: '#FCA5A5', icon: '📖', generators: [G3.word1, G3.sub1000] },
+      { key: 'g3_word_sub_t',  name: 'Probleme de scădere',                  color: '#FCA5A5', icon: '📖', generators: [G3.wordSub] },
       { key: 'g3_word_mul_t',  name: 'Probleme de înmulțire',                color: '#F87171', icon: '📖', generators: [G3.word2] },
-      { key: 'g3_word_div_t',  name: 'Probleme de împărțire',                color: '#FCA5A5', icon: '📖', generators: [G3.word3] },
-      { key: 'g3_word_multi_t', name: 'Probleme în mai mulți pași',          color: '#F87171', icon: '📖', generators: [G3.word1, G3.word2, G3.word3] },
+      { key: 'g3_word_div_t',  name: 'Probleme de împărțire',                color: '#FCA5A5', icon: '📖', generators: [G3.wordDiv] },
+      { key: 'g3_word_multi_t', name: 'Probleme în mai mulți pași',          color: '#F87171', icon: '📖', generators: [G3.word1, G3.wordDiv, G3.wordMulti] },
     ]},
   ],
   4: [
@@ -4616,8 +6052,8 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_balance_vis',      name: 'Balanță – echilibru',                    color: '#059669', icon: '⚖️', generators: [G5.addLarge] },
     ]},
     { key: 'g5_vis_frac', name: 'Vizual: Fracții și zecimale', color: '#6366F1', icon: '🖼️', topics: [
-      { key: 'g5_frac_compare_vis', name: 'Compararea fracțiilor – vizual',         color: '#818CF8', icon: '½', generators: [G5.fractionAdd] },
-      { key: 'g5_frac_equiv_vis',   name: 'Fracții echivalente – vizual',           color: '#A5B4FC', icon: '🔄', generators: [G5.fractionAdd] },
+      { key: 'g5_frac_compare_vis', name: 'Compararea fracțiilor – vizual',         color: '#818CF8', icon: '½', generators: [G5.fractionDiff, G5.lcm] },
+      { key: 'g5_frac_equiv_vis',   name: 'Fracții echivalente – vizual',           color: '#A5B4FC', icon: '🔄', generators: [G5.lcm] },
       { key: 'g5_decimal_place_vis',name: 'Zecimale – valoare pozițională',         color: '#6366F1', icon: '🔟', generators: [G5.decimalRead] },
       { key: 'g5_decimal_line_vis', name: 'Zecimale pe axa numerică',               color: '#4F46E5', icon: '📏', generators: [G5.decimalRead] },
     ]},
@@ -4676,11 +6112,11 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_div_word',   name: 'Problemă (împărțire)',                        color: '#6D28D9', icon: '📖', generators: [G5.wordDiv] },
     ]},
     { key: 'g5_frac', name: 'Fracții', color: '#6366F1', icon: '½', topics: [
-      { key: 'g5_frac_concept', name: 'Numărător și numitor',                      color: '#818CF8', icon: '½', generators: [G5.fractionAdd, G5.mixedNumber] },
-      { key: 'g5_frac_visual',  name: 'Reprezentarea fracțiilor',                  color: '#A5B4FC', icon: '🍕', generators: [G5.fractionAdd, G5.mixedNumber] },
-      { key: 'g5_frac_compare', name: 'Compararea fracțiilor',                     color: '#6366F1', icon: '⚖️', generators: [G5.fractionAdd, G5.fractionSub] },
+      { key: 'g5_frac_concept', name: 'Numărător și numitor',                      color: '#818CF8', icon: '½', generators: [G5.mixedNumber, G5.fractionSub] },
+      { key: 'g5_frac_visual',  name: 'Reprezentarea fracțiilor',                  color: '#A5B4FC', icon: '🍕', generators: [G5.mixedNumber] },
+      { key: 'g5_frac_compare', name: 'Compararea fracțiilor',                     color: '#6366F1', icon: '⚖️', generators: [G5.fractionDiff, G5.lcm] },
       { key: 'g5_frac_simplify','name': 'Simplificarea fracțiilor',                color: '#4F46E5', icon: '✂️', generators: [G5.gcd] },
-      { key: 'g5_frac_equiv',   name: 'Fracții echivalente  (2/4 = 1/2)',          color: '#4338CA', icon: '🔄', generators: [G5.fractionAdd, G5.mixedNumber] },
+      { key: 'g5_frac_equiv',   name: 'Fracții echivalente  (2/4 = 1/2)',          color: '#4338CA', icon: '🔄', generators: [G5.lcm] },
       { key: 'g5_frac_addsub',  name: 'Adunare și scădere fracții',               color: '#3730A3', icon: '➕', generators: [G5.fractionAdd, G5.fractionSub, G5.fractionDiff] },
     ]},
     { key: 'g5_decimal', name: 'Numere zecimale', color: '#14B8A6', icon: '🔟', topics: [
@@ -4694,13 +6130,13 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_units_len',  name: 'Lungime  (km · m · cm · mm)',                color: '#FCD34D', icon: '📏', generators: [G5.unitLength] },
       { key: 'g5_units_mass', name: 'Greutate/Masă  (t · kg · g)',                color: '#FBBF24', icon: '⚖️', generators: [G5.unitMass] },
       { key: 'g5_units_time', name: 'Timp  (an · lună · săpt. · zi · h · min · s)', color: '#F59E0B', icon: '⏱️', generators: [G5.unitTime] },
-      { key: 'g5_units_area', name: 'Arii  (m² · cm²)',                           color: '#D97706', icon: '⬜', generators: [G5.geoRectArea, G5.squareAreaG5] },
+      { key: 'g5_units_area', name: 'Arii  (m² · cm²)',                           color: '#D97706', icon: '⬜', generators: [G5.areaUnitConvert] },
       { key: 'g5_units_money','name': 'Bani  (lei · bani  /  € · cenți)',         color: '#B45309', icon: '💶', generators: [G5.unitMoney, G5.wordAdd] },
     ]},
     { key: 'g5_geo', name: 'Geometrie', color: '#EAB308', icon: '📐', topics: [
       { key: 'g5_geo_shapes', name: 'Proprietățile figurilor plane',               color: '#FDE047', icon: '🔷', generators: [G5.triangleAreaG5, G5.squareAreaG5] },
       { key: 'g5_geo_coord',  name: 'Sistemul de coordonate',                      color: '#EAB308', icon: '🗺️', generators: [G5.coordRead] },
-      { key: 'g5_geo_nets',   name: 'Rețele și vedere',                           color: '#CA8A04', icon: '📦', generators: [G5.geoRectArea, G5.squareAreaG5] },
+      { key: 'g5_geo_nets',   name: 'Rețele și vedere',                           color: '#CA8A04', icon: '📦', generators: [G5.triangleAreaG5, G5.squareAreaG5] },
     ]},
     { key: 'g5_angles', name: 'Unghiuri', color: '#6366F1', icon: '∠', topics: [
       { key: 'g5_ang_concept', name: 'Noțiunea de unghi',                          color: '#818CF8', icon: '∠', generators: [G4.winkelTyp] },
@@ -4717,7 +6153,7 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g5_area_sqcm',  name: 'Centimetru pătrat  (cm²)',                   color: '#FDE68A', icon: '⬛', generators: [G5.geoRectArea] },
       { key: 'g5_area_rect',  name: 'Aria dreptunghiului',                        color: '#FBBF24', icon: '⬜', generators: [G5.geoRectArea] },
       { key: 'g5_area_square','name': 'Aria pătratului',                          color: '#F59E0B', icon: '🟨', generators: [G5.squareAreaG5] },
-      { key: 'g5_area_conv',  name: 'Conversii arii  (m² ↔ cm²)',                 color: '#D97706', icon: '🔄', generators: [G5.unitLength, G5.geoRectArea] },
+      { key: 'g5_area_conv',  name: 'Conversii arii  (m² ↔ cm²)',                 color: '#D97706', icon: '🔄', generators: [G5.areaUnitConvert] },
     ]},
     { key: 'g5_symmetry', name: 'Reflexie și simetrie', color: '#EC4899', icon: '🔄', topics: [
       { key: 'g5_sym_axis',    name: 'Axe de simetrie',                            color: '#F9A8D4', icon: '🔄', generators: [G4.symmetrieAchsen] },
@@ -4750,51 +6186,209 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
   ],
   6: [
     { key: 'g6_neg', name: 'Numere negative', color: '#6366F1', icon: '➖', topics: [
-      { key: 'neg', name: 'Numere negative', color: '#818CF8', icon: '➖', generators: [G6.negative, G6.negativeB, G6.negativeC] },
+      { key: 'g6_neg_addsub',   name: 'Adunare & scădere (negative)',          color: '#818CF8', icon: '➖', generators: [G6.negative, G6.negativeB, G6.negativeC, G6.negSub] },
+      { key: 'g6_neg_mul',      name: 'Înmulțire & împărțire (negative)',      color: '#6366F1', icon: '✖️', generators: [G6.negMul] },
+      { key: 'g6_neg_abs',      name: 'Valoarea absolută  |−5|',               color: '#4F46E5', icon: '|n|', generators: [G6.negAbsolute] },
+      { key: 'g6_neg_compare',  name: 'Compararea numerelor negative',         color: '#4338CA', icon: '⚖️', generators: [G6.negCompare] },
+      { key: 'g6_neg_word',     name: 'Probleme (temperaturi, datorii)',        color: '#3730A3', icon: '🌡️', generators: [G6.negTemp, G6.negDebt] },
     ]},
-    { key: 'g6_frac', name: 'Fracții & Procente', color: '#8B5CF6', icon: '½', topics: [
-      { key: 'frac', name: 'Înmulțire & împărțire fracții', color: '#A78BFA', icon: '½', generators: [G6.fractionMul, G6.fractionDiv] },
-      { key: 'pct', name: 'Calcul procentual', color: '#8B5CF6', icon: '%', generators: [G6.percentCalc, G6.percentDiscount] },
+    { key: 'g6_frac', name: 'Fracții', color: '#8B5CF6', icon: '½', topics: [
+      { key: 'g6_frac_mul',     name: 'Fracție × număr întreg',                color: '#A78BFA', icon: '½', generators: [G6.fractionMul] },
+      { key: 'g6_frac_mulfrac', name: 'Fracție × fracție',                     color: '#8B5CF6', icon: '✖️', generators: [G6.fracMulFrac] },
+      { key: 'g6_frac_div',     name: 'Fracție ÷ număr întreg',                color: '#7C3AED', icon: '➗', generators: [G6.fractionDiv] },
+      { key: 'g6_frac_divfrac', name: 'Fracție ÷ fracție',                     color: '#6D28D9', icon: '➗', generators: [G6.fracDivFrac] },
+      { key: 'g6_frac_diff',    name: 'Numitori diferiți (+/−)',               color: '#5B21B6', icon: '±', generators: [G6.fractionDiff] },
+      { key: 'g6_frac_pct',     name: 'Fracție ↔ Procent',                    color: '#4C1D95', icon: '%', generators: [G6.fracToPercent] },
     ]},
-    { key: 'g6_ratio', name: 'Rapoarte & Viteză', color: '#10B981', icon: '⚡', topics: [
-      { key: 'ratio', name: 'Rapoarte & Proporții', color: '#34D399', icon: '⚡', generators: [G6.ratio, G6.speed] },
+    { key: 'g6_pct', name: 'Procente', color: '#EC4899', icon: '%', topics: [
+      { key: 'g6_pct_of',       name: 'Valoarea procentuală  (20% din 80)',    color: '#F9A8D4', icon: '%', generators: [G6.percentCalc] },
+      { key: 'g6_pct_what',     name: 'Procentul  (X este ?% din Y)',          color: '#EC4899', icon: '?%', generators: [G6.percentWhat] },
+      { key: 'g6_pct_base',     name: 'Baza  (?% din □ = X)',                  color: '#DB2777', icon: '🔍', generators: [G6.percentBase] },
+      { key: 'g6_pct_change',   name: 'Creștere/scădere procentuală',         color: '#BE185D', icon: '📈', generators: [G6.percentIncrease, G6.percentDecrease] },
+      { key: 'g6_pct_word',     name: 'Probleme (reducere, TVA)',              color: '#9D174D', icon: '📖', generators: [G6.percentDiscount, G6.percentTax] },
+      { key: 'g6_percent_bar',  name: 'Procente din grila 100 🔢',            color: '#F472B6', icon: '🔢', generators: [G6.percentCalc] },
+    ]},
+    { key: 'g6_ratio', name: 'Rapoarte & Proporții', color: '#10B981', icon: '⚡', topics: [
+      { key: 'g6_ratio_concept', name: 'Raportul (a:b)',                       color: '#6EE7B7', icon: '⚡', generators: [G6.ratio] },
+      { key: 'g6_ratio_missing', name: 'Proporții  (a:b = c:?)',               color: '#34D399', icon: '🔄', generators: [G6.ratioMissing] },
+      { key: 'g6_ratio_3',       name: 'Regula de trei simplă & inversă',     color: '#10B981', icon: '3️⃣', generators: [G6.ruleOfThree, G6.inverseRatio] },
+      { key: 'g6_ratio_split',   name: 'Împărțire în raport',                 color: '#059669', icon: '📊', generators: [G6.ratioSplit] },
+      { key: 'g6_ratio_table',   name: 'Tabel proporțional – completare ⊞',  color: '#34D399', icon: '⊞', generators: [G6.ratioMissing] },
+      { key: 'g6_speed',         name: 'Viteză · Distanță · Timp',            color: '#065F46', icon: '🚗', generators: [G6.speed, G6.speedTime, G6.wordTrain] },
+    ]},
+    { key: 'g6_algebra', name: 'Algebră', color: '#3B82F6', icon: 'x', topics: [
+      { key: 'g6_alg_eval',      name: 'Evaluarea expresiilor  (3x+2)',        color: '#93C5FD', icon: '=', generators: [G6.exprEval] },
+      { key: 'g6_alg_eq1',       name: 'Ecuații simple  (x+5=12)',            color: '#3B82F6', icon: '=', generators: [G6.equation1] },
+      { key: 'g6_alg_eq2',       name: 'Ecuații cu 2 pași  (2x+3=11)',        color: '#2563EB', icon: '=', generators: [G6.equation2] },
     ]},
     { key: 'g6_geo', name: 'Geometrie', color: '#F59E0B', icon: '📐', topics: [
-      { key: 'geo', name: 'Arie (triunghiuri & pătrate)', color: '#FBBF24', icon: '📐', generators: [G6.areaTriangle, G6.areaSquare] },
+      { key: 'g6_area_tri',      name: 'Aria triunghiului',                    color: '#FDE047', icon: '🔺', generators: [G6.areaTriangle] },
+      { key: 'g6_area_para',     name: 'Aria paralelogramului',                color: '#FBBF24', icon: '▱', generators: [G6.areaParallelogram] },
+      { key: 'g6_area_trap',     name: 'Aria trapezului',                      color: '#F59E0B', icon: '⏢', generators: [G6.areaTrapezoid] },
+      { key: 'g6_circle',        name: 'Cerc  (perimetru & arie)',             color: '#D97706', icon: '⭕', generators: [G6.circle] },
+      { key: 'g6_surface',       name: 'Suprafața paralelipipedului',          color: '#B45309', icon: '📦', generators: [G6.surfaceBox] },
+      { key: 'g6_volume',        name: 'Volum  (paralelipiped & cub)',         color: '#92400E', icon: '🧊', generators: [G6.volume] },
+      { key: 'g6_coord4q',       name: 'Sistemul de coordonate (4 cadrane)',   color: '#CA8A04', icon: '🗺️', generators: [G6.coord4Q] },
+      { key: 'g6_trapezoid_area', name: 'Aria trapezului – Vizual 📐',        color: '#FCD34D', icon: '⏢', generators: [G6.areaTrapezoid] },
+      { key: 'g6_coord_4q',      name: 'Cadranul coordonatelor – Vizual 🗺️', color: '#F59E0B', icon: '🗺️', generators: [G6.coord4Q] },
+    ]},
+    { key: 'g6_stats', name: 'Statistică', color: '#14B8A6', icon: '📊', topics: [
+      { key: 'g6_stat_mean',     name: 'Medie (valoare medie)',                color: '#5EEAD4', icon: '📊', generators: [G6.mean] },
+      { key: 'g6_stat_median',   name: 'Mediană',                             color: '#14B8A6', icon: '📈', generators: [G6.median] },
+      { key: 'g6_stat_mode',     name: 'Modul (valoarea cea mai frecventă)',  color: '#0D9488', icon: '🎯', generators: [G6.modeGen] },
+      { key: 'g6_stat_range',    name: 'Intervalul (max − min)',               color: '#0F766E', icon: '↔️', generators: [G6.rangeGen] },
+      { key: 'g6_pie_chart',     name: 'Diagramă circulară 🥧',               color: '#2DD4BF', icon: '🥧', generators: [G6.mean] },
     ]},
     { key: 'g6_word', name: 'Probleme', color: '#EF4444', icon: '📖', topics: [
-      { key: 'word', name: 'Probleme', color: '#EF4444', icon: '📖', generators: [G6.wordShoe, G6.wordTrain] },
+      { key: 'g6_word_neg',      name: 'Probleme · numere negative',           color: '#FCA5A5', icon: '🌡️', generators: [G6.negTemp, G6.negDebt] },
+      { key: 'g6_word_ratio',    name: 'Probleme · rapoarte',                  color: '#F87171', icon: '⚡', generators: [G6.ruleOfThree, G6.ratioSplit] },
+      { key: 'g6_word_pct',      name: 'Probleme · procente',                  color: '#EF4444', icon: '%', generators: [G6.percentDiscount, G6.percentTax] },
+      { key: 'g6_word_speed',    name: 'Probleme · viteză',                   color: '#DC2626', icon: '🚗', generators: [G6.wordTrain, G6.speedTime] },
     ]},
   ],
   7: [
-    { key: 'g7_algebra', name: 'Puteri & Algebră', color: '#6366F1', icon: 'x', topics: [
-      { key: 'powers', name: 'Puteri', color: '#818CF8', icon: '²', generators: [G7.power2, G7.power3, G7.power10] },
-      { key: 'algebra', name: 'Simplificarea expresiilor', color: '#6366F1', icon: 'x', generators: [G7.algebraSub, G7.algebraSimp, G7.algebraMul] },
+    { key: 'g7_powers', name: 'Puteri', color: '#6366F1', icon: '²', topics: [
+      { key: 'g7_pow_sq',   name: 'Pătrate  (n²)',                                 color: '#818CF8', icon: '²',  generators: [G7.power2] },
+      { key: 'g7_pow_cube', name: 'Cuburi  (n³)',                                   color: '#6366F1', icon: '³',  generators: [G7.power3] },
+      { key: 'g7_pow_ten',  name: 'Puteri ale lui 10  (10², 10³)',                  color: '#4F46E5', icon: '🔟', generators: [G7.power10] },
+      { key: 'g7_pow_expr', name: 'Expresii cu puteri  (a² + b³)',                  color: '#4338CA', icon: '✖️', generators: [G7.powerExpr] },
+      { key: 'g7_pow_neg',  name: 'Baze negative  ((−n)²)',                         color: '#3730A3', icon: '−²', generators: [G7.powerNeg, G7.power2] },
+      { key: 'g7_powers_visual', name: 'Puteri – Vizual  🟪',                      color: '#6366F1', icon: '🟪', generators: [G7.power2, G7.power3] },
     ]},
-    { key: 'g7_eq', name: 'Ecuații', color: '#8B5CF6', icon: '=', topics: [
-      { key: 'eq', name: 'Rezolvarea ecuațiilor', color: '#A78BFA', icon: '=', generators: [G7.equation, G7.equationB] },
+    { key: 'g7_alg', name: 'Expresii algebrice', color: '#8B5CF6', icon: 'x', topics: [
+      { key: 'g7_alg_eval',    name: 'Calcularea expresiilor  (3x + 5, x = 2)',    color: '#A78BFA', icon: 'x',  generators: [G7.algebraEval, G7.algebraSub] },
+      { key: 'g7_alg_collect', name: 'Termeni asemenea  (4x + 2x = ?x)',           color: '#8B5CF6', icon: '🔗', generators: [G7.algebraSimp] },
+      { key: 'g7_alg_expand',  name: 'Desfacerea parantezelor  a(b + c)',           color: '#7C3AED', icon: '()', generators: [G7.algebraExpand] },
+      { key: 'g7_alg_mul',     name: 'Înmulțirea termenilor  (ax)(bx) = ?x²',      color: '#6D28D9', icon: '✖️', generators: [G7.algebraMul] },
     ]},
-    { key: 'g7_geo', name: 'Geometrie & Triunghiuri', color: '#F59E0B', icon: '📐', topics: [
-      { key: 'tri', name: 'Unghiurile triunghiului', color: '#FBBF24', icon: '🔺', generators: [G7.triangleAngle, G7.equilateral, G7.isosceles] },
-      { key: 'pyth', name: 'Teorema lui Pitagora', color: '#F59E0B', icon: '📐', generators: [G7.pythag34, G7.pythag68, G7.pythagLeg13, G7.pythagLeg10] },
+    { key: 'g7_eq', name: 'Ecuații', color: '#EC4899', icon: '=', topics: [
+      { key: 'g7_eq_1step',   name: 'Ecuații simple  (ax + b = c)',                color: '#F9A8D4', icon: '=',  generators: [G7.equation] },
+      { key: 'g7_eq_2step',   name: 'Ecuații în doi pași  (ax − b = c)',           color: '#EC4899', icon: '=',  generators: [G7.equationB] },
+      { key: 'g7_eq_frac',    name: 'Ecuații cu fracții  (x/a + b = c)',           color: '#DB2777', icon: '½',  generators: [G7.equationFrac] },
+      { key: 'g7_eq_twoside', name: 'Necunoscut pe ambele părți  (ax + b = cx)',   color: '#BE185D', icon: '⇔',  generators: [G7.equationTwoSide] },
+      { key: 'g7_eq_word',    name: 'Probleme cu ecuații',                         color: '#9D174D', icon: '📖', generators: [G7.equationWord] },
+    ]},
+    { key: 'g7_ineq', name: 'Inecuații', color: '#14B8A6', icon: '>', topics: [
+      { key: 'g7_ineq_gt',   name: 'ax + b > c  (cel mai mic număr întreg)',       color: '#5EEAD4', icon: '>',  generators: [G7.inequality] },
+      { key: 'g7_ineq_lt',   name: 'ax − b < c  (cel mai mare număr întreg)',      color: '#14B8A6', icon: '<',  generators: [G7.inequality] },
+      { key: 'g7_ineq_word', name: 'Probleme cu inecuații',                        color: '#0D9488', icon: '📖', generators: [G7.inequalityWord] },
+      { key: 'g7_ineq_visual', name: 'Inecuație pe dreapta numerelor – Vizual 📏', color: '#14B8A6', icon: '📏', generators: [G7.inequality] },
+    ]},
+    { key: 'g7_tri', name: 'Triunghiuri', color: '#F59E0B', icon: '🔺', topics: [
+      { key: 'g7_tri_sum',   name: 'Suma unghiurilor  (180°)',                     color: '#FDE047', icon: '∑',  generators: [G7.triangleAngle] },
+      { key: 'g7_tri_equi',  name: 'Triunghi echilateral  (câte 60°)',             color: '#FBBF24', icon: '△',  generators: [G7.equilateral] },
+      { key: 'g7_tri_iso',   name: 'Triunghi isoscel  (unghiul de la vârf)',       color: '#F59E0B', icon: '🔺', generators: [G7.isosceles] },
+      { key: 'g7_tri_ext',   name: 'Unghiuri exterioare',                          color: '#D97706', icon: '↗️', generators: [G7.extAngle] },
+      { key: 'g7_tri_word',  name: 'Probleme cu triunghiuri',                      color: '#B45309', icon: '📖', generators: [G7.triangleWord] },
+      { key: 'g7_tri_visual', name: 'Unghiuri triunghi – Vizual  🔺',              color: '#FBBF24', icon: '🔺', generators: [G7.triangleAngle] },
+    ]},
+    { key: 'g7_pyth', name: 'Teorema lui Pitagora', color: '#10B981', icon: '📐', topics: [
+      { key: 'g7_pyth_hyp',  name: 'Calculul ipotenuzei  (a² + b² = c²)',         color: '#6EE7B7', icon: '📐', generators: [G7.pythag34, G7.pythag68] },
+      { key: 'g7_pyth_leg',  name: 'Calculul unei catete  (c² − a² = b²)',        color: '#34D399', icon: '📐', generators: [G7.pythagLeg13, G7.pythagLeg10] },
+      { key: 'g7_pyth_mixed','name': 'Probleme mixte Pitagora',                    color: '#10B981', icon: '✳️', generators: [G7.pythag34, G7.pythagLeg13] },
+      { key: 'g7_pyth_word', name: 'Probleme aplicative  (scară, diagonală)',      color: '#059669', icon: '📖', generators: [G7.pythagWord] },
+      { key: 'g7_pyth_visual', name: 'Pitagora – Vizual  📐',                      color: '#34D399', icon: '📐', generators: [G7.pythag34, G7.pythagLeg13] },
+    ]},
+    { key: 'g7_geo', name: 'Arii & Cerc', color: '#0EA5E9', icon: '⭕', topics: [
+      { key: 'g7_geo_circle', name: 'Circumferința cercului  C = 2πr',             color: '#38BDF8', icon: '⭕', generators: [G7.circleG7] },
+      { key: 'g7_geo_circA',  name: 'Aria cercului  A = πr²',                      color: '#0EA5E9', icon: '🔵', generators: [G7.circleG7] },
+      { key: 'g7_geo_surf',   name: 'Aria totală a unui paralelipiped',             color: '#0284C7', icon: '📦', generators: [G7.surfaceBox7] },
+      { key: 'g7_circle_visual', name: 'Cerc – Vizual  ⭕',                        color: '#7DD3FC', icon: '⭕', generators: [G7.circleG7] },
+    ]},
+    { key: 'g7_vol', name: 'Volum', color: '#F97316', icon: '📦', topics: [
+      { key: 'g7_vol_box',   name: 'Volumul paralelipipedului  (l × b × h)',       color: '#FDBA74', icon: '📦', generators: [G7.volume7] },
+      { key: 'g7_vol_cube',  name: 'Volumul cubului  (a³)',                         color: '#F97316', icon: '🧊', generators: [G7.volume7] },
+      { key: 'g7_vol_cyl',   name: 'Volumul cilindrului  (πr²h)',                  color: '#EA580C', icon: '🥫', generators: [G7.cylinderVol] },
+      { key: 'g7_cyl_visual', name: 'Volum cilindru – Vizual  🥫',                 color: '#FED7AA', icon: '🥫', generators: [G7.cylinderVol] },
+    ]},
+    { key: 'g7_stats', name: 'Statistică', color: '#06B6D4', icon: '📊', topics: [
+      { key: 'g7_stat_median', name: 'Mediana unui șir de date',                   color: '#67E8F9', icon: '📊', generators: [G7.statsMedian7] },
+      { key: 'g7_stat_mode',   name: 'Modul (valoarea cea mai frecventă)',          color: '#22D3EE', icon: '🎯', generators: [G7.statsMode7] },
+      { key: 'g7_stat_range',  name: 'Amplitudinea (max − min)',                   color: '#06B6D4', icon: '↔️', generators: [G7.statsRange7] },
+      { key: 'g7_stat_mean',   name: 'Media aritmetică (recapitulare)',             color: '#0891B2', icon: '📈', generators: [G6.mean] },
+      { key: 'g7_stats_visual', name: 'Statistică – Vizual  📊',                  color: '#A5F3FC', icon: '📊', generators: [G7.statsMedian7] },
     ]},
     { key: 'g7_word', name: 'Probleme', color: '#EF4444', icon: '📖', topics: [
-      { key: 'word', name: 'Probleme', color: '#EF4444', icon: '📖', generators: [G7.wordThink, G7.wordSquare] },
+      { key: 'g7_word_eq',    name: 'Probleme · Ecuații',                          color: '#FCA5A5', icon: '=',  generators: [G7.equationWord] },
+      { key: 'g7_word_geo',   name: 'Probleme · Geometrie',                        color: '#F87171', icon: '📐', generators: [G7.triangleWord, G7.pythagWord] },
+      { key: 'g7_word_speed', name: 'Probleme · Viteză & Distanță',                color: '#EF4444', icon: '🚗', generators: [G7.wordTravel7] },
+      { key: 'g7_word_ratio', name: 'Probleme · Rapoarte',                         color: '#DC2626', icon: '⚡', generators: [G7.wordRatio7] },
+      { key: 'g7_word_alg',   name: 'Probleme · Algebră',                          color: '#B91C1C', icon: 'x',  generators: [G7.wordThink, G7.wordSquare] },
     ]},
   ],
   8: [
-    { key: 'g8_algebra', name: 'Algebră & Rădăcini', color: '#6366F1', icon: '√', topics: [
-      { key: 'sqrt', name: 'Rădăcini pătrate', color: '#818CF8', icon: '√', generators: [G8.sqrt, G8.sqrtExpr] },
-      { key: 'complex', name: 'Expresii complexe', color: '#6366F1', icon: 'x²', generators: [G8.complexPow, G8.complexExpr] },
+    { key: 'g8_sqrt', name: 'Rădăcini pătrate & Surde', color: '#6366F1', icon: '√', topics: [
+      { key: 'g8_sqrt_basic',    name: 'Rădăcini pătrate perfecte  (√36 = ?)',       color: '#818CF8', icon: '√',  generators: [G8.sqrt] },
+      { key: 'g8_sqrt_expr',     name: 'Expresii cu radicali  (√25 + 3×2)',          color: '#6366F1', icon: '√+', generators: [G8.sqrtExpr] },
+      { key: 'g8_sqrt_estimate', name: 'Estimare √n (între ce întregi se află)',      color: '#4F46E5', icon: '≈',  generators: [G8.sqrtEstimate] },
+      { key: 'g8_sqrt_simplify', name: 'Simplificarea radicalilor  (√50 = 5√2)',     color: '#4338CA', icon: '√x', generators: [G8.sqrtSimplify] },
+      { key: 'g8_sqrt_visual',   name: 'Radical pe dreapta numerică – Vizual  📏',  color: '#818CF8', icon: '📏', generators: [G8.sqrt, G8.sqrtEstimate] },
     ]},
-    { key: 'g8_eq', name: 'Ecuații', color: '#8B5CF6', icon: '=', topics: [
-      { key: 'eq', name: 'Rezolvarea ecuațiilor', color: '#A78BFA', icon: '=', generators: [G8.eqSimple, G8.eqTwoSide] },
+    { key: 'g8_quad', name: 'Ecuații de gradul 2', color: '#8B5CF6', icon: 'x²', topics: [
+      { key: 'g8_quad_simple',   name: 'Rezolvă  x² = n  (rădăcina pozitivă)',       color: '#A78BFA', icon: 'x²', generators: [G8.quadSimple] },
+      { key: 'g8_quad_shifted',  name: 'Rezolvă  (x+a)² = b',                        color: '#7C3AED', icon: '(x+a)²', generators: [G8.quadShifted] },
+      { key: 'g8_quad_eval',     name: 'Calculează  ax² + b  (înlocuiește x)',        color: '#6D28D9', icon: 'f(x)', generators: [G8.quadEval] },
+      { key: 'g8_quad_diff',     name: 'Diferența pătratelor  a² − b²',              color: '#5B21B6', icon: '²−²', generators: [G8.quadDiff] },
+      { key: 'g8_quad_visual',   name: 'Ecuații patratice – Vizual  📐',             color: '#A78BFA', icon: '📐', generators: [G8.quadSimple, G8.quadEval] },
     ]},
-    { key: 'g8_func', name: 'Funcții', color: '#10B981', icon: 'f(x)', topics: [
-      { key: 'func', name: 'Funcții liniare', color: '#34D399', icon: 'f(x)', generators: [G8.funcValue, G8.funcIntercept] },
+    { key: 'g8_eq', name: 'Ecuații', color: '#EC4899', icon: '=', topics: [
+      { key: 'g8_eq_simple',    name: 'Ecuații în 2 pași  (ax − b = c)',              color: '#F9A8D4', icon: '=',  generators: [G8.eqSimple] },
+      { key: 'g8_eq_twoside',   name: 'Necunoscuta pe ambele părți  (ax+b = cx+d)',  color: '#EC4899', icon: '⇔',  generators: [G8.eqTwoSide] },
+      { key: 'g8_eq_frac',      name: 'Ecuații cu fracții  (x/a + b = c)',           color: '#DB2777', icon: '½',  generators: [G8.eqFrac8] },
+      { key: 'g8_eq_word',      name: 'Probleme cu ecuații',                         color: '#9D174D', icon: '📖', generators: [G8.eqWord8] },
+      { key: 'g8_ineq_basic',   name: 'Inecuații  ax+b > c / ax−b < c',             color: '#BE185D', icon: '>',  generators: [G8.inequality8] },
+      { key: 'g8_ineq_compound','name': 'Inecuații duble  a < ax+b < c',             color: '#9D174D', icon: '‹›', generators: [G8.inequalityCompound] },
+      { key: 'g8_ineq_visual',  name: 'Inecuație pe dreaptă numerică – Vizual  📏', color: '#F9A8D4', icon: '📏', generators: [G8.inequality8] },
+    ]},
+    { key: 'g8_system', name: 'Sisteme de ecuații', color: '#0EA5E9', icon: '⇄', topics: [
+      { key: 'g8_sys_add',      name: 'Metoda adunării  (x+y=n, x−y=m)',             color: '#38BDF8', icon: '⊕',  generators: [G8.systemEq] },
+      { key: 'g8_sys_coeffs',   name: 'Sisteme cu coeficienți  (2x+y=n)',            color: '#0EA5E9', icon: '×',  generators: [G8.systemEqB] },
+      { key: 'g8_sys_graph',    name: 'Intersecție grafică  f(x) = g(x)',            color: '#0284C7', icon: '📈', generators: [G8.systemGraphical] },
+      { key: 'g8_sys_word',     name: 'Probleme cu sisteme de ecuații',              color: '#0369A1', icon: '📖', generators: [G8.systemWord] },
+      { key: 'g8_sys_visual',   name: 'Sistem – Vizual balanță  ⚖️',                color: '#BAE6FD', icon: '⚖️', generators: [G8.systemEq, G8.systemEqB] },
+    ]},
+    { key: 'g8_func', name: 'Funcții liniare', color: '#10B981', icon: 'f(x)', topics: [
+      { key: 'g8_func_value',   name: 'Valoarea funcției  f(x) = mx + b',             color: '#6EE7B7', icon: 'f(x)', generators: [G8.funcValue] },
+      { key: 'g8_func_neg',     name: 'Pantă negativă  f(x) = −mx + b',              color: '#34D399', icon: '↘️', generators: [G8.funcNegSlope] },
+      { key: 'g8_func_slope',   name: 'Panta din două puncte  m = Δy/Δx',           color: '#10B981', icon: 'm',  generators: [G8.funcSlope] },
+      { key: 'g8_func_intercept','name': 'Ordonata la origine  f(0) = b',             color: '#059669', icon: 'b',  generators: [G8.funcIntercept] },
+      { key: 'g8_func_eq',      name: 'Determinarea ecuației (punct + m → b)',       color: '#047857', icon: '✏️', generators: [G8.funcFindEq] },
+      { key: 'g8_func_word',    name: 'Probleme cu funcții  (cost, rată)',            color: '#065F46', icon: '📖', generators: [G8.funcWord] },
+      { key: 'g8_func_visual',  name: 'Graficul funcției – Vizual  📈',              color: '#A7F3D0', icon: '📈', generators: [G8.funcValue, G8.funcSlope] },
     ]},
     { key: 'g8_prob', name: 'Probabilitate', color: '#F59E0B', icon: '🎲', topics: [
-      { key: 'prob', name: 'Calcul de probabilitate', color: '#FBBF24', icon: '🎲', generators: [G8.probBall, G8.probDice, G8.probCoin] },
+      { key: 'g8_prob_basic',   name: 'Probabilitate de bază  (bile, monedă, zar)',   color: '#FDE047', icon: '🎲', generators: [G8.probBall, G8.probDice, G8.probCoin] },
+      { key: 'g8_prob_comp',    name: 'Eveniment complementar  P(A\') = 1 − P(A)',   color: '#FBBF24', icon: 'A\'', generators: [G8.probComplementary] },
+      { key: 'g8_prob_two',     name: 'Evenimente independente  P(A și B)',           color: '#F59E0B', icon: '∩',  generators: [G8.probTwoEvents] },
+      { key: 'g8_prob_atleast', name: 'Cel puțin unul  P(A sau B)',                   color: '#D97706', icon: '∪',  generators: [G8.probAtLeastOne] },
+      { key: 'g8_prob_freq',    name: 'Frecvență relativă din experimente',           color: '#B45309', icon: '📊', generators: [G8.probFreq] },
+      { key: 'g8_prob_visual',  name: 'Diagramă arbore – Vizual  🌳',               color: '#FEF3C7', icon: '🌳', generators: [G8.probBall, G8.probTwoEvents] },
+    ]},
+    { key: 'g8_stats', name: 'Statistică', color: '#06B6D4', icon: '📊', topics: [
+      { key: 'g8_stat_mean',    name: 'Media aritmetică',                             color: '#67E8F9', icon: '📊', generators: [G8.statsMean8] },
+      { key: 'g8_stat_median',  name: 'Mediana unui set de date',                     color: '#22D3EE', icon: '📊', generators: [G8.statsMedian8] },
+      { key: 'g8_stat_mode',    name: 'Modul (valoarea cea mai frecventă)',           color: '#06B6D4', icon: '🎯', generators: [G8.statsMode8] },
+      { key: 'g8_stat_range',   name: 'Amplitudinea (max − min)',                     color: '#0891B2', icon: '↔️', generators: [G8.statsRange8] },
+      { key: 'g8_stat_chart',   name: 'Citire diagramă & medie',                     color: '#0E7490', icon: '📈', generators: [G8.statsBarChart] },
+      { key: 'g8_stat_visual',  name: 'Histogramă / Diagramă bare – Vizual  📊',    color: '#A5F3FC', icon: '📊', generators: [G8.statsMean8, G8.statsMedian8] },
+    ]},
+    { key: 'g8_transform', name: 'Transformări geometrice', color: '#F97316', icon: '🔄', topics: [
+      { key: 'g8_trans_translate', name: 'Translație (deplasare cu vector)',           color: '#FDBA74', icon: '→',  generators: [G8.translatePoint] },
+      { key: 'g8_trans_reflectX',  name: 'Reflexie față de axa x  (x, −y)',          color: '#F97316', icon: '↕️', generators: [G8.reflectX] },
+      { key: 'g8_trans_reflectY',  name: 'Reflexie față de axa y  (−x, y)',          color: '#EA580C', icon: '↔️', generators: [G8.reflectY] },
+      { key: 'g8_trans_rotate',    name: 'Rotație 90° în jurul originii',             color: '#C2410C', icon: '↺',  generators: [G8.rotate90] },
+      { key: 'g8_trans_scale',     name: 'Factor de scară / Asemănare',              color: '#9A3412', icon: '⤢',  generators: [G8.scaleFactor] },
+      { key: 'g8_trans_visual',    name: 'Transformări în sistem de coord. – Vizual  🗺️', color: '#FED7AA', icon: '🗺️', generators: [G8.translatePoint, G8.reflectX] },
+    ]},
+    { key: 'g8_geo', name: 'Geometrie & Volume', color: '#EF4444', icon: '📐', topics: [
+      { key: 'g8_geo_cyl',      name: 'Volumul cilindrului  πr²h',                   color: '#FCA5A5', icon: '🥫', generators: [G8.volumeCylinder] },
+      { key: 'g8_geo_surf_cyl', name: 'Aria laterală cilindru  2πrh',                color: '#F87171', icon: '🔵', generators: [G8.surfaceCylinder] },
+      { key: 'g8_geo_surf_box', name: 'Aria suprafeței cuboidului  2(ab+bc+ac)',     color: '#EF4444', icon: '📦', generators: [G8.surfaceBox8] },
+      { key: 'g8_geo_cyl_visual','name': 'Cilindru Suprafață – Vizual  🥫',          color: '#FEE2E2', icon: '🥫', generators: [G8.volumeCylinder, G8.surfaceCylinder] },
+    ]},
+    { key: 'g8_complex', name: 'Expresii mixte', color: '#7C3AED', icon: 'x²√', topics: [
+      { key: 'g8_cplx_pow',     name: 'Puteri + Radicali  (a² + √n)',                color: '#8B5CF6', icon: '²√', generators: [G8.complexPow, G8.complexMixed] },
+      { key: 'g8_cplx_expr',    name: 'Evaluarea expresiilor mixte',                color: '#7C3AED', icon: 'f(x)', generators: [G8.complexExpr] },
     ]},
   ],
 };
@@ -5116,31 +6710,31 @@ export function generateKlassenarbeit(grade: number, period?: number, countryCod
           name: "Arithmetics",
           questionCount: 2,
           pointsPerQuestion: 1,
-          generators: [G6.negative, G6.negativeB, G6.negativeC],
+          generators: [G6.negative, G6.negSub, G6.negMul, G6.negAbsolute],
         },
         fractions: {
           name: "Fractions",
           questionCount: 2,
           pointsPerQuestion: 2,
-          generators: [G6.fractionMul, G6.fractionDiv],
+          generators: [G6.fractionMul, G6.fracMulFrac, G6.fractionDiv, G6.fracToPercent],
         },
         ratios: {
           name: "Ratios & Speed",
           questionCount: 2,
           pointsPerQuestion: 2,
-          generators: [G6.ratio, G6.speed, G6.percentCalc],
+          generators: [G6.ratio, G6.ratioMissing, G6.ruleOfThree, G6.speed],
         },
         geometry: {
           name: "Geometry",
           questionCount: 2,
           pointsPerQuestion: 2,
-          generators: [G6.areaTriangle, G6.areaSquare],
+          generators: [G6.areaTriangle, G6.areaParallelogram, G6.areaTrapezoid, G6.circle],
         },
         bonus: {
           name: "Bonus",
           questionCount: 1,
           pointsPerQuestion: 1,
-          generators: [G6.percentDiscount, G6.wordTrain],
+          generators: [G6.percentCalc, G6.percentDiscount, G6.equation1, G6.mean],
         },
       };
       break;
@@ -5183,34 +6777,40 @@ export function generateKlassenarbeit(grade: number, period?: number, countryCod
     case 8:
       sections = {
         algebra: {
-          name: "Algebra",
+          name: "Algebra & Roots",
           questionCount: 2,
           pointsPerQuestion: 1,
-          generators: [G8.sqrt, G8.sqrtExpr],
+          generators: [G8.sqrt, G8.sqrtExpr, G8.sqrtEstimate, G8.sqrtSimplify],
+        },
+        quadratic: {
+          name: "Quadratic Equations",
+          questionCount: 2,
+          pointsPerQuestion: 2,
+          generators: [G8.quadSimple, G8.quadShifted, G8.quadEval, G8.quadDiff],
         },
         equations: {
           name: "Equations",
           questionCount: 2,
           pointsPerQuestion: 2,
-          generators: [G8.eqTwoSide, G8.eqSimple],
+          generators: [G8.eqTwoSide, G8.eqSimple, G8.eqFrac8, G8.inequality8],
         },
         functions: {
           name: "Functions",
           questionCount: 2,
           pointsPerQuestion: 2,
-          generators: [G8.funcValue, G8.funcIntercept],
+          generators: [G8.funcValue, G8.funcIntercept, G8.funcSlope, G8.funcNegSlope],
         },
         probability: {
           name: "Probability",
           questionCount: 2,
           pointsPerQuestion: 2,
-          generators: [G8.probBall, G8.probDice, G8.probCoin],
+          generators: [G8.probBall, G8.probComplementary, G8.probTwoEvents, G8.probDice],
         },
         bonus: {
           name: "Bonus",
           questionCount: 1,
           pointsPerQuestion: 1,
-          generators: [G8.complexPow, G8.complexExpr],
+          generators: [G8.complexPow, G8.complexExpr, G8.systemEq, G8.statsMean8],
         },
       };
       break;

@@ -1,6 +1,8 @@
 'use client';
 
-import React from 'react';
+import React, { useState } from 'react';
+import { Pencil, ChevronUp } from 'lucide-react';
+import DraftPanel from './draft/DraftPanel';
 import type {
   SchoolTaskBlock as SchoolTaskBlockType,
   SchoolTaskAnswers,
@@ -58,6 +60,32 @@ const NumberLineRounding = dynamic(() => import('./grade4-visual/NumberLineRound
 const AngleDrawer = dynamic(() => import('./grade4-visual/AngleDrawer'), { ssr: false });
 const CircleDrawer = dynamic(() => import('./grade4-visual/CircleDrawer'), { ssr: false });
 const MoneyCalculator = dynamic(() => import('./grade4-visual/MoneyCalculator'), { ssr: false });
+
+// Grade 6 visual components
+const G6CoordPlane4Q = dynamic(() => import('./grade6-visual/CoordPlane4Q'), { ssr: false });
+const G6PieChartRead = dynamic(() => import('./grade6-visual/PieChartRead'), { ssr: false });
+const G6RatioTableFill = dynamic(() => import('./grade6-visual/RatioTableFill'), { ssr: false });
+const G6TrapezoidAreaCalc = dynamic(() => import('./grade6-visual/TrapezoidAreaCalc'), { ssr: false });
+const G6PercentBar = dynamic(() => import('./grade6-visual/PercentBar'), { ssr: false });
+
+// Grade 7 visual components
+const G7PythagoreanVisual = dynamic(() => import('./grade7-visual/PythagoreanVisual'), { ssr: false });
+const G7TriangleAngles = dynamic(() => import('./grade7-visual/TriangleAngles'), { ssr: false });
+const G7InequalityLine = dynamic(() => import('./grade7-visual/InequalityLine'), { ssr: false });
+const G7PowerGrid = dynamic(() => import('./grade7-visual/PowerGrid'), { ssr: false });
+const G7CircleVisual = dynamic(() => import('./grade7-visual/CircleVisual'), { ssr: false });
+const G7CylinderVolume = dynamic(() => import('./grade7-visual/CylinderVolume'), { ssr: false });
+const G7StatisticsVisual = dynamic(() => import('./grade7-visual/StatisticsVisual'), { ssr: false });
+
+// Grade 8 visual components
+const G8FunctionGraph = dynamic(() => import('./grade8-visual/FunctionGraph'), { ssr: false });
+const G8ProbabilityTree = dynamic(() => import('./grade8-visual/ProbabilityTree'), { ssr: false });
+const G8QuadraticSqrt = dynamic(() => import('./grade8-visual/QuadraticSqrt'), { ssr: false });
+const G8SystemsBalance = dynamic(() => import('./grade8-visual/SystemsBalance'), { ssr: false });
+const G8TransformationGrid = dynamic(() => import('./grade8-visual/TransformationGrid'), { ssr: false });
+const G8StatisticsHistogram = dynamic(() => import('./grade8-visual/StatisticsHistogram'), { ssr: false });
+const G8CylinderSurface = dynamic(() => import('./grade8-visual/CylinderSurface'), { ssr: false });
+const G8InequalityLine = dynamic(() => import('./grade8-visual/InequalityLine8'), { ssr: false });
 
 // Grade 1 visual components
 const G1AnalogClock = dynamic(() => import('./grade1-visual/AnalogClock'), { ssr: false });
@@ -130,6 +158,7 @@ export default function SchoolTaskBlock({
   cc = 'DE',
 }: Props) {
   const circleNum = CIRCLE_NUMS[blockIndex] || `${blockIndex + 1}.`;
+  const [draftOpen, setDraftOpen] = useState(false);
 
   // Build correctAnswers map for this block
   const correctAnswers: Record<string, string | number> = {};
@@ -217,6 +246,49 @@ export default function SchoolTaskBlock({
         return <NegativeNumberLine startNum={p.startNum} addNum={p.addNum} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       case 'g5-volume-cuboid':
         return <VolumeCuboid length={p.length} width={p.width} height={p.height} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      // Grade 6 visual components
+      case 'g6-coord-4q':
+        return <G6CoordPlane4Q pointX={p.pointX} pointY={p.pointY} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g6-pie-chart':
+        return <G6PieChartRead slices={p.slices} targetIndex={p.targetIndex} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g6-ratio-table':
+        return <G6RatioTableFill unitValue={p.unitValue} quantities={p.quantities} hiddenIdx={p.hiddenIdx} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g6-trapezoid-area':
+        return <G6TrapezoidAreaCalc baseA={p.baseA} baseB={p.baseB} height={p.height} shapeType={p.shapeType} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g6-percent-bar':
+        return <G6PercentBar percentage={p.percentage} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      // Grade 7 visual components
+      case 'g7-pythagorean':
+        return <G7PythagoreanVisual subQuestions={[{ a: p.a, b: p.b, findC: p.findC, answer: p.answer }]} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g7-triangle-angles':
+        return <G7TriangleAngles subQuestions={[{ a: p.a, b: p.b, answer: p.answer }]} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g7-inequality-line':
+        return <G7InequalityLine subQuestions={[{ expression: p.expression, isGt: p.isGt, answer: p.answer, solution: p.solution }]} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g7-power-grid':
+        return <G7PowerGrid subQuestions={[{ n: p.n, type: p.type, answer: p.answer }]} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g7-circle':
+        return <G7CircleVisual subQuestions={[{ r: p.r, findArea: p.findArea, answer: p.answer }]} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g7-cylinder-volume':
+        return <G7CylinderVolume subQuestions={[{ r: p.r, h: p.h, answer: p.answer }]} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g7-statistics':
+        return <G7StatisticsVisual subQuestions={[{ data: p.data, statType: p.statType, answer: p.answer }]} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      // Grade 8 visual components
+      case 'g8-function-graph':
+        return <G8FunctionGraph subQuestions={p.subQuestions} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g8-probability-tree':
+        return <G8ProbabilityTree subQuestions={p.subQuestions} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g8-quadratic-sqrt':
+        return <G8QuadraticSqrt subQuestions={p.subQuestions} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g8-systems-balance':
+        return <G8SystemsBalance subQuestions={p.subQuestions} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g8-transformation-grid':
+        return <G8TransformationGrid subQuestions={p.subQuestions} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g8-statistics-histogram':
+        return <G8StatisticsHistogram subQuestions={p.subQuestions} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g8-cylinder-surface':
+        return <G8CylinderSurface subQuestions={p.subQuestions} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g8-inequality-line':
+        return <G8InequalityLine subQuestions={p.subQuestions} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
       // Grade 1 visual components
       case 'g1-clock':
         return <G1AnalogClock hour={p.hour} minute={p.minute} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
@@ -397,7 +469,21 @@ export default function SchoolTaskBlock({
       case 'visual_g5_barchart':
       case 'visual_g5_symmetry':
       case 'visual_g5_unit_convert':
-      case 'visual_g5_nl_arith': {
+      case 'visual_g5_nl_arith':
+      case 'visual_g5_neg_line':
+      case 'visual_g5_volume_cuboid':
+      case 'visual_g6_coord_4q':
+      case 'visual_g6_pie_chart':
+      case 'visual_g6_ratio_table':
+      case 'visual_g6_trapezoid':
+      case 'visual_g6_percent_bar':
+      case 'visual_g7_pythagorean':
+      case 'visual_g7_triangle_angles':
+      case 'visual_g7_inequality_line':
+      case 'visual_g7_power_grid':
+      case 'visual_g7_circle':
+      case 'visual_g7_cylinder_volume':
+      case 'visual_g7_statistics': {
         return (
           <div className="space-y-3">
             {block.subQuestions.map((sq, idx) => (
@@ -463,7 +549,33 @@ export default function SchoolTaskBlock({
         >
           {isGrading ? `${Math.round((earnedPoints ?? 0) * 10) / 10} / ` : ''}{block.totalPoints} P.
         </span>
+
+        {/* Draft toggle button — hidden for visual blocks */}
+        {!isGrading && !block.type.startsWith('visual_') && (
+          <button
+            onClick={() => setDraftOpen((v) => !v)}
+            className={`flex-shrink-0 p-1 rounded transition-colors ${
+              draftOpen
+                ? 'bg-amber-100 border border-amber-300 text-amber-700'
+                : 'bg-amber-50 hover:bg-amber-100 border border-amber-200 text-amber-500'
+            }`}
+            title={draftOpen ? 'Piszkozat elrejtése' : 'Piszkozat'}
+          >
+            {draftOpen ? <ChevronUp size={12} /> : <Pencil size={12} />}
+          </button>
+        )}
       </div>
+
+      {/* Draft Panel */}
+      {!isGrading && draftOpen && (
+        <div className="pl-9 mb-3">
+          <DraftPanel
+            testId="schooltest"
+            questionId={`block_${blockIndex}`}
+            countryCode={cc}
+          />
+        </div>
+      )}
 
       {/* Task body */}
       <div className="pl-9">
