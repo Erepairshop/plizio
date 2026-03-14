@@ -42,16 +42,23 @@ const DELAY_MS = 500;          // ms várakozás URL-ek között (ne bombázzuk)
 const BATCH_LOG = true;        // logolás minden URL-hez
 
 // ── Sitemapok (prioritás sorrendben) ─────────────────────────────────────────
-const SITEMAP_FILES = [
-  "../public/sitemap.xml",
-  "../public/sitemap-games.xml",
-  "../public/sitemap-education.xml",
-  "../public/sitemap-math-test-en.xml",
-  "../public/sitemap-deutsch-test.xml",
-  "../public/sitemap-english-test.xml",
-  "../public/sitemap-categories.xml",
-  "../public/sitemap-blog.xml",
+// Dev: sitemapok a ../public/ mappában; Szerver (deploy után): a scripts/ felett közvetlenül
+const SITEMAP_NAMES = [
+  "sitemap.xml",
+  "sitemap-games.xml",
+  "sitemap-education.xml",
+  "sitemap-math-test-en.xml",
+  "sitemap-deutsch-test.xml",
+  "sitemap-english-test.xml",
+  "sitemap-categories.xml",
+  "sitemap-blog.xml",
 ];
+
+// Automatikus útvonal felderítés: dev vs szerver
+const devBase   = path.join(__dirname, "../public");
+const srvBase   = path.join(__dirname, "..");
+const SITEMAP_BASE = existsSync(path.join(devBase, "sitemap.xml")) ? devBase : srvBase;
+const SITEMAP_FILES = SITEMAP_NAMES.map((n) => path.join(SITEMAP_BASE, n));
 
 // ── Ellenőrzés ────────────────────────────────────────────────────────────────
 if (!existsSync(SERVICE_ACCOUNT_PATH)) {
@@ -139,10 +146,9 @@ async function main() {
   const allUrls = [];
   const seen = new Set();
 
-  for (const relPath of SITEMAP_FILES) {
-    const fullPath = path.join(__dirname, relPath);
+  for (const fullPath of SITEMAP_FILES) {
     if (!existsSync(fullPath)) {
-      console.warn(`⚠️  Sitemap nem található: ${relPath}`);
+      console.warn(`⚠️  Sitemap nem található: ${path.basename(fullPath)}`);
       continue;
     }
     const xml = readFileSync(fullPath, "utf-8");
@@ -155,7 +161,7 @@ async function main() {
         added++;
       }
     }
-    console.log(`📄 ${path.basename(relPath)}: ${added} URL`);
+    console.log(`📄 ${path.basename(fullPath)}: ${added} URL`);
   }
 
   console.log(`\n✅ Összesen: ${allUrls.length} egyedi URL`);
