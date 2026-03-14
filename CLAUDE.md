@@ -1237,17 +1237,51 @@ Szabályok:
 
 ## ASTROMATH — Animált felfedező matematika (1-8. osztály)
 
-> Állapot: fejlesztés alatt (2026-03-14) — 1. osztály teljesen kész (9 sziget + 3 checkpoint), többi osztály tervezett
-> Route: `/astromath/1/` (1. osztály), tervezett: `/astromath/2/` … `/astromath/8/`
+> Állapot: fejlesztés alatt (2026-03-14) — Klasse 1, 2, 4 kész, többi tervezett
+> Route: `/astromath/` (hub), `/astromath/1/`, `/astromath/2/`, `/astromath/4/`
 > Mottó: „Haladj úgy, ahogy az iskolában tanítják — szigetenként, lépésről lépésre."
 
-### Fájlstruktúra (jelenlegi)
+### Fájlstruktúra
 
 ```
-app/astromath/1/page.tsx     ← 1. osztály teljes játékoldala (9 sziget + checkpointok)
-app/astromath/1/layout.tsx   ← SEO metadata
-lib/astromath.ts             ← Sziget/misszió definíciók, progress, kérdésgenerálás
+app/astromath/page.tsx          ← Galaxia hub (8 bolygó, osztály-választó)
+app/astromath/planets.tsx       ← SVG bolygó illusztrációk (PlanetTerra, Aquaria, Ignos, Aureon, Violetis, Saturnia, Verdis, Cosmara)
+app/astromath/1/page.tsx        ← G1 teljes játékoldala
+app/astromath/1/layout.tsx      ← SEO
+app/astromath/2/page.tsx        ← G2 teljes játékoldala
+app/astromath/2/layout.tsx      ← SEO
+app/astromath/4/page.tsx        ← G4 teljes játékoldala (4. osztályos specifikus játéktípusokkal)
+app/astromath/4/layout.tsx      ← SEO
+app/astromath/games/            ← Megosztott játék motorok (G1, G2, G4 mind ezeket importálja)
+  OrbitQuiz.tsx                 ← MCQ kvíz, 4 válasz, "Next" gomb
+  BlackHole.tsx                 ← MCQ kvíz, sötét stílusú variáns
+  GravitySort.tsx               ← Számok sorrendbe rakása
+  StarMatch.tsx                 ← Kérdés-válasz párosítás tap-to-pair
+  NumberDuel.tsx                ← Melyik szám nagyobb/kisebb? (comp)
+  RocketLaunch.tsx              ← Checkpoint előtti bemelegítő kvíz
+  SpeedRound.tsx                ← ⚡ G4+ — Időnyomásos kvíz (8s/kérdés, auto-advance)
+  FractionVisual.tsx            ← 🍕 G4+ — SVG pizza-szelet tört vizualizáció
+  EquationDrill.tsx             ← 🧮 G4+ — Nagy egyenlet-display, ? ikon, kártyaválasztás
+  translations.ts               ← Megosztott fordítások a játék UI-hoz
+lib/astromath.ts                ← G1 sziget definíciók, progress, GameType typedef
+lib/astromath2.ts               ← G2 sziget definíciók, progress
+lib/astromath4.ts               ← G4 sziget definíciók, progress
 ```
+
+### Bolygók (planets.tsx)
+
+| Osztály | Bolygó neve | Stílus | Fő szín |
+|---------|------------|--------|---------|
+| 1 | Terra | Föld-szerű, kontinensek, tenger | #1B6CA8 kék + #2ECC71 zöld |
+| 2 | Aquaria | Óceánvilág, vortex | #0096C7 ciánkék |
+| 3 | Ignos | Mars/tűz, kráterek | #C1121F vörös |
+| 4 | Aureon | Gázóriás, sávok + viharfolt | #FFD700 arany |
+| 5 | Violetis | Ködviharz, örvény | #B44DFF lila |
+| 6 | Saturnia | Gyűrűs bolygó (Saturn-szerű) | #FF9500 narancs |
+| 7 | Verdis | Dzsungelvilág, köd | #10B981 smaragd |
+| 8 | Cosmara | Kristálybolygó, csillogás | #E879F9 pink |
+
+**Exportok:** `GRADE_PLANETS[0..7]` (komponens tömb), `PLANET_NAMES[lang][0..7]` (névtömb)
 
 ### Architektúra — page.tsx főbb state-jei
 
@@ -1293,14 +1327,35 @@ CHECKPOINT_MAP = {
 ```
 Checkpoint téma key-ek: `CHECKPOINT_TOPICS` — ezekből generálódnak a checkpoint kérdések.
 
-### 4 játéktípus (GameType)
+### Játéktípusok (GameType)
 
-| GameType | Leírás | Kérdésszám |
-|----------|---------|-----------|
-| `orbit-quiz` | MCQ kvíz — 4 válasz közül kell választani | 10 kérdés |
-| `black-hole` | MCQ kvíz — sötét stílusú variáns | 10 kérdés |
-| `gravity-sort` | Számok sorrendbe rakása (GravitySort) | 5 fordulóig |
-| `star-match` | Kérdés-válasz párosítás tap-to-pair módszerrel | 20 pár, 5 forduló |
+| GameType | Fájl | Kinek | Kérdésszám | Leírás |
+|----------|------|-------|-----------|--------|
+| `orbit-quiz` | OrbitQuiz.tsx | G1-G4 | 10 | MCQ kvíz, 4 válasz, "Next" gomb |
+| `black-hole` | BlackHole.tsx | G1-G4 | 10 | MCQ kvíz, sötét stílusú variáns |
+| `gravity-sort` | GravitySort.tsx | G1-G4 | 5 kör | Számok sorrendbe rakása |
+| `star-match` | StarMatch.tsx | G1-G4 | 20 pár | Kérdés-válasz párosítás tap-to-pair |
+| `number-duel` | NumberDuel.tsx | G1-G4 | — | Melyik szám nagyobb/kisebb? |
+| `speed-round` | SpeedRound.tsx | **G4+** | 10 | ⚡ Időnyomásos (8s/kérdés), auto-advance, nincs "Next" gomb |
+| `fraction-visual` | FractionVisual.tsx | **G4+** | 10 | 🍕 SVG pizza-szelet tört, önálló kérdésgenerálás |
+| `equation-drill` | EquationDrill.tsx | **G4+** | 10 | 🧮 Nagy egyenlet-display, ? ikon pulsál, kártyaválasztás |
+
+**SpeedRound részletek:**
+- 8 másodperc/kérdés — draining timer bar (zöld→sárga→piros)
+- Ha lejár az idő → automatikusan „téves" és következő kérdés
+- Nincs „Next" gomb — azonnal auto-advance 650ms feedback után
+- `lang` prop kötelező (saját LABELS fordítástömb, nem a T objektumot használja)
+
+**FractionVisual részletek:**
+- Saját kérdésgenerálás (nem kap `questions[]` propot!)
+- SVG kör szektorokra osztva, M/N szektor kiszínezve
+- Tört pool: 1/2, 1/3, 2/3, 1/4, 3/4, 1/5…4/5, 1/6, 5/6, 1/8, 3/8, 5/8, 7/8
+- Props: `{ color, onDone, onCorrect?, onWrong?, lang? }`
+
+**EquationDrill részletek:**
+- OrbitQuiz-hoz hasonló, de: NAGY betűméret (text-3xl), villódzó "?" animáció
+- MCQ kártyák: text-2xl, py-5 — könnyebb tap
+- `lang` prop kötelező
 
 **StarMatch részletek:**
 - 5 forduló × 5 pár/forduló = 25 érintés összesen
@@ -1365,13 +1420,48 @@ const qCount = mission.gameType === "star-match" ? 20 : 10;
 generateCheckpointQuestions(testId, lang, count)
 ```
 
+### G4 szigetek (lib/astromath4.ts)
+
+| Sziget | Téma | Játéktípusok | topicKeys |
+|--------|------|-------------|-----------|
+| i1 Große Zahlen | Nagy számok, helyiérték | speed-round, number-duel, gravity-sort | `place`, `place1k` |
+| i2 Multiplikation | Szorzás | speed-round, equation-drill, star-match | `mul` |
+| i3 Division | Osztás | speed-round, equation-drill, black-hole | `div` |
+| i4 Bruchrechnung | Törtek | fraction-visual, orbit-quiz, star-match | `frac` |
+| i5 Geometrie | Geometria | orbit-quiz, speed-round, star-match | `geo` |
+| i6 Sachaufgaben | Szöveges feladatok | orbit-quiz, orbit-quiz, star-match | `word` |
+| i7 Einheiten & Messen | Mértékegységek | orbit-quiz, star-match, black-hole | `units` |
+| i8 Winkel & Symmetrie | Szögek, szimmetria | orbit-quiz, star-match, black-hole | `angles`, `symmetry_en` |
+| i9 Großes Finale | Vegyes finálé | orbit-quiz, black-hole, star-match | `geo`, `word`, `frac` |
+
+**Checkpoint témák (G4):**
+- test1: `["place", "place1k", "mul", "div"]`
+- test2: `["frac", "geo", "word"]`
+- test3: `["units", "angles", "geo"]`
+
+**localStorage kulcs:** `astromath_g4_v1`
+
+### G2 szigetek (lib/astromath2.ts)
+
+| Sziget | Téma | topicKeys |
+|--------|------|-----------|
+| i1 Zahlenraum 100 | Számok 100-ig | `g2_zahlen100`, `g2_ordnung` |
+| i2 Kopfrechnen | Fejszámolás | `g2_kopf`, `g2_nachbarzahlen` |
+| i3 Addition ohne Übertrag | Összeadás átvitel nélkül | `add`, `g2_add_hunderter` |
+| i4 Subtraktion ohne Übertrag | Kivonás átvitel nélkül | `sub`, `g2_sub_hunderter` |
+| i5 Addition mit Übertrag | Összeadás átvitellel | `add`, `g2_add_uebertrag` |
+| i6 Subtraktion mit Übertrag | Kivonás átvitellel | `sub`, `g2_sub_uebertrag` |
+| i7 Einmaleins | Szorzótábla | `g2_mal`, `mul` |
+| i8 Division | Osztás | `g2_div`, `div` |
+| i9 Messen & Sachaufgaben | Mérések + szöveges | `g2_messen`, `word` |
+
+**localStorage kulcs:** `astromath_g2_v1`
+
 ### Tervezett fejlesztések (TODO)
 
-1. **Csillag alapú score számítás** — `calculateStars()` függvény megírása (jelenleg mindig 1 csillag?)
-2. **G2-G8 oldalak** — `/astromath/2/` … `/astromath/8/` megvalósítása
-3. **Galaxia térkép** — `/astromath/` főoldal, 8 bolygóval (1 bolygó = 1 osztály)
-4. **Hangeffektek** — Web Audio API / rövid MP3 fájlok (sziget teljesítés, helyes válasz stb.)
-5. **Animált pályabejárás** — rakéta animáció szigetek között a térképen
+1. **G3, G5-G8 oldalak** — `/astromath/3/`, `/astromath/5/`…`/astromath/8/` megvalósítása
+2. **Hangeffektek** — Web Audio API / rövid MP3 fájlok (sziget teljesítés, helyes válasz stb.)
+3. **Animált pályabejárás** — rakéta animáció szigetek között a térképen
 
 ---
 

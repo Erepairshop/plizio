@@ -23,6 +23,9 @@ import GravitySort from "@/app/astromath/games/GravitySort";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import NumberDuel from "@/app/astromath/games/NumberDuel";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
+import SpeedRound from "@/app/astromath/games/SpeedRound";
+import FractionVisual from "@/app/astromath/games/FractionVisual";
+import EquationDrill from "@/app/astromath/games/EquationDrill";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -52,6 +55,9 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "number-duel"
+  | "speed-round"
+  | "fraction-visual"
+  | "equation-drill"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -426,7 +432,7 @@ export default function AstroMathG4Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    if (mission.gameType === "number-duel" || mission.gameType === "gravity-sort") {
+    if (mission.gameType === "number-duel" || mission.gameType === "gravity-sort" || mission.gameType === "fraction-visual") {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
       return;
@@ -701,11 +707,26 @@ export default function AstroMathG4Page() {
         {screen === "number-duel" && activeIsland && (
           <NumberDuel sortRange={activeIsland.sortRange} color={bgColor} onDone={handleMissionDone} />
         )}
+        {screen === "speed-round" && questions.length > 0 && (
+          <SpeedRound questions={questions} color={bgColor} lang={lang} onDone={handleMissionDone}
+            onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
+            onWrong={() => setAvatarMood("disappointed")} />
+        )}
+        {screen === "equation-drill" && questions.length > 0 && (
+          <EquationDrill questions={questions} color={bgColor} lang={lang} onDone={handleMissionDone}
+            onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
+            onWrong={() => setAvatarMood("disappointed")} />
+        )}
+        {screen === "fraction-visual" && (
+          <FractionVisual color={bgColor} lang={lang} onDone={handleMissionDone}
+            onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
+            onWrong={() => setAvatarMood("disappointed")} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

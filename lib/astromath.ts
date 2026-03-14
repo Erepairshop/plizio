@@ -5,7 +5,8 @@ import { generateTopicQuestions, type MathQuestion } from "./mathCurriculum";
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
-export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hole" | "number-duel";
+export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hole" | "number-duel"
+  | "speed-round" | "fraction-visual" | "equation-drill";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }
