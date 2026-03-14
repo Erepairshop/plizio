@@ -23,16 +23,22 @@ const LANG_TO_TTS: Record<string, string> = {
   hu: "hu-HU", de: "de-DE", en: "en-US", ro: "ro-RO",
 };
 
-function stripEmojis(text: string): string {
+function emojiToSpoken(text: string): string {
+  // Replace each consecutive run of emojis with their count (if >1) or remove (if single decorative)
+  // e.g. "🍎🍎🍎 + 🍎🍎 = ?" → "3 + 2 = ?"
+  // e.g. "🚀 Számolj!" → " Számolj!" → "Számolj!"
   return text
-    .replace(/[\p{Emoji_Presentation}\p{Extended_Pictographic}]/gu, "")
+    .replace(/[\p{Emoji_Presentation}\p{Extended_Pictographic}]+/gu, (run) => {
+      const count = [...run].length;
+      return count > 1 ? String(count) : "";
+    })
     .replace(/\s+/g, " ")
     .trim();
 }
 
 function speak(text: string, lang: string) {
   if (typeof window === "undefined" || !window.speechSynthesis) return;
-  const clean = stripEmojis(text);
+  const clean = emojiToSpoken(text);
   if (!clean) return;
   window.speechSynthesis.cancel();
   const utt = new SpeechSynthesisUtterance(clean);
