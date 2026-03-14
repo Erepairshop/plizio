@@ -2,304 +2,215 @@
 import { useState, useEffect, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useRouter } from "next/navigation";
-import { Home, ChevronRight, Check, X, RefreshCw, Lock } from "lucide-react";
+import { Home, ChevronRight, X } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import AvatarCompanion from "@/components/AvatarCompanion";
 import RewardReveal from "@/components/RewardReveal";
 import MilestonePopup from "@/components/MilestonePopup";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
-import { incrementTotalGames, incrementPerfectScores, checkNewMilestones } from "@/lib/milestones";
+import { incrementTotalGames, checkNewMilestones } from "@/lib/milestones";
 import { getGender } from "@/lib/gender";
 import { getSkinDef, getActiveSkin } from "@/lib/skins";
 import { getFaceDef, getActiveFace } from "@/lib/faces";
 import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
 import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
 import type { AvatarGender } from "@/lib/gender";
-import { generateTopicQuestions } from "@/lib/mathCurriculum";
-import type { MathQuestion } from "@/lib/mathCurriculum";
 import type { CardRarity } from "@/lib/cards";
 
 // ─── Types ────────────────────────────────────────────────────────────────────
-type Screen = "map" | "learn" | "quiz" | "reward" | "complete";
+type Screen = "map" | "learn" | "discover" | "reward" | "complete";
+type SceneType = "count" | "add" | "sub" | "missing";
+type ScenePhase = 0 | 1 | 2; // setup → animating → result
 
-interface AstroSave {
-  completedPlanets: string[];
-  planetScores: Record<string, number>;
+interface Scene {
+  type: SceneType;
+  a: number;
+  b: number;
+  emoji: string;
+  hiddenSide?: "left" | "right"; // for missing
 }
 
 interface PlanetDef {
   id: string;
-  nameKey: string;
   icon: string;
   color: string;
   glow: string;
   bg: string;
-  topicKeys: string[];
   svgX: number;
   svgY: number;
-  requires?: string; // id of planet that must be completed first
+  requires?: string;
+}
+
+interface AstroSave {
+  completedPlanets: string[];
 }
 
 // ─── Planet definitions ───────────────────────────────────────────────────────
 const PLANETS: PlanetDef[] = [
-  {
-    id: "numera", nameKey: "numera", icon: "🌍",
-    color: "#4ECDC4", glow: "rgba(78,205,196,0.6)", bg: "rgba(78,205,196,0.15)",
-    topicKeys: ["add10", "g1_compare"],
-    svgX: 160, svgY: 390,
-  },
-  {
-    id: "addix", nameKey: "addix", icon: "🔵",
-    color: "#00D4FF", glow: "rgba(0,212,255,0.6)", bg: "rgba(0,212,255,0.15)",
-    topicKeys: ["add10"],
-    svgX: 75, svgY: 290, requires: "numera",
-  },
-  {
-    id: "minius", nameKey: "minius", icon: "🔴",
-    color: "#FF6B6B", glow: "rgba(255,107,107,0.6)", bg: "rgba(255,107,107,0.15)",
-    topicKeys: ["sub10"],
-    svgX: 240, svgY: 210, requires: "addix",
-  },
-  {
-    id: "voidex", nameKey: "voidex", icon: "⭐",
-    color: "#FFD700", glow: "rgba(255,215,0,0.6)", bg: "rgba(255,215,0,0.15)",
-    topicKeys: ["g1_ergaenzen", "sub10"],
-    svgX: 85, svgY: 130, requires: "minius",
-  },
-  {
-    id: "alpha", nameKey: "alpha", icon: "🚀",
-    color: "#B44DFF", glow: "rgba(180,77,255,0.6)", bg: "rgba(180,77,255,0.15)",
-    topicKeys: ["add10", "sub10", "g1_compare", "g1_ergaenzen"],
-    svgX: 200, svgY: 50, requires: "voidex",
-  },
+  { id: "numera",  icon: "🌍", color: "#4ECDC4", glow: "rgba(78,205,196,0.6)",  bg: "rgba(78,205,196,0.12)",  svgX: 160, svgY: 390 },
+  { id: "addix",   icon: "🔵", color: "#00D4FF", glow: "rgba(0,212,255,0.6)",   bg: "rgba(0,212,255,0.12)",   svgX: 75,  svgY: 290, requires: "numera" },
+  { id: "minius",  icon: "🔴", color: "#FF6B6B", glow: "rgba(255,107,107,0.6)", bg: "rgba(255,107,107,0.12)", svgX: 240, svgY: 210, requires: "addix" },
+  { id: "voidex",  icon: "⭐", color: "#FFD700", glow: "rgba(255,215,0,0.6)",   bg: "rgba(255,215,0,0.12)",   svgX: 85,  svgY: 130, requires: "minius" },
+  { id: "alpha",   icon: "🚀", color: "#B44DFF", glow: "rgba(180,77,255,0.6)",  bg: "rgba(180,77,255,0.12)",  svgX: 200, svgY: 50,  requires: "voidex" },
 ];
 
+// ─── Scene data (pedagogical progression) ────────────────────────────────────
+const PLANET_SCENES: Record<string, Scene[]> = {
+  numera: [
+    { type: "count", a: 3, b: 0, emoji: "⭐" },
+    { type: "count", a: 5, b: 0, emoji: "🌙" },
+    { type: "count", a: 4, b: 0, emoji: "🚀" },
+    { type: "count", a: 7, b: 0, emoji: "🪐" },
+    { type: "count", a: 6, b: 0, emoji: "✨" },
+  ],
+  addix: [
+    { type: "add", a: 2, b: 3, emoji: "🚀" },
+    { type: "add", a: 1, b: 4, emoji: "⭐" },
+    { type: "add", a: 3, b: 3, emoji: "🌟" },
+    { type: "add", a: 4, b: 2, emoji: "🪐" },
+    { type: "add", a: 3, b: 5, emoji: "🌙" },
+  ],
+  minius: [
+    { type: "sub", a: 5, b: 2, emoji: "🚀" },
+    { type: "sub", a: 6, b: 3, emoji: "⭐" },
+    { type: "sub", a: 7, b: 4, emoji: "🌟" },
+    { type: "sub", a: 8, b: 5, emoji: "🪐" },
+    { type: "sub", a: 9, b: 3, emoji: "🌙" },
+  ],
+  voidex: [
+    { type: "missing", a: 3, b: 4, hiddenSide: "left",  emoji: "🌟" },
+    { type: "missing", a: 5, b: 2, hiddenSide: "right", emoji: "⭐" },
+    { type: "missing", a: 2, b: 5, hiddenSide: "left",  emoji: "🚀" },
+    { type: "missing", a: 4, b: 3, hiddenSide: "right", emoji: "🪐" },
+    { type: "missing", a: 1, b: 6, hiddenSide: "left",  emoji: "🌙" },
+  ],
+  alpha: [
+    { type: "add",     a: 4, b: 3,                      emoji: "🚀" },
+    { type: "sub",     a: 8, b: 3,                      emoji: "⭐" },
+    { type: "add",     a: 2, b: 5,                      emoji: "🌟" },
+    { type: "sub",     a: 7, b: 4,                      emoji: "🪐" },
+    { type: "missing", a: 3, b: 4, hiddenSide: "left",  emoji: "🌙" },
+  ],
+};
+
 const SAVE_KEY = "astromath_save_v1";
-const QUESTIONS_PER_PLANET = 5;
 
 // ─── Translations ─────────────────────────────────────────────────────────────
 const T = {
   en: {
     title: "AstroMath",
     subtitle: "Grade 1 · Space Journey",
-    start: "Launch!",
     next: "Next",
-    startQuiz: "Start Quiz",
-    question: "Q",
-    of: "/",
-    correct: "Correct! ✓",
-    wrong: "Wrong!",
+    startMission: "Start Mission",
     backToMap: "Back to Map",
-    retry: "Try Again",
     nextPlanet: "Next Planet",
-    completed: "Completed",
-    locked: "Locked",
+    completed: "Completed!",
     allDone: "All planets complete! 🏆",
+    locked: "Locked",
+    actionLabel: { count: "COUNT!", add: "FUSE!", sub: "REMOVE!", missing: "REVEAL!" },
+    resultLabel: { count: "stars counted!", add: "together!", sub: "remaining!", missing: "found!" },
     planetNames: { numera: "Numera", addix: "Addix", minius: "Minius", voidex: "Voidex", alpha: "Alpha HQ" },
-    planetSubs: { numera: "Count & Compare", addix: "Addition to 10", minius: "Subtraction to 10", voidex: "Missing Numbers", alpha: "Final Mission" },
+    planetSubs:  { numera: "Count & Compare", addix: "Addition to 10", minius: "Subtraction to 10", voidex: "Missing Numbers", alpha: "Final Mission" },
     learnSlides: {
-      numera: [
-        { icon: "🌟", title: "Count the Stars", body: "Count how many you see. Tap each one: 1, 2, 3…" },
-        { icon: "⚖️", title: "Which is more?", body: "3 < 5 means 5 is bigger. The open side faces the bigger number!" },
-      ],
-      addix: [
-        { icon: "🚀", title: "Addition", body: "2 rockets + 3 rockets = 5 rockets total. We put them together!" },
-        { icon: "➕", title: "Count on!", body: "For 3 + 4: start at 3, count four more: 4, 5, 6, 7 = 7 ✓" },
-      ],
-      minius: [
-        { icon: "💥", title: "Subtraction", body: "5 stars — 2 fly away → only 3 remain. We take away!" },
-        { icon: "➖", title: "Count back!", body: "For 7 − 3: start at 7, count back three: 6, 5, 4 = 4 ✓" },
-      ],
-      voidex: [
-        { icon: "❓", title: "Missing Number", body: "4 + __ = 10 — what goes in the gap? Count up from 4 to 10: 5,6,7,8,9,10 → 6!" },
-        { icon: "🔢", title: "Number Bonds", body: "6 + 4 = 10, so 10 − 6 = 4. Pairs that make 10 are best friends!" },
-      ],
-      alpha: [
-        { icon: "🏆", title: "Final Mission!", body: "You have learned addition, subtraction, comparing and missing numbers!" },
-        { icon: "🚀", title: "Ready?", body: "5 mixed questions await. Use everything you know. Blast off!" },
-      ],
+      numera:  [{ icon: "🌟", title: "Count the Stars!", body: "On planet Numera, we discover how to count. Every star matters — let's count them all!" }],
+      addix:   [{ icon: "🚀", title: "Fuse Rockets!", body: "On planet Addix, rockets fly together! Watch two groups merge into one big group!" }],
+      minius:  [{ icon: "💥", title: "Black Hole!", body: "Planet Minius has a hungry black hole! It swallows rockets — watch how many remain!" }],
+      voidex:  [{ icon: "❓", title: "Hidden Cargo!", body: "Some cargo is hidden on Voidex! Press REVEAL to discover the secret number!" }],
+      alpha:   [{ icon: "🏆", title: "Final Mission!", body: "Planet Alpha mixes everything you learned! Addition, subtraction, missing numbers — ready?" }],
     },
   },
   hu: {
     title: "AstroMath",
     subtitle: "1. osztály · Ûrutazás",
-    start: "Indulás!",
     next: "Következő",
-    startQuiz: "Kvíz indítása",
-    question: "K",
-    of: "/",
-    correct: "Helyes! ✓",
-    wrong: "Helytelen!",
+    startMission: "Misszió indítása",
     backToMap: "Vissza a térképre",
-    retry: "Újra",
     nextPlanet: "Következő bolygó",
-    completed: "Teljesítve",
-    locked: "Zárva",
+    completed: "Teljesítve!",
     allDone: "Minden bolygó kész! 🏆",
+    locked: "Zárva",
+    actionLabel: { count: "SZÁMOLJ!", add: "ÖSSZEOLVAD!", sub: "ELTŰNIK!", missing: "FELFED!" },
+    resultLabel: { count: "csillag megszámolva!", add: "együtt!", sub: "maradt!", missing: "megtalálva!" },
     planetNames: { numera: "Numera", addix: "Addix", minius: "Minius", voidex: "Voidex", alpha: "Alpha Bázis" },
-    planetSubs: { numera: "Számolás & összehasonlítás", addix: "Összeadás 10-ig", minius: "Kivonás 10-ig", voidex: "Hiányzó számok", alpha: "Végső misszió" },
+    planetSubs:  { numera: "Számolás", addix: "Összeadás 10-ig", minius: "Kivonás 10-ig", voidex: "Hiányzó számok", alpha: "Végső misszió" },
     learnSlides: {
-      numera: [
-        { icon: "🌟", title: "Számold a csillagokat!", body: "Számold meg hányat látsz. Koppints mindegyikre: 1, 2, 3…" },
-        { icon: "⚖️", title: "Melyik a több?", body: "3 < 5 azt jelenti, 5 a nagyobb. A nyílt oldal a nagyobb felé néz!" },
-      ],
-      addix: [
-        { icon: "🚀", title: "Összeadás", body: "2 rakéta + 3 rakéta = 5 rakéta összesen. Összetesszük őket!" },
-        { icon: "➕", title: "Számolj tovább!", body: "3 + 4-nél: kezdj 3-nál, számolj még négyet: 4, 5, 6, 7 = 7 ✓" },
-      ],
-      minius: [
-        { icon: "💥", title: "Kivonás", body: "5 csillag — 2 elrepül → csak 3 marad. Elveszünk!" },
-        { icon: "➖", title: "Számolj vissza!", body: "7 − 3-nál: kezdj 7-nél, számolj vissza hármat: 6, 5, 4 = 4 ✓" },
-      ],
-      voidex: [
-        { icon: "❓", title: "Hiányzó szám", body: "4 + __ = 10 — mi kerül a résbe? Számolj 4-től 10-ig: 5,6,7,8,9,10 → 6!" },
-        { icon: "🔢", title: "Számkötelékek", body: "6 + 4 = 10, tehát 10 − 6 = 4. A 10-es párokat ismerd meg!" },
-      ],
-      alpha: [
-        { icon: "🏆", title: "Végső misszió!", body: "Megtanultad az összeadást, kivonást, összehasonlítást és hiányzó számokat!" },
-        { icon: "🚀", title: "Készen állsz?", body: "5 vegyes kérdés vár. Használj mindent amit tudsz. Fel a csillagokba!" },
-      ],
+      numera:  [{ icon: "🌟", title: "Számold a csillagokat!", body: "Numera bolygón megtanuljuk a számolást. Minden csillag számít — számoljuk meg együtt!" }],
+      addix:   [{ icon: "🚀", title: "Olvadnak össze a rakéták!", body: "Addix bolygón a rakéták összerepülnek! Nézzük, hogyan olvad össze a két csoport eggyé!" }],
+      minius:  [{ icon: "💥", title: "Fekete lyuk!", body: "Minius bolygón éhes fekete lyuk van! Elnyeli a rakétákat — nézzük hány marad!" }],
+      voidex:  [{ icon: "❓", title: "Rejtett rakomány!", body: "Voidexen egy rakomány el van rejtve! Nyomd a FELFED gombot, hogy megtudd a titkos számot!" }],
+      alpha:   [{ icon: "🏆", title: "Végső misszió!", body: "Alpha bolygó mindent összekever amit tanultál! Összeadás, kivonás, hiányzó számok — készen állsz?" }],
     },
   },
   de: {
     title: "AstroMath",
     subtitle: "Klasse 1 · Weltraumreise",
-    start: "Starten!",
     next: "Weiter",
-    startQuiz: "Quiz starten",
-    question: "F",
-    of: "/",
-    correct: "Richtig! ✓",
-    wrong: "Falsch!",
+    startMission: "Mission starten",
     backToMap: "Zurück zur Karte",
-    retry: "Nochmal",
     nextPlanet: "Nächster Planet",
-    completed: "Abgeschlossen",
-    locked: "Gesperrt",
+    completed: "Geschafft!",
     allDone: "Alle Planeten geschafft! 🏆",
+    locked: "Gesperrt",
+    actionLabel: { count: "ZÄHLEN!", add: "ZUSAMMEN!", sub: "WEGNEHMEN!", missing: "AUFDECKEN!" },
+    resultLabel: { count: "Sterne gezählt!", add: "zusammen!", sub: "übrig!", missing: "gefunden!" },
     planetNames: { numera: "Numera", addix: "Addix", minius: "Minius", voidex: "Voidex", alpha: "Alpha-Basis" },
-    planetSubs: { numera: "Zählen & Vergleichen", addix: "Addition bis 10", minius: "Subtraktion bis 10", voidex: "Fehlende Zahlen", alpha: "Endmission" },
+    planetSubs:  { numera: "Zählen", addix: "Addition bis 10", minius: "Subtraktion bis 10", voidex: "Fehlende Zahlen", alpha: "Endmission" },
     learnSlides: {
-      numera: [
-        { icon: "🌟", title: "Zähle die Sterne!", body: "Zähle, wie viele du siehst. Tippe jeden an: 1, 2, 3…" },
-        { icon: "⚖️", title: "Was ist mehr?", body: "3 < 5 bedeutet, 5 ist größer. Die offene Seite zeigt zur größeren Zahl!" },
-      ],
-      addix: [
-        { icon: "🚀", title: "Addition", body: "2 Raketen + 3 Raketen = 5 Raketen gesamt. Wir fügen sie zusammen!" },
-        { icon: "➕", title: "Weiterzählen!", body: "Bei 3 + 4: starte bei 3, zähle vier weiter: 4, 5, 6, 7 = 7 ✓" },
-      ],
-      minius: [
-        { icon: "💥", title: "Subtraktion", body: "5 Sterne — 2 fliegen weg → nur 3 bleiben. Wir nehmen weg!" },
-        { icon: "➖", title: "Zurückzählen!", body: "Bei 7 − 3: starte bei 7, zähle drei zurück: 6, 5, 4 = 4 ✓" },
-      ],
-      voidex: [
-        { icon: "❓", title: "Fehlende Zahl", body: "4 + __ = 10 — was gehört in die Lücke? Zähle von 4 bis 10: 5,6,7,8,9,10 → 6!" },
-        { icon: "🔢", title: "Zahlenbindungen", body: "6 + 4 = 10, also 10 − 6 = 4. Paare, die 10 ergeben, sind beste Freunde!" },
-      ],
-      alpha: [
-        { icon: "🏆", title: "Endmission!", body: "Du hast Addition, Subtraktion, Vergleichen und fehlende Zahlen gelernt!" },
-        { icon: "🚀", title: "Bereit?", body: "5 gemischte Fragen warten. Nutze alles was du weißt. Los geht's!" },
-      ],
+      numera:  [{ icon: "🌟", title: "Zähle die Sterne!", body: "Auf Planet Numera lernen wir zählen. Jeder Stern zählt — lass uns alle zählen!" }],
+      addix:   [{ icon: "🚀", title: "Raketen fusionieren!", body: "Auf Planet Addix fliegen Raketen zusammen! Sieh, wie zwei Gruppen zu einer werden!" }],
+      minius:  [{ icon: "💥", title: "Schwarzes Loch!", body: "Planet Minius hat ein hungriges schwarzes Loch! Es verschluckt Raketen — wie viele bleiben übrig?" }],
+      voidex:  [{ icon: "❓", title: "Versteckte Fracht!", body: "Auf Voidex ist Fracht versteckt! Drücke AUFDECKEN, um die geheime Zahl zu entdecken!" }],
+      alpha:   [{ icon: "🏆", title: "Endmission!", body: "Planet Alpha mischt alles, was du gelernt hast! Addition, Subtraktion, fehlende Zahlen — bereit?" }],
     },
   },
   ro: {
     title: "AstroMath",
     subtitle: "Clasa 1 · Călătorie spațială",
-    start: "Lansare!",
     next: "Înainte",
-    startQuiz: "Începe testul",
-    question: "Î",
-    of: "/",
-    correct: "Corect! ✓",
-    wrong: "Greșit!",
+    startMission: "Începe misiunea",
     backToMap: "Înapoi la hartă",
-    retry: "Încearcă din nou",
     nextPlanet: "Planeta următoare",
-    completed: "Finalizat",
-    locked: "Blocat",
+    completed: "Finalizat!",
     allDone: "Toate planetele finalizate! 🏆",
+    locked: "Blocat",
+    actionLabel: { count: "NUMĂRĂ!", add: "UNEȘTE!", sub: "ELIMINĂ!", missing: "DEZVĂLUIE!" },
+    resultLabel: { count: "stele numărate!", add: "împreună!", sub: "rămase!", missing: "descoperite!" },
     planetNames: { numera: "Numera", addix: "Addix", minius: "Minius", voidex: "Voidex", alpha: "Baza Alpha" },
-    planetSubs: { numera: "Numărare & comparare", addix: "Adunare până la 10", minius: "Scădere până la 10", voidex: "Numere lipsă", alpha: "Misiunea finală" },
+    planetSubs:  { numera: "Numărare", addix: "Adunare până la 10", minius: "Scădere până la 10", voidex: "Numere lipsă", alpha: "Misiunea finală" },
     learnSlides: {
-      numera: [
-        { icon: "🌟", title: "Numără stelele!", body: "Numără câte vezi. Atinge fiecare: 1, 2, 3…" },
-        { icon: "⚖️", title: "Care e mai mult?", body: "3 < 5 înseamnă că 5 e mai mare. Partea deschisă arată spre numărul mai mare!" },
-      ],
-      addix: [
-        { icon: "🚀", title: "Adunare", body: "2 rachete + 3 rachete = 5 rachete total. Le punem împreună!" },
-        { icon: "➕", title: "Continuă numărarea!", body: "La 3 + 4: pornești de la 3, numeri patru mai departe: 4, 5, 6, 7 = 7 ✓" },
-      ],
-      minius: [
-        { icon: "💥", title: "Scădere", body: "5 stele — 2 zboară → rămân doar 3. Luăm din ele!" },
-        { icon: "➖", title: "Numără înapoi!", body: "La 7 − 3: pornești de la 7, numeri trei înapoi: 6, 5, 4 = 4 ✓" },
-      ],
-      voidex: [
-        { icon: "❓", title: "Număr lipsă", body: "4 + __ = 10 — ce intră în spațiu? Numără de la 4 la 10: 5,6,7,8,9,10 → 6!" },
-        { icon: "🔢", title: "Perechi de numere", body: "6 + 4 = 10, deci 10 − 6 = 4. Perechile care fac 10 sunt prieteni!" },
-      ],
-      alpha: [
-        { icon: "🏆", title: "Misiunea finală!", body: "Ai învățat adunarea, scăderea, compararea și numerele lipsă!" },
-        { icon: "🚀", title: "Ești gata?", body: "5 întrebări mixte te așteaptă. Folosește tot ce știi. Lansare!" },
-      ],
+      numera:  [{ icon: "🌟", title: "Numără stelele!", body: "Pe planeta Numera, descoperim numărarea. Fiecare stea contează — să le numărăm!" }],
+      addix:   [{ icon: "🚀", title: "Fuzionează rachetele!", body: "Pe planeta Addix, rachetele zboară împreună! Privește cum două grupuri devin unul!" }],
+      minius:  [{ icon: "💥", title: "Gaura neagră!", body: "Planeta Minius are o gaură neagră flămândă! Înghite rachete — câte rămân?" }],
+      voidex:  [{ icon: "❓", title: "Marfă ascunsă!", body: "Pe Voidex, o parte din marfă e ascunsă! Apasă DEZVĂLUIE pentru a descoperi numărul secret!" }],
+      alpha:   [{ icon: "🏆", title: "Misiunea finală!", body: "Planeta Alpha amestecă tot ce ai învățat! Adunare, scădere, numere lipsă — ești gata?" }],
     },
   },
 } as const;
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 function loadSave(): AstroSave {
-  try {
-    const raw = localStorage.getItem(SAVE_KEY);
-    if (raw) return JSON.parse(raw);
-  } catch {}
-  return { completedPlanets: [], planetScores: {} };
+  try { const r = localStorage.getItem(SAVE_KEY); if (r) return JSON.parse(r); } catch {}
+  return { completedPlanets: [] };
 }
+function writeSave(s: AstroSave) { localStorage.setItem(SAVE_KEY, JSON.stringify(s)); }
 
-function writeSave(s: AstroSave) {
-  localStorage.setItem(SAVE_KEY, JSON.stringify(s));
-}
+// ─── Starfield ────────────────────────────────────────────────────────────────
+const STAR_DATA = Array.from({ length: 55 }, (_, i) => ({
+  id: i,
+  x: ((i * 37 + 13) % 100),
+  y: ((i * 53 + 7) % 100),
+  size: (i % 3) * 0.8 + 0.6,
+  dur: 2 + (i % 5) * 0.6,
+  delay: (i % 7) * 0.5,
+}));
 
-function langToCC(lang: string): string {
-  if (lang === "hu") return "HU";
-  if (lang === "de") return "DE";
-  if (lang === "ro") return "RO";
-  return "US";
-}
-
-function buildQuestions(planet: PlanetDef, cc: string): MathQuestion[] {
-  const allKeys = planet.topicKeys;
-  const out: MathQuestion[] = [];
-  // distribute questions evenly across topicKeys
-  const perKey = Math.ceil(QUESTIONS_PER_PLANET / allKeys.length);
-  for (const key of allKeys) {
-    const qs = generateTopicQuestions(1, key, cc, perKey);
-    out.push(...qs);
-  }
-  // shuffle & slice to exactly QUESTIONS_PER_PLANET
-  for (let i = out.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [out[i], out[j]] = [out[j], out[i]];
-  }
-  return out.slice(0, QUESTIONS_PER_PLANET);
-}
-
-// ─── Animated starfield ───────────────────────────────────────────────────────
 function Starfield() {
-  const stars = Array.from({ length: 60 }, (_, i) => ({
-    id: i,
-    x: Math.random() * 100,
-    y: Math.random() * 100,
-    size: Math.random() * 2 + 0.5,
-    delay: Math.random() * 4,
-    dur: 2 + Math.random() * 3,
-  }));
   return (
     <div className="absolute inset-0 overflow-hidden pointer-events-none">
-      {stars.map((s) => (
-        <motion.div
-          key={s.id}
-          className="absolute rounded-full bg-white"
+      {STAR_DATA.map((s) => (
+        <motion.div key={s.id} className="absolute rounded-full bg-white"
           style={{ left: `${s.x}%`, top: `${s.y}%`, width: s.size, height: s.size }}
-          animate={{ opacity: [0.2, 1, 0.2] }}
+          animate={{ opacity: [0.15, 0.9, 0.15] }}
           transition={{ duration: s.dur, delay: s.delay, repeat: Infinity, ease: "easeInOut" }}
         />
       ))}
@@ -307,78 +218,37 @@ function Starfield() {
   );
 }
 
-// ─── Space Map SVG ────────────────────────────────────────────────────────────
+// ─── Space Map ────────────────────────────────────────────────────────────────
 const MAP_W = 320;
 const MAP_H = 460;
-
-// Curved SVG path connecting planets bottom → top
 const MAP_PATH = `M 160,390 C 100,360 60,320 75,290 C 90,260 210,240 240,210 C 270,180 130,155 85,130 C 50,110 160,80 200,50`;
 
-function SpaceMap({
-  completedPlanets,
-  onSelect,
-  lang,
-}: {
-  completedPlanets: string[];
-  onSelect: (p: PlanetDef) => void;
-  lang: string;
-}) {
+function SpaceMap({ completedPlanets, onSelect, lang }: { completedPlanets: string[]; onSelect: (p: PlanetDef) => void; lang: string }) {
   const t = T[lang as keyof typeof T] ?? T.en;
-
-  function isUnlocked(p: PlanetDef): boolean {
-    if (!p.requires) return true;
-    return completedPlanets.includes(p.requires);
-  }
+  const isUnlocked = (p: PlanetDef) => !p.requires || completedPlanets.includes(p.requires);
 
   return (
     <svg viewBox={`0 0 ${MAP_W} ${MAP_H}`} width="100%" style={{ maxHeight: MAP_H }}>
-      {/* Nebula blobs */}
-      <ellipse cx={200} cy={80} rx={90} ry={50} fill="rgba(180,77,255,0.08)" />
-      <ellipse cx={80} cy={220} rx={70} ry={45} fill="rgba(255,107,107,0.07)" />
-      <ellipse cx={200} cy={340} rx={80} ry={40} fill="rgba(78,205,196,0.07)" />
-
-      {/* Path (dashed) */}
-      <path d={MAP_PATH} fill="none" stroke="rgba(255,255,255,0.15)" strokeWidth={2} strokeDasharray="6 6" />
-
-      {/* Planets */}
+      <ellipse cx={200} cy={80}  rx={90} ry={50} fill="rgba(180,77,255,0.07)" />
+      <ellipse cx={80}  cy={220} rx={70} ry={45} fill="rgba(255,107,107,0.06)" />
+      <ellipse cx={200} cy={340} rx={80} ry={40} fill="rgba(78,205,196,0.06)" />
+      <path d={MAP_PATH} fill="none" stroke="rgba(255,255,255,0.12)" strokeWidth={2} strokeDasharray="6 6" />
       {PLANETS.map((p) => {
         const done = completedPlanets.includes(p.id);
         const unlocked = isUnlocked(p);
-        const name = (t.planetNames as Record<string, string>)[p.id] ?? p.id;
-
+        const name = (t.planetNames as Record<string, string>)[p.id];
         return (
           <g key={p.id} onClick={() => unlocked && onSelect(p)} style={{ cursor: unlocked ? "pointer" : "default" }}>
-            {/* Glow ring */}
-            {unlocked && (
-              <circle cx={p.svgX} cy={p.svgY} r={28} fill={p.glow} opacity={0.4} />
-            )}
-            {/* Planet circle */}
-            <circle
-              cx={p.svgX} cy={p.svgY} r={22}
-              fill={unlocked ? p.bg : "rgba(255,255,255,0.04)"}
-              stroke={unlocked ? p.color : "rgba(255,255,255,0.15)"}
-              strokeWidth={unlocked ? 2.5 : 1.5}
-              opacity={unlocked ? 1 : 0.5}
-            />
-            {/* Icon or lock */}
-            <text x={p.svgX} y={p.svgY + 6} textAnchor="middle" fontSize={18}>
-              {unlocked ? p.icon : "🔒"}
-            </text>
-            {/* Done check */}
+            {unlocked && <circle cx={p.svgX} cy={p.svgY} r={29} fill={p.glow} opacity={0.35} />}
+            <circle cx={p.svgX} cy={p.svgY} r={22} fill={unlocked ? p.bg : "rgba(255,255,255,0.03)"} stroke={unlocked ? p.color : "rgba(255,255,255,0.12)"} strokeWidth={unlocked ? 2.5 : 1.5} opacity={unlocked ? 1 : 0.45} />
+            <text x={p.svgX} y={p.svgY + 7} textAnchor="middle" fontSize={18}>{unlocked ? p.icon : "🔒"}</text>
             {done && (
               <>
                 <circle cx={p.svgX + 17} cy={p.svgY - 17} r={9} fill="#00FF88" />
                 <text x={p.svgX + 17} y={p.svgY - 13} textAnchor="middle" fontSize={11} fill="#000" fontWeight="bold">✓</text>
               </>
             )}
-            {/* Planet name */}
-            <text
-              x={p.svgX} y={p.svgY + 36}
-              textAnchor="middle" fontSize={10} fontWeight="bold"
-              fill={unlocked ? p.color : "rgba(255,255,255,0.3)"}
-            >
-              {name}
-            </text>
+            <text x={p.svgX} y={p.svgY + 37} textAnchor="middle" fontSize={9.5} fontWeight="bold" fill={unlocked ? p.color : "rgba(255,255,255,0.25)"}>{name}</text>
           </g>
         );
       })}
@@ -386,7 +256,234 @@ function SpaceMap({
   );
 }
 
-// ─── Main Component ───────────────────────────────────────────────────────────
+// ─── Discovery Scene ──────────────────────────────────────────────────────────
+function DiscoverScene({ scene, planet, lang, onNext }: {
+  scene: Scene; planet: PlanetDef; lang: string; onNext: () => void;
+}) {
+  const t = T[lang as keyof typeof T] ?? T.en;
+  const [phase, setPhase] = useState<ScenePhase>(0);
+  const [countedIdx, setCountedIdx] = useState(-1); // for count type
+
+  const handleAction = useCallback(() => {
+    if (scene.type === "count") {
+      // Animate counting: step through each object
+      let i = 0;
+      const tick = () => {
+        setCountedIdx(i);
+        i++;
+        if (i < scene.a) setTimeout(tick, 320);
+        else setTimeout(() => setPhase(2), 400);
+      };
+      setPhase(1);
+      setTimeout(tick, 100);
+    } else {
+      setPhase(1);
+      setTimeout(() => setPhase(2), 900);
+    }
+  }, [scene]);
+
+  const result = scene.type === "add" ? scene.a + scene.b
+    : scene.type === "sub" ? scene.a - scene.b
+    : scene.type === "missing" ? (scene.hiddenSide === "left" ? scene.a : scene.b)
+    : scene.a;
+
+  const actionLabel = (t.actionLabel as Record<string, string>)[scene.type];
+  const resultLabel = (t.resultLabel as Record<string, string>)[scene.type];
+
+  // ── Equation display ───────────────────────────────────────────────────────
+  const equationStr =
+    scene.type === "add"     ? `${scene.a} + ${scene.b} = ${scene.a + scene.b}`
+    : scene.type === "sub"   ? `${scene.a} − ${scene.b} = ${scene.a - scene.b}`
+    : scene.type === "missing" && scene.hiddenSide === "left"  ? `${scene.a} + ${scene.b} = ${scene.a + scene.b}`
+    : scene.type === "missing" && scene.hiddenSide === "right" ? `${scene.a} + ${scene.b} = ${scene.a + scene.b}`
+    : `${scene.a}`;
+
+  // ── Object rows ────────────────────────────────────────────────────────────
+  function ObjRow({ count, dim, revealed, delay = 0 }: { count: number; dim?: boolean; revealed?: boolean; delay?: number }) {
+    return (
+      <div className="flex flex-wrap gap-1.5 justify-center">
+        {Array.from({ length: count }).map((_, i) => (
+          <motion.span key={i} className="text-3xl leading-none select-none"
+            initial={revealed ? { scale: 0, opacity: 0 } : { scale: 1, opacity: dim ? 0.25 : 1 }}
+            animate={revealed ? { scale: 1, opacity: 1 } : { scale: 1, opacity: dim ? 0.2 : 1 }}
+            transition={revealed ? { delay: delay + i * 0.07, type: "spring", stiffness: 400 } : {}}
+          >
+            {dim && !revealed ? "❓" : scene.emoji}
+          </motion.span>
+        ))}
+      </div>
+    );
+  }
+
+  // ── Scene visuals ──────────────────────────────────────────────────────────
+  function SceneVisual() {
+    // COUNT
+    if (scene.type === "count") {
+      return (
+        <div className="flex flex-wrap gap-2 justify-center">
+          {Array.from({ length: scene.a }).map((_, i) => (
+            <motion.div key={i} className="relative"
+              animate={countedIdx >= i ? { scale: [1, 1.3, 1] } : {}}
+              transition={{ duration: 0.25 }}>
+              <span className="text-4xl leading-none select-none" style={{ opacity: phase === 0 ? 0.45 : 1, filter: countedIdx >= i ? "none" : (phase >= 1 ? "brightness(0.4)" : "none"), transition: "all 0.3s" }}>
+                {scene.emoji}
+              </span>
+              {countedIdx >= i && phase >= 1 && (
+                <motion.div className="absolute -top-2 -right-2 w-5 h-5 rounded-full flex items-center justify-center text-[10px] font-black text-white"
+                  style={{ background: planet.color }} initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ type: "spring" }}>
+                  {i + 1}
+                </motion.div>
+              )}
+            </motion.div>
+          ))}
+        </div>
+      );
+    }
+
+    // ADD
+    if (scene.type === "add") {
+      if (phase < 2) {
+        return (
+          <div className="flex items-center gap-3 justify-center flex-wrap">
+            <div className="flex flex-col items-center gap-1">
+              <div className="flex flex-wrap gap-1.5 justify-center max-w-[120px]">
+                {Array.from({ length: scene.a }).map((_, i) => (
+                  <span key={i} className="text-3xl leading-none">{scene.emoji}</span>
+                ))}
+              </div>
+              <span className="text-sm font-bold" style={{ color: planet.color }}>{scene.a}</span>
+            </div>
+            <span className="text-4xl font-black text-white/40">+</span>
+            <div className="flex flex-col items-center gap-1">
+              <motion.div className="flex flex-wrap gap-1.5 justify-center max-w-[120px]"
+                animate={phase === 1 ? { x: -60, opacity: 0 } : { x: 0, opacity: 1 }}
+                transition={{ duration: 0.7, ease: "easeInOut" }}>
+                {Array.from({ length: scene.b }).map((_, i) => (
+                  <span key={i} className="text-3xl leading-none">{scene.emoji}</span>
+                ))}
+              </motion.div>
+              <span className="text-sm font-bold" style={{ color: planet.color }}>{scene.b}</span>
+            </div>
+          </div>
+        );
+      }
+      // phase 2: all together
+      return (
+        <div className="flex flex-col items-center gap-2">
+          <div className="flex flex-wrap gap-1.5 justify-center max-w-[220px]">
+            {Array.from({ length: scene.a + scene.b }).map((_, i) => (
+              <motion.span key={i} className="text-3xl leading-none"
+                initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: i * 0.05, type: "spring" }}>
+                {scene.emoji}
+              </motion.span>
+            ))}
+          </div>
+          <motion.span className="text-lg font-bold" style={{ color: planet.color }}
+            initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.3 }}>
+            {scene.a + scene.b}
+          </motion.span>
+        </div>
+      );
+    }
+
+    // SUB
+    if (scene.type === "sub") {
+      return (
+        <div className="flex flex-col items-center gap-2">
+          <div className="flex flex-wrap gap-1.5 justify-center max-w-[220px]">
+            {Array.from({ length: scene.a }).map((_, i) => {
+              const isRemoved = i >= scene.a - scene.b;
+              return (
+                <motion.span key={i} className="text-3xl leading-none"
+                  animate={phase >= 1 && isRemoved ? { opacity: 0, scale: 0, rotate: 90 } : { opacity: 1, scale: 1, rotate: 0 }}
+                  transition={phase >= 1 ? { delay: (i - (scene.a - scene.b)) * 0.12, duration: 0.4 } : {}}>
+                  {scene.emoji}
+                </motion.span>
+              );
+            })}
+          </div>
+          {phase >= 1 && (
+            <motion.span className="text-lg font-bold" style={{ color: planet.color }}
+              initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.5 }}>
+              {scene.a - scene.b}
+            </motion.span>
+          )}
+        </div>
+      );
+    }
+
+    // MISSING
+    if (scene.type === "missing") {
+      const leftCount  = scene.a;
+      const rightCount = scene.b;
+      const leftHidden  = scene.hiddenSide === "left";
+      const rightHidden = scene.hiddenSide === "right";
+
+      return (
+        <div className="flex items-center gap-3 justify-center flex-wrap">
+          <div className="flex flex-col items-center gap-1">
+            <ObjRow count={leftCount} dim={leftHidden && phase === 0} revealed={leftHidden && phase >= 2} delay={0} />
+            <span className="text-sm font-bold" style={{ color: planet.color }}>{leftHidden && phase < 2 ? "?" : leftCount}</span>
+          </div>
+          <span className="text-4xl font-black text-white/40">+</span>
+          <div className="flex flex-col items-center gap-1">
+            <ObjRow count={rightCount} dim={rightHidden && phase === 0} revealed={rightHidden && phase >= 2} delay={0.1} />
+            <span className="text-sm font-bold" style={{ color: planet.color }}>{rightHidden && phase < 2 ? "?" : rightCount}</span>
+          </div>
+        </div>
+      );
+    }
+
+    return null;
+  }
+
+  return (
+    <div className="flex flex-col items-center gap-6 w-full max-w-sm mx-auto">
+      {/* Visual */}
+      <motion.div key={`${scene.emoji}-${phase}`}
+        className="rounded-3xl p-6 w-full min-h-[160px] flex items-center justify-center"
+        style={{ background: "rgba(255,255,255,0.04)", border: `1.5px solid ${planet.color}22` }}>
+        <SceneVisual />
+      </motion.div>
+
+      {/* Equation reveal (phase 2) */}
+      <AnimatePresence>
+        {phase === 2 && (
+          <motion.div initial={{ scale: 0, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ type: "spring", stiffness: 300, delay: 0.2 }}
+            className="text-center">
+            <div className="text-4xl font-black" style={{ color: planet.color, textShadow: `0 0 20px ${planet.glow}` }}>
+              {equationStr} ✨
+            </div>
+            <div className="text-sm text-white/50 mt-1 font-medium">{result} {resultLabel}</div>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      {/* Action button or Next button */}
+      {phase === 0 ? (
+        <motion.button onClick={handleAction}
+          className="w-full py-5 rounded-2xl font-black text-xl text-white"
+          style={{ background: `linear-gradient(135deg, ${planet.color}55, ${planet.color}99)`, border: `2.5px solid ${planet.color}`, boxShadow: `0 0 25px ${planet.glow}` }}
+          whileTap={{ scale: 0.95 }} animate={{ scale: [1, 1.03, 1] }} transition={{ duration: 2, repeat: Infinity }}>
+          {actionLabel}
+        </motion.button>
+      ) : phase === 1 ? (
+        <div className="w-full py-5 rounded-2xl font-black text-xl text-white/30 text-center border border-white/10" style={{ background: "rgba(255,255,255,0.03)" }}>
+          {actionLabel}
+        </div>
+      ) : (
+        <motion.button onClick={onNext} initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.4 }}
+          className="w-full py-5 rounded-2xl font-black text-xl text-white flex items-center justify-center gap-2"
+          style={{ background: `linear-gradient(135deg, ${planet.color}55, ${planet.color}99)`, border: `2.5px solid ${planet.color}` }}
+          whileTap={{ scale: 0.97 }}>
+          {T[lang as keyof typeof T]?.next ?? "Next"} <ChevronRight size={22} />
+        </motion.button>
+      )}
+    </div>
+  );
+}
+
+// ─── Main ─────────────────────────────────────────────────────────────────────
 export default function AstroMathPage() {
   const { lang } = useLang();
   const router = useRouter();
@@ -396,90 +493,59 @@ export default function AstroMathPage() {
   const [gender] = useState<AvatarGender>(getGender());
   const [activeSkin] = useState(getSkinDef(getActiveSkin()));
   const [activeFace] = useState(getFaceDef(getActiveFace()));
-  const [activeTop] = useState(() => { const id = getActive("top"); return id ? getTopDef(id) : null; });
-  const [activeBottom] = useState(() => { const id = getActive("bottom"); return id ? getBottomDef(id) : null; });
-  const [activeShoe] = useState(() => { const id = getActive("shoe"); return id ? getShoeDef(id) : null; });
-  const [activeCape] = useState(() => { const id = getActive("cape"); return id ? getCapeDef(id) : null; });
+  const [activeTop]     = useState(() => { const id = getActive("top");     return id ? getTopDef(id)     : null; });
+  const [activeBottom]  = useState(() => { const id = getActive("bottom");  return id ? getBottomDef(id)  : null; });
+  const [activeShoe]    = useState(() => { const id = getActive("shoe");    return id ? getShoeDef(id)    : null; });
+  const [activeCape]    = useState(() => { const id = getActive("cape");    return id ? getCapeDef(id)    : null; });
   const [activeGlasses] = useState(() => { const id = getActive("glasses"); return id ? getGlassesDef(id) : null; });
-  const [activeGloves] = useState(() => { const id = getActive("gloves"); return id ? getGloveDef(id) : null; });
-  const [activeHat] = useState(() => { const id = getActiveHat(); return id ? getHatDef(id) : null; });
-  const [activeTrail] = useState(() => { const id = getActiveTrail(); return id ? getTrailDef(id) : null; });
+  const [activeGloves]  = useState(() => { const id = getActive("gloves");  return id ? getGloveDef(id)   : null; });
+  const [activeHat]     = useState(() => { const id = getActiveHat();       return id ? getHatDef(id)     : null; });
+  const [activeTrail]   = useState(() => { const id = getActiveTrail();     return id ? getTrailDef(id)   : null; });
   const avatarProps = { gender, activeSkin, activeFace, activeTop, activeBottom, activeShoe, activeCape, activeGlasses, activeGloves, activeHat, activeTrail };
 
   // Game state
   const [screen, setScreen] = useState<Screen>("map");
-  const [save, setSave] = useState<AstroSave>({ completedPlanets: [], planetScores: {} });
+  const [save, setSave] = useState<AstroSave>({ completedPlanets: [] });
   const [activePlanet, setActivePlanet] = useState<PlanetDef | null>(null);
   const [slideIdx, setSlideIdx] = useState(0);
-  const [questions, setQuestions] = useState<MathQuestion[]>([]);
-  const [qIdx, setQIdx] = useState(0);
-  const [score, setScore] = useState(0);
-  const [streak, setStreak] = useState(0);
-  const [chosen, setChosen] = useState<number | string | null>(null);
-  const [avatarMood, setAvatarMood] = useState<"idle" | "happy" | "victory" | "disappointed" | "focused">("idle");
+  const [sceneIdx, setSceneIdx] = useState(0);
+  const [avatarMood, setAvatarMood] = useState<"idle" | "happy" | "victory" | "focused">("idle");
   const [earnedCard, setEarnedCard] = useState<CardRarity | null>(null);
-  const [animKey, setAnimKey] = useState(0);
 
   useEffect(() => { setSave(loadSave()); }, []);
 
   const startPlanet = useCallback((planet: PlanetDef) => {
-    const cc = langToCC(lang);
-    const qs = buildQuestions(planet, cc);
     setActivePlanet(planet);
-    setQuestions(qs);
-    setQIdx(0);
-    setScore(0);
-    setStreak(0);
-    setChosen(null);
     setSlideIdx(0);
+    setSceneIdx(0);
     setScreen("learn");
-    setAvatarMood("focused");
-  }, [lang]);
-
-  const goToQuiz = useCallback(() => {
-    setScreen("quiz");
     setAvatarMood("focused");
   }, []);
 
-  const handleAnswer = useCallback((opt: number | string) => {
-    if (chosen !== null) return;
-    setChosen(opt);
-    const q = questions[qIdx];
-    const correct = String(opt) === String(q.correctAnswer);
-    if (correct) {
-      setScore((s) => s + 1);
-      setStreak((s) => s + 1);
+  const goToDiscover = useCallback(() => {
+    setSceneIdx(0);
+    setScreen("discover");
+    setAvatarMood("focused");
+  }, []);
+
+  const handleSceneNext = useCallback(() => {
+    const planet = activePlanet!;
+    const scenes = PLANET_SCENES[planet.id] ?? [];
+    const nextIdx = sceneIdx + 1;
+    if (nextIdx < scenes.length) {
+      setSceneIdx(nextIdx);
       setAvatarMood("happy");
+      setTimeout(() => setAvatarMood("focused"), 800);
     } else {
-      setStreak(0);
-      setAvatarMood("disappointed");
-    }
-  }, [chosen, questions, qIdx]);
-
-  const handleNext = useCallback(() => {
-    if (qIdx + 1 < questions.length) {
-      setQIdx((i) => i + 1);
-      setChosen(null);
-      setAvatarMood("focused");
-      setAnimKey((k) => k + 1);
-    } else {
-      // Quiz finished
-      const planet = activePlanet!;
-      const rarity = calculateRarity(score, QUESTIONS_PER_PLANET, streak, false);
-
-      saveCard({ id: generateCardId(), game: "astromath", rarity, score, total: QUESTIONS_PER_PLANET, date: new Date().toISOString() });
+      // Planet complete!
+      const rarity = calculateRarity(scenes.length, scenes.length, 0, false);
+      saveCard({ id: generateCardId(), game: "astromath", rarity, score: scenes.length, total: scenes.length, date: new Date().toISOString() });
       window.dispatchEvent(new Event("plizio-cards-changed"));
       incrementTotalGames();
-      if (score === QUESTIONS_PER_PLANET) incrementPerfectScores();
-
       checkNewMilestones();
 
-      // Update save
       const newSave: AstroSave = {
-        completedPlanets: save.completedPlanets.includes(planet.id)
-          ? save.completedPlanets
-          : [...save.completedPlanets, planet.id],
-        planetScores: { ...save.planetScores, [planet.id]: Math.max(save.planetScores[planet.id] ?? 0, score) },
+        completedPlanets: save.completedPlanets.includes(planet.id) ? save.completedPlanets : [...save.completedPlanets, planet.id],
       };
       setSave(newSave);
       writeSave(newSave);
@@ -488,83 +554,61 @@ export default function AstroMathPage() {
       setAvatarMood("victory");
       setScreen("reward");
     }
-  }, [qIdx, questions, score, streak, chosen, activePlanet, save]);
+  }, [activePlanet, sceneIdx, save]);
 
-  const goToComplete = useCallback(() => {
-    setScreen("complete");
-  }, []);
+  const goToComplete = useCallback(() => { setScreen("complete"); }, []);
 
-  // ─── MAP screen ────────────────────────────────────────────────────────────
+  // ─── MAP ──────────────────────────────────────────────────────────────────
   if (screen === "map") {
     const done = save.completedPlanets.length;
-    const total = PLANETS.length;
     return (
       <div className="min-h-screen bg-[#060614] flex flex-col relative overflow-hidden">
         <Starfield />
-
-        {/* Header */}
         <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-2">
           <button onClick={() => router.push("/")} className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 transition-colors">
             <Home size={16} />
           </button>
           <div className="text-center">
             <h1 className="text-xl font-black text-white tracking-wide">🚀 {t.title}</h1>
-            <p className="text-[10px] text-white/50 font-medium uppercase tracking-widest">{t.subtitle}</p>
+            <p className="text-[10px] text-white/45 font-medium uppercase tracking-widest">{t.subtitle}</p>
           </div>
-          <div className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70 text-xs font-bold">
-            {done}/{total}
-          </div>
+          <div className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/60 text-xs font-bold">{done}/{PLANETS.length}</div>
         </div>
-
-        {/* Progress bar */}
         <div className="relative z-10 px-4 mb-1">
           <div className="h-1.5 bg-white/10 rounded-full overflow-hidden">
-            <motion.div className="h-full bg-gradient-to-r from-[#4ECDC4] to-[#B44DFF] rounded-full"
-              initial={{ width: 0 }} animate={{ width: `${(done / total) * 100}%` }} transition={{ duration: 0.8, ease: "easeOut" }} />
+            <motion.div className="h-full rounded-full" style={{ background: `linear-gradient(90deg, #4ECDC4, #B44DFF)` }}
+              initial={{ width: 0 }} animate={{ width: `${(done / PLANETS.length) * 100}%` }} transition={{ duration: 0.8, ease: "easeOut" }} />
           </div>
         </div>
 
-        {/* Space map */}
         <div className="relative z-10 flex-1 flex flex-col items-center px-4 pb-4">
           <div className="w-full max-w-[340px]">
             <SpaceMap completedPlanets={save.completedPlanets} onSelect={startPlanet} lang={lang} />
           </div>
-
-          {/* Planet list (tap targets on mobile) */}
           <div className="w-full max-w-[340px] flex flex-col gap-2 mt-1">
             {PLANETS.map((p) => {
               const done = save.completedPlanets.includes(p.id);
               const unlocked = !p.requires || save.completedPlanets.includes(p.requires);
               const name = (t.planetNames as Record<string, string>)[p.id];
-              const sub = (t.planetSubs as Record<string, string>)[p.id];
-              const best = save.planetScores[p.id];
+              const sub  = (t.planetSubs  as Record<string, string>)[p.id];
               return (
-                <motion.button
-                  key={p.id}
-                  onClick={() => unlocked && startPlanet(p)}
-                  disabled={!unlocked}
-                  className="flex items-center gap-3 rounded-2xl px-4 py-3 text-left transition-all"
-                  style={{ background: unlocked ? p.bg : "rgba(255,255,255,0.03)", border: `1.5px solid ${unlocked ? p.color : "rgba(255,255,255,0.1)"}`, opacity: unlocked ? 1 : 0.5 }}
-                  whileTap={unlocked ? { scale: 0.97 } : {}}
-                >
+                <motion.button key={p.id} onClick={() => unlocked && startPlanet(p)} disabled={!unlocked}
+                  className="flex items-center gap-3 rounded-2xl px-4 py-3 text-left"
+                  style={{ background: unlocked ? p.bg : "rgba(255,255,255,0.02)", border: `1.5px solid ${unlocked ? p.color : "rgba(255,255,255,0.08)"}`, opacity: unlocked ? 1 : 0.45 }}
+                  whileTap={unlocked ? { scale: 0.97 } : {}}>
                   <span className="text-2xl">{unlocked ? p.icon : "🔒"}</span>
                   <div className="flex-1 min-w-0">
                     <div className="font-bold text-sm text-white/90 truncate">{name}</div>
-                    <div className="text-[11px] text-white/50 truncate">{sub}</div>
+                    <div className="text-[11px] text-white/45 truncate">{sub}</div>
                   </div>
-                  {done && best !== undefined && (
-                    <div className="text-xs font-bold" style={{ color: p.color }}>{best}/{QUESTIONS_PER_PLANET} ⭐</div>
-                  )}
                   {done && <span className="text-[#00FF88] text-sm font-bold">✓</span>}
-                  {!done && unlocked && <ChevronRight size={16} className="text-white/40" />}
-                  {!unlocked && <Lock size={14} className="text-white/30" />}
+                  {!done && unlocked && <ChevronRight size={16} className="text-white/35" />}
                 </motion.button>
               );
             })}
           </div>
         </div>
 
-        {/* Avatar */}
         <div className="fixed bottom-4 right-4 z-50">
           <AvatarCompanion {...avatarProps} mood={avatarMood} jumpTrigger={undefined} fixed />
         </div>
@@ -572,7 +616,7 @@ export default function AstroMathPage() {
     );
   }
 
-  // ─── LEARN screen ──────────────────────────────────────────────────────────
+  // ─── LEARN ────────────────────────────────────────────────────────────────
   if (screen === "learn" && activePlanet) {
     const slides = ((t.learnSlides as unknown) as Record<string, { icon: string; title: string; body: string }[]>)[activePlanet.id] ?? [];
     const slide = slides[slideIdx];
@@ -581,72 +625,54 @@ export default function AstroMathPage() {
     return (
       <div className="min-h-screen flex flex-col relative overflow-hidden" style={{ background: `radial-gradient(ellipse at 50% 0%, ${activePlanet.bg} 0%, #060614 60%)` }}>
         <Starfield />
-
-        {/* Header */}
         <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-4">
-          <button onClick={() => setScreen("map")} className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 transition-colors">
-            <X size={16} />
-          </button>
+          <button onClick={() => setScreen("map")} className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 transition-colors"><X size={16} /></button>
           <div className="flex gap-1.5">
             {slides.map((_, i) => (
-              <div key={i} className="w-6 h-1.5 rounded-full transition-all" style={{ background: i <= slideIdx ? activePlanet.color : "rgba(255,255,255,0.15)" }} />
+              <div key={i} className="w-7 h-1.5 rounded-full transition-all" style={{ background: i <= slideIdx ? activePlanet.color : "rgba(255,255,255,0.15)" }} />
             ))}
           </div>
           <div className="w-9" />
         </div>
 
-        {/* Slide content */}
-        <div className="relative z-10 flex-1 flex flex-col items-center justify-center px-6 pb-8 gap-6">
+        <div className="relative z-10 flex-1 flex flex-col items-center justify-center px-6 pb-6 gap-6">
           <AnimatePresence mode="wait">
-            <motion.div key={slideIdx} initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -20 }} transition={{ duration: 0.35 }}
+            <motion.div key={slideIdx} initial={{ opacity: 0, y: 18 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -18 }} transition={{ duration: 0.3 }}
               className="flex flex-col items-center gap-5 text-center">
-              {/* Big icon */}
-              <motion.div
-                className="w-24 h-24 rounded-3xl flex items-center justify-center text-5xl"
+              <motion.div className="w-24 h-24 rounded-3xl flex items-center justify-center text-5xl"
                 style={{ background: activePlanet.bg, border: `2px solid ${activePlanet.color}`, boxShadow: `0 0 30px ${activePlanet.glow}` }}
-                animate={{ scale: [1, 1.05, 1] }}
-                transition={{ duration: 2.5, repeat: Infinity }}
-              >
+                animate={{ scale: [1, 1.05, 1] }} transition={{ duration: 2.5, repeat: Infinity }}>
                 {slide?.icon}
               </motion.div>
-
               <h2 className="text-2xl font-black text-white leading-tight">{slide?.title}</h2>
-
-              <div className="rounded-2xl px-6 py-4 text-center max-w-xs" style={{ background: "rgba(255,255,255,0.05)", border: "1px solid rgba(255,255,255,0.1)" }}>
+              <div className="rounded-2xl px-6 py-4 max-w-xs" style={{ background: "rgba(255,255,255,0.05)", border: "1px solid rgba(255,255,255,0.1)" }}>
                 <p className="text-white/80 text-base leading-relaxed font-medium">{slide?.body}</p>
               </div>
             </motion.div>
           </AnimatePresence>
         </div>
 
-        {/* Avatar small */}
         <div className="relative z-10 flex items-end justify-between px-6 pb-6 gap-4">
           <div className="w-20 h-20 flex-shrink-0">
             <AvatarCompanion {...avatarProps} mood="focused" jumpTrigger={undefined} fixed={false} />
           </div>
-
           <motion.button
-            onClick={() => {
-              if (isLast) goToQuiz();
-              else setSlideIdx((i) => i + 1);
-            }}
+            onClick={() => { if (isLast) goToDiscover(); else setSlideIdx((i) => i + 1); }}
             className="flex-1 py-4 rounded-2xl font-black text-lg text-white flex items-center justify-center gap-2"
-            style={{ background: `linear-gradient(135deg, ${activePlanet.color}33, ${activePlanet.color}66)`, border: `2px solid ${activePlanet.color}`, boxShadow: `0 0 20px ${activePlanet.glow}` }}
-            whileTap={{ scale: 0.97 }}
-          >
-            {isLast ? t.startQuiz : t.next}
-            <ChevronRight size={20} />
+            style={{ background: `linear-gradient(135deg, ${activePlanet.color}44, ${activePlanet.color}77)`, border: `2px solid ${activePlanet.color}` }}
+            whileTap={{ scale: 0.97 }}>
+            {isLast ? t.startMission : t.next} <ChevronRight size={20} />
           </motion.button>
         </div>
       </div>
     );
   }
 
-  // ─── QUIZ screen ───────────────────────────────────────────────────────────
-  if (screen === "quiz" && activePlanet && questions.length > 0) {
-    const q = questions[qIdx];
-    const isAnswered = chosen !== null;
-    const isCorrect = isAnswered && String(chosen) === String(q.correctAnswer);
+  // ─── DISCOVER ─────────────────────────────────────────────────────────────
+  if (screen === "discover" && activePlanet) {
+    const scenes = PLANET_SCENES[activePlanet.id] ?? [];
+    const scene = scenes[sceneIdx];
+    const name = (t.planetNames as Record<string, string>)[activePlanet.id];
 
     return (
       <div className="min-h-screen flex flex-col relative overflow-hidden" style={{ background: `radial-gradient(ellipse at 50% 0%, ${activePlanet.bg} 0%, #060614 55%)` }}>
@@ -657,76 +683,20 @@ export default function AstroMathPage() {
           <button onClick={() => setScreen("map")} className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 transition-colors">
             <X size={14} />
           </button>
-          {/* Progress dots */}
           <div className="flex gap-1.5 flex-1">
-            {questions.map((_, i) => (
+            {scenes.map((_, i) => (
               <div key={i} className="flex-1 h-2 rounded-full transition-all"
-                style={{ background: i < qIdx ? "#00FF88" : i === qIdx ? activePlanet.color : "rgba(255,255,255,0.12)" }} />
+                style={{ background: i < sceneIdx ? "#00FF88" : i === sceneIdx ? activePlanet.color : "rgba(255,255,255,0.12)" }} />
             ))}
           </div>
-          <div className="text-white/70 text-sm font-bold">{score}/{QUESTIONS_PER_PLANET}</div>
+          <span className="text-white/50 text-xs font-bold">{name}</span>
         </div>
 
-        {/* Question card */}
-        <div className="relative z-10 flex-1 flex flex-col items-center px-4 pb-4 gap-4">
+        {/* Scene */}
+        <div className="relative z-10 flex-1 flex flex-col items-center justify-center px-5 pb-5">
           <AnimatePresence mode="wait">
-            <motion.div key={animKey} initial={{ opacity: 0, scale: 0.95 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0, scale: 0.95 }} transition={{ duration: 0.25 }}
-              className="w-full max-w-sm">
-              {/* Question */}
-              <div className="rounded-3xl p-6 text-center mb-4 mt-2" style={{ background: "rgba(255,255,255,0.05)", border: `1.5px solid ${activePlanet.color}33` }}>
-                <p className="text-sm text-white/50 font-bold uppercase tracking-widest mb-3">
-                  {t.question} {qIdx + 1} {t.of} {QUESTIONS_PER_PLANET}
-                </p>
-                <p className="text-3xl font-black text-white leading-snug">{q.question}</p>
-              </div>
-
-              {/* Options */}
-              <div className="grid grid-cols-2 gap-3">
-                {q.options.map((opt, i) => {
-                  const isThis = chosen !== null && String(opt) === String(chosen);
-                  const isRight = String(opt) === String(q.correctAnswer);
-                  let bg = "rgba(255,255,255,0.05)";
-                  let border = "rgba(255,255,255,0.15)";
-                  let textColor = "rgba(255,255,255,0.85)";
-                  if (isAnswered) {
-                    if (isRight) { bg = "rgba(0,255,136,0.15)"; border = "#00FF88"; textColor = "#00FF88"; }
-                    else if (isThis) { bg = "rgba(255,50,50,0.15)"; border = "#FF6B6B"; textColor = "#FF6B6B"; }
-                  }
-                  return (
-                    <motion.button
-                      key={i}
-                      onClick={() => handleAnswer(opt)}
-                      disabled={isAnswered}
-                      className="py-5 rounded-2xl font-black text-xl transition-all"
-                      style={{ background: bg, border: `2px solid ${border}`, color: textColor }}
-                      whileTap={!isAnswered ? { scale: 0.95 } : {}}
-                    >
-                      {String(opt)}
-                    </motion.button>
-                  );
-                })}
-              </div>
-
-              {/* Feedback + Next */}
-              <AnimatePresence>
-                {isAnswered && (
-                  <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} transition={{ duration: 0.25 }}
-                    className="mt-4 flex flex-col items-center gap-3">
-                    <div className={`text-lg font-black ${isCorrect ? "text-[#00FF88]" : "text-[#FF6B6B]"}`}>
-                      {isCorrect ? t.correct : t.wrong}
-                    </div>
-                    <motion.button
-                      onClick={handleNext}
-                      className="w-full py-4 rounded-2xl font-black text-white text-lg flex items-center justify-center gap-2"
-                      style={{ background: `linear-gradient(135deg, ${activePlanet.color}44, ${activePlanet.color}88)`, border: `2px solid ${activePlanet.color}` }}
-                      whileTap={{ scale: 0.97 }}
-                    >
-                      {qIdx + 1 < questions.length ? t.next : (t.planetNames as Record<string, string>)[activePlanet.id]}
-                      <ChevronRight size={20} />
-                    </motion.button>
-                  </motion.div>
-                )}
-              </AnimatePresence>
+            <motion.div key={sceneIdx} className="w-full" initial={{ opacity: 0, x: 30 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -30 }} transition={{ duration: 0.3 }}>
+              <DiscoverScene scene={scene} planet={activePlanet} lang={lang} onNext={handleSceneNext} />
             </motion.div>
           </AnimatePresence>
         </div>
@@ -739,95 +709,59 @@ export default function AstroMathPage() {
     );
   }
 
-  // ─── REWARD screen ─────────────────────────────────────────────────────────
+  // ─── REWARD ───────────────────────────────────────────────────────────────
   if (screen === "reward" && earnedCard) {
     return (
       <>
-        <RewardReveal rarity={earnedCard} game="astromath" score={score} total={QUESTIONS_PER_PLANET} onDone={goToComplete} />
-        {true && (
-          <MilestonePopup />
-        )}
+        <RewardReveal rarity={earnedCard} game="astromath" score={5} total={5} onDone={goToComplete} />
+        <MilestonePopup />
       </>
     );
   }
 
-  // ─── COMPLETE screen ───────────────────────────────────────────────────────
+  // ─── COMPLETE ─────────────────────────────────────────────────────────────
   if (screen === "complete" && activePlanet) {
-    const pct = Math.round((score / QUESTIONS_PER_PLANET) * 100);
     const allDone = PLANETS.every((p) => save.completedPlanets.includes(p.id));
     const nextIdx = PLANETS.findIndex((p) => p.id === activePlanet.id) + 1;
     const nextPlanet = nextIdx < PLANETS.length ? PLANETS[nextIdx] : null;
+    const name = (t.planetNames as Record<string, string>)[activePlanet.id];
 
     return (
-      <div className="min-h-screen flex flex-col items-center justify-center relative overflow-hidden px-5 gap-6" style={{ background: `radial-gradient(ellipse at 50% 30%, ${activePlanet.bg} 0%, #060614 60%)` }}>
+      <div className="min-h-screen flex flex-col items-center justify-center relative overflow-hidden px-5 gap-6"
+        style={{ background: `radial-gradient(ellipse at 50% 30%, ${activePlanet.bg} 0%, #060614 60%)` }}>
         <Starfield />
-
         <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ duration: 0.4 }}
           className="relative z-10 flex flex-col items-center gap-5 text-center w-full max-w-sm">
-
-          {/* Planet icon big */}
-          <motion.div
-            className="w-28 h-28 rounded-full flex items-center justify-center text-6xl"
+          <motion.div className="w-28 h-28 rounded-full flex items-center justify-center text-6xl"
             style={{ background: activePlanet.bg, border: `3px solid ${activePlanet.color}`, boxShadow: `0 0 40px ${activePlanet.glow}` }}
-            animate={{ scale: [1, 1.06, 1] }} transition={{ duration: 2.5, repeat: Infinity }}
-          >
+            animate={{ scale: [1, 1.06, 1] }} transition={{ duration: 2.5, repeat: Infinity }}>
             {activePlanet.icon}
           </motion.div>
-
           <div>
-            <h2 className="text-2xl font-black text-white">{(t.planetNames as Record<string, string>)[activePlanet.id]}</h2>
+            <h2 className="text-2xl font-black text-white">{name}</h2>
             <p className="text-white/50 text-sm mt-1">{t.completed}</p>
           </div>
-
-          {/* Score */}
-          <div className="rounded-2xl px-8 py-5 w-full" style={{ background: "rgba(255,255,255,0.05)", border: `1.5px solid ${activePlanet.color}33` }}>
-            <div className="text-5xl font-black" style={{ color: activePlanet.color }}>{score}/{QUESTIONS_PER_PLANET}</div>
-            <div className="text-white/60 text-sm mt-1 font-medium">{pct}%</div>
-          </div>
-
-          {allDone && (
-            <div className="text-[#FFD700] font-black text-lg animate-pulse">{t.allDone}</div>
-          )}
-
-          {/* Buttons */}
+          {allDone && <div className="text-[#FFD700] font-black text-lg">{t.allDone}</div>}
           <div className="flex flex-col gap-3 w-full">
             {nextPlanet && !allDone && (
-              <motion.button
-                onClick={() => startPlanet(nextPlanet)}
+              <motion.button onClick={() => startPlanet(nextPlanet)}
                 className="w-full py-4 rounded-2xl font-black text-white text-base flex items-center justify-center gap-2"
                 style={{ background: `linear-gradient(135deg, ${nextPlanet.color}44, ${nextPlanet.color}88)`, border: `2px solid ${nextPlanet.color}` }}
-                whileTap={{ scale: 0.97 }}
-              >
+                whileTap={{ scale: 0.97 }}>
                 {t.nextPlanet} → {(t.planetNames as Record<string, string>)[nextPlanet.id]}
               </motion.button>
             )}
-            <motion.button
-              onClick={() => { setScreen("map"); setAvatarMood("idle"); }}
+            <motion.button onClick={() => { setScreen("map"); setAvatarMood("idle"); }}
               className="w-full py-4 rounded-2xl font-bold text-white/70 text-base border border-white/15 bg-white/5"
-              whileTap={{ scale: 0.97 }}
-            >
+              whileTap={{ scale: 0.97 }}>
               {t.backToMap}
             </motion.button>
-            {score < QUESTIONS_PER_PLANET && (
-              <motion.button
-                onClick={() => startPlanet(activePlanet)}
-                className="w-full py-3 rounded-xl font-bold text-white/50 text-sm flex items-center justify-center gap-1.5 border border-white/10 bg-white/3"
-                whileTap={{ scale: 0.97 }}
-              >
-                <RefreshCw size={14} /> {t.retry}
-              </motion.button>
-            )}
           </div>
         </motion.div>
-
-        {/* Avatar */}
         <div className="fixed bottom-4 right-4 z-50">
           <AvatarCompanion {...avatarProps} mood="victory" jumpTrigger={undefined} fixed />
         </div>
-
-        {true && (
-          <MilestonePopup />
-        )}
+        <MilestonePopup />
       </div>
     );
   }

@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/77419e51bf915b56.css","style"]
+:HL["/_next/static/chunks/d74b260602159db5.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&display=swap","style"]
-0:{"buildId":"AwA2ttCtz5lmiTIUJ3ztW","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"mazerush","paramType":null,"paramKey":"mazerush","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"Sg4Gxoud3VZfQH8F3FENy","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"mazerush","paramType":null,"paramKey":"mazerush","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
