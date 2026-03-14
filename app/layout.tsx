@@ -3,6 +3,7 @@ import "./globals.css";
 import ServiceWorkerRegister from "@/components/ServiceWorkerRegister";
 import { LanguageProvider } from "@/components/LanguageProvider";
 import ChallengeOverlay from "@/components/ChallengeOverlay";
+import CookieConsent from "@/components/CookieConsent";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://plizio.com"),
@@ -110,12 +111,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-BR2WCCRFG0" />
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-BR2WCCRFG0');`,
-          }}
-        />
+        {/* Google Analytics loaded conditionally via CookieConsent component */}
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
@@ -134,6 +130,7 @@ export default function RootLayout({
           {children}
           <ChallengeOverlay />
         </LanguageProvider>
+        <CookieConsent />
         <ServiceWorkerRegister />
       </body>
     </html>
