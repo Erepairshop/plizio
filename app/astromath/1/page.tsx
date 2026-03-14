@@ -3,6 +3,7 @@ import { useState, useEffect, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { Home, X, ChevronRight, ChevronLeft, Check, Volume2 } from "lucide-react";
+import dynamic from "next/dynamic";
 import { useLang } from "@/components/LanguageProvider";
 import RewardReveal from "@/components/RewardReveal";
 import MilestonePopup from "@/components/MilestonePopup";
@@ -10,6 +11,13 @@ import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, checkNewMilestones } from "@/lib/milestones";
 import type { CardRarity } from "@/lib/cards";
 import type { MathQuestion } from "@/lib/mathCurriculum";
+import { getGender, type AvatarGender } from "@/lib/gender";
+import { getSkinDef, getActiveSkin } from "@/lib/skins";
+import { getFaceDef, getActiveFace } from "@/lib/faces";
+import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
+import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
+
+const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
   G1_ISLANDS, CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang,
   loadG1Progress, saveG1Progress, type G1Progress,
@@ -213,6 +221,25 @@ const STAR_DATA = Array.from({ length: 60 }, (_, i) => ({
 const SHOOT_DATA = Array.from({ length: 4 }, (_, i) => ({
   id: i, startX: 15 + i * 22, dur: 3.5 + i * 1.2, delay: 4 + i * 5,
 }));
+// ─── SVG → DOM coordinate helper ───────────────────────────────────────────────
+// Converts AstroMath map SVG coords (viewBox "0 -220 320 860") to viewport px
+function useSvgPos(svgRef: React.RefObject<SVGSVGElement | null>, vx: number, vy: number) {
+  const [pos, setPos] = useState<{ left: number; top: number } | null>(null);
+  const calc = useCallback(() => {
+    const svg = svgRef.current;
+    if (!svg) return;
+    const rect = svg.getBoundingClientRect();
+    const scale = rect.width / 320; // viewBox width = 320
+    setPos({ left: rect.left + vx * scale, top: rect.top + (vy + 220) * scale });
+  }, [svgRef, vx, vy]);
+  useEffect(() => {
+    calc();
+    window.addEventListener("resize", calc);
+    return () => window.removeEventListener("resize", calc);
+  }, [calc]);
+  return pos;
+}
+
 function Starfield() {
   return (
     <div className="absolute inset-0 overflow-hidden pointer-events-none">
@@ -269,15 +296,16 @@ function buildSmoothPath(islands: typeof G1_ISLANDS): string {
   return d;
 }
 
-function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
+function IslandMapSVG({ progress, onIsland, onCheckpoint, svgRef }: {
   progress: G1Progress;
   onIsland: (island: IslandDef) => void;
   onCheckpoint: (testId: string) => void;
+  svgRef?: React.RefObject<SVGSVGElement | null>;
 }) {
   const pathD = buildSmoothPath(G1_ISLANDS);
 
   return (
-    <svg viewBox={`0 -${MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} width="100%" style={{ minHeight: MAP_H, display: "block" }}>
+    <svg ref={svgRef} viewBox={`0 -${MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} width="100%" style={{ minHeight: MAP_H, display: "block" }}>
       <defs>
         {/* Glow filter for path */}
         <filter id="pathGlow" x="-20%" y="-20%" width="140%" height="140%">
@@ -426,8 +454,9 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
 }
 
 // ─── Orbit Quiz ────────────────────────────────────────────────────────────────
-function OrbitQuiz({ questions, color, onDone }: {
+function OrbitQuiz({ questions, color, onDone, onCorrect, onWrong }: {
   questions: MathQuestion[]; color: string; onDone: (score: number, total: number) => void;
+  onCorrect?: () => void; onWrong?: () => void;
 }) {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
@@ -454,8 +483,11 @@ function OrbitQuiz({ questions, color, onDone }: {
     if (String(opt) === String(q?.correctAnswer)) {
       scoreRef.current += 1;
       setScore(scoreRef.current);
+      onCorrect?.();
+    } else {
+      onWrong?.();
     }
-  }, [confirmed, q]);
+  }, [confirmed, q, onCorrect, onWrong]);
 
   const next = useCallback(() => {
     if (idx + 1 >= questions.length) {
@@ -537,8 +569,9 @@ function OrbitQuiz({ questions, color, onDone }: {
 }
 
 // ─── Black Hole (same as OrbitQuiz, different styling) ─────────────────────────
-function BlackHole({ questions, color, onDone }: {
+function BlackHole({ questions, color, onDone, onCorrect, onWrong }: {
   questions: MathQuestion[]; color: string; onDone: (score: number, total: number) => void;
+  onCorrect?: () => void; onWrong?: () => void;
 }) {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
@@ -564,8 +597,11 @@ function BlackHole({ questions, color, onDone }: {
     if (String(opt) === String(q?.correctAnswer)) {
       scoreRef.current += 1;
       setScore(scoreRef.current);
+      onCorrect?.();
+    } else {
+      onWrong?.();
     }
-  }, [confirmed, q]);
+  }, [confirmed, q, onCorrect, onWrong]);
 
   const next = useCallback(() => {
     if (idx + 1 >= questions.length) onDone(scoreRef.current, questions.length);
@@ -1330,20 +1366,65 @@ export default function AstroMathG1Page() {
   // Flag: did completing the last mission just unlock an island for the first time?
   const [justUnlockedIsland, setJustUnlockedIsland] = useState(false);
 
+  // ── Avatar state ──────────────────────────────────────────────────────────────
+  const [gender] = useState<AvatarGender>(() => getGender());
+  const [activeSkin] = useState(() => getSkinDef(getActiveSkin()));
+  const [activeFace] = useState(() => getFaceDef(getActiveFace()));
+  const [activeTop] = useState(() => { const id = getActive("top"); return id ? getTopDef(id) : null; });
+  const [activeBottom] = useState(() => { const id = getActive("bottom"); return id ? getBottomDef(id) : null; });
+  const [activeShoe] = useState(() => { const id = getActive("shoe"); return id ? getShoeDef(id) : null; });
+  const [activeCape] = useState(() => { const id = getActive("cape"); return id ? getCapeDef(id) : null; });
+  const [activeGlasses] = useState(() => { const id = getActive("glasses"); return id ? getGlassesDef(id) : null; });
+  const [activeGloves] = useState(() => { const id = getActive("gloves"); return id ? getGloveDef(id) : null; });
+  const [activeHat] = useState(() => { const id = getActiveHat(); return id ? getHatDef(id) : null; });
+  const [activeTrail] = useState(() => { const id = getActiveTrail(); return id ? getTrailDef(id) : null; });
+  const [avatarMood, setAvatarMood] = useState<"idle"|"focused"|"happy"|"disappointed"|"victory"|"surprised"|"confused"|"laughing">("idle");
+  const [jumpTrigger, setJumpTrigger] = useState<{ reaction: "happy" | "victory" | null; timestamp: number } | undefined>(undefined);
+  // Map: which island is the avatar currently standing on
+  const [avatarIslandId, setAvatarIslandId] = useState<string>("i1");
+  const [avatarWalking, setAvatarWalking] = useState(false);
+  const walkTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const mapSvgRef = useRef<SVGSVGElement | null>(null);
+
+  const avatarIsland = G1_ISLANDS.find(i => i.id === avatarIslandId) ?? G1_ISLANDS[0];
+  // Stand slightly above the island circle (r=30)
+  const avatarMapPos = useSvgPos(mapSvgRef, avatarIsland.svgX, avatarIsland.svgY - 26);
+  const AVATAR_MAP_SIZE = 48;
+
+  const avatarProps = {
+    gender, activeSkin, activeFace,
+    activeTop, activeBottom, activeShoe, activeCape, activeGlasses, activeGloves,
+    activeHat, activeTrail,
+  };
+
   useEffect(() => {
-    setProgress(loadG1Progress());
+    const p = loadG1Progress();
+    setProgress(p);
+    // Place avatar at last completed island (or i1)
+    const lastDone = [...G1_ISLANDS].reverse().find(i => p.completedIslands.includes(i.id));
+    if (lastDone) setAvatarIslandId(lastDone.id);
   }, []);
 
   // ── Island selected ──────────────────────────────────────────────────────────
   const handleIslandSelect = useCallback((island: IslandDef) => {
-    setActiveIsland(island);
-    setScreen("island-intro");
-  }, []);
+    // Walk avatar to the island, then open intro after a short delay
+    if (walkTimerRef.current) clearTimeout(walkTimerRef.current);
+    setAvatarIslandId(island.id);
+    setAvatarWalking(true);
+    setAvatarMood("happy");
+    walkTimerRef.current = setTimeout(() => {
+      setAvatarWalking(false);
+      setAvatarMood("idle");
+      setActiveIsland(island);
+      setScreen("island-intro");
+    }, avatarIslandId === island.id ? 0 : 700);
+  }, [avatarIslandId]);
 
   // ── Start mission ────────────────────────────────────────────────────────────
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
+    setAvatarMood("focused");
     if (mission.gameType === "number-duel" || mission.gameType === "gravity-sort") {
       // No questions needed — uses sortRange directly
       setQuestions([]);
@@ -1372,6 +1453,8 @@ export default function AstroMathG1Page() {
     saveG1Progress(newProgress);
     setProgress(newProgress);
 
+    const pct2 = total > 0 ? Math.round((score / total) * 100) : 0;
+    setAvatarMood(pct2 >= 60 ? "victory" : "disappointed");
     setScreen("mission-done");
   }, [activeIsland, activeMission, progress]);
 
@@ -1396,6 +1479,7 @@ export default function AstroMathG1Page() {
   // ── Checkpoint ───────────────────────────────────────────────────────────────
   const startCheckpoint = useCallback((testId: string) => {
     setActiveTestId(testId);
+    setAvatarMood("focused");
     // Generate rocket-launch warm-up questions from checkpoint topics
     const qs = generateCheckpointQuestions(testId, lang as Lang, ROCKET_ROUNDS);
     setQuestions(qs);
@@ -1429,6 +1513,7 @@ export default function AstroMathG1Page() {
   }, [activeTestId, progress]);
 
   const goToMap = useCallback(() => {
+    setAvatarMood("idle");
     setScreen("island-map");
     setActiveIsland(null);
     setActiveMission(null);
@@ -1468,7 +1553,33 @@ export default function AstroMathG1Page() {
         {/* Scrollable map */}
         <div className="relative z-10 flex-1 overflow-y-auto">
           <div className="max-w-sm mx-auto px-2 pb-6" style={{ minHeight: MAP_H + 40 }}>
-            <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} />
+            <div className="relative">
+              <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} svgRef={mapSvgRef} />
+              {/* Avatar walks on the map between islands */}
+              {avatarMapPos && (
+                <motion.div
+                  className="fixed pointer-events-none z-30"
+                  style={{ width: AVATAR_MAP_SIZE, height: AVATAR_MAP_SIZE }}
+                  animate={{
+                    left: avatarMapPos.left - AVATAR_MAP_SIZE / 2,
+                    top: avatarMapPos.top - AVATAR_MAP_SIZE * 0.75,
+                    opacity: 1,
+                  }}
+                  initial={{ opacity: 0, left: avatarMapPos.left - AVATAR_MAP_SIZE / 2, top: avatarMapPos.top - AVATAR_MAP_SIZE * 0.75 }}
+                  transition={avatarWalking
+                    ? { left: { duration: 0.65, ease: "easeInOut" }, top: { duration: 0.65, ease: [0.4, 0, 0.2, 1] }, opacity: { duration: 0.4 } }
+                    : { opacity: { delay: 0.5, duration: 0.5 } }
+                  }
+                >
+                  <AvatarCompanion
+                    fixed={false}
+                    mood={avatarWalking ? "happy" : "idle"}
+                    passThrough={true}
+                    {...avatarProps}
+                  />
+                </motion.div>
+              )}
+            </div>
             {/* Blog link */}
             <div className="flex justify-center pt-2 pb-4">
               <a href={lang === "hu" ? "/blog/matek-tanulas-astromath/" : lang === "ro" ? "/blog/matematica-astromath/" : "/blog/free-math-games-kids/"}
@@ -1594,10 +1705,14 @@ export default function AstroMathG1Page() {
       {/* Game */}
       <div className="relative z-10 flex-1 flex flex-col justify-center px-4 pb-6">
         {screen === "orbit-quiz" && questions.length > 0 && (
-          <OrbitQuiz questions={questions} color={bgColor} onDone={handleMissionDone} />
+          <OrbitQuiz questions={questions} color={bgColor} onDone={handleMissionDone}
+            onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
+            onWrong={() => setAvatarMood("disappointed")} />
         )}
         {screen === "black-hole" && questions.length > 0 && (
-          <BlackHole questions={questions} color={bgColor} onDone={handleMissionDone} />
+          <BlackHole questions={questions} color={bgColor} onDone={handleMissionDone}
+            onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
+            onWrong={() => setAvatarMood("disappointed")} />
         )}
         {screen === "gravity-sort" && activeIsland && (
           <GravitySort sortRange={activeIsland.sortRange} color={bgColor} onDone={handleMissionDone} />
@@ -1612,11 +1727,17 @@ export default function AstroMathG1Page() {
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel"].includes(screen)) return gameScreen;
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel"].includes(screen)) return (
+    <>
+      {gameScreen}
+      <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
+    </>
+  );
 
   // ─── ROCKET LAUNCH (checkpoint warm-up) ──────────────────────────────────────
   if (screen === "rocket-launch" && activeTestId) {
     return (
+      <>
       <div className="min-h-screen flex flex-col relative overflow-hidden"
         style={{ background: "radial-gradient(ellipse at 50% 0%, rgba(255,165,0,0.18) 0%, #060614 55%)" }}>
         <Starfield />
@@ -1632,6 +1753,8 @@ export default function AstroMathG1Page() {
             onDone={() => setScreen("checkpoint-intro")} />
         </div>
       </div>
+      <AvatarCompanion fixed={true} mood="focused" {...avatarProps} />
+      </>
     );
   }
 
@@ -1710,17 +1833,22 @@ export default function AstroMathG1Page() {
   // ─── CHECKPOINT QUIZ ─────────────────────────────────────────────────────────
   if (screen === "checkpoint-quiz" && questions.length > 0) {
     return (
-      <div className="min-h-screen flex flex-col relative overflow-hidden"
-        style={{ background: "radial-gradient(ellipse at 50% 0%, rgba(255,215,0,0.12) 0%, #060614 55%)" }}>
-        <Starfield />
-        <div className="relative z-10 flex items-center gap-3 px-4 pt-5 pb-3">
-          <button onClick={goToMap} className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={14} /></button>
-          <p className="text-white/70 text-sm font-bold flex-1">{t.checkpointTitle}</p>
+      <>
+        <div className="min-h-screen flex flex-col relative overflow-hidden"
+          style={{ background: "radial-gradient(ellipse at 50% 0%, rgba(255,215,0,0.12) 0%, #060614 55%)" }}>
+          <Starfield />
+          <div className="relative z-10 flex items-center gap-3 px-4 pt-5 pb-3">
+            <button onClick={goToMap} className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={14} /></button>
+            <p className="text-white/70 text-sm font-bold flex-1">{t.checkpointTitle}</p>
+          </div>
+          <div className="relative z-10 flex-1 flex flex-col justify-center px-4 pb-6">
+            <OrbitQuiz questions={questions} color="#FFD700" onDone={handleCheckpointDone}
+              onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
+              onWrong={() => setAvatarMood("disappointed")} />
+          </div>
         </div>
-        <div className="relative z-10 flex-1 flex flex-col justify-center px-4 pb-6">
-          <OrbitQuiz questions={questions} color="#FFD700" onDone={handleCheckpointDone} />
-        </div>
-      </div>
+        <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
+      </>
     );
   }
 
