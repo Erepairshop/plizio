@@ -146,19 +146,38 @@ const T = {
 } as const;
 
 // ─── Starfield ─────────────────────────────────────────────────────────────────
-const STAR_DATA = Array.from({ length: 50 }, (_, i) => ({
+const STAR_DATA = Array.from({ length: 60 }, (_, i) => ({
   id: i, x: (i * 37 + 13) % 100, y: (i * 53 + 7) % 100,
-  size: (i % 3) * 0.7 + 0.4, dur: 2 + (i % 5) * 0.5, delay: (i % 7) * 0.4,
+  size: (i % 4) * 0.6 + 0.3, dur: 1.8 + (i % 6) * 0.5, delay: (i % 9) * 0.35,
+}));
+const SHOOT_DATA = Array.from({ length: 4 }, (_, i) => ({
+  id: i, startX: 15 + i * 22, dur: 3.5 + i * 1.2, delay: 4 + i * 5,
 }));
 function Starfield() {
   return (
     <div className="absolute inset-0 overflow-hidden pointer-events-none">
+      {/* Static stars */}
       {STAR_DATA.map((s) => (
         <motion.div key={s.id} className="absolute rounded-full bg-white"
           style={{ left: `${s.x}%`, top: `${s.y}%`, width: s.size, height: s.size }}
-          animate={{ opacity: [0.1, 0.85, 0.1] }}
+          animate={{ opacity: [0.08, 0.9, 0.08] }}
           transition={{ duration: s.dur, delay: s.delay, repeat: Infinity, ease: "easeInOut" }} />
       ))}
+      {/* Shooting stars */}
+      {SHOOT_DATA.map((s) => (
+        <motion.div key={`shoot-${s.id}`}
+          className="absolute h-px rounded-full"
+          style={{ left: `${s.startX}%`, top: `${10 + s.id * 18}%`, width: 60,
+            background: "linear-gradient(90deg, transparent, rgba(255,255,255,0.8), transparent)",
+            rotate: -25 }}
+          animate={{ x: [0, 180], opacity: [0, 1, 0] }}
+          transition={{ duration: 0.8, delay: s.delay, repeat: Infinity, repeatDelay: s.dur, ease: "easeIn" }} />
+      ))}
+      {/* Nebula glows */}
+      <div className="absolute" style={{ left: "10%", top: "20%", width: 200, height: 200,
+        background: "radial-gradient(ellipse, rgba(100,50,200,0.07) 0%, transparent 70%)", borderRadius: "50%" }} />
+      <div className="absolute" style={{ left: "55%", top: "55%", width: 160, height: 160,
+        background: "radial-gradient(ellipse, rgba(0,150,255,0.06) 0%, transparent 70%)", borderRadius: "50%" }} />
     </div>
   );
 }
@@ -176,33 +195,93 @@ const CP_POS: Record<string, { x: number; y: number }> = {
   test3: { x: 155, y: -165 },
 };
 
+// Build smooth bezier path through island positions
+function buildSmoothPath(islands: typeof G1_ISLANDS): string {
+  const pts = islands.map((i) => ({ x: i.svgX, y: i.svgY }));
+  if (pts.length < 2) return "";
+  let d = `M ${pts[0].x},${pts[0].y}`;
+  for (let i = 0; i < pts.length - 1; i++) {
+    const cx = (pts[i].x + pts[i + 1].x) / 2;
+    const cy = (pts[i].y + pts[i + 1].y) / 2;
+    d += ` Q ${pts[i].x},${pts[i].y} ${cx},${cy}`;
+  }
+  d += ` Q ${pts[pts.length - 2].x},${pts[pts.length - 2].y} ${pts[pts.length - 1].x},${pts[pts.length - 1].y}`;
+  return d;
+}
+
 function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
   progress: G1Progress;
   onIsland: (island: IslandDef) => void;
   onCheckpoint: (testId: string) => void;
 }) {
-  // Build path through all islands
-  const pts = G1_ISLANDS.map((i) => `${i.svgX},${i.svgY}`);
-  const pathD = `M ${pts[0]} ` + pts.slice(1).map((p) => `L ${p}`).join(" ");
+  const pathD = buildSmoothPath(G1_ISLANDS);
 
   return (
     <svg viewBox={`0 -${MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} width="100%" style={{ minHeight: MAP_H, display: "block" }}>
-      {/* Path */}
-      <path d={pathD} fill="none" stroke="rgba(255,255,255,0.1)" strokeWidth={2} strokeDasharray="8 6" />
+      <defs>
+        {/* Glow filter for path */}
+        <filter id="pathGlow" x="-20%" y="-20%" width="140%" height="140%">
+          <feGaussianBlur stdDeviation="3" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+        {/* Island glow filter */}
+        <filter id="islandGlow" x="-40%" y="-40%" width="180%" height="180%">
+          <feGaussianBlur stdDeviation="5" result="blur" />
+          <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+        </filter>
+        {/* Nebula gradients */}
+        <radialGradient id="nebula1" cx="30%" cy="60%" r="50%">
+          <stop offset="0%" stopColor="#6420C8" stopOpacity="0.12" />
+          <stop offset="100%" stopColor="#6420C8" stopOpacity="0" />
+        </radialGradient>
+        <radialGradient id="nebula2" cx="70%" cy="30%" r="40%">
+          <stop offset="0%" stopColor="#0080FF" stopOpacity="0.09" />
+          <stop offset="100%" stopColor="#0080FF" stopOpacity="0" />
+        </radialGradient>
+      </defs>
+
+      {/* Nebula backgrounds */}
+      <ellipse cx={100} cy={350} rx={160} ry={200} fill="url(#nebula1)" />
+      <ellipse cx={220} cy={100} rx={130} ry={160} fill="url(#nebula2)" />
+
+      {/* Path glow (blurred, wider) */}
+      <path d={pathD} fill="none" stroke="rgba(150,100,255,0.25)" strokeWidth={8}
+        filter="url(#pathGlow)" strokeLinecap="round" />
+      {/* Path main line */}
+      <path d={pathD} fill="none" stroke="rgba(255,255,255,0.12)" strokeWidth={2.5}
+        strokeDasharray="10 7" strokeLinecap="round" />
+      {/* Path highlight dots at midpoints */}
+      {G1_ISLANDS.slice(0, -1).map((island, i) => {
+        const next = G1_ISLANDS[i + 1];
+        const mx = (island.svgX + next.svgX) / 2;
+        const my = (island.svgY + next.svgY) / 2;
+        return <circle key={i} cx={mx} cy={my} r={2} fill="rgba(255,255,255,0.18)" />;
+      })}
 
       {/* Checkpoint markers */}
       {Object.entries(CP_POS).map(([testId, pos]) => {
         const unlocked = isCheckpointUnlocked(progress, testId);
         const done = isCheckpointDone(progress, testId);
+        const color = done ? "#00FF88" : unlocked ? "#FFD700" : "rgba(255,255,255,0.2)";
+        const fillAlpha = done ? "rgba(0,255,136,0.15)" : unlocked ? "rgba(255,215,0,0.15)" : "rgba(255,255,255,0.03)";
         return (
           <g key={testId} onClick={() => unlocked && !done && onCheckpoint(testId)}
             style={{ cursor: unlocked && !done ? "pointer" : "default" }}>
-            <rect x={pos.x - 45} y={pos.y - 14} width={90} height={28} rx={14}
-              fill={done ? "rgba(0,255,136,0.2)" : unlocked ? "rgba(255,215,0,0.2)" : "rgba(255,255,255,0.04)"}
-              stroke={done ? "#00FF88" : unlocked ? "#FFD700" : "rgba(255,255,255,0.1)"} strokeWidth={1.5} />
-            <text x={pos.x} y={pos.y + 5} textAnchor="middle" fontSize={10} fontWeight="bold"
-              fill={done ? "#00FF88" : unlocked ? "#FFD700" : "rgba(255,255,255,0.25)"}>
-              {done ? "✓ Test" : unlocked ? "🎓 Test!" : "🔒 Test"}
+            {/* Outer glow ring */}
+            {unlocked && !done && (
+              <circle cx={pos.x} cy={pos.y} r={22} fill="none" stroke={color} strokeWidth={1}
+                opacity={0.3} strokeDasharray="4 3" />
+            )}
+            {/* Main shape — hexagon-ish (rounded rect with wider) */}
+            <rect x={pos.x - 48} y={pos.y - 16} width={96} height={32} rx={16}
+              fill={fillAlpha} stroke={color} strokeWidth={done ? 1.5 : 2} />
+            {/* Rocket icon left */}
+            <text x={pos.x - 32} y={pos.y + 5} textAnchor="middle" fontSize={13}>
+              {done ? "✅" : unlocked ? "🚀" : "🔒"}
+            </text>
+            {/* Label */}
+            <text x={pos.x + 8} y={pos.y + 5} textAnchor="middle" fontSize={10} fontWeight="bold" fill={color}>
+              {done ? "Fertig!" : unlocked ? "Test!" : "Test"}
             </text>
           </g>
         );
@@ -212,49 +291,73 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
       {G1_ISLANDS.map((island, idx) => {
         const unlocked = isIslandUnlocked(progress, island.id);
         const done = isIslandDone(progress, island.id);
+        const total = islandTotalStars(progress, island.id);
         const missionsDone = island.missions.filter((m) => isMissionDone(progress, island.id, m.id)).length;
 
         return (
           <g key={island.id} onClick={() => unlocked && onIsland(island)}
             style={{ cursor: unlocked ? "pointer" : "default" }}>
-            {/* Glow */}
-            {unlocked && <circle cx={island.svgX} cy={island.svgY} r={34} fill={island.color} opacity={0.12} />}
+            {/* Outer glow ring — unlocked & not done */}
+            {unlocked && !done && (
+              <circle cx={island.svgX} cy={island.svgY} r={40}
+                fill={island.color} opacity={0.08} />
+            )}
+            {/* Done: golden outer ring */}
+            {done && (
+              <circle cx={island.svgX} cy={island.svgY} r={36}
+                fill="none" stroke="#FFD700" strokeWidth={1.5} opacity={0.5}
+                strokeDasharray="5 3" />
+            )}
+            {/* Middle ring */}
+            <circle cx={island.svgX} cy={island.svgY} r={30}
+              fill={unlocked ? `${island.color}18` : "rgba(255,255,255,0.02)"}
+              stroke={unlocked ? `${island.color}50` : "rgba(255,255,255,0.06)"}
+              strokeWidth={1} opacity={unlocked ? 1 : 0.5} />
             {/* Main circle */}
-            <circle cx={island.svgX} cy={island.svgY} r={26}
-              fill={unlocked ? `${island.color}22` : "rgba(255,255,255,0.03)"}
-              stroke={unlocked ? island.color : "rgba(255,255,255,0.1)"}
-              strokeWidth={unlocked ? 2.5 : 1.5}
-              opacity={unlocked ? 1 : 0.4} />
+            <circle cx={island.svgX} cy={island.svgY} r={24}
+              fill={done ? `${island.color}30` : unlocked ? `${island.color}20` : "rgba(255,255,255,0.04)"}
+              stroke={unlocked ? island.color : "rgba(255,255,255,0.12)"}
+              strokeWidth={unlocked ? (done ? 2.5 : 2) : 1.5}
+              filter={unlocked ? "url(#islandGlow)" : undefined}
+              opacity={unlocked ? 1 : 0.35} />
             {/* Icon */}
-            <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={18}>
+            <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={20}>
               {unlocked ? island.icon : "🔒"}
             </text>
-            {/* Done badge */}
-            {done && (
-              <>
-                <circle cx={island.svgX + 20} cy={island.svgY - 20} r={10} fill="#00FF88" />
-                <text x={island.svgX + 20} y={island.svgY - 15} textAnchor="middle" fontSize={12} fill="#000" fontWeight="bold">✓</text>
-              </>
+            {/* Island number (locked) */}
+            {!unlocked && (
+              <text x={island.svgX} y={island.svgY + 42} textAnchor="middle" fontSize={9}
+                fill="rgba(255,255,255,0.2)" fontWeight="bold">{idx + 1}</text>
             )}
-            {/* Mission dots */}
-            {unlocked && !done && (
+            {/* Done checkmark */}
+            {done && (
               <g>
-                {island.missions.map((m, mi) => (
-                  <circle key={mi} cx={island.svgX - 8 + mi * 8} cy={island.svgY + 32} r={3.5}
-                    fill={isMissionDone(progress, island.id, m.id) ? island.color : "rgba(255,255,255,0.2)"} />
-                ))}
+                <circle cx={island.svgX + 22} cy={island.svgY - 20} r={11} fill="#FFD700" />
+                <text x={island.svgX + 22} y={island.svgY - 15} textAnchor="middle" fontSize={11} fill="#000" fontWeight="bold">✓</text>
               </g>
             )}
-            {/* Star count below island */}
-            {unlocked && (() => {
-              const total = islandTotalStars(progress, island.id);
-              return (
-                <text x={island.svgX} y={island.svgY + 46} textAnchor="middle" fontSize={9} fontWeight="bold"
-                  fill={total === 9 ? "#FFD700" : island.color}>
-                  {total > 0 ? `${"⭐".repeat(Math.min(total, 3))} ${total}/9` : `${idx + 1}`}
-                </text>
-              );
-            })()}
+            {/* Mission progress dots */}
+            {unlocked && !done && (
+              <g>
+                {island.missions.map((m, mi) => {
+                  const mdone = isMissionDone(progress, island.id, m.id);
+                  return (
+                    <g key={mi}>
+                      <circle cx={island.svgX - 8 + mi * 8} cy={island.svgY + 34} r={4}
+                        fill={mdone ? island.color : "rgba(255,255,255,0.08)"}
+                        stroke={mdone ? island.color : "rgba(255,255,255,0.2)"} strokeWidth={1} />
+                    </g>
+                  );
+                })}
+              </g>
+            )}
+            {/* Star count */}
+            {unlocked && (
+              <text x={island.svgX} y={island.svgY + 48} textAnchor="middle" fontSize={9} fontWeight="bold"
+                fill={total === 9 ? "#FFD700" : total > 0 ? island.color : "rgba(255,255,255,0.25)"}>
+                {total > 0 ? `${total}/9 ⭐` : island.name.de.split(" ")[0]}
+              </text>
+            )}
           </g>
         );
       })}
