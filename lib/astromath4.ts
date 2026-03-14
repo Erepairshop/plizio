@@ -2,9 +2,9 @@
 // AstroMath — G4 island system definitions, progress management, question helpers
 
 import { generateTopicQuestions, type MathQuestion } from "./mathCurriculum";
-import type { GameType, Lang, L10n, MissionDef, IslandDef, SortRound, MatchPair } from "./astromath";
+import type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, SortRound, MatchPair } from "./astromath";
 
-export type { GameType, Lang, L10n, MissionDef, IslandDef, SortRound, MatchPair };
+export type { GameType, Lang, L10n, MissionDef, MissionCategory, IslandDef, SortRound, MatchPair };
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
@@ -41,9 +41,9 @@ export const G4_ISLANDS: IslandDef[] = [
     icon: "🔢", color: "#4ECDC4", sortRange: [100, 999],
     topicKeys: ["place1k"],
     missions: [
-      { id: "m1", gameType: "speed-round",  icon: "⚡", label: { en: "Speed Round",   hu: "Gyors kör",       de: "Speedrunde",      ro: "Rundă rapidă"   } },
-      { id: "m2", gameType: "number-duel",  icon: "⚔️", label: { en: "Number Duel",   hu: "Szám-párharc",    de: "Zahlen-Duell",    ro: "Duel numere"    } },
-      { id: "m3", gameType: "gravity-sort", icon: "🌪️", label: { en: "Sort Numbers",  hu: "Számrendezés",    de: "Zahlen sortieren", ro: "Sortează"      } },
+      { id: "m1", category: "explore",   gameType: "gravity-sort",  icon: "🌪️", label: { en: "Sort Numbers",   hu: "Számrendezés",    de: "Zahlen sortieren", ro: "Sortează"       } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz",    icon: "🚀", label: { en: "Number Quiz",    hu: "Szám kvíz",       de: "Zahlenquiz",       ro: "Quiz numere"    } },
+      { id: "m3", category: "challenge", gameType: "speed-round",   icon: "⚡", label: { en: "Speed Round",    hu: "Gyors kör",       de: "Speedrunde",       ro: "Rundă rapidă"  } },
     ],
     svgX: 160, svgY: 530,
   },
@@ -53,9 +53,9 @@ export const G4_ISLANDS: IslandDef[] = [
     icon: "✖️", color: "#00D4FF", sortRange: [50, 500],
     topicKeys: ["mul"],
     missions: [
-      { id: "m1", gameType: "concept-explorer", icon: "🔍", label: { en: "Discover Arrays",  hu: "Felfedezés",      de: "Entdecken",       ro: "Descoperire"      } },
-      { id: "m2", gameType: "equation-drill",   icon: "🧮", label: { en: "Equation Drill",   hu: "Egyenlet drill",  de: "Gleichungs-Drill", ro: "Ecuații"          } },
-      { id: "m3", gameType: "star-match",       icon: "⭐", label: { en: "Star Match",       hu: "Csillagpárosítás", de: "Sternenpaare",   ro: "Perechi stele"    } },
+      { id: "m1", category: "explore",   gameType: "concept-explorer", icon: "🔍", label: { en: "Discover Arrays",  hu: "Felfedezés",      de: "Entdecken",        ro: "Descoperire"    } },
+      { id: "m2", category: "build",     gameType: "equation-drill",   icon: "🧮", label: { en: "Equation Drill",   hu: "Egyenlet drill",  de: "Gleichungs-Drill", ro: "Ecuații"        } },
+      { id: "m3", category: "challenge", gameType: "speed-round",      icon: "⚡", label: { en: "Speed Round",      hu: "Gyors kör",       de: "Speedrunde",       ro: "Rundă rapidă"  } },
     ],
     svgX: 80, svgY: 440,
   },
@@ -65,9 +65,9 @@ export const G4_ISLANDS: IslandDef[] = [
     icon: "➗", color: "#FF6B6B", sortRange: [10, 99],
     topicKeys: ["div"],
     missions: [
-      { id: "m1", gameType: "speed-round",    icon: "⚡", label: { en: "Speed Round",    hu: "Gyors kör",       de: "Speedrunde",      ro: "Rundă rapidă"     } },
-      { id: "m2", gameType: "equation-drill", icon: "🧮", label: { en: "Equation Drill",  hu: "Egyenlet drill",  de: "Gleichungs-Drill", ro: "Ecuații"          } },
-      { id: "m3", gameType: "black-hole",     icon: "🕳️", label: { en: "Black Hole",      hu: "Fekete lyuk",     de: "Schwarzes Loch",  ro: "Gaura neagră"     } },
+      { id: "m1", category: "explore",   gameType: "orbit-quiz",    icon: "🚀", label: { en: "Division Quiz",   hu: "Osztás kvíz",     de: "Divisionsquiz",    ro: "Quiz împărțire" } },
+      { id: "m2", category: "build",     gameType: "equation-drill",icon: "🧮", label: { en: "Equation Drill",  hu: "Egyenlet drill",  de: "Gleichungs-Drill", ro: "Ecuații"        } },
+      { id: "m3", category: "challenge", gameType: "speed-round",   icon: "⚡", label: { en: "Speed Round",     hu: "Gyors kör",       de: "Speedrunde",       ro: "Rundă rapidă"  } },
     ],
     svgX: 240, svgY: 360,
   },
@@ -77,9 +77,9 @@ export const G4_ISLANDS: IslandDef[] = [
     icon: "🍕", color: "#B44DFF", sortRange: [1, 20],
     topicKeys: ["frac"],
     missions: [
-      { id: "m1", gameType: "fraction-visual", icon: "🍕", label: { en: "Fraction Pizza", hu: "Tört pizza",      de: "Bruchpizza",      ro: "Pizza fracții"    } },
-      { id: "m2", gameType: "orbit-quiz",      icon: "🚀", label: { en: "Fraction Quiz",  hu: "Törtek kvíz",     de: "Bruchquiz",       ro: "Quiz fracții"     } },
-      { id: "m3", gameType: "star-match",      icon: "⭐", label: { en: "Star Match",     hu: "Csillagpárosítás", de: "Sternenpaare",   ro: "Perechi stele"    } },
+      { id: "m1", category: "explore",   gameType: "fraction-visual", icon: "🍕", label: { en: "Fraction Pizza",  hu: "Tört pizza",      de: "Bruchpizza",       ro: "Pizza fracții"  } },
+      { id: "m2", category: "build",     gameType: "orbit-quiz",      icon: "🚀", label: { en: "Fraction Quiz",   hu: "Törtek kvíz",     de: "Bruchquiz",        ro: "Quiz fracții"   } },
+      { id: "m3", category: "challenge", gameType: "star-match",      icon: "⭐", label: { en: "Star Match",      hu: "Csillagpárosítás", de: "Sternenpaare",    ro: "Perechi stele"  } },
     ],
     svgX: 90, svgY: 270,
   },
@@ -89,9 +89,9 @@ export const G4_ISLANDS: IslandDef[] = [
     icon: "📐", color: "#00FF88", sortRange: [10, 100],
     topicKeys: ["geo"],
     missions: [
-      { id: "m1", gameType: "orbit-quiz",  icon: "🚀", label: { en: "Geometry Quiz",  hu: "Geometria kvíz",  de: "Geometriequiz",   ro: "Quiz geometrie"   } },
-      { id: "m2", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Gyors kör",       de: "Speedrunde",      ro: "Rundă rapidă"     } },
-      { id: "m3", gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillagpárosítás", de: "Sternenpaare",   ro: "Perechi stele"    } },
+      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🚀", label: { en: "Geometry Quiz",  hu: "Geometria kvíz",  de: "Geometriequiz",    ro: "Quiz geometrie" } },
+      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillagpárosítás", de: "Sternenpaare",    ro: "Perechi stele"  } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Gyors kör",       de: "Speedrunde",       ro: "Rundă rapidă"  } },
     ],
     svgX: 220, svgY: 195,
   },
@@ -101,9 +101,9 @@ export const G4_ISLANDS: IslandDef[] = [
     icon: "📖", color: "#FFD700", sortRange: [100, 5000],
     topicKeys: ["word"],
     missions: [
-      { id: "m1", gameType: "orbit-quiz", icon: "🚀", label: { en: "Story Quiz A",    hu: "Szöveges A",      de: "Sachaufgaben A",  ro: "Probleme A"       } },
-      { id: "m2", gameType: "orbit-quiz", icon: "🚀", label: { en: "Story Quiz B",    hu: "Szöveges B",      de: "Sachaufgaben B",  ro: "Probleme B"       } },
-      { id: "m3", gameType: "star-match", icon: "⭐", label: { en: "Star Match",      hu: "Csillagpárosítás", de: "Sternenpaare",   ro: "Perechi stele"    } },
+      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🚀", label: { en: "Story Quiz A",   hu: "Szöveges A",      de: "Sachaufgaben A",   ro: "Probleme A"    } },
+      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillagpárosítás", de: "Sternenpaare",    ro: "Perechi stele" } },
+      { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",     hu: "Fekete lyuk",     de: "Schwarzes Loch",   ro: "Gaura neagră"  } },
     ],
     svgX: 100, svgY: 125,
   },
@@ -113,21 +113,21 @@ export const G4_ISLANDS: IslandDef[] = [
     icon: "📏", color: "#FF9500", sortRange: [10, 1000],
     topicKeys: ["units"],
     missions: [
-      { id: "m1", gameType: "orbit-quiz", icon: "🚀", label: { en: "Units Quiz",      hu: "Mértékegység kvíz", de: "Einheitenquiz",  ro: "Quiz unități"     } },
-      { id: "m2", gameType: "star-match", icon: "⭐", label: { en: "Star Match",      hu: "Csillagpárosítás", de: "Sternenpaare",   ro: "Perechi stele"    } },
-      { id: "m3", gameType: "black-hole", icon: "🕳️", label: { en: "Black Hole",      hu: "Fekete lyuk",     de: "Schwarzes Loch",  ro: "Gaura neagră"     } },
+      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🚀", label: { en: "Units Quiz",     hu: "Mértékegység kvíz", de: "Einheitenquiz",   ro: "Quiz unități"  } },
+      { id: "m2", category: "build",     gameType: "equation-drill", icon: "🧮", label: { en: "Equation Drill", hu: "Egyenlet drill",  de: "Gleichungs-Drill", ro: "Ecuații"      } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Gyors kör",       de: "Speedrunde",       ro: "Rundă rapidă"  } },
     ],
     svgX: 230, svgY: 55,
   },
   {
     id: "i8",
     name: { en: "Angles & Symmetry", hu: "Szögek & Szimmetria", de: "Winkel & Symmetrie", ro: "Unghiuri & Simetrie" },
-    icon: "📏", color: "#10B981", sortRange: [30, 180],
+    icon: "📐", color: "#10B981", sortRange: [30, 180],
     topicKeys: ["angles", "symmetry_en"],
     missions: [
-      { id: "m1", gameType: "orbit-quiz", icon: "🚀", label: { en: "Angles Quiz",     hu: "Szög kvíz",       de: "Winkelquiz",      ro: "Quiz unghiuri"    } },
-      { id: "m2", gameType: "star-match", icon: "⭐", label: { en: "Star Match",      hu: "Csillagpárosítás", de: "Sternenpaare",   ro: "Perechi stele"    } },
-      { id: "m3", gameType: "black-hole", icon: "🕳️", label: { en: "Black Hole",      hu: "Fekete lyuk",     de: "Schwarzes Loch",  ro: "Gaura neagră"     } },
+      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🚀", label: { en: "Angles Quiz",    hu: "Szög kvíz",       de: "Winkelquiz",       ro: "Quiz unghiuri" } },
+      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillagpárosítás", de: "Sternenpaare",    ro: "Perechi stele" } },
+      { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",     hu: "Fekete lyuk",     de: "Schwarzes Loch",   ro: "Gaura neagră"  } },
     ],
     svgX: 80, svgY: -20,
   },
@@ -137,9 +137,9 @@ export const G4_ISLANDS: IslandDef[] = [
     icon: "🏆", color: "#E879F9", sortRange: [10, 500],
     topicKeys: ["geo", "word", "frac"],
     missions: [
-      { id: "m1", gameType: "orbit-quiz", icon: "🚀", label: { en: "Final Quiz",      hu: "Záró kvíz",       de: "Finalquiz",       ro: "Quiz final"       } },
-      { id: "m2", gameType: "black-hole", icon: "🕳️", label: { en: "Black Hole",      hu: "Fekete lyuk",     de: "Schwarzes Loch",  ro: "Gaura neagră"     } },
-      { id: "m3", gameType: "star-match", icon: "⭐", label: { en: "Star Match",      hu: "Csillagpárosítás", de: "Sternenpaare",   ro: "Perechi stele"    } },
+      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🚀", label: { en: "Final Quiz",     hu: "Záró kvíz",       de: "Finalquiz",        ro: "Quiz final"    } },
+      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillagpárosítás", de: "Sternenpaare",    ro: "Perechi stele" } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Gyors kör",       de: "Speedrunde",       ro: "Rundă rapidă"  } },
     ],
     svgX: 190, svgY: -90,
   },
