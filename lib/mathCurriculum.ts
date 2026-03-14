@@ -3712,6 +3712,31 @@ const G8: Record<string, Generator> = {
           default:   return q(`${n} ${diff} évvel idősebb a gyerekénél (${age} éves). Hány éves ${n}?`, parentAge, t("equations", cc), 0, true);
         }
       },
+      () => {
+        // Rectangle perimeter: length = width + d
+        const w = randInt(3, 10), d = randInt(2, 6);
+        const p = 2 * (w + (w + d));
+        const lang = getLang(cc);
+        switch(lang) {
+          case "DE": return q(`Ein Rechteck hat den Umfang ${p} cm. Die Länge ist ${d} cm länger als die Breite. Wie lang ist die Breite?`, w, t("equations", cc), 0, true);
+          case "EN": return q(`A rectangle has a perimeter of ${p} cm. The length is ${d} cm longer than the width. What is the width?`, w, t("equations", cc), 0, true);
+          case "RO": return q(`Un dreptunghi are perimetrul ${p} cm. Lungimea este cu ${d} cm mai mare decât lățimea. Cât este lățimea?`, w, t("equations", cc), 0, true);
+          default:   return q(`Egy téglalap kerülete ${p} cm. A hossza ${d} cm-rel több, mint a szélessége. Mekkora a szélessége?`, w, t("equations", cc), 0, true);
+        }
+      },
+      () => {
+        // Two numbers: sum and difference
+        const x = randInt(6, 15);
+        const d = randInt(2, Math.min(x - 1, 8));
+        const sum = x + (x - d);
+        const lang = getLang(cc);
+        switch(lang) {
+          case "DE": return q(`Zwei Zahlen haben die Summe ${sum} und die Differenz ${d}. Was ist die größere Zahl?`, x, t("equations", cc), 0, true);
+          case "EN": return q(`Two numbers have a sum of ${sum} and a difference of ${d}. What is the larger number?`, x, t("equations", cc), 0, true);
+          case "RO": return q(`Două numere au suma ${sum} și diferența ${d}. Care este numărul mai mare?`, x, t("equations", cc), 0, true);
+          default:   return q(`Két szám összege ${sum} és különbségük ${d}. Melyik a nagyobb szám?`, x, t("equations", cc), 0, true);
+        }
+      },
     ])();
   },
 
@@ -3725,7 +3750,9 @@ const G8: Record<string, Generator> = {
     // 2x + y = s1, x + y = s2  →  x = s1 - s2
     const x = randInt(2, 8), y = randInt(1, 10);
     const s1 = 2 * x + y, s2 = x + y;
-    return q(qSolveX(`2x + y = ${s1} és x + y = ${s2}. x = ?`, cc), x, t("systemEq", cc));
+    const lang = getLang(cc);
+    const and = lang === "DE" ? "und" : lang === "RO" ? "și" : lang === "HU" ? "és" : "and";
+    return q(qSolveX(`2x + y = ${s1} ${and} x + y = ${s2}. x = ?`, cc), x, t("systemEq", cc));
   },
   systemWord: (cc) => {
     const x = randInt(5, 15), diff = randInt(2, 8);
@@ -3735,30 +3762,22 @@ const G8: Record<string, Generator> = {
     return q(wpSystemWord(names.girls[0], names.boys[0], total, diff, cc), x, t("systemEq", cc), 0, true);
   },
   systemGraphical: (cc) => {
-    // Given two linear functions, find intersection x
-    const m1 = randInt(1, 3), b1 = randInt(0, 5);
-    const m2 = randInt(m1 + 1, m1 + 3), b2 = randInt(b1 + 1, b1 + 6);
-    // intersection: m1*x + b1 = m2*x + b2 → x = (b2-b1)/(m1-m2)
-    // use m1 < m2, b1 < b2 → x is negative, so let's flip
-    // Actually: m1*x+b1 = m2*x+b2 → (m1-m2)x = b2-b1 → x = (b2-b1)/(m1-m2) = negative
-    // Let's use: b1 > b2, so m2*x+b2 = m1*x+b1 → x = (b1-b2)/(m2-m1) positive
-    const b1a = randInt(6, 15), b2a = randInt(1, 5);
-    const m1a = randInt(1, 2), m2a = m1a + randInt(1, 2);
-    const xInt = (b1a - b2a) / (m2a - m1a);
-    if (!Number.isInteger(xInt) || xInt <= 0 || xInt > 10) {
-      // fallback to simple system
-      const xa = randInt(2, 7), ya = randInt(1, 5);
-      return q(qSystemEq(1, 1, xa + ya, 1, -1, xa - ya, cc), xa, t("systemEq", cc));
-    }
+    // Fixed cases where f(x)=m1*x+b1 and g(x)=m2*x+b2 intersect at a positive integer x
+    // Verified: m1*xInt + b1 == m2*xInt + b2 for each case
+    const cases: [number, number, number, number, number][] = [
+      [1, 8, 2, 2, 6], [1, 9, 3, 3, 3], [1, 10, 2, 4, 6], [2, 12, 3, 6, 6],
+      [1, 7, 2, 3, 4], [1, 6, 2, 2, 4], [2, 10, 3, 5, 5], [1, 12, 2, 6, 6],
+      [1, 15, 4, 3, 4], [1, 10, 3, 4, 3], [2, 11, 3, 5, 6], [1, 14, 3, 2, 6],
+      [1, 8, 4, 2, 2], [2, 9, 3, 4, 5], [1, 11, 2, 5, 6], [1, 13, 3, 1, 6],
+    ];
+    const [m1a, b1a, m2a, b2a, xInt] = pick(cases);
     const lang = getLang(cc);
-    let qStr: string;
     switch(lang) {
-      case "DE": qStr = `Wo schneiden sich f(x) = ${m1a}x + ${b1a} und g(x) = ${m2a}x + ${b2a}? x = ?`; break;
-      case "EN": qStr = `Where do f(x) = ${m1a}x + ${b1a} and g(x) = ${m2a}x + ${b2a} intersect? x = ?`; break;
-      case "RO": qStr = `Unde se intersectează f(x) = ${m1a}x + ${b1a} și g(x) = ${m2a}x + ${b2a}? x = ?`; break;
-      default:   qStr = `Hol metszi egymást az f(x) = ${m1a}x + ${b1a} és g(x) = ${m2a}x + ${b2a}? x = ?`; break;
+      case "DE": return q(`Wo schneiden sich f(x) = ${m1a}x + ${b1a} und g(x) = ${m2a}x + ${b2a}? x = ?`, xInt, t("systemEq", cc));
+      case "EN": return q(`Where do f(x) = ${m1a}x + ${b1a} and g(x) = ${m2a}x + ${b2a} intersect? x = ?`, xInt, t("systemEq", cc));
+      case "RO": return q(`Unde se intersectează f(x) = ${m1a}x + ${b1a} și g(x) = ${m2a}x + ${b2a}? x = ?`, xInt, t("systemEq", cc));
+      default:   return q(`Hol metszi egymást az f(x) = ${m1a}x + ${b1a} és g(x) = ${m2a}x + ${b2a}? x = ?`, xInt, t("systemEq", cc));
     }
-    return q(qStr, xInt, t("systemEq", cc));
   },
 
   // ── Linear Functions ──────────────────────────────────────────────────────
@@ -3771,8 +3790,10 @@ const G8: Record<string, Generator> = {
     return q(qFuncNegSlope(m, b, x, cc), m * x + b, t("functions", cc), -100);
   },
   funcIntercept: (cc) => {
-    const m = randInt(2, 4), b = randInt(1, 10);
-    return q(qYIntercept(m, b, cc), b, t("functions", cc));
+    const m = randInt(2, 5);
+    // Include negative b for more variety
+    const b = pick([-8, -6, -5, -4, -3, 2, 3, 4, 5, 6, 7, 8, 9, 10]);
+    return q(qYIntercept(m, b, cc), b, t("functions", cc), -100);
   },
   funcSlope: (cc) => {
     // Two points → slope
@@ -3783,8 +3804,8 @@ const G8: Record<string, Generator> = {
     return q(qFuncSlope(x1, y1, x2, y2, cc), m, t("functions", cc));
   },
   funcFindEq: (cc) => {
-    // Point + slope → y-intercept
-    const m = randInt(1, 3);
+    // Point + slope → y-intercept; use pick to reduce slope=1 frequency
+    const m = pick([1, 2, 2, 3, 3]);
     const x1 = randInt(1, 4), y1 = randInt(2, 10);
     const b = y1 - m * x1;
     if (b < 0 || b > 15) {
@@ -3797,6 +3818,7 @@ const G8: Record<string, Generator> = {
   funcWord: (cc) => {
     return pick([
       () => {
+        // Base fee + hourly rate
         const rate = randInt(2, 8), fixed = randInt(5, 20);
         const hours = randInt(3, 8);
         const lang = getLang(cc);
@@ -3809,8 +3831,28 @@ const G8: Record<string, Generator> = {
         }
       },
       () => {
-        const m = randInt(2, 5), b = randInt(3, 15), x = randInt(2, 6);
-        return q(qFunctionValue(m, b, x, cc), m * x + b, t("functions", cc), -100);
+        // Taxi: base fare + per km
+        const base = randInt(2, 5), rate = randInt(1, 3), km = randInt(5, 15);
+        const total = base + rate * km;
+        const lang = getLang(cc);
+        switch(lang) {
+          case "DE": return q(`Taxi: Startgebühr ${base}€, dann ${rate}€/km. Kosten für ${km} km?`, total, t("functions", cc), 0, true);
+          case "EN": return q(`Taxi: starting fare ${base}€, then ${rate}€/km. Cost for ${km} km?`, total, t("functions", cc), 0, true);
+          case "RO": return q(`Taxi: tarif de pornire ${base}€, apoi ${rate}€/km. Cost pentru ${km} km?`, total, t("functions", cc), 0, true);
+          default:   return q(`Taxi: indulási díj ${base}€, majd ${rate}€/km. Mennyi a díj ${km} km-re?`, total, t("functions", cc), 0, true);
+        }
+      },
+      () => {
+        // Monthly phone plan: fixed + per message
+        const monthly = randInt(5, 15), perMsg = randInt(1, 2), msgs = randInt(10, 30);
+        const total = monthly + perMsg * msgs;
+        const lang = getLang(cc);
+        switch(lang) {
+          case "DE": return q(`Handyvertrag: ${monthly}€/Monat + ${perMsg}€ pro SMS. Kosten für ${msgs} SMS?`, total, t("functions", cc), 0, true);
+          case "EN": return q(`Phone plan: ${monthly}€/month + ${perMsg}€ per text. Cost for ${msgs} texts?`, total, t("functions", cc), 0, true);
+          case "RO": return q(`Abonament: ${monthly}€/lună + ${perMsg}€/SMS. Cost pentru ${msgs} SMS-uri?`, total, t("functions", cc), 0, true);
+          default:   return q(`Telefoncsomag: ${monthly}€/hó + ${perMsg}€/SMS. Mennyi a díj ${msgs} SMS-ért?`, total, t("functions", cc), 0, true);
+        }
       },
     ])();
   },
@@ -3834,7 +3876,22 @@ const G8: Record<string, Generator> = {
     }
   },
   probCoin: (cc) => {
-    return q(Math.random() < 0.5 ? qCoinProb(cc) : qCoinProbTails(cc), 50, t("probability", cc));
+    const lang = getLang(cc);
+    return pick([
+      () => q(qCoinProb(cc), 50, t("probability", cc)),
+      () => q(qCoinProbTails(cc), 50, t("probability", cc)),
+      () => {
+        // P(2 heads in a row) = 1/4 = 25%
+        let qStr: string;
+        switch(lang) {
+          case "DE": qStr = "Eine Münze wird zweimal geworfen. Wie groß ist die Wahrscheinlichkeit, zweimal Kopf zu erhalten (in %)?"; break;
+          case "EN": qStr = "A coin is flipped twice. What is the probability of getting heads both times (in %)?"; break;
+          case "RO": qStr = "O monedă este aruncată de două ori. Cât este probabilitatea de a obține cap de ambele ori (în %)?"; break;
+          default:   qStr = "Egy érmét kétszer feldobunk. Mekkora valószínűséggel kapunk kétszer fejet (%-ban)?"; break;
+        }
+        return q(qStr, 25, t("probability", cc));
+      },
+    ])();
   },
   probComplementary: (cc) => {
     const p = pick([10, 20, 25, 30, 40, 60, 70, 75, 80]);
@@ -3877,9 +3934,9 @@ const G8: Record<string, Generator> = {
     const base = Array.from({length: 5}, () => randInt(2, 18));
     const last = sum - base.reduce((a, b) => a + b, 0);
     if (last < 1 || last > 25) {
-      // fallback
-      const s = [4, 6, 8, 10, 12, 14];
-      return q(qStatsMean8(s, cc), 9, t("statistics", cc));
+      // fallback — non-arithmetic sequence, mean = 10
+      const s = [3, 7, 9, 11, 14, 16];
+      return q(qStatsMean8(s, cc), 10, t("statistics", cc));
     }
     const data = [...base, last].sort((a, b) => a - b);
     return q(qStatsMean8(data, cc), mean, t("statistics", cc));
@@ -3889,9 +3946,15 @@ const G8: Record<string, Generator> = {
     return q(qMedianOf(nums, cc), nums[3], t("statistics", cc));
   },
   statsMode8: (cc) => {
-    const base = Array.from({length: 5}, () => randInt(1, 15));
-    const mode = pick(base);
-    const nums = [...base, mode, mode].sort((a, b) => a - b);
+    // Ensure all non-mode values are unique to avoid bimodal data
+    const mode = randInt(2, 12);
+    const others: number[] = [];
+    while (others.length < 5) {
+      const n = randInt(1, 15);
+      if (n !== mode && !others.includes(n)) others.push(n);
+    }
+    // mode appears 3 times, others appear once each
+    const nums = [mode, mode, mode, ...others].sort((a, b) => a - b) as number[];
     return q(qMode(nums, cc), mode, t("statistics", cc));
   },
   statsRange8: (cc) => {
@@ -4031,11 +4094,19 @@ const G8: Record<string, Generator> = {
     return q(wpSpeedSystem(d, d, v1, v2, cc), t2, t("wordProblem", cc), 0, true);
   },
   wordSystem2: (cc) => {
+    // Different template from systemWord (cards, not points) to avoid dedup
     const x = randInt(5, 18), diff = randInt(2, 6);
     const y = x - diff;
     const total = x + y;
+    const lang = getLang(cc);
     const names = getNames(cc);
-    return q(wpSystemWord(names.girls[0], names.boys[0], total, diff, cc), x, t("wordProblem", cc), 0, true);
+    const n1 = names.girls[1] ?? names.girls[0], n2 = names.boys[1] ?? names.boys[0];
+    switch(lang) {
+      case "DE": return q(`${n1} und ${n2} haben zusammen ${total} Karten. ${n1} hat ${diff} Karten mehr als ${n2}. Wie viele hat ${n1}?`, x, t("wordProblem", cc), 0, true);
+      case "EN": return q(`${n1} and ${n2} have ${total} cards in total. ${n1} has ${diff} more cards than ${n2}. How many does ${n1} have?`, x, t("wordProblem", cc), 0, true);
+      case "RO": return q(`${n1} și ${n2} au împreună ${total} cărți. ${n1} are cu ${diff} cărți mai mult. Câte are ${n1}?`, x, t("wordProblem", cc), 0, true);
+      default:   return q(`${n1}-nek és ${n2}-nek összesen ${total} kártyája van. ${n1}-nek ${diff}-vel több van. Hány kártyája van ${n1}-nek?`, x, t("wordProblem", cc), 0, true);
+    }
   },
 };
 
@@ -4742,7 +4813,7 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g8_quad_shifted',  name: 'Solve  (x+a)² = b',                           color: '#7C3AED', icon: '(x+a)²', generators: [G8.quadShifted] },
       { key: 'g8_quad_eval',     name: 'Evaluate  ax² + b  (substitute x)',           color: '#6D28D9', icon: 'f(x)', generators: [G8.quadEval] },
       { key: 'g8_quad_diff',     name: 'Difference of Squares  a² − b²',             color: '#5B21B6', icon: '²−²', generators: [G8.quadDiff] },
-      { key: 'g8_quad_visual',   name: 'Quadratic – Visual  📐',                     color: '#A78BFA', icon: '📐', generators: [G8.quadSimple, G8.quadEval] },
+      { key: 'g8_quad_visual',   name: 'Quadratic – Visual  📐',                     color: '#A78BFA', icon: '📐', generators: [G8.quadShifted, G8.quadDiff] },
     ]},
     { key: 'g8_eq', name: 'Equations', color: '#EC4899', icon: '=', topics: [
       { key: 'g8_eq_simple',    name: '2-Step Equations  (ax − b = c)',               color: '#F9A8D4', icon: '=',  generators: [G8.eqSimple] },
@@ -4775,7 +4846,7 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g8_prob_two',     name: 'Independent Events  P(A and B)',               color: '#F59E0B', icon: '∩',  generators: [G8.probTwoEvents] },
       { key: 'g8_prob_atleast', name: 'At Least One  P(A or B)',                      color: '#D97706', icon: '∪',  generators: [G8.probAtLeastOne] },
       { key: 'g8_prob_freq',    name: 'Relative Frequency from Experiments',          color: '#B45309', icon: '📊', generators: [G8.probFreq] },
-      { key: 'g8_prob_visual',  name: 'Probability Tree – Visual  🌳',               color: '#FEF3C7', icon: '🌳', generators: [G8.probBall, G8.probTwoEvents] },
+      { key: 'g8_prob_visual',  name: 'Probability Tree – Visual  🌳',               color: '#FEF3C7', icon: '🌳', generators: [G8.probComplementary, G8.probAtLeastOne] },
     ]},
     { key: 'g8_stats', name: 'Statistics', color: '#06B6D4', icon: '📊', topics: [
       { key: 'g8_stat_mean',    name: 'Mean (Arithmetic Average)',                    color: '#67E8F9', icon: '📊', generators: [G8.statsMean8] },
@@ -4797,7 +4868,7 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g8_geo_cyl',      name: 'Volume of Cylinder  πr²h',                    color: '#FCA5A5', icon: '🥫', generators: [G8.volumeCylinder] },
       { key: 'g8_geo_surf_cyl', name: 'Lateral Surface Area  2πrh',                  color: '#F87171', icon: '🔵', generators: [G8.surfaceCylinder] },
       { key: 'g8_geo_surf_box', name: 'Surface Area of a Cuboid  2(ab+bc+ac)',       color: '#EF4444', icon: '📦', generators: [G8.surfaceBox8] },
-      { key: 'g8_geo_cyl_visual','name': 'Cylinder Surface – Visual  🥫',            color: '#FEE2E2', icon: '🥫', generators: [G8.volumeCylinder, G8.surfaceCylinder] },
+      { key: 'g8_geo_cyl_visual','name': 'Cylinder Surface – Visual  🥫',            color: '#FEE2E2', icon: '🥫', generators: [G8.surfaceCylinder, G8.surfaceBox8] },
     ]},
     { key: 'g8_word', name: 'Word Problems', color: '#84CC16', icon: '📖', topics: [
       { key: 'g8_word_eq',      name: 'Word Problems · Equations',                   color: '#BEF264', icon: '=',  generators: [G8.eqWord8] },
@@ -5373,7 +5444,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g8_quad_shifted',  name: 'Löse  (x+a)² = b',                           color: '#7C3AED', icon: '(x+a)²', generators: [G8.quadShifted] },
       { key: 'g8_quad_eval',     name: 'Auswerten  ax² + b  (x einsetzen)',           color: '#6D28D9', icon: 'f(x)', generators: [G8.quadEval] },
       { key: 'g8_quad_diff',     name: 'Differenz zweier Quadrate  a² − b²',         color: '#5B21B6', icon: '²−²', generators: [G8.quadDiff] },
-      { key: 'g8_quad_visual',   name: 'Quadratische Gleichung – Visuell  📐',      color: '#A78BFA', icon: '📐', generators: [G8.quadSimple, G8.quadEval] },
+      { key: 'g8_quad_visual',   name: 'Quadratische Gleichung – Visuell  📐',      color: '#A78BFA', icon: '📐', generators: [G8.quadShifted, G8.quadDiff] },
     ]},
     { key: 'g8_eq', name: 'Gleichungen', color: '#EC4899', icon: '=', topics: [
       { key: 'g8_eq_simple',    name: 'Zweischrittige Gleichungen  (ax − b = c)',     color: '#F9A8D4', icon: '=',  generators: [G8.eqSimple] },
@@ -5388,7 +5459,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g8_sys_add',      name: 'Additions-/Subtraktionsmethode  (x+y, x−y)', color: '#38BDF8', icon: '⊕',  generators: [G8.systemEq] },
       { key: 'g8_sys_coeffs',   name: 'Systeme mit Koeffizienten  (2x+y=n)',         color: '#0EA5E9', icon: '×',  generators: [G8.systemEqB] },
       { key: 'g8_sys_graph',    name: 'Grafischer Schnittpunkt  f(x) = g(x)',        color: '#0284C7', icon: '📈', generators: [G8.systemGraphical] },
-      { key: 'g8_sys_word',     name: 'Gleichungssystem-Sachaufgaben',               color: '#0369A1', icon: '📖', generators: [G8.systemWord] },
+      { key: 'g8_sys_word',     name: 'Gleichungssystem-Sachaufgaben',               color: '#0369A1', icon: '📖', generators: [G8.systemWord, G8.wordSystem2] },
       { key: 'g8_sys_visual',   name: 'Gleichungssystem – Waage Visuell  ⚖️',       color: '#BAE6FD', icon: '⚖️', generators: [G8.systemEq, G8.systemEqB] },
     ]},
     { key: 'g8_func', name: 'Lineare Funktionen', color: '#10B981', icon: 'f(x)', topics: [
@@ -5406,7 +5477,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g8_prob_two',     name: 'Unabhängige Ereignisse  P(A und B)',           color: '#F59E0B', icon: '∩',  generators: [G8.probTwoEvents] },
       { key: 'g8_prob_atleast', name: 'Mindestens eines  P(A oder B)',                color: '#D97706', icon: '∪',  generators: [G8.probAtLeastOne] },
       { key: 'g8_prob_freq',    name: 'Relative Häufigkeit aus Versuchen',            color: '#B45309', icon: '📊', generators: [G8.probFreq] },
-      { key: 'g8_prob_visual',  name: 'Baumdiagramm – Visuell  🌳',                  color: '#FEF3C7', icon: '🌳', generators: [G8.probBall, G8.probTwoEvents] },
+      { key: 'g8_prob_visual',  name: 'Baumdiagramm – Visuell  🌳',                  color: '#FEF3C7', icon: '🌳', generators: [G8.probComplementary, G8.probAtLeastOne] },
     ]},
     { key: 'g8_stats', name: 'Statistik', color: '#06B6D4', icon: '📊', topics: [
       { key: 'g8_stat_mean',    name: 'Arithmetisches Mittel (Mittelwert)',            color: '#67E8F9', icon: '📊', generators: [G8.statsMean8] },
@@ -5428,7 +5499,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g8_geo_cyl',      name: 'Volumen Zylinder  πr²h',                      color: '#FCA5A5', icon: '🥫', generators: [G8.volumeCylinder] },
       { key: 'g8_geo_surf_cyl', name: 'Mantelfläche Zylinder  2πrh',                 color: '#F87171', icon: '🔵', generators: [G8.surfaceCylinder] },
       { key: 'g8_geo_surf_box', name: 'Oberfläche Quader  2(ab+bc+ac)',              color: '#EF4444', icon: '📦', generators: [G8.surfaceBox8] },
-      { key: 'g8_geo_cyl_visual','name': 'Zylinder Oberfläche – Visuell  🥫',        color: '#FEE2E2', icon: '🥫', generators: [G8.volumeCylinder, G8.surfaceCylinder] },
+      { key: 'g8_geo_cyl_visual','name': 'Zylinder Oberfläche – Visuell  🥫',        color: '#FEE2E2', icon: '🥫', generators: [G8.surfaceCylinder, G8.surfaceBox8] },
     ]},
     { key: 'g8_complex', name: 'Gemischte Terme', color: '#7C3AED', icon: 'x²√', topics: [
       { key: 'g8_cplx_pow',     name: 'Potenzen + Wurzeln  (a² + √n)',               color: '#8B5CF6', icon: '²√', generators: [G8.complexPow, G8.complexMixed] },
@@ -5941,7 +6012,7 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g8_quad_shifted',  name: 'Oldd meg: (x+a)² = b',                      color: '#7C3AED', icon: '(x+a)²', generators: [G8.quadShifted] },
       { key: 'g8_quad_eval',     name: 'Kiértékelés  ax² + b  (x behelyettesítése)', color: '#6D28D9', icon: 'f(x)', generators: [G8.quadEval] },
       { key: 'g8_quad_diff',     name: 'Négyzetszámok különbsége  a² − b²',         color: '#5B21B6', icon: '²−²', generators: [G8.quadDiff] },
-      { key: 'g8_quad_visual',   name: 'Másodfokú egyenlet – Vizuális  📐',         color: '#A78BFA', icon: '📐', generators: [G8.quadSimple, G8.quadEval] },
+      { key: 'g8_quad_visual',   name: 'Másodfokú egyenlet – Vizuális  📐',         color: '#A78BFA', icon: '📐', generators: [G8.quadShifted, G8.quadDiff] },
     ]},
     { key: 'g8_eq', name: 'Egyenletek', color: '#EC4899', icon: '=', topics: [
       { key: 'g8_eq_simple',    name: '2-lépéses egyenletek  (ax − b = c)',           color: '#F9A8D4', icon: '=',  generators: [G8.eqSimple] },
@@ -5956,7 +6027,7 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g8_sys_add',      name: 'Összeadásos módszer  (x+y=n, x−y=m)',         color: '#38BDF8', icon: '⊕',  generators: [G8.systemEq] },
       { key: 'g8_sys_coeffs',   name: 'Együtthatós rendszerek  (2x+y=n)',             color: '#0EA5E9', icon: '×',  generators: [G8.systemEqB] },
       { key: 'g8_sys_graph',    name: 'Grafikus metszéspontja  f(x) = g(x)',         color: '#0284C7', icon: '📈', generators: [G8.systemGraphical] },
-      { key: 'g8_sys_word',     name: 'Szöveges egyenletrendszer-feladatok',         color: '#0369A1', icon: '📖', generators: [G8.systemWord] },
+      { key: 'g8_sys_word',     name: 'Szöveges egyenletrendszer-feladatok',         color: '#0369A1', icon: '📖', generators: [G8.systemWord, G8.wordSystem2] },
       { key: 'g8_sys_visual',   name: 'Egyenletrendszer – Mérleg Vizuális  ⚖️',     color: '#BAE6FD', icon: '⚖️', generators: [G8.systemEq, G8.systemEqB] },
     ]},
     { key: 'g8_func', name: 'Lineáris függvények', color: '#10B981', icon: 'f(x)', topics: [
@@ -5974,7 +6045,7 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g8_prob_two',     name: 'Független események  P(A és B)',               color: '#F59E0B', icon: '∩',  generators: [G8.probTwoEvents] },
       { key: 'g8_prob_atleast', name: 'Legalább egy  P(A vagy B)',                    color: '#D97706', icon: '∪',  generators: [G8.probAtLeastOne] },
       { key: 'g8_prob_freq',    name: 'Relatív gyakoriság kísérletekből',             color: '#B45309', icon: '📊', generators: [G8.probFreq] },
-      { key: 'g8_prob_visual',  name: 'Valószínűségi fa – Vizuális  🌳',             color: '#FEF3C7', icon: '🌳', generators: [G8.probBall, G8.probTwoEvents] },
+      { key: 'g8_prob_visual',  name: 'Valószínűségi fa – Vizuális  🌳',             color: '#FEF3C7', icon: '🌳', generators: [G8.probComplementary, G8.probAtLeastOne] },
     ]},
     { key: 'g8_stats', name: 'Statisztika', color: '#06B6D4', icon: '📊', topics: [
       { key: 'g8_stat_mean',    name: 'Átlag (számtani közép)',                       color: '#67E8F9', icon: '📊', generators: [G8.statsMean8] },
@@ -5996,7 +6067,7 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g8_geo_cyl',      name: 'Henger térfogata  πr²h',                      color: '#FCA5A5', icon: '🥫', generators: [G8.volumeCylinder] },
       { key: 'g8_geo_surf_cyl', name: 'Henger palástja  2πrh',                       color: '#F87171', icon: '🔵', generators: [G8.surfaceCylinder] },
       { key: 'g8_geo_surf_box', name: 'Téglatest felszíne  2(ab+bc+ac)',             color: '#EF4444', icon: '📦', generators: [G8.surfaceBox8] },
-      { key: 'g8_geo_cyl_visual','name': 'Henger felszíne – Vizuális  🥫',           color: '#FEE2E2', icon: '🥫', generators: [G8.volumeCylinder, G8.surfaceCylinder] },
+      { key: 'g8_geo_cyl_visual','name': 'Henger felszíne – Vizuális  🥫',           color: '#FEE2E2', icon: '🥫', generators: [G8.surfaceCylinder, G8.surfaceBox8] },
     ]},
     { key: 'g8_complex', name: 'Vegyes kifejezések', color: '#7C3AED', icon: 'x²√', topics: [
       { key: 'g8_cplx_pow',     name: 'Hatványok + Gyökök  (a² + √n)',               color: '#8B5CF6', icon: '²√', generators: [G8.complexPow, G8.complexMixed] },
@@ -6505,7 +6576,7 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g8_quad_shifted',  name: 'Rezolvă  (x+a)² = b',                        color: '#7C3AED', icon: '(x+a)²', generators: [G8.quadShifted] },
       { key: 'g8_quad_eval',     name: 'Calculează  ax² + b  (înlocuiește x)',        color: '#6D28D9', icon: 'f(x)', generators: [G8.quadEval] },
       { key: 'g8_quad_diff',     name: 'Diferența pătratelor  a² − b²',              color: '#5B21B6', icon: '²−²', generators: [G8.quadDiff] },
-      { key: 'g8_quad_visual',   name: 'Ecuații patratice – Vizual  📐',             color: '#A78BFA', icon: '📐', generators: [G8.quadSimple, G8.quadEval] },
+      { key: 'g8_quad_visual',   name: 'Ecuații patratice – Vizual  📐',             color: '#A78BFA', icon: '📐', generators: [G8.quadShifted, G8.quadDiff] },
     ]},
     { key: 'g8_eq', name: 'Ecuații', color: '#EC4899', icon: '=', topics: [
       { key: 'g8_eq_simple',    name: 'Ecuații în 2 pași  (ax − b = c)',              color: '#F9A8D4', icon: '=',  generators: [G8.eqSimple] },
@@ -6520,7 +6591,7 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g8_sys_add',      name: 'Metoda adunării  (x+y=n, x−y=m)',             color: '#38BDF8', icon: '⊕',  generators: [G8.systemEq] },
       { key: 'g8_sys_coeffs',   name: 'Sisteme cu coeficienți  (2x+y=n)',            color: '#0EA5E9', icon: '×',  generators: [G8.systemEqB] },
       { key: 'g8_sys_graph',    name: 'Intersecție grafică  f(x) = g(x)',            color: '#0284C7', icon: '📈', generators: [G8.systemGraphical] },
-      { key: 'g8_sys_word',     name: 'Probleme cu sisteme de ecuații',              color: '#0369A1', icon: '📖', generators: [G8.systemWord] },
+      { key: 'g8_sys_word',     name: 'Probleme cu sisteme de ecuații',              color: '#0369A1', icon: '📖', generators: [G8.systemWord, G8.wordSystem2] },
       { key: 'g8_sys_visual',   name: 'Sistem – Vizual balanță  ⚖️',                color: '#BAE6FD', icon: '⚖️', generators: [G8.systemEq, G8.systemEqB] },
     ]},
     { key: 'g8_func', name: 'Funcții liniare', color: '#10B981', icon: 'f(x)', topics: [
@@ -6538,7 +6609,7 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g8_prob_two',     name: 'Evenimente independente  P(A și B)',           color: '#F59E0B', icon: '∩',  generators: [G8.probTwoEvents] },
       { key: 'g8_prob_atleast', name: 'Cel puțin unul  P(A sau B)',                   color: '#D97706', icon: '∪',  generators: [G8.probAtLeastOne] },
       { key: 'g8_prob_freq',    name: 'Frecvență relativă din experimente',           color: '#B45309', icon: '📊', generators: [G8.probFreq] },
-      { key: 'g8_prob_visual',  name: 'Diagramă arbore – Vizual  🌳',               color: '#FEF3C7', icon: '🌳', generators: [G8.probBall, G8.probTwoEvents] },
+      { key: 'g8_prob_visual',  name: 'Diagramă arbore – Vizual  🌳',               color: '#FEF3C7', icon: '🌳', generators: [G8.probComplementary, G8.probAtLeastOne] },
     ]},
     { key: 'g8_stats', name: 'Statistică', color: '#06B6D4', icon: '📊', topics: [
       { key: 'g8_stat_mean',    name: 'Media aritmetică',                             color: '#67E8F9', icon: '📊', generators: [G8.statsMean8] },
@@ -6560,7 +6631,7 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g8_geo_cyl',      name: 'Volumul cilindrului  πr²h',                   color: '#FCA5A5', icon: '🥫', generators: [G8.volumeCylinder] },
       { key: 'g8_geo_surf_cyl', name: 'Aria laterală cilindru  2πrh',                color: '#F87171', icon: '🔵', generators: [G8.surfaceCylinder] },
       { key: 'g8_geo_surf_box', name: 'Aria suprafeței cuboidului  2(ab+bc+ac)',     color: '#EF4444', icon: '📦', generators: [G8.surfaceBox8] },
-      { key: 'g8_geo_cyl_visual','name': 'Cilindru Suprafață – Vizual  🥫',          color: '#FEE2E2', icon: '🥫', generators: [G8.volumeCylinder, G8.surfaceCylinder] },
+      { key: 'g8_geo_cyl_visual','name': 'Cilindru Suprafață – Vizual  🥫',          color: '#FEE2E2', icon: '🥫', generators: [G8.surfaceCylinder, G8.surfaceBox8] },
     ]},
     { key: 'g8_complex', name: 'Expresii mixte', color: '#7C3AED', icon: 'x²√', topics: [
       { key: 'g8_cplx_pow',     name: 'Puteri + Radicali  (a² + √n)',                color: '#8B5CF6', icon: '²√', generators: [G8.complexPow, G8.complexMixed] },
