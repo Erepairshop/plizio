@@ -23,10 +23,19 @@ const LANG_TO_TTS: Record<string, string> = {
   hu: "hu-HU", de: "de-DE", en: "en-US", ro: "ro-RO",
 };
 
+function stripEmojis(text: string): string {
+  return text
+    .replace(/[\p{Emoji_Presentation}\p{Extended_Pictographic}]/gu, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
 function speak(text: string, lang: string) {
   if (typeof window === "undefined" || !window.speechSynthesis) return;
+  const clean = stripEmojis(text);
+  if (!clean) return;
   window.speechSynthesis.cancel();
-  const utt = new SpeechSynthesisUtterance(text);
+  const utt = new SpeechSynthesisUtterance(clean);
   utt.lang = LANG_TO_TTS[lang] ?? "en-US";
   utt.rate = 0.88;
   utt.pitch = 1.1;
