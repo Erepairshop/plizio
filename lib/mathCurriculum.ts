@@ -3216,6 +3216,224 @@ const G7: Record<string, Generator> = {
       () => { const a = randInt(2, 6); return q(qVolumeCube(a, cc), a * a * a, t("volume", cc)); },
     ])();
   },
+  powerExpr: (cc) => {
+    return pick([
+      () => { const a = randInt(2,7), b = randInt(2,5); return q(`${a}² + ${b}² = ?`, a*a + b*b, t("powers", cc)); },
+      () => { const a = randInt(2,5), b = randInt(2,4); return q(`${a}² + ${b}³ = ?`, a*a + b*b*b, t("powers", cc)); },
+      () => { const a = randInt(3,8), b = randInt(2,Math.min(a-1,6)); return q(`${a}² − ${b}² = ?`, a*a - b*b, t("powers", cc)); },
+    ])();
+  },
+  powerNeg: (cc) => {
+    const b = randInt(2,5);
+    return q(`(−${b})² = ?`, b*b, t("powers", cc));
+  },
+  algebraExpand: (cc) => {
+    const a = randInt(2,5), b = randInt(1,6), c = randInt(1,6);
+    const lang = getLang(cc);
+    let qStr: string;
+    switch(lang) {
+      case "DE": qStr = `Klammer auflösen: ${a}(${b} + ${c}) = ?`; break;
+      case "RO": qStr = `Aplică proprietatea: ${a}(${b} + ${c}) = ?`; break;
+      case "EN": qStr = `Expand: ${a}(${b} + ${c}) = ?`; break;
+      default:   qStr = `Szorozzál be: ${a}(${b} + ${c}) = ?`; break;
+    }
+    return q(qStr, a * (b + c), t("algebra", cc));
+  },
+  algebraEval: (cc) => {
+    const x = randInt(1,5), a = randInt(2,4), b = randInt(1,8);
+    return q(qIfAEquals("x", x, `${a}x + ${b}`, cc), a*x + b, t("algebra", cc));
+  },
+  equationFrac: (cc) => {
+    const a = pick([2,3,4,5]), b = randInt(1,6), ans = randInt(2,8);
+    const x = ans * a;
+    const rhsVal = ans + b;
+    const lang = getLang(cc);
+    let qStr: string;
+    switch(lang) {
+      case "DE": qStr = `x/${a} + ${b} = ${rhsVal}. Wie groß ist x?`; break;
+      case "RO": qStr = `x/${a} + ${b} = ${rhsVal}. Cât este x?`; break;
+      case "EN": qStr = `x/${a} + ${b} = ${rhsVal}. What is x?`; break;
+      default:   qStr = `x/${a} + ${b} = ${rhsVal}. Mennyi x?`; break;
+    }
+    return q(qStr, x, t("equations", cc));
+  },
+  equationTwoSide: (cc) => {
+    const c = randInt(1,2), a = c + randInt(1,2), b = randInt(1,10), x = randInt(2,7);
+    const d = (a-c)*x + b;
+    return q(qSolveX(`${a}x + ${b} = ${c}x + ${d}.`, cc), x, t("equations", cc));
+  },
+  equationWord: (cc) => {
+    return pick([
+      () => {
+        const weekly = randInt(3,8), fixed = randInt(10,30);
+        const weeks = randInt(4,10);
+        const total = weekly * weeks + fixed;
+        const lang = getLang(cc);
+        let qStr: string;
+        switch(lang) {
+          case "DE": qStr = `Ein Mitglied zahlt ${fixed}€ Aufnahmegebühr und dann ${weekly}€ pro Woche. Wieviele Wochen ist er Mitglied, wenn er ${total}€ gesamt zahlt?`; break;
+          case "RO": qStr = `O persoană plătește ${fixed}€ taxă de înscriere și ${weekly}€ pe săptămână. Câte săptămâni este membră dacă plătește total ${total}€?`; break;
+          case "EN": qStr = `A club charges a ${fixed}€ joining fee plus ${weekly}€ per week. For how many weeks is someone a member if they pay ${total}€ in total?`; break;
+          default:   qStr = `Egy klub ${fixed}€ belépési díjat és heti ${weekly}€-t kér. Hány hétig tag valaki, ha összesen ${total}€-t fizet?`; break;
+        }
+        return q(qStr, weeks, t("equations", cc), 0, true);
+      },
+      () => {
+        const x = randInt(4,10), times = randInt(2,4), extra = randInt(2,8);
+        const total = times * x + extra;
+        const lang = getLang(cc);
+        let qStr: string;
+        switch(lang) {
+          case "DE": qStr = `Das ${times}-fache einer Zahl plus ${extra} ist ${total}. Welche Zahl ist es?`; break;
+          case "RO": qStr = `De ${times} ori un număr plus ${extra} este ${total}. Care este numărul?`; break;
+          case "EN": qStr = `${times} times a number plus ${extra} equals ${total}. What is the number?`; break;
+          default:   qStr = `Egy szám ${times}-szorosa plusz ${extra} egyenlő ${total}. Mi a szám?`; break;
+        }
+        return q(qStr, x, t("equations", cc), 0, true);
+      },
+    ])();
+  },
+  inequalityWord: (cc) => {
+    const price = randInt(3,8), budget = randInt(20,40);
+    const maxItems = Math.floor(budget / price);
+    const lang = getLang(cc);
+    let qStr: string;
+    switch(lang) {
+      case "DE": qStr = `Ein Heft kostet ${price}€. Du hast ${budget}€. Wie viele Hefte kannst du höchstens kaufen?`; break;
+      case "RO": qStr = `Un caiet costă ${price}€. Ai ${budget}€. Câte caiete poți cumpăra cel mult?`; break;
+      case "EN": qStr = `A notebook costs ${price}€. You have ${budget}€. What is the maximum number of notebooks you can buy?`; break;
+      default:   qStr = `Egy füzet ${price}€. Neked van ${budget}€. Legfeljebb hány füzetet vehetsz?`; break;
+    }
+    return q(qStr, maxItems, t("inequality", cc), 0, true);
+  },
+  extAngle: (cc) => {
+    const a = randInt(30,70), b = randInt(30,70);
+    const ext = a + b;
+    const lang = getLang(cc);
+    let qStr: string;
+    switch(lang) {
+      case "DE": qStr = `Ein Außenwinkel eines Dreiecks ist ${ext}°. Ein nicht anliegender Innenwinkel ist ${a}°. Wie groß ist der andere?`; break;
+      case "RO": qStr = `Un unghi exterior al unui triunghi este ${ext}°. Un unghi interior opus este ${a}°. Cât este celălalt?`; break;
+      case "EN": qStr = `An exterior angle of a triangle is ${ext}°. One non-adjacent interior angle is ${a}°. What is the other?`; break;
+      default:   qStr = `Egy háromszög külső szöge ${ext}°. Az egyik nem szomszédos belső szög ${a}°. Mekkora a másik?`; break;
+    }
+    return q(qStr, b, t("triangles", cc));
+  },
+  triangleWord: (cc) => {
+    return pick([
+      () => {
+        const side = randInt(6,15), base = randInt(4,side*2-2);
+        const perim = 2*side + base;
+        const lang = getLang(cc);
+        let qStr: string;
+        switch(lang) {
+          case "DE": qStr = `Ein gleichschenkliges Dreieck hat gleiche Seiten von je ${side} cm und eine Grundseite von ${base} cm. Wie groß ist der Umfang?`; break;
+          case "RO": qStr = `Un triunghi isoscel are laturile egale de ${side} cm și baza de ${base} cm. Cât este perimetrul?`; break;
+          case "EN": qStr = `An isosceles triangle has equal sides of ${side} cm and a base of ${base} cm. What is the perimeter?`; break;
+          default:   qStr = `Egy egyenlő szárú háromszög szárai ${side} cm, alapja ${base} cm. Mekkora a kerülete?`; break;
+        }
+        return q(qStr, perim, t("triangles", cc), 0, true);
+      },
+      () => {
+        const a = randInt(30,70), b = randInt(30,140-a);
+        return q(qTriangleThirdAngle(a, b, cc), 180-a-b, t("triangles", cc));
+      },
+    ])();
+  },
+  pythagWord: (cc) => {
+    return pick([
+      () => {
+        const pairs: [number,number,number][] = [[6,8,10],[5,12,13],[8,15,17],[9,12,15]];
+        const [dist, h, ladder] = pick(pairs);
+        const lang = getLang(cc);
+        let qStr: string;
+        switch(lang) {
+          case "DE": qStr = `Eine ${ladder} m lange Leiter lehnt an einer Wand. Der Fuß ist ${dist} m von der Wand entfernt. Wie hoch reicht die Leiter?`; break;
+          case "RO": qStr = `O scară de ${ladder} m este sprijinită de un zid. Piciorul scării este la ${dist} m de zid. La ce înălțime ajunge?`; break;
+          case "EN": qStr = `A ${ladder} m ladder leans against a wall. The foot is ${dist} m from the wall. How high does it reach?`; break;
+          default:   qStr = `Egy ${ladder} m hosszú létra fölnek van támasztva. Talpa ${dist} m-re van a faltól. Milyen magasra ér?`; break;
+        }
+        return q(qStr, h, t("pythagoras", cc), 0, true);
+      },
+      () => {
+        const rects: [number,number,number][] = [[3,4,5],[5,12,13],[6,8,10],[8,15,17]];
+        const [a,b,c] = pick(rects);
+        const lang = getLang(cc);
+        let qStr: string;
+        switch(lang) {
+          case "DE": qStr = `Ein Rechteck ist ${a} m × ${b} m. Wie lang ist die Diagonale?`; break;
+          case "RO": qStr = `Un dreptunghi este ${a} m × ${b} m. Cât este diagonala?`; break;
+          case "EN": qStr = `A rectangle is ${a} m × ${b} m. How long is the diagonal?`; break;
+          default:   qStr = `Egy téglalap ${a} m × ${b} m. Mekkora az átlója?`; break;
+        }
+        return q(qStr, c, t("pythagoras", cc), 0, true);
+      },
+    ])();
+  },
+  circleG7: (cc) => {
+    return pick([
+      () => { const r = randInt(2,8); return q(qCircleCircumference(r, cc), Math.round(2 * Math.PI * r * 100)/100, t("circles", cc)); },
+      () => { const r = randInt(2,6); return q(qCircleArea(r, cc), Math.round(Math.PI * r * r * 100)/100, t("circles", cc)); },
+    ])();
+  },
+  cylinderVol: (cc) => {
+    const r = randInt(2,5), h = randInt(3,8);
+    return q(qVolumeCylinder(r, h, cc), Math.round(Math.PI * r * r * h * 10)/10, t("volume", cc));
+  },
+  surfaceBox7: (cc) => {
+    const a = randInt(2,7), b = randInt(2,7), c = randInt(2,7);
+    return q(qSurfaceBox(a, b, c, cc), 2*(a*b + b*c + a*c), t("geometry", cc));
+  },
+  statsMedian7: (cc) => {
+    const nums = Array.from({length: 5}, () => randInt(1,20)).sort((x,y)=>x-y) as number[];
+    return q(qMedianOf(nums, cc), nums[2], t("statistics", cc));
+  },
+  statsMode7: (cc) => {
+    const base = Array.from({length: 4}, () => randInt(1,10)) as number[];
+    const mode = pick(base);
+    const nums = [...base, mode].sort((x,y)=>x-y) as number[];
+    return q(qMode(nums, cc), mode, t("statistics", cc));
+  },
+  statsRange7: (cc) => {
+    const nums = Array.from({length: 5}, () => randInt(1,30)).sort((x,y)=>x-y) as number[];
+    return q(qRange(nums, cc), nums[4] - nums[0], t("statistics", cc));
+  },
+  wordTravel7: (cc) => {
+    return pick([
+      () => {
+        const speed = randInt(40,100), time = randInt(2,5);
+        const unit = getLang(cc) === "EN" ? "miles" : "km";
+        return q(qSpeedDistance(speed, time, unit, cc), speed*time, t("wordProblem", cc), 0, true);
+      },
+      () => {
+        const pairs: [number,number,number][] = [[80,40,2],[100,50,2],[120,60,2],[150,75,2],[200,100,2],[120,40,3],[180,60,3]];
+        const [dist, speed, h] = pick(pairs);
+        const lang = getLang(cc);
+        let qStr: string;
+        switch(lang) {
+          case "DE": qStr = `Ein Auto fährt ${dist} km mit ${speed} km/h. Wie viele Stunden braucht es?`; break;
+          case "RO": qStr = `O mașină parcurge ${dist} km cu ${speed} km/h. Câte ore durează?`; break;
+          case "EN": qStr = `A car travels ${dist} km at ${speed} km/h. How many hours does it take?`; break;
+          default:   qStr = `Egy autó ${dist} km-t tesz meg ${speed} km/h sebességgel. Hány óra alatt?`; break;
+        }
+        return q(qStr, h, t("wordProblem", cc), 0, true);
+      },
+    ])();
+  },
+  wordRatio7: (cc) => {
+    const a = randInt(1,5), b = randInt(1,5);
+    const total = randInt(3,8) * (a+b);
+    const partA = total * a / (a+b);
+    const lang = getLang(cc);
+    let qStr: string;
+    switch(lang) {
+      case "DE": qStr = `${total}€ werden im Verhältnis ${a}:${b} aufgeteilt. Wie viel erhält der erste Teil?`; break;
+      case "RO": qStr = `${total}€ se împarte în raportul ${a}:${b}. Cât primește prima parte?`; break;
+      case "EN": qStr = `${total}€ is split in the ratio ${a}:${b}. How much does the first part get?`; break;
+      default:   qStr = `${total}€-t ${a}:${b} arányban osztanak el. Mennyi jut az első részre?`; break;
+    }
+    return q(qStr, partA, t("wordProblem", cc), 0, true);
+  },
 };
 
 // ─── GRADE 8 GENERATORS ─────────────────────────────
@@ -3928,19 +4146,70 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
     ]},
   ],
   7: [
-    { key: 'g7_algebra', name: 'Algebra', color: '#6366F1', icon: 'x', topics: [
-      { key: 'powers', name: 'Powers & Exponents', color: '#818CF8', icon: '²', generators: [G7.power2, G7.power3, G7.power10] },
-      { key: 'algebra', name: 'Algebraic Expressions', color: '#6366F1', icon: 'x', generators: [G7.algebraSub, G7.algebraSimp, G7.algebraMul] },
+    { key: 'g7_powers', name: 'Powers & Exponents', color: '#6366F1', icon: '²', topics: [
+      { key: 'g7_pow_sq',   name: 'Squaring Integers  (n²)',                       color: '#818CF8', icon: '²',  generators: [G7.power2] },
+      { key: 'g7_pow_cube', name: 'Cubing Integers  (n³)',                          color: '#6366F1', icon: '³',  generators: [G7.power3] },
+      { key: 'g7_pow_ten',  name: 'Powers of 10  (10², 10³, 10⁴)',                  color: '#4F46E5', icon: '🔟', generators: [G7.power10] },
+      { key: 'g7_pow_expr', name: 'Expressions with Powers  (a² + b³)',             color: '#4338CA', icon: '✖️', generators: [G7.powerExpr] },
+      { key: 'g7_pow_neg',  name: 'Negative Bases  ((−n)²)',                        color: '#3730A3', icon: '−²', generators: [G7.powerNeg, G7.power2] },
+      { key: 'g7_powers_visual', name: 'Powers Grid – Visual  🟪',                  color: '#6366F1', icon: '🟪', generators: [G7.power2, G7.power3] },
     ]},
-    { key: 'g7_eq', name: 'Equations', color: '#8B5CF6', icon: '=', topics: [
-      { key: 'eq', name: 'Solving Equations', color: '#A78BFA', icon: '=', generators: [G7.equation, G7.equationB] },
+    { key: 'g7_alg', name: 'Algebraic Expressions', color: '#8B5CF6', icon: 'x', topics: [
+      { key: 'g7_alg_eval',    name: 'Evaluating Expressions  (3x + 5, x = 2)',    color: '#A78BFA', icon: 'x',  generators: [G7.algebraEval, G7.algebraSub] },
+      { key: 'g7_alg_collect', name: 'Collecting Like Terms  (4x + 2x = ?x)',      color: '#8B5CF6', icon: '🔗', generators: [G7.algebraSimp] },
+      { key: 'g7_alg_expand',  name: 'Expanding Brackets  a(b + c)',               color: '#7C3AED', icon: '()', generators: [G7.algebraExpand] },
+      { key: 'g7_alg_mul',     name: 'Multiplying Terms  (ax)(bx) = ?x²',          color: '#6D28D9', icon: '✖️', generators: [G7.algebraMul] },
     ]},
-    { key: 'g7_geo', name: 'Geometry & Triangles', color: '#F59E0B', icon: '📐', topics: [
-      { key: 'tri', name: 'Triangle Angles', color: '#FBBF24', icon: '🔺', generators: [G7.triangleAngle, G7.equilateral, G7.isosceles] },
-      { key: 'pyth', name: 'Pythagorean Theorem', color: '#F59E0B', icon: '📐', generators: [G7.pythag34, G7.pythag68, G7.pythagLeg13, G7.pythagLeg10] },
+    { key: 'g7_eq', name: 'Equations', color: '#EC4899', icon: '=', topics: [
+      { key: 'g7_eq_1step',   name: '1-Step Equations  (ax + b = c)',              color: '#F9A8D4', icon: '=',  generators: [G7.equation] },
+      { key: 'g7_eq_2step',   name: '2-Step Equations  (ax − b = c)',              color: '#EC4899', icon: '=',  generators: [G7.equationB] },
+      { key: 'g7_eq_frac',    name: 'Equations with Fractions  (x/a + b = c)',     color: '#DB2777', icon: '½',  generators: [G7.equationFrac] },
+      { key: 'g7_eq_twoside', name: 'Variable on Both Sides  (ax + b = cx + d)',   color: '#BE185D', icon: '⇔',  generators: [G7.equationTwoSide] },
+      { key: 'g7_eq_word',    name: 'Equation Word Problems',                      color: '#9D174D', icon: '📖', generators: [G7.equationWord] },
+    ]},
+    { key: 'g7_ineq', name: 'Inequalities', color: '#14B8A6', icon: '>', topics: [
+      { key: 'g7_ineq_gt',   name: 'Solve  ax + b > c  (smallest integer)',        color: '#5EEAD4', icon: '>',  generators: [G7.inequality] },
+      { key: 'g7_ineq_lt',   name: 'Solve  ax − b < c  (largest integer)',         color: '#14B8A6', icon: '<',  generators: [G7.inequality] },
+      { key: 'g7_ineq_word', name: 'Inequality Word Problems',                     color: '#0D9488', icon: '📖', generators: [G7.inequalityWord] },
+      { key: 'g7_ineq_visual', name: 'Inequality Number Line – Visual  📏',        color: '#14B8A6', icon: '📏', generators: [G7.inequality] },
+    ]},
+    { key: 'g7_tri', name: 'Triangles', color: '#F59E0B', icon: '🔺', topics: [
+      { key: 'g7_tri_sum',   name: 'Angle Sum Theorem  (180°)',                    color: '#FDE047', icon: '∑',  generators: [G7.triangleAngle] },
+      { key: 'g7_tri_equi',  name: 'Equilateral Triangles  (60° each)',            color: '#FBBF24', icon: '△',  generators: [G7.equilateral] },
+      { key: 'g7_tri_iso',   name: 'Isosceles Triangles  (apex angle)',            color: '#F59E0B', icon: '🔺', generators: [G7.isosceles] },
+      { key: 'g7_tri_ext',   name: 'Exterior Angles',                              color: '#D97706', icon: '↗️', generators: [G7.extAngle] },
+      { key: 'g7_tri_word',  name: 'Triangle Word Problems',                       color: '#B45309', icon: '📖', generators: [G7.triangleWord] },
+      { key: 'g7_tri_visual', name: 'Triangle Angles – Visual  🔺',                color: '#FBBF24', icon: '🔺', generators: [G7.triangleAngle] },
+    ]},
+    { key: 'g7_pyth', name: 'Pythagorean Theorem', color: '#10B981', icon: '📐', topics: [
+      { key: 'g7_pyth_hyp',  name: 'Find the Hypotenuse  (a² + b² = c²)',         color: '#6EE7B7', icon: '📐', generators: [G7.pythag34, G7.pythag68] },
+      { key: 'g7_pyth_leg',  name: 'Find a Leg  (c² − a² = b²)',                  color: '#34D399', icon: '📐', generators: [G7.pythagLeg13, G7.pythagLeg10] },
+      { key: 'g7_pyth_mixed','name': 'Mixed Pythagorean Questions',                color: '#10B981', icon: '✳️', generators: [G7.pythag34, G7.pythagLeg13] },
+      { key: 'g7_pyth_word', name: 'Word Problems  (ladder, diagonal)',            color: '#059669', icon: '📖', generators: [G7.pythagWord] },
+      { key: 'g7_pyth_visual', name: 'Pythagorean Theorem – Visual  📐',           color: '#34D399', icon: '📐', generators: [G7.pythag34, G7.pythagLeg13] },
+    ]},
+    { key: 'g7_geo', name: 'Area & Circle Geometry', color: '#0EA5E9', icon: '⭕', topics: [
+      { key: 'g7_geo_circle', name: 'Circumference  C = 2πr',                      color: '#38BDF8', icon: '⭕', generators: [G7.circleG7] },
+      { key: 'g7_geo_circA',  name: 'Area of a Circle  A = πr²',                  color: '#0EA5E9', icon: '🔵', generators: [G7.circleG7] },
+      { key: 'g7_geo_surf',   name: 'Surface Area of a Box  2(ab + bc + ac)',      color: '#0284C7', icon: '📦', generators: [G7.surfaceBox7] },
+    ]},
+    { key: 'g7_vol', name: 'Volume', color: '#F97316', icon: '📦', topics: [
+      { key: 'g7_vol_box',   name: 'Volume of a Box  (l × w × h)',                 color: '#FDBA74', icon: '📦', generators: [G7.volume7] },
+      { key: 'g7_vol_cube',  name: 'Volume of a Cube  (a³)',                       color: '#F97316', icon: '🧊', generators: [G7.volume7] },
+      { key: 'g7_vol_cyl',   name: 'Volume of a Cylinder  (πr²h)',                 color: '#EA580C', icon: '🥫', generators: [G7.cylinderVol] },
+    ]},
+    { key: 'g7_stats', name: 'Statistics', color: '#06B6D4', icon: '📊', topics: [
+      { key: 'g7_stat_median', name: 'Median of a Data Set',                       color: '#67E8F9', icon: '📊', generators: [G7.statsMedian7] },
+      { key: 'g7_stat_mode',   name: 'Mode (most frequent value)',                 color: '#22D3EE', icon: '🎯', generators: [G7.statsMode7] },
+      { key: 'g7_stat_range',  name: 'Range (max − min)',                          color: '#06B6D4', icon: '↔️', generators: [G7.statsRange7] },
+      { key: 'g7_stat_mean',   name: 'Mean (average) Review',                     color: '#0891B2', icon: '📈', generators: [G6.mean] },
     ]},
     { key: 'g7_word', name: 'Word Problems', color: '#EF4444', icon: '📖', topics: [
-      { key: 'word', name: 'Story Problems', color: '#EF4444', icon: '📖', generators: [G7.wordThink, G7.wordSquare] },
+      { key: 'g7_word_eq',    name: 'Word Problems · Equations',                   color: '#FCA5A5', icon: '=',  generators: [G7.equationWord] },
+      { key: 'g7_word_geo',   name: 'Word Problems · Geometry',                   color: '#F87171', icon: '📐', generators: [G7.triangleWord, G7.pythagWord] },
+      { key: 'g7_word_speed', name: 'Word Problems · Speed & Travel',             color: '#EF4444', icon: '🚗', generators: [G7.wordTravel7] },
+      { key: 'g7_word_ratio', name: 'Word Problems · Ratios',                     color: '#DC2626', icon: '⚡', generators: [G7.wordRatio7] },
+      { key: 'g7_word_alg',   name: 'Word Problems · Algebra',                   color: '#B91C1C', icon: 'x',  generators: [G7.wordThink, G7.wordSquare] },
     ]},
   ],
   8: [
@@ -4437,19 +4706,70 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     ]},
   ],
   7: [
-    { key: 'g7_algebra', name: 'Potenzen & Algebra', color: '#6366F1', icon: 'x', topics: [
-      { key: 'powers', name: 'Potenzen', color: '#818CF8', icon: '²', generators: [G7.power2, G7.power3, G7.power10] },
-      { key: 'algebra', name: 'Terme vereinfachen', color: '#6366F1', icon: 'x', generators: [G7.algebraSub, G7.algebraSimp, G7.algebraMul] },
+    { key: 'g7_powers', name: 'Potenzen', color: '#6366F1', icon: '²', topics: [
+      { key: 'g7_pow_sq',   name: 'Quadratzahlen  (n²)',                           color: '#818CF8', icon: '²',  generators: [G7.power2] },
+      { key: 'g7_pow_cube', name: 'Kubikzahlen  (n³)',                             color: '#6366F1', icon: '³',  generators: [G7.power3] },
+      { key: 'g7_pow_ten',  name: 'Zehnerpotenzen  (10², 10³)',                    color: '#4F46E5', icon: '🔟', generators: [G7.power10] },
+      { key: 'g7_pow_expr', name: 'Rechenausdrücke mit Potenzen',                  color: '#4338CA', icon: '✖️', generators: [G7.powerExpr] },
+      { key: 'g7_pow_neg',  name: 'Negative Basis  ((−n)²)',                       color: '#3730A3', icon: '−²', generators: [G7.powerNeg, G7.power2] },
+      { key: 'g7_powers_visual', name: 'Potenzen – Visuell  🟪',                   color: '#6366F1', icon: '🟪', generators: [G7.power2, G7.power3] },
     ]},
-    { key: 'g7_eq', name: 'Gleichungen', color: '#8B5CF6', icon: '=', topics: [
-      { key: 'eq', name: 'Gleichungen lösen', color: '#A78BFA', icon: '=', generators: [G7.equation, G7.equationB] },
+    { key: 'g7_alg', name: 'Terme & Algebra', color: '#8B5CF6', icon: 'x', topics: [
+      { key: 'g7_alg_eval',    name: 'Terme berechnen  (3x + 5, x = 2)',           color: '#A78BFA', icon: 'x',  generators: [G7.algebraEval, G7.algebraSub] },
+      { key: 'g7_alg_collect', name: 'Gleichartige Terme  (4x + 2x = ?x)',         color: '#8B5CF6', icon: '🔗', generators: [G7.algebraSimp] },
+      { key: 'g7_alg_expand',  name: 'Klammer auflösen  a(b + c)',                 color: '#7C3AED', icon: '()', generators: [G7.algebraExpand] },
+      { key: 'g7_alg_mul',     name: 'Terme multiplizieren  (ax)(bx) = ?x²',      color: '#6D28D9', icon: '✖️', generators: [G7.algebraMul] },
     ]},
-    { key: 'g7_geo', name: 'Geometrie & Dreiecke', color: '#F59E0B', icon: '📐', topics: [
-      { key: 'tri', name: 'Dreieckswinkel', color: '#FBBF24', icon: '🔺', generators: [G7.triangleAngle, G7.equilateral, G7.isosceles] },
-      { key: 'pyth', name: 'Satz des Pythagoras', color: '#F59E0B', icon: '📐', generators: [G7.pythag34, G7.pythag68, G7.pythagLeg13, G7.pythagLeg10] },
+    { key: 'g7_eq', name: 'Gleichungen', color: '#EC4899', icon: '=', topics: [
+      { key: 'g7_eq_1step',   name: 'Einfache Gleichungen  (ax + b = c)',          color: '#F9A8D4', icon: '=',  generators: [G7.equation] },
+      { key: 'g7_eq_2step',   name: 'Zweischrittige Gleichungen  (ax − b = c)',    color: '#EC4899', icon: '=',  generators: [G7.equationB] },
+      { key: 'g7_eq_frac',    name: 'Gleichungen mit Brüchen  (x/a + b = c)',      color: '#DB2777', icon: '½',  generators: [G7.equationFrac] },
+      { key: 'g7_eq_twoside', name: 'Variable auf beiden Seiten  (ax + b = cx)',   color: '#BE185D', icon: '⇔',  generators: [G7.equationTwoSide] },
+      { key: 'g7_eq_word',    name: 'Gleichungsaufgaben (Sachaufgaben)',            color: '#9D174D', icon: '📖', generators: [G7.equationWord] },
+    ]},
+    { key: 'g7_ineq', name: 'Ungleichungen', color: '#14B8A6', icon: '>', topics: [
+      { key: 'g7_ineq_gt',   name: 'ax + b > c  (kleinste ganze Zahl)',            color: '#5EEAD4', icon: '>',  generators: [G7.inequality] },
+      { key: 'g7_ineq_lt',   name: 'ax − b < c  (größte ganze Zahl)',              color: '#14B8A6', icon: '<',  generators: [G7.inequality] },
+      { key: 'g7_ineq_word', name: 'Ungleichungs-Sachaufgaben',                    color: '#0D9488', icon: '📖', generators: [G7.inequalityWord] },
+      { key: 'g7_ineq_visual', name: 'Ungleichung Zahlenstrahl – Visuell  📏',     color: '#14B8A6', icon: '📏', generators: [G7.inequality] },
+    ]},
+    { key: 'g7_tri', name: 'Dreiecke', color: '#F59E0B', icon: '🔺', topics: [
+      { key: 'g7_tri_sum',   name: 'Winkelsumme  (180°)',                          color: '#FDE047', icon: '∑',  generators: [G7.triangleAngle] },
+      { key: 'g7_tri_equi',  name: 'Gleichseitiges Dreieck  (je 60°)',             color: '#FBBF24', icon: '△',  generators: [G7.equilateral] },
+      { key: 'g7_tri_iso',   name: 'Gleichschenkliges Dreieck  (Spitzenwinkel)',   color: '#F59E0B', icon: '🔺', generators: [G7.isosceles] },
+      { key: 'g7_tri_ext',   name: 'Außenwinkel',                                  color: '#D97706', icon: '↗️', generators: [G7.extAngle] },
+      { key: 'g7_tri_word',  name: 'Dreieck-Sachaufgaben',                         color: '#B45309', icon: '📖', generators: [G7.triangleWord] },
+      { key: 'g7_tri_visual', name: 'Dreieckswinkel – Visuell  🔺',                color: '#FBBF24', icon: '🔺', generators: [G7.triangleAngle] },
+    ]},
+    { key: 'g7_pyth', name: 'Satz des Pythagoras', color: '#10B981', icon: '📐', topics: [
+      { key: 'g7_pyth_hyp',  name: 'Hypotenuse berechnen  (a² + b² = c²)',        color: '#6EE7B7', icon: '📐', generators: [G7.pythag34, G7.pythag68] },
+      { key: 'g7_pyth_leg',  name: 'Kathete berechnen  (c² − a² = b²)',           color: '#34D399', icon: '📐', generators: [G7.pythagLeg13, G7.pythagLeg10] },
+      { key: 'g7_pyth_mixed','name': 'Gemischte Pythagoras-Aufgaben',              color: '#10B981', icon: '✳️', generators: [G7.pythag34, G7.pythagLeg13] },
+      { key: 'g7_pyth_word', name: 'Pythagoras Sachaufgaben  (Leiter, Diagonale)', color: '#059669', icon: '📖', generators: [G7.pythagWord] },
+      { key: 'g7_pyth_visual', name: 'Pythagoras – Visuell  📐',                   color: '#34D399', icon: '📐', generators: [G7.pythag34, G7.pythagLeg13] },
+    ]},
+    { key: 'g7_geo', name: 'Flächen & Kreise', color: '#0EA5E9', icon: '⭕', topics: [
+      { key: 'g7_geo_circle', name: 'Kreisumfang  U = 2πr',                        color: '#38BDF8', icon: '⭕', generators: [G7.circleG7] },
+      { key: 'g7_geo_circA',  name: 'Kreisfläche  A = πr²',                        color: '#0EA5E9', icon: '🔵', generators: [G7.circleG7] },
+      { key: 'g7_geo_surf',   name: 'Oberfläche eines Quaders  2(ab + bc + ac)',   color: '#0284C7', icon: '📦', generators: [G7.surfaceBox7] },
+    ]},
+    { key: 'g7_vol', name: 'Volumen', color: '#F97316', icon: '📦', topics: [
+      { key: 'g7_vol_box',   name: 'Volumen eines Quaders  (l × b × h)',           color: '#FDBA74', icon: '📦', generators: [G7.volume7] },
+      { key: 'g7_vol_cube',  name: 'Volumen eines Würfels  (a³)',                  color: '#F97316', icon: '🧊', generators: [G7.volume7] },
+      { key: 'g7_vol_cyl',   name: 'Volumen eines Zylinders  (πr²h)',              color: '#EA580C', icon: '🥫', generators: [G7.cylinderVol] },
+    ]},
+    { key: 'g7_stats', name: 'Statistik', color: '#06B6D4', icon: '📊', topics: [
+      { key: 'g7_stat_median', name: 'Median einer Datenmenge',                    color: '#67E8F9', icon: '📊', generators: [G7.statsMedian7] },
+      { key: 'g7_stat_mode',   name: 'Modalwert (häufigster Wert)',                color: '#22D3EE', icon: '🎯', generators: [G7.statsMode7] },
+      { key: 'g7_stat_range',  name: 'Spannweite (Max − Min)',                     color: '#06B6D4', icon: '↔️', generators: [G7.statsRange7] },
+      { key: 'g7_stat_mean',   name: 'Mittelwert (Wiederholung)',                  color: '#0891B2', icon: '📈', generators: [G6.mean] },
     ]},
     { key: 'g7_word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', topics: [
-      { key: 'word', name: 'Sachaufgaben', color: '#EF4444', icon: '📖', generators: [G7.wordThink, G7.wordSquare] },
+      { key: 'g7_word_eq',    name: 'Sachaufgaben · Gleichungen',                  color: '#FCA5A5', icon: '=',  generators: [G7.equationWord] },
+      { key: 'g7_word_geo',   name: 'Sachaufgaben · Geometrie',                   color: '#F87171', icon: '📐', generators: [G7.triangleWord, G7.pythagWord] },
+      { key: 'g7_word_speed', name: 'Sachaufgaben · Geschwindigkeit',              color: '#EF4444', icon: '🚗', generators: [G7.wordTravel7] },
+      { key: 'g7_word_ratio', name: 'Sachaufgaben · Verhältnisse',                color: '#DC2626', icon: '⚡', generators: [G7.wordRatio7] },
+      { key: 'g7_word_alg',   name: 'Sachaufgaben · Algebra',                     color: '#B91C1C', icon: 'x',  generators: [G7.wordThink, G7.wordSquare] },
     ]},
   ],
   8: [
@@ -4891,19 +5211,70 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
     ]},
   ],
   7: [
-    { key: 'g7_algebra', name: 'Hatványok & Algebra', color: '#6366F1', icon: 'x', topics: [
-      { key: 'powers', name: 'Hatványok', color: '#818CF8', icon: '²', generators: [G7.power2, G7.power3, G7.power10] },
-      { key: 'algebra', name: 'Kifejezések egyszerűsítése', color: '#6366F1', icon: 'x', generators: [G7.algebraSub, G7.algebraSimp, G7.algebraMul] },
+    { key: 'g7_powers', name: 'Hatványok', color: '#6366F1', icon: '²', topics: [
+      { key: 'g7_pow_sq',   name: 'Négyzetszámok  (n²)',                           color: '#818CF8', icon: '²',  generators: [G7.power2] },
+      { key: 'g7_pow_cube', name: 'Köbszámok  (n³)',                               color: '#6366F1', icon: '³',  generators: [G7.power3] },
+      { key: 'g7_pow_ten',  name: 'Tíz hatványai  (10², 10³)',                     color: '#4F46E5', icon: '🔟', generators: [G7.power10] },
+      { key: 'g7_pow_expr', name: 'Hatványos kifejezések  (a² + b³)',              color: '#4338CA', icon: '✖️', generators: [G7.powerExpr] },
+      { key: 'g7_pow_neg',  name: 'Negatív alap  ((−n)²)',                         color: '#3730A3', icon: '−²', generators: [G7.powerNeg, G7.power2] },
+      { key: 'g7_powers_visual', name: 'Hatványok – Vizuális  🟪',                 color: '#6366F1', icon: '🟪', generators: [G7.power2, G7.power3] },
     ]},
-    { key: 'g7_eq', name: 'Egyenletek', color: '#8B5CF6', icon: '=', topics: [
-      { key: 'eq', name: 'Egyenletek megoldása', color: '#A78BFA', icon: '=', generators: [G7.equation, G7.equationB] },
+    { key: 'g7_alg', name: 'Algebrai kifejezések', color: '#8B5CF6', icon: 'x', topics: [
+      { key: 'g7_alg_eval',    name: 'Kifejezések kiértékelése  (3x + 5, x = 2)', color: '#A78BFA', icon: 'x',  generators: [G7.algebraEval, G7.algebraSub] },
+      { key: 'g7_alg_collect', name: 'Hasonló tagok összevonása  (4x + 2x)',       color: '#8B5CF6', icon: '🔗', generators: [G7.algebraSimp] },
+      { key: 'g7_alg_expand',  name: 'Zárójelek felbontása  a(b + c)',             color: '#7C3AED', icon: '()', generators: [G7.algebraExpand] },
+      { key: 'g7_alg_mul',     name: 'Tagok szorzása  (ax)(bx) = ?x²',            color: '#6D28D9', icon: '✖️', generators: [G7.algebraMul] },
     ]},
-    { key: 'g7_geo', name: 'Geometria & Háromszögek', color: '#F59E0B', icon: '📐', topics: [
-      { key: 'tri', name: 'Háromszögek szögei', color: '#FBBF24', icon: '🔺', generators: [G7.triangleAngle, G7.equilateral, G7.isosceles] },
-      { key: 'pyth', name: 'Pitagorasz-tétel', color: '#F59E0B', icon: '📐', generators: [G7.pythag34, G7.pythag68, G7.pythagLeg13, G7.pythagLeg10] },
+    { key: 'g7_eq', name: 'Egyenletek', color: '#EC4899', icon: '=', topics: [
+      { key: 'g7_eq_1step',   name: 'Egyszerű egyenletek  (ax + b = c)',           color: '#F9A8D4', icon: '=',  generators: [G7.equation] },
+      { key: 'g7_eq_2step',   name: 'Kétlépéses egyenletek  (ax − b = c)',         color: '#EC4899', icon: '=',  generators: [G7.equationB] },
+      { key: 'g7_eq_frac',    name: 'Törtes egyenletek  (x/a + b = c)',            color: '#DB2777', icon: '½',  generators: [G7.equationFrac] },
+      { key: 'g7_eq_twoside', name: 'Ismeretlen mindkét oldalon  (ax + b = cx)',   color: '#BE185D', icon: '⇔',  generators: [G7.equationTwoSide] },
+      { key: 'g7_eq_word',    name: 'Szöveges egyenletek',                         color: '#9D174D', icon: '📖', generators: [G7.equationWord] },
+    ]},
+    { key: 'g7_ineq', name: 'Egyenlőtlenségek', color: '#14B8A6', icon: '>', topics: [
+      { key: 'g7_ineq_gt',   name: 'ax + b > c  (legkisebb egész)',               color: '#5EEAD4', icon: '>',  generators: [G7.inequality] },
+      { key: 'g7_ineq_lt',   name: 'ax − b < c  (legnagyobb egész)',              color: '#14B8A6', icon: '<',  generators: [G7.inequality] },
+      { key: 'g7_ineq_word', name: 'Szöveges egyenlőtlenségek',                   color: '#0D9488', icon: '📖', generators: [G7.inequalityWord] },
+      { key: 'g7_ineq_visual', name: 'Egyenlőtlenség számegyenesen – Vizuális 📏', color: '#14B8A6', icon: '📏', generators: [G7.inequality] },
+    ]},
+    { key: 'g7_tri', name: 'Háromszögek', color: '#F59E0B', icon: '🔺', topics: [
+      { key: 'g7_tri_sum',   name: 'Szögeösszeg-tétel  (180°)',                   color: '#FDE047', icon: '∑',  generators: [G7.triangleAngle] },
+      { key: 'g7_tri_equi',  name: 'Szabályos háromszög  (minden szög 60°)',      color: '#FBBF24', icon: '△',  generators: [G7.equilateral] },
+      { key: 'g7_tri_iso',   name: 'Egyenlő szárú háromszög  (csúcsszög)',        color: '#F59E0B', icon: '🔺', generators: [G7.isosceles] },
+      { key: 'g7_tri_ext',   name: 'Külső szögek',                                color: '#D97706', icon: '↗️', generators: [G7.extAngle] },
+      { key: 'g7_tri_word',  name: 'Szöveges háromszög-feladatok',                color: '#B45309', icon: '📖', generators: [G7.triangleWord] },
+      { key: 'g7_tri_visual', name: 'Háromszög szögei – Vizuális  🔺',             color: '#FBBF24', icon: '🔺', generators: [G7.triangleAngle] },
+    ]},
+    { key: 'g7_pyth', name: 'Pitagorasz-tétel', color: '#10B981', icon: '📐', topics: [
+      { key: 'g7_pyth_hyp',  name: 'Átfogó kiszámítása  (a² + b² = c²)',         color: '#6EE7B7', icon: '📐', generators: [G7.pythag34, G7.pythag68] },
+      { key: 'g7_pyth_leg',  name: 'Befogó kiszámítása  (c² − a² = b²)',         color: '#34D399', icon: '📐', generators: [G7.pythagLeg13, G7.pythagLeg10] },
+      { key: 'g7_pyth_mixed','name': 'Vegyes Pitagorasz-feladatok',               color: '#10B981', icon: '✳️', generators: [G7.pythag34, G7.pythagLeg13] },
+      { key: 'g7_pyth_word', name: 'Szöveges feladatok  (létra, átló)',           color: '#059669', icon: '📖', generators: [G7.pythagWord] },
+      { key: 'g7_pyth_visual', name: 'Pitagorasz – Vizuális  📐',                 color: '#34D399', icon: '📐', generators: [G7.pythag34, G7.pythagLeg13] },
+    ]},
+    { key: 'g7_geo', name: 'Területek & Kör', color: '#0EA5E9', icon: '⭕', topics: [
+      { key: 'g7_geo_circle', name: 'Kerület  K = 2πr',                            color: '#38BDF8', icon: '⭕', generators: [G7.circleG7] },
+      { key: 'g7_geo_circA',  name: 'Körterület  T = πr²',                        color: '#0EA5E9', icon: '🔵', generators: [G7.circleG7] },
+      { key: 'g7_geo_surf',   name: 'Téglatest felszíne  2(ab + bc + ac)',         color: '#0284C7', icon: '📦', generators: [G7.surfaceBox7] },
+    ]},
+    { key: 'g7_vol', name: 'Térfogat', color: '#F97316', icon: '📦', topics: [
+      { key: 'g7_vol_box',   name: 'Téglatest térfogata  (a × b × c)',            color: '#FDBA74', icon: '📦', generators: [G7.volume7] },
+      { key: 'g7_vol_cube',  name: 'Kocka térfogata  (a³)',                        color: '#F97316', icon: '🧊', generators: [G7.volume7] },
+      { key: 'g7_vol_cyl',   name: 'Henger térfogata  (πr²h)',                    color: '#EA580C', icon: '🥫', generators: [G7.cylinderVol] },
+    ]},
+    { key: 'g7_stats', name: 'Statisztika', color: '#06B6D4', icon: '📊', topics: [
+      { key: 'g7_stat_median', name: 'Medián meghatározása',                       color: '#67E8F9', icon: '📊', generators: [G7.statsMedian7] },
+      { key: 'g7_stat_mode',   name: 'Módusz (leggyakoribb érték)',                color: '#22D3EE', icon: '🎯', generators: [G7.statsMode7] },
+      { key: 'g7_stat_range',  name: 'Terjedelem (max − min)',                     color: '#06B6D4', icon: '↔️', generators: [G7.statsRange7] },
+      { key: 'g7_stat_mean',   name: 'Átlag (ismétlés)',                           color: '#0891B2', icon: '📈', generators: [G6.mean] },
     ]},
     { key: 'g7_word', name: 'Szöveges feladatok', color: '#EF4444', icon: '📖', topics: [
-      { key: 'word', name: 'Szöveges feladatok', color: '#EF4444', icon: '📖', generators: [G7.wordThink, G7.wordSquare] },
+      { key: 'g7_word_eq',    name: 'Szöveges feladatok · Egyenletek',            color: '#FCA5A5', icon: '=',  generators: [G7.equationWord] },
+      { key: 'g7_word_geo',   name: 'Szöveges feladatok · Geometria',             color: '#F87171', icon: '📐', generators: [G7.triangleWord, G7.pythagWord] },
+      { key: 'g7_word_speed', name: 'Szöveges feladatok · Sebesség & Utazás',     color: '#EF4444', icon: '🚗', generators: [G7.wordTravel7] },
+      { key: 'g7_word_ratio', name: 'Szöveges feladatok · Arányok',               color: '#DC2626', icon: '⚡', generators: [G7.wordRatio7] },
+      { key: 'g7_word_alg',   name: 'Szöveges feladatok · Algebra',               color: '#B91C1C', icon: 'x',  generators: [G7.wordThink, G7.wordSquare] },
     ]},
   ],
   8: [
@@ -5341,19 +5712,70 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
     ]},
   ],
   7: [
-    { key: 'g7_algebra', name: 'Puteri & Algebră', color: '#6366F1', icon: 'x', topics: [
-      { key: 'powers', name: 'Puteri', color: '#818CF8', icon: '²', generators: [G7.power2, G7.power3, G7.power10] },
-      { key: 'algebra', name: 'Simplificarea expresiilor', color: '#6366F1', icon: 'x', generators: [G7.algebraSub, G7.algebraSimp, G7.algebraMul] },
+    { key: 'g7_powers', name: 'Puteri', color: '#6366F1', icon: '²', topics: [
+      { key: 'g7_pow_sq',   name: 'Pătrate  (n²)',                                 color: '#818CF8', icon: '²',  generators: [G7.power2] },
+      { key: 'g7_pow_cube', name: 'Cuburi  (n³)',                                   color: '#6366F1', icon: '³',  generators: [G7.power3] },
+      { key: 'g7_pow_ten',  name: 'Puteri ale lui 10  (10², 10³)',                  color: '#4F46E5', icon: '🔟', generators: [G7.power10] },
+      { key: 'g7_pow_expr', name: 'Expresii cu puteri  (a² + b³)',                  color: '#4338CA', icon: '✖️', generators: [G7.powerExpr] },
+      { key: 'g7_pow_neg',  name: 'Baze negative  ((−n)²)',                         color: '#3730A3', icon: '−²', generators: [G7.powerNeg, G7.power2] },
+      { key: 'g7_powers_visual', name: 'Puteri – Vizual  🟪',                      color: '#6366F1', icon: '🟪', generators: [G7.power2, G7.power3] },
     ]},
-    { key: 'g7_eq', name: 'Ecuații', color: '#8B5CF6', icon: '=', topics: [
-      { key: 'eq', name: 'Rezolvarea ecuațiilor', color: '#A78BFA', icon: '=', generators: [G7.equation, G7.equationB] },
+    { key: 'g7_alg', name: 'Expresii algebrice', color: '#8B5CF6', icon: 'x', topics: [
+      { key: 'g7_alg_eval',    name: 'Calcularea expresiilor  (3x + 5, x = 2)',    color: '#A78BFA', icon: 'x',  generators: [G7.algebraEval, G7.algebraSub] },
+      { key: 'g7_alg_collect', name: 'Termeni asemenea  (4x + 2x = ?x)',           color: '#8B5CF6', icon: '🔗', generators: [G7.algebraSimp] },
+      { key: 'g7_alg_expand',  name: 'Desfacerea parantezelor  a(b + c)',           color: '#7C3AED', icon: '()', generators: [G7.algebraExpand] },
+      { key: 'g7_alg_mul',     name: 'Înmulțirea termenilor  (ax)(bx) = ?x²',      color: '#6D28D9', icon: '✖️', generators: [G7.algebraMul] },
     ]},
-    { key: 'g7_geo', name: 'Geometrie & Triunghiuri', color: '#F59E0B', icon: '📐', topics: [
-      { key: 'tri', name: 'Unghiurile triunghiului', color: '#FBBF24', icon: '🔺', generators: [G7.triangleAngle, G7.equilateral, G7.isosceles] },
-      { key: 'pyth', name: 'Teorema lui Pitagora', color: '#F59E0B', icon: '📐', generators: [G7.pythag34, G7.pythag68, G7.pythagLeg13, G7.pythagLeg10] },
+    { key: 'g7_eq', name: 'Ecuații', color: '#EC4899', icon: '=', topics: [
+      { key: 'g7_eq_1step',   name: 'Ecuații simple  (ax + b = c)',                color: '#F9A8D4', icon: '=',  generators: [G7.equation] },
+      { key: 'g7_eq_2step',   name: 'Ecuații în doi pași  (ax − b = c)',           color: '#EC4899', icon: '=',  generators: [G7.equationB] },
+      { key: 'g7_eq_frac',    name: 'Ecuații cu fracții  (x/a + b = c)',           color: '#DB2777', icon: '½',  generators: [G7.equationFrac] },
+      { key: 'g7_eq_twoside', name: 'Necunoscut pe ambele părți  (ax + b = cx)',   color: '#BE185D', icon: '⇔',  generators: [G7.equationTwoSide] },
+      { key: 'g7_eq_word',    name: 'Probleme cu ecuații',                         color: '#9D174D', icon: '📖', generators: [G7.equationWord] },
+    ]},
+    { key: 'g7_ineq', name: 'Inecuații', color: '#14B8A6', icon: '>', topics: [
+      { key: 'g7_ineq_gt',   name: 'ax + b > c  (cel mai mic număr întreg)',       color: '#5EEAD4', icon: '>',  generators: [G7.inequality] },
+      { key: 'g7_ineq_lt',   name: 'ax − b < c  (cel mai mare număr întreg)',      color: '#14B8A6', icon: '<',  generators: [G7.inequality] },
+      { key: 'g7_ineq_word', name: 'Probleme cu inecuații',                        color: '#0D9488', icon: '📖', generators: [G7.inequalityWord] },
+      { key: 'g7_ineq_visual', name: 'Inecuație pe dreapta numerelor – Vizual 📏', color: '#14B8A6', icon: '📏', generators: [G7.inequality] },
+    ]},
+    { key: 'g7_tri', name: 'Triunghiuri', color: '#F59E0B', icon: '🔺', topics: [
+      { key: 'g7_tri_sum',   name: 'Suma unghiurilor  (180°)',                     color: '#FDE047', icon: '∑',  generators: [G7.triangleAngle] },
+      { key: 'g7_tri_equi',  name: 'Triunghi echilateral  (câte 60°)',             color: '#FBBF24', icon: '△',  generators: [G7.equilateral] },
+      { key: 'g7_tri_iso',   name: 'Triunghi isoscel  (unghiul de la vârf)',       color: '#F59E0B', icon: '🔺', generators: [G7.isosceles] },
+      { key: 'g7_tri_ext',   name: 'Unghiuri exterioare',                          color: '#D97706', icon: '↗️', generators: [G7.extAngle] },
+      { key: 'g7_tri_word',  name: 'Probleme cu triunghiuri',                      color: '#B45309', icon: '📖', generators: [G7.triangleWord] },
+      { key: 'g7_tri_visual', name: 'Unghiuri triunghi – Vizual  🔺',              color: '#FBBF24', icon: '🔺', generators: [G7.triangleAngle] },
+    ]},
+    { key: 'g7_pyth', name: 'Teorema lui Pitagora', color: '#10B981', icon: '📐', topics: [
+      { key: 'g7_pyth_hyp',  name: 'Calculul ipotenuzei  (a² + b² = c²)',         color: '#6EE7B7', icon: '📐', generators: [G7.pythag34, G7.pythag68] },
+      { key: 'g7_pyth_leg',  name: 'Calculul unei catete  (c² − a² = b²)',        color: '#34D399', icon: '📐', generators: [G7.pythagLeg13, G7.pythagLeg10] },
+      { key: 'g7_pyth_mixed','name': 'Probleme mixte Pitagora',                    color: '#10B981', icon: '✳️', generators: [G7.pythag34, G7.pythagLeg13] },
+      { key: 'g7_pyth_word', name: 'Probleme aplicative  (scară, diagonală)',      color: '#059669', icon: '📖', generators: [G7.pythagWord] },
+      { key: 'g7_pyth_visual', name: 'Pitagora – Vizual  📐',                      color: '#34D399', icon: '📐', generators: [G7.pythag34, G7.pythagLeg13] },
+    ]},
+    { key: 'g7_geo', name: 'Arii & Cerc', color: '#0EA5E9', icon: '⭕', topics: [
+      { key: 'g7_geo_circle', name: 'Circumferința cercului  C = 2πr',             color: '#38BDF8', icon: '⭕', generators: [G7.circleG7] },
+      { key: 'g7_geo_circA',  name: 'Aria cercului  A = πr²',                      color: '#0EA5E9', icon: '🔵', generators: [G7.circleG7] },
+      { key: 'g7_geo_surf',   name: 'Aria totală a unui paralelipiped',             color: '#0284C7', icon: '📦', generators: [G7.surfaceBox7] },
+    ]},
+    { key: 'g7_vol', name: 'Volum', color: '#F97316', icon: '📦', topics: [
+      { key: 'g7_vol_box',   name: 'Volumul paralelipipedului  (l × b × h)',       color: '#FDBA74', icon: '📦', generators: [G7.volume7] },
+      { key: 'g7_vol_cube',  name: 'Volumul cubului  (a³)',                         color: '#F97316', icon: '🧊', generators: [G7.volume7] },
+      { key: 'g7_vol_cyl',   name: 'Volumul cilindrului  (πr²h)',                  color: '#EA580C', icon: '🥫', generators: [G7.cylinderVol] },
+    ]},
+    { key: 'g7_stats', name: 'Statistică', color: '#06B6D4', icon: '📊', topics: [
+      { key: 'g7_stat_median', name: 'Mediana unui șir de date',                   color: '#67E8F9', icon: '📊', generators: [G7.statsMedian7] },
+      { key: 'g7_stat_mode',   name: 'Modul (valoarea cea mai frecventă)',          color: '#22D3EE', icon: '🎯', generators: [G7.statsMode7] },
+      { key: 'g7_stat_range',  name: 'Amplitudinea (max − min)',                   color: '#06B6D4', icon: '↔️', generators: [G7.statsRange7] },
+      { key: 'g7_stat_mean',   name: 'Media aritmetică (recapitulare)',             color: '#0891B2', icon: '📈', generators: [G6.mean] },
     ]},
     { key: 'g7_word', name: 'Probleme', color: '#EF4444', icon: '📖', topics: [
-      { key: 'word', name: 'Probleme', color: '#EF4444', icon: '📖', generators: [G7.wordThink, G7.wordSquare] },
+      { key: 'g7_word_eq',    name: 'Probleme · Ecuații',                          color: '#FCA5A5', icon: '=',  generators: [G7.equationWord] },
+      { key: 'g7_word_geo',   name: 'Probleme · Geometrie',                        color: '#F87171', icon: '📐', generators: [G7.triangleWord, G7.pythagWord] },
+      { key: 'g7_word_speed', name: 'Probleme · Viteză & Distanță',                color: '#EF4444', icon: '🚗', generators: [G7.wordTravel7] },
+      { key: 'g7_word_ratio', name: 'Probleme · Rapoarte',                         color: '#DC2626', icon: '⚡', generators: [G7.wordRatio7] },
+      { key: 'g7_word_alg',   name: 'Probleme · Algebră',                          color: '#B91C1C', icon: 'x',  generators: [G7.wordThink, G7.wordSquare] },
     ]},
   ],
   8: [

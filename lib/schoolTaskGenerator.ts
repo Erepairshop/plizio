@@ -21,7 +21,8 @@ export type VisualQuestionType = 'zeichnen' | 'messen' | 'uhrzeit' | 'grid-area'
   | 'g5-shape-props' | 'g5-angle-classify' | 'g5-perimeter' | 'g5-area-grid' | 'g5-barchart'
   | 'g5-symmetry' | 'g5-unit-convert' | 'g5-nl-arith' | 'g5-word-problem'
   | 'g5-neg-line' | 'g5-volume-cuboid'
-  | 'g6-coord-4q' | 'g6-pie-chart' | 'g6-ratio-table' | 'g6-trapezoid-area' | 'g6-percent-bar';
+  | 'g6-coord-4q' | 'g6-pie-chart' | 'g6-ratio-table' | 'g6-trapezoid-area' | 'g6-percent-bar'
+  | 'g7-pythagorean' | 'g7-triangle-angles' | 'g7-inequality-line' | 'g7-power-grid';
 
 export type VisualQuestionData = {
   type: VisualQuestionType;
@@ -123,7 +124,11 @@ export type TaskType =
   | 'visual_g6_pie_chart'
   | 'visual_g6_ratio_table'
   | 'visual_g6_trapezoid'
-  | 'visual_g6_percent_bar';
+  | 'visual_g6_percent_bar'
+  | 'visual_g7_pythagorean'
+  | 'visual_g7_triangle_angles'
+  | 'visual_g7_inequality_line'
+  | 'visual_g7_power_grid';
 
 export type AufgabenItem = {
   question: string;
@@ -783,6 +788,8 @@ const VISUAL_TOPIC_KEYS = new Set([
   'g5_neg_line', 'g5_vol_cuboid',
   // Grade 6 visual topics
   'g6_coord_4q', 'g6_pie_chart', 'g6_ratio_table', 'g6_trapezoid_area', 'g6_percent_bar',
+  // Grade 7 visual topics
+  'g7_pyth_visual', 'g7_tri_visual', 'g7_ineq_visual', 'g7_powers_visual',
 ]);
 
 function isVisualTopicKey(key: string): boolean {
@@ -1392,6 +1399,56 @@ function generateVisualSub(topicKey: string, blockIdx: number, subIdx: number): 
       return { id: `vis_g6pb_${sfx}`, answer: String(pct), points: 1,
         visualType: 'g6-percent-bar', visualData: { type: 'g6-percent-bar', params: { percentage: pct } } };
     }
+    // ─── Grade 7 visual generators ────────────────────────────────────────────
+    case 'g7_pyth_visual': {
+      const triples: [number,number,number,boolean][] = [
+        [3,4,5,true],[5,12,13,true],[8,15,17,true],
+        [6,8,10,false],[9,12,15,false],[13,5,12,false],
+      ];
+      const [x,y,z,findC] = triples[rnd(0, triples.length - 1)];
+      const [a,b,ans] = findC ? [x,y,z] : [x,z,y];
+      return { id: `vis_g7py_${sfx}`, answer: String(ans), points: 1,
+        visualType: 'g7-pythagorean', visualData: { type: 'g7-pythagorean', params: { a, b, findC, answer: ans } } };
+    }
+    case 'g7_tri_visual': {
+      const combos: [number,number][] = [[60,80],[45,75],[30,110],[55,65],[40,90],[70,50],[35,105]];
+      const [ang1, ang2] = combos[rnd(0, combos.length - 1)];
+      const ans = 180 - ang1 - ang2;
+      return { id: `vis_g7ta_${sfx}`, answer: String(ans), points: 1,
+        visualType: 'g7-triangle-angles', visualData: { type: 'g7-triangle-angles', params: { a: ang1, b: ang2, answer: ans } } };
+    }
+    case 'g7_ineq_visual': {
+      const isGt = Math.random() > 0.5;
+      const coef = rnd(2, 4);
+      const xVal = rnd(2, 7);
+      if (isGt) {
+        const bVal = rnd(1, 8);
+        const cVal = coef * xVal + bVal - 1;
+        const expr = `${coef}x + ${bVal} > ${cVal}`;
+        return { id: `vis_g7il_${sfx}`, answer: String(xVal), points: 1,
+          visualType: 'g7-inequality-line', visualData: { type: 'g7-inequality-line', params: { expression: expr, isGt: true, answer: xVal, solution: (cVal - bVal) / coef } } };
+      } else {
+        const bVal = rnd(1, 6);
+        const cVal = coef * xVal - bVal + 1;
+        const expr = `${coef}x − ${bVal} < ${cVal}`;
+        return { id: `vis_g7il_${sfx}`, answer: String(xVal), points: 1,
+          visualType: 'g7-inequality-line', visualData: { type: 'g7-inequality-line', params: { expression: expr, isGt: false, answer: xVal, solution: (cVal + bVal) / coef } } };
+      }
+    }
+    case 'g7_powers_visual': {
+      const squares = [3,4,5,6,7];
+      const cubes = [2,3,4];
+      const isSquare = Math.random() > 0.4;
+      if (isSquare) {
+        const n = squares[rnd(0, squares.length - 1)];
+        return { id: `vis_g7pg_${sfx}`, answer: String(n*n), points: 1,
+          visualType: 'g7-power-grid', visualData: { type: 'g7-power-grid', params: { n, type: 'square', answer: n*n } } };
+      } else {
+        const n = cubes[rnd(0, cubes.length - 1)];
+        return { id: `vis_g7pg_${sfx}`, answer: String(n*n*n), points: 1,
+          visualType: 'g7-power-grid', visualData: { type: 'g7-power-grid', params: { n, type: 'cube', answer: n*n*n } } };
+      }
+    }
     default:
       return generateVisualSub('zeichnen', blockIdx, subIdx);
   }
@@ -1462,6 +1519,11 @@ const VISUAL_TOPIC_TO_TYPE: Record<string, TaskType> = {
   g6_ratio_table:      'visual_g6_ratio_table',
   g6_trapezoid_area:   'visual_g6_trapezoid',
   g6_percent_bar:      'visual_g6_percent_bar',
+  // Grade 7 visual topics
+  g7_pyth_visual:      'visual_g7_pythagorean',
+  g7_tri_visual:       'visual_g7_triangle_angles',
+  g7_ineq_visual:      'visual_g7_inequality_line',
+  g7_powers_visual:    'visual_g7_power_grid',
 };
 
 function generateVisualBlock(
@@ -1707,6 +1769,11 @@ const TITLES: Record<TaskType, Record<string, string>> = {
   visual_g6_ratio_table:{ de: 'Verhältnistabelle ausfüllen.', en: 'Complete the ratio table.', hu: 'Aránytábla kitöltése.', ro: 'Completează tabelul proporțional.' },
   visual_g6_trapezoid:  { de: 'Flächeninhalt des Trapezes berechnen.', en: 'Calculate the trapezoid area.', hu: 'Trapéz területének kiszámítása.', ro: 'Calculează aria trapezului.' },
   visual_g6_percent_bar:{ de: 'Prozent im Hunderterfeld ablesen.', en: 'Read percent from the hundred grid.', hu: 'Százalék leolvasása a százsárból.', ro: 'Citește procentul din grila de 100.' },
+  // Grade 7 visual types
+  visual_g7_pythagorean:      { de: 'Satz des Pythagoras – fehlende Seite berechnen.', en: 'Pythagorean theorem – find the missing side.', hu: 'Pitagorasz-tétel – hiányzó oldal kiszámítása.', ro: 'Teorema lui Pitagora – calculează latura lipsă.' },
+  visual_g7_triangle_angles:  { de: 'Fehlenden Dreieckswinkel berechnen.', en: 'Find the missing triangle angle.', hu: 'Háromszög hiányzó szögének kiszámítása.', ro: 'Calculează unghiul lipsă al triunghiului.' },
+  visual_g7_inequality_line:  { de: 'Ungleichung auf dem Zahlenstrahl lösen.', en: 'Solve inequality on the number line.', hu: 'Egyenlőtlenség megoldása számegyenesen.', ro: 'Rezolvă inecuația pe dreapta numerelor.' },
+  visual_g7_power_grid:       { de: 'Potenz im Gitter visualisieren.', en: 'Visualize powers on a grid.', hu: 'Hatványok vizualizálása rácson.', ro: 'Vizualizează puteri pe grilă.' },
 };
 
 function getTitleFor(type: TaskType, cc: string): string {

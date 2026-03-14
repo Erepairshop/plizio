@@ -68,6 +68,12 @@ const G6RatioTableFill = dynamic(() => import('./grade6-visual/RatioTableFill'),
 const G6TrapezoidAreaCalc = dynamic(() => import('./grade6-visual/TrapezoidAreaCalc'), { ssr: false });
 const G6PercentBar = dynamic(() => import('./grade6-visual/PercentBar'), { ssr: false });
 
+// Grade 7 visual components
+const G7PythagoreanVisual = dynamic(() => import('./grade7-visual/PythagoreanVisual'), { ssr: false });
+const G7TriangleAngles = dynamic(() => import('./grade7-visual/TriangleAngles'), { ssr: false });
+const G7InequalityLine = dynamic(() => import('./grade7-visual/InequalityLine'), { ssr: false });
+const G7PowerGrid = dynamic(() => import('./grade7-visual/PowerGrid'), { ssr: false });
+
 // Grade 1 visual components
 const G1AnalogClock = dynamic(() => import('./grade1-visual/AnalogClock'), { ssr: false });
 const G1NumberLineMarker = dynamic(() => import('./grade1-visual/NumberLineMarker'), { ssr: false });
@@ -238,6 +244,15 @@ export default function SchoolTaskBlock({
         return <G6TrapezoidAreaCalc baseA={p.baseA} baseB={p.baseB} height={p.height} shapeType={p.shapeType} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
       case 'g6-percent-bar':
         return <G6PercentBar percentage={p.percentage} language={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      // Grade 7 visual components
+      case 'g7-pythagorean':
+        return <G7PythagoreanVisual subQuestions={[{ a: p.a, b: p.b, findC: p.findC, answer: p.answer }]} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g7-triangle-angles':
+        return <G7TriangleAngles subQuestions={[{ a: p.a, b: p.b, answer: p.answer }]} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g7-inequality-line':
+        return <G7InequalityLine subQuestions={[{ expression: p.expression, isGt: p.isGt, answer: p.answer, solution: p.solution }]} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
+      case 'g7-power-grid':
+        return <G7PowerGrid subQuestions={[{ n: p.n, type: p.type, answer: p.answer }]} lang={lang} embedded onAnswer={noop} onValueChange={vc} />;
       // Grade 1 visual components
       case 'g1-clock':
         return <G1AnalogClock hour={p.hour} minute={p.minute} lang={lang} embedded={true} onAnswer={noop} onValueChange={vc} />;
@@ -425,7 +440,11 @@ export default function SchoolTaskBlock({
       case 'visual_g6_pie_chart':
       case 'visual_g6_ratio_table':
       case 'visual_g6_trapezoid':
-      case 'visual_g6_percent_bar': {
+      case 'visual_g6_percent_bar':
+      case 'visual_g7_pythagorean':
+      case 'visual_g7_triangle_angles':
+      case 'visual_g7_inequality_line':
+      case 'visual_g7_power_grid': {
         return (
           <div className="space-y-3">
             {block.subQuestions.map((sq, idx) => (
