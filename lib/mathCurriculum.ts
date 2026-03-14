@@ -3197,7 +3197,32 @@ const G7: Record<string, Generator> = {
     const a = randInt(30, 80), b = randInt(30, 150 - a);
     return q(qTriangleThirdAngle(a, b, cc), 180 - a - b, t("triangles", cc));
   },
-  equilateral: (cc) => q(qEquilateralAngle(cc), 60, t("triangles", cc)),
+  equilateral: (cc) => {
+    const lang = getLang(cc);
+    return pick([
+      () => q(qEquilateralAngle(cc), 60, t("triangles", cc)),
+      () => {
+        // Ask for total angle sum confirmation
+        const q2: Record<string, string> = {
+          DE: "Wie groß ist die Winkelsumme eines gleichseitigen Dreiecks?",
+          EN: "What is the angle sum of an equilateral triangle?",
+          HU: "Mekkora egy szabályos háromszög szögeinek összege?",
+          RO: "Cât este suma unghiurilor unui triunghi echilateral?",
+        };
+        return q(q2[lang] ?? q2.EN, 180, t("triangles", cc));
+      },
+      () => {
+        // Ask for one angle when told the triangle is equilateral + all equal
+        const q3: Record<string, string> = {
+          DE: "Ein Dreieck hat drei gleich große Winkel. Wie groß ist jeder einzelne Winkel?",
+          EN: "A triangle has three equal angles. How large is each angle?",
+          HU: "Egy háromszögnek három egyenlő szöge van. Mekkora mindegyik szög?",
+          RO: "Un triunghi are trei unghiuri egale. Cât este fiecare unghi?",
+        };
+        return q(q3[lang] ?? q3.EN, 60, t("triangles", cc));
+      },
+    ])();
+  },
   isosceles: (cc) => {
     const a = randInt(20, 80);
     return q(qIsoscelesApex(a, cc), 180 - 2 * a, t("triangles", cc));
@@ -3295,48 +3320,122 @@ const G7: Record<string, Generator> = {
     return q(qSolveX(`${a}x + ${b} = ${c}x + ${d}.`, cc), x, t("equations", cc));
   },
   equationWord: (cc) => {
+    const lang = getLang(cc);
     return pick([
       () => {
-        const weekly = randInt(3,8), fixed = randInt(10,30);
-        const weeks = randInt(4,10);
+        const weekly = randInt(3, 8), fixed = randInt(10, 30);
+        const weeks = randInt(4, 10);
         const total = weekly * weeks + fixed;
-        const lang = getLang(cc);
-        let qStr: string;
-        switch(lang) {
-          case "DE": qStr = `Ein Mitglied zahlt ${fixed}€ Aufnahmegebühr und dann ${weekly}€ pro Woche. Wieviele Wochen ist er Mitglied, wenn er ${total}€ gesamt zahlt?`; break;
-          case "RO": qStr = `O persoană plătește ${fixed}€ taxă de înscriere și ${weekly}€ pe săptămână. Câte săptămâni este membră dacă plătește total ${total}€?`; break;
-          case "EN": qStr = `A club charges a ${fixed}€ joining fee plus ${weekly}€ per week. For how many weeks is someone a member if they pay ${total}€ in total?`; break;
-          default:   qStr = `Egy klub ${fixed}€ belépési díjat és heti ${weekly}€-t kér. Hány hétig tag valaki, ha összesen ${total}€-t fizet?`; break;
-        }
-        return q(qStr, weeks, t("equations", cc), 0, true);
+        const qStr: Record<string, string> = {
+          DE: `Ein Mitglied zahlt ${fixed}€ Aufnahmegebühr und dann ${weekly}€ pro Woche. Wieviele Wochen ist er Mitglied, wenn er ${total}€ gesamt zahlt?`,
+          RO: `O persoană plătește ${fixed}€ taxă de înscriere și ${weekly}€ pe săptămână. Câte săptămâni este membră dacă plătește total ${total}€?`,
+          EN: `A club charges a ${fixed}€ joining fee plus ${weekly}€ per week. For how many weeks is someone a member if they pay ${total}€ in total?`,
+          HU: `Egy klub ${fixed}€ belépési díjat és heti ${weekly}€-t kér. Hány hétig tag valaki, ha összesen ${total}€-t fizet?`,
+        };
+        return q(qStr[lang] ?? qStr.HU, weeks, t("equations", cc), 0, true);
       },
       () => {
-        const x = randInt(4,10), times = randInt(2,4), extra = randInt(2,8);
+        const x = randInt(4, 10), times = randInt(2, 4), extra = randInt(2, 8);
         const total = times * x + extra;
-        const lang = getLang(cc);
-        let qStr: string;
-        switch(lang) {
-          case "DE": qStr = `Das ${times}-fache einer Zahl plus ${extra} ist ${total}. Welche Zahl ist es?`; break;
-          case "RO": qStr = `De ${times} ori un număr plus ${extra} este ${total}. Care este numărul?`; break;
-          case "EN": qStr = `${times} times a number plus ${extra} equals ${total}. What is the number?`; break;
-          default:   qStr = `Egy szám ${times}-szorosa plusz ${extra} egyenlő ${total}. Mi a szám?`; break;
-        }
-        return q(qStr, x, t("equations", cc), 0, true);
+        const qStr: Record<string, string> = {
+          DE: `Das ${times}-fache einer Zahl plus ${extra} ist ${total}. Welche Zahl ist es?`,
+          RO: `De ${times} ori un număr plus ${extra} este ${total}. Care este numărul?`,
+          EN: `${times} times a number plus ${extra} equals ${total}. What is the number?`,
+          HU: `Egy szám ${times}-szorosa plusz ${extra} egyenlő ${total}. Mi a szám?`,
+        };
+        return q(qStr[lang] ?? qStr.HU, x, t("equations", cc), 0, true);
+      },
+      () => {
+        // Taxi/car rental: fixed cost + per-km charge
+        const perKm = randInt(2, 5), baseCost = randInt(5, 20);
+        const km = randInt(3, 10);
+        const total = perKm * km + baseCost;
+        const qStr: Record<string, string> = {
+          DE: `Ein Taxi kostet ${baseCost}€ Grundgebühr und ${perKm}€ pro km. Wie viele km fuhr man, wenn man ${total}€ zahlte?`,
+          RO: `Un taxi costă ${baseCost}€ taxă de bază și ${perKm}€ pe km. Câți km s-au parcurs dacă s-au plătit ${total}€?`,
+          EN: `A taxi charges ${baseCost}€ base fee plus ${perKm}€ per km. How many km was the trip if the total was ${total}€?`,
+          HU: `Egy taxi ${baseCost}€ alap díjat és km-enként ${perKm}€-t számít. Hány km volt az út, ha összesen ${total}€-t fizettünk?`,
+        };
+        return q(qStr[lang] ?? qStr.HU, km, t("equations", cc), 0, true);
+      },
+      () => {
+        // Age problem: in X years I'll be Y
+        const now = randInt(10, 25), inYears = randInt(3, 10);
+        const future = now + inYears;
+        const qStr: Record<string, string> = {
+          DE: `In ${inYears} Jahren bin ich ${future} Jahre alt. Wie alt bin ich jetzt?`,
+          RO: `Peste ${inYears} ani voi avea ${future} ani. Câți ani am acum?`,
+          EN: `In ${inYears} years I will be ${future} years old. How old am I now?`,
+          HU: `${inYears} év múlva ${future} éves leszek. Hány éves vagyok most?`,
+        };
+        return q(qStr[lang] ?? qStr.HU, now, t("equations", cc), 0, true);
       },
     ])();
   },
   inequalityWord: (cc) => {
-    const price = randInt(3,8), budget = randInt(20,40);
-    const maxItems = Math.floor(budget / price);
     const lang = getLang(cc);
-    let qStr: string;
-    switch(lang) {
-      case "DE": qStr = `Ein Heft kostet ${price}€. Du hast ${budget}€. Wie viele Hefte kannst du höchstens kaufen?`; break;
-      case "RO": qStr = `Un caiet costă ${price}€. Ai ${budget}€. Câte caiete poți cumpăra cel mult?`; break;
-      case "EN": qStr = `A notebook costs ${price}€. You have ${budget}€. What is the maximum number of notebooks you can buy?`; break;
-      default:   qStr = `Egy füzet ${price}€. Neked van ${budget}€. Legfeljebb hány füzetet vehetsz?`; break;
-    }
-    return q(qStr, maxItems, t("inequality", cc), 0, true);
+    return pick([
+      () => {
+        const price = randInt(3, 8), budget = randInt(20, 40);
+        const maxItems = Math.floor(budget / price);
+        const qStr: Record<string, string> = {
+          DE: `Ein Heft kostet ${price}€. Du hast ${budget}€. Wie viele Hefte kannst du höchstens kaufen?`,
+          RO: `Un caiet costă ${price}€. Ai ${budget}€. Câte caiete poți cumpăra cel mult?`,
+          EN: `A notebook costs ${price}€. You have ${budget}€. What is the maximum number you can buy?`,
+          HU: `Egy füzet ${price}€. Neked van ${budget}€. Legfeljebb hány füzetet vehetsz?`,
+        };
+        return q(qStr[lang] ?? qStr.HU, maxItems, t("inequality", cc), 0, true);
+      },
+      () => {
+        // Min. how many weeks to save up
+        const weekly = randInt(5, 15), goal = randInt(50, 150);
+        const minWeeks = Math.ceil(goal / weekly);
+        const qStr: Record<string, string> = {
+          DE: `Du sparst ${weekly}€ pro Woche. Mindestens wie viele Wochen brauchst du, um ${goal}€ zu sparen?`,
+          RO: `Economisești ${weekly}€ pe săptămână. Câte săptămâni trebuie cel puțin pentru a strânge ${goal}€?`,
+          EN: `You save ${weekly}€ per week. What is the minimum number of weeks to save ${goal}€?`,
+          HU: `Heti ${weekly}€-t takarítasz meg. Legalább hány hétre van szükség, hogy ${goal}€-t spórolj?`,
+        };
+        return q(qStr[lang] ?? qStr.HU, minWeeks, t("inequality", cc), 0, true);
+      },
+      () => {
+        // Max boxes that fit in a container
+        const boxW = randInt(2, 6), containerW = randInt(20, 50);
+        const maxBoxes = Math.floor(containerW / boxW);
+        const qStr: Record<string, string> = {
+          DE: `Jede Kiste ist ${boxW} cm breit. Wie viele Kisten passen höchstens in einen ${containerW} cm breiten Schrank?`,
+          RO: `Fiecare cutie are lățimea ${boxW} cm. Câte cutii încap cel mult într-un raft de ${containerW} cm?`,
+          EN: `Each box is ${boxW} cm wide. How many boxes fit at most in a ${containerW} cm wide shelf?`,
+          HU: `Minden doboz ${boxW} cm széles. Legfeljebb hány doboz fér el egy ${containerW} cm széles polcon?`,
+        };
+        return q(qStr[lang] ?? qStr.HU, maxBoxes, t("inequality", cc), 0, true);
+      },
+      () => {
+        // Minimum score on last test to reach average
+        const scores = [randInt(60, 80), randInt(65, 85)];
+        const needed = randInt(70, 85);
+        const minLast = needed * 3 - scores[0] - scores[1];
+        if (minLast < 0 || minLast > 100) {
+          // fallback to simpler variant
+          const price2 = randInt(4, 9), budget2 = randInt(25, 45);
+          const maxItems2 = Math.floor(budget2 / price2);
+          const qStr2: Record<string, string> = {
+            DE: `Ein Ticket kostet ${price2}€. Du hast ${budget2}€. Wie viele Tickets kannst du höchstens kaufen?`,
+            EN: `A ticket costs ${price2}€. You have ${budget2}€. How many tickets can you buy at most?`,
+            HU: `Egy jegy ${price2}€. Neked van ${budget2}€. Legfeljebb hány jegyet vehetsz?`,
+            RO: `Un bilet costă ${price2}€. Ai ${budget2}€. Câte bilete poți cumpăra cel mult?`,
+          };
+          return q(qStr2[lang] ?? qStr2.HU, maxItems2, t("inequality", cc), 0, true);
+        }
+        const qStr: Record<string, string> = {
+          DE: `In zwei Tests hat Anna ${scores[0]} und ${scores[1]} Punkte. Wie viele Punkte muss sie im dritten Test mindestens haben, um einen Durchschnitt von ${needed} zu erreichen?`,
+          RO: `Ana a obținut ${scores[0]} și ${scores[1]} puncte la două teste. Câte puncte trebuie să ia cel puțin la al treilea test pentru o medie de ${needed}?`,
+          EN: `Anna scored ${scores[0]} and ${scores[1]} on two tests. What minimum score does she need on the third test to average ${needed}?`,
+          HU: `Anna két dolgozatban ${scores[0]} és ${scores[1]} pontot kapott. Legalább hány pontra van szüksége a harmadik dolgozatban, hogy ${needed}-es átlagot érjen el?`,
+        };
+        return q(qStr[lang] ?? qStr.HU, minLast, t("inequality", cc), 0, true);
+      },
+    ])();
   },
   extAngle: (cc) => {
     const a = randInt(30,70), b = randInt(30,70);
@@ -3402,15 +3501,26 @@ const G7: Record<string, Generator> = {
       },
     ])();
   },
+  circleCircum: (cc) => {
+    // π ≈ 3 to match question text
+    const r = randInt(2, 8);
+    return q(qCircleCircumference(r, cc), 2 * 3 * r, t("circles", cc));
+  },
+  circleArea: (cc) => {
+    // π ≈ 3 to match question text
+    const r = randInt(2, 6);
+    return q(qCircleArea(r, cc), 3 * r * r, t("circles", cc));
+  },
   circleG7: (cc) => {
+    // Mixed: randomly picks circumference or area (used in mixed/visual topics)
     return pick([
-      () => { const r = randInt(2,8); return q(qCircleCircumference(r, cc), Math.round(2 * Math.PI * r * 100)/100, t("circles", cc)); },
-      () => { const r = randInt(2,6); return q(qCircleArea(r, cc), Math.round(Math.PI * r * r * 100)/100, t("circles", cc)); },
+      () => { const r = randInt(2, 8); return q(qCircleCircumference(r, cc), 2 * 3 * r, t("circles", cc)); },
+      () => { const r = randInt(2, 6); return q(qCircleArea(r, cc), 3 * r * r, t("circles", cc)); },
     ])();
   },
   cylinderVol: (cc) => {
-    const r = randInt(2,5), h = randInt(3,8);
-    return q(qVolumeCylinder(r, h, cc), Math.round(Math.PI * r * r * h * 10)/10, t("volume", cc));
+    const r = randInt(2, 5), h = randInt(3, 8);
+    return q(qVolumeCylinder(r, h, cc), 3 * r * r * h, t("volume", cc)); // π ≈ 3 matches question text
   },
   surfaceBox7: (cc) => {
     const a = randInt(2,7), b = randInt(2,7), c = randInt(2,7);
@@ -3421,9 +3531,15 @@ const G7: Record<string, Generator> = {
     return q(qMedianOf(nums, cc), nums[2], t("statistics", cc));
   },
   statsMode7: (cc) => {
-    const base = Array.from({length: 4}, () => randInt(1,10)) as number[];
-    const mode = pick(base);
-    const nums = [...base, mode].sort((x,y)=>x-y) as number[];
+    // Ensure all non-mode values are unique to avoid bimodal data
+    const mode = randInt(1, 8);
+    const others: number[] = [];
+    while (others.length < 4) {
+      const n = randInt(1, 10);
+      if (n !== mode && !others.includes(n)) others.push(n);
+    }
+    // mode appears twice, others appear once
+    const nums = [mode, mode, ...others].sort((x, y) => x - y) as number[];
     return q(qMode(nums, cc), mode, t("statistics", cc));
   },
   statsRange7: (cc) => {
@@ -3453,18 +3569,52 @@ const G7: Record<string, Generator> = {
     ])();
   },
   wordRatio7: (cc) => {
-    const a = randInt(1,5), b = randInt(1,5);
-    const total = randInt(3,8) * (a+b);
-    const partA = total * a / (a+b);
     const lang = getLang(cc);
-    let qStr: string;
-    switch(lang) {
-      case "DE": qStr = `${total}€ werden im Verhältnis ${a}:${b} aufgeteilt. Wie viel erhält der erste Teil?`; break;
-      case "RO": qStr = `${total}€ se împarte în raportul ${a}:${b}. Cât primește prima parte?`; break;
-      case "EN": qStr = `${total}€ is split in the ratio ${a}:${b}. How much does the first part get?`; break;
-      default:   qStr = `${total}€-t ${a}:${b} arányban osztanak el. Mennyi jut az első részre?`; break;
-    }
-    return q(qStr, partA, t("wordProblem", cc), 0, true);
+    return pick([
+      () => {
+        // Money split in ratio — ensure a !== b for non-trivial question
+        let a = randInt(1, 5), b = randInt(1, 5);
+        while (a === b) b = randInt(1, 5);
+        const total = randInt(2, 6) * (a + b);
+        const partA = total * a / (a + b);
+        const qStr: Record<string, string> = {
+          DE: `${total}€ werden im Verhältnis ${a}:${b} aufgeteilt. Wie viel erhält der größere Teil?`,
+          EN: `${total}€ is split in the ratio ${a}:${b}. How much does the larger part get?`,
+          HU: `${total}€-t ${a}:${b} arányban osztanak el. Mennyi jut a nagyobb részre?`,
+          RO: `${total}€ se împarte în raportul ${a}:${b}. Cât primește partea mai mare?`,
+        };
+        const larger = Math.max(partA, total - partA);
+        return q(qStr[lang] ?? qStr.EN, larger, t("wordProblem", cc), 0, true);
+      },
+      () => {
+        // Candy / fruit split in ratio
+        let a = randInt(1, 4), b = randInt(2, 5);
+        while (a === b) b = randInt(2, 5);
+        const total = randInt(2, 5) * (a + b);
+        const partA = total * a / (a + b);
+        const qStr: Record<string, string> = {
+          DE: `${total} Bonbons werden im Verhältnis ${a}:${b} aufgeteilt. Wie viele bekommt der erste?`,
+          EN: `${total} sweets are shared in the ratio ${a}:${b}. How many does the first person get?`,
+          HU: `${total} cukorkát ${a}:${b} arányban osztanak el. Mennyi jut az első személynek?`,
+          RO: `${total} bomboane se împart în raportul ${a}:${b}. Câte primește prima persoană?`,
+        };
+        return q(qStr[lang] ?? qStr.EN, partA, t("wordProblem", cc), 0, true);
+      },
+      () => {
+        // Distance split in ratio
+        let a = randInt(1, 4), b = randInt(2, 5);
+        while (a === b) b = randInt(2, 5);
+        const total = randInt(2, 5) * (a + b) * 10;
+        const partA = total * a / (a + b);
+        const qStr: Record<string, string> = {
+          DE: `Eine Strecke von ${total} km wird im Verhältnis ${a}:${b} aufgeteilt. Wie lang ist der erste Teil?`,
+          EN: `A ${total} km journey is divided in the ratio ${a}:${b}. How long is the first part?`,
+          HU: `Egy ${total} km-es utat ${a}:${b} arányban osztanak el. Mekkora az első rész?`,
+          RO: `O distanță de ${total} km se împarte în raportul ${a}:${b}. Cât este prima parte?`,
+        };
+        return q(qStr[lang] ?? qStr.EN, partA, t("wordProblem", cc), 0, true);
+      },
+    ])();
   },
 };
 
@@ -4515,7 +4665,7 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g7_pow_cube', name: 'Cubing Integers  (n³)',                          color: '#6366F1', icon: '³',  generators: [G7.power3] },
       { key: 'g7_pow_ten',  name: 'Powers of 10  (10², 10³, 10⁴)',                  color: '#4F46E5', icon: '🔟', generators: [G7.power10] },
       { key: 'g7_pow_expr', name: 'Expressions with Powers  (a² + b³)',             color: '#4338CA', icon: '✖️', generators: [G7.powerExpr] },
-      { key: 'g7_pow_neg',  name: 'Negative Bases  ((−n)²)',                        color: '#3730A3', icon: '−²', generators: [G7.powerNeg, G7.power2] },
+      { key: 'g7_pow_neg',  name: 'Negative Bases  ((−n)²)',                        color: '#3730A3', icon: '−²', generators: [G7.powerNeg] },
       { key: 'g7_powers_visual', name: 'Powers Grid – Visual  🟪',                  color: '#6366F1', icon: '🟪', generators: [G7.power2, G7.power3] },
     ]},
     { key: 'g7_alg', name: 'Algebraic Expressions', color: '#8B5CF6', icon: 'x', topics: [
@@ -4548,13 +4698,13 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
     { key: 'g7_pyth', name: 'Pythagorean Theorem', color: '#10B981', icon: '📐', topics: [
       { key: 'g7_pyth_hyp',  name: 'Find the Hypotenuse  (a² + b² = c²)',         color: '#6EE7B7', icon: '📐', generators: [G7.pythag34, G7.pythag68] },
       { key: 'g7_pyth_leg',  name: 'Find a Leg  (c² − a² = b²)',                  color: '#34D399', icon: '📐', generators: [G7.pythagLeg13, G7.pythagLeg10] },
-      { key: 'g7_pyth_mixed','name': 'Mixed Pythagorean Questions',                color: '#10B981', icon: '✳️', generators: [G7.pythag34, G7.pythagLeg13] },
+      { key: 'g7_pyth_mixed','name': 'Mixed Pythagorean Questions',                color: '#10B981', icon: '✳️', generators: [G7.pythag68, G7.pythagLeg10] },
       { key: 'g7_pyth_word', name: 'Word Problems  (ladder, diagonal)',            color: '#059669', icon: '📖', generators: [G7.pythagWord] },
-      { key: 'g7_pyth_visual', name: 'Pythagorean Theorem – Visual  📐',           color: '#34D399', icon: '📐', generators: [G7.pythag34, G7.pythagLeg13] },
+      { key: 'g7_pyth_visual', name: 'Pythagorean Theorem – Visual  📐',           color: '#34D399', icon: '📐', generators: [G7.pythag68, G7.pythagLeg10] },
     ]},
     { key: 'g7_geo', name: 'Area & Circle Geometry', color: '#0EA5E9', icon: '⭕', topics: [
-      { key: 'g7_geo_circle', name: 'Circumference  C = 2πr',                      color: '#38BDF8', icon: '⭕', generators: [G7.circleG7] },
-      { key: 'g7_geo_circA',  name: 'Area of a Circle  A = πr²',                  color: '#0EA5E9', icon: '🔵', generators: [G7.circleG7] },
+      { key: 'g7_geo_circle', name: 'Circumference  C = 2πr',                      color: '#38BDF8', icon: '⭕', generators: [G7.circleCircum] },
+      { key: 'g7_geo_circA',  name: 'Area of a Circle  A = πr²',                  color: '#0EA5E9', icon: '🔵', generators: [G7.circleArea] },
       { key: 'g7_geo_surf',   name: 'Surface Area of a Box  2(ab + bc + ac)',      color: '#0284C7', icon: '📦', generators: [G7.surfaceBox7] },
       { key: 'g7_circle_visual', name: 'Circle – Visual  ⭕',                      color: '#7DD3FC', icon: '⭕', generators: [G7.circleG7] },
     ]},
@@ -5146,7 +5296,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g7_pow_cube', name: 'Kubikzahlen  (n³)',                             color: '#6366F1', icon: '³',  generators: [G7.power3] },
       { key: 'g7_pow_ten',  name: 'Zehnerpotenzen  (10², 10³)',                    color: '#4F46E5', icon: '🔟', generators: [G7.power10] },
       { key: 'g7_pow_expr', name: 'Rechenausdrücke mit Potenzen',                  color: '#4338CA', icon: '✖️', generators: [G7.powerExpr] },
-      { key: 'g7_pow_neg',  name: 'Negative Basis  ((−n)²)',                       color: '#3730A3', icon: '−²', generators: [G7.powerNeg, G7.power2] },
+      { key: 'g7_pow_neg',  name: 'Negative Basis  ((−n)²)',                       color: '#3730A3', icon: '−²', generators: [G7.powerNeg] },
       { key: 'g7_powers_visual', name: 'Potenzen – Visuell  🟪',                   color: '#6366F1', icon: '🟪', generators: [G7.power2, G7.power3] },
     ]},
     { key: 'g7_alg', name: 'Terme & Algebra', color: '#8B5CF6', icon: 'x', topics: [
@@ -5179,13 +5329,13 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     { key: 'g7_pyth', name: 'Satz des Pythagoras', color: '#10B981', icon: '📐', topics: [
       { key: 'g7_pyth_hyp',  name: 'Hypotenuse berechnen  (a² + b² = c²)',        color: '#6EE7B7', icon: '📐', generators: [G7.pythag34, G7.pythag68] },
       { key: 'g7_pyth_leg',  name: 'Kathete berechnen  (c² − a² = b²)',           color: '#34D399', icon: '📐', generators: [G7.pythagLeg13, G7.pythagLeg10] },
-      { key: 'g7_pyth_mixed','name': 'Gemischte Pythagoras-Aufgaben',              color: '#10B981', icon: '✳️', generators: [G7.pythag34, G7.pythagLeg13] },
+      { key: 'g7_pyth_mixed','name': 'Gemischte Pythagoras-Aufgaben',              color: '#10B981', icon: '✳️', generators: [G7.pythag68, G7.pythagLeg10] },
       { key: 'g7_pyth_word', name: 'Pythagoras Sachaufgaben  (Leiter, Diagonale)', color: '#059669', icon: '📖', generators: [G7.pythagWord] },
-      { key: 'g7_pyth_visual', name: 'Pythagoras – Visuell  📐',                   color: '#34D399', icon: '📐', generators: [G7.pythag34, G7.pythagLeg13] },
+      { key: 'g7_pyth_visual', name: 'Pythagoras – Visuell  📐',                   color: '#34D399', icon: '📐', generators: [G7.pythag68, G7.pythagLeg10] },
     ]},
     { key: 'g7_geo', name: 'Flächen & Kreise', color: '#0EA5E9', icon: '⭕', topics: [
-      { key: 'g7_geo_circle', name: 'Kreisumfang  U = 2πr',                        color: '#38BDF8', icon: '⭕', generators: [G7.circleG7] },
-      { key: 'g7_geo_circA',  name: 'Kreisfläche  A = πr²',                        color: '#0EA5E9', icon: '🔵', generators: [G7.circleG7] },
+      { key: 'g7_geo_circle', name: 'Kreisumfang  U = 2πr',                        color: '#38BDF8', icon: '⭕', generators: [G7.circleCircum] },
+      { key: 'g7_geo_circA',  name: 'Kreisfläche  A = πr²',                        color: '#0EA5E9', icon: '🔵', generators: [G7.circleArea] },
       { key: 'g7_geo_surf',   name: 'Oberfläche eines Quaders  2(ab + bc + ac)',   color: '#0284C7', icon: '📦', generators: [G7.surfaceBox7] },
       { key: 'g7_circle_visual', name: 'Kreis – Visuell  ⭕',                      color: '#7DD3FC', icon: '⭕', generators: [G7.circleG7] },
     ]},
@@ -5714,7 +5864,7 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g7_pow_cube', name: 'Köbszámok  (n³)',                               color: '#6366F1', icon: '³',  generators: [G7.power3] },
       { key: 'g7_pow_ten',  name: 'Tíz hatványai  (10², 10³)',                     color: '#4F46E5', icon: '🔟', generators: [G7.power10] },
       { key: 'g7_pow_expr', name: 'Hatványos kifejezések  (a² + b³)',              color: '#4338CA', icon: '✖️', generators: [G7.powerExpr] },
-      { key: 'g7_pow_neg',  name: 'Negatív alap  ((−n)²)',                         color: '#3730A3', icon: '−²', generators: [G7.powerNeg, G7.power2] },
+      { key: 'g7_pow_neg',  name: 'Negatív alap  ((−n)²)',                         color: '#3730A3', icon: '−²', generators: [G7.powerNeg] },
       { key: 'g7_powers_visual', name: 'Hatványok – Vizuális  🟪',                 color: '#6366F1', icon: '🟪', generators: [G7.power2, G7.power3] },
     ]},
     { key: 'g7_alg', name: 'Algebrai kifejezések', color: '#8B5CF6', icon: 'x', topics: [
@@ -5747,13 +5897,13 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
     { key: 'g7_pyth', name: 'Pitagorasz-tétel', color: '#10B981', icon: '📐', topics: [
       { key: 'g7_pyth_hyp',  name: 'Átfogó kiszámítása  (a² + b² = c²)',         color: '#6EE7B7', icon: '📐', generators: [G7.pythag34, G7.pythag68] },
       { key: 'g7_pyth_leg',  name: 'Befogó kiszámítása  (c² − a² = b²)',         color: '#34D399', icon: '📐', generators: [G7.pythagLeg13, G7.pythagLeg10] },
-      { key: 'g7_pyth_mixed','name': 'Vegyes Pitagorasz-feladatok',               color: '#10B981', icon: '✳️', generators: [G7.pythag34, G7.pythagLeg13] },
+      { key: 'g7_pyth_mixed','name': 'Vegyes Pitagorasz-feladatok',               color: '#10B981', icon: '✳️', generators: [G7.pythag68, G7.pythagLeg10] },
       { key: 'g7_pyth_word', name: 'Szöveges feladatok  (létra, átló)',           color: '#059669', icon: '📖', generators: [G7.pythagWord] },
-      { key: 'g7_pyth_visual', name: 'Pitagorasz – Vizuális  📐',                 color: '#34D399', icon: '📐', generators: [G7.pythag34, G7.pythagLeg13] },
+      { key: 'g7_pyth_visual', name: 'Pitagorasz – Vizuális  📐',                 color: '#34D399', icon: '📐', generators: [G7.pythag68, G7.pythagLeg10] },
     ]},
     { key: 'g7_geo', name: 'Területek & Kör', color: '#0EA5E9', icon: '⭕', topics: [
-      { key: 'g7_geo_circle', name: 'Kerület  K = 2πr',                            color: '#38BDF8', icon: '⭕', generators: [G7.circleG7] },
-      { key: 'g7_geo_circA',  name: 'Körterület  T = πr²',                        color: '#0EA5E9', icon: '🔵', generators: [G7.circleG7] },
+      { key: 'g7_geo_circle', name: 'Kerület  K = 2πr',                            color: '#38BDF8', icon: '⭕', generators: [G7.circleCircum] },
+      { key: 'g7_geo_circA',  name: 'Körterület  T = πr²',                        color: '#0EA5E9', icon: '🔵', generators: [G7.circleArea] },
       { key: 'g7_geo_surf',   name: 'Téglatest felszíne  2(ab + bc + ac)',         color: '#0284C7', icon: '📦', generators: [G7.surfaceBox7] },
       { key: 'g7_circle_visual', name: 'Kör – Vizuális  ⭕',                       color: '#7DD3FC', icon: '⭕', generators: [G7.circleG7] },
     ]},
@@ -6278,7 +6428,7 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g7_pow_cube', name: 'Cuburi  (n³)',                                   color: '#6366F1', icon: '³',  generators: [G7.power3] },
       { key: 'g7_pow_ten',  name: 'Puteri ale lui 10  (10², 10³)',                  color: '#4F46E5', icon: '🔟', generators: [G7.power10] },
       { key: 'g7_pow_expr', name: 'Expresii cu puteri  (a² + b³)',                  color: '#4338CA', icon: '✖️', generators: [G7.powerExpr] },
-      { key: 'g7_pow_neg',  name: 'Baze negative  ((−n)²)',                         color: '#3730A3', icon: '−²', generators: [G7.powerNeg, G7.power2] },
+      { key: 'g7_pow_neg',  name: 'Baze negative  ((−n)²)',                         color: '#3730A3', icon: '−²', generators: [G7.powerNeg] },
       { key: 'g7_powers_visual', name: 'Puteri – Vizual  🟪',                      color: '#6366F1', icon: '🟪', generators: [G7.power2, G7.power3] },
     ]},
     { key: 'g7_alg', name: 'Expresii algebrice', color: '#8B5CF6', icon: 'x', topics: [
@@ -6311,13 +6461,13 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
     { key: 'g7_pyth', name: 'Teorema lui Pitagora', color: '#10B981', icon: '📐', topics: [
       { key: 'g7_pyth_hyp',  name: 'Calculul ipotenuzei  (a² + b² = c²)',         color: '#6EE7B7', icon: '📐', generators: [G7.pythag34, G7.pythag68] },
       { key: 'g7_pyth_leg',  name: 'Calculul unei catete  (c² − a² = b²)',        color: '#34D399', icon: '📐', generators: [G7.pythagLeg13, G7.pythagLeg10] },
-      { key: 'g7_pyth_mixed','name': 'Probleme mixte Pitagora',                    color: '#10B981', icon: '✳️', generators: [G7.pythag34, G7.pythagLeg13] },
+      { key: 'g7_pyth_mixed','name': 'Probleme mixte Pitagora',                    color: '#10B981', icon: '✳️', generators: [G7.pythag68, G7.pythagLeg10] },
       { key: 'g7_pyth_word', name: 'Probleme aplicative  (scară, diagonală)',      color: '#059669', icon: '📖', generators: [G7.pythagWord] },
-      { key: 'g7_pyth_visual', name: 'Pitagora – Vizual  📐',                      color: '#34D399', icon: '📐', generators: [G7.pythag34, G7.pythagLeg13] },
+      { key: 'g7_pyth_visual', name: 'Pitagora – Vizual  📐',                      color: '#34D399', icon: '📐', generators: [G7.pythag68, G7.pythagLeg10] },
     ]},
     { key: 'g7_geo', name: 'Arii & Cerc', color: '#0EA5E9', icon: '⭕', topics: [
-      { key: 'g7_geo_circle', name: 'Circumferința cercului  C = 2πr',             color: '#38BDF8', icon: '⭕', generators: [G7.circleG7] },
-      { key: 'g7_geo_circA',  name: 'Aria cercului  A = πr²',                      color: '#0EA5E9', icon: '🔵', generators: [G7.circleG7] },
+      { key: 'g7_geo_circle', name: 'Circumferința cercului  C = 2πr',             color: '#38BDF8', icon: '⭕', generators: [G7.circleCircum] },
+      { key: 'g7_geo_circA',  name: 'Aria cercului  A = πr²',                      color: '#0EA5E9', icon: '🔵', generators: [G7.circleArea] },
       { key: 'g7_geo_surf',   name: 'Aria totală a unui paralelipiped',             color: '#0284C7', icon: '📦', generators: [G7.surfaceBox7] },
       { key: 'g7_circle_visual', name: 'Cerc – Vizual  ⭕',                        color: '#7DD3FC', icon: '⭕', generators: [G7.circleG7] },
     ]},
