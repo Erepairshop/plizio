@@ -707,6 +707,9 @@ export default function AstroMathG1Page() {
   const [missionScore, setMissionScore] = useState({ score: 0, total: 0 });
   const [earnedCard, setEarnedCard] = useState<CardRarity | null>(null);
   const [checkpointScore, setCheckpointScore] = useState({ score: 0, total: 10 });
+  const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
+  // Flag: did completing the last mission just unlock an island for the first time?
+  const [justUnlockedIsland, setJustUnlockedIsland] = useState(false);
 
   useEffect(() => {
     setProgress(loadG1Progress());
@@ -732,7 +735,10 @@ export default function AstroMathG1Page() {
     if (!activeIsland || !activeMission) return;
     setMissionScore({ score, total });
 
+    const wasIslandDone = progress.completedIslands.includes(activeIsland.id);
     const newProgress = completeMission(progress, activeIsland.id, activeMission.id);
+    const isNowIslandDone = newProgress.completedIslands.includes(activeIsland.id);
+    setJustUnlockedIsland(!wasIslandDone && isNowIslandDone);
     saveG1Progress(newProgress);
     setProgress(newProgress);
 
@@ -742,22 +748,20 @@ export default function AstroMathG1Page() {
   // ── After mission-done: check if island complete ─────────────────────────────
   const handleAfterMission = useCallback(() => {
     if (!activeIsland) return;
-    const allDone = activeIsland.missions.every((m) =>
-      progress.completedMissions.includes(`${activeIsland.id}_${m.id}`)
-    );
-    if (allDone) {
-      // Award card + RewardReveal
+    if (justUnlockedIsland) {
+      // First-time island completion — award card
       const rarity = calculateRarity(missionScore.score, missionScore.total, 0, false);
       saveCard({ id: generateCardId(), game: "astromath", rarity, score: missionScore.score, total: missionScore.total, date: new Date().toISOString() });
       window.dispatchEvent(new Event("plizio-cards-changed"));
       incrementTotalGames();
       checkNewMilestones();
       setEarnedCard(rarity);
+      setRewardScore({ score: missionScore.score, total: missionScore.total });
       setScreen("reward");
     } else {
       setScreen("mission-select");
     }
-  }, [activeIsland, progress, missionScore]);
+  }, [activeIsland, justUnlockedIsland, missionScore]);
 
   // ── Checkpoint ───────────────────────────────────────────────────────────────
   const startCheckpoint = useCallback((testId: string) => {
@@ -787,6 +791,7 @@ export default function AstroMathG1Page() {
     incrementTotalGames();
     checkNewMilestones();
     setEarnedCard(rarity);
+    setRewardScore({ score, total });
     setScreen("reward");
   }, [activeTestId, progress]);
 
@@ -959,7 +964,7 @@ export default function AstroMathG1Page() {
     return (
       <>
         <RewardReveal rarity={earnedCard} game="astromath"
-          score={missionScore.score} total={missionScore.total}
+          score={rewardScore.score} total={rewardScore.total}
           onDone={() => {
             if (activeTestId) {
               setScreen("checkpoint-done");
