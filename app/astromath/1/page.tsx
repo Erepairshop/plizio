@@ -1400,6 +1400,13 @@ export default function AstroMathG1Page() {
         <div className="relative z-10 flex-1 overflow-y-auto">
           <div className="max-w-sm mx-auto px-2 pb-6" style={{ minHeight: MAP_H + 40 }}>
             <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} />
+            {/* Blog link */}
+            <div className="flex justify-center pt-2 pb-4">
+              <a href={lang === "hu" ? "/blog/matek-tanulas-astromath/" : lang === "ro" ? "/blog/matematica-astromath/" : "/blog/free-math-games-kids/"}
+                className="text-white/30 text-xs font-medium hover:text-white/60 transition-colors">
+                📖 {lang === "hu" ? "Hogyan működik az AstroMath?" : lang === "ro" ? "Cum funcționează AstroMath?" : "How does AstroMath work?"}
+              </a>
+            </div>
           </div>
         </div>
       </div>
