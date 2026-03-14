@@ -810,7 +810,7 @@ const VISUAL_TOPIC_KEYS = new Set([
   'g8_trans_visual', 'g8_stat_visual', 'g8_cyl_surface_visual', 'g8_ineq_visual',
 ]);
 
-function isVisualTopicKey(key: string): boolean {
+export function isVisualTopicKey(key: string): boolean {
   return VISUAL_TOPIC_KEYS.has(key);
 }
 
