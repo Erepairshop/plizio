@@ -1,8 +1,9 @@
 "use client";
-import { useState, useEffect, useCallback, useRef } from "react";
+import { useState, useEffect, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { Home, X, ChevronRight, ChevronLeft, Check, Volume2 } from "lucide-react";
+import dynamic from "next/dynamic";
 import { useLang } from "@/components/LanguageProvider";
 import RewardReveal from "@/components/RewardReveal";
 import MilestonePopup from "@/components/MilestonePopup";
@@ -10,6 +11,13 @@ import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, checkNewMilestones } from "@/lib/milestones";
 import type { CardRarity } from "@/lib/cards";
 import type { MathQuestion } from "@/lib/mathCurriculum";
+import { getGender, type AvatarGender } from "@/lib/gender";
+import { getSkinDef, getActiveSkin } from "@/lib/skins";
+import { getFaceDef, getActiveFace } from "@/lib/faces";
+import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
+import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/accessories";
+
+const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
   G1_ISLANDS, CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang,
   loadG1Progress, saveG1Progress, type G1Progress,
@@ -23,28 +31,88 @@ const LANG_TO_TTS: Record<string, string> = {
   hu: "hu-HU", de: "de-DE", en: "en-US", ro: "ro-RO",
 };
 
-function emojiToSpoken(text: string): string {
-  // Replace each consecutive run of emojis with their count (if >1) or remove (if single decorative)
-  // e.g. "🍎🍎🍎 + 🍎🍎 = ?" → "3 + 2 = ?"
-  // e.g. "🚀 Számolj!" → " Számolj!" → "Számolj!"
+// Per-language TTS tuning: slower rate + neutral pitch helps robotic voices
+const LANG_TTS_PARAMS: Record<string, { rate: number; pitch: number }> = {
+  hu: { rate: 0.78, pitch: 1.0 },   // HU voices are often robotic — slower helps
+  de: { rate: 0.88, pitch: 1.1 },
+  en: { rate: 0.90, pitch: 1.1 },
+  ro: { rate: 0.84, pitch: 1.05 },
+};
+
+// Cache the chosen voice per BCP-47 code so we don't re-scan every time
+const voiceCache: Record<string, SpeechSynthesisVoice | null> = {};
+
+function getBestVoice(bcp47: string): SpeechSynthesisVoice | null {
+  if (bcp47 in voiceCache) return voiceCache[bcp47];
+  const voices = window.speechSynthesis.getVoices();
+  if (!voices.length) return null; // not loaded yet — caller retries
+
+  const baseLang = bcp47.split("-")[0].toLowerCase();
+
+  // Priority 1: exact lang match + quality keyword (Google/Enhanced/Premium/Neural)
+  const premium = voices.find(v =>
+    v.lang.toLowerCase() === bcp47.toLowerCase() &&
+    /google|enhanced|premium|neural/i.test(v.name)
+  );
+  if (premium) return (voiceCache[bcp47] = premium);
+
+  // Priority 2: any quality keyword for the base language
+  const premiumBase = voices.find(v =>
+    v.lang.toLowerCase().startsWith(baseLang) &&
+    /google|enhanced|premium|neural/i.test(v.name)
+  );
+  if (premiumBase) return (voiceCache[bcp47] = premiumBase);
+
+  // Priority 3: exact BCP-47 match
+  const exact = voices.find(v => v.lang.toLowerCase() === bcp47.toLowerCase());
+  if (exact) return (voiceCache[bcp47] = exact);
+
+  // Priority 4: base language match
+  const base = voices.find(v => v.lang.toLowerCase().startsWith(baseLang));
+  return (voiceCache[bcp47] = base ?? null);
+}
+
+function emojiToSpoken(text: string, lang = "en"): string {
+  const ops: Record<string, Record<string, string>> = {
+    minus:  { de: "minus", en: "minus", hu: "mínusz", ro: "minus" },
+    plus:   { de: "plus",  en: "plus",  hu: "plusz",  ro: "plus"  },
+    times:  { de: "mal",   en: "times", hu: "szorozva", ro: "înmulțit cu" },
+    div:    { de: "geteilt durch", en: "divided by", hu: "osztva", ro: "împărțit la" },
+    equals: { de: "gleich", en: "equals", hu: "egyenlő", ro: "egal cu" },
+  };
+  const l = lang in ops.minus ? lang : "en";
   return text
+    // emoji runs → count or remove
     .replace(/[\p{Emoji_Presentation}\p{Extended_Pictographic}]+/gu, (run) => {
       const count = [...run].length;
       return count > 1 ? String(count) : "";
     })
+    // math operators → spoken words (order matters: longer first)
+    .replace(/\s*÷\s*/g, ` ${ops.div[l]} `)
+    .replace(/\s*×\s*/g, ` ${ops.times[l]} `)
+    .replace(/\s*\*\s*/g, ` ${ops.times[l]} `)
+    .replace(/\s*-\s*/g, ` ${ops.minus[l]} `)
+    .replace(/\s*\+\s*/g, ` ${ops.plus[l]} `)
+    .replace(/\s*=\s*\?/g, ` ${ops.equals[l]} ?`)
+    .replace(/\s*=\s*/g, ` ${ops.equals[l]} `)
+    .replace(/\?/g, "")
     .replace(/\s+/g, " ")
     .trim();
 }
 
 function speak(text: string, lang: string) {
   if (typeof window === "undefined" || !window.speechSynthesis) return;
-  const clean = emojiToSpoken(text);
+  const clean = emojiToSpoken(text, lang);
   if (!clean) return;
   window.speechSynthesis.cancel();
   const utt = new SpeechSynthesisUtterance(clean);
-  utt.lang = LANG_TO_TTS[lang] ?? "en-US";
-  utt.rate = 0.88;
-  utt.pitch = 1.1;
+  const bcp47 = LANG_TO_TTS[lang] ?? "en-US";
+  const params = LANG_TTS_PARAMS[lang] ?? { rate: 0.88, pitch: 1.1 };
+  utt.lang = bcp47;
+  utt.rate = params.rate;
+  utt.pitch = params.pitch;
+  const voice = getBestVoice(bcp47);
+  if (voice) utt.voice = voice;
   window.speechSynthesis.speak(utt);
 }
 
@@ -153,6 +221,7 @@ const STAR_DATA = Array.from({ length: 60 }, (_, i) => ({
 const SHOOT_DATA = Array.from({ length: 4 }, (_, i) => ({
   id: i, startX: 15 + i * 22, dur: 3.5 + i * 1.2, delay: 4 + i * 5,
 }));
+
 function Starfield() {
   return (
     <div className="absolute inset-0 overflow-hidden pointer-events-none">
@@ -366,8 +435,9 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
 }
 
 // ─── Orbit Quiz ────────────────────────────────────────────────────────────────
-function OrbitQuiz({ questions, color, onDone }: {
+function OrbitQuiz({ questions, color, onDone, onCorrect, onWrong }: {
   questions: MathQuestion[]; color: string; onDone: (score: number, total: number) => void;
+  onCorrect?: () => void; onWrong?: () => void;
 }) {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
@@ -394,8 +464,11 @@ function OrbitQuiz({ questions, color, onDone }: {
     if (String(opt) === String(q?.correctAnswer)) {
       scoreRef.current += 1;
       setScore(scoreRef.current);
+      onCorrect?.();
+    } else {
+      onWrong?.();
     }
-  }, [confirmed, q]);
+  }, [confirmed, q, onCorrect, onWrong]);
 
   const next = useCallback(() => {
     if (idx + 1 >= questions.length) {
@@ -477,8 +550,9 @@ function OrbitQuiz({ questions, color, onDone }: {
 }
 
 // ─── Black Hole (same as OrbitQuiz, different styling) ─────────────────────────
-function BlackHole({ questions, color, onDone }: {
+function BlackHole({ questions, color, onDone, onCorrect, onWrong }: {
   questions: MathQuestion[]; color: string; onDone: (score: number, total: number) => void;
+  onCorrect?: () => void; onWrong?: () => void;
 }) {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
@@ -504,8 +578,11 @@ function BlackHole({ questions, color, onDone }: {
     if (String(opt) === String(q?.correctAnswer)) {
       scoreRef.current += 1;
       setScore(scoreRef.current);
+      onCorrect?.();
+    } else {
+      onWrong?.();
     }
-  }, [confirmed, q]);
+  }, [confirmed, q, onCorrect, onWrong]);
 
   const next = useCallback(() => {
     if (idx + 1 >= questions.length) onDone(scoreRef.current, questions.length);
@@ -890,6 +967,7 @@ function NumberDuel({ sortRange, color, onDone }: {
     lockRef.current = true;
     const isRight = val === correctAnswer;
     const newCorrect = isRight ? correct + 1 : correct;
+    if (isRight) setCorrect(newCorrect);
     setFeedback(isRight ? "correct" : "wrong");
     setTimeout(() => {
       const nextRound = round + 1;
@@ -988,7 +1066,16 @@ function RocketLaunch({ questions, color, onDone }: {
   const lockRef = useRef(false);
 
   const q = questions[idx];
-  const opts = q?.options?.slice(0, 2) ?? []; // only 2 options for speed
+  // Build 2-option set: correct answer is ALWAYS included, plus one wrong answer.
+  // Stable order per question (idx % 2) so it doesn't re-randomize on re-render.
+  const opts = useMemo(() => {
+    const all = (q?.options ?? []).map(String);
+    const correct = String(q?.correctAnswer ?? "");
+    const wrongs = all.filter(o => o !== correct);
+    if (!all.length) return [];
+    const wrong = wrongs[0] ?? String(Number(correct) + 1);
+    return idx % 2 === 0 ? [correct, wrong] : [wrong, correct];
+  }, [idx, q]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Auto-read question
   useEffect(() => {
@@ -1261,20 +1348,61 @@ export default function AstroMathG1Page() {
   // Flag: did completing the last mission just unlock an island for the first time?
   const [justUnlockedIsland, setJustUnlockedIsland] = useState(false);
 
+  // ── Avatar state ──────────────────────────────────────────────────────────────
+  const [gender] = useState<AvatarGender>(() => getGender());
+  const [activeSkin] = useState(() => getSkinDef(getActiveSkin()));
+  const [activeFace] = useState(() => getFaceDef(getActiveFace()));
+  const [activeTop] = useState(() => { const id = getActive("top"); return id ? getTopDef(id) : null; });
+  const [activeBottom] = useState(() => { const id = getActive("bottom"); return id ? getBottomDef(id) : null; });
+  const [activeShoe] = useState(() => { const id = getActive("shoe"); return id ? getShoeDef(id) : null; });
+  const [activeCape] = useState(() => { const id = getActive("cape"); return id ? getCapeDef(id) : null; });
+  const [activeGlasses] = useState(() => { const id = getActive("glasses"); return id ? getGlassesDef(id) : null; });
+  const [activeGloves] = useState(() => { const id = getActive("gloves"); return id ? getGloveDef(id) : null; });
+  const [activeHat] = useState(() => { const id = getActiveHat(); return id ? getHatDef(id) : null; });
+  const [activeTrail] = useState(() => { const id = getActiveTrail(); return id ? getTrailDef(id) : null; });
+  const [avatarMood, setAvatarMood] = useState<"idle"|"focused"|"happy"|"disappointed"|"victory"|"surprised"|"confused"|"laughing">("idle");
+  const [jumpTrigger, setJumpTrigger] = useState<{ reaction: "happy" | "victory" | null; timestamp: number } | undefined>(undefined);
+  // Map: which island is the avatar currently standing on
+  const [avatarIslandId, setAvatarIslandId] = useState<string>("i1");
+  const [avatarWalking, setAvatarWalking] = useState(false);
+  const walkTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  const avatarIsland = G1_ISLANDS.find(i => i.id === avatarIslandId) ?? G1_ISLANDS[0];
+
+  const avatarProps = {
+    gender, activeSkin, activeFace,
+    activeTop, activeBottom, activeShoe, activeCape, activeGlasses, activeGloves,
+    activeHat, activeTrail,
+  };
+
   useEffect(() => {
-    setProgress(loadG1Progress());
+    const p = loadG1Progress();
+    setProgress(p);
+    // Place avatar at last completed island (or i1)
+    const lastDone = [...G1_ISLANDS].reverse().find(i => p.completedIslands.includes(i.id));
+    if (lastDone) setAvatarIslandId(lastDone.id);
   }, []);
 
   // ── Island selected ──────────────────────────────────────────────────────────
   const handleIslandSelect = useCallback((island: IslandDef) => {
-    setActiveIsland(island);
-    setScreen("island-intro");
-  }, []);
+    // Walk avatar to the island, then open intro after a short delay
+    if (walkTimerRef.current) clearTimeout(walkTimerRef.current);
+    setAvatarIslandId(island.id);
+    setAvatarWalking(true);
+    setAvatarMood("happy");
+    walkTimerRef.current = setTimeout(() => {
+      setAvatarWalking(false);
+      setAvatarMood("idle");
+      setActiveIsland(island);
+      setScreen("island-intro");
+    }, avatarIslandId === island.id ? 0 : 700);
+  }, [avatarIslandId]);
 
   // ── Start mission ────────────────────────────────────────────────────────────
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
+    setAvatarMood("focused");
     if (mission.gameType === "number-duel" || mission.gameType === "gravity-sort") {
       // No questions needed — uses sortRange directly
       setQuestions([]);
@@ -1303,6 +1431,8 @@ export default function AstroMathG1Page() {
     saveG1Progress(newProgress);
     setProgress(newProgress);
 
+    const pct2 = total > 0 ? Math.round((score / total) * 100) : 0;
+    setAvatarMood(pct2 >= 60 ? "victory" : "disappointed");
     setScreen("mission-done");
   }, [activeIsland, activeMission, progress]);
 
@@ -1327,6 +1457,7 @@ export default function AstroMathG1Page() {
   // ── Checkpoint ───────────────────────────────────────────────────────────────
   const startCheckpoint = useCallback((testId: string) => {
     setActiveTestId(testId);
+    setAvatarMood("focused");
     // Generate rocket-launch warm-up questions from checkpoint topics
     const qs = generateCheckpointQuestions(testId, lang as Lang, ROCKET_ROUNDS);
     setQuestions(qs);
@@ -1360,6 +1491,7 @@ export default function AstroMathG1Page() {
   }, [activeTestId, progress]);
 
   const goToMap = useCallback(() => {
+    setAvatarMood("idle");
     setScreen("island-map");
     setActiveIsland(null);
     setActiveMission(null);
@@ -1399,7 +1531,38 @@ export default function AstroMathG1Page() {
         {/* Scrollable map */}
         <div className="relative z-10 flex-1 overflow-y-auto">
           <div className="max-w-sm mx-auto px-2 pb-6" style={{ minHeight: MAP_H + 40 }}>
-            <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} />
+            <div className="relative">
+              <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} />
+              {/* Avatar walks on the map between islands — absolute so it scrolls with the map */}
+              <motion.div
+                className="absolute pointer-events-none z-10"
+                style={{ width: 48, height: 48, transform: "translate(-50%, -75%)" }}
+                animate={{
+                  left: `${(avatarIsland.svgX / MAP_W) * 100}%`,
+                  top: `${((avatarIsland.svgY + MAP_VB_OFFSET) / MAP_H) * 100}%`,
+                  opacity: 1,
+                }}
+                initial={{ opacity: 0 }}
+                transition={avatarWalking
+                  ? { left: { duration: 0.65, ease: "easeInOut" }, top: { duration: 0.65, ease: "easeInOut" }, opacity: { duration: 0.4 } }
+                  : { opacity: { delay: 0.5, duration: 0.5 } }
+                }
+              >
+                <AvatarCompanion
+                  fixed={false}
+                  mood={avatarWalking ? "happy" : "idle"}
+                  passThrough={true}
+                  {...avatarProps}
+                />
+              </motion.div>
+            </div>
+            {/* Blog link */}
+            <div className="flex justify-center pt-2 pb-4">
+              <a href={lang === "hu" ? "/blog/matek-tanulas-astromath/" : lang === "ro" ? "/blog/matematica-astromath/" : "/blog/free-math-games-kids/"}
+                className="text-white/30 text-xs font-medium hover:text-white/60 transition-colors">
+                📖 {lang === "hu" ? "Hogyan működik az AstroMath?" : lang === "ro" ? "Cum funcționează AstroMath?" : "How does AstroMath work?"}
+              </a>
+            </div>
           </div>
         </div>
       </div>
@@ -1518,10 +1681,14 @@ export default function AstroMathG1Page() {
       {/* Game */}
       <div className="relative z-10 flex-1 flex flex-col justify-center px-4 pb-6">
         {screen === "orbit-quiz" && questions.length > 0 && (
-          <OrbitQuiz questions={questions} color={bgColor} onDone={handleMissionDone} />
+          <OrbitQuiz questions={questions} color={bgColor} onDone={handleMissionDone}
+            onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
+            onWrong={() => setAvatarMood("disappointed")} />
         )}
         {screen === "black-hole" && questions.length > 0 && (
-          <BlackHole questions={questions} color={bgColor} onDone={handleMissionDone} />
+          <BlackHole questions={questions} color={bgColor} onDone={handleMissionDone}
+            onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
+            onWrong={() => setAvatarMood("disappointed")} />
         )}
         {screen === "gravity-sort" && activeIsland && (
           <GravitySort sortRange={activeIsland.sortRange} color={bgColor} onDone={handleMissionDone} />
@@ -1536,11 +1703,17 @@ export default function AstroMathG1Page() {
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel"].includes(screen)) return gameScreen;
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel"].includes(screen)) return (
+    <>
+      {gameScreen}
+      <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
+    </>
+  );
 
   // ─── ROCKET LAUNCH (checkpoint warm-up) ──────────────────────────────────────
   if (screen === "rocket-launch" && activeTestId) {
     return (
+      <>
       <div className="min-h-screen flex flex-col relative overflow-hidden"
         style={{ background: "radial-gradient(ellipse at 50% 0%, rgba(255,165,0,0.18) 0%, #060614 55%)" }}>
         <Starfield />
@@ -1556,6 +1729,8 @@ export default function AstroMathG1Page() {
             onDone={() => setScreen("checkpoint-intro")} />
         </div>
       </div>
+      <AvatarCompanion fixed={true} mood="focused" {...avatarProps} />
+      </>
     );
   }
 
@@ -1634,17 +1809,22 @@ export default function AstroMathG1Page() {
   // ─── CHECKPOINT QUIZ ─────────────────────────────────────────────────────────
   if (screen === "checkpoint-quiz" && questions.length > 0) {
     return (
-      <div className="min-h-screen flex flex-col relative overflow-hidden"
-        style={{ background: "radial-gradient(ellipse at 50% 0%, rgba(255,215,0,0.12) 0%, #060614 55%)" }}>
-        <Starfield />
-        <div className="relative z-10 flex items-center gap-3 px-4 pt-5 pb-3">
-          <button onClick={goToMap} className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={14} /></button>
-          <p className="text-white/70 text-sm font-bold flex-1">{t.checkpointTitle}</p>
+      <>
+        <div className="min-h-screen flex flex-col relative overflow-hidden"
+          style={{ background: "radial-gradient(ellipse at 50% 0%, rgba(255,215,0,0.12) 0%, #060614 55%)" }}>
+          <Starfield />
+          <div className="relative z-10 flex items-center gap-3 px-4 pt-5 pb-3">
+            <button onClick={goToMap} className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={14} /></button>
+            <p className="text-white/70 text-sm font-bold flex-1">{t.checkpointTitle}</p>
+          </div>
+          <div className="relative z-10 flex-1 flex flex-col justify-center px-4 pb-6">
+            <OrbitQuiz questions={questions} color="#FFD700" onDone={handleCheckpointDone}
+              onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
+              onWrong={() => setAvatarMood("disappointed")} />
+          </div>
         </div>
-        <div className="relative z-10 flex-1 flex flex-col justify-center px-4 pb-6">
-          <OrbitQuiz questions={questions} color="#FFD700" onDone={handleCheckpointDone} />
-        </div>
-      </div>
+        <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
+      </>
     );
   }
 

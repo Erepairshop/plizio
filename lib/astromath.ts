@@ -58,7 +58,7 @@ export const CHECKPOINT_MAP: Record<string, string[]> = {
 
 export const CHECKPOINT_TOPICS: Record<string, string[]> = {
   test1: ["g1_count", "g1_compare", "g1_tausch", "g1_zahlzerlegung", "g1_ergaenzen", "g1_subpics"],
-  test2: ["g1_verdoppeln", "g1_halbieren", "g1_sequence", "g1_num1120", "g1_place_value20"],
+  test2: ["g1_verdoppeln", "g1_halbieren", "g1_num1120", "g1_place_value20", "g1_ergaenzen"],
   test3: ["g1_shapes", "g1_spatial", "g1_clock", "g1_coins", "g1_weight", "g1_volume"],
 };
 

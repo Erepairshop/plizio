@@ -1259,6 +1259,16 @@ export default function MathTestPage() {
               </motion.button>
             ))}
           </motion.div>
+
+          {/* Blog link */}
+          {(() => {
+            const l = getLanguage();
+            const href = l === "hu" ? "/blog/matek-teszt-online/" : l === "ro" ? "/blog/test-matematica-online/" : l === "de" ? "/blog/mathe-test-vorbereitung/" : "/blog/free-math-games-kids/";
+            const label = l === "hu" ? "📖 Hogyan segít a matek teszt?" : l === "ro" ? "📖 Cum te ajută testul?" : l === "de" ? "📖 Tipps zur Vorbereitung" : "📖 How to use Math Test";
+            return (
+              <a href={href} className="text-white/30 text-xs font-medium hover:text-white/60 transition-colors mt-2">{label}</a>
+            );
+          })()}
         </div>
         </main>
         <AvatarCompanion mood={avatarMood} gender={avatarGender} activeSkin={avatarSkin} activeFace={avatarFace} activeTop={avatarTop} activeBottom={avatarBottom} activeShoe={avatarShoe} activeCape={avatarCape} activeGlasses={avatarGlasses} activeGloves={avatarGloves} activeHat={avatarHat} activeTrail={avatarTrail} />
