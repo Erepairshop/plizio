@@ -53,9 +53,9 @@ export const G4_ISLANDS: IslandDef[] = [
     icon: "✖️", color: "#00D4FF", sortRange: [50, 500],
     topicKeys: ["mul"],
     missions: [
-      { id: "m1", gameType: "speed-round",    icon: "⚡", label: { en: "Speed Round",    hu: "Gyors kör",       de: "Speedrunde",      ro: "Rundă rapidă"     } },
-      { id: "m2", gameType: "equation-drill", icon: "🧮", label: { en: "Equation Drill",  hu: "Egyenlet drill",  de: "Gleichungs-Drill", ro: "Ecuații"          } },
-      { id: "m3", gameType: "star-match",     icon: "⭐", label: { en: "Star Match",      hu: "Csillagpárosítás", de: "Sternenpaare",   ro: "Perechi stele"    } },
+      { id: "m1", gameType: "concept-explorer", icon: "🔍", label: { en: "Discover Arrays",  hu: "Felfedezés",      de: "Entdecken",       ro: "Descoperire"      } },
+      { id: "m2", gameType: "equation-drill",   icon: "🧮", label: { en: "Equation Drill",   hu: "Egyenlet drill",  de: "Gleichungs-Drill", ro: "Ecuații"          } },
+      { id: "m3", gameType: "star-match",       icon: "⭐", label: { en: "Star Match",       hu: "Csillagpárosítás", de: "Sternenpaare",   ro: "Perechi stele"    } },
     ],
     svgX: 80, svgY: 440,
   },

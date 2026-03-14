@@ -26,6 +26,7 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import FractionVisual from "@/app/astromath/games/FractionVisual";
 import EquationDrill from "@/app/astromath/games/EquationDrill";
+import ConceptExplorer from "@/app/astromath/games/ConceptExplorer";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -58,6 +59,7 @@ type Screen =
   | "speed-round"
   | "fraction-visual"
   | "equation-drill"
+  | "concept-explorer"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -432,7 +434,7 @@ export default function AstroMathG4Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    if (mission.gameType === "number-duel" || mission.gameType === "gravity-sort" || mission.gameType === "fraction-visual") {
+    if (mission.gameType === "number-duel" || mission.gameType === "gravity-sort" || mission.gameType === "fraction-visual" || mission.gameType === "concept-explorer") {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
       return;
@@ -722,11 +724,14 @@ export default function AstroMathG4Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "concept-explorer" && (
+          <ConceptExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "concept-explorer"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

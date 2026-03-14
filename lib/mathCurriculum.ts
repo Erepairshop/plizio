@@ -5160,6 +5160,16 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'messAufgaben', name: 'Textaufgaben (Messen & Geld)', color: '#EF4444', icon: '📏', generators: [G4.volumeWord, G4.moneyWord, G4.unitLengthsWord] },
       { key: 'mehrschritt', name: 'Mehrschrittige Aufgaben', color: '#DC2626', icon: '🔢', generators: [G4.word1, G4.word2, G4.word3] },
     ]},
+    { key: 'g4_astro_aliases', name: 'AstroMath Aliases', color: '#6366F1', icon: '🚀', topics: [
+      { key: 'place',       name: 'Stellenwert (bis 10 000)',        color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.sequence] },
+      { key: 'place1k',     name: 'Zahlen bis 1000',                 color: '#93C5FD', icon: '🔢', generators: [G4.placeValue, G3.sequence] },
+      { key: 'frac',        name: 'Brüche',                          color: '#A78BFA', icon: '½',  generators: [G4.fraction, G4.fractionB] },
+      { key: 'geo',         name: 'Geometrie',                       color: '#FBBF24', icon: '📐', generators: [G4.geometry, G4.geometryB] },
+      { key: 'angles',      name: 'Winkel',                          color: '#EC4899', icon: '📐', generators: [G4.winkelTyp, G4.winkelKlasse, G4.dreieckWinkel] },
+      { key: 'symmetry_en', name: 'Symmetrie',                       color: '#BE185D', icon: '🪞', generators: [G4.symmetrieAchsen] },
+      { key: 'units',       name: 'Einheiten',                       color: '#F59E0B', icon: '📏', generators: [G4.units] },
+      { key: 'word',        name: 'Sachaufgaben',                    color: '#EF4444', icon: '📖', generators: [G4.word1, G4.word2, G4.word3] },
+    ]},
   ],
   5: [
     { key: 'g5_vis_numbers', name: 'Visuell: Zahlen & Stellenwert', color: '#3B82F6', icon: '🖼️', topics: [
@@ -5722,7 +5732,9 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
     { key: 'g4_geo', name: 'Geometria & Mértékegységek', color: '#F59E0B', icon: '📐', topics: [
       { key: 'geo', name: 'Terület & Kerület', color: '#FBBF24', icon: '📐', generators: [G4.geometry, G4.geometryB] },
       { key: 'szogek', name: 'Szögek', color: '#EC4899', icon: '📐', generators: [G4.winkelTyp, G4.winkelKlasse, G4.dreieckWinkel] },
-      { key: 'szimmetria', name: 'Szimmetria', color: '#BE185D', icon: '🪞', generators: [G4.symmetrieAchsen] },
+      { key: 'szimmetria',  name: 'Szimmetria',     color: '#BE185D', icon: '🪞', generators: [G4.symmetrieAchsen] },
+      { key: 'angles',     name: 'Szögek',          color: '#EC4899', icon: '📐', generators: [G4.winkelTyp, G4.winkelKlasse, G4.dreieckWinkel] },
+      { key: 'symmetry_en',name: 'Szimmetria',      color: '#BE185D', icon: '🪞', generators: [G4.symmetrieAchsen] },
       { key: 'units', name: 'Mértékegységek', color: '#F59E0B', icon: '📏', generators: [G4.units] },
     ]},
     { key: 'g4_word', name: 'Szöveges feladatok', color: '#EF4444', icon: '📖', topics: [
@@ -6286,7 +6298,9 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
     { key: 'g4_geo', name: 'Geometrie & Unități', color: '#F59E0B', icon: '📐', topics: [
       { key: 'geo', name: 'Arie & Perimetru', color: '#FBBF24', icon: '📐', generators: [G4.geometry, G4.geometryB] },
       { key: 'unghiuri', name: 'Unghiuri', color: '#EC4899', icon: '📐', generators: [G4.winkelTyp, G4.winkelKlasse, G4.dreieckWinkel] },
-      { key: 'simetrie', name: 'Simetrie', color: '#BE185D', icon: '🪞', generators: [G4.symmetrieAchsen] },
+      { key: 'simetrie',    name: 'Simetrie',        color: '#BE185D', icon: '🪞', generators: [G4.symmetrieAchsen] },
+      { key: 'angles',     name: 'Unghiuri',         color: '#EC4899', icon: '📐', generators: [G4.winkelTyp, G4.winkelKlasse, G4.dreieckWinkel] },
+      { key: 'symmetry_en',name: 'Simetrie',         color: '#BE185D', icon: '🪞', generators: [G4.symmetrieAchsen] },
       { key: 'units', name: 'Unități de măsură', color: '#F59E0B', icon: '📏', generators: [G4.units] },
     ]},
     { key: 'g4_word', name: 'Probleme', color: '#EF4444', icon: '📖', topics: [
