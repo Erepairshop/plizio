@@ -5,6 +5,7 @@ import { Home, Lock } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { useState, useEffect } from "react";
 import { loadG1Progress } from "@/lib/astromath";
+import { loadG2Progress } from "@/lib/astromath2";
 
 // ─── Starfield ─────────────────────────────────────────────────────────────────
 const STARS = Array.from({ length: 60 }, (_, i) => ({
@@ -27,7 +28,7 @@ function Starfield() {
 // ─── Grade definitions ─────────────────────────────────────────────────────────
 const GRADES = [
   { grade: 1, icon: "🌍", color: "#4ECDC4", glow: "rgba(78,205,196,0.5)",  route: "/astromath/1", available: true  },
-  { grade: 2, icon: "🔵", color: "#00D4FF", glow: "rgba(0,212,255,0.4)",   route: null,           available: false },
+  { grade: 2, icon: "🔵", color: "#00D4FF", glow: "rgba(0,212,255,0.4)",   route: "/astromath/2", available: true  },
   { grade: 3, icon: "🔴", color: "#FF6B6B", glow: "rgba(255,107,107,0.4)", route: null,           available: false },
   { grade: 4, icon: "🟡", color: "#FFD700", glow: "rgba(255,215,0,0.4)",   route: null,           available: false },
   { grade: 5, icon: "🟣", color: "#B44DFF", glow: "rgba(180,77,255,0.4)",  route: null,           available: false },
@@ -48,10 +49,13 @@ export default function AstroMathGalaxyPage() {
   const router = useRouter();
   const t = T[lang as keyof typeof T] ?? T.en;
   const [g1Done, setG1Done] = useState(0);
+  const [g2Done, setG2Done] = useState(0);
 
   useEffect(() => {
-    const p = loadG1Progress();
-    setG1Done(p.completedIslands.length);
+    const p1 = loadG1Progress();
+    const p2 = loadG2Progress();
+    setG1Done(p1.completedIslands.length);
+    setG2Done(p2.completedIslands.length);
   }, []);
 
   return (
@@ -73,8 +77,7 @@ export default function AstroMathGalaxyPage() {
       <div className="relative z-10 flex-1 px-4 pb-6 mt-2">
         <div className="grid grid-cols-2 gap-3 max-w-sm mx-auto">
           {GRADES.map((g) => {
-            const isG1 = g.grade === 1;
-            const progress = isG1 ? g1Done : 0;
+            const progress = g.grade === 1 ? g1Done : g.grade === 2 ? g2Done : 0;
             const total = 9;
             return (
               <motion.button key={g.grade}
