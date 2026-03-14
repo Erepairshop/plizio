@@ -221,24 +221,6 @@ const STAR_DATA = Array.from({ length: 60 }, (_, i) => ({
 const SHOOT_DATA = Array.from({ length: 4 }, (_, i) => ({
   id: i, startX: 15 + i * 22, dur: 3.5 + i * 1.2, delay: 4 + i * 5,
 }));
-// ─── SVG → DOM coordinate helper ───────────────────────────────────────────────
-// Converts AstroMath map SVG coords (viewBox "0 -220 320 860") to viewport px
-function useSvgPos(svgRef: React.RefObject<SVGSVGElement | null>, vx: number, vy: number) {
-  const [pos, setPos] = useState<{ left: number; top: number } | null>(null);
-  const calc = useCallback(() => {
-    const svg = svgRef.current;
-    if (!svg) return;
-    const rect = svg.getBoundingClientRect();
-    const scale = rect.width / 320; // viewBox width = 320
-    setPos({ left: rect.left + vx * scale, top: rect.top + (vy + 220) * scale });
-  }, [svgRef, vx, vy]);
-  useEffect(() => {
-    calc();
-    window.addEventListener("resize", calc);
-    return () => window.removeEventListener("resize", calc);
-  }, [calc]);
-  return pos;
-}
 
 function Starfield() {
   return (
@@ -296,16 +278,15 @@ function buildSmoothPath(islands: typeof G1_ISLANDS): string {
   return d;
 }
 
-function IslandMapSVG({ progress, onIsland, onCheckpoint, svgRef }: {
+function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
   progress: G1Progress;
   onIsland: (island: IslandDef) => void;
   onCheckpoint: (testId: string) => void;
-  svgRef?: React.RefObject<SVGSVGElement | null>;
 }) {
   const pathD = buildSmoothPath(G1_ISLANDS);
 
   return (
-    <svg ref={svgRef} viewBox={`0 -${MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} width="100%" style={{ minHeight: MAP_H, display: "block" }}>
+    <svg viewBox={`0 -${MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} width="100%" style={{ minHeight: MAP_H, display: "block" }}>
       <defs>
         {/* Glow filter for path */}
         <filter id="pathGlow" x="-20%" y="-20%" width="140%" height="140%">
@@ -1384,12 +1365,8 @@ export default function AstroMathG1Page() {
   const [avatarIslandId, setAvatarIslandId] = useState<string>("i1");
   const [avatarWalking, setAvatarWalking] = useState(false);
   const walkTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
-  const mapSvgRef = useRef<SVGSVGElement | null>(null);
 
   const avatarIsland = G1_ISLANDS.find(i => i.id === avatarIslandId) ?? G1_ISLANDS[0];
-  // Stand slightly above the island circle (r=30)
-  const avatarMapPos = useSvgPos(mapSvgRef, avatarIsland.svgX, avatarIsland.svgY - 26);
-  const AVATAR_MAP_SIZE = 48;
 
   const avatarProps = {
     gender, activeSkin, activeFace,
@@ -1554,31 +1531,29 @@ export default function AstroMathG1Page() {
         <div className="relative z-10 flex-1 overflow-y-auto">
           <div className="max-w-sm mx-auto px-2 pb-6" style={{ minHeight: MAP_H + 40 }}>
             <div className="relative">
-              <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} svgRef={mapSvgRef} />
-              {/* Avatar walks on the map between islands */}
-              {avatarMapPos && (
-                <motion.div
-                  className="fixed pointer-events-none z-30"
-                  style={{ width: AVATAR_MAP_SIZE, height: AVATAR_MAP_SIZE }}
-                  animate={{
-                    left: avatarMapPos.left - AVATAR_MAP_SIZE / 2,
-                    top: avatarMapPos.top - AVATAR_MAP_SIZE * 0.75,
-                    opacity: 1,
-                  }}
-                  initial={{ opacity: 0, left: avatarMapPos.left - AVATAR_MAP_SIZE / 2, top: avatarMapPos.top - AVATAR_MAP_SIZE * 0.75 }}
-                  transition={avatarWalking
-                    ? { left: { duration: 0.65, ease: "easeInOut" }, top: { duration: 0.65, ease: [0.4, 0, 0.2, 1] }, opacity: { duration: 0.4 } }
-                    : { opacity: { delay: 0.5, duration: 0.5 } }
-                  }
-                >
-                  <AvatarCompanion
-                    fixed={false}
-                    mood={avatarWalking ? "happy" : "idle"}
-                    passThrough={true}
-                    {...avatarProps}
-                  />
-                </motion.div>
-              )}
+              <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} />
+              {/* Avatar walks on the map between islands — absolute so it scrolls with the map */}
+              <motion.div
+                className="absolute pointer-events-none z-10"
+                style={{ width: 48, height: 48, transform: "translate(-50%, -75%)" }}
+                animate={{
+                  left: `${(avatarIsland.svgX / MAP_W) * 100}%`,
+                  top: `${((avatarIsland.svgY + MAP_VB_OFFSET) / MAP_H) * 100}%`,
+                  opacity: 1,
+                }}
+                initial={{ opacity: 0 }}
+                transition={avatarWalking
+                  ? { left: { duration: 0.65, ease: "easeInOut" }, top: { duration: 0.65, ease: "easeInOut" }, opacity: { duration: 0.4 } }
+                  : { opacity: { delay: 0.5, duration: 0.5 } }
+                }
+              >
+                <AvatarCompanion
+                  fixed={false}
+                  mood={avatarWalking ? "happy" : "idle"}
+                  passThrough={true}
+                  {...avatarProps}
+                />
+              </motion.div>
             </div>
             {/* Blog link */}
             <div className="flex justify-center pt-2 pb-4">
