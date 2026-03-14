@@ -11,6 +11,17 @@ interface Props {
   onChange: (subQuestionId: string, value: string) => void;
   isGrading: boolean;
   correctAnswers: Record<string, string | number>;
+  speakLang?: string;
+}
+
+function speakText(text: string, bcp47: string) {
+  if (typeof window === 'undefined' || !window.speechSynthesis) return;
+  window.speechSynthesis.cancel();
+  // Strip emoji and extra whitespace before speaking
+  const clean = text.replace(/[\u{1F300}-\u{1FFFF}]/gu, '').replace(/\s+/g, ' ').trim();
+  const utt = new SpeechSynthesisUtterance(clean);
+  utt.lang = bcp47; utt.rate = 0.88; utt.pitch = 1.1;
+  window.speechSynthesis.speak(utt);
 }
 
 export default function AufgabenTask({
@@ -21,6 +32,7 @@ export default function AufgabenTask({
   onChange,
   isGrading,
   correctAnswers,
+  speakLang,
 }: Props) {
   const inputRefs = useRef<(HTMLInputElement | null)[]>([]);
 
@@ -54,6 +66,11 @@ export default function AufgabenTask({
             <div key={idx} className="flex flex-col gap-2 mt-1">
               <div className="flex items-baseline gap-1">
                 <span className="text-slate-400 text-xs font-bold select-none mr-0.5">{idx + 1}.</span>
+                {speakLang && !isGrading && (
+                  <button type="button" onClick={() => speakText(item.question, speakLang)}
+                    className="flex-shrink-0 w-6 h-6 flex items-center justify-center rounded-full bg-blue-50 hover:bg-blue-100 border border-blue-200 text-blue-500 text-xs transition-colors self-center"
+                    title="Vorlesen">🔊</button>
+                )}
                 <span className="text-sm text-slate-800" style={{ fontFamily: "'Caveat', cursive, sans-serif", fontSize: '15px' }}>{item.question}</span>
               </div>
               <div className="flex flex-wrap gap-2 pl-5">
@@ -90,6 +107,11 @@ export default function AufgabenTask({
             <span className="text-slate-400 text-xs font-bold select-none mr-0.5">
               {idx + 1}.
             </span>
+            {speakLang && !isGrading && (
+              <button type="button" onClick={() => speakText(item.question, speakLang)}
+                className="flex-shrink-0 w-6 h-6 flex items-center justify-center rounded-full bg-blue-50 hover:bg-blue-100 border border-blue-200 text-blue-500 text-xs transition-colors self-center"
+                title="Vorlesen">🔊</button>
+            )}
 
             {hasInlineBlank ? (
               <>

@@ -144,6 +144,16 @@ interface Props {
   onChange: (subQuestionId: string, value: string | number) => void;
   isGrading: boolean;
   cc?: string;
+  /** BCP-47 lang tag for TTS (grade 1-2 only). If set, shows 🔊 button. */
+  speakLang?: string;
+}
+
+function speakText(text: string, bcp47: string) {
+  if (typeof window === "undefined" || !window.speechSynthesis) return;
+  window.speechSynthesis.cancel();
+  const utt = new SpeechSynthesisUtterance(text);
+  utt.lang = bcp47; utt.rate = 0.88; utt.pitch = 1.1;
+  window.speechSynthesis.speak(utt);
 }
 
 // Circle numbers ①②③…
@@ -156,6 +166,7 @@ export default function SchoolTaskBlock({
   onChange,
   isGrading,
   cc = 'DE',
+  speakLang,
 }: Props) {
   const circleNum = CIRCLE_NUMS[blockIndex] || `${blockIndex + 1}.`;
   const [draftOpen, setDraftOpen] = useState(false);
@@ -408,12 +419,13 @@ export default function SchoolTaskBlock({
             {...commonProps}
             data={block.data as SachaufgabeData}
             cc={cc}
+            speakLang={speakLang}
           />
         );
       case 'tabelle':
         return <TabelleTask {...commonProps} data={block.data as TabelleData} />;
       case 'aufgaben':
-        return <AufgabenTask {...commonProps} data={block.data as AufgabenData} />;
+        return <AufgabenTask {...commonProps} data={block.data as AufgabenData} speakLang={speakLang} />;
 
       // All visual types — render each sub-question as its own embedded component
       case 'visual_zeichnen':

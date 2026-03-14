@@ -528,7 +528,7 @@ const G1: Record<string, Generator> = {
   sub20: (cc) => { const a = randInt(11, 20), b = randInt(1, a - 5); return q(`${a} - ${b} = ?`, a - b, t("subtraction20", cc)); },
   sub20b: (cc) => { const a = randInt(13, 20), b = randInt(3, a - 1); return q(`${a} - ${b} = ?`, a - b, t("subtraction20", cc)); },
   compare: (cc) => {
-    const a = randInt(1, 18), b = a + randInt(1, Math.min(5, 20 - a));
+    const a = randInt(1, 9), b = a + randInt(1, Math.min(3, 10 - a));
     return Math.random() > 0.5
       ? q(qCompare(a, b, cc), b, t("comparison", cc))
       : q(qCompare(b, a, cc), b, t("comparison", cc));
@@ -674,7 +674,7 @@ const G1: Record<string, Generator> = {
   },
   numberLine: (cc) => {
     // "between" question — tests number line concept without needing a visual
-    const n = randInt(1, 19);
+    const n = randInt(2, 9);
     const lang = getLang(cc);
     let question: string;
     switch (lang) {
@@ -744,11 +744,11 @@ const G1: Record<string, Generator> = {
   },
   // ── New G1 generators ──
   vorgaenger: (cc) => {
-    const n = randInt(2, 20);
+    const n = randInt(2, 10);
     return q(qVorgaenger(n, cc), n - 1, t("g1Vorgaenger", cc));
   },
   nachfolger: (cc) => {
-    const n = randInt(0, 19);
+    const n = randInt(1, 9);
     return q(qNachfolger(n, cc), n + 1, t("g1Vorgaenger", cc));
   },
   zaehlen: (cc) => {
@@ -759,8 +759,13 @@ const G1: Record<string, Generator> = {
     return q(qZaehlen(row, cc), count, t("g1Zaehlen", cc));
   },
   tausch: (cc) => {
-    const a = randInt(1, 8), b = randInt(1, 9 - a);
-    return q(qTauschaufgabe(a, b, a + b, cc), a + b, t("g1Tausch", cc));
+    // Ensure a !== b so the question isn't trivially "same number"
+    let a = randInt(1, 7), b = randInt(1, 9 - a);
+    while (a === b) { a = randInt(1, 7); b = randInt(1, 9 - a); }
+    const sum = a + b;
+    // Answer = b; distractors: a (swap confusion), sum (adds instead), b+1 / b-1
+    return qd(qTauschaufgabe(a, b, sum, cc), b, t("g1Tausch", cc),
+      [a, sum, b + 1 <= 9 ? b + 1 : b - 1]);
   },
   zahlzerlegung: (cc) => {
     const total = randInt(3, 10);
@@ -868,10 +873,10 @@ const G1: Record<string, Generator> = {
     return qstr(qG1Pattern(seq, cc), next, t("g1Pattern", cc), options);
   },
   numberOrder: (cc) => {
-    const nums = [randInt(1, 15), randInt(1, 15), randInt(1, 15)];
+    const nums = [randInt(1, 10), randInt(1, 10), randInt(1, 10)];
     // Ensure all different
-    while (nums[0] === nums[1]) nums[1] = randInt(1, 15);
-    while (nums[2] === nums[0] || nums[2] === nums[1]) nums[2] = randInt(1, 15);
+    while (nums[0] === nums[1]) nums[1] = randInt(1, 10);
+    while (nums[2] === nums[0] || nums[2] === nums[1]) nums[2] = randInt(1, 10);
     const sorted = [...nums].sort((a, b) => a - b);
     return qs(qG1NumberOrder(nums, cc), sorted.join(","), t("g1NumberOrder", cc));
   },
