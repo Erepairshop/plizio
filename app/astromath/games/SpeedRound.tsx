@@ -1,12 +1,12 @@
 "use client";
-// SpeedRound — timed quiz, 8 seconds per question, auto-advance
+// SpeedRound — timed quiz, 11 seconds per question, auto-advance
 // Designed for Grade 4+: fast-paced, no "next" button needed
 
 import { memo, useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 
-const TIME_PER_Q = 8; // seconds
+const TIME_PER_Q = 11; // seconds
 
 const LABELS: Record<string, Record<string, string>> = {
   en: { timeUp: "Time's up!", correct: "Correct! ✅", wrong: "Wrong ❌" },

@@ -38,8 +38,8 @@ export const G4_ISLANDS: IslandDef[] = [
   {
     id: "i1",
     name: { en: "Large Numbers", hu: "Nagy számok", de: "Große Zahlen", ro: "Numere mari" },
-    icon: "🔢", color: "#4ECDC4", sortRange: [1000, 9999],
-    topicKeys: ["place", "place1k"],
+    icon: "🔢", color: "#4ECDC4", sortRange: [100, 999],
+    topicKeys: ["place1k"],
     missions: [
       { id: "m1", gameType: "speed-round",  icon: "⚡", label: { en: "Speed Round",   hu: "Gyors kör",       de: "Speedrunde",      ro: "Rundă rapidă"   } },
       { id: "m2", gameType: "number-duel",  icon: "⚔️", label: { en: "Number Duel",   hu: "Szám-párharc",    de: "Zahlen-Duell",    ro: "Duel numere"    } },
