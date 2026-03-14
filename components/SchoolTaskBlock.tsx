@@ -419,12 +419,13 @@ export default function SchoolTaskBlock({
             {...commonProps}
             data={block.data as SachaufgabeData}
             cc={cc}
+            speakLang={speakLang}
           />
         );
       case 'tabelle':
         return <TabelleTask {...commonProps} data={block.data as TabelleData} />;
       case 'aufgaben':
-        return <AufgabenTask {...commonProps} data={block.data as AufgabenData} />;
+        return <AufgabenTask {...commonProps} data={block.data as AufgabenData} speakLang={speakLang} />;
 
       // All visual types — render each sub-question as its own embedded component
       case 'visual_zeichnen':
@@ -545,15 +546,6 @@ export default function SchoolTaskBlock({
         <span className="font-bold text-slate-800 text-sm flex-1">
           {block.title}
         </span>
-
-        {/* TTS button (grade 1-2 only) */}
-        {speakLang && !isGrading && (
-          <button
-            onClick={() => speakText(block.title, speakLang)}
-            className="flex-shrink-0 w-7 h-7 flex items-center justify-center rounded-full bg-blue-50 hover:bg-blue-100 border border-blue-200 text-blue-500 text-sm transition-colors"
-            title="Vorlesen"
-          >🔊</button>
-        )}
 
         {/* Points badge */}
         <span

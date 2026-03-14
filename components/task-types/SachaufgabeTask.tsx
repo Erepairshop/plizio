@@ -12,6 +12,16 @@ interface Props {
   isGrading: boolean;
   correctAnswers: Record<string, string | number>;
   cc?: string;
+  speakLang?: string;
+}
+
+function speakText(text: string, bcp47: string) {
+  if (typeof window === 'undefined' || !window.speechSynthesis) return;
+  window.speechSynthesis.cancel();
+  const clean = text.replace(/[\u{1F300}-\u{1FFFF}]/gu, '').replace(/\s+/g, ' ').trim();
+  const utt = new SpeechSynthesisUtterance(clean);
+  utt.lang = bcp47; utt.rate = 0.88; utt.pitch = 1.1;
+  window.speechSynthesis.speak(utt);
 }
 
 const RECHNEN_LABEL: Record<string, string> = {
@@ -35,6 +45,7 @@ export default function SachaufgabeTask({
   isGrading,
   correctAnswers,
   cc = 'DE',
+  speakLang,
 }: Props) {
   const inputRefs = useRef<(HTMLInputElement | null)[]>([]);
 
@@ -62,14 +73,21 @@ export default function SachaufgabeTask({
         return (
           <div key={idx} className="flex flex-col gap-2">
             {/* Task text */}
-            <div
-              className="text-sm text-slate-800 leading-relaxed pl-3 border-l-4 border-blue-300 bg-blue-50/50 py-2 pr-2 rounded-r"
-              style={{ fontFamily: "'Caveat', cursive, sans-serif", fontSize: '15px' }}
-            >
-              {data.items.length > 1 && (
-                <span className="font-bold text-slate-500 mr-2">{idx + 1}.</span>
+            <div className="flex items-start gap-2">
+              {speakLang && !isGrading && (
+                <button type="button" onClick={() => speakText(item.text, speakLang)}
+                  className="flex-shrink-0 mt-2 w-6 h-6 flex items-center justify-center rounded-full bg-blue-50 hover:bg-blue-100 border border-blue-200 text-blue-500 text-xs transition-colors"
+                  title="Vorlesen">🔊</button>
               )}
-              {item.text}
+              <div
+                className="flex-1 text-sm text-slate-800 leading-relaxed pl-3 border-l-4 border-blue-300 bg-blue-50/50 py-2 pr-2 rounded-r"
+                style={{ fontFamily: "'Caveat', cursive, sans-serif", fontSize: '15px' }}
+              >
+                {data.items.length > 1 && (
+                  <span className="font-bold text-slate-500 mr-2">{idx + 1}.</span>
+                )}
+                {item.text}
+              </div>
             </div>
 
             {/* Work area */}
