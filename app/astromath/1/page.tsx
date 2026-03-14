@@ -967,6 +967,7 @@ function NumberDuel({ sortRange, color, onDone }: {
     lockRef.current = true;
     const isRight = val === correctAnswer;
     const newCorrect = isRight ? correct + 1 : correct;
+    if (isRight) setCorrect(newCorrect);
     setFeedback(isRight ? "correct" : "wrong");
     setTimeout(() => {
       const nextRound = round + 1;
