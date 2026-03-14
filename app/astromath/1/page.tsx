@@ -152,7 +152,8 @@ function Starfield() {
 // ─── Island Map SVG ────────────────────────────────────────────────────────────
 // 9 islands in a winding vertical path, SVG 320×640, scrollable
 const MAP_W = 320;
-const MAP_H = 640;
+const MAP_H = 860;      // covers y=-220 to y=640 (with viewBox offset)
+const MAP_VB_OFFSET = 220; // viewBox starts 220px above y=0 so top islands aren't cut
 
 // Checkpoint marker positions (between islands 3-4, 6-7, after 9)
 const CP_POS: Record<string, { x: number; y: number }> = {
@@ -171,7 +172,7 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
   const pathD = `M ${pts[0]} ` + pts.slice(1).map((p) => `L ${p}`).join(" ");
 
   return (
-    <svg viewBox={`0 0 ${MAP_W} ${MAP_H}`} width="100%" style={{ minHeight: MAP_H, display: "block" }}>
+    <svg viewBox={`0 -${MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} width="100%" style={{ minHeight: MAP_H, display: "block" }}>
       {/* Path */}
       <path d={pathD} fill="none" stroke="rgba(255,255,255,0.1)" strokeWidth={2} strokeDasharray="8 6" />
 
@@ -550,15 +551,23 @@ function GravitySort({ sortRange, color, onDone }: {
 }
 
 // ─── Star Match ────────────────────────────────────────────────────────────────
-// Tap-to-pair: questions visible on left, shuffled answers on right.
-// Tap a question → it gets selected (highlighted). Then tap the matching answer.
-// Correct → both turn green. Wrong → both flash red, deselect.
+// 5 rounds × 5 pairs. Each round: tap a question (left) → tap matching answer (right).
+// Progress dots at top show completed rounds. After all 5 rounds → onDone.
 const SM_LABELS = {
-  en: { hint: "Tap a question, then tap the matching answer", pairs: "pairs" },
-  hu: { hint: "Koppints egy kérdésre, majd a helyes válaszra", pairs: "pár" },
-  de: { hint: "Tippe auf eine Aufgabe, dann auf die passende Antwort", pairs: "Paare" },
-  ro: { hint: "Atinge o întrebare, apoi răspunsul potrivit", pairs: "perechi" },
+  en: { hint: "Tap a question, then the matching answer", round: "Round" },
+  hu: { hint: "Koppints a kérdésre, majd a helyes válaszra", round: "Kör" },
+  de: { hint: "Aufgabe antippen, dann die passende Antwort", round: "Runde" },
+  ro: { hint: "Atinge întrebarea, apoi răspunsul potrivit", round: "Rundă" },
 };
+const SM_TOTAL_ROUNDS = 5;
+
+function buildRound(questions: MathQuestion[], offset: number) {
+  // Each round takes a different slice of 5 from shuffled questions
+  const shuffled = [...questions].sort(() => Math.random() - 0.5);
+  const pairs = generateMatchPairs(shuffled.slice(offset % Math.max(1, questions.length - 4)));
+  const answerOrder = [...pairs.map((_, i) => i)].sort(() => Math.random() - 0.5);
+  return { pairs, answerOrder };
+}
 
 function StarMatch({ questions, color, onDone }: {
   questions: MathQuestion[]; color: string; onDone: (score: number, total: number) => void;
@@ -566,26 +575,25 @@ function StarMatch({ questions, color, onDone }: {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
   const sl = SM_LABELS[lang as keyof typeof SM_LABELS] ?? SM_LABELS.en;
-  const pairs = generateMatchPairs(questions);
 
-  // Right column: shuffled answer indices
-  const [answerOrder] = useState(() =>
-    [...pairs.map((_, i) => i)].sort(() => Math.random() - 0.5)
-  );
-
-  const [selectedQ, setSelectedQ] = useState<number | null>(null); // selected question index
-  const [matched, setMatched] = useState<Set<number>>(new Set());  // matched pair indices
-  const [wrongQ, setWrongQ] = useState<number | null>(null);       // flash red on question
-  const [wrongA, setWrongA] = useState<number | null>(null);       // flash red on answer
-  const [done, setDone] = useState(false);
+  const [round, setRound] = useState(0);                            // 0-indexed current round
+  const [completedRounds, setCompletedRounds] = useState(0);
+  const [{ pairs, answerOrder }, setRoundData] = useState(() => buildRound(questions, 0));
+  const [selectedQ, setSelectedQ] = useState<number | null>(null);
+  const [matched, setMatched] = useState<Set<number>>(new Set());
+  const [wrongQ, setWrongQ] = useState<number | null>(null);
+  const [wrongA, setWrongA] = useState<number | null>(null);
+  const [roundFlash, setRoundFlash] = useState(false);              // brief green flash between rounds
   const lockRef = useRef(false);
+  const totalScore = useRef(0);
 
-  useEffect(() => {
-    if (done) {
-      const timer = setTimeout(() => onDone(matched.size, pairs.length), 1200);
-      return () => clearTimeout(timer);
-    }
-  }, [done, onDone, matched.size, pairs.length]);
+  const startNextRound = useCallback((nextRound: number) => {
+    setRound(nextRound);
+    setRoundData(buildRound(questions, nextRound));
+    setMatched(new Set());
+    setSelectedQ(null);
+    setRoundFlash(false);
+  }, [questions]);
 
   const tapQuestion = useCallback((idx: number) => {
     if (lockRef.current || matched.has(idx)) return;
@@ -597,97 +605,115 @@ function StarMatch({ questions, color, onDone }: {
     if (lockRef.current || matched.has(pairIdx)) return;
     speak(pairs[pairIdx].right, lang);
 
-    if (selectedQ === null) {
-      // No question selected — select the corresponding question
-      setSelectedQ(pairIdx);
-      return;
-    }
+    if (selectedQ === null) { setSelectedQ(pairIdx); return; }
 
     if (selectedQ === pairIdx) {
-      // Correct match!
+      // Correct
+      totalScore.current += 1;
       const newMatched = new Set(matched);
       newMatched.add(pairIdx);
       setMatched(newMatched);
       setSelectedQ(null);
-      if (newMatched.size === pairs.length) setDone(true);
+
+      if (newMatched.size === pairs.length) {
+        // Round complete
+        const nextCompleted = completedRounds + 1;
+        setCompletedRounds(nextCompleted);
+        if (nextCompleted >= SM_TOTAL_ROUNDS) {
+          // All rounds done
+          lockRef.current = true;
+          setRoundFlash(true);
+          setTimeout(() => onDone(totalScore.current, SM_TOTAL_ROUNDS * pairs.length), 1200);
+        } else {
+          // Next round after brief flash
+          lockRef.current = true;
+          setRoundFlash(true);
+          setTimeout(() => { lockRef.current = false; startNextRound(round + 1); }, 900);
+        }
+      }
     } else {
-      // Wrong — flash red
+      // Wrong
       lockRef.current = true;
       setWrongQ(selectedQ);
       setWrongA(pairIdx);
       setTimeout(() => {
-        setSelectedQ(null);
-        setWrongQ(null);
-        setWrongA(null);
+        setSelectedQ(null); setWrongQ(null); setWrongA(null);
         lockRef.current = false;
       }, 700);
     }
-  }, [selectedQ, matched, pairs, lang]);
+  }, [selectedQ, matched, pairs, lang, completedRounds, round, startNextRound, onDone]);
 
   return (
-    <div className="flex flex-col gap-4 w-full max-w-sm mx-auto">
-      {/* Instruction + progress */}
-      <div className="flex items-center justify-between">
-        <p className="text-white/50 text-xs font-medium">{sl.hint}</p>
-        <span className="text-white/60 text-xs font-bold flex-shrink-0 ml-2">
-          {matched.size}/{pairs.length}
-        </span>
+    <div className="flex flex-col gap-3 w-full max-w-sm mx-auto">
+      {/* Round progress dots + hint */}
+      <div className="flex flex-col items-center gap-1.5">
+        <div className="flex gap-2">
+          {Array.from({ length: SM_TOTAL_ROUNDS }).map((_, i) => (
+            <motion.div key={i}
+              className="w-3 h-3 rounded-full"
+              animate={{ scale: i === completedRounds && !roundFlash ? [1, 1.3, 1] : 1 }}
+              transition={{ repeat: i === completedRounds ? Infinity : 0, duration: 1.4 }}
+              style={{
+                background: i < completedRounds ? "#00FF88"
+                  : i === completedRounds ? color
+                  : "rgba(255,255,255,0.15)",
+                boxShadow: i === completedRounds && !roundFlash ? `0 0 8px ${color}` : "none",
+              }} />
+          ))}
+        </div>
+        <p className="text-white/40 text-xs">{sl.hint}</p>
       </div>
 
-      {done && (
-        <motion.div initial={{ scale: 0 }} animate={{ scale: 1 }}
-          className="text-center text-xl font-black" style={{ color: "#00FF88" }}>
-          {t.allMatched} ⭐
+      {roundFlash && (
+        <motion.div initial={{ opacity: 0, scale: 0.8 }} animate={{ opacity: 1, scale: 1 }}
+          className="text-center text-lg font-black" style={{ color: "#00FF88" }}>
+          {completedRounds >= SM_TOTAL_ROUNDS ? `${t.allMatched} ⭐` : "✓"}
         </motion.div>
       )}
 
       {/* Two columns: questions | answers */}
-      <div className="grid grid-cols-2 gap-3">
-        {/* Left: questions in order */}
+      <div className="grid grid-cols-2 gap-2.5">
         <div className="flex flex-col gap-2">
           {pairs.map((pair, i) => {
             const isMatched = matched.has(i);
             const isSelected = selectedQ === i;
             const isWrong = wrongQ === i;
             return (
-              <motion.button key={i} onClick={() => tapQuestion(i)}
+              <motion.button key={`${round}-q${i}`} onClick={() => tapQuestion(i)}
                 disabled={isMatched}
-                className="rounded-2xl px-3 py-4 text-sm font-bold text-center min-h-[64px] flex items-center justify-center leading-snug"
+                initial={{ opacity: 0, x: -10 }} animate={{ opacity: 1, x: 0 }}
+                transition={{ delay: i * 0.06 }}
+                className="rounded-2xl px-3 py-3.5 text-sm font-bold text-center min-h-[58px] flex items-center justify-center leading-snug"
                 style={{
-                  background: isMatched ? "rgba(0,255,136,0.18)"
-                    : isWrong ? "rgba(255,50,50,0.18)"
-                    : isSelected ? `${color}30`
-                    : "rgba(255,255,255,0.05)",
+                  background: isMatched ? "rgba(0,255,136,0.18)" : isWrong ? "rgba(255,50,50,0.18)" : isSelected ? `${color}28` : "rgba(255,255,255,0.05)",
                   border: `2px solid ${isMatched ? "#00FF88" : isWrong ? "#FF4444" : isSelected ? color : "rgba(255,255,255,0.12)"}`,
-                  color: isMatched ? "#00FF88" : isWrong ? "#FF6666" : isSelected ? "#fff" : "rgba(255,255,255,0.80)",
-                  boxShadow: isSelected ? `0 0 12px ${color}55` : "none",
+                  color: isMatched ? "#00FF88" : isWrong ? "#FF6666" : isSelected ? "#fff" : "rgba(255,255,255,0.82)",
+                  boxShadow: isSelected ? `0 0 10px ${color}44` : "none",
                 }}
-                whileTap={!isMatched ? { scale: 0.95 } : {}}>
+                whileTap={!isMatched ? { scale: 0.94 } : {}}>
                 {isMatched ? "✓" : pair.left}
               </motion.button>
             );
           })}
         </div>
 
-        {/* Right: answers shuffled */}
         <div className="flex flex-col gap-2">
-          {answerOrder.map((pairIdx) => {
+          {answerOrder.map((pairIdx, idx) => {
             const isMatched = matched.has(pairIdx);
             const isWrong = wrongA === pairIdx;
             const isHighlighted = selectedQ !== null && !isMatched;
             return (
-              <motion.button key={pairIdx} onClick={() => tapAnswer(pairIdx)}
+              <motion.button key={`${round}-a${pairIdx}`} onClick={() => tapAnswer(pairIdx)}
                 disabled={isMatched}
-                className="rounded-2xl px-3 py-4 text-lg font-black text-center min-h-[64px] flex items-center justify-center"
+                initial={{ opacity: 0, x: 10 }} animate={{ opacity: 1, x: 0 }}
+                transition={{ delay: idx * 0.06 }}
+                className="rounded-2xl px-3 py-3.5 text-lg font-black text-center min-h-[58px] flex items-center justify-center"
                 style={{
-                  background: isMatched ? "rgba(0,255,136,0.18)"
-                    : isWrong ? "rgba(255,50,50,0.18)"
-                    : isHighlighted ? "rgba(255,255,255,0.10)"
-                    : "rgba(255,255,255,0.05)",
-                  border: `2px solid ${isMatched ? "#00FF88" : isWrong ? "#FF4444" : isHighlighted ? "rgba(255,255,255,0.30)" : "rgba(255,255,255,0.12)"}`,
+                  background: isMatched ? "rgba(0,255,136,0.18)" : isWrong ? "rgba(255,50,50,0.18)" : isHighlighted ? "rgba(255,255,255,0.09)" : "rgba(255,255,255,0.05)",
+                  border: `2px solid ${isMatched ? "#00FF88" : isWrong ? "#FF4444" : isHighlighted ? "rgba(255,255,255,0.28)" : "rgba(255,255,255,0.12)"}`,
                   color: isMatched ? "#00FF88" : isWrong ? "#FF6666" : "#fff",
                 }}
-                whileTap={!isMatched ? { scale: 0.95 } : {}}>
+                whileTap={!isMatched ? { scale: 0.94 } : {}}>
                 {isMatched ? "✓" : pairs[pairIdx].right}
               </motion.button>
             );
@@ -834,7 +860,7 @@ export default function AstroMathG1Page() {
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
-    const qs = generateIslandQuestions(activeIsland, lang as Lang, 10);
+    const qs = generateIslandQuestions(activeIsland, lang as Lang, 20);
     setQuestions(qs);
     setScreen(mission.gameType as Screen);
   }, [activeIsland, lang]);
@@ -943,7 +969,7 @@ export default function AstroMathG1Page() {
         </div>
         {/* Scrollable map */}
         <div className="relative z-10 flex-1 overflow-y-auto">
-          <div className="px-4 pb-6" style={{ minHeight: MAP_H + 40 }}>
+          <div className="max-w-sm mx-auto px-2 pb-6" style={{ minHeight: MAP_H + 40 }}>
             <IslandMapSVG progress={progress} onIsland={handleIslandSelect} onCheckpoint={startCheckpoint} />
           </div>
         </div>

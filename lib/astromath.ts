@@ -80,7 +80,7 @@ export const G1_ISLANDS: IslandDef[] = [
     id: "i2",
     name: { en: "Addition Island", hu: "Összeadás sziget", de: "Additionsinsel", ro: "Insula adunării" },
     icon: "➕", color: "#00D4FF", sortRange: [1, 10],
-    topicKeys: ["g1_tausch", "g1_zahlzerlegung", "g1_addpics"],
+    topicKeys: ["g1_tausch", "g1_zahlzerlegung", "add10"],
     missions: [
       { id: "m1", gameType: "orbit-quiz", icon: "🚀", label: { en: "Add Quiz",    hu: "Összeadás kvíz",  de: "Additionsquiz",  ro: "Quiz adunare"  } },
       { id: "m2", gameType: "black-hole", icon: "🕳️", label: { en: "Black Hole",  hu: "Fekete lyuk",     de: "Schwarzes Loch", ro: "Gaura neagră"  } },
@@ -92,7 +92,7 @@ export const G1_ISLANDS: IslandDef[] = [
     id: "i3",
     name: { en: "Subtraction Island", hu: "Kivonás sziget", de: "Subtraktionsinsel", ro: "Insula scăderii" },
     icon: "➖", color: "#FF6B6B", sortRange: [1, 10],
-    topicKeys: ["g1_subpics", "g1_ergaenzen"],
+    topicKeys: ["sub10", "g1_ergaenzen"],
     missions: [
       { id: "m1", gameType: "orbit-quiz", icon: "🚀", label: { en: "Sub Quiz",    hu: "Kivonás kvíz",    de: "Subtraktionsquiz", ro: "Quiz scădere"  } },
       { id: "m2", gameType: "black-hole", icon: "🕳️", label: { en: "Black Hole",  hu: "Fekete lyuk",     de: "Schwarzes Loch",   ro: "Gaura neagră"  } },
@@ -128,7 +128,7 @@ export const G1_ISLANDS: IslandDef[] = [
     id: "i6",
     name: { en: "Word Problems", hu: "Szöveges feladatok", de: "Sachaufgaben", ro: "Probleme cu text" },
     icon: "📖", color: "#FFD700", sortRange: [1, 10],
-    topicKeys: ["g1_tausch", "g1_zahlzerlegung", "g1_subpics", "g1_addpics"],
+    topicKeys: ["g1_tausch", "g1_zahlzerlegung", "sub10", "add10"],
     missions: [
       { id: "m1", gameType: "orbit-quiz", icon: "🚀", label: { en: "Story Quiz A",  hu: "Szöveges A",    de: "Sachaufgaben A",  ro: "Probleme A"    } },
       { id: "m2", gameType: "orbit-quiz", icon: "🚀", label: { en: "Story Quiz B",  hu: "Szöveges B",    de: "Sachaufgaben B",  ro: "Probleme B"    } },
@@ -300,9 +300,16 @@ export function generateSortRound(range: [number, number]): SortRound {
   return { numbers, sorted };
 }
 
-// StarMatch: take 3 questions and build 6 cards (question ↔ answer)
+// StarMatch: take 5 unique-answer questions and build 10 cards (question ↔ answer)
 export function generateMatchPairs(questions: MathQuestion[]): MatchPair[] {
-  return questions.slice(0, 3).map((q) => ({
+  const seen = new Set<string>();
+  const unique: MathQuestion[] = [];
+  for (const q of questions) {
+    const key = String(q.correctAnswer);
+    if (!seen.has(key)) { seen.add(key); unique.push(q); }
+    if (unique.length === 5) break;
+  }
+  return unique.map((q) => ({
     left: q.question,
     right: String(q.correctAnswer),
   }));
