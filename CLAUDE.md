@@ -1225,78 +1225,141 @@ Szabályok:
 
 ## ASTROMATH — Animált felfedező matematika (1-8. osztály)
 
-> Állapot: fejlesztés alatt (2026-03-14) — jelenleg 5 demo bolygó (1. osztály csak)
-> Route: `/astromath`
-> Mottó: „Nem kérdezünk — tanítunk. A játék maga a tanítás."
+> Állapot: fejlesztés alatt (2026-03-14) — 1. osztály teljesen kész (9 sziget + 3 checkpoint), többi osztály tervezett
+> Route: `/astromath/1/` (1. osztály), tervezett: `/astromath/2/` … `/astromath/8/`
+> Mottó: „Haladj úgy, ahogy az iskolában tanítják — szigetenként, lépésről lépésre."
 
-### Koncepció (teljes vízió)
-
-Az AstroMath egy **2-szintes térképrendszer**:
-
-1. **Galaxia térkép** — 8 bolygó = 8 osztály (1-8. osztály)
-   - Minden bolygó láthatóan jelöli a tanévet: „1. osztály", „2. osztály" stb.
-   - Bolygóra kattintva megnyílik a bolygó saját térképe
-
-2. **Bolygó térkép** — szigetek = az adott év témakörjei
-   - Pl. 1. osztály bolygón: Számolás sziget, Összeadás sziget, Kivonás sziget...
-   - Szigetre kattintva felfedező jelenetek sorozata nyílik meg
-
-3. **Felfedező jelenet** (discovery scene) — a tanítás maga
-   - Animált vizuális jelenet (nem kérdés-válasz!)
-   - A gyerek megnyom egy gombot → animáció mutatja a műveletet
-   - Egyenlet megjelenik mint **felfedezés** (nem mint ellenőrzés)
-   - Típusok: `count`, `add`, `sub`, `missing`
-
-### Jelenet típusok (DiscoverScene)
-
-| Típus | Mit mutat | Gomb | Animáció |
-|-------|-----------|------|---------|
-| `count` | N tárgy | SZÁMOLJ! | Tárgyak egyenként kiszíneznek + számjegy badge |
-| `add` | A csoport + B csoport | ÖSSZEOLVAD! | Jobb csoport animálva repül a balhoz |
-| `sub` | A tárgy | ELTŰNIK! | Utolsó B tárgy scale→0 animációval eltűnik |
-| `missing` | Egyik oldal „?" | FELFED! | Rejtett csoport spring animációval megjelenik |
-
-### Hang effektek (tervezett)
-
-- Bolygó kiválasztás: „whoosh" + pozitív csengő
-- Jelenet gomb nyomás: „boing" / „launch" hangeffekt
-- Animáció csúcsa (pl. összeolvadás): „fusion" hangeffekt
-- Egyenlet megjelenés: „ding" / „ta-da!" hangeffekt
-- Sziget teljesítés: kis fanfár
-- Bolygó teljesítés: nagy fanfár + confetti
-
-### Jelenlegi megvalósítás (demo állapot)
-
-- 5 bolygó (egy osztály témakörjei feldarabolva)
-- Nincs még a 8-osztályos hierarchia
-- Nincs hangeffekt még
-- Sziget szint még hiányzik
-
-### Tervezett fájlstruktúra (teljes implementációhoz)
+### Fájlstruktúra (jelenlegi)
 
 ```
-app/astromath/page.tsx       ← Galaxia térkép (8 bolygó)
-app/astromath/[grade]/       ← Bolygó térkép (szigetek)
-  page.tsx
-lib/astromath/
-  curriculum.ts              ← Jelenet adatok grade+topic szerint
-  planets.ts                 ← Bolygó + sziget definíciók (G1-G8)
-  audio.ts                   ← Hangeffekt lejátszás
+app/astromath/1/page.tsx     ← 1. osztály teljes játékoldala (9 sziget + checkpointok)
+app/astromath/1/layout.tsx   ← SEO metadata
+lib/astromath.ts             ← Sziget/misszió definíciók, progress, kérdésgenerálás
+```
+
+### Architektúra — page.tsx főbb state-jei
+
+```tsx
+screen: "map" | "island" | "playing" | "checkpoint"
+activeIsland: IslandDef | null
+activeMission: MissionDef | null
+activeGame: GameType | null         // "orbit-quiz" | "star-match" | "gravity-sort" | "black-hole"
+questions: MathQuestion[]           // generált kérdések az aktív misszióhoz
+progress: G1Progress                // localStorage-ból betöltve
+```
+
+### Progresszív tanterv — Iskolai sorrend (1. osztály)
+
+Az 1. osztály szigetjei az iskolai tanrendet követik — **nem téma szerint csoportosítva, hanem időrendben**:
+
+| Sziget | Téma | Számkör | topicKeys |
+|--------|------|---------|-----------|
+| i1 Zählinsel | Számolás, összehasonlítás | **1-10** | `g1_count`, `g1_compare`, `g1_pos` |
+| i2 Additionsinsel | Összeadás | **1-10** | `g1_tausch`, `g1_zahlzerlegung`, `add10` |
+| i3 Subtraktionsinsel | Kivonás | **1-10** | `sub10`, `g1_ergaenzen` |
+| i4 Verdoppeln & Halbieren | Dupla/fele | 1-18 | `g1_verdoppeln`, `g1_halbieren` |
+| i5 Zahlen bis 20 | Számolás, sor | **11-20** | `g1_num1120`, `g1_place_value20`, `g1_sequence` |
+| i6 Sachaufgaben | Szöveges feladatok | 1-20 | `g1_tausch`, `g1_zahlzerlegung`, `sub10`, `add10` |
+| i7 Formeninsel | Alakzatok, mintázatok | — | `g1_shapes`, `g1_spatial`, `g1_pattern` |
+| i8 Messinsel | Mérések (óra, pénz, súly) | — | `g1_clock`, `g1_coins`, `g1_weight`, `g1_volume`, `g1_laenger`, `g1_wochentage` |
+| i9 Daten & Muster | Adatok, sorozatok | 1-20 | `g1_data`, `g1_sequence`, `g1_count` |
+
+**⚠️ FONTOS — Számkör korlát:**
+- Az i1-re vonatkozó G1 generátorok (`compare`, `vorgaenger`, `nachfolger`, `numberLine`, `numberOrder`) limitálva vannak **max 10**-re a mathCurriculum.ts-ben.
+- Az i5+ szigeteken más topic key-ek vannak (`g1_num1120`, `g1_sequence` stb.) amik **11-20**-ig mennek.
+- NE változtasd meg ezeket a korlátokat — ez biztosítja a progresszív felépítést.
+
+### Checkpoint rendszer
+
+3 szigetenként egy checkpoint teszt következik:
+```ts
+CHECKPOINT_MAP = {
+  test1: ["i1", "i2", "i3"],   // → checkpoint1: alapszámolás 1-10
+  test2: ["i4", "i5", "i6"],   // → checkpoint2: 1-20, dupla, szöveges
+  test3: ["i7", "i8", "i9"],   // → checkpoint3: alakzatok, mérések, sorozatok
+}
+```
+Checkpoint téma key-ek: `CHECKPOINT_TOPICS` — ezekből generálódnak a checkpoint kérdések.
+
+### 4 játéktípus (GameType)
+
+| GameType | Leírás | Kérdésszám |
+|----------|---------|-----------|
+| `orbit-quiz` | MCQ kvíz — 4 válasz közül kell választani | 10 kérdés |
+| `black-hole` | MCQ kvíz — sötét stílusú variáns | 10 kérdés |
+| `gravity-sort` | Számok sorrendbe rakása (GravitySort) | 5 fordulóig |
+| `star-match` | Kérdés-válasz párosítás tap-to-pair módszerrel | 20 pár, 5 forduló |
+
+**StarMatch részletek:**
+- 5 forduló × 5 pár/forduló = 25 érintés összesen
+- Bal oszlop: kérdések (fix), jobb oszlop: válaszok (véletlenszerű sorrendben)
+- Progress dots a tetején (melyik fordulóban tart)
+- `buildRound(questions, offset)` generál 5 párt a kérdéslistából, minden forduló más sorrendű válaszokat kap
+- `generateMatchPairs(questions)`: 5 egyedi-válaszú kérdést vesz ki a poolból
+
+**GravitySort részletek:**
+- `generateSortRound(range)` → 5 véletlenszerű szám a `island.sortRange`-ből
+- Minden sorrendbe-rakás után új kör indul (max 5 kör, utána befejezi)
+
+### Csillag rendszer (motiváció)
+
+**Misszió szint:** Minden misszió 1-3 csillagot ad az eredmény alapján:
+- `calculateStars(score, total)` → 1 csillag: bármely befejezés, 2: ≥60%, 3: ≥90%
+- Best result mentve: `missionStars: Record<string, number>` a `G1Progress`-ben
+- Kulcs formátum: `"i1_m1"`, `"i2_m3"`, stb.
+
+**Sziget szint:** `islandTotalStars(progress, islandId)` → max 9 (3 misszió × 3 csillag)
+- SVG térképen megjelenik: `"⭐⭐ 6/9"` stílusban
+- Island intro képernyőn: `"X/9"` összesítés a misszió listán felül
+
+**Mission row megjelenítés:**
+```tsx
+// Misszió sorban: [1,2,3].map(s => s <= bestStars ? "⭐" : "✩")
+```
+
+### G1Progress interfész (lib/astromath.ts)
+
+```ts
+interface G1Progress {
+  completedMissions: string[];          // "i1_m1", "i2_m3", ...
+  completedIslands: string[];           // "i1", "i2", ...
+  completedTests: string[];             // "test1", "test2", "test3"
+  missionStars: Record<string, number>; // "i1_m1" → 1|2|3 (legjobb eredmény)
+}
 ```
 
 ### localStorage
 
 | Kulcs | Tartalom |
 |-------|---------|
-| `astromath_save_v1` | `{ completedPlanets: string[] }` |
+| `astromath_g1_v2` | `G1Progress` |
 
-### Fejlesztési sorrend (TODO)
+### SVG térkép — kritikus részletek
 
-1. **Hangeffektek** — Web Audio API vagy rövid MP3 fájlok
-2. **8-osztályos struktúra** — Galaxia térkép 8 bolygóval, vizuálisan jelölt évfolyamok
-3. **Bolygó al-térkép** — SVG szigetes térkép, temakörönként 1 sziget
-4. **G2-G8 jelenet adatok** — témakörönként 5-7 felfedező jelenet
-5. **Haladás mentés** — jelenet/sziget szinten is menteni
+- **viewBox:** `"0 -220 320 860"` — FONTOS! A negatív Y offset szükséges, mert egyes szigetek y=-90 körül vannak (i9 svgY=-90, i8 svgY=-20), checkpointok y=-165 körül
+- MAP_W=320, MAP_H=860, MAP_VB_OFFSET=220
+- Konténer: `max-w-sm mx-auto` — mobile + desktop centrált
+- SVG style: `minHeight: MAP_H, display: "block"` — nem nyújtja el
+- `islandTotalStars()` a sziget badge szövegéhez: `total > 0 ? "⭐".repeat(Math.min(total,3)) + " " + total + "/9" : idx+1`
+
+### Kérdésgenerálás
+
+```ts
+// Misszióhoz: generateIslandQuestions(island, lang, count)
+// count: orbit-quiz/black-hole/gravity-sort → 10, star-match → 20
+const qCount = mission.gameType === "star-match" ? 20 : 10;
+
+// Checkpoint teszthez:
+generateCheckpointQuestions(testId, lang, count)
+```
+
+### Tervezett fejlesztések (TODO)
+
+1. **Csillag alapú score számítás** — `calculateStars()` függvény megírása (jelenleg mindig 1 csillag?)
+2. **G2-G8 oldalak** — `/astromath/2/` … `/astromath/8/` megvalósítása
+3. **Galaxia térkép** — `/astromath/` főoldal, 8 bolygóval (1 bolygó = 1 osztály)
+4. **Hangeffektek** — Web Audio API / rövid MP3 fájlok (sziget teljesítés, helyes válasz stb.)
+5. **Animált pályabejárás** — rakéta animáció szigetek között a térképen
 
 ---
 
