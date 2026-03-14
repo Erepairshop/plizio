@@ -23,22 +23,37 @@ const LANG_TO_TTS: Record<string, string> = {
   hu: "hu-HU", de: "de-DE", en: "en-US", ro: "ro-RO",
 };
 
-function emojiToSpoken(text: string): string {
-  // Replace each consecutive run of emojis with their count (if >1) or remove (if single decorative)
-  // e.g. "🍎🍎🍎 + 🍎🍎 = ?" → "3 + 2 = ?"
-  // e.g. "🚀 Számolj!" → " Számolj!" → "Számolj!"
+function emojiToSpoken(text: string, lang = "en"): string {
+  const ops: Record<string, Record<string, string>> = {
+    minus:  { de: "minus", en: "minus", hu: "mínusz", ro: "minus" },
+    plus:   { de: "plus",  en: "plus",  hu: "plusz",  ro: "plus"  },
+    times:  { de: "mal",   en: "times", hu: "szorozva", ro: "înmulțit cu" },
+    div:    { de: "geteilt durch", en: "divided by", hu: "osztva", ro: "împărțit la" },
+    equals: { de: "gleich", en: "equals", hu: "egyenlő", ro: "egal cu" },
+  };
+  const l = lang in ops.minus ? lang : "en";
   return text
+    // emoji runs → count or remove
     .replace(/[\p{Emoji_Presentation}\p{Extended_Pictographic}]+/gu, (run) => {
       const count = [...run].length;
       return count > 1 ? String(count) : "";
     })
+    // math operators → spoken words (order matters: longer first)
+    .replace(/\s*÷\s*/g, ` ${ops.div[l]} `)
+    .replace(/\s*×\s*/g, ` ${ops.times[l]} `)
+    .replace(/\s*\*\s*/g, ` ${ops.times[l]} `)
+    .replace(/\s*-\s*/g, ` ${ops.minus[l]} `)
+    .replace(/\s*\+\s*/g, ` ${ops.plus[l]} `)
+    .replace(/\s*=\s*\?/g, ` ${ops.equals[l]} ?`)
+    .replace(/\s*=\s*/g, ` ${ops.equals[l]} `)
+    .replace(/\?/g, "")
     .replace(/\s+/g, " ")
     .trim();
 }
 
 function speak(text: string, lang: string) {
   if (typeof window === "undefined" || !window.speechSynthesis) return;
-  const clean = emojiToSpoken(text);
+  const clean = emojiToSpoken(text, lang);
   if (!clean) return;
   window.speechSynthesis.cancel();
   const utt = new SpeechSynthesisUtterance(clean);
