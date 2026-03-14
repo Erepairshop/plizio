@@ -248,17 +248,22 @@ function shuffle<T>(arr: T[]): T[] {
   return a;
 }
 
+// Only questions with MCQ options are valid for OrbitQuiz / BlackHole / StarMatch
+function isMCQQuestion(q: MathQuestion): boolean {
+  return Array.isArray(q.options) && q.options.length >= 2;
+}
+
 export function generateIslandQuestions(island: IslandDef, lang: Lang, count = 10): MathQuestion[] {
   const cc = langToCC(lang);
   const pool: MathQuestion[] = [];
   const seen = new Set<string>();
   const keys = shuffle([...island.topicKeys]);
 
-  for (let attempt = 0; attempt < count * 6 && pool.length < count; attempt++) {
+  for (let attempt = 0; attempt < count * 10 && pool.length < count; attempt++) {
     const key = keys[attempt % keys.length];
     const qs = generateTopicQuestions(1, key, cc, 3);
     for (const q of qs) {
-      if (!seen.has(q.question) && pool.length < count) {
+      if (isMCQQuestion(q) && !seen.has(q.question) && pool.length < count) {
         seen.add(q.question);
         pool.push(q);
       }
@@ -273,11 +278,11 @@ export function generateCheckpointQuestions(testId: string, lang: Lang, count = 
   const pool: MathQuestion[] = [];
   const seen = new Set<string>();
 
-  for (let attempt = 0; attempt < count * 6 && pool.length < count; attempt++) {
+  for (let attempt = 0; attempt < count * 10 && pool.length < count; attempt++) {
     const key = keys[attempt % keys.length];
     const qs = generateTopicQuestions(1, key, cc, 3);
     for (const q of qs) {
-      if (!seen.has(q.question) && pool.length < count) {
+      if (isMCQQuestion(q) && !seen.has(q.question) && pool.length < count) {
         seen.add(q.question);
         pool.push(q);
       }

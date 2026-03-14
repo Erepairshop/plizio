@@ -2,7 +2,7 @@
 import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useRouter } from "next/navigation";
-import { Home, X, ChevronRight, ChevronLeft, Check } from "lucide-react";
+import { Home, X, ChevronRight, ChevronLeft, Check, Volume2 } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import RewardReveal from "@/components/RewardReveal";
 import MilestonePopup from "@/components/MilestonePopup";
@@ -17,6 +17,32 @@ import {
   completeMission, completeTest,
   generateIslandQuestions, generateCheckpointQuestions, generateSortRound, generateMatchPairs,
 } from "@/lib/astromath";
+
+// ─── Text-to-Speech ────────────────────────────────────────────────────────────
+const LANG_TO_TTS: Record<string, string> = {
+  hu: "hu-HU", de: "de-DE", en: "en-US", ro: "ro-RO",
+};
+
+function speak(text: string, lang: string) {
+  if (typeof window === "undefined" || !window.speechSynthesis) return;
+  window.speechSynthesis.cancel();
+  const utt = new SpeechSynthesisUtterance(text);
+  utt.lang = LANG_TO_TTS[lang] ?? "en-US";
+  utt.rate = 0.88;
+  utt.pitch = 1.1;
+  window.speechSynthesis.speak(utt);
+}
+
+function SpeakButton({ text, lang, size = 18 }: { text: string; lang: string; size?: number }) {
+  return (
+    <motion.button
+      onClick={(e) => { e.stopPropagation(); speak(text, lang); }}
+      className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 active:bg-white/30 transition-colors flex-shrink-0"
+      whileTap={{ scale: 0.9 }}>
+      <Volume2 size={size} />
+    </motion.button>
+  );
+}
 
 // ─── Screen types ──────────────────────────────────────────────────────────────
 type Screen =
@@ -216,6 +242,11 @@ function OrbitQuiz({ questions, color, onDone }: {
   const opts = q?.options ?? [];
   const isCorrect = selected !== null && String(selected) === String(q?.correctAnswer);
 
+  // Auto-read question when it changes
+  useEffect(() => {
+    if (q?.question) speak(q.question, lang);
+  }, [idx, q?.question, lang]);
+
   const confirm = useCallback((opt: number | string) => {
     if (confirmed) return;
     setSelected(opt);
@@ -248,9 +279,10 @@ function OrbitQuiz({ questions, color, onDone }: {
       {/* Question card */}
       <AnimatePresence mode="wait">
         <motion.div key={idx} initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -20 }}
-          className="rounded-3xl p-6 text-center min-h-[120px] flex items-center justify-center"
+          className="rounded-3xl p-5 min-h-[120px] flex items-center gap-3"
           style={{ background: `${color}12`, border: `1.5px solid ${color}30` }}>
-          <p className="text-xl font-black text-white leading-snug">{q.question}</p>
+          <p className="text-xl font-black text-white leading-snug flex-1 text-center">{q.question}</p>
+          <SpeakButton text={q.question} lang={lang} size={16} />
         </motion.div>
       </AnimatePresence>
 
@@ -315,6 +347,11 @@ function BlackHole({ questions, color, onDone }: {
   const q = questions[idx];
   const isCorrect = selected !== null && String(selected) === String(q?.correctAnswer);
 
+  // Auto-read question when it changes
+  useEffect(() => {
+    if (q?.question) speak(q.question, lang);
+  }, [idx, q?.question, lang]);
+
   const confirm = useCallback((opt: number | string) => {
     if (confirmed) return;
     setSelected(opt);
@@ -347,9 +384,10 @@ function BlackHole({ questions, color, onDone }: {
           animate={{ rotate: [0, 360] }} transition={{ duration: 8, repeat: Infinity, ease: "linear" }}>
           🕳️
         </motion.div>
-        <div className="rounded-2xl px-6 py-4 text-center w-full"
+        <div className="rounded-2xl px-5 py-4 w-full flex items-center gap-3"
           style={{ background: "rgba(0,0,0,0.5)", border: `1.5px solid ${color}40` }}>
-          <p className="text-xl font-black text-white">{q.question}</p>
+          <p className="text-xl font-black text-white flex-1 text-center">{q.question}</p>
+          <SpeakButton text={q.question} lang={lang} size={16} />
         </div>
       </div>
 
@@ -444,7 +482,10 @@ function GravitySort({ sortRange, color, onDone }: {
         ))}
       </div>
 
-      <p className="text-white/60 text-sm font-medium text-center">{t.tapAscending}</p>
+      <div className="flex items-center gap-2">
+        <p className="text-white/60 text-sm font-medium text-center">{t.tapAscending}</p>
+        <SpeakButton text={t.tapAscending} lang={lang} size={14} />
+      </div>
 
       {/* Numbers to tap */}
       <div className="flex gap-3 flex-wrap justify-center">
@@ -521,6 +562,9 @@ function StarMatch({ questions, color, onDone }: {
     if (lockRef.current || matched.includes(cardId) || flipped.includes(cardId)) return;
     const newFlipped = [...flipped, cardId];
     setFlipped(newFlipped);
+    // Read the card text aloud when flipped
+    const card = cards.find((c) => c.id === cardId);
+    if (card) speak(card.text, lang);
 
     if (newFlipped.length === 2) {
       lockRef.current = true;
