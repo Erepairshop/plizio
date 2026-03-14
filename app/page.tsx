@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Home as HomeIcon, Medal, CircleDot, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, Star, User, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Home as HomeIcon, Medal, CircleDot, Rocket, type LucideIcon } from "lucide-react";
 import { AnimatePresence } from "framer-motion";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap";
@@ -75,6 +75,7 @@ const TRANSLATIONS = {
       kodex: "Kódex",
       skyclimb: "Sky Climb",
       citydrive: "City Drive",
+      astromath: "AstroMath",
       mathtest: "Math Test",
       deutschtest: "Deutsch Test",
       englishtest: "English Test",
@@ -116,6 +117,7 @@ const TRANSLATIONS = {
       kodex: "Kódex",
       skyclimb: "Égbolt Mászás",
       citydrive: "Város Vezetés",
+      astromath: "AstroMath",
       mathtest: "Matematika Teszt",
       deutschtest: "Német Teszt",
       englishtest: "Angol Teszt",
@@ -157,6 +159,7 @@ const TRANSLATIONS = {
       kodex: "Kódex",
       skyclimb: "Himmelsklettern",
       citydrive: "Stadtfahrt",
+      astromath: "AstroMath",
       mathtest: "Mathematiktest",
       deutschtest: "Deutsch Test",
       englishtest: "English Test",
@@ -198,6 +201,7 @@ const TRANSLATIONS = {
       kodex: "Kódex",
       skyclimb: "Cățărare pe Cer",
       citydrive: "Conducere în Oraș",
+      astromath: "AstroMath",
       mathtest: "Test de Matematică",
       deutschtest: "Test de Germană",
       englishtest: "Test de Engleză",
@@ -340,6 +344,13 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
     icon: BookOpen,
     color: "#4ECDC4",
     games: [
+      {
+        id: "astromath",
+        icon: Rocket,
+        nameKey: "astromath",
+        color: "#B44DFF",
+        gradient: "bg-gradient-to-br from-purple-500/20 to-violet-500/20",
+      },
       {
         id: "mathtest",
         icon: Calculator,
@@ -522,7 +533,7 @@ const GAME_TO_CATEGORY: Record<string, string> = {
   sequencerush: "quizreflex", wordhunt: "quizreflex", milliomos: "quizreflex",
   kodex: "quizreflex",
   skyclimb: "adventure", citydrive: "adventure", racetrack: "adventure", pliziolife: "adventure",
-  mathtest: "brain", deutschtest: "brain", englishtest: "brain",
+  astromath: "brain", mathtest: "brain", deutschtest: "brain", englishtest: "brain",
   numberpath: "logic", minisudoku: "logic", lightout: "logic", numbermerge: "logic", nonogram: "logic", mazerush: "logic",
   pingpong: "sport", airhockey: "sport", tennis: "sport",
 };

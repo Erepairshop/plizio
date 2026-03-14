@@ -1313,6 +1313,8 @@ export default function MathTestPage() {
                 startTest: ui.startTest,
                 generating: ui.generating,
                 topicAreas: ui.topicAreas,
+                selectAllText: ui.selectAllText,
+                selectAllVisual: ui.selectAllVisual,
               } : undefined}
             />
           </div>
