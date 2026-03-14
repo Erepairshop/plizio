@@ -134,6 +134,9 @@ const topicNames: Record<Lang, Record<string, string>> = {
     rounding100: "kerekítés 100-asra",
     fractionDiffDenom: "tört különböző nevezővel",
     systemEq: "egyenletrendszer",
+    quadratic: "másodfokú egyenlet",
+    transformation: "transzformáció",
+    surfaceArea: "felszínszámítás",
     addNoCarry: "összeadás átlépés nélkül",
     addCarry: "összeadás tízes átlépéssel",
     add3nums: "három szám összeadása",
@@ -259,6 +262,9 @@ const topicNames: Record<Lang, Record<string, string>> = {
     rounding100: "Runden auf Hunderter",
     fractionDiffDenom: "Brüche mit versch. Nenner",
     systemEq: "Gleichungssystem",
+    quadratic: "Quadratische Gleichungen",
+    transformation: "Transformationen",
+    surfaceArea: "Oberflächenberechnung",
     addNoCarry: "Addition ohne Zehnerübergang",
     addCarry: "Addition mit Zehnerübergang",
     add3nums: "Drei Zahlen addieren",
@@ -384,6 +390,9 @@ const topicNames: Record<Lang, Record<string, string>> = {
     rounding100: "rounding to 100",
     fractionDiffDenom: "fractions (unlike denominators)",
     systemEq: "systems of equations",
+    quadratic: "quadratic equations",
+    transformation: "transformations",
+    surfaceArea: "surface area",
     addNoCarry: "addition without carrying",
     addCarry: "addition with carrying",
     add3nums: "adding three numbers",
@@ -509,6 +518,9 @@ const topicNames: Record<Lang, Record<string, string>> = {
     rounding100: "rotunjire la 100",
     fractionDiffDenom: "fracții cu numitori diferiți",
     systemEq: "sistem de ecuații",
+    quadratic: "ecuații de gradul 2",
+    transformation: "transformări geometrice",
+    surfaceArea: "aria suprafeței",
     addNoCarry: "adunare fără transport",
     addCarry: "adunare cu transport",
     add3nums: "adunarea a trei numere",
@@ -817,10 +829,10 @@ export function qAmPmActivityEnd(startH: number, durH: number, countryCode: stri
 // ─── PLACE VALUE ─────────────────────────────
 
 const placeValueNames: Record<Lang, Record<string, string>> = {
-  HU: { ones: "egyes", tens: "tízes", hundreds: "százas", thousands: "ezres" },
-  DE: { ones: "Einer", tens: "Zehner", hundreds: "Hunderter", thousands: "Tausender" },
-  EN: { ones: "ones", tens: "tens", hundreds: "hundreds", thousands: "thousands" },
-  RO: { ones: "unități", tens: "zeci", hundreds: "sute", thousands: "mii" },
+  HU: { ones: "egyes", tens: "tízes", hundreds: "százas", thousands: "ezres", "ten-thousands": "tízezres", "hundred-thousands": "százezres" },
+  DE: { ones: "Einer", tens: "Zehner", hundreds: "Hunderter", thousands: "Tausender", "ten-thousands": "Zehntausender", "hundred-thousands": "Hunderttausender" },
+  EN: { ones: "ones", tens: "tens", hundreds: "hundreds", thousands: "thousands", "ten-thousands": "ten-thousands", "hundred-thousands": "hundred-thousands" },
+  RO: { ones: "unități", tens: "zeci", hundreds: "sute", thousands: "mii", "ten-thousands": "zeci de mii", "hundred-thousands": "sute de mii" },
 };
 
 export function qPlaceValue(n: number, place: string, countryCode: string): string {
@@ -3020,6 +3032,30 @@ export function qMinutesToHours(min: number, countryCode: string): string {
   }
 }
 
+// Grade 4: mixed hours+minutes → total minutes (e.g. "2 Std. 35 Min. = ? Min.")
+export function qHoursMinutesToMinutes(h: number, min: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${h} Stunde${h > 1 ? 'n' : ''} ${min} Minuten = ? Minuten`;
+    case "EN": return `${h} hour${h > 1 ? 's' : ''} ${min} minutes = ? minutes`;
+    case "RO": return `${h} or${h > 1 ? 'e' : 'ă'} ${min} minute = ? minute`;
+    default:   return `${h} óra ${min} perc = ? perc`;
+  }
+}
+
+// Grade 4: elapsed time in minutes between two clock times (whole hours only, clean result)
+export function qElapsedMinutes(startH: number, startMin: number, endH: number, endMin: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const fmtDE = (h: number, m: number) => `${h}:${String(m).padStart(2, '0')} Uhr`;
+  const fmtEN = (h: number, m: number) => `${h}:${String(m).padStart(2, '0')}`;
+  switch (lang) {
+    case "DE": return `Von ${fmtDE(startH, startMin)} bis ${fmtDE(endH, endMin)}: Wie viele Minuten?`;
+    case "EN": return `From ${fmtEN(startH, startMin)} to ${fmtEN(endH, endMin)}: how many minutes?`;
+    case "RO": return `De la ${fmtEN(startH, startMin)} până la ${fmtEN(endH, endMin)}: câte minute?`;
+    default:   return `${fmtEN(startH, startMin)}-tól ${fmtEN(endH, endMin)}-ig hány perc?`;
+  }
+}
+
 export function qRunnerLaps(distPerLap: number, totalDist: number, countryCode: string): string {
   const lang = getLang(countryCode);
   switch (lang) {
@@ -3368,8 +3404,8 @@ export function qAngleSumTriangle(countryCode: string): string {
 export function qRightAnglesInShape(shape: string, countryCode: string): string {
   const lang = getLang(countryCode);
   const shapes: Record<string, Record<string, string>> = {
-    rectangle: { DE: "einem Rechteck", EN: "a rectangle", RO: "un dreptunghi", HU: "a téglalapnak" },
-    square:    { DE: "einem Quadrat",   EN: "a square",    RO: "un pătrat",    HU: "a négyzetnek" },
+    rectangle: { DE: "ein Rechteck", EN: "a rectangle", RO: "un dreptunghi", HU: "a téglalapnak" },
+    square:    { DE: "ein Quadrat",   EN: "a square",    RO: "un pătrat",    HU: "a négyzetnek" },
   };
   const s = shapes[shape]?.[lang] ?? shapes[shape]?.["EN"] ?? shape;
   switch (lang) {
@@ -3416,5 +3452,499 @@ export function wpVisualShare(total: number, emoji: string, kids: number, countr
     case "EN": return `${items}  ${total} items shared equally among ${kids} children. How many does each child get?`;
     case "RO": return `${items}  ${total} obiecte împărțite egal între ${kids} copii. Câte primește fiecare?`;
     default:   return `${items}  ${total} darabot ${kids} gyerek közt osztanak el egyenlően. Mindenki hányat kap?`;
+  }
+}
+
+// ─── GRADE 6 HELPERS ─────────────────────────────
+
+export function qAbsoluteValue(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `|${n}| = ?`;
+    case "EN": return `|${n}| = ?`;
+    case "RO": return `|${n}| = ?`;
+    default:   return `|${n}| = ?`;
+  }
+}
+
+export function qNegCompare(a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Welche Zahl ist größer: ${a} oder ${b}?`;
+    case "EN": return `Which number is greater: ${a} or ${b}?`;
+    case "RO": return `Care număr este mai mare: ${a} sau ${b}?`;
+    default:   return `Melyik szám nagyobb: ${a} vagy ${b}?`;
+  }
+}
+
+export function qFracMulFrac(an: number, ad: number, bn: number, bd: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const q = `${an}/${ad} × ${bn}/${bd} = ?`;
+  switch (lang) {
+    case "DE": return `${an}/${ad} · ${bn}/${bd} = ?`;
+    case "EN": return q;
+    case "RO": return q;
+    default:   return q;
+  }
+}
+
+export function qFracDivFrac(an: number, ad: number, bn: number, bd: number, countryCode: string): string {
+  const q = `${an}/${ad} ÷ ${bn}/${bd} = ?`;
+  return q;
+}
+
+export function qFracToPercent(n: number, d: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${n}/${d} = ? %`;
+    case "EN": return `${n}/${d} = ? %`;
+    case "RO": return `${n}/${d} = ? %`;
+    default:   return `${n}/${d} = ? %`;
+  }
+}
+
+export function qPercentToFrac(p: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${p}% als Bruch (im Nenner 100): ${p}/? = vereinfacht ?`;
+    case "EN": return `Write ${p}% as a fraction in simplest form.  ${p}/100 = ?`;
+    case "RO": return `Scrie ${p}% ca fracție simplificată. ${p}/100 = ?`;
+    default:   return `Írd törtalakra: ${p}% = ${p}/100 = ?`;
+  }
+}
+
+export function qRatioMissing(a: number, b: number, c: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${a} : ${b} = ${c} : ?`;
+    case "EN": return `${a} : ${b} = ${c} : ?`;
+    case "RO": return `${a} : ${b} = ${c} : ?`;
+    default:   return `${a} : ${b} = ${c} : ?`;
+  }
+}
+
+export function qRuleOfThree(price: number, qty: number, targetQty: number, cur: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${qty} Stück kosten ${price} ${cur}. Was kosten ${targetQty} Stück?`;
+    case "EN": return `${qty} items cost ${price} ${cur}. How much do ${targetQty} items cost?`;
+    case "RO": return `${qty} bucăți costă ${price} ${cur}. Cât costă ${targetQty} bucăți?`;
+    default:   return `${qty} darab ára ${price} ${cur}. Mennyibe kerül ${targetQty} darab?`;
+  }
+}
+
+export function qInverseRatio(workers: number, days: number, newWorkers: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${workers} Arbeiter brauchen ${days} Tage. Wie viele Tage brauchen ${newWorkers} Arbeiter für dieselbe Arbeit?`;
+    case "EN": return `${workers} workers take ${days} days. How many days do ${newWorkers} workers need for the same job?`;
+    case "RO": return `${workers} muncitori lucrează ${days} zile. Câte zile lucrează ${newWorkers} muncitori?`;
+    default:   return `${workers} munkásnak ${days} nap kell. ${newWorkers} munkásnak hány nap kell ugyanahhoz?`;
+  }
+}
+
+export function qSpeedTime(distance: number, speed: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Eine Strecke von ${distance} km wird mit ${speed} km/h zurückgelegt. Wie viele Stunden dauert die Fahrt?`;
+    case "EN": return `A journey of ${distance} km at ${speed} km/h. How many hours does it take?`;
+    case "RO": return `O distanță de ${distance} km se parcurge cu ${speed} km/h. Câte ore durează?`;
+    default:   return `${distance} km-t ${speed} km/h sebességgel tesznek meg. Hány óráig tart?`;
+  }
+}
+
+export function qPercentWhat(part: number, whole: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${part} ist wie viel Prozent von ${whole}?`;
+    case "EN": return `${part} is what percent of ${whole}?`;
+    case "RO": return `${part} reprezintă câte procente din ${whole}?`;
+    default:   return `${part} hány százaléka ${whole}-nak?`;
+  }
+}
+
+export function qPercentBase(pct: number, result: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${pct}% von welcher Zahl ergibt ${result}?`;
+    case "EN": return `${pct}% of what number equals ${result}?`;
+    case "RO": return `${pct}% din ce număr dă ${result}?`;
+    default:   return `${result} egy szám ${pct} százaléka. Mi az a szám?`;
+  }
+}
+
+export function qPercentIncrease(base: number, pct: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${base} wird um ${pct}% erhöht. Was ist das Ergebnis?`;
+    case "EN": return `${base} increased by ${pct}%. What is the result?`;
+    case "RO": return `${base} se mărește cu ${pct}%. Care este rezultatul?`;
+    default:   return `${base}-t ${pct}%-kal növelik. Mi lesz az eredmény?`;
+  }
+}
+
+export function qPercentDecrease(base: number, pct: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${base} wird um ${pct}% verringert. Was ist das Ergebnis?`;
+    case "EN": return `${base} decreased by ${pct}%. What is the result?`;
+    case "RO": return `${base} se micșorează cu ${pct}%. Care este rezultatul?`;
+    default:   return `${base}-t ${pct}%-kal csökkentik. Mi lesz az eredmény?`;
+  }
+}
+
+export function qExprEval(coeff: number, add: number, val: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const expr = coeff === 1 ? `x + ${add}` : `${coeff}x + ${add}`;
+  switch (lang) {
+    case "DE": return `Berechne ${expr} für x = ${val}.`;
+    case "EN": return `Evaluate ${expr} when x = ${val}.`;
+    case "RO": return `Calculează ${expr} pentru x = ${val}.`;
+    default:   return `Számítsd ki: ${expr}, ha x = ${val}!`;
+  }
+}
+
+export function qEquation1Step(op: string, n: number, result: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const eqn = op === "add" ? `x + ${n} = ${result}` : op === "sub" ? `x − ${n} = ${result}` : op === "mul" ? `${n}x = ${result}` : `x / ${n} = ${result}`;
+  switch (lang) {
+    case "DE": return `Löse die Gleichung: ${eqn}`;
+    case "EN": return `Solve: ${eqn}`;
+    case "RO": return `Rezolvă ecuația: ${eqn}`;
+    default:   return `Oldd meg: ${eqn}`;
+  }
+}
+
+export function qEquation2Step(a: number, b: number, result: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  const eqn = b >= 0 ? `${a}x + ${b} = ${result}` : `${a}x − ${Math.abs(b)} = ${result}`;
+  switch (lang) {
+    case "DE": return `Löse die Gleichung: ${eqn}`;
+    case "EN": return `Solve: ${eqn}`;
+    case "RO": return `Rezolvă ecuația: ${eqn}`;
+    default:   return `Oldd meg: ${eqn}`;
+  }
+}
+
+export function qAreaParallelogram(b: number, h: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Parallelogramm hat Grundseite ${b} cm und Höhe ${h} cm. Wie groß ist der Flächeninhalt?`;
+    case "EN": return `A parallelogram has base ${b} cm and height ${h} cm. What is its area?`;
+    case "RO": return `Un paralelogram are baza ${b} cm și înălțimea ${h} cm. Care este aria?`;
+    default:   return `Egy paralelogramma alapja ${b} cm, magassága ${h} cm. Mekkora a területe?`;
+  }
+}
+
+export function qAreaTrapezoid(a: number, b: number, h: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Trapez hat die parallelen Seiten ${a} cm und ${b} cm, Höhe ${h} cm. Berechne den Flächeninhalt.`;
+    case "EN": return `A trapezoid has parallel sides ${a} cm and ${b} cm, height ${h} cm. Calculate its area.`;
+    case "RO": return `Un trapez are bazele de ${a} cm și ${b} cm, înălțimea ${h} cm. Calculează aria.`;
+    default:   return `Egy trapéz párhuzamos oldalai ${a} cm és ${b} cm, magassága ${h} cm. Számítsd ki a területét!`;
+  }
+}
+
+export function qSurfaceBox(a: number, b: number, c: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Quader hat die Maße ${a} cm × ${b} cm × ${c} cm. Wie groß ist die Oberfläche?`;
+    case "EN": return `A rectangular prism has dimensions ${a} cm × ${b} cm × ${c} cm. What is its surface area?`;
+    case "RO": return `Un paralelipiped are dimensiunile ${a} cm × ${b} cm × ${c} cm. Care este suprafața?`;
+    default:   return `Egy téglatest méretei: ${a} cm × ${b} cm × ${c} cm. Mekkora a felszíne?`;
+  }
+}
+
+export function qCoord4Q(x: number, y: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Punkt P liegt bei (${x} | ${y}). In welchem Quadranten liegt P?`;
+    case "EN": return `Point P is at (${x}, ${y}). In which quadrant is P?`;
+    case "RO": return `Punctul P se află la (${x}; ${y}). În ce cadran se află?`;
+    default:   return `A P pont koordinátái (${x}; ${y}). Melyik negyedben van P?`;
+  }
+}
+
+export function qMode(nums: number[], countryCode: string): string {
+  const lang = getLang(countryCode);
+  const list = nums.join(", ");
+  switch (lang) {
+    case "DE": return `Finde den Modus (häufigster Wert): ${list}`;
+    case "EN": return `Find the mode (most frequent value): ${list}`;
+    case "RO": return `Găsește modul (valoarea cea mai frecventă): ${list}`;
+    default:   return `Melyik szám fordul elő legtöbbször? ${list}`;
+  }
+}
+
+export function qRange(nums: number[], countryCode: string): string {
+  const lang = getLang(countryCode);
+  const list = nums.join(", ");
+  switch (lang) {
+    case "DE": return `Wie groß ist die Spannweite dieser Datenmenge? ${list}`;
+    case "EN": return `What is the range of this data set? ${list}`;
+    case "RO": return `Care este intervalul acestui set de date? ${list}`;
+    default:   return `Mekkora a terjedelem? ${list}`;
+  }
+}
+
+export function wpNegTemp(warm: number, cold: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Tagsüber waren es ${warm}°C, nachts sank die Temperatur auf ${cold}°C. Um wie viel Grad ist die Temperatur gesunken?`;
+    case "EN": return `During the day it was ${warm}°C, at night it dropped to ${cold}°C. How many degrees did the temperature fall?`;
+    case "RO": return `Ziua temperatura era ${warm}°C, noaptea a scăzut la ${cold}°C. Cu câte grade a scăzut?`;
+    default:   return `Nappal ${warm}°C volt, éjjel ${cold}°C-ra süllyedt. Mennyit csökkent a hőmérséklet?`;
+  }
+}
+
+export function wpRatioSplit(total: number, a: number, b: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${total} wird im Verhältnis ${a}:${b} aufgeteilt. Wie groß ist der größere Teil?`;
+    case "EN": return `${total} is split in the ratio ${a}:${b}. What is the larger share?`;
+    case "RO": return `${total} se împarte în raportul ${a}:${b}. Care este partea mai mare?`;
+    default:   return `${total}-t ${a}:${b} arányban osztják el. Mekkora a nagyobb rész?`;
+  }
+}
+
+export function wpPercentTax(price: number, pct: number, cur: string, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Produkt kostet ${price} ${cur} (ohne Steuer). Die Mehrwertsteuer beträgt ${pct}%. Wie viel zahlst du insgesamt?`;
+    case "EN": return `A product costs ${price} ${cur} before tax. The sales tax is ${pct}%. How much do you pay in total?`;
+    case "RO": return `Un produs costă ${price} ${cur} fără TVA. TVA este ${pct}%. Cât plătești în total?`;
+    default:   return `Egy termék ára ${price} ${cur} (adó nélkül). Az áfa ${pct}%. Mennyit fizetsz összesen?`;
+  }
+}
+
+export function wpNegDebt(earned: number, spent: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Anna hat ${earned} € gespart, aber ${spent} € ausgegeben. Wie viel hat sie jetzt (negativ = Schulden)?`;
+    case "EN": return `Anna saved ${earned} € but spent ${spent} €. How much does she have now (negative = debt)?`;
+    case "RO": return `Ana a economisit ${earned} € dar a cheltuit ${spent} €. Cât are acum (negativ = datorie)?`;
+    default:   return `Anna ${earned} €-t spórolt, de ${spent} €-t költött. Mennyi van most (negatív = adósság)?`;
+  }
+}
+
+// ─── GRADE 8 HELPERS ─────────────────────────────────────────────────────────
+
+export function qSqrtEstimate(n: number, lo: number, hi: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Zwischen welchen zwei aufeinanderfolgenden ganzen Zahlen liegt √${n}? (Kleinere Zahl)`;
+    case "EN": return `Between which two consecutive integers does √${n} lie? (Give the smaller one)`;
+    case "RO": return `Între ce numere întregi consecutive se află √${n}? (Dați numărul mai mic)`;
+    default:   return `Melyik két egymást követő egész szám közé esik √${n}? (A kisebbet add meg!)`;
+  }
+}
+
+export function qSqrtSimplify(n: number, a: number, b: number, countryCode: string): string {
+  // √(a²·b) = a√b
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `√${n} = a·√${b}. Was ist a?`;
+    case "EN": return `√${n} = a·√${b}. What is a?`;
+    case "RO": return `√${n} = a·√${b}. Cât este a?`;
+    default:   return `√${n} = a·√${b}. Mennyi a?`;
+  }
+}
+
+export function qQuadraticSimple(n: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Löse: x² = ${n}. Wie viel ist x? (positive Lösung)`;
+    case "EN": return `Solve: x² = ${n}. What is x? (positive solution)`;
+    case "RO": return `Rezolvă: x² = ${n}. Cât este x? (soluția pozitivă)`;
+    default:   return `Oldd meg: x² = ${n}. Mennyi x? (pozitív megoldás)`;
+  }
+}
+
+export function qQuadraticShifted(a: number, b: number, x: number, countryCode: string): string {
+  // (x + a)² = b  → x = √b - a  (b is perfect square)
+  const rhs = (x + a) * (x + a);
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Löse: (x + ${a})² = ${rhs}. x = ? (positive Lösung)`;
+    case "EN": return `Solve: (x + ${a})² = ${rhs}. x = ? (positive solution)`;
+    case "RO": return `Rezolvă: (x + ${a})² = ${rhs}. x = ? (soluția pozitivă)`;
+    default:   return `Oldd meg: (x + ${a})² = ${rhs}. x = ? (pozitív megoldás)`;
+  }
+}
+
+export function qFuncSlope(x1: number, y1: number, x2: number, y2: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Eine Gerade geht durch (${x1}, ${y1}) und (${x2}, ${y2}). Wie groß ist die Steigung m?`;
+    case "EN": return `A line passes through (${x1}, ${y1}) and (${x2}, ${y2}). What is the slope m?`;
+    case "RO": return `O dreaptă trece prin (${x1}, ${y1}) și (${x2}, ${y2}). Cât este panta m?`;
+    default:   return `Egy egyenes átmegy a (${x1}, ${y1}) és (${x2}, ${y2}) pontokon. Mekkora a meredeksége m?`;
+  }
+}
+
+export function qFuncNegSlope(m: number, b: number, x: number, countryCode: string): string {
+  const bStr = b >= 0 ? `+ ${b}` : `- ${Math.abs(b)}`;
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `f(x) = ${m}x ${bStr}. Berechne f(${x}).`;
+    case "EN": return `f(x) = ${m}x ${bStr}. Calculate f(${x}).`;
+    case "RO": return `f(x) = ${m}x ${bStr}. Calculați f(${x}).`;
+    default:   return `f(x) = ${m}x ${bStr}. Számítsd ki f(${x}) értékét!`;
+  }
+}
+
+export function qFuncFindEq(x1: number, y1: number, m: number, b: number, countryCode: string): string {
+  const bStr = b >= 0 ? `+ ${b}` : `- ${Math.abs(b)}`;
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Eine Gerade hat Steigung ${m} und geht durch (${x1}, ${y1}). Der y-Achsenabschnitt b = ?`;
+    case "EN": return `A line has slope ${m} and passes through (${x1}, ${y1}). The y-intercept b = ?`;
+    case "RO": return `O dreaptă are panta ${m} și trece prin (${x1}, ${y1}). Ordonata la origine b = ?`;
+    default:   return `Egy egyenes meredeksége ${m} és átmegy a (${x1}, ${y1}) ponton. A b tengelymetszet = ?`;
+  }
+}
+
+export function qSystemSubst(a: number, b: number, s: number, c: number, d: number, t2: number, x: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Löse das System: ${a}x + ${b}y = ${s} und ${c}x - y = ${d}. x = ?`;
+    case "EN": return `Solve the system: ${a}x + ${b}y = ${s} and ${c}x - y = ${d}. x = ?`;
+    case "RO": return `Rezolvă sistemul: ${a}x + ${b}y = ${s} și ${c}x - y = ${d}. x = ?`;
+    default:   return `Oldd meg az egyenletrendszert: ${a}x + ${b}y = ${s} és ${c}x - y = ${d}. x = ?`;
+  }
+}
+
+export function qProbComplementary(p: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Die Wahrscheinlichkeit eines Ereignisses A beträgt ${p}%. Wie hoch ist die Wahrscheinlichkeit (%), dass A NICHT eintritt?`;
+    case "EN": return `The probability of event A is ${p}%. What is the probability (%) that A does NOT occur?`;
+    case "RO": return `Probabilitatea evenimentului A este ${p}%. Care este probabilitatea (%) că A nu are loc?`;
+    default:   return `Az A esemény valószínűsége ${p}%. Mekkora a valószínűsége (%), hogy A NEM következik be?`;
+  }
+}
+
+export function qProbTwoEvents(p1: number, p2: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Zwei unabhängige Ereignisse haben Wahrscheinlichkeit ${p1}% und ${p2}%. Wahrscheinlichkeit (%), dass BEIDE eintreten?`;
+    case "EN": return `Two independent events have probability ${p1}% and ${p2}%. What is the probability (%) that BOTH occur?`;
+    case "RO": return `Două evenimente independente au probabilitatea ${p1}% și ${p2}%. Probabilitatea (%) că AMBELE au loc?`;
+    default:   return `Két független esemény valószínűsége ${p1}% és ${p2}%. Mekkora a valószínűsége (%), hogy MINDKETTŐ bekövetkezik?`;
+  }
+}
+
+export function qProbAtLeastOne(p1: number, p2: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Zwei unabhängige Ereignisse haben Wahrscheinlichkeit ${p1}% und ${p2}%. Wahrscheinlichkeit (%), dass MINDESTENS EINES eintritt?`;
+    case "EN": return `Two independent events have probability ${p1}% and ${p2}%. What is the probability (%) that AT LEAST ONE occurs?`;
+    case "RO": return `Două evenimente independente au probabilitatea ${p1}% și ${p2}%. Probabilitatea (%) că CEL PUȚIN UNA are loc?`;
+    default:   return `Két független esemény valószínűsége ${p1}% és ${p2}%. Mekkora a valószínűsége (%), hogy LEGALÁBB EGYIKÜK bekövetkezik?`;
+  }
+}
+
+export function qStatsMean8(nums: number[], countryCode: string): string {
+  const str = nums.join(", ");
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Berechne den Mittelwert der Datenmenge: ${str}`;
+    case "EN": return `Calculate the mean of the data set: ${str}`;
+    case "RO": return `Calculați media aritmetică: ${str}`;
+    default:   return `Számítsd ki az átlagot: ${str}`;
+  }
+}
+
+export function qStatsVarianceSimple(nums: number[], mean: number, countryCode: string): string {
+  const str = nums.join(", ");
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Daten: ${str}. Der Mittelwert ist ${mean}. Berechne die Spannweite.`;
+    case "EN": return `Data: ${str}. The mean is ${mean}. Calculate the range.`;
+    case "RO": return `Date: ${str}. Media este ${mean}. Calculați amplitudinea.`;
+    default:   return `Adatok: ${str}. Az átlag ${mean}. Számítsd ki a szórást (max−min)!`;
+  }
+}
+
+export function qTranslatePoint(x: number, y: number, dx: number, dy: number, countryCode: string): string {
+  const dxStr = dx >= 0 ? `+${dx}` : `${dx}`;
+  const dyStr = dy >= 0 ? `+${dy}` : `${dy}`;
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Verschiebe den Punkt (${x}, ${y}) um (${dxStr}, ${dyStr}). Was ist die neue x-Koordinate?`;
+    case "EN": return `Translate point (${x}, ${y}) by (${dxStr}, ${dyStr}). What is the new x-coordinate?`;
+    case "RO": return `Translați punctul (${x}, ${y}) cu (${dxStr}, ${dyStr}). Care este noua coordonată x?`;
+    default:   return `Toldj el a (${x}, ${y}) pontot (${dxStr}, ${dyStr}) vektorral! Mi az új x-koordináta?`;
+  }
+}
+
+export function qReflectPointX(x: number, y: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Spiegle den Punkt (${x}, ${y}) an der x-Achse. Was ist die y-Koordinate des Bildpunkts?`;
+    case "EN": return `Reflect point (${x}, ${y}) across the x-axis. What is the y-coordinate of the image?`;
+    case "RO": return `Reflectați punctul (${x}, ${y}) față de axa x. Care este coordonata y a imaginii?`;
+    default:   return `Tükrözd a (${x}, ${y}) pontot az x-tengelyre! Mi a tükörkép y-koordinátája?`;
+  }
+}
+
+export function qReflectPointY(x: number, y: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Spiegle den Punkt (${x}, ${y}) an der y-Achse. Was ist die x-Koordinate des Bildpunkts?`;
+    case "EN": return `Reflect point (${x}, ${y}) across the y-axis. What is the x-coordinate of the image?`;
+    case "RO": return `Reflectați punctul (${x}, ${y}) față de axa y. Care este coordonata x a imaginii?`;
+    default:   return `Tükrözd a (${x}, ${y}) pontot az y-tengelyre! Mi a tükörkép x-koordinátája?`;
+  }
+}
+
+export function qScaleFactor(origLen: number, newLen: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Eine Strecke von ${origLen} cm wird auf ${newLen} cm vergrößert. Was ist der Maßstabsfaktor?`;
+    case "EN": return `A segment of ${origLen} cm is enlarged to ${newLen} cm. What is the scale factor?`;
+    case "RO": return `Un segment de ${origLen} cm este mărit la ${newLen} cm. Care este factorul de scară?`;
+    default:   return `Egy ${origLen} cm-es szakaszt ${newLen} cm-re nagyítanak. Mekkora a nagyítási arány?`;
+  }
+}
+
+export function qSurfaceCylinder(r: number, h: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Ein Zylinder hat Radius ${r} cm und Höhe ${h} cm. Berechne die Mantelfläche M = 2πrh ≈ ? cm² (π ≈ 3)`;
+    case "EN": return `A cylinder has radius ${r} cm and height ${h} cm. Calculate the lateral surface area M = 2πrh ≈ ? cm² (π ≈ 3)`;
+    case "RO": return `Un cilindru are raza ${r} cm și înălțimea ${h} cm. Calculați aria laterală M = 2πrh ≈ ? cm² (π ≈ 3)`;
+    default:   return `Egy henger sugara ${r} cm, magassága ${h} cm. Számítsd ki a palástot: M = 2πrh ≈ ? cm² (π ≈ 3)`;
+  }
+}
+
+export function wpSystemWord(name1: string, name2: string, total: number, diff: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `${name1} und ${name2} haben zusammen ${total} Punkte. ${name1} hat ${diff} Punkte mehr. Wie viele Punkte hat ${name1}?`;
+    case "EN": return `${name1} and ${name2} have ${total} points in total. ${name1} has ${diff} more points. How many points does ${name1} have?`;
+    case "RO": return `${name1} și ${name2} au împreună ${total} puncte. ${name1} are cu ${diff} mai mult. Câte puncte are ${name1}?`;
+    default:   return `${name1} és ${name2} összesen ${total} pontot szerzett. ${name1}-nek ${diff}-vel több van. Hány pontja van ${name1}-nek?`;
+  }
+}
+
+export function wpSpeedSystem(d1: number, d2: number, v1: number, v2: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Zug A fährt ${v1} km/h, Zug B fährt ${v2} km/h in dieselbe Richtung. Startabstand: ${d1} km. Wann (nach wie vielen Stunden) holt Zug A den Zug B ein?`;
+    case "EN": return `Train A travels at ${v1} km/h, Train B at ${v2} km/h in the same direction. Initial gap: ${d1} km. After how many hours does train A catch train B?`;
+    case "RO": return `Trenul A merge cu ${v1} km/h, trenul B cu ${v2} km/h în aceeași direcție. Distanța inițială: ${d1} km. După câte ore îl ajunge trenul A?`;
+    default:   return `Az A vonat ${v1} km/h, a B vonat ${v2} km/h sebességgel halad azonos irányban. Kezdeti távolságuk: ${d1} km. Hány óra múlva éri utol az A vonat a B vonatot?`;
+  }
+}
+
+export function qRotate90(x: number, y: number, countryCode: string): string {
+  const lang = getLang(countryCode);
+  switch (lang) {
+    case "DE": return `Drehe den Punkt (${x}, ${y}) um 90° gegen den Uhrzeigersinn um den Ursprung. Neue y-Koordinate?`;
+    case "EN": return `Rotate point (${x}, ${y}) by 90° counterclockwise around the origin. New y-coordinate?`;
+    case "RO": return `Rotiți punctul (${x}, ${y}) cu 90° în sens invers acelor de ceasornic în jurul originii. Noua coordonată y?`;
+    default:   return `Forgasd el a (${x}, ${y}) pontot 90°-kal az origó körül! Mi az új y-koordináta?`;
   }
 }

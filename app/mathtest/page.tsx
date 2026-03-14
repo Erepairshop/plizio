@@ -92,6 +92,7 @@ import ExamResultsDisplay from "@/components/ExamResultsDisplay";
 import MathQuestionDisplay from "@/components/MathQuestionDisplay";
 import { DraftProvider } from "@/components/draft";
 import { convertToExtendedQuestion, isVisualQuestion } from "@/lib/mathQuestionUtils";
+import { isVisualTopicKey } from "@/lib/schoolTaskGenerator";
 import ModernPaperTest from "@/components/ModernPaperTest";
 import SchoolTaskBlock from "@/components/SchoolTaskBlock";
 import {
@@ -725,6 +726,7 @@ export default function MathTestPage() {
           icon: topic.icon,
           taskFile: '',
           taskIds: [],
+          isVisual: isVisualTopicKey(topic.key),
         })),
       }));
     }
@@ -1313,6 +1315,8 @@ export default function MathTestPage() {
                 startTest: ui.startTest,
                 generating: ui.generating,
                 topicAreas: ui.topicAreas,
+                selectAllText: ui.selectAllText,
+                selectAllVisual: ui.selectAllVisual,
               } : undefined}
             />
           </div>

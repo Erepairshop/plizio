@@ -1223,6 +1223,83 @@ Szabályok:
 
 ---
 
+## ASTROMATH — Animált felfedező matematika (1-8. osztály)
+
+> Állapot: fejlesztés alatt (2026-03-14) — jelenleg 5 demo bolygó (1. osztály csak)
+> Route: `/astromath`
+> Mottó: „Nem kérdezünk — tanítunk. A játék maga a tanítás."
+
+### Koncepció (teljes vízió)
+
+Az AstroMath egy **2-szintes térképrendszer**:
+
+1. **Galaxia térkép** — 8 bolygó = 8 osztály (1-8. osztály)
+   - Minden bolygó láthatóan jelöli a tanévet: „1. osztály", „2. osztály" stb.
+   - Bolygóra kattintva megnyílik a bolygó saját térképe
+
+2. **Bolygó térkép** — szigetek = az adott év témakörjei
+   - Pl. 1. osztály bolygón: Számolás sziget, Összeadás sziget, Kivonás sziget...
+   - Szigetre kattintva felfedező jelenetek sorozata nyílik meg
+
+3. **Felfedező jelenet** (discovery scene) — a tanítás maga
+   - Animált vizuális jelenet (nem kérdés-válasz!)
+   - A gyerek megnyom egy gombot → animáció mutatja a műveletet
+   - Egyenlet megjelenik mint **felfedezés** (nem mint ellenőrzés)
+   - Típusok: `count`, `add`, `sub`, `missing`
+
+### Jelenet típusok (DiscoverScene)
+
+| Típus | Mit mutat | Gomb | Animáció |
+|-------|-----------|------|---------|
+| `count` | N tárgy | SZÁMOLJ! | Tárgyak egyenként kiszíneznek + számjegy badge |
+| `add` | A csoport + B csoport | ÖSSZEOLVAD! | Jobb csoport animálva repül a balhoz |
+| `sub` | A tárgy | ELTŰNIK! | Utolsó B tárgy scale→0 animációval eltűnik |
+| `missing` | Egyik oldal „?" | FELFED! | Rejtett csoport spring animációval megjelenik |
+
+### Hang effektek (tervezett)
+
+- Bolygó kiválasztás: „whoosh" + pozitív csengő
+- Jelenet gomb nyomás: „boing" / „launch" hangeffekt
+- Animáció csúcsa (pl. összeolvadás): „fusion" hangeffekt
+- Egyenlet megjelenés: „ding" / „ta-da!" hangeffekt
+- Sziget teljesítés: kis fanfár
+- Bolygó teljesítés: nagy fanfár + confetti
+
+### Jelenlegi megvalósítás (demo állapot)
+
+- 5 bolygó (egy osztály témakörjei feldarabolva)
+- Nincs még a 8-osztályos hierarchia
+- Nincs hangeffekt még
+- Sziget szint még hiányzik
+
+### Tervezett fájlstruktúra (teljes implementációhoz)
+
+```
+app/astromath/page.tsx       ← Galaxia térkép (8 bolygó)
+app/astromath/[grade]/       ← Bolygó térkép (szigetek)
+  page.tsx
+lib/astromath/
+  curriculum.ts              ← Jelenet adatok grade+topic szerint
+  planets.ts                 ← Bolygó + sziget definíciók (G1-G8)
+  audio.ts                   ← Hangeffekt lejátszás
+```
+
+### localStorage
+
+| Kulcs | Tartalom |
+|-------|---------|
+| `astromath_save_v1` | `{ completedPlanets: string[] }` |
+
+### Fejlesztési sorrend (TODO)
+
+1. **Hangeffektek** — Web Audio API vagy rövid MP3 fájlok
+2. **8-osztályos struktúra** — Galaxia térkép 8 bolygóval, vizuálisan jelölt évfolyamok
+3. **Bolygó al-térkép** — SVG szigetes térkép, temakörönként 1 sziget
+4. **G2-G8 jelenet adatok** — témakörönként 5-7 felfedező jelenet
+5. **Haladás mentés** — jelenet/sziget szinten is menteni
+
+---
+
 ## PLIZIO WORLD — Meta-progression rendszer
 
 > Allapot: tervezesi fazis (2026-03-07)

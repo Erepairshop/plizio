@@ -1,16 +1,17 @@
 "use client";
 
 import React, { useState, memo } from "react";
-import { Grid3X3, Divide, X as Multiply, PenTool } from "lucide-react";
+import { Grid3X3, Divide, X as Multiply, PenTool, Calculator } from "lucide-react";
 import ColumnMathDraft from "./ColumnMathDraft";
 import DivisionDraft from "./DivisionDraft";
 import MultiplicationDraft from "./MultiplicationDraft";
 import FreeDraftCanvas from "./FreeDraftCanvas";
+import StepCalcDraft from "./StepCalcDraft";
 import { getDraftT } from "./draftI18n";
 
 // ─── TYPES ─────────────────────────────────────────────────
 
-type DraftType = "column" | "division" | "multiplication" | "free";
+type DraftType = "calc" | "column" | "multiplication" | "division" | "free";
 
 interface DraftPanelProps {
   testId: string;
@@ -22,10 +23,11 @@ interface DraftPanelProps {
 // ─── MAIN COMPONENT ─────────────────────────────────────────
 
 function DraftPanel({ testId, questionId, suggestedType, countryCode = "DE" }: DraftPanelProps) {
-  const [activeType, setActiveType] = useState<DraftType>(suggestedType || "column");
+  const [activeType, setActiveType] = useState<DraftType>(suggestedType || "calc");
   const t = getDraftT(countryCode);
 
   const TABS: { type: DraftType; label: string; shortLabel: string; icon: React.ReactNode }[] = [
+    { type: "calc", label: t.tabCalc, shortLabel: t.tabCalcShort, icon: <Calculator size={14} /> },
     { type: "column", label: t.tabColumn, shortLabel: t.tabColumnShort, icon: <Grid3X3 size={14} /> },
     { type: "multiplication", label: t.tabMultiplication, shortLabel: "×", icon: <Multiply size={14} /> },
     { type: "division", label: t.tabDivision, shortLabel: "÷", icon: <Divide size={14} /> },
@@ -66,6 +68,9 @@ function DraftPanel({ testId, questionId, suggestedType, countryCode = "DE" }: D
 
       {/* Active draft */}
       <div className="relative">
+        {activeType === "calc" && (
+          <StepCalcDraft countryCode={countryCode} />
+        )}
         {activeType === "column" && (
           <ColumnMathDraft testId={testId} questionId={questionId} countryCode={countryCode} />
         )}
