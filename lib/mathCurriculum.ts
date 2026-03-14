@@ -529,9 +529,11 @@ const G1: Record<string, Generator> = {
   sub20b: (cc) => { const a = randInt(13, 20), b = randInt(3, a - 1); return q(`${a} - ${b} = ?`, a - b, t("subtraction20", cc)); },
   compare: (cc) => {
     const a = randInt(1, 9), b = a + randInt(1, Math.min(3, 10 - a));
+    // Distractors: always include a (the other number in the question), plus close neighbors
+    const distractors = [a, b - 1, b + 1];
     return Math.random() > 0.5
-      ? q(qCompare(a, b, cc), b, t("comparison", cc))
-      : q(qCompare(b, a, cc), b, t("comparison", cc));
+      ? qd(qCompare(a, b, cc), b, t("comparison", cc), distractors)
+      : qd(qCompare(b, a, cc), b, t("comparison", cc), distractors);
   },
   missing10: (cc) => {
     const a = randInt(1, 7), b = randInt(1, 9 - a);

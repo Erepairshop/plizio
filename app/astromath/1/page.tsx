@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect, useCallback, useRef } from "react";
+import { useState, useEffect, useCallback, useRef, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { Home, X, ChevronRight, ChevronLeft, Check, Volume2 } from "lucide-react";
@@ -1003,7 +1003,16 @@ function RocketLaunch({ questions, color, onDone }: {
   const lockRef = useRef(false);
 
   const q = questions[idx];
-  const opts = q?.options?.slice(0, 2) ?? []; // only 2 options for speed
+  // Build 2-option set: correct answer is ALWAYS included, plus one wrong answer.
+  // Stable order per question (idx % 2) so it doesn't re-randomize on re-render.
+  const opts = useMemo(() => {
+    const all = (q?.options ?? []).map(String);
+    const correct = String(q?.correctAnswer ?? "");
+    const wrongs = all.filter(o => o !== correct);
+    if (!all.length) return [];
+    const wrong = wrongs[0] ?? String(Number(correct) + 1);
+    return idx % 2 === 0 ? [correct, wrong] : [wrong, correct];
+  }, [idx, q]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Auto-read question
   useEffect(() => {
