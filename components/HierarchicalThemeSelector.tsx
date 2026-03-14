@@ -224,6 +224,39 @@ export default function HierarchicalThemeSelector({
                   className="overflow-hidden"
                 >
                   <div className="px-3 sm:px-6 py-3 sm:py-4 space-y-2 sm:space-y-3 bg-white/3">
+                    {/* Per-theme text/visual quick-select buttons */}
+                    {theme.subtopics.some(s => isVisual(s.id)) && (
+                      <div className="flex gap-2 mb-1">
+                        <motion.button
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            const textIds = theme.subtopics.filter(s => !isVisual(s.id)).map(s => s.id);
+                            const visualIds = theme.subtopics.filter(s => isVisual(s.id)).map(s => s.id);
+                            visualIds.forEach(id => { if (selectedSubtopics.includes(id)) onSubtopicToggle(id); });
+                            textIds.forEach(id => { if (!selectedSubtopics.includes(id)) onSubtopicToggle(id); });
+                          }}
+                          className="px-2 py-1 rounded-lg bg-blue-500/20 border border-blue-400/40 text-blue-300 text-xs font-bold hover:bg-blue-500/30 transition-all"
+                          whileHover={{ scale: 1.05 }}
+                          whileTap={{ scale: 0.95 }}
+                        >
+                          📝 {labels.selectAllText ?? 'Összes szöveges'}
+                        </motion.button>
+                        <motion.button
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            const textIds = theme.subtopics.filter(s => !isVisual(s.id)).map(s => s.id);
+                            const visualIds = theme.subtopics.filter(s => isVisual(s.id)).map(s => s.id);
+                            textIds.forEach(id => { if (selectedSubtopics.includes(id)) onSubtopicToggle(id); });
+                            visualIds.forEach(id => { if (!selectedSubtopics.includes(id)) onSubtopicToggle(id); });
+                          }}
+                          className="px-2 py-1 rounded-lg bg-purple-500/20 border border-purple-400/40 text-purple-300 text-xs font-bold hover:bg-purple-500/30 transition-all"
+                          whileHover={{ scale: 1.05 }}
+                          whileTap={{ scale: 0.95 }}
+                        >
+                          🖼️ {labels.selectAllVisual ?? 'Összes képes'}
+                        </motion.button>
+                      </div>
+                    )}
                     {theme.subtopics.map((subtopic) => (
                       <motion.div
                         key={subtopic.id}
