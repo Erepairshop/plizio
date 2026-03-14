@@ -869,7 +869,7 @@ function NumberDuel({ sortRange, color, onDone }: {
 
 // ─── Rocket Launch (Speed Quiz — warm-up before checkpoint) ────────────────────
 const ROCKET_ROUNDS = 7;
-const ROCKET_TIME = 3; // seconds per question
+const ROCKET_TIME = 5; // seconds per question
 
 function RocketLaunch({ questions, color, onDone }: {
   questions: MathQuestion[]; color: string; onDone: (score: number, total: number) => void;
