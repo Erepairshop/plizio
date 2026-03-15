@@ -729,19 +729,19 @@ export default function DeutschTestPage() {
                   <div key={qi}>
                     {/* Passage block */}
                     {showPassage && (
-                      <div className="bg-blue-50/80 border-l-4 border-blue-300 rounded-r-lg px-3 py-2 mb-0"
-                        style={{ marginBottom: 28 }}>
+                      <div className="bg-blue-50/80 border-l-4 border-blue-300 rounded-r-lg px-3"
+                        style={{ lineHeight: '28px', marginBottom: 28 }}>
                         {q.passageTitle && (
-                          <p className="text-blue-500 text-xs font-bold uppercase mb-1">📖 {q.passageTitle}</p>
+                          <p style={{ lineHeight: '28px' }} className="text-blue-500 text-xs font-bold uppercase">📖 {q.passageTitle}</p>
                         )}
-                        <p className="text-slate-700 text-sm leading-relaxed">{q.passageText}</p>
+                        <p style={{ lineHeight: '28px' }} className="text-slate-700 text-sm">{q.passageText}</p>
                       </div>
                     )}
 
                     {/* Aufgabe section header every 3 questions */}
                     {showSection && (
                       <div style={{ height: 28, lineHeight: '28px' }}
-                        className="flex items-center gap-2 mt-0.5">
+                        className="flex items-center gap-2">
                         <span className="text-[10px] font-black uppercase tracking-widest text-slate-400">
                           Aufgabe {aufgabeNr}
                         </span>
@@ -749,13 +749,12 @@ export default function DeutschTestPage() {
                       </div>
                     )}
 
-                    {/* Question row — sits on a line */}
-                    <div style={{ minHeight: 28, lineHeight: '28px' }}
-                      className="flex items-start gap-2 pt-0.5 pb-0.5">
-                      <span className="font-mono text-xs text-slate-400 w-5 text-right shrink-0 mt-0.5">
+                    {/* Question row — sits on a line, NO fractional padding */}
+                    <div style={{ lineHeight: '28px' }} className="flex items-start gap-2">
+                      <span className="font-mono text-xs text-slate-400 w-5 text-right shrink-0" style={{ lineHeight: '28px' }}>
                         {qi + 1}.
                       </span>
-                      <p className="flex-1 text-slate-800 text-sm font-semibold">{q.question}</p>
+                      <p className="flex-1 text-slate-800 text-sm font-semibold" style={{ lineHeight: '28px' }}>{q.question}</p>
                       {/* Correction mark after submit */}
                       {submitted && ans && (
                         <span className={`shrink-0 font-bold text-base leading-7 ${isCorrect ? 'text-emerald-500' : 'text-red-500'}`}>
