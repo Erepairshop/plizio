@@ -137,70 +137,63 @@ export default function DeutschTestPage() {
   const [selectedIds, setSelectedIds] = useState<string[]>([]);
   const [includeLesetest, setIncludeLesetest] = useState(false);
   const [questions, setQuestions] = useState<TestQuestion[]>([]);
-  const [idx, setIdx] = useState(0);
   const [answers, setAnswers] = useState<{ correct: boolean; given: string; expected: string }[]>([]);
-  const [showFeedback, setShowFeedback] = useState(false);
-  const [lastCorrect, setLastCorrect] = useState(false);
-  const [typingInput, setTypingInput] = useState("");
+  const [paperAnswers, setPaperAnswers] = useState<Record<number, string>>({});
+  const [submitted, setSubmitted] = useState(false);
   const [avatarMood, setAvatarMood] = useState<AvatarMood>("idle");
-  const [jumpTrigger, setJumpTrigger] = useState<{ reaction: 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | null; timestamp: number }>({ reaction: null, timestamp: 0 });
   const [earnedCard, setEarnedCard] = useState<string | null>(null);
   const [dateStr, setDateStr] = useState("");
-  const inputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
     setDateStr(new Date().toLocaleDateString("de-DE", { weekday: "long", year: "numeric", month: "long", day: "numeric" }));
   }, []);
 
   const themes: DeutschTheme[] = DEUTSCH_CURRICULUM[grade] ?? [];
-  const currentQ = questions[idx];
   const totalQ = questions.length;
-  const progress = totalQ > 0 ? (idx / totalQ) * 100 : 0;
+  const answeredCount = Object.keys(paperAnswers).length;
 
   // ─── FRAGEN AUFBAUEN ────────────────────────────────────────────────────────
 
+  // ─── FRAGEN AUFBAUEN — 3 Fragen pro Subtopic ─────────────────────────────────
+
   function buildTest(g: number, subtopicIds: string[], withLesetest: boolean) {
-    const isMixed = subtopicIds.length > 0;
-    const leseMax = withLesetest ? (isMixed ? 1 : 3) : 0;
-    const maxGrammar = 15 - leseMax;
+    const allQs: TestQuestion[] = [];
 
-    // Statische Fragen aus dem Curriculum
-    const staticQs = getDeutschQuestions(g, subtopicIds, 20);
-
-    // Generierte Fragen (zufällig, jedes Mal anders)
-    const generatedQs = generateForSubtopics(subtopicIds, 12);
-
-    // Zusammenführen, mischen, doppelte Fragen (nach Text) entfernen
-    const combined = [...staticQs, ...generatedQs];
-    for (let i = combined.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [combined[i], combined[j]] = [combined[j], combined[i]];
-    }
-    const seen = new Set<string>();
-    const grammarPool: TestQuestion[] = [];
-    for (const q of combined) {
-      const key = q.question.slice(0, 60);
-      if (!seen.has(key)) {
-        seen.add(key);
-        grammarPool.push({ ...q });
+    for (const sid of subtopicIds) {
+      const staticQs = getDeutschQuestions(g, [sid], 10);
+      const generatedQs = generateForSubtopics([sid], 6);
+      const pool = [...staticQs, ...generatedQs];
+      // shuffle
+      for (let i = pool.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [pool[i], pool[j]] = [pool[j], pool[i]];
       }
-      if (grammarPool.length >= maxGrammar) break;
+      // pick 3 unique
+      const seen = new Set<string>();
+      let count = 0;
+      for (const q of pool) {
+        const key = q.question.slice(0, 60);
+        if (!seen.has(key) && count < 3) {
+          seen.add(key);
+          allQs.push({ ...q });
+          count++;
+        }
+      }
     }
 
-    // Lesetest-Fragen anhängen
     if (withLesetest) {
       const passage = getRandomPassage(g);
       if (passage) {
-        const leseQs: TestQuestion[] = passage.questions.slice(0, leseMax).map((lq) => ({
+        const leseQs: TestQuestion[] = passage.questions.slice(0, 3).map((lq) => ({
           ...lq,
           passageText: passage.text,
           passageTitle: passage.title,
         }));
-        grammarPool.push(...leseQs);
+        allQs.push(...leseQs);
       }
     }
 
-    return grammarPool;
+    return allQs;
   }
 
   // ─── TEST STARTEN ────────────────────────────────────────────────────────────
@@ -210,55 +203,36 @@ export default function DeutschTestPage() {
     const qs = buildTest(grade, selectedIds, includeLesetest);
     if (qs.length === 0) return;
     setQuestions(qs);
-    setIdx(0);
     setAnswers([]);
-    setShowFeedback(false);
-    setTypingInput("");
+    setPaperAnswers({});
+    setSubmitted(false);
     setAvatarMood("focused");
     setScreen("test");
   }
 
-  // ─── MCQ ANTWORT ─────────────────────────────────────────────────────────────
+  // ─── ABGEBEN ─────────────────────────────────────────────────────────────────
 
-  function handleMCQ(optIdx: number) {
-    if (showFeedback) return;
-    const correct = currentQ.correct === optIdx;
-    const expected = currentQ.options?.[currentQ.correct ?? 0] ?? "";
-    recordAnswer(correct, currentQ.options?.[optIdx] ?? "", expected);
-  }
-
-  // ─── TYPING ANTWORT ──────────────────────────────────────────────────────────
-
-  function handleTyping(e: React.FormEvent) {
-    e.preventDefault();
-    if (showFeedback || !typingInput.trim()) return;
-    const correct = checkAnswer(typingInput, currentQ.answer ?? "", grade);
-    const expected = Array.isArray(currentQ.answer)
-      ? currentQ.answer[0]
-      : currentQ.answer ?? "";
-    recordAnswer(correct, typingInput, expected);
-  }
-
-  // ─── ANTWORT VERARBEITEN ──────────────────────────────────────────────────────
-
-  function recordAnswer(correct: boolean, given: string, expected: string) {
-    setLastCorrect(correct);
-    setShowFeedback(true);
-    setAvatarMood(correct ? "happy" : "disappointed");
-    if (correct) setJumpTrigger({ reaction: 'happy', timestamp: Date.now() });
-    setAnswers((prev) => [...prev, { correct, given, expected }]);
-
-    setTimeout(() => {
-      setShowFeedback(false);
-      setTypingInput("");
-      if (idx + 1 >= totalQ) {
-        finishTest([...answers, { correct, given, expected }]);
+  function handleAbgeben() {
+    const allAnswers = questions.map((q, i) => {
+      const given = paperAnswers[i] ?? "";
+      let isCorrect = false;
+      let expected = "";
+      if (q.type === "mcq") {
+        const givenIdx = parseInt(given);
+        isCorrect = !isNaN(givenIdx) && givenIdx === q.correct;
+        expected = q.options?.[q.correct ?? 0] ?? "";
       } else {
-        setIdx((i) => i + 1);
-        setAvatarMood("focused");
-        setTimeout(() => inputRef.current?.focus(), 100);
+        isCorrect = checkAnswer(given, q.answer ?? "", grade);
+        expected = Array.isArray(q.answer) ? q.answer[0] : q.answer ?? "";
       }
-    }, 1500);
+      return { correct: isCorrect, given, expected };
+    });
+
+    setAnswers(allAnswers);
+    setSubmitted(true);
+    setAvatarMood(allAnswers.filter((a) => a.correct).length / questions.length >= 0.5 ? "victory" : "disappointed");
+
+    setTimeout(() => finishTest(allAnswers), 2500);
   }
 
   // ─── TEST BEENDEN ────────────────────────────────────────────────────────────
@@ -285,7 +259,6 @@ export default function DeutschTestPage() {
     saveCard(card);
     window.dispatchEvent(new Event("plizio-cards-changed"));
     setEarnedCard(rarity);
-    setAvatarMood(pct >= 50 ? "victory" : "disappointed");
     setScreen("reward");
   }
 
@@ -294,6 +267,8 @@ export default function DeutschTestPage() {
   function restart() {
     setScreen("topics");
     setEarnedCard(null);
+    setPaperAnswers({});
+    setSubmitted(false);
     setAvatarMood("idle");
   }
 
@@ -329,7 +304,7 @@ export default function DeutschTestPage() {
         <AvatarCompanion
           {...avatarProps}
           mood={avatarMood}
-          jumpTrigger={jumpTrigger}
+          jumpTrigger={{ reaction: null, timestamp: 0 }}
           fixed={false}
         />
       </div>
@@ -708,160 +683,154 @@ export default function DeutschTestPage() {
         )}
 
         {/* ── TEST ──────────────────────────────────────────────────────────── */}
-        {screen === "test" && currentQ && (
+        {screen === "test" && questions.length > 0 && (
           <ModernPaperTest
             title="Deutsch Test"
             icon="✏️"
             gradeLabel={`Klasse ${grade}`}
             date={dateStr}
-            solved={answers.length}
+            solved={answeredCount}
             total={totalQ}
             onExit={() => setScreen("topics")}
             exitLabel="Zurück"
           >
-          <motion.div
-            key={`test-${idx}`}
-            initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }}
-            exit={{ opacity: 0, x: -20 }}
-            transition={{ duration: 0.2 }}
-          >
-            {/* Passage (Lesetest) — paper style */}
-            {currentQ.passageText && (
-              <motion.div
-                initial={{ opacity: 0, y: -6 }} animate={{ opacity: 1, y: 0 }}
-                className="bg-blue-50 border-l-4 border-blue-300 rounded-r-lg p-4 mb-6"
-              >
-                {currentQ.passageTitle && (
-                  <p className="text-blue-500 text-xs font-bold mb-2 uppercase tracking-wide">
-                    📖 {currentQ.passageTitle}
-                  </p>
-                )}
-                <p className="text-slate-700 text-sm leading-relaxed">{currentQ.passageText}</p>
-              </motion.div>
-            )}
+            {/* All questions at once — lined paper style */}
+            <div style={{ fontSize: 14, lineHeight: '28px' }}>
+              {questions.map((q, qi) => {
+                const userAnswerRaw = paperAnswers[qi];
+                const ans = submitted ? answers[qi] : undefined;
+                const isCorrect = ans?.correct ?? false;
 
-            {/* Question number + text */}
-            <div className="mb-4">
-              <div className="flex items-start gap-2.5">
-                <span className="text-slate-300 font-mono text-sm shrink-0 mt-0.5 w-6 text-right">
-                  {idx + 1}.
-                </span>
-                <div className="flex-1">
-                  <p className="text-slate-800 text-base font-semibold leading-relaxed">{currentQ.question}</p>
-                  {currentQ.hint && (
-                    <p className="text-slate-400 text-xs mt-1 font-normal">💡 {currentQ.hint}</p>
-                  )}
-                </div>
-              </div>
+                // Show passage once per unique passageTitle
+                const showPassage = q.passageText &&
+                  (qi === 0 || questions[qi - 1].passageTitle !== q.passageTitle);
+
+                return (
+                  <div key={qi}>
+                    {/* Passage block */}
+                    {showPassage && (
+                      <div className="bg-blue-50/80 border-l-4 border-blue-300 rounded-r-lg px-3 py-2 mb-0"
+                        style={{ marginBottom: 28 }}>
+                        {q.passageTitle && (
+                          <p className="text-blue-500 text-xs font-bold uppercase mb-1">📖 {q.passageTitle}</p>
+                        )}
+                        <p className="text-slate-700 text-sm leading-relaxed">{q.passageText}</p>
+                      </div>
+                    )}
+
+                    {/* Question row — sits on a line */}
+                    <div style={{ minHeight: 28, lineHeight: '28px' }}
+                      className="flex items-start gap-2 pt-0.5 pb-0.5">
+                      <span className="font-mono text-xs text-slate-400 w-5 text-right shrink-0 mt-0.5">
+                        {qi + 1}.
+                      </span>
+                      <p className="flex-1 text-slate-800 text-sm font-semibold">{q.question}</p>
+                      {/* Correction mark after submit */}
+                      {submitted && ans && (
+                        <span className={`shrink-0 font-bold text-base leading-7 ${isCorrect ? 'text-emerald-500' : 'text-red-500'}`}>
+                          {isCorrect ? '✓' : '✗'}
+                        </span>
+                      )}
+                    </div>
+
+                    {/* MCQ options — each row sits on one ruled line */}
+                    {q.type === "mcq" && q.options && (
+                      <div className="ml-7">
+                        {q.options.map((opt, oi) => {
+                          const isSelected = userAnswerRaw === String(oi);
+                          let rowCls = "text-slate-600 hover:bg-blue-50/50 cursor-pointer";
+                          let labelCls = "text-slate-300";
+                          if (submitted && ans) {
+                            if (oi === q.correct) {
+                              rowCls = "text-emerald-700 bg-emerald-50/60 cursor-default";
+                              labelCls = "text-emerald-500";
+                            } else if (isSelected && !isCorrect) {
+                              rowCls = "text-red-500 bg-red-50/60 cursor-default line-through";
+                              labelCls = "text-red-400";
+                            } else {
+                              rowCls = "text-slate-300 cursor-default";
+                              labelCls = "text-slate-200";
+                            }
+                          } else if (isSelected) {
+                            rowCls = "text-blue-800 bg-blue-50/80 font-semibold cursor-pointer";
+                            labelCls = "text-blue-500";
+                          }
+                          return (
+                            <button
+                              key={oi}
+                              onClick={() => !submitted && setPaperAnswers((prev) => ({ ...prev, [qi]: String(oi) }))}
+                              disabled={submitted}
+                              style={{ height: 28, lineHeight: '28px' }}
+                              className={`w-full text-left flex items-center gap-1.5 px-1 text-sm transition-colors ${rowCls}`}
+                            >
+                              <span className={`font-mono text-xs w-5 text-right shrink-0 ${labelCls}`}>
+                                {String.fromCharCode(65 + oi)})
+                              </span>
+                              {opt}
+                            </button>
+                          );
+                        })}
+                      </div>
+                    )}
+
+                    {/* Typing input — transparent, sits on a ruled line */}
+                    {q.type === "typing" && (
+                      <div style={{ height: 28, lineHeight: '28px' }}
+                        className="ml-7 flex items-center gap-2 px-1">
+                        <span className="text-slate-300 text-xs w-5 text-right shrink-0">→</span>
+                        {submitted && ans ? (
+                          <span className={`text-sm font-medium ${isCorrect ? 'text-emerald-600' : 'text-red-500'}`}>
+                            {userAnswerRaw || <span className="text-slate-300 italic text-xs">—</span>}
+                            {!isCorrect && (
+                              <span className="text-slate-400 text-xs ml-2 font-normal">
+                                → {ans.expected}
+                              </span>
+                            )}
+                          </span>
+                        ) : (
+                          <input
+                            value={userAnswerRaw ?? ""}
+                            onChange={(e) =>
+                              setPaperAnswers((prev) => ({ ...prev, [qi]: e.target.value }))
+                            }
+                            placeholder="Antwort..."
+                            className="flex-1 bg-transparent border-0 text-sm text-slate-800 outline-none placeholder:text-slate-300"
+                            style={{ height: 28, lineHeight: '28px' }}
+                          />
+                        )}
+                      </div>
+                    )}
+
+                    {/* Spacer — one empty ruled line between questions */}
+                    <div style={{ height: 28 }} />
+                  </div>
+                );
+              })}
+
+              {/* Extra blank lines at end */}
+              {[...Array(3)].map((_, i) => (
+                <div key={`blank-${i}`} style={{ height: 28 }} />
+              ))}
             </div>
 
-            {/* MCQ — paper style rows */}
-            {currentQ.type === "mcq" && currentQ.options && (
-              <div className="ml-8 flex flex-col border-t border-slate-100">
-                {currentQ.options.map((opt, i) => {
-                  let rowCls = "text-slate-700 hover:bg-blue-50/70 cursor-pointer";
-                  let labelCls = "text-slate-400";
-                  let indicator = null;
-                  if (showFeedback) {
-                    if (i === currentQ.correct) {
-                      rowCls = "text-emerald-700 bg-emerald-50/60 cursor-default";
-                      labelCls = "text-emerald-500";
-                      indicator = <Check size={13} className="shrink-0 text-emerald-500" />;
-                    } else if (answers[answers.length - 1]?.given === opt && !lastCorrect) {
-                      rowCls = "text-red-500 bg-red-50/60 cursor-default";
-                      labelCls = "text-red-400";
-                      indicator = <XIcon size={13} className="shrink-0 text-red-400" />;
-                    } else {
-                      rowCls = "text-slate-300 cursor-default";
-                      labelCls = "text-slate-300";
-                    }
-                  }
-                  return (
-                    <button
-                      key={i}
-                      onClick={() => handleMCQ(i)}
-                      disabled={showFeedback}
-                      className={`w-full text-left px-3 py-2.5 border-b border-slate-100 text-sm transition-colors flex items-center gap-2 ${rowCls}`}
-                    >
-                      <span className={`font-mono text-xs w-5 shrink-0 ${labelCls}`}>{String.fromCharCode(65 + i)})</span>
-                      <span className="flex-1">{opt}</span>
-                      {indicator}
-                    </button>
-                  );
-                })}
-              </div>
-            )}
-
-            {/* Typing — pen-on-paper style */}
-            {currentQ.type === "typing" && (
-              <form onSubmit={handleTyping} className="ml-8 flex flex-col gap-3 mt-2">
-                <input
-                  ref={inputRef}
-                  value={typingInput}
-                  onChange={(e) => setTypingInput(e.target.value)}
-                  disabled={showFeedback}
-                  placeholder="Antwort..."
-                  autoFocus
-                  className={`w-full bg-transparent border-0 border-b-2 px-1 py-1.5 text-slate-800 text-base outline-none
-                    font-medium placeholder:text-slate-300 transition-all
-                    ${showFeedback
-                      ? lastCorrect
-                        ? "border-emerald-400 text-emerald-700"
-                        : "border-red-400 text-red-600"
-                      : "border-slate-300 focus:border-blue-400"
-                    }`}
-                />
-                {!showFeedback && (
-                  <motion.button
-                    type="submit"
-                    whileHover={{ scale: 1.02 }}
-                    whileTap={{ scale: 0.97 }}
-                    disabled={!typingInput.trim()}
-                    className="self-start px-5 py-2 rounded-full bg-slate-800 text-white text-sm font-bold
-                               disabled:opacity-30 disabled:cursor-not-allowed hover:bg-slate-700 transition-colors"
-                  >
-                    Prüfen →
-                  </motion.button>
-                )}
-              </form>
-            )}
-
-            {/* Feedback — ink color, minimal */}
-            <AnimatePresence>
-              {showFeedback && (
-                <motion.div
-                  initial={{ opacity: 0, y: 4 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  exit={{ opacity: 0 }}
-                  className={`ml-8 mt-3 text-sm font-semibold flex flex-col gap-1
-                    ${lastCorrect ? "text-emerald-600" : "text-red-500"}`}
+            {/* Floating Abgeben button */}
+            {!submitted && (
+              <motion.div
+                className="fixed left-1/2 -translate-x-1/2 bottom-8 z-40"
+                initial={{ opacity: 0, y: 16 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: 0.5 }}
+              >
+                <motion.button
+                  onClick={handleAbgeben}
+                  className="px-10 py-3 rounded-lg font-black text-sm bg-slate-800 text-white shadow-xl hover:bg-slate-700 active:scale-95 transition-all"
+                  whileHover={{ scale: 1.04 }}
+                  whileTap={{ scale: 0.96 }}
                 >
-                  <div className="flex items-center gap-1.5">
-                    {lastCorrect
-                      ? <><Check size={14} /> Richtig! 🌟</>
-                      : <>
-                          <XIcon size={14} />
-                          Richtig:&nbsp;
-                          <span className="font-bold">
-                            {Array.isArray(currentQ.answer)
-                              ? currentQ.answer[0]
-                              : currentQ.answer ?? currentQ.options?.[currentQ.correct ?? 0]}
-                          </span>
-                        </>
-                    }
-                  </div>
-                  {!lastCorrect && (() => {
-                    const hint = getSubtopicHint(currentQ.subtopic);
-                    return hint ? (
-                      <div className="text-[11px] text-slate-400 font-normal leading-relaxed mt-0.5">
-                        💡 {hint}
-                      </div>
-                    ) : null;
-                  })()}
-                </motion.div>
-              )}
-            </AnimatePresence>
-          </motion.div>
+                  Abgeben ✓
+                </motion.button>
+              </motion.div>
+            )}
           </ModernPaperTest>
         )}
 

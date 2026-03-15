@@ -6,4 +6,4 @@
                     rgba(147, 197, 232, 0.45) 27px,
                     rgba(147, 197, 232, 0.45) 28px
                   )
-                `},children:[(0,t.jsx)("div",{className:"relative pl-14 pr-5 pt-6 pb-8 sm:pr-8 sm:pt-8 min-h-screen",children:e}),(0,t.jsx)("div",{className:"absolute bottom-3 right-4 text-xs font-mono text-slate-200 pointer-events-none select-none",children:"PLIZIO"})]})})})]})})}e.s(["default",()=>a])}]);
+                `},children:[(0,t.jsx)("div",{className:"relative pl-14 pr-5 pb-8 sm:pr-8 min-h-screen",style:{paddingTop:28},children:e}),(0,t.jsx)("div",{className:"absolute bottom-3 right-4 text-xs font-mono text-slate-200 pointer-events-none select-none",children:"PLIZIO"})]})})})]})})}e.s(["default",()=>a])}]);
