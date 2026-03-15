@@ -850,7 +850,7 @@ export default function AstroMathG4Page() {
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "concept-explorer", "place-value-explorer", "division-explorer", "area-explorer", "word-problem-explorer", "unit-explorer", "angle-explorer"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "concept-explorer", "place-value-explorer", "division-explorer", "area-explorer", "word-problem-explorer", "unit-explorer", "angle-explorer", "true-false-blitz", "chain-calc", "missing-number"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
