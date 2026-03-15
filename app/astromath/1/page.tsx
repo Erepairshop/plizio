@@ -25,6 +25,7 @@ import NumberDuel from "@/app/astromath/games/NumberDuel";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
 import MissingNumber from "@/app/astromath/games/MissingNumber";
+import G1TeachingSlide from "@/app/astromath/games/G1TeachingSlide";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -93,6 +94,7 @@ type Screen =
   | "number-duel"
   | "true-false-blitz"
   | "missing-number"
+  | "teaching-slide"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -501,6 +503,12 @@ export default function AstroMathG1Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
+    // Explore category → animated teaching slides
+    if (mission.category === "explore") {
+      setQuestions([]);
+      setScreen("teaching-slide");
+      return;
+    }
     const noQuestionsTypes: string[] = ["number-duel", "gravity-sort", "true-false-blitz", "missing-number"];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
@@ -840,6 +848,19 @@ export default function AstroMathG1Page() {
       </div>
     </div>
   );
+
+  // ─── TEACHING SLIDE (Entdecken) ──────────────────────────────────────────────
+  if (screen === "teaching-slide" && activeIsland) {
+    return (
+      <G1TeachingSlide
+        islandId={activeIsland.id}
+        lang={lang}
+        color={bgColor}
+        onDone={handleMissionDone}
+        onExit={() => setScreen("mission-select")}
+      />
+    );
+  }
 
   if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel",
     "true-false-blitz", "missing-number"].includes(screen)) return (
