@@ -148,8 +148,10 @@ const GRADE8_WORDS = {
 
 function isMCQ(grade: number, rng: () => number): boolean {
   if (grade === 1) return true; // Grade 1: 100% MCQ
-  if (grade <= 3) return rng() < 0.6; // Grade 2-3: 60% MCQ
-  if (grade <= 6) return rng() < 0.5; // Grade 4-6: 50% MCQ
+  if (grade === 2) return rng() < 0.4; // Grade 2: 40% MCQ, 60% Typing (+20% typing)
+  if (grade === 3) return rng() < 0.3; // Grade 3: 30% MCQ, 70% Typing (+30% typing)
+  if (grade === 4) return rng() < 0.1; // Grade 4: 10% MCQ, 90% Typing (+40% typing)
+  if (grade <= 6) return rng() < 0.5; // Grade 5-6: 50% MCQ
   return rng() < 0.4; // Grade 7-8: 40% MCQ
 }
 
@@ -1059,6 +1061,72 @@ export const G2_Generators = {
       }
       return q;
     },
+    rhyming_words_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const rhymeData = [
+        { word: "cat", rhymes: ["bat", "hat", "mat", "rat", "fat", "sat", "pat"] },
+        { word: "dog", rhymes: ["log", "fog", "hog", "jog", "bog", "cog"] },
+        { word: "tree", rhymes: ["bee", "see", "free", "tea", "sea", "me", "we", "key"] },
+        { word: "play", rhymes: ["day", "way", "say", "ray", "pay", "lay", "bay", "may", "stay"] },
+        { word: "blue", rhymes: ["true", "glue", "new", "flew", "grew", "knew", "shoe", "two"] },
+        { word: "light", rhymes: ["night", "might", "fight", "right", "sight", "bright", "flight", "tight"] },
+        { word: "moon", rhymes: ["soon", "spoon", "noon", "June", "balloon", "cartoon", "tune", "June"] },
+        { word: "hand", rhymes: ["sand", "land", "band", "stand", "grand", "brand", "strand"] },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(rhymeData, rng);
+        q.push(createTyping("vocab_g2", "rhyming_words_g2",
+          `Write a word that rhymes with '${data.word}':`, pick(data.rhymes, rng)));
+      }
+      return q;
+    },
+    word_families_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const familyData = [
+        { root: "play", words: ["play", "player", "played", "playing", "playtime"] },
+        { root: "read", words: ["read", "reader", "reading", "reads"] },
+        { root: "walk", words: ["walk", "walker", "walked", "walking", "walks"] },
+        { root: "jump", words: ["jump", "jumper", "jumped", "jumping", "jumps"] },
+        { root: "sing", words: ["sing", "singer", "sang", "singing", "sings"] },
+        { root: "run", words: ["run", "runner", "ran", "running", "runs"] },
+        { root: "help", words: ["help", "helper", "helped", "helping", "helpful", "helps"] },
+        { root: "farm", words: ["farm", "farmer", "farmed", "farming", "farms"] },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const family = pick(familyData, rng);
+        const word = pick(family.words, rng);
+        const others = family.words.filter(w => w !== word);
+        q.push(createTyping("vocab_g2", "word_families_g2",
+          `Name another word in the family of '${family.root}':`, pick(others, rng)));
+      }
+      return q;
+    },
+    sentence_completion_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { sentence: "The cat is sleeping on the ___.", answer: "bed" },
+        { sentence: "I like to eat ___ for breakfast.", answer: "eggs" },
+        { sentence: "The sky is ___ on a sunny day.", answer: "blue" },
+        { sentence: "My ___ is my best friend.", answer: "friend" },
+        { sentence: "I like to play in the ___.", answer: "park" },
+        { sentence: "The ___ is hot in summer.", answer: "sun" },
+        { sentence: "I read a ___ at night.", answer: "book" },
+        { sentence: "The dog likes to chase a ___.", answer: "ball" },
+        { sentence: "I like to go to ___ every day.", answer: "school" },
+        { sentence: "My favorite color is ___.", answer: "blue" },
+        { sentence: "I wear ___ on my feet.", answer: "shoes" },
+        { sentence: "The ___ is a wild animal.", answer: "lion" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(sentenceData, rng);
+        q.push(createTyping("sentences_g2", "sentence_completion_g2",
+          `Complete the sentence: "${data.sentence}"`, data.answer));
+      }
+      return q;
+    },
   },
 };
 
@@ -1565,6 +1633,51 @@ export const G3_Generators = {
         } else {
           q.push(createTyping("vocab_g3", "glossaries_g3", data.q, data.a));
         }
+      }
+      return q;
+    },
+    context_clues_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const contextData = [
+        { sentence: "The old car was **dilapidated**, falling apart piece by piece.", answer: "broken" },
+        { sentence: "She **trudged** slowly through the snow, barely lifting her feet.", answer: "walked slowly" },
+        { sentence: "The **fragrant** flowers smelled wonderful in the garden.", answer: "sweet-smelling" },
+        { sentence: "He was **timid** and nervously avoided talking to anyone.", answer: "shy" },
+        { sentence: "The **austere** room had no decorations, just plain walls.", answer: "plain" },
+        { sentence: "She felt **jubilant** after winning the race, jumping with joy.", answer: "happy" },
+        { sentence: "The **tranquil** lake was calm and peaceful.", answer: "calm" },
+        { sentence: "He gave a **succinct** speech, speaking only a few words.", answer: "short" },
+        { sentence: "The **meager** meal was not enough to fill their hungry stomachs.", answer: "small" },
+        { sentence: "Her **inquisitive** nature made her ask many questions.", answer: "curious" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(contextData, rng);
+        const word = data.sentence.match(/\*\*(\w+)\*\*/)?.[1] || "word";
+        const cleanSentence = data.sentence.replace(/\*\*\w+\*\*/g, "_____");
+        q.push(createTyping("vocab_g3", "context_clues_g3",
+          `What does '${word}' mean in this context? "${cleanSentence}"`, [data.answer, word]));
+      }
+      return q;
+    },
+    descriptive_words_g3: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const descriptiveData = [
+        { question: "Write an adjective that describes a cold day:", answer: "freezing" },
+        { question: "Write an adjective that describes a fast runner:", answer: "quick" },
+        { question: "Write an adjective that describes a beautiful sunset:", answer: "gorgeous" },
+        { question: "Write an adjective that describes a scary movie:", answer: "terrifying" },
+        { question: "Write an adjective that describes delicious food:", answer: "tasty" },
+        { question: "Write an adjective that describes a tired person:", answer: "exhausted" },
+        { question: "Write an adjective that describes a crowded place:", answer: "packed" },
+        { question: "Write an adjective that describes a loud noise:", answer: "deafening" },
+        { question: "Write an adjective that describes a busy schedule:", answer: "hectic" },
+        { question: "Write an adjective that describes a peaceful place:", answer: "serene" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(descriptiveData, rng);
+        q.push(createTyping("vocab_g3", "descriptive_words_g3", data.question, data.answer));
       }
       return q;
     },
@@ -2081,6 +2194,66 @@ export const G4_Generators = {
               `What does '${data.word}' mean?`, data.meaning));
           }
         }
+      }
+      return q;
+    },
+    sentence_types_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { sentence: "Please pass the salt.", type: "imperative", purpose: "a request or command" },
+        { sentence: "I hope you win the game.", type: "declarative", purpose: "a statement of hope" },
+        { sentence: "Would you like some tea?", type: "interrogative", purpose: "a polite question" },
+        { sentence: "What an amazing discovery!", type: "exclamatory", purpose: "shows strong emotion" },
+        { sentence: "Close the door quietly.", type: "imperative", purpose: "gives instructions" },
+        { sentence: "The sunset was beautiful.", type: "declarative", purpose: "makes a statement" },
+        { sentence: "Did you finish your homework?", type: "interrogative", purpose: "asks a question" },
+        { sentence: "That's incredible!", type: "exclamatory", purpose: "expresses excitement" },
+        { sentence: "Never give up on your dreams.", type: "imperative", purpose: "gives advice" },
+        { sentence: "She runs faster than anyone in the class.", type: "declarative", purpose: "makes a comparison" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(sentenceData, rng);
+        q.push(createTyping("sentences_g4", "sentence_types_g4",
+          `Identify the type of this sentence: '${data.sentence}'`, data.type));
+      }
+      return q;
+    },
+    paragraph_elements_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const elementData = [
+        { element: "topic sentence", definition: "the main idea of a paragraph" },
+        { element: "supporting detail", definition: "information that explains the main idea" },
+        { element: "concluding sentence", definition: "a sentence that summarizes the paragraph" },
+        { element: "transition", definition: "a word that connects ideas between sentences" },
+        { element: "thesis statement", definition: "the main point of an entire essay" },
+        { element: "evidence", definition: "facts or examples that support a claim" },
+        { element: "counterargument", definition: "an opposing view to the main argument" },
+        { element: "conclusion", definition: "the final part that summarizes the main points" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(elementData, rng);
+        q.push(createTyping("writing_g4", "paragraph_elements_g4",
+          `What is a '${data.element}'? (Hint: ${data.definition.substring(0, 20)}...)`, data.element));
+      }
+      return q;
+    },
+    dialogue_punctuation_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const dialogueData = [
+        { correct: '"I love this song," said Maria.', question: "Punctuate this dialogue correctly: I love this song said Maria" },
+        { correct: '"Watch out!" screamed Tom.', question: "Punctuate this dialogue correctly: Watch out screamed Tom" },
+        { correct: 'Sarah asked, "Where are you going?"', question: "Punctuate this dialogue correctly: Sarah asked Where are you going" },
+        { correct: '"Come back here," Mom said.', question: "Punctuate this dialogue correctly: Come back here Mom said" },
+        { correct: '"I don\'t know," admitted Jake.', question: "Punctuate this dialogue correctly: I don't know admitted Jake" },
+        { correct: '"This is amazing!" cheered the crowd.', question: "Punctuate this dialogue correctly: This is amazing cheered the crowd" },
+      ];
+      for (let i = 0; i < 12; i++) {
+        const data = pick(dialogueData, rng);
+        q.push(createTyping("spelling_g4", "dialogue_punctuation_g4",
+          data.question, data.correct));
       }
       return q;
     },
