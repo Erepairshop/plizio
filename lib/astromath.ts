@@ -20,7 +20,9 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "carry-borrow" | "multiplication-explorer" | "division-intro"
   | "g2-measurement"
   | "power-explorer" | "equation-explorer" | "inequality-explorer"
-  | "triangle-explorer" | "pythagoras-explorer" | "circle-explorer";
+  | "triangle-explorer" | "pythagoras-explorer" | "circle-explorer"
+  | "sqrt-explorer" | "quadratic-explorer" | "system-explorer"
+  | "function-explorer" | "probability-explorer" | "transform-explorer";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }
