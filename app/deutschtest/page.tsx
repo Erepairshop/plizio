@@ -145,7 +145,12 @@ export default function DeutschTestPage() {
   const [avatarMood, setAvatarMood] = useState<AvatarMood>("idle");
   const [jumpTrigger, setJumpTrigger] = useState<{ reaction: 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | null; timestamp: number }>({ reaction: null, timestamp: 0 });
   const [earnedCard, setEarnedCard] = useState<string | null>(null);
+  const [dateStr, setDateStr] = useState("");
   const inputRef = useRef<HTMLInputElement>(null);
+
+  useEffect(() => {
+    setDateStr(new Date().toLocaleDateString("de-DE", { weekday: "long", year: "numeric", month: "long", day: "numeric" }));
+  }, []);
 
   const themes: DeutschTheme[] = DEUTSCH_CURRICULUM[grade] ?? [];
   const currentQ = questions[idx];
@@ -706,8 +711,9 @@ export default function DeutschTestPage() {
         {screen === "test" && currentQ && (
           <ModernPaperTest
             title="Deutsch Test"
+            icon="✏️"
             gradeLabel={`Klasse ${grade}`}
-            date={new Date().toLocaleDateString("de-DE")}
+            date={dateStr}
             solved={answers.length}
             total={totalQ}
             onExit={() => setScreen("topics")}
@@ -715,136 +721,146 @@ export default function DeutschTestPage() {
           >
           <motion.div
             key={`test-${idx}`}
-            initial={{ opacity: 0, x: 30 }} animate={{ opacity: 1, x: 0 }}
-            exit={{ opacity: 0, x: -30 }}
-            className="flex flex-col p-4 max-w-lg mx-auto"
+            initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }}
+            exit={{ opacity: 0, x: -20 }}
+            transition={{ duration: 0.2 }}
           >
-
-            {/* Passage (Lesetest) */}
+            {/* Passage (Lesetest) — paper style */}
             {currentQ.passageText && (
               <motion.div
-                initial={{ opacity: 0, y: -10 }} animate={{ opacity: 1, y: 0 }}
-                className="bg-[#12122A] border border-[#FFD700]/30 rounded-xl p-4 mb-4"
+                initial={{ opacity: 0, y: -6 }} animate={{ opacity: 1, y: 0 }}
+                className="bg-blue-50 border-l-4 border-blue-300 rounded-r-lg p-4 mb-6"
               >
                 {currentQ.passageTitle && (
-                  <p className="text-[#FFD700] text-xs font-bold mb-2 uppercase tracking-wide">
+                  <p className="text-blue-500 text-xs font-bold mb-2 uppercase tracking-wide">
                     📖 {currentQ.passageTitle}
                   </p>
                 )}
-                <p className="text-white/80 text-sm leading-relaxed">{currentQ.passageText}</p>
+                <p className="text-slate-700 text-sm leading-relaxed">{currentQ.passageText}</p>
               </motion.div>
             )}
 
-            {/* Question Card */}
-            <div className="bg-[#12122A] rounded-2xl border border-white/10 p-5 flex-1 flex flex-col gap-5">
-              <p className="text-white text-lg font-semibold leading-snug">{currentQ.question}</p>
-              {currentQ.hint && (
-                <p className="text-white/40 text-xs -mt-3">💡 {currentQ.hint}</p>
-              )}
-
-              {/* MCQ */}
-              {currentQ.type === "mcq" && currentQ.options && (
-                <div className="flex flex-col gap-2.5">
-                  {currentQ.options.map((opt, i) => {
-                    let style = "bg-white/5 border-white/15 text-white/80 hover:bg-white/10";
-                    if (showFeedback) {
-                      if (i === currentQ.correct) style = "bg-[#00FF88]/20 border-[#00FF88] text-white";
-                      else if (answers[answers.length - 1]?.given === opt && !lastCorrect)
-                        style = "bg-[#FF2D78]/20 border-[#FF2D78] text-white";
-                      else style = "bg-white/3 border-white/5 text-white/30";
-                    }
-                    return (
-                      <motion.button
-                        key={i}
-                        whileHover={!showFeedback ? { scale: 1.01 } : {}}
-                        whileTap={!showFeedback ? { scale: 0.98 } : {}}
-                        onClick={() => handleMCQ(i)}
-                        disabled={showFeedback}
-                        className={`w-full text-left px-4 py-3 rounded-xl border text-sm font-medium transition-all ${style}`}
-                      >
-                        <span className="text-white/40 mr-2">{String.fromCharCode(65 + i)})</span>
-                        {opt}
-                      </motion.button>
-                    );
-                  })}
-                </div>
-              )}
-
-              {/* Typing */}
-              {currentQ.type === "typing" && (
-                <form onSubmit={handleTyping} className="flex flex-col gap-3">
-                  <input
-                    ref={inputRef}
-                    value={typingInput}
-                    onChange={(e) => setTypingInput(e.target.value)}
-                    disabled={showFeedback}
-                    placeholder="Deine Antwort..."
-                    autoFocus
-                    className={`w-full bg-[#1A1A35] border rounded-xl px-4 py-3 text-white text-base outline-none
-                      placeholder:text-white/25 transition-all
-                      ${showFeedback
-                        ? lastCorrect
-                          ? "border-[#00FF88] bg-[#00FF88]/10"
-                          : "border-[#FF2D78] bg-[#FF2D78]/10"
-                        : "border-white/20 focus:border-[#00D4FF]/60"
-                      }`}
-                  />
-                  {!showFeedback && (
-                    <motion.button
-                      type="submit"
-                      whileHover={{ scale: 1.02 }}
-                      whileTap={{ scale: 0.97 }}
-                      disabled={!typingInput.trim()}
-                      className="py-3 rounded-xl bg-[#00D4FF] text-black font-black
-                                 disabled:opacity-30 disabled:cursor-not-allowed"
-                    >
-                      ANTWORTEN →
-                    </motion.button>
+            {/* Question number + text */}
+            <div className="mb-4">
+              <div className="flex items-start gap-2.5">
+                <span className="text-slate-300 font-mono text-sm shrink-0 mt-0.5 w-6 text-right">
+                  {idx + 1}.
+                </span>
+                <div className="flex-1">
+                  <p className="text-slate-800 text-base font-semibold leading-relaxed">{currentQ.question}</p>
+                  {currentQ.hint && (
+                    <p className="text-slate-400 text-xs mt-1 font-normal">💡 {currentQ.hint}</p>
                   )}
-                </form>
-              )}
-
-              {/* Feedback */}
-              <AnimatePresence>
-                {showFeedback && (
-                  <motion.div
-                    initial={{ opacity: 0, y: 8 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    exit={{ opacity: 0 }}
-                    className={`flex flex-col gap-2 px-4 py-3 rounded-xl border
-                      ${lastCorrect
-                        ? "bg-[#00FF88]/15 border-[#00FF88]/30"
-                        : "bg-[#FF2D78]/10 border-[#FF2D78]/30"
-                      }`}
-                  >
-                    <div className={`flex items-center gap-2 font-bold text-sm
-                      ${lastCorrect ? "text-[#00FF88]" : "text-[#FF2D78]"}`}
-                    >
-                      {lastCorrect
-                        ? <><Check size={16} /> Richtig! 🌟</>
-                        : <>
-                            <XIcon size={16} />
-                            <span>Richtig:</span>
-                            <strong>
-                              {Array.isArray(currentQ.answer)
-                                ? currentQ.answer[0]
-                                : currentQ.answer ?? currentQ.options?.[currentQ.correct ?? 0]}
-                            </strong>
-                          </>
-                      }
-                    </div>
-                    {!lastCorrect && (() => {
-                      const hint = getSubtopicHint(currentQ.subtopic);
-                      return hint ? (
-                        <div className="text-[11px] text-white/50 border-t border-white/10 pt-2 leading-relaxed">
-                          💡 {hint}
-                        </div>
-                      ) : null;
-                    })()}
-                  </motion.div>
-                )}
-              </AnimatePresence>
+                </div>
+              </div>
             </div>
+
+            {/* MCQ — paper style rows */}
+            {currentQ.type === "mcq" && currentQ.options && (
+              <div className="ml-8 flex flex-col border-t border-slate-100">
+                {currentQ.options.map((opt, i) => {
+                  let rowCls = "text-slate-700 hover:bg-blue-50/70 cursor-pointer";
+                  let labelCls = "text-slate-400";
+                  let indicator = null;
+                  if (showFeedback) {
+                    if (i === currentQ.correct) {
+                      rowCls = "text-emerald-700 bg-emerald-50/60 cursor-default";
+                      labelCls = "text-emerald-500";
+                      indicator = <Check size={13} className="shrink-0 text-emerald-500" />;
+                    } else if (answers[answers.length - 1]?.given === opt && !lastCorrect) {
+                      rowCls = "text-red-500 bg-red-50/60 cursor-default";
+                      labelCls = "text-red-400";
+                      indicator = <XIcon size={13} className="shrink-0 text-red-400" />;
+                    } else {
+                      rowCls = "text-slate-300 cursor-default";
+                      labelCls = "text-slate-300";
+                    }
+                  }
+                  return (
+                    <button
+                      key={i}
+                      onClick={() => handleMCQ(i)}
+                      disabled={showFeedback}
+                      className={`w-full text-left px-3 py-2.5 border-b border-slate-100 text-sm transition-colors flex items-center gap-2 ${rowCls}`}
+                    >
+                      <span className={`font-mono text-xs w-5 shrink-0 ${labelCls}`}>{String.fromCharCode(65 + i)})</span>
+                      <span className="flex-1">{opt}</span>
+                      {indicator}
+                    </button>
+                  );
+                })}
+              </div>
+            )}
+
+            {/* Typing — pen-on-paper style */}
+            {currentQ.type === "typing" && (
+              <form onSubmit={handleTyping} className="ml-8 flex flex-col gap-3 mt-2">
+                <input
+                  ref={inputRef}
+                  value={typingInput}
+                  onChange={(e) => setTypingInput(e.target.value)}
+                  disabled={showFeedback}
+                  placeholder="Antwort..."
+                  autoFocus
+                  className={`w-full bg-transparent border-0 border-b-2 px-1 py-1.5 text-slate-800 text-base outline-none
+                    font-medium placeholder:text-slate-300 transition-all
+                    ${showFeedback
+                      ? lastCorrect
+                        ? "border-emerald-400 text-emerald-700"
+                        : "border-red-400 text-red-600"
+                      : "border-slate-300 focus:border-blue-400"
+                    }`}
+                />
+                {!showFeedback && (
+                  <motion.button
+                    type="submit"
+                    whileHover={{ scale: 1.02 }}
+                    whileTap={{ scale: 0.97 }}
+                    disabled={!typingInput.trim()}
+                    className="self-start px-5 py-2 rounded-full bg-slate-800 text-white text-sm font-bold
+                               disabled:opacity-30 disabled:cursor-not-allowed hover:bg-slate-700 transition-colors"
+                  >
+                    Prüfen →
+                  </motion.button>
+                )}
+              </form>
+            )}
+
+            {/* Feedback — ink color, minimal */}
+            <AnimatePresence>
+              {showFeedback && (
+                <motion.div
+                  initial={{ opacity: 0, y: 4 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  exit={{ opacity: 0 }}
+                  className={`ml-8 mt-3 text-sm font-semibold flex flex-col gap-1
+                    ${lastCorrect ? "text-emerald-600" : "text-red-500"}`}
+                >
+                  <div className="flex items-center gap-1.5">
+                    {lastCorrect
+                      ? <><Check size={14} /> Richtig! 🌟</>
+                      : <>
+                          <XIcon size={14} />
+                          Richtig:&nbsp;
+                          <span className="font-bold">
+                            {Array.isArray(currentQ.answer)
+                              ? currentQ.answer[0]
+                              : currentQ.answer ?? currentQ.options?.[currentQ.correct ?? 0]}
+                          </span>
+                        </>
+                    }
+                  </div>
+                  {!lastCorrect && (() => {
+                    const hint = getSubtopicHint(currentQ.subtopic);
+                    return hint ? (
+                      <div className="text-[11px] text-slate-400 font-normal leading-relaxed mt-0.5">
+                        💡 {hint}
+                      </div>
+                    ) : null;
+                  })()}
+                </motion.div>
+              )}
+            </AnimatePresence>
           </motion.div>
           </ModernPaperTest>
         )}
