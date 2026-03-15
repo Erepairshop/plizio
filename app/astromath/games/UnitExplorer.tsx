@@ -1,7 +1,8 @@
 "use client";
-// UnitExplorer — Unit conversion discovery for Grade 3–4
+// UnitExplorer — Unit conversion discovery for Grade 3–5
 // G3: smaller n (max 3), simpler conversions (m→cm, h→min)
 // G4: 3 km = 3 × 1000 m = 3000 m
+// G5: area units (m²→cm²), t→kg, larger numbers
 // Students tap each unit segment to reveal its equivalent.
 
 import { memo, useState, useCallback } from "react";
@@ -148,8 +149,52 @@ const ROUND_POOL_G3: LangRound = {
   ],
 };
 
+// G5 pool: area units, tonnes, larger conversions
+const ROUND_POOL_G5: LangRound = {
+  de: [
+    { n: 3, from: "km",  to: "m",   mult: 1000, ruleLabel: "1 km = 1000 m"  },
+    { n: 2, from: "t",   to: "kg",  mult: 1000, ruleLabel: "1 t = 1000 kg"  },
+    { n: 4, from: "m",   to: "cm",  mult: 100,  ruleLabel: "1 m = 100 cm"   },
+    { n: 2, from: "m²",  to: "dm²", mult: 100,  ruleLabel: "1 m² = 100 dm²" },
+    { n: 3, from: "kg",  to: "g",   mult: 1000, ruleLabel: "1 kg = 1000 g"  },
+    { n: 5, from: "h",   to: "min", mult: 60,   ruleLabel: "1 h = 60 min"   },
+    { n: 2, from: "l",   to: "ml",  mult: 1000, ruleLabel: "1 l = 1000 ml"  },
+    { n: 3, from: "t",   to: "kg",  mult: 1000, ruleLabel: "1 t = 1000 kg"  },
+  ],
+  en: [
+    { n: 3, from: "km",  to: "m",   mult: 1000, ruleLabel: "1 km = 1000 m"  },
+    { n: 2, from: "t",   to: "kg",  mult: 1000, ruleLabel: "1 t = 1000 kg"  },
+    { n: 4, from: "m",   to: "cm",  mult: 100,  ruleLabel: "1 m = 100 cm"   },
+    { n: 2, from: "m²",  to: "dm²", mult: 100,  ruleLabel: "1 m² = 100 dm²" },
+    { n: 3, from: "kg",  to: "g",   mult: 1000, ruleLabel: "1 kg = 1000 g"  },
+    { n: 5, from: "h",   to: "min", mult: 60,   ruleLabel: "1 h = 60 min"   },
+    { n: 2, from: "l",   to: "ml",  mult: 1000, ruleLabel: "1 l = 1000 ml"  },
+    { n: 3, from: "t",   to: "kg",  mult: 1000, ruleLabel: "1 t = 1000 kg"  },
+  ],
+  hu: [
+    { n: 3, from: "km",  to: "m",   mult: 1000, ruleLabel: "1 km = 1000 m"  },
+    { n: 2, from: "t",   to: "kg",  mult: 1000, ruleLabel: "1 t = 1000 kg"  },
+    { n: 4, from: "m",   to: "cm",  mult: 100,  ruleLabel: "1 m = 100 cm"   },
+    { n: 2, from: "m²",  to: "dm²", mult: 100,  ruleLabel: "1 m² = 100 dm²" },
+    { n: 3, from: "kg",  to: "g",   mult: 1000, ruleLabel: "1 kg = 1000 g"  },
+    { n: 5, from: "h",   to: "perc", mult: 60,  ruleLabel: "1 óra = 60 perc"},
+    { n: 2, from: "l",   to: "ml",  mult: 1000, ruleLabel: "1 l = 1000 ml"  },
+    { n: 3, from: "t",   to: "kg",  mult: 1000, ruleLabel: "1 t = 1000 kg"  },
+  ],
+  ro: [
+    { n: 3, from: "km",  to: "m",   mult: 1000, ruleLabel: "1 km = 1000 m"  },
+    { n: 2, from: "t",   to: "kg",  mult: 1000, ruleLabel: "1 t = 1000 kg"  },
+    { n: 4, from: "m",   to: "cm",  mult: 100,  ruleLabel: "1 m = 100 cm"   },
+    { n: 2, from: "m²",  to: "dm²", mult: 100,  ruleLabel: "1 m² = 100 dm²" },
+    { n: 3, from: "kg",  to: "g",   mult: 1000, ruleLabel: "1 kg = 1000 g"  },
+    { n: 5, from: "h",   to: "min", mult: 60,   ruleLabel: "1 h = 60 min"   },
+    { n: 2, from: "l",   to: "ml",  mult: 1000, ruleLabel: "1 l = 1000 ml"  },
+    { n: 3, from: "t",   to: "kg",  mult: 1000, ruleLabel: "1 t = 1000 kg"  },
+  ],
+};
+
 function generateRounds(lang: string, grade: number): Round[] {
-  const pools = grade <= 3 ? ROUND_POOL_G3 : ROUND_POOL_G4;
+  const pools = grade >= 5 ? ROUND_POOL_G5 : grade <= 3 ? ROUND_POOL_G3 : ROUND_POOL_G4;
   const pool = [...(pools[lang] ?? pools.en)];
   for (let i = pool.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));

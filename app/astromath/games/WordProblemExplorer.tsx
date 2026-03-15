@@ -1,5 +1,5 @@
 "use client";
-// WordProblemExplorer — Word problem analysis for Grade 3–4
+// WordProblemExplorer — Word problem analysis for Grade 3–5
 // Teaches students to break any problem into 3 steps:
 //   1. Gegeben  (what we know)
 //   2. Gesucht  (what we must find)
@@ -271,6 +271,42 @@ const PROBLEMS_G3: Record<string, WordProblem[]> = {
   ],
 };
 
+// G5 problems — larger numbers, multi-step, decimals, fractions
+const PROBLEMS_G5: Record<string, WordProblem[]> = {
+  de: [
+    { text: "Eine Schule hat 24 Klassen mit je 28 Schülern. Wie viele Schüler besuchen die Schule?", given: "24 Klassen, 28 Schüler pro Klasse", asked: "Wie viele Schüler insgesamt?", calc: "24 × 28 = ?", answer: "24 × 28 = 672 Schüler" },
+    { text: "Ein Zug fährt 185 km/h. Wie weit kommt er in 3 Stunden?", given: "185 km/h, 3 Stunden", asked: "Wie viele Kilometer fährt der Zug?", calc: "185 × 3 = ?", answer: "185 × 3 = 555 km" },
+    { text: "Lena spart 45,50 € pro Monat. Wie viel hat sie nach 6 Monaten?", given: "45,50 € pro Monat, 6 Monate", asked: "Wie viel hat Lena insgesamt gespart?", calc: "45,50 × 6 = ?", answer: "45,50 × 6 = 273 €" },
+    { text: "3/4 einer Pizza wiegen 450 g. Wie viel wiegt die ganze Pizza?", given: "3/4 Pizza = 450 g", asked: "Wie viel wiegt eine ganze Pizza?", calc: "450 ÷ 3 × 4 = ?", answer: "450 ÷ 3 × 4 = 600 g" },
+    { text: "Auf einem Parkplatz stehen 856 Autos. 279 fahren weg und 134 kommen neu dazu. Wie viele stehen jetzt dort?", given: "856 Autos, 279 weg, 134 neu", asked: "Wie viele Autos sind es jetzt?", calc: "856 − 279 + 134 = ?", answer: "856 − 279 + 134 = 711 Autos" },
+    { text: "Ein Schwimmbad ist 50 m lang. Tim schwimmt 14 Bahnen. Wie viele Meter schwimmt er?", given: "50 m pro Bahn, 14 Bahnen", asked: "Wie viele Meter insgesamt?", calc: "50 × 14 = ?", answer: "50 × 14 = 700 m" },
+  ],
+  en: [
+    { text: "A school has 24 classes with 28 students each. How many students attend the school?", given: "24 classes, 28 students per class", asked: "How many students in total?", calc: "24 × 28 = ?", answer: "24 × 28 = 672 students" },
+    { text: "A train travels at 185 km/h. How far does it go in 3 hours?", given: "185 km/h, 3 hours", asked: "How many kilometers does the train travel?", calc: "185 × 3 = ?", answer: "185 × 3 = 555 km" },
+    { text: "Lena saves €45.50 per month. How much has she saved after 6 months?", given: "€45.50 per month, 6 months", asked: "How much has Lena saved in total?", calc: "45.50 × 6 = ?", answer: "45.50 × 6 = €273" },
+    { text: "3/4 of a pizza weighs 450 g. How much does the whole pizza weigh?", given: "3/4 pizza = 450 g", asked: "How much does a whole pizza weigh?", calc: "450 ÷ 3 × 4 = ?", answer: "450 ÷ 3 × 4 = 600 g" },
+    { text: "A parking lot has 856 cars. 279 leave and 134 new ones arrive. How many are there now?", given: "856 cars, 279 leave, 134 arrive", asked: "How many cars are there now?", calc: "856 − 279 + 134 = ?", answer: "856 − 279 + 134 = 711 cars" },
+    { text: "A swimming pool is 50 m long. Tim swims 14 laps. How many meters does he swim?", given: "50 m per lap, 14 laps", asked: "How many meters in total?", calc: "50 × 14 = ?", answer: "50 × 14 = 700 m" },
+  ],
+  hu: [
+    { text: "Egy iskolában 24 osztály van, mindegyikben 28 tanuló. Hány tanuló jár az iskolába?", given: "24 osztály, 28 tanuló/osztály", asked: "Összesen hány tanuló?", calc: "24 × 28 = ?", answer: "24 × 28 = 672 tanuló" },
+    { text: "Egy vonat 185 km/h-val halad. Milyen messzire jut 3 óra alatt?", given: "185 km/h, 3 óra", asked: "Hány kilométert tesz meg a vonat?", calc: "185 × 3 = ?", answer: "185 × 3 = 555 km" },
+    { text: "Lena havonta 45,50 eurót takarít meg. Mennyit takarít meg 6 hónap alatt?", given: "havi 45,50 €, 6 hónap", asked: "Mennyit takarított meg Lena összesen?", calc: "45,50 × 6 = ?", answer: "45,50 × 6 = 273 €" },
+    { text: "Egy pizza 3/4-e 450 g. Mennyit nyom az egész pizza?", given: "3/4 pizza = 450 g", asked: "Mennyit nyom egy egész pizza?", calc: "450 ÷ 3 × 4 = ?", answer: "450 ÷ 3 × 4 = 600 g" },
+    { text: "Egy parkolóban 856 autó áll. 279 elmegy, 134 új érkezik. Hány van most?", given: "856 autó, 279 elment, 134 érkezett", asked: "Összesen hány autó van most?", calc: "856 − 279 + 134 = ?", answer: "856 − 279 + 134 = 711 autó" },
+    { text: "Egy uszoda 50 m hosszú. Tim 14 hosszt úszik. Hány métert úszik összesen?", given: "50 m/hossz, 14 hossz", asked: "Összesen hány méter?", calc: "50 × 14 = ?", answer: "50 × 14 = 700 m" },
+  ],
+  ro: [
+    { text: "O școală are 24 de clase cu câte 28 de elevi fiecare. Câți elevi frecventează școala?", given: "24 clase, 28 elevi/clasă", asked: "Câți elevi în total?", calc: "24 × 28 = ?", answer: "24 × 28 = 672 elevi" },
+    { text: "Un tren circulă cu 185 km/h. Cât de departe ajunge în 3 ore?", given: "185 km/h, 3 ore", asked: "Câți kilometri parcurge trenul?", calc: "185 × 3 = ?", answer: "185 × 3 = 555 km" },
+    { text: "Lena economisește 45,50 € pe lună. Cât a economisit după 6 luni?", given: "45,50 € pe lună, 6 luni", asked: "Cât a economisit Lena în total?", calc: "45,50 × 6 = ?", answer: "45,50 × 6 = 273 €" },
+    { text: "3/4 dintr-o pizza cântărește 450 g. Cât cântărește pizza întreagă?", given: "3/4 pizza = 450 g", asked: "Cât cântărește o pizza întreagă?", calc: "450 ÷ 3 × 4 = ?", answer: "450 ÷ 3 × 4 = 600 g" },
+    { text: "Într-o parcare sunt 856 de mașini. 279 pleacă și 134 noi sosesc. Câte sunt acum?", given: "856 mașini, 279 pleacă, 134 sosesc", asked: "Câte mașini sunt acum?", calc: "856 − 279 + 134 = ?", answer: "856 − 279 + 134 = 711 mașini" },
+    { text: "O piscină are 50 m lungime. Tim înoată 14 lungimi. Câți metri înoată?", given: "50 m/lungime, 14 lungimi", asked: "Câți metri în total?", calc: "50 × 14 = ?", answer: "50 × 14 = 700 m" },
+  ],
+};
+
 // Step colors: given=color (passed), asked=gold, calc=green
 const STEP_COLORS = ["#00D4FF", "#FFD700", "#00FF88"];
 
@@ -320,7 +356,7 @@ const WordProblemExplorer = memo(function WordProblemExplorer({
   grade?: number;
 }) {
   const lbl = LABELS[lang] ?? LABELS.en;
-  const problemSet = grade <= 3 ? PROBLEMS_G3 : PROBLEMS;
+  const problemSet = grade >= 5 ? PROBLEMS_G5 : grade <= 3 ? PROBLEMS_G3 : PROBLEMS;
   const pool = problemSet[lang] ?? problemSet.en;
 
   const [rounds] = useState<WordProblem[]>(() => {
