@@ -3,7 +3,7 @@ import { memo, useState, useEffect, useCallback, useMemo, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
-import { speak, SpeakButton } from "@/lib/astromath-tts";
+import { SpeakButton } from "@/lib/astromath-tts";
 import { T } from "@/app/astromath/games/translations";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 
@@ -36,11 +36,6 @@ const RocketLaunch = memo(function RocketLaunch({ questions, color, onDone }: {
     const wrong = wrongs[0] ?? String(Number(correct) + 1);
     return idx % 2 === 0 ? [correct, wrong] : [wrong, correct];
   }, [idx, q]); // eslint-disable-line react-hooks/exhaustive-deps
-
-  // Auto-read question
-  useEffect(() => {
-    if (q?.question && !done) speak(q.question, lang);
-  }, [idx, q, lang]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Timer
   useEffect(() => {

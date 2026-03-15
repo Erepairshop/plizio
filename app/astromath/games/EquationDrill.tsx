@@ -6,7 +6,7 @@
 import { memo, useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
-import { speak } from "@/lib/astromath-tts";
+import { SpeakButton } from "@/lib/astromath-tts";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 
 const LABELS: Record<string, Record<string, string>> = {
@@ -32,10 +32,6 @@ const EquationDrill = memo(function EquationDrill({ questions, color, onDone, on
   const q = questions[idx];
   const opts = q?.options ?? [];
   const isCorrect = selected !== null && String(selected) === String(q?.correctAnswer);
-
-  useEffect(() => {
-    if (q?.question) speak(q.question, lang);
-  }, [idx, q?.question, lang]);
 
   const confirm = useCallback((opt: string | number) => {
     if (confirmed) return;
@@ -84,7 +80,10 @@ const EquationDrill = memo(function EquationDrill({ questions, color, onDone, on
           initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0, scale: 0.9 }}
           className="rounded-3xl p-7 flex flex-col items-center gap-2"
           style={{ background: `${color}14`, border: `2px solid ${color}35` }}>
-          <p className="text-3xl font-black text-white text-center tracking-wide leading-tight">{q.question}</p>
+          <div className="flex items-center gap-2 justify-center">
+            <p className="text-3xl font-black text-white text-center tracking-wide leading-tight">{q.question}</p>
+            <SpeakButton text={q.question} lang={lang} size={18} />
+          </div>
           {/* Pulsing ? hint */}
           {!confirmed && (
             <motion.span className="text-4xl font-black mt-1"

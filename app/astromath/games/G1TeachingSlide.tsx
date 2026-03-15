@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, ChevronLeft, X } from "lucide-react";
-import { speak, SpeakButton } from "@/lib/astromath-tts";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Props ─────────────────────────────────────────────────────────────────────
 interface Props {
@@ -1354,12 +1354,6 @@ export default function G1TeachingSlide({ islandId, lang, color, onDone, onExit 
     setSlideIdx((i) => Math.max(0, Math.min(total - 1, i + delta)));
   };
 
-  // Speak title + caption whenever slide changes
-  useEffect(() => {
-    const titleText = slide.title[lang] ?? slide.title.en;
-    const captionText = slide.caption[lang] ?? slide.caption.en;
-    speak(`${titleText}. ${captionText}`, lang);
-  }, [slideIdx]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const t = {
     next:   { en: "Next", hu: "Tovább", de: "Weiter", ro: "Următorul" }[lang] ?? "Next",
