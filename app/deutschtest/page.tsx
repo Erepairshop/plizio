@@ -28,6 +28,8 @@ import {
 import { getRandomPassage, type Lesepassage, type LeseQuestion } from "@/lib/deutschLesetest";
 import { generateForSubtopics } from "@/lib/deutschGenerators";
 import { checkAnswer } from "@/lib/deutschValidation";
+import { InlineTeacherNote } from "@/components/TeacherNote";
+import { getUsername } from "@/lib/username";
 import { playCorrect, playIncorrect, playClick } from "@/lib/soundEffects";
 
 // ─── TTS HELPER ──────────────────────────────────────────────────────────────
@@ -172,6 +174,8 @@ export default function DeutschTestPage() {
   const [avatarMood, setAvatarMood] = useState<AvatarMood>("idle");
   const [earnedCard, setEarnedCard] = useState<string | null>(null);
   const [dateStr, setDateStr] = useState("");
+  const [playerName] = useState(() => (typeof window !== "undefined" ? getUsername() : "") ?? "");
+  const noteRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     setDateStr(new Date().toLocaleDateString("de-DE", { weekday: "long", year: "numeric", month: "long", day: "numeric" }));
@@ -745,6 +749,7 @@ export default function DeutschTestPage() {
             total={totalQ}
             onExit={() => setScreen("topics")}
             exitLabel="Zurück"
+            userName={playerName || undefined}
           >
             {/* All questions at once — lined paper style */}
             <div style={{ fontSize: 14, lineHeight: '28px' }}>
@@ -1053,6 +1058,21 @@ export default function DeutschTestPage() {
                   {scoreCount} / {answers.length} richtig ({scorePct}%)
                 </p>
               </motion.div>
+
+              {/* Teacher Note */}
+              <div ref={noteRef}>
+                <InlineTeacherNote
+                  playerName={playerName}
+                  percentage={scorePct}
+                  countryCode={country}
+                  subject="deutsch"
+                  onWritingStart={() => {
+                    setTimeout(() => {
+                      noteRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+                    }, 300);
+                  }}
+                />
+              </div>
 
               {/* Answer Review */}
               <div className="bg-[#12122A] rounded-xl border border-white/10 overflow-hidden mb-6">
