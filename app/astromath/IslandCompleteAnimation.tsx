@@ -14,6 +14,7 @@
  */
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { playIslandComplete, playRocketDescend, playFueling, playLaunch } from "@/lib/astromath-sounds";
 
 // ─── Island-Complete label translations ────────────────────────────────────────
 const LABELS: Record<string, { complete: string; fueling: string; ready: string; liftoff: string }> = {
@@ -223,16 +224,16 @@ export default function IslandCompleteAnimation({ islandIcon, islandColor, islan
   const [phase, setPhase] = useState(0);
   const t = LABELS[lang] ?? LABELS.en;
 
-  // Phase timeline
+  // Phase timeline + hangeffektek
   useEffect(() => {
     const ts = [
-      setTimeout(() => setPhase(1), 1200),   // island icon visible
-      setTimeout(() => setPhase(2), 3000),   // astronaut walks in
-      setTimeout(() => setPhase(3), 4800),   // rocket descends
-      setTimeout(() => setPhase(4), 6200),   // fueling starts
-      setTimeout(() => setPhase(5), 8800),   // astronaut boards
-      setTimeout(() => setPhase(6), 10200),  // ignition + launch
-      setTimeout(() => setPhase(7), 12000),  // fade out
+      setTimeout(() => { setPhase(1); playIslandComplete(); }, 1200),   // island icon + fanfár
+      setTimeout(() => setPhase(2), 3000),                              // astronaut walks in
+      setTimeout(() => { setPhase(3); playRocketDescend(); }, 4800),    // rocket descends + whoosh
+      setTimeout(() => { setPhase(4); playFueling(); }, 6200),          // fueling + elektromos hang
+      setTimeout(() => setPhase(5), 8800),                              // astronaut boards
+      setTimeout(() => { setPhase(6); playLaunch(); }, 10200),          // ignition + launch hang
+      setTimeout(() => setPhase(7), 12000),                             // fade out
       setTimeout(onDone, 13000),
     ];
     return () => ts.forEach(clearTimeout);
