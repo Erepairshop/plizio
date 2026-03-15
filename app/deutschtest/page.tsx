@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, useRef, useMemo } from "react";
+import { G1_ICONS, G1_WORD_LABELS } from "@/components/grade1-visual/G1Icons";
 import { motion, AnimatePresence } from "framer-motion";
 import { BookOpen, ArrowLeft, Check, X as XIcon, RotateCcw, Home, ChevronRight } from "lucide-react";
 import Link from "next/link";
@@ -27,6 +28,34 @@ import {
 import { getRandomPassage, type Lesepassage, type LeseQuestion } from "@/lib/deutschLesetest";
 import { generateForSubtopics } from "@/lib/deutschGenerators";
 import { checkAnswer } from "@/lib/deutschValidation";
+import { playCorrect, playIncorrect, playClick } from "@/lib/soundEffects";
+
+// ─── TTS HELPER ──────────────────────────────────────────────────────────────
+function speakText(text: string) {
+  if (typeof window === "undefined" || !window.speechSynthesis) return;
+  window.speechSynthesis.cancel();
+
+  const doSpeak = () => {
+    const utt = new SpeechSynthesisUtterance(text);
+    utt.lang = "de-DE";
+    utt.rate = 0.88;
+    utt.pitch = 1.1;
+    // Explicit German voice selection — Chrome desktop needs this
+    const voices = window.speechSynthesis.getVoices();
+    const deVoice = voices.find(v => v.lang.startsWith("de")) ?? voices[0];
+    if (deVoice) utt.voice = deVoice;
+    window.speechSynthesis.speak(utt);
+  };
+
+  // Chrome desktop bug: cancel() needs a small delay before speak()
+  // Also wait for voices to load if not ready yet
+  const voices = window.speechSynthesis.getVoices();
+  if (voices.length > 0) {
+    setTimeout(doSpeak, 50);
+  } else {
+    window.speechSynthesis.addEventListener("voiceschanged", () => setTimeout(doSpeak, 50), { once: true });
+  }
+}
 
 // ─── DEUTSCH FLOATING BACKGROUND ─────────────────────────────────────────────
 
@@ -78,11 +107,11 @@ type Screen = "country" | "grade" | "topics" | "test" | "reward" | "result";
 type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory";
 
 interface TestQuestion {
-  type: "mcq" | "typing";
+  type: "mcq" | "typing" | "bild-wort" | "anlaut-bild";
   question: string;
   options?: string[];
-  correct?: number;          // mcq
-  answer?: string | string[]; // typing
+  correct?: number;
+  answer?: string | string[];
   hint?: string;
   subtopic?: string;
   passageText?: string;
@@ -137,70 +166,79 @@ export default function DeutschTestPage() {
   const [selectedIds, setSelectedIds] = useState<string[]>([]);
   const [includeLesetest, setIncludeLesetest] = useState(false);
   const [questions, setQuestions] = useState<TestQuestion[]>([]);
-  const [idx, setIdx] = useState(0);
   const [answers, setAnswers] = useState<{ correct: boolean; given: string; expected: string }[]>([]);
-  const [showFeedback, setShowFeedback] = useState(false);
-  const [lastCorrect, setLastCorrect] = useState(false);
-  const [typingInput, setTypingInput] = useState("");
+  const [paperAnswers, setPaperAnswers] = useState<Record<number, string>>({});
+  const [submitted, setSubmitted] = useState(false);
   const [avatarMood, setAvatarMood] = useState<AvatarMood>("idle");
-  const [jumpTrigger, setJumpTrigger] = useState<{ reaction: 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | null; timestamp: number }>({ reaction: null, timestamp: 0 });
   const [earnedCard, setEarnedCard] = useState<string | null>(null);
   const [dateStr, setDateStr] = useState("");
-  const inputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
     setDateStr(new Date().toLocaleDateString("de-DE", { weekday: "long", year: "numeric", month: "long", day: "numeric" }));
   }, []);
 
   const themes: DeutschTheme[] = DEUTSCH_CURRICULUM[grade] ?? [];
-  const currentQ = questions[idx];
   const totalQ = questions.length;
-  const progress = totalQ > 0 ? (idx / totalQ) * 100 : 0;
+  const answeredCount = Object.keys(paperAnswers).length;
 
   // ─── FRAGEN AUFBAUEN ────────────────────────────────────────────────────────
 
+  // ─── FRAGEN AUFBAUEN — min. 10 Gruppen à 3, round-robin ─────────────────────
+
   function buildTest(g: number, subtopicIds: string[], withLesetest: boolean) {
-    const isMixed = subtopicIds.length > 0;
-    const leseMax = withLesetest ? (isMixed ? 1 : 3) : 0;
-    const maxGrammar = 15 - leseMax;
+    const ids = subtopicIds.length > 0 ? subtopicIds : [];
+    // Always at least 10 groups (30 questions); more if >10 topics selected
+    const groupCount = ids.length > 0 ? Math.max(ids.length, 10) : 0;
 
-    // Statische Fragen aus dem Curriculum
-    const staticQs = getDeutschQuestions(g, subtopicIds, 20);
-
-    // Generierte Fragen (zufällig, jedes Mal anders)
-    const generatedQs = generateForSubtopics(subtopicIds, 12);
-
-    // Zusammenführen, mischen, doppelte Fragen (nach Text) entfernen
-    const combined = [...staticQs, ...generatedQs];
-    for (let i = combined.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [combined[i], combined[j]] = [combined[j], combined[i]];
-    }
-    const seen = new Set<string>();
-    const grammarPool: TestQuestion[] = [];
-    for (const q of combined) {
-      const key = q.question.slice(0, 60);
-      if (!seen.has(key)) {
-        seen.add(key);
-        grammarPool.push({ ...q });
+    // Build pools per unique topic (shuffled, deduplicated)
+    const pools: Record<string, TestQuestion[]> = {};
+    for (const sid of ids) {
+      const combined = [
+        ...getDeutschQuestions(g, [sid], 20),
+        ...generateForSubtopics([sid], 12),
+      ];
+      for (let i = combined.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [combined[i], combined[j]] = [combined[j], combined[i]];
       }
-      if (grammarPool.length >= maxGrammar) break;
+      const seen = new Set<string>();
+      pools[sid] = combined.filter((q) => {
+        const k = q.question.slice(0, 60);
+        if (seen.has(k)) return false;
+        seen.add(k);
+        return true;
+      });
     }
 
-    // Lesetest-Fragen anhängen
+    // Assign topics to groups round-robin, then pick 3 per group
+    // Track pointer into each topic's pool
+    const ptr: Record<string, number> = {};
+    const allQs: TestQuestion[] = [];
+
+    for (let g2 = 0; g2 < groupCount; g2++) {
+      const sid = ids[g2 % ids.length];
+      const pool = pools[sid] ?? [];
+      const start = ptr[sid] ?? 0;
+      for (let k = 0; k < 3; k++) {
+        const idx = (start + k) % Math.max(pool.length, 1);
+        if (pool[idx]) allQs.push({ ...pool[idx] });
+      }
+      ptr[sid] = (start + 3) % Math.max(pool.length, 1);
+    }
+
     if (withLesetest) {
       const passage = getRandomPassage(g);
       if (passage) {
-        const leseQs: TestQuestion[] = passage.questions.slice(0, leseMax).map((lq) => ({
+        const leseQs: TestQuestion[] = passage.questions.slice(0, 3).map((lq) => ({
           ...lq,
           passageText: passage.text,
           passageTitle: passage.title,
         }));
-        grammarPool.push(...leseQs);
+        allQs.push(...leseQs);
       }
     }
 
-    return grammarPool;
+    return allQs;
   }
 
   // ─── TEST STARTEN ────────────────────────────────────────────────────────────
@@ -210,55 +248,43 @@ export default function DeutschTestPage() {
     const qs = buildTest(grade, selectedIds, includeLesetest);
     if (qs.length === 0) return;
     setQuestions(qs);
-    setIdx(0);
     setAnswers([]);
-    setShowFeedback(false);
-    setTypingInput("");
+    setPaperAnswers({});
+    setSubmitted(false);
     setAvatarMood("focused");
     setScreen("test");
   }
 
-  // ─── MCQ ANTWORT ─────────────────────────────────────────────────────────────
+  // ─── ABGEBEN ─────────────────────────────────────────────────────────────────
 
-  function handleMCQ(optIdx: number) {
-    if (showFeedback) return;
-    const correct = currentQ.correct === optIdx;
-    const expected = currentQ.options?.[currentQ.correct ?? 0] ?? "";
-    recordAnswer(correct, currentQ.options?.[optIdx] ?? "", expected);
-  }
-
-  // ─── TYPING ANTWORT ──────────────────────────────────────────────────────────
-
-  function handleTyping(e: React.FormEvent) {
-    e.preventDefault();
-    if (showFeedback || !typingInput.trim()) return;
-    const correct = checkAnswer(typingInput, currentQ.answer ?? "", grade);
-    const expected = Array.isArray(currentQ.answer)
-      ? currentQ.answer[0]
-      : currentQ.answer ?? "";
-    recordAnswer(correct, typingInput, expected);
-  }
-
-  // ─── ANTWORT VERARBEITEN ──────────────────────────────────────────────────────
-
-  function recordAnswer(correct: boolean, given: string, expected: string) {
-    setLastCorrect(correct);
-    setShowFeedback(true);
-    setAvatarMood(correct ? "happy" : "disappointed");
-    if (correct) setJumpTrigger({ reaction: 'happy', timestamp: Date.now() });
-    setAnswers((prev) => [...prev, { correct, given, expected }]);
-
-    setTimeout(() => {
-      setShowFeedback(false);
-      setTypingInput("");
-      if (idx + 1 >= totalQ) {
-        finishTest([...answers, { correct, given, expected }]);
+  function handleAbgeben() {
+    const allAnswers = questions.map((q, i) => {
+      const given = paperAnswers[i] ?? "";
+      let isCorrect = false;
+      let expected = "";
+      if (q.type === "mcq" || q.type === "bild-wort" || q.type === "anlaut-bild") {
+        const givenIdx = parseInt(given);
+        isCorrect = !isNaN(givenIdx) && givenIdx === q.correct;
+        if (q.type === "bild-wort") {
+          expected = G1_WORD_LABELS[q.options?.[q.correct ?? 0] ?? ""] ?? q.options?.[q.correct ?? 0] ?? "";
+        } else {
+          expected = q.options?.[q.correct ?? 0] ?? "";
+        }
       } else {
-        setIdx((i) => i + 1);
-        setAvatarMood("focused");
-        setTimeout(() => inputRef.current?.focus(), 100);
+        isCorrect = checkAnswer(given, q.answer ?? "", grade);
+        expected = Array.isArray(q.answer) ? q.answer[0] : q.answer ?? "";
       }
-    }, 1500);
+      return { correct: isCorrect, given, expected };
+    });
+
+    const correctCount = allAnswers.filter((a) => a.correct).length;
+    if (correctCount / questions.length >= 0.5) playCorrect(); else playIncorrect();
+
+    setAnswers(allAnswers);
+    setSubmitted(true);
+    setAvatarMood(correctCount / questions.length >= 0.5 ? "victory" : "disappointed");
+
+    setTimeout(() => finishTest(allAnswers), 2500);
   }
 
   // ─── TEST BEENDEN ────────────────────────────────────────────────────────────
@@ -285,7 +311,6 @@ export default function DeutschTestPage() {
     saveCard(card);
     window.dispatchEvent(new Event("plizio-cards-changed"));
     setEarnedCard(rarity);
-    setAvatarMood(pct >= 50 ? "victory" : "disappointed");
     setScreen("reward");
   }
 
@@ -294,6 +319,8 @@ export default function DeutschTestPage() {
   function restart() {
     setScreen("topics");
     setEarnedCard(null);
+    setPaperAnswers({});
+    setSubmitted(false);
     setAvatarMood("idle");
   }
 
@@ -329,7 +356,7 @@ export default function DeutschTestPage() {
         <AvatarCompanion
           {...avatarProps}
           mood={avatarMood}
-          jumpTrigger={jumpTrigger}
+          jumpTrigger={{ reaction: null, timestamp: 0 }}
           fixed={false}
         />
       </div>
@@ -708,160 +735,275 @@ export default function DeutschTestPage() {
         )}
 
         {/* ── TEST ──────────────────────────────────────────────────────────── */}
-        {screen === "test" && currentQ && (
+        {screen === "test" && questions.length > 0 && (
           <ModernPaperTest
             title="Deutsch Test"
             icon="✏️"
             gradeLabel={`Klasse ${grade}`}
             date={dateStr}
-            solved={answers.length}
+            solved={answeredCount}
             total={totalQ}
             onExit={() => setScreen("topics")}
             exitLabel="Zurück"
           >
-          <motion.div
-            key={`test-${idx}`}
-            initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }}
-            exit={{ opacity: 0, x: -20 }}
-            transition={{ duration: 0.2 }}
-          >
-            {/* Passage (Lesetest) — paper style */}
-            {currentQ.passageText && (
-              <motion.div
-                initial={{ opacity: 0, y: -6 }} animate={{ opacity: 1, y: 0 }}
-                className="bg-blue-50 border-l-4 border-blue-300 rounded-r-lg p-4 mb-6"
-              >
-                {currentQ.passageTitle && (
-                  <p className="text-blue-500 text-xs font-bold mb-2 uppercase tracking-wide">
-                    📖 {currentQ.passageTitle}
-                  </p>
-                )}
-                <p className="text-slate-700 text-sm leading-relaxed">{currentQ.passageText}</p>
-              </motion.div>
-            )}
+            {/* All questions at once — lined paper style */}
+            <div style={{ fontSize: 14, lineHeight: '28px' }}>
+              {questions.map((q, qi) => {
+                const userAnswerRaw = paperAnswers[qi];
+                const ans = submitted ? answers[qi] : undefined;
+                const isCorrect = ans?.correct ?? false;
 
-            {/* Question number + text */}
-            <div className="mb-4">
-              <div className="flex items-start gap-2.5">
-                <span className="text-slate-300 font-mono text-sm shrink-0 mt-0.5 w-6 text-right">
-                  {idx + 1}.
-                </span>
-                <div className="flex-1">
-                  <p className="text-slate-800 text-base font-semibold leading-relaxed">{currentQ.question}</p>
-                  {currentQ.hint && (
-                    <p className="text-slate-400 text-xs mt-1 font-normal">💡 {currentQ.hint}</p>
-                  )}
-                </div>
-              </div>
+                // Section header every 3 questions
+                const showSection = qi % 3 === 0 && !q.passageText;
+                const aufgabeNr = Math.floor(qi / 3) + 1;
+
+                // Show passage once per unique passageTitle
+                const showPassage = q.passageText &&
+                  (qi === 0 || questions[qi - 1].passageTitle !== q.passageTitle);
+
+                return (
+                  <div key={qi}>
+                    {/* Passage block */}
+                    {showPassage && (
+                      <div className="bg-blue-50/80 border-l-4 border-blue-300 rounded-r-lg px-3"
+                        style={{ lineHeight: '28px', marginBottom: 28 }}>
+                        {q.passageTitle && (
+                          <p style={{ lineHeight: '28px' }} className="text-blue-500 text-xs font-bold uppercase">📖 {q.passageTitle}</p>
+                        )}
+                        <p style={{ lineHeight: '28px' }} className="text-slate-700 text-sm">{q.passageText}</p>
+                      </div>
+                    )}
+
+                    {/* Aufgabe section header every 3 questions */}
+                    {showSection && (
+                      <div style={{ height: 28, lineHeight: '28px' }}
+                        className="flex items-center gap-2">
+                        <span className="text-[10px] font-black uppercase tracking-widest text-slate-400">
+                          Aufgabe {aufgabeNr}
+                        </span>
+                        <span className="flex-1 border-t border-slate-100" />
+                      </div>
+                    )}
+
+                    {/* Question row — sits on a line, NO fractional padding */}
+                    <div style={{ lineHeight: '28px' }} className="flex items-start gap-2">
+                      <span className="font-mono text-xs text-slate-400 w-5 text-right shrink-0" style={{ lineHeight: '28px' }}>
+                        {qi + 1}.
+                      </span>
+                      <p className="flex-1 text-slate-800 text-sm font-semibold" style={{ lineHeight: '28px' }}>{q.type === "anlaut-bild" ? "" : q.question}</p>
+                      {/* TTS button */}
+                      <button
+                        type="button"
+                        onClick={() => speakText(
+                          q.type === "anlaut-bild"
+                            ? (G1_WORD_LABELS[q.question] ?? q.question)
+                            : q.question
+                        )}
+                        className="shrink-0 w-6 h-6 flex items-center justify-center rounded-full bg-blue-50 hover:bg-blue-100 border border-blue-200 text-blue-400 transition-colors text-xs"
+                        style={{ marginTop: 1 }}
+                        title="Vorlesen"
+                        tabIndex={-1}
+                      >🔊</button>
+                      {/* Correction mark after submit */}
+                      {submitted && ans && (
+                        <span className={`shrink-0 font-bold text-base leading-7 ${isCorrect ? 'text-emerald-500' : 'text-red-500'}`}>
+                          {isCorrect ? '✓' : '✗'}
+                        </span>
+                      )}
+                    </div>
+
+                    {/* MCQ options — each row sits on one ruled line */}
+                    {q.type === "mcq" && q.options && (
+                      <div className="ml-7">
+                        {q.options.map((opt, oi) => {
+                          const isSelected = userAnswerRaw === String(oi);
+                          let rowCls = "text-slate-600 hover:bg-blue-50/50 cursor-pointer";
+                          let labelCls = "text-slate-300";
+                          if (submitted && ans) {
+                            if (oi === q.correct) {
+                              rowCls = "text-emerald-700 bg-emerald-50/60 cursor-default";
+                              labelCls = "text-emerald-500";
+                            } else if (isSelected && !isCorrect) {
+                              rowCls = "text-red-500 bg-red-50/60 cursor-default line-through";
+                              labelCls = "text-red-400";
+                            } else {
+                              rowCls = "text-slate-300 cursor-default";
+                              labelCls = "text-slate-200";
+                            }
+                          } else if (isSelected) {
+                            rowCls = "text-blue-800 bg-blue-50/80 font-semibold cursor-pointer";
+                            labelCls = "text-blue-500";
+                          }
+                          return (
+                            <button
+                              key={oi}
+                              onClick={() => { if (!submitted) { playClick(); setPaperAnswers((prev) => ({ ...prev, [qi]: String(oi) })); } }}
+                              disabled={submitted}
+                              style={{ height: 28, lineHeight: '28px' }}
+                              className={`w-full text-left flex items-center gap-1.5 px-1 text-sm transition-colors ${rowCls}`}
+                            >
+                              <span className={`font-mono text-xs w-5 text-right shrink-0 ${labelCls}`}>
+                                {String.fromCharCode(65 + oi)})
+                              </span>
+                              {opt}
+                            </button>
+                          );
+                        })}
+                      </div>
+                    )}
+
+                    {/* Bild-Wort: show word → 4 image tiles to click */}
+                    {q.type === "bild-wort" && q.options && (
+                      <>
+                      <div className="ml-7 flex items-center" style={{ height: 28 }}>
+                        <span className="text-xs text-slate-400 italic">🖼 Klicke auf das richtige Bild:</span>
+                      </div>
+                      <div className="ml-7 py-1" style={{ height: 84 }}>
+                        <div className="flex gap-2 h-full">
+                          {q.options.map((imgKey, oi) => {
+                            const Icon = G1_ICONS[imgKey];
+                            const isSelected = userAnswerRaw === String(oi);
+                            const isRightAnswer = oi === q.correct;
+                            let border = "border-slate-200 bg-white hover:border-blue-300 hover:bg-blue-50/30 cursor-pointer";
+                            if (submitted) {
+                              if (isRightAnswer) border = "border-emerald-400 bg-emerald-50 cursor-default";
+                              else if (isSelected && !isCorrect) border = "border-red-400 bg-red-50 cursor-default opacity-60";
+                              else border = "border-slate-100 bg-white cursor-default opacity-40";
+                            } else if (isSelected) {
+                              border = "border-blue-400 bg-blue-50 cursor-pointer ring-1 ring-blue-300";
+                            }
+                            return (
+                              <button
+                                key={oi}
+                                onClick={() => { if (!submitted) { playClick(); setPaperAnswers((prev) => ({ ...prev, [qi]: String(oi) })); } }}
+                                disabled={submitted}
+                                className={`flex-1 rounded-lg border-2 flex flex-col items-center justify-center transition-all ${border}`}
+                                style={{ height: 76 }}
+                              >
+                                {Icon ? (
+                                  <div style={{ width: 44, height: 44 }}><Icon /></div>
+                                ) : (
+                                  <span className="text-xs text-slate-400">{imgKey}</span>
+                                )}
+                                <span className="text-[9px] font-semibold text-slate-400 mt-0.5">
+                                  {G1_WORD_LABELS[imgKey] ?? imgKey}
+                                </span>
+                              </button>
+                            );
+                          })}
+                        </div>
+                      </div>
+                      </>
+                    )}
+
+                    {/* Anlaut-Bild: show image → 4 letter buttons */}
+                    {q.type === "anlaut-bild" && q.options && (() => {
+                      const Icon = G1_ICONS[q.question];
+                      return (
+                        <>
+                        <div className="ml-7 flex items-center" style={{ height: 28 }}>
+                          <span className="text-xs text-slate-400 italic">🔤 Mit welchem Buchstaben beginnt das Wort?</span>
+                        </div>
+                        <div className="ml-7" style={{ height: 84 }}>
+                          <div className="flex items-center gap-3 h-full">
+                            {/* Image */}
+                            <div className="shrink-0 rounded-xl border-2 border-slate-200 bg-white flex items-center justify-center" style={{ width: 72, height: 72 }}>
+                              {Icon ? (
+                                <div style={{ width: 52, height: 52 }}><Icon /></div>
+                              ) : (
+                                <span className="text-xs text-slate-400">{q.question}</span>
+                              )}
+                            </div>
+                            {/* Letter choices */}
+                            <div className="flex gap-2 flex-1">
+                              {q.options.map((letter, oi) => {
+                                const isSelected = userAnswerRaw === String(oi);
+                                const isRightAnswer = oi === q.correct;
+                                let cls = "border-slate-200 bg-white text-slate-600 hover:border-blue-300 hover:bg-blue-50 cursor-pointer";
+                                if (submitted) {
+                                  if (isRightAnswer) cls = "border-emerald-400 bg-emerald-50 text-emerald-700 cursor-default font-bold";
+                                  else if (isSelected && !isCorrect) cls = "border-red-400 bg-red-50 text-red-500 cursor-default line-through opacity-70";
+                                  else cls = "border-slate-100 bg-white text-slate-300 cursor-default opacity-50";
+                                } else if (isSelected) {
+                                  cls = "border-blue-400 bg-blue-50 text-blue-700 font-bold cursor-pointer ring-1 ring-blue-300";
+                                }
+                                return (
+                                  <button
+                                    key={oi}
+                                    onClick={() => { if (!submitted) { playClick(); setPaperAnswers((prev) => ({ ...prev, [qi]: String(oi) })); } }}
+                                    disabled={submitted}
+                                    className={`flex-1 rounded-xl border-2 text-xl font-black transition-all ${cls}`}
+                                    style={{ height: 56 }}
+                                  >
+                                    {letter}
+                                  </button>
+                                );
+                              })}
+                            </div>
+                          </div>
+                        </div>
+                        </>
+                      );
+                    })()}
+
+                    {/* Typing input — transparent, sits on a ruled line */}
+                    {q.type === "typing" && (
+                      <div style={{ height: 28, lineHeight: '28px' }}
+                        className="ml-7 flex items-center gap-2 px-1">
+                        <span className="text-slate-300 text-xs w-5 text-right shrink-0">→</span>
+                        {submitted && ans ? (
+                          <span className={`text-sm font-medium ${isCorrect ? 'text-emerald-600' : 'text-red-500'}`}>
+                            {userAnswerRaw || <span className="text-slate-300 italic text-xs">—</span>}
+                            {!isCorrect && (
+                              <span className="text-slate-400 text-xs ml-2 font-normal">
+                                → {ans.expected}
+                              </span>
+                            )}
+                          </span>
+                        ) : (
+                          <input
+                            value={userAnswerRaw ?? ""}
+                            onChange={(e) =>
+                              setPaperAnswers((prev) => ({ ...prev, [qi]: e.target.value }))
+                            }
+                            placeholder="Antwort..."
+                            className="flex-1 bg-transparent border-0 text-sm text-slate-800 outline-none placeholder:text-slate-300"
+                            style={{ height: 28, lineHeight: '28px' }}
+                          />
+                        )}
+                      </div>
+                    )}
+
+                    {/* Spacer — one empty ruled line between questions */}
+                    <div style={{ height: 28 }} />
+                  </div>
+                );
+              })}
+
+              {/* Extra blank lines at end */}
+              {[...Array(3)].map((_, i) => (
+                <div key={`blank-${i}`} style={{ height: 28 }} />
+              ))}
             </div>
 
-            {/* MCQ — paper style rows */}
-            {currentQ.type === "mcq" && currentQ.options && (
-              <div className="ml-8 flex flex-col border-t border-slate-100">
-                {currentQ.options.map((opt, i) => {
-                  let rowCls = "text-slate-700 hover:bg-blue-50/70 cursor-pointer";
-                  let labelCls = "text-slate-400";
-                  let indicator = null;
-                  if (showFeedback) {
-                    if (i === currentQ.correct) {
-                      rowCls = "text-emerald-700 bg-emerald-50/60 cursor-default";
-                      labelCls = "text-emerald-500";
-                      indicator = <Check size={13} className="shrink-0 text-emerald-500" />;
-                    } else if (answers[answers.length - 1]?.given === opt && !lastCorrect) {
-                      rowCls = "text-red-500 bg-red-50/60 cursor-default";
-                      labelCls = "text-red-400";
-                      indicator = <XIcon size={13} className="shrink-0 text-red-400" />;
-                    } else {
-                      rowCls = "text-slate-300 cursor-default";
-                      labelCls = "text-slate-300";
-                    }
-                  }
-                  return (
-                    <button
-                      key={i}
-                      onClick={() => handleMCQ(i)}
-                      disabled={showFeedback}
-                      className={`w-full text-left px-3 py-2.5 border-b border-slate-100 text-sm transition-colors flex items-center gap-2 ${rowCls}`}
-                    >
-                      <span className={`font-mono text-xs w-5 shrink-0 ${labelCls}`}>{String.fromCharCode(65 + i)})</span>
-                      <span className="flex-1">{opt}</span>
-                      {indicator}
-                    </button>
-                  );
-                })}
-              </div>
-            )}
-
-            {/* Typing — pen-on-paper style */}
-            {currentQ.type === "typing" && (
-              <form onSubmit={handleTyping} className="ml-8 flex flex-col gap-3 mt-2">
-                <input
-                  ref={inputRef}
-                  value={typingInput}
-                  onChange={(e) => setTypingInput(e.target.value)}
-                  disabled={showFeedback}
-                  placeholder="Antwort..."
-                  autoFocus
-                  className={`w-full bg-transparent border-0 border-b-2 px-1 py-1.5 text-slate-800 text-base outline-none
-                    font-medium placeholder:text-slate-300 transition-all
-                    ${showFeedback
-                      ? lastCorrect
-                        ? "border-emerald-400 text-emerald-700"
-                        : "border-red-400 text-red-600"
-                      : "border-slate-300 focus:border-blue-400"
-                    }`}
-                />
-                {!showFeedback && (
-                  <motion.button
-                    type="submit"
-                    whileHover={{ scale: 1.02 }}
-                    whileTap={{ scale: 0.97 }}
-                    disabled={!typingInput.trim()}
-                    className="self-start px-5 py-2 rounded-full bg-slate-800 text-white text-sm font-bold
-                               disabled:opacity-30 disabled:cursor-not-allowed hover:bg-slate-700 transition-colors"
-                  >
-                    Prüfen →
-                  </motion.button>
-                )}
-              </form>
-            )}
-
-            {/* Feedback — ink color, minimal */}
-            <AnimatePresence>
-              {showFeedback && (
-                <motion.div
-                  initial={{ opacity: 0, y: 4 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  exit={{ opacity: 0 }}
-                  className={`ml-8 mt-3 text-sm font-semibold flex flex-col gap-1
-                    ${lastCorrect ? "text-emerald-600" : "text-red-500"}`}
+            {/* Floating Abgeben button */}
+            {!submitted && (
+              <motion.div
+                className="fixed left-1/2 -translate-x-1/2 bottom-8 z-40"
+                initial={{ opacity: 0, y: 16 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: 0.5 }}
+              >
+                <motion.button
+                  onClick={handleAbgeben}
+                  className="px-10 py-3 rounded-lg font-black text-sm bg-slate-800 text-white shadow-xl hover:bg-slate-700 active:scale-95 transition-all"
+                  whileHover={{ scale: 1.04 }}
+                  whileTap={{ scale: 0.96 }}
                 >
-                  <div className="flex items-center gap-1.5">
-                    {lastCorrect
-                      ? <><Check size={14} /> Richtig! 🌟</>
-                      : <>
-                          <XIcon size={14} />
-                          Richtig:&nbsp;
-                          <span className="font-bold">
-                            {Array.isArray(currentQ.answer)
-                              ? currentQ.answer[0]
-                              : currentQ.answer ?? currentQ.options?.[currentQ.correct ?? 0]}
-                          </span>
-                        </>
-                    }
-                  </div>
-                  {!lastCorrect && (() => {
-                    const hint = getSubtopicHint(currentQ.subtopic);
-                    return hint ? (
-                      <div className="text-[11px] text-slate-400 font-normal leading-relaxed mt-0.5">
-                        💡 {hint}
-                      </div>
-                    ) : null;
-                  })()}
-                </motion.div>
-              )}
-            </AnimatePresence>
-          </motion.div>
+                  Abgeben ✓
+                </motion.button>
+              </motion.div>
+            )}
           </ModernPaperTest>
         )}
 

@@ -181,7 +181,7 @@ export default function ModernPaperTest({
               }}
             >
               {/* Content with left margin offset */}
-              <div className="relative pl-14 pr-5 pt-6 pb-8 sm:pr-8 sm:pt-8 min-h-screen">
+              <div className="relative pl-14 pr-5 pb-8 sm:pr-8 min-h-screen" style={{ paddingTop: 28 }}>
                 {children}
               </div>
 
