@@ -1844,6 +1844,7 @@ const G4: Record<string, Generator> = {
   },
   writtenMul: (cc) => { const a = randInt(12, 50), b = randInt(2, 9); return q(`${a} × ${b} = ?`, a * b, t("writtenMul", cc)); },
   writtenMulB: (cc) => { const a = randInt(11, 30), b = randInt(3, 7); return q(`${a} × ${b} = ?`, a * b, t("writtenMul", cc)); },
+  divSimple: (cc) => { const b = randInt(2, 9), r = randInt(2, 10); return q(`${b * r} ÷ ${b} = ?`, r, t("writtenDiv", cc)); },
   writtenDiv: (cc) => { const b = randInt(2, 9), r = randInt(11, 50); return q(`${b * r} ÷ ${b} = ?`, r, t("writtenDiv", cc)); },
   writtenDivB: (cc) => { const b = randInt(3, 8), r = randInt(12, 40); return q(`${b * r} ÷ ${b} = ?`, r, t("writtenDiv", cc)); },
   divTwoDigit: (cc) => { const b = randInt(11, 25), r = randInt(3, 9); return q(`${b * r} ÷ ${b} = ?`, r, t("writtenDiv", cc)); },
@@ -4181,7 +4182,7 @@ const GRADES_1_4: Record<number, Record<number, PeriodTopics>> = {
   },
   4: {
     1: { current: [G4.placeValue, G4.writtenMul, G4.writtenMulB, G4.sequence, G4.geometry, G4.roundingG4], review: [G3.mul, G3.div, G3.writtenAdd] },
-    2: { current: [G4.writtenMul, G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit, G4.geometry, G4.largeNumbers], review: [G4.placeValue, G4.placeValueBig] },
+    2: { current: [G4.writtenMul, G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit, G4.geometry, G4.largeNumbers], review: [G4.placeValue, G4.sequence] },
     3: { current: [G4.fractionSimple, G4.fractionAddSimple, G4.writtenMul, G4.writtenDiv, G4.divTwoDigit, G4.geometryB, G4.writtenAddLarge], review: [G4.placeValue, G4.sequence] },
     4: { current: [G4.fractionSimple, G4.fractionAddSimple, G4.fractionSubSimple, G4.units, G4.geometryB, G4.writtenSubLarge, G4.timeWord], review: [G4.writtenMul, G4.writtenDiv] },
     5: { current: [G4.units, G4.volumeWord, G4.word1, G4.word2, G4.fractionSimple, G4.fractionAddSimple, G4.sequence, G4.geometry, G4.unitLengths, G4.circleSimple, G4.moneyWord], review: [G4.writtenMul, G4.writtenDiv, G4.divTwoDigit] },
@@ -4540,10 +4541,11 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
   ],
   4: [
     { key: 'g4_ops', name: 'Numbers & Operations', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'place1k', name: 'Numbers up to 1000', color: '#93C5FD', icon: '🔢', generators: [G4.placeValue, G3.sequence] },
+      { key: 'place1k', name: 'Numbers up to 1000', color: '#93C5FD', icon: '🔢', generators: [G4.placeValue, G4.sequence] },
       { key: 'place', name: 'Place Value (up to 10 000)', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.sequence] },
       { key: 'mul', name: 'Multiplication', color: '#34D399', icon: '✖️', generators: [G4.writtenMul, G4.writtenMulB] },
       { key: 'div', name: 'Division', color: '#10B981', icon: '➗', generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit] },
+      { key: 'div_simple', name: 'Simple Division', color: '#10B981', icon: '➗', generators: [G4.divSimple] },
     ]},
     { key: 'g4_frac', name: 'Fractions', color: '#8B5CF6', icon: '½', topics: [
       { key: 'frac', name: 'Fractions', color: '#A78BFA', icon: '½', generators: [G4.fraction, G4.fractionB] },
@@ -5143,6 +5145,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'addSub', name: 'Addition & Subtraktion (schriftlich)', color: '#34D399', icon: '➕', generators: [G4.addTo10000, G4.subTo10000, G4.addTo100000, G4.subTo100000] },
       { key: 'mul', name: 'Multiplikation (schriftlich)', color: '#22C55E', icon: '✖️', generators: [G4.writtenMul, G4.writtenMulB] },
       { key: 'div', name: 'Division (schriftlich)', color: '#10B981', icon: '➗', generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit] },
+      { key: 'div_simple', name: 'Einfache Division', color: '#10B981', icon: '➗', generators: [G4.divSimple] },
       { key: 'ueberschlagen', name: 'Überschlagen & Schätzen', color: '#059669', icon: '🎯', generators: [G4.roundingG4, G4.roundTo10000, G4.mentalAdd10000] },
     ]},
     { key: 'g4_struktur', name: 'Zahlenstruktur und Denken', color: '#8B5CF6', icon: '🧩', topics: [
@@ -5188,7 +5191,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
     ]},
     { key: 'g4_astro_aliases', name: 'AstroMath Aliases', color: '#6366F1', icon: '🚀', topics: [
       { key: 'place',       name: 'Stellenwert (bis 10 000)',        color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.sequence] },
-      { key: 'place1k',     name: 'Zahlen bis 1000',                 color: '#93C5FD', icon: '🔢', generators: [G4.placeValue, G3.sequence] },
+      { key: 'place1k',     name: 'Zahlen bis 1000',                 color: '#93C5FD', icon: '🔢', generators: [G4.placeValue, G4.sequence] },
       { key: 'frac',        name: 'Brüche',                          color: '#A78BFA', icon: '½',  generators: [G4.fraction, G4.fractionB] },
       { key: 'geo',         name: 'Geometrie',                       color: '#FBBF24', icon: '📐', generators: [G4.geometry, G4.geometryB] },
       { key: 'angles',      name: 'Winkel',                          color: '#EC4899', icon: '📐', generators: [G4.winkelTyp, G4.winkelKlasse, G4.dreieckWinkel] },
@@ -5747,10 +5750,11 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
   ],
   4: [
     { key: 'g4_ops', name: 'Számok & Műveletek', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'place1k', name: 'Számok 1000-ig', color: '#93C5FD', icon: '🔢', generators: [G4.placeValue, G3.sequence] },
+      { key: 'place1k', name: 'Számok 1000-ig', color: '#93C5FD', icon: '🔢', generators: [G4.placeValue, G4.sequence] },
       { key: 'place', name: 'Helyiérték (10 000-ig)', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.sequence] },
       { key: 'mul', name: 'Írásbeli szorzás', color: '#34D399', icon: '✖️', generators: [G4.writtenMul, G4.writtenMulB] },
       { key: 'div', name: 'Írásbeli osztás', color: '#10B981', icon: '➗', generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit] },
+      { key: 'div_simple', name: 'Egyszerű osztás', color: '#10B981', icon: '➗', generators: [G4.divSimple] },
     ]},
     { key: 'g4_frac', name: 'Törtek', color: '#8B5CF6', icon: '½', topics: [
       { key: 'frac', name: 'Törtek', color: '#A78BFA', icon: '½', generators: [G4.fraction, G4.fractionB] },
@@ -6314,10 +6318,11 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
   ],
   4: [
     { key: 'g4_ops', name: 'Numere & Operații', color: '#3B82F6', icon: '🔢', topics: [
-      { key: 'place1k', name: 'Numere până la 1000', color: '#93C5FD', icon: '🔢', generators: [G4.placeValue, G3.sequence] },
+      { key: 'place1k', name: 'Numere până la 1000', color: '#93C5FD', icon: '🔢', generators: [G4.placeValue, G4.sequence] },
       { key: 'place', name: 'Valoarea cifrelor (până la 10 000)', color: '#60A5FA', icon: '🔢', generators: [G4.placeValue, G4.placeValueBig, G4.sequence] },
       { key: 'mul', name: 'Înmulțire în scris', color: '#34D399', icon: '✖️', generators: [G4.writtenMul, G4.writtenMulB] },
       { key: 'div', name: 'Împărțire în scris', color: '#10B981', icon: '➗', generators: [G4.writtenDiv, G4.writtenDivB, G4.divTwoDigit] },
+      { key: 'div_simple', name: 'Împărțire simplă', color: '#10B981', icon: '➗', generators: [G4.divSimple] },
     ]},
     { key: 'g4_frac', name: 'Fracții', color: '#8B5CF6', icon: '½', topics: [
       { key: 'frac', name: 'Fracții', color: '#A78BFA', icon: '½', generators: [G4.fraction, G4.fractionB] },
