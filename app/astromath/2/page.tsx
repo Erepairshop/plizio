@@ -23,6 +23,8 @@ import GravitySort from "@/app/astromath/games/GravitySort";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import NumberDuel from "@/app/astromath/games/NumberDuel";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
+import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
+import RocketTransition from "@/app/astromath/RocketTransition";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -46,6 +48,8 @@ const G2_LABEL: Record<string, string> = {
 type Screen =
   | "island-map"
   | "island-intro"
+  | "island-transition"
+  | "island-complete-anim"
   | "mission-select"
   | "orbit-quiz"
   | "star-match"
@@ -410,16 +414,12 @@ export default function AstroMathG2Page() {
   // ── Island selected ──────────────────────────────────────────────────────────
   const handleIslandSelect = useCallback((island: IslandDef) => {
     if (walkTimerRef.current) clearTimeout(walkTimerRef.current);
+    setActiveIsland(island);
     setAvatarIslandId(island.id);
-    setAvatarWalking(true);
-    setAvatarMood("happy");
-    walkTimerRef.current = setTimeout(() => {
-      setAvatarWalking(false);
-      setAvatarMood("idle");
-      setActiveIsland(island);
-      setScreen("island-intro");
-    }, avatarIslandId === island.id ? 0 : 700);
-  }, [avatarIslandId]);
+    setAvatarWalking(false);
+    setAvatarMood("idle");
+    setScreen("island-transition");
+  }, []);
 
   // ── Start mission ────────────────────────────────────────────────────────────
   const startMission = useCallback((mission: MissionDef) => {
@@ -461,18 +461,22 @@ export default function AstroMathG2Page() {
   const handleAfterMission = useCallback(() => {
     if (!activeIsland) return;
     if (justUnlockedIsland) {
-      const rarity = calculateRarity(missionScore.score, missionScore.total, 0, false);
-      saveCard({ id: generateCardId(), game: "astromath", rarity, score: missionScore.score, total: missionScore.total, date: new Date().toISOString() });
-      window.dispatchEvent(new Event("plizio-cards-changed"));
-      incrementTotalGames();
-      checkNewMilestones();
-      setEarnedCard(rarity);
-      setRewardScore({ score: missionScore.score, total: missionScore.total });
-      setScreen("reward");
+      setScreen("island-complete-anim");
     } else {
       setScreen("mission-select");
     }
-  }, [activeIsland, justUnlockedIsland, missionScore]);
+  }, [activeIsland, justUnlockedIsland]);
+
+  const handleIslandAnimDone = useCallback(() => {
+    const rarity = calculateRarity(missionScore.score, missionScore.total, 0, false);
+    saveCard({ id: generateCardId(), game: "astromath", rarity, score: missionScore.score, total: missionScore.total, date: new Date().toISOString() });
+    window.dispatchEvent(new Event("plizio-cards-changed"));
+    incrementTotalGames();
+    checkNewMilestones();
+    setEarnedCard(rarity);
+    setRewardScore({ score: missionScore.score, total: missionScore.total });
+    setScreen("reward");
+  }, [missionScore]);
 
   // ── Checkpoint ───────────────────────────────────────────────────────────────
   const startCheckpoint = useCallback((testId: string) => {
@@ -739,6 +743,29 @@ export default function AstroMathG2Page() {
       </div>
       <AvatarCompanion fixed={true} mood="focused" {...avatarProps} />
       </>
+    );
+  }
+
+  // ─── ISLAND TRANSITION ───────────────────────────────────────────────────────
+  if (screen === "island-transition") {
+    return (
+      <div className="min-h-screen bg-[#060614] relative">
+        <Starfield />
+        <RocketTransition color={bgColor} onDone={() => setScreen("island-intro")} />
+      </div>
+    );
+  }
+
+  // ─── ISLAND COMPLETE ANIMATION ───────────────────────────────────────────────
+  if (screen === "island-complete-anim" && activeIsland) {
+    return (
+      <IslandCompleteAnimation
+        islandIcon={activeIsland.icon}
+        islandColor={activeIsland.color}
+        islandName={activeIsland.name[lang as Lang] ?? activeIsland.name.en}
+        lang={lang}
+        onDone={handleIslandAnimDone}
+      />
     );
   }
 
