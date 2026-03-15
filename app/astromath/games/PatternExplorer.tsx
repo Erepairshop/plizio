@@ -6,6 +6,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Translations ────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -191,7 +192,10 @@ const PatternExplorer = memo(function PatternExplorer({
                 {/* Step 0: show pattern */}
                 {step === 0 && (
                   <>
-                    <p className="text-white/60 text-xs font-bold text-center">{lbl.lookAt}</p>
+                    <div className="flex items-center justify-center gap-2">
+                      <p className="text-white/60 text-xs font-bold text-center">{lbl.lookAt}</p>
+                      <SpeakButton text={lbl.lookAt} lang={lang} size={14} />
+                    </div>
                     <div className="flex gap-2 flex-wrap justify-center">
                       {r.pattern.map((e, i) => (
                         <motion.span key={i} className="text-3xl"
@@ -280,7 +284,10 @@ const PatternExplorer = memo(function PatternExplorer({
                 {/* Step 0: show sequence */}
                 {step === 0 && (
                   <>
-                    <p className="text-white/60 text-xs font-bold text-center">{lbl.numSeq}</p>
+                    <div className="flex items-center justify-center gap-2">
+                      <p className="text-white/60 text-xs font-bold text-center">{lbl.numSeq}</p>
+                      <SpeakButton text={lbl.numSeq} lang={lang} size={14} />
+                    </div>
                     <div className="flex gap-3 justify-center">
                       {r.shown.map((n, i) => (
                         <motion.div key={i}

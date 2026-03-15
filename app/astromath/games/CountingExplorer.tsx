@@ -6,6 +6,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Translations ────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -189,7 +190,10 @@ const CountingExplorer = memo(function CountingExplorer({
             const r = round as CountRound;
             return (
               <>
-                <p className="text-white/60 text-xs font-bold text-center">{lbl.tapToCount}</p>
+                <div className="flex items-center justify-center gap-2">
+                  <p className="text-white/60 text-xs font-bold text-center">{lbl.tapToCount}</p>
+                  <SpeakButton text={lbl.tapToCount} lang={lang} size={14} />
+                </div>
                 <EmojiGrid emoji={r.emoji} count={r.count} tapped={tapped} onTap={handleTap} color={color} />
 
                 {/* Counter */}
@@ -239,7 +243,10 @@ const CountingExplorer = memo(function CountingExplorer({
             const isEqual = r.leftCount === r.rightCount;
             return (
               <>
-                <p className="text-white/60 text-xs font-bold text-center">{lbl.compare}</p>
+                <div className="flex items-center justify-center gap-2">
+                  <p className="text-white/60 text-xs font-bold text-center">{lbl.compare}</p>
+                  <SpeakButton text={lbl.compare} lang={lang} size={14} />
+                </div>
                 <div className="flex gap-4 w-full">
                   {/* Left group */}
                   <motion.button onClick={() => !revealed && setChosenSide("left")}

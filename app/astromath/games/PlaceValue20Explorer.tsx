@@ -6,6 +6,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Translations ────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -150,7 +151,10 @@ const PlaceValue20Explorer = memo(function PlaceValue20Explorer({
           {/* Step 0: Show the number */}
           {step === 0 && (
             <>
-              <p className="text-white/60 text-xs font-bold text-center">{lbl.hereIs}</p>
+              <div className="flex items-center justify-center gap-2">
+                <p className="text-white/60 text-xs font-bold text-center">{lbl.hereIs}</p>
+                <SpeakButton text={`${lbl.hereIs} ${num}`} lang={lang} size={14} />
+              </div>
               <motion.div className="text-6xl font-black" style={{ color }}
                 animate={{ scale: [1, 1.08, 1] }}
                 transition={{ duration: 0.6 }}>

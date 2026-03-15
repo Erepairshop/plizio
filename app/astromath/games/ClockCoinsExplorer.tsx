@@ -6,6 +6,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Translations ────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -210,7 +211,10 @@ const ClockCoinsExplorer = memo(function ClockCoinsExplorer({
             return (
               <>
                 <p className="text-white/50 text-xs font-medium text-center px-4">{lbl.clockIntro}</p>
-                <p className="text-white/60 text-xs font-bold text-center">{lbl.whatTime}</p>
+                <div className="flex items-center justify-center gap-2">
+                  <p className="text-white/60 text-xs font-bold text-center">{lbl.whatTime}</p>
+                  <SpeakButton text={lbl.whatTime} lang={lang} size={14} />
+                </div>
 
                 <div className="rounded-2xl p-3 flex items-center justify-center"
                   style={{ background: `${color}10`, border: `1.5px solid ${color}30` }}>
@@ -263,7 +267,10 @@ const ClockCoinsExplorer = memo(function ClockCoinsExplorer({
             return (
               <>
                 <p className="text-white/50 text-xs font-medium text-center px-4">{lbl.coinIntro}</p>
-                <p className="text-white/60 text-xs font-bold text-center">{lbl.tapEach}</p>
+                <div className="flex items-center justify-center gap-2">
+                  <p className="text-white/60 text-xs font-bold text-center">{lbl.tapEach}</p>
+                  <SpeakButton text={lbl.tapEach} lang={lang} size={14} />
+                </div>
 
                 {/* Coins grid */}
                 <div className="flex flex-wrap gap-3 justify-center">

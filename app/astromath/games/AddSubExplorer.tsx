@@ -6,6 +6,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Translations ────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -158,9 +159,12 @@ const AddSubExplorer = memo(function AddSubExplorer({
           {/* Step 0: Show initial group */}
           {step === 0 && (
             <>
-              <p className="text-white/60 text-xs font-bold text-center">
-                {isAdd ? lbl.step1add : lbl.step1sub}
-              </p>
+              <div className="flex items-center justify-center gap-2">
+                <p className="text-white/60 text-xs font-bold text-center">
+                  {isAdd ? lbl.step1add : lbl.step1sub}
+                </p>
+                <SpeakButton text={isAdd ? lbl.step1add : lbl.step1sub} lang={lang} size={14} />
+              </div>
               <div className="w-full rounded-2xl p-4 flex flex-wrap gap-2 justify-center"
                 style={{ background: `${color}10`, border: `1.5px solid ${color}30` }}>
                 {Array.from({ length: round.a }, (_, i) => (
@@ -219,9 +223,12 @@ const AddSubExplorer = memo(function AddSubExplorer({
                 </div>
               </div>
 
-              <p className="text-white/60 text-xs font-bold text-center">
-                {round.b} {round.emoji} {isAdd ? lbl.step2add : lbl.step2sub}
-              </p>
+              <div className="flex items-center justify-center gap-2">
+                <p className="text-white/60 text-xs font-bold text-center">
+                  {round.b} {round.emoji} {isAdd ? lbl.step2add : lbl.step2sub}
+                </p>
+                <SpeakButton text={`${round.b} ${isAdd ? lbl.step2add : lbl.step2sub}`} lang={lang} size={14} />
+              </div>
 
               {/* Equation preview */}
               <div className="text-center">

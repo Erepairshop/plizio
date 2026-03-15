@@ -6,6 +6,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Translations ────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -266,9 +267,12 @@ const WordProblemIntro = memo(function WordProblemIntro({
               <div className="w-full rounded-2xl p-4"
                 style={{ background: `${color}10`, border: `1.5px solid ${color}30` }}>
                 <div className="text-center text-3xl mb-3">{story.emoji}</div>
-                <p className="text-white/80 text-sm font-medium text-center leading-relaxed">
-                  {story.story[lang] ?? story.story.en}
-                </p>
+                <div className="flex items-center justify-center gap-2">
+                  <p className="text-white/80 text-sm font-medium text-center leading-relaxed">
+                    {story.story[lang] ?? story.story.en}
+                  </p>
+                  <SpeakButton text={story.story[lang] ?? story.story.en} lang={lang} size={14} />
+                </div>
               </div>
               <motion.button onClick={() => setStep(1)}
                 className="w-full py-3 rounded-2xl font-black text-white text-sm"
@@ -296,9 +300,12 @@ const WordProblemIntro = memo(function WordProblemIntro({
                 <p className="text-xs font-bold text-center mb-2" style={{ color: "#EF4444" }}>
                   {lbl.step3}
                 </p>
-                <p className="text-white/70 text-sm font-medium text-center">
-                  {story.question[lang] ?? story.question.en}
-                </p>
+                <div className="flex items-center justify-center gap-2">
+                  <p className="text-white/70 text-sm font-medium text-center">
+                    {story.question[lang] ?? story.question.en}
+                  </p>
+                  <SpeakButton text={story.question[lang] ?? story.question.en} lang={lang} size={14} />
+                </div>
               </div>
 
               <div className="text-center">

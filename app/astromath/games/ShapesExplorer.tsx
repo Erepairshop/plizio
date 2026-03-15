@@ -6,6 +6,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Translations ────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -253,9 +254,12 @@ const ShapesExplorer = memo(function ShapesExplorer({
           className="w-full flex flex-col items-center gap-3"
         >
           {/* Shape name */}
-          <p className="text-lg font-black" style={{ color: shape.color }}>
-            {lbl.thisIs} {shapeName}
-          </p>
+          <div className="flex items-center justify-center gap-2">
+            <p className="text-lg font-black" style={{ color: shape.color }}>
+              {lbl.thisIs} {shapeName}
+            </p>
+            <SpeakButton text={`${lbl.thisIs} ${shapeName}`} lang={lang} size={14} />
+          </div>
 
           {/* Shape SVG */}
           <div className="rounded-2xl p-4 flex items-center justify-center"
@@ -267,7 +271,10 @@ const ShapesExplorer = memo(function ShapesExplorer({
           {/* Circle special case */}
           {circleStep && (
             <>
-              <p className="text-white/60 text-xs font-bold text-center px-4">{lbl.special}</p>
+              <div className="flex items-center justify-center gap-2">
+                <p className="text-white/60 text-xs font-bold text-center px-4">{lbl.special}</p>
+                <SpeakButton text={lbl.special} lang={lang} size={14} />
+              </div>
               <motion.button onClick={() => setPhase("done")}
                 className="w-full py-3 rounded-2xl font-black text-white text-sm"
                 style={{ background: `${color}22`, border: `2px solid ${color}55` }}
@@ -280,7 +287,10 @@ const ShapesExplorer = memo(function ShapesExplorer({
           {/* Sides phase (non-circle) */}
           {!isCircle && phase === "sides" && (
             <>
-              <p className="text-white/60 text-xs font-bold text-center">{lbl.tapSides}</p>
+              <div className="flex items-center justify-center gap-2">
+                <p className="text-white/60 text-xs font-bold text-center">{lbl.tapSides}</p>
+                <SpeakButton text={lbl.tapSides} lang={lang} size={14} />
+              </div>
               <div className="text-center">
                 <span className="text-xl font-black" style={{ color: allSidesTapped ? "#00FF88" : color }}>
                   {tappedSides.size} / {shape.sideCount}

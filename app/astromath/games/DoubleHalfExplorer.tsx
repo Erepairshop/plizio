@@ -6,6 +6,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Translations ────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -152,9 +153,12 @@ const DoubleHalfExplorer = memo(function DoubleHalfExplorer({
           {/* Step 0: Show objects */}
           {step === 0 && (
             <>
-              <p className="text-white/60 text-xs font-bold text-center">
-                {lbl.hereAre} {round.n} {lbl.objects}
-              </p>
+              <div className="flex items-center justify-center gap-2">
+                <p className="text-white/60 text-xs font-bold text-center">
+                  {lbl.hereAre} {round.n} {lbl.objects}
+                </p>
+                <SpeakButton text={`${lbl.hereAre} ${round.n} ${lbl.objects}`} lang={lang} size={14} />
+              </div>
               <div className="w-full rounded-2xl p-4 flex flex-wrap gap-2.5 justify-center"
                 style={{ background: `${color}10`, border: `1.5px solid ${color}30` }}>
                 {Array.from({ length: round.n }, (_, i) => (
@@ -229,11 +233,14 @@ const DoubleHalfExplorer = memo(function DoubleHalfExplorer({
                 )}
               </div>
 
-              <p className="text-white/60 text-xs font-bold text-center">
-                {isDouble
-                  ? `${round.n} + ${round.n} = ?`
-                  : `${round.n} ÷ 2 = ?`}
-              </p>
+              <div className="flex items-center justify-center gap-2">
+                <p className="text-white/60 text-xs font-bold text-center">
+                  {isDouble
+                    ? `${round.n} + ${round.n} = ?`
+                    : `${round.n} ÷ 2 = ?`}
+                </p>
+                <SpeakButton text={isDouble ? `${round.n} + ${round.n} = ?` : `${round.n} ÷ 2 = ?`} lang={lang} size={14} />
+              </div>
 
               <motion.button onClick={() => setStep(2)}
                 className="w-full py-3 rounded-2xl font-black text-white text-sm"
