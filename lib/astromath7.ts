@@ -102,8 +102,8 @@ export const G7_ISLANDS: IslandDef[] = [
     icon: "📏", color: "#8B5CF6", sortRange: [1, 50],
     topicKeys: ["g7_pyth_hyp", "g7_pyth_leg", "g7_pyth_mixed", "g7_pyth_word"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "pythagoras-explorer", icon: "🔍", label: { en: "Discover Pythagoras",   hu: "Pitagorasz felfedezése",   de: "Pythagoras entdecken",      ro: "Descoperă Pitagora"      } },
-      { id: "m2", category: "build",     gameType: "equation-drill",      icon: "🧮", label: { en: "Equation Drill",        hu: "Egyenlet drill",           de: "Gleichungs-Drill",          ro: "Ecuații"                 } },
+      { id: "m1", category: "explore",   gameType: "pythagoras-explorer",   icon: "🔍", label: { en: "Discover Pythagoras",   hu: "Pitagorasz felfedezése",   de: "Pythagoras entdecken",      ro: "Descoperă Pitagora"      } },
+      { id: "m2", category: "build",     gameType: "visual-challenge",    icon: "📐", label: { en: "Pythagoras Practice",  hu: "Pitagorasz gyakorlás",     de: "Pythagoras üben",           ro: "Practică Pitagora"       }, visualType: "pythagorean" },
       { id: "m3", category: "challenge", gameType: "speed-round",         icon: "⚡", label: { en: "Speed Round",            hu: "Gyors kör",                de: "Speedrunde",                ro: "Rundă rapidă"            } },
     ],
     svgX: 100, svgY: 125,
@@ -114,9 +114,9 @@ export const G7_ISLANDS: IslandDef[] = [
     icon: "⭕", color: "#14B8A6", sortRange: [2, 30],
     topicKeys: ["g7_geo_circle", "g7_geo_circA", "g7_geo_surf"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "circle-explorer", icon: "🔍", label: { en: "Discover Circles",    hu: "Körök felfedezése",       de: "Kreise entdecken",         ro: "Descoperă cercurile"     } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",      icon: "🚀", label: { en: "Circle Quiz",         hu: "Kör kvíz",                de: "Kreisquiz",                ro: "Quiz cerc"               } },
-      { id: "m3", category: "challenge", gameType: "star-match",      icon: "⭐", label: { en: "Star Match",           hu: "Csillagpárosítás",        de: "Sternenpaare",             ro: "Perechi stele"           } },
+      { id: "m1", category: "explore",   gameType: "circle-explorer",     icon: "🔍", label: { en: "Discover Circles",    hu: "Körök felfedezése",       de: "Kreise entdecken",         ro: "Descoperă cercurile"     } },
+      { id: "m2", category: "build",     gameType: "visual-challenge",  icon: "🥫", label: { en: "Cylinder Volume",    hu: "Henger térfogat",         de: "Zylindervolumen",          ro: "Volumul cilindrului"     }, visualType: "cylinder-volume" },
+      { id: "m3", category: "challenge", gameType: "star-match",        icon: "⭐", label: { en: "Star Match",           hu: "Csillagpárosítás",        de: "Sternenpaare",             ro: "Perechi stele"           } },
     ],
     svgX: 230, svgY: 55,
   },

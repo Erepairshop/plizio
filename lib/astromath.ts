@@ -22,7 +22,8 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "power-explorer" | "equation-explorer" | "inequality-explorer"
   | "triangle-explorer" | "pythagoras-explorer" | "circle-explorer"
   | "sqrt-explorer" | "quadratic-explorer" | "system-explorer"
-  | "function-explorer" | "probability-explorer" | "transform-explorer";
+  | "function-explorer" | "probability-explorer" | "transform-explorer"
+  | "visual-challenge";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }
@@ -35,6 +36,7 @@ export interface MissionDef {
   label: L10n;
   icon: string;
   category?: MissionCategory;
+  visualType?: string;  // for "visual-challenge" gameType — which visual component to render
 }
 
 export interface IslandDef {

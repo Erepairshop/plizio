@@ -114,9 +114,9 @@ export const G6_ISLANDS: IslandDef[] = [
     icon: "📐", color: "#F59E0B", sortRange: [1, 500],
     topicKeys: ["g6_area_tri", "g6_area_para", "g6_area_trap", "g6_volume"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "area-explorer",  icon: "🔍", label: { en: "Discover Areas",     hu: "Területek felfedezése", de: "Flächen entdecken",       ro: "Descoperă ariile"      } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",     icon: "🚀", label: { en: "Geometry Quiz",      hu: "Geometria kvíz",        de: "Geometriequiz",           ro: "Quiz geometrie"        } },
-      { id: "m3", category: "challenge", gameType: "star-match",     icon: "⭐", label: { en: "Star Match",         hu: "Csillagpárosítás",      de: "Sternenpaare",            ro: "Perechi stele"         } },
+      { id: "m1", category: "explore",   gameType: "area-explorer",      icon: "🔍", label: { en: "Discover Areas",     hu: "Területek felfedezése", de: "Flächen entdecken",       ro: "Descoperă ariile"      } },
+      { id: "m2", category: "build",     gameType: "visual-challenge",   icon: "📐", label: { en: "Trapezoid Area",     hu: "Trapéz terület",        de: "Trapezfläche",            ro: "Aria trapezului"       }, visualType: "trapezoid-area" },
+      { id: "m3", category: "challenge", gameType: "star-match",         icon: "⭐", label: { en: "Star Match",         hu: "Csillagpárosítás",      de: "Sternenpaare",            ro: "Perechi stele"         } },
     ],
     svgX: 230, svgY: 55,
   },
@@ -126,8 +126,8 @@ export const G6_ISLANDS: IslandDef[] = [
     icon: "📊", color: "#14B8A6", sortRange: [1, 50],
     topicKeys: ["g6_stat_mean", "g6_stat_median", "g6_stat_mode", "g6_stat_range"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "stat-explorer",  icon: "🔍", label: { en: "Discover Statistics", hu: "Statisztika felfedezése", de: "Statistik entdecken",     ro: "Descoperă statistica"  } },
-      { id: "m2", category: "build",     gameType: "orbit-quiz",        icon: "🚀", label: { en: "Stats Quiz",          hu: "Statisztika kvíz",        de: "Statistikquiz",           ro: "Quiz statistică"       } },
+      { id: "m1", category: "explore",   gameType: "stat-explorer",     icon: "🔍", label: { en: "Discover Statistics", hu: "Statisztika felfedezése", de: "Statistik entdecken",     ro: "Descoperă statistica"  } },
+      { id: "m2", category: "build",     gameType: "visual-challenge",  icon: "🥧", label: { en: "Pie Charts",          hu: "Kördiagramok",            de: "Kreisdiagramme",          ro: "Diagrame circulare"    }, visualType: "pie-chart" },
       { id: "m3", category: "challenge", gameType: "true-false-blitz",  icon: "🎯", label: { en: "True or False?",      hu: "Igaz vagy Hamis?",        de: "Wahr oder Falsch?",       ro: "Adevărat sau Fals?"    } },
     ],
     svgX: 80, svgY: -20,

@@ -38,6 +38,9 @@ import SystemExplorer from "@/app/astromath/games/SystemExplorer";
 import FunctionExplorer from "@/app/astromath/games/FunctionExplorer";
 import ProbabilityExplorer from "@/app/astromath/games/ProbabilityExplorer";
 import TransformExplorer from "@/app/astromath/games/TransformExplorer";
+import VisualChallenge from "@/app/astromath/games/VisualChallenge";
+import CylinderSurface from "@/components/grade8-visual/CylinderSurface";
+import TransformationGrid from "@/components/grade8-visual/TransformationGrid";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -119,6 +122,7 @@ type Screen =
   | "function-explorer"
   | "probability-explorer"
   | "transform-explorer"
+  | "visual-challenge"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -497,6 +501,7 @@ export default function AstroMathG8Page() {
       "sqrt-explorer", "quadratic-explorer", "system-explorer",
       "function-explorer", "probability-explorer", "transform-explorer",
       "equation-explorer",
+      "visual-challenge",
     ];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
@@ -851,6 +856,14 @@ export default function AstroMathG8Page() {
         {screen === "transform-explorer" && (
           <TransformExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "visual-challenge" && activeMission?.visualType === "cylinder-surface" && (
+          <VisualChallenge color={bgColor} rounds={5} onDone={handleMissionDone}
+            renderVisual={(l, onAns) => <CylinderSurface lang={l as "hu"|"de"|"en"|"ro"} onAnswer={onAns} />} />
+        )}
+        {screen === "visual-challenge" && activeMission?.visualType === "transformation" && (
+          <VisualChallenge color={bgColor} rounds={5} onDone={handleMissionDone}
+            renderVisual={(l, onAns) => <TransformationGrid lang={l as "hu"|"de"|"en"|"ro"} onAnswer={onAns} />} />
+        )}
       </div>
     </div>
   );
@@ -861,6 +874,7 @@ export default function AstroMathG8Page() {
     "algebra-explorer", "stat-explorer", "true-false-blitz",
     "equation-explorer", "sqrt-explorer", "quadratic-explorer",
     "system-explorer", "function-explorer", "probability-explorer", "transform-explorer",
+    "visual-challenge",
   ];
 
   if (ALL_GAME_SCREENS.includes(screen)) return (

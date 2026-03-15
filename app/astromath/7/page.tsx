@@ -37,6 +37,9 @@ import InequalityExplorer from "@/app/astromath/games/InequalityExplorer";
 import TriangleExplorer from "@/app/astromath/games/TriangleExplorer";
 import PythagorasExplorer from "@/app/astromath/games/PythagorasExplorer";
 import CircleExplorer from "@/app/astromath/games/CircleExplorer";
+import VisualChallenge from "@/app/astromath/games/VisualChallenge";
+import PythagoreanVisual from "@/components/grade7-visual/PythagoreanVisual";
+import CylinderVolume from "@/components/grade7-visual/CylinderVolume";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -117,6 +120,7 @@ type Screen =
   | "triangle-explorer"
   | "pythagoras-explorer"
   | "circle-explorer"
+  | "visual-challenge"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -494,6 +498,7 @@ export default function AstroMathG7Page() {
       "algebra-explorer", "stat-explorer", "true-false-blitz",
       "power-explorer", "equation-explorer", "inequality-explorer",
       "triangle-explorer", "pythagoras-explorer", "circle-explorer",
+      "visual-challenge",
     ];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
@@ -845,6 +850,14 @@ export default function AstroMathG7Page() {
         {screen === "circle-explorer" && (
           <CircleExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "visual-challenge" && activeMission?.visualType === "pythagorean" && (
+          <VisualChallenge color={bgColor} rounds={5} onDone={handleMissionDone}
+            renderVisual={(l, onAns) => <PythagoreanVisual lang={l as "hu"|"de"|"en"|"ro"} onAnswer={onAns} />} />
+        )}
+        {screen === "visual-challenge" && activeMission?.visualType === "cylinder-volume" && (
+          <VisualChallenge color={bgColor} rounds={5} onDone={handleMissionDone}
+            renderVisual={(l, onAns) => <CylinderVolume lang={l as "hu"|"de"|"en"|"ro"} onAnswer={onAns} />} />
+        )}
       </div>
     </div>
   );
@@ -855,6 +868,7 @@ export default function AstroMathG7Page() {
     "algebra-explorer", "stat-explorer", "true-false-blitz",
     "power-explorer", "equation-explorer", "inequality-explorer",
     "triangle-explorer", "pythagoras-explorer", "circle-explorer",
+    "visual-challenge",
   ];
 
   if (ALL_GAME_SCREENS.includes(screen)) return (

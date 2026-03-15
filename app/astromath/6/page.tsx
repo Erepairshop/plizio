@@ -37,6 +37,9 @@ import PercentBar from "@/app/astromath/games/PercentBar";
 import RatioExplorer from "@/app/astromath/games/RatioExplorer";
 import AlgebraExplorer from "@/app/astromath/games/AlgebraExplorer";
 import StatExplorer from "@/app/astromath/games/StatExplorer";
+import VisualChallenge from "@/app/astromath/games/VisualChallenge";
+import TrapezoidAreaCalc from "@/components/grade6-visual/TrapezoidAreaCalc";
+import PieChartRead from "@/components/grade6-visual/PieChartRead";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -116,6 +119,7 @@ type Screen =
   | "ratio-explorer"
   | "algebra-explorer"
   | "stat-explorer"
+  | "visual-challenge"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -488,7 +492,7 @@ export default function AstroMathG6Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const noQuestionsTypes: string[] = ["number-duel", "gravity-sort", "fraction-visual", "concept-explorer", "word-problem-explorer", "area-explorer", "true-false-blitz", "negative-number-line", "percent-bar", "ratio-explorer", "algebra-explorer", "stat-explorer"];
+    const noQuestionsTypes: string[] = ["number-duel", "gravity-sort", "fraction-visual", "concept-explorer", "word-problem-explorer", "area-explorer", "true-false-blitz", "negative-number-line", "percent-bar", "ratio-explorer", "algebra-explorer", "stat-explorer", "visual-challenge"];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -839,11 +843,19 @@ export default function AstroMathG6Page() {
         {screen === "stat-explorer" && (
           <StatExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "visual-challenge" && activeMission?.visualType === "trapezoid-area" && (
+          <VisualChallenge color={bgColor} rounds={5} onDone={handleMissionDone}
+            renderVisual={(l, onAns) => <TrapezoidAreaCalc language={l as "hu"|"de"|"en"|"ro"} onAnswer={(ok) => onAns(ok)} />} />
+        )}
+        {screen === "visual-challenge" && activeMission?.visualType === "pie-chart" && (
+          <VisualChallenge color={bgColor} rounds={5} onDone={handleMissionDone}
+            renderVisual={(l, onAns) => <PieChartRead language={l as "hu"|"de"|"en"|"ro"} onAnswer={(ok) => onAns(ok)} />} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "concept-explorer", "word-problem-explorer", "area-explorer", "true-false-blitz", "negative-number-line", "percent-bar", "ratio-explorer", "algebra-explorer", "stat-explorer"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "concept-explorer", "word-problem-explorer", "area-explorer", "true-false-blitz", "negative-number-line", "percent-bar", "ratio-explorer", "algebra-explorer", "stat-explorer", "visual-challenge"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
