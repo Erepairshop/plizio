@@ -26,6 +26,13 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import G2TeachingSlide from "@/app/astromath/games/G2TeachingSlide";
+import PlaceValue100Explorer from "@/app/astromath/games/PlaceValue100Explorer";
+import MentalMathExplorer from "@/app/astromath/games/MentalMathExplorer";
+import ColumnAddSubExplorer from "@/app/astromath/games/ColumnAddSubExplorer";
+import CarryBorrowExplorer from "@/app/astromath/games/CarryBorrowExplorer";
+import MultiplicationExplorer from "@/app/astromath/games/MultiplicationExplorer";
+import DivisionIntroExplorer from "@/app/astromath/games/DivisionIntroExplorer";
+import G2MeasurementExplorer from "@/app/astromath/games/G2MeasurementExplorer";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -96,6 +103,13 @@ type Screen =
   | "black-hole"
   | "number-duel"
   | "g2-teaching"
+  | "place-value-100"
+  | "mental-math-explorer"
+  | "column-addsub"
+  | "carry-borrow"
+  | "multiplication-explorer"
+  | "division-intro"
+  | "g2-measurement"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -466,12 +480,12 @@ export default function AstroMathG2Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    if (mission.gameType === "g2-teaching") {
-      setQuestions([]);
-      setScreen("g2-teaching");
-      return;
-    }
-    if (mission.gameType === "number-duel" || mission.gameType === "gravity-sort") {
+    const noQuestionsTypes: string[] = [
+      "g2-teaching", "number-duel", "gravity-sort",
+      "place-value-100", "mental-math-explorer", "column-addsub",
+      "carry-borrow", "multiplication-explorer", "division-intro", "g2-measurement",
+    ];
+    if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
       return;
@@ -807,6 +821,45 @@ export default function AstroMathG2Page() {
       />
     );
   }
+
+  // ─── NEW G2 EXPLORERS ────────────────────────────────────────────────────────
+  if (screen === "place-value-100") return (
+    <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center px-4 py-8">
+      <PlaceValue100Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+    </div>
+  );
+  if (screen === "mental-math-explorer") return (
+    <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center px-4 py-8">
+      <MentalMathExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+    </div>
+  );
+  if (screen === "column-addsub" && activeIsland) return (
+    <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center px-4 py-8">
+      <ColumnAddSubExplorer color={bgColor} lang={lang} onDone={handleMissionDone}
+        mode={activeIsland.id === "i4" ? "sub" : "add"} />
+    </div>
+  );
+  if (screen === "carry-borrow" && activeIsland) return (
+    <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center px-4 py-8">
+      <CarryBorrowExplorer color={bgColor} lang={lang} onDone={handleMissionDone}
+        mode={activeIsland.id === "i6" ? "borrow" : "carry"} />
+    </div>
+  );
+  if (screen === "multiplication-explorer") return (
+    <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center px-4 py-8">
+      <MultiplicationExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+    </div>
+  );
+  if (screen === "division-intro") return (
+    <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center px-4 py-8">
+      <DivisionIntroExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+    </div>
+  );
+  if (screen === "g2-measurement") return (
+    <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center px-4 py-8">
+      <G2MeasurementExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+    </div>
+  );
 
   if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel"].includes(screen)) return (
     <>

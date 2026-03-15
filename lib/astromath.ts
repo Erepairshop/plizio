@@ -15,7 +15,10 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "ratio-explorer" | "algebra-explorer" | "stat-explorer"
   | "counting-explorer" | "addsub-explorer" | "double-half-explorer"
   | "place-value-20" | "word-problem-intro" | "shapes-explorer"
-  | "clock-coins-explorer" | "pattern-explorer";
+  | "clock-coins-explorer" | "pattern-explorer"
+  | "place-value-100" | "mental-math-explorer" | "column-addsub"
+  | "carry-borrow" | "multiplication-explorer" | "division-intro"
+  | "g2-measurement";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }
