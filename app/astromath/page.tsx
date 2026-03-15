@@ -6,6 +6,7 @@ import { useLang } from "@/components/LanguageProvider";
 import { useState, useEffect } from "react";
 import { loadG1Progress } from "@/lib/astromath";
 import { loadG2Progress } from "@/lib/astromath2";
+import { loadG3Progress } from "@/lib/astromath3";
 import { loadG4Progress } from "@/lib/astromath4";
 import {
   GRADE_PLANETS, PLANET_NAMES,
@@ -36,7 +37,7 @@ function Starfield() {
 const GRADES = [
   { grade: 1, Planet: PlanetTerra,    color: "#4ECDC4", glow: "rgba(78,205,196,0.5)",  route: "/astromath/1", available: true  },
   { grade: 2, Planet: PlanetAquaria,  color: "#00D4FF", glow: "rgba(0,212,255,0.4)",   route: "/astromath/2", available: true  },
-  { grade: 3, Planet: PlanetIgnos,    color: "#FF6B6B", glow: "rgba(255,107,107,0.4)", route: null,           available: false },
+  { grade: 3, Planet: PlanetIgnos,    color: "#FF6B6B", glow: "rgba(255,107,107,0.4)", route: "/astromath/3", available: true  },
   { grade: 4, Planet: PlanetAureon,   color: "#FFD700", glow: "rgba(255,215,0,0.4)",   route: "/astromath/4", available: true  },
   { grade: 5, Planet: PlanetVioletis, color: "#B44DFF", glow: "rgba(180,77,255,0.4)",  route: null,           available: false },
   { grade: 6, Planet: PlanetSaturnia, color: "#FF9500", glow: "rgba(255,149,0,0.4)",   route: null,           available: false },
@@ -58,14 +59,17 @@ export default function AstroMathGalaxyPage() {
   const planetNames = PLANET_NAMES[lang] ?? PLANET_NAMES.en;
   const [g1Done, setG1Done] = useState(0);
   const [g2Done, setG2Done] = useState(0);
+  const [g3Done, setG3Done] = useState(0);
   const [g4Done, setG4Done] = useState(0);
 
   useEffect(() => {
     const p1 = loadG1Progress();
     const p2 = loadG2Progress();
+    const p3 = loadG3Progress();
     const p4 = loadG4Progress();
     setG1Done(p1.completedIslands.length);
     setG2Done(p2.completedIslands.length);
+    setG3Done(p3.completedIslands.length);
     setG4Done(p4.completedIslands.length);
   }, []);
 
@@ -88,7 +92,7 @@ export default function AstroMathGalaxyPage() {
       <div className="relative z-10 flex-1 px-4 pb-6 mt-2">
         <div className="grid grid-cols-2 gap-3 max-w-sm mx-auto">
           {GRADES.map((g) => {
-            const progress = g.grade === 1 ? g1Done : g.grade === 2 ? g2Done : g.grade === 4 ? g4Done : 0;
+            const progress = g.grade === 1 ? g1Done : g.grade === 2 ? g2Done : g.grade === 3 ? g3Done : g.grade === 4 ? g4Done : 0;
             const total = 9;
             const planetName = planetNames[g.grade - 1] ?? "";
             return (
