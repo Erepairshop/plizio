@@ -91,7 +91,7 @@ const SpeedRound = memo(function SpeedRound({ questions, color, onDone, onCorrec
     }
     const id = setTimeout(() => setTimeLeft(t => Math.max(0, t - 0.1)), 100);
     return () => clearTimeout(id);
-  }, [timeLeft, selected, flash, advance, onWrong]);
+  }, [timeLeft, selected, flash, advance, onWrong, readLock]);
 
   if (!q) return null;
 
