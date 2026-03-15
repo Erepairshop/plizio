@@ -28,6 +28,7 @@ import {
 import { getRandomPassage, type Lesepassage, type LeseQuestion } from "@/lib/deutschLesetest";
 import { generateForSubtopics } from "@/lib/deutschGenerators";
 import { checkAnswer } from "@/lib/deutschValidation";
+import { playCorrect, playIncorrect, playClick } from "@/lib/soundEffects";
 
 // ─── DEUTSCH FLOATING BACKGROUND ─────────────────────────────────────────────
 
@@ -249,9 +250,12 @@ export default function DeutschTestPage() {
       return { correct: isCorrect, given, expected };
     });
 
+    const correctCount = allAnswers.filter((a) => a.correct).length;
+    if (correctCount / questions.length >= 0.5) playCorrect(); else playIncorrect();
+
     setAnswers(allAnswers);
     setSubmitted(true);
-    setAvatarMood(allAnswers.filter((a) => a.correct).length / questions.length >= 0.5 ? "victory" : "disappointed");
+    setAvatarMood(correctCount / questions.length >= 0.5 ? "victory" : "disappointed");
 
     setTimeout(() => finishTest(allAnswers), 2500);
   }
@@ -793,7 +797,7 @@ export default function DeutschTestPage() {
                           return (
                             <button
                               key={oi}
-                              onClick={() => !submitted && setPaperAnswers((prev) => ({ ...prev, [qi]: String(oi) }))}
+                              onClick={() => { if (!submitted) { playClick(); setPaperAnswers((prev) => ({ ...prev, [qi]: String(oi) })); } }}
                               disabled={submitted}
                               style={{ height: 28, lineHeight: '28px' }}
                               className={`w-full text-left flex items-center gap-1.5 px-1 text-sm transition-colors ${rowCls}`}
@@ -810,6 +814,10 @@ export default function DeutschTestPage() {
 
                     {/* Bild-Wort: show word → 4 image tiles to click */}
                     {q.type === "bild-wort" && q.options && (
+                      <>
+                      <div className="ml-7 flex items-center" style={{ height: 28 }}>
+                        <span className="text-xs text-slate-400 italic">🖼 Klicke auf das richtige Bild:</span>
+                      </div>
                       <div className="ml-7 py-1" style={{ height: 84 }}>
                         <div className="flex gap-2 h-full">
                           {q.options.map((imgKey, oi) => {
@@ -827,7 +835,7 @@ export default function DeutschTestPage() {
                             return (
                               <button
                                 key={oi}
-                                onClick={() => !submitted && setPaperAnswers((prev) => ({ ...prev, [qi]: String(oi) }))}
+                                onClick={() => { if (!submitted) { playClick(); setPaperAnswers((prev) => ({ ...prev, [qi]: String(oi) })); } }}
                                 disabled={submitted}
                                 className={`flex-1 rounded-lg border-2 flex flex-col items-center justify-center transition-all ${border}`}
                                 style={{ height: 76 }}
@@ -845,12 +853,17 @@ export default function DeutschTestPage() {
                           })}
                         </div>
                       </div>
+                      </>
                     )}
 
                     {/* Anlaut-Bild: show image → 4 letter buttons */}
                     {q.type === "anlaut-bild" && q.options && (() => {
                       const Icon = G1_ICONS[q.question];
                       return (
+                        <>
+                        <div className="ml-7 flex items-center" style={{ height: 28 }}>
+                          <span className="text-xs text-slate-400 italic">🔤 Mit welchem Buchstaben beginnt das Wort?</span>
+                        </div>
                         <div className="ml-7" style={{ height: 84 }}>
                           <div className="flex items-center gap-3 h-full">
                             {/* Image */}
@@ -877,7 +890,7 @@ export default function DeutschTestPage() {
                                 return (
                                   <button
                                     key={oi}
-                                    onClick={() => !submitted && setPaperAnswers((prev) => ({ ...prev, [qi]: String(oi) }))}
+                                    onClick={() => { if (!submitted) { playClick(); setPaperAnswers((prev) => ({ ...prev, [qi]: String(oi) })); } }}
                                     disabled={submitted}
                                     className={`flex-1 rounded-xl border-2 text-xl font-black transition-all ${cls}`}
                                     style={{ height: 56 }}
@@ -889,6 +902,7 @@ export default function DeutschTestPage() {
                             </div>
                           </div>
                         </div>
+                        </>
                       );
                     })()}
 
