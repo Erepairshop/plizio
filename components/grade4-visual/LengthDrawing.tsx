@@ -83,6 +83,7 @@ const LengthDrawing: React.FC<LengthDrawingProps> = ({
   const [startCm, setStartCm] = useState<number | null>(null);
   const [endCm, setEndCm] = useState<number | null>(null);
   const [dragging, setDragging] = useState(false);
+  const [locked, setLocked] = useState(false);
   const [feedback, setFeedback] = useState<'correct' | 'incorrect' | null>(null);
   const [submitted, setSubmitted] = useState(false);
 
@@ -117,7 +118,7 @@ const LengthDrawing: React.FC<LengthDrawingProps> = ({
 
   // ─── Rajzolás interakció ───
   const handleStart = (e: React.MouseEvent | React.TouchEvent) => {
-    if (submitted) return;
+    if (submitted || locked) return;
     const cm = pointerToCm(e);
     playClick();
     setStartCm(cm);
@@ -135,7 +136,10 @@ const LengthDrawing: React.FC<LengthDrawingProps> = ({
     if (!dragging || submitted) return;
     setDragging(false);
 
-    if (embedded) return;
+    if (embedded) {
+      if (drawnLength !== null && drawnLength > 0.2) setLocked(true);
+      return;
+    }
     if (drawnLength !== null && drawnLength > 0.2) {
       const isCorrect = Math.abs(drawnLength - targetLength) <= tolerance;
       setFeedback(isCorrect ? 'correct' : 'incorrect');
@@ -151,6 +155,7 @@ const LengthDrawing: React.FC<LengthDrawingProps> = ({
     setEndCm(null);
     setFeedback(null);
     setSubmitted(false);
+    setLocked(false);
   };
 
   // Rajzolt vonal koordináták
@@ -197,7 +202,6 @@ const LengthDrawing: React.FC<LengthDrawingProps> = ({
           onMouseDown={handleStart}
           onMouseMove={handleMove}
           onMouseUp={handleEnd}
-          onMouseLeave={handleEnd}
           onTouchStart={handleStart}
           onTouchMove={handleMove}
           onTouchEnd={handleEnd}
@@ -293,6 +297,19 @@ const LengthDrawing: React.FC<LengthDrawingProps> = ({
           )}
         </svg>
       </div>
+
+      {/* Embedded reset gomb */}
+      {embedded && locked && (
+        <div className="flex justify-center pb-3">
+          <button
+            onClick={handleReset}
+            className="flex items-center gap-1 text-xs text-slate-400 hover:text-cyan-600 transition-colors px-3 py-1 rounded-lg hover:bg-cyan-50"
+          >
+            <RotateCcw size={12} />
+            {t.tryAgain}
+          </button>
+        </div>
+      )}
 
       {/* Feedback + Gombok */}
       {!embedded && (
