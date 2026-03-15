@@ -30,6 +30,9 @@ import ConceptExplorer from "@/app/astromath/games/ConceptExplorer";
 import PlaceValueExplorer from "@/app/astromath/games/PlaceValueExplorer";
 import DivisionExplorer from "@/app/astromath/games/DivisionExplorer";
 import AreaExplorer from "@/app/astromath/games/AreaExplorer";
+import WordProblemExplorer from "@/app/astromath/games/WordProblemExplorer";
+import UnitExplorer from "@/app/astromath/games/UnitExplorer";
+import AngleExplorer from "@/app/astromath/games/AngleExplorer";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -818,6 +821,15 @@ export default function AstroMathG4Page() {
         )}
         {screen === "area-explorer" && (
           <AreaExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "word-problem-explorer" && (
+          <WordProblemExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "unit-explorer" && (
+          <UnitExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "angle-explorer" && (
+          <AngleExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
       </div>
     </div>
