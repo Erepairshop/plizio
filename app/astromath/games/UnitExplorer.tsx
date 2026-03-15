@@ -1,6 +1,7 @@
 "use client";
-// UnitExplorer — Unit conversion discovery for Grade 4
-// Teaches: 3 km = 3 × 1000 m = 3000 m
+// UnitExplorer — Unit conversion discovery for Grade 3–4
+// G3: smaller n (max 3), simpler conversions (m→cm, h→min)
+// G4: 3 km = 3 × 1000 m = 3000 m
 // Students tap each unit segment to reveal its equivalent.
 
 import { memo, useState, useCallback } from "react";
@@ -59,7 +60,8 @@ interface Round {
 // All conversions in all 4 languages
 type LangRound = Record<string, Round[]>;
 
-const ROUND_POOL: LangRound = {
+// G4 pool: larger n, km→m, kg→g (1000× multiplier)
+const ROUND_POOL_G4: LangRound = {
   de: [
     { n: 2, from: "km",  to: "m",   mult: 1000, ruleLabel: "1 km = 1000 m"  },
     { n: 3, from: "m",   to: "cm",  mult: 100,  ruleLabel: "1 m = 100 cm"   },
@@ -102,8 +104,53 @@ const ROUND_POOL: LangRound = {
   ],
 };
 
-function generateRounds(lang: string): Round[] {
-  const pool = [...(ROUND_POOL[lang] ?? ROUND_POOL.en)];
+// G3 pool: smaller n (max 3), simpler conversions, results ≤ 300
+const ROUND_POOL_G3: LangRound = {
+  de: [
+    { n: 2, from: "m",   to: "cm",  mult: 100,  ruleLabel: "1 m = 100 cm"   },
+    { n: 3, from: "m",   to: "cm",  mult: 100,  ruleLabel: "1 m = 100 cm"   },
+    { n: 2, from: "h",   to: "min", mult: 60,   ruleLabel: "1 h = 60 min"   },
+    { n: 3, from: "h",   to: "min", mult: 60,   ruleLabel: "1 h = 60 min"   },
+    { n: 2, from: "cm",  to: "mm",  mult: 10,   ruleLabel: "1 cm = 10 mm"   },
+    { n: 3, from: "cm",  to: "mm",  mult: 10,   ruleLabel: "1 cm = 10 mm"   },
+    { n: 1, from: "km",  to: "m",   mult: 1000, ruleLabel: "1 km = 1000 m"  },
+    { n: 1, from: "kg",  to: "g",   mult: 1000, ruleLabel: "1 kg = 1000 g"  },
+  ],
+  en: [
+    { n: 2, from: "m",   to: "cm",  mult: 100,  ruleLabel: "1 m = 100 cm"   },
+    { n: 3, from: "m",   to: "cm",  mult: 100,  ruleLabel: "1 m = 100 cm"   },
+    { n: 2, from: "h",   to: "min", mult: 60,   ruleLabel: "1 h = 60 min"   },
+    { n: 3, from: "h",   to: "min", mult: 60,   ruleLabel: "1 h = 60 min"   },
+    { n: 2, from: "cm",  to: "mm",  mult: 10,   ruleLabel: "1 cm = 10 mm"   },
+    { n: 3, from: "cm",  to: "mm",  mult: 10,   ruleLabel: "1 cm = 10 mm"   },
+    { n: 1, from: "km",  to: "m",   mult: 1000, ruleLabel: "1 km = 1000 m"  },
+    { n: 1, from: "kg",  to: "g",   mult: 1000, ruleLabel: "1 kg = 1000 g"  },
+  ],
+  hu: [
+    { n: 2, from: "m",   to: "cm",  mult: 100,  ruleLabel: "1 m = 100 cm"   },
+    { n: 3, from: "m",   to: "cm",  mult: 100,  ruleLabel: "1 m = 100 cm"   },
+    { n: 2, from: "h",   to: "perc", mult: 60,  ruleLabel: "1 óra = 60 perc"},
+    { n: 3, from: "h",   to: "perc", mult: 60,  ruleLabel: "1 óra = 60 perc"},
+    { n: 2, from: "cm",  to: "mm",  mult: 10,   ruleLabel: "1 cm = 10 mm"   },
+    { n: 3, from: "cm",  to: "mm",  mult: 10,   ruleLabel: "1 cm = 10 mm"   },
+    { n: 1, from: "km",  to: "m",   mult: 1000, ruleLabel: "1 km = 1000 m"  },
+    { n: 1, from: "kg",  to: "g",   mult: 1000, ruleLabel: "1 kg = 1000 g"  },
+  ],
+  ro: [
+    { n: 2, from: "m",   to: "cm",  mult: 100,  ruleLabel: "1 m = 100 cm"   },
+    { n: 3, from: "m",   to: "cm",  mult: 100,  ruleLabel: "1 m = 100 cm"   },
+    { n: 2, from: "h",   to: "min", mult: 60,   ruleLabel: "1 h = 60 min"   },
+    { n: 3, from: "h",   to: "min", mult: 60,   ruleLabel: "1 h = 60 min"   },
+    { n: 2, from: "cm",  to: "mm",  mult: 10,   ruleLabel: "1 cm = 10 mm"   },
+    { n: 3, from: "cm",  to: "mm",  mult: 10,   ruleLabel: "1 cm = 10 mm"   },
+    { n: 1, from: "km",  to: "m",   mult: 1000, ruleLabel: "1 km = 1000 m"  },
+    { n: 1, from: "kg",  to: "g",   mult: 1000, ruleLabel: "1 kg = 1000 g"  },
+  ],
+};
+
+function generateRounds(lang: string, grade: number): Round[] {
+  const pools = grade <= 3 ? ROUND_POOL_G3 : ROUND_POOL_G4;
+  const pool = [...(pools[lang] ?? pools.en)];
   for (let i = pool.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [pool[i], pool[j]] = [pool[j], pool[i]];
@@ -113,14 +160,15 @@ function generateRounds(lang: string): Round[] {
 
 // ─── Main Component ───────────────────────────────────────────────────────────
 const UnitExplorer = memo(function UnitExplorer({
-  color, onDone, lang = "en",
+  color, onDone, lang = "en", grade = 4,
 }: {
   color: string;
   onDone: (score: number, total: number) => void;
   lang?: string;
+  grade?: number;
 }) {
   const lbl = LABELS[lang] ?? LABELS.en;
-  const [rounds] = useState<Round[]>(() => generateRounds(lang));
+  const [rounds] = useState<Round[]>(() => generateRounds(lang, grade));
   const [idx, setIdx] = useState(0);
   const [tappedCount, setTappedCount] = useState(0);
   const [completed, setCompleted] = useState(0);

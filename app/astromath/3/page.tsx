@@ -805,7 +805,7 @@ export default function AstroMathG3Page() {
           <ConceptExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "place-value-explorer" && (
-          <PlaceValueExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <PlaceValueExplorer color={bgColor} lang={lang} grade={3} onDone={handleMissionDone} />
         )}
         {screen === "division-explorer" && (
           <DivisionExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
@@ -814,10 +814,10 @@ export default function AstroMathG3Page() {
           <AreaExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
         {screen === "word-problem-explorer" && (
-          <WordProblemExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <WordProblemExplorer color={bgColor} lang={lang} grade={3} onDone={handleMissionDone} />
         )}
         {screen === "unit-explorer" && (
-          <UnitExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+          <UnitExplorer color={bgColor} lang={lang} grade={3} onDone={handleMissionDone} />
         )}
         {screen === "true-false-blitz" && activeIsland && (
           <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor} lang={lang} onDone={handleMissionDone} />
