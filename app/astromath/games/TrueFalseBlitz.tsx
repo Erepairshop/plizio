@@ -128,9 +128,9 @@ function g1SubTF(max: number): TFQuestion {
   };
 }
 
-function g1CompareTF(): TFQuestion {
-  const a = rand(1, 20), b = rand(1, 20);
-  if (a === b) return g1CompareTF();
+function g1CompareTF(max: number): TFQuestion {
+  const a = rand(1, max), b = rand(1, max);
+  if (a === b) return g1CompareTF(max);
   const showOp = Math.random() > 0.5 ? ">" : "<";
   const isTrue = showOp === ">" ? a > b : a < b;
   const actualOp = a > b ? ">" : "<";
@@ -154,15 +154,23 @@ function g1VerdoppelnTF(): TFQuestion {
 }
 
 function generateQuestions(topicKeys: string[], lang: string): TFQuestion[] {
-  // G1 detection
-  const isG1 = topicKeys.some(k =>
-    ["add10", "add20", "sub10", "sub20", "g1_tausch", "g1_zahlzerlegung",
-     "g1_ergaenzen", "g1_verdoppeln", "g1_halbieren", "g1_count", "g1_compare",
-     "g1_pos", "word", "g1_data", "g1_sequence"].includes(k)
-  );
+  // G1 detection — all G1 island topic keys
+  const ALL_G1_KEYS = [
+    "add10", "add20", "sub10", "sub20",
+    "g1_tausch", "g1_zahlzerlegung", "g1_ergaenzen", "g1_verdoppeln", "g1_halbieren",
+    "g1_count", "g1_compare", "g1_pos", "g1_visual", "g1_fraction",
+    "g1_num1120", "g1_place_value20", "g1_sequence", "g1_data",
+    "g1_shapes", "g1_spatial", "g1_pattern",
+    "g1_clock", "g1_coins", "g1_weight", "g1_volume", "g1_laenger", "g1_wochentage",
+    "word",
+  ];
+  const isG1 = topicKeys.some(k => ALL_G1_KEYS.includes(k));
 
   if (isG1) {
-    const max = topicKeys.some(k => k.includes("20") || k === "g1_sequence" || k === "g1_data") ? 20 : 10;
+    const max = topicKeys.some(k =>
+      k.includes("20") || k === "g1_sequence" || k === "g1_data" ||
+      k === "g1_num1120" || k === "g1_place_value20"
+    ) ? 20 : 10;
     const hasVerd    = topicKeys.some(k => ["g1_verdoppeln", "g1_halbieren"].includes(k));
     const hasCompare = topicKeys.some(k => ["g1_compare", "g1_count", "g1_pos"].includes(k));
     const hasSub     = topicKeys.some(k => ["sub10", "sub20", "g1_ergaenzen"].includes(k));
@@ -170,9 +178,9 @@ function generateQuestions(topicKeys: string[], lang: string): TFQuestion[] {
     const gens: (() => TFQuestion)[] = [() => g1AddTF(max)];
     if (hasSub)     gens.push(() => g1SubTF(max));
     if (hasVerd)    gens.push(() => g1VerdoppelnTF());
-    if (hasCompare) gens.push(() => g1CompareTF());
-    // Always mix in compare for variety
-    if (!hasCompare) gens.push(() => g1CompareTF());
+    // compare uses the island's max so numbers stay in range
+    gens.push(() => g1CompareTF(max));
+    if (!hasSub && !hasVerd) gens.push(() => g1SubTF(max)); // ensure variety for pure-compare islands
 
     return Array.from({ length: 12 }, () => gens[rand(0, gens.length - 1)]());
   }
