@@ -80,7 +80,7 @@ export const G2_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "g2-teaching", icon: "🔍", label: { en: "Discover Subtraction", hu: "Kivonás felfedezése",    de: "Subtraktion entdecken", ro: "Descoperă scăderea"   } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",  icon: "🚀", label: { en: "Subtraction Quiz",    hu: "Kivonás kvíz",           de: "Subtraktionsquiz",      ro: "Quiz scădere"         } },
-      { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",           hu: "Fekete lyuk",            de: "Schwarzes Loch",        ro: "Gaura neagră"         } },
+      { id: "m3", category: "challenge", gameType: "gravity-sort", icon: "🌪️", label: { en: "Sort Numbers",          hu: "Számrendezés",           de: "Zahlen sortieren",      ro: "Sortează numerele"    } },
     ],
     svgX: 90, svgY: 270,
   },
@@ -116,7 +116,7 @@ export const G2_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "g2-teaching", icon: "🔍", label: { en: "Discover Multiplication", hu: "Szorzás felfedezése",  de: "Einmaleins entdecken",  ro: "Descoperă înmulțirea" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",               hu: "Csillagpárosítás",     de: "Sternenpaare",          ro: "Perechi stele"        } },
-      { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { en: "Black Hole",               hu: "Fekete lyuk",          de: "Schwarzes Loch",        ro: "Gaura neagră"         } },
+      { id: "m3", category: "challenge", gameType: "gravity-sort", icon: "🌪️", label: { en: "Sort Products",             hu: "Szorzatok rendezése",  de: "Produkte sortieren",    ro: "Sortează produsele"   } },
     ],
     svgX: 230, svgY: 55,
   },
