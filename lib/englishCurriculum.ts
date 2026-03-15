@@ -2040,7 +2040,6 @@ const G3: EnglishTheme[] = [
           { type:"mcq", topic:"spelling_g3", subtopic:"homophones_g3", question:"Which word correctly completes: 'You're ___ to speak.'?", options:["allowed","aloud","allowed","alowed"], correct:0 },
           { type:"mcq", topic:"spelling_g3", subtopic:"homophones_g3", question:"What is the homophone of 'be'?", options:["bee","be","bee","bea"], correct:0 },
         ],
-        ],
       },
     ],
   },
