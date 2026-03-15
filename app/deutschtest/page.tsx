@@ -34,11 +34,27 @@ import { playCorrect, playIncorrect, playClick } from "@/lib/soundEffects";
 function speakText(text: string) {
   if (typeof window === "undefined" || !window.speechSynthesis) return;
   window.speechSynthesis.cancel();
-  const utt = new SpeechSynthesisUtterance(text);
-  utt.lang = "de-DE";
-  utt.rate = 0.88;
-  utt.pitch = 1.1;
-  window.speechSynthesis.speak(utt);
+
+  const doSpeak = () => {
+    const utt = new SpeechSynthesisUtterance(text);
+    utt.lang = "de-DE";
+    utt.rate = 0.88;
+    utt.pitch = 1.1;
+    // Explicit German voice selection — Chrome desktop needs this
+    const voices = window.speechSynthesis.getVoices();
+    const deVoice = voices.find(v => v.lang.startsWith("de")) ?? voices[0];
+    if (deVoice) utt.voice = deVoice;
+    window.speechSynthesis.speak(utt);
+  };
+
+  // Chrome desktop bug: cancel() needs a small delay before speak()
+  // Also wait for voices to load if not ready yet
+  const voices = window.speechSynthesis.getVoices();
+  if (voices.length > 0) {
+    setTimeout(doSpeak, 50);
+  } else {
+    window.speechSynthesis.addEventListener("voiceschanged", () => setTimeout(doSpeak, 50), { once: true });
+  }
 }
 
 // ─── DEUTSCH FLOATING BACKGROUND ─────────────────────────────────────────────
