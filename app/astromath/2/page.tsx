@@ -764,6 +764,9 @@ export default function AstroMathG2Page() {
         islandColor={activeIsland.color}
         islandName={activeIsland.name[lang as Lang] ?? activeIsland.name.en}
         lang={lang}
+        grade={2}
+        score={missionScore.score}
+        total={missionScore.total}
         onDone={handleIslandAnimDone}
       />
     );
