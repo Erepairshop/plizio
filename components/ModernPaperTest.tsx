@@ -1,5 +1,5 @@
 /**
- * Modern paper-like test interface with grid background
+ * Modern paper-like test interface with ruled notebook background
  * Professional, mobile-friendly matektest UI
  */
 
@@ -13,6 +13,7 @@ export interface ModernPaperTestProps {
   title: string;
   gradeLabel: string;
   date: string;
+  icon?: string;
   timeLeft?: number;
   solved?: number;
   total?: number;
@@ -20,6 +21,7 @@ export interface ModernPaperTestProps {
   onExit: () => void;
   onPrint?: () => void;
   userName?: string;
+  /** @deprecated pass pre-formatted date string, dateLocale is no longer used */
   dateLocale?: string;
   exitLabel?: string;
 }
@@ -29,6 +31,7 @@ export default function ModernPaperTest({
   title,
   gradeLabel,
   date,
+  icon = '📄',
   timeLeft,
   solved,
   total,
@@ -36,35 +39,35 @@ export default function ModernPaperTest({
   onExit,
   onPrint,
   userName,
-  dateLocale = 'hu-HU',
+  dateLocale,
   exitLabel = 'Kilépés',
 }: ModernPaperTestProps) {
+  // If dateLocale is provided, try to parse date as ISO and format it; otherwise show as-is
+  let displayDate = date;
+  if (dateLocale && date) {
+    try {
+      const d = new Date(date);
+      if (!isNaN(d.getTime())) {
+        displayDate = d.toLocaleDateString(dateLocale, {
+          weekday: 'long',
+          year: 'numeric',
+          month: 'long',
+          day: 'numeric',
+        });
+      }
+    } catch (_) {
+      // use date as-is
+    }
+  }
+
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 relative">
-      {/* Animated grid background */}
-      <div className="fixed inset-0 pointer-events-none">
-        <svg
-          className="absolute inset-0 w-full h-full opacity-5"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <defs>
-            <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
-              <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#1e293b" strokeWidth="0.5" />
-            </pattern>
-          </defs>
-          <rect width="100%" height="100%" fill="url(#grid)" />
-        </svg>
-
-        {/* Subtle radial gradient overlay */}
-        <div className="absolute inset-0 bg-radial-gradient opacity-30 from-blue-100/20 via-transparent to-transparent" />
-      </div>
-
+    <div className="min-h-screen bg-gradient-to-br from-slate-100 to-blue-50 relative">
       {/* Paper sheet container */}
       <div className="relative z-10">
         {/* Header - Sticky & Modern */}
-        <div className="fixed top-0 left-0 right-0 z-40 backdrop-blur-md bg-white/70 border-b border-slate-200/50">
-          <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-3 sm:py-4">
-            <div className="flex items-start justify-between gap-4">
+        <div className="fixed top-0 left-0 right-0 z-40 backdrop-blur-md bg-white/80 border-b border-slate-200/70 shadow-sm">
+          <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-2.5 sm:py-3">
+            <div className="flex items-center justify-between gap-4">
               {/* Left: Title & Grade */}
               <div className="flex-1 min-w-0">
                 <motion.div
@@ -72,35 +75,26 @@ export default function ModernPaperTest({
                   animate={{ opacity: 1, x: 0 }}
                   className="flex items-baseline gap-2"
                 >
-                  <h1 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
-                    📐 {title}
+                  <h1 className="text-lg sm:text-xl font-black text-slate-900 tracking-tight">
+                    {icon} {title}
                   </h1>
-                  <span className="text-xs sm:text-sm font-bold text-slate-500 uppercase tracking-wider">
+                  <span className="text-xs font-bold text-slate-400 uppercase tracking-wider">
                     {gradeLabel}
                   </span>
                 </motion.div>
-                <div className="text-xs sm:text-sm text-slate-600 font-mono mt-1">
+                <div className="text-xs text-slate-400 font-mono mt-0.5">
                   {userName && (
-                    <p className="font-bold text-slate-800 mb-1">
-                      {userName}
-                    </p>
+                    <span className="font-bold text-slate-600 mr-2">{userName}</span>
                   )}
-                  <p>
-                    {new Date(date).toLocaleDateString(dateLocale, {
-                      weekday: 'long',
-                      year: 'numeric',
-                      month: 'long',
-                      day: 'numeric',
-                    })}
-                  </p>
+                  {displayDate && <span>{displayDate}</span>}
                 </div>
               </div>
 
               {/* Right: Timer & Progress */}
-              <div className="flex flex-col items-end gap-2">
+              <div className="flex items-center gap-3">
                 {timeLeft !== undefined && (
                   <motion.div
-                    className={`font-mono font-bold text-lg ${
+                    className={`font-mono font-bold text-base ${
                       timeLeft <= 300
                         ? 'text-red-600 animate-pulse'
                         : 'text-slate-700'
@@ -109,89 +103,91 @@ export default function ModernPaperTest({
                     animate={{ scale: timeLeft <= 300 ? [1, 1.05, 1] : 1 }}
                     transition={{ duration: 1, repeat: timeLeft <= 300 ? Infinity : 0 }}
                   >
-                    ⏱️ {Math.floor(timeLeft / 60)}:{(timeLeft % 60).toString().padStart(2, '0')}
+                    ⏱ {Math.floor(timeLeft / 60)}:{(timeLeft % 60).toString().padStart(2, '0')}
                   </motion.div>
                 )}
                 {solved !== undefined && total !== undefined && (
-                  <div className="text-xs sm:text-sm font-mono text-slate-600">
-                    <span className="font-bold text-slate-900">{solved}</span>
+                  <div className="text-xs font-mono text-slate-500 bg-slate-100 rounded-full px-2.5 py-1">
+                    <span className="font-bold text-slate-800">{solved}</span>
                     <span className="text-slate-400">/{total}</span>
                   </div>
                 )}
-              </div>
 
-              {/* Print button */}
-              {onPrint && !isGrading && (
-                <motion.button
-                  onClick={onPrint}
-                  className="p-2 rounded-lg hover:bg-slate-200/50 transition-colors text-slate-500 hover:text-slate-900"
-                  whileHover={{ scale: 1.05 }}
-                  whileTap={{ scale: 0.95 }}
-                  title="Nyomtatás"
-                >
-                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
-                      d="M6 9V2h12v7M6 18H4a2 2 0 01-2-2v-5a2 2 0 012-2h16a2 2 0 012 2v5a2 2 0 01-2 2h-2M6 14h12v8H6v-8z" />
-                  </svg>
-                </motion.button>
-              )}
-
-              {/* Close button */}
-              {!isGrading && (
-                <motion.button
-                  onClick={onExit}
-                  className="p-2 rounded-lg hover:bg-slate-200/50 transition-colors text-slate-600 hover:text-slate-900"
-                  whileHover={{ scale: 1.05 }}
-                  whileTap={{ scale: 0.95 }}
-                  title={exitLabel}
-                >
-                  <svg
-                    className="w-5 h-5"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
+                {/* Print button */}
+                {onPrint && !isGrading && (
+                  <motion.button
+                    onClick={onPrint}
+                    className="p-1.5 rounded-lg hover:bg-slate-200/70 transition-colors text-slate-400 hover:text-slate-700"
+                    whileHover={{ scale: 1.05 }}
+                    whileTap={{ scale: 0.95 }}
+                    title="Drucken"
                   >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M6 18L18 6M6 6l12 12"
-                    />
-                  </svg>
-                </motion.button>
-              )}
+                    <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
+                        d="M6 9V2h12v7M6 18H4a2 2 0 01-2-2v-5a2 2 0 012-2h16a2 2 0 012 2v5a2 2 0 01-2 2h-2M6 14h12v8H6v-8z" />
+                    </svg>
+                  </motion.button>
+                )}
+
+                {/* Close button */}
+                {!isGrading && (
+                  <motion.button
+                    onClick={onExit}
+                    className="p-1.5 rounded-lg hover:bg-slate-200/70 transition-colors text-slate-400 hover:text-slate-700"
+                    whileHover={{ scale: 1.05 }}
+                    whileTap={{ scale: 0.95 }}
+                    title={exitLabel}
+                  >
+                    <svg
+                      className="w-4 h-4"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M6 18L18 6M6 6l12 12"
+                      />
+                    </svg>
+                  </motion.button>
+                )}
+              </div>
             </div>
           </div>
         </div>
 
-        {/* Main content area - Paper sheet style */}
-        <main className="pt-24 pb-4 sm:pb-8">
-          <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-            {/* White paper background */}
+        {/* Main content area */}
+        <main className="pt-20 pb-8">
+          <div className="max-w-2xl mx-auto px-3 sm:px-6 py-6">
+            {/* White ruled paper sheet */}
             <motion.div
-              initial={{ opacity: 0, y: 20 }}
+              initial={{ opacity: 0, y: 16 }}
               animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.5 }}
-              className="bg-white rounded-2xl sm:rounded-3xl shadow-xl sm:shadow-2xl border border-slate-200 overflow-hidden"
+              transition={{ duration: 0.4 }}
+              className="rounded-xl shadow-lg border border-slate-200 overflow-hidden"
+              style={{
+                background: '#fff',
+                backgroundImage: `
+                  linear-gradient(to right, transparent 44px, rgba(229, 115, 115, 0.35) 44px, rgba(229, 115, 115, 0.35) 45px, transparent 45px),
+                  repeating-linear-gradient(
+                    #fff,
+                    #fff 27px,
+                    rgba(147, 197, 232, 0.45) 27px,
+                    rgba(147, 197, 232, 0.45) 28px
+                  )
+                `,
+              }}
             >
-              {/* Paper inner padding with subtle grid */}
-              <div
-                className="relative p-6 sm:p-8 lg:p-10 min-h-screen"
-                style={{
-                  backgroundImage: `
-                    linear-gradient(rgba(148, 163, 184, 0.05) 1px, transparent 1px),
-                    linear-gradient(90deg, rgba(148, 163, 184, 0.05) 1px, transparent 1px)
-                  `,
-                  backgroundSize: '20px 20px',
-                }}
-              >
-                {/* Content */}
-                <div className="relative z-10 space-y-8">{children}</div>
+              {/* Content with left margin offset */}
+              <div className="relative pl-14 pr-5 pt-6 pb-8 sm:pr-8 sm:pt-8 min-h-screen">
+                {children}
+              </div>
 
-                {/* Subtle watermark (optional) */}
-                <div className="absolute bottom-4 right-4 text-xs font-mono text-slate-300 pointer-events-none">
-                  PLIZIO
-                </div>
+              {/* Watermark */}
+              <div className="absolute bottom-3 right-4 text-xs font-mono text-slate-200 pointer-events-none select-none">
+                PLIZIO
               </div>
             </motion.div>
           </div>

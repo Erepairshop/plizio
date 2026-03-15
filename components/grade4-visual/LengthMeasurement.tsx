@@ -278,6 +278,19 @@ const LengthMeasurement: React.FC<LengthMeasurementProps> = ({
         </svg>
       </div>
 
+      {/* Embedded reset gomb (rossz kattintás után) */}
+      {embedded && measureStartCm !== null && (
+        <div className="flex justify-center pb-1">
+          <button
+            onClick={handleReset}
+            className="flex items-center gap-1 text-xs text-slate-400 hover:text-emerald-600 transition-colors px-3 py-1 rounded-lg hover:bg-emerald-50"
+          >
+            <RotateCcw size={12} />
+            {t.tryAgain}
+          </button>
+        </div>
+      )}
+
       {/* Status / Mérés eredmény */}
       <div className="px-5 pb-2">
         {!submitted && statusText && (
