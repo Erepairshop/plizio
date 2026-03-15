@@ -166,13 +166,13 @@ const TrueFalseBlitz = memo(function TrueFalseBlitz({
     setTimeout(advance, 750);
   }, [advance]);
 
-  // 4-second auto-advance
+  // 9-second auto-advance (was 4s — extra 5s reading time)
   useEffect(() => {
     if (done) return;
     answeredRef.current = false;
     const t = setTimeout(() => {
       if (!answeredRef.current) { answeredRef.current = true; respond("missed"); }
-    }, 4000);
+    }, 9000);
     return () => clearTimeout(t);
   }, [idx, done, respond]);
 
@@ -267,7 +267,7 @@ const TrueFalseBlitz = memo(function TrueFalseBlitz({
             className="h-full rounded-full origin-left"
             style={{ background: color }}
             initial={{ scaleX: 1 }} animate={{ scaleX: 0 }}
-            transition={{ duration: 4, ease: "linear" }} />
+            transition={{ duration: 9, ease: "linear" }} />
         )}
       </div>
 

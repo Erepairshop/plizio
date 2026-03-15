@@ -7,6 +7,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 
 const TIME_PER_Q = 11; // seconds
+const READ_DELAY = 3;  // seconds — options locked while student reads the question
 
 const LABELS: Record<string, Record<string, string>> = {
   en: { timeUp: "Time's up!", correct: "Correct! ✅", wrong: "Wrong ❌" },
@@ -29,6 +30,8 @@ const SpeedRound = memo(function SpeedRound({ questions, color, onDone, onCorrec
   const [idx, setIdx] = useState(0);
   const [score, setScore] = useState(0);
   const [timeLeft, setTimeLeft] = useState(TIME_PER_Q);
+  const [readLock, setReadLock] = useState(true);  // locked during reading phase
+  const [readCountdown, setReadCountdown] = useState(READ_DELAY);
   const [selected, setSelected] = useState<string | null>(null);
   const [flash, setFlash] = useState<"correct" | "wrong" | null>(null);
 
@@ -51,11 +54,21 @@ const SpeedRound = memo(function SpeedRound({ questions, color, onDone, onCorrec
       setSelected(null);
       setFlash(null);
       setTimeLeft(TIME_PER_Q);
+      setReadLock(true);
+      setReadCountdown(READ_DELAY);
     }, 650);
   }, [questions.length, onDone]);
 
+  // Reading phase: count down 3s then unlock options
+  useEffect(() => {
+    if (!readLock) return;
+    if (readCountdown <= 0) { setReadLock(false); return; }
+    const id = setTimeout(() => setReadCountdown(c => Math.max(0, c - 0.1)), 100);
+    return () => clearTimeout(id);
+  }, [readLock, readCountdown]);
+
   const pick = useCallback((opt: string) => {
-    if (selected !== null || flash !== null || advancingRef.current) return;
+    if (readLock || selected !== null || flash !== null || advancingRef.current) return;
     setSelected(opt);
     const correct = opt === String(q?.correctAnswer);
     if (correct) {
@@ -68,9 +81,9 @@ const SpeedRound = memo(function SpeedRound({ questions, color, onDone, onCorrec
     advance(correct);
   }, [selected, flash, q, onCorrect, onWrong, advance]);
 
-  // Timer tick
+  // Timer tick — only runs after reading phase
   useEffect(() => {
-    if (selected !== null || flash !== null) return;
+    if (readLock || selected !== null || flash !== null) return;
     if (timeLeft <= 0) {
       onWrong?.();
       advance(false);
@@ -82,8 +95,9 @@ const SpeedRound = memo(function SpeedRound({ questions, color, onDone, onCorrec
 
   if (!q) return null;
 
-  const timerPct = (timeLeft / TIME_PER_Q) * 100;
-  const timerColor = timerPct > 55 ? "#00FF88" : timerPct > 25 ? "#FFD700" : "#FF4444";
+  const readPct = (readCountdown / READ_DELAY) * 100;
+  const timerPct = readLock ? 100 : (timeLeft / TIME_PER_Q) * 100;
+  const timerColor = readLock ? `${color}80` : timerPct > 55 ? "#00FF88" : timerPct > 25 ? "#FFD700" : "#FF4444";
   const opts = q.options ?? [];
 
   return (
@@ -127,13 +141,32 @@ const SpeedRound = memo(function SpeedRound({ questions, color, onDone, onCorrec
           return (
             <motion.button key={i} onClick={() => pick(sOpt)}
               className="py-5 px-3 rounded-2xl font-bold text-base text-center"
-              style={{ background: bg, border: `2px solid ${border}`, color: textColor }}
-              whileTap={!selected && !flash ? { scale: 0.93 } : {}}>
+              style={{ background: readLock ? "rgba(255,255,255,0.03)" : bg,
+                       border: `2px solid ${readLock ? "rgba(255,255,255,0.07)" : border}`,
+                       color: readLock ? "rgba(255,255,255,0.25)" : textColor,
+                       opacity: readLock ? 0.5 : 1 }}
+              whileTap={!readLock && !selected && !flash ? { scale: 0.93 } : {}}>
               {sOpt}
             </motion.button>
           );
         })}
       </div>
+
+      {/* Reading phase indicator */}
+      <AnimatePresence>
+        {readLock && !flash && (
+          <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
+            className="flex items-center justify-center gap-2">
+            <div className="flex-1 h-1 rounded-full bg-white/10 overflow-hidden">
+              <motion.div className="h-full rounded-full" style={{ background: color }}
+                initial={{ width: "100%" }}
+                animate={{ width: `${readPct}%` }}
+                transition={{ duration: 0.1 }} />
+            </div>
+            <span className="text-white/40 text-xs font-bold shrink-0">📖 {Math.ceil(readCountdown)}s</span>
+          </motion.div>
+        )}
+      </AnimatePresence>
 
       {/* Flash label */}
       <AnimatePresence>
