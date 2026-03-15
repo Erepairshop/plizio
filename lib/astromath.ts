@@ -11,7 +11,8 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "word-problem-explorer" | "unit-explorer" | "angle-explorer"
   | "true-false-blitz" | "chain-calc" | "missing-number" | "decimal-explorer"
   | "g2-teaching"
-  | "negative-number-line" | "percent-bar";
+  | "negative-number-line" | "percent-bar"
+  | "ratio-explorer" | "algebra-explorer" | "stat-explorer";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }

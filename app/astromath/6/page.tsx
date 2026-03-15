@@ -34,6 +34,9 @@ import AreaExplorer from "@/app/astromath/games/AreaExplorer";
 import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
 import NegativeNumberLine from "@/app/astromath/games/NegativeNumberLine";
 import PercentBar from "@/app/astromath/games/PercentBar";
+import RatioExplorer from "@/app/astromath/games/RatioExplorer";
+import AlgebraExplorer from "@/app/astromath/games/AlgebraExplorer";
+import StatExplorer from "@/app/astromath/games/StatExplorer";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -110,6 +113,9 @@ type Screen =
   | "true-false-blitz"
   | "negative-number-line"
   | "percent-bar"
+  | "ratio-explorer"
+  | "algebra-explorer"
+  | "stat-explorer"
   | "island-transition"
   | "island-complete-anim"
   | "mission-done"
@@ -482,7 +488,7 @@ export default function AstroMathG6Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const noQuestionsTypes: string[] = ["number-duel", "gravity-sort", "fraction-visual", "concept-explorer", "word-problem-explorer", "area-explorer", "true-false-blitz", "negative-number-line", "percent-bar"];
+    const noQuestionsTypes: string[] = ["number-duel", "gravity-sort", "fraction-visual", "concept-explorer", "word-problem-explorer", "area-explorer", "true-false-blitz", "negative-number-line", "percent-bar", "ratio-explorer", "algebra-explorer", "stat-explorer"];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -824,11 +830,20 @@ export default function AstroMathG6Page() {
         {screen === "percent-bar" && (
           <PercentBar color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "ratio-explorer" && (
+          <RatioExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "algebra-explorer" && (
+          <AlgebraExplorer color={bgColor} onDone={handleMissionDone} lang={lang} />
+        )}
+        {screen === "stat-explorer" && (
+          <StatExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "concept-explorer", "word-problem-explorer", "area-explorer", "true-false-blitz", "negative-number-line", "percent-bar"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "concept-explorer", "word-problem-explorer", "area-explorer", "true-false-blitz", "negative-number-line", "percent-bar", "ratio-explorer", "algebra-explorer", "stat-explorer"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

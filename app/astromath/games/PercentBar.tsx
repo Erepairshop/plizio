@@ -1,8 +1,8 @@
 "use client";
 // PercentBar — Interactive percent visualizer for Grade 6
-// Students see a shaded bar and determine the percentage,
-// or see a percentage and tap to fill the correct amount.
-// No wrong answers in explore mode — pure discovery.
+// TEACHES first (2 guided discovery rounds), then quizzes (6 MCQ rounds).
+// Teaching rounds: step by step, no wrong answers.
+// Quiz rounds: MCQ with feedback.
 
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
@@ -21,6 +21,16 @@ const LABELS: Record<string, Record<string, string>> = {
     ofTotal: "of",
     percent: "percent",
     instruction: "Tap the correct answer!",
+    // Teaching phase
+    teachTitle: "What is a Percentage?",
+    teachIntro: "A percentage tells us how many out of 100.",
+    teachStep1: "Here is a bar divided into 10 equal parts:",
+    teachStep2: "Each part is 10% (because 100 ÷ 10 = 10)",
+    teachTap: "Tap each section to fill it!",
+    teachFilled: "filled",
+    teachRule: "Percentage = filled parts ÷ total parts × 100",
+    teachReady: "Now let's practice!",
+    teachReveal: "Tap to see the percentage",
   },
   hu: {
     title: "Százalék felfedezés",
@@ -33,6 +43,15 @@ const LABELS: Record<string, Record<string, string>> = {
     ofTotal: "/",
     percent: "százalék",
     instruction: "Koppints a helyes válaszra!",
+    teachTitle: "Mi az a százalék?",
+    teachIntro: "A százalék megmutatja, mennyi van 100-ból.",
+    teachStep1: "Íme egy sáv, 10 egyenlő részre osztva:",
+    teachStep2: "Minden rész 10% (mert 100 ÷ 10 = 10)",
+    teachTap: "Koppints minden részre a kitöltéshez!",
+    teachFilled: "kitöltve",
+    teachRule: "Százalék = kitöltött részek ÷ összes rész × 100",
+    teachReady: "Most gyakoroljunk!",
+    teachReveal: "Koppints a százalék megtekintéséhez",
   },
   de: {
     title: "Prozent-Entdecker",
@@ -45,6 +64,15 @@ const LABELS: Record<string, Record<string, string>> = {
     ofTotal: "von",
     percent: "Prozent",
     instruction: "Tippe die richtige Antwort!",
+    teachTitle: "Was ist ein Prozent?",
+    teachIntro: "Ein Prozent sagt uns, wie viel von 100.",
+    teachStep1: "Hier ist ein Balken, in 10 gleiche Teile geteilt:",
+    teachStep2: "Jeder Teil ist 10% (weil 100 ÷ 10 = 10)",
+    teachTap: "Tippe auf jeden Abschnitt zum Ausfüllen!",
+    teachFilled: "gefüllt",
+    teachRule: "Prozent = gefüllte Teile ÷ alle Teile × 100",
+    teachReady: "Jetzt üben wir!",
+    teachReveal: "Tippe, um den Prozentsatz zu sehen",
   },
   ro: {
     title: "Explorator procente",
@@ -57,6 +85,15 @@ const LABELS: Record<string, Record<string, string>> = {
     ofTotal: "din",
     percent: "procent",
     instruction: "Atinge răspunsul corect!",
+    teachTitle: "Ce este un procent?",
+    teachIntro: "Un procent ne spune câte din 100.",
+    teachStep1: "Iată o bară împărțită în 10 părți egale:",
+    teachStep2: "Fiecare parte este 10% (pentru că 100 ÷ 10 = 10)",
+    teachTap: "Atinge fiecare secțiune pentru a o completa!",
+    teachFilled: "completat",
+    teachRule: "Procent = părți colorate ÷ toate părțile × 100",
+    teachReady: "Acum să exersăm!",
+    teachReveal: "Atinge pentru a vedea procentul",
   },
 };
 
@@ -128,6 +165,119 @@ function PercentBarSVG({
   );
 }
 
+// ─── Teaching Phase — Interactive fill ─────────────────────────────────────────
+function TeachingPhase({ color, lang, onDone }: { color: string; lang: string; onDone: () => void }) {
+  const lbl = LABELS[lang] ?? LABELS.en;
+  // Two teaching rounds: 50% and 30%
+  const teachRounds = [
+    { target: 5, total: 10, pct: 50 },
+    { target: 3, total: 10, pct: 30 },
+  ];
+  const [tIdx, setTIdx] = useState(0);
+  const [filled, setFilled] = useState(0);
+  const [showResult, setShowResult] = useState(false);
+
+  const tr = teachRounds[tIdx];
+
+  const handleTapCell = useCallback(() => {
+    if (showResult) return;
+    if (filled < tr.target) {
+      const next = filled + 1;
+      setFilled(next);
+      if (next === tr.target) {
+        setTimeout(() => setShowResult(true), 400);
+      }
+    }
+  }, [filled, tr.target, showResult]);
+
+  const handleTeachNext = useCallback(() => {
+    if (tIdx + 1 >= teachRounds.length) {
+      onDone();
+      return;
+    }
+    setTIdx(i => i + 1);
+    setFilled(0);
+    setShowResult(false);
+  }, [tIdx, teachRounds.length, onDone]);
+
+  return (
+    <div className="w-full max-w-sm mx-auto flex flex-col items-center gap-3">
+      {/* Progress */}
+      <div className="flex gap-1.5 w-full">
+        {teachRounds.map((_, i) => (
+          <div key={i} className="flex-1 h-2 rounded-full"
+            style={{ background: i < tIdx ? "#00FF88" : i === tIdx ? color : "rgba(255,255,255,0.12)" }} />
+        ))}
+      </div>
+
+      {tIdx === 0 && !showResult && filled === 0 && (
+        <>
+          <p className="text-sm font-black text-center" style={{ color }}>{lbl.teachTitle}</p>
+          <p className="text-white/60 text-xs font-medium text-center px-2">{lbl.teachIntro}</p>
+        </>
+      )}
+
+      <AnimatePresence mode="wait">
+        <motion.div key={tIdx}
+          initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
+          className="w-full flex flex-col items-center gap-3"
+        >
+          <p className="text-white/50 text-xs font-bold text-center">{lbl.teachStep1}</p>
+          <p className="text-white/60 text-[10px] font-bold text-center">{lbl.teachStep2}</p>
+
+          {/* Interactive bar — tap to fill */}
+          <div className="w-full bg-white/5 rounded-2xl p-3 border border-white/10">
+            <PercentBarSVG total={tr.total} filledCount={filled} color={color} showLabels={true} />
+          </div>
+
+          {/* Counter */}
+          <div className="flex items-center gap-2">
+            <span className="text-lg font-black" style={{ color }}>{filled}/{tr.total}</span>
+            <span className="text-white/40 text-xs font-bold">{lbl.teachFilled}</span>
+            {filled > 0 && (
+              <span className="text-white/60 text-sm font-black">= {filled * 10}%</span>
+            )}
+          </div>
+
+          {!showResult && (
+            <motion.button
+              onClick={handleTapCell}
+              className="w-full py-3.5 rounded-2xl font-black text-white text-sm"
+              style={{ background: `${color}22`, border: `2px solid ${color}55` }}
+              whileTap={{ scale: 0.97 }}
+            >
+              {filled < tr.target ? lbl.teachTap : lbl.teachReveal}
+            </motion.button>
+          )}
+
+          {showResult && (
+            <motion.div
+              initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}
+              className="w-full flex flex-col items-center gap-3"
+            >
+              <div className="w-full rounded-2xl px-4 py-3"
+                style={{ background: "rgba(0,255,136,0.08)", border: "2px solid rgba(0,255,136,0.3)" }}>
+                <p className="text-white/50 text-xs font-bold text-center mb-1">{lbl.teachRule}</p>
+                <p className="text-center text-sm font-bold text-white/70">
+                  {tr.target} ÷ {tr.total} × 100 = <span style={{ color: "#00FF88" }} className="text-xl font-black">{tr.pct}%</span>
+                </p>
+              </div>
+              <motion.button
+                onClick={handleTeachNext}
+                className="w-full py-3.5 rounded-2xl font-black text-white text-sm flex items-center justify-center gap-2"
+                style={{ background: `linear-gradient(135deg, ${color}55, ${color}99)`, border: `2px solid ${color}` }}
+                whileTap={{ scale: 0.97 }}
+              >
+                {tIdx + 1 >= teachRounds.length ? lbl.teachReady : lbl.next} <ChevronRight size={16} />
+              </motion.button>
+            </motion.div>
+          )}
+        </motion.div>
+      </AnimatePresence>
+    </div>
+  );
+}
+
 // ─── Main Component ────────────────────────────────────────────────────────────
 const PercentBar = memo(function PercentBar({
   color, onDone, lang = "en",
@@ -137,6 +287,7 @@ const PercentBar = memo(function PercentBar({
   lang?: string;
 }) {
   const lbl = LABELS[lang] ?? LABELS.en;
+  const [teachDone, setTeachDone] = useState(false);
 
   const [rounds] = useState<Round[]>(() => generateRounds());
   const [idx, setIdx] = useState(0);
@@ -168,6 +319,11 @@ const PercentBar = memo(function PercentBar({
     setPhase("play");
   }, [isLast, onDone, score, total]);
 
+  // Teaching phase first
+  if (!teachDone) {
+    return <TeachingPhase color={color} lang={lang} onDone={() => setTeachDone(true)} />;
+  }
+
   const isCorrect = selected === round.percent;
   const COLORS = ["#3b82f6", "#10b981", "#f59e0b", "#ef4444"];
 
@@ -194,7 +350,6 @@ const PercentBar = memo(function PercentBar({
 
           {round.mode === "read" ? (
             <>
-              {/* Show filled bar, ask what % */}
               <p className="text-white/70 text-sm font-bold text-center">{lbl.modeRead}</p>
               <div className="w-full bg-white/5 rounded-2xl p-3 border border-white/10">
                 <PercentBarSVG total={round.total} filledCount={filledCount} color={color} showLabels={true} />
@@ -202,7 +357,6 @@ const PercentBar = memo(function PercentBar({
             </>
           ) : (
             <>
-              {/* Show target %, bar fills on correct */}
               <div className="flex items-center gap-3">
                 <p className="text-white/70 text-sm font-bold">{lbl.modeFill}</p>
                 <span className="text-2xl font-black" style={{ color }}>{round.percent}%</span>

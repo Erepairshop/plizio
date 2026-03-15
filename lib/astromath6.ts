@@ -66,7 +66,7 @@ export const G6_ISLANDS: IslandDef[] = [
     icon: "⚖️", color: "#10B981", sortRange: [1, 100],
     topicKeys: ["g6_ratio_concept", "g6_ratio_missing", "g6_ratio_split", "g6_ratio_3"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "concept-explorer", icon: "🔍", label: { en: "Discover Ratios",    hu: "Arányok felfedezése",   de: "Verhältnisse entdecken",  ro: "Descoperă proporțiile" } },
+      { id: "m1", category: "explore",   gameType: "ratio-explorer", icon: "🔍", label: { en: "Discover Ratios",    hu: "Arányok felfedezése",   de: "Verhältnisse entdecken",  ro: "Descoperă proporțiile" } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",       icon: "🚀", label: { en: "Ratio Quiz",         hu: "Arány kvíz",            de: "Verhältnisquiz",          ro: "Quiz proporții"        } },
       { id: "m3", category: "challenge", gameType: "speed-round",      icon: "⚡", label: { en: "Speed Round",        hu: "Gyors kör",             de: "Speedrunde",              ro: "Rundă rapidă"          } },
     ],
@@ -102,7 +102,7 @@ export const G6_ISLANDS: IslandDef[] = [
     icon: "🔤", color: "#3B82F6", sortRange: [1, 50],
     topicKeys: ["g6_alg_eval", "g6_alg_eq1", "g6_alg_eq2"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "concept-explorer", icon: "🔍", label: { en: "Discover Algebra",   hu: "Algebra felfedezése",    de: "Algebra entdecken",       ro: "Descoperă algebra"     } },
+      { id: "m1", category: "explore",   gameType: "algebra-explorer", icon: "🔍", label: { en: "Discover Algebra",   hu: "Algebra felfedezése",    de: "Algebra entdecken",       ro: "Descoperă algebra"     } },
       { id: "m2", category: "build",     gameType: "equation-drill",   icon: "🧮", label: { en: "Equation Drill",    hu: "Egyenlet drill",         de: "Gleichungs-Drill",        ro: "Ecuații"               } },
       { id: "m3", category: "challenge", gameType: "black-hole",       icon: "🕳️", label: { en: "Black Hole",        hu: "Fekete lyuk",            de: "Schwarzes Loch",          ro: "Gaura neagră"          } },
     ],
@@ -126,7 +126,7 @@ export const G6_ISLANDS: IslandDef[] = [
     icon: "📊", color: "#14B8A6", sortRange: [1, 50],
     topicKeys: ["g6_stat_mean", "g6_stat_median", "g6_stat_mode", "g6_stat_range"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "concept-explorer",  icon: "🔍", label: { en: "Discover Statistics", hu: "Statisztika felfedezése", de: "Statistik entdecken",     ro: "Descoperă statistica"  } },
+      { id: "m1", category: "explore",   gameType: "stat-explorer",  icon: "🔍", label: { en: "Discover Statistics", hu: "Statisztika felfedezése", de: "Statistik entdecken",     ro: "Descoperă statistica"  } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",        icon: "🚀", label: { en: "Stats Quiz",          hu: "Statisztika kvíz",        de: "Statistikquiz",           ro: "Quiz statistică"       } },
       { id: "m3", category: "challenge", gameType: "true-false-blitz",  icon: "🎯", label: { en: "True or False?",      hu: "Igaz vagy Hamis?",        de: "Wahr oder Falsch?",       ro: "Adevărat sau Fals?"    } },
     ],
