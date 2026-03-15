@@ -5,8 +5,10 @@ import { motion, AnimatePresence } from "framer-motion";
 import { BookOpen, ArrowLeft, Check, X as XIcon, RotateCcw, Home, ChevronRight } from "lucide-react";
 import Link from "next/link";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
-import { incrementTotalGames, incrementPerfectScores } from "@/lib/milestones";
+import { incrementTotalGames, incrementPerfectScores, checkNewMilestones } from "@/lib/milestones";
 import RewardReveal from "@/components/RewardReveal";
+import MilestonePopup from "@/components/MilestonePopup";
+import ModernPaperTest from "@/components/ModernPaperTest";
 import AvatarCompanion from "@/components/AvatarCompanion";
 import { getGender } from "@/lib/gender";
 import { getActiveSkin, getSkinDef } from "@/lib/skins";
@@ -72,7 +74,7 @@ function DeutschBackground() {
 
 // ─── TYPEN ────────────────────────────────────────────────────────────────────
 
-type Screen = "country" | "grade" | "topics" | "test" | "result";
+type Screen = "country" | "grade" | "topics" | "test" | "reward" | "result";
 type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory";
 
 interface TestQuestion {
@@ -125,8 +127,12 @@ function useAvatarProps() {
 
 export default function DeutschTestPage() {
   const avatarProps = useAvatarProps();
-  const [screen, setScreen] = useState<Screen>("country");
-  const [country, setCountry] = useState<DeutschCountry>("DE");
+  // Check if country was already selected (persisted)
+  const savedCountry = typeof window !== "undefined"
+    ? (localStorage.getItem("deutschtest_country") as DeutschCountry | null)
+    : null;
+  const [screen, setScreen] = useState<Screen>(savedCountry ? "grade" : "country");
+  const [country, setCountry] = useState<DeutschCountry>(savedCountry ?? "DE");
   const [grade, setGrade] = useState(1);
   const [selectedIds, setSelectedIds] = useState<string[]>([]);
   const [includeLesetest, setIncludeLesetest] = useState(false);
@@ -139,7 +145,6 @@ export default function DeutschTestPage() {
   const [avatarMood, setAvatarMood] = useState<AvatarMood>("idle");
   const [jumpTrigger, setJumpTrigger] = useState<{ reaction: 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | null; timestamp: number }>({ reaction: null, timestamp: 0 });
   const [earnedCard, setEarnedCard] = useState<string | null>(null);
-  const [showReward, setShowReward] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
 
   const themes: DeutschTheme[] = DEUTSCH_CURRICULUM[grade] ?? [];
@@ -260,6 +265,7 @@ export default function DeutschTestPage() {
 
     incrementTotalGames();
     if (pct === 100) incrementPerfectScores();
+    checkNewMilestones();
 
     const rarity = calculateRarity(correct, total, 0, 85);
     const card = {
@@ -272,17 +278,16 @@ export default function DeutschTestPage() {
       date: new Date().toISOString().split("T")[0],
     };
     saveCard(card);
+    window.dispatchEvent(new Event("plizio-cards-changed"));
     setEarnedCard(rarity);
     setAvatarMood(pct >= 50 ? "victory" : "disappointed");
-    setScreen("result");
-    setTimeout(() => setShowReward(true), 600);
+    setScreen("reward");
   }
 
   // ─── NEUSTART ────────────────────────────────────────────────────────────────
 
   function restart() {
     setScreen("topics");
-    setShowReward(false);
     setEarnedCard(null);
     setAvatarMood("idle");
   }
@@ -384,7 +389,11 @@ export default function DeutschTestPage() {
                   transition={{ delay: 0.15 + i * 0.08 }}
                   whileHover={{ scale: 1.03 }}
                   whileTap={{ scale: 0.97 }}
-                  onClick={() => { setCountry(c.code); setScreen("grade"); }}
+                  onClick={() => {
+                    setCountry(c.code);
+                    localStorage.setItem("deutschtest_country", c.code);
+                    setScreen("grade");
+                  }}
                   className="flex items-center gap-4 px-5 py-4 rounded-2xl border transition-all text-left"
                   style={{
                     background: "rgba(0,212,255,0.05)",
@@ -519,9 +528,30 @@ export default function DeutschTestPage() {
                 <BookOpen size={18} className="text-[#00D4FF]" />
               </div>
               <span className="font-black text-[#00D4FF] tracking-wide text-sm">DEUTSCH TEST</span>
-              <span className="ml-auto text-white/60 text-xs font-bold bg-[#00D4FF]/10 border border-[#00D4FF]/20 px-3 py-1 rounded-full">
-                Klasse {grade}
-              </span>
+              <div className="ml-auto flex items-center gap-2">
+                {/* Small country picker */}
+                <select
+                  value={country}
+                  onChange={(e) => {
+                    const c = e.target.value as DeutschCountry;
+                    setCountry(c);
+                    localStorage.setItem("deutschtest_country", c);
+                  }}
+                  className="text-xs font-bold rounded-full px-2 py-1 border outline-none cursor-pointer"
+                  style={{
+                    background: "rgba(0,212,255,0.08)",
+                    borderColor: "rgba(0,212,255,0.25)",
+                    color: "rgba(255,255,255,0.7)",
+                  }}
+                >
+                  <option value="DE">🇩🇪 DE</option>
+                  <option value="AT">🇦🇹 AT</option>
+                  <option value="CH">🇨🇭 CH</option>
+                </select>
+                <span className="text-white/60 text-xs font-bold bg-[#00D4FF]/10 border border-[#00D4FF]/20 px-3 py-1 rounded-full">
+                  Kl. {grade}
+                </span>
+              </div>
             </div>
             <p className="relative z-10 text-white/35 text-xs mb-4 ml-10">Themen für deinen Test auswählen</p>
 
@@ -674,31 +704,21 @@ export default function DeutschTestPage() {
 
         {/* ── TEST ──────────────────────────────────────────────────────────── */}
         {screen === "test" && currentQ && (
+          <ModernPaperTest
+            title="Deutsch Test"
+            gradeLabel={`Klasse ${grade}`}
+            date={new Date().toLocaleDateString("de-DE")}
+            solved={answers.length}
+            total={totalQ}
+            onExit={() => setScreen("topics")}
+            exitLabel="Zurück"
+          >
           <motion.div
             key={`test-${idx}`}
             initial={{ opacity: 0, x: 30 }} animate={{ opacity: 1, x: 0 }}
             exit={{ opacity: 0, x: -30 }}
-            className="min-h-screen flex flex-col p-4 max-w-lg mx-auto"
+            className="flex flex-col p-4 max-w-lg mx-auto"
           >
-            {/* Header */}
-            <div className="flex items-center gap-3 pt-4 mb-3">
-              <button onClick={() => setScreen("topics")} className="text-white/40 hover:text-white p-1">
-                <ArrowLeft size={18} />
-              </button>
-              <div className="flex-1">
-                <div className="flex justify-between text-xs text-white/40 mb-1">
-                  <span>Frage {idx + 1} / {totalQ}</span>
-                  <span>Klasse {grade}</span>
-                </div>
-                <div className="h-1.5 bg-white/10 rounded-full overflow-hidden">
-                  <motion.div
-                    className="h-full bg-[#00D4FF] rounded-full"
-                    animate={{ width: `${progress}%` }}
-                    transition={{ duration: 0.4 }}
-                  />
-                </div>
-              </div>
-            </div>
 
             {/* Passage (Lesetest) */}
             {currentQ.passageText && (
@@ -826,6 +846,18 @@ export default function DeutschTestPage() {
               </AnimatePresence>
             </div>
           </motion.div>
+          </ModernPaperTest>
+        )}
+
+        {/* ── BELOHNUNG ─────────────────────────────────────────────────────── */}
+        {screen === "reward" && earnedCard && (
+          <RewardReveal
+            rarity={earnedCard as "bronze" | "silver" | "gold" | "legendary"}
+            game="deutschtest"
+            score={answers.filter((a) => a.correct).length}
+            total={answers.length}
+            onDone={() => setScreen("result")}
+          />
         )}
 
         {/* ── ERGEBNIS ──────────────────────────────────────────────────────── */}
@@ -835,16 +867,7 @@ export default function DeutschTestPage() {
             initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
             className="min-h-screen flex flex-col items-center p-4 pb-10 max-w-lg mx-auto"
           >
-            {/* Card Reward */}
-            {showReward && earnedCard && (
-              <RewardReveal
-                rarity={earnedCard as "bronze" | "silver" | "gold" | "legendary"}
-                game="deutschtest"
-                score={scoreCount}
-                total={answers.length}
-                onDone={() => setShowReward(false)}
-              />
-            )}
+            <MilestonePopup />
 
             <div className="w-full pt-6">
               {/* Title */}
