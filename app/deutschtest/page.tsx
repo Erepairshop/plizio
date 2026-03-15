@@ -154,31 +154,47 @@ export default function DeutschTestPage() {
 
   // ─── FRAGEN AUFBAUEN ────────────────────────────────────────────────────────
 
-  // ─── FRAGEN AUFBAUEN — 3 Fragen pro Subtopic ─────────────────────────────────
+  // ─── FRAGEN AUFBAUEN — min. 10 Gruppen à 3, round-robin ─────────────────────
 
   function buildTest(g: number, subtopicIds: string[], withLesetest: boolean) {
+    const ids = subtopicIds.length > 0 ? subtopicIds : [];
+    // Always at least 10 groups (30 questions); more if >10 topics selected
+    const groupCount = ids.length > 0 ? Math.max(ids.length, 10) : 0;
+
+    // Build pools per unique topic (shuffled, deduplicated)
+    const pools: Record<string, TestQuestion[]> = {};
+    for (const sid of ids) {
+      const combined = [
+        ...getDeutschQuestions(g, [sid], 20),
+        ...generateForSubtopics([sid], 12),
+      ];
+      for (let i = combined.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [combined[i], combined[j]] = [combined[j], combined[i]];
+      }
+      const seen = new Set<string>();
+      pools[sid] = combined.filter((q) => {
+        const k = q.question.slice(0, 60);
+        if (seen.has(k)) return false;
+        seen.add(k);
+        return true;
+      });
+    }
+
+    // Assign topics to groups round-robin, then pick 3 per group
+    // Track pointer into each topic's pool
+    const ptr: Record<string, number> = {};
     const allQs: TestQuestion[] = [];
 
-    for (const sid of subtopicIds) {
-      const staticQs = getDeutschQuestions(g, [sid], 10);
-      const generatedQs = generateForSubtopics([sid], 6);
-      const pool = [...staticQs, ...generatedQs];
-      // shuffle
-      for (let i = pool.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [pool[i], pool[j]] = [pool[j], pool[i]];
+    for (let g2 = 0; g2 < groupCount; g2++) {
+      const sid = ids[g2 % ids.length];
+      const pool = pools[sid] ?? [];
+      const start = ptr[sid] ?? 0;
+      for (let k = 0; k < 3; k++) {
+        const idx = (start + k) % Math.max(pool.length, 1);
+        if (pool[idx]) allQs.push({ ...pool[idx] });
       }
-      // pick 3 unique
-      const seen = new Set<string>();
-      let count = 0;
-      for (const q of pool) {
-        const key = q.question.slice(0, 60);
-        if (!seen.has(key) && count < 3) {
-          seen.add(key);
-          allQs.push({ ...q });
-          count++;
-        }
-      }
+      ptr[sid] = (start + 3) % Math.max(pool.length, 1);
     }
 
     if (withLesetest) {
@@ -701,6 +717,10 @@ export default function DeutschTestPage() {
                 const ans = submitted ? answers[qi] : undefined;
                 const isCorrect = ans?.correct ?? false;
 
+                // Section header every 3 questions
+                const showSection = qi % 3 === 0 && !q.passageText;
+                const aufgabeNr = Math.floor(qi / 3) + 1;
+
                 // Show passage once per unique passageTitle
                 const showPassage = q.passageText &&
                   (qi === 0 || questions[qi - 1].passageTitle !== q.passageTitle);
@@ -715,6 +735,17 @@ export default function DeutschTestPage() {
                           <p className="text-blue-500 text-xs font-bold uppercase mb-1">📖 {q.passageTitle}</p>
                         )}
                         <p className="text-slate-700 text-sm leading-relaxed">{q.passageText}</p>
+                      </div>
+                    )}
+
+                    {/* Aufgabe section header every 3 questions */}
+                    {showSection && (
+                      <div style={{ height: 28, lineHeight: '28px' }}
+                        className="flex items-center gap-2 mt-0.5">
+                        <span className="text-[10px] font-black uppercase tracking-widest text-slate-400">
+                          Aufgabe {aufgabeNr}
+                        </span>
+                        <span className="flex-1 border-t border-slate-100" />
                       </div>
                     )}
 
