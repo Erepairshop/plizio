@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, useRef, useMemo } from "react";
+import { G1_ICONS, G1_WORD_LABELS } from "@/components/grade1-visual/G1Icons";
 import { motion, AnimatePresence } from "framer-motion";
 import { BookOpen, ArrowLeft, Check, X as XIcon, RotateCcw, Home, ChevronRight } from "lucide-react";
 import Link from "next/link";
@@ -78,11 +79,11 @@ type Screen = "country" | "grade" | "topics" | "test" | "reward" | "result";
 type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory";
 
 interface TestQuestion {
-  type: "mcq" | "typing";
+  type: "mcq" | "typing" | "bild-wort" | "anlaut-bild";
   question: string;
   options?: string[];
-  correct?: number;          // mcq
-  answer?: string | string[]; // typing
+  correct?: number;
+  answer?: string | string[];
   hint?: string;
   subtopic?: string;
   passageText?: string;
@@ -233,10 +234,14 @@ export default function DeutschTestPage() {
       const given = paperAnswers[i] ?? "";
       let isCorrect = false;
       let expected = "";
-      if (q.type === "mcq") {
+      if (q.type === "mcq" || q.type === "bild-wort" || q.type === "anlaut-bild") {
         const givenIdx = parseInt(given);
         isCorrect = !isNaN(givenIdx) && givenIdx === q.correct;
-        expected = q.options?.[q.correct ?? 0] ?? "";
+        if (q.type === "bild-wort") {
+          expected = G1_WORD_LABELS[q.options?.[q.correct ?? 0] ?? ""] ?? q.options?.[q.correct ?? 0] ?? "";
+        } else {
+          expected = q.options?.[q.correct ?? 0] ?? "";
+        }
       } else {
         isCorrect = checkAnswer(given, q.answer ?? "", grade);
         expected = Array.isArray(q.answer) ? q.answer[0] : q.answer ?? "";
@@ -802,6 +807,90 @@ export default function DeutschTestPage() {
                         })}
                       </div>
                     )}
+
+                    {/* Bild-Wort: show word → 4 image tiles to click */}
+                    {q.type === "bild-wort" && q.options && (
+                      <div className="ml-7 py-1" style={{ height: 84 }}>
+                        <div className="flex gap-2 h-full">
+                          {q.options.map((imgKey, oi) => {
+                            const Icon = G1_ICONS[imgKey];
+                            const isSelected = userAnswerRaw === String(oi);
+                            const isRightAnswer = oi === q.correct;
+                            let border = "border-slate-200 bg-white hover:border-blue-300 hover:bg-blue-50/30 cursor-pointer";
+                            if (submitted) {
+                              if (isRightAnswer) border = "border-emerald-400 bg-emerald-50 cursor-default";
+                              else if (isSelected && !isCorrect) border = "border-red-400 bg-red-50 cursor-default opacity-60";
+                              else border = "border-slate-100 bg-white cursor-default opacity-40";
+                            } else if (isSelected) {
+                              border = "border-blue-400 bg-blue-50 cursor-pointer ring-1 ring-blue-300";
+                            }
+                            return (
+                              <button
+                                key={oi}
+                                onClick={() => !submitted && setPaperAnswers((prev) => ({ ...prev, [qi]: String(oi) }))}
+                                disabled={submitted}
+                                className={`flex-1 rounded-lg border-2 flex flex-col items-center justify-center transition-all ${border}`}
+                                style={{ height: 76 }}
+                              >
+                                {Icon ? (
+                                  <div style={{ width: 44, height: 44 }}><Icon /></div>
+                                ) : (
+                                  <span className="text-xs text-slate-400">{imgKey}</span>
+                                )}
+                                <span className="text-[9px] font-semibold text-slate-400 mt-0.5">
+                                  {G1_WORD_LABELS[imgKey] ?? imgKey}
+                                </span>
+                              </button>
+                            );
+                          })}
+                        </div>
+                      </div>
+                    )}
+
+                    {/* Anlaut-Bild: show image → 4 letter buttons */}
+                    {q.type === "anlaut-bild" && q.options && (() => {
+                      const Icon = G1_ICONS[q.question];
+                      return (
+                        <div className="ml-7" style={{ height: 84 }}>
+                          <div className="flex items-center gap-3 h-full">
+                            {/* Image */}
+                            <div className="shrink-0 rounded-xl border-2 border-slate-200 bg-white flex items-center justify-center" style={{ width: 72, height: 72 }}>
+                              {Icon ? (
+                                <div style={{ width: 52, height: 52 }}><Icon /></div>
+                              ) : (
+                                <span className="text-xs text-slate-400">{q.question}</span>
+                              )}
+                            </div>
+                            {/* Letter choices */}
+                            <div className="flex gap-2 flex-1">
+                              {q.options.map((letter, oi) => {
+                                const isSelected = userAnswerRaw === String(oi);
+                                const isRightAnswer = oi === q.correct;
+                                let cls = "border-slate-200 bg-white text-slate-600 hover:border-blue-300 hover:bg-blue-50 cursor-pointer";
+                                if (submitted) {
+                                  if (isRightAnswer) cls = "border-emerald-400 bg-emerald-50 text-emerald-700 cursor-default font-bold";
+                                  else if (isSelected && !isCorrect) cls = "border-red-400 bg-red-50 text-red-500 cursor-default line-through opacity-70";
+                                  else cls = "border-slate-100 bg-white text-slate-300 cursor-default opacity-50";
+                                } else if (isSelected) {
+                                  cls = "border-blue-400 bg-blue-50 text-blue-700 font-bold cursor-pointer ring-1 ring-blue-300";
+                                }
+                                return (
+                                  <button
+                                    key={oi}
+                                    onClick={() => !submitted && setPaperAnswers((prev) => ({ ...prev, [qi]: String(oi) }))}
+                                    disabled={submitted}
+                                    className={`flex-1 rounded-xl border-2 text-xl font-black transition-all ${cls}`}
+                                    style={{ height: 56 }}
+                                  >
+                                    {letter}
+                                  </button>
+                                );
+                              })}
+                            </div>
+                          </div>
+                        </div>
+                      );
+                    })()}
 
                     {/* Typing input — transparent, sits on a ruled line */}
                     {q.type === "typing" && (

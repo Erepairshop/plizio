@@ -39,7 +39,27 @@ export interface DeutschTyping {
   hint?: string;
 }
 
-export type DeutschQuestion = DeutschMCQ | DeutschTyping;
+/** Zeigt ein Wort an — Schüler klickt das passende Bild (4 image keys als Optionen) */
+export interface DeutschBildWort {
+  type: "bild-wort";
+  topic: string;
+  subtopic: string;
+  question: string;   // das Zielwort, z.B. "Hund"
+  options: string[];  // 4 image keys (aus G1_ICONS), correct zeigt auf den richtigen
+  correct: number;
+}
+
+/** Zeigt ein Bild an — Schüler wählt den Anfangsbuchstaben (4 letter options) */
+export interface DeutschAnlautBild {
+  type: "anlaut-bild";
+  topic: string;
+  subtopic: string;
+  question: string;   // image key (aus G1_ICONS), z.B. "hund"
+  options: string[];  // 4 Buchstaben-Optionen, z.B. ["H","K","S","B"]
+  correct: number;
+}
+
+export type DeutschQuestion = DeutschMCQ | DeutschTyping | DeutschBildWort | DeutschAnlautBild;
 
 export interface DeutschSubtopic {
   id: string;
@@ -1412,6 +1432,89 @@ answer: ["Zwie-bel", "zwie-bel"] },
 { type: "typing", topic: "saetze_k1", subtopic: "fehlende_woerter_k1", question: "Ergänze: Ich ___ das Fenster. (schließen)", answer: ["schließe"] },
           // TODO: weitere Fragen ↓
         ],
+      },
+    ],
+  },
+  // ─── BILDER & WÖRTER (visuelle Aufgaben) ──────────────────────────────────
+  {
+    id: "bilder_woerter",
+    name: "Bilder & Wörter",
+    icon: "🖼️",
+    color: "#00BCD4",
+    subtopics: [
+      {
+        id: "bild_wort",
+        name: "Bild-Wort-Zuordnung",
+        questions: [
+          // Show word → click correct image
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Hund",   options: ["hund","katze","baum","ball"],      correct: 0 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Katze",  options: ["hund","katze","vogel","frosch"],    correct: 1 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Fisch",  options: ["vogel","baum","fisch","pilz"],      correct: 2 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Vogel",  options: ["ball","mond","sonne","vogel"],      correct: 3 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Frosch", options: ["frosch","hund","katze","apfel"],    correct: 0 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Baum",   options: ["blume","baum","pilz","sonne"],      correct: 1 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Blume",  options: ["stern","blume","herz","mond"],      correct: 1 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Sonne",  options: ["mond","herz","stern","sonne"],      correct: 3 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Mond",   options: ["sonne","mond","stern","blume"],     correct: 1 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Pilz",   options: ["baum","blume","pilz","frosch"],     correct: 2 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Ball",   options: ["ball","apfel","schuh","buch"],      correct: 0 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Haus",   options: ["tisch","stuhl","auto","haus"],      correct: 3 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Auto",   options: ["auto","haus","tisch","stuhl"],      correct: 0 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Buch",   options: ["schuh","buch","apfel","ball"],      correct: 1 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Apfel",  options: ["buch","schuh","ball","apfel"],      correct: 3 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Tisch",  options: ["stuhl","auto","tisch","haus"],      correct: 2 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Stuhl",  options: ["stuhl","tisch","buch","schuh"],     correct: 0 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Schuh",  options: ["buch","apfel","stern","schuh"],     correct: 3 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Stern",  options: ["herz","sonne","stern","mond"],      correct: 2 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Herz",   options: ["stern","herz","blume","pilz"],      correct: 1 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Hund",   options: ["katze","baum","hund","auto"],       correct: 2 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Katze",  options: ["hund","vogel","frosch","katze"],    correct: 3 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Fisch",  options: ["fisch","katze","hund","baum"],      correct: 0 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Vogel",  options: ["frosch","vogel","fisch","pilz"],    correct: 1 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Baum",   options: ["pilz","mond","baum","blume"],       correct: 2 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Sonne",  options: ["sonne","herz","mond","stern"],      correct: 0 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Ball",   options: ["apfel","buch","ball","schuh"],      correct: 2 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Auto",   options: ["tisch","haus","stuhl","auto"],      correct: 3 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Apfel",  options: ["apfel","pilz","frosch","fisch"],    correct: 0 },
+          { type: "bild-wort", topic: "bilder_woerter", subtopic: "bild_wort", question: "Blume",  options: ["pilz","blume","baum","vogel"],      correct: 1 },
+        ] as DeutschQuestion[],
+      },
+      {
+        id: "anlaut_bild",
+        name: "Anlautbilder",
+        questions: [
+          // Show image → pick first letter
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "hund",  options: ["H","K","B","S"], correct: 0 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "katze", options: ["B","K","F","H"], correct: 1 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "fisch", options: ["V","P","F","B"], correct: 2 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "vogel", options: ["F","B","H","V"], correct: 3 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "baum",  options: ["B","H","K","T"], correct: 0 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "ball",  options: ["P","B","H","F"], correct: 1 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "haus",  options: ["A","K","H","B"], correct: 2 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "sonne", options: ["Z","T","B","S"], correct: 3 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "mond",  options: ["M","N","H","B"], correct: 0 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "blume", options: ["F","B","P","K"], correct: 1 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "auto",  options: ["E","U","A","O"], correct: 2 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "buch",  options: ["P","H","S","B"], correct: 3 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "apfel", options: ["A","E","I","O"], correct: 0 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "tisch", options: ["S","T","D","K"], correct: 1 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "stuhl", options: ["Z","K","S","B"], correct: 2 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "schuh", options: ["Z","K","B","S"], correct: 3 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "stern", options: ["S","T","B","K"], correct: 0 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "herz",  options: ["K","H","B","F"], correct: 1 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "pilz",  options: ["B","S","P","K"], correct: 2 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "frosch",options: ["B","K","H","F"], correct: 3 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "hund",  options: ["B","S","H","K"], correct: 2 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "katze", options: ["K","B","H","F"], correct: 0 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "fisch", options: ["P","F","V","B"], correct: 1 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "vogel", options: ["B","H","V","F"], correct: 2 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "baum",  options: ["T","K","H","B"], correct: 3 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "sonne", options: ["S","T","K","Z"], correct: 0 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "blume", options: ["P","B","F","K"], correct: 1 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "auto",  options: ["O","U","E","A"], correct: 3 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "apfel", options: ["E","O","A","I"], correct: 2 },
+          { type: "anlaut-bild", topic: "bilder_woerter", subtopic: "anlaut_bild", question: "herz",  options: ["F","H","B","K"], correct: 1 },
+        ] as DeutschQuestion[],
       },
     ],
   },
