@@ -73,6 +73,7 @@ import {
   type CountryConfig,
 } from "@/lib/mathLocale";
 import { getLanguage } from "@/lib/language";
+import { renderVisualPrintHtml } from "@/lib/printVisualHelpers";
 import {
   createTest as createSupabaseTest,
   startTest as startSupabaseTest,
@@ -1544,197 +1545,13 @@ export default function MathTestPage() {
             default: {
               // Visual block types — render sub-questions with print-friendly HTML
               if (block.type.startsWith('visual_')) {
-                const answerLabel = country?.code === 'DE' ? 'Deine Antwort' : country?.code === 'HU' ? 'Válaszod' : country?.code === 'RO' ? 'Răspunsul tău' : 'Your answer';
-                const formatPrice = (p: number) => p.toFixed(2).replace('.', ',') + ' \u20AC';
-                const ITEM_ICONS: Record<string, string> = {
-                  Apfel: '\uD83C\uDF4E', Apple: '\uD83C\uDF4E', Alma: '\uD83C\uDF4E',
-                  Brot: '\uD83C\uDF5E', Bread: '\uD83C\uDF5E', Keny\u00E9r: '\uD83C\uDF5E',
-                  Milch: '\uD83E\uDD5B', Milk: '\uD83E\uDD5B', Tej: '\uD83E\uDD5B',
-                  K\u00E4se: '\uD83E\uDDC0', Cheese: '\uD83E\uDDC0', Sajt: '\uD83E\uDDC0',
-                  Butter: '\uD83E\uDDC8', Vaj: '\uD83E\uDDC8',
-                  Banane: '\uD83C\uDF4C', Banana: '\uD83C\uDF4C',
-                  Ei: '\uD83E\uDD5A', Egg: '\uD83E\uDD5A',
-                  Schokolade: '\uD83C\uDF6B', Chocolate: '\uD83C\uDF6B',
-                };
                 block.subQuestions.forEach((sq, idx) => {
                   const p = sq.visualData?.params as Record<string, any>;
                   if (!p) return;
                   const label = String.fromCharCode(97 + idx) + ')';
                   blockHtml.push(`<div class="visual-sub" style="margin:8px 0; padding:8px 12px; background:rgba(255,255,255,0.6); border-radius:6px;">`);
                   blockHtml.push(`<div style="font-weight:700; font-size:10pt; color:#4b5563; margin-bottom:4px;">${label}</div>`);
-
-                  switch (sq.visualType) {
-                    case 'money': {
-                      const items = p.items as { name: string; price: number }[];
-                      const budget = p.budget as number;
-                      const mode = (p.mode as string) || 'total';
-                      const totalLabel = mode === 'total'
-                        ? (country?.code === 'DE' ? 'Summe' : country?.code === 'HU' ? '\u00D6sszeg' : country?.code === 'RO' ? 'Total' : 'Total')
-                        : (country?.code === 'DE' ? 'Wechselgeld' : country?.code === 'HU' ? 'Visszaj\u00E1r\u00F3' : country?.code === 'RO' ? 'Rest' : 'Change');
-                      const budgetLabel = country?.code === 'DE' ? 'Bezahlt' : country?.code === 'HU' ? 'Fizet\u00E9s' : country?.code === 'RO' ? 'Pl\u0103tit' : 'Paid';
-                      blockHtml.push('<div style="background:#f0fdf4; border:2px solid #bbf7d0; border-radius:10px; padding:10px 14px; margin-bottom:6px;">');
-                      items.forEach(item => {
-                        blockHtml.push(`<div style="display:flex; justify-content:space-between; padding:4px 0; font-size:11pt;"><span>${ITEM_ICONS[item.name] || ''} <b>${item.name}</b></span><span style="color:#15803d; font-weight:800;">${formatPrice(item.price)}</span></div>`);
-                      });
-                      if (mode === 'change') {
-                        blockHtml.push(`<div style="display:flex; justify-content:space-between; padding:6px 0 2px; border-top:1px solid #bbf7d0; font-size:11pt;"><span style="color:#6b7280; font-weight:700;">${budgetLabel}:</span><span style="color:#166534; font-weight:800; font-size:12pt;">${formatPrice(budget)}</span></div>`);
-                      }
-                      blockHtml.push('</div>');
-                      blockHtml.push(`<div style="text-align:center; font-size:11pt; margin-top:4px;"><b>${totalLabel}:</b> <span class="blank-line">________</span> \u20AC</div>`);
-                      break;
-                    }
-                    case 'grid-area': {
-                      const w = p.width as number;
-                      const h = p.height as number;
-                      const mode = p.mode as string;
-                      const modeLabel = mode === 'area'
-                        ? (country?.code === 'DE' ? 'Fl\u00E4che (K\u00E4stchen)' : country?.code === 'HU' ? 'Ter\u00FClet (n\u00E9gyzet)' : 'Area (squares)')
-                        : (country?.code === 'DE' ? 'Umfang (K\u00E4stchen)' : country?.code === 'HU' ? 'Ker\u00FClet (n\u00E9gyzet)' : 'Perimeter (squares)');
-                      const bLabel = country?.code === 'DE' ? 'Breite' : country?.code === 'HU' ? 'Sz\u00E9less\u00E9g' : 'Width';
-                      const hLabel = country?.code === 'DE' ? 'H\u00F6he' : country?.code === 'HU' ? 'Magass\u00E1g' : 'Height';
-                      const unitLabel = country?.code === 'DE' ? 'K\u00E4stchen' : country?.code === 'HU' ? 'n\u00E9gyzet' : 'squares';
-                      blockHtml.push(`<div style="text-align:center; margin-bottom:6px;"><span style="background:#fef3c7; padding:2px 10px; border-radius:6px; font-weight:700; font-size:10pt; color:#92400e;">${bLabel}: ${w} cm</span>&nbsp;&nbsp;<span style="background:#fef3c7; padding:2px 10px; border-radius:6px; font-weight:700; font-size:10pt; color:#92400e;">${hLabel}: ${h} cm</span></div>`);
-                      // Draw grid
-                      blockHtml.push('<div style="display:inline-block; margin:4px auto; border:1px solid #d1d5db;">');
-                      for (let r = 0; r < h; r++) {
-                        blockHtml.push('<div style="display:flex;">');
-                        for (let c = 0; c < w; c++) {
-                          blockHtml.push('<div style="width:22px; height:22px; border:1px solid #e5e7eb; background:rgba(255,255,255,0.5);"></div>');
-                        }
-                        blockHtml.push('</div>');
-                      }
-                      blockHtml.push('</div>');
-                      blockHtml.push(`<div style="text-align:center; font-size:11pt; margin-top:4px;"><b>${answerLabel}:</b> <span class="blank-line">________</span> ${unitLabel}</div>`);
-                      break;
-                    }
-                    case 'uhrzeit': {
-                      const th = p.targetHour as number;
-                      const tm = p.targetMinute as number;
-                      // Draw a simple clock SVG
-                      const hAngle = ((th % 12) + tm / 60) * 30 - 90;
-                      const mAngle = tm * 6 - 90;
-                      const hRad = hAngle * Math.PI / 180;
-                      const mRad = mAngle * Math.PI / 180;
-                      blockHtml.push(`<div style="text-align:center;"><svg width="100" height="100" viewBox="0 0 100 100"><circle cx="50" cy="50" r="45" fill="white" stroke="#374151" stroke-width="2"/>`);
-                      for (let i = 1; i <= 12; i++) {
-                        const a = (i * 30 - 90) * Math.PI / 180;
-                        const tx = 50 + 36 * Math.cos(a);
-                        const ty = 50 + 36 * Math.sin(a);
-                        blockHtml.push(`<text x="${tx}" y="${ty}" text-anchor="middle" dominant-baseline="central" font-size="9" font-weight="700" fill="#374151">${i}</text>`);
-                      }
-                      blockHtml.push(`<line x1="50" y1="50" x2="${50 + 22 * Math.cos(hRad)}" y2="${50 + 22 * Math.sin(hRad)}" stroke="#1a1a2e" stroke-width="3" stroke-linecap="round"/>`);
-                      blockHtml.push(`<line x1="50" y1="50" x2="${50 + 32 * Math.cos(mRad)}" y2="${50 + 32 * Math.sin(mRad)}" stroke="#374151" stroke-width="2" stroke-linecap="round"/>`);
-                      blockHtml.push('<circle cx="50" cy="50" r="3" fill="#1a1a2e"/></svg></div>');
-                      blockHtml.push(`<div style="text-align:center; font-size:11pt; margin-top:4px;"><b>${answerLabel}:</b> <span class="blank-line">________</span></div>`);
-                      break;
-                    }
-                    case 'zeichnen': {
-                      const target = p.targetLength as number;
-                      const drawLabel = country?.code === 'DE' ? `Zeichne eine Linie von ${target} cm.` : country?.code === 'HU' ? `Rajzolj egy ${target} cm vonalat!` : `Draw a line of ${target} cm.`;
-                      blockHtml.push(`<div style="font-size:11pt; margin-bottom:6px;">${drawLabel}</div>`);
-                      blockHtml.push('<div style="border-bottom:1px dashed #d1d5db; height:30px; margin:8px 0;"></div>');
-                      break;
-                    }
-                    case 'messen': {
-                      const target = p.targetLength as number;
-                      const measureLabel = country?.code === 'DE' ? 'Miss die Linie!' : country?.code === 'HU' ? 'M\u00E9rd meg a vonalat!' : 'Measure the line!';
-                      blockHtml.push(`<div style="font-size:11pt; margin-bottom:4px;">${measureLabel}</div>`);
-                      blockHtml.push(`<div style="border-bottom:3px solid #374151; width:${target * 20}px; margin:8px 0;"></div>`);
-                      blockHtml.push(`<div style="text-align:center; font-size:11pt; margin-top:4px;"><b>${answerLabel}:</b> <span class="blank-line">________</span> cm</div>`);
-                      break;
-                    }
-                    case 'sequence': {
-                      const seq = p.sequence as number[];
-                      const blanks = p.blanks as number;
-                      const rule = p.rule as string;
-                      const shown = seq.slice(0, seq.length - blanks).map(String);
-                      const blankArr = Array(blanks).fill('___');
-                      blockHtml.push(`<div style="font-size:12pt; font-family:monospace; letter-spacing:2px; margin:6px 0;">${[...shown, ...blankArr].join(', ')}</div>`);
-                      blockHtml.push(`<div style="color:#888; font-size:9pt;">(${rule})</div>`);
-                      break;
-                    }
-                    case 'timeline': {
-                      const start = p.startHour as number;
-                      const end = p.endHour as number;
-                      const events = p.events as { time: number; label: string }[];
-                      blockHtml.push('<div style="display:flex; align-items:center; gap:6px; margin:6px 0;">');
-                      events.forEach((ev, i) => {
-                        blockHtml.push(`<span style="font-size:10pt; font-weight:700;">${ev.time}:00 ${ev.label}</span>`);
-                        if (i < events.length - 1) blockHtml.push('<span style="color:#d1d5db;">\u2192</span>');
-                      });
-                      blockHtml.push('</div>');
-                      const durLabel = country?.code === 'DE' ? 'Dauer (Stunden)' : country?.code === 'HU' ? 'Id\u0151tartam (\u00F3ra)' : 'Duration (hours)';
-                      blockHtml.push(`<div style="font-size:11pt; margin-top:4px;"><b>${durLabel}:</b> <span class="blank-line">________</span></div>`);
-                      break;
-                    }
-                    case 'number-line': {
-                      const min = p.min as number;
-                      const max = p.max as number;
-                      const target = p.target as number;
-                      const roundLabel = country?.code === 'DE' ? 'Runde' : country?.code === 'HU' ? 'Kerek\u00EDtsd' : 'Round';
-                      blockHtml.push(`<div style="font-size:11pt; margin:4px 0;">${roundLabel}: <b>${target}</b> \u2192 <span class="blank-line">________</span></div>`);
-                      blockHtml.push(`<div style="font-size:9pt; color:#888;">(${min} \u2013 ${max})</div>`);
-                      break;
-                    }
-                    case 'fraction-pizza': {
-                      const num = p.numerator as number;
-                      const den = p.denominator as number;
-                      // Simple fraction circle SVG
-                      blockHtml.push('<div style="text-align:center;"><svg width="80" height="80" viewBox="0 0 80 80">');
-                      for (let i = 0; i < den; i++) {
-                        const startA = (i * 360 / den - 90) * Math.PI / 180;
-                        const endA = ((i + 1) * 360 / den - 90) * Math.PI / 180;
-                        const filled = i < num;
-                        const x1 = 40 + 35 * Math.cos(startA);
-                        const y1 = 40 + 35 * Math.sin(startA);
-                        const x2 = 40 + 35 * Math.cos(endA);
-                        const y2 = 40 + 35 * Math.sin(endA);
-                        const large = 360 / den > 180 ? 1 : 0;
-                        blockHtml.push(`<path d="M40,40 L${x1},${y1} A35,35 0 ${large},1 ${x2},${y2} Z" fill="${filled ? '#fbbf24' : '#f3f4f6'}" stroke="#374151" stroke-width="1.5"/>`);
-                      }
-                      blockHtml.push('</svg></div>');
-                      blockHtml.push(`<div style="text-align:center; font-size:11pt; margin-top:4px;"><b>${answerLabel}:</b> <span class="blank-line">________</span></div>`);
-                      break;
-                    }
-                    case 'place-value': {
-                      const number = p.number as number;
-                      blockHtml.push(`<div style="font-size:16pt; font-weight:900; text-align:center; letter-spacing:4px; margin:6px 0;">${number.toLocaleString()}</div>`);
-                      blockHtml.push(`<div style="text-align:center; font-size:11pt; margin-top:4px;"><b>${answerLabel}:</b> <span class="blank-line">________</span></div>`);
-                      break;
-                    }
-                    case 'angle': {
-                      const target = p.targetAngle as number;
-                      const drawLabel = country?.code === 'DE' ? `Zeichne einen Winkel von ${target}\u00B0.` : country?.code === 'HU' ? `Rajzolj ${target}\u00B0-os sz\u00F6get!` : `Draw a ${target}\u00B0 angle.`;
-                      blockHtml.push(`<div style="font-size:11pt;">${drawLabel}</div>`);
-                      blockHtml.push('<div style="height:50px; margin:6px 0;"></div>');
-                      break;
-                    }
-                    case 'circle-draw': {
-                      const radius = p.radius as number;
-                      const drawLabel = country?.code === 'DE' ? `Zeichne einen Kreis mit r = ${radius} cm.` : country?.code === 'HU' ? `Rajzolj k\u00F6rt r = ${radius} cm sug\u00E1rral!` : `Draw a circle with r = ${radius} cm.`;
-                      blockHtml.push(`<div style="font-size:11pt;">${drawLabel}</div>`);
-                      blockHtml.push('<div style="height:50px; margin:6px 0;"></div>');
-                      break;
-                    }
-                    case 'symmetry': {
-                      const gs = p.gridSize as number;
-                      const pattern = p.pattern as number[][];
-                      blockHtml.push('<div style="display:inline-block; margin:4px 0;">');
-                      for (let r = 0; r < gs; r++) {
-                        blockHtml.push('<div style="display:flex;">');
-                        for (let c = 0; c < gs; c++) {
-                          const filled = pattern[r]?.[c] === 1;
-                          blockHtml.push(`<div style="width:18px; height:18px; border:1px solid #d1d5db; background:${filled ? '#93c5fd' : 'white'};"></div>`);
-                        }
-                        blockHtml.push('</div>');
-                      }
-                      blockHtml.push('</div>');
-                      break;
-                    }
-                    default:
-                      blockHtml.push(`<div style="font-size:11pt;">${sq.question || ''}</div>`);
-                      blockHtml.push(`<div style="font-size:11pt; margin-top:4px;"><b>${answerLabel}:</b> <span class="blank-line">________</span></div>`);
-                  }
+                  blockHtml.push(renderVisualPrintHtml(sq.visualType, p, sq.question, country?.code));
                   blockHtml.push('</div>');
                 });
               }
