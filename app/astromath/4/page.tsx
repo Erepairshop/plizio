@@ -27,6 +27,9 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import FractionVisual from "@/app/astromath/games/FractionVisual";
 import EquationDrill from "@/app/astromath/games/EquationDrill";
 import ConceptExplorer from "@/app/astromath/games/ConceptExplorer";
+import PlaceValueExplorer from "@/app/astromath/games/PlaceValueExplorer";
+import DivisionExplorer from "@/app/astromath/games/DivisionExplorer";
+import AreaExplorer from "@/app/astromath/games/AreaExplorer";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -98,6 +101,12 @@ type Screen =
   | "fraction-visual"
   | "equation-drill"
   | "concept-explorer"
+  | "place-value-explorer"
+  | "division-explorer"
+  | "area-explorer"
+  | "word-problem-explorer"
+  | "unit-explorer"
+  | "angle-explorer"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -472,7 +481,8 @@ export default function AstroMathG4Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    if (mission.gameType === "number-duel" || mission.gameType === "gravity-sort" || mission.gameType === "fraction-visual" || mission.gameType === "concept-explorer") {
+    const noQuestionsTypes: string[] = ["number-duel", "gravity-sort", "fraction-visual", "concept-explorer", "place-value-explorer", "division-explorer", "area-explorer", "word-problem-explorer", "unit-explorer", "angle-explorer"];
+    if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
       return;
@@ -800,11 +810,20 @@ export default function AstroMathG4Page() {
         {screen === "concept-explorer" && (
           <ConceptExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "place-value-explorer" && (
+          <PlaceValueExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "division-explorer" && (
+          <DivisionExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "area-explorer" && (
+          <AreaExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "concept-explorer"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "concept-explorer", "place-value-explorer", "division-explorer", "area-explorer", "word-problem-explorer", "unit-explorer", "angle-explorer"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
