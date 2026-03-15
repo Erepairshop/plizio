@@ -465,6 +465,21 @@ function generateOptions(correct: number, minVal: number = 0): number[] {
   return shuffleArray([...opts]);
 }
 
+// ─── Unit conversion pedagogical distractors ─────────────────────────────────
+// Wrong answers = same n × different power of 10.
+// Forces students to know the actual conversion factor, not just pick the "round-looking" number.
+// Example: "3 km = ? m" → correct 3000, distractors [3, 30, 300, 30000]
+function unitD(n: number, factor: number): number[] {
+  if (factor === 60)   return [n * 6, n * 600, n * 100].filter(v => v > 0);
+  if (factor === 3600) return [n * 360, n * 36000, n * 60].filter(v => v > 0);
+  return [1, 10, 100, 1000, 10000].filter(p => p !== factor).map(p => n * p).filter(v => v > 0);
+}
+// For inverse conversions (e.g. 300 cm = ? m, correct = 3):
+// distractors = bigN ÷ (divisor/10), bigN itself, bigN × 10
+function unitDInv(bigN: number, divisor: number): number[] {
+  return [bigN / (divisor / 10), bigN, bigN * 10].filter(v => Number.isInteger(v) && v > 0);
+}
+
 function q(question: string, correctAnswer: number, topic: string, minOpt = 0, isWordProblem = false): MathQuestion {
   return { question, correctAnswer, options: generateOptions(correctAnswer, minOpt), topic, isWordProblem };
 }
@@ -960,10 +975,10 @@ const G2: Record<string, Generator> = {
       () => q(qHowManyMinInH(cc), 60, t("units", cc)),
     ])();
     return pick([
-      () => q(qHowManyCmInM(cc), 100, t("units", cc)),
-      () => q(qHowManyMinInH(cc), 60, t("units", cc)),
-      () => { const m = randInt(2, 5); return q(qMetersInCm(m, cc), m * 100, t("units", cc)); },
-      () => { const h = randInt(2, 3); return q(qHoursInMin(h, cc), h * 60, t("units", cc)); },
+      () => qd(qHowManyCmInM(cc), 100, t("units", cc), unitD(1, 100)),
+      () => qd(qHowManyMinInH(cc), 60, t("units", cc), unitD(1, 60)),
+      () => { const m = randInt(2, 5); return qd(qMetersInCm(m, cc), m * 100, t("units", cc), unitD(m, 100)); },
+      () => { const h = randInt(2, 3); return qd(qHoursInMin(h, cc), h * 60, t("units", cc), unitD(h, 60)); },
     ])();
   },
   ampmClock: (cc) => {
@@ -1116,8 +1131,8 @@ const G2: Record<string, Generator> = {
   },
   // ── Measurement ──
   weightGKg: (cc) => pick([
-    () => q(qHowManyGInKg(cc), 1000, t("weightGKg", cc)),
-    () => { const kg = randInt(2, 5); return q(qKgToG(kg, cc), kg * 1000, t("weightGKg", cc)); },
+    () => qd(qHowManyGInKg(cc), 1000, t("weightGKg", cc), unitD(1, 1000)),
+    () => { const kg = randInt(2, 5); return qd(qKgToG(kg, cc), kg * 1000, t("weightGKg", cc), unitD(kg, 1000)); },
   ])(),
   moneyEuroCent: (cc) => pick([
     () => q(qHowManyCentInEuro(cc), 100, t("moneyEuroCent", cc)),
@@ -1314,9 +1329,9 @@ const G2: Record<string, Generator> = {
   },
   // ── G2: Length unit conversions (cm ↔ m only) ──
   lengthConvert: (cc) => pick([
-    () => q(qHowManyCmInM(cc), 100, t("units", cc)),
-    () => { const m = randInt(2, 5); return q(qMetersInCm(m, cc), m * 100, t("units", cc)); },
-    () => { const cm = pick([200, 300, 400]); const lang = getLang(cc); const texts: Record<string, string> = { DE: `${cm} cm = ? m`, EN: `${cm} cm = ? m`, HU: `${cm} cm = ? m`, RO: `${cm} cm = ? m` }; return q(texts[lang] || texts.DE, cm / 100, t("units", cc)); },
+    () => qd(qHowManyCmInM(cc), 100, t("units", cc), unitD(1, 100)),
+    () => { const m = randInt(2, 5); return qd(qMetersInCm(m, cc), m * 100, t("units", cc), unitD(m, 100)); },
+    () => { const cm = pick([200, 300, 400]); const lang = getLang(cc); const texts: Record<string, string> = { DE: `${cm} cm = ? m`, EN: `${cm} cm = ? m`, HU: `${cm} cm = ? m`, RO: `${cm} cm = ? m` }; return qd(texts[lang] || texts.DE, cm / 100, t("units", cc), unitDInv(cm, 100)); },
   ])(),
   // ── G2: Length in cm (addition context) ──
   lengthMeasure: (cc) => {
@@ -1404,12 +1419,12 @@ const G3: Record<string, Generator> = {
       () => { const h = randInt(2, 3); return q(qHoursInMin(h, cc), h * 60, t("units", cc)); },
     ])();
     return pick([
-      () => q(qHowManyCmInM(cc), 100, t("units", cc)),
-      () => q(qHowManyGInKg(cc), 1000, t("units", cc)),
-      () => q(qHowManyMinInH(cc), 60, t("units", cc)),
-      () => { const m = randInt(2, 5); return q(qMetersInCm(m, cc), m * 100, t("units", cc)); },
-      () => { const h = randInt(2, 3); return q(qHoursInMin(h, cc), h * 60, t("units", cc)); },
-      () => q(qMlInL(cc), 1000, t("units", cc)),
+      () => qd(qHowManyCmInM(cc), 100, t("units", cc), unitD(1, 100)),
+      () => qd(qHowManyGInKg(cc), 1000, t("units", cc), unitD(1, 1000)),
+      () => qd(qHowManyMinInH(cc), 60, t("units", cc), unitD(1, 60)),
+      () => { const m = randInt(2, 5); return qd(qMetersInCm(m, cc), m * 100, t("units", cc), unitD(m, 100)); },
+      () => { const h = randInt(2, 3); return qd(qHoursInMin(h, cc), h * 60, t("units", cc), unitD(h, 60)); },
+      () => qd(qMlInL(cc), 1000, t("units", cc), unitD(1, 1000)),
     ])();
   },
   ampmClock: (cc) => {
@@ -1574,21 +1589,21 @@ const G3: Record<string, Generator> = {
   },
   // ─── G3: focused unit generators (length / weight / time) ────────────────
   lengthUnits: (cc) => pick([
-    () => q(qHowManyCmInM(cc), 100, t("units", cc)),
-    () => { const m = randInt(2, 6); return q(qMetersInCm(m, cc), m * 100, t("units", cc)); },
-    () => { const cm = pick([200, 300, 400, 500]); const lang = getLang(cc); const texts: Record<string, string> = { DE: `${cm} cm = ? m`, EN: `${cm} cm = ? m`, HU: `${cm} cm = ? m`, RO: `${cm} cm = ? m` }; return q(texts[lang] || texts.DE, cm / 100, t("units", cc)); },
-    () => q(qKmToM(1, cc), 1000, t("unitConversion", cc)),
-    () => { const km = randInt(2, 5); return q(qKmToM(km, cc), km * 1000, t("unitConversion", cc)); },
+    () => qd(qHowManyCmInM(cc), 100, t("units", cc), unitD(1, 100)),
+    () => { const m = randInt(2, 6); return qd(qMetersInCm(m, cc), m * 100, t("units", cc), unitD(m, 100)); },
+    () => { const cm = pick([200, 300, 400, 500]); const lang = getLang(cc); const texts: Record<string, string> = { DE: `${cm} cm = ? m`, EN: `${cm} cm = ? m`, HU: `${cm} cm = ? m`, RO: `${cm} cm = ? m` }; return qd(texts[lang] || texts.DE, cm / 100, t("units", cc), unitDInv(cm, 100)); },
+    () => qd(qKmToM(1, cc), 1000, t("unitConversion", cc), unitD(1, 1000)),
+    () => { const km = randInt(2, 5); return qd(qKmToM(km, cc), km * 1000, t("unitConversion", cc), unitD(km, 1000)); },
   ])(),
   weightUnits: (cc) => pick([
-    () => q(qHowManyGInKg(cc), 1000, t("units", cc)),
-    () => { const kg = randInt(2, 5); return q(qKgToG(kg, cc), kg * 1000, t("units", cc)); },
-    () => { const g = pick([2000, 3000, 4000, 5000]); const lang = getLang(cc); const texts: Record<string, string> = { DE: `${g} g = ? kg`, EN: `${g} g = ? kg`, HU: `${g} g = ? kg`, RO: `${g} g = ? kg` }; return q(texts[lang] || texts.DE, g / 1000, t("units", cc)); },
-    () => { const kg = randInt(6, 10); return q(qKgToG(kg, cc), kg * 1000, t("units", cc)); },
+    () => qd(qHowManyGInKg(cc), 1000, t("units", cc), unitD(1, 1000)),
+    () => { const kg = randInt(2, 5); return qd(qKgToG(kg, cc), kg * 1000, t("units", cc), unitD(kg, 1000)); },
+    () => { const g = pick([2000, 3000, 4000, 5000]); const lang = getLang(cc); const texts: Record<string, string> = { DE: `${g} g = ? kg`, EN: `${g} g = ? kg`, HU: `${g} g = ? kg`, RO: `${g} g = ? kg` }; return qd(texts[lang] || texts.DE, g / 1000, t("units", cc), unitDInv(g, 1000)); },
+    () => { const kg = randInt(6, 10); return qd(qKgToG(kg, cc), kg * 1000, t("units", cc), unitD(kg, 1000)); },
   ])(),
   timeUnits: (cc) => pick([
-    () => q(qHowManyMinInH(cc), 60, t("units", cc)),
-    () => { const h = randInt(2, 4); return q(qHoursInMin(h, cc), h * 60, t("units", cc)); },
+    () => qd(qHowManyMinInH(cc), 60, t("units", cc), unitD(1, 60)),
+    () => { const h = randInt(2, 4); return qd(qHoursInMin(h, cc), h * 60, t("units", cc), unitD(h, 60)); },
     () => { const lang = getLang(cc); const texts: Record<string, string> = { DE: "Wie viele Stunden hat ein Tag?", EN: "How many hours are in a day?", HU: "Hány óra van egy napban?", RO: "Câte ore are o zi?" }; return q(texts[lang] || texts.DE, 24, t("units", cc)); },
     () => { const lang = getLang(cc); const texts: Record<string, string> = { DE: "Wie viele Tage hat eine Woche?", EN: "How many days are in a week?", HU: "Hány nap van egy hétben?", RO: "Câte zile are o săptămână?" }; return q(texts[lang] || texts.DE, 7, t("units", cc)); },
   ])(),
@@ -1844,10 +1859,10 @@ const G4: Record<string, Generator> = {
       () => { const l = randInt(2, 5); return q(qLiterToMl(l, cc), l * 1000, t("unitConversion", cc)); },
     ])();
     return pick([
-      () => { const km = randInt(2, 9); return q(qKmToM(km, cc), km * 1000, t("unitConversion", cc)); },
-      () => { const tt = randInt(2, 5); return q(qTonToKg(tt, cc), tt * 1000, t("unitConversion", cc)); },
-      () => { const l = randInt(2, 8); return q(qLiterToDl(l, cc), l * 10, t("unitConversion", cc)); },
-      () => { const l = randInt(2, 5); return q(qLiterToMl(l, cc), l * 1000, t("unitConversion", cc)); },
+      () => { const km = randInt(2, 9); return qd(qKmToM(km, cc), km * 1000, t("unitConversion", cc), unitD(km, 1000)); },
+      () => { const tt = randInt(2, 5); return qd(qTonToKg(tt, cc), tt * 1000, t("unitConversion", cc), unitD(tt, 1000)); },
+      () => { const l = randInt(2, 8); return qd(qLiterToDl(l, cc), l * 10, t("unitConversion", cc), unitD(l, 10)); },
+      () => { const l = randInt(2, 5); return qd(qLiterToMl(l, cc), l * 1000, t("unitConversion", cc), unitD(l, 1000)); },
     ])();
   },
   volumeWord: (cc) => pick([
@@ -1974,9 +1989,9 @@ const G4: Record<string, Generator> = {
       ])();
     }
     return pick([
-      () => { const m = randInt(2, 9); return q(`${m} m = ? cm`, m * 100, t("unitConversion", cc)); },
-      () => { const cm = randInt(200, 1000); return q(`${cm} cm = ? m`, cm / 100, t("unitConversion", cc)); },
-      () => { const km = randInt(2, 5); return q(qKmToM(km, cc), km * 1000, t("unitConversion", cc)); },
+      () => { const m = randInt(2, 9); return qd(`${m} m = ? cm`, m * 100, t("unitConversion", cc), unitD(m, 100)); },
+      () => { const cm = randInt(2, 10) * 100; return qd(`${cm} cm = ? m`, cm / 100, t("unitConversion", cc), unitDInv(cm, 100)); },
+      () => { const km = randInt(2, 5); return qd(qKmToM(km, cc), km * 1000, t("unitConversion", cc), unitD(km, 1000)); },
     ])();
   },
   unitLengthsWord: (cc) => pick([
@@ -2488,9 +2503,9 @@ const G5: Record<string, Generator> = {
       ])();
     }
     return pick([
-      () => { const km = randInt(1, 8); return q(qKmToM(km, cc), km * 1000, t("unitConversion", cc)); },
-      () => { const m = randInt(2, 9); return q(qMetersInCm(m, cc), m * 100, t("unitConversion", cc)); },
-      () => { const n = randInt(1, 5) * 1000; const lang = getLang(cc); const prompts: Record<string,string> = { DE: `${n.toLocaleString("de-DE")} m = ? km`, EN: `${n.toLocaleString("en-US")} m = ? km`, HU: `${n.toLocaleString("de-DE")} m = ? km`, RO: `${n.toLocaleString("de-DE")} m = ? km` }; return q(prompts[lang] ?? prompts.EN, n / 1000, t("unitConversion", cc)); },
+      () => { const km = randInt(1, 8); return qd(qKmToM(km, cc), km * 1000, t("unitConversion", cc), unitD(km, 1000)); },
+      () => { const m = randInt(2, 9); return qd(qMetersInCm(m, cc), m * 100, t("unitConversion", cc), unitD(m, 100)); },
+      () => { const n = randInt(1, 5) * 1000; const lang = getLang(cc); const prompts: Record<string,string> = { DE: `${n.toLocaleString("de-DE")} m = ? km`, EN: `${n.toLocaleString("en-US")} m = ? km`, HU: `${n.toLocaleString("de-DE")} m = ? km`, RO: `${n.toLocaleString("de-DE")} m = ? km` }; return qd(prompts[lang] ?? prompts.EN, n / 1000, t("unitConversion", cc), unitDInv(n, 1000)); },
     ])();
   },
 
@@ -2503,9 +2518,9 @@ const G5: Record<string, Generator> = {
       ])();
     }
     return pick([
-      () => { const kg = randInt(1, 8); return q(qKgToG(kg, cc), kg * 1000, t("unitConversion", cc)); },
-      () => { const t2 = randInt(1, 5); return q(qTonToKg(t2, cc), t2 * 1000, t("unitConversion", cc)); },
-      () => { return q(qWeightConvert(randInt(1, 6) * 500, "g", "kg", cc), randInt(1, 6) * 500 / 1000, t("unitConversion", cc)); },
+      () => { const kg = randInt(1, 8); return qd(qKgToG(kg, cc), kg * 1000, t("unitConversion", cc), unitD(kg, 1000)); },
+      () => { const t2 = randInt(1, 5); return qd(qTonToKg(t2, cc), t2 * 1000, t("unitConversion", cc), unitD(t2, 1000)); },
+      () => { const g = randInt(1, 6) * 500; return qd(qWeightConvert(g, "g", "kg", cc), g / 1000, t("unitConversion", cc), unitDInv(g, 1000)); },
     ])();
   },
 
