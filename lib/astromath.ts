@@ -5,16 +5,22 @@ import { generateTopicQuestions, type MathQuestion } from "./mathCurriculum";
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
-export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hole" | "number-duel";
+export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hole" | "number-duel"
+  | "speed-round" | "fraction-visual" | "equation-drill" | "concept-explorer"
+  | "place-value-explorer" | "division-explorer" | "area-explorer"
+  | "word-problem-explorer" | "unit-explorer" | "angle-explorer";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }
+
+export type MissionCategory = "explore" | "build" | "challenge";
 
 export interface MissionDef {
   id: string;     // "m1" | "m2" | "m3"
   gameType: GameType;
   label: L10n;
   icon: string;
+  category?: MissionCategory;
 }
 
 export interface IslandDef {

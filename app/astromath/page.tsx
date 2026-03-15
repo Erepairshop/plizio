@@ -6,6 +6,12 @@ import { useLang } from "@/components/LanguageProvider";
 import { useState, useEffect } from "react";
 import { loadG1Progress } from "@/lib/astromath";
 import { loadG2Progress } from "@/lib/astromath2";
+import { loadG4Progress } from "@/lib/astromath4";
+import {
+  GRADE_PLANETS, PLANET_NAMES,
+  PlanetTerra, PlanetAquaria, PlanetIgnos, PlanetAureon,
+  PlanetVioletis, PlanetSaturnia, PlanetVerdis, PlanetCosmara,
+} from "@/app/astromath/planets";
 
 // ─── Starfield ─────────────────────────────────────────────────────────────────
 const STARS = Array.from({ length: 60 }, (_, i) => ({
@@ -26,15 +32,16 @@ function Starfield() {
 }
 
 // ─── Grade definitions ─────────────────────────────────────────────────────────
+// Planet component stored alongside grade data
 const GRADES = [
-  { grade: 1, icon: "🌍", color: "#4ECDC4", glow: "rgba(78,205,196,0.5)",  route: "/astromath/1", available: true  },
-  { grade: 2, icon: "🔵", color: "#00D4FF", glow: "rgba(0,212,255,0.4)",   route: "/astromath/2", available: true  },
-  { grade: 3, icon: "🔴", color: "#FF6B6B", glow: "rgba(255,107,107,0.4)", route: null,           available: false },
-  { grade: 4, icon: "🟡", color: "#FFD700", glow: "rgba(255,215,0,0.4)",   route: null,           available: false },
-  { grade: 5, icon: "🟣", color: "#B44DFF", glow: "rgba(180,77,255,0.4)",  route: null,           available: false },
-  { grade: 6, icon: "🟠", color: "#FF9500", glow: "rgba(255,149,0,0.4)",   route: null,           available: false },
-  { grade: 7, icon: "🟢", color: "#10B981", glow: "rgba(16,185,129,0.4)",  route: null,           available: false },
-  { grade: 8, icon: "⭐", color: "#E879F9", glow: "rgba(232,121,249,0.4)", route: null,           available: false },
+  { grade: 1, Planet: PlanetTerra,    color: "#4ECDC4", glow: "rgba(78,205,196,0.5)",  route: "/astromath/1", available: true  },
+  { grade: 2, Planet: PlanetAquaria,  color: "#00D4FF", glow: "rgba(0,212,255,0.4)",   route: "/astromath/2", available: true  },
+  { grade: 3, Planet: PlanetIgnos,    color: "#FF6B6B", glow: "rgba(255,107,107,0.4)", route: null,           available: false },
+  { grade: 4, Planet: PlanetAureon,   color: "#FFD700", glow: "rgba(255,215,0,0.4)",   route: "/astromath/4", available: true  },
+  { grade: 5, Planet: PlanetVioletis, color: "#B44DFF", glow: "rgba(180,77,255,0.4)",  route: null,           available: false },
+  { grade: 6, Planet: PlanetSaturnia, color: "#FF9500", glow: "rgba(255,149,0,0.4)",   route: null,           available: false },
+  { grade: 7, Planet: PlanetVerdis,   color: "#10B981", glow: "rgba(16,185,129,0.4)",  route: null,           available: false },
+  { grade: 8, Planet: PlanetCosmara,  color: "#E879F9", glow: "rgba(232,121,249,0.4)", route: null,           available: false },
 ];
 
 const T = {
@@ -48,14 +55,18 @@ export default function AstroMathGalaxyPage() {
   const { lang } = useLang();
   const router = useRouter();
   const t = T[lang as keyof typeof T] ?? T.en;
+  const planetNames = PLANET_NAMES[lang] ?? PLANET_NAMES.en;
   const [g1Done, setG1Done] = useState(0);
   const [g2Done, setG2Done] = useState(0);
+  const [g4Done, setG4Done] = useState(0);
 
   useEffect(() => {
     const p1 = loadG1Progress();
     const p2 = loadG2Progress();
+    const p4 = loadG4Progress();
     setG1Done(p1.completedIslands.length);
     setG2Done(p2.completedIslands.length);
+    setG4Done(p4.completedIslands.length);
   }, []);
 
   return (
@@ -77,8 +88,9 @@ export default function AstroMathGalaxyPage() {
       <div className="relative z-10 flex-1 px-4 pb-6 mt-2">
         <div className="grid grid-cols-2 gap-3 max-w-sm mx-auto">
           {GRADES.map((g) => {
-            const progress = g.grade === 1 ? g1Done : g.grade === 2 ? g2Done : 0;
+            const progress = g.grade === 1 ? g1Done : g.grade === 2 ? g2Done : g.grade === 4 ? g4Done : 0;
             const total = 9;
+            const planetName = planetNames[g.grade - 1] ?? "";
             return (
               <motion.button key={g.grade}
                 onClick={() => g.available && g.route && router.push(g.route)}
@@ -92,25 +104,34 @@ export default function AstroMathGalaxyPage() {
                   opacity: g.available ? 1 : 0.45,
                 }}
                 whileTap={g.available ? { scale: 0.96 } : {}}>
-                <motion.div className="w-16 h-16 rounded-full flex items-center justify-center text-3xl"
+                {/* Planet or Lock */}
+                <motion.div className="w-16 h-16 rounded-full flex items-center justify-center relative"
                   style={{
-                    background: g.available ? `radial-gradient(circle, ${g.color}33, transparent)` : "rgba(255,255,255,0.05)",
+                    background: g.available ? `radial-gradient(circle, ${g.color}22, transparent)` : "rgba(255,255,255,0.04)",
                     boxShadow: g.available ? `0 0 20px ${g.glow}` : "none",
                   }}
-                  animate={g.available ? { boxShadow: [`0 0 15px ${g.glow}`, `0 0 30px ${g.glow}`, `0 0 15px ${g.glow}`] } : {}}
+                  animate={g.available ? { boxShadow: [`0 0 14px ${g.glow}`, `0 0 28px ${g.glow}`, `0 0 14px ${g.glow}`] } : {}}
                   transition={{ duration: 2.5, repeat: Infinity }}>
-                  {g.available ? g.icon : <Lock size={20} className="text-white/25" />}
+                  {g.available
+                    ? <g.Planet size={52} />
+                    : <Lock size={20} className="text-white/25" />
+                  }
                 </motion.div>
+                {/* Labels */}
                 <div className="text-center">
                   <div className="font-black text-sm" style={{ color: g.available ? g.color : "rgba(255,255,255,0.25)" }}>
                     {t.grade} {g.grade}
                   </div>
+                  {g.available && (
+                    <div className="text-[10px] font-bold mt-0.5" style={{ color: g.color + "99" }}>{planetName}</div>
+                  )}
                   {g.available ? (
                     <div className="text-[10px] text-white/40 mt-0.5 font-medium">{progress}/{total} {t.islands}</div>
                   ) : (
                     <div className="text-[10px] text-white/25 mt-0.5">{t.comingSoon}</div>
                   )}
                 </div>
+                {/* Progress bar */}
                 {g.available && (
                   <div className="w-full h-1 bg-white/10 rounded-full overflow-hidden">
                     <motion.div className="h-full rounded-full" style={{ background: g.color }}
