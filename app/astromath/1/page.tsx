@@ -23,6 +23,8 @@ import GravitySort from "@/app/astromath/games/GravitySort";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import NumberDuel from "@/app/astromath/games/NumberDuel";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
+import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
+import MissingNumber from "@/app/astromath/games/MissingNumber";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -43,6 +45,8 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "number-duel"
+  | "true-false-blitz"
+  | "missing-number"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -451,8 +455,8 @@ export default function AstroMathG1Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    if (mission.gameType === "number-duel" || mission.gameType === "gravity-sort") {
-      // No questions needed — uses sortRange directly
+    if (["number-duel", "gravity-sort", "true-false-blitz", "missing-number"].includes(mission.gameType)) {
+      // No pre-generated questions needed — these games generate internally
       setQuestions([]);
       setScreen(mission.gameType as Screen);
       return;
@@ -747,11 +751,20 @@ export default function AstroMathG1Page() {
         {screen === "number-duel" && activeIsland && (
           <NumberDuel sortRange={activeIsland.sortRange} color={bgColor} onDone={handleMissionDone} />
         )}
+        {screen === "true-false-blitz" && activeIsland && (
+          <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor}
+            onDone={handleMissionDone} timerSeconds={0} lang={lang} />
+        )}
+        {screen === "missing-number" && activeIsland && (
+          <MissingNumber topicKeys={activeIsland.topicKeys} color={bgColor}
+            onDone={handleMissionDone} lang={lang} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel",
+    "true-false-blitz", "missing-number"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

@@ -8,7 +8,8 @@ import { generateTopicQuestions, type MathQuestion } from "./mathCurriculum";
 export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hole" | "number-duel"
   | "speed-round" | "fraction-visual" | "equation-drill" | "concept-explorer"
   | "place-value-explorer" | "division-explorer" | "area-explorer"
-  | "word-problem-explorer" | "unit-explorer" | "angle-explorer";
+  | "word-problem-explorer" | "unit-explorer" | "angle-explorer"
+  | "true-false-blitz" | "chain-calc" | "missing-number";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }
@@ -77,9 +78,9 @@ export const G1_ISLANDS: IslandDef[] = [
     icon: "🔢", color: "#4ECDC4", sortRange: [1, 10],
     topicKeys: ["g1_count", "g1_compare", "g1_pos"],
     missions: [
-      { id: "m1", gameType: "orbit-quiz",   icon: "🚀", label: { en: "Number Quiz",    hu: "Számkvíz",        de: "Zahlenquiz",     ro: "Quiz numere"   } },
-      { id: "m2", gameType: "number-duel",  icon: "⚔️", label: { en: "Number Duel",    hu: "Szám-párharc",    de: "Zahlen-Duell",   ro: "Duel numere"   } },
-      { id: "m3", gameType: "star-match",   icon: "⭐", label: { en: "Star Match",     hu: "Csillagpárosítás", de: "Sternenpaare",   ro: "Perechi stele" } },
+      { id: "m1", gameType: "orbit-quiz",       category: "explore",   icon: "🔭", label: { en: "Number Quiz",    hu: "Számkvíz",         de: "Zahlenquiz",      ro: "Quiz numere"    } },
+      { id: "m2", gameType: "number-duel",      category: "build",     icon: "⚔️", label: { en: "Number Duel",    hu: "Szám-párharc",     de: "Zahlen-Duell",    ro: "Duel numere"    } },
+      { id: "m3", gameType: "true-false-blitz", category: "challenge", icon: "⚡", label: { en: "True or False?", hu: "Igaz vagy hamis?", de: "Wahr oder Falsch?", ro: "Adevărat/Fals?" } },
     ],
     svgX: 160, svgY: 530,
   },
@@ -89,9 +90,9 @@ export const G1_ISLANDS: IslandDef[] = [
     icon: "➕", color: "#00D4FF", sortRange: [1, 10],
     topicKeys: ["g1_tausch", "g1_zahlzerlegung", "add10"],
     missions: [
-      { id: "m1", gameType: "orbit-quiz", icon: "🚀", label: { en: "Add Quiz",    hu: "Összeadás kvíz",  de: "Additionsquiz",  ro: "Quiz adunare"  } },
-      { id: "m2", gameType: "black-hole", icon: "🕳️", label: { en: "Black Hole",  hu: "Fekete lyuk",     de: "Schwarzes Loch", ro: "Gaura neagră"  } },
-      { id: "m3", gameType: "star-match", icon: "⭐", label: { en: "Star Match",  hu: "Csillagpárosítás", de: "Sternenpaare",  ro: "Perechi stele" } },
+      { id: "m1", gameType: "orbit-quiz",    category: "explore",   icon: "🔭", label: { en: "Add Quiz",       hu: "Összeadás kvíz",  de: "Additionsquiz",   ro: "Quiz adunare"   } },
+      { id: "m2", gameType: "star-match",    category: "build",     icon: "⭐", label: { en: "Star Match",     hu: "Csillagpárosítás", de: "Sternenpaare",   ro: "Perechi stele"  } },
+      { id: "m3", gameType: "missing-number",category: "challenge", icon: "❓", label: { en: "What's Missing?", hu: "Mi hiányzik?",    de: "Was fehlt?",      ro: "Ce lipsește?"   } },
     ],
     svgX: 80, svgY: 440,
   },
@@ -101,9 +102,9 @@ export const G1_ISLANDS: IslandDef[] = [
     icon: "➖", color: "#FF6B6B", sortRange: [1, 10],
     topicKeys: ["sub10", "g1_ergaenzen"],
     missions: [
-      { id: "m1", gameType: "orbit-quiz", icon: "🚀", label: { en: "Sub Quiz",    hu: "Kivonás kvíz",    de: "Subtraktionsquiz", ro: "Quiz scădere"  } },
-      { id: "m2", gameType: "black-hole", icon: "🕳️", label: { en: "Black Hole",  hu: "Fekete lyuk",     de: "Schwarzes Loch",   ro: "Gaura neagră"  } },
-      { id: "m3", gameType: "star-match", icon: "⭐", label: { en: "Star Match",  hu: "Csillagpárosítás", de: "Sternenpaare",    ro: "Perechi stele" } },
+      { id: "m1", gameType: "orbit-quiz",    category: "explore",   icon: "🔭", label: { en: "Sub Quiz",       hu: "Kivonás kvíz",    de: "Subtraktionsquiz", ro: "Quiz scădere"   } },
+      { id: "m2", gameType: "black-hole",    category: "build",     icon: "🕳️", label: { en: "Black Hole",     hu: "Fekete lyuk",     de: "Schwarzes Loch",   ro: "Gaura neagră"   } },
+      { id: "m3", gameType: "missing-number",category: "challenge", icon: "❓", label: { en: "What's Missing?", hu: "Mi hiányzik?",    de: "Was fehlt?",       ro: "Ce lipsește?"   } },
     ],
     svgX: 240, svgY: 360,
   },
@@ -113,9 +114,9 @@ export const G1_ISLANDS: IslandDef[] = [
     icon: "✌️", color: "#B44DFF", sortRange: [1, 18],
     topicKeys: ["g1_verdoppeln", "g1_halbieren"],
     missions: [
-      { id: "m1", gameType: "orbit-quiz", icon: "🚀", label: { en: "Double Quiz",  hu: "Dupla kvíz",     de: "Verdoppeln Quiz", ro: "Quiz dublare"  } },
-      { id: "m2", gameType: "star-match", icon: "⭐", label: { en: "Star Match",   hu: "Csillagpárosítás", de: "Sternenpaare", ro: "Perechi stele"   } },
-      { id: "m3", gameType: "black-hole", icon: "🕳️", label: { en: "Black Hole",   hu: "Fekete lyuk",    de: "Schwarzes Loch", ro: "Gaura neagră"   } },
+      { id: "m1", gameType: "orbit-quiz",       category: "explore",   icon: "🔭", label: { en: "Double Quiz",     hu: "Dupla kvíz",      de: "Verdoppeln Quiz",  ro: "Quiz dublare"   } },
+      { id: "m2", gameType: "star-match",       category: "build",     icon: "⭐", label: { en: "Star Match",      hu: "Csillagpárosítás", de: "Sternenpaare",    ro: "Perechi stele"  } },
+      { id: "m3", gameType: "true-false-blitz", category: "challenge", icon: "⚡", label: { en: "True or False?",  hu: "Igaz vagy hamis?", de: "Wahr oder Falsch?", ro: "Adevărat/Fals?" } },
     ],
     svgX: 90, svgY: 270,
   },
@@ -125,9 +126,9 @@ export const G1_ISLANDS: IslandDef[] = [
     icon: "🔟", color: "#00FF88", sortRange: [11, 20],
     topicKeys: ["g1_num1120", "g1_place_value20", "g1_sequence"],
     missions: [
-      { id: "m1", gameType: "orbit-quiz",   icon: "🚀", label: { en: "Numbers Quiz",   hu: "Számkvíz",     de: "Zahlenquiz",       ro: "Quiz numere"    } },
-      { id: "m2", gameType: "number-duel",  icon: "⚔️", label: { en: "Number Duel",    hu: "Szám-párharc", de: "Zahlen-Duell",     ro: "Duel numere"    } },
-      { id: "m3", gameType: "black-hole",   icon: "🕳️", label: { en: "Black Hole",     hu: "Fekete lyuk",  de: "Schwarzes Loch",   ro: "Gaura neagră"   } },
+      { id: "m1", gameType: "orbit-quiz",    category: "explore",   icon: "🔭", label: { en: "Numbers Quiz",    hu: "Számkvíz",        de: "Zahlenquiz",      ro: "Quiz numere"    } },
+      { id: "m2", gameType: "number-duel",   category: "build",     icon: "⚔️", label: { en: "Number Duel",    hu: "Szám-párharc",    de: "Zahlen-Duell",    ro: "Duel numere"    } },
+      { id: "m3", gameType: "missing-number",category: "challenge", icon: "❓", label: { en: "What's Missing?", hu: "Mi hiányzik?",    de: "Was fehlt?",      ro: "Ce lipsește?"   } },
     ],
     svgX: 220, svgY: 195,
   },
@@ -137,9 +138,9 @@ export const G1_ISLANDS: IslandDef[] = [
     icon: "📖", color: "#FFD700", sortRange: [1, 20],
     topicKeys: ["word", "add20", "sub20"],
     missions: [
-      { id: "m1", gameType: "orbit-quiz", icon: "🚀", label: { en: "Story Quiz A",  hu: "Szöveges A",    de: "Sachaufgaben A",  ro: "Probleme A"    } },
-      { id: "m2", gameType: "orbit-quiz", icon: "🚀", label: { en: "Story Quiz B",  hu: "Szöveges B",    de: "Sachaufgaben B",  ro: "Probleme B"    } },
-      { id: "m3", gameType: "star-match", icon: "⭐", label: { en: "Star Match",    hu: "Csillagpárosítás", de: "Sternenpaare", ro: "Perechi stele" } },
+      { id: "m1", gameType: "orbit-quiz",       category: "explore",   icon: "🔭", label: { en: "Story Quiz",     hu: "Szöveges kvíz",    de: "Sachaufgaben",    ro: "Probleme"       } },
+      { id: "m2", gameType: "black-hole",       category: "build",     icon: "🕳️", label: { en: "Black Hole",     hu: "Fekete lyuk",      de: "Schwarzes Loch",  ro: "Gaura neagră"   } },
+      { id: "m3", gameType: "true-false-blitz", category: "challenge", icon: "⚡", label: { en: "True or False?", hu: "Igaz vagy hamis?", de: "Wahr oder Falsch?", ro: "Adevărat/Fals?" } },
     ],
     svgX: 100, svgY: 125,
   },
@@ -149,9 +150,9 @@ export const G1_ISLANDS: IslandDef[] = [
     icon: "🔷", color: "#10B981", sortRange: [0, 6],
     topicKeys: ["g1_shapes", "g1_spatial", "g1_pattern"],
     missions: [
-      { id: "m1", gameType: "orbit-quiz", icon: "🚀", label: { en: "Shapes Quiz",   hu: "Alakzat kvíz",  de: "Formenquiz",     ro: "Quiz forme"    } },
-      { id: "m2", gameType: "star-match", icon: "⭐", label: { en: "Star Match",    hu: "Csillagpárosítás", de: "Sternenpaare", ro: "Perechi stele" } },
-      { id: "m3", gameType: "gravity-sort", icon: "🌪️", label: { en: "Sort Shapes", hu: "Alakzat rendezés", de: "Formen sortieren", ro: "Sortare forme" } },
+      { id: "m1", gameType: "orbit-quiz",   category: "explore",   icon: "🔭", label: { en: "Shapes Quiz",   hu: "Alakzat kvíz",     de: "Formenquiz",       ro: "Quiz forme"     } },
+      { id: "m2", gameType: "star-match",   category: "build",     icon: "⭐", label: { en: "Star Match",    hu: "Csillagpárosítás", de: "Sternenpaare",     ro: "Perechi stele"  } },
+      { id: "m3", gameType: "gravity-sort", category: "challenge", icon: "🌪️", label: { en: "Sort Numbers",  hu: "Számrendezés",     de: "Zahlen sortieren", ro: "Sortează"       } },
     ],
     svgX: 230, svgY: 55,
   },
@@ -161,9 +162,9 @@ export const G1_ISLANDS: IslandDef[] = [
     icon: "📏", color: "#FF9500", sortRange: [1, 15],
     topicKeys: ["g1_clock", "g1_coins", "g1_weight", "g1_volume", "g1_laenger", "g1_wochentage"],
     missions: [
-      { id: "m1", gameType: "orbit-quiz", icon: "🚀", label: { en: "Measure Quiz",  hu: "Mérés kvíz",    de: "Messquiz",       ro: "Quiz măsurare" } },
-      { id: "m2", gameType: "star-match", icon: "⭐", label: { en: "Star Match",    hu: "Csillagpárosítás", de: "Sternenpaare", ro: "Perechi stele" } },
-      { id: "m3", gameType: "black-hole", icon: "🕳️", label: { en: "Black Hole",   hu: "Fekete lyuk",   de: "Schwarzes Loch", ro: "Gaura neagră"  } },
+      { id: "m1", gameType: "orbit-quiz", category: "explore",   icon: "🔭", label: { en: "Measure Quiz",  hu: "Mérés kvíz",       de: "Messquiz",       ro: "Quiz măsurare"  } },
+      { id: "m2", gameType: "star-match", category: "build",     icon: "⭐", label: { en: "Star Match",    hu: "Csillagpárosítás", de: "Sternenpaare",   ro: "Perechi stele"  } },
+      { id: "m3", gameType: "black-hole", category: "challenge", icon: "🕳️", label: { en: "Black Hole",   hu: "Fekete lyuk",      de: "Schwarzes Loch", ro: "Gaura neagră"   } },
     ],
     svgX: 80, svgY: -20,
   },
@@ -173,9 +174,9 @@ export const G1_ISLANDS: IslandDef[] = [
     icon: "📊", color: "#E879F9", sortRange: [1, 20],
     topicKeys: ["g1_data", "g1_sequence", "word"],
     missions: [
-      { id: "m1", gameType: "orbit-quiz",   icon: "🚀", label: { en: "Data Quiz",    hu: "Adat kvíz",     de: "Datenquiz",       ro: "Quiz date"      } },
-      { id: "m2", gameType: "gravity-sort", icon: "🌪️", label: { en: "Sort Numbers", hu: "Számrendezés",  de: "Zahlen sortieren", ro: "Sortează"       } },
-      { id: "m3", gameType: "star-match",   icon: "⭐", label: { en: "Star Match",   hu: "Csillagpárosítás", de: "Sternenpaare",  ro: "Perechi stele"  } },
+      { id: "m1", gameType: "orbit-quiz",       category: "explore",   icon: "🔭", label: { en: "Data Quiz",      hu: "Adat kvíz",        de: "Datenquiz",        ro: "Quiz date"      } },
+      { id: "m2", gameType: "gravity-sort",     category: "build",     icon: "🌪️", label: { en: "Sort Numbers",   hu: "Számrendezés",     de: "Zahlen sortieren", ro: "Sortează"       } },
+      { id: "m3", gameType: "true-false-blitz", category: "challenge", icon: "⚡", label: { en: "True or False?", hu: "Igaz vagy hamis?", de: "Wahr oder Falsch?", ro: "Adevărat/Fals?" } },
     ],
     svgX: 190, svgY: -90,
   },

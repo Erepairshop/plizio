@@ -55,7 +55,7 @@ export const G4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "concept-explorer", icon: "🔍", label: { en: "Discover Arrays",  hu: "Felfedezés",      de: "Entdecken",        ro: "Descoperire"    } },
       { id: "m2", category: "build",     gameType: "equation-drill",   icon: "🧮", label: { en: "Equation Drill",   hu: "Egyenlet drill",  de: "Gleichungs-Drill", ro: "Ecuații"        } },
-      { id: "m3", category: "challenge", gameType: "speed-round",      icon: "⚡", label: { en: "Speed Round",      hu: "Gyors kör",       de: "Speedrunde",       ro: "Rundă rapidă"  } },
+      { id: "m3", category: "challenge", gameType: "chain-calc",    icon: "🔗", label: { en: "Chain Calc",      hu: "Láncszámítás",    de: "Kettenrechnen",    ro: "Calcul în lanț" } },
     ],
     svgX: 80, svgY: 440,
   },
@@ -67,7 +67,7 @@ export const G4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "division-explorer", icon: "🔍", label: { en: "Discover Division",  hu: "Osztás felfedezése", de: "Division entdecken",     ro: "Descoperă împărțirea" } },
       { id: "m2", category: "build",     gameType: "equation-drill",    icon: "🧮", label: { en: "Equation Drill",    hu: "Egyenlet drill",     de: "Gleichungs-Drill",       ro: "Ecuații"              } },
-      { id: "m3", category: "challenge", gameType: "speed-round",       icon: "⚡", label: { en: "Speed Round",       hu: "Gyors kör",          de: "Speedrunde",             ro: "Rundă rapidă"         } },
+      { id: "m3", category: "challenge", gameType: "missing-number",    icon: "🧩", label: { en: "What's Missing?",  hu: "Mi hiányzik?",       de: "Was fehlt?",             ro: "Ce lipsește?"         } },
     ],
     svgX: 240, svgY: 360,
   },
@@ -115,7 +115,7 @@ export const G4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "unit-explorer",  icon: "🔍", label: { en: "Discover Conversions", hu: "Átváltások felfedezése", de: "Umrechnungen entdecken", ro: "Descoperă conversiile" } },
       { id: "m2", category: "build",     gameType: "orbit-quiz",     icon: "🚀", label: { en: "Units Quiz",          hu: "Mértékegység kvíz",     de: "Einheitenquiz",          ro: "Quiz unități"          } },
-      { id: "m3", category: "challenge", gameType: "speed-round",    icon: "⚡", label: { en: "Speed Round",         hu: "Gyors kör",             de: "Speedrunde",             ro: "Rundă rapidă"          } },
+      { id: "m3", category: "challenge", gameType: "true-false-blitz", icon: "🎯", label: { en: "True or False?",   hu: "Igaz vagy Hamis?",      de: "Wahr oder Falsch?",      ro: "Adevărat sau Fals?"    } },
     ],
     svgX: 230, svgY: 55,
   },
@@ -127,7 +127,7 @@ export const G4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "angle-explorer", icon: "🔍", label: { en: "Discover Angles",   hu: "Szögek felfedezése", de: "Winkel entdecken",   ro: "Descoperă unghiurile" } },
       { id: "m2", category: "build",     gameType: "star-match",     icon: "⭐", label: { en: "Star Match",       hu: "Csillagpárosítás",   de: "Sternenpaare",       ro: "Perechi stele"        } },
-      { id: "m3", category: "challenge", gameType: "black-hole",     icon: "🕳️", label: { en: "Black Hole",       hu: "Fekete lyuk",         de: "Schwarzes Loch",     ro: "Gaura neagră"         } },
+      { id: "m3", category: "challenge", gameType: "true-false-blitz", icon: "🎯", label: { en: "True or False?",   hu: "Igaz vagy Hamis?",    de: "Wahr oder Falsch?",  ro: "Adevărat sau Fals?"   } },
     ],
     svgX: 80, svgY: -20,
   },
@@ -139,7 +139,7 @@ export const G4_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🚀", label: { en: "Final Quiz",     hu: "Záró kvíz",       de: "Finalquiz",        ro: "Quiz final"    } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { en: "Star Match",     hu: "Csillagpárosítás", de: "Sternenpaare",    ro: "Perechi stele" } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { en: "Speed Round",    hu: "Gyors kör",       de: "Speedrunde",       ro: "Rundă rapidă"  } },
+      { id: "m3", category: "challenge", gameType: "chain-calc",  icon: "🔗", label: { en: "Chain Calc",    hu: "Láncszámítás",    de: "Kettenrechnen",    ro: "Calcul în lanț" } },
     ],
     svgX: 190, svgY: -90,
   },

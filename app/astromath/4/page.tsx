@@ -33,6 +33,9 @@ import AreaExplorer from "@/app/astromath/games/AreaExplorer";
 import WordProblemExplorer from "@/app/astromath/games/WordProblemExplorer";
 import UnitExplorer from "@/app/astromath/games/UnitExplorer";
 import AngleExplorer from "@/app/astromath/games/AngleExplorer";
+import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
+import ChainCalc from "@/app/astromath/games/ChainCalc";
+import MissingNumber from "@/app/astromath/games/MissingNumber";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -110,6 +113,9 @@ type Screen =
   | "word-problem-explorer"
   | "unit-explorer"
   | "angle-explorer"
+  | "true-false-blitz"
+  | "chain-calc"
+  | "missing-number"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -484,7 +490,7 @@ export default function AstroMathG4Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const noQuestionsTypes: string[] = ["number-duel", "gravity-sort", "fraction-visual", "concept-explorer", "place-value-explorer", "division-explorer", "area-explorer", "word-problem-explorer", "unit-explorer", "angle-explorer"];
+    const noQuestionsTypes: string[] = ["number-duel", "gravity-sort", "fraction-visual", "concept-explorer", "place-value-explorer", "division-explorer", "area-explorer", "word-problem-explorer", "unit-explorer", "angle-explorer", "true-false-blitz", "chain-calc", "missing-number"];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -831,11 +837,20 @@ export default function AstroMathG4Page() {
         {screen === "angle-explorer" && (
           <AngleExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "true-false-blitz" && activeIsland && (
+          <TrueFalseBlitz topicKeys={activeIsland.topicKeys} color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "chain-calc" && activeIsland && (
+          <ChainCalc topicKeys={activeIsland.topicKeys} color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "missing-number" && activeIsland && (
+          <MissingNumber topicKeys={activeIsland.topicKeys} color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "concept-explorer", "place-value-explorer", "division-explorer", "area-explorer", "word-problem-explorer", "unit-explorer", "angle-explorer"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel", "speed-round", "equation-drill", "fraction-visual", "concept-explorer", "place-value-explorer", "division-explorer", "area-explorer", "word-problem-explorer", "unit-explorer", "angle-explorer", "true-false-blitz", "chain-calc", "missing-number"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
