@@ -63,7 +63,7 @@ export const G4_ISLANDS: IslandDef[] = [
     id: "i3",
     name: { en: "Division", hu: "Osztás", de: "Division", ro: "Împărțire" },
     icon: "➗", color: "#FF6B6B", sortRange: [10, 99],
-    topicKeys: ["div"],
+    topicKeys: ["div_simple"],
     missions: [
       { id: "m1", category: "explore",   gameType: "division-explorer", icon: "🔍", label: { en: "Discover Division",  hu: "Osztás felfedezése", de: "Division entdecken",     ro: "Descoperă împărțirea" } },
       { id: "m2", category: "build",     gameType: "equation-drill",    icon: "🧮", label: { en: "Equation Drill",    hu: "Egyenlet drill",     de: "Gleichungs-Drill",       ro: "Ecuații"              } },

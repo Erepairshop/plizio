@@ -1558,15 +1558,65 @@ generateCheckpointQuestions(testId, lang, count)
    }
 ```
 
-**Státusz:** G1 ✅ · G2 ✅ · G4 ✅ · G3/G5-G8 TODO
+**Státusz:** G1 ✅ · G2 ✅ · G3 ✅ · G4 ✅ · G5 ✅ · G6-G8 TODO
 
 ---
 
 ### Tervezett fejlesztések (TODO)
 
-1. **G3, G5-G8 oldalak** — `/astromath/3/`, `/astromath/5/`…`/astromath/8/` megvalósítása
+1. **G6-G8 oldalak** — `/astromath/6/`, `/astromath/7/`, `/astromath/8/` megvalósítása
 2. **Hangeffektek** — Web Audio API / rövid MP3 fájlok (sziget teljesítés, helyes válasz stb.)
 3. **Animált pályabejárás** — ✅ KÉSZ (IslandCompleteAnimation + RocketTransition)
+
+### Új Grade (G6/G7/G8) hozzáadása — lépésről lépésre
+
+> Minden új grade PONTOSAN ugyanazt a mintát követi mint G5. A fájlok 1:1 másolatok minimális módosítással.
+
+**1. `lib/astromathN.ts` létrehozása** (pl. `lib/astromath6.ts`)
+- Másold `lib/astromath5.ts`-t → cseréld: `G5` → `G6`, `g5_` → `g6_`, grade `5` → `6`
+- 9 sziget definíció: az adott grade tananyaga alapján (`g6_*` topic key-ek kellenek a `mathCurriculum.ts`-ben!)
+- `G6_CHECKPOINT_TOPICS`: 3 checkpoint, mindegyik az előző 3 sziget topic key-jeiből
+- `G6_SAVE_KEY = "astromath_g6_v1"`
+- Exportok: `G6_ISLANDS`, `loadG6Progress`, `saveG6Progress`, `isMissionDoneG6`, stb.
+
+**2. `app/astromath/N/page.tsx` létrehozása** (pl. `app/astromath/6/page.tsx`)
+- Másold `app/astromath/5/page.tsx`-t → cseréld: minden `G5`/`g5`/`astromath5` → `G6`/`g6`/`astromath6`
+- `G5_LABEL` → `G6_LABEL` (szövegek: "Grade 6", "6. osztály", "Klasse 6", "Clasa 6")
+- SVG filter/gradient id-k: `pathGlowG5` → `pathGlowG6`, `islandGlowG5` → `islandGlowG6`, stb.
+- `bgColor` default: válassz az adott bolygó színéből (G6=#FF9500, G7=#10B981, G8=#E879F9)
+- Progress bar gradient: válassz új szín párt
+- `testTopicsG5` → `testTopicsG6`: checkpoint témák leírása mind 4 nyelven
+- Ha új gameType kell (ami G5-ben sincs): add hozzá a Screen union-ba + renderelő switch-be
+- `grade={6}` prop a PlaceValueExplorer, ConceptExplorer, UnitExplorer, WordProblemExplorer-nek (ha használod)
+
+**3. `app/astromath/N/layout.tsx`** — SEO metadata (title, description, canonical)
+
+**4. Hub oldal frissítése (`app/astromath/page.tsx`)**
+- Import: `import { loadG6Progress } from "@/lib/astromath6";`
+- State: `const [g6Done, setG6Done] = useState(0);`
+- useEffect: `const p6 = loadG6Progress(); setG6Done(p6.completedIslands.length);`
+- GRADES tömb: `{ grade: 6, ..., route: "/astromath/6", available: true }`
+- Progress ternary: `g.grade === 6 ? g6Done :`
+
+**5. `lib/astromath.ts`** — ha új gameType szükséges, add a `GameType` union-ba
+
+**6. `mathCurriculum.ts`** — ELLENŐRIZD hogy a használt `g6_*` topic key-ek léteznek!
+- Ha nem → előbb a generátorokat kell megírni a `mathCurriculum.ts`-ben (G6 objektum)
+
+**7. Explorer komponensek grade prop** — ha az adott grade más számkört / nehézséget igényel:
+- `PlaceValueExplorer`: új `ROUND_POOL_G6` + `grade >= 6` ág
+- `ConceptExplorer`: új `ROUND_POOL_G6` + `grade >= 6` ág
+- `UnitExplorer`: új `ROUND_POOL_G6`
+- `WordProblemExplorer`: új `PROBLEMS_G6`
+
+**8. Build + push**
+
+**Bolygó színek referencia:**
+| Grade | Bolygó | Szín | Glow |
+|-------|--------|------|------|
+| 6 | Saturnia | `#FF9500` | `rgba(255,149,0,0.4)` |
+| 7 | Verdis | `#10B981` | `rgba(16,185,129,0.4)` |
+| 8 | Cosmara | `#E879F9` | `rgba(232,121,249,0.4)` |
 
 ---
 

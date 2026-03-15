@@ -1,7 +1,8 @@
 "use client";
-// ConceptExplorer — Area model discovery for Grade 4 multiplication
-// Teaches 2-digit × 1-digit via the distributive property (Rechteckmodell).
-// e.g. 23 × 4 = (20 × 4) + (3 × 4) = 80 + 12 = 92
+// ConceptExplorer — Area model discovery for Grade 4–5 multiplication
+// G4: 2-digit × 1-digit via the distributive property (Rechteckmodell).
+//     e.g. 23 × 4 = (20 × 4) + (3 × 4) = 80 + 12 = 92
+// G5: 3-digit × 1-digit: 234 × 5 = (200 × 5) + (30 × 5) + (4 × 5) = 1000 + 150 + 20 = 1170
 // No wrong answers — pure discovery.
 
 import { memo, useState, useCallback } from "react";
@@ -11,63 +12,71 @@ import { ChevronRight } from "lucide-react";
 // ─── Translations ──────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    split: "Split the number into tens and ones:",
+    split: "Split the number into parts:",
     step1: "Now tap each rectangle to reveal the product!",
-    step2: "Now add both parts together!",
+    step2: "Now add all parts together!",
     tensPart: "Tens part",
     onesPart: "Ones part",
+    hundredsPart: "Hundreds part",
     discover: "You discovered:",
     next: "Next",
     done: "Brilliant! ✨",
     tap: "Tap to reveal",
     tens: "tens",
     ones: "ones",
+    hundreds: "hundreds",
   },
   hu: {
-    split: "Bontsd fel a számot tízesekre és egyesekre:",
+    split: "Bontsd fel a számot részekre:",
     step1: "Most koppints minden téglalapra a szorzatért!",
-    step2: "Most add össze mindkét részt!",
+    step2: "Most add össze az összes részt!",
     tensPart: "Tízes rész",
     onesPart: "Egyes rész",
+    hundredsPart: "Százas rész",
     discover: "Felfedezted:",
     next: "Következő",
     done: "Fantasztikus! ✨",
     tap: "Koppints!",
     tens: "tízes",
     ones: "egyes",
+    hundreds: "százas",
   },
   de: {
-    split: "Zerlege die Zahl in Zehner und Einer:",
+    split: "Zerlege die Zahl in Teile:",
     step1: "Tippe jetzt auf jedes Rechteck, um das Teilprodukt zu entdecken!",
-    step2: "Jetzt beide Teile zusammenzählen!",
+    step2: "Jetzt alle Teile zusammenzählen!",
     tensPart: "Zehnerteil",
     onesPart: "Einerteil",
+    hundredsPart: "Hunderterteil",
     discover: "Du hast entdeckt:",
     next: "Weiter",
     done: "Fantastisch! ✨",
     tap: "Antippen",
     tens: "Zehner",
     ones: "Einer",
+    hundreds: "Hunderter",
   },
   ro: {
-    split: "Descompune numărul în zeci și unități:",
+    split: "Descompune numărul în părți:",
     step1: "Atinge fiecare dreptunghi pentru a descoperi produsul parțial!",
-    step2: "Acum adună ambele părți!",
+    step2: "Acum adună toate părțile!",
     tensPart: "Partea zecilor",
     onesPart: "Partea unităților",
+    hundredsPart: "Partea sutelor",
     discover: "Ai descoperit:",
     next: "Înainte",
     done: "Fantastic! ✨",
     tap: "Atinge",
     tens: "zeci",
     ones: "unități",
+    hundreds: "sute",
   },
 };
 
 // ─── Round data ──────────────────────────────────────────────────────────────
 interface Round { a: number; b: number } // a × b, where a is 2-digit
 
-const ROUND_POOL: Round[] = [
+const ROUND_POOL_G4: Round[] = [
   { a: 23, b: 4 },
   { a: 34, b: 2 },
   { a: 42, b: 3 },
@@ -80,8 +89,22 @@ const ROUND_POOL: Round[] = [
   { a: 32, b: 3 },
 ];
 
-function generateRounds(): Round[] {
-  const pool = [...ROUND_POOL];
+// G5: 3-digit × 1-digit
+const ROUND_POOL_G5: Round[] = [
+  { a: 234, b: 3 },
+  { a: 152, b: 4 },
+  { a: 321, b: 5 },
+  { a: 213, b: 6 },
+  { a: 142, b: 7 },
+  { a: 312, b: 3 },
+  { a: 125, b: 4 },
+  { a: 231, b: 5 },
+  { a: 413, b: 2 },
+  { a: 324, b: 3 },
+];
+
+function generateRounds(grade: number): Round[] {
+  const pool = [...(grade >= 5 ? ROUND_POOL_G5 : ROUND_POOL_G4)];
   for (let i = pool.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [pool[i], pool[j]] = [pool[j], pool[i]];
@@ -90,87 +113,102 @@ function generateRounds(): Round[] {
 }
 
 // ─── Area Model SVG ──────────────────────────────────────────────────────────
-function AreaModel({ a, b, tensRevealed, onesRevealed, color }: {
+// G4: 2 rectangles (tens + ones), G5: 3 rectangles (hundreds + tens + ones)
+function AreaModel({ a, b, revealed, color, isG5 }: {
   a: number; b: number;
-  tensRevealed: boolean; onesRevealed: boolean;
+  revealed: boolean[];
   color: string;
+  isG5: boolean;
 }) {
-  const tens = Math.floor(a / 10) * 10;
+  const hundreds = isG5 ? Math.floor(a / 100) * 100 : 0;
+  const tens = isG5 ? Math.floor((a % 100) / 10) * 10 : Math.floor(a / 10) * 10;
   const ones = a % 10;
+  const parts = isG5 ? [hundreds, tens, ones] : [tens, ones];
+  const partColors = isG5
+    ? [color, "rgb(96,165,250)", "rgb(251,191,36)"]
+    : [color, "rgb(251,191,36)"];
+
   const totalW = 260;
-  const tensW = Math.round((tens / a) * totalW);
-  const onesW = totalW - tensW;
   const h = 60;
   const y = 18;
 
+  // Calculate proportional widths
+  const widths = parts.map(p => Math.max(30, Math.round((p / a) * totalW)));
+  const wSum = widths.reduce((s, w) => s + w, 0);
+  // Normalize
+  const scale = totalW / wSum;
+  const scaledW = widths.map(w => Math.round(w * scale));
+
+  let xOff = 1;
   return (
     <svg width={totalW + 20} height={h + 36} viewBox={`-14 0 ${totalW + 20} ${h + 36}`}>
-      {/* Tens rectangle */}
-      <rect x={1} y={y} width={tensW} height={h}
-        fill={tensRevealed ? `${color}30` : "rgba(255,255,255,0.06)"}
-        stroke={color} strokeWidth={2} rx={6} />
-      {/* Ones rectangle */}
-      <rect x={tensW + 1} y={y} width={onesW} height={h}
-        fill={onesRevealed ? "rgba(251,191,36,0.25)" : "rgba(255,255,255,0.06)"}
-        stroke="rgba(251,191,36,0.8)" strokeWidth={2} rx={6} />
-
-      {/* Tens label — top */}
-      <text x={1 + tensW / 2} y={y - 5} textAnchor="middle"
-        fill={color} fontSize={13} fontWeight="900">{tens}</text>
-      {/* Ones label — top */}
-      <text x={tensW + 1 + onesW / 2} y={y - 5} textAnchor="middle"
-        fill="rgb(251,191,36)" fontSize={13} fontWeight="900">{ones}</text>
-
       {/* Left label — b */}
       <text x={-2} y={y + h / 2 + 5} textAnchor="end"
         fill="rgba(255,255,255,0.6)" fontSize={13} fontWeight="900">{b}</text>
 
-      {/* Tens content */}
-      {tensRevealed ? (
-        <text x={1 + tensW / 2} y={y + h / 2 + 7} textAnchor="middle"
-          fill={color} fontSize={22} fontWeight="900">{tens * b}</text>
-      ) : (
-        <text x={1 + tensW / 2} y={y + h / 2 + 7} textAnchor="middle"
-          fill="rgba(255,255,255,0.18)" fontSize={14} fontWeight="700">?</text>
-      )}
-      {/* Ones content */}
-      {onesRevealed ? (
-        <text x={tensW + 1 + onesW / 2} y={y + h / 2 + 7} textAnchor="middle"
-          fill="rgb(251,191,36)" fontSize={22} fontWeight="900">{ones * b}</text>
-      ) : (
-        <text x={tensW + 1 + onesW / 2} y={y + h / 2 + 7} textAnchor="middle"
-          fill="rgba(255,255,255,0.18)" fontSize={14} fontWeight="700">?</text>
-      )}
-
-      {/* Bottom labels */}
-      <text x={1 + tensW / 2} y={y + h + 18} textAnchor="middle"
-        fill="rgba(255,255,255,0.35)" fontSize={11} fontWeight="700">{b}×{tens}</text>
-      <text x={tensW + 1 + onesW / 2} y={y + h + 18} textAnchor="middle"
-        fill="rgba(255,255,255,0.35)" fontSize={11} fontWeight="700">{b}×{ones}</text>
+      {parts.map((part, i) => {
+        const x = xOff;
+        const w = scaledW[i];
+        xOff += w;
+        const pColor = partColors[i];
+        const isRev = revealed[i];
+        return (
+          <g key={i}>
+            <rect x={x} y={y} width={w} height={h}
+              fill={isRev ? `${pColor}30` : "rgba(255,255,255,0.06)"}
+              stroke={pColor} strokeWidth={2} rx={6} />
+            {/* Top label */}
+            <text x={x + w / 2} y={y - 5} textAnchor="middle"
+              fill={pColor} fontSize={isG5 ? 11 : 13} fontWeight="900">{part}</text>
+            {/* Center content */}
+            {isRev ? (
+              <text x={x + w / 2} y={y + h / 2 + 7} textAnchor="middle"
+                fill={pColor} fontSize={isG5 ? 18 : 22} fontWeight="900">{part * b}</text>
+            ) : (
+              <text x={x + w / 2} y={y + h / 2 + 7} textAnchor="middle"
+                fill="rgba(255,255,255,0.18)" fontSize={14} fontWeight="700">?</text>
+            )}
+            {/* Bottom label */}
+            <text x={x + w / 2} y={y + h + 18} textAnchor="middle"
+              fill="rgba(255,255,255,0.35)" fontSize={isG5 ? 9 : 11} fontWeight="700">{b}×{part}</text>
+          </g>
+        );
+      })}
     </svg>
   );
 }
 
 // ─── Main Component ────────────────────────────────────────────────────────────
 const ConceptExplorer = memo(function ConceptExplorer({
-  color, onDone, lang = "en",
+  color, onDone, lang = "en", grade = 4,
 }: {
   color: string;
   onDone: (score: number, total: number) => void;
   lang?: string;
+  grade?: number;
 }) {
   const lbl = LABELS[lang] ?? LABELS.en;
-  const [rounds] = useState<Round[]>(generateRounds);
+  const isG5 = grade >= 5;
+  const partCount = isG5 ? 3 : 2;
+
+  const [rounds] = useState<Round[]>(() => generateRounds(grade));
   const [idx, setIdx] = useState(0);
-  const [tensRevealed, setTensRevealed] = useState(false);
-  const [onesRevealed, setOnesRevealed] = useState(false);
+  const [revealed, setRevealed] = useState<boolean[]>(Array(partCount).fill(false));
   const [completed, setCompleted] = useState(0);
 
   const round = rounds[idx];
   const { a, b } = round;
-  const tens = Math.floor(a / 10) * 10;
+
+  // Decompose
+  const hundreds = isG5 ? Math.floor(a / 100) * 100 : 0;
+  const tens = isG5 ? Math.floor((a % 100) / 10) * 10 : Math.floor(a / 10) * 10;
   const ones = a % 10;
-  const bothRevealed = tensRevealed && onesRevealed;
+  const parts = isG5 ? [hundreds, tens, ones] : [tens, ones];
+  const partColors = isG5
+    ? [color, "rgb(96,165,250)", "rgb(251,191,36)"]
+    : [color, "rgb(251,191,36)"];
+
+  const allRevealed = revealed.every(Boolean);
 
   const next = useCallback(() => {
     const newCompleted = completed + 1;
@@ -180,12 +218,10 @@ const ConceptExplorer = memo(function ConceptExplorer({
       return;
     }
     setIdx(i => i + 1);
-    setTensRevealed(false);
-    setOnesRevealed(false);
-  }, [idx, rounds.length, onDone, completed]);
+    setRevealed(Array(partCount).fill(false));
+  }, [idx, rounds.length, onDone, completed, partCount]);
 
-  // Derive current step for progressive instructions
-  const step = bothRevealed ? 2 : (tensRevealed || onesRevealed) ? 1 : 0;
+  const someRevealed = revealed.some(Boolean);
 
   return (
     <div className="flex flex-col gap-3 w-full max-w-sm mx-auto">
@@ -208,36 +244,36 @@ const ConceptExplorer = memo(function ConceptExplorer({
           <span className="text-white/40 text-2xl font-bold">=</span>
           <motion.span
             className="text-4xl font-black"
-            style={{ color: bothRevealed ? "#00FF88" : "rgba(255,255,255,0.18)" }}
-            animate={bothRevealed ? { scale: [1, 1.18, 1] } : {}}
+            style={{ color: allRevealed ? "#00FF88" : "rgba(255,255,255,0.18)" }}
+            animate={allRevealed ? { scale: [1, 1.18, 1] } : {}}
             transition={{ duration: 0.5 }}
           >
-            {bothRevealed ? a * b : "?"}
+            {allRevealed ? a * b : "?"}
           </motion.span>
         </motion.div>
       </AnimatePresence>
 
-      {/* Step 0: Decomposition row — "24 = 20 + 4" */}
+      {/* Decomposition row */}
       <AnimatePresence mode="wait">
-        {!bothRevealed && (
+        {!allRevealed && (
           <motion.div key="decomp"
             initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }}
             className="rounded-xl px-4 py-2.5 flex flex-col items-center gap-1"
             style={{ background: "rgba(255,255,255,0.05)", border: "1px solid rgba(255,255,255,0.1)" }}
           >
-            {/* split label */}
             <p className="text-white/50 text-xs font-bold">{lbl.split}</p>
-            {/* colored decomposition */}
             <div className="flex items-center gap-2 text-xl font-black">
               <span style={{ color }}>{a}</span>
               <span className="text-white/30">=</span>
-              <span style={{ color }}>{tens}</span>
-              <span className="text-white/30 text-base">+</span>
-              <span className="text-amber-400">{ones}</span>
+              {parts.map((p, i) => (
+                <span key={i} className="flex items-center gap-2">
+                  {i > 0 && <span className="text-white/30 text-base">+</span>}
+                  <span style={{ color: partColors[i] }}>{p}</span>
+                </span>
+              ))}
             </div>
-            {/* step instruction */}
             <p className="text-white/70 text-xs font-bold text-center mt-0.5">
-              {step < 2 ? lbl.step1 : lbl.step2}
+              {someRevealed && !allRevealed ? lbl.step1 : lbl.step1}
             </p>
           </motion.div>
         )}
@@ -246,65 +282,56 @@ const ConceptExplorer = memo(function ConceptExplorer({
       {/* Area model */}
       <div className="flex justify-center rounded-2xl p-4"
         style={{ background: "rgba(255,255,255,0.04)", border: "1px solid rgba(255,255,255,0.1)" }}>
-        <AreaModel a={a} b={b}
-          tensRevealed={tensRevealed} onesRevealed={onesRevealed} color={color} />
+        <AreaModel a={a} b={b} revealed={revealed} color={color} isG5={isG5} />
       </div>
 
       {/* Tap buttons */}
-      {!bothRevealed && (
-        <div className="flex gap-3">
-          {/* Tens button */}
-          <motion.button
-            onClick={() => setTensRevealed(true)}
-            disabled={tensRevealed}
-            className="flex-1 py-3 rounded-2xl font-black text-sm flex flex-col items-center gap-1"
-            style={{
-              background: tensRevealed ? `${color}20` : `${color}12`,
-              border: `2px solid ${tensRevealed ? color : `${color}50`}`,
-              color: tensRevealed ? color : "rgba(255,255,255,0.7)",
-            }}
-            whileTap={!tensRevealed ? { scale: 0.96 } : {}}
-          >
-            <span className="text-lg">{tensRevealed ? `${tens * b}` : "?"}</span>
-            <span className="text-xs opacity-70">{b} × {tens}</span>
-            {!tensRevealed && (
-              <span className="text-xs font-bold opacity-50">{lbl.tap}</span>
-            )}
-          </motion.button>
-
-          <div className="flex items-center">
-            <span className="text-white/30 font-black text-xl">+</span>
-          </div>
-
-          {/* Ones button */}
-          <motion.button
-            onClick={() => setOnesRevealed(true)}
-            disabled={onesRevealed}
-            className="flex-1 py-3 rounded-2xl font-black text-sm flex flex-col items-center gap-1"
-            style={{
-              background: onesRevealed ? "rgba(251,191,36,0.18)" : "rgba(251,191,36,0.08)",
-              border: `2px solid ${onesRevealed ? "rgb(251,191,36)" : "rgba(251,191,36,0.4)"}`,
-              color: onesRevealed ? "rgb(251,191,36)" : "rgba(255,255,255,0.7)",
-            }}
-            whileTap={!onesRevealed ? { scale: 0.96 } : {}}
-          >
-            <span className="text-lg">{onesRevealed ? `${ones * b}` : "?"}</span>
-            <span className="text-xs opacity-70">{b} × {ones}</span>
-            {!onesRevealed && (
-              <span className="text-xs font-bold opacity-50">{lbl.tap}</span>
-            )}
-          </motion.button>
+      {!allRevealed && (
+        <div className="flex gap-2">
+          {parts.map((part, i) => {
+            const isRev = revealed[i];
+            const pColor = partColors[i];
+            return (
+              <span key={i} className="contents">
+                {i > 0 && (
+                  <div className="flex items-center">
+                    <span className="text-white/30 font-black text-xl">+</span>
+                  </div>
+                )}
+                <motion.button
+                  onClick={() => {
+                    const next = [...revealed];
+                    next[i] = true;
+                    setRevealed(next);
+                  }}
+                  disabled={isRev}
+                  className="flex-1 py-3 rounded-2xl font-black text-sm flex flex-col items-center gap-1"
+                  style={{
+                    background: isRev ? `${pColor}20` : `${pColor}12`,
+                    border: `2px solid ${isRev ? pColor : `${pColor}50`}`,
+                    color: isRev ? pColor : "rgba(255,255,255,0.7)",
+                  }}
+                  whileTap={!isRev ? { scale: 0.96 } : {}}
+                >
+                  <span className={isG5 ? "text-base" : "text-lg"}>{isRev ? `${part * b}` : "?"}</span>
+                  <span className="text-[10px] opacity-70">{b} × {part}</span>
+                  {!isRev && (
+                    <span className="text-[10px] font-bold opacity-50">{lbl.tap}</span>
+                  )}
+                </motion.button>
+              </span>
+            );
+          })}
         </div>
       )}
 
-      {/* Result after both revealed */}
+      {/* Result after all revealed */}
       <AnimatePresence>
-        {bothRevealed && (
+        {allRevealed && (
           <motion.div
             initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }}
             className="flex flex-col gap-3 items-center"
           >
-            {/* Addition breakdown */}
             <motion.div
               className="w-full rounded-2xl px-5 py-3"
               style={{ background: "rgba(0,255,136,0.10)", border: "2px solid rgba(0,255,136,0.3)" }}
@@ -312,19 +339,24 @@ const ConceptExplorer = memo(function ConceptExplorer({
               transition={{ duration: 0.5 }}
             >
               <p className="text-white/50 text-xs font-bold text-center mb-2">{lbl.discover}</p>
-              {/* Step-by-step formula */}
               <div className="flex flex-col gap-1 items-center">
-                <p className="text-base font-black text-white/80">
+                <p className={`${isG5 ? "text-sm" : "text-base"} font-black text-white/80`}>
                   {a} × {b}
                   <span className="text-white/40 mx-2">=</span>
-                  <span style={{ color }}>({tens} × {b})</span>
-                  <span className="text-white/40 mx-1">+</span>
-                  <span className="text-amber-400">({ones} × {b})</span>
+                  {parts.map((p, i) => (
+                    <span key={i}>
+                      {i > 0 && <span className="text-white/40 mx-1">+</span>}
+                      <span style={{ color: partColors[i] }}>({p} × {b})</span>
+                    </span>
+                  ))}
                 </p>
-                <p className="text-base font-black text-white/80">
-                  <span style={{ color }}>{tens * b}</span>
-                  <span className="text-white/40 mx-2">+</span>
-                  <span className="text-amber-400">{ones * b}</span>
+                <p className={`${isG5 ? "text-sm" : "text-base"} font-black text-white/80`}>
+                  {parts.map((p, i) => (
+                    <span key={i}>
+                      {i > 0 && <span className="text-white/40 mx-2">+</span>}
+                      <span style={{ color: partColors[i] }}>{p * b}</span>
+                    </span>
+                  ))}
                   <span className="text-white/40 mx-2">=</span>
                   <span style={{ color: "#00FF88" }} className="text-xl">{a * b}</span>
                 </p>

@@ -1,59 +1,73 @@
 "use client";
 /**
- * IslandCompleteAnimation — 13s cinematic when a player finishes an island
+ * IslandCompleteAnimation — Cinematic island-complete sequence (~14s)
  *
  * Phases:
- *   0 → 1.2s   Space background fades in, island icon zooms to centre
- *   1.2 → 3s   "Island complete!" text + star burst
- *   3 → 4.5s   Island shrinks, astronaut walks in from left
- *   4.5 → 6s   Rocket descends from top-right
- *   6 → 8.5s   Energy particles stream into rocket fuel gauge
- *   8.5 → 10s  Astronaut boards rocket (slides in, hatch closes)
- *   10 → 12s   Rocket ignites + launches upward with trail
- *   12 → 13s   Screen fades out → onDone()
+ *   0 → 1.5s   Space pull-back: planet rises from bottom, island icon on surface
+ *   1.5 → 3.5s "Island Complete!" banner + score reveal (X/Y correct)
+ *   3.5 → 5s   Rocket descends from orbit, landing lights
+ *   5 → 8.5s   Energy orbs (1 per correct answer) stream into fuel gauge
+ *   8.5 → 10s  Astronaut boards, "Ready for launch!" + engine warm-up glow
+ *   10 → 12s   Ignition + launch — planet shrinks, star streaks
+ *   12 → 14s   Fade out → onDone()
  */
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import { GRADE_PLANETS } from "@/app/astromath/planets";
 import { playIslandComplete, playRocketDescend, playFueling, playLaunch } from "@/lib/astromath-sounds";
 
-// ─── Island-Complete label translations ────────────────────────────────────────
-const LABELS: Record<string, { complete: string; fueling: string; ready: string; liftoff: string }> = {
-  en: { complete: "Island Complete!", fueling: "Collecting energy…", ready: "Ready for launch!", liftoff: "Liftoff!" },
-  hu: { complete: "Sziget teljesítve!", fueling: "Energia gyűjtése…", ready: "Felszállásra kész!", liftoff: "Felszállás!" },
-  de: { complete: "Insel geschafft!", fueling: "Energie sammeln…", ready: "Startbereit!", liftoff: "Abheben!" },
-  ro: { complete: "Insulă completată!", fueling: "Colectare energie…", ready: "Gata de lansare!", liftoff: "Decolare!" },
+// ─── Translations ────────────────────────────────────────────────────────────
+const LABELS: Record<string, {
+  complete: string; fueling: string; ready: string; liftoff: string;
+  correct: string; energy: string;
+}> = {
+  en: { complete: "Island Complete!", fueling: "Collecting energy…", ready: "Ready for launch!", liftoff: "Liftoff!", correct: "correct", energy: "Energy" },
+  hu: { complete: "Sziget teljesítve!", fueling: "Energia gyűjtése…", ready: "Felszállásra kész!", liftoff: "Felszállás!", correct: "helyes", energy: "Energia" },
+  de: { complete: "Insel geschafft!", fueling: "Energie sammeln…", ready: "Startbereit!", liftoff: "Abheben!", correct: "richtig", energy: "Energie" },
+  ro: { complete: "Insulă completată!", fueling: "Colectare energie…", ready: "Gata de lansare!", liftoff: "Decolare!", correct: "corecte", energy: "Energie" },
 };
 
-// ─── SVG Rocket ───────────────────────────────────────────────────────────────
-function RocketSVG({ color, flame }: { color: string; flame?: boolean }) {
+// ─── Cinematic Rocket SVG ────────────────────────────────────────────────────
+function RocketSVG({ color, flame, warmUp }: { color: string; flame?: boolean; warmUp?: boolean }) {
   return (
-    <svg width="90" height="170" viewBox="-45 -90 90 170" style={{ overflow: "visible" }}>
+    <svg width="80" height="150" viewBox="-40 -80 80 150" style={{ overflow: "visible" }}>
       {/* Engine flame */}
       {flame && (
         <g>
-          <motion.ellipse cx={0} cy={92} rx={16} ry={28}
+          <motion.ellipse cx={0} cy={82} rx={18} ry={40}
             fill="#FF6B00"
-            animate={{ ry: [28, 38, 24], opacity: [1, 0.7, 1] }}
-            transition={{ repeat: Infinity, duration: 0.14, ease: "easeInOut" }} />
-          <motion.ellipse cx={0} cy={88} rx={10} ry={18}
+            animate={{ ry: [40, 55, 35], opacity: [1, 0.8, 1] }}
+            transition={{ repeat: Infinity, duration: 0.12, ease: "easeInOut" }} />
+          <motion.ellipse cx={0} cy={78} rx={12} ry={25}
             fill="#FFD700"
-            animate={{ ry: [18, 26, 14] }}
-            transition={{ repeat: Infinity, duration: 0.11 }} />
-          <motion.ellipse cx={0} cy={83} rx={5} ry={8}
+            animate={{ ry: [25, 36, 20] }}
+            transition={{ repeat: Infinity, duration: 0.09 }} />
+          <motion.ellipse cx={0} cy={74} rx={6} ry={12}
             fill="white"
             animate={{ opacity: [1, 0.5, 1] }}
-            transition={{ repeat: Infinity, duration: 0.09 }} />
+            transition={{ repeat: Infinity, duration: 0.07 }} />
+          {/* Outer glow */}
+          <motion.ellipse cx={0} cy={90} rx={24} ry={50}
+            fill="#FF6B00" opacity={0.15}
+            animate={{ ry: [50, 65, 45] }}
+            transition={{ repeat: Infinity, duration: 0.14 }} />
         </g>
       )}
+      {/* Warm-up glow */}
+      {warmUp && !flame && (
+        <motion.ellipse cx={0} cy={72} rx={10} ry={8}
+          fill="#FF6B00"
+          animate={{ opacity: [0, 0.6, 0.3, 0.7, 0.4], ry: [8, 14, 10, 16, 8] }}
+          transition={{ repeat: Infinity, duration: 0.8 }} />
+      )}
 
-      {/* Body gradient fill */}
       <defs>
-        <linearGradient id="rocketBody" x1="0" y1="0" x2="1" y2="0">
+        <linearGradient id="rb" x1="0" y1="0" x2="1" y2="0">
           <stop offset="0%" stopColor="#CCCCCC" />
-          <stop offset="50%" stopColor="#F0F0F0" />
+          <stop offset="40%" stopColor="#F0F0F0" />
           <stop offset="100%" stopColor="#AAAAAA" />
         </linearGradient>
-        <linearGradient id="rocketNose" x1="0" y1="0" x2="1" y2="0">
+        <linearGradient id="rn" x1="0" y1="0" x2="1" y2="0">
           <stop offset="0%" stopColor={color} stopOpacity="0.7" />
           <stop offset="50%" stopColor={color} />
           <stop offset="100%" stopColor={color} stopOpacity="0.6" />
@@ -61,278 +75,448 @@ function RocketSVG({ color, flame }: { color: string; flame?: boolean }) {
       </defs>
 
       {/* Main body */}
-      <ellipse cx={0} cy={20} rx={24} ry={60} fill="url(#rocketBody)" />
+      <ellipse cx={0} cy={18} rx={22} ry={55} fill="url(#rb)" />
       {/* Colour stripe */}
-      <ellipse cx={0} cy={35} rx={24} ry={10} fill={color} opacity={0.4} />
-
+      <ellipse cx={0} cy={32} rx={22} ry={9} fill={color} opacity={0.4} />
       {/* Nose cone */}
-      <path d="M -24,-2 Q 0,-90 24,-2 Z" fill="url(#rocketNose)" />
-
-      {/* Porthole window */}
-      <circle cx={0} cy={5} r={13} fill="#001830" />
-      <circle cx={0} cy={5} r={11} fill="#0A2A4A" />
-      <circle cx={0} cy={5} r={9} fill="#0E3A6E" />
-      {/* Window glare */}
-      <ellipse cx={-3} cy={2} rx={5} ry={5} fill="rgba(0,200,255,0.55)" />
-      <ellipse cx={-5} cy={-1} rx={2} ry={2} fill="rgba(255,255,255,0.4)" />
-
+      <path d="M -22,-2 Q 0,-80 22,-2 Z" fill="url(#rn)" />
+      {/* Porthole */}
+      <circle cx={0} cy={4} r={12} fill="#001830" />
+      <circle cx={0} cy={4} r={10} fill="#0A2A4A" />
+      <circle cx={0} cy={4} r={8} fill="#0E3A6E" />
+      <ellipse cx={-3} cy={1} rx={4.5} ry={4.5} fill="rgba(0,200,255,0.55)" />
+      <ellipse cx={-5} cy={-2} rx={2} ry={2} fill="rgba(255,255,255,0.4)" />
       {/* Left fin */}
-      <path d="M -24,52 L -44,82 L -24,68 Z" fill={color} />
-      <path d="M -24,52 L -44,82 L -24,68 Z" fill="rgba(0,0,0,0.15)" />
+      <path d="M -22,48 L -40,74 L -22,62 Z" fill={color} />
+      <path d="M -22,48 L -40,74 L -22,62 Z" fill="rgba(0,0,0,0.15)" />
       {/* Right fin */}
-      <path d="M 24,52 L 44,82 L 24,68 Z" fill={color} />
-
+      <path d="M 22,48 L 40,74 L 22,62 Z" fill={color} />
       {/* Engine bell */}
-      <path d="M -16,76 L -12,88 L 12,88 L 16,76 Z" fill="#777" />
-      <ellipse cx={0} cy={76} rx={16} ry={4} fill="#555" />
-      <ellipse cx={0} cy={88} rx={12} ry={3} fill="#444" />
-
-      {/* Colour accent band on body */}
-      <ellipse cx={0} cy={-10} rx={24} ry={7} fill={color} opacity={0.25} />
+      <path d="M -14,68 L -10,78 L 10,78 L 14,68 Z" fill="#777" />
+      <ellipse cx={0} cy={68} rx={14} ry={3.5} fill="#555" />
+      <ellipse cx={0} cy={78} rx={10} ry={2.5} fill="#444" />
+      {/* Accent band */}
+      <ellipse cx={0} cy={-10} rx={22} ry={6} fill={color} opacity={0.25} />
     </svg>
   );
 }
 
-// ─── SVG Astronaut ────────────────────────────────────────────────────────────
+// ─── Astronaut SVG (smaller, for boarding) ──────────────────────────────────
 function AstronautSVG({ color }: { color: string }) {
   return (
-    <svg width="70" height="100" viewBox="-35 -50 70 100" style={{ overflow: "visible" }}>
-      {/* Helmet */}
-      <circle cx={0} cy={-28} r={17} fill="#E0E0E0" />
-      <circle cx={0} cy={-28} r={14} fill="#001525" />
-      <ellipse cx={-3} cy={-30} rx={5} ry={5} fill="rgba(0,200,255,0.65)" />
-      <ellipse cx={-6} cy={-33} rx={2.5} ry={2} fill="rgba(255,255,255,0.35)" />
-      {/* Helmet ring */}
-      <ellipse cx={0} cy={-12} rx={13} ry={3.5} fill="#CCCCCC" />
-
-      {/* Suit body */}
-      <rect x={-13} y={-10} width={26} height={32} rx={7} fill="#D8D8D8" />
-      {/* Chest panel */}
-      <rect x={-8} y={-4} width={16} height={14} rx={4} fill={color} opacity={0.7} />
-      {/* Chest indicator lights */}
-      <circle cx={-4} cy={0} r={2} fill="#FF4444" />
-      <circle cx={0} cy={0} r={2} fill="#FFDD00" />
-      <circle cx={4} cy={0} r={2} fill="#44FF88" />
-
-      {/* Left arm */}
-      <rect x={-23} y={-9} width={11} height={22} rx={5} fill="#D0D0D0" />
-      <circle cx={-17} cy={14} r={5} fill="#BBBBBB" />
-      {/* Right arm */}
-      <rect x={12} y={-9} width={11} height={22} rx={5} fill="#D0D0D0" />
-      <circle cx={17} cy={14} r={5} fill="#BBBBBB" />
-
-      {/* Legs */}
-      <rect x={-12} y={21} width={10} height={24} rx={5} fill="#C8C8C8" />
-      <rect x={2} y={21} width={10} height={24} rx={5} fill="#C8C8C8" />
-      {/* Boots */}
-      <ellipse cx={-7} cy={46} rx={8} ry={4.5} fill="#888" />
-      <ellipse cx={7} cy={46} rx={8} ry={4.5} fill="#888" />
+    <svg width="50" height="72" viewBox="-25 -36 50 72" style={{ overflow: "visible" }}>
+      <circle cx={0} cy={-22} r={13} fill="#E0E0E0" />
+      <circle cx={0} cy={-22} r={10.5} fill="#001525" />
+      <ellipse cx={-2} cy={-24} rx={4} ry={4} fill="rgba(0,200,255,0.6)" />
+      <ellipse cx={0} cy={-10} rx={10} ry={3} fill="#CCCCCC" />
+      <rect x={-10} y={-7} width={20} height={26} rx={6} fill="#D8D8D8" />
+      <rect x={-6} y={-2} width={12} height={10} rx={3} fill={color} opacity={0.7} />
+      <circle cx={-3} cy={1} r={1.5} fill="#FF4444" />
+      <circle cx={0} cy={1} r={1.5} fill="#FFDD00" />
+      <circle cx={3} cy={1} r={1.5} fill="#44FF88" />
+      <rect x={-17} y={-6} width={8} height={17} rx={4} fill="#D0D0D0" />
+      <rect x={9} y={-6} width={8} height={17} rx={4} fill="#D0D0D0" />
+      <rect x={-9} y={18} width={8} height={16} rx={4} fill="#C8C8C8" />
+      <rect x={1} y={18} width={8} height={16} rx={4} fill="#C8C8C8" />
+      <ellipse cx={-5} cy={35} rx={6} ry={3.5} fill="#888" />
+      <ellipse cx={5} cy={35} rx={6} ry={3.5} fill="#888" />
     </svg>
   );
 }
 
-// ─── Fuel Gauge ───────────────────────────────────────────────────────────────
-function FuelGauge({ pct, color }: { pct: number; color: string }) {
-  const gaugeH = 80;
-  const fillH = (pct / 100) * gaugeH;
+// ─── Circular Fuel Gauge ─────────────────────────────────────────────────────
+function CircularFuelGauge({ pct, color, label }: { pct: number; color: string; label: string }) {
+  const r = 30;
+  const circ = 2 * Math.PI * r;
+  const filled = circ * (pct / 100);
   return (
-    <svg width="32" height="110" viewBox="-16 -15 32 110">
-      {/* Label */}
-      <text x={0} y={-5} textAnchor="middle" fill="rgba(255,255,255,0.5)" fontSize={7} fontWeight="bold">FUEL</text>
-      {/* Tube outline */}
-      <rect x={-10} y={0} width={20} height={gaugeH} rx={10} fill="rgba(255,255,255,0.06)" stroke={color} strokeWidth={1.5} strokeOpacity={0.5} />
-      {/* Clip region */}
-      <clipPath id="fuel-clip-main">
-        <rect x={-10} y={0} width={20} height={gaugeH} rx={10} />
-      </clipPath>
-      {/* Animated fill */}
-      <motion.rect
-        x={-10} width={20} rx={10}
-        style={{ fill: color, opacity: 0.85 }}
-        clipPath="url(#fuel-clip-main)"
-        initial={{ y: gaugeH, height: 0 }}
-        animate={{ y: gaugeH - fillH, height: fillH }}
-        transition={{ duration: 2.2, ease: "easeOut" }}
-      />
-      {/* Glow overlay */}
-      {pct > 5 && (
-        <motion.rect
-          x={-10} width={20} rx={10}
-          style={{ fill: "white", opacity: 0.12 }}
-          clipPath="url(#fuel-clip-main)"
-          initial={{ y: gaugeH, height: 0 }}
-          animate={{ y: gaugeH - fillH, height: fillH }}
-          transition={{ duration: 2.2, ease: "easeOut" }}
+    <div className="relative flex flex-col items-center">
+      <svg width="76" height="76" viewBox="0 0 76 76">
+        {/* Background track */}
+        <circle cx={38} cy={38} r={r} fill="none" stroke="rgba(255,255,255,0.06)" strokeWidth={6} />
+        {/* Filled arc */}
+        <motion.circle cx={38} cy={38} r={r} fill="none"
+          stroke={color} strokeWidth={6} strokeLinecap="round"
+          strokeDasharray={circ}
+          initial={{ strokeDashoffset: circ }}
+          animate={{ strokeDashoffset: circ - filled }}
+          transition={{ duration: 2.5, ease: "easeOut" }}
+          style={{ transform: "rotate(-90deg)", transformOrigin: "50% 50%" }}
         />
-      )}
-      {/* Cap */}
-      <rect x={-7} y={-15} width={14} height={18} rx={4} fill="#666" />
-      <rect x={-5} y={-13} width={10} height={3} rx={2} fill="#888" />
-    </svg>
+        {/* Glow */}
+        <motion.circle cx={38} cy={38} r={r} fill="none"
+          stroke={color} strokeWidth={2} strokeLinecap="round" opacity={0.3}
+          strokeDasharray={circ}
+          initial={{ strokeDashoffset: circ }}
+          animate={{ strokeDashoffset: circ - filled }}
+          transition={{ duration: 2.5, ease: "easeOut" }}
+          style={{ transform: "rotate(-90deg)", transformOrigin: "50% 50%", filter: "blur(4px)" }}
+        />
+        {/* Center icon */}
+        <text x={38} y={42} textAnchor="middle" fill="white" fontSize={16} fontWeight="bold">⚡</text>
+      </svg>
+      <span className="text-[10px] font-bold mt-1 tracking-wider uppercase" style={{ color }}>{label}</span>
+    </div>
   );
 }
 
-// ─── Energy Particle ─────────────────────────────────────────────────────────
-function EnergyParticle({ color, i, fromX, fromY, toX, toY }: {
-  color: string; i: number; fromX: number; fromY: number; toX: number; toY: number;
+// ─── Energy Orb (flies from planet surface to rocket) ────────────────────────
+function EnergyOrb({ color, i, total, startDelay }: {
+  color: string; i: number; total: number; startDelay: number;
 }) {
-  const delay = i * 0.18;
+  // Distribute orbs in a slight arc from bottom-center to the rocket
+  const spread = 160; // px horizontal spread
+  const startX = ((i / Math.max(total - 1, 1)) - 0.5) * spread;
+  const startY = 80 + (Math.random() * 30);
+  const delay = startDelay + i * 0.15;
+  const size = 6 + Math.random() * 4;
+
   return (
     <motion.div
       className="absolute rounded-full pointer-events-none"
-      style={{ width: 8, height: 8, background: color, boxShadow: `0 0 8px ${color}`, left: fromX, top: fromY }}
-      initial={{ x: 0, y: 0, opacity: 1, scale: 1 }}
-      animate={{ x: toX - fromX, y: toY - fromY, opacity: [1, 1, 0], scale: [1, 1.5, 0.5] }}
-      transition={{ duration: 0.9, delay, ease: "easeIn" }}
+      style={{
+        width: size, height: size,
+        background: `radial-gradient(circle, white 0%, ${color} 60%, transparent 100%)`,
+        boxShadow: `0 0 12px ${color}, 0 0 24px ${color}40`,
+        left: "50%", bottom: "18%",
+      }}
+      initial={{ x: startX, y: startY, opacity: 0, scale: 0 }}
+      animate={{
+        x: [startX, startX * 0.3, 60],
+        y: [startY, startY * 0.3, -120],
+        opacity: [0, 1, 1, 0],
+        scale: [0, 1.2, 1, 0.3],
+      }}
+      transition={{ duration: 1.2, delay, ease: "easeInOut" }}
     />
   );
 }
 
-// ─── Star burst ───────────────────────────────────────────────────────────────
-function StarBurst({ color }: { color: string }) {
-  const rays = Array.from({ length: 12 }, (_, i) => i);
+// ─── Star streak (during launch) ────────────────────────────────────────────
+function StarStreak({ i }: { i: number }) {
+  const x = 5 + ((i * 37 + 11) % 90);
+  const delay = (i * 0.08) % 0.5;
   return (
-    <svg width="120" height="120" viewBox="-60 -60 120 120" className="absolute inset-0 m-auto pointer-events-none">
-      {rays.map(i => {
-        const angle = (i * 360) / 12;
-        const rad = (angle * Math.PI) / 180;
-        const x2 = Math.cos(rad) * 55;
-        const y2 = Math.sin(rad) * 55;
-        return (
-          <motion.line key={i} x1={0} y1={0} x2={x2} y2={y2}
-            stroke={color} strokeWidth={2} strokeLinecap="round"
-            initial={{ opacity: 0, pathLength: 0 }}
-            animate={{ opacity: [0, 0.8, 0], pathLength: [0, 1, 1] }}
-            transition={{ duration: 0.8, delay: i * 0.04 }}
-          />
-        );
-      })}
-    </svg>
+    <motion.div
+      className="absolute pointer-events-none"
+      style={{
+        left: `${x}%`, top: 0,
+        width: 1.5, height: 0,
+        background: "linear-gradient(to bottom, transparent, rgba(255,255,255,0.8), transparent)",
+      }}
+      initial={{ height: 0, top: "-5%", opacity: 0 }}
+      animate={{ height: 80, top: "110%", opacity: [0, 0.8, 0] }}
+      transition={{ duration: 0.6, delay, ease: "easeIn" }}
+    />
   );
 }
 
-// ─── Main component ───────────────────────────────────────────────────────────
+// ─── Main component ──────────────────────────────────────────────────────────
 interface Props {
   islandIcon: string;
   islandColor: string;
   islandName: string;
   lang?: string;
+  grade?: number;         // 1-8, for planet SVG
+  score?: number;         // correct answers
+  total?: number;         // total questions
   onDone: () => void;
 }
 
-export default function IslandCompleteAnimation({ islandIcon, islandColor, islandName, lang = "en", onDone }: Props) {
+export default function IslandCompleteAnimation({
+  islandIcon, islandColor, islandName, lang = "en", grade = 1,
+  score = 8, total = 10, onDone,
+}: Props) {
   const [phase, setPhase] = useState(0);
   const t = LABELS[lang] ?? LABELS.en;
 
-  // Phase timeline + hangeffektek
+  // Planet component for this grade
+  const PlanetComp = GRADE_PLANETS[Math.min(Math.max(grade - 1, 0), 7)];
+
+  // Number of energy orbs = score (capped for perf)
+  const orbCount = Math.min(score, 15);
+  const fuelPct = total > 0 ? Math.round((score / total) * 100) : 100;
+
+  // Random star positions (stable across renders)
+  const stars = useMemo(() =>
+    Array.from({ length: 60 }, (_, i) => ({
+      x: (i * 47 + 13) % 100,
+      y: (i * 61 + 7) % 100,
+      size: (i % 3) * 0.8 + 0.6,
+      delay: (i % 8) * 0.3,
+      dur: 2 + (i % 5) * 0.4,
+    })),
+  []);
+
+  // Phase timeline
   useEffect(() => {
     const ts = [
-      setTimeout(() => { setPhase(1); playIslandComplete(); }, 1200),   // island icon + fanfár
-      setTimeout(() => setPhase(2), 3000),                              // astronaut walks in
-      setTimeout(() => { setPhase(3); playRocketDescend(); }, 4800),    // rocket descends + whoosh
-      setTimeout(() => { setPhase(4); playFueling(); }, 6200),          // fueling + elektromos hang
-      setTimeout(() => setPhase(5), 8800),                              // astronaut boards
-      setTimeout(() => { setPhase(6); playLaunch(); }, 10200),          // ignition + launch hang
-      setTimeout(() => setPhase(7), 12000),                             // fade out
-      setTimeout(onDone, 13000),
+      setTimeout(() => { setPhase(1); playIslandComplete(); }, 1500),     // planet revealed + banner
+      setTimeout(() => setPhase(2), 3500),                                 // rocket descends
+      setTimeout(() => { setPhase(3); playRocketDescend(); }, 3800),
+      setTimeout(() => { setPhase(4); playFueling(); }, 5000),             // energy orbs stream
+      setTimeout(() => setPhase(5), 8500),                                 // astronaut boards + warm-up
+      setTimeout(() => { setPhase(6); playLaunch(); }, 10000),             // ignition + launch
+      setTimeout(() => setPhase(7), 12000),                                // fade out
+      setTimeout(onDone, 14000),
     ];
     return () => ts.forEach(clearTimeout);
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
-  // Particle positions (relative to absolute container)
-  const particleCount = 10;
-
   return (
     <motion.div
-      className="fixed inset-0 z-50 flex items-center justify-center overflow-hidden"
+      className="fixed inset-0 z-50 overflow-hidden"
       style={{ background: "#060614" }}
       initial={{ opacity: 0 }}
       animate={{ opacity: phase >= 7 ? 0 : 1 }}
-      transition={{ duration: phase >= 7 ? 1.2 : 0.6 }}
+      transition={{ duration: phase >= 7 ? 1.5 : 0.8 }}
     >
-      {/* Space background stars */}
-      {Array.from({ length: 50 }, (_, i) => (
-        <motion.div key={i} className="absolute rounded-full bg-white"
-          style={{
-            left: `${(i * 47 + 13) % 100}%`,
-            top: `${(i * 61 + 7) % 100}%`,
-            width: (i % 3) * 0.8 + 0.5,
-            height: (i % 3) * 0.8 + 0.5,
-          }}
-          animate={{ opacity: [0.1, 0.7, 0.1] }}
-          transition={{ duration: 2 + (i % 5) * 0.4, delay: (i % 8) * 0.3, repeat: Infinity }}
+      {/* ── Starfield ── */}
+      {stars.map((s, i) => (
+        <motion.div key={i} className="absolute rounded-full bg-white pointer-events-none"
+          style={{ left: `${s.x}%`, top: `${s.y}%`, width: s.size, height: s.size }}
+          animate={phase >= 6
+            ? { y: [0, 600], opacity: [0.6, 0] }    // star streaks during launch
+            : { opacity: [0.15, 0.7, 0.15] }
+          }
+          transition={phase >= 6
+            ? { duration: 0.8, delay: s.delay * 0.3 }
+            : { duration: s.dur, delay: s.delay, repeat: Infinity }
+          }
         />
       ))}
 
-      {/* ── Phase 0-2: Island icon zooms in ── */}
+      {/* ── Star streaks during launch (phase 6) ── */}
+      {phase === 6 && Array.from({ length: 25 }, (_, i) => (
+        <StarStreak key={i} i={i} />
+      ))}
+
+      {/* ── Planet rising from bottom ── */}
+      <motion.div
+        className="absolute left-1/2 pointer-events-none"
+        style={{ bottom: 0, x: "-50%" }}
+        initial={{ y: 200, scale: 1.5 }}
+        animate={{
+          y: phase >= 6 ? 400 : phase >= 1 ? 40 : 200,     // rise up, then sink on launch
+          scale: phase >= 6 ? 0.5 : phase >= 1 ? 1.8 : 1.5,
+          opacity: phase >= 6 ? 0 : 1,
+        }}
+        transition={{
+          type: "spring", stiffness: 60, damping: 20,
+          ...(phase >= 6 ? { duration: 1.5, type: "tween", ease: "easeIn" } : {}),
+        }}
+      >
+        <PlanetComp size={280} />
+        {/* Atmosphere glow */}
+        <div className="absolute inset-0 rounded-full"
+          style={{
+            width: 280, height: 280,
+            boxShadow: `0 0 60px ${islandColor}40, 0 0 120px ${islandColor}20, inset 0 0 40px ${islandColor}15`,
+            borderRadius: "50%",
+          }}
+        />
+      </motion.div>
+
+      {/* ── Island icon on planet surface ── */}
       <AnimatePresence>
-        {phase >= 1 && phase < 3 && (
-          <motion.div key="island-icon"
-            className="absolute flex flex-col items-center gap-4"
-            initial={{ scale: 0.2, opacity: 0 }}
-            animate={{ scale: phase < 2 ? 1.4 : 0.5, opacity: phase < 2 ? 1 : 0, y: phase >= 2 ? -80 : 0 }}
-            exit={{ scale: 0.3, opacity: 0 }}
-            transition={{ type: "spring", stiffness: 200, damping: 20 }}>
-
-            {/* Star burst behind icon */}
-            {phase === 1 && <StarBurst color={islandColor} />}
-
-            <div className="relative flex flex-col items-center">
-              <motion.div
-                className="text-7xl"
-                animate={{ rotate: [0, -8, 8, 0], scale: [1, 1.08, 0.97, 1] }}
-                transition={{ duration: 1, repeat: Infinity, ease: "easeInOut" }}>
-                {islandIcon}
-              </motion.div>
-              <motion.p
-                className="mt-3 text-xl font-black text-white text-center"
-                initial={{ opacity: 0, y: 10 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: 0.3 }}>
-                {t.complete}
-              </motion.p>
-              <motion.p
-                className="text-sm font-bold mt-1"
-                style={{ color: islandColor }}
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                transition={{ delay: 0.6 }}>
-                {islandName}
-              </motion.p>
-              {/* Orbiting stars */}
-              {[0, 1, 2].map(i => (
-                <motion.div key={i} className="absolute text-2xl"
-                  animate={{ rotate: 360 }}
-                  transition={{ duration: 3, delay: i * 1, repeat: Infinity, ease: "linear" }}
-                  style={{ transformOrigin: `${60 + i * 8}px 0px` }}>
-                  ⭐
-                </motion.div>
-              ))}
-            </div>
+        {phase >= 0 && phase < 5 && (
+          <motion.div
+            className="absolute left-1/2 pointer-events-none flex flex-col items-center"
+            style={{ bottom: "28%" }}
+            initial={{ x: "-50%", y: 100, opacity: 0, scale: 0.3 }}
+            animate={{
+              y: phase >= 1 ? 0 : 100,
+              opacity: phase >= 4 ? [1, 0.5, 0] : 1,
+              scale: phase >= 1 ? 1 : 0.3,
+            }}
+            exit={{ opacity: 0, scale: 0 }}
+            transition={{ type: "spring", stiffness: 100, damping: 16 }}
+          >
+            {/* Glow ring around icon */}
+            <motion.div
+              className="absolute rounded-full"
+              style={{
+                width: 100, height: 100, top: -14, left: "50%", x: "-50%",
+                border: `2px solid ${islandColor}`,
+                boxShadow: `0 0 20px ${islandColor}60, 0 0 40px ${islandColor}30`,
+              }}
+              animate={{ scale: [1, 1.15, 1], opacity: [0.5, 0.8, 0.5] }}
+              transition={{ duration: 2, repeat: Infinity }}
+            />
+            <motion.div className="text-6xl relative z-10"
+              animate={{ rotate: [0, -5, 5, 0], y: [0, -4, 0] }}
+              transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}>
+              {islandIcon}
+            </motion.div>
+            {/* Island name badge */}
+            <motion.div
+              className="mt-2 px-4 py-1 rounded-full text-xs font-bold"
+              style={{
+                background: `${islandColor}20`, color: islandColor,
+                border: `1px solid ${islandColor}40`,
+              }}
+              initial={{ opacity: 0, y: 8 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.5 }}>
+              {islandName}
+            </motion.div>
           </motion.div>
         )}
       </AnimatePresence>
 
-      {/* ── Phase 2+: Astronaut ── */}
+      {/* ── "Island Complete!" banner (phase 1+) ── */}
       <AnimatePresence>
-        {phase >= 2 && phase < 6 && (
-          <motion.div key="astronaut"
-            className="absolute"
-            style={{ bottom: "22%", left: "15%" }}
-            initial={{ x: -120, opacity: 0 }}
+        {phase >= 1 && phase < 4 && (
+          <motion.div
+            key="banner"
+            className="absolute inset-x-0 top-[12%] flex flex-col items-center gap-3 pointer-events-none"
+            initial={{ y: -30, opacity: 0 }}
+            animate={{ y: 0, opacity: 1 }}
+            exit={{ y: -20, opacity: 0 }}
+            transition={{ type: "spring", stiffness: 120, damping: 16 }}
+          >
+            {/* Title glow */}
+            <motion.h1
+              className="text-2xl sm:text-3xl font-black text-white tracking-wide text-center"
+              style={{ textShadow: `0 0 30px ${islandColor}80, 0 0 60px ${islandColor}40` }}
+              animate={{ scale: [1, 1.04, 1] }}
+              transition={{ duration: 2, repeat: Infinity }}
+            >
+              {t.complete}
+            </motion.h1>
+
+            {/* Score badge */}
+            <motion.div
+              className="flex items-center gap-2 px-5 py-2 rounded-xl"
+              style={{
+                background: "rgba(255,255,255,0.06)",
+                border: "1px solid rgba(255,255,255,0.1)",
+                backdropFilter: "blur(8px)",
+              }}
+              initial={{ scale: 0, opacity: 0 }}
+              animate={{ scale: 1, opacity: 1 }}
+              transition={{ delay: 0.4, type: "spring" }}
+            >
+              <span className="text-lg">✨</span>
+              <span className="text-white/90 font-bold text-lg">{score}/{total}</span>
+              <span className="text-white/50 text-sm font-medium">{t.correct}</span>
+            </motion.div>
+
+            {/* Orbiting stars */}
+            {[0, 1, 2].map(i => (
+              <motion.div key={i} className="absolute text-xl pointer-events-none"
+                style={{ top: 0 }}
+                animate={{ rotate: 360 }}
+                transition={{ duration: 4, delay: i * 1.3, repeat: Infinity, ease: "linear" }}
+                >
+                <motion.span style={{
+                  display: "inline-block",
+                  transformOrigin: `${55 + i * 10}px 0px`,
+                }}>
+                  ⭐
+                </motion.span>
+              </motion.div>
+            ))}
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      {/* ── Rocket (phase 3+) ── */}
+      <AnimatePresence>
+        {phase >= 3 && phase < 7 && (
+          <motion.div key="rocket"
+            className="absolute pointer-events-none"
+            style={{ right: "25%", bottom: "30%" }}
+            initial={{ y: -350, opacity: 0 }}
             animate={{
-              x: phase >= 5 ? 110 : 0,   // boards the rocket at phase 5
+              y: phase >= 6 ? -500 : 0,
+              opacity: phase >= 6 ? [1, 1, 0] : 1,
+              x: phase >= 6 ? 40 : 0,
+            }}
+            transition={{
+              y: phase >= 6
+                ? { duration: 1.8, ease: [0.4, 0, 0.2, 1] }
+                : { type: "spring", stiffness: 100, damping: 18 },
+              opacity: phase >= 6 ? { duration: 1.8 } : { duration: 0.4 },
+            }}
+          >
+            <RocketSVG color={islandColor} flame={phase >= 6} warmUp={phase === 5} />
+
+            {/* Landing lights (phases 3-4) */}
+            {phase >= 3 && phase < 5 && (
+              <motion.div className="absolute -bottom-4 left-1/2"
+                style={{ x: "-50%", width: 60, height: 8, borderRadius: 4 }}
+                animate={{ opacity: [0.3, 0.7, 0.3], boxShadow: [`0 0 12px ${islandColor}60`, `0 0 24px ${islandColor}80`, `0 0 12px ${islandColor}60`] }}
+                transition={{ duration: 1.2, repeat: Infinity }}
+              />
+            )}
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      {/* ── Fuel Gauge (phase 4+) — next to rocket ── */}
+      <AnimatePresence>
+        {phase >= 4 && phase < 6 && (
+          <motion.div key="gauge"
+            className="absolute pointer-events-none"
+            style={{ right: "8%", bottom: "32%" }}
+            initial={{ opacity: 0, x: 20 }}
+            animate={{ opacity: 1, x: 0 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: 0.5 }}
+          >
+            <CircularFuelGauge pct={fuelPct} color={islandColor} label={t.energy} />
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      {/* ── Fueling label (phase 4) ── */}
+      {phase === 4 && (
+        <motion.p
+          className="absolute bottom-[22%] inset-x-0 text-center text-sm font-bold pointer-events-none"
+          style={{ color: islandColor, textShadow: `0 0 16px ${islandColor}60` }}
+          initial={{ opacity: 0 }}
+          animate={{ opacity: [0, 1, 0.7, 1] }}
+          transition={{ duration: 1.5, repeat: Infinity }}
+        >
+          {t.fueling}
+        </motion.p>
+      )}
+
+      {/* ── Energy orbs streaming (phase 4) ── */}
+      {phase === 4 && (
+        <div className="absolute inset-0 pointer-events-none">
+          {Array.from({ length: orbCount }, (_, i) => (
+            <EnergyOrb key={i} i={i} total={orbCount} color={islandColor} startDelay={0} />
+          ))}
+          {/* Second wave */}
+          {Array.from({ length: Math.min(orbCount, 8) }, (_, i) => (
+            <EnergyOrb key={`w2-${i}`} i={i} total={Math.min(orbCount, 8)} color={islandColor} startDelay={1.5} />
+          ))}
+        </div>
+      )}
+
+      {/* ── Astronaut (phase 3-5, walks in then boards) ── */}
+      <AnimatePresence>
+        {phase >= 3 && phase < 6 && (
+          <motion.div key="astro"
+            className="absolute pointer-events-none"
+            style={{ bottom: "26%", left: "22%" }}
+            initial={{ x: -100, opacity: 0 }}
+            animate={{
+              x: phase >= 5 ? 130 : 0,
               opacity: phase >= 5 ? 0 : 1,
               scale: phase >= 5 ? 0.4 : 1,
             }}
             exit={{ opacity: 0 }}
-            transition={{ type: "spring", stiffness: 120, damping: 18, duration: phase >= 5 ? 0.8 : 0.6 }}>
+            transition={{ type: "spring", stiffness: 100, damping: 16 }}
+          >
             <AstronautSVG color={islandColor} />
-            {/* Wave on arrival */}
-            {phase === 2 && (
-              <motion.div className="absolute -top-8 -right-4 text-2xl"
+            {/* Wave */}
+            {phase === 3 && (
+              <motion.div className="absolute -top-6 -right-3 text-xl"
                 animate={{ rotate: [0, 20, -10, 20, 0] }}
-                transition={{ delay: 0.6, duration: 1 }}>
+                transition={{ delay: 0.5, duration: 1 }}>
                 👋
               </motion.div>
             )}
@@ -340,119 +524,79 @@ export default function IslandCompleteAnimation({ islandIcon, islandColor, islan
         )}
       </AnimatePresence>
 
-      {/* ── Phase 3+: Rocket ── */}
-      <AnimatePresence>
-        {phase >= 3 && phase < 7 && (
-          <motion.div key="rocket"
-            className="absolute"
-            style={{ right: "18%", bottom: "18%" }}
-            initial={{ y: -300, opacity: 0 }}
-            animate={{
-              y: phase >= 6 ? -400 : 0,
-              x: phase >= 6 ? 80 : 0,
-              opacity: phase >= 6 ? 0 : 1,
-              rotate: phase >= 6 ? -15 : 0,
-            }}
-            transition={{
-              y: { type: "spring", stiffness: 150, damping: 22 },
-              ...(phase >= 6 ? { duration: 1.5, ease: "easeIn" } : {}),
-            }}>
-            <RocketSVG color={islandColor} flame={phase >= 6} />
+      {/* ── "Ready for launch!" (phase 5) ── */}
+      {phase === 5 && (
+        <motion.div
+          className="absolute inset-x-0 top-[20%] flex flex-col items-center gap-2 pointer-events-none"
+          initial={{ opacity: 0, scale: 0.8 }}
+          animate={{ opacity: 1, scale: 1 }}
+        >
+          <motion.p className="text-lg font-black text-green-400"
+            style={{ textShadow: "0 0 20px rgba(74,222,128,0.5)" }}
+            animate={{ scale: [1, 1.05, 1] }}
+            transition={{ duration: 1, repeat: Infinity }}
+          >
+            {t.ready}
+          </motion.p>
+        </motion.div>
+      )}
 
-            {/* Fuel gauge on the side of rocket */}
-            <div className="absolute -left-10 top-10">
-              <FuelGauge pct={phase >= 4 ? 100 : 0} color={islandColor} />
-            </div>
+      {/* ── "Liftoff!" (phase 6) ── */}
+      {phase === 6 && (
+        <motion.div
+          className="absolute inset-x-0 top-[30%] flex items-center justify-center pointer-events-none"
+          initial={{ opacity: 0, scale: 0.3 }}
+          animate={{ opacity: [0, 1, 1, 0], scale: [0.3, 1.4, 1.2, 1.5] }}
+          transition={{ duration: 1.8 }}
+        >
+          <span className="text-3xl font-black tracking-widest"
+            style={{ color: islandColor, textShadow: `0 0 40px ${islandColor}80, 0 2px 0 rgba(0,0,0,0.5)` }}>
+            {t.liftoff}
+          </span>
+        </motion.div>
+      )}
 
-            {/* "Fueling" label */}
-            {phase === 4 && (
-              <motion.p
-                className="absolute -bottom-8 left-1/2 -translate-x-1/2 text-xs font-bold whitespace-nowrap"
-                style={{ color: islandColor }}
-                initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-                {t.fueling}
-              </motion.p>
-            )}
-            {/* "Ready!" label */}
-            {phase === 5 && (
-              <motion.p
-                className="absolute -bottom-8 left-1/2 -translate-x-1/2 text-xs font-bold whitespace-nowrap text-green-400"
-                initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-                {t.ready}
-              </motion.p>
-            )}
-            {/* Liftoff label */}
-            {phase === 6 && (
-              <motion.p
-                className="absolute -bottom-10 left-1/2 -translate-x-1/2 text-lg font-black whitespace-nowrap"
-                style={{ color: islandColor }}
-                initial={{ opacity: 0, scale: 0.5 }}
-                animate={{ opacity: 1, scale: 1.3 }}>
-                {t.liftoff}
-              </motion.p>
-            )}
-          </motion.div>
-        )}
-      </AnimatePresence>
+      {/* ── Screen shake during launch (phase 6) ── */}
+      {phase === 6 && (
+        <motion.div className="fixed inset-0 pointer-events-none"
+          animate={{ x: [0, -3, 4, -2, 3, -1, 0], y: [0, 2, -3, 1, -2, 1, 0] }}
+          transition={{ duration: 0.4, repeat: 3 }}
+        />
+      )}
 
-      {/* ── Phase 4: Energy particles streaming from island icon to fuel gauge ── */}
-      {phase === 4 && (
+      {/* ── Exhaust particles during launch (phase 6) ── */}
+      {phase >= 6 && phase < 7 && (
         <div className="absolute inset-0 pointer-events-none">
-          {Array.from({ length: particleCount }, (_, i) => (
-            <EnergyParticle
-              key={i} i={i} color={islandColor}
-              fromX={window.innerWidth * 0.25 - 4}
-              fromY={window.innerHeight * 0.35 - 4}
-              toX={window.innerWidth * 0.72}
-              toY={window.innerHeight * 0.42}
-            />
-          ))}
-          {/* Repeat wave */}
-          {Array.from({ length: particleCount }, (_, i) => (
-            <EnergyParticle
-              key={`b-${i}`} i={i + particleCount * 0.5} color={islandColor}
-              fromX={window.innerWidth * 0.3}
-              fromY={window.innerHeight * 0.38}
-              toX={window.innerWidth * 0.72}
-              toY={window.innerHeight * 0.42}
-            />
-          ))}
+          {Array.from({ length: 12 }, (_, i) => {
+            const x = 55 + (Math.random() - 0.5) * 20;
+            const startY = 55 + Math.random() * 15;
+            return (
+              <motion.div key={`ex-${i}`}
+                className="absolute rounded-full"
+                style={{
+                  width: 4 + Math.random() * 6,
+                  height: 4 + Math.random() * 6,
+                  background: i % 3 === 0 ? "#FFD700" : i % 3 === 1 ? "#FF6B00" : "rgba(255,100,0,0.5)",
+                  left: `${x}%`, top: `${startY}%`,
+                }}
+                animate={{
+                  y: [0, 200 + Math.random() * 100],
+                  opacity: [0.9, 0],
+                  scale: [1, 2.5],
+                }}
+                transition={{ duration: 0.8 + Math.random() * 0.4, delay: i * 0.08, repeat: 2 }}
+              />
+            );
+          })}
         </div>
       )}
 
-      {/* ── Phase 4+: Floating island icon (energy source) ── */}
-      {phase >= 4 && phase < 6 && (
-        <motion.div
-          className="absolute text-5xl"
-          style={{ left: "20%", top: "30%" }}
-          animate={{ scale: [1, 1.1, 1], opacity: phase >= 5 ? [1, 0] : 1 }}
-          transition={{ duration: 1.5, repeat: phase >= 5 ? 0 : Infinity }}>
-          {islandIcon}
-        </motion.div>
-      )}
-
-      {/* ── Rocket exhaust trail (phase 6) ── */}
-      {phase >= 6 && (
-        <motion.div
-          className="absolute pointer-events-none"
-          style={{ right: "28%", bottom: "28%", width: 40, height: 120 }}
-          initial={{ opacity: 0 }}
-          animate={{ opacity: [0, 0.8, 0] }}
-          transition={{ duration: 1.5 }}>
-          {[0, 1, 2, 3, 4].map(i => (
-            <motion.div key={i}
-              className="absolute rounded-full"
-              style={{
-                width: 8 + i * 4, height: 8 + i * 4,
-                background: i === 0 ? "#FFD700" : i === 1 ? "#FF6B00" : "rgba(255,100,0,0.3)",
-                left: "50%", transform: "translateX(-50%)",
-                top: 40 + i * 18,
-              }}
-              animate={{ opacity: [0.9, 0.3, 0], scale: [1, 2, 3] }}
-              transition={{ duration: 0.6, delay: i * 0.1, repeat: Infinity }} />
-          ))}
-        </motion.div>
-      )}
+      {/* ── Vignette overlay ── */}
+      <div className="fixed inset-0 pointer-events-none"
+        style={{
+          background: "radial-gradient(ellipse at 50% 50%, transparent 40%, rgba(0,0,0,0.6) 100%)",
+        }}
+      />
     </motion.div>
   );
 }

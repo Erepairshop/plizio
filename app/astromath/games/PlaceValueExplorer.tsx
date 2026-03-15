@@ -1,6 +1,8 @@
 "use client";
-// PlaceValueExplorer — Place value discovery for Grade 4
-// Teaches: 3247 = 3000 + 200 + 40 + 7
+// PlaceValueExplorer — Place value discovery for Grade 3–5
+// G3: 3-digit (hundreds/tens/ones)  →  305 = 300 + 0 + 5
+// G4: 4-digit (thousands/hundreds/tens/ones)  →  3247 = 3000 + 200 + 40 + 7
+// G5: 5-digit (ten-thousands/thousands/hundreds/tens/ones)  →  34271 = 30000 + 4000 + 200 + 70 + 1
 // Each digit card is tapped to reveal its actual contribution.
 
 import { memo, useState, useCallback } from "react";
@@ -12,7 +14,7 @@ const LABELS: Record<string, Record<string, string>> = {
   en: {
     split: "A number is made of place values:",
     instruction: "Tap each digit to reveal its value!",
-    th: "thousands", h: "hundreds", t: "tens", o: "ones",
+    tth: "ten-thousands", th: "thousands", h: "hundreds", t: "tens", o: "ones",
     zero: "none",
     discover: "You discovered:",
     next: "Next", done: "Brilliant! ✨", tap: "Tap!",
@@ -20,7 +22,7 @@ const LABELS: Record<string, Record<string, string>> = {
   hu: {
     split: "Egy szám helyiértékekből áll:",
     instruction: "Koppints minden számjegyre az értékért!",
-    th: "ezres", h: "százas", t: "tízes", o: "egyes",
+    tth: "tízezres", th: "ezres", h: "százas", t: "tízes", o: "egyes",
     zero: "nincs",
     discover: "Felfedezted:",
     next: "Következő", done: "Fantasztikus! ✨", tap: "Koppints!",
@@ -28,7 +30,7 @@ const LABELS: Record<string, Record<string, string>> = {
   de: {
     split: "Eine Zahl besteht aus Stellenwerten:",
     instruction: "Tippe auf jede Ziffer, um ihren Wert zu entdecken!",
-    th: "Tausender", h: "Hunderter", t: "Zehner", o: "Einer",
+    tth: "Zehntausender", th: "Tausender", h: "Hunderter", t: "Zehner", o: "Einer",
     zero: "–",
     discover: "Du hast entdeckt:",
     next: "Weiter", done: "Fantastisch! ✨", tap: "Antippen",
@@ -36,25 +38,39 @@ const LABELS: Record<string, Record<string, string>> = {
   ro: {
     split: "Un număr este format din valori poziționale:",
     instruction: "Atinge fiecare cifră pentru a-i descoperi valoarea!",
-    th: "mii", h: "sute", t: "zeci", o: "unități",
+    tth: "zeci de mii", th: "mii", h: "sute", t: "zeci", o: "unități",
     zero: "–",
     discover: "Ai descoperit:",
     next: "Înainte", done: "Fantastic! ✨", tap: "Atinge",
   },
 };
 
-// Colors per place: thousands, hundreds, tens, ones
-const PLACE_COLORS = ["#4ECDC4", "#B44DFF", "#FF6B6B", "#FFD700"];
-const PLACE_KEYS = ["th", "h", "t", "o"] as const;
+// G5: ten-thousands, thousands, hundreds, tens, ones
+const PLACE_COLORS_5 = ["#00D4FF", "#4ECDC4", "#B44DFF", "#FF6B6B", "#FFD700"];
+const PLACE_KEYS_5 = ["tth", "th", "h", "t", "o"] as const;
+// G4: thousands, hundreds, tens, ones
+const PLACE_COLORS_4 = ["#4ECDC4", "#B44DFF", "#FF6B6B", "#FFD700"];
+const PLACE_KEYS_4 = ["th", "h", "t", "o"] as const;
+// G3: only hundreds, tens, ones
+const PLACE_COLORS_3 = ["#B44DFF", "#FF6B6B", "#FFD700"];
+const PLACE_KEYS_3 = ["h", "t", "o"] as const;
 
 // ─── Round data ───────────────────────────────────────────────────────────────
-const ROUND_POOL = [
+const ROUND_POOL_G5 = [
+  34271, 52803, 71046, 25190, 48062,
+  63405, 90213, 17580, 42607, 85031,
+];
+const ROUND_POOL_G4 = [
   2347, 1536, 4213, 3421, 5132,
   2053, 3040, 4102, 6208, 1405,
 ];
+const ROUND_POOL_G3 = [
+  347, 508, 215, 730, 461,
+  893, 604, 152, 976, 320,
+];
 
-function generateRounds(): number[] {
-  const pool = [...ROUND_POOL];
+function generateRounds(grade: number): number[] {
+  const pool = [...(grade >= 5 ? ROUND_POOL_G5 : grade <= 3 ? ROUND_POOL_G3 : ROUND_POOL_G4)];
   for (let i = pool.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [pool[i], pool[j]] = [pool[j], pool[i]];
@@ -62,7 +78,17 @@ function generateRounds(): number[] {
   return pool.slice(0, 6);
 }
 
-function decompose(n: number): [number, number, number, number] {
+function decompose5(n: number): number[] {
+  return [
+    Math.floor(n / 10000) * 10000,
+    Math.floor((n % 10000) / 1000) * 1000,
+    Math.floor((n % 1000) / 100) * 100,
+    Math.floor((n % 100) / 10) * 10,
+    n % 10,
+  ];
+}
+
+function decompose4(n: number): number[] {
   return [
     Math.floor(n / 1000) * 1000,
     Math.floor((n % 1000) / 100) * 100,
@@ -71,28 +97,42 @@ function decompose(n: number): [number, number, number, number] {
   ];
 }
 
+function decompose3(n: number): number[] {
+  return [
+    Math.floor(n / 100) * 100,
+    Math.floor((n % 100) / 10) * 10,
+    n % 10,
+  ];
+}
+
+function getDigits(n: number, grade: number): number[] {
+  if (grade >= 5) return [Math.floor(n / 10000), Math.floor((n % 10000) / 1000), Math.floor((n % 1000) / 100), Math.floor((n % 100) / 10), n % 10];
+  if (grade <= 3) return [Math.floor(n / 100), Math.floor((n % 100) / 10), n % 10];
+  return [Math.floor(n / 1000), Math.floor((n % 1000) / 100), Math.floor((n % 100) / 10), n % 10];
+}
+
 // ─── Main Component ───────────────────────────────────────────────────────────
 const PlaceValueExplorer = memo(function PlaceValueExplorer({
-  color, onDone, lang = "en",
+  color, onDone, lang = "en", grade = 4,
 }: {
   color: string;
   onDone: (score: number, total: number) => void;
   lang?: string;
+  grade?: number;
 }) {
   const lbl = LABELS[lang] ?? LABELS.en;
-  const [rounds] = useState<number[]>(generateRounds);
+  const placeColors = grade >= 5 ? PLACE_COLORS_5 : grade <= 3 ? PLACE_COLORS_3 : PLACE_COLORS_4;
+  const placeKeys = grade >= 5 ? PLACE_KEYS_5 : grade <= 3 ? PLACE_KEYS_3 : PLACE_KEYS_4;
+  const digitCount = grade >= 5 ? 5 : grade <= 3 ? 3 : 4;
+
+  const [rounds] = useState<number[]>(() => generateRounds(grade));
   const [idx, setIdx] = useState(0);
-  const [revealed, setRevealed] = useState([false, false, false, false]);
+  const [revealed, setRevealed] = useState<boolean[]>(Array(digitCount).fill(false));
   const [completed, setCompleted] = useState(0);
 
   const n = rounds[idx];
-  const parts = decompose(n);
-  const digits = [
-    Math.floor(n / 1000),
-    Math.floor((n % 1000) / 100),
-    Math.floor((n % 100) / 10),
-    n % 10,
-  ];
+  const parts = grade >= 5 ? decompose5(n) : grade <= 3 ? decompose3(n) : decompose4(n);
+  const digits = getDigits(n, grade);
   const allRevealed = revealed.every(Boolean);
 
   const revealPart = (i: number) => {
@@ -107,8 +147,8 @@ const PlaceValueExplorer = memo(function PlaceValueExplorer({
     setCompleted(newCompleted);
     if (idx + 1 >= rounds.length) { onDone(newCompleted, rounds.length); return; }
     setIdx(i => i + 1);
-    setRevealed([false, false, false, false]);
-  }, [idx, rounds.length, onDone, completed]);
+    setRevealed(Array(digitCount).fill(false));
+  }, [idx, rounds.length, onDone, completed, digitCount]);
 
   // Non-zero parts for the formula display
   const nonZero = parts.map((v, i) => ({ v, i })).filter(({ v }) => v > 0);
@@ -130,7 +170,7 @@ const PlaceValueExplorer = memo(function PlaceValueExplorer({
           <span className="text-6xl font-black tracking-[0.15em]">
             {String(n).split("").map((d, i) => (
               <motion.span key={i}
-                animate={{ color: revealed[i] ? PLACE_COLORS[i] : "rgba(255,255,255,0.9)" }}
+                animate={{ color: revealed[i] ? placeColors[i] : "rgba(255,255,255,0.9)" }}
                 transition={{ duration: 0.3 }}>
                 {d}
               </motion.span>
@@ -146,11 +186,11 @@ const PlaceValueExplorer = memo(function PlaceValueExplorer({
         <p className="text-white/70 text-xs font-bold mt-0.5">{lbl.instruction}</p>
       </div>
 
-      {/* 4 place-value cards */}
-      <div className="grid grid-cols-4 gap-2">
+      {/* Place-value cards */}
+      <div className={`grid gap-2 ${grade >= 5 ? "grid-cols-5" : grade <= 3 ? "grid-cols-3" : "grid-cols-4"}`}>
         {parts.map((val, i) => {
           const isRev = revealed[i];
-          const col = PLACE_COLORS[i];
+          const col = placeColors[i];
           return (
             <motion.button key={i}
               onClick={() => revealPart(i)}
@@ -170,7 +210,7 @@ const PlaceValueExplorer = memo(function PlaceValueExplorer({
               {/* Place label */}
               <span className="text-[9px] font-bold text-center leading-tight px-0.5"
                 style={{ color: isRev ? col : "rgba(255,255,255,0.3)" }}>
-                {lbl[PLACE_KEYS[i]]}
+                {lbl[placeKeys[i]]}
               </span>
               {/* Revealed value or ? */}
               {isRev ? (
@@ -204,7 +244,7 @@ const PlaceValueExplorer = memo(function PlaceValueExplorer({
                 <span className="text-white/40 text-lg">=</span>
                 {nonZero.map(({ v, i }, idx2) => (
                   <span key={i} className="flex items-center gap-1.5">
-                    <span className="text-xl font-black" style={{ color: PLACE_COLORS[i] }}>{v}</span>
+                    <span className="text-xl font-black" style={{ color: placeColors[i] }}>{v}</span>
                     {idx2 < nonZero.length - 1 && (
                       <span className="text-white/40 text-lg">+</span>
                     )}

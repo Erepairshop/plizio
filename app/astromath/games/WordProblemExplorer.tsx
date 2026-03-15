@@ -1,5 +1,5 @@
 "use client";
-// WordProblemExplorer — Word problem analysis for Grade 4
+// WordProblemExplorer — Word problem analysis for Grade 3–5
 // Teaches students to break any problem into 3 steps:
 //   1. Gegeben  (what we know)
 //   2. Gesucht  (what we must find)
@@ -235,6 +235,78 @@ const PROBLEMS: Record<string, WordProblem[]> = {
   ],
 };
 
+// G3 problems — numbers ≤ 999, simpler operations
+const PROBLEMS_G3: Record<string, WordProblem[]> = {
+  de: [
+    { text: "Lukas hat 350 Murmeln. Er verschenkt 125 an seinen Freund. Wie viele hat er noch?", given: "350 Murmeln, 125 verschenkt", asked: "Wie viele Murmeln hat Lukas noch?", calc: "350 − 125 = ?", answer: "350 − 125 = 225 Murmeln" },
+    { text: "In der Bibliothek stehen 248 Bücher. Es kommen 134 neue dazu. Wie viele sind es jetzt?", given: "248 Bücher, 134 neue", asked: "Wie viele Bücher sind es jetzt?", calc: "248 + 134 = ?", answer: "248 + 134 = 382 Bücher" },
+    { text: "Eine Schachtel enthält 8 Stifte. Die Klasse braucht 5 Schachteln. Wie viele Stifte sind das?", given: "8 Stifte pro Schachtel, 5 Schachteln", asked: "Wie viele Stifte insgesamt?", calc: "5 × 8 = ?", answer: "5 × 8 = 40 Stifte" },
+    { text: "24 Kinder teilen sich gleichmäßig in 4 Gruppen auf. Wie viele sind in jeder Gruppe?", given: "24 Kinder, 4 Gruppen", asked: "Wie viele Kinder pro Gruppe?", calc: "24 ÷ 4 = ?", answer: "24 ÷ 4 = 6 Kinder pro Gruppe" },
+    { text: "Auf dem Bauernhof sind 475 Hühner. 180 laufen auf die Weide. Wie viele bleiben im Stall?", given: "475 Hühner, 180 auf der Weide", asked: "Wie viele Hühner bleiben im Stall?", calc: "475 − 180 = ?", answer: "475 − 180 = 295 Hühner" },
+    { text: "Ein Korb fasst 6 Äpfel. Der Bauer füllt 7 Körbe. Wie viele Äpfel hat er?", given: "6 Äpfel pro Korb, 7 Körbe", asked: "Wie viele Äpfel insgesamt?", calc: "7 × 6 = ?", answer: "7 × 6 = 42 Äpfel" },
+  ],
+  en: [
+    { text: "Lukas has 350 marbles. He gives 125 to his friend. How many does he have left?", given: "350 marbles, 125 given away", asked: "How many marbles does Lukas have left?", calc: "350 − 125 = ?", answer: "350 − 125 = 225 marbles" },
+    { text: "The library has 248 books. 134 new ones arrive. How many are there now?", given: "248 books, 134 new ones", asked: "How many books are there now?", calc: "248 + 134 = ?", answer: "248 + 134 = 382 books" },
+    { text: "A box contains 8 pencils. The class needs 5 boxes. How many pencils is that?", given: "8 pencils per box, 5 boxes", asked: "How many pencils in total?", calc: "5 × 8 = ?", answer: "5 × 8 = 40 pencils" },
+    { text: "24 children split into 4 equal groups. How many are in each group?", given: "24 children, 4 groups", asked: "How many children per group?", calc: "24 ÷ 4 = ?", answer: "24 ÷ 4 = 6 children per group" },
+    { text: "There are 475 chickens on the farm. 180 run to the meadow. How many stay in the barn?", given: "475 chickens, 180 in the meadow", asked: "How many chickens stay in the barn?", calc: "475 − 180 = ?", answer: "475 − 180 = 295 chickens" },
+    { text: "A basket holds 6 apples. The farmer fills 7 baskets. How many apples does he have?", given: "6 apples per basket, 7 baskets", asked: "How many apples in total?", calc: "7 × 6 = ?", answer: "7 × 6 = 42 apples" },
+  ],
+  hu: [
+    { text: "Lukásnak 350 golyója van. 125-öt odaad a barátjának. Hány marad neki?", given: "350 golyó, 125-öt ajándékoz", asked: "Hány golyója marad Lukásnak?", calc: "350 − 125 = ?", answer: "350 − 125 = 225 golyó" },
+    { text: "A könyvtárban 248 könyv van. 134 új könyv érkezik. Hány van most?", given: "248 könyv, 134 új", asked: "Összesen hány könyv van?", calc: "248 + 134 = ?", answer: "248 + 134 = 382 könyv" },
+    { text: "Egy dobozban 8 ceruza van. Az osztálynak 5 dobozra van szüksége. Hány ceruza az?", given: "8 ceruza/doboz, 5 doboz", asked: "Összesen hány ceruza?", calc: "5 × 8 = ?", answer: "5 × 8 = 40 ceruza" },
+    { text: "24 gyerek 4 egyenlő csoportra oszlik. Hányan vannak egy csoportban?", given: "24 gyerek, 4 csoport", asked: "Hányan vannak csoportonként?", calc: "24 ÷ 4 = ?", answer: "24 ÷ 4 = 6 gyerek csoportonként" },
+    { text: "A tanyán 475 csirke van. 180 kimegy a legelőre. Hány marad az istállóban?", given: "475 csirke, 180 a legelőn", asked: "Hány csirke marad az istállóban?", calc: "475 − 180 = ?", answer: "475 − 180 = 295 csirke" },
+    { text: "Egy kosárba 6 alma fér. A gazda 7 kosarat tölt meg. Hány almája van?", given: "6 alma/kosár, 7 kosár", asked: "Összesen hány alma?", calc: "7 × 6 = ?", answer: "7 × 6 = 42 alma" },
+  ],
+  ro: [
+    { text: "Lukas are 350 de bile. Dă 125 prietenului său. Câte îi mai rămân?", given: "350 bile, 125 dăruite", asked: "Câte bile îi rămân lui Lukas?", calc: "350 − 125 = ?", answer: "350 − 125 = 225 bile" },
+    { text: "Biblioteca are 248 de cărți. Sosesc 134 noi. Câte sunt acum?", given: "248 cărți, 134 noi", asked: "Câte cărți sunt acum?", calc: "248 + 134 = ?", answer: "248 + 134 = 382 cărți" },
+    { text: "O cutie conține 8 creioane. Clasa are nevoie de 5 cutii. Câte creioane sunt?", given: "8 creioane/cutie, 5 cutii", asked: "Câte creioane în total?", calc: "5 × 8 = ?", answer: "5 × 8 = 40 creioane" },
+    { text: "24 de copii se împart în 4 grupe egale. Câți sunt în fiecare grupă?", given: "24 copii, 4 grupe", asked: "Câți copii pe grupă?", calc: "24 ÷ 4 = ?", answer: "24 ÷ 4 = 6 copii pe grupă" },
+    { text: "La fermă sunt 475 de găini. 180 aleargă pe pajiște. Câte rămân în grajd?", given: "475 găini, 180 pe pajiște", asked: "Câte găini rămân în grajd?", calc: "475 − 180 = ?", answer: "475 − 180 = 295 găini" },
+    { text: "Un coș încape 6 mere. Fermierul umple 7 coșuri. Câte mere are?", given: "6 mere/coș, 7 coșuri", asked: "Câte mere în total?", calc: "7 × 6 = ?", answer: "7 × 6 = 42 mere" },
+  ],
+};
+
+// G5 problems — larger numbers, multi-step, decimals, fractions
+const PROBLEMS_G5: Record<string, WordProblem[]> = {
+  de: [
+    { text: "Eine Schule hat 24 Klassen mit je 28 Schülern. Wie viele Schüler besuchen die Schule?", given: "24 Klassen, 28 Schüler pro Klasse", asked: "Wie viele Schüler insgesamt?", calc: "24 × 28 = ?", answer: "24 × 28 = 672 Schüler" },
+    { text: "Ein Zug fährt 185 km/h. Wie weit kommt er in 3 Stunden?", given: "185 km/h, 3 Stunden", asked: "Wie viele Kilometer fährt der Zug?", calc: "185 × 3 = ?", answer: "185 × 3 = 555 km" },
+    { text: "Lena spart 45,50 € pro Monat. Wie viel hat sie nach 6 Monaten?", given: "45,50 € pro Monat, 6 Monate", asked: "Wie viel hat Lena insgesamt gespart?", calc: "45,50 × 6 = ?", answer: "45,50 × 6 = 273 €" },
+    { text: "3/4 einer Pizza wiegen 450 g. Wie viel wiegt die ganze Pizza?", given: "3/4 Pizza = 450 g", asked: "Wie viel wiegt eine ganze Pizza?", calc: "450 ÷ 3 × 4 = ?", answer: "450 ÷ 3 × 4 = 600 g" },
+    { text: "Auf einem Parkplatz stehen 856 Autos. 279 fahren weg und 134 kommen neu dazu. Wie viele stehen jetzt dort?", given: "856 Autos, 279 weg, 134 neu", asked: "Wie viele Autos sind es jetzt?", calc: "856 − 279 + 134 = ?", answer: "856 − 279 + 134 = 711 Autos" },
+    { text: "Ein Schwimmbad ist 50 m lang. Tim schwimmt 14 Bahnen. Wie viele Meter schwimmt er?", given: "50 m pro Bahn, 14 Bahnen", asked: "Wie viele Meter insgesamt?", calc: "50 × 14 = ?", answer: "50 × 14 = 700 m" },
+  ],
+  en: [
+    { text: "A school has 24 classes with 28 students each. How many students attend the school?", given: "24 classes, 28 students per class", asked: "How many students in total?", calc: "24 × 28 = ?", answer: "24 × 28 = 672 students" },
+    { text: "A train travels at 185 km/h. How far does it go in 3 hours?", given: "185 km/h, 3 hours", asked: "How many kilometers does the train travel?", calc: "185 × 3 = ?", answer: "185 × 3 = 555 km" },
+    { text: "Lena saves €45.50 per month. How much has she saved after 6 months?", given: "€45.50 per month, 6 months", asked: "How much has Lena saved in total?", calc: "45.50 × 6 = ?", answer: "45.50 × 6 = €273" },
+    { text: "3/4 of a pizza weighs 450 g. How much does the whole pizza weigh?", given: "3/4 pizza = 450 g", asked: "How much does a whole pizza weigh?", calc: "450 ÷ 3 × 4 = ?", answer: "450 ÷ 3 × 4 = 600 g" },
+    { text: "A parking lot has 856 cars. 279 leave and 134 new ones arrive. How many are there now?", given: "856 cars, 279 leave, 134 arrive", asked: "How many cars are there now?", calc: "856 − 279 + 134 = ?", answer: "856 − 279 + 134 = 711 cars" },
+    { text: "A swimming pool is 50 m long. Tim swims 14 laps. How many meters does he swim?", given: "50 m per lap, 14 laps", asked: "How many meters in total?", calc: "50 × 14 = ?", answer: "50 × 14 = 700 m" },
+  ],
+  hu: [
+    { text: "Egy iskolában 24 osztály van, mindegyikben 28 tanuló. Hány tanuló jár az iskolába?", given: "24 osztály, 28 tanuló/osztály", asked: "Összesen hány tanuló?", calc: "24 × 28 = ?", answer: "24 × 28 = 672 tanuló" },
+    { text: "Egy vonat 185 km/h-val halad. Milyen messzire jut 3 óra alatt?", given: "185 km/h, 3 óra", asked: "Hány kilométert tesz meg a vonat?", calc: "185 × 3 = ?", answer: "185 × 3 = 555 km" },
+    { text: "Lena havonta 45,50 eurót takarít meg. Mennyit takarít meg 6 hónap alatt?", given: "havi 45,50 €, 6 hónap", asked: "Mennyit takarított meg Lena összesen?", calc: "45,50 × 6 = ?", answer: "45,50 × 6 = 273 €" },
+    { text: "Egy pizza 3/4-e 450 g. Mennyit nyom az egész pizza?", given: "3/4 pizza = 450 g", asked: "Mennyit nyom egy egész pizza?", calc: "450 ÷ 3 × 4 = ?", answer: "450 ÷ 3 × 4 = 600 g" },
+    { text: "Egy parkolóban 856 autó áll. 279 elmegy, 134 új érkezik. Hány van most?", given: "856 autó, 279 elment, 134 érkezett", asked: "Összesen hány autó van most?", calc: "856 − 279 + 134 = ?", answer: "856 − 279 + 134 = 711 autó" },
+    { text: "Egy uszoda 50 m hosszú. Tim 14 hosszt úszik. Hány métert úszik összesen?", given: "50 m/hossz, 14 hossz", asked: "Összesen hány méter?", calc: "50 × 14 = ?", answer: "50 × 14 = 700 m" },
+  ],
+  ro: [
+    { text: "O școală are 24 de clase cu câte 28 de elevi fiecare. Câți elevi frecventează școala?", given: "24 clase, 28 elevi/clasă", asked: "Câți elevi în total?", calc: "24 × 28 = ?", answer: "24 × 28 = 672 elevi" },
+    { text: "Un tren circulă cu 185 km/h. Cât de departe ajunge în 3 ore?", given: "185 km/h, 3 ore", asked: "Câți kilometri parcurge trenul?", calc: "185 × 3 = ?", answer: "185 × 3 = 555 km" },
+    { text: "Lena economisește 45,50 € pe lună. Cât a economisit după 6 luni?", given: "45,50 € pe lună, 6 luni", asked: "Cât a economisit Lena în total?", calc: "45,50 × 6 = ?", answer: "45,50 × 6 = 273 €" },
+    { text: "3/4 dintr-o pizza cântărește 450 g. Cât cântărește pizza întreagă?", given: "3/4 pizza = 450 g", asked: "Cât cântărește o pizza întreagă?", calc: "450 ÷ 3 × 4 = ?", answer: "450 ÷ 3 × 4 = 600 g" },
+    { text: "Într-o parcare sunt 856 de mașini. 279 pleacă și 134 noi sosesc. Câte sunt acum?", given: "856 mașini, 279 pleacă, 134 sosesc", asked: "Câte mașini sunt acum?", calc: "856 − 279 + 134 = ?", answer: "856 − 279 + 134 = 711 mașini" },
+    { text: "O piscină are 50 m lungime. Tim înoată 14 lungimi. Câți metri înoată?", given: "50 m/lungime, 14 lungimi", asked: "Câți metri în total?", calc: "50 × 14 = ?", answer: "50 × 14 = 700 m" },
+  ],
+};
+
 // Step colors: given=color (passed), asked=gold, calc=green
 const STEP_COLORS = ["#00D4FF", "#FFD700", "#00FF88"];
 
@@ -276,14 +348,16 @@ function StepBlock({
 
 // ─── Main Component ───────────────────────────────────────────────────────────
 const WordProblemExplorer = memo(function WordProblemExplorer({
-  color, onDone, lang = "en",
+  color, onDone, lang = "en", grade = 4,
 }: {
   color: string;
   onDone: (score: number, total: number) => void;
   lang?: string;
+  grade?: number;
 }) {
   const lbl = LABELS[lang] ?? LABELS.en;
-  const pool = PROBLEMS[lang] ?? PROBLEMS.en;
+  const problemSet = grade >= 5 ? PROBLEMS_G5 : grade <= 3 ? PROBLEMS_G3 : PROBLEMS;
+  const pool = problemSet[lang] ?? problemSet.en;
 
   const [rounds] = useState<WordProblem[]>(() => {
     const shuffled = [...pool];
