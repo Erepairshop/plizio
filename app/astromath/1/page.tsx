@@ -26,6 +26,8 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
 import MissingNumber from "@/app/astromath/games/MissingNumber";
 import G1TeachingSlide from "@/app/astromath/games/G1TeachingSlide";
+import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
+import RocketTransition from "@/app/astromath/RocketTransition";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -86,6 +88,8 @@ const G1_LABEL: Record<string, string> = {
 type Screen =
   | "island-map"
   | "island-intro"
+  | "island-transition"     // quick rocket flyby when navigating between islands
+  | "island-complete-anim"  // 13s cinematic on first island completion
   | "mission-select"
   | "orbit-quiz"
   | "star-match"
@@ -485,18 +489,14 @@ export default function AstroMathG1Page() {
 
   // ── Island selected ──────────────────────────────────────────────────────────
   const handleIslandSelect = useCallback((island: IslandDef) => {
-    // Walk avatar to the island, then open intro after a short delay
     if (walkTimerRef.current) clearTimeout(walkTimerRef.current);
+    setActiveIsland(island);
     setAvatarIslandId(island.id);
-    setAvatarWalking(true);
-    setAvatarMood("happy");
-    walkTimerRef.current = setTimeout(() => {
-      setAvatarWalking(false);
-      setAvatarMood("idle");
-      setActiveIsland(island);
-      setScreen("island-intro");
-    }, avatarIslandId === island.id ? 0 : 700);
-  }, [avatarIslandId]);
+    setAvatarWalking(false);
+    setAvatarMood("idle");
+    // Show quick rocket transition before opening island intro
+    setScreen("island-transition");
+  }, []);
 
   // ── Start mission ────────────────────────────────────────────────────────────
   const startMission = useCallback((mission: MissionDef) => {
@@ -545,19 +545,24 @@ export default function AstroMathG1Page() {
   const handleAfterMission = useCallback(() => {
     if (!activeIsland) return;
     if (justUnlockedIsland) {
-      // First-time island completion — award card
-      const rarity = calculateRarity(missionScore.score, missionScore.total, 0, false);
-      saveCard({ id: generateCardId(), game: "astromath", rarity, score: missionScore.score, total: missionScore.total, date: new Date().toISOString() });
-      window.dispatchEvent(new Event("plizio-cards-changed"));
-      incrementTotalGames();
-      checkNewMilestones();
-      setEarnedCard(rarity);
-      setRewardScore({ score: missionScore.score, total: missionScore.total });
-      setScreen("reward");
+      // First-time island completion — play cinematic, then award card
+      setScreen("island-complete-anim");
     } else {
       setScreen("mission-select");
     }
-  }, [activeIsland, justUnlockedIsland, missionScore]);
+  }, [activeIsland, justUnlockedIsland]);
+
+  const handleIslandAnimDone = useCallback(() => {
+    // Called after 13s cinematic — now show the reward
+    const rarity = calculateRarity(missionScore.score, missionScore.total, 0, false);
+    saveCard({ id: generateCardId(), game: "astromath", rarity, score: missionScore.score, total: missionScore.total, date: new Date().toISOString() });
+    window.dispatchEvent(new Event("plizio-cards-changed"));
+    incrementTotalGames();
+    checkNewMilestones();
+    setEarnedCard(rarity);
+    setRewardScore({ score: missionScore.score, total: missionScore.total });
+    setScreen("reward");
+  }, [missionScore]);
 
   // ── Checkpoint ───────────────────────────────────────────────────────────────
   const startCheckpoint = useCallback((testId: string) => {
@@ -891,6 +896,32 @@ export default function AstroMathG1Page() {
       </div>
       <AvatarCompanion fixed={true} mood="focused" {...avatarProps} />
       </>
+    );
+  }
+
+  // ─── ISLAND TRANSITION (quick rocket flyby) ──────────────────────────────────
+  if (screen === "island-transition") {
+    return (
+      <div className="min-h-screen bg-[#060614] relative">
+        <Starfield />
+        <RocketTransition
+          color={bgColor}
+          onDone={() => setScreen("island-intro")}
+        />
+      </div>
+    );
+  }
+
+  // ─── ISLAND COMPLETE ANIMATION (13s cinematic) ───────────────────────────────
+  if (screen === "island-complete-anim" && activeIsland) {
+    return (
+      <IslandCompleteAnimation
+        islandIcon={activeIsland.icon}
+        islandColor={activeIsland.color}
+        islandName={activeIsland.name[lang as Lang] ?? activeIsland.name.en}
+        lang={lang}
+        onDone={handleIslandAnimDone}
+      />
     );
   }
 
