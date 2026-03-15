@@ -6,6 +6,7 @@
 import { memo, useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { speak } from "@/lib/astromath-tts";
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 const rand = (a: number, b: number) => Math.floor(Math.random() * (b - a + 1)) + a;
@@ -225,7 +226,13 @@ const TrueFalseBlitz = memo(function TrueFalseBlitz({
   const answeredRef = useRef(false);
   const total = qs.length;
 
+  // Speak statement when new question appears
+  useEffect(() => {
+    if (!done && qs[idx]) speak(qs[idx].statement, lang);
+  }, [idx, done]); // eslint-disable-line react-hooks/exhaustive-deps
+
   const advance = useCallback(() => {
+    answeredRef.current = false; // Reset for next question (needed when timerSeconds=0)
     setFb(null);
     setIdx(prev => {
       const next = prev + 1;

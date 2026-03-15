@@ -4,9 +4,10 @@
 // Supports: div (multiplication/division inverses), units (conversions)
 // 8 questions, MCQ 4 options
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { speak } from "@/lib/astromath-tts";
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 const rand = (a: number, b: number) => Math.floor(Math.random() * (b - a + 1)) + a;
@@ -269,6 +270,15 @@ const MissingNumber = memo(function MissingNumber({
   const q = qs[idx];
   const answered = selected !== null;
   const isCorrect = selected === q.answer;
+
+  // Speak equation when question changes
+  useEffect(() => {
+    if (q) {
+      // Build spoken version: replace ? with "..." for cleaner TTS
+      const spoken = q.parts.filter(Boolean).map(p => p === "?" ? "..." : p).join(" ");
+      speak(spoken, lang);
+    }
+  }, [idx]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const handleSelect = (opt: number) => {
     if (answered) return;

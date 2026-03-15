@@ -1,7 +1,8 @@
 "use client";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight, ChevronLeft, X } from "lucide-react";
+import { speak, SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Props ─────────────────────────────────────────────────────────────────────
 interface Props {
@@ -1183,6 +1184,13 @@ export default function G1TeachingSlide({ islandId, lang, color, onDone, onExit 
     setSlideIdx((i) => Math.max(0, Math.min(total - 1, i + delta)));
   };
 
+  // Speak title + caption whenever slide changes
+  useEffect(() => {
+    const titleText = slide.title[lang] ?? slide.title.en;
+    const captionText = slide.caption[lang] ?? slide.caption.en;
+    speak(`${titleText}. ${captionText}`, lang);
+  }, [slideIdx]); // eslint-disable-line react-hooks/exhaustive-deps
+
   const t = {
     next:   { en: "Next", hu: "Tovább", de: "Weiter", ro: "Următorul" }[lang] ?? "Next",
     done:   { en: "Start practicing!", hu: "Gyakorlás!", de: "Jetzt üben!", ro: "Să exersăm!" }[lang] ?? "Done!",
@@ -1228,12 +1236,15 @@ export default function G1TeachingSlide({ islandId, lang, color, onDone, onExit 
 
         {/* Title */}
         <AnimatePresence mode="wait">
-          <motion.h2 key={`title-${slideIdx}`}
-            className="text-xl font-black text-white text-center"
+          <motion.div key={`title-${slideIdx}`}
+            className="flex items-center gap-2 justify-center"
             initial={{ opacity: 0, y: -10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: 10 }}
             transition={{ duration: 0.25 }}>
-            {slide.title[lang] ?? slide.title.en}
-          </motion.h2>
+            <h2 className="text-xl font-black text-white text-center">
+              {slide.title[lang] ?? slide.title.en}
+            </h2>
+            <SpeakButton text={`${slide.title[lang] ?? slide.title.en}. ${slide.caption[lang] ?? slide.caption.en}`} lang={lang} size={15} />
+          </motion.div>
         </AnimatePresence>
 
         {/* Visual */}
