@@ -79,7 +79,7 @@ const SpeedRound = memo(function SpeedRound({ questions, color, onDone, onCorrec
       onWrong?.();
     }
     advance(correct);
-  }, [selected, flash, q, onCorrect, onWrong, advance]);
+  }, [selected, flash, q, onCorrect, onWrong, advance, readLock]);
 
   // Timer tick — only runs after reading phase
   useEffect(() => {

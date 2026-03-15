@@ -102,7 +102,80 @@ function angleTF(lang: string): TFQuestion {
   };
 }
 
+// ─── G1 generators ────────────────────────────────────────────────────────────
+function g1AddTF(max: number): TFQuestion {
+  const a = rand(1, max - 1), b = rand(1, max - a);
+  const correct = a + b;
+  const isTrue = Math.random() > 0.45;
+  const wrong = Math.max(1, correct + pick([-2, -1, 1, 2]));
+  return {
+    statement: `${a} + ${b} = ${isTrue ? correct : wrong}`,
+    isTrue,
+    correctStatement: `${a} + ${b} = ${correct}`,
+  };
+}
+
+function g1SubTF(max: number): TFQuestion {
+  const a = rand(2, max), b = rand(1, a);
+  const correct = a - b;
+  const isTrue = Math.random() > 0.45;
+  const wrong = Math.max(0, correct + pick([-2, -1, 1, 2]));
+  return {
+    statement: `${a} − ${b} = ${isTrue ? correct : wrong}`,
+    isTrue,
+    correctStatement: `${a} − ${b} = ${correct}`,
+  };
+}
+
+function g1CompareTF(): TFQuestion {
+  const a = rand(1, 20), b = rand(1, 20);
+  if (a === b) return g1CompareTF();
+  const showOp = Math.random() > 0.5 ? ">" : "<";
+  const isTrue = showOp === ">" ? a > b : a < b;
+  const actualOp = a > b ? ">" : "<";
+  return {
+    statement: `${a} ${showOp} ${b}`,
+    isTrue,
+    correctStatement: `${a} ${actualOp} ${b}`,
+  };
+}
+
+function g1VerdoppelnTF(): TFQuestion {
+  const n = rand(1, 9);
+  const correct = n * 2;
+  const isTrue = Math.random() > 0.45;
+  const wrong = Math.max(1, correct + pick([-2, -1, 1, 2]));
+  return {
+    statement: `${n} + ${n} = ${isTrue ? correct : wrong}`,
+    isTrue,
+    correctStatement: `${n} + ${n} = ${correct}`,
+  };
+}
+
 function generateQuestions(topicKeys: string[], lang: string): TFQuestion[] {
+  // G1 detection
+  const isG1 = topicKeys.some(k =>
+    ["add10", "add20", "sub10", "sub20", "g1_tausch", "g1_zahlzerlegung",
+     "g1_ergaenzen", "g1_verdoppeln", "g1_halbieren", "g1_count", "g1_compare",
+     "g1_pos", "word", "g1_data", "g1_sequence"].includes(k)
+  );
+
+  if (isG1) {
+    const max = topicKeys.some(k => k.includes("20") || k === "g1_sequence" || k === "g1_data") ? 20 : 10;
+    const hasVerd    = topicKeys.some(k => ["g1_verdoppeln", "g1_halbieren"].includes(k));
+    const hasCompare = topicKeys.some(k => ["g1_compare", "g1_count", "g1_pos"].includes(k));
+    const hasSub     = topicKeys.some(k => ["sub10", "sub20", "g1_ergaenzen"].includes(k));
+
+    const gens: (() => TFQuestion)[] = [() => g1AddTF(max)];
+    if (hasSub)     gens.push(() => g1SubTF(max));
+    if (hasVerd)    gens.push(() => g1VerdoppelnTF());
+    if (hasCompare) gens.push(() => g1CompareTF());
+    // Always mix in compare for variety
+    if (!hasCompare) gens.push(() => g1CompareTF());
+
+    return Array.from({ length: 12 }, () => gens[rand(0, gens.length - 1)]());
+  }
+
   const hasUnits  = topicKeys.some(k => k.includes("unit"));
   const hasAngles = topicKeys.some(k => k === "angles" || k === "symmetry_en");
   const hasMul    = topicKeys.includes("mul");
@@ -137,10 +210,11 @@ type FBState = "correct" | "wrong" | "missed" | null;
 
 // ─── Main Component ───────────────────────────────────────────────────────────
 const TrueFalseBlitz = memo(function TrueFalseBlitz({
-  topicKeys, color, onDone, lang = "en",
+  topicKeys, color, onDone, lang = "en", timerSeconds = 9,
 }: {
   topicKeys: string[]; color: string;
   onDone: (score: number, total: number) => void; lang?: string;
+  timerSeconds?: number; // 0 = no timer, no auto-advance (G1 mode)
 }) {
   const t = L[lang] ?? L.en;
   const [qs] = useState(() => generateQuestions(topicKeys, lang));
@@ -166,15 +240,15 @@ const TrueFalseBlitz = memo(function TrueFalseBlitz({
     setTimeout(advance, 750);
   }, [advance]);
 
-  // 9-second auto-advance (was 4s — extra 5s reading time)
+  // Auto-advance timer (disabled when timerSeconds=0)
   useEffect(() => {
-    if (done) return;
+    if (done || timerSeconds === 0) return;
     answeredRef.current = false;
     const t = setTimeout(() => {
       if (!answeredRef.current) { answeredRef.current = true; respond("missed"); }
-    }, 9000);
+    }, timerSeconds * 1000);
     return () => clearTimeout(t);
-  }, [idx, done, respond]);
+  }, [idx, done, respond, timerSeconds]);
 
   const handleTap = (userTrue: boolean) => {
     if (answeredRef.current || done || fb !== null) return;
@@ -261,15 +335,17 @@ const TrueFalseBlitz = memo(function TrueFalseBlitz({
       </AnimatePresence>
 
       {/* Timer bar (only when waiting) */}
-      <div className="h-2 bg-white/10 rounded-full overflow-hidden">
-        {fb === null && (
-          <motion.div key={`timer-${idx}`}
-            className="h-full rounded-full origin-left"
-            style={{ background: color }}
-            initial={{ scaleX: 1 }} animate={{ scaleX: 0 }}
-            transition={{ duration: 9, ease: "linear" }} />
-        )}
-      </div>
+      {timerSeconds > 0 && (
+        <div className="h-2 bg-white/10 rounded-full overflow-hidden">
+          {fb === null && (
+            <motion.div key={`timer-${idx}`}
+              className="h-full rounded-full origin-left"
+              style={{ background: color }}
+              initial={{ scaleX: 1 }} animate={{ scaleX: 0 }}
+              transition={{ duration: timerSeconds, ease: "linear" }} />
+          )}
+        </div>
+      )}
 
       {/* True / False buttons */}
       <div className="grid grid-cols-2 gap-3">

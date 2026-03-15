@@ -107,7 +107,81 @@ function unitQuestion(): MNQuestion {
   }
 }
 
+// ─── G1 generators ────────────────────────────────────────────────────────────
+function g1AddSubQuestion(max: number): MNQuestion {
+  const type = rand(0, 3);
+  let parts: [string, string, string, string, string];
+  let answer: number;
+
+  if (type === 0) {
+    // a + ? = sum
+    const a = rand(1, max - 1), b = rand(1, max - a);
+    parts = [String(a), "+", "?", "=", String(a + b)];
+    answer = b;
+  } else if (type === 1) {
+    // ? + b = sum
+    const b = rand(1, max - 1), a = rand(1, max - b);
+    parts = ["?", "+", String(b), "=", String(a + b)];
+    answer = a;
+  } else if (type === 2) {
+    // a − ? = result
+    const a = rand(2, max), b = rand(1, a - 1);
+    parts = [String(a), "−", "?", "=", String(a - b)];
+    answer = b;
+  } else {
+    // ? − b = result
+    const b = rand(1, max - 2), result = rand(1, max - b);
+    const a = result + b;
+    if (a > max) return g1AddSubQuestion(max);
+    parts = ["?", "−", String(b), "=", String(result)];
+    answer = a;
+  }
+  const candidates = [answer - 1, answer + 1, answer - 2, answer + 2].filter(v => v > 0 && v <= max + 2);
+  return { parts, questionSlot: parts.indexOf("?") as 0 | 2 | 4, answer, options: uniqueOptions(answer, candidates) };
+}
+
+function g1VerdoppelnQuestion(): MNQuestion {
+  const n = rand(1, 9);
+  const answer = n * 2;
+  const candidates = [answer - 2, answer - 1, answer + 1, answer + 2].filter(v => v > 0);
+  return {
+    parts: [String(n), "+", String(n), "=", "?"],
+    questionSlot: 4,
+    answer,
+    options: uniqueOptions(answer, candidates),
+  };
+}
+
+function g1ErgaenzenQuestion(): MNQuestion {
+  // ? + b = 10  or  a + ? = 10
+  const b = rand(1, 9);
+  const a = 10 - b;
+  const type = rand(0, 1);
+  const answer = type === 0 ? a : b;
+  const parts: [string, string, string, string, string] = type === 0
+    ? ["?", "+", String(b), "=", "10"]
+    : [String(a), "+", "?", "=", "10"];
+  const candidates = [answer - 1, answer + 1, answer - 2, answer + 2].filter(v => v > 0 && v < 10);
+  return { parts, questionSlot: type === 0 ? 0 : 2, answer, options: uniqueOptions(answer, candidates) };
+}
+
 function generateQuestions(topicKeys: string[], count = 8): MNQuestion[] {
+  // G1 detection
+  const isG1 = topicKeys.some(k =>
+    ["add10", "add20", "sub10", "sub20", "g1_tausch", "g1_zahlzerlegung",
+     "g1_ergaenzen", "g1_verdoppeln", "g1_halbieren", "word"].includes(k)
+  );
+
+  if (isG1) {
+    const max = topicKeys.some(k => k.includes("20")) ? 20 : 10;
+    const hasVerd = topicKeys.some(k => ["g1_verdoppeln", "g1_halbieren"].includes(k));
+    const hasErg  = topicKeys.some(k => k === "g1_ergaenzen");
+    const gens: (() => MNQuestion)[] = [() => g1AddSubQuestion(max)];
+    if (hasVerd) gens.push(() => g1VerdoppelnQuestion());
+    if (hasErg)  gens.push(() => g1ErgaenzenQuestion());
+    return Array.from({ length: count }, () => gens[rand(0, gens.length - 1)]());
+  }
+
   const hasUnits = topicKeys.some(k => k.includes("unit"));
   const gen = () => hasUnits ? (Math.random() > 0.3 ? unitQuestion() : mulDivQuestion()) : mulDivQuestion();
   return Array.from({ length: count }, gen);
