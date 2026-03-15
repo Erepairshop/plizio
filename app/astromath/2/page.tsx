@@ -25,6 +25,7 @@ import NumberDuel from "@/app/astromath/games/NumberDuel";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import G2TeachingSlide from "@/app/astromath/games/G2TeachingSlide";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -56,6 +57,7 @@ type Screen =
   | "gravity-sort"
   | "black-hole"
   | "number-duel"
+  | "g2-teaching"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -426,6 +428,11 @@ export default function AstroMathG2Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
+    if (mission.gameType === "g2-teaching") {
+      setQuestions([]);
+      setScreen("g2-teaching");
+      return;
+    }
     if (mission.gameType === "number-duel" || mission.gameType === "gravity-sort") {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -714,6 +721,19 @@ export default function AstroMathG2Page() {
       </div>
     </div>
   );
+
+  // ─── G2 TEACHING ──────────────────────────────────────────────────────────────
+  if (screen === "g2-teaching" && activeIsland) {
+    return (
+      <G2TeachingSlide
+        islandId={activeIsland.id}
+        lang={lang}
+        color={bgColor}
+        onDone={handleMissionDone}
+        onExit={() => setScreen("mission-select")}
+      />
+    );
+  }
 
   if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel"].includes(screen)) return (
     <>
