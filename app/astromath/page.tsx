@@ -9,6 +9,7 @@ import { loadG2Progress } from "@/lib/astromath2";
 import { loadG3Progress } from "@/lib/astromath3";
 import { loadG4Progress } from "@/lib/astromath4";
 import { loadG5Progress } from "@/lib/astromath5";
+import { loadG6Progress } from "@/lib/astromath6";
 import {
   GRADE_PLANETS, PLANET_NAMES,
   PlanetTerra, PlanetAquaria, PlanetIgnos, PlanetAureon,
@@ -41,7 +42,7 @@ const GRADES = [
   { grade: 3, Planet: PlanetIgnos,    color: "#FF6B6B", glow: "rgba(255,107,107,0.4)", route: "/astromath/3", available: true  },
   { grade: 4, Planet: PlanetAureon,   color: "#FFD700", glow: "rgba(255,215,0,0.4)",   route: "/astromath/4", available: true  },
   { grade: 5, Planet: PlanetVioletis, color: "#B44DFF", glow: "rgba(180,77,255,0.4)",  route: "/astromath/5", available: true  },
-  { grade: 6, Planet: PlanetSaturnia, color: "#FF9500", glow: "rgba(255,149,0,0.4)",   route: null,           available: false },
+  { grade: 6, Planet: PlanetSaturnia, color: "#FF9500", glow: "rgba(255,149,0,0.4)",   route: "/astromath/6", available: true  },
   { grade: 7, Planet: PlanetVerdis,   color: "#10B981", glow: "rgba(16,185,129,0.4)",  route: null,           available: false },
   { grade: 8, Planet: PlanetCosmara,  color: "#E879F9", glow: "rgba(232,121,249,0.4)", route: null,           available: false },
 ];
@@ -63,6 +64,7 @@ export default function AstroMathGalaxyPage() {
   const [g3Done, setG3Done] = useState(0);
   const [g4Done, setG4Done] = useState(0);
   const [g5Done, setG5Done] = useState(0);
+  const [g6Done, setG6Done] = useState(0);
 
   useEffect(() => {
     const p1 = loadG1Progress();
@@ -70,11 +72,13 @@ export default function AstroMathGalaxyPage() {
     const p3 = loadG3Progress();
     const p4 = loadG4Progress();
     const p5 = loadG5Progress();
+    const p6 = loadG6Progress();
     setG1Done(p1.completedIslands.length);
     setG2Done(p2.completedIslands.length);
     setG3Done(p3.completedIslands.length);
     setG4Done(p4.completedIslands.length);
     setG5Done(p5.completedIslands.length);
+    setG6Done(p6.completedIslands.length);
   }, []);
 
   return (
@@ -96,7 +100,7 @@ export default function AstroMathGalaxyPage() {
       <div className="relative z-10 flex-1 px-4 pb-6 mt-2">
         <div className="grid grid-cols-2 gap-3 max-w-sm mx-auto">
           {GRADES.map((g) => {
-            const progress = g.grade === 1 ? g1Done : g.grade === 2 ? g2Done : g.grade === 3 ? g3Done : g.grade === 4 ? g4Done : g.grade === 5 ? g5Done : 0;
+            const progress = g.grade === 1 ? g1Done : g.grade === 2 ? g2Done : g.grade === 3 ? g3Done : g.grade === 4 ? g4Done : g.grade === 5 ? g5Done : g.grade === 6 ? g6Done : 0;
             const total = 9;
             const planetName = planetNames[g.grade - 1] ?? "";
             return (
