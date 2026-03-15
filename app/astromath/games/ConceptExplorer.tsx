@@ -11,52 +11,56 @@ import { ChevronRight } from "lucide-react";
 // ─── Translations ──────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
   en: {
-    instruction: "Tap each part to reveal the partial product!",
-    tens: "tens",
-    ones: "ones",
+    split: "Split the number into tens and ones:",
+    step1: "Now tap each rectangle to reveal the product!",
+    step2: "Now add both parts together!",
     tensPart: "Tens part",
     onesPart: "Ones part",
-    add: "Now add them!",
     discover: "You discovered:",
     next: "Next",
     done: "Brilliant! ✨",
     tap: "Tap to reveal",
+    tens: "tens",
+    ones: "ones",
   },
   hu: {
-    instruction: "Koppints minden részre a részletszorzatért!",
-    tens: "tízes",
-    ones: "egyes",
+    split: "Bontsd fel a számot tízesekre és egyesekre:",
+    step1: "Most koppints minden téglalapra a szorzatért!",
+    step2: "Most add össze mindkét részt!",
     tensPart: "Tízes rész",
     onesPart: "Egyes rész",
-    add: "Most add össze!",
     discover: "Felfedezted:",
     next: "Következő",
     done: "Fantasztikus! ✨",
     tap: "Koppints!",
+    tens: "tízes",
+    ones: "egyes",
   },
   de: {
-    instruction: "Tippe auf jeden Teil, um das Teilprodukt zu entdecken!",
-    tens: "Zehner",
-    ones: "Einer",
+    split: "Zerlege die Zahl in Zehner und Einer:",
+    step1: "Tippe jetzt auf jedes Rechteck, um das Teilprodukt zu entdecken!",
+    step2: "Jetzt beide Teile zusammenzählen!",
     tensPart: "Zehnerteil",
     onesPart: "Einerteil",
-    add: "Jetzt addieren!",
     discover: "Du hast entdeckt:",
     next: "Weiter",
     done: "Fantastisch! ✨",
     tap: "Antippen",
+    tens: "Zehner",
+    ones: "Einer",
   },
   ro: {
-    instruction: "Atinge fiecare parte pentru a descoperi produsul parțial!",
-    tens: "zeci",
-    ones: "unități",
+    split: "Descompune numărul în zeci și unități:",
+    step1: "Atinge fiecare dreptunghi pentru a descoperi produsul parțial!",
+    step2: "Acum adună ambele părți!",
     tensPart: "Partea zecilor",
     onesPart: "Partea unităților",
-    add: "Acum adună!",
     discover: "Ai descoperit:",
     next: "Înainte",
     done: "Fantastic! ✨",
     tap: "Atinge",
+    tens: "zeci",
+    ones: "unități",
   },
 };
 
@@ -97,10 +101,10 @@ function AreaModel({ a, b, tensRevealed, onesRevealed, color }: {
   const tensW = Math.round((tens / a) * totalW);
   const onesW = totalW - tensW;
   const h = 60;
-  const y = 10;
+  const y = 18;
 
   return (
-    <svg width={totalW + 2} height={h + 24} viewBox={`0 0 ${totalW + 2} ${h + 24}`}>
+    <svg width={totalW + 20} height={h + 36} viewBox={`-14 0 ${totalW + 20} ${h + 36}`}>
       {/* Tens rectangle */}
       <rect x={1} y={y} width={tensW} height={h}
         fill={tensRevealed ? `${color}30` : "rgba(255,255,255,0.06)"}
@@ -111,38 +115,38 @@ function AreaModel({ a, b, tensRevealed, onesRevealed, color }: {
         stroke="rgba(251,191,36,0.8)" strokeWidth={2} rx={6} />
 
       {/* Tens label — top */}
-      <text x={1 + tensW / 2} y={y - 2} textAnchor="middle"
-        fill="rgba(255,255,255,0.5)" fontSize={11} fontWeight="700">{tens}</text>
+      <text x={1 + tensW / 2} y={y - 5} textAnchor="middle"
+        fill={color} fontSize={13} fontWeight="900">{tens}</text>
       {/* Ones label — top */}
-      <text x={tensW + 1 + onesW / 2} y={y - 2} textAnchor="middle"
-        fill="rgba(255,255,255,0.5)" fontSize={11} fontWeight="700">{ones}</text>
+      <text x={tensW + 1 + onesW / 2} y={y - 5} textAnchor="middle"
+        fill="rgb(251,191,36)" fontSize={13} fontWeight="900">{ones}</text>
 
       {/* Left label — b */}
-      <text x={-4} y={y + h / 2 + 5} textAnchor="end"
-        fill="rgba(255,255,255,0.5)" fontSize={11} fontWeight="700">{b}</text>
+      <text x={-2} y={y + h / 2 + 5} textAnchor="end"
+        fill="rgba(255,255,255,0.6)" fontSize={13} fontWeight="900">{b}</text>
 
       {/* Tens content */}
       {tensRevealed ? (
-        <text x={1 + tensW / 2} y={y + h / 2 + 6} textAnchor="middle"
-          fill={color} fontSize={20} fontWeight="900">{tens * b}</text>
+        <text x={1 + tensW / 2} y={y + h / 2 + 7} textAnchor="middle"
+          fill={color} fontSize={22} fontWeight="900">{tens * b}</text>
       ) : (
-        <text x={1 + tensW / 2} y={y + h / 2 + 6} textAnchor="middle"
-          fill="rgba(255,255,255,0.18)" fontSize={13} fontWeight="700">?</text>
+        <text x={1 + tensW / 2} y={y + h / 2 + 7} textAnchor="middle"
+          fill="rgba(255,255,255,0.18)" fontSize={14} fontWeight="700">?</text>
       )}
       {/* Ones content */}
       {onesRevealed ? (
-        <text x={tensW + 1 + onesW / 2} y={y + h / 2 + 6} textAnchor="middle"
-          fill="rgb(251,191,36)" fontSize={20} fontWeight="900">{ones * b}</text>
+        <text x={tensW + 1 + onesW / 2} y={y + h / 2 + 7} textAnchor="middle"
+          fill="rgb(251,191,36)" fontSize={22} fontWeight="900">{ones * b}</text>
       ) : (
-        <text x={tensW + 1 + onesW / 2} y={y + h / 2 + 6} textAnchor="middle"
-          fill="rgba(255,255,255,0.18)" fontSize={13} fontWeight="700">?</text>
+        <text x={tensW + 1 + onesW / 2} y={y + h / 2 + 7} textAnchor="middle"
+          fill="rgba(255,255,255,0.18)" fontSize={14} fontWeight="700">?</text>
       )}
 
       {/* Bottom labels */}
-      <text x={1 + tensW / 2} y={y + h + 16} textAnchor="middle"
-        fill="rgba(255,255,255,0.3)" fontSize={10}>{b}×{tens}</text>
-      <text x={tensW + 1 + onesW / 2} y={y + h + 16} textAnchor="middle"
-        fill="rgba(255,255,255,0.3)" fontSize={10}>{b}×{ones}</text>
+      <text x={1 + tensW / 2} y={y + h + 18} textAnchor="middle"
+        fill="rgba(255,255,255,0.35)" fontSize={11} fontWeight="700">{b}×{tens}</text>
+      <text x={tensW + 1 + onesW / 2} y={y + h + 18} textAnchor="middle"
+        fill="rgba(255,255,255,0.35)" fontSize={11} fontWeight="700">{b}×{ones}</text>
     </svg>
   );
 }
@@ -180,8 +184,11 @@ const ConceptExplorer = memo(function ConceptExplorer({
     setOnesRevealed(false);
   }, [idx, rounds.length, onDone, completed]);
 
+  // Derive current step for progressive instructions
+  const step = bothRevealed ? 2 : (tensRevealed || onesRevealed) ? 1 : 0;
+
   return (
-    <div className="flex flex-col gap-4 w-full max-w-sm mx-auto">
+    <div className="flex flex-col gap-3 w-full max-w-sm mx-auto">
       {/* Progress */}
       <div className="flex gap-1.5">
         {rounds.map((_, i) => (
@@ -210,8 +217,31 @@ const ConceptExplorer = memo(function ConceptExplorer({
         </motion.div>
       </AnimatePresence>
 
-      {/* Instruction */}
-      <p className="text-white/50 text-xs font-bold text-center">{lbl.instruction}</p>
+      {/* Step 0: Decomposition row — "24 = 20 + 4" */}
+      <AnimatePresence mode="wait">
+        {!bothRevealed && (
+          <motion.div key="decomp"
+            initial={{ opacity: 0, y: 6 }} animate={{ opacity: 1, y: 0 }}
+            className="rounded-xl px-4 py-2.5 flex flex-col items-center gap-1"
+            style={{ background: "rgba(255,255,255,0.05)", border: "1px solid rgba(255,255,255,0.1)" }}
+          >
+            {/* split label */}
+            <p className="text-white/50 text-xs font-bold">{lbl.split}</p>
+            {/* colored decomposition */}
+            <div className="flex items-center gap-2 text-xl font-black">
+              <span style={{ color }}>{a}</span>
+              <span className="text-white/30">=</span>
+              <span style={{ color }}>{tens}</span>
+              <span className="text-white/30 text-base">+</span>
+              <span className="text-amber-400">{ones}</span>
+            </div>
+            {/* step instruction */}
+            <p className="text-white/70 text-xs font-bold text-center mt-0.5">
+              {step < 2 ? lbl.step1 : lbl.step2}
+            </p>
+          </motion.div>
+        )}
+      </AnimatePresence>
 
       {/* Area model */}
       <div className="flex justify-center rounded-2xl p-4"
@@ -276,22 +306,29 @@ const ConceptExplorer = memo(function ConceptExplorer({
           >
             {/* Addition breakdown */}
             <motion.div
-              className="w-full rounded-2xl px-5 py-3 text-center"
+              className="w-full rounded-2xl px-5 py-3"
               style={{ background: "rgba(0,255,136,0.10)", border: "2px solid rgba(0,255,136,0.3)" }}
               animate={{ scale: [0.92, 1.02, 1] }}
               transition={{ duration: 0.5 }}
             >
-              <p className="text-white/50 text-xs font-bold mb-1">{lbl.discover}</p>
-              <p className="text-lg font-black text-white/80">
-                {tens * b}
-                <span className="text-white/40 mx-2">+</span>
-                {ones * b}
-                <span className="text-white/40 mx-2">=</span>
-                <span style={{ color: "#00FF88" }}>{a * b}</span>
-              </p>
-              <p className="text-white/40 text-xs mt-1 font-bold">
-                {a} × {b} = {a * b}
-              </p>
+              <p className="text-white/50 text-xs font-bold text-center mb-2">{lbl.discover}</p>
+              {/* Step-by-step formula */}
+              <div className="flex flex-col gap-1 items-center">
+                <p className="text-base font-black text-white/80">
+                  {a} × {b}
+                  <span className="text-white/40 mx-2">=</span>
+                  <span style={{ color }}>({tens} × {b})</span>
+                  <span className="text-white/40 mx-1">+</span>
+                  <span className="text-amber-400">({ones} × {b})</span>
+                </p>
+                <p className="text-base font-black text-white/80">
+                  <span style={{ color }}>{tens * b}</span>
+                  <span className="text-white/40 mx-2">+</span>
+                  <span className="text-amber-400">{ones * b}</span>
+                  <span className="text-white/40 mx-2">=</span>
+                  <span style={{ color: "#00FF88" }} className="text-xl">{a * b}</span>
+                </p>
+              </div>
             </motion.div>
 
             <motion.button
