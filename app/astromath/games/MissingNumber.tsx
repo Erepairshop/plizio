@@ -7,7 +7,7 @@
 import { memo, useState, useCallback, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
-import { speak } from "@/lib/astromath-tts";
+import { speak, SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 const rand = (a: number, b: number) => Math.floor(Math.random() * (b - a + 1)) + a;
@@ -303,9 +303,12 @@ const MissingNumber = memo(function MissingNumber({
       </div>
 
       {/* Title */}
-      <div className="text-center">
-        <p className="text-base font-black" style={{ color }}>{t.title}</p>
-        <p className="text-xs text-white/50 mt-0.5">{t.instruction}</p>
+      <div className="flex items-center justify-center gap-2">
+        <div className="text-center">
+          <p className="text-base font-black" style={{ color }}>{t.title}</p>
+          <p className="text-xs text-white/50 mt-0.5">{t.instruction}</p>
+        </div>
+        <SpeakButton text={q.parts.filter(Boolean).map(p => p === "?" ? "..." : p).join(" ")} lang={lang} size={16} />
       </div>
 
       {/* Equation card */}

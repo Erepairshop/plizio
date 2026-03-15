@@ -6,7 +6,7 @@
 import { memo, useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
-import { speak } from "@/lib/astromath-tts";
+import { speak, SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 const rand = (a: number, b: number) => Math.floor(Math.random() * (b - a + 1)) + a;
@@ -320,7 +320,10 @@ const TrueFalseBlitz = memo(function TrueFalseBlitz({
           style={{ background: fb ? fbBg : "rgba(255,255,255,0.06)", border: `2px solid ${fb ? "transparent" : "rgba(255,255,255,0.1)"}` }}>
 
           {fb === null ? (
-            <p className="text-xl font-black text-white/95 text-center leading-snug">{q.statement}</p>
+            <div className="flex items-center gap-2 justify-center">
+              <p className="text-xl font-black text-white/95 text-center leading-snug flex-1">{q.statement}</p>
+              <SpeakButton text={q.statement} lang={lang} size={16} />
+            </div>
           ) : (
             <motion.div initial={{ scale: 0.7, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}
               className="flex flex-col items-center gap-2">

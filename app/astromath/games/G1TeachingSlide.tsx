@@ -349,6 +349,52 @@ const ISLAND_SLIDES: Record<string, SlideDef[]> = {
       ),
     },
     {
+      title: { en: "Counting — dice & fingers", hu: "Számolás — kocka és ujjak", de: "Zählen — Würfel & Finger", ro: "Numărare — zaruri și degete" },
+      caption: {
+        en: "We can count dots on a dice or fingers on a hand! Each pattern always shows the same number.",
+        hu: "Megszámolhatjuk a pontokat a kockán vagy az ujjakat a kézben! Minden minta mindig ugyanazt a számot mutatja.",
+        de: "Wir können Punkte auf einem Würfel oder Finger zählen! Jedes Muster zeigt immer dieselbe Zahl.",
+        ro: "Putem număra punctele pe un zar sau degetele! Fiecare tipar arată mereu același număr.",
+      },
+      renderVisual: (lang, color) => (
+        <div className="flex flex-col items-center gap-4">
+          {/* Dice faces */}
+          <div className="flex gap-4 items-center">
+            {[
+              { n: 3, dots: [[0,0],[1,1],[2,2]] },
+              { n: 5, dots: [[0,0],[0,2],[1,1],[2,0],[2,2]] },
+            ].map(({ n, dots }) => (
+              <motion.div key={n} className="relative rounded-2xl flex items-center justify-center"
+                style={{ width: 60, height: 60, background: "rgba(255,255,255,0.12)", border: `2px solid ${color}`, flexShrink: 0 }}
+                initial={{ scale: 0, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ type: "spring", stiffness: 260 }}>
+                {dots.map(([r, c], i) => (
+                  <div key={i} className="absolute rounded-full" style={{
+                    width: 10, height: 10, background: color,
+                    left: 10 + c * 16, top: 10 + r * 16,
+                  }} />
+                ))}
+                <span className="absolute -bottom-6 text-sm font-black" style={{ color }}>{n}</span>
+              </motion.div>
+            ))}
+          </div>
+          {/* Fingers */}
+          <div className="flex gap-3 items-end mt-4">
+            {[1, 2, 3, 4, 5].map((n, i) => (
+              <motion.div key={n} className="flex flex-col items-center gap-1"
+                initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.3 + i * 0.08 }}>
+                <div className="flex flex-col gap-0.5">
+                  {Array.from({ length: n }).map((_, j) => (
+                    <div key={j} className="w-4 rounded-full" style={{ height: 14, background: color, opacity: 0.85 }} />
+                  ))}
+                </div>
+                <span className="text-xs font-black text-white/60">{n}</span>
+              </motion.div>
+            ))}
+          </div>
+        </div>
+      ),
+    },
+    {
       title: { en: "Well done! 🌟", hu: "Szuper! 🌟", de: "Super gemacht! 🌟", ro: "Bravo! 🌟" },
       caption: {
         en: "You know the numbers 1 to 10! Now practice in the Number Duel!",
@@ -631,6 +677,48 @@ const ISLAND_SLIDES: Record<string, SlideDef[]> = {
       ),
     },
     {
+      title: { en: "Half = 1/2 · Quarter = 1/4", hu: "Fele = 1/2 · Negyede = 1/4", de: "Hälfte = 1/2 · Viertel = 1/4", ro: "Jumătate = 1/2 · Sfert = 1/4" },
+      caption: {
+        en: "When we divide something into 2 equal parts, each part is one half (1/2). Into 4 equal parts → each is one quarter (1/4).",
+        hu: "Ha valamit 2 egyenlő részre osztunk, minden rész egy fél (1/2). 4 egyenlő részre → minden rész egy negyed (1/4).",
+        de: "Wenn wir etwas in 2 gleiche Teile teilen, ist jeder Teil eine Hälfte (1/2). In 4 gleiche Teile → jeder Teil ist ein Viertel (1/4).",
+        ro: "Când împărțim ceva în 2 părți egale, fiecare parte este o jumătate (1/2). În 4 părți egale → fiecare este un sfert (1/4).",
+      },
+      renderVisual: (lang, color) => (
+        <div className="flex gap-8 items-center justify-center">
+          {/* Half pizza */}
+          <div className="flex flex-col items-center gap-2">
+            <motion.div initial={{ scale: 0, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ type: "spring", stiffness: 260 }}>
+              <svg width="80" height="80" viewBox="-40 -40 80 80">
+                <circle cx={0} cy={0} r={36} fill={`${color}22`} stroke={color} strokeWidth={2} />
+                <path d={`M 0,-36 A 36,36 0 0 0 0,36 L 0,0 Z`} fill={`${color}99`} />
+                <line x1={0} y1={-36} x2={0} y2={36} stroke={color} strokeWidth={2.5} />
+              </svg>
+            </motion.div>
+            <span className="text-xl font-black" style={{ color }}>1/2</span>
+            <span className="text-xs text-white/50 font-bold">
+              {lang === "hu" ? "fele" : lang === "de" ? "Hälfte" : lang === "ro" ? "jumătate" : "half"}
+            </span>
+          </div>
+          {/* Quarter pizza */}
+          <div className="flex flex-col items-center gap-2">
+            <motion.div initial={{ scale: 0, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} transition={{ delay: 0.2, type: "spring", stiffness: 260 }}>
+              <svg width="80" height="80" viewBox="-40 -40 80 80">
+                <circle cx={0} cy={0} r={36} fill={`${color}22`} stroke={color} strokeWidth={2} />
+                <path d={`M 0,-36 A 36,36 0 0 0 -36,0 L 0,0 Z`} fill={`${color}99`} />
+                <line x1={-36} y1={0} x2={36} y2={0} stroke={color} strokeWidth={2.5} />
+                <line x1={0} y1={-36} x2={0} y2={36} stroke={color} strokeWidth={2.5} />
+              </svg>
+            </motion.div>
+            <span className="text-xl font-black" style={{ color }}>1/4</span>
+            <span className="text-xs text-white/50 font-bold">
+              {lang === "hu" ? "negyede" : lang === "de" ? "Viertel" : lang === "ro" ? "sfert" : "quarter"}
+            </span>
+          </div>
+        </div>
+      ),
+    },
+    {
       title: { en: "Well done! 🌟", hu: "Szuper! 🌟", de: "Super gemacht! 🌟", ro: "Bravo! 🌟" },
       caption: {
         en: "You know doubling and halving! Match them in Star Match!",
@@ -699,6 +787,46 @@ const ISLAND_SLIDES: Record<string, SlideDef[]> = {
             initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: 0.9, type: "spring" }}>
             ? = 16 ✓
           </motion.div>
+        </div>
+      ),
+    },
+    {
+      title: { en: "Even & Odd numbers", hu: "Páros és páratlan számok", de: "Gerade und ungerade Zahlen", ro: "Numere pare și impare" },
+      caption: {
+        en: "Even numbers can be split into perfect pairs. Odd numbers always have one left over!",
+        hu: "A páros számokat egyenlő párokra lehet osztani. A páratlan számoknál mindig marad egy!",
+        de: "Gerade Zahlen lassen sich in gleiche Paare teilen. Bei ungeraden Zahlen bleibt immer eine übrig!",
+        ro: "Numerele pare se pot împărți în perechi egale. Numerele impare au mereu una în plus!",
+      },
+      renderVisual: (lang, color) => (
+        <div className="flex flex-col gap-2 items-start">
+          {[2, 3, 4, 5, 6].map((n, rowIdx) => {
+            const isEven = n % 2 === 0;
+            const pairs = Math.floor(n / 2);
+            return (
+              <motion.div key={n} className="flex items-center gap-3"
+                initial={{ opacity: 0, x: -12 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: rowIdx * 0.1 }}>
+                <span className="w-4 text-sm font-black text-right" style={{ color }}>{n}</span>
+                <div className="flex gap-1 items-center">
+                  {Array.from({ length: pairs }).map((_, i) => (
+                    <div key={i} className="flex gap-0.5">
+                      <div className="w-4 h-4 rounded-sm" style={{ background: color }} />
+                      <div className="w-4 h-4 rounded-sm" style={{ background: color }} />
+                    </div>
+                  ))}
+                  {!isEven && (
+                    <div className="w-4 h-4 rounded-sm ml-1"
+                      style={{ background: `${color}40`, border: `2px dashed ${color}` }} />
+                  )}
+                </div>
+                <span className="text-xs font-bold" style={{ color: isEven ? "#00FF88" : "#ff9500" }}>
+                  {isEven
+                    ? (lang === "hu" ? "páros" : lang === "de" ? "gerade" : lang === "ro" ? "par" : "even")
+                    : (lang === "hu" ? "páratlan" : lang === "de" ? "ungerade" : lang === "ro" ? "impar" : "odd")}
+                </span>
+              </motion.div>
+            );
+          })}
         </div>
       ),
     },
@@ -1044,6 +1172,48 @@ const ISLAND_SLIDES: Record<string, SlideDef[]> = {
           ))}
         </div>
       ),
+    },
+    {
+      title: { en: "The day: morning → noon → evening", hu: "A nap: reggel → dél → este", de: "Der Tag: Morgen → Mittag → Abend", ro: "Ziua: dimineață → prânz → seară" },
+      caption: {
+        en: "The day always follows the same order: first morning, then noon, then evening. Every day!",
+        hu: "A nap mindig ugyanabban a sorrendben követi egymást: előbb reggel, aztán dél, majd este. Minden nap!",
+        de: "Der Tag folgt immer derselben Reihenfolge: zuerst Morgen, dann Mittag, dann Abend. Jeden Tag!",
+        ro: "Ziua urmează mereu aceeași ordine: mai întâi dimineața, apoi prânzul, apoi seara. În fiecare zi!",
+      },
+      renderVisual: (lang, color) => {
+        const parts = [
+          { icon: "🌅", bg: "#ff9f43", time: "6:00", label: { en: "morning", hu: "reggel", de: "Morgen", ro: "dimineață" } },
+          { icon: "☀️", bg: "#ffd32a", time: "12:00", label: { en: "noon", hu: "dél", de: "Mittag", ro: "prânz" } },
+          { icon: "🌙", bg: "#5352ed", time: "18:00", label: { en: "evening", hu: "este", de: "Abend", ro: "seară" } },
+        ];
+        return (
+          <div className="flex items-center gap-2 justify-center">
+            {parts.map((p, i) => (
+              <div key={i} className="flex items-center gap-2">
+                <motion.div className="flex flex-col items-center gap-1"
+                  initial={{ scale: 0, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}
+                  transition={{ delay: i * 0.2, type: "spring", stiffness: 260 }}>
+                  <div className="w-14 h-14 rounded-2xl flex items-center justify-center text-2xl"
+                    style={{ background: `${p.bg}33`, border: `2.5px solid ${p.bg}` }}>
+                    {p.icon}
+                  </div>
+                  <span className="text-xs font-black" style={{ color: p.bg }}>
+                    {p.label[lang as keyof typeof p.label] ?? p.label.en}
+                  </span>
+                  <span className="text-xs text-white/40">{p.time}</span>
+                </motion.div>
+                {i < parts.length - 1 && (
+                  <motion.span className="text-white/50 text-xl pb-5"
+                    initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.15 + i * 0.2 }}>
+                    →
+                  </motion.span>
+                )}
+              </div>
+            ))}
+          </div>
+        );
+      },
     },
     {
       title: { en: "Well done! 🌟", hu: "Szuper! 🌟", de: "Super gemacht! 🌟", ro: "Bravo! 🌟" },
