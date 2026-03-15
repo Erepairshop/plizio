@@ -30,6 +30,17 @@ import { generateForSubtopics } from "@/lib/deutschGenerators";
 import { checkAnswer } from "@/lib/deutschValidation";
 import { playCorrect, playIncorrect, playClick } from "@/lib/soundEffects";
 
+// ─── TTS HELPER ──────────────────────────────────────────────────────────────
+function speakText(text: string) {
+  if (typeof window === "undefined" || !window.speechSynthesis) return;
+  window.speechSynthesis.cancel();
+  const utt = new SpeechSynthesisUtterance(text);
+  utt.lang = "de-DE";
+  utt.rate = 0.88;
+  utt.pitch = 1.1;
+  window.speechSynthesis.speak(utt);
+}
+
 // ─── DEUTSCH FLOATING BACKGROUND ─────────────────────────────────────────────
 
 const DE_CHARS = ["A","B","C","Ä","Ö","Ü","ß","!","?",",",".",";","Z","W","R","S","T"];
@@ -763,7 +774,20 @@ export default function DeutschTestPage() {
                       <span className="font-mono text-xs text-slate-400 w-5 text-right shrink-0" style={{ lineHeight: '28px' }}>
                         {qi + 1}.
                       </span>
-                      <p className="flex-1 text-slate-800 text-sm font-semibold" style={{ lineHeight: '28px' }}>{q.question}</p>
+                      <p className="flex-1 text-slate-800 text-sm font-semibold" style={{ lineHeight: '28px' }}>{q.type === "anlaut-bild" ? "" : q.question}</p>
+                      {/* TTS button */}
+                      <button
+                        type="button"
+                        onClick={() => speakText(
+                          q.type === "anlaut-bild"
+                            ? (G1_WORD_LABELS[q.question] ?? q.question)
+                            : q.question
+                        )}
+                        className="shrink-0 w-6 h-6 flex items-center justify-center rounded-full bg-blue-50 hover:bg-blue-100 border border-blue-200 text-blue-400 transition-colors text-xs"
+                        style={{ marginTop: 1 }}
+                        title="Vorlesen"
+                        tabIndex={-1}
+                      >🔊</button>
                       {/* Correction mark after submit */}
                       {submitted && ans && (
                         <span className={`shrink-0 font-bold text-base leading-7 ${isCorrect ? 'text-emerald-500' : 'text-red-500'}`}>
