@@ -6,6 +6,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Translations ────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -194,7 +195,10 @@ const CarryBorrowExplorer = memo(function CarryBorrowExplorer({
               {/* Step 0: show problem */}
               {step === 0 && (
                 <>
-                  <p className="text-2xl font-black" style={{ color }}>{a} + {b} = ?</p>
+                  <div className="flex items-center justify-center gap-2">
+                    <p className="text-2xl font-black" style={{ color }}>{a} + {b} = ?</p>
+                    <SpeakButton text={`${a} + ${b}`} lang={lang} size={14} />
+                  </div>
                   <div className="rounded-2xl p-4 w-full max-w-[200px]"
                     style={{ background: `${color}10`, border: `1.5px solid ${color}30` }}>
                     <div className="grid grid-cols-3 gap-1 text-center font-black">
@@ -315,7 +319,10 @@ const CarryBorrowExplorer = memo(function CarryBorrowExplorer({
               {/* Step 0: show problem */}
               {step === 0 && (
                 <>
-                  <p className="text-2xl font-black" style={{ color }}>{a} – {b} = ?</p>
+                  <div className="flex items-center justify-center gap-2">
+                    <p className="text-2xl font-black" style={{ color }}>{a} – {b} = ?</p>
+                    <SpeakButton text={`${a} – ${b}`} lang={lang} size={14} />
+                  </div>
                   <div className="rounded-2xl p-4 w-full max-w-[200px]"
                     style={{ background: `${color}10`, border: `1.5px solid ${color}30` }}>
                     <div className="grid grid-cols-3 gap-1 text-center font-black">

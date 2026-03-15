@@ -6,6 +6,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Translations ────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -175,9 +176,12 @@ const MentalMathExplorer = memo(function MentalMathExplorer({
                 {/* Step 0: show first number */}
                 {step === 0 && (
                   <>
-                    <p className="text-white/60 text-xs font-bold text-center">
-                      {lbl.weHave} {a}, {lbl.weAdd} {b}
-                    </p>
+                    <div className="flex items-center justify-center gap-2">
+                      <p className="text-white/60 text-xs font-bold text-center">
+                        {lbl.weHave} {a}, {lbl.weAdd} {b}
+                      </p>
+                      <SpeakButton text={`${lbl.weHave} ${a}, ${lbl.weAdd} ${b}`} lang={lang} size={14} />
+                    </div>
                     <div className="flex gap-1 justify-center">
                       {Array.from({ length: tA }).map((_, i) => (
                         <motion.div key={i} initial={{ scale: 0 }} animate={{ scale: 1 }}
@@ -262,9 +266,12 @@ const MentalMathExplorer = memo(function MentalMathExplorer({
                 {/* Step 0: show all bars */}
                 {step === 0 && (
                   <>
-                    <p className="text-white/60 text-xs font-bold text-center">
-                      {lbl.weHave} {a}, {lbl.weRemove} {b}
-                    </p>
+                    <div className="flex items-center justify-center gap-2">
+                      <p className="text-white/60 text-xs font-bold text-center">
+                        {lbl.weHave} {a}, {lbl.weRemove} {b}
+                      </p>
+                      <SpeakButton text={`${lbl.weHave} ${a}, ${lbl.weRemove} ${b}`} lang={lang} size={14} />
+                    </div>
                     <div className="flex gap-1 justify-center">
                       {Array.from({ length: tA }).map((_, i) => (
                         <motion.div key={i} initial={{ scale: 0 }} animate={{ scale: 1 }}
@@ -350,7 +357,10 @@ const MentalMathExplorer = memo(function MentalMathExplorer({
                 {/* Step 0: show numbers */}
                 {step === 0 && (
                   <>
-                    <p className="text-white/60 text-xs font-bold text-center">{lbl.seqIntro}</p>
+                    <div className="flex items-center justify-center gap-2">
+                      <p className="text-white/60 text-xs font-bold text-center">{lbl.seqIntro}</p>
+                      <SpeakButton text={lbl.seqIntro} lang={lang} size={14} />
+                    </div>
                     <div className="flex gap-2 justify-center">
                       {shown.map((n, i) => (
                         <motion.div key={i}

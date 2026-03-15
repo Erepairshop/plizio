@@ -6,6 +6,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Translations ────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -203,9 +204,12 @@ const ColumnAddSubExplorer = memo(function ColumnAddSubExplorer({
           {/* Step 0: show column */}
           {step === 0 && (
             <>
-              <p className="text-white/60 text-xs font-bold text-center">
-                {a} {isAdd ? "+" : "–"} {b} = ?
-              </p>
+              <div className="flex items-center justify-center gap-2">
+                <p className="text-white/60 text-xs font-bold text-center">
+                  {a} {isAdd ? "+" : "–"} {b} = ?
+                </p>
+                <SpeakButton text={`${a} ${isAdd ? "+" : "–"} ${b}`} lang={lang} size={14} />
+              </div>
               <ColumnDisplay a={a} b={b} op={isAdd ? "+" : "–"}
                 onesResult={null} tensResult={null}
                 showOnes={false} showTens={false} color={color} lbl={lbl} />

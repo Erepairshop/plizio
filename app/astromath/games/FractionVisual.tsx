@@ -7,6 +7,7 @@
 import { memo, useState, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 // ─── SVG Pizza ────────────────────────────────────────────────────────────────
 function pizzaSector(cx: number, cy: number, r: number, startA: number, endA: number): string {
@@ -176,7 +177,10 @@ function TeachingPhase({ color, lang, onDone }: { color: string; lang: string; o
     <div className="flex flex-col gap-3 w-full max-w-sm mx-auto items-center">
       {/* Header */}
       <div className="text-center">
-        <h3 className="text-lg font-black text-white/90">{lbl.teachTitle}</h3>
+        <div className="flex items-center justify-center gap-2">
+          <h3 className="text-lg font-black text-white/90">{lbl.teachTitle}</h3>
+          <SpeakButton text={lbl.teachIntro} lang={lang} size={14} />
+        </div>
         <p className="text-white/50 text-xs font-medium mt-1">{lbl.teachIntro}</p>
       </div>
 
@@ -319,7 +323,10 @@ const FractionVisual = memo(function FractionVisual({ color, onDone, onCorrect, 
       </div>
 
       {/* Question label */}
-      <p className="text-white/70 text-sm font-bold text-center">{lbl.question}</p>
+      <div className="flex items-center justify-center gap-2">
+        <p className="text-white/70 text-sm font-bold text-center">{lbl.question}</p>
+        <SpeakButton text={lbl.question} lang={lang} size={14} />
+      </div>
 
       {/* Pizza */}
       <AnimatePresence mode="wait">

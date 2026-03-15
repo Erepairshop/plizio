@@ -6,6 +6,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Translations ────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -164,9 +165,12 @@ const MultiplicationExplorer = memo(function MultiplicationExplorer({
                 {/* Step 0: tap groups */}
                 {step === 0 && (
                   <>
-                    <p className="text-white/60 text-xs font-bold text-center">
-                      {groups} {lbl.groups} {perGroup}
-                    </p>
+                    <div className="flex items-center justify-center gap-2">
+                      <p className="text-white/60 text-xs font-bold text-center">
+                        {groups} {lbl.groups} {perGroup}
+                      </p>
+                      <SpeakButton text={`${groups} ${lbl.groups} ${perGroup}`} lang={lang} size={14} />
+                    </div>
                     <p className="text-white/60 text-xs font-bold text-center">{lbl.tapGroups}</p>
                     <div className="flex flex-wrap gap-3 justify-center">
                       {Array.from({ length: groups }).map((_, g) => {
@@ -269,9 +273,12 @@ const MultiplicationExplorer = memo(function MultiplicationExplorer({
                 {/* Step 0: show array */}
                 {step === 0 && (
                   <>
-                    <p className="text-white/60 text-xs font-bold text-center">
-                      {lbl.arrayIntro}
-                    </p>
+                    <div className="flex items-center justify-center gap-2">
+                      <p className="text-white/60 text-xs font-bold text-center">
+                        {lbl.arrayIntro}
+                      </p>
+                      <SpeakButton text={lbl.arrayIntro} lang={lang} size={14} />
+                    </div>
                     <p className="text-sm font-black" style={{ color }}>
                       {rows} {lbl.rows} × {cols} {lbl.cols}
                     </p>

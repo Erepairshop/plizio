@@ -6,6 +6,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Translations ────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -144,9 +145,12 @@ const DivisionIntroExplorer = memo(function DivisionIntroExplorer({
           {/* Step 0: show all items in a heap */}
           {step === 0 && (
             <>
-              <p className="text-white/60 text-xs font-bold text-center">
-                {round.total} {lbl.items} {round.groups} {lbl.groupsWord}
-              </p>
+              <div className="flex items-center justify-center gap-2">
+                <p className="text-white/60 text-xs font-bold text-center">
+                  {round.total} {lbl.items} {round.groups} {lbl.groupsWord}
+                </p>
+                <SpeakButton text={`${round.total} ${lbl.items} ${round.groups} ${lbl.groupsWord}`} lang={lang} size={14} />
+              </div>
               <div className="flex flex-wrap gap-1.5 justify-center px-4">
                 {Array.from({ length: round.total }).map((_, i) => (
                   <motion.span key={i} className="text-2xl"

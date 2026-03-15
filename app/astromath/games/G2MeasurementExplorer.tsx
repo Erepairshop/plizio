@@ -6,6 +6,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Translations ────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -351,9 +352,12 @@ const G2MeasurementExplorer = memo(function G2MeasurementExplorer({
               <div className="w-full rounded-2xl px-5 py-3"
                 style={{ background: `${color}10`, border: `1.5px solid ${color}30` }}>
                 <p className="text-center text-xs font-bold text-white/50 mb-1">{lbl.didYouKnow}</p>
-                <p className="text-center text-sm font-black" style={{ color }}>
-                  {round.fact[lang] ?? round.fact.en}
-                </p>
+                <div className="flex items-center justify-center gap-2">
+                  <p className="text-center text-sm font-black" style={{ color }}>
+                    {round.fact[lang] ?? round.fact.en}
+                  </p>
+                  <SpeakButton text={round.fact[lang] ?? round.fact.en} lang={lang} size={14} />
+                </div>
               </div>
               <motion.button onClick={() => setStep(1)}
                 className="w-full py-3 rounded-2xl font-black text-white text-sm"
@@ -368,9 +372,12 @@ const G2MeasurementExplorer = memo(function G2MeasurementExplorer({
           {step === 1 && (
             <>
               {round.visual(color)}
-              <p className="text-white/60 text-xs font-bold text-center px-4">
-                {round.question[lang] ?? round.question.en}
-              </p>
+              <div className="flex items-center justify-center gap-2">
+                <p className="text-white/60 text-xs font-bold text-center px-4">
+                  {round.question[lang] ?? round.question.en}
+                </p>
+                <SpeakButton text={round.question[lang] ?? round.question.en} lang={lang} size={14} />
+              </div>
               <motion.button onClick={() => setStep(2)}
                 className="w-full py-3 rounded-2xl font-black text-white text-sm"
                 style={{ background: `${color}22`, border: `2px solid ${color}55` }}

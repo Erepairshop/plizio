@@ -6,6 +6,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Translations ────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -214,7 +215,10 @@ const PlaceValue100Explorer = memo(function PlaceValue100Explorer({
                 {/* Step 0: tap tens */}
                 {step === 0 && (
                   <>
-                    <p className="text-white/60 text-xs font-bold text-center">{lbl.tapTens}</p>
+                    <div className="flex items-center justify-center gap-2">
+                      <p className="text-white/60 text-xs font-bold text-center">{lbl.tapTens}</p>
+                      <SpeakButton text={lbl.tapTens} lang={lang} size={14} />
+                    </div>
                     <div className="flex gap-2 justify-center flex-wrap">
                       {Array.from({ length: t }).map((_, i) => (
                         <TenBlock key={i} tapped={tappedTens.has(i)} color={color}
@@ -305,7 +309,10 @@ const PlaceValue100Explorer = memo(function PlaceValue100Explorer({
                 {/* Step 0: show number, ask to build */}
                 {step === 0 && (
                   <>
-                    <p className="text-white/60 text-xs font-bold text-center">{lbl.buildQ}</p>
+                    <div className="flex items-center justify-center gap-2">
+                      <p className="text-white/60 text-xs font-bold text-center">{lbl.buildQ}</p>
+                      <SpeakButton text={lbl.buildQ} lang={lang} size={14} />
+                    </div>
                     <p className="text-4xl font-black" style={{ color }}>{num}</p>
                     <motion.button onClick={() => setStep(1)}
                       className="w-full py-3 rounded-2xl font-black text-white text-sm"
@@ -393,7 +400,10 @@ const PlaceValue100Explorer = memo(function PlaceValue100Explorer({
                 {/* Step 0: show both numbers */}
                 {step === 0 && (
                   <>
-                    <p className="text-white/60 text-xs font-bold text-center">{lbl.compare}</p>
+                    <div className="flex items-center justify-center gap-2">
+                      <p className="text-white/60 text-xs font-bold text-center">{lbl.compare}</p>
+                      <SpeakButton text={lbl.compare} lang={lang} size={14} />
+                    </div>
                     <div className="flex items-center gap-6">
                       <div className="flex flex-col items-center gap-2">
                         <span className="text-3xl font-black text-white/70">{a}</span>
