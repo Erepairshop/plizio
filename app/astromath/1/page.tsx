@@ -26,6 +26,14 @@ import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
 import MissingNumber from "@/app/astromath/games/MissingNumber";
 import G1TeachingSlide from "@/app/astromath/games/G1TeachingSlide";
+import CountingExplorer from "@/app/astromath/games/CountingExplorer";
+import AddSubExplorer from "@/app/astromath/games/AddSubExplorer";
+import DoubleHalfExplorer from "@/app/astromath/games/DoubleHalfExplorer";
+import PlaceValue20Explorer from "@/app/astromath/games/PlaceValue20Explorer";
+import WordProblemIntro from "@/app/astromath/games/WordProblemIntro";
+import ShapesExplorer from "@/app/astromath/games/ShapesExplorer";
+import ClockCoinsExplorer from "@/app/astromath/games/ClockCoinsExplorer";
+import PatternExplorer from "@/app/astromath/games/PatternExplorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 
@@ -99,6 +107,14 @@ type Screen =
   | "true-false-blitz"
   | "missing-number"
   | "teaching-slide"
+  | "counting-explorer"
+  | "addsub-explorer"
+  | "double-half-explorer"
+  | "place-value-20"
+  | "word-problem-intro"
+  | "shapes-explorer"
+  | "clock-coins-explorer"
+  | "pattern-explorer"
   | "mission-done"
   | "island-done"
   | "reward"
@@ -503,13 +519,9 @@ export default function AstroMathG1Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    // Explore category → animated teaching slides
-    if (mission.category === "explore") {
-      setQuestions([]);
-      setScreen("teaching-slide");
-      return;
-    }
-    const noQuestionsTypes: string[] = ["number-duel", "gravity-sort", "true-false-blitz", "missing-number"];
+    const noQuestionsTypes: string[] = ["number-duel", "gravity-sort", "true-false-blitz", "missing-number",
+      "counting-explorer", "addsub-explorer", "double-half-explorer", "place-value-20",
+      "word-problem-intro", "shapes-explorer", "clock-coins-explorer", "pattern-explorer"];
     if (noQuestionsTypes.includes(mission.gameType)) {
       setQuestions([]);
       setScreen(mission.gameType as Screen);
@@ -850,11 +862,36 @@ export default function AstroMathG1Page() {
           <MissingNumber topicKeys={activeIsland.topicKeys} color={bgColor}
             onDone={handleMissionDone} lang={lang} />
         )}
+        {screen === "counting-explorer" && (
+          <CountingExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "addsub-explorer" && activeIsland && (
+          <AddSubExplorer color={bgColor} lang={lang} onDone={handleMissionDone}
+            mode={activeIsland.id === "i3" ? "sub" : "add"} />
+        )}
+        {screen === "double-half-explorer" && (
+          <DoubleHalfExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "place-value-20" && (
+          <PlaceValue20Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "word-problem-intro" && (
+          <WordProblemIntro color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "shapes-explorer" && (
+          <ShapesExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "clock-coins-explorer" && (
+          <ClockCoinsExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "pattern-explorer" && (
+          <PatternExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  // ─── TEACHING SLIDE (Entdecken) ──────────────────────────────────────────────
+  // ─── TEACHING SLIDE (Entdecken) — legacy fallback ─────────────────────────
   if (screen === "teaching-slide" && activeIsland) {
     return (
       <G1TeachingSlide
@@ -868,7 +905,9 @@ export default function AstroMathG1Page() {
   }
 
   if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel",
-    "true-false-blitz", "missing-number"].includes(screen)) return (
+    "true-false-blitz", "missing-number",
+    "counting-explorer", "addsub-explorer", "double-half-explorer", "place-value-20",
+    "word-problem-intro", "shapes-explorer", "clock-coins-explorer", "pattern-explorer"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

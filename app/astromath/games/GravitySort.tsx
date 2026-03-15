@@ -4,16 +4,18 @@ import { motion, AnimatePresence } from "framer-motion";
 import { useLang } from "@/components/LanguageProvider";
 import { speak, SpeakButton } from "@/lib/astromath-tts";
 import { T } from "@/app/astromath/games/translations";
-import { generateSortRound } from "@/lib/astromath";
+import { generateSortRound, type SortRound } from "@/lib/astromath";
 
-const GravitySort = memo(function GravitySort({ sortRange, color, onDone }: {
+const GravitySort = memo(function GravitySort({ sortRange, color, onDone, generateRound }: {
   sortRange: [number, number]; color: string; onDone: (score: number, total: number) => void;
+  generateRound?: () => SortRound;
 }) {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
   const ROUNDS = 5;
+  const gen = useCallback(() => generateRound ? generateRound() : generateSortRound(sortRange), [generateRound, sortRange]);
   const [round, setRound] = useState(0);
-  const [roundData, setRoundData] = useState(() => generateSortRound(sortRange));
+  const [roundData, setRoundData] = useState(() => gen());
   const [tapped, setTapped] = useState<number[]>([]);
   const [correct, setCorrect] = useState(0);
   const [feedback, setFeedback] = useState<"correct" | "wrong" | null>(null);
@@ -35,7 +37,7 @@ const GravitySort = memo(function GravitySort({ sortRange, color, onDone }: {
           onDone(newCorrect, ROUNDS);
         } else {
           setRound((r) => r + 1);
-          setRoundData(generateSortRound(sortRange));
+          setRoundData(gen());
           setTapped([]);
           setFeedback(null);
         }
@@ -76,7 +78,7 @@ const GravitySort = memo(function GravitySort({ sortRange, color, onDone }: {
                 opacity: isTapped && !feedback ? 0.7 : 1,
               }}
               whileTap={!isTapped && !feedback ? { scale: 0.9 } : {}}>
-              {num}
+              {roundData.labels ? roundData.labels[idx] : num}
               {isTapped && <span className="absolute -top-2 -right-2 w-5 h-5 rounded-full text-[9px] font-black flex items-center justify-center"
                 style={{ background: color, color: "#fff" }}>{tapIdx + 1}</span>}
             </motion.button>
@@ -84,12 +86,16 @@ const GravitySort = memo(function GravitySort({ sortRange, color, onDone }: {
         })}
       </div>
 
-      {/* Correct order hint */}
-      <div className="flex gap-2 items-center">
-        {roundData.sorted.map((n, i) => (
-          <span key={i} className="text-white/20 font-bold text-sm">{i > 0 ? "< " : ""}{n}</span>
-        ))}
-      </div>
+      {/* Correct order — only shown on wrong answer */}
+      {feedback === "wrong" && (
+        <div className="flex gap-2 items-center">
+          {roundData.sorted.map((n, i) => (
+            <span key={i} className="text-white/50 font-bold text-sm">
+              {i > 0 ? "< " : ""}{roundData.sortedLabels ? roundData.sortedLabels[i] : n}
+            </span>
+          ))}
+        </div>
+      )}
 
       <AnimatePresence>
         {feedback && (

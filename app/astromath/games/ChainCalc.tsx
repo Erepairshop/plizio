@@ -7,6 +7,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 const rand = (a: number, b: number) => Math.floor(Math.random() * (b - a + 1)) + a;
@@ -201,7 +202,10 @@ const ChainCalc = memo(function ChainCalc({
       {/* Title + instruction */}
       <div className="text-center">
         <p className="text-base font-black" style={{ color }}>{t.title}</p>
-        <p className="text-xs text-white/50 mt-0.5">{t.instruction}</p>
+        <div className="flex items-center justify-center gap-2 mt-0.5">
+          <p className="text-xs text-white/50">{t.instruction}</p>
+          <SpeakButton text={t.instruction} lang={lang} size={14} />
+        </div>
       </div>
 
       {/* Chain visual — 3 steps */}

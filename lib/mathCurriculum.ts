@@ -2186,12 +2186,15 @@ const G5: Record<string, Generator> = {
       HU: `Kerekítsd ${nFmt}-t a legközelebbi ${lbl}!`,
       RO: `Rotunjește ${nFmt} la cel mai apropiat ${lbl}.`,
     };
-    return q(prompts[lang] ?? prompts.EN, rounded, t("rounding", cc));
+    // Distractors: ±1 step of the rounding unit, and rounded to the wrong level
+    const wrongLevel = roundTo === 1000 ? Math.round(n / 10000) * 10000 : Math.round(n / 1000) * 1000;
+    return qd(prompts[lang] ?? prompts.EN, rounded, t("rounding", cc), [rounded + roundTo, rounded - roundTo, wrongLevel]);
   },
   roundHundreds: (cc) => {
     const n = randInt(1000, 9999);
     const rounded = Math.round(n / 100) * 100;
-    return q(qMissingInEquation(`${n} ≈ ?`, cc).replace("?", "? (nearest 100)"), rounded, t("rounding", cc));
+    const roundedTo1000 = Math.round(n / 1000) * 1000;
+    return qd(qMissingInEquation(`${n} ≈ ?`, cc).replace("?", "? (nearest 100)"), rounded, t("rounding", cc), [rounded + 100, rounded - 100, roundedTo1000]);
   },
   orderOfOps: (cc) => { const a = randInt(2, 8), b = randInt(2, 5), c = randInt(1, 10); return q(`${a} × ${b} + ${c} = ?`, a * b + c, t("orderOfOps", cc)); },
   orderOfOpsB: (cc) => { const a = randInt(10, 30), b = randInt(2, 5), c = randInt(1, 5); return q(`${a} - ${b} × ${c} = ?`, a - b * c, t("orderOfOps", cc), -50); },
@@ -2200,16 +2203,18 @@ const G5: Record<string, Generator> = {
   fractionAdd: (cc) => {
     const d = pick([4, 6, 8, 10]);
     const a = randInt(1, d / 2), b = randInt(1, d / 2);
-    return q(qFractionNumerator(a, b, d, cc), a + b, t("fractionAdd", cc));
+    const sum = a + b;
+    return qd(qFractionNumerator(a, b, d, cc), sum, t("fractionAdd", cc), [sum + 1, sum - 1, a]);
   },
   fractionSub: (cc) => {
     const d = pick([4, 6, 8]);
     const a = randInt(3, d - 1), b = randInt(1, a - 1);
-    return q(qFractionSubNumerator(a, b, d, cc), a - b, t("fractionSub", cc));
+    const diff = a - b;
+    return qd(qFractionSubNumerator(a, b, d, cc), diff, t("fractionSub", cc), [diff + 1, a + b, a]);
   },
-  percent10: (cc) => { const n = randInt(2, 10) * 100; return q(qPercentOf(n, 10, cc), n / 10, t("percent", cc)); },
-  percent50: (cc) => { const n = randInt(2, 10) * 100; return q(qPercentOf(n, 50, cc), n / 2, t("percent", cc)); },
-  percent25: (cc) => { const n = randInt(2, 20) * 10; return q(qPercentOf(n, 25, cc), n / 4, t("percent", cc)); },
+  percent10: (cc) => { const n = randInt(2, 10) * 100; const ans = n / 10; return qd(qPercentOf(n, 10, cc), ans, t("percent", cc), [n / 5, n / 100, ans + 10]); },
+  percent50: (cc) => { const n = randInt(2, 10) * 100; const ans = n / 2; return qd(qPercentOf(n, 50, cc), ans, t("percent", cc), [n / 4, n / 10, ans + 50]); },
+  percent25: (cc) => { const n = randInt(2, 20) * 10; const ans = n / 4; return qd(qPercentOf(n, 25, cc), ans, t("percent", cc), [n / 2, n / 10, ans + 5]); },
   geoRectPerimeter: (cc) => { const a = randInt(3, 12), b = randInt(3, 12); return q(qRectPerimeter(a, b, cc), 2 * (a + b), t("geometry", cc)); },
   geoRectArea: (cc) => { const a = randInt(3, 10), b = randInt(3, 10); return q(qRectArea(a, b, cc), a * b, t("geometry", cc)); },
   geoSquarePerimeter: (cc) => { const a = randInt(3, 15); return q(qSquarePerimeter(a, cc), 4 * a, t("geometry", cc)); },
@@ -2227,7 +2232,8 @@ const G5: Record<string, Generator> = {
       () => {
         const composites: Record<number, number> = { 4:2, 6:2, 8:2, 9:3, 10:2, 12:2, 14:2, 15:3, 16:2, 18:2, 20:2, 21:3, 22:2, 25:5, 26:2, 27:3, 28:2, 33:3, 35:5, 39:3 };
         const n = pick(Object.keys(composites).map(Number));
-        return q(qSmallestPrimeFactor(n, cc), composites[n], t("primes", cc));
+        const pf = composites[n];
+        return qd(qSmallestPrimeFactor(n, cc), pf, t("primes", cc), [pf + 1, pf + 2, n]);
       },
       () => {
         // primes < 20: 2,3,5,7,11,13,17,19 → 8 db
@@ -2242,12 +2248,12 @@ const G5: Record<string, Generator> = {
   lcm: (cc) => {
     const pairs: [number, number, number][] = [[2,3,6],[3,4,12],[4,6,12],[6,8,24],[3,5,15],[4,10,20],[6,9,18],[5,6,30],[2,7,14],[4,5,20]];
     const [a, b, lcm] = pick(pairs);
-    return q(qLcmOf(a, b, cc), lcm, t("lcmGcd", cc));
+    return qd(qLcmOf(a, b, cc), lcm, t("lcmGcd", cc), [a * b, lcm + a, lcm - b]);
   },
   gcd: (cc) => {
     const pairs: [number, number, number][] = [[12,8,4],[15,10,5],[18,12,6],[16,12,4],[20,15,5],[24,16,8],[30,18,6],[14,21,7],[36,24,12],[25,15,5]];
     const [a, b, gcd] = pick(pairs);
-    return q(qGcdOf(a, b, cc), gcd, t("lcmGcd", cc));
+    return qd(qGcdOf(a, b, cc), gcd, t("lcmGcd", cc), [gcd * 2, gcd + 1, gcd - 1]);
   },
   mean: (cc) => {
     const count = pick([3, 4, 5]);
@@ -2299,7 +2305,11 @@ const G5: Record<string, Generator> = {
       HU: `A szám: ${formatted}. Melyik számjegy áll a ${names[placeIdx]} helyén?`,
       RO: `Numărul este ${formatted}. Ce cifră se află pe poziția ${names[placeIdx]}?`,
     };
-    return q(prompts[lang] ?? prompts.EN, digit, t("rounding", cc));
+    // Distractors: neighboring place digits + ±1
+    const neighborDigit = placeIdx > 0 ? digits[placeIdx - 1] : digits[placeIdx + 1];
+    const d1 = digit < 9 ? digit + 1 : digit - 2;
+    const d2 = digit > 0 ? digit - 1 : digit + 2;
+    return qd(prompts[lang] ?? prompts.EN, digit, t("rounding", cc), [neighborDigit, d1, d2]);
   },
 
   compareNums: (cc) => {
@@ -2314,7 +2324,8 @@ const G5: Record<string, Generator> = {
       HU: `Melyik szám nagyobb: ${a.toLocaleString("de-DE")} vagy ${b.toLocaleString("de-DE")}? (Írd be a nagyobb számot)`,
       RO: `Care număr este mai mare: ${a.toLocaleString("de-DE")} sau ${b.toLocaleString("de-DE")}? (Scrie numărul mai mare)`,
     };
-    return q(prompts[lang] ?? prompts.EN, bigger, t("rounding", cc));
+    const smaller = Math.min(a, b);
+    return qd(prompts[lang] ?? prompts.EN, bigger, t("rounding", cc), [smaller, bigger + 1000, bigger - 1000]);
   },
 
   addLarge: (cc) => {
@@ -2441,7 +2452,11 @@ const G5: Record<string, Generator> = {
       HU: `A szám: ${nStr}. Melyik számjegy áll a ${pn} helyén?`,
       RO: `Numărul este ${nStr}. Ce cifră se află pe locul ${pn}?`,
     };
-    return q(prompts[lang] ?? prompts.EN, digit, t("decimals", cc));
+    // Distractors: the other decimal digit + ±1
+    const otherDigit = place === "tenths" ? hundredth : tenth;
+    const d1 = digit < 9 ? digit + 1 : digit - 2;
+    const d2 = digit > 0 ? digit - 1 : digit + 2;
+    return qd(prompts[lang] ?? prompts.EN, digit, t("decimals", cc), [otherDigit, d1, d2]);
   },
 
   decimalAdd: (cc) => {
@@ -2485,7 +2500,8 @@ const G5: Record<string, Generator> = {
       HU: `Melyik nagyobb: ${aStr} vagy ${bStr}? (Írd be a nagyobb számot)`,
       RO: `Care este mai mare: ${aStr} sau ${bStr}? (Scrie numărul mai mare)`,
     };
-    return q(prompts[lang] ?? prompts.EN, bigger, t("decimals", cc));
+    const smaller = Math.round(Math.min(a, b) * 100) / 100;
+    return qd(prompts[lang] ?? prompts.EN, bigger, t("decimals", cc), [smaller, Math.round((bigger + 0.1) * 100) / 100, Math.round((bigger - 0.1) * 100) / 100]);
   },
 
   decimalRound: (cc) => {
@@ -2499,7 +2515,7 @@ const G5: Record<string, Generator> = {
       HU: `Kerekítsd ${dStr}-t a legközelebbi egész számra!`,
       RO: `Rotunjește ${dStr} la cel mai apropiat număr întreg.`,
     };
-    return q(prompts[lang] ?? prompts.EN, rounded, t("rounding", cc));
+    return qd(prompts[lang] ?? prompts.EN, rounded, t("rounding", cc), [rounded + 1, rounded - 1, Math.round(d * 10) / 10]);
   },
 
   // ── Unit conversions ─────────────────────────────────
@@ -2932,12 +2948,14 @@ const G6: Record<string, Generator> = {
   negAbsolute: (cc) => {
     // Bias toward negative inputs — |14|=14 is trivial, |-7|=7 teaches the concept
     const n = Math.random() < 0.75 ? randInt(-15, -1) : randInt(1, 15);
-    return q(qAbsoluteValue(n, cc), Math.abs(n), t("negativeNumbers", cc));
+    const absN = Math.abs(n);
+    return qd(qAbsoluteValue(n, cc), absN, t("negativeNumbers", cc), [-absN, absN + 1, absN - 1], false, -50);
   },
   negCompare: (cc) => {
     const a = randInt(-10, -1), b = randInt(-10, -1);
     const larger = Math.max(a, b);
-    return q(qNegCompare(a, b, cc), larger, t("negativeNumbers", cc), -50);
+    const smallerNeg = Math.min(a, b);
+    return qd(qNegCompare(a, b, cc), larger, t("negativeNumbers", cc), [smallerNeg, larger + 1, larger - 1], false, -50);
   },
   negTemp: (cc) => {
     const warm = randInt(5, 18), cold = randInt(-12, -1);
@@ -3003,7 +3021,7 @@ const G6: Record<string, Generator> = {
       [1,2,50],[1,4,25],[3,4,75],[1,5,20],[2,5,40],[3,5,60],[4,5,80],[1,10,10],[3,10,30],
     ];
     const [n, d, pct] = pick(pairs);
-    return q(qFracToPercent(n, d, cc), pct, t("percentCalc", cc));
+    return qd(qFracToPercent(n, d, cc), pct, t("percentCalc", cc), [pct + 10, pct - 10 > 0 ? pct - 10 : pct + 25, 100 - pct]);
   },
 
   // ── RATIOS & PROPORTIONS ──
@@ -3048,36 +3066,42 @@ const G6: Record<string, Generator> = {
   // ── PERCENTAGES ──
   percentCalc: (cc) => {
     const base = pick([200, 300, 400, 500, 600, 800, 1000]); const p = pick([5, 10, 15, 20, 25]);
-    return q(qPercentOf(base, p, cc), base * p / 100, t("percentCalc", cc));
+    const ans = base * p / 100;
+    // Distractors: common wrong calculations (half-base, double, ±step)
+    return qd(qPercentOf(base, p, cc), ans, t("percentCalc", cc), [base * (p + 5) / 100, base * (p - 5 > 0 ? p - 5 : p * 2) / 100, ans + base / 100]);
   },
   percentWhat: (cc) => {
     const p = pick([10, 20, 25, 50]), base = pick([80, 100, 120, 200, 400]);
     const part = base * p / 100;
-    return q(qPercentWhat(part, base, cc), p, t("percentCalc", cc));
+    return qd(qPercentWhat(part, base, cc), p, t("percentCalc", cc), [p + 5, p - 5 > 0 ? p - 5 : p * 2, p + 10]);
   },
   percentBase: (cc) => {
     const p = pick([10, 20, 25, 50]), base = pick([40, 80, 100, 120, 200]);
     const result = base * p / 100;
-    return q(qPercentBase(p, result, cc), base, t("percentCalc", cc));
+    return qd(qPercentBase(p, result, cc), base, t("percentCalc", cc), [result, base + result, base * 2]);
   },
   percentIncrease: (cc) => {
     const base = pick([100, 200, 300, 400, 500]), pct = pick([10, 20, 25, 50]);
-    return q(qPercentIncrease(base, pct, cc), base + base * pct / 100, t("percentCalc", cc));
+    const ans = base + base * pct / 100;
+    return qd(qPercentIncrease(base, pct, cc), ans, t("percentCalc", cc), [base, base * pct / 100, ans + base * 5 / 100]);
   },
   percentDecrease: (cc) => {
     const base = pick([100, 200, 300, 400, 500]), pct = pick([10, 20, 25, 50]);
-    return q(qPercentDecrease(base, pct, cc), base - base * pct / 100, t("percentCalc", cc));
+    const ans = base - base * pct / 100;
+    return qd(qPercentDecrease(base, pct, cc), ans, t("percentCalc", cc), [base, base * pct / 100, ans - base * 5 / 100]);
   },
   percentDiscount: (cc) => {
     const cur = getCurrency(cc);
     const item = pick([getItems(cc).shoe, getItems(cc).laptop]);
     const orig = randInt(100, 500); const disc = pick([10, 20, 25, 50]);
-    return q(wpDiscount(item, orig, disc, cur, cc), orig - orig * disc / 100, t("percentCalc", cc), 0, true);
+    const ans = orig - orig * disc / 100;
+    return qd(wpDiscount(item, orig, disc, cur, cc), ans, t("percentCalc", cc), [orig, orig * disc / 100, ans + orig * 5 / 100], true);
   },
   percentTax: (cc) => {
     const cur = getCurrency(cc);
     const price = randInt(5, 20) * 10, pct = pick([10, 20, 25]);
-    return q(wpPercentTax(price, pct, cur, cc), price + price * pct / 100, t("percentCalc", cc), 0, true);
+    const ans = price + price * pct / 100;
+    return qd(wpPercentTax(price, pct, cur, cc), ans, t("percentCalc", cc), [price, price * pct / 100, ans + price * 5 / 100], true);
   },
 
   // ── ALGEBRA ──
@@ -3138,7 +3162,8 @@ const G6: Record<string, Generator> = {
     const x = pick([-4, -3, -2, -1, 1, 2, 3, 4]);
     const y = pick([-4, -3, -2, -1, 1, 2, 3, 4]);
     const quadrant = x > 0 && y > 0 ? 1 : x < 0 && y > 0 ? 2 : x < 0 && y < 0 ? 3 : 4;
-    return q(qCoord4Q(x, y, cc), quadrant, t("geometry", cc));
+    const others = [1, 2, 3, 4].filter(q2 => q2 !== quadrant);
+    return qd(qCoord4Q(x, y, cc), quadrant, t("geometry", cc), others);
   },
 
   // ── STATISTICS ──

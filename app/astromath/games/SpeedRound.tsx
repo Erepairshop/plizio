@@ -5,6 +5,7 @@
 import { memo, useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { MathQuestion } from "@/lib/mathCurriculum";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const TIME_PER_Q = 11; // seconds
 const READ_DELAY = 3;  // seconds — options locked while student reads the question
@@ -121,7 +122,10 @@ const SpeedRound = memo(function SpeedRound({ questions, color, onDone, onCorrec
           initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -12 }}
           className="rounded-3xl p-6 min-h-[110px] flex items-center justify-center"
           style={{ background: `${color}12`, border: `1.5px solid ${color}30` }}>
-          <p className="text-2xl font-black text-white text-center leading-snug">{q.question}</p>
+          <div className="flex items-center justify-center gap-2">
+            <p className="text-2xl font-black text-white text-center leading-snug">{q.question}</p>
+            <SpeakButton text={q.question} lang={lang} size={14} />
+          </div>
         </motion.div>
       </AnimatePresence>
 
