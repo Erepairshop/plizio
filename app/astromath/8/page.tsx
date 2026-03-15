@@ -47,6 +47,7 @@ import {
   isCheckpointUnlockedG8, isCheckpointDoneG8,
   completeMissionG8, completeTestG8, islandTotalStarsG8,
   generateIslandQuestionsG8, generateCheckpointQuestionsG8,
+  generateSqrtSortRound,
 } from "@/lib/astromath8";
 
 // ─── Category card config ─────────────────────────────────────────────────────
@@ -796,7 +797,8 @@ export default function AstroMathG8Page() {
             onWrong={() => setAvatarMood("disappointed")} />
         )}
         {screen === "gravity-sort" && activeIsland && (
-          <GravitySort sortRange={activeIsland.sortRange} color={bgColor} onDone={handleMissionDone} />
+          <GravitySort sortRange={activeIsland.sortRange} color={bgColor} onDone={handleMissionDone}
+            generateRound={activeIsland.id === "i1" ? generateSqrtSortRound : undefined} />
         )}
         {screen === "star-match" && questions.length > 0 && (
           <StarMatch questions={questions} color={bgColor} onDone={handleMissionDone} />

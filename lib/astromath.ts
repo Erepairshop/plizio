@@ -59,6 +59,8 @@ export interface G1Progress {
 export interface SortRound {
   numbers: number[];   // shuffled
   sorted: number[];    // correct order
+  labels?: string[];   // optional display labels (e.g. "2³") matching numbers[] order
+  sortedLabels?: string[]; // optional display labels matching sorted[] order
 }
 
 export interface MatchPair {

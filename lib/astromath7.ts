@@ -289,6 +289,50 @@ export function generateSortRoundG7(range: [number, number]): SortRound {
   return { numbers, sorted };
 }
 
+// Superscript digits for display
+const SUP: Record<string, string> = { "0": "⁰", "1": "¹", "2": "²", "3": "³", "4": "⁴", "5": "⁵", "6": "⁶", "7": "⁷", "8": "⁸", "9": "⁹" };
+function toSup(n: number): string { return String(n).split("").map(c => SUP[c] ?? c).join(""); }
+
+/** Generate a sort round with power expressions (e.g. 2³=8, 5²=25) — unique values */
+export function generatePowerSortRound(): SortRound {
+  // Pool of base^exp pairs with their values
+  const pool: { base: number; exp: number; value: number; label: string }[] = [];
+  for (const b of [2, 3, 4, 5, 6, 7, 8, 9, 10]) {
+    for (const e of [2, 3]) {
+      if (b === 10 && e === 3) continue; // 1000 too large
+      pool.push({ base: b, exp: e, value: b ** e, label: `${b}${toSup(e)}` });
+    }
+  }
+  // Add some special ones
+  pool.push({ base: 2, exp: 4, value: 16, label: `2${toSup(4)}` });
+  pool.push({ base: 2, exp: 5, value: 32, label: `2${toSup(5)}` });
+  pool.push({ base: 2, exp: 6, value: 64, label: `2${toSup(6)}` });
+  pool.push({ base: 3, exp: 4, value: 81, label: `3${toSup(4)}` });
+
+  // Pick 5 with unique values
+  const shuffled = shuffle(pool);
+  const picked: typeof pool = [];
+  const usedValues = new Set<number>();
+  for (const p of shuffled) {
+    if (!usedValues.has(p.value) && picked.length < 5) {
+      usedValues.add(p.value);
+      picked.push(p);
+    }
+  }
+
+  const sorted = [...picked].sort((a, b) => a.value - b.value);
+  const numbers = picked.map(p => p.value);
+  const labels = picked.map(p => p.label);
+  const sortedLabels = sorted.map(p => p.label);
+
+  return {
+    numbers,
+    sorted: sorted.map(p => p.value),
+    labels,
+    sortedLabels,
+  };
+}
+
 export function generateMatchPairsG7(questions: MathQuestion[]): MatchPair[] {
   const seen = new Set<string>();
   const unique: MathQuestion[] = [];

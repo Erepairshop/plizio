@@ -46,6 +46,7 @@ import {
   isCheckpointUnlockedG7, isCheckpointDoneG7,
   completeMissionG7, completeTestG7, islandTotalStarsG7,
   generateIslandQuestionsG7, generateCheckpointQuestionsG7,
+  generatePowerSortRound,
 } from "@/lib/astromath7";
 
 // ─── Category card config ─────────────────────────────────────────────────────
@@ -793,7 +794,8 @@ export default function AstroMathG7Page() {
             onWrong={() => setAvatarMood("disappointed")} />
         )}
         {screen === "gravity-sort" && activeIsland && (
-          <GravitySort sortRange={activeIsland.sortRange} color={bgColor} onDone={handleMissionDone} />
+          <GravitySort sortRange={activeIsland.sortRange} color={bgColor} onDone={handleMissionDone}
+            generateRound={activeIsland.id === "i1" ? generatePowerSortRound : undefined} />
         )}
         {screen === "star-match" && questions.length > 0 && (
           <StarMatch questions={questions} color={bgColor} onDone={handleMissionDone} />

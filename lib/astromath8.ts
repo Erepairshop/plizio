@@ -289,6 +289,26 @@ export function generateSortRoundG8(range: [number, number]): SortRound {
   return { numbers, sorted };
 }
 
+/** Generate a sort round with square root expressions (e.g. √4=2, √25=5) — unique values */
+export function generateSqrtSortRound(): SortRound {
+  // Perfect squares and their roots
+  const pool: { radicand: number; value: number; label: string }[] = [];
+  for (const n of [1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144]) {
+    pool.push({ radicand: n, value: Math.sqrt(n), label: `√${n}` });
+  }
+
+  const shuffled = shuffle(pool);
+  const picked = shuffled.slice(0, 5);
+  const sorted = [...picked].sort((a, b) => a.value - b.value);
+
+  return {
+    numbers: picked.map(p => p.value),
+    sorted: sorted.map(p => p.value),
+    labels: picked.map(p => p.label),
+    sortedLabels: sorted.map(p => p.label),
+  };
+}
+
 export function generateMatchPairsG8(questions: MathQuestion[]): MatchPair[] {
   const seen = new Set<string>();
   const unique: MathQuestion[] = [];
