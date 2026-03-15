@@ -2,7 +2,7 @@
 import { memo, useState, useCallback, useRef, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useLang } from "@/components/LanguageProvider";
-import { speak, SpeakButton } from "@/lib/astromath-tts";
+import { SpeakButton } from "@/lib/astromath-tts";
 import { T } from "@/app/astromath/games/translations";
 
 function randInt(lo: number, hi: number) { return Math.floor(Math.random() * (hi - lo + 1)) + lo; }
@@ -29,8 +29,6 @@ const NumberDuel = memo(function NumberDuel({ sortRange, color, onDone }: {
 
   const question = askBigger ? t.duelBigger : t.duelSmaller;
   const correctAnswer = askBigger ? Math.max(...pair) : Math.min(...pair);
-
-  useEffect(() => { speak(question, lang); }, [round]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const tap = useCallback((val: number) => {
     if (lockRef.current || feedback) return;

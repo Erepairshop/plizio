@@ -1,6 +1,7 @@
 "use client";
+import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import { Volume2 } from "lucide-react";
+import { Volume2, VolumeX } from "lucide-react";
 
 // ─── Language → BCP-47 mapping ────────────────────────────────────────────────
 export const LANG_TO_TTS: Record<string, string> = {
@@ -78,7 +79,7 @@ export function emojiToSpoken(text: string, lang = "en"): string {
     .trim();
 }
 
-export function speak(text: string, lang: string) {
+export function speak(text: string, lang: string, onEnd?: () => void) {
   if (typeof window === "undefined" || !window.speechSynthesis) return;
   const clean = emojiToSpoken(text, lang);
   if (!clean) return;
@@ -91,17 +92,40 @@ export function speak(text: string, lang: string) {
   utt.pitch = params.pitch;
   const voice = getBestVoice(bcp47);
   if (voice) utt.voice = voice;
+  if (onEnd) { utt.onend = onEnd; utt.onerror = onEnd; }
   window.speechSynthesis.speak(utt);
 }
 
 export function SpeakButton({ text, lang, size = 18 }: { text: string; lang: string; size?: number }) {
+  const [speaking, setSpeaking] = useState(false);
+
+  // Reset state when text changes (new question)
+  useEffect(() => { setSpeaking(false); }, [text]);
+
+  const handleClick = (e: React.MouseEvent) => {
+    e.stopPropagation();
+    if (speaking || (typeof window !== "undefined" && window.speechSynthesis?.speaking)) {
+      window.speechSynthesis.cancel();
+      setSpeaking(false);
+    } else {
+      speak(text, lang, () => setSpeaking(false));
+      setSpeaking(true);
+    }
+  };
+
   return (
     <motion.button
-      onClick={(e) => { e.stopPropagation(); speak(text, lang); }}
-      aria-label="Speak question"
-      className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 active:bg-white/30 transition-colors flex-shrink-0"
-      whileTap={{ scale: 0.9 }}>
-      <Volume2 size={size} />
+      onClick={handleClick}
+      aria-label={speaking ? "Stop" : "Speak question"}
+      className={`w-9 h-9 flex items-center justify-center rounded-full transition-colors flex-shrink-0 ${
+        speaking
+          ? "bg-blue-500/30 text-blue-300 hover:bg-blue-500/40"
+          : "bg-white/10 text-white/70 hover:bg-white/20 active:bg-white/30"
+      }`}
+      whileTap={{ scale: 0.9 }}
+      animate={speaking ? { scale: [1, 1.08, 1] } : {}}
+      transition={speaking ? { repeat: Infinity, duration: 1.2 } : {}}>
+      {speaking ? <VolumeX size={size} /> : <Volume2 size={size} />}
     </motion.button>
   );
 }

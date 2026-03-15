@@ -4,9 +4,10 @@
 // Supports: div (multiplication/division inverses), units (conversions)
 // 8 questions, MCQ 4 options
 
-import { memo, useState, useCallback } from "react";
+import { memo, useState, useCallback, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 const rand = (a: number, b: number) => Math.floor(Math.random() * (b - a + 1)) + a;
@@ -166,14 +167,23 @@ function g1ErgaenzenQuestion(): MNQuestion {
 }
 
 function generateQuestions(topicKeys: string[], count = 8): MNQuestion[] {
-  // G1 detection
-  const isG1 = topicKeys.some(k =>
-    ["add10", "add20", "sub10", "sub20", "g1_tausch", "g1_zahlzerlegung",
-     "g1_ergaenzen", "g1_verdoppeln", "g1_halbieren", "word"].includes(k)
-  );
+  // G1 detection — all G1 island topic keys
+  const ALL_G1_KEYS = [
+    "add10", "add20", "sub10", "sub20",
+    "g1_tausch", "g1_zahlzerlegung", "g1_ergaenzen", "g1_verdoppeln", "g1_halbieren",
+    "g1_count", "g1_compare", "g1_pos", "g1_visual", "g1_fraction",
+    "g1_num1120", "g1_place_value20", "g1_sequence", "g1_data",
+    "g1_shapes", "g1_spatial", "g1_pattern",
+    "g1_clock", "g1_coins", "g1_weight", "g1_volume", "g1_laenger", "g1_wochentage",
+    "word",
+  ];
+  const isG1 = topicKeys.some(k => ALL_G1_KEYS.includes(k));
 
   if (isG1) {
-    const max = topicKeys.some(k => k.includes("20")) ? 20 : 10;
+    const max = topicKeys.some(k =>
+      k.includes("20") || k === "g1_sequence" || k === "g1_data" ||
+      k === "g1_num1120" || k === "g1_place_value20"
+    ) ? 20 : 10;
     const hasVerd = topicKeys.some(k => ["g1_verdoppeln", "g1_halbieren"].includes(k));
     const hasErg  = topicKeys.some(k => k === "g1_ergaenzen");
     const gens: (() => MNQuestion)[] = [() => g1AddSubQuestion(max)];
@@ -293,9 +303,12 @@ const MissingNumber = memo(function MissingNumber({
       </div>
 
       {/* Title */}
-      <div className="text-center">
-        <p className="text-base font-black" style={{ color }}>{t.title}</p>
-        <p className="text-xs text-white/50 mt-0.5">{t.instruction}</p>
+      <div className="flex items-center justify-center gap-2">
+        <div className="text-center">
+          <p className="text-base font-black" style={{ color }}>{t.title}</p>
+          <p className="text-xs text-white/50 mt-0.5">{t.instruction}</p>
+        </div>
+        <SpeakButton text={q.parts.filter(Boolean).map(p => p === "?" ? "..." : p).join(" ")} lang={lang} size={16} />
       </div>
 
       {/* Equation card */}

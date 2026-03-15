@@ -3,7 +3,7 @@ import { memo, useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
-import { speak, SpeakButton } from "@/lib/astromath-tts";
+import { SpeakButton } from "@/lib/astromath-tts";
 import { T } from "@/app/astromath/games/translations";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 
@@ -21,10 +21,6 @@ const OrbitQuiz = memo(function OrbitQuiz({ questions, color, onDone, onCorrect,
   const q = questions[idx];
   const opts = q?.options ?? [];
   const isCorrect = selected !== null && String(selected) === String(q?.correctAnswer);
-
-  useEffect(() => {
-    if (q?.question) speak(q.question, lang);
-  }, [idx, q?.question, lang]);
 
   const scoreRef = useRef(0);
 

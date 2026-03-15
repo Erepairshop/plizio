@@ -76,7 +76,7 @@ export const G1_ISLANDS: IslandDef[] = [
     id: "i1",
     name: { en: "Counting Island", hu: "Számolás sziget", de: "Zählinsel", ro: "Insula numărării" },
     icon: "🔢", color: "#4ECDC4", sortRange: [1, 10],
-    topicKeys: ["g1_count", "g1_compare", "g1_pos"],
+    topicKeys: ["g1_count", "g1_compare", "g1_pos", "g1_visual"],
     missions: [
       { id: "m1", gameType: "orbit-quiz",       category: "explore",   icon: "🔭", label: { en: "Number Quiz",    hu: "Számkvíz",         de: "Zahlenquiz",      ro: "Quiz numere"    } },
       { id: "m2", gameType: "number-duel",      category: "build",     icon: "⚔️", label: { en: "Number Duel",    hu: "Szám-párharc",     de: "Zahlen-Duell",    ro: "Duel numere"    } },
@@ -112,7 +112,7 @@ export const G1_ISLANDS: IslandDef[] = [
     id: "i4",
     name: { en: "Double & Half Island", hu: "Dupla & Fele sziget", de: "Verdoppeln & Halbieren", ro: "Dublu & Jumătate" },
     icon: "✌️", color: "#B44DFF", sortRange: [1, 18],
-    topicKeys: ["g1_verdoppeln", "g1_halbieren"],
+    topicKeys: ["g1_verdoppeln", "g1_halbieren", "g1_fraction"],
     missions: [
       { id: "m1", gameType: "orbit-quiz",       category: "explore",   icon: "🔭", label: { en: "Double Quiz",     hu: "Dupla kvíz",      de: "Verdoppeln Quiz",  ro: "Quiz dublare"   } },
       { id: "m2", gameType: "star-match",       category: "build",     icon: "⭐", label: { en: "Star Match",      hu: "Csillagpárosítás", de: "Sternenpaare",    ro: "Perechi stele"  } },

@@ -1457,11 +1457,116 @@ generateCheckpointQuestions(testId, lang, count)
 
 **localStorage kulcs:** `astromath_g2_v1`
 
+### Sziget-animációk — IslandCompleteAnimation + RocketTransition (2026-03-15)
+
+**Fájlok:**
+| Fájl | Leírás |
+|------|--------|
+| `app/astromath/IslandCompleteAnimation.tsx` | 13s cinematic sziget teljesítésekor |
+| `app/astromath/RocketTransition.tsx` | 1.3s gyors rakéta-átmenet navigációnál |
+
+**IslandCompleteAnimation props:**
+```tsx
+<IslandCompleteAnimation
+  islandIcon={activeIsland.icon}          // pl. "🔢"
+  islandColor={activeIsland.color}        // pl. "#4ECDC4"
+  islandName={activeIsland.name[lang] ?? activeIsland.name.en}
+  lang={lang}
+  onDone={handleIslandAnimDone}
+/>
+```
+
+**Animáció fázisok (13s):**
+1. `0–1.2s` — háttér fadeIn + csillagos tér
+2. `1.2–3s` — sziget ikon zoomol be, "Island complete!" szöveg, keringő ⭐-ok
+3. `3–4.8s` — SVG asztronauta besétál balról (integet)
+4. `4.8–6.2s` — SVG rakéta leereszkedik felülről
+5. `6.2–8.8s` — energia-részecskék repülnek az ikon → rakéta FUEL-mérőbe (töltés)
+6. `8.8–10.2s` — asztronauta beül a rakétába
+7. `10.2–12s` — rakéta gyújtás + felszállás (lángok)
+8. `12–13s` → képernyő elfakul → `onDone()` → kártya jutalom
+
+**RocketTransition props:**
+```tsx
+<RocketTransition color={bgColor} onDone={() => setScreen("island-intro")} />
+```
+1.3s alatt SVG rakéta repül balról jobbra, majd `onDone()` hívódik.
+
+---
+
+**Integrálás új Grade oldalba — teljes checklist (G3/G5-G8):**
+
+```
+1. Importok (RocketLaunch import után):
+   import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
+   import RocketTransition from "@/app/astromath/RocketTransition";
+
+2. Screen type (meglévő "missing-number" | ... sorok után):
+   | "island-transition"
+   | "island-complete-anim"
+
+3. handleIslandSelect CSERE:
+   const handleIslandSelect = useCallback((island: IslandDef) => {
+     if (walkTimerRef.current) clearTimeout(walkTimerRef.current);
+     setActiveIsland(island);
+     setAvatarIslandId(island.id);
+     setAvatarWalking(false);
+     setAvatarMood("idle");
+     setScreen("island-transition");
+   }, []);
+
+4. handleAfterMission MÓDOSÍTÁS (justUnlockedIsland ág):
+   if (justUnlockedIsland) {
+     setScreen("island-complete-anim");   // ← volt: kártya mentés + setScreen("reward")
+   } else {
+     setScreen("mission-select");
+   }
+
+5. handleIslandAnimDone HOZZÁADÁS (handleAfterMission után):
+   const handleIslandAnimDone = useCallback(() => {
+     const rarity = calculateRarity(missionScore.score, missionScore.total, 0, false);
+     saveCard({ id: generateCardId(), game: "astromath", rarity,
+       score: missionScore.score, total: missionScore.total,
+       date: new Date().toISOString() });
+     window.dispatchEvent(new Event("plizio-cards-changed"));
+     incrementTotalGames();
+     checkNewMilestones();
+     setEarnedCard(rarity);
+     setRewardScore({ score: missionScore.score, total: missionScore.total });
+     setScreen("reward");
+   }, [missionScore]);
+
+6. Screen renderek (// ─── MISSION DONE blokk ELÉ):
+   if (screen === "island-transition") {
+     return (
+       <div className="min-h-screen bg-[#060614] relative">
+         <Starfield />
+         <RocketTransition color={bgColor} onDone={() => setScreen("island-intro")} />
+       </div>
+     );
+   }
+   if (screen === "island-complete-anim" && activeIsland) {
+     return (
+       <IslandCompleteAnimation
+         islandIcon={activeIsland.icon}
+         islandColor={activeIsland.color}
+         islandName={activeIsland.name[lang as Lang] ?? activeIsland.name.en}
+         lang={lang}
+         onDone={handleIslandAnimDone}
+       />
+     );
+   }
+```
+
+**Státusz:** G1 ✅ · G2 ✅ · G4 ✅ · G3/G5-G8 TODO
+
+---
+
 ### Tervezett fejlesztések (TODO)
 
 1. **G3, G5-G8 oldalak** — `/astromath/3/`, `/astromath/5/`…`/astromath/8/` megvalósítása
 2. **Hangeffektek** — Web Audio API / rövid MP3 fájlok (sziget teljesítés, helyes válasz stb.)
-3. **Animált pályabejárás** — rakéta animáció szigetek között a térképen
+3. **Animált pályabejárás** — ✅ KÉSZ (IslandCompleteAnimation + RocketTransition)
 
 ---
 

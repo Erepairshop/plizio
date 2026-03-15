@@ -4369,6 +4369,7 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g1_ergaenzen',     name: 'Fill the gap  (5 + __ = 10)', color: '#7C3AED', icon: '❓', generators: [G1.missing10] },
       { key: 'g1_verdoppeln',    name: 'Doubling  (3 + 3 = ?)', color: '#8B5CF6', icon: '✌️', generators: [G1.verdoppeln] },
       { key: 'g1_halbieren',     name: 'Halving  (6 → 3)', color: '#6D28D9', icon: '✂️', generators: [G1.halbieren] },
+      { key: 'g1_fraction',      name: 'Halves & Quarters  (1/2 · 1/4)', color: '#A855F7', icon: '🍕', generators: [G1.fraction] },
       { key: 'g1_sequence',      name: 'Number sequences  (2–4–6–?)', color: '#5B21B6', icon: '➡️', generators: [G1.sequence, G1.evenOdd] },
     ]},
     { key: 'g1_geo', name: 'Geometry & Spatial', color: '#10B981', icon: '🔷', topics: [
@@ -4948,6 +4949,7 @@ const DE_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g1_ergaenzen',     name: 'Ergänzen  (5 + __ = 10)', color: '#7C3AED', icon: '❓', generators: [G1.missing10] },
       { key: 'g1_verdoppeln',    name: 'Verdoppeln  (3 + 3 = ?)', color: '#8B5CF6', icon: '✌️', generators: [G1.verdoppeln] },
       { key: 'g1_halbieren',     name: 'Halbieren  (6 → 3)', color: '#6D28D9', icon: '✂️', generators: [G1.halbieren] },
+      { key: 'g1_fraction',      name: 'Hälften & Viertel  (1/2 · 1/4)', color: '#A855F7', icon: '🍕', generators: [G1.fraction] },
       { key: 'g1_sequence',      name: 'Zahlenfolgen  (2–4–6–?)', color: '#5B21B6', icon: '➡️', generators: [G1.sequence, G1.evenOdd] },
     ]},
     { key: 'g1_geo', name: 'Geometrie und Raumorientierung', color: '#10B981', icon: '🔷', topics: [
@@ -5581,6 +5583,7 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g1_ergaenzen',     name: 'Egészítsd ki!  (5 + __ = 10)', color: '#7C3AED', icon: '❓', generators: [G1.missing10] },
       { key: 'g1_verdoppeln',    name: 'Kétszereselés  (3 + 3 = ?)', color: '#8B5CF6', icon: '✌️', generators: [G1.verdoppeln] },
       { key: 'g1_halbieren',     name: 'Felezés  (6 → 3)', color: '#6D28D9', icon: '✂️', generators: [G1.halbieren] },
+      { key: 'g1_fraction',      name: 'Fele & Negyede  (1/2 · 1/4)', color: '#A855F7', icon: '🍕', generators: [G1.fraction] },
       { key: 'g1_sequence',      name: 'Számsorok  (2–4–6–?)', color: '#5B21B6', icon: '➡️', generators: [G1.sequence, G1.evenOdd] },
     ]},
     { key: 'g1_geo', name: 'Geometria és térbeli tájékozódás', color: '#10B981', icon: '🔷', topics: [
@@ -6147,6 +6150,7 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g1_ergaenzen',     name: 'Completează!  (5 + __ = 10)', color: '#7C3AED', icon: '❓', generators: [G1.missing10] },
       { key: 'g1_verdoppeln',    name: 'Dublare  (3 + 3 = ?)', color: '#8B5CF6', icon: '✌️', generators: [G1.verdoppeln] },
       { key: 'g1_halbieren',     name: 'Înjumătățire  (6 → 3)', color: '#6D28D9', icon: '✂️', generators: [G1.halbieren] },
+      { key: 'g1_fraction',      name: 'Jumătăți & Sferturi  (1/2 · 1/4)', color: '#A855F7', icon: '🍕', generators: [G1.fraction] },
       { key: 'g1_sequence',      name: 'Șiruri de numere  (2–4–6–?)', color: '#5B21B6', icon: '➡️', generators: [G1.sequence, G1.evenOdd] },
     ]},
     { key: 'g1_geo', name: 'Geometrie și orientare spațială', color: '#10B981', icon: '🔷', topics: [
