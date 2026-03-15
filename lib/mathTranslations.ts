@@ -3241,38 +3241,33 @@ export function qComposeFromParts(tens: number, ones: number, countryCode: strin
 // Visual emoji counting addition: "🍎🍎🍎 + 🍎🍎 = ?"
 export function qCountAdd(a: number, emoji: string, b: number, countryCode: string): string {
   const lang = getLang(countryCode);
-  const groupA = emoji.repeat(a);
-  const groupB = emoji.repeat(b);
   switch (lang) {
-    case "DE": return `${groupA} + ${groupB} = ?`;
-    case "EN": return `${groupA} + ${groupB} = ?`;
-    case "RO": return `${groupA} + ${groupB} = ?`;
-    default:   return `${groupA} + ${groupB} = ?`;
+    case "DE": return `${a} ${emoji} + ${b} ${emoji} = ?`;
+    case "EN": return `${a} ${emoji} + ${b} ${emoji} = ?`;
+    case "RO": return `${a} ${emoji} + ${b} ${emoji} = ?`;
+    default:   return `${a} ${emoji} + ${b} ${emoji} = ?`;
   }
 }
 
 // Visual emoji counting subtraction: "🍪🍪🍪🍪🍪, 2 eltűnik → mennyi marad?"
 export function qCountSub(total: number, emoji: string, removed: number, countryCode: string): string {
   const lang = getLang(countryCode);
-  const allItems = emoji.repeat(total);
   switch (lang) {
-    case "DE": return `${allItems}  ${removed} verschwinden → wie viele bleiben?`;
-    case "EN": return `${allItems}  ${removed} disappear → how many are left?`;
-    case "RO": return `${allItems}  ${removed} dispar → câte rămân?`;
-    default:   return `${allItems}  ${removed} eltűnik → mennyi marad?`;
+    case "DE": return `${total} ${emoji} – davon ${removed} verschwinden → wie viele bleiben?`;
+    case "EN": return `${total} ${emoji} – ${removed} disappear → how many are left?`;
+    case "RO": return `${total} ${emoji} – ${removed} dispar → câte rămân?`;
+    default:   return `${total} ${emoji} – ebből ${removed} eltűnik → mennyi marad?`;
   }
 }
 
 // Visual multiplication: rows of emoji "🍎🍎 / 🍎🍎 / 🍎🍎 = ? × ?"
 export function qMulRows(rows: number, each: number, emoji: string, countryCode: string): string {
   const lang = getLang(countryCode);
-  const rowStr = emoji.repeat(each);
-  const grid = Array(rows).fill(rowStr).join("  ");
   switch (lang) {
-    case "DE": return `${grid}   ${rows} × ${each} = ?`;
-    case "EN": return `${grid}   ${rows} × ${each} = ?`;
-    case "RO": return `${grid}   ${rows} × ${each} = ?`;
-    default:   return `${grid}   ${rows} × ${each} = ?`;
+    case "DE": return `${rows} Reihen mit je ${each} ${emoji}  →  ${rows} × ${each} = ?`;
+    case "EN": return `${rows} rows of ${each} ${emoji}  →  ${rows} × ${each} = ?`;
+    case "RO": return `${rows} rânduri de câte ${each} ${emoji}  →  ${rows} × ${each} = ?`;
+    default:   return `${rows} sor, mindegyikben ${each} ${emoji}  →  ${rows} × ${each} = ?`;
   }
 }
 
@@ -3447,12 +3442,11 @@ export function qAngleType(a: number, countryCode: string): string {
 // Word problem: visual sharing of items
 export function wpVisualShare(total: number, emoji: string, kids: number, countryCode: string): string {
   const lang = getLang(countryCode);
-  const items = emoji.repeat(Math.min(total, 12));
   switch (lang) {
-    case "DE": return `${items}  ${total} Stück werden gleichmäßig auf ${kids} Kinder verteilt. Wie viele bekommt jedes Kind?`;
-    case "EN": return `${items}  ${total} items shared equally among ${kids} children. How many does each child get?`;
-    case "RO": return `${items}  ${total} obiecte împărțite egal între ${kids} copii. Câte primește fiecare?`;
-    default:   return `${items}  ${total} darabot ${kids} gyerek közt osztanak el egyenlően. Mindenki hányat kap?`;
+    case "DE": return `${total} ${emoji} werden gleichmäßig auf ${kids} Kinder verteilt. Wie viele bekommt jedes Kind?`;
+    case "EN": return `${total} ${emoji} shared equally among ${kids} children. How many does each child get?`;
+    case "RO": return `${total} ${emoji} împărțite egal între ${kids} copii. Câte primește fiecare?`;
+    default:   return `${total} ${emoji} darabot ${kids} gyerek közt osztanak el egyenlően. Mindenki hányat kap?`;
   }
 }
 
