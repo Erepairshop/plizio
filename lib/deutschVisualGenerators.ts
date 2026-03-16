@@ -560,3 +560,104 @@ export const ADJEKTIV_ENDUNGEN_POOL: AdjektivEndungItem[] = [
 export function genAdjektivEndungen(count: number): AdjektivEndungItem[] {
   return shuffle(ADJEKTIV_ENDUNGEN_POOL).slice(0, count);
 }
+
+// ─── K5: PASSIV UMFORMER ─────────────────────────────────────────────────────
+// Show active sentence → passive template with blank → tap correct auxiliary
+
+export interface PassivUmformerItem {
+  aktiv: string;
+  passivTemplate: string;  // passive sentence with "___" for the auxiliary
+  hilfsverb: string;       // correct: "wird" or "wurde"
+  options: string[];
+}
+
+export const PASSIV_UMFORMER_POOL: PassivUmformerItem[] = [
+  { aktiv: "Der Lehrer schreibt den Satz.", passivTemplate: "Der Satz ___ vom Lehrer geschrieben.", hilfsverb: "wird", options: ["wird", "wurde", "werden", "worden"] },
+  { aktiv: "Die Schüler lesen das Buch.", passivTemplate: "Das Buch ___ von den Schülern gelesen.", hilfsverb: "wird", options: ["wird", "wurde", "werden", "ist"] },
+  { aktiv: "Der Koch kocht die Suppe.", passivTemplate: "Die Suppe ___ vom Koch gekocht.", hilfsverb: "wird", options: ["wird", "wurde", "worden", "werden"] },
+  { aktiv: "Die Mutter backt den Kuchen.", passivTemplate: "Der Kuchen ___ von der Mutter gebacken.", hilfsverb: "wird", options: ["wird", "wurde", "werden", "gebacken"] },
+  { aktiv: "Der Hund bewacht das Haus.", passivTemplate: "Das Haus ___ vom Hund bewacht.", hilfsverb: "wird", options: ["wird", "wurde", "worden", "ist"] },
+  { aktiv: "Die Kinder spielen das Spiel.", passivTemplate: "Das Spiel ___ von den Kindern gespielt.", hilfsverb: "wird", options: ["wird", "wurde", "werden", "hat"] },
+  { aktiv: "Der Arzt untersucht den Patienten.", passivTemplate: "Der Patient ___ vom Arzt untersucht.", hilfsverb: "wird", options: ["wird", "wurde", "worden", "werden"] },
+  { aktiv: "Die Lehrerin erklärt die Aufgabe.", passivTemplate: "Die Aufgabe ___ von der Lehrerin erklärt.", hilfsverb: "wird", options: ["wird", "wurde", "werden", "ist"] },
+  { aktiv: "Der Gärtner pflanzt die Blumen.", passivTemplate: "Die Blumen ___ vom Gärtner gepflanzt.", hilfsverb: "wird", options: ["wird", "wurde", "werden", "worden"] },
+  { aktiv: "Die Feuerwehr löscht den Brand.", passivTemplate: "Der Brand ___ von der Feuerwehr gelöscht.", hilfsverb: "wird", options: ["wird", "wurde", "gelöscht", "werden"] },
+  // Präteritum
+  { aktiv: "Der Lehrer erklärte die Aufgabe.", passivTemplate: "Die Aufgabe ___ vom Lehrer erklärt.", hilfsverb: "wurde", options: ["wird", "wurde", "werden", "worden"] },
+  { aktiv: "Die Schüler lösten das Problem.", passivTemplate: "Das Problem ___ von den Schülern gelöst.", hilfsverb: "wurde", options: ["wird", "wurde", "gelöst", "worden"] },
+  { aktiv: "Der Vater kaufte das Auto.", passivTemplate: "Das Auto ___ vom Vater gekauft.", hilfsverb: "wurde", options: ["wird", "wurde", "werden", "ist"] },
+  { aktiv: "Die Arbeiter bauten das Haus.", passivTemplate: "Das Haus ___ von den Arbeitern gebaut.", hilfsverb: "wurde", options: ["wird", "wurde", "werden", "worden"] },
+  { aktiv: "Der Bäcker buk das Brot.", passivTemplate: "Das Brot ___ vom Bäcker gebacken.", hilfsverb: "wurde", options: ["wird", "wurde", "gebacken", "ist"] },
+  { aktiv: "Die Polizei fand den Täter.", passivTemplate: "Der Täter ___ von der Polizei gefunden.", hilfsverb: "wurde", options: ["wird", "wurde", "werden", "hatte"] },
+  { aktiv: "Der Mechaniker reparierte das Fahrrad.", passivTemplate: "Das Fahrrad ___ vom Mechaniker repariert.", hilfsverb: "wurde", options: ["wird", "wurde", "worden", "repariert"] },
+  { aktiv: "Die Mutter wusch die Wäsche.", passivTemplate: "Die Wäsche ___ von der Mutter gewaschen.", hilfsverb: "wurde", options: ["wird", "wurde", "werden", "gewaschen"] },
+];
+
+export function genPassivUmformer(count: number): PassivUmformerItem[] {
+  return shuffle(PASSIV_UMFORMER_POOL).slice(0, count);
+}
+
+// ─── K5: KOMMA SETZEN ────────────────────────────────────────────────────────
+// Show sentence words without comma; click the gap where the comma belongs
+
+export interface KommaSetzenItem {
+  words: string[];         // sentence split into words (no comma, period at last word)
+  commaPosition: number;  // after this word index the comma belongs
+  rule: string;            // e.g. "Komma vor Nebensatz mit 'weil'"
+}
+
+export const KOMMA_SETZEN_POOL: KommaSetzenItem[] = [
+  { words: ["Wenn", "es", "regnet", "bleiben", "wir", "zu", "Hause."], commaPosition: 2, rule: "Komma nach dem Wenn-Satz" },
+  { words: ["Ich", "bleibe", "zu", "Hause", "weil", "ich", "krank", "bin."], commaPosition: 3, rule: "Komma vor dem Weil-Satz" },
+  { words: ["Obwohl", "es", "kalt", "war", "gingen", "wir", "schwimmen."], commaPosition: 3, rule: "Komma nach dem Obwohl-Satz" },
+  { words: ["Er", "sagte", "dass", "er", "morgen", "kommt."], commaPosition: 1, rule: "Komma vor dem Dass-Satz" },
+  { words: ["Weil", "sie", "fleißig", "war", "bekam", "sie", "eine", "Eins."], commaPosition: 3, rule: "Komma nach dem Weil-Satz" },
+  { words: ["Nachdem", "wir", "gegessen", "hatten", "räumten", "wir", "auf."], commaPosition: 3, rule: "Komma nach dem Nachdem-Satz" },
+  { words: ["Ich", "weiß", "dass", "er", "die", "Wahrheit", "sagt."], commaPosition: 1, rule: "Komma vor dem Dass-Satz" },
+  { words: ["Als", "er", "nach", "Hause", "kam", "war", "es", "dunkel."], commaPosition: 4, rule: "Komma nach dem Als-Satz" },
+  { words: ["Obwohl", "er", "müde", "war", "half", "er", "uns."], commaPosition: 3, rule: "Komma nach dem Obwohl-Satz" },
+  { words: ["Wenn", "du", "willst", "kannst", "du", "mitspielen."], commaPosition: 2, rule: "Komma nach dem Wenn-Satz" },
+  { words: ["Sie", "freute", "sich", "weil", "sie", "gewonnen", "hatte."], commaPosition: 2, rule: "Komma vor dem Weil-Satz" },
+  { words: ["Damit", "er", "nicht", "zu", "spät", "kommt", "fuhr", "er", "früh", "los."], commaPosition: 5, rule: "Komma nach dem Damit-Satz" },
+  { words: ["Während", "sie", "schlief", "kochte", "er", "das", "Essen."], commaPosition: 2, rule: "Komma nach dem Während-Satz" },
+  { words: ["Er", "lernte", "viel", "damit", "er", "die", "Prüfung", "besteht."], commaPosition: 2, rule: "Komma vor dem Damit-Satz" },
+  { words: ["Bevor", "du", "schläfst", "putze", "die", "Zähne."], commaPosition: 2, rule: "Komma nach dem Bevor-Satz" },
+  { words: ["Ich", "glaube", "dass", "er", "recht", "hat."], commaPosition: 1, rule: "Komma vor dem Dass-Satz" },
+];
+
+export function genKommaSetzen(count: number): KommaSetzenItem[] {
+  return shuffle(KOMMA_SETZEN_POOL).slice(0, count);
+}
+
+// ─── K5: KONJUNKTIONS-LÜCKE ──────────────────────────────────────────────────
+// Two sentence halves; tap the correct conjunction to connect them
+
+export interface KonjunktionsLueckeItem {
+  left: string;      // first half (ends without conjunction)
+  right: string;     // second half
+  conjunction: string;
+  options: string[];
+}
+
+export const KONJUNKTIONS_LUECKE_POOL: KonjunktionsLueckeItem[] = [
+  { left: "Er bleibt zu Hause,", right: "er krank ist.", conjunction: "weil", options: ["weil", "obwohl", "wenn", "damit"] },
+  { left: "Sie sagte,", right: "sie morgen kommt.", conjunction: "dass", options: ["dass", "weil", "obwohl", "damit"] },
+  { left: "Ich gehe spazieren,", right: "es regnet.", conjunction: "obwohl", options: ["obwohl", "weil", "damit", "dass"] },
+  { left: "Er lernt viel,", right: "er die Prüfung besteht.", conjunction: "damit", options: ["damit", "weil", "obwohl", "wenn"] },
+  { left: "Wir spielen draußen,", right: "es nicht regnet.", conjunction: "wenn", options: ["wenn", "weil", "obwohl", "damit"] },
+  { left: "Sie war traurig,", right: "sie gewonnen hatte.", conjunction: "obwohl", options: ["obwohl", "weil", "wenn", "dass"] },
+  { left: "Ich weiß,", right: "du recht hast.", conjunction: "dass", options: ["dass", "weil", "wenn", "damit"] },
+  { left: "Er aß nichts,", right: "er keinen Hunger hatte.", conjunction: "weil", options: ["weil", "obwohl", "wenn", "dass"] },
+  { left: "Sie zieht sich warm an,", right: "es draußen kalt ist.", conjunction: "weil", options: ["weil", "obwohl", "damit", "wenn"] },
+  { left: "Ich helfe dir,", right: "du es alleine schaffst.", conjunction: "damit", options: ["damit", "weil", "obwohl", "dass"] },
+  { left: "Er kam zu spät,", right: "er früh aufgestanden war.", conjunction: "obwohl", options: ["obwohl", "weil", "damit", "wenn"] },
+  { left: "Sie fragt,", right: "der Bus schon weg ist.", conjunction: "ob", options: ["ob", "weil", "wenn", "obwohl"] },
+  { left: "Ich frage mich,", right: "er die Wahrheit sagt.", conjunction: "ob", options: ["ob", "dass", "weil", "obwohl"] },
+  { left: "Wir gehen rein,", right: "es zu regnen beginnt.", conjunction: "wenn", options: ["wenn", "weil", "obwohl", "damit"] },
+  { left: "Er trainiert jeden Tag,", right: "er stärker wird.", conjunction: "damit", options: ["damit", "weil", "wenn", "obwohl"] },
+  { left: "Sie ist glücklich,", right: "sie viel arbeiten muss.", conjunction: "obwohl", options: ["obwohl", "weil", "dass", "wenn"] },
+];
+
+export function genKonjunktionsLuecke(count: number): KonjunktionsLueckeItem[] {
+  return shuffle(KONJUNKTIONS_LUECKE_POOL).slice(0, count);
+}

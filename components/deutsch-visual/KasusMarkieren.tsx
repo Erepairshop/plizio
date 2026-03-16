@@ -63,9 +63,15 @@ export default function KasusMarkieren({ sentence, highlight, correctKasus, user
 
   return (
     <div>
+      {/* Instruction */}
+      <div style={{ height: 24, lineHeight: '24px' }} className="flex items-center gap-1 px-1">
+        <span className="text-slate-500 text-xs w-5 text-right shrink-0">↓</span>
+        <span className="text-xs text-slate-600 font-semibold">Welchen Kasus hat das markierte Wort?</span>
+      </div>
+
       {/* Sentence with highlighted phrase */}
       <div style={{ minHeight: 28, lineHeight: '28px' }} className="flex items-center gap-1 px-1 py-0.5 flex-wrap">
-        <span className="text-slate-300 text-xs w-5 text-right shrink-0">→</span>
+        <span className="text-slate-500 text-xs w-5 text-right shrink-0">→</span>
         <span className="text-xs text-slate-700 font-semibold italic">
           {before}
           <span className="bg-amber-100 border border-amber-300 text-amber-800 rounded px-0.5 font-bold not-italic mx-0.5">

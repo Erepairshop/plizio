@@ -44,8 +44,8 @@ export default function SatzgliedMarkieren({ words, correctLabels, userAnswer, s
     <div>
       {/* Instruction */}
       <div style={{ height: 28, lineHeight: '28px' }} className="flex items-center gap-1 px-1">
-        <span className="text-slate-300 text-xs w-5 text-right shrink-0">↓</span>
-        <span className="text-xs text-slate-400 italic">Tippe: S·P·O markieren</span>
+        <span className="text-slate-500 text-xs w-5 text-right shrink-0">↓</span>
+        <span className="text-xs text-slate-600 font-semibold">Tippe: S · P · O markieren</span>
         <span className="ml-auto flex gap-1 pr-1">
           {(['S','P','O'] as const).map(l => (
             <span key={l} className={`text-xs font-bold px-1.5 rounded ${LABEL_CORRECT[l]}`}>{l}</span>

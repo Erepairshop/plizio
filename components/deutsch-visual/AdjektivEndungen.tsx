@@ -55,9 +55,15 @@ export default function AdjektivEndungen({ phrase, stem, correctEnding, userAnsw
 
   return (
     <div>
+      {/* Instruction */}
+      <div style={{ height: 24, lineHeight: '24px' }} className="flex items-center gap-1 px-1">
+        <span className="text-slate-500 text-xs w-5 text-right shrink-0">↓</span>
+        <span className="text-xs text-slate-600 font-semibold">Welche Adjektivendung passt?</span>
+      </div>
+
       {/* Phrase display */}
       <div style={{ minHeight: 28, lineHeight: '28px' }} className="flex items-center gap-1 px-1 py-0.5 flex-wrap">
-        <span className="text-slate-300 text-xs w-5 text-right shrink-0">→</span>
+        <span className="text-slate-500 text-xs w-5 text-right shrink-0">→</span>
         {renderPhrase(phrase, stem, userAnswer, submitted, correctEnding)}
         {submitted && userAnswer && !isCorrect && (
           <span className="text-xs font-bold text-emerald-600 ml-1">
