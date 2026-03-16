@@ -230,7 +230,7 @@ export default function DeutschTestPage() {
 
   // Helper: generate visual TestQuestions for K2 visual subtopics
   function buildVisualForSubtopic(g: number, sid: string, count: number): TestQuestion[] {
-    if (g !== 2 && g !== 3 && g !== 4 && g !== 5 && g !== 6) return [];
+    if (g !== 2 && g !== 3 && g !== 4 && g !== 5 && g !== 6 && g !== 7) return [];
     const fShuffle = <T,>(arr: T[]): T[] => {
       const a = [...arr];
       for (let i = a.length - 1; i > 0; i--) {
@@ -569,6 +569,44 @@ export default function DeutschTestPage() {
         }));
       } else {
         // konjunktiv_2, infinitiv_zu, fremdwoerter, doppelpunkt_k6, gedankenstrich_k6, stilmittel_*, nominalisierung_k6
+        genFehlerFinden(count).forEach(item => qs.push({
+          type: "fehler-finden",
+          question: "Fehler finden:",
+          words: item.words,
+          errorIndex: item.errorIndex,
+          hint: item.hint,
+          answer: String(item.errorIndex),
+          subtopic: sid,
+        }));
+      }
+    }
+
+    // ── K7 visual subtopics ───────────────────────────────────────────────────
+    if (g === 7) {
+      if (sid === "werden_passiv" || sid === "sein_passiv" || sid === "passiv_modal") {
+        genPassivUmformer(count).forEach(item => qs.push({
+          type: "passiv-umformer",
+          question: sid === "sein_passiv" ? "Aktiv → Zustandspassiv (sein):" : sid === "passiv_modal" ? "Passiv mit Modalverb:" : "Aktiv → Vorgangspassiv (werden):",
+          aktiv: item.aktiv,
+          passivTemplate: item.passivTemplate,
+          hilfsverb: item.hilfsverb,
+          options: item.options,
+          answer: item.hilfsverb,
+          subtopic: sid,
+        }));
+      } else if (["relativsatz_k7","kausalsatz_k7","finalsatz_k7","konditionalsatz_k7","konzessivsatz_k7","temporalsatz_k7","um_zu_k7","statt_ohne_zu_k7"].includes(sid)) {
+        genKonjunktionsLuecke(count).forEach(item => qs.push({
+          type: "konjunktions-luecke",
+          question: "Konjunktion / Relativpronomen wählen:",
+          leftHalf: item.left,
+          rightHalf: item.right,
+          conjunction: item.conjunction,
+          options: item.options,
+          answer: item.conjunction,
+          subtopic: sid,
+        }));
+      } else {
+        // konjunktiv_1, aussagen_umf, metapher_vergleich, alliteration_personifikation
         genFehlerFinden(count).forEach(item => qs.push({
           type: "fehler-finden",
           question: "Fehler finden:",
