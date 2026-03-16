@@ -475,3 +475,88 @@ export const SATZGLIED_POOL: SatzgliedItem[] = [
 export function genSatzgliedMarkieren(count: number): SatzgliedItem[] {
   return shuffle(SATZGLIED_POOL).slice(0, count);
 }
+
+// ─── K4: KASUS MARKIEREN ──────────────────────────────────────────────────────
+// Show a sentence; one word is highlighted — user taps N / A / D / G
+
+export interface KasusItem {
+  sentence: string;   // full sentence
+  highlight: string;  // the word to identify (substring that should be highlighted)
+  kasus: 'N' | 'A' | 'D' | 'G';
+}
+
+export const KASUS_POOL: KasusItem[] = [
+  // Nominativ
+  { sentence: "Der Hund bellt laut.", highlight: "Der Hund", kasus: 'N' },
+  { sentence: "Die Lehrerin erklärt die Aufgabe.", highlight: "Die Lehrerin", kasus: 'N' },
+  { sentence: "Das Kind spielt im Garten.", highlight: "Das Kind", kasus: 'N' },
+  { sentence: "Mein Vater kocht das Essen.", highlight: "Mein Vater", kasus: 'N' },
+  { sentence: "Unser Hund schläft den ganzen Tag.", highlight: "Unser Hund", kasus: 'N' },
+  { sentence: "Die Sonne scheint hell.", highlight: "Die Sonne", kasus: 'N' },
+  // Akkusativ
+  { sentence: "Ich sehe den Mann.", highlight: "den Mann", kasus: 'A' },
+  { sentence: "Sie kauft einen Apfel.", highlight: "einen Apfel", kasus: 'A' },
+  { sentence: "Er liest das Buch.", highlight: "das Buch", kasus: 'A' },
+  { sentence: "Wir besuchen unsere Oma.", highlight: "unsere Oma", kasus: 'A' },
+  { sentence: "Das Kind trinkt die Milch.", highlight: "die Milch", kasus: 'A' },
+  { sentence: "Er kauft einen neuen Computer.", highlight: "einen neuen Computer", kasus: 'A' },
+  // Dativ
+  { sentence: "Ich helfe dem Vater.", highlight: "dem Vater", kasus: 'D' },
+  { sentence: "Sie gibt der Lehrerin das Heft.", highlight: "der Lehrerin", kasus: 'D' },
+  { sentence: "Er spielt mit dem Ball.", highlight: "dem Ball", kasus: 'D' },
+  { sentence: "Wir fahren mit dem Bus.", highlight: "dem Bus", kasus: 'D' },
+  { sentence: "Das Geschenk gehört meinem Bruder.", highlight: "meinem Bruder", kasus: 'D' },
+  { sentence: "Sie wohnt bei ihrer Tante.", highlight: "ihrer Tante", kasus: 'D' },
+  // Genitiv
+  { sentence: "Das Auto meines Vaters ist blau.", highlight: "meines Vaters", kasus: 'G' },
+  { sentence: "Die Farbe des Himmels ist blau.", highlight: "des Himmels", kasus: 'G' },
+  { sentence: "Der Hund meiner Schwester bellt.", highlight: "meiner Schwester", kasus: 'G' },
+  { sentence: "Das Dach des Hauses ist rot.", highlight: "des Hauses", kasus: 'G' },
+  { sentence: "Die Tasche der Lehrerin ist schwer.", highlight: "der Lehrerin", kasus: 'G' },
+  { sentence: "Der Name des Schülers steht auf der Liste.", highlight: "des Schülers", kasus: 'G' },
+];
+
+export function genKasusMarkieren(count: number): KasusItem[] {
+  return shuffle(KASUS_POOL).slice(0, count);
+}
+
+// ─── K4: ADJEKTIV-ENDUNGEN ────────────────────────────────────────────────────
+// Show "ein groß___ Hund" — user taps chip to pick ending: -e / -er / -es / -en / -em
+
+export interface AdjektivEndungItem {
+  phrase: string;     // e.g. "ein groß___ Hund"
+  stem: string;       // e.g. "groß" (the adjective stem without the blank)
+  ending: string;     // correct ending: "er" | "e" | "es" | "en" | "em"
+}
+
+export const ADJEKTIV_ENDUNGEN_POOL: AdjektivEndungItem[] = [
+  // Nominativ
+  { phrase: "ein groß___ Hund", stem: "groß", ending: "er" },
+  { phrase: "die klein___ Katze", stem: "klein", ending: "e" },
+  { phrase: "ein klein___ Kind", stem: "klein", ending: "es" },
+  { phrase: "der alt___ Mann", stem: "alt", ending: "e" },
+  { phrase: "eine schön___ Blume", stem: "schön", ending: "e" },
+  { phrase: "das neu___ Fahrrad", stem: "neu", ending: "e" },
+  { phrase: "ein spannend___ Buch", stem: "spannend", ending: "es" },
+  { phrase: "ein rot___ Apfel", stem: "rot", ending: "er" },
+  // Akkusativ
+  { phrase: "den gut___ Freund", stem: "gut", ending: "en" },
+  { phrase: "einen warm___ Tee", stem: "warm", ending: "en" },
+  { phrase: "den blau___ Himmel", stem: "blau", ending: "en" },
+  { phrase: "eine süß___ Melone", stem: "süß", ending: "e" },
+  { phrase: "einen schwer___ Koffer", stem: "schwer", ending: "en" },
+  // Dativ
+  { phrase: "mit dem alt___ Auto", stem: "alt", ending: "en" },
+  { phrase: "mit einer alt___ Dame", stem: "alt", ending: "en" },
+  { phrase: "dem nett___ Nachbarn", stem: "nett", ending: "en" },
+  { phrase: "mit klug___ Schülerinnen", stem: "klug", ending: "en" },
+  // Plural
+  { phrase: "die klein___ Kinder", stem: "klein", ending: "en" },
+  { phrase: "viele fleißig___ Kinder", stem: "fleißig", ending: "e" },
+  { phrase: "alle gut___ Dinge", stem: "gut", ending: "en" },
+  { phrase: "ihre grün___ Augen", stem: "grün", ending: "en" },
+];
+
+export function genAdjektivEndungen(count: number): AdjektivEndungItem[] {
+  return shuffle(ADJEKTIV_ENDUNGEN_POOL).slice(0, count);
+}

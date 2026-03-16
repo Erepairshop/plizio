@@ -39,7 +39,9 @@ import GeschichteSortieren from "@/components/deutsch-visual/GeschichteSortieren
 import WortartenSortieren from "@/components/deutsch-visual/WortartenSortieren";
 import ZeitformenZuordnen from "@/components/deutsch-visual/ZeitformenZuordnen";
 import SatzgliedMarkieren from "@/components/deutsch-visual/SatzgliedMarkieren";
-import { genGenusSortierung, genSatzOrdnen, genBildBeschriften, genFehlerFinden, genWortfamilienBaum, genGeschichteSortieren, genWortartenSortieren, genZeitformenZuordnen, genSatzgliedMarkieren } from "@/lib/deutschVisualGenerators";
+import KasusMarkieren from "@/components/deutsch-visual/KasusMarkieren";
+import AdjektivEndungen from "@/components/deutsch-visual/AdjektivEndungen";
+import { genGenusSortierung, genSatzOrdnen, genBildBeschriften, genFehlerFinden, genWortfamilienBaum, genGeschichteSortieren, genWortartenSortieren, genZeitformenZuordnen, genSatzgliedMarkieren, genKasusMarkieren, genAdjektivEndungen } from "@/lib/deutschVisualGenerators";
 import { playCorrect, playIncorrect, playClick } from "@/lib/soundEffects";
 
 // ─── TTS HELPER ──────────────────────────────────────────────────────────────
@@ -119,7 +121,7 @@ type Screen = "country" | "grade" | "topics" | "test" | "reward" | "result";
 type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory";
 
 interface TestQuestion {
-  type: "mcq" | "typing" | "bild-wort" | "anlaut-bild" | "genus-sort" | "satz-ordnen" | "bild-beschriften" | "fehler-finden" | "wortfamilien-baum" | "geschichte-sortieren" | "wortarten-sortieren" | "zeitformen-zuordnen" | "satzglied-markieren";
+  type: "mcq" | "typing" | "bild-wort" | "anlaut-bild" | "genus-sort" | "satz-ordnen" | "bild-beschriften" | "fehler-finden" | "wortfamilien-baum" | "geschichte-sortieren" | "wortarten-sortieren" | "zeitformen-zuordnen" | "satzglied-markieren" | "kasus-markieren" | "adjektiv-endungen";
   question: string;
   options?: string[];
   correct?: number;
@@ -141,6 +143,10 @@ interface TestQuestion {
   sentence?: string;       // zeitformen-zuordnen: the sentence
   correctZeitform?: 'pres'|'praet'|'perf'; // zeitformen-zuordnen
   correctLabels?: string[];// satzglied-markieren: S/P/O/'' per word
+  highlight?: string;      // kasus-markieren: phrase to highlight
+  correctKasus?: 'N'|'A'|'D'|'G'; // kasus-markieren
+  stem?: string;           // adjektiv-endungen: adjective stem
+  correctEnding?: string;  // adjektiv-endungen: e/er/es/en/em
 }
 
 // ─── AVATAR LADEN ─────────────────────────────────────────────────────────────
@@ -210,7 +216,7 @@ export default function DeutschTestPage() {
 
   // Helper: generate visual TestQuestions for K2 visual subtopics
   function buildVisualForSubtopic(g: number, sid: string, count: number): TestQuestion[] {
-    if (g !== 2 && g !== 3) return [];
+    if (g !== 2 && g !== 3 && g !== 4) return [];
     const fShuffle = <T,>(arr: T[]): T[] => {
       const a = [...arr];
       for (let i = a.length - 1; i > 0; i--) {
@@ -322,6 +328,68 @@ export default function DeutschTestPage() {
           options: item.options,
           correctSet: item.correctIndices,
           answer: item.correctIndices.join(","),
+          subtopic: sid,
+        }));
+      }
+    }
+
+    // ── K4 visual subtopics ───────────────────────────────────────────────────
+    if (g === 4) {
+      if (sid === "nominativ" || sid === "akkusativ" || sid === "dativ" || sid === "genitiv" || sid === "kasus") {
+        genKasusMarkieren(count).forEach(item => qs.push({
+          type: "kasus-markieren",
+          question: "Kasus bestimmen:",
+          sentence: item.sentence,
+          highlight: item.highlight,
+          correctKasus: item.kasus,
+          answer: item.kasus,
+          subtopic: sid,
+        }));
+      } else if (sid === "adjektivendungen_k4") {
+        genAdjektivEndungen(count).forEach(item => qs.push({
+          type: "adjektiv-endungen",
+          question: "Adjektiv-Endung:",
+          sentence: item.phrase,
+          stem: item.stem,
+          correctEnding: item.ending,
+          answer: item.ending,
+          subtopic: sid,
+        }));
+      } else if (sid === "praeteritum" || sid === "perfekt" || sid === "zeitformen_k4") {
+        genZeitformenZuordnen(count).forEach(item => qs.push({
+          type: "zeitformen-zuordnen",
+          question: "Zeitform bestimmen:",
+          sentence: item.sentence,
+          correctZeitform: item.zeitform,
+          answer: item.zeitform,
+          subtopic: sid,
+        }));
+      } else if (sid === "subjekt_praedikat_k4" || sid === "objekte_k4" || sid === "satzglieder_k4") {
+        genSatzgliedMarkieren(count).forEach(item => qs.push({
+          type: "satzglied-markieren",
+          question: "Satzglieder markieren:",
+          words: item.words,
+          correctLabels: item.labels,
+          answer: item.labels.join(","),
+          subtopic: sid,
+        }));
+      } else if (sid === "wortarten_k4" || sid === "pronomen_k4") {
+        genWortartenSortieren(count).forEach(item => qs.push({
+          type: "wortarten-sortieren",
+          question: "Wortarten bestimmen:",
+          words: item.words,
+          wordCategories: item.categories,
+          answer: item.categories.join(","),
+          subtopic: sid,
+        }));
+      } else if (sid === "das_dass" || sid === "komma_aufzaehlung" || sid === "aeu_eu" || sid === "rechtschreibung_k4" || sid === "weil_dass_k4" || sid === "adverbiale_k4" || sid === "aussage_frage_k4" || sid === "aufforderung_ausruf_k4" || sid === "trennbare_verben_k4" || sid === "futur_k4" || sid === "nebensatz_k4" || sid === "satzarten_k4") {
+        genFehlerFinden(count).forEach(item => qs.push({
+          type: "fehler-finden",
+          question: "Fehler finden:",
+          words: item.words,
+          errorIndex: item.errorIndex,
+          hint: item.hint,
+          answer: String(item.errorIndex),
           subtopic: sid,
         }));
       }
@@ -447,6 +515,12 @@ export default function DeutschTestPage() {
       } else if (q.type === "satzglied-markieren") {
         isCorrect = given === (q.correctLabels ?? []).join(",");
         expected = (q.correctLabels ?? []).join(",");
+      } else if (q.type === "kasus-markieren") {
+        isCorrect = given === (q.correctKasus ?? "");
+        expected = q.correctKasus ?? "";
+      } else if (q.type === "adjektiv-endungen") {
+        isCorrect = given === (q.correctEnding ?? "");
+        expected = q.correctEnding ?? "";
       } else {
         isCorrect = checkAnswer(given, q.answer ?? "", grade);
         expected = Array.isArray(q.answer) ? q.answer[0] : q.answer ?? "";
@@ -1243,6 +1317,34 @@ export default function DeutschTestPage() {
                         <SatzgliedMarkieren
                           words={q.words}
                           correctLabels={q.correctLabels}
+                          userAnswer={userAnswerRaw ?? ""}
+                          submitted={submitted}
+                          onAnswer={(a) => { if (!submitted) { setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
+                        />
+                      </div>
+                    )}
+
+                    {/* KasusMarkieren: K4 — identify case of highlighted phrase */}
+                    {q.type === "kasus-markieren" && q.sentence && q.highlight && q.correctKasus && (
+                      <div className="ml-7">
+                        <KasusMarkieren
+                          sentence={q.sentence}
+                          highlight={q.highlight}
+                          correctKasus={q.correctKasus}
+                          userAnswer={userAnswerRaw ?? ""}
+                          submitted={submitted}
+                          onAnswer={(a) => { if (!submitted) { setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
+                        />
+                      </div>
+                    )}
+
+                    {/* AdjektivEndungen: K4 — tap the correct adjective ending */}
+                    {q.type === "adjektiv-endungen" && q.sentence && q.stem && q.correctEnding && (
+                      <div className="ml-7">
+                        <AdjektivEndungen
+                          phrase={q.sentence}
+                          stem={q.stem}
+                          correctEnding={q.correctEnding}
                           userAnswer={userAnswerRaw ?? ""}
                           submitted={submitted}
                           onAnswer={(a) => { if (!submitted) { setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
