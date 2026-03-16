@@ -174,14 +174,40 @@ export interface GloveDef {
 }
 
 export const GLOVES: GloveDef[] = [
-  { id: "glove_black", name: "Black Gloves", icon: "🧤", price: 5, color: "#1a1a1a" },
-  { id: "glove_white", name: "White Gloves", icon: "🧤", price: 5, color: "#F0F0F0" },
-  { id: "glove_red", name: "Red Gloves", icon: "🧤", price: 7, color: "#CC0000" },
-  { id: "glove_gold", name: "Gold Gloves", icon: "🧤", price: 15, color: "#FFD700" },
-  { id: "glove_neon", name: "Neon Gloves", icon: "🧤", price: 10, color: "#39FF14" },
-  { id: "glove_boxing", name: "Boxing Gloves", icon: "🥊", price: 8, color: "#CC3333" },
-  { id: "glove_mech", name: "Mech Gloves", icon: "🤖", price: 18, color: "#808080" },
-  { id: "glove_ice", name: "Ice Gloves", icon: "❄️", price: 12, color: "#87CEEB" },
+  // ── Alap ────────────────────────────────────────────────────
+  { id: "glove_black",   name: "Black Gloves",     icon: "🧤", price: 5,  color: "#1a1a1a" },
+  { id: "glove_white",   name: "White Gloves",     icon: "🧤", price: 5,  color: "#F0F0F0" },
+  { id: "glove_brown",   name: "Leather Gloves",   icon: "🧤", price: 6,  color: "#7B4A1E" },
+  { id: "glove_grey",    name: "Grey Gloves",      icon: "🧤", price: 5,  color: "#888888" },
+  { id: "glove_navy",    name: "Navy Gloves",      icon: "🧤", price: 6,  color: "#1B2A6B" },
+
+  // ── Szín ────────────────────────────────────────────────────
+  { id: "glove_red",     name: "Red Gloves",       icon: "🧤", price: 7,  color: "#CC0000" },
+  { id: "glove_blue",    name: "Blue Gloves",      icon: "🧤", price: 7,  color: "#2255CC" },
+  { id: "glove_green",   name: "Green Gloves",     icon: "🧤", price: 7,  color: "#228822" },
+  { id: "glove_purple",  name: "Purple Gloves",    icon: "🧤", price: 7,  color: "#7B2FBE" },
+  { id: "glove_pink",    name: "Pink Gloves",      icon: "🧤", price: 7,  color: "#FF69B4" },
+  { id: "glove_orange",  name: "Orange Gloves",    icon: "🧤", price: 7,  color: "#FF6600" },
+  { id: "glove_teal",    name: "Teal Gloves",      icon: "🧤", price: 7,  color: "#009980" },
+
+  // ── Sport ────────────────────────────────────────────────────
+  { id: "glove_boxing",  name: "Boxing Gloves",    icon: "🥊", price: 8,  color: "#CC3333" },
+  { id: "glove_boxing_b",name: "Blue Boxing",      icon: "🥊", price: 8,  color: "#2244BB" },
+  { id: "glove_cycling", name: "Cycling Gloves",   icon: "🚴", price: 9,  color: "#111111" },
+  { id: "glove_ski",     name: "Ski Gloves",       icon: "⛷️", price: 10, color: "#CC4422" },
+
+  // ── Természet / Elem ─────────────────────────────────────────
+  { id: "glove_ice",     name: "Ice Gloves",       icon: "❄️", price: 12, color: "#87CEEB" },
+  { id: "glove_fire",    name: "Fire Gloves",      icon: "🔥", price: 12, color: "#FF4500" },
+  { id: "glove_earth",   name: "Earth Gloves",     icon: "🌍", price: 11, color: "#5C4033" },
+  { id: "glove_storm",   name: "Storm Gloves",     icon: "⚡", price: 12, color: "#3A4A8A" },
+
+  // ── Prémium ──────────────────────────────────────────────────
+  { id: "glove_neon",    name: "Neon Gloves",      icon: "💚", price: 10, color: "#39FF14" },
+  { id: "glove_gold",    name: "Gold Gloves",      icon: "✨", price: 15, color: "#FFD700" },
+  { id: "glove_mech",    name: "Mech Gloves",      icon: "🤖", price: 18, color: "#808080" },
+  { id: "glove_void",    name: "Void Gloves",      icon: "🌑", price: 20, color: "#0d0221" },
+  { id: "glove_rainbow", name: "Rainbow Gloves",   icon: "🌈", price: 22, color: "#FF69B4" },
 ];
 
 // ─── GENERIC GET/SET FUNCTIONS ───────────────────────

@@ -7,6 +7,7 @@ import type { SkinDef } from '@/lib/skins';
 import type { FaceDef } from '@/lib/faces';
 import type { TopDef, BottomDef, ShoeDef, CapeDef, GlassesDef, GloveDef } from '@/lib/clothing';
 import type { HatDef, TrailDef } from '@/lib/accessories';
+import type { HairDef } from '@/lib/hair';
 import type { AvatarGender } from '@/lib/gender';
 import { AVATAR_DEFAULTS } from '@/lib/avatarDefaults';
 
@@ -33,6 +34,7 @@ export interface AvatarCompanionProps {
   activeGloves?: GloveDef | null;
   activeHat?: HatDef | null;
   activeTrail?: TrailDef | null;
+  activeHair?: HairDef | null;
   // When true, the avatar canvas passes clicks through to underlying elements
   passThrough?: boolean;
 }
@@ -162,6 +164,171 @@ function HatMesh({ hat, skinColor }: { hat: HatDef; skinColor: string }) {
       </group>
     );
   }
+  if (hat.type === 'beanie') {
+    return (
+      <group position={[0, 0.19, 0]}>
+        {/* Main dome — sits lower on head */}
+        <mesh>
+          <sphereGeometry args={[0.22, 12, 8, 0, Math.PI * 2, 0, Math.PI * 0.55]} />
+          <meshStandardMaterial color={col} emissive={em} emissiveIntensity={ei} roughness={0.85} />
+        </mesh>
+        {/* Ribbed cuff band */}
+        <mesh position={[0, -0.06, 0]}>
+          <cylinderGeometry args={[0.225, 0.225, 0.06, 12]} />
+          <meshStandardMaterial color={col} emissive={em} emissiveIntensity={ei * 0.5} roughness={0.9} />
+        </mesh>
+        {/* Pom pom on top */}
+        <mesh position={[0, 0.17, 0]}>
+          <sphereGeometry args={[0.055, 8, 8]} />
+          <meshStandardMaterial color={em || col} emissive={em} emissiveIntensity={ei + 0.2} roughness={0.7} />
+        </mesh>
+      </group>
+    );
+  }
+  if (hat.type === 'bucket') {
+    return (
+      <group position={[0, 0.2, 0]}>
+        {/* Crown */}
+        <mesh>
+          <cylinderGeometry args={[0.16, 0.18, 0.18, 12]} />
+          <meshStandardMaterial color={col} roughness={0.8} />
+        </mesh>
+        {/* Wide brim all around */}
+        <mesh position={[0, -0.09, 0]}>
+          <cylinderGeometry args={[0.28, 0.26, 0.04, 12]} />
+          <meshStandardMaterial color={col} roughness={0.8} />
+        </mesh>
+      </group>
+    );
+  }
+  if (hat.type === 'party') {
+    return (
+      <group position={[0, 0.22, 0]}>
+        {/* Cone */}
+        <mesh>
+          <coneGeometry args={[0.16, 0.36, 10]} />
+          <meshStandardMaterial color={col} emissive={em} emissiveIntensity={ei * 0.4} roughness={0.6} />
+        </mesh>
+        {/* Dots */}
+        {[[-0.06, 0.05, 0.14], [0.06, 0.10, 0.12], [0, 0.0, 0.15]].map(([x, y, z], i) => (
+          <mesh key={i} position={[x, y, z]}>
+            <sphereGeometry args={[0.018, 6, 6]} />
+            <meshStandardMaterial color="#FFFFFF" emissive="#FFFFFF" emissiveIntensity={0.5} />
+          </mesh>
+        ))}
+      </group>
+    );
+  }
+  if (hat.type === 'fedora') {
+    return (
+      <group position={[0, 0.22, 0]}>
+        {/* Crown — slightly taller, pinched top */}
+        <mesh position={[0, 0.08, 0]}>
+          <cylinderGeometry args={[0.155, 0.17, 0.20, 12]} />
+          <meshStandardMaterial color={col} roughness={0.75} />
+        </mesh>
+        {/* Top dent */}
+        <mesh position={[0, 0.175, 0]} scale={[1, 0.4, 1]}>
+          <sphereGeometry args={[0.16, 10, 8]} />
+          <meshStandardMaterial color={col} roughness={0.75} />
+        </mesh>
+        {/* Brim */}
+        <mesh position={[0, -0.01, 0]}>
+          <cylinderGeometry args={[0.28, 0.30, 0.03, 14]} />
+          <meshStandardMaterial color={col} roughness={0.75} />
+        </mesh>
+        {/* Hat band */}
+        <mesh position={[0, 0.01, 0]}>
+          <cylinderGeometry args={[0.175, 0.175, 0.04, 12]} />
+          <meshStandardMaterial color={em} emissive={em} emissiveIntensity={ei * 0.5} roughness={0.5} />
+        </mesh>
+      </group>
+    );
+  }
+  if (hat.type === 'viking') {
+    return (
+      <group position={[0, 0.19, 0]}>
+        {/* Main helmet dome */}
+        <mesh>
+          <sphereGeometry args={[0.22, 12, 8, 0, Math.PI * 2, 0, Math.PI * 0.52]} />
+          <meshStandardMaterial color={col} emissive={em} emissiveIntensity={ei * 0.4} roughness={0.35} metalness={0.55} />
+        </mesh>
+        {/* Nose guard */}
+        <mesh position={[0, -0.04, 0.20]} rotation={[0.2, 0, 0]}>
+          <boxGeometry args={[0.04, 0.14, 0.03]} />
+          <meshStandardMaterial color={col} roughness={0.35} metalness={0.55} />
+        </mesh>
+        {/* Left horn */}
+        <mesh position={[-0.22, 0.02, 0]} rotation={[0, 0, -0.5]}>
+          <coneGeometry args={[0.045, 0.18, 8]} />
+          <meshStandardMaterial color="#F0E0C0" roughness={0.7} />
+        </mesh>
+        {/* Right horn */}
+        <mesh position={[0.22, 0.02, 0]} rotation={[0, 0, 0.5]}>
+          <coneGeometry args={[0.045, 0.18, 8]} />
+          <meshStandardMaterial color="#F0E0C0" roughness={0.7} />
+        </mesh>
+      </group>
+    );
+  }
+  if (hat.type === 'ninja') {
+    return (
+      <group position={[0, 0.18, 0]}>
+        {/* Head wrap */}
+        <mesh>
+          <sphereGeometry args={[0.21, 12, 8, 0, Math.PI * 2, 0, Math.PI * 0.62]} />
+          <meshStandardMaterial color={col} roughness={0.9} />
+        </mesh>
+        {/* Forehead band */}
+        <mesh position={[0, -0.02, 0]} rotation={[0.1, 0, 0]}>
+          <cylinderGeometry args={[0.215, 0.215, 0.05, 12]} />
+          <meshStandardMaterial color={em} emissive={em} emissiveIntensity={ei * 0.5} roughness={0.5} />
+        </mesh>
+        {/* Knot on back */}
+        <mesh position={[0, 0.05, -0.20]}>
+          <sphereGeometry args={[0.04, 8, 6]} />
+          <meshStandardMaterial color={col} roughness={0.9} />
+        </mesh>
+      </group>
+    );
+  }
+  if (hat.type === 'snapback') {
+    return (
+      <group position={[0, 0.2, 0]} rotation={[-0.05, 0, 0]}>
+        {/* Flat crown */}
+        <mesh>
+          <cylinderGeometry args={[0.20, 0.20, 0.15, 12]} />
+          <meshStandardMaterial color={col} roughness={0.7} />
+        </mesh>
+        {/* Flat top cap */}
+        <mesh position={[0, 0.075, 0]}>
+          <cylinderGeometry args={[0.20, 0.20, 0.015, 12]} />
+          <meshStandardMaterial color={em || col} emissive={em} emissiveIntensity={ei * 0.3} roughness={0.7} />
+        </mesh>
+        {/* Flat straight brim — front only */}
+        <mesh position={[0, -0.06, 0.16]} rotation={[0.05, 0, 0]}>
+          <boxGeometry args={[0.40, 0.035, 0.20]} />
+          <meshStandardMaterial color={col} roughness={0.7} />
+        </mesh>
+      </group>
+    );
+  }
+  if (hat.type === 'bandana') {
+    return (
+      <group position={[0, 0.16, 0]}>
+        {/* Headband */}
+        <mesh rotation={[0.08, 0, 0]}>
+          <torusGeometry args={[0.195, 0.038, 8, 20]} />
+          <meshStandardMaterial color={col} emissive={em} emissiveIntensity={ei * 0.4} roughness={0.8} />
+        </mesh>
+        {/* Knot side piece */}
+        <mesh position={[0.18, 0.01, -0.08]} rotation={[0, 0.4, 0.2]}>
+          <boxGeometry args={[0.06, 0.04, 0.06]} />
+          <meshStandardMaterial color={col} roughness={0.8} />
+        </mesh>
+      </group>
+    );
+  }
   return null;
 }
 
@@ -242,57 +409,67 @@ function GlassesMesh({ glasses }: { glasses: GlassesDef }) {
 }
 
 // ── CAPE MESH ────────────────────────────────────────────
+function hueToColor(h: number): string {
+  // h: 0–360, returns hex color
+  const s = 1, l = 0.55;
+  const a = s * Math.min(l, 1 - l);
+  const f = (n: number) => {
+    const k = (n + h / 30) % 12;
+    const v = l - a * Math.max(Math.min(k - 3, 9 - k, 1), -1);
+    return Math.round(255 * v).toString(16).padStart(2, '0');
+  };
+  return `#${f(0)}${f(8)}${f(4)}`;
+}
+
 function CapeMesh({ cape, t }: { cape: CapeDef; t: number }) {
   const wave1 = Math.sin(t * 1.4) * 0.016;
   const wave2 = Math.sin(t * 1.1 + 0.6) * 0.012;
   const flutter = Math.sin(t * 2.1) * 0.025;
-  const capeDark = cape.color; // main color
+
+  // Rainbow cape: cycle through hue based on time
+  const isRainbow = cape.id === 'cape_rainbow';
+  const capeColor = isRainbow ? hueToColor((t * 45) % 360) : cape.color;
+  const capeEmissive = isRainbow ? hueToColor(((t * 45) + 120) % 360) : cape.emissive;
+  const capeEI = isRainbow ? 0.7 : cape.emissiveIntensity;
+
+  // All cape pieces are BEHIND the avatar body — z must be ≤ -0.16 to clear body depth
+  // Body half-depth ≈ 0.14, so z=-0.16 is safe clearance
   return (
     <group>
-      {/* ── Clasp / brooch at front collar ─── */}
-      <mesh position={[0, 0.30, 0.148]}>
-        <sphereGeometry args={[0.022, 8, 6]} />
-        <meshStandardMaterial color={cape.emissive} emissive={cape.emissive} emissiveIntensity={1.2} metalness={0.7} roughness={0.2} />
+      {/* ── Clasp / brooch — sits on neck at BACK, not front ─── */}
+      <mesh position={[0, 0.34, -0.17]}>
+        <sphereGeometry args={[0.028, 8, 6]} />
+        <meshStandardMaterial color={capeEmissive} emissive={capeEmissive} emissiveIntensity={1.0} metalness={0.7} roughness={0.2} />
       </mesh>
 
-      {/* ── Shoulder yoke — the wide collar piece across the back ─── */}
-      <mesh position={[0, 0.27, -0.09]} rotation={[0.08, 0, 0]}>
-        <boxGeometry args={[0.54, 0.09, 0.035]} />
-        <meshStandardMaterial color={capeDark} emissive={cape.emissive} emissiveIntensity={cape.emissiveIntensity * 0.65} roughness={0.52} side={THREE.DoubleSide} />
-      </mesh>
-      {/* Left shoulder curve */}
-      <mesh position={[-0.22, 0.23, -0.07]} rotation={[0.1, 0.25, -0.15]}>
-        <boxGeometry args={[0.14, 0.07, 0.025]} />
-        <meshStandardMaterial color={capeDark} emissive={cape.emissive} emissiveIntensity={cape.emissiveIntensity * 0.5} roughness={0.55} side={THREE.DoubleSide} />
-      </mesh>
-      {/* Right shoulder curve */}
-      <mesh position={[0.22, 0.23, -0.07]} rotation={[0.1, -0.25, 0.15]}>
-        <boxGeometry args={[0.14, 0.07, 0.025]} />
-        <meshStandardMaterial color={capeDark} emissive={cape.emissive} emissiveIntensity={cape.emissiveIntensity * 0.5} roughness={0.55} side={THREE.DoubleSide} />
+      {/* ── Shoulder yoke — safely behind the body ─── */}
+      <mesh position={[0, 0.27, -0.18]} rotation={[0.05, 0, 0]}>
+        <boxGeometry args={[0.52, 0.08, 0.030]} />
+        <meshStandardMaterial color={capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.65} roughness={0.52} side={THREE.DoubleSide} />
       </mesh>
 
       {/* ── Upper body — hangs from shoulders ─── */}
-      <mesh position={[0, 0.10 + wave1 * 0.3, -0.12 + wave2 * 0.3]} rotation={[-0.05 + flutter * 0.2, 0, 0]}>
-        <boxGeometry args={[0.50, 0.32, 0.020]} />
-        <meshStandardMaterial color={capeDark} emissive={cape.emissive} emissiveIntensity={cape.emissiveIntensity * 0.28} roughness={0.62} side={THREE.DoubleSide} />
+      <mesh position={[0, 0.10 + wave1 * 0.3, -0.20 + wave2 * 0.3]} rotation={[-0.04 + flutter * 0.2, 0, 0]}>
+        <boxGeometry args={[0.50, 0.30, 0.018]} />
+        <meshStandardMaterial color={isRainbow ? hueToColor(((t * 45) + 60) % 360) : capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.28} roughness={0.62} side={THREE.DoubleSide} />
       </mesh>
 
       {/* ── Mid body ─── */}
-      <mesh position={[0, -0.14 + wave1 * 0.7, -0.14 + wave2 * 0.7]} rotation={[-0.08 + flutter * 0.4, 0, 0]}>
-        <boxGeometry args={[0.47, 0.32, 0.016]} />
-        <meshStandardMaterial color={capeDark} emissive={cape.emissive} emissiveIntensity={cape.emissiveIntensity * 0.32} roughness={0.65} side={THREE.DoubleSide} />
+      <mesh position={[0, -0.14 + wave1 * 0.7, -0.22 + wave2 * 0.7]} rotation={[-0.07 + flutter * 0.4, 0, 0]}>
+        <boxGeometry args={[0.46, 0.30, 0.015]} />
+        <meshStandardMaterial color={isRainbow ? hueToColor(((t * 45) + 180) % 360) : capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.32} roughness={0.65} side={THREE.DoubleSide} />
       </mesh>
 
-      {/* ── Lower body — wider flutter ─── */}
-      <mesh position={[0, -0.38 + wave1 * 1.2, -0.15 + wave2 * 1.2]} rotation={[-0.11 + flutter * 0.6, 0, 0]}>
-        <boxGeometry args={[0.44, 0.28, 0.013]} />
-        <meshStandardMaterial color={capeDark} emissive={cape.emissive} emissiveIntensity={cape.emissiveIntensity * 0.38} roughness={0.65} side={THREE.DoubleSide} />
+      {/* ── Lower body ─── */}
+      <mesh position={[0, -0.38 + wave1 * 1.2, -0.23 + wave2 * 1.2]} rotation={[-0.10 + flutter * 0.6, 0, 0]}>
+        <boxGeometry args={[0.42, 0.27, 0.012]} />
+        <meshStandardMaterial color={isRainbow ? hueToColor(((t * 45) + 240) % 360) : capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.38} roughness={0.65} side={THREE.DoubleSide} />
       </mesh>
 
       {/* ── Tail — tapered tip ─── */}
-      <mesh position={[0, -0.58 + wave1 * 1.8, -0.15 + wave2 * 1.8]} rotation={[-0.14 + flutter * 0.9, 0, 0]}>
-        <boxGeometry args={[0.32, 0.22, 0.010]} />
-        <meshStandardMaterial color={capeDark} emissive={cape.emissive} emissiveIntensity={cape.emissiveIntensity * 0.45} roughness={0.65} side={THREE.DoubleSide} />
+      <mesh position={[0, -0.58 + wave1 * 1.8, -0.23 + wave2 * 1.8]} rotation={[-0.13 + flutter * 0.9, 0, 0]}>
+        <boxGeometry args={[0.30, 0.22, 0.010]} />
+        <meshStandardMaterial color={isRainbow ? hueToColor(((t * 45) + 300) % 360) : capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.45} roughness={0.65} side={THREE.DoubleSide} />
       </mesh>
     </group>
   );
@@ -689,6 +866,7 @@ function Character({
   activeGloves,
   activeHat,
   activeTrail,
+  activeHair,
 }: AvatarCompanionProps) {
   const groupRef = useRef<THREE.Group>(null);
   const headRef = useRef<THREE.Group>(null);
@@ -736,7 +914,8 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
   const skinDark = new THREE.Color(actualSkinColor).multiplyScalar(0.82).getStyle();
 
   // Hair color (warm chestnut brown for default, or skin's headColor for fantasy skins)
-  const hairColor = hasRealSkin ? activeSkin!.headColor : AVATAR_DEFAULTS.hairColor;
+  // activeHair overrides skin headColor and default
+  const hairColor = activeHair ? activeHair.color : (hasRealSkin ? activeSkin!.headColor : AVATAR_DEFAULTS.hairColor);
 
   useEffect(() => {
     moodRef.current = mood;
@@ -1729,6 +1908,7 @@ export default function AvatarCompanion({
   activeGloves,
   activeHat,
   activeTrail,
+  activeHair,
   passThrough = false,
 }: AvatarCompanionProps) {
   const positionClass = fixed ? 'fixed z-50' : 'relative w-full h-full';
@@ -1789,6 +1969,7 @@ export default function AvatarCompanion({
           activeGloves={activeGloves}
           activeHat={activeHat}
           activeTrail={activeTrail}
+          activeHair={activeHair}
         />
       </Canvas>
     </div>

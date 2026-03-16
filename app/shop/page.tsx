@@ -17,6 +17,7 @@ import {
   getOwnedHats, getActiveHat, setActiveHat, buyHat, type HatDef,
   getOwnedTrails, getActiveTrail, setActiveTrail, buyTrail, type TrailDef,
 } from "@/lib/accessories";
+import { HAIR_STYLES, getOwnedHair, getActiveHair, setActiveHair, buyHairStyle, type HairDef } from "@/lib/hair";
 import {
   TOPS, BOTTOMS, SHOES, CAPES, GLASSES, GLOVES,
   getOwned, getActive, setActive, buyItem,
@@ -91,7 +92,7 @@ type Tab = "cars" | "powerups" | "skins" | "abilities";
 type ShopTranslations = {
   header: string;
   tabs: Record<Tab, string>;
-  skinSubs: Record<"skin" | "face" | "top" | "bottom" | "shoe" | "hat" | "cape" | "glasses" | "gloves" | "trail", string>;
+  skinSubs: Record<"skin" | "face" | "hair" | "top" | "bottom" | "shoe" | "hat" | "cape" | "glasses" | "gloves" | "trail", string>;
   buttons: {
     select: string;
     free: string;
@@ -140,6 +141,7 @@ const SHOP_TRANSLATIONS: Record<Language, ShopTranslations> = {
     skinSubs: {
       skin: "Skin",
       face: "Face",
+      hair: "Hair",
       top: "Top",
       bottom: "Pants",
       shoe: "Shoes",
@@ -201,6 +203,7 @@ const SHOP_TRANSLATIONS: Record<Language, ShopTranslations> = {
     skinSubs: {
       skin: "Skin",
       face: "Fej",
+      hair: "Haj",
       top: "Felső",
       bottom: "Alsó",
       shoe: "Cipő",
@@ -262,6 +265,7 @@ const SHOP_TRANSLATIONS: Record<Language, ShopTranslations> = {
     skinSubs: {
       skin: "Skin",
       face: "Gesicht",
+      hair: "Haare",
       top: "Oberteil",
       bottom: "Unterhose",
       shoe: "Schuhe",
@@ -323,6 +327,7 @@ const SHOP_TRANSLATIONS: Record<Language, ShopTranslations> = {
     skinSubs: {
       skin: "Aspect",
       face: "Față",
+      hair: "Păr",
       top: "Tricou",
       bottom: "Pantaloni",
       shoe: "Pantofi",
@@ -480,6 +485,52 @@ function HatPreview({ type, color, emissive, size = 48 }: { type: string; color:
         <circle cx={cx + 4} cy={s * 0.38} r={2.5} fill={emissive} opacity={0.7} />
         <circle cx={cx - 3} cy={s * 0.48} r={1.5} fill={emissive} opacity={0.5} />
       </>)}
+      {type === "beanie" && (<>
+        <ellipse cx={cx} cy={s * 0.5} rx={14} ry={12} fill={color} />
+        <rect x={cx - 15} y={s * 0.57} width={30} height={5} rx={2.5} fill={color} opacity={0.6} />
+        <circle cx={cx} cy={s * 0.34} r={4} fill={emissive} opacity={0.6} />
+      </>)}
+      {type === "bucket" && (<>
+        <ellipse cx={cx} cy={s * 0.6} rx={18} ry={4} fill={color} opacity={0.8} />
+        <path d={`M${cx - 12},${s * 0.6} L${cx - 8},${s * 0.35} L${cx + 8},${s * 0.35} L${cx + 12},${s * 0.6}`} fill={color} />
+        <rect x={cx - 9} y={s * 0.32} width={18} height={5} rx={2.5} fill={color} opacity={0.85} />
+      </>)}
+      {type === "party" && (<>
+        <polygon points={`${cx},${s * 0.2} ${cx - 12},${s * 0.62} ${cx + 12},${s * 0.62}`} fill={color} />
+        <ellipse cx={cx} cy={s * 0.62} rx={12} ry={3} fill={color} opacity={0.7} />
+        {[{x:cx-5,y:s*0.35},{x:cx+4,y:s*0.43},{x:cx-2,y:s*0.52}].map((p,i) => (
+          <circle key={i} cx={p.x} cy={p.y} r={2} fill={emissive} opacity={0.8} />
+        ))}
+      </>)}
+      {type === "fedora" && (<>
+        <ellipse cx={cx} cy={s * 0.62} rx={18} ry={4} fill={color} />
+        <path d={`M${cx - 10},${s * 0.62} L${cx - 8},${s * 0.38} Q${cx},${s * 0.3} ${cx + 8},${s * 0.38} L${cx + 10},${s * 0.62}`} fill={color} />
+        <rect x={cx - 9} y={s * 0.45} width={18} height={3} rx={1.5} fill={emissive} opacity={0.35} />
+      </>)}
+      {type === "viking" && (<>
+        <ellipse cx={cx} cy={s * 0.48} rx={14} ry={11} fill={color} />
+        <path d={`M${cx - 14},${s * 0.52} Q${cx - 20},${s * 0.55} ${cx - 18},${s * 0.7} Q${cx - 14},${s * 0.62} ${cx - 10},${s * 0.58}`} fill="#F5F0E8" />
+        <path d={`M${cx + 14},${s * 0.52} Q${cx + 20},${s * 0.55} ${cx + 18},${s * 0.7} Q${cx + 14},${s * 0.62} ${cx + 10},${s * 0.58}`} fill="#F5F0E8" />
+        <rect x={cx - 4} y={s * 0.38} width={8} height={12} rx={1} fill={color} opacity={0.8} />
+      </>)}
+      {type === "ninja" && (<>
+        <ellipse cx={cx} cy={s * 0.46} rx={14} ry={11} fill={color} />
+        <rect x={cx - 14} y={s * 0.5} width={28} height={5} rx={1} fill={color} opacity={0.6} />
+        <circle cx={cx + 10} cy={s * 0.48} r={3} fill={emissive} opacity={0.5} />
+      </>)}
+      {type === "snapback" && (<>
+        <ellipse cx={cx} cy={s * 0.5} rx={14} ry={8} fill={color} />
+        <rect x={cx - 14} y={s * 0.56} width={28} height={3} rx={1.5} fill={color} opacity={0.6} />
+        <rect x={cx - 2} y={s * 0.3} width={18} height={4} rx={2} fill={color} opacity={0.75} />
+        <ellipse cx={cx} cy={s * 0.38} rx={12} ry={10} fill={color} />
+        <rect x={cx - 7} y={s * 0.42} width={14} height={2} rx={1} fill={emissive} opacity={0.4} />
+      </>)}
+      {type === "bandana" && (<>
+        <ellipse cx={cx} cy={s * 0.46} rx={14} ry={7} fill={color} />
+        <circle cx={cx + 12} cy={s * 0.44} r={4} fill={color} opacity={0.85} />
+        <ellipse cx={cx + 12} cy={s * 0.44} rx={5} ry={3} fill={emissive} opacity={0.3} />
+        <rect x={cx - 13} y={s * 0.45} width={26} height={3} rx={1.5} fill={emissive} opacity={0.2} />
+      </>)}
     </svg>
   );
 }
@@ -529,6 +580,66 @@ function TrailPreview({ type, color, emissive, size = 48 }: { type: string; colo
         <polyline points={`${cx + 4},${s * 0.25} ${cx - 2},${s * 0.5} ${cx + 3},${s * 0.55} ${cx - 5},${s * 0.75}`} fill="none" stroke={emissive} strokeWidth={1.5} strokeLinejoin="round" opacity={0.6} />
         <circle cx={cx + 6} cy={s * 0.7} r={2} fill={emissive} opacity={0.8} />
       </>)}
+      {type === "magic" && (<>
+        {[{x:cx,y:s*0.28,r:3},{x:cx-9,y:s*0.45,r:2},{x:cx+9,y:s*0.42,r:2.5},{x:cx-5,y:s*0.63,r:1.5},{x:cx+6,y:s*0.68,r:1.5}].map((p,i) => (
+          <circle key={i} cx={p.x} cy={p.y} r={p.r} fill={i%2===0?color:emissive} opacity={0.85-i*0.1} />
+        ))}
+        <path d={`M${cx},${s*0.28} Q${cx-9},${s*0.45} ${cx-5},${s*0.63}`} fill="none" stroke={color} strokeWidth={1} opacity={0.4} strokeDasharray="2 2" />
+      </>)}
+      {type === "poison" && (<>
+        <ellipse cx={cx} cy={s*0.5} rx={8} ry={11} fill={color} opacity={0.25} />
+        {[{x:cx-4,y:s*0.35},{x:cx+5,y:s*0.48},{x:cx-2,y:s*0.62},{x:cx+3,y:s*0.72}].map((p,i) => (
+          <circle key={i} cx={p.x} cy={p.y} r={3-i*0.4} fill={emissive} opacity={0.7} />
+        ))}
+      </>)}
+      {type === "gold" && (<>
+        {[{x:cx,y:s*0.3,r:4},{x:cx-7,y:s*0.48,r:3},{x:cx+7,y:s*0.48,r:3},{x:cx-3,y:s*0.65,r:2.5},{x:cx+3,y:s*0.7,r:2}].map((p,i) => (
+          <polygon key={i} points={starPoints(p.x,p.y,p.r)} fill={color} opacity={0.9-i*0.1} />
+        ))}
+        <circle cx={cx} cy={cx} r={s*0.3} fill="none" stroke={emissive} strokeWidth={1} opacity={0.25} />
+      </>)}
+      {type === "dark" && (<>
+        <ellipse cx={cx} cy={s*0.5} rx={10} ry={14} fill={color} opacity={0.4} />
+        {[{x:cx-5,y:s*0.32},{x:cx+6,y:s*0.44},{x:cx-3,y:s*0.58},{x:cx+4,y:s*0.7}].map((p,i) => (
+          <circle key={i} cx={p.x} cy={p.y} r={3-i*0.3} fill={emissive} opacity={0.6} />
+        ))}
+      </>)}
+      {type === "nature" && (<>
+        {[{x:cx-3,y:s*0.32},{x:cx+5,y:s*0.44},{x:cx-6,y:s*0.55},{x:cx+2,y:s*0.66}].map((p,i) => (
+          <ellipse key={i} cx={p.x} cy={p.y} rx={5-i*0.5} ry={3-i*0.3} fill={color} opacity={0.75} transform={`rotate(${30+i*20} ${p.x} ${p.y})`} />
+        ))}
+        <line x1={cx} y1={s*0.3} x2={cx} y2={s*0.72} stroke={emissive} strokeWidth={1.5} opacity={0.4} strokeDasharray="2 3" />
+      </>)}
+      {type === "love" && (<>
+        {[{x:cx,y:s*0.32},{x:cx-8,y:s*0.5},{x:cx+7,y:s*0.55},{x:cx-2,y:s*0.68}].map((p,i) => {
+          const r = 4-i*0.7;
+          return <path key={i} d={`M${p.x},${p.y+r} Q${p.x-r},${p.y} ${p.x},${p.y-r} Q${p.x+r},${p.y} ${p.x},${p.y+r}`} fill={color} opacity={0.75} />;
+        })}
+      </>)}
+      {type === "ghost" && (<>
+        <ellipse cx={cx} cy={s*0.45} rx={10} ry={12} fill={color} opacity={0.35} />
+        {[{x:cx-6,y:s*0.38},{x:cx+5,y:s*0.42},{x:cx-1,y:s*0.6}].map((p,i) => (
+          <circle key={i} cx={p.x} cy={p.y} r={3.5-i*0.5} fill={emissive} opacity={0.55} />
+        ))}
+      </>)}
+      {type === "lava" && (<>
+        <ellipse cx={cx} cy={s*0.65} rx={12} ry={5} fill={color} opacity={0.5} />
+        {[{x:cx-3,y:s*0.58},{x:cx+5,y:s*0.48},{x:cx-2,y:s*0.38}].map((p,i) => (
+          <ellipse key={i} cx={p.x} cy={p.y} rx={4-i} ry={6-i*1.5} fill={i===0?color:emissive} opacity={0.7} />
+        ))}
+      </>)}
+      {type === "neon" && (<>
+        {["#FF00AA","#FF00FF","#AA00FF"].map((c,i) => (
+          <ellipse key={i} cx={cx} cy={s*0.5} rx={7+i*3} ry={10+i*2} fill="none" stroke={c} strokeWidth={1.5} opacity={0.5-i*0.1} />
+        ))}
+        <circle cx={cx} cy={s*0.5} r={4} fill={emissive} opacity={0.9} />
+      </>)}
+      {type === "shadow" && (<>
+        <ellipse cx={cx} cy={s*0.5} rx={12} ry={15} fill={color} opacity={0.5} />
+        {[s*0.32,s*0.48,s*0.62].map((y,i) => (
+          <rect key={i} x={cx-8+i*2} y={y} width={16-i*2} height={2} rx={1} fill={emissive} opacity={0.5-i*0.1} />
+        ))}
+      </>)}
     </svg>
   );
 }
@@ -563,10 +674,12 @@ export default function ShopPage() {
   const [selectedCar, setSelectedCar] = useState<CarDef | null>(null);
   const [selectedSkin, setSelectedSkin] = useState<SkinDef | null>(null);
   // Clothing & Face state
-  type SkinSub = "skin" | "face" | "top" | "bottom" | "shoe" | "cape" | "glasses" | "gloves" | "hat" | "trail";
+  type SkinSub = "skin" | "face" | "hair" | "top" | "bottom" | "shoe" | "cape" | "glasses" | "gloves" | "hat" | "trail";
   const [skinSub, setSkinSub] = useState<SkinSub>("skin");
   const [ownedFaces, setOwnedFaces] = useState<string[]>(["default"]);
   const [activeFaceId, setActiveFaceId] = useState("default");
+  const [ownedHairIds, setOwnedHairIds] = useState<string[]>(["hair_chestnut"]);
+  const [activeHairId, setActiveHairId] = useState<string>("hair_chestnut");
   const [clothingOwned, setClothingOwned] = useState<Record<string, string[]>>({});
   const [clothingActive, setClothingActive] = useState<Record<string, string | null>>({});
 
@@ -574,6 +687,7 @@ export default function ShopPage() {
   const [avatarMood, setAvatarMood] = useState<'idle' | 'happy'>('idle');
 
   // Computed avatar props for preview
+  const previewHairDef = HAIR_STYLES.find(h => h.id === activeHairId) || null;
   const previewSkinDef = SKINS.find(s => s.id === activeSkin) || SKINS[0];
   const previewFaceDef = FACES.find(f => f.id === activeFaceId);
   const previewTopDef = clothingActive.top ? TOPS.find(t => t.id === clothingActive.top) || null : null;
@@ -610,6 +724,8 @@ export default function ShopPage() {
     setActiveCar(getActiveCarLS());
     setOwnedFaces(getOwnedFaces());
     setActiveFaceId(getActiveFace());
+    setOwnedHairIds(getOwnedHair());
+    setActiveHairId(getActiveHair());
     refreshClothing();
     setShopGender(getGender());
     const saved = localStorage.getItem("plizio_powerups");
@@ -775,6 +891,27 @@ export default function ShopPage() {
     triggerAvatarReaction();
   };
 
+  // ─── Hair handler ─────────────────
+  const handleHairAction = (hair: HairDef) => {
+    if (ownedHairIds.includes(hair.id)) {
+      setActiveHair(hair.id);
+      setActiveHairId(hair.id);
+      showNotif(lang === "hu" ? "Frizura aktiválva!" : lang === "de" ? "Frisur aktiviert!" : lang === "ro" ? "Coafură activată!" : "Hairstyle equipped!");
+      triggerAvatarReaction();
+      return;
+    }
+    if (balance < hair.price) { showNotif(t.notifications.notEnough); return; }
+    spendSpecialCards(hair.price);
+    buyHairStyle(hair.id);
+    setOwnedHairIds(getOwnedHair());
+    setActiveHair(hair.id);
+    setActiveHairId(hair.id);
+    setBalance(getSpecialCardCount());
+    syncAfterPurchase();
+    showNotif(lang === "hu" ? "Frizura megvásárolva!" : lang === "de" ? "Frisur gekauft!" : lang === "ro" ? "Coafură cumpărată!" : "Hairstyle purchased!");
+    triggerAvatarReaction();
+  };
+
   // ─── Gender toggle ─────────────────
   const handleGenderToggle = (g: AvatarGender) => {
     setGender(g);
@@ -823,6 +960,7 @@ export default function ShopPage() {
   const SKIN_SUBS: { id: SkinSub; label: string; icon: string }[] = [
     { id: "skin", label: t.skinSubs.skin, icon: "🎨" },
     { id: "face", label: t.skinSubs.face, icon: "😊" },
+    { id: "hair", label: t.skinSubs.hair, icon: "💇" },
     { id: "top", label: t.skinSubs.top, icon: "👕" },
     { id: "bottom", label: t.skinSubs.bottom, icon: "👖" },
     { id: "shoe", label: t.skinSubs.shoe, icon: "👟" },
@@ -1083,6 +1221,7 @@ export default function ShopPage() {
                 activeGloves={previewGlovesDef}
                 activeHat={previewHatDef}
                 activeTrail={previewTrailDef}
+                activeHair={previewHairDef}
               />
             </div>
             {/* Info + gender switch */}
@@ -1162,6 +1301,47 @@ export default function ShopPage() {
                 </motion.button>
               );
             })}
+          </motion.div>
+        )}
+
+        {/* ── Hair sub ── */}
+        {skinSub === "hair" && (
+          <motion.div className="w-full max-w-md" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
+            <div className="grid grid-cols-4 gap-2">
+              {HAIR_STYLES.map((hair, idx) => {
+                const owned = ownedHairIds.includes(hair.id);
+                const active = activeHairId === hair.id;
+                const isRainbow = hair.id === "hair_rainbow";
+                return (
+                  <motion.button key={hair.id} onClick={() => handleHairAction(hair)}
+                    className={`flex flex-col items-center gap-1.5 p-2 rounded-2xl border transition-all ${active ? "border-[#E040FB]/50 bg-[#E040FB]/10" : owned ? "border-white/15 bg-white/3" : "border-white/5 bg-transparent"}`}
+                    whileTap={{ scale: 0.93 }} initial={{ opacity: 0, scale: 0.85 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: idx * 0.015 }}>
+                    {/* Color swatch */}
+                    <div className="relative w-9 h-9 rounded-full overflow-hidden border-2 flex items-center justify-center shrink-0"
+                      style={{
+                        background: isRainbow
+                          ? "conic-gradient(#FF0000, #FF8800, #FFFF00, #00FF00, #0088FF, #8800FF, #FF0000)"
+                          : hair.color,
+                        borderColor: active ? "#E040FB" : owned ? hair.color + "60" : "rgba(255,255,255,0.1)",
+                        boxShadow: active ? `0 0 10px ${hair.color}50` : undefined,
+                      }}>
+                      {hair.highlight && !isRainbow && (
+                        <div className="absolute top-0 left-0 right-0 h-1/2 rounded-t-full opacity-40"
+                          style={{ background: `linear-gradient(180deg, ${hair.highlight}, transparent)` }} />
+                      )}
+                      {active && <div className="absolute inset-0 flex items-center justify-center"><Check size={14} className="text-white drop-shadow-md" /></div>}
+                    </div>
+                    <span className="text-[8px] font-bold text-white/50 leading-tight text-center">{hair.name.split(" ").slice(-1)[0]}</span>
+                    {!owned && hair.price > 0 && (
+                      <span className="text-[7px] font-black text-[#E040FB] flex items-center gap-0.5">
+                        <Star size={6} fill="#E040FB" />{hair.price}
+                      </span>
+                    )}
+                    {owned && !active && <span className="text-[7px] text-white/20 font-bold">EQUIP</span>}
+                  </motion.button>
+                );
+              })}
+            </div>
           </motion.div>
         )}
 
