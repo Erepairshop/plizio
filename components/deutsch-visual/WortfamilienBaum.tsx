@@ -35,12 +35,12 @@ export default function WortfamilienBaum({ stamm, options, correctSet, userAnswe
     <div>
       {/* Header line: Wortstamm label */}
       <div style={{ height: 28, lineHeight: "28px" }} className="flex items-center gap-2 px-1">
-        <span className="text-slate-300 text-xs w-5 text-right shrink-0">→</span>
-        <span className="text-xs text-slate-400">Wortstamm:</span>
+        <span className="text-slate-500 text-xs w-5 text-right shrink-0">→</span>
+        <span className="text-xs text-slate-600 font-semibold">Wortstamm:</span>
         <span className="px-2 rounded border border-indigo-300 bg-indigo-50 text-indigo-700 font-black text-xs" style={{ height: 22, lineHeight: "22px" }}>
           -{stamm}-
         </span>
-        <span className="text-xs text-slate-300 italic">Tippe alle passenden Wörter</span>
+        <span className="text-xs text-slate-500 font-medium">· alle passenden Wörter tippen</span>
       </div>
 
       {/* Word chips — multi-select */}

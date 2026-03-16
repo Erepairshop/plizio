@@ -50,9 +50,11 @@ export default function SatzOrdnen({ shuffled, answer, userAnswer, submitted, on
     <div>
       {/* Row 1: pool of word chips (tap to add) */}
       <div style={{ minHeight: 28, lineHeight: "28px" }} className="flex items-center gap-1 flex-wrap px-1 py-0.5">
-        <span className="text-slate-300 text-xs w-5 text-right shrink-0">↓</span>
-        {pool.length === 0 && built.length > 0 && (
-          <span className="text-slate-300 text-xs italic">alle Wörter gesetzt</span>
+        <span className="text-slate-500 text-xs w-5 text-right shrink-0">↓</span>
+        {pool.length === 0 && built.length > 0 ? (
+          <span className="text-slate-500 text-xs font-medium">alle Wörter gesetzt ✓</span>
+        ) : (
+          <span className="text-slate-600 text-xs font-semibold">Wörter in die richtige Reihenfolge tippen:</span>
         )}
         {pool.map((w, i) => (
           <button
@@ -69,9 +71,9 @@ export default function SatzOrdnen({ shuffled, answer, userAnswer, submitted, on
 
       {/* Row 2: built sentence (tap a chip to return it) */}
       <div style={{ minHeight: 28, lineHeight: "28px" }} className="flex items-center gap-1 flex-wrap px-1 py-0.5 border-b border-dashed border-slate-200">
-        <span className="text-slate-300 text-xs w-5 text-right shrink-0">→</span>
+        <span className="text-slate-500 text-xs w-5 text-right shrink-0">→</span>
         {built.length === 0 && (
-          <span className="text-slate-300 text-xs italic">Tippe auf die Wörter…</span>
+          <span className="text-slate-400 text-xs italic">Satz erscheint hier…</span>
         )}
         {built.map((w, i) => {
           let cls = "px-2 rounded border font-semibold text-xs transition-all select-none ";
