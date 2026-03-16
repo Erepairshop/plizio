@@ -22,6 +22,10 @@ import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
 import { submitScore, abandonMatch, submitMixRoundScore, pollMixRound } from "@/lib/multiplayer";
 import { getUsername } from "@/lib/username";
 import MultiplayerResult from "@/components/MultiplayerResult";
+import { seededRandom } from "@/lib/seededRandom";
+import { supabase } from "@/lib/supabase/client";
+import type { RealtimeChannel } from "@supabase/supabase-js";
+import MultiplayerOpponentPanel from "@/components/MultiplayerOpponentPanel";
 
 // ─── i18n ─────────────────────────────────────────────────────────────────────
 const T = {
@@ -146,10 +150,10 @@ const T = {
 // ─── Sudoku Logic ──────────────────────────────────────────────────────────────
 // Supports 4x4 (boxes: 2x2) and 6x6 (boxes: 2x3)
 
-function shuffle<T>(arr: T[]): T[] {
+function shuffle<T>(arr: T[], rng: () => number = Math.random): T[] {
   const a = [...arr];
   for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
+    const j = Math.floor(rng() * (i + 1));
     [a[i], a[j]] = [a[j], a[i]];
   }
   return a;
@@ -181,29 +185,29 @@ function isValid(grid: number[], size: number, pos: number, num: number): boolea
   return true;
 }
 
-function solveSudoku(grid: number[], size: number): boolean {
+function solveSudoku(grid: number[], size: number, rng?: () => number): boolean {
   const empty = grid.indexOf(0);
   if (empty === -1) return true;
-  const nums = shuffle(Array.from({ length: size }, (_, i) => i + 1));
+  const nums = shuffle(Array.from({ length: size }, (_, i) => i + 1), rng);
   for (const num of nums) {
     if (isValid(grid, size, empty, num)) {
       grid[empty] = num;
-      if (solveSudoku(grid, size)) return true;
+      if (solveSudoku(grid, size, rng)) return true;
       grid[empty] = 0;
     }
   }
   return false;
 }
 
-function generateSolution(size: number): number[] {
+function generateSolution(size: number, rng?: () => number): number[] {
   const grid = new Array(size * size).fill(0);
-  solveSudoku(grid, size);
+  solveSudoku(grid, size, rng);
   return grid;
 }
 
-function createPuzzle(solution: number[], size: number, clues: number): number[] {
+function createPuzzle(solution: number[], size: number, clues: number, rng?: () => number): number[] {
   const puzzle = [...solution];
-  const positions = shuffle(Array.from({ length: size * size }, (_, i) => i));
+  const positions = shuffle(Array.from({ length: size * size }, (_, i) => i), rng);
   let removed = 0;
   for (const pos of positions) {
     if (removed >= size * size - clues) break;
@@ -362,6 +366,10 @@ function MiniSudokuPage() {
   const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
   const [mixFinished, setMixFinished] = useState(false);
   const [scoreSubmitted, setScoreSubmitted] = useState(false);
+  const [oppScore, setOppScore] = useState(0);
+  const [oppMood, setOppMood] = useState<"idle" | "focused" | "happy" | "surprised" | "victory" | "disappointed">("focused");
+  const broadcastChannelRef = useRef<RealtimeChannel | null>(null);
+  const broadcastIntervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
   // ── Multiplayer: poll for opponent ──────────────────────────────────────────
   useEffect(() => {
@@ -404,6 +412,45 @@ function MiniSudokuPage() {
     }, 2000);
     return () => clearInterval(interval);
   }, [screen, isMultiplayer, matchId, isMix, playerNum, router, opponentName, mixround]);
+
+  // ── Multiplayer: live broadcast channel ──────────────────────────────────────
+  useEffect(() => {
+    if (!isMultiplayer || !matchId) return;
+    const channel = supabase.channel(`minisudoku-${matchId}`, {
+      config: { broadcast: { self: false } },
+    });
+    channel.on("broadcast", { event: "scoreUpdate" }, (payload) => {
+      if (payload.payload.p !== playerNum) {
+        setOppScore(payload.payload.score);
+        setOppMood("happy");
+        setTimeout(() => setOppMood("focused"), 600);
+      }
+    });
+    channel.subscribe();
+    broadcastChannelRef.current = channel;
+    return () => { channel.unsubscribe(); broadcastChannelRef.current = null; };
+  }, [isMultiplayer, matchId, playerNum]);
+
+  useEffect(() => {
+    if (!isMultiplayer || screen !== "playing" || !broadcastChannelRef.current) return;
+    const computeFilled = () => {
+      const ug = userGridRef.current;
+      const sol = solutionRef.current;
+      let count = 0;
+      for (let i = 0; i < ug.length; i++) {
+        if (ug[i] !== 0 && ug[i] === sol[i] && puzzle[i] === 0) count++;
+      }
+      return count;
+    };
+    broadcastIntervalRef.current = setInterval(() => {
+      broadcastChannelRef.current?.send({
+        type: "broadcast",
+        event: "scoreUpdate",
+        payload: { p: playerNum, score: computeFilled() },
+      });
+    }, 1000);
+    return () => { if (broadcastIntervalRef.current) clearInterval(broadcastIntervalRef.current); };
+  }, [isMultiplayer, screen, playerNum, puzzle]);
 
   const cfgRef         = useRef<SudokuLevel>(LEVELS[0]);
   const timerRef       = useRef<ReturnType<typeof setInterval> | null>(null);
@@ -490,8 +537,9 @@ function MiniSudokuPage() {
     cfgRef.current = cfg;
     setActiveLevel(levelNum);
 
-    const sol = generateSolution(cfg.size);
-    const puz = createPuzzle(sol, cfg.size, cfg.clues);
+    const rng = seed ? seededRandom(`${seed}-${levelNum}`) : undefined;
+    const sol = generateSolution(cfg.size, rng);
+    const puz = createPuzzle(sol, cfg.size, cfg.clues, rng);
     solutionRef.current = sol;
     userGridRef.current = [...puz];
 
@@ -1055,6 +1103,17 @@ function MiniSudokuPage() {
             </motion.div>
           )}
         </AnimatePresence>
+
+        {/* Multiplayer opponent panel */}
+        {isMultiplayer && (
+          <MultiplayerOpponentPanel
+            opponentName={opponentName}
+            opponentScore={oppScore}
+            opponentMood={oppMood}
+            totalRounds={puzzle.filter(v => v === 0).length}
+            isVisible={screen === "playing"}
+          />
+        )}
 
         {/* Multiplayer overlays */}
         {isMultiplayer && matchId && (

@@ -284,9 +284,9 @@ const ALL_WORDS: Record<WHLang, Record<number, string[]>> = {
 };
 
 // Returns `count` random words for the given tier (1-5) and language
-export function getWordsForLevel(lang: WHLang, tier: number, count: number): string[] {
+export function getWordsForLevel(lang: WHLang, tier: number, count: number, rng: () => number = Math.random): string[] {
   const pool = ALL_WORDS[lang]?.[tier] ?? ALL_WORDS.en[tier];
-  const shuffled = [...pool].sort(() => Math.random() - 0.5);
+  const shuffled = [...pool].sort(() => rng() - 0.5);
   return shuffled.slice(0, Math.min(count, shuffled.length));
 }
 

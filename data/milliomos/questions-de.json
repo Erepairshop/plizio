@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "Welche Farbe hat der Himmel an einem klaren Tag?",
+    "answers": [
+      "Blue",
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Wie viele Beine hat eine Spinne?",
+    "answers": [
+      "6",
+      "8",
+      "10",
+      "4"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Welcher Planet ist als der Rote Planet bekannt?",
+    "answers": [
+      "Venus",
+      "Jupiter",
+      "Mars",
+      "Saturn"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Was ist die Hauptstadt von Frankreich?",
+    "answers": [
+      "London",
+      "Berlin",
+      "Madrid",
+      "Paris"
+    ],
+    "correct": 3,
+    "difficulty": 1
+  },
+  {
+    "question": "Wie viele Kontinente gibt es?",
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Welches Tier ist das größte der Welt?",
+    "answers": [
+      "Elephant",
+      "Giraffe",
+      "Horse",
+      "Camel"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Wofür steht H2O allgemein bekannt?",
+    "answers": [
+      "Salt",
+      "Sugar",
+      "Water",
+      "Oil"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Welche Frucht ist dafür bekannt, Ärzte fernzuhalten?",
+    "answers": [
+      "Banana",
+      "Orange",
+      "Grape",
+      "Apple"
+    ],
+    "correct": 3,
+    "difficulty": 1
+  },
+  {
+    "question": "Welches ist das größte Tier auf der Erde?",
+    "answers": [
+      "Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Shark"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Wie viele Tage hat eine Woche?",
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Was produzieren Bienen?",
+    "answers": [
+      "Milk",
+      "Honey",
+      "Sugar",
+      "Wax"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Welche Form hat drei Seiten?",
+    "answers": [
+      "Square",
+      "Circle",
+      "Triangle",
+      "Pentagon"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Was ist die gefrorene Form von Wasser?",
+    "answers": [
+      "Steam",
+      "Fog",
+      "Ice",
+      "Rain"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Welches Organ pumpt Blut im Körper?",
+    "answers": [
+      "Brain",
+      "Lungs",
+      "Heart",
+      "Liver"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Wie viele Monate hat ein Jahr?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Was ist das Gegenteil von heiß?",
+    "answers": [
+      "Warm",
+      "Cool",
+      "Cold",
+      "Mild"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Welches Tier macht 'muuh'?",
+    "answers": [
+      "Pig",
+      "Cow",
+      "Sheep",
+      "Dog"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Welche Farbe erhält man durch Mischen von Rot und Weiß?",
+    "answers": [
+      "Orange",
+      "Purple",
+      "Pink",
+      "Brown"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Was ist der nächste Stern zur Erde?",
+    "answers": [
+      "Moon",
+      "Sun",
+      "Mars",
+      "Polaris"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Wie viele Buchstaben hat das englische Alphabet?",
+    "answers": [
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Was ist der größte Ozean auf der Erde?",
+    "answers": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Wer hat die Mona Lisa gemalt?",
+    "answers": [
+      "Picasso",
+      "Da Vinci",
+      "Van Gogh",
+      "Michelangelo"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Was ist die härteste natürliche Substanz?",
+    "answers": [
+      "Gold",
+      "Iron",
+      "Diamond",
+      "Platinum"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Welches Land hat die meisten Menschen?",
+    "answers": [
+      "USA",
+      "India",
+      "Russia",
+      "Brazil"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Welches Gas absorbieren Pflanzen aus der Atmosphäre?",
+    "answers": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Wie viele Knochen hat ein erwachsener menschlicher Körper?",
+    "answers": [
+      "186",
+      "206",
+      "226",
+      "256"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "In welchem Jahr sank die Titanic?",
+    "answers": [
+      "1905",
+      "1912",
+      "1920",
+      "1898"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Welches Element hat das chemische Symbol 'Au'?",
+    "answers": [
+      "Silver",
+      "Gold",
+      "Aluminum",
+      "Argon"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Was ist der größte Kontinent?",
+    "answers": [
+      "Africa",
+      "Europe",
+      "Asia",
+      "North America"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Wie viele Spieler sind auf einem Fußballteam?",
+    "answers": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Was ist der Siedepunkt von Wasser in Celsius?",
+    "answers": [
+      "90°C",
+      "100°C",
+      "110°C",
+      "120°C"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Welches Land ist für die Pyramiden berühmt?",
+    "answers": [
+      "Greece",
+      "Egypt",
+      "Mexico",
+      "India"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Was ist die Hauptsprache, die in Brasilien gesprochen wird?",
+    "answers": [
+      "Spanish",
+      "Portuguese",
+      "French",
+      "English"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Wer hat das Telefon erfunden?",
+    "answers": [
+      "Edison",
+      "Bell",
+      "Tesla",
+      "Morse"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Welches Gas macht den größten Teil der Erdatmosphäre aus?",
+    "answers": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Helium"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Was ist die Hauptstadt von Japan?",
+    "answers": [
+      "Beijing",
+      "Seoul",
+      "Tokyo",
+      "Osaka"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Wie viele Zähne hat ein erwachsener Mensch normalerweise?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Was ist die Währung des Vereinigten Königreichs?",
+    "answers": [
+      "Euro",
+      "Dollar",
+      "Pound",
+      "Franc"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Welcher Planet ist der Sonne am nächsten?",
+    "answers": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Earth"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Was ist die größte Wüste der Welt?",
+    "answers": [
+      "Sahara",
+      "Gobi",
+      "Antarctic",
+      "Arabian"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Wie schnell ist das Licht ungefähr?",
+    "answers": [
+      "300,000 km/s",
+      "150,000 km/s",
+      "500,000 km/s",
+      "100,000 km/s"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Welcher Planet hat die meisten Monde?",
+    "answers": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Was ist das kleinste Land der Welt?",
+    "answers": [
+      "Monaco",
+      "Vatican City",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Wer schrieb 'Romeo und Julia'?",
+    "answers": [
+      "Dickens",
+      "Shakespeare",
+      "Hemingway",
+      "Twain"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Was ist der längste Fluss der Welt?",
+    "answers": [
+      "Amazon",
+      "Nile",
+      "Mississippi",
+      "Yangtze"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "In welchem Jahr endete der Zweite Weltkrieg?",
+    "answers": [
+      "1943",
+      "1944",
+      "1945",
+      "1946"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Was ist die chemische Formel für Tafelsalz?",
+    "answers": [
+      "NaOH",
+      "NaCl",
+      "KCl",
+      "CaCl2"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Welches Organ produziert Insulin im menschlichen Körper?",
+    "answers": [
+      "Liver",
+      "Kidney",
+      "Pancreas",
+      "Stomach"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Was ist der höchste Berg der Welt?",
+    "answers": [
+      "K2",
+      "Kangchenjunga",
+      "Mount Everest",
+      "Lhotse"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Wer war die erste Person, die auf dem Mond lief?",
+    "answers": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "John Glenn"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Was ist das größte Organ im menschlichen Körper?",
+    "answers": [
+      "Liver",
+      "Brain",
+      "Skin",
+      "Heart"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Welches Metall ist bei Raumtemperatur flüssig?",
+    "answers": [
+      "Lead",
+      "Tin",
+      "Mercury",
+      "Zinc"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Wie viele Chromosomen haben Menschen?",
+    "answers": [
+      "23",
+      "44",
+      "46",
+      "48"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Was ist die Währung von Japan?",
+    "answers": [
+      "Won",
+      "Yuan",
+      "Yen",
+      "Ringgit"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Welches Vitamin hilft die Sonne zu produzieren?",
+    "answers": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct": 3,
+    "difficulty": 3
+  },
+  {
+    "question": "Was ist die am häufigsten gesprochene Sprache der Welt?",
+    "answers": [
+      "English",
+      "Spanish",
+      "Mandarin",
+      "Hindi"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Was ist der pH-Wert von reinem Wasser?",
+    "answers": [
+      "5",
+      "7",
+      "9",
+      "10"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "In welcher Stadt befindet sich das Kolosseum?",
+    "answers": [
+      "Athens",
+      "Rome",
+      "Istanbul",
+      "Madrid"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Wie viele Herzen hat ein Oktopus?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Was ist der heißeste Planet in unserem Sonnensystem?",
+    "answers": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Was ist die Quadratwurzel von 144?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "14"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Welche Sprache hat die meisten Muttersprachler?",
+    "answers": [
+      "English",
+      "Spanish",
+      "Mandarin",
+      "Hindi"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Was ist das Kraftwerk der Zelle?",
+    "answers": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Golgi Body"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Wer entdeckte Penicillin?",
+    "answers": [
+      "Pasteur",
+      "Fleming",
+      "Curie",
+      "Jenner"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Was ist die Hauptstadt von Australien?",
+    "answers": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Brisbane"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Welcher Planet dreht sich auf seiner Seite?",
+    "answers": [
+      "Venus",
+      "Neptune",
+      "Uranus",
+      "Mercury"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Was ist der Hauptbestandteil von Glas?",
+    "answers": [
+      "Calcium",
+      "Sand (Silica)",
+      "Clay",
+      "Limestone"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "In welchem Jahr wurde das erste iPhone veröffentlicht?",
+    "answers": [
+      "2005",
+      "2006",
+      "2007",
+      "2008"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Was ist die Ordnungszahl von Kohlenstoff?",
+    "answers": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Wer malte 'Sternennacht'?",
+    "answers": [
+      "Monet",
+      "Picasso",
+      "Van Gogh",
+      "Dali"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Was ist der einzige Kontinent ohne aktive Vulkane?",
+    "answers": [
+      "Europe",
+      "Australia",
+      "Antarctica",
+      "Africa"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Wie viele Symphonien komponierte Beethoven?",
+    "answers": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Welches Land erfand das Papier?",
+    "answers": [
+      "Japan",
+      "India",
+      "China",
+      "Egypt"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Wofür steht DNA?",
+    "answers": [
+      "Deoxyribose Nucleic Acid",
+      "Deoxyribonucleic Acid",
+      "Dynamic Nuclear Acid",
+      "Digital Nucleic Array"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Welcher Bluttyp ist der universelle Spender?",
+    "answers": [
+      "A+",
+      "B+",
+      "AB+",
+      "O-"
+    ],
+    "correct": 3,
+    "difficulty": 4
+  },
+  {
+    "question": "In welchem Jahr fiel die Berliner Mauer?",
+    "answers": [
+      "1987",
+      "1988",
+      "1989",
+      "1990"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Was ist der größte Knochen im menschlichen Körper?",
+    "answers": [
+      "Tibia",
+      "Femur",
+      "Humerus",
+      "Pelvis"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Welches Element hat den höchsten Schmelzpunkt?",
+    "answers": [
+      "Iron",
+      "Tungsten",
+      "Titanium",
+      "Platinum"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Was ist das zweithäufigste Element in der Erdatmosphäre?",
+    "answers": [
+      "Carbon Dioxide",
+      "Oxygen",
+      "Argon",
+      "Water Vapor"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Wer schrieb '1984'?",
+    "answers": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "H.G. Wells"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Was ist die 7. Zahl der Fibonacci-Sequenz?",
+    "answers": [
+      "8",
+      "13",
+      "21",
+      "34"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Welches Land schenkte die Freiheitsstatue den USA?",
+    "answers": [
+      "England",
+      "Spain",
+      "France",
+      "Italy"
+    ],
+    "correct": 2,
+    "difficulty": 5
+  },
+  {
+    "question": "Was ist die seltenste Blutgruppe?",
+    "answers": [
+      "O-",
+      "A-",
+      "B-",
+      "AB-"
+    ],
+    "correct": 3,
+    "difficulty": 5
+  },
+  {
+    "question": "Wer entwickelte die Relativitätstheorie?",
+    "answers": [
+      "Newton",
+      "Einstein",
+      "Hawking",
+      "Bohr"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Was ist der tiefste Punkt im Ozean?",
+    "answers": [
+      "Tonga Trench",
+      "Puerto Rico Trench",
+      "Mariana Trench",
+      "Java Trench"
+    ],
+    "correct": 2,
+    "difficulty": 5
+  },
+  {
+    "question": "Welches Element ist am häufigsten in der Erdkruste?",
+    "answers": [
+      "Silicon",
+      "Oxygen",
+      "Iron",
+      "Aluminum"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Wie viele Bits sind in einem Byte?",
+    "answers": [
+      "4",
+      "8",
+      "16",
+      "32"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Was ist das einzige Säugetier, das wirklich fliegen kann?",
+    "answers": [
+      "Flying Squirrel",
+      "Sugar Glider",
+      "Bat",
+      "Colugo"
+    ],
+    "correct": 2,
+    "difficulty": 5
+  },
+  {
+    "question": "Was ist die Halbwertszeit von Kohlenstoff-14?",
+    "answers": [
+      "2,730 years",
+      "5,730 years",
+      "8,730 years",
+      "11,730 years"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Wer schrieb 'Die Kunst des Krieges'?",
+    "answers": [
+      "Confucius",
+      "Sun Tzu",
+      "Lao Tzu",
+      "Genghis Khan"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Was ist die kleinste Primzahl?",
+    "answers": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 2,
+    "difficulty": 5
+  },
+  {
+    "question": "Welches Land hat die längste Küstenlinie?",
+    "answers": [
+      "Russia",
+      "Australia",
+      "Canada",
+      "Indonesia"
+    ],
+    "correct": 2,
+    "difficulty": 5
+  },
+  {
+    "question": "Was ist das chemische Symbol für Wolfram?",
+    "answers": [
+      "Tu",
+      "Tn",
+      "W",
+      "Wg"
+    ],
+    "correct": 2,
+    "difficulty": 5
+  },
+  {
+    "question": "In welchem Jahr wurde das World Wide Web erfunden?",
+    "answers": [
+      "1985",
+      "1989",
+      "1993",
+      "1995"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Was ist die Planck-Konstante ungefähr?",
+    "answers": [
+      "6.626 × 10⁻³⁴ J·s",
+      "3.14 × 10⁻³⁴ J·s",
+      "9.81 × 10⁻³⁴ J·s",
+      "1.602 × 10⁻³⁴ J·s"
+    ],
+    "correct": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "Welcher Algorithmus wird für Kryptographie mit öffentlichem Schlüssel verwendet?",
+    "answers": [
+      "AES",
+      "RSA",
+      "SHA-256",
+      "MD5"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Was ist das leichteste Element auf dem Periodensystem?",
+    "answers": [
+      "Helium",
+      "Hydrogen",
+      "Lithium",
+      "Carbon"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Welches antike Wunder war in Alexandria?",
+    "answers": [
+      "Colossus",
+      "Lighthouse",
+      "Hanging Gardens",
+      "Mausoleum"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Was ist der absolute Nullpunkt in Celsius?",
+    "answers": [
+      "-173.15°C",
+      "-273.15°C",
+      "-373.15°C",
+      "-473.15°C"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Wer schlug das heliozentrische Modell des Sonnensystems vor?",
+    "answers": [
+      "Galileo",
+      "Copernicus",
+      "Kepler",
+      "Ptolemy"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  }
+]

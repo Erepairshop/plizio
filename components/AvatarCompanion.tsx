@@ -2,13 +2,14 @@
 
 import { useRef, useEffect, useState } from 'react';
 import { Canvas, useFrame } from '@react-three/fiber';
+import { OrbitControls } from '@react-three/drei';
 import * as THREE from 'three';
 import type { SkinDef } from '@/lib/skins';
 import type { FaceDef } from '@/lib/faces';
 import type { TopDef, BottomDef, ShoeDef, CapeDef, GlassesDef, GloveDef } from '@/lib/clothing';
 import type { HatDef, TrailDef } from '@/lib/accessories';
 import type { HairDef } from '@/lib/hair';
-import type { AvatarGender } from '@/lib/gender';
+import { type AvatarGender, getAvatarScale } from '@/lib/gender';
 import { AVATAR_DEFAULTS } from '@/lib/avatarDefaults';
 
 export interface AvatarCompanionProps {
@@ -37,6 +38,8 @@ export interface AvatarCompanionProps {
   activeHair?: HairDef | null;
   // When true, the avatar canvas passes clicks through to underlying elements
   passThrough?: boolean;
+  // When true, enables touch/mouse orbit controls for 360° rotation
+  orbitControls?: boolean;
 }
 
 function nextBlink() {
@@ -108,6 +111,37 @@ function HatMesh({ hat, skinColor }: { hat: HatDef; skinColor: string }) {
           <coneGeometry args={[0.045, 0.16, 6]} />
           <meshStandardMaterial color={col} emissive={em} emissiveIntensity={ei} roughness={0.4} />
         </mesh>
+      </group>
+    );
+  }
+  if (hat.type === 'bunnyears') {
+    const innerCol = new THREE.Color(col).lerp(new THREE.Color('#FF8CAD'), 0.6).getStyle();
+    return (
+      <group position={[0, 0.22, 0]}>
+        {/* Left ear */}
+        <group position={[-0.09, 0.06, 0]} rotation={[0.15, 0, -0.2]}>
+          {/* Outer ear */}
+          <mesh scale={[1, 1, 0.4]}>
+            <capsuleGeometry args={[0.04, 0.22, 4, 8]} />
+            <meshStandardMaterial color={col} emissive={em} emissiveIntensity={ei} roughness={0.5} />
+          </mesh>
+          {/* Inner ear (pink) */}
+          <mesh position={[0, 0, 0.008]} scale={[0.6, 0.8, 0.3]}>
+            <capsuleGeometry args={[0.035, 0.18, 4, 8]} />
+            <meshStandardMaterial color={innerCol} roughness={0.4} />
+          </mesh>
+        </group>
+        {/* Right ear */}
+        <group position={[0.09, 0.06, 0]} rotation={[0.15, 0, 0.2]}>
+          <mesh scale={[1, 1, 0.4]}>
+            <capsuleGeometry args={[0.04, 0.22, 4, 8]} />
+            <meshStandardMaterial color={col} emissive={em} emissiveIntensity={ei} roughness={0.5} />
+          </mesh>
+          <mesh position={[0, 0, 0.008]} scale={[0.6, 0.8, 0.3]}>
+            <capsuleGeometry args={[0.035, 0.18, 4, 8]} />
+            <meshStandardMaterial color={innerCol} roughness={0.4} />
+          </mesh>
+        </group>
       </group>
     );
   }
@@ -426,50 +460,52 @@ function CapeMesh({ cape, t }: { cape: CapeDef; t: number }) {
   const wave2 = Math.sin(t * 1.1 + 0.6) * 0.012;
   const flutter = Math.sin(t * 2.1) * 0.025;
 
-  // Rainbow cape: cycle through hue based on time
   const isRainbow = cape.id === 'cape_rainbow';
   const capeColor = isRainbow ? hueToColor((t * 45) % 360) : cape.color;
   const capeEmissive = isRainbow ? hueToColor(((t * 45) + 120) % 360) : cape.emissive;
   const capeEI = isRainbow ? 0.7 : cape.emissiveIntensity;
 
-  // All cape pieces are BEHIND the avatar body — z must be ≤ -0.16 to clear body depth
-  // Body half-depth ≈ 0.14, so z=-0.16 is safe clearance
+  const mat = (col: string, ei: number) => (
+    <meshStandardMaterial color={col} emissive={capeEmissive} emissiveIntensity={ei} roughness={0.65} side={THREE.DoubleSide} />
+  );
+
+  // Cape drapes from shoulders as a single curved surface (half-cylinder shell)
   return (
     <group>
-      {/* ── Clasp / brooch — sits on neck at BACK, not front ─── */}
+      {/* Clasp brooch at nape */}
       <mesh position={[0, 0.34, -0.17]}>
         <sphereGeometry args={[0.028, 8, 6]} />
         <meshStandardMaterial color={capeEmissive} emissive={capeEmissive} emissiveIntensity={1.0} metalness={0.7} roughness={0.2} />
       </mesh>
 
-      {/* ── Shoulder yoke — safely behind the body ─── */}
-      <mesh position={[0, 0.27, -0.18]} rotation={[0.05, 0, 0]}>
-        <boxGeometry args={[0.52, 0.08, 0.030]} />
-        <meshStandardMaterial color={capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.65} roughness={0.52} side={THREE.DoubleSide} />
+      {/* Shoulder drape — half-cylinder wrapping around back */}
+      <mesh position={[0, 0.24, -0.04]} rotation={[0, 0, 0]}>
+        <cylinderGeometry args={[0.26, 0.24, 0.06, 12, 1, true, Math.PI * 0.65, Math.PI * 0.7]} />
+        {mat(capeColor, capeEI * 0.6)}
       </mesh>
 
-      {/* ── Upper body — hangs from shoulders ─── */}
-      <mesh position={[0, 0.10 + wave1 * 0.3, -0.20 + wave2 * 0.3]} rotation={[-0.04 + flutter * 0.2, 0, 0]}>
-        <boxGeometry args={[0.50, 0.30, 0.018]} />
-        <meshStandardMaterial color={isRainbow ? hueToColor(((t * 45) + 60) % 360) : capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.28} roughness={0.62} side={THREE.DoubleSide} />
+      {/* Upper back panel — curved cylinder shell */}
+      <mesh position={[0, 0.06 + wave1 * 0.3, -0.04 + wave2 * 0.2]} rotation={[flutter * 0.15, 0, 0]}>
+        <cylinderGeometry args={[0.24, 0.22, 0.32, 10, 2, true, Math.PI * 0.7, Math.PI * 0.6]} />
+        {mat(isRainbow ? hueToColor(((t * 45) + 60) % 360) : capeColor, capeEI * 0.35)}
       </mesh>
 
-      {/* ── Mid body ─── */}
-      <mesh position={[0, -0.14 + wave1 * 0.7, -0.22 + wave2 * 0.7]} rotation={[-0.07 + flutter * 0.4, 0, 0]}>
-        <boxGeometry args={[0.46, 0.30, 0.015]} />
-        <meshStandardMaterial color={isRainbow ? hueToColor(((t * 45) + 180) % 360) : capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.32} roughness={0.65} side={THREE.DoubleSide} />
+      {/* Mid panel — curves away from body */}
+      <mesh position={[0, -0.22 + wave1 * 0.7, -0.06 + wave2 * 0.5]} rotation={[flutter * 0.3, 0, 0]}>
+        <cylinderGeometry args={[0.22, 0.19, 0.30, 10, 2, true, Math.PI * 0.72, Math.PI * 0.56]} />
+        {mat(isRainbow ? hueToColor(((t * 45) + 150) % 360) : capeColor, capeEI * 0.4)}
       </mesh>
 
-      {/* ── Lower body ─── */}
-      <mesh position={[0, -0.38 + wave1 * 1.2, -0.23 + wave2 * 1.2]} rotation={[-0.10 + flutter * 0.6, 0, 0]}>
-        <boxGeometry args={[0.42, 0.27, 0.012]} />
-        <meshStandardMaterial color={isRainbow ? hueToColor(((t * 45) + 240) % 360) : capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.38} roughness={0.65} side={THREE.DoubleSide} />
+      {/* Lower panel — tapers */}
+      <mesh position={[0, -0.46 + wave1 * 1.2, -0.08 + wave2 * 0.9]} rotation={[flutter * 0.5, 0, 0]}>
+        <cylinderGeometry args={[0.19, 0.12, 0.24, 8, 2, true, Math.PI * 0.75, Math.PI * 0.5]} />
+        {mat(isRainbow ? hueToColor(((t * 45) + 240) % 360) : capeColor, capeEI * 0.45)}
       </mesh>
 
-      {/* ── Tail — tapered tip ─── */}
-      <mesh position={[0, -0.58 + wave1 * 1.8, -0.23 + wave2 * 1.8]} rotation={[-0.13 + flutter * 0.9, 0, 0]}>
-        <boxGeometry args={[0.30, 0.22, 0.010]} />
-        <meshStandardMaterial color={isRainbow ? hueToColor(((t * 45) + 300) % 360) : capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.45} roughness={0.65} side={THREE.DoubleSide} />
+      {/* Bottom tip — small rounded end */}
+      <mesh position={[0, -0.60 + wave1 * 1.6, -0.10 + wave2 * 1.2]} rotation={[0.1 + flutter * 0.7, 0, 0]}>
+        <sphereGeometry args={[0.08, 8, 4, 0, Math.PI * 2, 0, Math.PI * 0.5]} />
+        {mat(isRainbow ? hueToColor(((t * 45) + 300) % 360) : capeColor, capeEI * 0.5)}
       </mesh>
     </group>
   );
@@ -570,18 +606,28 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
 
     return (
       <>
-{/* Eye white — almond-shaped, subtle */}
+{/* Eye white — almond-shaped with socket depth */}
 {!specialEye && !isWinkClosed && (
   <group position={[x, 0.04, 0.188]}>
-    {/* Sclera — smaller, more almond */}
-    <mesh scale={[0.88, 0.58, 0.32]}>
+    {/* Eye socket shadow — subtle depth behind sclera, kept small so it doesn't protrude from above */}
+    <mesh scale={[0.72, 0.44, 0.14]} position={[0, -0.002, -0.001]}>
       <sphereGeometry args={[0.048, 10, 8]} />
-      <meshStandardMaterial color="#f8f5f0" roughness={0.25} />
+      <meshStandardMaterial color={skinDark} roughness={0.8} />
     </mesh>
-    {/* Upper eyelid crease — subtle skin-tone shadow */}
-    <mesh position={[0, 0.018, 0.010]} scale={[0.92, 0.25, 0.38]}>
+    {/* Sclera — slightly tinted for warmth */}
+    <mesh scale={[0.72, 0.40, 0.16]}>
+      <sphereGeometry args={[0.048, 10, 8]} />
+      <meshStandardMaterial color="#f5f0ea" roughness={0.3} />
+    </mesh>
+    {/* Upper eyelid — skin-tone, covers top of eye */}
+    <mesh position={[0, 0.016, 0.004]} scale={[0.74, 0.22, 0.18]}>
       <sphereGeometry args={[0.048, 8, 6]} />
-      <meshStandardMaterial color={skinDark} roughness={0.7} transparent opacity={0.3} />
+      <meshStandardMaterial color={skinColor} roughness={0.6} />
+    </mesh>
+    {/* Lower eyelid — subtle skin-tone rim at bottom */}
+    <mesh position={[0, -0.014, 0.003]} scale={[0.68, 0.14, 0.16]}>
+      <sphereGeometry args={[0.048, 8, 6]} />
+      <meshStandardMaterial color={skinColor} roughness={0.6} transparent opacity={0.6} />
     </mesh>
   </group>
 )}
@@ -825,6 +871,49 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
           <mesh position={[0, 0, 0.012]}>
             <sphereGeometry args={[0.013, 6, 6]} />
             <meshStandardMaterial color={mouthCol} roughness={0.5} />
+          </mesh>
+        </group>
+
+      ) : mouthType === 'bunny' ? (
+        /* Bunny: small round nose + Y-shaped mouth + whiskers */
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.08, 0.17]}>
+          {/* Small round nose */}
+          <mesh position={[0, 0.012, 0.022]}>
+            <sphereGeometry args={[0.018, 8, 6]} />
+            <meshStandardMaterial color={mouthCol} roughness={0.4} />
+          </mesh>
+          {/* Y-mouth: center vertical line */}
+          <mesh position={[0, -0.018, 0.018]}>
+            <boxGeometry args={[0.008, 0.024, 0.006]} />
+            <meshStandardMaterial color={mouthCol} roughness={0.5} />
+          </mesh>
+          {/* Y-mouth: left branch */}
+          <mesh position={[-0.014, -0.032, 0.018]} rotation={[0, 0, 0.5]}>
+            <boxGeometry args={[0.024, 0.008, 0.006]} />
+            <meshStandardMaterial color={mouthCol} roughness={0.5} />
+          </mesh>
+          {/* Y-mouth: right branch */}
+          <mesh position={[0.014, -0.032, 0.018]} rotation={[0, 0, -0.5]}>
+            <boxGeometry args={[0.024, 0.008, 0.006]} />
+            <meshStandardMaterial color={mouthCol} roughness={0.5} />
+          </mesh>
+          {/* Whiskers — left */}
+          <mesh position={[-0.06, 0.005, 0.015]} rotation={[0, 0, 0.1]}>
+            <boxGeometry args={[0.06, 0.004, 0.003]} />
+            <meshStandardMaterial color="#999" roughness={0.6} transparent opacity={0.5} />
+          </mesh>
+          <mesh position={[-0.06, -0.008, 0.015]} rotation={[0, 0, -0.1]}>
+            <boxGeometry args={[0.06, 0.004, 0.003]} />
+            <meshStandardMaterial color="#999" roughness={0.6} transparent opacity={0.5} />
+          </mesh>
+          {/* Whiskers — right */}
+          <mesh position={[0.06, 0.005, 0.015]} rotation={[0, 0, -0.1]}>
+            <boxGeometry args={[0.06, 0.004, 0.003]} />
+            <meshStandardMaterial color="#999" roughness={0.6} transparent opacity={0.5} />
+          </mesh>
+          <mesh position={[0.06, -0.008, 0.015]} rotation={[0, 0, 0.1]}>
+            <boxGeometry args={[0.06, 0.004, 0.003]} />
+            <meshStandardMaterial color="#999" roughness={0.6} transparent opacity={0.5} />
           </mesh>
         </group>
 
@@ -1264,6 +1353,7 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
       case 'idle': {
         const breathA = Math.sin(t * 1.3) * 0.02;
         bodyRef.current.position.y = breathA;
+        headRef.current.position.y = 0.58 + breathA * 0.5;
         groupRef.current.rotation.z = Math.sin(t * 0.65) * 0.035;
         headRef.current.rotation.z = Math.sin(t * 0.55 + 1.2) * 0.025;
         headRef.current.rotation.y = Math.sin(t * 0.4 + 0.5) * 0.02;
@@ -1568,17 +1658,8 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
       {/* These slightly oversized BackSide meshes create a crisp edge           */}
       {/* outline visible against any dark background. They complement the       */}
       {/* CSS drop-shadow filter (which handles the outer glow / soft halo).     */}
-      {/* Head outline follows headRef group below automatically via position.   */}
-      {/* Torso/legs are largely static and outline stays accurate enough.       */}
-      <mesh position={[0, 0.58, 0]} scale={1.095}>
-        <sphereGeometry args={[0.18, 12, 8]} />
-        <meshBasicMaterial color="#ddeeff" side={THREE.BackSide} transparent opacity={0.22} />
-      </mesh>
-      {/* Neck */}
-      <mesh position={[0, 0.40, 0]} scale={1.10}>
-        <cylinderGeometry args={[0.07, 0.085, 0.16, 8]} />
-        <meshBasicMaterial color="#ddeeff" side={THREE.BackSide} transparent opacity={0.18} />
-      </mesh>
+      {/* Head outline — moved to headRef group below so it follows breathing */}
+      {/* (was here as a sibling, caused forehead bump during breathing)      */}
       {/* Torso */}
       <mesh scale={[1.08, 1.06, 1.09]}>
         <cylinderGeometry args={[bodyW * 0.46, bodyW * 0.50, bodyH * 0.75, 10]} />
@@ -1638,25 +1719,12 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
 </group>
 
 
-{/* ── Shirt collar / accent ─────────────────────── */}
+{/* ── Shirt collar — rounded ring instead of boxes ─── */}
 {activeTop && (
-  <>
-    {/* Gallér */}
-    <mesh position={[0, 0.32, 0.05]}>
-      <boxGeometry args={[0.24, 0.05, 0.05]} />
-      <meshStandardMaterial color={actualBodyAccent} roughness={0.6} />
-    </mesh>
-    {/* Gallér bal szárny */}
-    <mesh position={[-0.06, 0.30, 0.08]} rotation={[0, 0.3, 0.15]}>
-      <boxGeometry args={[0.08, 0.038, 0.018]} />
-      <meshStandardMaterial color={actualBodyAccent} roughness={0.6} />
-    </mesh>
-    {/* Gallér jobb szárny */}
-    <mesh position={[0.06, 0.30, 0.08]} rotation={[0, -0.3, -0.15]}>
-      <boxGeometry args={[0.08, 0.038, 0.018]} />
-      <meshStandardMaterial color={actualBodyAccent} roughness={0.6} />
-    </mesh>
-  </>
+  <mesh position={[0, 0.33, 0]} rotation={[0.1, 0, 0]}>
+    <torusGeometry args={[0.10, 0.022, 6, 12]} />
+    <meshStandardMaterial color={actualBodyAccent} roughness={0.6} />
+  </mesh>
 )}
 
 {/* ── Gombok ────────────────────────────────────── */}
@@ -1722,20 +1790,24 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
         />
       </mesh>
 
-      {/* ══ NECK ════════════════════════════════════════════ */}
-      <mesh position={[0, 0.40, 0]}>
-        <cylinderGeometry args={[0.07, 0.085, 0.16, 8]} />
-        <meshStandardMaterial
-          color={actualSkinColor}
-          emissive={skinEmissive || '#000000'}
-          emissiveIntensity={skinEmissiveIntensity * 0.3}
-          roughness={0.6}
-          metalness={0.02}
-        />
-      </mesh>
-
-      {/* ══ HEAD GROUP ══════════════════════════════════════ */}
+      {/* ══ HEAD GROUP (includes neck so both move together) ═══ */}
       <group ref={headRef} position={[0, 0.58, 0]}>
+        {/* Head outline — inside headRef so it follows breathing */}
+        <mesh scale={1.095}>
+          <sphereGeometry args={[0.18, 12, 8]} />
+          <meshBasicMaterial color="#ddeeff" side={THREE.BackSide} transparent opacity={0.22} />
+        </mesh>
+        {/* Neck — inside headRef so it follows head movement */}
+        <mesh position={[0, -0.18, 0]}>
+          <cylinderGeometry args={[0.07, 0.085, 0.20, 8]} />
+          <meshStandardMaterial
+            color={actualSkinColor}
+            emissive={skinEmissive || '#000000'}
+            emissiveIntensity={skinEmissiveIntensity * 0.3}
+            roughness={0.6}
+            metalness={0.02}
+          />
+        </mesh>
         {/* Head */}
         <mesh>
           <sphereGeometry args={[0.18, 16, 12]} />
@@ -1766,7 +1838,7 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
 </mesh>
 
 {/* ── HOMLOK enyhe kiemelkedés ──────────────── */}
-<mesh position={[0, 0.10, 0.168]} scale={[0.75, 0.35, 0.20]}>
+<mesh position={[0, 0.06, 0.165]} scale={[0.70, 0.22, 0.12]}>
   <sphereGeometry args={[0.09, 8, 6]} />
   <meshStandardMaterial color={actualSkinColor} roughness={0.55} metalness={0.01} />
 </mesh>
@@ -2114,8 +2186,10 @@ export default function AvatarCompanion({
   activeTrail,
   activeHair,
   passThrough = false,
+  orbitControls = false,
 }: AvatarCompanionProps) {
   const positionClass = fixed ? 'fixed z-50' : 'relative w-full h-full';
+  const [avatarScale] = useState(() => fixed ? getAvatarScale() : 1);
   const [localJump, setLocalJump] = useState<{
     reaction: 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | 'wave' | 'dance' | 'spin' | null;
     timestamp: number;
@@ -2145,6 +2219,8 @@ export default function AvatarCompanion({
         bottom: 'max(20px, calc(env(safe-area-inset-bottom) + 20px))',
         right: '20px',
         filter: glowFilter,
+        transform: avatarScale !== 1 ? `scale(${avatarScale})` : undefined,
+        transformOrigin: 'bottom right',
       } : {
         filter: glowFilter,
       }}
@@ -2172,6 +2248,17 @@ export default function AvatarCompanion({
         <directionalLight position={[0, 1, -3]} intensity={0.95} color="#aac8ff" />
         <directionalLight position={[-2, 0, -2]} intensity={0.45} color="#c0d8ff" />
         <directionalLight position={[2, 0.5, -2.5]} intensity={0.35} color="#b8d0ff" />
+        {orbitControls && (
+          <OrbitControls
+            enableZoom={true}
+            enablePan={false}
+            minDistance={1.5}
+            maxDistance={4.5}
+            minPolarAngle={Math.PI * 0.15}
+            maxPolarAngle={Math.PI * 0.85}
+            target={[0, 0.15, 0]}
+          />
+        )}
         <Character
           mood={mood}
           isWalking={isWalking}

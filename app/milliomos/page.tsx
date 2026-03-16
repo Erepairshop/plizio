@@ -4,12 +4,19 @@ import { useState, useEffect, useCallback, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Crown, Trophy, X, Gem, Shield, Scissors, SkipForward } from "lucide-react";
 import Link from "next/link";
+import { useLang } from "@/components/LanguageProvider";
 import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId, type CardRarity } from "@/lib/cards";
 import { incrementTotalGames, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
-import allQuestions from "@/data/milliomos/questions.json";
+// Dynamically import questions based on language
+const getQuestions = (lang: string) => {
+  if (lang === "hu") return require("@/data/milliomos/questions-hu.json");
+  if (lang === "de") return require("@/data/milliomos/questions-de.json");
+  if (lang === "ro") return require("@/data/milliomos/questions-ro.json");
+  return require("@/data/milliomos/questions.json"); // EN default
+};
 
 type GameState = "ready" | "playing" | "confirming" | "correct" | "wrong" | "gameover" | "reward" | "result";
 
@@ -70,9 +77,9 @@ function updateStreak(): number {
   return 1;
 }
 
-function pickQuestions(): Question[] {
+function pickQuestions(allQuestions: Question[]): Question[] {
   const byDifficulty: Record<number, Question[]> = {};
-  for (const q of allQuestions as Question[]) {
+  for (const q of allQuestions) {
     if (!byDifficulty[q.difficulty]) byDifficulty[q.difficulty] = [];
     byDifficulty[q.difficulty].push(q);
   }
@@ -94,7 +101,81 @@ const ANSWER_COLORS = [
   { bg: "bg-purple-500/10", border: "border-purple-500/30", text: "text-purple-400", glow: "rgba(168,85,247,0.3)" },
 ];
 
+const LABELS = {
+  en: {
+    title: "MILLIOMOS",
+    description: "Answer 15 questions to win $1,000,000! Use lifelines wisely.",
+    best: "Best: Level",
+    play: "PLAY",
+    change: "CHANGE",
+    finalAnswer: "FINAL ANSWER",
+    fiftyFifty: "50:50",
+    skip: "SKIP",
+    shield: "SHIELD",
+    doubleDip: "2x DIP",
+    on: "ON",
+    safeLevel: "SAFE LEVEL",
+    shop: "SHOP",
+    wrong: "Wrong! You take home",
+    gameName: "Milliomos",
+  },
+  hu: {
+    title: "MILLIOMOS",
+    description: "Válaszolj 15 kérdésre és nyerj 1 000 000 dollárt! Okosan használd a segédleteket.",
+    best: "Legjobb: Szint",
+    play: "JÁTÉK",
+    change: "MÓDOSÍT",
+    finalAnswer: "VÉGLEGES VÁLASZ",
+    fiftyFifty: "50:50",
+    skip: "KIHAGYÁS",
+    shield: "PAJZS",
+    doubleDip: "2x MENET",
+    on: "AKTÍV",
+    safeLevel: "BIZTOS SZINT",
+    shop: "BOLT",
+    wrong: "Nem jó! Hazavihetsz",
+    gameName: "Milliomos",
+  },
+  de: {
+    title: "MILLIOMOS",
+    description: "Beantworte 15 Fragen und gewinne 1.000.000 Dollar! Nutze deine Joker weise.",
+    best: "Best: Level",
+    play: "SPIELEN",
+    change: "ÄNDERN",
+    finalAnswer: "ENDGÜLTIGE ANTWORT",
+    fiftyFifty: "50:50",
+    skip: "ÜBERSPRINGEN",
+    shield: "SCHUTZ",
+    doubleDip: "2x CHANCE",
+    on: "AN",
+    safeLevel: "SICHERES LEVEL",
+    shop: "SHOP",
+    wrong: "Falsch! Du nimmst mit",
+    gameName: "Milliomos",
+  },
+  ro: {
+    title: "MILLIOMOS",
+    description: "Răspunde la 15 întrebări și câștigă 1.000.000 de dolari! Folosește-ți ajutoarele cu înțelepciune.",
+    best: "Best: Nivel",
+    play: "JOACĂ",
+    change: "SCHIMBĂ",
+    finalAnswer: "RĂSPUNS FINAL",
+    fiftyFifty: "50:50",
+    skip: "SĂRI",
+    shield: "SCUTU",
+    doubleDip: "2x ȘI",
+    on: "ACTIV",
+    safeLevel: "NIVEL SIGUR",
+    shop: "MAGAZIN",
+    wrong: "Greșit! Iei acasă",
+    gameName: "Milliomos",
+  },
+};
+
 export default function MilliomosPage() {
+  const { lang } = useLang();
+  const t = LABELS[lang as keyof typeof LABELS] || LABELS.en;
+
   const [gameState, setGameState] = useState<GameState>("ready");
   const [level, setLevel] = useState(0);
   const [questions, setQuestions] = useState<Question[]>([]);
@@ -124,7 +205,8 @@ export default function MilliomosPage() {
   }, []);
 
   const startGame = () => {
-    const q = pickQuestions();
+    const allQuestions = getQuestions(lang);
+    const q = pickQuestions(allQuestions);
     setQuestions(q);
     setLevel(0);
     setSelectedAnswer(null);
@@ -345,10 +427,10 @@ export default function MilliomosPage() {
           >
             <Crown size={56} className="text-gold" style={{ filter: "drop-shadow(0 0 20px rgba(255,215,0,0.5))" }} />
           </motion.div>
-          <h1 className="text-2xl font-black tracking-wider text-white">MILLIOMOS</h1>
-          <p className="text-white/40 text-sm text-center max-w-xs">Answer 15 questions to win $1,000,000! Use lifelines wisely.</p>
+          <h1 className="text-2xl font-black tracking-wider text-white">{t.title}</h1>
+          <p className="text-white/40 text-sm text-center max-w-xs">{t.description}</p>
           {bestLevel > 0 && (
-            <div className="text-gold/60 text-sm font-bold">Best: Level {bestLevel} ({formatPrize(PRIZE_LADDER[bestLevel - 1] || 0)})</div>
+            <div className="text-gold/60 text-sm font-bold">{t.best} {bestLevel} ({formatPrize(PRIZE_LADDER[bestLevel - 1] || 0)})</div>
           )}
           <motion.button
             onClick={startGame}
@@ -356,7 +438,7 @@ export default function MilliomosPage() {
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
           >
-            PLAY
+            {t.play}
           </motion.button>
         </motion.div>
       )}
@@ -536,7 +618,7 @@ export default function MilliomosPage() {
                   className="flex-1 bg-white/5 border border-white/10 text-white/50 font-bold py-3 rounded-xl text-sm"
                   whileTap={{ scale: 0.95 }}
                 >
-                  CHANGE
+                  {t.change}
                 </motion.button>
                 <motion.button
                   onClick={confirmAnswer}
@@ -545,7 +627,7 @@ export default function MilliomosPage() {
                   animate={{ scale: [1, 1.02, 1] }}
                   transition={{ repeat: Infinity, duration: 1 }}
                 >
-                  FINAL ANSWER
+                  {t.finalAnswer}
                 </motion.button>
               </motion.div>
             )}
@@ -571,7 +653,7 @@ export default function MilliomosPage() {
                 whileTap={hasFiftyFifty ? { scale: 0.95 } : {}}
               >
                 <Scissors size={14} />
-                50:50
+                {t.fiftyFifty}
               </motion.button>
 
               <motion.button
@@ -586,7 +668,7 @@ export default function MilliomosPage() {
                 whileTap={hasSkip ? { scale: 0.95 } : {}}
               >
                 <SkipForward size={14} />
-                SKIP
+                {t.skip}
               </motion.button>
 
               <motion.button
@@ -603,7 +685,7 @@ export default function MilliomosPage() {
                 whileTap={hasShield ? { scale: 0.95 } : {}}
               >
                 <Shield size={14} />
-                SHIELD
+                {t.shield}
               </motion.button>
 
               {/* Shop power-ups */}
@@ -617,8 +699,8 @@ export default function MilliomosPage() {
                   animate={{ opacity: 1, scale: 1 }}
                 >
                   <Scissors size={14} />
-                  50:50
-                  <span className="text-[8px] bg-[#E040FB]/20 text-[#E040FB] px-1 rounded">SHOP</span>
+                  {t.fiftyFifty}
+                  <span className="text-[8px] bg-[#E040FB]/20 text-[#E040FB] px-1 rounded">{t.shop}</span>
                 </motion.button>
               )}
               {hasDoubleDip && (
@@ -636,8 +718,8 @@ export default function MilliomosPage() {
                   animate={{ opacity: 1, scale: 1 }}
                 >
                   <Gem size={14} />
-                  2x DIP
-                  {doubleDipActive && <span className="text-[8px] bg-[#E040FB]/30 px-1 rounded">ON</span>}
+                  {t.doubleDip}
+                  {doubleDipActive && <span className="text-[8px] bg-[#E040FB]/30 px-1 rounded">{t.on}</span>}
                 </motion.button>
               )}
             </motion.div>
@@ -651,7 +733,7 @@ export default function MilliomosPage() {
               animate={{ opacity: 1 }}
             >
               <Shield size={10} />
-              SAFE LEVEL
+              {t.safeLevel}
             </motion.div>
           )}
         </div>
@@ -665,7 +747,7 @@ export default function MilliomosPage() {
           animate={{ opacity: 1, y: 0 }}
         >
           <div className="bg-neon-pink/10 border border-neon-pink/30 rounded-xl px-4 py-2 text-neon-pink text-sm font-bold">
-            Wrong! You take home {formatPrize(currentPrize > 0 ? PRIZE_LADDER[SAFE_LEVELS.filter((s) => s < level).pop() ?? -1] || 0 : 0)}
+            {t.wrong} {formatPrize(currentPrize > 0 ? PRIZE_LADDER[SAFE_LEVELS.filter((s) => s < level).pop() ?? -1] || 0 : 0)}
           </div>
         </motion.div>
       )}
@@ -685,7 +767,7 @@ export default function MilliomosPage() {
           <ResultCard
             score={level}
             total={15}
-            gameName="Milliomos"
+            gameName={t.gameName}
             gameIcon={<Crown size={24} className="text-gold" />}
             onPlayAgain={() => setGameState("ready")}
           />

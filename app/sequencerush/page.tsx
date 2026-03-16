@@ -9,6 +9,7 @@ import MilestonePopup from "@/components/MilestonePopup";
 import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, calculateRarity, type CardRarity } from "@/lib/cards";
 import { incrementTotalGames } from "@/lib/milestones";
+import { seededRandom } from "@/lib/seededRandom";
 import AvatarCompanion from "@/components/AvatarCompanion";
 import { getGender } from "@/lib/gender";
 import type { AvatarGender } from "@/lib/gender";
@@ -22,6 +23,9 @@ import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
 import { submitScore, abandonMatch, submitMixRoundScore, pollMixRound } from "@/lib/multiplayer";
 import { getUsername } from "@/lib/username";
 import MultiplayerResult from "@/components/MultiplayerResult";
+import { supabase } from "@/lib/supabase/client";
+import type { RealtimeChannel } from "@supabase/supabase-js";
+import MultiplayerOpponentPanel from "@/components/MultiplayerOpponentPanel";
 
 // ─── i18n ─────────────────────────────────────────────────────────────────────
 
@@ -338,6 +342,10 @@ function SequenceRushPage() {
   const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
   const [mixFinished, setMixFinished] = useState(false);
   const [scoreSubmitted, setScoreSubmitted] = useState(false);
+  const [oppScore, setOppScore] = useState(0);
+  const [oppMood, setOppMood] = useState<"idle" | "focused" | "happy" | "surprised" | "victory" | "disappointed">("focused");
+  const broadcastChannelRef = useRef<RealtimeChannel | null>(null);
+  const broadcastIntervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
   // refs to avoid stale closures
   const cfgRef       = useRef<SRLevelConfig>(LEVELS[0]);
@@ -353,7 +361,7 @@ function SequenceRushPage() {
   }, []);
 
   // ── Play sequence animation ───────────────────────────────────────────────────
-  const playSequence = useCallback((seq: number[], gold: Set<number>, decoys: Set<number>, speed: number, onDone: () => void) => {
+  const playSequence = useCallback((seq: number[], gold: Set<number>, decoys: Set<number>, speed: number, onDone: () => void, rng: () => number = Math.random) => {
     const total = seq.length;
     let i = 0;
 
@@ -369,7 +377,7 @@ function SequenceRushPage() {
       // Flash decoys randomly during playback for extra confusion
       const activeDecoys: number[] = [];
       if (decoys.size > 0) {
-        decoys.forEach(d => { if (Math.random() < 0.5) activeDecoys.push(d); });
+        decoys.forEach(d => { if (rng() < 0.5) activeDecoys.push(d); });
       }
 
       setCellStates(prev => {
@@ -396,20 +404,21 @@ function SequenceRushPage() {
 
   // ── Start a round ─────────────────────────────────────────────────────────────
   const startRound = useCallback((cfg: SRLevelConfig, roundNum: number, currentScore: number, currentErrors: number) => {
+    const rng = seed ? seededRandom(`${seed}-${cfg.level}-${roundNum}`) : Math.random;
     const total = cfg.gridSize * cfg.gridSize;
     // Build sequence: unique random cells (extend by 1 each round)
     const seqLen = Math.min(cfg.seqLength + (roundNum - 1), total - 1);
     const indices = Array.from({ length: total }, (_, i) => i);
     // Fisher-Yates shuffle
     for (let i = indices.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
+      const j = Math.floor(rng() * (i + 1));
       [indices[i], indices[j]] = [indices[j], indices[i]];
     }
     const seq = indices.slice(0, seqLen);
 
     // Gold cells: 20% chance each cell in sequence
     const gold = new Set<number>();
-    if (cfg.hasGold) seq.forEach(idx => { if (Math.random() < 0.2) gold.add(idx); });
+    if (cfg.hasGold) seq.forEach(idx => { if (rng() < 0.2) gold.add(idx); });
 
     // Decoy cells: cells NOT in sequence
     const decoy = new Set<number>();
@@ -440,7 +449,7 @@ function SequenceRushPage() {
         setCellStates(Array(total).fill("idle"));
         setScreen("inputting");
         triggerAvatar("surprised", 99999, "surprised");
-      });
+      }, rng);
     }
 
     // doublePlay: show twice
@@ -448,11 +457,11 @@ function SequenceRushPage() {
       playSequence(seq, gold, decoy, cfg.flashSpeed, () => {
         setCellStates(Array(total).fill("idle"));
         setTimeout(beginPlay, 600);
-      });
+      }, rng);
     } else {
       beginPlay();
     }
-  }, [playSequence]);
+  }, [playSequence, seed]);
 
   // ── Handle cell tap during input phase ───────────────────────────────────────
   const handleCellTap = useCallback((index: number) => {
@@ -620,6 +629,36 @@ function SequenceRushPage() {
     }, 2000);
     return () => clearInterval(interval);
   }, [screen, isMultiplayer, matchId, isMix, playerNum, router, opponentName, mixround]);
+
+  // ── Multiplayer: live opponent broadcast ────────────────────────────────────
+  useEffect(() => {
+    if (!isMultiplayer || !matchId) return;
+    const channel = supabase.channel(`sequencerush-${matchId}`, {
+      config: { broadcast: { self: false } },
+    });
+    channel.on("broadcast", { event: "scoreUpdate" }, (payload) => {
+      if (payload.payload.p !== playerNum) {
+        setOppScore(payload.payload.score);
+        setOppMood("happy");
+        setTimeout(() => setOppMood("focused"), 600);
+      }
+    });
+    channel.subscribe();
+    broadcastChannelRef.current = channel;
+    return () => { channel.unsubscribe(); broadcastChannelRef.current = null; };
+  }, [isMultiplayer, matchId, playerNum]);
+
+  useEffect(() => {
+    if (!isMultiplayer || (screen !== "watching" && screen !== "inputting") || !broadcastChannelRef.current) return;
+    broadcastIntervalRef.current = setInterval(() => {
+      broadcastChannelRef.current?.send({
+        type: "broadcast",
+        event: "scoreUpdate",
+        payload: { p: playerNum, score },
+      });
+    }, 500);
+    return () => { if (broadcastIntervalRef.current) clearInterval(broadcastIntervalRef.current); };
+  }, [isMultiplayer, screen, playerNum, score]);
 
   const cfg = LEVELS[activeLevel - 1];
 
@@ -1008,6 +1047,16 @@ function SequenceRushPage() {
           myName={getUsername() || "???"}
           oppName={opponentName}
           onContinue={() => router.push("/multiplayer")}
+        />
+      )}
+
+      {isMultiplayer && (
+        <MultiplayerOpponentPanel
+          opponentName={opponentName}
+          opponentScore={oppScore}
+          opponentMood={oppMood}
+          totalRounds={cfg.rounds}
+          isVisible={screen === "watching" || screen === "inputting"}
         />
       )}
 

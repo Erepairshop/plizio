@@ -12,6 +12,7 @@
 /.next/
 
 # build output at root level (prevent accidental root pollution)
+# NOTE: /out/ is NOT ignored — build artifacts must be committed for deployment
 /index.html
 /404.html
 /sw.js

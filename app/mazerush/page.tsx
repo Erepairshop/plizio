@@ -22,6 +22,9 @@ import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
 import { submitScore, abandonMatch, submitMixRoundScore, pollMixRound } from "@/lib/multiplayer";
 import { getUsername } from "@/lib/username";
 import MultiplayerResult from "@/components/MultiplayerResult";
+import { supabase } from "@/lib/supabase/client";
+import type { RealtimeChannel } from "@supabase/supabase-js";
+import MultiplayerOpponentPanel from "@/components/MultiplayerOpponentPanel";
 
 /* ------------------------------------------------------------------ */
 /* i18n                                                                */
@@ -535,6 +538,10 @@ function MazeRushPage() {
   const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
   const [mixFinished, setMixFinished] = useState(false);
   const [scoreSubmitted, setScoreSubmitted] = useState(false);
+  const [oppScore, setOppScore] = useState(0);
+  const [oppMood, setOppMood] = useState<"idle" | "focused" | "happy" | "surprised" | "victory" | "disappointed">("focused");
+  const broadcastChannelRef = useRef<RealtimeChannel | null>(null);
+  const broadcastIntervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
   // Refs
   const mazeRef = useRef<MazeData | null>(null);
@@ -792,6 +799,36 @@ function MazeRushPage() {
     const interval = setInterval(async () => { if (await checkMatch()) clearInterval(interval); }, 2000);
     return () => clearInterval(interval);
   }, [screen, isMultiplayer, matchId, isMix, playerNum, router, opponentName, mixround]);
+
+  // -- Multiplayer live opponent broadcast --
+  useEffect(() => {
+    if (!isMultiplayer || !matchId) return;
+    const channel = supabase.channel(`mazerush-${matchId}`, {
+      config: { broadcast: { self: false } },
+    });
+    channel.on("broadcast", { event: "scoreUpdate" }, (payload) => {
+      if (payload.payload.p !== playerNum) {
+        setOppScore(payload.payload.score);
+        setOppMood("happy");
+        setTimeout(() => setOppMood("focused"), 600);
+      }
+    });
+    channel.subscribe();
+    broadcastChannelRef.current = channel;
+    return () => { channel.unsubscribe(); broadcastChannelRef.current = null; };
+  }, [isMultiplayer, matchId, playerNum]);
+
+  useEffect(() => {
+    if (!isMultiplayer || screen !== "playing" || !broadcastChannelRef.current) return;
+    broadcastIntervalRef.current = setInterval(() => {
+      broadcastChannelRef.current?.send({
+        type: "broadcast",
+        event: "scoreUpdate",
+        payload: { p: playerNum, score: stepCountRef.current },
+      });
+    }, 500);
+    return () => { if (broadcastIntervalRef.current) clearInterval(broadcastIntervalRef.current); };
+  }, [isMultiplayer, screen, playerNum]);
 
   // -- Helpers --
   const cfg = LEVELS[activeLevel - 1];
@@ -1226,6 +1263,17 @@ function MazeRushPage() {
           myName={getUsername() || "???"}
           oppName={opponentName}
           onContinue={() => router.push("/multiplayer")}
+        />
+      )}
+
+      {/* -- MULTI OPPONENT PANEL -- */}
+      {isMultiplayer && (
+        <MultiplayerOpponentPanel
+          opponentName={opponentName}
+          opponentScore={oppScore}
+          opponentMood={oppMood}
+          totalRounds={cfg.timeLimit}
+          isVisible={screen === "playing"}
         />
       )}
 
