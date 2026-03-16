@@ -28,6 +28,7 @@ import {
 import { getRandomPassage, type Lesepassage, type LeseQuestion } from "@/lib/deutschLesetest";
 import { generateForSubtopics } from "@/lib/deutschGenerators";
 import { checkAnswer } from "@/lib/deutschValidation";
+import { InlineTeacherNote } from "@/components/TeacherNote";
 import GenusSortierung from "@/components/deutsch-visual/GenusSortierung";
 import SatzOrdnen from "@/components/deutsch-visual/SatzOrdnen";
 import BildBeschriften from "@/components/deutsch-visual/BildBeschriften";
@@ -1183,6 +1184,13 @@ export default function DeutschTestPage() {
                   })}
                 </div>
               </div>
+
+              {/* Teacher note */}
+              <InlineTeacherNote
+                playerName=""
+                percentage={scorePct}
+                countryCode={country}
+              />
 
               {/* Buttons */}
               <div className="flex gap-3">
