@@ -100,14 +100,44 @@ export interface CapeDef {
 }
 
 export const CAPES: CapeDef[] = [
-  { id: "cape_red", name: "Red Cape", icon: "🦸", price: 14, color: "#CC0000", emissive: "#FF0000", emissiveIntensity: 0.3 },
-  { id: "cape_royal", name: "Royal Cape", icon: "👑", price: 20, color: "#4B0082", emissive: "#9400D3", emissiveIntensity: 0.4 },
-  { id: "cape_ice", name: "Ice Cape", icon: "❄️", price: 18, color: "#87CEEB", emissive: "#00CED1", emissiveIntensity: 0.5 },
-  { id: "cape_fire", name: "Fire Cape", icon: "🔥", price: 18, color: "#FF4500", emissive: "#FF6600", emissiveIntensity: 0.5 },
-  { id: "cape_shadow", name: "Shadow Cape", icon: "🖤", price: 18, color: "#1a1a2e", emissive: "#4a00e0", emissiveIntensity: 0.4 },
-  { id: "cape_gold", name: "Gold Cape", icon: "✨", price: 25, color: "#FFD700", emissive: "#FFD700", emissiveIntensity: 0.5 },
-  { id: "cape_rainbow", name: "Rainbow Cape", icon: "🌈", price: 35, color: "#FF69B4", emissive: "#FF1493", emissiveIntensity: 0.6 },
-  { id: "cape_void", name: "Void Cape", icon: "🕳️", price: 30, color: "#0d0221", emissive: "#bf00ff", emissiveIntensity: 0.8 },
+  // ── Klasszikusok ──────────────────────────────────────────────────
+  { id: "cape_red",       name: "Red Cape",        icon: "🦸",  price: 14, color: "#CC0000", emissive: "#FF0000", emissiveIntensity: 0.3 },
+  { id: "cape_royal",     name: "Royal Cape",      icon: "👑",  price: 20, color: "#4B0082", emissive: "#9400D3", emissiveIntensity: 0.4 },
+  { id: "cape_black",     name: "Black Cape",      icon: "🦇",  price: 10, color: "#1C1C1C", emissive: "#333333", emissiveIntensity: 0.1 },
+  { id: "cape_white",     name: "White Cape",      icon: "🕊️", price: 12, color: "#F0F0F0", emissive: "#FFFFFF", emissiveIntensity: 0.25 },
+  { id: "cape_green",     name: "Forest Cape",     icon: "🌿",  price: 13, color: "#2D6A2D", emissive: "#3AB83A", emissiveIntensity: 0.2 },
+  { id: "cape_navy",     name: "Navy Cape",         icon: "⚓",  price: 13, color: "#1B2A6B", emissive: "#3050CC", emissiveIntensity: 0.2 },
+
+  // ── Elem köpenyek ─────────────────────────────────────────────────
+  { id: "cape_fire",      name: "Fire Cape",       icon: "🔥",  price: 18, color: "#FF4500", emissive: "#FF6600", emissiveIntensity: 0.5 },
+  { id: "cape_ice",       name: "Ice Cape",        icon: "❄️",  price: 18, color: "#87CEEB", emissive: "#00CED1", emissiveIntensity: 0.5 },
+  { id: "cape_storm",     name: "Storm Cape",      icon: "⚡",  price: 20, color: "#4A4E8C", emissive: "#A0B4FF", emissiveIntensity: 0.6 },
+  { id: "cape_lava",      name: "Lava Cape",       icon: "🌋",  price: 22, color: "#8B1A00", emissive: "#FF5500", emissiveIntensity: 0.65 },
+  { id: "cape_ocean",     name: "Ocean Cape",      icon: "🌊",  price: 20, color: "#0077B6", emissive: "#00B4D8", emissiveIntensity: 0.45 },
+  { id: "cape_toxic",     name: "Toxic Cape",      icon: "☢️",  price: 19, color: "#1A3A00", emissive: "#44FF00", emissiveIntensity: 0.6 },
+  { id: "cape_wind",      name: "Wind Cape",       icon: "💨",  price: 17, color: "#C8E6F5", emissive: "#80D8FF", emissiveIntensity: 0.4 },
+  { id: "cape_earth",     name: "Earth Cape",      icon: "🪨",  price: 15, color: "#5C4033", emissive: "#8B6045", emissiveIntensity: 0.15 },
+
+  // ── Mágia & Fantasy ───────────────────────────────────────────────
+  { id: "cape_shadow",    name: "Shadow Cape",     icon: "🖤",  price: 18, color: "#1a1a2e", emissive: "#4a00e0", emissiveIntensity: 0.4 },
+  { id: "cape_void",      name: "Void Cape",       icon: "🕳️", price: 30, color: "#0d0221", emissive: "#bf00ff", emissiveIntensity: 0.8 },
+  { id: "cape_galaxy",    name: "Galaxy Cape",     icon: "🌌",  price: 32, color: "#0A0A2E", emissive: "#7B2FFF", emissiveIntensity: 0.75 },
+  { id: "cape_arcane",    name: "Arcane Cape",     icon: "🔮",  price: 28, color: "#2A004A", emissive: "#CC00FF", emissiveIntensity: 0.7 },
+  { id: "cape_wizard",    name: "Wizard Cape",     icon: "🧙",  price: 24, color: "#2C1654", emissive: "#9C27B0", emissiveIntensity: 0.5 },
+  { id: "cape_angel",     name: "Angel Wings",     icon: "😇",  price: 26, color: "#FFF9E0", emissive: "#FFE566", emissiveIntensity: 0.55 },
+  { id: "cape_demon",     name: "Demon Cape",      icon: "😈",  price: 26, color: "#3D0000", emissive: "#CC0000", emissiveIntensity: 0.65 },
+  { id: "cape_phantom",   name: "Phantom Cape",    icon: "👻",  price: 22, color: "#B8F0E0", emissive: "#00FFCC", emissiveIntensity: 0.55 },
+  { id: "cape_rune",      name: "Rune Cape",       icon: "🪄",  price: 25, color: "#1A2A4A", emissive: "#4488FF", emissiveIntensity: 0.6 },
+
+  // ── Prémium & Speciális ───────────────────────────────────────────
+  { id: "cape_gold",      name: "Gold Cape",       icon: "✨",  price: 25, color: "#FFD700", emissive: "#FFD700", emissiveIntensity: 0.5 },
+  { id: "cape_rainbow",   name: "Rainbow Cape",    icon: "🌈",  price: 35, color: "#FF69B4", emissive: "#FF1493", emissiveIntensity: 0.6 },
+  { id: "cape_diamond",   name: "Diamond Cape",    icon: "💎",  price: 40, color: "#B9F2FF", emissive: "#00E5FF", emissiveIntensity: 0.8 },
+  { id: "cape_neon",      name: "Neon Cape",       icon: "💡",  price: 28, color: "#FF00AA", emissive: "#FF00FF", emissiveIntensity: 0.85 },
+  { id: "cape_hologram",  name: "Hologram Cape",   icon: "🔷",  price: 38, color: "#00FFEE", emissive: "#00FFFF", emissiveIntensity: 0.9 },
+  { id: "cape_plasma",    name: "Plasma Cape",     icon: "⚛️",  price: 42, color: "#8000FF", emissive: "#FF00FF", emissiveIntensity: 1.0 },
+  { id: "cape_legendary", name: "Legendary Cape",  icon: "🏆",  price: 50, color: "#FF6A00", emissive: "#FFD700", emissiveIntensity: 1.1 },
+  { id: "cape_cosmic",    name: "Cosmic Cape",     icon: "🌠",  price: 45, color: "#060A2A", emissive: "#4FC3F7", emissiveIntensity: 0.95 },
 ];
 
 // ─── GLASSES ─────────────────────────────────────────
