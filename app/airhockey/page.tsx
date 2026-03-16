@@ -243,12 +243,12 @@ function AirHockeyPage() {
               x: p.x, y: 1 - p.y, vx: p.vx, vy: -p.vy, speed: p.speed,
             }));
           } else {
-            // Lerp position, snap velocity (dead-reckoning correction)
+            // Fast lerp position + snap velocity for tight sync
             for (let i = 0; i < pucks.length; i++) {
               const s = (pucks as {x:number,y:number,vx:number,vy:number,speed:number}[])[i];
               const b = game.pucks[i];
-              b.x = b.x + (s.x - b.x) * 0.4;
-              b.y = b.y + ((1 - s.y) - b.y) * 0.4;
+              b.x = b.x + (s.x - b.x) * 0.7;
+              b.y = b.y + ((1 - s.y) - b.y) * 0.7;
               b.vx = s.vx; b.vy = -s.vy; b.speed = s.speed;
             }
           }
@@ -496,29 +496,26 @@ function AirHockeyPage() {
       }
     };
 
-    // Player input — free movement within own half
-    // P2 has the canvas rotated 180°, so both X and Y must be inverted
+    // Player input — free movement within own half (bottom of screen)
+    // P2: NO CSS rotation — instead, rendering is flipped in the draw code
+    // P2's paddle is still at the bottom of their screen (natural orientation)
+    // Internally P2 stores coords in P2-local space (own paddle at y≈0.75)
+    // and broadcasts them; receiver flips y: 1 - y
     const isP2 = isMultiplayer && playerNum !== "1";
     let playerTarget = { x: 0.5, y: 0.75 };
-    let pointerDown = false;
     const handlePointer = (e: PointerEvent | TouchEvent) => {
       const rect = canvas.getBoundingClientRect();
       const clientX = "touches" in e ? e.touches[0]?.clientX ?? 0 : (e as PointerEvent).clientX;
       const clientY = "touches" in e ? e.touches[0]?.clientY ?? 0 : (e as PointerEvent).clientY;
       const r = rink();
-      let nx = ((clientX - rect.left) / rect.width * r.w - r.rL) / r.rW;
-      let ny = ((clientY - rect.top) / rect.height * r.h - r.rT) / r.rH;
+      const nx = ((clientX - rect.left) / rect.width * r.w - r.rL) / r.rW;
+      const ny = ((clientY - rect.top) / rect.height * r.h - r.rT) / r.rH;
       const pr = padR();
-      // For P2: canvas is rotated 180°, so invert both X and Y
-      if (isP2) { nx = 1 - nx; ny = 1 - ny; }
       playerTarget.x = Math.max(pr, Math.min(1 - pr, nx));
       playerTarget.y = Math.max(0.52, Math.min(1 - padRY(), ny)); // only own half (bottom)
     };
-    const handlePointerDown = (e: PointerEvent | TouchEvent) => { pointerDown = true; handlePointer(e); };
-    const handlePointerUp = () => { pointerDown = false; };
     canvas.addEventListener("pointermove", handlePointer);
-    canvas.addEventListener("pointerdown", handlePointerDown);
-    canvas.addEventListener("pointerup", handlePointerUp);
+    canvas.addEventListener("pointerdown", handlePointer);
     canvas.addEventListener("touchmove", handlePointer as EventListener, { passive: true });
     canvas.addEventListener("touchstart", handlePointer as EventListener, { passive: true });
 
@@ -541,15 +538,13 @@ function AirHockeyPage() {
       const pr = padR(), prY = padRY();
       const pkR = pR(), pkRY = pRY();
 
-      // Keyboard (P2: both X and Y inverted to match the rotated canvas)
+      // Keyboard — same for P1 and P2 (rendering handles the flip)
       {
         const kSpd = 0.02 * dt;
-        const xDir = isP2 ? -1 : 1;
-        const yDir = isP2 ? -1 : 1;
-        if (keys.has("ArrowLeft") || keys.has("a")) playerTarget.x = Math.max(pr, Math.min(1 - pr, playerTarget.x - kSpd * xDir));
-        if (keys.has("ArrowRight") || keys.has("d")) playerTarget.x = Math.max(pr, Math.min(1 - pr, playerTarget.x + kSpd * xDir));
-        if (keys.has("ArrowUp") || keys.has("w")) playerTarget.y = Math.max(0.52, Math.min(1 - prY, playerTarget.y - kSpd * yDir));
-        if (keys.has("ArrowDown") || keys.has("s")) playerTarget.y = Math.max(0.52, Math.min(1 - prY, playerTarget.y + kSpd * yDir));
+        if (keys.has("ArrowLeft") || keys.has("a")) playerTarget.x = Math.max(pr, Math.min(1 - pr, playerTarget.x - kSpd));
+        if (keys.has("ArrowRight") || keys.has("d")) playerTarget.x = Math.max(pr, Math.min(1 - pr, playerTarget.x + kSpd));
+        if (keys.has("ArrowUp") || keys.has("w")) playerTarget.y = Math.max(0.52, Math.min(1 - prY, playerTarget.y - kSpd));
+        if (keys.has("ArrowDown") || keys.has("s")) playerTarget.y = Math.max(0.52, Math.min(1 - prY, playerTarget.y + kSpd));
       }
 
       // Smooth player paddle movement — fast interpolation for responsive feel
@@ -557,12 +552,11 @@ function AirHockeyPage() {
       game.playerX += (playerTarget.x - game.playerX) * pLerp;
       game.playerY += (playerTarget.y - game.playerY) * pLerp;
 
-      // AI movement
+      // AI / Opponent movement
       if (isMultiplayer) {
-        // Smooth interpolation for opponent paddle — fast enough for responsiveness
-        const oLerp = Math.min(1, 0.55 * dt);
-        game.aiX += (oppPaddleRef.current.x - game.aiX) * oLerp;
-        game.aiY += (oppPaddleRef.current.y - game.aiY) * oLerp;
+        // Snap opponent paddle position — no slow lerp to avoid desync
+        game.aiX = oppPaddleRef.current.x;
+        game.aiY = oppPaddleRef.current.y;
       } else {
         const puck = game.pucks[0];
         const targetX = puck.vy < 0 ? puck.x + (Math.random() - 0.5) * ai.predict : 0.5;
@@ -573,10 +567,10 @@ function AirHockeyPage() {
         game.aiY = Math.max(prY, Math.min(0.48, game.aiY));
       }
 
-      // Broadcast — paddle pos + P1 puck sync (~33ms)
+      // Broadcast — paddle pos + P1 puck sync (every ~50ms for smooth opponent movement)
       if (isMultiplayer && broadcastChannelRef.current) {
         broadcastTimer += dt;
-        if (broadcastTimer > 2) {
+        if (broadcastTimer > 3) {
           broadcastTimer = 0;
           broadcastChannelRef.current.send({
             type: "broadcast", event: "paddlePos",
@@ -796,9 +790,10 @@ function AirHockeyPage() {
       ctx.roundRect(rL, rT, rW, rH, 12);
       ctx.stroke();
 
-      // Pixel helpers
+      // Pixel helpers — P2 sees everything flipped so their paddle is at bottom
       const toX = (nx: number) => rL + nx * rW;
-      const toY = (ny: number) => rT + ny * rH;
+      const toYraw = (ny: number) => rT + ny * rH;
+      const toY = isP2 ? (ny: number) => rT + (1 - ny) * rH : toYraw;
 
       // Center line
       ctx.strokeStyle = "#00D4FF30";
@@ -825,30 +820,35 @@ function AirHockeyPage() {
       ctx.fill();
 
       // Goals — glowing rectangles at top and bottom
+      // For P2: colors are swapped — top goal is opponent's (cyan), bottom is theirs (pink)
       const goalLPx = toX(goalLeft);
       const goalRPx = toX(goalRight);
       const goalDepth = 8;
+      const topGoalColor = isP2 ? "#00D4FF" : "#FF2D78";
+      const botGoalColor = isP2 ? "#FF2D78" : "#00D4FF";
+      const topShield = isP2 ? game.playerShield : game.aiShield;
+      const botShield = isP2 ? game.aiShield : game.playerShield;
 
-      // Top goal (AI)
+      // Top goal (opponent for both players)
       const topGoalGrad = ctx.createLinearGradient(goalLPx, rT - goalDepth, goalLPx, rT + 4);
-      topGoalGrad.addColorStop(0, game.aiShield ? "#00FF8860" : "#FF2D7860");
+      topGoalGrad.addColorStop(0, topShield ? "#00FF8860" : topGoalColor + "60");
       topGoalGrad.addColorStop(1, "transparent");
       ctx.fillStyle = topGoalGrad;
       ctx.fillRect(goalLPx, rT - 2, goalRPx - goalLPx, goalDepth + 4);
-      ctx.strokeStyle = game.aiShield ? "#00FF88" : "#FF2D78";
+      ctx.strokeStyle = topShield ? "#00FF88" : topGoalColor;
       ctx.lineWidth = 2;
       ctx.beginPath();
       ctx.moveTo(goalLPx, rT + 4); ctx.lineTo(goalLPx, rT - 2);
       ctx.lineTo(goalRPx, rT - 2); ctx.lineTo(goalRPx, rT + 4);
       ctx.stroke();
 
-      // Bottom goal (Player)
+      // Bottom goal (own goal for both players)
       const botGoalGrad = ctx.createLinearGradient(goalLPx, rB + goalDepth, goalLPx, rB - 4);
-      botGoalGrad.addColorStop(0, game.playerShield ? "#00FF8860" : "#00D4FF60");
+      botGoalGrad.addColorStop(0, botShield ? "#00FF8860" : botGoalColor + "60");
       botGoalGrad.addColorStop(1, "transparent");
       ctx.fillStyle = botGoalGrad;
       ctx.fillRect(goalLPx, rB - 4, goalRPx - goalLPx, goalDepth + 4);
-      ctx.strokeStyle = game.playerShield ? "#00FF88" : "#00D4FF";
+      ctx.strokeStyle = botShield ? "#00FF88" : botGoalColor;
       ctx.lineWidth = 2;
       ctx.beginPath();
       ctx.moveTo(goalLPx, rB - 4); ctx.lineTo(goalLPx, rB + 2);
@@ -912,9 +912,9 @@ function AirHockeyPage() {
         ctx.beginPath(); ctx.arc(px - rad * 0.2, py - rad * 0.2, rad * 0.35, 0, Math.PI * 2); ctx.fill();
       };
 
-      // Player paddle (bottom, cyan)
+      // Own paddle (bottom, cyan) + Opponent paddle (top, pink)
+      // toY already handles the flip for P2
       drawPaddle(game.playerX, game.playerY, "#0A2A40", "#00D4FF", game.playerPaddleScale);
-      // AI paddle (top, pink)
       drawPaddle(game.aiX, game.aiY, "#400A2A", "#FF2D78", game.aiPaddleScale);
 
       // Pucks
@@ -924,11 +924,12 @@ function AirHockeyPage() {
 
           // Trail
           if (puck.speed > 0.003) {
+            const vyFlip = isP2 ? -1 : 1;
             ctx.strokeStyle = "rgba(255,255,255,0.15)";
             ctx.lineWidth = PUCK_RADIUS * 1.5;
             ctx.lineCap = "round";
             ctx.beginPath();
-            ctx.moveTo(bx - puck.vx * rW * 4, by - puck.vy * rH * 4);
+            ctx.moveTo(bx - puck.vx * rW * 4, by - puck.vy * rH * 4 * vyFlip);
             ctx.lineTo(bx, by);
             ctx.stroke();
             ctx.lineCap = "butt";
@@ -960,25 +961,26 @@ function AirHockeyPage() {
         }
       }
 
-      // Score display
+      // Score display — always: own score bottom-right, opponent top-left
+      // Use toYraw here so scores don't flip (they're UI, not game objects)
       ctx.textAlign = "center";
       ctx.textBaseline = "middle";
 
-      // Player score (bottom right)
+      // Own score (bottom right, cyan)
       ctx.font = `bold ${Math.round(Math.min(24, rW * 0.07))}px system-ui`;
       ctx.fillStyle = "#00D4FF";
-      ctx.fillText(String(playerScoreRef.current), rR + (w - rR) / 2, toY(0.65));
+      ctx.fillText(String(playerScoreRef.current), rR + (w - rR) / 2, toYraw(0.65));
       ctx.font = `${Math.round(Math.min(10, rW * 0.03))}px system-ui`;
       ctx.fillStyle = "#00D4FF60";
-      ctx.fillText(t.you, rR + (w - rR) / 2, toY(0.65) + 18);
+      ctx.fillText(t.you, rR + (w - rR) / 2, toYraw(0.65) + 18);
 
-      // AI score (top left)
+      // Opponent score (top left, pink)
       ctx.font = `bold ${Math.round(Math.min(24, rW * 0.07))}px system-ui`;
       ctx.fillStyle = "#FF2D78";
-      ctx.fillText(String(aiScoreRef.current), rL / 2, toY(0.35));
+      ctx.fillText(String(aiScoreRef.current), rL / 2, toYraw(0.35));
       ctx.font = `${Math.round(Math.min(10, rW * 0.03))}px system-ui`;
       ctx.fillStyle = "#FF2D7860";
-      ctx.fillText(isMultiplayer ? opponentName : t.ai, rL / 2, toY(0.35) + 18);
+      ctx.fillText(isMultiplayer ? opponentName : t.ai, rL / 2, toYraw(0.35) + 18);
 
       // Active powerup indicator
       if (game.activePowerup) {
@@ -1010,7 +1012,7 @@ function AirHockeyPage() {
           ctx.textAlign = "center"; ctx.textBaseline = "middle";
           ctx.fillStyle = game.puFlash.color;
           ctx.shadowColor = game.puFlash.color; ctx.shadowBlur = 15;
-          ctx.fillText(game.puFlash.text, w / 2, toY(0.5));
+          ctx.fillText(game.puFlash.text, w / 2, toYraw(0.5));
           ctx.shadowBlur = 0; ctx.restore();
         } else game.puFlash = null;
       }
@@ -1020,7 +1022,7 @@ function AirHockeyPage() {
         const age = Date.now() - game.goalFlash.time;
         if (age < 600) {
           const alpha = Math.max(0, 1 - age / 600);
-          const color = game.goalFlash.who === "player" ? "#00D4FF" : "#FF2D78";
+          const color = game.goalFlash.who === "player" ? "#00D4FF" : "#FF2D78"; // P2 sees same colors since scoring is already per-perspective
           ctx.save(); ctx.globalAlpha = alpha * 0.3;
           ctx.fillStyle = color;
           ctx.fillRect(rL, rT, rW, rH);
@@ -1031,7 +1033,7 @@ function AirHockeyPage() {
           ctx.textAlign = "center"; ctx.textBaseline = "middle";
           ctx.fillStyle = "#fff";
           ctx.shadowColor = color; ctx.shadowBlur = 20;
-          ctx.fillText("GOAL!", w / 2, toY(0.5));
+          ctx.fillText("GOAL!", w / 2, toYraw(0.5));
           ctx.shadowBlur = 0; ctx.restore();
         } else game.goalFlash = null;
       }
@@ -1043,8 +1045,7 @@ function AirHockeyPage() {
     return () => {
       cancelAnimationFrame(animFrameRef.current);
       canvas.removeEventListener("pointermove", handlePointer);
-      canvas.removeEventListener("pointerdown", handlePointerDown);
-      canvas.removeEventListener("pointerup", handlePointerUp);
+      canvas.removeEventListener("pointerdown", handlePointer);
       canvas.removeEventListener("touchmove", handlePointer as EventListener);
       canvas.removeEventListener("touchstart", handlePointer as EventListener);
       window.removeEventListener("keydown", handleKeyDown);
@@ -1105,7 +1106,7 @@ function AirHockeyPage() {
           <motion.div key="playing" className="fixed inset-0 z-20" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
             <div className="absolute inset-0 touch-none">
               <canvas ref={canvasRef} className="absolute inset-0 w-full h-full"
-                style={{ touchAction: "none", transform: isMultiplayer && playerNum !== "1" ? "rotate(180deg)" : undefined }} />
+                style={{ touchAction: "none" }} />
               <button onClick={() => { if (isMultiplayer) setShowExitConfirm(true); else { setAvatarMood("idle"); setScreen("menu"); } }}
                 className="absolute top-2 right-2 z-10 px-3 py-1.5 rounded-lg bg-white/10 text-white/70 font-bold text-xs backdrop-blur-sm hover:bg-white/20 transition-colors">
                 {lang === "hu" ? "VÉGE" : lang === "de" ? "ENDE" : lang === "ro" ? "SFÂRȘIT" : "END"}
