@@ -5,6 +5,8 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Star, ArrowLeft, Zap, Shield, Clock, Eye, Mountain, Crosshair, Brain, Check, Car, X, Gauge, Flame, Cog, Wind, Crown, Shuffle, Scissors, Venus, Mars } from "lucide-react";
 import AvatarCompanion from "@/components/AvatarCompanion";
 import { getGender, setGender, type AvatarGender } from "@/lib/gender";
+import { useLang } from "@/components/LanguageProvider";
+import type { Language } from "@/lib/language";
 import Link from "next/link";
 import { getSpecialCardCount, spendSpecialCards } from "@/lib/specialCards";
 import { getUser } from "@/lib/auth";
@@ -84,6 +86,294 @@ const ABILITIES: AbilityDef[] = [
 ];
 
 type Tab = "cars" | "powerups" | "skins" | "abilities";
+
+// ─── TRANSLATIONS ──────────────────────────────────
+type ShopTranslations = {
+  header: string;
+  tabs: Record<Tab, string>;
+  skinSubs: Record<"skin" | "face" | "top" | "bottom" | "shoe" | "hat" | "cape" | "glasses" | "gloves" | "trail", string>;
+  buttons: {
+    select: string;
+    free: string;
+    unlockFree: string;
+    active: string;
+    tap: string;
+    drift: string;
+    nitro: string;
+  };
+  notifications: {
+    notEnough: string;
+    skinSelected: string;
+    skinPurchased: string;
+    faceSelected: string;
+    facePurchased: string;
+    hatRemoved: string;
+    hatEquipped: string;
+    hatPurchased: string;
+    trailRemoved: string;
+    trailEquipped: string;
+    trailPurchased: string;
+    equipped: string;
+    unequipped: string;
+    unlocked: string;
+    purchased: string;
+    powerUpAdded: string;
+    abilityAdded: string;
+  };
+  carStats: {
+    spd: string;
+    acc: string;
+    hdl: string;
+  };
+  carDescriptions: Record<string, string>;
+};
+
+const SHOP_TRANSLATIONS: Record<Language, ShopTranslations> = {
+  en: {
+    header: "SHOP",
+    tabs: {
+      cars: "Cars",
+      skins: "Skins",
+      powerups: "Boost",
+      abilities: "Skills",
+    },
+    skinSubs: {
+      skin: "Skin",
+      face: "Face",
+      top: "Top",
+      bottom: "Pants",
+      shoe: "Shoes",
+      hat: "Hats",
+      cape: "Cape",
+      glasses: "Glasses",
+      gloves: "Gloves",
+      trail: "Trails",
+    },
+    buttons: {
+      select: "Select",
+      free: "Free",
+      unlockFree: "Unlock Free",
+      active: "ACTIVE",
+      tap: "TAP",
+      drift: "DRIFT",
+      nitro: "NITRO",
+    },
+    notifications: {
+      notEnough: "Not enough ⭐",
+      skinSelected: "Skin selected!",
+      skinPurchased: "Skin purchased!",
+      faceSelected: "Face selected!",
+      facePurchased: "Face purchased!",
+      hatRemoved: "Hat removed",
+      hatEquipped: "Hat equipped!",
+      hatPurchased: "Hat purchased!",
+      trailRemoved: "Trail removed",
+      trailEquipped: "Trail equipped!",
+      trailPurchased: "Trail purchased!",
+      equipped: "Equipped!",
+      unequipped: "Unequipped!",
+      unlocked: "Unlocked!",
+      purchased: "Purchased!",
+      powerUpAdded: "+1 power-up!",
+      abilityAdded: "+1 ability!",
+    },
+    carStats: {
+      spd: "SPD",
+      acc: "ACC",
+      hdl: "HDL",
+    },
+    carDescriptions: {
+      starter: "Reliable starter car. Slow but easy to handle.",
+      sedan: "Balanced family sedan. Good acceleration and handling.",
+      muscle: "Powerful muscle car with drift capability. Harder steering.",
+      racer: "Racing car. Excellent speed and handling with drift.",
+      supercar: "The best. Nitro boost, drift, maximum speed and acceleration.",
+    },
+  },
+  hu: {
+    header: "BOLT",
+    tabs: {
+      cars: "Autók",
+      skins: "Megjelenés",
+      powerups: "Feltuning",
+      abilities: "Képességek",
+    },
+    skinSubs: {
+      skin: "Skin",
+      face: "Fej",
+      top: "Felső",
+      bottom: "Alsó",
+      shoe: "Cipő",
+      hat: "Kalap",
+      cape: "Köpeny",
+      glasses: "Szemüveg",
+      gloves: "Kesztyű",
+      trail: "Nyomvonal",
+    },
+    buttons: {
+      select: "Kiválaszt",
+      free: "Ingyenes",
+      unlockFree: "Feloldás",
+      active: "AKTÍV",
+      tap: "KOPPINTS",
+      drift: "DRIFT",
+      nitro: "NITRO",
+    },
+    notifications: {
+      notEnough: "Nincs elég ⭐",
+      skinSelected: "Skin kiválasztva!",
+      skinPurchased: "Skin megvásárolva!",
+      faceSelected: "Fej kiválasztva!",
+      facePurchased: "Fej megvásárolva!",
+      hatRemoved: "Kalap eltávolítva",
+      hatEquipped: "Kalap felhelyezve!",
+      hatPurchased: "Kalap megvásárolva!",
+      trailRemoved: "Nyomvonal eltávolítva",
+      trailEquipped: "Nyomvonal felhelyezve!",
+      trailPurchased: "Nyomvonal megvásárolva!",
+      equipped: "Felhelyezve!",
+      unequipped: "Levéve!",
+      unlocked: "Feloldva!",
+      purchased: "Megvásárolva!",
+      powerUpAdded: "+1 feltuning!",
+      abilityAdded: "+1 képesség!",
+    },
+    carStats: {
+      spd: "SEP",
+      acc: "GYO",
+      hdl: "KOR",
+    },
+    carDescriptions: {
+      starter: "Megbízható kezdő autó. Lassú de könnyen kezelhető.",
+      sedan: "Kiegyensúlyozott családi szedán. Jó gyorsulás és kezelhetőség.",
+      muscle: "Erős izomautó drift képességgel. Nehezebb a kormányzás.",
+      racer: "Versenyautó. Kiváló sebesség és kezelhetőség drifttel.",
+      supercar: "A legjobb. Nitro boost, drift, maximális sebesség és gyorsulás.",
+    },
+  },
+  de: {
+    header: "SHOP",
+    tabs: {
+      cars: "Autos",
+      skins: "Skins",
+      powerups: "Boost",
+      abilities: "Fähigkeiten",
+    },
+    skinSubs: {
+      skin: "Skin",
+      face: "Gesicht",
+      top: "Oberteil",
+      bottom: "Unterhose",
+      shoe: "Schuhe",
+      hat: "Hüte",
+      cape: "Umhang",
+      glasses: "Brille",
+      gloves: "Handschuhe",
+      trail: "Spur",
+    },
+    buttons: {
+      select: "Auswählen",
+      free: "Kostenlos",
+      unlockFree: "Freischalten",
+      active: "AKTIV",
+      tap: "TAP",
+      drift: "DRIFT",
+      nitro: "NITRO",
+    },
+    notifications: {
+      notEnough: "Nicht genug ⭐",
+      skinSelected: "Skin ausgewählt!",
+      skinPurchased: "Skin gekauft!",
+      faceSelected: "Gesicht ausgewählt!",
+      facePurchased: "Gesicht gekauft!",
+      hatRemoved: "Hut entfernt",
+      hatEquipped: "Hut angelegt!",
+      hatPurchased: "Hut gekauft!",
+      trailRemoved: "Spur entfernt",
+      trailEquipped: "Spur angelegt!",
+      trailPurchased: "Spur gekauft!",
+      equipped: "Angelegt!",
+      unequipped: "Entfernt!",
+      unlocked: "Freigeschaltet!",
+      purchased: "Gekauft!",
+      powerUpAdded: "+1 Boost!",
+      abilityAdded: "+1 Fähigkeit!",
+    },
+    carStats: {
+      spd: "GES",
+      acc: "BES",
+      hdl: "HAN",
+    },
+    carDescriptions: {
+      starter: "Zuverlässiges Anfängerauto. Langsam aber leicht zu handhaben.",
+      sedan: "Ausgewogene Familienkombi. Gute Beschleunigung und Handling.",
+      muscle: "Starkes Muscle Car mit Driftfähigkeit. Schwierigere Lenkung.",
+      racer: "Rennwagen. Ausgezeichnete Geschwindigkeit und Handling mit Drift.",
+      supercar: "Das Beste. Nitro-Boost, Drift, maximale Geschwindigkeit und Beschleunigung.",
+    },
+  },
+  ro: {
+    header: "MAGAZIN",
+    tabs: {
+      cars: "Mașini",
+      skins: "Aspecte",
+      powerups: "Boost",
+      abilities: "Abilități",
+    },
+    skinSubs: {
+      skin: "Aspect",
+      face: "Față",
+      top: "Tricou",
+      bottom: "Pantaloni",
+      shoe: "Pantofi",
+      hat: "Pălării",
+      cape: "Pelerinã",
+      glasses: "Ochelari",
+      gloves: "Mănuși",
+      trail: "Urmă",
+    },
+    buttons: {
+      select: "Selecteaza",
+      free: "Gratuit",
+      unlockFree: "Deblochează",
+      active: "ACTIV",
+      tap: "APASÃ",
+      drift: "DRIFT",
+      nitro: "NITRO",
+    },
+    notifications: {
+      notEnough: "Nu sunt suficiente ⭐",
+      skinSelected: "Aspect selectat!",
+      skinPurchased: "Aspect cumpărat!",
+      faceSelected: "Față selectată!",
+      facePurchased: "Față cumpărată!",
+      hatRemoved: "Pălărie eliminată",
+      hatEquipped: "Pălărie pusă!",
+      hatPurchased: "Pălărie cumpărată!",
+      trailRemoved: "Urmă eliminată",
+      trailEquipped: "Urmă pusă!",
+      trailPurchased: "Urmă cumpărată!",
+      equipped: "Pus!",
+      unequipped: "Scos!",
+      unlocked: "Deblocat!",
+      purchased: "Cumpărat!",
+      powerUpAdded: "+1 boost!",
+      abilityAdded: "+1 abilitate!",
+    },
+    carStats: {
+      spd: "VIT",
+      acc: "ACC",
+      hdl: "MAN",
+    },
+    carDescriptions: {
+      starter: "Mașină de pornire de încredere. Lentă dar ușor de controlat.",
+      sedan: "Sedan familial echilibrat. Bună accelerație și manevrabilitate.",
+      muscle: "Mașină cu motor puternic cu capacitate de drift. Direcție mai dificilă.",
+      racer: "Mașina de curse. Viteză și manevrabilitate excelente cu drift.",
+      supercar: "Cea mai bună. Nitro boost, drift, viteză maximă și accelerație.",
+    },
+  },
+};
 
 // ─── CAR SVG ICON ─────────────────────────────────
 function CarIcon({ color, size = 80 }: { color: string; size?: number }) {
@@ -255,6 +545,9 @@ function starPoints(cx: number, cy: number, r: number): string {
 }
 
 export default function ShopPage() {
+  const { lang } = useLang();
+  const t = SHOP_TRANSLATIONS[lang];
+
   const [balance, setBalance] = useState(0);
   const [ownedSkins, setOwnedSkins] = useState<string[]>(["default"]);
   const [activeSkin, setActiveSkinState] = useState("default");
@@ -347,7 +640,7 @@ export default function ShopPage() {
       setSelectedCar(null);
       return;
     }
-    if (balance < car.price) { showNotif("Not enough ⭐"); return; }
+    if (balance < car.price) { showNotif(t.notifications.notEnough); return; }
     spendSpecialCards(car.price);
     const newOwned = [...ownedCars, car.id];
     setOwnedCarsLS(newOwned);
@@ -361,14 +654,14 @@ export default function ShopPage() {
   };
 
   const handleBuyPowerUp = (pu: PowerUpDef) => {
-    if (balance < pu.price) { showNotif("Not enough ⭐"); return; }
+    if (balance < pu.price) { showNotif(t.notifications.notEnough); return; }
     spendSpecialCards(pu.price);
     const updated = { ...boughtPowerUps, [pu.id]: (boughtPowerUps[pu.id] || 0) + 1 };
     setBoughtPowerUps(updated);
     localStorage.setItem("plizio_powerups", JSON.stringify(updated));
     setBalance(getSpecialCardCount());
     syncAfterPurchase();
-    showNotif("+1 power-up!");
+    showNotif(t.notifications.powerUpAdded);
   };
 
   const triggerAvatarReaction = () => {
@@ -380,12 +673,12 @@ export default function ShopPage() {
     if (ownedSkins.includes(skin.id)) {
       setActiveSkin(skin.id);
       setActiveSkinState(skin.id);
-      showNotif("Skin selected!");
+      showNotif(t.notifications.skinSelected);
       setSelectedSkin(null);
       triggerAvatarReaction();
       return;
     }
-    if (balance < skin.price) { showNotif("Not enough ⭐"); return; }
+    if (balance < skin.price) { showNotif(t.notifications.notEnough); return; }
     spendSpecialCards(skin.price);
     buySkin(skin.id);
     setOwnedSkins(getOwnedSkins());
@@ -393,7 +686,7 @@ export default function ShopPage() {
     setActiveSkinState(skin.id);
     setBalance(getSpecialCardCount());
     syncAfterPurchase();
-    showNotif("Skin purchased!");
+    showNotif(t.notifications.skinPurchased);
     setSelectedSkin(null);
     triggerAvatarReaction();
   };
@@ -403,16 +696,16 @@ export default function ShopPage() {
       if (activeHat === hat.id) {
         setActiveHat(null);
         setActiveHatState(null);
-        showNotif("Hat removed");
+        showNotif(t.notifications.hatRemoved);
       } else {
         setActiveHat(hat.id);
         setActiveHatState(hat.id);
-        showNotif("Hat equipped!");
+        showNotif(t.notifications.hatEquipped);
         triggerAvatarReaction();
       }
       return;
     }
-    if (balance < hat.price) { showNotif("Not enough ⭐"); return; }
+    if (balance < hat.price) { showNotif(t.notifications.notEnough); return; }
     spendSpecialCards(hat.price);
     buyHat(hat.id);
     setOwnedHats(getOwnedHats());
@@ -420,7 +713,7 @@ export default function ShopPage() {
     setActiveHatState(hat.id);
     setBalance(getSpecialCardCount());
     syncAfterPurchase();
-    showNotif("Hat purchased!");
+    showNotif(t.notifications.hatPurchased);
     triggerAvatarReaction();
   };
 
@@ -429,16 +722,16 @@ export default function ShopPage() {
       if (activeTrail === trail.id) {
         setActiveTrail(null);
         setActiveTrailState(null);
-        showNotif("Trail removed");
+        showNotif(t.notifications.trailRemoved);
       } else {
         setActiveTrail(trail.id);
         setActiveTrailState(trail.id);
-        showNotif("Trail equipped!");
+        showNotif(t.notifications.trailEquipped);
         triggerAvatarReaction();
       }
       return;
     }
-    if (balance < trail.price) { showNotif("Not enough ⭐"); return; }
+    if (balance < trail.price) { showNotif(t.notifications.notEnough); return; }
     spendSpecialCards(trail.price);
     buyTrail(trail.id);
     setOwnedTrails(getOwnedTrails());
@@ -446,19 +739,19 @@ export default function ShopPage() {
     setActiveTrailState(trail.id);
     setBalance(getSpecialCardCount());
     syncAfterPurchase();
-    showNotif("Trail purchased!");
+    showNotif(t.notifications.trailPurchased);
     triggerAvatarReaction();
   };
 
   const handleBuyAbility = (ab: AbilityDef) => {
-    if (balance < ab.price) { showNotif("Not enough ⭐"); return; }
+    if (balance < ab.price) { showNotif(t.notifications.notEnough); return; }
     spendSpecialCards(ab.price);
     const key = `plizio_ability_${ab.id}`;
     const current = parseInt(localStorage.getItem(key) || "0");
     localStorage.setItem(key, (current + 1).toString());
     setBalance(getSpecialCardCount());
     syncAfterPurchase();
-    showNotif("+1 ability!");
+    showNotif(t.notifications.abilityAdded);
   };
 
   // ─── Face handler ─────────────────
@@ -466,11 +759,11 @@ export default function ShopPage() {
     if (ownedFaces.includes(face.id)) {
       setActiveFace(face.id);
       setActiveFaceId(face.id);
-      showNotif("Face selected!");
+      showNotif(t.notifications.faceSelected);
       triggerAvatarReaction();
       return;
     }
-    if (balance < face.price) { showNotif("Not enough ⭐"); return; }
+    if (balance < face.price) { showNotif(t.notifications.notEnough); return; }
     spendSpecialCards(face.price);
     buyFace(face.id);
     setOwnedFaces(getOwnedFaces());
@@ -478,7 +771,7 @@ export default function ShopPage() {
     setActiveFaceId(face.id);
     setBalance(getSpecialCardCount());
     syncAfterPurchase();
-    showNotif("Face purchased!");
+    showNotif(t.notifications.facePurchased);
     triggerAvatarReaction();
   };
 
@@ -499,11 +792,11 @@ export default function ShopPage() {
       if (clothingActive[slot] === itemId) {
         setActive(slot, null);
         refreshClothing();
-        showNotif("Unequipped!");
+        showNotif(t.notifications.unequipped);
       } else {
         setActive(slot, itemId);
         refreshClothing();
-        showNotif("Equipped!");
+        showNotif(t.notifications.equipped);
         triggerAvatarReaction();
       }
       return;
@@ -512,39 +805,39 @@ export default function ShopPage() {
       buyItem(slot, itemId);
       setActive(slot, itemId);
       refreshClothing();
-      showNotif("Unlocked!");
+      showNotif(t.notifications.unlocked);
       triggerAvatarReaction();
       return;
     }
-    if (balance < price) { showNotif("Not enough ⭐"); return; }
+    if (balance < price) { showNotif(t.notifications.notEnough); return; }
     spendSpecialCards(price);
     buyItem(slot, itemId);
     setActive(slot, itemId);
     refreshClothing();
     setBalance(getSpecialCardCount());
     syncAfterPurchase();
-    showNotif("Purchased!");
+    showNotif(t.notifications.purchased);
     triggerAvatarReaction();
   };
 
   const SKIN_SUBS: { id: SkinSub; label: string; icon: string }[] = [
-    { id: "skin", label: "Skin", icon: "🎨" },
-    { id: "face", label: "Face", icon: "😊" },
-    { id: "top", label: "Top", icon: "👕" },
-    { id: "bottom", label: "Pants", icon: "👖" },
-    { id: "shoe", label: "Shoes", icon: "👟" },
-    { id: "hat", label: "Hats", icon: "🎩" },
-    { id: "cape", label: "Cape", icon: "🦸" },
-    { id: "glasses", label: "Glasses", icon: "🕶️" },
-    { id: "gloves", label: "Gloves", icon: "🧤" },
-    { id: "trail", label: "Trails", icon: "✨" },
+    { id: "skin", label: t.skinSubs.skin, icon: "🎨" },
+    { id: "face", label: t.skinSubs.face, icon: "😊" },
+    { id: "top", label: t.skinSubs.top, icon: "👕" },
+    { id: "bottom", label: t.skinSubs.bottom, icon: "👖" },
+    { id: "shoe", label: t.skinSubs.shoe, icon: "👟" },
+    { id: "hat", label: t.skinSubs.hat, icon: "🎩" },
+    { id: "cape", label: t.skinSubs.cape, icon: "🦸" },
+    { id: "glasses", label: t.skinSubs.glasses, icon: "🕶️" },
+    { id: "gloves", label: t.skinSubs.gloves, icon: "🧤" },
+    { id: "trail", label: t.skinSubs.trail, icon: "✨" },
   ];
 
   const TABS: { id: Tab; label: string; icon: string }[] = [
-    { id: "cars", label: "Cars", icon: "🏎️" },
-    { id: "skins", label: "Skins", icon: "🎨" },
-    { id: "powerups", label: "Boost", icon: "⚡" },
-    { id: "abilities", label: "Skills", icon: "🏔️" },
+    { id: "cars", label: t.tabs.cars, icon: "🏎️" },
+    { id: "skins", label: t.tabs.skins, icon: "🎨" },
+    { id: "powerups", label: t.tabs.powerups, icon: "⚡" },
+    { id: "abilities", label: t.tabs.abilities, icon: "🏔️" },
   ];
 
   const statBar = (val: number, max: number, color: string, label: string, icon: React.ReactNode) => (
@@ -571,7 +864,7 @@ export default function ShopPage() {
           </motion.div>
         </Link>
 
-        <h1 className="text-white font-black text-lg tracking-wide">SHOP</h1>
+        <h1 className="text-white font-black text-lg tracking-wide">{t.header}</h1>
 
         {/* Balance */}
         <motion.div className="flex items-center gap-2 bg-gradient-to-r from-[#E040FB]/10 to-[#E040FB]/5 border border-[#E040FB]/20 px-4 py-2 rounded-xl backdrop-blur-sm"
@@ -647,7 +940,7 @@ export default function ShopPage() {
                   <div className="flex items-center gap-2">
                     <span className="text-white font-bold text-sm">{car.name}</span>
                     {isActive && (
-                      <span className="text-[8px] bg-[#E040FB]/20 text-[#E040FB] px-1.5 py-0.5 rounded-full font-black">ACTIVE</span>
+                      <span className="text-[8px] bg-[#E040FB]/20 text-[#E040FB] px-1.5 py-0.5 rounded-full font-black">{t.buttons.active}</span>
                     )}
                   </div>
                   {/* Mini stat bars */}
@@ -664,8 +957,8 @@ export default function ShopPage() {
                   </div>
                   {/* Tags */}
                   <div className="flex gap-1 mt-1.5">
-                    {car.canDrift && <span className="text-[7px] bg-orange-500/15 text-orange-400/80 px-1.5 py-0.5 rounded font-black">DRIFT</span>}
-                    {car.canNitro && <span className="text-[7px] bg-purple-500/15 text-purple-400/80 px-1.5 py-0.5 rounded font-black">NITRO</span>}
+                    {car.canDrift && <span className="text-[7px] bg-orange-500/15 text-orange-400/80 px-1.5 py-0.5 rounded font-black">{t.buttons.drift}</span>}
+                    {car.canNitro && <span className="text-[7px] bg-purple-500/15 text-purple-400/80 px-1.5 py-0.5 rounded font-black">{t.buttons.nitro}</span>}
                     <span className="text-[7px] text-white/15 font-bold">~{Math.round(car.maxSpeed * 3.6)} km/h</span>
                   </div>
                 </div>
@@ -677,7 +970,7 @@ export default function ShopPage() {
                       <Check size={14} className="text-[#E040FB]" />
                     </div>
                   ) : owned ? (
-                    <span className="text-white/20 text-[10px] font-bold">TAP</span>
+                    <span className="text-white/20 text-[10px] font-bold">{t.buttons.tap}</span>
                   ) : car.price === 0 ? (
                     <span className="text-green-400/70 text-[10px] font-bold">FREE</span>
                   ) : (
@@ -722,17 +1015,17 @@ export default function ShopPage() {
                 <div className="flex items-center gap-3 mb-1">
                   <h2 className="text-white font-black text-xl">{selectedCar.name}</h2>
                   <div className="flex gap-1">
-                    {selectedCar.canDrift && <span className="text-[8px] bg-orange-500/20 text-orange-400 px-2 py-0.5 rounded-full font-black">DRIFT</span>}
-                    {selectedCar.canNitro && <span className="text-[8px] bg-purple-500/20 text-purple-400 px-2 py-0.5 rounded-full font-black">NITRO</span>}
+                    {selectedCar.canDrift && <span className="text-[8px] bg-orange-500/20 text-orange-400 px-2 py-0.5 rounded-full font-black">{t.buttons.drift}</span>}
+                    {selectedCar.canNitro && <span className="text-[8px] bg-purple-500/20 text-purple-400 px-2 py-0.5 rounded-full font-black">{t.buttons.nitro}</span>}
                   </div>
                 </div>
-                <p className="text-white/30 text-xs leading-relaxed mb-4">{selectedCar.desc}</p>
+                <p className="text-white/30 text-xs leading-relaxed mb-4">{t.carDescriptions[selectedCar.id] || selectedCar.desc}</p>
 
                 {/* Stats */}
                 <div className="flex flex-col gap-2.5 mb-5">
-                  {statBar(selectedCar.maxSpeed, 45, "#00FF88", "SPD", <Gauge size={12} />)}
-                  {statBar(selectedCar.accel, 30, "#00D4FF", "ACC", <Flame size={12} />)}
-                  {statBar(selectedCar.handling, 3.5, "#FFD700", "HDL", <Cog size={12} />)}
+                  {statBar(selectedCar.maxSpeed, 45, "#00FF88", t.carStats.spd, <Gauge size={12} />)}
+                  {statBar(selectedCar.accel, 30, "#00D4FF", t.carStats.acc, <Flame size={12} />)}
+                  {statBar(selectedCar.handling, 3.5, "#FFD700", t.carStats.hdl, <Cog size={12} />)}
                 </div>
 
                 {/* Action button */}
@@ -755,7 +1048,7 @@ export default function ShopPage() {
                         color: owned ? selectedCar.color : "#fff",
                       }}
                       whileTap={{ scale: 0.97 }}>
-                      {owned ? "Select" : selectedCar.price === 0 ? "Unlock Free" : (
+                      {owned ? t.buttons.select : selectedCar.price === 0 ? t.buttons.unlockFree : (
                         <span className="flex items-center justify-center gap-1.5">
                           Buy for <Star size={12} className="text-[#E040FB]" fill="#E040FB" /> {selectedCar.price}
                         </span>
@@ -840,9 +1133,9 @@ export default function ShopPage() {
                   style={active ? { boxShadow: `0 0 20px ${skin.emissive}20` } : undefined}
                   whileTap={{ scale: 0.96 }} initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: idx * 0.02 }}>
                   <SkinPreview skin={skin} size={52} />
-                  <span className="text-white/50 text-[9px] font-bold capitalize">{skin.id === "default" ? "Classic" : skin.id}</span>
-                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />ACTIVE</span>
-                    : owned ? <span className="text-white/20 text-[8px] font-bold">TAP</span>
+                  <span className="text-white/50 text-[9px] font-bold capitalize">{skin.id === "default" ? (lang === "en" ? "Classic" : lang === "hu" ? "Alap" : lang === "de" ? "Klassisch" : "Clasic") : skin.id}</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />{t.buttons.active}</span>
+                    : owned ? <span className="text-white/20 text-[8px] font-bold">{t.buttons.tap}</span>
                     : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{skin.price}</span>}
                 </motion.button>
               );
@@ -863,8 +1156,8 @@ export default function ShopPage() {
                   whileTap={{ scale: 0.96 }} initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: idx * 0.02 }}>
                   <div className="text-3xl">{face.icon}</div>
                   <span className="text-white/50 text-[9px] font-bold">{face.name}</span>
-                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />ACTIVE</span>
-                    : owned ? <span className="text-white/20 text-[8px] font-bold">TAP</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />{t.buttons.active}</span>
+                    : owned ? <span className="text-white/20 text-[8px] font-bold">{t.buttons.tap}</span>
                     : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{face.price}</span>}
                 </motion.button>
               );
@@ -1121,7 +1414,7 @@ export default function ShopPage() {
                       className="w-full py-3 rounded-xl font-bold text-sm border transition-all"
                       style={{ background: owned ? `${selectedSkin.emissive}15` : `linear-gradient(135deg, ${selectedSkin.emissive}30, ${selectedSkin.emissive}10)`, borderColor: `${selectedSkin.emissive}30`, color: owned ? selectedSkin.emissive : "#fff" }}
                       whileTap={{ scale: 0.97 }}>
-                      {owned ? "Select" : selectedSkin.price === 0 ? "Free" : (
+                      {owned ? t.buttons.select : selectedSkin.price === 0 ? t.buttons.free : (
                         <span className="flex items-center justify-center gap-1.5">Buy for <Star size={12} className="text-[#E040FB]" fill="#E040FB" /> {selectedSkin.price}</span>
                       )}
                     </motion.button>
