@@ -496,25 +496,31 @@ function AirHockeyPage() {
       }
     };
 
-    // Player input — free movement within bottom half
-    // P2 has the canvas rotated 180°, so X must be inverted for natural control
+    // Player input — free movement within own half
+    // P2 has the canvas rotated 180°, so both X and Y must be inverted
     const isP2 = isMultiplayer && playerNum !== "1";
     let playerTarget = { x: 0.5, y: 0.75 };
+    let pointerDown = false;
     const handlePointer = (e: PointerEvent | TouchEvent) => {
       const rect = canvas.getBoundingClientRect();
       const clientX = "touches" in e ? e.touches[0]?.clientX ?? 0 : (e as PointerEvent).clientX;
       const clientY = "touches" in e ? e.touches[0]?.clientY ?? 0 : (e as PointerEvent).clientY;
       const r = rink();
-      const nx = ((clientX - rect.left) / rect.width * r.w - r.rL) / r.rW;
-      const ny = ((clientY - rect.top) / rect.height * r.h - r.rT) / r.rH;
+      let nx = ((clientX - rect.left) / rect.width * r.w - r.rL) / r.rW;
+      let ny = ((clientY - rect.top) / rect.height * r.h - r.rT) / r.rH;
       const pr = padR();
-      // For P2: canvas is rotated 180°, so invert X so left=left feels natural
-      playerTarget.x = Math.max(pr, Math.min(1 - pr, isP2 ? 1 - nx : nx));
-      playerTarget.y = Math.max(0.52, Math.min(1 - padRY(), ny)); // only bottom half
+      // For P2: canvas is rotated 180°, so invert both X and Y
+      if (isP2) { nx = 1 - nx; ny = 1 - ny; }
+      playerTarget.x = Math.max(pr, Math.min(1 - pr, nx));
+      playerTarget.y = Math.max(0.52, Math.min(1 - padRY(), ny)); // only own half (bottom)
     };
+    const handlePointerDown = (e: PointerEvent | TouchEvent) => { pointerDown = true; handlePointer(e); };
+    const handlePointerUp = () => { pointerDown = false; };
     canvas.addEventListener("pointermove", handlePointer);
-    canvas.addEventListener("pointerdown", handlePointer);
+    canvas.addEventListener("pointerdown", handlePointerDown);
+    canvas.addEventListener("pointerup", handlePointerUp);
     canvas.addEventListener("touchmove", handlePointer as EventListener, { passive: true });
+    canvas.addEventListener("touchstart", handlePointer as EventListener, { passive: true });
 
     const keys = new Set<string>();
     const handleKeyDown = (e: KeyboardEvent) => { keys.add(e.key); };
@@ -535,20 +541,28 @@ function AirHockeyPage() {
       const pr = padR(), prY = padRY();
       const pkR = pR(), pkRY = pRY();
 
-      // Keyboard (P2: X directions are inverted to match the rotated canvas)
-      if (keys.has("ArrowLeft") || keys.has("a")) playerTarget.x = Math.max(pr, playerTarget.x + (isP2 ? 0.02 : -0.02) * dt);
-      if (keys.has("ArrowRight") || keys.has("d")) playerTarget.x = Math.min(1 - pr, playerTarget.x + (isP2 ? -0.02 : 0.02) * dt);
-      if (keys.has("ArrowUp") || keys.has("w")) playerTarget.y = Math.max(0.52, playerTarget.y - 0.02 * dt);
-      if (keys.has("ArrowDown") || keys.has("s")) playerTarget.y = Math.min(1 - prY, playerTarget.y + 0.02 * dt);
+      // Keyboard (P2: both X and Y inverted to match the rotated canvas)
+      {
+        const kSpd = 0.02 * dt;
+        const xDir = isP2 ? -1 : 1;
+        const yDir = isP2 ? -1 : 1;
+        if (keys.has("ArrowLeft") || keys.has("a")) playerTarget.x = Math.max(pr, Math.min(1 - pr, playerTarget.x - kSpd * xDir));
+        if (keys.has("ArrowRight") || keys.has("d")) playerTarget.x = Math.max(pr, Math.min(1 - pr, playerTarget.x + kSpd * xDir));
+        if (keys.has("ArrowUp") || keys.has("w")) playerTarget.y = Math.max(0.52, Math.min(1 - prY, playerTarget.y - kSpd * yDir));
+        if (keys.has("ArrowDown") || keys.has("s")) playerTarget.y = Math.max(0.52, Math.min(1 - prY, playerTarget.y + kSpd * yDir));
+      }
 
-      // Smooth player paddle movement
-      game.playerX += (playerTarget.x - game.playerX) * Math.min(1, 0.3 * dt);
-      game.playerY += (playerTarget.y - game.playerY) * Math.min(1, 0.3 * dt);
+      // Smooth player paddle movement — fast interpolation for responsive feel
+      const pLerp = Math.min(1, 0.45 * dt);
+      game.playerX += (playerTarget.x - game.playerX) * pLerp;
+      game.playerY += (playerTarget.y - game.playerY) * pLerp;
 
       // AI movement
       if (isMultiplayer) {
-        game.aiX += (oppPaddleRef.current.x - game.aiX) * Math.min(1, 0.5 * dt);
-        game.aiY += (oppPaddleRef.current.y - game.aiY) * Math.min(1, 0.5 * dt);
+        // Smooth interpolation for opponent paddle — fast enough for responsiveness
+        const oLerp = Math.min(1, 0.55 * dt);
+        game.aiX += (oppPaddleRef.current.x - game.aiX) * oLerp;
+        game.aiY += (oppPaddleRef.current.y - game.aiY) * oLerp;
       } else {
         const puck = game.pucks[0];
         const targetX = puck.vy < 0 ? puck.x + (Math.random() - 0.5) * ai.predict : 0.5;
@@ -1029,8 +1043,10 @@ function AirHockeyPage() {
     return () => {
       cancelAnimationFrame(animFrameRef.current);
       canvas.removeEventListener("pointermove", handlePointer);
-      canvas.removeEventListener("pointerdown", handlePointer);
+      canvas.removeEventListener("pointerdown", handlePointerDown);
+      canvas.removeEventListener("pointerup", handlePointerUp);
       canvas.removeEventListener("touchmove", handlePointer as EventListener);
+      canvas.removeEventListener("touchstart", handlePointer as EventListener);
       window.removeEventListener("keydown", handleKeyDown);
       window.removeEventListener("keyup", handleKeyUp);
       window.removeEventListener("resize", resize);
