@@ -1417,7 +1417,7 @@ export default function ShopPage() {
                     <span className="text-white/70 text-xs font-bold block">{item.name}</span>
                     <span className="text-white/20 text-[9px] capitalize">{item.type}</span>
                   </div>
-                  {active ? <Check size={14} className="text-[#E040FB]" />
+                  {active ? <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
                     : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
                     : item.price === 0 ? <span className="text-green-400/60 text-[9px] font-bold">FREE</span>
                     : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
@@ -1444,7 +1444,7 @@ export default function ShopPage() {
                     <span className="text-white/70 text-xs font-bold block">{item.name}</span>
                     <span className="text-white/20 text-[9px] capitalize">{item.type}</span>
                   </div>
-                  {active ? <Check size={14} className="text-[#E040FB]" />
+                  {active ? <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
                     : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
                     : item.price === 0 ? <span className="text-green-400/60 text-[9px] font-bold">FREE</span>
                     : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
@@ -1471,7 +1471,7 @@ export default function ShopPage() {
                     <span className="text-white/70 text-xs font-bold block">{item.name}</span>
                     <span className="text-white/20 text-[9px] capitalize">{item.type}</span>
                   </div>
-                  {active ? <Check size={14} className="text-[#E040FB]" />
+                  {active ? <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
                     : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
                     : item.price === 0 ? <span className="text-green-400/60 text-[9px] font-bold">FREE</span>
                     : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
@@ -1495,7 +1495,7 @@ export default function ShopPage() {
                   <div className="text-2xl">{item.icon}</div>
                   <span className="text-white/50 text-[9px] font-bold">{item.name}</span>
                   <div className="w-8 h-12 rounded-md" style={{ background: `linear-gradient(180deg, ${item.color}, ${item.color}80)`, boxShadow: `0 0 8px ${item.emissive}30` }} />
-                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />EQUIPPED</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
                     : owned ? <span className="text-white/20 text-[8px] font-bold">EQUIP</span>
                     : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
                 </motion.button>
@@ -1521,7 +1521,7 @@ export default function ShopPage() {
                     <span className="text-white/70 text-xs font-bold block">{item.name}</span>
                     <span className="text-white/20 text-[9px] capitalize">{item.type}</span>
                   </div>
-                  {active ? <Check size={14} className="text-[#E040FB]" />
+                  {active ? <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
                     : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
                     : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
                 </motion.button>
@@ -1546,7 +1546,7 @@ export default function ShopPage() {
                   <div className="flex-1 min-w-0 text-left">
                     <span className="text-white/70 text-xs font-bold block">{item.name}</span>
                   </div>
-                  {active ? <Check size={14} className="text-[#E040FB]" />
+                  {active ? <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
                     : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
                     : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
                 </motion.button>
@@ -1571,7 +1571,7 @@ export default function ShopPage() {
                     <HatPreview type={hat.type} color={hat.color} emissive={hat.emissive} size={48} />
                   </div>
                   <span className="text-white/50 text-[9px] font-bold">{hat.name}</span>
-                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />EQUIPPED</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
                     : owned ? <span className="text-white/20 text-[8px] font-bold">EQUIP</span>
                     : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{hat.price}</span>}
                 </motion.button>
@@ -1596,7 +1596,7 @@ export default function ShopPage() {
                     <TrailPreview type={trail.type} color={trail.color} emissive={trail.emissive} size={48} />
                   </div>
                   <span className="text-white/50 text-[9px] font-bold">{trail.name}</span>
-                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />EQUIPPED</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
                     : owned ? <span className="text-white/20 text-[8px] font-bold">EQUIP</span>
                     : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{trail.price}</span>}
                 </motion.button>

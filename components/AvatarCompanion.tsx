@@ -460,49 +460,52 @@ function CapeMesh({ cape, t }: { cape: CapeDef; t: number }) {
   const wave2 = Math.sin(t * 1.1 + 0.6) * 0.012;
   const flutter = Math.sin(t * 2.1) * 0.025;
 
-  // Rainbow cape: cycle through hue based on time
   const isRainbow = cape.id === 'cape_rainbow';
   const capeColor = isRainbow ? hueToColor((t * 45) % 360) : cape.color;
   const capeEmissive = isRainbow ? hueToColor(((t * 45) + 120) % 360) : cape.emissive;
   const capeEI = isRainbow ? 0.7 : cape.emissiveIntensity;
 
-  // All cape pieces are BEHIND the avatar body — z must be ≤ -0.16 to clear body depth
+  const mat = (col: string, ei: number) => (
+    <meshStandardMaterial color={col} emissive={capeEmissive} emissiveIntensity={ei} roughness={0.65} side={THREE.DoubleSide} />
+  );
+
+  // Cape drapes from shoulders as a single curved surface (half-cylinder shell)
   return (
     <group>
-      {/* ── Clasp / brooch ─── */}
+      {/* Clasp brooch at nape */}
       <mesh position={[0, 0.34, -0.17]}>
         <sphereGeometry args={[0.028, 8, 6]} />
         <meshStandardMaterial color={capeEmissive} emissive={capeEmissive} emissiveIntensity={1.0} metalness={0.7} roughness={0.2} />
       </mesh>
 
-      {/* ── Shoulder yoke — rounded cylinder instead of box ─── */}
-      <mesh position={[0, 0.27, -0.18]} rotation={[Math.PI / 2 + 0.05, 0, 0]}>
-        <cylinderGeometry args={[0.015, 0.015, 0.50, 8]} />
-        <meshStandardMaterial color={capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.65} roughness={0.52} />
+      {/* Shoulder drape — half-cylinder wrapping around back */}
+      <mesh position={[0, 0.24, -0.04]} rotation={[0, 0, 0]}>
+        <cylinderGeometry args={[0.26, 0.24, 0.06, 12, 1, true, Math.PI * 0.65, Math.PI * 0.7]} />
+        {mat(capeColor, capeEI * 0.6)}
       </mesh>
 
-      {/* ── Upper — curved plane with rounded shape ─── */}
-      <mesh position={[0, 0.10 + wave1 * 0.3, -0.20 + wave2 * 0.3]} rotation={[-0.04 + flutter * 0.2, 0, 0]}>
-        <planeGeometry args={[0.48, 0.30, 6, 4]} />
-        <meshStandardMaterial color={isRainbow ? hueToColor(((t * 45) + 60) % 360) : capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.28} roughness={0.62} side={THREE.DoubleSide} />
+      {/* Upper back panel — curved cylinder shell */}
+      <mesh position={[0, 0.06 + wave1 * 0.3, -0.04 + wave2 * 0.2]} rotation={[flutter * 0.15, 0, 0]}>
+        <cylinderGeometry args={[0.24, 0.22, 0.32, 10, 2, true, Math.PI * 0.7, Math.PI * 0.6]} />
+        {mat(isRainbow ? hueToColor(((t * 45) + 60) % 360) : capeColor, capeEI * 0.35)}
       </mesh>
 
-      {/* ── Mid — slightly narrower, more wave ─── */}
-      <mesh position={[0, -0.14 + wave1 * 0.7, -0.22 + wave2 * 0.7]} rotation={[-0.07 + flutter * 0.4, 0, 0]}>
-        <planeGeometry args={[0.44, 0.30, 6, 4]} />
-        <meshStandardMaterial color={isRainbow ? hueToColor(((t * 45) + 180) % 360) : capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.32} roughness={0.65} side={THREE.DoubleSide} />
+      {/* Mid panel — curves away from body */}
+      <mesh position={[0, -0.22 + wave1 * 0.7, -0.06 + wave2 * 0.5]} rotation={[flutter * 0.3, 0, 0]}>
+        <cylinderGeometry args={[0.22, 0.19, 0.30, 10, 2, true, Math.PI * 0.72, Math.PI * 0.56]} />
+        {mat(isRainbow ? hueToColor(((t * 45) + 150) % 360) : capeColor, capeEI * 0.4)}
       </mesh>
 
-      {/* ── Lower — tapering ─── */}
-      <mesh position={[0, -0.38 + wave1 * 1.2, -0.23 + wave2 * 1.2]} rotation={[-0.10 + flutter * 0.6, 0, 0]}>
-        <planeGeometry args={[0.38, 0.27, 5, 3]} />
-        <meshStandardMaterial color={isRainbow ? hueToColor(((t * 45) + 240) % 360) : capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.38} roughness={0.65} side={THREE.DoubleSide} />
+      {/* Lower panel — tapers */}
+      <mesh position={[0, -0.46 + wave1 * 1.2, -0.08 + wave2 * 0.9]} rotation={[flutter * 0.5, 0, 0]}>
+        <cylinderGeometry args={[0.19, 0.12, 0.24, 8, 2, true, Math.PI * 0.75, Math.PI * 0.5]} />
+        {mat(isRainbow ? hueToColor(((t * 45) + 240) % 360) : capeColor, capeEI * 0.45)}
       </mesh>
 
-      {/* ── Tail — tapered rounded tip ─── */}
-      <mesh position={[0, -0.56 + wave1 * 1.8, -0.23 + wave2 * 1.8]} rotation={[-0.13 + flutter * 0.9, 0, 0]}>
-        <circleGeometry args={[0.15, 8, 0, Math.PI]} />
-        <meshStandardMaterial color={isRainbow ? hueToColor(((t * 45) + 300) % 360) : capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.45} roughness={0.65} side={THREE.DoubleSide} />
+      {/* Bottom tip — small rounded end */}
+      <mesh position={[0, -0.60 + wave1 * 1.6, -0.10 + wave2 * 1.2]} rotation={[0.1 + flutter * 0.7, 0, 0]}>
+        <sphereGeometry args={[0.08, 8, 4, 0, Math.PI * 2, 0, Math.PI * 0.5]} />
+        {mat(isRainbow ? hueToColor(((t * 45) + 300) % 360) : capeColor, capeEI * 0.5)}
       </mesh>
     </group>
   );
@@ -1350,6 +1353,7 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
       case 'idle': {
         const breathA = Math.sin(t * 1.3) * 0.02;
         bodyRef.current.position.y = breathA;
+        headRef.current.position.y = 0.58 + breathA * 0.5;
         groupRef.current.rotation.z = Math.sin(t * 0.65) * 0.035;
         headRef.current.rotation.z = Math.sin(t * 0.55 + 1.2) * 0.025;
         headRef.current.rotation.y = Math.sin(t * 0.4 + 0.5) * 0.02;
@@ -1660,11 +1664,7 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
         <sphereGeometry args={[0.18, 12, 8]} />
         <meshBasicMaterial color="#ddeeff" side={THREE.BackSide} transparent opacity={0.22} />
       </mesh>
-      {/* Neck */}
-      <mesh position={[0, 0.40, 0]} scale={1.10}>
-        <cylinderGeometry args={[0.07, 0.085, 0.16, 8]} />
-        <meshBasicMaterial color="#ddeeff" side={THREE.BackSide} transparent opacity={0.18} />
-      </mesh>
+      {/* Neck outline — now part of head outline since neck is in headRef */}
       {/* Torso */}
       <mesh scale={[1.08, 1.06, 1.09]}>
         <cylinderGeometry args={[bodyW * 0.46, bodyW * 0.50, bodyH * 0.75, 10]} />
@@ -1724,25 +1724,12 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
 </group>
 
 
-{/* ── Shirt collar / accent ─────────────────────── */}
+{/* ── Shirt collar — rounded ring instead of boxes ─── */}
 {activeTop && (
-  <>
-    {/* Gallér */}
-    <mesh position={[0, 0.32, 0.05]}>
-      <boxGeometry args={[0.24, 0.05, 0.05]} />
-      <meshStandardMaterial color={actualBodyAccent} roughness={0.6} />
-    </mesh>
-    {/* Gallér bal szárny */}
-    <mesh position={[-0.06, 0.30, 0.08]} rotation={[0, 0.3, 0.15]}>
-      <boxGeometry args={[0.08, 0.038, 0.018]} />
-      <meshStandardMaterial color={actualBodyAccent} roughness={0.6} />
-    </mesh>
-    {/* Gallér jobb szárny */}
-    <mesh position={[0.06, 0.30, 0.08]} rotation={[0, -0.3, -0.15]}>
-      <boxGeometry args={[0.08, 0.038, 0.018]} />
-      <meshStandardMaterial color={actualBodyAccent} roughness={0.6} />
-    </mesh>
-  </>
+  <mesh position={[0, 0.33, 0]} rotation={[0.1, 0, 0]}>
+    <torusGeometry args={[0.10, 0.022, 6, 12]} />
+    <meshStandardMaterial color={actualBodyAccent} roughness={0.6} />
+  </mesh>
 )}
 
 {/* ── Gombok ────────────────────────────────────── */}
@@ -1808,20 +1795,19 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
         />
       </mesh>
 
-      {/* ══ NECK ════════════════════════════════════════════ */}
-      <mesh position={[0, 0.40, 0]}>
-        <cylinderGeometry args={[0.07, 0.085, 0.16, 8]} />
-        <meshStandardMaterial
-          color={actualSkinColor}
-          emissive={skinEmissive || '#000000'}
-          emissiveIntensity={skinEmissiveIntensity * 0.3}
-          roughness={0.6}
-          metalness={0.02}
-        />
-      </mesh>
-
-      {/* ══ HEAD GROUP ══════════════════════════════════════ */}
+      {/* ══ HEAD GROUP (includes neck so both move together) ═══ */}
       <group ref={headRef} position={[0, 0.58, 0]}>
+        {/* Neck — inside headRef so it follows head movement */}
+        <mesh position={[0, -0.18, 0]}>
+          <cylinderGeometry args={[0.07, 0.085, 0.20, 8]} />
+          <meshStandardMaterial
+            color={actualSkinColor}
+            emissive={skinEmissive || '#000000'}
+            emissiveIntensity={skinEmissiveIntensity * 0.3}
+            roughness={0.6}
+            metalness={0.02}
+          />
+        </mesh>
         {/* Head */}
         <mesh>
           <sphereGeometry args={[0.18, 16, 12]} />
