@@ -560,3 +560,164 @@ export const ADJEKTIV_ENDUNGEN_POOL: AdjektivEndungItem[] = [
 export function genAdjektivEndungen(count: number): AdjektivEndungItem[] {
   return shuffle(ADJEKTIV_ENDUNGEN_POOL).slice(0, count);
 }
+
+
+// ─── K8: LÜCKENTEXT (Partizipialkonstruktionen) ───────────────────────────────
+// Sentence with a ___ blank; user picks the correct participle / Konjunktiv form.
+
+export interface LueckenTextItem {
+  /** Sentence containing exactly one "___" placeholder */
+  sentence: string;
+  /** 2–3 candidate forms */
+  options: string[];
+  /** Index of correct option */
+  correct: number;
+}
+
+export const LUECKENTEXT_POOL: LueckenTextItem[] = [
+  // Partizip I (present active)
+  { sentence: "Das ___ Kind lief über die Straße.", options: ["laufendes", "gelaufenes", "gelaufene"], correct: 0 },
+  { sentence: "Der ___ Hund bellte laut.", options: ["bellende", "gebellte", "bellender"], correct: 0 },
+  { sentence: "Die ___ Frau winkte uns zu.", options: ["winkende", "gewinkende", "gewinkter"], correct: 0 },
+  { sentence: "Das ___ Wasser glitzerte in der Sonne.", options: ["glitzernde", "geglitzerte", "glitzertes"], correct: 0 },
+  { sentence: "Der ___ Zug kam pünktlich an.", options: ["ankommende", "angekommene", "ankäme"], correct: 0 },
+  { sentence: "Die ___ Schülerinnen schrieben still.", options: ["schreibenden", "geschriebenen", "schreibender"], correct: 0 },
+  { sentence: "Ein ___ Vogel saß auf dem Ast.", options: ["singender", "gesungener", "gesungenem"], correct: 0 },
+  // Partizip II (past passive)
+  { sentence: "Der ___ Brief lag auf dem Tisch.", options: ["geschriebene", "schreibende", "schreibender"], correct: 0 },
+  { sentence: "Das ___ Buch gehört der Bibliothek.", options: ["geliehene", "leihende", "geliehener"], correct: 0 },
+  { sentence: "Die ___ Hausaufgaben wurden bewertet.", options: ["erledigten", "erledigende", "erledigenden"], correct: 0 },
+  { sentence: "Das ___ Fenster ließ kalte Luft herein.", options: ["geöffnete", "öffnende", "geöffneter"], correct: 0 },
+  { sentence: "Der ___ Kuchen duftete herrlich.", options: ["gebackene", "backende", "gebackener"], correct: 0 },
+  { sentence: "Die ___ Aufgabe war schwieriger als erwartet.", options: ["gestellte", "stellende", "gestellten"], correct: 0 },
+  // Partizip I vs II distinction
+  { sentence: "Die ___ Schüler warteten vor dem Klassenzimmer.", options: ["wartenden", "gewartet", "warteten"], correct: 0 },
+  { sentence: "Das ___ Ergebnis überraschte alle.", options: ["errechnete", "errechnende", "errechneten"], correct: 0 },
+  { sentence: "Der ___ Arzt half dem Patienten.", options: ["behandelnde", "behandelte", "behandelten"], correct: 0 },
+  { sentence: "Die ___ Nachrichten berichteten über den Unfall.", options: ["gesendeten", "sendenden", "sendete"], correct: 1 },
+  { sentence: "Der ___ Schaden war enorm.", options: ["entstandene", "entstehende", "entstanden"], correct: 0 },
+  // Konjunktiv II context
+  { sentence: "Er sagte, er ___ keine Zeit.", options: ["hätte", "hat", "hatte"], correct: 0 },
+  { sentence: "Sie meinte, das ___ eine gute Idee.", options: ["wäre", "war", "ist"], correct: 0 },
+  { sentence: "Er fragte, ob sie ___ kommen.", options: ["könnte", "kann", "konnte"], correct: 0 },
+  { sentence: "Sie berichtete, er ___ den Brief bereits geschrieben.", options: ["habe", "hat", "hatte"], correct: 0 },
+  { sentence: "Der Zeuge erklärte, er ___ nichts gesehen.", options: ["habe", "hat", "hätte"], correct: 0 },
+  // Erweitertes Partizip (complex participial phrase)
+  { sentence: "Das ___ Mädchen lächelte freundlich.", options: ["lächelnde", "gelächelte", "gelächeltes"], correct: 0 },
+  { sentence: "Der von allen ___ Lehrer verließ die Schule.", options: ["geschätzte", "schätzende", "schätzenden"], correct: 0 },
+  { sentence: "Das gestern ___ Paket kam nicht an.", options: ["abgeschickte", "abschickende", "abschickendes"], correct: 0 },
+  { sentence: "Die in der Zeitung ___ Meldung stimmte nicht.", options: ["veröffentlichte", "veröffentlichende", "veröffentlichtes"], correct: 0 },
+];
+
+export function genLueckenText(count: number): LueckenTextItem[] {
+  return shuffle(LUECKENTEXT_POOL).slice(0, count);
+}
+
+// ─── K8: SATZGEFÜGE-DIAGRAM (Nebensatztypen) ────────────────────────────────
+// Hauptsatz + Nebensatz shown as connected boxes; user identifies the Nebensatztyp.
+
+export interface SatzgefugeItem {
+  hauptsatz: string;
+  nebensatz: string;
+  konjunktion: string;
+  /** Correct Nebensatztyp string */
+  correctType: string;
+  /** 3–4 choices including correctType */
+  options: string[];
+}
+
+export const SATZGEFUGE_POOL: SatzgefugeItem[] = [
+  // Kausalsatz (weil, da)
+  { hauptsatz: "Er blieb zu Hause,", nebensatz: "weil er krank war.", konjunktion: "weil", correctType: "Kausalsatz", options: ["Kausalsatz", "Finalsatz", "Temporalsatz", "Konditionalsatz"] },
+  { hauptsatz: "Sie weinte,", nebensatz: "da sie die Prüfung nicht bestanden hatte.", konjunktion: "da", correctType: "Kausalsatz", options: ["Kausalsatz", "Konzessivsatz", "Relativsatz", "Modalsatz"] },
+  { hauptsatz: "Er aß nichts,", nebensatz: "weil er keinen Hunger hatte.", konjunktion: "weil", correctType: "Kausalsatz", options: ["Kausalsatz", "Finalsatz", "Konsekutivsatz", "Temporalsatz"] },
+  // Finalsatz (damit, um … zu)
+  { hauptsatz: "Er lernte fleißig,", nebensatz: "damit er die Prüfung besteht.", konjunktion: "damit", correctType: "Finalsatz", options: ["Finalsatz", "Kausalsatz", "Konzessivsatz", "Konditionalsatz"] },
+  { hauptsatz: "Sie rief an,", nebensatz: "damit wir rechtzeitig kamen.", konjunktion: "damit", correctType: "Finalsatz", options: ["Finalsatz", "Temporalsatz", "Kausalsatz", "Modalsatz"] },
+  { hauptsatz: "Er spart Geld,", nebensatz: "damit er sich ein Fahrrad kaufen kann.", konjunktion: "damit", correctType: "Finalsatz", options: ["Finalsatz", "Kausalsatz", "Relativsatz", "Konsekutivsatz"] },
+  // Konzessivsatz (obwohl, obgleich)
+  { hauptsatz: "Er kam zur Schule,", nebensatz: "obwohl er Fieber hatte.", konjunktion: "obwohl", correctType: "Konzessivsatz", options: ["Konzessivsatz", "Kausalsatz", "Finalsatz", "Temporalsatz"] },
+  { hauptsatz: "Sie half ihm,", nebensatz: "obwohl sie wenig Zeit hatte.", konjunktion: "obwohl", correctType: "Konzessivsatz", options: ["Konzessivsatz", "Konditionalsatz", "Kausalsatz", "Relativsatz"] },
+  { hauptsatz: "Er lächelte,", nebensatz: "obgleich er traurig war.", konjunktion: "obgleich", correctType: "Konzessivsatz", options: ["Konzessivsatz", "Kausalsatz", "Modalsatz", "Finalsatz"] },
+  // Konditionalsatz (wenn, falls)
+  { hauptsatz: "Wir fahren in die Stadt,", nebensatz: "wenn das Wetter schön ist.", konjunktion: "wenn", correctType: "Konditionalsatz", options: ["Konditionalsatz", "Temporalsatz", "Kausalsatz", "Konzessivsatz"] },
+  { hauptsatz: "Ich helfe dir,", nebensatz: "falls du Probleme hast.", konjunktion: "falls", correctType: "Konditionalsatz", options: ["Konditionalsatz", "Finalsatz", "Kausalsatz", "Modalsatz"] },
+  { hauptsatz: "Er ruft an,", nebensatz: "wenn er ankommt.", konjunktion: "wenn", correctType: "Konditionalsatz", options: ["Konditionalsatz", "Temporalsatz", "Kausalsatz", "Relativsatz"] },
+  // Temporalsatz (als, wenn, während, bevor, nachdem)
+  { hauptsatz: "Sie weinte,", nebensatz: "als sie die Nachricht hörte.", konjunktion: "als", correctType: "Temporalsatz", options: ["Temporalsatz", "Kausalsatz", "Konzessivsatz", "Konditionalsatz"] },
+  { hauptsatz: "Er aß Mittag,", nebensatz: "während seine Schwester schlief.", konjunktion: "während", correctType: "Temporalsatz", options: ["Temporalsatz", "Konzessivsatz", "Kausalsatz", "Modalsatz"] },
+  { hauptsatz: "Sie wusch sich die Hände,", nebensatz: "bevor sie aß.", konjunktion: "bevor", correctType: "Temporalsatz", options: ["Temporalsatz", "Finalsatz", "Kausalsatz", "Konditionalsatz"] },
+  { hauptsatz: "Wir feierten,", nebensatz: "nachdem wir gewonnen hatten.", konjunktion: "nachdem", correctType: "Temporalsatz", options: ["Temporalsatz", "Kausalsatz", "Finalsatz", "Konzessivsatz"] },
+  // Relativsatz
+  { hauptsatz: "Der Mann,", nebensatz: "der neben uns saß, schlief ein.", konjunktion: "der", correctType: "Relativsatz", options: ["Relativsatz", "Kausalsatz", "Finalsatz", "Konditionalsatz"] },
+  { hauptsatz: "Das Buch,", nebensatz: "das ich gestern las, war spannend.", konjunktion: "das", correctType: "Relativsatz", options: ["Relativsatz", "Temporalsatz", "Konzessivsatz", "Kausalsatz"] },
+  // Konsekutivsatz (sodass)
+  { hauptsatz: "Er rannte so schnell,", nebensatz: "sodass er außer Atem war.", konjunktion: "sodass", correctType: "Konsekutivsatz", options: ["Konsekutivsatz", "Kausalsatz", "Finalsatz", "Modalsatz"] },
+  { hauptsatz: "Es regnete so stark,", nebensatz: "sodass die Straße überschwemmt wurde.", konjunktion: "sodass", correctType: "Konsekutivsatz", options: ["Konsekutivsatz", "Temporalsatz", "Konzessivsatz", "Kausalsatz"] },
+  // Modalsatz (indem, ohne dass)
+  { hauptsatz: "Er löste das Problem,", nebensatz: "indem er kreativ dachte.", konjunktion: "indem", correctType: "Modalsatz", options: ["Modalsatz", "Finalsatz", "Kausalsatz", "Relativsatz"] },
+  { hauptsatz: "Sie bestand die Prüfung,", nebensatz: "indem sie intensiv übte.", konjunktion: "indem", correctType: "Modalsatz", options: ["Modalsatz", "Kausalsatz", "Temporalsatz", "Konzessivsatz"] },
+];
+
+export function genSatzgefuge(count: number): SatzgefugeItem[] {
+  return shuffle(SATZGEFUGE_POOL).slice(0, count);
+}
+
+// ─── K8: EPOCHEN-ZEITSTRAHL (Epochen & Gattungen) ────────────────────────────
+// Author / work → correct literary epoch. 4 epoch chips shown as mini timeline.
+
+export interface EpochenItem {
+  /** Display name, e.g. "Goethe: Faust" */
+  author: string;
+  /** Short context clue, e.g. "1808" */
+  hint?: string;
+  /** Index of correct option in options[] */
+  correct: number;
+  /** 4 epoch names to choose from */
+  options: string[];
+}
+
+export const EPOCHEN_POOL: EpochenItem[] = [
+  // Klassik
+  { author: "Goethe: Faust", hint: "1808", correct: 0, options: ["Klassik", "Romantik", "Barock", "Aufklärung"] },
+  { author: "Schiller: Die Räuber", hint: "1781", correct: 0, options: ["Klassik", "Sturm & Drang", "Aufklärung", "Naturalismus"] },
+  { author: "Schiller: Wilhelm Tell", hint: "1804", correct: 0, options: ["Klassik", "Romantik", "Realismus", "Aufklärung"] },
+  { author: "Goethe: Iphigenie auf Tauris", hint: "1787", correct: 0, options: ["Klassik", "Sturm & Drang", "Barock", "Romantik"] },
+  // Romantik
+  { author: "Eichendorff: Aus dem Leben eines Taugenichts", hint: "1826", correct: 0, options: ["Romantik", "Klassik", "Realismus", "Naturalismus"] },
+  { author: "Hoffmann: Der Sandmann", hint: "1816", correct: 0, options: ["Romantik", "Klassik", "Aufklärung", "Expressionismus"] },
+  { author: "Novalis: Heinrich von Ofterdingen", hint: "1802", correct: 0, options: ["Romantik", "Klassik", "Sturm & Drang", "Naturalismus"] },
+  { author: "Brentano & von Arnim: Des Knaben Wunderhorn", hint: "1806", correct: 0, options: ["Romantik", "Aufklärung", "Barock", "Realismus"] },
+  // Aufklärung
+  { author: "Lessing: Nathan der Weise", hint: "1779", correct: 0, options: ["Aufklärung", "Klassik", "Barock", "Romantik"] },
+  { author: "Lessing: Emilia Galotti", hint: "1772", correct: 0, options: ["Aufklärung", "Klassik", "Sturm & Drang", "Romantik"] },
+  { author: "Kant: Was ist Aufklärung?", hint: "1784", correct: 0, options: ["Aufklärung", "Klassik", "Romantik", "Barock"] },
+  // Sturm & Drang
+  { author: "Goethe: Die Leiden des jungen Werthers", hint: "1774", correct: 0, options: ["Sturm & Drang", "Klassik", "Aufklärung", "Romantik"] },
+  { author: "Schiller: Kabale und Liebe", hint: "1784", correct: 0, options: ["Sturm & Drang", "Klassik", "Aufklärung", "Barock"] },
+  // Barock
+  { author: "Grimmelshausen: Simplicissimus", hint: "1668", correct: 0, options: ["Barock", "Aufklärung", "Mittelalter", "Klassik"] },
+  { author: "Gryphius: Es ist alles eitel", hint: "1643", correct: 0, options: ["Barock", "Aufklärung", "Romantik", "Klassik"] },
+  // Realismus
+  { author: "Fontane: Effi Briest", hint: "1895", correct: 0, options: ["Realismus", "Romantik", "Naturalismus", "Expressionismus"] },
+  { author: "Storm: Der Schimmelreiter", hint: "1888", correct: 0, options: ["Realismus", "Romantik", "Naturalismus", "Klassik"] },
+  { author: "Keller: Romeo und Julia auf dem Dorfe", hint: "1856", correct: 0, options: ["Realismus", "Romantik", "Klassik", "Naturalismus"] },
+  // Naturalismus
+  { author: "Hauptmann: Die Weber", hint: "1892", correct: 0, options: ["Naturalismus", "Realismus", "Expressionismus", "Romantik"] },
+  { author: "Hauptmann: Vor Sonnenaufgang", hint: "1889", correct: 0, options: ["Naturalismus", "Realismus", "Klassik", "Moderne"] },
+  // Expressionismus
+  { author: "Kafka: Die Verwandlung", hint: "1915", correct: 0, options: ["Expressionismus", "Naturalismus", "Realismus", "Moderne"] },
+  { author: "Trakl: Grodek", hint: "1914", correct: 0, options: ["Expressionismus", "Romantik", "Naturalismus", "Moderne"] },
+  { author: "Heym: Der Krieg", hint: "1911", correct: 0, options: ["Expressionismus", "Realismus", "Naturalismus", "Romantik"] },
+  // Moderne / 20. Jh.
+  { author: "Brecht: Der gute Mensch von Sezuan", hint: "1943", correct: 0, options: ["Moderne", "Expressionismus", "Naturalismus", "Romantik"] },
+  { author: "Böll: Ansichten eines Clowns", hint: "1963", correct: 0, options: ["Moderne", "Realismus", "Expressionismus", "Klassik"] },
+  { author: "Dürrenmatt: Der Besuch der alten Dame", hint: "1956", correct: 0, options: ["Moderne", "Expressionismus", "Naturalismus", "Romantik"] },
+  // Mittelalter
+  { author: "Nibelungenlied", hint: "~1200", correct: 0, options: ["Mittelalter", "Barock", "Aufklärung", "Klassik"] },
+  { author: "Walther von der Vogelweide: Minnesang", hint: "~1190", correct: 0, options: ["Mittelalter", "Barock", "Romantik", "Aufklärung"] },
+];
+
+export function genEpochenZeitstrahl(count: number): EpochenItem[] {
+  return shuffle(EPOCHEN_POOL).slice(0, count);
+}

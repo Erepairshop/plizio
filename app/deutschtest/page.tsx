@@ -41,7 +41,10 @@ import ZeitformenZuordnen from "@/components/deutsch-visual/ZeitformenZuordnen";
 import SatzgliedMarkieren from "@/components/deutsch-visual/SatzgliedMarkieren";
 import KasusMarkieren from "@/components/deutsch-visual/KasusMarkieren";
 import AdjektivEndungen from "@/components/deutsch-visual/AdjektivEndungen";
-import { genGenusSortierung, genSatzOrdnen, genBildBeschriften, genFehlerFinden, genWortfamilienBaum, genGeschichteSortieren, genWortartenSortieren, genZeitformenZuordnen, genSatzgliedMarkieren, genKasusMarkieren, genAdjektivEndungen } from "@/lib/deutschVisualGenerators";
+import LueckenText from "@/components/deutsch-visual/LueckenText";
+import SatzgefugeDiagram from "@/components/deutsch-visual/SatzgefugeDiagram";
+import EpochenZeitstrahl from "@/components/deutsch-visual/EpochenZeitstrahl";
+import { genGenusSortierung, genSatzOrdnen, genBildBeschriften, genFehlerFinden, genWortfamilienBaum, genGeschichteSortieren, genWortartenSortieren, genZeitformenZuordnen, genSatzgliedMarkieren, genKasusMarkieren, genAdjektivEndungen, genLueckenText, genSatzgefuge, genEpochenZeitstrahl } from "@/lib/deutschVisualGenerators";
 import { playCorrect, playIncorrect, playClick } from "@/lib/soundEffects";
 
 // ─── TTS HELPER ──────────────────────────────────────────────────────────────
@@ -121,7 +124,7 @@ type Screen = "country" | "grade" | "topics" | "test" | "reward" | "result";
 type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory";
 
 interface TestQuestion {
-  type: "mcq" | "typing" | "bild-wort" | "anlaut-bild" | "genus-sort" | "satz-ordnen" | "bild-beschriften" | "fehler-finden" | "wortfamilien-baum" | "geschichte-sortieren" | "wortarten-sortieren" | "zeitformen-zuordnen" | "satzglied-markieren" | "kasus-markieren" | "adjektiv-endungen";
+  type: "mcq" | "typing" | "bild-wort" | "anlaut-bild" | "genus-sort" | "satz-ordnen" | "bild-beschriften" | "fehler-finden" | "wortfamilien-baum" | "geschichte-sortieren" | "wortarten-sortieren" | "zeitformen-zuordnen" | "satzglied-markieren" | "kasus-markieren" | "adjektiv-endungen" | "luecken-text" | "satzgefuge-diagram" | "epochen-zeitstrahl";
   question: string;
   options?: string[];
   correct?: number;
@@ -147,6 +150,21 @@ interface TestQuestion {
   correctKasus?: 'N'|'A'|'D'|'G'; // kasus-markieren
   stem?: string;           // adjektiv-endungen: adjective stem
   correctEnding?: string;  // adjektiv-endungen: e/er/es/en/em
+  // luecken-text
+  lueckenSentence?: string;  // sentence with "___" blank
+  lueckenOptions?: string[]; // candidate forms
+  lueckenCorrect?: number;   // index of correct option
+  // satzgefuge-diagram
+  hauptsatz?: string;
+  nebensatz?: string;
+  konjunktion?: string;
+  satzgefugeOptions?: string[];
+  satzgefugeCorrect?: number;
+  // epochen-zeitstrahl
+  epochenAuthor?: string;
+  epochenHint?: string;
+  epochenOptions?: string[];
+  epochenCorrect?: number;
 }
 
 // ─── AVATAR LADEN ─────────────────────────────────────────────────────────────
@@ -216,7 +234,7 @@ export default function DeutschTestPage() {
 
   // Helper: generate visual TestQuestions for K2 visual subtopics
   function buildVisualForSubtopic(g: number, sid: string, count: number): TestQuestion[] {
-    if (g !== 2 && g !== 3 && g !== 4 && g !== 5) return [];
+    if (g !== 2 && g !== 3 && g !== 4 && g !== 5 && g !== 8) return [];
     const fShuffle = <T,>(arr: T[]): T[] => {
       const a = [...arr];
       for (let i = a.length - 1; i > 0; i--) {
@@ -485,6 +503,44 @@ export default function DeutschTestPage() {
       }
     }
 
+    // ── K8 visual subtopics ───────────────────────────────────────────────────
+    if (g === 8) {
+      if (sid === "partizipial") {
+        genLueckenText(count).forEach(item => qs.push({
+          type: "luecken-text",
+          question: "Ergänze die Lücke:",
+          lueckenSentence: item.sentence,
+          lueckenOptions: item.options,
+          lueckenCorrect: item.correct,
+          answer: String(item.correct),
+          subtopic: sid,
+        }));
+      } else if (sid === "nebensatztypen") {
+        genSatzgefuge(count).forEach(item => qs.push({
+          type: "satzgefuge-diagram",
+          question: "Bestimme den Nebensatztyp:",
+          hauptsatz: item.hauptsatz,
+          nebensatz: item.nebensatz,
+          konjunktion: item.konjunktion,
+          satzgefugeOptions: item.options,
+          satzgefugeCorrect: item.options.indexOf(item.correctType),
+          answer: String(item.options.indexOf(item.correctType)),
+          subtopic: sid,
+        }));
+      } else if (sid === "epochen") {
+        genEpochenZeitstrahl(count).forEach(item => qs.push({
+          type: "epochen-zeitstrahl",
+          question: "Welcher Epoche gehört das Werk an?",
+          epochenAuthor: item.author,
+          epochenHint: item.hint,
+          epochenOptions: item.options,
+          epochenCorrect: item.correct,
+          answer: String(item.correct),
+          subtopic: sid,
+        }));
+      }
+    }
+
     return qs;
   }
 
@@ -641,6 +697,15 @@ export default function DeutschTestPage() {
       } else if (q.type === "adjektiv-endungen") {
         isCorrect = given === (q.correctEnding ?? "");
         expected = q.correctEnding ?? "";
+      } else if (q.type === "luecken-text") {
+        isCorrect = parseInt(given) === (q.lueckenCorrect ?? -1);
+        expected = String(q.lueckenCorrect ?? 0);
+      } else if (q.type === "satzgefuge-diagram") {
+        isCorrect = parseInt(given) === (q.satzgefugeCorrect ?? -1);
+        expected = String(q.satzgefugeCorrect ?? 0);
+      } else if (q.type === "epochen-zeitstrahl") {
+        isCorrect = parseInt(given) === (q.epochenCorrect ?? -1);
+        expected = String(q.epochenCorrect ?? 0);
       } else {
         isCorrect = checkAnswer(given, q.answer ?? "", grade);
         expected = Array.isArray(q.answer) ? q.answer[0] : q.answer ?? "";
@@ -1134,6 +1199,7 @@ export default function DeutschTestPage() {
                   "genus-sort","satz-ordnen","bild-beschriften","fehler-finden",
                   "wortfamilien-baum","geschichte-sortieren","wortarten-sortieren",
                   "zeitformen-zuordnen","satzglied-markieren","kasus-markieren","adjektiv-endungen",
+                  "luecken-text","satzgefuge-diagram","epochen-zeitstrahl",
                 ]);
                 const VISUAL_TYPE_LABELS: Record<string, string> = {
                   "genus-sort": "Artikel bestimmen 🔵",
@@ -1147,6 +1213,9 @@ export default function DeutschTestPage() {
                   "satzglied-markieren": "Satzglieder markieren 📐",
                   "kasus-markieren": "Kasus bestimmen 📌",
                   "adjektiv-endungen": "Adjektiv-Endungen ✍️",
+                  "luecken-text": "Lückentext ergänzen ✏️",
+                  "satzgefuge-diagram": "Satzgefüge analysieren 🔗",
+                  "epochen-zeitstrahl": "Epoche zuordnen 📅",
                 };
                 const blockStart = Math.floor(qi / 3) * 3;
                 const blockQs = [questions[blockStart], questions[blockStart+1], questions[blockStart+2]].filter(Boolean);
@@ -1505,6 +1574,51 @@ export default function DeutschTestPage() {
                           userAnswer={userAnswerRaw ?? ""}
                           submitted={submitted}
                           onAnswer={(a) => { if (!submitted) { setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
+                        />
+                      </div>
+                    )}
+
+                    {/* LueckenText: K8 Partizipialkonstruktionen — fill blank with correct form */}
+                    {q.type === "luecken-text" && q.lueckenSentence && q.lueckenOptions && q.lueckenCorrect !== undefined && (
+                      <div className="ml-7">
+                        <LueckenText
+                          sentence={q.lueckenSentence}
+                          options={q.lueckenOptions}
+                          correct={q.lueckenCorrect}
+                          userAnswer={userAnswerRaw ?? ""}
+                          submitted={submitted}
+                          onAnswer={(a) => { if (!submitted) { playClick(); setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
+                        />
+                      </div>
+                    )}
+
+                    {/* SatzgefugeDiagram: K8 Nebensatztypen — identify clause type */}
+                    {q.type === "satzgefuge-diagram" && q.hauptsatz && q.nebensatz && q.satzgefugeOptions && q.satzgefugeCorrect !== undefined && (
+                      <div className="ml-7">
+                        <SatzgefugeDiagram
+                          hauptsatz={q.hauptsatz}
+                          nebensatz={q.nebensatz}
+                          konjunktion={q.konjunktion ?? ""}
+                          options={q.satzgefugeOptions}
+                          correct={q.satzgefugeCorrect}
+                          userAnswer={userAnswerRaw ?? ""}
+                          submitted={submitted}
+                          onAnswer={(a) => { if (!submitted) { playClick(); setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
+                        />
+                      </div>
+                    )}
+
+                    {/* EpochenZeitstrahl: K8 Epochen & Gattungen — assign author to epoch */}
+                    {q.type === "epochen-zeitstrahl" && q.epochenAuthor && q.epochenOptions && q.epochenCorrect !== undefined && (
+                      <div className="ml-7">
+                        <EpochenZeitstrahl
+                          author={q.epochenAuthor}
+                          hint={q.epochenHint}
+                          options={q.epochenOptions}
+                          correct={q.epochenCorrect}
+                          userAnswer={userAnswerRaw ?? ""}
+                          submitted={submitted}
+                          onAnswer={(a) => { if (!submitted) { playClick(); setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
                         />
                       </div>
                     )}
