@@ -230,7 +230,7 @@ export default function DeutschTestPage() {
 
   // Helper: generate visual TestQuestions for K2 visual subtopics
   function buildVisualForSubtopic(g: number, sid: string, count: number): TestQuestion[] {
-    if (g !== 2 && g !== 3 && g !== 4 && g !== 5) return [];
+    if (g !== 2 && g !== 3 && g !== 4 && g !== 5 && g !== 6) return [];
     const fShuffle = <T,>(arr: T[]): T[] => {
       const a = [...arr];
       for (let i = a.length - 1; i > 0; i--) {
@@ -518,6 +518,65 @@ export default function DeutschTestPage() {
           options: item.options,
           correctSet: item.correctIndices,
           answer: item.correctIndices.join(","),
+          subtopic: sid,
+        }));
+      }
+    }
+
+    // ── K6 visual subtopics ───────────────────────────────────────────────────
+    if (g === 6) {
+      if (sid === "passiv" || sid === "zustandspassiv") {
+        genPassivUmformer(count).forEach(item => qs.push({
+          type: "passiv-umformer",
+          question: sid === "zustandspassiv" ? "Aktiv → Passiv (sein/werden):" : "Aktiv → Passiv:",
+          aktiv: item.aktiv,
+          passivTemplate: item.passivTemplate,
+          hilfsverb: item.hilfsverb,
+          options: item.options,
+          answer: item.hilfsverb,
+          subtopic: sid,
+        }));
+      } else if (sid === "relativsatz" || sid === "kausalsatz") {
+        genKonjunktionsLuecke(count).forEach(item => qs.push({
+          type: "konjunktions-luecke",
+          question: "Konjunktion / Relativpronomen wählen:",
+          leftHalf: item.left,
+          rightHalf: item.right,
+          conjunction: item.conjunction,
+          options: item.options,
+          answer: item.conjunction,
+          subtopic: sid,
+        }));
+      } else if (sid === "synonyme" || sid === "antonyme" || sid === "komposita_k6" ||
+                 sid === "derivation_k6" || sid === "nominalisierung_k6") {
+        genWortfamilienBaum(count).forEach(item => qs.push({
+          type: "wortfamilien-baum",
+          question: "Wortfamilie:",
+          stamm: item.stamm,
+          options: item.options,
+          correctSet: item.correctIndices,
+          answer: item.correctIndices.join(","),
+          subtopic: sid,
+        }));
+      } else if (sid === "modalverben_k6") {
+        genWortartenSortieren(count).forEach(item => qs.push({
+          type: "wortarten-sortieren",
+          question: "Wortarten bestimmen:",
+          words: item.words,
+          wordCategories: item.categories,
+          answer: item.categories.join(","),
+          subtopic: sid,
+        }));
+      } else {
+        // konjunktiv_2, infinitiv_zu, fremdwoerter, doppelpunkt_k6, gedankenstrich_k6,
+        // stilmittel_*, nominalisierung_k6
+        genFehlerFinden(count).forEach(item => qs.push({
+          type: "fehler-finden",
+          question: "Fehler finden:",
+          words: item.words,
+          errorIndex: item.errorIndex,
+          hint: item.hint,
+          answer: String(item.errorIndex),
           subtopic: sid,
         }));
       }

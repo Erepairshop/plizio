@@ -10157,7 +10157,7 @@ const K6: DeutschTheme[] = [
 { type: "typing", topic: "wortbildung_k6", subtopic: "komposita_k6", question: "Kombiniere: Raum + Anzug = der ___.", answer: ["Raumanzug"] },
 { type: "mcq", topic: "wortbildung_k6", subtopic: "komposita_k6", question: "Welcher Artikel passt zu 'Wildnis'?", options: ["der", "die", "das"], correct: 1 },
 { type: "typing", topic: "wortbildung_k6", subtopic: "komposita_k6", question: "Kombiniere: Deck + Farbe = die ___.", answer: ["Deckfarbe"] },
-{ type: "mcq", topic: "wortbildung_k6", subtopic: "komposita_k6", question: "Was ist ein 'Hochdruckgebiet'?", question: "Was ist ein 'Hochdruckgebiet'?", options: ["Ein Gebiet mit hohem Druck", "Ein Gebiet, das hoch ist", "Ein druckvolles Gebiet"], correct: 0 },
+{ type: "mcq", topic: "wortbildung_k6", subtopic: "komposita_k6", question: "Was ist ein 'Hochdruckgebiet'?", options: ["Ein Gebiet mit hohem Druck", "Ein Gebiet, das hoch ist", "Ein druckvolles Gebiet", "Ein Druckgebiet oben"], correct: 0 },
           // TODO: weitere Fragen ↓
         ],
       },
