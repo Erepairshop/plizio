@@ -353,6 +353,19 @@ export const SKINS: SkinDef[] = [
     shoeColor: "#333300",
     particle: "#EEEE00",
   },
+  // ── Animal skins ────────────────────────────────────────────
+  {
+    id: "bunny",
+    icon: "🐰",
+    price: 14,
+    bodyColor: "#F5F0EB",
+    headColor: "#FAF5F0",
+    limbColor: "#E8E0D8",
+    emissive: "#FFB3C6",
+    emissiveIntensity: 0.2,
+    shoeColor: "#FFB3C6",
+    particle: "#FFB3C6",
+  },
 ];
 
 export function getOwnedSkins(): string[] {
