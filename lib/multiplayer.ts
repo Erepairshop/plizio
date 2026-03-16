@@ -51,23 +51,23 @@ export interface MultiplayerMatch {
 }
 
 export type GameType =
-  | "quickpick" | "memoryflash" | "wordscramble"
-  | "reflexrush" | "numberrush" | "spotdiff" | "sequencerush"
-  | "wordhunt" | "milliomos" | "kodex"
+  | "quickpick" | "wordscramble"
+  | "reflexrush" | "numberrush" | "sequencerush"
+  | "wordhunt"
   | "numberpath" | "minisudoku" | "skyclimb" | "lightout" | "numbermerge" | "nonogram" | "mazerush"
-  | "pingpong" | "airhockey" | "tennis";
+  | "airhockey";
+
+// Games that will be added later (page.tsx multi integration pending):
+// "memoryflash" | "spotdiff" | "milliomos" | "kodex" | "pingpong" | "tennis"
+// "citydrive" | "racetrack"
 
 export const GAME_LABELS: Record<GameType, string> = {
   quickpick: "Quick Pick",
-  memoryflash: "Memory Flash",
   wordscramble: "Word Scramble",
   reflexrush: "Reflex Rush",
   numberrush: "Number Rush",
-  spotdiff: "Spot Diff",
   sequencerush: "Sequence Rush",
   wordhunt: "Word Hunt",
-  milliomos: "Milliomos",
-  kodex: "Kodex",
   numberpath: "Number Path",
   minisudoku: "Mini Sudoku",
   skyclimb: "Sky Climb",
@@ -75,9 +75,7 @@ export const GAME_LABELS: Record<GameType, string> = {
   numbermerge: "Number Merge",
   nonogram: "Nonogram",
   mazerush: "Maze Rush",
-  pingpong: "Ping Pong",
   airhockey: "Air Hockey",
-  tennis: "Tennis",
 };
 
 // Games that have level-based difficulty
@@ -163,6 +161,19 @@ export async function createChallenge(
 
   if (!oppData) return { match: null, error: "opponent_not_found" };
 
+  // Check for existing active challenge between these two players
+  const { data: existing } = await supabase
+    .from("multiplayer_matches")
+    .select("id")
+    .in("status", ["waiting", "playing"])
+    .eq("player1_name", myName)
+    .eq("player2_name", oppData.name)
+    .limit(1);
+
+  if (existing && existing.length > 0) {
+    return { match: null, error: "already_challenged" };
+  }
+
   const userId = await resolvePlayerId(myName);
 
   const isMix = options?.matchType === "mix";
@@ -230,7 +241,8 @@ export async function submitScore(
   const { error } = await supabase
     .from("multiplayer_matches")
     .update({ [field]: score, [doneField]: true })
-    .eq("id", matchId);
+    .eq("id", matchId)
+    .in("status", ["playing", "finished"]);
 
   if (error) return { ok: false };
 
@@ -583,6 +595,7 @@ export async function advanceMixRound(matchId: string): Promise<{ ok: boolean; f
 
 export type MixPollResult =
   | { action: "wait" }
+  | { action: "error"; reason: string }
   | { action: "finished"; myWins: number; oppWins: number }
   | { action: "next"; url: string; roundScores?: { myScore: number; oppScore: number; roundNumber: number; totalRounds: number } };
 
@@ -597,7 +610,12 @@ export async function pollMixRound(
     .select("*")
     .eq("id", matchId)
     .single();
-  if (!data) return { action: "wait" };
+  if (!data) return { action: "error", reason: "match_not_found" };
+
+  // Match was abandoned or cancelled
+  if (data.status === "abandoned" || data.status === "cancelled" || data.status === "declined") {
+    return { action: "error", reason: "match_ended" };
+  }
 
   const totalRounds = (data.mix_games as string[])?.length || 5;
   const dbRound = (data.mix_round as number) || 1;
