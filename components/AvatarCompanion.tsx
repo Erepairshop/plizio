@@ -898,6 +898,16 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
   const reactionMoodRef = useRef<'idle' | 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | 'wave' | 'dance' | 'spin'>('idle');
   const [frameT, setFrameT] = useState(0);
 
+  // ── Ambient idle behavior system ──────────────────────
+  // triggers a random idle animation every 60-90 seconds
+  const idleSeqTimerRef = useRef(65 + Math.random() * 35);
+  const ambientPhaseRef = useRef(-1);   // -1 = inactive, 0..1 = progress
+  const ambientTypeRef = useRef('');
+  const ambientDurRef = useRef(3);
+  const capeGroupRef = useRef<THREE.Group | null>(null);
+  const activeCapeRef = useRef(activeCape);
+  const activeHatRef = useRef(activeHat);
+
   // ── Resolve colors from items ──────────────────────────
   // Default skin (id='default') = treat same as no skin → warm fallback colors
   const hasRealSkin = activeSkin && activeSkin.id !== 'default';
@@ -924,6 +934,8 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
 
   useEffect(() => { isWalkingRef.current = isWalking; }, [isWalking]);
   useEffect(() => { facingRef.current = facing; }, [facing]);
+  useEffect(() => { activeCapeRef.current = activeCape; }, [activeCape]);
+  useEffect(() => { activeHatRef.current = activeHat; }, [activeHat]);
 
   useEffect(() => {
     if (jumpTrigger?.reaction) {
@@ -958,8 +970,8 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
     }
 
     groupRef.current.position.y = lerp(groupRef.current.position.y, jumpHeight, 0.15);
-    // Facing direction (only when not in a spin/dance reaction)
-    if (jumpTimer.current < 0) {
+    // Facing direction (only when not in a reaction and not in a turn/strut ambient anim)
+    if (jumpTimer.current < 0 && !(ambientPhaseRef.current >= 0 && (ambientTypeRef.current === 'turnAround' || ambientTypeRef.current === 'strut'))) {
       // se=screen-right (+45°), sw=screen-left (-45°), ne=away-right (+135°), nw=away-left (-135°)
       const facingMap: Record<string, number> = {
         se:  Math.PI / 4,        //  +45° — right profile toward camera
@@ -1378,6 +1390,165 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
     if (m !== 'disappointed') {
       groupRef.current.rotation.x = lerp(groupRef.current.rotation.x, 0, 0.1);
     }
+
+    // ── Ambient idle behaviors ─────────────────────────────
+    // Only schedule when fully at rest (no reaction, not walking, idle mood)
+    if (jumpTimer.current < 0 && !isWalkingRef.current && moodRef.current === 'idle') {
+      idleSeqTimerRef.current -= delta;
+      if (idleSeqTimerRef.current <= 0 && ambientPhaseRef.current < 0) {
+        const pool: string[] = ['turnAround', 'lookAround', 'stretch', 'shrug'];
+        if (activeCapeRef.current) { pool.push('capeWhoosh'); pool.push('capeWhoosh'); }
+        if (activeHatRef.current) pool.push('hatTip');
+        ambientTypeRef.current = pool[Math.floor(Math.random() * pool.length)];
+        const durMap: Record<string, number> = {
+          turnAround: 6, lookAround: 3.5, stretch: 3,
+          shrug: 2.5, capeWhoosh: 5, hatTip: 3,
+        };
+        ambientDurRef.current = durMap[ambientTypeRef.current] ?? 3;
+        ambientPhaseRef.current = 0;
+        idleSeqTimerRef.current = 60 + Math.random() * 60;
+      }
+    }
+    // If a reaction fires, cancel ambient animation
+    if (jumpTimer.current >= 0 && ambientPhaseRef.current >= 0) {
+      ambientPhaseRef.current = -1;
+    }
+
+    // ── Run ambient animation ───────────────────────────────
+    if (ambientPhaseRef.current >= 0 && jumpTimer.current < 0 && !isWalkingRef.current) {
+      ambientPhaseRef.current += delta / ambientDurRef.current;
+      if (ambientPhaseRef.current > 1) {
+        ambientPhaseRef.current = -1;
+      } else {
+        const ap = ambientPhaseRef.current;
+        // Ease-in / ease-out envelope: 0→1→0 over animation duration
+        const ease = Math.sin(ap * Math.PI);
+        switch (ambientTypeRef.current) {
+
+          // ── Slow 360° catwalk turn ─────────────────────────
+          case 'turnAround': {
+            // Slow incremental turn — 2π over full duration
+            const speed = (Math.PI * 2) / ambientDurRef.current;
+            groupRef.current.rotation.y += speed * delta;
+            // Light walk sway while turning
+            const tf = Math.PI * 2.5;
+            if (leftLegRef.current && rightLegRef.current) {
+              leftLegRef.current.rotation.x = Math.sin(t * tf) * 0.22;
+              rightLegRef.current.rotation.x = -Math.sin(t * tf) * 0.22;
+            }
+            if (leftArmRef.current && rightArmRef.current) {
+              leftArmRef.current.rotation.x = -Math.sin(t * tf) * 0.25;
+              rightArmRef.current.rotation.x = Math.sin(t * tf) * 0.25;
+            }
+            // Confident chin-up near midway
+            headRef.current.rotation.x = -ease * 0.12;
+            break;
+          }
+
+          // ── Curious look around ────────────────────────────
+          case 'lookAround': {
+            const cycle = ap * Math.PI * 2.5;
+            headRef.current.rotation.y = Math.sin(cycle) * 0.6;
+            headRef.current.rotation.x = Math.sin(cycle * 0.6 + 0.8) * 0.18;
+            headRef.current.rotation.z = Math.sin(cycle * 0.4) * 0.1;
+            // Slight body follow
+            if (bodyRef.current) bodyRef.current.position.y = Math.sin(ap * Math.PI) * 0.01;
+            break;
+          }
+
+          // ── Big stretch ────────────────────────────────────
+          case 'stretch': {
+            if (leftArmRef.current && rightArmRef.current) {
+              leftArmRef.current.rotation.z = -0.15 - ease * 1.7;
+              rightArmRef.current.rotation.z = 0.15 + ease * 1.7;
+              leftArmRef.current.rotation.x = -ease * 0.45;
+              rightArmRef.current.rotation.x = -ease * 0.45;
+            }
+            if (leftForearmRef.current && rightForearmRef.current) {
+              leftForearmRef.current.rotation.x = -ease * 0.35;
+              rightForearmRef.current.rotation.x = -ease * 0.35;
+            }
+            headRef.current.rotation.x = -ease * 0.22;
+            bodyRef.current.position.y = ease * 0.04;
+            bodyRef.current.scale.y = 1 + ease * 0.06;
+            // Slight yawn tilt
+            headRef.current.rotation.z = Math.sin(ap * Math.PI * 3) * 0.08;
+            break;
+          }
+
+          // ── Exaggerated shrug ──────────────────────────────
+          case 'shrug': {
+            if (leftArmRef.current && rightArmRef.current) {
+              leftArmRef.current.rotation.z = -0.15 - ease * 0.9;
+              rightArmRef.current.rotation.z = 0.15 + ease * 0.9;
+              leftArmRef.current.rotation.x = ease * 0.15;
+              rightArmRef.current.rotation.x = ease * 0.15;
+            }
+            if (leftForearmRef.current && rightForearmRef.current) {
+              leftForearmRef.current.rotation.z = ease * 0.55;
+              rightForearmRef.current.rotation.z = -ease * 0.55;
+            }
+            if (leftShoulderRef.current && rightShoulderRef.current) {
+              leftShoulderRef.current.position.y = 0.26 + ease * 0.05;
+              rightShoulderRef.current.position.y = 0.26 + ease * 0.05;
+            }
+            // Exaggerated head waggle
+            headRef.current.rotation.z = Math.sin(ap * Math.PI * 3) * 0.18;
+            headRef.current.rotation.y = Math.sin(ap * Math.PI * 2) * 0.1;
+            break;
+          }
+
+          // ── Cape whoosh (slow spin + cape toss) ────────────
+          case 'capeWhoosh': {
+            // First quarter: turn around to show cape
+            // Middle: hold showing back + cape swoosh
+            // Last quarter: turn back to front
+            const halfPI = Math.PI;
+            if (ap < 0.25) {
+              groupRef.current.rotation.y = lerp(0, halfPI, ap / 0.25);
+            } else if (ap < 0.75) {
+              groupRef.current.rotation.y = lerp(halfPI, halfPI * 3, (ap - 0.25) / 0.5);
+              // Cape group swoosh while showing back
+              if (capeGroupRef.current) {
+                const capePhase = (ap - 0.25) / 0.5;
+                capeGroupRef.current.rotation.x = Math.sin(capePhase * Math.PI * 2) * 0.35;
+                capeGroupRef.current.rotation.z = Math.sin(capePhase * Math.PI * 3) * 0.18;
+              }
+              // Arms flair outward
+              if (leftArmRef.current && rightArmRef.current) {
+                const mid = Math.sin(((ap - 0.25) / 0.5) * Math.PI);
+                leftArmRef.current.rotation.z = -0.15 - mid * 0.8;
+                rightArmRef.current.rotation.z = 0.15 + mid * 0.8;
+              }
+            } else {
+              groupRef.current.rotation.y = lerp(halfPI * 3, Math.PI * 2, (ap - 0.75) / 0.25);
+              if (capeGroupRef.current) {
+                capeGroupRef.current.rotation.x = lerp(capeGroupRef.current.rotation.x, 0, 0.1);
+                capeGroupRef.current.rotation.z = lerp(capeGroupRef.current.rotation.z, 0, 0.1);
+              }
+            }
+            break;
+          }
+
+          // ── Hat tip ────────────────────────────────────────
+          case 'hatTip': {
+            // Raise → hold → lower
+            const raise = ap < 0.35 ? ap / 0.35 : ap < 0.65 ? 1 : 1 - (ap - 0.65) / 0.35;
+            if (rightArmRef.current) {
+              rightArmRef.current.rotation.z = 0.15 + raise * 1.4;
+              rightArmRef.current.rotation.x = -raise * 0.65;
+            }
+            if (rightForearmRef.current) {
+              rightForearmRef.current.rotation.x = -raise * 0.45;
+            }
+            // Charming head tilt
+            headRef.current.rotation.z = -raise * 0.12;
+            headRef.current.rotation.y = raise * 0.1;
+            break;
+          }
+        }
+      }
+    }
   });
 
   // Boy hair: short, spiky
@@ -1394,7 +1565,9 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
       {activeTrail && <TrailMesh trail={activeTrail} t={frameT} />}
 
       {/* ══ CAPE (behind body) ═══════════════════════════ */}
-      {activeCape && <CapeMesh cape={activeCape} t={frameT} />}
+      <group ref={capeGroupRef}>
+        {activeCape && <CapeMesh cape={activeCape} t={frameT} />}
+      </group>
 
       {/* ══ BODY — rounded torso ═══════════════════════ */}
 <group ref={bodyRef} position={[0, 0, 0]}>
