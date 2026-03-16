@@ -243,24 +243,56 @@ function GlassesMesh({ glasses }: { glasses: GlassesDef }) {
 
 // ── CAPE MESH ────────────────────────────────────────────
 function CapeMesh({ cape, t }: { cape: CapeDef; t: number }) {
-  const waveY = Math.sin(t * 1.5) * 0.02;
-  const waveZ = Math.sin(t * 1.2) * 0.015;
+  const wave1 = Math.sin(t * 1.4) * 0.016;
+  const wave2 = Math.sin(t * 1.1 + 0.6) * 0.012;
+  const flutter = Math.sin(t * 2.1) * 0.025;
+  const capeDark = cape.color; // main color
   return (
-    <group position={[0, 0.08, -0.17]}>
-      {/* Upper cape */}
-      <mesh position={[0, 0, 0]}>
-        <boxGeometry args={[0.48, 0.06, 0.04]} />
-        <meshStandardMaterial color={cape.color} emissive={cape.emissive} emissiveIntensity={cape.emissiveIntensity * 0.5} roughness={0.6} side={THREE.DoubleSide} />
+    <group>
+      {/* ── Clasp / brooch at front collar ─── */}
+      <mesh position={[0, 0.30, 0.148]}>
+        <sphereGeometry args={[0.022, 8, 6]} />
+        <meshStandardMaterial color={cape.emissive} emissive={cape.emissive} emissiveIntensity={1.2} metalness={0.7} roughness={0.2} />
       </mesh>
-      {/* Main flowing body */}
-      <mesh position={[0, -0.22 + waveY, -0.04 + waveZ]} rotation={[-0.08, 0, 0]}>
-        <boxGeometry args={[0.44, 0.4, 0.025]} />
-        <meshStandardMaterial color={cape.color} emissive={cape.emissive} emissiveIntensity={cape.emissiveIntensity * 0.3} roughness={0.65} side={THREE.DoubleSide} />
+
+      {/* ── Shoulder yoke — the wide collar piece across the back ─── */}
+      <mesh position={[0, 0.27, -0.09]} rotation={[0.08, 0, 0]}>
+        <boxGeometry args={[0.54, 0.09, 0.035]} />
+        <meshStandardMaterial color={capeDark} emissive={cape.emissive} emissiveIntensity={cape.emissiveIntensity * 0.65} roughness={0.52} side={THREE.DoubleSide} />
       </mesh>
-      {/* Bottom tapered section */}
-      <mesh position={[0, -0.46 + waveY * 1.5, -0.05 + waveZ * 1.5]} rotation={[-0.12, 0, 0]}>
-        <boxGeometry args={[0.36, 0.22, 0.018]} />
-        <meshStandardMaterial color={cape.color} emissive={cape.emissive} emissiveIntensity={cape.emissiveIntensity * 0.4} roughness={0.65} side={THREE.DoubleSide} />
+      {/* Left shoulder curve */}
+      <mesh position={[-0.22, 0.23, -0.07]} rotation={[0.1, 0.25, -0.15]}>
+        <boxGeometry args={[0.14, 0.07, 0.025]} />
+        <meshStandardMaterial color={capeDark} emissive={cape.emissive} emissiveIntensity={cape.emissiveIntensity * 0.5} roughness={0.55} side={THREE.DoubleSide} />
+      </mesh>
+      {/* Right shoulder curve */}
+      <mesh position={[0.22, 0.23, -0.07]} rotation={[0.1, -0.25, 0.15]}>
+        <boxGeometry args={[0.14, 0.07, 0.025]} />
+        <meshStandardMaterial color={capeDark} emissive={cape.emissive} emissiveIntensity={cape.emissiveIntensity * 0.5} roughness={0.55} side={THREE.DoubleSide} />
+      </mesh>
+
+      {/* ── Upper body — hangs from shoulders ─── */}
+      <mesh position={[0, 0.10 + wave1 * 0.3, -0.12 + wave2 * 0.3]} rotation={[-0.05 + flutter * 0.2, 0, 0]}>
+        <boxGeometry args={[0.50, 0.32, 0.020]} />
+        <meshStandardMaterial color={capeDark} emissive={cape.emissive} emissiveIntensity={cape.emissiveIntensity * 0.28} roughness={0.62} side={THREE.DoubleSide} />
+      </mesh>
+
+      {/* ── Mid body ─── */}
+      <mesh position={[0, -0.14 + wave1 * 0.7, -0.14 + wave2 * 0.7]} rotation={[-0.08 + flutter * 0.4, 0, 0]}>
+        <boxGeometry args={[0.47, 0.32, 0.016]} />
+        <meshStandardMaterial color={capeDark} emissive={cape.emissive} emissiveIntensity={cape.emissiveIntensity * 0.32} roughness={0.65} side={THREE.DoubleSide} />
+      </mesh>
+
+      {/* ── Lower body — wider flutter ─── */}
+      <mesh position={[0, -0.38 + wave1 * 1.2, -0.15 + wave2 * 1.2]} rotation={[-0.11 + flutter * 0.6, 0, 0]}>
+        <boxGeometry args={[0.44, 0.28, 0.013]} />
+        <meshStandardMaterial color={capeDark} emissive={cape.emissive} emissiveIntensity={cape.emissiveIntensity * 0.38} roughness={0.65} side={THREE.DoubleSide} />
+      </mesh>
+
+      {/* ── Tail — tapered tip ─── */}
+      <mesh position={[0, -0.58 + wave1 * 1.8, -0.15 + wave2 * 1.8]} rotation={[-0.14 + flutter * 0.9, 0, 0]}>
+        <boxGeometry args={[0.32, 0.22, 0.010]} />
+        <meshStandardMaterial color={capeDark} emissive={cape.emissive} emissiveIntensity={cape.emissiveIntensity * 0.45} roughness={0.65} side={THREE.DoubleSide} />
       </mesh>
     </group>
   );
