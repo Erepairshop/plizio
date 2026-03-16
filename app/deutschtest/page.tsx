@@ -28,6 +28,10 @@ import {
 import { getRandomPassage, type Lesepassage, type LeseQuestion } from "@/lib/deutschLesetest";
 import { generateForSubtopics } from "@/lib/deutschGenerators";
 import { checkAnswer } from "@/lib/deutschValidation";
+import GenusSortierung from "@/components/deutsch-visual/GenusSortierung";
+import SatzOrdnen from "@/components/deutsch-visual/SatzOrdnen";
+import BildBeschriften from "@/components/deutsch-visual/BildBeschriften";
+import { genGenusSortierung, genSatzOrdnen, genBildBeschriften } from "@/lib/deutschVisualGenerators";
 import { playCorrect, playIncorrect, playClick } from "@/lib/soundEffects";
 
 // ─── TTS HELPER ──────────────────────────────────────────────────────────────
@@ -107,7 +111,7 @@ type Screen = "country" | "grade" | "topics" | "test" | "reward" | "result";
 type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory";
 
 interface TestQuestion {
-  type: "mcq" | "typing" | "bild-wort" | "anlaut-bild";
+  type: "mcq" | "typing" | "bild-wort" | "anlaut-bild" | "genus-sort" | "satz-ordnen" | "bild-beschriften";
   question: string;
   options?: string[];
   correct?: number;
@@ -116,6 +120,9 @@ interface TestQuestion {
   subtopic?: string;
   passageText?: string;
   passageTitle?: string;
+  word?: string;         // genus-sort: the noun to classify
+  shuffled?: string[];   // satz-ordnen: shuffled word array
+  imageKey?: string;     // bild-beschriften: G1_ICONS key
 }
 
 // ─── AVATAR LADEN ─────────────────────────────────────────────────────────────
@@ -183,6 +190,46 @@ export default function DeutschTestPage() {
 
   // ─── FRAGEN AUFBAUEN ────────────────────────────────────────────────────────
 
+  // Helper: generate visual TestQuestions for K2 visual subtopics
+  function buildVisualForSubtopic(g: number, sid: string, count: number): TestQuestion[] {
+    if (g !== 2) return [];
+    const fShuffle = <T,>(arr: T[]): T[] => {
+      const a = [...arr];
+      for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    };
+    const qs: TestQuestion[] = [];
+    if (sid === "artikel_k2" || sid === "nomen_k2") {
+      genGenusSortierung(Math.ceil(count * 0.6)).forEach(item => qs.push({
+        type: "genus-sort",
+        question: "Artikel bestimmen:",
+        word: item.word,
+        answer: item.artikel,
+        subtopic: sid,
+      }));
+      genBildBeschriften(Math.floor(count * 0.4)).forEach(item => qs.push({
+        type: "bild-beschriften",
+        question: "Bild beschriften:",
+        imageKey: item.imageKey,
+        options: item.options,
+        correct: item.correct,
+        subtopic: sid,
+      }));
+    } else if (sid === "wortstellung_k2") {
+      genSatzOrdnen(count).forEach(s => qs.push({
+        type: "satz-ordnen",
+        question: "Satz ordnen:",
+        shuffled: fShuffle([...s.words]),
+        answer: s.words.join(" "),
+        subtopic: sid,
+      }));
+    }
+    return qs;
+  }
+
   // ─── FRAGEN AUFBAUEN — min. 10 Gruppen à 3, round-robin ─────────────────────
 
   function buildTest(g: number, subtopicIds: string[], withLesetest: boolean) {
@@ -196,6 +243,7 @@ export default function DeutschTestPage() {
       const combined = [
         ...getDeutschQuestions(g, [sid], 20),
         ...generateForSubtopics([sid], 12),
+        ...buildVisualForSubtopic(g, sid, 6),
       ];
       for (let i = combined.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
@@ -270,6 +318,13 @@ export default function DeutschTestPage() {
         } else {
           expected = q.options?.[q.correct ?? 0] ?? "";
         }
+      } else if (q.type === "genus-sort" || q.type === "satz-ordnen") {
+        const correctAns = Array.isArray(q.answer) ? q.answer[0] : q.answer ?? "";
+        isCorrect = given === correctAns;
+        expected = correctAns;
+      } else if (q.type === "bild-beschriften") {
+        isCorrect = given === (q.options?.[q.correct ?? 0] ?? "");
+        expected = q.options?.[q.correct ?? 0] ?? "";
       } else {
         isCorrect = checkAnswer(given, q.answer ?? "", grade);
         expected = Array.isArray(q.answer) ? q.answer[0] : q.answer ?? "";
@@ -790,14 +845,20 @@ export default function DeutschTestPage() {
                       <span className="font-mono text-xs text-slate-400 w-5 text-right shrink-0" style={{ lineHeight: '28px' }}>
                         {qi + 1}.
                       </span>
-                      <p className="flex-1 text-slate-800 text-sm font-semibold" style={{ lineHeight: '28px' }}>{q.type === "anlaut-bild" ? "" : q.question}</p>
+                      <p className="flex-1 text-slate-800 text-sm font-semibold" style={{ lineHeight: '28px' }}>
+                        {q.type === "anlaut-bild" ? "" : q.question}
+                      </p>
                       {/* TTS button */}
                       <button
                         type="button"
                         onClick={() => speakText(
                           q.type === "anlaut-bild"
                             ? (G1_WORD_LABELS[q.question] ?? q.question)
-                            : q.question
+                            : q.type === "genus-sort"
+                              ? (q.word ?? q.question)
+                              : q.type === "satz-ordnen"
+                                ? (Array.isArray(q.answer) ? q.answer[0] : q.answer ?? q.question)
+                                : q.question
                         )}
                         className="shrink-0 w-6 h-6 flex items-center justify-center rounded-full bg-blue-50 hover:bg-blue-100 border border-blue-200 text-blue-400 transition-colors text-xs"
                         style={{ marginTop: 1 }}
@@ -945,6 +1006,46 @@ export default function DeutschTestPage() {
                         </>
                       );
                     })()}
+
+                    {/* Genus-Sortierung: tap der/die/das */}
+                    {q.type === "genus-sort" && q.word && (
+                      <div className="ml-7 py-2 rounded-xl bg-slate-50/70 border border-slate-100 px-3 my-1">
+                        <GenusSortierung
+                          word={q.word}
+                          correct={q.answer as "der" | "die" | "das"}
+                          userAnswer={userAnswerRaw ?? ""}
+                          submitted={submitted}
+                          onAnswer={(a) => { if (!submitted) { playClick(); setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
+                        />
+                      </div>
+                    )}
+
+                    {/* Satz-Ordnen: drag word chips into order */}
+                    {q.type === "satz-ordnen" && q.shuffled && (
+                      <div className="ml-7 py-2 rounded-xl bg-slate-50/70 border border-slate-100 px-3 my-1">
+                        <SatzOrdnen
+                          shuffled={q.shuffled}
+                          answer={Array.isArray(q.answer) ? q.answer[0] : q.answer ?? ""}
+                          userAnswer={userAnswerRaw ?? ""}
+                          submitted={submitted}
+                          onAnswer={(a) => { if (!submitted) { setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
+                        />
+                      </div>
+                    )}
+
+                    {/* Bild-Beschriften: image → pick correct Artikel+Nomen phrase */}
+                    {q.type === "bild-beschriften" && q.imageKey && q.options && (
+                      <div className="ml-7 py-2 rounded-xl bg-slate-50/70 border border-slate-100 px-3 my-1">
+                        <BildBeschriften
+                          imageKey={q.imageKey}
+                          options={q.options}
+                          correct={q.correct ?? 0}
+                          userAnswer={userAnswerRaw ?? ""}
+                          submitted={submitted}
+                          onAnswer={(a) => { if (!submitted) { playClick(); setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
+                        />
+                      </div>
+                    )}
 
                     {/* Typing input — transparent, sits on a ruled line */}
                     {q.type === "typing" && (
