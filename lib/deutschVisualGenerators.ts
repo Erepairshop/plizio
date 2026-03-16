@@ -380,3 +380,98 @@ export function genGeschichteSortieren(count: number): Array<{
     return { sentences: item.sentences, shuffledOrder };
   });
 }
+
+// ─── WORTARTEN SORTIEREN (K3) ─────────────────────────────────────────────────
+
+export interface WortartenItem {
+  words: string[];
+  categories: ('N' | 'V' | 'A')[];
+}
+
+export const WORTARTEN_POOL: WortartenItem[] = [
+  { words: ["Hund",    "laufen",   "groß",    "Schule",   "trinken",  "schön"],    categories: ['N','V','A','N','V','A'] },
+  { words: ["springen","Apfel",    "schnell", "schreiben","Buch",     "kalt"],      categories: ['V','N','A','V','N','A'] },
+  { words: ["Blume",   "blühen",   "bunt",    "Katze",    "spielen",  "klein"],     categories: ['N','V','A','N','V','A'] },
+  { words: ["warm",    "Haus",     "bauen",   "alt",      "Vogel",    "fliegen"],   categories: ['A','N','V','A','N','V'] },
+  { words: ["lesen",   "Sonne",    "hell",    "singen",   "Berg",     "hoch"],      categories: ['V','N','A','V','N','A'] },
+  { words: ["Tisch",   "stehen",   "hart",    "Regen",    "fallen",   "nass"],      categories: ['N','V','A','N','V','A'] },
+  { words: ["Mutter",  "kochen",   "lecker",  "Freund",   "helfen",   "freundlich"],categories: ['N','V','A','N','V','A'] },
+  { words: ["fahren",  "Zug",      "schnell", "schwimmen","Fisch",    "kalt"],      categories: ['V','N','A','V','N','A'] },
+  { words: ["König",   "regieren", "mächtig", "Ritter",   "kämpfen",  "tapfer"],    categories: ['N','V','A','N','V','A'] },
+  { words: ["leise",   "Musik",    "spielen", "laut",     "Trompete", "üben"],      categories: ['A','N','V','A','N','V'] },
+  { words: ["Baum",    "wachsen",  "grün",    "Wiese",    "blühen",   "bunt"],      categories: ['N','V','A','N','V','A'] },
+  { words: ["rennen",  "Kind",     "müde",    "tanzen",   "Mädchen",  "fröhlich"],  categories: ['V','N','A','V','N','A'] },
+];
+
+export function genWortartenSortieren(count: number): WortartenItem[] {
+  return shuffle(WORTARTEN_POOL).slice(0, count);
+}
+
+// ─── ZEITFORMEN ZUORDNEN (K3) ─────────────────────────────────────────────────
+
+export interface ZeitformItem {
+  sentence: string;
+  zeitform: 'pres' | 'praet' | 'perf';
+}
+
+export const ZEITFORM_POOL: ZeitformItem[] = [
+  // Präsens
+  { sentence: "Das Kind spielt im Garten.", zeitform: 'pres' },
+  { sentence: "Die Katze schläft auf dem Sofa.", zeitform: 'pres' },
+  { sentence: "Ich lese ein spannendes Buch.", zeitform: 'pres' },
+  { sentence: "Wir essen heute Pizza.", zeitform: 'pres' },
+  { sentence: "Der Hund bellt laut.", zeitform: 'pres' },
+  { sentence: "Sie singt ein schönes Lied.", zeitform: 'pres' },
+  // Präteritum
+  { sentence: "Das Kind spielte im Garten.", zeitform: 'praet' },
+  { sentence: "Er schlief lange.", zeitform: 'praet' },
+  { sentence: "Sie las ein Buch.", zeitform: 'praet' },
+  { sentence: "Wir aßen Pizza.", zeitform: 'praet' },
+  { sentence: "Der Hund bellte laut.", zeitform: 'praet' },
+  { sentence: "Er schrieb einen Brief.", zeitform: 'praet' },
+  { sentence: "Sie sang ein Lied.", zeitform: 'praet' },
+  { sentence: "Es war einmal ein König.", zeitform: 'praet' },
+  // Perfekt
+  { sentence: "Das Kind hat gespielt.", zeitform: 'perf' },
+  { sentence: "Sie hat das Buch gelesen.", zeitform: 'perf' },
+  { sentence: "Wir haben Pizza gegessen.", zeitform: 'perf' },
+  { sentence: "Er hat einen Brief geschrieben.", zeitform: 'perf' },
+  { sentence: "Sie hat ein Lied gesungen.", zeitform: 'perf' },
+  { sentence: "Der Hund hat gebellt.", zeitform: 'perf' },
+  { sentence: "Er ist nach Hause gegangen.", zeitform: 'perf' },
+  { sentence: "Sie haben Fußball gespielt.", zeitform: 'perf' },
+];
+
+export function genZeitformenZuordnen(count: number): ZeitformItem[] {
+  return shuffle(ZEITFORM_POOL).slice(0, count);
+}
+
+// ─── SATZGLIED MARKIEREN (K3) ─────────────────────────────────────────────────
+
+export interface SatzgliedItem {
+  words: string[];
+  labels: string[];   // 'S' | 'P' | 'O' | '' per word
+}
+
+export const SATZGLIED_POOL: SatzgliedItem[] = [
+  // S P O patterns
+  { words: ["Der", "Hund", "frisst", "den", "Knochen."],          labels: ['S','S','P','O','O'] },
+  { words: ["Die", "Katze", "trinkt", "die", "Milch."],           labels: ['S','S','P','O','O'] },
+  { words: ["Das", "Kind", "liest", "ein", "Buch."],              labels: ['S','S','P','O','O'] },
+  { words: ["Die", "Mutter", "kocht", "die", "Suppe."],           labels: ['S','S','P','O','O'] },
+  { words: ["Der", "Junge", "spielt", "Fußball."],                labels: ['S','S','P','O'] },
+  { words: ["Die", "Lehrerin", "erklärt", "die", "Aufgabe."],     labels: ['S','S','P','O','O'] },
+  { words: ["Das", "Mädchen", "malt", "ein", "Bild."],            labels: ['S','S','P','O','O'] },
+  { words: ["Der", "Vater", "kauft", "Äpfel."],                   labels: ['S','S','P','O'] },
+  { words: ["Der", "Hund", "beißt", "den", "Ball."],              labels: ['S','S','P','O','O'] },
+  { words: ["Die", "Ente", "frisst", "das", "Brot."],             labels: ['S','S','P','O','O'] },
+  { words: ["Der", "Pilot", "fliegt", "das", "Flugzeug."],        labels: ['S','S','P','O','O'] },
+  { words: ["Anna", "schreibt", "einen", "Brief."],               labels: ['S','P','O','O'] },
+  { words: ["Paul", "liest", "das", "Buch."],                     labels: ['S','P','O','O'] },
+  { words: ["Max", "spielt", "Gitarre."],                         labels: ['S','P','O'] },
+  { words: ["Tim", "öffnet", "das", "Fenster."],                  labels: ['S','P','O','O'] },
+];
+
+export function genSatzgliedMarkieren(count: number): SatzgliedItem[] {
+  return shuffle(SATZGLIED_POOL).slice(0, count);
+}

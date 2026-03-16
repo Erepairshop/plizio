@@ -36,7 +36,10 @@ import BildBeschriften from "@/components/deutsch-visual/BildBeschriften";
 import FehlerFinden from "@/components/deutsch-visual/FehlerFinden";
 import WortfamilienBaum from "@/components/deutsch-visual/WortfamilienBaum";
 import GeschichteSortieren from "@/components/deutsch-visual/GeschichteSortieren";
-import { genGenusSortierung, genSatzOrdnen, genBildBeschriften, genFehlerFinden, genWortfamilienBaum, genGeschichteSortieren } from "@/lib/deutschVisualGenerators";
+import WortartenSortieren from "@/components/deutsch-visual/WortartenSortieren";
+import ZeitformenZuordnen from "@/components/deutsch-visual/ZeitformenZuordnen";
+import SatzgliedMarkieren from "@/components/deutsch-visual/SatzgliedMarkieren";
+import { genGenusSortierung, genSatzOrdnen, genBildBeschriften, genFehlerFinden, genWortfamilienBaum, genGeschichteSortieren, genWortartenSortieren, genZeitformenZuordnen, genSatzgliedMarkieren } from "@/lib/deutschVisualGenerators";
 import { playCorrect, playIncorrect, playClick } from "@/lib/soundEffects";
 
 // ─── TTS HELPER ──────────────────────────────────────────────────────────────
@@ -116,7 +119,7 @@ type Screen = "country" | "grade" | "topics" | "test" | "reward" | "result";
 type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory";
 
 interface TestQuestion {
-  type: "mcq" | "typing" | "bild-wort" | "anlaut-bild" | "genus-sort" | "satz-ordnen" | "bild-beschriften" | "fehler-finden" | "wortfamilien-baum" | "geschichte-sortieren";
+  type: "mcq" | "typing" | "bild-wort" | "anlaut-bild" | "genus-sort" | "satz-ordnen" | "bild-beschriften" | "fehler-finden" | "wortfamilien-baum" | "geschichte-sortieren" | "wortarten-sortieren" | "zeitformen-zuordnen" | "satzglied-markieren";
   question: string;
   options?: string[];
   correct?: number;
@@ -128,12 +131,16 @@ interface TestQuestion {
   word?: string;           // genus-sort: the noun to classify
   shuffled?: string[];     // satz-ordnen: shuffled word array
   imageKey?: string;       // bild-beschriften: G1_ICONS key
-  words?: string[];        // fehler-finden: sentence as word array
+  words?: string[];        // fehler-finden / satzglied: sentence as word array
   errorIndex?: number;     // fehler-finden: index of wrong word
   stamm?: string;          // wortfamilien: root word
   correctSet?: number[];   // wortfamilien: correct indices
   sentences?: string[];    // geschichte-sortieren: correct sentence order
   shuffledOrder?: number[];// geschichte-sortieren: display shuffle
+  wordCategories?: ('N'|'V'|'A')[];  // wortarten-sortieren: correct category per word
+  sentence?: string;       // zeitformen-zuordnen: the sentence
+  correctZeitform?: 'pres'|'praet'|'perf'; // zeitformen-zuordnen
+  correctLabels?: string[];// satzglied-markieren: S/P/O/'' per word
 }
 
 // ─── AVATAR LADEN ─────────────────────────────────────────────────────────────
@@ -203,7 +210,7 @@ export default function DeutschTestPage() {
 
   // Helper: generate visual TestQuestions for K2 visual subtopics
   function buildVisualForSubtopic(g: number, sid: string, count: number): TestQuestion[] {
-    if (g !== 2) return [];
+    if (g !== 2 && g !== 3) return [];
     const fShuffle = <T,>(arr: T[]): T[] => {
       const a = [...arr];
       for (let i = a.length - 1; i > 0; i--) {
@@ -267,6 +274,59 @@ export default function DeutschTestPage() {
         subtopic: sid,
       }));
     }
+
+    // ── K3 visual subtopics ───────────────────────────────────────────────────
+    if (g === 3) {
+      if (sid === "wortarten_k3" || sid === "plural" || sid === "verben_k3" || sid === "steigerung_k3" || sid === "wortfamilien_k3") {
+        genWortartenSortieren(count).forEach(item => qs.push({
+          type: "wortarten-sortieren",
+          question: "Wortarten bestimmen:",
+          words: item.words,
+          wordCategories: item.categories,
+          answer: item.categories.join(","),
+          subtopic: sid,
+        }));
+      } else if (sid === "zeitformen_komplett_k3" || sid === "praeteritum_k3") {
+        genZeitformenZuordnen(count).forEach(item => qs.push({
+          type: "zeitformen-zuordnen",
+          question: "Zeitform bestimmen:",
+          sentence: item.sentence,
+          correctZeitform: item.zeitform,
+          answer: item.zeitform,
+          subtopic: sid,
+        }));
+      } else if (sid === "satzglieder_k3" || sid === "satzbau_k3") {
+        genSatzgliedMarkieren(count).forEach(item => qs.push({
+          type: "satzglied-markieren",
+          question: "Satzglieder markieren:",
+          words: item.words,
+          correctLabels: item.labels,
+          answer: item.labels.join(","),
+          subtopic: sid,
+        }));
+      } else if (sid === "direkte_rede_k3") {
+        genFehlerFinden(count).forEach(item => qs.push({
+          type: "fehler-finden",
+          question: "Fehler finden:",
+          words: item.words,
+          errorIndex: item.errorIndex,
+          hint: item.hint,
+          answer: String(item.errorIndex),
+          subtopic: sid,
+        }));
+      } else if (sid === "wortfamilien_k3" || sid === "rechtschreibung_k3" || sid === "ie_ih" || sid === "ss_sz" || sid === "doppelkonsonanten") {
+        genWortfamilienBaum(count).forEach(item => qs.push({
+          type: "wortfamilien-baum",
+          question: "Wortfamilie:",
+          stamm: item.stamm,
+          options: item.options,
+          correctSet: item.correctIndices,
+          answer: item.correctIndices.join(","),
+          subtopic: sid,
+        }));
+      }
+    }
+
     return qs;
   }
 
@@ -377,6 +437,16 @@ export default function DeutschTestPage() {
         const correctOrder = (q.sentences ?? []).map((_, i) => i).join(",");
         isCorrect = given === correctOrder;
         expected = correctOrder;
+      } else if (q.type === "wortarten-sortieren") {
+        const correctCats = (q.wordCategories ?? []).join(",");
+        isCorrect = given === correctCats;
+        expected = correctCats;
+      } else if (q.type === "zeitformen-zuordnen") {
+        isCorrect = given === (q.correctZeitform ?? "");
+        expected = q.correctZeitform ?? "";
+      } else if (q.type === "satzglied-markieren") {
+        isCorrect = given === (q.correctLabels ?? []).join(",");
+        expected = (q.correctLabels ?? []).join(",");
       } else {
         isCorrect = checkAnswer(given, q.answer ?? "", grade);
         expected = Array.isArray(q.answer) ? q.answer[0] : q.answer ?? "";
@@ -1134,6 +1204,45 @@ export default function DeutschTestPage() {
                         <GeschichteSortieren
                           sentences={q.sentences}
                           shuffledOrder={q.shuffledOrder}
+                          userAnswer={userAnswerRaw ?? ""}
+                          submitted={submitted}
+                          onAnswer={(a) => { if (!submitted) { setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
+                        />
+                      </div>
+                    )}
+
+                    {/* Wortarten-Sortieren: tap to assign Nomen/Verb/Adjektiv */}
+                    {q.type === "wortarten-sortieren" && q.words && q.wordCategories && (
+                      <div className="ml-7">
+                        <WortartenSortieren
+                          words={q.words}
+                          categories={q.wordCategories}
+                          userAnswer={userAnswerRaw ?? ""}
+                          submitted={submitted}
+                          onAnswer={(a) => { if (!submitted) { setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
+                        />
+                      </div>
+                    )}
+
+                    {/* Zeitformen-Zuordnen: tap Präsens/Präteritum/Perfekt */}
+                    {q.type === "zeitformen-zuordnen" && q.sentence && q.correctZeitform && (
+                      <div className="ml-7">
+                        <ZeitformenZuordnen
+                          sentence={q.sentence}
+                          correctZeitform={q.correctZeitform}
+                          userAnswer={userAnswerRaw ?? ""}
+                          submitted={submitted}
+                          onAnswer={(a) => { if (!submitted) { setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
+                        />
+                      </div>
+                    )}
+
+                    {/* Satzglied-Markieren: tap S/P/O labels onto words */}
+                    {q.type === "satzglied-markieren" && q.words && q.correctLabels && (
+                      <div className="ml-7">
+                        <SatzgliedMarkieren
+                          words={q.words}
+                          correctLabels={q.correctLabels}
                           userAnswer={userAnswerRaw ?? ""}
                           submitted={submitted}
                           onAnswer={(a) => { if (!submitted) { setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
