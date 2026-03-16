@@ -216,7 +216,7 @@ export default function DeutschTestPage() {
 
   // Helper: generate visual TestQuestions for K2 visual subtopics
   function buildVisualForSubtopic(g: number, sid: string, count: number): TestQuestion[] {
-    if (g !== 2 && g !== 3 && g !== 4) return [];
+    if (g !== 2 && g !== 3 && g !== 4 && g !== 5) return [];
     const fShuffle = <T,>(arr: T[]): T[] => {
       const a = [...arr];
       for (let i = a.length - 1; i > 0; i--) {
@@ -390,6 +390,96 @@ export default function DeutschTestPage() {
           errorIndex: item.errorIndex,
           hint: item.hint,
           answer: String(item.errorIndex),
+          subtopic: sid,
+        }));
+      }
+    }
+
+    // ── K5 visual subtopics ───────────────────────────────────────────────────
+    if (g === 5) {
+      if (sid === "adverbiale" || sid === "wortstellung") {
+        genSatzgliedMarkieren(count).forEach(item => qs.push({
+          type: "satzglied-markieren",
+          question: "Satzglieder markieren:",
+          words: item.words,
+          correctLabels: item.labels,
+          answer: item.labels.join(","),
+          subtopic: sid,
+        }));
+      } else if (sid === "adjektivdeklination_k5") {
+        const half = Math.ceil(count / 2);
+        genAdjektivEndungen(half).forEach(item => qs.push({
+          type: "adjektiv-endungen",
+          question: "Adjektiv-Endung:",
+          sentence: item.phrase,
+          stem: item.stem,
+          correctEnding: item.ending,
+          answer: item.ending,
+          subtopic: sid,
+        }));
+        genKasusMarkieren(count - half).forEach(item => qs.push({
+          type: "kasus-markieren",
+          question: "Kasus bestimmen:",
+          sentence: item.sentence,
+          highlight: item.highlight,
+          correctKasus: item.kasus,
+          answer: item.kasus,
+          subtopic: sid,
+        }));
+      } else if (sid === "praepositionen_k5") {
+        genKasusMarkieren(count).forEach(item => qs.push({
+          type: "kasus-markieren",
+          question: "Kasus bestimmen:",
+          sentence: item.sentence,
+          highlight: item.highlight,
+          correctKasus: item.kasus,
+          answer: item.kasus,
+          subtopic: sid,
+        }));
+      } else if (sid === "partizip_1_k5" || sid === "partizip_2_k5" || sid === "plusquamperfekt_k5") {
+        genZeitformenZuordnen(count).forEach(item => qs.push({
+          type: "zeitformen-zuordnen",
+          question: "Zeitform bestimmen:",
+          sentence: item.sentence,
+          correctZeitform: item.zeitform,
+          answer: item.zeitform,
+          subtopic: sid,
+        }));
+      } else if (sid === "pronomen" || sid === "relativpronomen" || sid === "adverbien_k5") {
+        genWortartenSortieren(count).forEach(item => qs.push({
+          type: "wortarten-sortieren",
+          question: "Wortarten bestimmen:",
+          words: item.words,
+          wordCategories: item.categories,
+          answer: item.categories.join(","),
+          subtopic: sid,
+        }));
+      } else if (sid === "konjunktionen_k5") {
+        genSatzOrdnen(count).forEach(s => qs.push({
+          type: "satz-ordnen",
+          question: "Satz ordnen:",
+          shuffled: fShuffle([...s.words]),
+          answer: s.words.join(" "),
+          subtopic: sid,
+        }));
+      } else if (sid === "steigerung" || sid === "direkte_rede" || sid === "komma_nebensatz" || sid === "vorgangspassiv_k5" || sid === "passiv_praeteritum_k5" || sid === "ss_beta_k5" || sid === "grossklein_k5" || sid === "dehnung_schaerfung_k5") {
+        genFehlerFinden(count).forEach(item => qs.push({
+          type: "fehler-finden",
+          question: "Fehler finden:",
+          words: item.words,
+          errorIndex: item.errorIndex,
+          hint: item.hint,
+          answer: String(item.errorIndex),
+          subtopic: sid,
+        }));
+      } else if (sid === "synonyme_k5" || sid === "wortfelder_k5" || sid === "imperativ_k5" || sid === "reflexiv_k5") {
+        genWortfamilienBaum(count).forEach(item => qs.push({
+          type: "wortfamilien-baum",
+          question: "Wortfamilie:",
+          stamm: item.stamm,
+          options: item.options,
+          correctSet: item.correctIndices,
+          answer: item.correctIndices.join(","),
           subtopic: sid,
         }));
       }
