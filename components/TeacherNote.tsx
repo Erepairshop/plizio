@@ -8,10 +8,7 @@ interface TeacherNoteProps {
   playerName: string;
   percentage: number;
   countryCode?: string;
-  subject?: 'math' | 'deutsch';
 }
-
-type Subject = 'math' | 'deutsch';
 
 // ─── Language helper ──────────────────────────────────────────────
 type Lang = 'DE' | 'EN' | 'HU' | 'RO';
@@ -23,247 +20,122 @@ function getLang(cc?: string): Lang {
 }
 
 // ─── Messages per language ────────────────────────────────────────
-type MessageSet = { excellent: ((n: string) => string)[]; good: ((n: string) => string)[]; improve: ((n: string) => string)[] };
-const MESSAGES: Record<Lang, Record<Subject, MessageSet>> = {
+const MESSAGES: Record<Lang, { excellent: ((n: string) => string)[]; good: ((n: string) => string)[]; improve: ((n: string) => string)[] }> = {
   DE: {
-    math: {
-      excellent: [
-        (n) => `Bravo, ${n}! ✨ Ausgezeichnet!`,
-        (n) => `${n}, du bist ein Mathegenie! 🧠`,
-        (n) => `Wunderbar, ${n}! Ich bin so stolz! 🌟`,
-        (n) => `Fantastisch, ${n}! Weiter so! 🚀`,
-        (n) => `Super gemacht, ${n}! Top-Leistung! 🏆`,
-        (n) => `Klasse, ${n}! Du hast alles drauf! 💫`,
-        (n) => `Sehr gut, ${n}! Eine echte Spitzenleistung! ⭐`,
-      ],
-      good: [
-        (n) => `Gut gemacht, ${n}! Üb weiter! 📚`,
-        (n) => `${n}, du bist auf dem richtigen Weg! 🌈`,
-        (n) => `Nicht schlecht, ${n}! Du kannst noch mehr! 💪`,
-        (n) => `Weiter so, ${n}! Du wirst immer besser! 📈`,
-        (n) => `Prima, ${n}! Ich glaube an dich! 🌻`,
-        (n) => `Ordentlich, ${n}! Ein bisschen mehr üben! 🎯`,
-        (n) => `Brav gemacht, ${n}! Du schaffst es! 🌺`,
-      ],
-      improve: [
-        (n) => `Üb weiter, ${n}! Du schaffst das! 💪`,
-        (n) => `Nicht aufgeben, ${n}! Jeder lernt! 🌱`,
-        (n) => `${n}, versuche es nochmal! Ich glaube an dich! 🌟`,
-        (n) => `Kopf hoch, ${n}! Beim nächsten Mal klappt es! 🌈`,
-        (n) => `${n}, üben macht den Meister! Weiter so! 📚`,
-        (n) => `Kein Problem, ${n}! Wir üben zusammen! 🤝`,
-        (n) => `${n}, du gibst nicht auf! Das ist toll! 🌻`,
-      ],
-    },
-    deutsch: {
-      excellent: [
-        (n) => `Bravo, ${n}! ✨ Ausgezeichnet!`,
-        (n) => `${n}, du bist ein Sprachtalent! 🧠`,
-        (n) => `Wunderbar, ${n}! Ich bin so stolz! 🌟`,
-        (n) => `Fantastisch, ${n}! Weiter so! 🚀`,
-        (n) => `Super gemacht, ${n}! Top-Leistung! 🏆`,
-        (n) => `Klasse, ${n}! Du beherrschst die Sprache! 💫`,
-        (n) => `Sehr gut, ${n}! Eine echte Spitzenleistung! ⭐`,
-      ],
-      good: [
-        (n) => `Gut gemacht, ${n}! Lies weiter! 📚`,
-        (n) => `${n}, du bist auf dem richtigen Weg! 🌈`,
-        (n) => `Nicht schlecht, ${n}! Du kannst noch mehr! 💪`,
-        (n) => `Weiter so, ${n}! Dein Deutsch wird besser! 📈`,
-        (n) => `Prima, ${n}! Ich glaube an dich! 🌻`,
-        (n) => `Ordentlich, ${n}! Ein bisschen mehr üben! 🎯`,
-        (n) => `Brav gemacht, ${n}! Du schaffst es! 🌺`,
-      ],
-      improve: [
-        (n) => `Üb weiter, ${n}! Du schaffst das! 💪`,
-        (n) => `Nicht aufgeben, ${n}! Jeder lernt! 🌱`,
-        (n) => `${n}, versuche es nochmal! Ich glaube an dich! 🌟`,
-        (n) => `Kopf hoch, ${n}! Beim nächsten Mal klappt es! 🌈`,
-        (n) => `${n}, üben macht den Meister! Weiter so! 📚`,
-        (n) => `Kein Problem, ${n}! Wir üben zusammen! 🤝`,
-        (n) => `${n}, du gibst nicht auf! Das ist toll! 🌻`,
-      ],
-    },
+    excellent: [
+      (n) => `Bravo, ${n}! ✨ Ausgezeichnet!`,
+      (n) => `${n}, du bist ein Mathegenie! 🧠`,
+      (n) => `Wunderbar, ${n}! Ich bin so stolz! 🌟`,
+      (n) => `Fantastisch, ${n}! Weiter so! 🚀`,
+      (n) => `Super gemacht, ${n}! Top-Leistung! 🏆`,
+      (n) => `Klasse, ${n}! Du hast alles drauf! 💫`,
+      (n) => `Sehr gut, ${n}! Eine echte Spitzenleistung! ⭐`,
+    ],
+    good: [
+      (n) => `Gut gemacht, ${n}! Üb weiter! 📚`,
+      (n) => `${n}, du bist auf dem richtigen Weg! 🌈`,
+      (n) => `Nicht schlecht, ${n}! Du kannst noch mehr! 💪`,
+      (n) => `Weiter so, ${n}! Du wirst immer besser! 📈`,
+      (n) => `Prima, ${n}! Ich glaube an dich! 🌻`,
+      (n) => `Ordentlich, ${n}! Ein bisschen mehr üben! 🎯`,
+      (n) => `Brav gemacht, ${n}! Du schaffst es! 🌺`,
+    ],
+    improve: [
+      (n) => `Üb weiter, ${n}! Du schaffst das! 💪`,
+      (n) => `Nicht aufgeben, ${n}! Jeder lernt! 🌱`,
+      (n) => `${n}, versuche es nochmal! Ich glaube an dich! 🌟`,
+      (n) => `Kopf hoch, ${n}! Beim nächsten Mal klappt es! 🌈`,
+      (n) => `${n}, üben macht den Meister! Weiter so! 📚`,
+      (n) => `Kein Problem, ${n}! Wir üben zusammen! 🤝`,
+      (n) => `${n}, du gibst nicht auf! Das ist toll! 🌻`,
+    ],
   },
   EN: {
-    math: {
-      excellent: [
-        (n) => `Bravo, ${n}! ✨ Outstanding!`,
-        (n) => `${n}, you're a math genius! 🧠`,
-        (n) => `Wonderful, ${n}! I'm so proud! 🌟`,
-        (n) => `Fantastic, ${n}! Keep it up! 🚀`,
-        (n) => `Great work, ${n}! Top performance! 🏆`,
-        (n) => `Excellent, ${n}! You've got it all! 💫`,
-        (n) => `Very well done, ${n}! A true star! ⭐`,
-      ],
-      good: [
-        (n) => `Good job, ${n}! Keep practicing! 📚`,
-        (n) => `${n}, you're on the right track! 🌈`,
-        (n) => `Not bad, ${n}! You can do even more! 💪`,
-        (n) => `Keep going, ${n}! You're improving! 📈`,
-        (n) => `Nice work, ${n}! I believe in you! 🌻`,
-        (n) => `Solid effort, ${n}! A little more practice! 🎯`,
-        (n) => `Well done, ${n}! You can do it! 🌺`,
-      ],
-      improve: [
-        (n) => `Keep practicing, ${n}! You'll get there! 💪`,
-        (n) => `Don't give up, ${n}! Everyone learns! 🌱`,
-        (n) => `${n}, try again! I believe in you! 🌟`,
-        (n) => `Chin up, ${n}! Next time will be better! 🌈`,
-        (n) => `${n}, practice makes perfect! Keep going! 📚`,
-        (n) => `No problem, ${n}! We'll practice together! 🤝`,
-        (n) => `${n}, you didn't give up! That's great! 🌻`,
-      ],
-    },
-    deutsch: {
-      excellent: [
-        (n) => `Bravo, ${n}! ✨ Outstanding!`,
-        (n) => `${n}, you have a real gift for language! 🧠`,
-        (n) => `Wonderful, ${n}! I'm so proud! 🌟`,
-        (n) => `Fantastic, ${n}! Keep it up! 🚀`,
-        (n) => `Great work, ${n}! Top performance! 🏆`,
-        (n) => `Excellent, ${n}! You've mastered it! 💫`,
-        (n) => `Very well done, ${n}! A true star! ⭐`,
-      ],
-      good: [
-        (n) => `Good job, ${n}! Keep reading! 📚`,
-        (n) => `${n}, you're on the right track! 🌈`,
-        (n) => `Not bad, ${n}! You can do even more! 💪`,
-        (n) => `Keep going, ${n}! Your German is improving! 📈`,
-        (n) => `Nice work, ${n}! I believe in you! 🌻`,
-        (n) => `Solid effort, ${n}! A little more practice! 🎯`,
-        (n) => `Well done, ${n}! You can do it! 🌺`,
-      ],
-      improve: [
-        (n) => `Keep practicing, ${n}! You'll get there! 💪`,
-        (n) => `Don't give up, ${n}! Everyone learns! 🌱`,
-        (n) => `${n}, try again! I believe in you! 🌟`,
-        (n) => `Chin up, ${n}! Next time will be better! 🌈`,
-        (n) => `${n}, practice makes perfect! Keep going! 📚`,
-        (n) => `No problem, ${n}! We'll practice together! 🤝`,
-        (n) => `${n}, you didn't give up! That's great! 🌻`,
-      ],
-    },
+    excellent: [
+      (n) => `Bravo, ${n}! ✨ Outstanding!`,
+      (n) => `${n}, you're a math genius! 🧠`,
+      (n) => `Wonderful, ${n}! I'm so proud! 🌟`,
+      (n) => `Fantastic, ${n}! Keep it up! 🚀`,
+      (n) => `Great work, ${n}! Top performance! 🏆`,
+      (n) => `Excellent, ${n}! You've got it all! 💫`,
+      (n) => `Very well done, ${n}! A true star! ⭐`,
+    ],
+    good: [
+      (n) => `Good job, ${n}! Keep practicing! 📚`,
+      (n) => `${n}, you're on the right track! 🌈`,
+      (n) => `Not bad, ${n}! You can do even more! 💪`,
+      (n) => `Keep going, ${n}! You're improving! 📈`,
+      (n) => `Nice work, ${n}! I believe in you! 🌻`,
+      (n) => `Solid effort, ${n}! A little more practice! 🎯`,
+      (n) => `Well done, ${n}! You can do it! 🌺`,
+    ],
+    improve: [
+      (n) => `Keep practicing, ${n}! You'll get there! 💪`,
+      (n) => `Don't give up, ${n}! Everyone learns! 🌱`,
+      (n) => `${n}, try again! I believe in you! 🌟`,
+      (n) => `Chin up, ${n}! Next time will be better! 🌈`,
+      (n) => `${n}, practice makes perfect! Keep going! 📚`,
+      (n) => `No problem, ${n}! We'll practice together! 🤝`,
+      (n) => `${n}, you didn't give up! That's great! 🌻`,
+    ],
   },
   HU: {
-    math: {
-      excellent: [
-        (n) => `Brávó, ${n}! ✨ Remek munka!`,
-        (n) => `${n}, te igazi matek zseni vagy! 🧠`,
-        (n) => `Csodálatos, ${n}! Nagyon büszke vagyok rád! 🌟`,
-        (n) => `Fantasztikus, ${n}! Csak így tovább! 🚀`,
-        (n) => `Szuper, ${n}! Kiváló teljesítmény! 🏆`,
-        (n) => `Nagyszerű, ${n}! Mindent tud! 💫`,
-        (n) => `Nagyon jó, ${n}! Valódi sztárteljesítmény! ⭐`,
-      ],
-      good: [
-        (n) => `Jó munka, ${n}! Gyakorolj tovább! 📚`,
-        (n) => `${n}, jó úton jársz! 🌈`,
-        (n) => `Nem rossz, ${n}! Még több is kitelik tőled! 💪`,
-        (n) => `Csak így tovább, ${n}! Egyre jobb leszel! 📈`,
-        (n) => `Szép, ${n}! Hiszek benned! 🌻`,
-        (n) => `Rendesen, ${n}! Egy kicsit még gyakorolj! 🎯`,
-        (n) => `Ügyesen, ${n}! Sikerülni fog! 🌺`,
-      ],
-      improve: [
-        (n) => `Gyakorolj tovább, ${n}! Sikerülni fog! 💪`,
-        (n) => `Ne add fel, ${n}! Mindenki tanul! 🌱`,
-        (n) => `${n}, próbáld meg újra! Hiszek benned! 🌟`,
-        (n) => `Tartsd a fejed, ${n}! Legközelebb menni fog! 🌈`,
-        (n) => `${n}, a gyakorlat teszi a mestert! 📚`,
-        (n) => `Semmi gond, ${n}! Együtt tanulunk! 🤝`,
-        (n) => `${n}, nem adtad fel! Ez nagyszerű! 🌻`,
-      ],
-    },
-    deutsch: {
-      excellent: [
-        (n) => `Brávó, ${n}! ✨ Remek munka!`,
-        (n) => `${n}, te igazi nyelvtehetség vagy! 🧠`,
-        (n) => `Csodálatos, ${n}! Nagyon büszke vagyok rád! 🌟`,
-        (n) => `Fantasztikus, ${n}! Csak így tovább! 🚀`,
-        (n) => `Szuper, ${n}! Kiváló teljesítmény! 🏆`,
-        (n) => `Nagyszerű, ${n}! Hibátlan német! 💫`,
-        (n) => `Nagyon jó, ${n}! Valódi sztárteljesítmény! ⭐`,
-      ],
-      good: [
-        (n) => `Jó munka, ${n}! Olvasgass tovább! 📚`,
-        (n) => `${n}, jó úton jársz! 🌈`,
-        (n) => `Nem rossz, ${n}! Még több is kitelik tőled! 💪`,
-        (n) => `Csak így tovább, ${n}! A németed egyre jobb! 📈`,
-        (n) => `Szép, ${n}! Hiszek benned! 🌻`,
-        (n) => `Rendesen, ${n}! Egy kicsit még gyakorolj! 🎯`,
-        (n) => `Ügyesen, ${n}! Sikerülni fog! 🌺`,
-      ],
-      improve: [
-        (n) => `Gyakorolj tovább, ${n}! Sikerülni fog! 💪`,
-        (n) => `Ne add fel, ${n}! Mindenki tanul! 🌱`,
-        (n) => `${n}, próbáld meg újra! Hiszek benned! 🌟`,
-        (n) => `Tartsd a fejed, ${n}! Legközelebb menni fog! 🌈`,
-        (n) => `${n}, a gyakorlat teszi a mestert! 📚`,
-        (n) => `Semmi gond, ${n}! Együtt tanulunk! 🤝`,
-        (n) => `${n}, nem adtad fel! Ez nagyszerű! 🌻`,
-      ],
-    },
+    excellent: [
+      (n) => `Brávó, ${n}! ✨ Remek munka!`,
+      (n) => `${n}, te igazi matek zseni vagy! 🧠`,
+      (n) => `Csodálatos, ${n}! Nagyon büszke vagyok rád! 🌟`,
+      (n) => `Fantasztikus, ${n}! Csak így tovább! 🚀`,
+      (n) => `Szuper, ${n}! Kiváló teljesítmény! 🏆`,
+      (n) => `Nagyszerű, ${n}! Mindent tud! 💫`,
+      (n) => `Nagyon jó, ${n}! Valódi sztárteljesítmény! ⭐`,
+    ],
+    good: [
+      (n) => `Jó munka, ${n}! Gyakorolj tovább! 📚`,
+      (n) => `${n}, jó úton jársz! 🌈`,
+      (n) => `Nem rossz, ${n}! Még több is kitelik tőled! 💪`,
+      (n) => `Csak így tovább, ${n}! Egyre jobb leszel! 📈`,
+      (n) => `Szép, ${n}! Hiszek benned! 🌻`,
+      (n) => `Rendesen, ${n}! Egy kicsit még gyakorolj! 🎯`,
+      (n) => `Ügyesen, ${n}! Sikerülni fog! 🌺`,
+    ],
+    improve: [
+      (n) => `Gyakorolj tovább, ${n}! Sikerülni fog! 💪`,
+      (n) => `Ne add fel, ${n}! Mindenki tanul! 🌱`,
+      (n) => `${n}, próbáld meg újra! Hiszek benned! 🌟`,
+      (n) => `Tartsd a fejed, ${n}! Legközelebb menni fog! 🌈`,
+      (n) => `${n}, a gyakorlat teszi a mestert! 📚`,
+      (n) => `Semmi gond, ${n}! Együtt tanulunk! 🤝`,
+      (n) => `${n}, nem adtad fel! Ez nagyszerű! 🌻`,
+    ],
   },
   RO: {
-    math: {
-      excellent: [
-        (n) => `Bravo, ${n}! ✨ Excelent!`,
-        (n) => `${n}, ești un geniu la matematică! 🧠`,
-        (n) => `Minunat, ${n}! Sunt atât de mândru! 🌟`,
-        (n) => `Fantastic, ${n}! Continuă tot așa! 🚀`,
-        (n) => `Super, ${n}! Performanță de top! 🏆`,
-        (n) => `Excelent, ${n}! Le știi pe toate! 💫`,
-        (n) => `Foarte bine, ${n}! O adevărată stea! ⭐`,
-      ],
-      good: [
-        (n) => `Bine, ${n}! Continuă să exersezi! 📚`,
-        (n) => `${n}, ești pe drumul cel bun! 🌈`,
-        (n) => `Nu e rău, ${n}! Poți și mai mult! 💪`,
-        (n) => `Continuă, ${n}! Te îmbunătățești! 📈`,
-        (n) => `Frumos, ${n}! Cred în tine! 🌻`,
-        (n) => `Corect, ${n}! Mai puțin exercițiu! 🎯`,
-        (n) => `Bun, ${n}! Poți reuși! 🌺`,
-      ],
-      improve: [
-        (n) => `Exersează, ${n}! O să reușești! 💪`,
-        (n) => `Nu renunța, ${n}! Toți învățăm! 🌱`,
-        (n) => `${n}, mai încearcă! Cred în tine! 🌟`,
-        (n) => `Ține capul sus, ${n}! Data viitoare va fi mai bine! 🌈`,
-        (n) => `${n}, practica face perfectul! 📚`,
-        (n) => `Nicio problemă, ${n}! Exersăm împreună! 🤝`,
-        (n) => `${n}, nu ai renunțat! Asta e grozav! 🌻`,
-      ],
-    },
-    deutsch: {
-      excellent: [
-        (n) => `Bravo, ${n}! ✨ Excelent!`,
-        (n) => `${n}, ești un adevărat talent lingvistic! 🧠`,
-        (n) => `Minunat, ${n}! Sunt atât de mândru! 🌟`,
-        (n) => `Fantastic, ${n}! Continuă tot așa! 🚀`,
-        (n) => `Super, ${n}! Performanță de top! 🏆`,
-        (n) => `Excelent, ${n}! Stăpânești limba! 💫`,
-        (n) => `Foarte bine, ${n}! O adevărată stea! ⭐`,
-      ],
-      good: [
-        (n) => `Bine, ${n}! Continuă să citești! 📚`,
-        (n) => `${n}, ești pe drumul cel bun! 🌈`,
-        (n) => `Nu e rău, ${n}! Poți și mai mult! 💪`,
-        (n) => `Continuă, ${n}! Germana ta se îmbunătățește! 📈`,
-        (n) => `Frumos, ${n}! Cred în tine! 🌻`,
-        (n) => `Corect, ${n}! Mai puțin exercițiu! 🎯`,
-        (n) => `Bun, ${n}! Poți reuși! 🌺`,
-      ],
-      improve: [
-        (n) => `Exersează, ${n}! O să reușești! 💪`,
-        (n) => `Nu renunța, ${n}! Toți învățăm! 🌱`,
-        (n) => `${n}, mai încearcă! Cred în tine! 🌟`,
-        (n) => `Ține capul sus, ${n}! Data viitoare va fi mai bine! 🌈`,
-        (n) => `${n}, practica face perfectul! 📚`,
-        (n) => `Nicio problemă, ${n}! Exersăm împreună! 🤝`,
-        (n) => `${n}, nu ai renunțat! Asta e grozav! 🌻`,
-      ],
-    },
+    excellent: [
+      (n) => `Bravo, ${n}! ✨ Excelent!`,
+      (n) => `${n}, ești un geniu la matematică! 🧠`,
+      (n) => `Minunat, ${n}! Sunt atât de mândru! 🌟`,
+      (n) => `Fantastic, ${n}! Continuă tot așa! 🚀`,
+      (n) => `Super, ${n}! Performanță de top! 🏆`,
+      (n) => `Excelent, ${n}! Le știi pe toate! 💫`,
+      (n) => `Foarte bine, ${n}! O adevărată stea! ⭐`,
+    ],
+    good: [
+      (n) => `Bine, ${n}! Continuă să exersezi! 📚`,
+      (n) => `${n}, ești pe drumul cel bun! 🌈`,
+      (n) => `Nu e rău, ${n}! Poți și mai mult! 💪`,
+      (n) => `Continuă, ${n}! Te îmbunătățești! 📈`,
+      (n) => `Frumos, ${n}! Cred în tine! 🌻`,
+      (n) => `Corect, ${n}! Mai puțin exercițiu! 🎯`,
+      (n) => `Bun, ${n}! Poți reuși! 🌺`,
+    ],
+    improve: [
+      (n) => `Exersează, ${n}! O să reușești! 💪`,
+      (n) => `Nu renunța, ${n}! Toți învățăm! 🌱`,
+      (n) => `${n}, mai încearcă! Cred în tine! 🌟`,
+      (n) => `Ține capul sus, ${n}! Data viitoare va fi mai bine! 🌈`,
+      (n) => `${n}, practica face perfectul! 📚`,
+      (n) => `Nicio problemă, ${n}! Exersăm împreună! 🤝`,
+      (n) => `${n}, nu ai renunțat! Asta e grozav! 🌻`,
+    ],
   },
 };
 
@@ -280,9 +152,9 @@ const WRITING_LABEL: Record<Lang, string> = { DE: 'Lehrerin schreibt...', EN: 'T
 const STUDENT_FALLBACK: Record<Lang, string> = { DE: 'Schüler', EN: 'Student', HU: 'Tanuló', RO: 'Elev' };
 const DATE_LOCALE: Record<Lang, string> = { DE: 'de-DE', EN: 'en-US', HU: 'hu-HU', RO: 'ro-RO' };
 
-function getMessage(percentage: number, playerName: string, lang: Lang, subject: Subject = 'math'): string {
+function getMessage(percentage: number, playerName: string, lang: Lang): string {
   const seed = Math.floor(Date.now() / 10000) % 7;
-  const pool = MESSAGES[lang][subject];
+  const pool = MESSAGES[lang];
   if (percentage >= 85) return pool.excellent[seed](playerName);
   if (percentage >= 55) return pool.good[seed](playerName);
   return pool.improve[seed](playerName);
@@ -359,16 +231,10 @@ function RuledLines() {
 
 // ─── INLINE VERSION (renders on the test paper) ───────────────────────────────
 
-export function InlineTeacherNote({ playerName, percentage, countryCode, subject = 'math', onWritingStart }: {
-  playerName: string;
-  percentage: number;
-  countryCode?: string;
-  subject?: Subject;
-  onWritingStart?: () => void;
-}) {
+export function InlineTeacherNote({ playerName, percentage, countryCode }: { playerName: string; percentage: number; countryCode?: string }) {
   const lang = getLang(countryCode);
   const name = playerName || STUDENT_FALLBACK[lang];
-  const message = getMessage(percentage, name, lang, subject);
+  const message = getMessage(percentage, name, lang);
   const isExcellent = percentage >= 85;
   const isGood = percentage >= 55;
   const Smiley = isExcellent ? SmileGood : isGood ? SmileOk : SmileSad;
@@ -378,10 +244,9 @@ export function InlineTeacherNote({ playerName, percentage, countryCode, subject
 
   const [phase, setPhase] = useState<'writing' | 'done'>('writing');
   useEffect(() => {
-    onWritingStart?.();
     const t = setTimeout(() => setPhase('done'), 2200);
     return () => clearTimeout(t);
-  }, []); // eslint-disable-line react-hooks/exhaustive-deps
+  }, []);
 
   const [firstPart, ...rest] = message.split('!');
   const secondPart = rest.join('!').trim();

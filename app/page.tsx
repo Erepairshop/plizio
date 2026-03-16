@@ -10,7 +10,7 @@ import IslandMap, { type Island, type IslandGame } from "@/components/IslandMap"
 import { getCards } from "@/lib/cards";
 import { getSpecialCardCount, markAsReferred, isReferred, claimReferralReward } from "@/lib/specialCards";
 import { getStats } from "@/lib/milestones";
-import { claimDailyReward, type DailyRewardResult } from "@/lib/dailyReward";
+import { claimDailyReward, awardPendingDailyStars, type DailyRewardResult } from "@/lib/dailyReward";
 import { getUser, onAuthChange } from "@/lib/auth";
 import { syncToSupabase } from "@/lib/sync";
 import AuthModal from "@/components/AuthModal";
@@ -656,10 +656,18 @@ export default function Home() {
     window.addEventListener("plizio-cards-changed", refreshCounts);
     document.addEventListener("visibilitychange", onVisible);
 
+    // Award pending daily stars after the first game of the day
+    const onGamePlayed = () => {
+      const awarded = awardPendingDailyStars();
+      if (awarded > 0) setSpecialCount(getSpecialCardCount());
+    };
+    window.addEventListener("plizio-game-played", onGamePlayed);
+
     return () => {
       subscription.unsubscribe();
       window.removeEventListener("plizio-cards-changed", refreshCounts);
       document.removeEventListener("visibilitychange", onVisible);
+      window.removeEventListener("plizio-game-played", onGamePlayed);
     };
   }, []);
 
@@ -784,9 +792,9 @@ export default function Home() {
               </p>
 
               {/* Reward breakdown */}
-              <div className="bg-white/5 rounded-xl p-3 mb-4 space-y-1">
+              <div className="bg-white/5 rounded-xl p-3 mb-3 space-y-1">
                 <div className="flex justify-between text-sm">
-                  <span className="text-white/70">Daily login</span>
+                  <span className="text-white/70">Daily reward</span>
                   <span className="text-yellow-400 font-bold">+1 ⭐</span>
                 </div>
                 {dailyReward.streakBonus > 0 && (
@@ -803,11 +811,13 @@ export default function Home() {
                 </div>
               </div>
 
+              <p className="text-white/40 text-xs mb-3">Play a game to claim your reward!</p>
+
               <button
                 onClick={() => setDailyReward(null)}
                 className="w-full py-2.5 bg-neon-blue/20 hover:bg-neon-blue/30 border border-neon-blue/40 text-neon-blue rounded-xl font-bold transition-colors"
               >
-                Collect!
+                Let&apos;s Play!
               </button>
             </motion.div>
           </motion.div>
