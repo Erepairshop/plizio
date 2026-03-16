@@ -431,15 +431,48 @@ export default function DeutschTestPage() {
     const ptr: Record<string, number> = {};
     const allQs: TestQuestion[] = [];
 
+    // ── Separate visual questions from regular ones ────────────────────────────
+    const VISUAL_TYPES = new Set([
+      "genus-sort","satz-ordnen","bild-beschriften","fehler-finden",
+      "wortfamilien-baum","geschichte-sortieren","wortarten-sortieren",
+      "zeitformen-zuordnen","satzglied-markieren","kasus-markieren","adjektiv-endungen",
+    ]);
+    const visualPools: Record<string, TestQuestion[]> = {};
+    const regularPools: Record<string, TestQuestion[]> = {};
+    for (const sid of ids) {
+      visualPools[sid]  = pools[sid].filter(q => VISUAL_TYPES.has(q.type));
+      regularPools[sid] = pools[sid].filter(q => !VISUAL_TYPES.has(q.type));
+    }
+
+    // Count occurrences per topic in the round-robin → fire visual group on last occurrence
+    const topicOccurrences: Record<string, number> = {};
     for (let g2 = 0; g2 < groupCount; g2++) {
       const sid = ids[g2 % ids.length];
-      const pool = pools[sid] ?? [];
-      const start = ptr[sid] ?? 0;
-      for (let k = 0; k < 3; k++) {
-        const idx = (start + k) % Math.max(pool.length, 1);
-        if (pool[idx]) allQs.push({ ...pool[idx] });
+      topicOccurrences[sid] = (topicOccurrences[sid] ?? 0) + 1;
+    }
+    const topicCurrentOccurrence: Record<string, number> = {};
+
+    // Build groups round-robin; replace each topic's LAST group with its visual group
+    for (let g2 = 0; g2 < groupCount; g2++) {
+      const sid = ids[g2 % ids.length];
+      topicCurrentOccurrence[sid] = (topicCurrentOccurrence[sid] ?? 0) + 1;
+
+      const vPool = visualPools[sid] ?? [];
+      const isLastOccurrence = topicCurrentOccurrence[sid] === topicOccurrences[sid];
+      const useVisual = isLastOccurrence && vPool.length >= 3;
+
+      if (useVisual) {
+        // Visual group: 3 visual questions together
+        vPool.slice(0, 3).forEach(q => allQs.push({ ...q }));
+      } else {
+        const pool = regularPools[sid] ?? [];
+        const start = ptr[sid] ?? 0;
+        for (let k = 0; k < 3; k++) {
+          const idx = (start + k) % Math.max(pool.length, 1);
+          if (pool[idx]) allQs.push({ ...pool[idx] });
+        }
+        ptr[sid] = (start + 3) % Math.max(pool.length, 1);
       }
-      ptr[sid] = (start + 3) % Math.max(pool.length, 1);
     }
 
     if (withLesetest) {
