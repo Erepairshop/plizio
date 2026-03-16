@@ -9,7 +9,7 @@ import type { FaceDef } from '@/lib/faces';
 import type { TopDef, BottomDef, ShoeDef, CapeDef, GlassesDef, GloveDef } from '@/lib/clothing';
 import type { HatDef, TrailDef } from '@/lib/accessories';
 import type { HairDef } from '@/lib/hair';
-import type { AvatarGender } from '@/lib/gender';
+import { type AvatarGender, getAvatarScale } from '@/lib/gender';
 import { AVATAR_DEFAULTS } from '@/lib/avatarDefaults';
 
 export interface AvatarCompanionProps {
@@ -467,42 +467,41 @@ function CapeMesh({ cape, t }: { cape: CapeDef; t: number }) {
   const capeEI = isRainbow ? 0.7 : cape.emissiveIntensity;
 
   // All cape pieces are BEHIND the avatar body — z must be ≤ -0.16 to clear body depth
-  // Body half-depth ≈ 0.14, so z=-0.16 is safe clearance
   return (
     <group>
-      {/* ── Clasp / brooch — sits on neck at BACK, not front ─── */}
+      {/* ── Clasp / brooch ─── */}
       <mesh position={[0, 0.34, -0.17]}>
         <sphereGeometry args={[0.028, 8, 6]} />
         <meshStandardMaterial color={capeEmissive} emissive={capeEmissive} emissiveIntensity={1.0} metalness={0.7} roughness={0.2} />
       </mesh>
 
-      {/* ── Shoulder yoke — safely behind the body ─── */}
-      <mesh position={[0, 0.27, -0.18]} rotation={[0.05, 0, 0]}>
-        <boxGeometry args={[0.52, 0.08, 0.030]} />
-        <meshStandardMaterial color={capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.65} roughness={0.52} side={THREE.DoubleSide} />
+      {/* ── Shoulder yoke — rounded cylinder instead of box ─── */}
+      <mesh position={[0, 0.27, -0.18]} rotation={[Math.PI / 2 + 0.05, 0, 0]}>
+        <cylinderGeometry args={[0.015, 0.015, 0.50, 8]} />
+        <meshStandardMaterial color={capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.65} roughness={0.52} />
       </mesh>
 
-      {/* ── Upper body — hangs from shoulders ─── */}
+      {/* ── Upper — curved plane with rounded shape ─── */}
       <mesh position={[0, 0.10 + wave1 * 0.3, -0.20 + wave2 * 0.3]} rotation={[-0.04 + flutter * 0.2, 0, 0]}>
-        <boxGeometry args={[0.50, 0.30, 0.018]} />
+        <planeGeometry args={[0.48, 0.30, 6, 4]} />
         <meshStandardMaterial color={isRainbow ? hueToColor(((t * 45) + 60) % 360) : capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.28} roughness={0.62} side={THREE.DoubleSide} />
       </mesh>
 
-      {/* ── Mid body ─── */}
+      {/* ── Mid — slightly narrower, more wave ─── */}
       <mesh position={[0, -0.14 + wave1 * 0.7, -0.22 + wave2 * 0.7]} rotation={[-0.07 + flutter * 0.4, 0, 0]}>
-        <boxGeometry args={[0.46, 0.30, 0.015]} />
+        <planeGeometry args={[0.44, 0.30, 6, 4]} />
         <meshStandardMaterial color={isRainbow ? hueToColor(((t * 45) + 180) % 360) : capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.32} roughness={0.65} side={THREE.DoubleSide} />
       </mesh>
 
-      {/* ── Lower body ─── */}
+      {/* ── Lower — tapering ─── */}
       <mesh position={[0, -0.38 + wave1 * 1.2, -0.23 + wave2 * 1.2]} rotation={[-0.10 + flutter * 0.6, 0, 0]}>
-        <boxGeometry args={[0.42, 0.27, 0.012]} />
+        <planeGeometry args={[0.38, 0.27, 5, 3]} />
         <meshStandardMaterial color={isRainbow ? hueToColor(((t * 45) + 240) % 360) : capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.38} roughness={0.65} side={THREE.DoubleSide} />
       </mesh>
 
-      {/* ── Tail — tapered tip ─── */}
-      <mesh position={[0, -0.58 + wave1 * 1.8, -0.23 + wave2 * 1.8]} rotation={[-0.13 + flutter * 0.9, 0, 0]}>
-        <boxGeometry args={[0.30, 0.22, 0.010]} />
+      {/* ── Tail — tapered rounded tip ─── */}
+      <mesh position={[0, -0.56 + wave1 * 1.8, -0.23 + wave2 * 1.8]} rotation={[-0.13 + flutter * 0.9, 0, 0]}>
+        <circleGeometry args={[0.15, 8, 0, Math.PI]} />
         <meshStandardMaterial color={isRainbow ? hueToColor(((t * 45) + 300) % 360) : capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.45} roughness={0.65} side={THREE.DoubleSide} />
       </mesh>
     </group>
@@ -2204,6 +2203,7 @@ export default function AvatarCompanion({
   orbitControls = false,
 }: AvatarCompanionProps) {
   const positionClass = fixed ? 'fixed z-50' : 'relative w-full h-full';
+  const [avatarScale] = useState(() => fixed ? getAvatarScale() : 1);
   const [localJump, setLocalJump] = useState<{
     reaction: 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | 'wave' | 'dance' | 'spin' | null;
     timestamp: number;
@@ -2233,6 +2233,8 @@ export default function AvatarCompanion({
         bottom: 'max(20px, calc(env(safe-area-inset-bottom) + 20px))',
         right: '20px',
         filter: glowFilter,
+        transform: avatarScale !== 1 ? `scale(${avatarScale})` : undefined,
+        transformOrigin: 'bottom right',
       } : {
         filter: glowFilter,
       }}

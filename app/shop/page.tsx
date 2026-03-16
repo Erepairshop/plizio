@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Star, ArrowLeft, Zap, Shield, Clock, Eye, Mountain, Crosshair, Brain, Check, Car, X, Gauge, Flame, Cog, Wind, Crown, Shuffle, Scissors, Venus, Mars } from "lucide-react";
 import AvatarCompanion from "@/components/AvatarCompanion";
-import { getGender, setGender, type AvatarGender } from "@/lib/gender";
+import { getGender, setGender, getAvatarScale, setAvatarScale, type AvatarGender } from "@/lib/gender";
 import { useLang } from "@/components/LanguageProvider";
 import type { Language } from "@/lib/language";
 import Link from "next/link";
@@ -132,6 +132,7 @@ type ShopTranslations = {
     hint: string;
     girl: string;
     boy: string;
+    size: string;
   };
 };
 
@@ -202,6 +203,7 @@ const SHOP_TRANSLATIONS: Record<Language, ShopTranslations> = {
       hint: "Buy items and see them on your avatar instantly!",
       girl: "Girl",
       boy: "Boy",
+      size: "Size",
     },
   },
   hu: {
@@ -270,6 +272,7 @@ const SHOP_TRANSLATIONS: Record<Language, ShopTranslations> = {
       hint: "Vásárolj tárgyakat, és azonnal látod az avatáron!",
       girl: "Lány",
       boy: "Fiú",
+      size: "Méret",
     },
   },
   de: {
@@ -338,6 +341,7 @@ const SHOP_TRANSLATIONS: Record<Language, ShopTranslations> = {
       hint: "Kaufe Gegenstände und sieh sie sofort auf deinem Avatar!",
       girl: "Mädchen",
       boy: "Junge",
+      size: "Größe",
     },
   },
   ro: {
@@ -406,6 +410,7 @@ const SHOP_TRANSLATIONS: Record<Language, ShopTranslations> = {
       hint: "Cumpără obiecte și vezi-le imediat pe avatar!",
       girl: "Fată",
       boy: "Băiat",
+      size: "Mărime",
     },
   },
 };
@@ -698,7 +703,7 @@ export default function ShopPage() {
   const [activeTrail, setActiveTrailState] = useState<string | null>(null);
   const [ownedCars, setOwnedCars] = useState<string[]>(["starter"]);
   const [activeCar, setActiveCar] = useState("starter");
-  const [tab, setTab] = useState<Tab>("cars");
+  const [tab, setTab] = useState<Tab>("skins");
   const [notification, setNotification] = useState<string | null>(null);
   const [boughtPowerUps, setBoughtPowerUps] = useState<Record<string, number>>({});
   const [selectedCar, setSelectedCar] = useState<CarDef | null>(null);
@@ -715,6 +720,7 @@ export default function ShopPage() {
 
   const [shopGender, setShopGender] = useState<AvatarGender>('girl');
   const [avatarMood, setAvatarMood] = useState<'idle' | 'happy'>('idle');
+  const [avatarScaleVal, setAvatarScaleVal] = useState(1.0);
 
   // Computed avatar props for preview
   const previewHairDef = HAIR_STYLES.find(h => h.id === activeHairId) || null;
@@ -758,6 +764,7 @@ export default function ShopPage() {
     setActiveHairId(getActiveHair());
     refreshClothing();
     setShopGender(getGender());
+    setAvatarScaleVal(getAvatarScale());
     const saved = localStorage.getItem("plizio_powerups");
     if (saved) setBoughtPowerUps(JSON.parse(saved));
   }, []);
@@ -1002,8 +1009,8 @@ export default function ShopPage() {
   ];
 
   const TABS: { id: Tab; label: string; icon: string }[] = [
-    { id: "cars", label: t.tabs.cars, icon: "🏎️" },
     { id: "skins", label: t.tabs.skins, icon: "🎨" },
+    { id: "cars", label: t.tabs.cars, icon: "🏎️" },
     { id: "powerups", label: t.tabs.powerups, icon: "⚡" },
     { id: "abilities", label: t.tabs.abilities, icon: "🏔️" },
   ];
@@ -1274,6 +1281,23 @@ export default function ShopPage() {
               </div>
               <div className="text-[10px] text-white/20 leading-tight">
                 {t.preview.hint}
+              </div>
+              {/* Avatar size slider */}
+              <div className="flex items-center gap-2 mt-1">
+                <span className="text-[9px] text-white/30 font-bold shrink-0">{t.preview.size}</span>
+                <input
+                  type="range"
+                  min={60}
+                  max={140}
+                  value={Math.round(avatarScaleVal * 100)}
+                  onChange={(e) => {
+                    const v = parseInt(e.target.value) / 100;
+                    setAvatarScaleVal(v);
+                    setAvatarScale(v);
+                  }}
+                  className="flex-1 h-1 accent-[#E040FB] cursor-pointer"
+                />
+                <span className="text-[9px] text-white/30 font-mono w-7 text-right">{Math.round(avatarScaleVal * 100)}%</span>
               </div>
             </div>
           </div>
