@@ -8,6 +8,7 @@ import Link from "next/link";
 import MilestonePopup from "@/components/MilestonePopup";
 import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, calculateRarity, type CardRarity } from "@/lib/cards";
+import { seededRandom } from "@/lib/seededRandom";
 import { incrementTotalGames } from "@/lib/milestones";
 import AvatarCompanion from "@/components/AvatarCompanion";
 import { getGender } from "@/lib/gender";
@@ -23,6 +24,9 @@ import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
 import { submitScore, abandonMatch, submitMixRoundScore, pollMixRound } from "@/lib/multiplayer";
 import { getUsername } from "@/lib/username";
 import MultiplayerResult from "@/components/MultiplayerResult";
+import { supabase } from "@/lib/supabase/client";
+import type { RealtimeChannel } from "@supabase/supabase-js";
+import MultiplayerOpponentPanel from "@/components/MultiplayerOpponentPanel";
 
 // ─── i18n ─────────────────────────────────────────────────────────────────────
 
@@ -230,7 +234,8 @@ function buildGrid(
   gridSize: number,
   allowDiagonal: boolean,
   allowReverse: boolean,
-  fillerLetters: string[]
+  fillerLetters: string[],
+  rng: () => number = Math.random
 ): { grid: string[]; placed: PlacedWord[] } {
   const total = gridSize * gridSize;
   const grid: string[] = Array(total).fill("");
@@ -270,11 +275,11 @@ function buildGrid(
   // Try to place each word
   for (const word of words) {
     let success = false;
-    const shuffledDirs = [...directions].sort(() => Math.random() - 0.5);
+    const shuffledDirs = [...directions].sort(() => rng() - 0.5);
     for (let attempt = 0; attempt < 100 && !success; attempt++) {
       const dir = shuffledDirs[attempt % shuffledDirs.length];
-      const startRow = Math.floor(Math.random() * gridSize);
-      const startCol = Math.floor(Math.random() * gridSize);
+      const startRow = Math.floor(rng() * gridSize);
+      const startCol = Math.floor(rng() * gridSize);
       const cells = canPlace(word, startRow, startCol, dir);
       if (cells) { placeWord(word, cells); success = true; }
     }
@@ -283,7 +288,7 @@ function buildGrid(
 
   // Fill empty cells with random filler
   for (let i = 0; i < total; i++) {
-    if (grid[i] === "") grid[i] = fillerLetters[Math.floor(Math.random() * fillerLetters.length)];
+    if (grid[i] === "") grid[i] = fillerLetters[Math.floor(rng() * fillerLetters.length)];
   }
 
   return { grid, placed };
@@ -385,6 +390,10 @@ function WordHuntPage() {
   const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
   const [mixFinished, setMixFinished] = useState(false);
   const [scoreSubmitted, setScoreSubmitted] = useState(false);
+  const [oppScore, setOppScore] = useState(0);
+  const [oppMood, setOppMood] = useState<"idle" | "focused" | "happy" | "surprised" | "victory" | "disappointed">("focused");
+  const broadcastChannelRef = useRef<RealtimeChannel | null>(null);
+  const broadcastIntervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
   const cfgRef          = useRef<WHLevelConfig>(LEVELS[0]);
   const placedRef       = useRef<PlacedWord[]>([]);
@@ -472,7 +481,8 @@ function WordHuntPage() {
 
     const tier = cfg.wordTier;
     const wordCount = cfg.wordCount + (cfg.bonusWord ? 1 : 0);
-    const words = getWordsForLevel(whLang, tier, wordCount);
+    const rng = seed ? seededRandom(`${seed}-${levelNum}`) : Math.random;
+    const words = getWordsForLevel(whLang, tier, wordCount, rng);
     const fillerLetters = FILLER_LETTERS[whLang];
 
     const { grid: newGrid, placed } = buildGrid(
@@ -480,7 +490,8 @@ function WordHuntPage() {
       cfg.gridSize,
       cfg.allowDiagonal,
       cfg.allowReverse,
-      fillerLetters
+      fillerLetters,
+      rng
     );
 
     // Mark bonus word cells (last word if bonusWord)
@@ -567,6 +578,36 @@ function WordHuntPage() {
     }, 2000);
     return () => clearInterval(interval);
   }, [screen, isMultiplayer, matchId, isMix, playerNum, router, opponentName, mixround]);
+
+  // ── Multiplayer: live opponent broadcast ─────────────────────────────────────
+  useEffect(() => {
+    if (!isMultiplayer || !matchId) return;
+    const channel = supabase.channel(`wordhunt-${matchId}`, {
+      config: { broadcast: { self: false } },
+    });
+    channel.on("broadcast", { event: "scoreUpdate" }, (payload) => {
+      if (payload.payload.p !== playerNum) {
+        setOppScore(payload.payload.score);
+        setOppMood("happy");
+        setTimeout(() => setOppMood("focused"), 600);
+      }
+    });
+    channel.subscribe();
+    broadcastChannelRef.current = channel;
+    return () => { channel.unsubscribe(); broadcastChannelRef.current = null; };
+  }, [isMultiplayer, matchId, playerNum]);
+
+  useEffect(() => {
+    if (!isMultiplayer || screen !== "playing" || !broadcastChannelRef.current) return;
+    broadcastIntervalRef.current = setInterval(() => {
+      broadcastChannelRef.current?.send({
+        type: "broadcast",
+        event: "scoreUpdate",
+        payload: { p: playerNum, score: wordsFoundRef.current },
+      });
+    }, 500);
+    return () => { if (broadcastIntervalRef.current) clearInterval(broadcastIntervalRef.current); };
+  }, [isMultiplayer, screen, playerNum]);
 
   // ── Cell tap / selection ──────────────────────────────────────────────────────
   const handleCellTap = useCallback((index: number) => {
@@ -1062,6 +1103,17 @@ function WordHuntPage() {
           myName={getUsername() || "???"}
           oppName={opponentName}
           onContinue={() => router.push("/multiplayer")}
+        />
+      )}
+
+      {/* Multiplayer opponent panel */}
+      {isMultiplayer && (
+        <MultiplayerOpponentPanel
+          opponentName={opponentName}
+          opponentScore={oppScore}
+          opponentMood={oppMood}
+          totalRounds={placedWords.length}
+          isVisible={screen === "playing"}
         />
       )}
 

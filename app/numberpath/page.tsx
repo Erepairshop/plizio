@@ -8,6 +8,7 @@ import Link from "next/link";
 import MilestonePopup from "@/components/MilestonePopup";
 import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, type CardRarity } from "@/lib/cards";
+import { seededRandom } from "@/lib/seededRandom";
 import { incrementTotalGames } from "@/lib/milestones";
 import AvatarCompanion from "@/components/AvatarCompanion";
 import { getGender } from "@/lib/gender";
@@ -22,6 +23,9 @@ import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
 import { submitScore, abandonMatch, submitMixRoundScore, pollMixRound } from "@/lib/multiplayer";
 import { getUsername } from "@/lib/username";
 import MultiplayerResult from "@/components/MultiplayerResult";
+import { supabase } from "@/lib/supabase/client";
+import type { RealtimeChannel } from "@supabase/supabase-js";
+import MultiplayerOpponentPanel from "@/components/MultiplayerOpponentPanel";
 
 // ─── i18n ─────────────────────────────────────────────────────────────────────
 const T = {
@@ -117,7 +121,7 @@ interface NPPuzzle {
   waypoints: number[];  // waypoints[i] = cell index of waypoint (i+1)
 }
 
-function warnsdorff(gridSize: number, start: number): number[] {
+function warnsdorff(gridSize: number, start: number, rng: () => number = Math.random): number[] {
   const total = gridSize * gridSize;
   const visited = new Uint8Array(total);
   const path = [start];
@@ -142,17 +146,17 @@ function warnsdorff(gridSize: number, start: number): number[] {
       visited[n] = 0;
       return { n, score };
     });
-    scored.sort((a, b) => a.score - b.score || (Math.random() > 0.5 ? 1 : -1));
+    scored.sort((a, b) => a.score - b.score || (rng() > 0.5 ? 1 : -1));
     visited[scored[0].n] = 1;
     path.push(scored[0].n);
   }
   return path;
 }
 
-function generateHamiltonPath(gridSize: number): number[] {
+function generateHamiltonPath(gridSize: number, rng: () => number = Math.random): number[] {
   for (let i = 0; i < 40; i++) {
-    const start = Math.floor(Math.random() * gridSize * gridSize);
-    const path = warnsdorff(gridSize, start);
+    const start = Math.floor(rng() * gridSize * gridSize);
+    const path = warnsdorff(gridSize, start, rng);
     if (path.length === gridSize * gridSize) return path;
   }
   // Fallback: boustrophedon
@@ -165,8 +169,8 @@ function generateHamiltonPath(gridSize: number): number[] {
   return path;
 }
 
-function generatePuzzle(cfg: NPLevel): NPPuzzle {
-  const solution = generateHamiltonPath(cfg.gridSize);
+function generatePuzzle(cfg: NPLevel, rng: () => number = Math.random): NPPuzzle {
+  const solution = generateHamiltonPath(cfg.gridSize, rng);
   const total = solution.length;
   const waypoints: number[] = [];
   for (let i = 0; i < cfg.waypointCount; i++) {
@@ -299,6 +303,10 @@ function NumberPathPage() {
   const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
   const [mixFinished, setMixFinished] = useState(false);
   const [scoreSubmitted, setScoreSubmitted] = useState(false);
+  const [oppScore, setOppScore] = useState(0);
+  const [oppMood, setOppMood] = useState<"idle" | "focused" | "happy" | "surprised" | "victory" | "disappointed">("focused");
+  const broadcastChannelRef = useRef<RealtimeChannel | null>(null);
+  const broadcastIntervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
   // Refs for stable access in event handlers
   const pathRef        = useRef<number[]>([]);
@@ -397,7 +405,8 @@ function NumberPathPage() {
     const cfg = LEVELS[levelNum - 1];
     cfgRef.current = cfg;
     setActiveLevel(levelNum);
-    const p = generatePuzzle(cfg);
+    const rng = seed ? seededRandom(`${seed}-${levelNum}`) : Math.random;
+    const p = generatePuzzle(cfg, rng);
     puzzleRef.current = p;
     waypointMapRef.current = new Map(p.waypoints.map((cellIdx, i) => [cellIdx, i + 1]));
     setPuzzle(p);
@@ -643,6 +652,36 @@ function NumberPathPage() {
     return () => clearInterval(interval);
   }, [screen, isMultiplayer, matchId, isMix, playerNum, router, opponentName, mixround]);
 
+  // ── Multiplayer: live opponent broadcast ─────────────────────────────────────
+  useEffect(() => {
+    if (!isMultiplayer || !matchId) return;
+    const channel = supabase.channel(`numberpath-${matchId}`, {
+      config: { broadcast: { self: false } },
+    });
+    channel.on("broadcast", { event: "scoreUpdate" }, (payload) => {
+      if (payload.payload.p !== playerNum) {
+        setOppScore(payload.payload.score);
+        setOppMood("happy");
+        setTimeout(() => setOppMood("focused"), 600);
+      }
+    });
+    channel.subscribe();
+    broadcastChannelRef.current = channel;
+    return () => { channel.unsubscribe(); broadcastChannelRef.current = null; };
+  }, [isMultiplayer, matchId, playerNum]);
+
+  useEffect(() => {
+    if (!isMultiplayer || screen !== "playing" || !broadcastChannelRef.current) return;
+    broadcastIntervalRef.current = setInterval(() => {
+      broadcastChannelRef.current?.send({
+        type: "broadcast",
+        event: "scoreUpdate",
+        payload: { p: playerNum, score: pathRef.current.length },
+      });
+    }, 500);
+    return () => { if (broadcastIntervalRef.current) clearInterval(broadcastIntervalRef.current); };
+  }, [isMultiplayer, screen, playerNum]);
+
   // ─── EXPEDITION SCREEN ────────────────────────────────────────────────────────
   if (screen === "expedition" && !isMultiplayer) {
     return (
@@ -883,6 +922,17 @@ function NumberPathPage() {
             />
             <MultiplayerAbandonNotice matchId={matchId} opponentName={opponentName} />
           </>
+        )}
+
+        {/* Multiplayer opponent panel */}
+        {isMultiplayer && (
+          <MultiplayerOpponentPanel
+            opponentName={opponentName}
+            opponentScore={oppScore}
+            opponentMood={oppMood}
+            totalRounds={total}
+            isVisible={screen === "playing"}
+          />
         )}
       </div>
     );

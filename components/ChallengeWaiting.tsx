@@ -4,7 +4,7 @@ import { useState, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import { Swords, Loader2, X, Users, Check, Play } from "lucide-react";
 import { useRouter } from "next/navigation";
-import { subscribeToMatch, isGroupMatch, startGroupMatch, type MultiplayerMatch, type MatchPlayer, type GameType, GAME_LABELS } from "@/lib/multiplayer";
+import { isGroupMatch, startGroupMatch, type MultiplayerMatch, type MatchPlayer, type GameType, GAME_LABELS } from "@/lib/multiplayer";
 import { supabase } from "@/lib/supabase/client";
 import AvatarCompanion from "@/components/AvatarCompanion";
 import { getGender, type AvatarGender } from "@/lib/gender";

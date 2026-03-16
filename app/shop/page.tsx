@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Star, ArrowLeft, Zap, Shield, Clock, Eye, Mountain, Crosshair, Brain, Check, Car, X, Gauge, Flame, Cog, Wind, Crown, Shuffle, Scissors, Venus, Mars } from "lucide-react";
 import AvatarCompanion from "@/components/AvatarCompanion";
-import { getGender, setGender, type AvatarGender } from "@/lib/gender";
+import { getGender, setGender, getAvatarScale, setAvatarScale, type AvatarGender } from "@/lib/gender";
 import { useLang } from "@/components/LanguageProvider";
 import type { Language } from "@/lib/language";
 import Link from "next/link";
@@ -127,6 +127,13 @@ type ShopTranslations = {
     hdl: string;
   };
   carDescriptions: Record<string, string>;
+  preview: {
+    title: string;
+    hint: string;
+    girl: string;
+    boy: string;
+    size: string;
+  };
 };
 
 const SHOP_TRANSLATIONS: Record<Language, ShopTranslations> = {
@@ -191,6 +198,13 @@ const SHOP_TRANSLATIONS: Record<Language, ShopTranslations> = {
       racer: "Racing car. Excellent speed and handling with drift.",
       supercar: "The best. Nitro boost, drift, maximum speed and acceleration.",
     },
+    preview: {
+      title: "AVATAR PREVIEW",
+      hint: "Buy items and see them on your avatar instantly!",
+      girl: "Girl",
+      boy: "Boy",
+      size: "Size",
+    },
   },
   hu: {
     header: "BOLT",
@@ -252,6 +266,13 @@ const SHOP_TRANSLATIONS: Record<Language, ShopTranslations> = {
       muscle: "Erős izomautó drift képességgel. Nehezebb a kormányzás.",
       racer: "Versenyautó. Kiváló sebesség és kezelhetőség drifttel.",
       supercar: "A legjobb. Nitro boost, drift, maximális sebesség és gyorsulás.",
+    },
+    preview: {
+      title: "AVATÁR ELŐNÉZET",
+      hint: "Vásárolj tárgyakat, és azonnal látod az avatáron!",
+      girl: "Lány",
+      boy: "Fiú",
+      size: "Méret",
     },
   },
   de: {
@@ -315,6 +336,13 @@ const SHOP_TRANSLATIONS: Record<Language, ShopTranslations> = {
       racer: "Rennwagen. Ausgezeichnete Geschwindigkeit und Handling mit Drift.",
       supercar: "Das Beste. Nitro-Boost, Drift, maximale Geschwindigkeit und Beschleunigung.",
     },
+    preview: {
+      title: "AVATAR-VORSCHAU",
+      hint: "Kaufe Gegenstände und sieh sie sofort auf deinem Avatar!",
+      girl: "Mädchen",
+      boy: "Junge",
+      size: "Größe",
+    },
   },
   ro: {
     header: "MAGAZIN",
@@ -376,6 +404,13 @@ const SHOP_TRANSLATIONS: Record<Language, ShopTranslations> = {
       muscle: "Mașină cu motor puternic cu capacitate de drift. Direcție mai dificilă.",
       racer: "Mașina de curse. Viteză și manevrabilitate excelente cu drift.",
       supercar: "Cea mai bună. Nitro boost, drift, viteză maximă și accelerație.",
+    },
+    preview: {
+      title: "PREVIZUALIZARE AVATAR",
+      hint: "Cumpără obiecte și vezi-le imediat pe avatar!",
+      girl: "Fată",
+      boy: "Băiat",
+      size: "Mărime",
     },
   },
 };
@@ -668,7 +703,7 @@ export default function ShopPage() {
   const [activeTrail, setActiveTrailState] = useState<string | null>(null);
   const [ownedCars, setOwnedCars] = useState<string[]>(["starter"]);
   const [activeCar, setActiveCar] = useState("starter");
-  const [tab, setTab] = useState<Tab>("cars");
+  const [tab, setTab] = useState<Tab>("skins");
   const [notification, setNotification] = useState<string | null>(null);
   const [boughtPowerUps, setBoughtPowerUps] = useState<Record<string, number>>({});
   const [selectedCar, setSelectedCar] = useState<CarDef | null>(null);
@@ -685,6 +720,7 @@ export default function ShopPage() {
 
   const [shopGender, setShopGender] = useState<AvatarGender>('girl');
   const [avatarMood, setAvatarMood] = useState<'idle' | 'happy'>('idle');
+  const [avatarScaleVal, setAvatarScaleVal] = useState(1.0);
 
   // Computed avatar props for preview
   const previewHairDef = HAIR_STYLES.find(h => h.id === activeHairId) || null;
@@ -728,6 +764,7 @@ export default function ShopPage() {
     setActiveHairId(getActiveHair());
     refreshClothing();
     setShopGender(getGender());
+    setAvatarScaleVal(getAvatarScale());
     const saved = localStorage.getItem("plizio_powerups");
     if (saved) setBoughtPowerUps(JSON.parse(saved));
   }, []);
@@ -972,8 +1009,8 @@ export default function ShopPage() {
   ];
 
   const TABS: { id: Tab; label: string; icon: string }[] = [
-    { id: "cars", label: t.tabs.cars, icon: "🏎️" },
     { id: "skins", label: t.tabs.skins, icon: "🎨" },
+    { id: "cars", label: t.tabs.cars, icon: "🏎️" },
     { id: "powerups", label: t.tabs.powerups, icon: "⚡" },
     { id: "abilities", label: t.tabs.abilities, icon: "🏔️" },
   ];
@@ -1205,7 +1242,7 @@ export default function ShopPage() {
         {/* ── Live 3D Avatar Preview ── */}
         <div className="w-full max-w-md bg-white/[0.03] border border-white/8 rounded-2xl overflow-hidden">
           <div className="flex items-center">
-            {/* Avatar canvas */}
+            {/* Avatar canvas — with orbit controls for 360° view */}
             <div className="w-40 h-40 flex-shrink-0">
               <AvatarCompanion
                 mood={avatarMood}
@@ -1222,27 +1259,45 @@ export default function ShopPage() {
                 activeHat={previewHatDef}
                 activeTrail={previewTrailDef}
                 activeHair={previewHairDef}
+                orbitControls
               />
             </div>
             {/* Info + gender switch */}
             <div className="flex-1 px-3 py-3 flex flex-col gap-2">
-              <span className="text-white/60 text-xs font-bold">AVATÁR ELŐNÉZET</span>
+              <span className="text-white/60 text-xs font-bold">{t.preview.title}</span>
               <div className="flex gap-1.5">
                 <button
                   onClick={() => handleGenderToggle('girl')}
                   className={`flex-1 flex items-center justify-center gap-1 py-1.5 rounded-lg text-xs font-bold border transition-all ${shopGender === 'girl' ? 'bg-[#E040FB]/15 border-[#E040FB]/40 text-[#E040FB]' : 'border-white/10 text-white/30'}`}
                 >
-                  <Venus size={11} /> Lány
+                  <Venus size={11} /> {t.preview.girl}
                 </button>
                 <button
                   onClick={() => handleGenderToggle('boy')}
                   className={`flex-1 flex items-center justify-center gap-1 py-1.5 rounded-lg text-xs font-bold border transition-all ${shopGender === 'boy' ? 'bg-[#00D4FF]/15 border-[#00D4FF]/40 text-[#00D4FF]' : 'border-white/10 text-white/30'}`}
                 >
-                  <Mars size={11} /> Fiú
+                  <Mars size={11} /> {t.preview.boy}
                 </button>
               </div>
               <div className="text-[10px] text-white/20 leading-tight">
-                Vásárolj tárgyakat, és azonnal látod az avatáron!
+                {t.preview.hint}
+              </div>
+              {/* Avatar size slider */}
+              <div className="flex items-center gap-2 mt-1">
+                <span className="text-[9px] text-white/30 font-bold shrink-0">{t.preview.size}</span>
+                <input
+                  type="range"
+                  min={60}
+                  max={140}
+                  value={Math.round(avatarScaleVal * 100)}
+                  onChange={(e) => {
+                    const v = parseInt(e.target.value) / 100;
+                    setAvatarScaleVal(v);
+                    setAvatarScale(v);
+                  }}
+                  className="flex-1 h-1 accent-[#E040FB] cursor-pointer"
+                />
+                <span className="text-[9px] text-white/30 font-mono w-7 text-right">{Math.round(avatarScaleVal * 100)}%</span>
               </div>
             </div>
           </div>
@@ -1362,7 +1417,7 @@ export default function ShopPage() {
                     <span className="text-white/70 text-xs font-bold block">{item.name}</span>
                     <span className="text-white/20 text-[9px] capitalize">{item.type}</span>
                   </div>
-                  {active ? <Check size={14} className="text-[#E040FB]" />
+                  {active ? <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
                     : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
                     : item.price === 0 ? <span className="text-green-400/60 text-[9px] font-bold">FREE</span>
                     : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
@@ -1389,7 +1444,7 @@ export default function ShopPage() {
                     <span className="text-white/70 text-xs font-bold block">{item.name}</span>
                     <span className="text-white/20 text-[9px] capitalize">{item.type}</span>
                   </div>
-                  {active ? <Check size={14} className="text-[#E040FB]" />
+                  {active ? <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
                     : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
                     : item.price === 0 ? <span className="text-green-400/60 text-[9px] font-bold">FREE</span>
                     : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
@@ -1416,7 +1471,7 @@ export default function ShopPage() {
                     <span className="text-white/70 text-xs font-bold block">{item.name}</span>
                     <span className="text-white/20 text-[9px] capitalize">{item.type}</span>
                   </div>
-                  {active ? <Check size={14} className="text-[#E040FB]" />
+                  {active ? <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
                     : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
                     : item.price === 0 ? <span className="text-green-400/60 text-[9px] font-bold">FREE</span>
                     : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
@@ -1440,7 +1495,7 @@ export default function ShopPage() {
                   <div className="text-2xl">{item.icon}</div>
                   <span className="text-white/50 text-[9px] font-bold">{item.name}</span>
                   <div className="w-8 h-12 rounded-md" style={{ background: `linear-gradient(180deg, ${item.color}, ${item.color}80)`, boxShadow: `0 0 8px ${item.emissive}30` }} />
-                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />EQUIPPED</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
                     : owned ? <span className="text-white/20 text-[8px] font-bold">EQUIP</span>
                     : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
                 </motion.button>
@@ -1466,7 +1521,7 @@ export default function ShopPage() {
                     <span className="text-white/70 text-xs font-bold block">{item.name}</span>
                     <span className="text-white/20 text-[9px] capitalize">{item.type}</span>
                   </div>
-                  {active ? <Check size={14} className="text-[#E040FB]" />
+                  {active ? <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
                     : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
                     : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
                 </motion.button>
@@ -1491,7 +1546,7 @@ export default function ShopPage() {
                   <div className="flex-1 min-w-0 text-left">
                     <span className="text-white/70 text-xs font-bold block">{item.name}</span>
                   </div>
-                  {active ? <Check size={14} className="text-[#E040FB]" />
+                  {active ? <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
                     : owned ? <span className="text-white/15 text-[9px] font-bold">EQUIP</span>
                     : <span className="text-[#E040FB] text-[10px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{item.price}</span>}
                 </motion.button>
@@ -1516,7 +1571,7 @@ export default function ShopPage() {
                     <HatPreview type={hat.type} color={hat.color} emissive={hat.emissive} size={48} />
                   </div>
                   <span className="text-white/50 text-[9px] font-bold">{hat.name}</span>
-                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />EQUIPPED</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
                     : owned ? <span className="text-white/20 text-[8px] font-bold">EQUIP</span>
                     : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{hat.price}</span>}
                 </motion.button>
@@ -1541,7 +1596,7 @@ export default function ShopPage() {
                     <TrailPreview type={trail.type} color={trail.color} emissive={trail.emissive} size={48} />
                   </div>
                   <span className="text-white/50 text-[9px] font-bold">{trail.name}</span>
-                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} />EQUIPPED</span>
+                  {active ? <span className="text-[#E040FB] text-[8px] font-black flex items-center gap-0.5"><Check size={10} /> {t.buttons.active}</span>
                     : owned ? <span className="text-white/20 text-[8px] font-bold">EQUIP</span>
                     : <span className="text-[#E040FB] text-[9px] font-black flex items-center gap-0.5"><Star size={8} fill="#E040FB" />{trail.price}</span>}
                 </motion.button>

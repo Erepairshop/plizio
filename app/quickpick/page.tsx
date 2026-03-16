@@ -12,7 +12,7 @@ import { incrementTotalGames, incrementPerfectScores, updateStats } from "@/lib/
 import MilestonePopup from "@/components/MilestonePopup";
 import { useLang } from "@/components/LanguageProvider";
 import type { Language } from "@/lib/language";
-import { submitScore, abandonMatch, submitMixRoundScore, pollMixRound, subscribeToMatch, type MultiplayerMatch } from "@/lib/multiplayer";
+import { submitScore, abandonMatch, submitMixRoundScore, pollMixRound } from "@/lib/multiplayer";
 import MultiplayerExitConfirm from "@/components/MultiplayerExitConfirm";
 import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
 import MultiplayerResult from "@/components/MultiplayerResult";

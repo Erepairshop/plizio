@@ -8,7 +8,6 @@ import { getUsername } from "@/lib/username";
 import {
   getMyPendingChallenges, acceptChallenge, declineChallenge,
   acceptGroupChallenge, declineGroupChallenge, isGroupMatch,
-  subscribeToMatch,
   type MultiplayerMatch, type MatchPlayer, type GameType,
   GAME_LABELS,
 } from "@/lib/multiplayer";

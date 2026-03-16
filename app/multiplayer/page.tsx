@@ -5,9 +5,9 @@ import { useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import {
   Swords, Search, Clock, Trophy, ChevronLeft, Send, X,
-  Loader2, Check, XCircle, Gamepad2, Users, Zap, Brain,
+  Loader2, Check, XCircle, Gamepad2, Users, Zap,
   Crosshair, Shuffle, Layers, Plus, Minus,
-  Target, Eye, Type, Crown, BookOpen, Grid3x3, Hash, Mountain, Lightbulb, Merge, Navigation, CircleDot,
+  Target, Type, Grid3x3, Hash, Mountain, Lightbulb, Merge, Navigation, CircleDot,
 } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
 import { getUsername, hasUsername, searchUsernames } from "@/lib/username";
@@ -47,6 +47,7 @@ const T = {
     noChallenges: "No pending challenges",
     challengeSent: "Challenge sent!",
     opponentNotFound: "Player not found",
+    alreadyChallenged: "You already have an active challenge with this player",
     needName: "Set your name first on the home page",
     incoming: "Incoming challenge!",
     sent: "Sent",
@@ -93,6 +94,7 @@ const T = {
     noChallenges: "Nincs függő kihívás",
     challengeSent: "Kihívás elküldve!",
     opponentNotFound: "Játékos nem található",
+    alreadyChallenged: "Már van aktív kihívásod ezzel a játékossal",
     needName: "Előbb adj meg nevet a főoldalon",
     incoming: "Bejövő kihívás!",
     sent: "Elküldve",
@@ -139,6 +141,7 @@ const T = {
     noChallenges: "Keine ausstehenden Herausforderungen",
     challengeSent: "Herausforderung gesendet!",
     opponentNotFound: "Spieler nicht gefunden",
+    alreadyChallenged: "Du hast bereits eine aktive Herausforderung mit diesem Spieler",
     needName: "Setze zuerst deinen Namen auf der Startseite",
     incoming: "Eingehende Herausforderung!",
     sent: "Gesendet",
@@ -185,6 +188,7 @@ const T = {
     noChallenges: "Nicio provocare",
     challengeSent: "Provocare trimisă!",
     opponentNotFound: "Jucător negăsit",
+    alreadyChallenged: "Ai deja o provocare activă cu acest jucător",
     needName: "Mai întâi alege un nume pe pagina principală",
     incoming: "Provocare primită!",
     sent: "Trimise",
@@ -212,15 +216,11 @@ const T = {
 
 const GAME_ICONS: Record<GameType, typeof Zap> = {
   quickpick: Zap,
-  memoryflash: Brain,
   wordscramble: Shuffle,
   reflexrush: Target,
   numberrush: Layers,
-  spotdiff: Eye,
   sequencerush: Hash,
   wordhunt: Type,
-  milliomos: Crown,
-  kodex: BookOpen,
   numberpath: Grid3x3,
   minisudoku: Grid3x3,
   skyclimb: Mountain,
@@ -228,9 +228,7 @@ const GAME_ICONS: Record<GameType, typeof Zap> = {
   numbermerge: Merge,
   nonogram: Grid3x3,
   mazerush: Navigation,
-  pingpong: CircleDot,
   airhockey: CircleDot,
-  tennis: CircleDot,
 };
 
 type Tab = "challenge" | "active" | "history";
@@ -369,6 +367,8 @@ export default function MultiplayerPage() {
         loadData();
       } else if (error === "opponent_not_found") {
         setSendError(t.opponentNotFound);
+      } else if (error === "already_challenged") {
+        setSendError(t.alreadyChallenged);
       } else if (error === "not_authenticated") {
         setSendError(t.needName);
       } else {

@@ -209,6 +209,18 @@ export const FACES: FaceDef[] = [
     mouthType: "neutral",
     mouthColor: "#00FF88",
   },
+  {
+    id: "bunny",
+    name: "Bunny",
+    icon: "🐰",
+    price: 6,
+    eyeType: "round",
+    eyeColor: "#5C2D12",
+    mouthType: "bunny",
+    mouthColor: "#FF8CAD",
+    blush: true,
+    blushColor: "#FFB3C6",
+  },
 ];
 
 // ─── Functions ───────────────────────────────────────
