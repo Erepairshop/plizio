@@ -570,18 +570,28 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
 
     return (
       <>
-{/* Eye white — almond-shaped, subtle */}
+{/* Eye white — almond-shaped with socket depth */}
 {!specialEye && !isWinkClosed && (
   <group position={[x, 0.04, 0.188]}>
-    {/* Sclera — smaller, more almond */}
-    <mesh scale={[0.88, 0.58, 0.32]}>
+    {/* Eye socket shadow — dark ring behind sclera for depth */}
+    <mesh scale={[0.96, 0.68, 0.28]} position={[0, -0.002, -0.003]}>
       <sphereGeometry args={[0.048, 10, 8]} />
-      <meshStandardMaterial color="#f8f5f0" roughness={0.25} />
+      <meshStandardMaterial color={skinDark} roughness={0.8} />
     </mesh>
-    {/* Upper eyelid crease — subtle skin-tone shadow */}
-    <mesh position={[0, 0.018, 0.010]} scale={[0.92, 0.25, 0.38]}>
+    {/* Sclera — slightly tinted for warmth, smaller than socket */}
+    <mesh scale={[0.78, 0.48, 0.30]}>
+      <sphereGeometry args={[0.048, 10, 8]} />
+      <meshStandardMaterial color="#f5f0ea" roughness={0.3} />
+    </mesh>
+    {/* Upper eyelid — skin-tone, covers top of eye */}
+    <mesh position={[0, 0.020, 0.008]} scale={[0.90, 0.32, 0.36]}>
       <sphereGeometry args={[0.048, 8, 6]} />
-      <meshStandardMaterial color={skinDark} roughness={0.7} transparent opacity={0.3} />
+      <meshStandardMaterial color={skinColor} roughness={0.6} />
+    </mesh>
+    {/* Lower eyelid — subtle skin-tone rim at bottom */}
+    <mesh position={[0, -0.016, 0.006]} scale={[0.82, 0.18, 0.34]}>
+      <sphereGeometry args={[0.048, 8, 6]} />
+      <meshStandardMaterial color={skinColor} roughness={0.6} transparent opacity={0.7} />
     </mesh>
   </group>
 )}
