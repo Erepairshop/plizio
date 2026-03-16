@@ -1,11 +1,14 @@
 // ─── DAILY LOGIN REWARD SYSTEM ───────────────────────
 // Awards 1⭐ per day + streak bonuses at 7/14/30 days.
+// Stars are NOT given immediately on login — they are awarded after the first
+// game of the day (via awardPendingDailyStars(), triggered by plizio-game-played).
 // Streak also feeds PlayerStats.highestStreak → unlocks streak milestones.
 
 import { addSpecialCards } from "./specialCards";
 import { updateStats } from "./milestones";
 
 const KEY = "plizio_daily_login";
+const PENDING_KEY = "plizio_daily_pending_stars";
 
 export interface DailyLoginState {
   lastDate: string;   // "YYYY-MM-DD"
@@ -67,12 +70,25 @@ export function claimDailyReward(): DailyRewardResult | null {
   // Save state
   localStorage.setItem(KEY, JSON.stringify({ lastDate: t, streakCount: newStreak }));
 
-  // Award stars
+  // Save pending stars — awarded after first game of the day (NOT immediately)
   const total = 1 + streakBonus;
-  addSpecialCards(total);
+  localStorage.setItem(PENDING_KEY, String(total));
 
   // Update highestStreak in PlayerStats → triggers streak milestones
   updateStats({ highestStreak: newStreak });
 
   return { alreadyClaimed: false, baseReward: 1, streakBonus, streakCount: newStreak, streakBroken };
+}
+
+/** Call after a game is played. Awards pending daily stars if any. Returns stars awarded (0 if none). */
+export function awardPendingDailyStars(): number {
+  if (typeof window === "undefined") return 0;
+  const raw = localStorage.getItem(PENDING_KEY);
+  if (!raw) return 0;
+  const stars = parseInt(raw, 10);
+  if (stars <= 0) return 0;
+  localStorage.removeItem(PENDING_KEY);
+  addSpecialCards(stars);
+  window.dispatchEvent(new Event("plizio-cards-changed"));
+  return stars;
 }

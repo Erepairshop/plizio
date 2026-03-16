@@ -140,6 +140,9 @@ export function incrementTotalGames(): PlayerStats {
   const current = getStats();
   current.totalGames += 1;
   localStorage.setItem(STATS_KEY, JSON.stringify(current));
+  if (typeof window !== "undefined") {
+    window.dispatchEvent(new Event("plizio-game-played"));
+  }
   return current;
 }
 
