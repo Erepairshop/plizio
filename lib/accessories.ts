@@ -15,7 +15,7 @@ export interface HatDef {
   emissive: string;
   emissiveIntensity: number;
   type: "crown" | "cap" | "halo" | "horns" | "tophat" | "helmet" | "antenna" | "wizard"
-      | "beanie" | "bucket" | "party" | "fedora" | "viking" | "ninja" | "snapback" | "bandana";
+      | "beanie" | "bucket" | "party" | "fedora" | "viking" | "ninja" | "snapback" | "bandana" | "bunnyears";
 }
 
 export interface TrailDef {
@@ -71,6 +71,10 @@ export const HATS: HatDef[] = [
   { id: "ninja",          icon: "🥷",  name: "Ninja Wrap",      price: 13, color: "#1a1a1a", emissive: "#CC0000", emissiveIntensity: 0.4, type: "ninja" },
   { id: "antenna",        icon: "📡",  name: "Antenna",         price: 7,  color: "#00FF88", emissive: "#00FF88", emissiveIntensity: 0.8, type: "antenna" },
   { id: "party_hat",      icon: "🎉",  name: "Party Hat",       price: 5,  color: "#FF6688", emissive: "#FF88AA", emissiveIntensity: 0.3, type: "party" },
+
+  // ── Állatos ─────────────────────────────────────────────────
+  { id: "bunny_ears",     icon: "🐰",  name: "Bunny Ears",      price: 8,  color: "#F8E8F0", emissive: "#FFB3C6", emissiveIntensity: 0.15, type: "bunnyears" },
+  { id: "bunny_ears_pink",icon: "🩷",  name: "Pink Bunny Ears", price: 10, color: "#FFB3C6", emissive: "#FF69B4", emissiveIntensity: 0.25, type: "bunnyears" },
 ];
 
 export const TRAILS: TrailDef[] = [

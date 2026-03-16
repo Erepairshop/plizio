@@ -111,6 +111,37 @@ function HatMesh({ hat, skinColor }: { hat: HatDef; skinColor: string }) {
       </group>
     );
   }
+  if (hat.type === 'bunnyears') {
+    const innerCol = new THREE.Color(col).lerp(new THREE.Color('#FF8CAD'), 0.6).getStyle();
+    return (
+      <group position={[0, 0.22, 0]}>
+        {/* Left ear */}
+        <group position={[-0.09, 0.06, 0]} rotation={[0.15, 0, -0.2]}>
+          {/* Outer ear */}
+          <mesh scale={[1, 1, 0.4]}>
+            <capsuleGeometry args={[0.04, 0.22, 4, 8]} />
+            <meshStandardMaterial color={col} emissive={em} emissiveIntensity={ei} roughness={0.5} />
+          </mesh>
+          {/* Inner ear (pink) */}
+          <mesh position={[0, 0, 0.008]} scale={[0.6, 0.8, 0.3]}>
+            <capsuleGeometry args={[0.035, 0.18, 4, 8]} />
+            <meshStandardMaterial color={innerCol} roughness={0.4} />
+          </mesh>
+        </group>
+        {/* Right ear */}
+        <group position={[0.09, 0.06, 0]} rotation={[0.15, 0, 0.2]}>
+          <mesh scale={[1, 1, 0.4]}>
+            <capsuleGeometry args={[0.04, 0.22, 4, 8]} />
+            <meshStandardMaterial color={col} emissive={em} emissiveIntensity={ei} roughness={0.5} />
+          </mesh>
+          <mesh position={[0, 0, 0.008]} scale={[0.6, 0.8, 0.3]}>
+            <capsuleGeometry args={[0.035, 0.18, 4, 8]} />
+            <meshStandardMaterial color={innerCol} roughness={0.4} />
+          </mesh>
+        </group>
+      </group>
+    );
+  }
   if (hat.type === 'tophat') {
     return (
       <group position={[0, 0.23, 0]}>
@@ -835,6 +866,49 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
           <mesh position={[0, 0, 0.012]}>
             <sphereGeometry args={[0.013, 6, 6]} />
             <meshStandardMaterial color={mouthCol} roughness={0.5} />
+          </mesh>
+        </group>
+
+      ) : mouthType === 'bunny' ? (
+        /* Bunny: small round nose + Y-shaped mouth + whiskers */
+        <group ref={mouthRef as React.Ref<THREE.Group>} position={[0, -0.08, 0.17]}>
+          {/* Small round nose */}
+          <mesh position={[0, 0.012, 0.022]}>
+            <sphereGeometry args={[0.018, 8, 6]} />
+            <meshStandardMaterial color={mouthCol} roughness={0.4} />
+          </mesh>
+          {/* Y-mouth: center vertical line */}
+          <mesh position={[0, -0.018, 0.018]}>
+            <boxGeometry args={[0.008, 0.024, 0.006]} />
+            <meshStandardMaterial color={mouthCol} roughness={0.5} />
+          </mesh>
+          {/* Y-mouth: left branch */}
+          <mesh position={[-0.014, -0.032, 0.018]} rotation={[0, 0, 0.5]}>
+            <boxGeometry args={[0.024, 0.008, 0.006]} />
+            <meshStandardMaterial color={mouthCol} roughness={0.5} />
+          </mesh>
+          {/* Y-mouth: right branch */}
+          <mesh position={[0.014, -0.032, 0.018]} rotation={[0, 0, -0.5]}>
+            <boxGeometry args={[0.024, 0.008, 0.006]} />
+            <meshStandardMaterial color={mouthCol} roughness={0.5} />
+          </mesh>
+          {/* Whiskers — left */}
+          <mesh position={[-0.06, 0.005, 0.015]} rotation={[0, 0, 0.1]}>
+            <boxGeometry args={[0.06, 0.004, 0.003]} />
+            <meshStandardMaterial color="#999" roughness={0.6} transparent opacity={0.5} />
+          </mesh>
+          <mesh position={[-0.06, -0.008, 0.015]} rotation={[0, 0, -0.1]}>
+            <boxGeometry args={[0.06, 0.004, 0.003]} />
+            <meshStandardMaterial color="#999" roughness={0.6} transparent opacity={0.5} />
+          </mesh>
+          {/* Whiskers — right */}
+          <mesh position={[0.06, 0.005, 0.015]} rotation={[0, 0, -0.1]}>
+            <boxGeometry args={[0.06, 0.004, 0.003]} />
+            <meshStandardMaterial color="#999" roughness={0.6} transparent opacity={0.5} />
+          </mesh>
+          <mesh position={[0.06, -0.008, 0.015]} rotation={[0, 0, 0.1]}>
+            <boxGeometry args={[0.06, 0.004, 0.003]} />
+            <meshStandardMaterial color="#999" roughness={0.6} transparent opacity={0.5} />
           </mesh>
         </group>
 
