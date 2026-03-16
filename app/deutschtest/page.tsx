@@ -431,7 +431,7 @@ export default function DeutschTestPage() {
     const ptr: Record<string, number> = {};
     const allQs: TestQuestion[] = [];
 
-    // ── Separate visual questions from regular ones ────────────────────────────
+    // ── Separate visual questions for dedicated visual groups at end ─────────────
     const VISUAL_TYPES = new Set([
       "genus-sort","satz-ordnen","bild-beschriften","fehler-finden",
       "wortfamilien-baum","geschichte-sortieren","wortarten-sortieren",
@@ -444,35 +444,32 @@ export default function DeutschTestPage() {
       regularPools[sid] = pools[sid].filter(q => !VISUAL_TYPES.has(q.type));
     }
 
-    // Count occurrences per topic in the round-robin → fire visual group on last occurrence
-    const topicOccurrences: Record<string, number> = {};
+    // Build regular groups round-robin (non-visual only)
     for (let g2 = 0; g2 < groupCount; g2++) {
       const sid = ids[g2 % ids.length];
-      topicOccurrences[sid] = (topicOccurrences[sid] ?? 0) + 1;
-    }
-    const topicCurrentOccurrence: Record<string, number> = {};
-
-    // Build groups round-robin; replace each topic's LAST group with its visual group
-    for (let g2 = 0; g2 < groupCount; g2++) {
-      const sid = ids[g2 % ids.length];
-      topicCurrentOccurrence[sid] = (topicCurrentOccurrence[sid] ?? 0) + 1;
-
-      const vPool = visualPools[sid] ?? [];
-      const isLastOccurrence = topicCurrentOccurrence[sid] === topicOccurrences[sid];
-      const useVisual = isLastOccurrence && vPool.length >= 3;
-
-      if (useVisual) {
-        // Visual group: 3 visual questions together
-        vPool.slice(0, 3).forEach(q => allQs.push({ ...q }));
-      } else {
-        const pool = regularPools[sid] ?? [];
-        const start = ptr[sid] ?? 0;
-        for (let k = 0; k < 3; k++) {
-          const idx = (start + k) % Math.max(pool.length, 1);
-          if (pool[idx]) allQs.push({ ...pool[idx] });
-        }
-        ptr[sid] = (start + 3) % Math.max(pool.length, 1);
+      const pool = regularPools[sid] ?? [];
+      const start = ptr[sid] ?? 0;
+      for (let k = 0; k < 3; k++) {
+        const idx = (start + k) % Math.max(pool.length, 1);
+        if (pool[idx]) allQs.push({ ...pool[idx] });
       }
+      ptr[sid] = (start + 3) % Math.max(pool.length, 1);
+    }
+
+    // Append visual groups at end: collect 1 visual Q per topic (shuffled), group 3-by-3
+    // Max 2 visual groups (6 questions) to keep test length reasonable
+    const visualCollected: TestQuestion[] = [];
+    const shuffledIdsForVisual = [...ids].sort(() => Math.random() - 0.5);
+    for (const sid of shuffledIdsForVisual) {
+      const vPool = visualPools[sid] ?? [];
+      if (vPool.length > 0) {
+        visualCollected.push({ ...vPool[0] });
+        if (visualCollected.length >= 6) break;
+      }
+    }
+    // Group into batches of exactly 3
+    for (let i = 0; i + 2 < visualCollected.length; i += 3) {
+      allQs.push(...visualCollected.slice(i, i + 3));
     }
 
     if (withLesetest) {
@@ -1042,6 +1039,30 @@ export default function DeutschTestPage() {
                 const showSection = qi % 3 === 0 && !q.passageText;
                 const aufgabeNr = Math.floor(qi / 3) + 1;
 
+                // Visual block detection: all 3 questions in this Aufgabe are visual
+                const VISUAL_TYPES_SET = new Set([
+                  "genus-sort","satz-ordnen","bild-beschriften","fehler-finden",
+                  "wortfamilien-baum","geschichte-sortieren","wortarten-sortieren",
+                  "zeitformen-zuordnen","satzglied-markieren","kasus-markieren","adjektiv-endungen",
+                ]);
+                const VISUAL_TYPE_LABELS: Record<string, string> = {
+                  "genus-sort": "Artikel bestimmen 🔵",
+                  "satz-ordnen": "Satz ordnen ✏️",
+                  "bild-beschriften": "Bild beschriften 🖼️",
+                  "fehler-finden": "Fehler finden 🔍",
+                  "wortfamilien-baum": "Wortfamilien 🌳",
+                  "geschichte-sortieren": "Geschichte ordnen 📋",
+                  "wortarten-sortieren": "Wortarten bestimmen 🏷️",
+                  "zeitformen-zuordnen": "Zeitformen zuordnen ⏰",
+                  "satzglied-markieren": "Satzglieder markieren 📐",
+                  "kasus-markieren": "Kasus bestimmen 📌",
+                  "adjektiv-endungen": "Adjektiv-Endungen ✍️",
+                };
+                const blockStart = Math.floor(qi / 3) * 3;
+                const blockQs = [questions[blockStart], questions[blockStart+1], questions[blockStart+2]].filter(Boolean);
+                const isVisualBlock = blockQs.length === 3 && blockQs.every(qq => VISUAL_TYPES_SET.has(qq.type));
+                const subLabel = isVisualBlock ? String.fromCharCode(97 + (qi % 3)) : null; // 'a','b','c'
+
                 // Show passage once per unique passageTitle
                 const showPassage = q.passageText &&
                   (qi === 0 || questions[qi - 1].passageTitle !== q.passageTitle);
@@ -1061,22 +1082,35 @@ export default function DeutschTestPage() {
 
                     {/* Aufgabe section header every 3 questions */}
                     {showSection && (
-                      <div style={{ height: 28, lineHeight: '28px' }}
-                        className="flex items-center gap-2">
-                        <span className="text-[10px] font-black uppercase tracking-widest text-slate-400">
-                          Aufgabe {aufgabeNr}
-                        </span>
-                        <span className="flex-1 border-t border-slate-100" />
-                      </div>
+                      isVisualBlock ? (
+                        <div style={{ lineHeight: '28px' }} className="flex items-center gap-2 mt-1">
+                          <span className="text-[10px] font-black uppercase tracking-widest bg-indigo-50 text-indigo-500 border border-indigo-200 rounded px-2 py-0.5 whitespace-nowrap">
+                            Aufgabe {aufgabeNr}
+                          </span>
+                          <span className="text-xs font-bold text-indigo-600 whitespace-nowrap">
+                            {VISUAL_TYPE_LABELS[q.type] ?? "Interaktive Aufgabe"}
+                          </span>
+                          <span className="flex-1 border-t border-indigo-100" />
+                        </div>
+                      ) : (
+                        <div style={{ height: 28, lineHeight: '28px' }}
+                          className="flex items-center gap-2">
+                          <span className="text-[10px] font-black uppercase tracking-widest text-slate-400">
+                            Aufgabe {aufgabeNr}
+                          </span>
+                          <span className="flex-1 border-t border-slate-100" />
+                        </div>
+                      )
                     )}
 
                     {/* Question row — sits on a line, NO fractional padding */}
                     <div style={{ lineHeight: '28px' }} className="flex items-start gap-2">
-                      <span className="font-mono text-xs text-slate-400 w-5 text-right shrink-0" style={{ lineHeight: '28px' }}>
-                        {qi + 1}.
+                      <span className={`font-mono text-xs w-5 text-right shrink-0 ${isVisualBlock ? 'text-indigo-400 font-bold' : 'text-slate-400'}`} style={{ lineHeight: '28px' }}>
+                        {isVisualBlock ? `${subLabel})` : `${qi + 1}.`}
                       </span>
+                      {/* For visual blocks, question text is shown in block header — suppress individual header */}
                       <p className="flex-1 text-slate-800 text-sm font-semibold" style={{ lineHeight: '28px' }}>
-                        {q.type === "anlaut-bild" ? "" : q.question}
+                        {isVisualBlock ? "" : q.type === "anlaut-bild" ? "" : q.question}
                       </p>
                       {/* TTS button */}
                       <button
