@@ -8,6 +8,7 @@ import Link from "next/link";
 import MilestonePopup from "@/components/MilestonePopup";
 import RewardReveal from "@/components/RewardReveal";
 import { saveCard, generateCardId, type CardRarity } from "@/lib/cards";
+import { seededRandom } from "@/lib/seededRandom";
 import { incrementTotalGames } from "@/lib/milestones";
 import AvatarCompanion from "@/components/AvatarCompanion";
 import { getGender } from "@/lib/gender";
@@ -22,6 +23,9 @@ import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
 import { submitScore, abandonMatch, submitMixRoundScore, pollMixRound } from "@/lib/multiplayer";
 import { getUsername } from "@/lib/username";
 import MultiplayerResult from "@/components/MultiplayerResult";
+import { supabase } from "@/lib/supabase/client";
+import type { RealtimeChannel } from "@supabase/supabase-js";
+import MultiplayerOpponentPanel from "@/components/MultiplayerOpponentPanel";
 
 // ─── i18n ────────────────────────────────────────────────────────────────────
 
@@ -233,7 +237,7 @@ function writeSave(s: NRSave) { localStorage.setItem(SAVE_KEY, JSON.stringify(s)
 
 // ─── Grid builder ─────────────────────────────────────────────────────────────
 
-function buildGrid(cfg: NRLevelConfig): GridCell[] {
+function buildGrid(cfg: NRLevelConfig, rng: () => number = Math.random): GridCell[] {
   const total = cfg.gridSize ** 2;
   const cells: GridCell[] = [];
   for (let i = 1; i <= cfg.count; i++) {
@@ -246,7 +250,7 @@ function buildGrid(cfg: NRLevelConfig): GridCell[] {
   }
   while (cells.length < total) cells.push({ type: "empty" });
   for (let i = cells.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
+    const j = Math.floor(rng() * (i + 1));
     [cells[i], cells[j]] = [cells[j], cells[i]];
   }
   return cells;
@@ -354,6 +358,10 @@ function NumberRushPage() {
   const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
   const [mixFinished, setMixFinished] = useState(false);
   const [scoreSubmitted, setScoreSubmitted] = useState(false);
+  const [oppScore, setOppScore] = useState(0);
+  const [oppMood, setOppMood] = useState<"idle" | "focused" | "happy" | "surprised" | "victory" | "disappointed">("focused");
+  const broadcastChannelRef = useRef<RealtimeChannel | null>(null);
+  const broadcastIntervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
   const gridRef        = useRef<GridCell[]>([]);
   const nextTargetRef  = useRef(1);
@@ -447,7 +455,8 @@ function NumberRushPage() {
     const cfg = LEVELS[levelNum - 1];
     cfgRef.current = cfg;
     stopGame();
-    const newGrid = buildGrid(cfg);
+    const rng = seed ? seededRandom(`${seed}-${levelNum}`) : Math.random;
+    const newGrid = buildGrid(cfg, rng);
     gridRef.current = newGrid;
     nextTargetRef.current = 1;
     foundRef.current = 0;
@@ -627,6 +636,37 @@ function NumberRushPage() {
     }, 2000);
     return () => clearInterval(interval);
   }, [screen, isMultiplayer, matchId, isMix, playerNum, router, opponentName, mixround]);
+
+  // ─── MULTIPLAYER: Broadcast channel setup ────────
+  useEffect(() => {
+    if (!isMultiplayer || !matchId) return;
+    const channel = supabase.channel(`numberrush-${matchId}`, {
+      config: { broadcast: { self: false } },
+    });
+    channel.on("broadcast", { event: "scoreUpdate" }, (payload) => {
+      if (payload.payload.p !== playerNum) {
+        setOppScore(payload.payload.score);
+        setOppMood("happy");
+        setTimeout(() => setOppMood("focused"), 600);
+      }
+    });
+    channel.subscribe();
+    broadcastChannelRef.current = channel;
+    return () => { channel.unsubscribe(); broadcastChannelRef.current = null; };
+  }, [isMultiplayer, matchId, playerNum]);
+
+  // ─── MULTIPLAYER: Broadcast score updates ────────
+  useEffect(() => {
+    if (!isMultiplayer || screen !== "playing" || !broadcastChannelRef.current) return;
+    broadcastIntervalRef.current = setInterval(() => {
+      broadcastChannelRef.current?.send({
+        type: "broadcast",
+        event: "scoreUpdate",
+        payload: { p: playerNum, score: found },
+      });
+    }, 500);
+    return () => { if (broadcastIntervalRef.current) clearInterval(broadcastIntervalRef.current); };
+  }, [isMultiplayer, screen, playerNum, found]);
 
   const cfg = LEVELS[activeLevel - 1];
 
@@ -939,6 +979,16 @@ function NumberRushPage() {
             {t.levelLabel} {activeLevel}/10 · {t.hint}
           </div>
         </div>
+      )}
+
+      {isMultiplayer && (
+        <MultiplayerOpponentPanel
+          opponentName={opponentName}
+          opponentScore={oppScore}
+          opponentMood={oppMood}
+          totalRounds={cfg.count}
+          isVisible={screen === "playing"}
+        />
       )}
 
       {/* ── REWARD ──────────────────────────────────────────────────────────────── */}

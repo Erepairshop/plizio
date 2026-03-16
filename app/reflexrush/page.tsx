@@ -22,6 +22,10 @@ import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
 import { submitScore, abandonMatch, submitMixRoundScore, pollMixRound } from "@/lib/multiplayer";
 import { getUsername } from "@/lib/username";
 import MultiplayerResult from "@/components/MultiplayerResult";
+import { seededRandom } from "@/lib/seededRandom";
+import { supabase } from "@/lib/supabase/client";
+import type { RealtimeChannel } from "@supabase/supabase-js";
+import MultiplayerOpponentPanel from "@/components/MultiplayerOpponentPanel";
 
 // ─── i18n ────────────────────────────────────────────────────────────────────
 
@@ -223,7 +227,7 @@ function writeSave(s: RRSave) { localStorage.setItem(SAVE_KEY, JSON.stringify(s)
 
 // ─── Cell type selection ──────────────────────────────────────────────────────
 
-function pickCellType(cfg: LevelConfig): CellType {
+function pickCellType(cfg: LevelConfig, rng: () => number = Math.random): CellType {
   const options: { type: CellType; weight: number }[] = [{ type: "green", weight: 50 }];
   if (cfg.hasGold)      options.push({ type: "gold",      weight: 15 });
   if (cfg.hasRed)       options.push({ type: "red",       weight: 20 });
@@ -234,7 +238,7 @@ function pickCellType(cfg: LevelConfig): CellType {
   // TrapGreen: looks identical to green but acts as -5 bomb — level 10 only
   if (cfg.hasTrapGreen) options.push({ type: "trapgreen", weight: 12 });
   const total = options.reduce((s, o) => s + o.weight, 0);
-  let r = Math.random() * total;
+  let r = rng() * total;
   for (const o of options) { r -= o.weight; if (r <= 0) return o.type; }
   return "green";
 }
@@ -356,6 +360,10 @@ function ReflexRushPage() {
   const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
   const [mixFinished, setMixFinished] = useState(false);
   const [scoreSubmitted, setScoreSubmitted] = useState(false);
+  const [oppScore, setOppScore] = useState(0);
+  const [oppMood, setOppMood] = useState<"idle" | "focused" | "happy" | "surprised" | "victory" | "disappointed">("focused");
+  const broadcastChannelRef = useRef<RealtimeChannel | null>(null);
+  const broadcastIntervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
   const gridRef       = useRef<CellType[]>([]);
   const scoreRef      = useRef(0);
@@ -369,6 +377,7 @@ function ReflexRushPage() {
   const spawnTimer    = useRef<ReturnType<typeof setTimeout>   | null>(null);
   const cellTimers    = useRef<(ReturnType<typeof setTimeout> | null)[]>([]);
   const lightningTimer = useRef<ReturnType<typeof setTimeout>  | null>(null);
+  const rngRef = useRef<() => number>(Math.random);
 
   const stopGame = useCallback(() => {
     gameActiveRef.current = false;
@@ -451,8 +460,9 @@ function ReflexRushPage() {
         if (activeCells >= cfg.maxActiveCells) { scheduleSpawn(); return prev; }
         const idleSlots = prev.reduce<number[]>((acc, t, i) => { if (t === "idle") acc.push(i); return acc; }, []);
         if (idleSlots.length === 0) { scheduleSpawn(); return prev; }
-        const slot = idleSlots[Math.floor(Math.random() * idleSlots.length)];
-        const type = pickCellType(cfg);
+        const rng = rngRef.current;
+        const slot = idleSlots[Math.floor(rng() * idleSlots.length)];
+        const type = pickCellType(cfg, rng);
         if (cellTimers.current[slot]) clearTimeout(cellTimers.current[slot]!);
         cellTimers.current[slot] = setTimeout(() => {
           if (!gameActiveRef.current) return;
@@ -461,7 +471,7 @@ function ReflexRushPage() {
         const next = [...prev]; next[slot] = type; gridRef.current = next;
         scheduleSpawn(); return next;
       });
-    }, cfg.spawnInterval + Math.random() * 200 - 100);
+    }, cfg.spawnInterval + rngRef.current() * 200 - 100);
   }, []);
 
   const handleCellClick = useCallback((index: number, e: React.MouseEvent<HTMLButtonElement>) => {
@@ -520,6 +530,7 @@ function ReflexRushPage() {
       ? { ...baseCfg, target: 46, duration: 44, hasTrapGreen: false }
       : baseCfg;
     cfgRef.current = cfg;
+    rngRef.current = seed ? seededRandom(`${seed}-${levelNum}`) : Math.random;
     const total = cfg.gridSize ** 2;
     stopGame();
     scoreRef.current = 0; comboRef.current = 0; lightningRef.current = false; timeLeftRef.current = cfg.duration;
@@ -591,6 +602,37 @@ function ReflexRushPage() {
     }, 2000);
     return () => clearInterval(interval);
   }, [screen, isMultiplayer, matchId, isMix, playerNum, router, opponentName, mixround]);
+
+  // ─── MULTIPLAYER: Broadcast channel setup ────────
+  useEffect(() => {
+    if (!isMultiplayer || !matchId) return;
+    const channel = supabase.channel(`reflexrush-${matchId}`, {
+      config: { broadcast: { self: false } },
+    });
+    channel.on("broadcast", { event: "scoreUpdate" }, (payload) => {
+      if (payload.payload.p !== playerNum) {
+        setOppScore(payload.payload.score);
+        setOppMood("happy");
+        setTimeout(() => setOppMood("focused"), 600);
+      }
+    });
+    channel.subscribe();
+    broadcastChannelRef.current = channel;
+    return () => { channel.unsubscribe(); broadcastChannelRef.current = null; };
+  }, [isMultiplayer, matchId, playerNum]);
+
+  // ─── MULTIPLAYER: Broadcast score updates ────────
+  useEffect(() => {
+    if (!isMultiplayer || screen !== "playing" || !broadcastChannelRef.current) return;
+    broadcastIntervalRef.current = setInterval(() => {
+      broadcastChannelRef.current?.send({
+        type: "broadcast",
+        event: "scoreUpdate",
+        payload: { p: playerNum, score, combo },
+      });
+    }, 500);
+    return () => { if (broadcastIntervalRef.current) clearInterval(broadcastIntervalRef.current); };
+  }, [isMultiplayer, screen, playerNum, score, combo]);
 
   const cfg = LEVELS[activeLevel - 1];
 
@@ -856,6 +898,16 @@ function ReflexRushPage() {
             {t.levelLabel} {activeLevel}/10 · {t.hint}
           </div>
         </div>
+      )}
+
+      {isMultiplayer && (
+        <MultiplayerOpponentPanel
+          opponentName={opponentName}
+          opponentScore={oppScore}
+          opponentMood={oppMood}
+          totalRounds={cfgRef.current.target}
+          isVisible={screen === "playing"}
+        />
       )}
 
       {/* ── REWARD ──────────────────────────────────────────────────────────────── */}

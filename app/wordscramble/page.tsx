@@ -17,6 +17,10 @@ import { getFaceDef, getActiveFace } from "@/lib/faces";
 import { getActive, getTopDef, getBottomDef, getShoeDef, getCapeDef, getGlassesDef, getGloveDef } from "@/lib/clothing";
 import { getHatDef, getActiveHat, getTrailDef, getActiveTrail } from "@/lib/accessories";
 import AvatarCompanion from "@/components/AvatarCompanion";
+import { seededRandom } from "@/lib/seededRandom";
+import { supabase } from "@/lib/supabase/client";
+import type { RealtimeChannel } from "@supabase/supabase-js";
+import MultiplayerOpponentPanel from "@/components/MultiplayerOpponentPanel";
 import MultiplayerExitConfirm from "@/components/MultiplayerExitConfirm";
 import MultiplayerAbandonNotice from "@/components/MultiplayerAbandonNotice";
 import { submitScore, abandonMatch, submitMixRoundScore, pollMixRound } from "@/lib/multiplayer";
@@ -238,16 +242,16 @@ const WORD_LISTS: Record<Language, string[]> = {
 
 const ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
-function shuffleArray<T>(arr: T[]): T[] {
+function shuffleArray<T>(arr: T[], rng: () => number = Math.random): T[] {
   const a = [...arr];
   for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
+    const j = Math.floor(rng() * (i + 1));
     [a[i], a[j]] = [a[j], a[i]];
   }
   return a;
 }
 
-function getWordsForLevel(lang: Language, cfg: WSLevelConfig, usedWords: string[]): string[] {
+function getWordsForLevel(lang: Language, cfg: WSLevelConfig, usedWords: string[], rng: () => number = Math.random): string[] {
   const all = WORD_LISTS[lang];
   let pool = all.filter(w => w.length >= cfg.minLen && w.length <= cfg.maxLen);
   if (pool.length < cfg.wordCount) {
@@ -257,18 +261,18 @@ function getWordsForLevel(lang: Language, cfg: WSLevelConfig, usedWords: string[
   if (pool.length === 0) pool = all;
   const available = pool.filter(w => !usedWords.includes(w));
   const finalPool = available.length >= cfg.wordCount ? available : pool;
-  return shuffleArray(finalPool).slice(0, cfg.wordCount);
+  return shuffleArray(finalPool, rng).slice(0, cfg.wordCount);
 }
 
-function buildLetterPool(word: string, fakeCount: number): { letter: string; isFake: boolean }[] {
+function buildLetterPool(word: string, fakeCount: number, rng: () => number = Math.random): { letter: string; isFake: boolean }[] {
   const letters = word.split("").map(l => ({ letter: l, isFake: false }));
   for (let i = 0; i < fakeCount; i++) {
     let fake: string;
-    do { fake = ALPHABET[Math.floor(Math.random() * ALPHABET.length)]; }
+    do { fake = ALPHABET[Math.floor(rng() * ALPHABET.length)]; }
     while (word.includes(fake));
     letters.push({ letter: fake, isFake: true });
   }
-  return shuffleArray(letters);
+  return shuffleArray(letters, rng);
 }
 
 function updateStreak(): number {
@@ -343,6 +347,10 @@ function WordScramblePage() {
   const [myFinalScore, setMyFinalScore] = useState<number | null>(null);
   const [mixFinished, setMixFinished] = useState(false);
   const [scoreSubmitted, setScoreSubmitted] = useState(false);
+  const [oppScore, setOppScore] = useState(0);
+  const [oppMood, setOppMood] = useState<"idle" | "focused" | "happy" | "surprised" | "victory" | "disappointed">("focused");
+  const broadcastChannelRef = useRef<RealtimeChannel | null>(null);
+  const broadcastIntervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
   // ── Avatar ──
   const [gender, setGenderState] = useState<AvatarGender>("girl");
@@ -395,12 +403,17 @@ function WordScramblePage() {
     localStorage.setItem(WS_STORAGE_KEY, JSON.stringify(e));
   }, []);
 
+  // ── Seeded RNG ref (persists across words within a level) ──
+  const rngRef = useRef<(() => number) | null>(null);
+
   // ── Start a level ──
   const startLevel = useCallback((levelNum: number, currentExped: WSExpeditionSave) => {
     const levelCfg = LEVEL_CONFIGS[levelNum - 1];
-    const words = getWordsForLevel(lang as Language, levelCfg, []);
+    const rng = seed ? seededRandom(`${seed}-lv${levelNum}`) : Math.random;
+    rngRef.current = rng;
+    const words = getWordsForLevel(lang as Language, levelCfg, [], rng);
     const firstWord = words[0];
-    const pool = buildLetterPool(firstWord, levelCfg.fakeLetters);
+    const pool = buildLetterPool(firstWord, levelCfg.fakeLetters, rng);
 
     setCfg(levelCfg);
     setLevelWords(words);
@@ -416,12 +429,13 @@ function WordScramblePage() {
     setJumpTrigger(undefined);
     transitionRef.current = false;
     setScreen("playing");
-  }, [lang]);
+  }, [lang, seed]);
 
   // ── Load next word ──
   const loadWord = useCallback((idx: number, words: string[], levelCfg: WSLevelConfig) => {
     const word = words[idx];
-    const pool = buildLetterPool(word, levelCfg.fakeLetters);
+    const rng = rngRef.current || Math.random;
+    const pool = buildLetterPool(word, levelCfg.fakeLetters, rng);
     setCurrentWord(word);
     setLetterPool(pool.map(l => ({ ...l, used: false })));
     setGuess([]);
@@ -698,6 +712,36 @@ function WordScramblePage() {
     }, 2000);
     return () => clearInterval(interval);
   }, [screen, isMultiplayer, matchId, isMix, playerNum, router, opponentName, mixround]);
+
+  // ── Broadcast channel for live opponent score ──
+  useEffect(() => {
+    if (!isMultiplayer || !matchId) return;
+    const channel = supabase.channel(`wordscramble-${matchId}`, {
+      config: { broadcast: { self: false } },
+    });
+    channel.on("broadcast", { event: "scoreUpdate" }, (payload) => {
+      if (payload.payload.p !== playerNum) {
+        setOppScore(payload.payload.score);
+        setOppMood("happy");
+        setTimeout(() => setOppMood("focused"), 600);
+      }
+    });
+    channel.subscribe();
+    broadcastChannelRef.current = channel;
+    return () => { channel.unsubscribe(); broadcastChannelRef.current = null; };
+  }, [isMultiplayer, matchId, playerNum]);
+
+  useEffect(() => {
+    if (!isMultiplayer || screen !== "playing" || !broadcastChannelRef.current) return;
+    broadcastIntervalRef.current = setInterval(() => {
+      broadcastChannelRef.current?.send({
+        type: "broadcast",
+        event: "scoreUpdate",
+        payload: { p: playerNum, score },
+      });
+    }, 500);
+    return () => { if (broadcastIntervalRef.current) clearInterval(broadcastIntervalRef.current); };
+  }, [isMultiplayer, screen, playerNum, score]);
 
   // ═══════════════════════════════════════════════════════════════════
   // ── EXPEDITION HOME SCREEN ──────────────────────────────────────────
@@ -1026,6 +1070,17 @@ function WordScramblePage() {
             </motion.div>
           )}
         </AnimatePresence>
+
+        {/* Live multiplayer opponent panel */}
+        {isMultiplayer && (
+          <MultiplayerOpponentPanel
+            opponentName={opponentName}
+            opponentScore={oppScore}
+            opponentMood={oppMood}
+            totalRounds={cfg.wordCount}
+            isVisible={screen === "playing"}
+          />
+        )}
 
         {/* Multiplayer overlays */}
         {isMultiplayer && matchId && (
