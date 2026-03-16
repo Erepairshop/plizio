@@ -33,7 +33,10 @@ import { InlineTeacherNote } from "@/components/TeacherNote";
 import GenusSortierung from "@/components/deutsch-visual/GenusSortierung";
 import SatzOrdnen from "@/components/deutsch-visual/SatzOrdnen";
 import BildBeschriften from "@/components/deutsch-visual/BildBeschriften";
-import { genGenusSortierung, genSatzOrdnen, genBildBeschriften } from "@/lib/deutschVisualGenerators";
+import FehlerFinden from "@/components/deutsch-visual/FehlerFinden";
+import WortfamilienBaum from "@/components/deutsch-visual/WortfamilienBaum";
+import GeschichteSortieren from "@/components/deutsch-visual/GeschichteSortieren";
+import { genGenusSortierung, genSatzOrdnen, genBildBeschriften, genFehlerFinden, genWortfamilienBaum, genGeschichteSortieren } from "@/lib/deutschVisualGenerators";
 import { playCorrect, playIncorrect, playClick } from "@/lib/soundEffects";
 
 // ─── TTS HELPER ──────────────────────────────────────────────────────────────
@@ -113,7 +116,7 @@ type Screen = "country" | "grade" | "topics" | "test" | "reward" | "result";
 type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory";
 
 interface TestQuestion {
-  type: "mcq" | "typing" | "bild-wort" | "anlaut-bild" | "genus-sort" | "satz-ordnen" | "bild-beschriften";
+  type: "mcq" | "typing" | "bild-wort" | "anlaut-bild" | "genus-sort" | "satz-ordnen" | "bild-beschriften" | "fehler-finden" | "wortfamilien-baum" | "geschichte-sortieren";
   question: string;
   options?: string[];
   correct?: number;
@@ -122,9 +125,15 @@ interface TestQuestion {
   subtopic?: string;
   passageText?: string;
   passageTitle?: string;
-  word?: string;         // genus-sort: the noun to classify
-  shuffled?: string[];   // satz-ordnen: shuffled word array
-  imageKey?: string;     // bild-beschriften: G1_ICONS key
+  word?: string;           // genus-sort: the noun to classify
+  shuffled?: string[];     // satz-ordnen: shuffled word array
+  imageKey?: string;       // bild-beschriften: G1_ICONS key
+  words?: string[];        // fehler-finden: sentence as word array
+  errorIndex?: number;     // fehler-finden: index of wrong word
+  stamm?: string;          // wortfamilien: root word
+  correctSet?: number[];   // wortfamilien: correct indices
+  sentences?: string[];    // geschichte-sortieren: correct sentence order
+  shuffledOrder?: number[];// geschichte-sortieren: display shuffle
 }
 
 // ─── AVATAR LADEN ─────────────────────────────────────────────────────────────
@@ -228,6 +237,35 @@ export default function DeutschTestPage() {
         answer: s.words.join(" "),
         subtopic: sid,
       }));
+    } else if (sid === "verben_k2" || sid === "konjugation_k2") {
+      genFehlerFinden(count).forEach(item => qs.push({
+        type: "fehler-finden",
+        question: "Fehler finden:",
+        words: item.words,
+        errorIndex: item.errorIndex,
+        hint: item.hint,
+        answer: String(item.errorIndex),
+        subtopic: sid,
+      }));
+    } else if (sid === "nomen_k2" || sid === "plural_k2") {
+      genWortfamilienBaum(count).forEach(item => qs.push({
+        type: "wortfamilien-baum",
+        question: "Wortfamilie:",
+        stamm: item.stamm,
+        options: item.options,
+        correctSet: item.correctIndices,
+        answer: item.correctIndices.join(","),
+        subtopic: sid,
+      }));
+    } else if (sid === "satzarten") {
+      genGeschichteSortieren(count).forEach(item => qs.push({
+        type: "geschichte-sortieren",
+        question: "Geschichte ordnen:",
+        sentences: item.sentences,
+        shuffledOrder: item.shuffledOrder,
+        answer: item.sentences.map((_, i) => i).join(","),
+        subtopic: sid,
+      }));
     }
     return qs;
   }
@@ -327,6 +365,18 @@ export default function DeutschTestPage() {
       } else if (q.type === "bild-beschriften") {
         isCorrect = given === (q.options?.[q.correct ?? 0] ?? "");
         expected = q.options?.[q.correct ?? 0] ?? "";
+      } else if (q.type === "fehler-finden") {
+        isCorrect = parseInt(given) === (q.errorIndex ?? -1);
+        expected = String(q.errorIndex ?? 0);
+      } else if (q.type === "wortfamilien-baum") {
+        const givenSet = new Set(given.split(",").map(Number).filter((n) => !isNaN(n)));
+        const correctSetArr = q.correctSet ?? [];
+        isCorrect = correctSetArr.length === givenSet.size && correctSetArr.every((i) => givenSet.has(i));
+        expected = correctSetArr.join(",");
+      } else if (q.type === "geschichte-sortieren") {
+        const correctOrder = (q.sentences ?? []).map((_, i) => i).join(",");
+        isCorrect = given === correctOrder;
+        expected = correctOrder;
       } else {
         isCorrect = checkAnswer(given, q.answer ?? "", grade);
         expected = Array.isArray(q.answer) ? q.answer[0] : q.answer ?? "";
@@ -1046,6 +1096,47 @@ export default function DeutschTestPage() {
                           userAnswer={userAnswerRaw ?? ""}
                           submitted={submitted}
                           onAnswer={(a) => { if (!submitted) { playClick(); setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
+                        />
+                      </div>
+                    )}
+
+                    {/* Fehler-Finden: tap the wrong word in the sentence */}
+                    {q.type === "fehler-finden" && q.words && (
+                      <div className="ml-7">
+                        <FehlerFinden
+                          words={q.words}
+                          errorIndex={q.errorIndex ?? 0}
+                          hint={q.hint ?? ""}
+                          userAnswer={userAnswerRaw ?? ""}
+                          submitted={submitted}
+                          onAnswer={(a) => { if (!submitted) { playClick(); setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
+                        />
+                      </div>
+                    )}
+
+                    {/* Wortfamilien-Baum: tap all words from the same family */}
+                    {q.type === "wortfamilien-baum" && q.stamm && q.options && q.correctSet && (
+                      <div className="ml-7">
+                        <WortfamilienBaum
+                          stamm={q.stamm}
+                          options={q.options}
+                          correctSet={q.correctSet}
+                          userAnswer={userAnswerRaw ?? ""}
+                          submitted={submitted}
+                          onAnswer={(a) => { if (!submitted) { setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
+                        />
+                      </div>
+                    )}
+
+                    {/* Geschichte-Sortieren: tap sentence chips into story order */}
+                    {q.type === "geschichte-sortieren" && q.sentences && q.shuffledOrder && (
+                      <div className="ml-7">
+                        <GeschichteSortieren
+                          sentences={q.sentences}
+                          shuffledOrder={q.shuffledOrder}
+                          userAnswer={userAnswerRaw ?? ""}
+                          submitted={submitted}
+                          onAnswer={(a) => { if (!submitted) { setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
                         />
                       </div>
                     )}

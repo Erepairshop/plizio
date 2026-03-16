@@ -177,6 +177,137 @@ export const BILD_POOL: BildBeschriftenItem[] = [
   { imageKey: "frosch", artikel: "der", nomen: "Frosch" },
 ];
 
+// ─── FEHLER FINDEN ────────────────────────────────────────────────────────────
+
+export interface FehlerFindenItem {
+  words: string[];      // sentence split into words
+  errorIndex: number;   // which word has the error
+  hint: string;         // explanation shown after submit
+}
+
+export const FEHLER_POOL: FehlerFindenItem[] = [
+  // wrong article (der/die/das)
+  { words: ["Die", "Hund", "bellt", "laut."], errorIndex: 1, hint: "Nomen: der Hund → maskulin" },
+  { words: ["Der", "Katze", "schläft", "auf", "dem", "Sofa."], errorIndex: 1, hint: "Nomen: die Katze → feminin" },
+  { words: ["Das", "Ball", "ist", "rund."], errorIndex: 1, hint: "Nomen: der Ball → maskulin" },
+  { words: ["Der", "Sonne", "scheint", "heute."], errorIndex: 1, hint: "Nomen: die Sonne → feminin" },
+  { words: ["Die", "Buch", "ist", "spannend."], errorIndex: 1, hint: "Nomen: das Buch → neutrum" },
+  { words: ["Das", "Blume", "riecht", "schön."], errorIndex: 1, hint: "Nomen: die Blume → feminin" },
+  { words: ["Der", "Haus", "ist", "groß."], errorIndex: 1, hint: "Nomen: das Haus → neutrum" },
+  { words: ["Die", "Apfel", "ist", "rot."], errorIndex: 1, hint: "Nomen: der Apfel → maskulin" },
+  // wrong verb form (conjugation)
+  { words: ["Ich", "hast", "ein", "Buch."], errorIndex: 1, hint: "ich → habe (nicht hast)" },
+  { words: ["Du", "habe", "viele", "Freunde."], errorIndex: 1, hint: "du → hast (nicht habe)" },
+  { words: ["Er", "haben", "Hunger."], errorIndex: 1, hint: "er → hat (nicht haben)" },
+  { words: ["Wir", "ist", "müde."], errorIndex: 1, hint: "wir → sind (nicht ist)" },
+  { words: ["Sie", "bist", "nett."], errorIndex: 1, hint: "sie → ist (nicht bist)" },
+  { words: ["Das", "Kind", "spielen", "im", "Garten."], errorIndex: 2, hint: "das Kind (3. Pers. Sg.) → spielt" },
+  { words: ["Die", "Kinder", "spielt", "im", "Garten."], errorIndex: 2, hint: "die Kinder (Plural) → spielen" },
+  // wrong spelling / capitalization
+  { words: ["der", "Hund", "läuft", "schnell."], errorIndex: 0, hint: "Satzanfang → Der (Großschreibung)" },
+  { words: ["Ich", "esse", "gerne", "Äpfeln."], errorIndex: 3, hint: "Akkusativ Plural: Äpfel (kein -n)" },
+  { words: ["Das", "Mädchen", "trägt", "ein", "rotes", "Kleid."], errorIndex: 5, hint: "Korrekt! (kein Fehler)... Wähle trotzdem!" },
+  { words: ["Ich", "gehe", "in", "die", "schule."], errorIndex: 4, hint: "Nomen immer groß: die Schule" },
+  { words: ["Wir", "fahren", "Mit", "dem", "Bus."], errorIndex: 2, hint: "Präposition klein: mit dem Bus" },
+  // wrong plural
+  { words: ["Die", "Kinder", "essen", "viele", "Apfels."], errorIndex: 4, hint: "Plural von Apfel: Äpfel (Umlaut!)" },
+  { words: ["Die", "Mäuser", "sind", "klein."], errorIndex: 1, hint: "Plural von Maus: Mäuse" },
+  { words: ["Die", "Hunde", "bellen", "gerne."], errorIndex: 5, hint: "Dieser Satz ist korrekt!" },
+  // wrong preposition / case
+  { words: ["Ich", "gehe", "in", "den", "Schule."], errorIndex: 4, hint: "die Schule → in die Schule (feminin)" },
+  { words: ["Er", "wartet", "auf", "dem", "Bus."], errorIndex: 3, hint: "auf den Bus warten (Akkusativ)" },
+];
+
+// ─── WORTFAMILIEN-BAUM ────────────────────────────────────────────────────────
+
+export interface WortfamilieItem {
+  stamm: string;          // root shown to student
+  options: string[];      // 6 words
+  correctIndices: number[]; // which are in the family
+}
+
+export const WORTFAMILIE_POOL: WortfamilieItem[] = [
+  {
+    stamm: "spiel",
+    options: ["spielen", "Spielzeug", "Schule", "Mitspieler", "Spielplatz", "fahren"],
+    correctIndices: [0, 1, 3, 4],
+  },
+  {
+    stamm: "lern",
+    options: ["lernen", "Lernheft", "spielen", "Lehrerin", "gelehrt", "laufen"],
+    correctIndices: [0, 1, 3, 4],
+  },
+  {
+    stamm: "schreib",
+    options: ["schreiben", "Schreibheft", "lesen", "Schreibtisch", "Schrift", "essen"],
+    correctIndices: [0, 1, 3, 4],
+  },
+  {
+    stamm: "lauf",
+    options: ["laufen", "Läufer", "springen", "Auslauf", "Verlauf", "sitzen"],
+    correctIndices: [0, 1, 3, 4],
+  },
+  {
+    stamm: "mal",
+    options: ["malen", "Malbuch", "bauen", "Maler", "Gemälde", "singen"],
+    correctIndices: [0, 1, 3, 4],
+  },
+  {
+    stamm: "back",
+    options: ["backen", "Bäcker", "kochen", "Backhaus", "Gebäck", "trinken"],
+    correctIndices: [0, 1, 3, 4],
+  },
+  {
+    stamm: "fahr",
+    options: ["fahren", "Fahrer", "laufen", "Fahrrad", "Ausfahrt", "bauen"],
+    correctIndices: [0, 1, 3, 4],
+  },
+  {
+    stamm: "schlaf",
+    options: ["schlafen", "Schläfer", "schreiben", "Schlafzimmer", "einschlafen", "wohnen"],
+    correctIndices: [0, 1, 3, 4],
+  },
+  {
+    stamm: "koch",
+    options: ["kochen", "Köchin", "backen", "Küche", "gekocht", "essen"],
+    correctIndices: [0, 1, 3, 4],
+  },
+  {
+    stamm: "sing",
+    options: ["singen", "Sänger", "spielen", "Gesang", "Lied", "Singvogel"],
+    correctIndices: [0, 1, 3, 5],
+  },
+  {
+    stamm: "spring",
+    options: ["springen", "Springer", "laufen", "Sprung", "Absprung", "rollen"],
+    correctIndices: [0, 1, 3, 4],
+  },
+  {
+    stamm: "bau",
+    options: ["bauen", "Baumeister", "wohnen", "Gebäude", "Baustelle", "kaufen"],
+    correctIndices: [0, 1, 3, 4],
+  },
+];
+
+// ─── GESCHICHTE SORTIEREN ─────────────────────────────────────────────────────
+
+export interface GeschichteItem {
+  sentences: string[];   // in correct order (3-4 sentences)
+}
+
+export const GESCHICHTE_POOL: GeschichteItem[] = [
+  { sentences: ["Anna geht in den Supermarkt.", "Sie kauft Äpfel und Brot.", "Zu Hause macht sie einen Kuchen.", "Der Kuchen schmeckt sehr gut!"] },
+  { sentences: ["Max wacht früh auf.", "Er zieht sich an und frühstückt.", "Dann geht er zur Schule.", "In der Schule lernt er viel."] },
+  { sentences: ["Es regnet draußen.", "Lena nimmt ihren Regenschirm.", "Sie läuft schnell nach Hause.", "Zuhause trinkt sie warmen Tee."] },
+  { sentences: ["Der Hund ist hungrig.", "Er sitzt vor seinem Napf.", "Das Kind bringt ihm Futter.", "Der Hund frisst alles auf."] },
+  { sentences: ["Tim findet einen Regenwurm.", "Er zeigt ihn seiner Freundin.", "Sie legen ihn in die Erde.", "Der Regenwurm kriecht weg."] },
+  { sentences: ["Die Sonne scheint hell.", "Die Kinder gehen auf den Spielplatz.", "Sie spielen Verstecken.", "Am Abend gehen sie müde heim."] },
+  { sentences: ["Paul bekommt ein Fahrrad.", "Er übt jeden Tag.", "Bald fährt er ohne Stützräder.", "Er ist sehr stolz auf sich."] },
+  { sentences: ["Im Herbst fallen die Blätter.", "Die Kinder sammeln sie auf.", "Sie basteln ein Bild daraus.", "Es hängt jetzt an der Wand."] },
+  { sentences: ["Lisa backt Plätzchen.", "Sie mischt Mehl, Zucker und Butter.", "Die Plätzchen kommen in den Ofen.", "Nach 20 Minuten sind sie fertig."] },
+  { sentences: ["Ein Vogel baut ein Nest.", "Er sammelt Zweige und Moos.", "Er legt drei Eier hinein.", "Bald schlüpfen die Küken."] },
+];
+
 // ─── GENERATORS ───────────────────────────────────────────────────────────────
 
 function shuffle<T>(arr: T[]): T[] {
@@ -225,5 +356,27 @@ export function genBildBeschriften(count: number): Array<{
       options,
       correct: options.indexOf(correctPhrase),
     };
+  });
+}
+
+/** Generate fehler-finden questions */
+export function genFehlerFinden(count: number): FehlerFindenItem[] {
+  return shuffle(FEHLER_POOL).slice(0, count);
+}
+
+/** Generate wortfamilien-baum questions */
+export function genWortfamilienBaum(count: number): WortfamilieItem[] {
+  return shuffle(WORTFAMILIE_POOL).slice(0, count);
+}
+
+/** Generate geschichte-sortieren questions with pre-shuffled order */
+export function genGeschichteSortieren(count: number): Array<{
+  sentences: string[];
+  shuffledOrder: number[];
+}> {
+  return shuffle(GESCHICHTE_POOL).slice(0, count).map((item) => {
+    const indices = item.sentences.map((_, i) => i);
+    const shuffledOrder = shuffle(indices);
+    return { sentences: item.sentences, shuffledOrder };
   });
 }
