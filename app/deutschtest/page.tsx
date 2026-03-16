@@ -1007,9 +1007,9 @@ export default function DeutschTestPage() {
                       );
                     })()}
 
-                    {/* Genus-Sortierung: tap der/die/das */}
+                    {/* Genus-Sortierung: tap der/die/das — compact paper-inline */}
                     {q.type === "genus-sort" && q.word && (
-                      <div className="ml-7 py-2 rounded-xl bg-slate-50/70 border border-slate-100 px-3 my-1">
+                      <div className="ml-7">
                         <GenusSortierung
                           word={q.word}
                           correct={q.answer as "der" | "die" | "das"}
@@ -1020,9 +1020,9 @@ export default function DeutschTestPage() {
                       </div>
                     )}
 
-                    {/* Satz-Ordnen: drag word chips into order */}
+                    {/* Satz-Ordnen: tap word chips into order — compact paper-inline */}
                     {q.type === "satz-ordnen" && q.shuffled && (
-                      <div className="ml-7 py-2 rounded-xl bg-slate-50/70 border border-slate-100 px-3 my-1">
+                      <div className="ml-7">
                         <SatzOrdnen
                           shuffled={q.shuffled}
                           answer={Array.isArray(q.answer) ? q.answer[0] : q.answer ?? ""}
@@ -1035,7 +1035,7 @@ export default function DeutschTestPage() {
 
                     {/* Bild-Beschriften: image → pick correct Artikel+Nomen phrase */}
                     {q.type === "bild-beschriften" && q.imageKey && q.options && (
-                      <div className="ml-7 py-2 rounded-xl bg-slate-50/70 border border-slate-100 px-3 my-1">
+                      <div className="ml-7">
                         <BildBeschriften
                           imageKey={q.imageKey}
                           options={q.options}

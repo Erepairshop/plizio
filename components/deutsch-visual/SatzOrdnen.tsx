@@ -2,30 +2,27 @@
 
 /**
  * SatzOrdnen — tap shuffled word chips into the correct sentence order
- * Used for wortstellung_k2 subtopic in Deutsch Test K2
+ * Compact paper-inline style — word chips on ruled lines, no floating card
  */
 
 import { useState, useEffect } from 'react';
 
 interface Props {
-  shuffled: string[];           // shuffled word array (provided by generator)
-  answer: string;               // correct sentence as single string (words joined by space)
-  userAnswer: string;           // current answer stored in parent ("" or joined sentence)
+  shuffled: string[];
+  answer: string;
+  userAnswer: string;
   submitted: boolean;
   onAnswer: (a: string) => void;
 }
 
 export default function SatzOrdnen({ shuffled, answer, userAnswer, submitted, onAnswer }: Props) {
-  // built: words the user has tapped (in order)
-  // pool: remaining words to tap
   const [built, setBuilt] = useState<string[]>([]);
   const [pool, setPool] = useState<string[]>(shuffled);
 
-  // Reset when shuffled changes (new question)
   useEffect(() => {
     setBuilt([]);
     setPool(shuffled);
-  }, [shuffled.join("")]);  // eslint-disable-line react-hooks/exhaustive-deps
+  }, [shuffled.join("")]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const addWord = (idx: number) => {
     if (submitted) return;
@@ -50,43 +47,18 @@ export default function SatzOrdnen({ shuffled, answer, userAnswer, submitted, on
   const isCorrect = built.join(" ") === answer;
 
   return (
-    <div className="flex flex-col gap-3 py-1">
-      {/* Instruction */}
-      <p className="text-xs font-semibold text-slate-500 text-center">
-        Bring die Wörter in die richtige Reihenfolge.
-      </p>
-
-      {/* Built sentence area */}
-      <div
-        className="min-h-[52px] rounded-xl border-2 border-dashed border-slate-300 bg-slate-50 flex flex-wrap gap-1.5 p-2 items-center"
-      >
-        {built.length === 0 && (
-          <span className="text-slate-300 text-sm italic px-1">Tippe auf die Wörter…</span>
+    <div>
+      {/* Row 1: pool of word chips (tap to add) */}
+      <div style={{ minHeight: 28, lineHeight: "28px" }} className="flex items-center gap-1 flex-wrap px-1 py-0.5">
+        <span className="text-slate-300 text-xs w-5 text-right shrink-0">↓</span>
+        {pool.length === 0 && built.length > 0 && (
+          <span className="text-slate-300 text-xs italic">alle Wörter gesetzt</span>
         )}
-        {built.map((w, i) => {
-          let cls =
-            "px-3 py-1.5 rounded-lg border-2 font-bold text-sm cursor-pointer transition-all select-none ";
-          if (submitted) {
-            cls += isCorrect
-              ? "bg-green-100 border-green-400 text-green-800"
-              : "bg-red-100 border-red-300 text-red-700";
-          } else {
-            cls += "bg-indigo-100 border-indigo-300 text-indigo-800 hover:bg-indigo-200 active:scale-95";
-          }
-          return (
-            <button key={`b-${i}`} className={cls} onClick={() => removeWord(i)} disabled={submitted}>
-              {w}
-            </button>
-          );
-        })}
-      </div>
-
-      {/* Word pool */}
-      <div className="flex flex-wrap gap-1.5 justify-center">
         {pool.map((w, i) => (
           <button
             key={`p-${i}`}
-            className="px-3 py-1.5 rounded-lg border-2 border-slate-200 bg-white text-slate-700 font-bold text-sm hover:bg-slate-100 active:scale-95 transition-all select-none"
+            style={{ height: 22, lineHeight: "22px" }}
+            className="px-2 rounded border border-slate-300 bg-white text-slate-700 font-semibold text-xs hover:bg-blue-50 hover:border-blue-300 active:scale-95 transition-all select-none"
             onClick={() => addWord(i)}
             disabled={submitted}
           >
@@ -95,10 +67,47 @@ export default function SatzOrdnen({ shuffled, answer, userAnswer, submitted, on
         ))}
       </div>
 
-      {/* Feedback */}
-      {submitted && built.length > 0 && (
-        <div className={`text-sm font-bold text-center ${isCorrect ? "text-green-600" : "text-red-500"}`}>
-          {isCorrect ? "✓ Richtig!" : `✗ Richtig: ${answer}`}
+      {/* Row 2: built sentence (tap a chip to return it) */}
+      <div style={{ minHeight: 28, lineHeight: "28px" }} className="flex items-center gap-1 flex-wrap px-1 py-0.5 border-b border-dashed border-slate-200">
+        <span className="text-slate-300 text-xs w-5 text-right shrink-0">→</span>
+        {built.length === 0 && (
+          <span className="text-slate-300 text-xs italic">Tippe auf die Wörter…</span>
+        )}
+        {built.map((w, i) => {
+          let cls = "px-2 rounded border font-semibold text-xs transition-all select-none ";
+          if (submitted) {
+            cls += isCorrect
+              ? "bg-emerald-50 border-emerald-300 text-emerald-700"
+              : "bg-red-50 border-red-300 text-red-600";
+          } else {
+            cls += "bg-indigo-50 border-indigo-300 text-indigo-700 hover:bg-white active:scale-95 cursor-pointer";
+          }
+          return (
+            <button
+              key={`b-${i}`}
+              style={{ height: 22, lineHeight: "22px" }}
+              className={cls}
+              onClick={() => removeWord(i)}
+              disabled={submitted}
+            >
+              {w}
+            </button>
+          );
+        })}
+        {/* Inline result */}
+        {submitted && built.length > 0 && (
+          <span className={`text-xs font-bold ml-1 shrink-0 ${isCorrect ? "text-emerald-500" : "text-red-500"}`}>
+            {isCorrect ? "✓" : "✗"}
+          </span>
+        )}
+      </div>
+
+      {/* Wrong answer correction on one extra line */}
+      {submitted && !isCorrect && built.length > 0 && (
+        <div style={{ height: 28, lineHeight: "28px" }} className="flex items-center gap-1 px-1">
+          <span className="w-5 shrink-0" />
+          <span className="text-xs text-slate-400">Richtig:</span>
+          <span className="text-xs font-semibold text-slate-600">{answer}</span>
         </div>
       )}
     </div>
