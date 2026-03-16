@@ -3673,10 +3673,10 @@ const K2: DeutschTheme[] = [
 { type: "mcq", topic: "wortfelder_k2", subtopic: "tiere_k2", question: "Das ___ ist das stärkste Tier.", options: ["Elefant", "Gorilla", "Löwe"], correct: 0 },
 { type: "typing", topic: "wortfelder_k2", subtopic: "tiere_k2", question: "Nenne ein Tier das lange lebt:", answer: ["Schildkröte", "Adler", "Walfisch"] },
 { type: "mcq", topic: "wortfelder_k2", subtopic: "tiere_k2", question: "Das ___ ist das intelligenteste Tier.", options: ["Delfin", "Affe", "Elefant"], correct: 0 },
-{ type: "typing", topic: "wortfelder_k2", subtopic: "tiere_k2", question: "Welches Tier macht „Mäh"?", answer: ["Schaf"] },
-{ type: "mcq", topic: "wortfelder_k2", subtopic: "tiere_k2", question: "Das ___ macht „Grunz".", options: ["Schwein", "Kuh", "Schaf"], correct: 0 },
-{ type: "typing", topic: "wortfelder_k2", subtopic: "tiere_k2", question: "Welches Tier macht „Quak"?", answer: ["Frosch"] },
-{ type: "mcq", topic: "wortfelder_k2", subtopic: "tiere_k2", question: "Das ___ macht „Muh".", options: ["Kuh", "Hund", "Pferd"], correct: 0 },
+{ type: "typing", topic: "wortfelder_k2", subtopic: "tiere_k2", question: "Welches Tier macht \"Mäh\"?", answer: ["Schaf"] },
+{ type: "mcq", topic: "wortfelder_k2", subtopic: "tiere_k2", question: "Das ___ macht \"Grunz\".", options: ["Schwein", "Kuh", "Schaf"], correct: 0 },
+{ type: "typing", topic: "wortfelder_k2", subtopic: "tiere_k2", question: "Welches Tier macht \"Quak\"?", answer: ["Frosch"] },
+{ type: "mcq", topic: "wortfelder_k2", subtopic: "tiere_k2", question: "Das ___ macht \"Muh\".", options: ["Kuh", "Hund", "Pferd"], correct: 0 },
 { type: "typing", topic: "wortfelder_k2", subtopic: "tiere_k2", question: "Nenne ein Tier das nachts aktiv ist:", answer: ["Eule", "Fledermaus", "Igel"] },
 { type: "mcq", topic: "wortfelder_k2", subtopic: "tiere_k2", question: "Das ___ ist das längste Tier.", options: ["Python", "Anakonda", "Boa"], correct: 0 },
 { type: "typing", topic: "wortfelder_k2", subtopic: "tiere_k2", question: "Welches Tier ist das größte Wassertier?", answer: ["Wal"] },
@@ -13415,7 +13415,13 @@ export function getDeutschQuestions(
   // Fisher-Yates shuffle
   for (let i = pool.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
-    [pool[i], pool[j]] = [pool[j], pool[i]  },
+    [pool[i], pool[j]] = [pool[j], pool[i]];
+  }
+
+  return pool;
+}
+
+const K8_KONJUNKTIV = [
   {
     id: "konjunktiv_k8",
     name: "Konjunktiv I & II (indirekte Rede)",
@@ -13479,7 +13485,7 @@ export function getDeutschQuestions(
           { type: "typing", topic: "konjunktiv_k8", subtopic: "konjunktiv_i_k8", question: "Wandle um: 'Wir sind fertig.' → 'Sie behaupten, sie ___ fertig.'", answer: ["seien"] },
           { type: "typing", topic: "konjunktiv_k8", subtopic: "konjunktiv_i_k8", question: "Präsens Konjunktiv I von 'treffen': 'du ___'", answer: ["treffest"] },
           { type: "typing", topic: "konjunktiv_k8", subtopic: "konjunktiv_i_k8", question: "Präsens Konjunktiv I von 'bieten': 'sie (Pl.) ___'", answer: ["bieten"] },
-          { type: "mcq", topic: "konjunktiv_k8", subtopic: "konjunktiv_i_k8", question: "'Die Zeitung berichtet, dass neue Arbeitsplätze entstünden.' – indirekte Rede Form?", options: ["Konjunktiv II (entstünden)", "Konjunktiv I (entstünden)", "Konjunktiv I – aber Ersatzform da Indikativ und K.I. gleich"]", correct: 0 },
+          { type: "mcq", topic: "konjunktiv_k8", subtopic: "konjunktiv_i_k8", question: "'Die Zeitung berichtet, dass neue Arbeitsplätze entstünden.' – indirekte Rede Form?", options: ["Konjunktiv II (entstünden)", "Konjunktiv I (entstünden)", "Konjunktiv I – aber Ersatzform da Indikativ und K.I. gleich"], correct: 0 },
           { type: "typing", topic: "konjunktiv_k8", subtopic: "konjunktiv_i_k8", question: "Wandle um: 'Das ist unmöglich.' → 'Der Kritiker einwendet, das ___ unmöglich.'", answer: ["sei"] },
           { type: "typing", topic: "konjunktiv_k8", subtopic: "konjunktiv_i_k8", question: "Präsens Konjunktiv I von 'greifen': 'ich ___'", answer: ["greife"] },
           { type: "typing", topic: "konjunktiv_k8", subtopic: "konjunktiv_i_k8", question: "Präsens Konjunktiv I von 'scheinen': 'es ___'", answer: ["scheine"] },
@@ -13555,7 +13561,6 @@ export function getDeutschQuestions(
         ],
       },
     ],
-  }
   },
   {
     id: "passiv_k8",
@@ -13675,7 +13680,6 @@ export function getDeutschQuestions(
         ],
       },
     ],
-  }
   },
   {
     id: "stilmittel_k8",
@@ -13774,7 +13778,6 @@ export function getDeutschQuestions(
         ],
       },
     ],
-  }
   },
   {
     id: "charakterisierung_k8",
@@ -13866,9 +13869,6 @@ export function getDeutschQuestions(
     ],
   }
 ];
-  }
-  return pool.slice(0, count);
-}
 
 // ─── BENOTUNG (deutsches System 1–6) ─────────────────────────────────────────
 
