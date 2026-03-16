@@ -7,6 +7,7 @@ import type { SkinDef } from '@/lib/skins';
 import type { FaceDef } from '@/lib/faces';
 import type { TopDef, BottomDef, ShoeDef, CapeDef, GlassesDef, GloveDef } from '@/lib/clothing';
 import type { HatDef, TrailDef } from '@/lib/accessories';
+import type { HairDef } from '@/lib/hair';
 import type { AvatarGender } from '@/lib/gender';
 import { AVATAR_DEFAULTS } from '@/lib/avatarDefaults';
 
@@ -33,6 +34,7 @@ export interface AvatarCompanionProps {
   activeGloves?: GloveDef | null;
   activeHat?: HatDef | null;
   activeTrail?: TrailDef | null;
+  activeHair?: HairDef | null;
   // When true, the avatar canvas passes clicks through to underlying elements
   passThrough?: boolean;
 }
@@ -162,6 +164,171 @@ function HatMesh({ hat, skinColor }: { hat: HatDef; skinColor: string }) {
       </group>
     );
   }
+  if (hat.type === 'beanie') {
+    return (
+      <group position={[0, 0.19, 0]}>
+        {/* Main dome — sits lower on head */}
+        <mesh>
+          <sphereGeometry args={[0.22, 12, 8, 0, Math.PI * 2, 0, Math.PI * 0.55]} />
+          <meshStandardMaterial color={col} emissive={em} emissiveIntensity={ei} roughness={0.85} />
+        </mesh>
+        {/* Ribbed cuff band */}
+        <mesh position={[0, -0.06, 0]}>
+          <cylinderGeometry args={[0.225, 0.225, 0.06, 12]} />
+          <meshStandardMaterial color={col} emissive={em} emissiveIntensity={ei * 0.5} roughness={0.9} />
+        </mesh>
+        {/* Pom pom on top */}
+        <mesh position={[0, 0.17, 0]}>
+          <sphereGeometry args={[0.055, 8, 8]} />
+          <meshStandardMaterial color={em || col} emissive={em} emissiveIntensity={ei + 0.2} roughness={0.7} />
+        </mesh>
+      </group>
+    );
+  }
+  if (hat.type === 'bucket') {
+    return (
+      <group position={[0, 0.2, 0]}>
+        {/* Crown */}
+        <mesh>
+          <cylinderGeometry args={[0.16, 0.18, 0.18, 12]} />
+          <meshStandardMaterial color={col} roughness={0.8} />
+        </mesh>
+        {/* Wide brim all around */}
+        <mesh position={[0, -0.09, 0]}>
+          <cylinderGeometry args={[0.28, 0.26, 0.04, 12]} />
+          <meshStandardMaterial color={col} roughness={0.8} />
+        </mesh>
+      </group>
+    );
+  }
+  if (hat.type === 'party') {
+    return (
+      <group position={[0, 0.22, 0]}>
+        {/* Cone */}
+        <mesh>
+          <coneGeometry args={[0.16, 0.36, 10]} />
+          <meshStandardMaterial color={col} emissive={em} emissiveIntensity={ei * 0.4} roughness={0.6} />
+        </mesh>
+        {/* Dots */}
+        {[[-0.06, 0.05, 0.14], [0.06, 0.10, 0.12], [0, 0.0, 0.15]].map(([x, y, z], i) => (
+          <mesh key={i} position={[x, y, z]}>
+            <sphereGeometry args={[0.018, 6, 6]} />
+            <meshStandardMaterial color="#FFFFFF" emissive="#FFFFFF" emissiveIntensity={0.5} />
+          </mesh>
+        ))}
+      </group>
+    );
+  }
+  if (hat.type === 'fedora') {
+    return (
+      <group position={[0, 0.22, 0]}>
+        {/* Crown — slightly taller, pinched top */}
+        <mesh position={[0, 0.08, 0]}>
+          <cylinderGeometry args={[0.155, 0.17, 0.20, 12]} />
+          <meshStandardMaterial color={col} roughness={0.75} />
+        </mesh>
+        {/* Top dent */}
+        <mesh position={[0, 0.175, 0]} scale={[1, 0.4, 1]}>
+          <sphereGeometry args={[0.16, 10, 8]} />
+          <meshStandardMaterial color={col} roughness={0.75} />
+        </mesh>
+        {/* Brim */}
+        <mesh position={[0, -0.01, 0]}>
+          <cylinderGeometry args={[0.28, 0.30, 0.03, 14]} />
+          <meshStandardMaterial color={col} roughness={0.75} />
+        </mesh>
+        {/* Hat band */}
+        <mesh position={[0, 0.01, 0]}>
+          <cylinderGeometry args={[0.175, 0.175, 0.04, 12]} />
+          <meshStandardMaterial color={em} emissive={em} emissiveIntensity={ei * 0.5} roughness={0.5} />
+        </mesh>
+      </group>
+    );
+  }
+  if (hat.type === 'viking') {
+    return (
+      <group position={[0, 0.19, 0]}>
+        {/* Main helmet dome */}
+        <mesh>
+          <sphereGeometry args={[0.22, 12, 8, 0, Math.PI * 2, 0, Math.PI * 0.52]} />
+          <meshStandardMaterial color={col} emissive={em} emissiveIntensity={ei * 0.4} roughness={0.35} metalness={0.55} />
+        </mesh>
+        {/* Nose guard */}
+        <mesh position={[0, -0.04, 0.20]} rotation={[0.2, 0, 0]}>
+          <boxGeometry args={[0.04, 0.14, 0.03]} />
+          <meshStandardMaterial color={col} roughness={0.35} metalness={0.55} />
+        </mesh>
+        {/* Left horn */}
+        <mesh position={[-0.22, 0.02, 0]} rotation={[0, 0, -0.5]}>
+          <coneGeometry args={[0.045, 0.18, 8]} />
+          <meshStandardMaterial color="#F0E0C0" roughness={0.7} />
+        </mesh>
+        {/* Right horn */}
+        <mesh position={[0.22, 0.02, 0]} rotation={[0, 0, 0.5]}>
+          <coneGeometry args={[0.045, 0.18, 8]} />
+          <meshStandardMaterial color="#F0E0C0" roughness={0.7} />
+        </mesh>
+      </group>
+    );
+  }
+  if (hat.type === 'ninja') {
+    return (
+      <group position={[0, 0.18, 0]}>
+        {/* Head wrap */}
+        <mesh>
+          <sphereGeometry args={[0.21, 12, 8, 0, Math.PI * 2, 0, Math.PI * 0.62]} />
+          <meshStandardMaterial color={col} roughness={0.9} />
+        </mesh>
+        {/* Forehead band */}
+        <mesh position={[0, -0.02, 0]} rotation={[0.1, 0, 0]}>
+          <cylinderGeometry args={[0.215, 0.215, 0.05, 12]} />
+          <meshStandardMaterial color={em} emissive={em} emissiveIntensity={ei * 0.5} roughness={0.5} />
+        </mesh>
+        {/* Knot on back */}
+        <mesh position={[0, 0.05, -0.20]}>
+          <sphereGeometry args={[0.04, 8, 6]} />
+          <meshStandardMaterial color={col} roughness={0.9} />
+        </mesh>
+      </group>
+    );
+  }
+  if (hat.type === 'snapback') {
+    return (
+      <group position={[0, 0.2, 0]} rotation={[-0.05, 0, 0]}>
+        {/* Flat crown */}
+        <mesh>
+          <cylinderGeometry args={[0.20, 0.20, 0.15, 12]} />
+          <meshStandardMaterial color={col} roughness={0.7} />
+        </mesh>
+        {/* Flat top cap */}
+        <mesh position={[0, 0.075, 0]}>
+          <cylinderGeometry args={[0.20, 0.20, 0.015, 12]} />
+          <meshStandardMaterial color={em || col} emissive={em} emissiveIntensity={ei * 0.3} roughness={0.7} />
+        </mesh>
+        {/* Flat straight brim — front only */}
+        <mesh position={[0, -0.06, 0.16]} rotation={[0.05, 0, 0]}>
+          <boxGeometry args={[0.40, 0.035, 0.20]} />
+          <meshStandardMaterial color={col} roughness={0.7} />
+        </mesh>
+      </group>
+    );
+  }
+  if (hat.type === 'bandana') {
+    return (
+      <group position={[0, 0.16, 0]}>
+        {/* Headband */}
+        <mesh rotation={[0.08, 0, 0]}>
+          <torusGeometry args={[0.195, 0.038, 8, 20]} />
+          <meshStandardMaterial color={col} emissive={em} emissiveIntensity={ei * 0.4} roughness={0.8} />
+        </mesh>
+        {/* Knot side piece */}
+        <mesh position={[0.18, 0.01, -0.08]} rotation={[0, 0.4, 0.2]}>
+          <boxGeometry args={[0.06, 0.04, 0.06]} />
+          <meshStandardMaterial color={col} roughness={0.8} />
+        </mesh>
+      </group>
+    );
+  }
   return null;
 }
 
@@ -242,25 +409,67 @@ function GlassesMesh({ glasses }: { glasses: GlassesDef }) {
 }
 
 // ── CAPE MESH ────────────────────────────────────────────
+function hueToColor(h: number): string {
+  // h: 0–360, returns hex color
+  const s = 1, l = 0.55;
+  const a = s * Math.min(l, 1 - l);
+  const f = (n: number) => {
+    const k = (n + h / 30) % 12;
+    const v = l - a * Math.max(Math.min(k - 3, 9 - k, 1), -1);
+    return Math.round(255 * v).toString(16).padStart(2, '0');
+  };
+  return `#${f(0)}${f(8)}${f(4)}`;
+}
+
 function CapeMesh({ cape, t }: { cape: CapeDef; t: number }) {
-  const waveY = Math.sin(t * 1.5) * 0.02;
-  const waveZ = Math.sin(t * 1.2) * 0.015;
+  const wave1 = Math.sin(t * 1.4) * 0.016;
+  const wave2 = Math.sin(t * 1.1 + 0.6) * 0.012;
+  const flutter = Math.sin(t * 2.1) * 0.025;
+
+  // Rainbow cape: cycle through hue based on time
+  const isRainbow = cape.id === 'cape_rainbow';
+  const capeColor = isRainbow ? hueToColor((t * 45) % 360) : cape.color;
+  const capeEmissive = isRainbow ? hueToColor(((t * 45) + 120) % 360) : cape.emissive;
+  const capeEI = isRainbow ? 0.7 : cape.emissiveIntensity;
+
+  // All cape pieces are BEHIND the avatar body — z must be ≤ -0.16 to clear body depth
+  // Body half-depth ≈ 0.14, so z=-0.16 is safe clearance
   return (
-    <group position={[0, 0.08, -0.17]}>
-      {/* Upper cape */}
-      <mesh position={[0, 0, 0]}>
-        <boxGeometry args={[0.48, 0.06, 0.04]} />
-        <meshStandardMaterial color={cape.color} emissive={cape.emissive} emissiveIntensity={cape.emissiveIntensity * 0.5} roughness={0.6} side={THREE.DoubleSide} />
+    <group>
+      {/* ── Clasp / brooch — sits on neck at BACK, not front ─── */}
+      <mesh position={[0, 0.34, -0.17]}>
+        <sphereGeometry args={[0.028, 8, 6]} />
+        <meshStandardMaterial color={capeEmissive} emissive={capeEmissive} emissiveIntensity={1.0} metalness={0.7} roughness={0.2} />
       </mesh>
-      {/* Main flowing body */}
-      <mesh position={[0, -0.22 + waveY, -0.04 + waveZ]} rotation={[-0.08, 0, 0]}>
-        <boxGeometry args={[0.44, 0.4, 0.025]} />
-        <meshStandardMaterial color={cape.color} emissive={cape.emissive} emissiveIntensity={cape.emissiveIntensity * 0.3} roughness={0.65} side={THREE.DoubleSide} />
+
+      {/* ── Shoulder yoke — safely behind the body ─── */}
+      <mesh position={[0, 0.27, -0.18]} rotation={[0.05, 0, 0]}>
+        <boxGeometry args={[0.52, 0.08, 0.030]} />
+        <meshStandardMaterial color={capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.65} roughness={0.52} side={THREE.DoubleSide} />
       </mesh>
-      {/* Bottom tapered section */}
-      <mesh position={[0, -0.46 + waveY * 1.5, -0.05 + waveZ * 1.5]} rotation={[-0.12, 0, 0]}>
-        <boxGeometry args={[0.36, 0.22, 0.018]} />
-        <meshStandardMaterial color={cape.color} emissive={cape.emissive} emissiveIntensity={cape.emissiveIntensity * 0.4} roughness={0.65} side={THREE.DoubleSide} />
+
+      {/* ── Upper body — hangs from shoulders ─── */}
+      <mesh position={[0, 0.10 + wave1 * 0.3, -0.20 + wave2 * 0.3]} rotation={[-0.04 + flutter * 0.2, 0, 0]}>
+        <boxGeometry args={[0.50, 0.30, 0.018]} />
+        <meshStandardMaterial color={isRainbow ? hueToColor(((t * 45) + 60) % 360) : capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.28} roughness={0.62} side={THREE.DoubleSide} />
+      </mesh>
+
+      {/* ── Mid body ─── */}
+      <mesh position={[0, -0.14 + wave1 * 0.7, -0.22 + wave2 * 0.7]} rotation={[-0.07 + flutter * 0.4, 0, 0]}>
+        <boxGeometry args={[0.46, 0.30, 0.015]} />
+        <meshStandardMaterial color={isRainbow ? hueToColor(((t * 45) + 180) % 360) : capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.32} roughness={0.65} side={THREE.DoubleSide} />
+      </mesh>
+
+      {/* ── Lower body ─── */}
+      <mesh position={[0, -0.38 + wave1 * 1.2, -0.23 + wave2 * 1.2]} rotation={[-0.10 + flutter * 0.6, 0, 0]}>
+        <boxGeometry args={[0.42, 0.27, 0.012]} />
+        <meshStandardMaterial color={isRainbow ? hueToColor(((t * 45) + 240) % 360) : capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.38} roughness={0.65} side={THREE.DoubleSide} />
+      </mesh>
+
+      {/* ── Tail — tapered tip ─── */}
+      <mesh position={[0, -0.58 + wave1 * 1.8, -0.23 + wave2 * 1.8]} rotation={[-0.13 + flutter * 0.9, 0, 0]}>
+        <boxGeometry args={[0.30, 0.22, 0.010]} />
+        <meshStandardMaterial color={isRainbow ? hueToColor(((t * 45) + 300) % 360) : capeColor} emissive={capeEmissive} emissiveIntensity={capeEI * 0.45} roughness={0.65} side={THREE.DoubleSide} />
       </mesh>
     </group>
   );
@@ -657,6 +866,7 @@ function Character({
   activeGloves,
   activeHat,
   activeTrail,
+  activeHair,
 }: AvatarCompanionProps) {
   const groupRef = useRef<THREE.Group>(null);
   const headRef = useRef<THREE.Group>(null);
@@ -688,6 +898,16 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
   const reactionMoodRef = useRef<'idle' | 'happy' | 'surprised' | 'victory' | 'confused' | 'laughing' | 'wave' | 'dance' | 'spin'>('idle');
   const [frameT, setFrameT] = useState(0);
 
+  // ── Ambient idle behavior system ──────────────────────
+  // triggers a random idle animation every 60-90 seconds
+  const idleSeqTimerRef = useRef(65 + Math.random() * 35);
+  const ambientPhaseRef = useRef(-1);   // -1 = inactive, 0..1 = progress
+  const ambientTypeRef = useRef('');
+  const ambientDurRef = useRef(3);
+  const capeGroupRef = useRef<THREE.Group | null>(null);
+  const activeCapeRef = useRef(activeCape);
+  const activeHatRef = useRef(activeHat);
+
   // ── Resolve colors from items ──────────────────────────
   // Default skin (id='default') = treat same as no skin → warm fallback colors
   const hasRealSkin = activeSkin && activeSkin.id !== 'default';
@@ -704,7 +924,8 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
   const skinDark = new THREE.Color(actualSkinColor).multiplyScalar(0.82).getStyle();
 
   // Hair color (warm chestnut brown for default, or skin's headColor for fantasy skins)
-  const hairColor = hasRealSkin ? activeSkin!.headColor : AVATAR_DEFAULTS.hairColor;
+  // activeHair overrides skin headColor and default
+  const hairColor = activeHair ? activeHair.color : (hasRealSkin ? activeSkin!.headColor : AVATAR_DEFAULTS.hairColor);
 
   useEffect(() => {
     moodRef.current = mood;
@@ -713,6 +934,8 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
 
   useEffect(() => { isWalkingRef.current = isWalking; }, [isWalking]);
   useEffect(() => { facingRef.current = facing; }, [facing]);
+  useEffect(() => { activeCapeRef.current = activeCape; }, [activeCape]);
+  useEffect(() => { activeHatRef.current = activeHat; }, [activeHat]);
 
   useEffect(() => {
     if (jumpTrigger?.reaction) {
@@ -747,8 +970,8 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
     }
 
     groupRef.current.position.y = lerp(groupRef.current.position.y, jumpHeight, 0.15);
-    // Facing direction (only when not in a spin/dance reaction)
-    if (jumpTimer.current < 0) {
+    // Facing direction (only when not in a reaction and not in a turn/strut ambient anim)
+    if (jumpTimer.current < 0 && !(ambientPhaseRef.current >= 0 && (ambientTypeRef.current === 'turnAround' || ambientTypeRef.current === 'strut'))) {
       // se=screen-right (+45°), sw=screen-left (-45°), ne=away-right (+135°), nw=away-left (-135°)
       const facingMap: Record<string, number> = {
         se:  Math.PI / 4,        //  +45° — right profile toward camera
@@ -1167,6 +1390,165 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
     if (m !== 'disappointed') {
       groupRef.current.rotation.x = lerp(groupRef.current.rotation.x, 0, 0.1);
     }
+
+    // ── Ambient idle behaviors ─────────────────────────────
+    // Only schedule when fully at rest (no reaction, not walking, idle mood)
+    if (jumpTimer.current < 0 && !isWalkingRef.current && moodRef.current === 'idle') {
+      idleSeqTimerRef.current -= delta;
+      if (idleSeqTimerRef.current <= 0 && ambientPhaseRef.current < 0) {
+        const pool: string[] = ['turnAround', 'lookAround', 'stretch', 'shrug'];
+        if (activeCapeRef.current) { pool.push('capeWhoosh'); pool.push('capeWhoosh'); }
+        if (activeHatRef.current) pool.push('hatTip');
+        ambientTypeRef.current = pool[Math.floor(Math.random() * pool.length)];
+        const durMap: Record<string, number> = {
+          turnAround: 6, lookAround: 3.5, stretch: 3,
+          shrug: 2.5, capeWhoosh: 5, hatTip: 3,
+        };
+        ambientDurRef.current = durMap[ambientTypeRef.current] ?? 3;
+        ambientPhaseRef.current = 0;
+        idleSeqTimerRef.current = 60 + Math.random() * 60;
+      }
+    }
+    // If a reaction fires, cancel ambient animation
+    if (jumpTimer.current >= 0 && ambientPhaseRef.current >= 0) {
+      ambientPhaseRef.current = -1;
+    }
+
+    // ── Run ambient animation ───────────────────────────────
+    if (ambientPhaseRef.current >= 0 && jumpTimer.current < 0 && !isWalkingRef.current) {
+      ambientPhaseRef.current += delta / ambientDurRef.current;
+      if (ambientPhaseRef.current > 1) {
+        ambientPhaseRef.current = -1;
+      } else {
+        const ap = ambientPhaseRef.current;
+        // Ease-in / ease-out envelope: 0→1→0 over animation duration
+        const ease = Math.sin(ap * Math.PI);
+        switch (ambientTypeRef.current) {
+
+          // ── Slow 360° catwalk turn ─────────────────────────
+          case 'turnAround': {
+            // Slow incremental turn — 2π over full duration
+            const speed = (Math.PI * 2) / ambientDurRef.current;
+            groupRef.current.rotation.y += speed * delta;
+            // Light walk sway while turning
+            const tf = Math.PI * 2.5;
+            if (leftLegRef.current && rightLegRef.current) {
+              leftLegRef.current.rotation.x = Math.sin(t * tf) * 0.22;
+              rightLegRef.current.rotation.x = -Math.sin(t * tf) * 0.22;
+            }
+            if (leftArmRef.current && rightArmRef.current) {
+              leftArmRef.current.rotation.x = -Math.sin(t * tf) * 0.25;
+              rightArmRef.current.rotation.x = Math.sin(t * tf) * 0.25;
+            }
+            // Confident chin-up near midway
+            headRef.current.rotation.x = -ease * 0.12;
+            break;
+          }
+
+          // ── Curious look around ────────────────────────────
+          case 'lookAround': {
+            const cycle = ap * Math.PI * 2.5;
+            headRef.current.rotation.y = Math.sin(cycle) * 0.6;
+            headRef.current.rotation.x = Math.sin(cycle * 0.6 + 0.8) * 0.18;
+            headRef.current.rotation.z = Math.sin(cycle * 0.4) * 0.1;
+            // Slight body follow
+            if (bodyRef.current) bodyRef.current.position.y = Math.sin(ap * Math.PI) * 0.01;
+            break;
+          }
+
+          // ── Big stretch ────────────────────────────────────
+          case 'stretch': {
+            if (leftArmRef.current && rightArmRef.current) {
+              leftArmRef.current.rotation.z = -0.15 - ease * 1.7;
+              rightArmRef.current.rotation.z = 0.15 + ease * 1.7;
+              leftArmRef.current.rotation.x = -ease * 0.45;
+              rightArmRef.current.rotation.x = -ease * 0.45;
+            }
+            if (leftForearmRef.current && rightForearmRef.current) {
+              leftForearmRef.current.rotation.x = -ease * 0.35;
+              rightForearmRef.current.rotation.x = -ease * 0.35;
+            }
+            headRef.current.rotation.x = -ease * 0.22;
+            bodyRef.current.position.y = ease * 0.04;
+            bodyRef.current.scale.y = 1 + ease * 0.06;
+            // Slight yawn tilt
+            headRef.current.rotation.z = Math.sin(ap * Math.PI * 3) * 0.08;
+            break;
+          }
+
+          // ── Exaggerated shrug ──────────────────────────────
+          case 'shrug': {
+            if (leftArmRef.current && rightArmRef.current) {
+              leftArmRef.current.rotation.z = -0.15 - ease * 0.9;
+              rightArmRef.current.rotation.z = 0.15 + ease * 0.9;
+              leftArmRef.current.rotation.x = ease * 0.15;
+              rightArmRef.current.rotation.x = ease * 0.15;
+            }
+            if (leftForearmRef.current && rightForearmRef.current) {
+              leftForearmRef.current.rotation.z = ease * 0.55;
+              rightForearmRef.current.rotation.z = -ease * 0.55;
+            }
+            if (leftShoulderRef.current && rightShoulderRef.current) {
+              leftShoulderRef.current.position.y = 0.26 + ease * 0.05;
+              rightShoulderRef.current.position.y = 0.26 + ease * 0.05;
+            }
+            // Exaggerated head waggle
+            headRef.current.rotation.z = Math.sin(ap * Math.PI * 3) * 0.18;
+            headRef.current.rotation.y = Math.sin(ap * Math.PI * 2) * 0.1;
+            break;
+          }
+
+          // ── Cape whoosh (slow spin + cape toss) ────────────
+          case 'capeWhoosh': {
+            // First quarter: turn around to show cape
+            // Middle: hold showing back + cape swoosh
+            // Last quarter: turn back to front
+            const halfPI = Math.PI;
+            if (ap < 0.25) {
+              groupRef.current.rotation.y = lerp(0, halfPI, ap / 0.25);
+            } else if (ap < 0.75) {
+              groupRef.current.rotation.y = lerp(halfPI, halfPI * 3, (ap - 0.25) / 0.5);
+              // Cape group swoosh while showing back
+              if (capeGroupRef.current) {
+                const capePhase = (ap - 0.25) / 0.5;
+                capeGroupRef.current.rotation.x = Math.sin(capePhase * Math.PI * 2) * 0.35;
+                capeGroupRef.current.rotation.z = Math.sin(capePhase * Math.PI * 3) * 0.18;
+              }
+              // Arms flair outward
+              if (leftArmRef.current && rightArmRef.current) {
+                const mid = Math.sin(((ap - 0.25) / 0.5) * Math.PI);
+                leftArmRef.current.rotation.z = -0.15 - mid * 0.8;
+                rightArmRef.current.rotation.z = 0.15 + mid * 0.8;
+              }
+            } else {
+              groupRef.current.rotation.y = lerp(halfPI * 3, Math.PI * 2, (ap - 0.75) / 0.25);
+              if (capeGroupRef.current) {
+                capeGroupRef.current.rotation.x = lerp(capeGroupRef.current.rotation.x, 0, 0.1);
+                capeGroupRef.current.rotation.z = lerp(capeGroupRef.current.rotation.z, 0, 0.1);
+              }
+            }
+            break;
+          }
+
+          // ── Hat tip ────────────────────────────────────────
+          case 'hatTip': {
+            // Raise → hold → lower
+            const raise = ap < 0.35 ? ap / 0.35 : ap < 0.65 ? 1 : 1 - (ap - 0.65) / 0.35;
+            if (rightArmRef.current) {
+              rightArmRef.current.rotation.z = 0.15 + raise * 1.4;
+              rightArmRef.current.rotation.x = -raise * 0.65;
+            }
+            if (rightForearmRef.current) {
+              rightForearmRef.current.rotation.x = -raise * 0.45;
+            }
+            // Charming head tilt
+            headRef.current.rotation.z = -raise * 0.12;
+            headRef.current.rotation.y = raise * 0.1;
+            break;
+          }
+        }
+      }
+    }
   });
 
   // Boy hair: short, spiky
@@ -1182,8 +1564,41 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
       {/* ══ TRAIL ════════════════════════════════════════ */}
       {activeTrail && <TrailMesh trail={activeTrail} t={frameT} />}
 
+      {/* ══ TOON OUTLINE — BackSide meshes for dark bg ══ */}
+      {/* These slightly oversized BackSide meshes create a crisp edge           */}
+      {/* outline visible against any dark background. They complement the       */}
+      {/* CSS drop-shadow filter (which handles the outer glow / soft halo).     */}
+      {/* Head outline follows headRef group below automatically via position.   */}
+      {/* Torso/legs are largely static and outline stays accurate enough.       */}
+      <mesh position={[0, 0.58, 0]} scale={1.095}>
+        <sphereGeometry args={[0.18, 12, 8]} />
+        <meshBasicMaterial color="#ddeeff" side={THREE.BackSide} transparent opacity={0.22} />
+      </mesh>
+      {/* Neck */}
+      <mesh position={[0, 0.40, 0]} scale={1.10}>
+        <cylinderGeometry args={[0.07, 0.085, 0.16, 8]} />
+        <meshBasicMaterial color="#ddeeff" side={THREE.BackSide} transparent opacity={0.18} />
+      </mesh>
+      {/* Torso */}
+      <mesh scale={[1.08, 1.06, 1.09]}>
+        <cylinderGeometry args={[bodyW * 0.46, bodyW * 0.50, bodyH * 0.75, 10]} />
+        <meshBasicMaterial color="#ddeeff" side={THREE.BackSide} transparent opacity={0.17} />
+      </mesh>
+      {/* Left leg */}
+      <mesh position={[-0.11, -0.52, 0.015]} scale={1.08}>
+        <cylinderGeometry args={[0.072, 0.082, 0.52, 6]} />
+        <meshBasicMaterial color="#ddeeff" side={THREE.BackSide} transparent opacity={0.17} />
+      </mesh>
+      {/* Right leg */}
+      <mesh position={[0.11, -0.52, 0.015]} scale={1.08}>
+        <cylinderGeometry args={[0.072, 0.082, 0.52, 6]} />
+        <meshBasicMaterial color="#ddeeff" side={THREE.BackSide} transparent opacity={0.17} />
+      </mesh>
+
       {/* ══ CAPE (behind body) ═══════════════════════════ */}
-      {activeCape && <CapeMesh cape={activeCape} t={frameT} />}
+      <group ref={capeGroupRef}>
+        {activeCape && <CapeMesh cape={activeCape} t={frameT} />}
+      </group>
 
       {/* ══ BODY — rounded torso ═══════════════════════ */}
 <group ref={bodyRef} position={[0, 0, 0]}>
@@ -1697,6 +2112,7 @@ export default function AvatarCompanion({
   activeGloves,
   activeHat,
   activeTrail,
+  activeHair,
   passThrough = false,
 }: AvatarCompanionProps) {
   const positionClass = fixed ? 'fixed z-50' : 'relative w-full h-full';
@@ -1716,13 +2132,22 @@ export default function AvatarCompanion({
     setLocalJump({ reaction: r, timestamp: Date.now() });
   };
 
+  // CSS drop-shadow: creates an automatic glow outline around all rendered pixels
+  // (works because the canvas background is transparent / alpha:true)
+  // Matches the active skin's emissive color for a cohesive look
+  const glowCol = (activeSkin && activeSkin.id !== 'default') ? activeSkin.emissive : '#88aaff';
+  const glowFilter = `drop-shadow(0 0 5px ${glowCol}60) drop-shadow(0 0 14px ${glowCol}28) drop-shadow(0 0 28px ${glowCol}10)`;
+
   return (
     <div
       className={`${positionClass} ${passThrough ? 'pointer-events-none' : 'pointer-events-auto cursor-pointer'} ${fixed ? 'w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48' : ''}`}
       style={fixed ? {
         bottom: 'max(20px, calc(env(safe-area-inset-bottom) + 20px))',
         right: '20px',
-      } : {}}
+        filter: glowFilter,
+      } : {
+        filter: glowFilter,
+      }}
       onClick={passThrough ? undefined : handleClick}
     >
       <Canvas
@@ -1731,14 +2156,22 @@ export default function AvatarCompanion({
         gl={{ antialias: false, powerPreference: 'low-power', alpha: true, stencil: false }}
         style={{ background: 'transparent', ...(passThrough ? { pointerEvents: 'none' as const } : {}) }}
       >
-        <hemisphereLight color="#f8f0e8" groundColor="#b0a090" intensity={0.85} />
-        <ambientLight intensity={0.55} />
-        <directionalLight position={[-3, 5, 3]} intensity={0.8} color="#fff8ee" />
-        <directionalLight position={[2, 1, -2]} intensity={0.25} color="#ccdaff" />
-        <directionalLight position={[0, -2, 3]} intensity={0.15} color="#ffe8c8" />
-        {/* Rim light — back edge glow so avatar pops against dark bg */}
-        <directionalLight position={[0, 1, -3]} intensity={0.6} color="#88bbff" />
-        <directionalLight position={[-2, 0, -2]} intensity={0.3} color="#aaccff" />
+        {/* ── LIGHTING SETUP ────────────────────────────────── */}
+        {/* Ambient fill — brighter so dark clothes stay readable */}
+        <hemisphereLight color="#f8f0e8" groundColor="#c0b0a0" intensity={1.1} />
+        <ambientLight intensity={0.7} />
+        {/* Key light — main front-left */}
+        <directionalLight position={[-3, 5, 3]} intensity={0.9} color="#fff8ee" />
+        {/* Front fill point light near camera — eliminates dark front faces */}
+        <pointLight position={[0.3, 0.9, 2.0]} intensity={0.65} color="#fff4e8" distance={5} decay={1.8} />
+        {/* Secondary fill */}
+        <directionalLight position={[2, 1, -2]} intensity={0.3} color="#ccdaff" />
+        {/* Under fill — prevents pitch-black legs/shoes */}
+        <directionalLight position={[0, -1, 2]} intensity={0.35} color="#ffeedd" />
+        {/* Strong back rim — silhouette separation against dark bg */}
+        <directionalLight position={[0, 1, -3]} intensity={0.95} color="#aac8ff" />
+        <directionalLight position={[-2, 0, -2]} intensity={0.45} color="#c0d8ff" />
+        <directionalLight position={[2, 0.5, -2.5]} intensity={0.35} color="#b8d0ff" />
         <Character
           mood={mood}
           isWalking={isWalking}
@@ -1757,6 +2190,7 @@ export default function AvatarCompanion({
           activeGloves={activeGloves}
           activeHat={activeHat}
           activeTrail={activeTrail}
+          activeHair={activeHair}
         />
       </Canvas>
     </div>
