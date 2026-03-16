@@ -44,8 +44,8 @@ export default function WortartenSortieren({ words, categories, userAnswer, subm
     <div>
       {/* Instruction */}
       <div style={{ height: 28, lineHeight: '28px' }} className="flex items-center gap-1 px-1">
-        <span className="text-slate-300 text-xs w-5 text-right shrink-0">↓</span>
-        <span className="text-xs text-slate-400 italic">Tippe: Nomen · Verb · Adjektiv</span>
+        <span className="text-slate-500 text-xs w-5 text-right shrink-0">↓</span>
+        <span className="text-xs text-slate-600 font-semibold">Tippe: Nomen · Verb · Adjektiv</span>
         <span className="ml-auto flex gap-1 pr-1">
           {(['N','V','A'] as const).map(c => (
             <span key={c} className={`text-xs font-bold px-1 rounded ${CAT_CORRECT[c]}`}>{CAT_LABELS[c][0]}</span>

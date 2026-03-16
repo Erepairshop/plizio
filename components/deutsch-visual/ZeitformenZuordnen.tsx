@@ -29,9 +29,15 @@ export default function ZeitformenZuordnen({ sentence, correctZeitform, userAnsw
 
   return (
     <div>
+      {/* Instruction */}
+      <div style={{ height: 24, lineHeight: '24px' }} className="flex items-center gap-1 px-1">
+        <span className="text-slate-500 text-xs w-5 text-right shrink-0">↓</span>
+        <span className="text-xs text-slate-600 font-semibold">Welche Zeitform hat der Satz?</span>
+      </div>
+
       {/* Sentence line */}
       <div style={{ minHeight: 28, lineHeight: '28px' }} className="flex items-center gap-1 px-1 py-0.5">
-        <span className="text-slate-300 text-xs w-5 text-right shrink-0">→</span>
+        <span className="text-slate-500 text-xs w-5 text-right shrink-0">→</span>
         <span className="text-xs text-slate-700 font-semibold italic">{sentence}</span>
       </div>
 

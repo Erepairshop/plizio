@@ -23,7 +23,7 @@ export default function FehlerFinden({ words, errorIndex, hint, userAnswer, subm
     <div>
       {/* Single line: word chips — tap the wrong one */}
       <div style={{ minHeight: 28, lineHeight: "28px" }} className="flex items-center gap-1 flex-wrap px-1 py-0.5">
-        <span className="text-slate-300 text-xs w-5 text-right shrink-0">→</span>
+        <span className="text-slate-500 text-xs w-5 text-right shrink-0">→</span>
         {words.map((w, i) => {
           let cls = "px-2 rounded border font-semibold text-xs transition-all select-none cursor-pointer ";
           if (submitted) {
@@ -63,7 +63,7 @@ export default function FehlerFinden({ words, errorIndex, hint, userAnswer, subm
       {submitted && (
         <div style={{ height: 28, lineHeight: "28px" }} className="flex items-center gap-1 px-1">
           <span className="w-5 shrink-0" />
-          <span className="text-xs text-slate-400 italic">{hint}</span>
+          <span className="text-xs text-slate-500 font-medium">{hint}</span>
         </div>
       )}
     </div>

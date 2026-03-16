@@ -41,7 +41,10 @@ import ZeitformenZuordnen from "@/components/deutsch-visual/ZeitformenZuordnen";
 import SatzgliedMarkieren from "@/components/deutsch-visual/SatzgliedMarkieren";
 import KasusMarkieren from "@/components/deutsch-visual/KasusMarkieren";
 import AdjektivEndungen from "@/components/deutsch-visual/AdjektivEndungen";
-import { genGenusSortierung, genSatzOrdnen, genBildBeschriften, genFehlerFinden, genWortfamilienBaum, genGeschichteSortieren, genWortartenSortieren, genZeitformenZuordnen, genSatzgliedMarkieren, genKasusMarkieren, genAdjektivEndungen } from "@/lib/deutschVisualGenerators";
+import PassivUmformer from "@/components/deutsch-visual/PassivUmformer";
+import KommaSetzen from "@/components/deutsch-visual/KommaSetzen";
+import KonjunktionsLuecke from "@/components/deutsch-visual/KonjunktionsLuecke";
+import { genGenusSortierung, genSatzOrdnen, genBildBeschriften, genFehlerFinden, genWortfamilienBaum, genGeschichteSortieren, genWortartenSortieren, genZeitformenZuordnen, genSatzgliedMarkieren, genKasusMarkieren, genAdjektivEndungen, genPassivUmformer, genKommaSetzen, genKonjunktionsLuecke } from "@/lib/deutschVisualGenerators";
 import { playCorrect, playIncorrect, playClick } from "@/lib/soundEffects";
 
 // ─── TTS HELPER ──────────────────────────────────────────────────────────────
@@ -121,7 +124,7 @@ type Screen = "country" | "grade" | "topics" | "test" | "reward" | "result";
 type AvatarMood = "idle" | "focused" | "happy" | "disappointed" | "victory";
 
 interface TestQuestion {
-  type: "mcq" | "typing" | "bild-wort" | "anlaut-bild" | "genus-sort" | "satz-ordnen" | "bild-beschriften" | "fehler-finden" | "wortfamilien-baum" | "geschichte-sortieren" | "wortarten-sortieren" | "zeitformen-zuordnen" | "satzglied-markieren" | "kasus-markieren" | "adjektiv-endungen";
+  type: "mcq" | "typing" | "bild-wort" | "anlaut-bild" | "genus-sort" | "satz-ordnen" | "bild-beschriften" | "fehler-finden" | "wortfamilien-baum" | "geschichte-sortieren" | "wortarten-sortieren" | "zeitformen-zuordnen" | "satzglied-markieren" | "kasus-markieren" | "adjektiv-endungen" | "passiv-umformer" | "komma-setzen" | "konjunktions-luecke";
   question: string;
   options?: string[];
   correct?: number;
@@ -147,6 +150,17 @@ interface TestQuestion {
   correctKasus?: 'N'|'A'|'D'|'G'; // kasus-markieren
   stem?: string;           // adjektiv-endungen: adjective stem
   correctEnding?: string;  // adjektiv-endungen: e/er/es/en/em
+  // passiv-umformer
+  aktiv?: string;
+  passivTemplate?: string;
+  hilfsverb?: string;
+  // komma-setzen
+  commaPosition?: number;
+  kommaRule?: string;
+  // konjunktions-luecke
+  leftHalf?: string;
+  rightHalf?: string;
+  conjunction?: string;
 }
 
 // ─── AVATAR LADEN ─────────────────────────────────────────────────────────────
@@ -216,7 +230,7 @@ export default function DeutschTestPage() {
 
   // Helper: generate visual TestQuestions for K2 visual subtopics
   function buildVisualForSubtopic(g: number, sid: string, count: number): TestQuestion[] {
-    if (g !== 2 && g !== 3 && g !== 4 && g !== 5) return [];
+    if (g !== 2 && g !== 3 && g !== 4 && g !== 5 && g !== 6 && g !== 7) return [];
     const fShuffle = <T,>(arr: T[]): T[] => {
       const a = [...arr];
       for (let i = a.length - 1; i > 0; i--) {
@@ -455,14 +469,38 @@ export default function DeutschTestPage() {
           subtopic: sid,
         }));
       } else if (sid === "konjunktionen_k5") {
-        genSatzOrdnen(count).forEach(s => qs.push({
-          type: "satz-ordnen",
-          question: "Satz ordnen:",
-          shuffled: fShuffle([...s.words]),
-          answer: s.words.join(" "),
+        genKonjunktionsLuecke(count).forEach(item => qs.push({
+          type: "konjunktions-luecke",
+          question: "Konjunktion wählen:",
+          leftHalf: item.left,
+          rightHalf: item.right,
+          conjunction: item.conjunction,
+          options: item.options,
+          answer: item.conjunction,
           subtopic: sid,
         }));
-      } else if (sid === "steigerung" || sid === "direkte_rede" || sid === "komma_nebensatz" || sid === "vorgangspassiv_k5" || sid === "passiv_praeteritum_k5" || sid === "ss_beta_k5" || sid === "grossklein_k5" || sid === "dehnung_schaerfung_k5") {
+      } else if (sid === "komma_nebensatz") {
+        genKommaSetzen(count).forEach(item => qs.push({
+          type: "komma-setzen",
+          question: "Komma setzen:",
+          words: item.words,
+          commaPosition: item.commaPosition,
+          kommaRule: item.rule,
+          answer: String(item.commaPosition),
+          subtopic: sid,
+        }));
+      } else if (sid === "vorgangspassiv_k5" || sid === "passiv_praeteritum_k5") {
+        genPassivUmformer(count).forEach(item => qs.push({
+          type: "passiv-umformer",
+          question: "Aktiv → Passiv:",
+          aktiv: item.aktiv,
+          passivTemplate: item.passivTemplate,
+          hilfsverb: item.hilfsverb,
+          options: item.options,
+          answer: item.hilfsverb,
+          subtopic: sid,
+        }));
+      } else if (sid === "steigerung" || sid === "direkte_rede" || sid === "ss_beta_k5" || sid === "grossklein_k5" || sid === "dehnung_schaerfung_k5") {
         genFehlerFinden(count).forEach(item => qs.push({
           type: "fehler-finden",
           question: "Fehler finden:",
@@ -480,6 +518,102 @@ export default function DeutschTestPage() {
           options: item.options,
           correctSet: item.correctIndices,
           answer: item.correctIndices.join(","),
+          subtopic: sid,
+        }));
+      }
+    }
+
+    // ── K6 visual subtopics ───────────────────────────────────────────────────
+    if (g === 6) {
+      if (sid === "passiv" || sid === "zustandspassiv") {
+        genPassivUmformer(count).forEach(item => qs.push({
+          type: "passiv-umformer",
+          question: sid === "zustandspassiv" ? "Aktiv → Passiv (sein/werden):" : "Aktiv → Passiv:",
+          aktiv: item.aktiv,
+          passivTemplate: item.passivTemplate,
+          hilfsverb: item.hilfsverb,
+          options: item.options,
+          answer: item.hilfsverb,
+          subtopic: sid,
+        }));
+      } else if (sid === "relativsatz" || sid === "kausalsatz") {
+        genKonjunktionsLuecke(count).forEach(item => qs.push({
+          type: "konjunktions-luecke",
+          question: "Konjunktion / Relativpronomen wählen:",
+          leftHalf: item.left,
+          rightHalf: item.right,
+          conjunction: item.conjunction,
+          options: item.options,
+          answer: item.conjunction,
+          subtopic: sid,
+        }));
+      } else if (sid === "synonyme" || sid === "antonyme" || sid === "komposita_k6" ||
+                 sid === "derivation_k6" || sid === "nominalisierung_k6") {
+        genWortfamilienBaum(count).forEach(item => qs.push({
+          type: "wortfamilien-baum",
+          question: "Wortfamilie:",
+          stamm: item.stamm,
+          options: item.options,
+          correctSet: item.correctIndices,
+          answer: item.correctIndices.join(","),
+          subtopic: sid,
+        }));
+      } else if (sid === "modalverben_k6") {
+        genWortartenSortieren(count).forEach(item => qs.push({
+          type: "wortarten-sortieren",
+          question: "Wortarten bestimmen:",
+          words: item.words,
+          wordCategories: item.categories,
+          answer: item.categories.join(","),
+          subtopic: sid,
+        }));
+      } else {
+        // konjunktiv_2, infinitiv_zu, fremdwoerter, doppelpunkt_k6, gedankenstrich_k6, stilmittel_*, nominalisierung_k6
+        genFehlerFinden(count).forEach(item => qs.push({
+          type: "fehler-finden",
+          question: "Fehler finden:",
+          words: item.words,
+          errorIndex: item.errorIndex,
+          hint: item.hint,
+          answer: String(item.errorIndex),
+          subtopic: sid,
+        }));
+      }
+    }
+
+    // ── K7 visual subtopics ───────────────────────────────────────────────────
+    if (g === 7) {
+      if (sid === "werden_passiv" || sid === "sein_passiv" || sid === "passiv_modal") {
+        genPassivUmformer(count).forEach(item => qs.push({
+          type: "passiv-umformer",
+          question: sid === "sein_passiv" ? "Aktiv → Zustandspassiv (sein):" : sid === "passiv_modal" ? "Passiv mit Modalverb:" : "Aktiv → Vorgangspassiv (werden):",
+          aktiv: item.aktiv,
+          passivTemplate: item.passivTemplate,
+          hilfsverb: item.hilfsverb,
+          options: item.options,
+          answer: item.hilfsverb,
+          subtopic: sid,
+        }));
+      } else if (["relativsatz_k7","kausalsatz_k7","finalsatz_k7","konditionalsatz_k7","konzessivsatz_k7","temporalsatz_k7","um_zu_k7","statt_ohne_zu_k7"].includes(sid)) {
+        genKonjunktionsLuecke(count).forEach(item => qs.push({
+          type: "konjunktions-luecke",
+          question: "Konjunktion / Relativpronomen wählen:",
+          leftHalf: item.left,
+          rightHalf: item.right,
+          conjunction: item.conjunction,
+          options: item.options,
+          answer: item.conjunction,
+          subtopic: sid,
+        }));
+      } else {
+        // konjunktiv_1, aussagen_umf, metapher_vergleich, alliteration_personifikation
+        genFehlerFinden(count).forEach(item => qs.push({
+          type: "fehler-finden",
+          question: "Fehler finden:",
+          words: item.words,
+          errorIndex: item.errorIndex,
+          hint: item.hint,
+          answer: String(item.errorIndex),
           subtopic: sid,
         }));
       }
@@ -526,6 +660,7 @@ export default function DeutschTestPage() {
       "genus-sort","satz-ordnen","bild-beschriften","fehler-finden",
       "wortfamilien-baum","geschichte-sortieren","wortarten-sortieren",
       "zeitformen-zuordnen","satzglied-markieren","kasus-markieren","adjektiv-endungen",
+      "passiv-umformer","komma-setzen","konjunktions-luecke",
     ]);
     const visualPools: Record<string, TestQuestion[]> = {};
     const regularPools: Record<string, TestQuestion[]> = {};
@@ -1134,6 +1269,7 @@ export default function DeutschTestPage() {
                   "genus-sort","satz-ordnen","bild-beschriften","fehler-finden",
                   "wortfamilien-baum","geschichte-sortieren","wortarten-sortieren",
                   "zeitformen-zuordnen","satzglied-markieren","kasus-markieren","adjektiv-endungen",
+                  "passiv-umformer","komma-setzen","konjunktions-luecke",
                 ]);
                 const VISUAL_TYPE_LABELS: Record<string, string> = {
                   "genus-sort": "Artikel bestimmen 🔵",
@@ -1147,6 +1283,9 @@ export default function DeutschTestPage() {
                   "satzglied-markieren": "Satzglieder markieren 📐",
                   "kasus-markieren": "Kasus bestimmen 📌",
                   "adjektiv-endungen": "Adjektiv-Endungen ✍️",
+                  "passiv-umformer": "Passiv bilden 🔄",
+                  "komma-setzen": "Komma setzen ✏️",
+                  "konjunktions-luecke": "Konjunktion wählen 🔗",
                 };
                 const blockStart = Math.floor(qi / 3) * 3;
                 const blockQs = [questions[blockStart], questions[blockStart+1], questions[blockStart+2]].filter(Boolean);
@@ -1505,6 +1644,50 @@ export default function DeutschTestPage() {
                           userAnswer={userAnswerRaw ?? ""}
                           submitted={submitted}
                           onAnswer={(a) => { if (!submitted) { setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
+                        />
+                      </div>
+                    )}
+
+                    {/* PassivUmformer: K5 — tap wird/wurde to complete passive */}
+                    {q.type === "passiv-umformer" && q.aktiv && q.passivTemplate && q.hilfsverb && q.options && (
+                      <div className="ml-7">
+                        <PassivUmformer
+                          aktiv={q.aktiv}
+                          passivTemplate={q.passivTemplate}
+                          hilfsverb={q.hilfsverb}
+                          options={q.options}
+                          userAnswer={userAnswerRaw ?? ""}
+                          submitted={submitted}
+                          onAnswer={(a) => { if (!submitted) { playClick(); setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
+                        />
+                      </div>
+                    )}
+
+                    {/* KommaSetzen: K5 — click the gap to place a comma */}
+                    {q.type === "komma-setzen" && q.words && q.commaPosition !== undefined && (
+                      <div className="ml-7">
+                        <KommaSetzen
+                          words={q.words}
+                          commaPosition={q.commaPosition}
+                          rule={q.kommaRule ?? ""}
+                          userAnswer={userAnswerRaw ?? ""}
+                          submitted={submitted}
+                          onAnswer={(a) => { if (!submitted) { playClick(); setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
+                        />
+                      </div>
+                    )}
+
+                    {/* KonjunktionsLücke: K5 — tap the correct conjunction */}
+                    {q.type === "konjunktions-luecke" && q.leftHalf && q.rightHalf && q.conjunction && q.options && (
+                      <div className="ml-7">
+                        <KonjunktionsLuecke
+                          left={q.leftHalf}
+                          right={q.rightHalf}
+                          conjunction={q.conjunction}
+                          options={q.options}
+                          userAnswer={userAnswerRaw ?? ""}
+                          submitted={submitted}
+                          onAnswer={(a) => { if (!submitted) { playClick(); setPaperAnswers(prev => ({ ...prev, [qi]: a })); } }}
                         />
                       </div>
                     )}
