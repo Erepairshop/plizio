@@ -609,25 +609,25 @@ rightBrowRef: React.RefObject<THREE.Object3D | null>;
 {/* Eye white — almond-shaped with socket depth */}
 {!specialEye && !isWinkClosed && (
   <group position={[x, 0.04, 0.188]}>
-    {/* Eye socket shadow — dark ring behind sclera for depth */}
-    <mesh scale={[0.96, 0.68, 0.28]} position={[0, -0.002, -0.003]}>
+    {/* Eye socket shadow — subtle depth behind sclera, kept small so it doesn't protrude from above */}
+    <mesh scale={[0.72, 0.44, 0.14]} position={[0, -0.002, -0.001]}>
       <sphereGeometry args={[0.048, 10, 8]} />
       <meshStandardMaterial color={skinDark} roughness={0.8} />
     </mesh>
-    {/* Sclera — slightly tinted for warmth, smaller than socket */}
-    <mesh scale={[0.78, 0.48, 0.30]}>
+    {/* Sclera — slightly tinted for warmth */}
+    <mesh scale={[0.72, 0.40, 0.16]}>
       <sphereGeometry args={[0.048, 10, 8]} />
       <meshStandardMaterial color="#f5f0ea" roughness={0.3} />
     </mesh>
     {/* Upper eyelid — skin-tone, covers top of eye */}
-    <mesh position={[0, 0.020, 0.008]} scale={[0.90, 0.32, 0.36]}>
+    <mesh position={[0, 0.016, 0.004]} scale={[0.74, 0.22, 0.18]}>
       <sphereGeometry args={[0.048, 8, 6]} />
       <meshStandardMaterial color={skinColor} roughness={0.6} />
     </mesh>
     {/* Lower eyelid — subtle skin-tone rim at bottom */}
-    <mesh position={[0, -0.016, 0.006]} scale={[0.82, 0.18, 0.34]}>
+    <mesh position={[0, -0.014, 0.003]} scale={[0.68, 0.14, 0.16]}>
       <sphereGeometry args={[0.048, 8, 6]} />
-      <meshStandardMaterial color={skinColor} roughness={0.6} transparent opacity={0.7} />
+      <meshStandardMaterial color={skinColor} roughness={0.6} transparent opacity={0.6} />
     </mesh>
   </group>
 )}
@@ -1658,13 +1658,8 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
       {/* These slightly oversized BackSide meshes create a crisp edge           */}
       {/* outline visible against any dark background. They complement the       */}
       {/* CSS drop-shadow filter (which handles the outer glow / soft halo).     */}
-      {/* Head outline follows headRef group below automatically via position.   */}
-      {/* Torso/legs are largely static and outline stays accurate enough.       */}
-      <mesh position={[0, 0.58, 0]} scale={1.095}>
-        <sphereGeometry args={[0.18, 12, 8]} />
-        <meshBasicMaterial color="#ddeeff" side={THREE.BackSide} transparent opacity={0.22} />
-      </mesh>
-      {/* Neck outline — now part of head outline since neck is in headRef */}
+      {/* Head outline — moved to headRef group below so it follows breathing */}
+      {/* (was here as a sibling, caused forehead bump during breathing)      */}
       {/* Torso */}
       <mesh scale={[1.08, 1.06, 1.09]}>
         <cylinderGeometry args={[bodyW * 0.46, bodyW * 0.50, bodyH * 0.75, 10]} />
@@ -1797,6 +1792,11 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
 
       {/* ══ HEAD GROUP (includes neck so both move together) ═══ */}
       <group ref={headRef} position={[0, 0.58, 0]}>
+        {/* Head outline — inside headRef so it follows breathing */}
+        <mesh scale={1.095}>
+          <sphereGeometry args={[0.18, 12, 8]} />
+          <meshBasicMaterial color="#ddeeff" side={THREE.BackSide} transparent opacity={0.22} />
+        </mesh>
         {/* Neck — inside headRef so it follows head movement */}
         <mesh position={[0, -0.18, 0]}>
           <cylinderGeometry args={[0.07, 0.085, 0.20, 8]} />
@@ -1838,7 +1838,7 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
 </mesh>
 
 {/* ── HOMLOK enyhe kiemelkedés ──────────────── */}
-<mesh position={[0, 0.10, 0.168]} scale={[0.75, 0.35, 0.20]}>
+<mesh position={[0, 0.06, 0.165]} scale={[0.70, 0.22, 0.12]}>
   <sphereGeometry args={[0.09, 8, 6]} />
   <meshStandardMaterial color={actualSkinColor} roughness={0.55} metalness={0.01} />
 </mesh>
