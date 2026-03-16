@@ -28,6 +28,7 @@ import {
 import { getRandomPassage, type Lesepassage, type LeseQuestion } from "@/lib/deutschLesetest";
 import { generateForSubtopics } from "@/lib/deutschGenerators";
 import { checkAnswer } from "@/lib/deutschValidation";
+import { getUsername } from "@/lib/username";
 import { InlineTeacherNote } from "@/components/TeacherNote";
 import GenusSortierung from "@/components/deutsch-visual/GenusSortierung";
 import SatzOrdnen from "@/components/deutsch-visual/SatzOrdnen";
@@ -801,6 +802,7 @@ export default function DeutschTestPage() {
             total={totalQ}
             onExit={() => setScreen("topics")}
             exitLabel="Zurück"
+            userName={getUsername() || undefined}
           >
             {/* All questions at once — lined paper style */}
             <div style={{ fontSize: 14, lineHeight: '28px' }}>
@@ -1187,7 +1189,7 @@ export default function DeutschTestPage() {
 
               {/* Teacher note */}
               <InlineTeacherNote
-                playerName=""
+                playerName={getUsername() || ""}
                 percentage={scorePct}
                 countryCode={country}
               />
