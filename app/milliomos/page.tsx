@@ -5,16 +5,13 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Crown, Trophy, X, Gem, Shield, Scissors, SkipForward } from "lucide-react";
 import Link from "next/link";
 import { useLang } from "@/components/LanguageProvider";
-import type { Language } from "@/lib/language";
 import ResultCard from "@/components/ResultCard";
 import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId, type CardRarity } from "@/lib/cards";
 import { incrementTotalGames, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
 // Dynamically import questions based on language
-import type { Language } from "@/lib/language";
-
-const getQuestions = (lang: Language) => {
+const getQuestions = (lang: string) => {
   if (lang === "hu") return require("@/data/milliomos/questions-hu.json");
   if (lang === "de") return require("@/data/milliomos/questions-de.json");
   if (lang === "ro") return require("@/data/milliomos/questions-ro.json");
