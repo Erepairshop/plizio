@@ -1564,6 +1564,37 @@ const rightBrowRef = useRef<THREE.Object3D | null>(null);
       {/* ══ TRAIL ════════════════════════════════════════ */}
       {activeTrail && <TrailMesh trail={activeTrail} t={frameT} />}
 
+      {/* ══ TOON OUTLINE — BackSide meshes for dark bg ══ */}
+      {/* These slightly oversized BackSide meshes create a crisp edge           */}
+      {/* outline visible against any dark background. They complement the       */}
+      {/* CSS drop-shadow filter (which handles the outer glow / soft halo).     */}
+      {/* Head outline follows headRef group below automatically via position.   */}
+      {/* Torso/legs are largely static and outline stays accurate enough.       */}
+      <mesh position={[0, 0.58, 0]} scale={1.095}>
+        <sphereGeometry args={[0.18, 12, 8]} />
+        <meshBasicMaterial color="#ddeeff" side={THREE.BackSide} transparent opacity={0.22} />
+      </mesh>
+      {/* Neck */}
+      <mesh position={[0, 0.40, 0]} scale={1.10}>
+        <cylinderGeometry args={[0.07, 0.085, 0.16, 8]} />
+        <meshBasicMaterial color="#ddeeff" side={THREE.BackSide} transparent opacity={0.18} />
+      </mesh>
+      {/* Torso */}
+      <mesh scale={[1.08, 1.06, 1.09]}>
+        <cylinderGeometry args={[bodyW * 0.46, bodyW * 0.50, bodyH * 0.75, 10]} />
+        <meshBasicMaterial color="#ddeeff" side={THREE.BackSide} transparent opacity={0.17} />
+      </mesh>
+      {/* Left leg */}
+      <mesh position={[-0.11, -0.52, 0.015]} scale={1.08}>
+        <cylinderGeometry args={[0.072, 0.082, 0.52, 6]} />
+        <meshBasicMaterial color="#ddeeff" side={THREE.BackSide} transparent opacity={0.17} />
+      </mesh>
+      {/* Right leg */}
+      <mesh position={[0.11, -0.52, 0.015]} scale={1.08}>
+        <cylinderGeometry args={[0.072, 0.082, 0.52, 6]} />
+        <meshBasicMaterial color="#ddeeff" side={THREE.BackSide} transparent opacity={0.17} />
+      </mesh>
+
       {/* ══ CAPE (behind body) ═══════════════════════════ */}
       <group ref={capeGroupRef}>
         {activeCape && <CapeMesh cape={activeCape} t={frameT} />}
@@ -2101,13 +2132,22 @@ export default function AvatarCompanion({
     setLocalJump({ reaction: r, timestamp: Date.now() });
   };
 
+  // CSS drop-shadow: creates an automatic glow outline around all rendered pixels
+  // (works because the canvas background is transparent / alpha:true)
+  // Matches the active skin's emissive color for a cohesive look
+  const glowCol = (activeSkin && activeSkin.id !== 'default') ? activeSkin.emissive : '#88aaff';
+  const glowFilter = `drop-shadow(0 0 5px ${glowCol}60) drop-shadow(0 0 14px ${glowCol}28) drop-shadow(0 0 28px ${glowCol}10)`;
+
   return (
     <div
       className={`${positionClass} ${passThrough ? 'pointer-events-none' : 'pointer-events-auto cursor-pointer'} ${fixed ? 'w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48' : ''}`}
       style={fixed ? {
         bottom: 'max(20px, calc(env(safe-area-inset-bottom) + 20px))',
         right: '20px',
-      } : {}}
+        filter: glowFilter,
+      } : {
+        filter: glowFilter,
+      }}
       onClick={passThrough ? undefined : handleClick}
     >
       <Canvas
@@ -2116,14 +2156,22 @@ export default function AvatarCompanion({
         gl={{ antialias: false, powerPreference: 'low-power', alpha: true, stencil: false }}
         style={{ background: 'transparent', ...(passThrough ? { pointerEvents: 'none' as const } : {}) }}
       >
-        <hemisphereLight color="#f8f0e8" groundColor="#b0a090" intensity={0.85} />
-        <ambientLight intensity={0.55} />
-        <directionalLight position={[-3, 5, 3]} intensity={0.8} color="#fff8ee" />
-        <directionalLight position={[2, 1, -2]} intensity={0.25} color="#ccdaff" />
-        <directionalLight position={[0, -2, 3]} intensity={0.15} color="#ffe8c8" />
-        {/* Rim light — back edge glow so avatar pops against dark bg */}
-        <directionalLight position={[0, 1, -3]} intensity={0.6} color="#88bbff" />
-        <directionalLight position={[-2, 0, -2]} intensity={0.3} color="#aaccff" />
+        {/* ── LIGHTING SETUP ────────────────────────────────── */}
+        {/* Ambient fill — brighter so dark clothes stay readable */}
+        <hemisphereLight color="#f8f0e8" groundColor="#c0b0a0" intensity={1.1} />
+        <ambientLight intensity={0.7} />
+        {/* Key light — main front-left */}
+        <directionalLight position={[-3, 5, 3]} intensity={0.9} color="#fff8ee" />
+        {/* Front fill point light near camera — eliminates dark front faces */}
+        <pointLight position={[0.3, 0.9, 2.0]} intensity={0.65} color="#fff4e8" distance={5} decay={1.8} />
+        {/* Secondary fill */}
+        <directionalLight position={[2, 1, -2]} intensity={0.3} color="#ccdaff" />
+        {/* Under fill — prevents pitch-black legs/shoes */}
+        <directionalLight position={[0, -1, 2]} intensity={0.35} color="#ffeedd" />
+        {/* Strong back rim — silhouette separation against dark bg */}
+        <directionalLight position={[0, 1, -3]} intensity={0.95} color="#aac8ff" />
+        <directionalLight position={[-2, 0, -2]} intensity={0.45} color="#c0d8ff" />
+        <directionalLight position={[2, 0.5, -2.5]} intensity={0.35} color="#b8d0ff" />
         <Character
           mood={mood}
           isWalking={isWalking}
