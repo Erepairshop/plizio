@@ -127,6 +127,12 @@ type ShopTranslations = {
     hdl: string;
   };
   carDescriptions: Record<string, string>;
+  preview: {
+    title: string;
+    hint: string;
+    girl: string;
+    boy: string;
+  };
 };
 
 const SHOP_TRANSLATIONS: Record<Language, ShopTranslations> = {
@@ -191,6 +197,12 @@ const SHOP_TRANSLATIONS: Record<Language, ShopTranslations> = {
       racer: "Racing car. Excellent speed and handling with drift.",
       supercar: "The best. Nitro boost, drift, maximum speed and acceleration.",
     },
+    preview: {
+      title: "AVATAR PREVIEW",
+      hint: "Buy items and see them on your avatar instantly!",
+      girl: "Girl",
+      boy: "Boy",
+    },
   },
   hu: {
     header: "BOLT",
@@ -252,6 +264,12 @@ const SHOP_TRANSLATIONS: Record<Language, ShopTranslations> = {
       muscle: "Erős izomautó drift képességgel. Nehezebb a kormányzás.",
       racer: "Versenyautó. Kiváló sebesség és kezelhetőség drifttel.",
       supercar: "A legjobb. Nitro boost, drift, maximális sebesség és gyorsulás.",
+    },
+    preview: {
+      title: "AVATÁR ELŐNÉZET",
+      hint: "Vásárolj tárgyakat, és azonnal látod az avatáron!",
+      girl: "Lány",
+      boy: "Fiú",
     },
   },
   de: {
@@ -315,6 +333,12 @@ const SHOP_TRANSLATIONS: Record<Language, ShopTranslations> = {
       racer: "Rennwagen. Ausgezeichnete Geschwindigkeit und Handling mit Drift.",
       supercar: "Das Beste. Nitro-Boost, Drift, maximale Geschwindigkeit und Beschleunigung.",
     },
+    preview: {
+      title: "AVATAR-VORSCHAU",
+      hint: "Kaufe Gegenstände und sieh sie sofort auf deinem Avatar!",
+      girl: "Mädchen",
+      boy: "Junge",
+    },
   },
   ro: {
     header: "MAGAZIN",
@@ -376,6 +400,12 @@ const SHOP_TRANSLATIONS: Record<Language, ShopTranslations> = {
       muscle: "Mașină cu motor puternic cu capacitate de drift. Direcție mai dificilă.",
       racer: "Mașina de curse. Viteză și manevrabilitate excelente cu drift.",
       supercar: "Cea mai bună. Nitro boost, drift, viteză maximă și accelerație.",
+    },
+    preview: {
+      title: "PREVIZUALIZARE AVATAR",
+      hint: "Cumpără obiecte și vezi-le imediat pe avatar!",
+      girl: "Fată",
+      boy: "Băiat",
     },
   },
 };
@@ -1205,7 +1235,7 @@ export default function ShopPage() {
         {/* ── Live 3D Avatar Preview ── */}
         <div className="w-full max-w-md bg-white/[0.03] border border-white/8 rounded-2xl overflow-hidden">
           <div className="flex items-center">
-            {/* Avatar canvas */}
+            {/* Avatar canvas — with orbit controls for 360° view */}
             <div className="w-40 h-40 flex-shrink-0">
               <AvatarCompanion
                 mood={avatarMood}
@@ -1222,27 +1252,28 @@ export default function ShopPage() {
                 activeHat={previewHatDef}
                 activeTrail={previewTrailDef}
                 activeHair={previewHairDef}
+                orbitControls
               />
             </div>
             {/* Info + gender switch */}
             <div className="flex-1 px-3 py-3 flex flex-col gap-2">
-              <span className="text-white/60 text-xs font-bold">AVATÁR ELŐNÉZET</span>
+              <span className="text-white/60 text-xs font-bold">{t.preview.title}</span>
               <div className="flex gap-1.5">
                 <button
                   onClick={() => handleGenderToggle('girl')}
                   className={`flex-1 flex items-center justify-center gap-1 py-1.5 rounded-lg text-xs font-bold border transition-all ${shopGender === 'girl' ? 'bg-[#E040FB]/15 border-[#E040FB]/40 text-[#E040FB]' : 'border-white/10 text-white/30'}`}
                 >
-                  <Venus size={11} /> Lány
+                  <Venus size={11} /> {t.preview.girl}
                 </button>
                 <button
                   onClick={() => handleGenderToggle('boy')}
                   className={`flex-1 flex items-center justify-center gap-1 py-1.5 rounded-lg text-xs font-bold border transition-all ${shopGender === 'boy' ? 'bg-[#00D4FF]/15 border-[#00D4FF]/40 text-[#00D4FF]' : 'border-white/10 text-white/30'}`}
                 >
-                  <Mars size={11} /> Fiú
+                  <Mars size={11} /> {t.preview.boy}
                 </button>
               </div>
               <div className="text-[10px] text-white/20 leading-tight">
-                Vásárolj tárgyakat, és azonnal látod az avatáron!
+                {t.preview.hint}
               </div>
             </div>
           </div>

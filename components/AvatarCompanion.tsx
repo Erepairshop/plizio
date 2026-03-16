@@ -2,6 +2,7 @@
 
 import { useRef, useEffect, useState } from 'react';
 import { Canvas, useFrame } from '@react-three/fiber';
+import { OrbitControls } from '@react-three/drei';
 import * as THREE from 'three';
 import type { SkinDef } from '@/lib/skins';
 import type { FaceDef } from '@/lib/faces';
@@ -37,6 +38,8 @@ export interface AvatarCompanionProps {
   activeHair?: HairDef | null;
   // When true, the avatar canvas passes clicks through to underlying elements
   passThrough?: boolean;
+  // When true, enables touch/mouse orbit controls for 360° rotation
+  orbitControls?: boolean;
 }
 
 function nextBlink() {
@@ -2198,6 +2201,7 @@ export default function AvatarCompanion({
   activeTrail,
   activeHair,
   passThrough = false,
+  orbitControls = false,
 }: AvatarCompanionProps) {
   const positionClass = fixed ? 'fixed z-50' : 'relative w-full h-full';
   const [localJump, setLocalJump] = useState<{
@@ -2256,6 +2260,17 @@ export default function AvatarCompanion({
         <directionalLight position={[0, 1, -3]} intensity={0.95} color="#aac8ff" />
         <directionalLight position={[-2, 0, -2]} intensity={0.45} color="#c0d8ff" />
         <directionalLight position={[2, 0.5, -2.5]} intensity={0.35} color="#b8d0ff" />
+        {orbitControls && (
+          <OrbitControls
+            enableZoom={true}
+            enablePan={false}
+            minDistance={1.5}
+            maxDistance={4.5}
+            minPolarAngle={Math.PI * 0.15}
+            maxPolarAngle={Math.PI * 0.85}
+            target={[0, 0.15, 0]}
+          />
+        )}
         <Character
           mood={mood}
           isWalking={isWalking}
