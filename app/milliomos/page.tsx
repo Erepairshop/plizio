@@ -11,7 +11,15 @@ import RewardReveal from "@/components/RewardReveal";
 import { calculateRarity, saveCard, generateCardId, type CardRarity } from "@/lib/cards";
 import { incrementTotalGames, updateStats } from "@/lib/milestones";
 import MilestonePopup from "@/components/MilestonePopup";
-import allQuestions from "@/data/milliomos/questions.json";
+// Dynamically import questions based on language
+import type { Language } from "@/lib/language";
+
+const getQuestions = (lang: Language) => {
+  if (lang === "hu") return require("@/data/milliomos/questions-hu.json");
+  if (lang === "de") return require("@/data/milliomos/questions-de.json");
+  if (lang === "ro") return require("@/data/milliomos/questions-ro.json");
+  return require("@/data/milliomos/questions.json"); // EN default
+};
 
 type GameState = "ready" | "playing" | "confirming" | "correct" | "wrong" | "gameover" | "reward" | "result";
 
@@ -72,9 +80,9 @@ function updateStreak(): number {
   return 1;
 }
 
-function pickQuestions(): Question[] {
+function pickQuestions(allQuestions: Question[]): Question[] {
   const byDifficulty: Record<number, Question[]> = {};
-  for (const q of allQuestions as Question[]) {
+  for (const q of allQuestions) {
     if (!byDifficulty[q.difficulty]) byDifficulty[q.difficulty] = [];
     byDifficulty[q.difficulty].push(q);
   }
@@ -200,7 +208,8 @@ export default function MilliomosPage() {
   }, []);
 
   const startGame = () => {
-    const q = pickQuestions();
+    const allQuestions = getQuestions(lang);
+    const q = pickQuestions(allQuestions);
     setQuestions(q);
     setLevel(0);
     setSelectedAnswer(null);

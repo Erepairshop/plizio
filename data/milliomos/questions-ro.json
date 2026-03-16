@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "Ce culoare are cerul într-o zi liniștită?",
+    "answers": [
+      "Blue",
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Câte picioare are o păianjen?",
+    "answers": [
+      "6",
+      "8",
+      "10",
+      "4"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Care planetă este cunoscută ca Planeta Roșie?",
+    "answers": [
+      "Venus",
+      "Jupiter",
+      "Mars",
+      "Saturn"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Care este capitala Franței?",
+    "answers": [
+      "London",
+      "Berlin",
+      "Madrid",
+      "Paris"
+    ],
+    "correct": 3,
+    "difficulty": 1
+  },
+  {
+    "question": "Câte continente sunt?",
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Care animal este cel mai înalt din lume?",
+    "answers": [
+      "Elephant",
+      "Giraffe",
+      "Horse",
+      "Camel"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Sub ce nume este cunoscut H2O?",
+    "answers": [
+      "Salt",
+      "Sugar",
+      "Water",
+      "Oil"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Care fruct este cunoscut că ține medicii departe?",
+    "answers": [
+      "Banana",
+      "Orange",
+      "Grape",
+      "Apple"
+    ],
+    "correct": 3,
+    "difficulty": 1
+  },
+  {
+    "question": "Care este cel mai mare animal de pe Pământ?",
+    "answers": [
+      "Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Shark"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Câte zile sunt într-o săptămână?",
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Ce produc albinele?",
+    "answers": [
+      "Milk",
+      "Honey",
+      "Sugar",
+      "Wax"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Care formă are trei laturi?",
+    "answers": [
+      "Square",
+      "Circle",
+      "Triangle",
+      "Pentagon"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Care este forma înghețată a apei?",
+    "answers": [
+      "Steam",
+      "Fog",
+      "Ice",
+      "Rain"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Care organ pompează sânge în corp?",
+    "answers": [
+      "Brain",
+      "Lungs",
+      "Heart",
+      "Liver"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Câte luni sunt într-un an?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Care este opusul fierbintele?",
+    "answers": [
+      "Warm",
+      "Cool",
+      "Cold",
+      "Mild"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Care animal zice 'muu'?",
+    "answers": [
+      "Pig",
+      "Cow",
+      "Sheep",
+      "Dog"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Ce culoare obții amestecând roșu și alb?",
+    "answers": [
+      "Orange",
+      "Purple",
+      "Pink",
+      "Brown"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Care este cea mai apropiată stea de Pământ?",
+    "answers": [
+      "Moon",
+      "Sun",
+      "Mars",
+      "Polaris"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Câte litere sunt în alfabetul englez?",
+    "answers": [
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Care este cel mai mare ocean de pe Pământ?",
+    "answers": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Cine a pictat Mona Lisa?",
+    "answers": [
+      "Picasso",
+      "Da Vinci",
+      "Van Gogh",
+      "Michelangelo"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Care este cea mai dură substanță naturală?",
+    "answers": [
+      "Gold",
+      "Iron",
+      "Diamond",
+      "Platinum"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Care țară are cei mai mulți oameni?",
+    "answers": [
+      "USA",
+      "India",
+      "Russia",
+      "Brazil"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Ce gaz absorb plantele din atmosferă?",
+    "answers": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Câte oase are un corp uman adult?",
+    "answers": [
+      "186",
+      "206",
+      "226",
+      "256"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "În ce an s-a scufundat Titanicul?",
+    "answers": [
+      "1905",
+      "1912",
+      "1920",
+      "1898"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Care element are simbolul chimic 'Au'?",
+    "answers": [
+      "Silver",
+      "Gold",
+      "Aluminum",
+      "Argon"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Care este cel mai mare continent?",
+    "answers": [
+      "Africa",
+      "Europe",
+      "Asia",
+      "North America"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Câți jucători sunt pe o echipă de fotbal?",
+    "answers": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Care este punctul de fierbere al apei în Celsius?",
+    "answers": [
+      "90°C",
+      "100°C",
+      "110°C",
+      "120°C"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Care țară este faimoasă pentru piramide?",
+    "answers": [
+      "Greece",
+      "Egypt",
+      "Mexico",
+      "India"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Care este principala limbă vorbită în Brazilia?",
+    "answers": [
+      "Spanish",
+      "Portuguese",
+      "French",
+      "English"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Cine a inventat telefonul?",
+    "answers": [
+      "Edison",
+      "Bell",
+      "Tesla",
+      "Morse"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Ce gaz alcătuiește cea mai mare parte a atmosferei Pământului?",
+    "answers": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Helium"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Care este capitala Japoniei?",
+    "answers": [
+      "Beijing",
+      "Seoul",
+      "Tokyo",
+      "Osaka"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Câți dinți are de obicei un om adult?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Care este moneda Regatului Unit?",
+    "answers": [
+      "Euro",
+      "Dollar",
+      "Pound",
+      "Franc"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Care planetă este cea mai apropiată de Soare?",
+    "answers": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Earth"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Care este cel mai mare deșert din lume?",
+    "answers": [
+      "Sahara",
+      "Gobi",
+      "Antarctic",
+      "Arabian"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Care este viteza luminii aproximativ?",
+    "answers": [
+      "300,000 km/s",
+      "150,000 km/s",
+      "500,000 km/s",
+      "100,000 km/s"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Care planetă are cei mai mulți sateliți?",
+    "answers": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Care este cea mai mică țară din lume?",
+    "answers": [
+      "Monaco",
+      "Vatican City",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Cine a scris 'Romeo și Julieta'?",
+    "answers": [
+      "Dickens",
+      "Shakespeare",
+      "Hemingway",
+      "Twain"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Care este cel mai lung fluviu din lume?",
+    "answers": [
+      "Amazon",
+      "Nile",
+      "Mississippi",
+      "Yangtze"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "În ce an s-a încheiat al Doilea Război Mondial?",
+    "answers": [
+      "1943",
+      "1944",
+      "1945",
+      "1946"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Care este formula chimică pentru sarea de masă?",
+    "answers": [
+      "NaOH",
+      "NaCl",
+      "KCl",
+      "CaCl2"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Care organ produce insulina în corpul uman?",
+    "answers": [
+      "Liver",
+      "Kidney",
+      "Pancreas",
+      "Stomach"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Care este cel mai înalt munte din lume?",
+    "answers": [
+      "K2",
+      "Kangchenjunga",
+      "Mount Everest",
+      "Lhotse"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Cine a fost prima persoană care a mers pe Lună?",
+    "answers": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "John Glenn"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Care este cel mai mare organ din corpul uman?",
+    "answers": [
+      "Liver",
+      "Brain",
+      "Skin",
+      "Heart"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Care metal este lichid la temperatura camerei?",
+    "answers": [
+      "Lead",
+      "Tin",
+      "Mercury",
+      "Zinc"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Câte cromozomi au oamenii?",
+    "answers": [
+      "23",
+      "44",
+      "46",
+      "48"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Care este moneda Japoniei?",
+    "answers": [
+      "Won",
+      "Yuan",
+      "Yen",
+      "Ringgit"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Ce vitamină ajută Soarele să se producă?",
+    "answers": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct": 3,
+    "difficulty": 3
+  },
+  {
+    "question": "Care este limba cea mai vorbită în lume?",
+    "answers": [
+      "English",
+      "Spanish",
+      "Mandarin",
+      "Hindi"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Care este pH-ul apei pure?",
+    "answers": [
+      "5",
+      "7",
+      "9",
+      "10"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "În ce oraș se găsește Colosseum?",
+    "answers": [
+      "Athens",
+      "Rome",
+      "Istanbul",
+      "Madrid"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Câte inimi are o caraciță?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Care este cea mai fierbinte planetă din sistemul nostru solar?",
+    "answers": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Care este rădăcina pătrată a lui 144?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "14"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Care limbă are cei mai mulți vorbitori nativi?",
+    "answers": [
+      "English",
+      "Spanish",
+      "Mandarin",
+      "Hindi"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Care este centrala electrică a celulei?",
+    "answers": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Golgi Body"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Cine a descoperit penicilina?",
+    "answers": [
+      "Pasteur",
+      "Fleming",
+      "Curie",
+      "Jenner"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Care este capitala Australiei?",
+    "answers": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Brisbane"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Care planetă se rotește pe o parte?",
+    "answers": [
+      "Venus",
+      "Neptune",
+      "Uranus",
+      "Mercury"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Care este ingredientul principal din sticlă?",
+    "answers": [
+      "Calcium",
+      "Sand (Silica)",
+      "Clay",
+      "Limestone"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "În ce an a fost lansat primul iPhone?",
+    "answers": [
+      "2005",
+      "2006",
+      "2007",
+      "2008"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Care este numărul atomic al carbonului?",
+    "answers": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Cine a pictat 'Noaptea Înstelată'?",
+    "answers": [
+      "Monet",
+      "Picasso",
+      "Van Gogh",
+      "Dali"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Care este singurul continent fără vulcani activi?",
+    "answers": [
+      "Europe",
+      "Australia",
+      "Antarctica",
+      "Africa"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Câte simfonii a compus Beethoven?",
+    "answers": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Care țară a inventat hârtia?",
+    "answers": [
+      "Japan",
+      "India",
+      "China",
+      "Egypt"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Pentru ce stă ADN?",
+    "answers": [
+      "Deoxyribose Nucleic Acid",
+      "Deoxyribonucleic Acid",
+      "Dynamic Nuclear Acid",
+      "Digital Nucleic Array"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Ce tip de sânge este donator universal?",
+    "answers": [
+      "A+",
+      "B+",
+      "AB+",
+      "O-"
+    ],
+    "correct": 3,
+    "difficulty": 4
+  },
+  {
+    "question": "În ce an a căzut Zidul Berlinului?",
+    "answers": [
+      "1987",
+      "1988",
+      "1989",
+      "1990"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Care este cel mai mare os din corpul uman?",
+    "answers": [
+      "Tibia",
+      "Femur",
+      "Humerus",
+      "Pelvis"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Care element are cel mai înalt punct de topire?",
+    "answers": [
+      "Iron",
+      "Tungsten",
+      "Titanium",
+      "Platinum"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Care este al doilea element cel mai abundent din atmosfera Pământului?",
+    "answers": [
+      "Carbon Dioxide",
+      "Oxygen",
+      "Argon",
+      "Water Vapor"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Cine a scris '1984'?",
+    "answers": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "H.G. Wells"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Care este al 7-lea număr din secvența Fibonacci?",
+    "answers": [
+      "8",
+      "13",
+      "21",
+      "34"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Care țară a dăruit Statuia Libertății SUA?",
+    "answers": [
+      "England",
+      "Spain",
+      "France",
+      "Italy"
+    ],
+    "correct": 2,
+    "difficulty": 5
+  },
+  {
+    "question": "Care este cea mai rară grupă de sânge?",
+    "answers": [
+      "O-",
+      "A-",
+      "B-",
+      "AB-"
+    ],
+    "correct": 3,
+    "difficulty": 5
+  },
+  {
+    "question": "Cine a dezvoltat teoria relativității?",
+    "answers": [
+      "Newton",
+      "Einstein",
+      "Hawking",
+      "Bohr"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Care este cel mai adânc punct din ocean?",
+    "answers": [
+      "Tonga Trench",
+      "Puerto Rico Trench",
+      "Mariana Trench",
+      "Java Trench"
+    ],
+    "correct": 2,
+    "difficulty": 5
+  },
+  {
+    "question": "Care element este cel mai abundent în crusta Pământului?",
+    "answers": [
+      "Silicon",
+      "Oxygen",
+      "Iron",
+      "Aluminum"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Câți biți sunt într-un octet?",
+    "answers": [
+      "4",
+      "8",
+      "16",
+      "32"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Care este singura mamă care poate zbura cu adevărat?",
+    "answers": [
+      "Flying Squirrel",
+      "Sugar Glider",
+      "Bat",
+      "Colugo"
+    ],
+    "correct": 2,
+    "difficulty": 5
+  },
+  {
+    "question": "Care este perioada de înjumătățire a Carbon-14?",
+    "answers": [
+      "2,730 years",
+      "5,730 years",
+      "8,730 years",
+      "11,730 years"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Cine a scris 'Arta Războiului'?",
+    "answers": [
+      "Confucius",
+      "Sun Tzu",
+      "Lao Tzu",
+      "Genghis Khan"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Care este cel mai mic număr prim?",
+    "answers": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 2,
+    "difficulty": 5
+  },
+  {
+    "question": "Care țară are cea mai lungă linie de coastă?",
+    "answers": [
+      "Russia",
+      "Australia",
+      "Canada",
+      "Indonesia"
+    ],
+    "correct": 2,
+    "difficulty": 5
+  },
+  {
+    "question": "Care este simbolul chimic pentru wolfram?",
+    "answers": [
+      "Tu",
+      "Tn",
+      "W",
+      "Wg"
+    ],
+    "correct": 2,
+    "difficulty": 5
+  },
+  {
+    "question": "În ce an a fost inventat World Wide Web?",
+    "answers": [
+      "1985",
+      "1989",
+      "1993",
+      "1995"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Care este constanta lui Planck aproximativ?",
+    "answers": [
+      "6.626 × 10⁻³⁴ J·s",
+      "3.14 × 10⁻³⁴ J·s",
+      "9.81 × 10⁻³⁴ J·s",
+      "1.602 × 10⁻³⁴ J·s"
+    ],
+    "correct": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "Ce algoritm se folosește pentru criptografia cheie publică?",
+    "answers": [
+      "AES",
+      "RSA",
+      "SHA-256",
+      "MD5"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Care este elementul cel mai ușor din tabelul periodic?",
+    "answers": [
+      "Helium",
+      "Hydrogen",
+      "Lithium",
+      "Carbon"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Care minune antică era în Alexandria?",
+    "answers": [
+      "Colossus",
+      "Lighthouse",
+      "Hanging Gardens",
+      "Mausoleum"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Care este zero absolut în Celsius?",
+    "answers": [
+      "-173.15°C",
+      "-273.15°C",
+      "-373.15°C",
+      "-473.15°C"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Cine a propus modelul heliocentric al sistemului solar?",
+    "answers": [
+      "Galileo",
+      "Copernicus",
+      "Kepler",
+      "Ptolemy"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  }
+]
