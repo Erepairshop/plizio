@@ -1693,13 +1693,33 @@ const G3: Record<string, Generator> = {
     () => { const total = randInt(300, 900), rest = randInt(100, total - 50); return q(qMissingInEquation(`? - ${rest} = ${total - rest}`, cc), total, t("missingNumber", cc)); },
   ])(),
   // ─── G3: angle / rechter Winkel questions ────────────────────────────────
-  rechterWinkel: (cc) => pick([
-    () => q(qRightAngleDeg(cc), 90, t("geometry", cc)),
-    () => q(qRightAnglesInShape("rectangle", cc), 4, t("geometry", cc)),
-    () => q(qRightAnglesInShape("square", cc), 4, t("geometry", cc)),
-    () => { const a = pick([30, 45, 60, 80]); return q(qAngleType(a, cc), 1, t("geometry", cc)); },
-    () => { const a = pick([100, 120, 135]); return q(qAngleType(a, cc), 3, t("geometry", cc)); },
-  ])(),
+  rechterWinkel: (cc) => {
+    const lang = getLang(cc);
+    const names: Record<string, { acute: string; right: string; obtuse: string }> = {
+      DE: { acute: 'spitz', right: 'recht', obtuse: 'stumpf' },
+      EN: { acute: 'acute', right: 'right', obtuse: 'obtuse' },
+      HU: { acute: 'hegyesszög', right: 'derékszög', obtuse: 'tompaszög' },
+      RO: { acute: 'ascuțit', right: 'drept', obtuse: 'obtuz' },
+    };
+    const n = names[lang] || names.DE;
+    const qAngle = (a: number, type: 'acute' | 'right' | 'obtuse') => {
+      const texts: Record<string, string> = {
+        DE: `Ein Winkel beträgt ${a}°. Was für ein Winkel ist das?`,
+        EN: `An angle is ${a}°. What type of angle is it?`,
+        HU: `Egy szög ${a}°. Milyen szög?`,
+        RO: `Un unghi este ${a}°. Ce tip de unghi este?`,
+      };
+      return qstr(texts[lang] || texts.DE, n[type], t("geometry", cc), [n.acute, n.right, n.obtuse]);
+    };
+    return pick([
+      () => q(qRightAngleDeg(cc), 90, t("geometry", cc)),
+      () => q(qRightAnglesInShape("rectangle", cc), 4, t("geometry", cc)),
+      () => q(qRightAnglesInShape("square", cc), 4, t("geometry", cc)),
+      () => { const a = pick([30, 45, 60, 80]); return qAngle(a, 'acute'); },
+      () => { const a = pick([100, 120, 135]); return qAngle(a, 'obtuse'); },
+      () => qAngle(90, 'right'),
+    ])();
+  },
   // ─── G3: pure division word problems ─────────────────────────────────────
   wordDiv: (cc) => {
     const it = getItems(cc), ns = getNames(cc);
@@ -4528,7 +4548,7 @@ const EN_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g3_length_t',    name: 'Length (mm, cm, m, km)',          color: '#67E8F9', icon: '📏', generators: [G3.units] },
       { key: 'g3_weight_t',    name: 'Weight (g, kg)',                  color: '#22D3EE', icon: '⚖️', generators: [G3.units] },
       { key: 'g3_time_t',      name: 'Time (hours, minutes)',           color: '#06B6D4', icon: '🕐', generators: [G3.clock3, G3.units] },
-      { key: 'g3_money_t',     name: 'Money (euro, cents)',             color: '#0891B2', icon: '💰', generators: [G3.word1] },
+      { key: 'g3_money_t',     name: 'Money (euro, cents)',             color: '#0891B2', icon: '💰', generators: [G3.moneyWord3, G3.word2] },
       { key: 'g3_laenge',     name: '🎮 Measure with Ruler',            color: '#0EA5E9', icon: '📏', generators: [] },
       { key: 'g3_strecken',   name: '🎮 Draw a Line Segment',           color: '#38BDF8', icon: '✏️', generators: [] },
       { key: 'g3_zeit',       name: '🎮 Read the Clock',                color: '#7DD3FC', icon: '🕐', generators: [] },
@@ -5737,7 +5757,7 @@ const HU_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g3_length_t',    name: 'Hossz (mm, cm, m, km)',                color: '#67E8F9', icon: '📏', generators: [G3.units] },
       { key: 'g3_weight_t',    name: 'Súly (g, kg)',                         color: '#22D3EE', icon: '⚖️', generators: [G3.units] },
       { key: 'g3_time_t',      name: 'Idő (óra, perc)',                      color: '#06B6D4', icon: '🕐', generators: [G3.clock3, G3.units] },
-      { key: 'g3_money_t',     name: 'Pénz (euró, cent)',                    color: '#0891B2', icon: '💰', generators: [G3.word1] },
+      { key: 'g3_money_t',     name: 'Pénz (euró, cent)',                    color: '#0891B2', icon: '💰', generators: [G3.moneyWord3, G3.word2] },
       { key: 'g3_laenge',     name: '🎮 Mérés vonalzóval',                   color: '#0EA5E9', icon: '📏', generators: [] },
       { key: 'g3_strecken',   name: '🎮 Szakasz rajzolása',                  color: '#38BDF8', icon: '✏️', generators: [] },
       { key: 'g3_zeit',       name: '🎮 Óra leolvasása',                     color: '#7DD3FC', icon: '🕐', generators: [] },
@@ -6305,7 +6325,7 @@ const RO_THEMES: Record<number, ENThemeDef[]> = {
       { key: 'g3_length_t',    name: 'Lungime (mm, cm, m, km)',              color: '#67E8F9', icon: '📏', generators: [G3.units] },
       { key: 'g3_weight_t',    name: 'Greutate (g, kg)',                     color: '#22D3EE', icon: '⚖️', generators: [G3.units] },
       { key: 'g3_time_t',      name: 'Timp (ore, minute)',                   color: '#06B6D4', icon: '🕐', generators: [G3.clock3, G3.units] },
-      { key: 'g3_money_t',     name: 'Bani (euro, cenți)',                   color: '#0891B2', icon: '💰', generators: [G3.word1] },
+      { key: 'g3_money_t',     name: 'Bani (euro, cenți)',                   color: '#0891B2', icon: '💰', generators: [G3.moneyWord3, G3.word2] },
       { key: 'g3_laenge',     name: '🎮 Măsurare cu rigla',                  color: '#0EA5E9', icon: '📏', generators: [] },
       { key: 'g3_strecken',   name: '🎮 Desenează un segment',               color: '#38BDF8', icon: '✏️', generators: [] },
       { key: 'g3_zeit',       name: '🎮 Citește ceasul',                     color: '#7DD3FC', icon: '🕐', generators: [] },
@@ -6948,14 +6968,14 @@ export function generateKlassenarbeit(grade: number, period?: number, countryCod
           name: "Geometry",
           questionCount: 2,
           pointsPerQuestion: 2,
-          // Real geometry: perimeter, area, shape properties
-          generators: [G3.perimCalc, G3.areaCalc, G3.shapeProp],
+          // Perimeter, area, shape properties + angle types
+          generators: [G3.perimCalc, G3.areaCalc, G3.shapeProp, G3.rechterWinkel],
         },
         bonus: {
           name: "Bonus",
           questionCount: 1,
           pointsPerQuestion: 1,
-          generators: [G3.sequence, G3.missingMul, G3.rounding100],
+          generators: [G3.sequence, G3.missingMul, G3.missingAddSub, G3.rounding100],
         },
       };
       break;
