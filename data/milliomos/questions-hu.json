@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "Milyen szín az ég tiszta időben?",
+    "answers": [
+      "Blue",
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "correct": 0,
+    "difficulty": 1
+  },
+  {
+    "question": "Hány lába van egy póknak?",
+    "answers": [
+      "6",
+      "8",
+      "10",
+      "4"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Melyik bolygót ismerik a Vörös Bolygóként?",
+    "answers": [
+      "Venus",
+      "Jupiter",
+      "Mars",
+      "Saturn"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Mi a fővárosa Franciaország?",
+    "answers": [
+      "London",
+      "Berlin",
+      "Madrid",
+      "Paris"
+    ],
+    "correct": 3,
+    "difficulty": 1
+  },
+  {
+    "question": "Hány kontinens van?",
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Melyik az a legmagasabb állat a világon?",
+    "answers": [
+      "Elephant",
+      "Giraffe",
+      "Horse",
+      "Camel"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Mit ismerik a H2O-t általában?",
+    "answers": [
+      "Salt",
+      "Sugar",
+      "Water",
+      "Oil"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Melyik gyümölcs ismert arról, hogy távol tartja az orvosokat?",
+    "answers": [
+      "Banana",
+      "Orange",
+      "Grape",
+      "Apple"
+    ],
+    "correct": 3,
+    "difficulty": 1
+  },
+  {
+    "question": "Melyik a legnagyobb állat a Földön?",
+    "answers": [
+      "Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Shark"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Hány nap van egy héten?",
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Mit termelnek a méhek?",
+    "answers": [
+      "Milk",
+      "Honey",
+      "Sugar",
+      "Wax"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Melyik alaknak van három oldala?",
+    "answers": [
+      "Square",
+      "Circle",
+      "Triangle",
+      "Pentagon"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Mi a víz fagyott formája?",
+    "answers": [
+      "Steam",
+      "Fog",
+      "Ice",
+      "Rain"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Melyik szerv pumpálja a vért a testben?",
+    "answers": [
+      "Brain",
+      "Lungs",
+      "Heart",
+      "Liver"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Hány hónap van egy évben?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Mi a forró ellentéte?",
+    "answers": [
+      "Warm",
+      "Cool",
+      "Cold",
+      "Mild"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Melyik állat mondja a 'muuu'-t?",
+    "answers": [
+      "Pig",
+      "Cow",
+      "Sheep",
+      "Dog"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Milyen szín keletkezik a piros és fehér keverésével?",
+    "answers": [
+      "Orange",
+      "Purple",
+      "Pink",
+      "Brown"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Melyik a legközelebbi csillag a Földhöz?",
+    "answers": [
+      "Moon",
+      "Sun",
+      "Mars",
+      "Polaris"
+    ],
+    "correct": 1,
+    "difficulty": 1
+  },
+  {
+    "question": "Hány betű van az angol ábécében?",
+    "answers": [
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "correct": 2,
+    "difficulty": 1
+  },
+  {
+    "question": "Melyik a legnagyobb óceán a Földön?",
+    "answers": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Ki festette a Mona Lisát?",
+    "answers": [
+      "Picasso",
+      "Da Vinci",
+      "Van Gogh",
+      "Michelangelo"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Mi a legkeményebb természetes anyag?",
+    "answers": [
+      "Gold",
+      "Iron",
+      "Diamond",
+      "Platinum"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Melyik ország a legtöbb emberrel?",
+    "answers": [
+      "USA",
+      "India",
+      "Russia",
+      "Brazil"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Milyen gázt szívnak fel a növények a légkörből?",
+    "answers": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Hány csont van egy felnőtt emberi testben?",
+    "answers": [
+      "186",
+      "206",
+      "226",
+      "256"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Melyik évben süllyedt el a Titanic?",
+    "answers": [
+      "1905",
+      "1912",
+      "1920",
+      "1898"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Melyik elem kémiai szimbóluma az 'Au'?",
+    "answers": [
+      "Silver",
+      "Gold",
+      "Aluminum",
+      "Argon"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Melyik a legnagyobb kontinens?",
+    "answers": [
+      "Africa",
+      "Europe",
+      "Asia",
+      "North America"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Hány játékos van egy focicsapatban?",
+    "answers": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Mi a víz forráspontja Celsius-fokban?",
+    "answers": [
+      "90°C",
+      "100°C",
+      "110°C",
+      "120°C"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Melyik ország híres a piramisokról?",
+    "answers": [
+      "Greece",
+      "Egypt",
+      "Mexico",
+      "India"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Melyik a fő nyelv, amelyet Brazíliában beszélnek?",
+    "answers": [
+      "Spanish",
+      "Portuguese",
+      "French",
+      "English"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Ki találta fel a telefont?",
+    "answers": [
+      "Edison",
+      "Bell",
+      "Tesla",
+      "Morse"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Melyik gáz teszi ki a Föld légkörének nagy részét?",
+    "answers": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Helium"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Mi Japán főváros?",
+    "answers": [
+      "Beijing",
+      "Seoul",
+      "Tokyo",
+      "Osaka"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Hány foga van normálisan egy felnőtt embernek?",
+    "answers": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Mi az Egyesült Királyság valutája?",
+    "answers": [
+      "Euro",
+      "Dollar",
+      "Pound",
+      "Franc"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Melyik bolygó van legközelebb a Naphoz?",
+    "answers": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Earth"
+    ],
+    "correct": 1,
+    "difficulty": 2
+  },
+  {
+    "question": "Melyik a legnagyobb sivatag a világon?",
+    "answers": [
+      "Sahara",
+      "Gobi",
+      "Antarctic",
+      "Arabian"
+    ],
+    "correct": 2,
+    "difficulty": 2
+  },
+  {
+    "question": "Mekkora a fény sebessége körülbelül?",
+    "answers": [
+      "300,000 km/s",
+      "150,000 km/s",
+      "500,000 km/s",
+      "100,000 km/s"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Melyik bolygónak van a legtöbb holdja?",
+    "answers": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Melyik a legkisebb ország a világon?",
+    "answers": [
+      "Monaco",
+      "Vatican City",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Ki írta a 'Rómeó és Júlia'-t?",
+    "answers": [
+      "Dickens",
+      "Shakespeare",
+      "Hemingway",
+      "Twain"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Melyik a leghosszabb folyó a világon?",
+    "answers": [
+      "Amazon",
+      "Nile",
+      "Mississippi",
+      "Yangtze"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Melyik évben ért véget a második világháború?",
+    "answers": [
+      "1943",
+      "1944",
+      "1945",
+      "1946"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Mi az étisó kémiai képlete?",
+    "answers": [
+      "NaOH",
+      "NaCl",
+      "KCl",
+      "CaCl2"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Melyik szerv termel inzulint az emberi testben?",
+    "answers": [
+      "Liver",
+      "Kidney",
+      "Pancreas",
+      "Stomach"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Melyik a legmagasabb hegy a világon?",
+    "answers": [
+      "K2",
+      "Kangchenjunga",
+      "Mount Everest",
+      "Lhotse"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Ki volt az első ember, aki a Holdon járt?",
+    "answers": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Yuri Gagarin",
+      "John Glenn"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Melyik a legnagyobb szerv az emberi testben?",
+    "answers": [
+      "Liver",
+      "Brain",
+      "Skin",
+      "Heart"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Melyik fém folyékony szobahőmérsékleten?",
+    "answers": [
+      "Lead",
+      "Tin",
+      "Mercury",
+      "Zinc"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Hány kromoszómája van az embernek?",
+    "answers": [
+      "23",
+      "44",
+      "46",
+      "48"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Mi Japán valutája?",
+    "answers": [
+      "Won",
+      "Yuan",
+      "Yen",
+      "Ringgit"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Melyik vitamint segít termelni a Nap?",
+    "answers": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct": 3,
+    "difficulty": 3
+  },
+  {
+    "question": "Melyik a legtöbben beszélt nyelv a világon?",
+    "answers": [
+      "English",
+      "Spanish",
+      "Mandarin",
+      "Hindi"
+    ],
+    "correct": 0,
+    "difficulty": 3
+  },
+  {
+    "question": "Mi a tiszta víz pH-ja?",
+    "answers": [
+      "5",
+      "7",
+      "9",
+      "10"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Melyik városban található a Colosseum?",
+    "answers": [
+      "Athens",
+      "Rome",
+      "Istanbul",
+      "Madrid"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Hány szíve van egy polipnak?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 2,
+    "difficulty": 3
+  },
+  {
+    "question": "Melyik a legforróbb bolygó a naprendszerünkben?",
+    "answers": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "correct": 1,
+    "difficulty": 3
+  },
+  {
+    "question": "Mennyi a 144 négyzetgyöke?",
+    "answers": [
+      "10",
+      "11",
+      "12",
+      "14"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Melyik nyelvnek van a legtöbb anyanyelvi beszélője?",
+    "answers": [
+      "English",
+      "Spanish",
+      "Mandarin",
+      "Hindi"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Mi a sejt energiaellátó egysége?",
+    "answers": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Golgi Body"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Ki fedezte fel a penicillint?",
+    "answers": [
+      "Pasteur",
+      "Fleming",
+      "Curie",
+      "Jenner"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Mi Ausztrália főváros?",
+    "answers": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Brisbane"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Melyik bolygó forog az oldalán?",
+    "answers": [
+      "Venus",
+      "Neptune",
+      "Uranus",
+      "Mercury"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Mi az üveg fő összetevője?",
+    "answers": [
+      "Calcium",
+      "Sand (Silica)",
+      "Clay",
+      "Limestone"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Melyik évben jelent meg az első iPhone?",
+    "answers": [
+      "2005",
+      "2006",
+      "2007",
+      "2008"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Mekkora a szén rendszáma?",
+    "answers": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Ki festette 'Az éjszakai csillagokat'?",
+    "answers": [
+      "Monet",
+      "Picasso",
+      "Van Gogh",
+      "Dali"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Melyik az egyetlen kontinens, ahol nincs aktív vulkán?",
+    "answers": [
+      "Europe",
+      "Australia",
+      "Antarctica",
+      "Africa"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Hány szimfóniát komponált Beethoven?",
+    "answers": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Melyik ország találta fel a papírt?",
+    "answers": [
+      "Japan",
+      "India",
+      "China",
+      "Egypt"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Mit jelent a DNS?",
+    "answers": [
+      "Deoxyribose Nucleic Acid",
+      "Deoxyribonucleic Acid",
+      "Dynamic Nuclear Acid",
+      "Digital Nucleic Array"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Melyik vércsoport az univerzális donor?",
+    "answers": [
+      "A+",
+      "B+",
+      "AB+",
+      "O-"
+    ],
+    "correct": 3,
+    "difficulty": 4
+  },
+  {
+    "question": "Melyik évben dőlt le a Berlini fal?",
+    "answers": [
+      "1987",
+      "1988",
+      "1989",
+      "1990"
+    ],
+    "correct": 2,
+    "difficulty": 4
+  },
+  {
+    "question": "Melyik a legnagyobb csont az emberi testben?",
+    "answers": [
+      "Tibia",
+      "Femur",
+      "Humerus",
+      "Pelvis"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Melyik elemnek van a legmagasabb olvadáspontja?",
+    "answers": [
+      "Iron",
+      "Tungsten",
+      "Titanium",
+      "Platinum"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Melyik a második legbőségesebb elem a Föld légkörében?",
+    "answers": [
+      "Carbon Dioxide",
+      "Oxygen",
+      "Argon",
+      "Water Vapor"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Ki írta az '1984'-et?",
+    "answers": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "H.G. Wells"
+    ],
+    "correct": 1,
+    "difficulty": 4
+  },
+  {
+    "question": "Mi a Fibonacci-sorozat 7. száma?",
+    "answers": [
+      "8",
+      "13",
+      "21",
+      "34"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Melyik ország ajándékozta a Szabadság Szobrát az USA-nak?",
+    "answers": [
+      "England",
+      "Spain",
+      "France",
+      "Italy"
+    ],
+    "correct": 2,
+    "difficulty": 5
+  },
+  {
+    "question": "Melyik a legritkább vércsoport?",
+    "answers": [
+      "O-",
+      "A-",
+      "B-",
+      "AB-"
+    ],
+    "correct": 3,
+    "difficulty": 5
+  },
+  {
+    "question": "Ki dolgozta ki a relativitáselmélet?",
+    "answers": [
+      "Newton",
+      "Einstein",
+      "Hawking",
+      "Bohr"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Melyik a legméllyebb pont az óceánban?",
+    "answers": [
+      "Tonga Trench",
+      "Puerto Rico Trench",
+      "Mariana Trench",
+      "Java Trench"
+    ],
+    "correct": 2,
+    "difficulty": 5
+  },
+  {
+    "question": "Melyik elem a legbőségesebb a Föld kérgében?",
+    "answers": [
+      "Silicon",
+      "Oxygen",
+      "Iron",
+      "Aluminum"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Hány bit van egy bájtban?",
+    "answers": [
+      "4",
+      "8",
+      "16",
+      "32"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Melyik az egyetlen emlős, amely valóban repülni tud?",
+    "answers": [
+      "Flying Squirrel",
+      "Sugar Glider",
+      "Bat",
+      "Colugo"
+    ],
+    "correct": 2,
+    "difficulty": 5
+  },
+  {
+    "question": "Mi a szén-14 felezési ideje?",
+    "answers": [
+      "2,730 years",
+      "5,730 years",
+      "8,730 years",
+      "11,730 years"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Ki írta a 'Háborúmesterséget'?",
+    "answers": [
+      "Confucius",
+      "Sun Tzu",
+      "Lao Tzu",
+      "Genghis Khan"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Melyik a legkisebb prímszám?",
+    "answers": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 2,
+    "difficulty": 5
+  },
+  {
+    "question": "Melyik ország rendelkezik a leghosszabb partvonallal?",
+    "answers": [
+      "Russia",
+      "Australia",
+      "Canada",
+      "Indonesia"
+    ],
+    "correct": 2,
+    "difficulty": 5
+  },
+  {
+    "question": "Mi a wolfram kémiai szimbóluma?",
+    "answers": [
+      "Tu",
+      "Tn",
+      "W",
+      "Wg"
+    ],
+    "correct": 2,
+    "difficulty": 5
+  },
+  {
+    "question": "Melyik évben találták fel a World Wide Web-et?",
+    "answers": [
+      "1985",
+      "1989",
+      "1993",
+      "1995"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Mekkora a Planck-állandó körülbelül?",
+    "answers": [
+      "6.626 × 10⁻³⁴ J·s",
+      "3.14 × 10⁻³⁴ J·s",
+      "9.81 × 10⁻³⁴ J·s",
+      "1.602 × 10⁻³⁴ J·s"
+    ],
+    "correct": 0,
+    "difficulty": 5
+  },
+  {
+    "question": "Melyik algoritmust használják a nyílt kulcsú kriptográfiához?",
+    "answers": [
+      "AES",
+      "RSA",
+      "SHA-256",
+      "MD5"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Melyik a legkönnyebb elem a periódusos rendszeren?",
+    "answers": [
+      "Helium",
+      "Hydrogen",
+      "Lithium",
+      "Carbon"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Melyik ókori csoda volt Alexandriában?",
+    "answers": [
+      "Colossus",
+      "Lighthouse",
+      "Hanging Gardens",
+      "Mausoleum"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Mi az abszolút nulla Celsius-fokban?",
+    "answers": [
+      "-173.15°C",
+      "-273.15°C",
+      "-373.15°C",
+      "-473.15°C"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  },
+  {
+    "question": "Ki javasolta a naprendszer heliocentrikus modelljét?",
+    "answers": [
+      "Galileo",
+      "Copernicus",
+      "Kepler",
+      "Ptolemy"
+    ],
+    "correct": 1,
+    "difficulty": 5
+  }
+]
