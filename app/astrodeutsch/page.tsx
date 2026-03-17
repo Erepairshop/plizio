@@ -12,6 +12,7 @@ import { loadK4Progress } from "@/lib/astroDeutsch4";
 import { loadK5Progress } from "@/lib/astroDeutsch5";
 import { loadK6Progress } from "@/lib/astroDeutsch6";
 import { loadK7Progress } from "@/lib/astroDeutsch7";
+import { loadK8Progress } from "@/lib/astroDeutsch8";
 
 const STAR_DATA = Array.from({ length: 80 }, (_, i) => ({
   id: i, x: (i * 37 + 13) % 100, y: (i * 53 + 7) % 100,
@@ -102,11 +103,21 @@ const GRADE_CLASSES = [
     border: "rgba(180,77,255,0.5)",
     glow: "rgba(180,77,255,0.35)",
   },
+  {
+    grade: 8, route: "/astrodeutsch/8",
+    planetName: { en: "Cosmara", hu: "Cosmara", de: "Cosmara", ro: "Cosmara" },
+    label: { en: "Class 8", hu: "8. osztály", de: "Klasse 8", ro: "Clasa 8" },
+    subtitle: { en: "Konjunktiv & Literature", hu: "Konjunktív & Irodalom", de: "Konjunktiv & Literatur", ro: "Conjunctiv & Literatură" },
+    color: "#E879F9",
+    bg: "radial-gradient(ellipse at 50% 30%, rgba(232,121,249,0.25) 0%, rgba(232,121,249,0.05) 60%)",
+    border: "rgba(232,121,249,0.5)",
+    glow: "rgba(232,121,249,0.35)",
+  },
 ];
 
 const HUB_LABELS: Record<string, Record<string, string>> = {
   title: { en: "AstroDeutsch", hu: "AstroDeutsch", de: "AstroDeutsch", ro: "AstroDeutsch" },
-  subtitle: { en: "German Galaxy · Classes 1–7", hu: "Német Galaxis · 1–7. osztály", de: "Deutsch-Galaxie · Klasse 1–7", ro: "Galaxia germană · Clasele 1–7" },
+  subtitle: { en: "German Galaxy · Classes 1–8", hu: "Német Galaxis · 1–8. osztály", de: "Deutsch-Galaxie · Klasse 1–8", ro: "Galaxia germană · Clasele 1–8" },
   choosePlanet: { en: "Choose your planet!", hu: "Válaszd ki a bolygódat!", de: "Wähle deinen Planeten!", ro: "Alege-ți planeta!" },
   islands: { en: "islands", hu: "sziget", de: "Inseln", ro: "insule" },
   missions: { en: "missions", hu: "misszió", de: "Missionen", ro: "misiuni" },
@@ -116,7 +127,7 @@ export default function AstroDeutschHubPage() {
   const { lang } = useLang();
   const router = useRouter();
 
-  const [progress, setProgress] = useState<number[]>([0, 0, 0, 0, 0, 0, 0]);
+  const [progress, setProgress] = useState<number[]>([0, 0, 0, 0, 0, 0, 0, 0]);
 
   useEffect(() => {
     const p1 = loadK1Progress();
@@ -126,6 +137,7 @@ export default function AstroDeutschHubPage() {
     const p5 = loadK5Progress();
     const p6 = loadK6Progress();
     const p7 = loadK7Progress();
+    const p8 = loadK8Progress();
     setProgress([
       p1.completedIslands.length,
       p2.completedIslands.length,
@@ -134,6 +146,7 @@ export default function AstroDeutschHubPage() {
       p5.completedIslands.length,
       p6.completedIslands.length,
       p7.completedIslands.length,
+      p8.completedIslands.length,
     ]);
   }, []);
 

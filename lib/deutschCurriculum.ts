@@ -14963,7 +14963,7 @@ const K8: DeutschTheme[] = [
 
 export const DEUTSCH_CURRICULUM: Record<number, DeutschTheme[]> = {
   1: K1, 2: K2, 3: K3, 4: K4,
-  5: [...K5, ...K5_EXTRA], 6: K6, 7: K7, 8: K8,
+  5: [...K5, ...K5_EXTRA], 6: K6, 7: K7, 8: [...K8, ...K8_KONJUNKTIV],
 };
 
 /** Liefert alle Fragen der gewählten Subtopics (zufällig, max. count). */
