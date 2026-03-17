@@ -2230,3 +2230,4536 @@ const K6_KOMPARATIV_SUPERLATIV=[{type:"mcq",topic:"grammatik_k6",subtopic:"kompa
 const K5_EINKAUFEN=[{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ein ___ ist ein Oberstoff für den Körper.",options:["Hemd","Schuh","Hut"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ein ___ ist ein Kleidungsstück für Frauen.",options:["Kleid","Mantel","Hose"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ein ___ schützt den Fuß.",options:["Schuh","Hemd","Jacke"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Eine ___ trägt man über die Schultern im Winter.",options:["Jacke","Socke","Gürtel"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ein ___ ist ein Accessoire für den Hals.",options:["Schal","Hemd","Strumpf"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ein ___ ist ein Kleidungsstück für die Beine.",options:["Hose","Hemd","Mütze"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ein ___ ist ein Schuh für den Winter.",options:["Stiefel","Socke","Gürtel"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Eine ___ trägt man im Sommer als Überkleid.",options:["Bluse","Mütze","Socke"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ein ___ ist ein Kopfbedeckung.",options:["Mütze","Socke","Gürtel"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Eine ___ hält die Hose oben.",options:["Gürtel","Socke","Mütze"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ein Apfel kostet einen ___.",options:["Euro","Schuh","Kleid"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Die ___ ist eine kleine Münze.",options:["Münze","Euro","Groschen"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ich zahle mit einer ___.",options:["Kreditkarte","Schuh","Apfel"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Der ___ ist der Preis eines Produkts.",options:["Preis","Euro","Rabatt"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ein ___ gibt mir Geld zurück.",options:["Kassierer","Kunde","Verkäufer"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Der ___ ist eine Geldsumme, die zurückkommt.",options:["Wechselgeld","Preis","Rabatt"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ein ___ ist eine Geldsumme für ein Produkt.",options:["Rechnung","Wechselgeld","Rabatt"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Der ___ ist ein Nachteil beim Kaufen.",options:["Rabatt","Preis","Wechselgeld"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Eine ___ zeigt den Preis.",options:["Rechnung","Kassierer","Kunde"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ein ___ betätigt die Kasse.",options:["Kassierer","Kunde","Preis"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ich kaufe Obst im ___.",options:["Supermarkt","Spielzeug","Apfel"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Der ___ ist eine breite Fläche zum Berührung des Produkts.",options:["Regal","Abteilung","Korb"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ein ___ ist ein Behälter zum Einkaufen.",options:["Korb","Regal","Kasse"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Die ___ ist die Stelle zum Bezahlen.",options:["Kasse","Regal","Abteilung"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ein ___ ist ein Behälter mit Rädern zum Einkaufen.",options:["Wagen","Korb","Regal"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Eine ___ ist ein Bereich für bestimmte Produkte.",options:["Abteilung","Kasse","Regal"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Der ___ arbeitet im Supermarkt und hilft Kunden.",options:["Verkäufer","Kassierer","Kunde"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ein ___ kauft Produkte im Supermarkt.",options:["Kunde","Verkäufer","Kassierer"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Die ___ zeigt die Öffnungszeiten des Supermarkts.",options:["Uhr","Regal","Kasse"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ein ___ ist eine Fläche, wo Produkte liegen.",options:["Tisch","Regal","Abteilung"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ein ___ ist ein Obst.",options:["Apfel","Brot","Milch"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ein ___ ist ein Gemüse.",options:["Möhre","Apfel","Banane"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Das ___ wird aus Getreide gemacht.",options:["Brot","Apfel","Käse"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Die ___ ist weiß und kommt von der Kuh.",options:["Milch","Brot","Käse"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Der ___ ist ein Produkt aus Milch.",options:["Käse","Brot","Butter"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ein ___ ist ein Fisch.",options:["Forelle","Apfel","Möhre"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Der ___ ist Fleisch vom Schwein.",options:["Schinken","Huhn","Rind"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Das ___ ist Fleisch vom Rind.",options:["Rindersteak","Schinken","Huhn"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ein ___ ist ein Gemüse mit Blättern.",options:["Salat","Apfel","Brot"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Die ___ ist ein Obst mit gelber Farbe.",options:["Banane","Apfel","Möhre"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ich möchte ein Kilogramm ___ bitte.",options:["Äpfel","Schuh","Brot"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Haben Sie ___ im Angebot?",options:["Milch","Auto","Haus"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Wo finde ich ___?",options:["Brot","Wasser","Messer"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Wieviel kostet ___?",options:["dieser Apfel","dieses Haus","dieser Fernseher"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Haben Sie das in einer anderen ___?",options:["Größe","Farbe","Größe"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Kann ich das ___ bezahlen?",options:["mit Karte","sehen","tragen"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Gibt es einen ___?",options:["Rabatt","Preis","Kurs"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Kann ich das ___ zurückgeben?",options:["morgen","später","nicht"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Haben Sie das auch in ___?",options:["blau","groß","alt"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Das ist zu ___. Haben Sie etwas Billiger?",options:["teuer","gut","klein"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Die ___ ist XL.",options:["Größe","Farbe","Länge"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Die ___ ist rot.",options:["Farbe","Größe","Material"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Dieses Hemd ist ___. Es passt mir nicht.",options:["zu klein","zu dunkel","zu modern"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ich suche eine ___ in Blau.",options:["Jacke","Größe","Preis"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Das Kleid ist ___. Das gefällt mir besser.",options:["größer","schöner","billiger"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Welche ___ hast du?",options:["Größe","Farbe","Marke"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ich nehme das in ___.",options:["Schwarz","Klein","Neu"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Das ___ ist aus Baumwolle.",options:["Material","Preis","Größe"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ich mag ___ Farben besser.",options:["warme","kühle","helle"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Haben Sie das auch in ___?",options:["Braun","Groß","Teuer"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Dies Hemd hat einen ___. Kann ich es zurückgeben?",options:["Defekt","Preis","Größe"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Das Kleid passt nicht. Ich möchte es ___.",options:["zurückgeben","kaufen","versuchen"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ich bin nicht zufrieden damit. Kann ich mein ___ zurückbekommen?",options:["Geld","Kleid","Schein"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Dies Schuh ist kaputt. Haben Sie einen ___?",options:["Austausch","Preis","Kassierer"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Der ___ ist nicht vollständig.",options:["Einkauf","Wagen","Regal"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ich möchte einen ___. Dieser ist nicht in Ordnung.",options:["Austausch","Kauf","Rabatt"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Das Bild hat einen ___. Kann ich es austauschen?",options:["Kratzer","Preis","Größe"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ich möchte mein ___ zurück.",options:["Geld","Einkauf","Regal"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Dies Material ist nicht ___. Kann ich es zurückgeben?",options:["gut","teuer","neu"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ich habe diese Rechnung verloren. Kann ich noch ___?",options:["zurückgeben","kaufen","kommen"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ich zahle mit ___.",options:["Bargeld","Auto","Telefon"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Akzeptieren Sie ___?",options:["Kreditkarten","Bäume","Häuser"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ich habe nur ___. Das ist genug?",options:["kleines Geld","große Schule","rotes Auto"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Kann ich mit ___ bezahlen?",options:["Karte","Haus","Auto"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ich zahle ___.",options:["mit Scheck","mit Telefon","mit Auto"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Die ___ ist eine Zahlungsform.",options:["Überweisung","Fahrkarte","Rechnung"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Können Sie mir ___?",options:["Wechselgeld geben","ein Auto geben","ein Haus geben"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Die ___ zeigt den Betrag.",options:["Rechnung","Mütze","Tasche"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Ich zahle 50 Euro mit ___.",options:["einem Schein","einer Mütze","einem Schuh"],correct:0},{type:"mcq",topic:"wortschatz_k5",subtopic:"einkaufen_k5",question:"Dies Geschäft akzeptiert nur ___.",options:["Bargeld","Träume","Gedanken"],correct:0}];
 
 // ─── KLASSE 6 ─────────────────────────────────────────────────────────────────
+
+// ============================================================================
+// K5_EXPANSION — 22 neue Subtopics für Klasse 5 (2026-03-17)
+// ============================================================================
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const K5_NEBENSAETZE_Q = [// ─── TEMPORALSAETZE_K5 (30 questions) ───
+
+  // MCQ questions
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "'Als' oder 'wenn'? ___ ich klein war, spielte ich viel Fußball.",
+    options: ["Als", "Wenn", "Nachdem", "Bevor"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "___ es regnet, nehme ich einen Regenschirm mit.",
+    options: ["Als", "Wenn", "Während", "Sobald"],
+    correct: 1
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "___ wir ankamen, war das Essen schon vorbei.",
+    options: ["Wenn", "Nachdem", "Während", "Bevor"],
+    correct: 1
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "Welches Wort passt? ___ ich meine Hausaufgaben mache, lerne ich viel.",
+    options: ["Sobald", "Während", "Nachdem", "Bevor"],
+    correct: 1
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "___ der Film zu Ende war, gingen wir nach Hause.",
+    options: ["Als", "Wenn", "Sobald", "Bevor"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "___ ich 18 Jahre alt bin, möchte ich in den Urlaub fahren.",
+    options: ["Wenn", "Nachdem", "Bevor", "Während"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "___ der Unterricht begann, setzte sich jeder hin.",
+    options: ["Bevor", "Nachdem", "Sobald", "Während"],
+    correct: 2
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "Welches Wort ist richtig? ___ ich die Haustür öffnete, sprang der Hund heraus.",
+    options: ["Wenn", "Nachdem", "Während", "Bevor"],
+    correct: 1
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "___ wir Urlaub haben, fahren wir ins Gebirge.",
+    options: ["Als", "Wenn", "Nachdem", "Sobald"],
+    correct: 1
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "___ das Spiel zu Ende ging, jubelten alle Fans.",
+    options: ["Wenn", "Während", "Nachdem", "Bevor"],
+    correct: 2
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "___ es klingelte, schreckte jeder auf.",
+    options: ["Als", "Wenn", "Nachdem", "Während"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "___ ich schlafe, träume ich oft von Abenteuern.",
+    options: ["Als", "Während", "Nachdem", "Bevor"],
+    correct: 1
+  },
+
+  // Typing questions
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "Welches Wort passt? ___ wir in die Stadt gingen, war es sehr voll.",
+    answer: ["Als"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "Ergänze: ___ es Sommer wird, fahren wir ans Meer.",
+    answer: ["Wenn"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "Ergänze: ___ wir gegessen hatten, räumten wir den Tisch ab.",
+    answer: ["Nachdem"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "Welches Wort passt? ___ wir die Schule verließen, spielten wir im Park.",
+    answer: ["Nachdem"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "Ergänze: ___ ich deine Nummer habe, rufe ich dich an.",
+    answer: ["Sobald"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "Ergänze: ___ das Konzert anfing, war es sehr laut.",
+    answer: ["Als"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "Welches Wort passt? ___ die Sonne untergeht, wird es dunkel.",
+    answer: ["Wenn"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "Ergänze: ___ wir Besuch bekommen, putzen wir das Haus.",
+    answer: ["Wenn"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "Welches Wort passt? ___ ich mich hinlegte, schlief ich sofort ein.",
+    answer: ["Nachdem"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "Ergänze: ___ wir im Kino waren, aßen wir Popcorn.",
+    answer: ["Während"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "Welches Wort passt? ___ du ankommst, warte ich schon auf dich.",
+    answer: ["Sobald"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "Ergänze: ___ die Prüfung zu Ende war, atmeten alle auf.",
+    answer: ["Nachdem"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "Welches Wort passt? ___ es Mittag wird, gehen wir essen.",
+    answer: ["Wenn"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "temporalsaetze_k5",
+    question: "Ergänze: ___ der Bus ankam, stiegen alle aus.",
+    answer: ["Als"]
+  },
+
+  // ─── KONDITIONALSAETZE_K5 (30 questions) ───
+
+  // MCQ questions
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "___ es morgen regnet, gehen wir nicht ins Schwimmbad.",
+    options: ["Falls", "Wenn", "Weil", "Obwohl"],
+    correct: 1
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "Welches Wort passt? ___ du dein Gemüse isst, bekommst du Nachtisch.",
+    options: ["Wenn", "Weil", "Obwohl", "Falls"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "___ du Zeit hast, können wir zusammen spielen.",
+    options: ["Obwohl", "Wenn", "Weil", "Bevor"],
+    correct: 1
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "___ ich krank bin, bleibe ich zu Hause.",
+    options: ["Wenn", "Obwohl", "Während", "Nachdem"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "Welches Wort ist richtig? ___ du fertig wirst, kannst du spielen.",
+    options: ["Wenn", "Weil", "Während", "Obwohl"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "___ du deine Aufgaben machst, darfst du fernsehen.",
+    options: ["Weil", "Wenn", "Obwohl", "Nachdem"],
+    correct: 1
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "___ es zu spät wird, gehen wir nach Hause.",
+    options: ["Wenn", "Weil", "Während", "Bevor"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "Welches Wort passt? ___ ich das Geld habe, kaufe ich mir ein Fahrrad.",
+    options: ["Falls", "Wenn", "Weil", "Obwohl"],
+    correct: 1
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "___ du angerufen hättest, hätte ich gewusst, wo du bist.",
+    options: ["Wenn", "Obwohl", "Weil", "Falls"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "Welches Wort ist richtig? ___ es schneit, machen wir einen Schneemann.",
+    options: ["Wenn", "Weil", "Während", "Obwohl"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "___ du pünktlich kommst, können wir rechtzeitig anfangen.",
+    options: ["Wenn", "Obwohl", "Nachdem", "Bevor"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "___ du möchtest, können wir morgen zusammen Hausaufgaben machen.",
+    options: ["Wenn", "Weil", "Während", "Obwohl"],
+    correct: 0
+  },
+
+  // Typing questions
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "Ergänze: ___ es morgen schön ist, fahren wir ans Meer.",
+    answer: ["Wenn"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "Welches Wort passt? ___ ich deinen Stift habe, gebe ich ihn dir zurück.",
+    answer: ["Wenn"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "Ergänze: ___ du Durst hast, kannst du Wasser trinken.",
+    answer: ["Wenn"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "Welches Wort passt? ___ du mir helfen könntest, wäre ich sehr dankbar.",
+    answer: ["Wenn"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "Ergänze: ___ deine Mutter anruft, sage ich ihr Bescheid.",
+    answer: ["Wenn"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "Welches Wort passt? ___ das Wetter schlecht wird, spielen wir drinnen.",
+    answer: ["Wenn"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "Ergänze: ___ du schneller läufst, kommst du früher an.",
+    answer: ["Wenn"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "Welches Wort passt? ___ wir mehr trainieren, werden wir besser.",
+    answer: ["Wenn"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "Ergänze: ___ ihr kommt, zeige ich euch mein Zimmer.",
+    answer: ["Wenn"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "Welches Wort passt? ___ es dunkel wird, machen wir Licht an.",
+    answer: ["Wenn"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "Ergänze: ___ du leise bist, darf ich dir ein Geheimnis erzählen.",
+    answer: ["Wenn"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konditionalsaetze_k5",
+    question: "Welches Wort passt? ___ ich die Antwort weiß, melde ich mich.",
+    answer: ["Wenn"]
+  },
+
+  // ─── KAUSALSAETZE_K5 (30 questions) ───
+
+  // MCQ questions
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Wir gehen nach Hause, ___ es schon spät ist.",
+    options: ["weil", "da", "obwohl", "wenn"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "___ es regnet, tragen wir einen Regenschirm.",
+    options: ["Weil", "Da", "Wenn", "Obwohl"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Warum bleibt er zu Hause? ___ er krank ist.",
+    options: ["Wenn", "Da", "Weil", "Obwohl"],
+    correct: 2
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "___ du nicht pünktlich kommst, verpassen wir den Film.",
+    options: ["Weil", "Da", "Wenn", "Obwohl"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Welches Wort ist richtig? Sie lacht, ___ die Geschichte lustig ist.",
+    options: ["weil", "da", "wenn", "obwohl"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Ich spiele draußen, ___ das Wetter schön ist.",
+    options: ["wenn", "weil", "obwohl", "da"],
+    correct: 1
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Die Schule ist heute zu, ___ es ein Feiertag ist.",
+    options: ["wenn", "obwohl", "weil", "während"],
+    correct: 2
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Warum freust du dich? ___ ich dich besuche.",
+    options: ["wenn", "obwohl", "weil", "da"],
+    correct: 2
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Welches Wort passt? Wir fahren nicht weg, ___ das Auto kaputt ist.",
+    options: ["wenn", "obwohl", "weil", "während"],
+    correct: 2
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Er isst nicht, ___ ihm der Magen weh tut.",
+    options: ["wenn", "weil", "obwohl", "während"],
+    correct: 1
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "___ wir satt sind, gehen wir spazieren.",
+    options: ["Da", "Wenn", "Obwohl", "Während"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Warum bleibst du im Bett? ___ ich noch müde bin.",
+    options: ["wenn", "da", "weil", "obwohl"],
+    correct: 2
+  },
+
+  // Typing questions
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Ergänze: Ich bin traurig, ___ mein Freund weggezogen ist.",
+    answer: ["weil"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Welches Wort passt? Wir können spielen, ___ wir keine Hausaufgaben haben.",
+    answer: ["weil", "da"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Ergänze: Die Klasse ist leise, ___ der Lehrer gerade spricht.",
+    answer: ["weil", "da"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Welches Wort passt? Ich gehe zu Bett, ___ ich müde bin.",
+    answer: ["weil", "da"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Ergänze: Die Blumen sind verwelkt, ___ es so lange nicht geregnet hat.",
+    answer: ["weil", "da"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Welches Wort passt? Sie ruft mich an, ___ sie gute Nachrichten hat.",
+    answer: ["weil", "da"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Ergänze: Der Hund bellt, ___ er einen Fremden sieht.",
+    answer: ["weil", "da"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Welches Wort passt? Wir nehmen einen Schirm mit, ___ es regnet.",
+    answer: ["weil", "da"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Ergänze: Die Läden sind zu, ___ es Sonntag ist.",
+    answer: ["weil", "da"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Welches Wort passt? Sie weint, ___ sie Heimweh hat.",
+    answer: ["weil", "da"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Ergänze: Das Kind schläft ein, ___ es so anstrengend war.",
+    answer: ["weil", "da"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "kausalsaetze_k5",
+    question: "Welches Wort passt? Wir gehen nicht ins Kino, ___ wir kein Geld haben.",
+    answer: ["weil", "da"]
+  },
+
+  // ─── KONZESSIVSAETZE_K5 (30 questions) ───
+
+  // MCQ questions
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "___ es kalt ist, spielen wir draußen.",
+    options: ["Obwohl", "Obgleich", "Trotzdem", "Weil"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "Die Aufgabe ist schwer, ___ versuchen wir unser Bestes.",
+    options: ["obwohl", "obgleich", "trotzdem", "weil"],
+    correct: 2
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "___ sie viel lernt, schafft sie die Prüfung nicht.",
+    options: ["Wenn", "Obwohl", "Weil", "Während"],
+    correct: 1
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "Er geht zum Unterricht, ___ er sich unwohl fühlt.",
+    options: ["obwohl", "obgleich", "trotzdem", "wenn"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "Welches Wort ist richtig? ___ die Regeln, spielen viele unfair.",
+    options: ["Obwohl", "Obgleich", "Wegen", "Weil"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "___ ich müde bin, kann ich nicht einschlafen.",
+    options: ["Wenn", "Obwohl", "Weil", "Während"],
+    correct: 1
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "Das Buch ist dick, ___ ich lese es mit Freude.",
+    options: ["trotzdem", "obwohl", "obgleich", "weil"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "Welches Wort passt? ___ ich keine Erfahrung habe, versuche ich es.",
+    options: ["Obwohl", "Obgleich", "Wenn", "Weil"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "___ die Musik laut ist, kann ich mich konzentrieren.",
+    options: ["Obwohl", "Obgleich", "Trotzdem", "Weil"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "Die Party war langweilig, ___ kamen alle hin.",
+    options: ["trotzdem", "obwohl", "weil", "wenn"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "____ er eine schlechte Note hat, freut er sich über die Verbesserung.",
+    options: ["Obwohl", "Obgleich", "Wenn", "Weil"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "Welches Wort ist richtig? ____ der Regen, gehen wir wandern.",
+    options: ["Wegen", "Trotz", "Obwohl", "Weil"],
+    correct: 2
+  },
+
+  // Typing questions
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "Ergänze: ___ es schmerzt, laufe ich weiter.",
+    answer: ["Obwohl", "Obgleich"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "Welches Wort passt? Die Jacke ist alt, ___ trage ich sie gerne.",
+    answer: ["trotzdem"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "Ergänze: ___ es teuer ist, kaufen wir das Buch.",
+    answer: ["Obwohl", "Obgleich"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "Welches Wort passt? Die Aufgabe ist langweilig, ___ mache ich sie.",
+    answer: ["trotzdem"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "Ergänze: ___ er schwach ist, hilft er seinen Freunden.",
+    answer: ["Obwohl", "Obgleich"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "Welches Wort passt? Der Film war schon zu sehen, ___ schaue ich ihn nochmal.",
+    answer: ["trotzdem"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "Ergänze: ___ sie talentiert ist, verliert sie das Spiel.",
+    answer: ["Obwohl", "Obgleich"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "Welches Wort passt? Das Essen war nicht lecker, ___ aß ich alles.",
+    answer: ["trotzdem"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "Ergänze: ___ es spät ist, gehen wir noch spazieren.",
+    answer: ["Obwohl", "Obgleich"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "Welches Wort passt? Er ist faul, ___ ist er erfolgreich.",
+    answer: ["trotzdem"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "Ergänze: ___ ich Angst habe, springe ich ins Wasser.",
+    answer: ["Obwohl", "Obgleich"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "konzessivsaetze_k5",
+    question: "Welches Wort passt? Das Spiel war verloren, ___ spielten wir bis zum Ende.",
+    answer: ["trotzdem"]
+  },
+
+  // ─── FINALSAETZE_K5 (30 questions) ───
+
+  // MCQ questions
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Ich lernen, ___ gute Noten zu bekommen.",
+    options: ["damit", "um", "weil", "obwohl"],
+    correct: 1
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Wir trainieren, ___ wir besser werden.",
+    options: ["damit", "um", "weil", "wenn"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Welches Wort passt? Er gibt mir sein Geld, ___ ich Essen kaufe.",
+    options: ["damit", "um", "weil", "obwohl"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Sie ruft an, ___ ihm die guten Nachrichten zu erzählen.",
+    options: ["damit", "um", "weil", "wenn"],
+    correct: 1
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Welches Wort ist richtig? Wir helfen, ___ das Projekt fertig wird.",
+    options: ["damit", "um", "weil", "obwohl"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Ich mache die Fenster auf, ___ frische Luft hereinkommt.",
+    options: ["damit", "um", "weil", "wenn"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Du liest das Buch, ___ dein Vokabular zu verbessern.",
+    options: ["damit", "um", "weil", "obwohl"],
+    correct: 1
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Welches Wort passt? Der Lehrer erklärt das, ___ wir es verstehen.",
+    options: ["damit", "um", "wenn", "weil"],
+    correct: 0
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Sie trainiert hart, ___ schneller zu werden.",
+    options: ["damit", "um", "weil", "wenn"],
+    correct: 1
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Welches Wort ist richtig? Ich spart Geld, ___ mir ein Auto zu kaufen.",
+    options: ["damit", "um", "weil", "obwohl"],
+    correct: 1
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Wir gehen früh weg, ___ den Zug nicht zu verpassen.",
+    options: ["damit", "um", "weil", "wenn"],
+    correct: 1
+  },
+  {
+    type: "mcq",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Er schreibt einen Brief, ___ sein Freund die Nachricht bekommt.",
+    options: ["damit", "um", "weil", "obwohl"],
+    correct: 0
+  },
+
+  // Typing questions
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Ergänze: Wir fahren in Urlaub, ___ wir uns auszuruhen.",
+    answer: ["um"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Welches Wort passt? Der Arzt gibt dir Medizin, ___ du gesund wirst.",
+    answer: ["damit"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Ergänze: Ich spiele Musik, ___ die Gäste unterhalten.",
+    answer: ["um"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Welches Wort passt? Sie trägt Wollsocken, ___ die Füße warm sind.",
+    answer: ["damit"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Ergänze: Ich esse Obst, ___ gesund zu bleiben.",
+    answer: ["um"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Welches Wort passt? Wir stellen einen Wecker, ___ wir nicht zu spät aufwachen.",
+    answer: ["damit"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Ergänze: Du brauchst Kleingeld, ___ Kaugummi zu kaufen.",
+    answer: ["um"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Welches Wort passt? Die Eltern arbeiten, ___ die Familie gut leben kann.",
+    answer: ["damit"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Ergänze: Ich schreibe Noten auf, ___ sie nicht zu vergessen.",
+    answer: ["um"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Welches Wort passt? Sie malt die Wand, ___ das Zimmer schöner aussieht.",
+    answer: ["damit"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Ergänze: Wir üben Mathe, ___ bessere Noten zu bekommen.",
+    answer: ["um"]
+  },
+  {
+    type: "typing",
+    topic: "nebensaetze_k5",
+    subtopic: "finalsaetze_k5",
+    question: "Welches Wort passt? Der Trainer zeigt das Technik, ___ wir schneller laufen können.",
+    answer: ["damit"]
+  }] as any[];
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const K5_WORTBILDUNG_Q = [// ============================================================================
+  // SUBTOPIC: vorsilben_k5 (Prefixes: ver-, be-, ent-, zer-, er-, miss-)
+  // ============================================================================
+
+  // Fragen 1-10: Präfix-Erkennung und Bedeutung
+  {
+    subtopic: "vorsilben_k5",
+    type: "mcq",
+    question: "Welche Vorsilbe hat das Wort 'verstehen'?",
+    options: ["be-", "ver-", "ent-", "er-"],
+    correct: 1,
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "mcq",
+    question: "Was bedeutet die Vorsilbe 'ent-' meistens?",
+    options: ["hinein", "weg / entfernen", "vorwärts", "zurück"],
+    correct: 1,
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "mcq",
+    question: "Welches Wort enthält die Vorsilbe 'zer-'?",
+    options: ["zerbrechlich", "berennen", "erkennen", "verrückt"],
+    correct: 0,
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "mcq",
+    question: "Welche Vorsilbe drückt das Gegenteil oder Negation aus?",
+    options: ["er-", "miss-", "be-", "ent-"],
+    correct: 1,
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "mcq",
+    question: "Welche Vorsilbe zeigt oft Vollendung oder Erfolg an?",
+    options: ["ver-", "be-", "er-", "ent-"],
+    correct: 2,
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "typing",
+    question: "Ergänze die Vorsilbe: ___fahren (wegfahren / Anfang der Reise)",
+    answer: ["ab", "Ab"],
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "mcq",
+    question: "Das Wort 'beschreiben' hat die Vorsilbe 'be-'. Was macht diese Vorsilbe mit dem Verb?",
+    options: ["macht es schneller", "macht ein Verb transitiv (mit Objekt)", "kehrt Sinn um", "zeigt Ende an"],
+    correct: 1,
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "typing",
+    question: "Welche Vorsilbe passt: ___stehen = 'verstehen'?",
+    answer: ["ver", "Ver"],
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "mcq",
+    question: "Wähle das Wort mit der Vorsilbe 'ent-':",
+    options: ["erkennen", "entlassen", "verreisen", "benutzen"],
+    correct: 1,
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "typing",
+    question: "Was bedeutet 'missbrauchen'? Welche Vorsilbe zeigt die Negation? ___brauchen",
+    answer: ["miss", "Miss"],
+  },
+
+  // Fragen 11-20: Neue Wörter mit Vorsilben bilden
+  {
+    subtopic: "vorsilben_k5",
+    type: "mcq",
+    question: "Bilde ein neues Wort: ver- + pflanzen = ?",
+    options: ["Verpflanzung", "verpflanzen", "Plantage", "Pflanzzeit"],
+    correct: 1,
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "typing",
+    question: "Bilde ein neues Wort: zer- + teilen",
+    answer: ["zerteilen", "Zerteilen"],
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "mcq",
+    question: "be- + suchen = ?",
+    options: ["Besucher", "besuchen", "Besuchsplan", "besucht"],
+    correct: 1,
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "typing",
+    question: "Bilde ein neues Wort: ent- + decken",
+    answer: ["entdecken", "Entdecken"],
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "mcq",
+    question: "er- + finden = ?",
+    options: ["erfinden", "erfunden", "Erfindung", "Erfinder"],
+    correct: 0,
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "typing",
+    question: "Bilde ein neues Wort: zer- + reißen",
+    answer: ["zerreißen", "Zerreißen"],
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "mcq",
+    question: "miss- + verstehen = ?",
+    options: ["missverständnis", "missverstanden", "Missverständnis", "missverstehen"],
+    correct: 3,
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "typing",
+    question: "Bilde ein neues Wort: ver- + gessen",
+    answer: ["vergessen", "Vergessen"],
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "mcq",
+    question: "be- + antworten = ?",
+    options: ["beantworten", "beantwortet", "Beantwortung", "antwort"],
+    correct: 0,
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "typing",
+    question: "Bilde ein neues Wort: ent- + kommen",
+    answer: ["entkommen", "Entkommen"],
+  },
+
+  // Fragen 21-30: Welche Vorsilbe passt?
+  {
+    subtopic: "vorsilben_k5",
+    type: "mcq",
+    question: "Welche Vorsilbe passt? '___wandeln' (verändern/umgestalten)",
+    options: ["be-", "ver-", "ent-", "er-"],
+    correct: 1,
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "typing",
+    question: "Welche Vorsilbe passt? '___aufen' (davonlaufen/weglaufen)",
+    answer: ["ver", "Ver"],
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "mcq",
+    question: "Welche Vorsilbe passt? '___nutzung' (falsche/schlechte Nutzung)",
+    options: ["ver-", "miss-", "ent-", "be-"],
+    correct: 1,
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "typing",
+    question: "Welche Vorsilbe passt? '___stellen' (falsch darstellen)",
+    answer: ["dar", "Dar"],
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "mcq",
+    question: "Welche Vorsilbe passt? '___arbeiten' (durch Arbeit erreichen/schaffen)",
+    options: ["be-", "er-", "ent-", "zer-"],
+    correct: 1,
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "mcq",
+    question: "Welche Vorsilbe passt? '___stören' (störend unterbrechen)",
+    options: ["ver-", "ent-", "be-", "miss-"],
+    correct: 0,
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "typing",
+    question: "Welche Vorsilbe passt? '___scheidung' (eine Entscheidung treffen)",
+    answer: ["ent", "Ent"],
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "mcq",
+    question: "Welche Vorsilbe passt? '___bringen' (zerstören/ruinieren)",
+    options: ["er-", "ent-", "ver-", "miss-"],
+    correct: 2,
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "typing",
+    question: "Welche Vorsilbe passt? '___brechen' (in Stücke brechen)",
+    answer: ["zer", "Zer"],
+  },
+  {
+    subtopic: "vorsilben_k5",
+    type: "mcq",
+    question: "Welche Vorsilbe hat das Wort 'misstrauen'?",
+    options: ["ver-", "be-", "miss-", "ent-"],
+    correct: 2,
+  },
+
+  // ============================================================================
+  // SUBTOPIC: nachsilben_k5 (Suffixes: -ung, -heit, -keit, -lich, -ig, -isch)
+  // ============================================================================
+
+  // Fragen 31-40: Suffix-Erkennung und Wortklasse
+  {
+    subtopic: "nachsilben_k5",
+    type: "mcq",
+    question: "Welches Wort hat die Nachsilbe '-ung'?",
+    options: ["schön", "Schönheit", "schöne", "Schönung"],
+    correct: 3,
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "mcq",
+    question: "Was ist das Geschlecht (Genus) von Wörtern mit '-ung'?",
+    options: ["immer männlich (Maskulinum)", "immer weiblich (Femininum)", "immer sächlich (Neutrum)", "variiert"],
+    correct: 1,
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "mcq",
+    question: "Welches Wort hat die Nachsilbe '-heit'?",
+    options: ["freundlich", "Freiheit", "frei", "Freiheit"],
+    correct: 1,
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "mcq",
+    question: "Was ist das Geschlecht von Wörtern mit '-heit' oder '-keit'?",
+    options: ["männlich", "weiblich", "sächlich", "variiert"],
+    correct: 1,
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "mcq",
+    question: "Welche Nachsilbe bildet Adjektive?",
+    options: ["-ung", "-heit", "-lich", "-ung"],
+    correct: 2,
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "mcq",
+    question: "Welche Nachsilbe hat das Wort 'lustig'?",
+    options: ["-ung", "-heit", "-lich", "-ig"],
+    correct: 3,
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "typing",
+    question: "Welche Nachsilbe hat das Wort 'kindisch'? ___",
+    answer: ["-isch", "isch"],
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "mcq",
+    question: "Das Wort 'Wahrheit' = wahr + ___. Welche Nachsilbe?",
+    options: ["-heit", "-keit", "-ung", "-lich"],
+    correct: 0,
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "typing",
+    question: "Welche Nachsilbe hat 'Freundlichkeit'? ___",
+    answer: ["-keit", "keit"],
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "mcq",
+    question: "Welches Wort hat KEINE Nachsilbe aus unserer Liste?",
+    options: ["Schönheit", "Möglichkeit", "lustig", "Reißen"],
+    correct: 3,
+  },
+
+  // Fragen 41-50: Nomen aus Verben/Adjektiven bilden
+  {
+    subtopic: "nachsilben_k5",
+    type: "typing",
+    question: "Bilde ein Nomen aus dem Verb 'lösen' mit der Nachsilbe '-ung':",
+    answer: ["Lösung", "lösung"],
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "mcq",
+    question: "Bilde ein Nomen: Bedeutung = bedeut... + ___",
+    options: ["-heit", "-lich", "-ung", "-ig"],
+    correct: 2,
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "typing",
+    question: "Bilde ein Nomen aus dem Adjektiv 'schön' mit der Nachsilbe '-heit':",
+    answer: ["Schönheit", "schönheit"],
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "mcq",
+    question: "Bilde ein Nomen: Gesundheit = gesund + ___",
+    options: ["-ung", "-heit", "-keit", "-lich"],
+    correct: 1,
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "typing",
+    question: "Bilde ein Nomen aus dem Adjektiv 'möglich' mit der Nachsilbe '-keit':",
+    answer: ["Möglichkeit", "möglichkeit"],
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "mcq",
+    question: "Bilde ein Nomen: Hoffnung = hoffen + ___",
+    options: ["-heit", "-keit", "-ung", "-ig"],
+    correct: 2,
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "typing",
+    question: "Bilde ein Nomen aus dem Verb 'erklären' mit der Nachsilbe '-ung':",
+    answer: ["Erklärung", "erklärung"],
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "mcq",
+    question: "Bilde ein Nomen: Wahrheit = wahr + ___",
+    options: ["-ung", "-keit", "-heit", "-ig"],
+    correct: 2,
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "typing",
+    question: "Bilde ein Nomen aus dem Adjektiv 'schwach' mit der Nachsilbe '-heit':",
+    answer: ["Schwachheit", "schwachheit"],
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "mcq",
+    question: "Bilde ein Nomen: Sicherheit = sicher + ___",
+    options: ["-ung", "-heit", "-keit", "-lich"],
+    correct: 1,
+  },
+
+  // Fragen 51-60: Welche Nachsilbe passt?
+  {
+    subtopic: "nachsilben_k5",
+    type: "typing",
+    question: "Ergänze: Arbeits___ (Arbeitsplatz? Nein, das ist Komposita). Gemeint: Die Aktivität/Tätigkeit des Arbeitens",
+    answer: ["arbeit", "Arbeit"],
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "mcq",
+    question: "Welche Nachsilbe passt? 'Der Verkehr ist ... zu fahren.' Wähle: natur___, sport___, möglichst fern___.",
+    options: ["-lich", "-ig", "-heit", "-isch"],
+    correct: 0,
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "typing",
+    question: "Welche Nachsilbe passt? Der Roman ist sehr span___ .",
+    answer: ["-end", "-ig"],
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "mcq",
+    question: "Wähle die korrekte Form: 'Der Junge ist ____ (faulheit/faul).'",
+    options: ["faul", "faulheit", "faullich", "faulig"],
+    correct: 0,
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "typing",
+    question: "Welche Nachsilbe passt? 'Eine mögliche Lösung' — mög___ .",
+    answer: ["-lich", "lich"],
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "mcq",
+    question: "Welche Nachsilbe passt? 'Das ist ein ___schriftlich (schrift___) Brief.'",
+    options: ["-lich", "-heit", "-ung", "-ig"],
+    correct: 0,
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "typing",
+    question: "Welche Nachsilbe passt? Dieser Rock ist sehr bunt und farb___ .",
+    answer: ["-ig", "ig"],
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "mcq",
+    question: "Welche Nachsilbe passt? 'Das ist sehr tier___.' (tierisch gemeint)",
+    options: ["-heit", "-lich", "-isch", "-ig"],
+    correct: 2,
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "typing",
+    question: "Welche Nachsilbe passt? Eine langweilige Geschichte — langweil___ .",
+    answer: ["-ig", "ig"],
+  },
+  {
+    subtopic: "nachsilben_k5",
+    type: "mcq",
+    question: "Wähle die korrekte Aussage zur Nachsilbe '-lich':",
+    options: ["'-lich' macht Nomen zu Verben", "'-lich' macht Nomen zu Adjektiven", "'-lich' macht Nomen zu anderen Nomen", "'-lich' ändert nichts"],
+    correct: 1,
+  },
+
+  // ============================================================================
+  // SUBTOPIC: zusammensetzungen_k5 (Compound Words / Komposita)
+  // ============================================================================
+
+  // Fragen 61-70: Komposita-Teile erkennen
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "mcq",
+    question: "Aus welchen zwei Wörtern ist das Wort 'Hausaufgabe' zusammengesetzt?",
+    options: ["Haus + Aufgabe", "Haus + Gabe", "Hause + Aufgabe", "Haus + aufbe"],
+    correct: 0,
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "typing",
+    question: "Zerlege das Wort 'Schulbus' in seine Teile:",
+    answer: ["Schule + Bus", "Schul + Bus"],
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "mcq",
+    question: "Aus welchen zwei Wörtern ist 'Fußball' zusammengesetzt?",
+    options: ["Fuß + Ball", "Fuß + Fälle", "Fuss + ballig", "Fußen + Bälle"],
+    correct: 0,
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "typing",
+    question: "Zerlege das Wort 'Handtuch' in seine Teile:",
+    answer: ["Hand + Tuch"],
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "mcq",
+    question: "Aus welchen Wörtern ist 'Tischlampe' zusammengesetzt?",
+    options: ["Tisch + Lampe", "Tischi + Lampe", "Tische + Lampe", "Tisch + Lämper"],
+    correct: 0,
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "typing",
+    question: "Zerlege das Wort 'Schreibtisch' in seine Teile:",
+    answer: ["Schreib + Tisch", "schreiben + Tisch"],
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "mcq",
+    question: "Aus welchen Wörtern ist 'Großvater' zusammengesetzt?",
+    options: ["Groß + Vater", "Gro + Vater", "Gro-Vater", "Großen + Väter"],
+    correct: 0,
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "typing",
+    question: "Zerlege das Wort 'Blaubeere' in seine Teile:",
+    answer: ["Blau + Beere"],
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "mcq",
+    question: "Welches Wort ist ein Komposita aus Verb + Nomen?",
+    options: ["Waschmaschine", "Schönheit", "Fußball", "lustig"],
+    correct: 0,
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "typing",
+    question: "Zerlege das Wort 'Esszimmer' in seine Teile:",
+    answer: ["Ess + Zimmer", "essen + Zimmer"],
+  },
+
+  // Fragen 71-80: Geschlecht des Kompositas
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "mcq",
+    question: "Welches Geschlecht hat das Wort 'Hausaufgabe'?",
+    options: ["der Hausaufgabe (männlich)", "das Hausaufgabe (sächlich)", "die Hausaufgabe (weiblich)", "Das variiert"],
+    correct: 2,
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "typing",
+    question: "Was ist das Geschlecht von 'Fußball'? Der/Die/Das Fußball?",
+    answer: ["der", "Der"],
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "mcq",
+    question: "Was ist das Geschlecht von 'Schreibtisch'?",
+    options: ["die Schreibtisch (weiblich)", "das Schreibtisch (sächlich)", "der Schreibtisch (männlich)", "variiert"],
+    correct: 2,
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "typing",
+    question: "Was ist das Geschlecht von 'Blaubeere'? Der/Die/Das Blaubeere?",
+    answer: ["die", "Die"],
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "mcq",
+    question: "Was ist das Geschlecht von 'Esszimmer'?",
+    options: ["die Esszimmer (weiblich)", "das Esszimmer (sächlich)", "der Esszimmer (männlich)", "variiert"],
+    correct: 1,
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "typing",
+    question: "Was ist das Geschlecht von 'Handtuch'? Der/Die/Das Handtuch?",
+    answer: ["das", "Das"],
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "mcq",
+    question: "Was ist das Geschlecht von 'Schulbus'?",
+    options: ["die Schulbus (weiblich)", "das Schulbus (sächlich)", "der Schulbus (männlich)", "variiert"],
+    correct: 2,
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "typing",
+    question: "Was ist das Geschlecht von 'Großvater'? Der/Die/Das Großvater?",
+    answer: ["der", "Der"],
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "mcq",
+    question: "Welche Aussage ist RICHTIG?",
+    options: ["Das Geschlecht des Kompositas wird vom Erstglied bestimmt", "Das Geschlecht des Kompositas wird vom Grundwort bestimmt", "Das Geschlecht variiert immer", "Das Geschlecht ist immer männlich"],
+    correct: 1,
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "typing",
+    question: "Was ist das Geschlecht von 'Waschmaschine'? Der/Die/Das Waschmaschine?",
+    answer: ["die", "Die"],
+  },
+
+  // Fragen 81-90: Fugenlaute und neue Komposita bilden
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "mcq",
+    question: "Welches Wort hat einen Fugenlaut '-s-'?",
+    options: ["Schulbus", "Geburtstag", "Handtuch", "Fußball"],
+    correct: 1,
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "typing",
+    question: "Welcher Fugenlaut ist in 'Kinderspiel' enthalten? (Schreibe: -X-)",
+    answer: ["-en-", "en", "-e-", "e"],
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "mcq",
+    question: "Welcher Fugenlaut ist in 'Hundehütte' enthalten?",
+    options: ["-s-", "-e-", "-en-", "kein Fugenlaut"],
+    correct: 1,
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "typing",
+    question: "Bilde ein Komposita: Schule + Buch → Schulbuch. Gibt es einen Fugenlaut?",
+    answer: ["nein", "Nein", "keinen", "Keinen"],
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "mcq",
+    question: "Welches Wort ist KEIN Komposita?",
+    options: ["Tischlampe", "Gesundheit", "Hausaufgabe", "Schulbus"],
+    correct: 1,
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "typing",
+    question: "Bilde ein Komposita: Obst + Baum → Obstbaum. Welcher Fugenlaut?",
+    answer: ["kein", "keinen", "Keinen", "-"],
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "mcq",
+    question: "Bilde ein Komposita aus: Arbeit + Platz. Welcher Fugenlaut ist nötig?",
+    options: ["-s-", "-e-", "-en-", "kein Fugenlaut"],
+    correct: 0,
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "typing",
+    question: "Bilde ein Komposita aus: Stunde + Zeiger. Welcher Fugenlaut?",
+    answer: ["-n-", "n", "-en-", "en"],
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "mcq",
+    question: "Welches Komposita hat den Fugenlaut '-en-'?",
+    options: ["Tischlampe", "Kinderspiel", "Fußball", "Handschuhe"],
+    correct: 1,
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "typing",
+    question: "Bilde ein Komposita: Mensch + Recht. Welcher Fugenlaut?",
+    answer: ["-en-", "en", "-"],
+  },
+
+  // Fragen 91-100: Bedeutung und Erkennung von Komposita
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "mcq",
+    question: "Was bedeutet das Komposita 'Hausaufgabe'?",
+    options: ["Eine Aufgabe, die man für die Schule zu Hause macht", "Aufgaben im Haus", "Eine Haus, das Aufgaben macht", "Aufgabe von Häuser"],
+    correct: 0,
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "typing",
+    question: "Erkläre das Komposita 'Schreibtisch' in einem Satz:",
+    answer: ["Ein Tisch zum Schreiben", "Ein Tisch, an dem man schreibt", "Tisch zum Schreiben"],
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "mcq",
+    question: "Was bedeutet das Komposita 'Fußball'?",
+    options: ["Ein Ball für den Fuß (Sportgerät)", "Ein Fuß, der spielt", "Fußen, die Ball spielen", "Ein Ball im Fuß"],
+    correct: 0,
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "typing",
+    question: "Erkläre das Komposita 'Blaubeere' in wenigen Worten:",
+    answer: ["Eine blaue Beere", "Beere, die blau ist", "Eine Beere mit blauer Farbe"],
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "mcq",
+    question: "Welches Komposita beschreibt einen Platz, auf dem man arbeitet?",
+    options: ["Arbeitsplatz", "Platzarbeit", "Arbeitszeit", "Arbeiter"],
+    correct: 0,
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "typing",
+    question: "Welches Komposita bedeutet: 'Ein Zimmer, in dem man isst'?",
+    answer: ["Esszimmer"],
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "mcq",
+    question: "Was ist das Grundwort (Letztglied) in 'Schulbus'?",
+    options: ["Schul-", "bus", "Bus", "-bus"],
+    correct: 2,
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "typing",
+    question: "Was ist das Bestimmungswort (Erstglied) in 'Tischlampe'?",
+    answer: ["Tisch"],
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "mcq",
+    question: "Welches Komposita hat MORE als zwei Wörter?",
+    options: ["Hausaufgabe", "Großvater", "Schulbus", "Arbeitsplatz"],
+    correct: 3,
+  },
+  {
+    subtopic: "zusammensetzungen_k5",
+    type: "typing",
+    question: "Bilde ein neues Komposita aus zwei Wörtern deiner Wahl und erkläre seine Bedeutung:",
+    answer: ["Schulbuch: Ein Buch für die Schule", "Klassenzimmer: Ein Zimmer für eine Klasse", "Schulhof: Ein Hof der Schule", "Hausschlüssel: Ein Schlüssel für das Haus"],
+  },
+
+  // ============================================================================
+  // SUBTOPIC: wortfamilien_k5 (Word Families / Wortfamilien)
+  // ============================================================================
+
+  // Fragen 101-110: Stammwort und verwandte Wörter
+  {
+    subtopic: "wortfamilien_k5",
+    type: "mcq",
+    question: "Welches ist das Stammwort (Wurzelmorphem) der Wortfamilie 'fahren'?",
+    options: ["fahren", "Fahrer", "Fahrt", "erfahren"],
+    correct: 0,
+  },
+  {
+    subtopic: "wortfamilien_k5",
+    type: "typing",
+    question: "Schreibe das Stammwort der Wortfamilie: Schriftsteller, beschriften, Schrift, aufschreiben:",
+    answer: ["schreiben", "Schreiben"],
+  },
+  {
+    subtopic: "wortfamilien_k5",
+    type: "mcq",
+    question: "Welche Wörter gehören zur GLEICHEN Wortfamilie wie 'spielen'?",
+    options: ["Spieler, Spiel, Spielplatz, mitspielen", "Spielzeug, Spielplatz, Spielball", "Spieler, Spielfigur, Spott", "alle außer Spott"],
+    correct: 3,
+  },
+  {
+    subtopic: "wortfamilien_k5",
+    type: "typing",
+    question: "Nenne drei verwandte Wörter zur Wortfamilie 'arbeiten':",
+    answer: ["Arbeiter, Arbeit, Arbeitsplatz", "Arbeit, Arbeiter, bearbeiten", "Arbeit, Arbeiter, Arbeitszeit"],
+  },
+  {
+    subtopic: "wortfamilien_k5",
+    type: "mcq",
+    question: "Welche Wortfamilie ist HIER RICHTIG gruppiert?",
+    options: ["Laufen: Läufer, Lauf, ablaufen, auflaufen", "Laufen: Läufer, Lauf, läufig, Laufzeit", "Laufen: Läufer, Lauf, Laptop, ablaufen", "Laufen: Läufer, läufig, Laufzeit, lauig"],
+    correct: 0,
+  },
+  {
+    subtopic: "wortfamilien_k5",
+    type: "typing",
+    question: "Schreibe das Stammwort der Wortfamilie: Bäckerei, backen, Bäcker, gebacken:",
+    answer: ["backen", "Backen"],
+  },
+  {
+    subtopic: "wortfamilien_k5",
+    type: "mcq",
+    question: "Welche Wörter gehören zur GLEICHEN Wortfamilie wie 'wissen'?",
+    options: ["Wissen, wissenswert, Wissenschaft, unwissend", "Wissen, wissen, Unwissen, Wissenswertes", "Wissen, Wissenschaft, wissend, Gewissheit", "alle außer 'Gewissheit'"],
+    correct: 0,
+  },
+  {
+    subtopic: "wortfamilien_k5",
+    type: "typing",
+    question: "Nenne vier verwandte Wörter zur Wortfamilie 'fahren':",
+    answer: ["Fahrer, Fahrt, Fahrrad, Abfahrt", "Fahrzeug, Fahrer, Fahrt, erfahren", "Fahrt, Fahrer, Abfahrt, Zufahrt"],
+  },
+  {
+    subtopic: "wortfamilien_k5",
+    type: "mcq",
+    question: "Welches Wort gehört NICHT zur Wortfamilie 'singen'?",
+    options: ["Sänger", "Gesang", "sang (Vergangenheit)", "Sängerin"],
+    correct: 2,
+  },
+  {
+    subtopic: "wortfamilien_k5",
+    type: "typing",
+    question: "Schreibe das Stammwort der Wortfamilie: Schreibtisch, Schrift, Schriftsteller, aufgeschrieben:",
+    answer: ["schreiben", "Schreiben"],
+  },
+
+  // Fragen 111-120: Zusammenhänge in Wortfamilien
+  {
+    subtopic: "wortfamilien_k5",
+    type: "mcq",
+    question: "Welches Wort gehört NICHT zur Wortfamilie 'Land'?",
+    options: ["Landwirt", "Landlord", "Länder", "Landesgrenze"],
+    correct: 1,
+  },
+  {
+    subtopic: "wortfamilien_k5",
+    type: "typing",
+    question: "Welches Wort gehört zur Wortfamilie 'Hand'? (Nenne ein Beispiel)",
+    answer: ["Handschuh", "Handwerk", "Handbuch", "Handler", "Handschuhe"],
+  },
+  {
+    subtopic: "wortfamilien_k5",
+    type: "mcq",
+    question: "Welches Wort hat den GLEICHEN Stamm wie 'nehmen'?",
+    options: ["annehmen", "abnahmen", "angenommen", "nähmen"],
+    correct: 2,
+  },
+  {
+    subtopic: "wortfamilien_k5",
+    type: "typing",
+    question: "Schreibe das Stammwort der Wortfamilie: Liebling, lieb, Liebe, geliebt:",
+    answer: ["lieben", "lieb", "Lieb"],
+  },
+  {
+    subtopic: "wortfamilien_k5",
+    type: "mcq",
+    question: "Welche Wörter der Wortfamilie 'sprechen' sind richtig gruppiert?",
+    options: ["Sprecher, Sprache, besprechen, Vortrag", "Sprecher, Sprache, besprechen, Aussprache", "Sprecher, Sprache, ausgesprochenes, Spruch"],
+    correct: 1,
+  },
+  {
+    subtopic: "wortfamilien_k5",
+    type: "typing",
+    question: "Schreibe drei Wörter der Wortfamilie 'wachsen':",
+    answer: ["Wachstum, wachsen, Wachsgefühl", "Wachstum, Wächter, erwachsen", "Wachstum, Wachs, Wachter"],
+  },
+  {
+    subtopic: "wortfamilien_k5",
+    type: "mcq",
+    question: "Welches Wort gehört NICHT zur Wortfamilie 'Stadt'?",
+    options: ["Großstadt", "Stadion", "Stadtbewohner", "Stadtzentrum"],
+    correct: 1,
+  },
+  {
+    subtopic: "wortfamilien_k5",
+    type: "typing",
+    question: "Nenne zwei Wörter der Wortfamilie 'Freund':",
+    answer: ["Freundschaft, freundlich", "freundlich, Freundlichkeit", "Freundschaft, Freundin", "freundliche, Freundschaften"],
+  },
+  {
+    subtopic: "wortfamilien_k5",
+    type: "mcq",
+    question: "Welche Aussage über Wortfamilien ist RICHTIG?",
+    options: ["Alle Wörter in einer Familie haben den GLEICHEN Stamm", "Alle Wörter in einer Familie haben die GLEICHE Anzahl von Buchstaben", "Alle Wörter in einer Familie sind Nomina", "Alle Wörter in einer Familie sind Verben"],
+    correct: 0,
+  },
+  {
+    subtopic: "wortfamilien_k5",
+    type: "typing",
+    question: "Schreibe das Stammwort und nenne DREI verwandte Wörter der Wortfamilie 'helfen':",
+    answer: ["Stamm: helf-, Wörter: Helfer, Hilfe, behilflich", "Helfer, Hilfe, geholfen", "Helferin, Hilfsbereitschaft, Nothilfe"],
+  }] as any[];
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const K5_SATZGLIEDER_Q = [// ===== ATTRIBUT_K5 (30 questions) =====
+  {
+    subtopic: "attribut_k5",
+    question: "Welches Wort ist das Adjektivattribut in: 'das alte Schloss'?",
+    type: "mcq",
+    options: ["das", "alte", "Schloss", "das alte"],
+    answer: ["alte"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Unterstreiche das Attribut: 'Der Mann mit den blauen Augen ist freundlich.'",
+    type: "typing",
+    answer: ["mit den blauen Augen"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Welche Art von Attribut ist 'des Lehrers' in 'das Buch des Lehrers'?",
+    type: "mcq",
+    options: ["Adjektivattribut", "Genitivattribut", "Präpositionalattribut", "Relativattribut"],
+    answer: ["Genitivattribut"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Welches ist das Attribut: 'Das Mädchen mit den langen Haaren tanzt.'?",
+    type: "typing",
+    answer: ["mit den langen Haaren"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Identifiziere das Relativsatzattribut: 'Der Schüler, der fleißig arbeitet, bekommt gute Noten.'",
+    type: "mcq",
+    options: ["Der Schüler", "der fleißig arbeitet", "bekommt gute Noten", "fleißig arbeitet"],
+    answer: ["der fleißig arbeitet"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Welches Attribut modifiziert das Nomen 'Baum' in: 'Der grüne Baum steht auf dem Hügel'?",
+    type: "typing",
+    answer: ["grüne", "grüne Baum"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Was ist das Attribut in 'die Tasche meiner Schwester'?",
+    type: "mcq",
+    options: ["die", "Tasche", "meiner Schwester", "meiner"],
+    answer: ["meiner Schwester"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Nenne das Attribut: 'Das Fenster mit der kaputten Scheibe muss repariert werden.'",
+    type: "typing",
+    answer: ["mit der kaputten Scheibe"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Welche Art von Attribut ist 'rot' in 'das rote Auto'?",
+    type: "mcq",
+    options: ["Genitivattribut", "Präpositionalattribut", "Adjektivattribut", "Relativattribut"],
+    answer: ["Adjektivattribut"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Finde das Attribut: 'Die Blume mit den gelben Blättern ist verwelkt.'",
+    type: "typing",
+    answer: ["mit den gelben Blättern"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Ist 'laut' in 'Die Musik ist laut' ein Attribut oder eine adverbiale Bestimmung?",
+    type: "mcq",
+    options: ["Attribut", "adverbiale Bestimmung", "Prädikat", "Objekt"],
+    answer: ["adverbiale Bestimmung"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Welches ist das Attribut: 'Der schnelle Läufer gewinnt das Rennen.'?",
+    type: "typing",
+    answer: ["schnelle"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Nenne die Art: In 'das Buch der Schule' ist 'der Schule' ein...",
+    type: "mcq",
+    options: ["Adjektivattribut", "Genitivattribut", "Präpositionalattribut", "Adverbial"],
+    answer: ["Genitivattribut"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Unterstreiche das Attribut: 'Der Mann, dessen Sohn Arzt ist, wohnt nebenan.'",
+    type: "typing",
+    answer: ["dessen Sohn Arzt ist"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Was ist das Attribut in 'das Spiel der Kinder'?",
+    type: "mcq",
+    options: ["das Spiel", "der Kinder", "Spiel", "die Kinder"],
+    answer: ["der Kinder"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Finde das Attribut: 'Das Haus auf dem Berg ist groß.'",
+    type: "typing",
+    answer: ["auf dem Berg"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Welche Art von Attribut ist 'in der Schule' in 'der Unterricht in der Schule'?",
+    type: "mcq",
+    options: ["Adjektivattribut", "Genitivattribut", "Präpositionalattribut", "Infinitivattribut"],
+    answer: ["Präpositionalattribut"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Nenne das Attribut: 'Die Schüler, die fleißig sind, bekommen gute Noten.'",
+    type: "typing",
+    answer: ["die fleißig sind"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Ist 'schön' in 'Die Rose ist schön' ein Attribut oder ein Prädikativ?",
+    type: "mcq",
+    options: ["Attribut", "Prädikativ", "Adjektivattribut", "Adverbial"],
+    answer: ["Prädikativ"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Finde das Attribut: 'Der Tisch mit der roten Platte steht in der Ecke.'",
+    type: "typing",
+    answer: ["mit der roten Platte"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Welches Attribut modifiziert 'Kind' in 'Das Kind, das lacht, ist glücklich'?",
+    type: "mcq",
+    options: ["das lacht", "das Kind", "ist glücklich", "glücklich"],
+    answer: ["das lacht"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Unterstreiche das Attribut: 'Die Frau des Direktors arbeitet in einem Büro.'",
+    type: "typing",
+    answer: ["des Direktors"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Was ist das Attribut in 'das kleine rote Auto'?",
+    type: "mcq",
+    options: ["das Auto", "kleine", "rot", "kleine rote"],
+    answer: ["kleine rote"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Nenne das Attribut: 'Der Brief meines Freundes ist angekommen.'",
+    type: "typing",
+    answer: ["meines Freundes"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Welche Art von Attribut ist 'am Fenster' in 'Der Tisch am Fenster ist alt'?",
+    type: "mcq",
+    options: ["Adjektivattribut", "Genitivattribut", "Präpositionalattribut", "Relativattribut"],
+    answer: ["Präpositionalattribut"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Finde das Relativsatzattribut: 'Der Film, den wir gestern sahen, war spannend.'",
+    type: "typing",
+    answer: ["den wir gestern sahen"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Ist 'alt' in 'Das alte Haus wird abgerissen' ein Attribut oder ein Prädikativ?",
+    type: "mcq",
+    options: ["Attribut", "Prädikativ", "Adverbial", "Objekt"],
+    answer: ["Attribut"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Unterstreiche das Attribut: 'Die Lösung des Problems war nicht leicht.'",
+    type: "typing",
+    answer: ["des Problems"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Was ist das Attribut in 'das Auto meines Vaters'?",
+    type: "mcq",
+    options: ["das Auto", "Auto", "meines Vaters", "meines"],
+    answer: ["meines Vaters"],
+  },
+  {
+    subtopic: "attribut_k5",
+    question: "Nenne das Attribut: 'Der Junge mit der Brille sitzt neben mir.'",
+    type: "typing",
+    answer: ["mit der Brille"],
+  },
+
+  // ===== UMSTELLPROBE_K5 (30 questions) =====
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Welche Gruppe kann man verschieben: 'Der Hund bellt laut in der Nacht.'?",
+    type: "mcq",
+    options: ["Der Hund", "laut in der Nacht", "in der Nacht", "bellt laut"],
+    answer: ["in der Nacht"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Wende die Umstellprobe an: Kann 'in der Schule' ein Satzglied sein?",
+    type: "typing",
+    answer: ["ja", "Ja", "ja, weil es zusammen verschiebbar ist"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Teste mit Umstellprobe: 'Die Katze schläft sehr friedlich.' Ist 'sehr friedlich' ein Satzglied?",
+    type: "mcq",
+    options: ["ja", "nein", "nur 'sehr'", "nur 'friedlich'"],
+    answer: ["ja"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Verschiebe 'in der Bibliothek': 'Ich lese ein Buch in der Bibliothek.' Funktioniert es?",
+    type: "typing",
+    answer: ["ja", "Ja", "ja, es ist ein Satzglied"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Welche Gruppe bleibt zusammen bei der Umstellprobe: 'Der Mann kauft schnell Brot.'?",
+    type: "mcq",
+    options: ["Der Mann", "kauft schnell", "schnell Brot", "schnell"],
+    answer: ["schnell"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Kannst du 'meinen besten Freund' zusammen verschieben? Ja oder Nein?",
+    type: "typing",
+    answer: ["ja", "Ja", "ja, es ist ein Satzglied"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Teste mit Umstellprobe: Ist 'auf dem Spielplatz' in 'Wir spielen auf dem Spielplatz' ein Satzglied?",
+    type: "mcq",
+    options: ["ja", "nein", "nur 'auf'", "nur 'dem Spielplatz'"],
+    answer: ["ja"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Verschiebe die Gruppe: 'Das Mädchen tanzt heute sehr gut.' Kann 'heute sehr gut' zusammen stehen?",
+    type: "typing",
+    answer: ["nein", "Nein", "nein, 'heute' und 'sehr gut' gehören zusammen als Satzglieder"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Welche Gruppen sind Satzglieder nach der Umstellprobe: 'Der Hund läuft schnell durch den Park.'?",
+    type: "mcq",
+    options: ["durch, den, Park", "schnell, durch, den Park", "schnell; durch den Park", "nur 'durch'"],
+    answer: ["schnell; durch den Park"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Kann man 'mit großer Freude' verschieben: 'Sie tanzt mit großer Freude.'?",
+    type: "typing",
+    answer: ["ja", "Ja", "ja, es ist ein Satzglied"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Teste die Verschiebbarkeit: 'Ich gebe meinem Freund das Buch.' Ist 'meinem Freund' ein Satzglied?",
+    type: "mcq",
+    options: ["ja", "nein", "nur 'meinem'", "nur 'Freund'"],
+    answer: ["ja"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Welche Gruppe bleibt zusammen: 'Am Wochenende fahren wir ans Meer.'?",
+    type: "typing",
+    answer: ["Am Wochenende", "ans Meer"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Ist 'jeden Tag' ein Satzglied? Teste mit Umstellprobe: 'Ich gehe jeden Tag zur Schule.'",
+    type: "mcq",
+    options: ["ja", "nein", "nur 'jeden'", "nur 'Tag'"],
+    answer: ["ja"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Verschiebe: 'Sie arbeitet fleißig im Garten.' Kann 'fleißig im Garten' zusammen stehen?",
+    type: "typing",
+    answer: ["nein", "Nein", "nein, das sind zwei verschiedene Satzglieder"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Welche Gruppen sind nach Umstellprobe Satzglieder: 'Die Katze springt elegant auf den Zaun.'?",
+    type: "mcq",
+    options: ["elegant, auf den Zaun", "auf, den Zaun", "elegant auf", "nur 'elegant'"],
+    answer: ["elegant, auf den Zaun"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Kann man 'sehr scharf' verschieben: 'Das Messer ist sehr scharf.'?",
+    type: "typing",
+    answer: ["ja", "Ja", "ja, als Satzglied"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Teste mit Umstellprobe: 'Wir fahren morgen in den Wald.' Ist 'morgen in den Wald' ein Satzglied?",
+    type: "mcq",
+    options: ["ja", "nein", "nur 'morgen'", "nur 'in den Wald'"],
+    answer: ["nein"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Verschiebe die Satzglieder: 'Der Junge isst langsam die Pizza.' Nenne sie.",
+    type: "typing",
+    answer: ["langsam", "die Pizza"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Ist 'in der Stadt' ein Satzglied? Teste: 'Die Menschen leben gerne in der Stadt.'",
+    type: "mcq",
+    options: ["ja", "nein", "nur 'Stadt'", "nur 'in'"],
+    answer: ["ja"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Kann man 'immer sehr freundlich' verschieben oder sind es zwei Satzglieder?",
+    type: "typing",
+    answer: ["zwei", "Zwei", "zwei Satzglieder", "nein, nur 'sehr freundlich' oder 'immer'"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Teste: 'Ich sehe meinen Bruder oft.' Welche sind die Satzglieder nach Umstellprobe?",
+    type: "mcq",
+    options: ["meinen Bruder, oft", "oft, meinen", "meinen, Bruder", "Bruder, oft"],
+    answer: ["meinen Bruder, oft"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Verschiebe 'unter der Brücke': 'Das Wasser fließt unter der Brücke.' Funktioniert es?",
+    type: "typing",
+    answer: ["ja", "Ja"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Ist 'ziemlich kalt' ein oder zwei Satzglieder? Teste: 'Heute ist es ziemlich kalt.'",
+    type: "mcq",
+    options: ["ein Satzglied", "zwei Satzglieder", "nur 'ziemlich'", "nur 'kalt'"],
+    answer: ["ein Satzglied"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Kann man 'während des Spiels' verschieben: 'Er sitzt während des Spiels auf der Bank.'?",
+    type: "typing",
+    answer: ["ja", "Ja"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Teste: 'Die Tänzerin bewegt sich anmutig auf der Bühne.' Welche sind Satzglieder?",
+    type: "mcq",
+    options: ["anmutig, auf der Bühne", "anmutig auf", "auf der Bühne", "Bühne, anmutig"],
+    answer: ["anmutig, auf der Bühne"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Verschiebe 'mit Mut' in 'Der Held kämpft mit Mut.' Ist es ein Satzglied?",
+    type: "typing",
+    answer: ["ja", "Ja"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Teste mit Umstellprobe: 'Ich kenne das kleine Dorf gut.' Ist 'kleine' ein Satzglied?",
+    type: "mcq",
+    options: ["ja", "nein", "nur mit 'Dorf'", "nur mit 'gut'"],
+    answer: ["nein"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Können 'schnell und leise' zusammen verschoben werden: 'Der Räuber kommt schnell und leise.'?",
+    type: "typing",
+    answer: ["ja", "Ja"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Teste: 'Er arbeitet Tag für Tag sehr hart.' Welche sind die Satzglieder?",
+    type: "mcq",
+    options: ["Tag für Tag, sehr hart", "Tag, für, Tag, sehr", "sehr hart", "Tag für Tag"],
+    answer: ["Tag für Tag, sehr hart"],
+  },
+  {
+    subtopic: "umstellprobe_k5",
+    question: "Verschiebe 'ohne Probleme': 'Wir lösen die Aufgabe ohne Probleme.' Funktioniert es?",
+    type: "typing",
+    answer: ["ja", "Ja"],
+  },
+
+  // ===== ERSATZPROBE_K5 (30 questions) =====
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Wende die Ersatzprobe an: 'Der große Hund bellt.' Was ersetzt 'Der große Hund'?",
+    type: "mcq",
+    options: ["es", "er", "ihn", "ihm"],
+    answer: ["er"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Ersetze mit einem Pronomen: 'Ich sehe den alten Mann.' Welches Pronomen passt?",
+    type: "typing",
+    answer: ["ihn"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Wende Ersatzprobe an: 'Sie hilft ihrem besten Freund.' Was ersetzt 'ihrem besten Freund'?",
+    type: "mcq",
+    options: ["er", "ihn", "ihm", "es"],
+    answer: ["ihm"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Ersetze 'die roten Blumen': 'Ich pflücke die roten Blumen.' Mit welchem Pronomen?",
+    type: "typing",
+    answer: ["sie"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Teste mit Ersatzprobe: 'Der Lehrer gibt dem Schüler ein Buch.' Welches Pronomen ersetzt 'dem Schüler'?",
+    type: "mcq",
+    options: ["er", "ihn", "ihm", "es"],
+    answer: ["ihm"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Ersetze: 'Anna sieht ihre Freundin.' Mit welchem Pronomen?",
+    type: "typing",
+    answer: ["sie"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Was ist die Funktion von 'meinen Onkel' in 'Ich besuche meinen Onkel'? Ersetze es.",
+    type: "mcq",
+    options: ["Subjekt (er)", "Akkusativobjekt (ihn)", "Dativobjekt (ihm)", "Genitiv (sein)"],
+    answer: ["Akkusativobjekt (ihn)"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Ersatzprobe: 'Wir geben der Lehrerin Blumen.' Was ersetzt 'der Lehrerin'?",
+    type: "typing",
+    answer: ["ihr"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Teste die Funktion: 'Der Mechaniker repariert mein Auto.' Was ersetzt das Objekt?",
+    type: "mcq",
+    options: ["es (Nominativ)", "es (Akkusativ)", "ihm", "ihn"],
+    answer: ["es (Akkusativ)"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Ersetze mit Ersatzprobe: 'Die Ärzte helfen den Patienten.' Welches Pronomen?",
+    type: "typing",
+    answer: ["ihnen"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Was ist die Funktion von 'seine Schwester' in 'Er liebt seine Schwester'?",
+    type: "mcq",
+    options: ["Subjekt", "Akkusativobjekt", "Dativobjekt", "Genitiv"],
+    answer: ["Akkusativobjekt"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Ersatzprobe: 'Ich antworte meinem Freund.' Mit welchem Pronomen?",
+    type: "typing",
+    answer: ["ihm"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Teste: 'Der Junge wirft den Ball ins Tor.' Was ersetzt 'den Ball'?",
+    type: "mcq",
+    options: ["er", "ihn", "ihm", "es"],
+    answer: ["ihn"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Ersetze mit Pronomen: 'Sie gibt ihrer Tochter das Geld.' Pronomen für 'ihrer Tochter'?",
+    type: "typing",
+    answer: ["ihr"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Bestimme die Funktion mit Ersatzprobe: 'Das Kind malt ein Bild.' Akkusativ oder Nominativ?",
+    type: "mcq",
+    options: ["Nominativ (es)", "Akkusativ (es)", "Dativ (ihm)", "Nominativ (sie)"],
+    answer: ["Akkusativ (es)"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Ersatzprobe: 'Peter dankt seinem Vater.' Mit welchem Pronomen?",
+    type: "typing",
+    answer: ["ihm"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Teste die Funktion: 'Die Köchin macht das Essen.' Pronomen für 'das Essen'?",
+    type: "mcq",
+    options: ["er", "sie", "es", "ihn"],
+    answer: ["es"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Ersetze: 'Ich schreibe meiner Großmutter einen Brief.' Pronomen für 'meiner Großmutter'?",
+    type: "typing",
+    answer: ["ihr"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Bestimme mit Ersatzprobe: 'Der Nachbar fütter die Katze.' Ist 'die Katze' Subjekt oder Objekt?",
+    type: "mcq",
+    options: ["Subjekt (sie)", "Akkusativobjekt (sie)", "Dativobjekt (ihr)", "Nominativ (es)"],
+    answer: ["Akkusativobjekt (sie)"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Ersatzprobe: 'Du gibst dem Postboten ein Trinkgeld.' Pronomen für 'dem Postboten'?",
+    type: "typing",
+    answer: ["ihm"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Was ersetzt 'die schnelle Läuferin' in 'Ich sehe die schnelle Läuferin'?",
+    type: "mcq",
+    options: ["er", "sie", "ihn", "es"],
+    answer: ["sie"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Ersetze: 'Wir besuchen unsere Cousins.' Mit welchem Pronomen?",
+    type: "typing",
+    answer: ["sie"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Teste: 'Ich gebe dem Kind das Spielzeug.' Pronomen für 'dem Kind'?",
+    type: "mcq",
+    options: ["ihn", "sie", "ihm", "es"],
+    answer: ["ihm"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Ersatzprobe: 'Er schreibt seinen Eltern eine Nachricht.' Pronomen für 'seinen Eltern'?",
+    type: "typing",
+    answer: ["ihnen"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Bestimme die Funktion: 'Die Musikerin spielt das Lied wunderbar.' Pronomen für 'das Lied'?",
+    type: "mcq",
+    options: ["sie", "ihn", "es", "es (Nominativ)"],
+    answer: ["es"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Ersetze: 'Ich zeige meinem Bruder die Fotos.' Pronomen für 'meinem Bruder'?",
+    type: "typing",
+    answer: ["ihm"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Teste mit Ersatzprobe: 'Sie kauft ihrer Mutter einen Schal.' Pronomen für 'ihrer Mutter'?",
+    type: "mcq",
+    options: ["sie", "ihn", "ihr", "es"],
+    answer: ["ihr"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Ersetze: 'Wir einladen unsere Freunde zu einer Party.' Mit welchem Pronomen?",
+    type: "typing",
+    answer: ["sie"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Bestimme die Funktion: 'Der Trainer trainiert die Mannschaft täglich.' Pronomen für 'die Mannschaft'?",
+    type: "mcq",
+    options: ["er", "sie (Nominativ)", "sie (Akkusativ)", "ihnen"],
+    answer: ["sie (Akkusativ)"],
+  },
+  {
+    subtopic: "ersatzprobe_k5",
+    question: "Ersatzprobe: 'Ich gebe meiner Oma einen Kuss.' Pronomen für 'meiner Oma'?",
+    type: "typing",
+    answer: ["ihr"],
+  },
+
+  // ===== KONJUNKTIV2_K5 (30 questions) =====
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Bilde Konjunktiv II: 'Wenn ich reich _____, würde ich reisen.'",
+    type: "mcq",
+    options: ["bin", "wäre", "bin", "wurde"],
+    answer: ["wäre"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Ergänze Konjunktiv II: 'Ich wünschte, du _____ mir helfen.'",
+    type: "typing",
+    answer: ["würdest", "könntest", "wolltest"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Forme in Konjunktiv II um: 'Wenn es regnet, ...'",
+    type: "mcq",
+    options: ["würde ich zu Hause bleiben", "bleibe ich zu Hause", "bin ich zu Hause", "wäre ich zu Hause"],
+    answer: ["würde ich zu Hause bleiben"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Bilde den Konjunktiv II von 'haben': 'Ich _____ mehr Zeit für dich.'",
+    type: "typing",
+    answer: ["hätte"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Welche Form ist höflich: 'Könnten Sie mir helfen?' oder 'Können Sie mir helfen?'",
+    type: "mcq",
+    options: ["Könnten", "Können", "beide gleich", "keine von beiden"],
+    answer: ["Könnten"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Ergänze Konjunktiv II: 'Er _____ gerne Pilot, wenn er mutiger wäre.'",
+    type: "typing",
+    answer: ["wäre", "würde sein"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Forme den Konditionalsatz: 'Wenn du schneller läufst, ...'",
+    type: "mcq",
+    options: ["erreichst du den Bus", "würdest du den Bus erreichen", "erreichest du den Bus", "würde erreichen"],
+    answer: ["würdest du den Bus erreichen"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Bilde Konjunktiv II von 'können': 'Ich _____ besser schwimmen, wenn ich trainieren würde.'",
+    type: "typing",
+    answer: ["könnte"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Was bedeutet Konjunktiv II? Wähle die beste Antwort.",
+    type: "mcq",
+    options: ["Tatsachen", "irreale Bedingungen oder Wünsche", "Befehle", "Fragen"],
+    answer: ["irreale Bedingungen oder Wünsche"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Ergänze: 'Wenn es nicht so kalt _____, würden wir spazieren gehen.'",
+    type: "typing",
+    answer: ["wäre"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Bilde Konjunktiv II: 'Es _____ schön, wenn die Ferien länger wären.'",
+    type: "mcq",
+    options: ["ist", "wäre", "würde sein", "sei"],
+    answer: ["wäre"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Höfliche Bitte mit Konjunktiv II: 'Würdest du mir bitte _____ helfen?'",
+    type: "typing",
+    answer: ["bitte"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Forme um: 'Wenn du Zeit hast, besuchst du mich.' → Konjunktiv II",
+    type: "mcq",
+    options: ["Wenn du Zeit hättest, würdest du mich besuchen", "Wenn du Zeit hast, wirst du mich besuchen", "Wenn du Zeit haben würdest, besuchst du mich", "Zeit hat, besuchst"],
+    answer: ["Wenn du Zeit hättest, würdest du mich besuchen"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Bilde Konjunktiv II von 'müssen': 'Ich _____ heute arbeiten, aber ich will nicht.'",
+    type: "typing",
+    answer: ["müsste"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Welcher Satz ist eine Wunschform im Konjunktiv II?",
+    type: "mcq",
+    options: ["Wenn ich komme, ...", "Ich wünsche mir, du wärst hier", "Du wirst hier sein", "Ich bin froh, dass du hier bist"],
+    answer: ["Ich wünsche mir, du wärst hier"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Ergänze: 'Ich _____ dir helfen, wenn ich könnte.'",
+    type: "typing",
+    answer: ["würde", "könnte"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Konjunktiv II von 'dürfen': 'Ich _____ gerne spielen, wenn es erlaubt wäre.'",
+    type: "mcq",
+    options: ["darf", "dürfe", "dürfte", "würde dürfen"],
+    answer: ["dürfte"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Höfliche Aufforderung: 'Du _____ mir vielleicht helfen?'",
+    type: "typing",
+    answer: ["würdest", "könntest"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Was ist die Funktion von Konjunktiv II: 'Wenn ich Flügel hätte, würde ich fliegen.'?",
+    type: "mcq",
+    options: ["Tatsache", "höfliche Bitte", "irreal (unmögliche Bedingung)", "Befehl"],
+    answer: ["irreal (unmögliche Bedingung)"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Bilde Konjunktiv II: 'Es _____ gut, wenn du mitkommen könntest.'",
+    type: "typing",
+    answer: ["wäre"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Forme in Konjunktiv II um: 'Du machst Hausaufgaben, aber du magst nicht.'",
+    type: "mcq",
+    options: ["Du würdest Hausaufgaben machen, wenn du könntest", "Du würdest Hausaufgaben machen, aber du magst nicht", "Du machtest Hausaufgaben, aber du möchtest nicht", "Du machst Hausaufgaben gerne"],
+    answer: ["Du würdest Hausaufgaben machen, wenn du könntest"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Ergänze: 'Ich _____ zum Mond fliegen, wenn es möglich wäre.'",
+    type: "typing",
+    answer: ["würde", "könnte"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Konjunktiv II — welche Aussage ist korrekt?",
+    type: "mcq",
+    options: ["wird für Befehle verwendet", "wird für Wünsche und irreal Bedingungen verwendet", "ist gleichbedeutend mit Präteritum", "wird nur in Fragen verwendet"],
+    answer: ["wird für Wünsche und irreal Bedingungen verwendet"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Höflich: 'Ihr _____ bitte kommen?' (Konjunktiv II)",
+    type: "typing",
+    answer: ["würdet", "könntet"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Bilde einen Konditionalsatz im Konjunktiv II: 'Wenn das Wetter schön wäre, ...'",
+    type: "mcq",
+    options: ["würden wir ins Freibad gehen", "gehen wir ins Freibad", "wir gingen ins Freibad", "wir gehen ins Freibad"],
+    answer: ["würden wir ins Freibad gehen"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Ergänze die Wunschform: 'Ich wünsch mir, du _____ hier bei mir.'",
+    type: "typing",
+    answer: ["wärst"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Konjunktiv II von 'sollen': 'Du _____ leiser sein, wenn ich konzentrieren würde.'",
+    type: "mcq",
+    options: ["sollst", "solltest", "würdest sollen", "sollst"],
+    answer: ["solltest"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Höfliche Form: 'Sie _____ mir vielleicht ein Glas Wasser bringen?'",
+    type: "typing",
+    answer: ["würden", "könnten"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Was ist das Merkmal des Konjunktiv II?",
+    type: "mcq",
+    options: ["wird für Gegenwart verwendet", "drückt Unwirklichkeit oder Höflichkeit aus", "ist eine Imperativform", "wird nur in Nebensätzen verwendet"],
+    answer: ["drückt Unwirklichkeit oder Höflichkeit aus"],
+  },
+  {
+    subtopic: "konjunktiv2_k5",
+    question: "Bilde Konjunktiv II: 'Wenn ich klüger _____, würde ich nicht so viele Fehler machen.'",
+    type: "typing",
+    answer: ["wäre"],
+  },
+
+  // ===== MODALVERBEN_K5 (30 questions) =====
+  {
+    subtopic: "modalverben_k5",
+    question: "Was bedeutet 'dürfen': 'Du darfst ins Kino gehen.'?",
+    type: "mcq",
+    options: ["Pflicht", "Fähigkeit", "Erlaubnis", "Wunsch"],
+    answer: ["Erlaubnis"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Ergänze die richtige Modalverb: 'Ich _____ Deutsch sprechen.' (Fähigkeit)",
+    type: "typing",
+    answer: ["kann"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Welches Modalverb drückt Notwendigkeit aus: 'Ich _____ heute arbeiten.'",
+    type: "mcq",
+    options: ["kann", "darf", "muss", "möchte"],
+    answer: ["muss"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Bilde Präteritum von 'müssen': 'Ich _____ gestern aufräumen.'",
+    type: "typing",
+    answer: ["musste"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Was bedeutet 'sollen': 'Du sollst dein Zimmer aufräumen.'?",
+    type: "mcq",
+    options: ["Erlaubnis", "Fähigkeit", "äußere Obligation/Auftrag", "Wunsch"],
+    answer: ["äußere Obligation/Auftrag"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Ergänze: 'Du _____ hier nicht rauchen.' (Verbot/keine Erlaubnis)",
+    type: "typing",
+    answer: ["darfst nicht"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Welches Modalverb drückt einen Wunsch aus: 'Ich _____ nach Italien fahren.'",
+    type: "mcq",
+    options: ["muss", "kann", "will", "soll"],
+    answer: ["will"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Präteritum von 'können': 'Der Junge _____ nicht schwimmen.'",
+    type: "typing",
+    answer: ["konnte"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Was drückt 'möchte' aus: 'Ich möchte ein Eis essen.'?",
+    type: "mcq",
+    options: ["Müssen", "Können", "höflicher Wunsch", "Verbot"],
+    answer: ["höflicher Wunsch"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Präteritum von 'dürfen': 'Die Kinder _____ spielen.'",
+    type: "typing",
+    answer: ["durften"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Unterschied: 'Ich muss' vs. 'Ich soll' — Welche Aussage passt?",
+    type: "mcq",
+    options: ["muss = Wunsch, soll = Notwendigkeit", "muss = Notwendigkeit, soll = äußere Verpflichtung", "muss = Erlaubnis, soll = Verbot", "beide bedeuten das Gleiche"],
+    answer: ["muss = Notwendigkeit, soll = äußere Verpflichtung"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Präteritum von 'wollen': 'Er _____ zum Fußballspiel gehen.'",
+    type: "typing",
+    answer: ["wollte"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Welches Modalverb passt: 'Er _____ Arzt werden.' (Wunsch)",
+    type: "mcq",
+    options: ["muss", "soll", "will", "kann"],
+    answer: ["will"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Präteritum von 'sollen': 'Sie _____ zum Unterricht kommen.'",
+    type: "typing",
+    answer: ["sollte"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Was ist der Unterschied zwischen 'können' und 'dürfen'?",
+    type: "mcq",
+    options: ["können = Fähigkeit, dürfen = Erlaubnis", "können = Erlaubnis, dürfen = Fähigkeit", "bedeuten das Gleiche", "können = Notwendigkeit, dürfen = Wunsch"],
+    answer: ["können = Fähigkeit, dürfen = Erlaubnis"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Präteritum von 'mögen': 'Das Baby _____ keine Milch.'",
+    type: "typing",
+    answer: ["mochte"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Welches Modalverb passt: 'Sie _____ mir einen Gefallen tun.' (höfliche Bitte)",
+    type: "mcq",
+    options: ["muss", "soll", "kann", "will"],
+    answer: ["kann"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Ergänze: 'Der Schüler _____ seine Hausaufgaben nicht machen, weil er krank war.'",
+    type: "typing",
+    answer: ["konnte"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Welches ist die Präteritum-Form von 'müssen'?",
+    type: "mcq",
+    options: ["müsste", "musste", "muss", "gemessen"],
+    answer: ["musste"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Ergänze mit 'möchte': 'Ich _____ einen Kaffee, bitte.'",
+    type: "typing",
+    answer: ["möchte"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Unterschied zwischen 'will' und 'möchte' — Welche Aussage ist richtig?",
+    type: "mcq",
+    options: ["will = höflich, möchte = direkt", "will = direkt/entschieden, möchte = höflich", "bedeuten das Gleiche", "will = Notwendigkeit, möchte = Wunsch"],
+    answer: ["will = direkt/entschieden, möchte = höflich"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Präteritum von 'dürfen': 'Sie _____ das Haus verlassen.'",
+    type: "typing",
+    answer: ["durften"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Welches Modalverb drückt Möglichkeit aus: 'Das _____ passieren.'",
+    type: "mcq",
+    options: ["muss", "soll", "kann", "will"],
+    answer: ["kann"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Präteritum von 'können': 'Wir _____ nicht ins Schwimmbad gehen.'",
+    type: "typing",
+    answer: ["konnten"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Welches Modalverb passt: 'Du _____ die Regeln befolgen.' (äußerer Auftrag)",
+    type: "mcq",
+    options: ["kannst", "musst", "sollst", "willst"],
+    answer: ["sollst"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Ergänze mit 'sollen': 'Die Schüler _____ den Text lesen.'",
+    type: "typing",
+    answer: ["sollen"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Präteritum-Form: 'Ich _____ (wollen) dich anrufen, aber ich vergass.'",
+    type: "mcq",
+    options: ["will", "wollte", "wolle", "wolltest"],
+    answer: ["wollte"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Ergänze: 'Du _____ kein Obst essen, wenn du Bauchschmerzen hast.'",
+    type: "typing",
+    answer: ["darfst nicht", "sollst nicht"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Welches Modalverb ist hier richtig: 'Es _____ morgen regnen.' (Möglichkeit)",
+    type: "mcq",
+    options: ["muss", "soll", "kann", "will"],
+    answer: ["kann"],
+  },
+  {
+    subtopic: "modalverben_k5",
+    question: "Präteritum von 'sollen': 'Ich _____ die Aufgaben machen, aber ich konnte nicht.'",
+    type: "typing",
+    answer: ["sollte"],
+  },
+
+  // ===== UNREGELMAESSIGE_K5 (30 questions) =====
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Präteritum von 'laufen': 'Der Junge _____ schnell nach Hause.'",
+    type: "mcq",
+    options: ["laufte", "lief", "läufte", "gelaufen"],
+    answer: ["lief"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Partizip II von 'schreiben': 'Ich habe einen Brief _____.'",
+    type: "typing",
+    answer: ["geschrieben"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Präteritum von 'sehen': 'Wir _____ einen schönen Vogel im Garten.'",
+    type: "mcq",
+    options: ["sahen", "sehen", "sahten", "sah"],
+    answer: ["sahen"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Partizip II von 'geben': 'Sie hat mir ein Geschenk _____.'",
+    type: "typing",
+    answer: ["gegeben"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Präteritum von 'nehmen': 'Er _____ das Buch aus dem Regal.'",
+    type: "mcq",
+    options: ["nahm", "nahte", "nimmte", "nahmen"],
+    answer: ["nahm"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Partizip II von 'fahren': 'Wir sind mit dem Auto _____.'",
+    type: "typing",
+    answer: ["gefahren"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Präteritum von 'sprechen': 'Die Lehrerin _____ mit dem Schüler.'",
+    type: "mcq",
+    options: ["sprechte", "sprach", "spricht", "sprechen"],
+    answer: ["sprach"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Partizip II von 'bleiben': 'Wir sind im Hotel _____.'",
+    type: "typing",
+    answer: ["geblieben"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Präteritum von 'essen': 'Das Kind _____ einen Apfel.'",
+    type: "mcq",
+    options: ["aß", "isste", "eßte", "essen"],
+    answer: ["aß"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Partizip II von 'finden': 'Ich habe meinen Schlüssel _____.'",
+    type: "typing",
+    answer: ["gefunden"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Präteritum von 'helfen': 'Das Mädchen _____ der alten Frau.'",
+    type: "mcq",
+    options: ["halfe", "half", "hülf", "hilfte"],
+    answer: ["half"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Partizip II von 'kommen': 'Sie sind um 8 Uhr _____.'",
+    type: "typing",
+    answer: ["gekommen"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Präteritum von 'halten': 'Der Schüler _____ seine Hand hoch.'",
+    type: "mcq",
+    options: ["hälte", "hielt", "halted", "halt"],
+    answer: ["hielt"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Partizip II von 'rufen': 'Ich habe dich _____.'",
+    type: "typing",
+    answer: ["gerufen"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Präteritum von 'tragen': 'Das Mädchen _____ ein rotes Kleid.'",
+    type: "mcq",
+    options: ["tragte", "trug", "truge", "trugen"],
+    answer: ["trug"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Partizip II von 'laufen': 'Die Sportler sind schnell _____.'",
+    type: "typing",
+    answer: ["gelaufen"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Ist 'laufen' ein regelmäßiges oder unregelmäßiges Verb?",
+    type: "mcq",
+    options: ["regelmäßig", "unregelmäßig", "gemischter Typ", "schwaches Verb"],
+    answer: ["unregelmäßig"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Präteritum von 'schreiben': 'Der Schüler _____ eine Geschichte.'",
+    type: "typing",
+    answer: ["schrieb"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Partizip II von 'sehen': 'Hast du den Film _____?'",
+    type: "mcq",
+    options: ["seehen", "gesehen", "sehen", "sah"],
+    answer: ["gesehen"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Präteritum von 'geben': 'Die Mutter _____ dem Kind Geld.'",
+    type: "typing",
+    answer: ["gab"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Partizip II von 'nehmen': 'Er hat das Buch _____.'",
+    type: "mcq",
+    options: ["nahmen", "genommen", "nehmmen", "angenommen"],
+    answer: ["genommen"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Präteritum von 'fahren': 'Das Auto _____ auf der Straße.'",
+    type: "typing",
+    answer: ["fuhr"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Partizip II von 'sprechen': 'Wir haben lange _____.'",
+    type: "mcq",
+    options: ["gesprachen", "gesprochen", "sprechne", "sprochte"],
+    answer: ["gesprochen"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Präteritum von 'bleiben': 'Wir _____ im Hotel.'",
+    type: "typing",
+    answer: ["blieben"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Partizip II von 'essen': 'Hast du genug _____?'",
+    type: "mcq",
+    options: ["geesste", "gegessen", "essent", "aß"],
+    answer: ["gegessen"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Präteritum von 'finden': 'Ich _____ mein Telefon in der Tasche.'",
+    type: "typing",
+    answer: ["fand"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Partizip II von 'helfen': 'Die Nachbarin hat mir _____.'",
+    type: "mcq",
+    options: ["gehelft", "geholfen", "helfen", "halfe"],
+    answer: ["geholfen"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Präteritum von 'kommen': 'Die Gäste _____ pünktlich an.'",
+    type: "typing",
+    answer: ["kamen"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Partizip II von 'halten': 'Ich habe das Buch _____.'",
+    type: "mcq",
+    options: ["gehalten", "hälten", "gehälten", "haltet"],
+    answer: ["gehalten"],
+  },
+  {
+    subtopic: "unregelmaessige_k5",
+    question: "Präteritum von 'rufen': 'Der Lehrer _____ die Schüler an die Tafel.'",
+    type: "typing",
+    answer: ["rief"],
+  },] as any[];
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const K5_WORTSCHATZ_EXP_Q = [// ========== MEDIEN_K5 (30 questions) ==========
+
+  // MCQ questions for medien_k5
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist eine Suchmaschine?",
+    options: [
+      "Ein Programm zum Suchen von Informationen im Internet",
+      "Ein Werkzeug zum Reparieren von Computern",
+      "Ein Gerät zum Drucken von Papier",
+      "Ein Spiel für Smartphones"
+    ],
+    correct: 0,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist ein Passwort?",
+    options: [
+      "Ein Wort zum Öffnen deines Hauses",
+      "Ein geheimes Wort zum Schutz deines Accounts",
+      "Eine Dokumentdatei auf dem Computer",
+      "Ein Video-Format im Internet"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Welches Wort bedeutet 'ein Video ins Internet hochstellen'?",
+    options: [
+      "Herunterladen",
+      "Hochladen",
+      "Abspeichern",
+      "Drucken"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist ein Browser?",
+    options: [
+      "Ein Drucker für Bilder",
+      "Ein Programm zum Surfen im Internet",
+      "Eine Festplatte für Daten",
+      "Ein Bildschirm mit Tastatur"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist eine Website?",
+    options: [
+      "Ein Platz auf der Straße",
+      "Eine Seite mit Informationen im Internet",
+      "Ein Ordner auf der Festplatte",
+      "Ein Video-Stream-Dienst"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Welches Gerät brauchst du, um einen Text auszudrucken?",
+    options: [
+      "Eine Maus",
+      "Einen Monitor",
+      "Einen Drucker",
+      "Ein Netzwerk"
+    ],
+    correct: 2,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist ein Benutzername?",
+    options: [
+      "Ein Name für dein Haustier",
+      "Ein Name, unter dem man einen Account kennt",
+      "Ein Titel für einen Lehrer",
+      "Ein Spitzname für Freunde"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist ein Kommentar im Internet?",
+    options: [
+      "Ein Bericht der Schule",
+      "Eine schriftliche Äußerung oder Meinung unter einem Beitrag",
+      "Ein Video auf YouTube",
+      "Eine Nachricht von der Polizei"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Spam?",
+    options: [
+      "Ein englisches Fleisch-Produkt",
+      "Unerwünschte E-Mails oder Nachrichten",
+      "Eine Einstellung auf dem Computer",
+      "Ein Videospiel"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist ein Virus (im Zusammenhang mit Computern)?",
+    options: [
+      "Eine Krankheit für Menschen",
+      "Ein böses Programm, das den Computer schädigt",
+      "Ein Spiel auf dem Smartphone",
+      "Ein Netzwerk-Verbinder"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist WLAN?",
+    options: [
+      "Ein Videoformat",
+      "Ein drahtloses Netzwerk für Internet",
+      "Ein Bildschirm-Typ",
+      "Ein Drucker-Modell"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Welches Wort bedeutet 'das Gegenteil von hochladen'?",
+    options: [
+      "Abspeichern",
+      "Hochfahren",
+      "Herunterladen",
+      "Ausdrucken"
+    ],
+    correct: 2,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist ein App?",
+    options: [
+      "Eine Ferienbescheinigung",
+      "Eine kleine Anwendung auf deinem Smartphone",
+      "Ein Online-Spiel",
+      "Ein Internetbrowser"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist eine Datei?",
+    options: [
+      "Eine Schublade im Schreibtisch",
+      "Ein gespeichertes Dokument oder Programm auf dem Computer",
+      "Ein Internet-Browser",
+      "Ein Drucker"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist ein Profil im Internet?",
+    options: [
+      "Eine Seite mit deinen persönlichen Informationen",
+      "Ein Werkzeug zum Zeichnen",
+      "Eine Art Computer-Virus",
+      "Ein Video-Format"
+    ],
+    correct: 0,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist ein Account?",
+    options: [
+      "Ein Schrank im Schlafzimmer",
+      "Ein Benutzerkonto bei einem Online-Service",
+      "Ein Video-Player",
+      "Ein Spiel für zwei Personen"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist ein Bildschirm?",
+    options: [
+      "Ein Fenster-Gitter aus Stoff",
+      "Das Display, auf dem du Bilder und Videos siehst",
+      "Ein Drucker",
+      "Ein Netzwerk-Adapter"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist eine Tastatur?",
+    options: [
+      "Ein Musikinstrument",
+      "Das Gerät mit Tasten zum Schreiben am Computer",
+      "Ein Video-Editor",
+      "Eine Art Passwort"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist eine Maus (beim Computer)?",
+    options: [
+      "Ein kleines Tier",
+      "Das Gerät zum Anklicken und Bewegen auf dem Bildschirm",
+      "Ein Video-Format",
+      "Eine Art Monitor"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Hardware?",
+    options: [
+      "Eine Video-Datei",
+      "Die physischen Komponenten des Computers",
+      "Ein Internet-Netzwerk",
+      "Ein Spiele-Programm"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Software?",
+    options: [
+      "Ein Tuch für den Monitor",
+      "Die Programme und Anwendungen, die auf dem Computer laufen",
+      "Ein Art Virus",
+      "Ein drahtloses Netzwerk"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Streaming?",
+    options: [
+      "Das Speichern von Daten",
+      "Das Abspielen von Musik oder Videos direkt vom Internet",
+      "Das Löschen von Dateien",
+      "Das Drucken von Bildern"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist ein Podcast?",
+    options: [
+      "Ein Telefonanruf",
+      "Eine Serie von Audio- oder Video-Dateien zum Herunterladen",
+      "Ein Computer-Programm",
+      "Ein Passwort"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist ein Beitrag in sozialen Netzwerken?",
+    options: [
+      "Ein Schulreferrat",
+      "Eine Geldspende",
+      "Ein Post mit Text, Bildern oder Videos auf sozialen Medien",
+      "Ein Video-Tutorial"
+    ],
+    correct: 2,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist ein Ordner (beim Computer)?",
+    options: [
+      "Ein Umschlag für Papier",
+      "Ein virtueller Container zum Speichern von Dateien",
+      "Ein Internet-Browser",
+      "Ein Musikprogramm"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Welches Wort bedeutet 'Abonnement' im Internet?",
+    options: [
+      "Download",
+      "Abo - ein regelmäßiger Dienst, den man kauft",
+      "Upload",
+      "Passwort"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Datenschutz?",
+    options: [
+      "Ein Spiel",
+      "Der Schutz deiner persönlichen Daten und Privatsphäre",
+      "Ein Video-Format",
+      "Ein Virus-Programm"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist ein Newsletter?",
+    options: [
+      "Ein Schulnewspapier",
+      "Eine regelmäßige E-Mail mit aktuellen Informationen",
+      "Ein Video-Programm",
+      "Ein Computerspiel"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "typing",
+    question: "Wie heißt das Gerät mit Tasten zum Schreiben am Computer?",
+    answer: ["Tastatur", "tastatur"]
+  },
+  {
+    subtopic: "medien_k5",
+    topic: "wortschatz_k5_erw",
+    type: "typing",
+    question: "Wie heißt das drahtlose Netzwerk für Internet (Abkürzung)?",
+    answer: ["WLAN", "wlan", "WiFi", "wifi"]
+  },
+
+  // ========== UMWELT_K5 (30 questions) ==========
+
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Klimawandel?",
+    options: [
+      "Das normale Wechseln der Jahreszeiten",
+      "Die schnelle Erwärmung der Erde durch Treibhausgase",
+      "Ein Sturm im Sommer",
+      "Das Schmelzen von Schnee"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was sind Treibhausgase?",
+    options: [
+      "Gase, die Pflanzen essen",
+      "Gase, die die Wärme der Sonne zurückhalten und die Erde erwärmen",
+      "Gase aus Autos, die harmlos sind",
+      "Gase, die den Himmel grün machen"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist CO2?",
+    options: [
+      "Ein Kunstmaterial",
+      "Kohlendioxid - ein Treibhausgas",
+      "Ein Insektizid",
+      "Ein Vitaminkomplex"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Recycling?",
+    options: [
+      "Das Waschen von Müll",
+      "Das Wiederverarbeiten von Abfällen zu neuen Produkten",
+      "Das Verbrennen von Papier",
+      "Das Vergraben von Müll"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Mülltrennung?",
+    options: [
+      "Das Entfernen von Müll aus der Stadt",
+      "Das Sortieren von Müll nach Arten wie Papier, Glas und Kunststoff",
+      "Das Verbrennen von Müll",
+      "Das Werfen von Müll weg"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist erneuerbare Energie?",
+    options: [
+      "Energie aus Kohle",
+      "Energie, die aus natürlichen Quellen kommt und sich erneuert (z.B. Sonne, Wind)",
+      "Energie aus Atomkraft",
+      "Energie aus Benzin"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Solarenergie?",
+    options: [
+      "Energie aus Wasser",
+      "Energie, die von der Sonne kommt",
+      "Energie aus Erdöl",
+      "Energie aus Kohle"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Windenergie?",
+    options: [
+      "Energie aus dem Regen",
+      "Energie, die vom Wind erzeugt wird",
+      "Energie aus Blitzen",
+      "Energie aus Erdwärme"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Nachhaltigkeit?",
+    options: [
+      "Ein langer Weg",
+      "Das Leben so, dass die Umwelt und Ressourcen geschützt bleiben",
+      "Ein neues Auto",
+      "Ein Regenschauer"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Umweltschutz?",
+    options: [
+      "Das Schützen von Häusern",
+      "Das Schützen der Natur und Umwelt vor Verschmutzung",
+      "Das Anpflanzen von Bäumen",
+      "Das Bauen von Parks"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist eine Biotonne?",
+    options: [
+      "Ein großer Lagerbereich",
+      "Eine Tonne für organische Abfälle wie Küchenreste und Gartenabfälle",
+      "Ein Behälter für Kunststoff",
+      "Ein Baumaterial"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Plastikmüll?",
+    options: [
+      "Müll aus Papier",
+      "Müll aus Kunststoff, der schwer zu recyclen ist",
+      "Müll aus Glas",
+      "Müll aus Metall"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Erderwärmung?",
+    options: [
+      "Der Temperaturanstieg bei Fieber",
+      "Das Schmelzen von Schnee im Frühjahr",
+      "Die Erwärmung der Erde aufgrund von Treibhausgasen",
+      "Eine natürliche Änderung des Klimas"
+    ],
+    correct: 2,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist die Ozonschicht?",
+    options: [
+      "Eine Schicht Öl in der Luft",
+      "Eine Gasschicht hoch oben, die die Erde vor UV-Strahlen schützt",
+      "Eine Wolkenart",
+      "Ein Phänomen in der Sonne"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Abholzung?",
+    options: [
+      "Das Hinzufügen von Bäumen",
+      "Das Schlag großer Waldflächen ohne sie wieder aufzuforsten",
+      "Das Schneiden einzelner Äste",
+      "Das Sammeln von Holz zum Heizen"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Artenschutz?",
+    options: [
+      "Das Schützen von Kunstwerken",
+      "Das Schützen von bedrohten Tier- und Pflanzenarten",
+      "Das Ausbilden von Sportlern",
+      "Das Bauen von Zoos"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist ein Naturschutzgebiet?",
+    options: [
+      "Ein Gebiet mit vielen Menschen",
+      "Ein geschütztes Gebiet, in dem die Natur frei gedeihen kann",
+      "Ein Amusement Park",
+      "Ein Garten mit exotischen Pflanzen"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist ein Elektroauto?",
+    options: [
+      "Ein Auto mit sehr hellem Licht",
+      "Ein Auto, das mit elektrischem Strom statt Benzin fährt",
+      "Ein Auto mit elektronischem Fenster",
+      "Ein schneller Rennwagen"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Kompost?",
+    options: [
+      "Ein Kunstwerk",
+      "Verrottete organische Stoffe, die als natürlicher Dünger dienen",
+      "Ein Musikstück",
+      "Ein Gartenwerkzeug"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist eine Fahrgemeinschaft?",
+    options: [
+      "Eine Radtour mit Freunden",
+      "Mehrere Menschen fahren zusammen in einem Auto",
+      "Ein Auto-Rennteam",
+      "Ein öffentlicher Busverkehr"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet Energiesparen?",
+    options: [
+      "Kein Licht zu benutzen",
+      "Weniger Energie verbrauchen, z.B. durch Ausschalten von Geräten",
+      "Keine Heizung im Winter",
+      "Immer im Dunkeln leben"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet Wassersparen?",
+    options: [
+      "Wasser zu sammeln",
+      "Weniger Wasser verbrauchen, z.B. beim Duschen und Zähneputzen",
+      "Wasser in Flaschen zu lagern",
+      "Wasser nicht zu trinken"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist eine Verpackung?",
+    options: [
+      "Ein Geschenk",
+      "Die Hülle um ein Produkt zum Schutz und Transport",
+      "Ein Paket zur Post",
+      "Ein leeres Behältnis"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Einwegplastik?",
+    options: [
+      "Kunststoff, der lange hält",
+      "Kunststoff-Produkte, die nur einmal verwendet und weggeworfen werden",
+      "Kunststoff aus Pflanzen",
+      "Kunststoff-Schmuck"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist eine Mehrwegflasche?",
+    options: [
+      "Eine große Wasserflasche",
+      "Eine Flasche, die mehrfach verwendet, gereinigt und wiederbefüllt wird",
+      "Eine zerbrechliche Flasche",
+      "Eine Flasche ohne Deckel"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was sind Emissionen?",
+    options: [
+      "Funkwellen aus der Luft",
+      "Gase und Partikel, die aus Autos und Fabriken in die Luft kommen",
+      "Wasser aus Seen",
+      "Schmutz auf dem Boden"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist eine Flut?",
+    options: [
+      "Ein Regenband",
+      "Eine Überschwemmung von Land durch zu viel Wasser",
+      "Ein Sturm",
+      "Ein Hochwasser nur im Winter"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist eine Dürre?",
+    options: [
+      "Eine Regenperiode",
+      "Eine lange Periode ohne Regen, die Trockenheit verursacht",
+      "Ein kalter Winter",
+      "Ein neblig Tag"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "typing",
+    question: "Wie heißt das Schmelzen von Gebirgs- und Polargletschern?",
+    answer: ["Gletscherschmelze", "gletscherschmelze", "Schmelze"]
+  },
+  {
+    subtopic: "umwelt_k5",
+    topic: "wortschatz_k5_erw",
+    type: "typing",
+    question: "Wie heißt die Wiederverarbeitung alter Materialien zu neuen Produkten?",
+    answer: ["Recycling", "recycling", "Recyceln"]
+  },
+
+  // ========== GEFUEHLE_K5 (30 questions) ==========
+
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Welches Gefühl bedeutet Ärger oder Zorn?",
+    options: [
+      "Begeisterung",
+      "Wütend",
+      "Dankbar",
+      "Vergnügt"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Wie fühlt sich jemand, der nicht bekommen hat, was er wollte?",
+    options: [
+      "Erleichtert",
+      "Stolz",
+      "Enttäuscht",
+      "Neugierig"
+    ],
+    correct: 2,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'begeistert'?",
+    options: [
+      "Müde und langweilig",
+      "Sehr daran interessiert oder enthusiastisch",
+      "Verwirrt",
+      "Angespannt"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Wie fühlt sich jemand, der sehr über ein Unrecht aufgeregt ist?",
+    options: [
+      "Dankbar",
+      "Empört",
+      "Erleichtert",
+      "Neugierig"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Welches Gefühl hat man, wenn ein Problem gelöst ist?",
+    options: [
+      "Angst",
+      "Neid",
+      "Erleichtert",
+      "Verachtung"
+    ],
+    correct: 2,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Neid?",
+    options: [
+      "Eine Angststörung",
+      "Das Gefühl, das zu haben, was jemand anderes hat",
+      "Traurigkeit",
+      "Verwirrung"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Wie fühlt sich jemand vor etwas Gefährlichem?",
+    options: [
+      "Stolz",
+      "Ängstlich",
+      "Vergnügt",
+      "Neugierig"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'stolz sein'?",
+    options: [
+      "Sich schämen für etwas",
+      "Sich gut fühlen wegen einer Leistung oder Eigenschaft",
+      "Angst haben",
+      "Verwirrung zeigen"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Wie fühlt sich jemand, der etwas Falsches getan hat?",
+    options: [
+      "Dankbar",
+      "Vergnügt",
+      "Beschämt",
+      "Neugierig"
+    ],
+    correct: 2,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist gleichgültig?",
+    options: [
+      "Sehr interessiert",
+      "Nicht interessiert oder nicht besorgt",
+      "Voller Energie",
+      "Voller Hoffnung"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Wie fühlt sich jemand, der vor vielen Menschen sprechen soll?",
+    options: [
+      "Stolz",
+      "Verlegen",
+      "Erleichtert",
+      "Begeistert"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'neugierig'?",
+    options: [
+      "Müde",
+      "Ein starkes Interesse oder Verlangen zu wissen oder zu erforschen",
+      "Angespannt",
+      "Verwirrt"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Eifersucht?",
+    options: [
+      "Ein Musikinstrument",
+      "Das Gefühl, dass Rivalen die Aufmerksamkeit oder Liebe wegnehmen",
+      "Eine Krankheit",
+      "Ein Schmerz"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Wie fühlt sich jemand, wenn alles hoffnungslos ist?",
+    options: [
+      "Begeistert",
+      "Dankbar",
+      "Verzweifelt",
+      "Stolz"
+    ],
+    correct: 2,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Welches Gefühl zeigt man, wenn man jemandem dankt?",
+    options: [
+      "Wütend",
+      "Dankbar",
+      "Ängstlich",
+      "Neidisch"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'mutlos'?",
+    options: [
+      "Sehr mutig",
+      "Ohne Mut oder Hoffnung, von Angst beherrscht",
+      "Verlegen",
+      "Begeistert"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist eine optimistische Person?",
+    options: [
+      "Jemand, der immer traurig ist",
+      "Jemand, der glaubt, dass Dinge gut ausgehen werden",
+      "Jemand, der andere nicht vertraut",
+      "Jemand, der schnell aufgibt"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist eine pessimistische Person?",
+    options: [
+      "Jemand, der sehr mutig ist",
+      "Jemand, der glaubt, dass Dinge schlecht enden werden",
+      "Jemand, der andere hilft",
+      "Jemand, der viel lacht"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Wie fühlt sich jemand vor etwas Aufregendem?",
+    options: [
+      "Gleichgültig",
+      "Aufgeregt",
+      "Erschöpft",
+      "Beschämt"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Wie fühlt sich jemand nach viel Anstrengung?",
+    options: [
+      "Begeistert",
+      "Neugierig",
+      "Erschöpft",
+      "Aufgeregt"
+    ],
+    correct: 2,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'streiten'?",
+    options: [
+      "Zusammen ein Spiel spielen",
+      "Miteinander in Konflikt sein oder argumentieren",
+      "Gemeinsam lachen",
+      "Zusammen essen"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'sich entschuldigen'?",
+    options: [
+      "Eine Ausrede machen",
+      "Sagen, dass man leid tut, etwas getan zu haben",
+      "Wegrennen von jemandem",
+      "Anderen beschuldigen"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist ein Missverständnis?",
+    options: [
+      "Ein Gespräch zwischen Freunden",
+      "Wenn zwei Menschen das Gleiche falsch verstehen",
+      "Ein Argument über Politik",
+      "Ein lustiger Witz"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'zuhören'?",
+    options: [
+      "Über andere sprechen",
+      "Die Ohren zuhöhlen",
+      "Aufmerksam hören und verstehen, was jemand sagt",
+      "Musik spielen"
+    ],
+    correct: 2,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'kritisieren'?",
+    options: [
+      "Etwas loben",
+      "Einen Fehler oder Schwäche zeigen",
+      "Gemeinsam arbeiten",
+      "Eine Geschichte erzählen"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'loben'?",
+    options: [
+      "Etwas kritisieren",
+      "Positive Worte über etwas oder jemanden sagen",
+      "Eine Frage stellen",
+      "Ein Lied singen"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist Feedback?",
+    options: [
+      "Eine Futtermittel",
+      "Rückmeldung oder Meinung über etwas",
+      "Ein Musikstil",
+      "Ein Computerspiel"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was ist ein Kompromiss?",
+    options: [
+      "Ein Streit zwischen zwei Parteien",
+      "Eine Einigung, bei der beide Seiten etwas aufgeben, um Frieden zu finden",
+      "Ein Spielzeug",
+      "Ein Geheimnis"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "typing",
+    question: "Welches Gefühl zeigt man, wenn man jemanden überzeug hat?",
+    answer: ["Stolz", "stolz", "Zufriedenheit"]
+  },
+  {
+    subtopic: "gefuehle_k5",
+    topic: "wortschatz_k5_erw",
+    type: "typing",
+    question: "Wie nennt man das Sprechen zwischen zwei oder mehr Personen?",
+    answer: ["Verhandlung", "verhandlung", "Diskussion", "diskussion"]
+  },
+
+  // ========== REDEWENDUNGEN_K5 (30 questions) ==========
+
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'ins Fettnäpfchen treten'?",
+    options: [
+      "Mit Öl auf dem Boden rutschten",
+      "Etwas Ungeschicktes oder Unangenehmes sagen",
+      "In eine Grube fallen",
+      "Mit nassen Füßen spazieren"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'Daumen drücken'?",
+    options: [
+      "Jemanden mit dem Daumen zu drücken",
+      "Jemandem Glück zu wünschen",
+      "Eine Hand zu pressen",
+      "Etwas zu schreiben"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'auf dem Holzweg sein'?",
+    options: [
+      "Auf einem Waldpfad zu laufen",
+      "Auf der falschen Spur oder im Irrtum zu sein",
+      "Mit einem Holzwagen zu fahren",
+      "Eine Holzplattform zu bauen"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'die Nase voll haben'?",
+    options: [
+      "Eine Erkältung zu haben",
+      "Schnell zu riechender Nase",
+      "Genug von etwas zu haben und es nicht mehr zu wollen",
+      "Eine breite Nase zu haben"
+    ],
+    correct: 2,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'jemandem auf den Schlips treten'?",
+    options: [
+      "Mit dem Fuß auf die Krawatte zu treten",
+      "Jemanden versehentlich zu beleidigen oder zu verletzen",
+      "Eine Krawatte zu beschädigen",
+      "Jemanden zu schieben"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'zwei Fliegen mit einer Klappe schlagen'?",
+    options: [
+      "Zwei Insekten zu töten",
+      "Mit einer Hand zwei Dinge zu greifen",
+      "Zwei Ziele mit einer Aktion zu erreichen",
+      "Eine Tür mit einer Hand zu schließen"
+    ],
+    correct: 2,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'unter vier Augen'?",
+    options: [
+      "Mit zwei blinden Personen zu sprechen",
+      "Mit drei anderen Personen zu sprechen",
+      "Unter vier Personen zu sein",
+      "In privater, vertraulicher Runde zu sprechen"
+    ],
+    correct: 3,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'jemanden auf die Palme bringen'?",
+    options: [
+      "Jemanden unter einen Baum zu bringen",
+      "Jemanden zum Lachen zu bringen",
+      "Jemanden sehr zu ärgern oder zu reizen",
+      "Jemanden zu beruhigen"
+    ],
+    correct: 2,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'den Kopf in den Sand stecken'?",
+    options: [
+      "Den Kopf wirklich in Sand zu stecken",
+      "Probleme zu ignorieren und so zu tun, als existieren sie nicht",
+      "Am Strand zu spielen",
+      "Den Strand zu besuchen"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'auf eigenen Beinen stehen'?",
+    options: [
+      "Mit Krücken zu gehen",
+      "Sich selbst zu versorgen und unabhängig zu sein",
+      "Sehr lange zu stehen",
+      "Mit beiden Beinen zu laufen"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet das Sprichwort 'Übung macht den Meister'?",
+    options: [
+      "Meister sind perfekt von Anfang an",
+      "Regelmäßiges Üben führt zu Verbesserung und Perfektion",
+      "Nur ein Meister kann üben",
+      "Übung ist nutzlos"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'Morgenstund hat Gold im Mund'?",
+    options: [
+      "Morgens findet man Gold in der Erde",
+      "Das Aufwachen früh ist wertvoll und produktiv",
+      "Der Morgen schmeckt süß",
+      "Jeden Morgen gibt es Geld"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Was bedeutet 'Wer suchet, der findet'?",
+    options: [
+      "Suchen ist anstrengend",
+      "Das Suchen führt zu Ergebnissen",
+      "Nur verlorene Dinge können gefunden werden",
+      "Niemand findet etwas"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Welche Idiomatik gehört zu 'Glück wünschen'?",
+    options: [
+      "Die Nase voll haben",
+      "Daumen drücken",
+      "Den Kopf in den Sand stecken",
+      "Auf dem Holzweg sein"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Welche Idiomatik beschreibt 'unabhängig sein'?",
+    options: [
+      "Auf eigenen Beinen stehen",
+      "Die Nase voll haben",
+      "Auf der Palme bringen",
+      "Ins Fettnäpfchen treten"
+    ],
+    correct: 0,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Welche Idiomatik beschreibt 'sich ärgern'?",
+    options: [
+      "Daumen drücken",
+      "Auf die Palme bringen",
+      "Unter vier Augen",
+      "Zwei Fliegen mit einer Klappe"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Welche Redewendung passt zu 'ein Problem zu ignorieren'?",
+    options: [
+      "Auf eigenen Beinen stehen",
+      "Den Kopf in den Sand stecken",
+      "Zwei Fliegen mit einer Klappe schlagen",
+      "Daumen drücken"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Welche Redewendung passt zu 'mehrere Ziele mit einer Aktion'?",
+    options: [
+      "Auf dem Holzweg sein",
+      "Zwei Fliegen mit einer Klappe schlagen",
+      "Die Nase voll haben",
+      "Jemandem auf den Schlips treten"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Welche Redewendung bedeutet 'genug haben'?",
+    options: [
+      "Daumen drücken",
+      "Auf der Palme bringen",
+      "Die Nase voll haben",
+      "Auf dem Holzweg sein"
+    ],
+    correct: 2,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Welche Redewendung bedeutet 'einen Fehler zu begehen'?",
+    options: [
+      "Ins Fettnäpfchen treten",
+      "Auf eigenen Beinen stehen",
+      "Zwei Fliegen mit einer Klappe schlagen",
+      "Daumen drücken"
+    ],
+    correct: 0,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Welche Redewendung bedeutet 'falsch zu verstehen'?",
+    options: [
+      "Auf dem Holzweg sein",
+      "Auf eigenen Beinen stehen",
+      "Unter vier Augen",
+      "Den Kopf in den Sand stecken"
+    ],
+    correct: 0,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "In welcher Situation würde man 'unter vier Augen' sprechen?",
+    options: [
+      "Bei einer Schulversammlung",
+      "In privater und vertraulicher Runde",
+      "Bei einem öffentlichen Konzert",
+      "In einer großen Gruppe"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Welches Sprichwort ermutigt zum Lernen?",
+    options: [
+      "Die Nase voll haben",
+      "Übung macht den Meister",
+      "Den Kopf in den Sand stecken",
+      "Auf dem Holzweg sein"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Welches Sprichwort ermutigt zum frühen Aufwachen?",
+    options: [
+      "Wer suchet, der findet",
+      "Morgenstund hat Gold im Mund",
+      "Übung macht den Meister",
+      "Zwei Fliegen mit einer Klappe"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Welches Sprichwort spricht vom Erfolg der Suche?",
+    options: [
+      "Übung macht den Meister",
+      "Morgenstund hat Gold im Mund",
+      "Wer suchet, der findet",
+      "Daumen drücken"
+    ],
+    correct: 2,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "mcq",
+    question: "Welche Redewendung würde du nutzen, um jemanden zu ermutigen?",
+    options: [
+      "Die Nase voll haben",
+      "Daumen drücken",
+      "Auf dem Holzweg sein",
+      "Den Kopf in den Sand stecken"
+    ],
+    correct: 1,
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "typing",
+    question: "Nenne eine Redewendung, die bedeutet, dass man falsch verstanden hat.",
+    answer: ["auf dem Holzweg sein", "Auf dem Holzweg sein", "holzweg"]
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "typing",
+    question: "Welche Redewendung bedeutet 'unabhängig sein'?",
+    answer: ["auf eigenen Beinen stehen", "Auf eigenen Beinen stehen", "beinen"]
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "typing",
+    question: "Nenne ein Sprichwort, das das frühe Aufwachen lobt.",
+    answer: ["Morgenstund hat Gold im Mund", "morgenstund", "Gold im Mund"]
+  },
+  {
+    subtopic: "redewendungen_k5",
+    topic: "wortschatz_k5_erw",
+    type: "typing",
+    question: "Welche Redewendung bedeutet 'zwei Ziele mit einer Aktion erreichen'?",
+    answer: ["zwei Fliegen mit einer Klappe schlagen", "Zwei Fliegen mit einer Klappe schlagen", "fliegen", "klappe"]
+  }] as any[];
+
+export const K5_EXPANSION: DeutschTheme[] = [
+  {
+    id: "nebensaetze_k5",
+    name: "Nebensätze",
+    icon: "🔗",
+    color: "#B44DFF",
+    subtopics: [
+      { id: "temporalsaetze_k5", name: "Temporalsätze (als/wenn/nachdem...)", questions: K5_NEBENSAETZE_Q.filter((q: any) => q.subtopic === "temporalsaetze_k5") },
+      { id: "konditionalsaetze_k5", name: "Konditionalsätze (wenn/falls)", questions: K5_NEBENSAETZE_Q.filter((q: any) => q.subtopic === "konditionalsaetze_k5") },
+      { id: "kausalsaetze_k5", name: "Kausalsätze (weil vs. da)", questions: K5_NEBENSAETZE_Q.filter((q: any) => q.subtopic === "kausalsaetze_k5") },
+      { id: "konzessivsaetze_k5", name: "Konzessivsätze (obwohl/obgleich)", questions: K5_NEBENSAETZE_Q.filter((q: any) => q.subtopic === "konzessivsaetze_k5") },
+      { id: "finalsaetze_k5", name: "Finalsätze (damit vs. um...zu)", questions: K5_NEBENSAETZE_Q.filter((q: any) => q.subtopic === "finalsaetze_k5") },
+    ]
+  },
+  {
+    id: "wortbildung_k5",
+    name: "Wortbildung",
+    icon: "🔤",
+    color: "#00D4FF",
+    subtopics: [
+      { id: "vorsilben_k5", name: "Vorsilben/Präfixe", questions: K5_WORTBILDUNG_Q.filter((q: any) => q.subtopic === "vorsilben_k5") },
+      { id: "nachsilben_k5", name: "Nachsilben/Suffixe", questions: K5_WORTBILDUNG_Q.filter((q: any) => q.subtopic === "nachsilben_k5") },
+      { id: "zusammensetzungen_k5", name: "Zusammengesetzte Wörter", questions: K5_WORTBILDUNG_Q.filter((q: any) => q.subtopic === "zusammensetzungen_k5") },
+      { id: "wortfamilien_k5", name: "Wortfamilien", questions: K5_WORTBILDUNG_Q.filter((q: any) => q.subtopic === "wortfamilien_k5") },
+    ]
+  },
+  {
+    id: "satzglieder_erw_k5",
+    name: "Satzglieder (erweitert)",
+    icon: "🏗️",
+    color: "#00FF88",
+    subtopics: [
+      { id: "attribut_k5", name: "Attribute", questions: K5_SATZGLIEDER_Q.filter((q: any) => q.subtopic === "attribut_k5") },
+      { id: "umstellprobe_k5", name: "Umstellprobe", questions: K5_SATZGLIEDER_Q.filter((q: any) => q.subtopic === "umstellprobe_k5") },
+      { id: "ersatzprobe_k5", name: "Ersatzprobe", questions: K5_SATZGLIEDER_Q.filter((q: any) => q.subtopic === "ersatzprobe_k5") },
+    ]
+  },
+  {
+    id: "verben_erw_k5",
+    name: "Verben (erweitert)",
+    icon: "🎯",
+    color: "#FFD700",
+    subtopics: [
+      { id: "konjunktiv2_k5", name: "Konjunktiv II (wäre/hätte/würde)", questions: K5_SATZGLIEDER_Q.filter((q: any) => q.subtopic === "konjunktiv2_k5") },
+      { id: "modalverben_k5", name: "Modalverben vertiefen", questions: K5_SATZGLIEDER_Q.filter((q: any) => q.subtopic === "modalverben_k5") },
+      { id: "unregelmaessige_k5", name: "Starke Verben", questions: K5_SATZGLIEDER_Q.filter((q: any) => q.subtopic === "unregelmaessige_k5") },
+    ]
+  },
+  {
+    id: "wortschatz_erw_k5",
+    name: "Wortschatz Themen",
+    icon: "💬",
+    color: "#10B981",
+    subtopics: [
+      { id: "medien_k5", name: "Medien & Internet", questions: K5_WORTSCHATZ_EXP_Q.filter((q: any) => q.subtopic === "medien_k5") },
+      { id: "umwelt_k5", name: "Natur & Umwelt", questions: K5_WORTSCHATZ_EXP_Q.filter((q: any) => q.subtopic === "umwelt_k5") },
+      { id: "gefuehle_k5", name: "Gefühle & Kommunikation", questions: K5_WORTSCHATZ_EXP_Q.filter((q: any) => q.subtopic === "gefuehle_k5") },
+      { id: "redewendungen_k5", name: "Redewendungen", questions: K5_WORTSCHATZ_EXP_Q.filter((q: any) => q.subtopic === "redewendungen_k5") },
+    ]
+  },
+];

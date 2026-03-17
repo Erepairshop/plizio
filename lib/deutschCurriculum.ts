@@ -18,7 +18,7 @@ import { K1 } from "./deutsch/k1";
 import { K2 } from "./deutsch/k2";
 import { K3 } from "./deutsch/k3";
 import { K4 } from "./deutsch/k4";
-import { K5, K5_EXTRA } from "./deutsch/k5";
+import { K5, K5_EXTRA, K5_EXPANSION } from "./deutsch/k5";
 import { K6 } from "./deutsch/k6";
 import { K7 } from "./deutsch/k7";
 import { K8, K8_KONJUNKTIV } from "./deutsch/k8";
@@ -28,7 +28,7 @@ import type { DeutschTheme, DeutschQuestion } from "./deutsch/types";
 
 export const DEUTSCH_CURRICULUM: Record<number, DeutschTheme[]> = {
   1: K1, 2: K2, 3: K3, 4: K4,
-  5: [...K5, ...K5_EXTRA], 6: K6, 7: K7,
+  5: [...K5, ...K5_EXTRA, ...K5_EXPANSION], 6: K6, 7: K7,
   8: [...K8, ...K8_KONJUNKTIV],
 };
 
@@ -328,6 +328,25 @@ export const SUBTOPIC_HINTS: Record<string, string> = {
   "koerper_k4":              "Körper: Herz, Lunge, Gehirn, Niere · Skelett, Gelenk, Muskel · Gesundheit: Fieber, Impfung",
   "natur_k4":                "Natur: Ökosystem, Photosynthese, Wasserkreislauf · Umweltschutz: Recycling, erneuerbare Energie",
   "schule_k4":               "Schule & Beruf: Klassenarbeit, Zeugnis, Abitur, Stundenplan · Grundschule → Gymnasium/Realschule",
+
+  // ── K5 EXPANSION Nebensätze ────────────────────────────────────────────────
+  "temporalsaetze_k5":       "Temporalsätze: als (einmalig Vergangenheit), wenn (wiederholt/Bedingung), nachdem (Perfekt/Plusquamperfekt davor)",
+  "konditionalsaetze_k5":    "Konditionalsätze: wenn...dann, falls — Verb steht am Ende des Nebensatzes",
+  "kausalsaetze_k5":         "weil = weil (Antwort auf Warum?), da = da/weil (Voraussetzung bekannt, oft am Satzanfang)",
+  "konzessivsaetze_k5":      "obwohl/obgleich → Nebensatz (Verb am Ende); trotzdem → Hauptsatz (Verb auf Pos. 2)",
+  "finalsaetze_k5":          "damit = damit (verschiedene Subjekte); um...zu (gleiches Subjekt)",
+
+  // ── K5 EXPANSION Wortbildung ───────────────────────────────────────────────
+  "vorsilben_k5":            "Vorsilben: ver- (Veränderung), be- (transitiv), ent- (Entfernung), zer- (Zerstörung), er- (Ergebnis), miss- (Negation)",
+  "nachsilben_k5":           "-ung → f. Nomen; -heit/-keit → f. Nomen; -lich/-ig → Adjektiv",
+  "zusammensetzungen_k5":    "Komposita: Genus des letzten Wortes (Grundwort) bestimmt das Genus des ganzen Wortes",
+  "wortfamilien_k5":         "Wortfamilien: alle Wörter mit demselben Stamm (fahren → Fahrer, Fahrt, erfahren, Zufahrt)",
+
+  // ── K5 EXPANSION Wortschatz ────────────────────────────────────────────────
+  "medien_k5":               "Internet-Wortschatz: Suchmaschine, Passwort, hochladen, Browser, WLAN, Account",
+  "umwelt_k5":               "Umwelt: Klimawandel, Recycling, Nachhaltigkeit, erneuerbare Energie, CO2",
+  "gefuehle_k5":             "Gefühle: wütend, enttäuscht, begeistert, empört, erleichtert, verlegen, verzweifelt",
+  "redewendungen_k5":        "Redewendungen: ins Fettnäpfchen treten, Daumen drücken, zwei Fliegen mit einer Klappe",
 };
 
 export function getSubtopicHint(subtopic?: string): string | null {
