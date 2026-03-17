@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect, useCallback, useRef } from "react";
+import React, { useState, useEffect, useCallback, useRef } from "react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { X, ChevronRight, ChevronLeft } from "lucide-react";
@@ -36,6 +36,7 @@ import UnitExplorer from "@/app/astromath/games/UnitExplorer";
 import AngleExplorer from "@/app/astromath/games/AngleExplorer";
 import TrueFalseBlitz from "@/app/astromath/games/TrueFalseBlitz";
 import ChainCalc from "@/app/astromath/games/ChainCalc";
+import { G5_ISLAND_SVGS } from "../islands-g5";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -266,19 +267,20 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
                 fill="none" stroke="#FFD700" strokeWidth={1.5} opacity={0.5}
                 strokeDasharray="5 3" />
             )}
-            <circle cx={island.svgX} cy={island.svgY} r={30}
-              fill={unlocked ? `${island.color}18` : "rgba(255,255,255,0.02)"}
-              stroke={unlocked ? `${island.color}50` : "rgba(255,255,255,0.06)"}
-              strokeWidth={1} opacity={unlocked ? 1 : 0.5} />
-            <circle cx={island.svgX} cy={island.svgY} r={24}
-              fill={done ? `${island.color}30` : unlocked ? `${island.color}20` : "rgba(255,255,255,0.04)"}
-              stroke={unlocked ? island.color : "rgba(255,255,255,0.12)"}
-              strokeWidth={unlocked ? (done ? 2.5 : 2) : 1.5}
-              filter={unlocked ? "url(#islandGlowG5)" : undefined}
-              opacity={unlocked ? 1 : 0.35} />
-            <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={20}>
-              {unlocked ? island.icon : "🔒"}
-            </text>
+            {unlocked ? (
+              <foreignObject x={island.svgX - 30} y={island.svgY - 30} width={60} height={60}>
+                {G5_ISLAND_SVGS[island.id] ? React.createElement(G5_ISLAND_SVGS[island.id], { size: 60 }) : <span style={{ fontSize: 20 }}>{island.icon}</span>}
+              </foreignObject>
+            ) : (
+              <>
+                <circle cx={island.svgX} cy={island.svgY} r={24}
+                  fill="rgba(255,255,255,0.04)"
+                  stroke="rgba(255,255,255,0.12)"
+                  strokeWidth={1.5}
+                  opacity={0.35} />
+                <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={20}>🔒</text>
+              </>
+            )}
             {!unlocked && (
               <text x={island.svgX} y={island.svgY + 42} textAnchor="middle" fontSize={9}
                 fill="rgba(255,255,255,0.2)" fontWeight="bold">{idx + 1}</text>
