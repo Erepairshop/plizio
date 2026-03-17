@@ -283,6 +283,16 @@ export const SUBTOPIC_HINTS: Record<string, string> = {
 
   // ── Sonstiges ────────────────────────────────────────────────────────────
   "aussagen_umf":            "Aussagen umformulieren: Inhalt erhalten, Wörter wechseln",
+
+  // ── Wortschatz & Alltag (K3) ─────────────────────────────────────────────
+  "tagesablauf_k3":          "Tagesablauf: morgens → mittags → abends · Aktivitäten im Alltag",
+  "berufe_k3":               "Berufe: Arzt, Lehrer, Koch, Bäcker, Ingenieur · Was macht man bei dem Beruf?",
+  "essen_k3":                "Essen & Trinken: Obst, Gemüse, Mahlzeiten · gesund vs. ungesund",
+  "zuhause_k3":              "Mein Zuhause: Zimmer (Küche, Bad, Wohnzimmer) · Möbel · Haushalt",
+  "natur_k3":                "Natur & Tiere: Jahreszeiten · Wetter · Tiere · Pflanzen · Landschaft",
+  "schule_k3":               "Schule & Freizeit: Schulfächer · Utensilien · Hobbys · Freizeitaktivitäten",
+  "weg_k3":                  "Wegbeschreibung: links/rechts/geradeaus · Kreuzung · Ampel · Verkehrsmittel",
+  "synonyme_k3":             "Synonyme & Redewendungen: gleiche Bedeutung · Redensarten · Sprichwörter",
 };
 
 export function getSubtopicHint(subtopic?: string): string | null {

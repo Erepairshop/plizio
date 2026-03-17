@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url><loc>https://plizio.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+
+  <!-- Language landing pages -->
+  <url><loc>https://plizio.com/de/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/en/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/hu/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/ro/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
+  <!-- AstroMath -->
+  <url><loc>https://plizio.com/astromath/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/astromath/1/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/astromath/2/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/astromath/3/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/astromath/4/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/astromath/5/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/astromath/6/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/astromath/7/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/astromath/8/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- AstroDeutsch -->
+  <url><loc>https://plizio.com/astrodeutsch/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/astrodeutsch/1/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/astrodeutsch/2/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/astrodeutsch/3/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/astrodeutsch/4/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/astrodeutsch/5/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/astrodeutsch/6/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/astrodeutsch/7/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/astrodeutsch/8/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Test games (standalone routes, not in education sitemaps) -->
+  <url><loc>https://plizio.com/romaniantest/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/deutschtest/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Meta / app pages -->
+  <url><loc>https://plizio.com/room/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/world/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/multiplayer/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plizio.com/dashboard/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://plizio.com/collection/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://plizio.com/shop/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://plizio.com/profile/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+
+  <!-- Legal / utility -->
+  <url><loc>https://plizio.com/impressum/</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://plizio.com/privacy/</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+</urlset>
