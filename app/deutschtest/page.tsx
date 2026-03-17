@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef, useMemo } from "react";
 import { G1_ICONS, G1_WORD_LABELS } from "@/components/grade1-visual/G1Icons";
 import { motion, AnimatePresence } from "framer-motion";
-import { BookOpen, ArrowLeft, Check, X as XIcon, RotateCcw, Home, ChevronRight } from "lucide-react";
+import { BookOpen, ArrowLeft, Check, X as XIcon, RotateCcw, Home, ChevronRight, Download } from "lucide-react";
 import Link from "next/link";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, incrementPerfectScores, checkNewMilestones } from "@/lib/milestones";
@@ -46,6 +46,7 @@ import SatzgefugeDiagram from "@/components/deutsch-visual/SatzgefugeDiagram";
 import EpochenZeitstrahl from "@/components/deutsch-visual/EpochenZeitstrahl";
 import { genGenusSortierung, genSatzOrdnen, genBildBeschriften, genFehlerFinden, genWortfamilienBaum, genGeschichteSortieren, genWortartenSortieren, genZeitformenZuordnen, genSatzgliedMarkieren, genKasusMarkieren, genAdjektivEndungen, genLueckenText, genSatzgefuge, genEpochenZeitstrahl } from "@/lib/deutschVisualGenerators";
 import { playCorrect, playIncorrect, playClick } from "@/lib/soundEffects";
+import { generateDeutschTestPdf } from "@/lib/generateDeutschTestPdf";
 
 // ─── TTS HELPER ──────────────────────────────────────────────────────────────
 function speakText(text: string) {
@@ -781,6 +782,446 @@ export default function DeutschTestPage() {
   const scorePct = answers.length > 0 ? Math.round((scoreCount / answers.length) * 100) : 0;
   const mark = calculateDeutschMark(scorePct, country);
 
+  // ─── DRUCK — leeres Arbeitsblatt ─────────────────────────────────────────────
+
+  const VISUAL_TYPE_LABELS_PRINT: Record<string, string> = {
+    "genus-sort": "Artikel bestimmen",
+    "satz-ordnen": "Satz ordnen",
+    "bild-beschriften": "Bild beschriften",
+    "fehler-finden": "Fehler finden",
+    "wortfamilien-baum": "Wortfamilie",
+    "geschichte-sortieren": "Geschichte ordnen",
+    "wortarten-sortieren": "Wortarten bestimmen",
+    "zeitformen-zuordnen": "Zeitform bestimmen",
+    "satzglied-markieren": "Satzglieder markieren",
+    "kasus-markieren": "Kasus bestimmen",
+    "adjektiv-endungen": "Adjektiv-Endung",
+    "luecken-text": "Lückentext ergänzen",
+    "satzgefuge-diagram": "Satzgefüge analysieren",
+    "epochen-zeitstrahl": "Epoche zuordnen",
+  };
+
+  const VISUAL_TYPES_PRINT = new Set(Object.keys(VISUAL_TYPE_LABELS_PRINT));
+
+  const handlePrintBlank = () => {
+    const renderQuestionPrint = (q: TestQuestion, qi: number): string => {
+      const parts: string[] = [];
+      const aufgabeNr = Math.floor(qi / 3) + 1;
+      const blockStart = Math.floor(qi / 3) * 3;
+      const blockQs = [questions[blockStart], questions[blockStart + 1], questions[blockStart + 2]].filter(Boolean);
+      const isVisualBlock = blockQs.length === 3 && blockQs.every(qq => VISUAL_TYPES_PRINT.has(qq.type));
+      const subLabel = isVisualBlock ? String.fromCharCode(97 + (qi % 3)) : null;
+
+      // Section header every 3 questions
+      if (qi % 3 === 0 && !q.passageText) {
+        if (isVisualBlock) {
+          parts.push(`<div class="section-header visual-section">Aufgabe ${aufgabeNr} — ${VISUAL_TYPE_LABELS_PRINT[q.type] ?? "Interaktive Aufgabe"}</div>`);
+        } else {
+          parts.push(`<div class="section-header">Aufgabe ${aufgabeNr}</div>`);
+        }
+      }
+
+      // Passage block (show once per unique title)
+      if (q.passageText && (qi === 0 || questions[qi - 1]?.passageTitle !== q.passageTitle)) {
+        parts.push(`<div class="passage-block">${q.passageTitle ? `<div class="passage-title">📖 ${q.passageTitle}</div>` : ""}<div class="passage-text">${q.passageText}</div></div>`);
+      }
+
+      // Question number and text
+      const qLabel = isVisualBlock ? `${subLabel})` : `${qi + 1}.`;
+      parts.push(`<div class="question">`);
+      parts.push(`<div class="question-header"><span class="q-num">${qLabel}</span><span class="q-text">${isVisualBlock ? "" : q.question}</span></div>`);
+
+      // Type-specific answer area
+      switch (q.type) {
+        case "mcq":
+        case "bild-wort":
+        case "anlaut-bild": {
+          const opts = q.options ?? [];
+          parts.push(`<div class="options">`);
+          opts.forEach((opt, oi) => {
+            const label = String.fromCharCode(65 + oi);
+            parts.push(`<div class="option-row">☐ ${label}) ${opt}</div>`);
+          });
+          parts.push(`</div>`);
+          break;
+        }
+        case "typing": {
+          parts.push(`<div class="answer-line"></div>`);
+          break;
+        }
+        case "genus-sort": {
+          parts.push(`<div class="q-word">${q.word ?? ""}</div>`);
+          parts.push(`<div class="options-inline">☐ der &nbsp;&nbsp;&nbsp; ☐ die &nbsp;&nbsp;&nbsp; ☐ das</div>`);
+          break;
+        }
+        case "satz-ordnen": {
+          const chips = (q.shuffled ?? []).map(w => `<span class="word-chip">${w}</span>`).join(" ");
+          parts.push(`<div class="word-chips">${chips}</div>`);
+          parts.push(`<div class="answer-line"></div>`);
+          break;
+        }
+        case "bild-beschriften": {
+          const opts = q.options ?? [];
+          parts.push(`<div class="q-word">${q.imageKey ?? ""}</div>`);
+          parts.push(`<div class="options">`);
+          opts.forEach((opt, oi) => {
+            const label = String.fromCharCode(65 + oi);
+            parts.push(`<div class="option-row">☐ ${label}) ${opt}</div>`);
+          });
+          parts.push(`</div>`);
+          break;
+        }
+        case "fehler-finden": {
+          const words = q.words ?? [];
+          const numbered = words.map((w, wi) => `<span class="numbered-word">(${wi + 1}) ${w}</span>`).join(" ");
+          parts.push(`<div class="q-sentence">${numbered}</div>`);
+          parts.push(`<div class="answer-line-short"><span class="answer-label">Falsches Wort Nr.:</span> <span class="blank-line">______</span></div>`);
+          break;
+        }
+        case "wortfamilien-baum": {
+          parts.push(`<div class="q-word">Stamm: <strong>${q.stamm ?? ""}</strong></div>`);
+          const opts = q.options ?? [];
+          parts.push(`<div class="options">`);
+          opts.forEach((opt) => {
+            parts.push(`<div class="option-row">☐ ${opt}</div>`);
+          });
+          parts.push(`</div>`);
+          break;
+        }
+        case "geschichte-sortieren": {
+          const sents = q.sentences ?? [];
+          const shuffled = q.shuffledOrder ?? sents.map((_, i) => i);
+          parts.push(`<div class="sentences-list">`);
+          shuffled.forEach((origIdx, displayIdx) => {
+            const sent = sents[origIdx] ?? "";
+            parts.push(`<div class="sentence-row"><span class="order-box">___</span> ${displayIdx + 1}. ${sent}</div>`);
+          });
+          parts.push(`</div>`);
+          break;
+        }
+        case "wortarten-sortieren": {
+          const words = q.words ?? [];
+          const wordList = words.map(w => `<span class="word-chip">${w}</span>`).join(" ");
+          parts.push(`<div class="word-chips">${wordList}</div>`);
+          parts.push(`<div class="hint-text">N = Nomen, V = Verb, A = Adjektiv</div>`);
+          parts.push(`<div class="answer-line"></div>`);
+          break;
+        }
+        case "zeitformen-zuordnen": {
+          parts.push(`<div class="q-sentence">${q.sentence ?? q.question}</div>`);
+          parts.push(`<div class="options-inline">☐ Präsens &nbsp;&nbsp;&nbsp; ☐ Präteritum &nbsp;&nbsp;&nbsp; ☐ Perfekt</div>`);
+          break;
+        }
+        case "satzglied-markieren": {
+          const words = q.words ?? [];
+          const wordList = words.map(w => `<span class="word-chip">${w}</span>`).join(" ");
+          parts.push(`<div class="word-chips">${wordList}</div>`);
+          parts.push(`<div class="hint-text">S = Subjekt, P = Prädikat, O = Objekt</div>`);
+          parts.push(`<div class="answer-line"></div>`);
+          break;
+        }
+        case "kasus-markieren": {
+          const sentence = q.sentence ?? "";
+          const highlight = q.highlight ?? "";
+          const displaySent = highlight
+            ? sentence.replace(highlight, `<u><strong>${highlight}</strong></u>`)
+            : sentence;
+          parts.push(`<div class="q-sentence">${displaySent}</div>`);
+          parts.push(`<div class="options-inline">☐ Nominativ &nbsp;&nbsp;&nbsp; ☐ Akkusativ &nbsp;&nbsp;&nbsp; ☐ Dativ &nbsp;&nbsp;&nbsp; ☐ Genitiv</div>`);
+          break;
+        }
+        case "adjektiv-endungen": {
+          parts.push(`<div class="q-sentence">${q.sentence ?? q.question}</div>`);
+          parts.push(`<div class="options-inline">☐ -e &nbsp;&nbsp;&nbsp; ☐ -er &nbsp;&nbsp;&nbsp; ☐ -es &nbsp;&nbsp;&nbsp; ☐ -en &nbsp;&nbsp;&nbsp; ☐ -em</div>`);
+          break;
+        }
+        case "luecken-text": {
+          const lSentence = (q.lueckenSentence ?? "").replace("___", '<span class="blank-line">______</span>');
+          parts.push(`<div class="q-sentence">${lSentence}</div>`);
+          const lOpts = q.lueckenOptions ?? [];
+          parts.push(`<div class="options">`);
+          lOpts.forEach((opt, oi) => {
+            const label = String.fromCharCode(65 + oi);
+            parts.push(`<div class="option-row">☐ ${label}) ${opt}</div>`);
+          });
+          parts.push(`</div>`);
+          break;
+        }
+        case "satzgefuge-diagram": {
+          parts.push(`<div class="q-sentence"><strong>HS:</strong> ${q.hauptsatz ?? ""}</div>`);
+          parts.push(`<div class="q-sentence"><strong>NS:</strong> ${q.nebensatz ?? ""}</div>`);
+          if (q.konjunktion) parts.push(`<div class="hint-text">Konjunktion: <em>${q.konjunktion}</em></div>`);
+          const sgOpts = q.satzgefugeOptions ?? [];
+          parts.push(`<div class="options">`);
+          sgOpts.forEach((opt, oi) => {
+            const label = String.fromCharCode(65 + oi);
+            parts.push(`<div class="option-row">☐ ${label}) ${opt}</div>`);
+          });
+          parts.push(`</div>`);
+          break;
+        }
+        case "epochen-zeitstrahl": {
+          parts.push(`<div class="q-word"><strong>${q.epochenAuthor ?? ""}</strong></div>`);
+          if (q.epochenHint) parts.push(`<div class="hint-text">Hinweis: ${q.epochenHint}</div>`);
+          const eOpts = q.epochenOptions ?? [];
+          parts.push(`<div class="options">`);
+          eOpts.forEach((opt, oi) => {
+            const label = String.fromCharCode(65 + oi);
+            parts.push(`<div class="option-row">☐ ${label}) ${opt}</div>`);
+          });
+          parts.push(`</div>`);
+          break;
+        }
+        default: {
+          parts.push(`<div class="answer-line"></div>`);
+          break;
+        }
+      }
+
+      parts.push(`</div>`); // close .question
+      return parts.join("\n");
+    };
+
+    const questionsHtml = questions.map((q, qi) => renderQuestionPrint(q, qi)).join("\n");
+
+    const html = `<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Deutsch Test – Klasse ${grade}</title>
+  <style>
+    @page { size: A4; margin: 1.5cm 1.8cm 1.5cm 2.2cm; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      font-size: 11pt;
+      color: #1a1a2e;
+      background: white;
+      background-image:
+        linear-gradient(rgba(100,149,237,0.18) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(100,149,237,0.18) 1px, transparent 1px);
+      background-size: 0.5cm 0.5cm;
+      min-height: 29.7cm;
+    }
+    .page-content { background: transparent; position: relative; }
+
+    /* ── HEADER ── */
+    .header {
+      border-bottom: 3px solid #1a1a2e;
+      padding-bottom: 10px;
+      margin-bottom: 16px;
+    }
+    .header-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 12px;
+      margin-bottom: 10px;
+    }
+    .header-left h1 {
+      font-size: 17pt;
+      font-weight: 900;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: #1a1a2e;
+      line-height: 1.1;
+    }
+    .header-left .grade-badge {
+      display: inline-block;
+      margin-top: 4px;
+      font-size: 9pt;
+      font-weight: 700;
+      color: #4b5563;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      border: 1.5px solid #d1d5db;
+      border-radius: 4px;
+      padding: 1px 8px;
+      background: rgba(255,255,255,0.7);
+    }
+    .score-box {
+      border: 2px solid #1a1a2e;
+      border-radius: 6px;
+      min-width: 100px;
+      padding: 6px 10px;
+      text-align: center;
+      background: rgba(255,255,255,0.8);
+      flex-shrink: 0;
+    }
+    .score-box .score-label { font-size: 7pt; font-weight: 700; color: #6b7280; text-transform: uppercase; letter-spacing: 0.08em; }
+    .score-box .score-value { font-size: 18pt; font-weight: 900; color: #1a1a2e; line-height: 1.1; }
+    .score-box .score-total { font-size: 8pt; color: #9ca3af; }
+
+    .fields { display: flex; gap: 16px; flex-wrap: wrap; }
+    .field { flex: 1; min-width: 150px; }
+    .field label { font-size: 7.5pt; font-weight: 700; color: #6b7280; text-transform: uppercase; letter-spacing: 0.06em; display: block; margin-bottom: 2px; }
+    .field .line {
+      border-bottom: 1.5px solid #374151;
+      min-height: 22px;
+      background: rgba(255,255,255,0.6);
+    }
+
+    /* ── SECTION HEADERS ── */
+    .section-header {
+      font-size: 9pt;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: #6b7280;
+      margin: 16px 0 6px 0;
+      padding-bottom: 3px;
+      border-bottom: 1px dashed #d1d5db;
+    }
+    .section-header.visual-section {
+      color: #4f46e5;
+      border-bottom-color: #c7d2fe;
+    }
+
+    /* ── PASSAGE ── */
+    .passage-block {
+      background: rgba(219,234,254,0.4);
+      border-left: 4px solid #93c5fd;
+      border-radius: 0 6px 6px 0;
+      padding: 8px 12px;
+      margin-bottom: 12px;
+    }
+    .passage-title { font-size: 8pt; font-weight: 700; color: #3b82f6; text-transform: uppercase; margin-bottom: 4px; }
+    .passage-text { font-size: 10pt; line-height: 1.6; color: #374151; }
+
+    /* ── QUESTIONS ── */
+    .question {
+      margin-bottom: 12px;
+      background: rgba(255,255,255,0.55);
+      border-radius: 5px;
+      padding: 8px 10px 6px 10px;
+      border-left: 3px solid rgba(100,149,237,0.4);
+      page-break-inside: avoid;
+    }
+    .question-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 6px;
+      margin-bottom: 4px;
+    }
+    .q-num { font-weight: 800; font-size: 11pt; min-width: 22px; color: #1a1a2e; }
+    .q-text { flex: 1; font-size: 11pt; line-height: 1.4; color: #1a1a2e; }
+    .q-word { font-size: 13pt; font-weight: 700; color: #1a1a2e; margin: 4px 0 6px 28px; }
+    .q-sentence { font-size: 11pt; line-height: 1.5; color: #374151; margin: 4px 0 6px 28px; }
+
+    /* ── ANSWER AREAS ── */
+    .answer-line {
+      margin-top: 6px;
+      margin-left: 28px;
+      border-bottom: 1px solid #d1d5db;
+      min-height: 28px;
+    }
+    .answer-line-short {
+      margin-top: 6px;
+      margin-left: 28px;
+      font-size: 10pt;
+    }
+    .blank-line { border-bottom: 1.5px solid #374151; padding: 0 20px; }
+    .answer-label { font-weight: 700; color: #4b5563; }
+
+    /* ── OPTIONS ── */
+    .options { margin-left: 28px; margin-top: 4px; }
+    .option-row { font-size: 11pt; line-height: 1.8; color: #374151; padding: 1px 0; }
+    .options-inline { margin-left: 28px; margin-top: 6px; font-size: 11pt; color: #374151; }
+
+    /* ── WORD CHIPS ── */
+    .word-chips { margin-left: 28px; margin-top: 6px; margin-bottom: 6px; }
+    .word-chip {
+      display: inline-block;
+      border: 1.5px solid #d1d5db;
+      border-radius: 4px;
+      padding: 1px 8px;
+      margin: 2px 3px;
+      font-size: 10pt;
+      background: rgba(255,255,255,0.7);
+    }
+
+    /* ── NUMBERED WORDS ── */
+    .numbered-word { margin-right: 8px; font-size: 11pt; }
+
+    /* ── SENTENCES LIST ── */
+    .sentences-list { margin-left: 28px; margin-top: 4px; }
+    .sentence-row { display: flex; align-items: baseline; gap: 8px; margin: 4px 0; font-size: 11pt; line-height: 1.5; }
+    .order-box {
+      display: inline-block;
+      border: 1.5px solid #9ca3af;
+      border-radius: 3px;
+      padding: 0 8px;
+      min-width: 28px;
+      text-align: center;
+      font-size: 10pt;
+      background: rgba(255,255,255,0.6);
+      flex-shrink: 0;
+    }
+
+    /* ── HINT TEXT ── */
+    .hint-text { margin-left: 28px; margin-top: 4px; margin-bottom: 4px; font-size: 9pt; color: #6b7280; font-style: italic; }
+
+    /* ── WATERMARK ── */
+    .watermark {
+      position: fixed;
+      bottom: 0.8cm;
+      right: 1.2cm;
+      font-size: 7pt;
+      color: #d1d5db;
+      font-family: monospace;
+      letter-spacing: 0.15em;
+      pointer-events: none;
+    }
+
+    @media print {
+      body { print-color-adjust: exact; -webkit-print-color-adjust: exact; }
+    }
+  </style>
+</head>
+<body>
+<div class="page-content">
+  <div class="header">
+    <div class="header-top">
+      <div class="header-left">
+        <h1>DEUTSCH TEST</h1>
+        <span class="grade-badge">Klasse ${grade}</span>
+      </div>
+      <div class="score-box">
+        <div class="score-label">Punkte</div>
+        <div class="score-value">&nbsp;&nbsp;&nbsp;&nbsp;</div>
+        <div class="score-total">/ ${totalQ} Pkt.</div>
+      </div>
+    </div>
+    <div class="fields">
+      <div class="field">
+        <label>Name</label>
+        <div class="line"></div>
+      </div>
+      <div class="field" style="max-width:120px">
+        <label>Klasse</label>
+        <div class="line"></div>
+      </div>
+      <div class="field" style="max-width:130px">
+        <label>Datum</label>
+        <div class="line" style="padding-top:4px; font-size:9pt; color:#374151;">${dateStr}</div>
+      </div>
+    </div>
+  </div>
+
+  ${questionsHtml}
+</div>
+<div class="watermark">PLIZIO</div>
+</body>
+</html>`;
+
+    const win = window.open("", "_blank");
+    if (win) {
+      win.document.write(html);
+      win.document.close();
+      setTimeout(() => { win.print(); }, 500);
+    }
+  };
+
   // ─────────────────────────────────────────────────────────────────────────────
   // RENDER
   // ─────────────────────────────────────────────────────────────────────────────
@@ -1182,6 +1623,7 @@ export default function DeutschTestPage() {
             onExit={() => setScreen("topics")}
             exitLabel="Zurück"
             userName={getUsername() || undefined}
+            onPrint={handlePrintBlank}
           >
             {/* All questions at once — lined paper style */}
             <div style={{ fontSize: 14, lineHeight: '28px' }}>
@@ -1784,6 +2226,34 @@ export default function DeutschTestPage() {
                   <Home size={18} /> Hauptmenü
                 </Link>
               </div>
+
+              {/* PDF Download */}
+              <motion.button
+                onClick={() => {
+                  const now = new Date();
+                  const dateStr = `${now.getDate().toString().padStart(2, "0")}.${(now.getMonth() + 1).toString().padStart(2, "0")}.${now.getFullYear()}`;
+                  generateDeutschTestPdf({
+                    gradeLevel: `Klasse ${grade}`,
+                    date: dateStr,
+                    questions: questions.map(q => ({ question: q.question, type: q.type })),
+                    answers,
+                    scoreCount,
+                    totalCount: answers.length,
+                    percentage: scorePct,
+                    noteValue: mark.note,
+                    noteLabel: mark.label,
+                    noteColor: mark.color,
+                    studentName: getUsername() || undefined,
+                  });
+                }}
+                className="w-full py-3 rounded-xl border-2 border-[#00D4FF]/30 text-[#00D4FF] font-bold text-sm flex items-center justify-center gap-2 mt-3"
+                style={{ background: "rgba(0,212,255,0.08)" }}
+                whileHover={{ scale: 1.02 }}
+                whileTap={{ scale: 0.97 }}
+              >
+                <Download size={18} />
+                PDF
+              </motion.button>
             </div>
           </motion.div>
         )}

@@ -76,6 +76,7 @@ const TRANSLATIONS = {
       skyclimb: "Sky Climb",
       citydrive: "City Drive",
       astromath: "AstroMath",
+      astrodeutsch: "AstroDeutsch",
       mathtest: "Math Test",
       deutschtest: "Deutsch Test",
       englishtest: "English Test",
@@ -118,6 +119,7 @@ const TRANSLATIONS = {
       skyclimb: "Égbolt Mászás",
       citydrive: "Város Vezetés",
       astromath: "AstroMath",
+      astrodeutsch: "AstroDeutsch",
       mathtest: "Matematika Teszt",
       deutschtest: "Német Teszt",
       englishtest: "Angol Teszt",
@@ -160,6 +162,7 @@ const TRANSLATIONS = {
       skyclimb: "Himmelsklettern",
       citydrive: "Stadtfahrt",
       astromath: "AstroMath",
+      astrodeutsch: "AstroDeutsch",
       mathtest: "Mathematiktest",
       deutschtest: "Deutsch Test",
       englishtest: "English Test",
@@ -202,6 +205,7 @@ const TRANSLATIONS = {
       skyclimb: "Cățărare pe Cer",
       citydrive: "Conducere în Oraș",
       astromath: "AstroMath",
+      astrodeutsch: "AstroDeutsch",
       mathtest: "Test de Matematică",
       deutschtest: "Test de Germană",
       englishtest: "Test de Engleză",
@@ -350,6 +354,13 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         nameKey: "astromath",
         color: "#B44DFF",
         gradient: "bg-gradient-to-br from-purple-500/20 to-violet-500/20",
+      },
+      {
+        id: "astrodeutsch",
+        icon: BookOpen,
+        nameKey: "astrodeutsch",
+        color: "#00D4FF",
+        gradient: "bg-gradient-to-br from-cyan-500/20 to-teal-500/20",
       },
       {
         id: "mathtest",
@@ -533,7 +544,7 @@ const GAME_TO_CATEGORY: Record<string, string> = {
   sequencerush: "quizreflex", wordhunt: "quizreflex", milliomos: "quizreflex",
   kodex: "quizreflex",
   skyclimb: "adventure", citydrive: "adventure", racetrack: "adventure", pliziolife: "adventure",
-  astromath: "brain", mathtest: "brain", deutschtest: "brain", englishtest: "brain",
+  astromath: "brain", astrodeutsch: "brain", mathtest: "brain", deutschtest: "brain", englishtest: "brain",
   numberpath: "logic", minisudoku: "logic", lightout: "logic", numbermerge: "logic", nonogram: "logic", mazerush: "logic",
   pingpong: "sport", airhockey: "sport", tennis: "sport",
 };
@@ -625,6 +636,11 @@ export default function Home() {
     const checkAuth = async () => {
       const user = await getUser();
       setIsLoggedIn(!!user);
+      if (user) syncToSupabase(user.id).then(() => {
+        setCardCount(getCards().length);
+        setSpecialCount(getSpecialCardCount());
+        window.dispatchEvent(new Event("plizio-cards-changed"));
+      }).catch((err) => console.error("Sync error:", err));
       // Never auto-show auth modal again after dismissed or registered
       if (!user) {
         const stats = getStats();
@@ -644,7 +660,11 @@ export default function Home() {
 
     const { data: { subscription } } = onAuthChange((user) => {
       setIsLoggedIn(!!user);
-      if (user) syncToSupabase(user.id).catch(() => {});
+      if (user) syncToSupabase(user.id).then(() => {
+        setCardCount(getCards().length);
+        setSpecialCount(getSpecialCardCount());
+        window.dispatchEvent(new Event("plizio-cards-changed"));
+      }).catch((err) => console.error("Sync error:", err));
     });
 
     // Refresh card + star badge whenever cards change (earn / exchange)
@@ -760,7 +780,10 @@ export default function Home() {
           onSuccess={() => {
             setShowAuth(false);
             setIsLoggedIn(true);
+            // Refresh all state from localStorage after sync
+            setCardCount(getCards().length);
             setSpecialCount(getSpecialCardCount());
+            window.dispatchEvent(new Event("plizio-cards-changed"));
           }}
         />
       )}
