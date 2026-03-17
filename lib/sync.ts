@@ -25,7 +25,207 @@ interface UserData {
   referred_by: string | null;
   share_count_today: number;
   share_date: string | null;
+  extra_data: Record<string, unknown>;
 }
+
+// ─── Extra data: all localStorage keys to sync beyond the core columns ───
+
+const CLOTHING_SLOTS = ["top", "bottom", "shoe", "cape", "glasses", "gloves"] as const;
+
+// All localStorage keys that store game progress / avatar / room data
+const GAME_PROGRESS_KEYS = [
+  // Astromath
+  "astromath_g1_v2", "astromath_g2_v1", "astromath_g3_v1", "astromath_g4_v1",
+  "astromath_g5_v1", "astromath_g6_v1", "astromath_g7_v1", "astromath_g8_v1",
+  // Astrodeutsch
+  "astrodeutsch_k1_v1", "astrodeutsch_k2_v1", "astrodeutsch_k3_v1", "astrodeutsch_k4_v1",
+  "astrodeutsch_k5_v1", "astrodeutsch_k6_v1", "astrodeutsch_k7_v1",
+  // Expedition games
+  "kodex_expedition_v2", "reflexrush_expedition_v1", "numberrush_expedition_v1",
+  "wordhunt_expedition_v1", "minisudoku_expedition_v1", "sequencerush_expedition_v1",
+  "numberpath_expedition_v1", "ws_expedition_v1", "lightout_expedition_v1",
+  "nonogram_expedition_v1", "numbermerge_expedition_v1", "mazerush_expedition_v1",
+  // Special
+  "citydrive_save", "plizio_life_v1", "plizio_world_progress",
+  // Room
+  "plizio_rooms_owned", "plizio_rooms_furniture", "plizio_rooms_level", "plizio_furniture_owned",
+  // Other
+  "plizio_powerups", "plizio_milliomos_best",
+] as const;
+
+function collectExtraData(): Record<string, unknown> {
+  const extra: Record<string, unknown> = {};
+
+  // Avatar gender
+  extra.avatar_gender = localStorage.getItem("plizio_avatar_gender") || null;
+
+  // Faces
+  extra.owned_faces = safeJsonParse(localStorage.getItem("plizio_owned_faces"), []);
+  extra.active_face = localStorage.getItem("plizio_active_face") || null;
+
+  // Hats & trails
+  extra.owned_hats = safeJsonParse(localStorage.getItem("plizio_owned_hats"), []);
+  extra.active_hat = localStorage.getItem("plizio_active_hat") || null;
+  extra.owned_trails = safeJsonParse(localStorage.getItem("plizio_owned_trails"), []);
+  extra.active_trail = localStorage.getItem("plizio_active_trail") || null;
+
+  // Clothing (6 slots)
+  for (const slot of CLOTHING_SLOTS) {
+    extra[`owned_${slot}`] = safeJsonParse(localStorage.getItem(`plizio_owned_${slot}`), []);
+    extra[`active_${slot}`] = localStorage.getItem(`plizio_active_${slot}`) || null;
+  }
+
+  // City Drive cars
+  extra.citydrive_owned_cars = safeJsonParse(localStorage.getItem("citydrive_owned_cars"), []);
+  extra.citydrive_active_car = localStorage.getItem("citydrive_active_car") || null;
+
+  // Game progress — store as JSON strings (they're already JSON in localStorage)
+  for (const key of GAME_PROGRESS_KEYS) {
+    const val = localStorage.getItem(key);
+    if (val !== null) {
+      extra[key] = safeJsonParse(val, val);
+    }
+  }
+
+  return extra;
+}
+
+function restoreExtraData(extra: Record<string, unknown>): void {
+  if (!extra) return;
+
+  // Avatar gender
+  if (extra.avatar_gender) {
+    localStorage.setItem("plizio_avatar_gender", extra.avatar_gender as string);
+  }
+
+  // Faces: merge owned (union), active only if not set locally
+  mergeOwnedArray("plizio_owned_faces", extra.owned_faces as string[] | undefined);
+  restoreActiveIfEmpty("plizio_active_face", extra.active_face as string | undefined);
+
+  // Hats & trails
+  mergeOwnedArray("plizio_owned_hats", extra.owned_hats as string[] | undefined);
+  restoreActiveIfEmpty("plizio_active_hat", extra.active_hat as string | undefined);
+  mergeOwnedArray("plizio_owned_trails", extra.owned_trails as string[] | undefined);
+  restoreActiveIfEmpty("plizio_active_trail", extra.active_trail as string | undefined);
+
+  // Clothing (6 slots)
+  for (const slot of CLOTHING_SLOTS) {
+    mergeOwnedArray(`plizio_owned_${slot}`, extra[`owned_${slot}`] as string[] | undefined);
+    restoreActiveIfEmpty(`plizio_active_${slot}`, extra[`active_${slot}`] as string | undefined);
+  }
+
+  // City Drive cars
+  mergeOwnedArray("citydrive_owned_cars", extra.citydrive_owned_cars as string[] | undefined);
+  restoreActiveIfEmpty("citydrive_active_car", extra.citydrive_active_car as string | undefined);
+
+  // Room data: merge owned arrays
+  mergeOwnedArray("plizio_rooms_owned", extra.plizio_rooms_owned as string[] | undefined);
+  mergeOwnedArray("plizio_furniture_owned", extra.plizio_furniture_owned as string[] | undefined);
+
+  // Room furniture placement + level: take server if local is empty
+  restoreJsonIfEmpty("plizio_rooms_furniture", extra.plizio_rooms_furniture);
+  restoreJsonIfEmpty("plizio_rooms_level", extra.plizio_rooms_level);
+
+  // Game progress: restore only if local doesn't have it (don't overwrite active progress)
+  for (const key of GAME_PROGRESS_KEYS) {
+    if (key in extra && extra[key] !== undefined) {
+      const localVal = localStorage.getItem(key);
+      if (!localVal) {
+        // No local progress — restore from server
+        const serverVal = extra[key];
+        localStorage.setItem(key, typeof serverVal === "string" ? serverVal : JSON.stringify(serverVal));
+      } else {
+        // Both exist — merge: take higher completedMissions/completedIslands/completedLevels count
+        mergeGameProgress(key, localVal, extra[key]);
+      }
+    }
+  }
+
+  // Other simple values
+  if (extra.plizio_powerups !== undefined && !localStorage.getItem("plizio_powerups")) {
+    localStorage.setItem("plizio_powerups", JSON.stringify(extra.plizio_powerups));
+  }
+  if (extra.plizio_milliomos_best !== undefined) {
+    const localBest = parseInt(localStorage.getItem("plizio_milliomos_best") || "0");
+    const serverBest = typeof extra.plizio_milliomos_best === "number" ? extra.plizio_milliomos_best : 0;
+    if (serverBest > localBest) {
+      localStorage.setItem("plizio_milliomos_best", serverBest.toString());
+    }
+  }
+}
+
+// ─── Helpers ───
+
+function safeJsonParse(val: string | null, fallback: unknown): unknown {
+  if (!val) return fallback;
+  try { return JSON.parse(val); } catch { return fallback; }
+}
+
+function mergeOwnedArray(key: string, remoteArr: string[] | undefined): void {
+  if (!remoteArr || !Array.isArray(remoteArr)) return;
+  const local: string[] = safeJsonParse(localStorage.getItem(key), []) as string[];
+  const merged = [...new Set([...local, ...remoteArr])];
+  localStorage.setItem(key, JSON.stringify(merged));
+}
+
+function restoreActiveIfEmpty(key: string, remoteVal: string | undefined): void {
+  if (remoteVal && localStorage.getItem(key) === null) {
+    localStorage.setItem(key, remoteVal);
+  }
+}
+
+function restoreJsonIfEmpty(key: string, remoteVal: unknown): void {
+  if (remoteVal !== undefined && !localStorage.getItem(key)) {
+    localStorage.setItem(key, typeof remoteVal === "string" ? remoteVal : JSON.stringify(remoteVal));
+  }
+}
+
+function mergeGameProgress(key: string, localRaw: string, serverVal: unknown): void {
+  try {
+    const local = JSON.parse(localRaw);
+    const server = typeof serverVal === "string" ? JSON.parse(serverVal) : serverVal;
+    if (!local || !server || typeof local !== "object" || typeof server !== "object") return;
+
+    // Merge array fields (union): completedMissions, completedIslands, completedLevels, completedTests, earnedBadges, collectedLetters
+    const arrayFields = ["completedMissions", "completedIslands", "completedLevels", "completedTests", "earnedBadges", "collectedLetters"];
+    let changed = false;
+    for (const field of arrayFields) {
+      if (Array.isArray(local[field]) && Array.isArray(server[field])) {
+        const merged = [...new Set([...local[field], ...server[field]])];
+        if (merged.length > local[field].length) {
+          local[field] = merged;
+          changed = true;
+        }
+      }
+    }
+
+    // Merge missionStars: take max per key
+    if (local.missionStars && server.missionStars) {
+      for (const [k, v] of Object.entries(server.missionStars)) {
+        if (!local.missionStars[k] || (v as number) > local.missionStars[k]) {
+          local.missionStars[k] = v;
+          changed = true;
+        }
+      }
+    }
+
+    // Take higher currentLevel
+    if (typeof server.currentLevel === "number" && typeof local.currentLevel === "number") {
+      if (server.currentLevel > local.currentLevel) {
+        local.currentLevel = server.currentLevel;
+        changed = true;
+      }
+    }
+
+    if (changed) {
+      localStorage.setItem(key, JSON.stringify(local));
+    }
+  } catch {
+    // Parse error — leave local as-is
+  }
+}
+
+// ─── Upload ───
 
 // Upload localStorage data to Supabase (after registration)
 export async function uploadToSupabase(userId: string): Promise<void> {
@@ -48,6 +248,7 @@ export async function uploadToSupabase(userId: string): Promise<void> {
     referred_by: localStorage.getItem("plizio_referred") === "true" ? "ref" : null,
     share_count_today: parseInt(localStorage.getItem("plizio_share_today_count") || "0"),
     share_date: localStorage.getItem("plizio_share_today_date") || null,
+    extra_data: collectExtraData(),
   };
 
   const { error } = await supabase
@@ -117,6 +318,8 @@ export async function uploadToSupabase(userId: string): Promise<void> {
   }
 }
 
+// ─── Download ───
+
 // Download Supabase data to localStorage (after login on new device)
 export async function downloadFromSupabase(userId: string): Promise<void> {
   const { data, error } = await supabase
@@ -184,6 +387,11 @@ export async function downloadFromSupabase(userId: string): Promise<void> {
     data.sky_highest_level || 1
   );
   localStorage.setItem("plizio_skyclimb_highest", skyHighest.toString());
+
+  // ─── Extra data (avatar, clothing, room, game progress) ───
+  if (data.extra_data && typeof data.extra_data === "object") {
+    restoreExtraData(data.extra_data as Record<string, unknown>);
+  }
 
   // Download cards
   const { data: cards } = await supabase
