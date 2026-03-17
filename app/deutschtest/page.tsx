@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef, useMemo } from "react";
 import { G1_ICONS, G1_WORD_LABELS } from "@/components/grade1-visual/G1Icons";
 import { motion, AnimatePresence } from "framer-motion";
-import { BookOpen, ArrowLeft, Check, X as XIcon, RotateCcw, Home, ChevronRight } from "lucide-react";
+import { BookOpen, ArrowLeft, Check, X as XIcon, RotateCcw, Home, ChevronRight, Download } from "lucide-react";
 import Link from "next/link";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, incrementPerfectScores, checkNewMilestones } from "@/lib/milestones";
@@ -46,6 +46,7 @@ import SatzgefugeDiagram from "@/components/deutsch-visual/SatzgefugeDiagram";
 import EpochenZeitstrahl from "@/components/deutsch-visual/EpochenZeitstrahl";
 import { genGenusSortierung, genSatzOrdnen, genBildBeschriften, genFehlerFinden, genWortfamilienBaum, genGeschichteSortieren, genWortartenSortieren, genZeitformenZuordnen, genSatzgliedMarkieren, genKasusMarkieren, genAdjektivEndungen, genLueckenText, genSatzgefuge, genEpochenZeitstrahl } from "@/lib/deutschVisualGenerators";
 import { playCorrect, playIncorrect, playClick } from "@/lib/soundEffects";
+import { generateDeutschTestPdf } from "@/lib/generateDeutschTestPdf";
 
 // ─── TTS HELPER ──────────────────────────────────────────────────────────────
 function speakText(text: string) {
@@ -1784,6 +1785,34 @@ export default function DeutschTestPage() {
                   <Home size={18} /> Hauptmenü
                 </Link>
               </div>
+
+              {/* PDF Download */}
+              <motion.button
+                onClick={() => {
+                  const now = new Date();
+                  const dateStr = `${now.getDate().toString().padStart(2, "0")}.${(now.getMonth() + 1).toString().padStart(2, "0")}.${now.getFullYear()}`;
+                  generateDeutschTestPdf({
+                    gradeLevel: `Klasse ${grade}`,
+                    date: dateStr,
+                    questions: questions.map(q => ({ question: q.question, type: q.type })),
+                    answers,
+                    scoreCount,
+                    totalCount: answers.length,
+                    percentage: scorePct,
+                    noteValue: mark.note,
+                    noteLabel: mark.label,
+                    noteColor: mark.color,
+                    studentName: getUsername() || undefined,
+                  });
+                }}
+                className="w-full py-3 rounded-xl border-2 border-[#00D4FF]/30 text-[#00D4FF] font-bold text-sm flex items-center justify-center gap-2 mt-3"
+                style={{ background: "rgba(0,212,255,0.08)" }}
+                whileHover={{ scale: 1.02 }}
+                whileTap={{ scale: 0.97 }}
+              >
+                <Download size={18} />
+                PDF
+              </motion.button>
             </div>
           </motion.div>
         )}
