@@ -1,9 +1,10 @@
 "use client";
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { ChevronLeft } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
+import { GRADE_PLANETS } from "./planets";
 import { loadK1Progress } from "@/lib/astroDeutsch";
 import { loadK2Progress } from "@/lib/astroDeutsch2";
 import { loadK3Progress } from "@/lib/astroDeutsch3";
@@ -33,7 +34,6 @@ function Starfield() {
 const GRADE_CLASSES = [
   {
     grade: 1, route: "/astrodeutsch/1",
-    planet: "🪐",
     planetName: { en: "Buchstabia", hu: "Buchstabia", de: "Buchstabia", ro: "Buchstabia" },
     label: { en: "Class 1", hu: "1. osztály", de: "Klasse 1", ro: "Clasa 1" },
     subtitle: { en: "Letters & Words", hu: "Betűk & Szavak", de: "Buchstaben & Wörter", ro: "Litere & Cuvinte" },
@@ -44,7 +44,6 @@ const GRADE_CLASSES = [
   },
   {
     grade: 2, route: "/astrodeutsch/2",
-    planet: "🌊",
     planetName: { en: "Wortania", hu: "Wortania", de: "Wortania", ro: "Wortania" },
     label: { en: "Class 2", hu: "2. osztály", de: "Klasse 2", ro: "Clasa 2" },
     subtitle: { en: "Nouns & Verbs", hu: "Főnév & Ige", de: "Nomen & Verben", ro: "Substantive & Verbe" },
@@ -55,7 +54,6 @@ const GRADE_CLASSES = [
   },
   {
     grade: 3, route: "/astrodeutsch/3",
-    planet: "🔥",
     planetName: { en: "Grammatos", hu: "Grammatos", de: "Grammatos", ro: "Grammatos" },
     label: { en: "Class 3", hu: "3. osztály", de: "Klasse 3", ro: "Clasa 3" },
     subtitle: { en: "Grammar & Sentences", hu: "Nyelvtan & Mondatok", de: "Grammatik & Sätze", ro: "Gramatică & Propoziții" },
@@ -66,7 +64,6 @@ const GRADE_CLASSES = [
   },
   {
     grade: 4, route: "/astrodeutsch/4",
-    planet: "⭐",
     planetName: { en: "Kasusheim", hu: "Kasusheim", de: "Kasusheim", ro: "Kasusheim" },
     label: { en: "Class 4", hu: "4. osztály", de: "Klasse 4", ro: "Clasa 4" },
     subtitle: { en: "Cases & Tenses", hu: "Esetek & Igeidők", de: "Kasus & Zeitformen", ro: "Cazuri & Timpuri" },
