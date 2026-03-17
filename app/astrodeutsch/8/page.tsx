@@ -1,8 +1,8 @@
 "use client";
-import React, { useState, useEffect, useCallback, useRef } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { useState, useEffect, useCallback, useRef } from "react";
+import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
-import { Home, X, ChevronRight, ChevronLeft, Check } from "lucide-react";
+import { X, ChevronRight, ChevronLeft } from "lucide-react";
 import dynamic from "next/dynamic";
 import { useLang } from "@/components/LanguageProvider";
 import RewardReveal from "@/components/RewardReveal";
@@ -10,7 +10,6 @@ import MilestonePopup from "@/components/MilestonePopup";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, checkNewMilestones } from "@/lib/milestones";
 import type { CardRarity } from "@/lib/cards";
-import type { MathQuestion } from "@/lib/mathCurriculum";
 import { getGender, type AvatarGender } from "@/lib/gender";
 import { getSkinDef, getActiveSkin } from "@/lib/skins";
 import { getFaceDef, getActiveFace } from "@/lib/faces";
@@ -19,42 +18,26 @@ import { getActiveHat, getHatDef, getActiveTrail, getTrailDef } from "@/lib/acce
 import { T } from "@/app/astromath/games/translations";
 import OrbitQuiz from "@/app/astromath/games/OrbitQuiz";
 import BlackHole from "@/app/astromath/games/BlackHole";
-import GravitySort from "@/app/astromath/games/GravitySort";
 import StarMatch from "@/app/astromath/games/StarMatch";
-import NumberDuel from "@/app/astromath/games/NumberDuel";
+import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
-import G2TeachingSlide from "@/app/astromath/games/G2TeachingSlide";
-import PlaceValue100Explorer from "@/app/astromath/games/PlaceValue100Explorer";
-import MentalMathExplorer from "@/app/astromath/games/MentalMathExplorer";
-import ColumnAddSubExplorer from "@/app/astromath/games/ColumnAddSubExplorer";
-import CarryBorrowExplorer from "@/app/astromath/games/CarryBorrowExplorer";
-import MultiplicationExplorer from "@/app/astromath/games/MultiplicationExplorer";
-import DivisionIntroExplorer from "@/app/astromath/games/DivisionIntroExplorer";
-import G2MeasurementExplorer from "@/app/astromath/games/G2MeasurementExplorer";
-import { G2_ISLAND_SVGS } from "@/app/astromath/islands-g2";
+import type { MathQuestion } from "@/lib/mathCurriculum";
+import type { IslandDef, MissionDef, Lang, MissionCategory, DeutschProgress } from "@/lib/astroDeutsch";
+import {
+  K8_ISLANDS, K8_CHECKPOINT_MAP,
+  loadK8Progress, saveK8Progress,
+  isMissionDoneK8, isIslandDoneK8, isIslandUnlockedK8,
+  isCheckpointUnlockedK8, isCheckpointDoneK8,
+  completeMissionK8, completeTestK8, islandTotalStarsK8,
+  generateIslandQuestionsK8, generateCheckpointQuestionsK8,
+} from "@/lib/astroDeutsch8";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
-import {
-  G2_ISLANDS, G2_CHECKPOINT_MAP, type IslandDef, type MissionDef, type MissionCategory, type Lang,
-  loadG2Progress, saveG2Progress, type G2Progress,
-  isMissionDoneG2, isIslandDoneG2, isIslandUnlockedG2,
-  isCheckpointUnlockedG2, isCheckpointDoneG2,
-  completeMissionG2, completeTestG2, islandTotalStarsG2,
-  generateIslandQuestionsG2, generateCheckpointQuestionsG2,
-} from "@/lib/astromath2";
 
-// ─── Grade 2 labels ────────────────────────────────────────────────────────────
-const G2_LABEL: Record<string, string> = {
-  en: "Grade 2 · Space Adventure",
-  hu: "2. osztály · Ûrkaland",
-  de: "Klasse 2 · Weltraumabenteuer",
-  ro: "Clasa 2 · Aventură spațială",
-};
-
-// ─── Category config (Entdecken / Üben / Herausforderung) ────────────────────
-const CATEGORY_CONFIG: Record<MissionCategory, {
+// ─── Category card config ─────────────────────────────────────────────────────
+const CATEGORY_CONFIG: Record<string, {
   label: Record<string, string>;
   desc: Record<string, string>;
   color: string; bg: string; border: string;
@@ -62,10 +45,10 @@ const CATEGORY_CONFIG: Record<MissionCategory, {
   explore: {
     label: { en: "Explore", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" },
     desc: {
-      en: "Discover the concept visually — no wrong answers!",
-      hu: "Fedezd fel vizuálisan — nincs hibás válasz!",
-      de: "Entdecke das Konzept visuell — keine falschen Antworten!",
-      ro: "Descoperă conceptul vizual — fără răspunsuri greșite!",
+      en: "Discover concepts — no wrong answers!",
+      hu: "Fedezd fel — nincs hibás válasz!",
+      de: "Entdecke Konzepte — keine falschen Antworten!",
+      ro: "Descoperă — fără răspunsuri greșite!",
     },
     color: "#A78BFA", bg: "rgba(167,139,250,0.12)", border: "rgba(167,139,250,0.35)",
   },
@@ -91,35 +74,21 @@ const CATEGORY_CONFIG: Record<MissionCategory, {
   },
 };
 
-// ─── Screen types ──────────────────────────────────────────────────────────────
+const K8_LABEL: Record<string, string> = {
+  en: "Class 8",
+  hu: "8. osztály",
+  de: "Klasse 8",
+  ro: "Clasa 8",
+};
+
 type Screen =
-  | "island-map"
-  | "island-intro"
-  | "island-transition"
-  | "island-complete-anim"
-  | "mission-select"
-  | "orbit-quiz"
-  | "star-match"
-  | "gravity-sort"
-  | "black-hole"
-  | "number-duel"
-  | "g2-teaching"
-  | "place-value-100"
-  | "mental-math-explorer"
-  | "column-addsub"
-  | "carry-borrow"
-  | "multiplication-explorer"
-  | "division-intro"
-  | "g2-measurement"
-  | "mission-done"
-  | "island-done"
-  | "reward"
-  | "checkpoint-intro"
-  | "checkpoint-quiz"
-  | "checkpoint-done"
+  | "island-map" | "island-intro" | "mission-select"
+  | "orbit-quiz" | "star-match" | "black-hole" | "speed-round"
+  | "island-transition" | "island-complete-anim"
+  | "mission-done" | "island-done" | "reward"
+  | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
   | "rocket-launch";
 
-// ─── Starfield ─────────────────────────────────────────────────────────────────
 const STAR_DATA = Array.from({ length: 60 }, (_, i) => ({
   id: i, x: (i * 37 + 13) % 100, y: (i * 53 + 7) % 100,
   size: (i % 4) * 0.6 + 0.3, dur: 1.8 + (i % 6) * 0.5, delay: (i % 9) * 0.35,
@@ -141,20 +110,14 @@ function Starfield() {
         <motion.div key={`shoot-${s.id}`}
           className="absolute h-px rounded-full"
           style={{ left: `${s.startX}%`, top: `${10 + s.id * 18}%`, width: 60,
-            background: "linear-gradient(90deg, transparent, rgba(255,255,255,0.8), transparent)",
-            rotate: -25 }}
+            background: "linear-gradient(90deg, transparent, rgba(255,255,255,0.8), transparent)", rotate: -25 }}
           animate={{ x: [0, 180], opacity: [0, 1, 0] }}
           transition={{ duration: 0.8, delay: s.delay, repeat: Infinity, repeatDelay: s.dur, ease: "easeIn" }} />
       ))}
-      <div className="absolute" style={{ left: "10%", top: "20%", width: 200, height: 200,
-        background: "radial-gradient(ellipse, rgba(100,50,200,0.07) 0%, transparent 70%)", borderRadius: "50%" }} />
-      <div className="absolute" style={{ left: "55%", top: "55%", width: 160, height: 160,
-        background: "radial-gradient(ellipse, rgba(0,150,255,0.06) 0%, transparent 70%)", borderRadius: "50%" }} />
     </div>
   );
 }
 
-// ─── Island Map SVG ────────────────────────────────────────────────────────────
 const MAP_W = 320;
 const MAP_H = 860;
 const MAP_VB_OFFSET = 220;
@@ -165,7 +128,7 @@ const CP_POS: Record<string, { x: number; y: number }> = {
   test3: { x: 155, y: -165 },
 };
 
-function buildSmoothPath(islands: typeof G2_ISLANDS): string {
+function buildSmoothPath(islands: typeof K8_ISLANDS): string {
   const pts = islands.map((i) => ({ x: i.svgX, y: i.svgY }));
   if (pts.length < 2) return "";
   let d = `M ${pts[0].x},${pts[0].y}`;
@@ -179,50 +142,46 @@ function buildSmoothPath(islands: typeof G2_ISLANDS): string {
 }
 
 function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
-  progress: G2Progress;
+  progress: DeutschProgress;
   onIsland: (island: IslandDef) => void;
   onCheckpoint: (testId: string) => void;
 }) {
-  const pathD = buildSmoothPath(G2_ISLANDS);
-
+  const pathD = buildSmoothPath(K8_ISLANDS);
   return (
     <svg viewBox={`0 -${MAP_VB_OFFSET} ${MAP_W} ${MAP_H}`} width="100%" style={{ minHeight: MAP_H, display: "block" }}>
       <defs>
-        <filter id="pathGlow" x="-20%" y="-20%" width="140%" height="140%">
+        <filter id="pathGlowD8" x="-20%" y="-20%" width="140%" height="140%">
           <feGaussianBlur stdDeviation="3" result="blur" />
           <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
         </filter>
-        <filter id="islandGlow" x="-40%" y="-40%" width="180%" height="180%">
+        <filter id="islandGlowD8" x="-40%" y="-40%" width="180%" height="180%">
           <feGaussianBlur stdDeviation="5" result="blur" />
           <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
         </filter>
-        <radialGradient id="nebula1" cx="30%" cy="60%" r="50%">
-          <stop offset="0%" stopColor="#6420C8" stopOpacity="0.12" />
-          <stop offset="100%" stopColor="#6420C8" stopOpacity="0" />
+        <radialGradient id="nebula1d8" cx="30%" cy="60%" r="50%">
+          <stop offset="0%" stopColor="#E879F9" stopOpacity="0.10" />
+          <stop offset="100%" stopColor="#E879F9" stopOpacity="0" />
         </radialGradient>
-        <radialGradient id="nebula2" cx="70%" cy="30%" r="40%">
-          <stop offset="0%" stopColor="#0080FF" stopOpacity="0.09" />
-          <stop offset="100%" stopColor="#0080FF" stopOpacity="0" />
+        <radialGradient id="nebula2d8" cx="70%" cy="30%" r="40%">
+          <stop offset="0%" stopColor="#FF2D78" stopOpacity="0.08" />
+          <stop offset="100%" stopColor="#FF2D78" stopOpacity="0" />
         </radialGradient>
       </defs>
-
-      <ellipse cx={100} cy={350} rx={160} ry={200} fill="url(#nebula1)" />
-      <ellipse cx={220} cy={100} rx={130} ry={160} fill="url(#nebula2)" />
-
-      <path d={pathD} fill="none" stroke="rgba(150,100,255,0.25)" strokeWidth={8}
-        filter="url(#pathGlow)" strokeLinecap="round" />
-      <path d={pathD} fill="none" stroke="rgba(255,255,255,0.12)" strokeWidth={2.5}
+      <ellipse cx={100} cy={350} rx={160} ry={200} fill="url(#nebula1d8)" />
+      <ellipse cx={220} cy={100} rx={130} ry={160} fill="url(#nebula2d8)" />
+      <path d={pathD} fill="none" stroke="rgba(255,45,120,0.22)" strokeWidth={8}
+        filter="url(#pathGlowD8)" strokeLinecap="round" />
+      <path d={pathD} fill="none" stroke="rgba(255,255,255,0.10)" strokeWidth={2.5}
         strokeDasharray="10 7" strokeLinecap="round" />
-      {G2_ISLANDS.slice(0, -1).map((island, i) => {
-        const next = G2_ISLANDS[i + 1];
+      {K8_ISLANDS.slice(0, -1).map((island, i) => {
+        const next = K8_ISLANDS[i + 1];
         const mx = (island.svgX + next.svgX) / 2;
         const my = (island.svgY + next.svgY) / 2;
         return <circle key={i} cx={mx} cy={my} r={2} fill="rgba(255,255,255,0.18)" />;
       })}
-
       {Object.entries(CP_POS).map(([testId, pos]) => {
-        const unlocked = isCheckpointUnlockedG2(progress, testId);
-        const done = isCheckpointDoneG2(progress, testId);
+        const unlocked = isCheckpointUnlockedK8(progress, testId);
+        const done = isCheckpointDoneK8(progress, testId);
         const color = done ? "#00FF88" : unlocked ? "#FFD700" : "rgba(255,255,255,0.2)";
         const fillAlpha = done ? "rgba(0,255,136,0.15)" : unlocked ? "rgba(255,215,0,0.15)" : "rgba(255,255,255,0.03)";
         return (
@@ -243,41 +202,33 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
           </g>
         );
       })}
-
-      {G2_ISLANDS.map((island, idx) => {
-        const unlocked = isIslandUnlockedG2(progress, island.id);
-        const done = isIslandDoneG2(progress, island.id);
-        const total = islandTotalStarsG2(progress, island.id);
-
+      {K8_ISLANDS.map((island, idx) => {
+        const unlocked = isIslandUnlockedK8(progress, island.id);
+        const done = isIslandDoneK8(progress, island.id);
+        const total = islandTotalStarsK8(progress, island.id);
         return (
           <g key={island.id} onClick={() => unlocked && onIsland(island)}
             style={{ cursor: unlocked ? "pointer" : "default" }}>
             {unlocked && !done && (
-              <circle cx={island.svgX} cy={island.svgY} r={40}
-                fill={island.color} opacity={0.08} />
+              <circle cx={island.svgX} cy={island.svgY} r={40} fill={island.color} opacity={0.08} />
             )}
             {done && (
               <circle cx={island.svgX} cy={island.svgY} r={36}
-                fill="none" stroke="#FFD700" strokeWidth={1.5} opacity={0.5}
-                strokeDasharray="5 3" />
+                fill="none" stroke="#FFD700" strokeWidth={1.5} opacity={0.5} strokeDasharray="5 3" />
             )}
-            {unlocked ? (
-              <foreignObject x={island.svgX - 30} y={island.svgY - 30} width={60} height={60}
-                style={{ overflow: "visible" }}>
-                <div style={{ width: 60, height: 60, opacity: done ? 0.85 : 1 }}>
-                  {G2_ISLAND_SVGS[island.id] ? React.createElement(G2_ISLAND_SVGS[island.id], { size: 60 }) : <span style={{ fontSize: 20 }}>{island.icon}</span>}
-                </div>
-              </foreignObject>
-            ) : (
-              <>
-                <circle cx={island.svgX} cy={island.svgY} r={24}
-                  fill="rgba(255,255,255,0.04)"
-                  stroke="rgba(255,255,255,0.12)"
-                  strokeWidth={1.5}
-                  opacity={0.35} />
-                <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={20}>🔒</text>
-              </>
-            )}
+            <circle cx={island.svgX} cy={island.svgY} r={30}
+              fill={unlocked ? `${island.color}18` : "rgba(255,255,255,0.02)"}
+              stroke={unlocked ? `${island.color}50` : "rgba(255,255,255,0.06)"}
+              strokeWidth={1} opacity={unlocked ? 1 : 0.5} />
+            <circle cx={island.svgX} cy={island.svgY} r={24}
+              fill={done ? `${island.color}30` : unlocked ? `${island.color}20` : "rgba(255,255,255,0.04)"}
+              stroke={unlocked ? island.color : "rgba(255,255,255,0.12)"}
+              strokeWidth={unlocked ? (done ? 2.5 : 2) : 1.5}
+              filter={unlocked ? "url(#islandGlowD8)" : undefined}
+              opacity={unlocked ? 1 : 0.35} />
+            <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={20}>
+              {unlocked ? island.icon : "🔒"}
+            </text>
             {!unlocked && (
               <text x={island.svgX} y={island.svgY + 42} textAnchor="middle" fontSize={9}
                 fill="rgba(255,255,255,0.2)" fontWeight="bold">{idx + 1}</text>
@@ -291,13 +242,11 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
             {unlocked && !done && (
               <g>
                 {island.missions.map((m, mi) => {
-                  const mdone = isMissionDoneG2(progress, island.id, m.id);
+                  const mdone = isMissionDoneK8(progress, island.id, m.id);
                   return (
-                    <g key={mi}>
-                      <circle cx={island.svgX - 8 + mi * 8} cy={island.svgY + 34} r={4}
-                        fill={mdone ? island.color : "rgba(255,255,255,0.08)"}
-                        stroke={mdone ? island.color : "rgba(255,255,255,0.2)"} strokeWidth={1} />
-                    </g>
+                    <circle key={mi} cx={island.svgX - 8 + mi * 8} cy={island.svgY + 34} r={4}
+                      fill={mdone ? island.color : "rgba(255,255,255,0.08)"}
+                      stroke={mdone ? island.color : "rgba(255,255,255,0.2)"} strokeWidth={1} />
                   );
                 })}
               </g>
@@ -315,7 +264,6 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
   );
 }
 
-// ─── Mission Done screen ───────────────────────────────────────────────────────
 function MissionDoneScreen({ mission, island, score, total, onContinue }: {
   mission: MissionDef; island: IslandDef; score: number; total: number; onContinue: () => void;
 }) {
@@ -323,7 +271,6 @@ function MissionDoneScreen({ mission, island, score, total, onContinue }: {
   const t = T[lang as keyof typeof T] ?? T.en;
   const pct = Math.round((score / total) * 100);
   const stars = pct >= 80 ? 3 : pct >= 60 ? 2 : 1;
-
   return (
     <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
       className="flex flex-col items-center gap-6 w-full max-w-sm mx-auto text-center">
@@ -334,7 +281,7 @@ function MissionDoneScreen({ mission, island, score, total, onContinue }: {
       </motion.div>
       <div>
         <p className="text-white/60 text-sm font-medium mb-1">{t.missionDone}</p>
-        <h2 className="text-2xl font-black text-white">{mission.label[lang as Lang] ?? mission.label.en}</h2>
+        <h2 className="text-2xl font-black text-white">{mission.label[lang as Lang] ?? mission.label.de}</h2>
       </div>
       <div className="flex gap-1 text-3xl">
         {Array.from({ length: 3 }).map((_, i) => (
@@ -354,11 +301,9 @@ function MissionDoneScreen({ mission, island, score, total, onContinue }: {
   );
 }
 
-// ─── Island Done screen ────────────────────────────────────────────────────────
 function IslandDoneScreen({ island, onContinue }: { island: IslandDef; onContinue: () => void }) {
   const { lang } = useLang();
   const t = T[lang as keyof typeof T] ?? T.en;
-
   return (
     <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
       className="flex flex-col items-center gap-6 w-full max-w-sm mx-auto text-center">
@@ -368,7 +313,7 @@ function IslandDoneScreen({ island, onContinue }: { island: IslandDef; onContinu
       <div>
         <p className="text-white/60 text-sm font-medium mb-1">{t.islandDone}</p>
         <h2 className="text-2xl font-black" style={{ color: island.color }}>
-          {island.name[lang as Lang] ?? island.name.en}
+          {island.name[lang as Lang] ?? island.name.de}
         </h2>
       </div>
       <div className="flex gap-1 text-3xl">
@@ -387,7 +332,6 @@ function IslandDoneScreen({ island, onContinue }: { island: IslandDef; onContinu
   );
 }
 
-// ─── Checkpoint Done ───────────────────────────────────────────────────────────
 function CheckpointDoneScreen({ score, total, onContinue }: {
   score: number; total: number; testId: string; onContinue: () => void;
 }) {
@@ -395,7 +339,6 @@ function CheckpointDoneScreen({ score, total, onContinue }: {
   const t = T[lang as keyof typeof T] ?? T.en;
   const pct = Math.round((score / total) * 100);
   const emoji = pct >= 80 ? "🏆" : pct >= 60 ? "🎯" : "💪";
-
   return (
     <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
       className="flex flex-col items-center gap-6 w-full max-w-sm mx-auto text-center">
@@ -418,14 +361,13 @@ function CheckpointDoneScreen({ score, total, onContinue }: {
   );
 }
 
-// ─── Main Page ─────────────────────────────────────────────────────────────────
-export default function AstroMathG2Page() {
+export default function AstroDeutschK8Page() {
   const { lang } = useLang();
   const router = useRouter();
   const t = T[lang as keyof typeof T] ?? T.en;
 
   const [screen, setScreen] = useState<Screen>("island-map");
-  const [progress, setProgress] = useState<G2Progress>({ completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} });
+  const [progress, setProgress] = useState<DeutschProgress>({ completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} });
   const [activeIsland, setActiveIsland] = useState<IslandDef | null>(null);
   const [activeMission, setActiveMission] = useState<MissionDef | null>(null);
   const [activeTestId, setActiveTestId] = useState<string | null>(null);
@@ -436,7 +378,6 @@ export default function AstroMathG2Page() {
   const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
   const [justUnlockedIsland, setJustUnlockedIsland] = useState(false);
 
-  // ── Avatar state ──────────────────────────────────────────────────────────────
   const [gender] = useState<AvatarGender>(() => getGender());
   const [activeSkin] = useState(() => getSkinDef(getActiveSkin()));
   const [activeFace] = useState(() => getFaceDef(getActiveFace()));
@@ -454,23 +395,17 @@ export default function AstroMathG2Page() {
   const [avatarWalking, setAvatarWalking] = useState(false);
   const walkTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
-  const avatarIsland = G2_ISLANDS.find(i => i.id === avatarIslandId) ?? G2_ISLANDS[0];
-
-  const avatarProps = {
-    gender, activeSkin, activeFace,
-    activeTop, activeBottom, activeShoe, activeCape, activeGlasses, activeGloves,
-    activeHat, activeTrail,
-  };
+  const avatarIsland = K8_ISLANDS.find(i => i.id === avatarIslandId) ?? K8_ISLANDS[0];
+  const avatarProps = { gender, activeSkin, activeFace, activeTop, activeBottom, activeShoe, activeCape, activeGlasses, activeGloves, activeHat, activeTrail };
 
   useEffect(() => {
-    const p = loadG2Progress();
+    const p = loadK8Progress();
     setProgress(p);
-    const lastDone = [...G2_ISLANDS].reverse().find(i => p.completedIslands.includes(i.id));
+    const lastDone = [...K8_ISLANDS].reverse().find(i => p.completedIslands.includes(i.id));
     if (lastDone) setAvatarIslandId(lastDone.id);
     return () => { if (walkTimerRef.current) clearTimeout(walkTimerRef.current); };
   }, []);
 
-  // ── Island selected ──────────────────────────────────────────────────────────
   const handleIslandSelect = useCallback((island: IslandDef) => {
     if (walkTimerRef.current) clearTimeout(walkTimerRef.current);
     setActiveIsland(island);
@@ -480,48 +415,31 @@ export default function AstroMathG2Page() {
     setScreen("island-transition");
   }, []);
 
-  // ── Start mission ────────────────────────────────────────────────────────────
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const noQuestionsTypes: string[] = [
-      "g2-teaching", "number-duel", "gravity-sort",
-      "place-value-100", "mental-math-explorer", "column-addsub",
-      "carry-borrow", "multiplication-explorer", "division-intro", "g2-measurement",
-    ];
-    if (noQuestionsTypes.includes(mission.gameType)) {
-      setQuestions([]);
-      setScreen(mission.gameType as Screen);
-      return;
-    }
     const qCount = mission.gameType === "star-match" ? 15 : 10;
-    const qs = generateIslandQuestionsG2(activeIsland, lang as Lang, qCount);
+    const qs = generateIslandQuestionsK8(activeIsland, lang as Lang, qCount);
     setQuestions(qs);
     setScreen(mission.gameType as Screen);
   }, [activeIsland, lang]);
 
-  // ── Mission finished ─────────────────────────────────────────────────────────
   const handleMissionDone = useCallback((score: number, total: number) => {
     if (!activeIsland || !activeMission) return;
     setMissionScore({ score, total });
-
     const pct = total > 0 ? Math.round((score / total) * 100) : 0;
     const stars = pct >= 80 ? 3 : pct >= 60 ? 2 : 1;
-
     const wasIslandDone = progress.completedIslands.includes(activeIsland.id);
-    const newProgress = completeMissionG2(progress, activeIsland.id, activeMission.id, stars);
+    const newProgress = completeMissionK8(progress, activeIsland.id, activeMission.id, stars);
     const isNowIslandDone = newProgress.completedIslands.includes(activeIsland.id);
     setJustUnlockedIsland(!wasIslandDone && isNowIslandDone);
-    saveG2Progress(newProgress);
+    saveK8Progress(newProgress);
     setProgress(newProgress);
-
-    const pct2 = total > 0 ? Math.round((score / total) * 100) : 0;
-    setAvatarMood(pct2 >= 60 ? "victory" : "disappointed");
+    setAvatarMood(pct >= 60 ? "victory" : "disappointed");
     setScreen("mission-done");
   }, [activeIsland, activeMission, progress]);
 
-  // ── After mission-done: check if island complete ─────────────────────────────
   const handleAfterMission = useCallback(() => {
     if (!activeIsland) return;
     if (justUnlockedIsland) {
@@ -533,7 +451,7 @@ export default function AstroMathG2Page() {
 
   const handleIslandAnimDone = useCallback(() => {
     const rarity = calculateRarity(missionScore.score, missionScore.total, 0, false);
-    saveCard({ id: generateCardId(), game: "astromath", rarity, score: missionScore.score, total: missionScore.total, date: new Date().toISOString() });
+    saveCard({ id: generateCardId(), game: "astrodeutsch", rarity, score: missionScore.score, total: missionScore.total, date: new Date().toISOString() });
     window.dispatchEvent(new Event("plizio-cards-changed"));
     incrementTotalGames();
     checkNewMilestones();
@@ -542,18 +460,17 @@ export default function AstroMathG2Page() {
     setScreen("reward");
   }, [missionScore]);
 
-  // ── Checkpoint ───────────────────────────────────────────────────────────────
   const startCheckpoint = useCallback((testId: string) => {
     setActiveTestId(testId);
     setAvatarMood("focused");
-    const qs = generateCheckpointQuestionsG2(testId, lang as Lang, 7);
+    const qs = generateCheckpointQuestionsK8(testId, lang as Lang, 7);
     setQuestions(qs);
     setScreen("rocket-launch");
   }, [lang]);
 
   const startCheckpointQuiz = useCallback(() => {
     if (!activeTestId) return;
-    const qs = generateCheckpointQuestionsG2(activeTestId, lang as Lang, 10);
+    const qs = generateCheckpointQuestionsK8(activeTestId, lang as Lang, 10);
     setQuestions(qs);
     setScreen("checkpoint-quiz");
   }, [activeTestId, lang]);
@@ -561,13 +478,11 @@ export default function AstroMathG2Page() {
   const handleCheckpointDone = useCallback((score: number, total: number) => {
     if (!activeTestId) return;
     setCheckpointScore({ score, total });
-
-    const newProgress = completeTestG2(progress, activeTestId);
-    saveG2Progress(newProgress);
+    const newProgress = completeTestK8(progress, activeTestId);
+    saveK8Progress(newProgress);
     setProgress(newProgress);
-
     const rarity = calculateRarity(score, total, 0, false);
-    saveCard({ id: generateCardId(), game: "astromath", rarity, score, total, date: new Date().toISOString() });
+    saveCard({ id: generateCardId(), game: "astrodeutsch", rarity, score, total, date: new Date().toISOString() });
     window.dispatchEvent(new Event("plizio-cards-changed"));
     incrementTotalGames();
     checkNewMilestones();
@@ -584,22 +499,22 @@ export default function AstroMathG2Page() {
     setActiveTestId(null);
   }, []);
 
-  const bgColor = activeIsland?.color ?? "#4ECDC4";
+  const bgColor = activeIsland?.color ?? "#E879F9";
 
-  // ─── ISLAND MAP ─────────────────────────────────────────────────────────────
+  // ─── ISLAND MAP ──────────────────────────────────────────────────────────────
   if (screen === "island-map") {
     const totalDone = progress.completedIslands.length;
     return (
       <div className="min-h-screen bg-[#060614] flex flex-col relative overflow-hidden">
         <Starfield />
         <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-2 flex-shrink-0">
-          <button onClick={() => router.push("/astromath")}
+          <button onClick={() => router.push("/astrodeutsch")}
             className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70 hover:bg-white/20 transition-colors">
             <ChevronLeft size={18} />
           </button>
           <div className="text-center">
-            <h1 className="text-lg font-black text-white">🪐 {t.islandMap}</h1>
-            <p className="text-[10px] text-white/50 font-medium uppercase tracking-widest">{G2_LABEL[lang] ?? G2_LABEL.en}</p>
+            <h1 className="text-lg font-black text-white">🇩🇪 {t.islandMap}</h1>
+            <p className="text-[10px] text-white/50 font-medium uppercase tracking-widest">{K8_LABEL[lang] ?? K8_LABEL.de}</p>
           </div>
           <div className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/60 text-xs font-bold">
             {totalDone}/9
@@ -607,7 +522,7 @@ export default function AstroMathG2Page() {
         </div>
         <div className="relative z-10 px-4 mb-2 flex-shrink-0">
           <div className="h-1.5 bg-white/10 rounded-full overflow-hidden">
-            <motion.div className="h-full rounded-full" style={{ background: "linear-gradient(90deg, #4ECDC4, #B44DFF)" }}
+            <motion.div className="h-full rounded-full" style={{ background: "linear-gradient(90deg, #E879F9, #FF2D78)" }}
               initial={{ width: 0 }} animate={{ width: `${(totalDone / 9) * 100}%` }} transition={{ duration: 0.8 }} />
           </div>
         </div>
@@ -629,19 +544,8 @@ export default function AstroMathG2Page() {
                   : { opacity: { delay: 0.5, duration: 0.5 } }
                 }
               >
-                <AvatarCompanion
-                  fixed={false}
-                  mood={avatarWalking ? "happy" : "idle"}
-                  passThrough={true}
-                  {...avatarProps}
-                />
+                <AvatarCompanion fixed={false} mood={avatarWalking ? "happy" : "idle"} passThrough={true} {...avatarProps} />
               </motion.div>
-            </div>
-            <div className="flex justify-center pt-2 pb-4">
-              <a href={lang === "hu" ? "/blog/matek-tanulas-astromath/" : lang === "ro" ? "/blog/matematica-astromath/" : "/blog/free-math-games-kids/"}
-                className="text-white/30 text-xs font-medium hover:text-white/60 transition-colors">
-                📖 {lang === "hu" ? "Hogyan működik az AstroMath?" : lang === "ro" ? "Cum funcționează AstroMath?" : "How does AstroMath work?"}
-              </a>
             </div>
           </div>
         </div>
@@ -664,7 +568,7 @@ export default function AstroMathG2Page() {
             {activeIsland.icon}
           </motion.div>
           <div>
-            <h2 className="text-2xl font-black text-white">{activeIsland.name[lang as Lang] ?? activeIsland.name.en}</h2>
+            <h2 className="text-2xl font-black text-white">{activeIsland.name[lang as Lang] ?? activeIsland.name.de}</h2>
             <p className="text-white/60 text-sm mt-2 font-medium">{activeIsland.missions.length} {t.missions}</p>
           </div>
           <motion.button onClick={() => setScreen("mission-select")}
@@ -678,18 +582,17 @@ export default function AstroMathG2Page() {
     );
   }
 
-  // ─── MISSION SELECT — 3 category cards (same as G4) ─────────────────────────
+  // ─── MISSION SELECT ───────────────────────────────────────────────────────────
   if (screen === "mission-select" && activeIsland) {
-    const totalStars = islandTotalStarsG2(progress, activeIsland.id);
+    const totalStars = islandTotalStarsK8(progress, activeIsland.id);
     return (
       <div className="min-h-screen flex flex-col relative overflow-hidden"
         style={{ background: `radial-gradient(ellipse at 50% 0%, ${bgColor}22 0%, #060614 55%)` }}>
         <Starfield />
-        {/* Header */}
         <div className="relative z-10 flex items-center justify-between px-4 pt-5 pb-2">
           <button onClick={goToMap} className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={16} /></button>
           <div className="text-center">
-            <h2 className="font-black text-white text-base">{activeIsland.icon} {activeIsland.name[lang as Lang] ?? activeIsland.name.en}</h2>
+            <h2 className="font-black text-white text-base">{activeIsland.icon} {activeIsland.name[lang as Lang] ?? activeIsland.name.de}</h2>
             {totalStars > 0 && (
               <div className="flex items-center justify-center gap-0.5 mt-0.5">
                 {Array.from({ length: 9 }).map((_, i) => (
@@ -703,36 +606,27 @@ export default function AstroMathG2Page() {
           </div>
           <div className="w-9" />
         </div>
-
-        {/* Subtitle */}
         <p className="relative z-10 text-center text-white/50 text-xs font-medium px-6 pb-3">
           {lang === "hu" ? "Válaszd ki, hogyan szeretnél tanulni:" :
            lang === "de" ? "Wähle deinen Lernweg:" :
            lang === "ro" ? "Alege cum vrei să înveți:" :
            "Choose how you want to learn:"}
         </p>
-
-        {/* 3 Category Cards */}
         <div className="relative z-10 flex-1 flex flex-col px-5 gap-4 pb-8 justify-center">
           {(["explore", "build", "challenge"] as MissionCategory[]).map((cat, cardIdx) => {
             const mission = activeIsland.missions.find(m => m.category === cat);
             if (!mission) return null;
             const cfg = CATEGORY_CONFIG[cat];
-            const done = isMissionDoneG2(progress, activeIsland.id, mission.id);
+            const done = isMissionDoneK8(progress, activeIsland.id, mission.id);
             const mKey = `${activeIsland.id}_${mission.id}`;
             const bestStars = (progress.missionStars ?? {})[mKey] ?? 0;
             return (
-              <motion.button
-                key={cat}
-                onClick={() => startMission(mission)}
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
+              <motion.button key={cat} onClick={() => startMission(mission)}
+                initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: cardIdx * 0.08 }}
                 className="w-full rounded-3xl p-5 text-left flex flex-col gap-2"
                 style={{ background: cfg.bg, border: `2px solid ${done ? cfg.color : cfg.border}` }}
-                whileTap={{ scale: 0.97 }}
-              >
-                {/* Top row: category badge + stars */}
+                whileTap={{ scale: 0.97 }}>
                 <div className="flex items-center justify-between">
                   <span className="text-xs font-black px-2.5 py-0.5 rounded-full"
                     style={{ background: `${cfg.color}25`, color: cfg.color }}>
@@ -748,19 +642,17 @@ export default function AstroMathG2Page() {
                     </div>
                   )}
                 </div>
-                {/* Mission name + icon */}
                 <div className="flex items-center gap-3">
                   <span className="text-3xl">{mission.icon}</span>
                   <div>
                     <p className="font-black text-white text-base leading-tight">
-                      {mission.label[lang as Lang] ?? mission.label.en}
+                      {mission.label[lang as Lang] ?? mission.label.de}
                     </p>
                     <p className="text-xs mt-0.5" style={{ color: `${cfg.color}cc` }}>
                       {cfg.desc[lang] ?? cfg.desc.en}
                     </p>
                   </div>
                 </div>
-                {/* CTA */}
                 <div className="flex items-center justify-end">
                   <span className="text-xs font-bold flex items-center gap-1" style={{ color: cfg.color }}>
                     {done
@@ -787,7 +679,7 @@ export default function AstroMathG2Page() {
           className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={14} /></button>
         <div className="flex-1">
           <p className="text-white/70 text-xs font-bold">{activeIsland?.icon} {activeIsland?.name[lang as Lang]}</p>
-          <p className="text-white/50 text-[10px]">{activeMission?.label[lang as Lang] ?? activeMission?.label.en}</p>
+          <p className="text-white/50 text-[10px]">{activeMission?.label[lang as Lang] ?? activeMission?.label.de}</p>
         </div>
       </div>
       <div className="relative z-10 flex-1 flex flex-col justify-center px-4 pb-6">
@@ -801,72 +693,19 @@ export default function AstroMathG2Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
-        {screen === "gravity-sort" && activeIsland && (
-          <GravitySort sortRange={activeIsland.sortRange} color={bgColor} onDone={handleMissionDone} />
-        )}
         {screen === "star-match" && questions.length > 0 && (
           <StarMatch questions={questions} color={bgColor} onDone={handleMissionDone} />
         )}
-        {screen === "number-duel" && activeIsland && (
-          <NumberDuel sortRange={activeIsland.sortRange} color={bgColor} onDone={handleMissionDone} />
+        {screen === "speed-round" && questions.length > 0 && (
+          <SpeedRound questions={questions} color={bgColor} lang={lang} onDone={handleMissionDone}
+            onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
+            onWrong={() => setAvatarMood("disappointed")} />
         )}
       </div>
     </div>
   );
 
-  // ─── G2 TEACHING ──────────────────────────────────────────────────────────────
-  if (screen === "g2-teaching" && activeIsland) {
-    return (
-      <G2TeachingSlide
-        islandId={activeIsland.id}
-        lang={lang}
-        color={bgColor}
-        onDone={handleMissionDone}
-        onExit={() => setScreen("mission-select")}
-      />
-    );
-  }
-
-  // ─── NEW G2 EXPLORERS ────────────────────────────────────────────────────────
-  if (screen === "place-value-100") return (
-    <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center px-4 py-8">
-      <PlaceValue100Explorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-    </div>
-  );
-  if (screen === "mental-math-explorer") return (
-    <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center px-4 py-8">
-      <MentalMathExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-    </div>
-  );
-  if (screen === "column-addsub" && activeIsland) return (
-    <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center px-4 py-8">
-      <ColumnAddSubExplorer color={bgColor} lang={lang} onDone={handleMissionDone}
-        mode={activeIsland.id === "i4" ? "sub" : "add"} />
-    </div>
-  );
-  if (screen === "carry-borrow" && activeIsland) return (
-    <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center px-4 py-8">
-      <CarryBorrowExplorer color={bgColor} lang={lang} onDone={handleMissionDone}
-        mode={activeIsland.id === "i6" ? "borrow" : "carry"} />
-    </div>
-  );
-  if (screen === "multiplication-explorer") return (
-    <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center px-4 py-8">
-      <MultiplicationExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-    </div>
-  );
-  if (screen === "division-intro") return (
-    <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center px-4 py-8">
-      <DivisionIntroExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-    </div>
-  );
-  if (screen === "g2-measurement") return (
-    <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center px-4 py-8">
-      <G2MeasurementExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
-    </div>
-  );
-
-  if (["orbit-quiz", "black-hole", "gravity-sort", "star-match", "number-duel"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
@@ -877,27 +716,26 @@ export default function AstroMathG2Page() {
   if (screen === "rocket-launch" && activeTestId) {
     return (
       <>
-      <div className="min-h-screen flex flex-col relative overflow-hidden"
-        style={{ background: "radial-gradient(ellipse at 50% 0%, rgba(255,165,0,0.18) 0%, #060614 55%)" }}>
-        <Starfield />
-        <div className="relative z-10 flex items-center gap-3 px-4 pt-5 pb-3">
-          <button onClick={goToMap} className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={14} /></button>
-          <div className="flex-1">
-            <p className="text-white font-black text-sm">{t.rocketTitle}</p>
-            <p className="text-white/50 text-[10px]">{t.rocketDesc}</p>
+        <div className="min-h-screen flex flex-col relative overflow-hidden"
+          style={{ background: "radial-gradient(ellipse at 50% 0%, rgba(255,165,0,0.18) 0%, #060614 55%)" }}>
+          <Starfield />
+          <div className="relative z-10 flex items-center gap-3 px-4 pt-5 pb-3">
+            <button onClick={goToMap} className="w-8 h-8 flex items-center justify-center rounded-full bg-white/10 text-white/70"><X size={14} /></button>
+            <div className="flex-1">
+              <p className="text-white font-black text-sm">{t.rocketTitle}</p>
+              <p className="text-white/50 text-[10px]">{t.rocketDesc}</p>
+            </div>
+          </div>
+          <div className="relative z-10 flex-1 flex flex-col justify-center px-4 pb-6">
+            <RocketLaunch questions={questions} color="#FF9500" onDone={() => setScreen("checkpoint-intro")} />
           </div>
         </div>
-        <div className="relative z-10 flex-1 flex flex-col justify-center px-4 pb-6">
-          <RocketLaunch questions={questions} color="#FF9500"
-            onDone={() => setScreen("checkpoint-intro")} />
-        </div>
-      </div>
-      <AvatarCompanion fixed={true} mood="focused" {...avatarProps} />
+        <AvatarCompanion fixed={true} mood="focused" {...avatarProps} />
       </>
     );
   }
 
-  // ─── ISLAND TRANSITION ───────────────────────────────────────────────────────
+  // ─── ISLAND TRANSITION ────────────────────────────────────────────────────────
   if (screen === "island-transition") {
     return (
       <div className="min-h-screen bg-[#060614] relative">
@@ -907,15 +745,15 @@ export default function AstroMathG2Page() {
     );
   }
 
-  // ─── ISLAND COMPLETE ANIMATION ───────────────────────────────────────────────
+  // ─── ISLAND COMPLETE ANIMATION ────────────────────────────────────────────────
   if (screen === "island-complete-anim" && activeIsland) {
     return (
       <IslandCompleteAnimation
         islandIcon={activeIsland.icon}
         islandColor={activeIsland.color}
-        islandName={activeIsland.name[lang as Lang] ?? activeIsland.name.en}
+        islandName={activeIsland.name[lang as Lang] ?? activeIsland.name.de}
         lang={lang}
-        grade={2}
+        grade={8}
         score={missionScore.score}
         total={missionScore.total}
         onDone={handleIslandAnimDone}
@@ -923,7 +761,7 @@ export default function AstroMathG2Page() {
     );
   }
 
-  // ─── MISSION DONE ────────────────────────────────────────────────────────────
+  // ─── MISSION DONE ─────────────────────────────────────────────────────────────
   if (screen === "mission-done" && activeIsland && activeMission) {
     return (
       <div className="min-h-screen flex flex-col items-center justify-center relative overflow-hidden px-5"
@@ -937,25 +775,22 @@ export default function AstroMathG2Page() {
     );
   }
 
-  // ─── REWARD ──────────────────────────────────────────────────────────────────
+  // ─── REWARD ───────────────────────────────────────────────────────────────────
   if (screen === "reward" && earnedCard) {
     return (
       <>
-        <RewardReveal rarity={earnedCard} game="astromath"
+        <RewardReveal rarity={earnedCard} game="astrodeutsch"
           score={rewardScore.score} total={rewardScore.total}
           onDone={() => {
-            if (activeTestId) {
-              setScreen("checkpoint-done");
-            } else {
-              setScreen("island-done");
-            }
+            if (activeTestId) setScreen("checkpoint-done");
+            else setScreen("island-done");
           }} />
         <MilestonePopup />
       </>
     );
   }
 
-  // ─── ISLAND DONE ─────────────────────────────────────────────────────────────
+  // ─── ISLAND DONE ──────────────────────────────────────────────────────────────
   if (screen === "island-done" && activeIsland) {
     return (
       <div className="min-h-screen flex flex-col items-center justify-center relative overflow-hidden px-5"
@@ -969,15 +804,14 @@ export default function AstroMathG2Page() {
     );
   }
 
-  // ─── CHECKPOINT INTRO ────────────────────────────────────────────────────────
+  // ─── CHECKPOINT INTRO ─────────────────────────────────────────────────────────
   if (screen === "checkpoint-intro" && activeTestId) {
-    const testTopicsG2: Record<string, Record<string, string>> = {
-      en: { test1: "Numbers to 100, Mental Arithmetic, Addition", test2: "Subtraction, Operations with Carrying", test3: "Times Tables, Division, Measurement" },
-      hu: { test1: "Számok 100-ig, fejszámolás, összeadás", test2: "Kivonás, műveletek átvitellel", test3: "Szorzótábla, osztás, mérések" },
-      de: { test1: "Zahlenraum 100, Kopfrechnen, Addition", test2: "Subtraktion, Rechnen mit Übertrag", test3: "Einmaleins, Division, Messen" },
-      ro: { test1: "Numere 100, Calcul mental, Adunare", test2: "Scădere, Operații cu transport", test3: "Tabla înmulțirii, Împărțire, Măsurare" },
+    const testTopicsK8: Record<string, Record<string, string>> = {
+      test1: { en: "Konjunktiv I & II, Passive", hu: "Konjunktív I & II, Szenvedő", de: "Konjunktiv I & II, Passiv", ro: "Conjunctiv I & II, Pasiv" },
+      test2: { en: "Participles, Style, Text Types", hu: "Igenév, Stílus, Szövegtípusok", de: "Partizipien, Stil, Textsorten", ro: "Participii, Stil, Tipuri text" },
+      test3: { en: "Literature, Nominal Style, Registers", hu: "Irodalom, Névszói stílus, Regiszterek", de: "Literatur, Nominalstil, Sprachebenen", ro: "Literatură, Stil nominal, Registre" },
     };
-    const topicDesc = (testTopicsG2[lang] ?? testTopicsG2.en)[activeTestId] ?? "";
+    const topicDesc = (testTopicsK8[activeTestId] ?? {})[lang] ?? (testTopicsK8[activeTestId] ?? {})["de"] ?? "";
     return (
       <div className="min-h-screen flex flex-col items-center justify-center relative overflow-hidden px-5 gap-6"
         style={{ background: "radial-gradient(ellipse at 50% 30%, rgba(255,215,0,0.12) 0%, #060614 60%)" }}>
@@ -1001,7 +835,7 @@ export default function AstroMathG2Page() {
     );
   }
 
-  // ─── CHECKPOINT QUIZ ─────────────────────────────────────────────────────────
+  // ─── CHECKPOINT QUIZ ──────────────────────────────────────────────────────────
   if (screen === "checkpoint-quiz" && questions.length > 0) {
     return (
       <>
@@ -1023,7 +857,7 @@ export default function AstroMathG2Page() {
     );
   }
 
-  // ─── CHECKPOINT DONE ─────────────────────────────────────────────────────────
+  // ─── CHECKPOINT DONE ──────────────────────────────────────────────────────────
   if (screen === "checkpoint-done" && activeTestId) {
     return (
       <div className="min-h-screen flex flex-col items-center justify-center relative overflow-hidden px-5"
