@@ -636,6 +636,7 @@ export default function Home() {
     const checkAuth = async () => {
       const user = await getUser();
       setIsLoggedIn(!!user);
+      if (user) syncToSupabase(user.id).catch((err) => console.error("Sync error:", err));
       // Never auto-show auth modal again after dismissed or registered
       if (!user) {
         const stats = getStats();
