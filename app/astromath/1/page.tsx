@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect, useCallback, useRef } from "react";
+import React, { useState, useEffect, useCallback, useRef } from "react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { X, ChevronRight, ChevronLeft } from "lucide-react";
@@ -36,6 +36,7 @@ import ClockCoinsExplorer from "@/app/astromath/games/ClockCoinsExplorer";
 import PatternExplorer from "@/app/astromath/games/PatternExplorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import { G1_ISLAND_SVGS } from "@/app/astromath/islands";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 import {
@@ -292,17 +293,27 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
               fill={unlocked ? `${island.color}18` : "rgba(255,255,255,0.02)"}
               stroke={unlocked ? `${island.color}50` : "rgba(255,255,255,0.06)"}
               strokeWidth={1} opacity={unlocked ? 1 : 0.5} />
-            {/* Main circle */}
-            <circle cx={island.svgX} cy={island.svgY} r={24}
-              fill={done ? `${island.color}30` : unlocked ? `${island.color}20` : "rgba(255,255,255,0.04)"}
-              stroke={unlocked ? island.color : "rgba(255,255,255,0.12)"}
-              strokeWidth={unlocked ? (done ? 2.5 : 2) : 1.5}
-              filter={unlocked ? "url(#islandGlow)" : undefined}
-              opacity={unlocked ? 1 : 0.35} />
-            {/* Icon */}
-            <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={20}>
-              {unlocked ? island.icon : "🔒"}
-            </text>
+            {/* Main circle — shown for locked islands only */}
+            {!unlocked && (
+              <circle cx={island.svgX} cy={island.svgY} r={24}
+                fill="rgba(255,255,255,0.04)"
+                stroke="rgba(255,255,255,0.12)"
+                strokeWidth={1.5}
+                opacity={0.35} />
+            )}
+            {/* Unlocked: SVG island illustration */}
+            {unlocked && G1_ISLAND_SVGS[island.id] && (
+              <foreignObject x={island.svgX - 30} y={island.svgY - 30} width={60} height={60}
+                style={{ overflow: "visible" }}>
+                <div xmlns="http://www.w3.org/1999/xhtml" style={{ width: 60, height: 60, opacity: done ? 0.85 : 1 }}>
+                  {React.createElement(G1_ISLAND_SVGS[island.id], { size: 60 })}
+                </div>
+              </foreignObject>
+            )}
+            {/* Lock icon for locked islands */}
+            {!unlocked && (
+              <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={20}>🔒</text>
+            )}
             {/* Island number (locked) */}
             {!unlocked && (
               <text x={island.svgX} y={island.svgY + 42} textAnchor="middle" fontSize={9}

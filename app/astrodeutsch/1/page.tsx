@@ -1,8 +1,10 @@
 "use client";
+import React from "react";
 import { useState, useEffect, useCallback, useRef } from "react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { X, ChevronRight, ChevronLeft } from "lucide-react";
+import { K1_ISLAND_SVGS } from "@/app/astrodeutsch/islands";
 import dynamic from "next/dynamic";
 import { useLang } from "@/components/LanguageProvider";
 import RewardReveal from "@/components/RewardReveal";
@@ -21,6 +23,15 @@ import BlackHole from "@/app/astromath/games/BlackHole";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
+import LetterExplorer from "@/app/astrodeutsch/games/LetterExplorer";
+import SyllableExplorer from "@/app/astrodeutsch/games/SyllableExplorer";
+import ArticleExplorer from "@/app/astrodeutsch/games/ArticleExplorer";
+import RhymeExplorer from "@/app/astrodeutsch/games/RhymeExplorer";
+import SentenceExplorer from "@/app/astrodeutsch/games/SentenceExplorer";
+import PictureWordExplorer from "@/app/astrodeutsch/games/PictureWordExplorer";
+import CompoundWordExplorer from "@/app/astrodeutsch/games/CompoundWordExplorer";
+import ReadingExplorer from "@/app/astrodeutsch/games/ReadingExplorer";
+import ReviewExplorer from "@/app/astrodeutsch/games/ReviewExplorer";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import type { MathQuestion } from "@/lib/mathCurriculum";
@@ -84,6 +95,9 @@ const K1_LABEL: Record<string, string> = {
 type Screen =
   | "island-map" | "island-intro" | "mission-select"
   | "orbit-quiz" | "star-match" | "black-hole" | "speed-round"
+  | "letter-explorer" | "syllable-explorer" | "article-explorer" | "rhyme-explorer"
+  | "sentence-explorer" | "picture-word-explorer" | "compound-word-explorer"
+  | "reading-explorer" | "review-explorer"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
@@ -220,15 +234,22 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
               fill={unlocked ? `${island.color}18` : "rgba(255,255,255,0.02)"}
               stroke={unlocked ? `${island.color}50` : "rgba(255,255,255,0.06)"}
               strokeWidth={1} opacity={unlocked ? 1 : 0.5} />
-            <circle cx={island.svgX} cy={island.svgY} r={24}
-              fill={done ? `${island.color}30` : unlocked ? `${island.color}20` : "rgba(255,255,255,0.04)"}
-              stroke={unlocked ? island.color : "rgba(255,255,255,0.12)"}
-              strokeWidth={unlocked ? (done ? 2.5 : 2) : 1.5}
-              filter={unlocked ? "url(#islandGlowD1)" : undefined}
-              opacity={unlocked ? 1 : 0.35} />
-            <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={20}>
-              {unlocked ? island.icon : "🔒"}
-            </text>
+            {unlocked && K1_ISLAND_SVGS[island.id] ? (
+              <foreignObject x={island.svgX - 30} y={island.svgY - 30} width={60} height={60}>
+                <div style={{ width: 60, height: 60 }}>
+                  {React.createElement(K1_ISLAND_SVGS[island.id], { size: 60 })}
+                </div>
+              </foreignObject>
+            ) : (
+              <>
+                <circle cx={island.svgX} cy={island.svgY} r={24}
+                  fill="rgba(255,255,255,0.04)"
+                  stroke="rgba(255,255,255,0.12)"
+                  strokeWidth={1.5}
+                  opacity={0.35} />
+                <text x={island.svgX} y={island.svgY + 7} textAnchor="middle" fontSize={20}>🔒</text>
+              </>
+            )}
             {!unlocked && (
               <text x={island.svgX} y={island.svgY + 42} textAnchor="middle" fontSize={9}
                 fill="rgba(255,255,255,0.2)" fontWeight="bold">{idx + 1}</text>
@@ -701,11 +722,44 @@ export default function AstroDeutschK1Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "letter-explorer" && (
+          <LetterExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "syllable-explorer" && (
+          <SyllableExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "article-explorer" && (
+          <ArticleExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "rhyme-explorer" && (
+          <RhymeExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "sentence-explorer" && (
+          <SentenceExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "picture-word-explorer" && (
+          <PictureWordExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "compound-word-explorer" && (
+          <CompoundWordExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "reading-explorer" && (
+          <ReadingExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "review-explorer" && (
+          <ReviewExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round"].includes(screen)) return (
+  const EXPLORER_SCREENS: Screen[] = [
+    "letter-explorer", "syllable-explorer", "article-explorer", "rhyme-explorer",
+    "sentence-explorer", "picture-word-explorer", "compound-word-explorer",
+    "reading-explorer", "review-explorer",
+  ];
+
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round", ...EXPLORER_SCREENS].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

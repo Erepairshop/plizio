@@ -23,7 +23,10 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "triangle-explorer" | "pythagoras-explorer" | "circle-explorer"
   | "sqrt-explorer" | "quadratic-explorer" | "system-explorer"
   | "function-explorer" | "probability-explorer" | "transform-explorer"
-  | "visual-challenge";
+  | "visual-challenge"
+  | "letter-explorer" | "syllable-explorer" | "article-explorer" | "rhyme-explorer"
+  | "sentence-explorer" | "picture-word-explorer" | "compound-word-explorer"
+  | "reading-explorer" | "review-explorer";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }
