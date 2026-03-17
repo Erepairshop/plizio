@@ -341,6 +341,85 @@ const SATZZEICHEN_TEMPLATES: { satz: string; zz: string; f: string[] }[] = [
   // TODO: add more ↓
 ];
 
+// ─── K2 EXPANSION: Zahlen (Numbers 1-100) ────────────────────────────────────
+const ZAHLEN_K2: { num: number; wort: string }[] = [
+  { num: 1, wort: "eins" }, { num: 2, wort: "zwei" }, { num: 3, wort: "drei" },
+  { num: 4, wort: "vier" }, { num: 5, wort: "fünf" }, { num: 6, wort: "sechs" },
+  { num: 7, wort: "sieben" }, { num: 8, wort: "acht" }, { num: 9, wort: "neun" },
+  { num: 10, wort: "zehn" }, { num: 11, wort: "elf" }, { num: 12, wort: "zwölf" },
+  { num: 13, wort: "dreizehn" }, { num: 14, wort: "vierzehn" }, { num: 15, wort: "fünfzehn" },
+  { num: 16, wort: "sechzehn" }, { num: 17, wort: "siebzehn" }, { num: 18, wort: "achtzehn" },
+  { num: 19, wort: "neunzehn" }, { num: 20, wort: "zwanzig" }, { num: 21, wort: "einundzwanzig" },
+  { num: 25, wort: "fünfundzwanzig" }, { num: 30, wort: "dreißig" }, { num: 35, wort: "fünfunddreißig" },
+  { num: 40, wort: "vierzig" }, { num: 45, wort: "fünfundvierzig" }, { num: 50, wort: "fünfzig" },
+  { num: 60, wort: "sechzig" }, { num: 70, wort: "siebzig" }, { num: 80, wort: "achtzig" },
+  { num: 90, wort: "neunzig" }, { num: 100, wort: "hundert" },
+];
+
+// ─── K2 EXPANSION: Farben (Colors) ────────────────────────────────────────────
+const FARBEN_K2: { n: string; a: string; p: string }[] = [
+  { n: "rot",      a: "rot",      p: "rote" },
+  { n: "blau",     a: "blau",     p: "blaue" },
+  { n: "grün",     a: "grün",     p: "grüne" },
+  { n: "gelb",     a: "gelb",     p: "gelbe" },
+  { n: "schwarz",  a: "schwarz",  p: "schwarze" },
+  { n: "weiß",     a: "weiß",     p: "weiße" },
+  { n: "braun",    a: "braun",    p: "braune" },
+  { n: "rosa",     a: "rosa",     p: "rosa" },
+  { n: "orange",   a: "orange",   p: "orange" },
+  { n: "lila",     a: "lila",     p: "lila" },
+  { n: "grau",     a: "grau",     p: "graue" },
+  { n: "pink",     a: "pink",     p: "pinke" },
+];
+
+// ─── K2 EXPANSION: Zeit (Time) ────────────────────────────────────────────────
+const ZEIT_K2: { num: number; name: string; text: string }[] = [
+  { num: 1, name: "Morgen", text: "früh am Morgen" },
+  { num: 2, name: "Vormittag", text: "am Vormittag" },
+  { num: 3, name: "Mittag", text: "zur Mittagszeit" },
+  { num: 4, name: "Nachmittag", text: "am Nachmittag" },
+  { num: 5, name: "Abend", text: "am Abend" },
+  { num: 6, name: "Nacht", text: "in der Nacht" },
+];
+
+// ─── K2 EXPANSION: Berufe (Professions) ───────────────────────────────────────
+const BERUFE_K2: { n: string; a: string; p: string }[] = [
+  { n: "Lehrer",        a: "der", p: "Lehrer" },
+  { n: "Lehrerin",      a: "die", p: "Lehrerinnen" },
+  { n: "Arzt",          a: "der", p: "Ärzte" },
+  { n: "Ärztin",        a: "die", p: "Ärztinnen" },
+  { n: "Polizist",      a: "der", p: "Polizisten" },
+  { n: "Feuerwehrmann", a: "der", p: "Feuerwehrmänner" },
+  { n: "Koch",          a: "der", p: "Köche" },
+  { n: "Köchin",        a: "die", p: "Köchinnen" },
+  { n: "Bauer",         a: "der", p: "Bauern" },
+  { n: "Maler",         a: "der", p: "Maler" },
+  { n: "Tänzer",        a: "der", p: "Tänzer" },
+  { n: "Tänzerin",      a: "die", p: "Tänzerinnen" },
+  { n: "Sänger",        a: "der", p: "Sänger" },
+  { n: "Sängerin",      a: "die", p: "Sängerinnen" },
+  { n: "Fahrer",        a: "der", p: "Fahrer" },
+];
+
+// ─── K2 EXPANSION: Gegensätze (Opposites/Antonyms K2) ────────────────────────
+const GEGENSAETZE_K2: { a: string; b: string }[] = [
+  { a: "groß", b: "klein" },
+  { a: "warm", b: "kalt" },
+  { a: "hell", b: "dunkel" },
+  { a: "schnell", b: "langsam" },
+  { a: "laut", b: "leise" },
+  { a: "alt", b: "jung" },
+  { a: "lang", b: "kurz" },
+  { a: "oben", b: "unten" },
+  { a: "links", b: "rechts" },
+  { a: "vorne", b: "hinten" },
+  { a: "sauber", b: "schmutzig" },
+  { a: "stark", b: "schwach" },
+  { a: "dick", b: "dünn" },
+  { a: "früh", b: "spät" },
+  { a: "früher", b: "später" },
+];
+
 // Konjunktiv I für K7: v=Verb  er=Konjunktiv-I-Form(er/sie/es)
 const KONJ1: { v: string; er: string }[] = [
   { v: "sein",     er: "sei"     },
@@ -432,6 +511,49 @@ function genLebensmittel(): DeutschQuestion {
   const { n, a } = pick(LEBENSMITTEL);
   return mkMCQ("lebensmittel", "lebensmittel_k1", `Welcher Artikel passt? ___ ${n}`, a,
     ["der", "die", "das"].filter((x) => x !== a));
+}
+
+// ─── K2 EXPANSION GENERATORS ──────────────────────────────────────────────────
+
+// K2: Zahlen (Numbers)
+function genZahlen(): DeutschQuestion {
+  const item = pick(ZAHLEN_K2.filter((x) => x.num <= 50));
+  return mkMCQ("zahlen", "zahlen_k2",
+    `Welche Zahl ist das? ${item.num}`,
+    item.wort,
+    shuffle(ZAHLEN_K2.filter((x) => x.wort !== item.wort).map((x) => x.wort)).slice(0, 3));
+}
+
+// K2: Farben (Colors)
+function genFarben(): DeutschQuestion {
+  const { n, a } = pick(FARBEN_K2);
+  return mkMCQ("farben", "farben_k2", `Welche Farbe ist das? ___`, n,
+    FARBEN_K2.filter((x) => x.n !== n).map((x) => x.n).slice(0, 3));
+}
+
+// K2: Zeit (Time of day)
+function genZeit(): DeutschQuestion {
+  const { name, text } = pick(ZEIT_K2);
+  return mkMCQ("zeit", "zeit_k2", `Wann ist das? ${text}?`, name,
+    ZEIT_K2.filter((x) => x.name !== name).map((x) => x.name).slice(0, 3));
+}
+
+// K2: Berufe (Professions)
+function genBerufe(): DeutschQuestion {
+  const { n, a } = pick(BERUFE_K2);
+  return mkMCQ("berufe", "berufe_k2", `Welcher Beruf ist das? Ein ___ / Eine ___`, n,
+    BERUFE_K2.filter((x) => x.n !== n).map((x) => x.n).slice(0, 3));
+}
+
+// K2: Gegensätze (Opposites)
+function genGegensaetze(): DeutschQuestion {
+  const pair = pick(GEGENSAETZE_K2);
+  const showA = Math.random() > 0.5;
+  const correct = showA ? pair.b : pair.a;
+  const wrong = showA ? pair.a : pair.b;
+  return mkMCQ("gegensaetze", "gegensaetze_k2",
+    `Gegenteil von '${wrong}':`, correct,
+    GEGENSAETZE_K2.filter((x) => x.a !== wrong && x.b !== wrong).map((x) => x.a).slice(0, 3));
 }
 
 // K1: Silben zählen
@@ -593,6 +715,12 @@ export const GENERATORS: Record<string, () => DeutschQuestion> = {
   artikel_k2:          () => genArtikel("wortarten_k2", "artikel_k2"),
   nomen_k2:            genNomenErkennen,
   verben_k2:           genVerbErkennen,
+  // K2 EXPANSION (2026-03-17)
+  zahlen_k2:           genZahlen,
+  farben_k2:           genFarben,
+  zeit_k2:             genZeit,
+  berufe_k2:           genBerufe,
+  gegensaetze_k2:      genGegensaetze,
   // K3
   plural:              genPlural,
   adjektive_gegenteil: genGegenteil,
