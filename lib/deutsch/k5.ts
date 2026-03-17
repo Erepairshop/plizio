@@ -6763,3 +6763,353 @@ export const K5_EXPANSION: DeutschTheme[] = [
     ]
   },
 ];
+
+// ============================================================================
+// K5_EXPANSION2 — Textarbeit + Rechtschreibung/Zeichensetzung (2026-03-17)
+// ============================================================================
+
+const K5_TEXTARBEIT_Q = [// ===== ERZAEHLUNG_K5 (25 questions) =====
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Welcher Teil einer Erzählung führt Personen, Ort und Zeit ein?", options: ["Hauptteil", "Einleitung", "Höhepunkt", "Schluss"], correct: 1 },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "In welcher Zeitform schreibt man eine Erzählung?", options: ["Präsens", "Präteritum", "Perfekt", "Futur"], correct: 1 },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Was ist der Höhepunkt einer Erzählung?", options: ["Der Anfang", "Die Einführung", "Der dramatischste Moment", "Das Ende"], correct: 2 },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Welches Stilmittel wird häufig in Erzählungen verwendet?", options: ["Tabellen", "Formeln", "Wörtliche Rede", "Aufzählungen"], correct: 2 },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Was vermittelt der Schluss einer Erzählung?", options: ["Die Spannung", "Die Lösung oder Reflexion", "Die Exposition", "Neue Fragen"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Nenne die vier Teile einer Erzählung (mit Komma getrennt): ___, Hauptteil, Höhepunkt, Schluss", answer: ["Einleitung"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Welche Fragen sollten in der Einleitung beantwortet werden?", options: ["Wie? Warum?", "Wer? Wo? Wann?", "Was ist die Lösung?", "Wie endet die Geschichte?"], correct: 1 },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Welche Art von Verben nutzt man, um Spannung aufzubauen?", options: ["Schwache Verben", "Starke Verben", "Modalverben", "Präpositionen"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Kreuze an: Im Hauptteil werden ___ aufgebaut: [Langweile / Spannung]", answer: ["Spannung"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Welche Stimmung könnte die Einleitung einer Erzählung einführen?", options: ["Ruhe", "Spannung", "Trauer", "Alle können richtig sein"], correct: 3 },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Was ist ein wichtiges Merkmal der wörtlichen Rede in Erzählungen?", options: ["Sie ist verboten", "Sie zeigt Anführungszeichen", "Sie ist langweilig", "Sie vermeidet Namen"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Ergänze: Statt 'gehen' schreibt man stärkere Verben wie ___ oder ___", answer: ["eilen", "rennen"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Wie viele Abschnitte sollte eine gut strukturierte Erzählung haben?", options: ["2", "3", "4", "5"], correct: 2 },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Welche Adjektive sind in Erzählungen besonders wertvoll?", options: ["Kurze", "Aussagekräftige", "Einfache", "Langweilige"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "In einer Erzählung: Einleitung führt ein, Hauptteil baut auf, ___ ist die Klimax", answer: ["Höhepunkt"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Was macht eine Erzählung interessant?", options: ["Viele schwache Verben", "Spannung und starke Verben", "Nur Beschreibungen", "Keine Dialoge"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Das Präteritum ist die Grundform für Erzählungen. Beispiel: er ___ statt 'er geht'", answer: ["ging"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Wie lang sollte eine gute Einleitung sein?", options: ["1 Satz", "2-3 Sätze", "10 Sätze", "Ein ganzer Absatz"], correct: 1 },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Welcher Teil der Erzählung könnte so lauten: 'Und das war das Ende einer wundersamen Nacht.'?", options: ["Einleitung", "Hauptteil", "Höhepunkt", "Schluss"], correct: 3 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Eine gute Erzählung nutzt direkte Rede in ___ '', um Charakter zu zeigen", answer: ["Anführungszeichen"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Was unterscheidet den Höhepunkt vom Schluss?", options: ["Nichts", "Der Höhepunkt ist die Klimax, der Schluss die Auflösung", "Der Schluss kommt zuerst", "Sie sind dasselbe"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Erzählung verwendet Präteritum: 'Das Mädchen ___ Angst' statt 'hat'", answer: ["hatte"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Welche Rolle spielen Adjektive in einer guten Erzählung?", options: ["Keine", "Sie machen die Szene lebendig", "Sie sind zu schwierig", "Sie verwirren"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Der ___ Teil baut die Spannung auf und führt zum Höhepunkt", answer: ["Hauptteil"] },
+
+  // ===== BERICHT_K5 (25 questions) =====
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Was ist das Hauptziel eines Berichts?", options: ["Unterhaltung", "Sachlich über Ereignisse berichten", "Emotionen ausdrücken", "Fantasie erzählen"], correct: 1 },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Welche W-Frage gehört zu einem guten Bericht?", options: ["Wann und Wo", "Alle (Wer, Was, Wann, Wo, Wie, Warum)", "Warum allein", "Wer allein"], correct: 1 },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Darf ein Bericht persönliche Gefühle enthalten?", options: ["Ja, immer", "Nein, ein Bericht ist sachlich", "Vielleicht manchmal", "Nur positive Gefühle"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "In welcher Zeitform schreibt man einen Bericht? ___", answer: ["Präteritum"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Welches Stilmittel ist in einem Bericht NICHT erwünscht?", options: ["Adjektive", "Direkte Rede", "Fakten", "Zeitangaben"], correct: 1 },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Was ist ein Unterschied zwischen Erzählung und Bericht?", options: ["Keine", "Erzählung ist spannend, Bericht ist sachlich", "Bericht ist länger", "Erzählung hat Fakten"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Ein ___ beschreibt sachlich, was passiert ist", answer: ["Bericht"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Welche W-Frage antwortet auf 'Es regnete stark'?", options: ["Wer?", "Was?", "Wie?", "Warum?"], correct: 2 },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Ein Unfallbericht sollte folgende Info enthalten:", options: ["Fantasien", "Gefühle nur", "Zeit, Ort, beteiligte Personen, Verlauf", "Geschichten"], correct: 2 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Die erste W-Frage eines Berichts ist meistens '___?'", answer: ["Wer"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Wie sollte ein Bericht beginnen?", options: ["Mit einer spannenden Frage", "Mit den wichtigsten Informationen (Wer, Was, Wann, Wo)", "Mit einer Geschichte", "Mit Gefühlen"], correct: 1 },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Welcher Typ von Bericht berichtet über Wettkämpfe?", options: ["Unfallbericht", "Sportbericht", "Gefühlsbericht", "Phantasiebericht"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Ein Bericht antwortet auf die Frage '___?' mit Zeitangaben", answer: ["Wann"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Warum verwendet man im Bericht Präteritum?", options: ["Weil es schöner klingt", "Weil es bereits passierte Ereignisse darstellt", "Weil Präsens verboten ist", "Keine bestimmte Grund"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Ein guter Bericht verzichtet auf ___", answer: ["Gefühle", "Emotionen", "direkte Rede"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Welche Aussage zum Bericht ist wahr?", options: ["Berichtete ereigniss müssen erfunden sein", "Berichte sind immer sehr kurz", "Berichte berichten Fakten sachlich", "Berichte sind wie Erzählungen"], correct: 2 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Bericht-Struktur: Einleitung (Wer/Was/Wann/Wo), Hauptteil (Ablauf), ___", answer: ["Schluss"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Was macht einen Sportbericht spannend UND sachlich?", options: ["Viele Emotionen", "Genaue Fakten ohne Wertungen", "Lange Geschichten", "Fantasie"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Die W-Frage '___?' antwortet auf den Grund oder die Ursache", answer: ["Warum"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Welche Zeitform ist NICHT angemessen für einen Bericht?", options: ["Präteritum", "Präsens historicum", "Erzählte Erinnerung", "Futur mit Spekulation"], correct: 3 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Ein ___ ist sachlich und faktisch, eine Erzählung ist fiktiv und spannend", answer: ["Bericht"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Welche Aussage ist ein Merkmal des Berichts?", options: ["Starke Emotionen zeigen", "Nur Fakten und Information", "Fantastische Elemente", "Poesie nutzen"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Die W-Frage '___?' beantwortet die Art und Weise, wie etwas ablief", answer: ["Wie"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "bericht_k5", question: "Was unterscheidet einen Unfallbericht von einem Sportbericht?", options: ["Nichts", "Unterschiedliche Ereignisse und Fokus", "Nur Länge", "Unfallbericht ist kürzer"], correct: 1 },
+
+  // ===== BESCHREIBUNG_K5 (25 questions) =====
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Welche zwei Haupttypen von Beschreibung gibt es?", options: ["Kurz und lang", "Personen- und Gegenstandsbeschreibung", "Alt und neu", "Historisch und modern"], correct: 1 },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Wie sollte eine Personenbeschreibung aufgebaut sein?", options: ["Zufällig", "Von oben nach unten (Kopf bis Fuß)", "Nur äußere Merkmale", "Nach Größe sortiert"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Eine Personenbeschreibung sollte nicht nur Aussehen, sondern auch ___ beschreiben", answer: ["Kleidung"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Was gehört zu einer Gegenstandsbeschreibung?", options: ["Gefühle", "Material, Größe, Farbe, Form, Funktion", "Geschichten", "Nur Farbe"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "In Beschreibungen nutzt man ___, um genau zu sein", answer: ["Adjektive", "genaue Adjektive"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Welche Zeitform nutzt man in Beschreibungen?", options: ["Präteritum", "Präsens", "Perfekt", "Futur"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Der systematische Aufbau einer Beschreibung macht sie ___", answer: ["verständlich", "klar", "logisch"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Was ist der erste Schritt bei einer Personenbeschreibung?", options: ["Kleidung", "Körpergröße und Statur", "Schuhgröße", "Beruf"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Eine gute Beschreibung nutzt ___, nicht nur 'schön' oder 'hässlich'", answer: ["genaue Adjektive", "spezifische Adjektive"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Welches Adjektiv ist zu vage für eine Beschreibung?", options: ["Dunkelblau", "Alt", "Spitz", "Rau"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Bei Gegenstandsbeschreibung: Nach Material folgt ___", answer: ["Größe", "Größe und Form"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Warum ist 'systematische Reihenfolge' in Beschreibungen wichtig?", options: ["Ästhetik", "Damit man der Beschreibung folgen kann", "Um Zeit zu sparen", "Keine Grund"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Eine Personenbeschreibung könnte nach diesem Schema gehen: Kopf/Gesicht, Körper, ___, Schuhe", answer: ["Beine", "Kleidung"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Welche Info fehlt in dieser Beschreibung? 'Er hat braune Augen.'", options: ["Haarfarbe", "Wohnort", "Schuhgröße", "Nichts"], correct: 0 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Statt 'Das Haus ist alt' schreibt man: 'Das Haus hat ___'", answer: ["graurisse Wände", "moosbewachsene Ziegel", "verwitterte Wände"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Was ist ein Vorteil, Funktion in einer Gegenstandsbeschreibung zu nennen?", options: ["Es ist interessanter", "Es macht die Beschreibung vollständiger", "Es spart Zeit", "Nichts"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Eine Beschreibung sollte ___ und nachvollziehbar sein", answer: ["genau"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Wie lang sollte eine gute Personenbeschreibung mindestens sein?", options: ["1 Satz", "3-5 Sätze", "10 Sätze", "Ein ganzer Absatz"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Material, Form, Farbe, Größe und ___ sind Merkmale einer Gegenstandsbeschreibung", answer: ["Funktion"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Was macht eine Beschreibung lebendig?", options: ["Viele Verben", "Genaue und treffende Adjektive", "Kurze Sätze", "Direkte Rede"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Beschreibung nutzt Präsens, weil sie etwas ___ darstellt", answer: ["Gegenwärtiges", "hier und jetzt"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Welche Aussage stimmt für Beschreibung?", options: ["Sie kann fantastisch sein", "Sie sollte so exakt wie möglich sein", "Sie braucht keine Adjektive", "Sie darf Gefühle enthalten"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Eine Personenbeschreibung: Größe und Statur → Kopf → Gesicht → Augen → ___ → Körper", answer: ["Haare", "Haarfarbe"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "beschreibung_k5", question: "Warum nicht 'Der Stuhl ist braun' in einer Beschreibung?", options: ["Es ist grammatikalisch falsch", "Es ist zu vage; besser: 'kastanienbraun' oder 'dunkelbraun'", "Farben sind nicht wichtig", "Es ist zu lang"], correct: 1 },
+
+  // ===== ZUSAMMENFASSUNG_K5 (25 questions) =====
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Welche Zeitform nutzt man in einer Zusammenfassung?", options: ["Präteritum", "Präsens", "Perfekt", "Plusquamperfekt"], correct: 1 },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Was ist die Aufgabe einer Zusammenfassung?", options: ["Die Handlung zu verändern", "Den Hauptgedanken kurz zu fassen", "Gefühle auszudrücken", "Kritik zu üben"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Eine gute Zusammenfassung enthält keine ___", answer: ["eigene Meinung"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Wie lang sollte eine Zusammenfassung sein?", options: ["Genauso lang wie Original", "Etwa ein Drittel des Originals", "Nur ein Satz", "Doppelt so lang"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Die ___ oder Kernaussage ist das Wichtigste in einer Zusammenfassung", answer: ["Hauptidee"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Welche Informationen SOLLTEN in eine Zusammenfassung?", options: ["Alle Details", "Nur die Hauptpunkte", "Nur Anfang und Ende", "Persönliche Kommentare"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Eine Zusammenfassung ist sachlich und ___, nicht emotional", answer: ["objektiv", "neutral"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Warum keine direkte Rede in einer Zusammenfassung?", options: ["Sie ist verboten", "Sie macht die Zusammenfassung zu lang", "Sie interessiert nicht", "Direkte Rede ist langweilig"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Schlüsselwörter helfen, die ___ des Textes zu finden", answer: ["Hauptpunkte", "Kernaussage"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Welcher Satz könnte der Anfang einer Zusammenfassung sein?", options: ["Meine Meinung ist...", "Der Text handelt von...", "Ich finde es langweilig...", "Das war spannend..."], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Direkte Rede 'Er sagte: Ich komme!' wird in Zusammenfassung zu: Er ___ dass er kommt", answer: ["sagte"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Was ist KEIN Teil einer guten Zusammenfassung?", options: ["Hauptgedanke", "Wichtige Details", "Persönliche Bewertung", "Logische Reihenfolge"], correct: 2 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Eine Zusammenfassung soll ___ und sachlich sein", answer: ["kurz"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Welche Aussage zur Zusammenfassung ist FALSCH?", options: ["Sie ist kürzer als Original", "Sie nutzt Präsens", "Sie kann Gefühle enthalten", "Sie folgt der Textstruktur"], correct: 2 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Unwichtige ___ sollten aus einer Zusammenfassung entfernt werden", answer: ["Details", "Ausschmückungen"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Wie identifiziert man die Schlüsselwörter eines Textes?", options: ["Zufällig", "Die Wörter, die sich oft wiederholen", "Alle Verben", "Nur Nomen"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Eine ___ enthält den Hauptgedanken und wichtigste Informationen", answer: ["Zusammenfassung"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Was ist der Unterschied zwischen Zusammenfassung und Original?", options: ["Keine", "Zusammenfassung ist kürzer und ohne Details", "Original ist kürzer", "Sie sind identisch"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Eine gute Zusammenfassung ___ die Textstruktur bei", answer: ["behält"], },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Warum ist Präsens die richtige Zeitform für Zusammenfassung?", options: ["Weil es kurz ist", "Weil es zeitlos wirkt", "Weil es das Prasens ist", "Keine Grund"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Nebensätze können gekürzt werden zu ___", answer: ["Partizipien", "kurzen Sätzen"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Wie viele Absätze sollte eine Zusammenfassung mindestens haben?", options: ["1", "2-3", "5", "Keine Limit"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "zusammenfassung_k5", question: "Beispiel für Verdichtung: 'Sie war sehr nervös und zitterte' wird zu: Sie ___ nervös", answer: ["war"] },
+
+  // ===== ARGUMENTATION_K5 (25 questions) =====
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Aus welchen Teilen besteht eine Argumentation?", options: ["These, Meinung, Gefühl", "These, Begründung, Beispiel", "Fakt, Meinung, Abschluss", "Anfang, Mitte, Ende"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Eine ___ ist eine Behauptung, die man verteidigt", answer: ["These"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Was ist eine gute These?", options: ["Sehr kurz und schlecht", "Klar, deutlich und verteidigbar", "Sehr lang", "Nur eine Frage"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Mit ___ oder 'denn' verbindet man These und Begründung", answer: ["weil"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Wozu dient die Begründung in einer Argumentation?", options: ["Die These zu wiederholen", "Zu zeigen, WARUM die These wahr ist", "Die Meinung zu verstecken", "Nichts Wichtiges"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Das Beispiel macht eine Argumentation ___", answer: ["verständlicher", "klarer", "überzeugender"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Welches Verbindungswort benutzt man als erstes bei mehreren Argumenten?", options: ["Außerdem", "Erstens", "Schließlich", "Andererseits"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Nach 'erstens' folgt ___", answer: ["zweitens"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Welches Verbindungswort zeigt einen Zusatz?", options: ["Deshalb", "Dazu", "Außerdem", "Im Gegenteil"], correct: 2 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Mit '___' kann man mehrere Gründe zusammenfassen", answer: ["deshalb"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Eine These sollte nicht sein:", options: ["Klar", "Zu vage oder unspezifisch", "Verteidigbar", "Konkret"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Struktur: These → Begründung (weil...) → ___ → Abschluss", answer: ["Beispiel"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Wie viele Beispiele sollte man mindestens geben?", options: ["Keine", "Mindestens eins", "10", "So viele wie möglich"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Mit ___ zeigt man, dass die Begründung ein Grund ist", answer: ["weil"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Welche Struktur ist NICHT richtig für Argumentation?", options: ["These + Begründung + Beispiel", "Begründung + These + Beispiel", "These + Beispiel + Begründung", "These + mehrere Gründe"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Das Verbindungswort '___' leitet den Abschluss ein", answer: ["deshalb", "darum", "folglich"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Was ist eine gute Begründung?", options: ["Nur eine Meinung", "Ein logischer Grund, der die These stützt", "Eine Geschichte", "Ein Gefühl"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Gutes Beispiel: 'Zum Beispiel:', '___, oder 'Ein Beispiel:'", answer: ["Etwa", "Konkret", "Etwa konkret"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Warum sind Beispiele in Argumentation wertvoll?", options: ["Sie füllen den Text", "Sie machen Argumente greifbar", "Sie sind pflicht", "Sie sind optional"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Eine ___ kann mit 'also', 'folglich', 'darum' eingeleitet werden", answer: ["Schlussfolgerung"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Welches Wort zeigt den Übergang zu nächstem Punkt?", options: ["Zusätzlich", "Zweitens", "Andererseits", "Allerdings"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Die Reihenfolge ist: erstens, zweitens, ___, viertens", answer: ["drittens"] },
+  { type: "mcq", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Ein gutes Beispiel in Argumentation sollte sein:", options: ["Erfunden", "Real und relevant für These", "Abgestanden", "Kein Beispiel"], correct: 1 },
+  { type: "typing", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Zusammenfassend: Eine Argumentation hat These, ___, und Abschluss", answer: ["Begründung und Beispiel"] },] as any[];
+const K5_RECHTSCHREIBUNG_Q = [// ============ FREMDWORTSCHREIBUNG_K5 (25 questions) ============
+  // ph vs f
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Welche Schreibweise ist korrekt?", options: ["Foto", "Photto", "Fotto", "Photho"], correct: 0 },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Wie schreibt man das Schulfach richtig?", options: ["Physik", "Fysik", "Physick", "Phisik"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Schreibe die Anleitung für einen Film: F______ oder Ph______.", answer: ["Foto/Fotografie", "Fotografie", "Foto", "Foto/Photo"] },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Welche Variante ist akzeptiert?", options: ["Fantasie und Phantasie sind beide korrekt", "nur Fantasie", "nur Phantasie", "Fanthasie ist richtig"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Schreibe das Tier, das im Meer lebt: D________ (mit f oder ph?).", answer: ["Delfin", "Delphin"] },
+
+  // th
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Das zentrale Thema einer Geschichte ist...", options: ["Thema", "Tema", "Théma", "Teme"], correct: 0 },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Wo sieht man Theaterstücke?", options: ["im Theater", "im Teater", "im Théâtre", "im Teether"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Ein System von Regeln heißt eine ________.", answer: ["Theorie"] },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "In der ________ lernt man Zahlenrechnungen.", options: ["Mathematik", "Matematik", "Mathematic", "Matyematik"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Ein Ort mit vielen Büchern: die Bibliothek oder die Bibliothek?", answer: ["Bibliothek"] },
+
+  // Computer words
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Das Gerät zur Datenverarbeitung heißt...", options: ["Computer", "Compüter", "Computor", "Compiutar"], correct: 0 },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Wie schreibt man das Welt-Netzwerk?", options: ["Internet", "Internett", "Interbrett", "Intarnet"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Die elektronische Post: E-M____.", answer: ["Mail"] },
+
+  // Other Fremdwörter
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Das Gerät zum Fotografieren:", options: ["Kamera", "Camera", "Kamara", "Camara"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Das Unterschiedsniveau einer Schule: N________.", answer: ["Niveau"] },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Der Sitzplatz auf dem Dach:", options: ["Balkon", "Balckon", "Balkon", "Balkkon"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Eine Fläche zum Sitzen außen: T________.", answer: ["Terrasse"] },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Der Platz für das Auto:", options: ["Garage", "Garasche", "Garascha", "Garraje"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Das Gerät zur Fernsprechen: das T________.", answer: ["Telefon"] },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Eine Ordnung von Regeln ist ein...", options: ["System", "Sistym", "Systhem", "Systam"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Die höhere Schule mit Latein: das G________.", answer: ["Gymnasium"] },
+
+  // ============ WORTTRENNUNG_K5 (25 questions) ============
+  // Single consonant
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "worttrennung_k5", question: "Wie trennt man das Wort 'Maler'?", options: ["Ma-ler", "Mal-er", "M-aler", "Maler"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "worttrennung_k5", question: "Trenne das Wort 'haben' nach alter Regel.", answer: ["ha-ben"] },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "worttrennung_k5", question: "Das Wort 'lesen' trennt man...", options: ["le-sen", "les-en", "l-esen", "lee-sen"], correct: 0 },
+
+  // Multiple consonants
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "worttrennung_k5", question: "Wie trennt man 'Hefter'?", options: ["Hef-ter", "He-fter", "Heft-er", "H-efter"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "worttrennung_k5", question: "Trenne das Wort 'Kinder'.", answer: ["Kin-der"] },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "worttrennung_k5", question: "Das Wort 'Kasten' trennt man...", options: ["Kas-ten", "Ka-sten", "Kast-en", "K-asten"], correct: 0 },
+
+  // ck rule
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "worttrennung_k5", question: "Das Wort 'Zucker' trennt man...", options: ["Zuk-ker", "Zu-cker", "Zuck-er", "Zuc-ker"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "worttrennung_k5", question: "Trenne 'backen' nach Regel.", answer: ["bak-ken"] },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "worttrennung_k5", question: "Bei 'ck' gilt: Das 'ck'...", options: ["wird getrennt zu k-k", "bleibt zusammen", "wird zu 'cck'", "kann frei getrennt werden"], correct: 0 },
+
+  // sch, ch zusammen
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "worttrennung_k5", question: "Das Wort 'waschen' trennt man...", options: ["wa-schen", "was-chen", "wasch-en", "w-aschen"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "worttrennung_k5", question: "Trenne 'lachen'.", answer: ["la-chen"] },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "worttrennung_k5", question: "'sch' und 'ch' bleiben...", options: ["zusammen", "getrennt", "manchmal zusammen", "immer getrennt"], correct: 0 },
+
+  // st division
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "worttrennung_k5", question: "Das Wort 'Fenster' kann man trennen als...", options: ["Fens-ter oder Fen-ster", "nur Fens-ter", "nur Fen-ster", "F-enster"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "worttrennung_k5", question: "Eine traditionelle Trennung von 'Fenster':", answer: ["Fens-ter"] },
+
+  // Compound divisions
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "worttrennung_k5", question: "Das Wort 'Hausaufgabe' trennt man bei der Wortgrenze...", options: ["Haus-aufgabe oder Haus-auf-gabe", "Hausauf-gabe", "Ha-usaufgabe", "nur Haus-aufgabe"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "worttrennung_k5", question: "Trenne 'Schulbuch' an der Morphemgrenze.", answer: ["Schul-buch"] },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "worttrennung_k5", question: "'Wohnzimmer' trennt man...", options: ["Wohn-zimmer", "Wo-hnzimmer", "Wohnsz-immer", "W-ohnzimmer"], correct: 0 },
+
+  // More examples
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "worttrennung_k5", question: "Trenne 'Meter'.", answer: ["Me-ter"] },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "worttrennung_k5", question: "Das Wort 'Baumkuchen' trennt man...", options: ["Baum-kuchen", "Ba-umkuchen", "Baumkuch-en", "B-aumkuchen"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "worttrennung_k5", question: "Trenne 'Hammer'.", answer: ["Ham-mer"] },
+
+  // ============ HOMOPHONE_K5 (25 questions) ============
+  // das vs dass
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "homophone_k5", question: "Fülle aus: '____ Buch ist interessant.'", options: ["Das", "Dass", "Daz", "Das'"], correct: 0 },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "homophone_k5", question: "Fülle aus: 'Ich weiß, ____ er kommt.'", options: ["dass", "das", "dasz", "das'"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "homophone_k5", question: "Wann nutzt man 'das'? (Artikel, Pronomen, oder Konjunktion?)", answer: ["Artikel", "Pronomen", "Artikel oder Pronomen"] },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "homophone_k5", question: "'Das Mädchen, ____ schön ist' — welches Wort?", options: ["das", "dass", "daz", "das'"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "homophone_k5", question: "Satz: '____ ist ein schönes Haus.' Welches Wort passt?", answer: ["Das"] },
+
+  // seid vs seit
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "homophone_k5", question: "Fülle aus: 'Ihr ____ lange hier.'", options: ["seid", "seit", "sieid", "seid'"], correct: 0 },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "homophone_k5", question: "Fülle aus: 'Er ist hier ____ drei Tagen.'", options: ["seit", "seid", "seit'", "seyt"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "homophone_k5", question: "'Seid' ist die Form von welchem Verb?", answer: ["sein"] },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "homophone_k5", question: "'Seit' ist eine...", options: ["Präposition der Zeit", "Verbform", "Konjunktion", "Artikel"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "homophone_k5", question: "Satz: 'Wir sind Freunde ____ vielen Jahren.' Welches Wort?", answer: ["seit"] },
+
+  // wider vs wieder
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "homophone_k5", question: "Fülle aus: 'Er hat gegen die Regel ________.'", options: ["widersprochen", "widersprochen", "wiedersprochen", "widersprochen"], correct: 0 },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "homophone_k5", question: "Fülle aus: 'Ich sehe dich morgen ________.'", options: ["wieder", "wider", "wiede", "wider'"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "homophone_k5", question: "'Wider' bedeutet was? (against/again?)", answer: ["against", "gegen"] },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "homophone_k5", question: "'Ich komme ____ zurück.' — welches Wort?", options: ["wieder", "wider", "wied", "wieder'"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "homophone_k5", question: "Beispiel mit 'wider': Widerstand oder ________?", answer: ["Widerspruch", "Widerrufen", "widerrufen", "widersprechen"] },
+
+  // man vs Mann
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "homophone_k5", question: "Fülle aus: '________ sagt, dass das Wetter schön ist.'", options: ["Man", "Mann", "Männ", "Maan"], correct: 0 },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "homophone_k5", question: "Fülle aus: 'Der junge ________ ist sehr groß.'", options: ["Mann", "Man", "Männ", "Maan"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "homophone_k5", question: "'Man' ist ein ________ Pronomen (indefinit/unbestimmt).", answer: ["indefinites", "unbestimmtes", "indefinites Pronomen"] },
+  { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "homophone_k5", question: "'________ kann alles erreichen, wenn ________ hart arbeitet.' — welche Wörter?", options: ["Man, man", "Mann, Mann", "Man, Mann", "Mann, man"], correct: 0 },
+  { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "homophone_k5", question: "Satz: 'Der brave ________ half der alten Frau.' Welches Wort?", answer: ["Mann"] },
+
+  // ============ KOMMA_INFINITIV_K5 (25 questions) ============
+  // um...zu
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "komma_infinitiv_k5", question: "Korrekte Interpunktion: 'Er lernt, um die Prüfung zu bestehen.'", options: ["Komma VOR 'um'", "Komma nach 'um'", "Kein Komma", "Doppelpunkt"], correct: 0 },
+  { type: "typing", topic: "zeichensetzung_erw_k5", subtopic: "komma_infinitiv_k5", question: "Setze Kommas: 'Er übt viel um besser Fußball zu spielen.'", answer: ["Er übt viel, um besser Fußball zu spielen."] },
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "komma_infinitiv_k5", question: "'um...zu' Gruppe braucht ein Komma, wenn sie...", options: ["erweitert ist (länger)", "kurz ist", "nach dem Verb kommt", "am Anfang steht"], correct: 0 },
+
+  // ohne...zu
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "komma_infinitiv_k5", question: "Korrekte Interpunktion: 'Er geht, ohne zu grüßen.'", options: ["Komma VOR 'ohne'", "Komma nach 'ohne'", "Kein Komma", "Semikolon"], correct: 0 },
+  { type: "typing", topic: "zeichensetzung_erw_k5", subtopic: "komma_infinitiv_k5", question: "Setze Kommas: 'Sie verließ das Haus ohne auf Wiedersehen zu sagen.'", answer: ["Sie verließ das Haus, ohne auf Wiedersehen zu sagen."] },
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "komma_infinitiv_k5", question: "Die Infinitivgruppe 'ohne...zu' hat immer...", options: ["ein Komma davor", "kein Komma", "ein Komma danach", "Doppelpunkt davor"], correct: 0 },
+
+  // anstatt...zu
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "komma_infinitiv_k5", question: "Korrekte Interpunktion: 'Sie liest, anstatt zu spielen.'", options: ["Komma VOR 'anstatt'", "Komma nach 'anstatt'", "Kein Komma", "Gedankenstrich"], correct: 0 },
+  { type: "typing", topic: "zeichensetzung_erw_k5", subtopic: "komma_infinitiv_k5", question: "Setze Kommas: 'Er arbeitet anstatt sich auszuruhen.'", answer: ["Er arbeitet, anstatt sich auszuruhen."] },
+
+  // Short forms without Komma
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "komma_infinitiv_k5", question: "Braucht dieser Satz ein Komma? 'Er beginnt zu lesen.'", options: ["Nein", "Ja", "Optional", "Mit Semikolon"], correct: 0 },
+  { type: "typing", topic: "zeichensetzung_erw_k5", subtopic: "komma_infinitiv_k5", question: "Kurze Infinitivgruppe: 'Ich vergesse oft ________.' (Komma ja/nein?)", answer: ["nein", "Nein"] },
+
+  // More examples
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "komma_infinitiv_k5", question: "'Der Grund, dich zu besuchen...' — braucht Komma?", options: ["Ja", "Nein", "Optional", "Gedankenstrich"], correct: 0 },
+  { type: "typing", topic: "zeichensetzung_erw_k5", subtopic: "komma_infinitiv_k5", question: "Satz mit 'um...zu': 'Ich gehe zur Schule __ neue Freunde zu machen.'", answer: ["um"] },
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "komma_infinitiv_k5", question: "Setze Kommas: 'Wir trainieren, um zu gewinnen.'", options: ["Komma vor 'um'", "Kein Komma", "Komma nach 'um'", "Semikolon"], correct: 0 },
+  { type: "typing", topic: "zeichensetzung_erw_k5", subtopic: "komma_infinitiv_k5", question: "Setze Kommas: 'Er schläft ohne Sorgen zu machen.'", answer: ["Er schläft, ohne Sorgen zu machen."] },
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "komma_infinitiv_k5", question: "Die Regel besagt: Infinitivgruppen mit 'um/ohne/anstatt...zu' haben...", options: ["immer ein Komma", "nur bei Erweiterung ein Komma", "nie ein Komma", "optional"], correct: 1 },
+
+  // ============ KOMMA_AUFZAEHLUNG_K5 (25 questions) ============
+  // List items
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "komma_aufzaehlung_k5", question: "Korrekt: 'Ich kaufe Äpfel, Birnen und Trauben.'", options: ["Komma vor 'und'?", "Nein, Komma nur zwischen Items", "Ja, vor 'und'", "Doppelpunkt statt Komma"], correct: 1 },
+  { type: "typing", topic: "zeichensetzung_erw_k5", subtopic: "komma_aufzaehlung_k5", question: "Setze Kommas: 'Ich brauche Stift Heft Buch und Lineal.'", answer: ["Ich brauche Stift, Heft, Buch und Lineal."] },
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "komma_aufzaehlung_k5", question: "Liste: 'rot, blau, grün und gelb' — Komma vor 'und'?", options: ["Nein", "Ja", "Optional", "Gedankenstrich"], correct: 0 },
+
+  // Apposition
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "komma_aufzaehlung_k5", question: "Korrekt: 'Mein Vater, ein Arzt, arbeitet hier.'", options: ["Kommas um 'ein Arzt'", "Kein Komma", "Komma nur vor 'ein Arzt'", "Doppelpunkt"], correct: 0 },
+  { type: "typing", topic: "zeichensetzung_erw_k5", subtopic: "komma_aufzaehlung_k5", question: "Setze Kommas: 'Meine Schwester eine Lehrerin hat drei Kinder.'", answer: ["Meine Schwester, eine Lehrerin, hat drei Kinder."] },
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "komma_aufzaehlung_k5", question: "Apposition ist...", options: ["eine Beifügung/Erklärung in Kommas", "eine Liste", "ein Nebensatz", "ein Gedankenstrich"], correct: 0 },
+
+  // Equal adjectives
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "komma_aufzaehlung_k5", question: "Komma? 'ein großes, schönes Haus'", options: ["Ja", "Nein", "Optional", "Gedankenstrich"], correct: 0 },
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "komma_aufzaehlung_k5", question: "Komma? 'ein altes deutsches Lied'", options: ["Ja", "Nein", "Optional", "Doppelpunkt"], correct: 1 },
+  { type: "typing", topic: "zeichensetzung_erw_k5", subtopic: "komma_aufzaehlung_k5", question: "Gleichrangige Adjektive brauchen Komma. Beispiel: 'ein __ __ Haus' (groß, schön).", answer: ["großes, schönes", "großes,schönes"] },
+
+  // Before 'und' with new subject
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "komma_aufzaehlung_k5", question: "Komma? 'Er kam, und sie ging.'", options: ["Ja", "Nein", "Optional", "Doppelpunkt"], correct: 0 },
+  { type: "typing", topic: "zeichensetzung_erw_k5", subtopic: "komma_aufzaehlung_k5", question: "Satz mit zwei Subjekten: 'Die Sonne scheint __ die Vögel singen.'", answer: ["und"] },
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "komma_aufzaehlung_k5", question: "Braucht ein Komma vor 'und', wenn ein neues Subjekt kommt?", options: ["Ja", "Nein", "Optional", "Nur bei Fragen"], correct: 0 },
+
+  // More list examples
+  { type: "typing", topic: "zeichensetzung_erw_k5", subtopic: "komma_aufzaehlung_k5", question: "Setze Kommas: 'Im Park spielen Kinder Hunde laufen und Vögel singen.'", answer: ["Im Park spielen Kinder, Hunde laufen und Vögel singen."] },
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "komma_aufzaehlung_k5", question: "Liste: 'Montag, Dienstag, Mittwoch und Donnerstag'", options: ["Kein Komma vor 'und'", "Komma vor 'und'", "Semikolon statt Kommas", "Gedankenstrich"], correct: 0 },
+  { type: "typing", topic: "zeichensetzung_erw_k5", subtopic: "komma_aufzaehlung_k5", question: "Apposition-Beispiel: 'mein Freund ein kluger Junge ...' (setze Kommas)", answer: ["mein Freund, ein kluger Junge,"] },
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "komma_aufzaehlung_k5", question: "Setze Kommas: 'Die roten schwarzen und weißen Bälle sind kaputt.'", options: ["roten, schwarzen und weißen", "roten schwarzen, weißen", "roten schwarzen weißen", "keine Kommas"], correct: 0 },
+
+  // ============ SEMIKOLON_DOPPELPUNKT_K5 (25 questions) ============
+  // Doppelpunkt before direct speech
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "semikolon_doppelpunkt_k5", question: "Korrekt: 'Er rief: \"Komm her!\"'", options: ["Doppelpunkt vor der Rede", "Komma vor der Rede", "Kein Zeichen", "Semikolon"], correct: 0 },
+  { type: "typing", topic: "zeichensetzung_erw_k5", subtopic: "semikolon_doppelpunkt_k5", question: "Setze Zeichen: 'Sie fragte ___ \"Wie heißt du?\"'", answer: ["Doppelpunkt", ":"] },
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "semikolon_doppelpunkt_k5", question: "Doppelpunkt steht vor...", options: ["direkter Rede", "einer Liste", "einer Erklärung", "alle drei"], correct: 3 },
+
+  // Doppelpunkt before list
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "semikolon_doppelpunkt_k5", question: "Korrekt: 'Ich brauche: Stift, Heft, Buch.'", options: ["Doppelpunkt vor Liste", "Komma vor Liste", "Kein Zeichen", "Semikolon"], correct: 0 },
+  { type: "typing", topic: "zeichensetzung_erw_k5", subtopic: "semikolon_doppelpunkt_k5", question: "Setze Zeichen: 'Die Zutaten sind ___ Mehl, Zucker, Eier'", answer: ["Doppelpunkt", ":"] },
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "semikolon_doppelpunkt_k5", question: "Vor einer Liste nutzt man...", options: ["Doppelpunkt", "Komma", "Semikolon", "Gedankenstrich"], correct: 0 },
+
+  // Doppelpunkt before explanation
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "semikolon_doppelpunkt_k5", question: "Korrekt: 'Das ist klar: Er hat gelogen.'", options: ["Doppelpunkt vor Erklärung", "Komma", "Kein Zeichen", "Semikolon"], correct: 0 },
+  { type: "typing", topic: "zeichensetzung_erw_k5", subtopic: "semikolon_doppelpunkt_k5", question: "Setze Zeichen: 'Der Grund ist einfach ___ Er möchte schlafen.'", answer: ["Doppelpunkt", ":"] },
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "semikolon_doppelpunkt_k5", question: "Doppelpunkt vor Erklärung macht...", options: ["Sinn: Es erklärt Vorhergehendes", "Keinen Sinn", "Nur bei Fragen", "Nur bei Listen"], correct: 0 },
+
+  // Semicolon between related clauses
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "semikolon_doppelpunkt_k5", question: "Korrekt: 'Er war müde; trotzdem arbeitete er.'", options: ["Semikolon zwischen Sätzen", "Komma", "Punkt", "Doppelpunkt"], correct: 0 },
+  { type: "typing", topic: "zeichensetzung_erw_k5", subtopic: "semikolon_doppelpunkt_k5", question: "Setze Zeichen: 'Sie war krank___ dennoch ging sie zur Schule'", answer: ["Semikolon", ";"] },
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "semikolon_doppelpunkt_k5", question: "Semikolon verbindet...", options: ["verwandte Sätze", "unverwandte Sätze", "nur Listen", "nur Fragen"], correct: 0 },
+
+  // Gedankenstrich for emphasis
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "semikolon_doppelpunkt_k5", question: "Korrekt: 'Er kam – nach drei Stunden – nach Hause.'", options: ["Gedankenstrich um Einfügung", "Komma", "Klammern", "Punkt"], correct: 0 },
+  { type: "typing", topic: "zeichensetzung_erw_k5", subtopic: "semikolon_doppelpunkt_k5", question: "Setze Gedankenstrich: 'Sie schlief __ sehr lange __ bis zum Mittag.'", answer: ["– sehr lange –"] },
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "semikolon_doppelpunkt_k5", question: "Gedankenstrich betont...", options: ["eine Einfügung/Unterbrechung", "eine Liste", "eine Frage", "eine Antwort"], correct: 0 },
+
+  // More examples
+  { type: "typing", topic: "zeichensetzung_erw_k5", subtopic: "semikolon_doppelpunkt_k5", question: "Direktes Zitat: 'Er sagte ___ \"Ich komme morgen.\"'", answer: ["Doppelpunkt", ":"] },
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "semikolon_doppelpunkt_k5", question: "Setze das Zeichen: 'Das Problem ist offensichtlich: Niemand hat gelernt.'", options: ["Doppelpunkt ist richtig", "Komma ist richtig", "Kein Zeichen", "Semikolon"], correct: 0 },
+  { type: "typing", topic: "zeichensetzung_erw_k5", subtopic: "semikolon_doppelpunkt_k5", question: "Semikolon-Beispiel: 'Es regnet; die Straßen sind nass.'", answer: ["Es regnet; die Straßen sind nass."] },
+  { type: "mcq", topic: "zeichensetzung_erw_k5", subtopic: "semikolon_doppelpunkt_k5", question: "Gedankenstrich-Beispiel: 'Das Ziel – nicht einfach zu erreichen – erfordert Geduld.'", options: ["Gedankenstrich ist richtig", "Komma ist richtig", "Klammern", "Punkt"], correct: 0 },
+  { type: "typing", topic: "zeichensetzung_erw_k5", subtopic: "semikolon_doppelpunkt_k5", question: "Setze Zeichen: 'Folgende Farben gefallen mir ___ Blau, Rot, Grün.'", answer: ["Doppelpunkt", ":"] },] as any[];
+
+export const K5_EXPANSION2: DeutschTheme[] = [
+  {
+    id: "textarbeit_k5",
+    name: "Textarbeit & Aufsatz",
+    icon: "✍️",
+    color: "#FF6B35",
+    subtopics: [
+      { id: "erzaehlung_k5", name: "Erzählung schreiben", questions: K5_TEXTARBEIT_Q.filter((q: any) => q.subtopic === "erzaehlung_k5") },
+      { id: "bericht_k5", name: "Bericht schreiben", questions: K5_TEXTARBEIT_Q.filter((q: any) => q.subtopic === "bericht_k5") },
+      { id: "beschreibung_k5", name: "Beschreibung", questions: K5_TEXTARBEIT_Q.filter((q: any) => q.subtopic === "beschreibung_k5") },
+      { id: "zusammenfassung_k5", name: "Textzusammenfassung", questions: K5_TEXTARBEIT_Q.filter((q: any) => q.subtopic === "zusammenfassung_k5") },
+      { id: "argumentation_k5", name: "Einfache Argumentation", questions: K5_TEXTARBEIT_Q.filter((q: any) => q.subtopic === "argumentation_k5") },
+    ]
+  },
+  {
+    id: "rechtschreibung_erw_k5",
+    name: "Rechtschreibung (erweitert)",
+    icon: "📝",
+    color: "#FF2D78",
+    subtopics: [
+      { id: "fremdwortschreibung_k5", name: "Fremdwortschreibung", questions: K5_RECHTSCHREIBUNG_Q.filter((q: any) => q.subtopic === "fremdwortschreibung_k5") },
+      { id: "worttrennung_k5", name: "Worttrennung", questions: K5_RECHTSCHREIBUNG_Q.filter((q: any) => q.subtopic === "worttrennung_k5") },
+      { id: "homophone_k5", name: "Homophone (das/dass, seid/seit)", questions: K5_RECHTSCHREIBUNG_Q.filter((q: any) => q.subtopic === "homophone_k5") },
+    ]
+  },
+  {
+    id: "zeichensetzung_erw_k5",
+    name: "Zeichensetzung (erweitert)",
+    icon: "✏️",
+    color: "#FF9500",
+    subtopics: [
+      { id: "komma_infinitiv_k5", name: "Komma bei Infinitivgruppen", questions: K5_RECHTSCHREIBUNG_Q.filter((q: any) => q.subtopic === "komma_infinitiv_k5") },
+      { id: "komma_aufzaehlung_k5", name: "Komma bei Aufzählungen", questions: K5_RECHTSCHREIBUNG_Q.filter((q: any) => q.subtopic === "komma_aufzaehlung_k5") },
+      { id: "semikolon_doppelpunkt_k5", name: "Semikolon & Doppelpunkt", questions: K5_RECHTSCHREIBUNG_Q.filter((q: any) => q.subtopic === "semikolon_doppelpunkt_k5") },
+    ]
+  },
+];
