@@ -6,6 +6,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -238,6 +239,9 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
           {letter}
         </motion.div>
       </AnimatePresence>
+      <div className="flex items-center justify-center">
+        <SpeakButton text={letter} lang="de" size={16} />
+      </div>
       <div className="flex gap-3 w-full">
         {(["vokal", "konsonant"] as const).map(type => (
           <motion.button key={type} onClick={() => handleChoice(type)}
@@ -322,6 +326,9 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
           {pair[0]}
         </motion.div>
       </AnimatePresence>
+      <div className="flex items-center justify-center">
+        <SpeakButton text={pair[0]} lang="de" size={16} />
+      </div>
       <div className="flex gap-3 justify-center">
         {choices[pairIdx].map(lower => (
           <motion.button key={lower} onClick={() => handleSelect(lower)}

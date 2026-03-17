@@ -6,6 +6,7 @@
 import { memo, useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton, speak } from "@/lib/astromath-tts";
 
 // ─── Labels ───────────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -234,6 +235,12 @@ const CategoryRush = memo(function CategoryRush({
     }, delay);
   }, [itemIdx, currentItem, onDone]);
 
+  // Auto-speak item when a new question appears
+  useEffect(() => {
+    speak(items[itemIdx].item, "de");
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [itemIdx]);
+
   // Timer
   useEffect(() => {
     if (phase !== "active") return;
@@ -339,12 +346,15 @@ const CategoryRush = memo(function CategoryRush({
             }`,
           }}
         >
-          <span
-            className="font-black text-4xl text-center"
-            style={{ color: "#fff" }}
-          >
-            {currentItem.item}
-          </span>
+          <div className="flex items-center gap-3">
+            <span
+              className="font-black text-4xl text-center"
+              style={{ color: "#fff" }}
+            >
+              {currentItem.item}
+            </span>
+            <SpeakButton text={currentItem.item} lang="de" size={18} />
+          </div>
         </motion.div>
       </AnimatePresence>
 

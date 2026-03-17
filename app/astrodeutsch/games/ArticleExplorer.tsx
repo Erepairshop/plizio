@@ -5,6 +5,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -191,10 +192,11 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
                 <span className="text-3xl font-black" style={{ color: col }}>{art}</span>
                 <div className="flex-1">
                   <p className="text-white/70 text-xs font-bold">{lbl[art]}</p>
-                  <div className="flex gap-2 mt-1">
+                  <div className="flex gap-2 mt-1 flex-wrap">
                     {INTRO_WORDS[art].map(w => (
-                      <span key={w.word} className="text-sm font-bold" style={{ color: isTapped ? col : "rgba(255,255,255,0.4)" }}>
+                      <span key={w.word} className="flex items-center gap-1 text-sm font-bold" style={{ color: isTapped ? col : "rgba(255,255,255,0.4)" }}>
                         {w.emoji} {art} {w.word}
+                        {isTapped && <SpeakButton text={`${art} ${w.word}`} lang="de" size={14} />}
                       </span>
                     ))}
                   </div>
@@ -251,7 +253,10 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
           exit={{ opacity: 0 }}
           className="flex flex-col items-center gap-1">
           <span className="text-5xl">{item.emoji}</span>
-          <span className="text-3xl font-black text-white">{item.word}</span>
+          <div className="flex items-center gap-2">
+            <span className="text-3xl font-black text-white">{item.word}</span>
+            <SpeakButton text={item.word} lang="de" size={16} />
+          </div>
           {selected && (
             <span className="text-xl font-bold" style={{ color: ARTICLE_COLORS[item.article] }}>
               {selected === item.article ? "✅" : ""} {item.article} {item.word}
@@ -471,7 +476,10 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
         <motion.div key={item.word} initial={{ opacity: 0, scale: 0.8 }} animate={{ opacity: 1, scale: 1 }}
           exit={{ opacity: 0 }} className="flex flex-col items-center gap-2">
           <span className="text-5xl">{item.emoji}</span>
-          <span className="text-3xl font-black text-white">{item.word}</span>
+          <div className="flex items-center gap-2">
+            <span className="text-3xl font-black text-white">{item.word}</span>
+            <SpeakButton text={item.word} lang="de" size={16} />
+          </div>
           {selected && (
             <span className="font-bold text-xl" style={{ color: ARTICLE_COLORS[item.article] }}>
               {item.article} {item.word} {selected === item.article ? "✅" : ""}

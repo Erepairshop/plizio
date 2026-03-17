@@ -6,6 +6,7 @@
 import { memo, useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton, speak } from "@/lib/astromath-tts";
 
 // ─── Labels ───────────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -162,6 +163,12 @@ const SpellRace = memo(function SpellRace({
     }, 1100);
   }, [roundIdx, score, rounds, onDone]);
 
+  // Auto-speak word when a new round appears
+  useEffect(() => {
+    speak(rounds[roundIdx].word, "de");
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [roundIdx]);
+
   // Timer
   useEffect(() => {
     if (phase !== "active") return;
@@ -255,7 +262,10 @@ const SpellRace = memo(function SpellRace({
           exit={{ opacity: 0, scale: 0.8 }}
           className="flex flex-col items-center gap-2"
         >
-          <div className="text-7xl">{rounds[roundIdx].emoji}</div>
+          <div className="flex items-center gap-2">
+            <div className="text-7xl">{rounds[roundIdx].emoji}</div>
+            <SpeakButton text={rounds[roundIdx].word} lang="de" size={16} />
+          </div>
           <p className="text-xs font-semibold text-white/50 text-center">{t.tapLetters}</p>
         </motion.div>
       </AnimatePresence>

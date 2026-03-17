@@ -6,6 +6,7 @@
 import { memo, useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton, speak } from "@/lib/astromath-tts";
 
 // ─── Labels ───────────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -165,6 +166,14 @@ const GapFill = memo(function GapFill({
     }, 1000);
   }, [qIdx, onDone]);
 
+  // Auto-speak the gap sentence (with correct answer filled in) when a new question appears
+  useEffect(() => {
+    const q = questions[qIdx];
+    const full = (q.before ? q.before + " " : "") + q.correct + (q.after || "");
+    speak(full, "de");
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [qIdx]);
+
   // Timer
   useEffect(() => {
     if (phase !== "active") return;
@@ -229,7 +238,10 @@ const GapFill = memo(function GapFill({
       </div>
 
       {/* Instruction */}
-      <p className="text-xs font-semibold text-center text-white/50">{t.hint}</p>
+      <div className="flex items-center justify-center gap-2">
+        <p className="text-xs font-semibold text-center text-white/50">{t.hint}</p>
+        <SpeakButton text={(q.before ? q.before + " " : "") + q.correct + (q.after || "")} lang="de" size={16} />
+      </div>
 
       {/* Sentence with gap */}
       <AnimatePresence mode="wait">

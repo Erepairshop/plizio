@@ -5,6 +5,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -178,7 +179,10 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         <motion.div key={item.word} initial={{ opacity: 0, scale: 0.8 }} animate={{ opacity: 1, scale: 1 }}
           exit={{ opacity: 0 }} className="flex flex-col items-center gap-2">
           <span className="text-5xl">{item.emoji}</span>
-          <span className="text-3xl font-black text-white">{item.word}</span>
+          <div className="flex items-center gap-2">
+            <span className="text-3xl font-black text-white">{item.word}</span>
+            <SpeakButton text={item.word} lang="de" size={16} />
+          </div>
           {selected && (
             <span className="font-bold text-xl" style={{ color: ARTICLE_COLORS[item.article] }}>
               {item.article} {item.word}
@@ -244,9 +248,12 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         {allTapped ? (
           <motion.div initial={{ opacity: 0, scale: 0.8 }} animate={{ opacity: 1, scale: 1 }}
             className="flex flex-col items-center gap-1">
-            <span className="text-3xl font-black" style={{ color }}>
-              {item.result} ✅
-            </span>
+            <div className="flex items-center gap-2">
+              <span className="text-3xl font-black" style={{ color }}>
+                {item.result} ✅
+              </span>
+              <SpeakButton text={item.result} lang="de" size={16} />
+            </div>
             <span className="text-xs font-bold text-white/50">{lbl.lastPartRule}</span>
           </motion.div>
         ) : (
@@ -315,7 +322,10 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       <AnimatePresence mode="wait">
         <motion.div key={item.result} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}
           className="flex flex-col items-center gap-1">
-          <span className="text-3xl font-black text-white">{item.result}</span>
+          <div className="flex items-center gap-2">
+            <span className="text-3xl font-black text-white">{item.result}</span>
+            <SpeakButton text={item.result} lang="de" size={16} />
+          </div>
           <span className="text-white/40 text-xs">
             {item.part1} + {item.part2}
           </span>

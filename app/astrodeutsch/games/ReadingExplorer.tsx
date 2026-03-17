@@ -5,6 +5,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -216,7 +217,10 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
           exit={{ opacity: 0 }}
           className="w-full rounded-2xl px-4 py-3 text-center"
           style={{ background: `${color}15`, border: `2px solid ${color}40` }}>
-          <p className="text-xl font-black text-white">{item.sentence}</p>
+          <div className="flex items-center justify-center gap-2">
+            <p className="text-xl font-black text-white">{item.sentence}</p>
+            <SpeakButton text={item.sentence} lang="de" size={16} />
+          </div>
         </motion.div>
       </AnimatePresence>
       <div className="flex gap-3 justify-center">
@@ -284,7 +288,7 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
           const isTrue = stmt === item.trueStmt;
           return (
             <motion.button key={i} onClick={() => handleSelect(stmt)}
-              className="w-full py-4 px-4 rounded-2xl font-bold text-base text-left"
+              className="w-full py-4 px-4 rounded-2xl font-bold text-base text-left flex items-center gap-2"
               style={{
                 background: selected === stmt
                   ? (isTrue ? "rgba(0,255,136,0.2)" : "rgba(255,45,120,0.15)")
@@ -295,7 +299,8 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
                 color: selected === stmt ? (isTrue ? "#00FF88" : "#FF2D78") : "white",
               }}
               whileTap={!selected ? { scale: 0.97 } : {}}>
-              {stmt}
+              <span className="flex-1">{stmt}</span>
+              <SpeakButton text={stmt} lang="de" size={14} />
             </motion.button>
           );
         })}
@@ -496,7 +501,10 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
           exit={{ opacity: 0 }} className="w-full">
           <div className="w-full rounded-2xl px-4 py-3"
             style={{ background: `${color}12`, border: `2px solid ${color}30` }}>
-            <p className="text-base font-bold text-white leading-relaxed">{item.text}</p>
+            <div className="flex items-start gap-2">
+              <p className="text-base font-bold text-white leading-relaxed flex-1">{item.text}</p>
+              <SpeakButton text={item.text} lang="de" size={16} />
+            </div>
           </div>
           <p className="text-white/70 text-sm font-bold mt-3 text-center">{item.question}</p>
         </motion.div>

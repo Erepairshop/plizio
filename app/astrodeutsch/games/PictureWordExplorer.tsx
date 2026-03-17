@@ -5,6 +5,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -164,9 +165,12 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
               }}
               whileTap={{ scale: 0.95 }}>
               <div className="w-8 h-8 rounded-lg" style={{ background: c.hex, border: "2px solid rgba(255,255,255,0.2)" }} />
-              <span className="text-xs font-black" style={{ color: isTapped ? c.hex : "rgba(255,255,255,0.5)" }}>
-                {c.name}
-              </span>
+              <div className="flex items-center gap-1">
+                <span className="text-xs font-black" style={{ color: isTapped ? c.hex : "rgba(255,255,255,0.5)" }}>
+                  {c.name}
+                </span>
+                {isTapped && <SpeakButton text={c.name} lang="de" size={12} />}
+              </div>
             </motion.button>
           );
         })}
@@ -269,6 +273,7 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
               <span className="text-sm font-black" style={{ color: isTapped ? color : "rgba(255,255,255,0.6)" }}>
                 {n.word}
               </span>
+              {isTapped && <SpeakButton text={n.word} lang="de" size={13} />}
             </motion.button>
           );
         })}

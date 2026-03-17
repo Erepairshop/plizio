@@ -5,6 +5,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -190,10 +191,11 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         ))}
       </div>
       <AnimatePresence mode="wait">
-        <motion.p key={item.word} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}
-          className="text-4xl font-black text-white tracking-wider">
-          {item.word}
-        </motion.p>
+        <motion.div key={item.word} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}
+          className="flex items-center gap-2">
+          <p className="text-4xl font-black text-white tracking-wider">{item.word}</p>
+          <SpeakButton text={item.word} lang="de" size={16} />
+        </motion.div>
       </AnimatePresence>
       <div className="flex gap-2 flex-wrap justify-center">
         {item.parts.map((part, i) => (
@@ -267,10 +269,11 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         ))}
       </div>
       <AnimatePresence mode="wait">
-        <motion.p key={item.word} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}
-          className="text-4xl font-black text-white tracking-wider">
-          {item.word}
-        </motion.p>
+        <motion.div key={item.word} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}
+          className="flex items-center gap-2">
+          <p className="text-4xl font-black text-white tracking-wider">{item.word}</p>
+          <SpeakButton text={item.word} lang="de" size={16} />
+        </motion.div>
       </AnimatePresence>
       {/* Clap visual */}
       <div className="flex gap-2 justify-center">
@@ -363,10 +366,13 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         ))}
       </div>
       <AnimatePresence mode="wait">
-        <motion.p key={item.word} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}
-          className="text-4xl font-black tracking-wider">
-          {selected ? highlightWord(item.word, item.diphthong) : <span className="text-white">{item.word}</span>}
-        </motion.p>
+        <motion.div key={item.word} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}
+          className="flex items-center gap-2">
+          <p className="text-4xl font-black tracking-wider">
+            {selected ? highlightWord(item.word, item.diphthong) : <span className="text-white">{item.word}</span>}
+          </p>
+          <SpeakButton text={item.word} lang="de" size={16} />
+        </motion.div>
       </AnimatePresence>
       <div className="flex gap-3 justify-center">
         {DIPHTHONGS.map(d => (
@@ -434,10 +440,11 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         ))}
       </div>
       <AnimatePresence mode="wait">
-        <motion.p key={item.word} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}
-          className="text-4xl font-black text-white tracking-wider">
-          {item.word}
-        </motion.p>
+        <motion.div key={item.word} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}
+          className="flex items-center gap-2">
+          <p className="text-4xl font-black text-white tracking-wider">{item.word}</p>
+          <SpeakButton text={item.word} lang="de" size={16} />
+        </motion.div>
       </AnimatePresence>
       <div className="flex gap-4 w-full">
         {(["sp", "st"] as const).map(s => (
@@ -499,10 +506,11 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
         ))}
       </div>
       <AnimatePresence mode="wait">
-        <motion.p key={item.word} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}
-          className="text-4xl font-black text-white tracking-wider">
-          {item.word}
-        </motion.p>
+        <motion.div key={item.word} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}
+          className="flex items-center gap-2">
+          <p className="text-4xl font-black text-white tracking-wider">{item.word}</p>
+          <SpeakButton text={item.word} lang="de" size={16} />
+        </motion.div>
       </AnimatePresence>
       <div className="flex gap-2 flex-wrap justify-center">
         {OPTIONS.map(n => (

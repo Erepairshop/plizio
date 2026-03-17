@@ -6,6 +6,7 @@
 import { memo, useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton, speak } from "@/lib/astromath-tts";
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 interface Statement {
@@ -168,6 +169,12 @@ const WordBlitz = memo(function WordBlitz({
     setTimeout(advance, 900);
   }, [advance]);
 
+  // Auto-speak statement when a new question appears
+  useEffect(() => {
+    if (!done) speak(statements[idx].text, "de");
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [idx]);
+
   // Timer countdown
   useEffect(() => {
     if (done || fb !== null) return;
@@ -299,9 +306,12 @@ const WordBlitz = memo(function WordBlitz({
           }}
         >
           {fb === null ? (
-            <p className="text-xl font-black text-white text-center leading-snug">
-              {stmt.text}
-            </p>
+            <div className="flex items-center justify-center gap-2">
+              <p className="text-xl font-black text-white text-center leading-snug">
+                {stmt.text}
+              </p>
+              <SpeakButton text={stmt.text} lang="de" size={16} />
+            </div>
           ) : (
             <motion.div
               initial={{ scale: 0.7, opacity: 0 }}

@@ -5,6 +5,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -199,12 +200,18 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
       </div>
       <AnimatePresence mode="wait">
         <motion.div key={item.word1 + item.word2} initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
-          exit={{ opacity: 0 }} className="flex items-center gap-4">
-          <span className="text-3xl font-black px-4 py-3 rounded-2xl"
-            style={{ background: "rgba(255,255,255,0.08)", color: "white" }}>{item.word1}</span>
+          exit={{ opacity: 0 }} className="flex items-center gap-3 flex-wrap justify-center">
+          <div className="flex items-center gap-1">
+            <span className="text-3xl font-black px-4 py-3 rounded-2xl"
+              style={{ background: "rgba(255,255,255,0.08)", color: "white" }}>{item.word1}</span>
+            <SpeakButton text={item.word1} lang="de" size={16} />
+          </div>
           <span className="text-white/40 text-2xl">+</span>
-          <span className="text-3xl font-black px-4 py-3 rounded-2xl"
-            style={{ background: "rgba(255,255,255,0.08)", color: "white" }}>{item.word2}</span>
+          <div className="flex items-center gap-1">
+            <span className="text-3xl font-black px-4 py-3 rounded-2xl"
+              style={{ background: "rgba(255,255,255,0.08)", color: "white" }}>{item.word2}</span>
+            <SpeakButton text={item.word2} lang="de" size={16} />
+          </div>
         </motion.div>
       </AnimatePresence>
       {selected !== null && (
@@ -277,8 +284,11 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         ))}
       </div>
       <AnimatePresence mode="wait">
-        <motion.p key={item.word} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}
-          className="text-4xl font-black text-white">{item.word}</motion.p>
+        <motion.div key={item.word} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}
+          className="flex items-center gap-2">
+          <p className="text-4xl font-black text-white">{item.word}</p>
+          <SpeakButton text={item.word} lang="de" size={16} />
+        </motion.div>
       </AnimatePresence>
       <div className="flex flex-col gap-2 w-full">
         {item.choices.map(choice => (
@@ -326,6 +336,7 @@ function Round3({ color, lbl, onNext }: { color: string; lbl: Record<string, str
               <span className="text-xl font-black" style={{ color: isRevealed ? color : "white" }}>
                 {v.verb}
               </span>
+              {isRevealed && <SpeakButton text={v.verb} lang="de" size={14} />}
               {isRevealed && <span className="ml-auto text-lg">✅</span>}
             </motion.button>
           );

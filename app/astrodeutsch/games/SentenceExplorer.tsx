@@ -5,6 +5,7 @@
 import { memo, useState, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton } from "@/lib/astromath-tts";
 
 const LABELS: Record<string, Record<string, string>> = {
   en: {
@@ -193,9 +194,12 @@ function Round1({ color, lbl, onNext }: { color: string; lbl: Record<string, str
               <span className="text-5xl font-black w-12 text-center" style={{ color: data.color }}>{p}</span>
               <div className="flex-1">
                 <p className="text-white/70 text-xs font-bold">{lbl[p === "." ? "period" : p === "?" ? "question" : "exclaim"]}</p>
-                <p className="text-sm mt-0.5 font-bold" style={{ color: isTapped ? data.color : "rgba(255,255,255,0.3)" }}>
-                  {data.example}
-                </p>
+                <div className="flex items-center gap-1 mt-0.5">
+                  <p className="text-sm font-bold" style={{ color: isTapped ? data.color : "rgba(255,255,255,0.3)" }}>
+                    {data.example}
+                  </p>
+                  {isTapped && <SpeakButton text={data.example} lang="de" size={14} />}
+                </div>
               </div>
               {isTapped && <span className="text-lg">✅</span>}
             </motion.button>
@@ -244,10 +248,13 @@ function Round2({ color, lbl, onNext }: { color: string; lbl: Record<string, str
         ))}
       </div>
       <AnimatePresence mode="wait">
-        <motion.p key={item.sentence} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}
-          className="text-2xl font-black text-white text-center">
-          {item.sentence}{selected ? <span style={{ color: PUNCT_DATA[item.punct].color }}>{selected}</span> : <span className="text-white/30">_</span>}
-        </motion.p>
+        <motion.div key={item.sentence} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}
+          className="flex items-center gap-2 justify-center">
+          <p className="text-2xl font-black text-white text-center">
+            {item.sentence}{selected ? <span style={{ color: PUNCT_DATA[item.punct].color }}>{selected}</span> : <span className="text-white/30">_</span>}
+          </p>
+          <SpeakButton text={item.sentence} lang="de" size={16} />
+        </motion.div>
       </AnimatePresence>
       <div className="flex gap-4 w-full justify-center">
         {([".", "?", "!"] as Punct[]).map(p => (
@@ -473,12 +480,15 @@ function Round5({ color, lbl, onDone }: { color: string; lbl: Record<string, str
         ))}
       </div>
       <AnimatePresence mode="wait">
-        <motion.p key={item.sentence} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}
-          className="text-2xl font-black text-white text-center">
-          {item.sentence}{selected
-            ? <span style={{ color: PUNCT_DATA[item.punct].color }}>{selected}</span>
-            : <span className="text-white/30">_</span>}
-        </motion.p>
+        <motion.div key={item.sentence} initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }}
+          className="flex items-center gap-2 justify-center">
+          <p className="text-2xl font-black text-white text-center">
+            {item.sentence}{selected
+              ? <span style={{ color: PUNCT_DATA[item.punct].color }}>{selected}</span>
+              : <span className="text-white/30">_</span>}
+          </p>
+          <SpeakButton text={item.sentence} lang="de" size={16} />
+        </motion.div>
       </AnimatePresence>
       <div className="flex gap-4 w-full justify-center">
         {([".", "?", "!"] as Punct[]).map(p => (

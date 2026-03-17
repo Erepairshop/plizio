@@ -6,6 +6,7 @@
 import { memo, useState, useEffect, useRef, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronRight } from "lucide-react";
+import { SpeakButton, speak } from "@/lib/astromath-tts";
 
 // ─── Labels ───────────────────────────────────────────────────────────────────
 const LABELS: Record<string, Record<string, string>> = {
@@ -156,6 +157,13 @@ const SentenceScramble = memo(function SentenceScramble({
     }, 1200);
   }, [roundIdx, rounds, onDone]);
 
+  // Auto-speak sentence when a new round appears
+  useEffect(() => {
+    const sentence = rounds[roundIdx].words.join(" ") + rounds[roundIdx].punct;
+    speak(sentence, "de");
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [roundIdx]);
+
   // Timer
   useEffect(() => {
     if (phase !== "active") return;
@@ -233,7 +241,10 @@ const SentenceScramble = memo(function SentenceScramble({
       </div>
 
       {/* Instruction */}
-      <p className="text-xs font-semibold text-center text-white/50">{t.tapWords}</p>
+      <div className="flex items-center justify-center gap-2">
+        <p className="text-xs font-semibold text-center text-white/50">{t.tapWords}</p>
+        <SpeakButton text={currentSentence.words.join(" ") + currentSentence.punct} lang="de" size={16} />
+      </div>
 
       {/* Answer slots */}
       <div
