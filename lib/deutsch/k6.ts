@@ -1365,6 +1365,29 @@ export const K6: DeutschTheme[] = [
     ],
   },
 
+  {
+    id: "wortschatz_expansion_k6",
+    name: "Gesellschaft & Kultur",
+    icon: "🌍",
+    color: "#FF6B6B",
+    subtopics: [{
+      id: "gesellschaft_kultur_k6",
+      name: "Kultur und Länder",
+      questions: [
+        { type: "mcq", topic: "wortschatz_expansion_k6", subtopic: "gesellschaft_kultur_k6", question: "Was ist Kultur?", options: ["Sport", "Kunst und Traditionen", "Essen", "Wetter"], correct: 1 },
+        { type: "typing", topic: "wortschatz_expansion_k6", subtopic: "gesellschaft_kultur_k6", question: "Das ____ ist ein Kunstwerk, das Menschen besuchen.", answer: ["Museum"] },
+        { type: "mcq", topic: "wortschatz_expansion_k6", subtopic: "gesellschaft_kultur_k6", question: "Was ist ein Festival?", options: ["Sportevent", "kulturelle Veranstaltung", "Restaurants", "Einkaufszentrum"], correct: 1 },
+        { type: "typing", topic: "wortschatz_expansion_k6", subtopic: "gesellschaft_kultur_k6", question: "Das ____ ist ein Ort für Musik und Theater.", answer: ["Theater"] },
+        { type: "mcq", topic: "wortschatz_expansion_k6", subtopic: "gesellschaft_kultur_k6", question: "Welches Land ist bekannt für Wein?", options: ["Deutschland", "Frankreich", "Schweden", "Finnland"], correct: 1 },
+        { type: "typing", topic: "wortschatz_expansion_k6", subtopic: "gesellschaft_kultur_k6", question: "Die ____ hat schöne Kirchen und Kultur.", answer: ["Italien"] },
+        { type: "mcq", topic: "wortschatz_expansion_k6", subtopic: "gesellschaft_kultur_k6", question: "Was ist Tradition?", options: ["Mode", "alte Bräuche", "Spiel", "Sport"], correct: 1 },
+        { type: "typing", topic: "wortschatz_expansion_k6", subtopic: "gesellschaft_kultur_k6", question: "Das ____ ist ein wichtiges deutsches Fest.", answer: ["Oktoberfest"] },
+        { type: "mcq", topic: "wortschatz_expansion_k6", subtopic: "gesellschaft_kultur_k6", question: "Was ist ein Brauch?", options: ["Regel", "Tradition", "Gesetz", "Mode"], correct: 1 },
+        { type: "typing", topic: "wortschatz_expansion_k6", subtopic: "gesellschaft_kultur_k6", question: "Das ____ verbindet Menschen verschiedener Kulturen.", answer: ["Essen", "Musik"] },
+      ],
+    }],
+  },
+
 ];
 
 // ─── KLASSE 7 ─────────────────────────────────────────────────────────────────

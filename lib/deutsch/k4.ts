@@ -2303,6 +2303,43 @@ export const K4_KLEIDUNG: DeutschTheme[] = [
       },
     ],
   },
+
+  // ─── K4 EXPANSION (2026-03-17) ───
+  {
+    id: "wortschatz_expansion_k4",
+    name: "Erweiterte Vokabeln",
+    icon: "📚",
+    color: "#FF9500",
+    subtopics: [
+      {
+        id: "berufe_k4",
+        name: "Berufe & Tätigkeiten",
+        questions: [
+          { type: "mcq", topic: "wortschatz_expansion_k4", subtopic: "berufe_k4", question: "Was macht ein Lehrer?", options: ["verkauft Essen", "unterrichtet", "heilt", "baut"], correct: 1 },
+          { type: "typing", topic: "wortschatz_expansion_k4", subtopic: "berufe_k4", question: "Der ____ kümmert sich um kranke Menschen.", answer: ["Arzt", "Ärztin"] },
+          { type: "mcq", topic: "wortschatz_expansion_k4", subtopic: "berufe_k4", question: "Wer arbeitet in einem Geschäft?", options: ["Mechaniker", "Verkäufer", "Gärtner", "Koch"], correct: 1 },
+          { type: "typing", topic: "wortschatz_expansion_k4", subtopic: "berufe_k4", question: "Der ____ kocht und bereitet Mahlzeiten zu.", answer: ["Koch"] },
+          { type: "mcq", topic: "wortschatz_expansion_k4", subtopic: "berufe_k4", question: "Wer arbeitet im Büro?", options: ["Mechaniker", "Bürokaufmann", "Gärtner", "Schlosser"], correct: 1 },
+          { type: "typing", topic: "wortschatz_expansion_k4", subtopic: "berufe_k4", question: "Der ____ schreibt Artikel für die Zeitung.", answer: ["Journalist"] },
+          { type: "mcq", topic: "wortschatz_expansion_k4", subtopic: "berufe_k4", question: "Wer baut Häuser?", options: ["Schreiner", "Maurer", "Maler", "Klempner"], correct: 1 },
+          { type: "typing", topic: "wortschatz_expansion_k4", subtopic: "berufe_k4", question: "Der ____ repariert Auto-motoren.", answer: ["Mechaniker"] },
+          { type: "mcq", topic: "wortschatz_expansion_k4", subtopic: "berufe_k4", question: "Wer arbeitet mit Holz?", options: ["Schreiner", "Schneider", "Zahnarzt", "Apotheker"], correct: 0 },
+          { type: "typing", topic: "wortschatz_expansion_k4", subtopic: "berufe_k4", question: "Der ____ kümmert sich um Gärten und Pflanzen.", answer: ["Gärtner"] },
+        ],
+      },
+      {
+        id: "jahreszeiten_natur_k4",
+        name: "Jahreszeiten & Natur",
+        questions: [
+          { type: "mcq", topic: "wortschatz_expansion_k4", subtopic: "jahreszeiten_natur_k4", question: "Wann ist es am wärmsten?", options: ["Winter", "Frühling", "Sommer", "Herbst"], correct: 2 },
+          { type: "typing", topic: "wortschatz_expansion_k4", subtopic: "jahreszeiten_natur_k4", question: "Der ____ ist eine kalte Jahreszeit mit Schnee.", answer: ["Winter"] },
+          { type: "mcq", topic: "wortschatz_expansion_k4", subtopic: "jahreszeiten_natur_k4", question: "Wann regnet es besonders oft?", options: ["Sommer", "Herbst", "Frühling", "Winter"], correct: 1 },
+          { type: "typing", topic: "wortschatz_expansion_k4", subtopic: "jahreszeiten_natur_k4", question: "Das ____ ist die Jahreszeit, wenn Blumen blühen.", answer: ["Frühling"] },
+          { type: "mcq", topic: "wortschatz_expansion_k4", subtopic: "jahreszeiten_natur_k4", question: "Welches Tier winterschläft?", options: ["Vogel", "Bär", "Eichhörnchen", "Reh"], correct: 1 },
+        ],
+      },
+    ],
+  },
 ];
 
 // ─── KLASSE 5 ─────────────────────────────────────────────────────────────────

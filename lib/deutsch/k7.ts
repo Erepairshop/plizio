@@ -1433,5 +1433,28 @@ export const K7: DeutschTheme[] = [
       },
     ],
   },
+  {
+    id: "wortschatz_expansion_k7",
+    name: "Wissenschaft & Technik",
+    icon: "🔬",
+    color: "#00D4FF",
+    subtopics: [{
+      id: "wissenschaft_tech_k7",
+      name: "Naturwissenschaften",
+      questions: [
+        { type: "mcq", topic: "wortschatz_expansion_k7", subtopic: "wissenschaft_tech_k7", question: "Was ist eine Hypothese?", options: ["Fact", "Vermutung", "Beweis", "Theorie"], correct: 1 },
+        { type: "typing", topic: "wortschatz_expansion_k7", subtopic: "wissenschaft_tech_k7", question: "Das ____ ist eine Wissenschaft der Chemie.", answer: ["Experiment"] },
+        { type: "mcq", topic: "wortschatz_expansion_k7", subtopic: "wissenschaft_tech_k7", question: "Was ist ein Atom?", options: ["Molekül", "kleinste Teilchen", "Element", "Energie"], correct: 1 },
+        { type: "typing", topic: "wortschatz_expansion_k7", subtopic: "wissenschaft_tech_k7", question: "Das ____ ist eine kleinste Einheit von Materie.", answer: ["Teilchen"] },
+        { type: "mcq", topic: "wortschatz_expansion_k7", subtopic: "wissenschaft_tech_k7", question: "Welcher Naturwissenschaftler untersucht Lebewesen?", options: ["Chemiker", "Biologe", "Physiker", "Geologe"], correct: 1 },
+        { type: "typing", topic: "wortschatz_expansion_k7", subtopic: "wissenschaft_tech_k7", question: "Die ____ untersucht die Erde und Gesteine.", answer: ["Geologie"] },
+        { type: "mcq", topic: "wortschatz_expansion_k7", subtopic: "wissenschaft_tech_k7", question: "Was ist Technologie?", options: ["Wissenschaft", "praktische Anwendung von Wissen", "Essen", "Sport"], correct: 1 },
+        { type: "typing", topic: "wortschatz_expansion_k7", subtopic: "wissenschaft_tech_k7", question: "Der Computer ist ein ____ Gerät.", answer: ["elektronisches", "digitales"] },
+        { type: "mcq", topic: "wortschatz_expansion_k7", subtopic: "wissenschaft_tech_k7", question: "Was ist das Internet?", options: ["Computer", "Netzwerk", "Telefon", "Radio"], correct: 1 },
+        { type: "typing", topic: "wortschatz_expansion_k7", subtopic: "wissenschaft_tech_k7", question: "Die ____ ermöglicht drahtlose Kommunikation.", answer: ["Technologie"] },
+      ],
+    }],
+  },
+
 ];
 // ─── KLASSE 8 ─────────────────────────────────────────────────────────────────
