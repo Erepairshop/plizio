@@ -47,7 +47,7 @@ import EpochenZeitstrahl from "@/components/deutsch-visual/EpochenZeitstrahl";
 import { genGenusSortierung, genSatzOrdnen, genBildBeschriften, genFehlerFinden, genWortfamilienBaum, genGeschichteSortieren, genWortartenSortieren, genZeitformenZuordnen, genSatzgliedMarkieren, genKasusMarkieren, genAdjektivEndungen, genLueckenText, genSatzgefuge, genEpochenZeitstrahl } from "@/lib/deutschVisualGenerators";
 import { playCorrect, playIncorrect, playClick } from "@/lib/soundEffects";
 import { generateDeutschTestPdf } from "@/lib/generateDeutschTestPdf";
-import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
+import type { LanguageTestEngineConfig, VisualQuestionType } from "@/lib/languageTestTypes";
 
 // ─── TTS HELPER ──────────────────────────────────────────────────────────────
 function speakText(text: string, ttsLang = "de-DE", ttsRate = 0.88, ttsPitch = 1.1) {
@@ -236,10 +236,39 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
   const totalQ = questions.length;
   const answeredCount = Object.keys(paperAnswers).length;
 
+  // ─── CONFIG VISUAL TYPES (pluggable per-language visual components) ────────
+  const configVisualMap = useMemo(() => {
+    const map = new Map<string, VisualQuestionType>();
+    for (const vt of config.visualTypes ?? []) map.set(vt.type, vt);
+    return map;
+  }, [config.visualTypes]);
+  const configVisualSubtopicMap = useMemo(() => {
+    const map = new Map<string, VisualQuestionType[]>();
+    for (const vt of config.visualTypes ?? []) {
+      for (const sid of vt.subtopicIds) {
+        if (!map.has(sid)) map.set(sid, []);
+        map.get(sid)!.push(vt);
+      }
+    }
+    return map;
+  }, [config.visualTypes]);
+
   // ─── FRAGEN AUFBAUEN ────────────────────────────────────────────────────────
 
   // Helper: generate visual TestQuestions for K2 visual subtopics
   function buildVisualForSubtopic(g: number, sid: string, count: number): TestQuestion[] {
+    // Check config visual types first (for Romanian, English, etc.)
+    const configVTs = configVisualSubtopicMap.get(sid);
+    if (configVTs && configVTs.length > 0) {
+      const qs: TestQuestion[] = [];
+      for (const vt of configVTs) {
+        const generated = vt.generate(Math.ceil(count / configVTs.length));
+        for (const item of generated) {
+          qs.push({ ...item, type: vt.type as TestQuestion["type"], subtopic: sid });
+        }
+      }
+      return qs.slice(0, count);
+    }
     if (g !== 2 && g !== 3 && g !== 4 && g !== 5 && g !== 8) return [];
     const fShuffle = <T,>(arr: T[]): T[] => {
       const a = [...arr];
@@ -588,6 +617,7 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
       "genus-sort","satz-ordnen","bild-beschriften","fehler-finden",
       "wortfamilien-baum","geschichte-sortieren","wortarten-sortieren",
       "zeitformen-zuordnen","satzglied-markieren","kasus-markieren","adjektiv-endungen",
+      ...(config.visualTypes ?? []).map(vt => vt.type),
     ]);
     const visualPools: Record<string, TestQuestion[]> = {};
     const regularPools: Record<string, TestQuestion[]> = {};
@@ -712,6 +742,11 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
       } else if (q.type === "epochen-zeitstrahl") {
         isCorrect = parseInt(given) === (q.epochenCorrect ?? -1);
         expected = String(q.epochenCorrect ?? 0);
+      } else if (configVisualMap.has(q.type)) {
+        const vt = configVisualMap.get(q.type)!;
+        const result = vt.gradeAnswer(q, given);
+        isCorrect = result.correct;
+        expected = result.expected;
       } else {
         isCorrect = (config.checkAnswer ?? checkAnswer)(given, q.answer ?? "", grade);
         expected = Array.isArray(q.answer) ? q.answer[0] : q.answer ?? "";
@@ -804,6 +839,7 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
     "luecken-text": "Lückentext ergänzen",
     "satzgefuge-diagram": "Satzgefüge analysieren",
     "epochen-zeitstrahl": "Epoche zuordnen",
+    ...Object.fromEntries((config.visualTypes ?? []).map(vt => [vt.type, vt.printLabel])),
   };
 
   const VISUAL_TYPES_PRINT = new Set(Object.keys(VISUAL_TYPE_LABELS_PRINT));
@@ -1643,6 +1679,7 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
                   "wortfamilien-baum","geschichte-sortieren","wortarten-sortieren",
                   "zeitformen-zuordnen","satzglied-markieren","kasus-markieren","adjektiv-endungen",
                   "luecken-text","satzgefuge-diagram","epochen-zeitstrahl",
+                  ...(config.visualTypes ?? []).map(vt => vt.type),
                 ]);
                 const VISUAL_TYPE_LABELS: Record<string, string> = {
                   "genus-sort": "Artikel bestimmen 🔵",
@@ -1659,6 +1696,7 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
                   "luecken-text": "Lückentext ergänzen ✏️",
                   "satzgefuge-diagram": "Satzgefüge analysieren 🔗",
                   "epochen-zeitstrahl": "Epoche zuordnen 📅",
+                  ...Object.fromEntries((config.visualTypes ?? []).map(vt => [vt.type, vt.label])),
                 };
                 const blockStart = Math.floor(qi / 3) * 3;
                 const blockQs = [questions[blockStart], questions[blockStart+1], questions[blockStart+2]].filter(Boolean);
@@ -2066,6 +2104,16 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
                         />
                       </div>
                     )}
+
+                    {/* Config visual types (pluggable per-language) */}
+                    {configVisualMap.has(q.type) && (() => {
+                      const vt = configVisualMap.get(q.type)!;
+                      const Comp = vt.component;
+                      const props = vt.mapProps(q, userAnswerRaw ?? "", submitted, (a: string) => {
+                        if (!submitted) { playClick(); setPaperAnswers(prev => ({ ...prev, [qi]: a })); }
+                      });
+                      return <div className="ml-7"><Comp {...props} /></div>;
+                    })()}
 
                     {/* Typing input — transparent, sits on a ruled line */}
                     {q.type === "typing" && (

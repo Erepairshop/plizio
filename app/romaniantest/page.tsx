@@ -8,6 +8,7 @@ import {
   ROMANIAN_SUBTOPIC_HINTS,
 } from "@/lib/romanianCurriculum";
 import { getRandomRomanianPassage } from "@/lib/romanianLesetest";
+import { ROMANIAN_VISUAL_TYPES } from "@/lib/romanianVisualGenerators";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
 
 const RO_CONFIG: LanguageTestEngineConfig = {
@@ -35,6 +36,9 @@ const RO_CONFIG: LanguageTestEngineConfig = {
   subtopicHints: ROMANIAN_SUBTOPIC_HINTS,
 
   getReadingPassage: getRandomRomanianPassage,
+
+  visualTypes: ROMANIAN_VISUAL_TYPES,
+  visualGrades: [1],
 
   labels: {
     selectCountry: "Alege țara",
