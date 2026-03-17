@@ -305,7 +305,7 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
             {unlocked && G1_ISLAND_SVGS[island.id] && (
               <foreignObject x={island.svgX - 30} y={island.svgY - 30} width={60} height={60}
                 style={{ overflow: "visible" }}>
-                <div xmlns="http://www.w3.org/1999/xhtml" style={{ width: 60, height: 60, opacity: done ? 0.85 : 1 }}>
+                <div style={{ width: 60, height: 60, opacity: done ? 0.85 : 1 }}>
                   {React.createElement(G1_ISLAND_SVGS[island.id], { size: 60 })}
                 </div>
               </foreignObject>
