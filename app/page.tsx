@@ -636,7 +636,11 @@ export default function Home() {
     const checkAuth = async () => {
       const user = await getUser();
       setIsLoggedIn(!!user);
-      if (user) syncToSupabase(user.id).catch((err) => console.error("Sync error:", err));
+      if (user) syncToSupabase(user.id).then(() => {
+        setCardCount(getCards().length);
+        setSpecialCount(getSpecialCardCount());
+        window.dispatchEvent(new Event("plizio-cards-changed"));
+      }).catch((err) => console.error("Sync error:", err));
       // Never auto-show auth modal again after dismissed or registered
       if (!user) {
         const stats = getStats();
@@ -656,7 +660,11 @@ export default function Home() {
 
     const { data: { subscription } } = onAuthChange((user) => {
       setIsLoggedIn(!!user);
-      if (user) syncToSupabase(user.id).catch((err) => console.error("Sync error:", err));
+      if (user) syncToSupabase(user.id).then(() => {
+        setCardCount(getCards().length);
+        setSpecialCount(getSpecialCardCount());
+        window.dispatchEvent(new Event("plizio-cards-changed"));
+      }).catch((err) => console.error("Sync error:", err));
     });
 
     // Refresh card + star badge whenever cards change (earn / exchange)
@@ -772,7 +780,10 @@ export default function Home() {
           onSuccess={() => {
             setShowAuth(false);
             setIsLoggedIn(true);
+            // Refresh all state from localStorage after sync
+            setCardCount(getCards().length);
             setSpecialCount(getSpecialCardCount());
+            window.dispatchEvent(new Event("plizio-cards-changed"));
           }}
         />
       )}
