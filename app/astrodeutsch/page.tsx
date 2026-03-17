@@ -74,7 +74,6 @@ const GRADE_CLASSES = [
   },
   {
     grade: 5, route: "/astrodeutsch/5",
-    planet: "💜",
     planetName: { en: "Satzburg", hu: "Satzburg", de: "Satzburg", ro: "Satzburg" },
     label: { en: "Class 5", hu: "5. osztály", de: "Klasse 5", ro: "Clasa 5" },
     subtitle: { en: "Pronouns & Passive", hu: "Névmások & Szenvedő", de: "Pronomen & Passiv", ro: "Pronume & Pasiv" },
@@ -85,7 +84,6 @@ const GRADE_CLASSES = [
   },
   {
     grade: 6, route: "/astrodeutsch/6",
-    planet: "🪐",
     planetName: { en: "Stilonia", hu: "Stilonia", de: "Stilonia", ro: "Stilonia" },
     label: { en: "Class 6", hu: "6. osztály", de: "Klasse 6", ro: "Clasa 6" },
     subtitle: { en: "Konjunktiv & Style", hu: "Konjunktív & Stílus", de: "Konjunktiv & Stilmittel", ro: "Conjunctiv & Stil" },
@@ -96,7 +94,6 @@ const GRADE_CLASSES = [
   },
   {
     grade: 7, route: "/astrodeutsch/7",
-    planet: "✨",
     planetName: { en: "Rhetorika", hu: "Rhetorika", de: "Rhetorika", ro: "Rhetorika" },
     label: { en: "Class 7", hu: "7. osztály", de: "Klasse 7", ro: "Clasa 7" },
     subtitle: { en: "Konjunktiv I & Rhetoric", hu: "Konjunktív I & Retorika", de: "Konjunktiv I & Rhetorik", ro: "Conjunctiv I & Retorică" },
@@ -189,12 +186,12 @@ export default function AstroDeutschHubPage() {
                 <div className="relative flex items-center gap-4">
                   {/* Planet icon */}
                   <motion.div
-                    className="text-4xl flex-shrink-0 w-14 h-14 rounded-2xl flex items-center justify-center"
+                    className="flex-shrink-0 w-14 h-14 rounded-2xl flex items-center justify-center"
                     style={{ background: `${g.color}20`, border: `2px solid ${g.color}40` }}
                     animate={{ scale: [1, 1.04, 1] }}
                     transition={{ duration: 2.5 + i * 0.3, repeat: Infinity, ease: "easeInOut" }}
                   >
-                    {g.planet}
+                    {React.createElement(GRADE_PLANETS[i], { size: 44 })}
                   </motion.div>
 
                   {/* Info */}

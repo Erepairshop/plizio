@@ -230,7 +230,7 @@ export function PlanetRhetorika({ size = 48 }: PP) {
 }
 
 // ── Exports ───────────────────────────────────────────────────────────────────
-export const GRADE_PLANETS: React.FC<{ size?: number }>[] = [
+export const GRADE_PLANETS = [
   PlanetBuchstabia, // 1
   PlanetWortania,   // 2
   PlanetGrammatos,  // 3
