@@ -293,6 +293,41 @@ export const SUBTOPIC_HINTS: Record<string, string> = {
   "schule_k3":               "Schule & Freizeit: Schulfächer · Utensilien · Hobbys · Freizeitaktivitäten",
   "weg_k3":                  "Wegbeschreibung: links/rechts/geradeaus · Kreuzung · Ampel · Verkehrsmittel",
   "synonyme_k3":             "Synonyme & Redewendungen: gleiche Bedeutung · Redensarten · Sprichwörter",
+
+  // ── K4 Rechtschreibung ──────────────────────────────────────────────────────
+  "dehnungs_h_k4":           "Dehnungs-h: nach langem Vokal → ah, eh, ih, oh, uh, ie · Bahn, Stuhl, Mehl, Reh",
+  "doppelkonsonanten_k4":    "Doppelkonsonanten: nach kurzem Vokal → mm, nn, ll, ss, tt · Mutter, Ball, Kanne",
+  "ss_sz_k4":                "s/ss/ß: nach kurzem Vokal → ss (Fluss) · nach langem Vokal/Diphthong → ß (Straße, groß)",
+  "gross_klein_k4":          "Nominalisierung: Verben/Adjektive als Nomen → das Lesen, etwas Schönes, nichts Neues",
+  "silbentrennung_k4":       "Silbentrennung nach Sprechsilben: Mut-ter, Fen-ster, ar-bei-ten",
+
+  // ── K4 Wortarten ───────────────────────────────────────────────────────────
+  "steigerung_k4":           "Steigerung: Positiv (schön) → Komparativ (schöner) → Superlativ (am schönsten)",
+  "zusammengesetzte_nomen_k4":"Zusammengesetzte Nomen: Schulbuch = Schule+Buch · Genus = letztes Wort · ggf. Fugen-s",
+  "konjunktionen_k4":        "Konjunktionen: und/oder/aber (Hauptsatz) · weil/obwohl/wenn/dass (Nebensatz → Verb am Ende)",
+  "praepositionen_k4":       "Wechselpräpositionen: Wo? → Dativ (auf dem) · Wohin? → Akkusativ (auf den)",
+
+  // ── K4 Wörtliche Rede ──────────────────────────────────────────────────────
+  "woertliche_rede_k4":      "Wörtliche Rede: Anführungszeichen unten öffnen, oben schließen · Begleitsatz vorne: Doppelpunkt · hinten: Komma",
+  "redezeichen_k4":          "Satzzeichen: Punkt fällt weg (Begleitsatz folgt) · Fragezeichen/Ausrufezeichen bleiben · Komma nach Schlusszeichen",
+
+  // ── K4 Textarbeit ──────────────────────────────────────────────────────────
+  "brief_k4":                "Brief: Datum/Ort (oben rechts) · Anrede: Liebe/r... · Text · Gruß · Unterschrift · Du großschreiben",
+  "nacherzaehlung_k4":       "Nacherzählung: Einleitung (Wer/Was/Wo/Wann) · Hauptteil (Handlung) · Schluss (Ende) · eigene Meinung NICHT",
+  "bericht_k4":              "Bericht: sachlich · W-Fragen: Wer? Was? Wann? Wo? Wie? · Präteritum · keine eigenen Gefühle",
+
+  // ── K4 Nebensätze ──────────────────────────────────────────────────────────
+  "wenn_als_k4":             "wenn vs. als: wenn = wiederholend/Bedingung · als = einmalig Vergangenheit · Verb am Ende",
+  "obwohl_k4":               "obwohl = Konzessivsatz (Gegensatz/Einschränkung) · obwohl er müde ist, lernt er · Verb am Ende",
+  "damit_um_zu_k4":          "Finalsatz (Zweck): gleiche Person → um...zu · verschiedene Person → damit · Verb am Ende",
+
+  // ── K4 Wortschatz ──────────────────────────────────────────────────────────
+  "wortfamilien_k4":         "Wortfamilien: gleicher Stamm → fahren, Fahrer, Fahrt, Fahrrad · Stamm erkennen",
+  "wortfelder_k4":           "Wortfelder: sagen → rufen, flüstern, schreien · Synonyme = gleiche Bedeutung",
+  "redewendungen_k4":        "Redewendungen: übertragene Bedeutung · Tomaten auf den Augen = nichts bemerken",
+  "koerper_k4":              "Körper: Herz, Lunge, Gehirn, Niere · Skelett, Gelenk, Muskel · Gesundheit: Fieber, Impfung",
+  "natur_k4":                "Natur: Ökosystem, Photosynthese, Wasserkreislauf · Umweltschutz: Recycling, erneuerbare Energie",
+  "schule_k4":               "Schule & Beruf: Klassenarbeit, Zeugnis, Abitur, Stundenplan · Grundschule → Gymnasium/Realschule",
 };
 
 export function getSubtopicHint(subtopic?: string): string | null {
