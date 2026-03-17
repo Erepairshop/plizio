@@ -13,9 +13,12 @@ interface Props {
   userAnswer: string;
   submitted: boolean;
   onAnswer: (a: string) => void;
+  placeholder?: string;      // default: "Tippe auf die Wörter…"
+  allUsedLabel?: string;     // default: "alle Wörter gesetzt"
+  correctLabel?: string;     // default: "Richtig:"
 }
 
-export default function SatzOrdnen({ shuffled, answer, userAnswer, submitted, onAnswer }: Props) {
+export default function SatzOrdnen({ shuffled, answer, userAnswer, submitted, onAnswer, placeholder = "Tippe auf die Wörter…", allUsedLabel = "alle Wörter gesetzt", correctLabel = "Richtig:" }: Props) {
   const [built, setBuilt] = useState<string[]>([]);
   const [pool, setPool] = useState<string[]>(shuffled);
 
@@ -52,7 +55,7 @@ export default function SatzOrdnen({ shuffled, answer, userAnswer, submitted, on
       <div style={{ minHeight: 28, lineHeight: "28px" }} className="flex items-center gap-1 flex-wrap px-1 py-0.5">
         <span className="text-slate-300 text-xs w-5 text-right shrink-0">↓</span>
         {pool.length === 0 && built.length > 0 && (
-          <span className="text-slate-300 text-xs italic">alle Wörter gesetzt</span>
+          <span className="text-slate-300 text-xs italic">{allUsedLabel}</span>
         )}
         {pool.map((w, i) => (
           <button
@@ -71,7 +74,7 @@ export default function SatzOrdnen({ shuffled, answer, userAnswer, submitted, on
       <div style={{ minHeight: 28, lineHeight: "28px" }} className="flex items-center gap-1 flex-wrap px-1 py-0.5 border-b border-dashed border-slate-200">
         <span className="text-slate-300 text-xs w-5 text-right shrink-0">→</span>
         {built.length === 0 && (
-          <span className="text-slate-300 text-xs italic">Tippe auf die Wörter…</span>
+          <span className="text-slate-300 text-xs italic">{placeholder}</span>
         )}
         {built.map((w, i) => {
           let cls = "px-2 rounded border font-semibold text-xs transition-all select-none ";
@@ -106,7 +109,7 @@ export default function SatzOrdnen({ shuffled, answer, userAnswer, submitted, on
       {submitted && !isCorrect && built.length > 0 && (
         <div style={{ height: 28, lineHeight: "28px" }} className="flex items-center gap-1 px-1">
           <span className="w-5 shrink-0" />
-          <span className="text-xs text-slate-400">Richtig:</span>
+          <span className="text-xs text-slate-400">{correctLabel}</span>
           <span className="text-xs font-semibold text-slate-600">{answer}</span>
         </div>
       )}

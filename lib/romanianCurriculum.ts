@@ -5,6 +5,7 @@ import type { CurriculumTheme, CurriculumQuestion } from "./curriculumTypes";
 import type { TestGradeMark } from "./languageTestTypes";
 import { C1_Generators } from "./romanianGenerators";
 import { C2_Generators } from "./romanianGeneratorsC2";
+import { C3_Generators } from "./romanianGeneratorsC3";
 
 // ─── TYPE ALIASES ────────────────────────────────────────────────────────────
 
@@ -395,17 +396,128 @@ const C2: RomanianTheme[] = [
   },
 ];
 
+// ─── CLASA a III-a (Grade 3) ─────────────────────────────────────────────────
+
+const C3: RomanianTheme[] = [
+  {
+    id: "substantiv_c3",
+    name: "Substantivul",
+    icon: "🏷️",
+    color: "#FF2D78",
+    subtopics: [
+      { id: "gen_subst_c3", name: "Genul substantivului (m/f/n)", questions: [
+        { type: "mcq", topic: "substantiv_c3", subtopic: "gen_subst_c3", question: "Ce gen are substantivul 'munte'?", options: ["masculin", "feminin", "neutru", "comun"], correct: 0 },
+      ]},
+      { id: "numar_subst_c3", name: "Numărul substantivului (sg/pl)", questions: [
+        { type: "mcq", topic: "substantiv_c3", subtopic: "numar_subst_c3", question: "Care este pluralul substantivului 'copil'?", options: ["copii", "copile", "copiii", "copilași"], correct: 0 },
+      ]},
+      { id: "caz_subst_c3", name: "Cazul substantivului (N/G/D/Ac)", questions: [
+        { type: "mcq", topic: "substantiv_c3", subtopic: "caz_subst_c3", question: "'Ana citește.' — La ce caz este substantivul 'Ana'?", options: ["Nominativ", "Acuzativ", "Dativ", "Genitiv"], correct: 0 },
+      ]},
+    ],
+  },
+  {
+    id: "verb_c3",
+    name: "Verbul",
+    icon: "⚡",
+    color: "#00D4FF",
+    subtopics: [
+      { id: "conjugare_c3", name: "Conjugarea verbului (persoane)", questions: [
+        { type: "mcq", topic: "verb_c3", subtopic: "conjugare_c3", question: "Care este forma verbului 'a merge' pentru 'eu'?", options: ["merg", "mergi", "merge", "mergem"], correct: 0 },
+      ]},
+      { id: "timp_verb_c3", name: "Timpurile verbului (prezent/trecut/viitor)", questions: [
+        { type: "mcq", topic: "verb_c3", subtopic: "timp_verb_c3", question: "La ce timp este verbul 'a cântat'?", options: ["trecut", "prezent", "viitor", "infinitiv"], correct: 0 },
+      ]},
+      { id: "persoana_nr_c3", name: "Persoana și numărul verbului", questions: [
+        { type: "mcq", topic: "verb_c3", subtopic: "persoana_nr_c3", question: "'noi mergem' — La ce persoană și număr este verbul?", options: ["I plural", "I singular", "a III-a plural", "a II-a plural"], correct: 0 },
+      ]},
+    ],
+  },
+  {
+    id: "adjectiv_c3",
+    name: "Adjectivul",
+    icon: "🎨",
+    color: "#00FF88",
+    subtopics: [
+      { id: "acord_adj_c3", name: "Acordul adjectivului cu substantivul", questions: [
+        { type: "mcq", topic: "adjectiv_c3", subtopic: "acord_adj_c3", question: "Care este forma adjectivului 'frumos' pentru substantivul feminin 'floare'?", options: ["frumoasă", "frumos", "frumoși", "frumoase"], correct: 0 },
+      ]},
+      { id: "adj_propozitie_c3", name: "Adjectivul în propoziție", questions: [
+        { type: "mcq", topic: "adjectiv_c3", subtopic: "adj_propozitie_c3", question: "Care este adjectivul din: 'Câinele cel negru a latrat.'?", options: ["negru", "câinele", "latrat", "cel"], correct: 0 },
+      ]},
+    ],
+  },
+  {
+    id: "vocabular_c3",
+    name: "Vocabular avansat",
+    icon: "📚",
+    color: "#B44DFF",
+    subtopics: [
+      { id: "sinonime_c3", name: "Sinonime", questions: [
+        { type: "mcq", topic: "vocabular_c3", subtopic: "sinonime_c3", question: "Care este sinonimul cuvântului 'a vorbi'?", options: ["a spune", "a tăcea", "a merge", "a dormi"], correct: 0 },
+      ]},
+      { id: "antonime_c3", name: "Antonime", questions: [
+        { type: "mcq", topic: "vocabular_c3", subtopic: "antonime_c3", question: "Care este antonimul cuvântului 'vesel'?", options: ["trist", "bucuros", "fericit", "mulțumit"], correct: 0 },
+      ]},
+      { id: "familia_cuvintelor_c3", name: "Familia de cuvinte", questions: [
+        { type: "mcq", topic: "vocabular_c3", subtopic: "familia_cuvintelor_c3", question: "Care cuvânt face parte din familia lui 'floare'?", options: ["florar", "casnic", "copăcel", "apă"], correct: 0 },
+      ]},
+    ],
+  },
+  {
+    id: "ortografie_c3",
+    name: "Ortografie avansată",
+    icon: "📐",
+    color: "#FFD700",
+    subtopics: [
+      { id: "cratima_c3", name: "Cratima — n-am, nu-i, m-am, l-am", questions: [
+        { type: "mcq", topic: "ortografie_c3", subtopic: "cratima_c3", question: "Completează corect: 'Eu ___ văzut filmul.'", options: ["n-am", "nam", "n am", "n'am"], correct: 0 },
+      ]},
+    ],
+  },
+  {
+    id: "propozitia_c3",
+    name: "Propoziția — dezvoltată și figuri de stil",
+    icon: "✍️",
+    color: "#FF6B00",
+    subtopics: [
+      { id: "propozitie_dezv_c3", name: "Propoziția simplă și dezvoltată", questions: [
+        { type: "mcq", topic: "propozitia_c3", subtopic: "propozitie_dezv_c3", question: "Ce este o propoziție simplă?", options: ["Are doar subiect și predicat", "Are mai mult de 5 cuvinte", "Are atribute și complemente", "Are dialog"], correct: 0 },
+      ]},
+      { id: "figuri_stil_c3", name: "Figuri de stil (comparație, personificare)", questions: [
+        { type: "mcq", topic: "propozitia_c3", subtopic: "figuri_stil_c3", question: "Ce figură de stil conține: 'Fata era frumoasă ca o floare.'?", options: ["comparație", "personificare", "enumerație", "repetiție"], correct: 0 },
+      ]},
+    ],
+  },
+  {
+    id: "lectura_c3",
+    name: "Lectură și comprehensiune",
+    icon: "📕",
+    color: "#10B981",
+    subtopics: [
+      { id: "intelegere_c3", name: "Înțelegerea textului", questions: [
+        { type: "mcq", topic: "lectura_c3", subtopic: "intelegere_c3", question: "Text: \"Toamna, codrul se îmbracă în haine de aur și ruginiu.\"\n\nCe anotimp descrie textul?", options: ["Toamna", "Vara", "Iarna", "Primăvara"], correct: 0 },
+      ]},
+      { id: "idee_principala_c3", name: "Ideea principală și rezumatul", questions: [
+        { type: "mcq", topic: "lectura_c3", subtopic: "idee_principala_c3", question: "Ce este ideea principală a unui text?", options: ["Mesajul cel mai important", "Titlul textului", "Prima propoziție", "Ultimul paragraf"], correct: 0 },
+      ]},
+    ],
+  },
+];
+
 // ─── MAIN EXPORT ──────────────────────────────────────────────────────────────
 
 export const ROMANIAN_CURRICULUM: Record<number, RomanianTheme[]> = {
   1: C1,
   2: C2,
+  3: C3,
 };
 
 /** Generator mapping by grade */
 const GENERATOR_MAP: Record<number, Record<string, Record<string, (seed?: number) => CurriculumQuestion[]>>> = {
   1: C1_Generators,
   2: C2_Generators,
+  3: C3_Generators,
 };
 
 /** Returns shuffled questions from selected subtopics (max count). */
@@ -543,4 +655,21 @@ export const ROMANIAN_SUBTOPIC_HINTS: Record<string, string> = {
   "intelegere_c2":          "Citește textul cu atenție! Răspunsul se găsește ÎNTOTDEAUNA în text. Subliniază cuvintele cheie din întrebare și caută-le în text.",
   "succesiune_c2":          "Succesiunea = ordinea în care se întâmplă lucrurile. Caută cuvintele de timp: mai întâi, apoi, după aceea, în final, la sfârșit.",
   "morala_c2":              "Morala/învățătura = ce lecție ne învață povestea. Gândește-te: ce ar fi trebuit să facă personajul diferit? Ce ne sfătuiește autorul?",
+  // ─── Clasa III ───
+  "gen_subst_c3":           "Genul substantivului: MASCULIN (un câine, doi câini), FEMININ (o casă, două case), NEUTRU (un scaun, două scaune). Regula: singularul cu 'un/o', pluralul cu 'doi/două'.",
+  "numar_subst_c3":         "Singular = un singur lucru. Plural = mai multe. Atenție la neregulate: om→oameni, copil→copii, carte→cărți, casă→case, munte→munți.",
+  "caz_subst_c3":           "Nominativ (cine? ce?) — Genitiv (al cui?) — Dativ (cui?) — Acuzativ (pe cine? ce?). Exemplu: 'Ana (N) dă Mariei (D) cartea (Ac) Elenei (G).'",
+  "conjugare_c3":           "Conjugare prezent: eu merg, tu mergi, el/ea merge, noi mergem, voi mergeți, ei/ele merg. Rădăcina rămâne aceeași, sufixul se schimbă!",
+  "timp_verb_c3":           "Prezent = acum (merge), Trecut = s-a întâmplat (a mers/mergea), Viitor = se va întâmpla (va merge). Test: 'ieri/azi/mâine + verb'.",
+  "persoana_nr_c3":         "Persoana I: eu/noi. Persoana a II-a: tu/voi. Persoana a III-a: el/ea/ei/ele. Singular = un subiect, Plural = mai mulți subiecți.",
+  "acord_adj_c3":           "Adjectivul se acordă cu substantivul în GEN și NUMĂR: copil frumos, fată frumoasă, copii frumoși, fete frumoase. Întreabă: 'Cum este cine/ce?'",
+  "adj_propozitie_c3":      "Adjectivul este cuvântul care arată CUM ESTE substantivul. Se găsește lângă substantiv și răspunde la 'Cum este? Care?'",
+  "sinonime_c3":            "Sinonimele = cuvinte cu același înțeles: vesel=bucuros=fericit, repede=iute=rapid, a merge=a umbla=a se deplasa.",
+  "antonime_c3":            "Antonimele = cuvinte cu înțeles opus: vesel↔trist, înalt↔scund, cald↔rece, a urca↔a coborî, bogat↔sărac.",
+  "familia_cuvintelor_c3":  "Familia de cuvinte = toate cuvintele cu aceeași rădăcină: floare→florar, floricică, florărie, înflorit, floral. Rădăcina = partea comună!",
+  "cratima_c3":             "Cratima leagă cuvinte scurte: n-am (nu+am), m-am (mă+am), l-am (îl+am), nu-i (nu+îi), mi-a (mie+a). Se scrie FĂRĂ spații!",
+  "propozitie_dezv_c3":     "Propoziție simplă = subiect + predicat (Ana citește). Propoziție dezvoltată = subiect + predicat + atribute/complemente (Ana cea harnică citește cu plăcere).",
+  "figuri_stil_c3":         "Comparație: 'ca' / 'precum' (fata frumoasă ca o floare). Personificare: obiectul primește însușiri omenești (vântul suspina). Enumerație: lista de elemente.",
+  "intelegere_c3":          "Citește textul integral, apoi întrebarea. Caută cuvintele cheie din întrebare în text. Răspunsul trebuie să fie susținut de text!",
+  "idee_principala_c3":     "Ideea principală = 'Despre CE/CINE este textul?'. Rezumatul = povestești pe scurt, cu propriile cuvinte, respectând ordinea evenimentelor.",
 };
