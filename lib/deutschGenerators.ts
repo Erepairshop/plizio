@@ -87,7 +87,37 @@ const NOMEN: { n: string; a: string; p: string; s: number }[] = [
   { n: "Bett",     a: "das", p: "Betten",      s: 1 },
   { n: "Glas",     a: "das", p: "Gläser",      s: 1 },
   { n: "Wald",     a: "der", p: "Wälder",      s: 1 },
-  // TODO: add more ↓
+  // ─── K1 BŐVÍTÉS: 30 új szó (2026-03-17) ───────────────────────────
+  { n: "Affe",      a: "der", p: "Affen",       s: 2 },
+  { n: "Löwe",      a: "der", p: "Löwen",       s: 2 },
+  { n: "Käse",      a: "der", p: "Käse",        s: 2 },
+  { n: "Schaf",     a: "das", p: "Schafe",      s: 1 },
+  { n: "Enten",     a: "die", p: "Enten",       s: 2 },
+  { n: "Maus",      a: "die", p: "Mäuse",       s: 1 },
+  { n: "Fisch",     a: "der", p: "Fische",      s: 1 },
+  { n: "Spielzeug", a: "das", p: "Spielzeuge",  s: 3 },
+  { n: "Eis",       a: "das", p: "Eise",        s: 1 },
+  { n: "Schuh",     a: "der", p: "Schuhe",      s: 1 },
+  { n: "Biber",     a: "der", p: "Biber",       s: 2 },
+  { n: "Feder",     a: "die", p: "Federn",      s: 2 },
+  { n: "Kirsche",   a: "die", p: "Kirschen",    s: 2 },
+  { n: "Korb",      a: "der", p: "Körbe",       s: 1 },
+  { n: "Krone",     a: "die", p: "Kronen",      s: 2 },
+  { n: "Kugel",     a: "die", p: "Kugeln",      s: 2 },
+  { n: "Loch",      a: "das", p: "Löcher",      s: 1 },
+  { n: "Magnet",    a: "der", p: "Magnete",     s: 2 },
+  { n: "Marke",     a: "die", p: "Marken",      s: 2 },
+  { n: "Milch",     a: "die", p: "Milche",      s: 1 },
+  { n: "Minze",     a: "die", p: "Minzen",      s: 2 },
+  { n: "Moment",    a: "der", p: "Momente",     s: 2 },
+  { n: "Münze",     a: "die", p: "Münzen",      s: 2 },
+  { n: "Nähe",      a: "die", p: "Nähen",       s: 2 },
+  { n: "Nerv",      a: "der", p: "Nerven",      s: 2 },
+  { n: "Nuss",      a: "die", p: "Nüsse",       s: 1 },
+  { n: "Ohr",       a: "das", p: "Ohren",       s: 1 },
+  { n: "Öl",        a: "das", p: "Öle",         s: 1 },
+  { n: "Orange",    a: "die", p: "Orangen",     s: 2 },
+  { n: "Ordnung",   a: "die", p: "Ordnungen",   s: 3 },
 ];
 
 // Verben mit vollständiger Konjugation
@@ -156,6 +186,97 @@ const SYNONYME: { w: string; syn: string; f1: string; f2: string }[] = [
   // TODO: add more ↓
 ];
 
+// ─── K1 EXPANSION: Körperteile (Bodyparts) ─────────────────────────────────
+const KÖRPERTEILE: { n: string; a: string; p: string; s: number }[] = [
+  { n: "Kopf",       a: "der", p: "Köpfe",       s: 1 },
+  { n: "Auge",       a: "das", p: "Augen",       s: 2 },
+  { n: "Ohr",        a: "das", p: "Ohren",       s: 1 },
+  { n: "Nase",       a: "die", p: "Nasen",       s: 2 },
+  { n: "Mund",       a: "der", p: "Münder",      s: 1 },
+  { n: "Zahn",       a: "der", p: "Zähne",       s: 1 },
+  { n: "Zunge",      a: "die", p: "Zungen",      s: 2 },
+  { n: "Hals",       a: "der", p: "Hälse",       s: 1 },
+  { n: "Arm",        a: "der", p: "Arme",        s: 1 },
+  { n: "Hand",       a: "die", p: "Hände",       s: 1 },
+  { n: "Finger",     a: "der", p: "Finger",      s: 2 },
+  { n: "Bauch",      a: "der", p: "Bäuche",      s: 1 },
+  { n: "Bein",       a: "das", p: "Beine",       s: 1 },
+  { n: "Knie",       a: "das", p: "Knie",        s: 1 },
+  { n: "Fuß",        a: "der", p: "Füße",        s: 1 },
+  { n: "Herz",       a: "das", p: "Herzen",      s: 1 },
+  { n: "Rücken",     a: "der", p: "Rücken",      s: 2 },
+  { n: "Lunge",      a: "die", p: "Lungen",      s: 2 },
+];
+
+// ─── K1 EXPANSION: Haushalt (Household Items) ──────────────────────────────
+const HAUSHALT: { n: string; a: string; p: string; s: number }[] = [
+  { n: "Tisch",      a: "der", p: "Tische",      s: 1 },
+  { n: "Stuhl",      a: "der", p: "Stühle",      s: 1 },
+  { n: "Bett",       a: "das", p: "Betten",      s: 1 },
+  { n: "Schrank",    a: "der", p: "Schränke",    s: 1 },
+  { n: "Tür",        a: "die", p: "Türen",       s: 1 },
+  { n: "Fenster",    a: "das", p: "Fenster",     s: 2 },
+  { n: "Lampe",      a: "die", p: "Lampen",      s: 2 },
+  { n: "Sofa",       a: "das", p: "Sofas",       s: 2 },
+  { n: "Spiegel",    a: "der", p: "Spiegel",     s: 2 },
+  { n: "Regal",      a: "das", p: "Regale",      s: 2 },
+  { n: "Kühlschrank",a: "der", p: "Kühlschränke",s: 3 },
+  { n: "Herd",       a: "der", p: "Herde",       s: 1 },
+];
+
+// ─── K1 EXPANSION: Tiere (Animals) ────────────────────────────────────────
+const TIERE: { n: string; a: string; p: string; s: number }[] = [
+  { n: "Hund",       a: "der", p: "Hunde",       s: 1 },
+  { n: "Katze",      a: "die", p: "Katzen",      s: 2 },
+  { n: "Vogel",      a: "der", p: "Vögel",       s: 2 },
+  { n: "Fisch",      a: "der", p: "Fische",      s: 1 },
+  { n: "Pferd",      a: "das", p: "Pferde",      s: 1 },
+  { n: "Kuh",        a: "die", p: "Kühe",        s: 1 },
+  { n: "Schaf",      a: "das", p: "Schafe",      s: 1 },
+  { n: "Schwein",    a: "das", p: "Schweine",    s: 1 },
+  { n: "Huhn",       a: "das", p: "Hühner",      s: 1 },
+  { n: "Ente",       a: "die", p: "Enten",       s: 2 },
+  { n: "Biene",      a: "die", p: "Bienen",      s: 2 },
+  { n: "Schmetterling",a: "der", p: "Schmetterlinge", s: 3 },
+  { n: "Maus",       a: "die", p: "Mäuse",       s: 1 },
+  { n: "Löwe",       a: "der", p: "Löwen",       s: 2 },
+];
+
+// ─── K1 EXPANSION: Familie (Family) ────────────────────────────────────────
+const FAMILIE: { n: string; a: string; p: string; s: number }[] = [
+  { n: "Mutter",     a: "die", p: "Mütter",      s: 2 },
+  { n: "Vater",      a: "der", p: "Väter",       s: 2 },
+  { n: "Bruder",     a: "der", p: "Brüder",      s: 2 },
+  { n: "Schwester",  a: "die", p: "Schwestern",  s: 3 },
+  { n: "Großmutter", a: "die", p: "Großmütter",  s: 3 },
+  { n: "Großvater",  a: "der", p: "Großväter",   s: 3 },
+  { n: "Opa",        a: "der", p: "Opas",        s: 2 },
+  { n: "Oma",        a: "die", p: "Omas",        s: 2 },
+  { n: "Tante",      a: "die", p: "Tanten",      s: 2 },
+  { n: "Onkel",      a: "der", p: "Onkel",       s: 2 },
+  { n: "Cousin",     a: "der", p: "Cousins",     s: 2 },
+  { n: "Cousine",    a: "die", p: "Cousinen",    s: 3 },
+];
+
+// ─── K1 EXPANSION: Lebensmittel (Food & Drink) ─────────────────────────────
+const LEBENSMITTEL: { n: string; a: string; p: string; s: number }[] = [
+  { n: "Apfel",      a: "der", p: "Äpfel",       s: 2 },
+  { n: "Birne",      a: "die", p: "Birnen",      s: 2 },
+  { n: "Banane",     a: "die", p: "Bananen",     s: 3 },
+  { n: "Orange",     a: "die", p: "Orangen",     s: 2 },
+  { n: "Erdbeere",   a: "die", p: "Erdbeeren",   s: 3 },
+  { n: "Tomate",     a: "die", p: "Tomaten",     s: 2 },
+  { n: "Kartoffel",  a: "die", p: "Kartoffeln",  s: 3 },
+  { n: "Karotte",    a: "die", p: "Karotten",    s: 2 },
+  { n: "Brot",       a: "das", p: "Brote",       s: 1 },
+  { n: "Butter",     a: "die", p: "Buttern",     s: 2 },
+  { n: "Käse",       a: "der", p: "Käse",        s: 2 },
+  { n: "Ei",         a: "das", p: "Eier",        s: 1 },
+  { n: "Milch",      a: "die", p: "Milche",      s: 1 },
+  { n: "Wasser",     a: "das", p: "Wasser",      s: 2 },
+  { n: "Saft",       a: "der", p: "Säfte",       s: 1 },
+];
+
 // Antonyme: w=Wort  ant=Antonym  f1/f2=Falschantworten
 const ANTONYME: { w: string; ant: string; f1: string; f2: string }[] = [
   { w: "hell",      ant: "dunkel",      f1: "warm",      f2: "groß"    },
@@ -220,6 +341,85 @@ const SATZZEICHEN_TEMPLATES: { satz: string; zz: string; f: string[] }[] = [
   // TODO: add more ↓
 ];
 
+// ─── K2 EXPANSION: Zahlen (Numbers 1-100) ────────────────────────────────────
+const ZAHLEN_K2: { num: number; wort: string }[] = [
+  { num: 1, wort: "eins" }, { num: 2, wort: "zwei" }, { num: 3, wort: "drei" },
+  { num: 4, wort: "vier" }, { num: 5, wort: "fünf" }, { num: 6, wort: "sechs" },
+  { num: 7, wort: "sieben" }, { num: 8, wort: "acht" }, { num: 9, wort: "neun" },
+  { num: 10, wort: "zehn" }, { num: 11, wort: "elf" }, { num: 12, wort: "zwölf" },
+  { num: 13, wort: "dreizehn" }, { num: 14, wort: "vierzehn" }, { num: 15, wort: "fünfzehn" },
+  { num: 16, wort: "sechzehn" }, { num: 17, wort: "siebzehn" }, { num: 18, wort: "achtzehn" },
+  { num: 19, wort: "neunzehn" }, { num: 20, wort: "zwanzig" }, { num: 21, wort: "einundzwanzig" },
+  { num: 25, wort: "fünfundzwanzig" }, { num: 30, wort: "dreißig" }, { num: 35, wort: "fünfunddreißig" },
+  { num: 40, wort: "vierzig" }, { num: 45, wort: "fünfundvierzig" }, { num: 50, wort: "fünfzig" },
+  { num: 60, wort: "sechzig" }, { num: 70, wort: "siebzig" }, { num: 80, wort: "achtzig" },
+  { num: 90, wort: "neunzig" }, { num: 100, wort: "hundert" },
+];
+
+// ─── K2 EXPANSION: Farben (Colors) ────────────────────────────────────────────
+const FARBEN_K2: { n: string; a: string; p: string }[] = [
+  { n: "rot",      a: "rot",      p: "rote" },
+  { n: "blau",     a: "blau",     p: "blaue" },
+  { n: "grün",     a: "grün",     p: "grüne" },
+  { n: "gelb",     a: "gelb",     p: "gelbe" },
+  { n: "schwarz",  a: "schwarz",  p: "schwarze" },
+  { n: "weiß",     a: "weiß",     p: "weiße" },
+  { n: "braun",    a: "braun",    p: "braune" },
+  { n: "rosa",     a: "rosa",     p: "rosa" },
+  { n: "orange",   a: "orange",   p: "orange" },
+  { n: "lila",     a: "lila",     p: "lila" },
+  { n: "grau",     a: "grau",     p: "graue" },
+  { n: "pink",     a: "pink",     p: "pinke" },
+];
+
+// ─── K2 EXPANSION: Zeit (Time) ────────────────────────────────────────────────
+const ZEIT_K2: { num: number; name: string; text: string }[] = [
+  { num: 1, name: "Morgen", text: "früh am Morgen" },
+  { num: 2, name: "Vormittag", text: "am Vormittag" },
+  { num: 3, name: "Mittag", text: "zur Mittagszeit" },
+  { num: 4, name: "Nachmittag", text: "am Nachmittag" },
+  { num: 5, name: "Abend", text: "am Abend" },
+  { num: 6, name: "Nacht", text: "in der Nacht" },
+];
+
+// ─── K2 EXPANSION: Berufe (Professions) ───────────────────────────────────────
+const BERUFE_K2: { n: string; a: string; p: string }[] = [
+  { n: "Lehrer",        a: "der", p: "Lehrer" },
+  { n: "Lehrerin",      a: "die", p: "Lehrerinnen" },
+  { n: "Arzt",          a: "der", p: "Ärzte" },
+  { n: "Ärztin",        a: "die", p: "Ärztinnen" },
+  { n: "Polizist",      a: "der", p: "Polizisten" },
+  { n: "Feuerwehrmann", a: "der", p: "Feuerwehrmänner" },
+  { n: "Koch",          a: "der", p: "Köche" },
+  { n: "Köchin",        a: "die", p: "Köchinnen" },
+  { n: "Bauer",         a: "der", p: "Bauern" },
+  { n: "Maler",         a: "der", p: "Maler" },
+  { n: "Tänzer",        a: "der", p: "Tänzer" },
+  { n: "Tänzerin",      a: "die", p: "Tänzerinnen" },
+  { n: "Sänger",        a: "der", p: "Sänger" },
+  { n: "Sängerin",      a: "die", p: "Sängerinnen" },
+  { n: "Fahrer",        a: "der", p: "Fahrer" },
+];
+
+// ─── K2 EXPANSION: Gegensätze (Opposites/Antonyms K2) ────────────────────────
+const GEGENSAETZE_K2: { a: string; b: string }[] = [
+  { a: "groß", b: "klein" },
+  { a: "warm", b: "kalt" },
+  { a: "hell", b: "dunkel" },
+  { a: "schnell", b: "langsam" },
+  { a: "laut", b: "leise" },
+  { a: "alt", b: "jung" },
+  { a: "lang", b: "kurz" },
+  { a: "oben", b: "unten" },
+  { a: "links", b: "rechts" },
+  { a: "vorne", b: "hinten" },
+  { a: "sauber", b: "schmutzig" },
+  { a: "stark", b: "schwach" },
+  { a: "dick", b: "dünn" },
+  { a: "früh", b: "spät" },
+  { a: "früher", b: "später" },
+];
+
 // Konjunktiv I für K7: v=Verb  er=Konjunktiv-I-Form(er/sie/es)
 const KONJ1: { v: string; er: string }[] = [
   { v: "sein",     er: "sei"     },
@@ -274,6 +474,86 @@ function genArtikel(topic: string, subtopic: string): DeutschQuestion {
   const { n, a } = pick(NOMEN);
   return mkMCQ(topic, subtopic, `Welcher Artikel passt? ___ ${n}`, a,
     ["der", "die", "das"].filter((x) => x !== a));
+}
+
+// ─── K1 EXPANSION GENERATORS ──────────────────────────────────────────────────
+
+// K1: Körperteile (Body Parts)
+function genKörperteile(): DeutschQuestion {
+  const { n, a } = pick(KÖRPERTEILE);
+  return mkMCQ("körperteile", "körperteile_k1", `Welcher Artikel passt? ___ ${n}`, a,
+    ["der", "die", "das"].filter((x) => x !== a));
+}
+
+// K1: Haushalt (Household Items)
+function genHaushalt(): DeutschQuestion {
+  const { n, a } = pick(HAUSHALT);
+  return mkMCQ("haus_möbel", "haushalt_k1", `Welcher Artikel passt? ___ ${n}`, a,
+    ["der", "die", "das"].filter((x) => x !== a));
+}
+
+// K1: Tiere (Animals)
+function genTiere(): DeutschQuestion {
+  const { n, a } = pick(TIERE);
+  return mkMCQ("tiere", "tiere_k1", `Welcher Artikel passt? ___ ${n}`, a,
+    ["der", "die", "das"].filter((x) => x !== a));
+}
+
+// K1: Familie (Family)
+function genFamilie(): DeutschQuestion {
+  const { n, a } = pick(FAMILIE);
+  return mkMCQ("familie", "familie_k1", `Welcher Artikel passt? ___ ${n}`, a,
+    ["der", "die", "das"].filter((x) => x !== a));
+}
+
+// K1: Lebensmittel (Food & Drink)
+function genLebensmittel(): DeutschQuestion {
+  const { n, a } = pick(LEBENSMITTEL);
+  return mkMCQ("lebensmittel", "lebensmittel_k1", `Welcher Artikel passt? ___ ${n}`, a,
+    ["der", "die", "das"].filter((x) => x !== a));
+}
+
+// ─── K2 EXPANSION GENERATORS ──────────────────────────────────────────────────
+
+// K2: Zahlen (Numbers)
+function genZahlen(): DeutschQuestion {
+  const item = pick(ZAHLEN_K2.filter((x) => x.num <= 50));
+  return mkMCQ("zahlen", "zahlen_k2",
+    `Welche Zahl ist das? ${item.num}`,
+    item.wort,
+    shuffle(ZAHLEN_K2.filter((x) => x.wort !== item.wort).map((x) => x.wort)).slice(0, 3));
+}
+
+// K2: Farben (Colors)
+function genFarben(): DeutschQuestion {
+  const { n, a } = pick(FARBEN_K2);
+  return mkMCQ("farben", "farben_k2", `Welche Farbe ist das? ___`, n,
+    FARBEN_K2.filter((x) => x.n !== n).map((x) => x.n).slice(0, 3));
+}
+
+// K2: Zeit (Time of day)
+function genZeit(): DeutschQuestion {
+  const { name, text } = pick(ZEIT_K2);
+  return mkMCQ("zeit", "zeit_k2", `Wann ist das? ${text}?`, name,
+    ZEIT_K2.filter((x) => x.name !== name).map((x) => x.name).slice(0, 3));
+}
+
+// K2: Berufe (Professions)
+function genBerufe(): DeutschQuestion {
+  const { n, a } = pick(BERUFE_K2);
+  return mkMCQ("berufe", "berufe_k2", `Welcher Beruf ist das? Ein ___ / Eine ___`, n,
+    BERUFE_K2.filter((x) => x.n !== n).map((x) => x.n).slice(0, 3));
+}
+
+// K2: Gegensätze (Opposites)
+function genGegensaetze(): DeutschQuestion {
+  const pair = pick(GEGENSAETZE_K2);
+  const showA = Math.random() > 0.5;
+  const correct = showA ? pair.b : pair.a;
+  const wrong = showA ? pair.a : pair.b;
+  return mkMCQ("gegensaetze", "gegensaetze_k2",
+    `Gegenteil von '${wrong}':`, correct,
+    GEGENSAETZE_K2.filter((x) => x.a !== wrong && x.b !== wrong).map((x) => x.a).slice(0, 3));
 }
 
 // K1: Silben zählen
@@ -425,10 +705,22 @@ export const GENERATORS: Record<string, () => DeutschQuestion> = {
   silben:              genSilben,
   satzzeichen_k1:      genSatzzeichen,
   fehlende_woerter_k1: genSatzzeichen, // Fallback auf Satzzeichen
+  // K1 EXPANSION (2026-03-17)
+  körperteile_k1:      genKörperteile,
+  haushalt_k1:         genHaushalt,
+  tiere_k1:            genTiere,
+  familie_k1:          genFamilie,
+  lebensmittel_k1:     genLebensmittel,
   // K2
   artikel_k2:          () => genArtikel("wortarten_k2", "artikel_k2"),
   nomen_k2:            genNomenErkennen,
   verben_k2:           genVerbErkennen,
+  // K2 EXPANSION (2026-03-17)
+  zahlen_k2:           genZahlen,
+  farben_k2:           genFarben,
+  zeit_k2:             genZeit,
+  berufe_k2:           genBerufe,
+  gegensaetze_k2:      genGegensaetze,
   // K3
   plural:              genPlural,
   adjektive_gegenteil: genGegenteil,

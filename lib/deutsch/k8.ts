@@ -1492,5 +1492,28 @@ export const K8_KONJUNKTIV: DeutschTheme[] = [
         ],
       },
     ],
-  }
+  },
+
+  {
+    id: "wortschatz_expansion_k8",
+    name: "Philosophie & Ethik",
+    icon: "💭",
+    color: "#B44DFF",
+    subtopics: [{
+      id: "philosophie_ethik_k8",
+      name: "Ethik und Moral",
+      questions: [
+        { type: "mcq", topic: "wortschatz_expansion_k8", subtopic: "philosophie_ethik_k8", question: "Was ist Ethik?", options: ["Religion", "Lehre von richtig und falsch", "Psychologie", "Sport"], correct: 1 },
+        { type: "typing", topic: "wortschatz_expansion_k8", subtopic: "philosophie_ethik_k8", question: "Die ____ ist das Recht eines jeden Menschen.", answer: ["Würde"] },
+        { type: "mcq", topic: "wortschatz_expansion_k8", subtopic: "philosophie_ethik_k8", question: "Was bedeutet Toleranz?", options: ["Schwäche", "Duldung von Unterschiedlichkeit", "Verbot", "Strafe"], correct: 1 },
+        { type: "typing", topic: "wortschatz_expansion_k8", subtopic: "philosophie_ethik_k8", question: "Die ____ ist Verantwortung für sein Verhalten.", answer: ["Accountability", "Verantwortung"] },
+        { type: "mcq", topic: "wortschatz_expansion_k8", subtopic: "philosophie_ethik_k8", question: "Was ist eine Norm?", options: ["Gesetz", "Regel der Gesellschaft", "Strafe", "Belohnung"], correct: 1 },
+        { type: "typing", topic: "wortschatz_expansion_k8", subtopic: "philosophie_ethik_k8", question: "Der ____ ist eine Person, die weise ist.", answer: ["Philosoph"] },
+        { type: "mcq", topic: "wortschatz_expansion_k8", subtopic: "philosophie_ethik_k8", question: "Was ist Gerechtigkeit?", options: ["Rache", "fair Behandlung", "Strafe", "Gesetz"], correct: 1 },
+        { type: "typing", topic: "wortschatz_expansion_k8", subtopic: "philosophie_ethik_k8", question: "Die ____ ist das Vertrauen auf jemanden.", answer: ["Loyalität"] },
+        { type: "mcq", topic: "wortschatz_expansion_k8", subtopic: "philosophie_ethik_k8", question: "Was ist Integrität?", options: ["Stärke", "Ehrlichkeit", "Mut", "Glaube"], correct: 1 },
+        { type: "typing", topic: "wortschatz_expansion_k8", subtopic: "philosophie_ethik_k8", question: "Das ____ ist die Verpflichtung, anderen zu helfen.", answer: ["Mitgefühl"] },
+      ],
+    }],
+  },
 ];
