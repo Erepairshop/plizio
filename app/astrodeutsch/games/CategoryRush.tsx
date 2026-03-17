@@ -156,7 +156,8 @@ const THEMES: Theme[] = [
   },
 ];
 
-const TIMER_SECONDS = 4;
+// K1: ~1s TTS reads word + ~3s think which category + ~1s tap = ~5s
+const TIMER_SECONDS = 6;
 const TOTAL_ITEMS = 15;
 
 function shuffle<T>(arr: T[]): T[] {

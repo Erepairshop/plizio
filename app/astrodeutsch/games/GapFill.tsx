@@ -95,7 +95,8 @@ const QUESTION_POOL: GapQuestion[] = [
   { before: "Wir lesen ein",    after: ".",               correct: "Buch",    options: ["Buch", "schnell", "spielen"] },
 ];
 
-const TIMER_SECONDS = 6;
+// K1: ~2s TTS reads sentence + ~4s read 3 options + ~2s decide + ~1s tap = ~9s
+const TIMER_SECONDS = 10;
 const ROUNDS = 10;
 
 function shuffle<T>(arr: T[]): T[] {

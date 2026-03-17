@@ -83,7 +83,8 @@ const SENTENCE_POOL: Sentence[] = [
   { words: ["Papa", "fährt", "Auto"], punct: "." },
 ];
 
-const TIMER_SECONDS = 12;
+// K1: ~3s TTS reads sentence + ~10s tap 4-6 words in order + ~2s think = ~15s
+const TIMER_SECONDS = 18;
 const ROUNDS = 8;
 
 function shuffle<T>(arr: T[]): T[] {

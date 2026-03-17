@@ -79,7 +79,8 @@ const WORD_POOL: WordEntry[] = [
   { word: "NASE",   emoji: "👃" },
 ];
 
-const TIMER_SECONDS = 10;
+// K1: ~2s TTS + ~8s to tap 4-6 scrambled letters + ~2s think = ~12s
+const TIMER_SECONDS = 14;
 const ROUNDS = 8;
 
 // Fisher-Yates shuffle

@@ -125,7 +125,9 @@ function buildStatements(): Statement[] {
 
 type FBState = "correct" | "wrong" | "missed" | null;
 
-const TIMER_SECONDS = 5;
+// K1 (6-7 yrs): ~2s TTS read-aloud + ~4s think + ~1s tap = ~7s
+// Higher grades can pass shorter timers via grade prop later
+const TIMER_SECONDS = 8;
 
 // ─── Main Component ───────────────────────────────────────────────────────────
 const WordBlitz = memo(function WordBlitz({
