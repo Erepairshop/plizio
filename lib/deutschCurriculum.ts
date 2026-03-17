@@ -18,7 +18,7 @@ import { K1 } from "./deutsch/k1";
 import { K2 } from "./deutsch/k2";
 import { K3 } from "./deutsch/k3";
 import { K4 } from "./deutsch/k4";
-import { K5, K5_EXTRA } from "./deutsch/k5";
+import { K5, K5_EXTRA, K5_EXPANSION } from "./deutsch/k5";
 import { K6 } from "./deutsch/k6";
 import { K7 } from "./deutsch/k7";
 import { K8, K8_KONJUNKTIV } from "./deutsch/k8";
@@ -28,7 +28,7 @@ import type { DeutschTheme, DeutschQuestion } from "./deutsch/types";
 
 export const DEUTSCH_CURRICULUM: Record<number, DeutschTheme[]> = {
   1: K1, 2: K2, 3: K3, 4: K4,
-  5: [...K5, ...K5_EXTRA], 6: K6, 7: K7,
+  5: [...K5, ...K5_EXTRA, ...K5_EXPANSION], 6: K6, 7: K7,
   8: [...K8, ...K8_KONJUNKTIV],
 };
 
@@ -283,6 +283,70 @@ export const SUBTOPIC_HINTS: Record<string, string> = {
 
   // ── Sonstiges ────────────────────────────────────────────────────────────
   "aussagen_umf":            "Aussagen umformulieren: Inhalt erhalten, Wörter wechseln",
+
+  // ── Wortschatz & Alltag (K3) ─────────────────────────────────────────────
+  "tagesablauf_k3":          "Tagesablauf: morgens → mittags → abends · Aktivitäten im Alltag",
+  "berufe_k3":               "Berufe: Arzt, Lehrer, Koch, Bäcker, Ingenieur · Was macht man bei dem Beruf?",
+  "essen_k3":                "Essen & Trinken: Obst, Gemüse, Mahlzeiten · gesund vs. ungesund",
+  "zuhause_k3":              "Mein Zuhause: Zimmer (Küche, Bad, Wohnzimmer) · Möbel · Haushalt",
+  "natur_k3":                "Natur & Tiere: Jahreszeiten · Wetter · Tiere · Pflanzen · Landschaft",
+  "schule_k3":               "Schule & Freizeit: Schulfächer · Utensilien · Hobbys · Freizeitaktivitäten",
+  "weg_k3":                  "Wegbeschreibung: links/rechts/geradeaus · Kreuzung · Ampel · Verkehrsmittel",
+  "synonyme_k3":             "Synonyme & Redewendungen: gleiche Bedeutung · Redensarten · Sprichwörter",
+
+  // ── K4 Rechtschreibung ──────────────────────────────────────────────────────
+  "dehnungs_h_k4":           "Dehnungs-h: nach langem Vokal → ah, eh, ih, oh, uh, ie · Bahn, Stuhl, Mehl, Reh",
+  "doppelkonsonanten_k4":    "Doppelkonsonanten: nach kurzem Vokal → mm, nn, ll, ss, tt · Mutter, Ball, Kanne",
+  "ss_sz_k4":                "s/ss/ß: nach kurzem Vokal → ss (Fluss) · nach langem Vokal/Diphthong → ß (Straße, groß)",
+  "gross_klein_k4":          "Nominalisierung: Verben/Adjektive als Nomen → das Lesen, etwas Schönes, nichts Neues",
+  "silbentrennung_k4":       "Silbentrennung nach Sprechsilben: Mut-ter, Fen-ster, ar-bei-ten",
+
+  // ── K4 Wortarten ───────────────────────────────────────────────────────────
+  "steigerung_k4":           "Steigerung: Positiv (schön) → Komparativ (schöner) → Superlativ (am schönsten)",
+  "zusammengesetzte_nomen_k4":"Zusammengesetzte Nomen: Schulbuch = Schule+Buch · Genus = letztes Wort · ggf. Fugen-s",
+  "konjunktionen_k4":        "Konjunktionen: und/oder/aber (Hauptsatz) · weil/obwohl/wenn/dass (Nebensatz → Verb am Ende)",
+  "praepositionen_k4":       "Wechselpräpositionen: Wo? → Dativ (auf dem) · Wohin? → Akkusativ (auf den)",
+
+  // ── K4 Wörtliche Rede ──────────────────────────────────────────────────────
+  "woertliche_rede_k4":      "Wörtliche Rede: Anführungszeichen unten öffnen, oben schließen · Begleitsatz vorne: Doppelpunkt · hinten: Komma",
+  "redezeichen_k4":          "Satzzeichen: Punkt fällt weg (Begleitsatz folgt) · Fragezeichen/Ausrufezeichen bleiben · Komma nach Schlusszeichen",
+
+  // ── K4 Textarbeit ──────────────────────────────────────────────────────────
+  "brief_k4":                "Brief: Datum/Ort (oben rechts) · Anrede: Liebe/r... · Text · Gruß · Unterschrift · Du großschreiben",
+  "nacherzaehlung_k4":       "Nacherzählung: Einleitung (Wer/Was/Wo/Wann) · Hauptteil (Handlung) · Schluss (Ende) · eigene Meinung NICHT",
+  "bericht_k4":              "Bericht: sachlich · W-Fragen: Wer? Was? Wann? Wo? Wie? · Präteritum · keine eigenen Gefühle",
+
+  // ── K4 Nebensätze ──────────────────────────────────────────────────────────
+  "wenn_als_k4":             "wenn vs. als: wenn = wiederholend/Bedingung · als = einmalig Vergangenheit · Verb am Ende",
+  "obwohl_k4":               "obwohl = Konzessivsatz (Gegensatz/Einschränkung) · obwohl er müde ist, lernt er · Verb am Ende",
+  "damit_um_zu_k4":          "Finalsatz (Zweck): gleiche Person → um...zu · verschiedene Person → damit · Verb am Ende",
+
+  // ── K4 Wortschatz ──────────────────────────────────────────────────────────
+  "wortfamilien_k4":         "Wortfamilien: gleicher Stamm → fahren, Fahrer, Fahrt, Fahrrad · Stamm erkennen",
+  "wortfelder_k4":           "Wortfelder: sagen → rufen, flüstern, schreien · Synonyme = gleiche Bedeutung",
+  "redewendungen_k4":        "Redewendungen: übertragene Bedeutung · Tomaten auf den Augen = nichts bemerken",
+  "koerper_k4":              "Körper: Herz, Lunge, Gehirn, Niere · Skelett, Gelenk, Muskel · Gesundheit: Fieber, Impfung",
+  "natur_k4":                "Natur: Ökosystem, Photosynthese, Wasserkreislauf · Umweltschutz: Recycling, erneuerbare Energie",
+  "schule_k4":               "Schule & Beruf: Klassenarbeit, Zeugnis, Abitur, Stundenplan · Grundschule → Gymnasium/Realschule",
+
+  // ── K5 EXPANSION Nebensätze ────────────────────────────────────────────────
+  "temporalsaetze_k5":       "Temporalsätze: als (einmalig Vergangenheit), wenn (wiederholt/Bedingung), nachdem (Perfekt/Plusquamperfekt davor)",
+  "konditionalsaetze_k5":    "Konditionalsätze: wenn...dann, falls — Verb steht am Ende des Nebensatzes",
+  "kausalsaetze_k5":         "weil = weil (Antwort auf Warum?), da = da/weil (Voraussetzung bekannt, oft am Satzanfang)",
+  "konzessivsaetze_k5":      "obwohl/obgleich → Nebensatz (Verb am Ende); trotzdem → Hauptsatz (Verb auf Pos. 2)",
+  "finalsaetze_k5":          "damit = damit (verschiedene Subjekte); um...zu (gleiches Subjekt)",
+
+  // ── K5 EXPANSION Wortbildung ───────────────────────────────────────────────
+  "vorsilben_k5":            "Vorsilben: ver- (Veränderung), be- (transitiv), ent- (Entfernung), zer- (Zerstörung), er- (Ergebnis), miss- (Negation)",
+  "nachsilben_k5":           "-ung → f. Nomen; -heit/-keit → f. Nomen; -lich/-ig → Adjektiv",
+  "zusammensetzungen_k5":    "Komposita: Genus des letzten Wortes (Grundwort) bestimmt das Genus des ganzen Wortes",
+  "wortfamilien_k5":         "Wortfamilien: alle Wörter mit demselben Stamm (fahren → Fahrer, Fahrt, erfahren, Zufahrt)",
+
+  // ── K5 EXPANSION Wortschatz ────────────────────────────────────────────────
+  "medien_k5":               "Internet-Wortschatz: Suchmaschine, Passwort, hochladen, Browser, WLAN, Account",
+  "umwelt_k5":               "Umwelt: Klimawandel, Recycling, Nachhaltigkeit, erneuerbare Energie, CO2",
+  "gefuehle_k5":             "Gefühle: wütend, enttäuscht, begeistert, empört, erleichtert, verlegen, verzweifelt",
+  "redewendungen_k5":        "Redewendungen: ins Fettnäpfchen treten, Daumen drücken, zwei Fliegen mit einer Klappe",
 };
 
 export function getSubtopicHint(subtopic?: string): string | null {
