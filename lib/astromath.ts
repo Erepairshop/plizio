@@ -27,7 +27,8 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "letter-explorer" | "syllable-explorer" | "article-explorer" | "rhyme-explorer"
   | "sentence-explorer" | "picture-word-explorer" | "compound-word-explorer"
   | "reading-explorer" | "review-explorer"
-  | "word-blitz" | "spell-race" | "sentence-scramble" | "gap-fill" | "category-rush";
+  | "word-blitz" | "spell-race" | "sentence-scramble" | "gap-fill" | "category-rush"
+  | "deutsch-visual";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }

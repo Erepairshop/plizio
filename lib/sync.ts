@@ -93,30 +93,30 @@ function collectExtraData(): Record<string, unknown> {
 function restoreExtraData(extra: Record<string, unknown>): void {
   if (!extra) return;
 
-  // Avatar gender
+  // Avatar gender — always trust server
   if (extra.avatar_gender) {
     localStorage.setItem("plizio_avatar_gender", extra.avatar_gender as string);
   }
 
-  // Faces: merge owned (union), active only if not set locally
+  // Faces: merge owned (union), restore active from server (trust server on fresh device)
   mergeOwnedArray("plizio_owned_faces", extra.owned_faces as string[] | undefined);
-  restoreActiveIfEmpty("plizio_active_face", extra.active_face as string | undefined);
+  restoreActive("plizio_active_face", extra.active_face as string | undefined);
 
   // Hats & trails
   mergeOwnedArray("plizio_owned_hats", extra.owned_hats as string[] | undefined);
-  restoreActiveIfEmpty("plizio_active_hat", extra.active_hat as string | undefined);
+  restoreActive("plizio_active_hat", extra.active_hat as string | undefined);
   mergeOwnedArray("plizio_owned_trails", extra.owned_trails as string[] | undefined);
-  restoreActiveIfEmpty("plizio_active_trail", extra.active_trail as string | undefined);
+  restoreActive("plizio_active_trail", extra.active_trail as string | undefined);
 
   // Clothing (6 slots)
   for (const slot of CLOTHING_SLOTS) {
     mergeOwnedArray(`plizio_owned_${slot}`, extra[`owned_${slot}`] as string[] | undefined);
-    restoreActiveIfEmpty(`plizio_active_${slot}`, extra[`active_${slot}`] as string | undefined);
+    restoreActive(`plizio_active_${slot}`, extra[`active_${slot}`] as string | undefined);
   }
 
   // City Drive cars
   mergeOwnedArray("citydrive_owned_cars", extra.citydrive_owned_cars as string[] | undefined);
-  restoreActiveIfEmpty("citydrive_active_car", extra.citydrive_active_car as string | undefined);
+  restoreActive("citydrive_active_car", extra.citydrive_active_car as string | undefined);
 
   // Room data: merge owned arrays
   mergeOwnedArray("plizio_rooms_owned", extra.plizio_rooms_owned as string[] | undefined);
@@ -168,8 +168,10 @@ function mergeOwnedArray(key: string, remoteArr: string[] | undefined): void {
   localStorage.setItem(key, JSON.stringify(merged));
 }
 
-function restoreActiveIfEmpty(key: string, remoteVal: string | undefined): void {
-  if (remoteVal && localStorage.getItem(key) === null) {
+// Restore active selection — always trust server value if present
+// (The upload runs AFTER download, so local changes will be pushed back)
+function restoreActive(key: string, remoteVal: string | undefined): void {
+  if (remoteVal) {
     localStorage.setItem(key, remoteVal);
   }
 }
@@ -233,7 +235,8 @@ export async function uploadToSupabase(userId: string): Promise<void> {
   const streakData = localStorage.getItem("plizio_streak");
   const streak = streakData ? JSON.parse(streakData) : { count: 0, lastDate: null };
 
-  const userData: UserData = {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const userData: Record<string, any> = {
     user_id: userId,
     special_cards: getSpecialCardCount(),
     total_games: stats.totalGames,
@@ -248,14 +251,29 @@ export async function uploadToSupabase(userId: string): Promise<void> {
     referred_by: localStorage.getItem("plizio_referred") === "true" ? "ref" : null,
     share_count_today: parseInt(localStorage.getItem("plizio_share_today_count") || "0"),
     share_date: localStorage.getItem("plizio_share_today_date") || null,
-    extra_data: collectExtraData(),
   };
+
+  // Try including extra_data in the main upsert first
+  try {
+    const extra = collectExtraData();
+    userData.extra_data = extra;
+  } catch (e) {
+    console.error("collectExtraData failed:", e);
+  }
 
   const { error } = await supabase
     .from("user_data")
     .upsert(userData, { onConflict: "user_id" });
 
-  if (error) throw error;
+  // If main upsert fails WITH extra_data, retry WITHOUT it (column might not exist)
+  if (error) {
+    console.error("Upsert with extra_data failed, retrying without:", error.message);
+    delete userData.extra_data;
+    const { error: retryError } = await supabase
+      .from("user_data")
+      .upsert(userData, { onConflict: "user_id" });
+    if (retryError) throw retryError;
+  }
 
   // Upload cards – upsert current, then delete any server cards no longer local
   const cards = getCards();
@@ -389,8 +407,16 @@ export async function downloadFromSupabase(userId: string): Promise<void> {
   localStorage.setItem("plizio_skyclimb_highest", skyHighest.toString());
 
   // ─── Extra data (avatar, clothing, room, game progress) ───
-  if (data.extra_data && typeof data.extra_data === "object") {
-    restoreExtraData(data.extra_data as Record<string, unknown>);
+  try {
+    const extra = data.extra_data;
+    if (extra && typeof extra === "object" && Object.keys(extra).length > 0) {
+      console.log("[sync] Restoring extra_data, keys:", Object.keys(extra).length);
+      restoreExtraData(extra as Record<string, unknown>);
+    } else {
+      console.log("[sync] No extra_data on server (empty or missing)");
+    }
+  } catch (e) {
+    console.error("[sync] restoreExtraData failed:", e);
   }
 
   // Download cards
@@ -431,8 +457,11 @@ export async function syncToSupabase(userId: string): Promise<void> {
   if (syncPromise) return syncPromise;
   syncPromise = (async () => {
     try {
+      console.log("[sync] Starting bidirectional sync for", userId);
       await downloadFromSupabase(userId);
+      console.log("[sync] Download complete, starting upload");
       await uploadToSupabase(userId);
+      console.log("[sync] Upload complete");
       // Sync username to usernames table
       const { syncUsernameToSupabase } = await import("./username");
       await syncUsernameToSupabase(userId);

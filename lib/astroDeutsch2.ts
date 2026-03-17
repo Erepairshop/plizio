@@ -39,7 +39,7 @@ export const K2_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🪐", label: { de: "Nomen-Quiz",       en: "Noun Quiz",        hu: "Főnév kvíz",        ro: "Quiz substantive"  } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",  en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
+      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
     ],
     svgX: 160, svgY: 530,
   },
@@ -75,7 +75,7 @@ export const K2_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🪐", label: { de: "Satz-Quiz",        en: "Sentence Quiz",    hu: "Mondat kvíz",       ro: "Quiz propoziții"   } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",  en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
+      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
     ],
     svgX: 90, svgY: 270,
   },
@@ -126,7 +126,7 @@ export const K2_ISLANDS: IslandDef[] = [
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🪐", label: { de: "Wortfeld-Quiz",    en: "Word Field Quiz",  hu: "Szócsoport kvíz",   ro: "Quiz lexical"      } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",  en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
+      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
     ],
     svgX: 80, svgY: -20,
   },

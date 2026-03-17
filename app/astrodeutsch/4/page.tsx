@@ -21,6 +21,7 @@ import BlackHole from "@/app/astromath/games/BlackHole";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
+import DeutschVisualGame from "@/app/astrodeutsch/games/DeutschVisualGame";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import type { MathQuestion } from "@/lib/mathCurriculum";
@@ -83,7 +84,7 @@ const K4_LABEL: Record<string, string> = {
 
 type Screen =
   | "island-map" | "island-intro" | "mission-select"
-  | "orbit-quiz" | "star-match" | "black-hole" | "speed-round"
+  | "orbit-quiz" | "star-match" | "black-hole" | "speed-round" | "deutsch-visual"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
@@ -419,9 +420,11 @@ export default function AstroDeutschK4Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const qCount = mission.gameType === "star-match" ? 15 : 10;
-    const qs = generateIslandQuestionsK4(activeIsland, lang as Lang, qCount);
-    setQuestions(qs);
+    if (mission.gameType !== "deutsch-visual") {
+      const qCount = mission.gameType === "star-match" ? 15 : 10;
+      const qs = generateIslandQuestionsK4(activeIsland, lang as Lang, qCount);
+      setQuestions(qs);
+    }
     setScreen(mission.gameType as Screen);
   }, [activeIsland, lang]);
 
@@ -701,11 +704,14 @@ export default function AstroDeutschK4Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "deutsch-visual" && (
+          <DeutschVisualGame klasse={4} color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
