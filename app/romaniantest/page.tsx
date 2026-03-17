@@ -7,6 +7,7 @@ import {
   calculateRomanianGrade,
   ROMANIAN_SUBTOPIC_HINTS,
 } from "@/lib/romanianCurriculum";
+import { getRandomRomanianPassage } from "@/lib/romanianLesetest";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
 
 const RO_CONFIG: LanguageTestEngineConfig = {
@@ -32,6 +33,8 @@ const RO_CONFIG: LanguageTestEngineConfig = {
   curriculum: ROMANIAN_CURRICULUM,
   getQuestions: getRomanianQuestions,
   subtopicHints: ROMANIAN_SUBTOPIC_HINTS,
+
+  getReadingPassage: getRandomRomanianPassage,
 
   labels: {
     selectCountry: "Alege țara",

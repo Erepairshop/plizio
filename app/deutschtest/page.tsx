@@ -2117,11 +2117,12 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
               >
                 <motion.button
                   onClick={handleAbgeben}
-                  className="px-10 py-3 rounded-lg font-black text-sm bg-slate-800 text-white shadow-xl hover:bg-slate-700 active:scale-95 transition-all"
-                  whileHover={{ scale: 1.04 }}
-                  whileTap={{ scale: 0.96 }}
+                  disabled={answeredCount < totalQ}
+                  className={`px-10 py-3 rounded-lg font-black text-sm shadow-xl active:scale-95 transition-all ${answeredCount < totalQ ? "bg-slate-600 text-white/40 cursor-not-allowed" : "bg-slate-800 text-white hover:bg-slate-700"}`}
+                  whileHover={answeredCount >= totalQ ? { scale: 1.04 } : {}}
+                  whileTap={answeredCount >= totalQ ? { scale: 0.96 } : {}}
                 >
-                  {labels.submit}
+                  {answeredCount < totalQ ? `${labels.submit.replace(" ✓", "")} (${answeredCount}/${totalQ})` : labels.submit}
                 </motion.button>
               </motion.div>
             )}
