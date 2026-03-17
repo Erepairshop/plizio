@@ -655,7 +655,7 @@ export default function Home() {
 
     const { data: { subscription } } = onAuthChange((user) => {
       setIsLoggedIn(!!user);
-      if (user) syncToSupabase(user.id).catch(() => {});
+      if (user) syncToSupabase(user.id).catch((err) => console.error("Sync error:", err));
     });
 
     // Refresh card + star badge whenever cards change (earn / exchange)

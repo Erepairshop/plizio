@@ -56,11 +56,6 @@ export async function uploadToSupabase(userId: string): Promise<void> {
 
   if (error) throw error;
 
-  // Clear dirty flag – server now has the correct balance
-  if (typeof window !== "undefined") {
-    localStorage.removeItem("plizio_stars_dirty");
-  }
-
   // Upload cards – upsert current, then delete any server cards no longer local
   const cards = getCards();
   const localIds = new Set(cards.map((c: GameCard) => c.id));
@@ -81,7 +76,10 @@ export async function uploadToSupabase(userId: string): Promise<void> {
       .from("cards")
       .upsert(cardRows, { onConflict: "id" });
 
-    if (cardError) console.error("Card sync error:", cardError);
+    if (cardError) {
+      console.error("Card sync error:", cardError);
+      throw cardError;
+    }
   }
 
   // Delete server cards that were redeemed (tracked in plizio_redeemed_ids)
@@ -103,14 +101,19 @@ export async function uploadToSupabase(userId: string): Promise<void> {
         .filter((id: string) => !localIds.has(id));
 
       if (toDelete.length > 0) {
-        await supabase.from("cards").delete().in("id", toDelete);
+        const { error: delError } = await supabase.from("cards").delete().in("id", toDelete);
+        if (delError) {
+          console.error("Card delete error:", delError);
+          throw delError;
+        }
       }
     }
   }
 
-  // Clear redeemed IDs tracker – server is now in sync
+  // Everything uploaded successfully — clear tracking flags
   if (typeof window !== "undefined") {
     localStorage.removeItem("plizio_redeemed_ids");
+    localStorage.removeItem("plizio_stars_dirty");
   }
 }
 
@@ -122,7 +125,12 @@ export async function downloadFromSupabase(userId: string): Promise<void> {
     .eq("user_id", userId)
     .single();
 
-  if (error || !data) return;
+  // PGRST116 = no rows found (first sync, no server data yet) — that's OK
+  if (error && error.code !== "PGRST116") {
+    console.error("Download sync error:", error);
+    throw error;
+  }
+  if (!data) return; // no server data yet — first time user
 
   // Merge: take higher values
   const currentStats = getStats();
@@ -220,6 +228,9 @@ export async function syncToSupabase(userId: string): Promise<void> {
       // Sync username to usernames table
       const { syncUsernameToSupabase } = await import("./username");
       await syncUsernameToSupabase(userId);
+    } catch (err) {
+      console.error("Sync failed:", err);
+      throw err;
     } finally {
       syncPromise = null;
     }
