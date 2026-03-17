@@ -227,7 +227,7 @@ export const K1_ISLANDS: IslandDef[] = [
     icon: "🔤", color: "#FF2D78", sortRange: [1, 10],
     topicKeys: ["buchstaben/vokale", "buchstaben/gross_klein", "buchstaben/alphabet"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Buchstaben-Quiz",   en: "Letter Quiz",      hu: "Betű kvíz",        ro: "Quiz litere"       } },
+      { id: "m1", category: "explore",   gameType: "letter-explorer",  icon: "🪐", label: { de: "Buchstaben entdecken", en: "Letter Explorer",  hu: "Betű felfedező",   ro: "Explorare litere"  } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
@@ -239,7 +239,7 @@ export const K1_ISLANDS: IslandDef[] = [
     icon: "✂️", color: "#00D4FF", sortRange: [1, 10],
     topicKeys: ["buchstaben/silben", "buchstaben/zwielaute", "buchstaben/sp_st_anlaut"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Silben-Quiz",       en: "Syllable Quiz",    hu: "Szótag kvíz",       ro: "Quiz silabe"       } },
+      { id: "m1", category: "explore",   gameType: "syllable-explorer", icon: "🪐", label: { de: "Silben entdecken",   en: "Syllable Explorer", hu: "Szótag felfedező",  ro: "Explorare silabe"  } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
@@ -251,7 +251,7 @@ export const K1_ISLANDS: IslandDef[] = [
     icon: "📝", color: "#00FF88", sortRange: [1, 10],
     topicKeys: ["woerter/artikel_k1", "woerter/fehlende_buchstaben", "woerter/komposita_k1"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Wörter-Quiz",       en: "Word Quiz",        hu: "Szó kvíz",          ro: "Quiz cuvinte"      } },
+      { id: "m1", category: "explore",   gameType: "article-explorer",  icon: "🪐", label: { de: "Artikel entdecken",  en: "Article Explorer", hu: "Névelő felfedező",  ro: "Explorare articole" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
@@ -263,7 +263,7 @@ export const K1_ISLANDS: IslandDef[] = [
     icon: "🎵", color: "#FFD700", sortRange: [1, 10],
     topicKeys: ["woerter/reime", "woerter/wortschatz_k1", "woerter/verben_k1"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Reim-Quiz",         en: "Rhyme Quiz",       hu: "Rím kvíz",          ro: "Quiz rime"         } },
+      { id: "m1", category: "explore",   gameType: "rhyme-explorer",    icon: "🪐", label: { de: "Reime entdecken",    en: "Rhyme Explorer",   hu: "Rím felfedező",     ro: "Explorare rime"    } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
@@ -275,7 +275,7 @@ export const K1_ISLANDS: IslandDef[] = [
     icon: "💬", color: "#B44DFF", sortRange: [1, 10],
     topicKeys: ["saetze_k1/satzzeichen_k1", "saetze_k1/fehlende_woerter_k1"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Satz-Quiz",         en: "Sentence Quiz",    hu: "Mondat kvíz",       ro: "Quiz propoziții"   } },
+      { id: "m1", category: "explore",   gameType: "sentence-explorer", icon: "🪐", label: { de: "Sätze entdecken",    en: "Sentence Explorer", hu: "Mondat felfedező", ro: "Explorare propoziții" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
@@ -288,7 +288,7 @@ export const K1_ISLANDS: IslandDef[] = [
     // bilder_woerter has no MCQ — use vocabulary topics instead
     topicKeys: ["farben_k1/farben_k1", "zahlen_woerter_k1/zahlen_woerter_k1", "woerter/wortschatz_k1"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Bilder-Quiz",       en: "Picture Quiz",     hu: "Kép kvíz",          ro: "Quiz imagini"      } },
+      { id: "m1", category: "explore",   gameType: "picture-word-explorer", icon: "🪐", label: { de: "Bilder entdecken", en: "Picture Explorer", hu: "Kép felfedező",    ro: "Explorare imagini" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
@@ -300,7 +300,7 @@ export const K1_ISLANDS: IslandDef[] = [
     icon: "📦", color: "#FF9500", sortRange: [1, 10],
     topicKeys: ["woerter/artikel_k1", "buchstaben/gross_klein", "woerter/komposita_k1"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Artikel-Quiz",      en: "Article Quiz",     hu: "Névelő kvíz",       ro: "Quiz articole"     } },
+      { id: "m1", category: "explore",   gameType: "compound-word-explorer", icon: "🪐", label: { de: "Komposita entdecken", en: "Compound Explorer", hu: "Összetett szó felfedező", ro: "Explorare compuse" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
@@ -312,7 +312,7 @@ export const K1_ISLANDS: IslandDef[] = [
     icon: "📖", color: "#E879F9", sortRange: [1, 10],
     topicKeys: ["woerter/fehlende_buchstaben", "woerter/wortschatz_k1", "saetze_k1/fehlende_woerter_k1"],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Lese-Quiz",         en: "Reading Quiz",     hu: "Olvasás kvíz",      ro: "Quiz lectură"      } },
+      { id: "m1", category: "explore",   gameType: "reading-explorer",  icon: "🪐", label: { de: "Lesen entdecken",    en: "Reading Explorer", hu: "Olvasás felfedező", ro: "Explorare lectură" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
@@ -327,7 +327,7 @@ export const K1_ISLANDS: IslandDef[] = [
       "woerter/reime", "saetze_k1/satzzeichen_k1", "woerter/wortschatz_k1",
     ],
     missions: [
-      { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Final-Quiz",        en: "Final Quiz",       hu: "Záró kvíz",         ro: "Quiz final"        } },
+      { id: "m1", category: "explore",   gameType: "review-explorer",   icon: "🪐", label: { de: "Große Entdeckung",   en: "Big Review",       hu: "Nagy áttekintés",   ro: "Recapitulare mare" } },
       { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
       { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
