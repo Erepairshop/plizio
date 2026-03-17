@@ -32,6 +32,11 @@ import PictureWordExplorer from "@/app/astrodeutsch/games/PictureWordExplorer";
 import CompoundWordExplorer from "@/app/astrodeutsch/games/CompoundWordExplorer";
 import ReadingExplorer from "@/app/astrodeutsch/games/ReadingExplorer";
 import ReviewExplorer from "@/app/astrodeutsch/games/ReviewExplorer";
+import WordBlitz from "@/app/astrodeutsch/games/WordBlitz";
+import SpellRace from "@/app/astrodeutsch/games/SpellRace";
+import SentenceScramble from "@/app/astrodeutsch/games/SentenceScramble";
+import GapFill from "@/app/astrodeutsch/games/GapFill";
+import CategoryRush from "@/app/astrodeutsch/games/CategoryRush";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import type { MathQuestion } from "@/lib/mathCurriculum";
@@ -98,6 +103,7 @@ type Screen =
   | "letter-explorer" | "syllable-explorer" | "article-explorer" | "rhyme-explorer"
   | "sentence-explorer" | "picture-word-explorer" | "compound-word-explorer"
   | "reading-explorer" | "review-explorer"
+  | "word-blitz" | "spell-race" | "sentence-scramble" | "gap-fill" | "category-rush"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
@@ -436,13 +442,22 @@ export default function AstroDeutschK1Page() {
     setScreen("island-transition");
   }, []);
 
+  const noQuestionsTypes: string[] = [
+    "letter-explorer", "syllable-explorer", "article-explorer", "rhyme-explorer",
+    "sentence-explorer", "picture-word-explorer", "compound-word-explorer",
+    "reading-explorer", "review-explorer",
+    "word-blitz", "spell-race", "sentence-scramble", "gap-fill", "category-rush",
+  ];
+
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const qCount = mission.gameType === "star-match" ? 15 : 10;
-    const qs = generateIslandQuestionsK1(activeIsland, lang as Lang, qCount);
-    setQuestions(qs);
+    if (!noQuestionsTypes.includes(mission.gameType)) {
+      const qCount = mission.gameType === "star-match" ? 15 : 10;
+      const qs = generateIslandQuestionsK1(activeIsland, lang as Lang, qCount);
+      setQuestions(qs);
+    }
     setScreen(mission.gameType as Screen);
   }, [activeIsland, lang]);
 
@@ -749,6 +764,21 @@ export default function AstroDeutschK1Page() {
         {screen === "review-explorer" && (
           <ReviewExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "word-blitz" && (
+          <WordBlitz color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "spell-race" && (
+          <SpellRace color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "sentence-scramble" && (
+          <SentenceScramble color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "gap-fill" && (
+          <GapFill color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "category-rush" && (
+          <CategoryRush color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
@@ -758,8 +788,11 @@ export default function AstroDeutschK1Page() {
     "sentence-explorer", "picture-word-explorer", "compound-word-explorer",
     "reading-explorer", "review-explorer",
   ];
+  const CHALLENGE_SCREENS: Screen[] = [
+    "word-blitz", "spell-race", "sentence-scramble", "gap-fill", "category-rush",
+  ];
 
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round", ...EXPLORER_SCREENS].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round", ...EXPLORER_SCREENS, ...CHALLENGE_SCREENS].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
