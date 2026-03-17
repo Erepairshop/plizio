@@ -280,24 +280,36 @@ export async function uploadToSupabase(userId: string): Promise<void> {
   const localIds = new Set(cards.map((c: GameCard) => c.id));
 
   if (cards.length > 0) {
-    const cardRows = cards.map((c: GameCard) => ({
-      id: c.id,
-      user_id: userId,
-      game: c.game,
-      theme: c.theme || null,
-      rarity: c.rarity,
-      score: c.score,
-      total: c.total,
-      date: c.date,
-    }));
+    // Sanitize card data: ensure score/total are valid integers, date is valid string
+    const cardRows = cards
+      .filter((c: GameCard) => {
+        if (!c.id || typeof c.id !== "string") return false;
+        if (!c.game || typeof c.game !== "string") return false;
+        if (typeof c.score !== "number" || !isFinite(c.score)) return false;
+        if (typeof c.total !== "number" || !isFinite(c.total)) return false;
+        return true;
+      })
+      .map((c: GameCard) => ({
+        id: c.id,
+        user_id: userId,
+        game: c.game,
+        theme: c.theme || null,
+        rarity: c.rarity,
+        score: Math.round(c.score),
+        total: Math.round(c.total),
+        date: c.date || new Date().toISOString(),
+      }));
 
-    const { error: cardError } = await supabase
-      .from("cards")
-      .upsert(cardRows, { onConflict: "id" });
+    if (cardRows.length > 0) {
+      const { error: cardError } = await supabase
+        .from("cards")
+        .upsert(cardRows, { onConflict: "id" });
 
-    if (cardError) {
-      console.error("Card sync error:", cardError);
-      throw cardError;
+      if (cardError) {
+        console.error("Card sync error:", cardError);
+        console.error("Card sync — first row sample:", JSON.stringify(cardRows[0]));
+        // Don't throw — let the rest of the sync proceed
+      }
     }
   }
 
