@@ -1,0 +1,303 @@
+import type { DeutschTheme } from "./types";
+
+// ─── K6 Wortschatz (neue Subtopics) + Stilmittel & Literatur ─────────────────
+
+export const K6_WORTSCHATZ_NEU: DeutschTheme[] = [
+  {
+    id: "wortschatz_k6",
+    name: "Wortschatz",
+    icon: "📚",
+    color: "#FF2D78",
+    subtopics: [
+      // ────────────────────────────────────────────────────────────────────────
+      // 1. Redewendungen & Sprichwörter
+      // ────────────────────────────────────────────────────────────────────────
+      {
+        id: "redewendungen_k6",
+        name: "Redewendungen & Sprichwörter",
+        questions: [
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "Was bedeutet 'etwas unter die Lupe nehmen'?", options: ["etwas vergrößern", "etwas genau untersuchen", "etwas wegwerfen", "etwas kaufen"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "Was bedeutet 'Tomaten auf den Augen haben'? (kurz)", answer: ["nicht sehen", "etwas nicht sehen", "nichts sehen"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "Was bedeutet 'aus der Reihe tanzen'?", options: ["gut tanzen können", "anders sein als die anderen", "in einer Reihe stehen", "Tanzunterricht nehmen"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "'Den Nagel auf den ___ treffen' — Ergänze das fehlende Wort.", answer: ["Kopf"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "Was bedeutet 'jemandem auf den Zahn fühlen'?", options: ["zum Zahnarzt gehen", "jemanden genau befragen", "Zahnschmerzen haben", "jemanden anlügen"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "Ergänze: 'Wer im Glashaus sitzt, soll nicht mit ___ werfen.'", answer: ["Steinen"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "'Die Katze im Sack kaufen' bedeutet:", options: ["eine Katze adoptieren", "etwas kaufen, ohne es zu prüfen", "eine Katze verschenken", "sehr günstig einkaufen"], correct: 1 },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "Was bedeutet 'auf Wolke sieben schweben'?", options: ["Angst haben", "sehr glücklich sein", "fliegen können", "verwirrt sein"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "Was bedeutet 'den Kopf in den Sand stecken'?", answer: ["Probleme ignorieren", "ein Problem ignorieren", "etwas ignorieren"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "'Jemandem einen Bären aufbinden' bedeutet:", options: ["jemandem helfen", "jemanden anlügen", "jemanden umarmen", "jemanden loben"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "Ergänze das Sprichwort: 'Übung macht den ___.'", answer: ["Meister"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "Was bedeutet 'ins Fettnäpfchen treten'?", options: ["etwas Peinliches sagen oder tun", "in eine Pfütze treten", "Fett essen", "vorsichtig gehen"], correct: 0 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "Was bedeutet 'jemandem die Daumen drücken'?", answer: ["Glück wünschen", "jemandem Glück wünschen", "viel Glück wünschen"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "'Öl ins Feuer gießen' bedeutet:", options: ["ein Feuer löschen", "einen Streit verschlimmern", "kochen", "etwas reparieren"], correct: 1 },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "Was bedeutet 'auf dem Holzweg sein'?", options: ["im Wald spazieren", "sich irren", "Holz sammeln", "müde sein"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "Ergänze: 'Morgenstund hat ___ im Mund.'", answer: ["Gold"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "'Sich etwas hinter die Ohren schreiben' bedeutet:", options: ["sich etwas gut merken", "schlecht hören", "sich die Ohren waschen", "Ohrringe tragen"], correct: 0 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "Was bedeutet 'kalte Füße bekommen'?", answer: ["Angst bekommen", "unsicher werden", "Angst haben"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "'Krokodilstränen weinen' bedeutet:", options: ["echte Trauer zeigen", "unechte Tränen vergießen", "ein Krokodil sehen", "sehr laut weinen"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "Ergänze das Sprichwort: 'Der Apfel fällt nicht weit vom ___.'", answer: ["Stamm"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "Was bedeutet 'jemanden an der Nase herumführen'?", options: ["jemanden täuschen", "jemanden am Arm nehmen", "jemanden führen", "jemanden riechen"], correct: 0 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "Was bedeutet 'die Flinte ins Korn werfen'?", answer: ["aufgeben", "etwas aufgeben"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "'Zwei Fliegen mit einer Klappe schlagen' bedeutet:", options: ["Fliegen jagen", "zwei Vorteile auf einmal erzielen", "etwas zweimal tun", "einen Fehler machen"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "Ergänze: 'Wer zuletzt lacht, lacht am ___.'", answer: ["besten"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "redewendungen_k6", question: "Was bedeutet 'alle Hände voll zu tun haben'?", options: ["schmutzige Hände haben", "sehr beschäftigt sein", "viel essen", "Handschuhe tragen"], correct: 1 },
+        ],
+      },
+
+      // ────────────────────────────────────────────────────────────────────────
+      // 2. Fachbegriffe Deutsch
+      // ────────────────────────────────────────────────────────────────────────
+      {
+        id: "fachbegriffe_k6",
+        name: "Fachbegriffe Deutsch",
+        questions: [
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Was ist eine Metapher?", options: ["ein Vergleich mit 'wie'", "eine bildhafte Übertragung ohne 'wie'", "eine Wiederholung", "ein Reim"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Wie nennt man den Vergleich mit 'wie'? (z.B. 'schnell wie der Wind')", answer: ["Vergleich"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Was ist Personifikation?", options: ["Dinge oder Tiere erhalten menschliche Eigenschaften", "Eine Übertreibung", "Ein Gegensatz", "Ein Reim"], correct: 0 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Wie nennt man die Wiederholung desselben Anfangsbuchstabens? (z.B. 'Milch macht müde Männer munter')", answer: ["Alliteration"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Das Subjekt antwortet auf die Frage:", options: ["Wen oder was?", "Wer oder was?", "Wem?", "Wessen?"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Wie heißt das Satzglied, das die Handlung beschreibt? (z.B. 'liest' in 'Er liest ein Buch.')", answer: ["Prädikat"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Das Akkusativobjekt fragt man mit:", options: ["Wer?", "Wem?", "Wen oder was?", "Wo?"], correct: 2 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Wie heißt ein Satzglied, das Ort, Zeit oder Art näher beschreibt?", answer: ["Adverbiale", "Adverbialbestimmung", "adverbiale Bestimmung"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Was ist ein Attribut?", options: ["Eine Beifügung, die ein Nomen näher beschreibt", "Ein Verb", "Ein ganzer Satz", "Eine Konjunktion"], correct: 0 },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Eine Erzählung ist:", options: ["ein sachlicher Bericht", "ein fiktiver oder realer Text mit Handlung und Spannungsbogen", "eine Auflistung von Fakten", "ein Gedicht"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Wie nennt man einen sachlichen Text, der über ein Ereignis informiert?", answer: ["Bericht"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Was ist eine Beschreibung?", options: ["Ein Text, der eine Meinung äußert", "Ein Text, der etwas genau und sachlich darstellt", "Ein lustiger Text", "Ein Gedicht"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Wie heißt die Textsorte, in der man Pro- und Contra-Argumente abwägt?", answer: ["Erörterung"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Das Dativobjekt antwortet auf:", options: ["Wen?", "Wem?", "Wer?", "Wie?"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Wie nennt man eine starke Übertreibung als Stilmittel? (z.B. 'todmüde')", answer: ["Hyperbel"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Was ist ein Synonym?", options: ["Ein Wort mit gegenteiliger Bedeutung", "Ein Wort mit gleicher oder ähnlicher Bedeutung", "Ein Fremdwort", "Ein zusammengesetztes Wort"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Wie nennt man ein Wort mit gegenteiliger Bedeutung? (z.B. groß – klein)", answer: ["Antonym", "Gegenwort", "Gegenteil"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Welcher Fachbegriff beschreibt das Hauptwort in einem Satz?", options: ["Verb", "Adjektiv", "Nomen", "Pronomen"], correct: 2 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Wie heißt der Fachbegriff für die wörtliche Rede in einem Text?", answer: ["direkte Rede"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Was ist eine Ellipse?", options: ["Ein vollständiger Satz", "Ein unvollständiger Satz, bei dem Wörter ausgelassen werden", "Eine Übertreibung", "Ein Vergleich"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Wie nennt man einen Text, in dem jemand seine eigene Meinung zu einem Thema schreibt?", answer: ["Kommentar", "Stellungnahme"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Was versteht man unter 'Inhaltsangabe'?", options: ["Eine kurze Zusammenfassung eines Textes", "Eine ausführliche Nacherzählung", "Ein Gedicht", "Ein Dialog"], correct: 0 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Wie nennt man den Höhepunkt der Spannung in einer Erzählung?", answer: ["Klimax", "Höhepunkt"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Was bedeutet 'Epik'?", options: ["Lyrik", "Dramatik", "Erzählende Literatur", "Sachtext"], correct: 2 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "fachbegriffe_k6", question: "Wie nennt man die Person, die eine Geschichte erzählt?", answer: ["Erzähler", "der Erzähler"] },
+        ],
+      },
+
+      // ────────────────────────────────────────────────────────────────────────
+      // 3. Bedeutungswandel & Wortgeschichte
+      // ────────────────────────────────────────────────────────────────────────
+      {
+        id: "bedeutungswandel_k6",
+        name: "Bedeutungswandel & Wortgeschichte",
+        questions: [
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Das Wort 'Handy' ist:", options: ["ein englisches Wort für Mobiltelefon", "eine deutsche Erfindung – im Englischen heißt es 'mobile phone' oder 'cell phone'", "ein französisches Wort", "ein Markenname"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Wie nennt man Wörter, die aus anderen Sprachen übernommen wurden? (z.B. 'Pizza' aus dem Italienischen)", answer: ["Fremdwörter", "Lehnwörter", "Fremdwort"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Aus welcher Sprache stammt das Wort 'Kindergarten'?", options: ["Englisch", "Französisch", "Deutsch — es wurde ins Englische übernommen", "Lateinisch"], correct: 2 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Das englische Wort 'gift' bedeutet 'Geschenk'. Was bedeutet das deutsche Wort 'Gift'?", answer: ["Gift", "Giftstoff", "etwas Giftiges", "eine giftige Substanz"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Was sind 'False Friends' (falsche Freunde)?", options: ["Freunde, die lügen", "Wörter in zwei Sprachen, die ähnlich klingen, aber Verschiedenes bedeuten", "Synonyme", "Antonyme"], correct: 1 },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Das Wort 'toll' bedeutete früher:", options: ["großartig", "verrückt, wahnsinnig", "klein", "langsam"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Aus welcher Sprache stammt das Wort 'Telefon'? (Tele = fern, phon = Stimme)", answer: ["Griechisch", "griechisch", "Altgriechisch"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Was bedeutet das englische Wort 'become'?", options: ["bekommen", "werden", "beschließen", "besuchen"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Das Wort 'schlecht' bedeutete im Mittelalter 'schlicht, einfach'. Was bedeutet es heute?", answer: ["schlecht", "nicht gut", "mangelhaft"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Aus welcher Sprache stammt das Wort 'Computer'?", options: ["Deutsch", "Französisch", "Englisch (lat. computare = berechnen)", "Japanisch"], correct: 2 },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Was ist ein Lehnwort?", options: ["Ein Wort, das sich ein Schüler leiht", "Ein Fremdwort, das an die deutsche Sprache angepasst wurde", "Ein veraltetes Wort", "Ein Dialektwort"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Welches deutsche Wort wurde weltweit übernommen? (z.B. in der Philosophie: 'Angst')", answer: ["Angst", "Wanderlust", "Kindergarten", "Zeitgeist"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "'Fenster' kommt vom lateinischen 'fenestra'. Das ist ein Beispiel für ein:", options: ["Synonym", "Lehnwort", "Fachwort", "Dialektwort"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Das Wort 'Maus' hat heute eine zweite Bedeutung. Welche? (außer dem Tier)", answer: ["Computermaus", "PC-Maus", "eine Computermaus"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Das Wort 'billig' bedeutete früher:", options: ["teuer", "angemessen, gerecht", "hässlich", "schnell"], correct: 1 },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Welches Wort stammt aus dem Französischen?", options: ["Balkon", "Kindergarten", "Autobahn", "Apfel"], correct: 0 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Was bedeutet das englische 'brave'? (Achtung: 'False Friend'!)", answer: ["mutig", "tapfer"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Was ist Bedeutungserweiterung?", options: ["Ein Wort bekommt eine engere Bedeutung", "Ein Wort bekommt eine breitere, weitere Bedeutung", "Ein Wort verschwindet", "Ein Wort wird kürzer"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Das Wort 'Hochzeit' bedeutete früher 'hohe Zeit' (= Fest). Welche Bedeutung hat es heute?", answer: ["Heirat", "Eheschließung", "Trauung", "Heiratsfest"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Welches Wort stammt aus dem Arabischen?", options: ["Kartoffel", "Algebra", "Handy", "Fenster"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Aus welcher Sprache stammt das Wort 'Rucksack'?", answer: ["Deutsch", "deutsch"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Das Wort 'Mädchen' kommt von 'Magd'. Was bedeutete 'Magd' ursprünglich?", options: ["Junge Frau / Dienerin", "Mutter", "Königin", "Schwester"], correct: 0 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Das englische Wort 'chef' bedeutet 'Koch'. Was bedeutet das deutsche Wort 'Chef'?", answer: ["Boss", "Vorgesetzter", "Leiter", "der Boss", "Arbeitgeber"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "bedeutungswandel_k6", question: "Welches Wort stammt NICHT aus dem Lateinischen?", options: ["Schule (lat. schola)", "Fenster (lat. fenestra)", "Wanderlust", "Mauer (lat. murus)"], correct: 2 },
+        ],
+      },
+
+      // ────────────────────────────────────────────────────────────────────────
+      // 4. Medien- & Jugendsprache
+      // ────────────────────────────────────────────────────────────────────────
+      {
+        id: "mediensprache_k6",
+        name: "Medien- & Jugendsprache",
+        questions: [
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Was bedeutet die Chat-Abkürzung 'lol'?", options: ["Lots of love", "Laughing out loud", "Laut ohne Licht", "Langsam oder lässig"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Schreibe die Chat-Abkürzung 'brb' in Standarddeutsch:", answer: ["bin gleich zurück", "Bin gleich zurück", "komme gleich wieder"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Welche Sprachebene passt zu einem Bewerbungsschreiben?", options: ["Umgangssprache", "Jugendsprache", "Standardsprache / Hochdeutsch", "Dialekt"], correct: 2 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Was bedeutet die Abkürzung 'omg'?", answer: ["Oh mein Gott", "oh mein Gott", "Oh my God"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "'Das ist mega cringe.' — Welche Sprachebene ist das?", options: ["Fachsprache", "Standardsprache", "Jugendsprache / Umgangssprache", "Dialekt"], correct: 2 },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "In welcher Situation sollte man Standarddeutsch verwenden?", options: ["Im Chat mit Freunden", "In einem Referat in der Schule", "In einer WhatsApp-Nachricht", "Beim Spielen mit Freunden"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Was ist ein 'Hashtag'? Erkläre kurz.", answer: ["ein Schlagwort mit Raute", "Schlagwort", "ein Schlüsselwort mit #", "Stichwort mit Rautezeichen"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Was ist Umgangssprache?", options: ["Die offizielle Sprache in Gesetzen", "Eine lockere, alltägliche Sprechweise", "Eine Fremdsprache", "Die Sprache von Fachleuten"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Übersetze in Standarddeutsch: 'Ich chill grad.'", answer: ["Ich entspanne mich gerade.", "Ich entspanne gerade.", "Ich ruhe mich gerade aus."] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Was ist Fachsprache?", options: ["Sprache mit vielen Emojis", "Sprache eines bestimmten Berufs- oder Wissensgebiets", "Sehr leise Sprache", "Sprache nur für Kinder"], correct: 1 },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "'Der Patient hat eine Fraktur.' — Welche Sprachebene?", options: ["Jugendsprache", "Umgangssprache", "Fachsprache (Medizin)", "Dialekt"], correct: 2 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Übersetze in Standarddeutsch: 'Das war mega nice.'", answer: ["Das war sehr schön.", "Das war wirklich toll.", "Das war sehr toll.", "Das war großartig."] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Was ist ein 'Blog'?", options: ["Ein Online-Tagebuch oder -Bericht", "Ein Buch im Laden", "Eine Zeitung", "Ein Fernsehsender"], correct: 0 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Was bedeutet 'viral gehen'?", answer: ["sich schnell im Internet verbreiten", "schnell verbreiten", "im Internet bekannt werden"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Warum sollte man in einer E-Mail an den Lehrer keine Jugendsprache verwenden?", options: ["Weil es unhöflich und unangemessen wirkt", "Weil der Lehrer es nicht versteht", "Weil es verboten ist", "Weil E-Mails nur auf Englisch geschrieben werden"], correct: 0 },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Was ist ein 'Follower'?", options: ["Ein Verfolger im echten Leben", "Jemand, der einem Account in sozialen Medien folgt", "Ein Buchautor", "Ein Zeitungsleser"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Was bedeutet die Abkürzung 'hdl'?", answer: ["hab dich lieb", "Hab dich lieb"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Welches Register passt zu einem Brief an den Bürgermeister?", options: ["Jugendsprache", "Standardsprache (formal)", "Chat-Sprache", "Dialekt"], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Nenne ein Beispiel für Fachsprache aus der Informatik:", answer: ["Algorithmus", "Server", "Datenbank", "Programmiersprache", "Hardware", "Software", "Browser"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Welcher Satz ist in korrektem Standarddeutsch geschrieben?", options: ["Ey, das war voll krass, Alter!", "Das Ergebnis war sehr beeindruckend.", "Lol, das war mega.", "Is mir egal, digga."], correct: 1 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Was bedeutet 'posten' im Zusammenhang mit sozialen Medien?", answer: ["etwas veröffentlichen", "veröffentlichen", "etwas online stellen", "einen Beitrag teilen"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Welcher Begriff beschreibt die drei Sprachebenen?", options: ["Umgangssprache, Standardsprache, Fachsprache", "Deutsch, Englisch, Französisch", "Lesen, Schreiben, Rechnen", "Sprechen, Hören, Sehen"], correct: 0 },
+          { type: "typing", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Übersetze in Standarddeutsch: 'Ich hab kein Bock.'", answer: ["Ich habe keine Lust.", "Ich habe keine Lust"] },
+          { type: "mcq", topic: "wortschatz_k6", subtopic: "mediensprache_k6", question: "Was ist ein 'Emoji'?", options: ["Ein kleines Bild oder Symbol in digitaler Kommunikation", "Ein langer Text", "Ein Computervirus", "Eine Programmiersprache"], correct: 0 },
+        ],
+      },
+    ],
+  },
+];
+
+// ═══════════════════════════════════════════════════════════════════════════════
+// THEME 2: Stilmittel & Literatur
+// ═══════════════════════════════════════════════════════════════════════════════
+
+export const K6_STILMITTEL: DeutschTheme[] = [
+  {
+    id: "stilmittel_k6",
+    name: "Stilmittel & Literatur",
+    icon: "📖",
+    color: "#E879F9",
+    subtopics: [
+      // ────────────────────────────────────────────────────────────────────────
+      // 1. Vergleich & Metapher
+      // ────────────────────────────────────────────────────────────────────────
+      {
+        id: "vergleich_metapher_k6",
+        name: "Vergleich & Metapher",
+        questions: [
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "'Er ist stark wie ein Löwe.' — Welches Stilmittel?", options: ["Metapher", "Vergleich", "Personifikation", "Alliteration"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "Welches Wörtchen ist typisch für einen Vergleich?", answer: ["wie"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "'Er ist ein Löwe im Kampf.' — Welches Stilmittel?", options: ["Vergleich", "Metapher", "Alliteration", "Personifikation"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "Ist 'Die Wüste ist ein Meer aus Sand' ein Vergleich oder eine Metapher?", answer: ["Metapher", "eine Metapher"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "Was ist der Unterschied zwischen Vergleich und Metapher?", options: ["Kein Unterschied", "Der Vergleich verwendet 'wie', die Metapher nicht", "Die Metapher ist immer lustig", "Der Vergleich hat kein 'wie'"], correct: 1 },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "'Schnell wie der Blitz rannte er davon.' — Stilmittel?", options: ["Metapher", "Personifikation", "Vergleich", "Anapher"], correct: 2 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "'Das Klassenzimmer war ein Bienenstock.' — Vergleich oder Metapher?", answer: ["Metapher", "eine Metapher"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "'Sie hat ein Herz aus Gold.' — Was bedeutet diese Metapher?", options: ["Ihr Herz ist golden", "Sie ist sehr gutherzig", "Sie ist reich", "Sie trägt goldenen Schmuck"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "Ergänze den Vergleich: 'leise wie eine ___'", answer: ["Maus", "Feder", "Katze"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "'Ihre Augen sind Sterne.' — Stilmittel?", options: ["Vergleich", "Metapher", "Personifikation", "Übertreibung"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "'Das Meer war glatt wie ein Spiegel.' — Vergleich oder Metapher?", answer: ["Vergleich", "ein Vergleich"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "'Er schwimmt wie ein Fisch.' — Was wird ausgedrückt?", options: ["Er ist ein Fisch", "Er schwimmt sehr gut", "Er hat Schuppen", "Er lebt im Wasser"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "Nenne eine Metapher für 'sehr wütend sein':", answer: ["vor Wut kochen", "kochen vor Wut", "explodieren vor Wut", "platzen vor Wut"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "'Die Nachricht schlug ein wie eine Bombe.' — Stilmittel?", options: ["Personifikation", "Metapher (eigentlich: Vergleich mit 'wie')", "Alliteration", "Anapher"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "Ergänze den Vergleich: 'dumm wie ___'", answer: ["Bohnenstroh", "Brot", "Stroh"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "'Er hat einen Dickkopf.' — Was ist gemeint?", options: ["Sein Kopf ist groß", "Er ist stur", "Er hat Kopfschmerzen", "Er trägt einen Hut"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "'Der Nebel ist eine graue Decke über der Stadt.' — Stilmittel?", answer: ["Metapher", "eine Metapher"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "Welcher Satz enthält einen Vergleich?", options: ["Der Mond ist eine Lampe.", "Der Mond leuchtet wie eine Lampe.", "Der Mond schläft.", "Der Mond, der Mond, der Mond."], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "Ergänze: 'flink wie ein ___'", answer: ["Wiesel", "Hase", "Reh"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "'Sie trägt die Last der Welt auf ihren Schultern.' — Stilmittel?", options: ["Vergleich", "Metapher", "Alliteration", "Personifikation"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "'Hart wie Stahl' — Vergleich oder Metapher?", answer: ["Vergleich", "ein Vergleich"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "Welche Aussage ist RICHTIG?", options: ["Metaphern verwenden immer 'wie'", "Vergleiche setzen zwei Dinge direkt gleich", "Metaphern sind bildhafte Übertragungen OHNE 'wie'", "Vergleiche und Metaphern sind dasselbe"], correct: 2 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "'Das Leben ist eine Achterbahn.' — Erkläre kurz die Metapher.", answer: ["Das Leben hat Höhen und Tiefen", "es gibt Höhen und Tiefen", "Höhen und Tiefen"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "'Er läuft wie der Wind.' — Was bedeutet das?", options: ["Er ist unsichtbar", "Er läuft sehr schnell", "Er fliegt", "Er ist leise"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "vergleich_metapher_k6", question: "Bilde einen Vergleich mit 'kalt': 'kalt wie ___'", answer: ["Eis", "der Winter", "Schnee"] },
+        ],
+      },
+
+      // ────────────────────────────────────────────────────────────────────────
+      // 2. Personifikation
+      // ────────────────────────────────────────────────────────────────────────
+      {
+        id: "personifikation_k6",
+        name: "Personifikation",
+        questions: [
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "'Die Sonne lacht.' — Welches Stilmittel?", options: ["Vergleich", "Metapher", "Personifikation", "Alliteration"], correct: 2 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "Was ist eine Personifikation?", answer: ["Dinge oder Tiere erhalten menschliche Eigenschaften", "menschliche Eigenschaften für Dinge", "wenn Dinge menschlich dargestellt werden"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "'Der Wind flüstert durch die Bäume.' — Stilmittel?", options: ["Alliteration", "Vergleich", "Personifikation", "Metapher"], correct: 2 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "Welche menschliche Eigenschaft bekommt die Zeit in 'Die Zeit rennt'?", answer: ["rennen", "Rennen", "sie kann rennen", "laufen"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "Welcher Satz enthält eine Personifikation?", options: ["Der Hund bellt laut.", "Die Blumen tanzen im Wind.", "Das Mädchen lacht.", "Er ist schnell wie der Blitz."], correct: 1 },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "'Der Wecker schreit mich jeden Morgen an.' — Stilmittel?", options: ["Vergleich", "Personifikation", "Alliteration", "Anapher"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "Ergänze die Personifikation: 'Der Mond ___ auf die schlafende Stadt herab.'", answer: ["blickt", "schaut", "sieht", "lächelt"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "Welche Wirkung hat eine Personifikation?", options: ["Sie macht den Text langweilig", "Sie macht den Text anschaulicher und lebendiger", "Sie macht den Text kürzer", "Sie macht den Text wissenschaftlicher"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "'Die Angst packte ihn.' — Welche menschliche Handlung wird der Angst zugeschrieben?", answer: ["packen", "Packen", "greifen", "zupacken"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "Welcher Satz ist KEINE Personifikation?", options: ["Der Computer denkt nach.", "Die Glocke ruft zum Essen.", "Der Vogel singt ein Lied.", "Das Feuer verschlingt das Haus."], correct: 2 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "Bilde eine Personifikation mit dem Wort 'Nacht': 'Die Nacht ___'", answer: ["schleicht", "legt sich über die Stadt", "breitet ihren Mantel aus", "verschluckt das Licht", "kommt leise"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "'Die Wolken weinen.' — Was ist gemeint?", options: ["Die Wolken sind traurig", "Es regnet", "Die Wolken schmelzen", "Die Wolken verschwinden"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "'Der Sturm tobte und heulte.' — Stilmittel?", answer: ["Personifikation", "eine Personifikation"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "'Die alte Eiche streckt ihre Arme in den Himmel.' — Was sind die 'Arme'?", options: ["Wurzeln", "Blätter", "Äste", "Der Stamm"], correct: 2 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "Ergänze: 'Das Meer ___ wütend gegen die Felsen.'", answer: ["schlägt", "peitscht", "donnert", "tobt", "brüllt"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "In welcher Textsorte findet man besonders häufig Personifikationen?", options: ["Im Gesetzestext", "In Gedichten und Märchen", "In der Gebrauchsanweisung", "Im Telefonbuch"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "'Der Morgen erwacht.' — Erkläre die Personifikation.", answer: ["Der Morgen wird wie ein Mensch dargestellt, der aufwacht", "Der Morgen wacht auf wie ein Mensch", "der Tag beginnt"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "'Die Uhr tickt nervös.' — Was wird personifiziert?", options: ["Die Zeit", "Die Uhr", "Das Ticken", "Die Nervosität"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "Bilde eine Personifikation mit 'Herbst':", answer: ["Der Herbst malt die Blätter bunt", "Der Herbst klopft an die Tür", "Der Herbst tanzt mit den Blättern", "Der Herbst zieht durchs Land"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "'Vater Staat sorgt für seine Bürger.' — Stilmittel?", options: ["Vergleich", "Alliteration", "Personifikation", "Anapher"], correct: 2 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "'Die Sterne blinzeln.' — Welches Stilmittel ist das?", answer: ["Personifikation", "eine Personifikation"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "Was wird in 'Das Glück klopfte an seine Tür' personifiziert?", options: ["Die Tür", "Das Klopfen", "Das Glück", "Er selbst"], correct: 2 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "'Die Berge schweigen.' — Welche menschliche Eigenschaft bekommen die Berge?", answer: ["schweigen", "Schweigen", "sie können schweigen", "Stille"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "personifikation_k6", question: "Welcher Satz enthält eine Personifikation?", options: ["Die Katze schläft auf dem Sofa.", "Der Motor hustet und stirbt.", "Der Mann geht spazieren.", "Der Hund ist groß wie ein Pony."], correct: 1 },
+        ],
+      },
+
+      // ────────────────────────────────────────────────────────────────────────
+      // 3. Alliteration & Anapher
+      // ────────────────────────────────────────────────────────────────────────
+      {
+        id: "alliteration_k6",
+        name: "Alliteration & Anapher",
+        questions: [
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "'Milch macht müde Männer munter.' — Stilmittel?", options: ["Vergleich", "Metapher", "Alliteration", "Personifikation"], correct: 2 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "Was ist eine Alliteration?", answer: ["Wiederholung des Anfangsbuchstabens", "gleiche Anfangsbuchstaben", "Wörter mit gleichem Anfangslaut"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "Welcher Satz enthält eine Alliteration?", options: ["Die Sonne scheint hell.", "Fischers Fritz fischt frische Fische.", "Er läuft wie der Wind.", "Die Blumen blühen bunt."], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "Welcher Buchstabe wird in 'Wind und Wetter' wiederholt?", answer: ["W", "w"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "Was ist eine Anapher?", options: ["Wiederholung eines Wortes am Satzanfang aufeinanderfolgender Sätze", "Ein Reim am Ende", "Ein Vergleich", "Eine Frage"], correct: 0 },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "'Ich will Freiheit. Ich will Gerechtigkeit. Ich will Frieden.' — Stilmittel?", options: ["Alliteration", "Vergleich", "Anapher", "Metapher"], correct: 2 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "Welches Wort wird in der Anapher 'Kein Licht. Kein Ton. Kein Mensch.' wiederholt?", answer: ["Kein", "kein"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "'Große grüne Gurken' — Stilmittel?", options: ["Anapher", "Alliteration", "Metapher", "Personifikation"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "Bilde eine Alliteration mit dem Buchstaben 'S': 'Sieben ___'", answer: ["Sieben Schwäne schwimmen", "süße Sachen", "sanfte Stürme", "schöne Steine", "stolze Schüler"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "Welche Wirkung hat eine Alliteration?", options: ["Sie macht den Text langweilig", "Sie erzeugt einen Rhythmus und bleibt im Gedächtnis", "Sie erklärt schwierige Wörter", "Sie verkürzt den Text"], correct: 1 },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "'Wer wagt, gewinnt.' — Enthält der Satz eine Alliteration?", options: ["Ja, 'Wer wagt'", "Nein", "Ja, 'wagt gewinnt'", "Ja, der ganze Satz"], correct: 0 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "'Über allen Gipfeln ist Ruh. Über allen Wipfeln spürest du kaum einen Hauch.' — Welches Stilmittel beginnt beide Sätze?", answer: ["Anapher", "eine Anapher"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "Welche Wirkung hat eine Anapher?", options: ["Sie betont und verstärkt die Aussage", "Sie macht den Text kürzer", "Sie erklärt Fremdwörter", "Sie erzeugt einen Reim"], correct: 0 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "'Bei Nacht und Nebel' — Welcher Anfangsbuchstabe bildet die Alliteration?", answer: ["N", "n"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "'Land und Leute' — Stilmittel?", options: ["Metapher", "Personifikation", "Alliteration", "Anapher"], correct: 2 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "Bilde eine Anapher mit 'Immer': 'Immer ___. Immer ___.'", answer: ["Immer wieder. Immer weiter.", "Immer lacht er. Immer singt er.", "Immer rennt er. Immer spielt er."] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "Welcher Satz enthält KEINE Alliteration?", options: ["Haus und Hof", "Kind und Kegel", "Schnee und Eis", "Feuer und Flamme"], correct: 2 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "'Wir wollen Wissen. Wir wollen Wahrheit. Wir wollen Wandel.' — Nenne BEIDE Stilmittel.", answer: ["Anapher und Alliteration", "Alliteration und Anapher"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "Wo findet man Alliterationen besonders oft?", options: ["In Matheaufgaben", "In Werbetexten und Slogans", "In Kochrezepten", "In Tabellen"], correct: 1 },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "'Veni, vidi, vici.' (Ich kam, ich sah, ich siegte.) — Welche Stilmittel?", options: ["Nur Alliteration", "Nur Anapher", "Alliteration und Anapher", "Metapher"], correct: 2 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "'Sonne, Sand und See' — Stilmittel?", answer: ["Alliteration", "eine Alliteration"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "'Nie wieder Krieg. Nie wieder Gewalt. Nie wieder Hass.' — Welches Wort bildet die Anapher?", options: ["wieder", "Nie", "Nie wieder", "Krieg"], correct: 2 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "Nenne ein bekanntes Beispiel für eine Alliteration aus der Werbung oder dem Alltag:", answer: ["Geiz ist geil", "Kleidung clever kaufen", "Mars macht mobil", "Milch macht müde Männer munter"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "alliteration_k6", question: "Was haben Alliteration und Anapher gemeinsam?", options: ["Beide verwenden 'wie'", "Beide sind Wiederholungsfiguren", "Beide sind Vergleiche", "Beide gibt es nur in Gedichten"], correct: 1 },
+        ],
+      },
+
+      // ────────────────────────────────────────────────────────────────────────
+      // 4. Textgattungen erkennen
+      // ────────────────────────────────────────────────────────────────────────
+      {
+        id: "textgattungen_k6",
+        name: "Textgattungen erkennen",
+        questions: [
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "'Es war einmal...' ist ein typischer Anfang für:", options: ["einen Bericht", "ein Märchen", "eine Fabel", "ein Gedicht"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Wie nennt man eine kurze Erzählung, in der Tiere sprechen und eine Lehre vermittelt wird?", answer: ["Fabel", "eine Fabel"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "In einer Fabel sind die Hauptfiguren meistens:", options: ["Könige und Prinzessinnen", "Tiere mit menschlichen Eigenschaften", "Wissenschaftler", "Superhelden"], correct: 1 },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Was ist ein typisches Merkmal eines Märchens?", options: ["Es basiert auf wissenschaftlichen Fakten", "Es enthält fantastische Elemente (Zauberei, sprechende Tiere)", "Es ist immer sehr kurz", "Es hat keinen Schluss"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Wie nennt man die Lehre oder den moralischen Schluss einer Fabel?", answer: ["Moral", "die Moral", "Lehre"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Was ist eine Sage?", options: ["Eine erfundene Geschichte ohne realen Bezug", "Eine Erzählung mit historischem Kern und übertriebenen Elementen", "Ein wissenschaftlicher Text", "Ein Lied"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Wie heißen die einzelnen Abschnitte eines Gedichts?", answer: ["Strophen", "Strophe"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Wie nennt man eine einzelne Zeile in einem Gedicht?", options: ["Strophe", "Vers", "Reim", "Kapitel"], correct: 1 },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Ein Sachtext ist:", options: ["immer lustig", "informierend und sachlich geschrieben", "immer gereimt", "nur für Erwachsene"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Welche Textgattung beginnt oft mit 'Es war einmal' und endet mit '...und lebten glücklich bis ans Ende'?", answer: ["Märchen", "das Märchen", "ein Märchen"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Was unterscheidet ein Märchen von einer Sage?", options: ["Sagen haben einen historischen Kern, Märchen nicht", "Märchen sind immer kürzer", "Sagen haben keine Moral", "Es gibt keinen Unterschied"], correct: 0 },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Welche Figur kommt typischerweise in Fabeln vor?", options: ["Ein König", "Ein Fuchs (schlau)", "Ein Zauberer", "Ein Astronaut"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Welche Eigenschaft hat der Fuchs in vielen Fabeln?", answer: ["schlau", "listig", "gerissen", "klug"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Was ist ein Gedicht?", options: ["Ein langer Roman", "Ein Text in gebundener Sprache mit Rhythmus und oft Reimen", "Ein Sachtext", "Ein Zeitungsbericht"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Wie nennt man es, wenn sich die Enden zweier Verse gleich anhören? (z.B. Haus — Maus)", answer: ["Reim", "ein Reim"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Welches Merkmal gehört NICHT zum Märchen?", options: ["Fantastische Elemente", "Gut gegen Böse", "Genaue Jahreszahlen und Orte", "Glückliches Ende"], correct: 2 },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Was ist der Unterschied zwischen Sage und Märchen hinsichtlich des Ortes?", options: ["Sagen nennen oft reale Orte, Märchen nicht", "Märchen spielen immer in Deutschland", "Sagen spielen im Weltraum", "Es gibt keinen Unterschied"], correct: 0 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Nenne ein bekanntes deutsches Märchen:", answer: ["Rotkäppchen", "Schneewittchen", "Hänsel und Gretel", "Aschenputtel", "Dornröschen", "Der Froschkönig", "Rapunzel"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Welche Eigenschaft hat der Löwe in Fabeln?", options: ["Er ist feige", "Er ist der König der Tiere (mächtig, stolz)", "Er ist dumm", "Er ist klein"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Nenne eine bekannte deutsche Sage:", answer: ["Die Loreley", "Loreley", "Der Rattenfänger von Hameln", "Die Nibelungensage", "Siegfried"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Ein Paarreim hat das Reimschema:", options: ["abab", "aabb", "abba", "abcabc"], correct: 1 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Wie heißt das Reimschema abab?", answer: ["Kreuzreim", "der Kreuzreim"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Welche Textgattung informiert sachlich über ein Thema ohne persönliche Meinung?", options: ["Märchen", "Fabel", "Sachtext", "Gedicht"], correct: 2 },
+          { type: "typing", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Was ist das Reimschema des umarmenden Reims?", answer: ["abba"] },
+          { type: "mcq", topic: "stilmittel_k6", subtopic: "textgattungen_k6", question: "Welcher Text hat IMMER eine Moral oder Lehre am Ende?", options: ["Sachtext", "Gedicht", "Fabel", "Roman"], correct: 2 },
+        ],
+      },
+    ],
+  },
+];
