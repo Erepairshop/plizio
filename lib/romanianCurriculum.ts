@@ -4,6 +4,7 @@
 import type { CurriculumTheme, CurriculumQuestion } from "./curriculumTypes";
 import type { TestGradeMark } from "./languageTestTypes";
 import { C1_Generators } from "./romanianGenerators";
+import { C2_Generators } from "./romanianGeneratorsC2";
 
 // ─── TYPE ALIASES ────────────────────────────────────────────────────────────
 
@@ -270,15 +271,141 @@ const C1: RomanianTheme[] = [
   },
 ];
 
+// ─── CLASA a II-a (Grade 2) ──────────────────────────────────────────────────
+
+const C2: RomanianTheme[] = [
+  {
+    id: "parti_vorbire_c2",
+    name: "Părțile de vorbire",
+    icon: "🏷️",
+    color: "#FF2D78",
+    subtopics: [
+      { id: "substantiv_c2", name: "Substantivul", questions: [
+        { type: "mcq", topic: "parti_vorbire_c2", subtopic: "substantiv_c2", question: "Care cuvânt este un substantiv?", options: ["carte", "frumos", "aleargă", "repede"], correct: 0 },
+      ]},
+      { id: "verb_c2", name: "Verbul", questions: [
+        { type: "mcq", topic: "parti_vorbire_c2", subtopic: "verb_c2", question: "Care cuvânt este un verb?", options: ["scrie", "masă", "mare", "vesel"], correct: 0 },
+      ]},
+      { id: "adjectiv_c2", name: "Adjectivul", questions: [
+        { type: "mcq", topic: "parti_vorbire_c2", subtopic: "adjectiv_c2", question: "Care cuvânt este un adjectiv?", options: ["frumos", "casă", "merge", "el"], correct: 0 },
+      ]},
+    ],
+  },
+  {
+    id: "ortografie_c2",
+    name: "Ortografie",
+    icon: "📐",
+    color: "#00D4FF",
+    subtopics: [
+      { id: "a_i_reguli_c2", name: "â și î — reguli", questions: [
+        { type: "mcq", topic: "ortografie_c2", subtopic: "a_i_reguli_c2", question: "Cum se scrie corect?", options: ["România", "Romănia", "Romaînia", "Românîa"], correct: 0 },
+      ]},
+      { id: "sa_s_a_c2", name: "sa / s-a", questions: [
+        { type: "mcq", topic: "ortografie_c2", subtopic: "sa_s_a_c2", question: "Completează: '... dus la școală.'", options: ["S-a", "Sa", "S a", "S'a"], correct: 0 },
+      ]},
+      { id: "ia_i_a_c2", name: "ia / i-a", questions: [
+        { type: "mcq", topic: "ortografie_c2", subtopic: "ia_i_a_c2", question: "Care formă este corectă? 'Mama ... dat o carte.'", options: ["i-a", "ia", "i a", "i'a"], correct: 0 },
+      ]},
+      { id: "sau_s_au_c2", name: "sau / s-au", questions: [
+        { type: "mcq", topic: "ortografie_c2", subtopic: "sau_s_au_c2", question: "Care formă este corectă? 'Copiii ... jucat în parc.'", options: ["s-au", "sau", "s au", "s'au"], correct: 0 },
+      ]},
+    ],
+  },
+  {
+    id: "propozitia_c2",
+    name: "Propoziția",
+    icon: "✍️",
+    color: "#00FF88",
+    subtopics: [
+      { id: "subiect_predicat_c2", name: "Subiectul și predicatul", questions: [
+        { type: "mcq", topic: "propozitia_c2", subtopic: "subiect_predicat_c2", question: "Care este subiectul în propoziția: 'Maria citește o carte.'?", options: ["Maria", "citește", "carte", "o"], correct: 0 },
+      ]},
+      { id: "tipuri_prop_c2", name: "Tipuri de propoziții", questions: [
+        { type: "mcq", topic: "propozitia_c2", subtopic: "tipuri_prop_c2", question: "Ce tip de propoziție este: 'Vino aici!'?", options: ["Imperativă", "Enunțiativă", "Interogativă", "Exclamativă"], correct: 0 },
+      ]},
+      { id: "punctuatie_c2", name: "Semnele de punctuație (. ? ! , ;)", questions: [
+        { type: "mcq", topic: "propozitia_c2", subtopic: "punctuatie_c2", question: "Ce semn punem după o comandă?", options: ["!", ".", "?", ","], correct: 0 },
+      ]},
+    ],
+  },
+  {
+    id: "textul_c2",
+    name: "Textul",
+    icon: "📖",
+    color: "#B44DFF",
+    subtopics: [
+      { id: "narativ_c2", name: "Textul narativ", questions: [
+        { type: "mcq", topic: "textul_c2", subtopic: "narativ_c2", question: "Care este partea de început a unui text narativ?", options: ["Introducerea", "Cuprinsul", "Încheierea", "Dialogul"], correct: 0 },
+      ]},
+      { id: "personaje_actiuni_c2", name: "Personaje și acțiuni", questions: [
+        { type: "mcq", topic: "textul_c2", subtopic: "personaje_actiuni_c2", question: "Ce sunt personajele într-un text?", options: ["Cei care apar în poveste", "Titlul povestirii", "Sfârșitul poveștii", "Semnele de punctuație"], correct: 0 },
+      ]},
+      { id: "dialog_c2", name: "Dialogul", questions: [
+        { type: "mcq", topic: "textul_c2", subtopic: "dialog_c2", question: "Cum marcăm un dialog în text?", options: ["Cu linia de dialog (–)", "Cu punct (.)", "Cu paranteză ()", "Cu asterisc (*)"], correct: 0 },
+      ]},
+    ],
+  },
+  {
+    id: "vocabular_c2",
+    name: "Vocabular",
+    icon: "📚",
+    color: "#FFD700",
+    subtopics: [
+      { id: "omonime_c2", name: "Omonime", questions: [
+        { type: "mcq", topic: "vocabular_c2", subtopic: "omonime_c2", question: "Cuvântul 'broască' poate însemna:", options: ["animal SAU lacăt", "doar animal", "doar lacăt", "nici una"], correct: 0 },
+      ]},
+      { id: "cuvinte_compuse_c2", name: "Cuvinte compuse", questions: [
+        { type: "mcq", topic: "vocabular_c2", subtopic: "cuvinte_compuse_c2", question: "Care cuvânt este compus?", options: ["untdelemn", "frumos", "casă", "merge"], correct: 0 },
+      ]},
+      { id: "expresii_c2", name: "Expresii/Zicători", questions: [
+        { type: "mcq", topic: "vocabular_c2", subtopic: "expresii_c2", question: "Ce înseamnă 'a da din casă'?", options: ["A spune secrete", "A muta casa", "A construi o casă", "A vinde o casă"], correct: 0 },
+      ]},
+    ],
+  },
+  {
+    id: "comunicare_c2",
+    name: "Comunicare",
+    icon: "🗣️",
+    color: "#FF6B00",
+    subtopics: [
+      { id: "dialog_oral_c2", name: "Dialog — formule de politețe", questions: [
+        { type: "mcq", topic: "comunicare_c2", subtopic: "dialog_oral_c2", question: "Cum salutăm un adult?", options: ["Bună ziua!", "Salut!", "Hei!", "Yo!"], correct: 0 },
+      ]},
+      { id: "bilet_felicitare_c2", name: "Biletul și felicitarea", questions: [
+        { type: "mcq", topic: "comunicare_c2", subtopic: "bilet_felicitare_c2", question: "Ce conține un bilet?", options: ["Destinatar, mesaj, semnătură", "Doar semnătura", "Doar data", "Un desen"], correct: 0 },
+      ]},
+    ],
+  },
+  {
+    id: "lectura_c2",
+    name: "Lectură și înțelegere",
+    icon: "📕",
+    color: "#10B981",
+    subtopics: [
+      { id: "intelegere_c2", name: "Înțelegerea textului", questions: [
+        { type: "mcq", topic: "lectura_c2", subtopic: "intelegere_c2", question: "Text: \"Ana merge la bibliotecă. Ea împrumută o carte despre animale.\"\n\nUnde merge Ana?", options: ["La bibliotecă", "La școală", "Acasă", "La magazin"], correct: 0 },
+      ]},
+      { id: "succesiune_c2", name: "Succesiunea evenimentelor", questions: [
+        { type: "mcq", topic: "lectura_c2", subtopic: "succesiune_c2", question: "Text: \"Ion s-a trezit, s-a spălat și a plecat la școală.\"\n\nCe a făcut Ion PRIMA dată?", options: ["S-a trezit", "S-a spălat", "A plecat la școală", "A mâncat"], correct: 0 },
+      ]},
+      { id: "morala_c2", name: "Morala/învățătura", questions: [
+        { type: "mcq", topic: "lectura_c2", subtopic: "morala_c2", question: "Text: \"Vulpea a vrut strugurii, dar nu a putut ajunge la ei. A spus: 'Sunt acri oricum!'\"\n\nCare este morala?", options: ["Nu disprețui ce nu poți obține", "Strugurii sunt acri", "Vulpea e proastă", "E bine să renunți"], correct: 0 },
+      ]},
+    ],
+  },
+];
+
 // ─── MAIN EXPORT ──────────────────────────────────────────────────────────────
 
 export const ROMANIAN_CURRICULUM: Record<number, RomanianTheme[]> = {
   1: C1,
+  2: C2,
 };
 
 /** Generator mapping by grade */
 const GENERATOR_MAP: Record<number, Record<string, Record<string, (seed?: number) => CurriculumQuestion[]>>> = {
   1: C1_Generators,
+  2: C2_Generators,
 };
 
 /** Returns shuffled questions from selected subtopics (max count). */
@@ -387,4 +514,33 @@ export const ROMANIAN_SUBTOPIC_HINTS: Record<string, string> = {
   "intelegere_c1":          "Citește textul cu atenție! Răspunsul se găsește ÎNTOTDEAUNA în text. Caută cuvintele cheie din întrebare.",
   "personaje_c1":           "Personajele sunt CINE apare în text. Acțiunile sunt CE FAC personajele. Caută verbele (merg, citesc, aleargă).",
   "ideea_c1":               "Ideea principală = despre ce este textul PE SCURT. Gândește-te: dacă ar trebui să spui textul într-o singură propoziție, ce ai zice?",
+  // ─── Clasa II ───
+  // Părți de vorbire
+  "substantiv_c2":          "Substantivul denumește ființe, lucruri, fenomene: om, carte, ploaie. Se scrie cu literă MARE dacă e nume propriu (Ana, București).",
+  "verb_c2":                "Verbul arată ce FACE cineva: aleargă, citește, doarme, scrie. Întrebarea: 'Ce face?' → verbuL!",
+  "adjectiv_c2":            "Adjectivul arată CUM ESTE un lucru: frumos, mare, roșu, deștept. Întrebarea: 'Cum este?' → adjectivuL!",
+  // Ortografie
+  "a_i_reguli_c2":          "Regula â/î: La ÎNCEPUT și SFÂRȘIT de cuvânt scriem 'î' (început, coborî). În INTERIORUL cuvântului scriem 'â' (câine, pâine). Excepție: 'România' și derivatele.",
+  "sa_s_a_c2":              "Test: înlocuiește cu 'a sa' sau 'ea s-a'. Dacă merge 'a sa' → scrie 'sa'. Dacă merge 's-a' (se + a) → scrie 's-a'.",
+  "ia_i_a_c2":              "Test: 'ia' = verb (el ia) sau pronume. 'i-a' = 'îi' + 'a' (lui i-a dat). Dacă poți spune 'îi' înainte → 'i-a'.",
+  "sau_s_au_c2":            "Test: 'sau' = conjuncție (SAU asta, SAU aia). 's-au' = 'se' + 'au' (ei s-au jucat). Dacă poți spune 'se au' → 's-au'.",
+  // Propoziția
+  "subiect_predicat_c2":    "Subiectul = CINE face acțiunea (cine? ce?). Predicatul = CE FACE subiectul (ce face? ce este?). Ex: 'Maria citește' → S=Maria, P=citește.",
+  "tipuri_prop_c2":         "Enunțiativă (.) = spune ceva. Interogativă (?) = întreabă. Exclamativă (!) = exprimă emoție. Imperativă (!) = dă un ordin.",
+  "punctuatie_c2":          "Punct (.) = sfârșitul propoziției. Virgulă (,) = pauză scurtă/enumerare. Punct și virgulă (;) = pauză medie. Semnul (?) = întrebare. Semnul (!) = exclamație/ordin.",
+  // Textul
+  "narativ_c2":             "Textul narativ povestește ceva. Are 3 părți: Introducere (cine, unde, când), Cuprins (ce se întâmplă), Încheiere (cum se termină).",
+  "personaje_actiuni_c2":   "Personajele sunt CINE apare în text. Fiecare personaj face ACȚIUNI (verbe). Caută: cine vorbește, cine face ceva, cu cine interacționează.",
+  "dialog_c2":              "Dialogul se marchează cu linia de dialog (–). Fiecare replică pe rând nou. Se poate adăuga cine vorbește: – Bună! spuse Ana.",
+  // Vocabular
+  "omonime_c2":             "Omonimele sunt cuvinte care se SCRIU la fel dar au SENSURI diferite: broască (animal) / broască (lacăt), pas (mișcare) / pas (pasăre=struț).",
+  "cuvinte_compuse_c2":     "Cuvintele compuse sunt formate din 2+ cuvinte: untdelemn (unt+de+lemn), binecuvântare (bine+cuvântare), floarea-soarelui.",
+  "expresii_c2":            "Expresiile/zicătorile au un sens figurat, nu literal: 'a da din casă' = a spune secrete, 'a bate câmpii' = a vorbi fără sens.",
+  // Comunicare
+  "dialog_oral_c2":         "Formulele de politețe: Bună ziua! (salut), Vă rog (cerere), Mulțumesc (recunoștință), Scuzați-mă (scuze), La revedere! (despărțire).",
+  "bilet_felicitare_c2":    "Biletul conține: destinatar (Dragă Ana,), mesaj scurt, semnătura (Al tău, Ion). Felicitarea: urare + motiv (La mulți ani! Cu ocazia...).",
+  // Lectură
+  "intelegere_c2":          "Citește textul cu atenție! Răspunsul se găsește ÎNTOTDEAUNA în text. Subliniază cuvintele cheie din întrebare și caută-le în text.",
+  "succesiune_c2":          "Succesiunea = ordinea în care se întâmplă lucrurile. Caută cuvintele de timp: mai întâi, apoi, după aceea, în final, la sfârșit.",
+  "morala_c2":              "Morala/învățătura = ce lecție ne învață povestea. Gândește-te: ce ar fi trebuit să facă personajul diferit? Ce ne sfătuiește autorul?",
 };
