@@ -1,8 +1,6 @@
 // ─── ROMANIAN GENERATORS (CLASA a II-a) ─────────────────────────────────────
 // Procedural MCQ question generators for Romanian language curriculum
 // Clasa a II-a (2nd grade) – parts of speech, spelling, sentence, text, vocabulary, communication, reading
-//
-// TODO: Fill in full 30-question generators per subtopic (currently returns fallback questions from curriculum)
 
 import type { CurriculumQuestion, CurriculumMCQ } from "./curriculumTypes";
 
@@ -203,6 +201,11 @@ const OMONIME = [
   { word: "leu", sens1: "animal sălbatic", sens2: "monedă românească" },
   { word: "scoarță", sens1: "parte a copacului", sens2: "copertă de carte" },
   { word: "ochi", sens1: "organ de văz", sens2: "plasă de gard" },
+  { word: "bancă", sens1: "instituție financiară", sens2: "mobilier de școală" },
+  { word: "cap", sens1: "parte a corpului", sens2: "conducătorul unui grup" },
+  { word: "mână", sens1: "parte a corpului", sens2: "ajutor/sprijin" },
+  { word: "gură", sens1: "parte a feței", sens2: "deschizătura unui vas" },
+  { word: "poartă", sens1: "deschidere în gard/zid", sens2: "punct de marcaj (sport)" },
 ];
 
 const CUVINTE_COMPUSE = [
@@ -280,6 +283,22 @@ const TEXTE_C2 = [
       { q: "Ce făceau copiii?", correct: "Se jucau prin frunzele căzute", wrong: ["Dormeau sub copaci", "Culegeau mere", "Plantau flori"] },
     ],
   },
+  {
+    text: "Radu are un cățel pe nume Bobi. În fiecare dimineață, Bobi îl trezește pe Radu lătrând vesel. Ei se plimbă împreună în parc și se joacă cu mingea. Radu îl hrănește pe Bobi cu mâncare specială pentru câini.",
+    intrebari: [
+      { q: "Cum îl trezește Bobi pe Radu?", correct: "Lătrând vesel", wrong: ["Zgâriind ușa", "Jucându-se cu mingea", "Alergând prin casă"] },
+      { q: "Unde merg Radu și Bobi să se plimbe?", correct: "În parc", wrong: ["La școală", "La magazin", "La bunici"] },
+      { q: "Cum se numește câinele lui Radu?", correct: "Bobi", wrong: ["Rex", "Lăbuș", "Brumă"] },
+    ],
+  },
+  {
+    text: "Primăvara, livada se umple de flori albe și roz. Albinele zboară de la o floare la alta și culeg nectar. Din nectar fac miere dulce în stupi. Fără albine, mulți pomi fructiferi nu ar da roade.",
+    intrebari: [
+      { q: "Ce fac albinele primăvara?", correct: "Culeg nectar de la flori", wrong: ["Dorm în stupi", "Mănâncă frunze", "Construiesc cuiburi"] },
+      { q: "Din ce fac albinele miere?", correct: "Din nectar", wrong: ["Din apă", "Din frunze", "Din polen și apă"] },
+      { q: "De ce sunt importante albinele pentru pomi?", correct: "Fără ele, pomii nu dau roade", wrong: ["Le hrănesc", "Le colorează florile", "Le apară de insecte"] },
+    ],
+  },
 ];
 
 const SUCCESIUNI = [
@@ -307,6 +326,9 @@ const MORALE = [
   { text: "Greierele a cântat toată vara. Furnica a strâns hrană. Iarna, greierele nu avea ce mânca.", morala: "E important să te pregătești pentru viitor", wrong: ["Muzica e mai bună decât munca", "Furnicile sunt rele", "Iarna e frumoasă"] },
   { text: "Un câine cu un os în gură a văzut reflexia sa în apă. Crezând că e alt câine, a lătrat și a pierdut osul.", morala: "Lăcomia te poate face să pierzi ce ai", wrong: ["Câinii sunt lătrători", "Apa e periculoasă", "Oasele sunt importante"] },
   { text: "Doi prieteni și-au împărțit prânzul. Deși aveau puțin, amândoi au fost sătui și fericiți.", morala: "Împărțind cu alții, câștigi mai mult", wrong: ["Mâncarea e importantă", "Prietenii mănâncă împreună", "E bine să ai puțin"] },
+  { text: "Un copil a găsit un portofel pe stradă. Deși în el erau mulți bani, l-a dus la poliție. Proprietarul l-a găsit și i-a mulțumit copilului.", morala: "Cinstea este cea mai bună calitate", wrong: ["E bine să găsești bani", "Poliția rezolvă toate problemele", "Banii sunt importanți"] },
+  { text: "O vrabie voia să învețe să înoate ca rațele. A căzut în apă și a trebuit salvată. 'Mai bine să fii cel mai bun la ce știi', a învățat ea.", morala: "Fii mândru de ceea ce știi să faci bine", wrong: ["Vrabia nu poate înota", "Rațele sunt mai deștepte", "Nu trebuie să înveți lucruri noi"] },
+  { text: "Doi băieți au găsit un măr. Primul zicea că e al lui, al doilea de asemenea. Un om înțelept a tăiat mărul și a dat câte o jumătate fiecăruia.", morala: "Împărțeala înțeleaptă face pe toată lumea mulțumită", wrong: ["Merele trebuie cumpărate", "Băieții greșeau amândoi", "Omul înțelept a greșit"] },
 ];
 
 const POLITETE = {
@@ -548,11 +570,6 @@ export const C2_Generators: Record<string, Record<string, (seed?: number) => Cur
         { q: "Ce se întâmplă în ÎNCHEIEREA unui text narativ?", correct: "Se rezolvă problema", wrong: ["Se prezintă personajele", "Se dezvoltă acțiunea", "Se deschide povestea"] },
         { q: "Câte părți are un text narativ?", correct: "3 (introducere, cuprins, încheiere)", wrong: ["2", "4", "1"] },
       ];
-      for (let i = 0; i < 30; i++) {
-        q.push(createMCQ("textul_c2", "narativ_c2", pick(parti, rng).q, pick(parti, rng).correct, pick(parti, rng).wrong, rng));
-      }
-      // Fix: better generation
-      q.length = 0;
       for (let i = 0; i < 30; i++) {
         const data = pick(parti, rng);
         q.push(createMCQ("textul_c2", "narativ_c2", data.q, data.correct, data.wrong, rng));

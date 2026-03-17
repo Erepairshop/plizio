@@ -207,6 +207,9 @@ export const ROMANIAN_VISUAL_TYPES: VisualQuestionType[] = [
       userAnswer,
       submitted,
       onAnswer,
+      placeholder: "Atinge cuvintele…",
+      allUsedLabel: "Toate cuvintele puse",
+      correctLabel: "Corect:",
     }),
   },
 

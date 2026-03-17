@@ -638,20 +638,34 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
       ptr[sid] = (start + 3) % Math.max(pool.length, 1);
     }
 
-    // Append visual groups at end: collect 1 visual Q per topic (shuffled), group 3-by-3
+    // Append visual groups at end: group ALL visual questions by type, then batch 3-by-3
+    // This ensures each block of 3 sub-questions is homogeneous (same exercise type)
     // Max 2 visual groups (6 questions) to keep test length reasonable
-    const visualCollected: TestQuestion[] = [];
-    const shuffledIdsForVisual = [...ids].sort(() => Math.random() - 0.5);
-    for (const sid of shuffledIdsForVisual) {
-      const vPool = visualPools[sid] ?? [];
-      if (vPool.length > 0) {
-        visualCollected.push({ ...vPool[0] });
-        if (visualCollected.length >= 6) break;
+    const visualByType: Record<string, TestQuestion[]> = {};
+    for (const sid of ids) {
+      for (const q of (visualPools[sid] ?? [])) {
+        if (!visualByType[q.type]) visualByType[q.type] = [];
+        visualByType[q.type].push(q);
       }
     }
-    // Group into batches of exactly 3
-    for (let i = 0; i + 2 < visualCollected.length; i += 3) {
-      allQs.push(...visualCollected.slice(i, i + 3));
+    let visualGroupsAdded = 0;
+    for (const typeQs of Object.values(visualByType)) {
+      if (visualGroupsAdded >= 2) break;
+      // Shuffle, deduplicate by question text, pick 3
+      const shuffled = [...typeQs].sort(() => Math.random() - 0.5);
+      const seen2 = new Set<string>();
+      const unique = shuffled.filter(q => {
+        const k = q.question.slice(0, 60);
+        if (seen2.has(k)) return false;
+        seen2.add(k);
+        return true;
+      });
+      // Pad to 3 if needed (repeat last item)
+      while (unique.length > 0 && unique.length < 3) unique.push({ ...unique[unique.length - 1] });
+      if (unique.length >= 3) {
+        allQs.push(...unique.slice(0, 3));
+        visualGroupsAdded++;
+      }
     }
 
     if (withLesetest) {
