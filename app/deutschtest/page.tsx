@@ -47,20 +47,22 @@ import EpochenZeitstrahl from "@/components/deutsch-visual/EpochenZeitstrahl";
 import { genGenusSortierung, genSatzOrdnen, genBildBeschriften, genFehlerFinden, genWortfamilienBaum, genGeschichteSortieren, genWortartenSortieren, genZeitformenZuordnen, genSatzgliedMarkieren, genKasusMarkieren, genAdjektivEndungen, genLueckenText, genSatzgefuge, genEpochenZeitstrahl } from "@/lib/deutschVisualGenerators";
 import { playCorrect, playIncorrect, playClick } from "@/lib/soundEffects";
 import { generateDeutschTestPdf } from "@/lib/generateDeutschTestPdf";
+import type { LanguageTestEngineConfig, VisualQuestionType } from "@/lib/languageTestTypes";
 
 // ─── TTS HELPER ──────────────────────────────────────────────────────────────
-function speakText(text: string) {
+function speakText(text: string, ttsLang = "de-DE", ttsRate = 0.88, ttsPitch = 1.1) {
   if (typeof window === "undefined" || !window.speechSynthesis) return;
   window.speechSynthesis.cancel();
 
   const doSpeak = () => {
     const utt = new SpeechSynthesisUtterance(text);
-    utt.lang = "de-DE";
-    utt.rate = 0.88;
-    utt.pitch = 1.1;
-    // Explicit German voice selection — Chrome desktop needs this
+    utt.lang = ttsLang;
+    utt.rate = ttsRate;
+    utt.pitch = ttsPitch;
+    // Explicit voice selection — Chrome desktop needs this
     const voices = window.speechSynthesis.getVoices();
-    const deVoice = voices.find(v => v.lang.startsWith("de")) ?? voices[0];
+    const langPrefix = ttsLang.split("-")[0];
+    const deVoice = voices.find(v => v.lang.startsWith(langPrefix)) ?? voices[0];
     if (deVoice) utt.voice = deVoice;
     window.speechSynthesis.speak(utt);
   };
@@ -75,22 +77,22 @@ function speakText(text: string) {
   }
 }
 
-// ─── DEUTSCH FLOATING BACKGROUND ─────────────────────────────────────────────
+// ─── FLOATING BACKGROUND ─────────────────────────────────────────────────────
 
 const DE_CHARS = ["A","B","C","Ä","Ö","Ü","ß","!","?",",",".",";","Z","W","R","S","T"];
 const DE_COLORS = ["#FFD700","#FF4444","#00D4FF","#FFFFFF","#B44DFF"];
 
-function DeutschBackground() {
+function LanguageBackground({ chars = DE_CHARS, colors = DE_COLORS }: { chars?: string[]; colors?: string[] }) {
   const items = useMemo(() => Array.from({ length: 28 }, (_, i) => ({
-    char: DE_CHARS[i % DE_CHARS.length],
+    char: chars[i % chars.length],
     x: Math.random() * 100,
     y: Math.random() * 100,
     size: 16 + Math.random() * 48,
     duration: 8 + Math.random() * 16,
     delay: Math.random() * 8,
-    color: DE_COLORS[Math.floor(Math.random() * DE_COLORS.length)],
+    color: colors[Math.floor(Math.random() * colors.length)],
     opacity: 0.04 + Math.random() * 0.10,
-  })), []);
+  })), [chars, colors]);
   return (
     <div className="absolute inset-0 overflow-hidden pointer-events-none">
       {items.map((it, i) => (
@@ -204,14 +206,17 @@ function useAvatarProps() {
 
 // ─── HAUPTKOMPONENTE ──────────────────────────────────────────────────────────
 
-export default function DeutschTestPage() {
+function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
   const avatarProps = useAvatarProps();
+  const { labels } = config;
+  const g1Icons = config.g1Icons ?? G1_ICONS;
+  const g1WordLabels = config.g1WordLabels ?? G1_WORD_LABELS;
   // Check if country was already selected (persisted)
   const savedCountry = typeof window !== "undefined"
-    ? (localStorage.getItem("deutschtest_country") as DeutschCountry | null)
+    ? localStorage.getItem(config.storageKey)
     : null;
   const [screen, setScreen] = useState<Screen>(savedCountry ? "grade" : "country");
-  const [country, setCountry] = useState<DeutschCountry>(savedCountry ?? "DE");
+  const [country, setCountry] = useState<string>(savedCountry ?? config.countries[0]?.code ?? "DE");
   const [grade, setGrade] = useState(1);
   const [selectedIds, setSelectedIds] = useState<string[]>([]);
   const [includeLesetest, setIncludeLesetest] = useState(false);
@@ -224,17 +229,46 @@ export default function DeutschTestPage() {
   const [dateStr, setDateStr] = useState("");
 
   useEffect(() => {
-    setDateStr(new Date().toLocaleDateString("de-DE", { weekday: "long", year: "numeric", month: "long", day: "numeric" }));
+    setDateStr(new Date().toLocaleDateString(config.dateLocale, { weekday: "long", year: "numeric", month: "long", day: "numeric" }));
   }, []);
 
-  const themes: DeutschTheme[] = DEUTSCH_CURRICULUM[grade] ?? [];
+  const themes = (config.curriculum[grade] ?? []) as DeutschTheme[];
   const totalQ = questions.length;
   const answeredCount = Object.keys(paperAnswers).length;
+
+  // ─── CONFIG VISUAL TYPES (pluggable per-language visual components) ────────
+  const configVisualMap = useMemo(() => {
+    const map = new Map<string, VisualQuestionType>();
+    for (const vt of config.visualTypes ?? []) map.set(vt.type, vt);
+    return map;
+  }, [config.visualTypes]);
+  const configVisualSubtopicMap = useMemo(() => {
+    const map = new Map<string, VisualQuestionType[]>();
+    for (const vt of config.visualTypes ?? []) {
+      for (const sid of vt.subtopicIds) {
+        if (!map.has(sid)) map.set(sid, []);
+        map.get(sid)!.push(vt);
+      }
+    }
+    return map;
+  }, [config.visualTypes]);
 
   // ─── FRAGEN AUFBAUEN ────────────────────────────────────────────────────────
 
   // Helper: generate visual TestQuestions for K2 visual subtopics
   function buildVisualForSubtopic(g: number, sid: string, count: number): TestQuestion[] {
+    // Check config visual types first (for Romanian, English, etc.)
+    const configVTs = configVisualSubtopicMap.get(sid);
+    if (configVTs && configVTs.length > 0) {
+      const qs: TestQuestion[] = [];
+      for (const vt of configVTs) {
+        const generated = vt.generate(Math.ceil(count / configVTs.length));
+        for (const item of generated) {
+          qs.push({ ...item, type: vt.type as TestQuestion["type"], subtopic: sid });
+        }
+      }
+      return qs.slice(0, count);
+    }
     if (g !== 2 && g !== 3 && g !== 4 && g !== 5 && g !== 8) return [];
     const fShuffle = <T,>(arr: T[]): T[] => {
       const a = [...arr];
@@ -556,8 +590,8 @@ export default function DeutschTestPage() {
     const pools: Record<string, TestQuestion[]> = {};
     for (const sid of ids) {
       const combined = [
-        ...getDeutschQuestions(g, [sid], 20),
-        ...generateForSubtopics([sid], 12),
+        ...config.getQuestions(g, [sid], 20),
+        ...(config.generateForSubtopics ? config.generateForSubtopics([sid], 12) : []),
         ...buildVisualForSubtopic(g, sid, 6),
       ];
       for (let i = combined.length - 1; i > 0; i--) {
@@ -583,6 +617,7 @@ export default function DeutschTestPage() {
       "genus-sort","satz-ordnen","bild-beschriften","fehler-finden",
       "wortfamilien-baum","geschichte-sortieren","wortarten-sortieren",
       "zeitformen-zuordnen","satzglied-markieren","kasus-markieren","adjektiv-endungen",
+      ...(config.visualTypes ?? []).map(vt => vt.type),
     ]);
     const visualPools: Record<string, TestQuestion[]> = {};
     const regularPools: Record<string, TestQuestion[]> = {};
@@ -620,7 +655,7 @@ export default function DeutschTestPage() {
     }
 
     if (withLesetest) {
-      const passage = getRandomPassage(g);
+      const passage = config.getReadingPassage ? config.getReadingPassage(g) : null;
       if (passage) {
         const leseQs: TestQuestion[] = passage.questions.slice(0, 3).map((lq) => ({
           ...lq,
@@ -659,7 +694,7 @@ export default function DeutschTestPage() {
         const givenIdx = parseInt(given);
         isCorrect = !isNaN(givenIdx) && givenIdx === q.correct;
         if (q.type === "bild-wort") {
-          expected = G1_WORD_LABELS[q.options?.[q.correct ?? 0] ?? ""] ?? q.options?.[q.correct ?? 0] ?? "";
+          expected = g1WordLabels[q.options?.[q.correct ?? 0] ?? ""] ?? q.options?.[q.correct ?? 0] ?? "";
         } else {
           expected = q.options?.[q.correct ?? 0] ?? "";
         }
@@ -707,8 +742,13 @@ export default function DeutschTestPage() {
       } else if (q.type === "epochen-zeitstrahl") {
         isCorrect = parseInt(given) === (q.epochenCorrect ?? -1);
         expected = String(q.epochenCorrect ?? 0);
+      } else if (configVisualMap.has(q.type)) {
+        const vt = configVisualMap.get(q.type)!;
+        const result = vt.gradeAnswer(q, given);
+        isCorrect = result.correct;
+        expected = result.expected;
       } else {
-        isCorrect = checkAnswer(given, q.answer ?? "", grade);
+        isCorrect = (config.checkAnswer ?? checkAnswer)(given, q.answer ?? "", grade);
         expected = Array.isArray(q.answer) ? q.answer[0] : q.answer ?? "";
       }
       return { correct: isCorrect, given, expected };
@@ -738,8 +778,8 @@ export default function DeutschTestPage() {
     const rarity = calculateRarity(correct, total, 0, 85);
     const card = {
       id: generateCardId(),
-      game: "deutschtest",
-      theme: `Klasse ${grade}`,
+      game: config.gameId,
+      theme: `${labels.gradeFull} ${grade}`,
       rarity,
       score: correct,
       total,
@@ -780,7 +820,7 @@ export default function DeutschTestPage() {
 
   const scoreCount = answers.filter((a) => a.correct).length;
   const scorePct = answers.length > 0 ? Math.round((scoreCount / answers.length) * 100) : 0;
-  const mark = calculateDeutschMark(scorePct, country);
+  const mark = config.calculateMark(scorePct, country);
 
   // ─── DRUCK — leeres Arbeitsblatt ─────────────────────────────────────────────
 
@@ -799,6 +839,7 @@ export default function DeutschTestPage() {
     "luecken-text": "Lückentext ergänzen",
     "satzgefuge-diagram": "Satzgefüge analysieren",
     "epochen-zeitstrahl": "Epoche zuordnen",
+    ...Object.fromEntries((config.visualTypes ?? []).map(vt => [vt.type, vt.printLabel])),
   };
 
   const VISUAL_TYPES_PRINT = new Set(Object.keys(VISUAL_TYPE_LABELS_PRINT));
@@ -815,9 +856,9 @@ export default function DeutschTestPage() {
       // Section header every 3 questions
       if (qi % 3 === 0 && !q.passageText) {
         if (isVisualBlock) {
-          parts.push(`<div class="section-header visual-section">Aufgabe ${aufgabeNr} — ${VISUAL_TYPE_LABELS_PRINT[q.type] ?? "Interaktive Aufgabe"}</div>`);
+          parts.push(`<div class="section-header visual-section">${labels.task} ${aufgabeNr} — ${VISUAL_TYPE_LABELS_PRINT[q.type] ?? labels.interactiveTask}</div>`);
         } else {
-          parts.push(`<div class="section-header">Aufgabe ${aufgabeNr}</div>`);
+          parts.push(`<div class="section-header">${labels.task} ${aufgabeNr}</div>`);
         }
       }
 
@@ -875,11 +916,11 @@ export default function DeutschTestPage() {
           const words = q.words ?? [];
           const numbered = words.map((w, wi) => `<span class="numbered-word">(${wi + 1}) ${w}</span>`).join(" ");
           parts.push(`<div class="q-sentence">${numbered}</div>`);
-          parts.push(`<div class="answer-line-short"><span class="answer-label">Falsches Wort Nr.:</span> <span class="blank-line">______</span></div>`);
+          parts.push(`<div class="answer-line-short"><span class="answer-label">${labels.wrongWordNr ?? "Falsches Wort Nr.:"}</span> <span class="blank-line">______</span></div>`);
           break;
         }
         case "wortfamilien-baum": {
-          parts.push(`<div class="q-word">Stamm: <strong>${q.stamm ?? ""}</strong></div>`);
+          parts.push(`<div class="q-word">${labels.root ?? "Stamm:"} <strong>${q.stamm ?? ""}</strong></div>`);
           const opts = q.options ?? [];
           parts.push(`<div class="options">`);
           opts.forEach((opt) => {
@@ -985,10 +1026,10 @@ export default function DeutschTestPage() {
     const questionsHtml = questions.map((q, qi) => renderQuestionPrint(q, qi)).join("\n");
 
     const html = `<!DOCTYPE html>
-<html lang="de">
+<html lang="${config.ttsLang.split("-")[0]}">
 <head>
   <meta charset="UTF-8">
-  <title>Deutsch Test – Klasse ${grade}</title>
+  <title>${config.title} – ${labels.gradeFull} ${grade}</title>
   <style>
     @page { size: A4; margin: 1.5cm 1.8cm 1.5cm 2.2cm; }
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -1183,26 +1224,26 @@ export default function DeutschTestPage() {
   <div class="header">
     <div class="header-top">
       <div class="header-left">
-        <h1>DEUTSCH TEST</h1>
-        <span class="grade-badge">Klasse ${grade}</span>
+        <h1>${config.title}</h1>
+        <span class="grade-badge">${labels.gradeFull} ${grade}</span>
       </div>
       <div class="score-box">
-        <div class="score-label">Punkte</div>
+        <div class="score-label">${labels.points ?? "Punkte"}</div>
         <div class="score-value">&nbsp;&nbsp;&nbsp;&nbsp;</div>
-        <div class="score-total">/ ${totalQ} Pkt.</div>
+        <div class="score-total">/ ${totalQ} ${labels.pointsShort ?? "Pkt."}</div>
       </div>
     </div>
     <div class="fields">
       <div class="field">
-        <label>Name</label>
+        <label>${labels.name ?? "Name"}</label>
         <div class="line"></div>
       </div>
       <div class="field" style="max-width:120px">
-        <label>Klasse</label>
+        <label>${labels.gradeFull}</label>
         <div class="line"></div>
       </div>
       <div class="field" style="max-width:130px">
-        <label>Datum</label>
+        <label>${labels.date ?? "Datum"}</label>
         <div class="line" style="padding-top:4px; font-size:9pt; color:#374151;">${dateStr}</div>
       </div>
     </div>
@@ -1248,7 +1289,7 @@ export default function DeutschTestPage() {
             exit={{ opacity: 0, y: -20 }}
             className="relative min-h-screen flex flex-col items-center justify-center p-6 overflow-hidden"
           >
-            <DeutschBackground />
+            <LanguageBackground chars={config.bgChars} colors={config.bgColors} />
             <Link href="/" className="absolute top-5 left-5 z-10">
               <motion.div
                 className="p-2 rounded-xl bg-white/5 border border-white/10"
@@ -1277,20 +1318,16 @@ export default function DeutschTestPage() {
                 className="text-4xl font-black tracking-wider text-white"
                 style={{ textShadow: "0 0 20px rgba(0,212,255,0.4)" }}
               >
-                DEUTSCH TEST
+                {config.title}
               </h1>
-              <p className="text-white/50 text-sm">Wähle dein Land</p>
+              <p className="text-white/50 text-sm">{labels.selectCountry}</p>
             </motion.div>
 
             <motion.div
               className="relative z-10 flex flex-col gap-3 w-full max-w-xs"
               initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }}
             >
-              {([
-                { code: "DE", flag: "🇩🇪", label: "Deutschland", sub: "Note 1–6" },
-                { code: "AT", flag: "🇦🇹", label: "Österreich",  sub: "Note 1–5" },
-                { code: "CH", flag: "🇨🇭", label: "Schweiz",     sub: "Note 1–6 (6=best)" },
-              ] as { code: DeutschCountry; flag: string; label: string; sub: string }[]).map((c, i) => (
+              {config.countries.map((c, i) => (
                 <motion.button
                   key={c.code}
                   initial={{ opacity: 0, x: -20 }}
@@ -1300,7 +1337,7 @@ export default function DeutschTestPage() {
                   whileTap={{ scale: 0.97 }}
                   onClick={() => {
                     setCountry(c.code);
-                    localStorage.setItem("deutschtest_country", c.code);
+                    localStorage.setItem(config.storageKey, c.code);
                     setScreen("grade");
                   }}
                   className="flex items-center gap-4 px-5 py-4 rounded-2xl border transition-all text-left"
@@ -1337,7 +1374,7 @@ export default function DeutschTestPage() {
             exit={{ opacity: 0, y: -20 }}
             className="relative min-h-screen flex flex-col items-center justify-center p-6 overflow-hidden"
           >
-            <DeutschBackground />
+            <LanguageBackground chars={config.bgChars} colors={config.bgColors} />
             <motion.button
               onClick={() => setScreen("country")}
               className="absolute top-5 left-5 z-10 p-2 rounded-xl bg-white/5 border border-white/10"
@@ -1365,10 +1402,10 @@ export default function DeutschTestPage() {
                 className="text-4xl font-black tracking-wider text-white"
                 style={{ textShadow: "0 0 20px rgba(0,212,255,0.4)" }}
               >
-                DEUTSCH TEST
+                {config.title}
               </h1>
               <p className="text-white/50 text-sm">
-                {country === "DE" ? "🇩🇪" : country === "AT" ? "🇦🇹" : "🇨🇭"} Wähle deine Klassenstufe
+                {config.countries.find(cc => cc.code === country)?.flag ?? ""} {labels.selectGrade}
               </p>
             </motion.div>
 
@@ -1403,7 +1440,7 @@ export default function DeutschTestPage() {
                     (e.currentTarget as HTMLButtonElement).style.boxShadow = "0 0 0 0 rgba(0,212,255,0)";
                   }}
                 >
-                  <span className="text-xs text-white/40 font-semibold">Kl.</span>
+                  <span className="text-xs text-white/40 font-semibold">{labels.gradePrefix}</span>
                   <span className="text-2xl font-black text-[#00D4FF]">{g}</span>
                 </motion.button>
               ))}
@@ -1419,7 +1456,7 @@ export default function DeutschTestPage() {
             exit={{ opacity: 0, x: -30 }}
             className="relative min-h-screen flex flex-col p-4 pb-36 max-w-lg mx-auto overflow-hidden"
           >
-            <DeutschBackground />
+            <LanguageBackground chars={config.bgChars} colors={config.bgColors} />
 
             {/* Header */}
             <div className="relative z-10 flex items-center gap-3 pt-4 mb-1">
@@ -1436,15 +1473,15 @@ export default function DeutschTestPage() {
               >
                 <BookOpen size={18} className="text-[#00D4FF]" />
               </div>
-              <span className="font-black text-[#00D4FF] tracking-wide text-sm">DEUTSCH TEST</span>
+              <span className="font-black text-[#00D4FF] tracking-wide text-sm">{config.title}</span>
               <div className="ml-auto flex items-center gap-2">
                 {/* Small country picker */}
                 <select
                   value={country}
                   onChange={(e) => {
-                    const c = e.target.value as DeutschCountry;
+                    const c = e.target.value;
                     setCountry(c);
-                    localStorage.setItem("deutschtest_country", c);
+                    localStorage.setItem(config.storageKey, c);
                   }}
                   className="text-xs font-bold rounded-full px-2 py-1 border outline-none cursor-pointer"
                   style={{
@@ -1453,16 +1490,16 @@ export default function DeutschTestPage() {
                     color: "rgba(255,255,255,0.7)",
                   }}
                 >
-                  <option value="DE">🇩🇪 DE</option>
-                  <option value="AT">🇦🇹 AT</option>
-                  <option value="CH">🇨🇭 CH</option>
+                  {config.countries.map(cc => (
+                    <option key={cc.code} value={cc.code}>{cc.flag} {cc.code}</option>
+                  ))}
                 </select>
                 <span className="text-white/60 text-xs font-bold bg-[#00D4FF]/10 border border-[#00D4FF]/20 px-3 py-1 rounded-full">
-                  Kl. {grade}
+                  {labels.gradePrefix} {grade}
                 </span>
               </div>
             </div>
-            <p className="relative z-10 text-white/35 text-xs mb-4 ml-10">Themen für deinen Test auswählen</p>
+            <p className="relative z-10 text-white/35 text-xs mb-4 ml-10">{labels.selectTopics}</p>
 
             {/* Themes + Subtopics */}
             <div className="relative z-10 flex flex-col gap-2.5">
@@ -1507,7 +1544,7 @@ export default function DeutschTestPage() {
                             background: allSel ? `${theme.color}15` : "transparent",
                           }}
                         >
-                          {allSel ? "Alle ✓" : "Alle"}
+                          {allSel ? labels.allCheck : labels.all}
                         </button>
                       )}
                     </div>
@@ -1543,8 +1580,8 @@ export default function DeutschTestPage() {
                             </div>
                             <span className="flex-1">{sub.name}</span>
                             {empty
-                              ? <span className="text-[10px] text-white/20">bald</span>
-                              : <span className="text-[10px]" style={{ color: `${theme.color}80` }}>15 Fr.</span>
+                              ? <span className="text-[10px] text-white/20">{labels.soon}</span>
+                              : <span className="text-[10px]" style={{ color: `${theme.color}80` }}>15 {labels.questionsShort}</span>
                             }
                           </button>
                         );
@@ -1579,9 +1616,9 @@ export default function DeutschTestPage() {
                 </div>
                 <div className="flex-1">
                   <div className="font-bold text-sm" style={{ color: includeLesetest ? "#FFD700" : "rgba(255,215,0,0.7)" }}>
-                    📖 Lesetest
+                    {labels.readingTest ?? "📖 Lesetest"}
                   </div>
-                  <div className="text-[11px] text-white/35 mt-0.5">Text lesen & Fragen beantworten · 3 Fr.</div>
+                  <div className="text-[11px] text-white/35 mt-0.5">{labels.readingTestDesc ?? "Text lesen & Fragen beantworten · 3 Fr."}</div>
                 </div>
               </motion.button>
             </div>
@@ -1600,10 +1637,10 @@ export default function DeutschTestPage() {
                   boxShadow: selectedIds.length > 0 || includeLesetest ? "0 0 24px rgba(0,212,255,0.45)" : "none",
                 }}
               >
-                TEST STARTEN →
+                {labels.startTest}
                 {(selectedIds.length > 0 || includeLesetest) && (
                   <span className="font-normal text-sm ml-2 opacity-70">
-                    ({selectedIds.length + (includeLesetest ? 1 : 0)} Bereiche)
+                    ({selectedIds.length + (includeLesetest ? 1 : 0)} {labels.areas})
                   </span>
                 )}
               </motion.button>
@@ -1614,14 +1651,14 @@ export default function DeutschTestPage() {
         {/* ── TEST ──────────────────────────────────────────────────────────── */}
         {screen === "test" && questions.length > 0 && (
           <ModernPaperTest
-            title="Deutsch Test"
-            icon="✏️"
-            gradeLabel={`Klasse ${grade}`}
+            title={config.title}
+            icon={config.icon}
+            gradeLabel={`${labels.gradeFull} ${grade}`}
             date={dateStr}
             solved={answeredCount}
             total={totalQ}
             onExit={() => setScreen("topics")}
-            exitLabel="Zurück"
+            exitLabel={labels.back}
             userName={getUsername() || undefined}
             onPrint={handlePrintBlank}
           >
@@ -1642,6 +1679,7 @@ export default function DeutschTestPage() {
                   "wortfamilien-baum","geschichte-sortieren","wortarten-sortieren",
                   "zeitformen-zuordnen","satzglied-markieren","kasus-markieren","adjektiv-endungen",
                   "luecken-text","satzgefuge-diagram","epochen-zeitstrahl",
+                  ...(config.visualTypes ?? []).map(vt => vt.type),
                 ]);
                 const VISUAL_TYPE_LABELS: Record<string, string> = {
                   "genus-sort": "Artikel bestimmen 🔵",
@@ -1658,6 +1696,7 @@ export default function DeutschTestPage() {
                   "luecken-text": "Lückentext ergänzen ✏️",
                   "satzgefuge-diagram": "Satzgefüge analysieren 🔗",
                   "epochen-zeitstrahl": "Epoche zuordnen 📅",
+                  ...Object.fromEntries((config.visualTypes ?? []).map(vt => [vt.type, vt.label])),
                 };
                 const blockStart = Math.floor(qi / 3) * 3;
                 const blockQs = [questions[blockStart], questions[blockStart+1], questions[blockStart+2]].filter(Boolean);
@@ -1686,10 +1725,10 @@ export default function DeutschTestPage() {
                       isVisualBlock ? (
                         <div style={{ lineHeight: '28px' }} className="flex items-center gap-2 mt-1">
                           <span className="text-[10px] font-black uppercase tracking-widest bg-indigo-50 text-indigo-500 border border-indigo-200 rounded px-2 py-0.5 whitespace-nowrap">
-                            Aufgabe {aufgabeNr}
+                            {labels.task} {aufgabeNr}
                           </span>
                           <span className="text-xs font-bold text-indigo-600 whitespace-nowrap">
-                            {VISUAL_TYPE_LABELS[q.type] ?? "Interaktive Aufgabe"}
+                            {VISUAL_TYPE_LABELS[q.type] ?? labels.interactiveTask}
                           </span>
                           <span className="flex-1 border-t border-indigo-100" />
                         </div>
@@ -1697,7 +1736,7 @@ export default function DeutschTestPage() {
                         <div style={{ height: 28, lineHeight: '28px' }}
                           className="flex items-center gap-2">
                           <span className="text-[10px] font-black uppercase tracking-widest text-slate-400">
-                            Aufgabe {aufgabeNr}
+                            {labels.task} {aufgabeNr}
                           </span>
                           <span className="flex-1 border-t border-slate-100" />
                         </div>
@@ -1718,16 +1757,17 @@ export default function DeutschTestPage() {
                         type="button"
                         onClick={() => speakText(
                           q.type === "anlaut-bild"
-                            ? (G1_WORD_LABELS[q.question] ?? q.question)
+                            ? (g1WordLabels[q.question] ?? q.question)
                             : q.type === "genus-sort"
                               ? (q.word ?? q.question)
                               : q.type === "satz-ordnen"
                                 ? (Array.isArray(q.answer) ? q.answer[0] : q.answer ?? q.question)
-                                : q.question
+                                : q.question,
+                          config.ttsLang, config.ttsRate, config.ttsPitch
                         )}
                         className="shrink-0 w-6 h-6 flex items-center justify-center rounded-full bg-blue-50 hover:bg-blue-100 border border-blue-200 text-blue-400 transition-colors text-xs"
                         style={{ marginTop: 1 }}
-                        title="Vorlesen"
+                        title={labels.readAloud}
                         tabIndex={-1}
                       >🔊</button>
                       {/* Correction mark after submit */}
@@ -1782,12 +1822,12 @@ export default function DeutschTestPage() {
                     {q.type === "bild-wort" && q.options && (
                       <>
                       <div className="ml-7 flex items-center" style={{ height: 28 }}>
-                        <span className="text-xs text-slate-400 italic">🖼 Klicke auf das richtige Bild:</span>
+                        <span className="text-xs text-slate-400 italic">{labels.clickCorrectImage ?? "🖼 Klicke auf das richtige Bild:"}</span>
                       </div>
                       <div className="ml-7 py-1" style={{ height: 84 }}>
                         <div className="flex gap-2 h-full">
                           {q.options.map((imgKey, oi) => {
-                            const Icon = G1_ICONS[imgKey];
+                            const Icon = g1Icons[imgKey];
                             const isSelected = userAnswerRaw === String(oi);
                             const isRightAnswer = oi === q.correct;
                             let border = "border-slate-200 bg-white hover:border-blue-300 hover:bg-blue-50/30 cursor-pointer";
@@ -1812,7 +1852,7 @@ export default function DeutschTestPage() {
                                   <span className="text-xs text-slate-400">{imgKey}</span>
                                 )}
                                 <span className="text-[9px] font-semibold text-slate-400 mt-0.5">
-                                  {G1_WORD_LABELS[imgKey] ?? imgKey}
+                                  {g1WordLabels[imgKey] ?? imgKey}
                                 </span>
                               </button>
                             );
@@ -1824,11 +1864,11 @@ export default function DeutschTestPage() {
 
                     {/* Anlaut-Bild: show image → 4 letter buttons */}
                     {q.type === "anlaut-bild" && q.options && (() => {
-                      const Icon = G1_ICONS[q.question];
+                      const Icon = g1Icons[q.question];
                       return (
                         <>
                         <div className="ml-7 flex items-center" style={{ height: 28 }}>
-                          <span className="text-xs text-slate-400 italic">🔤 Mit welchem Buchstaben beginnt das Wort?</span>
+                          <span className="text-xs text-slate-400 italic">{labels.whichLetterStarts ?? "🔤 Mit welchem Buchstaben beginnt das Wort?"}</span>
                         </div>
                         <div className="ml-7" style={{ height: 84 }}>
                           <div className="flex items-center gap-3 h-full">
@@ -2065,6 +2105,16 @@ export default function DeutschTestPage() {
                       </div>
                     )}
 
+                    {/* Config visual types (pluggable per-language) */}
+                    {configVisualMap.has(q.type) && (() => {
+                      const vt = configVisualMap.get(q.type)!;
+                      const Comp = vt.component;
+                      const props = vt.mapProps(q, userAnswerRaw ?? "", submitted, (a: string) => {
+                        if (!submitted) { playClick(); setPaperAnswers(prev => ({ ...prev, [qi]: a })); }
+                      });
+                      return <div className="ml-7"><Comp {...props} /></div>;
+                    })()}
+
                     {/* Typing input — transparent, sits on a ruled line */}
                     {q.type === "typing" && (
                       <div style={{ height: 28, lineHeight: '28px' }}
@@ -2085,7 +2135,7 @@ export default function DeutschTestPage() {
                             onChange={(e) =>
                               setPaperAnswers((prev) => ({ ...prev, [qi]: e.target.value }))
                             }
-                            placeholder="Antwort..."
+                            placeholder={labels.answerPlaceholder}
                             className="flex-1 bg-transparent border-0 text-sm text-slate-800 outline-none placeholder:text-slate-300"
                             style={{ height: 28, lineHeight: '28px' }}
                           />
@@ -2115,11 +2165,12 @@ export default function DeutschTestPage() {
               >
                 <motion.button
                   onClick={handleAbgeben}
-                  className="px-10 py-3 rounded-lg font-black text-sm bg-slate-800 text-white shadow-xl hover:bg-slate-700 active:scale-95 transition-all"
-                  whileHover={{ scale: 1.04 }}
-                  whileTap={{ scale: 0.96 }}
+                  disabled={answeredCount < totalQ}
+                  className={`px-10 py-3 rounded-lg font-black text-sm shadow-xl active:scale-95 transition-all ${answeredCount < totalQ ? "bg-slate-600 text-white/40 cursor-not-allowed" : "bg-slate-800 text-white hover:bg-slate-700"}`}
+                  whileHover={answeredCount >= totalQ ? { scale: 1.04 } : {}}
+                  whileTap={answeredCount >= totalQ ? { scale: 0.96 } : {}}
                 >
-                  Abgeben ✓
+                  {answeredCount < totalQ ? `${labels.submit.replace(" ✓", "")} (${answeredCount}/${totalQ})` : labels.submit}
                 </motion.button>
               </motion.div>
             )}
@@ -2130,7 +2181,7 @@ export default function DeutschTestPage() {
         {screen === "reward" && earnedCard && (
           <RewardReveal
             rarity={earnedCard as "bronze" | "silver" | "gold" | "legendary"}
-            game="deutschtest"
+            game={config.gameId}
             score={answers.filter((a) => a.correct).length}
             total={answers.length}
             onDone={() => setScreen("result")}
@@ -2150,7 +2201,7 @@ export default function DeutschTestPage() {
               {/* Title */}
               <div className="flex items-center justify-center gap-2 mb-6">
                 <BookOpen size={24} className="text-[#00D4FF]" />
-                <span className="text-[#00D4FF] font-black tracking-wide">DEUTSCH TEST — Klasse {grade}</span>
+                <span className="text-[#00D4FF] font-black tracking-wide">{config.title} — {labels.gradeFull} {grade}</span>
               </div>
 
               {/* Mark */}
@@ -2165,18 +2216,18 @@ export default function DeutschTestPage() {
                   style={{ borderColor: mark.color, boxShadow: `0 0 30px ${mark.color}40` }}
                 >
                   <span className="text-4xl font-black" style={{ color: mark.color }}>{mark.note}</span>
-                  <span className="text-[10px] text-white/40 uppercase">Note</span>
+                  <span className="text-[10px] text-white/40 uppercase">{labels.markLabel}</span>
                 </div>
                 <p className="text-xl font-bold" style={{ color: mark.color }}>{mark.label}</p>
                 <p className="text-white/50 text-sm mt-1">
-                  {scoreCount} / {answers.length} richtig ({scorePct}%)
+                  {scoreCount} / {answers.length} {labels.correct} ({scorePct}%)
                 </p>
               </motion.div>
 
               {/* Answer Review */}
               <div className="bg-[#12122A] rounded-xl border border-white/10 overflow-hidden mb-6">
                 <div className="px-4 py-2.5 border-b border-white/5 text-xs text-white/40 font-bold uppercase tracking-wide">
-                  Auswertung
+                  {labels.review}
                 </div>
                 <div className="divide-y divide-white/5">
                   {questions.map((q, i) => {
@@ -2216,14 +2267,14 @@ export default function DeutschTestPage() {
                   onClick={restart}
                   className="flex-1 py-4 rounded-xl bg-[#00D4FF] text-black font-black flex items-center justify-center gap-2"
                 >
-                  <RotateCcw size={18} /> Nochmal
+                  <RotateCcw size={18} /> {labels.tryAgain}
                 </motion.button>
                 <Link
                   href="/"
                   className="flex-1 py-4 rounded-xl bg-white/10 text-white/70 font-bold
                              flex items-center justify-center gap-2 hover:bg-white/15 transition-all"
                 >
-                  <Home size={18} /> Hauptmenü
+                  <Home size={18} /> {labels.mainMenu}
                 </Link>
               </div>
 
@@ -2232,8 +2283,8 @@ export default function DeutschTestPage() {
                 onClick={() => {
                   const now = new Date();
                   const dateStr = `${now.getDate().toString().padStart(2, "0")}.${(now.getMonth() + 1).toString().padStart(2, "0")}.${now.getFullYear()}`;
-                  generateDeutschTestPdf({
-                    gradeLevel: `Klasse ${grade}`,
+                  (config.generatePdf ?? generateDeutschTestPdf)({
+                    gradeLevel: `${labels.gradeFull} ${grade}`,
                     date: dateStr,
                     questions: questions.map(q => ({ question: q.question, type: q.type })),
                     answers,
@@ -2252,7 +2303,7 @@ export default function DeutschTestPage() {
                 whileTap={{ scale: 0.97 }}
               >
                 <Download size={18} />
-                PDF
+                {labels.pdf}
               </motion.button>
             </div>
           </motion.div>
@@ -2261,4 +2312,80 @@ export default function DeutschTestPage() {
       </AnimatePresence>
     </div>
   );
+}
+
+// ─── GERMAN CONFIG ──────────────────────────────────────────────────────────
+
+const DEUTSCH_CONFIG: LanguageTestEngineConfig = {
+  gameId: "deutschtest",
+  title: "DEUTSCH TEST",
+  icon: "✏️",
+  color: "#00D4FF",
+  ttsLang: "de-DE",
+  ttsRate: 0.88,
+  ttsPitch: 1.1,
+  dateLocale: "de-DE",
+  storageKey: "deutschtest_country",
+  bgChars: DE_CHARS,
+  bgColors: DE_COLORS,
+  countries: [
+    { code: "DE", flag: "🇩🇪", label: "Deutschland", sub: "Note 1–6" },
+    { code: "AT", flag: "🇦🇹", label: "Österreich", sub: "Note 1–5" },
+    { code: "CH", flag: "🇨🇭", label: "Schweiz", sub: "Note 6–1" },
+  ],
+  calculateMark: (pct, country) => calculateDeutschMark(pct, country as DeutschCountry),
+  /* eslint-disable @typescript-eslint/no-explicit-any */
+  curriculum: DEUTSCH_CURRICULUM as any,
+  getQuestions: getDeutschQuestions as any,
+  generateForSubtopics: generateForSubtopics as any,
+  /* eslint-enable @typescript-eslint/no-explicit-any */
+  checkAnswer: checkAnswer,
+  getSubtopicHint: getSubtopicHint,
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  getReadingPassage: ((grade: number) => getRandomPassage(grade) ?? null) as any,
+  generatePdf: generateDeutschTestPdf,
+  g1Icons: G1_ICONS,
+  g1WordLabels: G1_WORD_LABELS,
+  labels: {
+    selectCountry: "Wähle dein Land",
+    selectGrade: "Wähle deine Klassenstufe",
+    gradePrefix: "Kl.",
+    gradeFull: "Klasse",
+    selectTopics: "Themen für deinen Test auswählen",
+    all: "Alle",
+    allCheck: "Alle ✓",
+    soon: "bald",
+    questionsShort: "Fr.",
+    startTest: "TEST STARTEN →",
+    areas: "Bereiche",
+    readingTest: "📖 Lesetest",
+    readingTestDesc: "Text lesen & Fragen beantworten · 3 Fr.",
+    task: "Aufgabe",
+    interactiveTask: "Interaktive Aufgabe",
+    readAloud: "Vorlesen",
+    clickCorrectImage: "🖼 Klicke auf das richtige Bild:",
+    whichLetterStarts: "🔤 Mit welchem Buchstaben beginnt das Wort?",
+    answerPlaceholder: "Antwort...",
+    submit: "Abgeben ✓",
+    back: "Zurück",
+    markLabel: "Note",
+    correct: "richtig",
+    review: "Auswertung",
+    tryAgain: "Nochmal",
+    mainMenu: "Hauptmenü",
+    pdf: "PDF",
+    points: "Punkte",
+    pointsShort: "Pkt.",
+    name: "Name",
+    date: "Datum",
+    wrongWordNr: "Falsches Wort Nr.:",
+    root: "Stamm:",
+  },
+};
+
+export { LanguageTestEngine };
+export type { LanguageTestEngineConfig };
+
+export default function DeutschTestPage() {
+  return <LanguageTestEngine config={DEUTSCH_CONFIG} />;
 }

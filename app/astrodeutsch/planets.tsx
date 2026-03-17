@@ -229,6 +229,36 @@ export function PlanetRhetorika({ size = 48 }: PP) {
   );
 }
 
+export function PlanetCosmara({ size = 48 }: PP) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 48 48" fill="none">
+      <defs>
+        <radialGradient id="pd8bg" cx="36%" cy="28%" r="65%">
+          <stop offset="0%" stopColor="#F5D0FE" />
+          <stop offset="50%" stopColor="#E879F9" />
+          <stop offset="100%" stopColor="#A21CAF" />
+        </radialGradient>
+      </defs>
+      <circle cx="24" cy="24" r="21" fill="url(#pd8bg)" />
+      {/* Crystal facets on surface */}
+      <polygon points="16,14 22,10 24,17" fill="white" opacity="0.13" />
+      <polygon points="26,20 34,18 30,25" fill="white" opacity="0.11" />
+      <polygon points="14,26 20,28 17,33" fill="white" opacity="0.09" />
+      {/* Glowing core veins */}
+      <path d="M14,22 Q18,20 22,23 Q26,26 30,24" stroke="#F0ABFC" strokeWidth="1.2" fill="none" opacity="0.35" />
+      <path d="M18,30 Q22,28 26,31 Q30,34 34,31" stroke="#F0ABFC" strokeWidth="1" fill="none" opacity="0.3" />
+      {/* Crystal sparkles */}
+      <circle cx="18" cy="16" r="1.8" fill="white" opacity="0.55" />
+      <circle cx="32" cy="20" r="1.3" fill="white" opacity="0.5" />
+      <circle cx="26" cy="34" r="1.1" fill="white" opacity="0.45" />
+      <circle cx="12" cy="28" r="0.9" fill="white" opacity="0.4" />
+      {/* Atmosphere glow */}
+      <ellipse cx="16" cy="14" rx="7" ry="5" fill="white" opacity="0.13" />
+      <circle cx="24" cy="24" r="21" fill="none" stroke="#F0ABFC" strokeWidth="2" opacity="0.22" />
+    </svg>
+  );
+}
+
 // ── Exports ───────────────────────────────────────────────────────────────────
 export const GRADE_PLANETS = [
   PlanetBuchstabia, // 1
@@ -238,11 +268,12 @@ export const GRADE_PLANETS = [
   PlanetSatzburg,   // 5
   PlanetStilonia,   // 6
   PlanetRhetorika,  // 7
+  PlanetCosmara,    // 8
 ];
 
 export const PLANET_NAMES: Record<string, string[]> = {
-  en: ["Buchstabia", "Wortania", "Grammatos", "Kasusheim", "Satzburg", "Stilonia", "Rhetorika"],
-  hu: ["Buchstabia", "Wortania", "Grammatos", "Kasusheim", "Satzburg", "Stilonia", "Rhetorika"],
-  de: ["Buchstabia", "Wortania", "Grammatos", "Kasusheim", "Satzburg", "Stilonia", "Rhetorika"],
-  ro: ["Buchstabia", "Wortania", "Grammatos", "Kasusheim", "Satzburg", "Stilonia", "Rhetorika"],
+  en: ["Buchstabia", "Wortania", "Grammatos", "Kasusheim", "Satzburg", "Stilonia", "Rhetorika", "Cosmara"],
+  hu: ["Buchstabia", "Wortania", "Grammatos", "Kasusheim", "Satzburg", "Stilonia", "Rhetorika", "Cosmara"],
+  de: ["Buchstabia", "Wortania", "Grammatos", "Kasusheim", "Satzburg", "Stilonia", "Rhetorika", "Cosmara"],
+  ro: ["Buchstabia", "Wortania", "Grammatos", "Kasusheim", "Satzburg", "Stilonia", "Rhetorika", "Cosmara"],
 };

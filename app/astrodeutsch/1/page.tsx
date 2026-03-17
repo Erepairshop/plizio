@@ -236,15 +236,9 @@ function IslandMapSVG({ progress, onIsland, onCheckpoint }: {
               <circle cx={island.svgX} cy={island.svgY} r={36}
                 fill="none" stroke="#FFD700" strokeWidth={1.5} opacity={0.5} strokeDasharray="5 3" />
             )}
-            <circle cx={island.svgX} cy={island.svgY} r={30}
-              fill={unlocked ? `${island.color}18` : "rgba(255,255,255,0.02)"}
-              stroke={unlocked ? `${island.color}50` : "rgba(255,255,255,0.06)"}
-              strokeWidth={1} opacity={unlocked ? 1 : 0.5} />
-            {unlocked && K1_ISLAND_SVGS[island.id] ? (
+            {unlocked ? (
               <foreignObject x={island.svgX - 30} y={island.svgY - 30} width={60} height={60}>
-                <div style={{ width: 60, height: 60 }}>
-                  {React.createElement(K1_ISLAND_SVGS[island.id], { size: 60 })}
-                </div>
+                {K1_ISLAND_SVGS[island.id] ? React.createElement(K1_ISLAND_SVGS[island.id], { size: 60 }) : <span style={{ fontSize: 20 }}>{island.icon}</span>}
               </foreignObject>
             ) : (
               <>

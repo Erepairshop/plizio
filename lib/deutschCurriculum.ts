@@ -15011,7 +15011,7 @@ export function getDeutschQuestions(
   return pool;
 }
 
-const K8_KONJUNKTIV = [
+const K8_KONJUNKTIV: DeutschTheme[] = [
   {
     id: "konjunktiv_k8",
     name: "Konjunktiv I & II (indirekte Rede)",
@@ -15348,7 +15348,7 @@ const K8_KONJUNKTIV = [
           { type: "mcq", topic: "stilmittel_k8", subtopic: "stilwirkung_k8", question: "Welche Wirkung hat Antithese?", options: ["Sie ist verwirrend", "Sie schafft Spannung durch Gegensatz, verdeutlicht Unterschiede", "Sie ist unbedeutend"], correct: 1 },
           { type: "typing", topic: "stilmittel_k8", subtopic: "stilwirkung_k8", question: "Wirkung von 'Angst und Hoffnung' nebeneinander → was entsteht?", answer: ["Spannung, Konflikt, innere Zerissenheit"] },
           { type: "mcq", topic: "stilmittel_k8", subtopic: "stilwirkung_k8", question: "Welche Wirkung hat Parallelismus?", options: ["Er ist langweilig", "Er schafft Rhythmus, Betonung durch Wiederholung, Gewicht", "Er ist falsch"], correct: 1 },
-          { type: "typing", topic: "stilmittel_k8", subtopic: "stilwirkung_k8", question: "Wirkung von 'Ich kam, ich sah, ich siegte' → Effekt?", options: ["Kraft, Entschlossenheit, Rhythmus"] },
+          { type: "typing", topic: "stilmittel_k8", subtopic: "stilwirkung_k8", question: "Wirkung von 'Ich kam, ich sah, ich siegte' → Effekt?", answer: ["Kraft, Entschlossenheit, Rhythmus"] },
           { type: "mcq", topic: "stilmittel_k8", subtopic: "stilwirkung_k8", question: "Stylmittel-Analyse-Frage: 'Welche Stimmung entsteht durch die Metapher?'", options: ["Nur subjektiv", "Die Stimmung lässt sich aus der Metapher ableiten"], correct: 1 },
           { type: "typing", topic: "stilmittel_k8", subtopic: "stilwirkung_k8", question: "Stylmittel-Analyse: 'Das Licht erstarrt' – Wirkung?", answer: ["Lähmung, Erstarrung, Kälte"] },
           { type: "mcq", topic: "stilmittel_k8", subtopic: "stilwirkung_k8", question: "Stylmittel-Analyse: 'Die Zeit frisst Steine' – Wirkung?", options: ["Verwirrung", "Macht der Zeit, Zerfall, Vergänglichkeit"], correct: 1 },
@@ -15435,7 +15435,7 @@ const K8_KONJUNKTIV = [
           { type: "mcq", topic: "inhaltsangabe_k8", subtopic: "inhaltsangabe_grundlagen_k8", question: "Längenverhältnis: Wenn die Geschichte 20 Seiten hat, sollte die Inhaltsangabe etwa sein:", options: ["2 Seiten", "0,5-1 Seite (ca. 5-10%)"], correct: 1 },
           { type: "typing", topic: "inhaltsangabe_k8", subtopic: "inhaltsangabe_grundlagen_k8", question: "Inhaltsangabe-Anfang (Beispiel): 'Der Roman ___ von [Autor] handelt von...'", answer: ["mit dem Titel", "..."] },
           { type: "mcq", topic: "inhaltsangabe_k8", subtopic: "inhaltsangabe_grundlagen_k8", question: "Was sind Nebenfiguren in der Inhaltsangabe?", options: ["Sollten immer erwähnt werden", "Nur wenn sie für die Handlung wichtig sind"], correct: 1 },
-          { type: "typing", topic: "inhaltsangabe_k8", subtopic: "inhaltsangabe_grundlagen_k8", question: "Inhaltsangabe-Fehler: 'Dann trägt der Held ein rotes Hemd.' – Wichtig?", options: ["Detailbeschreibung", "Nein, Nebensächliches (nicht wichtig für Handlung)"] },
+          { type: "typing", topic: "inhaltsangabe_k8", subtopic: "inhaltsangabe_grundlagen_k8", question: "Inhaltsangabe-Fehler: 'Dann trägt der Held ein rotes Hemd.' – Wichtig?", answer: ["Detailbeschreibung", "Nein, Nebensächliches (nicht wichtig für Handlung)"] },
           { type: "mcq", topic: "inhaltsangabe_k8", subtopic: "inhaltsangabe_grundlagen_k8", question: "'Der Held war sehr intelligent und schön.' – gehört dies in Inhaltsangabe?", options: ["Ja, immer", "Nur wenn relevant für die Handlung"], correct: 1 },
           { type: "typing", topic: "inhaltsangabe_k8", subtopic: "inhaltsangabe_grundlagen_k8", question: "Inhaltsangabe folgt dem ___ der Ereignisse, nicht der ___ des Erzählers", answer: ["zeitlichen Ablauf", "Erzählweise", "Reihenfolge"] },
           { type: "mcq", topic: "inhaltsangabe_k8", subtopic: "inhaltsangabe_grundlagen_k8", question: "'Im Rückblick erzählt der Autor...' – Sollte man dies erklären?", options: ["Nein, nur die chronologische Handlung", "Ja, wenn es für das Verständnis nötig ist"], correct: 1 },
@@ -15459,6 +15459,9 @@ const K8_KONJUNKTIV = [
     ],
   }
 ];
+
+// Merge K8_KONJUNKTIV into K8 curriculum (defined after DEUTSCH_CURRICULUM)
+DEUTSCH_CURRICULUM[8] = [...(DEUTSCH_CURRICULUM[8] ?? []), ...K8_KONJUNKTIV];
 
 // ─── BENOTUNG (deutsches System 1–6) ─────────────────────────────────────────
 

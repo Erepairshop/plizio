@@ -17,7 +17,7 @@ export interface DeutschPdfData {
   scoreCount: number;
   totalCount: number;
   percentage: number;
-  noteValue: number;      // 1-6
+  noteValue: number | string;  // 1-6 or "FB"/"B" etc.
   noteLabel: string;      // "Sehr gut"
   noteColor: string;      // hex color e.g. "#FFD700"
   studentName?: string;
