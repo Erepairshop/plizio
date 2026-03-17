@@ -1,7 +1,8 @@
 // ─── ROMANIAN TEST — LIMBA ROMÂNĂ CURRICULUM (Clasa I–VIII) ──────────────────
 // Procedural questions generated via romanianGenerators.ts
 
-import type { CurriculumTheme, CurriculumQuestion, GradeMark } from "./curriculumTypes";
+import type { CurriculumTheme, CurriculumQuestion } from "./curriculumTypes";
+import type { TestGradeMark } from "./languageTestTypes";
 import { C1_Generators } from "./romanianGenerators";
 
 // ─── TYPE ALIASES ────────────────────────────────────────────────────────────
@@ -341,11 +342,11 @@ export function getRomanianQuestions(
 
 // ─── ROMANIAN GRADING — Calificative (FB / B / S / I) ───────────────────────
 
-export function calculateRomanianGrade(pct: number, _countryCode = "RO"): GradeMark {
-  if (pct >= 90) return { label: "FB", description: "Foarte Bine",        color: "#FFD700", emoji: "🌟" };
-  if (pct >= 70) return { label: "B",  description: "Bine",               color: "#00FF88", emoji: "😊" };
-  if (pct >= 50) return { label: "S",  description: "Suficient",          color: "#FF6B00", emoji: "🙂" };
-  return              { label: "I",  description: "Insuficient",         color: "#FF4444", emoji: "😟" };
+export function calculateRomanianGrade(pct: number, _countryCode = "RO"): TestGradeMark {
+  if (pct >= 90) return { note: "FB", label: "Foarte Bine",    color: "#FFD700", emoji: "🌟" };
+  if (pct >= 70) return { note: "B",  label: "Bine",           color: "#00FF88", emoji: "😊" };
+  if (pct >= 50) return { note: "S",  label: "Suficient",      color: "#FF6B00", emoji: "🙂" };
+  return              { note: "I",  label: "Insuficient",     color: "#FF4444", emoji: "😟" };
 }
 
 // ─── SUBTOPIC HINTS (shown after wrong answer) ──────────────────────────────
