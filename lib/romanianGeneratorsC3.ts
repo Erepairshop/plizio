@@ -131,6 +131,16 @@ const VERB_CONJUG = [
   { inf: "a lucra", eu: "lucrez", tu: "lucrezi", el: "lucrează", noi: "lucrăm", voi: "lucrați", ei: "lucrează" },
   { inf: "a dormi", eu: "dorm", tu: "dormi", el: "doarme", noi: "dormim", voi: "dormiți", ei: "dorm" },
   { inf: "a învăța", eu: "învăț", tu: "înveți", el: "învață", noi: "învățăm", voi: "învățați", ei: "învață" },
+  { inf: "a ajuta", eu: "ajut", tu: "ajuți", el: "ajută", noi: "ajutăm", voi: "ajutați", ei: "ajută" },
+  { inf: "a iubi", eu: "iubesc", tu: "iubești", el: "iubește", noi: "iubim", voi: "iubiți", ei: "iubesc" },
+  { inf: "a plânge", eu: "plâng", tu: "plângi", el: "plânge", noi: "plângem", voi: "plângeți", ei: "plâng" },
+  { inf: "a vedea", eu: "văd", tu: "vezi", el: "vede", noi: "vedem", voi: "vedeți", ei: "văd" },
+  { inf: "a veni", eu: "vin", tu: "vii", el: "vine", noi: "venim", voi: "veniți", ei: "vin" },
+  { inf: "a da", eu: "dau", tu: "dai", el: "dă", noi: "dăm", voi: "dați", ei: "dau" },
+  { inf: "a lua", eu: "iau", tu: "iei", el: "ia", noi: "luăm", voi: "luați", ei: "iau" },
+  { inf: "a ști", eu: "știu", tu: "știi", el: "știe", noi: "știm", voi: "știți", ei: "știu" },
+  { inf: "a fi", eu: "sunt", tu: "ești", el: "este", noi: "suntem", voi: "sunteți", ei: "sunt" },
+  { inf: "a construi", eu: "construiesc", tu: "construiești", el: "construiește", noi: "construim", voi: "construiți", ei: "construiesc" },
 ];
 
 const VERB_TIMP = [
@@ -144,6 +154,16 @@ const VERB_TIMP = [
   { verb: "alerga", prezent: "aleargă", trecut: "a alergat", viitor: "va alerga" },
   { verb: "învăța", prezent: "învață", trecut: "a învățat", viitor: "va învăța" },
   { verb: "lucra", prezent: "lucrează", trecut: "a lucrat", viitor: "va lucra" },
+  { verb: "ajuta", prezent: "ajută", trecut: "a ajutat", viitor: "va ajuta" },
+  { verb: "plânge", prezent: "plânge", trecut: "a plâns", viitor: "va plânge" },
+  { verb: "veni", prezent: "vine", trecut: "a venit", viitor: "va veni" },
+  { verb: "vedea", prezent: "vede", trecut: "a văzut", viitor: "va vedea" },
+  { verb: "da", prezent: "dă", trecut: "a dat", viitor: "va da" },
+  { verb: "lua", prezent: "ia", trecut: "a luat", viitor: "va lua" },
+  { verb: "construi", prezent: "construiește", trecut: "a construit", viitor: "va construi" },
+  { verb: "desena", prezent: "desenează", trecut: "a desenat", viitor: "va desena" },
+  { verb: "găsi", prezent: "găsește", trecut: "a găsit", viitor: "va găsi" },
+  { verb: "juca", prezent: "joacă", trecut: "a jucat", viitor: "va juca" },
 ];
 
 const ADJ_ACORD = [
@@ -157,6 +177,21 @@ const ADJ_ACORD = [
   { adj_m: "roșu", adj_f: "roșie", adj_pl: "roșii", subst_m: "măr", subst_f: "floare" },
   { adj_m: "verde", adj_f: "verde", adj_pl: "verzi", subst_m: "copac", subst_f: "frunză" },
   { adj_m: "albastru", adj_f: "albastră", adj_pl: "albaștri/albastre", subst_m: "cer", subst_f: "mare" },
+  { adj_m: "harnic", adj_f: "harnică", adj_pl: "harnici/harnice", subst_m: "elev", subst_f: "elevă" },
+  { adj_m: "curajos", adj_f: "curajoasă", adj_pl: "curajoși/curajoase", subst_m: "soldat", subst_f: "fată" },
+  { adj_m: "leneș", adj_f: "leneșă", adj_pl: "leneși/leneșe", subst_m: "băiat", subst_f: "pisică" },
+  { adj_m: "trist", adj_f: "tristă", adj_pl: "triști/triste", subst_m: "om", subst_f: "femeie" },
+  { adj_m: "vesel", adj_f: "veselă", adj_pl: "veseli/vesele", subst_m: "copil", subst_f: "fetiță" },
+  { adj_m: "cald", adj_f: "caldă", adj_pl: "calzi/calde", subst_m: "vânt", subst_f: "zi" },
+  { adj_m: "rece", adj_f: "rece", adj_pl: "reci", subst_m: "ger", subst_f: "apă" },
+  { adj_m: "lung", adj_f: "lungă", adj_pl: "lungi", subst_m: "drum", subst_f: "coadă" },
+  { adj_m: "scurt", adj_f: "scurtă", adj_pl: "scurți/scurte", subst_m: "creion", subst_f: "fustă" },
+  { adj_m: "greu", adj_f: "grea", adj_pl: "grei/grele", subst_m: "sac", subst_f: "problemă" },
+  { adj_m: "ușor", adj_f: "ușoară", adj_pl: "ușori/ușoare", subst_m: "ghiozdan", subst_f: "sarcină" },
+  { adj_m: "dulce", adj_f: "dulce", adj_pl: "dulci", subst_m: "pepene", subst_f: "prăjitură" },
+  { adj_m: "amar", adj_f: "amară", adj_pl: "amari/amare", subst_m: "medicament", subst_f: "ciocolată" },
+  { adj_m: "negru", adj_f: "neagră", adj_pl: "negri/negre", subst_m: "cal", subst_f: "pisică" },
+  { adj_m: "alb", adj_f: "albă", adj_pl: "albi/albe", subst_m: "zăpadă", subst_f: "coală" },
 ];
 
 const PROPOZITIE_DEZV = [
@@ -166,31 +201,87 @@ const PROPOZITIE_DEZV = [
 ];
 
 const SINONIME_C3 = [
-  { word: "a vorbi", syn: "a spune" }, { word: "frumos", syn: "drăguț" },
-  { word: "repede", syn: "iute" }, { word: "a merge", syn: "a umbla" },
-  { word: "bucuros", syn: "fericit" }, { word: "a privi", syn: "a se uita" },
-  { word: "a ajuta", syn: "a sprijini" }, { word: "mare", syn: "uriaș" },
-  { word: "tristă", syn: "melancolică" }, { word: "a termina", syn: "a sfârși" },
-  { word: "a începe", syn: "a porni" }, { word: "harnic", syn: "silitor" },
+  { word: "a vorbi", syn: "a spune", alts: ["a tăcea", "a asculta", "a citi", "a scrie", "a privi", "a fugi"] },
+  { word: "frumos", syn: "drăguț", alts: ["urât", "mic", "vechi", "rece", "rapid", "slab"] },
+  { word: "repede", syn: "iute", alts: ["lent", "greu", "ușor", "tare", "departe", "înalt"] },
+  { word: "a merge", syn: "a umbla", alts: ["a sta", "a dormi", "a fugi", "a zbura", "a cânta", "a urca"] },
+  { word: "bucuros", syn: "fericit", alts: ["trist", "obosit", "speriat", "supărat", "bolnav", "înfometat"] },
+  { word: "a privi", syn: "a se uita", alts: ["a asculta", "a vorbi", "a mirosi", "a gusta", "a pipăi", "a cânta"] },
+  { word: "a ajuta", syn: "a sprijini", alts: ["a supăra", "a ignora", "a uita", "a plânge", "a alerga", "a strica"] },
+  { word: "mare", syn: "uriaș", alts: ["mic", "scund", "îngust", "subțire", "slab", "ușor"] },
+  { word: "tristă", syn: "melancolică", alts: ["veselă", "frumoasă", "rapidă", "înaltă", "zgomotoasă", "curioasă"] },
+  { word: "a termina", syn: "a sfârși", alts: ["a începe", "a continua", "a repeta", "a uita", "a schimba", "a pierde"] },
+  { word: "a începe", syn: "a porni", alts: ["a termina", "a opri", "a adormit", "a uita", "a pierde", "a ascunde"] },
+  { word: "harnic", syn: "silitor", alts: ["leneș", "obraznic", "zgomotos", "timid", "gălăgios", "nepăsător"] },
+  { word: "a striga", syn: "a țipa", alts: ["a șopti", "a cânta", "a fluiera", "a tăcea", "a răspunde", "a plânge"] },
+  { word: "a sări", syn: "a țopăi", alts: ["a sta", "a dormi", "a cădea", "a târî", "a înota", "a zbura"] },
+  { word: "a găsi", syn: "a descoperi", alts: ["a pierde", "a ascunde", "a uita", "a rupe", "a strica", "a cumpăra"] },
+  { word: "curajos", syn: "viteaz", alts: ["fricos", "timid", "slab", "leneș", "trist", "bolnav"] },
+  { word: "a plânge", syn: "a lăcrima", alts: ["a râde", "a cânta", "a dansa", "a alerga", "a dormi", "a mânca"] },
+  { word: "mic", syn: "mărunt", alts: ["mare", "înalt", "gros", "greu", "lung", "lat"] },
+  { word: "a se odihni", syn: "a se relaxa", alts: ["a munci", "a alerga", "a construi", "a studia", "a cânta", "a plânge"] },
+  { word: "a tăcea", syn: "a se liniști", alts: ["a striga", "a cânta", "a vorbi", "a fluiera", "a râde", "a plânge"] },
+  { word: "a cumpăra", syn: "a achiziționa", alts: ["a vinde", "a dărui", "a pierde", "a strica", "a folosi", "a împrumuta"] },
+  { word: "frumos", syn: "plăcut", alts: ["urât", "jalnic", "respingător", "supărător", "greoi", "tern"] },
+  { word: "a construi", syn: "a ridica", alts: ["a dărâma", "a vopsi", "a cumpăra", "a vinde", "a sparge", "a fura"] },
+  { word: "luminos", syn: "strălucitor", alts: ["întunecat", "cețos", "noros", "rece", "umed", "mohorât"] },
+  { word: "a alerga", syn: "a fugi", alts: ["a merge", "a sta", "a dormi", "a citi", "a scrie", "a cânta"] },
+  { word: "înțelept", syn: "priceput", alts: ["prost", "leneș", "zgomotos", "fricos", "nesăbuit", "naiv"] },
+  { word: "a aduce", syn: "a duce", alts: ["a lua", "a arunca", "a sparge", "a uita", "a pierde", "a ascunde"] },
+  { word: "liniștit", syn: "calm", alts: ["zgomotos", "nervos", "agitat", "speriat", "furios", "obraznic"] },
+  { word: "a urca", syn: "a se sui", alts: ["a coborî", "a cădea", "a alerga", "a înota", "a zbura", "a cânta"] },
+  { word: "vechi", syn: "bătrân", alts: ["nou", "tânăr", "proaspăt", "modern", "recent", "curat"] },
 ];
 
 const ANTONIME_C3 = [
-  { word: "vesel", ant: "trist" }, { word: "înalt", ant: "scund" },
-  { word: "curat", ant: "murdar" }, { word: "rapid", ant: "lent" },
-  { word: "a urca", ant: "a coborî" }, { word: "a deschide", ant: "a închide" },
-  { word: "ziua", ant: "noaptea" }, { word: "vara", ant: "iarna" },
-  { word: "bogat", ant: "sărac" }, { word: "voinic", ant: "slab" },
-  { word: "curajos", ant: "fricos" }, { word: "zgomotos", ant: "liniștit" },
+  { word: "vesel", ant: "trist", alts: ["obosit", "curios", "harnic", "frumos", "rapid", "înalt"] },
+  { word: "înalt", ant: "scund", alts: ["gras", "subțire", "frumos", "harnic", "rapid", "puternic"] },
+  { word: "curat", ant: "murdar", alts: ["vechi", "mic", "greu", "rece", "umed", "moale"] },
+  { word: "rapid", ant: "lent", alts: ["greu", "scurt", "mic", "slab", "rece", "întunecat"] },
+  { word: "a urca", ant: "a coborî", alts: ["a cădea", "a zbura", "a alerga", "a sta", "a dormi", "a cânta"] },
+  { word: "a deschide", ant: "a închide", alts: ["a sparge", "a pierde", "a strica", "a vopsi", "a muta", "a folosi"] },
+  { word: "ziua", ant: "noaptea", alts: ["dimineața", "seara", "săptămâna", "luna", "toamna", "vara"] },
+  { word: "vara", ant: "iarna", alts: ["toamna", "dimineața", "noaptea", "seara", "ziua", "primăvara"] },
+  { word: "bogat", ant: "sărac", alts: ["harnic", "leneș", "trist", "bolnav", "tânăr", "slab"] },
+  { word: "voinic", ant: "slab", alts: ["înalt", "gras", "frumos", "trist", "curios", "fericit"] },
+  { word: "curajos", ant: "fricos", alts: ["leneș", "trist", "obosit", "zgomotos", "bolnav", "înfometat"] },
+  { word: "zgomotos", ant: "liniștit", alts: ["curat", "frumos", "rapid", "mare", "vechi", "greu"] },
+  { word: "a iubi", ant: "a urî", alts: ["a uita", "a pierde", "a cânta", "a pleca", "a veni", "a sta"] },
+  { word: "cald", ant: "rece", alts: ["umed", "uscat", "greu", "moale", "neted", "lucios"] },
+  { word: "a câștiga", ant: "a pierde", alts: ["a lua", "a da", "a pune", "a rupe", "a strica", "a termina"] },
+  { word: "frumos", ant: "urât", alts: ["mic", "slab", "rece", "vechi", "greu", "îngust"] },
+  { word: "a plânge", ant: "a râde", alts: ["a cânta", "a dansa", "a alerga", "a dormi", "a scrie", "a vorbi"] },
+  { word: "nou", ant: "vechi", alts: ["mic", "greu", "moale", "rece", "scurt", "îngust"] },
+  { word: "a veni", ant: "a pleca", alts: ["a sta", "a dormi", "a cânta", "a citi", "a scrie", "a mânca"] },
+  { word: "luminos", ant: "întunecat", alts: ["rece", "moale", "umed", "greu", "mic", "lent"] },
+  { word: "a da", ant: "a lua", alts: ["a cumpăra", "a vinde", "a pune", "a strica", "a folosi", "a rupe"] },
+  { word: "devreme", ant: "târziu", alts: ["repede", "greu", "rar", "mult", "puțin", "aproape"] },
+  { word: "mult", ant: "puțin", alts: ["greu", "mare", "înalt", "rapid", "moale", "cald"] },
+  { word: "aproape", ant: "departe", alts: ["sus", "jos", "devreme", "târziu", "înainte", "înapoi"] },
+  { word: "a construi", ant: "a dărâma", alts: ["a vopsi", "a curăța", "a vinde", "a cumpăra", "a repara", "a măsura"] },
+  { word: "a adormi", ant: "a se trezi", alts: ["a cânta", "a alerga", "a mânca", "a vorbi", "a citi", "a desena"] },
+  { word: "blând", ant: "aspru", alts: ["vesel", "harnic", "rapid", "mic", "cald", "frumos"] },
+  { word: "a găsi", ant: "a pierde", alts: ["a cumpăra", "a vinde", "a rupe", "a strica", "a folosi", "a uita"] },
+  { word: "ușor", ant: "greu", alts: ["mic", "scurt", "îngust", "rece", "vechi", "lent"] },
+  { word: "înainte", ant: "înapoi", alts: ["sus", "jos", "aproape", "departe", "devreme", "târziu"] },
 ];
 
 const FAMILIA_CUVIN = [
-  { radacina: "floare", familie: ["florar", "înflorit", "florărie", "floricică", "floral"] },
-  { radacina: "casă", familie: ["căsuță", "casnic", "acasă", "căsoaie", "casier"] },
-  { radacina: "copac", familie: ["copăcel", "împăduri", "pădurar", "pădure", "copăciș"] },
-  { radacina: "apă", familie: ["apă", "apos", "adăpa", "băltoacă", "aducere apă"] },
-  { radacina: "carte", familie: ["cărticică", "cărturar", "librărie", "cărți", "livresc"] },
-  { radacina: "soare", familie: ["însorit", "solar", "răsărit", "soricică", "însorire"] },
-  { radacina: "muncă", familie: ["muncitor", "a munci", "muncitoresc", "harnic", "laboriozitate"] },
+  { radacina: "floare", familie: ["florar", "înflorit", "florărie", "floricică", "floral", "înflori", "floricel"] },
+  { radacina: "casă", familie: ["căsuță", "casnic", "acasă", "căsoaie", "casier", "gospodărie", "cămin"] },
+  { radacina: "copac", familie: ["copăcel", "copăciș", "copacii", "copăcei", "copacul"] },
+  { radacina: "apă", familie: ["apos", "adăpa", "adăpost", "apătos", "udat", "ploios", "adăpare"] },
+  { radacina: "carte", familie: ["cărticică", "cărturar", "cărți", "lectura", "cititor", "librărie"] },
+  { radacina: "soare", familie: ["însorit", "solar", "răsărit", "însorire", "solariu", "luminos"] },
+  { radacina: "muncă", familie: ["muncitor", "a munci", "muncitoresc", "muncit", "muncăgioasă", "truditor"] },
+  { radacina: "școală", familie: ["școlar", "școlit", "școlăresc", "scolarizare", "elev", "dascăl"] },
+  { radacina: "pădure", familie: ["pădurar", "pădureț", "pădurice", "păduroasă", "forestier", "împăduri"] },
+  { radacina: "pâine", familie: ["pâiniță", "brutar", "brutărie", "panificație", "copt", "dospit"] },
+  { radacina: "iarnă", familie: ["iernatic", "iernare", "de iarnă", "iernos", "înghețat", "iernat"] },
+  { radacina: "fruct", familie: ["fructos", "fructifer", "fructuos", "livadă", "rod", "roadă"] },
+  { radacina: "copil", familie: ["copilărie", "copilăros", "copilaș", "copilesc", "copilăresc", "copilandru"] },
+  { radacina: "câmp", familie: ["câmpie", "câmpenesc", "câmpos", "câmpean", "câmpulungan", "tarlă"] },
+  { radacina: "mare", familie: ["marin", "maritim", "marinar", "mariner", "oceanic", "plajă"] },
 ];
 
 const ORTOGRAFIE_C3 = [
@@ -204,6 +295,16 @@ const ORTOGRAFIE_C3 = [
   { correct: "i-am", wrong: ["iam", "i am", "i'am"], context: "Eu ___ trimis o scrisoare." },
   { correct: "într-adevăr", wrong: ["intr-adevăr", "într-adevr", "intradevar"], context: "El este, ___, un elev harnic." },
   { correct: "de-a", wrong: ["dea", "de a", "d-a"], context: "Ne jucăm ___ baba-oarba." },
+  { correct: "s-a", wrong: ["sa", "s a", "s'a"], context: "Ion ___ întors acasă." },
+  { correct: "și-a", wrong: ["șia", "și a", "și'a"], context: "Maria ___ uitat geanta acasă." },
+  { correct: "te-ai", wrong: ["teai", "te ai", "te'ai"], context: "Tu ___ îmbrăcat frumos." },
+  { correct: "v-ați", wrong: ["vați", "v ați", "vati"], context: "Voi ___ pregătit lecția?" },
+  { correct: "s-au", wrong: ["sau", "s au", "s'au"], context: "Copiii ___ jucat în parc." },
+  { correct: "du-te", wrong: ["dute", "du te", "du'te"], context: "___ repede la magazin!" },
+  { correct: "ia-o", wrong: ["iao", "ia o", "ia'o"], context: "___ tu, ea nu mai vine." },
+  { correct: "nu-l", wrong: ["nul", "nu l", "nu'l"], context: "___ striga prea tare." },
+  { correct: "l-a", wrong: ["la", "l a", "l'a"], context: "Profesorul ___ lăudat." },
+  { correct: "i-a", wrong: ["ia", "i a", "i'a"], context: "Tata ___ cumpărat o jucărie." },
 ];
 
 const TEXTE_C3 = [
@@ -271,6 +372,14 @@ const FIGURI_STIL_C3 = [
   { fig: "personificare", ex: "Vântul suspina printre ramuri.", explicatie: "Vântul primește caracteristici umane", wrong: ["Se compară vântul cu ceva", "Se exagerează vântul", "Se descrie vântul"] },
   { fig: "enumerație", ex: "Pe masă erau mere, pere, cireșe și caise.", explicatie: "Se înșiruie mai multe elemente", wrong: ["Se compară fructele", "Se personifică fructele", "Se exagerează cantitatea"] },
   { fig: "repetiție", ex: "Mult, mult mai departe era o împărăție.", explicatie: "Se repetă un cuvânt pentru efect", wrong: ["Se compară distanța", "Se personifică depărtarea", "Se enumeră locuri"] },
+  { fig: "comparație", ex: "Copilul alerga iute ca vântul.", explicatie: "Se compară viteza copilului cu vântul", wrong: ["Se personifică vântul", "Se enumeră acțiuni", "Se repetă un cuvânt"] },
+  { fig: "personificare", ex: "Luna zâmbea printre nori.", explicatie: "Luna primește abilitatea umană de a zâmbi", wrong: ["Se compară luna cu ceva", "Se enumeră elemente", "Se descrie cerul"] },
+  { fig: "personificare", ex: "Florile dansau în bătaia vântului.", explicatie: "Florile primesc abilitatea umană de a dansa", wrong: ["Se compară florile cu dansatorii", "Se enumeră florile", "Se repetă cuvântul floare"] },
+  { fig: "comparație", ex: "Ochii ei străluceau ca stelele.", explicatie: "Se compară ochii cu stelele", wrong: ["Se personifică stelele", "Se enumeră stele", "Se repetă cuvântul ochi"] },
+  { fig: "enumerație", ex: "În grădină creșteau trandafiri, lalele, margarete și garoafe.", explicatie: "Se înșiruie mai multe tipuri de flori", wrong: ["Se compară florile", "Se personifică grădina", "Se repetă un cuvânt"] },
+  { fig: "repetiție", ex: "Departe, departe, în munți înalți, trăia un zmeu.", explicatie: "Se repetă cuvântul 'departe' pentru a accentua distanța", wrong: ["Se compară distanța cu ceva", "Se enumeră locuri", "Se personifică muntele"] },
+  { fig: "comparație", ex: "Zăpada era albă ca laptele.", explicatie: "Se compară culoarea zăpezii cu laptele", wrong: ["Se personifică zăpada", "Se enumeră culori", "Se repetă culoarea"] },
+  { fig: "personificare", ex: "Ploaia bătea în fereastră ca un oaspete nerăbdător.", explicatie: "Ploaia primește caracteristici umane (bate ca un oaspete)", wrong: ["Se compară ploaia cu un om", "Se enumeră tipuri de ploaie", "Se repetă cuvântul ploaie"] },
 ];
 
 // ─── GENERATORS ─────────────────────────────────────────────────────────────
@@ -461,6 +570,16 @@ export const C3_Generators: Record<string, Record<string, (seed?: number) => Cur
         { prop: "Elevii silitori au luat note mari.", adj: "silitori", wrong: ["elevii", "mari", "note"] },
         { prop: "Iarna cea rece a venit devreme.", adj: "rece", wrong: ["iarna", "devreme", "venit"] },
         { prop: "Câmpul verde mirosea frumos.", adj: "verde", wrong: ["câmpul", "frumos", "mirosea"] },
+        { prop: "Pisica albă dormea în soare.", adj: "albă", wrong: ["pisica", "dormea", "soare"] },
+        { prop: "Băiatul curajos a salvat câinele.", adj: "curajos", wrong: ["băiatul", "salvat", "câinele"] },
+        { prop: "Floarea galbenă a înflorit în grădină.", adj: "galbenă", wrong: ["floarea", "înflorit", "grădină"] },
+        { prop: "Bunica harnică a gătit o supă bună.", adj: "harnică", wrong: ["bunica", "gătit", "bună"] },
+        { prop: "Zăpada albă acoperă câmpurile.", adj: "albă", wrong: ["zăpada", "câmpurile", "acoperă"] },
+        { prop: "Copiii veseli se jucau în curte.", adj: "veseli", wrong: ["copiii", "curte", "jucau"] },
+        { prop: "Muntele înalt era acoperit de nori.", adj: "înalt", wrong: ["muntele", "nori", "acoperit"] },
+        { prop: "Prietenul meu cel mai bun a venit.", adj: "bun", wrong: ["prietenul", "venit", "meu"] },
+        { prop: "Șoarecele mic s-a ascuns în gaură.", adj: "mic", wrong: ["șoarecele", "ascuns", "gaură"] },
+        { prop: "Fata cuminte a ascultat lecția.", adj: "cuminte", wrong: ["fata", "ascultat", "lecția"] },
       ];
       for (let i = 0; i < 30; i++) {
         const data = pick(items, rng);
@@ -480,7 +599,13 @@ export const C3_Generators: Record<string, Record<string, (seed?: number) => Cur
       const q: CurriculumQuestion[] = [];
       for (let i = 0; i < 30; i++) {
         const data = pick(SINONIME_C3, rng);
-        const wrong = shuffle(SINONIME_C3, rng).filter(d => d.syn !== data.syn).slice(0, 3).map(d => d.syn);
+        // Use dedicated alts first (semantically plausible distractors), then fallback to pool
+        const dedicated = data.alts ? shuffle(data.alts, rng).slice(0, 3) : [];
+        const poolFallback = shuffle(SINONIME_C3, rng)
+          .filter(d => d.syn !== data.syn && !dedicated.includes(d.syn))
+          .slice(0, 3 - dedicated.length)
+          .map(d => d.syn);
+        const wrong = [...dedicated, ...poolFallback].filter(w => w !== data.syn);
         q.push(createMCQ("vocabular_c3", "sinonime_c3",
           `Care este sinonimul cuvântului '${data.word}'?`,
           data.syn, wrong, rng));
@@ -493,7 +618,13 @@ export const C3_Generators: Record<string, Record<string, (seed?: number) => Cur
       const q: CurriculumQuestion[] = [];
       for (let i = 0; i < 30; i++) {
         const data = pick(ANTONIME_C3, rng);
-        const wrong = shuffle(ANTONIME_C3, rng).filter(d => d.ant !== data.ant).slice(0, 3).map(d => d.ant);
+        // Use dedicated alts first (semantically plausible distractors), then fallback to pool
+        const dedicated = data.alts ? shuffle(data.alts, rng).slice(0, 3) : [];
+        const poolFallback = shuffle(ANTONIME_C3, rng)
+          .filter(d => d.ant !== data.ant && !dedicated.includes(d.ant))
+          .slice(0, 3 - dedicated.length)
+          .map(d => d.ant);
+        const wrong = [...dedicated, ...poolFallback].filter(w => w !== data.ant);
         q.push(createMCQ("vocabular_c3", "antonime_c3",
           `Care este antonimul cuvântului '${data.word}'?`,
           data.ant, wrong, rng));
