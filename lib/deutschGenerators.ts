@@ -186,6 +186,97 @@ const SYNONYME: { w: string; syn: string; f1: string; f2: string }[] = [
   // TODO: add more ↓
 ];
 
+// ─── K1 EXPANSION: Körperteile (Bodyparts) ─────────────────────────────────
+const KÖRPERTEILE: { n: string; a: string; p: string; s: number }[] = [
+  { n: "Kopf",       a: "der", p: "Köpfe",       s: 1 },
+  { n: "Auge",       a: "das", p: "Augen",       s: 2 },
+  { n: "Ohr",        a: "das", p: "Ohren",       s: 1 },
+  { n: "Nase",       a: "die", p: "Nasen",       s: 2 },
+  { n: "Mund",       a: "der", p: "Münder",      s: 1 },
+  { n: "Zahn",       a: "der", p: "Zähne",       s: 1 },
+  { n: "Zunge",      a: "die", p: "Zungen",      s: 2 },
+  { n: "Hals",       a: "der", p: "Hälse",       s: 1 },
+  { n: "Arm",        a: "der", p: "Arme",        s: 1 },
+  { n: "Hand",       a: "die", p: "Hände",       s: 1 },
+  { n: "Finger",     a: "der", p: "Finger",      s: 2 },
+  { n: "Bauch",      a: "der", p: "Bäuche",      s: 1 },
+  { n: "Bein",       a: "das", p: "Beine",       s: 1 },
+  { n: "Knie",       a: "das", p: "Knie",        s: 1 },
+  { n: "Fuß",        a: "der", p: "Füße",        s: 1 },
+  { n: "Herz",       a: "das", p: "Herzen",      s: 1 },
+  { n: "Rücken",     a: "der", p: "Rücken",      s: 2 },
+  { n: "Lunge",      a: "die", p: "Lungen",      s: 2 },
+];
+
+// ─── K1 EXPANSION: Haushalt (Household Items) ──────────────────────────────
+const HAUSHALT: { n: string; a: string; p: string; s: number }[] = [
+  { n: "Tisch",      a: "der", p: "Tische",      s: 1 },
+  { n: "Stuhl",      a: "der", p: "Stühle",      s: 1 },
+  { n: "Bett",       a: "das", p: "Betten",      s: 1 },
+  { n: "Schrank",    a: "der", p: "Schränke",    s: 1 },
+  { n: "Tür",        a: "die", p: "Türen",       s: 1 },
+  { n: "Fenster",    a: "das", p: "Fenster",     s: 2 },
+  { n: "Lampe",      a: "die", p: "Lampen",      s: 2 },
+  { n: "Sofa",       a: "das", p: "Sofas",       s: 2 },
+  { n: "Spiegel",    a: "der", p: "Spiegel",     s: 2 },
+  { n: "Regal",      a: "das", p: "Regale",      s: 2 },
+  { n: "Kühlschrank",a: "der", p: "Kühlschränke",s: 3 },
+  { n: "Herd",       a: "der", p: "Herde",       s: 1 },
+];
+
+// ─── K1 EXPANSION: Tiere (Animals) ────────────────────────────────────────
+const TIERE: { n: string; a: string; p: string; s: number }[] = [
+  { n: "Hund",       a: "der", p: "Hunde",       s: 1 },
+  { n: "Katze",      a: "die", p: "Katzen",      s: 2 },
+  { n: "Vogel",      a: "der", p: "Vögel",       s: 2 },
+  { n: "Fisch",      a: "der", p: "Fische",      s: 1 },
+  { n: "Pferd",      a: "das", p: "Pferde",      s: 1 },
+  { n: "Kuh",        a: "die", p: "Kühe",        s: 1 },
+  { n: "Schaf",      a: "das", p: "Schafe",      s: 1 },
+  { n: "Schwein",    a: "das", p: "Schweine",    s: 1 },
+  { n: "Huhn",       a: "das", p: "Hühner",      s: 1 },
+  { n: "Ente",       a: "die", p: "Enten",       s: 2 },
+  { n: "Biene",      a: "die", p: "Bienen",      s: 2 },
+  { n: "Schmetterling",a: "der", p: "Schmetterlinge", s: 3 },
+  { n: "Maus",       a: "die", p: "Mäuse",       s: 1 },
+  { n: "Löwe",       a: "der", p: "Löwen",       s: 2 },
+];
+
+// ─── K1 EXPANSION: Familie (Family) ────────────────────────────────────────
+const FAMILIE: { n: string; a: string; p: string; s: number }[] = [
+  { n: "Mutter",     a: "die", p: "Mütter",      s: 2 },
+  { n: "Vater",      a: "der", p: "Väter",       s: 2 },
+  { n: "Bruder",     a: "der", p: "Brüder",      s: 2 },
+  { n: "Schwester",  a: "die", p: "Schwestern",  s: 3 },
+  { n: "Großmutter", a: "die", p: "Großmütter",  s: 3 },
+  { n: "Großvater",  a: "der", p: "Großväter",   s: 3 },
+  { n: "Opa",        a: "der", p: "Opas",        s: 2 },
+  { n: "Oma",        a: "die", p: "Omas",        s: 2 },
+  { n: "Tante",      a: "die", p: "Tanten",      s: 2 },
+  { n: "Onkel",      a: "der", p: "Onkel",       s: 2 },
+  { n: "Cousin",     a: "der", p: "Cousins",     s: 2 },
+  { n: "Cousine",    a: "die", p: "Cousinen",    s: 3 },
+];
+
+// ─── K1 EXPANSION: Lebensmittel (Food & Drink) ─────────────────────────────
+const LEBENSMITTEL: { n: string; a: string; p: string; s: number }[] = [
+  { n: "Apfel",      a: "der", p: "Äpfel",       s: 2 },
+  { n: "Birne",      a: "die", p: "Birnen",      s: 2 },
+  { n: "Banane",     a: "die", p: "Bananen",     s: 3 },
+  { n: "Orange",     a: "die", p: "Orangen",     s: 2 },
+  { n: "Erdbeere",   a: "die", p: "Erdbeeren",   s: 3 },
+  { n: "Tomate",     a: "die", p: "Tomaten",     s: 2 },
+  { n: "Kartoffel",  a: "die", p: "Kartoffeln",  s: 3 },
+  { n: "Karotte",    a: "die", p: "Karotten",    s: 2 },
+  { n: "Brot",       a: "das", p: "Brote",       s: 1 },
+  { n: "Butter",     a: "die", p: "Buttern",     s: 2 },
+  { n: "Käse",       a: "der", p: "Käse",        s: 2 },
+  { n: "Ei",         a: "das", p: "Eier",        s: 1 },
+  { n: "Milch",      a: "die", p: "Milche",      s: 1 },
+  { n: "Wasser",     a: "das", p: "Wasser",      s: 2 },
+  { n: "Saft",       a: "der", p: "Säfte",       s: 1 },
+];
+
 // Antonyme: w=Wort  ant=Antonym  f1/f2=Falschantworten
 const ANTONYME: { w: string; ant: string; f1: string; f2: string }[] = [
   { w: "hell",      ant: "dunkel",      f1: "warm",      f2: "groß"    },
@@ -303,6 +394,43 @@ const ANDERE_WA  = ["und", "oder", "aber", "weil", "wenn", "dann", "auch", "sehr
 function genArtikel(topic: string, subtopic: string): DeutschQuestion {
   const { n, a } = pick(NOMEN);
   return mkMCQ(topic, subtopic, `Welcher Artikel passt? ___ ${n}`, a,
+    ["der", "die", "das"].filter((x) => x !== a));
+}
+
+// ─── K1 EXPANSION GENERATORS ──────────────────────────────────────────────────
+
+// K1: Körperteile (Body Parts)
+function genKörperteile(): DeutschQuestion {
+  const { n, a } = pick(KÖRPERTEILE);
+  return mkMCQ("körperteile", "körperteile_k1", `Welcher Artikel passt? ___ ${n}`, a,
+    ["der", "die", "das"].filter((x) => x !== a));
+}
+
+// K1: Haushalt (Household Items)
+function genHaushalt(): DeutschQuestion {
+  const { n, a } = pick(HAUSHALT);
+  return mkMCQ("haus_möbel", "haushalt_k1", `Welcher Artikel passt? ___ ${n}`, a,
+    ["der", "die", "das"].filter((x) => x !== a));
+}
+
+// K1: Tiere (Animals)
+function genTiere(): DeutschQuestion {
+  const { n, a } = pick(TIERE);
+  return mkMCQ("tiere", "tiere_k1", `Welcher Artikel passt? ___ ${n}`, a,
+    ["der", "die", "das"].filter((x) => x !== a));
+}
+
+// K1: Familie (Family)
+function genFamilie(): DeutschQuestion {
+  const { n, a } = pick(FAMILIE);
+  return mkMCQ("familie", "familie_k1", `Welcher Artikel passt? ___ ${n}`, a,
+    ["der", "die", "das"].filter((x) => x !== a));
+}
+
+// K1: Lebensmittel (Food & Drink)
+function genLebensmittel(): DeutschQuestion {
+  const { n, a } = pick(LEBENSMITTEL);
+  return mkMCQ("lebensmittel", "lebensmittel_k1", `Welcher Artikel passt? ___ ${n}`, a,
     ["der", "die", "das"].filter((x) => x !== a));
 }
 
@@ -455,6 +583,12 @@ export const GENERATORS: Record<string, () => DeutschQuestion> = {
   silben:              genSilben,
   satzzeichen_k1:      genSatzzeichen,
   fehlende_woerter_k1: genSatzzeichen, // Fallback auf Satzzeichen
+  // K1 EXPANSION (2026-03-17)
+  körperteile_k1:      genKörperteile,
+  haushalt_k1:         genHaushalt,
+  tiere_k1:            genTiere,
+  familie_k1:          genFamilie,
+  lebensmittel_k1:     genLebensmittel,
   // K2
   artikel_k2:          () => genArtikel("wortarten_k2", "artikel_k2"),
   nomen_k2:            genNomenErkennen,
