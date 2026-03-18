@@ -22,6 +22,7 @@ import BlackHole from "@/app/astromath/games/BlackHole";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
+import SpellRace from "@/app/astrodeutsch/games/SpellRace";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import type { MathQuestion } from "@/lib/mathCurriculum";
@@ -85,6 +86,7 @@ const K5_LABEL: Record<string, string> = {
 type Screen =
   | "island-map" | "island-intro" | "mission-select"
   | "orbit-quiz" | "star-match" | "black-hole" | "speed-round"
+  | "spell-race"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
@@ -417,15 +419,19 @@ export default function AstroDeutschK5Page() {
     setScreen("island-transition");
   }, []);
 
+  const noQuestionsTypes = new Set(["spell-race"]);
+
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const qCount = mission.gameType === "star-match" ? 15 : 10;
-    const qs = generateIslandQuestionsK5(activeIsland, lang as Lang, qCount);
-    setQuestions(qs);
+    if (!noQuestionsTypes.has(mission.gameType)) {
+      const qCount = mission.gameType === "star-match" ? 15 : 10;
+      const qs = generateIslandQuestionsK5(activeIsland, lang as Lang, qCount);
+      setQuestions(qs);
+    }
     setScreen(mission.gameType as Screen);
-  }, [activeIsland, lang]);
+  }, [activeIsland, lang]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const handleMissionDone = useCallback((score: number, total: number) => {
     if (!activeIsland || !activeMission) return;
@@ -703,11 +709,14 @@ export default function AstroDeutschK5Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "spell-race" && (
+          <SpellRace color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "spell-race"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

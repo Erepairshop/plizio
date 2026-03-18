@@ -41,8 +41,8 @@ export const K3_ISLANDS: IslandDef[] = [
     topicKeys: ["wortarten_k3/plural", "wortarten_k3/wortfamilien_k3"],
     missions: [
       { id: "m1", category: "explore",   gameType: "plural-family-explorer", icon: "🌳", label: { de: "Plural entdecken",  en: "Discover Plurals",  hu: "Többes szám felfedezés", ro: "Descoperă pluralul" } },
-      { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
     svgX: 160, svgY: 530,
   },
@@ -53,8 +53,8 @@ export const K3_ISLANDS: IslandDef[] = [
     topicKeys: ["wortarten_k3/verben_k3", "wortarten_k3/trennbare_verben_k3"],
     missions: [
       { id: "m1", category: "explore",   gameType: "separable-verb-explorer", icon: "✂️", label: { de: "Verben entdecken",  en: "Discover Verbs",    hu: "Igék felfedezése",      ro: "Descoperă verbele"  } },
-      { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
+      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
     ],
     svgX: 80, svgY: 440,
   },
@@ -65,7 +65,7 @@ export const K3_ISLANDS: IslandDef[] = [
     topicKeys: ["wortarten_k3/adjektive_gegenteil", "wortarten_k3/steigerung_k3", "eigenschafte_adjektive/eigenschaften_k3", "synonyme_antonyme/synonyme_antonyme_k3"],
     missions: [
       { id: "m1", category: "explore",   gameType: "comparison-explorer",     icon: "📊", label: { de: "Steigerung entdecken", en: "Discover Comparison", hu: "Fokozás felfedezése", ro: "Descoperă gradarea" } },
-      { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
     ],
     svgX: 240, svgY: 360,
@@ -77,8 +77,8 @@ export const K3_ISLANDS: IslandDef[] = [
     topicKeys: ["satzglieder_k3/subjekt", "satzglieder_k3/praedikat", "satzglieder_k3/satzbau_k3"],
     missions: [
       { id: "m1", category: "explore",   gameType: "sentence-parts-explorer", icon: "🔎", label: { de: "Satzglieder entdecken", en: "Discover Sentence Parts", hu: "Mondatrészek felfedezése", ro: "Descoperă propoziția" } },
-      { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",          hu: "Csillag párosítás", ro: "Potrivire stele" } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",          hu: "Fekete lyuk",       ro: "Gaură neagră"    } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",   hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
     svgX: 90, svgY: 270,
   },
@@ -89,7 +89,7 @@ export const K3_ISLANDS: IslandDef[] = [
     topicKeys: ["satzglieder_k3/akkusativ_obj", "satzglieder_k3/zeitformen_komplett_k3"],
     missions: [
       { id: "m1", category: "explore",   gameType: "tense-timeline-explorer", icon: "🕰️", label: { de: "Zeitformen entdecken", en: "Discover Tenses",    hu: "Igeidők felfedezése",   ro: "Descoperă timpurile" } },
-      { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
     ],
     svgX: 220, svgY: 195,
@@ -101,8 +101,8 @@ export const K3_ISLANDS: IslandDef[] = [
     topicKeys: ["satzglieder_k3/praeteritum_k3", "satzglieder_k3/direkte_rede_k3", "wortschatz_alltag_k3/tagesablauf_k3"],
     missions: [
       { id: "m1", category: "explore",   gameType: "past-speech-explorer",    icon: "📜", label: { de: "Vergangenheit entdecken", en: "Discover Past Tense", hu: "Múlt idő felfedezése", ro: "Descoperă trecutul" } },
-      { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
     svgX: 100, svgY: 125,
   },
@@ -113,7 +113,7 @@ export const K3_ISLANDS: IslandDef[] = [
     topicKeys: ["rechtschreibung_k3/ie_ih", "rechtschreibung_k3/doppelkonsonanten", "rechtschreibung_k3/ss_sz"],
     missions: [
       { id: "m1", category: "explore",   gameType: "spelling-k3-explorer",    icon: "🔤", label: { de: "Schreibung entdecken", en: "Discover Spelling",   hu: "Helyesírás felfedezése", ro: "Descoperă ortografia" } },
-      { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt", en: "Worksheet", hu: "Feladatlap", ro: "Fișă de lucru" } },
     ],
     svgX: 230, svgY: 55,
@@ -125,8 +125,8 @@ export const K3_ISLANDS: IslandDef[] = [
     topicKeys: ["rechtschreibung_k3/dehnung_h_k3", "rechtschreibung_k3/komma_aufzaehlung_k3", "kleidung/kleidung_k3", "wortschatz_alltag_k3/essen_k3", "wortschatz_alltag_k3/zuhause_k3"],
     missions: [
       { id: "m1", category: "explore",   gameType: "punctuation-explorer",    icon: "🔡", label: { de: "Zeichensetzung entdecken", en: "Discover Punctuation", hu: "Írásjelek felfedezése", ro: "Descoperă punctuația" } },
-      { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
+      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Blitzrunde", en: "Speed Round", hu: "Villámkör", ro: "Rundă rapidă" } },
     ],
     svgX: 80, svgY: -20,
   },
@@ -143,8 +143,8 @@ export const K3_ISLANDS: IslandDef[] = [
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "review-explorer",         icon: "🌟", label: { de: "Große Entdeckung",      en: "Big Discovery",    hu: "Nagy felfedezés",       ro: "Marea descoperire"  } },
-      { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "black-hole", icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
+      { id: "m3", category: "challenge", gameType: "sentence-scramble", icon: "🔀", label: { de: "Satz-Puzzle", en: "Sentence Scramble", hu: "Mondat keverő", ro: "Amestec propoziții" } },
     ],
     svgX: 190, svgY: -90,
   },

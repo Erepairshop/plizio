@@ -38,7 +38,7 @@ export const K6_ISLANDS: IslandDef[] = [
     topicKeys: ["grammatik_k6/passiv"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Passiv-Quiz",       en: "Passive Quiz",     hu: "Szenvedő kvíz",     ro: "Quiz pasiv"        } },
-      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
     ],
     svgX: 160, svgY: 530,
@@ -50,8 +50,8 @@ export const K6_ISLANDS: IslandDef[] = [
     topicKeys: ["grammatik_k6/konjunktiv_2", "grammatik_k6/modalverben_k6"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Konjunktiv-Quiz",   en: "Subjunctive Quiz", hu: "Kötőmód kvíz",      ro: "Quiz conjunctiv"   } },
-      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
+      { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
     svgX: 80, svgY: 440,
   },
@@ -62,8 +62,8 @@ export const K6_ISLANDS: IslandDef[] = [
     topicKeys: ["grammatik_k6/infinitiv_zu"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Infinitiv-Quiz",    en: "Infinitive Quiz",  hu: "Infinitív kvíz",    ro: "Quiz infinitiv"    } },
-      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
+      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt",     en: "Worksheet",        hu: "Feladatlap",        ro: "Fișă de lucru"     } },
     ],
     svgX: 240, svgY: 360,
   },
@@ -74,7 +74,7 @@ export const K6_ISLANDS: IslandDef[] = [
     topicKeys: ["wortschatz_k6/synonyme", "wortschatz_k6/antonyme"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Synonyme-Quiz",     en: "Synonym Quiz",     hu: "Szinonima kvíz",    ro: "Quiz sinonime"     } },
-      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
     ],
     svgX: 90, svgY: 270,
@@ -86,8 +86,8 @@ export const K6_ISLANDS: IslandDef[] = [
     topicKeys: ["wortschatz_k6/fremdwoerter"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Fremdwörter-Quiz",  en: "Foreign Words Quiz", hu: "Idegen szó kvíz",  ro: "Quiz cuvinte"      } },
-      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",         hu: "Csillag párosítás", ro: "Potrivire stele" } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",        hu: "Gyors kör",         ro: "Rundă rapidă"    } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",   hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
+      { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",         hu: "Fekete lyuk",       ro: "Gaură neagră"    } },
     ],
     svgX: 220, svgY: 195,
   },
@@ -98,8 +98,8 @@ export const K6_ISLANDS: IslandDef[] = [
     topicKeys: ["satzstrukturen_k6/relativsatz", "satzstrukturen_k6/kausalsatz"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Nebensatz-Quiz",    en: "Clause Quiz",      hu: "Mellékmondat kvíz", ro: "Quiz subordonate"  } },
-      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
+      { id: "m3", category: "challenge", gameType: "deutsch-visual", icon: "📝", label: { de: "Übungsblatt",     en: "Worksheet",        hu: "Feladatlap",        ro: "Fișă de lucru"     } },
     ],
     svgX: 100, svgY: 125,
   },
@@ -110,7 +110,7 @@ export const K6_ISLANDS: IslandDef[] = [
     topicKeys: ["wortbildung_k6/komposita_k6", "wortbildung_k6/derivation_k6"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Wortbildung-Quiz",  en: "Word Formation Quiz", hu: "Szóalkotás kvíz",  ro: "Quiz formare"      } },
-      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",          hu: "Csillag párosítás", ro: "Potrivire stele" } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",   hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
       { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",         hu: "Gyors kör",         ro: "Rundă rapidă"    } },
     ],
     svgX: 230, svgY: 55,
@@ -122,8 +122,8 @@ export const K6_ISLANDS: IslandDef[] = [
     topicKeys: ["zeichensetzung_k6/doppelpunkt_k6", "zeichensetzung_k6/gedankenstrich_k6"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Zeichen-Quiz",      en: "Punctuation Quiz", hu: "Írásjel kvíz",      ro: "Quiz punctuație"   } },
-      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
+      { id: "m3", category: "challenge", gameType: "black-hole",  icon: "🕳️", label: { de: "Schwarzes Loch",   en: "Black Hole",       hu: "Fekete lyuk",       ro: "Gaură neagră"      } },
     ],
     svgX: 80, svgY: -20,
   },
@@ -138,8 +138,8 @@ export const K6_ISLANDS: IslandDef[] = [
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz",  icon: "🪐", label: { de: "Final-Quiz",        en: "Final Quiz",       hu: "Záró kvíz",         ro: "Quiz final"        } },
-      { id: "m2", category: "build",     gameType: "star-match",  icon: "⭐", label: { de: "Sterne verbinden",  en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
-      { id: "m3", category: "challenge", gameType: "speed-round", icon: "⚡", label: { de: "Speedrunde",        en: "Speed Round",      hu: "Gyors kör",         ro: "Rundă rapidă"      } },
+      { id: "m2", category: "build",     gameType: "gravity-sort", icon: "🪨", label: { de: "Schwerkraft-Sortierung", en: "Gravity Sort",    hu: "Gravitációs rendezés", ro: "Sortare gravitațională" } },
+      { id: "m3", category: "challenge", gameType: "word-blitz",  icon: "⚡", label: { de: "Wort-Blitz", en: "Word Blitz", hu: "Szóvillám", ro: "Blitz cuvinte" } },
     ],
     svgX: 190, svgY: -90,
   },

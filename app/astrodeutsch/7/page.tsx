@@ -21,6 +21,7 @@ import OrbitQuiz from "@/app/astromath/games/OrbitQuiz";
 import BlackHole from "@/app/astromath/games/BlackHole";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
+import GravitySort from "@/app/astrodeutsch/games/GravitySort";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
@@ -84,7 +85,7 @@ const K7_LABEL: Record<string, string> = {
 
 type Screen =
   | "island-map" | "island-intro" | "mission-select"
-  | "orbit-quiz" | "star-match" | "black-hole" | "speed-round"
+  | "orbit-quiz" | "star-match" | "black-hole" | "speed-round" | "gravity-sort"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
@@ -703,11 +704,16 @@ export default function AstroDeutschK7Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "gravity-sort" && questions.length > 0 && (
+          <GravitySort questions={questions} color={bgColor} lang={lang} onDone={handleMissionDone}
+            onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
+            onWrong={() => setAvatarMood("disappointed")} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "gravity-sort"].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

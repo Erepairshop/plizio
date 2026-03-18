@@ -24,6 +24,16 @@ import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import DeutschVisualGame from "@/app/astrodeutsch/games/DeutschVisualGame";
+import KasusExplorer from "@/app/astrodeutsch/games/KasusExplorer";
+import KasusExplorer2 from "@/app/astrodeutsch/games/KasusExplorer2";
+import TenseExplorerK4 from "@/app/astrodeutsch/games/TenseExplorerK4";
+import WordClassExplorerK4 from "@/app/astrodeutsch/games/WordClassExplorerK4";
+import SentencePartExplorerK4 from "@/app/astrodeutsch/games/SentencePartExplorerK4";
+import ClauseExplorer from "@/app/astrodeutsch/games/ClauseExplorer";
+import VerbExplorerK4 from "@/app/astrodeutsch/games/VerbExplorerK4";
+import SpellingExplorerK4 from "@/app/astrodeutsch/games/SpellingExplorerK4";
+import ReviewExplorerK4 from "@/app/astrodeutsch/games/ReviewExplorerK4";
+import GapFill from "@/app/astrodeutsch/games/GapFill";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import type { MathQuestion } from "@/lib/mathCurriculum";
@@ -87,6 +97,10 @@ const K4_LABEL: Record<string, string> = {
 type Screen =
   | "island-map" | "island-intro" | "mission-select"
   | "orbit-quiz" | "star-match" | "black-hole" | "speed-round" | "deutsch-visual"
+  | "kasus-explorer" | "kasus2-explorer" | "tense-explorer-k4"
+  | "word-class-explorer-k4" | "sentence-part-explorer-k4" | "clause-explorer"
+  | "verb-explorer-k4" | "spelling-explorer-k4" | "review-explorer-k4"
+  | "gap-fill"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
@@ -419,17 +433,25 @@ export default function AstroDeutschK4Page() {
     setScreen("island-transition");
   }, []);
 
+  const noQuestionsTypes = new Set([
+    "deutsch-visual",
+    "kasus-explorer", "kasus2-explorer", "tense-explorer-k4",
+    "word-class-explorer-k4", "sentence-part-explorer-k4", "clause-explorer",
+    "verb-explorer-k4", "spelling-explorer-k4", "review-explorer-k4",
+    "gap-fill",
+  ]);
+
   const startMission = useCallback((mission: MissionDef) => {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    if (mission.gameType !== "deutsch-visual") {
+    if (!noQuestionsTypes.has(mission.gameType)) {
       const qCount = mission.gameType === "star-match" ? 15 : 10;
       const qs = generateIslandQuestionsK4(activeIsland, lang as Lang, qCount);
       setQuestions(qs);
     }
     setScreen(mission.gameType as Screen);
-  }, [activeIsland, lang]);
+  }, [activeIsland, lang]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const handleMissionDone = useCallback((score: number, total: number) => {
     if (!activeIsland || !activeMission) return;
@@ -710,11 +732,47 @@ export default function AstroDeutschK4Page() {
         {screen === "deutsch-visual" && (
           <DeutschVisualGame klasse={4} color={bgColor} lang={lang} onDone={handleMissionDone} />
         )}
+        {screen === "kasus-explorer" && (
+          <KasusExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "kasus2-explorer" && (
+          <KasusExplorer2 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "tense-explorer-k4" && (
+          <TenseExplorerK4 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "word-class-explorer-k4" && (
+          <WordClassExplorerK4 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "sentence-part-explorer-k4" && (
+          <SentencePartExplorerK4 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "clause-explorer" && (
+          <ClauseExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "verb-explorer-k4" && (
+          <VerbExplorerK4 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "spelling-explorer-k4" && (
+          <SpellingExplorerK4 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "review-explorer-k4" && (
+          <ReviewExplorerK4 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "gap-fill" && (
+          <GapFill color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual"].includes(screen)) return (
+  const explorerScreensK4 = [
+    "kasus-explorer", "kasus2-explorer", "tense-explorer-k4",
+    "word-class-explorer-k4", "sentence-part-explorer-k4", "clause-explorer",
+    "verb-explorer-k4", "spelling-explorer-k4", "review-explorer-k4",
+  ];
+
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round", "deutsch-visual", "gap-fill", ...explorerScreensK4].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
