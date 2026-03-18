@@ -27,6 +27,8 @@ export const K2_CHECKPOINT_TOPICS: Record<string, string[]> = {
   test3: [
     "rechtschreibung_k2/tz_z", "rechtschreibung_k2/ck_k", "rechtschreibung_k2/doppelvokal",
     "wortfelder_k2/tiere_k2", "wortfelder_k2/schule_k2",
+    "wortschatz_expansion_k2/kleidung_k2", "wortschatz_expansion_k2/wetter_k2",
+    "wortschatz_expansion_k2/berufe_k2",
   ],
 };
 
@@ -59,7 +61,7 @@ export const K2_ISLANDS: IslandDef[] = [
     id: "i3",
     name: { en: "Adjectives & Pronouns", hu: "Melléknevek & Névmások", de: "Adjektive & Pronomen", ro: "Adjective & Pronume" },
     icon: "🎨", color: "#10B981", sortRange: [1, 10],
-    topicKeys: ["wortarten_k2/adjektive_k2", "wortarten_k2/personalpronomen_k2"],
+    topicKeys: ["wortarten_k2/adjektive_k2", "wortarten_k2/personalpronomen_k2", "wortschatz_expansion_k2/gegensaetze_k2", "wortschatz_expansion_k2/synonyme_k2"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🪐", label: { de: "Adjektiv-Quiz",    en: "Adjective Quiz",   hu: "Melléknév kvíz",    ro: "Quiz adjective"    } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match",       hu: "Csillag párosítás", ro: "Potrivire stele"   } },
@@ -83,7 +85,7 @@ export const K2_ISLANDS: IslandDef[] = [
     id: "i5",
     name: { en: "Capitalization", hu: "Nagybetűírás", de: "Großschreibung", ro: "Majuscule" },
     icon: "🅰️", color: "#6366F1", sortRange: [1, 10],
-    topicKeys: ["saetze_k2/grossschreibung_k2", "saetze_k2/verbindungswoerter_k2"],
+    topicKeys: ["saetze_k2/grossschreibung_k2", "saetze_k2/verbindungswoerter_k2", "wortschatz_expansion_k2/ortsangaben_k2", "wortschatz_expansion_k2/tagesablauf_k2"],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🪐", label: { de: "Groß-Quiz",        en: "Capitalization Quiz", hu: "Nagybetű kvíz",   ro: "Quiz majuscule"    } },
       { id: "m2", category: "build",     gameType: "star-match", icon: "⭐", label: { de: "Sterne verbinden", en: "Star Match",          hu: "Csillag párosítás", ro: "Potrivire stele" } },
@@ -122,6 +124,9 @@ export const K2_ISLANDS: IslandDef[] = [
     topicKeys: [
       "wortfelder_k2/schule_k2", "wortfelder_k2/koerper_k2", "wortfelder_k2/tiere_k2",
       "wortfelder_k2/familie_k2", "wortfelder_k2/essen_k2",
+      "wortschatz_expansion_k2/kleidung_k2", "wortschatz_expansion_k2/wetter_k2",
+      "wortschatz_expansion_k2/jahreszeiten_k2", "wortschatz_expansion_k2/haus_moebel_k2",
+      "wortschatz_expansion_k2/hobbies_sport_k2",
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🪐", label: { de: "Wortfeld-Quiz",    en: "Word Field Quiz",  hu: "Szócsoport kvíz",   ro: "Quiz lexical"      } },
@@ -137,6 +142,8 @@ export const K2_ISLANDS: IslandDef[] = [
     topicKeys: [
       "wortarten_k2/nomen_k2", "wortarten_k2/artikel_k2", "wortarten_k2/verben_k2",
       "saetze_k2/satzarten", "rechtschreibung_k2/tz_z", "wortfelder_k2/tiere_k2",
+      "wortschatz_expansion_k2/farben_k2", "wortschatz_expansion_k2/zahlen_k2",
+      "wortschatz_expansion_k2/zeit_k2", "wortschatz_expansion_k2/berufe_k2",
     ],
     missions: [
       { id: "m1", category: "explore",   gameType: "orbit-quiz", icon: "🪐", label: { de: "Final-Quiz",       en: "Final Quiz",       hu: "Záró kvíz",         ro: "Quiz final"        } },
