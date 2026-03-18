@@ -22,6 +22,13 @@ import BlackHole from "@/app/astromath/games/BlackHole";
 import StarMatch from "@/app/astromath/games/StarMatch";
 import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
+import VoiceTransformExplorer from "@/app/astrodeutsch/games/VoiceTransformExplorer";
+import WishMachineExplorer from "@/app/astrodeutsch/games/WishMachineExplorer";
+import InfinitivBuilderExplorer from "@/app/astrodeutsch/games/InfinitivBuilderExplorer";
+import WordNetExplorer from "@/app/astrodeutsch/games/WordNetExplorer";
+import ClauseConnectorExplorer from "@/app/astrodeutsch/games/ClauseConnectorExplorer";
+import WordBuildExplorer from "@/app/astrodeutsch/games/WordBuildExplorer";
+import ReviewExplorerK6 from "@/app/astrodeutsch/games/ReviewExplorerK6";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
 import type { MathQuestion } from "@/lib/mathCurriculum";
@@ -85,6 +92,9 @@ const K6_LABEL: Record<string, string> = {
 type Screen =
   | "island-map" | "island-intro" | "mission-select"
   | "orbit-quiz" | "star-match" | "black-hole" | "speed-round"
+  | "voice-transform-explorer" | "wish-machine-explorer" | "infinitiv-builder-explorer"
+  | "word-net-explorer" | "clause-connector-explorer" | "word-build-explorer"
+  | "review-explorer-k6"
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
