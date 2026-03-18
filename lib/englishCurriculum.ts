@@ -3544,6 +3544,134 @@ const G5: EnglishTheme[] = [
           { type:"mcq", topic:"vocab_g5", subtopic:"connotation_denotation_g5", question:"'Cheap' and 'thrifty' both mean 'spending little money.' Which has a POSITIVE connotation?", options:["thrifty","cheap","both the same","neither"], correct:0 },
         ],
       },
+      {
+        id: "media_literacy_g5",
+        name: "Media Literacy",
+        questions: [
+          { type:"mcq", topic:"vocab_g5", subtopic:"media_literacy_g5", question:"What is BIAS in media?", options:["unfair preference for one side of a story","a type of news headline","a factual news report","an objective article"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"media_literacy_g5", question:"What is a PRIMARY SOURCE?", options:["firsthand information directly from the original (diary, interview, photo)","a book about an event written later","a textbook summary","a news article"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"media_literacy_g5", question:"What is PROPAGANDA?", options:["information designed to influence people's opinions or actions","a factual report","a scientific study","a book review"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"media_literacy_g5", question:"What does CREDIBLE mean for a source?", options:["reliable, trustworthy, and accurate","very popular","written by many people","published online"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"media_literacy_g5", question:"What is PERSPECTIVE in media?", options:["the point of view from which something is presented","a type of camera angle","a factual statement","a kind of headline"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"media_literacy_g5", question:"What is FACT-CHECKING?", options:["verifying whether information is true and accurate","writing a news story","editing a photograph","creating a headline"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"media_literacy_g5", question:"What is CLICKBAIT?", options:["misleading headlines designed to get clicks","a type of advertisement","a factual news story","a kind of website"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"media_literacy_g5", question:"What does ANONYMOUS mean for a source?", options:["the author's name is unknown or hidden","the source is very popular","the source is very old","the source is a video"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"media_literacy_g5", question:"What is a SECONDARY SOURCE?", options:["information about an event written by someone who didn't experience it directly","a firsthand account","a diary entry","a personal interview"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"media_literacy_g5", question:"Why should you check MULTIPLE SOURCES?", options:["to compare information and find what is accurate","to find the most popular opinion","to copy more information","to read faster"], correct:0 },
+        ],
+      },
+      {
+        id: "science_g5",
+        name: "Science Vocabulary",
+        questions: [
+          { type:"mcq", topic:"vocab_g5", subtopic:"science_g5", question:"What is a VARIABLE in an experiment?", options:["something that can change or be changed","the conclusion of an experiment","the hypothesis","the equipment used"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"science_g5", question:"What is DENSITY?", options:["how much mass is packed into a given volume","the weight of an object","the size of an object","the temperature of a substance"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"science_g5", question:"What is INERTIA?", options:["the tendency of an object to stay in its current state (moving or still)","a type of energy","the force of gravity","a kind of friction"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"science_g5", question:"What is PHOTOSYNTHESIS?", options:["the process plants use to convert sunlight into food","how animals digest food","a chemical reaction in labs","how rocks form"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"science_g5", question:"What does DISSOLVE mean?", options:["when a substance mixes completely into a liquid","when a solid melts into a liquid","when a gas becomes liquid","when water evaporates"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"science_g5", question:"What is INHERITED TRAIT?", options:["a characteristic passed from parent to offspring through genes","a skill learned from practice","a behavior caused by the environment","a physical feature gained over time"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"science_g5", question:"What is DECOMPOSITION?", options:["the breakdown of organic matter by bacteria and fungi","a type of chemical reaction","the formation of new matter","how plants absorb water"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"science_g5", question:"What is REFRACTION?", options:["the bending of light as it passes from one medium to another","the reflection of light","the absorption of light","the scattering of light"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"science_g5", question:"What is a FOOD WEB?", options:["a complex system showing the feeding relationships among multiple organisms","a single food chain","a map of an ecosystem","a list of predators"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"science_g5", question:"What is CONDENSATION?", options:["water vapor cooling and turning into liquid water","water heating up and evaporating","ice melting into water","rain falling from clouds"], correct:0 },
+        ],
+      },
+      {
+        id: "history_g5",
+        name: "History & Social Studies",
+        questions: [
+          { type:"mcq", topic:"vocab_g5", subtopic:"history_g5", question:"What is a COLONY?", options:["a territory controlled by another country","an independent nation","a type of government","a trade route"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"history_g5", question:"What is a REVOLUTION?", options:["a major change in government or society, often through conflict","a type of election","a peaceful protest","a government treaty"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"history_g5", question:"What is SLAVERY?", options:["a system where people are owned and forced to work without pay","a type of farming","a kind of government","a trade agreement"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"history_g5", question:"What is INDEPENDENCE?", options:["freedom from control by another country or group","a type of law","a kind of tax","a government official"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"history_g5", question:"What is a TREATY?", options:["a formal agreement between nations","a type of war","a kind of tax","a government position"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"history_g5", question:"What is an EMPIRE?", options:["a large territory controlled by a single ruler or nation","a small city-state","a type of government","a trade agreement"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"history_g5", question:"What is IMMIGRATION?", options:["moving to a new country to live permanently","traveling for vacation","trading goods between countries","sending soldiers to another land"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"history_g5", question:"What is DEMOCRACY?", options:["a system where citizens choose their leaders by voting","rule by a king or queen","control by a military general","rule by religious leaders"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"history_g5", question:"What does REFORM mean?", options:["to improve or change a system for the better","to destroy a system","to maintain the current system","to vote for a new leader"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"history_g5", question:"What is a PRIMARY SOURCE in history?", options:["a document or artifact from the time period being studied","a book written about history later","a textbook","a documentary film"], correct:0 },
+        ],
+      },
+      {
+        id: "geography_g5",
+        name: "Geography",
+        questions: [
+          { type:"mcq", topic:"vocab_g5", subtopic:"geography_g5", question:"What is ELEVATION?", options:["the height of land above sea level","the depth of the ocean","the distance between two cities","the size of a country"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"geography_g5", question:"What is a BIOME?", options:["a large region with a specific climate and types of plants/animals","a type of ocean","a kind of mountain","a human settlement"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"geography_g5", question:"What is a TRIBUTARY?", options:["a smaller river that flows into a larger river","a type of lake","an ocean current","a kind of waterfall"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"geography_g5", question:"What does POPULATION DENSITY mean?", options:["the number of people living per square mile/kilometer","the total number of people in a country","the size of a city","the age of the population"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"geography_g5", question:"What is URBANIZATION?", options:["the growth of cities as people move from rural to urban areas","a type of farming","a kind of climate change","a government policy"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"geography_g5", question:"What is a TIME ZONE?", options:["a region that observes the same standard time","a type of map","a weather pattern","a climate region"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"geography_g5", question:"What is DEFORESTATION?", options:["large-scale removal of forests","planting new trees","a type of ocean pollution","a kind of soil erosion"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"geography_g5", question:"What is a PENINSULA?", options:["a piece of land surrounded by water on three sides","an island","a mountain range","a flat plain"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"geography_g5", question:"What is CLIMATE?", options:["the typical weather patterns of a region over a long period","the weather today","a type of storm","the temperature in one city"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"geography_g5", question:"What is a DELTA?", options:["flat land formed at the mouth of a river by deposited sediment","a type of mountain","a kind of island","a deep ocean trench"], correct:0 },
+        ],
+      },
+      {
+        id: "academic_g5",
+        name: "Academic Vocabulary",
+        questions: [
+          { type:"mcq", topic:"vocab_g5", subtopic:"academic_g5", question:"What does ANALYZE mean?", options:["to examine something carefully to understand it better","to quickly read something","to copy information","to memorize facts"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"academic_g5", question:"What does SUMMARIZE mean?", options:["to give the main points of something in a shorter form","to copy all the details","to argue against an idea","to describe something step by step"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"academic_g5", question:"What does EVALUATE mean?", options:["to judge the value, quality, or importance of something","to describe something","to copy something","to memorize something"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"academic_g5", question:"What does COMPARE mean?", options:["to find similarities between two or more things","to find differences only","to describe one thing in detail","to argue about something"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"academic_g5", question:"What does CONTRAST mean?", options:["to find differences between two or more things","to find similarities only","to describe one thing in detail","to agree with something"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"academic_g5", question:"What does INFER mean?", options:["to make a logical conclusion based on evidence","to state a known fact","to copy information","to ask a question"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"academic_g5", question:"What does PREDICT mean?", options:["to say what you think will happen based on evidence","to describe what happened","to explain why something happened","to compare two events"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"academic_g5", question:"What does CONCLUDE mean?", options:["to reach a decision or opinion after considering evidence","to begin an argument","to list details","to ask questions"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"academic_g5", question:"What does EVIDENCE mean?", options:["facts, details, or examples that support a claim","the main idea of a text","the conclusion of an argument","a type of question"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"academic_g5", question:"What does SYNTHESIZE mean?", options:["to combine information from multiple sources into a new understanding","to copy one source","to disagree with an idea","to list facts in order"], correct:0 },
+        ],
+      },
+      {
+        id: "idioms_proverbs_g5",
+        name: "Idioms & Proverbs",
+        questions: [
+          { type:"mcq", topic:"vocab_g5", subtopic:"idioms_proverbs_g5", question:"What does 'every cloud has a silver lining' mean?", options:["every bad situation has something good in it","clouds always bring rain","silver is valuable","weather changes quickly"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"idioms_proverbs_g5", question:"What does 'kill two birds with one stone' mean?", options:["accomplish two things with one action","hunt birds efficiently","waste time doing two things","make a difficult choice"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"idioms_proverbs_g5", question:"What does 'the early bird catches the worm' mean?", options:["those who start early succeed more","birds wake up at dawn","worms come out in the morning","being on time is polite"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"idioms_proverbs_g5", question:"What does 'don't judge a book by its cover' mean?", options:["don't judge things by their appearance alone","always read books","buy books carefully","covers are misleading"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"idioms_proverbs_g5", question:"What does 'hit the nail on the head' mean?", options:["describe something exactly right","do a good carpentry job","be very strong","work quickly"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"idioms_proverbs_g5", question:"What does 'actions speak louder than words' mean?", options:["what you do matters more than what you say","being loud gets attention","words are meaningless","people listen to actions"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"idioms_proverbs_g5", question:"What does 'get cold feet' mean?", options:["to become nervous or hesitant about doing something","to feel physically cold","to slow down","to change your shoes"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"idioms_proverbs_g5", question:"What does 'add fuel to the fire' mean?", options:["to make a bad situation even worse","to help someone stay warm","to start a new problem","to solve an argument"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"idioms_proverbs_g5", question:"What does 'practice makes perfect' mean?", options:["repeatedly doing something improves your skill","perfectionism is important","you need lots of equipment","practice takes too long"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"idioms_proverbs_g5", question:"What does 'bite off more than you can chew' mean?", options:["take on more than you can handle","eat too fast","have big ambitions","chew your food carefully"], correct:0 },
+        ],
+      },
+      {
+        id: "wordplay_g5",
+        name: "Wordplay & Literary Devices",
+        questions: [
+          { type:"mcq", topic:"vocab_g5", subtopic:"wordplay_g5", question:"What is a PUN?", options:["a play on words that have similar sounds or meanings","a type of metaphor","an extreme exaggeration","repeating beginning sounds"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"wordplay_g5", question:"'The bicycle couldn't stand on its own because it was two-tired.' This is a:", options:["pun","metaphor","simile","hyperbole"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"wordplay_g5", question:"What is ALLITERATION?", options:["repeating the same beginning consonant sound in nearby words","rhyming words at the end of lines","giving objects human qualities","an extreme exaggeration"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"wordplay_g5", question:"'Peter Piper picked a peck of pickled peppers' is an example of:", options:["alliteration","metaphor","irony","hyperbole"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"wordplay_g5", question:"What is ONOMATOPOEIA?", options:["words that imitate the sound they describe (buzz, splash, crackle)","a type of comparison","an extreme exaggeration","giving human traits to things"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"wordplay_g5", question:"What is an OXYMORON?", options:["two contradictory words used together (deafening silence, sweet sorrow)","a type of rhyme","an extreme exaggeration","a repetition of sounds"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"wordplay_g5", question:"What is REPETITION as a literary device?", options:["deliberately repeating words or phrases for emphasis or effect","a mistake in writing","a type of rhyme","copying another author's work"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"wordplay_g5", question:"What is ASSONANCE?", options:["repetition of vowel sounds in nearby words (the rain in Spain)","repetition of consonant sounds","a type of metaphor","a play on words"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"wordplay_g5", question:"What is a RHETORICAL QUESTION?", options:["a question asked for effect, not expecting an answer","a question in a quiz","a type of interview question","an open-ended question"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"wordplay_g5", question:"'Oh, what a surprise!' (said sarcastically when something obvious happens) — This is:", options:["verbal irony","a simile","alliteration","a pun"], correct:0 },
+        ],
+      },
+      {
+        id: "formal_informal_g5",
+        name: "Formal vs. Informal Language",
+        questions: [
+          { type:"mcq", topic:"vocab_g5", subtopic:"formal_informal_g5", question:"Which sentence is more FORMAL?", options:["I would like to request further information.","Can you tell me more?","I wanna know more.","What's up with that?"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"formal_informal_g5", question:"Which word is more FORMAL?", options:["commence","start","kick off","get going"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"formal_informal_g5", question:"Which is an example of INFORMAL language?", options:["gonna, wanna, kinda","therefore, consequently, furthermore","I request, I propose, I suggest","Dear Sir/Madam, Yours sincerely"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"formal_informal_g5", question:"When should you use FORMAL language?", options:["in a job application or school essay","when texting a friend","in a casual conversation","when playing games online"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"formal_informal_g5", question:"What is REGISTER in language?", options:["the level of formality appropriate for a situation","a type of grammar rule","a list of vocabulary words","a kind of punctuation"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"formal_informal_g5", question:"Which sentence uses CONTRACTIONS (informal)?", options:["I can't attend the meeting.","I am unable to attend the meeting.","I will not be present.","I regret that I am unable to attend."], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"formal_informal_g5", question:"Which word is the FORMAL equivalent of 'kids'?", options:["children","youngsters","little ones","tiny humans"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"formal_informal_g5", question:"Which is a feature of FORMAL writing?", options:["complete sentences, no slang, professional vocabulary","short forms, slang, casual tone","emojis and abbreviations","sentence fragments"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"formal_informal_g5", question:"'Hey, just wanted to check in!' — This is:", options:["informal","formal","academic","professional"], correct:0 },
+          { type:"mcq", topic:"vocab_g5", subtopic:"formal_informal_g5", question:"Which formal word replaces 'get'?", options:["obtain","grab","snag","pick up"], correct:0 },
+        ],
+      },
     ],
   },
 ];
@@ -3633,6 +3761,134 @@ const G6: EnglishTheme[] = [
         name: "Greek & Latin Affixes & Roots",
         questions: [
           { type:"mcq", topic:"vocab_g6", subtopic:"greek_latin_g6", question:"The Greek root 'graph' means:", options:["write","see","hear","speak"], correct:0 },
+        ],
+      },
+      {
+        id: "debate_g6",
+        name: "Debate & Argumentation",
+        questions: [
+          { type:"mcq", topic:"vocab_g6", subtopic:"debate_g6", question:"What is a CLAIM in an argument?", options:["the main point or position being argued","a piece of evidence","a counter-argument","the conclusion"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"debate_g6", question:"What is a COUNTER-ARGUMENT?", options:["a point that opposes your position","a supporting detail","your opening statement","your conclusion"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"debate_g6", question:"What does REBUT mean?", options:["to argue against a counter-point with evidence","to agree with the other side","to add more evidence","to summarize your argument"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"debate_g6", question:"What is EVIDENCE in a debate?", options:["facts, data, or examples that support a claim","the speaker's opinion","an emotional appeal","the opening statement"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"debate_g6", question:"What is BIAS?", options:["an unfair preference that affects judgment","a type of evidence","a logical conclusion","a factual statement"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"debate_g6", question:"What is a LOGICAL FALLACY?", options:["an error in reasoning that makes an argument invalid","a strong piece of evidence","a type of conclusion","a well-supported claim"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"debate_g6", question:"'Ad hominem' means attacking:", options:["the person instead of their argument","the evidence","the conclusion","the logic"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"debate_g6", question:"What does PERSPECTIVE mean in debate?", options:["the point of view from which an issue is seen","a type of evidence","a counter-argument","the conclusion"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"debate_g6", question:"What is ETHOS in persuasion?", options:["credibility and trustworthiness of the speaker","emotional appeal","logical argument","factual evidence"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"debate_g6", question:"What is PATHOS in persuasion?", options:["emotional appeal to the audience","logical argument","speaker credibility","factual evidence"], correct:0 },
+        ],
+      },
+      {
+        id: "literature_g6",
+        name: "Literary Terms",
+        questions: [
+          { type:"mcq", topic:"vocab_g6", subtopic:"literature_g6", question:"What is a PROTAGONIST?", options:["the main character of a story","the villain","the narrator","the author"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"literature_g6", question:"What is FORESHADOWING?", options:["hints about what will happen later in the story","a flashback to the past","a description of the setting","the climax of the story"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"literature_g6", question:"What is the THEME of a story?", options:["the central message or lesson","the main character","the setting","the plot"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"literature_g6", question:"What is CONFLICT in a story?", options:["the struggle between opposing forces","the setting of the story","the solution to the problem","the narrator's voice"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"literature_g6", question:"What is the CLIMAX of a story?", options:["the turning point and moment of highest tension","the beginning of the story","the resolution","the setting"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"literature_g6", question:"What is CHARACTERIZATION?", options:["how an author reveals a character's personality","the setting of the story","the plot structure","the story's theme"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"literature_g6", question:"What is a SYMBOL in literature?", options:["an object, person, or place that represents a deeper meaning","a character's action","a type of conflict","a plot device"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"literature_g6", question:"What is POINT OF VIEW?", options:["the perspective from which a story is told","the main conflict","the setting","the theme"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"literature_g6", question:"What is IMAGERY in literature?", options:["descriptive language that creates a mental picture using the senses","a type of metaphor","the story's theme","the plot structure"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"literature_g6", question:"What is IRONY?", options:["a contrast between what is expected and what actually happens","a type of metaphor","a comparison using 'like' or 'as'","giving human traits to objects"], correct:0 },
+        ],
+      },
+      {
+        id: "science_g6",
+        name: "Science Vocabulary",
+        questions: [
+          { type:"mcq", topic:"vocab_g6", subtopic:"science_g6", question:"What is a CELL?", options:["the basic unit of all living things","a type of organ","a kind of tissue","a body system"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"science_g6", question:"What is PHOTOSYNTHESIS?", options:["how plants convert sunlight into energy/food","how animals digest food","how rocks are formed","how water evaporates"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"science_g6", question:"What is an ATOM?", options:["the smallest particle of an element","a type of molecule","a kind of cell","a body organ"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"science_g6", question:"What is EVOLUTION?", options:["the gradual change in species over time through natural selection","a type of migration","a kind of reproduction","a form of adaptation"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"science_g6", question:"What is KINETIC ENERGY?", options:["energy of motion","stored energy","heat energy","light energy"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"science_g6", question:"What is a HYPOTHESIS?", options:["a testable prediction about the outcome of an experiment","a proven scientific law","a type of observation","a conclusion"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"science_g6", question:"What is NATURAL SELECTION?", options:["the process by which organisms best suited to their environment survive and reproduce","a type of breeding","a kind of migration","a form of adaptation"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"science_g6", question:"What is POTENTIAL ENERGY?", options:["stored energy that has the potential to do work","the energy of movement","heat energy","light energy"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"science_g6", question:"What is OSMOSIS?", options:["the movement of water through a semi-permeable membrane","a type of chemical reaction","how plants make food","how cells divide"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"science_g6", question:"What is the SCIENTIFIC METHOD?", options:["a systematic process: observe, hypothesize, experiment, analyze, conclude","a type of experiment","a kind of observation","a research tool"], correct:0 },
+        ],
+      },
+      {
+        id: "social_studies_g6",
+        name: "Social Studies Vocabulary",
+        questions: [
+          { type:"mcq", topic:"vocab_g6", subtopic:"social_studies_g6", question:"What is CIVILIZATION?", options:["an organized, complex society with cities, government, and culture","a type of tribe","a rural community","a nomadic group"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"social_studies_g6", question:"What is a TRADE ROUTE?", options:["a path used for exchanging goods between regions or countries","a type of road","a kind of river","a government border"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"social_studies_g6", question:"What is COLONIZATION?", options:["when one country takes control of and settles in another territory","a type of trade","a kind of government","a form of migration"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"social_studies_g6", question:"What is FEUDALISM?", options:["a medieval system where lords owned land and peasants worked it in exchange for protection","a type of democracy","a modern government","a trade system"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"social_studies_g6", question:"What is CULTURE?", options:["the beliefs, customs, arts, and way of life of a group of people","a type of language","a kind of food","a government policy"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"social_studies_g6", question:"What is a REPUBLIC?", options:["a government where citizens elect representatives to make decisions","a monarchy","a dictatorship","an oligarchy"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"social_studies_g6", question:"What does MIGRATE mean?", options:["to move from one place to another, often permanently","to trade goods","to build cities","to govern a country"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"social_studies_g6", question:"What is DEMOCRACY?", options:["a system where citizens vote and participate in government","rule by a king","control by military","rule by one party"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"social_studies_g6", question:"What is ARCHAEOLOGY?", options:["the study of ancient cultures through artifacts and remains","the study of languages","the study of economies","the study of governments"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"social_studies_g6", question:"What is GLOBALIZATION?", options:["the increasing connection of countries through trade, culture, and communication","a type of colonization","a kind of migration","a form of government"], correct:0 },
+        ],
+      },
+      {
+        id: "formal_writing_g6",
+        name: "Formal Writing",
+        questions: [
+          { type:"mcq", topic:"vocab_g6", subtopic:"formal_writing_g6", question:"What is a THESIS STATEMENT?", options:["a sentence that states the main argument of an essay","the topic of a paragraph","a supporting detail","the concluding sentence"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"formal_writing_g6", question:"What is PARAPHRASING?", options:["restating someone else's idea in your own words","copying word for word","summarizing briefly","quoting directly"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"formal_writing_g6", question:"What is PLAGIARISM?", options:["using someone else's work or ideas without giving them credit","a type of citation","a writing style","a research method"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"formal_writing_g6", question:"What is a CITATION?", options:["giving credit to the source of information you used","a type of quote","a kind of transition","a writing technique"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"formal_writing_g6", question:"What is an INTRODUCTION paragraph?", options:["the opening paragraph that presents the topic and thesis","the conclusion","a body paragraph","a supporting detail"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"formal_writing_g6", question:"What is a BODY PARAGRAPH?", options:["a paragraph that develops and supports the thesis with evidence","the opening paragraph","the closing paragraph","a transition sentence"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"formal_writing_g6", question:"What is a CONCLUSION paragraph?", options:["the final paragraph that restates the thesis and summarizes key points","the opening paragraph","a body paragraph","an evidence sentence"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"formal_writing_g6", question:"What does ANNOTATE mean?", options:["to add notes or comments to a text","to copy a text","to summarize a text","to delete parts of a text"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"formal_writing_g6", question:"What is PEER REVIEW?", options:["when classmates give feedback on each other's writing","a teacher's grade","a self-assessment","a final edit"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"formal_writing_g6", question:"What is a DRAFT?", options:["an early version of a piece of writing that will be revised","the final version","a published document","a research note"], correct:0 },
+        ],
+      },
+      {
+        id: "word_nuance_g6",
+        name: "Word Nuances",
+        questions: [
+          { type:"mcq", topic:"vocab_g6", subtopic:"word_nuance_g6", question:"'Walk, stride, trudge, stroll' all mean to move on foot. Which suggests difficulty?", options:["trudge","stroll","stride","walk"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"word_nuance_g6", question:"'Curious, nosy, inquisitive' — which has a NEGATIVE connotation?", options:["nosy","curious","inquisitive","all the same"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"word_nuance_g6", question:"'Slender, thin, scrawny' — which has the most POSITIVE connotation?", options:["slender","scrawny","thin","all negative"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"word_nuance_g6", question:"Which word pair shows the BIGGEST difference in intensity?", options:["angry / furious","happy / glad","sad / unhappy","big / large"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"word_nuance_g6", question:"'House, home, residence, dwelling' — which feels the WARMEST?", options:["home","residence","dwelling","house"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"word_nuance_g6", question:"'Cheap, economical, frugal' — which is most POSITIVE?", options:["frugal","cheap","economical","all positive"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"word_nuance_g6", question:"What is WORD NUANCE?", options:["subtle differences in meaning between similar words","words with the same meaning","words with opposite meanings","words with multiple spellings"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"word_nuance_g6", question:"'Said, whispered, shouted, mumbled' — which shows the LEAST confidence?", options:["mumbled","shouted","whispered","said"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"word_nuance_g6", question:"Why do skilled writers choose words with care?", options:["word choice affects the tone, mood, and meaning of writing","to use longer sentences","to fill up space","to follow grammar rules"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"word_nuance_g6", question:"'Brave, bold, reckless' — which suggests doing something WITHOUT thinking?", options:["reckless","brave","bold","all the same"], correct:0 },
+        ],
+      },
+      {
+        id: "etymology_g6",
+        name: "Etymology & Word Origins",
+        questions: [
+          { type:"mcq", topic:"vocab_g6", subtopic:"etymology_g6", question:"What is ETYMOLOGY?", options:["the study of the origin and history of words","the study of grammar","the study of sentence structure","the study of spelling"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"etymology_g6", question:"The word 'democracy' comes from Greek 'demos' (people) + 'kratos' (power). What does this tell you?", options:["democracy means rule by the people","democracy is a type of election","democracy is a form of monarchy","democracy means free trade"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"etymology_g6", question:"The Latin root 'aqua' means:", options:["water","fire","earth","air"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"etymology_g6", question:"The Greek root 'logos' means:", options:["word or reason","light","life","earth"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"etymology_g6", question:"The Latin root 'terra' means:", options:["earth/land","water","sky","fire"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"etymology_g6", question:"Which word comes from the Latin root 'port' (to carry)?", options:["transport","portrait","portal","portion"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"etymology_g6", question:"The Greek prefix 'micro-' means:", options:["very small","very large","far away","beneath"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"etymology_g6", question:"The Latin root 'lumen' means:", options:["light","sound","water","force"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"etymology_g6", question:"Which word contains the Greek root 'phone' (sound)?", options:["microphone","microscope","telescope","thermometer"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"etymology_g6", question:"Knowing a word's root can help you:", options:["figure out the meaning of unfamiliar words","spell words correctly","write faster","memorize grammar rules"], correct:0 },
+        ],
+      },
+      {
+        id: "rhetorical_g6",
+        name: "Rhetorical Devices",
+        questions: [
+          { type:"mcq", topic:"vocab_g6", subtopic:"rhetorical_g6", question:"What is ANAPHORA?", options:["repeating the same word or phrase at the beginning of successive clauses","a type of metaphor","an exaggeration","a comparison using 'like'"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"rhetorical_g6", question:"'We shall fight on the beaches, we shall fight on the landing grounds, we shall fight...' — This is:", options:["anaphora","hyperbole","simile","alliteration"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"rhetorical_g6", question:"What is a RHETORICAL QUESTION?", options:["a question asked for effect, not requiring an answer","a question in a debate","a type of argument","an open question"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"rhetorical_g6", question:"What is LOGOS in rhetoric?", options:["an appeal to logic and reason","an appeal to emotion","an appeal to credibility","an appeal to timing"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"rhetorical_g6", question:"What is ETHOS in rhetoric?", options:["an appeal to the speaker's credibility or character","an appeal to emotion","an appeal to logic","an appeal to the audience's needs"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"rhetorical_g6", question:"What is PATHOS in rhetoric?", options:["an appeal to the audience's emotions","an appeal to logic","an appeal to credibility","an appeal to facts"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"rhetorical_g6", question:"What is PARALLELISM in writing?", options:["using the same grammatical structure for related ideas","a type of rhyme","an extreme exaggeration","a play on words"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"rhetorical_g6", question:"'I came, I saw, I conquered.' — This is an example of:", options:["parallelism","hyperbole","alliteration","metaphor"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"rhetorical_g6", question:"What is REPETITION used for in rhetoric?", options:["to emphasize a key point and make it memorable","to add more information","to confuse the audience","to change the topic"], correct:0 },
+          { type:"mcq", topic:"vocab_g6", subtopic:"rhetorical_g6", question:"Which rhetorical device uses extreme exaggeration for emphasis?", options:["hyperbole","metaphor","anaphora","parallelism"], correct:0 },
         ],
       },
     ],
@@ -4156,26 +4412,28 @@ export function getEnglishQuestions(
       if (selectedSubtopicIds.includes(sub.id)) {
         // Try to get the generator function for this topic/subtopic
         const topicGenerators = generators[theme.id];
-        if (topicGenerators) {
-          const generatorFn = topicGenerators[sub.id];
-          if (generatorFn && typeof generatorFn === "function") {
-            // Call the generator with a random seed for variation
-            const seed = Math.floor(Math.random() * 1000000);
-            const generated = generatorFn(seed);
-            pool.push(...generated);
-          } else {
-            // Fallback to hardcoded questions if generator doesn't exist
-            pool.push(...sub.questions);
+        // Find base generator (check current theme first, then all themes)
+        let generatorFn: ((seed?: number) => CurriculumQuestion[]) | undefined = generators[theme.id]?.[sub.id];
+        if (!generatorFn) {
+          for (const themeGens of Object.values(generators)) {
+            if (themeGens[sub.id]) { generatorFn = themeGens[sub.id]; break; }
           }
-          // Also call the _typing variant if it exists (mixed MCQ + typing questions)
-          const typingFn = topicGenerators[sub.id + "_typing"];
-          if (typingFn && typeof typingFn === "function") {
-            const seed2 = Math.floor(Math.random() * 1000000);
-            pool.push(...typingFn(seed2));
-          }
+        }
+        if (generatorFn) {
+          pool.push(...generatorFn(Math.floor(Math.random() * 1000000)));
         } else {
-          // Fallback to hardcoded questions if topic generators don't exist
           pool.push(...sub.questions);
+        }
+        // Find _typing variant across all themes
+        const typingKey = sub.id + "_typing";
+        let typingFn: ((seed?: number) => CurriculumQuestion[]) | undefined = generators[theme.id]?.[typingKey];
+        if (!typingFn) {
+          for (const themeGens of Object.values(generators)) {
+            if (themeGens[typingKey]) { typingFn = themeGens[typingKey]; break; }
+          }
+        }
+        if (typingFn) {
+          pool.push(...typingFn(Math.floor(Math.random() * 1000000)));
         }
       }
     }
