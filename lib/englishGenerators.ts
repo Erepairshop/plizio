@@ -350,6 +350,23 @@ export const G1_Generators = {
       }
       return q;
     },
+    adjectives_g1: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const adjectives = ["big", "happy", "fast", "soft", "cold", "hot", "small", "loud", "quiet", "sweet",
+        "sour", "sharp", "dull", "long", "short", "tall", "wide", "narrow", "heavy", "light",
+        "bright", "dark", "clean", "dirty", "new", "old", "beautiful", "ugly", "delicious", "yummy",
+        "tasty", "bitter", "funny", "sad", "blue", "red", "green", "yellow", "pink", "orange"];
+      const notAdjectives = ["dog", "run", "jump", "ball", "cat", "eat", "walk", "play", "book", "swim",
+        "sit", "stand", "rock", "fire", "mouse", "sound", "room", "talk", "snowman", "house"];
+      for (let i = 0; i < 35; i++) {
+        const adj = pick(adjectives, rng);
+        const wrong = shuffle(notAdjectives, rng).slice(0, 3);
+        q.push(createMCQ("words_g1", "adjectives_g1",
+          `Which word is an ADJECTIVE (describes a noun)?`, adj, wrong));
+      }
+      return q;
+    },
   },
   sentences_g1: {
     end_punctuation_g1: (seed?: number) => {
@@ -459,6 +476,238 @@ export const G1_Generators = {
         ];
         q.push(createMCQ("sentences_g1", "declarative_interrogative_g1",
           `What type of sentence is this? "${sent.text}"`, sent.type, wrong));
+      }
+      return q;
+    },
+    imperative_exclamatory_g1: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const imperativeData = [
+        "Sit down!", "Close the door!", "Come here!", "Help me!", "Listen carefully!",
+        "Stop running!", "Eat your vegetables!", "Be quiet!", "Show me your work!", "Pick up the toy!",
+        "Wash your hands!", "Go to bed!", "Stand up!", "Try your best!", "Look at me!",
+      ];
+      const exclamatoryData = [
+        "What a great day!", "I love ice cream!", "This is amazing!", "Watch out!", "I won the game!",
+        "That is so funny!", "I can not believe it!", "This is so exciting!", "How wonderful!", "That is incredible!",
+        "I love this so much!", "How happy I am!", "This is the best!", "What great news!", "That is incredible!",
+      ];
+      const wrongImperative = [
+        "You sit down.", "Do you sit?", "Sitting is fun!", "The door is closed.", "Is the door closed?", "Closing the door!",
+        "You come here.", "Are you coming?", "Come here please.", "You help me.", "Can you help?", "He helps me!",
+      ];
+      const wrongExclamatory = [
+        "It is a great day.", "Is it a great day?", "Have a great day!", "I like ice cream.", "Do you like ice cream?",
+        "You love ice cream!", "This is something.", "Is this amazing?", "That is amazing!", "You watch out.", "Are you watching?",
+      ];
+      for (let i = 0; i < 30; i++) {
+        const isImperative = rng() > 0.5;
+        if (isImperative) {
+          const correct = pick(imperativeData, rng);
+          const wrong = shuffle(wrongImperative, rng).slice(0, 3);
+          q.push(createMCQ("sentences_g1", "imperative_exclamatory_g1",
+            `Which is an IMPERATIVE sentence (a command)?`, correct, wrong));
+        } else {
+          const correct = pick(exclamatoryData, rng);
+          const wrong = shuffle(wrongExclamatory, rng).slice(0, 3);
+          q.push(createMCQ("sentences_g1", "imperative_exclamatory_g1",
+            `Which is an EXCLAMATORY sentence (shows strong feeling)?`, correct, wrong));
+        }
+      }
+      return q;
+    },
+  },
+  reading_g1: {
+    story_comprehension_g1: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const stories: { title: string; text: string; questions: { q: string; correct: string; wrong: string[] }[] }[] = [
+        {
+          title: "Tom's Day",
+          text: "Tom ate breakfast. Then he went to school. After school, he came home.",
+          questions: [
+            { q: "What did Tom do FIRST?", correct: "Ate breakfast", wrong: ["Went to school", "Came home", "Played outside"] },
+            { q: "When did Tom go to school?", correct: "After breakfast", wrong: ["First thing", "After coming home", "Before eating"] },
+            { q: "What is the MAIN IDEA?", correct: "Tom's daily activities", wrong: ["Tom ate a lot", "Tom went to school", "Tom came home"] },
+          ]
+        },
+        {
+          title: "Sarah's Morning",
+          text: "Sarah put on her shoes. She opened the door. Then she went outside.",
+          questions: [
+            { q: "What happened FIRST?", correct: "Put on her shoes", wrong: ["Opened the door", "Went outside", "Came back home"] },
+            { q: "When did Sarah go outside?", correct: "After opening the door", wrong: ["Before putting on shoes", "First", "Before opening door"] },
+            { q: "What is the ORDER of events?", correct: "Shoes, door, outside", wrong: ["Outside, shoes, door", "Door, shoes, outside", "All together"] },
+          ]
+        },
+        {
+          title: "John's Lunch",
+          text: "John made a sandwich. He poured juice. Then he ate lunch.",
+          questions: [
+            { q: "What is the MAIN IDEA?", correct: "John prepared and ate lunch", wrong: ["John made a sandwich", "John poured juice", "John was hungry"] },
+            { q: "What did John make FIRST?", correct: "A sandwich", wrong: ["Juice", "Lunch", "Food"] },
+            { q: "What did John do SECOND?", correct: "Poured juice", wrong: ["Made sandwich", "Ate lunch", "Cleaned up"] },
+          ]
+        },
+        {
+          title: "The Ball Game",
+          text: "The boy found a ball. He threw it. His friend caught it.",
+          questions: [
+            { q: "What did the FRIEND do?", correct: "Caught the ball", wrong: ["Threw the ball", "Found the ball", "Played outside"] },
+            { q: "Who FOUND the ball?", correct: "The boy", wrong: ["His friend", "Both", "The girl"] },
+            { q: "What happened LAST?", correct: "His friend caught it", wrong: ["He threw it", "The boy found it", "They played"] },
+          ]
+        },
+        {
+          title: "Emma's Reading",
+          text: "Emma read a book. She sat in a chair. The cat sat next to her.",
+          questions: [
+            { q: "Who was in the story?", correct: "Emma, a cat, and a book", wrong: ["Emma and a dog", "A cat and chair", "Emma alone"] },
+            { q: "Where did Emma sit?", correct: "In a chair", wrong: ["On the floor", "On a couch", "Outside"] },
+            { q: "What was the cat doing?", correct: "Sitting next to Emma", wrong: ["Reading with her", "Playing", "Sleeping"] },
+          ]
+        },
+        {
+          title: "Outdoor Play",
+          text: "The sun came up. The birds sang. Children played outside.",
+          questions: [
+            { q: "What is the SETTING?", correct: "Outside in the morning", wrong: ["Inside the house", "At night", "In a store"] },
+            { q: "What did the BIRDS do?", correct: "Sang", wrong: ["Played", "Sat down", "Flew"] },
+            { q: "When did this happen?", correct: "In the morning", wrong: ["At night", "In afternoon", "Evening"] },
+          ]
+        },
+        {
+          title: "A Girl's Toy",
+          text: "A girl had no toy. She made one from a box. Then she played happily.",
+          questions: [
+            { q: "What is TRUE?", correct: "She made a toy", wrong: ["She had a toy", "She had a box", "She was sad"] },
+            { q: "What did she use to make the toy?", correct: "A box", wrong: ["Paper", "Wood", "Plastic"] },
+            { q: "How did she FEEL at the end?", correct: "Happy", wrong: ["Sad", "Angry", "Scared"] },
+          ]
+        },
+        {
+          title: "The Dog at Park",
+          text: "The dog ran to the park. He played with other dogs. Then he came home tired.",
+          questions: [
+            { q: "What HAPPENED LAST?", correct: "He came home tired", wrong: ["He played with dogs", "He ran to park", "He slept"] },
+            { q: "Where did the dog GO?", correct: "To the park", wrong: ["To school", "To the store", "Nowhere"] },
+            { q: "How did the dog feel at the END?", correct: "Tired", wrong: ["Happy", "Sad", "Angry"] },
+          ]
+        },
+        {
+          title: "Cookie Time",
+          text: "Mom made cookies. Dad helped. The kids ate them.",
+          questions: [
+            { q: "Who MADE the cookies?", correct: "Mom", wrong: ["Dad", "The kids", "Everyone"] },
+            { q: "Who HELPED?", correct: "Dad", wrong: ["Mom", "The kids", "Brother"] },
+            { q: "What did the kids do?", correct: "Ate them", wrong: ["Made them", "Helped", "Shared"] },
+          ]
+        },
+        {
+          title: "Rain and Flowers",
+          text: "It rained hard. The flowers got water. They grew big.",
+          questions: [
+            { q: "What helped the flowers GROW?", correct: "The rain", wrong: ["The sun", "The wind", "The soil"] },
+            { q: "What is TRUE?", correct: "The flowers grew big", wrong: ["The flowers died", "No rain fell", "Flowers were small"] },
+            { q: "What happened FIRST?", correct: "It rained", wrong: ["Flowers grew", "Flowers got water", "It was sunny"] },
+          ]
+        },
+        {
+          title: "Sam Falls Down",
+          text: "Sam fell down. His friend helped him up. Sam felt better.",
+          questions: [
+            { q: "What was the PROBLEM?", correct: "Sam fell down", wrong: ["Sam was sad", "His friend fell", "They were outside"] },
+            { q: "Who HELPED Sam?", correct: "His friend", wrong: ["His mom", "His teacher", "Himself"] },
+            { q: "How did Sam feel at the END?", correct: "Better", wrong: ["Hurt", "Sad", "Angry"] },
+          ]
+        },
+        {
+          title: "The Bird's Nest",
+          text: "A bird built a nest. She laid eggs. The eggs hatched.",
+          questions: [
+            { q: "What is the ORDER of events?", correct: "Built nest, laid eggs, hatched", wrong: ["Hatched, built nest, laid eggs", "Laid eggs, built nest, hatched", "All at once"] },
+            { q: "What did the bird BUILD?", correct: "A nest", wrong: ["Eggs", "A home", "A tree"] },
+            { q: "What HATCHED?", correct: "The eggs", wrong: ["The nest", "The bird", "The tree"] },
+          ]
+        },
+        {
+          title: "The Hungry Cat",
+          text: "The cat was hungry. She ate food. Then she slept.",
+          questions: [
+            { q: "What is the MAIN IDEA?", correct: "The cat ate and slept", wrong: ["The cat was hungry", "The cat ate food", "The cat slept"] },
+            { q: "How did the CAT FEEL at first?", correct: "Hungry", wrong: ["Sad", "Happy", "Tired"] },
+            { q: "What did the cat do LAST?", correct: "Slept", wrong: ["Ate", "Played", "Woke up"] },
+          ]
+        },
+        {
+          title: "James' Pencil",
+          text: "James lost his pencil. He looked everywhere. He found it under his desk.",
+          questions: [
+            { q: "Where was the PENCIL?", correct: "Under the desk", wrong: ["In his hand", "On the table", "In his pocket"] },
+            { q: "What did James DO first?", correct: "Lost his pencil", wrong: ["Looked for it", "Found it", "Cleaned desk"] },
+            { q: "Where did he FIND it?", correct: "Under his desk", wrong: ["In his bag", "On the table", "On the floor"] },
+          ]
+        },
+        {
+          title: "Growing Plant",
+          text: "A boy planted a seed. He watered it. It grew into a plant.",
+          questions: [
+            { q: "What WILL HAPPEN NEXT?", correct: "It will get bigger", wrong: ["It will die", "It will disappear", "It will turn brown"] },
+            { q: "What did the boy do FIRST?", correct: "Planted a seed", wrong: ["Watered it", "It grew", "Picked it"] },
+            { q: "What is the MAIN IDEA?", correct: "Growing a plant from a seed", wrong: ["Watering a plant", "Planting seeds", "A boy plays"] },
+          ]
+        },
+        {
+          title: "Lisa's Candy",
+          text: "Lisa wanted to buy candy. She saved her money. She bought the candy.",
+          questions: [
+            { q: "What is TRUE?", correct: "Lisa saved money to buy candy", wrong: ["Lisa found candy", "Lisa got candy free", "Lisa made candy"] },
+            { q: "What did Lisa WANT?", correct: "To buy candy", wrong: ["To save money", "To give candy", "To sell candy"] },
+            { q: "How did she GET the money?", correct: "By saving it", wrong: ["She found it", "Her parents gave it", "She earned it"] },
+          ]
+        },
+        {
+          title: "School Trip",
+          text: "The class went on a trip. They saw animals. They had fun.",
+          questions: [
+            { q: "What is the MAIN IDEA?", correct: "The class had fun on a trip", wrong: ["The class went to the zoo", "They saw animals", "They traveled"] },
+            { q: "What did they SEE?", correct: "Animals", wrong: ["Plants", "People", "Cars"] },
+            { q: "Did they have FUN?", correct: "Yes", wrong: ["No", "Maybe", "Sometimes"] },
+          ]
+        },
+        {
+          title: "Jack and Cold",
+          text: "It was cold outside. Jack wore a coat. He built a snowman.",
+          questions: [
+            { q: "Why did Jack wear a COAT?", correct: "It was cold", wrong: ["It was raining", "He liked coats", "He was playing"] },
+            { q: "What did Jack BUILD?", correct: "A snowman", wrong: ["A fort", "A house", "A door"] },
+            { q: "What is the SETTING?", correct: "Outside in winter", wrong: ["Inside", "At the beach", "In spring"] },
+          ]
+        },
+        {
+          title: "Ruby's Apples",
+          text: "Ruby had apples. She shared them with friends. Everyone was happy.",
+          questions: [
+            { q: "What HAPPENED at the END?", correct: "Everyone was happy", wrong: ["She had apples", "She shared apples", "Friends came over"] },
+            { q: "What did Ruby DO with the apples?", correct: "Shared them", wrong: ["Ate them", "Sold them", "Hid them"] },
+            { q: "Who was HAPPY?", correct: "Everyone", wrong: ["Just Ruby", "Just friends", "Nobody"] },
+          ]
+        },
+        {
+          title: "Light in the Dark",
+          text: "A girl was scared of the dark. Her mom left a light on. Now she felt safe.",
+          questions: [
+            { q: "What helped her feel SAFE?", correct: "The light", wrong: ["Her mom", "The dark", "Her bed"] },
+            { q: "Why was the girl SCARED?", correct: "Of the dark", wrong: ["Of her mom", "Of the light", "Of nothing"] },
+            { q: "What did her MOM DO?", correct: "Left a light on", wrong: ["Came to her", "Told a story", "Sang a song"] },
+          ]
+        },
+      ];
+      for (let i = 0; i < 19; i++) {
+        const story = pick(stories, rng);
+        const question = pick(story.questions, rng);
+        q.push(createMCQ("reading_g1", "story_comprehension_g1",
+          question.q, question.correct, question.wrong));
       }
       return q;
     },
