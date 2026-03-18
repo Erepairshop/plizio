@@ -24,6 +24,13 @@ import SpeedRound from "@/app/astromath/games/SpeedRound";
 import RocketLaunch from "@/app/astromath/games/RocketLaunch";
 import IslandCompleteAnimation from "@/app/astromath/IslandCompleteAnimation";
 import RocketTransition from "@/app/astromath/RocketTransition";
+import SpeechTransformExplorer from "@/app/astrodeutsch/games/SpeechTransformExplorer";
+import PassiveExplorer from "@/app/astrodeutsch/games/PassiveExplorer";
+import ParticipleExplorer from "@/app/astrodeutsch/games/ParticipleExplorer";
+import StyleDeviceExplorer from "@/app/astrodeutsch/games/StyleDeviceExplorer";
+import SentenceAnalysisExplorer from "@/app/astrodeutsch/games/SentenceAnalysisExplorer";
+import VoiceTransformExplorer from "@/app/astrodeutsch/games/VoiceTransformExplorer";
+import ReviewExplorerK8 from "@/app/astrodeutsch/games/ReviewExplorerK8";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import type { IslandDef, MissionDef, Lang, MissionCategory, DeutschProgress } from "@/lib/astroDeutsch";
 import {
@@ -88,7 +95,10 @@ type Screen =
   | "island-transition" | "island-complete-anim"
   | "mission-done" | "island-done" | "reward"
   | "checkpoint-intro" | "checkpoint-quiz" | "checkpoint-done"
-  | "rocket-launch";
+  | "rocket-launch"
+  | "speech-transform-explorer" | "passive-explorer" | "participle-explorer"
+  | "style-device-explorer" | "sentence-analysis-explorer"
+  | "voice-transform-explorer" | "review-explorer-k8";
 
 const STAR_DATA = Array.from({ length: 60 }, (_, i) => ({
   id: i, x: (i * 37 + 13) % 100, y: (i * 53 + 7) % 100,
@@ -421,9 +431,16 @@ export default function AstroDeutschK8Page() {
     if (!activeIsland) return;
     setActiveMission(mission);
     setAvatarMood("focused");
-    const qCount = mission.gameType === "star-match" ? 15 : 10;
-    const qs = generateIslandQuestionsK8(activeIsland, lang as Lang, qCount);
-    setQuestions(qs);
+    const noQuestionsTypes = new Set([
+      "speech-transform-explorer", "passive-explorer", "participle-explorer",
+      "style-device-explorer", "sentence-analysis-explorer",
+      "voice-transform-explorer", "review-explorer-k8",
+    ]);
+    if (!noQuestionsTypes.has(mission.gameType)) {
+      const qCount = mission.gameType === "star-match" ? 15 : 10;
+      const qs = generateIslandQuestionsK8(activeIsland, lang as Lang, qCount);
+      setQuestions(qs);
+    }
     setScreen(mission.gameType as Screen);
   }, [activeIsland, lang]);
 
@@ -703,11 +720,36 @@ export default function AstroDeutschK8Page() {
             onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }}
             onWrong={() => setAvatarMood("disappointed")} />
         )}
+        {screen === "speech-transform-explorer" && (
+          <SpeechTransformExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "passive-explorer" && (
+          <PassiveExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "participle-explorer" && (
+          <ParticipleExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "style-device-explorer" && (
+          <StyleDeviceExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "sentence-analysis-explorer" && (
+          <SentenceAnalysisExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "voice-transform-explorer" && (
+          <VoiceTransformExplorer color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
+        {screen === "review-explorer-k8" && (
+          <ReviewExplorerK8 color={bgColor} lang={lang} onDone={handleMissionDone} />
+        )}
       </div>
     </div>
   );
 
-  if (["orbit-quiz", "black-hole", "star-match", "speed-round"].includes(screen)) return (
+  if (["orbit-quiz", "black-hole", "star-match", "speed-round",
+    "speech-transform-explorer", "passive-explorer", "participle-explorer",
+    "style-device-explorer", "sentence-analysis-explorer",
+    "voice-transform-explorer", "review-explorer-k8",
+  ].includes(screen)) return (
     <>
       {gameScreen}
       <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />

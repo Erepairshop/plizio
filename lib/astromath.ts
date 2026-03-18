@@ -37,7 +37,15 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "spelling-k3-explorer" | "punctuation-explorer"
   | "kasus-explorer" | "kasus2-explorer" | "tense-explorer-k4"
   | "word-class-explorer-k4" | "sentence-part-explorer-k4" | "clause-explorer"
-  | "verb-explorer-k4" | "spelling-explorer-k4" | "review-explorer-k4";
+  | "verb-explorer-k4" | "spelling-explorer-k4" | "review-explorer-k4"
+  | "adjective-comparison-explorer" | "preposition-case-explorer" | "pronoun-explorer-k5"
+  | "punctuation-explorer-k5" | "sentence-analysis-explorer"
+  | "participle-explorer" | "passive-explorer" | "review-explorer-k5" | "spelling-word-explorer"
+  | "voice-transform-explorer" | "wish-machine-explorer" | "infinitiv-builder-explorer"
+  | "word-net-explorer" | "clause-connector-explorer" | "word-build-explorer"
+  | "review-explorer-k6"
+  | "speech-transform-explorer" | "style-device-explorer" | "review-explorer-k7"
+  | "review-explorer-k8";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }

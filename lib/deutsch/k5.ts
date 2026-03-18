@@ -6768,7 +6768,7 @@ export const K5_EXPANSION: DeutschTheme[] = [
 // K5_EXPANSION2 — Textarbeit + Rechtschreibung/Zeichensetzung (2026-03-17)
 // ============================================================================
 
-const K5_TEXTARBEIT_Q = [// ===== ERZAEHLUNG_K5 (25 questions) =====
+const K5_TEXTARBEIT_Q_OLD = [// ===== ERZAEHLUNG_K5 (25 questions) =====
   { type: "mcq", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Welcher Teil einer Erzählung führt Personen, Ort und Zeit ein?", options: ["Hauptteil", "Einleitung", "Höhepunkt", "Schluss"], correct: 1 },
   { type: "mcq", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "In welcher Zeitform schreibt man eine Erzählung?", options: ["Präsens", "Präteritum", "Perfekt", "Futur"], correct: 1 },
   { type: "mcq", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Was ist der Höhepunkt einer Erzählung?", options: ["Der Anfang", "Die Einführung", "Der dramatischste Moment", "Das Ende"], correct: 2 },
@@ -6896,7 +6896,7 @@ const K5_TEXTARBEIT_Q = [// ===== ERZAEHLUNG_K5 (25 questions) =====
   { type: "typing", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Die Reihenfolge ist: erstens, zweitens, ___, viertens", answer: ["drittens"] },
   { type: "mcq", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Ein gutes Beispiel in Argumentation sollte sein:", options: ["Erfunden", "Real und relevant für These", "Abgestanden", "Kein Beispiel"], correct: 1 },
   { type: "typing", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Zusammenfassend: Eine Argumentation hat These, ___, und Abschluss", answer: ["Begründung und Beispiel"] },] as any[];
-const K5_RECHTSCHREIBUNG_Q = [// ============ FREMDWORTSCHREIBUNG_K5 (25 questions) ============
+const K5_RECHTSCHREIBUNG_Q_OLD = [// ============ FREMDWORTSCHREIBUNG_K5 (25 questions) ============
   // ph vs f
   { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Welche Schreibweise ist korrekt?", options: ["Foto", "Photto", "Fotto", "Photho"], correct: 0 },
   { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Wie schreibt man das Schulfach richtig?", options: ["Physik", "Fysik", "Physick", "Phisik"], correct: 0 },
@@ -7078,7 +7078,7 @@ const K5_RECHTSCHREIBUNG_Q = [// ============ FREMDWORTSCHREIBUNG_K5 (25 questio
 
 // ============ TEXTARBEIT & AUFSATZ - KÉRDÉSEK (80 Fragen für 2 Themen) ============
 
-export const K5_TEXTARBEIT_Q = [
+export const K5_TEXTARBEIT_Q: any[] = [
   // ERZÄHLUNG SCHREIBEN (40 questions) — Narrative prompts
   { type: "typing", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Schreibe eine Erzählung: 'Es war ein kalter Wintermorgen, als...'", answer: ["Es war ein kalter Wintermorgen"] },
   { type: "typing", topic: "textarbeit_k5", subtopic: "erzaehlung_k5", question: "Erzählung: Ein überraschender Fund im Keller — Erzähle die Geschichte (3 Sätze min.)", answer: ["überraschender Fund"] },
@@ -7253,7 +7253,7 @@ export const K5_TEXTARBEIT_Q = [
   { type: "typing", topic: "textarbeit_k5", subtopic: "argumentation_k5", question: "Schreibe FÜR: 'Gleichberechtigung ist in unserer Schule wichtig'", answer: ["Gleichberechtigung", "Schule"] },
 ];
 
-export const K5_RECHTSCHREIBUNG_Q = [
+export const K5_RECHTSCHREIBUNG_Q: any[] = [
   // FREMDWORTSCHREIBUNG (40 questions) — Foreign word spelling
   { type: "typing", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Schreibe das englische Wort korrekt: 'kom___' (Computer)", answer: ["Computer"] },
   { type: "mcq", topic: "rechtschreibung_erw_k5", subtopic: "fremdwortschreibung_k5", question: "Korrekte Schreibung: Computer, Telefon oder Komputer?", options: ["Computer", "Komputer", "Kumputer", "Computor"], correct: 0 },
