@@ -4662,6 +4662,311 @@ export const G4_Generators = {
       }
       return q;
     },
+    idioms_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const idiomData = [
+        { idiom: "piece of cake", meaning: "something very easy" },
+        { idiom: "under the weather", meaning: "feeling sick or unwell" },
+        { idiom: "break the ice", meaning: "start a conversation" },
+        { idiom: "hit the books", meaning: "study hard" },
+        { idiom: "burning the midnight oil", meaning: "working late into the night" },
+        { idiom: "cost an arm and a leg", meaning: "be very expensive" },
+        { idiom: "raining cats and dogs", meaning: "raining very heavily" },
+        { idiom: "let the cat out of the bag", meaning: "reveal a secret" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const idiom = pick(idiomData, rng);
+        const wrong = idiomData.filter(id => id.idiom !== idiom.idiom).map(id => id.meaning).slice(0, 3);
+        q.push(createMCQ("vocab_g4", "idioms_g4",
+          `What does '${idiom.idiom}' mean?`, idiom.meaning, wrong));
+      }
+      return q;
+    },
+    idioms_g4_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const idiomData = [
+        { idiom: "piece of cake", meaning: "something very easy" },
+        { idiom: "under the weather", meaning: "feeling sick" },
+        { idiom: "break the ice", meaning: "start a conversation" },
+        { idiom: "hit the books", meaning: "study hard" },
+        { idiom: "raining cats and dogs", meaning: "raining heavily" },
+        { idiom: "let the cat out of the bag", meaning: "reveal a secret" },
+        { idiom: "cost an arm and a leg", meaning: "very expensive" },
+        { idiom: "burning the midnight oil", meaning: "working late" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const idiom = pick(idiomData, rng);
+        q.push(createTyping("vocab_g4", "idioms_g4", `What does '${idiom.idiom}' mean?`, idiom.meaning));
+      }
+      return q;
+    },
+    transition_words_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const transData = [
+        { word: "however", use: "to contrast or show a different idea" },
+        { word: "therefore", use: "to show a result or conclusion" },
+        { word: "meanwhile", use: "to show something happening at the same time" },
+        { word: "finally", use: "to show the last item in a sequence" },
+        { word: "furthermore", use: "to add more information" },
+        { word: "in conclusion", use: "to summarize or finish" },
+        { word: "for example", use: "to provide an example" },
+        { word: "as a result", use: "to show cause and effect" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const trans = pick(transData, rng);
+        const wrong = transData.filter(t => t.word !== trans.word).map(t => t.word).slice(0, 3);
+        q.push(createMCQ("vocab_g4", "transition_words_g4",
+          `Choose the best transition word for: "${trans.use}"`, trans.word, wrong));
+      }
+      return q;
+    },
+    transition_words_g4_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const transData = [
+        { word: "however", meaning: "shows contrast" },
+        { word: "therefore", meaning: "shows result" },
+        { word: "meanwhile", meaning: "at the same time" },
+        { word: "finally", meaning: "last in sequence" },
+        { word: "furthermore", meaning: "adds information" },
+        { word: "in conclusion", meaning: "summarizes" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const trans = pick(transData, rng);
+        q.push(createTyping("vocab_g4", "transition_words_g4", `Transition word meaning '${trans.meaning}':`, trans.word));
+      }
+      return q;
+    },
+    science_vocab_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sciData = [
+        { word: "experiment", definition: "a test to discover something" },
+        { word: "hypothesis", definition: "a suggested explanation to be tested" },
+        { word: "organism", definition: "a living thing (animal or plant)" },
+        { word: "energy", definition: "the power to do work or cause change" },
+        { word: "photosynthesis", definition: "process plants use to make food from sunlight" },
+        { word: "ecosystem", definition: "a community of living things in an area" },
+        { word: "gravity", definition: "the force that pulls objects toward Earth" },
+        { word: "biodiversity", definition: "the variety of different species" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const sci = pick(sciData, rng);
+        const wrong = sciData.filter(s => s.word !== sci.word).map(s => s.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g4", "science_vocab_g4",
+          `What is '${sci.word}'?`, sci.definition, wrong));
+      }
+      return q;
+    },
+    science_vocab_g4_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sciData = [
+        { word: "experiment", hint: "a test to discover something" },
+        { word: "hypothesis", hint: "suggested explanation to be tested" },
+        { word: "organism", hint: "a living thing" },
+        { word: "energy", hint: "power to do work" },
+        { word: "ecosystem", hint: "community of living things" },
+        { word: "gravity", hint: "force pulling toward Earth" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const sci = pick(sciData, rng);
+        q.push(createTyping("vocab_g4", "science_vocab_g4", `Science: "${sci.hint}"`, sci.word));
+      }
+      return q;
+    },
+    geography_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const geoData = [
+        { word: "continent", definition: "one of the seven large areas of land" },
+        { word: "equator", definition: "an imaginary line around the middle of Earth" },
+        { word: "hemisphere", definition: "half of Earth divided by the equator" },
+        { word: "capital", definition: "the city where a government is located" },
+        { word: "latitude", definition: "distance north or south of the equator" },
+        { word: "longitude", definition: "distance east or west of a starting point" },
+        { word: "continent", definition: "one of seven large areas of land" },
+        { word: "peninsula", definition: "land surrounded by water on three sides" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const geo = pick(geoData, rng);
+        const wrong = geoData.filter(g => g.word !== geo.word).map(g => g.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g4", "geography_g4",
+          `What is a '${geo.word}'?`, geo.definition, wrong));
+      }
+      return q;
+    },
+    geography_g4_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const geoData = [
+        { word: "continent", hint: "One of seven large areas of land" },
+        { word: "equator", hint: "Imaginary line around Earth's middle" },
+        { word: "hemisphere", hint: "Half of Earth" },
+        { word: "capital", hint: "City where government is located" },
+        { word: "latitude", hint: "Distance north or south" },
+        { word: "peninsula", hint: "Land surrounded by water on three sides" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const geo = pick(geoData, rng);
+        q.push(createTyping("vocab_g4", "geography_g4", `Geography: "${geo.hint}"`, geo.word));
+      }
+      return q;
+    },
+    government_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const govData = [
+        { word: "president", definition: "the elected leader of a country" },
+        { word: "law", definition: "a rule that must be followed" },
+        { word: "vote", definition: "to make a choice in an election" },
+        { word: "democracy", definition: "a system where people have power through voting" },
+        { word: "citizen", definition: "a person who legally belongs to a country" },
+        { word: "government", definition: "the system that makes and enforces rules" },
+        { word: "constitution", definition: "a document that outlines a country's rules" },
+        { word: "amendment", definition: "an official change to a constitution or law" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const gov = pick(govData, rng);
+        const wrong = govData.filter(g => g.word !== gov.word).map(g => g.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g4", "government_g4",
+          `What is a '${gov.word}'?`, gov.definition, wrong));
+      }
+      return q;
+    },
+    government_g4_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const govData = [
+        { word: "president", hint: "Elected leader of a country" },
+        { word: "law", hint: "A rule that must be followed" },
+        { word: "vote", hint: "Make a choice in an election" },
+        { word: "democracy", hint: "System where people have power" },
+        { word: "citizen", hint: "Person who belongs to a country" },
+        { word: "constitution", hint: "Document outlining country's rules" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const gov = pick(govData, rng);
+        q.push(createTyping("vocab_g4", "government_g4", `Government: "${gov.hint}"`, gov.word));
+      }
+      return q;
+    },
+    persuasive_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const persuadeData = [
+        { word: "opinion", definition: "a belief or judgment that may not be fact" },
+        { word: "evidence", definition: "facts or examples that support an argument" },
+        { word: "argument", definition: "a set of reasons to support a position" },
+        { word: "convince", definition: "to make someone believe something" },
+        { word: "persuade", definition: "to influence someone to do something" },
+        { word: "claim", definition: "a statement that something is true" },
+        { word: "reason", definition: "an explanation for why something is true" },
+        { word: "counterargument", definition: "an argument against another position" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const pers = pick(persuadeData, rng);
+        const wrong = persuadeData.filter(p => p.word !== pers.word).map(p => p.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g4", "persuasive_g4",
+          `What is a '${pers.word}' in writing?`, pers.definition, wrong));
+      }
+      return q;
+    },
+    persuasive_g4_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const persuadeData = [
+        { word: "opinion", hint: "A belief or judgment" },
+        { word: "evidence", hint: "Facts that support an argument" },
+        { word: "argument", hint: "Reasons to support a position" },
+        { word: "convince", hint: "Make someone believe something" },
+        { word: "claim", hint: "A statement that is true" },
+        { word: "reason", hint: "Explanation for why something is true" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const pers = pick(persuadeData, rng);
+        q.push(createTyping("vocab_g4", "persuasive_g4", `Persuasive writing: "${pers.hint}"`, pers.word));
+      }
+      return q;
+    },
+    word_origins_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const rootData = [
+        { word: "biography", root: "bio-", meaning: "life" },
+        { word: "geology", root: "geo-", meaning: "earth" },
+        { word: "telephone", root: "tele-", meaning: "far/distance" },
+        { word: "microscope", root: "micro-", meaning: "small" },
+        { word: "unicorn", root: "uni-", meaning: "one" },
+        { word: "bicycle", root: "bi-", meaning: "two" },
+        { word: "marine", root: "mar-", meaning: "sea" },
+        { word: "aquarium", root: "aqua-", meaning: "water" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const root = pick(rootData, rng);
+        q.push(createMCQ("vocab_g4", "word_origins_g4",
+          `What does the root '${root.root}' mean? (${root.word})`, root.meaning, ["color", "shape", "size"]));
+      }
+      return q;
+    },
+    word_origins_g4_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const rootData = [
+        { word: "biography", root: "bio", meaning: "life" },
+        { word: "geology", root: "geo", meaning: "earth" },
+        { word: "telephone", root: "tele", meaning: "far/distance" },
+        { word: "microscope", root: "micro", meaning: "small" },
+        { word: "unicorn", root: "uni", meaning: "one" },
+        { word: "aquarium", root: "aqua", meaning: "water" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const root = pick(rootData, rng);
+        q.push(createTyping("vocab_g4", "word_origins_g4", `Root '${root.root}' means:`, root.meaning));
+      }
+      return q;
+    },
+    figurative_lang_g4: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const figData = [
+        { device: "alliteration", example: "The big brown bear bounced by the bridge." },
+        { device: "onomatopoeia", example: "The bees buzzed loudly around the flowers." },
+        { device: "hyperbole", example: "I've told you a million times!" },
+        { device: "personification", example: "The wind whispered through the trees." },
+        { device: "simile", example: "Her smile was as bright as the sun." },
+        { device: "metaphor", example: "The classroom was a zoo during the lesson." },
+        { device: "idiom", example: "It's raining cats and dogs." },
+        { device: "pun", example: "I used to be a banker, but I lost interest." },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const fig = pick(figData, rng);
+        const wrong = figData.filter(f => f.device !== fig.device).map(f => f.device).slice(0, 3);
+        q.push(createMCQ("vocab_g4", "figurative_lang_g4",
+          `What figurative device is used? "${fig.example}"`, fig.device, wrong));
+      }
+      return q;
+    },
+    figurative_lang_g4_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const figData = [
+        { device: "alliteration", example: "Big brown bear bounced" },
+        { device: "onomatopoeia", example: "The bees buzzed" },
+        { device: "hyperbole", example: "I've told you a million times" },
+        { device: "personification", example: "The wind whispered" },
+        { device: "simile", example: "Bright as the sun" },
+        { device: "metaphor", example: "The classroom was a zoo" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const fig = pick(figData, rng);
+        q.push(createTyping("vocab_g4", "figurative_lang_g4", `Device used: "${fig.example}"`, fig.device));
+      }
+      return q;
+    },
   },
 };
 // ─── GRADE 5 GENERATORS ───────────────────────────────────────────────────
