@@ -6196,6 +6196,309 @@ export const G5_Generators = {
         }
       }
       return q;
+    },
+    media_literacy_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const mediaData = [
+        { term: "headline", definition: "main title of a news story" },
+        { term: "caption", definition: "text describing a photo or image" },
+        { term: "source", definition: "where information comes from" },
+        { term: "bias", definition: "unfair preference for one side" },
+        { term: "fact", definition: "something proven to be true" },
+        { term: "opinion", definition: "a personal belief or viewpoint" },
+        { term: "credible", definition: "trustworthy and reliable" },
+        { term: "media", definition: "channels for communication (TV, radio, internet)" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(mediaData, rng);
+        const wrong = mediaData.filter(m => m.term !== data.term).map(m => m.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g5", "media_literacy_g5", `What is a ${data.term}?`, data.definition, wrong));
+      }
+      return q;
+    },
+    science_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const scienceData = [
+        { term: "photosynthesis", definition: "process by which plants make food using sunlight" },
+        { term: "gravity", definition: "force that pulls objects toward Earth" },
+        { term: "molecule", definition: "smallest unit of a substance" },
+        { term: "ecosystem", definition: "community of living things and their environment" },
+        { term: "energy", definition: "ability to do work or cause change" },
+        { term: "organism", definition: "living thing" },
+        { term: "habitat", definition: "place where an animal or plant lives" },
+        { term: "photosynthesis", definition: "how plants use light, water, and air to make food" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(scienceData, rng);
+        const wrong = scienceData.filter(s => s.term !== data.term).map(s => s.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g5", "science_g5", `What is ${data.term}?`, data.definition, wrong));
+      }
+      return q;
+    },
+    history_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const historyData = [
+        { term: "colony", definition: "settlement established by people from another country" },
+        { term: "revolution", definition: "sudden, drastic change in government or society" },
+        { term: "democracy", definition: "government by the people, for the people" },
+        { term: "treaty", definition: "formal agreement between countries" },
+        { term: "empire", definition: "group of countries ruled by one leader" },
+        { term: "independence", definition: "freedom from control by another country" },
+        { term: "civilization", definition: "advanced society with cities and government" },
+        { term: "migration", definition: "movement of people from one place to another" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(historyData, rng);
+        const wrong = historyData.filter(h => h.term !== data.term).map(h => h.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g5", "history_g5", `What is a ${data.term}?`, data.definition, wrong));
+      }
+      return q;
+    },
+    geography_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const geoData = [
+        { term: "latitude", definition: "imaginary lines that run east-west around Earth" },
+        { term: "longitude", definition: "imaginary lines that run north-south around Earth" },
+        { term: "climate zone", definition: "region with similar weather patterns" },
+        { term: "migration", definition: "movement from one place to another" },
+        { term: "continent", definition: "large landmass (Africa, Europe, Asia)" },
+        { term: "equator", definition: "imaginary line dividing Earth into north and south" },
+        { term: "desert", definition: "dry region with very little rainfall" },
+        { term: "coastline", definition: "edge where land meets ocean" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(geoData, rng);
+        const wrong = geoData.filter(g => g.term !== data.term).map(g => g.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g5", "geography_g5", `What is ${data.term}?`, data.definition, wrong));
+      }
+      return q;
+    },
+    academic_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const academicData = [
+        { term: "analyze", definition: "break down into parts and study carefully" },
+        { term: "compare", definition: "show how things are alike" },
+        { term: "summarize", definition: "give a brief statement of main points" },
+        { term: "evidence", definition: "facts or examples that support a claim" },
+        { term: "conclude", definition: "reach a final decision or opinion" },
+        { term: "inference", definition: "conclusion based on evidence and reasoning" },
+        { term: "thesis", definition: "main idea or argument in writing" },
+        { term: "cite", definition: "reference or quote a source" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(academicData, rng);
+        const wrong = academicData.filter(a => a.term !== data.term).map(a => a.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g5", "academic_g5", `What does it mean to ${data.term}?`, data.definition, wrong));
+      }
+      return q;
+    },
+    idioms_proverbs_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const idiomsData = [
+        { idiom: "bite the bullet", meaning: "accept something difficult" },
+        { idiom: "every cloud has a silver lining", meaning: "every bad situation has something good" },
+        { idiom: "break the ice", meaning: "start a conversation" },
+        { idiom: "a piece of cake", meaning: "something easy" },
+        { idiom: "under the weather", meaning: "feeling sick" },
+        { idiom: "hit the books", meaning: "study hard" },
+        { idiom: "raining cats and dogs", meaning: "raining heavily" },
+        { idiom: "lost in translation", meaning: "meaning gets confused in communication" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(idiomsData, rng);
+        const wrong = idiomsData.filter(id => id.idiom !== data.idiom).map(id => id.meaning).slice(0, 3);
+        q.push(createMCQ("vocab_g5", "idioms_proverbs_g5", `What does "${data.idiom}" mean?`, data.meaning, wrong));
+      }
+      return q;
+    },
+    wordplay_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const wordplayData = [
+        { term: "pun", definition: "play on words using similar sounds or meanings" },
+        { term: "alliteration", definition: "repetition of beginning sounds (Peter Piper picked...)" },
+        { term: "onomatopoeia", definition: "word that imitates a sound (buzz, hiss, splash)" },
+        { term: "oxymoron", definition: "combination of contradictory words (jumbo shrimp)" },
+        { term: "rhyme", definition: "words with matching ending sounds" },
+        { term: "metaphor", definition: "comparison without using 'like' or 'as'" },
+        { term: "idiom", definition: "phrase with special meaning different from literal meaning" },
+        { term: "assonance", definition: "repetition of vowel sounds (I like tight socks)" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(wordplayData, rng);
+        const wrong = wordplayData.filter(w => w.term !== data.term).map(w => w.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g5", "wordplay_g5", `What is a ${data.term}?`, data.definition, wrong));
+      }
+      return q;
+    },
+    formal_informal_g5: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const registerData = [
+        { informal: "got", formal: "received", context: "she ___ the package" },
+        { informal: "kids", formal: "children", context: "the ___ played outside" },
+        { informal: "gonna", formal: "going to", context: "I'm ___ help you" },
+        { informal: "yeah", formal: "yes", context: "___, I agree" },
+        { informal: "wanna", formal: "want to", context: "I ___ go to the park" },
+        { informal: "cool", formal: "excellent", context: "That's ___!" },
+        { informal: "stuff", formal: "items", context: "Put your ___ away" },
+        { informal: "kinda", formal: "somewhat", context: "It's ___ hard" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(registerData, rng);
+        if (rng() > 0.5) {
+          q.push(createMCQ("vocab_g5", "formal_informal_g5", `Replace "${data.informal}" with formal: ${data.context}`, data.formal, ["will", "did", "does"]));
+        } else {
+          q.push(createMCQ("vocab_g5", "formal_informal_g5", `What is the informal version of "${data.formal}"?`, data.informal, ["was", "are", "have"]));
+        }
+      }
+      return q;
+    },
+    media_literacy_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const mediaQuestions = [
+        { question: "Main title of a news story:", answer: "headline" },
+        { question: "Text describing a photo:", answer: "caption" },
+        { question: "Unfair preference in reporting:", answer: "bias" },
+        { question: "Proven to be true:", answer: "fact" },
+        { question: "Personal belief about something:", answer: "opinion" },
+        { question: "Where information comes from:", answer: "source" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(mediaQuestions, rng);
+        q.push(createTyping("vocab_g5", "media_literacy_g5", `${data.question}`, data.answer));
+      }
+      return q;
+    },
+    science_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const scienceQuestions = [
+        { question: "Process plants use to make food from sunlight:", answer: "photosynthesis" },
+        { question: "Force that pulls objects toward Earth:", answer: "gravity" },
+        { question: "Smallest unit of a substance:", answer: "molecule" },
+        { question: "Community of living things and their environment:", answer: "ecosystem" },
+        { question: "Living thing:", answer: "organism" },
+        { question: "Place where an animal lives:", answer: "habitat" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(scienceQuestions, rng);
+        q.push(createTyping("vocab_g5", "science_g5", `${data.question}`, data.answer));
+      }
+      return q;
+    },
+    history_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const historyQuestions = [
+        { question: "Settlement from another country:", answer: "colony" },
+        { question: "Sudden change in government:", answer: "revolution" },
+        { question: "Government by the people:", answer: "democracy" },
+        { question: "Formal agreement between countries:", answer: "treaty" },
+        { question: "Countries ruled by one leader:", answer: "empire" },
+        { question: "Freedom from another country's control:", answer: "independence" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(historyQuestions, rng);
+        q.push(createTyping("vocab_g5", "history_g5", `${data.question}`, data.answer));
+      }
+      return q;
+    },
+    geography_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const geoQuestions = [
+        { question: "Lines running east-west around Earth:", answer: "latitude" },
+        { question: "Lines running north-south around Earth:", answer: "longitude" },
+        { question: "Region with similar weather patterns:", answer: "climate zone" },
+        { question: "Large landmass like Africa or Asia:", answer: "continent" },
+        { question: "Imaginary line dividing Earth into north and south:", answer: "equator" },
+        { question: "Dry region with little rainfall:", answer: "desert" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(geoQuestions, rng);
+        q.push(createTyping("vocab_g5", "geography_g5", `${data.question}`, data.answer));
+      }
+      return q;
+    },
+    academic_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const academicQuestions = [
+        { question: "Break down into parts and study:", answer: "analyze" },
+        { question: "Show how things are alike:", answer: "compare" },
+        { question: "Give brief statement of main points:", answer: "summarize" },
+        { question: "Facts or examples supporting a claim:", answer: "evidence" },
+        { question: "Reach a final decision based on facts:", answer: "conclude" },
+        { question: "Conclusion based on evidence:", answer: "inference" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(academicQuestions, rng);
+        q.push(createTyping("vocab_g5", "academic_g5", `${data.question}`, data.answer));
+      }
+      return q;
+    },
+    idioms_proverbs_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const idiomQuestions = [
+        { idiom: "bite the bullet", answer: "accept something difficult" },
+        { idiom: "every cloud has a silver lining", answer: "every bad situation has something good" },
+        { idiom: "break the ice", answer: "start a conversation" },
+        { idiom: "a piece of cake", answer: "something easy" },
+        { idiom: "under the weather", answer: "feeling sick" },
+        { idiom: "hit the books", answer: "study hard" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(idiomQuestions, rng);
+        q.push(createTyping("vocab_g5", "idioms_proverbs_g5", `What does "${data.idiom}" mean?`, data.answer));
+      }
+      return q;
+    },
+    wordplay_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const wordplayQuestions = [
+        { question: "Play on words using similar sounds:", answer: "pun" },
+        { question: "Repetition of beginning sounds:", answer: "alliteration" },
+        { question: "Word that imitates a sound:", answer: "onomatopoeia" },
+        { question: "Combination of contradictory words:", answer: "oxymoron" },
+        { question: "Words with matching ending sounds:", answer: "rhyme" },
+        { question: "Comparison without 'like' or 'as':", answer: "metaphor" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(wordplayQuestions, rng);
+        q.push(createTyping("vocab_g5", "wordplay_g5", `${data.question}`, data.answer));
+      }
+      return q;
+    },
+    formal_informal_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const registerQuestions = [
+        { informal: "got", formal: "received" },
+        { informal: "kids", formal: "children" },
+        { informal: "gonna", formal: "going to" },
+        { informal: "wanna", formal: "want to" },
+        { informal: "cool", formal: "excellent" },
+        { informal: "kinda", formal: "somewhat" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(registerQuestions, rng);
+        if (rng() > 0.5) {
+          q.push(createTyping("vocab_g5", "formal_informal_g5", `Formal word for "${data.informal}":`, data.formal));
+        } else {
+          q.push(createTyping("vocab_g5", "formal_informal_g5", `Informal version of "${data.formal}":`, data.informal));
+        }
+      }
+      return q;
     }
   }
 };
