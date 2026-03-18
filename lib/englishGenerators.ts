@@ -5892,6 +5892,310 @@ export const G5_Generators = {
         q.push(createMCQ("vocab_g5", "connotation_denotation_g5", `Which has positive connotation?`, data.positive, [data.negative, data.neutral, "offensive"]));
       }
       return q;
+    },
+    conjunctions_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const subConj = ["although", "because", "while", "unless", "since", "if", "until", "after", "before", "when"];
+      const coordConj = ["and", "but", "or", "so", "yet", "for", "nor"];
+      const sentences = [
+        { blank: "___ it was raining, we went outside.", answer: "Although" },
+        { blank: "I studied hard ___ I wanted to pass.", answer: "because" },
+        { blank: "We can go to the park ___ the beach.", answer: "or" },
+        { blank: "___ he was tired, he kept working.", answer: "Although" },
+        { blank: "You can stay ___ leave, I don't mind.", answer: "or" },
+        { blank: "She waited ___ he arrived.", answer: "until" },
+        { blank: "I like pizza ___ I don't like olives.", answer: "but" },
+        { blank: "___ we finish homework, we can play.", answer: "After" },
+        { blank: "He runs fast ___ he can catch the bus.", answer: "so" },
+        { blank: "We'll go ___ it stops raining.", answer: "when" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const sent = pick(sentences, rng);
+        q.push(createTyping("pos_g5", "conjunctions_g5", `Fill in: ${sent.blank}`, sent.answer));
+      }
+      return q;
+    },
+    interjections_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const intjData = [
+        { use: "amazement", word: "Wow" },
+        { use: "pain", word: "Ouch" },
+        { use: "attention", word: "Hey" },
+        { use: "surprise", word: "Oh" },
+        { use: "sorrow", word: "Alas" },
+        { use: "joy", word: "Hooray" },
+        { use: "greeting", word: "Hello" },
+        { use: "understanding", word: "Ah" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(intjData, rng);
+        if (rng() > 0.5) {
+          q.push(createTyping("pos_g5", "interjections_g5", `What interjection expresses ${data.use}?`, data.word));
+        } else {
+          q.push(createTyping("pos_g5", "interjections_g5", `"${data.word}" expresses what emotion?`, data.use));
+        }
+      }
+      return q;
+    },
+    perfect_tenses_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const tenseData = [
+        { context: "By Monday, she ___ the book.", answer: "will have finished" },
+        { context: "They ___ already eaten lunch.", answer: "have" },
+        { context: "He ___ worked here for five years.", answer: "has" },
+        { context: "By the time we arrive, they ___ left.", answer: "will have" },
+        { context: "She ___ finished her homework.", answer: "has" },
+        { context: "We ___ been waiting for an hour.", answer: "have" },
+        { context: "He ___ had three chances to succeed.", answer: "has" },
+        { context: "By next Friday, I ___ completed the project.", answer: "will have" },
+        { context: "They ___ gone to the store already.", answer: "have" },
+        { context: "She ___ been studying all week.", answer: "has" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(tenseData, rng);
+        q.push(createTyping("pos_g5", "perfect_tenses_g5", `Fill in the auxiliary verb: ${data.context}`, data.answer));
+      }
+      return q;
+    },
+    tense_shifts_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { sentence: "She walks to school and eats lunch there.", tense: "present" },
+        { sentence: "He ran fast and jumped over the fence.", tense: "past" },
+        { sentence: "They will go to the park and play games.", tense: "future" },
+        { sentence: "I study hard and help my friends.", tense: "present" },
+        { sentence: "We went home and watched a movie.", tense: "past" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(sentenceData, rng);
+        q.push(createTyping("sentences_g5", "tense_shifts_g5", `What tense is used consistently in: "${data.sentence}"?`, data.tense));
+      }
+      return q;
+    },
+    correlative_conj_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const pairs = [
+        { first: "Neither", second: "nor", context: "___ she ___ I was ready." },
+        { first: "Both", second: "and", context: "___ cats ___ dogs are pets." },
+        { first: "Either", second: "or", context: "___ tea ___ coffee for me, please." },
+        { first: "Not only", second: "but also", context: "It's ___ fun ___ educational." },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const pair = pick(pairs, rng);
+        if (rng() > 0.5) {
+          q.push(createTyping("pos_g5", "correlative_conj_g5", `Fill in: ${pair.context}`, pair.first));
+        } else {
+          q.push(createTyping("pos_g5", "correlative_conj_g5", `Complete: "Neither..." with what?`, pair.second));
+        }
+      }
+      return q;
+    },
+    complex_sentences_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentences = [
+        { sentence: "She studied hard because she wanted to pass.", type: "complex" },
+        { sentence: "The dog barked when the mailman arrived.", type: "complex" },
+        { sentence: "He ate lunch and then went to class.", type: "compound" },
+        { sentence: "Although it rained, we went to the park.", type: "complex" },
+        { sentence: "The cat sat on the mat.", type: "simple" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(sentences, rng);
+        q.push(createTyping("sentences_g5", "complex_sentences_g5", `Is this simple, compound, or complex? "${data.sentence}"`, data.type));
+      }
+      return q;
+    },
+    intro_clauses_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const intros = [
+        { sentence: "Running down the hill, she laughed.", intro: "Running down the hill" },
+        { sentence: "Before the game started, we ate snacks.", intro: "Before the game started" },
+        { sentence: "While singing, he danced.", intro: "While singing" },
+        { sentence: "After school ends, we go home.", intro: "After school ends" },
+        { sentence: "In the morning, birds sing.", intro: "In the morning" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(intros, rng);
+        q.push(createTyping("sentences_g5", "intro_clauses_g5", `What is the introductory phrase in: "${data.sentence}"?`, data.intro));
+      }
+      return q;
+    },
+    combining_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const combos = [
+        { sent1: "I like pizza.", sent2: "I don't like pineapple on it.", combine: "but" },
+        { sent1: "We can go to the park.", sent2: "We can stay home.", combine: "or" },
+        { sent1: "He studied.", sent2: "He passed the test.", combine: "and" },
+        { sent1: "You must finish homework.", sent2: "You can't watch TV.", combine: "or" },
+        { sent1: "She was tired.", sent2: "She kept working.", combine: "but" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(combos, rng);
+        q.push(createTyping("sentences_g5", "combining_g5", `Combine with a conjunction: "${data.sent1} ___ ${data.sent2}"`, data.combine));
+      }
+      return q;
+    },
+    commas_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const contextData = [
+        { context: "introductory phrase", example: "After the game___ we celebrated.", answer: "," },
+        { context: "series of items", example: "We need apples___ oranges___ and bananas.", answer: "," },
+        { context: "before a conjunction", example: "I wanted to go___ but it was raining.", answer: "," },
+        { context: "direct address", example: "Maria___ can you help me?", answer: "," },
+        { context: "dates", example: "January 15___ 2024", answer: "," },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(contextData, rng);
+        q.push(createTyping("sentences_g5", "commas_g5", `Add comma for ${data.context}: "${data.example}"`, data.answer));
+      }
+      return q;
+    },
+    titles_italics_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const titleData = [
+        { title: "The Lion King", type: "movie" },
+        { title: "Harry Potter", type: "book" },
+        { title: "The New York Times", type: "newspaper" },
+        { title: "Cinderella", type: "story" },
+        { title: "Frozen", type: "movie" },
+        { title: "Charlotte's Web", type: "book" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(titleData, rng);
+        if (rng() > 0.5) {
+          q.push(createTyping("sentences_g5", "titles_italics_g5", `Should "${data.title}" (${data.type}) be italicized?`, "yes"));
+        } else {
+          q.push(createTyping("sentences_g5", "titles_italics_g5", `Is the poem "Roses Are Red" italicized?`, "no"));
+        }
+      }
+      return q;
+    },
+    apostrophes_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const apostropheData = [
+        { blank: "The ___ coat (belonging to 3 dogs)", answer: "dogs'" },
+        { blank: "The ___ toys (belonging to 1 child)", answer: "child's" },
+        { blank: "___ arriving soon (Mary is)", answer: "Mary's" },
+        { blank: "The ___ house (belonging to 2 girls)", answer: "girls'" },
+        { blank: "___ not working (It is)", answer: "It's" },
+        { blank: "The ___ desk (belonging to 1 teacher)", answer: "teacher's" },
+        { blank: "___ not here (We are)", answer: "We're" },
+        { blank: "The ___ games (belonging to 2 teams)", answer: "teams'" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(apostropheData, rng);
+        q.push(createTyping("sentences_g5", "apostrophes_g5", `Fill in with correct apostrophe: ${data.blank}`, data.answer));
+      }
+      return q;
+    },
+    spelling_strategies_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const words = [
+        { word: "happened", rule: "double final consonant before adding suffix" },
+        { word: "hoping", rule: "drop silent e before adding vowel suffix" },
+        { word: "studying", rule: "change y to i before adding suffix" },
+        { word: "stopped", rule: "double final consonant before adding suffix" },
+        { word: "baking", rule: "drop silent e before adding vowel suffix" },
+        { word: "tried", rule: "change y to i before adding suffix" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(words, rng);
+        if (rng() > 0.5) {
+          q.push(createTyping("spelling_g5", "spelling_strategies_g5", `Spell: hope + ing`, data.word));
+        } else {
+          q.push(createTyping("spelling_g5", "spelling_strategies_g5", `What spelling rule applies to "${data.word}"?`, data.rule));
+        }
+      }
+      return q;
+    },
+    greek_latin_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const rootData = [
+        { root: "port", meaning: "carry" },
+        { root: "dict", meaning: "speak" },
+        { root: "graph", meaning: "write" },
+        { root: "phon", meaning: "sound" },
+        { root: "geo", meaning: "earth" },
+        { root: "bio", meaning: "life" },
+        { root: "auto", meaning: "self" },
+        { root: "trans", meaning: "across" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(rootData, rng);
+        q.push(createTyping("vocab_g5", "greek_latin_g5", `The root "${data.root}" means what?`, data.meaning));
+      }
+      return q;
+    },
+    prefixes_suffixes_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const affixData = [
+        { word: "unhappy", affix: "un", meaning: "not" },
+        { word: "beautiful", affix: "ful", meaning: "full of" },
+        { word: "rewrite", affix: "re", meaning: "again" },
+        { word: "careless", affix: "less", meaning: "without" },
+        { word: "misspell", affix: "mis", meaning: "wrong" },
+        { word: "interactive", affix: "inter", meaning: "between" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(affixData, rng);
+        if (rng() > 0.5) {
+          q.push(createTyping("vocab_g5", "prefixes_suffixes_g5", `What does the affix "${data.affix}" mean?`, data.meaning));
+        } else {
+          q.push(createTyping("vocab_g5", "prefixes_suffixes_g5", `The prefix "un" in "${data.word}" means what?`, data.meaning));
+        }
+      }
+      return q;
+    },
+    figurative_language_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const figData = [
+        { phrase: "The thunder clapped overhead.", device: "onomatopoeia" },
+        { phrase: "Time is money.", device: "metaphor" },
+        { phrase: "Her smile was like sunshine.", device: "simile" },
+        { phrase: "The flowers danced in the breeze.", device: "personification" },
+        { phrase: "I could eat a horse!", device: "hyperbole" },
+        { phrase: "The snake hissed at the cat.", device: "onomatopoeia" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(figData, rng);
+        q.push(createTyping("vocab_g5", "figurative_language_g5", `What device: "${data.phrase}"?`, data.device));
+      }
+      return q;
+    },
+    connotation_denotation_g5_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const wordSets = [
+        { denotation: "spending little money", positive: "thrifty", negative: "cheap" },
+        { denotation: "thin body type", positive: "slender", negative: "skinny" },
+        { denotation: "not moving quickly", positive: "leisurely", negative: "sluggish" },
+        { denotation: "having strong opinions", positive: "confident", negative: "stubborn" },
+        { denotation: "talking a lot", positive: "outgoing", negative: "chatty" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(wordSets, rng);
+        if (rng() > 0.5) {
+          q.push(createTyping("vocab_g5", "connotation_denotation_g5", `Does "${data.negative}" have positive or negative connotation?`, "negative"));
+        } else {
+          q.push(createTyping("vocab_g5", "connotation_denotation_g5", `Does "${data.positive}" have positive or negative connotation?`, "positive"));
+        }
+      }
+      return q;
     }
   }
 };
