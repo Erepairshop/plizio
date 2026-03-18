@@ -8955,6 +8955,566 @@ export const G7_Generators = {
         q.push(createMCQ("grammar_g7", "participial_phrases_g7", `"${data.phrase}" is an:`, data.form, wrong));
       }
       return q;
+    },
+    phrases_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const phrases = [
+        { type: "noun phrase", example: "The tall boy" },
+        { type: "verb phrase", example: "runs quickly" },
+        { type: "adjectival phrase", example: "very intelligent" },
+        { type: "prepositional phrase", example: "under the table" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(phrases, rng);
+        q.push(createTyping("grammar_g7", "phrases_g7", `Type of phrase "${data.example}":`, data.type));
+      }
+      return q;
+    },
+    tense_voice_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const voiceData = [
+        { blank: "The cake ___ baked by her.", answer: "was" },
+        { blank: "The letter ___ written carefully.", answer: "was" },
+        { blank: "They ___ invited to the party.", answer: "were" },
+        { blank: "The book ___ published last year.", answer: "was" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(voiceData, rng);
+        q.push(createTyping("grammar_g7", "tense_voice_g7", `Fill in passive voice: ${data.blank}`, data.answer));
+      }
+      return q;
+    },
+    modifiers_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentences = [
+        { wrong: "Running down the street, the dog barked.", correct: "As the dog ran down the street, it barked." },
+        { wrong: "Excited about the party, her smile was big.", correct: "Excited about the party, she smiled broadly." },
+        { wrong: "Walking to school, the backpack fell.", correct: "While walking to school, I dropped my backpack." },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(sentences, rng);
+        q.push(createTyping("grammar_g7", "modifiers_g7", `Correct: "${data.wrong}"`, data.correct));
+      }
+      return q;
+    },
+    conditional_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentences = [
+        { blank: "If it rains, we ___ stay inside.", answer: "will" },
+        { blank: "Unless you study, you ___ fail.", answer: "will" },
+        { blank: "If she arrives, I ___ be happy.", answer: "will" },
+        { blank: "Provided you work hard, you ___ succeed.", answer: "will" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(sentences, rng);
+        q.push(createTyping("grammar_g7", "conditional_g7", `Fill in: ${data.blank}`, data.answer));
+      }
+      return q;
+    },
+    concessive_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentences = [
+        { blank: "___ he was tired, he kept working.", answer: "Although" },
+        { blank: "Even ___ the weather was bad, we went out.", answer: "though" },
+        { blank: "___ the pain, she continued the race.", answer: "Despite" },
+        { blank: "___ she had doubts, she succeeded.", answer: "Although" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(sentences, rng);
+        q.push(createTyping("grammar_g7", "concessive_g7", `Fill in: ${data.blank}`, data.answer));
+      }
+      return q;
+    },
+    cause_effect_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentences = [
+        { blank: "She studied hard; ___, she passed.", answer: "therefore" },
+        { blank: "It rained heavily; ___, the game was cancelled.", answer: "as a result" },
+        { blank: "He was late; ___, everyone was upset.", answer: "consequently" },
+        { blank: "The storm arrived; ___, we stayed home.", answer: "therefore" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(sentences, rng);
+        q.push(createTyping("grammar_g7", "cause_effect_g7", `Fill in cause-effect: ${data.blank}`, data.answer));
+      }
+      return q;
+    },
+    commas_phrases_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const phrases = [
+        { sentence: "After the storm___ the sun came out.", answer: "," },
+        { sentence: "My best friend___ Sarah___ helped me.", answer: "," },
+        { sentence: "Because of the weather___ we stayed inside.", answer: "," },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(phrases, rng);
+        q.push(createTyping("punctuation_g7", "commas_phrases_g7", `Add comma if needed: ${data.sentence}`, data.answer));
+      }
+      return q;
+    },
+    semicolons_colons_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentences = [
+        { sentence: "She studied hard; she passed.", mark: "semicolon" },
+        { sentence: "I need three things: pencils, paper, and notebooks.", mark: "colon" },
+        { sentence: "He was confident; however, he studied.", mark: "semicolon" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(sentences, rng);
+        q.push(createTyping("punctuation_g7", "semicolons_colons_g7", `Is this a semicolon or colon sentence? "${data.sentence}"`, data.mark));
+      }
+      return q;
+    },
+    dashes_hyphens_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const examples = [
+        { phrase: "well-known author", answer: "hyphen" },
+        { phrase: "She was — surprisingly — honest.", answer: "dash" },
+        { phrase: "mother-in-law", answer: "hyphen" },
+        { phrase: "He ran — or so he said.", answer: "dash" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(examples, rng);
+        q.push(createTyping("punctuation_g7", "dashes_hyphens_g7", `Is this a hyphen or dash? "${data.phrase}"`, data.answer));
+      }
+      return q;
+    },
+    figurative_language_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const figures = [
+        { example: "Life is a journey with many roads.", device: "extended metaphor" },
+        { example: "The dove represents peace.", device: "symbolism" },
+        { example: "Animal Farm represents the Russian Revolution.", device: "allegory" },
+        { example: "He is literally dying of hunger.", device: "hyperbole" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(figures, rng);
+        q.push(createTyping("vocab_g7", "figurative_language_g7", `Identify device: "${data.example}"`, data.device));
+      }
+      return q;
+    },
+    connotation_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const words = [
+        { word: "frugal", connotation: "positive" },
+        { word: "miserly", connotation: "negative" },
+        { word: "serene", connotation: "positive" },
+        { word: "apathetic", connotation: "negative" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(words, rng);
+        q.push(createTyping("vocab_g7", "connotation_g7", `Is "${data.word}" positive or negative connotation?`, data.connotation));
+      }
+      return q;
+    },
+    academic_vocab_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const vocabData = [
+        { definition: "Examine something in detail:", answer: "analyze" },
+        { definition: "Judge the value or worth:", answer: "evaluate" },
+        { definition: "Combine parts into a whole:", answer: "synthesize" },
+        { definition: "Conclude from evidence:", answer: "infer" },
+        { definition: "Provide reasons for:", answer: "justify" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(vocabData, rng);
+        q.push(createTyping("vocab_g7", "academic_vocab_g7", `${data.definition}`, data.answer));
+      }
+      return q;
+    },
+    analogies_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const analogies = [
+        { blank: "Chapter : book :: ___", answer: "part : whole" },
+        { blank: "Fire : heat :: ___", answer: "cause : effect" },
+        { blank: "Hammer : nail :: ___", answer: "tool : purpose" },
+        { blank: "Happy : joyful :: ___", answer: "synonym" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(analogies, rng);
+        q.push(createTyping("vocab_g7", "analogies_g7", `Complete: ${data.blank}`, data.answer));
+      }
+      return q;
+    },
+    infinitive_phrases_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentences = [
+        { sentence: "To win is her goal.", function: "subject" },
+        { sentence: "She wants to leave.", function: "direct object" },
+        { sentence: "To understand this, you must study.", function: "modifier" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(sentences, rng);
+        q.push(createTyping("grammar_g7", "infinitive_phrases_g7", `Function of infinitive in: "${data.sentence}"`, data.function));
+      }
+      return q;
+    },
+    gerund_phrases_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const blanks = [
+        { blank: "___ is good for your health.", answer: "Running" },
+        { blank: "___ novels is her favorite hobby.", answer: "Reading" },
+        { blank: "___ is a relaxing activity.", answer: "Swimming" },
+        { blank: "___ every day helps you stay fit.", answer: "Exercising" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(blanks, rng);
+        q.push(createTyping("grammar_g7", "gerund_phrases_g7", `Fill in (gerund as subject): ${data.blank}`, data.answer));
+      }
+      return q;
+    },
+    participial_phrases_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const phrases = [
+        { blank: "___ about the game, she danced.", answer: "Excited" },
+        { blank: "The ___ vase lay on the floor.", answer: "broken" },
+        { blank: "___ quickly, he caught the bus.", answer: "Running" },
+        { blank: "The ___ children played outside.", answer: "laughing" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(phrases, rng);
+        q.push(createTyping("grammar_g7", "participial_phrases_g7", `Fill in participle: ${data.blank}`, data.answer));
+      }
+      return q;
+    },
+    clauses_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const clauses = [
+        { clause: "She studied hard", type: "independent" },
+        { clause: "Although it rained", type: "dependent" },
+        { clause: "Because he was tired", type: "dependent" },
+        { clause: "The dog barked loudly", type: "independent" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(clauses, rng);
+        q.push(createTyping("grammar_g7", "clauses_g7", `Is this independent or dependent? "${data.clause}"`, data.type));
+      }
+      return q;
+    },
+    sentence_types_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentences = [
+        { sentence: "She ate an apple.", type: "simple" },
+        { sentence: "She ate and he drank.", type: "compound" },
+        { sentence: "Although it rained, we went out.", type: "complex" },
+        { sentence: "She studied and passed the test.", type: "compound" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(sentences, rng);
+        q.push(createTyping("grammar_g7", "sentence_types_g7", `Type: "${data.sentence}"?`, data.type));
+      }
+      return q;
+    },
+    purpose_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentences = [
+        { blank: "She studied ___ pass the test.", answer: "in order to" },
+        { blank: "He left early ___ arrive on time.", answer: "so that" },
+        { blank: "Lock the door ___ no one enters.", answer: "lest" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(sentences, rng);
+        q.push(createTyping("grammar_g7", "purpose_g7", `Fill in purpose clause: ${data.blank}`, data.answer));
+      }
+      return q;
+    },
+    time_clauses_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentences = [
+        { blank: "___ she arrived, everyone greeted her.", answer: "When" },
+        { blank: "___ I was sleeping, he left.", answer: "While" },
+        { blank: "___ the movie ended, we went home.", answer: "After" },
+        { blank: "___ you finish, we can leave.", answer: "When" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(sentences, rng);
+        q.push(createTyping("grammar_g7", "time_clauses_g7", `Fill in temporal connector: ${data.blank}`, data.answer));
+      }
+      return q;
+    },
+    literary_devices_g7: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const deviceData = [
+        { term: "foreshadowing", definition: "hint of something to come later" },
+        { term: "flashback", definition: "return to an earlier event in the story" },
+        { term: "motif", definition: "recurring image, pattern, or theme" },
+        { term: "symbol", definition: "object representing something abstract" },
+        { term: "allusion", definition: "indirect reference to another work or person" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(deviceData, rng);
+        const wrong = deviceData.filter(d => d.term !== data.term).map(d => d.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g7", "literary_devices_g7", `What is ${data.term}?`, data.definition, wrong));
+      }
+      return q;
+    },
+    argument_structure_g7: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const argData = [
+        { term: "claim", definition: "statement presented as truth" },
+        { term: "evidence", definition: "facts supporting a claim" },
+        { term: "warrant", definition: "connection between evidence and claim" },
+        { term: "rebuttal", definition: "response that challenges an argument" },
+        { term: "logical fallacy", definition: "flawed reasoning in an argument" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(argData, rng);
+        const wrong = argData.filter(a => a.term !== data.term).map(a => a.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g7", "argument_structure_g7", `What is a ${data.term}?`, data.definition, wrong));
+      }
+      return q;
+    },
+    media_literacy_g7: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const mediaData = [
+        { term: "bias", definition: "unfair preference in media" },
+        { term: "perspective", definition: "point of view presented in media" },
+        { term: "primary source", definition: "original document or account" },
+        { term: "secondary source", definition: "analysis or interpretation of primary sources" },
+        { term: "propaganda", definition: "biased information to influence opinion" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(mediaData, rng);
+        const wrong = mediaData.filter(m => m.term !== data.term).map(m => m.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g7", "media_literacy_g7", `What is ${data.term}?`, data.definition, wrong));
+      }
+      return q;
+    },
+    research_vocab_g7: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const researchData = [
+        { term: "citation", definition: "reference to a source" },
+        { term: "paraphrase", definition: "restate in own words" },
+        { term: "summarize", definition: "give brief statement of main points" },
+        { term: "credibility", definition: "trustworthiness of a source" },
+        { term: "plagiarism", definition: "using others' ideas without credit" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(researchData, rng);
+        const wrong = researchData.filter(r => r.term !== data.term).map(r => r.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g7", "research_vocab_g7", `What is a ${data.term}?`, data.definition, wrong));
+      }
+      return q;
+    },
+    social_issues_g7: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const socialData = [
+        { term: "equality", definition: "state of being equal in rights" },
+        { term: "justice", definition: "fair treatment under the law" },
+        { term: "discrimination", definition: "unfair treatment based on characteristics" },
+        { term: "community", definition: "group of people sharing location or values" },
+        { term: "advocacy", definition: "support for a cause or person" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(socialData, rng);
+        const wrong = socialData.filter(s => s.term !== data.term).map(s => s.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g7", "social_issues_g7", `What is ${data.term}?`, data.definition, wrong));
+      }
+      return q;
+    },
+    science_adv_g7: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sciData = [
+        { term: "hypothesis", definition: "prediction in an experiment" },
+        { term: "variable", definition: "factor that changes in an experiment" },
+        { term: "experiment", definition: "test to prove or disprove hypothesis" },
+        { term: "conclusion", definition: "final result of an experiment" },
+        { term: "theory", definition: "well-tested explanation" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(sciData, rng);
+        const wrong = sciData.filter(s => s.term !== data.term).map(s => s.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g7", "science_adv_g7", `What is a ${data.term}?`, data.definition, wrong));
+      }
+      return q;
+    },
+    history_adv_g7: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const histData = [
+        { term: "colonialism", definition: "control of one country by another" },
+        { term: "revolution", definition: "sudden change in government" },
+        { term: "reform", definition: "improvement or change in system" },
+        { term: "propaganda", definition: "biased information for political goal" },
+        { term: "ideology", definition: "system of beliefs and values" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(histData, rng);
+        const wrong = histData.filter(h => h.term !== data.term).map(h => h.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g7", "history_adv_g7", `What is ${data.term}?`, data.definition, wrong));
+      }
+      return q;
+    },
+    digital_literacy_g7: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const digitalData = [
+        { term: "algorithm", definition: "step-by-step procedure for solving a problem" },
+        { term: "data", definition: "information collected or stored" },
+        { term: "privacy", definition: "right to keep information private" },
+        { term: "copyright", definition: "legal right to use original work" },
+        { term: "cyberbullying", definition: "bullying using digital technology" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(digitalData, rng);
+        const wrong = digitalData.filter(d => d.term !== data.term).map(d => d.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g7", "digital_literacy_g7", `What is ${data.term}?`, data.definition, wrong));
+      }
+      return q;
+    },
+    literary_devices_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const deviceQ = [
+        { question: "Hint of something to come later:", answer: "foreshadowing" },
+        { question: "Return to an earlier event:", answer: "flashback" },
+        { question: "Recurring image or pattern:", answer: "motif" },
+        { question: "Object representing something abstract:", answer: "symbol" },
+        { question: "Indirect reference to another work:", answer: "allusion" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(deviceQ, rng);
+        q.push(createTyping("vocab_g7", "literary_devices_g7", `${data.question}`, data.answer));
+      }
+      return q;
+    },
+    argument_structure_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const argQ = [
+        { question: "Statement presented as truth:", answer: "claim" },
+        { question: "Facts supporting a claim:", answer: "evidence" },
+        { question: "Connection between evidence and claim:", answer: "warrant" },
+        { question: "Response that challenges an argument:", answer: "rebuttal" },
+        { question: "Flawed reasoning in an argument:", answer: "logical fallacy" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(argQ, rng);
+        q.push(createTyping("vocab_g7", "argument_structure_g7", `${data.question}`, data.answer));
+      }
+      return q;
+    },
+    media_literacy_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const mediaQ = [
+        { question: "Unfair preference in media:", answer: "bias" },
+        { question: "Point of view presented in media:", answer: "perspective" },
+        { question: "Original document or account:", answer: "primary source" },
+        { question: "Analysis of primary sources:", answer: "secondary source" },
+        { question: "Biased information to influence opinion:", answer: "propaganda" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(mediaQ, rng);
+        q.push(createTyping("vocab_g7", "media_literacy_g7", `${data.question}`, data.answer));
+      }
+      return q;
+    },
+    research_vocab_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const researchQ = [
+        { question: "Reference to a source:", answer: "citation" },
+        { question: "Restate in own words:", answer: "paraphrase" },
+        { question: "Brief statement of main points:", answer: "summarize" },
+        { question: "Trustworthiness of a source:", answer: "credibility" },
+        { question: "Using others' ideas without credit:", answer: "plagiarism" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(researchQ, rng);
+        q.push(createTyping("vocab_g7", "research_vocab_g7", `${data.question}`, data.answer));
+      }
+      return q;
+    },
+    social_issues_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const socialQ = [
+        { question: "State of being equal in rights:", answer: "equality" },
+        { question: "Fair treatment under the law:", answer: "justice" },
+        { question: "Unfair treatment based on characteristics:", answer: "discrimination" },
+        { question: "Group sharing location or values:", answer: "community" },
+        { question: "Support for a cause or person:", answer: "advocacy" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(socialQ, rng);
+        q.push(createTyping("vocab_g7", "social_issues_g7", `${data.question}`, data.answer));
+      }
+      return q;
+    },
+    science_adv_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sciQ = [
+        { question: "Prediction in an experiment:", answer: "hypothesis" },
+        { question: "Factor that changes in an experiment:", answer: "variable" },
+        { question: "Test to prove or disprove hypothesis:", answer: "experiment" },
+        { question: "Final result of an experiment:", answer: "conclusion" },
+        { question: "Well-tested explanation:", answer: "theory" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(sciQ, rng);
+        q.push(createTyping("vocab_g7", "science_adv_g7", `${data.question}`, data.answer));
+      }
+      return q;
+    },
+    history_adv_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const histQ = [
+        { question: "Control of one country by another:", answer: "colonialism" },
+        { question: "Sudden change in government:", answer: "revolution" },
+        { question: "Improvement or change in system:", answer: "reform" },
+        { question: "Biased information for political goal:", answer: "propaganda" },
+        { question: "System of beliefs and values:", answer: "ideology" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(histQ, rng);
+        q.push(createTyping("vocab_g7", "history_adv_g7", `${data.question}`, data.answer));
+      }
+      return q;
+    },
+    digital_literacy_g7_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const digitalQ = [
+        { question: "Step-by-step procedure for solving a problem:", answer: "algorithm" },
+        { question: "Information collected or stored:", answer: "data" },
+        { question: "Right to keep information private:", answer: "privacy" },
+        { question: "Legal right to use original work:", answer: "copyright" },
+        { question: "Bullying using digital technology:", answer: "cyberbullying" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(digitalQ, rng);
+        q.push(createTyping("vocab_g7", "digital_literacy_g7", `${data.question}`, data.answer));
+      }
+      return q;
     }
   },
 };
