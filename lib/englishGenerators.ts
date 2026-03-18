@@ -9698,6 +9698,255 @@ export const G8_Generators = {
       }
       return q;
     },
+    verbals_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const verbalData = [
+        { sentence: "To win is her goal.", verbal: "To win", type: "infinitive used as a noun (subject)", wrong: ["gerund", "participle", "adverb"] },
+        { sentence: "Swimming is great exercise.", verbal: "Swimming", type: "gerund (subject)", wrong: ["infinitive", "participle", "adjective"] },
+        { sentence: "The broken vase lay on the floor.", verbal: "broken", type: "participle (adjective)", wrong: ["gerund", "infinitive", "adverb"] },
+        { sentence: "She wants to leave early.", verbal: "to leave early", type: "infinitive (direct object)", wrong: ["gerund", "participle", "noun"] },
+        { sentence: "Reading novels is her favorite hobby.", verbal: "Reading novels", type: "gerund (subject)", wrong: ["infinitive", "participle", "adjective"] },
+        { sentence: "The howling wind kept us awake.", verbal: "howling", type: "participle (adjective)", wrong: ["gerund", "infinitive", "adverb"] },
+        { sentence: "He decided to study medicine.", verbal: "to study medicine", type: "infinitive (direct object)", wrong: ["gerund", "participle", "noun"] },
+        { sentence: "She enjoys painting landscapes.", verbal: "painting landscapes", type: "gerund (direct object)", wrong: ["infinitive", "participle", "adjective"] },
+        { sentence: "Confused by the directions, he stopped.", verbal: "Confused by the directions", type: "participle (modifier)", wrong: ["gerund", "infinitive", "adverb"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(verbalData, rng);
+        q.push(createMCQ("complex_grammar_g8", "verbals_g8",
+          `In "${data.sentence}", "${data.verbal}" is a:`, data.type, data.wrong));
+      }
+      return q;
+    },
+    participial_modifiers_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const partData = [
+        { correct: "Singing loudly, she walked down the street.", dangling: "Singing loudly, the street seemed empty.", issue: "dangling modifier (street can't sing)" },
+        { correct: "Exhausted from the race, the runner sat down.", dangling: "Exhausted from the race, the bench looked inviting.", issue: "dangling modifier (bench can't be exhausted)" },
+        { correct: "Having finished the exam, the students left.", dangling: "Having finished the exam, the room was empty.", issue: "dangling modifier (room can't finish exam)" },
+        { correct: "Amazed by the view, she took a photograph.", dangling: "Amazed by the view, the camera started clicking.", issue: "dangling modifier (camera can't be amazed)" },
+        { correct: "Walking through the park, I noticed the flowers.", dangling: "Walking through the park, the flowers were beautiful.", issue: "dangling modifier (flowers can't walk)" },
+        { correct: "Covered in snow, the children built a snowman.", dangling: "Covered in snow, the day was perfect for play.", issue: "dangling modifier (day can't be covered in snow)" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(partData, rng);
+        const askCorrect = rng() > 0.5;
+        if (askCorrect) {
+          q.push(createMCQ("complex_grammar_g8", "participial_modifiers_g8",
+            "Which sentence uses a participial phrase CORRECTLY (no dangling modifier)?", data.correct,
+            [data.dangling, "The street, singing loudly, seemed empty.", "Singing loudly the street."]));
+        } else {
+          q.push(createMCQ("complex_grammar_g8", "participial_modifiers_g8",
+            `What is wrong with: "${data.dangling}"?`, data.issue,
+            ["run-on sentence", "comma splice", "sentence fragment"]));
+        }
+      }
+      return q;
+    },
+    absolute_phrases_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const phraseData = [
+        { sentence: "His homework finished, he went to bed.", absolute: "His homework finished", wrong: ["he went to bed", "His homework", "finished"] },
+        { sentence: "The storm having passed, we ventured outside.", absolute: "The storm having passed", wrong: ["we ventured outside", "The storm", "having passed"] },
+        { sentence: "All things considered, she made a wise choice.", absolute: "All things considered", wrong: ["she made a wise choice", "All things", "a wise choice"] },
+        { sentence: "Weather permitting, we will have a picnic.", absolute: "Weather permitting", wrong: ["we will have a picnic", "a picnic", "permitting"] },
+        { sentence: "Her voice trembling, she began her speech.", absolute: "Her voice trembling", wrong: ["she began her speech", "Her voice", "trembling"] },
+        { sentence: "The sun having set, we lit the campfire.", absolute: "The sun having set", wrong: ["we lit the campfire", "the campfire", "having set"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(phraseData, rng);
+        q.push(createMCQ("complex_grammar_g8", "absolute_phrases_g8",
+          `Which is the ABSOLUTE PHRASE in: "${data.sentence}"?`, data.absolute, data.wrong));
+      }
+      return q;
+    },
+    active_passive_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const voiceData = [
+        { active: "The scientist discovered a new element.", passive: "A new element was discovered by the scientist." },
+        { active: "The chef prepared a delicious meal.", passive: "A delicious meal was prepared by the chef." },
+        { active: "The committee approved the proposal.", passive: "The proposal was approved by the committee." },
+        { active: "The dog chased the cat.", passive: "The cat was chased by the dog." },
+        { active: "She wrote the report.", passive: "The report was written by her." },
+        { active: "The storm destroyed several buildings.", passive: "Several buildings were destroyed by the storm." },
+        { active: "The teacher assigned homework.", passive: "Homework was assigned by the teacher." },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const voice = pick(voiceData, rng);
+        const isActive = rng() > 0.5;
+        const sent = isActive ? voice.active : voice.passive;
+        const type = isActive ? "active" : "passive";
+        q.push(createMCQ("complex_grammar_g8", "active_passive_g8",
+          `Identify the voice: "${sent}"`, type, ["active", "passive"].filter(v => v !== type)));
+      }
+      return q;
+    },
+    subjunctive_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const subjData = [
+        { correct: "If I were you, I would apologize.", incorrect: "If I was you, I would apologize.", rule: "subjunctive 'were' after 'if' for unreal conditions" },
+        { correct: "I wish she were here.", incorrect: "I wish she was here.", rule: "subjunctive 'were' after 'wish'" },
+        { correct: "The teacher insisted that he study harder.", incorrect: "The teacher insisted that he studies harder.", rule: "base form after verbs of demand/suggestion" },
+        { correct: "It is essential that she be present.", incorrect: "It is essential that she is present.", rule: "base form after 'it is essential that'" },
+        { correct: "If he were taller, he could reach the shelf.", incorrect: "If he was taller, he could reach the shelf.", rule: "subjunctive 'were' for hypothetical" },
+        { correct: "I suggest that he take the early train.", incorrect: "I suggest that he takes the early train.", rule: "base form after 'suggest'" },
+        { correct: "If it were possible, I would travel the world.", incorrect: "If it was possible, I would travel the world.", rule: "subjunctive 'were' for wishes" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(subjData, rng);
+        q.push(createMCQ("complex_grammar_g8", "subjunctive_g8",
+          "Which sentence uses the SUBJUNCTIVE mood correctly?", data.correct,
+          [data.incorrect, "If I am you, I would apologize.", "If I be you, I would apologize."]));
+      }
+      return q;
+    },
+    voice_mood_shifts_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const shiftData = [
+        { inconsistent: "She made the cake, and the dishes were washed by her.", consistent: "She made the cake and washed the dishes.", error: "voice shift (active to passive)" },
+        { inconsistent: "The report was written by the student, and she presented it.", consistent: "The student wrote the report and presented it.", error: "voice shift (passive to active)" },
+        { inconsistent: "Study for the test, and you should review your notes.", consistent: "Study for the test and review your notes.", error: "mood shift (imperative to indicative)" },
+        { inconsistent: "If I were rich, I will buy a mansion.", consistent: "If I were rich, I would buy a mansion.", error: "mood shift (subjunctive to indicative)" },
+        { inconsistent: "He ran the race and was awarded a medal by the judges.", consistent: "He ran the race and the judges awarded him a medal.", error: "voice shift (active to passive)" },
+        { inconsistent: "Please sit down, and you should be quiet.", consistent: "Please sit down and be quiet.", error: "mood shift (imperative to indicative)" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(shiftData, rng);
+        const askWhich = rng() > 0.5;
+        if (askWhich) {
+          q.push(createMCQ("complex_grammar_g8", "voice_mood_shifts_g8",
+            "Which sentence has an INCONSISTENT voice or mood shift?", data.inconsistent,
+            [data.consistent, "She made the cake and washed the dishes.", "They ran and played outside."]));
+        } else {
+          q.push(createMCQ("complex_grammar_g8", "voice_mood_shifts_g8",
+            `What error is in: "${data.inconsistent}"?`, data.error,
+            ["voice shift (active to passive)", "mood shift (imperative to indicative)", "mood shift (subjunctive to indicative)", "voice shift (passive to active)"].filter(e => e !== data.error).slice(0, 3)));
+        }
+      }
+      return q;
+    },
+    verbals_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const verbalData = [
+        { sentence: "To win is her goal.", verbal: "To win", type: "infinitive used as noun" },
+        { sentence: "Swimming is great exercise.", verbal: "Swimming", type: "gerund" },
+        { sentence: "The broken vase lay on the floor.", verbal: "broken", type: "participle" },
+        { sentence: "She wants to leave early.", verbal: "to leave early", type: "infinitive" },
+        { sentence: "Reading novels is her hobby.", verbal: "Reading novels", type: "gerund" },
+        { sentence: "The howling wind kept us awake.", verbal: "howling", type: "participle" },
+        { sentence: "He decided to study medicine.", verbal: "to study medicine", type: "infinitive" },
+        { sentence: "She enjoys painting landscapes.", verbal: "painting landscapes", type: "gerund" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(verbalData, rng);
+        q.push(createTyping("complex_grammar_g8", "verbals_g8_typing",
+          `In "${data.sentence}", "${data.verbal}" is a ___?`, data.type));
+      }
+      return q;
+    },
+    participial_modifiers_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const partData = [
+        { dangling: "Singing loudly, the street seemed empty.", correct: "Singing loudly, she walked down the street." },
+        { dangling: "Exhausted from the race, the bench looked inviting.", correct: "Exhausted from the race, the runner sat down." },
+        { dangling: "Having finished the exam, the room was empty.", correct: "Having finished the exam, the students left." },
+        { dangling: "Amazed by the view, the camera started clicking.", correct: "Amazed by the view, she took a photograph." },
+        { dangling: "Walking through the park, the flowers were beautiful.", correct: "Walking through the park, I noticed the flowers." },
+        { dangling: "Covered in snow, the day was perfect.", correct: "Covered in snow, the children built a snowman." },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(partData, rng);
+        q.push(createTyping("complex_grammar_g8", "participial_modifiers_g8_typing",
+          `Correct this dangling modifier: "${data.dangling}"`, data.correct));
+      }
+      return q;
+    },
+    absolute_phrases_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const phraseData = [
+        { sentence: "His homework finished, he went to bed.", absolute: "His homework finished" },
+        { sentence: "The storm having passed, we ventured outside.", absolute: "The storm having passed" },
+        { sentence: "All things considered, she made a wise choice.", absolute: "All things considered" },
+        { sentence: "Weather permitting, we will have a picnic.", absolute: "Weather permitting" },
+        { sentence: "Her voice trembling, she began her speech.", absolute: "Her voice trembling" },
+        { sentence: "The sun having set, we lit the campfire.", absolute: "The sun having set" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(phraseData, rng);
+        q.push(createTyping("complex_grammar_g8", "absolute_phrases_g8_typing",
+          `Identify the absolute phrase in: "${data.sentence}"`, data.absolute));
+      }
+      return q;
+    },
+    active_passive_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const voiceData = [
+        { active: "The scientist discovered a new element.", passive: "A new element was discovered by the scientist." },
+        { active: "The chef prepared a delicious meal.", passive: "A delicious meal was prepared by the chef." },
+        { active: "The committee approved the proposal.", passive: "The proposal was approved by the committee." },
+        { active: "The dog chased the cat.", passive: "The cat was chased by the dog." },
+        { active: "She wrote the report.", passive: "The report was written by her." },
+        { active: "The storm destroyed several buildings.", passive: "Several buildings were destroyed by the storm." },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(voiceData, rng);
+        const toPassive = rng() > 0.5;
+        if (toPassive) {
+          q.push(createTyping("complex_grammar_g8", "active_passive_g8_typing",
+            `Convert to PASSIVE: "${data.active}"`, data.passive));
+        } else {
+          q.push(createTyping("complex_grammar_g8", "active_passive_g8_typing",
+            `Convert to ACTIVE: "${data.passive}"`, data.active));
+        }
+      }
+      return q;
+    },
+    subjunctive_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const subjData = [
+        { correct: "If I were you, I would apologize.", incorrect: "If I was you, I would apologize." },
+        { correct: "I wish she were here.", incorrect: "I wish she was here." },
+        { correct: "The teacher insisted that he study harder.", incorrect: "The teacher insisted that he studies harder." },
+        { correct: "It is essential that she be present.", incorrect: "It is essential that she is present." },
+        { correct: "If he were taller, he could reach.", incorrect: "If he was taller, he could reach." },
+        { correct: "I suggest that he take the train.", incorrect: "I suggest that he takes the train." },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(subjData, rng);
+        q.push(createTyping("complex_grammar_g8", "subjunctive_g8_typing",
+          `Correct the mood error: "${data.incorrect}"`, data.correct));
+      }
+      return q;
+    },
+    voice_mood_shifts_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const shiftData = [
+        { inconsistent: "She made the cake, and the dishes were washed by her.", consistent: "She made the cake and washed the dishes." },
+        { inconsistent: "The report was written by the student, and she presented it.", consistent: "The student wrote the report and presented it." },
+        { inconsistent: "Study for the test, and you should review your notes.", consistent: "Study for the test and review your notes." },
+        { inconsistent: "If I were rich, I will buy a mansion.", consistent: "If I were rich, I would buy a mansion." },
+        { inconsistent: "He ran the race and was awarded a medal.", consistent: "He ran the race and the judges awarded him a medal." },
+        { inconsistent: "Please sit down, and you should be quiet.", consistent: "Please sit down and be quiet." },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(shiftData, rng);
+        q.push(createTyping("complex_grammar_g8", "voice_mood_shifts_g8_typing",
+          `Fix the shift: "${data.inconsistent}"`, data.consistent));
+      }
+      return q;
+    },
   },
   writing_g8: {
     argumentative_g8: (seed?: number) => {
@@ -9787,6 +10036,155 @@ export const G8_Generators = {
           const data = pick(compData, rng);
           q.push(createTyping("writing_g8", "report_story_g8", data.question, data.answer));
         }
+      }
+      return q;
+    },
+    argumentative_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const argData = [
+        { question: "What is the purpose of a CLAIM in an argumentative essay?", answer: "to state the writer's main position", wrong: ["to provide background information", "to list counterarguments", "to summarize the story"] },
+        { question: "What is a COUNTERCLAIM?", answer: "an opposing argument that the writer addresses", wrong: ["a supporting detail", "the thesis statement", "the conclusion"] },
+        { question: "Which provides the STRONGEST evidence in an argument?", answer: "a statistic from a reliable study", wrong: ["a personal opinion", "an emotional appeal", "a popular saying"] },
+        { question: "What should a REBUTTAL do?", answer: "respond to and refute the counterclaim", wrong: ["repeat the thesis", "introduce a new topic", "end the essay"] },
+        { question: "Where does the THESIS typically appear?", answer: "at the end of the introduction paragraph", wrong: ["in the conclusion", "in the middle of the essay", "in the title"] },
+        { question: "What is the purpose of a TRANSITION in argumentative writing?", answer: "to connect ideas and guide the reader", wrong: ["to introduce new evidence", "to state the claim", "to summarize the essay"] },
+        { question: "Which is an example of ETHOS (ethical appeal)?", answer: "citing a respected expert in the field", wrong: ["using emotional language", "presenting statistics", "telling a personal story"] },
+        { question: "Which is an example of LOGOS (logical appeal)?", answer: "presenting data and logical reasoning", wrong: ["sharing a sad story", "using vivid imagery", "quoting a celebrity"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(argData, rng);
+        q.push(createMCQ("writing_g8", "argumentative_g8", data.question, data.answer, data.wrong));
+      }
+      return q;
+    },
+    informational_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const infoData = [
+        { question: "The main purpose of INFORMATIONAL writing is to:", answer: "explain or provide facts about a topic", wrong: ["tell a personal story", "convince the reader", "entertain with humor"] },
+        { question: "What is a TOPIC SENTENCE?", answer: "a sentence stating the main idea of a paragraph", wrong: ["the first sentence of an essay", "a transition statement", "a concluding remark"] },
+        { question: "In informational writing, SUPPORTING DETAILS should be:", answer: "relevant, specific, and fact-based", wrong: ["emotional and personal", "brief and vague", "surprising and entertaining"] },
+        { question: "What is the purpose of HEADINGS in informational text?", answer: "to organize content and guide the reader", wrong: ["to decorate the page", "to replace topic sentences", "to list key terms"] },
+        { question: "Which is OBJECTIVE language?", answer: "'The temperature dropped to freezing.'", wrong: ["'I loved the cold!'", "'It was miserably cold.'", "'Everyone hated the freezing weather.'"] },
+        { question: "What should an INTRODUCTION do in informational writing?", answer: "hook the reader and present the topic", wrong: ["provide all details", "state the conclusion", "list sources"] },
+        { question: "What is the purpose of a CONCLUSION in informational writing?", answer: "to summarize key points and reinforce the topic", wrong: ["to introduce new ideas", "to show personal opinion", "to list references"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(infoData, rng);
+        q.push(createMCQ("writing_g8", "informational_g8", data.question, data.answer, data.wrong));
+      }
+      return q;
+    },
+    narrative_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const narData = [
+        { question: "What is the EXPOSITION in a narrative?", answer: "background information about characters and setting", wrong: ["the turning point", "the climax", "the resolution"] },
+        { question: "What is RISING ACTION?", answer: "events that build tension toward the climax", wrong: ["the introduction", "the ending", "the dialogue"] },
+        { question: "Where is the CLIMAX of a story?", answer: "the moment of highest tension or the turning point", wrong: ["the beginning", "the middle", "the ending"] },
+        { question: "What does FALLING ACTION do?", answer: "shows consequences after the climax", wrong: ["introduces the conflict", "explains the setting", "introduces characters"] },
+        { question: "What is RESOLUTION?", answer: "the conclusion where conflicts are resolved", wrong: ["the main problem", "the turning point", "the setting"] },
+        { question: "FLASHBACK is a narrative technique that:", answer: "interrupts the story to show something from the past", wrong: ["skips ahead in time", "slows down action", "introduces a new character"] },
+        { question: "What is FORESHADOWING?", answer: "hints about events that will happen later", wrong: ["recalling past events", "describing the setting", "introducing characters"] },
+        { question: "POINT OF VIEW in a narrative refers to:", answer: "the perspective from which the story is told", wrong: ["the author's opinion", "the setting of the story", "the main character's goal"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(narData, rng);
+        q.push(createMCQ("writing_g8", "narrative_g8", data.question, data.answer, data.wrong));
+      }
+      return q;
+    },
+    report_story_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const compData = [
+        { question: "Which feature belongs to a REPORT, not a story?", answer: "topic sentences with factual evidence", wrong: ["dialogue between characters", "a narrative arc with rising action", "a first-person narrator"] },
+        { question: "Which uses OBJECTIVE language?", answer: "The experiment yielded conclusive results.", wrong: ["I felt the experiment was amazing!", "The incredible experiment blew my mind.", "Everyone loved the experiment."] },
+        { question: "A report typically uses which point of view?", answer: "third person (he, she, it, they)", wrong: ["first person (I, we)", "second person (you)", "mixed perspectives"] },
+        { question: "Which organizational pattern is most common in reports?", answer: "logical categories with headings", wrong: ["chronological narrative", "stream of consciousness", "flashbacks"] },
+        { question: "What distinguishes a story's CONCLUSION from a report's?", answer: "a story resolves the conflict; a report summarizes findings", wrong: ["they are identical", "reports have no conclusion", "stories never end"] },
+        { question: "Which sentence belongs in a STORY, not a report?", answer: "'She felt her heart racing as she opened the door.'", wrong: ["'The data indicates a 15% increase.'", "'Three factors contributed to the outcome.'", "'The population grew steadily from 2010 to 2020.'"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(compData, rng);
+        q.push(createMCQ("writing_g8", "report_story_g8", data.question, data.answer, data.wrong));
+      }
+      return q;
+    },
+    argumentative_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const argData = [
+        { question: "What is the purpose of a CLAIM in argumentative writing?", answer: "to state the writer's main position" },
+        { question: "What is a COUNTERCLAIM?", answer: "an opposing argument the writer addresses" },
+        { question: "What is a REBUTTAL in argumentative writing?", answer: "a response that refutes the counterclaim" },
+        { question: "Where does the THESIS typically appear?", answer: "at the end of the introduction" },
+        { question: "Give an example of ETHOS (ethical appeal).", answer: "citing a respected expert" },
+        { question: "Give an example of LOGOS (logical appeal).", answer: "presenting data and reasoning" },
+        { question: "What is PATHOS in persuasive writing?", answer: "emotional appeal to the audience" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(argData, rng);
+        q.push(createTyping("writing_g8", "argumentative_g8_typing",
+          data.question, data.answer));
+      }
+      return q;
+    },
+    informational_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const infData = [
+        { question: "What is the main function of a TOPIC SENTENCE?", answer: "to introduce the main idea of a paragraph" },
+        { question: "What should a THESIS STATEMENT in informational writing do?", answer: "clearly state the central topic" },
+        { question: "What is the difference between PRIMARY and SECONDARY sources?", answer: "primary are firsthand, secondary are about primary sources" },
+        { question: "What does SYNTHESIS mean in research writing?", answer: "combining multiple sources into a coherent argument" },
+        { question: "What is PARAPHRASING?", answer: "restating information in your own words" },
+        { question: "What is SUMMARIZATION?", answer: "condensing main ideas into a brief overview" },
+        { question: "What are SUPPORTING DETAILS?", answer: "examples and evidence that back up the main idea" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(infData, rng);
+        q.push(createTyping("writing_g8", "informational_g8_typing",
+          data.question, data.answer));
+      }
+      return q;
+    },
+    narrative_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const narData = [
+        { question: "What is POINT OF VIEW in narrative writing?", answer: "the perspective from which the story is told" },
+        { question: "What is CONFLICT in a narrative?", answer: "the central problem or tension driving the story" },
+        { question: "What is CLIMAX in a narrative?", answer: "the turning point or most intense moment" },
+        { question: "What is RESOLUTION?", answer: "how the conflict is settled at the end" },
+        { question: "What is DIALOGUE in narrative?", answer: "conversation between characters" },
+        { question: "What is PACING in storytelling?", answer: "the speed at which events unfold" },
+        { question: "What is a FLASHBACK in narrative?", answer: "returning to an earlier event in the story" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(narData, rng);
+        q.push(createTyping("writing_g8", "narrative_g8_typing",
+          data.question, data.answer));
+      }
+      return q;
+    },
+    report_story_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const repData = [
+        { question: "What is the purpose of a REPORT?", answer: "to present factual information on a topic" },
+        { question: "What is an INTRODUCTION in report writing?", answer: "the section that previews the main topic" },
+        { question: "What should the BODY of a report contain?", answer: "detailed information organized by subtopic" },
+        { question: "What is the function of a CONCLUSION in a report?", answer: "to summarize key findings" },
+        { question: "What is CREDIBILITY in report writing?", answer: "using reliable sources and evidence" },
+        { question: "What is OBJECTIVITY in report writing?", answer: "presenting facts without personal bias" },
+        { question: "What is CITATION in academic reports?", answer: "acknowledging the sources of information" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(repData, rng);
+        q.push(createTyping("writing_g8", "report_story_g8_typing",
+          data.question, data.answer));
       }
       return q;
     },
@@ -9891,6 +10289,158 @@ export const G8_Generators = {
       }
       return q;
     },
+    point_of_view_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const povData = [
+        { text: "I walked into the room and saw my old friend.", pov: "first person", wrong: ["second person", "third person limited", "third person omniscient"] },
+        { text: "You open the door and step into the darkness.", pov: "second person", wrong: ["first person", "third person limited", "third person omniscient"] },
+        { text: "She wondered if he would ever understand her feelings.", pov: "third person limited", wrong: ["first person", "second person", "third person omniscient"] },
+        { text: "Sarah felt nervous. Meanwhile, across town, Jake was excited about his plan.", pov: "third person omniscient", wrong: ["first person", "second person", "third person limited"] },
+        { text: "We decided to take the longer route through the forest.", pov: "first person", wrong: ["second person", "third person limited", "third person omniscient"] },
+        { text: "He sat alone, thinking about his choices, unaware that she was watching.", pov: "third person omniscient", wrong: ["first person", "second person", "third person limited"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(povData, rng);
+        q.push(createMCQ("literature_g8", "point_of_view_g8",
+          `What point of view? "${data.text}"`, data.pov, data.wrong));
+      }
+      return q;
+    },
+    genres_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const genreData = [
+        { description: "A story with supernatural creatures like vampires and werewolves.", genre: "horror/fantasy", wrong: ["realistic fiction", "biography", "historical fiction"] },
+        { description: "A text that explains the life of a real person.", genre: "biography", wrong: ["fantasy", "science fiction", "mystery"] },
+        { description: "A story set in the future with advanced technology.", genre: "science fiction", wrong: ["historical fiction", "mystery", "biography"] },
+        { description: "A play written in verse about a hero's downfall.", genre: "tragedy", wrong: ["comedy", "mystery", "memoir"] },
+        { description: "A story where the main character solves a crime.", genre: "mystery", wrong: ["romance", "fantasy", "biography"] },
+        { description: "A personal account of the author's own life.", genre: "memoir/autobiography", wrong: ["biography", "fiction", "fantasy"] },
+        { description: "A story that uses humor and ends happily.", genre: "comedy", wrong: ["tragedy", "horror", "mystery"] },
+        { description: "A story set during a real historical period.", genre: "historical fiction", wrong: ["science fiction", "fantasy", "mystery"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(genreData, rng);
+        q.push(createMCQ("literature_g8", "genres_g8",
+          `What genre? "${data.description}"`, data.genre, data.wrong));
+      }
+      return q;
+    },
+    allusion_irony_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const litData = [
+        { text: "He is a real Sherlock Holmes when it comes to solving puzzles.", device: "allusion", wrong: ["verbal irony", "situational irony", "satire"] },
+        { text: "She said 'What wonderful weather!' during a thunderstorm.", device: "verbal irony", wrong: ["allusion", "situational irony", "satire"] },
+        { text: "A fire station burns down.", device: "situational irony", wrong: ["verbal irony", "allusion", "satire"] },
+        { text: "He's a regular Romeo when it comes to romance.", device: "allusion", wrong: ["verbal irony", "situational irony", "satire"] },
+        { text: "The pilot had a fear of heights.", device: "situational irony", wrong: ["verbal irony", "allusion", "dramatic irony"] },
+        { text: "A news article exaggerates politicians' behavior to mock them.", device: "satire", wrong: ["allusion", "verbal irony", "situational irony"] },
+        { text: "She opened her Pandora's box of old memories.", device: "allusion", wrong: ["verbal irony", "satire", "situational irony"] },
+        { text: "The audience knows the killer is behind the door, but the character does not.", device: "dramatic irony", wrong: ["verbal irony", "situational irony", "allusion"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(litData, rng);
+        q.push(createMCQ("literature_g8", "allusion_irony_g8",
+          `Identify the literary device: "${data.text}"`, data.device, data.wrong));
+      }
+      return q;
+    },
+    theme_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const themeData = [
+        { question: "The THEME of a story is best described as:", answer: "the central message or life lesson", wrong: ["the plot summary", "the setting of the story", "the main character's name"] },
+        { question: "Which is a THEME (not a topic)?", answer: "True friendship requires sacrifice.", wrong: ["friendship", "the beach", "a dog"] },
+        { question: "How is theme DIFFERENT from the topic?", answer: "theme is the message about the topic; topic is just the subject", wrong: ["they are the same thing", "topic is more specific", "theme is stated directly"] },
+        { question: "In a story where a character overcomes fear, a likely theme is:", answer: "courage means acting despite being afraid", wrong: ["fear is always bad", "everyone is afraid", "fear makes you weak"] },
+        { question: "Where is the theme usually STATED in a text?", answer: "it is usually implied, not directly stated", wrong: ["in the title", "in the first sentence", "in the last paragraph"] },
+        { question: "Which detail would BEST support a theme about perseverance?", answer: "a character failing multiple times but continuing to try", wrong: ["a beautiful sunset", "a character eating lunch", "a description of a house"] },
+        { question: "A story about a character who lies and loses friends likely has the theme:", answer: "honesty builds trust and relationships", wrong: ["lying is sometimes necessary", "friends are not important", "everyone lies"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(themeData, rng);
+        q.push(createMCQ("literature_g8", "theme_g8", data.question, data.answer, data.wrong));
+      }
+      return q;
+    },
+    point_of_view_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const povData = [
+        { text: "I walked into the room and saw my old friend.", pov: "first person" },
+        { text: "You open the door and step into the darkness.", pov: "second person" },
+        { text: "She wondered if he would ever understand her feelings.", pov: "third person limited" },
+        { text: "Sarah felt nervous. Meanwhile, across town, Jake was excited about his plan.", pov: "third person omniscient" },
+        { text: "We decided to take the longer route through the forest.", pov: "first person" },
+        { text: "He sat alone, thinking about his choices, unaware that she was watching.", pov: "third person omniscient" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(povData, rng);
+        q.push(createTyping("literature_g8", "point_of_view_g8_typing",
+          `Identify the point of view: "${data.text}"`, data.pov));
+      }
+      return q;
+    },
+    genres_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const genreData = [
+        { description: "A story with supernatural creatures like vampires and werewolves.", genre: "horror/fantasy" },
+        { description: "A text that explains the life of a real person.", genre: "biography" },
+        { description: "A story set in the future with advanced technology.", genre: "science fiction" },
+        { description: "A play written in verse about a hero's downfall.", genre: "tragedy" },
+        { description: "A story where the main character solves a crime.", genre: "mystery" },
+        { description: "A personal account of the author's own life.", genre: "memoir/autobiography" },
+        { description: "A story that uses humor and ends happily.", genre: "comedy" },
+        { description: "A story set during a real historical period.", genre: "historical fiction" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(genreData, rng);
+        q.push(createTyping("literature_g8", "genres_g8_typing",
+          `Name the genre: "${data.description}"`, data.genre));
+      }
+      return q;
+    },
+    allusion_irony_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const litData = [
+        { text: "He is a real Sherlock Holmes when it comes to solving puzzles.", device: "allusion" },
+        { text: "She said 'What wonderful weather!' during a thunderstorm.", device: "verbal irony" },
+        { text: "A fire station burns down.", device: "situational irony" },
+        { text: "He's a regular Romeo when it comes to romance.", device: "allusion" },
+        { text: "The pilot had a fear of heights.", device: "situational irony" },
+        { text: "A news article exaggerates politicians' behavior to mock them.", device: "satire" },
+        { text: "She opened her Pandora's box of old memories.", device: "allusion" },
+        { text: "The audience knows the killer is behind the door, but the character does not.", device: "dramatic irony" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(litData, rng);
+        q.push(createTyping("literature_g8", "allusion_irony_g8_typing",
+          `What device is used? "${data.text}"`, data.device));
+      }
+      return q;
+    },
+    theme_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const themeData = [
+        { question: "The THEME of a story is best described as:", answer: "the central message or life lesson" },
+        { question: "Which is a THEME (not a topic)?", answer: "True friendship requires sacrifice." },
+        { question: "How is theme DIFFERENT from the topic?", answer: "theme is the message about the topic; topic is just the subject" },
+        { question: "In a story where a character overcomes fear, a likely theme is:", answer: "courage means acting despite being afraid" },
+        { question: "Where is the theme usually STATED in a text?", answer: "it is usually implied, not directly stated" },
+        { question: "Which detail would BEST support a theme about perseverance?", answer: "a character failing multiple times but continuing to try" },
+        { question: "A story about a character who lies and loses friends likely has the theme:", answer: "honesty builds trust and relationships" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(themeData, rng);
+        q.push(createTyping("literature_g8", "theme_g8_typing", data.question, data.answer));
+      }
+      return q;
+    },
   },
   style_g8: {
     formal_register_g8: (seed?: number) => {
@@ -9966,6 +10516,115 @@ export const G8_Generators = {
       }
       return q;
     },
+    formal_register_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const regData = [
+        { formal: "The committee has approved the proposal.", informal: "They said yes to the idea.", wrong: ["The committee was like, yeah, sure.", "Yep, the plan got approved.", "They totally said yes."] },
+        { formal: "I would like to request a meeting.", informal: "Can we meet up?", wrong: ["Hey, let's chat.", "Wanna hang?", "We should totally meet."] },
+        { formal: "The results indicate a significant improvement.", informal: "Things got way better.", wrong: ["Stuff improved a ton.", "It's like, so much better now.", "The numbers are crazy good."] },
+        { formal: "Furthermore, the evidence supports this conclusion.", informal: "Also, the proof backs this up.", wrong: ["Plus, it totally checks out.", "And yeah, it's true.", "So basically it works."] },
+        { formal: "We respectfully disagree with the findings.", informal: "We don't agree with that.", wrong: ["That's totally wrong.", "Nah, we disagree.", "No way that's right."] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(regData, rng);
+        q.push(createMCQ("style_g8", "formal_register_g8",
+          "Which sentence uses FORMAL register?", data.formal, [data.informal, ...data.wrong.slice(0, 2)]));
+      }
+      return q;
+    },
+    academic_vs_conv_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const acData = [
+        { academic: "The data suggests a correlation between the variables.", conversational: "The numbers kind of match up.", wrong: ["It seems like they go together.", "The stats look the same.", "Stuff is related I guess."] },
+        { academic: "The protagonist undergoes significant character development.", conversational: "The main character really changes a lot.", wrong: ["The guy totally transforms.", "He's like a different person.", "The character changes or whatever."] },
+        { academic: "The author employs vivid imagery to convey the setting.", conversational: "The writer uses cool descriptions for the place.", wrong: ["The author paints a pretty picture.", "The writer makes you see stuff.", "Cool words describe the setting."] },
+        { academic: "Research indicates that exercise improves cognitive function.", conversational: "Studies show working out helps your brain.", wrong: ["Exercise is good for thinking.", "Working out makes you smarter.", "Moving around helps your head."] },
+        { academic: "The evidence substantiates the hypothesis.", conversational: "The proof backs up the guess.", wrong: ["The facts check out.", "It proves the idea.", "Everything matches up."] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(acData, rng);
+        q.push(createMCQ("style_g8", "academic_vs_conv_g8",
+          "Which phrase is more appropriate in ACADEMIC writing?", data.academic,
+          [data.conversational, ...data.wrong.slice(0, 2)]));
+      }
+      return q;
+    },
+    domain_vocab_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const domainData = [
+        { domain: "biology", term: "mitosis", general: "cell division", wrong: ["growth", "change", "split"] },
+        { domain: "chemistry", term: "oxidation", general: "chemical reaction with oxygen", wrong: ["burning", "rusting", "melting"] },
+        { domain: "literature", term: "protagonist", general: "main character", wrong: ["hero", "villain", "narrator"] },
+        { domain: "mathematics", term: "coefficient", general: "the number multiplied by a variable", wrong: ["answer", "total", "equation"] },
+        { domain: "history", term: "imperialism", general: "a policy of extending power over other nations", wrong: ["war", "trade", "exploration"] },
+        { domain: "music", term: "crescendo", general: "gradually getting louder", wrong: ["rhythm", "melody", "tempo"] },
+        { domain: "computer science", term: "algorithm", general: "a step-by-step procedure for solving a problem", wrong: ["a computer program", "a math equation", "a code language"] },
+        { domain: "earth science", term: "erosion", general: "the gradual wearing away of land by natural forces", wrong: ["earthquake", "volcano", "flooding"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(domainData, rng);
+        q.push(createMCQ("style_g8", "domain_vocab_g8",
+          `In a ${data.domain} essay, which term is DOMAIN-SPECIFIC?`, data.term, data.wrong));
+      }
+      return q;
+    },
+    formal_register_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const regData = [
+        { formal: "The committee has approved the proposal.", informal: "They said yes to the idea." },
+        { formal: "I would like to request a meeting.", informal: "Can we meet up?" },
+        { formal: "The results indicate a significant improvement.", informal: "Things got way better." },
+        { formal: "Furthermore, the evidence supports this conclusion.", informal: "Also, the proof backs this up." },
+        { formal: "We respectfully disagree with the findings.", informal: "We don't agree with that." },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(regData, rng);
+        q.push(createTyping("style_g8", "formal_register_g8_typing",
+          `Rewrite formally: "${data.informal}"`, data.formal));
+      }
+      return q;
+    },
+    academic_vs_conv_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const acData = [
+        { academic: "The data suggests a correlation between the variables.", conversational: "The numbers kind of match up." },
+        { academic: "The protagonist undergoes significant character development.", conversational: "The main character really changes a lot." },
+        { academic: "The author employs vivid imagery to convey the setting.", conversational: "The writer uses cool descriptions for the place." },
+        { academic: "Research indicates that exercise improves cognitive function.", conversational: "Studies show working out helps your brain." },
+        { academic: "The evidence substantiates the hypothesis.", conversational: "The proof backs up the guess." },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(acData, rng);
+        q.push(createTyping("style_g8", "academic_vs_conv_g8_typing",
+          `Rewrite in ACADEMIC style: "${data.conversational}"`, data.academic));
+      }
+      return q;
+    },
+    domain_vocab_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const domainData = [
+        { domain: "biology", term: "mitosis", description: "the process of cell division" },
+        { domain: "chemistry", term: "oxidation", description: "a chemical reaction involving oxygen" },
+        { domain: "literature", term: "protagonist", description: "the main character of a story" },
+        { domain: "mathematics", term: "coefficient", description: "the number multiplied by a variable" },
+        { domain: "history", term: "imperialism", description: "a policy of extending power over other nations" },
+        { domain: "music", term: "crescendo", description: "gradually getting louder" },
+        { domain: "computer science", term: "algorithm", description: "a step-by-step procedure for solving a problem" },
+        { domain: "earth science", term: "erosion", description: "the gradual wearing away of land" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(domainData, rng);
+        q.push(createTyping("style_g8", "domain_vocab_g8_typing",
+          `In ${data.domain}, what is the term for: ${data.description}?`, data.term));
+      }
+      return q;
+    },
   },
   punctuation_g8: {
     ellipsis_g8: (seed?: number) => {
@@ -10029,6 +10688,110 @@ export const G8_Generators = {
         const data = pick(commaData, rng);
         q.push(createMCQ("punctuation_g8", "commas_complex_g8",
           "Which sentence uses commas CORRECTLY in a complex structure?", data.correct, data.wrong));
+      }
+      return q;
+    },
+    ellipsis_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const ellData = [
+        { question: "An ELLIPSIS (...) is used to indicate:", answer: "an omission or trailing thought", wrong: ["a strong exclamation", "the end of a sentence", "a question"] },
+        { question: "Which uses an ellipsis CORRECTLY?", answer: "'I wonder if... never mind.'", wrong: ["'I wonder if. never mind.'", "'I wonder if, never mind.'", "'I wonder if; never mind.'"] },
+        { question: "In quoting, an ellipsis shows that:", answer: "words have been left out from the original text", wrong: ["the quote is paraphrased", "the speaker paused", "the quote is a lie"] },
+        { question: "'She looked at him and said, \"Well...\"' The ellipsis here suggests:", answer: "hesitation or an unfinished thought", wrong: ["anger", "excitement", "a complete thought"] },
+        { question: "How many dots are in a standard ellipsis?", answer: "three", wrong: ["two", "four", "one"] },
+        { question: "Which is the CORRECT way to write an ellipsis in formal writing?", answer: "three spaced periods: . . .", wrong: ["three dots with no spaces: ...", "four dots: ....", "two dots: .."] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(ellData, rng);
+        q.push(createMCQ("punctuation_g8", "ellipsis_g8", data.question, data.answer, data.wrong));
+      }
+      return q;
+    },
+    dashes_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const dashData = [
+        { correct: "She had one goal—to win.", incorrect: "She had one goal-to win.", rule: "em dash for emphasis before a dramatic element" },
+        { correct: "The author—known for his wit—published a new book.", incorrect: "The author, known for his wit, published a new book.", rule: "em dashes for stronger parenthetical" },
+        { correct: "She wanted three things—honesty, loyalty, and respect.", incorrect: "She wanted three things: honesty, loyalty, and respect.", rule: "em dash to introduce a list with emphasis" },
+        { correct: "The answer—surprisingly—was no.", incorrect: "The answer surprisingly was no.", rule: "em dashes around an interjection" },
+        { correct: "He was determined—nothing would stop him.", incorrect: "He was determined, nothing would stop him.", rule: "em dash to connect dramatic independent clauses" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(dashData, rng);
+        q.push(createMCQ("punctuation_g8", "dashes_g8",
+          "Which correctly uses an EM DASH?", data.correct,
+          [data.incorrect, "She had one goal...to win.", "She had one goal; to win."]));
+      }
+      return q;
+    },
+    commas_complex_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const commaData = [
+        { correct: "My teacher, Mr. Smith, is very kind.", wrong: ["My teacher Mr. Smith, is very kind.", "My teacher, Mr. Smith is very kind.", "My teacher Mr. Smith is very kind."] },
+        { correct: "After the long, exhausting hike, we rested.", wrong: ["After the long exhausting hike we rested.", "After, the long exhausting hike, we rested.", "After the long, exhausting hike we rested."] },
+        { correct: "The book, which was published in 1920, became a classic.", wrong: ["The book which was published in 1920 became a classic.", "The book, which was published in 1920 became a classic.", "The book which, was published in 1920, became a classic."] },
+        { correct: "Yes, I believe that is correct.", wrong: ["Yes I believe that is correct.", "Yes I believe, that is correct.", "Yes, I believe, that is correct."] },
+        { correct: "However, the results were inconclusive.", wrong: ["However the results were inconclusive.", "However the results, were inconclusive.", "However, the results, were inconclusive."] },
+        { correct: "She visited Paris, France; London, England; and Rome, Italy.", wrong: ["She visited Paris France, London England, and Rome Italy.", "She visited Paris, France, London, England, and Rome, Italy.", "She visited Paris France; London England; and Rome Italy."] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(commaData, rng);
+        q.push(createMCQ("punctuation_g8", "commas_complex_g8",
+          "Which sentence uses commas CORRECTLY in a complex structure?", data.correct, data.wrong));
+      }
+      return q;
+    },
+    ellipsis_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const ellData = [
+        { question: "An ELLIPSIS (...) is used to indicate:", answer: "an omission or trailing thought" },
+        { question: "In quoting, an ellipsis shows that:", answer: "words have been left out from the original text" },
+        { question: "'She looked at him and said, \"Well...\"' The ellipsis here suggests:", answer: "hesitation or an unfinished thought" },
+        { question: "How many dots are in a standard ellipsis?", answer: "three" },
+        { question: "Which is the CORRECT way to write an ellipsis in formal writing?", answer: "three spaced periods: . . ." },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(ellData, rng);
+        q.push(createTyping("punctuation_g8", "ellipsis_g8_typing", data.question, data.answer));
+      }
+      return q;
+    },
+    dashes_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const dashData = [
+        { correct: "She had one goal—to win.", rule: "em dash before a dramatic element" },
+        { correct: "The author—known for his wit—published a new book.", rule: "em dashes for stronger parenthetical" },
+        { correct: "She wanted three things—honesty, loyalty, and respect.", rule: "em dash to introduce a list with emphasis" },
+        { correct: "The answer—surprisingly—was no.", rule: "em dashes around an interjection" },
+        { correct: "He was determined—nothing would stop him.", rule: "em dash to connect dramatic independent clauses" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(dashData, rng);
+        q.push(createTyping("punctuation_g8", "dashes_g8_typing",
+          `Add an em dash to this sentence: "${data.correct.replace('—', '___')}"`, data.correct));
+      }
+      return q;
+    },
+    commas_complex_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const commaData = [
+        { correct: "My teacher, Mr. Smith, is very kind.", incomplete: "My teacher Mr. Smith is very kind." },
+        { correct: "After the long, exhausting hike, we rested.", incomplete: "After the long exhausting hike we rested." },
+        { correct: "The book, which was published in 1920, became a classic.", incomplete: "The book which was published in 1920 became a classic." },
+        { correct: "Yes, I believe that is correct.", incomplete: "Yes I believe that is correct." },
+        { correct: "However, the results were inconclusive.", incomplete: "However the results were inconclusive." },
+        { correct: "She visited Paris, France; London, England; and Rome, Italy.", incomplete: "She visited Paris France London England and Rome Italy." },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(commaData, rng);
+        q.push(createTyping("punctuation_g8", "commas_complex_g8_typing",
+          `Add commas correctly: "${data.incomplete}"`, data.correct));
       }
       return q;
     },
@@ -10160,6 +10923,553 @@ export const G8_Generators = {
               `Which has the most POSITIVE connotation: ${data.words.join(", ")}?`, data.positive!));
           }
         }
+      }
+      return q;
+    },
+    greek_latin_adv_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const rootData = [
+        { root: "chron", meaning: "time", examples: ["chronology", "chronic", "synchronize"], wrong: ["place", "people", "thought"] },
+        { root: "morph", meaning: "shape or form", examples: ["metamorphosis", "morphology", "amorphous"], wrong: ["time", "mind", "light"] },
+        { root: "path", meaning: "feeling or suffering", examples: ["empathy", "apathy", "pathology"], wrong: ["shape", "mind", "time"] },
+        { root: "psych", meaning: "mind or soul", examples: ["psychology", "psyche", "psychiatry"], wrong: ["body", "time", "shape"] },
+        { root: "bene", meaning: "good or well", examples: ["benefit", "benevolent", "benediction"], wrong: ["bad", "small", "large"] },
+        { root: "mal", meaning: "bad or evil", examples: ["malice", "malfunction", "malevolent"], wrong: ["good", "large", "time"] },
+        { root: "scrib/script", meaning: "to write", examples: ["manuscript", "inscription", "prescribe"], wrong: ["to read", "to speak", "to think"] },
+        { root: "spec/spect", meaning: "to look or see", examples: ["spectator", "inspect", "perspective"], wrong: ["to hear", "to touch", "to write"] },
+        { root: "dict", meaning: "to say or speak", examples: ["dictate", "predict", "verdict"], wrong: ["to write", "to see", "to think"] },
+        { root: "aud", meaning: "to hear", examples: ["audience", "audible", "auditorium"], wrong: ["to see", "to speak", "to write"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(rootData, rng);
+        const example = pick(data.examples, rng);
+        q.push(createMCQ("vocab_g8", "greek_latin_adv_g8",
+          `The root '${data.root}' (as in '${example}') means:`, data.meaning, data.wrong));
+      }
+      return q;
+    },
+    context_clues_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const clueData = [
+        { sentence: "The scientist's hypothesis, or educated guess, was later proven correct.", word: "hypothesis", meaning: "an educated guess", clueType: "appositive (definition after comma)", wrong: ["a proven fact", "a random thought", "a final answer"] },
+        { sentence: "Unlike her gregarious sister, Maria was shy and reserved.", word: "gregarious", meaning: "outgoing and sociable", clueType: "antonym/contrast clue (unlike)", wrong: ["quiet and shy", "angry and loud", "smart and studious"] },
+        { sentence: "The parched earth, cracked and dry from weeks without rain, needed water.", word: "parched", meaning: "extremely dry", clueType: "description/explanation clue", wrong: ["wet and muddy", "cold and frozen", "green and lush"] },
+        { sentence: "She was so elated after winning the award that she couldn't stop smiling.", word: "elated", meaning: "extremely happy and excited", clueType: "cause/effect clue", wrong: ["sad and disappointed", "angry and frustrated", "tired and bored"] },
+        { sentence: "The teacher used a mnemonic device, like 'ROY G BIV' for rainbow colors, to help students remember.", word: "mnemonic", meaning: "a memory aid or trick", clueType: "example clue", wrong: ["a punishment", "a test question", "a textbook"] },
+        { sentence: "His verbose speech, filled with unnecessary repetition and overly long sentences, bored the audience.", word: "verbose", meaning: "using too many words", clueType: "description clue", wrong: ["brief and clear", "exciting and engaging", "quiet and soft"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(clueData, rng);
+        const askMeaning = rng() > 0.4;
+        if (askMeaning) {
+          q.push(createMCQ("vocab_g8", "context_clues_g8",
+            `Based on context, '${data.word}' in "${data.sentence}" means:`, data.meaning, data.wrong));
+        } else {
+          q.push(createMCQ("vocab_g8", "context_clues_g8",
+            `What TYPE of context clue helps define '${data.word}'?`, data.clueType,
+            ["no clue is given", "root word clue", "illustration clue"]));
+        }
+      }
+      return q;
+    },
+    figurative_adv_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const figData = [
+        { text: "'Oh great, another Monday!' (said sarcastically)", device: "verbal irony", wrong: ["a pun", "an allusion", "personification"] },
+        { text: "'I'm reading about anti-gravity. It's impossible to put down!'", device: "pun", wrong: ["verbal irony", "allusion", "hyperbole"] },
+        { text: "'She opened Pandora's box when she asked that question.'", device: "allusion", wrong: ["verbal irony", "pun", "metaphor"] },
+        { text: "'Time flies when you're having fun' — but time doesn't really fly!", device: "personification", wrong: ["verbal irony", "pun", "allusion"] },
+        { text: "'He met his Waterloo in the final exam.'", device: "allusion", wrong: ["pun", "verbal irony", "simile"] },
+        { text: "'I used to be a banker, but I lost interest.'", device: "pun", wrong: ["verbal irony", "allusion", "metaphor"] },
+        { text: "'Nice job!' (said to someone who just dropped all the plates)", device: "verbal irony", wrong: ["pun", "allusion", "hyperbole"] },
+        { text: "'He's a real Einstein' (said about someone who did something foolish)", device: "verbal irony", wrong: ["allusion only", "pun", "simile"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(figData, rng);
+        q.push(createMCQ("vocab_g8", "figurative_adv_g8",
+          `What figurative device? ${data.text}`, data.device, data.wrong));
+      }
+      return q;
+    },
+    word_nuances_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const nuanceData = [
+        { words: ["commence", "start", "begin", "kick off"], mostFormal: "commence", leastFormal: "kick off", wrong: ["start", "begin"] },
+        { words: ["residence", "home", "house", "pad"], mostFormal: "residence", leastFormal: "pad", wrong: ["home", "house"] },
+        { words: ["inquire", "ask", "question", "grill"], mostFormal: "inquire", leastFormal: "grill", wrong: ["ask", "question"] },
+        { words: ["deceased", "dead", "passed away", "gone"], mostFormal: "deceased", leastFormal: "gone", wrong: ["dead", "passed away"] },
+        { words: ["intoxicated", "drunk", "tipsy", "wasted"], mostFormal: "intoxicated", leastFormal: "wasted", wrong: ["drunk", "tipsy"] },
+        { words: ["perspire", "sweat", "glow"], mostFormal: "perspire", leastFormal: "sweat", wrong: ["glow"] },
+        { words: ["famished", "hungry", "starving", "peckish"], mostFormal: "famished", leastFormal: "peckish", wrong: ["hungry", "starving"] },
+        { words: ["slender", "thin", "skinny", "scrawny"], positive: "slender", negative: "scrawny", neutral: "thin", wrong: ["skinny"] },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(nuanceData, rng);
+        if ("mostFormal" in data) {
+          const askFormal = rng() > 0.5;
+          if (askFormal) {
+            q.push(createMCQ("vocab_g8", "word_nuances_g8",
+              `Which word has the MOST FORMAL tone? ${data.words.join(", ")}`, data.mostFormal!, data.wrong));
+          } else {
+            q.push(createMCQ("vocab_g8", "word_nuances_g8",
+              `Which word has the LEAST FORMAL tone? ${data.words.join(", ")}`, data.leastFormal!, data.wrong));
+          }
+        } else {
+          q.push(createMCQ("vocab_g8", "word_nuances_g8",
+            `Which word has a POSITIVE connotation? ${data.words.join(", ")}`, data.positive!,
+            [data.negative!, data.neutral!, ...data.wrong]));
+        }
+      }
+      return q;
+    },
+    greek_latin_adv_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const rootData = [
+        { root: "chron", meaning: "time" },
+        { root: "morph", meaning: "shape or form" },
+        { root: "path", meaning: "feeling or suffering" },
+        { root: "psych", meaning: "mind or soul" },
+        { root: "bene", meaning: "good or well" },
+        { root: "mal", meaning: "bad or evil" },
+        { root: "scrib/script", meaning: "to write" },
+        { root: "spec/spect", meaning: "to look or see" },
+        { root: "dict", meaning: "to say or speak" },
+        { root: "aud", meaning: "to hear" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(rootData, rng);
+        q.push(createTyping("vocab_g8", "greek_latin_adv_g8_typing",
+          `What does the root '${data.root}' mean?`, data.meaning));
+      }
+      return q;
+    },
+    context_clues_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const clueData = [
+        { sentence: "The scientist's hypothesis, or educated guess, was later proven correct.", word: "hypothesis", meaning: "an educated guess" },
+        { sentence: "Unlike her gregarious sister, Maria was shy and reserved.", word: "gregarious", meaning: "outgoing and sociable" },
+        { sentence: "The parched earth, cracked and dry from weeks without rain, needed water.", word: "parched", meaning: "extremely dry" },
+        { sentence: "She was so elated after winning the award that she couldn't stop smiling.", word: "elated", meaning: "extremely happy and excited" },
+        { sentence: "The teacher used a mnemonic device, like 'ROY G BIV' for rainbow colors, to help students remember.", word: "mnemonic", meaning: "a memory aid or trick" },
+        { sentence: "His verbose speech, filled with unnecessary repetition and overly long sentences, bored the audience.", word: "verbose", meaning: "using too many words" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(clueData, rng);
+        q.push(createTyping("vocab_g8", "context_clues_g8_typing",
+          `Based on context, '${data.word}' means:`, data.meaning));
+      }
+      return q;
+    },
+    figurative_adv_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const figData = [
+        { text: "'Oh great, another Monday!' (said sarcastically)", device: "verbal irony" },
+        { text: "'I'm reading about anti-gravity. It's impossible to put down!'", device: "pun" },
+        { text: "'She opened Pandora's box when she asked that question.'", device: "allusion" },
+        { text: "'Time flies when you're having fun' — but time doesn't really fly!", device: "personification" },
+        { text: "'He met his Waterloo in the final exam.'", device: "allusion" },
+        { text: "'I used to be a banker, but I lost interest.'", device: "pun" },
+        { text: "'Nice job!' (said to someone who just dropped all the plates)", device: "verbal irony" },
+        { text: "'He's a real Einstein' (said about someone who did something foolish)", device: "verbal irony" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(figData, rng);
+        q.push(createTyping("vocab_g8", "figurative_adv_g8_typing",
+          `What figurative device? ${data.text}`, data.device));
+      }
+      return q;
+    },
+    word_nuances_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const nuanceData = [
+        { question: "Which word means 'to begin' and is the MOST FORMAL?", answer: "commence" },
+        { question: "Which word means 'a place to live' and is the MOST FORMAL?", answer: "residence" },
+        { question: "Which word means 'to ask' and is the MOST FORMAL?", answer: "inquire" },
+        { question: "Which word means 'dead' and is the MOST FORMAL?", answer: "deceased" },
+        { question: "Which word means 'drunk' and is the MOST FORMAL?", answer: "intoxicated" },
+        { question: "Which word means 'thin' and has a POSITIVE connotation?", answer: "slender" },
+        { question: "Which word means 'very hungry' and is the MOST FORMAL?", answer: "famished" },
+        { question: "Which word means 'very thin' and has a NEGATIVE connotation?", answer: "scrawny" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(nuanceData, rng);
+        q.push(createTyping("vocab_g8", "word_nuances_g8_typing", data.question, data.answer));
+      }
+      return q;
+    },
+    synonyms_distinctions_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const synData = [
+        { question: "What is the difference between 'irritated' and 'furious'?", answer: "irritated is mildly annoyed; furious is extremely angry" },
+        { question: "What is the difference between 'confident' and 'arrogant'?", answer: "confident is self-assured; arrogant is excessively proud" },
+        { question: "What is the difference between 'brave' and 'reckless'?", answer: "brave is courageous; reckless is dangerously careless" },
+        { question: "What is the difference between 'thrifty' and 'stingy'?", answer: "thrifty is wise with money; stingy is unwilling to spend" },
+        { question: "What is the difference between 'curious' and 'nosy'?", answer: "curious is interested to learn; nosy is intrusively interested" },
+        { question: "What is the difference between 'ancient' and 'archaic'?", answer: "ancient means very old; archaic means outdated or old-fashioned" },
+        { question: "What is the difference between 'small' and 'petite'?", answer: "small is generic; petite is small and delicate" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(synData, rng);
+        q.push(createTyping("vocab_g8", "synonyms_distinctions_g8_typing",
+          data.question, data.answer));
+      }
+      return q;
+    },
+    // ───── NEW VOCABULARY SUBTOPICS (8 topics, 16 generators) ─────
+    rhetoric_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const rhetoricalData = [
+        { appeal: "ethos", example: "As a doctor with 20 years of experience, I recommend this treatment.", wrong: ["pathos", "logos", "metonymy"] },
+        { appeal: "pathos", example: "Think of starving children in developing nations while you waste food.", wrong: ["ethos", "logos", "irony"] },
+        { appeal: "logos", example: "Studies show that 9 out of 10 dentists recommend this toothpaste.", wrong: ["ethos", "pathos", "alliteration"] },
+        { appeal: "ethos", example: "As a Nobel Prize winner, I believe climate change requires immediate action.", wrong: ["pathos", "logos", "chiasmus"] },
+        { appeal: "pathos", example: "Imagine losing your home to a natural disaster.", wrong: ["ethos", "logos", "anaphora"] },
+        { appeal: "logos", example: "If A equals B and B equals C, then A must equal C.", wrong: ["ethos", "pathos", "parallelism"] },
+        { appeal: "rhetorical question", example: "Do you really want to ignore the evidence before you?", wrong: ["anaphora", "chiasmus", "alliteration"] },
+        { appeal: "anaphora", example: "We will fight, we will prevail, we will triumph.", wrong: ["ethos", "epistrophe", "metaphor"] },
+        { appeal: "chiasmus", example: "Ask not what your country can do for you, but what you can do for your country.", wrong: ["logos", "anaphora", "assonance"] },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(rhetoricalData, rng);
+        q.push(createMCQ("vocab_g8", "rhetoric_g8_mcq",
+          `What rhetorical appeal or device is used in: "${data.example}"?`, data.appeal, data.wrong));
+      }
+      return q;
+    },
+    rhetoric_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const rhetoricExamples = [
+        { example: "Trust me, I've been doing this for decades.", term: "ethos" },
+        { example: "Picture a lonely puppy in a shelter.", term: "pathos" },
+        { example: "Facts and statistics prove this is effective.", term: "logos" },
+        { example: "Wouldn't you agree this is obvious?", term: "rhetorical question" },
+        { example: "Forget it, forget the past, forget the pain.", term: "anaphora" },
+        { example: "Never surrender, never submit, never stop fighting.", term: "anaphora" },
+        { example: "Ask not what your country can do for you, but what you can do for your country.", term: "chiasmus" },
+        { example: "Good morning comes after dark night.", term: "chiasmus" },
+        { example: "When in Rome, do as the Romans do.", term: "aphorism" },
+        { example: "The fear is real, the pain is real.", term: "parallelism" },
+        { example: "Genius is 1% inspiration and 99% perspiration.", term: "parallelism" },
+        { example: "Give and take, love and loss, joy and sorrow.", term: "antithesis" },
+        { example: "The sweet song sang sweetly.", term: "alliteration" },
+        { example: "Soft as silk, smooth as stone.", term: "simile" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(rhetoricExamples, rng);
+        q.push(createTyping("vocab_g8", "rhetoric_g8_typing",
+          `What rhetorical term or device is demonstrated in: "${data.example}"?`, data.term));
+      }
+      return q;
+    },
+    philosophy_ethics_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const philosophyData = [
+        { term: "justice", definition: "Fair treatment and respect for rights; giving people what they deserve.", wrong: ["happiness", "wisdom", "honesty"] },
+        { term: "morality", definition: "Principles concerning the distinction between right and wrong behavior.", wrong: ["law", "custom", "opinion"] },
+        { term: "utilitarianism", definition: "An ethical theory that states actions are right if they promote happiness for the greatest number.", wrong: ["stoicism", "existentialism", "relativism"] },
+        { term: "ethics", definition: "The study of what is right and wrong; moral philosophy.", wrong: ["psychology", "politics", "sociology"] },
+        { term: "virtue", definition: "A morally excellent quality or trait, such as courage or honesty.", wrong: ["vice", "power", "intelligence"] },
+        { term: "consequentialism", definition: "An ethical view that judges actions by their consequences.", wrong: ["deontology", "virtue ethics", "relativism"] },
+        { term: "deontology", definition: "An ethical theory based on rules and duties, regardless of consequences.", wrong: ["utilitarianism", "virtue ethics", "pragmatism"] },
+        { term: "integrity", definition: "Adherence to moral principles; being honest and having strong moral values.", wrong: ["strength", "intelligence", "beauty"] },
+        { term: "compassion", definition: "Sympathetic concern for the sufferings of others; empathy.", wrong: ["pride", "ambition", "confidence"] },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(philosophyData, rng);
+        q.push(createMCQ("vocab_g8", "philosophy_ethics_g8_mcq",
+          `What does "${data.term}" mean in ethics?`, data.definition, data.wrong));
+      }
+      return q;
+    },
+    philosophy_ethics_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const ethics_data = [
+        { definition: "The belief that actions should be judged by whether they produce the greatest good for the greatest number.", term: ["utilitarianism", "utilitarism"] },
+        { definition: "Moral principles based on duty and rules, not consequences.", term: ["deontology", "deontological ethics"] },
+        { definition: "The quality of being honest and having strong moral principles.", term: ["integrity", "integraty"] },
+        { definition: "The study of right and wrong behavior.", term: ["ethics", "moral philosophy"] },
+        { definition: "A morally praiseworthy quality like honesty or courage.", term: ["virtue", "virtues"] },
+        { definition: "Fair and impartial treatment; giving people what they deserve.", term: ["justice", "justness"] },
+        { definition: "The system of moral principles governing a person's behavior.", term: ["morality", "moral code"] },
+        { definition: "Deep awareness of another person's feelings and experiences.", term: ["empathy", "sympathy"] },
+        { definition: "A desire to help others who are suffering.", term: ["compassion", "mercy"] },
+        { definition: "The quality of being honest and frank; honesty.", term: ["candor", "candour", "honesty"] },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(ethics_data, rng);
+        q.push(createTyping("vocab_g8", "philosophy_ethics_g8_typing",
+          `Define: ${data.definition}`, data.term));
+      }
+      return q;
+    },
+    world_literature_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const litData = [
+        { term: "archetype", example: "The wise mentor who guides the young hero.", wrong: ["protagonist", "symbol", "allusion"] },
+        { term: "myth", example: "A traditional story explaining natural phenomena or cultural beliefs.", wrong: ["novel", "fable", "legend"] },
+        { term: "epic", example: "A long narrative poem about heroic deeds, like Beowulf or The Odyssey.", wrong: ["sonnet", "elegy", "ballad"] },
+        { term: "tragedy", example: "A drama depicting the downfall of a noble character due to a fatal flaw.", wrong: ["comedy", "farce", "melodrama"] },
+        { term: "comedy", example: "A dramatic work intended to be amusing and end happily.", wrong: ["tragedy", "satire", "irony"] },
+        { term: "protagonist", example: "The main character who drives the action of the story.", wrong: ["antagonist", "observer", "narrator"] },
+        { term: "antagonist", example: "The character who opposes or conflicts with the protagonist.", wrong: ["protagonist", "ally", "mentor"] },
+        { term: "metaphor", example: "A comparison between two unlike things without using 'like' or 'as'.", wrong: ["simile", "personification", "symbol"] },
+        { term: "symbolism", example: "The use of objects, colors, or actions to represent deeper meanings.", wrong: ["foreshadowing", "irony", "hyperbole"] },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(litData, rng);
+        q.push(createMCQ("vocab_g8", "world_literature_g8_mcq",
+          `What literary term is described: "${data.example}"?`, data.term, data.wrong));
+      }
+      return q;
+    },
+    world_literature_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const lit_terms = [
+        { definition: "A universal character type that appears in stories across cultures.", term: ["archetype", "archetypal character"] },
+        { definition: "A traditional story used to explain natural phenomena or values.", term: ["myth", "mythology"] },
+        { definition: "A long narrative poem celebrating heroic deeds and adventures.", term: ["epic", "epic poem"] },
+        { definition: "A dramatic work showing a noble character's downfall.", term: ["tragedy", "tragic drama"] },
+        { definition: "A dramatic work meant to amuse the audience with a happy ending.", term: ["comedy", "comic play"] },
+        { definition: "The main character of a story.", term: ["protagonist", "hero", "heroine"] },
+        { definition: "The character opposing the protagonist.", term: ["antagonist", "villain"] },
+        { definition: "A simple story with a moral lesson.", term: ["fable", "moral tale"] },
+        { definition: "An object or action representing something deeper or abstract.", term: ["symbol", "symbolism"] },
+        { definition: "A clue or hint suggesting what will happen later.", term: ["foreshadowing", "forshadowing"] },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(lit_terms, rng);
+        q.push(createTyping("vocab_g8", "world_literature_g8_typing",
+          `What is: ${data.definition}`, data.term));
+      }
+      return q;
+    },
+    economics_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const econ_data = [
+        { term: "supply", definition: "The amount of goods available for purchase.", wrong: ["demand", "price", "cost"] },
+        { term: "demand", definition: "The desire and ability of consumers to buy goods.", wrong: ["supply", "profit", "revenue"] },
+        { term: "inflation", definition: "A sustained increase in the price level of goods and services.", wrong: ["deflation", "recession", "growth"] },
+        { term: "trade", definition: "The exchange of goods and services between countries or individuals.", wrong: ["tariff", "import", "export"] },
+        { term: "GDP", definition: "Gross Domestic Product; total value of goods and services produced in a country.", wrong: ["GNP", "income", "wealth"] },
+        { term: "capitalism", definition: "An economic system based on private ownership and free markets.", wrong: ["socialism", "communism", "feudalism"] },
+        { term: "profit", definition: "Revenue minus costs; the financial gain from a business.", wrong: ["revenue", "income", "expense"] },
+        { term: "monopoly", definition: "A market controlled by a single seller with no competition.", wrong: ["oligopoly", "competition", "cartel"] },
+        { term: "tariff", definition: "A tax on imported goods to protect domestic industries.", wrong: ["subsidy", "quota", "embargo"] },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(econ_data, rng);
+        q.push(createMCQ("vocab_g8", "economics_g8_mcq",
+          `What does "${data.term}" mean in economics?`, data.definition, data.wrong));
+      }
+      return q;
+    },
+    economics_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const econ_terms = [
+        { definition: "The amount of goods available for buyers.", term: ["supply", "product supply"] },
+        { definition: "Consumers' willingness and ability to purchase.", term: ["demand", "consumer demand"] },
+        { definition: "A rise in prices of goods and services over time.", term: ["inflation", "price inflation"] },
+        { definition: "The exchange of goods and services between people or countries.", term: ["trade", "commerce"] },
+        { definition: "Total value of all goods and services produced in a country.", term: ["GDP", "Gross Domestic Product"] },
+        { definition: "Economic system based on private ownership and competition.", term: ["capitalism", "capitalist economy"] },
+        { definition: "Money earned after paying all costs and expenses.", term: ["profit", "net profit"] },
+        { definition: "Complete control of a product or service by one company.", term: ["monopoly", "monopolistic control"] },
+        { definition: "A tax imposed on imported goods.", term: ["tariff", "import tariff", "duty"] },
+        { definition: "A period of declining economic growth and rising unemployment.", term: ["recession", "economic recession"] },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(econ_terms, rng);
+        q.push(createTyping("vocab_g8", "economics_g8_typing",
+          `Define: ${data.definition}`, data.term));
+      }
+      return q;
+    },
+    science_adv_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sci_data = [
+        { term: "evolution", definition: "The gradual change of species over time through natural selection.", wrong: ["adaptation", "mutation", "extinction"] },
+        { term: "genetics", definition: "The study of heredity and genes.", wrong: ["genomics", "biochemistry", "evolution"] },
+        { term: "quantum", definition: "Relating to the physics of atoms and subatomic particles.", wrong: ["classical", "relativistic", "thermal"] },
+        { term: "photon", definition: "A particle of light or electromagnetic radiation.", wrong: ["electron", "neutron", "quark"] },
+        { term: "empirical", definition: "Based on observation, experience, or experiment rather than theory.", wrong: ["theoretical", "hypothetical", "abstract"] },
+        { term: "mutation", definition: "A change in DNA that can alter an organism's traits.", wrong: ["adaptation", "evolution", "variation"] },
+        { term: "species", definition: "A group of organisms that can reproduce together.", wrong: ["genus", "family", "ecosystem"] },
+        { term: "adaptation", definition: "A trait that helps an organism survive in its environment.", wrong: ["mutation", "evolution", "instinct"] },
+        { term: "DNA", definition: "Deoxyribonucleic acid; the molecule that carries genetic information.", wrong: ["RNA", "protein", "enzyme"] },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(sci_data, rng);
+        q.push(createMCQ("vocab_g8", "science_adv_g8_mcq",
+          `What does "${data.term}" mean?`, data.definition, data.wrong));
+      }
+      return q;
+    },
+    science_adv_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sci_terms = [
+        { definition: "The process by which organisms change over generations.", term: ["evolution", "evolutionary change"] },
+        { definition: "The study of inherited traits and genes.", term: ["genetics", "heredity"] },
+        { definition: "Physics dealing with atoms and subatomic particles.", term: ["quantum mechanics", "quantum physics"] },
+        { definition: "A discrete unit of light energy.", term: ["photon", "light particle"] },
+        { definition: "Based on real observations and experiments.", term: ["empirical", "evidence-based"] },
+        { definition: "A permanent change in DNA sequences.", term: ["mutation", "genetic mutation"] },
+        { definition: "A group of organisms that can breed together.", term: ["species", "biological species"] },
+        { definition: "A characteristic that helps survival in an environment.", term: ["adaptation", "adaptive trait"] },
+        { definition: "The molecule containing genetic instructions.", term: ["DNA", "deoxyribonucleic acid"] },
+        { definition: "Genetic variation within a population.", term: ["variation", "genetic variation"] },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(sci_terms, rng);
+        q.push(createTyping("vocab_g8", "science_adv_g8_typing",
+          `Define: ${data.definition}`, data.term));
+      }
+      return q;
+    },
+    advanced_writing_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const writing_data = [
+        { term: "thesis", definition: "The main argument or central idea of an essay.", wrong: ["topic", "conclusion", "evidence"] },
+        { term: "synthesis", definition: "Combining information from multiple sources to form new understanding.", wrong: ["analysis", "summary", "paraphrase"] },
+        { term: "annotation", definition: "Adding notes or comments to a text to explain or analyze it.", wrong: ["citation", "quotation", "paraphrase"] },
+        { term: "peer review", definition: "Evaluation of work by people of equal standing.", wrong: ["plagiarism", "editing", "revision"] },
+        { term: "citation", definition: "A formal reference to a source of information.", wrong: ["quotation", "paraphrase", "summary"] },
+        { term: "evidence", definition: "Facts or examples used to support an argument.", wrong: ["opinion", "bias", "assumption"] },
+        { term: "paraphrase", definition: "Restate someone's ideas in your own words.", wrong: ["quote", "summarize", "cite"] },
+        { term: "plagiarism", definition: "Using someone's words or ideas without giving credit.", wrong: ["citation", "paraphrase", "analysis"] },
+        { term: "bias", definition: "Prejudice or unfair favor toward a particular viewpoint.", wrong: ["evidence", "logic", "objectivity"] },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(writing_data, rng);
+        q.push(createMCQ("vocab_g8", "advanced_writing_g8_mcq",
+          `What does "${data.term}" mean in writing?`, data.definition, data.wrong));
+      }
+      return q;
+    },
+    advanced_writing_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const writing_terms = [
+        { definition: "The main claim or argument of an essay.", term: ["thesis", "thesis statement"] },
+        { definition: "Combining ideas from multiple sources into a unified whole.", term: ["synthesis", "synthesize"] },
+        { definition: "Adding comments and marks to a text for analysis.", term: ["annotation", "annotate"] },
+        { definition: "Evaluation of work by colleagues or equals.", term: ["peer review", "peer editing"] },
+        { definition: "A formal reference acknowledging a source.", term: ["citation", "cite"] },
+        { definition: "Facts, examples, or statistics supporting an argument.", term: ["evidence", "supporting evidence"] },
+        { definition: "Restating an idea using different words.", term: ["paraphrase", "rephrasing"] },
+        { definition: "Taking credit for someone else's work or ideas.", term: ["plagiarism", "plagiarize"] },
+        { definition: "An unfair preference for one side or viewpoint.", term: ["bias", "prejudice"] },
+        { definition: "Presenting information without favoritism or judgment.", term: ["objectivity", "objective writing"] },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(writing_terms, rng);
+        q.push(createTyping("vocab_g8", "advanced_writing_g8_typing",
+          `Define: ${data.definition}`, data.term));
+      }
+      return q;
+    },
+    syntax_style_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const syntax_data = [
+        { term: "anaphora", example: "I came, I saw, I conquered.", wrong: ["epistrophe", "alliteration", "metaphor"] },
+        { term: "epistrophe", example: "When I was a child, I thought as a child; when I became a man, I put away childish things.", wrong: ["anaphora", "parallelism", "simile"] },
+        { term: "parallelism", example: "She loves hiking, swimming, and reading.", wrong: ["anaphora", "antithesis", "assonance"] },
+        { term: "periodic sentence", example: "After walking for hours, hungry and tired, they finally reached the village.", wrong: ["cumulative sentence", "simple sentence", "compound sentence"] },
+        { term: "cumulative sentence", example: "They reached the village, hungry and tired, after walking for hours.", wrong: ["periodic sentence", "simple sentence", "fragment"] },
+        { term: "antithesis", example: "It was the best of times, it was the worst of times.", wrong: ["parallelism", "oxymoron", "paradox"] },
+        { term: "assonance", example: "The rain in Spain falls mainly on the plain.", wrong: ["alliteration", "consonance", "rhyme"] },
+        { term: "alliteration", example: "The beautiful butterfly bounced by the bush.", wrong: ["assonance", "consonance", "rhythm"] },
+        { term: "inversion", example: "Never have I seen such beauty.", wrong: ["ellipsis", "anaphora", "chiasmus"] },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(syntax_data, rng);
+        q.push(createMCQ("vocab_g8", "syntax_style_g8_mcq",
+          `What syntactic or stylistic device is in: "${data.example}"?`, data.term, data.wrong));
+      }
+      return q;
+    },
+    syntax_style_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const syntax_terms = [
+        { definition: "Repetition of the same word or phrase at the beginning of clauses.", term: ["anaphora", "anaphor"] },
+        { definition: "Repetition of words at the end of successive clauses.", term: ["epistrophe", "epistrophic"] },
+        { definition: "Similar grammatical structures in successive phrases.", term: ["parallelism", "parallel structure"] },
+        { definition: "A sentence where the main idea comes at the end.", term: ["periodic sentence", "periodic"] },
+        { definition: "A sentence where the main idea comes early, then is elaborated.", term: ["cumulative sentence", "cumulative"] },
+        { definition: "Contrasting ideas in similar grammatical structures.", term: ["antithesis", "antithetic"] },
+        { definition: "Repetition of vowel sounds in nearby words.", term: ["assonance", "assonant"] },
+        { definition: "Repetition of consonant sounds at word beginnings.", term: ["alliteration", "alliterative"] },
+        { definition: "Reversing normal word order for emphasis.", term: ["inversion", "inverted order"] },
+        { definition: "Joining independent clauses with coordinating conjunctions.", term: ["coordination", "parataxis"] },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(syntax_terms, rng);
+        q.push(createTyping("vocab_g8", "syntax_style_g8_typing",
+          `What is: ${data.definition}`, data.term));
+      }
+      return q;
+    },
+    critical_thinking_g8_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const ct_data = [
+        { term: "inference", definition: "A conclusion drawn from evidence and reasoning.", wrong: ["assumption", "guess", "fact"] },
+        { term: "deduction", definition: "Reasoning from general principles to a specific conclusion.", wrong: ["induction", "abduction", "analogy"] },
+        { term: "induction", definition: "Reasoning from specific examples to a general conclusion.", wrong: ["deduction", "abduction", "assumption"] },
+        { term: "assumption", definition: "Something accepted as true without proof.", wrong: ["inference", "evidence", "fact"] },
+        { term: "fallacy", definition: "A logical error in reasoning.", wrong: ["bias", "assumption", "inference"] },
+        { term: "bias", definition: "A preference or prejudice that affects judgment.", wrong: ["objectivity", "fact", "evidence"] },
+        { term: "ad hominem fallacy", definition: "Attacking the person instead of their argument.", wrong: ["straw man", "appeal to authority", "begging the question"] },
+        { term: "straw man fallacy", definition: "Misrepresenting someone's argument to attack it.", wrong: ["ad hominem", "slippery slope", "false dilemma"] },
+        { term: "false dilemma", definition: "Presenting only two options when more exist.", wrong: ["straw man", "begging the question", "red herring"] },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(ct_data, rng);
+        q.push(createMCQ("vocab_g8", "critical_thinking_g8_mcq",
+          `What does "${data.term}" mean?`, data.definition, data.wrong));
+      }
+      return q;
+    },
+    critical_thinking_g8_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const ct_terms = [
+        { definition: "A conclusion based on evidence and reasoning.", term: ["inference", "inferential"] },
+        { definition: "Logic from general rules to specific conclusions.", term: ["deduction", "deductive reasoning"] },
+        { definition: "Logic from specific examples to general conclusions.", term: ["induction", "inductive reasoning"] },
+        { definition: "Something believed without proof or evidence.", term: ["assumption", "assumptive"] },
+        { definition: "A flaw in logical reasoning or argument.", term: ["fallacy", "logical fallacy"] },
+        { definition: "Unfair preference affecting judgment.", term: ["bias", "biased"] },
+        { definition: "Attacking the person instead of the argument.", term: ["ad hominem", "ad hominem fallacy"] },
+        { definition: "Misrepresenting someone's argument to attack it.", term: ["straw man", "straw man fallacy"] },
+        { definition: "Presenting only two options when more exist.", term: ["false dilemma", "false dichotomy"] },
+        { definition: "Information that distracts from the main issue.", term: ["red herring", "irrelevant"] },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(ct_terms, rng);
+        q.push(createTyping("vocab_g8", "critical_thinking_g8_typing",
+          `Define: ${data.definition}`, data.term));
       }
       return q;
     },
