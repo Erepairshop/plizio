@@ -17,12 +17,10 @@ const EN_CONFIG: LanguageTestConfig = {
   gradeSublabel: "Gr.",
 
   countries: [
-    {
-      code: "US",
-      flag: "🇺🇸",
-      label: "United States",
-      sub: "A / B / C / D / F",
-    },
+    { code: "US", flag: "🇺🇸", label: "United States", sub: "A / B / C / D / F" },
+    { code: "GB", flag: "🇬🇧", label: "United Kingdom", sub: "A / B / C / D / F" },
+    { code: "AU", flag: "🇦🇺", label: "Australia",      sub: "A / B / C / D / F" },
+    { code: "CA", flag: "🇨🇦", label: "Canada",         sub: "A / B / C / D / F" },
   ],
 
   curriculum: ENGLISH_CURRICULUM,
@@ -30,7 +28,7 @@ const EN_CONFIG: LanguageTestConfig = {
   getQuestions: getEnglishQuestions,
   subtopicHints: ENGLISH_SUBTOPIC_HINTS,
 
-  floatingChars: ["A", "B", "C", "?", "!", "the", "and", "..."],
+  floatingChars: ["A", "B", "C", "?", "!", "the", "and", "is", "I", "you", "we", "..."],
   floatingColors: [
     "rgba(59,130,246,0.15)",
     "rgba(99,102,241,0.15)",
@@ -41,22 +39,22 @@ const EN_CONFIG: LanguageTestConfig = {
 
   labels: {
     selectCountry: "Select your country",
-    selectGrade: "Select your grade",
-    selectTopics: "Select topics",
-    startTest: "START TEST",
-    question: "Question",
-    correct: "Correct!",
-    answerBtn: "ANSWER",
-    again: "Try Again",
-    home: "Main Menu",
-    gradeMark: "Grade",
-    review: "Review",
-    areas: "areas",
-    soon: "soon",
-    questions: "Qs",
+    selectGrade: "Select your grade level",
+    selectTopics: "Choose topics for your test",
     all: "All",
     allCheck: "All ✓",
+    soon: "soon",
+    questions: "Qs",
+    startTest: "START TEST →",
+    areas: "areas",
+    question: "Question",
+    answerBtn: "Submit ✓",
     placeholder: "Your answer...",
+    gradeMark: "Grade",
+    correct: "Correct!",
+    review: "Review",
+    again: "Try Again",
+    home: "Main Menu",
   },
 };
 

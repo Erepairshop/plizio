@@ -26,6 +26,7 @@ export interface CurriculumSubtopic {
   id: string;
   name: string;
   questions: CurriculumQuestion[];
+  hasGenerator?: boolean; // if true, treated as available even with empty questions[]
 }
 
 export interface CurriculumTheme {

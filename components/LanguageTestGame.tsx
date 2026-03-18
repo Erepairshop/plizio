@@ -400,7 +400,7 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
             {/* Themes */}
             <div className="relative z-10 flex flex-col gap-2.5">
               {themes.map((theme) => {
-                const availSubs = theme.subtopics.filter((s) => s.questions.length > 0);
+                const availSubs = theme.subtopics.filter((s) => s.questions.length > 0 || s.hasGenerator);
                 const allSel    = availSubs.length > 0 && availSubs.every((s) => selectedIds.includes(s.id));
                 const toggleAll = () => {
                   if (allSel) {
@@ -440,7 +440,7 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
                     <div className="px-3 pb-3 pt-1 flex flex-col gap-1.5">
                       {theme.subtopics.map((sub) => {
                         const sel   = selectedIds.includes(sub.id);
-                        const empty = sub.questions.length === 0;
+                        const empty = sub.questions.length === 0 && !sub.hasGenerator;
                         return (
                           <button
                             key={sub.id}
@@ -461,7 +461,9 @@ export default function LanguageTestGame({ config }: { config: LanguageTestConfi
                             <span className="flex-1">{sub.name}</span>
                             {empty
                               ? <span className="text-[10px] text-white/20">{labels.soon}</span>
-                              : <span className="text-[10px]" style={{ color: `${themeColor}80` }}>{sub.questions.length} {labels.questions}</span>
+                              : sub.hasGenerator && sub.questions.length === 0
+                                ? <span className="text-[10px]" style={{ color: `${themeColor}80` }}>GEN {labels.questions}</span>
+                                : <span className="text-[10px]" style={{ color: `${themeColor}80` }}>{sub.questions.length} {labels.questions}</span>
                             }
                           </button>
                         );
