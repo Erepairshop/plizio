@@ -220,7 +220,7 @@ export const SUBTOPIC_HINTS: Record<string, string> = {
   "kausalsatz_k7":           "weil/da → Verb ans Ende: Er kommt nicht, weil er krank ist.",
   "weil_dass_k4":            "weil (Grund) und dass (Inhalt) leiten Nebensätze ein → Verb am Ende",
   "relativsatz":             "Relativsatz mit der/die/das: Das Buch, das ich lese, ist spannend.",
-  "relativsatz_k7":          "Relativpronomen richtet sich nach Genus des Bezugsworts",
+  "relativsatz_k7":          "Relativsatz: Verb am Ende · Relativpronomen nach Genus des Bezugsworts (der/die/das → Nom/Akk/Dat/Gen: dessen/deren/dem/den…)",
   "konditionalsatz_k7":      "Konditionalsatz (Bedingung): wenn/falls + Verb am Ende",
   "temporalsatz_k7":         "Temporalsatz (Zeit): als (einmalig Verg.) / wenn (wiederholt)",
   "finalsatz_k7":            "Finalsatz (Zweck/Ziel): damit + Verb am Ende · um … zu + Infinitiv",
@@ -355,6 +355,19 @@ export const SUBTOPIC_HINTS: Record<string, string> = {
   "umwelt_k5":               "Umwelt: Klimawandel, Recycling, Nachhaltigkeit, erneuerbare Energie, CO2",
   "gefuehle_k5":             "Gefühle: wütend, enttäuscht, begeistert, empört, erleichtert, verlegen, verzweifelt",
   "redewendungen_k5":        "Redewendungen: ins Fettnäpfchen treten, Daumen drücken, zwei Fliegen mit einer Klappe",
+
+  // ── K7 Wortschatz ──────────────────────────────────────────────────────────
+  "synonyme_k7":             "Synonyme = Wörter mit gleicher/ähnlicher Bedeutung · behaupten = vorgeben · erwidern = antworten",
+  "antonyme_k7":             "Antonyme = Wörter mit entgegengesetzter Bedeutung · objektiv ↔ subjektiv · konsequent ↔ inkonsequent",
+  "fremdwoerter_k7":         "Fremdwörter: Analyse (Untersuchung), These (Behauptung), Kontext (Zusammenhang), Protagonist (Hauptfigur)",
+
+  // ── K7 Zeichensetzung ──────────────────────────────────────────────────────
+  "komma_nebensatz_k7":      "Nebensatz vom Hauptsatz mit Komma trennen · vor: weil, obwohl, dass, wenn, als, während, damit · Relativsatz beidseitig einschließen",
+  "semikolon_k7":            "Semikolon (;): zwischen verwandten Hauptsätzen · Doppelpunkt (:): vor Aufzählung, wörtlicher Rede, Erklärung",
+
+  // ── K7 Textarbeit ──────────────────────────────────────────────────────────
+  "inhaltsangabe_k7":        "Inhaltsangabe: Präsens · sachlich/objektiv · kein Zitat · Einleitung (Titel/Autor/Textsorte) → Hauptteil → Schluss",
+  "erorterung_k7":           "Erörterung: These – Argument – Beispiel (TAB) · dialektisch: Pro & Kontra abwägen · stärkstes Argument zuletzt",
 };
 
 export function getSubtopicHint(subtopic?: string): string | null {

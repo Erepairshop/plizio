@@ -673,6 +673,157 @@ function genAntonym(): DeutschQuestion {
     `Gegenteil von '${w}'?`, ant, [f1, f2]);
 }
 
+// ─── K7 WORTLISTEN ────────────────────────────────────────────────────────────
+
+const SYNONYME_K7: { w: string; syn: string; f1: string; f2: string }[] = [
+  { w: "behaupten",        syn: "vorgeben",         f1: "schweigen",     f2: "fragen" },
+  { w: "erwidern",         syn: "antworten",         f1: "fragen",        f2: "behaupten" },
+  { w: "schildern",        syn: "beschreiben",       f1: "vergessen",     f2: "untersuchen" },
+  { w: "erläutern",        syn: "erklären",          f1: "verschweigen",  f2: "widersprechen" },
+  { w: "belegen",          syn: "beweisen",          f1: "bezweifeln",    f2: "ignorieren" },
+  { w: "widersprechen",    syn: "ablehnen",          f1: "zustimmen",     f2: "bestätigen" },
+  { w: "analysieren",      syn: "untersuchen",       f1: "ignorieren",    f2: "vergessen" },
+  { w: "veranschaulichen", syn: "darstellen",        f1: "verbergen",     f2: "missachten" },
+  { w: "betonen",          syn: "hervorheben",       f1: "abschwächen",   f2: "übergehen" },
+  { w: "feststellen",      syn: "bemerken",          f1: "übersehen",     f2: "bezweifeln" },
+  { w: "vergleichen",      syn: "gegenüberstellen",  f1: "trennen",       f2: "ignorieren" },
+  { w: "begründen",        syn: "rechtfertigen",     f1: "bestreiten",    f2: "weglassen" },
+  { w: "formulieren",      syn: "ausdrücken",        f1: "verschweigen",  f2: "missverstehen" },
+  { w: "charakterisieren", syn: "kennzeichnen",      f1: "verstecken",    f2: "verwechseln" },
+  { w: "verdeutlichen",    syn: "klarstellen",       f1: "verwirren",     f2: "verschweigen" },
+  { w: "zustimmen",        syn: "bestätigen",        f1: "widersprechen", f2: "zweifeln" },
+  { w: "vermuten",         syn: "annehmen",          f1: "wissen",        f2: "beweisen" },
+  { w: "überzeugend",      syn: "schlüssig",         f1: "widersprüchlich", f2: "unklar" },
+  { w: "passend",          syn: "treffend",          f1: "falsch",        f2: "ungeeignet" },
+  { w: "bedeutend",        syn: "wesentlich",        f1: "unwichtig",     f2: "nebensächlich" },
+  { w: "kritisieren",      syn: "bemängeln",         f1: "loben",         f2: "ignorieren" },
+  { w: "beobachten",       syn: "betrachten",        f1: "übersehen",     f2: "ignorieren" },
+  { w: "schlussfolgern",   syn: "folgern",           f1: "bezweifeln",    f2: "vermuten" },
+  { w: "widerlegen",       syn: "entkräften",        f1: "bestätigen",    f2: "beweisen" },
+  { w: "verfassen",        syn: "schreiben",         f1: "lesen",         f2: "korrigieren" },
+  { w: "erwähnen",         syn: "nennen",            f1: "verschweigen",  f2: "vergessen" },
+  { w: "darstellen",       syn: "zeigen",            f1: "verbergen",     f2: "weglassen" },
+  { w: "beurteilen",       syn: "bewerten",          f1: "ignorieren",    f2: "beschreiben" },
+  { w: "aufführen",        syn: "auflisten",         f1: "weglassen",     f2: "vergessen" },
+  { w: "anführen",         syn: "zitieren",          f1: "erfinden",      f2: "weglassen" },
+];
+
+const ANTONYME_K7: { w: string; ant: string; f1: string; f2: string }[] = [
+  { w: "objektiv",      ant: "subjektiv",     f1: "neutral",      f2: "sachlich" },
+  { w: "explizit",      ant: "implizit",      f1: "klar",         f2: "deutlich" },
+  { w: "konstruktiv",   ant: "destruktiv",    f1: "positiv",      f2: "hilfreich" },
+  { w: "konkret",       ant: "abstrakt",      f1: "greifbar",     f2: "anschaulich" },
+  { w: "rational",      ant: "irrational",    f1: "logisch",      f2: "vernünftig" },
+  { w: "formal",        ant: "informell",     f1: "offiziell",    f2: "sachlich" },
+  { w: "aktiv",         ant: "passiv",        f1: "tätig",        f2: "engagiert" },
+  { w: "zustimmen",     ant: "widersprechen", f1: "ablehnen",     f2: "verweigern" },
+  { w: "loben",         ant: "kritisieren",   f1: "tadeln",       f2: "bemängeln" },
+  { w: "fördern",       ant: "hemmen",        f1: "bremsen",      f2: "verhindern" },
+  { w: "stärken",       ant: "schwächen",     f1: "belasten",     f2: "vermindern" },
+  { w: "beginnen",      ant: "beenden",       f1: "aufhören",     f2: "abschließen" },
+  { w: "überzeugend",   ant: "unglaubwürdig", f1: "schwach",      f2: "zweifelhaft" },
+  { w: "produktiv",     ant: "unproduktiv",   f1: "ineffizient",  f2: "nutzlos" },
+  { w: "einleiten",     ant: "abschließen",   f1: "beenden",      f2: "zusammenfassen" },
+  { w: "vereinfachen",  ant: "verkomplizieren", f1: "erschweren", f2: "verwirren" },
+  { w: "bestätigen",    ant: "widerlegen",    f1: "entkräften",   f2: "ablehnen" },
+  { w: "eindeutig",     ant: "mehrdeutig",    f1: "ambivalent",   f2: "unklar" },
+  { w: "ausführlich",   ant: "knapp",         f1: "kurz",         f2: "bündig" },
+  { w: "sachlich",      ant: "emotional",     f1: "gefühlvoll",   f2: "subjektiv" },
+];
+
+const FREMDWOERTER_K7: { w: string; def: string; f1: string; f2: string }[] = [
+  { w: "Analyse",       def: "genaue Untersuchung",              f1: "Zusammenfassung",   f2: "Einleitung" },
+  { w: "Argument",      def: "Begründung / Beleg für eine These", f1: "Meinung",          f2: "Beispiel" },
+  { w: "These",         def: "aufgestellte Behauptung",          f1: "Beweis",            f2: "Frage" },
+  { w: "Metapher",      def: "bildlicher Ausdruck (übertragen)", f1: "Vergleich",         f2: "Alliteration" },
+  { w: "Kontext",       def: "Zusammenhang, Umfeld",             f1: "Inhalt",            f2: "Struktur" },
+  { w: "Struktur",      def: "Aufbau, Gliederung",               f1: "Inhalt",            f2: "Stil" },
+  { w: "Intention",     def: "Absicht, Ziel",                    f1: "Meinung",           f2: "Wirkung" },
+  { w: "Perspektive",   def: "Sichtweise, Blickwinkel",          f1: "Meinung",           f2: "Standpunkt" },
+  { w: "Chronologie",   def: "zeitliche Reihenfolge",            f1: "Struktur",          f2: "Aufbau" },
+  { w: "Kontrast",      def: "starker Gegensatz",                f1: "Vergleich",         f2: "Ähnlichkeit" },
+  { w: "Symbolik",      def: "Bedeutung von Symbolen / Sinnbildern", f1: "Metapher",      f2: "Allegorie" },
+  { w: "Ambiguität",    def: "Mehrdeutigkeit",                   f1: "Klarheit",          f2: "Eindeutigkeit" },
+  { w: "Funktion",      def: "Aufgabe, Zweck",                   f1: "Bedeutung",         f2: "Inhalt" },
+  { w: "Stilmittel",    def: "sprachliches Gestaltungsmittel",   f1: "Grammatikregel",    f2: "Wortart" },
+  { w: "Protagonist",   def: "Hauptfigur eines Textes",          f1: "Erzähler",          f2: "Antagonist" },
+  { w: "Antagonist",    def: "Gegenspieler des Protagonisten",   f1: "Hauptfigur",        f2: "Erzähler" },
+  { w: "Erzählperspektive", def: "Standpunkt des Erzählers",     f1: "Handlung",          f2: "Thema" },
+  { w: "Klimax",        def: "Steigerung zum Höhepunkt",         f1: "Wiederholung",      f2: "Kontrast" },
+  { w: "Ironie",        def: "das Gegenteil des Gemeinten sagen", f1: "Metapher",         f2: "Alliteration" },
+  { w: "Paraphrase",    def: "Umschreibung mit eigenen Worten",  f1: "Zitat",             f2: "Zusammenfassung" },
+  { w: "Zitat",         def: "wörtliche Übernahme aus einem Text", f1: "Paraphrase",      f2: "Kommentar" },
+  { w: "Inhaltsangabe", def: "kurze, sachliche Textzusammenfassung", f1: "Analyse",       f2: "Kommentar" },
+  { w: "Erörterung",    def: "Abwägen von Pro und Kontra zu einer These", f1: "Analyse",  f2: "Inhaltsangabe" },
+  { w: "Kommentar",     def: "persönliche Stellungnahme zu einem Thema", f1: "Analyse",   f2: "Inhaltsangabe" },
+  { w: "Hyperbel",      def: "starke Übertreibung als Stilmittel", f1: "Metapher",        f2: "Ironie" },
+];
+
+// ─── K7 RELATIVSATZ-LISTEN ───────────────────────────────────────────────────
+
+type RelNoun = { n: string; a: "der" | "die" | "das" };
+const REL_NOUNS: RelNoun[] = [
+  { n: "Mann",      a: "der" }, { n: "Lehrer",    a: "der" }, { n: "Freund",    a: "der" },
+  { n: "Schüler",   a: "der" }, { n: "Arzt",      a: "der" }, { n: "Student",   a: "der" },
+  { n: "Frau",      a: "die" }, { n: "Lehrerin",  a: "die" }, { n: "Freundin",  a: "die" },
+  { n: "Stadt",     a: "die" }, { n: "Schule",    a: "die" }, { n: "Idee",      a: "die" },
+  { n: "Kind",      a: "das" }, { n: "Buch",      a: "das" }, { n: "Haus",      a: "das" },
+  { n: "Auto",      a: "das" }, { n: "Ergebnis",  a: "das" }, { n: "Thema",     a: "das" },
+];
+
+// Relativpronomen-Tabelle
+const REL_TABLE: Record<"der"|"die"|"das", Record<"nom"|"akk"|"dat"|"gen", string>> = {
+  der: { nom: "der",   akk: "den",  dat: "dem",  gen: "dessen" },
+  die: { nom: "die",   akk: "die",  dat: "der",  gen: "deren"  },
+  das: { nom: "das",   akk: "das",  dat: "dem",  gen: "dessen" },
+};
+
+// Falsche Optionen je Genus/Kasus
+function relFalsch(a: "der"|"die"|"das", kasus: "nom"|"akk"|"dat"|"gen"): string[] {
+  const correct = REL_TABLE[a][kasus];
+  return Object.values(REL_TABLE).flatMap(t => Object.values(t))
+    .filter(v => v !== correct)
+    .filter((v, i, arr) => arr.indexOf(v) === i)
+    .slice(0, 3);
+}
+
+// K7: Synonyme
+function genSynonymK7(): DeutschQuestion {
+  const { w, syn, f1, f2 } = pick(SYNONYME_K7);
+  return mkMCQ("wortschatz_k7", "synonyme_k7",
+    `Gleichbedeutendes Wort für '${w}'?`, syn, [f1, f2]);
+}
+
+// K7: Antonyme
+function genAntonymK7(): DeutschQuestion {
+  const { w, ant, f1, f2 } = pick(ANTONYME_K7);
+  return mkMCQ("wortschatz_k7", "antonyme_k7",
+    `Gegenteil von '${w}'?`, ant, [f1, f2]);
+}
+
+// K7: Fremdwörter
+function genFremdwoerterK7(): DeutschQuestion {
+  const { w, def, f1, f2 } = pick(FREMDWOERTER_K7);
+  return mkMCQ("wortschatz_k7", "fremdwoerter_k7",
+    `Was bedeutet '${w}'?`, def, [f1, f2]);
+}
+
+// K7: Relativsatz — Nominativ/Akkusativ/Dativ
+function genRelativsatzK7(): DeutschQuestion {
+  const { n, a } = pick(REL_NOUNS);
+  const kasus = pick<"nom"|"akk"|"dat">(["nom", "akk", "dat"]);
+  const correct = REL_TABLE[a][kasus];
+  const wrong = relFalsch(a, kasus);
+  const kasusLabel = { nom: "Nominativ", akk: "Akkusativ", dat: "Dativ" }[kasus];
+  const satzteile: Record<"nom"|"akk"|"dat", string> = {
+    nom: `${a === "der" ? "Der" : a === "die" ? "Die" : "Das"} ${n}, ___ dort steht, ...`,
+    akk: `${a === "der" ? "Der" : a === "die" ? "Die" : "Das"} ${n}, ___ ich kenne, ...`,
+    dat: `${a === "der" ? "Der" : a === "die" ? "Die" : "Das"} ${n}, ___ ich helfe, ...`,
+  };
+  return mkMCQ("nebensatztypen_k7", "relativsatz_k7",
+    `${kasusLabel} — Ergänze: '${satzteile[kasus]}'`, correct, wrong);
+}
+
 // K7: Konjunktiv I
 function genKonjunktiv1(): DeutschQuestion {
   const { v, er } = pick(KONJ1);
@@ -740,6 +891,10 @@ export const GENERATORS: Record<string, () => DeutschQuestion> = {
   // K7
   konjunktiv_1:        genKonjunktiv1,
   werden_passiv:       genWerdenPassiv,
+  synonyme_k7:         genSynonymK7,
+  antonyme_k7:         genAntonymK7,
+  fremdwoerter_k7:     genFremdwoerterK7,
+  relativsatz_k7:      genRelativsatzK7,
   // K8
   nebensatztypen:      genNebensatztyp,
 };
