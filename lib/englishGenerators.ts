@@ -2751,6 +2751,120 @@ export const G3_Generators = {
       }
       return q;
     },
+    nouns_plural_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const plurals = [
+        { singular: "cat", plural: "cats" },
+        { singular: "dog", plural: "dogs" },
+        { singular: "box", plural: "boxes" },
+        { singular: "bus", plural: "buses" },
+        { singular: "glass", plural: "glasses" },
+        { singular: "dish", plural: "dishes" },
+        { singular: "child", plural: "children" },
+        { singular: "foot", plural: "feet" },
+        { singular: "tooth", plural: "teeth" },
+        { singular: "man", plural: "men" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const pair = pick(plurals, rng);
+        q.push(createTyping("pos_g3", "nouns_plural_g3", `Write the plural of '${pair.singular}':`, pair.plural));
+      }
+      return q;
+    },
+    abstract_nouns_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const abstractNouns = ["love", "happiness", "courage", "friendship", "freedom", "beauty", "kindness", "honesty", "wisdom", "anger", "fear", "hope", "joy", "patience", "trust"];
+      for (let i = 0; i < 25; i++) {
+        q.push(createTyping("pos_g3", "abstract_nouns_g3", "Name an abstract noun (an idea, feeling, or quality):", pick(abstractNouns, rng)));
+      }
+      return q;
+    },
+    verb_tenses_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const verbData = [
+        { verb: "go", past: "went", present: "go/goes", future: "will go" },
+        { verb: "eat", past: "ate", present: "eat/eats", future: "will eat" },
+        { verb: "play", past: "played", present: "play/plays", future: "will play" },
+        { verb: "run", past: "ran", present: "run/runs", future: "will run" },
+        { verb: "see", past: "saw", present: "see/sees", future: "will see" },
+        { verb: "make", past: "made", present: "make/makes", future: "will make" },
+        { verb: "write", past: "wrote", present: "write/writes", future: "will write" },
+        { verb: "take", past: "took", present: "take/takes", future: "will take" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const verb = pick(verbData, rng);
+        const tense = pick(["past", "present", "future"] as const, rng);
+        const answer = verb[tense];
+        q.push(createTyping("pos_g3", "verb_tenses_g3", `Write the ${tense} tense of '${verb.verb}':`, answer));
+      }
+      return q;
+    },
+    adj_comparative_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const adjData = [
+        { adj: "big", comparative: "bigger", superlative: "biggest" },
+        { adj: "fast", comparative: "faster", superlative: "fastest" },
+        { adj: "hot", comparative: "hotter", superlative: "hottest" },
+        { adj: "tall", comparative: "taller", superlative: "tallest" },
+        { adj: "happy", comparative: "happier", superlative: "happiest" },
+        { adj: "beautiful", comparative: "more beautiful", superlative: "most beautiful" },
+        { adj: "interesting", comparative: "more interesting", superlative: "most interesting" },
+        { adj: "slow", comparative: "slower", superlative: "slowest" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const adjSet = pick(adjData, rng);
+        const formType = pick(["comparative", "superlative"] as const, rng);
+        const answer = adjSet[formType];
+        q.push(createTyping("pos_g3", "adj_comparative_g3", `Write the ${formType} form of '${adjSet.adj}':`, answer));
+      }
+      return q;
+    },
+    adverbs_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const adverbData = [
+        { adverb: "quickly", adjective: "quick" },
+        { adverb: "slowly", adjective: "slow" },
+        { adverb: "carefully", adjective: "careful" },
+        { adverb: "happily", adjective: "happy" },
+        { adverb: "easily", adjective: "easy" },
+        { adverb: "loudly", adjective: "loud" },
+        { adverb: "quietly", adjective: "quiet" },
+        { adverb: "beautifully", adjective: "beautiful" },
+        { adverb: "bravely", adjective: "brave" },
+        { adverb: "kindly", adjective: "kind" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(adverbData, rng);
+        q.push(createTyping("pos_g3", "adverbs_g3", `Convert the adjective to an adverb: '${data.adjective}' → ___`, data.adverb));
+      }
+      return q;
+    },
+    conjunctions_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const conjunctionData = [
+        { sentence: "I like cats ___ dogs.", answer: "and" },
+        { sentence: "She is tall ___ her brother is short.", answer: "but" },
+        { sentence: "Do you want milk ___ juice?", answer: "or" },
+        { sentence: "I was happy ___ I won the game.", answer: "because" },
+        { sentence: "It was cold ___ we wore coats.", answer: "so" },
+        { sentence: "You can read ___ watch TV.", answer: "or" },
+        { sentence: "He wanted to go out ___ it was raining.", answer: "but" },
+        { sentence: "She ran fast ___ she could catch the ball.", answer: "so" },
+        { sentence: "We went to the park ___ played soccer.", answer: "and" },
+        { sentence: "I don't like math ___ I do like science.", answer: "but" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(conjunctionData, rng);
+        q.push(createTyping("pos_g3", "conjunctions_g3", `Complete: "${data.sentence}"`, data.answer));
+      }
+      return q;
+    },
   },
   sentences_g3: {
     subject_predicate_g3: (seed?: number) => {
@@ -2876,6 +2990,87 @@ export const G3_Generators = {
       }
       return q;
     },
+    subject_predicate_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { sentence: "The dog barked loudly.", subject: "The dog", predicate: "barked loudly" },
+        { sentence: "My sister plays piano.", subject: "My sister", predicate: "plays piano" },
+        { sentence: "The tall tree fell down.", subject: "The tall tree", predicate: "fell down" },
+        { sentence: "A little bird sang sweetly.", subject: "A little bird", predicate: "sang sweetly" },
+        { sentence: "All the children laughed.", subject: "All the children", predicate: "laughed" },
+        { sentence: "My best friend moved away.", subject: "My best friend", predicate: "moved away" },
+        { sentence: "The old clock stopped working.", subject: "The old clock", predicate: "stopped working" },
+        { sentence: "Lightning struck suddenly.", subject: "Lightning", predicate: "struck suddenly" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(sentenceData, rng);
+        const isSubject = rng() > 0.5;
+        if (isSubject) {
+          q.push(createTyping("sentences_g3", "subject_predicate_g3", `Identify the subject: '${data.sentence}'`, data.subject));
+        } else {
+          q.push(createTyping("sentences_g3", "subject_predicate_g3", `Identify the predicate: '${data.sentence}'`, data.predicate));
+        }
+      }
+      return q;
+    },
+    simple_compound_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { text: "I like cats.", type: "simple" },
+        { text: "She plays soccer.", type: "simple" },
+        { text: "They went to the park.", type: "simple" },
+        { text: "I like cats, and she likes dogs.", type: "compound" },
+        { text: "He studied hard, but he still failed.", type: "compound" },
+        { text: "The cat sat on the mat.", type: "simple" },
+        { text: "The cat sat on the mat, and the dog slept nearby.", type: "compound" },
+        { text: "We went swimming, or we went to the movies.", type: "compound" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(sentenceData, rng);
+        q.push(createTyping("sentences_g3", "simple_compound_g3", `Is this simple or compound? '${data.text}'`, data.type));
+      }
+      return q;
+    },
+    direct_quotations_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const quoteData = [
+        { correct: '"Come here," she said.' },
+        { correct: '"I love pizza!" he shouted.' },
+        { correct: 'She asked, "Where are you going?"' },
+        { correct: '"Turn off the lights," Mom said.' },
+        { correct: 'Dad said, "We are going to the beach."' },
+        { correct: '"Be quiet!" he whispered.' },
+        { correct: '"What time is it?" she asked.' },
+        { correct: '"I\'m so happy!" Tom exclaimed.' },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(quoteData, rng);
+        q.push(createTyping("sentences_g3", "direct_quotations_g3", `Write the correct quotation:`, data.correct));
+      }
+      return q;
+    },
+    fragments_runons_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceTypes = [
+        { text: "Ran down the street.", type: "fragment" },
+        { text: "We played soccer and we ate ice cream.", type: "run-on" },
+        { text: "The cat sat on the mat.", type: "complete" },
+        { text: "Barked at the mailman.", type: "fragment" },
+        { text: "I like pizza I eat it every day.", type: "run-on" },
+        { text: "She wrote a letter.", type: "complete" },
+        { text: "Because it was raining.", type: "fragment" },
+        { text: "He ran to the store and he bought milk and he came back home.", type: "run-on" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(sentenceTypes, rng);
+        q.push(createTyping("sentences_g3", "fragments_runons_g3", `Is this a fragment, run-on, or complete sentence? '${data.text}'`, data.type));
+      }
+      return q;
+    },
   },
   spelling_g3: {
     prefixes_g3: (seed?: number) => {
@@ -2982,6 +3177,83 @@ export const G3_Generators = {
           q.push(createTyping("spelling_g3", "homophones_g3",
             `Fill in: "${homoSet.sentence}"`, homoSet.correct));
         }
+      }
+      return q;
+    },
+    prefixes_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const prefixData = [
+        { word: "disagree", prefix: "dis", base: "agree", meaning: "opposite of agree" },
+        { word: "unhappy", prefix: "un", base: "happy", meaning: "not happy" },
+        { word: "reread", prefix: "re", base: "read", meaning: "read again" },
+        { word: "misbehave", prefix: "mis", base: "behave", meaning: "behave badly" },
+        { word: "preview", prefix: "pre", base: "view", meaning: "view before" },
+        { word: "nonfiction", prefix: "non", base: "fiction", meaning: "not fiction" },
+        { word: "overeat", prefix: "over", base: "eat", meaning: "eat too much" },
+        { word: "underfed", prefix: "under", base: "fed", meaning: "fed insufficiently" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(prefixData, rng);
+        q.push(createTyping("spelling_g3", "prefixes_g3", `Identify the prefix in '${data.word}':`, data.prefix));
+      }
+      return q;
+    },
+    suffixes_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const suffixData = [
+        { word: "happiness", suffix: "ness", base: "happy" },
+        { word: "teacher", suffix: "er", base: "teach" },
+        { word: "quickly", suffix: "ly", base: "quick" },
+        { word: "playful", suffix: "ful", base: "play" },
+        { word: "carefully", suffix: "fully", base: "care" },
+        { word: "hopeless", suffix: "less", base: "hope" },
+        { word: "creative", suffix: "ive", base: "create" },
+        { word: "movement", suffix: "ment", base: "move" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(suffixData, rng);
+        q.push(createTyping("spelling_g3", "suffixes_g3", `Identify the suffix in '${data.word}':`, data.suffix));
+      }
+      return q;
+    },
+    word_families_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const familyData = [
+        { root: "play", words: ["play", "plays", "playing", "played", "player"] },
+        { root: "walk", words: ["walk", "walks", "walking", "walked", "walker"] },
+        { root: "run", words: ["run", "runs", "running", "ran", "runner"] },
+        { root: "jump", words: ["jump", "jumps", "jumping", "jumped", "jumper"] },
+        { root: "teach", words: ["teach", "teaches", "teaching", "taught", "teacher"] },
+        { root: "build", words: ["build", "builds", "building", "built", "builder"] },
+        { root: "write", words: ["write", "writes", "writing", "wrote", "writer"] },
+        { root: "sing", words: ["sing", "sings", "singing", "sang", "singer"] },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const family = pick(familyData, rng);
+        const wordInFamily = pick(family.words, rng);
+        q.push(createTyping("spelling_g3", "word_families_g3", `Name another form in the word family of '${family.root}':`, pick(family.words, rng)));
+      }
+      return q;
+    },
+    homophones_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const homoData = [
+        { correct: "their", wrong: "there", sentence: "___ dog is very friendly." },
+        { correct: "see", wrong: "sea", sentence: "I can ___ the ocean." },
+        { correct: "know", wrong: "no", sentence: "Do you ___ the answer?" },
+        { correct: "to", wrong: "too", sentence: "I want ___ go to the park." },
+        { correct: "be", wrong: "bee", sentence: "I want to ___ a teacher." },
+        { correct: "here", wrong: "hear", sentence: "Come ___! I'm waiting for you." },
+        { correct: "piece", wrong: "peace", sentence: "Can I have a ___ of cake?" },
+        { correct: "right", wrong: "write", sentence: "You are ___!" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(homoData, rng);
+        q.push(createTyping("spelling_g3", "homophones_g3", `Choose the correct word: "${data.sentence}"`, data.correct));
       }
       return q;
     },
@@ -3128,6 +3400,66 @@ export const G3_Generators = {
       for (let i = 0; i < 15; i++) {
         const data = pick(descriptiveData, rng);
         q.push(createTyping("vocab_g3", "descriptive_words_g3", data.question, data.answer));
+      }
+      return q;
+    },
+    literal_nonliteral_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const idiomData = [
+        { phrase: "It's raining cats and dogs.", answer: "It's raining very hard." },
+        { phrase: "She has a heart of gold.", answer: "She is very kind and generous." },
+        { phrase: "Break a leg!", answer: "Good luck!" },
+        { phrase: "He let the cat out of the bag.", answer: "He revealed a secret." },
+        { phrase: "She's feeling under the weather.", answer: "She is feeling sick." },
+        { phrase: "That test was a piece of cake.", answer: "The test was very easy." },
+        { phrase: "Hold your horses!", answer: "Be patient and wait!" },
+        { phrase: "He hit the books.", answer: "He studied hard." },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(idiomData, rng);
+        q.push(createTyping("vocab_g3", "literal_nonliteral_g3", `What does '${data.phrase}' really mean?`, data.answer));
+      }
+      return q;
+    },
+    word_relationships_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const synonymData = [
+        { word: "big", synonym: "large", antonym: "small" },
+        { word: "happy", synonym: "glad", antonym: "sad" },
+        { word: "fast", synonym: "quick", antonym: "slow" },
+        { word: "brave", synonym: "courageous", antonym: "cowardly" },
+        { word: "old", synonym: "ancient", antonym: "new" },
+        { word: "start", synonym: "begin", antonym: "finish" },
+        { word: "beautiful", synonym: "pretty", antonym: "ugly" },
+        { word: "loud", synonym: "noisy", antonym: "quiet" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const pair = pick(synonymData, rng);
+        const isAntonym = rng() > 0.5;
+        const answer = isAntonym ? pair.antonym : pair.synonym;
+        const label = isAntonym ? "ANTONYM" : "SYNONYM";
+        q.push(createTyping("vocab_g3", "word_relationships_g3", `Write a ${label} (${isAntonym ? "opposite" : "similar meaning"}) of '${pair.word}':`, answer));
+      }
+      return q;
+    },
+    glossaries_g3_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const refData = [
+        { q: "Where is a GLOSSARY usually found in a textbook?", a: "at the back of the book" },
+        { q: "What does a GLOSSARY contain?", a: "definitions of key words" },
+        { q: "How are words in a glossary organized?", a: "alphabetical order" },
+        { q: "What is a DICTIONARY used for?", a: "finding the meaning and spelling of words" },
+        { q: "What is a GUIDE WORD in a dictionary?", a: "a word at the top of the page showing first and last entries" },
+        { q: "What does a THESAURUS help you find?", a: "synonyms and antonyms" },
+        { q: "Which reference tool would help you find word meanings in a science book?", a: "glossary" },
+        { q: "What is the difference between a glossary and a dictionary?", a: "a glossary is specific to a book, a dictionary is general" },
+      ];
+      for (let i = 0; i < 25; i++) {
+        const data = pick(refData, rng);
+        q.push(createTyping("vocab_g3", "glossaries_g3", data.q, data.a));
       }
       return q;
     },
