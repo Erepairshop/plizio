@@ -509,6 +509,348 @@ export const G1_Generators = {
       return q;
     },
   },
+  vocab_g1: {
+    colors_g1: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const colorItems = [
+        { color: "red", thing: "apple" }, { color: "blue", thing: "sky" }, { color: "green", thing: "grass" },
+        { color: "yellow", thing: "sun" }, { color: "orange", thing: "orange" }, { color: "purple", thing: "grape" },
+        { color: "pink", thing: "pig" }, { color: "brown", thing: "tree trunk" }, { color: "white", thing: "snow" },
+        { color: "black", thing: "night" }, { color: "gray", thing: "cloud" }, { color: "gold", thing: "coin" },
+      ];
+      const allColors = colorItems.map(c => c.color);
+      for (let i = 0; i < 20; i++) {
+        const item = pick(colorItems, rng);
+        const wrong = shuffle(allColors.filter(c => c !== item.color), rng).slice(0, 3);
+        q.push(createMCQ("vocab_g1", "colors_g1",
+          `What color is a ${item.thing}?`, item.color, wrong));
+      }
+      return q;
+    },
+    colors_g1_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const colorItems = [
+        { color: "red", thing: "apple" }, { color: "blue", thing: "sky" }, { color: "green", thing: "grass" },
+        { color: "yellow", thing: "sun" }, { color: "orange", thing: "orange" }, { color: "purple", thing: "grape" },
+        { color: "pink", thing: "pig" }, { color: "brown", thing: "tree" }, { color: "white", thing: "snow" },
+        { color: "black", thing: "night" }, { color: "gray", thing: "cloud" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const item = pick(colorItems, rng);
+        q.push(createTyping("vocab_g1", "colors_g1",
+          `What color is a ${item.thing}?`, item.color));
+      }
+      return q;
+    },
+    numbers_words_g1: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const numberData = [
+        { num: "1", word: "one" }, { num: "2", word: "two" }, { num: "3", word: "three" },
+        { num: "4", word: "four" }, { num: "5", word: "five" }, { num: "6", word: "six" },
+        { num: "7", word: "seven" }, { num: "8", word: "eight" }, { num: "9", word: "nine" },
+        { num: "10", word: "ten" },
+      ];
+      const allWords = numberData.map(n => n.word);
+      for (let i = 0; i < 20; i++) {
+        const data = pick(numberData, rng);
+        const wrong = shuffle(allWords.filter(w => w !== data.word), rng).slice(0, 3);
+        q.push(createMCQ("vocab_g1", "numbers_words_g1",
+          `How do you write the number ${data.num}?`, data.word, wrong));
+      }
+      return q;
+    },
+    numbers_words_g1_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const numberData = [
+        { num: "1", word: "one" }, { num: "2", word: "two" }, { num: "3", word: "three" },
+        { num: "4", word: "four" }, { num: "5", word: "five" }, { num: "6", word: "six" },
+        { num: "7", word: "seven" }, { num: "8", word: "eight" }, { num: "9", word: "nine" },
+        { num: "10", word: "ten" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(numberData, rng);
+        q.push(createTyping("vocab_g1", "numbers_words_g1",
+          `Type the word for the number ${data.num}:`, data.word));
+      }
+      return q;
+    },
+    days_months_g1: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
+      const daySequences = [
+        { q: "What day comes after Monday?", a: "Tuesday" },
+        { q: "What day comes after Wednesday?", a: "Thursday" },
+        { q: "What day comes after Friday?", a: "Saturday" },
+        { q: "What day comes after Sunday?", a: "Monday" },
+        { q: "What day comes before Friday?", a: "Thursday" },
+        { q: "What day comes before Sunday?", a: "Saturday" },
+        { q: "What is the first day of the week?", a: "Monday" },
+        { q: "What is the last day of the week?", a: "Sunday" },
+      ];
+      const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+      for (let i = 0; i < 20; i++) {
+        if (rng() < 0.6) {
+          const seq = pick(daySequences, rng);
+          const wrong = days.filter(d => d !== seq.a);
+          q.push(createMCQ("vocab_g1", "days_months_g1", seq.q, seq.a, shuffle(wrong, rng).slice(0, 3)));
+        } else {
+          const month = pick(months, rng);
+          const monthNum = months.indexOf(month) + 1;
+          const wrong = months.filter(m => m !== month);
+          q.push(createMCQ("vocab_g1", "days_months_g1",
+            `What is month number ${monthNum}?`, month, shuffle(wrong, rng).slice(0, 3)));
+        }
+      }
+      return q;
+    },
+    days_months_g1_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
+      const daySequences = [
+        { q: "What day comes after Monday?", a: "Tuesday" },
+        { q: "What day comes after Wednesday?", a: "Thursday" },
+        { q: "What day comes after Friday?", a: "Saturday" },
+        { q: "What day comes before Friday?", a: "Thursday" },
+        { q: "What is the first day of the week?", a: "Monday" },
+        { q: "What is the last day of the week?", a: "Sunday" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const seq = pick(daySequences, rng);
+        q.push(createTyping("vocab_g1", "days_months_g1", seq.q, seq.a));
+      }
+      return q;
+    },
+    animals_g1: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const animals = ["dog", "cat", "bird", "fish", "elephant", "lion", "monkey", "bear", "tiger", "zebra", "giraffe", "horse"];
+      const otherWords = ["house", "tree", "car", "book", "ball", "cup", "pen", "desk", "chair", "wall", "door", "window"];
+      for (let i = 0; i < 20; i++) {
+        const animal = pick(animals, rng);
+        const wrong = shuffle(otherWords, rng).slice(0, 3);
+        q.push(createMCQ("vocab_g1", "animals_g1",
+          `Which word is an ANIMAL?`, animal, wrong));
+      }
+      return q;
+    },
+    animals_g1_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const animalClues = [
+        { clue: "A pet that barks", answer: "dog" },
+        { clue: "A pet that meows", answer: "cat" },
+        { clue: "A large animal with a long neck", answer: "giraffe" },
+        { clue: "A large animal with a trunk", answer: "elephant" },
+        { clue: "A big cat that roars", answer: "lion" },
+        { clue: "A striped animal", answer: "zebra" },
+        { clue: "A small jumping animal with a tail", answer: "monkey" },
+        { clue: "It says 'moo'", answer: "cow" },
+        { clue: "It can fly and has wings", answer: "bird" },
+        { clue: "It lives in water", answer: "fish" },
+        { clue: "A large brown animal", answer: "bear" },
+        { clue: "It has stripes and roars", answer: "tiger" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const clue = pick(animalClues, rng);
+        q.push(createTyping("vocab_g1", "animals_g1", clue.clue + ":", clue.answer));
+      }
+      return q;
+    },
+    body_parts_g1: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const bodyPartClues = [
+        { clue: "You see with your", answer: "eyes" },
+        { clue: "You hear with your", answer: "ears" },
+        { clue: "You smell with your", answer: "nose" },
+        { clue: "You taste with your", answer: "mouth" },
+        { clue: "You touch with your", answer: "hands" },
+        { clue: "You walk with your", answer: "feet" },
+        { clue: "Your hair grows on your", answer: "head" },
+        { clue: "Your teeth are in your", answer: "mouth" },
+        { clue: "You bend your", answer: "arm" },
+        { clue: "You kick with your", answer: "leg" },
+        { clue: "Your heart is in your", answer: "chest" },
+        { clue: "Your fingers are at the end of your", answer: "hand" },
+      ];
+      const wrongWords = ["book", "house", "tree", "car", "table", "chair", "door", "window", "wall", "floor"];
+      for (let i = 0; i < 20; i++) {
+        const clue = pick(bodyPartClues, rng);
+        const wrong = shuffle(wrongWords, rng).slice(0, 3);
+        q.push(createMCQ("vocab_g1", "body_parts_g1", clue.clue + ":", clue.answer, wrong));
+      }
+      return q;
+    },
+    body_parts_g1_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const bodyPartClues = [
+        { clue: "You see with your", answer: "eyes" },
+        { clue: "You hear with your", answer: "ears" },
+        { clue: "You smell with your", answer: "nose" },
+        { clue: "You taste with your", answer: "mouth" },
+        { clue: "You touch with your", answer: "hands" },
+        { clue: "You walk with your", answer: "feet" },
+        { clue: "Your hair grows on your", answer: "head" },
+        { clue: "You bend your", answer: "arm" },
+        { clue: "You kick with your", answer: "leg" },
+        { clue: "Your heart is in your", answer: "chest" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const clue = pick(bodyPartClues, rng);
+        q.push(createTyping("vocab_g1", "body_parts_g1", clue.clue + ":", clue.answer));
+      }
+      return q;
+    },
+    family_g1: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const familyClues = [
+        { clue: "Your mother's mother is your", answer: "grandmother" },
+        { clue: "Your father's father is your", answer: "grandfather" },
+        { clue: "Your father's or mother's sister is your", answer: "aunt" },
+        { clue: "Your father's or mother's brother is your", answer: "uncle" },
+        { clue: "Your mother is your mom or", answer: "mother" },
+        { clue: "Your father is your dad or", answer: "father" },
+        { clue: "Your mother's daughter is your", answer: "sister" },
+        { clue: "Your mother's son is your", answer: "brother" },
+        { clue: "Your aunt's son is your", answer: "cousin" },
+        { clue: "Your mother's husband is your", answer: "father" },
+        { clue: "Your father's wife is your", answer: "mother" },
+        { clue: "Your parents' parents are your", answer: "grandparents" },
+      ];
+      const wrongWords = ["teacher", "friend", "doctor", "neighbor", "student", "cook", "farmer", "worker"];
+      for (let i = 0; i < 20; i++) {
+        const clue = pick(familyClues, rng);
+        const wrong = shuffle(wrongWords, rng).slice(0, 3);
+        q.push(createMCQ("vocab_g1", "family_g1", clue.clue + ":", clue.answer, wrong));
+      }
+      return q;
+    },
+    family_g1_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const familyClues = [
+        { clue: "Your mother is your", answer: "mom" },
+        { clue: "Your father is your", answer: "dad" },
+        { clue: "Your mother's sister is your", answer: "aunt" },
+        { clue: "Your father's brother is your", answer: "uncle" },
+        { clue: "Your brother or sister is your", answer: "sibling" },
+        { clue: "Your mother's mother is your", answer: "grandmother" },
+        { clue: "Your father's father is your", answer: "grandfather" },
+        { clue: "Your aunt's son is your", answer: "cousin" },
+        { clue: "Your grandmother's husband is your", answer: "grandfather" },
+        { clue: "Your parents are your", answer: "family" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const clue = pick(familyClues, rng);
+        q.push(createTyping("vocab_g1", "family_g1", clue.clue + ":", clue.answer));
+      }
+      return q;
+    },
+    food_g1: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const foodClues = [
+        { clue: "A yellow fruit you peel", answer: "banana" },
+        { clue: "A red fruit that grows on trees", answer: "apple" },
+        { clue: "A round orange vegetable", answer: "orange" },
+        { clue: "A long yellow vegetable", answer: "banana" },
+        { clue: "A green vegetable you eat in salads", answer: "lettuce" },
+        { clue: "A small red vegetable", answer: "tomato" },
+        { clue: "A yellow grain you pop", answer: "corn" },
+        { clue: "White food from cows", answer: "milk" },
+        { clue: "Yellow food you spread on bread", answer: "butter" },
+        { clue: "Sweet food bees make", answer: "honey" },
+        { clue: "Crunchy food made from wheat", answer: "bread" },
+        { clue: "Orange vegetable rabbits eat", answer: "carrot" },
+      ];
+      const wrongWords = ["chair", "house", "book", "car", "desk", "window", "door", "wall", "floor", "tree"];
+      for (let i = 0; i < 20; i++) {
+        const clue = pick(foodClues, rng);
+        const wrong = shuffle(wrongWords, rng).slice(0, 3);
+        q.push(createMCQ("vocab_g1", "food_g1", clue.clue + ":", clue.answer, wrong));
+      }
+      return q;
+    },
+    food_g1_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const foodClues = [
+        { clue: "A yellow fruit you peel", answer: "banana" },
+        { clue: "A red fruit on trees", answer: "apple" },
+        { clue: "A round orange fruit", answer: "orange" },
+        { clue: "A green vegetable in salads", answer: "lettuce" },
+        { clue: "A small red vegetable", answer: "tomato" },
+        { clue: "White food from cows", answer: "milk" },
+        { clue: "Yellow food you spread on bread", answer: "butter" },
+        { clue: "Sweet food bees make", answer: "honey" },
+        { clue: "Orange vegetable rabbits eat", answer: "carrot" },
+        { clue: "Yellow grain you pop", answer: "corn" },
+        { clue: "Round green vegetable", answer: "pea" },
+        { clue: "Small red fruit", answer: "strawberry" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const clue = pick(foodClues, rng);
+        q.push(createTyping("vocab_g1", "food_g1", clue.clue + ":", clue.answer));
+      }
+      return q;
+    },
+    classroom_g1: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const classroomClues = [
+        { clue: "You write with a", answer: "pencil" },
+        { clue: "You erase with an", answer: "eraser" },
+        { clue: "You sit on a", answer: "chair" },
+        { clue: "You write on a", answer: "desk" },
+        { clue: "You read a", answer: "book" },
+        { clue: "You write on a", answer: "board" },
+        { clue: "The teacher writes on the", answer: "board" },
+        { clue: "You keep your pencils in a", answer: "pencil case" },
+        { clue: "You carry your books in a", answer: "backpack" },
+        { clue: "You write on paper with a", answer: "pen" },
+        { clue: "You draw with a", answer: "crayon" },
+        { clue: "Scissors cut", answer: "paper" },
+      ];
+      const wrongWords = ["bed", "car", "house", "tree", "dog", "cat", "apple", "water", "glass", "plate"];
+      for (let i = 0; i < 20; i++) {
+        const clue = pick(classroomClues, rng);
+        const wrong = shuffle(wrongWords, rng).slice(0, 3);
+        q.push(createMCQ("vocab_g1", "classroom_g1", clue.clue + ":", clue.answer, wrong));
+      }
+      return q;
+    },
+    classroom_g1_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const classroomClues = [
+        { clue: "You write with a", answer: "pencil" },
+        { clue: "You erase with an", answer: "eraser" },
+        { clue: "You sit on a", answer: "chair" },
+        { clue: "You write on a", answer: "desk" },
+        { clue: "You read a", answer: "book" },
+        { clue: "The teacher writes on the", answer: "board" },
+        { clue: "You carry your books in a", answer: "backpack" },
+        { clue: "You write on paper with a", answer: "pen" },
+        { clue: "You draw with a", answer: "crayon" },
+        { clue: "You draw with a", answer: "marker" },
+        { clue: "You cut paper with", answer: "scissors" },
+        { clue: "You work at your", answer: "desk" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const clue = pick(classroomClues, rng);
+        q.push(createTyping("vocab_g1", "classroom_g1", clue.clue + ":", clue.answer));
+      }
+      return q;
+    },
+  },
   sentences_g1: {
     end_punctuation_g1: (seed?: number) => {
       const rng = seed !== undefined ? mulberry32(seed) : Math.random;
