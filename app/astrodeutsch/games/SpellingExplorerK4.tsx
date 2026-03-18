@@ -321,18 +321,10 @@ function Round4({ color, lbl, onNext }: { color: string; lbl: Record<string, str
   const [tapped, setTapped] = useState(false);
 
   const item = CAPITAL_SENTENCES[idx];
-  const errors = "errors" in item ? item.errors : [item.error ?? ""];
+  const errors: string[] = "errors" in item ? (item.errors ?? []) : [item.error ?? ""];
   const handleNext = () => {
     if (idx + 1 >= CAPITAL_SENTENCES.length) onNext();
     else { setIdx(i => i + 1); setTapped(false); }
-  };
-
-  const highlightSentence = (sentence: string) => {
-    let result = sentence;
-    errors.forEach(err => {
-      result = result.replace(err, `__ERROR__${err}__END__`);
-    });
-    return result.split(/(__ERROR__|__END__)/).filter(p => p !== "__ERROR__" && p !== "__END__");
   };
 
   return (
