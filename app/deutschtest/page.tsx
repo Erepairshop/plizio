@@ -600,7 +600,9 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
       }
       const seen = new Set<string>();
       pools[sid] = combined.filter((q) => {
-        const k = q.question.slice(0, 60);
+        // Build a unique key: for visual questions include content data, not just the question text
+        const extra = (q as any).answer ?? (q as any).words?.join(",") ?? (q as any).stamm ?? (q as any).imageKey ?? "";
+        const k = q.question.slice(0, 60) + "|" + String(extra).slice(0, 80);
         if (seen.has(k)) return false;
         seen.add(k);
         return true;
@@ -651,11 +653,12 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
     let visualGroupsAdded = 0;
     for (const typeQs of Object.values(visualByType)) {
       if (visualGroupsAdded >= 2) break;
-      // Shuffle, deduplicate by question text, pick 3
+      // Shuffle, deduplicate by content (not just question text — visual qs share the same header)
       const shuffled = [...typeQs].sort(() => Math.random() - 0.5);
       const seen2 = new Set<string>();
       const unique = shuffled.filter(q => {
-        const k = q.question.slice(0, 60);
+        const extra = (q as any).answer ?? (q as any).words?.join(",") ?? (q as any).stamm ?? (q as any).imageKey ?? "";
+        const k = q.question.slice(0, 60) + "|" + String(extra).slice(0, 80);
         if (seen2.has(k)) return false;
         seen2.add(k);
         return true;
@@ -1566,7 +1569,7 @@ function LanguageTestEngine({ config }: { config: LanguageTestEngineConfig }) {
                     <div className="px-3 pb-3 pt-1 flex flex-col gap-1.5">
                       {theme.subtopics.map((sub) => {
                         const sel = selectedIds.includes(sub.id);
-                        const empty = sub.questions.length === 0;
+                        const empty = sub.questions.length === 0 && !(sub as any).hasGenerator;
                         return (
                           <button
                             key={sub.id}
