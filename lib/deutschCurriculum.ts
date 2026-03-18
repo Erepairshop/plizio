@@ -27,6 +27,12 @@ import { K6_TEXTARBEIT } from "./deutsch/k6_textarbeit";
 import { K6_KONJUNKTIV } from "./deutsch/k6_konjunktiv";
 import { K6_VERBEN } from "./deutsch/k6_verben";
 import { K7 } from "./deutsch/k7";
+import { K7_WORTSCHATZ } from "./deutsch/k7_wortschatz";
+import { K7_VERBEN } from "./deutsch/k7_verben";
+import { K7_RECHTSCHREIBUNG } from "./deutsch/k7_rechtschreibung";
+import { K7_SATZSTRUKTUREN } from "./deutsch/k7_satzstrukturen";
+import { K7_TEXTARBEIT } from "./deutsch/k7_textarbeit";
+import { K7_STILMITTEL } from "./deutsch/k7_stilmittel";
 import { K8, K8_KONJUNKTIV } from "./deutsch/k8";
 import type { DeutschTheme, DeutschQuestion } from "./deutsch/types";
 
@@ -36,7 +42,7 @@ export const DEUTSCH_CURRICULUM: Record<number, DeutschTheme[]> = {
   1: K1, 2: K2, 3: K3, 4: K4,
   5: [...K5, ...K5_EXTRA, ...K5_EXPANSION, ...K5_EXPANSION2],
   6: [...K6, ...K6_RECHTSCHREIBUNG, ...K6_SATZGLIEDER, ...K6_WORTSCHATZ_NEU, ...K6_STILMITTEL, ...K6_SATZSTRUKTUREN, ...K6_TEXTARBEIT, ...K6_KONJUNKTIV, ...K6_VERBEN],
-  7: K7,
+  7: [...K7, ...K7_WORTSCHATZ, ...K7_VERBEN, ...K7_RECHTSCHREIBUNG, ...K7_SATZSTRUKTUREN, ...K7_TEXTARBEIT, ...K7_STILMITTEL],
   8: [...K8, ...K8_KONJUNKTIV],
 };
 
@@ -360,6 +366,41 @@ export const SUBTOPIC_HINTS: Record<string, string> = {
   "synonyme_k7":             "Synonyme = Wörter mit gleicher/ähnlicher Bedeutung · behaupten = vorgeben · erwidern = antworten",
   "antonyme_k7":             "Antonyme = Wörter mit entgegengesetzter Bedeutung · objektiv ↔ subjektiv · konsequent ↔ inkonsequent",
   "fremdwoerter_k7":         "Fremdwörter: Analyse (Untersuchung), These (Behauptung), Kontext (Zusammenhang), Protagonist (Hauptfigur)",
+
+  // ── K7 Wortschatz erweitert ─────────────────────────────────────────────────
+  "fachsprache_k7":            "Fachsprache: Fachbegriffe aus Biologie, Chemie, Physik, IT · Photosynthese, Algorithmus, Molekül",
+  "modalpartikeln_k7":         "Modalpartikeln: doch (Widerspruch), mal (freundliche Bitte), ja (Bestätigung), halt/eben (Resignation), wohl (Vermutung)",
+  "redewendungen_k7":          "Redewendungen: feste Wortverbindungen mit übertragener Bedeutung · 'den Nagel auf den Kopf treffen' = genau richtig liegen",
+
+  // ── K7 Verben vertieft ────────────────────────────────────────────────────
+  "konjunktiv1_vertieft_k7":   "Indirekte Rede: Er sagt, er sei/habe... · Pronomen-Wechsel (ich→er) · Konj. II als Ersatz wenn Konj. I = Indikativ",
+  "plusquamperfekt_k7":         "Plusquamperfekt: hatte/war + Partizip II · Nachdem er gegessen hatte, ging er. · Vorzeitigkeit!",
+  "verbrektion_k7":            "Verbrektion: warten AUF+Akk, sich freuen ÜBER+Akk, abhängen VON+Dat, teilnehmen AN+Dat",
+  "passivformen_vertieft_k7":  "Passiv Perfekt: ist gemacht worden (NICHT geworden!) · Passiv Futur: wird gemacht werden",
+
+  // ── K7 Rechtschreibung ────────────────────────────────────────────────────
+  "gross_klein_k7":            "Nominalisierung: das Lesen, beim Arbeiten, etwas Schönes · Tageszeiten: heute Morgen (groß), morgens (klein)",
+  "getrennt_zusammen_k7":      "kennenlernen (zusammen), spazieren gehen (getrennt), fernsehen (zusammen), Rad fahren (getrennt)",
+  "fremdwort_rs_k7":           "Fremdwortschreibung: Rhythmus (th+y), Philosophie (ph), Kommunikation (mm), Psychologie (Ps+y)",
+  "kommasetzung_erweitert_k7": "Infinitivgruppen: 'Er versucht, zu helfen.' · Appositionen: 'Berlin, die Hauptstadt, ...' · Partizipialgruppen",
+
+  // ── K7 Satzstrukturen ─────────────────────────────────────────────────────
+  "konnektoren_hs_k7":         "Hauptsatz-Konnektoren: deshalb/trotzdem/außerdem → Verb bleibt Pos.2 · ≠ weil/obwohl (Verb am Ende)",
+  "konnektoren_ns_k7":         "Nebensatz-Konnektoren: als (einmalig) vs wenn (wiederholt) · nachdem (Plusquamperfekt) · während (gleichzeitig)",
+  "satzgefuege_k7":            "Satzreihe = HS + HS (und/aber/oder) · Satzgefüge = HS + NS · Mehrstufig: HS + NS1 + NS2",
+  "partizipial_k7":            "Partizip I (aktiv): 'der lachende Mann' · Partizip II (passiv): 'das gelesene Buch' · ersetzt Relativsätze",
+
+  // ── K7 Textarbeit erweitert ───────────────────────────────────────────────
+  "bericht_k7":                "Bericht: sachlich, Präteritum, W-Fragen (Wer/Was/Wann/Wo/Wie), keine Meinung, keine wörtliche Rede",
+  "beschreibung_k7":           "Vorgangsbeschreibung: Präsens, chronologisch, Passiv/man-Sätze · zuerst, dann, danach, schließlich",
+  "argumentation_k7":          "TAB-Methode: These – Argument – Beispiel · Argumenttypen: Fakten-, Autoritäts-, Beispielargument",
+  "leserbrief_k7":             "Leserbrief: Anrede (Sehr geehrte...) → Bezug → Meinung + Argumente → Schluss · höflich, Konjunktiv II für Vorschläge",
+
+  // ── K7 Literatur & Analyse ────────────────────────────────────────────────
+  "ironie_satire_k7":          "Ironie: das Gegenteil meinen · Sarkasmus: verletzende Ironie · Satire: Gesellschaftskritik durch Übertreibung",
+  "erzaehlperspektive_k7":     "Ich-Erzähler (subjektiv) · auktorial (allwissend) · personal (eine Figur) · neutral (nur Äußeres)",
+  "spannungsaufbau_k7":        "Spannungsbogen: Einleitung → steigende Handlung → Höhepunkt (Klimax) → Lösung · Wendepunkt = Peripetie",
+  "stilmittel_erweitert_k7":   "Hyperbel (Übertreibung) · Euphemismus (Beschönigung) · Anapher (Wiederholung) · Klimax (Steigerung) · Rhetorische Frage",
 
   // ── K7 Zeichensetzung ──────────────────────────────────────────────────────
   "komma_nebensatz_k7":      "Nebensatz vom Hauptsatz mit Komma trennen · vor: weil, obwohl, dass, wenn, als, während, damit · Relativsatz beidseitig einschließen",
