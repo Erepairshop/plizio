@@ -8,6 +8,7 @@ import {
   ENGLISH_SUBTOPIC_HINTS,
 } from "@/lib/englishCurriculum";
 import type { LanguageTestEngineConfig } from "@/lib/languageTestTypes";
+import { ENGLISH_VISUAL_TYPES } from "@/lib/englishVisualGenerators";
 
 const EN_CONFIG: LanguageTestEngineConfig = {
   gameId: "englishtest",
@@ -41,6 +42,9 @@ const EN_CONFIG: LanguageTestEngineConfig = {
   curriculum: ENGLISH_CURRICULUM,
   getQuestions: getEnglishQuestions,
   subtopicHints: ENGLISH_SUBTOPIC_HINTS,
+
+  visualTypes: ENGLISH_VISUAL_TYPES,
+  visualGrades: [1, 2, 3, 4, 5, 6, 7, 8],
 
   labels: {
     selectCountry: "Select your country",

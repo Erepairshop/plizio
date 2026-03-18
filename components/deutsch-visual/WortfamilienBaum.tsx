@@ -12,9 +12,11 @@ interface Props {
   userAnswer: string;      // comma-separated selected indices, e.g. "0,2,4"
   submitted: boolean;
   onAnswer: (a: string) => void;
+  rootLabel?: string;      // default: "Wortstamm:"
+  instructionLabel?: string; // default: "Tippe alle passenden Wörter"
 }
 
-export default function WortfamilienBaum({ stamm, options, correctSet, userAnswer, submitted, onAnswer }: Props) {
+export default function WortfamilienBaum({ stamm, options, correctSet, userAnswer, submitted, onAnswer, rootLabel = "Wortstamm:", instructionLabel = "Tippe alle passenden Wörter" }: Props) {
   const selectedSet = new Set(
     userAnswer ? userAnswer.split(",").map(Number).filter((n) => !isNaN(n)) : []
   );
@@ -36,11 +38,11 @@ export default function WortfamilienBaum({ stamm, options, correctSet, userAnswe
       {/* Header line: Wortstamm label */}
       <div style={{ height: 28, lineHeight: "28px" }} className="flex items-center gap-2 px-1">
         <span className="text-slate-300 text-xs w-5 text-right shrink-0">→</span>
-        <span className="text-xs text-slate-400">Wortstamm:</span>
+        <span className="text-xs text-slate-400">{rootLabel}</span>
         <span className="px-2 rounded border border-indigo-300 bg-indigo-50 text-indigo-700 font-black text-xs" style={{ height: 22, lineHeight: "22px" }}>
           -{stamm}-
         </span>
-        <span className="text-xs text-slate-300 italic">Tippe alle passenden Wörter</span>
+        <span className="text-xs text-slate-300 italic">{instructionLabel}</span>
       </div>
 
       {/* Word chips — multi-select */}
