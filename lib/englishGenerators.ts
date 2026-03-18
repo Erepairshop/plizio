@@ -7242,6 +7242,290 @@ export const G6_Generators = {
         }
       }
       return q;
+    },
+    pronoun_cases_g6_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const caseData = [
+        { sentence: "The teacher gave ___ the homework.", correct: "him", case: "objective" },
+        { sentence: "___ went to the store.", correct: "She", case: "subjective" },
+        { sentence: "The prize belongs to ___.", correct: "them", case: "objective" },
+        { sentence: "___ and I went to the park.", correct: "He", case: "subjective" },
+        { sentence: "Please give the book to ___.", correct: "me", case: "objective" },
+        { sentence: "The package is for ___.", correct: "us", case: "objective" },
+        { sentence: "___ wrote the letter.", correct: "I", case: "subjective" },
+        { sentence: "The dog followed ___ home.", correct: "her", case: "objective" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(caseData, rng);
+        const wrong = caseData.filter(c => c.correct !== data.correct).map(c => c.correct).slice(0, 3);
+        q.push(createMCQ("grammar_g6", "pronoun_cases_g6", `Which pronoun fills the blank? "${data.sentence}"`, data.correct, wrong));
+      }
+      return q;
+    },
+    intensive_pronouns_g6_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const intensiveData = [
+        { sentence: "I ___ baked this cake.", correct: "myself", use: "emphasis" },
+        { sentence: "He ___ told me the truth.", correct: "himself", use: "emphasis" },
+        { sentence: "The president ___ attended the event.", correct: "herself", use: "emphasis" },
+        { sentence: "They ___ decided to help.", correct: "themselves", use: "emphasis" },
+        { sentence: "We ___ cleaned the house.", correct: "ourselves", use: "emphasis" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(intensiveData, rng);
+        const wrong = ["me", "him", "her", "them"].slice(0, 3);
+        q.push(createMCQ("grammar_g6", "intensive_pronouns_g6", `Which intensive pronoun emphasizes: "${data.sentence}"?`, data.correct, wrong));
+      }
+      return q;
+    },
+    pronoun_agreement_g6_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const agreementData = [
+        { sentence: "Everyone has ___ own opinion.", correct: "their", agreement: "singular antecedent, plural pronoun" },
+        { sentence: "Each student should bring ___ pencil.", correct: "their", agreement: "singular, plural pronoun" },
+        { sentence: "Neither Jane nor Tom brought ___ homework.", correct: "their", agreement: "neither...nor, plural" },
+        { sentence: "Anyone can share ___ ideas.", correct: "their", agreement: "indefinite pronoun" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(agreementData, rng);
+        const wrong = ["his", "its", "her"].slice(0, 3);
+        q.push(createMCQ("grammar_g6", "pronoun_agreement_g6", `Fill in: ${data.sentence}`, data.correct, wrong));
+      }
+      return q;
+    },
+    pronoun_shifts_g6_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const shiftData = [
+        { original: "You shouldn't eat junk food.", formal: "One should not eat junk food.", shift: "you → one" },
+        { original: "If you want to succeed, you must work hard.", formal: "If one wants to succeed, one must work hard.", shift: "you → one" },
+        { original: "You never know what will happen.", formal: "One never knows what will happen.", shift: "you → one" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(shiftData, rng);
+        q.push(createMCQ("grammar_g6", "pronoun_shifts_g6", `Convert to formal (you→one): "${data.original}"`, data.formal, ["One shouldn't eat junk.", "You must eat well.", "Eating junk is bad."]));
+      }
+      return q;
+    },
+    sentence_patterns_g6_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const patternData = [
+        { sentence: "Dogs bark.", pattern: "S-V", type: "simple" },
+        { sentence: "She loves ice cream.", pattern: "S-V-O", type: "transitive" },
+        { sentence: "He is a teacher.", pattern: "S-V-C", type: "linking" },
+        { sentence: "She gave him a book.", pattern: "S-V-IO-DO", type: "indirect object" },
+        { sentence: "The cat sleeps.", pattern: "S-V", type: "simple" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(patternData, rng);
+        const wrong = ["S-V", "S-V-O", "S-V-C", "S-V-IO-DO"].filter(p => p !== data.pattern).slice(0, 3);
+        q.push(createMCQ("grammar_g6", "sentence_patterns_g6", `What pattern: "${data.sentence}"?`, data.pattern, wrong));
+      }
+      return q;
+    },
+    clauses_g6_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const clauseData = [
+        { sentence: "Although it rained, we went out.", clause: "Although it rained", type: "dependent" },
+        { sentence: "We went out and played games.", clause: "We went out", type: "independent" },
+        { sentence: "Because she studied hard, she passed.", clause: "Because she studied hard", type: "dependent" },
+        { sentence: "He likes pizza because it is tasty.", clause: "because it is tasty", type: "dependent" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(clauseData, rng);
+        const wrong = ["independent", "dependent"].filter(t => t !== data.type);
+        q.push(createMCQ("grammar_g6", "clauses_g6", `Is "${data.clause}" independent or dependent?`, data.type, wrong.concat(["adjective", "adverbial"])));
+      }
+      return q;
+    },
+    complex_sentences_g6_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { sentence: "She studied hard and passed the test, which made her happy.", type: "compound-complex" },
+        { sentence: "He ran fast, and she danced gracefully.", type: "compound" },
+        { sentence: "Although he was tired, he finished the work because he was determined.", type: "complex" },
+        { sentence: "The cat slept while the dog played.", type: "complex" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(sentenceData, rng);
+        const wrong = ["simple", "compound", "complex", "compound-complex"].filter(t => t !== data.type).slice(0, 3);
+        q.push(createMCQ("grammar_g6", "complex_sentences_g6", `Type: "${data.sentence}"?`, data.type, wrong));
+      }
+      return q;
+    },
+    relative_clauses_g6_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const relativeData = [
+        { sentence: "The girl ___ lives next door is my friend.", correct: "who", antecedent: "girl (person)" },
+        { sentence: "The book ___ he recommended is great.", correct: "that", antecedent: "book (thing)" },
+        { sentence: "The dog ___ barks loudly is outside.", correct: "that", antecedent: "dog" },
+        { sentence: "The teacher ___ helped me was kind.", correct: "who", antecedent: "teacher (person)" },
+        { sentence: "This is the place ___ we met.", correct: "where", antecedent: "place (location)" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(relativeData, rng);
+        const wrong = ["who", "which", "that", "whose", "whom"].filter(w => w !== data.correct).slice(0, 3);
+        q.push(createMCQ("grammar_g6", "relative_clauses_g6", `Fill in: ${data.sentence}`, data.correct, wrong));
+      }
+      return q;
+    },
+    prefixes_suffixes_g6_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const affixData = [
+        { word: "unity", affix: "-ity", meaning: "state of being" },
+        { word: "socialism", affix: "-ism", meaning: "belief system" },
+        { word: "artist", affix: "-ist", meaning: "one who practices" },
+        { word: "unhappy", affix: "un-", meaning: "not" },
+        { word: "rewrite", affix: "re-", meaning: "again" },
+        { word: "misunderstand", affix: "mis-", meaning: "wrong" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(affixData, rng);
+        const wrong = ["state of being", "not", "again", "wrong", "one who"].filter(m => m !== data.meaning).slice(0, 3);
+        q.push(createMCQ("grammar_g6", "prefixes_suffixes_g6", `What does '${data.affix}' mean in '${data.word}'?`, data.meaning, wrong));
+      }
+      return q;
+    },
+    commas_dashes_g6_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const punctData = [
+        { sentence: "My friend Sarah, the best athlete, won the race.", mark: "commas", use: "apposition" },
+        { sentence: "The winner — surprisingly — was the youngest competitor.", mark: "dashes", use: "parenthetical remark" },
+        { sentence: "I need three things: pencils, paper, and notebooks.", mark: "colon", use: "series introduction" },
+        { sentence: "He was tall; she was short.", mark: "semicolon", use: "connect related clauses" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(punctData, rng);
+        const wrong = ["commas", "dashes", "semicolon", "colon"].filter(m => m !== data.mark).slice(0, 3);
+        q.push(createMCQ("punctuation_g6", "commas_dashes_g6", `What mark is used for ${data.use}? "${data.sentence}"`, data.mark, wrong));
+      }
+      return q;
+    },
+    synonyms_homographs_g6_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const wordData = [
+        { word: "bank", meaning1: "financial institution", meaning2: "side of river", type: "homograph" },
+        { word: "lead", meaning1: "guide", meaning2: "metal element", type: "homograph" },
+        { word: "tear", meaning1: "rip", meaning2: "drop from eye", type: "homograph" },
+        { word: "bow", meaning1: "bend forward", meaning2: "front of ship", type: "homograph" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(wordData, rng);
+        q.push(createMCQ("vocab_g6", "synonyms_homographs_g6", `"${data.word}" can mean:`, `"${data.meaning1}" or "${data.meaning2}"`,
+          [`"${data.meaning1}" only`, "just a pronoun", "always a verb"]));
+      }
+      return q;
+    },
+    analogies_g6_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const analogyData = [
+        { pair1: "hot", pair2: "cold", pair3: "dark", answer: "light" },
+        { pair1: "tall", pair2: "short", pair3: "fast", answer: "slow" },
+        { pair1: "happy", pair2: "sad", pair3: "clean", answer: "dirty" },
+        { pair1: "big", pair2: "small", pair3: "loud", answer: "quiet" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(analogyData, rng);
+        q.push(createMCQ("vocab_g6", "analogies_g6", `${data.pair1}:${data.pair2} :: ${data.pair3}:___`, data.answer,
+          ["bright", "dark", "wet"]));
+      }
+      return q;
+    },
+    connotation_g6_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const connData = [
+        { denotation: "not spending money", positive: "thrifty", negative: "stingy" },
+        { denotation: "calm", positive: "serene", negative: "indifferent" },
+        { denotation: "persuasive", positive: "eloquent", negative: "manipulative" },
+        { denotation: "adventurous", positive: "bold", negative: "reckless" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(connData, rng);
+        q.push(createMCQ("vocab_g6", "connotation_g6", `Which synonym of "${data.denotation}" has positive connotation?`, data.positive,
+          [data.negative, "neutral", "unclear"]));
+      }
+      return q;
+    },
+    academic_vocab_g6_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const acadData = [
+        { term: "hypothesis", definition: "educated guess or prediction" },
+        { term: "infer", definition: "conclude based on evidence" },
+        { term: "contrast", definition: "show differences between things" },
+        { term: "evaluate", definition: "assess or judge quality" },
+        { term: "interpret", definition: "explain the meaning of something" },
+        { term: "analyze", definition: "break down into parts" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(acadData, rng);
+        const wrong = acadData.filter(a => a.term !== data.term).map(a => a.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g6", "academic_vocab_g6", `What does '${data.term}' mean?`, data.definition, wrong));
+      }
+      return q;
+    },
+    greek_latin_g6_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const rootData = [
+        { word: "biology", parts: "bio (life) + logy (study)", meaning: "study of life" },
+        { word: "astronomy", parts: "astro (star) + nomy (law/system)", meaning: "study of stars" },
+        { word: "geography", parts: "geo (earth) + graphy (writing/description)", meaning: "description of Earth" },
+        { word: "telephone", parts: "tele (far) + phone (sound)", meaning: "distant sound device" },
+        { word: "microscope", parts: "micro (small) + scope (view)", meaning: "tool to view small things" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(rootData, rng);
+        q.push(createMCQ("vocab_g6", "greek_latin_g6", `What does "${data.word}" mean? (${data.parts})`, data.meaning,
+          ["something different", "opposite meaning", "unrelated concept"]));
+      }
+      return q;
+    },
+    root_words_g6_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const rootData = [
+        { root: "scrib", meaning: "write", examples: "describe, prescribe, transcript" },
+        { root: "dict", meaning: "speak", examples: "predict, contradict, dictionary" },
+        { root: "spect", meaning: "look/see", examples: "inspect, respect, spectator" },
+        { root: "struct", meaning: "build", examples: "construct, instruct, structure" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(rootData, rng);
+        q.push(createMCQ("vocab_g6", "root_words_g6", `The root "${data.root}" means:`, data.meaning,
+          ["opposite", "different", "unknown"]));
+      }
+      return q;
+    },
+    punct_effect_g6_mcq: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const effectData = [
+        { mark: "exclamation mark", effect: "strong emotion or emphasis" },
+        { mark: "question mark", effect: "asks a question" },
+        { mark: "ellipsis", effect: "pause or trailing off" },
+        { mark: "semicolon", effect: "connects related independent clauses" },
+        { mark: "colon", effect: "introduces what follows" },
+        { mark: "dash", effect: "adds emphasis or shows interruption" },
+      ];
+      for (let i = 0; i < 30; i++) {
+        const data = pick(effectData, rng);
+        const wrong = effectData.filter(e => e.mark !== data.mark).map(e => e.effect).slice(0, 3);
+        q.push(createMCQ("punctuation_g6", "punct_effect_g6", `What effect does ${data.mark} have?`, data.effect, wrong));
+      }
+      return q;
     }
   }
 };
