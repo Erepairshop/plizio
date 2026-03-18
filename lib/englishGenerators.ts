@@ -1919,6 +1919,495 @@ export const G2_Generators = {
       }
       return q;
     },
+    clothing_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const clothingItems = ["shirt", "pants", "shoes", "hat", "dress", "jacket", "socks", "shorts", "coat", "gloves", "scarf", "boots"];
+      const wrongItems = ["bed", "chair", "table", "tree", "dog", "car", "house", "book", "apple", "water"];
+      for (let i = 0; i < 20; i++) {
+        const item = pick(clothingItems, rng);
+        const wrong = shuffle(wrongItems, rng).slice(0, 3);
+        q.push(createMCQ("vocab_g2", "clothing_g2", `Which is a piece of clothing?`, item, wrong));
+      }
+      return q;
+    },
+    clothing_g2_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const clothingClues = [
+        { clue: "You wear this on your feet", answer: "shoes" },
+        { clue: "You wear this on your head", answer: "hat" },
+        { clue: "You wear this on your hands when it's cold", answer: "gloves" },
+        { clue: "Girls wear this dress-like garment", answer: "dress" },
+        { clue: "You wear this to stay warm outside", answer: "coat" },
+        { clue: "Boys wear this below the waist", answer: "pants" },
+        { clue: "You wear this on your body", answer: "shirt" },
+        { clue: "You wear these on your feet for warmth", answer: "boots" },
+        { clue: "You wear this around your neck when it's cold", answer: "scarf" },
+        { clue: "You wear these on your feet under shoes", answer: "socks" },
+        { clue: "You wear this sleeveless over a shirt", answer: "vest" },
+        { clue: "Short pants you wear in summer", answer: "shorts" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const clue = pick(clothingClues, rng);
+        q.push(createTyping("vocab_g2", "clothing_g2", clue.clue + ":", clue.answer));
+      }
+      return q;
+    },
+    weather_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const weatherClues = [
+        { clue: "When the sun shines and there are no clouds", answer: "sunny" },
+        { clue: "When water falls from the sky", answer: "rainy" },
+        { clue: "When the sky is covered with clouds", answer: "cloudy" },
+        { clue: "When frozen rain falls from the sky", answer: "snowy" },
+        { clue: "When the air moves fast around us", answer: "windy" },
+        { clue: "When the air is very hot", answer: "hot" },
+        { clue: "When the air is very cold", answer: "cold" },
+        { clue: "When there is a strong, dangerous windstorm", answer: "stormy" },
+        { clue: "When ice forms on ground and grass", answer: "frosty" },
+        { clue: "When there is fog or mist in the air", answer: "foggy" },
+      ];
+      const wrongItems = ["happy", "fast", "blue", "tall", "small", "loud", "soft", "clean"];
+      for (let i = 0; i < 20; i++) {
+        const clue = pick(weatherClues, rng);
+        const wrong = shuffle(wrongItems, rng).slice(0, 3);
+        q.push(createMCQ("vocab_g2", "weather_g2", clue.clue + ":", clue.answer, wrong));
+      }
+      return q;
+    },
+    weather_g2_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const weatherClues = [
+        { clue: "The sun is shining", answer: "sunny" },
+        { clue: "Water is falling from the sky", answer: "rainy" },
+        { clue: "The sky is covered with clouds", answer: "cloudy" },
+        { clue: "Snow is falling", answer: "snowy" },
+        { clue: "The wind is blowing hard", answer: "windy" },
+        { clue: "The temperature is very high", answer: "hot" },
+        { clue: "The temperature is very low", answer: "cold" },
+        { clue: "There is a dangerous storm", answer: "stormy" },
+        { clue: "Ice forms in the morning", answer: "frosty" },
+        { clue: "You cannot see far because of mist", answer: "foggy" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const clue = pick(weatherClues, rng);
+        q.push(createTyping("vocab_g2", "weather_g2", clue.clue + ":", clue.answer));
+      }
+      return q;
+    },
+    seasons_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const seasonData = [
+        { season: "spring", characteristics: "flowers bloom, warm weather", clue: "Season when flowers bloom and weather gets warm" },
+        { season: "summer", characteristics: "hot, sunny, school is off", clue: "Hottest season when school is off" },
+        { season: "fall", characteristics: "leaves change, harvest", clue: "Season when leaves change color and it gets cooler" },
+        { season: "winter", characteristics: "cold, snowy, Christmas", clue: "Coldest season with snow and ice" },
+      ];
+      const wrongSeasons = ["month", "day", "week", "year", "time", "hour"];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(seasonData, rng);
+        const wrong = shuffle(wrongSeasons, rng).slice(0, 3);
+        q.push(createMCQ("vocab_g2", "seasons_g2", data.clue + ":", data.season, wrong));
+      }
+      return q;
+    },
+    seasons_g2_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const seasonClues = [
+        { clue: "Season when flowers bloom and weather gets warm", answer: "spring" },
+        { clue: "Hottest season when school is off", answer: "summer" },
+        { clue: "Season when leaves change color and fall down", answer: "fall" },
+        { clue: "Coldest season with snow and ice", answer: "winter" },
+        { clue: "Season for picking crops", answer: "harvest" },
+        { clue: "Season for Christmas holidays", answer: "winter" },
+        { clue: "Season when you go swimming", answer: "summer" },
+        { clue: "Season when you wear shorts and t-shirts", answer: "summer" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const clue = pick(seasonClues, rng);
+        q.push(createTyping("vocab_g2", "seasons_g2", clue.clue + ":", clue.answer));
+      }
+      return q;
+    },
+    time_of_day_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const timeClues = [
+        { time: "morning", clue: "Time when you wake up and the sun rises" },
+        { time: "afternoon", clue: "Time after lunch and before evening" },
+        { time: "evening", clue: "Time when it gets dark and the sun goes down" },
+        { time: "night", clue: "Time when it is dark and people sleep" },
+        { time: "midnight", clue: "12 o'clock at night" },
+        { time: "noon", clue: "12 o'clock during the day" },
+        { time: "sunrise", clue: "Time when the sun comes up" },
+        { time: "sunset", clue: "Time when the sun goes down" },
+      ];
+      const wrongTimes = ["school", "play", "eat", "book", "park", "home"];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(timeClues, rng);
+        const wrong = shuffle(wrongTimes, rng).slice(0, 3);
+        q.push(createMCQ("vocab_g2", "time_of_day_g2", data.clue + ":", data.time, wrong));
+      }
+      return q;
+    },
+    time_of_day_g2_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const timeClues = [
+        { clue: "Time when you wake up and get breakfast", answer: "morning" },
+        { clue: "Time after lunch", answer: "afternoon" },
+        { clue: "Time when the sun goes down", answer: "evening" },
+        { clue: "Time when you sleep", answer: "night" },
+        { clue: "12 o'clock during the day", answer: "noon" },
+        { clue: "12 o'clock at night", answer: "midnight" },
+        { clue: "When the sun comes up", answer: "sunrise" },
+        { clue: "When the sun goes down", answer: "sunset" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const clue = pick(timeClues, rng);
+        q.push(createTyping("vocab_g2", "time_of_day_g2", clue.clue + ":", clue.answer));
+      }
+      return q;
+    },
+    jobs_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const jobClues = [
+        { job: "teacher", clue: "Person who teaches students in school" },
+        { job: "doctor", clue: "Person who helps sick people feel better" },
+        { job: "firefighter", clue: "Person who puts out fires" },
+        { job: "farmer", clue: "Person who grows crops and raises animals" },
+        { job: "nurse", clue: "Person who helps the doctor in the hospital" },
+        { job: "chef", clue: "Person who cooks food in a restaurant" },
+        { job: "pilot", clue: "Person who flies an airplane" },
+        { job: "police officer", clue: "Person who keeps people safe" },
+        { job: "dentist", clue: "Person who takes care of your teeth" },
+        { job: "carpenter", clue: "Person who builds things from wood" },
+      ];
+      const wrongJobs = ["student", "friend", "family", "parent"];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(jobClues, rng);
+        const wrong = shuffle(wrongJobs, rng).slice(0, 3);
+        q.push(createMCQ("vocab_g2", "jobs_g2", data.clue + ":", data.job, wrong));
+      }
+      return q;
+    },
+    jobs_g2_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const jobClues = [
+        { clue: "Person who teaches in a school", answer: "teacher" },
+        { clue: "Person who helps sick people", answer: "doctor" },
+        { clue: "Person who puts out fires", answer: "firefighter" },
+        { clue: "Person who grows food", answer: "farmer" },
+        { clue: "Person who helps the doctor", answer: "nurse" },
+        { clue: "Person who cooks food", answer: "chef" },
+        { clue: "Person who flies planes", answer: "pilot" },
+        { clue: "Person who keeps people safe", answer: "police officer" },
+        { clue: "Person who fixes your teeth", answer: "dentist" },
+        { clue: "Person who builds houses", answer: "carpenter" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const clue = pick(jobClues, rng);
+        q.push(createTyping("vocab_g2", "jobs_g2", clue.clue + ":", clue.answer));
+      }
+      return q;
+    },
+    opposites_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const oppositePairs = [
+        { word: "hot", opposite: "cold" },
+        { word: "big", opposite: "small" },
+        { word: "fast", opposite: "slow" },
+        { word: "happy", opposite: "sad" },
+        { word: "loud", opposite: "quiet" },
+        { word: "tall", opposite: "short" },
+        { word: "clean", opposite: "dirty" },
+        { word: "old", opposite: "new" },
+        { word: "light", opposite: "dark" },
+        { word: "wet", opposite: "dry" },
+      ];
+      const allOpposites = oppositePairs.map(p => p.opposite);
+      for (let i = 0; i < 20; i++) {
+        const pair = pick(oppositePairs, rng);
+        const wrong = shuffle(allOpposites.filter(o => o !== pair.opposite), rng).slice(0, 3);
+        q.push(createMCQ("vocab_g2", "opposites_g2", `What is the opposite of '${pair.word}'?`, pair.opposite, wrong));
+      }
+      return q;
+    },
+    opposites_g2_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const oppositePairs = [
+        { word: "hot", opposite: "cold" },
+        { word: "big", opposite: "small" },
+        { word: "fast", opposite: "slow" },
+        { word: "happy", opposite: "sad" },
+        { word: "loud", opposite: "quiet" },
+        { word: "tall", opposite: "short" },
+        { word: "clean", opposite: "dirty" },
+        { word: "old", opposite: "new" },
+        { word: "light", opposite: "dark" },
+        { word: "wet", opposite: "dry" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const pair = pick(oppositePairs, rng);
+        q.push(createTyping("vocab_g2", "opposites_g2", `What is the opposite of '${pair.word}'?`, pair.opposite));
+      }
+      return q;
+    },
+    synonyms_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const synonymSets = [
+        { word: "happy", synonyms: ["glad", "joyful", "cheerful"] },
+        { word: "big", synonyms: ["large", "huge", "giant"] },
+        { word: "fast", synonyms: ["quick", "speedy", "swift"] },
+        { word: "smart", synonyms: ["clever", "intelligent", "bright"] },
+        { word: "pretty", synonyms: ["beautiful", "lovely", "gorgeous"] },
+        { word: "scared", synonyms: ["afraid", "frightened", "terrified"] },
+        { word: "tired", synonyms: ["sleepy", "exhausted", "weary"] },
+        { word: "angry", synonyms: ["mad", "furious", "upset"] },
+      ];
+      const wrongWords = ["cat", "run", "blue", "tree", "house", "book"];
+      for (let i = 0; i < 20; i++) {
+        const set = pick(synonymSets, rng);
+        const synonym = pick(set.synonyms, rng);
+        const wrong = shuffle(wrongWords, rng).slice(0, 3);
+        q.push(createMCQ("vocab_g2", "synonyms_g2", `Which word means almost the same as '${set.word}'?`, synonym, wrong));
+      }
+      return q;
+    },
+    synonyms_g2_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const synonymSets = [
+        { word: "happy", synonyms: ["glad", "joyful", "cheerful"] },
+        { word: "big", synonyms: ["large", "huge", "giant"] },
+        { word: "fast", synonyms: ["quick", "speedy", "swift"] },
+        { word: "smart", synonyms: ["clever", "intelligent", "bright"] },
+        { word: "pretty", synonyms: ["beautiful", "lovely", "gorgeous"] },
+        { word: "scared", synonyms: ["afraid", "frightened", "terrified"] },
+        { word: "tired", synonyms: ["sleepy", "exhausted", "weary"] },
+        { word: "angry", synonyms: ["mad", "furious", "upset"] },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const set = pick(synonymSets, rng);
+        const synonym = pick(set.synonyms, rng);
+        q.push(createTyping("vocab_g2", "synonyms_g2", `Write a word that means the same as '${set.word}':`, synonym));
+      }
+      return q;
+    },
+    locations_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const locationClues = [
+        { location: "in", clue: "The cat is ___ the box." },
+        { location: "on", clue: "The book is ___ the table." },
+        { location: "under", clue: "The dog is ___ the bed." },
+        { location: "next to", clue: "I sit ___ my friend at school." },
+        { location: "behind", clue: "The tree is ___ the house." },
+        { location: "in front of", clue: "The car is ___ the house." },
+        { location: "between", clue: "The ball is ___ the two trees." },
+        { location: "above", clue: "The bird is ___ the clouds." },
+      ];
+      const wrongLocations = ["play", "run", "fast", "blue", "big", "happy"];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(locationClues, rng);
+        const wrong = shuffle(wrongLocations, rng).slice(0, 3);
+        q.push(createMCQ("vocab_g2", "locations_g2", `Complete: "${data.clue}"`, data.location, wrong));
+      }
+      return q;
+    },
+    locations_g2_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const locationClues = [
+        { clue: "The cat is ___ the box.", answer: "in" },
+        { clue: "The book is ___ the table.", answer: "on" },
+        { clue: "The dog is ___ the bed.", answer: "under" },
+        { clue: "I sit ___ my friend.", answer: "next to" },
+        { clue: "The tree is ___ the house.", answer: "behind" },
+        { clue: "The car is ___ the house.", answer: "in front of" },
+        { clue: "The ball is ___ the two trees.", answer: "between" },
+        { clue: "The bird is ___ the clouds.", answer: "above" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(locationClues, rng);
+        q.push(createTyping("vocab_g2", "locations_g2", `Complete: "${data.clue}"`, data.answer));
+      }
+      return q;
+    },
+    daily_routine_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const routineClues = [
+        { activity: "wake up", clue: "Time to get out of bed in the morning" },
+        { activity: "brush teeth", clue: "Clean your teeth with a toothbrush" },
+        { activity: "eat breakfast", clue: "Eat food in the morning" },
+        { activity: "go to school", clue: "Travel to where you learn" },
+        { activity: "study", clue: "Learn new things in class" },
+        { activity: "eat lunch", clue: "Eat food at noon" },
+        { activity: "play", clue: "Have fun doing an activity" },
+        { activity: "eat dinner", clue: "Eat food in the evening" },
+        { activity: "do homework", clue: "Complete work from school at home" },
+        { activity: "sleep", clue: "Rest at night" },
+      ];
+      const wrongActivities = ["rain", "car", "blue", "table", "tree", "book"];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(routineClues, rng);
+        const wrong = shuffle(wrongActivities, rng).slice(0, 3);
+        q.push(createMCQ("vocab_g2", "daily_routine_g2", data.clue + ":", data.activity, wrong));
+      }
+      return q;
+    },
+    daily_routine_g2_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const routineClues = [
+        { clue: "Get out of bed in the morning", answer: "wake up" },
+        { clue: "Clean your teeth", answer: "brush teeth" },
+        { clue: "Eat food in the morning", answer: "eat breakfast" },
+        { clue: "Go to where you learn", answer: "go to school" },
+        { clue: "Learn new things", answer: "study" },
+        { clue: "Eat food at noon", answer: "eat lunch" },
+        { clue: "Have fun", answer: "play" },
+        { clue: "Eat food in the evening", answer: "eat dinner" },
+        { clue: "Complete school work at home", answer: "do homework" },
+        { clue: "Rest with your eyes closed at night", answer: "sleep" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(routineClues, rng);
+        q.push(createTyping("vocab_g2", "daily_routine_g2", data.clue + ":", data.answer));
+      }
+      return q;
+    },
+    house_rooms_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const roomClues = [
+        { room: "kitchen", clue: "Place where you cook and eat food" },
+        { room: "bedroom", clue: "Place where you sleep" },
+        { room: "bathroom", clue: "Place where you take a shower and use the toilet" },
+        { room: "living room", clue: "Place where the family sits together" },
+        { room: "dining room", clue: "Place where you eat meals at a table" },
+        { room: "hallway", clue: "Long passage that connects rooms" },
+        { room: "garage", clue: "Place where you park a car" },
+        { room: "basement", clue: "Room under the main floor of a house" },
+      ];
+      const wrongRooms = ["table", "window", "door", "tree", "car", "school"];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(roomClues, rng);
+        const wrong = shuffle(wrongRooms, rng).slice(0, 3);
+        q.push(createMCQ("vocab_g2", "house_rooms_g2", data.clue + ":", data.room, wrong));
+      }
+      return q;
+    },
+    house_rooms_g2_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const roomClues = [
+        { clue: "Place where you cook", answer: "kitchen" },
+        { clue: "Place where you sleep", answer: "bedroom" },
+        { clue: "Place where you take a shower", answer: "bathroom" },
+        { clue: "Place where the family sits together", answer: "living room" },
+        { clue: "Place where you eat meals", answer: "dining room" },
+        { clue: "Long passage in a house", answer: "hallway" },
+        { clue: "Place where you park a car", answer: "garage" },
+        { clue: "Room under the house", answer: "basement" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(roomClues, rng);
+        q.push(createTyping("vocab_g2", "house_rooms_g2", data.clue + ":", data.answer));
+      }
+      return q;
+    },
+    hobbies_sports_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const hobbyClues = [
+        { hobby: "reading", clue: "Looking at words and pictures in a book" },
+        { hobby: "drawing", clue: "Making pictures with a pencil or crayon" },
+        { hobby: "painting", clue: "Making pictures with paint and a brush" },
+        { hobby: "singing", clue: "Making music with your voice" },
+        { hobby: "dancing", clue: "Moving your body to music" },
+        { hobby: "playing soccer", clue: "Sport where you kick a ball with teammates" },
+        { hobby: "swimming", clue: "Moving through water for exercise" },
+        { hobby: "riding a bike", clue: "Traveling on a bicycle" },
+      ];
+      const wrongHobbies = ["sleep", "eat", "school", "table", "blue", "fast"];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(hobbyClues, rng);
+        const wrong = shuffle(wrongHobbies, rng).slice(0, 3);
+        q.push(createMCQ("vocab_g2", "hobbies_sports_g2", data.clue + ":", data.hobby, wrong));
+      }
+      return q;
+    },
+    hobbies_sports_g2_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const hobbyClues = [
+        { clue: "Looking at words in a book", answer: "reading" },
+        { clue: "Making pictures with a pencil", answer: "drawing" },
+        { clue: "Making pictures with paint", answer: "painting" },
+        { clue: "Making music with your voice", answer: "singing" },
+        { clue: "Moving to music", answer: "dancing" },
+        { clue: "Sport with a ball and teammates", answer: "playing soccer" },
+        { clue: "Moving through water", answer: "swimming" },
+        { clue: "Traveling on two wheels", answer: "riding a bike" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(hobbyClues, rng);
+        q.push(createTyping("vocab_g2", "hobbies_sports_g2", data.clue + ":", data.answer));
+      }
+      return q;
+    },
+    community_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const placeClues = [
+        { place: "school", clue: "Place where you learn from teachers" },
+        { place: "hospital", clue: "Place where doctors help sick people" },
+        { place: "library", clue: "Place where you borrow books" },
+        { place: "park", clue: "Place with grass, trees, and playground" },
+        { place: "store", clue: "Place where you buy things" },
+        { place: "church", clue: "Place of worship" },
+        { place: "police station", clue: "Place where police officers work" },
+        { place: "fire station", clue: "Place where firefighters work" },
+      ];
+      const wrongPlaces = ["car", "table", "flower", "pencil", "blue", "fast"];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(placeClues, rng);
+        const wrong = shuffle(wrongPlaces, rng).slice(0, 3);
+        q.push(createMCQ("vocab_g2", "community_g2", data.clue + ":", data.place, wrong));
+      }
+      return q;
+    },
+    community_g2_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const placeClues = [
+        { clue: "Place where you learn", answer: "school" },
+        { clue: "Place where doctors help people", answer: "hospital" },
+        { clue: "Place where you borrow books", answer: "library" },
+        { clue: "Place with a playground", answer: "park" },
+        { clue: "Place where you buy things", answer: "store" },
+        { clue: "Place for religious services", answer: "church" },
+        { clue: "Place where police officers work", answer: "police station" },
+        { clue: "Place where firefighters work", answer: "fire station" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(placeClues, rng);
+        q.push(createTyping("vocab_g2", "community_g2", data.clue + ":", data.answer));
+      }
+      return q;
+    },
   },
 };
 
