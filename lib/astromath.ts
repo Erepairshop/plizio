@@ -34,7 +34,10 @@ export type GameType = "orbit-quiz" | "star-match" | "gravity-sort" | "black-hol
   | "word-field-explorer"
   | "plural-family-explorer" | "separable-verb-explorer" | "comparison-explorer"
   | "sentence-parts-explorer" | "tense-timeline-explorer" | "past-speech-explorer"
-  | "spelling-k3-explorer" | "punctuation-explorer";
+  | "spelling-k3-explorer" | "punctuation-explorer"
+  | "kasus-explorer" | "kasus2-explorer" | "tense-explorer-k4"
+  | "word-class-explorer-k4" | "sentence-part-explorer-k4" | "clause-explorer"
+  | "verb-explorer-k4" | "spelling-explorer-k4" | "review-explorer-k4";
 export type Lang = "en" | "hu" | "de" | "ro";
 
 export interface L10n { en: string; hu: string; de: string; ro: string }
