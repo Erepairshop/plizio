@@ -1489,6 +1489,175 @@ export const G2_Generators = {
       }
       return q;
     },
+    question_words_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const questionWords = [
+        { word: "who", example: "___ is your best friend?", meaning: "asking about a person" },
+        { word: "what", example: "___ is your favorite color?", meaning: "asking about a thing" },
+        { word: "where", example: "___ do you live?", meaning: "asking about a place" },
+        { word: "when", example: "___ is your birthday?", meaning: "asking about time" },
+        { word: "why", example: "___ do you like ice cream?", meaning: "asking for a reason" },
+        { word: "how", example: "___ are you today?", meaning: "asking about manner or condition" },
+      ];
+      const allWords = questionWords.map(q => q.word);
+      for (let i = 0; i < 20; i++) {
+        const data = pick(questionWords, rng);
+        const wrong = shuffle(allWords.filter(w => w !== data.word), rng).slice(0, 3);
+        q.push(createMCQ("pos_g2", "question_words_g2",
+          `Complete the question: "${data.example}"`, data.word, wrong));
+      }
+      return q;
+    },
+    question_words_g2_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const questionExamples = [
+        { example: "___ is your name?", answer: "what" },
+        { example: "___ do you live?", answer: "where" },
+        { example: "___ is your birthday?", answer: "when" },
+        { example: "___ is your best friend?", answer: "who" },
+        { example: "___ do you like pizza?", answer: "why" },
+        { example: "___ are you?", answer: "how" },
+        { example: "___ is your favorite animal?", answer: "what" },
+        { example: "___ do you go to school?", answer: "where" },
+        { example: "___ do you wake up?", answer: "when" },
+        { example: "___ is your teacher?", answer: "who" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(questionExamples, rng);
+        q.push(createTyping("pos_g2", "question_words_g2",
+          `Complete: "${data.example}"`, data.answer));
+      }
+      return q;
+    },
+    conjunctions_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const conjunctionData = [
+        { word: "and", sentence: "I like cats ___ dogs.", meaning: "connects two similar ideas" },
+        { word: "but", sentence: "She likes soccer ___ she doesn't like basketball.", meaning: "shows contrast" },
+        { word: "or", sentence: "Do you want coffee ___ tea?", meaning: "shows choice" },
+        { word: "because", sentence: "I was tired ___ I stayed home.", meaning: "gives a reason" },
+        { word: "so", sentence: "It was raining ___ we stayed inside.", meaning: "shows result" },
+      ];
+      const allConjunctions = conjunctionData.map(c => c.word);
+      for (let i = 0; i < 20; i++) {
+        const data = pick(conjunctionData, rng);
+        const wrong = shuffle(allConjunctions.filter(w => w !== data.word), rng).slice(0, 3);
+        q.push(createMCQ("pos_g2", "conjunctions_g2",
+          `Complete: "${data.sentence}"`, data.word, wrong));
+      }
+      return q;
+    },
+    conjunctions_g2_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const conjunctionExamples = [
+        { sentence: "I like apples ___ oranges.", answer: "and" },
+        { sentence: "She is tall ___ her brother is short.", answer: "but" },
+        { sentence: "Do you want milk ___ juice?", answer: "or" },
+        { sentence: "I was happy ___ I won the game.", answer: "because" },
+        { sentence: "It was cold ___ we wore coats.", answer: "so" },
+        { sentence: "You can read ___ watch TV.", answer: "or" },
+        { sentence: "He wanted to go out ___ it was raining.", answer: "but" },
+        { sentence: "She ran fast ___ she could catch the ball.", answer: "so" },
+        { sentence: "We went to the park ___ played soccer ___ ate ice cream.", answer: "and" },
+        { sentence: "I don't like math ___ I do like science.", answer: "but" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(conjunctionExamples, rng);
+        q.push(createTyping("pos_g2", "conjunctions_g2",
+          `Complete: "${data.sentence}"`, data.answer));
+      }
+      return q;
+    },
+    word_families_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const familyData = [
+        { root: "play", words: ["play", "plays", "playing", "played", "player"] },
+        { root: "walk", words: ["walk", "walks", "walking", "walked", "walker"] },
+        { root: "run", words: ["run", "runs", "running", "ran", "runner"] },
+        { root: "jump", words: ["jump", "jumps", "jumping", "jumped", "jumper"] },
+        { root: "teach", words: ["teach", "teaches", "teaching", "taught", "teacher"] },
+        { root: "build", words: ["build", "builds", "building", "built", "builder"] },
+        { root: "write", words: ["write", "writes", "writing", "wrote", "writer"] },
+        { root: "sing", words: ["sing", "sings", "singing", "sang", "singer"] },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const family = pick(familyData, rng);
+        const word = pick(family.words, rng);
+        const others = family.words.filter(w => w !== word);
+        const wrong = shuffle(others, rng).slice(0, 3);
+        q.push(createMCQ("pos_g2", "word_families_g2",
+          `Which word is in the family of '${family.root}'?`, pick(others, rng), wrong));
+      }
+      return q;
+    },
+    word_families_g2_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const familyData = [
+        { root: "play", examples: ["play", "playing", "played", "player"] },
+        { root: "walk", examples: ["walk", "walking", "walked", "walker"] },
+        { root: "run", examples: ["run", "running", "ran", "runner"] },
+        { root: "jump", examples: ["jump", "jumping", "jumped", "jumper"] },
+        { root: "teach", examples: ["teach", "teaching", "taught", "teacher"] },
+        { root: "build", examples: ["build", "building", "built", "builder"] },
+        { root: "write", examples: ["write", "writing", "wrote", "writer"] },
+        { root: "sing", examples: ["sing", "singing", "sang", "singer"] },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const family = pick(familyData, rng);
+        const clue = pick(family.examples, rng);
+        q.push(createTyping("pos_g2", "word_families_g2",
+          `Name another form in the word family of '${family.root}':`, pick(family.examples, rng)));
+      }
+      return q;
+    },
+    sentence_order_g2: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { words: ["happy", "is", "She"], correct: "She is happy", wrong: ["Is happy she", "Happy she is", "She happy is"] },
+        { words: ["to", "likes", "He", "read"], correct: "He likes to read", wrong: ["He to read likes", "Likes he to read", "To read he likes"] },
+        { words: ["school", "go", "We", "to"], correct: "We go to school", wrong: ["Go we to school", "School we go to", "To school we go"] },
+        { words: ["cat", "a", "have", "I"], correct: "I have a cat", wrong: ["Have I a cat", "A cat I have", "I cat have a"] },
+        { words: ["pizza", "likes", "Tom", "eating"], correct: "Tom likes eating pizza", wrong: ["Eating likes Tom pizza", "Likes Tom eating pizza", "Tom eating pizza likes"] },
+        { words: ["run", "can", "fast", "Dogs"], correct: "Dogs can run fast", wrong: ["Can dogs run fast", "Run can dogs fast", "Dogs fast run can"] },
+        { words: ["beautiful", "is", "day", "The"], correct: "The day is beautiful", wrong: ["Is the day beautiful", "Beautiful the day is", "The is day beautiful"] },
+        { words: ["swimming", "like", "They", "pool", "the", "in"], correct: "They like swimming in the pool", wrong: ["Like they swimming pool in the", "They pool like swimming in the", "In the pool they like swimming"] },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(sentenceData, rng);
+        q.push(createMCQ("pos_g2", "sentence_order_g2",
+          `Which word order is CORRECT?`, data.correct, data.wrong));
+      }
+      return q;
+    },
+    sentence_order_g2_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sentenceData = [
+        { scrambled: "happy / is / She", correct: "She is happy" },
+        { scrambled: "read / to / likes / He", correct: "He likes to read" },
+        { scrambled: "school / to / go / We", correct: "We go to school" },
+        { scrambled: "cat / a / have / I", correct: "I have a cat" },
+        { scrambled: "pizza / eating / likes / Tom", correct: "Tom likes eating pizza" },
+        { scrambled: "fast / run / can / Dogs", correct: "Dogs can run fast" },
+        { scrambled: "beautiful / is / day / The", correct: "The day is beautiful" },
+        { scrambled: "pool / the / in / swimming / like / They", correct: "They like swimming in the pool" },
+        { scrambled: "morning / go / I / school / to / every", correct: "I go to school every morning" },
+        { scrambled: "likes / basketball / play / He / to", correct: "He likes to play basketball" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(sentenceData, rng);
+        q.push(createTyping("pos_g2", "sentence_order_g2",
+          `Put in correct order: "${data.scrambled}"`, data.correct));
+      }
+      return q;
+    },
   },
   sentences_g2: {
     simple_compound_g2: (seed?: number) => {
