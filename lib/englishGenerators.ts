@@ -7802,6 +7802,275 @@ export const G6_Generators = {
         q.push(createTyping("punctuation_g6", "punct_effect_g6", `What effect does the ${data.mark} create?`, data.effect));
       }
       return q;
+    },
+    debate_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const debateData = [
+        { term: "claim", definition: "statement presented as truth in a debate" },
+        { term: "counterclaim", definition: "opposing argument to a claim" },
+        { term: "rebuttal", definition: "response that challenges an argument" },
+        { term: "perspective", definition: "point of view or standpoint" },
+        { term: "bias", definition: "unfair preference for one side" },
+        { term: "evidence", definition: "facts supporting an argument" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(debateData, rng);
+        const wrong = debateData.filter(d => d.term !== data.term).map(d => d.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g6", "debate_g6", `What is a ${data.term}?`, data.definition, wrong));
+      }
+      return q;
+    },
+    literature_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const litData = [
+        { term: "narrator", definition: "person telling the story" },
+        { term: "protagonist", definition: "main character" },
+        { term: "antagonist", definition: "character opposing the protagonist" },
+        { term: "theme", definition: "central idea of a story" },
+        { term: "plot", definition: "sequence of events in a story" },
+        { term: "foreshadowing", definition: "hint of something to come later" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(litData, rng);
+        const wrong = litData.filter(l => l.term !== data.term).map(l => l.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g6", "literature_g6", `What is the ${data.term}?`, data.definition, wrong));
+      }
+      return q;
+    },
+    science_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sciData = [
+        { term: "cell", definition: "smallest living unit of an organism" },
+        { term: "organism", definition: "living thing" },
+        { term: "atom", definition: "smallest unit of matter" },
+        { term: "force", definition: "push or pull on an object" },
+        { term: "variable", definition: "factor that can change in an experiment" },
+        { term: "hypothesis", definition: "prediction or educated guess" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(sciData, rng);
+        const wrong = sciData.filter(s => s.term !== data.term).map(s => s.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g6", "science_g6", `What is a ${data.term}?`, data.definition, wrong));
+      }
+      return q;
+    },
+    social_studies_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const ssData = [
+        { term: "civilization", definition: "advanced society with cities and government" },
+        { term: "trade route", definition: "path used for buying and selling goods" },
+        { term: "democracy", definition: "government by the people" },
+        { term: "republic", definition: "government where power rests with citizens" },
+        { term: "monarchy", definition: "government ruled by a king or queen" },
+        { term: "culture", definition: "beliefs, customs, and way of life" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(ssData, rng);
+        const wrong = ssData.filter(s => s.term !== data.term).map(s => s.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g6", "social_studies_g6", `What is a ${data.term}?`, data.definition, wrong));
+      }
+      return q;
+    },
+    formal_writing_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const fwData = [
+        { term: "thesis", definition: "main argument in an essay" },
+        { term: "paragraph", definition: "group of sentences about one idea" },
+        { term: "transition", definition: "word/phrase connecting ideas" },
+        { term: "evidence", definition: "facts supporting a claim" },
+        { term: "citation", definition: "reference to a source" },
+        { term: "topic sentence", definition: "main idea of a paragraph" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(fwData, rng);
+        const wrong = fwData.filter(f => f.term !== data.term).map(f => f.definition).slice(0, 3);
+        q.push(createMCQ("vocab_g6", "formal_writing_g6", `What is a ${data.term}?`, data.definition, wrong));
+      }
+      return q;
+    },
+    word_nuance_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const nuanceData = [
+        { slow: "walk", fast: "stride", tired: "trudge", casual: "stroll" },
+        { weak: "whisper", normal: "speak", loud: "shout", harsh: "yell" },
+        { nervous: "fidget", tired: "slump", angry: "stomp", happy: "bounce" },
+        { little: "glance", normal: "look", intense: "stare", curious: "peek" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(nuanceData, rng);
+        const words = Object.values(data);
+        const correct = pick(words, rng);
+        const wrong = words.filter(w => w !== correct).slice(0, 3);
+        q.push(createMCQ("vocab_g6", "word_nuance_g6", `Which word means "move slowly and heavily"?`, "trudge", ["walk", "stride", "stroll"]));
+      }
+      return q;
+    },
+    etymology_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const etymData = [
+        { word: "psychology", origin: "Greek", parts: "psyche (mind) + logos (study)" },
+        { word: "telephone", origin: "Greek", parts: "tele (far) + phone (sound)" },
+        { word: "agriculture", origin: "Latin", parts: "ager (field) + cultura (cultivation)" },
+        { word: "birthday", origin: "Old English", parts: "birth (origin) + day (24 hours)" },
+        { word: "understand", origin: "Old English", parts: "under (beneath) + stand (position)" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(etymData, rng);
+        q.push(createMCQ("vocab_g6", "etymology_g6", `"${data.word}" comes from ${data.origin}. True or false?`, "true", ["false", "unknown", "mixed"]));
+      }
+      return q;
+    },
+    rhetorical_g6: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const rhetoData = [
+        { device: "rhetorical question", example: "Don't you want to succeed?", effect: "persuade without expecting answer" },
+        { device: "repetition", example: "Yes, yes, YES!", effect: "emphasize importance" },
+        { device: "appeal to emotion", example: "Think of the children!", effect: "use feelings instead of logic" },
+        { device: "hyperbole", example: "I'm dying of hunger!", effect: "exaggerate for effect" },
+        { device: "alliteration", example: "Pretty pink petals", effect: "repeat beginning sounds" },
+      ];
+      for (let i = 0; i < 20; i++) {
+        const data = pick(rhetoData, rng);
+        const wrong = rhetoData.filter(r => r.device !== data.device).map(r => r.device).slice(0, 3);
+        q.push(createMCQ("vocab_g6", "rhetorical_g6", `What device is "${data.example}"?`, data.device, wrong));
+      }
+      return q;
+    },
+    debate_g6_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const debateQ = [
+        { question: "Statement presented as truth:", answer: "claim" },
+        { question: "Opposing argument to a claim:", answer: "counterclaim" },
+        { question: "Response that challenges an argument:", answer: "rebuttal" },
+        { question: "Point of view or standpoint:", answer: "perspective" },
+        { question: "Unfair preference for one side:", answer: "bias" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(debateQ, rng);
+        q.push(createTyping("vocab_g6", "debate_g6", `${data.question}`, data.answer));
+      }
+      return q;
+    },
+    literature_g6_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const litQ = [
+        { question: "Person telling the story:", answer: "narrator" },
+        { question: "Main character:", answer: "protagonist" },
+        { question: "Character opposing the protagonist:", answer: "antagonist" },
+        { question: "Central idea of a story:", answer: "theme" },
+        { question: "Sequence of events in a story:", answer: "plot" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(litQ, rng);
+        q.push(createTyping("vocab_g6", "literature_g6", `${data.question}`, data.answer));
+      }
+      return q;
+    },
+    science_g6_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const sciQ = [
+        { question: "Smallest living unit of an organism:", answer: "cell" },
+        { question: "Living thing:", answer: "organism" },
+        { question: "Smallest unit of matter:", answer: "atom" },
+        { question: "Push or pull on an object:", answer: "force" },
+        { question: "Factor that can change in an experiment:", answer: "variable" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(sciQ, rng);
+        q.push(createTyping("vocab_g6", "science_g6", `${data.question}`, data.answer));
+      }
+      return q;
+    },
+    social_studies_g6_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const ssQ = [
+        { question: "Advanced society with cities and government:", answer: "civilization" },
+        { question: "Path used for buying and selling goods:", answer: "trade route" },
+        { question: "Government by the people:", answer: "democracy" },
+        { question: "Government where power rests with citizens:", answer: "republic" },
+        { question: "Government ruled by a king or queen:", answer: "monarchy" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(ssQ, rng);
+        q.push(createTyping("vocab_g6", "social_studies_g6", `${data.question}`, data.answer));
+      }
+      return q;
+    },
+    formal_writing_g6_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const fwQ = [
+        { question: "Main argument in an essay:", answer: "thesis" },
+        { question: "Group of sentences about one idea:", answer: "paragraph" },
+        { question: "Word/phrase connecting ideas:", answer: "transition" },
+        { question: "Facts supporting a claim:", answer: "evidence" },
+        { question: "Reference to a source:", answer: "citation" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(fwQ, rng);
+        q.push(createTyping("vocab_g6", "formal_writing_g6", `${data.question}`, data.answer));
+      }
+      return q;
+    },
+    word_nuance_g6_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const nuanceQ = [
+        { question: "Move slowly and heavily:", answer: "trudge" },
+        { question: "Move with confident steps:", answer: "stride" },
+        { question: "Walk in a relaxed way:", answer: "stroll" },
+        { question: "Speak in a very soft voice:", answer: "whisper" },
+        { question: "Speak in a very loud voice:", answer: "shout" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(nuanceQ, rng);
+        q.push(createTyping("vocab_g6", "word_nuance_g6", `${data.question}`, data.answer));
+      }
+      return q;
+    },
+    etymology_g6_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const etymQ = [
+        { word: "psychology", origin: "Greek" },
+        { word: "telephone", origin: "Greek" },
+        { word: "agriculture", origin: "Latin" },
+        { word: "birthday", origin: "Old English" },
+        { word: "understand", origin: "Old English" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(etymQ, rng);
+        q.push(createTyping("vocab_g6", "etymology_g6", `"${data.word}" comes from which language origin?`, data.origin));
+      }
+      return q;
+    },
+    rhetorical_g6_typing: (seed?: number) => {
+      const rng = seed !== undefined ? mulberry32(seed) : Math.random;
+      const q: CurriculumQuestion[] = [];
+      const rhetoQ = [
+        { device: "rhetorical question", example: "Don't you want to succeed?" },
+        { device: "repetition", example: "Yes, yes, YES!" },
+        { device: "appeal to emotion", example: "Think of the children!" },
+        { device: "hyperbole", example: "I'm dying of hunger!" },
+        { device: "alliteration", example: "Pretty pink petals" },
+      ];
+      for (let i = 0; i < 15; i++) {
+        const data = pick(rhetoQ, rng);
+        q.push(createTyping("vocab_g6", "rhetorical_g6", `What device is used: "${data.example}"?`, data.device));
+      }
+      return q;
     }
   }
 };
